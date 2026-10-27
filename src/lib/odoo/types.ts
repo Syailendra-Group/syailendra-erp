@@ -1,5 +1,5 @@
 /**
- * types.ts — TypeScript Interfaces for Odoo 18 Models & JSON-RPC 2.0
+ * types.ts — Strict TypeScript Interfaces for Odoo 18 Models & JSON-RPC 2.0
  * Syailendra Group ERP
  */
 
@@ -11,7 +11,7 @@ export interface OdooConfig {
   apiKey?: string;
 }
 
-export interface JsonRpcPayload<T = any[]> {
+export interface JsonRpcPayload<T = unknown[]> {
   jsonrpc: "2.0";
   method: "call";
   params: {
@@ -22,7 +22,7 @@ export interface JsonRpcPayload<T = any[]> {
   id: number;
 }
 
-export interface JsonRpcResponse<T = any> {
+export interface JsonRpcResponse<T = unknown> {
   jsonrpc: "2.0";
   id: number;
   result?: T;
@@ -33,7 +33,7 @@ export interface JsonRpcResponse<T = any> {
       name?: string;
       debug?: string;
       message?: string;
-      arguments?: any[];
+      arguments?: unknown[];
     };
   };
 }

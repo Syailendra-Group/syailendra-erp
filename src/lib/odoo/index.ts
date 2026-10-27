@@ -2,7 +2,7 @@
  * index.ts — Unified Export Gateway for Syailendra Group Odoo Services
  */
 
-import { odooClient, OdooClient } from "./client";
+import { odooClient } from "./client";
 import { AttendanceService, CrmService, InventoryService, TraceabilityService } from "./models";
 
 export * from "./types";

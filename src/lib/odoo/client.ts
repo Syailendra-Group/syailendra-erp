@@ -23,13 +23,13 @@ export class OdooClient {
   /**
    * Execute raw JSON-RPC 2.0 POST call
    */
-  private async rpc<T = any>(
+  private async rpc<T = unknown>(
     service: "common" | "object",
     method: string,
-    args: any[]
+    args: unknown[]
   ): Promise<T> {
     const url = `${this.config.baseUrl}/jsonrpc`;
-    const payload: JsonRpcPayload = {
+    const payload: JsonRpcPayload<unknown[]> = {
       jsonrpc: "2.0",
       method: "call",
       params: {
@@ -53,7 +53,7 @@ export class OdooClient {
       throw new Error(`Odoo HTTP Error: ${res.status} ${res.statusText}`);
     }
 
-    const data: JsonRpcResponse<T> = await res.json();
+    const data: JsonRpcResponse<T> = (await res.json()) as JsonRpcResponse<T>;
     if (data.error) {
       const errMsg = data.error.data?.message || data.error.message || "Unknown Odoo RPC error";
       throw new Error(`Odoo RPC [${service}.${method}]: ${errMsg}`);
@@ -95,11 +95,11 @@ export class OdooClient {
   /**
    * Execute ORM method via object.execute_kw
    */
-  async executeKw<T = any>(
+  async executeKw<T = unknown>(
     model: string,
     method: string,
-    args: any[] = [],
-    kwargs: Record<string, any> = {}
+    args: unknown[] = [],
+    kwargs: Record<string, unknown> = {}
   ): Promise<T> {
     const uid = await this.authenticate();
     const secret = this.config.apiKey || this.config.password;
@@ -118,9 +118,9 @@ export class OdooClient {
   /**
    * Universal search_read query wrapper
    */
-  async searchRead<T = any>(
+  async searchRead<T = unknown>(
     model: string,
-    domain: any[] = [],
+    domain: unknown[] = [],
     fields: string[] = [],
     options: { offset?: number; limit?: number; order?: string } = {}
   ): Promise<T[]> {
@@ -135,14 +135,14 @@ export class OdooClient {
   /**
    * Create a new record in model
    */
-  async create<T = number>(model: string, values: Record<string, any>): Promise<T> {
+  async create<T = number>(model: string, values: Record<string, unknown>): Promise<T> {
     return this.executeKw<T>(model, "create", [values]);
   }
 
   /**
    * Update existing record(s) in model
    */
-  async write(model: string, ids: number[], values: Record<string, any>): Promise<boolean> {
+  async write(model: string, ids: number[], values: Record<string, unknown>): Promise<boolean> {
     return this.executeKw<boolean>(model, "write", [ids, values]);
   }
 

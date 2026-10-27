@@ -9,7 +9,6 @@ import {
   CrmStage,
   HrAttendance,
   HrEmployee,
-  ProductProduct,
   StockLot,
   StockMoveLine,
   StockPicking,
@@ -37,7 +36,7 @@ export class InventoryService {
   async getStockQuants(
     options: { limit?: number; productId?: number } = {}
   ): Promise<StockQuant[]> {
-    const domain: any[] = [["location_id.usage", "=", "internal"]];
+    const domain: unknown[] = [["location_id.usage", "=", "internal"]];
     if (options.productId) {
       domain.push(["product_id", "=", options.productId]);
     }
@@ -59,7 +58,7 @@ export class InventoryService {
       limit?: number;
     } = {}
   ): Promise<StockPicking[]> {
-    const domain: any[] = [];
+    const domain: unknown[] = [];
     if (options.typeCode) {
       domain.push(["picking_type_code", "=", options.typeCode]);
     }
@@ -88,7 +87,7 @@ export class InventoryService {
    * Validate a warehouse transfer directly (Done state)
    */
   async validateTransfer(pickingId: number): Promise<boolean> {
-    const res = await this.client.executeKw<boolean | Record<string, any>>(
+    const res = await this.client.executeKw<boolean | Record<string, unknown>>(
       "stock.picking",
       "button_validate",
       [pickingId]
@@ -170,7 +169,7 @@ export class AttendanceService {
    * Get attendance log history
    */
   async getAttendanceHistory(employeeId?: number, limit = 30): Promise<HrAttendance[]> {
-    const domain: any[] = [];
+    const domain: unknown[] = [];
     if (employeeId) {
       domain.push(["employee_id", "=", employeeId]);
     }

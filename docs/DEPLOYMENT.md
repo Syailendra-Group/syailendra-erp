@@ -1,10 +1,12 @@
 # DEPLOYMENT.md — Infrastructure & Release Playbook
+
 **Project:** ERP Syailendra Group  
 **Standard:** AI Developer Documentation Kit Standard
 
 ---
 
 ## 🏗️ 1. Infrastructure Architecture
+
 - **Host:** Ubuntu 24.04 (LXC Container VPS Dahono)
 - **Container Stack:**
   - `code-server`: VS Code Web IDE (Port 8443 ➔ Caddy HTTPS `code.octalectzz.my.id`)
@@ -15,6 +17,7 @@
 ---
 
 ## 🚀 2. Production Deployment Steps
+
 1. **Pull Latest Changes:**
    ```bash
    git pull origin main

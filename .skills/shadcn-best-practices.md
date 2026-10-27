@@ -7,12 +7,12 @@ description: Reviews shadcn/ui components for CVA patterns, composition with asC
 
 ## Quick Reference
 
-| Issue Type | Reference |
-|------------|-----------|
-| className in CVA, missing VariantProps, compound variants | [references/cva-patterns.md](references/cva-patterns.md) |
-| asChild without Slot, missing Context, component composition | [references/composition.md](references/composition.md) |
-| Missing focus-visible, aria-invalid, disabled states | [references/accessibility.md](references/accessibility.md) |
-| Missing data-slot, incorrect CSS targeting | [references/data-slot.md](references/data-slot.md) |
+| Issue Type                                                   | Reference                                                  |
+| ------------------------------------------------------------ | ---------------------------------------------------------- |
+| className in CVA, missing VariantProps, compound variants    | [references/cva-patterns.md](references/cva-patterns.md)   |
+| asChild without Slot, missing Context, component composition | [references/composition.md](references/composition.md)     |
+| Missing focus-visible, aria-invalid, disabled states         | [references/accessibility.md](references/accessibility.md) |
+| Missing data-slot, incorrect CSS targeting                   | [references/data-slot.md](references/data-slot.md)         |
 
 ## Review Checklist
 
@@ -35,7 +35,7 @@ Run these in order. **Do not draft user-facing findings until every gate passes*
 
 1. **Location evidence** — **Pass:** Each issue lists a repo path and either a line range or a short verbatim quote from the file you read (not from memory or diff-only guesswork).
 
-2. **Exemption check** — **Pass:** For each issue, you can state in one line why it is *not* covered by [Valid Patterns (Do NOT Flag)](#valid-patterns-do-not-flag).
+2. **Exemption check** — **Pass:** For each issue, you can state in one line why it is _not_ covered by [Valid Patterns (Do NOT Flag)](#valid-patterns-do-not-flag).
 
 3. **Context-sensitive claims** — **Pass:** For accessibility or Radix-related flags, you checked the file for imports/wrappers showing what actually runs (or you cite the concrete gap).
 
@@ -65,11 +65,13 @@ Apply these rules with appropriate context awareness:
 ## Library Convention Note
 
 shadcn/ui components are designed to be copied and modified. Code review should focus on:
+
 - Custom modifications made to copied components
 - Integration with application state/data
 - Accessibility in custom usage contexts
 
 Do NOT flag:
+
 - Standard shadcn component internals
 - Radix primitive usage patterns
 - Default variant implementations

@@ -55,22 +55,22 @@ description: >
 
 ## 2. Naming Conventions
 
-| Construct               | Convention              | Example                          |
-| ----------------------- | ----------------------- | -------------------------------- |
-| **Variable / Function** | `camelCase`             | `getUserName`, `isActive`        |
-| **Boolean variable**    | `camelCase` with prefix | `isLoading`, `hasAccess`, `canEdit` |
-| **Constant (module)**   | `UPPER_SNAKE_CASE`      | `MAX_RETRY_COUNT`, `API_BASE_URL`|
-| **Constant (local)**    | `camelCase`             | `const defaultTimeout = 3000`    |
-| **Class**               | `PascalCase`            | `UserService`, `HttpClient`      |
-| **Interface**           | `PascalCase`            | `UserProfile`, `ApiResponse`     |
-| **Type alias**          | `PascalCase`            | `UserId`, `Theme`                |
-| **Enum**                | `PascalCase`            | `Direction`, `HttpStatus`        |
-| **Enum member**         | `PascalCase`            | `Direction.Up`, `HttpStatus.Ok`  |
-| **Generic parameter**   | Single uppercase letter or descriptive `PascalCase` | `T`, `TKey`, `TValue` |
-| **File name**           | `kebab-case.ts`         | `user-service.ts`, `api-client.ts`|
-| **Test file name**      | `kebab-case.test.ts` or `kebab-case.spec.ts` | `user-service.test.ts` |
-| **React component file**| `PascalCase.tsx`        | `UserProfile.tsx`                |
-| **Private field**       | `camelCase` (no `_` prefix) | `private count: number`      |
+| Construct                | Convention                                          | Example                             |
+| ------------------------ | --------------------------------------------------- | ----------------------------------- |
+| **Variable / Function**  | `camelCase`                                         | `getUserName`, `isActive`           |
+| **Boolean variable**     | `camelCase` with prefix                             | `isLoading`, `hasAccess`, `canEdit` |
+| **Constant (module)**    | `UPPER_SNAKE_CASE`                                  | `MAX_RETRY_COUNT`, `API_BASE_URL`   |
+| **Constant (local)**     | `camelCase`                                         | `const defaultTimeout = 3000`       |
+| **Class**                | `PascalCase`                                        | `UserService`, `HttpClient`         |
+| **Interface**            | `PascalCase`                                        | `UserProfile`, `ApiResponse`        |
+| **Type alias**           | `PascalCase`                                        | `UserId`, `Theme`                   |
+| **Enum**                 | `PascalCase`                                        | `Direction`, `HttpStatus`           |
+| **Enum member**          | `PascalCase`                                        | `Direction.Up`, `HttpStatus.Ok`     |
+| **Generic parameter**    | Single uppercase letter or descriptive `PascalCase` | `T`, `TKey`, `TValue`               |
+| **File name**            | `kebab-case.ts`                                     | `user-service.ts`, `api-client.ts`  |
+| **Test file name**       | `kebab-case.test.ts` or `kebab-case.spec.ts`        | `user-service.test.ts`              |
+| **React component file** | `PascalCase.tsx`                                    | `UserProfile.tsx`                   |
+| **Private field**        | `camelCase` (no `_` prefix)                         | `private count: number`             |
 
 ### Additional Naming Rules
 
@@ -96,17 +96,17 @@ interface User {
 }
 
 // ✅ Good — use type for unions, intersections, mapped types
-type Status = 'active' | 'inactive' | 'suspended';
+type Status = "active" | "inactive" | "suspended";
 type Result<T> = Success<T> | Failure;
 ```
 
 ### When to Use `type` vs `interface`
 
-| Use `interface` when …                        | Use `type` when …                          |
-| ---------------------------------------------- | ------------------------------------------ |
-| Defining the shape of an object or class       | Creating union or intersection types       |
-| You want declaration merging                   | Using mapped / conditional types           |
-| Extending other interfaces                     | Aliasing primitive or tuple types          |
+| Use `interface` when …                   | Use `type` when …                    |
+| ---------------------------------------- | ------------------------------------ |
+| Defining the shape of an object or class | Creating union or intersection types |
+| You want declaration merging             | Using mapped / conditional types     |
+| Extending other interfaces               | Aliasing primitive or tuple types    |
 
 ### Rules
 
@@ -130,10 +130,10 @@ type Result<T> = Success<T> | Failure;
 ```typescript
 // ✅ Good — string enum for readability and debuggability
 enum Direction {
-  Up = 'UP',
-  Down = 'DOWN',
-  Left = 'LEFT',
-  Right = 'RIGHT',
+  Up = "UP",
+  Down = "DOWN",
+  Left = "LEFT",
+  Right = "RIGHT",
 }
 ```
 
@@ -142,14 +142,14 @@ enum Direction {
 ```typescript
 // ✅ Good — const enum for zero-runtime-cost enums (no reverse mapping needed)
 const enum HttpMethod {
-  Get = 'GET',
-  Post = 'POST',
-  Put = 'PUT',
-  Delete = 'DELETE',
+  Get = "GET",
+  Post = "POST",
+  Put = "PUT",
+  Delete = "DELETE",
 }
 
 // ✅ Also good — string literal union (simpler, tree-shakeable)
-type HttpMethod = 'GET' | 'POST' | 'PUT' | 'DELETE';
+type HttpMethod = "GET" | "POST" | "PUT" | "DELETE";
 ```
 
 ### Rules
@@ -166,11 +166,11 @@ type HttpMethod = 'GET' | 'POST' | 'PUT' | 'DELETE';
 ```typescript
 // ✅ Good
 const maxRetries = 3;
-const baseUrl = 'https://api.example.com';
+const baseUrl = "https://api.example.com";
 let currentAttempt = 0;
 
 // ❌ Bad — using var
-var legacyValue = 'old';
+var legacyValue = "old";
 
 // ❌ Bad — using let when value never changes
 let neverReassigned = 42;
@@ -194,9 +194,9 @@ let neverReassigned = 42;
 - Use `as const` for immutable literal objects / arrays:
   ```typescript
   const ROUTES = {
-    home: '/',
-    about: '/about',
-    contact: '/contact',
+    home: "/",
+    about: "/about",
+    contact: "/contact",
   } as const;
   ```
 
@@ -321,7 +321,7 @@ export type { Config } from './parse-config';
 - Use default exports only for React components if the project convention requires it.
 - Use `import type` / `export type` for type-only imports to help bundlers tree-shake:
   ```typescript
-  import type { User } from './user';
+  import type { User } from "./user";
   ```
 - Group and order imports:
   1. Node built-ins (`node:fs`, `node:path`)
@@ -374,10 +374,10 @@ class AppError extends Error {
   constructor(
     message: string,
     public readonly code: string,
-    public readonly statusCode: number = 500,
+    public readonly statusCode: number = 500
   ) {
     super(message);
-    this.name = 'AppError';
+    this.name = "AppError";
   }
 }
 
@@ -388,8 +388,8 @@ function parseJson<T>(raw: string): T {
   } catch (error) {
     throw new AppError(
       `Failed to parse JSON: ${error instanceof Error ? error.message : String(error)}`,
-      'PARSE_ERROR',
-      400,
+      "PARSE_ERROR",
+      400
     );
   }
 }
@@ -445,7 +445,7 @@ async function fetchDashboard(userId: string): Promise<Dashboard> {
 
 ## 12. Comments & Documentation
 
-```typescript
+````typescript
 /**
  * Calculate the compound interest for a principal amount.
  *
@@ -461,15 +461,10 @@ async function fetchDashboard(userId: string): Promise<Dashboard> {
  * // total ≈ 1647.01
  * ```
  */
-function compoundInterest(
-  principal: number,
-  rate: number,
-  times: number,
-  years: number,
-): number {
+function compoundInterest(principal: number, rate: number, times: number, years: number): number {
   return principal * Math.pow(1 + rate / times, times * years);
 }
-```
+````
 
 ### Rules
 
@@ -510,13 +505,13 @@ if (isValid) process();
 
 // ✅ Good — trailing comma
 const config = {
-  host: 'localhost',
+  host: "localhost",
   port: 3000,
   debug: true,
 };
 
 // ✅ Good — consistent object shorthand
-const name = 'Alice';
+const name = "Alice";
 const user = { name, age: 30 };
 ```
 
@@ -545,13 +540,13 @@ const user = { name, age: 30 };
 const city = user?.address?.city;
 
 // ✅ Good — nullish coalescing
-const displayName = user.nickname ?? user.name ?? 'Anonymous';
+const displayName = user.nickname ?? user.name ?? "Anonymous";
 
 // ✅ Good — explicit null checks for critical paths
 function getUser(id: string): User {
   const user = repository.findById(id);
   if (user === undefined) {
-    throw new AppError(`User not found: ${id}`, 'USER_NOT_FOUND', 404);
+    throw new AppError(`User not found: ${id}`, "USER_NOT_FOUND", 404);
   }
   return user;
 }
@@ -574,30 +569,25 @@ function getUser(id: string): User {
 ```typescript
 // ✅ Good — type guard function
 function isUser(value: unknown): value is User {
-  return (
-    typeof value === 'object' &&
-    value !== null &&
-    'id' in value &&
-    'name' in value
-  );
+  return typeof value === "object" && value !== null && "id" in value && "name" in value;
 }
 
 // ✅ Good — discriminated union
 interface Success<T> {
-  kind: 'success';
+  kind: "success";
   data: T;
 }
 interface Failure {
-  kind: 'failure';
+  kind: "failure";
   error: Error;
 }
 type Result<T> = Success<T> | Failure;
 
 function handleResult<T>(result: Result<T>): T {
   switch (result.kind) {
-    case 'success':
+    case "success":
       return result.data;
-    case 'failure':
+    case "failure":
       throw result.error;
   }
 }
@@ -614,7 +604,7 @@ function handleResult<T>(result: Result<T>): T {
   ```typescript
   const palette = {
     red: [255, 0, 0],
-    green: '#00ff00',
+    green: "#00ff00",
   } satisfies Record<string, string | number[]>;
   ```
 
@@ -667,15 +657,15 @@ export function UserCard({ user, onSelect }: UserCardProps): React.ReactElement 
 
 ```typescript
 // ✅ Good — descriptive test structure
-describe('UserService', () => {
-  describe('findById', () => {
-    it('should return the user when the id exists', async () => {
-      const user = await service.findById('user-1');
-      expect(user).toEqual(expect.objectContaining({ id: 'user-1' }));
+describe("UserService", () => {
+  describe("findById", () => {
+    it("should return the user when the id exists", async () => {
+      const user = await service.findById("user-1");
+      expect(user).toEqual(expect.objectContaining({ id: "user-1" }));
     });
 
-    it('should return undefined when the id does not exist', async () => {
-      const user = await service.findById('non-existent');
+    it("should return undefined when the id does not exist", async () => {
+      const user = await service.findById("non-existent");
       expect(user).toBeUndefined();
     });
   });
@@ -724,24 +714,24 @@ describe('UserService', () => {
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true,
     "noUncheckedIndexedAccess": true,
-    "exactOptionalPropertyTypes": true
-  }
+    "exactOptionalPropertyTypes": true,
+  },
 }
 ```
 
 ### Recommended ESLint Rules
 
-| Rule                                     | Setting   |
-| ---------------------------------------- | --------- |
-| `@typescript-eslint/no-explicit-any`     | `error`   |
-| `@typescript-eslint/explicit-function-return-type` | `warn` (for exported functions) |
-| `@typescript-eslint/no-unused-vars`      | `error`   |
-| `@typescript-eslint/consistent-type-imports` | `error` |
-| `@typescript-eslint/no-non-null-assertion` | `warn`  |
-| `@typescript-eslint/prefer-nullish-coalescing` | `error` |
-| `@typescript-eslint/prefer-optional-chain` | `error` |
-| `@typescript-eslint/strict-boolean-expressions` | `warn` |
-| `@typescript-eslint/naming-convention`   | `error` (configured per construct) |
+| Rule                                               | Setting                            |
+| -------------------------------------------------- | ---------------------------------- |
+| `@typescript-eslint/no-explicit-any`               | `error`                            |
+| `@typescript-eslint/explicit-function-return-type` | `warn` (for exported functions)    |
+| `@typescript-eslint/no-unused-vars`                | `error`                            |
+| `@typescript-eslint/consistent-type-imports`       | `error`                            |
+| `@typescript-eslint/no-non-null-assertion`         | `warn`                             |
+| `@typescript-eslint/prefer-nullish-coalescing`     | `error`                            |
+| `@typescript-eslint/prefer-optional-chain`         | `error`                            |
+| `@typescript-eslint/strict-boolean-expressions`    | `warn`                             |
+| `@typescript-eslint/naming-convention`             | `error` (configured per construct) |
 
 ---
 
@@ -753,19 +743,19 @@ Simply mention **TypeScript** in your conversation — the skill activates autom
 
 **Example prompts:**
 
-| Prompt | Skill Response |
-|---|---|
+| Prompt                                                    | Skill Response                                                                                       |
+| --------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
 | "Write a TypeScript function to merge two objects deeply" | Generates a fully typed, standards-compliant `deepMerge<T, U>()` function following all rules above. |
-| "Review my TypeScript code for style issues" | Analyses the provided code against this guide and suggests improvements. |
-| "Convert this JavaScript to TypeScript" | Converts code, adds strict types, interfaces, and follows all naming / formatting conventions. |
-| "What's the TypeScript best practice for error handling?" | Explains the Result pattern, custom error classes, and typed catch blocks per §10. |
-| "Create a TypeScript React component for a data table" | Generates a well-typed functional component following §16 React rules with proper props interface. |
-| "Set up a new TypeScript project" | Provides `tsconfig.json`, ESLint config, Prettier config, and project structure following §18. |
+| "Review my TypeScript code for style issues"              | Analyses the provided code against this guide and suggests improvements.                             |
+| "Convert this JavaScript to TypeScript"                   | Converts code, adds strict types, interfaces, and follows all naming / formatting conventions.       |
+| "What's the TypeScript best practice for error handling?" | Explains the Result pattern, custom error classes, and typed catch blocks per §10.                   |
+| "Create a TypeScript React component for a data table"    | Generates a well-typed functional component following §16 React rules with proper props interface.   |
+| "Set up a new TypeScript project"                         | Provides `tsconfig.json`, ESLint config, Prettier config, and project structure following §18.       |
 
 ### Inline Rule References
 
 You can ask about any specific section:
 
-- *"Explain TypeScript naming conventions"* → References §2
-- *"How should I handle null in TypeScript?"* → References §14
-- *"Show me TypeScript generic best practices"* → References §9
+- _"Explain TypeScript naming conventions"_ → References §2
+- _"How should I handle null in TypeScript?"_ → References §14
+- _"Show me TypeScript generic best practices"_ → References §9

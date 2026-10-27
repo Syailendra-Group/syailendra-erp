@@ -1,4 +1,5 @@
 # RULES.md — Operational & Development Guidelines
+
 **Syailendra Group ERP Project Standards**
 
 1. **Commit & Pull Discipline:**

@@ -3,7 +3,7 @@
 import * as React from "react";
 import { Languages } from "lucide-react";
 import { useLocale } from "next-intl";
-import { usePathname, useRouter } from "next/navigation";
+import { usePathname, useRouter } from "@/i18n/navigation";
 import { Button } from "@/components/ui/button";
 import {
   DropdownMenu,
@@ -17,14 +17,9 @@ export function LanguageToggle(): React.ReactElement {
   const router = useRouter();
   const pathname = usePathname();
 
-  const handleLanguageChange = (nextLocale: string) => {
-    // If switching to en from default (id)
-    if (nextLocale === "en" && !pathname.startsWith("/en")) {
-      router.push(`/en${pathname}`);
-    } else if (nextLocale === "id" && pathname.startsWith("/en")) {
-      const unprefixed = pathname.replace(/^\/en/, "") || "/";
-      router.push(unprefixed);
-    }
+  const handleLanguageChange = (nextLocale: "id" | "en") => {
+    // next-intl useRouter automatically handles switching locale with current pathname
+    router.replace(pathname, { locale: nextLocale });
   };
 
   return (

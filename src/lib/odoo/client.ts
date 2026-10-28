@@ -14,8 +14,8 @@ export class OdooClient {
     this.config = {
       baseUrl: customConfig?.baseUrl || process.env.ODOO_BASE_URL || "http://10.10.0.238:8069",
       db: customConfig?.db || process.env.ODOO_DB || "odoo_dev",
-      username: customConfig?.username || process.env.ODOO_USERNAME || "octalectzz@gmail.com",
-      password: customConfig?.password || process.env.ODOO_PASSWORD || "OctaLectzz0410?",
+      username: customConfig?.username || process.env.ODOO_USERNAME || "",
+      password: customConfig?.password || process.env.ODOO_PASSWORD || "",
       apiKey: customConfig?.apiKey || process.env.ODOO_API_KEY,
     };
   }

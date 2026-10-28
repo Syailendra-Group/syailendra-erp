@@ -9,7 +9,7 @@ import { toast } from "sonner";
 import { Loader2, LogIn } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
-import { Label } from "@/components/ui/label";
+import { Field, FieldError, FieldGroup, FieldLabel } from "@/components/ui/field";
 import { PasswordInput } from "@/components/form/password-input";
 import { loginSchema, type LoginFormValues } from "@/schemas/auth";
 import { loginAction } from "./actions";
@@ -58,40 +58,38 @@ export function LoginForm({
 
   return (
     <form onSubmit={handleSubmit(onSubmit)} className="space-y-4">
-      {/* Email input field */}
-      <div className="space-y-2">
-        <Label htmlFor="email" className="text-xs font-semibold">
-          {tAuth("fields.email")}
-        </Label>
-        <Input
-          id="email"
-          type="email"
-          placeholder={tAuth("fields.email_placeholder")}
-          autoComplete="email"
-          disabled={isPending}
-          {...register("email")}
-        />
-        {errors.email && (
-          <p className="text-destructive text-xs font-medium">{errors.email.message}</p>
-        )}
-      </div>
+      <FieldGroup>
+        {/* Email Field with shadcn Field primitive */}
+        <Field data-invalid={!!errors.email}>
+          <FieldLabel htmlFor="email" className="text-xs font-semibold">
+            {tAuth("fields.email")}
+          </FieldLabel>
+          <Input
+            id="email"
+            type="email"
+            placeholder={tAuth("fields.email_placeholder")}
+            autoComplete="email"
+            disabled={isPending}
+            {...register("email")}
+          />
+          {errors.email && <FieldError>{errors.email.message}</FieldError>}
+        </Field>
 
-      {/* Password input field */}
-      <div className="space-y-2">
-        <Label htmlFor="password" className="text-xs font-semibold">
-          {tAuth("fields.password")}
-        </Label>
-        <PasswordInput
-          id="password"
-          placeholder={tAuth("fields.password_placeholder")}
-          autoComplete="current-password"
-          disabled={isPending}
-          {...register("password")}
-        />
-        {errors.password && (
-          <p className="text-destructive text-xs font-medium">{errors.password.message}</p>
-        )}
-      </div>
+        {/* Password Field with shadcn Field primitive & reusable PasswordInput */}
+        <Field data-invalid={!!errors.password}>
+          <FieldLabel htmlFor="password" className="text-xs font-semibold">
+            {tAuth("fields.password")}
+          </FieldLabel>
+          <PasswordInput
+            id="password"
+            placeholder={tAuth("fields.password_placeholder")}
+            autoComplete="current-password"
+            disabled={isPending}
+            {...register("password")}
+          />
+          {errors.password && <FieldError>{errors.password.message}</FieldError>}
+        </Field>
+      </FieldGroup>
 
       {/* Submit button */}
       <Button

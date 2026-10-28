@@ -4,11 +4,35 @@ import * as React from "react";
 import { type ColumnDef } from "@tanstack/react-table";
 import { Building, Mail, Phone } from "lucide-react";
 import { Badge } from "@/components/ui/badge";
+import { Checkbox } from "@/components/ui/checkbox";
 import { DataTableColumnHeader } from "@/components/data-table/column-header";
 import { DataTableRowActions } from "./row-actions";
 import type { EmployeeRecord } from "./actions";
 
 export const columns: ColumnDef<EmployeeRecord>[] = [
+  {
+    id: "select",
+    header: ({ table }) => (
+      <Checkbox
+        checked={
+          table.getIsAllPageRowsSelected() || (table.getIsSomePageRowsSelected() && "indeterminate")
+        }
+        onCheckedChange={(value) => table.toggleAllPageRowsSelected(!!value)}
+        aria-label="Select all"
+        className="translate-y-[2px]"
+      />
+    ),
+    cell: ({ row }) => (
+      <Checkbox
+        checked={row.getIsSelected()}
+        onCheckedChange={(value) => row.toggleSelected(!!value)}
+        aria-label="Select row"
+        className="translate-y-[2px]"
+      />
+    ),
+    enableSorting: false,
+    enableHiding: false,
+  },
   {
     accessorKey: "name",
     header: ({ column }) => <DataTableColumnHeader column={column} title="Nama Karyawan" />,
@@ -34,10 +58,15 @@ export const columns: ColumnDef<EmployeeRecord>[] = [
       const dept = row.original.department_id;
       return (
         <span className="text-muted-foreground flex items-center gap-1.5 text-xs">
-          <Building className="h-3.5 w-3.5 text-emerald-500" />
+          <Building className="text-primary h-3.5 w-3.5" />
           <span>{dept ? dept[1] : "Pusat"}</span>
         </span>
       );
+    },
+    filterFn: (row, id, value) => {
+      const dept = row.getValue(id) as [number, string] | false;
+      const deptName = dept ? dept[1] : "Pusat";
+      return value.includes(deptName);
     },
   },
   {
@@ -77,6 +106,10 @@ export const columns: ColumnDef<EmployeeRecord>[] = [
           </Badge>
         </div>
       );
+    },
+    filterFn: (row, id, value) => {
+      const activeStr = row.getValue(id) ? "true" : "false";
+      return value.includes(activeStr);
     },
   },
   {

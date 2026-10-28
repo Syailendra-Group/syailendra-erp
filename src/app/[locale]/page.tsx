@@ -20,7 +20,7 @@ export default function HomePage(): React.ReactElement {
         {/* Top bar controls */}
         <div className="bg-card flex items-center justify-between rounded-xl border p-4 shadow-xs">
           <div className="flex items-center gap-3">
-            <span className="rounded-lg border border-emerald-500/20 bg-emerald-500/10 p-2 text-emerald-600 dark:text-emerald-400">
+            <span className="border-primary/20 bg-primary/10 text-primary dark:text-primary rounded-lg border p-2">
               <Boxes className="h-5 w-5" />
             </span>
             <div>
@@ -39,12 +39,12 @@ export default function HomePage(): React.ReactElement {
           <CardHeader>
             <div className="flex items-center justify-between">
               <CardTitle className="flex items-center gap-2 text-base">
-                <ShieldCheck className="h-4 w-4 text-emerald-500" />
+                <ShieldCheck className="text-primary h-4 w-4" />
                 {tNav("tabs.inventory")} & i18n Status
               </CardTitle>
               <Badge
                 variant="outline"
-                className="border-emerald-500/30 bg-emerald-500/10 text-emerald-600 dark:text-emerald-400"
+                className="border-primary/20 bg-primary/10 text-primary dark:text-primary"
               >
                 Active
               </Badge>
@@ -59,9 +59,7 @@ export default function HomePage(): React.ReactElement {
                 <span className="text-muted-foreground block text-xs">
                   {tInventory("kpi.ready_transfers")}
                 </span>
-                <span className="text-xl font-bold text-emerald-600 dark:text-emerald-400">
-                  12 Batch
-                </span>
+                <span className="text-primary dark:text-primary text-xl font-bold">12 Batch</span>
               </div>
               <div className="bg-muted/40 rounded-lg border p-3">
                 <span className="text-muted-foreground block text-xs">
@@ -72,7 +70,7 @@ export default function HomePage(): React.ReactElement {
             </div>
 
             <div className="text-muted-foreground flex items-center justify-between border-t pt-2 text-xs">
-              <span className="flex items-center gap-1.5 font-medium text-emerald-600 dark:text-emerald-400">
+              <span className="text-primary dark:text-primary flex items-center gap-1.5 font-medium">
                 <CheckCircle2 className="h-3.5 w-3.5" />
                 {tCommon("status.success")}
               </span>

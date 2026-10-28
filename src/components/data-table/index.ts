@@ -1,3 +1,6 @@
 export * from "./column-header";
 export * from "./pagination";
 export * from "./view-options";
+export * from "./faceted-filter";
+export * from "./toolbar";
+export * from "./bulk-actions";

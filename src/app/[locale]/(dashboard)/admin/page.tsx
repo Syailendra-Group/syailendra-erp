@@ -25,8 +25,8 @@ export default function AdminOverviewPage(): React.ReactElement {
       value: "8 Personel",
       desc: "Odoo hr.employee",
       icon: UserCheck,
-      color: "text-emerald-500",
-      bg: "bg-emerald-500/10",
+      color: "text-primary",
+      bg: "bg-primary/10",
       href: "/admin/employees",
     },
     {
@@ -101,7 +101,7 @@ export default function AdminOverviewPage(): React.ReactElement {
         <Card className="shadow-xs">
           <CardHeader>
             <CardTitle className="flex items-center gap-2 text-sm font-bold">
-              <Building className="h-4 w-4 text-emerald-600" />
+              <Building className="text-primary h-4 w-4" />
               Identitas Legal & Profil Usaha
             </CardTitle>
             <CardDescription className="text-xs">
@@ -142,7 +142,7 @@ export default function AdminOverviewPage(): React.ReactElement {
                   Database: odoo_dev (Docker Internal)
                 </div>
               </div>
-              <Badge variant="outline" className="border-emerald-500/30 text-emerald-600">
+              <Badge variant="outline" className="border-primary/20 text-primary">
                 Connected
               </Badge>
             </div>

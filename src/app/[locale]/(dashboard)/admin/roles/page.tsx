@@ -91,7 +91,7 @@ export default function RolesPage(): React.ReactElement {
                 <div className="grid grid-cols-2 gap-2 text-xs">
                   <div className="flex items-center gap-1.5">
                     {r.modules.inventory ? (
-                      <CheckCircle2 className="h-3.5 w-3.5 text-emerald-500" />
+                      <CheckCircle2 className="text-primary h-3.5 w-3.5" />
                     ) : (
                       <XCircle className="text-muted-foreground/40 h-3.5 w-3.5" />
                     )}
@@ -99,7 +99,7 @@ export default function RolesPage(): React.ReactElement {
                   </div>
                   <div className="flex items-center gap-1.5">
                     {r.modules.crm ? (
-                      <CheckCircle2 className="h-3.5 w-3.5 text-emerald-500" />
+                      <CheckCircle2 className="text-primary h-3.5 w-3.5" />
                     ) : (
                       <XCircle className="text-muted-foreground/40 h-3.5 w-3.5" />
                     )}
@@ -107,7 +107,7 @@ export default function RolesPage(): React.ReactElement {
                   </div>
                   <div className="flex items-center gap-1.5">
                     {r.modules.hr ? (
-                      <CheckCircle2 className="h-3.5 w-3.5 text-emerald-500" />
+                      <CheckCircle2 className="text-primary h-3.5 w-3.5" />
                     ) : (
                       <XCircle className="text-muted-foreground/40 h-3.5 w-3.5" />
                     )}
@@ -115,7 +115,7 @@ export default function RolesPage(): React.ReactElement {
                   </div>
                   <div className="flex items-center gap-1.5">
                     {r.modules.admin ? (
-                      <CheckCircle2 className="h-3.5 w-3.5 text-emerald-500" />
+                      <CheckCircle2 className="text-primary h-3.5 w-3.5" />
                     ) : (
                       <XCircle className="text-muted-foreground/40 h-3.5 w-3.5" />
                     )}

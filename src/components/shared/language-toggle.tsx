@@ -26,20 +26,20 @@ export function LanguageToggle(): React.ReactElement {
     <DropdownMenu>
       <DropdownMenuTrigger asChild>
         <Button variant="outline" size="sm" className="cursor-pointer gap-2 text-xs font-semibold">
-          <Languages className="h-4 w-4 text-emerald-500" />
+          <Languages className="text-primary h-4 w-4" />
           <span className="uppercase">{locale}</span>
         </Button>
       </DropdownMenuTrigger>
       <DropdownMenuContent align="end">
         <DropdownMenuItem
           onClick={() => handleLanguageChange("id")}
-          className={`cursor-pointer ${locale === "id" ? "font-bold text-emerald-600 dark:text-emerald-400" : ""}`}
+          className={`cursor-pointer ${locale === "id" ? "text-primary dark:text-primary font-bold" : ""}`}
         >
           🇮🇩 Bahasa Indonesia (Default)
         </DropdownMenuItem>
         <DropdownMenuItem
           onClick={() => handleLanguageChange("en")}
-          className={`cursor-pointer ${locale === "en" ? "font-bold text-emerald-600 dark:text-emerald-400" : ""}`}
+          className={`cursor-pointer ${locale === "en" ? "text-primary dark:text-primary font-bold" : ""}`}
         >
           🇬🇧 English
         </DropdownMenuItem>

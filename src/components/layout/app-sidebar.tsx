@@ -13,15 +13,12 @@ import {
   Clock,
   CalendarCheck,
   FileText,
-  Sliders,
-  Building,
   UserCheck,
   FolderTree,
-  UserCog,
-  Contact,
-  Tags,
-  Activity,
-  Globe,
+  Briefcase,
+  MapPin,
+  Tag,
+  ShieldCheck,
 } from "lucide-react";
 import {
   Sidebar,
@@ -124,79 +121,44 @@ export function AppSidebar(): React.ReactElement {
     },
   ];
 
-  const adminGroups: NavGroupType[] = [
-    {
-      titleKey: "groups.admin_overview",
-      items: [
-        {
-          titleKey: "items.admin_dashboard",
-          url: "/admin",
-          icon: Sliders,
-        },
-        {
-          titleKey: "items.audit_logs",
-          url: "/admin/audit-logs",
-          icon: Activity,
-        },
-      ],
-    },
+  const employeesGroups: NavGroupType[] = [
     {
       titleKey: "groups.workforce",
       items: [
         {
-          titleKey: "items.employees",
-          url: "/admin/employees",
+          titleKey: "items.employees_directory",
+          url: "/employees",
           icon: UserCheck,
         },
         {
           titleKey: "items.departments",
-          url: "/admin/departments",
+          url: "/employees/departments",
           icon: FolderTree,
         },
-      ],
-    },
-    {
-      titleKey: "groups.access_security",
-      items: [
         {
-          titleKey: "items.users",
-          url: "/admin/users",
-          icon: UserCog,
-        },
-        {
-          titleKey: "items.roles",
-          url: "/admin/roles",
-          icon: Sliders,
+          titleKey: "items.job_positions",
+          url: "/employees/jobs",
+          icon: Briefcase,
         },
       ],
     },
     {
-      titleKey: "groups.relationships",
+      titleKey: "groups.operations_deployment",
       items: [
         {
-          titleKey: "items.contacts",
-          url: "/admin/contacts",
-          icon: Contact,
+          titleKey: "items.work_locations",
+          url: "/employees/locations",
+          icon: MapPin,
         },
         {
-          titleKey: "items.contact_categories",
-          url: "/admin/contact-categories",
-          icon: Tags,
-        },
-      ],
-    },
-    {
-      titleKey: "groups.organization_web",
-      items: [
-        {
-          titleKey: "items.company_profile",
-          url: "/admin/company",
-          icon: Building,
+          titleKey: "items.employee_tags",
+          url: "/employees/tags",
+          icon: Tag,
         },
         {
-          titleKey: "items.web_settings",
-          url: "/admin/web-settings",
-          icon: Globe,
+          titleKey: "items.access_roles",
+          url: "/employees/roles",
+          icon: ShieldCheck,
         },
       ],
     },
@@ -205,10 +167,10 @@ export function AppSidebar(): React.ReactElement {
   let currentGroups = inventoryGroups;
   if (activeTab === "crm") currentGroups = crmGroups;
   if (activeTab === "hr") currentGroups = hrGroups;
-  if (activeTab === "admin") currentGroups = adminGroups;
+  if (activeTab === "employees") currentGroups = employeesGroups;
 
   return (
-    <Sidebar collapsible="icon" className="border-border/80 border-r">
+    <Sidebar variant="floating" collapsible="icon" className="bg-card border-0 shadow-sm">
       <SidebarHeader>
         <CompanySwitcher />
       </SidebarHeader>

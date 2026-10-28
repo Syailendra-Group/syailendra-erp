@@ -1,6 +1,6 @@
 import * as React from "react";
 
-export type ModuleCategory = "inventory" | "crm" | "hr" | "admin";
+export type ModuleCategory = "inventory" | "crm" | "hr" | "employees";
 
 export interface UserProfile {
   name: string;

@@ -3,18 +3,15 @@
     "inventory": "Inventaris",
     "crm": "CRM B2B",
     "hr": "HR & Absensi",
-    "admin": "Administrasi"
+    "employees": "Karyawan"
   },
   "groups": {
     "overview": "Ikhtisar",
     "inventory_ops": "Operasional Inventaris",
     "b2b_crm": "Pipeline CRM B2B",
     "hr_attendance": "Absensi & Pelaporan",
-    "admin_overview": "Ikhtisar Tata Kelola",
     "workforce": "Struktur SDM & Organisasi",
-    "access_security": "Otorisasi & Pengguna",
-    "relationships": "Buku Kontak & Mitra",
-    "organization_web": "Profil Usaha & Web"
+    "operations_deployment": "Operasional & Penempatan"
   },
   "items": {
     "dashboard": "Dasbor Stok",
@@ -28,16 +25,30 @@
     "attendance_log": "Catatan Kehadiran",
     "daily_reports": "Laporan Harian",
     "shifts": "Jadwal Kerja",
-    "admin_dashboard": "Ringkasan Sistem",
-    "audit_logs": "Log Aktivitas & Audit",
-    "employees": "Data Karyawan",
+    "employees_directory": "Direktori Karyawan",
     "departments": "Departemen & Divisi",
-    "users": "Akun Pengguna",
-    "roles": "Hak Akses & Peran",
-    "contacts": "Direktori Kontak",
-    "contact_categories": "Kategori Mitra",
-    "company_profile": "Profil Perusahaan",
-    "web_settings": "Pengaturan Web"
+    "job_positions": "Posisi & Jabatan",
+    "work_locations": "Lokasi Penempatan",
+    "employee_tags": "Kategori Pegawai",
+    "access_roles": "Hak Akses & Peran"
+  },
+  "breadcrumbs": {
+    "home": "Beranda",
+    "inventory": "Inventaris",
+    "crm": "CRM B2B",
+    "hr": "HR & Absensi",
+    "employees": "Karyawan",
+    "admin": "Karyawan",
+    "departments": "Departemen",
+    "jobs": "Jabatan",
+    "locations": "Lokasi Kerja",
+    "tags": "Kategori",
+    "roles": "Peran",
+    "products": "Produk",
+    "transfers": "Mutasi Stok",
+    "lots": "Lot Panen",
+    "traceability": "Penelusuran",
+    "reporting": "Laporan"
   },
   "user": {
     "profile": "Profil Akun",

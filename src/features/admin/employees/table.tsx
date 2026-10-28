@@ -15,7 +15,7 @@ import {
   getSortedRowModel,
   useReactTable,
 } from "@tanstack/react-table";
-import { Search, UserPlus } from "lucide-react";
+import { UserPlus } from "lucide-react";
 import { useTranslations } from "next-intl";
 import {
   Table,
@@ -26,8 +26,11 @@ import {
   TableRow,
 } from "@/components/ui/table";
 import { Button } from "@/components/ui/button";
-import { Input } from "@/components/ui/input";
-import { DataTablePagination, DataTableViewOptions } from "@/components/data-table";
+import {
+  DataTablePagination,
+  DataTableToolbar,
+  DataTableBulkActions,
+} from "@/components/data-table";
 import { useEmployees } from "@/contexts/employees-context";
 import type { EmployeeRecord } from "./actions";
 
@@ -39,7 +42,7 @@ export interface EmployeesTableProps {
 export function EmployeesTable({ columns, data }: EmployeesTableProps): React.ReactElement {
   const tAdmin = useTranslations("admin.employees");
   const tCommon = useTranslations("common");
-  const { setOpen, setCurrentRow } = useEmployees();
+  const { setOpen, setCurrentRow, departments } = useEmployees();
 
   const [rowSelection, setRowSelection] = React.useState({});
   const [columnVisibility, setColumnVisibility] = React.useState<VisibilityState>({});
@@ -71,36 +74,49 @@ export function EmployeesTable({ columns, data }: EmployeesTableProps): React.Re
     getFacetedUniqueValues: getFacetedUniqueValues(),
   });
 
+  const departmentFilterOptions = departments.map((d) => ({
+    label: d.name,
+    value: d.name,
+  }));
+
+  const statusFilterOptions = [
+    { label: "Aktif", value: "true" },
+    { label: "Diarsipkan", value: "false" },
+  ];
+
   return (
     <div className="space-y-4">
-      {/* Table Toolbar */}
-      <div className="flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
-        <div className="relative max-w-sm flex-1">
-          <Search className="text-muted-foreground absolute top-1/2 left-3 h-4 w-4 -translate-y-1/2" />
-          <Input
-            placeholder={tCommon("actions.search")}
-            value={globalFilter ?? ""}
-            onChange={(event) => setGlobalFilter(event.target.value)}
-            className="h-8 pl-9 text-xs"
-          />
-        </div>
-        <div className="flex items-center gap-2">
-          <DataTableViewOptions table={table} />
-          <Button
-            size="sm"
-            onClick={() => {
-              setCurrentRow(null);
-              setOpen("add");
-            }}
-            className="h-8 cursor-pointer gap-2 text-xs font-semibold"
-          >
-            <UserPlus className="h-3.5 w-3.5" />
-            <span>{tAdmin("actions.add")}</span>
-          </Button>
-        </div>
-      </div>
+      {/* Complete DataTable Toolbar with faceted filters */}
+      <DataTableToolbar
+        table={table}
+        searchPlaceholder={tCommon("actions.search")}
+        filters={[
+          {
+            columnId: "department_id",
+            title: "Departemen",
+            options: departmentFilterOptions,
+          },
+          {
+            columnId: "active",
+            title: "Status",
+            options: statusFilterOptions,
+          },
+        ]}
+      >
+        <Button
+          size="sm"
+          onClick={() => {
+            setCurrentRow(null);
+            setOpen("add");
+          }}
+          className="h-8 cursor-pointer gap-2 text-xs font-semibold"
+        >
+          <UserPlus className="h-3.5 w-3.5" />
+          <span>{tAdmin("actions.add")}</span>
+        </Button>
+      </DataTableToolbar>
 
-      {/* Table Wrapper */}
+      {/* Table Wrapper Borderless with Card background */}
       <div className="bg-card overflow-hidden rounded-xl shadow-xs">
         <Table>
           <TableHeader className="bg-muted/40">
@@ -149,6 +165,14 @@ export function EmployeesTable({ columns, data }: EmployeesTableProps): React.Re
 
       {/* TanStack Table Pagination */}
       <DataTablePagination table={table} />
+
+      {/* Bulk Actions Floating Bar */}
+      <DataTableBulkActions
+        table={table}
+        onBulkDelete={(rows) => {
+          console.log("Bulk delete / archive request for rows:", rows);
+        }}
+      />
     </div>
   );
 }

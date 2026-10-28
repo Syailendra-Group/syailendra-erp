@@ -22,7 +22,7 @@ export function LoginPage(): React.ReactElement {
       <div className="w-full max-w-md space-y-6">
         {/* Brand Header */}
         <header className="space-y-2 text-center">
-          <div className="inline-flex rounded-2xl border border-emerald-500/20 bg-emerald-500/10 p-3 text-emerald-600 shadow-xs dark:text-emerald-400">
+          <div className="border-primary/20 bg-primary/10 text-primary dark:text-primary inline-flex rounded-2xl border p-3 shadow-xs">
             <Boxes className="h-8 w-8" />
           </div>
           <h1 className="text-2xl font-bold tracking-tight">Syailendra Group</h1>

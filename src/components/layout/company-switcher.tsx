@@ -20,7 +20,7 @@ export function CompanySwitcher({
           size="lg"
           className="data-[state=open]:bg-sidebar-accent data-[state=open]:text-sidebar-accent-foreground cursor-pointer"
         >
-          <div className="text-sidebar-primary-foreground flex aspect-square size-8 items-center justify-center rounded-lg bg-emerald-600 shadow-xs">
+          <div className="text-sidebar-primary-foreground bg-primary flex aspect-square size-8 items-center justify-center rounded-lg shadow-xs">
             <Sprout className="size-4 text-white" />
           </div>
           <div className="grid flex-1 text-left text-xs leading-tight">

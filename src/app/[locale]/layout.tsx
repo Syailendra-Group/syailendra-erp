@@ -29,7 +29,7 @@ export default async function RootLayout({
 
   return (
     <html lang={locale} className={inter.variable} suppressHydrationWarning>
-      <body className="bg-background text-foreground min-h-screen antialiased selection:bg-emerald-500/20 selection:text-emerald-700 dark:selection:text-emerald-300">
+      <body className="bg-background text-foreground selection:bg-primary/10 selection:text-primary dark:selection:text-primary min-h-screen antialiased">
         <NextIntlClientProvider messages={messages} locale={locale}>
           <ThemeProvider
             attribute="class"

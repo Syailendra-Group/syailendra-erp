@@ -1,6 +1,6 @@
 import { create } from "zustand";
 
-export type ModuleTab = "inventory" | "crm" | "hr" | "admin";
+export type ModuleTab = "inventory" | "crm" | "hr" | "employees";
 
 export interface NavState {
   activeTab: ModuleTab;

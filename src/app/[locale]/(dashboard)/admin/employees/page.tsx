@@ -139,7 +139,7 @@ export default function EmployeesPage(): React.ReactElement {
                       </td>
                       <td className="px-3 py-3">
                         <span className="text-muted-foreground flex items-center gap-1.5">
-                          <Building className="h-3 w-3 text-emerald-500" />
+                          <Building className="text-primary h-3 w-3" />
                           {emp.department_id ? emp.department_id[1] : "Pusat"}
                         </span>
                       </td>

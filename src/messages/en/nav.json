@@ -3,18 +3,15 @@
     "inventory": "Inventory",
     "crm": "B2B CRM",
     "hr": "HR & Attendance",
-    "admin": "Administration"
+    "employees": "Employees"
   },
   "groups": {
     "overview": "Overview",
     "inventory_ops": "Inventory Operations",
     "b2b_crm": "B2B CRM Pipeline",
     "hr_attendance": "Attendance & Reporting",
-    "admin_overview": "System Overview",
     "workforce": "Workforce & Organization",
-    "access_security": "Access & Security",
-    "relationships": "Relationship Directory",
-    "organization_web": "Organization & Web"
+    "operations_deployment": "Operations & Deployment"
   },
   "items": {
     "dashboard": "Stock Dashboard",
@@ -28,16 +25,30 @@
     "attendance_log": "Check-In / Out Log",
     "daily_reports": "Daily Field Reports",
     "shifts": "Shift Schedules",
-    "admin_dashboard": "Governance Overview",
-    "audit_logs": "Audit Trail & Logs",
-    "employees": "Employee Management",
-    "departments": "Departments & Units",
-    "users": "System Users",
-    "roles": "RBAC & Permissions",
-    "contacts": "Unified Contacts",
-    "contact_categories": "Partner Categories",
-    "company_profile": "Company Profile",
-    "web_settings": "Web & Portal Settings"
+    "employees_directory": "Employee Directory",
+    "departments": "Departments & Divisions",
+    "job_positions": "Job Positions",
+    "work_locations": "Work Locations",
+    "employee_tags": "Employee Categories",
+    "access_roles": "Access Roles & RBAC"
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "inventory": "Inventory",
+    "crm": "B2B CRM",
+    "hr": "HR & Attendance",
+    "employees": "Employees",
+    "admin": "Employees",
+    "departments": "Departments",
+    "jobs": "Job Positions",
+    "locations": "Work Locations",
+    "tags": "Categories",
+    "roles": "Roles",
+    "products": "Products",
+    "transfers": "Transfers",
+    "lots": "Lots",
+    "traceability": "Traceability",
+    "reporting": "Reporting"
   },
   "user": {
     "profile": "Profile Account",

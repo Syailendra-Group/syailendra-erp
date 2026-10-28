@@ -107,7 +107,7 @@ export default function ContactsPage(): React.ReactElement {
             </CardHeader>
             <CardContent className="space-y-2 text-xs">
               <div className="text-muted-foreground flex items-center gap-2">
-                <MapPin className="h-3.5 w-3.5 text-emerald-500" />
+                <MapPin className="text-primary h-3.5 w-3.5" />
                 <span>{item.city}</span>
               </div>
               <div className="text-muted-foreground flex items-center gap-2">

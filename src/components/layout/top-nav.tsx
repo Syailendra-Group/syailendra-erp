@@ -2,7 +2,7 @@
 
 import * as React from "react";
 import { useTranslations } from "next-intl";
-import { Boxes, Users, Clock, ShieldCheck } from "lucide-react";
+import { Boxes, Users, Clock, UserCheck } from "lucide-react";
 import { useNavStore, type ModuleTab } from "@/stores/nav-store";
 import { Button } from "@/components/ui/button";
 import { cn } from "@/lib/utils";
@@ -17,7 +17,7 @@ export function TopNav({ className, ...props }: TopNavProps): React.ReactElement
     { id: "inventory", titleKey: "modules.inventory", icon: Boxes },
     { id: "crm", titleKey: "modules.crm", icon: Users },
     { id: "hr", titleKey: "modules.hr", icon: Clock },
-    { id: "admin", titleKey: "modules.admin", icon: ShieldCheck },
+    { id: "employees", titleKey: "modules.employees", icon: UserCheck },
   ];
 
   return (
@@ -36,7 +36,7 @@ export function TopNav({ className, ...props }: TopNavProps): React.ReactElement
               isActive && "bg-secondary text-foreground font-semibold shadow-xs"
             )}
           >
-            <Icon className="h-4 w-4 text-emerald-600 dark:text-emerald-400" />
+            <Icon className="text-primary h-4 w-4" />
             <span className="hidden md:inline">{tNav(tab.titleKey)}</span>
           </Button>
         );

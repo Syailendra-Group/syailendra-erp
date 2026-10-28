@@ -4,6 +4,7 @@ import * as React from "react";
 import { usePathname } from "@/i18n/navigation";
 import { SidebarInset, SidebarProvider } from "@/components/ui/sidebar";
 import { TooltipProvider } from "@/components/ui/tooltip";
+import { Breadcrumbs } from "@/components/shared/breadcrumbs";
 import { useNavStore, type ModuleTab } from "@/stores/nav-store";
 import { AppSidebar } from "./app-sidebar";
 import { Header } from "./header";
@@ -20,8 +21,8 @@ export function AuthenticatedLayout({ children }: AuthenticatedLayoutProps): Rea
   // Synchronize Topbar macro tab & Sidebar menu with current URL pathname
   React.useEffect(() => {
     let matchedTab: ModuleTab = "inventory";
-    if (pathname.startsWith("/admin")) {
-      matchedTab = "admin";
+    if (pathname.startsWith("/employees") || pathname.startsWith("/admin")) {
+      matchedTab = "employees";
     } else if (pathname.startsWith("/crm")) {
       matchedTab = "crm";
     } else if (pathname.startsWith("/hr")) {
@@ -38,7 +39,10 @@ export function AuthenticatedLayout({ children }: AuthenticatedLayoutProps): Rea
         <AppSidebar />
         <SidebarInset className="flex min-h-screen flex-col">
           <Header />
-          <Main>{children}</Main>
+          <Main>
+            <Breadcrumbs />
+            {children}
+          </Main>
         </SidebarInset>
       </SidebarProvider>
     </TooltipProvider>

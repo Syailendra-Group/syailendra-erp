@@ -27,8 +27,8 @@ export default function InventoryDashboardPage(): React.ReactElement {
       change: "+2 new lots",
       trend: "up",
       icon: Boxes,
-      color: "text-emerald-500",
-      bg: "bg-emerald-500/10",
+      color: "text-primary",
+      bg: "bg-primary/10",
     },
     {
       title: "Active Batches / Lots",
@@ -100,7 +100,7 @@ export default function InventoryDashboardPage(): React.ReactElement {
         </div>
         <div className="flex items-center gap-2">
           <Button variant="outline" size="sm" className="cursor-pointer gap-2 text-xs">
-            <QrCode className="h-4 w-4 text-emerald-600 dark:text-emerald-400" />
+            <QrCode className="text-primary dark:text-primary h-4 w-4" />
             <span>Scan QR Lot</span>
           </Button>
           <Button size="sm" className="cursor-pointer gap-2 text-xs font-semibold">
@@ -127,7 +127,7 @@ export default function InventoryDashboardPage(): React.ReactElement {
               <CardContent>
                 <div className="text-xl font-bold">{m.value}</div>
                 <p className="text-muted-foreground mt-1 flex items-center gap-1 text-[11px]">
-                  <TrendingUp className="h-3 w-3 text-emerald-500" />
+                  <TrendingUp className="text-primary h-3 w-3" />
                   <span>{m.change}</span>
                 </p>
               </CardContent>
@@ -148,10 +148,7 @@ export default function InventoryDashboardPage(): React.ReactElement {
                 Data real-time disinkronkan dengan modul Odoo 18 Stock Production Lot
               </CardDescription>
             </div>
-            <Badge
-              variant="outline"
-              className="gap-1 border-emerald-500/30 text-[10px] text-emerald-600"
-            >
+            <Badge variant="outline" className="border-primary/20 text-primary gap-1 text-[10px]">
               <ShieldCheck className="h-3 w-3" />
               Double-Entry Validated
             </Badge>
@@ -174,7 +171,7 @@ export default function InventoryDashboardPage(): React.ReactElement {
               <tbody className="divide-border/60 divide-y">
                 {commodityLots.map((item) => (
                   <tr key={item.lot} className="hover:bg-muted/30 transition-colors">
-                    <td className="px-3 py-3 font-mono font-bold text-emerald-600 dark:text-emerald-400">
+                    <td className="text-primary dark:text-primary px-3 py-3 font-mono font-bold">
                       {item.lot}
                     </td>
                     <td className="text-foreground px-3 py-3 font-medium">{item.product}</td>

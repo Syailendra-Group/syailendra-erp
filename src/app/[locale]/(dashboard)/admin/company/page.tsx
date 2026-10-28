@@ -54,7 +54,7 @@ export default function CompanySettingsPage(): React.ReactElement {
           <div className="flex items-center justify-between">
             <div>
               <CardTitle className="flex items-center gap-2 text-sm font-bold">
-                <Building className="h-4 w-4 text-emerald-600" />
+                <Building className="text-primary h-4 w-4" />
                 Identitas Entitas Usaha Odoo 18 (res.company)
               </CardTitle>
               <CardDescription className="text-xs">
@@ -62,7 +62,7 @@ export default function CompanySettingsPage(): React.ReactElement {
                 komoditas
               </CardDescription>
             </div>
-            <span className="flex items-center gap-1 text-xs font-semibold text-emerald-600">
+            <span className="text-primary flex items-center gap-1 text-xs font-semibold">
               <ShieldCheck className="h-4 w-4" />
               Verified Entity
             </span>

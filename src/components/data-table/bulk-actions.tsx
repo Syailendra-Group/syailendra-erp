@@ -1,25 +1,22 @@
-"use client";
+'use client'
 
-import * as React from "react";
-import { type Table } from "@tanstack/react-table";
-import { Trash2, Download, X } from "lucide-react";
-import { Button } from "@/components/ui/button";
+import * as React from 'react'
+import { type Table } from '@tanstack/react-table'
+import { Download, Trash2, X } from 'lucide-react'
+
+import { Button } from '@/components/ui/button'
 
 export interface DataTableBulkActionsProps<TData> {
-  table: Table<TData>;
-  onBulkDelete?: (selectedRows: TData[]) => void;
-  onBulkExport?: (selectedRows: TData[]) => void;
+  table: Table<TData>
+  onBulkDelete?: (selectedRows: TData[]) => void
+  onBulkExport?: (selectedRows: TData[]) => void
 }
 
-export function DataTableBulkActions<TData>({
-  table,
-  onBulkDelete,
-  onBulkExport,
-}: DataTableBulkActionsProps<TData>): React.ReactElement | null {
-  const selectedRows = table.getFilteredSelectedRowModel().rows;
-  const count = selectedRows.length;
+export function DataTableBulkActions<TData>({ table, onBulkDelete, onBulkExport }: DataTableBulkActionsProps<TData>): React.ReactElement | null {
+  const selectedRows = table.getFilteredSelectedRowModel().rows
+  const count = selectedRows.length
 
-  if (count === 0) return null;
+  if (count === 0) return null
 
   return (
     <div className="bg-primary text-primary-foreground animate-in fade-in slide-in-from-bottom-2 fixed bottom-6 left-1/2 z-50 flex -translate-x-1/2 items-center gap-2 rounded-xl px-4 py-2 shadow-lg duration-200">
@@ -59,5 +56,5 @@ export function DataTableBulkActions<TData>({
         <X className="h-3.5 w-3.5" />
       </Button>
     </div>
-  );
+  )
 }

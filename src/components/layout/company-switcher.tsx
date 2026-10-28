@@ -1,25 +1,23 @@
-"use client";
+'use client'
 
-import * as React from "react";
-import { Sprout } from "lucide-react";
-import { SidebarMenu, SidebarMenuItem, SidebarMenuButton } from "@/components/ui/sidebar";
+import * as React from 'react'
+import { Sprout } from 'lucide-react'
+
+import { SidebarMenu, SidebarMenuButton, SidebarMenuItem } from '@/components/ui/sidebar'
 
 export interface CompanySwitcherProps {
-  companyName?: string;
-  unitName?: string;
+  companyName?: string
+  unitName?: string
 }
 
 export function CompanySwitcher({
-  companyName = "Syailendra Group",
-  unitName = "Specialty Agri & Commodities",
+  companyName = 'Syailendra Group',
+  unitName = 'Specialty Agri & Commodities'
 }: CompanySwitcherProps): React.ReactElement {
   return (
     <SidebarMenu>
       <SidebarMenuItem>
-        <SidebarMenuButton
-          size="lg"
-          className="data-[state=open]:bg-sidebar-accent data-[state=open]:text-sidebar-accent-foreground cursor-pointer"
-        >
+        <SidebarMenuButton size="lg" className="data-[state=open]:bg-sidebar-accent data-[state=open]:text-sidebar-accent-foreground cursor-pointer">
           <div className="text-sidebar-primary-foreground bg-primary flex aspect-square size-8 items-center justify-center rounded-lg shadow-xs">
             <Sprout className="size-4 text-white" />
           </div>
@@ -30,5 +28,5 @@ export function CompanySwitcher({
         </SidebarMenuButton>
       </SidebarMenuItem>
     </SidebarMenu>
-  );
+  )
 }

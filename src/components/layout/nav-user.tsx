@@ -1,9 +1,10 @@
-"use client";
+'use client'
 
-import * as React from "react";
-import { LogOut, User, ShieldCheck } from "lucide-react";
-import { useTranslations } from "next-intl";
-import { Avatar, AvatarFallback } from "@/components/ui/avatar";
+import * as React from 'react'
+import { LogOut, ShieldCheck, User } from 'lucide-react'
+import { useTranslations } from 'next-intl'
+
+import { Avatar, AvatarFallback } from '@/components/ui/avatar'
 import {
   DropdownMenu,
   DropdownMenuContent,
@@ -11,41 +12,37 @@ import {
   DropdownMenuItem,
   DropdownMenuLabel,
   DropdownMenuSeparator,
-  DropdownMenuTrigger,
-} from "@/components/ui/dropdown-menu";
-import {
-  SidebarMenu,
-  SidebarMenuButton,
-  SidebarMenuItem,
-  useSidebar,
-} from "@/components/ui/sidebar";
-import { logoutAction } from "@/features/auth/login/actions";
-import type { UserProfile } from "./types";
+  DropdownMenuTrigger
+} from '@/components/ui/dropdown-menu'
+import { SidebarMenu, SidebarMenuButton, SidebarMenuItem, useSidebar } from '@/components/ui/sidebar'
+import { logoutAction } from '@/features/auth/login/actions'
+
+import type { UserProfile } from './types'
 
 export interface NavUserProps {
-  user?: UserProfile;
+  user?: UserProfile
 }
 
 export function NavUser({
   user = {
-    name: "OctaLectzz",
-    email: "octalectzz@gmail.com",
-    role: "System Administrator",
-  },
+    name: 'OctaLectzz',
+    email: 'octalectzz@gmail.com',
+    role: 'System Administrator'
+  }
 }: NavUserProps): React.ReactElement {
-  const tNav = useTranslations("nav");
-  const { isMobile } = useSidebar();
+  const tNav = useTranslations('nav')
+  const { isMobile } = useSidebar()
 
   const handleLogout = async () => {
-    await logoutAction();
-  };
+    await logoutAction()
+  }
 
   const initials = user.name
-    .split(" ")
+    .split(' ')
     .map((n) => n[0])
-    .join("")
+    .join('')
     .slice(0, 2)
-    .toUpperCase();
+    .toUpperCase()
 
   return (
     <SidebarMenu>
@@ -57,9 +54,7 @@ export function NavUser({
               className="data-[state=open]:bg-sidebar-accent data-[state=open]:text-sidebar-accent-foreground cursor-pointer"
             >
               <Avatar className="h-8 w-8 rounded-lg">
-                <AvatarFallback className="bg-primary/10 text-primary dark:text-primary rounded-lg text-xs font-bold">
-                  {initials}
-                </AvatarFallback>
+                <AvatarFallback className="bg-primary/10 text-primary dark:text-primary rounded-lg text-xs font-bold">{initials}</AvatarFallback>
               </Avatar>
               <div className="grid flex-1 text-left text-xs leading-tight">
                 <span className="truncate font-semibold">{user.name}</span>
@@ -69,16 +64,14 @@ export function NavUser({
           </DropdownMenuTrigger>
           <DropdownMenuContent
             className="w-(--radix-dropdown-menu-trigger-width) min-w-56 rounded-lg"
-            side={isMobile ? "bottom" : "right"}
+            side={isMobile ? 'bottom' : 'right'}
             align="end"
             sideOffset={4}
           >
             <DropdownMenuLabel className="p-0 font-normal">
               <div className="flex items-center gap-2 px-1 py-1.5 text-left text-xs">
                 <Avatar className="h-8 w-8 rounded-lg">
-                  <AvatarFallback className="bg-primary/10 text-primary rounded-lg text-xs font-bold">
-                    {initials}
-                  </AvatarFallback>
+                  <AvatarFallback className="bg-primary/10 text-primary rounded-lg text-xs font-bold">{initials}</AvatarFallback>
                 </Avatar>
                 <div className="grid flex-1 text-left text-xs leading-tight">
                   <span className="truncate font-semibold">{user.name}</span>
@@ -90,11 +83,11 @@ export function NavUser({
             <DropdownMenuGroup>
               <DropdownMenuItem className="cursor-pointer gap-2 text-xs">
                 <User className="text-muted-foreground h-3.5 w-3.5" />
-                <span>{tNav("user.profile")}</span>
+                <span>{tNav('user.profile')}</span>
               </DropdownMenuItem>
               <DropdownMenuItem className="cursor-pointer gap-2 text-xs">
                 <ShieldCheck className="text-muted-foreground h-3.5 w-3.5" />
-                <span>{tNav("user.security")}</span>
+                <span>{tNav('user.security')}</span>
               </DropdownMenuItem>
             </DropdownMenuGroup>
             <DropdownMenuSeparator />
@@ -103,11 +96,11 @@ export function NavUser({
               className="text-destructive focus:bg-destructive/10 focus:text-destructive cursor-pointer gap-2 text-xs"
             >
               <LogOut className="h-3.5 w-3.5" />
-              <span>{tNav("user.logout")}</span>
+              <span>{tNav('user.logout')}</span>
             </DropdownMenuItem>
           </DropdownMenuContent>
         </DropdownMenu>
       </SidebarMenuItem>
     </SidebarMenu>
-  );
+  )
 }

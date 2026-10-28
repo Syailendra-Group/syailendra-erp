@@ -1,18 +1,19 @@
-"use client";
+'use client'
 
-import * as React from "react";
-import { useTranslations } from "next-intl";
-import { ThemeToggle } from "@/components/shared/theme-toggle";
-import { LanguageToggle } from "@/components/shared/language-toggle";
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
-import { Button } from "@/components/ui/button";
-import { Badge } from "@/components/ui/badge";
-import { Boxes, ShieldCheck, CheckCircle2 } from "lucide-react";
+import * as React from 'react'
+import { Boxes, CheckCircle2, ShieldCheck } from 'lucide-react'
+import { useTranslations } from 'next-intl'
+
+import { LanguageToggle } from '@/components/shared/language-toggle'
+import { ThemeToggle } from '@/components/shared/theme-toggle'
+import { Badge } from '@/components/ui/badge'
+import { Button } from '@/components/ui/button'
+import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card'
 
 export default function HomePage(): React.ReactElement {
-  const tCommon = useTranslations("common");
-  const tNav = useTranslations("nav");
-  const tInventory = useTranslations("inventory");
+  const tCommon = useTranslations('common')
+  const tNav = useTranslations('nav')
+  const tInventory = useTranslations('inventory')
 
   return (
     <div className="bg-background text-foreground flex min-h-screen flex-col items-center justify-center p-6 transition-colors">
@@ -40,31 +41,22 @@ export default function HomePage(): React.ReactElement {
             <div className="flex items-center justify-between">
               <CardTitle className="flex items-center gap-2 text-base">
                 <ShieldCheck className="text-primary h-4 w-4" />
-                {tNav("tabs.inventory")} & i18n Status
+                {tNav('tabs.inventory')} & i18n Status
               </CardTitle>
-              <Badge
-                variant="outline"
-                className="border-primary/20 bg-primary/10 text-primary dark:text-primary"
-              >
+              <Badge variant="outline" className="border-primary/20 bg-primary/10 text-primary dark:text-primary">
                 Active
               </Badge>
             </div>
-            <CardDescription>
-              {tInventory("kpi.on_hand")} • Default Light Mode & Bahasa Indonesia
-            </CardDescription>
+            <CardDescription>{tInventory('kpi.on_hand')} • Default Light Mode & Bahasa Indonesia</CardDescription>
           </CardHeader>
           <CardContent className="space-y-4">
             <div className="grid grid-cols-2 gap-3 text-sm">
               <div className="bg-muted/40 rounded-lg border p-3">
-                <span className="text-muted-foreground block text-xs">
-                  {tInventory("kpi.ready_transfers")}
-                </span>
+                <span className="text-muted-foreground block text-xs">{tInventory('kpi.ready_transfers')}</span>
                 <span className="text-primary dark:text-primary text-xl font-bold">12 Batch</span>
               </div>
               <div className="bg-muted/40 rounded-lg border p-3">
-                <span className="text-muted-foreground block text-xs">
-                  {tInventory("kpi.waiting_operations")}
-                </span>
+                <span className="text-muted-foreground block text-xs">{tInventory('kpi.waiting_operations')}</span>
                 <span className="text-xl font-bold text-amber-600 dark:text-amber-400">3 PO</span>
               </div>
             </div>
@@ -72,15 +64,15 @@ export default function HomePage(): React.ReactElement {
             <div className="text-muted-foreground flex items-center justify-between border-t pt-2 text-xs">
               <span className="text-primary dark:text-primary flex items-center gap-1.5 font-medium">
                 <CheckCircle2 className="h-3.5 w-3.5" />
-                {tCommon("status.success")}
+                {tCommon('status.success')}
               </span>
               <Button size="sm" className="cursor-pointer">
-                {tCommon("actions.view")}
+                {tCommon('actions.view')}
               </Button>
             </div>
           </CardContent>
         </Card>
       </div>
     </div>
-  );
+  )
 }

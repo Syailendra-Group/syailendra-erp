@@ -1,36 +1,33 @@
-"use client";
+'use client'
 
-import * as React from "react";
-import type { EmployeeRecord, DepartmentOption } from "@/features/admin/employees/actions";
+import * as React from 'react'
 
-export type EmployeesDialogType = "add" | "edit" | "archive" | null;
+import type { DepartmentOption, EmployeeRecord } from '@/features/admin/employees/actions'
+
+export type EmployeesDialogType = 'add' | 'edit' | 'archive' | null
 
 export interface EmployeesContextType {
-  open: EmployeesDialogType;
-  setOpen: (type: EmployeesDialogType) => void;
-  currentRow: EmployeeRecord | null;
-  setCurrentRow: (row: EmployeeRecord | null) => void;
-  departments: DepartmentOption[];
-  setDepartments: (depts: DepartmentOption[]) => void;
-  refreshData: () => void;
+  open: EmployeesDialogType
+  setOpen: (type: EmployeesDialogType) => void
+  currentRow: EmployeeRecord | null
+  setCurrentRow: (row: EmployeeRecord | null) => void
+  departments: DepartmentOption[]
+  setDepartments: (depts: DepartmentOption[]) => void
+  refreshData: () => void
 }
 
-const EmployeesContext = React.createContext<EmployeesContextType | null>(null);
+const EmployeesContext = React.createContext<EmployeesContextType | null>(null)
 
 export interface EmployeesProviderProps {
-  children: React.ReactNode;
-  refreshData: () => void;
-  initialDepartments?: DepartmentOption[];
+  children: React.ReactNode
+  refreshData: () => void
+  initialDepartments?: DepartmentOption[]
 }
 
-export function EmployeesProvider({
-  children,
-  refreshData,
-  initialDepartments = [],
-}: EmployeesProviderProps): React.ReactElement {
-  const [open, setOpen] = React.useState<EmployeesDialogType>(null);
-  const [currentRow, setCurrentRow] = React.useState<EmployeeRecord | null>(null);
-  const [departments, setDepartments] = React.useState<DepartmentOption[]>(initialDepartments);
+export function EmployeesProvider({ children, refreshData, initialDepartments = [] }: EmployeesProviderProps): React.ReactElement {
+  const [open, setOpen] = React.useState<EmployeesDialogType>(null)
+  const [currentRow, setCurrentRow] = React.useState<EmployeeRecord | null>(null)
+  const [departments, setDepartments] = React.useState<DepartmentOption[]>(initialDepartments)
 
   return (
     <EmployeesContext.Provider
@@ -41,18 +38,18 @@ export function EmployeesProvider({
         setCurrentRow,
         departments,
         setDepartments,
-        refreshData,
+        refreshData
       }}
     >
       {children}
     </EmployeesContext.Provider>
-  );
+  )
 }
 
 export function useEmployees(): EmployeesContextType {
-  const ctx = React.useContext(EmployeesContext);
+  const ctx = React.useContext(EmployeesContext)
   if (!ctx) {
-    throw new Error("useEmployees must be used within an EmployeesProvider");
+    throw new Error('useEmployees must be used within an EmployeesProvider')
   }
-  return ctx;
+  return ctx
 }

@@ -1,29 +1,21 @@
-"use client";
+'use client'
 
-import * as React from "react";
-import { type Table } from "@tanstack/react-table";
-import { ChevronLeft, ChevronRight, ChevronsLeft, ChevronsRight } from "lucide-react";
-import { Button } from "@/components/ui/button";
-import {
-  Select,
-  SelectContent,
-  SelectItem,
-  SelectTrigger,
-  SelectValue,
-} from "@/components/ui/select";
+import * as React from 'react'
+import { type Table } from '@tanstack/react-table'
+import { ChevronLeft, ChevronRight, ChevronsLeft, ChevronsRight } from 'lucide-react'
+
+import { Button } from '@/components/ui/button'
+import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select'
 
 export interface DataTablePaginationProps<TData> {
-  table: Table<TData>;
+  table: Table<TData>
 }
 
-export function DataTablePagination<TData>({
-  table,
-}: DataTablePaginationProps<TData>): React.ReactElement {
+export function DataTablePagination<TData>({ table }: DataTablePaginationProps<TData>): React.ReactElement {
   return (
     <div className="flex items-center justify-between px-2 py-3">
       <div className="text-muted-foreground flex-1 text-xs">
-        {table.getFilteredSelectedRowModel().rows.length} of{" "}
-        {table.getFilteredRowModel().rows.length} row(s) selected.
+        {table.getFilteredSelectedRowModel().rows.length} of {table.getFilteredRowModel().rows.length} row(s) selected.
       </div>
       <div className="flex items-center space-x-6 lg:space-x-8">
         <div className="flex items-center space-x-2">
@@ -31,7 +23,7 @@ export function DataTablePagination<TData>({
           <Select
             value={`${table.getState().pagination.pageSize}`}
             onValueChange={(value) => {
-              table.setPageSize(Number(value));
+              table.setPageSize(Number(value))
             }}
           >
             <SelectTrigger className="h-8 w-[70px] text-xs">
@@ -68,12 +60,7 @@ export function DataTablePagination<TData>({
             <span className="sr-only">Go to previous page</span>
             <ChevronLeft className="h-4 w-4" />
           </Button>
-          <Button
-            variant="outline"
-            className="h-8 w-8 cursor-pointer p-0"
-            onClick={() => table.nextPage()}
-            disabled={!table.getCanNextPage()}
-          >
+          <Button variant="outline" className="h-8 w-8 cursor-pointer p-0" onClick={() => table.nextPage()} disabled={!table.getCanNextPage()}>
             <span className="sr-only">Go to next page</span>
             <ChevronRight className="h-4 w-4" />
           </Button>
@@ -89,5 +76,5 @@ export function DataTablePagination<TData>({
         </div>
       </div>
     </div>
-  );
+  )
 }

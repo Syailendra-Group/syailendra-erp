@@ -4,17 +4,17 @@
  */
 
 export interface UserSession {
-  uid: number;
-  name: string;
-  email: string;
-  companyId: number;
-  companyName: string;
-  groups: number[];
-  isAdmin: boolean;
+  uid: number
+  name: string
+  email: string
+  companyId: number
+  companyName: string
+  groups: number[]
+  isAdmin: boolean
 }
 
 export interface AuthActionResult<T = UserSession> {
-  success: boolean;
-  data?: T;
-  error?: string;
+  success: boolean
+  data?: T
+  error?: string
 }

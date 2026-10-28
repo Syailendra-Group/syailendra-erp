@@ -1,28 +1,25 @@
-"use client";
+'use client'
 
-import * as React from "react";
-import { SidebarTrigger } from "@/components/ui/sidebar";
-import { Separator } from "@/components/ui/separator";
-import { LanguageToggle } from "@/components/shared/language-toggle";
-import { ThemeToggle } from "@/components/shared/theme-toggle";
-import { TopNav } from "./top-nav";
-import { cn } from "@/lib/utils";
+import * as React from 'react'
+
+import { LanguageToggle } from '@/components/shared/language-toggle'
+import { ThemeToggle } from '@/components/shared/theme-toggle'
+import { Separator } from '@/components/ui/separator'
+import { SidebarTrigger } from '@/components/ui/sidebar'
+import { cn } from '@/lib/utils'
+
+import { TopNav } from './top-nav'
 
 export interface HeaderProps extends React.HTMLAttributes<HTMLElement> {
-  fixed?: boolean;
+  fixed?: boolean
 }
 
-export function Header({
-  className,
-  fixed = true,
-  children,
-  ...props
-}: HeaderProps): React.ReactElement {
+export function Header({ className, fixed = true, children, ...props }: HeaderProps): React.ReactElement {
   return (
     <header
       className={cn(
-        "bg-background/95 supports-backdrop-filter:bg-background/60 border-border/80 z-30 h-16 border-b backdrop-blur-md",
-        fixed && "sticky top-0 w-full",
+        'bg-background/95 supports-backdrop-filter:bg-background/60 border-border/80 z-30 h-16 border-b backdrop-blur-md',
+        fixed && 'sticky top-0 w-full',
         className
       )}
       {...props}
@@ -41,5 +38,5 @@ export function Header({
         </div>
       </div>
     </header>
-  );
+  )
 }

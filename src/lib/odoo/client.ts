@@ -3,75 +3,67 @@
  * Syailendra Group ERP
  */
 
-import { JsonRpcPayload, JsonRpcResponse, OdooConfig } from "./types";
+import { JsonRpcPayload, JsonRpcResponse, OdooConfig } from './types'
 
 export class OdooClient {
-  private config: OdooConfig;
-  private uid: number | null = null;
-  private reqId = 1;
+  private config: OdooConfig
+  private uid: number | null = null
+  private reqId = 1
 
   constructor(customConfig?: Partial<OdooConfig>) {
     this.config = {
-      baseUrl: customConfig?.baseUrl || process.env.ODOO_BASE_URL || "http://10.10.0.238:8069",
-      db: customConfig?.db || process.env.ODOO_DB || "odoo_dev",
-      username: customConfig?.username || process.env.ODOO_USERNAME || "",
-      password: customConfig?.password || process.env.ODOO_PASSWORD || "",
-      apiKey: customConfig?.apiKey || process.env.ODOO_API_KEY,
-    };
+      baseUrl: customConfig?.baseUrl || process.env.ODOO_BASE_URL || 'http://10.10.0.238:8069',
+      db: customConfig?.db || process.env.ODOO_DB || 'odoo_dev',
+      username: customConfig?.username || process.env.ODOO_USERNAME || '',
+      password: customConfig?.password || process.env.ODOO_PASSWORD || '',
+      apiKey: customConfig?.apiKey || process.env.ODOO_API_KEY
+    }
   }
 
   /**
    * Execute raw JSON-RPC 2.0 POST call
    */
-  async rpc<T = unknown>(
-    service: "common" | "object",
-    method: string,
-    args: unknown[]
-  ): Promise<T> {
-    const url = `${this.config.baseUrl}/jsonrpc`;
+  async rpc<T = unknown>(service: 'common' | 'object', method: string, args: unknown[]): Promise<T> {
+    const url = `${this.config.baseUrl}/jsonrpc`
     const payload: JsonRpcPayload<unknown[]> = {
-      jsonrpc: "2.0",
-      method: "call",
+      jsonrpc: '2.0',
+      method: 'call',
       params: {
         service,
         method,
-        args,
+        args
       },
-      id: this.reqId++,
-    };
+      id: this.reqId++
+    }
 
     const res = await fetch(url, {
-      method: "POST",
+      method: 'POST',
       headers: {
-        "Content-Type": "application/json",
+        'Content-Type': 'application/json'
       },
       body: JSON.stringify(payload),
-      cache: "no-store",
-    });
+      cache: 'no-store'
+    })
 
     if (!res.ok) {
-      throw new Error(`Odoo HTTP Error: ${res.status} ${res.statusText}`);
+      throw new Error(`Odoo HTTP Error: ${res.status} ${res.statusText}`)
     }
 
-    const data: JsonRpcResponse<T> = (await res.json()) as JsonRpcResponse<T>;
+    const data: JsonRpcResponse<T> = (await res.json()) as JsonRpcResponse<T>
     if (data.error) {
-      const errMsg = data.error.data?.message || data.error.message || "Unknown Odoo RPC error";
-      throw new Error(`Odoo RPC [${service}.${method}]: ${errMsg}`);
+      const errMsg = data.error.data?.message || data.error.message || 'Unknown Odoo RPC error'
+      throw new Error(`Odoo RPC [${service}.${method}]: ${errMsg}`)
     }
 
-    return data.result as T;
+    return data.result as T
   }
 
   /**
    * Authenticate with specific user credentials (used in Login form)
    */
-  async authenticateWithCredentials(
-    db: string,
-    login: string,
-    password: string
-  ): Promise<number | false> {
-    const res = await this.rpc<number | false>("common", "authenticate", [db, login, password, {}]);
-    return res;
+  async authenticateWithCredentials(db: string, login: string, password: string): Promise<number | false> {
+    const res = await this.rpc<number | false>('common', 'authenticate', [db, login, password, {}])
+    return res
   }
 
   /**
@@ -79,52 +71,32 @@ export class OdooClient {
    */
   async authenticate(): Promise<number> {
     if (this.uid !== null) {
-      return this.uid;
+      return this.uid
     }
 
-    const secret = this.config.apiKey || this.config.password;
+    const secret = this.config.apiKey || this.config.password
     if (!secret) {
-      throw new Error("Missing Odoo password or API key for authentication");
+      throw new Error('Missing Odoo password or API key for authentication')
     }
 
-    const uid = await this.rpc<number | false>("common", "authenticate", [
-      this.config.db,
-      this.config.username,
-      secret,
-      {},
-    ]);
+    const uid = await this.rpc<number | false>('common', 'authenticate', [this.config.db, this.config.username, secret, {}])
 
     if (!uid) {
-      throw new Error(
-        `Authentication failed for user '${this.config.username}' on database '${this.config.db}'`
-      );
+      throw new Error(`Authentication failed for user '${this.config.username}' on database '${this.config.db}'`)
     }
 
-    this.uid = uid;
-    return uid;
+    this.uid = uid
+    return uid
   }
 
   /**
    * Execute ORM method via object.execute_kw
    */
-  async executeKw<T = unknown>(
-    model: string,
-    method: string,
-    args: unknown[] = [],
-    kwargs: Record<string, unknown> = {}
-  ): Promise<T> {
-    const uid = await this.authenticate();
-    const secret = this.config.apiKey || this.config.password;
+  async executeKw<T = unknown>(model: string, method: string, args: unknown[] = [], kwargs: Record<string, unknown> = {}): Promise<T> {
+    const uid = await this.authenticate()
+    const secret = this.config.apiKey || this.config.password
 
-    return this.rpc<T>("object", "execute_kw", [
-      this.config.db,
-      uid,
-      secret,
-      model,
-      method,
-      args,
-      kwargs,
-    ]);
+    return this.rpc<T>('object', 'execute_kw', [this.config.db, uid, secret, model, method, args, kwargs])
   }
 
   /**
@@ -136,34 +108,34 @@ export class OdooClient {
     fields: string[] = [],
     options: { offset?: number; limit?: number; order?: string } = {}
   ): Promise<T[]> {
-    return this.executeKw<T[]>(model, "search_read", [domain], {
+    return this.executeKw<T[]>(model, 'search_read', [domain], {
       fields,
       offset: options.offset || 0,
       limit: options.limit || 80,
-      order: options.order || "id desc",
-    });
+      order: options.order || 'id desc'
+    })
   }
 
   /**
    * Create a new record in model
    */
   async create<T = number>(model: string, values: Record<string, unknown>): Promise<T> {
-    return this.executeKw<T>(model, "create", [values]);
+    return this.executeKw<T>(model, 'create', [values])
   }
 
   /**
    * Update existing record(s) in model
    */
   async write(model: string, ids: number[], values: Record<string, unknown>): Promise<boolean> {
-    return this.executeKw<boolean>(model, "write", [ids, values]);
+    return this.executeKw<boolean>(model, 'write', [ids, values])
   }
 
   /**
    * Delete existing record(s) in model
    */
   async unlink(model: string, ids: number[]): Promise<boolean> {
-    return this.executeKw<boolean>(model, "unlink", [ids]);
+    return this.executeKw<boolean>(model, 'unlink', [ids])
   }
 }
 
-export const odooClient = new OdooClient();
+export const odooClient = new OdooClient()

@@ -1,52 +1,45 @@
-"use client";
+'use client'
 
-import * as React from "react";
-import { useTranslations } from "next-intl";
-import { Building, Save, ShieldCheck } from "lucide-react";
-import { toast } from "sonner";
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
-import { Button } from "@/components/ui/button";
-import { Input } from "@/components/ui/input";
-import { Textarea } from "@/components/ui/textarea";
-import {
-  Field,
-  FieldGroup,
-  FieldLabel,
-  FieldDescription,
-  FieldSet,
-  FieldLegend,
-  FieldSeparator,
-} from "@/components/ui/field";
+import * as React from 'react'
+import { Building, Save, ShieldCheck } from 'lucide-react'
+import { useTranslations } from 'next-intl'
+import { toast } from 'sonner'
+
+import { Button } from '@/components/ui/button'
+import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card'
+import { Field, FieldDescription, FieldGroup, FieldLabel, FieldLegend, FieldSeparator, FieldSet } from '@/components/ui/field'
+import { Input } from '@/components/ui/input'
+import { Textarea } from '@/components/ui/textarea'
 
 export default function CompanySettingsPage(): React.ReactElement {
-  const tAdmin = useTranslations("admin.company");
-  const tCommon = useTranslations("common");
-  const [isPending, setIsPending] = React.useState<boolean>(false);
+  const tAdmin = useTranslations('admin.company')
+  const tCommon = useTranslations('common')
+  const [isPending, setIsPending] = React.useState<boolean>(false)
 
   const [formData, setFormData] = React.useState({
-    name: "PT Syailendra Group Mandiri",
-    tagline: "Integrated Specialty Commodities & Agribusiness Traceability",
-    email: "official@syailendra.com",
-    phone: "+62 286 321 8899",
-    website: "https://syailendragroup.com",
-    address: "Kawasan Industri & Pergudangan Agribisnis, Temanggung - Wonosobo, Jawa Tengah 56254",
-    currency: "IDR (Rupiah Indonesia)",
-  });
+    name: 'PT Syailendra Group Mandiri',
+    tagline: 'Integrated Specialty Commodities & Agribusiness Traceability',
+    email: 'official@syailendra.com',
+    phone: '+62 286 321 8899',
+    website: 'https://syailendragroup.com',
+    address: 'Kawasan Industri & Pergudangan Agribisnis, Temanggung - Wonosobo, Jawa Tengah 56254',
+    currency: 'IDR (Rupiah Indonesia)'
+  })
 
   const handleSave = (e: React.FormEvent) => {
-    e.preventDefault();
-    setIsPending(true);
+    e.preventDefault()
+    setIsPending(true)
     setTimeout(() => {
-      setIsPending(false);
-      toast.success(tAdmin("messages.saved"));
-    }, 800);
-  };
+      setIsPending(false)
+      toast.success(tAdmin('messages.saved'))
+    }, 800)
+  }
 
   return (
     <div className="max-w-4xl space-y-6">
       <div>
-        <h1 className="text-xl font-bold tracking-tight sm:text-2xl">{tAdmin("title")}</h1>
-        <p className="text-muted-foreground text-xs sm:text-sm">{tAdmin("subtitle")}</p>
+        <h1 className="text-xl font-bold tracking-tight sm:text-2xl">{tAdmin('title')}</h1>
+        <p className="text-muted-foreground text-xs sm:text-sm">{tAdmin('subtitle')}</p>
       </div>
 
       <Card className="shadow-xs">
@@ -58,8 +51,7 @@ export default function CompanySettingsPage(): React.ReactElement {
                 Identitas Entitas Usaha Odoo 18 (res.company)
               </CardTitle>
               <CardDescription className="text-xs">
-                Data resmi yang digunakan pada kop surat jalan, sertifikat QR panen, dan faktur
-                komoditas
+                Data resmi yang digunakan pada kop surat jalan, sertifikat QR panen, dan faktur komoditas
               </CardDescription>
             </div>
             <span className="text-primary flex items-center gap-1 text-xs font-semibold">
@@ -73,31 +65,20 @@ export default function CompanySettingsPage(): React.ReactElement {
             <FieldGroup>
               <FieldSet>
                 <FieldLegend className="text-sm font-bold">Identitas Pokok Perusahaan</FieldLegend>
-                <FieldDescription className="text-xs">
-                  Nama legal dan positioning komoditas Syailendra Group
-                </FieldDescription>
+                <FieldDescription className="text-xs">Nama legal dan positioning komoditas Syailendra Group</FieldDescription>
                 <FieldGroup className="mt-4">
                   <Field>
                     <FieldLabel htmlFor="comp-name" className="text-xs font-semibold">
-                      {tAdmin("fields.name")}
+                      {tAdmin('fields.name')}
                     </FieldLabel>
-                    <Input
-                      id="comp-name"
-                      value={formData.name}
-                      onChange={(e) => setFormData({ ...formData, name: e.target.value })}
-                      required
-                    />
+                    <Input id="comp-name" value={formData.name} onChange={(e) => setFormData({ ...formData, name: e.target.value })} required />
                   </Field>
 
                   <Field>
                     <FieldLabel htmlFor="comp-tagline" className="text-xs font-semibold">
-                      {tAdmin("fields.tagline")}
+                      {tAdmin('fields.tagline')}
                     </FieldLabel>
-                    <Input
-                      id="comp-tagline"
-                      value={formData.tagline}
-                      onChange={(e) => setFormData({ ...formData, tagline: e.target.value })}
-                    />
+                    <Input id="comp-tagline" value={formData.tagline} onChange={(e) => setFormData({ ...formData, tagline: e.target.value })} />
                   </Field>
                 </FieldGroup>
               </FieldSet>
@@ -105,17 +86,13 @@ export default function CompanySettingsPage(): React.ReactElement {
               <FieldSeparator />
 
               <FieldSet>
-                <FieldLegend className="text-sm font-bold">
-                  Saluran Komunikasi & Portal Web
-                </FieldLegend>
-                <FieldDescription className="text-xs">
-                  Kontak resmi untuk mitra petani dan buyer roastery internasional
-                </FieldDescription>
+                <FieldLegend className="text-sm font-bold">Saluran Komunikasi & Portal Web</FieldLegend>
+                <FieldDescription className="text-xs">Kontak resmi untuk mitra petani dan buyer roastery internasional</FieldDescription>
                 <FieldGroup className="mt-4">
                   <div className="grid gap-4 sm:grid-cols-2">
                     <Field>
                       <FieldLabel htmlFor="comp-email" className="text-xs font-semibold">
-                        {tAdmin("fields.email")}
+                        {tAdmin('fields.email')}
                       </FieldLabel>
                       <Input
                         id="comp-email"
@@ -128,31 +105,22 @@ export default function CompanySettingsPage(): React.ReactElement {
 
                     <Field>
                       <FieldLabel htmlFor="comp-phone" className="text-xs font-semibold">
-                        {tAdmin("fields.phone")}
+                        {tAdmin('fields.phone')}
                       </FieldLabel>
-                      <Input
-                        id="comp-phone"
-                        value={formData.phone}
-                        onChange={(e) => setFormData({ ...formData, phone: e.target.value })}
-                        required
-                      />
+                      <Input id="comp-phone" value={formData.phone} onChange={(e) => setFormData({ ...formData, phone: e.target.value })} required />
                     </Field>
                   </div>
 
                   <Field>
                     <FieldLabel htmlFor="comp-website" className="text-xs font-semibold">
-                      {tAdmin("fields.website")}
+                      {tAdmin('fields.website')}
                     </FieldLabel>
-                    <Input
-                      id="comp-website"
-                      value={formData.website}
-                      onChange={(e) => setFormData({ ...formData, website: e.target.value })}
-                    />
+                    <Input id="comp-website" value={formData.website} onChange={(e) => setFormData({ ...formData, website: e.target.value })} />
                   </Field>
 
                   <Field>
                     <FieldLabel htmlFor="comp-address" className="text-xs font-semibold">
-                      {tAdmin("fields.address")}
+                      {tAdmin('fields.address')}
                     </FieldLabel>
                     <Textarea
                       id="comp-address"
@@ -168,14 +136,9 @@ export default function CompanySettingsPage(): React.ReactElement {
               <FieldSeparator />
 
               <Field orientation="horizontal" className="justify-end gap-2 pt-2">
-                <Button
-                  type="submit"
-                  size="sm"
-                  disabled={isPending}
-                  className="cursor-pointer gap-2 font-semibold"
-                >
+                <Button type="submit" size="sm" disabled={isPending} className="cursor-pointer gap-2 font-semibold">
                   <Save className="h-4 w-4" />
-                  <span>{isPending ? tCommon("status.loading") : tCommon("actions.save")}</span>
+                  <span>{isPending ? tCommon('status.loading') : tCommon('actions.save')}</span>
                 </Button>
               </Field>
             </FieldGroup>
@@ -183,5 +146,5 @@ export default function CompanySettingsPage(): React.ReactElement {
         </CardContent>
       </Card>
     </div>
-  );
+  )
 }

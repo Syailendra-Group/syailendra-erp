@@ -1,26 +1,22 @@
-"use client";
+'use client'
 
-import * as React from "react";
-import { Languages } from "lucide-react";
-import { useLocale } from "next-intl";
-import { usePathname, useRouter } from "@/i18n/navigation";
-import { Button } from "@/components/ui/button";
-import {
-  DropdownMenu,
-  DropdownMenuContent,
-  DropdownMenuItem,
-  DropdownMenuTrigger,
-} from "@/components/ui/dropdown-menu";
+import * as React from 'react'
+import { Languages } from 'lucide-react'
+import { useLocale } from 'next-intl'
+
+import { Button } from '@/components/ui/button'
+import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuTrigger } from '@/components/ui/dropdown-menu'
+import { usePathname, useRouter } from '@/i18n/navigation'
 
 export function LanguageToggle(): React.ReactElement {
-  const locale = useLocale();
-  const router = useRouter();
-  const pathname = usePathname();
+  const locale = useLocale()
+  const router = useRouter()
+  const pathname = usePathname()
 
-  const handleLanguageChange = (nextLocale: "id" | "en") => {
+  const handleLanguageChange = (nextLocale: 'id' | 'en') => {
     // next-intl useRouter automatically handles switching locale with current pathname
-    router.replace(pathname, { locale: nextLocale });
-  };
+    router.replace(pathname, { locale: nextLocale })
+  }
 
   return (
     <DropdownMenu>
@@ -32,18 +28,18 @@ export function LanguageToggle(): React.ReactElement {
       </DropdownMenuTrigger>
       <DropdownMenuContent align="end">
         <DropdownMenuItem
-          onClick={() => handleLanguageChange("id")}
-          className={`cursor-pointer ${locale === "id" ? "text-primary dark:text-primary font-bold" : ""}`}
+          onClick={() => handleLanguageChange('id')}
+          className={`cursor-pointer ${locale === 'id' ? 'text-primary dark:text-primary font-bold' : ''}`}
         >
           🇮🇩 Bahasa Indonesia (Default)
         </DropdownMenuItem>
         <DropdownMenuItem
-          onClick={() => handleLanguageChange("en")}
-          className={`cursor-pointer ${locale === "en" ? "text-primary dark:text-primary font-bold" : ""}`}
+          onClick={() => handleLanguageChange('en')}
+          className={`cursor-pointer ${locale === 'en' ? 'text-primary dark:text-primary font-bold' : ''}`}
         >
           🇬🇧 English
         </DropdownMenuItem>
       </DropdownMenuContent>
     </DropdownMenu>
-  );
+  )
 }

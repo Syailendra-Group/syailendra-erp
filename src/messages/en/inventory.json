@@ -1,25 +1,29 @@
 {
+  "overview": {
+    "title": "Warehouse & Stock Management",
+    "subtitle": "Real-time commodities inventory, traceable lots, and double-entry transfers"
+  },
   "kpi": {
-    "on_hand": "Physical Stock On-Hand",
-    "ready_transfers": "Ready to Ship",
-    "waiting_operations": "Waiting Stock",
-    "late_operations": "Late Dispatch"
+    "on_hand": "Physical Stock On Hand",
+    "ready_transfers": "Ready for Delivery",
+    "waiting_operations": "Waiting Operations",
+    "late_operations": "Late Transfers"
   },
   "table": {
     "product_name": "Commodity Product",
-    "location": "Warehouse Bin Location",
-    "lot_number": "Harvest Lot Number",
-    "quantity": "Available Stock",
-    "reserved": "Reserved",
+    "location": "Warehouse Location",
+    "lot_number": "Lot Number",
+    "quantity": "Available Quantity",
+    "reserved": "Reserved Quantity",
     "status": "Stock Status"
   },
   "trace": {
-    "farmer_partner": "Partner Farmer / Cooperative",
+    "farmer_partner": "Partner Farmers Group",
     "farm_location": "Farm Location",
     "harvest_date": "Harvest Date",
-    "varietal": "Crop Varietal",
-    "processing": "Processing Method",
-    "cupping_score": "Cupping Score / Quality Grade",
-    "elevation": "Farm Elevation (MASL)"
+    "varietal": "Botanical Varietal",
+    "processing": "Post-Harvest Processing",
+    "cupping_score": "Q-Grade Cupping Score",
+    "elevation": "Elevation (masl)"
   }
 }

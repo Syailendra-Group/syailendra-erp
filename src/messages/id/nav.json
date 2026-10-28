@@ -1,41 +1,35 @@
 {
-  "tabs": {
+  "modules": {
     "inventory": "Inventaris",
-    "crm": "Penjualan CRM",
-    "attendance": "Presensi & Laporan",
+    "crm": "CRM B2B",
+    "hr": "HR & Absensi",
     "settings": "Pengaturan"
   },
-  "sidebar": {
-    "inventory": {
-      "overview": "Ringkasan Gudang",
-      "stock_ledger": "Saldo Stok Fisik",
-      "receipts": "Surat Masuk (Petani)",
-      "deliveries": "Surat Jalan (Pengiriman)",
-      "internal_transfers": "Transfer Internal",
-      "traceability": "Pelacakan Lot Panen"
-    },
-    "crm": {
-      "pipeline": "Pipeline Penjualan",
-      "leads": "Daftar Prospek",
-      "activities": "Aktivitas Sales",
-      "customers": "Data Kontak Pelanggan"
-    },
-    "attendance": {
-      "clock": "Presensi Hari Ini",
-      "daily_report": "Laporan Harian Kerja",
-      "timesheet": "Rekapitulasi Jam Kerja",
-      "approvals": "Persetujuan Tim"
-    },
-    "settings": {
-      "company": "Profil Usaha & Branding",
-      "users": "Manajemen Karyawan",
-      "roles": "Matriks Hak Akses"
-    }
+  "groups": {
+    "overview": "Ikhtisar",
+    "inventory_ops": "Operasional Inventaris",
+    "b2b_crm": "Pipeline CRM B2B",
+    "hr_attendance": "Absensi & Pelaporan",
+    "system_settings": "Pengaturan Sistem"
+  },
+  "items": {
+    "dashboard": "Dasbor Stok",
+    "products": "Produk Komoditas",
+    "stock_moves": "Transfer & Mutasi Stok",
+    "lots_batches": "Nomor Lot & Batch",
+    "traceability_qr": "Mesin QR Traceability",
+    "stock_reporting": "Laporan & Valuasi",
+    "leads_pipeline": "Pipeline Penjualan",
+    "partners": "Mitra & Kelompok Tani",
+    "attendance_log": "Catatan Kehadiran",
+    "daily_reports": "Laporan Harian",
+    "shifts": "Jadwal Kerja",
+    "company_profile": "Profil Perusahaan",
+    "rbac": "Hak Akses & Peran"
   },
   "user": {
-    "profile": "Profil Saya",
-    "logout": "Keluar Akun",
-    "language": "Pilihan Bahasa",
-    "theme": "Tema Tampilan"
+    "profile": "Profil Akun",
+    "security": "Keamanan & Sesi",
+    "logout": "Keluar Akun"
   }
 }

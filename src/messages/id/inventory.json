@@ -1,4 +1,8 @@
 {
+  "overview": {
+    "title": "Manajemen Gudang & Saldo Stok",
+    "subtitle": "Monitoring komoditas riil, pelacakan lot panen, dan validasi mutasi stok Odoo"
+  },
   "kpi": {
     "on_hand": "Total Stok Fisik",
     "ready_transfers": "Siap Kirim",

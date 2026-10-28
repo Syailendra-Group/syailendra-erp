@@ -2,7 +2,7 @@
 
 import * as React from "react";
 import { useTranslations } from "next-intl";
-import { Boxes, Users, Clock, Settings } from "lucide-react";
+import { Boxes, Users, Clock, ShieldCheck } from "lucide-react";
 import { useNavStore, type ModuleTab } from "@/stores/nav-store";
 import { Button } from "@/components/ui/button";
 import { cn } from "@/lib/utils";
@@ -17,7 +17,7 @@ export function TopNav({ className, ...props }: TopNavProps): React.ReactElement
     { id: "inventory", titleKey: "modules.inventory", icon: Boxes },
     { id: "crm", titleKey: "modules.crm", icon: Users },
     { id: "hr", titleKey: "modules.hr", icon: Clock },
-    { id: "settings", titleKey: "modules.settings", icon: Settings },
+    { id: "admin", titleKey: "modules.admin", icon: ShieldCheck },
   ];
 
   return (

@@ -15,6 +15,13 @@ import {
   FileText,
   Sliders,
   Building,
+  UserCheck,
+  FolderTree,
+  UserCog,
+  Contact,
+  Tags,
+  Activity,
+  Globe,
 } from "lucide-react";
 import {
   Sidebar,
@@ -117,19 +124,79 @@ export function AppSidebar(): React.ReactElement {
     },
   ];
 
-  const settingsGroups: NavGroupType[] = [
+  const adminGroups: NavGroupType[] = [
     {
-      titleKey: "groups.system_settings",
+      titleKey: "groups.admin_overview",
+      items: [
+        {
+          titleKey: "items.admin_dashboard",
+          url: "/admin",
+          icon: Sliders,
+        },
+        {
+          titleKey: "items.audit_logs",
+          url: "/admin/audit-logs",
+          icon: Activity,
+        },
+      ],
+    },
+    {
+      titleKey: "groups.workforce",
+      items: [
+        {
+          titleKey: "items.employees",
+          url: "/admin/employees",
+          icon: UserCheck,
+        },
+        {
+          titleKey: "items.departments",
+          url: "/admin/departments",
+          icon: FolderTree,
+        },
+      ],
+    },
+    {
+      titleKey: "groups.access_security",
+      items: [
+        {
+          titleKey: "items.users",
+          url: "/admin/users",
+          icon: UserCog,
+        },
+        {
+          titleKey: "items.roles",
+          url: "/admin/roles",
+          icon: Sliders,
+        },
+      ],
+    },
+    {
+      titleKey: "groups.relationships",
+      items: [
+        {
+          titleKey: "items.contacts",
+          url: "/admin/contacts",
+          icon: Contact,
+        },
+        {
+          titleKey: "items.contact_categories",
+          url: "/admin/contact-categories",
+          icon: Tags,
+        },
+      ],
+    },
+    {
+      titleKey: "groups.organization_web",
       items: [
         {
           titleKey: "items.company_profile",
-          url: "/settings/company",
+          url: "/admin/company",
           icon: Building,
         },
         {
-          titleKey: "items.rbac",
-          url: "/settings/roles",
-          icon: Sliders,
+          titleKey: "items.web_settings",
+          url: "/admin/web-settings",
+          icon: Globe,
         },
       ],
     },
@@ -138,7 +205,7 @@ export function AppSidebar(): React.ReactElement {
   let currentGroups = inventoryGroups;
   if (activeTab === "crm") currentGroups = crmGroups;
   if (activeTab === "hr") currentGroups = hrGroups;
-  if (activeTab === "settings") currentGroups = settingsGroups;
+  if (activeTab === "admin") currentGroups = adminGroups;
 
   return (
     <Sidebar collapsible="icon" className="border-border/80 border-r">

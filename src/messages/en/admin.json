@@ -1,0 +1,76 @@
+{
+  "overview": {
+    "title": "System Governance & Administration",
+    "subtitle": "Workforce management, role-based access control, unified contacts, and company web portal settings",
+    "kpi": {
+      "employees": "Active Workforce",
+      "departments": "Operating Units",
+      "users": "Portal Users",
+      "contacts": "Unified Partners"
+    }
+  },
+  "employees": {
+    "title": "Employee Directory",
+    "subtitle": "Manage staff records, operational job titles, department assignments, and system user linkage",
+    "actions": {
+      "add": "Add Employee",
+      "edit": "Edit Employee",
+      "archive": "Archive",
+      "activate": "Activate"
+    },
+    "fields": {
+      "name": "Full Name",
+      "name_placeholder": "e.g. Budi Santoso",
+      "work_email": "Work Email",
+      "work_email_placeholder": "budi@syailendra.com",
+      "work_phone": "Work Phone / WhatsApp",
+      "work_phone_placeholder": "+62 812 3456 7890",
+      "job_title": "Job Title",
+      "job_title_placeholder": "e.g. Warehouse Quality Supervisor",
+      "department": "Department",
+      "department_placeholder": "Select Department",
+      "status": "Employment Status"
+    },
+    "messages": {
+      "created": "Employee successfully added to Odoo 18",
+      "updated": "Employee details updated",
+      "archived": "Employee record archived"
+    }
+  },
+  "roles": {
+    "title": "Role-Based Access Control (RBAC)",
+    "subtitle": "Configure user permission groups, module visibility, and security boundaries in Odoo 18",
+    "matrix": {
+      "role_name": "Security Group / Role",
+      "module_access": "Module Entitlements",
+      "users_count": "Assigned Users"
+    }
+  },
+  "contacts": {
+    "title": "Unified Contact Directory",
+    "subtitle": "Central database of partner farmers, commodity collectors, suppliers, and B2B coffee buyers",
+    "fields": {
+      "name": "Contact / Entity Name",
+      "category": "Partner Category",
+      "phone": "Phone / Mobile",
+      "email": "Email Address",
+      "city": "Region / City"
+    }
+  },
+  "company": {
+    "title": "Company Profile & Web Settings",
+    "subtitle": "Manage legal holding identity, official branding, contacts, and public portal metadata",
+    "fields": {
+      "name": "Legal Company Name",
+      "tagline": "Agribusiness Tagline",
+      "email": "Official Business Email",
+      "phone": "Headquarters Phone",
+      "website": "Portal Website URL",
+      "address": "Head Office & Warehouse Address",
+      "currency": "Default System Currency"
+    },
+    "messages": {
+      "saved": "Company settings updated successfully in Odoo 18"
+    }
+  }
+}

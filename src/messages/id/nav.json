@@ -3,14 +3,18 @@
     "inventory": "Inventaris",
     "crm": "CRM B2B",
     "hr": "HR & Absensi",
-    "settings": "Pengaturan"
+    "admin": "Administrasi"
   },
   "groups": {
     "overview": "Ikhtisar",
     "inventory_ops": "Operasional Inventaris",
     "b2b_crm": "Pipeline CRM B2B",
     "hr_attendance": "Absensi & Pelaporan",
-    "system_settings": "Pengaturan Sistem"
+    "admin_overview": "Ikhtisar Tata Kelola",
+    "workforce": "Struktur SDM & Organisasi",
+    "access_security": "Otorisasi & Pengguna",
+    "relationships": "Buku Kontak & Mitra",
+    "organization_web": "Profil Usaha & Web"
   },
   "items": {
     "dashboard": "Dasbor Stok",
@@ -24,8 +28,16 @@
     "attendance_log": "Catatan Kehadiran",
     "daily_reports": "Laporan Harian",
     "shifts": "Jadwal Kerja",
+    "admin_dashboard": "Ringkasan Sistem",
+    "audit_logs": "Log Aktivitas & Audit",
+    "employees": "Data Karyawan",
+    "departments": "Departemen & Divisi",
+    "users": "Akun Pengguna",
+    "roles": "Hak Akses & Peran",
+    "contacts": "Direktori Kontak",
+    "contact_categories": "Kategori Mitra",
     "company_profile": "Profil Perusahaan",
-    "rbac": "Hak Akses & Peran"
+    "web_settings": "Pengaturan Web"
   },
   "user": {
     "profile": "Profil Akun",

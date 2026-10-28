@@ -3,14 +3,18 @@
     "inventory": "Inventory",
     "crm": "B2B CRM",
     "hr": "HR & Attendance",
-    "settings": "Settings"
+    "admin": "Administration"
   },
   "groups": {
     "overview": "Overview",
     "inventory_ops": "Inventory Operations",
     "b2b_crm": "B2B CRM Pipeline",
     "hr_attendance": "Attendance & Reporting",
-    "system_settings": "System Settings"
+    "admin_overview": "System Overview",
+    "workforce": "Workforce & Organization",
+    "access_security": "Access & Security",
+    "relationships": "Relationship Directory",
+    "organization_web": "Organization & Web"
   },
   "items": {
     "dashboard": "Stock Dashboard",
@@ -24,8 +28,16 @@
     "attendance_log": "Check-In / Out Log",
     "daily_reports": "Daily Field Reports",
     "shifts": "Shift Schedules",
-    "company_profile": "Company & Units",
-    "rbac": "Roles & Access Control"
+    "admin_dashboard": "Governance Overview",
+    "audit_logs": "Audit Trail & Logs",
+    "employees": "Employee Management",
+    "departments": "Departments & Units",
+    "users": "System Users",
+    "roles": "RBAC & Permissions",
+    "contacts": "Unified Contacts",
+    "contact_categories": "Partner Categories",
+    "company_profile": "Company Profile",
+    "web_settings": "Web & Portal Settings"
   },
   "user": {
     "profile": "Profile Account",

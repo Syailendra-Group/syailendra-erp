@@ -11,11 +11,13 @@ import idCommon from "@/messages/id/common.json";
 import idAuth from "@/messages/id/auth.json";
 import idNav from "@/messages/id/nav.json";
 import idInventory from "@/messages/id/inventory.json";
+import idAdmin from "@/messages/id/admin.json";
 
 import enCommon from "@/messages/en/common.json";
 import enAuth from "@/messages/en/auth.json";
 import enNav from "@/messages/en/nav.json";
 import enInventory from "@/messages/en/inventory.json";
+import enAdmin from "@/messages/en/admin.json";
 
 const messagesMap = {
   id: {
@@ -23,12 +25,14 @@ const messagesMap = {
     auth: idAuth,
     nav: idNav,
     inventory: idInventory,
+    admin: idAdmin,
   },
   en: {
     common: enCommon,
     auth: enAuth,
     nav: enNav,
     inventory: enInventory,
+    admin: enAdmin,
   },
 };
 

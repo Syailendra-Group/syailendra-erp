@@ -1,0 +1,41 @@
+{
+  "tabs": {
+    "inventory": "Inventory",
+    "crm": "CRM Sales",
+    "attendance": "Attendance & HR",
+    "settings": "Settings"
+  },
+  "sidebar": {
+    "inventory": {
+      "overview": "Warehouse Overview",
+      "stock_ledger": "Physical Stock Ledger",
+      "receipts": "Incoming Receipts",
+      "deliveries": "Outgoing Deliveries",
+      "internal_transfers": "Internal Transfers",
+      "traceability": "Harvest Lot Traceability"
+    },
+    "crm": {
+      "pipeline": "Deal Pipeline",
+      "leads": "Leads Directory",
+      "activities": "Sales Activities",
+      "customers": "Customer Contacts"
+    },
+    "attendance": {
+      "clock": "Today's Attendance",
+      "daily_report": "Daily Work Report",
+      "timesheet": "Timesheet Summary",
+      "approvals": "Team Approvals"
+    },
+    "settings": {
+      "company": "Company Branding",
+      "users": "Employee Accounts",
+      "roles": "Permission Matrix"
+    }
+  },
+  "user": {
+    "profile": "My Profile",
+    "logout": "Log Out",
+    "language": "Language",
+    "theme": "Theme"
+  }
+}

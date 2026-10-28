@@ -1,0 +1,25 @@
+{
+  "kpi": {
+    "on_hand": "Physical Stock On-Hand",
+    "ready_transfers": "Ready to Ship",
+    "waiting_operations": "Waiting Stock",
+    "late_operations": "Late Dispatch"
+  },
+  "table": {
+    "product_name": "Commodity Product",
+    "location": "Warehouse Bin Location",
+    "lot_number": "Harvest Lot Number",
+    "quantity": "Available Stock",
+    "reserved": "Reserved",
+    "status": "Stock Status"
+  },
+  "trace": {
+    "farmer_partner": "Partner Farmer / Cooperative",
+    "farm_location": "Farm Location",
+    "harvest_date": "Harvest Date",
+    "varietal": "Crop Varietal",
+    "processing": "Processing Method",
+    "cupping_score": "Cupping Score / Quality Grade",
+    "elevation": "Farm Elevation (MASL)"
+  }
+}

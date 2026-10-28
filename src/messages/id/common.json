@@ -1,0 +1,22 @@
+{
+  "actions": {
+    "save": "Simpan",
+    "cancel": "Batal",
+    "delete": "Hapus",
+    "edit": "Ubah",
+    "search": "Cari...",
+    "refresh": "Muat Ulang",
+    "submit": "Kirim",
+    "confirm": "Konfirmasi",
+    "back": "Kembali",
+    "view": "Lihat",
+    "export": "Ekspor",
+    "import": "Impor"
+  },
+  "status": {
+    "loading": "Memuat data...",
+    "success": "Berhasil",
+    "error": "Terjadi kesalahan",
+    "empty": "Belum ada data tersedia"
+  }
+}

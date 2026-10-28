@@ -23,7 +23,7 @@ export class OdooClient {
   /**
    * Execute raw JSON-RPC 2.0 POST call
    */
-  private async rpc<T = unknown>(
+  async rpc<T = unknown>(
     service: "common" | "object",
     method: string,
     args: unknown[]
@@ -63,7 +63,19 @@ export class OdooClient {
   }
 
   /**
-   * Authenticate with Odoo server and retrieve user ID (cached)
+   * Authenticate with specific user credentials (used in Login form)
+   */
+  async authenticateWithCredentials(
+    db: string,
+    login: string,
+    password: string
+  ): Promise<number | false> {
+    const res = await this.rpc<number | false>("common", "authenticate", [db, login, password, {}]);
+    return res;
+  }
+
+  /**
+   * Authenticate with system server credentials (cached for system services)
    */
   async authenticate(): Promise<number> {
     if (this.uid !== null) {

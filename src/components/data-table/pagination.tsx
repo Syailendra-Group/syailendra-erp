@@ -15,9 +15,11 @@ export function DataTablePagination<TData>({ table }: DataTablePaginationProps<T
   const tPagination = useTranslations('common.pagination')
 
   return (
-    <div className="flex items-center justify-between px-2">
-      <div className="text-muted-foreground flex-1 text-xs">{tPagination('totalRows', { total: table.getFilteredRowModel().rows.length })}</div>
-      <div className="flex items-center space-x-6 lg:space-x-8">
+    <div className="flex flex-col-reverse items-center justify-between gap-3 px-2 sm:flex-row sm:gap-6">
+      <div className="text-muted-foreground w-full text-center text-xs sm:w-auto sm:text-left">
+        {tPagination('totalRows', { total: table.getFilteredRowModel().rows.length })}
+      </div>
+      <div className="flex flex-wrap items-center justify-center gap-3 sm:space-x-6 lg:space-x-8">
         <div className="flex items-center space-x-2">
           <p className="text-xs font-medium">{tPagination('rowsPerPage')}</p>
           <Select
@@ -44,7 +46,7 @@ export function DataTablePagination<TData>({ table }: DataTablePaginationProps<T
             total: table.getPageCount() || 1
           })}
         </div>
-        <div className="flex items-center space-x-2">
+        <div className="flex items-center space-x-1.5 sm:space-x-2">
           <Button
             variant="outline"
             className="hidden h-8 w-8 p-0 lg:flex"

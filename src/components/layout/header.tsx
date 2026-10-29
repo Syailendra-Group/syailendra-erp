@@ -26,14 +26,14 @@ export function Header({ className, fixed = true, children, ...props }: HeaderPr
       )}
       {...props}
     >
-      <div className="flex h-full items-center justify-between gap-3 px-4 sm:px-6">
-        <div className="flex items-center gap-3">
-          <SidebarTrigger variant="outline" className="cursor-pointer" />
+      <div className="flex h-full items-center gap-2 px-3 sm:gap-4 sm:px-6">
+        <div className="flex items-center gap-2 sm:gap-3">
+          <SidebarTrigger variant="outline" className="cursor-pointer max-md:scale-110" />
           <Separator orientation="vertical" className="h-5" />
           <TopNav />
         </div>
 
-        <div className="flex items-center gap-2">
+        <div className="ms-auto flex items-center gap-1.5 sm:gap-2">
           {children}
           <Search />
           <LanguageToggle />

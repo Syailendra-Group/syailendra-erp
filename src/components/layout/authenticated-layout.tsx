@@ -47,7 +47,7 @@ export function AuthenticatedLayout({ children }: AuthenticatedLayoutProps): Rea
         <SkipToMain />
         <SidebarProvider defaultOpen={true}>
           <AppSidebar />
-          <SidebarInset>
+          <SidebarInset className="w-full min-w-0 overflow-x-hidden">
             <Header fixed={true} />
             <Main id="content">
               <Breadcrumbs />

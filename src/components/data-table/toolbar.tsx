@@ -33,13 +33,13 @@ export function DataTableToolbar<TData>({ table, searchPlaceholder, filters = []
   const isFiltered = table.getState().columnFilters.length > 0 || !!table.getState().globalFilter
 
   return (
-    <div className="flex items-center justify-between">
+    <div className="flex flex-col gap-2.5 sm:flex-row sm:items-center sm:justify-between">
       <div className="flex flex-1 flex-wrap items-center gap-2">
         <Input
           placeholder={searchPlaceholder || tCommon('search')}
           value={(table.getState().globalFilter as string) ?? ''}
           onChange={(event) => table.setGlobalFilter(event.target.value)}
-          className="dark:bg-card w-[150px] bg-white text-xs lg:w-[250px]"
+          className="dark:bg-card h-8 w-full bg-white text-xs sm:w-[180px] lg:w-[250px]"
         />
 
         {filters.map((filter) => {
@@ -55,7 +55,7 @@ export function DataTableToolbar<TData>({ table, searchPlaceholder, filters = []
               table.resetColumnFilters()
               table.setGlobalFilter('')
             }}
-            className="px-2 text-xs lg:px-3"
+            className="h-8 px-2 text-xs lg:px-3"
           >
             {tCommon('reset')}
             <X className="ml-2 h-4 w-4" />
@@ -63,7 +63,7 @@ export function DataTableToolbar<TData>({ table, searchPlaceholder, filters = []
         )}
       </div>
 
-      <div className="flex items-center gap-2">
+      <div className="flex items-center gap-2 self-end sm:self-center">
         {children}
         <DataTableViewOptions table={table} />
       </div>

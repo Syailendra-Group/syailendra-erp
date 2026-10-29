@@ -11,7 +11,12 @@ export function Main({ fixed, className, fluid, ...props }: MainProps): ReactEle
   return (
     <main
       data-layout={fixed ? 'fixed' : 'auto'}
-      className={cn('px-4 py-6 sm:px-6 lg:px-8', fixed && 'flex grow flex-col overflow-hidden', !fluid && 'mx-auto w-full max-w-7xl', className)}
+      className={cn(
+        'w-full min-w-0 px-3 py-4 sm:px-6 sm:py-6 lg:px-8',
+        fixed && 'flex grow flex-col overflow-hidden',
+        !fluid && 'mx-auto max-w-7xl',
+        className
+      )}
       {...props}
     />
   )

@@ -167,7 +167,7 @@ export function AppSidebar(): React.ReactElement {
   if (activeTab === 'employees') currentGroups = employeesGroups
 
   return (
-    <Sidebar variant="floating" collapsible="icon" className="bg-card border-0 shadow-sm">
+    <Sidebar variant="floating" collapsible="icon" className="border-0 shadow-sm">
       <SidebarHeader>
         <CompanySwitcher />
       </SidebarHeader>

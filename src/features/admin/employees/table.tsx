@@ -104,10 +104,10 @@ export function EmployeesTable({ columns, data }: EmployeesTableProps): React.Re
         </Button>
       </DataTableToolbar>
 
-      {/* Table Wrapper Borderless with Card background */}
-      <div className="bg-card overflow-hidden rounded-xl shadow-xs">
-        <Table>
-          <TableHeader className="bg-muted/40">
+      {/* Table Wrapper in pure white for light mode */}
+      <div className="dark:bg-card border-border/40 overflow-hidden rounded-xl border bg-white shadow-xs">
+        <Table className="dark:bg-card bg-white">
+          <TableHeader className="bg-muted/30">
             {table.getHeaderGroups().map((headerGroup) => (
               <TableRow key={headerGroup.id}>
                 {headerGroup.headers.map((header) => {

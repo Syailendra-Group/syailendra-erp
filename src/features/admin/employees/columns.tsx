@@ -109,6 +109,8 @@ export const columns: ColumnDef<EmployeeRecord>[] = [
   },
   {
     id: 'actions',
-    cell: ({ row }) => <DataTableRowActions row={row.original} />
+    header: () => <div className="pr-2 text-right text-xs font-semibold">Aksi</div>,
+    cell: ({ row }) => <DataTableRowActions row={row.original} />,
+    enableHiding: false
   }
 ]

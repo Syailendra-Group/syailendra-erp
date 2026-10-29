@@ -18,7 +18,7 @@ export function Header({ className, fixed = true, children, ...props }: HeaderPr
   return (
     <header
       className={cn(
-        'bg-background/95 supports-backdrop-filter:bg-background/60 border-border/80 z-30 h-16 border-b backdrop-blur-md',
+        'dark:bg-background/80 dark:supports-[backdrop-filter]:bg-background/70 border-border/40 z-30 h-16 border-b bg-white/80 backdrop-blur-md supports-[backdrop-filter]:bg-white/70',
         fixed && 'sticky top-0 w-full',
         className
       )}

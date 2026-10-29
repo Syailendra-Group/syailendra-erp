@@ -31,15 +31,17 @@ export function TopNav({ className, ...props }: TopNavProps): React.ReactElement
         return (
           <Button
             key={tab.id}
-            variant={isActive ? 'secondary' : 'ghost'}
+            variant={isActive ? 'default' : 'ghost'}
             size="sm"
             onClick={() => setActiveTab(tab.id)}
             className={cn(
               'cursor-pointer gap-2 text-xs font-medium transition-colors',
-              isActive && 'bg-secondary text-foreground font-semibold shadow-xs'
+              isActive
+                ? 'bg-primary text-primary-foreground hover:bg-primary/90 font-semibold shadow-xs'
+                : 'text-muted-foreground hover:bg-muted hover:text-foreground'
             )}
           >
-            <Icon className="text-primary h-4 w-4" />
+            <Icon className={cn('h-4 w-4', isActive ? 'text-primary-foreground' : 'text-muted-foreground')} />
             <span className="hidden md:inline">{tNav(tab.titleKey)}</span>
           </Button>
         )

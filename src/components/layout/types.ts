@@ -1,4 +1,4 @@
-import * as React from 'react'
+import { type ElementType } from 'react'
 
 export type ModuleCategory = 'inventory' | 'crm' | 'hr' | 'employees'
 
@@ -18,7 +18,7 @@ export interface CompanyProfile {
 export interface BaseNavItem {
   titleKey: string
   badge?: string
-  icon: React.ElementType
+  icon: ElementType
 }
 
 export interface NavLinkItem extends BaseNavItem {

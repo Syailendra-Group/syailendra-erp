@@ -31,6 +31,25 @@
       "department_placeholder": "Select Department",
       "status": "Employment Status"
     },
+    "table": {
+      "name": "Employee Name",
+      "job_title": "Operational Job Title",
+      "department": "Department",
+      "contact": "Work Contact",
+      "status": "Status",
+      "actions": "Actions",
+      "defaultDept": "Headquarters",
+      "defaultJob": "Operational Staff"
+    },
+    "detail": {
+      "title": "Employee Details",
+      "subtitle": "Profile details and work placement in Odoo 18 system.",
+      "department": "Department",
+      "workEmail": "Work Email",
+      "workPhone": "Phone / WA",
+      "odooId": "Backend Odoo ID",
+      "editProfile": "Edit Profile"
+    },
     "messages": {
       "created": "Employee successfully added to Odoo 18",
       "updated": "Employee details updated",

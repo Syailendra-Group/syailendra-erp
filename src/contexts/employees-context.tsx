@@ -1,10 +1,11 @@
 'use client'
 
-import * as React from 'react'
+import { createContext, useContext, useState } from 'react'
 
 import type { DepartmentOption, EmployeeRecord } from '@/features/admin/employees/actions'
+import type { ReactElement, ReactNode } from 'react'
 
-export type EmployeesDialogType = 'add' | 'edit' | 'archive' | null
+export type EmployeesDialogType = 'add' | 'edit' | 'archive' | 'view' | null
 
 export interface EmployeesContextType {
   open: EmployeesDialogType
@@ -16,18 +17,18 @@ export interface EmployeesContextType {
   refreshData: () => void
 }
 
-const EmployeesContext = React.createContext<EmployeesContextType | null>(null)
+const EmployeesContext = createContext<EmployeesContextType | null>(null)
 
 export interface EmployeesProviderProps {
-  children: React.ReactNode
+  children: ReactNode
   refreshData: () => void
   initialDepartments?: DepartmentOption[]
 }
 
-export function EmployeesProvider({ children, refreshData, initialDepartments = [] }: EmployeesProviderProps): React.ReactElement {
-  const [open, setOpen] = React.useState<EmployeesDialogType>(null)
-  const [currentRow, setCurrentRow] = React.useState<EmployeeRecord | null>(null)
-  const [departments, setDepartments] = React.useState<DepartmentOption[]>(initialDepartments)
+export function EmployeesProvider({ children, refreshData, initialDepartments = [] }: EmployeesProviderProps): ReactElement {
+  const [open, setOpen] = useState<EmployeesDialogType>(null)
+  const [currentRow, setCurrentRow] = useState<EmployeeRecord | null>(null)
+  const [departments, setDepartments] = useState<DepartmentOption[]>(initialDepartments)
 
   return (
     <EmployeesContext.Provider
@@ -47,7 +48,7 @@ export function EmployeesProvider({ children, refreshData, initialDepartments = 
 }
 
 export function useEmployees(): EmployeesContextType {
-  const ctx = React.useContext(EmployeesContext)
+  const ctx = useContext(EmployeesContext)
   if (!ctx) {
     throw new Error('useEmployees must be used within an EmployeesProvider')
   }

@@ -1,6 +1,5 @@
 'use client'
 
-import * as React from 'react'
 import { Languages } from 'lucide-react'
 import { useLocale } from 'next-intl'
 
@@ -8,7 +7,9 @@ import { Button } from '@/components/ui/button'
 import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuTrigger } from '@/components/ui/dropdown-menu'
 import { usePathname, useRouter } from '@/i18n/navigation'
 
-export function LanguageToggle(): React.ReactElement {
+import type { ReactElement } from 'react'
+
+export function LanguageToggle(): ReactElement {
   const locale = useLocale()
   const router = useRouter()
   const pathname = usePathname()

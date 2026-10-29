@@ -1,145 +1,183 @@
 'use client'
 
-import * as React from 'react'
+import { useEffect, useTransition } from 'react'
 import { zodResolver } from '@hookform/resolvers/zod'
-import { Loader2, Save } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 import { useForm } from 'react-hook-form'
 import { toast } from 'sonner'
 
+import { SelectDropdown } from '@/components/select-dropdown'
 import { Button } from '@/components/ui/button'
-import { Field, FieldError, FieldGroup, FieldLabel } from '@/components/ui/field'
+import { Dialog, DialogContent, DialogDescription, DialogFooter, DialogHeader, DialogTitle } from '@/components/ui/dialog'
+import { Form, FormControl, FormField, FormItem, FormLabel, FormMessage } from '@/components/ui/form'
 import { Input } from '@/components/ui/input'
-import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select'
 import { employeeFormSchema } from '@/schemas/employee'
 
 import { saveEmployeeAction } from './actions'
 
 import type { EmployeeFormValues } from '@/schemas/employee'
-import type { SubmitHandler } from 'react-hook-form'
+import type { ReactElement } from 'react'
 import type { DepartmentOption, EmployeeRecord } from './actions'
 
-export interface EmployeeFormProps {
-  initialData?: EmployeeRecord | null
+export interface EmployeesActionDialogProps {
+  currentRow?: EmployeeRecord | null
+  open: boolean
+  onOpenChange: (open: boolean) => void
   departments: DepartmentOption[]
   onSuccess: () => void
-  onCancel: () => void
 }
 
-export function EmployeeForm({ initialData, departments, onSuccess, onCancel }: EmployeeFormProps): React.ReactElement {
+export function EmployeesActionDialog({ currentRow, open, onOpenChange, departments, onSuccess }: EmployeesActionDialogProps): ReactElement {
+  const isEdit = !!currentRow
   const tAdmin = useTranslations('admin.employees')
   const tCommon = useTranslations('common')
-  const [isPending, startTransition] = React.useTransition()
+  const [isPending, startTransition] = useTransition()
 
-  const {
-    register,
-    handleSubmit,
-    setValue,
-    formState: { errors }
-  } = useForm<EmployeeFormValues>({
+  const form = useForm<EmployeeFormValues>({
     resolver: zodResolver(employeeFormSchema),
     defaultValues: {
-      id: initialData?.id,
-      name: initialData?.name || '',
-      work_email: initialData?.work_email || '',
-      work_phone: initialData?.work_phone || '',
-      job_title: initialData?.job_title || '',
-      department_id: initialData?.department_id ? initialData.department_id[0] : departments[0]?.id || 1
+      id: currentRow?.id,
+      name: currentRow?.name || '',
+      work_email: currentRow?.work_email || '',
+      work_phone: currentRow?.work_phone || '',
+      job_title: currentRow?.job_title || '',
+      department_id: currentRow?.department_id ? currentRow.department_id[0] : departments[0]?.id || 1
     }
   })
 
-  const onSubmit: SubmitHandler<EmployeeFormValues> = (values) => {
+  useEffect(() => {
+    if (open) {
+      form.reset({
+        id: currentRow?.id,
+        name: currentRow?.name || '',
+        work_email: currentRow?.work_email || '',
+        work_phone: currentRow?.work_phone || '',
+        job_title: currentRow?.job_title || '',
+        department_id: currentRow?.department_id ? currentRow.department_id[0] : departments[0]?.id || 1
+      })
+    }
+  }, [open, currentRow, departments, form])
+
+  const onSubmit = (values: EmployeeFormValues) => {
     startTransition(async () => {
       const res = await saveEmployeeAction(values)
       if (res.success) {
-        toast.success(initialData ? tAdmin('messages.updated') : tAdmin('messages.created'))
+        toast.success(isEdit ? tAdmin('messages.updated') : tAdmin('messages.created'))
+        form.reset()
+        onOpenChange(false)
         onSuccess()
       } else {
-        toast.error(res.error || 'Failed to save employee')
+        toast.error(res.error || tCommon('status.error'))
       }
     })
   }
 
   return (
-    <form onSubmit={handleSubmit(onSubmit)} className="space-y-4">
-      <FieldGroup>
-        {/* Full Name */}
-        <Field data-invalid={!!errors.name}>
-          <FieldLabel htmlFor="name" className="text-xs font-semibold">
-            {tAdmin('fields.name')}
-          </FieldLabel>
-          <Input id="name" placeholder={tAdmin('fields.name_placeholder')} disabled={isPending} {...register('name')} />
-          {errors.name && <FieldError>{errors.name.message}</FieldError>}
-        </Field>
+    <Dialog
+      open={open}
+      onOpenChange={(state) => {
+        form.reset()
+        onOpenChange(state)
+      }}
+    >
+      <DialogContent className="sm:max-w-lg">
+        <DialogHeader className="text-start">
+          <DialogTitle>{isEdit ? tAdmin('actions.edit') : tAdmin('actions.add')}</DialogTitle>
+          <DialogDescription>{tAdmin('subtitle')}</DialogDescription>
+        </DialogHeader>
 
-        {/* Job Title */}
-        <Field data-invalid={!!errors.job_title}>
-          <FieldLabel htmlFor="job_title" className="text-xs font-semibold">
-            {tAdmin('fields.job_title')}
-          </FieldLabel>
-          <Input id="job_title" placeholder={tAdmin('fields.job_title_placeholder')} disabled={isPending} {...register('job_title')} />
-          {errors.job_title && <FieldError>{errors.job_title.message}</FieldError>}
-        </Field>
+        <div className="max-h-[70vh] overflow-y-auto py-1 pe-3">
+          <Form {...form}>
+            <form id="employee-form" onSubmit={form.handleSubmit(onSubmit)} className="space-y-4 px-0.5">
+              <FormField
+                control={form.control}
+                name="name"
+                render={({ field }) => (
+                  <FormItem className="grid grid-cols-6 items-center space-y-0 gap-x-4 gap-y-1">
+                    <FormLabel className="col-span-2 text-end">{tAdmin('fields.name')}</FormLabel>
+                    <FormControl>
+                      <Input placeholder={tAdmin('fields.name_placeholder')} className="col-span-4" autoComplete="off" {...field} />
+                    </FormControl>
+                    <FormMessage className="col-span-4 col-start-3" />
+                  </FormItem>
+                )}
+              />
 
-        {/* Department Select */}
-        <Field data-invalid={!!errors.department_id}>
-          <FieldLabel htmlFor="department_id" className="text-xs font-semibold">
-            {tAdmin('fields.department')}
-          </FieldLabel>
-          <Select
-            defaultValue={String(initialData?.department_id ? initialData.department_id[0] : departments[0]?.id || '')}
-            onValueChange={(val) => setValue('department_id', Number(val))}
-            disabled={isPending}
-          >
-            <SelectTrigger id="department_id">
-              <SelectValue placeholder={tAdmin('fields.department_placeholder')} />
-            </SelectTrigger>
-            <SelectContent>
-              {departments.map((d) => (
-                <SelectItem key={d.id} value={String(d.id)}>
-                  {d.name}
-                </SelectItem>
-              ))}
-            </SelectContent>
-          </Select>
-          {errors.department_id && <FieldError>{errors.department_id.message}</FieldError>}
-        </Field>
+              <FormField
+                control={form.control}
+                name="job_title"
+                render={({ field }) => (
+                  <FormItem className="grid grid-cols-6 items-center space-y-0 gap-x-4 gap-y-1">
+                    <FormLabel className="col-span-2 text-end">{tAdmin('fields.job_title')}</FormLabel>
+                    <FormControl>
+                      <Input placeholder={tAdmin('fields.job_title_placeholder')} className="col-span-4" {...field} />
+                    </FormControl>
+                    <FormMessage className="col-span-4 col-start-3" />
+                  </FormItem>
+                )}
+              />
 
-        {/* Work Email */}
-        <Field data-invalid={!!errors.work_email}>
-          <FieldLabel htmlFor="work_email" className="text-xs font-semibold">
-            {tAdmin('fields.work_email')}
-          </FieldLabel>
-          <Input
-            id="work_email"
-            type="email"
-            placeholder={tAdmin('fields.work_email_placeholder')}
-            disabled={isPending}
-            {...register('work_email')}
-          />
-          {errors.work_email && <FieldError>{errors.work_email.message}</FieldError>}
-        </Field>
+              <FormField
+                control={form.control}
+                name="department_id"
+                render={({ field }) => (
+                  <FormItem className="grid grid-cols-6 items-center space-y-0 gap-x-4 gap-y-1">
+                    <FormLabel className="col-span-2 text-end">{tAdmin('fields.department')}</FormLabel>
+                    <SelectDropdown
+                      defaultValue={field.value ? String(field.value) : undefined}
+                      onValueChange={(val) => field.onChange(Number(val))}
+                      placeholder={tAdmin('fields.department_placeholder')}
+                      className="col-span-4"
+                      items={departments.map((d) => ({
+                        label: d.name,
+                        value: String(d.id)
+                      }))}
+                    />
+                    <FormMessage className="col-span-4 col-start-3" />
+                  </FormItem>
+                )}
+              />
 
-        {/* Work Phone */}
-        <Field data-invalid={!!errors.work_phone}>
-          <FieldLabel htmlFor="work_phone" className="text-xs font-semibold">
-            {tAdmin('fields.work_phone')}
-          </FieldLabel>
-          <Input id="work_phone" placeholder={tAdmin('fields.work_phone_placeholder')} disabled={isPending} {...register('work_phone')} />
-          {errors.work_phone && <FieldError>{errors.work_phone.message}</FieldError>}
-        </Field>
-      </FieldGroup>
+              <FormField
+                control={form.control}
+                name="work_email"
+                render={({ field }) => (
+                  <FormItem className="grid grid-cols-6 items-center space-y-0 gap-x-4 gap-y-1">
+                    <FormLabel className="col-span-2 text-end">{tAdmin('fields.work_email')}</FormLabel>
+                    <FormControl>
+                      <Input type="email" placeholder={tAdmin('fields.work_email_placeholder')} className="col-span-4" {...field} />
+                    </FormControl>
+                    <FormMessage className="col-span-4 col-start-3" />
+                  </FormItem>
+                )}
+              />
 
-      {/* Action buttons */}
-      <Field orientation="horizontal" className="justify-end gap-2 pt-2">
-        <Button type="button" variant="outline" size="sm" onClick={onCancel} disabled={isPending}>
-          {tCommon('actions.cancel')}
-        </Button>
-        <Button type="submit" size="sm" disabled={isPending} className="gap-2 font-semibold">
-          {isPending ? <Loader2 className="h-4 w-4 animate-spin" /> : <Save className="h-4 w-4" />}
-          {tCommon('actions.save')}
-        </Button>
-      </Field>
-    </form>
+              <FormField
+                control={form.control}
+                name="work_phone"
+                render={({ field }) => (
+                  <FormItem className="grid grid-cols-6 items-center space-y-0 gap-x-4 gap-y-1">
+                    <FormLabel className="col-span-2 text-end">{tAdmin('fields.work_phone')}</FormLabel>
+                    <FormControl>
+                      <Input placeholder={tAdmin('fields.work_phone_placeholder')} className="col-span-4" {...field} />
+                    </FormControl>
+                    <FormMessage className="col-span-4 col-start-3" />
+                  </FormItem>
+                )}
+              />
+            </form>
+          </Form>
+        </div>
+
+        <DialogFooter>
+          <Button type="button" variant="outline" onClick={() => onOpenChange(false)} disabled={isPending}>
+            {tCommon('actions.cancel')}
+          </Button>
+          <Button type="submit" form="employee-form" disabled={isPending}>
+            {isPending ? tCommon('actions.loading') : isEdit ? tCommon('actions.save') : tAdmin('actions.add')}
+          </Button>
+        </DialogFooter>
+      </DialogContent>
+    </Dialog>
   )
 }

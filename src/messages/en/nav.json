@@ -11,7 +11,7 @@
     "b2b_crm": "B2B CRM Pipeline",
     "hr_attendance": "Attendance & Reporting",
     "workforce": "Workforce & Organization",
-    "operations_deployment": "Operations & Deployment"
+    "access_security": "Access & Governance"
   },
   "items": {
     "dashboard": "Stock Dashboard",
@@ -53,6 +53,8 @@
   "user": {
     "profile": "Profile Account",
     "security": "Security & Sessions",
+    "connectionStatus": "Connection Status: Odoo 18 CE",
+    "accessRole": "Access Role: {role}",
     "logout": "Sign Out"
   }
 }

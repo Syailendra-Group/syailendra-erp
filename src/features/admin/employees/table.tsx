@@ -1,6 +1,6 @@
 'use client'
 
-import * as React from 'react'
+import { useMemo, useState } from 'react'
 import {
   flexRender,
   getCoreRowModel,
@@ -11,32 +11,34 @@ import {
   getSortedRowModel,
   useReactTable
 } from '@tanstack/react-table'
-import { UserPlus } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 
-import { DataTableBulkActions, DataTablePagination, DataTableToolbar } from '@/components/data-table'
-import { Button } from '@/components/ui/button'
+import { DataTablePagination, DataTableToolbar } from '@/components/data-table'
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '@/components/ui/table'
 import { useEmployees } from '@/contexts/employees-context'
+import { cn } from '@/lib/utils'
 
-import type { ColumnDef, ColumnFiltersState, SortingState, VisibilityState } from '@tanstack/react-table'
+import { getColumns } from './columns'
+
+import type { ColumnFiltersState, SortingState, VisibilityState } from '@tanstack/react-table'
+import type { ReactElement } from 'react'
 import type { EmployeeRecord } from './actions'
 
 export interface EmployeesTableProps {
-  columns: ColumnDef<EmployeeRecord>[]
   data: EmployeeRecord[]
 }
 
-export function EmployeesTable({ columns, data }: EmployeesTableProps): React.ReactElement {
+export function EmployeesTable({ data }: EmployeesTableProps): ReactElement {
   const tAdmin = useTranslations('admin.employees')
   const tCommon = useTranslations('common')
-  const { setOpen, setCurrentRow, departments } = useEmployees()
+  const { departments } = useEmployees()
 
-  const [rowSelection, setRowSelection] = React.useState({})
-  const [columnVisibility, setColumnVisibility] = React.useState<VisibilityState>({})
-  const [columnFilters, setColumnFilters] = React.useState<ColumnFiltersState>([])
-  const [sorting, setSorting] = React.useState<SortingState>([])
-  const [globalFilter, setGlobalFilter] = React.useState<string>('')
+  const [columnVisibility, setColumnVisibility] = useState<VisibilityState>({})
+  const [columnFilters, setColumnFilters] = useState<ColumnFiltersState>([])
+  const [sorting, setSorting] = useState<SortingState>([])
+  const [globalFilter, setGlobalFilter] = useState<string>('')
+
+  const columns = useMemo(() => getColumns({ tAdmin, tCommon }), [tAdmin, tCommon])
 
   const table = useReactTable({
     data,
@@ -44,12 +46,9 @@ export function EmployeesTable({ columns, data }: EmployeesTableProps): React.Re
     state: {
       sorting,
       columnVisibility,
-      rowSelection,
       columnFilters,
       globalFilter
     },
-    enableRowSelection: true,
-    onRowSelectionChange: setRowSelection,
     onSortingChange: setSorting,
     onColumnFiltersChange: setColumnFilters,
     onColumnVisibilityChange: setColumnVisibility,
@@ -68,51 +67,39 @@ export function EmployeesTable({ columns, data }: EmployeesTableProps): React.Re
   }))
 
   const statusFilterOptions = [
-    { label: 'Aktif', value: 'true' },
-    { label: 'Diarsipkan', value: 'false' }
+    { label: tCommon('status.active'), value: 'true' },
+    { label: tCommon('status.archived'), value: 'false' }
   ]
 
   return (
     <div className="space-y-4">
-      {/* Complete DataTable Toolbar with faceted filters */}
+      {/* DataTable Toolbar with faceted filters */}
       <DataTableToolbar
         table={table}
         searchPlaceholder={tCommon('actions.search')}
         filters={[
           {
             columnId: 'department_id',
-            title: 'Departemen',
+            title: tAdmin('table.department'),
             options: departmentFilterOptions
           },
           {
             columnId: 'active',
-            title: 'Status',
+            title: tAdmin('table.status'),
             options: statusFilterOptions
           }
         ]}
-      >
-        <Button
-          size="sm"
-          onClick={() => {
-            setCurrentRow(null)
-            setOpen('add')
-          }}
-          className="h-8 cursor-pointer gap-2 text-xs font-semibold"
-        >
-          <UserPlus className="h-3.5 w-3.5" />
-          <span>{tAdmin('actions.add')}</span>
-        </Button>
-      </DataTableToolbar>
+      />
 
-      {/* Table Wrapper in pure white for light mode */}
-      <div className="dark:bg-card border-border/40 overflow-hidden rounded-xl border bg-white shadow-xs">
-        <Table className="dark:bg-card bg-white">
-          <TableHeader className="bg-muted/30">
+      {/* Table*/}
+      <div className="bg-card overflow-hidden rounded-md shadow-xs">
+        <Table>
+          <TableHeader>
             {table.getHeaderGroups().map((headerGroup) => (
               <TableRow key={headerGroup.id}>
                 {headerGroup.headers.map((header) => {
                   return (
-                    <TableHead key={header.id} colSpan={header.colSpan} className="text-xs">
+                    <TableHead key={header.id} colSpan={header.colSpan} className={cn('text-xs', header.column.id === 'actions' && 'text-center')}>
                       {header.isPlaceholder ? null : flexRender(header.column.columnDef.header, header.getContext())}
                     </TableHead>
                   )
@@ -123,7 +110,7 @@ export function EmployeesTable({ columns, data }: EmployeesTableProps): React.Re
           <TableBody>
             {table.getRowModel().rows?.length ? (
               table.getRowModel().rows.map((row) => (
-                <TableRow key={row.id} data-state={row.getIsSelected() && 'selected'} className="hover:bg-muted/30 transition-colors">
+                <TableRow key={row.id} className="hover:bg-muted/30 transition-colors">
                   {row.getVisibleCells().map((cell) => (
                     <TableCell key={cell.id} className="py-2.5 text-xs">
                       {flexRender(cell.column.columnDef.cell, cell.getContext())}
@@ -133,7 +120,7 @@ export function EmployeesTable({ columns, data }: EmployeesTableProps): React.Re
               ))
             ) : (
               <TableRow>
-                <TableCell colSpan={columns.length} className="text-muted-foreground h-24 text-center text-xs">
+                <TableCell colSpan={columns.length} className="text-muted-foreground h-24 text-center">
                   {tCommon('status.empty')}
                 </TableCell>
               </TableRow>
@@ -144,14 +131,6 @@ export function EmployeesTable({ columns, data }: EmployeesTableProps): React.Re
 
       {/* TanStack Table Pagination */}
       <DataTablePagination table={table} />
-
-      {/* Bulk Actions Floating Bar */}
-      <DataTableBulkActions
-        table={table}
-        onBulkDelete={(rows) => {
-          console.log('Bulk delete / archive request for rows:', rows)
-        }}
-      />
     </div>
   )
 }

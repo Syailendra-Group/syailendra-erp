@@ -1,14 +1,12 @@
 'use client'
 
-import * as React from 'react'
+import { type ReactElement } from 'react'
 import {
   ArrowLeftRight,
   Boxes,
   Briefcase,
-  CalendarCheck,
   Clock,
   FileSpreadsheet,
-  FileText,
   FolderTree,
   Layers,
   MapPin,
@@ -30,7 +28,7 @@ import { NavUser } from './nav-user'
 
 import type { NavGroup as NavGroupType } from './types'
 
-export function AppSidebar(): React.ReactElement {
+export function AppSidebar(): ReactElement {
   const { activeTab } = useNavStore()
 
   const inventoryGroups: NavGroupType[] = [
@@ -54,24 +52,18 @@ export function AppSidebar(): React.ReactElement {
         },
         {
           titleKey: 'items.stock_moves',
-          url: '/inventory/transfers',
-          icon: ArrowLeftRight,
-          badge: '2'
+          url: '/inventory/moves',
+          icon: ArrowLeftRight
         },
         {
           titleKey: 'items.lots_batches',
           url: '/inventory/lots',
-          icon: Layers
+          icon: Tag
         },
         {
           titleKey: 'items.traceability_qr',
           url: '/inventory/traceability',
           icon: QrCode
-        },
-        {
-          titleKey: 'items.stock_reporting',
-          url: '/inventory/reporting',
-          icon: FileSpreadsheet
         }
       ]
     }
@@ -83,7 +75,7 @@ export function AppSidebar(): React.ReactElement {
       items: [
         {
           titleKey: 'items.leads_pipeline',
-          url: '/crm/pipeline',
+          url: '/crm',
           icon: Target
         },
         {
@@ -101,18 +93,13 @@ export function AppSidebar(): React.ReactElement {
       items: [
         {
           titleKey: 'items.attendance_log',
-          url: '/hr/attendance',
+          url: '/hr',
           icon: Clock
         },
         {
           titleKey: 'items.daily_reports',
           url: '/hr/reports',
-          icon: FileText
-        },
-        {
-          titleKey: 'items.shifts',
-          url: '/hr/shifts',
-          icon: CalendarCheck
+          icon: FileSpreadsheet
         }
       ]
     }
@@ -129,32 +116,32 @@ export function AppSidebar(): React.ReactElement {
         },
         {
           titleKey: 'items.departments',
-          url: '/employees/departments',
+          url: '/admin/departments',
           icon: FolderTree
         },
         {
           titleKey: 'items.job_positions',
-          url: '/employees/jobs',
+          url: '/admin/jobs',
           icon: Briefcase
-        }
-      ]
-    },
-    {
-      titleKey: 'groups.operations_deployment',
-      items: [
+        },
         {
           titleKey: 'items.work_locations',
-          url: '/employees/locations',
+          url: '/admin/locations',
           icon: MapPin
         },
         {
           titleKey: 'items.employee_tags',
-          url: '/employees/tags',
-          icon: Tag
-        },
+          url: '/admin/categories',
+          icon: Layers
+        }
+      ]
+    },
+    {
+      titleKey: 'groups.access_security',
+      items: [
         {
           titleKey: 'items.access_roles',
-          url: '/employees/roles',
+          url: '/admin/roles',
           icon: ShieldCheck
         }
       ]
@@ -163,16 +150,16 @@ export function AppSidebar(): React.ReactElement {
 
   let currentGroups = inventoryGroups
   if (activeTab === 'crm') currentGroups = crmGroups
-  if (activeTab === 'hr') currentGroups = hrGroups
-  if (activeTab === 'employees') currentGroups = employeesGroups
+  else if (activeTab === 'hr') currentGroups = hrGroups
+  else if (activeTab === 'employees') currentGroups = employeesGroups
 
   return (
-    <Sidebar variant="floating" collapsible="icon" className="border-0 shadow-sm">
+    <Sidebar collapsible="icon" variant="floating" className="border-0 shadow-md">
       <SidebarHeader>
         <CompanySwitcher />
       </SidebarHeader>
 
-      <SidebarContent className="gap-0">
+      <SidebarContent className="gap-2">
         {currentGroups.map((group) => (
           <NavGroup key={group.titleKey} group={group} />
         ))}
@@ -181,6 +168,7 @@ export function AppSidebar(): React.ReactElement {
       <SidebarFooter>
         <NavUser />
       </SidebarFooter>
+
       <SidebarRail />
     </Sidebar>
   )

@@ -1,58 +1,60 @@
 {
   "modules": {
     "inventory": "Inventaris",
-    "crm": "CRM B2B",
-    "hr": "HR & Absensi",
+    "crm": "B2B CRM",
+    "hr": "SDM & Presensi",
     "employees": "Karyawan"
   },
   "groups": {
     "overview": "Ikhtisar",
-    "inventory_ops": "Operasional Inventaris",
-    "b2b_crm": "Pipeline CRM B2B",
-    "hr_attendance": "Absensi & Pelaporan",
-    "workforce": "Struktur SDM & Organisasi",
-    "operations_deployment": "Operasional & Penempatan"
+    "inventory_ops": "Operasional Gudang",
+    "b2b_crm": "Pipeline Prospek CRM",
+    "hr_attendance": "Presensi & Pelaporan",
+    "workforce": "Struktur & Tenaga Kerja",
+    "access_security": "Akses & Tata Kelola"
   },
   "items": {
-    "dashboard": "Dasbor Stok",
+    "dashboard": "Dasbor Persediaan",
     "products": "Produk Komoditas",
-    "stock_moves": "Transfer & Mutasi Stok",
+    "stock_moves": "Mutasi & Transfer Stok",
     "lots_batches": "Nomor Lot & Batch",
-    "traceability_qr": "Mesin QR Traceability",
-    "stock_reporting": "Laporan & Valuasi",
-    "leads_pipeline": "Pipeline Penjualan",
-    "partners": "Mitra & Kelompok Tani",
-    "attendance_log": "Catatan Kehadiran",
-    "daily_reports": "Laporan Harian",
-    "shifts": "Jadwal Kerja",
+    "traceability_qr": "Traceability QR Panen",
+    "stock_reporting": "Valuasi & Laporan",
+    "leads_pipeline": "Peluang Penjualan B2B",
+    "partners": "Mitra & Petani Binaan",
+    "attendance_log": "Log Presensi Masuk/Pulang",
+    "daily_reports": "Laporan Kerja Harian",
+    "shifts": "Jadwal Shift Lapangan",
     "employees_directory": "Direktori Karyawan",
     "departments": "Departemen & Divisi",
-    "job_positions": "Posisi & Jabatan",
-    "work_locations": "Lokasi Penempatan",
-    "employee_tags": "Kategori Pegawai",
-    "access_roles": "Hak Akses & Peran"
+    "job_positions": "Jabatan Operasional",
+    "work_locations": "Lokasi Kebun & Gudang",
+    "employee_tags": "Kategori Kepegawaian",
+    "access_roles": "Hak Akses & RBAC"
   },
   "breadcrumbs": {
     "home": "Beranda",
     "inventory": "Inventaris",
-    "crm": "CRM B2B",
-    "hr": "HR & Absensi",
+    "crm": "B2B CRM",
+    "hr": "SDM & Presensi",
     "employees": "Karyawan",
     "admin": "Karyawan",
     "departments": "Departemen",
     "jobs": "Jabatan",
     "locations": "Lokasi Kerja",
     "tags": "Kategori",
-    "roles": "Peran",
+    "roles": "Peran Akses",
     "products": "Produk",
-    "transfers": "Mutasi Stok",
+    "transfers": "Transfer Stok",
     "lots": "Lot Panen",
-    "traceability": "Penelusuran",
+    "traceability": "Penelusuran QR",
     "reporting": "Laporan"
   },
   "user": {
     "profile": "Profil Akun",
     "security": "Keamanan & Sesi",
-    "logout": "Keluar Akun"
+    "connectionStatus": "Status Koneksi: Odoo 18 CE",
+    "accessRole": "Hak Akses: {role}",
+    "logout": "Keluar (Sign Out)"
   }
 }

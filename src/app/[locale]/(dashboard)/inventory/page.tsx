@@ -1,6 +1,6 @@
 'use client'
 
-import * as React from 'react'
+import { type ReactElement } from 'react'
 import { ArrowDownLeft, ArrowUpRight, Boxes, Layers, QrCode, ShieldCheck, Sparkles, TrendingUp } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 
@@ -8,7 +8,7 @@ import { Badge } from '@/components/ui/badge'
 import { Button } from '@/components/ui/button'
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card'
 
-export default function InventoryDashboardPage(): React.ReactElement {
+export default function InventoryDashboardPage(): ReactElement {
   const tInv = useTranslations('inventory')
 
   // Summary KPI Metrics (Sesuai Komoditas Syailendra Group di Odoo 18)

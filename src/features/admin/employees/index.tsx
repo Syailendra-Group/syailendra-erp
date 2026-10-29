@@ -1,24 +1,25 @@
 'use client'
 
-import * as React from 'react'
+import { useCallback, useEffect, useState, useTransition } from 'react'
 import { useTranslations } from 'next-intl'
 
 import { EmployeesProvider } from '@/contexts/employees-context'
 
 import { getEmployeesAction } from './actions'
-import { columns } from './columns'
 import { EmployeesDialogs } from './dialogs'
+import { EmployeesPrimaryButtons } from './primary-buttons'
 import { EmployeesTable } from './table'
 
+import type { ReactElement } from 'react'
 import type { DepartmentOption, EmployeeRecord } from './actions'
 
-export function EmployeesFeature(): React.ReactElement {
+export function EmployeesFeature(): ReactElement {
   const tAdmin = useTranslations('admin.employees')
-  const [employees, setEmployees] = React.useState<EmployeeRecord[]>([])
-  const [departments, setDepartments] = React.useState<DepartmentOption[]>([])
-  const [, startTransition] = React.useTransition()
+  const [employees, setEmployees] = useState<EmployeeRecord[]>([])
+  const [departments, setDepartments] = useState<DepartmentOption[]>([])
+  const [, startTransition] = useTransition()
 
-  const refreshData = React.useCallback(() => {
+  const refreshData = useCallback(() => {
     startTransition(async () => {
       const data = await getEmployeesAction()
       setEmployees(data.employees)
@@ -26,19 +27,24 @@ export function EmployeesFeature(): React.ReactElement {
     })
   }, [])
 
-  React.useEffect(() => {
+  useEffect(() => {
     refreshData()
   }, [refreshData])
 
   return (
     <EmployeesProvider refreshData={refreshData} initialDepartments={departments}>
       <div className="space-y-6">
-        <div>
-          <h1 className="text-xl font-bold tracking-tight sm:text-2xl">{tAdmin('title')}</h1>
-          <p className="text-muted-foreground text-xs sm:text-sm">{tAdmin('subtitle')}</p>
+        <div className="flex flex-wrap items-end justify-between gap-2">
+          <div>
+            <h1 className="text-xl font-bold tracking-tight sm:text-2xl">{tAdmin('title')}</h1>
+            <p className="text-muted-foreground text-xs sm:text-sm">{tAdmin('subtitle')}</p>
+          </div>
+
+          <EmployeesPrimaryButtons />
         </div>
 
-        <EmployeesTable columns={columns} data={employees} />
+        <EmployeesTable data={employees} />
+
         <EmployeesDialogs />
       </div>
     </EmployeesProvider>

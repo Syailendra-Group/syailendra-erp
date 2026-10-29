@@ -1,6 +1,6 @@
 'use client'
 
-import * as React from 'react'
+import { type ReactElement } from 'react'
 import { useTranslations } from 'next-intl'
 
 import { Badge } from '@/components/ui/badge'
@@ -14,7 +14,7 @@ export interface NavGroupProps {
   group: NavGroupType
 }
 
-export function NavGroup({ group }: NavGroupProps): React.ReactElement {
+export function NavGroup({ group }: NavGroupProps): ReactElement {
   const tNav = useTranslations('nav')
   const pathname = usePathname()
 
@@ -37,19 +37,19 @@ export function NavGroup({ group }: NavGroupProps): React.ReactElement {
                 className={cn(
                   'h-10 cursor-pointer gap-3 rounded-lg px-3 py-2 text-sm font-medium transition-colors',
                   isActive
-                    ? 'bg-primary text-primary-foreground hover:bg-primary/90 hover:text-primary-foreground font-semibold shadow-xs'
-                    : 'text-muted-foreground hover:bg-sidebar-accent hover:text-sidebar-accent-foreground'
+                    ? 'bg-primary data-[active=true]:bg-primary hover:bg-primary/90 font-semibold text-white shadow-xs hover:text-white data-[active=true]:text-white'
+                    : 'hover:bg-sidebar-accent hover:text-sidebar-accent-foreground'
                 )}
               >
                 <Link href={item.url || '#'}>
-                  <Icon className={cn('h-4.5 w-4.5 shrink-0', isActive ? 'text-primary-foreground' : 'text-muted-foreground')} />
+                  <Icon className={cn('h-4.5 w-4.5 shrink-0', isActive ? 'text-white' : '')} />
                   <span>{tNav(item.titleKey)}</span>
                   {item.badge && (
                     <Badge
                       variant="secondary"
                       className={cn(
                         'ml-auto px-1.5 py-0 text-[10px] font-bold',
-                        isActive && 'bg-primary-foreground/20 text-primary-foreground border-transparent'
+                        isActive && 'bg-primary-foreground/20 border-transparent text-white'
                       )}
                     >
                       {item.badge}

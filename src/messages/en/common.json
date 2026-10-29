@@ -11,12 +11,67 @@
     "back": "Back",
     "view": "View",
     "export": "Export",
-    "import": "Import"
+    "import": "Import",
+    "archive": "Archive",
+    "restore": "Restore",
+    "reset": "Reset",
+    "toggleColumns": "Columns",
+    "clearFilters": "Clear filters",
+    "pickDate": "Pick a date",
+    "selectOption": "Select option",
+    "loading": "Loading..."
   },
   "status": {
     "loading": "Loading data...",
     "success": "Success",
     "error": "An error occurred",
-    "empty": "No data available yet"
+    "empty": "No data available yet",
+    "active": "Active",
+    "archived": "Archived"
+  },
+  "table": {
+    "asc": "Asc",
+    "desc": "Desc",
+    "hide": "Hide",
+    "actions": "Actions",
+    "noResults": "No results found.",
+    "selected": "selected"
+  },
+  "pagination": {
+    "totalRows": "Total {total} rows",
+    "rowsPerPage": "Rows per page",
+    "pageOf": "Page {current} of {total}",
+    "firstPage": "Go to first page",
+    "previousPage": "Go to previous page",
+    "nextPage": "Go to next page",
+    "lastPage": "Go to last page"
+  },
+  "confirm": {
+    "signOutTitle": "Sign out",
+    "signOutDesc": "Are you sure you want to sign out? You will need to sign in again to access your account.",
+    "archiveTitle": "Archive Employee",
+    "restoreTitle": "Restore Employee",
+    "archiveDesc": "Are you sure you want to archive {name}?",
+    "restoreDesc": "Are you sure you want to reactivate {name}?"
+  },
+  "commandMenu": {
+    "placeholder": "Type a command or search...",
+    "noResults": "No results found.",
+    "navigation": "Navigation",
+    "theme": "Theme",
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System"
+  },
+  "search": {
+    "placeholder": "Search modules..."
+  },
+  "company": {
+    "multiUnit": "Multi-Unit Business",
+    "connectionNotice": "Connected to Odoo 18 Multi-Company Syailendra Group."
+  },
+  "comingSoon": {
+    "title": "Coming Soon!",
+    "desc": "This page has not been created yet. Stay tuned!"
   }
 }

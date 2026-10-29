@@ -12,6 +12,7 @@
   },
   "iconLibrary": "lucide",
   "rtl": true,
+  "pointer": true,
   "aliases": {
     "components": "@/components",
     "utils": "@/lib/utils",

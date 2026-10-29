@@ -1,21 +1,27 @@
 'use client'
 
-import * as React from 'react'
+import { useTransition } from 'react'
+import { Building, Hash, Mail, Phone, ShieldCheck, User } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 import { toast } from 'sonner'
 
+import { ConfirmDialog } from '@/components/confirm-dialog'
+import { Badge } from '@/components/ui/badge'
 import { Button } from '@/components/ui/button'
-import { Dialog, DialogContent, DialogHeader, DialogTitle } from '@/components/ui/dialog'
+import { Dialog, DialogContent, DialogDescription, DialogFooter, DialogHeader, DialogTitle } from '@/components/ui/dialog'
+import { Separator } from '@/components/ui/separator'
 import { useEmployees } from '@/contexts/employees-context'
 
 import { toggleEmployeeStatusAction } from './actions'
-import { EmployeeForm } from './form'
+import { EmployeesActionDialog } from './form'
 
-export function EmployeesDialogs(): React.ReactElement {
+import type { ReactElement } from 'react'
+
+export function EmployeesDialogs(): ReactElement {
   const tAdmin = useTranslations('admin.employees')
   const tCommon = useTranslations('common')
   const { open, setOpen, currentRow, setCurrentRow, departments, refreshData } = useEmployees()
-  const [isPending, startTransition] = React.useTransition()
+  const [isPending, startTransition] = useTransition()
 
   const handleToggleStatus = () => {
     if (!currentRow) return
@@ -27,16 +33,16 @@ export function EmployeesDialogs(): React.ReactElement {
         setCurrentRow(null)
         refreshData()
       } else {
-        toast.error(res.error || 'Failed to update status')
+        toast.error(res.error || tCommon('status.error'))
       }
     })
   }
 
   return (
     <>
-      {/* Create / Edit Dialog Modal */}
+      {/* 1. View Detail Dialog Modal */}
       <Dialog
-        open={open === 'add' || open === 'edit'}
+        open={open === 'view'}
         onOpenChange={(isOpen) => {
           if (!isOpen) {
             setOpen(null)
@@ -46,43 +52,60 @@ export function EmployeesDialogs(): React.ReactElement {
       >
         <DialogContent className="sm:max-w-md">
           <DialogHeader>
-            <DialogTitle className="text-base font-bold">{open === 'edit' ? tAdmin('actions.edit') : tAdmin('actions.add')}</DialogTitle>
+            <DialogTitle className="flex items-center gap-2 text-base font-bold">
+              <User className="text-primary h-4 w-4" />
+              <span>{tAdmin('detail.title')}</span>
+            </DialogTitle>
+            <DialogDescription className="text-xs">{tAdmin('detail.subtitle')}</DialogDescription>
           </DialogHeader>
-          <EmployeeForm
-            initialData={open === 'edit' ? currentRow : null}
-            departments={departments}
-            onSuccess={() => {
-              setOpen(null)
-              setCurrentRow(null)
-              refreshData()
-            }}
-            onCancel={() => {
-              setOpen(null)
-              setCurrentRow(null)
-            }}
-          />
-        </DialogContent>
-      </Dialog>
 
-      {/* Archive / Reactivate Confirmation Dialog */}
-      <Dialog
-        open={open === 'archive'}
-        onOpenChange={(isOpen) => {
-          if (!isOpen) {
-            setOpen(null)
-            setCurrentRow(null)
-          }
-        }}
-      >
-        <DialogContent className="sm:max-w-sm">
-          <DialogHeader>
-            <DialogTitle className="text-base font-bold">{currentRow?.active ? 'Konfirmasi Arsip Karyawan' : 'Pulihkan Karyawan'}</DialogTitle>
-          </DialogHeader>
-          <div className="text-muted-foreground py-2 text-xs">
-            Apakah Anda yakin ingin {currentRow?.active ? 'mengarsipkan' : 'mengaktifkan kembali'} karyawan{' '}
-            <span className="text-foreground font-bold">{currentRow?.name}</span>?
-          </div>
-          <div className="flex justify-end gap-2 pt-2">
+          {currentRow && (
+            <div className="space-y-3 py-2 text-xs">
+              <div className="bg-muted/40 flex items-center justify-between rounded-lg p-3">
+                <div>
+                  <div className="text-foreground text-sm font-semibold">{currentRow.name}</div>
+                  <div className="text-muted-foreground text-xs">{currentRow.job_title || tAdmin('detail.defaultJob')}</div>
+                </div>
+                <Badge variant={currentRow.active ? 'default' : 'secondary'} className="text-[10px]">
+                  {currentRow.active ? tCommon('status.active') : tCommon('status.archived')}
+                </Badge>
+              </div>
+
+              <div className="border-border/60 space-y-2 rounded-lg border p-3">
+                <div className="text-muted-foreground flex items-center justify-between">
+                  <span className="flex items-center gap-1.5">
+                    <Building className="text-primary h-3.5 w-3.5" /> {tAdmin('detail.department')}
+                  </span>
+                  <span className="text-foreground font-medium">
+                    {currentRow.department_id ? currentRow.department_id[1] : tAdmin('table.defaultDept')}
+                  </span>
+                </div>
+                <Separator />
+                <div className="text-muted-foreground flex items-center justify-between">
+                  <span className="flex items-center gap-1.5">
+                    <Mail className="text-primary h-3.5 w-3.5" /> {tAdmin('detail.workEmail')}
+                  </span>
+                  <span className="text-foreground font-medium">{currentRow.work_email || '-'}</span>
+                </div>
+                <Separator />
+                <div className="text-muted-foreground flex items-center justify-between">
+                  <span className="flex items-center gap-1.5">
+                    <Phone className="text-primary h-3.5 w-3.5" /> {tAdmin('detail.workPhone')}
+                  </span>
+                  <span className="text-foreground font-medium">{currentRow.work_phone || '-'}</span>
+                </div>
+                <Separator />
+                <div className="text-muted-foreground flex items-center justify-between">
+                  <span className="flex items-center gap-1.5">
+                    <Hash className="text-primary h-3.5 w-3.5" /> {tAdmin('detail.odooId')}
+                  </span>
+                  <span className="text-foreground font-mono text-xs font-semibold">#{currentRow.id}</span>
+                </div>
+              </div>
+            </div>
+          )}
+
+          <DialogFooter className="gap-2 sm:justify-end">
             <Button
               type="button"
               variant="outline"
@@ -91,22 +114,64 @@ export function EmployeesDialogs(): React.ReactElement {
                 setOpen(null)
                 setCurrentRow(null)
               }}
-              disabled={isPending}
             >
               {tCommon('actions.cancel')}
             </Button>
             <Button
               type="button"
-              variant={currentRow?.active ? 'destructive' : 'default'}
               size="sm"
-              onClick={handleToggleStatus}
-              disabled={isPending}
+              onClick={() => {
+                setOpen('edit')
+              }}
+              className="gap-1.5"
             >
-              {currentRow?.active ? 'Arsipkan' : 'Pulihkan'}
+              <ShieldCheck className="h-3.5 w-3.5" />
+              <span>{tAdmin('detail.editProfile')}</span>
             </Button>
-          </div>
+          </DialogFooter>
         </DialogContent>
       </Dialog>
+
+      {/* 2. Action Dialog (Create / Edit) directly defined in form.tsx */}
+      <EmployeesActionDialog
+        open={open === 'add' || open === 'edit'}
+        onOpenChange={(isOpen) => {
+          if (!isOpen) {
+            setOpen(null)
+            setCurrentRow(null)
+          }
+        }}
+        currentRow={open === 'edit' ? currentRow : null}
+        departments={departments}
+        onSuccess={() => {
+          setOpen(null)
+          setCurrentRow(null)
+          refreshData()
+        }}
+      />
+
+      {/* 3. Archive / Reactivate Confirmation Dialog */}
+      <ConfirmDialog
+        open={open === 'archive'}
+        onOpenChange={(isOpen) => {
+          if (!isOpen) {
+            setOpen(null)
+            setCurrentRow(null)
+          }
+        }}
+        title={currentRow?.active ? tCommon('confirm.archiveTitle') : tCommon('confirm.restoreTitle')}
+        desc={
+          currentRow?.active
+            ? tCommon('confirm.archiveDesc', { name: currentRow?.name || '' })
+            : tCommon('confirm.restoreDesc', { name: currentRow?.name || '' })
+        }
+        confirmText={currentRow?.active ? tCommon('actions.archive') : tCommon('actions.restore')}
+        cancelBtnText={tCommon('actions.cancel')}
+        destructive={currentRow?.active}
+        isLoading={isPending}
+        handleConfirm={handleToggleStatus}
+        className="sm:max-w-sm"
+      />
     </>
   )
 }

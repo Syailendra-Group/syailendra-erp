@@ -1,13 +1,13 @@
-import * as React from 'react'
+import { type HTMLAttributes, type ReactElement } from 'react'
 
 import { cn } from '@/lib/utils'
 
-export interface MainProps extends React.HTMLAttributes<HTMLElement> {
+export interface MainProps extends HTMLAttributes<HTMLElement> {
   fixed?: boolean
   fluid?: boolean
 }
 
-export function Main({ fixed, className, fluid, ...props }: MainProps): React.ReactElement {
+export function Main({ fixed, className, fluid, ...props }: MainProps): ReactElement {
   return (
     <main
       data-layout={fixed ? 'fixed' : 'auto'}

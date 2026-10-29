@@ -1,7 +1,7 @@
-import * as React from 'react'
+import { type ReactElement } from 'react'
 
 import { EmployeesFeature } from '@/features/admin/employees'
 
-export default function EmployeesPage(): React.ReactElement {
+export default function EmployeesPage(): ReactElement {
   return <EmployeesFeature />
 }

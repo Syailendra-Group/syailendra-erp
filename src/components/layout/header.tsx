@@ -1,7 +1,9 @@
 'use client'
 
-import * as React from 'react'
+import { type HTMLAttributes, type ReactElement } from 'react'
 
+import { ProfileDropdown } from '@/components/profile-dropdown'
+import { Search } from '@/components/search'
 import { LanguageToggle } from '@/components/shared/language-toggle'
 import { ThemeToggle } from '@/components/shared/theme-toggle'
 import { Separator } from '@/components/ui/separator'
@@ -10,11 +12,11 @@ import { cn } from '@/lib/utils'
 
 import { TopNav } from './top-nav'
 
-export interface HeaderProps extends React.HTMLAttributes<HTMLElement> {
+export interface HeaderProps extends HTMLAttributes<HTMLElement> {
   fixed?: boolean
 }
 
-export function Header({ className, fixed = true, children, ...props }: HeaderProps): React.ReactElement {
+export function Header({ className, fixed = true, children, ...props }: HeaderProps): ReactElement {
   return (
     <header
       className={cn(
@@ -33,8 +35,11 @@ export function Header({ className, fixed = true, children, ...props }: HeaderPr
 
         <div className="flex items-center gap-2">
           {children}
+          <Search />
           <LanguageToggle />
           <ThemeToggle />
+          <Separator orientation="vertical" className="hidden h-5 sm:block" />
+          <ProfileDropdown />
         </div>
       </div>
     </header>

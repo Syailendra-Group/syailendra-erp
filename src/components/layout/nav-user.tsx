@@ -1,9 +1,10 @@
 'use client'
 
-import * as React from 'react'
-import { LogOut, ShieldCheck, User } from 'lucide-react'
+import { useState } from 'react'
+import { BadgeCheck, ChevronsUpDown, LogOut, Sparkles } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 
+import { SignOutDialog } from '@/components/sign-out-dialog'
 import { Avatar, AvatarFallback } from '@/components/ui/avatar'
 import {
   DropdownMenu,
@@ -14,93 +15,78 @@ import {
   DropdownMenuSeparator,
   DropdownMenuTrigger
 } from '@/components/ui/dropdown-menu'
-import { SidebarMenu, SidebarMenuButton, SidebarMenuItem, useSidebar } from '@/components/ui/sidebar'
-import { logoutAction } from '@/features/auth/login/actions'
+import { SidebarMenu, SidebarMenuButton, SidebarMenuItem } from '@/components/ui/sidebar'
 
-import type { UserProfile } from './types'
+import type { ReactElement } from 'react'
 
-export interface NavUserProps {
-  user?: UserProfile
-}
+export function NavUser(): ReactElement {
+  const [openSignOut, setOpenSignOut] = useState(false)
+  const tNav = useTranslations('nav.user')
 
-export function NavUser({
-  user = {
+  const user = {
     name: 'OctaLectzz',
     email: 'octalectzz@gmail.com',
     role: 'System Administrator'
   }
-}: NavUserProps): React.ReactElement {
-  const tNav = useTranslations('nav')
-  const { isMobile } = useSidebar()
-
-  const handleLogout = async () => {
-    await logoutAction()
-  }
-
-  const initials = user.name
-    .split(' ')
-    .map((n) => n[0])
-    .join('')
-    .slice(0, 2)
-    .toUpperCase()
 
   return (
-    <SidebarMenu>
-      <SidebarMenuItem>
-        <DropdownMenu>
-          <DropdownMenuTrigger asChild>
-            <SidebarMenuButton
-              size="lg"
-              className="data-[state=open]:bg-sidebar-accent data-[state=open]:text-sidebar-accent-foreground cursor-pointer"
-            >
-              <Avatar className="h-8 w-8 rounded-lg">
-                <AvatarFallback className="bg-primary/10 text-primary dark:text-primary rounded-lg text-xs font-bold">{initials}</AvatarFallback>
-              </Avatar>
-              <div className="grid flex-1 text-left text-xs leading-tight">
-                <span className="truncate font-semibold">{user.name}</span>
-                <span className="text-muted-foreground truncate text-[10px]">{user.email}</span>
-              </div>
-            </SidebarMenuButton>
-          </DropdownMenuTrigger>
-          <DropdownMenuContent
-            className="w-(--radix-dropdown-menu-trigger-width) min-w-56 rounded-lg"
-            side={isMobile ? 'bottom' : 'right'}
-            align="end"
-            sideOffset={4}
-          >
-            <DropdownMenuLabel className="p-0 font-normal">
-              <div className="flex items-center gap-2 px-1 py-1.5 text-left text-xs">
+    <>
+      <SidebarMenu>
+        <SidebarMenuItem>
+          <DropdownMenu>
+            <DropdownMenuTrigger asChild>
+              <SidebarMenuButton
+                size="lg"
+                className="data-[state=open]:bg-sidebar-accent data-[state=open]:text-sidebar-accent-foreground cursor-pointer"
+              >
                 <Avatar className="h-8 w-8 rounded-lg">
-                  <AvatarFallback className="bg-primary/10 text-primary rounded-lg text-xs font-bold">{initials}</AvatarFallback>
+                  <AvatarFallback className="bg-primary text-primary-foreground rounded-lg text-xs font-semibold">
+                    {user.name.charAt(0)}
+                  </AvatarFallback>
                 </Avatar>
-                <div className="grid flex-1 text-left text-xs leading-tight">
+                <div className="grid flex-1 text-left text-sm leading-tight">
                   <span className="truncate font-semibold">{user.name}</span>
-                  <span className="text-muted-foreground truncate text-[10px]">{user.role}</span>
+                  <span className="text-muted-foreground truncate text-xs">{user.email}</span>
                 </div>
-              </div>
-            </DropdownMenuLabel>
-            <DropdownMenuSeparator />
-            <DropdownMenuGroup>
-              <DropdownMenuItem className="cursor-pointer gap-2 text-xs">
-                <User className="text-muted-foreground h-3.5 w-3.5" />
-                <span>{tNav('user.profile')}</span>
+                <ChevronsUpDown className="ml-auto size-4" />
+              </SidebarMenuButton>
+            </DropdownMenuTrigger>
+            <DropdownMenuContent className="w-(--radix-dropdown-menu-trigger-width) min-w-56 rounded-lg" side="bottom" align="end" sideOffset={4}>
+              <DropdownMenuLabel className="p-0 font-normal">
+                <div className="flex items-center gap-2 px-1 py-1.5 text-left text-sm">
+                  <Avatar className="h-8 w-8 rounded-lg">
+                    <AvatarFallback className="bg-primary text-primary-foreground rounded-lg text-xs font-semibold">
+                      {user.name.charAt(0)}
+                    </AvatarFallback>
+                  </Avatar>
+                  <div className="grid flex-1 text-left text-sm leading-tight">
+                    <span className="truncate font-semibold">{user.name}</span>
+                    <span className="text-muted-foreground truncate text-xs">{user.email}</span>
+                  </div>
+                </div>
+              </DropdownMenuLabel>
+              <DropdownMenuSeparator />
+              <DropdownMenuGroup>
+                <DropdownMenuItem className="cursor-pointer gap-2">
+                  <Sparkles className="size-4" />
+                  <span>{tNav('connectionStatus')}</span>
+                </DropdownMenuItem>
+                <DropdownMenuItem className="cursor-pointer gap-2">
+                  <BadgeCheck className="size-4" />
+                  <span>{tNav('accessRole', { role: user.role })}</span>
+                </DropdownMenuItem>
+              </DropdownMenuGroup>
+              <DropdownMenuSeparator />
+              <DropdownMenuItem onClick={() => setOpenSignOut(true)} className="text-destructive focus:text-destructive cursor-pointer">
+                <LogOut className="size-4" />
+                <span>{tNav('logout')}</span>
               </DropdownMenuItem>
-              <DropdownMenuItem className="cursor-pointer gap-2 text-xs">
-                <ShieldCheck className="text-muted-foreground h-3.5 w-3.5" />
-                <span>{tNav('user.security')}</span>
-              </DropdownMenuItem>
-            </DropdownMenuGroup>
-            <DropdownMenuSeparator />
-            <DropdownMenuItem
-              onClick={handleLogout}
-              className="text-destructive focus:bg-destructive/10 focus:text-destructive cursor-pointer gap-2 text-xs"
-            >
-              <LogOut className="h-3.5 w-3.5" />
-              <span>{tNav('user.logout')}</span>
-            </DropdownMenuItem>
-          </DropdownMenuContent>
-        </DropdownMenu>
-      </SidebarMenuItem>
-    </SidebarMenu>
+            </DropdownMenuContent>
+          </DropdownMenu>
+        </SidebarMenuItem>
+      </SidebarMenu>
+
+      <SignOutDialog open={openSignOut} onOpenChange={setOpenSignOut} />
+    </>
   )
 }

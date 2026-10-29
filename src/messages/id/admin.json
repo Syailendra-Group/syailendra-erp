@@ -31,6 +31,25 @@
       "department_placeholder": "Pilih Departemen",
       "status": "Status Kepegawaian"
     },
+    "table": {
+      "name": "Nama Karyawan",
+      "job_title": "Jabatan Operasional",
+      "department": "Departemen",
+      "contact": "Kontak Kerja",
+      "status": "Status",
+      "actions": "Aksi",
+      "defaultDept": "Pusat",
+      "defaultJob": "Staf Operasional"
+    },
+    "detail": {
+      "title": "Detail Karyawan",
+      "subtitle": "Rincian data profil dan penempatan kerja pada sistem Odoo 18.",
+      "department": "Departemen",
+      "workEmail": "Email Kerja",
+      "workPhone": "Telepon / WA",
+      "odooId": "ID Odoo Backend",
+      "editProfile": "Ubah Profil"
+    },
     "messages": {
       "created": "Data karyawan berhasil disimpan ke Odoo 18",
       "updated": "Data karyawan berhasil diperbarui",

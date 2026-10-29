@@ -32,6 +32,7 @@
   "table": {
     "asc": "Asc",
     "desc": "Desc",
+    "default": "Default",
     "hide": "Hide",
     "actions": "Actions",
     "noResults": "No results found.",

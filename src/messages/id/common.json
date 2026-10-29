@@ -32,6 +32,7 @@
   "table": {
     "asc": "Naik",
     "desc": "Turun",
+    "default": "Bawaan",
     "hide": "Sembunyikan",
     "actions": "Aksi",
     "noResults": "Tidak ada hasil ditemukan.",

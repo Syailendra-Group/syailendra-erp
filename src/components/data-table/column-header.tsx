@@ -1,4 +1,4 @@
-import { ArrowDown, ArrowUp, ChevronsUpDown, EyeOff } from 'lucide-react'
+import { ArrowDown, ArrowUp, ChevronsUpDown, EyeOff, RotateCcw } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 
 import { Button } from '@/components/ui/button'
@@ -43,6 +43,10 @@ export function DataTableColumnHeader<TData, TValue>({ column, title, className 
           <DropdownMenuItem onClick={() => column.toggleSorting(true)} className="cursor-pointer text-xs">
             <ArrowDown className="text-muted-foreground/70 mr-2 h-3.5 w-3.5" />
             {tTable('desc')}
+          </DropdownMenuItem>
+          <DropdownMenuItem onClick={() => column.clearSorting()} className="cursor-pointer text-xs">
+            <RotateCcw className="text-muted-foreground/70 mr-2 h-3.5 w-3.5" />
+            {tTable('default')}
           </DropdownMenuItem>
           <DropdownMenuSeparator />
           <DropdownMenuItem onClick={() => column.toggleVisibility(false)} className="cursor-pointer text-xs">

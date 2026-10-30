@@ -19,7 +19,7 @@ export default function middleware(request: NextRequest): NextResponse {
   // 2. Session cookie validation for protected routes
   const sessionCookie = request.cookies.get('syailendra_session')?.value
   const isLoginPage = pathname === '/login' || pathname === '/en/login'
-  const isPublicRoute = isLoginPage || pathname.startsWith('/trace') || pathname.startsWith('/en/trace') || pathname === '/' || pathname === '/en'
+  const isPublicRoute = isLoginPage || pathname.includes('/trace') || pathname === '/' || pathname === '/en' || pathname === '/id'
 
   // If user is trying to access dashboard without session, redirect to /login
   if (!sessionCookie && !isPublicRoute) {

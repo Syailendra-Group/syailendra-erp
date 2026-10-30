@@ -4,20 +4,25 @@ import { type ReactElement } from 'react'
 import {
   ArrowDownLeft,
   ArrowUpRight,
+  BarChart3,
   Bell,
   BookOpen,
   Briefcase,
   Building,
   Calendar,
   Clock,
+  Factory,
+  FileCheck2,
   FileSpreadsheet,
   FileText,
+  Flame,
   FlaskConical,
   FolderTree,
   GitBranch,
   History,
   Layers,
   LayoutDashboard,
+  LineChart,
   MapPin,
   QrCode,
   RotateCcw,
@@ -31,7 +36,8 @@ import {
   UserCheck,
   UserPlus,
   Users,
-  Warehouse
+  Warehouse,
+  Wheat
 } from 'lucide-react'
 
 import { Sidebar, SidebarContent, SidebarFooter, SidebarHeader, SidebarRail } from '@/components/ui/sidebar'
@@ -58,16 +64,37 @@ export function AppSidebar(): ReactElement {
     }
   ]
 
-  // 2. TRACEABILITY PILLAR
+  // 2. TRACEABILITY PILLAR (Approved Structure)
   const traceabilityGroups: NavGroupType[] = [
+    {
+      titleKey: 'groups.traceability_overview',
+      items: [{ titleKey: 'items.overview', url: '/traceability', icon: Layers }]
+    },
+    {
+      titleKey: 'groups.master_scm',
+      items: [
+        { titleKey: 'items.farmers', url: '/traceability/farmers', icon: Users },
+        { titleKey: 'items.distillers', url: '/traceability/distillers', icon: Factory },
+        { titleKey: 'items.harvest', url: '/traceability/harvest', icon: Wheat },
+        { titleKey: 'items.lots_batches', url: '/traceability/lots', icon: Tag }
+      ]
+    },
     {
       titleKey: 'groups.traceability_ops',
       items: [
-        { titleKey: 'items.overview', url: '/traceability', icon: Layers },
-        { titleKey: 'items.lots_batches', url: '/traceability/lots', icon: Tag },
+        { titleKey: 'items.distillation', url: '/traceability/distillation', icon: Flame },
+        { titleKey: 'items.qc_lab', url: '/traceability/qc', icon: FlaskConical },
         { titleKey: 'items.genealogy_graph', url: '/traceability/genealogy', icon: GitBranch },
         { titleKey: 'items.qr_printer', url: '/traceability/qr-printer', icon: QrCode },
         { titleKey: 'items.mock_recall', url: '/traceability/recall', icon: RotateCcw }
+      ]
+    },
+    {
+      titleKey: 'groups.traceability_reports',
+      items: [
+        { titleKey: 'items.report_genealogy', url: '/traceability/reports/genealogy', icon: FileCheck2 },
+        { titleKey: 'items.report_yield', url: '/traceability/reports/yield', icon: LineChart },
+        { titleKey: 'items.report_qc', url: '/traceability/reports/qc', icon: BarChart3 }
       ]
     }
   ]

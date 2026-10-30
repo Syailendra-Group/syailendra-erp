@@ -1,5 +1,7 @@
 'use client'
 
+import { useTranslations } from 'next-intl'
+
 import {
   AlertDialog,
   AlertDialogCancel,
@@ -33,8 +35,8 @@ export function ConfirmDialog({
   desc,
   children,
   className,
-  confirmText = 'Continue',
-  cancelBtnText = 'Cancel',
+  confirmText,
+  cancelBtnText,
   destructive = false,
   isLoading = false,
   disabled = false,
@@ -42,6 +44,10 @@ export function ConfirmDialog({
   handleConfirm,
   ...actions
 }: ConfirmDialogProps) {
+  const tConfirm = useTranslations('common.confirm')
+  const resolvedConfirmText = confirmText ?? tConfirm('continue')
+  const resolvedCancelBtnText = cancelBtnText ?? tConfirm('cancel')
+
   return (
     <AlertDialog {...actions}>
       <AlertDialogContent className={cn(className)}>
@@ -53,7 +59,7 @@ export function ConfirmDialog({
         </AlertDialogHeader>
         {children}
         <AlertDialogFooter>
-          <AlertDialogCancel disabled={isLoading}>{cancelBtnText}</AlertDialogCancel>
+          <AlertDialogCancel disabled={isLoading}>{resolvedCancelBtnText}</AlertDialogCancel>
           <Button
             type={form ? 'submit' : 'button'}
             form={form}
@@ -61,7 +67,7 @@ export function ConfirmDialog({
             variant={destructive ? 'destructive' : 'default'}
             disabled={disabled || isLoading}
           >
-            {confirmText}
+            {resolvedConfirmText}
           </Button>
         </AlertDialogFooter>
       </AlertDialogContent>

@@ -1,7 +1,7 @@
 'use client'
 
 import * as React from 'react'
-import { Boxes } from 'lucide-react'
+import Image from 'next/image'
 import { useTranslations } from 'next-intl'
 
 import { LanguageToggle } from '@/components/shared/language-toggle'
@@ -22,13 +22,22 @@ export function LoginPage(): React.ReactElement {
       </aside>
 
       <div className="w-full max-w-md space-y-6">
-        {/* Brand Header */}
-        <header className="space-y-2 text-center">
-          <div className="border-primary/20 bg-primary/10 text-primary dark:text-primary inline-flex rounded-2xl border p-3 shadow-xs">
-            <Boxes className="h-8 w-8" />
+        {/* Brand Header with DDistillers Logo */}
+        <header className="flex flex-col items-center space-y-3 text-center">
+          <div className="border-border/50 bg-card/60 flex items-center justify-center rounded-2xl border px-5 py-3 shadow-xs backdrop-blur-xs">
+            <Image
+              src="/images/ddistillers-logo.png"
+              alt="DDistillers — PT. Syailendra Bumi Investama"
+              width={240}
+              height={38}
+              priority
+              className="h-9 w-auto object-contain dark:brightness-125 dark:contrast-125"
+            />
           </div>
-          <h1 className="text-2xl font-bold tracking-tight">Syailendra Group</h1>
-          <p className="text-muted-foreground text-xs">{tAuth('subtitle')}</p>
+          <div>
+            <h1 className="text-xl font-bold tracking-tight">Syailendra Group</h1>
+            <p className="text-muted-foreground text-xs">{tAuth('subtitle')}</p>
+          </div>
         </header>
 
         {/* Login Card */}
@@ -44,7 +53,7 @@ export function LoginPage(): React.ReactElement {
 
         {/* Footer legal notes */}
         <footer className="text-muted-foreground/70 text-center text-xs">
-          &copy; {new Date().getFullYear()} Syailendra Group. All rights reserved.
+          &copy; {new Date().getFullYear()} Syailendra Group (DDistillers). All rights reserved.
         </footer>
       </div>
     </main>

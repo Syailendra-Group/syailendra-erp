@@ -19,7 +19,8 @@
     "clearFilters": "Hapus filter",
     "pickDate": "Pilih tanggal",
     "selectOption": "Pilih opsi",
-    "loading": "Memuat..."
+    "loading": "Memuat...",
+    "continue": "Lanjutkan"
   },
   "status": {
     "loading": "Memuat data...",
@@ -53,7 +54,9 @@
     "archiveTitle": "Konfirmasi Arsip Karyawan",
     "restoreTitle": "Konfirmasi Pulihkan Karyawan",
     "archiveDesc": "Apakah Anda yakin ingin mengarsipkan karyawan {name}?",
-    "restoreDesc": "Apakah Anda yakin ingin mengaktifkan kembali karyawan {name}?"
+    "restoreDesc": "Apakah Anda yakin ingin mengaktifkan kembali karyawan {name}?",
+    "continue": "Lanjutkan",
+    "cancel": "Batal"
   },
   "commandMenu": {
     "placeholder": "Ketik perintah atau cari modul...",
@@ -70,7 +73,7 @@
   "company": {
     "multiUnit": "Unit Usaha Terpadu",
     "connectionNotice": "Terkoneksi ke instance Odoo 18 Multi-Company Syailendra Group.",
-    "name": "Syailendra Group",
+    "name": "SYAILENDRA GROUP",
     "category": "Komoditas & Agro Khusus",
     "subsidiary": "PT Syailendra Agri Utama"
   },

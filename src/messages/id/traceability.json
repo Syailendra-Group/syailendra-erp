@@ -77,6 +77,33 @@
       "restoreTitle": "Aktifkan Petani Mitra",
       "archiveDesc": "Apakah Anda yakin ingin menonaktifkan status petani {name}? Data panen historis tetap aman terlacak.",
       "restoreDesc": "Apakah Anda yakin ingin mengaktifkan kembali status petani {name}?"
+    },
+    "sections": {
+      "identity": "1. Identitas & Informasi Kemitraan",
+      "identityDesc": "Data nomor registrasi SCM, nama lengkap mitra, identitas kependudukan, dan kontak aktif.",
+      "location": "2. Domisili & Wilayah Binaan",
+      "locationDesc": "Lokasi tempat tinggal dan desa perkebunan binaan mitra petani.",
+      "commodity": "3. Komoditas Pertanian & Budidaya",
+      "commodityDesc": "Jenis tanaman atsiri, metode pertanian (organik/konvensional), dan estimasi luas lahan.",
+      "terroir": "4. Terroir & Geotagging GPS",
+      "terroirDesc": "Koordinat geografis presisi untuk sertifikat silsilah digital konsumen (QR Trace).",
+      "notes": "5. Catatan Agronomi & Observasi Lapangan",
+      "notesDesc": "Catatan kondisi tanah, pohon, atau catatan khusus dari tim agronomis PT. SBI."
+    },
+    "detail": {
+      "back": "Kembali ke Daftar Petani",
+      "edit": "Ubah Data Petani",
+      "archive": "Arsipkan Petani",
+      "profileTitle": "Profil & Identitas Petani",
+      "agriTitle": "Komoditas & Budidaya",
+      "terroirTitle": "Lokasi Terroir & Koordinat Geografis",
+      "notesTitle": "Catatan Agronomi & Riwayat SCM",
+      "openGmaps": "Buka Titik Kebun di Google Maps",
+      "chatWa": "Hubungi via WhatsApp",
+      "verifiedPartner": "Mitra Petani Terverifikasi",
+      "hectare": "Hektar",
+      "elevation": "Elevasi Dataran Tinggi Dieng",
+      "registeredSince": "Terdaftar sejak September 2026"
     }
   },
   "distillers": {

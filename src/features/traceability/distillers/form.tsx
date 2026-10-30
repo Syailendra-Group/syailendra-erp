@@ -7,17 +7,19 @@ import { useTranslations } from 'next-intl'
 import { useForm } from 'react-hook-form'
 import { toast } from 'sonner'
 
+import { FormFieldWrapper } from '@/components/form/form-field-wrapper'
+import { SelectDropdown } from '@/components/select-dropdown'
 import { Button } from '@/components/ui/button'
 import { Dialog, DialogContent, DialogDescription, DialogFooter, DialogHeader, DialogTitle } from '@/components/ui/dialog'
+import { Input } from '@/components/ui/input'
+import { Textarea } from '@/components/ui/textarea'
 import { distillerFormSchema } from '@/schemas/distiller'
 
 import { saveDistillerAction } from './actions'
 import { useDistillers } from './context'
-import { DistillerFields } from './distiller-fields'
 
 import type { DistillerFormValues } from '@/schemas/distiller'
 import type { ReactElement } from 'react'
-import type { SubmitHandler } from 'react-hook-form'
 
 export function DistillersActionDialog(): ReactElement {
   const tTrace = useTranslations('traceability.distillers')
@@ -73,8 +75,9 @@ export function DistillersActionDialog(): ReactElement {
         comment: currentRow.comment || ''
       })
     } else if (open === 'add') {
+      const randomSuffix = Math.floor(100 + Math.random() * 900)
       reset({
-        ref: `DST-JTG-${Math.floor(100 + Math.random() * 900)}`,
+        ref: `DST-JTG-${randomSuffix}`,
         name: '',
         boiler_capacity_kg: 500,
         method: 'steam',
@@ -92,7 +95,7 @@ export function DistillersActionDialog(): ReactElement {
     }
   }, [currentRow, isEdit, open, reset])
 
-  const onSubmit: SubmitHandler<DistillerFormValues> = (values) => {
+  const onSubmit = (values: DistillerFormValues) => {
     startTransition(async () => {
       const res = await saveDistillerAction(values)
       if (res.success) {
@@ -113,37 +116,184 @@ export function DistillersActionDialog(): ReactElement {
       open={isOpen}
       onOpenChange={(v) => {
         if (!v) {
+          reset()
           setOpen(null)
           setCurrentRow(null)
         }
       }}
     >
-      <DialogContent className="sm:max-w-2xl">
-        <DialogHeader>
-          <DialogTitle className="text-base">{isEdit ? tTrace('dialog.editTitle') : tTrace('dialog.addTitle')}</DialogTitle>
-          <DialogDescription className="text-xs">{isEdit ? tTrace('dialog.editDesc') : tTrace('dialog.addDesc')}</DialogDescription>
+      <DialogContent className="sm:max-w-xl">
+        <DialogHeader className="text-start">
+          <DialogTitle>{isEdit ? tTrace('dialog.editTitle') : tTrace('dialog.addTitle')}</DialogTitle>
+          <DialogDescription>{isEdit ? tTrace('dialog.editDesc') : tTrace('dialog.addDesc')}</DialogDescription>
         </DialogHeader>
 
-        <form id="distiller-form" onSubmit={handleSubmit(onSubmit)} className="space-y-3 py-2 text-xs">
-          <DistillerFields register={register} errors={errors} watch={watch} setValue={setValue} isPending={isPending} isEdit={isEdit} />
-        </form>
+        <div className="max-h-[70vh] overflow-y-auto py-1 pe-1">
+          <form id="distiller-form" onSubmit={handleSubmit(onSubmit)} className="space-y-3.5">
+            <div className="grid grid-cols-1 gap-3 sm:grid-cols-2">
+              <FormFieldWrapper id="ref" label={tTrace('fields.ref')} error={errors.ref?.message}>
+                <Input
+                  id="ref"
+                  placeholder={tTrace('fields.refPlaceholder')}
+                  disabled={isPending || isEdit}
+                  className="h-8 font-mono text-xs"
+                  {...register('ref')}
+                />
+              </FormFieldWrapper>
+
+              <FormFieldWrapper id="name" label={tTrace('fields.name')} required error={errors.name?.message}>
+                <Input id="name" placeholder={tTrace('fields.namePlaceholder')} disabled={isPending} className="h-8 text-xs" {...register('name')} />
+              </FormFieldWrapper>
+            </div>
+
+            <div className="grid grid-cols-1 gap-3 sm:grid-cols-2">
+              <FormFieldWrapper
+                id="boiler_capacity_kg"
+                label={`${tTrace('fields.boilerCapacity')} (Kg)`}
+                required
+                error={errors.boiler_capacity_kg?.message}
+              >
+                <Input
+                  id="boiler_capacity_kg"
+                  type="number"
+                  placeholder={tTrace('fields.boilerCapacityPlaceholder')}
+                  disabled={isPending}
+                  className="h-8 font-mono text-xs"
+                  {...register('boiler_capacity_kg', { valueAsNumber: true })}
+                />
+              </FormFieldWrapper>
+
+              <FormFieldWrapper id="method" label={tTrace('fields.method')} required error={errors.method?.message}>
+                <SelectDropdown
+                  value={watch('method')}
+                  onValueChange={(val) => setValue('method', val, { shouldValidate: true })}
+                  placeholder={tTrace('fields.methodPlaceholder')}
+                  disabled={isPending}
+                  className="h-8"
+                  items={[
+                    { label: tTrace('methods.steam'), value: 'steam' },
+                    { label: tTrace('methods.hydro'), value: 'hydro' },
+                    { label: tTrace('methods.water_steam'), value: 'water_steam' },
+                    { label: tTrace('methods.cold_pressed'), value: 'cold_pressed' }
+                  ]}
+                />
+              </FormFieldWrapper>
+            </div>
+
+            <div className="grid grid-cols-1 gap-3 sm:grid-cols-2">
+              <FormFieldWrapper id="boiler_material" label={tTrace('fields.material')}>
+                <SelectDropdown
+                  value={watch('boiler_material')}
+                  onValueChange={(val) => setValue('boiler_material', val, { shouldValidate: true })}
+                  placeholder={tTrace('fields.materialPlaceholder')}
+                  disabled={isPending}
+                  className="h-8"
+                  items={[
+                    { label: tTrace('materials.sus316'), value: 'sus316' },
+                    { label: tTrace('materials.sus304'), value: 'sus304' },
+                    { label: tTrace('materials.copper'), value: 'copper' }
+                  ]}
+                />
+              </FormFieldWrapper>
+
+              <FormFieldWrapper id="ownership" label={tTrace('fields.ownership')}>
+                <SelectDropdown
+                  value={watch('ownership')}
+                  onValueChange={(val) => setValue('ownership', val, { shouldValidate: true })}
+                  placeholder={tTrace('fields.ownershipPlaceholder')}
+                  disabled={isPending}
+                  className="h-8"
+                  items={[
+                    { label: tTrace('ownership.internal'), value: 'internal' },
+                    { label: tTrace('ownership.partner'), value: 'partner' }
+                  ]}
+                />
+              </FormFieldWrapper>
+            </div>
+
+            <div className="grid grid-cols-1 gap-3 sm:grid-cols-2">
+              <FormFieldWrapper id="operator_name" label={tTrace('fields.operatorName')} required error={errors.operator_name?.message}>
+                <Input
+                  id="operator_name"
+                  placeholder={tTrace('fields.operatorNamePlaceholder')}
+                  disabled={isPending}
+                  className="h-8 text-xs"
+                  {...register('operator_name')}
+                />
+              </FormFieldWrapper>
+
+              <FormFieldWrapper id="phone" label={tTrace('fields.phone')}>
+                <Input
+                  id="phone"
+                  placeholder={tTrace('fields.phonePlaceholder')}
+                  disabled={isPending}
+                  className="h-8 font-mono text-xs"
+                  {...register('phone')}
+                />
+              </FormFieldWrapper>
+            </div>
+
+            <div className="grid grid-cols-1 gap-3 sm:grid-cols-2">
+              <FormFieldWrapper id="street" label={tTrace('fields.street')} required error={errors.street?.message}>
+                <Input
+                  id="street"
+                  placeholder={tTrace('fields.streetPlaceholder')}
+                  disabled={isPending}
+                  className="h-8 text-xs"
+                  {...register('street')}
+                />
+              </FormFieldWrapper>
+
+              <FormFieldWrapper id="city" label={tTrace('fields.city')} required error={errors.city?.message}>
+                <Input id="city" placeholder={tTrace('fields.cityPlaceholder')} disabled={isPending} className="h-8 text-xs" {...register('city')} />
+              </FormFieldWrapper>
+            </div>
+
+            <FormFieldWrapper id="sanitation_status" label={tTrace('fields.sanitation')}>
+              <SelectDropdown
+                value={watch('sanitation_status')}
+                onValueChange={(val) => setValue('sanitation_status', val, { shouldValidate: true })}
+                placeholder={tTrace('fields.sanitationPlaceholder')}
+                disabled={isPending}
+                className="h-8"
+                items={[
+                  { label: tTrace('sanitation.passed'), value: 'passed' },
+                  { label: tTrace('sanitation.pending'), value: 'pending' },
+                  { label: tTrace('sanitation.cleaning'), value: 'cleaning' }
+                ]}
+              />
+            </FormFieldWrapper>
+
+            <FormFieldWrapper id="comment" label={tTrace('fields.comment')}>
+              <Textarea
+                id="comment"
+                rows={2}
+                placeholder={tTrace('fields.commentPlaceholder')}
+                disabled={isPending}
+                className="resize-none text-xs"
+                {...register('comment')}
+              />
+            </FormFieldWrapper>
+          </form>
+        </div>
 
         <DialogFooter className="gap-2 sm:gap-0">
           <Button
             type="button"
             variant="outline"
             size="sm"
-            disabled={isPending}
             onClick={() => {
+              reset()
               setOpen(null)
               setCurrentRow(null)
             }}
+            disabled={isPending}
           >
             {tCommon('actions.cancel')}
           </Button>
           <Button type="submit" form="distiller-form" size="sm" disabled={isPending} className="cursor-pointer font-semibold">
             {isPending && <Loader2 className="mr-1.5 size-3.5 animate-spin" />}
-            {tCommon('actions.save')}
+            {isEdit ? tCommon('actions.save') : tTrace('actions.add')}
           </Button>
         </DialogFooter>
       </DialogContent>

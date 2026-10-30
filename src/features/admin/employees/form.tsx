@@ -89,6 +89,7 @@ export function EmployeesActionDialog({ currentRow, open, onOpenChange, departme
         <div className="max-h-[70vh] overflow-y-auto py-1 pe-1">
           <Form {...form}>
             <form id="employee-form" onSubmit={form.handleSubmit(onSubmit)} className="space-y-3.5">
+              {/* Full Name */}
               <FormField
                 control={form.control}
                 name="name"
@@ -104,6 +105,7 @@ export function EmployeesActionDialog({ currentRow, open, onOpenChange, departme
               />
 
               <div className="grid grid-cols-1 gap-3 sm:grid-cols-2">
+                {/* Job Title */}
                 <FormField
                   control={form.control}
                   name="job_title"
@@ -118,6 +120,7 @@ export function EmployeesActionDialog({ currentRow, open, onOpenChange, departme
                   )}
                 />
 
+                {/* Department */}
                 <FormField
                   control={form.control}
                   name="department_id"
@@ -141,6 +144,7 @@ export function EmployeesActionDialog({ currentRow, open, onOpenChange, departme
               </div>
 
               <div className="grid grid-cols-1 gap-3 sm:grid-cols-2">
+                {/* Work Email */}
                 <FormField
                   control={form.control}
                   name="work_email"
@@ -155,6 +159,7 @@ export function EmployeesActionDialog({ currentRow, open, onOpenChange, departme
                   )}
                 />
 
+                {/* Work Phone */}
                 <FormField
                   control={form.control}
                   name="work_phone"

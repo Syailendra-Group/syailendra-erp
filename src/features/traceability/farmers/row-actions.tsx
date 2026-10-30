@@ -5,6 +5,7 @@ import { useTranslations } from 'next-intl'
 
 import { Button } from '@/components/ui/button'
 import { Tooltip, TooltipContent, TooltipTrigger } from '@/components/ui/tooltip'
+import { Link } from '@/i18n/navigation'
 
 import { useFarmers } from './context'
 
@@ -21,20 +22,19 @@ export function DataTableRowActions({ row }: DataTableRowActionsProps): ReactEle
 
   return (
     <div className="flex items-center justify-center gap-1">
-      {/* 1. View Details Action */}
+      {/* 1. View Details Action (Dedicated Page) */}
       <Tooltip>
         <TooltipTrigger asChild>
           <Button
+            asChild
             variant="outline"
             size="icon"
             className="size-7 cursor-pointer border-blue-200 text-blue-600 hover:bg-blue-50 dark:border-blue-900/50 dark:text-blue-400 dark:hover:bg-blue-950/40"
-            onClick={() => {
-              setCurrentRow(row)
-              setOpen('view')
-            }}
           >
-            <Eye className="size-3.5" />
-            <span className="sr-only">{tCommon('view')}</span>
+            <Link href={`/traceability/farmers/${row.id}`}>
+              <Eye className="size-3.5" />
+              <span className="sr-only">{tCommon('view')}</span>
+            </Link>
           </Button>
         </TooltipTrigger>
         <TooltipContent side="top">
@@ -42,20 +42,19 @@ export function DataTableRowActions({ row }: DataTableRowActionsProps): ReactEle
         </TooltipContent>
       </Tooltip>
 
-      {/* 2. Edit Action */}
+      {/* 2. Edit Action (Dedicated Page) */}
       <Tooltip>
         <TooltipTrigger asChild>
           <Button
+            asChild
             variant="outline"
             size="icon"
             className="size-7 cursor-pointer border-amber-200 text-amber-600 hover:bg-amber-50 dark:border-amber-900/50 dark:text-amber-400 dark:hover:bg-amber-950/40"
-            onClick={() => {
-              setCurrentRow(row)
-              setOpen('edit')
-            }}
           >
-            <Edit2 className="size-3.5" />
-            <span className="sr-only">{tCommon('edit')}</span>
+            <Link href={`/traceability/farmers/edit/${row.id}`}>
+              <Edit2 className="size-3.5" />
+              <span className="sr-only">{tCommon('edit')}</span>
+            </Link>
           </Button>
         </TooltipTrigger>
         <TooltipContent side="top">
@@ -63,7 +62,7 @@ export function DataTableRowActions({ row }: DataTableRowActionsProps): ReactEle
         </TooltipContent>
       </Tooltip>
 
-      {/* 3. Archive / Restore Action */}
+      {/* 3. Archive / Restore Action (Confirm Dialog) */}
       <Tooltip>
         <TooltipTrigger asChild>
           <Button

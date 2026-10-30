@@ -77,6 +77,33 @@
       "restoreTitle": "Activate Farmer Partner",
       "archiveDesc": "Are you sure you want to deactivate farmer {name}? Historical harvest records remain securely tracked.",
       "restoreDesc": "Are you sure you want to reactivate farmer {name}?"
+    },
+    "sections": {
+      "identity": "1. Identity & Partnership Info",
+      "identityDesc": "SCM registration code, partner full name, national ID (NIK), and active contact.",
+      "location": "2. Domicile & Region",
+      "locationDesc": "Residential and plantation village location of the partner farmer.",
+      "commodity": "3. Agricultural Commodity & Cultivation",
+      "commodityDesc": "Aromatic crop species, farming methodology (organic/conventional), and land area.",
+      "terroir": "4. Terroir & GPS Geotagging",
+      "terroirDesc": "Precise geographic coordinates for consumer digital certificate provenance (QR Trace).",
+      "notes": "5. Agronomy Notes & Field Observations",
+      "notesDesc": "Soil observations, tree health conditions, or specialized agronomist remarks."
+    },
+    "detail": {
+      "back": "Back to Farmers List",
+      "edit": "Edit Farmer",
+      "archive": "Archive Farmer",
+      "profileTitle": "Farmer Profile & Identity",
+      "agriTitle": "Commodity & Cultivation",
+      "terroirTitle": "Terroir Location & Geographic Coordinates",
+      "notesTitle": "Agronomy Notes & SCM Provenance",
+      "openGmaps": "Open Plantation in Google Maps",
+      "chatWa": "Contact via WhatsApp",
+      "verifiedPartner": "Verified Farmer Partner",
+      "hectare": "Hectares",
+      "elevation": "Dieng Plateau Elevation",
+      "registeredSince": "Registered since September 2026"
     }
   },
   "distillers": {

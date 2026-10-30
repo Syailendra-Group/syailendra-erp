@@ -42,6 +42,12 @@ export async function getFarmersAction(): Promise<{ farmers: FarmerRecord[] }> {
       else if (comment.toLowerCase().includes('kopi')) commodity = 'kopi'
       else if (comment.toLowerCase().includes('cengkeh')) commodity = 'cengkeh'
 
+      let land_area_m2 = 2500
+      const landMatch = comment.match(/Luas Lahan:\s*(\d+)/i)
+      if (landMatch && landMatch[1]) {
+        land_area_m2 = parseInt(landMatch[1], 10)
+      }
+
       return {
         id: r.id as number,
         ref: (r.ref as string) || `FMR-JTG-${r.id}`,
@@ -56,7 +62,7 @@ export async function getFarmersAction(): Promise<{ farmers: FarmerRecord[] }> {
         comment: comment || false,
         commodity,
         farming_method: comment.toLowerCase().includes('organik') ? 'organic' : 'conventional',
-        land_area_m2: 2500,
+        land_area_m2,
         active: Boolean(r.active)
       }
     })
@@ -68,7 +74,53 @@ export async function getFarmersAction(): Promise<{ farmers: FarmerRecord[] }> {
   }
 }
 
-export async function saveFarmerAction(values: FarmerFormValues): Promise<{ success: boolean; error?: string }> {
+export async function getFarmerByIdAction(id: number): Promise<FarmerRecord | null> {
+  try {
+    const records = await odoo.client.searchRead<Record<string, unknown>>(
+      'res.partner',
+      [['id', '=', id]],
+      ['id', 'ref', 'name', 'vat', 'street', 'city', 'partner_latitude', 'partner_longitude', 'phone', 'email', 'comment', 'active']
+    )
+    const r = records[0]
+    if (!r) return null
+
+    const comment = (r.comment as string) || ''
+    let commodity = 'gaharu'
+    if (comment.toLowerCase().includes('nilam')) commodity = 'nilam'
+    else if (comment.toLowerCase().includes('serai')) commodity = 'serai'
+    else if (comment.toLowerCase().includes('kopi')) commodity = 'kopi'
+    else if (comment.toLowerCase().includes('cengkeh')) commodity = 'cengkeh'
+
+    let land_area_m2 = 2500
+    const landMatch = comment.match(/Luas Lahan:\s*(\d+)/i)
+    if (landMatch && landMatch[1]) {
+      land_area_m2 = parseInt(landMatch[1], 10)
+    }
+
+    return {
+      id: r.id as number,
+      ref: (r.ref as string) || `FMR-JTG-${r.id}`,
+      name: (r.name as string) || 'Petani Mitra',
+      vat: (r.vat as string) || false,
+      street: (r.street as string) || '-',
+      city: (r.city as string) || '-',
+      partner_latitude: Number(r.partner_latitude) || 0,
+      partner_longitude: Number(r.partner_longitude) || 0,
+      phone: (r.phone as string) || false,
+      email: (r.email as string) || false,
+      comment: comment || false,
+      commodity,
+      farming_method: comment.toLowerCase().includes('organik') ? 'organic' : 'conventional',
+      land_area_m2,
+      active: Boolean(r.active)
+    }
+  } catch (err) {
+    console.error('Failed to fetch farmer by ID:', err)
+    return null
+  }
+}
+
+export async function saveFarmerAction(values: FarmerFormValues): Promise<{ success: boolean; id?: number; error?: string }> {
   const parsed = farmerFormSchema.safeParse(values)
   if (!parsed.success) {
     return { success: false, error: parsed.error.issues[0]?.message || 'Invalid parameters' }
@@ -101,16 +153,17 @@ export async function saveFarmerAction(values: FarmerFormValues): Promise<{ succ
       autopost_bills: 'ask'
     }
 
+    let savedId = id
     if (id) {
       await odoo.client.write('res.partner', [id], payload)
     } else {
       payload.is_company = false
       payload.active = true
-      await odoo.client.create('res.partner', payload)
+      savedId = await odoo.client.create('res.partner', payload)
     }
 
     revalidatePath('/traceability/farmers')
-    return { success: true }
+    return { success: true, id: savedId }
   } catch (err) {
     const msg = err instanceof Error ? err.message : 'Failed to save farmer to Odoo'
     return { success: false, error: msg }

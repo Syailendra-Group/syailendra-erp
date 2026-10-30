@@ -93,7 +93,9 @@
     "attendance": "Log Presensi",
     "company": "Profil Perusahaan",
     "audit": "Log Audit",
-    "docs": "Dokumen SOP"
+    "docs": "Dokumen SOP",
+    "create": "Tambah Baru",
+    "edit": "Ubah"
   },
   "user": {
     "profile": "Profil Akun",

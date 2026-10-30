@@ -19,7 +19,8 @@
     "clearFilters": "Clear filters",
     "pickDate": "Pick a date",
     "selectOption": "Select option",
-    "loading": "Loading..."
+    "loading": "Loading...",
+    "continue": "Continue"
   },
   "status": {
     "loading": "Loading data...",
@@ -53,7 +54,9 @@
     "archiveTitle": "Archive Employee",
     "restoreTitle": "Restore Employee",
     "archiveDesc": "Are you sure you want to archive {name}?",
-    "restoreDesc": "Are you sure you want to reactivate {name}?"
+    "restoreDesc": "Are you sure you want to reactivate {name}?",
+    "continue": "Continue",
+    "cancel": "Cancel"
   },
   "commandMenu": {
     "placeholder": "Type a command or search...",
@@ -70,7 +73,7 @@
   "company": {
     "multiUnit": "Multi-Unit Business",
     "connectionNotice": "Connected to Odoo 18 Multi-Company Syailendra Group.",
-    "name": "Syailendra Group",
+    "name": "SYAILENDRA GROUP",
     "category": "Specialty Agri & Commodities",
     "subsidiary": "PT Syailendra Agri Utama"
   },

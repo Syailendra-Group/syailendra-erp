@@ -7,12 +7,14 @@ import { useTranslations } from 'next-intl'
 import { getFarmersAction } from './actions'
 import { FarmersProvider } from './context'
 import { FarmersDialogs } from './dialogs'
-import { FarmersActionDialog } from './form'
 import { FarmersPrimaryButtons } from './primary-buttons'
 import { FarmersTable } from './table'
 
 import type { ReactElement } from 'react'
 import type { FarmerRecord } from './actions'
+
+export { FarmerForm } from './form'
+export { FarmerDetail } from './detail'
 
 export interface FarmersFeatureProps {
   initialData?: FarmerRecord[]
@@ -56,8 +58,7 @@ export function FarmersFeature({ initialData = [] }: FarmersFeatureProps): React
         {/* Data Table */}
         <FarmersTable data={data} />
 
-        {/* Modals & Dialogs */}
-        <FarmersActionDialog />
+        {/* Dialogs (Archive / Restore) */}
         <FarmersDialogs />
       </div>
     </FarmersProvider>

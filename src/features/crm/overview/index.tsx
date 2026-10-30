@@ -2,6 +2,7 @@
 
 import { type ReactElement } from 'react'
 import { FlaskConical, Globe, ShoppingBag, Target, TrendingUp, Truck, Users } from 'lucide-react'
+import { useTranslations } from 'next-intl'
 
 import { QuickActions } from '@/components/shared/quick-actions'
 import { SummaryCardGrid } from '@/components/shared/summary-card'
@@ -11,6 +12,7 @@ import type { QuickActionItem } from '@/components/shared/quick-actions'
 import type { SummaryCardItem } from '@/components/shared/summary-card'
 
 export function CrmOverview(): ReactElement {
+  const tCommon = useTranslations('common')
   const kpis: SummaryCardItem[] = [
     { title: 'Pesanan Web Global', value: '12 Orders', subtitle: 'Website DDistillers.com', icon: ShoppingBag, color: 'text-primary' },
     { title: 'Permintaan Sampel', value: '8 Requests', subtitle: 'Kuota 3 Gratis • Ongkir Lunas', icon: FlaskConical, color: 'text-blue-500' },
@@ -44,7 +46,7 @@ export function CrmOverview(): ReactElement {
 
       <SummaryCardGrid items={kpis} />
 
-      <QuickActions items={shortcuts} title="Aksi Komersial & Sampel:" />
+      <QuickActions items={shortcuts} title={tCommon('quickActions.crm')} />
     </div>
   )
 }

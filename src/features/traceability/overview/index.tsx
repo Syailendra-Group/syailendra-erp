@@ -2,6 +2,7 @@
 
 import { type ReactElement } from 'react'
 import { ArrowRight, CheckCircle2, GitBranch, Layers, QrCode, RotateCcw, ShieldCheck, Tag } from 'lucide-react'
+import { useTranslations } from 'next-intl'
 
 import { QuickActions } from '@/components/shared/quick-actions'
 import { SummaryCardGrid } from '@/components/shared/summary-card'
@@ -15,6 +16,7 @@ import type { QuickActionItem } from '@/components/shared/quick-actions'
 import type { SummaryCardItem } from '@/components/shared/summary-card'
 
 export function TraceabilityOverview(): ReactElement {
+  const tCommon = useTranslations('common')
   const kpis: SummaryCardItem[] = [
     { title: 'Total Lot Terlacak', value: '24 Batches', subtitle: 'Hulu s/d Hilir', icon: Tag, color: 'text-primary' },
     { title: 'Sesi Suling Aktif', value: '1 Ketel', subtitle: 'Metode Steam Suling', icon: Layers, color: 'text-blue-500' },
@@ -56,7 +58,7 @@ export function TraceabilityOverview(): ReactElement {
 
       <SummaryCardGrid items={kpis} />
 
-      <QuickActions items={shortcuts} title="Aksi Silsilah & QR:" />
+      <QuickActions items={shortcuts} title={tCommon('quickActions.traceability')} />
 
       <Card className="shadow-xs">
         <CardHeader className="pb-3">

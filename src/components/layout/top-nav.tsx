@@ -39,9 +39,9 @@ export function TopNav(): ReactElement {
       {/* Mobile / Tablet Dropdown Menu (< lg) */}
       <DropdownMenu modal={false}>
         <DropdownMenuTrigger asChild>
-          <Button size="icon" variant="outline" className="size-8 lg:hidden" aria-label="Toggle navigation menu">
+          <Button size="icon" variant="outline" className="size-8 lg:hidden" aria-label={tNav('toggleNavMenu')}>
             <Menu className="size-4" />
-            <span className="sr-only">Toggle navigation menu</span>
+            <span className="sr-only">{tNav('toggleNavMenu')}</span>
           </Button>
         </DropdownMenuTrigger>
         <DropdownMenuContent side="bottom" align="start" className="w-48">

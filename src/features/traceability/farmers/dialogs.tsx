@@ -70,7 +70,7 @@ export function FarmersDialogs(): ReactElement {
                 <div>
                   <span className="text-muted-foreground block text-[10px] font-semibold uppercase">Status Kemitraan</span>
                   <Badge variant="outline" className="mt-0.5 text-[10px]">
-                    {currentRow.active ? 'Aktif Terverifikasi' : 'Diarsipkan'}
+                    {currentRow.active ? tTrace('status.activeVerified') : tTrace('status.archived')}
                   </Badge>
                 </div>
               </div>
@@ -173,11 +173,11 @@ export function FarmersDialogs(): ReactElement {
         }}
         handleConfirm={handleToggleStatus}
         isLoading={isPending}
-        title={currentRow?.active ? 'Arsipkan Petani Mitra' : 'Aktifkan Petani Mitra'}
+        title={currentRow?.active ? tTrace('confirm.archiveTitle') : tTrace('confirm.restoreTitle')}
         desc={
           currentRow?.active
-            ? `Apakah Anda yakin ingin menonaktifkan status petani ${currentRow?.name}? Data panen historis tetap aman terlacak.`
-            : `Apakah Anda yakin ingin mengaktifkan kembali status petani ${currentRow?.name}?`
+            ? tTrace('confirm.archiveDesc', { name: currentRow?.name || '' })
+            : tTrace('confirm.restoreDesc', { name: currentRow?.name || '' })
         }
         confirmText={currentRow?.active ? tCommon('actions.archive') : tCommon('actions.restore')}
         destructive={currentRow?.active}

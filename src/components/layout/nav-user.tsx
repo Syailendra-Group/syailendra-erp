@@ -26,7 +26,7 @@ export function NavUser(): ReactElement {
   const user = {
     name: 'OctaLectzz',
     email: 'octalectzz@gmail.com',
-    role: 'System Administrator'
+    roleKey: 'admin'
   }
 
   return (
@@ -73,7 +73,7 @@ export function NavUser(): ReactElement {
                 </DropdownMenuItem>
                 <DropdownMenuItem className="cursor-pointer gap-2">
                   <BadgeCheck className="size-4" />
-                  <span>{tNav('accessRole', { role: user.role })}</span>
+                  <span>{tNav('accessRole', { role: tNav('roles.' + user.roleKey) })}</span>
                 </DropdownMenuItem>
               </DropdownMenuGroup>
               <DropdownMenuSeparator />

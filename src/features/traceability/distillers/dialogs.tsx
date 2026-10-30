@@ -70,7 +70,7 @@ export function DistillersDialogs(): ReactElement {
                 <div>
                   <span className="text-muted-foreground block text-[10px] font-semibold uppercase">Status Operasional</span>
                   <Badge variant="outline" className="mt-0.5 text-[10px]">
-                    {currentRow.active ? 'Siap Beroperasi' : 'Pemeliharaan / Arsip'}
+                    {currentRow.active ? tTrace('distillers.status.operational') : tTrace('distillers.status.maintenance')}
                   </Badge>
                 </div>
               </div>
@@ -168,11 +168,11 @@ export function DistillersDialogs(): ReactElement {
         }}
         handleConfirm={handleToggleStatus}
         isLoading={isPending}
-        title={currentRow?.active ? 'Arsipkan Unit Suling' : 'Aktifkan Unit Suling'}
+        title={currentRow?.active ? tTrace('distillers.confirm.archiveTitle') : tTrace('distillers.confirm.restoreTitle')}
         desc={
           currentRow?.active
-            ? `Apakah Anda yakin ingin menonaktifkan ketel suling ${currentRow?.name}? Riwayat batch suling (DSTB) tetap aman terlacak.`
-            : `Apakah Anda yakin ingin mengaktifkan kembali ketel suling ${currentRow?.name}?`
+            ? tTrace('distillers.confirm.archiveDesc', { name: currentRow?.name || '' })
+            : tTrace('distillers.confirm.restoreDesc', { name: currentRow?.name || '' })
         }
         confirmText={currentRow?.active ? tCommon('actions.archive') : tCommon('actions.restore')}
         destructive={currentRow?.active}

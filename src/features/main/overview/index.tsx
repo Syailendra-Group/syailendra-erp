@@ -2,6 +2,7 @@
 
 import { type ReactElement } from 'react'
 import { Activity, Clock, Layers, LayoutDashboard, Sparkles, Target, Users, Warehouse } from 'lucide-react'
+import { useTranslations } from 'next-intl'
 
 import { QuickActions } from '@/components/shared/quick-actions'
 import { SummaryCardGrid } from '@/components/shared/summary-card'
@@ -12,6 +13,7 @@ import type { QuickActionItem } from '@/components/shared/quick-actions'
 import type { SummaryCardItem } from '@/components/shared/summary-card'
 
 export function MainOverview(): ReactElement {
+  const tCommon = useTranslations('common')
   const kpis: SummaryCardItem[] = [
     { title: 'Sistem Terhubung', value: 'Odoo 18 CE', subtitle: 'PostgreSQL 15 Alpine', icon: Activity, color: 'text-primary' },
     { title: 'Silsilah Aktif', value: '24 Batches', subtitle: '100% Full Chain Traceable', icon: Layers, color: 'text-blue-500' },
@@ -59,7 +61,7 @@ export function MainOverview(): ReactElement {
       <SummaryCardGrid items={kpis} />
 
       {/* Reusable Quick Actions Bar */}
-      <QuickActions items={shortcuts} />
+      <QuickActions items={shortcuts} title={tCommon('quickActions.main')} />
 
       {/* Analytics & Activity Table */}
       <div className="grid gap-4 sm:gap-6 lg:grid-cols-7">

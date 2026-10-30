@@ -2,6 +2,7 @@
 
 import { type ReactElement } from 'react'
 import { Briefcase, Building2, CheckCircle2, Clock, FileText, UserCheck, Users2 } from 'lucide-react'
+import { useTranslations } from 'next-intl'
 
 import { QuickActions } from '@/components/shared/quick-actions'
 import { SummaryCardGrid } from '@/components/shared/summary-card'
@@ -11,6 +12,7 @@ import type { QuickActionItem } from '@/components/shared/quick-actions'
 import type { SummaryCardItem } from '@/components/shared/summary-card'
 
 export function HrisOverview(): ReactElement {
+  const tCommon = useTranslations('common')
   const kpis: SummaryCardItem[] = [
     { title: 'Karyawan Hadir Hari Ini', value: '28 / 32', subtitle: '87.5% Tingkat Kehadiran', icon: UserCheck, color: 'text-emerald-500' },
     { title: 'Terlambat / Izin', value: '4 Orang', subtitle: '2 Izin Lapangan • 2 Shift Siang', icon: Clock, color: 'text-amber-500' },
@@ -44,7 +46,7 @@ export function HrisOverview(): ReactElement {
 
       <SummaryCardGrid items={kpis} />
 
-      <QuickActions items={shortcuts} title="Aksi SDM & Presensi:" />
+      <QuickActions items={shortcuts} title={tCommon('quickActions.hris')} />
     </div>
   )
 }

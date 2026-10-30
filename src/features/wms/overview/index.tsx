@@ -2,6 +2,7 @@
 
 import { type ReactElement } from 'react'
 import { ArrowDownLeft, ArrowUpRight, Boxes, FileSpreadsheet, MapPin, Package, RotateCcw, ShieldCheck, Warehouse } from 'lucide-react'
+import { useTranslations } from 'next-intl'
 
 import { QuickActions } from '@/components/shared/quick-actions'
 import { SummaryCardGrid } from '@/components/shared/summary-card'
@@ -12,6 +13,7 @@ import type { QuickActionItem } from '@/components/shared/quick-actions'
 import type { SummaryCardItem } from '@/components/shared/summary-card'
 
 export function WmsOverview(): ReactElement {
+  const tCommon = useTranslations('common')
   const kpis: SummaryCardItem[] = [
     { title: 'Saldo Stok Siap Pakai', value: '58.2 Kg', subtitle: 'WH/Approved • Lolos QC', icon: ShieldCheck, color: 'text-emerald-500' },
     { title: 'Stok Terkunci Karantina', value: '24.5 Kg', subtitle: 'WH/Quarantine • Menunggu Lab', icon: RotateCcw, color: 'text-amber-500' },
@@ -46,7 +48,7 @@ export function WmsOverview(): ReactElement {
 
       <SummaryCardGrid items={kpis} />
 
-      <QuickActions items={shortcuts} title="Aksi Pergudangan:" />
+      <QuickActions items={shortcuts} title={tCommon('quickActions.wms')} />
 
       <div className="grid gap-4 sm:gap-6 lg:grid-cols-2">
         <Card className="shadow-xs">

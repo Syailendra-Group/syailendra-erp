@@ -57,7 +57,7 @@ export function ProfileDropdown(): ReactElement {
             </DropdownMenuItem>
             <DropdownMenuItem className="cursor-pointer">
               <ShieldCheck className="mr-2 h-4 w-4" />
-              <span>{tNav('accessRole', { role: 'Admin' })}</span>
+              <span>{tNav('accessRole', { role: tNav('roles.admin') })}</span>
             </DropdownMenuItem>
           </DropdownMenuGroup>
           <DropdownMenuSeparator />

@@ -100,6 +100,13 @@
     "security": "Security & Sessions",
     "connectionStatus": "Connection Status: Odoo 18 CE",
     "accessRole": "Access Role: {role}",
-    "logout": "Sign Out"
-  }
+    "logout": "Sign Out",
+    "roles": {
+      "admin": "System Administrator",
+      "manager": "Operations Manager",
+      "staff": "Staff Member",
+      "farmer": "Farmer Partner"
+    }
+  },
+  "toggleNavMenu": "Toggle navigation menu"
 }

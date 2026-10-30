@@ -67,6 +67,16 @@
       "archiveFailed": "Failed to archive farmer",
       "restored": "Farmer reactivated successfully",
       "restoreFailed": "Failed to reactivate farmer"
+    },
+    "status": {
+      "activeVerified": "Active & Verified",
+      "archived": "Archived"
+    },
+    "confirm": {
+      "archiveTitle": "Archive Farmer Partner",
+      "restoreTitle": "Activate Farmer Partner",
+      "archiveDesc": "Are you sure you want to deactivate farmer {name}? Historical harvest records remain securely tracked.",
+      "restoreDesc": "Are you sure you want to reactivate farmer {name}?"
     }
   },
   "distillers": {
@@ -144,6 +154,16 @@
       "archiveFailed": "Failed to archive distiller unit",
       "restored": "Distiller unit reactivated successfully",
       "restoreFailed": "Failed to reactivate distiller unit"
+    },
+    "status": {
+      "operational": "Ready for Operation",
+      "maintenance": "Maintenance / Archived"
+    },
+    "confirm": {
+      "archiveTitle": "Archive Distiller Unit",
+      "restoreTitle": "Activate Distiller Unit",
+      "archiveDesc": "Are you sure you want to deactivate distiller unit {name}? Distillation batch history remains securely tracked.",
+      "restoreDesc": "Are you sure you want to reactivate distiller unit {name}?"
     }
   }
 }

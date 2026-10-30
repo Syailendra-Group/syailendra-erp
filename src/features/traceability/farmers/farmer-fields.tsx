@@ -24,129 +24,168 @@ export function FarmerFields({ register, errors, watch, setValue, isPending, isE
   const tTrace = useTranslations('traceability.farmers')
 
   return (
-    <div className="grid grid-cols-6 items-center gap-x-3 gap-y-2.5">
-      {/* Farmer ID */}
-      <Label htmlFor="ref" className="col-span-2 text-end text-xs font-semibold">
-        {tTrace('fields.ref')}
-      </Label>
-      <div className="col-span-4">
-        <Input
-          id="ref"
-          placeholder={tTrace('fields.refPlaceholder')}
-          disabled={isPending || isEdit}
-          className="h-8 font-mono text-xs"
-          {...register('ref')}
-        />
-      </div>
-      {errors.ref && <span className="text-destructive col-span-4 col-start-3 text-[11px]">{errors.ref.message}</span>}
+    <div className="space-y-3.5">
+      {/* 2-Column Responsive Form Fields */}
+      <div className="grid grid-cols-1 gap-3 sm:grid-cols-2">
+        {/* Farmer ID */}
+        <div className="space-y-1.5">
+          <Label htmlFor="ref" className="text-xs font-semibold">
+            {tTrace('fields.ref')}
+          </Label>
+          <Input
+            id="ref"
+            placeholder={tTrace('fields.refPlaceholder')}
+            disabled={isPending || isEdit}
+            className="h-8 font-mono text-xs"
+            {...register('ref')}
+          />
+          {errors.ref && <p className="text-destructive text-[11px] font-medium">{errors.ref.message}</p>}
+        </div>
 
-      {/* Full Name */}
-      <Label htmlFor="name" className="col-span-2 text-end text-xs font-semibold">
-        {tTrace('fields.name')}
-      </Label>
-      <div className="col-span-4">
-        <Input id="name" placeholder={tTrace('fields.namePlaceholder')} disabled={isPending} className="h-8 text-xs" {...register('name')} />
+        {/* Full Name */}
+        <div className="space-y-1.5">
+          <Label htmlFor="name" className="text-xs font-semibold">
+            {tTrace('fields.name')}
+          </Label>
+          <Input id="name" placeholder={tTrace('fields.namePlaceholder')} disabled={isPending} className="h-8 text-xs" {...register('name')} />
+          {errors.name && <p className="text-destructive text-[11px] font-medium">{errors.name.message}</p>}
+        </div>
       </div>
-      {errors.name && <span className="text-destructive col-span-4 col-start-3 text-[11px]">{errors.name.message}</span>}
 
-      {/* NIK */}
-      <Label htmlFor="vat" className="col-span-2 text-end text-xs font-semibold">
-        {tTrace('fields.vat')}
-      </Label>
-      <div className="col-span-4">
-        <Input
-          id="vat"
-          maxLength={16}
-          placeholder={tTrace('fields.vatPlaceholder')}
-          disabled={isPending}
-          className="h-8 font-mono text-xs"
-          {...register('vat')}
-        />
+      <div className="grid grid-cols-1 gap-3 sm:grid-cols-2">
+        {/* NIK */}
+        <div className="space-y-1.5">
+          <Label htmlFor="vat" className="text-xs font-semibold">
+            {tTrace('fields.vat')}
+          </Label>
+          <Input
+            id="vat"
+            maxLength={16}
+            placeholder={tTrace('fields.vatPlaceholder')}
+            disabled={isPending}
+            className="h-8 font-mono text-xs"
+            {...register('vat')}
+          />
+          {errors.vat && <p className="text-destructive text-[11px] font-medium">{errors.vat.message}</p>}
+        </div>
+
+        {/* Phone */}
+        <div className="space-y-1.5">
+          <Label htmlFor="phone" className="text-xs font-semibold">
+            {tTrace('fields.phone')}
+          </Label>
+          <Input
+            id="phone"
+            placeholder={tTrace('fields.phonePlaceholder')}
+            disabled={isPending}
+            className="h-8 font-mono text-xs"
+            {...register('phone')}
+          />
+          {errors.phone && <p className="text-destructive text-[11px] font-medium">{errors.phone.message}</p>}
+        </div>
       </div>
-      {errors.vat && <span className="text-destructive col-span-4 col-start-3 text-[11px]">{errors.vat.message}</span>}
 
       {/* Village & Regency */}
-      <Label htmlFor="street" className="col-span-2 text-end text-xs font-semibold">
-        {tTrace('fields.street')}
-      </Label>
-      <div className="col-span-4 grid grid-cols-2 gap-2">
-        <Input id="street" placeholder={tTrace('fields.streetPlaceholder')} disabled={isPending} className="h-8 text-xs" {...register('street')} />
-        <Input id="city" placeholder={tTrace('fields.cityPlaceholder')} disabled={isPending} className="h-8 text-xs" {...register('city')} />
-      </div>
-      {(errors.street || errors.city) && (
-        <span className="text-destructive col-span-4 col-start-3 text-[11px]">{errors.street?.message || errors.city?.message}</span>
-      )}
+      <div className="grid grid-cols-1 gap-3 sm:grid-cols-2">
+        <div className="space-y-1.5">
+          <Label htmlFor="street" className="text-xs font-semibold">
+            {tTrace('fields.street')}
+          </Label>
+          <Input id="street" placeholder={tTrace('fields.streetPlaceholder')} disabled={isPending} className="h-8 text-xs" {...register('street')} />
+          {errors.street && <p className="text-destructive text-[11px] font-medium">{errors.street.message}</p>}
+        </div>
 
-      {/* GPS Latitude & Longitude */}
-      <Label htmlFor="partner_latitude" className="col-span-2 text-end text-xs font-semibold">
-        {tTrace('table.coordinates')}
-      </Label>
-      <div className="col-span-4 grid grid-cols-2 gap-2">
-        <Input
-          id="partner_latitude"
-          type="number"
-          step="0.0001"
-          placeholder="Latitude (-7.xxxx)"
-          disabled={isPending}
-          className="h-8 font-mono text-xs"
-          {...register('partner_latitude')}
-        />
-        <Input
-          id="partner_longitude"
-          type="number"
-          step="0.0001"
-          placeholder="Longitude (109.xxxx)"
-          disabled={isPending}
-          className="h-8 font-mono text-xs"
-          {...register('partner_longitude')}
-        />
+        <div className="space-y-1.5">
+          <Label htmlFor="city" className="text-xs font-semibold">
+            {tTrace('fields.city')}
+          </Label>
+          <Input id="city" placeholder={tTrace('fields.cityPlaceholder')} disabled={isPending} className="h-8 text-xs" {...register('city')} />
+          {errors.city && <p className="text-destructive text-[11px] font-medium">{errors.city.message}</p>}
+        </div>
+      </div>
+
+      {/* GPS Coordinates */}
+      <div className="grid grid-cols-1 gap-3 sm:grid-cols-2">
+        <div className="space-y-1.5">
+          <Label htmlFor="partner_latitude" className="text-xs font-semibold">
+            Latitude (-7.xxxx)
+          </Label>
+          <Input
+            id="partner_latitude"
+            type="number"
+            step="0.0001"
+            placeholder="-7.2145"
+            disabled={isPending}
+            className="h-8 font-mono text-xs"
+            {...register('partner_latitude')}
+          />
+          {errors.partner_latitude && <p className="text-destructive text-[11px] font-medium">{errors.partner_latitude.message}</p>}
+        </div>
+
+        <div className="space-y-1.5">
+          <Label htmlFor="partner_longitude" className="text-xs font-semibold">
+            Longitude (109.xxxx)
+          </Label>
+          <Input
+            id="partner_longitude"
+            type="number"
+            step="0.0001"
+            placeholder="109.9124"
+            disabled={isPending}
+            className="h-8 font-mono text-xs"
+            {...register('partner_longitude')}
+          />
+          {errors.partner_longitude && <p className="text-destructive text-[11px] font-medium">{errors.partner_longitude.message}</p>}
+        </div>
       </div>
 
       {/* Commodity & Farming Method */}
-      <Label htmlFor="commodity" className="col-span-2 text-end text-xs font-semibold">
-        {tTrace('fields.commodity')}
-      </Label>
-      <div className="col-span-4 grid grid-cols-2 gap-2">
-        <Select value={watch('commodity')} onValueChange={(val) => setValue('commodity', val, { shouldValidate: true })} disabled={isPending}>
-          <SelectTrigger className="h-8 text-xs">
-            <SelectValue placeholder={tTrace('fields.commodityPlaceholder')} />
-          </SelectTrigger>
-          <SelectContent>
-            <SelectItem value="gaharu">{tTrace('commodities.gaharu')}</SelectItem>
-            <SelectItem value="nilam">{tTrace('commodities.nilam')}</SelectItem>
-            <SelectItem value="serai">{tTrace('commodities.serai')}</SelectItem>
-            <SelectItem value="kopi">{tTrace('commodities.kopi')}</SelectItem>
-            <SelectItem value="cengkeh">{tTrace('commodities.cengkeh')}</SelectItem>
-          </SelectContent>
-        </Select>
+      <div className="grid grid-cols-1 gap-3 sm:grid-cols-2">
+        <div className="space-y-1.5">
+          <Label htmlFor="commodity" className="text-xs font-semibold">
+            {tTrace('fields.commodity')}
+          </Label>
+          <Select value={watch('commodity')} onValueChange={(val) => setValue('commodity', val, { shouldValidate: true })} disabled={isPending}>
+            <SelectTrigger className="h-8 text-xs">
+              <SelectValue placeholder={tTrace('fields.commodityPlaceholder')} />
+            </SelectTrigger>
+            <SelectContent>
+              <SelectItem value="gaharu">{tTrace('commodities.gaharu')}</SelectItem>
+              <SelectItem value="nilam">{tTrace('commodities.nilam')}</SelectItem>
+              <SelectItem value="serai">{tTrace('commodities.serai')}</SelectItem>
+              <SelectItem value="kopi">{tTrace('commodities.kopi')}</SelectItem>
+              <SelectItem value="cengkeh">{tTrace('commodities.cengkeh')}</SelectItem>
+            </SelectContent>
+          </Select>
+          {errors.commodity && <p className="text-destructive text-[11px] font-medium">{errors.commodity.message}</p>}
+        </div>
 
-        <Select
-          value={watch('farming_method')}
-          onValueChange={(val) => setValue('farming_method', val, { shouldValidate: true })}
-          disabled={isPending}
-        >
-          <SelectTrigger className="h-8 text-xs">
-            <SelectValue placeholder={tTrace('fields.farmingMethodPlaceholder')} />
-          </SelectTrigger>
-          <SelectContent>
-            <SelectItem value="organic">{tTrace('methods.organic')}</SelectItem>
-            <SelectItem value="conventional">{tTrace('methods.conventional')}</SelectItem>
-          </SelectContent>
-        </Select>
+        <div className="space-y-1.5">
+          <Label htmlFor="farming_method" className="text-xs font-semibold">
+            {tTrace('fields.farmingMethod')}
+          </Label>
+          <Select
+            value={watch('farming_method')}
+            onValueChange={(val) => setValue('farming_method', val, { shouldValidate: true })}
+            disabled={isPending}
+          >
+            <SelectTrigger className="h-8 text-xs">
+              <SelectValue placeholder={tTrace('fields.farmingMethodPlaceholder')} />
+            </SelectTrigger>
+            <SelectContent>
+              <SelectItem value="organic">{tTrace('methods.organic')}</SelectItem>
+              <SelectItem value="conventional">{tTrace('methods.conventional')}</SelectItem>
+            </SelectContent>
+          </Select>
+          {errors.farming_method && <p className="text-destructive text-[11px] font-medium">{errors.farming_method.message}</p>}
+        </div>
       </div>
 
-      {/* Phone & Land Area */}
-      <Label htmlFor="phone" className="col-span-2 text-end text-xs font-semibold">
-        {tTrace('fields.phone')}
-      </Label>
-      <div className="col-span-4 grid grid-cols-2 gap-2">
-        <Input
-          id="phone"
-          placeholder={tTrace('fields.phonePlaceholder')}
-          disabled={isPending}
-          className="h-8 font-mono text-xs"
-          {...register('phone')}
-        />
+      {/* Land Area */}
+      <div className="space-y-1.5">
+        <Label htmlFor="land_area_m2" className="text-xs font-semibold">
+          {tTrace('fields.landArea')}
+        </Label>
         <Input
           id="land_area_m2"
           type="number"
@@ -155,13 +194,14 @@ export function FarmerFields({ register, errors, watch, setValue, isPending, isE
           className="h-8 font-mono text-xs"
           {...register('land_area_m2')}
         />
+        {errors.land_area_m2 && <p className="text-destructive text-[11px] font-medium">{errors.land_area_m2.message}</p>}
       </div>
 
       {/* Agronomist Notes */}
-      <Label htmlFor="comment" className="col-span-2 text-end text-xs font-semibold">
-        {tTrace('fields.comment')}
-      </Label>
-      <div className="col-span-4">
+      <div className="space-y-1.5">
+        <Label htmlFor="comment" className="text-xs font-semibold">
+          {tTrace('fields.comment')}
+        </Label>
         <Textarea
           id="comment"
           rows={2}
@@ -170,6 +210,7 @@ export function FarmerFields({ register, errors, watch, setValue, isPending, isE
           className="resize-none text-xs"
           {...register('comment')}
         />
+        {errors.comment && <p className="text-destructive text-[11px] font-medium">{errors.comment.message}</p>}
       </div>
     </div>
   )

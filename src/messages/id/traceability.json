@@ -67,6 +67,16 @@
       "archiveFailed": "Gagal mengarsipkan petani",
       "restored": "Petani berhasil diaktifkan kembali",
       "restoreFailed": "Gagal mengaktifkan petani"
+    },
+    "status": {
+      "activeVerified": "Aktif Terverifikasi",
+      "archived": "Diarsipkan"
+    },
+    "confirm": {
+      "archiveTitle": "Arsipkan Petani Mitra",
+      "restoreTitle": "Aktifkan Petani Mitra",
+      "archiveDesc": "Apakah Anda yakin ingin menonaktifkan status petani {name}? Data panen historis tetap aman terlacak.",
+      "restoreDesc": "Apakah Anda yakin ingin mengaktifkan kembali status petani {name}?"
     }
   },
   "distillers": {
@@ -144,6 +154,16 @@
       "archiveFailed": "Gagal mengarsipkan unit suling",
       "restored": "Unit suling berhasil diaktifkan kembali",
       "restoreFailed": "Gagal mengaktifkan unit suling"
+    },
+    "status": {
+      "operational": "Siap Beroperasi",
+      "maintenance": "Pemeliharaan / Arsip"
+    },
+    "confirm": {
+      "archiveTitle": "Arsipkan Unit Suling",
+      "restoreTitle": "Aktifkan Unit Suling",
+      "archiveDesc": "Apakah Anda yakin ingin menonaktifkan ketel suling {name}? Riwayat batch suling (DSTB) tetap aman terlacak.",
+      "restoreDesc": "Apakah Anda yakin ingin mengaktifkan kembali ketel suling {name}?"
     }
   }
 }

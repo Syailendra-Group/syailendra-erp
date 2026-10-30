@@ -100,6 +100,13 @@
     "security": "Keamanan & Sesi",
     "connectionStatus": "Status Koneksi: Odoo 18 CE",
     "accessRole": "Hak Akses: {role}",
-    "logout": "Keluar (Sign Out)"
-  }
+    "logout": "Keluar (Sign Out)",
+    "roles": {
+      "admin": "Administrator Sistem",
+      "manager": "Manajer Operasional",
+      "staff": "Staf Operasional",
+      "farmer": "Petani Mitra"
+    }
+  },
+  "toggleNavMenu": "Alihkan menu navigasi"
 }

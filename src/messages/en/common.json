@@ -69,10 +69,22 @@
   },
   "company": {
     "multiUnit": "Multi-Unit Business",
-    "connectionNotice": "Connected to Odoo 18 Multi-Company Syailendra Group."
+    "connectionNotice": "Connected to Odoo 18 Multi-Company Syailendra Group.",
+    "name": "Syailendra Group",
+    "category": "Specialty Agri & Commodities",
+    "subsidiary": "PT Syailendra Agri Utama"
   },
   "comingSoon": {
     "title": "Coming Soon!",
     "desc": "This page has not been created yet. Stay tuned!"
+  },
+  "quickActions": {
+    "title": "Quick Actions:",
+    "main": "Main Operations:",
+    "traceability": "Traceability Actions:",
+    "wms": "Warehouse Actions:",
+    "crm": "Commercial Actions:",
+    "hris": "HR & Attendance Actions:",
+    "settings": "System Governance Actions:"
   }
 }

@@ -69,10 +69,22 @@
   },
   "company": {
     "multiUnit": "Unit Usaha Terpadu",
-    "connectionNotice": "Terkoneksi ke instance Odoo 18 Multi-Company Syailendra Group."
+    "connectionNotice": "Terkoneksi ke instance Odoo 18 Multi-Company Syailendra Group.",
+    "name": "Syailendra Group",
+    "category": "Komoditas & Agro Khusus",
+    "subsidiary": "PT Syailendra Agri Utama"
   },
   "comingSoon": {
     "title": "Segera Hadir!",
     "desc": "Halaman ini sedang dalam tahap perancangan teknis. Nantikan pembaruan berikutnya!"
+  },
+  "quickActions": {
+    "title": "Aksi Cepat:",
+    "main": "Aksi Operasional Utama:",
+    "traceability": "Aksi Silsilah & QR:",
+    "wms": "Aksi Pergudangan:",
+    "crm": "Aksi Komersial & Sampel:",
+    "hris": "Aksi SDM & Presensi:",
+    "settings": "Aksi Administrasi Sistem:"
   }
 }

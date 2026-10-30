@@ -2,6 +2,7 @@
 
 import { type ReactElement } from 'react'
 import { BookOpen, Building, History, Shield, Sliders, UserPlus } from 'lucide-react'
+import { useTranslations } from 'next-intl'
 
 import { QuickActions } from '@/components/shared/quick-actions'
 import { SummaryCardGrid } from '@/components/shared/summary-card'
@@ -11,6 +12,7 @@ import type { QuickActionItem } from '@/components/shared/quick-actions'
 import type { SummaryCardItem } from '@/components/shared/summary-card'
 
 export function SettingsOverview(): ReactElement {
+  const tCommon = useTranslations('common')
   const kpis: SummaryCardItem[] = [
     { title: 'Status Akun Pengguna', value: 'Active', subtitle: 'Role-Based Access Control', icon: Shield, color: 'text-primary' },
     { title: 'Perusahaan Terhubung', value: 'PT. SBI', subtitle: 'DDistillers Multi-Company', icon: Building, color: 'text-blue-500' },
@@ -44,7 +46,7 @@ export function SettingsOverview(): ReactElement {
 
       <SummaryCardGrid items={kpis} />
 
-      <QuickActions items={shortcuts} title="Aksi Administrasi Sistem:" />
+      <QuickActions items={shortcuts} title={tCommon('quickActions.settings')} />
     </div>
   )
 }

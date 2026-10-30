@@ -86,94 +86,98 @@ export function EmployeesActionDialog({ currentRow, open, onOpenChange, departme
           <DialogDescription>{tAdmin('subtitle')}</DialogDescription>
         </DialogHeader>
 
-        <div className="max-h-[70vh] overflow-y-auto py-1 pe-3">
+        <div className="max-h-[70vh] overflow-y-auto py-1 pe-1">
           <Form {...form}>
-            <form id="employee-form" onSubmit={form.handleSubmit(onSubmit)} className="space-y-4 px-0.5">
+            <form id="employee-form" onSubmit={form.handleSubmit(onSubmit)} className="space-y-3.5">
               <FormField
                 control={form.control}
                 name="name"
                 render={({ field }) => (
-                  <FormItem className="grid grid-cols-6 items-center space-y-0 gap-x-4 gap-y-1">
-                    <FormLabel className="col-span-2 text-end">{tAdmin('fields.name')}</FormLabel>
+                  <FormItem className="space-y-1.5">
+                    <FormLabel className="text-xs font-semibold">{tAdmin('fields.name')}</FormLabel>
                     <FormControl>
-                      <Input placeholder={tAdmin('fields.name_placeholder')} className="col-span-4" autoComplete="off" {...field} />
+                      <Input placeholder={tAdmin('fields.name_placeholder')} className="h-8 text-xs" autoComplete="off" {...field} />
                     </FormControl>
-                    <FormMessage className="col-span-4 col-start-3" />
+                    <FormMessage className="text-[11px]" />
                   </FormItem>
                 )}
               />
 
-              <FormField
-                control={form.control}
-                name="job_title"
-                render={({ field }) => (
-                  <FormItem className="grid grid-cols-6 items-center space-y-0 gap-x-4 gap-y-1">
-                    <FormLabel className="col-span-2 text-end">{tAdmin('fields.job_title')}</FormLabel>
-                    <FormControl>
-                      <Input placeholder={tAdmin('fields.job_title_placeholder')} className="col-span-4" {...field} />
-                    </FormControl>
-                    <FormMessage className="col-span-4 col-start-3" />
-                  </FormItem>
-                )}
-              />
+              <div className="grid grid-cols-1 gap-3 sm:grid-cols-2">
+                <FormField
+                  control={form.control}
+                  name="job_title"
+                  render={({ field }) => (
+                    <FormItem className="space-y-1.5">
+                      <FormLabel className="text-xs font-semibold">{tAdmin('fields.job_title')}</FormLabel>
+                      <FormControl>
+                        <Input placeholder={tAdmin('fields.job_title_placeholder')} className="h-8 text-xs" {...field} />
+                      </FormControl>
+                      <FormMessage className="text-[11px]" />
+                    </FormItem>
+                  )}
+                />
 
-              <FormField
-                control={form.control}
-                name="department_id"
-                render={({ field }) => (
-                  <FormItem className="grid grid-cols-6 items-center space-y-0 gap-x-4 gap-y-1">
-                    <FormLabel className="col-span-2 text-end">{tAdmin('fields.department')}</FormLabel>
-                    <SelectDropdown
-                      defaultValue={field.value ? String(field.value) : undefined}
-                      onValueChange={(val) => field.onChange(Number(val))}
-                      placeholder={tAdmin('fields.department_placeholder')}
-                      className="col-span-4"
-                      items={departments.map((d) => ({
-                        label: d.name,
-                        value: String(d.id)
-                      }))}
-                    />
-                    <FormMessage className="col-span-4 col-start-3" />
-                  </FormItem>
-                )}
-              />
+                <FormField
+                  control={form.control}
+                  name="department_id"
+                  render={({ field }) => (
+                    <FormItem className="space-y-1.5">
+                      <FormLabel className="text-xs font-semibold">{tAdmin('fields.department')}</FormLabel>
+                      <SelectDropdown
+                        defaultValue={field.value ? String(field.value) : undefined}
+                        onValueChange={(val) => field.onChange(Number(val))}
+                        placeholder={tAdmin('fields.department_placeholder')}
+                        className="h-8 text-xs"
+                        items={departments.map((d) => ({
+                          label: d.name,
+                          value: String(d.id)
+                        }))}
+                      />
+                      <FormMessage className="text-[11px]" />
+                    </FormItem>
+                  )}
+                />
+              </div>
 
-              <FormField
-                control={form.control}
-                name="work_email"
-                render={({ field }) => (
-                  <FormItem className="grid grid-cols-6 items-center space-y-0 gap-x-4 gap-y-1">
-                    <FormLabel className="col-span-2 text-end">{tAdmin('fields.work_email')}</FormLabel>
-                    <FormControl>
-                      <Input type="email" placeholder={tAdmin('fields.work_email_placeholder')} className="col-span-4" {...field} />
-                    </FormControl>
-                    <FormMessage className="col-span-4 col-start-3" />
-                  </FormItem>
-                )}
-              />
+              <div className="grid grid-cols-1 gap-3 sm:grid-cols-2">
+                <FormField
+                  control={form.control}
+                  name="work_email"
+                  render={({ field }) => (
+                    <FormItem className="space-y-1.5">
+                      <FormLabel className="text-xs font-semibold">{tAdmin('fields.work_email')}</FormLabel>
+                      <FormControl>
+                        <Input type="email" placeholder={tAdmin('fields.work_email_placeholder')} className="h-8 text-xs" {...field} />
+                      </FormControl>
+                      <FormMessage className="text-[11px]" />
+                    </FormItem>
+                  )}
+                />
 
-              <FormField
-                control={form.control}
-                name="work_phone"
-                render={({ field }) => (
-                  <FormItem className="grid grid-cols-6 items-center space-y-0 gap-x-4 gap-y-1">
-                    <FormLabel className="col-span-2 text-end">{tAdmin('fields.work_phone')}</FormLabel>
-                    <FormControl>
-                      <Input placeholder={tAdmin('fields.work_phone_placeholder')} className="col-span-4" {...field} />
-                    </FormControl>
-                    <FormMessage className="col-span-4 col-start-3" />
-                  </FormItem>
-                )}
-              />
+                <FormField
+                  control={form.control}
+                  name="work_phone"
+                  render={({ field }) => (
+                    <FormItem className="space-y-1.5">
+                      <FormLabel className="text-xs font-semibold">{tAdmin('fields.work_phone')}</FormLabel>
+                      <FormControl>
+                        <Input placeholder={tAdmin('fields.work_phone_placeholder')} className="h-8 font-mono text-xs" {...field} />
+                      </FormControl>
+                      <FormMessage className="text-[11px]" />
+                    </FormItem>
+                  )}
+                />
+              </div>
             </form>
           </Form>
         </div>
 
-        <DialogFooter>
-          <Button type="button" variant="outline" onClick={() => onOpenChange(false)} disabled={isPending}>
+        <DialogFooter className="gap-2 sm:gap-0">
+          <Button type="button" variant="outline" size="sm" onClick={() => onOpenChange(false)} disabled={isPending}>
             {tCommon('actions.cancel')}
           </Button>
-          <Button type="submit" form="employee-form" disabled={isPending}>
+          <Button type="submit" form="employee-form" size="sm" disabled={isPending}>
             {isPending ? tCommon('actions.loading') : isEdit ? tCommon('actions.save') : tAdmin('actions.add')}
           </Button>
         </DialogFooter>

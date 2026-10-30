@@ -29,7 +29,7 @@ export function DataTableRowActions({ row }: DataTableRowActionsProps): ReactEle
             asChild
             variant="outline"
             size="icon"
-            className="size-7 cursor-pointer border-blue-200 text-blue-600 hover:bg-blue-50 dark:border-blue-900/50 dark:text-blue-400 dark:hover:bg-blue-950/40"
+            className="size-7 border-blue-200 text-blue-600 hover:bg-blue-50 dark:border-blue-900/50 dark:text-blue-400 dark:hover:bg-blue-950/40"
           >
             <Link href={`/traceability/farmers/${row.id}`}>
               <Eye className="size-3.5" />
@@ -49,7 +49,7 @@ export function DataTableRowActions({ row }: DataTableRowActionsProps): ReactEle
             asChild
             variant="outline"
             size="icon"
-            className="size-7 cursor-pointer border-amber-200 text-amber-600 hover:bg-amber-50 dark:border-amber-900/50 dark:text-amber-400 dark:hover:bg-amber-950/40"
+            className="size-7 border-amber-200 text-amber-600 hover:bg-amber-50 dark:border-amber-900/50 dark:text-amber-400 dark:hover:bg-amber-950/40"
           >
             <Link href={`/traceability/farmers/edit/${row.id}`}>
               <Edit2 className="size-3.5" />
@@ -68,7 +68,7 @@ export function DataTableRowActions({ row }: DataTableRowActionsProps): ReactEle
           <Button
             variant="outline"
             size="icon"
-            className="text-destructive border-destructive/30 hover:bg-destructive/10 dark:border-destructive/40 dark:hover:bg-destructive/20 size-7 cursor-pointer"
+            className="text-destructive border-destructive/30 hover:bg-destructive/10 dark:border-destructive/40 dark:hover:bg-destructive/20 size-7"
             onClick={() => {
               setCurrentRow(row)
               setOpen('archive')

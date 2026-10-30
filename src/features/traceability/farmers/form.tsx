@@ -106,7 +106,7 @@ export function FarmerForm({ initialData }: FarmerFormProps): ReactElement {
               <User className="text-primary size-4" />
               <span>{tTrace('sections.identity')}</span>
             </CardTitle>
-            <CardDescription className="text-xs">{tTrace('sections.identityDesc')}</CardDescription>
+            <CardDescription className="text-sm">{tTrace('sections.identityDesc')}</CardDescription>
           </CardHeader>
           <CardContent className="grid grid-cols-1 gap-3.5 sm:grid-cols-2">
             <FormFieldWrapper id="ref" label={tTrace('fields.ref')}>
@@ -147,7 +147,7 @@ export function FarmerForm({ initialData }: FarmerFormProps): ReactElement {
               <MapPin className="text-primary size-4" />
               <span>{tTrace('sections.location')}</span>
             </CardTitle>
-            <CardDescription className="text-xs">{tTrace('sections.locationDesc')}</CardDescription>
+            <CardDescription className="text-sm">{tTrace('sections.locationDesc')}</CardDescription>
           </CardHeader>
           <CardContent className="grid grid-cols-1 gap-3.5 sm:grid-cols-2">
             <FormFieldWrapper id="street" label={tTrace('fields.street')} required error={errors.street?.message}>
@@ -173,7 +173,7 @@ export function FarmerForm({ initialData }: FarmerFormProps): ReactElement {
               <Sprout className="text-primary size-4" />
               <span>{tTrace('sections.commodity')}</span>
             </CardTitle>
-            <CardDescription className="text-xs">{tTrace('sections.commodityDesc')}</CardDescription>
+            <CardDescription className="text-sm">{tTrace('sections.commodityDesc')}</CardDescription>
           </CardHeader>
           <CardContent className="grid grid-cols-1 gap-3.5 sm:grid-cols-3">
             <FormFieldWrapper id="commodity" label={tTrace('fields.commodity')} required error={errors.commodity?.message}>
@@ -217,7 +217,7 @@ export function FarmerForm({ initialData }: FarmerFormProps): ReactElement {
               <ShieldCheck className="text-primary size-4" />
               <span>{tTrace('sections.terroir')}</span>
             </CardTitle>
-            <CardDescription className="text-xs">{tTrace('sections.terroirDesc')}</CardDescription>
+            <CardDescription className="text-sm">{tTrace('sections.terroirDesc')}</CardDescription>
           </CardHeader>
           <CardContent className="space-y-3.5">
             <div className="grid grid-cols-1 gap-3.5 sm:grid-cols-2">
@@ -264,7 +264,7 @@ export function FarmerForm({ initialData }: FarmerFormProps): ReactElement {
         <Card>
           <CardHeader>
             <CardTitle className="font-semibold">{tTrace('sections.notes')}</CardTitle>
-            <CardDescription className="text-xs">{tTrace('sections.notesDesc')}</CardDescription>
+            <CardDescription className="text-sm">{tTrace('sections.notesDesc')}</CardDescription>
           </CardHeader>
           <CardContent>
             <FormFieldWrapper id="comment" label={tTrace('fields.comment')}>

@@ -13,8 +13,8 @@ import { FarmersTable } from './table'
 import type { ReactElement } from 'react'
 import type { FarmerRecord } from './actions'
 
-export { FarmerForm } from './form'
 export { FarmerDetail } from './detail'
+export { FarmerForm } from './form'
 
 export interface FarmersFeatureProps {
   initialData?: FarmerRecord[]
@@ -41,7 +41,7 @@ export function FarmersFeature({ initialData = [] }: FarmersFeatureProps): React
   return (
     <FarmersProvider refreshData={refreshData}>
       <div className="space-y-4 sm:space-y-6">
-        {/* Header with Title, Subtitle, and Top-Right Primary Button */}
+        {/* Header */}
         <div className="flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
           <div className="flex items-center gap-2.5 sm:gap-3">
             <div className="bg-primary/10 text-primary rounded-lg p-2">
@@ -52,13 +52,14 @@ export function FarmersFeature({ initialData = [] }: FarmersFeatureProps): React
               <p className="text-muted-foreground text-xs sm:text-sm">{tTrace('subtitle')}</p>
             </div>
           </div>
+
           <FarmersPrimaryButtons />
         </div>
 
         {/* Data Table */}
         <FarmersTable data={data} />
 
-        {/* Dialogs (Archive / Restore) */}
+        {/* Dialogs */}
         <FarmersDialogs />
       </div>
     </FarmersProvider>

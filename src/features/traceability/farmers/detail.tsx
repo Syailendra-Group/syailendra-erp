@@ -61,13 +61,13 @@ export function FarmerDetail({ farmer }: FarmerDetailProps): ReactElement {
       {/* Grid Cards Details */}
       <div className="grid grid-cols-1 gap-5 md:grid-cols-2">
         {/* Card 1: Identity & Profile */}
-        <Card className="border-border/60 shadow-xs">
-          <CardHeader className="pb-3">
-            <CardTitle className="flex items-center gap-2 text-sm font-semibold">
+        <Card>
+          <CardHeader>
+            <CardTitle className="flex items-center gap-2 font-semibold">
               <User className="text-primary size-4" />
               <span>{tTrace('detail.profileTitle')}</span>
             </CardTitle>
-            <CardDescription className="text-xs">{tTrace('sections.identityDesc')}</CardDescription>
+            <CardDescription className="text-sm">{tTrace('sections.identityDesc')}</CardDescription>
           </CardHeader>
           <CardContent className="space-y-3 text-xs">
             <div className="border-border/40 grid grid-cols-3 border-b pb-2">
@@ -109,13 +109,13 @@ export function FarmerDetail({ farmer }: FarmerDetailProps): ReactElement {
         </Card>
 
         {/* Card 2: Agriculture & Commodity */}
-        <Card className="border-border/60 shadow-xs">
-          <CardHeader className="pb-3">
-            <CardTitle className="flex items-center gap-2 text-sm font-semibold">
+        <Card>
+          <CardHeader>
+            <CardTitle className="flex items-center gap-2 font-semibold">
               <Sprout className="text-primary size-4" />
               <span>{tTrace('detail.agriTitle')}</span>
             </CardTitle>
-            <CardDescription className="text-xs">{tTrace('sections.commodityDesc')}</CardDescription>
+            <CardDescription className="text-sm">{tTrace('sections.commodityDesc')}</CardDescription>
           </CardHeader>
           <CardContent className="space-y-3 text-xs">
             <div className="border-border/40 grid grid-cols-3 border-b pb-2">
@@ -144,13 +144,13 @@ export function FarmerDetail({ farmer }: FarmerDetailProps): ReactElement {
         </Card>
 
         {/* Card 3: Terroir & Geographic Coordinates */}
-        <Card className="border-border/60 shadow-xs">
-          <CardHeader className="pb-3">
-            <CardTitle className="flex items-center gap-2 text-sm font-semibold">
+        <Card>
+          <CardHeader>
+            <CardTitle className="flex items-center gap-2 font-semibold">
               <MapPin className="text-primary size-4" />
               <span>{tTrace('detail.terroirTitle')}</span>
             </CardTitle>
-            <CardDescription className="text-xs">{tTrace('sections.terroirDesc')}</CardDescription>
+            <CardDescription className="text-sm">{tTrace('sections.terroirDesc')}</CardDescription>
           </CardHeader>
           <CardContent className="space-y-3 text-xs">
             <div className="border-border/40 grid grid-cols-3 border-b pb-2">
@@ -177,15 +177,15 @@ export function FarmerDetail({ farmer }: FarmerDetailProps): ReactElement {
         </Card>
 
         {/* Card 4: Agronomy Notes */}
-        <Card className="border-border/60 shadow-xs">
-          <CardHeader className="pb-3">
-            <CardTitle className="flex items-center gap-2 text-sm font-semibold">
+        <Card>
+          <CardHeader>
+            <CardTitle className="flex items-center gap-2 font-semibold">
               <ShieldCheck className="text-primary size-4" />
               <span>{tTrace('detail.notesTitle')}</span>
             </CardTitle>
-            <CardDescription className="text-xs">{tTrace('sections.notesDesc')}</CardDescription>
+            <CardDescription className="text-sm">{tTrace('sections.notesDesc')}</CardDescription>
           </CardHeader>
-          <CardContent className="text-xs">
+          <CardContent className="text-sm">
             <p className="text-muted-foreground leading-relaxed whitespace-pre-wrap">
               {(farmer.comment as string) || 'Belum ada catatan khusus agronomi lapangan untuk mitra ini.'}
             </p>

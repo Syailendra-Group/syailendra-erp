@@ -1,0 +1,72 @@
+{
+  "farmers": {
+    "title": "Farmers & Plantations",
+    "subtitle": "Official register of smallholder farmers and supply chain plantations",
+    "primaryAction": "Add Farmer",
+    "dialog": {
+      "addTitle": "Register New Farmer",
+      "addDesc": "Add smallholder partner or plantation group to the supply chain register (SOP-01).",
+      "editTitle": "Edit Farmer Profile",
+      "editDesc": "Update farmer information, land acreage, or GPS coordinates.",
+      "viewTitle": "Farmer & Plantation Profile",
+      "viewDesc": "Full agricultural profile, verified location, and harvest history."
+    },
+    "fields": {
+      "ref": "Farmer ID",
+      "refPlaceholder": "e.g. FMR-JTG-003",
+      "name": "Farmer / Group Name",
+      "namePlaceholder": "e.g. Pak Supardi / KT Makmur",
+      "vat": "National ID (NIK)",
+      "vatPlaceholder": "16-digit official identity number",
+      "phone": "Contact Phone",
+      "phonePlaceholder": "e.g. +62 812-xxxx-xxxx",
+      "email": "Email (Optional)",
+      "emailPlaceholder": "e.g. farmer@domain.com",
+      "street": "Village / Plantation Address",
+      "streetPlaceholder": "e.g. Desa Igirmranak, Kejajar",
+      "city": "Regency / District",
+      "cityPlaceholder": "e.g. Wonosobo / Temanggung",
+      "latitude": "Latitude (GPS)",
+      "latitudePlaceholder": "e.g. -7.2145",
+      "longitude": "Longitude (GPS)",
+      "longitudePlaceholder": "e.g. 109.9124",
+      "commodity": "Main Commodity",
+      "commodityPlaceholder": "Select commodity",
+      "farmingMethod": "Farming Method",
+      "farmingMethodPlaceholder": "Select method",
+      "landArea": "Land Area (m²)",
+      "landAreaPlaceholder": "e.g. 5000",
+      "comment": "Agronomist Notes",
+      "commentPlaceholder": "Elevation, terroir characteristics, cultivation details..."
+    },
+    "table": {
+      "ref": "Farmer ID",
+      "name": "Name & Group",
+      "location": "Location & Terroir",
+      "commodity": "Commodity",
+      "coordinates": "GPS Coordinates",
+      "phone": "Contact",
+      "status": "Status",
+      "actions": "Actions"
+    },
+    "commodities": {
+      "gaharu": "Agarwood (Gaharu)",
+      "nilam": "Patchouli (Nilam)",
+      "serai": "Citronella (Serai Wangi)",
+      "kopi": "Specialty Coffee",
+      "cengkeh": "Clove (Cengkeh)"
+    },
+    "methods": {
+      "organic": "Organic / Agroforestry",
+      "conventional": "Conventional"
+    },
+    "messages": {
+      "saved": "Farmer profile saved successfully",
+      "saveFailed": "Failed to save farmer profile",
+      "archived": "Farmer archived successfully",
+      "archiveFailed": "Failed to archive farmer",
+      "restored": "Farmer reactivated successfully",
+      "restoreFailed": "Failed to reactivate farmer"
+    }
+  }
+}

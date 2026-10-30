@@ -10,12 +10,14 @@ import enAuth from '@/messages/en/auth.json'
 import enCommon from '@/messages/en/common.json'
 import enInventory from '@/messages/en/inventory.json'
 import enNav from '@/messages/en/nav.json'
+import enTraceability from '@/messages/en/traceability.json'
 import idAdmin from '@/messages/id/admin.json'
 import idAuth from '@/messages/id/auth.json'
 // Import modular json files statically to ensure bundle portability
 import idCommon from '@/messages/id/common.json'
 import idInventory from '@/messages/id/inventory.json'
 import idNav from '@/messages/id/nav.json'
+import idTraceability from '@/messages/id/traceability.json'
 
 import { routing } from './routing'
 
@@ -25,14 +27,16 @@ const messagesMap = {
     auth: idAuth,
     nav: idNav,
     inventory: idInventory,
-    admin: idAdmin
+    admin: idAdmin,
+    traceability: idTraceability
   },
   en: {
     common: enCommon,
     auth: enAuth,
     nav: enNav,
     inventory: enInventory,
-    admin: enAdmin
+    admin: enAdmin,
+    traceability: enTraceability
   }
 }
 

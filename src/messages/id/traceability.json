@@ -1,0 +1,72 @@
+{
+  "farmers": {
+    "title": "Petani & Lahan",
+    "subtitle": "Basis data resmi petani binaan dan lahan perkebunan mitra rantai pasok",
+    "primaryAction": "Tambah Petani",
+    "dialog": {
+      "addTitle": "Registrasi Petani Baru",
+      "addDesc": "Daftarkan petani mitra atau kelompok tani ke dalam sistem rantai pasok (SOP-01).",
+      "editTitle": "Ubah Profil Petani",
+      "editDesc": "Perbarui informasi petani, luas lahan, atau titik koordinat GPS kebun.",
+      "viewTitle": "Profil Petani & Lahan",
+      "viewDesc": "Rincian data pertanian, lokasi kebun terverifikasi, dan silsilah panen."
+    },
+    "fields": {
+      "ref": "Farmer ID",
+      "refPlaceholder": "Contoh: FMR-JTG-003",
+      "name": "Nama Petani / Kelompok",
+      "namePlaceholder": "Contoh: Pak Supardi / KT Makmur",
+      "vat": "Nomor NIK (KTP)",
+      "vatPlaceholder": "16 digit nomor identitas resmi",
+      "phone": "Nomor Kontak",
+      "phonePlaceholder": "Contoh: +62 812-xxxx-xxxx",
+      "email": "Email (Opsional)",
+      "emailPlaceholder": "Contoh: petani@domain.com",
+      "street": "Desa / Alamat Lahan",
+      "streetPlaceholder": "Contoh: Desa Igirmranak, Kejajar",
+      "city": "Kabupaten / Wilayah",
+      "cityPlaceholder": "Contoh: Wonosobo / Temanggung",
+      "latitude": "Latitude (GPS)",
+      "latitudePlaceholder": "Contoh: -7.2145",
+      "longitude": "Longitude (GPS)",
+      "longitudePlaceholder": "Contoh: 109.9124",
+      "commodity": "Komoditas Utama",
+      "commodityPlaceholder": "Pilih komoditas",
+      "farmingMethod": "Metode Budidaya",
+      "farmingMethodPlaceholder": "Pilih metode",
+      "landArea": "Luas Lahan (m²)",
+      "landAreaPlaceholder": "Contoh: 5000",
+      "comment": "Catatan Agronomist",
+      "commentPlaceholder": "Ketinggian (mdpl), kontur kebun, catatan budidaya..."
+    },
+    "table": {
+      "ref": "Farmer ID",
+      "name": "Nama Petani / Kelompok",
+      "location": "Wilayah & Terroir",
+      "commodity": "Komoditas",
+      "coordinates": "Koordinat GPS",
+      "phone": "Kontak",
+      "status": "Status",
+      "actions": "Aksi"
+    },
+    "commodities": {
+      "gaharu": "Minyak Gaharu",
+      "nilam": "Minyak Nilam",
+      "serai": "Serai Wangi",
+      "kopi": "Kopi Arabika",
+      "cengkeh": "Minyak Cengkeh"
+    },
+    "methods": {
+      "organic": "Organik / Agroforestri",
+      "conventional": "Konvensional"
+    },
+    "messages": {
+      "saved": "Data petani berhasil disimpan",
+      "saveFailed": "Gagal menyimpan data petani",
+      "archived": "Petani berhasil diarsipkan",
+      "archiveFailed": "Gagal mengarsipkan petani",
+      "restored": "Petani berhasil diaktifkan kembali",
+      "restoreFailed": "Gagal mengaktifkan petani"
+    }
+  }
+}

@@ -16,7 +16,8 @@
       "add": "Tambah Karyawan",
       "edit": "Ubah Data",
       "archive": "Arsipkan",
-      "activate": "Aktifkan"
+      "activate": "Aktifkan",
+      "addDepartment": "+ Tambah Departemen Baru..."
     },
     "fields": {
       "name": "Nama Lengkap",
@@ -90,6 +91,32 @@
     },
     "messages": {
       "saved": "Pengaturan profil perusahaan berhasil disimpan di Odoo 18"
+    }
+  },
+  "departments": {
+    "title": "Departemen & Divisi Perusahaan",
+    "subtitle": "Kelola struktur organisasi, departemen operasional, dan divisi kerja di Odoo 18",
+    "actions": {
+      "add": "Tambah Departemen",
+      "edit": "Ubah Departemen",
+      "archive": "Arsipkan",
+      "restore": "Aktifkan"
+    },
+    "fields": {
+      "name": "Nama Departemen / Divisi",
+      "name_placeholder": "misal: Divisi Agronomi & Kemitraan"
+    },
+    "confirm": {
+      "archiveTitle": "Arsipkan Departemen",
+      "restoreTitle": "Aktifkan Departemen",
+      "archiveDesc": "Apakah Anda yakin ingin menonaktifkan departemen {name}?",
+      "restoreDesc": "Apakah Anda yakin ingin mengaktifkan kembali departemen {name}?"
+    },
+    "messages": {
+      "created": "Departemen baru berhasil disimpan ke Odoo 18",
+      "updated": "Data departemen berhasil diperbarui",
+      "archived": "Departemen berhasil diarsipkan",
+      "restored": "Departemen berhasil diaktifkan kembali"
     }
   }
 }

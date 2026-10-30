@@ -104,6 +104,9 @@
       "hectare": "Hektar",
       "elevation": "Elevasi Dataran Tinggi Dieng",
       "registeredSince": "Terdaftar sejak September 2026"
+    },
+    "actions": {
+      "addCommodity": "+ Tambah Komoditas Baru..."
     }
   },
   "distillers": {

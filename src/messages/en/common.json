@@ -20,7 +20,9 @@
     "pickDate": "Pick a date",
     "selectOption": "Select option",
     "loading": "Loading...",
-    "continue": "Continue"
+    "continue": "Continue",
+    "addNew": "Add new option...",
+    "createOption": "Create new data"
   },
   "status": {
     "loading": "Loading data...",

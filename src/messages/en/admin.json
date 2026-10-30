@@ -16,7 +16,8 @@
       "add": "Add Employee",
       "edit": "Edit Employee",
       "archive": "Archive",
-      "activate": "Activate"
+      "activate": "Activate",
+      "addDepartment": "+ Add New Department..."
     },
     "fields": {
       "name": "Full Name",
@@ -90,6 +91,32 @@
     },
     "messages": {
       "saved": "Company settings updated successfully in Odoo 18"
+    }
+  },
+  "departments": {
+    "title": "Departments & Divisions",
+    "subtitle": "Manage organizational structure, operational departments, and divisions in Odoo 18",
+    "actions": {
+      "add": "Add Department",
+      "edit": "Edit Department",
+      "archive": "Archive",
+      "restore": "Activate"
+    },
+    "fields": {
+      "name": "Department / Division Name",
+      "name_placeholder": "e.g. Agronomy & Partnership Division"
+    },
+    "confirm": {
+      "archiveTitle": "Archive Department",
+      "restoreTitle": "Activate Department",
+      "archiveDesc": "Are you sure you want to deactivate department {name}?",
+      "restoreDesc": "Are you sure you want to reactivate department {name}?"
+    },
+    "messages": {
+      "created": "New department successfully saved to Odoo 18",
+      "updated": "Department details successfully updated",
+      "archived": "Department successfully archived",
+      "restored": "Department successfully reactivated"
     }
   }
 }

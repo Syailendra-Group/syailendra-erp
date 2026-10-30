@@ -131,6 +131,9 @@ export function EmployeesActionDialog({ currentRow, open, onOpenChange, departme
                         value={field.value ? String(field.value) : undefined}
                         onValueChange={(val) => field.onChange(Number(val))}
                         placeholder={tAdmin('fields.department_placeholder')}
+                        addNewAction={true}
+                        addNewHref="/admin/departments"
+                        addNewLabel={tAdmin('actions.addDepartment')}
                         items={departments.map((d) => ({
                           label: d.name,
                           value: String(d.id)

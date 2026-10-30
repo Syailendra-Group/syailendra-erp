@@ -2,57 +2,39 @@
 
 import { useMemo, useState } from 'react'
 import Image from 'next/image'
-import { Check, ChevronsUpDown, X } from 'lucide-react'
+import { Check, ChevronsUpDown, PlusCircle, X } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 
 import { Badge } from '@/components/ui/badge'
 import { Button } from '@/components/ui/button'
-import { Command, CommandEmpty, CommandGroup, CommandInput, CommandItem, CommandList } from '@/components/ui/command'
+import { Command, CommandEmpty, CommandGroup, CommandInput, CommandItem, CommandList, CommandSeparator } from '@/components/ui/command'
 import { Popover, PopoverContent, PopoverTrigger } from '@/components/ui/popover'
+import { Link } from '@/i18n/navigation'
 import { cn } from '@/lib/utils'
 
-import type { ComponentType, ReactElement } from 'react'
+import type { MouseEvent, ReactElement } from 'react'
+import type { MultiSelectFormProps, SelectFormProps, SelectOption, SingleSelectFormProps } from './select-types'
 
-export interface SelectOption<T extends string = string> {
-  value: T
-  label: string
-  description?: string
-  image?: string
-  icon?: ComponentType<{ className?: string }>
-  disabled?: boolean
-}
-
-interface BaseSelectFormProps<T extends string = string> {
-  items: SelectOption<T>[]
-  placeholder?: string
-  searchPlaceholder?: string
-  emptyText?: string
-  disabled?: boolean
-  clearable?: boolean
-  className?: string
-  popoverWidth?: string
-}
-
-export interface SingleSelectFormProps<T extends string = string> extends BaseSelectFormProps<T> {
-  multiple?: false
-  value?: T
-  defaultValue?: T
-  onValueChange?: (value: T) => void
-}
-
-export interface MultiSelectFormProps<T extends string = string> extends BaseSelectFormProps<T> {
-  multiple: true
-  value?: T[]
-  defaultValue?: T[]
-  onValueChange?: (value: T[]) => void
-}
-
-export type SelectFormProps<T extends string = string> = SingleSelectFormProps<T> | MultiSelectFormProps<T>
+export type { MultiSelectFormProps, SelectFormProps, SelectOption, SingleSelectFormProps } from './select-types'
 
 export function SelectForm<T extends string = string>(props: SelectFormProps<T>): ReactElement {
-  const { items, placeholder, searchPlaceholder, emptyText, disabled = false, clearable = false, className, popoverWidth } = props
+  const {
+    items,
+    placeholder,
+    searchPlaceholder,
+    emptyText,
+    disabled = false,
+    clearable = false,
+    className,
+    popoverWidth,
+    addNewAction = true,
+    addNewHref,
+    addNewLabel,
+    onAddNewClick
+  } = props
 
   const [open, setOpen] = useState(false)
+  const [searchQuery, setSearchQuery] = useState('')
   const tCommon = useTranslations('common')
 
   const isMultiple = props.multiple === true
@@ -77,7 +59,7 @@ export function SelectForm<T extends string = string>(props: SelectFormProps<T>)
     }
   }
 
-  const handleClear = (e: React.MouseEvent) => {
+  const handleClear = (e: MouseEvent<HTMLSpanElement>) => {
     e.stopPropagation()
     if (isMultiple) {
       ;(props as MultiSelectFormProps<T>).onValueChange?.([])
@@ -86,7 +68,7 @@ export function SelectForm<T extends string = string>(props: SelectFormProps<T>)
     }
   }
 
-  const handleRemoveItem = (val: T, e: React.MouseEvent) => {
+  const handleRemoveItem = (val: T, e: MouseEvent<HTMLSpanElement>) => {
     e.stopPropagation()
     if (isMultiple) {
       const next = (multiValue as T[]).filter((item) => item !== val)
@@ -95,9 +77,17 @@ export function SelectForm<T extends string = string>(props: SelectFormProps<T>)
   }
 
   const selectedSingleItem = singleValue ? itemMap.get(singleValue) : undefined
+  const hasAddAction = addNewAction && Boolean(addNewHref || onAddNewClick)
+  const actionButtonText = addNewLabel || tCommon('actions.addNew')
 
   return (
-    <Popover open={open} onOpenChange={setOpen}>
+    <Popover
+      open={open}
+      onOpenChange={(v) => {
+        setOpen(v)
+        if (!v) setSearchQuery('')
+      }}
+    >
       <PopoverTrigger asChild>
         <Button
           type="button"
@@ -179,11 +169,44 @@ export function SelectForm<T extends string = string>(props: SelectFormProps<T>)
         </Button>
       </PopoverTrigger>
 
-      <PopoverContent className={cn('p-0 shadow-md', popoverWidth || 'w-[var(--radix-popover-trigger-width)] min-w-[200px]')} align="start">
+      <PopoverContent className={cn('p-0 shadow-md', popoverWidth || 'w-[var(--radix-popover-trigger-width)] min-w-[220px]')} align="start">
         <Command>
-          <CommandInput placeholder={searchPlaceholder || tCommon('actions.search')} className="h-8 text-xs" />
+          <CommandInput
+            placeholder={searchPlaceholder || tCommon('actions.search')}
+            value={searchQuery}
+            onValueChange={setSearchQuery}
+            className="h-8 text-xs"
+          />
           <CommandList className="max-h-60">
-            <CommandEmpty className="text-muted-foreground py-2 text-center text-xs">{emptyText || tCommon('table.noResults')}</CommandEmpty>
+            <CommandEmpty className="text-muted-foreground px-3 py-2.5 text-center text-xs">
+              <p>{emptyText || tCommon('table.noResults')}</p>
+              {hasAddAction && searchQuery.trim() && (
+                <div className="mt-2">
+                  {addNewHref ? (
+                    <Button variant="outline" size="sm" className="text-primary h-7 w-full gap-1.5 text-xs font-medium" asChild>
+                      <Link href={addNewHref} onClick={() => setOpen(false)}>
+                        <PlusCircle className="size-3.5" />
+                        <span>{tCommon('actions.createOption', { name: searchQuery.trim() })}</span>
+                      </Link>
+                    </Button>
+                  ) : onAddNewClick ? (
+                    <Button
+                      variant="outline"
+                      size="sm"
+                      className="text-primary h-7 w-full gap-1.5 text-xs font-medium"
+                      onClick={() => {
+                        setOpen(false)
+                        onAddNewClick()
+                      }}
+                    >
+                      <PlusCircle className="size-3.5" />
+                      <span>{tCommon('actions.createOption', { name: searchQuery.trim() })}</span>
+                    </Button>
+                  ) : null}
+                </div>
+              )}
+            </CommandEmpty>
+
             <CommandGroup>
               {items.map((item) => {
                 const isSelected = isMultiple ? (multiValue as T[]).includes(item.value) : singleValue === item.value
@@ -212,6 +235,40 @@ export function SelectForm<T extends string = string>(props: SelectFormProps<T>)
                 )
               })}
             </CommandGroup>
+
+            {hasAddAction && (
+              <>
+                <CommandSeparator />
+                <div className="p-1">
+                  {addNewHref ? (
+                    <Button
+                      variant="ghost"
+                      size="sm"
+                      className="text-primary hover:text-primary hover:bg-muted/60 h-8 w-full justify-start gap-2 text-xs font-medium"
+                      asChild
+                    >
+                      <Link href={addNewHref} onClick={() => setOpen(false)}>
+                        <PlusCircle className="size-3.5" />
+                        <span>{actionButtonText}</span>
+                      </Link>
+                    </Button>
+                  ) : onAddNewClick ? (
+                    <Button
+                      variant="ghost"
+                      size="sm"
+                      className="text-primary hover:text-primary hover:bg-muted/60 h-8 w-full justify-start gap-2 text-xs font-medium"
+                      onClick={() => {
+                        setOpen(false)
+                        onAddNewClick()
+                      }}
+                    >
+                      <PlusCircle className="size-3.5" />
+                      <span>{actionButtonText}</span>
+                    </Button>
+                  ) : null}
+                </div>
+              </>
+            )}
           </CommandList>
         </Command>
       </PopoverContent>

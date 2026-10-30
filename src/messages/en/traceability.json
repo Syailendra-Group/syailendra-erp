@@ -104,6 +104,9 @@
       "hectare": "Hectares",
       "elevation": "Dieng Plateau Elevation",
       "registeredSince": "Registered since September 2026"
+    },
+    "actions": {
+      "addCommodity": "+ Add New Commodity..."
     }
   },
   "distillers": {

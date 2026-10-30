@@ -83,7 +83,7 @@ export function FarmerForm({ initialData }: FarmerFormProps): ReactElement {
 
   return (
     <div className="space-y-6 pb-12">
-      {/* Header bar with Back Link */}
+      {/* Header */}
       <div className="flex flex-col gap-2 sm:flex-row sm:items-center sm:justify-between">
         <div className="space-y-1">
           <Link
@@ -100,9 +100,9 @@ export function FarmerForm({ initialData }: FarmerFormProps): ReactElement {
 
       <form id="farmer-form" onSubmit={handleSubmit(onSubmit)} className="space-y-5">
         {/* Section 1: Identity & Partnership */}
-        <Card className="border-border/60 shadow-xs">
-          <CardHeader className="pb-3">
-            <CardTitle className="flex items-center gap-2 text-sm font-semibold">
+        <Card>
+          <CardHeader>
+            <CardTitle className="flex items-center gap-2 font-semibold">
               <User className="text-primary size-4" />
               <span>{tTrace('sections.identity')}</span>
             </CardTitle>
@@ -141,9 +141,9 @@ export function FarmerForm({ initialData }: FarmerFormProps): ReactElement {
         </Card>
 
         {/* Section 2: Domicile & Region */}
-        <Card className="border-border/60 shadow-xs">
-          <CardHeader className="pb-3">
-            <CardTitle className="flex items-center gap-2 text-sm font-semibold">
+        <Card>
+          <CardHeader>
+            <CardTitle className="flex items-center gap-2 font-semibold">
               <MapPin className="text-primary size-4" />
               <span>{tTrace('sections.location')}</span>
             </CardTitle>
@@ -167,9 +167,9 @@ export function FarmerForm({ initialData }: FarmerFormProps): ReactElement {
         </Card>
 
         {/* Section 3: Commodity & Cultivation */}
-        <Card className="border-border/60 shadow-xs">
-          <CardHeader className="pb-3">
-            <CardTitle className="flex items-center gap-2 text-sm font-semibold">
+        <Card>
+          <CardHeader>
+            <CardTitle className="flex items-center gap-2 font-semibold">
               <Sprout className="text-primary size-4" />
               <span>{tTrace('sections.commodity')}</span>
             </CardTitle>
@@ -181,6 +181,9 @@ export function FarmerForm({ initialData }: FarmerFormProps): ReactElement {
                 value={currentCommodity}
                 onValueChange={(val) => setValue('commodity', val, { shouldValidate: true })}
                 disabled={isPending}
+                addNewAction={true}
+                addNewHref="/inventory"
+                addNewLabel={tTrace('actions.addCommodity')}
                 items={commodityOptions}
               />
             </FormFieldWrapper>
@@ -208,9 +211,9 @@ export function FarmerForm({ initialData }: FarmerFormProps): ReactElement {
         </Card>
 
         {/* Section 4: Terroir & Geotagging GPS */}
-        <Card className="border-border/60 shadow-xs">
-          <CardHeader className="pb-3">
-            <CardTitle className="flex items-center gap-2 text-sm font-semibold">
+        <Card>
+          <CardHeader>
+            <CardTitle className="flex items-center gap-2 font-semibold">
               <ShieldCheck className="text-primary size-4" />
               <span>{tTrace('sections.terroir')}</span>
             </CardTitle>
@@ -258,9 +261,9 @@ export function FarmerForm({ initialData }: FarmerFormProps): ReactElement {
         </Card>
 
         {/* Section 5: Agronomy Notes */}
-        <Card className="border-border/60 shadow-xs">
-          <CardHeader className="pb-3">
-            <CardTitle className="text-sm font-semibold">{tTrace('sections.notes')}</CardTitle>
+        <Card>
+          <CardHeader>
+            <CardTitle className="font-semibold">{tTrace('sections.notes')}</CardTitle>
             <CardDescription className="text-xs">{tTrace('sections.notesDesc')}</CardDescription>
           </CardHeader>
           <CardContent>

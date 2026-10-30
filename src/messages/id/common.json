@@ -20,7 +20,9 @@
     "pickDate": "Pilih tanggal",
     "selectOption": "Pilih opsi",
     "loading": "Memuat...",
-    "continue": "Lanjutkan"
+    "continue": "Lanjutkan",
+    "addNew": "Tambah data baru...",
+    "createOption": "Buat data baru"
   },
   "status": {
     "loading": "Memuat data...",

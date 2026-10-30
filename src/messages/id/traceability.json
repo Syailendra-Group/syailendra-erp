@@ -68,5 +68,82 @@
       "restored": "Petani berhasil diaktifkan kembali",
       "restoreFailed": "Gagal mengaktifkan petani"
     }
+  },
+  "distillers": {
+    "title": "Unit Suling",
+    "subtitle": "Registrasi fasilitas ketel penyulingan, metode ekstraksi, & pemantauan kapasitas",
+    "primaryAction": "Tambah Unit Suling",
+    "dialog": {
+      "addTitle": "Registrasi Unit Suling Baru",
+      "addDesc": "Daftarkan ketel uap atau fasilitas penyulingan ke sistem hulu rantai pasok (SOP-04).",
+      "editTitle": "Ubah Data Unit Suling",
+      "editDesc": "Perbarui kapasitas ketel, nama operator, atau metode ekstraksi.",
+      "viewTitle": "Spesifikasi Teknis Unit Suling",
+      "viewDesc": "Rincian spesifikasi peralatan, riwayat sanitasi, & parameter operasional."
+    },
+    "fields": {
+      "ref": "Distiller ID",
+      "refPlaceholder": "Contoh: DST-JTG-002",
+      "name": "Nama Unit / Fasilitas",
+      "namePlaceholder": "Contoh: Unit Ketel Suling Uap Sumbing",
+      "boilerCapacity": "Kapasitas Ketel (Kg Biomassa)",
+      "boilerCapacityPlaceholder": "Contoh: 500",
+      "method": "Metode Ekstraksi",
+      "methodPlaceholder": "Pilih metode",
+      "material": "Material Ketel",
+      "materialPlaceholder": "Pilih material",
+      "ownership": "Status Kepemilikan",
+      "ownershipPlaceholder": "Pilih status",
+      "operatorName": "Nama Operator / PIC",
+      "operatorNamePlaceholder": "Contoh: Mas Bowo / Tim Suling A",
+      "phone": "Nomor Kontak Operator",
+      "phonePlaceholder": "Contoh: +62 811-xxxx-xxxx",
+      "city": "Kabupaten / Kota",
+      "cityPlaceholder": "Contoh: Temanggung",
+      "street": "Alamat Fasilitas Ketel",
+      "streetPlaceholder": "Contoh: Kawasan Industri Agro Mandiri",
+      "sanitation": "Pemeriksaan Sanitasi",
+      "sanitationPlaceholder": "Pilih status sanitasi",
+      "comment": "Catatan Spesifikasi Teknis",
+      "commentPlaceholder": "Tekanan uap operasional (bar), suhu puncak (°C), spesifikasi kondensor..."
+    },
+    "table": {
+      "ref": "Distiller ID",
+      "name": "Nama Fasilitas Ketel",
+      "capacity": "Kapasitas",
+      "method": "Metode Ekstraksi",
+      "operator": "Operator / PIC",
+      "location": "Lokasi",
+      "status": "Status",
+      "actions": "Aksi"
+    },
+    "methods": {
+      "steam": "Steam Distillation (Uap Langsung)",
+      "hydro": "Hydro Distillation (Rebus Air)",
+      "water_steam": "Water & Steam (Kukus)",
+      "cold_pressed": "Cold Pressed (Peras Dingin)"
+    },
+    "materials": {
+      "sus316": "Stainless Steel 316 (Food Grade)",
+      "sus304": "Stainless Steel 304",
+      "copper": "Pure Copper (Tembaga Murni)"
+    },
+    "ownership": {
+      "internal": "Milik Sendiri (PT. SBI)",
+      "partner": "Mitra Penyuling (Partner)"
+    },
+    "sanitation": {
+      "passed": "Sanitasi Lolos (Passed)",
+      "pending": "Menunggu Sanitasi",
+      "cleaning": "Pembersihan Berjalan"
+    },
+    "messages": {
+      "saved": "Data unit suling berhasil disimpan",
+      "saveFailed": "Gagal menyimpan data unit suling",
+      "archived": "Unit suling berhasil diarsipkan",
+      "archiveFailed": "Gagal mengarsipkan unit suling",
+      "restored": "Unit suling berhasil diaktifkan kembali",
+      "restoreFailed": "Gagal mengaktifkan unit suling"
+    }
   }
 }

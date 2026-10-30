@@ -68,5 +68,82 @@
       "restored": "Farmer reactivated successfully",
       "restoreFailed": "Failed to reactivate farmer"
     }
+  },
+  "distillers": {
+    "title": "Distiller Units",
+    "subtitle": "Distillation boiler facilities register, extraction methods, and capacity tracking",
+    "primaryAction": "Add Distiller Unit",
+    "dialog": {
+      "addTitle": "Register New Distiller Unit",
+      "addDesc": "Register steam boiler or distillation unit to the supply chain infrastructure (SOP-04).",
+      "editTitle": "Edit Distiller Unit",
+      "editDesc": "Update boiler capacity, operator details, or extraction methods.",
+      "viewTitle": "Distiller Unit Technical Details",
+      "viewDesc": "Full equipment specifications, sanitation history, and operational parameters."
+    },
+    "fields": {
+      "ref": "Distiller ID",
+      "refPlaceholder": "e.g. DST-JTG-002",
+      "name": "Unit / Facility Name",
+      "namePlaceholder": "e.g. Unit Ketel Suling Uap Sumbing",
+      "boilerCapacity": "Boiler Capacity (Kg Biomass)",
+      "boilerCapacityPlaceholder": "e.g. 500",
+      "method": "Extraction Method",
+      "methodPlaceholder": "Select method",
+      "material": "Boiler Material",
+      "materialPlaceholder": "Select material",
+      "ownership": "Ownership Status",
+      "ownershipPlaceholder": "Select ownership",
+      "operatorName": "PIC / Operator Name",
+      "operatorNamePlaceholder": "e.g. Mas Bowo / Tim Suling A",
+      "phone": "Operator Contact Phone",
+      "phonePlaceholder": "e.g. +62 811-xxxx-xxxx",
+      "city": "Regency / City",
+      "cityPlaceholder": "e.g. Temanggung",
+      "street": "Facility Address",
+      "streetPlaceholder": "e.g. Kawasan Industri Agro Mandiri",
+      "sanitation": "Sanitation Check",
+      "sanitationPlaceholder": "Select sanitation status",
+      "comment": "Technical Specifications & Notes",
+      "commentPlaceholder": "Operating steam pressure (bar), max temp (°C), condenser specs..."
+    },
+    "table": {
+      "ref": "Distiller ID",
+      "name": "Facility Name",
+      "capacity": "Capacity",
+      "method": "Extraction Method",
+      "operator": "PIC Operator",
+      "location": "Location",
+      "status": "Status",
+      "actions": "Actions"
+    },
+    "methods": {
+      "steam": "Steam Distillation (Uap Langsung)",
+      "hydro": "Hydro Distillation (Rebus Air)",
+      "water_steam": "Water & Steam (Kukus)",
+      "cold_pressed": "Cold Pressed (Peras Dingin)"
+    },
+    "materials": {
+      "sus316": "Stainless Steel 316 (Food Grade)",
+      "sus304": "Stainless Steel 304",
+      "copper": "Pure Copper (Tembaga)"
+    },
+    "ownership": {
+      "internal": "Company-Owned (PT. SBI)",
+      "partner": "Mitra Penyuling (Partner)"
+    },
+    "sanitation": {
+      "passed": "Sanitation Passed",
+      "pending": "Sanitation Pending",
+      "cleaning": "Cleaning in Progress"
+    },
+    "messages": {
+      "saved": "Distiller unit saved successfully",
+      "saveFailed": "Failed to save distiller unit",
+      "archived": "Distiller unit archived successfully",
+      "archiveFailed": "Failed to archive distiller unit",
+      "restored": "Distiller unit reactivated successfully",
+      "restoreFailed": "Failed to reactivate distiller unit"
+    }
   }
 }

@@ -26,7 +26,14 @@ export function NavGroup({ group }: NavGroupProps): ReactElement {
       <SidebarMenu className="gap-1 px-1">
         {group.items.map((item) => {
           const Icon = item.icon
-          const isActive = pathname === item.url || (item.url !== '/inventory' && item.url !== '/employees' && pathname.startsWith(item.url + '/'))
+          const isOverviewUrl =
+            item.url === '/overview' ||
+            item.url === '/traceability' ||
+            item.url === '/wms' ||
+            item.url === '/crm' ||
+            item.url === '/hris' ||
+            item.url === '/settings'
+          const isActive = pathname === item.url || (!isOverviewUrl && pathname.startsWith(item.url + '/'))
 
           return (
             <SidebarMenuItem key={item.titleKey}>

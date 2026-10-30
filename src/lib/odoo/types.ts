@@ -110,13 +110,88 @@ export interface StockMoveLine {
 }
 
 // --- 4. Lot & Traceability Engine ---
+export type QcStatus = 'quarantine' | 'green_accepted' | 'yellow_hold' | 'red_rejected'
+
+export type TraceEntityType = 'harvest_lot' | 'distillation_batch' | 'raw_material_batch' | 'production_batch' | 'finish_good_batch' | 'shipment'
+
 export interface StockLot {
   id: number
   name: string
   product_id: OdooMany2One
   ref?: string | false
   note?: string | false
+  lot_properties?: Record<string, unknown> | null
   create_date: string
+}
+
+export interface PublicTraceabilityProjection {
+  lot_code: string
+  product_name: string
+  botanical_name: string
+  plant_part: string
+  origin_region: string
+  elevation_masl: number
+  farmer_group: string
+  harvest_date: string
+  distillation_method: string
+  cupping_or_grade_score: number
+  active_compounds: Array<{ compound: string; percentage: number }>
+  organoleptic: {
+    color: string
+    clarity: string
+    odor: string
+  }
+  public_coa_url?: string
+  safety_classification: string
+  production_date: string
+  expiration_date: string
+  is_authentic: boolean
+}
+
+export interface InternalTraceabilityDetail {
+  id: number
+  lot_code: string
+  ref?: string | false
+  product_name: string
+  product_code?: string | false
+  entity_type: TraceEntityType
+  qc_status?: QcStatus
+  qc_label?: string
+  warehouse_location?: string
+  on_hand_qty: number
+  uom: string
+  parent_lots: string[]
+  properties: Record<string, unknown>
+  create_date: string
+}
+
+export interface GenealogyNode {
+  lot_id: number
+  lot_name: string
+  entity_type: TraceEntityType | string
+  product_name: string
+  date?: string
+  status?: string
+  details?: Record<string, unknown>
+  parents?: GenealogyNode[]
+}
+
+export interface QCReleaseParams {
+  lotId: number
+  qcStatus: 'green_accepted' | 'yellow_hold' | 'red_rejected'
+  coaNumber?: string
+  inspectorName: string
+  notes?: string
+}
+
+export interface TraceabilityKPI {
+  totalLotsTracked: number
+  harvestLotsCount: number
+  distillationBatchesCount: number
+  rawMaterialBatchesCount: number
+  finishGoodLotsCount: number
+  quarantineLotsCount: number
+  rejectedLotsCount: number
 }
 
 // --- 5. Human Resources & Attendance ---
@@ -137,7 +212,7 @@ export interface HrAttendance {
   worked_hours?: number
 }
 
-// --- 6. CRM & Sales Pipeline (Colabo Style) ---
+// --- 6. CRM & Sales Pipeline ---
 export interface CrmLead {
   id: number
   name: string

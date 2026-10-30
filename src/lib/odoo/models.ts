@@ -4,7 +4,7 @@
  */
 
 import { odooClient, OdooClient } from './client'
-import { CrmLead, CrmStage, HrAttendance, HrEmployee, StockLot, StockMoveLine, StockPicking, StockPickingType, StockQuant } from './types'
+import { CrmLead, CrmStage, HrAttendance, HrEmployee, StockPicking, StockPickingType, StockQuant } from './types'
 
 export class InventoryService {
   constructor(private client: OdooClient = odooClient) {}
@@ -68,37 +68,7 @@ export class InventoryService {
   }
 }
 
-export class TraceabilityService {
-  constructor(private client: OdooClient = odooClient) {}
-
-  /**
-   * Retrieve lot details by exact lot number (Public & Internal)
-   */
-  async getLotByNumber(lotNumber: string): Promise<StockLot | null> {
-    const res = await this.client.searchRead<StockLot>(
-      'stock.lot',
-      [['name', '=', lotNumber]],
-      ['name', 'product_id', 'ref', 'note', 'create_date'],
-      { limit: 1 }
-    )
-    return res[0] || null
-  }
-
-  /**
-   * Retrieve complete lifecycle movements for a lot (Farm ➔ Warehouse ➔ Customer)
-   */
-  async getLotMovements(lotId: number): Promise<StockMoveLine[]> {
-    return this.client.searchRead<StockMoveLine>(
-      'stock.move.line',
-      [
-        ['lot_id', '=', lotId],
-        ['state', '=', 'done']
-      ],
-      ['picking_id', 'product_id', 'location_id', 'location_dest_id', 'quantity', 'date', 'state'],
-      { order: 'date asc' }
-    )
-  }
-}
+export { TraceabilityService } from './traceability'
 
 export class AttendanceService {
   constructor(private client: OdooClient = odooClient) {}

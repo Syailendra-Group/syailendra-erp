@@ -23,7 +23,7 @@ export interface LoginFormProps {
   onSuccessRedirect?: string
 }
 
-export function LoginForm({ onSuccessRedirect = '/inventory' }: LoginFormProps): React.ReactElement {
+export function LoginForm({ onSuccessRedirect = '/overview' }: LoginFormProps): React.ReactElement {
   const tAuth = useTranslations('auth')
   const tCommon = useTranslations('common')
   const router = useRouter()

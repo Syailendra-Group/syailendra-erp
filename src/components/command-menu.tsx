@@ -1,7 +1,7 @@
 'use client'
 
 import { useCallback } from 'react'
-import { ArrowRight, Boxes, Clock, Laptop, Moon, Sun, UserCheck, Users } from 'lucide-react'
+import { ArrowRight, Clock, Laptop, Layers, LayoutDashboard, Moon, Sliders, Sun, Target, Warehouse } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 import { useTheme } from 'next-themes'
 
@@ -12,7 +12,7 @@ import { useRouter } from '@/i18n/navigation'
 import { useNavStore } from '@/stores/nav-store'
 
 import type { ModuleTab } from '@/stores/nav-store'
-import type { ReactElement } from 'react'
+import type { ElementType, ReactElement } from 'react'
 
 export function CommandMenu(): ReactElement {
   const router = useRouter()
@@ -30,28 +30,30 @@ export function CommandMenu(): ReactElement {
     [setOpen]
   )
 
-  const modules: { title: string; url: string; tab: ModuleTab; icon: typeof Boxes }[] = [
-    { title: tNav('modules.inventory'), url: '/inventory', tab: 'inventory', icon: Boxes },
-    { title: tNav('modules.crm'), url: '/crm', tab: 'crm', icon: Users },
-    { title: tNav('modules.hr'), url: '/hr', tab: 'hr', icon: Clock },
-    { title: tNav('modules.employees'), url: '/employees', tab: 'employees', icon: UserCheck }
+  const modules: { title: string; url: string; tab: ModuleTab; icon: ElementType }[] = [
+    { title: tNav('modules.main'), url: '/overview', tab: 'main', icon: LayoutDashboard },
+    { title: tNav('modules.traceability'), url: '/traceability', tab: 'traceability', icon: Layers },
+    { title: tNav('modules.wms'), url: '/wms', tab: 'wms', icon: Warehouse },
+    { title: tNav('modules.crm'), url: '/crm', tab: 'crm', icon: Target },
+    { title: tNav('modules.hris'), url: '/hris', tab: 'hris', icon: Clock },
+    { title: tNav('modules.others'), url: '/settings', tab: 'others', icon: Sliders }
   ]
 
   const items: { title: string; url: string; tab: ModuleTab }[] = [
-    { title: tNav('items.products'), url: '/inventory/products', tab: 'inventory' },
-    { title: tNav('items.stock_moves'), url: '/inventory/moves', tab: 'inventory' },
-    { title: tNav('items.lots_batches'), url: '/inventory/lots', tab: 'inventory' },
-    { title: tNav('items.traceability_qr'), url: '/inventory/traceability', tab: 'inventory' },
-    { title: tNav('items.leads_pipeline'), url: '/crm', tab: 'crm' },
-    { title: tNav('items.partners'), url: '/crm/partners', tab: 'crm' },
-    { title: tNav('items.attendance_log'), url: '/hr', tab: 'hr' },
-    { title: tNav('items.daily_reports'), url: '/hr/reports', tab: 'hr' },
-    { title: tNav('items.employees_directory'), url: '/employees', tab: 'employees' },
-    { title: tNav('items.departments'), url: '/admin/departments', tab: 'employees' },
-    { title: tNav('items.job_positions'), url: '/admin/jobs', tab: 'employees' },
-    { title: tNav('items.work_locations'), url: '/admin/locations', tab: 'employees' },
-    { title: tNav('items.employee_tags'), url: '/admin/categories', tab: 'employees' },
-    { title: tNav('items.access_roles'), url: '/admin/roles', tab: 'employees' }
+    { title: tNav('items.lots_batches'), url: '/traceability', tab: 'traceability' },
+    { title: tNav('items.genealogy_graph'), url: '/traceability', tab: 'traceability' },
+    { title: tNav('items.qr_printer'), url: '/traceability', tab: 'traceability' },
+    { title: tNav('items.stock_ledger'), url: '/wms', tab: 'wms' },
+    { title: tNav('items.inbound_grn'), url: '/wms', tab: 'wms' },
+    { title: tNav('items.quarantine_zone'), url: '/wms', tab: 'wms' },
+    { title: tNav('items.b2b_leads'), url: '/crm', tab: 'crm' },
+    { title: tNav('items.global_orders'), url: '/crm', tab: 'crm' },
+    { title: tNav('items.sample_desk'), url: '/crm', tab: 'crm' },
+    { title: tNav('items.attendance_log'), url: '/hris', tab: 'hris' },
+    { title: tNav('items.employees_directory'), url: '/employees', tab: 'hris' },
+    { title: tNav('items.departments'), url: '/admin/departments', tab: 'hris' },
+    { title: tNav('items.access_roles'), url: '/admin/roles', tab: 'others' },
+    { title: tNav('items.company_profile'), url: '/settings', tab: 'others' }
   ]
 
   return (

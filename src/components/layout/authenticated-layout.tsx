@@ -24,20 +24,20 @@ export function AuthenticatedLayout({ children }: AuthenticatedLayoutProps): Rea
   const pathname = usePathname()
   const { setActiveTab } = useNavStore()
 
+  // Route-watcher to automatically synchronize active navbar & sidebar module
   useEffect(() => {
-    if (pathname.includes('/employees') || pathname.includes('/admin')) {
-      setActiveTab('employees')
-    } else if (
-      pathname.includes('/inventory') ||
-      pathname.includes('/commodities') ||
-      pathname.includes('/lots') ||
-      pathname.includes('/traceability')
-    ) {
-      setActiveTab('inventory')
+    if (pathname.includes('/traceability')) {
+      setActiveTab('traceability')
+    } else if (pathname.includes('/wms') || pathname.includes('/inventory')) {
+      setActiveTab('wms')
     } else if (pathname.includes('/crm')) {
       setActiveTab('crm')
-    } else if (pathname.includes('/hr') || pathname.includes('/attendance')) {
-      setActiveTab('hr')
+    } else if (pathname.includes('/hris') || pathname.includes('/hr') || pathname.includes('/attendance') || pathname.includes('/employees')) {
+      setActiveTab('hris')
+    } else if (pathname.includes('/settings') || pathname.includes('/admin')) {
+      setActiveTab('others')
+    } else {
+      setActiveTab('main')
     }
   }, [pathname, setActiveTab])
 
@@ -47,7 +47,7 @@ export function AuthenticatedLayout({ children }: AuthenticatedLayoutProps): Rea
         <SkipToMain />
         <SidebarProvider defaultOpen={true}>
           <AppSidebar />
-          <SidebarInset className="w-full min-w-0 overflow-x-hidden">
+          <SidebarInset className="flex min-w-0 flex-1 flex-col overflow-x-clip">
             <Header fixed={true} />
             <Main id="content">
               <Breadcrumbs />

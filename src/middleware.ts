@@ -29,7 +29,7 @@ export default function middleware(request: NextRequest): NextResponse {
 
   // If user is already authenticated and visits /login, redirect to /inventory
   if (sessionCookie && isLoginPage) {
-    const dashboardUrl = new URL(pathname.startsWith('/en') ? '/en/inventory' : '/inventory', request.url)
+    const dashboardUrl = new URL(pathname.startsWith('/en') ? '/en/overview' : '/overview', request.url)
     return NextResponse.redirect(dashboardUrl)
   }
 

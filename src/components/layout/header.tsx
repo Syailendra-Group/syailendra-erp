@@ -16,17 +16,16 @@ export interface HeaderProps extends HTMLAttributes<HTMLElement> {
   fixed?: boolean
 }
 
-export function Header({ className, fixed = true, children, ...props }: HeaderProps): ReactElement {
+export function Header({ className, children, ...props }: HeaderProps): ReactElement {
   return (
     <header
       className={cn(
-        'dark:bg-background/80 dark:supports-[backdrop-filter]:bg-background/70 border-border/40 z-30 h-16 border-b bg-white/80 backdrop-blur-md supports-[backdrop-filter]:bg-white/70',
-        fixed && 'sticky top-0 w-full',
+        'border-border/40 dark:bg-background/85 dark:supports-[backdrop-filter]:bg-background/75 sticky top-0 z-40 flex h-16 w-full items-center border-b bg-white/85 backdrop-blur-md transition-colors supports-[backdrop-filter]:bg-white/75',
         className
       )}
       {...props}
     >
-      <div className="flex h-full items-center gap-2 px-3 sm:gap-4 sm:px-6">
+      <div className="flex w-full items-center gap-2 px-3 sm:gap-4 sm:px-6">
         <div className="flex items-center gap-2 sm:gap-3">
           <SidebarTrigger variant="outline" className="cursor-pointer max-md:scale-110" />
           <Separator orientation="vertical" className="h-5" />

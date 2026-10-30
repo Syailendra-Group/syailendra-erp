@@ -1,6 +1,6 @@
 'use client'
 
-import { Boxes, Clock, Menu, UserCheck, Users } from 'lucide-react'
+import { Clock, Layers, LayoutDashboard, Menu, Sliders, Target, Warehouse } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 
 import { Button } from '@/components/ui/button'
@@ -12,15 +12,26 @@ import { useNavStore } from '@/stores/nav-store'
 import type { ModuleTab } from '@/stores/nav-store'
 import type { ElementType, ReactElement } from 'react'
 
+export interface NavItemConfig {
+  id: ModuleTab
+  titleKey: string
+  icon: ElementType
+  href: string
+  roles?: string[]
+}
+
 export function TopNav(): ReactElement {
   const tNav = useTranslations('nav')
   const { activeTab, setActiveTab } = useNavStore()
 
-  const tabs: { id: ModuleTab; titleKey: string; icon: ElementType; href: string }[] = [
-    { id: 'inventory', titleKey: 'modules.inventory', icon: Boxes, href: '/inventory' },
-    { id: 'crm', titleKey: 'modules.crm', icon: Users, href: '/crm' },
-    { id: 'hr', titleKey: 'modules.hr', icon: Clock, href: '/hr' },
-    { id: 'employees', titleKey: 'modules.employees', icon: UserCheck, href: '/employees' }
+  // 6 Strategic Pillars of Syailendra Group ERP
+  const tabs: NavItemConfig[] = [
+    { id: 'main', titleKey: 'modules.main', icon: LayoutDashboard, href: '/overview' },
+    { id: 'traceability', titleKey: 'modules.traceability', icon: Layers, href: '/traceability' },
+    { id: 'wms', titleKey: 'modules.wms', icon: Warehouse, href: '/wms' },
+    { id: 'crm', titleKey: 'modules.crm', icon: Target, href: '/crm' },
+    { id: 'hris', titleKey: 'modules.hris', icon: Clock, href: '/hris' },
+    { id: 'others', titleKey: 'modules.others', icon: Sliders, href: '/settings' }
   ]
 
   return (
@@ -33,13 +44,16 @@ export function TopNav(): ReactElement {
             <span className="sr-only">Toggle navigation menu</span>
           </Button>
         </DropdownMenuTrigger>
-        <DropdownMenuContent side="bottom" align="start">
+        <DropdownMenuContent side="bottom" align="start" className="w-48">
           {tabs.map((tab) => {
             const Icon = tab.icon
             const isActive = activeTab === tab.id
             return (
               <DropdownMenuItem key={tab.id} asChild onClick={() => setActiveTab(tab.id)}>
-                <Link href={tab.href} className={cn('cursor-pointer gap-2 text-xs font-medium', isActive ? 'text-primary font-bold' : '')}>
+                <Link
+                  href={tab.href}
+                  className={cn('cursor-pointer gap-2 text-xs font-medium', isActive ? 'text-primary bg-primary/10 font-bold' : '')}
+                >
                   <Icon className="h-4 w-4" />
                   <span>{tNav(tab.titleKey)}</span>
                 </Link>
@@ -50,7 +64,7 @@ export function TopNav(): ReactElement {
       </DropdownMenu>
 
       {/* Desktop Horizontal Navigation (>= lg) */}
-      <nav className="hidden items-center gap-1.5 lg:flex xl:gap-2">
+      <nav className="hidden items-center gap-1 lg:flex xl:gap-1.5">
         {tabs.map((tab) => {
           const Icon = tab.icon
           const isActive = activeTab === tab.id
@@ -62,14 +76,14 @@ export function TopNav(): ReactElement {
               asChild
               onClick={() => setActiveTab(tab.id)}
               className={cn(
-                'cursor-pointer gap-2 text-xs font-medium transition-colors',
+                'cursor-pointer gap-1.5 px-2.5 text-xs font-semibold tracking-wider transition-colors xl:px-3',
                 isActive
-                  ? 'bg-primary text-primary-foreground hover:bg-primary/90 font-semibold shadow-xs'
+                  ? 'bg-primary text-primary-foreground hover:bg-primary/90 shadow-xs'
                   : 'text-muted-foreground hover:bg-muted hover:text-foreground'
               )}
             >
               <Link href={tab.href}>
-                <Icon className={cn('h-4 w-4', isActive ? 'text-primary-foreground' : 'text-muted-foreground')} />
+                <Icon className={cn('h-3.5 w-3.5', isActive ? 'text-primary-foreground' : 'text-muted-foreground')} />
                 <span>{tNav(tab.titleKey)}</span>
               </Link>
             </Button>

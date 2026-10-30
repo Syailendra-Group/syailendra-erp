@@ -6,6 +6,8 @@
 import { odooClient, OdooClient } from './client'
 import { CrmLead, CrmStage, HrAttendance, HrEmployee, StockPicking, StockPickingType, StockQuant } from './types'
 
+import type { OdooDomain, OdooFieldValue } from './types'
+
 export class InventoryService {
   constructor(private client: OdooClient = odooClient) {}
 
@@ -24,7 +26,7 @@ export class InventoryService {
    * Get current physical stock quants on internal locations
    */
   async getStockQuants(options: { limit?: number; productId?: number } = {}): Promise<StockQuant[]> {
-    const domain: unknown[] = [['location_id.usage', '=', 'internal']]
+    const domain: OdooDomain = [['location_id.usage', '=', 'internal']]
     if (options.productId) {
       domain.push(['product_id', '=', options.productId])
     }
@@ -44,7 +46,7 @@ export class InventoryService {
       limit?: number
     } = {}
   ): Promise<StockPicking[]> {
-    const domain: unknown[] = []
+    const domain: OdooDomain = []
     if (options.typeCode) {
       domain.push(['picking_type_code', '=', options.typeCode])
     }
@@ -63,7 +65,7 @@ export class InventoryService {
    * Validate a warehouse transfer directly (Done state)
    */
   async validateTransfer(pickingId: number): Promise<boolean> {
-    const res = await this.client.executeKw<boolean | Record<string, unknown>>('stock.picking', 'button_validate', [pickingId])
+    const res = await this.client.executeKw<boolean | Record<string, OdooFieldValue>>('stock.picking', 'button_validate', [pickingId])
     return res === true
   }
 }
@@ -111,7 +113,7 @@ export class AttendanceService {
    * Get attendance log history
    */
   async getAttendanceHistory(employeeId?: number, limit = 30): Promise<HrAttendance[]> {
-    const domain: unknown[] = []
+    const domain: OdooDomain = []
     if (employeeId) {
       domain.push(['employee_id', '=', employeeId])
     }

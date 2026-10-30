@@ -5,6 +5,7 @@ import { revalidatePath } from 'next/cache'
 import { odoo } from '@/lib/odoo'
 import { distillerFormSchema } from '@/schemas/distiller'
 
+import type { OdooFieldValue } from '@/lib/odoo/types'
 import type { DistillerFormValues } from '@/schemas/distiller'
 
 export interface DistillerRecord {
@@ -28,7 +29,7 @@ export interface DistillerRecord {
 
 export async function getDistillersAction(): Promise<{ distillers: DistillerRecord[] }> {
   try {
-    const records = await odoo.client.searchRead<Record<string, unknown>>(
+    const records = await odoo.client.searchRead<Record<string, OdooFieldValue>>(
       'res.partner',
       [['ref', 'like', 'DST%']],
       ['id', 'ref', 'name', 'street', 'city', 'partner_latitude', 'partner_longitude', 'phone', 'comment', 'active'],
@@ -116,7 +117,7 @@ export async function saveDistillerAction(values: DistillerFormValues): Promise<
       .filter(Boolean)
       .join(' | ')
 
-    const payload: Record<string, unknown> = {
+    const payload: Record<string, OdooFieldValue> = {
       ref,
       name,
       street,

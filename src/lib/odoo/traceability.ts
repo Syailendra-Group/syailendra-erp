@@ -16,7 +16,32 @@ import {
   TraceEntityType
 } from './types'
 
-function extractLotMetadata(lot: StockLot): Record<string, unknown> {
+import type { OdooDomain, OdooFieldValue } from './types'
+
+function parseActiveCompounds(val: OdooFieldValue): Array<{ compound: string; percentage: number }> | undefined {
+  if (!Array.isArray(val)) return undefined
+  return val.map((item) => {
+    const obj = item && typeof item === 'object' ? (item as Record<string, OdooFieldValue>) : {}
+    return {
+      compound: String(obj.compound || ''),
+      percentage: Number(obj.percentage || 0)
+    }
+  })
+}
+
+function parseOrganoleptic(val: OdooFieldValue): { color: string; clarity: string; odor: string } | undefined {
+  if (val && typeof val === 'object' && !Array.isArray(val)) {
+    const obj = val as Record<string, OdooFieldValue>
+    return {
+      color: String(obj.color || 'Deep Amber Brown'),
+      clarity: String(obj.clarity || 'Clear viscous liquid'),
+      odor: String(obj.odor || 'Rich balsamic, woody, sweet smoky')
+    }
+  }
+  return undefined
+}
+
+function extractLotMetadata(lot: StockLot): Record<string, OdooFieldValue> {
   if (
     lot.lot_properties &&
     typeof lot.lot_properties === 'object' &&
@@ -29,7 +54,7 @@ function extractLotMetadata(lot: StockLot): Record<string, unknown> {
     const trimmed = lot.note.trim()
     if (trimmed.startsWith('{') && trimmed.endsWith('}')) {
       try {
-        return JSON.parse(trimmed) as Record<string, unknown>
+        return JSON.parse(trimmed) as Record<string, OdooFieldValue>
       } catch {
         // fallback
       }
@@ -60,7 +85,7 @@ export class TraceabilityService {
 
     const lot = lots[0]
     const props = extractLotMetadata(lot)
-    const upstream = (props.upstream_genealogy || {}) as Record<string, unknown>
+    const upstream = (props.upstream_genealogy || {}) as Record<string, OdooFieldValue>
 
     return {
       lot_code: lot.name,
@@ -73,12 +98,12 @@ export class TraceabilityService {
       harvest_date: String(upstream.harvest_date || 'September 2026'),
       distillation_method: String(upstream.distillation_method || 'Steam Distillation (Uap Langsung)'),
       cupping_or_grade_score: Number(props.cupping_score || 88.5),
-      active_compounds: (props.main_active_compounds as Array<{ compound: string; percentage: number }>) || [
+      active_compounds: parseActiveCompounds(props.main_active_compounds) || [
         { compound: 'Agarospirol', percentage: 14.5 },
         { compound: 'Jinkoh-eremol', percentage: 11.2 },
         { compound: 'Karanone', percentage: 8.7 }
       ],
-      organoleptic: (props.organoleptic as { color: string; clarity: string; odor: string }) || {
+      organoleptic: parseOrganoleptic(props.organoleptic) || {
         color: 'Deep Amber Brown',
         clarity: 'Clear viscous liquid',
         odor: 'Rich balsamic, woody, sweet smoky'
@@ -143,7 +168,7 @@ export class TraceabilityService {
    * Fetch All Internal Lots with Live Warehouse Location & Quant Balances
    */
   async getInternalLots(options?: { entityType?: TraceEntityType; qcStatus?: string; limit?: number }): Promise<InternalTraceabilityDetail[]> {
-    const domain: unknown[] = []
+    const domain: OdooDomain = []
     const lots = await this.client.searchRead<StockLot>(
       'stock.lot',
       domain,

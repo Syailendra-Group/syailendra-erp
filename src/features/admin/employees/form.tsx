@@ -6,7 +6,7 @@ import { useTranslations } from 'next-intl'
 import { useForm } from 'react-hook-form'
 import { toast } from 'sonner'
 
-import { SelectDropdown } from '@/components/select-dropdown'
+import { SelectForm } from '@/components/form/select-form'
 import { Button } from '@/components/ui/button'
 import { Dialog, DialogContent, DialogDescription, DialogFooter, DialogHeader, DialogTitle } from '@/components/ui/dialog'
 import { Form, FormControl, FormField, FormItem, FormLabel, FormMessage } from '@/components/ui/form'
@@ -127,11 +127,10 @@ export function EmployeesActionDialog({ currentRow, open, onOpenChange, departme
                   render={({ field }) => (
                     <FormItem className="space-y-1.5">
                       <FormLabel className="text-xs font-semibold">{tAdmin('fields.department')}</FormLabel>
-                      <SelectDropdown
-                        defaultValue={field.value ? String(field.value) : undefined}
+                      <SelectForm
+                        value={field.value ? String(field.value) : undefined}
                         onValueChange={(val) => field.onChange(Number(val))}
                         placeholder={tAdmin('fields.department_placeholder')}
-                        className="h-8 text-xs"
                         items={departments.map((d) => ({
                           label: d.name,
                           value: String(d.id)

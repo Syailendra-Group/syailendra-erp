@@ -5,6 +5,7 @@ import { revalidatePath } from 'next/cache'
 import { odoo } from '@/lib/odoo'
 import { farmerFormSchema } from '@/schemas/farmer'
 
+import type { OdooFieldValue } from '@/lib/odoo/types'
 import type { FarmerFormValues } from '@/schemas/farmer'
 
 export interface FarmerRecord {
@@ -27,7 +28,7 @@ export interface FarmerRecord {
 
 export async function getFarmersAction(): Promise<{ farmers: FarmerRecord[] }> {
   try {
-    const records = await odoo.client.searchRead<Record<string, unknown>>(
+    const records = await odoo.client.searchRead<Record<string, OdooFieldValue>>(
       'res.partner',
       [['ref', 'like', 'FMR%']],
       ['id', 'ref', 'name', 'vat', 'street', 'city', 'partner_latitude', 'partner_longitude', 'phone', 'email', 'comment', 'active'],
@@ -76,7 +77,7 @@ export async function getFarmersAction(): Promise<{ farmers: FarmerRecord[] }> {
 
 export async function getFarmerByIdAction(id: number): Promise<FarmerRecord | null> {
   try {
-    const records = await odoo.client.searchRead<Record<string, unknown>>(
+    const records = await odoo.client.searchRead<Record<string, OdooFieldValue>>(
       'res.partner',
       [['id', '=', id]],
       ['id', 'ref', 'name', 'vat', 'street', 'city', 'partner_latitude', 'partner_longitude', 'phone', 'email', 'comment', 'active']
@@ -139,7 +140,7 @@ export async function saveFarmerAction(values: FarmerFormValues): Promise<{ succ
       .filter(Boolean)
       .join(' | ')
 
-    const payload: Record<string, unknown> = {
+    const payload: Record<string, OdooFieldValue> = {
       ref,
       name,
       vat: vat || false,

@@ -3,7 +3,7 @@
  * Syailendra Group ERP
  */
 
-import { JsonRpcPayload, JsonRpcResponse, OdooConfig } from './types'
+import type { JsonRpcPayload, JsonRpcResponse, OdooConfig, OdooDomain, OdooFieldValue, OdooRpcArg } from './types'
 
 export class OdooClient {
   private config: OdooConfig
@@ -23,9 +23,9 @@ export class OdooClient {
   /**
    * Execute raw JSON-RPC 2.0 POST call
    */
-  async rpc<T = unknown>(service: 'common' | 'object', method: string, args: unknown[]): Promise<T> {
+  async rpc<T>(service: 'common' | 'object', method: string, args: OdooRpcArg[]): Promise<T> {
     const url = `${this.config.baseUrl}/jsonrpc`
-    const payload: JsonRpcPayload<unknown[]> = {
+    const payload: JsonRpcPayload<OdooRpcArg[]> = {
       jsonrpc: '2.0',
       method: 'call',
       params: {
@@ -49,7 +49,7 @@ export class OdooClient {
       throw new Error(`Odoo HTTP Error: ${res.status} ${res.statusText}`)
     }
 
-    const data: JsonRpcResponse<T> = (await res.json()) as JsonRpcResponse<T>
+    const data: JsonRpcResponse<OdooFieldValue> = (await res.json()) as JsonRpcResponse<OdooFieldValue>
     if (data.error) {
       const errMsg = data.error.data?.message || data.error.message || 'Unknown Odoo RPC error'
       throw new Error(`Odoo RPC [${service}.${method}]: ${errMsg}`)
@@ -92,9 +92,9 @@ export class OdooClient {
   /**
    * Execute ORM method via object.execute_kw
    */
-  async executeKw<T = unknown>(model: string, method: string, args: unknown[] = [], kwargs: Record<string, unknown> = {}): Promise<T> {
+  async executeKw<T>(model: string, method: string, args: OdooRpcArg[] = [], kwargs: Record<string, OdooFieldValue> = {}): Promise<T> {
     const uid = await this.authenticate()
-    const secret = this.config.apiKey || this.config.password
+    const secret = this.config.apiKey || this.config.password || ''
 
     return this.rpc<T>('object', 'execute_kw', [this.config.db, uid, secret, model, method, args, kwargs])
   }
@@ -102,9 +102,9 @@ export class OdooClient {
   /**
    * Universal search_read query wrapper
    */
-  async searchRead<T = unknown>(
+  async searchRead<T>(
     model: string,
-    domain: unknown[] = [],
+    domain: OdooDomain = [],
     fields: string[] = [],
     options: { offset?: number; limit?: number; order?: string } = {}
   ): Promise<T[]> {
@@ -119,14 +119,14 @@ export class OdooClient {
   /**
    * Create a new record in model
    */
-  async create<T = number>(model: string, values: Record<string, unknown>): Promise<T> {
+  async create<T = number>(model: string, values: Record<string, OdooFieldValue>): Promise<T> {
     return this.executeKw<T>(model, 'create', [values])
   }
 
   /**
    * Update existing record(s) in model
    */
-  async write(model: string, ids: number[], values: Record<string, unknown>): Promise<boolean> {
+  async write(model: string, ids: number[], values: Record<string, OdooFieldValue>): Promise<boolean> {
     return this.executeKw<boolean>(model, 'write', [ids, values])
   }
 

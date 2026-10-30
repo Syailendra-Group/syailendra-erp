@@ -8,6 +8,7 @@ import { createSession, destroySession } from '@/lib/auth/session'
 import { odoo } from '@/lib/odoo'
 import { loginSchema } from '@/schemas/auth'
 
+import type { OdooFieldValue } from '@/lib/odoo/types'
 import type { LoginFormValues } from '@/schemas/auth'
 import type { AuthActionResult, UserSession } from '@/types/auth'
 
@@ -35,7 +36,7 @@ export async function loginAction(values: LoginFormValues): Promise<AuthActionRe
     }
 
     // 2. Query user details and group assignments
-    const userRecords = await odoo.client.searchRead<Record<string, unknown>>(
+    const userRecords = await odoo.client.searchRead<Record<string, OdooFieldValue>>(
       'res.users',
       [['id', '=', uid]],
       ['name', 'login', 'company_id', 'groups_id']
@@ -70,7 +71,7 @@ export async function loginAction(values: LoginFormValues): Promise<AuthActionRe
       success: true,
       data: session
     }
-  } catch (err: unknown) {
+  } catch (err) {
     const message = err instanceof Error ? err.message : 'Authentication failed'
     return {
       success: false,

@@ -8,7 +8,7 @@ import { useForm } from 'react-hook-form'
 import { toast } from 'sonner'
 
 import { FormFieldWrapper } from '@/components/form/form-field-wrapper'
-import { SelectDropdown } from '@/components/select-dropdown'
+import { SelectForm } from '@/components/form/select-form'
 import { Button } from '@/components/ui/button'
 import { Dialog, DialogContent, DialogDescription, DialogFooter, DialogHeader, DialogTitle } from '@/components/ui/dialog'
 import { Input } from '@/components/ui/input'
@@ -17,6 +17,7 @@ import { distillerFormSchema } from '@/schemas/distiller'
 
 import { saveDistillerAction } from './actions'
 import { useDistillers } from './context'
+import { getDistillerOptions } from './options'
 
 import type { DistillerFormValues } from '@/schemas/distiller'
 import type { ReactElement } from 'react'
@@ -95,6 +96,13 @@ export function DistillersActionDialog(): ReactElement {
     }
   }, [currentRow, isEdit, open, reset])
 
+  const currentMethod = watch('method')
+  const currentMaterial = watch('boiler_material')
+  const currentOwnership = watch('ownership')
+  const currentSanitation = watch('sanitation_status')
+
+  const { methodOptions, materialOptions, ownershipOptions, sanitationOptions } = getDistillerOptions(tTrace)
+
   const onSubmit = (values: DistillerFormValues) => {
     startTransition(async () => {
       const res = await saveDistillerAction(values)
@@ -164,49 +172,34 @@ export function DistillersActionDialog(): ReactElement {
               </FormFieldWrapper>
 
               <FormFieldWrapper id="method" label={tTrace('fields.method')} required error={errors.method?.message}>
-                <SelectDropdown
-                  value={watch('method')}
+                <SelectForm
+                  value={currentMethod}
                   onValueChange={(val) => setValue('method', val, { shouldValidate: true })}
                   placeholder={tTrace('fields.methodPlaceholder')}
                   disabled={isPending}
-                  className="h-8"
-                  items={[
-                    { label: tTrace('methods.steam'), value: 'steam' },
-                    { label: tTrace('methods.hydro'), value: 'hydro' },
-                    { label: tTrace('methods.water_steam'), value: 'water_steam' },
-                    { label: tTrace('methods.cold_pressed'), value: 'cold_pressed' }
-                  ]}
+                  items={methodOptions}
                 />
               </FormFieldWrapper>
             </div>
 
             <div className="grid grid-cols-1 gap-3 sm:grid-cols-2">
               <FormFieldWrapper id="boiler_material" label={tTrace('fields.material')}>
-                <SelectDropdown
-                  value={watch('boiler_material')}
+                <SelectForm
+                  value={currentMaterial}
                   onValueChange={(val) => setValue('boiler_material', val, { shouldValidate: true })}
                   placeholder={tTrace('fields.materialPlaceholder')}
                   disabled={isPending}
-                  className="h-8"
-                  items={[
-                    { label: tTrace('materials.sus316'), value: 'sus316' },
-                    { label: tTrace('materials.sus304'), value: 'sus304' },
-                    { label: tTrace('materials.copper'), value: 'copper' }
-                  ]}
+                  items={materialOptions}
                 />
               </FormFieldWrapper>
 
               <FormFieldWrapper id="ownership" label={tTrace('fields.ownership')}>
-                <SelectDropdown
-                  value={watch('ownership')}
+                <SelectForm
+                  value={currentOwnership}
                   onValueChange={(val) => setValue('ownership', val, { shouldValidate: true })}
                   placeholder={tTrace('fields.ownershipPlaceholder')}
                   disabled={isPending}
-                  className="h-8"
-                  items={[
-                    { label: tTrace('ownership.internal'), value: 'internal' },
-                    { label: tTrace('ownership.partner'), value: 'partner' }
-                  ]}
+                  items={ownershipOptions}
                 />
               </FormFieldWrapper>
             </div>
@@ -250,17 +243,12 @@ export function DistillersActionDialog(): ReactElement {
             </div>
 
             <FormFieldWrapper id="sanitation_status" label={tTrace('fields.sanitation')}>
-              <SelectDropdown
-                value={watch('sanitation_status')}
+              <SelectForm
+                value={currentSanitation}
                 onValueChange={(val) => setValue('sanitation_status', val, { shouldValidate: true })}
                 placeholder={tTrace('fields.sanitationPlaceholder')}
                 disabled={isPending}
-                className="h-8"
-                items={[
-                  { label: tTrace('sanitation.passed'), value: 'passed' },
-                  { label: tTrace('sanitation.pending'), value: 'pending' },
-                  { label: tTrace('sanitation.cleaning'), value: 'cleaning' }
-                ]}
+                items={sanitationOptions}
               />
             </FormFieldWrapper>
 

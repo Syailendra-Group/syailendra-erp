@@ -8,7 +8,7 @@ import { useForm } from 'react-hook-form'
 import { toast } from 'sonner'
 
 import { FormFieldWrapper } from '@/components/form/form-field-wrapper'
-import { SelectDropdown } from '@/components/select-dropdown'
+import { SelectForm } from '@/components/form/select-form'
 import { Button } from '@/components/ui/button'
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card'
 import { Input } from '@/components/ui/input'
@@ -17,6 +17,7 @@ import { Link, useRouter } from '@/i18n/navigation'
 import { farmerFormSchema } from '@/schemas/farmer'
 
 import { saveFarmerAction } from './actions'
+import { getCommodityOptions, getFarmingMethodOptions } from './options'
 
 import type { FarmerFormValues } from '@/schemas/farmer'
 import type { ReactElement } from 'react'
@@ -61,6 +62,11 @@ export function FarmerForm({ initialData }: FarmerFormProps): ReactElement {
 
   const currentLat = watch('partner_latitude')
   const currentLng = watch('partner_longitude')
+  const currentCommodity = watch('commodity')
+  const currentMethod = watch('farming_method')
+
+  const commodityOptions = getCommodityOptions(tTrace)
+  const methodOptions = getFarmingMethodOptions(tTrace)
 
   const onSubmit = (values: FarmerFormValues) => {
     startTransition(async () => {
@@ -171,31 +177,20 @@ export function FarmerForm({ initialData }: FarmerFormProps): ReactElement {
           </CardHeader>
           <CardContent className="grid grid-cols-1 gap-3.5 sm:grid-cols-3">
             <FormFieldWrapper id="commodity" label={tTrace('fields.commodity')} required error={errors.commodity?.message}>
-              <SelectDropdown
-                value={watch('commodity')}
+              <SelectForm
+                value={currentCommodity}
                 onValueChange={(val) => setValue('commodity', val, { shouldValidate: true })}
                 disabled={isPending}
-                className="h-8"
-                items={[
-                  { label: tTrace('commodities.gaharu'), value: 'gaharu' },
-                  { label: tTrace('commodities.nilam'), value: 'nilam' },
-                  { label: tTrace('commodities.serai'), value: 'serai' },
-                  { label: tTrace('commodities.kopi'), value: 'kopi' },
-                  { label: tTrace('commodities.cengkeh'), value: 'cengkeh' }
-                ]}
+                items={commodityOptions}
               />
             </FormFieldWrapper>
 
             <FormFieldWrapper id="farming_method" label={tTrace('fields.farmingMethod')}>
-              <SelectDropdown
-                value={watch('farming_method')}
+              <SelectForm
+                value={currentMethod}
                 onValueChange={(val) => setValue('farming_method', val, { shouldValidate: true })}
                 disabled={isPending}
-                className="h-8"
-                items={[
-                  { label: tTrace('methods.organic'), value: 'organic' },
-                  { label: tTrace('methods.conventional'), value: 'conventional' }
-                ]}
+                items={methodOptions}
               />
             </FormFieldWrapper>
 

@@ -3,6 +3,15 @@
  * Syailendra Group ERP
  */
 
+export type OdooPrimitive = string | number | boolean | null | undefined
+export type OdooDomainTuple = [string, string, string | number | boolean | (string | number)[]]
+export type OdooDomain = (OdooDomainTuple | string)[]
+export interface OdooObjectValue {
+  [key: string]: OdooFieldValue
+}
+export type OdooFieldValue = OdooPrimitive | OdooPrimitive[] | OdooObjectValue | OdooObjectValue[]
+export type OdooRpcArg = OdooPrimitive | OdooDomain | Record<string, OdooFieldValue> | number[] | string[] | OdooRpcArg[]
+
 export interface OdooConfig {
   baseUrl: string
   db: string
@@ -11,7 +20,7 @@ export interface OdooConfig {
   apiKey?: string
 }
 
-export interface JsonRpcPayload<T = unknown[]> {
+export interface JsonRpcPayload<T = OdooRpcArg[]> {
   jsonrpc: '2.0'
   method: 'call'
   params: {
@@ -22,7 +31,7 @@ export interface JsonRpcPayload<T = unknown[]> {
   id: number
 }
 
-export interface JsonRpcResponse<T = unknown> {
+export interface JsonRpcResponse<T = OdooFieldValue> {
   jsonrpc: '2.0'
   id: number
   result?: T
@@ -33,7 +42,7 @@ export interface JsonRpcResponse<T = unknown> {
       name?: string
       debug?: string
       message?: string
-      arguments?: unknown[]
+      arguments?: string[]
     }
   }
 }
@@ -120,7 +129,7 @@ export interface StockLot {
   product_id: OdooMany2One
   ref?: string | false
   note?: string | false
-  lot_properties?: Record<string, unknown> | null
+  lot_properties?: Record<string, OdooFieldValue> | null
   create_date: string
 }
 
@@ -161,7 +170,7 @@ export interface InternalTraceabilityDetail {
   on_hand_qty: number
   uom: string
   parent_lots: string[]
-  properties: Record<string, unknown>
+  properties: Record<string, OdooFieldValue>
   create_date: string
 }
 
@@ -172,7 +181,7 @@ export interface GenealogyNode {
   product_name: string
   date?: string
   status?: string
-  details?: Record<string, unknown>
+  details?: Record<string, OdooFieldValue>
   parents?: GenealogyNode[]
 }
 

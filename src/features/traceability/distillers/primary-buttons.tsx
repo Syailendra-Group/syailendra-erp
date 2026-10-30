@@ -16,7 +16,6 @@ export function DistillersPrimaryButtons(): ReactElement {
   return (
     <div className="flex items-center gap-2">
       <Button
-        size="sm"
         className="cursor-pointer gap-1.5 text-xs font-semibold"
         onClick={() => {
           setCurrentRow(null)

@@ -10,17 +10,16 @@ import {
   getSortedRowModel,
   useReactTable
 } from '@tanstack/react-table'
-import { Archive, Edit2, RotateCcw } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 import { toast } from 'sonner'
 
 import { ConfirmDialog } from '@/components/confirm-dialog'
 import { DataTableColumnHeader } from '@/components/data-table/column-header'
 import { DataTablePagination } from '@/components/data-table/pagination'
+import { ActionButton } from '@/components/shared/action-button'
+import { LongText } from '@/components/text/long-text'
 import { Badge } from '@/components/ui/badge'
-import { Button } from '@/components/ui/button'
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '@/components/ui/table'
-import { Tooltip, TooltipContent, TooltipTrigger } from '@/components/ui/tooltip'
 
 import { toggleDepartmentStatusAction } from './actions'
 
@@ -63,7 +62,7 @@ export function DepartmentsTable({ data, onEdit, onRefresh }: DepartmentsTablePr
     {
       accessorKey: 'name',
       header: ({ column }) => <DataTableColumnHeader column={column} title={tAdmin('fields.name')} />,
-      cell: ({ row }) => <span className="text-xs font-semibold">{row.getValue('name')}</span>
+      cell: ({ row }) => <LongText className="max-w-[280px] text-xs font-semibold">{row.getValue('name')}</LongText>
     },
     {
       accessorKey: 'active',
@@ -84,39 +83,12 @@ export function DepartmentsTable({ data, onEdit, onRefresh }: DepartmentsTablePr
         const item = row.original
         return (
           <div className="flex items-center justify-center gap-1">
-            <Tooltip>
-              <TooltipTrigger asChild>
-                <Button
-                  variant="outline"
-                  size="icon"
-                  className="size-7 cursor-pointer border-amber-200 text-amber-600 hover:bg-amber-50 dark:border-amber-900/50 dark:text-amber-400 dark:hover:bg-amber-950/40"
-                  onClick={() => onEdit(item)}
-                >
-                  <Edit2 className="size-3.5" />
-                  <span className="sr-only">{tCommon('actions.edit')}</span>
-                </Button>
-              </TooltipTrigger>
-              <TooltipContent side="top">
-                <p className="text-xs">{tCommon('actions.edit')}</p>
-              </TooltipContent>
-            </Tooltip>
-
-            <Tooltip>
-              <TooltipTrigger asChild>
-                <Button
-                  variant="outline"
-                  size="icon"
-                  className="text-destructive border-destructive/30 hover:bg-destructive/10 dark:border-destructive/40 dark:hover:bg-destructive/20 size-7 cursor-pointer"
-                  onClick={() => setArchiveTarget(item)}
-                >
-                  {item.active ? <Archive className="size-3.5" /> : <RotateCcw className="size-3.5" />}
-                  <span className="sr-only">{item.active ? tCommon('actions.archive') : tCommon('actions.restore')}</span>
-                </Button>
-              </TooltipTrigger>
-              <TooltipContent side="top">
-                <p className="text-xs">{item.active ? tCommon('actions.archive') : tCommon('actions.restore')}</p>
-              </TooltipContent>
-            </Tooltip>
+            <ActionButton variant="edit" label={tCommon('actions.edit')} onClick={() => onEdit(item)} />
+            <ActionButton
+              variant={item.active ? 'archive' : 'restore'}
+              label={item.active ? tCommon('actions.archive') : tCommon('actions.restore')}
+              onClick={() => setArchiveTarget(item)}
+            />
           </div>
         )
       }

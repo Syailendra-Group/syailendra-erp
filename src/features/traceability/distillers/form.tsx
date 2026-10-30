@@ -269,7 +269,7 @@ export function DistillersActionDialog(): ReactElement {
           <Button
             type="button"
             variant="outline"
-            size="sm"
+
             onClick={() => {
               reset()
               setOpen(null)
@@ -279,7 +279,7 @@ export function DistillersActionDialog(): ReactElement {
           >
             {tCommon('actions.cancel')}
           </Button>
-          <Button type="submit" form="distiller-form" size="sm" disabled={isPending} className="cursor-pointer font-semibold">
+          <Button type="submit" form="distiller-form" disabled={isPending} className="cursor-pointer font-semibold">
             {isPending && <Loader2 className="mr-1.5 size-3.5 animate-spin" />}
             {isEdit ? tCommon('actions.save') : tTrace('actions.add')}
           </Button>

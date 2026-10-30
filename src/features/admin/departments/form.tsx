@@ -103,7 +103,7 @@ export function DepartmentsActionDialog({ currentRow, open, onOpenChange, onSucc
           <Button
             type="button"
             variant="outline"
-            size="sm"
+
             onClick={() => {
               reset()
               onOpenChange(false)
@@ -112,7 +112,7 @@ export function DepartmentsActionDialog({ currentRow, open, onOpenChange, onSucc
           >
             {tCommon('actions.cancel')}
           </Button>
-          <Button type="submit" form="department-form" size="sm" disabled={isPending} className="cursor-pointer font-semibold">
+          <Button type="submit" form="department-form" disabled={isPending} className="cursor-pointer font-semibold">
             {isPending && <Loader2 className="mr-1.5 size-3.5 animate-spin" />}
             {isEdit ? tCommon('actions.save') : tAdmin('actions.add')}
           </Button>

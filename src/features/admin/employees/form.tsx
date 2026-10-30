@@ -181,10 +181,10 @@ export function EmployeesActionDialog({ currentRow, open, onOpenChange, departme
         </div>
 
         <DialogFooter className="gap-2 sm:gap-0">
-          <Button type="button" variant="outline" size="sm" onClick={() => onOpenChange(false)} disabled={isPending}>
+          <Button type="button" variant="outline" onClick={() => onOpenChange(false)} disabled={isPending}>
             {tCommon('actions.cancel')}
           </Button>
-          <Button type="submit" form="employee-form" size="sm" disabled={isPending}>
+          <Button type="submit" form="employee-form" disabled={isPending}>
             {isPending ? tCommon('actions.loading') : isEdit ? tCommon('actions.save') : tAdmin('actions.add')}
           </Button>
         </DialogFooter>

@@ -22,7 +22,7 @@ export function DataTableRowActions({ row }: DataTableRowActionsProps): ReactEle
   return (
     <div className="flex items-center justify-center gap-1">
       <ActionButton variant="view" label={tCommon('view')} href={`/traceability/farmers/${farmerCode}`} />
-      <ActionButton variant="edit" label={tCommon('edit')} href={`/traceability/farmers/edit/${farmerCode}`} />
+      <ActionButton variant="edit" label={tCommon('edit')} href={`/traceability/farmers/${farmerCode}/edit`} />
       <ActionButton
         variant={row.active ? 'archive' : 'restore'}
         label={row.active ? tCommon('archive') : tCommon('restore')}

@@ -48,7 +48,7 @@ export function FarmerDetail({ farmer }: FarmerDetailProps): ReactElement {
         }
         actions={
           <Button asChild className="gap-2 font-semibold">
-            <Link href={`/traceability/farmers/edit/${farmerCode}`}>
+            <Link href={`/traceability/farmers/${farmerCode}/edit`}>
               <Edit2 className="size-4" />
               <span>{tTrace('detail.edit')}</span>
             </Link>

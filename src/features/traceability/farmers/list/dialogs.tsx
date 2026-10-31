@@ -6,8 +6,8 @@ import { toast } from 'sonner'
 
 import { ConfirmDialog } from '@/components/confirm-dialog'
 
-import { toggleFarmerStatusAction } from './actions'
-import { useFarmers } from './context'
+import { toggleFarmerStatusAction } from '../actions'
+import { useFarmers } from '../context'
 
 import type { ReactElement } from 'react'
 

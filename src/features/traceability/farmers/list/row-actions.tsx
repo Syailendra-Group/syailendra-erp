@@ -4,10 +4,10 @@ import { useTranslations } from 'next-intl'
 
 import { ActionButton } from '@/components/shared/action-button'
 
-import { useFarmers } from './context'
+import { useFarmers } from '../context'
 
 import type { ReactElement } from 'react'
-import type { FarmerRecord } from './actions'
+import type { FarmerRecord } from '../actions'
 
 export interface DataTableRowActionsProps {
   row: FarmerRecord

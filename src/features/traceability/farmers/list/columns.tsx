@@ -8,7 +8,7 @@ import { Badge } from '@/components/ui/badge'
 import { DataTableRowActions } from './row-actions'
 
 import type { ColumnDef } from '@tanstack/react-table'
-import type { FarmerRecord } from './actions'
+import type { FarmerRecord } from '../actions'
 
 export interface GetColumnsOptions {
   tTrace: (key: string) => string

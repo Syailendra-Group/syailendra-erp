@@ -21,7 +21,7 @@ import { getColumns } from './columns'
 
 import type { ColumnFiltersState, SortingState, VisibilityState } from '@tanstack/react-table'
 import type { ReactElement } from 'react'
-import type { FarmerRecord } from './actions'
+import type { FarmerRecord } from '../actions'
 
 export interface FarmersTableProps {
   data: FarmerRecord[]

@@ -4,17 +4,14 @@ import { useCallback, useEffect, useState, useTransition } from 'react'
 import { Users } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 
-import { getFarmersAction } from './actions'
-import { FarmersProvider } from './context'
+import { getFarmersAction } from '../actions'
+import { FarmersProvider } from '../context'
 import { FarmersDialogs } from './dialogs'
 import { FarmersPrimaryButtons } from './primary-buttons'
 import { FarmersTable } from './table'
 
 import type { ReactElement } from 'react'
-import type { FarmerRecord } from './actions'
-
-export { FarmerDetail } from './detail'
-export { FarmerForm } from './form'
+import type { FarmerRecord } from '../actions'
 
 export interface FarmersFeatureProps {
   initialData?: FarmerRecord[]

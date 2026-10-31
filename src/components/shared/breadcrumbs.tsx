@@ -6,6 +6,7 @@ import { useTranslations } from 'next-intl'
 
 import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbPage, BreadcrumbSeparator } from '@/components/ui/breadcrumb'
 import { Link, usePathname } from '@/i18n/navigation'
+import { cn } from '@/lib/utils'
 
 import type { ReactElement } from 'react'
 
@@ -52,6 +53,7 @@ export function Breadcrumbs({ items, homeLabel }: BreadcrumbsProps): ReactElemen
                   <BreadcrumbSeparator>
                     <ChevronRight className="h-3 w-3" />
                   </BreadcrumbSeparator>
+
                   <BreadcrumbItem>
                     {isLast || !item.href ? (
                       <BreadcrumbPage className="text-foreground font-semibold">{item.label}</BreadcrumbPage>
@@ -73,9 +75,12 @@ export function Breadcrumbs({ items, homeLabel }: BreadcrumbsProps): ReactElemen
 
               let label = segment
               const isNumeric = /^[0-9]+$/.test(segment)
+              const isCode = /^[A-Z]{2,4}-[A-Z0-9-]+$/i.test(segment)
 
               if (isNumeric) {
                 label = `#${segment}`
+              } else if (isCode) {
+                label = segment.toUpperCase()
               } else {
                 try {
                   label = tNav(labelKey)
@@ -89,12 +94,13 @@ export function Breadcrumbs({ items, homeLabel }: BreadcrumbsProps): ReactElemen
                   <BreadcrumbSeparator>
                     <ChevronRight className="h-3 w-3" />
                   </BreadcrumbSeparator>
+
                   <BreadcrumbItem>
                     {isLast ? (
-                      <BreadcrumbPage className="text-foreground font-semibold capitalize">{label}</BreadcrumbPage>
+                      <BreadcrumbPage className={cn('text-foreground font-semibold', !isCode && 'capitalize')}>{label}</BreadcrumbPage>
                     ) : (
                       <BreadcrumbLink asChild>
-                        <Link href={href} className="hover:text-foreground capitalize transition-colors">
+                        <Link href={href} className={cn('hover:text-foreground transition-colors', !isCode && 'capitalize')}>
                           {label}
                         </Link>
                       </BreadcrumbLink>

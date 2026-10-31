@@ -23,6 +23,7 @@ export function NavGroup({ group }: NavGroupProps): ReactElement {
       <SidebarGroupLabel className="text-muted-foreground px-3 text-[11px] font-semibold tracking-wider uppercase">
         {tNav(group.titleKey)}
       </SidebarGroupLabel>
+
       <SidebarMenu className="gap-1 px-1">
         {group.items.map((item) => {
           const Icon = item.icon

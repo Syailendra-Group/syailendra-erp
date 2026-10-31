@@ -194,6 +194,9 @@
       "restoreTitle": "Activate Distiller Unit",
       "archiveDesc": "Are you sure you want to deactivate distiller unit {name}? Distillation batch history remains securely tracked.",
       "restoreDesc": "Are you sure you want to reactivate distiller unit {name}?"
+    },
+    "actions": {
+      "add": "Register Distiller Unit"
     }
   }
 }

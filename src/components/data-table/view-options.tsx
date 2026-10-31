@@ -31,7 +31,8 @@ export function DataTableViewOptions<TData>({ table }: DataTableViewOptionsProps
           {tCommon('toggleColumns')}
         </Button>
       </DropdownMenuTrigger>
-      <DropdownMenuContent align="end" className="w-[150px]">
+
+      <DropdownMenuContent align="end" className="w-37.5">
         <DropdownMenuLabel className="text-xs">{tCommon('toggleColumns')}</DropdownMenuLabel>
         <DropdownMenuSeparator />
         {table

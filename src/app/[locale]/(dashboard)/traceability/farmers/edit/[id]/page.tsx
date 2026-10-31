@@ -17,10 +17,9 @@ export interface EditFarmerPageProps {
 
 export default async function EditFarmerPage({ params }: EditFarmerPageProps): Promise<ReactElement> {
   const { id } = await params
-  const farmerId = parseInt(id, 10)
-  if (isNaN(farmerId)) notFound()
+  if (!id) notFound()
 
-  const farmer = await getFarmerByIdAction(farmerId)
+  const farmer = await getFarmerByIdAction(id)
   if (!farmer) notFound()
 
   return <FarmerForm initialData={farmer} />

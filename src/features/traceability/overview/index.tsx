@@ -4,6 +4,7 @@ import { type ReactElement } from 'react'
 import { ArrowRight, CheckCircle2, GitBranch, Layers, QrCode, RotateCcw, ShieldCheck, Tag } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 
+import { PageHeader } from '@/components/shared/page-header'
 import { QuickActions } from '@/components/shared/quick-actions'
 import { SummaryCardGrid } from '@/components/shared/summary-card'
 import { Badge } from '@/components/ui/badge'
@@ -41,20 +42,16 @@ export function TraceabilityOverview(): ReactElement {
 
   return (
     <div className="space-y-4 sm:space-y-6">
-      <div className="flex flex-col gap-2 sm:flex-row sm:items-center sm:justify-between">
-        <div className="flex items-center gap-2.5 sm:gap-3">
-          <div className="bg-primary/10 text-primary rounded-lg p-2">
-            <Layers className="size-4 sm:size-5" />
-          </div>
-          <div>
-            <h1 className="text-xl font-bold tracking-tight sm:text-2xl">Traceability & Silsilah Batch</h1>
-            <p className="text-muted-foreground text-xs sm:text-sm">Engine penelusuran silsilah 7-lapisan Farm-to-Consumer DDistillers</p>
-          </div>
-        </div>
-        <Badge variant="outline" className="border-primary/20 bg-primary/10 text-primary text-[11px] sm:text-xs">
-          <CheckCircle2 className="mr-1 size-3 sm:size-3.5" /> ISO 22000 & GMP Ready
-        </Badge>
-      </div>
+      <PageHeader
+        title="Traceability & Silsilah Batch"
+        description="Engine penelusuran silsilah 7-lapisan Farm-to-Consumer DDistillers"
+        icon={Layers}
+        actions={
+          <Badge variant="outline" className="border-primary/20 bg-primary/10 text-primary text-[11px] sm:text-xs">
+            <CheckCircle2 className="mr-1 size-3 sm:size-3.5" /> ISO 22000 & GMP Ready
+          </Badge>
+        }
+      />
 
       <SummaryCardGrid items={kpis} />
 

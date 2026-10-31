@@ -39,7 +39,8 @@
     "hide": "Hide",
     "actions": "Actions",
     "noResults": "No results found.",
-    "selected": "selected"
+    "selected": "selected",
+    "clearFilters": "Clear filters"
   },
   "pagination": {
     "totalRows": "Total {total} rows",
@@ -91,5 +92,11 @@
     "crm": "Commercial Actions:",
     "hris": "HR & Attendance Actions:",
     "settings": "System Governance Actions:"
+  },
+  "theme": {
+    "toggle": "Toggle theme",
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System"
   }
 }

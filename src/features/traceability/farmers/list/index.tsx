@@ -4,6 +4,8 @@ import { useCallback, useEffect, useState, useTransition } from 'react'
 import { Users } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 
+import { PageHeader } from '@/components/shared/page-header'
+
 import { getFarmersAction } from '../actions'
 import { FarmersProvider } from '../context'
 import { FarmersDialogs } from './dialogs'
@@ -38,20 +40,7 @@ export function FarmersFeature({ initialData = [] }: FarmersFeatureProps): React
   return (
     <FarmersProvider refreshData={refreshData}>
       <div className="space-y-4 sm:space-y-6">
-        {/* Header */}
-        <div className="flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
-          <div className="flex items-center gap-2.5 sm:gap-3">
-            <div className="bg-primary/10 text-primary rounded-lg p-2">
-              <Users className="size-4 sm:size-5" />
-            </div>
-            <div>
-              <h1 className="text-xl font-bold tracking-tight sm:text-2xl">{tTrace('title')}</h1>
-              <p className="text-muted-foreground text-xs sm:text-sm">{tTrace('subtitle')}</p>
-            </div>
-          </div>
-
-          <FarmersPrimaryButtons />
-        </div>
+        <PageHeader title={tTrace('title')} description={tTrace('subtitle')} icon={Users} actions={<FarmersPrimaryButtons />} />
 
         {/* Data Table */}
         <FarmersTable data={data} />

@@ -39,7 +39,8 @@
     "hide": "Sembunyikan",
     "actions": "Aksi",
     "noResults": "Tidak ada hasil ditemukan.",
-    "selected": "dipilih"
+    "selected": "dipilih",
+    "clearFilters": "Hapus filter"
   },
   "pagination": {
     "totalRows": "Total {total} data",
@@ -91,5 +92,11 @@
     "crm": "Aksi Komersial & Sampel:",
     "hris": "Aksi SDM & Presensi:",
     "settings": "Aksi Administrasi Sistem:"
+  },
+  "theme": {
+    "toggle": "Ganti tema tampilan",
+    "light": "Terang",
+    "dark": "Gelap",
+    "system": "Sistem"
   }
 }

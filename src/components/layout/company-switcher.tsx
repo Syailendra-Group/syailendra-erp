@@ -37,6 +37,7 @@ export function CompanySwitcher(): ReactElement {
               <ChevronsUpDown className="ml-auto" />
             </SidebarMenuButton>
           </DropdownMenuTrigger>
+
           <DropdownMenuContent className="w-(--radix-dropdown-menu-trigger-width) min-w-56 rounded-lg" align="start" side="bottom" sideOffset={4}>
             <DropdownMenuLabel className="text-muted-foreground text-xs tracking-wider uppercase">{tCommon('multiUnit')}</DropdownMenuLabel>
             <DropdownMenuItem className="cursor-pointer gap-2 p-2">
@@ -46,7 +47,9 @@ export function CompanySwitcher(): ReactElement {
               <span className="font-medium">{tCommon('subsidiary')}</span>
               <Check className="text-primary ml-auto size-4" />
             </DropdownMenuItem>
+
             <DropdownMenuSeparator />
+
             <div className="text-muted-foreground p-2 text-[11px] leading-relaxed">{tCommon('connectionNotice')}</div>
           </DropdownMenuContent>
         </DropdownMenu>

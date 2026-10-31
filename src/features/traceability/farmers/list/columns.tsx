@@ -45,7 +45,7 @@ export function getColumns({ tTrace, tCommon }: GetColumnsOptions): ColumnDef<Fa
         return (
           <div className="text-xs">
             <span className="text-foreground font-medium">{f.city}</span>
-            <span className="text-muted-foreground block max-w-[180px] truncate text-[11px]">{f.street}</span>
+            <span className="text-muted-foreground block max-w-45 truncate text-[11px]">{f.street}</span>
           </div>
         )
       }

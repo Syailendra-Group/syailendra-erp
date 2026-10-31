@@ -20,7 +20,7 @@ export function Header({ className, children, ...props }: HeaderProps): ReactEle
   return (
     <header
       className={cn(
-        'border-border/40 dark:bg-background/85 dark:supports-[backdrop-filter]:bg-background/75 sticky top-0 z-40 flex h-16 w-full items-center border-b bg-white/85 backdrop-blur-md transition-colors supports-[backdrop-filter]:bg-white/75',
+        'border-border/40 dark:bg-background/85 dark:supports-backdrop-filter:bg-background/75 sticky top-0 z-40 flex h-16 w-full items-center border-b bg-white/85 backdrop-blur-md transition-colors supports-backdrop-filter:bg-white/75',
         className
       )}
       {...props}

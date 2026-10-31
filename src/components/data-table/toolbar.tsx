@@ -39,7 +39,7 @@ export function DataTableToolbar<TData>({ table, searchPlaceholder, filters = []
           placeholder={searchPlaceholder || tCommon('search')}
           value={(table.getState().globalFilter as string) ?? ''}
           onChange={(event) => table.setGlobalFilter(event.target.value)}
-          className="dark:bg-card h-8 w-full bg-white text-xs sm:w-[180px] lg:w-[250px]"
+          className="dark:bg-card h-8 w-full bg-white text-xs sm:w-45 lg:w-62.5"
         />
 
         {filters.map((filter) => {

@@ -2,23 +2,23 @@
 
 import { useTransition } from 'react'
 import { zodResolver } from '@hookform/resolvers/zod'
-import { ExternalLink, Loader2, MapPin, Save, ShieldCheck, Sprout, User } from 'lucide-react'
+import { Loader2, Save } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 import { useForm } from 'react-hook-form'
 import { toast } from 'sonner'
 
-import { FormFieldWrapper } from '@/components/form/form-field-wrapper'
-import { SelectForm } from '@/components/form/select-form'
 import { PageHeader } from '@/components/shared/page-header'
-import { SectionCard } from '@/components/shared/section-card'
 import { Button } from '@/components/ui/button'
-import { Input } from '@/components/ui/input'
-import { Textarea } from '@/components/ui/textarea'
 import { Link, useRouter } from '@/i18n/navigation'
 import { farmerFormSchema } from '@/schemas/farmer'
 
 import { saveFarmerAction } from '../actions'
+import { CommoditySection } from './commodity-section'
+import { IdentitySection } from './identity-section'
+import { LocationSection } from './location-section'
+import { NotesSection } from './notes-section'
 import { getCommodityOptions, getFarmingMethodOptions } from './options'
+import { TerroirSection } from './terroir-section'
 
 import type { FarmerFormValues } from '@/schemas/farmer'
 import type { ReactElement } from 'react'
@@ -45,7 +45,7 @@ export function FarmerForm({ initialData }: FarmerFormProps): ReactElement {
     resolver: zodResolver(farmerFormSchema),
     defaultValues: {
       id: initialData?.id,
-      ref: initialData?.ref || `FMR-JTG-${Math.floor(100 + Math.random() * 900)}`,
+      ref: initialData?.ref || 'FMR-JTG-001',
       name: initialData?.name || '',
       vat: (initialData?.vat as string) || '',
       phone: (initialData?.phone as string) || '',
@@ -60,11 +60,6 @@ export function FarmerForm({ initialData }: FarmerFormProps): ReactElement {
       comment: (initialData?.comment as string) || ''
     }
   })
-
-  const currentLat = watch('partner_latitude')
-  const currentLng = watch('partner_longitude')
-  const currentCommodity = watch('commodity')
-  const currentMethod = watch('farming_method')
 
   const commodityOptions = getCommodityOptions(tTrace)
   const methodOptions = getFarmingMethodOptions(tTrace)
@@ -93,161 +88,30 @@ export function FarmerForm({ initialData }: FarmerFormProps): ReactElement {
       />
 
       <form id="farmer-form" onSubmit={handleSubmit(onSubmit)} className="space-y-5">
-        {/* Responsive 2-Column Grid on Desktop */}
-        <div className="grid grid-cols-1 items-start gap-5 lg:grid-cols-2">
-          {/* Section 1: Identity & Partnership */}
-          <SectionCard
-            title={tTrace('sections.identity')}
-            description={tTrace('sections.identityDesc')}
-            icon={User}
-            contentClassName="grid grid-cols-1 gap-3.5 sm:grid-cols-2"
-          >
-            <FormFieldWrapper id="ref" label={tTrace('fields.ref')}>
-              <Input id="ref" disabled={true} className="font-mono text-xs" {...register('ref')} />
-            </FormFieldWrapper>
+        <div className="grid grid-cols-1 items-stretch gap-5 lg:grid-cols-2">
+          {/* Left Column (Desktop) */}
+          <IdentitySection register={register} errors={errors} isPending={isPending} />
 
-            <FormFieldWrapper id="name" label={tTrace('fields.name')} required error={errors.name?.message}>
-              <Input id="name" placeholder={tTrace('fields.namePlaceholder')} disabled={isPending} {...register('name')} />
-            </FormFieldWrapper>
+          {/* Right Column (Desktop) */}
+          <LocationSection register={register} errors={errors} isPending={isPending} />
 
-            <FormFieldWrapper id="vat" label={tTrace('fields.vat')} error={errors.vat?.message}>
-              <Input
-                id="vat"
-                maxLength={16}
-                placeholder={tTrace('fields.vatPlaceholder')}
-                disabled={isPending}
-                className="font-mono text-xs"
-                {...register('vat')}
-              />
-            </FormFieldWrapper>
+          {/* Left Column (Desktop) */}
+          <CommoditySection
+            register={register}
+            errors={errors}
+            watch={watch}
+            setValue={setValue}
+            commodityOptions={commodityOptions}
+            methodOptions={methodOptions}
+            isPending={isPending}
+          />
 
-            <FormFieldWrapper id="phone" label={tTrace('fields.phone')} error={errors.phone?.message}>
-              <Input
-                id="phone"
-                placeholder={tTrace('fields.phonePlaceholder')}
-                disabled={isPending}
-                className="font-mono text-xs"
-                {...register('phone')}
-              />
-            </FormFieldWrapper>
-          </SectionCard>
+          {/* Right Column (Desktop) */}
+          <TerroirSection register={register} errors={errors} watch={watch} isPending={isPending} />
 
-          {/* Section 2: Domicile & Region */}
-          <SectionCard
-            title={tTrace('sections.location')}
-            description={tTrace('sections.locationDesc')}
-            icon={MapPin}
-            contentClassName="grid grid-cols-1 gap-3.5 sm:grid-cols-2"
-          >
-            <FormFieldWrapper id="street" label={tTrace('fields.street')} required error={errors.street?.message}>
-              <Input id="street" placeholder={tTrace('fields.streetPlaceholder')} disabled={isPending} {...register('street')} />
-            </FormFieldWrapper>
-
-            <FormFieldWrapper id="city" label={tTrace('fields.city')} required error={errors.city?.message}>
-              <Input id="city" placeholder={tTrace('fields.cityPlaceholder')} disabled={isPending} {...register('city')} />
-            </FormFieldWrapper>
-          </SectionCard>
-
-          {/* Section 3: Commodity & Cultivation */}
-          <SectionCard
-            title={tTrace('sections.commodity')}
-            description={tTrace('sections.commodityDesc')}
-            icon={Sprout}
-            contentClassName="grid grid-cols-1 gap-3.5 sm:grid-cols-3"
-          >
-            <FormFieldWrapper id="commodity" label={tTrace('fields.commodity')} required error={errors.commodity?.message}>
-              <SelectForm
-                value={currentCommodity}
-                onValueChange={(val) => setValue('commodity', val, { shouldValidate: true })}
-                disabled={isPending}
-                addNewAction={true}
-                addNewHref="/inventory"
-                addNewLabel={tTrace('actions.addCommodity')}
-                items={commodityOptions}
-              />
-            </FormFieldWrapper>
-
-            <FormFieldWrapper id="farming_method" label={tTrace('fields.farmingMethod')}>
-              <SelectForm
-                value={currentMethod}
-                onValueChange={(val) => setValue('farming_method', val, { shouldValidate: true })}
-                disabled={isPending}
-                items={methodOptions}
-              />
-            </FormFieldWrapper>
-
-            <FormFieldWrapper id="land_area_m2" label={`${tTrace('fields.landArea')} (m²)`} error={errors.land_area_m2?.message}>
-              <Input
-                id="land_area_m2"
-                type="number"
-                placeholder={tTrace('fields.landAreaPlaceholder')}
-                disabled={isPending}
-                className="font-mono text-xs"
-                {...register('land_area_m2', { valueAsNumber: true })}
-              />
-            </FormFieldWrapper>
-          </SectionCard>
-
-          {/* Section 4: Terroir & Geotagging GPS */}
-          <SectionCard
-            title={tTrace('sections.terroir')}
-            description={tTrace('sections.terroirDesc')}
-            icon={ShieldCheck}
-            contentClassName="space-y-3.5"
-          >
-            <div className="grid grid-cols-1 gap-3.5 sm:grid-cols-2">
-              <FormFieldWrapper id="partner_latitude" label="Latitude (-7.xxxx)" required error={errors.partner_latitude?.message}>
-                <Input
-                  id="partner_latitude"
-                  type="number"
-                  step="0.0001"
-                  placeholder="-7.2145"
-                  disabled={isPending}
-                  className="font-mono text-xs"
-                  {...register('partner_latitude', { valueAsNumber: true })}
-                />
-              </FormFieldWrapper>
-
-              <FormFieldWrapper id="partner_longitude" label="Longitude (109.xxxx)" required error={errors.partner_longitude?.message}>
-                <Input
-                  id="partner_longitude"
-                  type="number"
-                  step="0.0001"
-                  placeholder="109.9124"
-                  disabled={isPending}
-                  className="font-mono text-xs"
-                  {...register('partner_longitude', { valueAsNumber: true })}
-                />
-              </FormFieldWrapper>
-            </div>
-
-            {currentLat && currentLng ? (
-              <a
-                href={`https://maps.google.com/?q=${currentLat},${currentLng}`}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-primary hover:text-primary/80 inline-flex items-center gap-1.5 text-xs font-medium transition-colors"
-              >
-                <ExternalLink className="size-3.5" />
-                <span>{tTrace('detail.openGmaps')}</span>
-              </a>
-            ) : null}
-          </SectionCard>
-
-          {/* Section 5: Agronomy Notes (Spanning 2 columns on desktop) */}
+          {/* Full Width Notes Section */}
           <div className="lg:col-span-2">
-            <SectionCard title={tTrace('sections.notes')} description={tTrace('sections.notesDesc')}>
-              <FormFieldWrapper id="comment" label={tTrace('fields.comment')}>
-                <Textarea
-                  id="comment"
-                  rows={3}
-                  placeholder={tTrace('fields.commentPlaceholder')}
-                  disabled={isPending}
-                  className="resize-none"
-                  {...register('comment')}
-                />
-              </FormFieldWrapper>
-            </SectionCard>
+            <NotesSection register={register} isPending={isPending} />
           </div>
         </div>
 

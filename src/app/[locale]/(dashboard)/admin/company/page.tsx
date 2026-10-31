@@ -1,22 +1,25 @@
 'use client'
 
-import * as React from 'react'
-import { Building, Save, ShieldCheck } from 'lucide-react'
+import { useState } from 'react'
+import { Building, Building2, Save, ShieldCheck } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 import { toast } from 'sonner'
 
+import { PageHeader } from '@/components/shared/page-header'
 import { Button } from '@/components/ui/button'
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card'
 import { Field, FieldDescription, FieldGroup, FieldLabel, FieldLegend, FieldSeparator, FieldSet } from '@/components/ui/field'
 import { Input } from '@/components/ui/input'
 import { Textarea } from '@/components/ui/textarea'
 
-export default function CompanySettingsPage(): React.ReactElement {
+import type { FormEvent, ReactElement } from 'react'
+
+export default function CompanySettingsPage(): ReactElement {
   const tAdmin = useTranslations('admin.company')
   const tCommon = useTranslations('common')
-  const [isPending, setIsPending] = React.useState<boolean>(false)
+  const [isPending, setIsPending] = useState<boolean>(false)
 
-  const [formData, setFormData] = React.useState({
+  const [formData, setFormData] = useState({
     name: 'PT Syailendra Group Mandiri',
     tagline: 'Integrated Specialty Commodities & Agribusiness Traceability',
     email: 'official@syailendra.com',
@@ -26,7 +29,7 @@ export default function CompanySettingsPage(): React.ReactElement {
     currency: 'IDR (Rupiah Indonesia)'
   })
 
-  const handleSave = (e: React.FormEvent) => {
+  const handleSave = (e: FormEvent) => {
     e.preventDefault()
     setIsPending(true)
     setTimeout(() => {
@@ -37,25 +40,22 @@ export default function CompanySettingsPage(): React.ReactElement {
 
   return (
     <div className="max-w-4xl space-y-6">
-      <div>
-        <h1 className="text-xl font-bold tracking-tight sm:text-2xl">{tAdmin('title')}</h1>
-        <p className="text-muted-foreground text-xs sm:text-sm">{tAdmin('subtitle')}</p>
-      </div>
+      <PageHeader title={tAdmin('title')} description={tAdmin('subtitle')} icon={Building2} />
 
       <Card className="shadow-xs">
         <CardHeader>
           <div className="flex items-center justify-between">
             <div>
               <CardTitle className="flex items-center gap-2 text-sm font-bold">
-                <Building className="text-primary h-4 w-4" />
-                Identitas Entitas Usaha Odoo 18 (res.company)
+                <Building className="text-primary size-4" />
+                <span>Identitas Entitas Usaha Odoo 18 (res.company)</span>
               </CardTitle>
               <CardDescription className="text-xs">
                 Data resmi yang digunakan pada kop surat jalan, sertifikat QR panen, dan faktur komoditas
               </CardDescription>
             </div>
             <span className="text-primary flex items-center gap-1 text-xs font-semibold">
-              <ShieldCheck className="h-4 w-4" />
+              <ShieldCheck className="size-4" />
               Verified Entity
             </span>
           </div>
@@ -136,8 +136,8 @@ export default function CompanySettingsPage(): React.ReactElement {
               <FieldSeparator />
 
               <Field orientation="horizontal" className="justify-end gap-2 pt-2">
-                <Button type="submit" size="sm" disabled={isPending} className="cursor-pointer gap-2 font-semibold">
-                  <Save className="h-4 w-4" />
+                <Button type="submit" disabled={isPending} className="cursor-pointer gap-2 font-semibold">
+                  <Save className="size-4" />
                   <span>{isPending ? tCommon('status.loading') : tCommon('actions.save')}</span>
                 </Button>
               </Field>

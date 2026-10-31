@@ -1,9 +1,9 @@
 'use client'
 
-import { type ReactElement } from 'react'
 import { Activity, Clock, Layers, LayoutDashboard, Sparkles, Target, Users, Warehouse } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 
+import { PageHeader } from '@/components/shared/page-header'
 import { QuickActions } from '@/components/shared/quick-actions'
 import { SummaryCardGrid } from '@/components/shared/summary-card'
 import { Badge } from '@/components/ui/badge'
@@ -11,6 +11,7 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/com
 
 import type { QuickActionItem } from '@/components/shared/quick-actions'
 import type { SummaryCardItem } from '@/components/shared/summary-card'
+import type { ReactElement } from 'react'
 
 export function MainOverview(): ReactElement {
   const tCommon = useTranslations('common')
@@ -37,25 +38,16 @@ export function MainOverview(): ReactElement {
 
   return (
     <div className="space-y-4 sm:space-y-6">
-      {/* Header */}
-      <div className="flex flex-col gap-2 sm:flex-row sm:items-center sm:justify-between">
-        <div className="flex items-center gap-2.5 sm:gap-3">
-          <div className="bg-primary/10 text-primary rounded-lg p-2">
-            <LayoutDashboard className="size-4 sm:size-5" />
-          </div>
-          <div>
-            <h1 className="text-xl font-bold tracking-tight sm:text-2xl">Ruang Kendali Utama (MAIN)</h1>
-            <p className="text-muted-foreground text-xs sm:text-sm">
-              Pusat operasional eksekutif & ringkasan terintegrasi PT. Syailendra Bumi Investama
-            </p>
-          </div>
-        </div>
-        <div className="flex items-center gap-2">
+      <PageHeader
+        title="Ruang Kendali Utama (MAIN)"
+        description="Pusat operasional eksekutif & ringkasan terintegrasi PT. Syailendra Bumi Investama"
+        icon={LayoutDashboard}
+        actions={
           <Badge variant="outline" className="border-primary/20 bg-primary/10 text-primary text-[11px] sm:text-xs">
             <Sparkles className="mr-1 size-3 sm:size-3.5" /> Live Production
           </Badge>
-        </div>
-      </div>
+        }
+      />
 
       {/* Reusable Compact Summary Cards (Grid 2 Mobile, Grid 4 Desktop) */}
       <SummaryCardGrid items={kpis} />

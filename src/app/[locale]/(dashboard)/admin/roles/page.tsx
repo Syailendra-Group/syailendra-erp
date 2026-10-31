@@ -1,13 +1,15 @@
 'use client'
 
-import * as React from 'react'
-import { CheckCircle2, Users, XCircle } from 'lucide-react'
+import { CheckCircle2, Shield, Users, XCircle } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 
+import { PageHeader } from '@/components/shared/page-header'
 import { Badge } from '@/components/ui/badge'
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card'
 
-export default function RolesPage(): React.ReactElement {
+import type { ReactElement } from 'react'
+
+export default function RolesPage(): ReactElement {
   const tAdmin = useTranslations('admin.roles')
 
   const roles = [
@@ -63,10 +65,7 @@ export default function RolesPage(): React.ReactElement {
 
   return (
     <div className="space-y-6">
-      <div>
-        <h1 className="text-xl font-bold tracking-tight sm:text-2xl">{tAdmin('title')}</h1>
-        <p className="text-muted-foreground text-xs sm:text-sm">{tAdmin('subtitle')}</p>
-      </div>
+      <PageHeader title={tAdmin('title')} description={tAdmin('subtitle')} icon={Shield} />
 
       <div className="grid gap-4 md:grid-cols-2">
         {roles.map((r) => (
@@ -77,7 +76,7 @@ export default function RolesPage(): React.ReactElement {
                   {r.badge}
                 </Badge>
                 <span className="text-muted-foreground flex items-center gap-1 text-xs">
-                  <Users className="h-3.5 w-3.5" />
+                  <Users className="size-3.5" />
                   {r.usersCount} Pengguna
                 </span>
               </div>
@@ -90,34 +89,22 @@ export default function RolesPage(): React.ReactElement {
                 <div className="grid grid-cols-2 gap-2 text-xs">
                   <div className="flex items-center gap-1.5">
                     {r.modules.inventory ? (
-                      <CheckCircle2 className="text-primary h-3.5 w-3.5" />
+                      <CheckCircle2 className="text-primary size-3.5" />
                     ) : (
-                      <XCircle className="text-muted-foreground/40 h-3.5 w-3.5" />
+                      <XCircle className="text-muted-foreground/40 size-3.5" />
                     )}
                     <span>Gudang & Inventaris</span>
                   </div>
                   <div className="flex items-center gap-1.5">
-                    {r.modules.crm ? (
-                      <CheckCircle2 className="text-primary h-3.5 w-3.5" />
-                    ) : (
-                      <XCircle className="text-muted-foreground/40 h-3.5 w-3.5" />
-                    )}
+                    {r.modules.crm ? <CheckCircle2 className="text-primary size-3.5" /> : <XCircle className="text-muted-foreground/40 size-3.5" />}
                     <span>Pipeline CRM B2B</span>
                   </div>
                   <div className="flex items-center gap-1.5">
-                    {r.modules.hr ? (
-                      <CheckCircle2 className="text-primary h-3.5 w-3.5" />
-                    ) : (
-                      <XCircle className="text-muted-foreground/40 h-3.5 w-3.5" />
-                    )}
+                    {r.modules.hr ? <CheckCircle2 className="text-primary size-3.5" /> : <XCircle className="text-muted-foreground/40 size-3.5" />}
                     <span>Presensi & HR</span>
                   </div>
                   <div className="flex items-center gap-1.5">
-                    {r.modules.admin ? (
-                      <CheckCircle2 className="text-primary h-3.5 w-3.5" />
-                    ) : (
-                      <XCircle className="text-muted-foreground/40 h-3.5 w-3.5" />
-                    )}
+                    {r.modules.admin ? <CheckCircle2 className="text-primary size-3.5" /> : <XCircle className="text-muted-foreground/40 size-3.5" />}
                     <span>Tata Kelola Admin</span>
                   </div>
                 </div>

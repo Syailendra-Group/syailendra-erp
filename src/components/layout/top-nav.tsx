@@ -44,6 +44,7 @@ export function TopNav(): ReactElement {
             <span className="sr-only">{tNav('toggleNavMenu')}</span>
           </Button>
         </DropdownMenuTrigger>
+
         <DropdownMenuContent side="bottom" align="start" className="w-48">
           {tabs.map((tab) => {
             const Icon = tab.icon

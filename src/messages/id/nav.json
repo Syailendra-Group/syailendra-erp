@@ -110,5 +110,8 @@
       "farmer": "Petani Mitra"
     }
   },
-  "toggleNavMenu": "Alihkan menu navigasi"
+  "toggleNavMenu": "Alihkan menu navigasi",
+  "tabs": {
+    "inventory": "Inventaris"
+  }
 }

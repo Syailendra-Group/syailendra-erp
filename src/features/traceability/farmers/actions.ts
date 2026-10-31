@@ -5,7 +5,7 @@ import { revalidatePath } from 'next/cache'
 import { odoo } from '@/lib/odoo'
 import { farmerFormSchema } from '@/schemas/farmer'
 
-import type { OdooFieldValue } from '@/lib/odoo/types'
+import type { OdooDomain, OdooFieldValue } from '@/lib/odoo/types'
 import type { FarmerFormValues } from '@/schemas/farmer'
 
 export interface FarmerRecord {
@@ -75,13 +75,25 @@ export async function getFarmersAction(): Promise<{ farmers: FarmerRecord[] }> {
   }
 }
 
-export async function getFarmerByIdAction(id: number): Promise<FarmerRecord | null> {
+export async function getFarmerByIdAction(identifier: number | string): Promise<FarmerRecord | null> {
   try {
-    const records = await odoo.client.searchRead<Record<string, OdooFieldValue>>(
-      'res.partner',
-      [['id', '=', id]],
-      ['id', 'ref', 'name', 'vat', 'street', 'city', 'partner_latitude', 'partner_longitude', 'phone', 'email', 'comment', 'active']
-    )
+    const isNumeric = typeof identifier === 'number' || /^[0-9]+$/.test(String(identifier))
+    const domain: OdooDomain = isNumeric ? [['id', '=', Number(identifier)]] : [['ref', '=', String(identifier)]]
+
+    const records = await odoo.client.searchRead<Record<string, OdooFieldValue>>('res.partner', domain, [
+      'id',
+      'ref',
+      'name',
+      'vat',
+      'street',
+      'city',
+      'partner_latitude',
+      'partner_longitude',
+      'phone',
+      'email',
+      'comment',
+      'active'
+    ])
     const r = records[0]
     if (!r) return null
 

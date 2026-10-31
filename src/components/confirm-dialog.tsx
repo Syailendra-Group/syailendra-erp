@@ -57,7 +57,9 @@ export function ConfirmDialog({
             <div className="text-xs leading-relaxed">{desc}</div>
           </AlertDialogDescription>
         </AlertDialogHeader>
+
         {children}
+
         <AlertDialogFooter>
           <AlertDialogCancel disabled={isLoading}>{resolvedCancelBtnText}</AlertDialogCancel>
           <Button

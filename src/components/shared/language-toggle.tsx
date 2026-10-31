@@ -106,6 +106,7 @@ export function LanguageToggle(): ReactElement {
           <span>{isIndonesian ? 'ID' : 'EN'}</span>
         </Button>
       </DropdownMenuTrigger>
+
       <DropdownMenuContent align="end">
         <DropdownMenuItem
           onClick={() => handleLanguageChange('id')}
@@ -114,6 +115,7 @@ export function LanguageToggle(): ReactElement {
           <FlagId className="h-3.5 w-5 shrink-0" />
           <span>Indonesia</span>
         </DropdownMenuItem>
+
         <DropdownMenuItem
           onClick={() => handleLanguageChange('en')}
           className={`cursor-pointer gap-2.5 ${!isIndonesian ? 'text-primary dark:text-primary font-bold' : ''}`}

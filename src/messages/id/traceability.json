@@ -194,6 +194,9 @@
       "restoreTitle": "Aktifkan Unit Suling",
       "archiveDesc": "Apakah Anda yakin ingin menonaktifkan ketel suling {name}? Riwayat batch suling (DSTB) tetap aman terlacak.",
       "restoreDesc": "Apakah Anda yakin ingin mengaktifkan kembali ketel suling {name}?"
+    },
+    "actions": {
+      "add": "Daftarkan Unit Suling"
     }
   }
 }

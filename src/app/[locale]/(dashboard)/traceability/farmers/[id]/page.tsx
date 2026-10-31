@@ -17,10 +17,9 @@ export interface FarmerDetailPageProps {
 
 export default async function FarmerDetailPage({ params }: FarmerDetailPageProps): Promise<ReactElement> {
   const { id } = await params
-  const farmerId = parseInt(id, 10)
-  if (isNaN(farmerId)) notFound()
+  if (!id) notFound()
 
-  const farmer = await getFarmerByIdAction(farmerId)
+  const farmer = await getFarmerByIdAction(id)
   if (!farmer) notFound()
 
   return <FarmerDetail farmer={farmer} />

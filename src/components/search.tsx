@@ -29,7 +29,9 @@ export function Search({ className = '', placeholder, ...props }: SearchProps): 
       aria-label={tSearch('placeholder')}
     >
       <SearchIcon aria-hidden="true" className="h-3.5 w-3.5 shrink-0 sm:mr-2" />
+
       <span className="hidden truncate sm:inline">{placeholder || tSearch('placeholder')}</span>
+
       <kbd className="bg-muted pointer-events-none absolute top-[0.3rem] right-[0.3rem] hidden h-5 items-center gap-0.5 rounded border px-1.5 font-mono text-[10px] font-medium sm:flex">
         <span className="text-xs">⌘</span>K
       </kbd>

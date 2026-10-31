@@ -70,7 +70,7 @@ export function DistillersDialogs(): ReactElement {
                 <div>
                   <span className="text-muted-foreground block text-[10px] font-semibold uppercase">Status Operasional</span>
                   <Badge variant="outline" className="mt-0.5 text-[10px]">
-                    {currentRow.active ? tTrace('distillers.status.operational') : tTrace('distillers.status.maintenance')}
+                    {currentRow.active ? tTrace('status.operational') : tTrace('status.maintenance')}
                   </Badge>
                 </div>
               </div>
@@ -168,11 +168,11 @@ export function DistillersDialogs(): ReactElement {
         }}
         handleConfirm={handleToggleStatus}
         isLoading={isPending}
-        title={currentRow?.active ? tTrace('distillers.confirm.archiveTitle') : tTrace('distillers.confirm.restoreTitle')}
+        title={currentRow?.active ? tTrace('confirm.archiveTitle') : tTrace('confirm.restoreTitle')}
         desc={
           currentRow?.active
-            ? tTrace('distillers.confirm.archiveDesc', { name: currentRow?.name || '' })
-            : tTrace('distillers.confirm.restoreDesc', { name: currentRow?.name || '' })
+            ? tTrace('confirm.archiveDesc', { name: currentRow?.name || '' })
+            : tTrace('confirm.restoreDesc', { name: currentRow?.name || '' })
         }
         confirmText={currentRow?.active ? tCommon('actions.archive') : tCommon('actions.restore')}
         destructive={currentRow?.active}

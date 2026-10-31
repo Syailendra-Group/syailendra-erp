@@ -23,7 +23,7 @@ export function SectionCard({
   className
 }: SectionCardProps): ReactElement {
   return (
-    <Card className={cn(className)}>
+    <Card className={cn('flex h-full w-full flex-col', className)}>
       <CardHeader className="pb-3">
         <div className="flex items-center justify-between gap-2">
           <CardTitle className="flex items-center gap-2 text-sm font-semibold">
@@ -34,7 +34,8 @@ export function SectionCard({
         </div>
         {description && <CardDescription className="text-xs">{description}</CardDescription>}
       </CardHeader>
-      <CardContent className={contentClassName}>{children}</CardContent>
+
+      <CardContent className={cn('flex-1', contentClassName)}>{children}</CardContent>
     </Card>
   )
 }

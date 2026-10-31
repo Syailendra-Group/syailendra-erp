@@ -45,16 +45,20 @@ export function AuthenticatedLayout({ children }: AuthenticatedLayoutProps): Rea
     <SearchProvider>
       <TooltipProvider delayDuration={0}>
         <SkipToMain />
+
         <SidebarProvider defaultOpen={true}>
           <AppSidebar />
+
           <SidebarInset className="flex min-w-0 flex-1 flex-col overflow-x-clip">
             <Header fixed={true} />
+
             <Main id="content">
               <Breadcrumbs />
               {children}
             </Main>
           </SidebarInset>
         </SidebarProvider>
+
         <CommandMenu />
       </TooltipProvider>
     </SearchProvider>

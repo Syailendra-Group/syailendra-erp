@@ -29,6 +29,7 @@ export function SummaryCard({ item, className }: SummaryCardProps): ReactElement
           <Icon className={cn('size-3.5 sm:size-4', item.color || 'text-primary')} />
         </div>
       </CardHeader>
+
       <CardContent className="p-0">
         <div className="text-lg font-bold tracking-tight sm:text-2xl">{item.value}</div>
         {item.subtitle && <p className="text-muted-foreground mt-0.5 truncate text-[10px] sm:text-xs">{item.subtitle}</p>}

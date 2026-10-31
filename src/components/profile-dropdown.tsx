@@ -40,6 +40,7 @@ export function ProfileDropdown(): ReactElement {
             </Avatar>
           </Button>
         </DropdownMenuTrigger>
+
         <DropdownMenuContent className="w-56" align="end" forceMount>
           <DropdownMenuLabel className="font-normal">
             <div className="flex flex-col space-y-1">
@@ -47,7 +48,9 @@ export function ProfileDropdown(): ReactElement {
               <p className="text-muted-foreground text-xs leading-none">{user.email}</p>
             </div>
           </DropdownMenuLabel>
+
           <DropdownMenuSeparator />
+
           <DropdownMenuGroup>
             <DropdownMenuItem asChild className="cursor-pointer">
               <Link href="/employees">

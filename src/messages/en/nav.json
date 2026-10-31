@@ -110,5 +110,8 @@
       "farmer": "Farmer Partner"
     }
   },
-  "toggleNavMenu": "Toggle navigation menu"
+  "toggleNavMenu": "Toggle navigation menu",
+  "tabs": {
+    "inventory": "Inventory"
+  }
 }

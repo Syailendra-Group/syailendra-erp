@@ -1,8 +1,10 @@
 'use client'
 
 import { useCallback, useEffect, useState, useTransition } from 'react'
+import { Briefcase } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 
+import { PageHeader } from '@/components/shared/page-header'
 import { EmployeesProvider } from '@/contexts/employees-context'
 
 import { getEmployeesAction } from './actions'
@@ -34,14 +36,7 @@ export function EmployeesFeature(): ReactElement {
   return (
     <EmployeesProvider refreshData={refreshData} initialDepartments={departments}>
       <div className="space-y-6">
-        <div className="flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
-          <div>
-            <h1 className="text-xl font-bold tracking-tight sm:text-2xl">{tAdmin('title')}</h1>
-            <p className="text-muted-foreground text-xs sm:text-sm">{tAdmin('subtitle')}</p>
-          </div>
-
-          <EmployeesPrimaryButtons />
-        </div>
+        <PageHeader title={tAdmin('title')} description={tAdmin('subtitle')} icon={Briefcase} actions={<EmployeesPrimaryButtons />} />
 
         <EmployeesTable data={employees} />
 

@@ -35,6 +35,7 @@ export function DatePicker({ selected, onSelect, placeholder, className, disable
           {selected ? format(selected, 'PPP') : <span>{placeholder || tCommon('pickDate')}</span>}
         </Button>
       </PopoverTrigger>
+
       <PopoverContent className="w-auto p-0" align="start">
         <Calendar mode="single" selected={selected} onSelect={onSelect} />
       </PopoverContent>

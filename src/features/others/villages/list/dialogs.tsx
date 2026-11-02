@@ -3,29 +3,35 @@
 import { useTranslations } from 'next-intl'
 import { toast } from 'sonner'
 
-import { ConfirmDialog } from '@/components/confirm-dialog'
+import { ConfirmDialog } from '@/components/dialog/confirm-dialog'
+import { useVillage } from '@/contexts/others/village.context'
 import { useToggleVillageStatusMutation } from '@/hooks/others/use-villages'
+
+import { VillageActionDialog } from './dialogs/village-action-dialog'
 
 import type { VillageRecord } from '@/types/others/village'
 import type { ReactElement } from 'react'
 
 export interface VillagesDialogsProps {
-  target: VillageRecord | null
-  onClose: () => void
+  archiveTarget: VillageRecord | null
+  onCloseArchive: () => void
 }
 
-export function VillagesDialogs({ target, onClose }: VillagesDialogsProps): ReactElement {
+export function VillagesDialogs({ archiveTarget, onCloseArchive }: VillagesDialogsProps): ReactElement {
   const tCommon = useTranslations('common')
+  const { open, setOpen, currentRow } = useVillage()
   const { mutateAsync: toggleStatus, isPending } = useToggleVillageStatusMutation()
 
+  const isFormOpen = open === 'add' || open === 'edit'
+
   const handleToggle = async () => {
-    if (!target) return
-    const nextStatus = !target.active
+    if (!archiveTarget) return
+    const nextStatus = !archiveTarget.active
     try {
-      const res = await toggleStatus({ id: target.id, active: nextStatus })
+      const res = await toggleStatus({ id: archiveTarget.id, active: nextStatus })
       if (res.success) {
         toast.success(nextStatus ? 'Desa berhasil diaktifkan kembali' : 'Desa berhasil diarsipkan')
-        onClose()
+        onCloseArchive()
       } else {
         toast.error(res.error || 'Gagal mengubah status')
       }
@@ -35,17 +41,27 @@ export function VillagesDialogs({ target, onClose }: VillagesDialogsProps): Reac
   }
 
   return (
-    <ConfirmDialog
-      open={Boolean(target)}
-      onOpenChange={(v) => {
-        if (!v) onClose()
-      }}
-      handleConfirm={handleToggle}
-      isLoading={isPending}
-      title={target?.active ? 'Arsipkan Kelurahan / Desa' : 'Aktifkan Kembali Kelurahan / Desa'}
-      desc={`Apakah Anda yakin ingin mengubah status operasional untuk ${target?.name || ''}?`}
-      confirmText={target?.active ? tCommon('actions.archive') : tCommon('actions.restore')}
-      destructive={target?.active}
-    />
+    <>
+      <VillageActionDialog
+        open={isFormOpen}
+        onOpenChange={(v) => {
+          if (!v) setOpen(null)
+        }}
+        currentRow={currentRow}
+      />
+
+      <ConfirmDialog
+        open={Boolean(archiveTarget)}
+        onOpenChange={(v) => {
+          if (!v) onCloseArchive()
+        }}
+        handleConfirm={handleToggle}
+        isLoading={isPending}
+        title={archiveTarget?.active ? 'Arsipkan Kelurahan / Desa' : 'Aktifkan Kembali Kelurahan / Desa'}
+        desc={`Apakah Anda yakin ingin mengubah status operasional untuk ${archiveTarget?.name || ''}?`}
+        confirmText={archiveTarget?.active ? tCommon('actions.archive') : tCommon('actions.restore')}
+        destructive={archiveTarget?.active}
+      />
+    </>
   )
 }

@@ -1,0 +1,21 @@
+{
+  "title": "Sign In to System",
+  "subtitle": "Integrated Commodity & Agribusiness ERP Syailendra Group",
+  "fields": {
+    "email": "Email Address",
+    "email_placeholder": "name@syailendra.com",
+    "password": "Password",
+    "password_placeholder": "Enter your password",
+    "remember": "Remember me"
+  },
+  "buttons": {
+    "login": "Sign In",
+    "logging_in": "Authenticating...",
+    "forgot_password": "Forgot password?"
+  },
+  "messages": {
+    "login_success": "Successfully signed in",
+    "login_failed": "Invalid email or password",
+    "logout_success": "You have signed out"
+  }
+}

@@ -34,7 +34,7 @@ export function AuthenticatedLayout({ children }: AuthenticatedLayoutProps): Rea
       setActiveTab('crm')
     } else if (pathname.includes('/hris') || pathname.includes('/hr') || pathname.includes('/attendance') || pathname.includes('/employees')) {
       setActiveTab('hris')
-    } else if (pathname.includes('/others') || pathname.includes('/settings') || pathname.includes('/admin')) {
+    } else if (pathname.startsWith('/others') || pathname.startsWith('/settings') || pathname.startsWith('/admin')) {
       setActiveTab('others')
     } else {
       setActiveTab('main')

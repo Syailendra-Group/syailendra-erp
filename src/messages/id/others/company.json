@@ -1,0 +1,16 @@
+{
+  "title": "Profil Perusahaan & Pengaturan Web",
+  "subtitle": "Kelola identitas legal Syailendra Group, logo resmi, kontak perusahaan, dan metadata portal publik",
+  "fields": {
+    "name": "Nama Legal Perusahaan",
+    "tagline": "Slogan / Tagline Agribisnis",
+    "email": "Email Resmi Usaha",
+    "phone": "Telepon Kantor Pusat",
+    "website": "Alamat Website Portal",
+    "address": "Alamat Kantor & Gudang",
+    "currency": "Mata Uang Utama"
+  },
+  "messages": {
+    "saved": "Pengaturan profil perusahaan berhasil disimpan di Odoo 18"
+  }
+}

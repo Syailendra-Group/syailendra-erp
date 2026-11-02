@@ -1,0 +1,11 @@
+{
+  "title": "Direktori Kontak Terpadu",
+  "subtitle": "Database pusat mitra kelompok tani, pengepul komoditas, pemasok saprotan/kemasan, dan pembeli B2B",
+  "fields": {
+    "name": "Nama Kontak / Badan Usaha",
+    "category": "Kategori Mitra",
+    "phone": "Telepon / Seluler",
+    "email": "Alamat Email",
+    "city": "Kota / Wilayah"
+  }
+}

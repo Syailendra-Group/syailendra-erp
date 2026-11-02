@@ -3,29 +3,35 @@
 import { useTranslations } from 'next-intl'
 import { toast } from 'sonner'
 
-import { ConfirmDialog } from '@/components/confirm-dialog'
+import { ConfirmDialog } from '@/components/dialog/confirm-dialog'
+import { useRegency } from '@/contexts/others/regency.context'
 import { useToggleRegencyStatusMutation } from '@/hooks/others/use-regencies'
+
+import { RegencyActionDialog } from './dialogs/regency-action-dialog'
 
 import type { RegencyRecord } from '@/types/others/regency'
 import type { ReactElement } from 'react'
 
 export interface RegenciesDialogsProps {
-  target: RegencyRecord | null
-  onClose: () => void
+  archiveTarget: RegencyRecord | null
+  onCloseArchive: () => void
 }
 
-export function RegenciesDialogs({ target, onClose }: RegenciesDialogsProps): ReactElement {
+export function RegenciesDialogs({ archiveTarget, onCloseArchive }: RegenciesDialogsProps): ReactElement {
   const tCommon = useTranslations('common')
+  const { open, setOpen, currentRow } = useRegency()
   const { mutateAsync: toggleStatus, isPending } = useToggleRegencyStatusMutation()
 
+  const isFormOpen = open === 'add' || open === 'edit'
+
   const handleToggle = async () => {
-    if (!target) return
-    const nextStatus = !target.active
+    if (!archiveTarget) return
+    const nextStatus = !archiveTarget.active
     try {
-      const res = await toggleStatus({ id: target.id, active: nextStatus })
+      const res = await toggleStatus({ id: archiveTarget.id, active: nextStatus })
       if (res.success) {
-        toast.success(nextStatus ? 'Kabupaten/Kota berhasil diaktifkan kembali' : 'Kabupaten/Kota berhasil diarsipkan')
-        onClose()
+        toast.success(nextStatus ? 'Kabupaten berhasil diaktifkan kembali' : 'Kabupaten berhasil diarsipkan')
+        onCloseArchive()
       } else {
         toast.error(res.error || 'Gagal mengubah status')
       }
@@ -35,17 +41,27 @@ export function RegenciesDialogs({ target, onClose }: RegenciesDialogsProps): Re
   }
 
   return (
-    <ConfirmDialog
-      open={Boolean(target)}
-      onOpenChange={(v) => {
-        if (!v) onClose()
-      }}
-      handleConfirm={handleToggle}
-      isLoading={isPending}
-      title={target?.active ? 'Arsipkan Kabupaten / Kota' : 'Aktifkan Kembali Kabupaten / Kota'}
-      desc={`Apakah Anda yakin ingin mengubah status operasional untuk ${target?.name || ''}?`}
-      confirmText={target?.active ? tCommon('actions.archive') : tCommon('actions.restore')}
-      destructive={target?.active}
-    />
+    <>
+      <RegencyActionDialog
+        open={isFormOpen}
+        onOpenChange={(v) => {
+          if (!v) setOpen(null)
+        }}
+        currentRow={currentRow}
+      />
+
+      <ConfirmDialog
+        open={Boolean(archiveTarget)}
+        onOpenChange={(v) => {
+          if (!v) onCloseArchive()
+        }}
+        handleConfirm={handleToggle}
+        isLoading={isPending}
+        title={archiveTarget?.active ? 'Arsipkan Kabupaten' : 'Aktifkan Kembali Kabupaten'}
+        desc={`Apakah Anda yakin ingin mengubah status operasional untuk ${archiveTarget?.name || ''}?`}
+        confirmText={archiveTarget?.active ? tCommon('actions.archive') : tCommon('actions.restore')}
+        destructive={archiveTarget?.active}
+      />
+    </>
   )
 }

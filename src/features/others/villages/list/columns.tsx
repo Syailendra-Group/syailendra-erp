@@ -10,10 +10,11 @@ import type { ColumnDef } from '@tanstack/react-table'
 export interface GetColumnsOptions {
   t: (key: string) => string
   tCommon: (key: string) => string
+  onEdit: (village: VillageRecord) => void
   onArchive: (village: VillageRecord) => void
 }
 
-export function getColumns({ t, tCommon, onArchive }: GetColumnsOptions): ColumnDef<VillageRecord>[] {
+export function getColumns({ t, tCommon, onEdit, onArchive }: GetColumnsOptions): ColumnDef<VillageRecord>[] {
   return [
     {
       accessorKey: 'code',
@@ -59,7 +60,7 @@ export function getColumns({ t, tCommon, onArchive }: GetColumnsOptions): Column
         return (
           <div className="flex items-center justify-center gap-1">
             <ActionButton variant="view" label={tCommon('actions.view')} href={`/others/villages/${item.id}`} />
-            <ActionButton variant="edit" label={tCommon('actions.edit')} href={`/others/villages/${item.id}/edit`} />
+            <ActionButton variant="edit" label={tCommon('actions.edit')} onClick={() => onEdit(item)} />
             <ActionButton
               variant={item.active ? 'archive' : 'restore'}
               label={item.active ? tCommon('actions.archive') : tCommon('actions.restore')}

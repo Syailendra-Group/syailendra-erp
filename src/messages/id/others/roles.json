@@ -1,0 +1,9 @@
+{
+  "title": "Hak Akses & Otorisasi (RBAC)",
+  "subtitle": "Konfigurasi grup keamanan Odoo 18, visibilitas menu modul, dan pembatasan wewenang pengguna",
+  "matrix": {
+    "role_name": "Grup Peran / Role",
+    "module_access": "Cakupan Modul",
+    "users_count": "Jumlah Pengguna"
+  }
+}

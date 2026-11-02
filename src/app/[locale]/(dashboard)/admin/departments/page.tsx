@@ -1,5 +1,5 @@
 import { getDepartmentsAction } from '@/actions/hris/department.action'
-import { DepartmentsFeature } from '@/features/admin/departments'
+import { DepartmentsFeature } from '@/features/hris/departments'
 
 import type { Metadata } from 'next'
 import type { ReactElement } from 'react'

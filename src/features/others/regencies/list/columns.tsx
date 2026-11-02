@@ -10,10 +10,11 @@ import type { ColumnDef } from '@tanstack/react-table'
 export interface GetColumnsOptions {
   t: (key: string) => string
   tCommon: (key: string) => string
+  onEdit: (regency: RegencyRecord) => void
   onArchive: (regency: RegencyRecord) => void
 }
 
-export function getColumns({ t, tCommon, onArchive }: GetColumnsOptions): ColumnDef<RegencyRecord>[] {
+export function getColumns({ t, tCommon, onEdit, onArchive }: GetColumnsOptions): ColumnDef<RegencyRecord>[] {
   return [
     {
       accessorKey: 'code',
@@ -24,17 +25,12 @@ export function getColumns({ t, tCommon, onArchive }: GetColumnsOptions): Column
     {
       accessorKey: 'name',
       header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.name')} />,
-      cell: ({ row }) => (
-        <div>
-          <div className="text-foreground text-xs font-semibold sm:text-sm">{row.original.name}</div>
-          {row.original.alias && <span className="text-muted-foreground text-[11px]">Alias: {row.original.alias}</span>}
-        </div>
-      ),
+      cell: ({ row }) => <span className="text-foreground text-xs font-semibold sm:text-sm">{row.original.name}</span>,
       enableSorting: true
     },
     {
       accessorKey: 'state_id',
-      header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.province')} />,
+      header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.state')} />,
       cell: ({ row }) => {
         const state = row.original.state_id
         return <span className="text-foreground text-xs font-medium">{state ? state[1] : '-'}</span>
@@ -56,7 +52,7 @@ export function getColumns({ t, tCommon, onArchive }: GetColumnsOptions): Column
         return (
           <div className="flex items-center justify-center gap-1">
             <ActionButton variant="view" label={tCommon('actions.view')} href={`/others/regencies/${item.id}`} />
-            <ActionButton variant="edit" label={tCommon('actions.edit')} href={`/others/regencies/${item.id}/edit`} />
+            <ActionButton variant="edit" label={tCommon('actions.edit')} onClick={() => onEdit(item)} />
             <ActionButton
               variant={item.active ? 'archive' : 'restore'}
               label={item.active ? tCommon('actions.archive') : tCommon('actions.restore')}

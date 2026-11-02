@@ -1,0 +1,49 @@
+{
+  "title": "Employee Directory",
+  "subtitle": "Manage staff records, operational job titles, department assignments, and system user linkage",
+  "actions": {
+    "add": "Add Employee",
+    "edit": "Edit Employee",
+    "archive": "Archive",
+    "activate": "Activate",
+    "addDepartment": "+ Add New Department..."
+  },
+  "fields": {
+    "name": "Full Name",
+    "name_placeholder": "e.g. Budi Santoso",
+    "work_email": "Work Email",
+    "work_email_placeholder": "budi@syailendra.com",
+    "work_phone": "Work Phone / WhatsApp",
+    "work_phone_placeholder": "+62 812 3456 7890",
+    "job_title": "Job Title",
+    "job_title_placeholder": "e.g. Warehouse Quality Supervisor",
+    "department": "Department",
+    "department_placeholder": "Select Department",
+    "status": "Employment Status"
+  },
+  "table": {
+    "name": "Employee Name",
+    "job_title": "Operational Job Title",
+    "department": "Department",
+    "contact": "Work Contact",
+    "status": "Status",
+    "actions": "Actions",
+    "defaultDept": "Headquarters",
+    "defaultJob": "Operational Staff"
+  },
+  "detail": {
+    "title": "Employee Details",
+    "subtitle": "Profile details and work placement in Odoo 18 system.",
+    "department": "Department",
+    "workEmail": "Work Email",
+    "workPhone": "Phone / WA",
+    "odooId": "Backend Odoo ID",
+    "editProfile": "Edit Profile",
+    "defaultJob": "Operations Staff"
+  },
+  "messages": {
+    "created": "Employee successfully added to Odoo 18",
+    "updated": "Employee details updated",
+    "archived": "Employee record archived"
+  }
+}

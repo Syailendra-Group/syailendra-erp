@@ -1,0 +1,17 @@
+{
+  "title": "Master Data Provinsi",
+  "subtitle": "Direktori 38 provinsi Indonesia & yurisdiksi internasional",
+  "primaryAction": "Tambah Provinsi",
+  "table": {
+    "name": "Nama Provinsi",
+    "code": "Kode",
+    "country": "Negara",
+    "status": "Status"
+  },
+  "dialog": {
+    "addTitle": "Tambah Provinsi Baru",
+    "addDesc": "Daftarkan provinsi baru ke dalam sistem master wilayah",
+    "editTitle": "Ubah Data Provinsi",
+    "editDesc": "Perbarui identitas dan kode resmi provinsi"
+  }
+}

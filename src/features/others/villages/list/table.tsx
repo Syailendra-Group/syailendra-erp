@@ -7,6 +7,7 @@ import { useTranslations } from 'next-intl'
 import { DataTablePagination } from '@/components/data-table/pagination'
 import { DataTableToolbar } from '@/components/data-table/toolbar'
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '@/components/ui/table'
+import { useVillage } from '@/contexts/others/village.context'
 
 import { getColumns } from './columns'
 
@@ -22,12 +23,18 @@ export interface VillagesTableProps {
 export function VillagesTable({ data, onArchive }: VillagesTableProps): ReactElement {
   const t = useTranslations('regional.villages')
   const tCommon = useTranslations('common')
+  const { setOpen, setCurrentRow } = useVillage()
 
   const [sorting, setSorting] = useState<SortingState>([{ id: 'name', desc: false }])
   const [columnFilters, setColumnFilters] = useState<ColumnFiltersState>([])
   const [columnVisibility, setColumnVisibility] = useState<VisibilityState>({})
 
-  const columns = getColumns({ t, tCommon, onArchive })
+  const handleEdit = (item: VillageRecord) => {
+    setCurrentRow(item)
+    setOpen('edit')
+  }
+
+  const columns = getColumns({ t, tCommon, onEdit: handleEdit, onArchive })
 
   const table = useReactTable({
     data,

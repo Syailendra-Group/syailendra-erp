@@ -1,0 +1,9 @@
+{
+  "title": "Role-Based Access Control (RBAC)",
+  "subtitle": "Configure user permission groups, module visibility, and security boundaries in Odoo 18",
+  "matrix": {
+    "role_name": "Security Group / Role",
+    "module_access": "Module Entitlements",
+    "users_count": "Assigned Users"
+  }
+}

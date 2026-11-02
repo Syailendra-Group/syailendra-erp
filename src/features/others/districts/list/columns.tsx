@@ -10,10 +10,11 @@ import type { ColumnDef } from '@tanstack/react-table'
 export interface GetColumnsOptions {
   t: (key: string) => string
   tCommon: (key: string) => string
+  onEdit: (district: DistrictRecord) => void
   onArchive: (district: DistrictRecord) => void
 }
 
-export function getColumns({ t, tCommon, onArchive }: GetColumnsOptions): ColumnDef<DistrictRecord>[] {
+export function getColumns({ t, tCommon, onEdit, onArchive }: GetColumnsOptions): ColumnDef<DistrictRecord>[] {
   return [
     {
       accessorKey: 'code',
@@ -29,7 +30,7 @@ export function getColumns({ t, tCommon, onArchive }: GetColumnsOptions): Column
     },
     {
       accessorKey: 'city_id',
-      header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.regency')} />,
+      header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.city')} />,
       cell: ({ row }) => {
         const city = row.original.city_id
         return <span className="text-foreground text-xs font-medium">{city ? city[1] : '-'}</span>
@@ -51,7 +52,7 @@ export function getColumns({ t, tCommon, onArchive }: GetColumnsOptions): Column
         return (
           <div className="flex items-center justify-center gap-1">
             <ActionButton variant="view" label={tCommon('actions.view')} href={`/others/districts/${item.id}`} />
-            <ActionButton variant="edit" label={tCommon('actions.edit')} href={`/others/districts/${item.id}/edit`} />
+            <ActionButton variant="edit" label={tCommon('actions.edit')} onClick={() => onEdit(item)} />
             <ActionButton
               variant={item.active ? 'archive' : 'restore'}
               label={item.active ? tCommon('actions.archive') : tCommon('actions.restore')}

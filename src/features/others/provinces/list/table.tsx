@@ -7,6 +7,7 @@ import { useTranslations } from 'next-intl'
 import { DataTablePagination } from '@/components/data-table/pagination'
 import { DataTableToolbar } from '@/components/data-table/toolbar'
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '@/components/ui/table'
+import { useProvince } from '@/contexts/others/province.context'
 
 import { getColumns } from './columns'
 
@@ -21,12 +22,18 @@ export interface ProvincesTableProps {
 export function ProvincesTable({ data }: ProvincesTableProps): ReactElement {
   const t = useTranslations('regional.provinces')
   const tCommon = useTranslations('common')
+  const { setOpen, setCurrentRow } = useProvince()
 
   const [sorting, setSorting] = useState<SortingState>([{ id: 'name', desc: false }])
   const [columnFilters, setColumnFilters] = useState<ColumnFiltersState>([])
   const [columnVisibility, setColumnVisibility] = useState<VisibilityState>({})
 
-  const columns = getColumns({ t, tCommon })
+  const handleEdit = (prov: ProvinceRecord) => {
+    setCurrentRow(prov)
+    setOpen('edit')
+  }
+
+  const columns = getColumns({ t, tCommon, onEdit: handleEdit })
 
   const table = useReactTable({
     data,
@@ -47,7 +54,7 @@ export function ProvincesTable({ data }: ProvincesTableProps): ReactElement {
 
   return (
     <div className="space-y-4">
-      <DataTableToolbar table={table} searchPlaceholder="Cari provinsi..." />
+      <DataTableToolbar table={table} searchPlaceholder="Cari nama provinsi..." />
 
       <div className="border-border/60 bg-card overflow-hidden rounded-md border shadow-xs">
         <Table>

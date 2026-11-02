@@ -1,0 +1,23 @@
+{
+  "title": "Master Data Kecamatan",
+  "subtitle": "Pemetaan wilayah sentra tani dan ketel penyulingan atsiri",
+  "primaryAction": "Tambah Kecamatan",
+  "table": {
+    "name": "Nama Kecamatan",
+    "code": "Kode",
+    "regency": "Kabupaten / Kota",
+    "province": "Provinsi",
+    "status": "Status"
+  },
+  "dialog": {
+    "addTitle": "Tambah Kecamatan Baru",
+    "addDesc": "Daftarkan kecamatan binaan baru",
+    "editTitle": "Ubah Kecamatan",
+    "editDesc": "Perbarui informasi kecamatan binaan"
+  },
+  "alert": {
+    "parentMissingTitle": "Kabupaten Induk Belum Terdaftar",
+    "parentMissingDesc": "Kabupaten {regency} belum ada di master data.",
+    "autoAddLabel": "Otomatis daftarkan Kabupaten {regency} ke Master Data"
+  }
+}

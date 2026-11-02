@@ -1,0 +1,16 @@
+{
+  "title": "Company Profile & Web Settings",
+  "subtitle": "Manage legal holding identity, official branding, contacts, and public portal metadata",
+  "fields": {
+    "name": "Legal Company Name",
+    "tagline": "Agribusiness Tagline",
+    "email": "Official Business Email",
+    "phone": "Headquarters Phone",
+    "website": "Portal Website URL",
+    "address": "Head Office & Warehouse Address",
+    "currency": "Default System Currency"
+  },
+  "messages": {
+    "saved": "Company settings updated successfully in Odoo 18"
+  }
+}

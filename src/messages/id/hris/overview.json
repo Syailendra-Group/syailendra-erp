@@ -1,0 +1,10 @@
+{
+  "title": "Tata Kelola & Administrasi Sistem",
+  "subtitle": "Manajemen SDM kepegawaian, matriks hak akses RBAC, buku kontak mitra, dan konfigurasi portal usaha",
+  "kpi": {
+    "employees": "Karyawan Aktif",
+    "departments": "Unit & Departemen",
+    "users": "Pengguna Portal",
+    "contacts": "Buku Kontak Mitra"
+  }
+}

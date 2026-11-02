@@ -1,0 +1,10 @@
+{
+  "title": "Countries Master Register",
+  "subtitle": "Catalog of export destinations and raw material origins",
+  "table": {
+    "name": "Country Name",
+    "code": "ISO Code",
+    "phoneCode": "Phone Code",
+    "currency": "Currency"
+  }
+}

@@ -31,7 +31,7 @@ export function TopNav(): ReactElement {
     { id: 'wms', titleKey: 'modules.wms', icon: Warehouse, href: '/wms' },
     { id: 'crm', titleKey: 'modules.crm', icon: Target, href: '/crm' },
     { id: 'hris', titleKey: 'modules.hris', icon: Clock, href: '/hris' },
-    { id: 'others', titleKey: 'modules.others', icon: Sliders, href: '/settings' }
+    { id: 'others', titleKey: 'modules.others', icon: Sliders, href: '/others' }
   ]
 
   return (

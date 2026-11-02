@@ -1,5 +1,5 @@
 import { PublicTraceView } from '@/features/traceability/public-trace'
-import { odoo } from '@/lib/odoo'
+import { getPublicTrace } from '@/services/odoo/traceability/public-trace.service'
 
 import type { Metadata } from 'next'
 import type { ReactElement } from 'react'
@@ -21,7 +21,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
 export default async function PublicTracePage({ params }: Props): Promise<ReactElement> {
   const { lot_code } = await params
-  const data = await odoo.traceability.getPublicTrace(lot_code)
+  const data = await getPublicTrace(lot_code)
 
   return <PublicTraceView data={data} lotCode={lot_code} />
 }

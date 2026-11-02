@@ -1,0 +1,23 @@
+{
+  "title": "Regencies & Cities",
+  "subtitle": "Plantation regions and distillation unit jurisdictions",
+  "primaryAction": "Add Regency/City",
+  "table": {
+    "name": "Regency / City",
+    "code": "Official Code",
+    "province": "Parent Province",
+    "alias": "Alias",
+    "status": "Status"
+  },
+  "dialog": {
+    "addTitle": "Add New Regency / City",
+    "addDesc": "Select from 514 official regencies or input custom",
+    "editTitle": "Edit Regency / City",
+    "editDesc": "Update regional identity and centroid coordinates"
+  },
+  "alert": {
+    "parentMissingTitle": "Parent Province Not Registered",
+    "parentMissingDesc": "Province {province} is not yet registered in Odoo master data.",
+    "autoAddLabel": "Automatically register Province {province} to Master Data"
+  }
+}

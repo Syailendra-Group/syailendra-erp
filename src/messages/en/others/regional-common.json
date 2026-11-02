@@ -1,0 +1,15 @@
+{
+  "domestic": "Indonesia (Domestic)",
+  "international": "Foreign (International)",
+  "alias": "Alias Name / Abbreviation",
+  "description": "Territory Description",
+  "coordinates": "Centroid Coordinates",
+  "latitude": "Latitude",
+  "longitude": "Longitude",
+  "code": "Official Code (BPS / ISO)",
+  "selectCountry": "Select Country",
+  "selectProvince": "Select Province",
+  "selectRegency": "Select Regency / City",
+  "selectDistrict": "Select District",
+  "selectVillage": "Select Village"
+}

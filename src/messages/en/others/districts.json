@@ -1,0 +1,23 @@
+{
+  "title": "Districts (Kecamatan)",
+  "subtitle": "Farming sub-jurisdictions and local distillation centers",
+  "primaryAction": "Add District",
+  "table": {
+    "name": "District Name",
+    "code": "Code",
+    "regency": "Regency / City",
+    "province": "Province",
+    "status": "Status"
+  },
+  "dialog": {
+    "addTitle": "Add New District",
+    "addDesc": "Register a new plantation district",
+    "editTitle": "Edit District",
+    "editDesc": "Update district details and centroid"
+  },
+  "alert": {
+    "parentMissingTitle": "Parent Regency Not Registered",
+    "parentMissingDesc": "Regency {regency} is not yet registered in master data.",
+    "autoAddLabel": "Automatically register Regency {regency} to Master Data"
+  }
+}

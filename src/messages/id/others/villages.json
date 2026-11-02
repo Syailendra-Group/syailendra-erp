@@ -1,0 +1,23 @@
+{
+  "title": "Master Kelurahan & Desa",
+  "subtitle": "Titik hulu petak lahan kebun dan kelompok tani binaan",
+  "primaryAction": "Tambah Kelurahan/Desa",
+  "table": {
+    "name": "Kelurahan / Desa",
+    "code": "Kode Kemendagri",
+    "district": "Kecamatan",
+    "zipCode": "Kode Pos",
+    "status": "Status"
+  },
+  "dialog": {
+    "addTitle": "Tambah Kelurahan / Desa Baru",
+    "addDesc": "Daftarkan desa lokasi perkebunan dan kelompok tani",
+    "editTitle": "Ubah Kelurahan / Desa",
+    "editDesc": "Perbarui data desa dan kode pos resmi"
+  },
+  "alert": {
+    "parentMissingTitle": "Kecamatan Induk Belum Terdaftar",
+    "parentMissingDesc": "Kecamatan {district} belum ada di master data.",
+    "autoAddLabel": "Otomatis daftarkan Kecamatan {district} ke Master Data"
+  }
+}

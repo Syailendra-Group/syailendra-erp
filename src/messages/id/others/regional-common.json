@@ -1,0 +1,15 @@
+{
+  "domestic": "Indonesia (Domestik)",
+  "international": "Luar Negeri (Internasional)",
+  "alias": "Nama Alias / Singkatan",
+  "description": "Deskripsi Wilayah",
+  "coordinates": "Koordinat Centroid",
+  "latitude": "Lintang (Latitude)",
+  "longitude": "Bujur (Longitude)",
+  "code": "Kode Resmi BPS / ISO",
+  "selectCountry": "Pilih Negara",
+  "selectProvince": "Pilih Provinsi",
+  "selectRegency": "Pilih Kabupaten / Kota",
+  "selectDistrict": "Pilih Kecamatan",
+  "selectVillage": "Pilih Kelurahan / Desa"
+}

@@ -1,42 +1,153 @@
 /**
- * request.ts — Server-side request configuration & modular message loader
+ * request.ts — Server-side request configuration & granular modular message loader
+ * Syailendra Group ERP
  */
 
 import { hasLocale } from 'next-intl'
 import { getRequestConfig } from 'next-intl/server'
 
-import enAdmin from '@/messages/en/admin.json'
-import enAuth from '@/messages/en/auth.json'
-import enCommon from '@/messages/en/common.json'
-import enInventory from '@/messages/en/inventory.json'
-import enNav from '@/messages/en/nav.json'
-import enTraceability from '@/messages/en/traceability.json'
-import idAdmin from '@/messages/id/admin.json'
-import idAuth from '@/messages/id/auth.json'
-// Import modular json files statically to ensure bundle portability
-import idCommon from '@/messages/id/common.json'
-import idInventory from '@/messages/id/inventory.json'
-import idNav from '@/messages/id/nav.json'
-import idTraceability from '@/messages/id/traceability.json'
+import enAuthLogin from '@/messages/en/auth/login.json'
+import enCommon from '@/messages/en/common/common.json'
+import enNav from '@/messages/en/common/nav.json'
+import enCrmOverview from '@/messages/en/crm/overview.json'
+import enHrisDepartments from '@/messages/en/hris/departments.json'
+import enHrisEmployees from '@/messages/en/hris/employees.json'
+import enHrisOverview from '@/messages/en/hris/overview.json'
+import enCompany from '@/messages/en/others/company.json'
+import enCountries from '@/messages/en/others/countries.json'
+import enDistricts from '@/messages/en/others/districts.json'
+import enOthersOverview from '@/messages/en/others/overview.json'
+import enPartners from '@/messages/en/others/partners.json'
+import enProvinces from '@/messages/en/others/provinces.json'
+import enRegencies from '@/messages/en/others/regencies.json'
+import enRegionalCommon from '@/messages/en/others/regional-common.json'
+import enRoles from '@/messages/en/others/roles.json'
+import enVillages from '@/messages/en/others/villages.json'
+import enTraceDistillers from '@/messages/en/traceability/distillers.json'
+import enTraceFarmers from '@/messages/en/traceability/farmers.json'
+import enTraceOverview from '@/messages/en/traceability/overview.json'
+import enInventory from '@/messages/en/wms/inventory.json'
+// 2. Auth
+import idAuthLogin from '@/messages/id/auth/login.json'
+// 1. Common & Navigation
+import idCommon from '@/messages/id/common/common.json'
+import idNav from '@/messages/id/common/nav.json'
+// 7. CRM
+import idCrmOverview from '@/messages/id/crm/overview.json'
+import idHrisDepartments from '@/messages/id/hris/departments.json'
+import idHrisEmployees from '@/messages/id/hris/employees.json'
+// 4. HRIS
+import idHrisOverview from '@/messages/id/hris/overview.json'
+import idCompany from '@/messages/id/others/company.json'
+import idCountries from '@/messages/id/others/countries.json'
+import idDistricts from '@/messages/id/others/districts.json'
+// 5. OTHERS (Master Data Wilayah & Governance)
+import idOthersOverview from '@/messages/id/others/overview.json'
+import idPartners from '@/messages/id/others/partners.json'
+import idProvinces from '@/messages/id/others/provinces.json'
+import idRegencies from '@/messages/id/others/regencies.json'
+import idRegionalCommon from '@/messages/id/others/regional-common.json'
+import idRoles from '@/messages/id/others/roles.json'
+import idVillages from '@/messages/id/others/villages.json'
+import idTraceDistillers from '@/messages/id/traceability/distillers.json'
+import idTraceFarmers from '@/messages/id/traceability/farmers.json'
+// 3. Traceability
+import idTraceOverview from '@/messages/id/traceability/overview.json'
+// 6. WMS & Inventory
+import idInventory from '@/messages/id/wms/inventory.json'
 
 import { routing } from './routing'
 
 const messagesMap = {
   id: {
     common: idCommon,
-    auth: idAuth,
     nav: idNav,
+    auth: idAuthLogin,
     inventory: idInventory,
-    admin: idAdmin,
-    traceability: idTraceability
+    wms: { inventory: idInventory },
+    crm: { overview: idCrmOverview },
+    traceability: {
+      overview: idTraceOverview,
+      farmers: idTraceFarmers,
+      distillers: idTraceDistillers
+    },
+    hris: {
+      overview: idHrisOverview,
+      employees: idHrisEmployees,
+      departments: idHrisDepartments
+    },
+    admin: {
+      overview: idHrisOverview,
+      employees: idHrisEmployees,
+      departments: idHrisDepartments,
+      roles: idRoles,
+      company: idCompany,
+      contacts: idPartners
+    },
+    others: {
+      overview: idOthersOverview,
+      countries: idCountries,
+      provinces: idProvinces,
+      regencies: idRegencies,
+      districts: idDistricts,
+      villages: idVillages,
+      company: idCompany,
+      roles: idRoles,
+      partners: idPartners
+    },
+    regional: {
+      common: idRegionalCommon,
+      countries: idCountries,
+      provinces: idProvinces,
+      regencies: idRegencies,
+      districts: idDistricts,
+      villages: idVillages
+    }
   },
   en: {
     common: enCommon,
-    auth: enAuth,
     nav: enNav,
+    auth: enAuthLogin,
     inventory: enInventory,
-    admin: enAdmin,
-    traceability: enTraceability
+    wms: { inventory: enInventory },
+    crm: { overview: enCrmOverview },
+    traceability: {
+      overview: enTraceOverview,
+      farmers: enTraceFarmers,
+      distillers: enTraceDistillers
+    },
+    hris: {
+      overview: enHrisOverview,
+      employees: enHrisEmployees,
+      departments: enHrisDepartments
+    },
+    admin: {
+      overview: enHrisOverview,
+      employees: enHrisEmployees,
+      departments: enHrisDepartments,
+      roles: enRoles,
+      company: enCompany,
+      contacts: enPartners
+    },
+    others: {
+      overview: enOthersOverview,
+      countries: enCountries,
+      provinces: enProvinces,
+      regencies: enRegencies,
+      districts: enDistricts,
+      villages: enVillages,
+      company: enCompany,
+      roles: enRoles,
+      partners: enPartners
+    },
+    regional: {
+      common: enRegionalCommon,
+      countries: enCountries,
+      provinces: enProvinces,
+      regencies: enRegencies,
+      districts: enDistricts,
+      villages: enVillages
+    }
   }
 }
 

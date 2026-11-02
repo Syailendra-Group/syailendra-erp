@@ -1,0 +1,10 @@
+{
+  "title": "Master Data Negara",
+  "subtitle": "Katalog negara tujuan ekspor & asal bahan baku terdaftar",
+  "table": {
+    "name": "Nama Negara",
+    "code": "Kode ISO",
+    "phoneCode": "Kode Telepon",
+    "currency": "Mata Uang"
+  }
+}

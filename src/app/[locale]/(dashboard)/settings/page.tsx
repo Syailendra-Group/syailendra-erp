@@ -1,1 +1,5 @@
-export { SettingsOverview as default } from '@/features/settings/overview'
+import { redirect } from 'next/navigation'
+
+export default function SettingsRedirect(): void {
+  redirect('/others')
+}

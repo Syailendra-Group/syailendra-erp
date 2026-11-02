@@ -1,0 +1,23 @@
+{
+  "title": "Master Kabupaten & Kota",
+  "subtitle": "Sentra perkebunan & unit penyulingan tingkat kabupaten/kota",
+  "primaryAction": "Tambah Kab/Kota",
+  "table": {
+    "name": "Kabupaten / Kota",
+    "code": "Kode BPS",
+    "province": "Provinsi Induk",
+    "alias": "Alias",
+    "status": "Status"
+  },
+  "dialog": {
+    "addTitle": "Tambah Kabupaten / Kota Baru",
+    "addDesc": "Pilih dari 514 wilayah resmi atau input kustom",
+    "editTitle": "Ubah Kabupaten / Kota",
+    "editDesc": "Perbarui data wilayah dan koordinat centroid"
+  },
+  "alert": {
+    "parentMissingTitle": "Provinsi Induk Belum Terdaftar",
+    "parentMissingDesc": "Provinsi {province} untuk wilayah ini belum ada di master data Odoo.",
+    "autoAddLabel": "Otomatis daftarkan Provinsi {province} ke Master Data"
+  }
+}

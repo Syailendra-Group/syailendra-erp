@@ -1,0 +1,50 @@
+'use client'
+
+import { createContext, useContext, useState } from 'react'
+
+import type { VillageRecord } from '@/types/others/village'
+import type { ReactElement, ReactNode } from 'react'
+
+export type VillageDialogType = 'add' | 'edit' | 'archive' | 'view' | null
+
+export interface VillageContextType {
+  open: VillageDialogType
+  setOpen: (type: VillageDialogType) => void
+  currentRow: VillageRecord | null
+  setCurrentRow: (row: VillageRecord | null) => void
+  refreshData?: () => void
+}
+
+const VillageContext = createContext<VillageContextType | null>(null)
+
+export interface VillageProviderProps {
+  children: ReactNode
+  refreshData?: () => void
+}
+
+export function VillageProvider({ children, refreshData }: VillageProviderProps): ReactElement {
+  const [open, setOpen] = useState<VillageDialogType>(null)
+  const [currentRow, setCurrentRow] = useState<VillageRecord | null>(null)
+
+  return (
+    <VillageContext.Provider
+      value={{
+        open,
+        setOpen,
+        currentRow,
+        setCurrentRow,
+        refreshData
+      }}
+    >
+      {children}
+    </VillageContext.Provider>
+  )
+}
+
+export function useVillage(): VillageContextType {
+  const ctx = useContext(VillageContext)
+  if (!ctx) {
+    throw new Error('useVillage must be used within a VillageProvider')
+  }
+  return ctx
+}

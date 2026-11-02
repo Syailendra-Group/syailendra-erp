@@ -9,14 +9,15 @@ import type { ColumnDef } from '@tanstack/react-table'
 export interface GetColumnsOptions {
   t: (key: string) => string
   tCommon: (key: string) => string
+  onEdit: (prov: ProvinceRecord) => void
 }
 
-export function getColumns({ t, tCommon }: GetColumnsOptions): ColumnDef<ProvinceRecord>[] {
+export function getColumns({ t, tCommon, onEdit }: GetColumnsOptions): ColumnDef<ProvinceRecord>[] {
   return [
     {
       accessorKey: 'code',
       header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.code')} />,
-      cell: ({ row }) => <span className="text-primary font-mono text-xs font-semibold">{row.original.code}</span>,
+      cell: ({ row }) => <span className="text-primary font-mono text-xs font-semibold">{row.original.code || '-'}</span>,
       enableSorting: true
     },
     {
@@ -30,7 +31,7 @@ export function getColumns({ t, tCommon }: GetColumnsOptions): ColumnDef<Provinc
       header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.country')} />,
       cell: ({ row }) => {
         const country = row.original.country_id
-        return <span className="text-foreground text-xs font-medium">{country ? country[1] : 'Indonesia'}</span>
+        return <span className="text-foreground text-xs font-medium">{country ? country[1] : '-'}</span>
       }
     },
     {
@@ -41,7 +42,7 @@ export function getColumns({ t, tCommon }: GetColumnsOptions): ColumnDef<Provinc
         return (
           <div className="flex items-center justify-center gap-1">
             <ActionButton variant="view" label={tCommon('actions.view')} href={`/others/provinces/${item.id}`} />
-            <ActionButton variant="edit" label={tCommon('actions.edit')} href={`/others/provinces/${item.id}/edit`} />
+            <ActionButton variant="edit" label={tCommon('actions.edit')} onClick={() => onEdit(item)} />
           </div>
         )
       }

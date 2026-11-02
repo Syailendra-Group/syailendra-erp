@@ -1,0 +1,10 @@
+{
+  "title": "System Governance & Administration",
+  "subtitle": "Workforce management, role-based access control, unified contacts, and company web portal settings",
+  "kpi": {
+    "employees": "Active Workforce",
+    "departments": "Operating Units",
+    "users": "Portal Users",
+    "contacts": "Unified Partners"
+  }
+}

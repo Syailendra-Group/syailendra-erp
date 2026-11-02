@@ -5,6 +5,7 @@ import { MapPin } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 
 import { PageHeader } from '@/components/shared/page-header'
+import { DistrictProvider } from '@/contexts/others/district.context'
 import { useDistrictsQuery } from '@/hooks/others/use-districts'
 
 import { DistrictsDialogs } from './dialogs'
@@ -18,7 +19,7 @@ export interface DistrictsFeatureProps {
   initialData?: DistrictRecord[]
 }
 
-export function DistrictsFeature({ initialData = [] }: DistrictsFeatureProps): ReactElement {
+function DistrictsContent({ initialData = [] }: DistrictsFeatureProps): ReactElement {
   const t = useTranslations('regional.districts')
   const { data: districts = initialData } = useDistrictsQuery()
   const [archiveTarget, setArchiveTarget] = useState<DistrictRecord | null>(null)
@@ -27,7 +28,15 @@ export function DistrictsFeature({ initialData = [] }: DistrictsFeatureProps): R
     <div className="space-y-4 sm:space-y-6">
       <PageHeader title={t('title')} description={t('subtitle')} icon={MapPin} actions={<DistrictsPrimaryButtons />} />
       <DistrictsTable data={districts} onArchive={setArchiveTarget} />
-      <DistrictsDialogs target={archiveTarget} onClose={() => setArchiveTarget(null)} />
+      <DistrictsDialogs archiveTarget={archiveTarget} onCloseArchive={() => setArchiveTarget(null)} />
     </div>
+  )
+}
+
+export function DistrictsFeature({ initialData = [] }: DistrictsFeatureProps): ReactElement {
+  return (
+    <DistrictProvider>
+      <DistrictsContent initialData={initialData} />
+    </DistrictProvider>
   )
 }

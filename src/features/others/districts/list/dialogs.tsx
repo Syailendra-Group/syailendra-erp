@@ -3,29 +3,35 @@
 import { useTranslations } from 'next-intl'
 import { toast } from 'sonner'
 
-import { ConfirmDialog } from '@/components/confirm-dialog'
+import { ConfirmDialog } from '@/components/dialog/confirm-dialog'
+import { useDistrict } from '@/contexts/others/district.context'
 import { useToggleDistrictStatusMutation } from '@/hooks/others/use-districts'
+
+import { DistrictActionDialog } from './dialogs/district-action-dialog'
 
 import type { DistrictRecord } from '@/types/others/district'
 import type { ReactElement } from 'react'
 
 export interface DistrictsDialogsProps {
-  target: DistrictRecord | null
-  onClose: () => void
+  archiveTarget: DistrictRecord | null
+  onCloseArchive: () => void
 }
 
-export function DistrictsDialogs({ target, onClose }: DistrictsDialogsProps): ReactElement {
+export function DistrictsDialogs({ archiveTarget, onCloseArchive }: DistrictsDialogsProps): ReactElement {
   const tCommon = useTranslations('common')
+  const { open, setOpen, currentRow } = useDistrict()
   const { mutateAsync: toggleStatus, isPending } = useToggleDistrictStatusMutation()
 
+  const isFormOpen = open === 'add' || open === 'edit'
+
   const handleToggle = async () => {
-    if (!target) return
-    const nextStatus = !target.active
+    if (!archiveTarget) return
+    const nextStatus = !archiveTarget.active
     try {
-      const res = await toggleStatus({ id: target.id, active: nextStatus })
+      const res = await toggleStatus({ id: archiveTarget.id, active: nextStatus })
       if (res.success) {
-        toast.success(nextStatus ? 'Kecamatan berhasil diaktifkan' : 'Kecamatan berhasil diarsipkan')
-        onClose()
+        toast.success(nextStatus ? 'Kecamatan berhasil diaktifkan kembali' : 'Kecamatan berhasil diarsipkan')
+        onCloseArchive()
       } else {
         toast.error(res.error || 'Gagal mengubah status')
       }
@@ -35,17 +41,27 @@ export function DistrictsDialogs({ target, onClose }: DistrictsDialogsProps): Re
   }
 
   return (
-    <ConfirmDialog
-      open={Boolean(target)}
-      onOpenChange={(v) => {
-        if (!v) onClose()
-      }}
-      handleConfirm={handleToggle}
-      isLoading={isPending}
-      title={target?.active ? 'Arsipkan Kecamatan' : 'Aktifkan Kembali Kecamatan'}
-      desc={`Apakah Anda yakin ingin mengubah status operasional untuk ${target?.name || ''}?`}
-      confirmText={target?.active ? tCommon('actions.archive') : tCommon('actions.restore')}
-      destructive={target?.active}
-    />
+    <>
+      <DistrictActionDialog
+        open={isFormOpen}
+        onOpenChange={(v) => {
+          if (!v) setOpen(null)
+        }}
+        currentRow={currentRow}
+      />
+
+      <ConfirmDialog
+        open={Boolean(archiveTarget)}
+        onOpenChange={(v) => {
+          if (!v) onCloseArchive()
+        }}
+        handleConfirm={handleToggle}
+        isLoading={isPending}
+        title={archiveTarget?.active ? 'Arsipkan Kecamatan' : 'Aktifkan Kembali Kecamatan'}
+        desc={`Apakah Anda yakin ingin mengubah status operasional untuk ${archiveTarget?.name || ''}?`}
+        confirmText={archiveTarget?.active ? tCommon('actions.archive') : tCommon('actions.restore')}
+        destructive={archiveTarget?.active}
+      />
+    </>
   )
 }

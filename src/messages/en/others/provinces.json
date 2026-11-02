@@ -1,0 +1,17 @@
+{
+  "title": "Provinces & States",
+  "subtitle": "Directory of 38 Indonesian provinces and foreign jurisdictions",
+  "primaryAction": "Add Province",
+  "table": {
+    "name": "Province / State Name",
+    "code": "Code",
+    "country": "Country",
+    "status": "Status"
+  },
+  "dialog": {
+    "addTitle": "Add New Province",
+    "addDesc": "Register a new province or state in the master catalog",
+    "editTitle": "Edit Province Data",
+    "editDesc": "Update official province code and parameters"
+  }
+}

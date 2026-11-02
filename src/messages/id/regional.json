@@ -1,0 +1,113 @@
+{
+  "common": {
+    "domestic": "Indonesia (Domestik)",
+    "international": "Luar Negeri (Internasional)",
+    "alias": "Nama Alias / Singkatan",
+    "description": "Deskripsi Wilayah",
+    "coordinates": "Koordinat Centroid",
+    "latitude": "Lintang (Latitude)",
+    "longitude": "Bujur (Longitude)",
+    "code": "Kode Resmi BPS / ISO",
+    "selectCountry": "Pilih Negara",
+    "selectProvince": "Pilih Provinsi",
+    "selectRegency": "Pilih Kabupaten / Kota",
+    "selectDistrict": "Pilih Kecamatan",
+    "selectVillage": "Pilih Kelurahan / Desa"
+  },
+  "countries": {
+    "title": "Master Data Negara",
+    "subtitle": "Katalog negara tujuan ekspor & asal bahan baku terdaftar",
+    "table": {
+      "name": "Nama Negara",
+      "code": "Kode ISO",
+      "phoneCode": "Kode Telepon",
+      "currency": "Mata Uang"
+    }
+  },
+  "provinces": {
+    "title": "Master Data Provinsi",
+    "subtitle": "Direktori 38 provinsi Indonesia & yurisdiksi internasional",
+    "primaryAction": "Tambah Provinsi",
+    "table": {
+      "name": "Nama Provinsi",
+      "code": "Kode",
+      "country": "Negara",
+      "status": "Status"
+    },
+    "dialog": {
+      "addTitle": "Tambah Provinsi Baru",
+      "addDesc": "Daftarkan provinsi baru ke dalam sistem master wilayah",
+      "editTitle": "Ubah Data Provinsi",
+      "editDesc": "Perbarui identitas dan kode resmi provinsi"
+    }
+  },
+  "regencies": {
+    "title": "Master Kabupaten & Kota",
+    "subtitle": "Sentra perkebunan & unit penyulingan tingkat kabupaten/kota",
+    "primaryAction": "Tambah Kab/Kota",
+    "table": {
+      "name": "Kabupaten / Kota",
+      "code": "Kode BPS",
+      "province": "Provinsi Induk",
+      "alias": "Alias",
+      "status": "Status"
+    },
+    "dialog": {
+      "addTitle": "Tambah Kabupaten / Kota Baru",
+      "addDesc": "Pilih dari 514 wilayah resmi atau input kustom",
+      "editTitle": "Ubah Kabupaten / Kota",
+      "editDesc": "Perbarui data wilayah dan koordinat centroid"
+    },
+    "alert": {
+      "parentMissingTitle": "Provinsi Induk Belum Terdaftar",
+      "parentMissingDesc": "Provinsi {province} untuk wilayah ini belum ada di master data Odoo.",
+      "autoAddLabel": "Otomatis daftarkan Provinsi {province} ke Master Data"
+    }
+  },
+  "districts": {
+    "title": "Master Data Kecamatan",
+    "subtitle": "Pemetaan wilayah sentra tani dan ketel penyulingan atsiri",
+    "primaryAction": "Tambah Kecamatan",
+    "table": {
+      "name": "Nama Kecamatan",
+      "code": "Kode",
+      "regency": "Kabupaten / Kota",
+      "province": "Provinsi",
+      "status": "Status"
+    },
+    "dialog": {
+      "addTitle": "Tambah Kecamatan Baru",
+      "addDesc": "Daftarkan kecamatan binaan baru",
+      "editTitle": "Ubah Kecamatan",
+      "editDesc": "Perbarui informasi kecamatan binaan"
+    },
+    "alert": {
+      "parentMissingTitle": "Kabupaten Induk Belum Terdaftar",
+      "parentMissingDesc": "Kabupaten {regency} belum ada di master data.",
+      "autoAddLabel": "Otomatis daftarkan Kabupaten {regency} ke Master Data"
+    }
+  },
+  "villages": {
+    "title": "Master Kelurahan & Desa",
+    "subtitle": "Titik hulu petak lahan kebun dan kelompok tani binaan",
+    "primaryAction": "Tambah Kelurahan/Desa",
+    "table": {
+      "name": "Kelurahan / Desa",
+      "code": "Kode Kemendagri",
+      "district": "Kecamatan",
+      "zipCode": "Kode Pos",
+      "status": "Status"
+    },
+    "dialog": {
+      "addTitle": "Tambah Kelurahan / Desa Baru",
+      "addDesc": "Daftarkan desa lokasi perkebunan dan kelompok tani",
+      "editTitle": "Ubah Kelurahan / Desa",
+      "editDesc": "Perbarui data desa dan kode pos resmi"
+    },
+    "alert": {
+      "parentMissingTitle": "Kecamatan Induk Belum Terdaftar",
+      "parentMissingDesc": "Kecamatan {district} belum ada di master data.",
+      "autoAddLabel": "Otomatis daftarkan Kecamatan {district} ke Master Data"
+    }
+  }
+}

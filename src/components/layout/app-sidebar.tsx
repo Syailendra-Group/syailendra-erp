@@ -9,6 +9,7 @@ import {
   BookOpen,
   Briefcase,
   Building,
+  Building2,
   Calendar,
   Clock,
   Factory,
@@ -19,11 +20,14 @@ import {
   FlaskConical,
   FolderTree,
   GitBranch,
+  Globe,
   History,
+  Landmark,
   Layers,
   LayoutDashboard,
   LineChart,
   MapPin,
+  Navigation,
   QrCode,
   RotateCcw,
   Shield,
@@ -145,18 +149,32 @@ export function AppSidebar(): ReactElement {
   // 6. OTHERS PILLAR
   const othersGroups: NavGroupType[] = [
     {
+      titleKey: 'groups.regional_data',
+      items: [
+        { titleKey: 'items.countries', url: '/others/countries', icon: Globe },
+        { titleKey: 'items.provinces', url: '/others/provinces', icon: Landmark },
+        { titleKey: 'items.regencies', url: '/others/regencies', icon: Building2 },
+        { titleKey: 'items.districts', url: '/others/districts', icon: MapPin },
+        { titleKey: 'items.villages', url: '/others/villages', icon: Navigation }
+      ]
+    },
+    {
       titleKey: 'groups.system_ops',
       items: [
         { titleKey: 'items.overview', url: '/settings', icon: Sliders },
         { titleKey: 'items.company_profile', url: '/settings/company', icon: Building },
         { titleKey: 'items.access_roles', url: '/admin/roles', icon: Shield },
-        { titleKey: 'items.partners_registry', url: '/settings/partners', icon: UserPlus },
+        { titleKey: 'items.partners_registry', url: '/settings/partners', icon: UserPlus }
+      ]
+    },
+    {
+      titleKey: 'groups.compliance',
+      items: [
         { titleKey: 'items.audit_trail', url: '/settings/audit', icon: History },
         { titleKey: 'items.sop_docs', url: '/settings/docs', icon: BookOpen }
       ]
     }
   ]
-
   let currentGroups = mainGroups
   if (activeTab === 'traceability') currentGroups = traceabilityGroups
   else if (activeTab === 'wms') currentGroups = wmsGroups

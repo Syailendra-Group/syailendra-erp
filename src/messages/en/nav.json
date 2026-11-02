@@ -16,7 +16,9 @@
     "warehouse_ops": "Warehouse Management",
     "commercial_ops": "Global Sales & CRM",
     "workforce_ops": "Workforce & HRIS",
-    "system_ops": "System & Governance"
+    "system_ops": "2. SYSTEM & GOVERNANCE",
+    "regional_data": "1. REGIONAL MASTER DATA",
+    "compliance": "3. AUDIT & COMPLIANCE"
   },
   "items": {
     "overview": "Overview",
@@ -52,7 +54,12 @@
     "access_roles": "Access Roles & RBAC",
     "partners_registry": "Farmers & Suppliers Master",
     "audit_trail": "Security Audit Trail",
-    "sop_docs": "SOP Manuals & Guidelines"
+    "sop_docs": "SOP Manuals & Guidelines",
+    "countries": "Countries",
+    "provinces": "Provinces & States",
+    "regencies": "Regencies & Cities",
+    "districts": "Districts",
+    "villages": "Villages"
   },
   "breadcrumbs": {
     "home": "Home",
@@ -95,7 +102,13 @@
     "audit": "Audit Trail",
     "docs": "SOP Manuals",
     "create": "Create New",
-    "edit": "Edit"
+    "edit": "Edit",
+    "others": "Others",
+    "countries": "Countries",
+    "provinces": "Provinces",
+    "regencies": "Regencies & Cities",
+    "districts": "Districts",
+    "villages": "Villages"
   },
   "user": {
     "profile": "Profile Account",

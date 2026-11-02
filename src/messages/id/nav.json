@@ -16,7 +16,9 @@
     "warehouse_ops": "Manajemen Pergudangan (WMS)",
     "commercial_ops": "Penjualan Global & CRM",
     "workforce_ops": "Ketenagakerjaan & HRIS",
-    "system_ops": "Sistem & Tata Kelola"
+    "system_ops": "2. SISTEM & TATA KELOLA",
+    "regional_data": "1. MASTER DATA WILAYAH",
+    "compliance": "3. AUDIT & KEPATUHAN"
   },
   "items": {
     "overview": "Overview",
@@ -52,7 +54,12 @@
     "access_roles": "Hak Akses & RBAC",
     "partners_registry": "Master Petani & Supplier",
     "audit_trail": "Jejak Audit Keamanan",
-    "sop_docs": "Manual SOP & Panduan Kerja"
+    "sop_docs": "Manual SOP & Panduan Kerja",
+    "countries": "Negara",
+    "provinces": "Provinsi",
+    "regencies": "Kabupaten / Kota",
+    "districts": "Kecamatan",
+    "villages": "Kelurahan / Desa"
   },
   "breadcrumbs": {
     "home": "Beranda",
@@ -95,7 +102,13 @@
     "audit": "Log Audit",
     "docs": "Dokumen SOP",
     "create": "Tambah Baru",
-    "edit": "Ubah"
+    "edit": "Ubah",
+    "others": "Lainnya",
+    "countries": "Negara",
+    "provinces": "Provinsi",
+    "regencies": "Kabupaten / Kota",
+    "districts": "Kecamatan",
+    "villages": "Kelurahan / Desa"
   },
   "user": {
     "profile": "Profil Akun",

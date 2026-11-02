@@ -2,8 +2,8 @@
 
 import { useTranslations } from 'next-intl'
 
+import { SectionCard } from '@/components/card/section-card'
 import { FormFieldWrapper } from '@/components/form/form-field-wrapper'
-import { SectionCard } from '@/components/shared/section-card'
 import { Textarea } from '@/components/ui/textarea'
 
 import type { FarmerFormValues } from '@/schemas/traceability/farmer-schema'

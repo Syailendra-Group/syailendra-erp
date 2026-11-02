@@ -3,12 +3,12 @@
 import { Phone, UserCheck } from 'lucide-react'
 
 import { DataTableColumnHeader } from '@/components/data-table/column-header'
-import { Badge } from '@/components/ui/badge'
+import { StatusBadge } from '@/components/shared/status-badge'
 
 import { DataTableRowActions } from './row-actions'
 
+import type { DistillerRecord } from '@/types/traceability/distiller'
 import type { ColumnDef } from '@tanstack/react-table'
-import type { DistillerRecord } from './actions'
 
 export interface GetColumnsOptions {
   tTrace: (key: string) => string
@@ -51,11 +51,7 @@ export function getColumns({ tTrace, tCommon }: GetColumnsOptions): ColumnDef<Di
       cell: ({ row }) => {
         const m = row.original.method || 'steam'
         const label = tTrace(`distillers.methods.${m}`) || m
-        return (
-          <Badge variant="outline" className="border-blue-500/20 bg-blue-500/10 text-[10px] font-semibold text-blue-600 dark:text-blue-400">
-            {label}
-          </Badge>
-        )
+        return <StatusBadge variant="info">{label}</StatusBadge>
       },
       filterFn: (row, id, value) => {
         return Array.isArray(value) && value.includes(row.getValue(id))
@@ -100,18 +96,7 @@ export function getColumns({ tTrace, tCommon }: GetColumnsOptions): ColumnDef<Di
       header: ({ column }) => <DataTableColumnHeader column={column} title={tTrace('distillers.table.status')} />,
       cell: ({ row }) => {
         const active = row.original.active
-        return (
-          <Badge
-            variant="outline"
-            className={
-              active
-                ? 'border-emerald-500/20 bg-emerald-500/10 text-[10px] text-emerald-600 dark:text-emerald-400'
-                : 'border-muted-foreground/20 bg-muted/20 text-muted-foreground text-[10px]'
-            }
-          >
-            {active ? tCommon('status.active') : tCommon('status.archived')}
-          </Badge>
-        )
+        return <StatusBadge variant={active ? 'success' : 'warning'}>{active ? tCommon('status.active') : tCommon('status.archived')}</StatusBadge>
       },
       filterFn: (row, id, value) => {
         return Array.isArray(value) && value.includes(String(row.getValue(id)))

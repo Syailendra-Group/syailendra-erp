@@ -5,7 +5,7 @@
 
 import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
 
-import { getDepartmentsAction, saveDepartmentAction, toggleDepartmentStatusAction } from '@/features/admin/departments/actions'
+import { getDepartmentsAction, saveDepartmentAction, toggleDepartmentStatusAction } from '@/actions/hris/department.action'
 
 import type { DepartmentFormValues } from '@/schemas/hris/department-schema'
 import type { DepartmentRecord } from '@/types/hris/department'

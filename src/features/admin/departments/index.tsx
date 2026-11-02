@@ -1,18 +1,18 @@
 'use client'
 
-import { useCallback, useEffect, useState, useTransition } from 'react'
+import { useState } from 'react'
 import { FolderTree, Plus } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 
 import { PageHeader } from '@/components/shared/page-header'
 import { Button } from '@/components/ui/button'
+import { useDepartmentsQuery } from '@/hooks/hris/use-departments'
 
-import { getDepartmentsAction } from './actions'
 import { DepartmentsActionDialog } from './form'
 import { DepartmentsTable } from './table'
 
+import type { DepartmentRecord } from '@/actions/hris/department.action'
 import type { ReactElement } from 'react'
-import type { DepartmentRecord } from './actions'
 
 export interface DepartmentsFeatureProps {
   initialData?: DepartmentRecord[]
@@ -20,23 +20,9 @@ export interface DepartmentsFeatureProps {
 
 export function DepartmentsFeature({ initialData = [] }: DepartmentsFeatureProps): ReactElement {
   const tAdmin = useTranslations('admin.departments')
-  const [data, setData] = useState<DepartmentRecord[]>(initialData)
+  const { data = initialData, refetch } = useDepartmentsQuery()
   const [dialogOpen, setDialogOpen] = useState(false)
   const [selectedRow, setSelectedRow] = useState<DepartmentRecord | null>(null)
-  const [, startTransition] = useTransition()
-
-  const refreshData = useCallback(() => {
-    startTransition(async () => {
-      const res = await getDepartmentsAction()
-      setData(res.departments)
-    })
-  }, [])
-
-  useEffect(() => {
-    if (initialData.length === 0) {
-      refreshData()
-    }
-  }, [initialData.length, refreshData])
 
   const handleCreate = () => {
     setSelectedRow(null)
@@ -62,9 +48,9 @@ export function DepartmentsFeature({ initialData = [] }: DepartmentsFeatureProps
         }
       />
 
-      <DepartmentsTable data={data} onEdit={handleEdit} onRefresh={refreshData} />
+      <DepartmentsTable data={data} onEdit={handleEdit} onRefresh={refetch} />
 
-      <DepartmentsActionDialog open={dialogOpen} onOpenChange={setDialogOpen} currentRow={selectedRow} onSuccess={refreshData} />
+      <DepartmentsActionDialog open={dialogOpen} onOpenChange={setDialogOpen} currentRow={selectedRow} onSuccess={refetch} />
     </div>
   )
 }

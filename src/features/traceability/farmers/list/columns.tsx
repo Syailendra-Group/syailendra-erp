@@ -3,12 +3,12 @@
 import { MapPin, Phone } from 'lucide-react'
 
 import { DataTableColumnHeader } from '@/components/data-table/column-header'
-import { Badge } from '@/components/ui/badge'
+import { StatusBadge } from '@/components/shared/status-badge'
 
 import { DataTableRowActions } from './row-actions'
 
+import type { FarmerRecord } from '@/types/traceability/farmer'
 import type { ColumnDef } from '@tanstack/react-table'
-import type { FarmerRecord } from '../actions'
 
 export interface GetColumnsOptions {
   tTrace: (key: string) => string
@@ -56,11 +56,7 @@ export function getColumns({ tTrace, tCommon }: GetColumnsOptions): ColumnDef<Fa
       cell: ({ row }) => {
         const cmd = row.original.commodity || 'gaharu'
         const label = tTrace(`commodities.${cmd}`) || cmd
-        return (
-          <Badge variant="outline" className="border-primary/20 bg-primary/10 text-primary text-[10px] font-semibold">
-            {label}
-          </Badge>
-        )
+        return <StatusBadge variant="primary">{label}</StatusBadge>
       },
       filterFn: (row, id, value) => {
         return Array.isArray(value) && value.includes(row.getValue(id))
@@ -109,16 +105,7 @@ export function getColumns({ tTrace, tCommon }: GetColumnsOptions): ColumnDef<Fa
       cell: ({ row }) => {
         const active = row.original.active
         return (
-          <Badge
-            variant="outline"
-            className={
-              active
-                ? 'border-emerald-500/20 bg-emerald-500/10 text-[10px] text-emerald-600 dark:text-emerald-400'
-                : 'border-muted-foreground/20 bg-muted/20 text-muted-foreground text-[10px]'
-            }
-          >
-            {active ? tCommon('status.active') : tCommon('status.archived')}
-          </Badge>
+          <StatusBadge variant={active ? 'success' : 'destructive'}>{active ? tCommon('status.active') : tCommon('status.archived')}</StatusBadge>
         )
       },
       filterFn: (row, id, value) => {

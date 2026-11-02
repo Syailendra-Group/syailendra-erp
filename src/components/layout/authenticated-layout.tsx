@@ -10,7 +10,7 @@ import { Breadcrumbs } from '@/components/shared/breadcrumbs'
 import { SkipToMain } from '@/components/skip-to-main'
 import { SidebarInset, SidebarProvider } from '@/components/ui/sidebar'
 import { TooltipProvider } from '@/components/ui/tooltip'
-import { SearchProvider } from '@/contexts/search-context'
+import { SearchProvider } from '@/contexts/main/search.context'
 import { usePathname } from '@/i18n/navigation'
 import { useNavStore } from '@/stores/nav-store'
 

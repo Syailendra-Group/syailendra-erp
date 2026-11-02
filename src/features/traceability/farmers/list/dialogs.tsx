@@ -1,13 +1,11 @@
 'use client'
 
-import { useTransition } from 'react'
 import { useTranslations } from 'next-intl'
 import { toast } from 'sonner'
 
 import { ConfirmDialog } from '@/components/confirm-dialog'
-
-import { toggleFarmerStatusAction } from '../actions'
-import { useFarmers } from '../context'
+import { useFarmers } from '@/contexts/traceability/farmer.context'
+import { useToggleFarmerStatusMutation } from '@/hooks/traceability/use-farmers'
 
 import type { ReactElement } from 'react'
 
@@ -15,14 +13,14 @@ export function FarmersDialogs(): ReactElement {
   const tTrace = useTranslations('traceability.farmers')
   const tCommon = useTranslations('common')
   const { open, setOpen, currentRow, setCurrentRow, refreshData } = useFarmers()
-  const [isPending, startTransition] = useTransition()
+  const { mutateAsync: toggleStatus, isPending } = useToggleFarmerStatusMutation()
 
-  const handleToggleStatus = () => {
+  const handleToggleStatus = async () => {
     if (!currentRow) return
     const targetStatus = !currentRow.active
 
-    startTransition(async () => {
-      const res = await toggleFarmerStatusAction(currentRow.id, targetStatus)
+    try {
+      const res = await toggleStatus({ id: currentRow.id, active: targetStatus })
       if (res.success) {
         toast.success(targetStatus ? tTrace('messages.restored') : tTrace('messages.archived'))
         refreshData()
@@ -31,7 +29,10 @@ export function FarmersDialogs(): ReactElement {
       } else {
         toast.error(res.error || (targetStatus ? tTrace('messages.restoreFailed') : tTrace('messages.archiveFailed')))
       }
-    })
+    } catch (err) {
+      const msg = err instanceof Error ? err.message : targetStatus ? tTrace('messages.restoreFailed') : tTrace('messages.archiveFailed')
+      toast.error(msg)
+    }
   }
 
   return (

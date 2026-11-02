@@ -1,5 +1,5 @@
+import { getFarmersAction } from '@/actions/traceability/farmer.action'
 import { FarmersFeature } from '@/features/traceability/farmers'
-import { getFarmersAction } from '@/features/traceability/farmers/actions'
 
 import type { Metadata } from 'next'
 import type { ReactElement } from 'react'

@@ -2,8 +2,8 @@
 
 import { createContext, useContext, useState } from 'react'
 
+import type { DistillerRecord } from '@/actions/traceability/distiller.action'
 import type { ReactElement, ReactNode } from 'react'
-import type { DistillerRecord } from './actions'
 
 export type DistillersDialogType = 'add' | 'edit' | 'archive' | 'view' | null
 

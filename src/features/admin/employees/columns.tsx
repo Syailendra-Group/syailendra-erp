@@ -3,12 +3,12 @@
 import { Building, Mail, Phone } from 'lucide-react'
 
 import { DataTableColumnHeader } from '@/components/data-table/column-header'
-import { Badge } from '@/components/ui/badge'
+import { StatusBadge } from '@/components/shared/status-badge'
 
 import { DataTableRowActions } from './row-actions'
 
+import type { EmployeeRecord } from '@/types/hris/employee'
 import type { ColumnDef } from '@tanstack/react-table'
-import type { EmployeeRecord } from './actions'
 
 export interface GetColumnsOptions {
   tAdmin: (key: string) => string
@@ -79,9 +79,7 @@ export function getColumns({ tAdmin, tCommon }: GetColumnsOptions): ColumnDef<Em
         const active = row.original.active
         return (
           <div className="flex justify-center">
-            <Badge variant={active ? 'default' : 'secondary'} className="text-[10px]">
-              {active ? tCommon('status.active') : tCommon('status.archived')}
-            </Badge>
+            <StatusBadge variant={active ? 'success' : 'neutral'}>{active ? tCommon('status.active') : tCommon('status.archived')}</StatusBadge>
           </div>
         )
       },

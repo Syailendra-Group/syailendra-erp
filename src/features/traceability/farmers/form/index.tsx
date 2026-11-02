@@ -1,6 +1,5 @@
 'use client'
 
-import { useTransition } from 'react'
 import { zodResolver } from '@hookform/resolvers/zod'
 import { Loader2, Save } from 'lucide-react'
 import { useTranslations } from 'next-intl'
@@ -9,10 +8,10 @@ import { toast } from 'sonner'
 
 import { PageHeader } from '@/components/shared/page-header'
 import { Button } from '@/components/ui/button'
+import { useSaveFarmerMutation } from '@/hooks/traceability/use-farmers'
 import { Link, useRouter } from '@/i18n/navigation'
 import { farmerFormSchema } from '@/schemas/traceability/farmer-schema'
 
-import { saveFarmerAction } from '../actions'
 import { CommoditySection } from './commodity-section'
 import { IdentitySection } from './identity-section'
 import { LocationSection } from './location-section'
@@ -21,8 +20,8 @@ import { getCommodityOptions, getFarmingMethodOptions } from './options'
 import { TerroirSection } from './terroir-section'
 
 import type { FarmerFormValues } from '@/schemas/traceability/farmer-schema'
+import type { FarmerRecord } from '@/types/traceability/farmer'
 import type { ReactElement } from 'react'
-import type { FarmerRecord } from '../actions'
 
 export interface FarmerFormProps {
   initialData?: FarmerRecord | null
@@ -33,7 +32,7 @@ export function FarmerForm({ initialData }: FarmerFormProps): ReactElement {
   const router = useRouter()
   const tTrace = useTranslations('traceability.farmers')
   const tCommon = useTranslations('common')
-  const [isPending, startTransition] = useTransition()
+  const { mutateAsync: saveFarmer, isPending } = useSaveFarmerMutation()
 
   const {
     register,
@@ -64,9 +63,9 @@ export function FarmerForm({ initialData }: FarmerFormProps): ReactElement {
   const commodityOptions = getCommodityOptions(tTrace)
   const methodOptions = getFarmingMethodOptions(tTrace)
 
-  const onSubmit = (values: FarmerFormValues) => {
-    startTransition(async () => {
-      const res = await saveFarmerAction(values)
+  const onSubmit = async (values: FarmerFormValues) => {
+    try {
+      const res = await saveFarmer(values)
       if (res.success) {
         toast.success(tTrace('messages.saved'))
         router.push('/traceability/farmers')
@@ -74,7 +73,10 @@ export function FarmerForm({ initialData }: FarmerFormProps): ReactElement {
       } else {
         toast.error(res.error || tTrace('messages.saveFailed'))
       }
-    })
+    } catch (err) {
+      const msg = err instanceof Error ? err.message : tTrace('messages.saveFailed')
+      toast.error(msg)
+    }
   }
 
   return (
@@ -89,13 +91,13 @@ export function FarmerForm({ initialData }: FarmerFormProps): ReactElement {
 
       <form id="farmer-form" onSubmit={handleSubmit(onSubmit)} className="space-y-5">
         <div className="grid grid-cols-1 items-stretch gap-5 lg:grid-cols-2">
-          {/* Left Column (Desktop) */}
+          {/* Left Column */}
           <IdentitySection register={register} errors={errors} isPending={isPending} />
 
-          {/* Right Column (Desktop) */}
+          {/* Right Column */}
           <LocationSection register={register} errors={errors} isPending={isPending} />
 
-          {/* Left Column (Desktop) */}
+          {/* Left Column */}
           <CommoditySection
             register={register}
             errors={errors}
@@ -106,7 +108,7 @@ export function FarmerForm({ initialData }: FarmerFormProps): ReactElement {
             isPending={isPending}
           />
 
-          {/* Right Column (Desktop) */}
+          {/* Right Column */}
           <TerroirSection register={register} errors={errors} watch={watch} isPending={isPending} />
 
           {/* Full Width Notes Section */}
@@ -120,7 +122,7 @@ export function FarmerForm({ initialData }: FarmerFormProps): ReactElement {
           <Button variant="outline" asChild>
             <Link href="/traceability/farmers">{tCommon('actions.cancel')}</Link>
           </Button>
-          <Button type="submit" form="farmer-form" disabled={isPending} className="cursor-pointer gap-2 font-semibold">
+          <Button type="submit" form="farmer-form" disabled={isPending} className="gap-2 font-semibold">
             {isPending ? <Loader2 className="size-4 animate-spin" /> : <Save className="size-4" />}
             <span>{isPending ? tCommon('actions.loading') : isEdit ? tCommon('actions.save') : tTrace('primaryAction')}</span>
           </Button>

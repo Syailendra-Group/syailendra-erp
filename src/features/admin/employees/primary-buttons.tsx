@@ -5,7 +5,7 @@ import { UserPlus } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 
 import { Button } from '@/components/ui/button'
-import { useEmployees } from '@/contexts/employees-context'
+import { useEmployees } from '@/contexts/hris/employee.context'
 
 export function EmployeesPrimaryButtons(): ReactElement {
   const tAdmin = useTranslations('admin.employees')

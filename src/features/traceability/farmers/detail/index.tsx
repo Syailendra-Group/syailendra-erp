@@ -3,18 +3,17 @@
 import { Edit2 } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 
+import { LinkButton } from '@/components/button/link-button'
 import { PageHeader } from '@/components/shared/page-header'
-import { Badge } from '@/components/ui/badge'
-import { Button } from '@/components/ui/button'
-import { Link } from '@/i18n/navigation'
+import { StatusBadge } from '@/components/shared/status-badge'
 
 import { AgriCard } from './agri-card'
 import { NotesCard } from './notes-card'
 import { ProfileCard } from './profile-card'
 import { TerroirCard } from './terroir-card'
 
+import type { FarmerRecord } from '@/types/traceability/farmer'
 import type { ReactElement } from 'react'
-import type { FarmerRecord } from '../actions'
 
 export interface FarmerDetailProps {
   farmer: FarmerRecord
@@ -37,23 +36,16 @@ export function FarmerDetail({ farmer }: FarmerDetailProps): ReactElement {
         title={farmer.name}
         description={tTrace('detail.registeredSince')}
         titleBadge={
-          <Badge variant="outline" className="font-mono text-xs">
+          <StatusBadge variant="neutral" className="font-mono text-xs">
             {farmer.ref}
-          </Badge>
+          </StatusBadge>
         }
         statusBadge={
-          <Badge variant={farmer.active ? 'default' : 'secondary'} className="text-[11px]">
+          <StatusBadge variant={farmer.active ? 'success' : 'destructive'} size="default">
             {farmer.active ? tTrace('status.activeVerified') : tTrace('status.archived')}
-          </Badge>
+          </StatusBadge>
         }
-        actions={
-          <Button asChild className="gap-2 font-semibold">
-            <Link href={`/traceability/farmers/${farmerCode}/edit`}>
-              <Edit2 className="size-4" />
-              <span>{tTrace('detail.edit')}</span>
-            </Link>
-          </Button>
-        }
+        actions={<LinkButton href={`/traceability/farmers/${farmerCode}/edit`} icon={Edit2} label={tTrace('detail.edit')} />}
       />
 
       {/* Grid Cards Details */}

@@ -1,5 +1,5 @@
+import { getDistillersAction } from '@/actions/traceability/distiller.action'
 import { DistillersFeature } from '@/features/traceability/distillers'
-import { getDistillersAction } from '@/features/traceability/distillers/actions'
 
 import type { Metadata } from 'next'
 import type { ReactElement } from 'react'

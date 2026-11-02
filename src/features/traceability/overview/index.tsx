@@ -4,17 +4,17 @@ import { type ReactElement } from 'react'
 import { ArrowRight, CheckCircle2, GitBranch, Layers, QrCode, RotateCcw, ShieldCheck, Tag } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 
+import { SummaryCardGrid } from '@/components/card/summary-card'
 import { PageHeader } from '@/components/shared/page-header'
 import { QuickActions } from '@/components/shared/quick-actions'
-import { SummaryCardGrid } from '@/components/shared/summary-card'
 import { Badge } from '@/components/ui/badge'
 import { Button } from '@/components/ui/button'
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card'
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '@/components/ui/table'
 import { Link } from '@/i18n/navigation'
 
+import type { SummaryCardItem } from '@/components/card/summary-card'
 import type { QuickActionItem } from '@/components/shared/quick-actions'
-import type { SummaryCardItem } from '@/components/shared/summary-card'
 
 export function TraceabilityOverview(): ReactElement {
   const tCommon = useTranslations('common')

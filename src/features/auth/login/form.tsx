@@ -1,6 +1,6 @@
 'use client'
 
-import * as React from 'react'
+import { type ReactElement } from 'react'
 import { useRouter } from 'next/navigation'
 import { zodResolver } from '@hookform/resolvers/zod'
 import { Loader2, LogIn } from 'lucide-react'
@@ -12,9 +12,8 @@ import { PasswordInput } from '@/components/form/password-input'
 import { Button } from '@/components/ui/button'
 import { Field, FieldError, FieldGroup, FieldLabel } from '@/components/ui/field'
 import { Input } from '@/components/ui/input'
+import { useLoginMutation } from '@/hooks/auth/use-auth'
 import { loginSchema } from '@/schemas/auth/auth-schema'
-
-import { loginAction } from './actions'
 
 import type { LoginFormValues } from '@/schemas/auth/auth-schema'
 import type { SubmitHandler } from 'react-hook-form'
@@ -23,11 +22,11 @@ export interface LoginFormProps {
   onSuccessRedirect?: string
 }
 
-export function LoginForm({ onSuccessRedirect = '/overview' }: LoginFormProps): React.ReactElement {
+export function LoginForm({ onSuccessRedirect = '/overview' }: LoginFormProps): ReactElement {
   const tAuth = useTranslations('auth')
   const tCommon = useTranslations('common')
   const router = useRouter()
-  const [isPending, startTransition] = React.useTransition()
+  const { mutateAsync: login, isPending } = useLoginMutation()
 
   const {
     register,
@@ -42,21 +41,19 @@ export function LoginForm({ onSuccessRedirect = '/overview' }: LoginFormProps): 
     }
   })
 
-  const onSubmit: SubmitHandler<LoginFormValues> = (values) => {
-    startTransition(async () => {
-      try {
-        const result = await loginAction(values)
-        if (result.success) {
-          toast.success(tAuth('messages.login_success'))
-          router.push(onSuccessRedirect)
-          router.refresh()
-        } else {
-          toast.error(result.error || tAuth('messages.login_failed'))
-        }
-      } catch {
-        toast.error(tAuth('messages.login_failed'))
+  const onSubmit: SubmitHandler<LoginFormValues> = async (values) => {
+    try {
+      const result = await login(values)
+      if (result.success) {
+        toast.success(tAuth('messages.login_success'))
+        router.push(onSuccessRedirect)
+        router.refresh()
+      } else {
+        toast.error(result.error || tAuth('messages.login_failed'))
       }
-    })
+    } catch {
+      toast.error(tAuth('messages.login_failed'))
+    }
   }
 
   return (

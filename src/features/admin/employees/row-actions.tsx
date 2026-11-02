@@ -2,11 +2,11 @@
 
 import { useTranslations } from 'next-intl'
 
-import { ActionButton } from '@/components/shared/action-button'
-import { useEmployees } from '@/contexts/employees-context'
+import { ActionButton } from '@/components/button/action-button'
+import { useEmployees } from '@/contexts/hris/employee.context'
 
+import type { EmployeeRecord } from '@/actions/hris/employee.action'
 import type { ReactElement } from 'react'
-import type { EmployeeRecord } from './actions'
 
 export interface DataTableRowActionsProps {
   row: EmployeeRecord

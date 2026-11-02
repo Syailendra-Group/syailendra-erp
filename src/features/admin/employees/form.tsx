@@ -1,6 +1,6 @@
 'use client'
 
-import { useEffect, useTransition } from 'react'
+import { useEffect } from 'react'
 import { zodResolver } from '@hookform/resolvers/zod'
 import { useTranslations } from 'next-intl'
 import { useForm } from 'react-hook-form'
@@ -11,13 +11,12 @@ import { Button } from '@/components/ui/button'
 import { Dialog, DialogContent, DialogDescription, DialogFooter, DialogHeader, DialogTitle } from '@/components/ui/dialog'
 import { Form, FormControl, FormField, FormItem, FormLabel, FormMessage } from '@/components/ui/form'
 import { Input } from '@/components/ui/input'
+import { useSaveEmployeeMutation } from '@/hooks/hris/use-employees'
 import { employeeFormSchema } from '@/schemas/hris/employee-schema'
 
-import { saveEmployeeAction } from './actions'
-
+import type { DepartmentOption, EmployeeRecord } from '@/actions/hris/employee.action'
 import type { EmployeeFormValues } from '@/schemas/hris/employee-schema'
 import type { ReactElement } from 'react'
-import type { DepartmentOption, EmployeeRecord } from './actions'
 
 export interface EmployeesActionDialogProps {
   currentRow?: EmployeeRecord | null
@@ -31,7 +30,7 @@ export function EmployeesActionDialog({ currentRow, open, onOpenChange, departme
   const isEdit = !!currentRow
   const tAdmin = useTranslations('admin.employees')
   const tCommon = useTranslations('common')
-  const [isPending, startTransition] = useTransition()
+  const { mutateAsync: saveEmployee, isPending } = useSaveEmployeeMutation()
 
   const form = useForm<EmployeeFormValues>({
     resolver: zodResolver(employeeFormSchema),
@@ -58,9 +57,9 @@ export function EmployeesActionDialog({ currentRow, open, onOpenChange, departme
     }
   }, [open, currentRow, departments, form])
 
-  const onSubmit = (values: EmployeeFormValues) => {
-    startTransition(async () => {
-      const res = await saveEmployeeAction(values)
+  const onSubmit = async (values: EmployeeFormValues) => {
+    try {
+      const res = await saveEmployee(values)
       if (res.success) {
         toast.success(isEdit ? tAdmin('messages.updated') : tAdmin('messages.created'))
         form.reset()
@@ -69,7 +68,10 @@ export function EmployeesActionDialog({ currentRow, open, onOpenChange, departme
       } else {
         toast.error(res.error || tCommon('status.error'))
       }
-    })
+    } catch (err) {
+      const msg = err instanceof Error ? err.message : tCommon('status.error')
+      toast.error(msg)
+    }
   }
 
   return (

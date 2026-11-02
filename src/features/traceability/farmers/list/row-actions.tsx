@@ -2,12 +2,11 @@
 
 import { useTranslations } from 'next-intl'
 
-import { ActionButton } from '@/components/shared/action-button'
+import { ActionButton } from '@/components/button/action-button'
+import { useFarmers } from '@/contexts/traceability/farmer.context'
 
-import { useFarmers } from '../context'
-
+import type { FarmerRecord } from '@/actions/traceability/farmer.action'
 import type { ReactElement } from 'react'
-import type { FarmerRecord } from '../actions'
 
 export interface DataTableRowActionsProps {
   row: FarmerRecord

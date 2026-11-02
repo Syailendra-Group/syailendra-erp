@@ -3,12 +3,12 @@
 import { MessageSquare, User } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 
+import { SectionCard } from '@/components/card/section-card'
 import { DetailRow } from '@/components/shared/detail-row'
-import { SectionCard } from '@/components/shared/section-card'
 import { LongText } from '@/components/text/long-text'
 
+import type { FarmerRecord } from '@/actions/traceability/farmer.action'
 import type { ReactElement } from 'react'
-import type { FarmerRecord } from '../actions'
 
 export interface ProfileCardProps {
   farmer: FarmerRecord

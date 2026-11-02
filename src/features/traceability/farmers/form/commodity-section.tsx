@@ -3,9 +3,9 @@
 import { Sprout } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 
+import { SectionCard } from '@/components/card/section-card'
 import { FormFieldWrapper } from '@/components/form/form-field-wrapper'
 import { SelectForm } from '@/components/form/select-form'
-import { SectionCard } from '@/components/shared/section-card'
 import { Input } from '@/components/ui/input'
 
 import type { SelectOption } from '@/components/form/select-form'

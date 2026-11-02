@@ -2,8 +2,8 @@
 
 import { createContext, useContext, useState } from 'react'
 
+import type { FarmerRecord } from '@/types/traceability/farmer'
 import type { ReactElement, ReactNode } from 'react'
-import type { FarmerRecord } from './actions'
 
 export type FarmersDialogType = 'add' | 'edit' | 'archive' | 'view' | null
 

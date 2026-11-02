@@ -1,6 +1,5 @@
 'use client'
 
-import { useTransition } from 'react'
 import { Building, Hash, Mail, Phone, ShieldCheck, User } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 import { toast } from 'sonner'
@@ -10,9 +9,9 @@ import { Badge } from '@/components/ui/badge'
 import { Button } from '@/components/ui/button'
 import { Dialog, DialogContent, DialogDescription, DialogFooter, DialogHeader, DialogTitle } from '@/components/ui/dialog'
 import { Separator } from '@/components/ui/separator'
-import { useEmployees } from '@/contexts/employees-context'
+import { useEmployees } from '@/contexts/hris/employee.context'
+import { useToggleEmployeeStatusMutation } from '@/hooks/hris/use-employees'
 
-import { toggleEmployeeStatusAction } from './actions'
 import { EmployeesActionDialog } from './form'
 
 import type { ReactElement } from 'react'
@@ -21,12 +20,12 @@ export function EmployeesDialogs(): ReactElement {
   const tAdmin = useTranslations('admin.employees')
   const tCommon = useTranslations('common')
   const { open, setOpen, currentRow, setCurrentRow, departments, refreshData } = useEmployees()
-  const [isPending, startTransition] = useTransition()
+  const { mutateAsync: toggleEmployeeStatus, isPending } = useToggleEmployeeStatusMutation()
 
-  const handleToggleStatus = () => {
+  const handleToggleStatus = async () => {
     if (!currentRow) return
-    startTransition(async () => {
-      const res = await toggleEmployeeStatusAction(currentRow.id, !currentRow.active)
+    try {
+      const res = await toggleEmployeeStatus({ id: currentRow.id, active: !currentRow.active })
       if (res.success) {
         toast.success(currentRow.active ? tAdmin('messages.archived') : tAdmin('messages.updated'))
         setOpen(null)
@@ -35,7 +34,10 @@ export function EmployeesDialogs(): ReactElement {
       } else {
         toast.error(res.error || tCommon('status.error'))
       }
-    })
+    } catch (err) {
+      const msg = err instanceof Error ? err.message : tCommon('status.error')
+      toast.error(msg)
+    }
   }
 
   return (

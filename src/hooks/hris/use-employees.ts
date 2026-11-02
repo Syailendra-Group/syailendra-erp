@@ -5,7 +5,7 @@
 
 import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
 
-import { getEmployeesAction, saveEmployeeAction, toggleEmployeeStatusAction } from '@/features/admin/employees/actions'
+import { getEmployeesAction, saveEmployeeAction, toggleEmployeeStatusAction } from '@/actions/hris/employee.action'
 
 import type { EmployeeFormValues } from '@/schemas/hris/employee-schema'
 import type { DepartmentOption, EmployeeRecord } from '@/types/hris/employee'

@@ -4,12 +4,12 @@ import { type ReactElement } from 'react'
 import { Briefcase, Building2, CheckCircle2, Clock, FileText, UserCheck, Users2 } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 
+import { SummaryCardGrid } from '@/components/card/summary-card'
 import { QuickActions } from '@/components/shared/quick-actions'
-import { SummaryCardGrid } from '@/components/shared/summary-card'
 import { Badge } from '@/components/ui/badge'
 
+import type { SummaryCardItem } from '@/components/card/summary-card'
 import type { QuickActionItem } from '@/components/shared/quick-actions'
-import type { SummaryCardItem } from '@/components/shared/summary-card'
 
 export function HrisOverview(): ReactElement {
   const tCommon = useTranslations('common')

@@ -5,7 +5,7 @@
 
 import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
 
-import { getDistillersAction, saveDistillerAction, toggleDistillerStatusAction } from '@/features/traceability/distillers/actions'
+import { getDistillersAction, saveDistillerAction, toggleDistillerStatusAction } from '@/actions/traceability/distiller.action'
 
 import type { DistillerFormValues } from '@/schemas/traceability/distiller-schema'
 import type { DistillerRecord } from '@/types/traceability/distiller'

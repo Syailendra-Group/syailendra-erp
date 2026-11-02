@@ -2,7 +2,7 @@
 
 import { createContext, useContext, useState } from 'react'
 
-import type { DepartmentOption, EmployeeRecord } from '@/features/admin/employees/actions'
+import type { DepartmentOption, EmployeeRecord } from '@/actions/hris/employee.action'
 import type { ReactElement, ReactNode } from 'react'
 
 export type EmployeesDialogType = 'add' | 'edit' | 'archive' | 'view' | null

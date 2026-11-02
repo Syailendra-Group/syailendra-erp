@@ -4,8 +4,7 @@ import { Plus } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 
 import { Button } from '@/components/ui/button'
-
-import { useDistillers } from './context'
+import { useDistillers } from '@/contexts/traceability/distiller.context'
 
 import type { ReactElement } from 'react'
 

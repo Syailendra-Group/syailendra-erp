@@ -15,14 +15,14 @@ import { useTranslations } from 'next-intl'
 
 import { DataTablePagination, DataTableToolbar } from '@/components/data-table'
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '@/components/ui/table'
-import { useEmployees } from '@/contexts/employees-context'
+import { useEmployees } from '@/contexts/hris/employee.context'
 import { cn } from '@/lib/utils'
 
 import { getColumns } from './columns'
 
+import type { EmployeeRecord } from '@/actions/hris/employee.action'
 import type { ColumnFiltersState, SortingState, VisibilityState } from '@tanstack/react-table'
 import type { ReactElement } from 'react'
-import type { EmployeeRecord } from './actions'
 
 export interface EmployeesTableProps {
   data: EmployeeRecord[]

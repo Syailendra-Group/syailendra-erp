@@ -1,6 +1,6 @@
 'use client'
 
-import { useEffect, useTransition } from 'react'
+import { useEffect } from 'react'
 import { zodResolver } from '@hookform/resolvers/zod'
 import { Loader2 } from 'lucide-react'
 import { useTranslations } from 'next-intl'
@@ -11,14 +11,13 @@ import { FormFieldWrapper } from '@/components/form/form-field-wrapper'
 import { Button } from '@/components/ui/button'
 import { Dialog, DialogContent, DialogDescription, DialogFooter, DialogHeader, DialogTitle } from '@/components/ui/dialog'
 import { Input } from '@/components/ui/input'
+import { useSaveDepartmentMutation } from '@/hooks/hris/use-departments'
 import { departmentFormSchema } from '@/schemas/hris/department-schema'
 
-import { saveDepartmentAction } from './actions'
-
+import type { DepartmentRecord } from '@/actions/hris/department.action'
 import type { DepartmentFormValues } from '@/schemas/hris/department-schema'
 import type { ReactElement } from 'react'
 import type { SubmitHandler } from 'react-hook-form'
-import type { DepartmentRecord } from './actions'
 
 export interface DepartmentsActionDialogProps {
   currentRow?: DepartmentRecord | null
@@ -31,7 +30,7 @@ export function DepartmentsActionDialog({ currentRow, open, onOpenChange, onSucc
   const isEdit = !!currentRow
   const tAdmin = useTranslations('admin.departments')
   const tCommon = useTranslations('common')
-  const [isPending, startTransition] = useTransition()
+  const { mutateAsync: saveDepartment, isPending } = useSaveDepartmentMutation()
 
   const {
     register,
@@ -57,9 +56,9 @@ export function DepartmentsActionDialog({ currentRow, open, onOpenChange, onSucc
     }
   }, [open, currentRow, reset])
 
-  const onSubmit: SubmitHandler<DepartmentFormValues> = (values) => {
-    startTransition(async () => {
-      const res = await saveDepartmentAction(values)
+  const onSubmit: SubmitHandler<DepartmentFormValues> = async (values) => {
+    try {
+      const res = await saveDepartment(values)
       if (res.success) {
         toast.success(isEdit ? tAdmin('messages.updated') : tAdmin('messages.created'))
         reset()
@@ -68,7 +67,10 @@ export function DepartmentsActionDialog({ currentRow, open, onOpenChange, onSucc
       } else {
         toast.error(res.error || tCommon('status.error'))
       }
-    })
+    } catch (err) {
+      const msg = err instanceof Error ? err.message : tCommon('status.error')
+      toast.error(msg)
+    }
   }
 
   return (

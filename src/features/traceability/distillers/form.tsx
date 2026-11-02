@@ -1,6 +1,6 @@
 'use client'
 
-import { useEffect, useTransition } from 'react'
+import { useEffect } from 'react'
 import { zodResolver } from '@hookform/resolvers/zod'
 import { Loader2 } from 'lucide-react'
 import { useTranslations } from 'next-intl'
@@ -13,10 +13,10 @@ import { Button } from '@/components/ui/button'
 import { Dialog, DialogContent, DialogDescription, DialogFooter, DialogHeader, DialogTitle } from '@/components/ui/dialog'
 import { Input } from '@/components/ui/input'
 import { Textarea } from '@/components/ui/textarea'
+import { useDistillers } from '@/contexts/traceability/distiller.context'
+import { useSaveDistillerMutation } from '@/hooks/traceability/use-distillers'
 import { distillerFormSchema } from '@/schemas/traceability/distiller-schema'
 
-import { saveDistillerAction } from './actions'
-import { useDistillers } from './context'
 import { getDistillerOptions } from './options'
 
 import type { DistillerFormValues } from '@/schemas/traceability/distiller-schema'
@@ -26,7 +26,7 @@ export function DistillersActionDialog(): ReactElement {
   const tTrace = useTranslations('traceability.distillers')
   const tCommon = useTranslations('common')
   const { open, setOpen, currentRow, setCurrentRow, refreshData } = useDistillers()
-  const [isPending, startTransition] = useTransition()
+  const { mutateAsync: saveDistiller, isPending } = useSaveDistillerMutation()
   const isEdit = open === 'edit'
 
   const {
@@ -103,9 +103,9 @@ export function DistillersActionDialog(): ReactElement {
 
   const { methodOptions, materialOptions, ownershipOptions, sanitationOptions } = getDistillerOptions(tTrace)
 
-  const onSubmit = (values: DistillerFormValues) => {
-    startTransition(async () => {
-      const res = await saveDistillerAction(values)
+  const onSubmit = async (values: DistillerFormValues) => {
+    try {
+      const res = await saveDistiller(values)
       if (res.success) {
         toast.success(tTrace('messages.saved'))
         refreshData()
@@ -114,7 +114,10 @@ export function DistillersActionDialog(): ReactElement {
       } else {
         toast.error(res.error || tTrace('messages.saveFailed'))
       }
-    })
+    } catch (err) {
+      const msg = err instanceof Error ? err.message : tTrace('messages.saveFailed')
+      toast.error(msg)
+    }
   }
 
   const isOpen = open === 'add' || open === 'edit'

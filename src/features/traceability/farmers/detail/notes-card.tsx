@@ -3,11 +3,11 @@
 import { ShieldCheck } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 
-import { SectionCard } from '@/components/shared/section-card'
+import { SectionCard } from '@/components/card/section-card'
 import { LongText } from '@/components/text/long-text'
 
+import type { FarmerRecord } from '@/actions/traceability/farmer.action'
 import type { ReactElement } from 'react'
-import type { FarmerRecord } from '../actions'
 
 export interface NotesCardProps {
   farmer: FarmerRecord

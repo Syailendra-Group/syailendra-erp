@@ -1,5 +1,5 @@
 export { FarmersFeature } from './list'
 export { FarmerForm } from './form'
 export { FarmerDetail } from './detail'
-export * from './actions'
-export { FarmersProvider, useFarmers } from './context'
+export * from '@/actions/traceability/farmer.action'
+export { FarmersProvider, useFarmers } from '@/contexts/traceability/farmer.context'

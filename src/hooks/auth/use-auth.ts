@@ -5,7 +5,7 @@
 
 import { useMutation } from '@tanstack/react-query'
 
-import { loginAction, logoutAction } from '@/features/auth/login/actions'
+import { loginAction, logoutAction } from '@/actions/auth/auth.action'
 
 import type { LoginFormValues } from '@/schemas/auth/auth-schema'
 import type { AuthActionResult } from '@/types/auth/auth'

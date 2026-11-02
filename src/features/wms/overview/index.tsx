@@ -4,13 +4,13 @@ import { type ReactElement } from 'react'
 import { ArrowDownLeft, ArrowUpRight, Boxes, FileSpreadsheet, MapPin, Package, RotateCcw, ShieldCheck, Warehouse } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 
+import { SummaryCardGrid } from '@/components/card/summary-card'
 import { QuickActions } from '@/components/shared/quick-actions'
-import { SummaryCardGrid } from '@/components/shared/summary-card'
 import { Badge } from '@/components/ui/badge'
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card'
 
+import type { SummaryCardItem } from '@/components/card/summary-card'
 import type { QuickActionItem } from '@/components/shared/quick-actions'
-import type { SummaryCardItem } from '@/components/shared/summary-card'
 
 export function WmsOverview(): ReactElement {
   const tCommon = useTranslations('common')

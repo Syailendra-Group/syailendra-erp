@@ -19,9 +19,9 @@ import { cn } from '@/lib/utils'
 
 import { getColumns } from './columns'
 
+import type { DistillerRecord } from '@/actions/traceability/distiller.action'
 import type { ColumnFiltersState, SortingState, VisibilityState } from '@tanstack/react-table'
 import type { ReactElement } from 'react'
-import type { DistillerRecord } from './actions'
 
 export interface DistillersTableProps {
   data: DistillerRecord[]

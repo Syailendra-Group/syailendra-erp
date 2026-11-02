@@ -5,7 +5,7 @@
 
 import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
 
-import { getFarmerByIdAction, getFarmersAction, saveFarmerAction, toggleFarmerStatusAction } from '@/features/traceability/farmers/actions'
+import { getFarmerByIdAction, getFarmersAction, saveFarmerAction, toggleFarmerStatusAction } from '@/actions/traceability/farmer.action'
 
 import type { FarmerFormValues } from '@/schemas/traceability/farmer-schema'
 import type { FarmerRecord } from '@/types/traceability/farmer'

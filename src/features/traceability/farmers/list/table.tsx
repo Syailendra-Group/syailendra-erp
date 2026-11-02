@@ -19,9 +19,9 @@ import { cn } from '@/lib/utils'
 
 import { getColumns } from './columns'
 
+import type { FarmerRecord } from '@/actions/traceability/farmer.action'
 import type { ColumnFiltersState, SortingState, VisibilityState } from '@tanstack/react-table'
 import type { ReactElement } from 'react'
-import type { FarmerRecord } from '../actions'
 
 export interface FarmersTableProps {
   data: FarmerRecord[]
@@ -112,6 +112,7 @@ export function FarmersTable({ data }: FarmersTableProps): ReactElement {
                 </TableRow>
               ))}
             </TableHeader>
+
             <TableBody>
               {table.getRowModel().rows?.length ? (
                 table.getRowModel().rows.map((row) => (

@@ -13,19 +13,18 @@ import {
 import { useTranslations } from 'next-intl'
 import { toast } from 'sonner'
 
+import { ActionButton } from '@/components/button/action-button'
 import { ConfirmDialog } from '@/components/confirm-dialog'
 import { DataTableColumnHeader } from '@/components/data-table/column-header'
 import { DataTablePagination } from '@/components/data-table/pagination'
-import { ActionButton } from '@/components/shared/action-button'
+import { StatusBadge } from '@/components/shared/status-badge'
 import { LongText } from '@/components/text/long-text'
-import { Badge } from '@/components/ui/badge'
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '@/components/ui/table'
+import { useToggleDepartmentStatusMutation } from '@/hooks/hris/use-departments'
 
-import { toggleDepartmentStatusAction } from './actions'
-
+import type { DepartmentRecord } from '@/actions/hris/department.action'
 import type { ColumnDef, ColumnFiltersState, SortingState, VisibilityState } from '@tanstack/react-table'
 import type { ReactElement } from 'react'
-import type { DepartmentRecord } from './actions'
 
 export interface DepartmentsTableProps {
   data: DepartmentRecord[]
@@ -41,20 +40,23 @@ export function DepartmentsTable({ data, onEdit, onRefresh }: DepartmentsTablePr
   const [columnFilters, setColumnFilters] = useState<ColumnFiltersState>([])
   const [columnVisibility, setColumnVisibility] = useState<VisibilityState>({})
   const [archiveTarget, setArchiveTarget] = useState<DepartmentRecord | null>(null)
-  const [isArchiving, setIsArchiving] = useState(false)
+  const { mutateAsync: toggleDepartmentStatus, isPending: isArchiving } = useToggleDepartmentStatusMutation()
 
   const handleToggleStatus = async () => {
     if (!archiveTarget) return
-    setIsArchiving(true)
     const nextStatus = !archiveTarget.active
-    const res = await toggleDepartmentStatusAction(archiveTarget.id, nextStatus)
-    setIsArchiving(false)
-    if (res.success) {
-      toast.success(nextStatus ? tAdmin('messages.restored') : tAdmin('messages.archived'))
-      setArchiveTarget(null)
-      onRefresh()
-    } else {
-      toast.error(res.error || tCommon('status.error'))
+    try {
+      const res = await toggleDepartmentStatus({ id: archiveTarget.id, active: nextStatus })
+      if (res.success) {
+        toast.success(nextStatus ? tAdmin('messages.restored') : tAdmin('messages.archived'))
+        setArchiveTarget(null)
+        onRefresh()
+      } else {
+        toast.error(res.error || tCommon('status.error'))
+      }
+    } catch (err) {
+      const msg = err instanceof Error ? err.message : tCommon('status.error')
+      toast.error(msg)
     }
   }
 
@@ -69,11 +71,7 @@ export function DepartmentsTable({ data, onEdit, onRefresh }: DepartmentsTablePr
       header: ({ column }) => <DataTableColumnHeader column={column} title="Status" />,
       cell: ({ row }) => {
         const active = row.getValue('active') as boolean
-        return (
-          <Badge variant={active ? 'default' : 'secondary'} className="text-[11px]">
-            {active ? tCommon('status.active') : tCommon('status.archived')}
-          </Badge>
-        )
+        return <StatusBadge variant={active ? 'success' : 'neutral'}>{active ? tCommon('status.active') : tCommon('status.archived')}</StatusBadge>
       }
     },
     {

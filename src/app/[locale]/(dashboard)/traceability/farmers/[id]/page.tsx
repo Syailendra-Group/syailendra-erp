@@ -1,7 +1,7 @@
 import { notFound } from 'next/navigation'
 
+import { getFarmerByIdAction } from '@/actions/traceability/farmer.action'
 import { FarmerDetail } from '@/features/traceability/farmers'
-import { getFarmerByIdAction } from '@/features/traceability/farmers/actions'
 
 import type { Metadata } from 'next'
 import type { ReactElement } from 'react'

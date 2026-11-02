@@ -2,12 +2,11 @@
 
 import { useTranslations } from 'next-intl'
 
-import { ActionButton } from '@/components/shared/action-button'
+import { ActionButton } from '@/components/button/action-button'
+import { useDistillers } from '@/contexts/traceability/distiller.context'
 
-import { useDistillers } from './context'
-
+import type { DistillerRecord } from '@/actions/traceability/distiller.action'
 import type { ReactElement } from 'react'
-import type { DistillerRecord } from './actions'
 
 export interface DataTableRowActionsProps {
   row: DistillerRecord

@@ -1,6 +1,5 @@
 'use client'
 
-import { useTransition } from 'react'
 import { CheckCircle2, Factory, Phone } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 import { toast } from 'sonner'
@@ -9,9 +8,8 @@ import { ConfirmDialog } from '@/components/confirm-dialog'
 import { Badge } from '@/components/ui/badge'
 import { Button } from '@/components/ui/button'
 import { Dialog, DialogContent, DialogDescription, DialogFooter, DialogHeader, DialogTitle } from '@/components/ui/dialog'
-
-import { toggleDistillerStatusAction } from './actions'
-import { useDistillers } from './context'
+import { useDistillers } from '@/contexts/traceability/distiller.context'
+import { useToggleDistillerStatusMutation } from '@/hooks/traceability/use-distillers'
 
 import type { ReactElement } from 'react'
 
@@ -19,14 +17,14 @@ export function DistillersDialogs(): ReactElement {
   const tTrace = useTranslations('traceability.distillers')
   const tCommon = useTranslations('common')
   const { open, setOpen, currentRow, setCurrentRow, refreshData } = useDistillers()
-  const [isPending, startTransition] = useTransition()
+  const { mutateAsync: toggleDistillerStatus, isPending } = useToggleDistillerStatusMutation()
 
-  const handleToggleStatus = () => {
+  const handleToggleStatus = async () => {
     if (!currentRow) return
     const targetStatus = !currentRow.active
 
-    startTransition(async () => {
-      const res = await toggleDistillerStatusAction(currentRow.id, targetStatus)
+    try {
+      const res = await toggleDistillerStatus({ id: currentRow.id, active: targetStatus })
       if (res.success) {
         toast.success(targetStatus ? tTrace('messages.restored') : tTrace('messages.archived'))
         refreshData()
@@ -34,7 +32,10 @@ export function DistillersDialogs(): ReactElement {
       } else {
         toast.error(res.error || (targetStatus ? tTrace('messages.restoreFailed') : tTrace('messages.archiveFailed')))
       }
-    })
+    } catch (err) {
+      const msg = err instanceof Error ? err.message : targetStatus ? tTrace('messages.restoreFailed') : tTrace('messages.archiveFailed')
+      toast.error(msg)
+    }
   }
 
   return (

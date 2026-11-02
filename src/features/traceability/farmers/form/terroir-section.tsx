@@ -7,7 +7,7 @@ import { FormFieldWrapper } from '@/components/form/form-field-wrapper'
 import { SectionCard } from '@/components/shared/section-card'
 import { Input } from '@/components/ui/input'
 
-import type { FarmerFormValues } from '@/schemas/farmer'
+import type { FarmerFormValues } from '@/schemas/traceability/farmer-schema'
 import type { ReactElement } from 'react'
 import type { FieldErrors, UseFormRegister, UseFormWatch } from 'react-hook-form'
 

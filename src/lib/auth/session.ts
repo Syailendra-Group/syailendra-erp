@@ -5,7 +5,7 @@
 
 import { cookies } from 'next/headers'
 
-import type { UserSession } from '@/types/auth'
+import type { UserSession } from '@/types/auth/auth'
 
 export const SESSION_COOKIE_NAME = 'syailendra_session'
 const SESSION_MAX_AGE = 60 * 60 * 24 * 7 // 7 days in seconds

@@ -2,39 +2,20 @@
 
 import { revalidatePath } from 'next/cache'
 
-import { odoo } from '@/lib/odoo'
-import { employeeFormSchema } from '@/schemas/employee'
+import { employeeFormSchema } from '@/schemas/hris/employee-schema'
+import { fetchDepartmentOptions, fetchEmployees, persistEmployee, updateEmployeeActiveState } from '@/services/odoo/hris/employee.service'
 
-import type { EmployeeFormValues } from '@/schemas/employee'
+import type { EmployeeFormValues } from '@/schemas/hris/employee-schema'
+import type { DepartmentOption, EmployeeRecord } from '@/types/hris/employee'
 
-export interface EmployeeRecord {
-  id: number
-  name: string
-  work_email: string
-  work_phone: string
-  job_title: string
-  department_id: [number, string] | false
-  active: boolean
-}
-
-export interface DepartmentOption {
-  id: number
-  name: string
-}
+export type { DepartmentOption, EmployeeRecord }
 
 export async function getEmployeesAction(): Promise<{
   employees: EmployeeRecord[]
   departments: DepartmentOption[]
 }> {
   try {
-    const employees = await odoo.client.searchRead<EmployeeRecord>(
-      'hr.employee',
-      [],
-      ['id', 'name', 'work_email', 'work_phone', 'job_title', 'department_id', 'active']
-    )
-
-    const departments = await odoo.client.searchRead<DepartmentOption>('hr.department', [], ['id', 'name'])
-
+    const [employees, departments] = await Promise.all([fetchEmployees(), fetchDepartmentOptions()])
     return { employees, departments }
   } catch (error) {
     console.error('Failed to fetch employees:', error)
@@ -48,23 +29,8 @@ export async function saveEmployeeAction(values: EmployeeFormValues): Promise<{ 
     return { success: false, error: parsed.error.issues[0]?.message }
   }
 
-  const { id, name, work_email, work_phone, job_title, department_id } = parsed.data
-
   try {
-    const payload = {
-      name,
-      work_email: work_email || false,
-      work_phone: work_phone || false,
-      job_title,
-      department_id
-    }
-
-    if (id) {
-      await odoo.client.write('hr.employee', [id], payload)
-    } else {
-      await odoo.client.create('hr.employee', payload)
-    }
-
+    await persistEmployee(parsed.data)
     revalidatePath('/admin/employees')
     return { success: true }
   } catch (error) {
@@ -75,7 +41,7 @@ export async function saveEmployeeAction(values: EmployeeFormValues): Promise<{ 
 
 export async function toggleEmployeeStatusAction(id: number, active: boolean): Promise<{ success: boolean; error?: string }> {
   try {
-    await odoo.client.write('hr.employee', [id], { active })
+    await updateEmployeeActiveState(id, active)
     revalidatePath('/admin/employees')
     return { success: true }
   } catch (error) {

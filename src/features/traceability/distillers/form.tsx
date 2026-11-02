@@ -13,13 +13,13 @@ import { Button } from '@/components/ui/button'
 import { Dialog, DialogContent, DialogDescription, DialogFooter, DialogHeader, DialogTitle } from '@/components/ui/dialog'
 import { Input } from '@/components/ui/input'
 import { Textarea } from '@/components/ui/textarea'
-import { distillerFormSchema } from '@/schemas/distiller'
+import { distillerFormSchema } from '@/schemas/traceability/distiller-schema'
 
 import { saveDistillerAction } from './actions'
 import { useDistillers } from './context'
 import { getDistillerOptions } from './options'
 
-import type { DistillerFormValues } from '@/schemas/distiller'
+import type { DistillerFormValues } from '@/schemas/traceability/distiller-schema'
 import type { ReactElement } from 'react'
 
 export function DistillersActionDialog(): ReactElement {

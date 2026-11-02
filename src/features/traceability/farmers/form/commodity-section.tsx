@@ -9,7 +9,7 @@ import { SectionCard } from '@/components/shared/section-card'
 import { Input } from '@/components/ui/input'
 
 import type { SelectOption } from '@/components/form/select-form'
-import type { FarmerFormValues } from '@/schemas/farmer'
+import type { FarmerFormValues } from '@/schemas/traceability/farmer-schema'
 import type { ReactElement } from 'react'
 import type { FieldErrors, UseFormRegister, UseFormSetValue, UseFormWatch } from 'react-hook-form'
 

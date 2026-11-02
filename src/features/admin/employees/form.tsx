@@ -11,11 +11,11 @@ import { Button } from '@/components/ui/button'
 import { Dialog, DialogContent, DialogDescription, DialogFooter, DialogHeader, DialogTitle } from '@/components/ui/dialog'
 import { Form, FormControl, FormField, FormItem, FormLabel, FormMessage } from '@/components/ui/form'
 import { Input } from '@/components/ui/input'
-import { employeeFormSchema } from '@/schemas/employee'
+import { employeeFormSchema } from '@/schemas/hris/employee-schema'
 
 import { saveEmployeeAction } from './actions'
 
-import type { EmployeeFormValues } from '@/schemas/employee'
+import type { EmployeeFormValues } from '@/schemas/hris/employee-schema'
 import type { ReactElement } from 'react'
 import type { DepartmentOption, EmployeeRecord } from './actions'
 

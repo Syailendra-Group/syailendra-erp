@@ -11,11 +11,11 @@ import { FormFieldWrapper } from '@/components/form/form-field-wrapper'
 import { Button } from '@/components/ui/button'
 import { Dialog, DialogContent, DialogDescription, DialogFooter, DialogHeader, DialogTitle } from '@/components/ui/dialog'
 import { Input } from '@/components/ui/input'
-import { departmentFormSchema } from '@/schemas/department'
+import { departmentFormSchema } from '@/schemas/hris/department-schema'
 
 import { saveDepartmentAction } from './actions'
 
-import type { DepartmentFormValues } from '@/schemas/department'
+import type { DepartmentFormValues } from '@/schemas/hris/department-schema'
 import type { ReactElement } from 'react'
 import type { SubmitHandler } from 'react-hook-form'
 import type { DepartmentRecord } from './actions'

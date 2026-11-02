@@ -10,7 +10,7 @@ import { toast } from 'sonner'
 import { PageHeader } from '@/components/shared/page-header'
 import { Button } from '@/components/ui/button'
 import { Link, useRouter } from '@/i18n/navigation'
-import { farmerFormSchema } from '@/schemas/farmer'
+import { farmerFormSchema } from '@/schemas/traceability/farmer-schema'
 
 import { saveFarmerAction } from '../actions'
 import { CommoditySection } from './commodity-section'
@@ -20,7 +20,7 @@ import { NotesSection } from './notes-section'
 import { getCommodityOptions, getFarmingMethodOptions } from './options'
 import { TerroirSection } from './terroir-section'
 
-import type { FarmerFormValues } from '@/schemas/farmer'
+import type { FarmerFormValues } from '@/schemas/traceability/farmer-schema'
 import type { ReactElement } from 'react'
 import type { FarmerRecord } from '../actions'
 

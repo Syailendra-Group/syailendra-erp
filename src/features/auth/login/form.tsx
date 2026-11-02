@@ -12,11 +12,11 @@ import { PasswordInput } from '@/components/form/password-input'
 import { Button } from '@/components/ui/button'
 import { Field, FieldError, FieldGroup, FieldLabel } from '@/components/ui/field'
 import { Input } from '@/components/ui/input'
-import { loginSchema } from '@/schemas/auth'
+import { loginSchema } from '@/schemas/auth/auth-schema'
 
 import { loginAction } from './actions'
 
-import type { LoginFormValues } from '@/schemas/auth'
+import type { LoginFormValues } from '@/schemas/auth/auth-schema'
 import type { SubmitHandler } from 'react-hook-form'
 
 export interface LoginFormProps {

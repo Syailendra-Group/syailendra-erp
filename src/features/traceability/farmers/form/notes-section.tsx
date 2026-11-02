@@ -6,7 +6,7 @@ import { FormFieldWrapper } from '@/components/form/form-field-wrapper'
 import { SectionCard } from '@/components/shared/section-card'
 import { Textarea } from '@/components/ui/textarea'
 
-import type { FarmerFormValues } from '@/schemas/farmer'
+import type { FarmerFormValues } from '@/schemas/traceability/farmer-schema'
 import type { ReactElement } from 'react'
 import type { UseFormRegister } from 'react-hook-form'
 

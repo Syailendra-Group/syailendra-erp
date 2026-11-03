@@ -5,7 +5,7 @@ import { createContext, useContext, useState } from 'react'
 import type { ProvinceRecord } from '@/types/others/province'
 import type { ReactElement, ReactNode } from 'react'
 
-export type ProvinceDialogType = 'add' | 'edit' | 'archive' | 'view' | null
+export type ProvinceDialogType = 'create' | 'add' | 'edit' | 'view' | 'delete' | null
 
 export interface ProvinceContextType {
   open: ProvinceDialogType

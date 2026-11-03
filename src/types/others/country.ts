@@ -5,4 +5,5 @@ export interface CountryRecord {
   currency_id?: [number, string] | false
   phone_code?: number | false
   active?: boolean
+  description?: string | false
 }

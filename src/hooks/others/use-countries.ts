@@ -1,12 +1,24 @@
-import { useQuery } from '@tanstack/react-query'
+import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
 
-import { getCountriesAction } from '@/actions/others/country.action'
+import {
+  deleteCountryAction,
+  getCountriesAction,
+  getCountriesPaginatedAction,
+  getCountryByIdAction,
+  getCurrenciesAction,
+  saveCountryAction
+} from '@/actions/others/country.action'
 
+import type { CountryFormValues } from '@/schemas/others/country-schema'
+import type { FetchCountriesParams } from '@/services/odoo/others/country.service'
 import type { CountryRecord } from '@/types/others/country'
 
 export const countryKeys = {
   all: ['countries'] as const,
-  lists: () => [...countryKeys.all, 'list'] as const
+  lists: () => [...countryKeys.all, 'list'] as const,
+  paginated: (params: FetchCountriesParams) => [...countryKeys.all, 'paginated', params] as const,
+  currencies: () => [...countryKeys.all, 'currencies'] as const,
+  detail: (id: number) => [...countryKeys.all, 'detail', id] as const
 }
 
 export function useCountriesQuery() {
@@ -16,6 +28,57 @@ export function useCountriesQuery() {
       const res = await getCountriesAction()
       return res.countries
     },
-    staleTime: 5 * 60 * 1000
+    staleTime: 60 * 1000
+  })
+}
+
+export function useCurrenciesQuery() {
+  return useQuery({
+    queryKey: countryKeys.currencies(),
+    queryFn: async () => {
+      return await getCurrenciesAction()
+    },
+    staleTime: 120 * 1000
+  })
+}
+
+export function useCountriesPaginatedQuery(params: FetchCountriesParams = {}) {
+  return useQuery({
+    queryKey: countryKeys.paginated(params),
+    queryFn: async () => {
+      return await getCountriesPaginatedAction(params)
+    },
+    placeholderData: (previousData) => previousData,
+    staleTime: 30 * 1000
+  })
+}
+
+export function useCountryDetailQuery(id: number) {
+  return useQuery({
+    queryKey: countryKeys.detail(id),
+    queryFn: async (): Promise<CountryRecord | null> => {
+      return await getCountryByIdAction(id)
+    },
+    enabled: Boolean(id)
+  })
+}
+
+export function useSaveCountryMutation() {
+  const queryClient = useQueryClient()
+  return useMutation({
+    mutationFn: (values: CountryFormValues) => saveCountryAction(values),
+    onSuccess: () => {
+      queryClient.invalidateQueries({ queryKey: countryKeys.all })
+    }
+  })
+}
+
+export function useDeleteCountryMutation() {
+  const queryClient = useQueryClient()
+  return useMutation({
+    mutationFn: (id: number) => deleteCountryAction(id),
+    onSuccess: () => {
+      queryClient.invalidateQueries({ queryKey: countryKeys.all })
+    }
   })
 }

@@ -1,12 +1,13 @@
 'use client'
 
-import { useState } from 'react'
+import { useCallback } from 'react'
 import { zodResolver } from '@hookform/resolvers/zod'
 import { Loader2, Save } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 import { useForm } from 'react-hook-form'
 import { toast } from 'sonner'
 
+import { AddressSection } from '@/components/form/address-section'
 import { PageHeader } from '@/components/shared/page-header'
 import { Button } from '@/components/ui/button'
 import { useSaveFarmerMutation } from '@/hooks/traceability/use-farmers'
@@ -15,13 +16,11 @@ import { farmerFormSchema } from '@/schemas/traceability/farmer-schema'
 
 import { CommoditySection } from './commodity-section'
 import { IdentitySection } from './identity-section'
-import { LocationSection } from './location-section'
 import { NotesSection } from './notes-section'
 import { getCommodityOptions, getFarmingMethodOptions } from './options'
-import { TerroirSection } from './terroir-section'
 
 import type { FarmerFormValues } from '@/schemas/traceability/farmer-schema'
-import type { MapCoordinates } from '@/types/components/map'
+import type { AddressFormState } from '@/types/components/address'
 import type { FarmerRecord } from '@/types/traceability/farmer'
 import type { ReactElement } from 'react'
 
@@ -35,8 +34,6 @@ export function FarmerForm({ initialData }: FarmerFormProps): ReactElement {
   const tTrace = useTranslations('traceability.farmers')
   const tCommon = useTranslations('common')
   const { mutateAsync: saveFarmer, isPending } = useSaveFarmerMutation()
-
-  const [centroidPan, setCentroidPan] = useState<MapCoordinates | null>(null)
 
   const {
     register,
@@ -53,11 +50,13 @@ export function FarmerForm({ initialData }: FarmerFormProps): ReactElement {
       vat: (initialData?.vat as string) || '',
       phone: (initialData?.phone as string) || '',
       email: (initialData?.email as string) || '',
+      country_id: 100, // Indonesia default
       state_id: initialData?.state_id ? initialData.state_id[0] : 100, // Jawa Tengah default
       city_id: initialData?.city_id ? initialData.city_id[0] : undefined,
       district_id: initialData?.district_id ? initialData.district_id[0] : undefined,
       subdistrict_id: initialData?.subdistrict_id ? initialData.subdistrict_id[0] : undefined,
       address_detail: (initialData?.address_detail as string) || '',
+      address_benchmark: '',
       street: initialData?.street || 'Wonosobo',
       city: initialData?.city || 'Wonosobo',
       partner_latitude: initialData?.partner_latitude ?? -7.2145,
@@ -71,6 +70,39 @@ export function FarmerForm({ initialData }: FarmerFormProps): ReactElement {
 
   const commodityOptions = getCommodityOptions(tTrace)
   const methodOptions = getFarmingMethodOptions(tTrace)
+
+  // Watch address state for reusable AddressSection
+  const addressValues: AddressFormState = {
+    country_id: watch('country_id'),
+    state_id: watch('state_id'),
+    city_id: watch('city_id'),
+    district_id: watch('district_id'),
+    subdistrict_id: watch('subdistrict_id'),
+    zip_code: watch('zip_code'),
+    street: watch('street'),
+    address_detail: watch('address_detail'),
+    address_benchmark: watch('address_benchmark'),
+    latitude: watch('partner_latitude'),
+    longitude: watch('partner_longitude')
+  }
+
+  const handleAddressChange = useCallback(
+    (updates: Partial<AddressFormState>) => {
+      Object.entries(updates).forEach(([key, val]) => {
+        if (key === 'latitude') {
+          setValue('partner_latitude', val as number, { shouldValidate: true, shouldDirty: true })
+        } else if (key === 'longitude') {
+          setValue('partner_longitude', val as number, { shouldValidate: true, shouldDirty: true })
+        } else {
+          setValue(key as keyof FarmerFormValues, val as string | number | undefined, {
+            shouldValidate: true,
+            shouldDirty: true
+          })
+        }
+      })
+    },
+    [setValue]
+  )
 
   const onSubmit = async (values: FarmerFormValues) => {
     try {
@@ -103,17 +135,7 @@ export function FarmerForm({ initialData }: FarmerFormProps): ReactElement {
           {/* Identitas Kemitraan */}
           <IdentitySection register={register} errors={errors} isPending={isPending} />
 
-          {/* Domisili & Wilayah Binaan (Cascading Regional Selector) */}
-          <LocationSection
-            register={register}
-            errors={errors}
-            watch={watch}
-            setValue={setValue}
-            isPending={isPending}
-            onCentroidChange={setCentroidPan}
-          />
-
-          {/* Komoditas Pertanian */}
+          {/* Komoditas Pertanian & Budidaya */}
           <CommoditySection
             register={register}
             errors={errors}
@@ -124,10 +146,24 @@ export function FarmerForm({ initialData }: FarmerFormProps): ReactElement {
             isPending={isPending}
           />
 
-          {/* Terroir & Geotagging GPS (Interactive Map Picker) */}
-          <TerroirSection register={register} errors={errors} watch={watch} setValue={setValue} isPending={isPending} centroidPan={centroidPan} />
+          {/* Reusable Address & Interactive Map Suite (Full Width) */}
+          <div className="lg:col-span-2">
+            <AddressSection
+              disabled={isPending}
+              values={addressValues}
+              onChange={handleAddressChange}
 
-          {/* Catatan Agronomi */}
+              errors={{
+                ...(errors.state_id ? { state_id: errors.state_id } : {}),
+                ...(errors.city_id ? { city_id: errors.city_id } : {}),
+                ...(errors.subdistrict_id ? { subdistrict_id: errors.subdistrict_id } : {}),
+                ...(errors.partner_latitude ? { latitude: errors.partner_latitude } : {}),
+                ...(errors.partner_longitude ? { longitude: errors.partner_longitude } : {})
+              }}
+            />
+          </div>
+
+          {/* Catatan Agronomi (Full Width) */}
           <div className="lg:col-span-2">
             <NotesSection register={register} isPending={isPending} />
           </div>

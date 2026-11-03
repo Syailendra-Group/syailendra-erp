@@ -5,7 +5,7 @@ import { createContext, useContext, useState } from 'react'
 import type { RegencyRecord } from '@/types/others/regency'
 import type { ReactElement, ReactNode } from 'react'
 
-export type RegencyDialogType = 'add' | 'edit' | 'archive' | 'view' | null
+export type RegencyDialogType = 'create' | 'add' | 'edit' | 'view' | 'delete' | null
 
 export interface RegencyContextType {
   open: RegencyDialogType

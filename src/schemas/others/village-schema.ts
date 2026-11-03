@@ -3,7 +3,9 @@ import { z } from 'zod'
 export const villageFormSchema = z.object({
   id: z.number().optional(),
   name: z.string().min(2, { message: 'Village name is required' }),
-  code: z.string().optional(),
+  code: z.string().min(1, { message: 'Code is required' }),
+  alias: z.string().min(1, { message: 'Alias name is required' }),
+  description: z.string().optional(),
   district_id: z.number().optional(),
   district_name_raw: z.string().optional(),
   city_id_raw: z.number().optional(),

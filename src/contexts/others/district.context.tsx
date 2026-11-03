@@ -5,7 +5,7 @@ import { createContext, useContext, useState } from 'react'
 import type { DistrictRecord } from '@/types/others/district'
 import type { ReactElement, ReactNode } from 'react'
 
-export type DistrictDialogType = 'add' | 'edit' | 'archive' | 'view' | null
+export type DistrictDialogType = 'create' | 'add' | 'edit' | 'view' | 'delete' | null
 
 export interface DistrictContextType {
   open: DistrictDialogType

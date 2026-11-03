@@ -1,3 +1,5 @@
-export { RegenciesFeature } from './list'
-export { RegencyForm } from './form'
-export { RegencyDetail } from './detail'
+export { RegenciesFeature } from './feature'
+export * from './table'
+export * from './columns'
+export * from './form'
+export * from './dialogs'

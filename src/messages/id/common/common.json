@@ -22,7 +22,8 @@
     "loading": "Memuat...",
     "continue": "Lanjutkan",
     "addNew": "Tambah data baru...",
-    "createOption": "Buat data baru"
+    "createOption": "Buat data baru",
+    "create": "Tambah"
   },
   "status": {
     "loading": "Memuat data...",

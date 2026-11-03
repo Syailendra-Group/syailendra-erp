@@ -52,7 +52,7 @@ export function ActionDialog({
 
         <div className="max-h-[70vh] w-full overflow-y-auto py-1 pe-2">{children}</div>
 
-        <DialogFooter className="gap-2 pt-2 sm:gap-0">
+        <DialogFooter className="border-border/50 mt-4 gap-2 border-t pt-3">
           <Button type="button" variant="outline" disabled={isPending} onClick={() => onOpenChange(false)}>
             {cancelLabel || tCommon('actions.cancel')}
           </Button>

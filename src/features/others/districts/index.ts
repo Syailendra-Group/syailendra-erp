@@ -1,3 +1,5 @@
-export { DistrictsFeature } from './list'
-export { DistrictForm } from './form'
-export { DistrictDetail } from './detail'
+export { DistrictsFeature } from './feature'
+export * from './table'
+export * from './columns'
+export * from './form'
+export * from './dialogs'

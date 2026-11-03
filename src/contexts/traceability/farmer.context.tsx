@@ -12,14 +12,14 @@ export interface FarmersContextType {
   setOpen: (type: FarmersDialogType) => void
   currentRow: FarmerRecord | null
   setCurrentRow: (row: FarmerRecord | null) => void
-  refreshData: () => void
+  refreshData?: () => void
 }
 
 const FarmersContext = createContext<FarmersContextType | null>(null)
 
 export interface FarmersProviderProps {
   children: ReactNode
-  refreshData: () => void
+  refreshData?: () => void
 }
 
 export function FarmersProvider({ children, refreshData }: FarmersProviderProps): ReactElement {

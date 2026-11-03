@@ -3,26 +3,20 @@
 import { createContext, useContext, useState } from 'react'
 
 import type { CountryRecord } from '@/types/others/country'
-import type { ReactElement, ReactNode } from 'react'
+import type { PropsWithChildren, ReactElement } from 'react'
 
-export type CountryDialogType = 'add' | 'edit' | 'archive' | 'view' | null
+export type CountryDialogType = 'create' | 'add' | 'edit' | 'view' | 'delete' | null
 
 export interface CountryContextType {
   open: CountryDialogType
   setOpen: (type: CountryDialogType) => void
   currentRow: CountryRecord | null
-  setCurrentRow: (row: CountryRecord | null) => void
-  refreshData?: () => void
+  setCurrentRow: (item: CountryRecord | null) => void
 }
 
 const CountryContext = createContext<CountryContextType | null>(null)
 
-export interface CountryProviderProps {
-  children: ReactNode
-  refreshData?: () => void
-}
-
-export function CountryProvider({ children, refreshData }: CountryProviderProps): ReactElement {
+export function CountryProvider({ children }: PropsWithChildren): ReactElement {
   const [open, setOpen] = useState<CountryDialogType>(null)
   const [currentRow, setCurrentRow] = useState<CountryRecord | null>(null)
 
@@ -32,8 +26,7 @@ export function CountryProvider({ children, refreshData }: CountryProviderProps)
         open,
         setOpen,
         currentRow,
-        setCurrentRow,
-        refreshData
+        setCurrentRow
       }}
     >
       {children}
@@ -42,9 +35,9 @@ export function CountryProvider({ children, refreshData }: CountryProviderProps)
 }
 
 export function useCountry(): CountryContextType {
-  const ctx = useContext(CountryContext)
-  if (!ctx) {
+  const context = useContext(CountryContext)
+  if (!context) {
     throw new Error('useCountry must be used within a CountryProvider')
   }
-  return ctx
+  return context
 }

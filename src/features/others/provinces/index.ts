@@ -1,3 +1,5 @@
-export { ProvincesFeature } from './list'
-export { ProvinceForm } from './form'
-export { ProvinceDetail } from './detail'
+export { ProvincesFeature } from './feature'
+export * from './table'
+export * from './columns'
+export * from './form'
+export * from './dialogs'

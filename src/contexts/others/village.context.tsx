@@ -5,7 +5,7 @@ import { createContext, useContext, useState } from 'react'
 import type { VillageRecord } from '@/types/others/village'
 import type { ReactElement, ReactNode } from 'react'
 
-export type VillageDialogType = 'add' | 'edit' | 'archive' | 'view' | null
+export type VillageDialogType = 'create' | 'add' | 'edit' | 'view' | 'delete' | null
 
 export interface VillageContextType {
   open: VillageDialogType

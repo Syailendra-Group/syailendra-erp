@@ -22,7 +22,8 @@
     "loading": "Loading...",
     "continue": "Continue",
     "addNew": "Add new option...",
-    "createOption": "Create new data"
+    "createOption": "Create new data",
+    "create": "Create"
   },
   "status": {
     "loading": "Loading data...",

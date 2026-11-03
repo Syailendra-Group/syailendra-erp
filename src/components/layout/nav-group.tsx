@@ -33,6 +33,7 @@ export function NavGroup({ group }: NavGroupProps): ReactElement {
             item.url === '/wms' ||
             item.url === '/crm' ||
             item.url === '/hris' ||
+            item.url === '/others' ||
             item.url === '/settings'
           const isActive = pathname === item.url || (!isOverviewUrl && pathname.startsWith(item.url + '/'))
 

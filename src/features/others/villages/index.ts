@@ -1,3 +1,5 @@
-export { VillagesFeature } from './list'
-export { VillageForm } from './form'
-export { VillageDetail } from './detail'
+export { VillagesFeature } from './feature'
+export * from './table'
+export * from './columns'
+export * from './form'
+export * from './dialogs'

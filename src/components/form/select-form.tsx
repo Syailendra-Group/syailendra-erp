@@ -125,7 +125,7 @@ export function SelectForm<T extends string = string>(props: SelectFormProps<T>)
           <div className="flex flex-1 flex-wrap items-center gap-1.5 overflow-hidden text-left">
             {isMultiple ? (
               multiValue.length > 0 ? (
-                multiValue.map((val) => {
+                multiValue.map((val: T) => {
                   const item = itemMap.get(val)
                   const Icon = item?.icon
                   return (
@@ -266,7 +266,7 @@ export function SelectForm<T extends string = string>(props: SelectFormProps<T>)
                   className="text-primary hover:text-primary hover:bg-muted/70 h-8 w-full cursor-pointer justify-start gap-2 text-xs font-medium"
                   onClick={() => {
                     setOpen(false)
-                    onAddNewClick(searchQuery.trim())
+                    onAddNewClick?.()
                   }}
                 >
                   <PlusCircle className="size-3.5" />

@@ -1,14 +1,22 @@
 import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
 
-import { getDistrictByIdAction, getDistrictsAction, saveDistrictAction, toggleDistrictStatusAction } from '@/actions/others/district.action'
+import {
+  getDistrictByIdAction,
+  getDistrictsAction,
+  getDistrictsPaginatedAction,
+  saveDistrictAction,
+  toggleDistrictStatusAction
+} from '@/actions/others/district.action'
 
 import type { DistrictFormValues } from '@/schemas/others/district-schema'
+import type { FetchDistrictsParams } from '@/services/odoo/others/district.service'
 import type { DistrictRecord } from '@/types/others/district'
 
 export const districtKeys = {
   all: ['districts'] as const,
   lists: () => [...districtKeys.all, 'list'] as const,
   byCity: (cityId?: number) => [...districtKeys.lists(), { cityId }] as const,
+  paginated: (params: FetchDistrictsParams) => [...districtKeys.all, 'paginated', params] as const,
   detail: (id: number) => [...districtKeys.all, 'detail', id] as const
 }
 
@@ -20,6 +28,17 @@ export function useDistrictsQuery(cityId?: number) {
       return res.districts
     },
     staleTime: 60 * 1000
+  })
+}
+
+export function useDistrictsPaginatedQuery(params: FetchDistrictsParams = {}) {
+  return useQuery({
+    queryKey: districtKeys.paginated(params),
+    queryFn: async () => {
+      return await getDistrictsPaginatedAction(params)
+    },
+    placeholderData: (previousData) => previousData,
+    staleTime: 30 * 1000
   })
 }
 
@@ -39,7 +58,6 @@ export function useSaveDistrictMutation() {
     mutationFn: (values: DistrictFormValues) => saveDistrictAction(values),
     onSuccess: () => {
       queryClient.invalidateQueries({ queryKey: districtKeys.all })
-      queryClient.invalidateQueries({ queryKey: ['regencies'] })
     }
   })
 }

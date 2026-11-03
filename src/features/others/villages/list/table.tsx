@@ -1,99 +1,177 @@
 'use client'
 
-import { useState } from 'react'
-import { getCoreRowModel, getFilteredRowModel, getPaginationRowModel, getSortedRowModel, useReactTable } from '@tanstack/react-table'
+import { useMemo } from 'react'
+import { flexRender, getCoreRowModel, useReactTable } from '@tanstack/react-table'
 import { useTranslations } from 'next-intl'
 
-import { DataTablePagination } from '@/components/data-table/pagination'
-import { DataTableToolbar } from '@/components/data-table/toolbar'
+import { DataTablePagination, DataTableSkeleton, DataTableToolbar } from '@/components/data-table'
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '@/components/ui/table'
 import { useVillage } from '@/contexts/others/village.context'
+import { useVillagesPaginatedQuery } from '@/hooks/others/use-villages'
+import { useDataTableUrlState } from '@/hooks/use-data-table-url-state'
+import { cn } from '@/lib/utils'
 
 import { getColumns } from './columns'
 
 import type { VillageRecord } from '@/types/others/village'
-import type { ColumnFiltersState, SortingState, VisibilityState } from '@tanstack/react-table'
 import type { ReactElement } from 'react'
 
 export interface VillagesTableProps {
-  data: VillageRecord[]
   onArchive: (item: VillageRecord) => void
 }
 
-export function VillagesTable({ data, onArchive }: VillagesTableProps): ReactElement {
+const FILTER_KEYS = ['active']
+
+export function VillagesTable({ onArchive }: VillagesTableProps): ReactElement {
   const t = useTranslations('regional.villages')
   const tCommon = useTranslations('common')
   const { setOpen, setCurrentRow } = useVillage()
 
-  const [sorting, setSorting] = useState<SortingState>([{ id: 'name', desc: false }])
-  const [columnFilters, setColumnFilters] = useState<ColumnFiltersState>([])
-  const [columnVisibility, setColumnVisibility] = useState<VisibilityState>({})
+  // 1. Manage URL SearchParams & Table State adapters via reusable hook
+  const {
+    page,
+    perPage,
+    search,
+    orderOdoo,
+    pagination,
+    sorting,
+    columnFilters,
+    isUpdating,
+    getArrayFilter,
+    resetFilters,
+    onPaginationChange,
+    onSortingChange,
+    onGlobalFilterChange,
+    createColumnFiltersHandler
+  } = useDataTableUrlState({
+    defaultSort: 'name.asc',
+    filterKeys: FILTER_KEYS
+  })
 
-  const handleEdit = (item: VillageRecord) => {
-    setCurrentRow(item)
-    setOpen('edit')
-  }
+  // 2. Fetch paginated data from Odoo
+  const statusList = getArrayFilter('status')
+  const {
+    data: result,
+    isLoading,
+    isFetching
+  } = useVillagesPaginatedQuery({
+    page,
+    perPage,
+    search,
+    status: statusList.length > 0 ? statusList : undefined,
+    order: orderOdoo
+  })
 
-  const columns = getColumns({ t, tCommon, onEdit: handleEdit, onArchive })
+  const records = result?.records ?? []
+  const totalCount = result?.totalCount ?? 0
 
+  const columns = useMemo(
+    () =>
+      getColumns({
+        t,
+        tCommon,
+        onEdit: (item: VillageRecord) => {
+          setCurrentRow(item)
+          setOpen('edit')
+        },
+        onArchive
+      }),
+    [t, tCommon, onArchive, setCurrentRow, setOpen]
+  )
+
+  // 3. TanStack Table Instance
   const table = useReactTable({
-    data,
+    data: records,
     columns,
+    rowCount: totalCount,
     state: {
+      pagination,
       sorting,
       columnFilters,
-      columnVisibility
+      globalFilter: search
     },
-    onSortingChange: setSorting,
-    onColumnFiltersChange: setColumnFilters,
-    onColumnVisibilityChange: setColumnVisibility,
-    getCoreRowModel: getCoreRowModel(),
-    getFilteredRowModel: getFilteredRowModel(),
-    getPaginationRowModel: getPaginationRowModel(),
-    getSortedRowModel: getSortedRowModel()
+    manualPagination: true,
+    manualFiltering: true,
+    manualSorting: true,
+    onPaginationChange,
+    onSortingChange,
+    onGlobalFilterChange,
+    onColumnFiltersChange: createColumnFiltersHandler(FILTER_KEYS),
+    getCoreRowModel: getCoreRowModel()
   })
+
+  const statusFilterOptions = useMemo(
+    () => [
+      { label: tCommon('status.active'), value: 'true' },
+      { label: tCommon('status.archived'), value: 'false' }
+    ],
+    [tCommon]
+  )
+
+  const showSkeleton = isLoading || (isFetching && records.length === 0)
+  const isTableRefreshing = isFetching || isUpdating
 
   return (
     <div className="space-y-4">
-      <DataTableToolbar table={table} searchPlaceholder="Cari kelurahan / desa..." />
+      <DataTableToolbar
+        table={table}
+        searchPlaceholder="Cari kelurahan / desa..."
+        onReset={resetFilters}
+        filters={[
+          {
+            columnId: 'active',
+            title: tCommon('status.title') || 'Status',
+            options: statusFilterOptions
+          }
+        ]}
+      />
 
-      <div className="border-border/60 bg-card overflow-hidden rounded-md border shadow-xs">
-        <Table>
-          <TableHeader>
-            {table.getHeaderGroups().map((headerGroup) => (
-              <TableRow key={headerGroup.id}>
-                {headerGroup.headers.map((header) => (
-                  <TableHead key={header.id}>
-                    {header.isPlaceholder
-                      ? null
-                      : header.column.columnDef.header instanceof Function
-                        ? header.column.columnDef.header(header.getContext())
-                        : header.column.columnDef.header}
-                  </TableHead>
-                ))}
-              </TableRow>
-            ))}
-          </TableHeader>
-          <TableBody>
-            {table.getRowModel().rows?.length ? (
-              table.getRowModel().rows.map((row) => (
-                <TableRow key={row.id}>
-                  {row.getVisibleCells().map((cell) => (
-                    <TableCell key={cell.id}>
-                      {cell.column.columnDef.cell instanceof Function ? cell.column.columnDef.cell(cell.getContext()) : (cell.getValue() as string)}
-                    </TableCell>
+      <div className="bg-card relative overflow-hidden rounded-md border-0 shadow-xs">
+        {isTableRefreshing && !showSkeleton && (
+          <div className="bg-primary/20 absolute top-0 right-0 left-0 z-20 h-0.5 overflow-hidden">
+            <div className="bg-primary h-full w-full animate-pulse" />
+          </div>
+        )}
+
+        <div className="overflow-x-auto">
+          <Table>
+            <TableHeader>
+              {table.getHeaderGroups().map((headerGroup) => (
+                <TableRow key={headerGroup.id}>
+                  {headerGroup.headers.map((header) => (
+                    <TableHead key={header.id} colSpan={header.colSpan} className={cn('text-xs', header.column.id === 'actions' && 'text-center')}>
+                      {header.isPlaceholder ? null : flexRender(header.column.columnDef.header, header.getContext())}
+                    </TableHead>
                   ))}
                 </TableRow>
-              ))
+              ))}
+            </TableHeader>
+
+            {showSkeleton ? (
+              <DataTableSkeleton columnCount={columns.length} rowCount={8} />
             ) : (
-              <TableRow>
-                <TableCell colSpan={columns.length} className="text-muted-foreground h-24 text-center text-xs">
-                  {tCommon('table.noResults')}
-                </TableCell>
-              </TableRow>
+              <TableBody>
+                {table.getRowModel().rows?.length ? (
+                  table.getRowModel().rows.map((row) => (
+                    <TableRow key={row.id} className="hover:bg-muted/30 transition-colors">
+                      {row.getVisibleCells().map((cell) => (
+                        <TableCell key={cell.id} className="py-2.5 text-xs">
+                          {flexRender(cell.column.columnDef.cell, cell.getContext())}
+                        </TableCell>
+                      ))}
+                    </TableRow>
+                  ))
+                ) : (
+                  <TableRow>
+                    <TableCell colSpan={columns.length} className="text-muted-foreground h-24 text-center text-xs">
+                      {tCommon('table.noResults')}
+                    </TableCell>
+                  </TableRow>
+                )}
+              </TableBody>
             )}
-          </TableBody>
-        </Table>
+          </Table>
+        </div>
       </div>
 
       <DataTablePagination table={table} />

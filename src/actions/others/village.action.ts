@@ -2,53 +2,71 @@
 
 import { revalidatePath } from 'next/cache'
 
-import { villageFormSchema } from '@/schemas/others/village-schema'
-import { fetchVillageById, fetchVillages, persistVillage, toggleVillageStatus } from '@/services/odoo/others/village.service'
+import { fetchVillageById, fetchVillages, fetchVillagesPaginated, persistVillage, toggleVillageStatus } from '@/services/odoo/others/village.service'
 
 import type { VillageFormValues } from '@/schemas/others/village-schema'
+import type { FetchVillagesParams, PaginatedVillagesResult } from '@/services/odoo/others/village.service'
 import type { VillageRecord } from '@/types/others/village'
 
 export async function getVillagesAction(districtId?: number): Promise<{ villages: VillageRecord[] }> {
   try {
     const villages = await fetchVillages(districtId)
     return { villages }
-  } catch (err) {
-    console.error('Failed to fetch villages:', err)
+  } catch (error) {
+    console.error('Failed to fetch villages:', error)
     return { villages: [] }
+  }
+}
+
+export async function getVillagesPaginatedAction(params: FetchVillagesParams = {}): Promise<PaginatedVillagesResult> {
+  try {
+    return await fetchVillagesPaginated(params)
+  } catch (error) {
+    console.error('Failed to fetch paginated villages:', error)
+    return {
+      records: [],
+      totalCount: 0,
+      page: params.page || 1,
+      perPage: params.perPage || 20,
+      pageCount: 1
+    }
   }
 }
 
 export async function getVillageByIdAction(id: number): Promise<VillageRecord | null> {
   try {
     return await fetchVillageById(id)
-  } catch (err) {
-    console.error('Failed to fetch village by ID:', err)
+  } catch (error) {
+    console.error(`Failed to fetch village with ID ${id}:`, error)
     return null
   }
 }
 
-export async function saveVillageAction(values: VillageFormValues): Promise<{ success: boolean; id?: number; error?: string }> {
-  const parsed = villageFormSchema.safeParse(values)
-  if (!parsed.success) {
-    return { success: false, error: parsed.error.issues[0]?.message || 'Invalid parameters' }
-  }
+export async function saveVillageAction(values: VillageFormValues): Promise<{ success: boolean; error?: string; id?: number }> {
   try {
-    const id = await persistVillage(parsed.data)
+    const id = await persistVillage(values)
     revalidatePath('/others/villages')
+    revalidatePath('/others')
     return { success: true, id }
-  } catch (err) {
-    const msg = err instanceof Error ? err.message : 'Failed to save village'
-    return { success: false, error: msg }
+  } catch (error) {
+    console.error('Failed to persist village:', error)
+    return {
+      success: false,
+      error: error instanceof Error ? error.message : 'Failed to persist village'
+    }
   }
 }
 
 export async function toggleVillageStatusAction(id: number, active: boolean): Promise<{ success: boolean; error?: string }> {
   try {
-    await toggleVillageStatus(id, active)
+    const success = await toggleVillageStatus(id, active)
     revalidatePath('/others/villages')
-    return { success: true }
-  } catch (err) {
-    const msg = err instanceof Error ? err.message : 'Failed to update village status'
-    return { success: false, error: msg }
+    return { success }
+  } catch (error) {
+    console.error(`Failed to toggle village active status for ID ${id}:`, error)
+    return {
+      success: false,
+      error: error instanceof Error ? error.message : 'Failed to update status'
+    }
   }
 }

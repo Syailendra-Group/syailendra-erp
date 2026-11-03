@@ -2,53 +2,77 @@
 
 import { revalidatePath } from 'next/cache'
 
-import { districtFormSchema } from '@/schemas/others/district-schema'
-import { fetchDistrictById, fetchDistricts, persistDistrict, toggleDistrictStatus } from '@/services/odoo/others/district.service'
+import {
+  fetchDistrictById,
+  fetchDistricts,
+  fetchDistrictsPaginated,
+  persistDistrict,
+  toggleDistrictStatus
+} from '@/services/odoo/others/district.service'
 
 import type { DistrictFormValues } from '@/schemas/others/district-schema'
+import type { FetchDistrictsParams, PaginatedDistrictsResult } from '@/services/odoo/others/district.service'
 import type { DistrictRecord } from '@/types/others/district'
 
 export async function getDistrictsAction(cityId?: number): Promise<{ districts: DistrictRecord[] }> {
   try {
     const districts = await fetchDistricts(cityId)
     return { districts }
-  } catch (err) {
-    console.error('Failed to fetch districts:', err)
+  } catch (error) {
+    console.error('Failed to fetch districts:', error)
     return { districts: [] }
+  }
+}
+
+export async function getDistrictsPaginatedAction(params: FetchDistrictsParams = {}): Promise<PaginatedDistrictsResult> {
+  try {
+    return await fetchDistrictsPaginated(params)
+  } catch (error) {
+    console.error('Failed to fetch paginated districts:', error)
+    return {
+      records: [],
+      totalCount: 0,
+      page: params.page || 1,
+      perPage: params.perPage || 20,
+      pageCount: 1
+    }
   }
 }
 
 export async function getDistrictByIdAction(id: number): Promise<DistrictRecord | null> {
   try {
     return await fetchDistrictById(id)
-  } catch (err) {
-    console.error('Failed to fetch district by ID:', err)
+  } catch (error) {
+    console.error(`Failed to fetch district with ID ${id}:`, error)
     return null
   }
 }
 
-export async function saveDistrictAction(values: DistrictFormValues): Promise<{ success: boolean; id?: number; error?: string }> {
-  const parsed = districtFormSchema.safeParse(values)
-  if (!parsed.success) {
-    return { success: false, error: parsed.error.issues[0]?.message || 'Invalid parameters' }
-  }
+export async function saveDistrictAction(values: DistrictFormValues): Promise<{ success: boolean; error?: string; id?: number }> {
   try {
-    const id = await persistDistrict(parsed.data)
+    const id = await persistDistrict(values)
     revalidatePath('/others/districts')
+    revalidatePath('/others')
     return { success: true, id }
-  } catch (err) {
-    const msg = err instanceof Error ? err.message : 'Failed to save district'
-    return { success: false, error: msg }
+  } catch (error) {
+    console.error('Failed to persist district:', error)
+    return {
+      success: false,
+      error: error instanceof Error ? error.message : 'Failed to persist district'
+    }
   }
 }
 
 export async function toggleDistrictStatusAction(id: number, active: boolean): Promise<{ success: boolean; error?: string }> {
   try {
-    await toggleDistrictStatus(id, active)
+    const success = await toggleDistrictStatus(id, active)
     revalidatePath('/others/districts')
-    return { success: true }
-  } catch (err) {
-    const msg = err instanceof Error ? err.message : 'Failed to update district status'
-    return { success: false, error: msg }
+    return { success }
+  } catch (error) {
+    console.error(`Failed to toggle district active status for ID ${id}:`, error)
+    return {
+      success: false,
+      error: error instanceof Error ? error.message : 'Failed to update status'
+    }
   }
 }

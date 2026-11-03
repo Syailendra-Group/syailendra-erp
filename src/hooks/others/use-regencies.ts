@@ -3,18 +3,21 @@ import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
 import {
   checkParentProvinceAction,
   getRegenciesAction,
+  getRegenciesPaginatedAction,
   getRegencyByIdAction,
   saveRegencyAction,
   toggleRegencyStatusAction
 } from '@/actions/others/regency.action'
 
 import type { RegencyFormValues } from '@/schemas/others/regency-schema'
+import type { FetchRegenciesParams } from '@/services/odoo/others/regency.service'
 import type { RegencyRecord } from '@/types/others/regency'
 
 export const regencyKeys = {
   all: ['regencies'] as const,
   lists: () => [...regencyKeys.all, 'list'] as const,
   byState: (stateId?: number) => [...regencyKeys.lists(), { stateId }] as const,
+  paginated: (params: FetchRegenciesParams) => [...regencyKeys.all, 'paginated', params] as const,
   detail: (id: number) => [...regencyKeys.all, 'detail', id] as const,
   checkParent: (name: string, code?: string) => ['parent-check', 'province', name, code] as const
 }
@@ -27,6 +30,17 @@ export function useRegenciesQuery(stateId?: number) {
       return res.regencies
     },
     staleTime: 60 * 1000
+  })
+}
+
+export function useRegenciesPaginatedQuery(params: FetchRegenciesParams = {}) {
+  return useQuery({
+    queryKey: regencyKeys.paginated(params),
+    queryFn: async () => {
+      return await getRegenciesPaginatedAction(params)
+    },
+    placeholderData: (previousData) => previousData,
+    staleTime: 30 * 1000
   })
 }
 

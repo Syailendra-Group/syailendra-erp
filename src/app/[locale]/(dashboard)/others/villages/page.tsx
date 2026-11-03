@@ -1,4 +1,3 @@
-import { getVillagesAction } from '@/actions/others/village.action'
 import { VillagesFeature } from '@/features/others/villages'
 
 import type { Metadata } from 'next'
@@ -9,7 +8,6 @@ export const metadata: Metadata = {
   description: 'Official villages master catalog'
 }
 
-export default async function VillagesPage(): Promise<ReactElement> {
-  const { villages } = await getVillagesAction()
-  return <VillagesFeature initialData={villages} />
+export default function VillagesPage(): ReactElement {
+  return <VillagesFeature />
 }

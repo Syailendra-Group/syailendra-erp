@@ -1,14 +1,22 @@
 import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
 
-import { getVillageByIdAction, getVillagesAction, saveVillageAction, toggleVillageStatusAction } from '@/actions/others/village.action'
+import {
+  getVillageByIdAction,
+  getVillagesAction,
+  getVillagesPaginatedAction,
+  saveVillageAction,
+  toggleVillageStatusAction
+} from '@/actions/others/village.action'
 
 import type { VillageFormValues } from '@/schemas/others/village-schema'
+import type { FetchVillagesParams } from '@/services/odoo/others/village.service'
 import type { VillageRecord } from '@/types/others/village'
 
 export const villageKeys = {
   all: ['villages'] as const,
   lists: () => [...villageKeys.all, 'list'] as const,
   byDistrict: (districtId?: number) => [...villageKeys.lists(), { districtId }] as const,
+  paginated: (params: FetchVillagesParams) => [...villageKeys.all, 'paginated', params] as const,
   detail: (id: number) => [...villageKeys.all, 'detail', id] as const
 }
 
@@ -20,6 +28,17 @@ export function useVillagesQuery(districtId?: number) {
       return res.villages
     },
     staleTime: 60 * 1000
+  })
+}
+
+export function useVillagesPaginatedQuery(params: FetchVillagesParams = {}) {
+  return useQuery({
+    queryKey: villageKeys.paginated(params),
+    queryFn: async () => {
+      return await getVillagesPaginatedAction(params)
+    },
+    placeholderData: (previousData) => previousData,
+    staleTime: 30 * 1000
   })
 }
 
@@ -39,7 +58,6 @@ export function useSaveVillageMutation() {
     mutationFn: (values: VillageFormValues) => saveVillageAction(values),
     onSuccess: () => {
       queryClient.invalidateQueries({ queryKey: villageKeys.all })
-      queryClient.invalidateQueries({ queryKey: ['districts'] })
     }
   })
 }

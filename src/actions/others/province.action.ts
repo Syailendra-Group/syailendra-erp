@@ -2,42 +2,57 @@
 
 import { revalidatePath } from 'next/cache'
 
-import { provinceFormSchema } from '@/schemas/others/province-schema'
-import { fetchProvinceById, fetchProvinces, persistProvince } from '@/services/odoo/others/province.service'
+import { fetchProvinceById, fetchProvinces, fetchProvincesPaginated, persistProvince } from '@/services/odoo/others/province.service'
 
 import type { ProvinceFormValues } from '@/schemas/others/province-schema'
+import type { FetchProvincesParams, PaginatedProvincesResult } from '@/services/odoo/others/province.service'
 import type { ProvinceRecord } from '@/types/others/province'
 
-export async function getProvincesAction(countryId: number = 100): Promise<{ provinces: ProvinceRecord[] }> {
+export async function getProvincesAction(countryId?: number): Promise<{ provinces: ProvinceRecord[] }> {
   try {
     const provinces = await fetchProvinces(countryId)
     return { provinces }
-  } catch (err) {
-    console.error('Failed to fetch provinces:', err)
+  } catch (error) {
+    console.error('Failed to fetch provinces:', error)
     return { provinces: [] }
+  }
+}
+
+export async function getProvincesPaginatedAction(params: FetchProvincesParams = {}): Promise<PaginatedProvincesResult> {
+  try {
+    return await fetchProvincesPaginated(params)
+  } catch (error) {
+    console.error('Failed to fetch paginated provinces:', error)
+    return {
+      records: [],
+      totalCount: 0,
+      page: params.page || 1,
+      perPage: params.perPage || 20,
+      pageCount: 1
+    }
   }
 }
 
 export async function getProvinceByIdAction(id: number): Promise<ProvinceRecord | null> {
   try {
     return await fetchProvinceById(id)
-  } catch (err) {
-    console.error('Failed to fetch province by ID:', err)
+  } catch (error) {
+    console.error(`Failed to fetch province with ID ${id}:`, error)
     return null
   }
 }
 
-export async function saveProvinceAction(values: ProvinceFormValues): Promise<{ success: boolean; id?: number; error?: string }> {
-  const parsed = provinceFormSchema.safeParse(values)
-  if (!parsed.success) {
-    return { success: false, error: parsed.error.issues[0]?.message || 'Invalid parameters' }
-  }
+export async function saveProvinceAction(values: ProvinceFormValues): Promise<{ success: boolean; error?: string; id?: number }> {
   try {
-    const id = await persistProvince(parsed.data)
+    const id = await persistProvince(values)
     revalidatePath('/others/provinces')
+    revalidatePath('/others')
     return { success: true, id }
-  } catch (err) {
-    const msg = err instanceof Error ? err.message : 'Failed to save province'
-    return { success: false, error: msg }
+  } catch (error) {
+    console.error('Failed to persist province:', error)
+    return {
+      success: false,
+      error: error instanceof Error ? error.message : 'Failed to persist province'
+    }
   }
 }

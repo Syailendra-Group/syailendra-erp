@@ -1,47 +1,33 @@
+/**
+ * regency.service.ts — Odoo 18 RPC Service for Regencies/Cities
+ * Syailendra Group ERP
+ */
+
 import { odoo } from '@/lib/odoo'
+import { buildStatusDomain } from '@/utils'
 
 import type { OdooDomain, OdooFieldValue } from '@/lib/odoo/types'
 import type { RegencyFormValues } from '@/schemas/others/regency-schema'
 import type { RegencyRecord } from '@/types/others/regency'
 
-export async function fetchRegencies(stateId?: number): Promise<RegencyRecord[]> {
-  const domain: OdooDomain = stateId ? [['state_id', '=', stateId]] : []
-  const records = await odoo.client.searchRead<Record<string, OdooFieldValue>>(
-    'res.country.city',
-    domain,
-    ['id', 'name', 'code', 'alias', 'description', 'country_id', 'state_id', 'latitude', 'longitude', 'active'],
-    { order: 'name asc', limit: 600 }
-  )
-  return records.map((r) => ({
-    id: r.id as number,
-    name: r.name as string,
-    code: (r.code as string) || false,
-    alias: (r.alias as string) || false,
-    description: (r.description as string) || false,
-    country_id: r.country_id as [number, string],
-    state_id: r.state_id as [number, string],
-    latitude: Number(r.latitude) || 0,
-    longitude: Number(r.longitude) || 0,
-    active: Boolean(r.active)
-  }))
+export interface FetchRegenciesParams {
+  page?: number
+  perPage?: number
+  search?: string
+  status?: string | string[]
+  stateId?: number
+  order?: string
 }
 
-export async function fetchRegencyById(id: number): Promise<RegencyRecord | null> {
-  const domain: OdooDomain = [['id', '=', id]]
-  const records = await odoo.client.searchRead<Record<string, OdooFieldValue>>('res.country.city', domain, [
-    'id',
-    'name',
-    'code',
-    'alias',
-    'description',
-    'country_id',
-    'state_id',
-    'latitude',
-    'longitude',
-    'active'
-  ])
-  const r = records[0]
-  if (!r) return null
+export interface PaginatedRegenciesResult {
+  records: RegencyRecord[]
+  totalCount: number
+  page: number
+  perPage: number
+  pageCount: number
+}
+
+function mapCityToRegency(r: Record<string, OdooFieldValue>): RegencyRecord {
   return {
     id: r.id as number,
     name: r.name as string,
@@ -54,6 +40,63 @@ export async function fetchRegencyById(id: number): Promise<RegencyRecord | null
     longitude: Number(r.longitude) || 0,
     active: Boolean(r.active)
   }
+}
+
+const REGENCY_READ_FIELDS = ['id', 'name', 'code', 'alias', 'description', 'country_id', 'state_id', 'latitude', 'longitude', 'active']
+
+export async function fetchRegencies(stateId?: number): Promise<RegencyRecord[]> {
+  const domain: OdooDomain = stateId ? [['state_id', '=', stateId]] : []
+  const records = await odoo.client.searchRead<Record<string, OdooFieldValue>>('res.country.city', domain, REGENCY_READ_FIELDS, {
+    order: 'name asc',
+    limit: 600
+  })
+  return records.map(mapCityToRegency)
+}
+
+export async function fetchRegenciesPaginated(params: FetchRegenciesParams = {}): Promise<PaginatedRegenciesResult> {
+  const { page = 1, perPage = 20, search = '', status, stateId, order = 'name asc' } = params
+
+  const domain: OdooDomain = []
+
+  if (stateId) {
+    domain.push(['state_id', '=', stateId])
+  }
+
+  // Apply clean status domain via shared helper
+  const statusTuples = buildStatusDomain(status)
+  statusTuples.forEach((t) => domain.push(t))
+
+  if (search.trim()) {
+    const term = `%${search.trim()}%`
+    domain.push('|', ['name', 'ilike', term], ['code', 'ilike', term])
+  }
+
+  const offset = Math.max(0, (page - 1) * perPage)
+
+  const [totalCount, rawRecords] = await Promise.all([
+    odoo.client.searchCount('res.country.city', domain),
+    odoo.client.searchRead<Record<string, OdooFieldValue>>('res.country.city', domain, REGENCY_READ_FIELDS, {
+      offset,
+      limit: perPage,
+      order
+    })
+  ])
+
+  return {
+    records: rawRecords.map(mapCityToRegency),
+    totalCount,
+    page,
+    perPage,
+    pageCount: Math.ceil(totalCount / perPage) || 1
+  }
+}
+
+export async function fetchRegencyById(id: number): Promise<RegencyRecord | null> {
+  const domain: OdooDomain = [['id', '=', id]]
+  const records = await odoo.client.searchRead<Record<string, OdooFieldValue>>('res.country.city', domain, REGENCY_READ_FIELDS)
+  const r = records[0]
+  if (!r) return null
+  return mapCityToRegency(r)
 }
 
 export async function checkProvinceExistsByNameOrCode(name: string, code?: string): Promise<{ exists: boolean; id?: number; name?: string }> {

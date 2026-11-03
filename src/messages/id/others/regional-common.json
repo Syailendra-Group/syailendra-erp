@@ -11,5 +11,19 @@
   "selectProvince": "Pilih Provinsi",
   "selectRegency": "Pilih Kabupaten / Kota",
   "selectDistrict": "Pilih Kecamatan",
-  "selectVillage": "Pilih Kelurahan / Desa"
+  "selectVillage": "Pilih Kelurahan / Desa",
+  "category": "Kategori Wilayah",
+  "domesticCatalog": "Indonesia (Katalog)",
+  "foreignManual": "Luar Negeri (Manual)",
+  "checkingParent": "Memeriksa Odoo...",
+  "parentRegistered": "Terdaftar di Odoo",
+  "parentUnregistered": "Belum Terdaftar",
+  "fields": {
+    "name": "Nama Wilayah",
+    "alias": "Nama Alias",
+    "code": "Kode BPS/ISO",
+    "parent": "Wilayah Induk",
+    "gps": "Koordinat GPS",
+    "description": "Deskripsi / Catatan"
+  }
 }

@@ -4,7 +4,7 @@ import { Building, Hash, Mail, Phone, ShieldCheck, User } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 import { toast } from 'sonner'
 
-import { ConfirmDialog } from '@/components/confirm-dialog'
+import { ConfirmDialog } from '@/components/dialog/confirm-dialog'
 import { Badge } from '@/components/ui/badge'
 import { Button } from '@/components/ui/button'
 import { Dialog, DialogContent, DialogDescription, DialogFooter, DialogHeader, DialogTitle } from '@/components/ui/dialog'

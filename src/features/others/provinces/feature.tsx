@@ -14,6 +14,7 @@ import type { ReactElement } from 'react'
 
 function ProvincesPrimaryButtons(): ReactElement {
   const { setOpen, setCurrentRow } = useProvince()
+  const t = useTranslations('others.provinces')
   return (
     <Button
       onClick={() => {
@@ -23,13 +24,13 @@ function ProvincesPrimaryButtons(): ReactElement {
       className="gap-2 font-semibold"
     >
       <Plus className="size-4" />
-      <span>Tambah Provinsi</span>
+      <span>{t('primaryAction')}</span>
     </Button>
   )
 }
 
 function ProvincesContent(): ReactElement {
-  const t = useTranslations('regional.provinces')
+  const t = useTranslations('others.provinces')
 
   return (
     <div className="space-y-4 sm:space-y-6">

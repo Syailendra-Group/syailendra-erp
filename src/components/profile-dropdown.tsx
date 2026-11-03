@@ -4,7 +4,7 @@ import { useState } from 'react'
 import { LogOut, ShieldCheck, User } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 
-import { SignOutDialog } from '@/components/sign-out-dialog'
+import { SignOutDialog } from '@/components/dialog/sign-out-dialog'
 import { Avatar, AvatarFallback } from '@/components/ui/avatar'
 import { Button } from '@/components/ui/button'
 import {

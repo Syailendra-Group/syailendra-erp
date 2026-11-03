@@ -1,10 +1,33 @@
 {
   "title": "Master Data Negara",
-  "subtitle": "Katalog negara tujuan ekspor & asal bahan baku terdaftar",
+  "subtitle": "Katalog negara tujuan ekspor & asal bahan baku komoditas",
+  "primaryAction": "Tambah Negara",
   "table": {
     "name": "Nama Negara",
     "code": "Kode ISO",
     "phoneCode": "Kode Telepon",
     "currency": "Mata Uang"
+  },
+  "form": {
+    "name": "Nama Resmi Negara",
+    "namePlaceholder": "Contoh: Indonesia, Singapore, Japan",
+    "code": "Kode Negara (ISO 2-Huruf)",
+    "codePlaceholder": "Contoh: ID, SG, JP",
+    "phoneCode": "Kode Telepon Panggilan",
+    "phoneCodePlaceholder": "Contoh: 62, 65, 81",
+    "currency": "Mata Uang Resmi (Currency)",
+    "currencyPlaceholder": "Pilih mata uang...",
+    "description": "Deskripsi / Catatan Yurisdiksi (Opsional)",
+    "descriptionPlaceholder": "Catatan regulasi ekspor-impor, yurisdiksi kepatuhan, atau catatan agronomis..."
+  },
+  "dialog": {
+    "addTitle": "Registrasi Negara Baru",
+    "addDesc": "Daftarkan entitas negara tujuan ekspor atau asal bahan baku.",
+    "editTitle": "Ubah Data Negara",
+    "editDesc": "Perbarui nama, kode ISO, kode telepon, atau mata uang resmi.",
+    "viewTitle": "Rincian Data Negara",
+    "viewDesc": "Informasi lengkap kode ISO dan mata uang resmi negara.",
+    "deleteTitle": "Hapus Data Negara",
+    "deleteConfirm": "Hapus Negara"
   }
 }

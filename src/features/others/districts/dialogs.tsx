@@ -1,5 +1,7 @@
 'use client'
 
+import { useTranslations } from 'next-intl'
+
 import { ActionDialog } from '@/components/dialog/action-dialog'
 import { ConfirmDialog } from '@/components/dialog/confirm-dialog'
 import { Dialog, DialogContent, DialogDescription, DialogHeader, DialogTitle } from '@/components/ui/dialog'
@@ -12,6 +14,8 @@ import type { ReactElement } from 'react'
 
 export function DistrictsDialogs(): ReactElement {
   const { open, setOpen, currentRow } = useDistrict()
+  const t = useTranslations('others.districts')
+  const tReg = useTranslations('regional.common')
   const { mutateAsync: toggleStatus, isPending: isToggling } = useToggleDistrictStatusMutation()
 
   const isFormOpen = open === 'create' || open === 'edit'
@@ -32,10 +36,8 @@ export function DistrictsDialogs(): ReactElement {
         onOpenChange={(isOpen) => !isOpen && setOpen(null)}
         formId="district-action-form"
         isEdit={open === 'edit'}
-        title={open === 'edit' ? 'Ubah Data Kecamatan' : 'Registrasi Kecamatan Baru'}
-        description={
-          open === 'edit' ? 'Perbarui kode resmi, nama, atau kabupaten induk kecamatan.' : 'Daftarkan kecamatan baru ke dalam katalog wilayah sistem.'
-        }
+        title={open === 'edit' ? t('dialog.editTitle') : t('dialog.addTitle')}
+        description={open === 'edit' ? t('dialog.editDesc') : t('dialog.addDesc')}
         maxWidth="sm:max-w-xl"
       >
         <DistrictForm currentRow={currentRow} onSuccess={() => setOpen(null)} />
@@ -45,30 +47,30 @@ export function DistrictsDialogs(): ReactElement {
       <Dialog open={isViewOpen} onOpenChange={(isOpen) => !isOpen && setOpen(null)}>
         <DialogContent className="sm:max-w-md">
           <DialogHeader className="text-start">
-            <DialogTitle>Rincian Data Kecamatan</DialogTitle>
-            <DialogDescription className="text-xs">Informasi data wilayah dan kabupaten induk terdaftar.</DialogDescription>
+            <DialogTitle>{t('dialog.viewTitle')}</DialogTitle>
+            <DialogDescription className="text-xs">{t('dialog.viewDesc')}</DialogDescription>
           </DialogHeader>
 
           {currentRow && (
             <div className="space-y-3 pt-2 text-xs">
               <div className="border-border/40 grid grid-cols-3 gap-2 border-b py-1.5">
-                <span className="text-muted-foreground font-medium">Nama Kecamatan</span>
+                <span className="text-muted-foreground font-medium">{t('table.name')}</span>
                 <span className="text-foreground col-span-2 font-semibold">{currentRow.name}</span>
               </div>
               <div className="border-border/40 grid grid-cols-3 gap-2 border-b py-1.5">
-                <span className="text-muted-foreground font-medium">Nama Alias</span>
+                <span className="text-muted-foreground font-medium">{tReg('fields.alias')}</span>
                 <span className="text-foreground col-span-2">{currentRow.alias || '-'}</span>
               </div>
               <div className="border-border/40 grid grid-cols-3 gap-2 border-b py-1.5">
-                <span className="text-muted-foreground font-medium">Kode BPS</span>
+                <span className="text-muted-foreground font-medium">{t('table.code')}</span>
                 <span className="text-foreground col-span-2 font-mono font-bold">{currentRow.code}</span>
               </div>
               <div className="border-border/40 grid grid-cols-3 gap-2 border-b py-1.5">
-                <span className="text-muted-foreground font-medium">Kabupaten Induk</span>
+                <span className="text-muted-foreground font-medium">{t('table.regency')}</span>
                 <span className="text-foreground col-span-2 font-medium">{currentRow.city_id ? currentRow.city_id[1] : '-'}</span>
               </div>
               <div className="grid grid-cols-3 gap-2 py-1.5">
-                <span className="text-muted-foreground font-medium">Deskripsi</span>
+                <span className="text-muted-foreground font-medium">{tReg('fields.description')}</span>
                 <span className="text-foreground col-span-2 italic">{currentRow.description || '-'}</span>
               </div>
             </div>

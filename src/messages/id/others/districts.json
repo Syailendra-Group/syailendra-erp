@@ -1,6 +1,6 @@
 {
-  "title": "Master Data Kecamatan",
-  "subtitle": "Pemetaan wilayah sentra tani dan ketel penyulingan atsiri",
+  "title": "Master Kecamatan (Distrik)",
+  "subtitle": "Wilayah binaan kebun & sub-unit distrik perkebunan",
   "primaryAction": "Tambah Kecamatan",
   "table": {
     "name": "Nama Kecamatan",
@@ -9,11 +9,23 @@
     "province": "Provinsi",
     "status": "Status"
   },
+  "form": {
+    "parentLabel": "Kabupaten Induk",
+    "parentPlaceholder": "Pilih Kabupaten",
+    "namePlaceholder": "Contoh: Kecamatan Kejajar",
+    "aliasLabel": "Nama Alias (Dropdown)",
+    "aliasPlaceholder": "Contoh: Kejajar",
+    "codePlaceholder": "Contoh: 33.23.08",
+    "descLabel": "Deskripsi / Catatan Wilayah (Opsional)",
+    "descPlaceholder": "Karakteristik agronomis dataran tinggi, sentra bibit..."
+  },
   "dialog": {
-    "addTitle": "Tambah Kecamatan Baru",
-    "addDesc": "Daftarkan kecamatan binaan baru",
-    "editTitle": "Ubah Kecamatan",
-    "editDesc": "Perbarui informasi kecamatan binaan"
+    "addTitle": "Registrasi Kecamatan Baru",
+    "addDesc": "Daftarkan kecamatan baru ke dalam katalog wilayah sistem.",
+    "editTitle": "Ubah Data Kecamatan",
+    "editDesc": "Perbarui kode resmi, nama, atau kabupaten induk kecamatan.",
+    "viewTitle": "Rincian Data Kecamatan",
+    "viewDesc": "Informasi data wilayah dan kabupaten induk terdaftar."
   },
   "alert": {
     "parentMissingTitle": "Kabupaten Induk Belum Terdaftar",

@@ -22,6 +22,7 @@ import type { ReactElement } from 'react'
 
 export function AddressSection({ disabled = false, values, onChange, onCentroidPan, errors = {} }: AddressSectionProps): ReactElement {
   const tTrace = useTranslations('traceability.farmers')
+  const tCommon = useTranslations('common')
 
   const {
     country_id = 100, // Indonesia default
@@ -124,9 +125,9 @@ export function AddressSection({ disabled = false, values, onChange, onCentroidP
       {/* 5-Level Regional Cascading */}
       <div className="grid grid-cols-1 gap-3.5 sm:grid-cols-2">
         {/* Negara */}
-        <FormFieldWrapper id="country_id" label="Negara" required error={errors.country_id?.message}>
+        <FormFieldWrapper id="country_id" label={tCommon('address.country')} required error={errors.country_id?.message}>
           <SelectForm
-            placeholder="Pilih negara..."
+            placeholder={tCommon('address.countryPlaceholder')}
             disabled={disabled}
             value={country_id ? String(country_id) : ''}
             onValueChange={handleCountryChange}
@@ -179,10 +180,10 @@ export function AddressSection({ disabled = false, values, onChange, onCentroidP
         </FormFieldWrapper>
 
         {/* Kode Pos */}
-        <FormFieldWrapper id="zip_code" label="Kode Pos" error={errors.zip_code?.message}>
+        <FormFieldWrapper id="zip_code" label={tCommon('address.zipCode')} error={errors.zip_code?.message}>
           <Input
             id="zip_code"
-            placeholder="Contoh: 56354"
+            placeholder={tCommon('address.zipCodePlaceholder')}
             disabled={disabled}
             value={zip_code}
             onChange={(e) => onChange({ zip_code: e.target.value })}
@@ -203,11 +204,11 @@ export function AddressSection({ disabled = false, values, onChange, onCentroidP
           />
         </FormFieldWrapper>
 
-        <FormFieldWrapper id="address_benchmark" label="Alamat Tambahan / Patokan Lapangan" error={errors.address_benchmark?.message}>
+        <FormFieldWrapper id="address_benchmark" label={tCommon('address.benchmark')} error={errors.address_benchmark?.message}>
           <Textarea
             id="address_benchmark"
             rows={3}
-            placeholder="Contoh: Sebelah utara posyandu, 500m dari gapura desa"
+            placeholder={tCommon('address.benchmarkPlaceholder')}
             disabled={disabled}
             value={address_benchmark}
             onChange={(e) => onChange({ address_benchmark: e.target.value })}

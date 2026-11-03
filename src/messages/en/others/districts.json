@@ -9,11 +9,23 @@
     "province": "Province",
     "status": "Status"
   },
+  "form": {
+    "parentLabel": "Parent Regency",
+    "parentPlaceholder": "Select Regency",
+    "namePlaceholder": "e.g. Kejajar District",
+    "aliasLabel": "Alias Name (Dropdown)",
+    "aliasPlaceholder": "e.g. Kejajar",
+    "codePlaceholder": "e.g. 33.23.08",
+    "descLabel": "Description / Territory Notes (Optional)",
+    "descPlaceholder": "Highland agronomic features, seedling hub..."
+  },
   "dialog": {
-    "addTitle": "Add New District",
-    "addDesc": "Register a new plantation district",
-    "editTitle": "Edit District",
-    "editDesc": "Update district details and centroid"
+    "addTitle": "Register New District",
+    "addDesc": "Register a new plantation district.",
+    "editTitle": "Edit District Data",
+    "editDesc": "Update official code, name, or parent regency.",
+    "viewTitle": "District Data Details",
+    "viewDesc": "Official district information and parent regency relation."
   },
   "alert": {
     "parentMissingTitle": "Parent Regency Not Registered",

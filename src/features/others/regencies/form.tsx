@@ -30,7 +30,8 @@ export interface RegencyFormProps {
 
 export function RegencyForm({ currentRow, onSuccess }: RegencyFormProps): ReactElement {
   const isEdit = !!currentRow
-  const t = useTranslations('regional.regencies')
+  const t = useTranslations('others.regencies')
+  const tReg = useTranslations('regional.common')
   const { mutateAsync: saveRegency, isPending } = useSaveRegencyMutation()
 
   const form = useForm<RegencyFormValues>({
@@ -145,14 +146,14 @@ export function RegencyForm({ currentRow, onSuccess }: RegencyFormProps): ReactE
       <form id="regency-action-form" onSubmit={form.handleSubmit(onSubmit)} className="space-y-4 px-1">
         {!isEdit && (
           <div className="border-border/60 flex items-center justify-between border-b pb-1">
-            <span className="text-foreground text-xs font-semibold">Kategori Wilayah</span>
+            <span className="text-foreground text-xs font-semibold">{tReg('category')}</span>
             <Tabs value={isDomestic ? 'domestic' : 'foreign'} onValueChange={(val) => form.setValue('is_domestic', val === 'domestic')}>
               <TabsList className="h-7 text-xs">
                 <TabsTrigger value="domestic" className="px-2.5 text-xs">
-                  Indonesia (Katalog)
+                  {tReg('domesticCatalog')}
                 </TabsTrigger>
                 <TabsTrigger value="foreign" className="px-2.5 text-xs">
-                  Luar Negeri (Manual)
+                  {tReg('foreignManual')}
                 </TabsTrigger>
               </TabsList>
             </Tabs>
@@ -160,9 +161,9 @@ export function RegencyForm({ currentRow, onSuccess }: RegencyFormProps): ReactE
         )}
 
         {!isEdit && isDomestic && (
-          <FormFieldWrapper id="catalog-regency" label="Pilih dari Katalog Resmi Indonesia">
+          <FormFieldWrapper id="catalog-regency" label={t('form.catalogLabel')}>
             <SelectForm
-              placeholder="Cari & pilih kabupaten / kota..."
+              placeholder={t('form.catalogPlaceholder')}
               disabled={isPending}
               onValueChange={handleSelectDomestic}
               items={catalogOptions}
@@ -182,7 +183,7 @@ export function RegencyForm({ currentRow, onSuccess }: RegencyFormProps): ReactE
               <FormItem>
                 <FormFieldWrapper id="reg-name" label={t('table.name')} required error={form.formState.errors.name?.message}>
                   <FormControl>
-                    <Input id="reg-name" placeholder="Contoh: Kabupaten Wonosobo" disabled={isPending} {...field} />
+                    <Input id="reg-name" placeholder={t('form.namePlaceholder')} disabled={isPending} {...field} />
                   </FormControl>
                 </FormFieldWrapper>
               </FormItem>
@@ -194,9 +195,9 @@ export function RegencyForm({ currentRow, onSuccess }: RegencyFormProps): ReactE
             name="alias"
             render={({ field }) => (
               <FormItem>
-                <FormFieldWrapper id="reg-alias" label="Nama Alias (Untuk Dropdown)" required error={form.formState.errors.alias?.message}>
+                <FormFieldWrapper id="reg-alias" label={t('form.aliasLabel')} required error={form.formState.errors.alias?.message}>
                   <FormControl>
-                    <Input id="reg-alias" placeholder="Contoh: Wonosobo" disabled={isPending} {...field} />
+                    <Input id="reg-alias" placeholder={t('form.aliasPlaceholder')} disabled={isPending} {...field} />
                   </FormControl>
                 </FormFieldWrapper>
               </FormItem>
@@ -207,16 +208,18 @@ export function RegencyForm({ currentRow, onSuccess }: RegencyFormProps): ReactE
         {selectedProvName && (
           <div className="border-border/80 bg-muted/40 space-y-2 rounded-lg border p-3">
             <div className="flex items-center justify-between text-xs font-semibold">
-              <span>Provinsi Induk: {selectedProvName}</span>
+              <span>
+                {tReg('fields.parent')}: {selectedProvName}
+              </span>
               {isCheckingParent ? (
-                <span className="text-muted-foreground text-[10px]">Memeriksa Odoo...</span>
+                <span className="text-muted-foreground text-[10px]">{tReg('checkingParent')}</span>
               ) : parentStatus?.exists ? (
                 <span className="flex items-center gap-1 text-[11px] text-emerald-600">
-                  <CheckCircle2 className="size-3.5" /> Terdaftar di Odoo
+                  <CheckCircle2 className="size-3.5" /> {tReg('parentRegistered')}
                 </span>
               ) : (
                 <span className="text-destructive flex items-center gap-1 text-[11px]">
-                  <AlertCircle className="size-3.5" /> Belum Terdaftar
+                  <AlertCircle className="size-3.5" /> {tReg('parentUnregistered')}
                 </span>
               )}
             </div>
@@ -224,10 +227,10 @@ export function RegencyForm({ currentRow, onSuccess }: RegencyFormProps): ReactE
             {!isCheckingParent && parentStatus && !parentStatus.exists && (
               <Alert variant="destructive" className="py-2 text-xs">
                 <AlertCircle className="size-4" />
-                <AlertTitle className="text-xs font-bold">Provinsi Belum Terdaftar</AlertTitle>
-                <AlertDescription className="text-[11px]">Provinsi {selectedProvName} belum ada di master data Odoo.</AlertDescription>
+                <AlertTitle className="text-xs font-bold">{t('alert.parentMissingTitle')}</AlertTitle>
+                <AlertDescription className="text-[11px]">{t('alert.parentMissingDesc', { province: selectedProvName })}</AlertDescription>
                 <div className="border-destructive/20 mt-2 flex items-center justify-between border-t pt-2">
-                  <span className="text-foreground text-[11px] font-semibold">Otomatis daftarkan Provinsi ke Odoo:</span>
+                  <span className="text-foreground text-[11px] font-semibold">{t('alert.autoAddLabel')}</span>
                   <Switch checked={autoAddProvince} onCheckedChange={(checked) => form.setValue('auto_add_province', checked)} />
                 </div>
               </Alert>
@@ -240,19 +243,9 @@ export function RegencyForm({ currentRow, onSuccess }: RegencyFormProps): ReactE
           name="description"
           render={({ field }) => (
             <FormItem>
-              <FormFieldWrapper
-                id="reg-desc"
-                label="Deskripsi / Karakteristik Geografis (Opsional)"
-                error={form.formState.errors.description?.message}
-              >
+              <FormFieldWrapper id="reg-desc" label={t('form.descLabel')} error={form.formState.errors.description?.message}>
                 <FormControl>
-                  <Textarea
-                    id="reg-desc"
-                    rows={3}
-                    placeholder="Sentra agribisnis dataran tinggi, kontur perbukitan..."
-                    disabled={isPending}
-                    {...field}
-                  />
+                  <Textarea id="reg-desc" rows={3} placeholder={t('form.descPlaceholder')} disabled={isPending} {...field} />
                 </FormControl>
               </FormFieldWrapper>
             </FormItem>

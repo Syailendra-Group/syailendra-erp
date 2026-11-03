@@ -1,10 +1,33 @@
 {
   "title": "Countries Master Register",
   "subtitle": "Catalog of export destinations and raw material origins",
+  "primaryAction": "Add Country",
   "table": {
     "name": "Country Name",
     "code": "ISO Code",
     "phoneCode": "Phone Code",
     "currency": "Currency"
+  },
+  "form": {
+    "name": "Official Country Name",
+    "namePlaceholder": "e.g. Indonesia, Singapore, Japan",
+    "code": "Country Code (ISO 2-Letter)",
+    "codePlaceholder": "e.g. ID, SG, JP",
+    "phoneCode": "International Dialing Code",
+    "phoneCodePlaceholder": "e.g. 62, 65, 81",
+    "currency": "Official System Currency",
+    "currencyPlaceholder": "Select currency...",
+    "description": "Description / Jurisdiction Notes (Optional)",
+    "descriptionPlaceholder": "Export-import regulatory notes, compliance jurisdiction, or agronomic remarks..."
+  },
+  "dialog": {
+    "addTitle": "Register New Country",
+    "addDesc": "Register export destination country or raw material origin.",
+    "editTitle": "Edit Country Data",
+    "editDesc": "Update name, ISO code, dialing code, or official currency.",
+    "viewTitle": "Country Data Details",
+    "viewDesc": "Full ISO specifications and registered official currency.",
+    "deleteTitle": "Delete Country Data",
+    "deleteConfirm": "Delete Country"
   }
 }

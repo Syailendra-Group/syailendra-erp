@@ -7,13 +7,14 @@ import { PageHeader } from '@/components/shared/page-header'
 import { Button } from '@/components/ui/button'
 import { CountryProvider, useCountry } from '@/contexts/others/country.context'
 
-import { CountryDialogs } from './dialogs'
+import { CountriesDialogs } from './dialogs'
 import { CountriesTable } from './table'
 
 import type { ReactElement } from 'react'
 
 function CountriesPrimaryButtons(): ReactElement {
   const { setOpen, setCurrentRow } = useCountry()
+  const t = useTranslations('others.countries')
   return (
     <Button
       onClick={() => {
@@ -23,19 +24,19 @@ function CountriesPrimaryButtons(): ReactElement {
       className="gap-2 font-semibold"
     >
       <Plus className="size-4" />
-      <span>Tambah Negara</span>
+      <span>{t('primaryAction')}</span>
     </Button>
   )
 }
 
 function CountriesContent(): ReactElement {
-  const t = useTranslations('regional.countries')
+  const t = useTranslations('others.countries')
 
   return (
     <div className="space-y-4 sm:space-y-6">
       <PageHeader title={t('title')} description={t('subtitle')} icon={Globe} actions={<CountriesPrimaryButtons />} />
       <CountriesTable />
-      <CountryDialogs />
+      <CountriesDialogs />
     </div>
   )
 }

@@ -14,6 +14,7 @@ import type { ReactElement } from 'react'
 
 function VillagesPrimaryButtons(): ReactElement {
   const { setOpen, setCurrentRow } = useVillage()
+  const t = useTranslations('others.villages')
   return (
     <Button
       onClick={() => {
@@ -23,13 +24,13 @@ function VillagesPrimaryButtons(): ReactElement {
       className="gap-2 font-semibold"
     >
       <Plus className="size-4" />
-      <span>Tambah Kelurahan</span>
+      <span>{t('primaryAction')}</span>
     </Button>
   )
 }
 
 function VillagesContent(): ReactElement {
-  const t = useTranslations('regional.villages')
+  const t = useTranslations('others.villages')
   const { setOpen, setCurrentRow } = useVillage()
 
   return (

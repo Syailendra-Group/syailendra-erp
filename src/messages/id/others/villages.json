@@ -1,19 +1,33 @@
 {
   "title": "Master Kelurahan & Desa",
-  "subtitle": "Titik hulu petak lahan kebun dan kelompok tani binaan",
-  "primaryAction": "Tambah Kelurahan/Desa",
+  "subtitle": "Titik plot kebun hulu & kelompok tani binaan tingkat desa",
+  "primaryAction": "Tambah Kelurahan",
   "table": {
-    "name": "Kelurahan / Desa",
-    "code": "Kode Kemendagri",
-    "district": "Kecamatan",
+    "name": "Desa / Kelurahan",
+    "code": "Kode BPS",
+    "district": "Kecamatan Induk",
     "zipCode": "Kode Pos",
     "status": "Status"
   },
+  "form": {
+    "parentLabel": "Kecamatan Induk",
+    "parentPlaceholder": "Pilih Kecamatan",
+    "namePlaceholder": "Contoh: Desa Igirmranak",
+    "aliasLabel": "Nama Alias (Dropdown)",
+    "aliasPlaceholder": "Contoh: Igirmranak",
+    "codePlaceholder": "Contoh: 33.23.08.2001",
+    "zipLabel": "Kode Pos",
+    "zipPlaceholder": "Contoh: 56354",
+    "descLabel": "Deskripsi / Catatan Wilayah (Opsional)",
+    "descPlaceholder": "Sentra perkebunan atsiri, elevasi 1400 mdpl..."
+  },
   "dialog": {
-    "addTitle": "Tambah Kelurahan / Desa Baru",
-    "addDesc": "Daftarkan desa lokasi perkebunan dan kelompok tani",
-    "editTitle": "Ubah Kelurahan / Desa",
-    "editDesc": "Perbarui data desa dan kode pos resmi"
+    "addTitle": "Registrasi Kelurahan / Desa Baru",
+    "addDesc": "Daftarkan kelurahan atau desa baru ke dalam katalog wilayah sistem.",
+    "editTitle": "Ubah Data Kelurahan / Desa",
+    "editDesc": "Perbarui kode pos, nama, atau kecamatan induk kelurahan/desa.",
+    "viewTitle": "Rincian Kelurahan / Desa",
+    "viewDesc": "Informasi data wilayah dan kecamatan induk terdaftar."
   },
   "alert": {
     "parentMissingTitle": "Kecamatan Induk Belum Terdaftar",

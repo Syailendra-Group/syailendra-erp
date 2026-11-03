@@ -99,5 +99,13 @@
     "light": "Light",
     "dark": "Dark",
     "system": "System"
+  },
+  "address": {
+    "country": "Country",
+    "countryPlaceholder": "Select country...",
+    "zipCode": "Postal Code",
+    "zipCodePlaceholder": "e.g. 56354",
+    "benchmark": "Additional Address / Field Landmark",
+    "benchmarkPlaceholder": "e.g. North of health post, 500m from village gate..."
   }
 }

@@ -11,5 +11,19 @@
   "selectProvince": "Select Province",
   "selectRegency": "Select Regency / City",
   "selectDistrict": "Select District",
-  "selectVillage": "Select Village"
+  "selectVillage": "Select Village",
+  "category": "Territory Category",
+  "domesticCatalog": "Indonesia (Catalog)",
+  "foreignManual": "International (Manual)",
+  "checkingParent": "Checking Odoo...",
+  "parentRegistered": "Registered in Odoo",
+  "parentUnregistered": "Not Registered",
+  "fields": {
+    "name": "Territory Name",
+    "alias": "Alias Name",
+    "code": "BPS/ISO Code",
+    "parent": "Parent Territory",
+    "gps": "GPS Coordinates",
+    "description": "Description / Notes"
+  }
 }

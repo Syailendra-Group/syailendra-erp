@@ -14,6 +14,7 @@ import type { ReactElement } from 'react'
 
 function RegenciesPrimaryButtons(): ReactElement {
   const { setOpen, setCurrentRow } = useRegency()
+  const t = useTranslations('others.regencies')
   return (
     <Button
       onClick={() => {
@@ -23,13 +24,13 @@ function RegenciesPrimaryButtons(): ReactElement {
       className="gap-2 font-semibold"
     >
       <Plus className="size-4" />
-      <span>Tambah Kab/Kota</span>
+      <span>{t('primaryAction')}</span>
     </Button>
   )
 }
 
 function RegenciesContent(): ReactElement {
-  const t = useTranslations('regional.regencies')
+  const t = useTranslations('others.regencies')
   const { setOpen, setCurrentRow } = useRegency()
 
   return (

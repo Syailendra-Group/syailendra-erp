@@ -14,6 +14,7 @@ import type { ReactElement } from 'react'
 
 function DistrictsPrimaryButtons(): ReactElement {
   const { setOpen, setCurrentRow } = useDistrict()
+  const t = useTranslations('others.districts')
   return (
     <Button
       onClick={() => {
@@ -23,13 +24,13 @@ function DistrictsPrimaryButtons(): ReactElement {
       className="gap-2 font-semibold"
     >
       <Plus className="size-4" />
-      <span>Tambah Kecamatan</span>
+      <span>{t('primaryAction')}</span>
     </Button>
   )
 }
 
 function DistrictsContent(): ReactElement {
-  const t = useTranslations('regional.districts')
+  const t = useTranslations('others.districts')
   const { setOpen, setCurrentRow } = useDistrict()
 
   return (

@@ -26,7 +26,7 @@ export interface DistrictFormProps {
 
 export function DistrictForm({ currentRow, onSuccess }: DistrictFormProps): ReactElement {
   const isEdit = !!currentRow
-  const t = useTranslations('regional.districts')
+  const t = useTranslations('others.districts')
   const { data: regencies = [] } = useRegenciesQuery()
   const { mutateAsync: saveDistrict, isPending } = useSaveDistrictMutation()
 
@@ -100,11 +100,11 @@ export function DistrictForm({ currentRow, onSuccess }: DistrictFormProps): Reac
   return (
     <Form {...form}>
       <form id="district-action-form" onSubmit={form.handleSubmit(onSubmit)} className="space-y-4 px-1">
-        <FormFieldWrapper id="dist-parent" label="Kabupaten Induk" required>
+        <FormFieldWrapper id="dist-parent" label={t('form.parentLabel')} required>
           <SelectForm
             value={form.watch('city_id') ? String(form.watch('city_id')) : undefined}
             onValueChange={(val) => form.setValue('city_id', Number(val), { shouldValidate: true })}
-            placeholder="Pilih Kabupaten"
+            placeholder={t('form.parentPlaceholder')}
             disabled={isPending}
             items={regencyOptions}
           />
@@ -118,7 +118,7 @@ export function DistrictForm({ currentRow, onSuccess }: DistrictFormProps): Reac
               <FormItem>
                 <FormFieldWrapper id="dist-name" label={t('table.name')} required error={form.formState.errors.name?.message}>
                   <FormControl>
-                    <Input id="dist-name" placeholder="Contoh: Kecamatan Kejajar" disabled={isPending} {...field} />
+                    <Input id="dist-name" placeholder={t('form.namePlaceholder')} disabled={isPending} {...field} />
                   </FormControl>
                 </FormFieldWrapper>
               </FormItem>
@@ -130,9 +130,9 @@ export function DistrictForm({ currentRow, onSuccess }: DistrictFormProps): Reac
             name="alias"
             render={({ field }) => (
               <FormItem>
-                <FormFieldWrapper id="dist-alias" label="Nama Alias (Dropdown)" required error={form.formState.errors.alias?.message}>
+                <FormFieldWrapper id="dist-alias" label={t('form.aliasLabel')} required error={form.formState.errors.alias?.message}>
                   <FormControl>
-                    <Input id="dist-alias" placeholder="Contoh: Kejajar" disabled={isPending} {...field} />
+                    <Input id="dist-alias" placeholder={t('form.aliasPlaceholder')} disabled={isPending} {...field} />
                   </FormControl>
                 </FormFieldWrapper>
               </FormItem>
@@ -147,7 +147,7 @@ export function DistrictForm({ currentRow, onSuccess }: DistrictFormProps): Reac
             <FormItem>
               <FormFieldWrapper id="dist-code" label={t('table.code')} required error={form.formState.errors.code?.message}>
                 <FormControl>
-                  <Input id="dist-code" placeholder="Contoh: 33.23.08" disabled={isPending} {...field} />
+                  <Input id="dist-code" placeholder={t('form.codePlaceholder')} disabled={isPending} {...field} />
                 </FormControl>
               </FormFieldWrapper>
             </FormItem>
@@ -159,15 +159,9 @@ export function DistrictForm({ currentRow, onSuccess }: DistrictFormProps): Reac
           name="description"
           render={({ field }) => (
             <FormItem>
-              <FormFieldWrapper id="dist-desc" label="Deskripsi / Catatan Wilayah (Opsional)" error={form.formState.errors.description?.message}>
+              <FormFieldWrapper id="dist-desc" label={t('form.descLabel')} error={form.formState.errors.description?.message}>
                 <FormControl>
-                  <Textarea
-                    id="dist-desc"
-                    rows={3}
-                    placeholder="Karakteristik agronomis dataran tinggi, sentra bibit..."
-                    disabled={isPending}
-                    {...field}
-                  />
+                  <Textarea id="dist-desc" rows={3} placeholder={t('form.descPlaceholder')} disabled={isPending} {...field} />
                 </FormControl>
               </FormFieldWrapper>
             </FormItem>

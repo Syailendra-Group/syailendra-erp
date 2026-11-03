@@ -9,11 +9,25 @@
     "zipCode": "Postal Code",
     "status": "Status"
   },
+  "form": {
+    "parentLabel": "Parent District",
+    "parentPlaceholder": "Select District",
+    "namePlaceholder": "e.g. Igirmranak Village",
+    "aliasLabel": "Alias Name (Dropdown)",
+    "aliasPlaceholder": "e.g. Igirmranak",
+    "codePlaceholder": "e.g. 33.23.08.2001",
+    "zipLabel": "Postal Code",
+    "zipPlaceholder": "e.g. 56354",
+    "descLabel": "Description / Territory Notes (Optional)",
+    "descPlaceholder": "Essential oil plantation hub, 1400 masl elevation..."
+  },
   "dialog": {
-    "addTitle": "Add New Village",
-    "addDesc": "Register a farm plot location and village cooperative",
-    "editTitle": "Edit Village",
-    "editDesc": "Update village data and official postal code"
+    "addTitle": "Register New Village",
+    "addDesc": "Register a farm plot location and village cooperative.",
+    "editTitle": "Edit Village Data",
+    "editDesc": "Update village data and official postal code.",
+    "viewTitle": "Village / Subdistrict Details",
+    "viewDesc": "Official village information and parent district relation."
   },
   "alert": {
     "parentMissingTitle": "Parent District Not Registered",

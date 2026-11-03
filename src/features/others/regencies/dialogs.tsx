@@ -1,5 +1,7 @@
 'use client'
 
+import { useTranslations } from 'next-intl'
+
 import { ActionDialog } from '@/components/dialog/action-dialog'
 import { ConfirmDialog } from '@/components/dialog/confirm-dialog'
 import { Dialog, DialogContent, DialogDescription, DialogHeader, DialogTitle } from '@/components/ui/dialog'
@@ -12,6 +14,8 @@ import type { ReactElement } from 'react'
 
 export function RegenciesDialogs(): ReactElement {
   const { open, setOpen, currentRow } = useRegency()
+  const t = useTranslations('others.regencies')
+  const tReg = useTranslations('regional.common')
   const { mutateAsync: toggleStatus, isPending: isToggling } = useToggleRegencyStatusMutation()
 
   const isFormOpen = open === 'create' || open === 'edit'
@@ -32,10 +36,8 @@ export function RegenciesDialogs(): ReactElement {
         onOpenChange={(isOpen) => !isOpen && setOpen(null)}
         formId="regency-action-form"
         isEdit={open === 'edit'}
-        title={open === 'edit' ? 'Ubah Data Kabupaten / Kota' : 'Registrasi Kabupaten / Kota Baru'}
-        description={
-          open === 'edit' ? 'Perbarui nama, kode BPS, atau provinsi induk kabupaten.' : 'Daftarkan kabupaten atau kota baru ke dalam sistem.'
-        }
+        title={open === 'edit' ? t('dialog.editTitle') : t('dialog.addTitle')}
+        description={open === 'edit' ? t('dialog.editDesc') : t('dialog.addDesc')}
         maxWidth="sm:max-w-xl"
       >
         <RegencyForm currentRow={currentRow} onSuccess={() => setOpen(null)} />
@@ -45,36 +47,36 @@ export function RegenciesDialogs(): ReactElement {
       <Dialog open={isViewOpen} onOpenChange={(isOpen) => !isOpen && setOpen(null)}>
         <DialogContent className="sm:max-w-md">
           <DialogHeader className="text-start">
-            <DialogTitle>Rincian Kabupaten / Kota</DialogTitle>
-            <DialogDescription className="text-xs">Informasi data wilayah dan provinsi induk terdaftar.</DialogDescription>
+            <DialogTitle>{t('dialog.viewTitle')}</DialogTitle>
+            <DialogDescription className="text-xs">{t('dialog.viewDesc')}</DialogDescription>
           </DialogHeader>
 
           {currentRow && (
             <div className="space-y-3 pt-2 text-xs">
               <div className="border-border/40 grid grid-cols-3 gap-2 border-b py-1.5">
-                <span className="text-muted-foreground font-medium">Nama Kabupaten</span>
+                <span className="text-muted-foreground font-medium">{t('table.name')}</span>
                 <span className="text-foreground col-span-2 font-semibold">{currentRow.name}</span>
               </div>
               <div className="border-border/40 grid grid-cols-3 gap-2 border-b py-1.5">
-                <span className="text-muted-foreground font-medium">Nama Alias</span>
+                <span className="text-muted-foreground font-medium">{tReg('fields.alias')}</span>
                 <span className="text-foreground col-span-2">{currentRow.alias || '-'}</span>
               </div>
               <div className="border-border/40 grid grid-cols-3 gap-2 border-b py-1.5">
-                <span className="text-muted-foreground font-medium">Kode BPS</span>
+                <span className="text-muted-foreground font-medium">{t('table.code')}</span>
                 <span className="text-foreground col-span-2 font-mono font-bold">{currentRow.code}</span>
               </div>
               <div className="border-border/40 grid grid-cols-3 gap-2 border-b py-1.5">
-                <span className="text-muted-foreground font-medium">Provinsi Induk</span>
+                <span className="text-muted-foreground font-medium">{t('table.province')}</span>
                 <span className="text-foreground col-span-2 font-medium">{currentRow.state_id ? currentRow.state_id[1] : '-'}</span>
               </div>
               <div className="border-border/40 grid grid-cols-3 gap-2 border-b py-1.5">
-                <span className="text-muted-foreground font-medium">Koordinat GPS</span>
+                <span className="text-muted-foreground font-medium">{tReg('fields.gps')}</span>
                 <span className="text-foreground col-span-2 font-mono">
                   {currentRow.latitude}, {currentRow.longitude}
                 </span>
               </div>
               <div className="grid grid-cols-3 gap-2 py-1.5">
-                <span className="text-muted-foreground font-medium">Deskripsi</span>
+                <span className="text-muted-foreground font-medium">{tReg('fields.description')}</span>
                 <span className="text-foreground col-span-2 italic">{currentRow.description || '-'}</span>
               </div>
             </div>

@@ -26,7 +26,7 @@ export interface VillageFormProps {
 
 export function VillageForm({ currentRow, onSuccess }: VillageFormProps): ReactElement {
   const isEdit = !!currentRow
-  const t = useTranslations('regional.villages')
+  const t = useTranslations('others.villages')
   const { data: districts = [] } = useDistrictsQuery()
   const { mutateAsync: saveVillage, isPending } = useSaveVillageMutation()
 
@@ -103,11 +103,11 @@ export function VillageForm({ currentRow, onSuccess }: VillageFormProps): ReactE
   return (
     <Form {...form}>
       <form id="village-action-form" onSubmit={form.handleSubmit(onSubmit)} className="space-y-4 px-1">
-        <FormFieldWrapper id="vil-parent" label="Kecamatan Induk" required>
+        <FormFieldWrapper id="vil-parent" label={t('form.parentLabel')} required>
           <SelectForm
             value={form.watch('district_id') ? String(form.watch('district_id')) : undefined}
             onValueChange={(val) => form.setValue('district_id', Number(val), { shouldValidate: true })}
-            placeholder="Pilih Kecamatan"
+            placeholder={t('form.parentPlaceholder')}
             disabled={isPending}
             items={districtOptions}
           />
@@ -121,7 +121,7 @@ export function VillageForm({ currentRow, onSuccess }: VillageFormProps): ReactE
               <FormItem>
                 <FormFieldWrapper id="vil-name" label={t('table.name')} required error={form.formState.errors.name?.message}>
                   <FormControl>
-                    <Input id="vil-name" placeholder="Contoh: Desa Igirmranak" disabled={isPending} {...field} />
+                    <Input id="vil-name" placeholder={t('form.namePlaceholder')} disabled={isPending} {...field} />
                   </FormControl>
                 </FormFieldWrapper>
               </FormItem>
@@ -133,9 +133,9 @@ export function VillageForm({ currentRow, onSuccess }: VillageFormProps): ReactE
             name="alias"
             render={({ field }) => (
               <FormItem>
-                <FormFieldWrapper id="vil-alias" label="Nama Alias (Dropdown)" required error={form.formState.errors.alias?.message}>
+                <FormFieldWrapper id="vil-alias" label={t('form.aliasLabel')} required error={form.formState.errors.alias?.message}>
                   <FormControl>
-                    <Input id="vil-alias" placeholder="Contoh: Igirmranak" disabled={isPending} {...field} />
+                    <Input id="vil-alias" placeholder={t('form.aliasPlaceholder')} disabled={isPending} {...field} />
                   </FormControl>
                 </FormFieldWrapper>
               </FormItem>
@@ -151,7 +151,7 @@ export function VillageForm({ currentRow, onSuccess }: VillageFormProps): ReactE
               <FormItem>
                 <FormFieldWrapper id="vil-code" label={t('table.code')} required error={form.formState.errors.code?.message}>
                   <FormControl>
-                    <Input id="vil-code" placeholder="Contoh: 33.23.08.2001" disabled={isPending} {...field} />
+                    <Input id="vil-code" placeholder={t('form.codePlaceholder')} disabled={isPending} {...field} />
                   </FormControl>
                 </FormFieldWrapper>
               </FormItem>
@@ -163,9 +163,9 @@ export function VillageForm({ currentRow, onSuccess }: VillageFormProps): ReactE
             name="zip_code"
             render={({ field }) => (
               <FormItem>
-                <FormFieldWrapper id="vil-zip" label="Kode Pos" error={form.formState.errors.zip_code?.message}>
+                <FormFieldWrapper id="vil-zip" label={t('form.zipLabel')} error={form.formState.errors.zip_code?.message}>
                   <FormControl>
-                    <Input id="vil-zip" placeholder="Contoh: 56354" disabled={isPending} {...field} />
+                    <Input id="vil-zip" placeholder={t('form.zipPlaceholder')} disabled={isPending} {...field} />
                   </FormControl>
                 </FormFieldWrapper>
               </FormItem>
@@ -178,9 +178,9 @@ export function VillageForm({ currentRow, onSuccess }: VillageFormProps): ReactE
           name="description"
           render={({ field }) => (
             <FormItem>
-              <FormFieldWrapper id="vil-desc" label="Deskripsi / Catatan Wilayah (Opsional)" error={form.formState.errors.description?.message}>
+              <FormFieldWrapper id="vil-desc" label={t('form.descLabel')} error={form.formState.errors.description?.message}>
                 <FormControl>
-                  <Textarea id="vil-desc" rows={3} placeholder="Sentra perkebunan atsiri, elevasi 1400 mdpl..." disabled={isPending} {...field} />
+                  <Textarea id="vil-desc" rows={3} placeholder={t('form.descPlaceholder')} disabled={isPending} {...field} />
                 </FormControl>
               </FormFieldWrapper>
             </FormItem>

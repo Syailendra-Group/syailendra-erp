@@ -2,8 +2,9 @@
 
 import { useTranslations } from 'next-intl'
 
-import { ConfirmDialog } from '@/components/confirm-dialog'
 import { useRouter } from '@/i18n/navigation'
+
+import { ConfirmDialog } from './confirm-dialog'
 
 import type { ReactElement } from 'react'
 

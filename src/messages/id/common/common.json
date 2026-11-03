@@ -99,5 +99,13 @@
     "light": "Terang",
     "dark": "Gelap",
     "system": "Sistem"
+  },
+  "address": {
+    "country": "Negara",
+    "countryPlaceholder": "Pilih negara...",
+    "zipCode": "Kode Pos",
+    "zipCodePlaceholder": "Contoh: 56354",
+    "benchmark": "Alamat Tambahan / Patokan Lapangan",
+    "benchmarkPlaceholder": "Contoh: Sebelah utara posyandu, 500m dari gapura desa..."
   }
 }

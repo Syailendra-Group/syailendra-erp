@@ -11,7 +11,7 @@ import { SelectForm } from '@/components/form/select-form'
 import { Form, FormControl, FormField, FormItem } from '@/components/ui/form'
 import { Input } from '@/components/ui/input'
 import { Tabs, TabsList, TabsTrigger } from '@/components/ui/tabs'
-import { INDONESIA_PROVINCES } from '@/features/others/provinces/form/options'
+import { INDONESIA_PROVINCES } from '@/data/indonesia-regions/provinces'
 import { useCountriesQuery } from '@/hooks/others/use-countries'
 import { useSaveProvinceMutation } from '@/hooks/others/use-provinces'
 import { provinceFormSchema } from '@/schemas/others/province-schema'
@@ -27,7 +27,8 @@ export interface ProvinceFormProps {
 
 export function ProvinceForm({ currentRow, onSuccess }: ProvinceFormProps): ReactElement {
   const isEdit = !!currentRow
-  const t = useTranslations('regional.provinces')
+  const t = useTranslations('others.provinces')
+  const tReg = useTranslations('regional.common')
   const { mutateAsync: saveProvince, isPending } = useSaveProvinceMutation()
   const { data: countries = [] } = useCountriesQuery()
 
@@ -95,7 +96,7 @@ export function ProvinceForm({ currentRow, onSuccess }: ProvinceFormProps): Reac
       <form id="province-action-form" onSubmit={form.handleSubmit(onSubmit)} className="space-y-4 px-1">
         {!isEdit && (
           <div className="border-border/60 flex items-center justify-between border-b pb-1">
-            <span className="text-foreground text-xs font-semibold">Kategori Provinsi</span>
+            <span className="text-foreground text-xs font-semibold">{t('form.category')}</span>
             <Tabs
               value={isDomestic ? 'domestic' : 'foreign'}
               onValueChange={(val) => {
@@ -106,10 +107,10 @@ export function ProvinceForm({ currentRow, onSuccess }: ProvinceFormProps): Reac
             >
               <TabsList className="h-7 text-xs">
                 <TabsTrigger value="domestic" className="px-2.5 text-xs">
-                  Indonesia (Katalog)
+                  {tReg('domesticCatalog')}
                 </TabsTrigger>
                 <TabsTrigger value="foreign" className="px-2.5 text-xs">
-                  Luar Negeri (Manual)
+                  {tReg('foreignManual')}
                 </TabsTrigger>
               </TabsList>
             </Tabs>
@@ -117,9 +118,9 @@ export function ProvinceForm({ currentRow, onSuccess }: ProvinceFormProps): Reac
         )}
 
         {!isEdit && isDomestic && (
-          <FormFieldWrapper id="catalog-bps" label="Katalog 38 Provinsi Resmi BPS">
+          <FormFieldWrapper id="catalog-bps" label={t('form.catalogLabel')}>
             <SelectForm
-              placeholder="Pilih 38 Provinsi Resmi..."
+              placeholder={t('form.catalogPlaceholder')}
               disabled={isPending}
               onValueChange={handleSelectDomestic}
               items={INDONESIA_PROVINCES.map((p) => ({
@@ -135,9 +136,9 @@ export function ProvinceForm({ currentRow, onSuccess }: ProvinceFormProps): Reac
         )}
 
         {!isDomestic && (
-          <FormFieldWrapper id="prov-country" label="Negara Tujuan" required>
+          <FormFieldWrapper id="prov-country" label={t('form.foreignCountry')} required>
             <SelectForm
-              placeholder="Pilih negara..."
+              placeholder={t('form.foreignCountryPlaceholder')}
               disabled={isPending}
               value={form.watch('country_id') ? String(form.watch('country_id')) : ''}
               onValueChange={(val) => form.setValue('country_id', Number(val))}
@@ -154,7 +155,7 @@ export function ProvinceForm({ currentRow, onSuccess }: ProvinceFormProps): Reac
               <FormItem>
                 <FormFieldWrapper id="prov-name" label={t('table.name')} required error={form.formState.errors.name?.message}>
                   <FormControl>
-                    <Input id="prov-name" placeholder="Contoh: Jawa Tengah, Sabah, Victoria" disabled={isPending} {...field} />
+                    <Input id="prov-name" placeholder={t('form.namePlaceholder')} disabled={isPending} {...field} />
                   </FormControl>
                 </FormFieldWrapper>
               </FormItem>
@@ -168,7 +169,7 @@ export function ProvinceForm({ currentRow, onSuccess }: ProvinceFormProps): Reac
               <FormItem>
                 <FormFieldWrapper id="prov-code" label={t('table.code')} required error={form.formState.errors.code?.message}>
                   <FormControl>
-                    <Input id="prov-code" placeholder="Contoh: JT / 33 / VIC" disabled={isPending} {...field} />
+                    <Input id="prov-code" placeholder={t('form.codePlaceholder')} disabled={isPending} {...field} />
                   </FormControl>
                 </FormFieldWrapper>
               </FormItem>

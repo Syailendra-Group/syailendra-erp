@@ -9,15 +9,26 @@
     "alias": "Alias",
     "status": "Status"
   },
+  "form": {
+    "catalogLabel": "Pilih dari Katalog Resmi Indonesia",
+    "catalogPlaceholder": "Cari & pilih kabupaten / kota...",
+    "namePlaceholder": "Contoh: Kabupaten Wonosobo",
+    "aliasLabel": "Nama Alias (Untuk Dropdown)",
+    "aliasPlaceholder": "Contoh: Wonosobo",
+    "descLabel": "Deskripsi / Karakteristik Geografis (Opsional)",
+    "descPlaceholder": "Sentra agribisnis dataran tinggi, kontur perbukitan..."
+  },
   "dialog": {
-    "addTitle": "Tambah Kabupaten / Kota Baru",
-    "addDesc": "Pilih dari 514 wilayah resmi atau input kustom",
-    "editTitle": "Ubah Kabupaten / Kota",
-    "editDesc": "Perbarui data wilayah dan koordinat centroid"
+    "addTitle": "Registrasi Kabupaten / Kota Baru",
+    "addDesc": "Daftarkan kabupaten atau kota baru ke dalam sistem.",
+    "editTitle": "Ubah Data Kabupaten / Kota",
+    "editDesc": "Perbarui nama, kode BPS, atau provinsi induk kabupaten.",
+    "viewTitle": "Rincian Kabupaten / Kota",
+    "viewDesc": "Informasi data wilayah dan provinsi induk terdaftar."
   },
   "alert": {
     "parentMissingTitle": "Provinsi Induk Belum Terdaftar",
     "parentMissingDesc": "Provinsi {province} untuk wilayah ini belum ada di master data Odoo.",
-    "autoAddLabel": "Otomatis daftarkan Provinsi {province} ke Master Data"
+    "autoAddLabel": "Otomatis daftarkan Provinsi ke Odoo:"
   }
 }

@@ -9,15 +9,26 @@
     "alias": "Alias",
     "status": "Status"
   },
+  "form": {
+    "catalogLabel": "Select from Indonesia Official Catalog",
+    "catalogPlaceholder": "Search & select regency / city...",
+    "namePlaceholder": "e.g. Wonosobo Regency",
+    "aliasLabel": "Alias Name (For Dropdowns)",
+    "aliasPlaceholder": "e.g. Wonosobo",
+    "descLabel": "Description / Geographical Character (Optional)",
+    "descPlaceholder": "Highland agribusiness center, hilly terrain..."
+  },
   "dialog": {
-    "addTitle": "Add New Regency / City",
-    "addDesc": "Select from 514 official regencies or input custom",
+    "addTitle": "Register New Regency / City",
+    "addDesc": "Register a new regency or city into the system.",
     "editTitle": "Edit Regency / City",
-    "editDesc": "Update regional identity and centroid coordinates"
+    "editDesc": "Update regional identity, code, or parent province.",
+    "viewTitle": "Regency / City Details",
+    "viewDesc": "Official regency information and parent province relation."
   },
   "alert": {
     "parentMissingTitle": "Parent Province Not Registered",
     "parentMissingDesc": "Province {province} is not yet registered in Odoo master data.",
-    "autoAddLabel": "Automatically register Province {province} to Master Data"
+    "autoAddLabel": "Automatically register Province to Odoo:"
   }
 }

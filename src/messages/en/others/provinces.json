@@ -8,10 +8,21 @@
     "country": "Country",
     "status": "Status"
   },
+  "form": {
+    "category": "Province Category",
+    "catalogLabel": "Official 38 Provinces Catalog (BPS)",
+    "catalogPlaceholder": "Select 38 Official Provinces...",
+    "foreignCountry": "Destination Country",
+    "foreignCountryPlaceholder": "Select country...",
+    "namePlaceholder": "e.g. Central Java, Sabah, Victoria",
+    "codePlaceholder": "e.g. JT / 33 / VIC"
+  },
   "dialog": {
-    "addTitle": "Add New Province",
-    "addDesc": "Register a new province or state in the master catalog",
+    "addTitle": "Register New Province",
+    "addDesc": "Register a new province or state in the master catalog.",
     "editTitle": "Edit Province Data",
-    "editDesc": "Update official province code and parameters"
+    "editDesc": "Update official province code and parameters.",
+    "viewTitle": "Province Data Details",
+    "viewDesc": "Official province information and parent country relation."
   }
 }

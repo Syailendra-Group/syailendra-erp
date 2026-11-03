@@ -1,5 +1,6 @@
 'use client'
 
+import { useState } from 'react'
 import { zodResolver } from '@hookform/resolvers/zod'
 import { Loader2, Save } from 'lucide-react'
 import { useTranslations } from 'next-intl'
@@ -20,6 +21,7 @@ import { getCommodityOptions, getFarmingMethodOptions } from './options'
 import { TerroirSection } from './terroir-section'
 
 import type { FarmerFormValues } from '@/schemas/traceability/farmer-schema'
+import type { MapCoordinates } from '@/types/components/map'
 import type { FarmerRecord } from '@/types/traceability/farmer'
 import type { ReactElement } from 'react'
 
@@ -33,6 +35,8 @@ export function FarmerForm({ initialData }: FarmerFormProps): ReactElement {
   const tTrace = useTranslations('traceability.farmers')
   const tCommon = useTranslations('common')
   const { mutateAsync: saveFarmer, isPending } = useSaveFarmerMutation()
+
+  const [centroidPan, setCentroidPan] = useState<MapCoordinates | null>(null)
 
   const {
     register,
@@ -49,7 +53,12 @@ export function FarmerForm({ initialData }: FarmerFormProps): ReactElement {
       vat: (initialData?.vat as string) || '',
       phone: (initialData?.phone as string) || '',
       email: (initialData?.email as string) || '',
-      street: initialData?.street || '',
+      state_id: initialData?.state_id ? initialData.state_id[0] : 100, // Jawa Tengah default
+      city_id: initialData?.city_id ? initialData.city_id[0] : undefined,
+      district_id: initialData?.district_id ? initialData.district_id[0] : undefined,
+      subdistrict_id: initialData?.subdistrict_id ? initialData.subdistrict_id[0] : undefined,
+      address_detail: (initialData?.address_detail as string) || '',
+      street: initialData?.street || 'Wonosobo',
       city: initialData?.city || 'Wonosobo',
       partner_latitude: initialData?.partner_latitude ?? -7.2145,
       partner_longitude: initialData?.partner_longitude ?? 109.9124,
@@ -91,13 +100,20 @@ export function FarmerForm({ initialData }: FarmerFormProps): ReactElement {
 
       <form id="farmer-form" onSubmit={handleSubmit(onSubmit)} className="space-y-5">
         <div className="grid grid-cols-1 items-stretch gap-5 lg:grid-cols-2">
-          {/* Left Column */}
+          {/* Identitas Kemitraan */}
           <IdentitySection register={register} errors={errors} isPending={isPending} />
 
-          {/* Right Column */}
-          <LocationSection register={register} errors={errors} isPending={isPending} />
+          {/* Domisili & Wilayah Binaan (Cascading Regional Selector) */}
+          <LocationSection
+            register={register}
+            errors={errors}
+            watch={watch}
+            setValue={setValue}
+            isPending={isPending}
+            onCentroidChange={setCentroidPan}
+          />
 
-          {/* Left Column */}
+          {/* Komoditas Pertanian */}
           <CommoditySection
             register={register}
             errors={errors}
@@ -108,10 +124,10 @@ export function FarmerForm({ initialData }: FarmerFormProps): ReactElement {
             isPending={isPending}
           />
 
-          {/* Right Column */}
-          <TerroirSection register={register} errors={errors} watch={watch} isPending={isPending} />
+          {/* Terroir & Geotagging GPS (Interactive Map Picker) */}
+          <TerroirSection register={register} errors={errors} watch={watch} setValue={setValue} isPending={isPending} centroidPan={centroidPan} />
 
-          {/* Full Width Notes Section */}
+          {/* Catatan Agronomi */}
           <div className="lg:col-span-2">
             <NotesSection register={register} isPending={isPending} />
           </div>

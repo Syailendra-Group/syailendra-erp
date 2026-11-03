@@ -15,6 +15,7 @@ export interface FarmerRecord {
   land_area_m2?: number
   active: boolean
   // Extended regional fields from syailendra_region
+  state_id?: [number, string] | false
   city_id?: [number, string] | false
   district_id?: [number, string] | false
   subdistrict_id?: [number, string] | false

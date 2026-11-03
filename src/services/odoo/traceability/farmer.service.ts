@@ -57,6 +57,7 @@ function mapPartnerToFarmer(r: Record<string, OdooFieldValue>): FarmerRecord {
     farming_method: comment.toLowerCase().includes('organik') ? 'organic' : 'conventional',
     land_area_m2,
     active: Boolean(r.active),
+    state_id: (r.state_id as [number, string]) || false,
     city_id: (r.city_id as [number, string]) || false,
     district_id: (r.district_id as [number, string]) || false,
     subdistrict_id: (r.subdistrict_id as [number, string]) || false,
@@ -142,8 +143,27 @@ export async function fetchFarmerByIdentifier(identifier: number | string): Prom
 }
 
 export async function persistFarmer(values: FarmerFormValues): Promise<number> {
-  const { id, ref, name, vat, street, city, partner_latitude, partner_longitude, phone, email, commodity, farming_method, land_area_m2, comment } =
-    values
+  const {
+    id,
+    ref,
+    name,
+    vat,
+    street,
+    city,
+    state_id,
+    city_id,
+    district_id,
+    subdistrict_id,
+    address_detail,
+    partner_latitude,
+    partner_longitude,
+    phone,
+    email,
+    commodity,
+    farming_method,
+    land_area_m2,
+    comment
+  } = values
 
   const combinedNotes = [
     comment ? comment.trim() : '',
@@ -160,6 +180,11 @@ export async function persistFarmer(values: FarmerFormValues): Promise<number> {
     vat: vat || false,
     street,
     city,
+    state_id: state_id || false,
+    city_id: city_id || false,
+    district_id: district_id || false,
+    subdistrict_id: subdistrict_id || false,
+    address_detail: address_detail || false,
     partner_latitude,
     partner_longitude,
     phone: phone || false,

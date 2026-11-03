@@ -2,20 +2,20 @@
 
 import { useMemo, useState } from 'react'
 import Image from 'next/image'
-import { Check, ChevronsUpDown, PlusCircle, X } from 'lucide-react'
+import { Check, ChevronsUpDown, Loader2, PlusCircle, X } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 
 import { Badge } from '@/components/ui/badge'
 import { Button } from '@/components/ui/button'
-import { Command, CommandEmpty, CommandGroup, CommandInput, CommandItem, CommandList, CommandSeparator } from '@/components/ui/command'
+import { Command, CommandEmpty, CommandGroup, CommandInput, CommandItem, CommandList } from '@/components/ui/command'
 import { Popover, PopoverContent, PopoverTrigger } from '@/components/ui/popover'
 import { Link } from '@/i18n/navigation'
 import { cn } from '@/lib/utils'
 
-import type { MouseEvent, ReactElement } from 'react'
-import type { MultiSelectFormProps, SelectFormProps, SelectOption, SingleSelectFormProps } from './select-types'
+import type { MultiSelectFormProps, SelectFormProps, SelectOption, SingleSelectFormProps } from '@/types/components/select'
+import type { MouseEvent, ReactElement, UIEvent } from 'react'
 
-export type { MultiSelectFormProps, SelectFormProps, SelectOption, SingleSelectFormProps } from './select-types'
+export type { MultiSelectFormProps, SelectFormProps, SelectOption, SingleSelectFormProps } from '@/types/components/select'
 
 export function SelectForm<T extends string = string>(props: SelectFormProps<T>): ReactElement {
   const {
@@ -30,7 +30,11 @@ export function SelectForm<T extends string = string>(props: SelectFormProps<T>)
     addNewAction = true,
     addNewHref,
     addNewLabel,
-    onAddNewClick
+    onAddNewClick,
+    hasMore = false,
+    isLoadingMore = false,
+    onLoadMore,
+    onSearchChange
   } = props
 
   const [open, setOpen] = useState(false)
@@ -76,16 +80,33 @@ export function SelectForm<T extends string = string>(props: SelectFormProps<T>)
     }
   }
 
+  const handleSearchChange = (val: string) => {
+    setSearchQuery(val)
+    onSearchChange?.(val)
+  }
+
+  const handleScroll = (e: UIEvent<HTMLDivElement>) => {
+    if (!hasMore || isLoadingMore || !onLoadMore) return
+    const target = e.currentTarget
+    if (target.scrollHeight - target.scrollTop <= target.clientHeight + 20) {
+      onLoadMore()
+    }
+  }
+
   const selectedSingleItem = singleValue ? itemMap.get(singleValue) : undefined
   const hasAddAction = addNewAction && Boolean(addNewHref || onAddNewClick)
-  const actionButtonText = addNewLabel || tCommon('actions.addNew')
+  const isTyping = Boolean(searchQuery.trim())
+  const actionButtonText = isTyping ? tCommon('actions.createOption', { name: searchQuery.trim() }) : addNewLabel || tCommon('actions.addNew')
 
   return (
     <Popover
       open={open}
       onOpenChange={(v) => {
         setOpen(v)
-        if (!v) setSearchQuery('')
+        if (!v) {
+          setSearchQuery('')
+          onSearchChange?.('')
+        }
       }}
     >
       <PopoverTrigger asChild>
@@ -169,42 +190,21 @@ export function SelectForm<T extends string = string>(props: SelectFormProps<T>)
         </Button>
       </PopoverTrigger>
 
-      <PopoverContent className={cn('p-0 shadow-md', popoverWidth || 'w-(--radix-popover-trigger-width) min-w-55')} align="start">
-        <Command>
+      <PopoverContent
+        className={cn('flex flex-col overflow-hidden p-0 shadow-md', popoverWidth || 'w-(--radix-popover-trigger-width) min-w-55')}
+        align="start"
+      >
+        <Command className="flex max-h-72 w-full flex-col">
           <CommandInput
             placeholder={searchPlaceholder || tCommon('actions.search')}
             value={searchQuery}
-            onValueChange={setSearchQuery}
-            className="h-8 text-xs"
+            onValueChange={handleSearchChange}
+            className="h-8 shrink-0 text-xs"
           />
-          <CommandList className="max-h-60">
-            <CommandEmpty className="text-muted-foreground px-3 py-2.5 text-center text-xs">
+
+          <CommandList onScroll={handleScroll} className="max-h-52 flex-1 overflow-y-auto">
+            <CommandEmpty className="text-muted-foreground px-3 py-3 text-center text-xs">
               <p>{emptyText || tCommon('table.noResults')}</p>
-              {hasAddAction && searchQuery.trim() && (
-                <div className="mt-2">
-                  {addNewHref ? (
-                    <Button variant="outline" size="sm" className="text-primary h-7 w-full gap-1.5 text-xs font-medium" asChild>
-                      <Link href={addNewHref} onClick={() => setOpen(false)}>
-                        <PlusCircle className="size-3.5" />
-                        <span>{tCommon('actions.createOption', { name: searchQuery.trim() })}</span>
-                      </Link>
-                    </Button>
-                  ) : onAddNewClick ? (
-                    <Button
-                      variant="outline"
-                      size="sm"
-                      className="text-primary h-7 w-full gap-1.5 text-xs font-medium"
-                      onClick={() => {
-                        setOpen(false)
-                        onAddNewClick()
-                      }}
-                    >
-                      <PlusCircle className="size-3.5" />
-                      <span>{tCommon('actions.createOption', { name: searchQuery.trim() })}</span>
-                    </Button>
-                  ) : null}
-                </div>
-              )}
             </CommandEmpty>
 
             <CommandGroup>
@@ -236,40 +236,45 @@ export function SelectForm<T extends string = string>(props: SelectFormProps<T>)
               })}
             </CommandGroup>
 
-            {hasAddAction && (
-              <>
-                <CommandSeparator />
-                <div className="p-1">
-                  {addNewHref ? (
-                    <Button
-                      variant="ghost"
-                      size="sm"
-                      className="text-primary hover:text-primary hover:bg-muted/60 h-8 w-full justify-start gap-2 text-xs font-medium"
-                      asChild
-                    >
-                      <Link href={addNewHref} onClick={() => setOpen(false)}>
-                        <PlusCircle className="size-3.5" />
-                        <span>{actionButtonText}</span>
-                      </Link>
-                    </Button>
-                  ) : onAddNewClick ? (
-                    <Button
-                      variant="ghost"
-                      size="sm"
-                      className="text-primary hover:text-primary hover:bg-muted/60 h-8 w-full justify-start gap-2 text-xs font-medium"
-                      onClick={() => {
-                        setOpen(false)
-                        onAddNewClick()
-                      }}
-                    >
-                      <PlusCircle className="size-3.5" />
-                      <span>{actionButtonText}</span>
-                    </Button>
-                  ) : null}
-                </div>
-              </>
+            {isLoadingMore && (
+              <div className="text-muted-foreground flex items-center justify-center gap-1.5 py-2 text-xs">
+                <Loader2 className="text-primary size-3.5 animate-spin" />
+                <span>Memuat data selanjutnya...</span>
+              </div>
             )}
           </CommandList>
+
+          {/* Fixed Sticky Footer for Add Action */}
+          {hasAddAction && (
+            <div className="border-border bg-card/95 sticky bottom-0 z-10 shrink-0 border-t p-1.5 shadow-xs backdrop-blur-xs">
+              {addNewHref ? (
+                <Button
+                  variant="ghost"
+                  size="sm"
+                  className="text-primary hover:text-primary hover:bg-muted/70 h-8 w-full cursor-pointer justify-start gap-2 text-xs font-medium"
+                  asChild
+                >
+                  <Link href={addNewHref} onClick={() => setOpen(false)}>
+                    <PlusCircle className="size-3.5" />
+                    <span className="truncate">{actionButtonText}</span>
+                  </Link>
+                </Button>
+              ) : onAddNewClick ? (
+                <Button
+                  variant="ghost"
+                  size="sm"
+                  className="text-primary hover:text-primary hover:bg-muted/70 h-8 w-full cursor-pointer justify-start gap-2 text-xs font-medium"
+                  onClick={() => {
+                    setOpen(false)
+                    onAddNewClick(searchQuery.trim())
+                  }}
+                >
+                  <PlusCircle className="size-3.5" />
+                  <span className="truncate">{actionButtonText}</span>
+                </Button>
+              ) : null}
+            </div>
+          )}
         </Command>
       </PopoverContent>
     </Popover>

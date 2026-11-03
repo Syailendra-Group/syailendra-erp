@@ -8,7 +8,7 @@ import { SidebarGroup, SidebarGroupLabel, SidebarMenu, SidebarMenuButton, Sideba
 import { Link, usePathname } from '@/i18n/navigation'
 import { cn } from '@/lib/utils'
 
-import type { NavGroup as NavGroupType } from './types'
+import type { NavGroup as NavGroupType } from '@/types/layout/navigation'
 
 export interface NavGroupProps {
   group: NavGroupType

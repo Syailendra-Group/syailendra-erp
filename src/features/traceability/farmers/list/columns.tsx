@@ -57,9 +57,6 @@ export function getColumns({ tTrace, tCommon }: GetColumnsOptions): ColumnDef<Fa
         const cmd = row.original.commodity || 'gaharu'
         const label = tTrace(`commodities.${cmd}`) || cmd
         return <StatusBadge variant="primary">{label}</StatusBadge>
-      },
-      filterFn: (row, id, value) => {
-        return Array.isArray(value) && value.includes(row.getValue(id))
       }
     },
     {
@@ -107,9 +104,6 @@ export function getColumns({ tTrace, tCommon }: GetColumnsOptions): ColumnDef<Fa
         return (
           <StatusBadge variant={active ? 'success' : 'destructive'}>{active ? tCommon('status.active') : tCommon('status.archived')}</StatusBadge>
         )
-      },
-      filterFn: (row, id, value) => {
-        return Array.isArray(value) && value.includes(String(row.getValue(id)))
       }
     },
     {

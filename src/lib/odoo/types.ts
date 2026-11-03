@@ -4,7 +4,7 @@
  */
 
 export type OdooPrimitive = string | number | boolean | null | undefined
-export type OdooDomainTuple = [string, string, string | number | boolean | (string | number)[]]
+export type OdooDomainTuple = [string, string, string | number | boolean | (string | number | boolean)[]]
 export type OdooDomain = (OdooDomainTuple | string)[]
 export interface OdooObjectValue {
   [key: string]: OdooFieldValue

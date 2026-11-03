@@ -4,7 +4,7 @@
 
 import { odooClient } from './client'
 
-export * from './types'
+export * from '@/types/layout/navigation'
 export * from './client'
 
 export const odoo = {

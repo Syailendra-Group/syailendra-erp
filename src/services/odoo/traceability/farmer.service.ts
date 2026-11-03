@@ -4,10 +4,28 @@
  */
 
 import { odoo } from '@/lib/odoo'
+import { buildPolishOrDomain, buildStatusDomain } from '@/utils'
 
 import type { OdooDomain, OdooFieldValue } from '@/lib/odoo/types'
 import type { FarmerFormValues } from '@/schemas/traceability/farmer-schema'
 import type { FarmerRecord } from '@/types/traceability/farmer'
+
+export interface FetchFarmersParams {
+  page?: number
+  perPage?: number
+  search?: string
+  commodity?: string | string[]
+  status?: string | string[]
+  order?: string
+}
+
+export interface PaginatedFarmersResult {
+  records: FarmerRecord[]
+  totalCount: number
+  page: number
+  perPage: number
+  pageCount: number
+}
 
 function mapPartnerToFarmer(r: Record<string, OdooFieldValue>): FarmerRecord {
   const comment = (r.comment as string) || ''
@@ -46,56 +64,76 @@ function mapPartnerToFarmer(r: Record<string, OdooFieldValue>): FarmerRecord {
   }
 }
 
+const FARMER_READ_FIELDS = [
+  'id',
+  'ref',
+  'name',
+  'vat',
+  'street',
+  'city',
+  'partner_latitude',
+  'partner_longitude',
+  'phone',
+  'email',
+  'comment',
+  'active',
+  'city_id',
+  'district_id',
+  'subdistrict_id',
+  'address_detail'
+]
+
 export async function fetchFarmers(): Promise<FarmerRecord[]> {
-  const records = await odoo.client.searchRead<Record<string, OdooFieldValue>>(
-    'res.partner',
-    [['ref', 'like', 'FMR%']],
-    [
-      'id',
-      'ref',
-      'name',
-      'vat',
-      'street',
-      'city',
-      'partner_latitude',
-      'partner_longitude',
-      'phone',
-      'email',
-      'comment',
-      'active',
-      'city_id',
-      'district_id',
-      'subdistrict_id',
-      'address_detail'
-    ],
-    { order: 'ref asc' }
-  )
+  const records = await odoo.client.searchRead<Record<string, OdooFieldValue>>('res.partner', [['ref', 'like', 'FMR%']], FARMER_READ_FIELDS, {
+    order: 'ref asc'
+  })
 
   return records.map(mapPartnerToFarmer)
+}
+
+export async function fetchFarmersPaginated(params: FetchFarmersParams = {}): Promise<PaginatedFarmersResult> {
+  const { page = 1, perPage = 20, search = '', commodity, status, order = 'ref asc' } = params
+
+  const domain: OdooDomain = [['ref', 'like', 'FMR%']]
+
+  // Apply clean status domain via shared helper from @/utils
+  const statusTuples = buildStatusDomain(status)
+  statusTuples.forEach((t) => domain.push(t))
+
+  // Apply clean multi-value Polish OR commodity domain via shared helper from @/utils
+  const commodityDomain = buildPolishOrDomain('comment', commodity, 'ilike')
+  commodityDomain.forEach((d) => domain.push(d))
+
+  if (search.trim()) {
+    const term = `%${search.trim()}%`
+    domain.push('|', ['name', 'ilike', term], ['ref', 'ilike', term])
+  }
+
+  const offset = Math.max(0, (page - 1) * perPage)
+
+  const [totalCount, rawRecords] = await Promise.all([
+    odoo.client.searchCount('res.partner', domain),
+    odoo.client.searchRead<Record<string, OdooFieldValue>>('res.partner', domain, FARMER_READ_FIELDS, {
+      offset,
+      limit: perPage,
+      order
+    })
+  ])
+
+  return {
+    records: rawRecords.map(mapPartnerToFarmer),
+    totalCount,
+    page,
+    perPage,
+    pageCount: Math.ceil(totalCount / perPage) || 1
+  }
 }
 
 export async function fetchFarmerByIdentifier(identifier: number | string): Promise<FarmerRecord | null> {
   const isNumeric = typeof identifier === 'number' || /^[0-9]+$/.test(String(identifier))
   const domain: OdooDomain = isNumeric ? [['id', '=', Number(identifier)]] : [['ref', '=', String(identifier)]]
 
-  const records = await odoo.client.searchRead<Record<string, OdooFieldValue>>('res.partner', domain, [
-    'id',
-    'ref',
-    'name',
-    'vat',
-    'street',
-    'city',
-    'partner_latitude',
-    'partner_longitude',
-    'phone',
-    'email',
-    'comment',
-    'active',
-    'city_id',
-    'district_id',
-    'subdistrict_id',
-    'address_detail'
-  ])
+  const records = await odoo.client.searchRead<Record<string, OdooFieldValue>>('res.partner', domain, FARMER_READ_FIELDS)
 
   const r = records[0]
   if (!r) return null

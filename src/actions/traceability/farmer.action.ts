@@ -3,12 +3,19 @@
 import { revalidatePath } from 'next/cache'
 
 import { farmerFormSchema } from '@/schemas/traceability/farmer-schema'
-import { fetchFarmerByIdentifier, fetchFarmers, persistFarmer, updateFarmerActiveState } from '@/services/odoo/traceability/farmer.service'
+import {
+  fetchFarmerByIdentifier,
+  fetchFarmers,
+  fetchFarmersPaginated,
+  persistFarmer,
+  updateFarmerActiveState
+} from '@/services/odoo/traceability/farmer.service'
 
 import type { FarmerFormValues } from '@/schemas/traceability/farmer-schema'
+import type { FetchFarmersParams, PaginatedFarmersResult } from '@/services/odoo/traceability/farmer.service'
 import type { FarmerRecord } from '@/types/traceability/farmer'
 
-export type { FarmerRecord }
+export type { FarmerRecord, FetchFarmersParams, PaginatedFarmersResult }
 
 export async function getFarmersAction(): Promise<{ farmers: FarmerRecord[] }> {
   try {
@@ -17,6 +24,21 @@ export async function getFarmersAction(): Promise<{ farmers: FarmerRecord[] }> {
   } catch (err) {
     console.error('Failed to fetch farmers from Odoo 18:', err)
     return { farmers: [] }
+  }
+}
+
+export async function getFarmersPaginatedAction(params: FetchFarmersParams = {}): Promise<PaginatedFarmersResult> {
+  try {
+    return await fetchFarmersPaginated(params)
+  } catch (err) {
+    console.error('Failed to fetch paginated farmers from Odoo 18:', err)
+    return {
+      records: [],
+      totalCount: 0,
+      page: params.page || 1,
+      perPage: params.perPage || 20,
+      pageCount: 1
+    }
   }
 }
 

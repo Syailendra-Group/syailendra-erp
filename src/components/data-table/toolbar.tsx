@@ -25,10 +25,11 @@ export interface DataTableToolbarProps<TData> {
   table: Table<TData>
   searchPlaceholder?: string
   filters?: DataTableFilterField[]
+  onReset?: () => void
   children?: ReactNode
 }
 
-export function DataTableToolbar<TData>({ table, searchPlaceholder, filters = [], children }: DataTableToolbarProps<TData>): ReactElement {
+export function DataTableToolbar<TData>({ table, searchPlaceholder, filters = [], onReset, children }: DataTableToolbarProps<TData>): ReactElement {
   const tCommon = useTranslations('common.actions')
   const isFiltered = table.getState().columnFilters.length > 0 || !!table.getState().globalFilter
 
@@ -54,6 +55,7 @@ export function DataTableToolbar<TData>({ table, searchPlaceholder, filters = []
             onClick={() => {
               table.resetColumnFilters()
               table.setGlobalFilter('')
+              onReset?.()
             }}
             className="h-8 px-2 text-xs lg:px-3"
           >

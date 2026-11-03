@@ -3,16 +3,24 @@
  * Syailendra Group ERP
  */
 
-import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
+import { keepPreviousData, useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
 
-import { getFarmerByIdAction, getFarmersAction, saveFarmerAction, toggleFarmerStatusAction } from '@/actions/traceability/farmer.action'
+import {
+  getFarmerByIdAction,
+  getFarmersAction,
+  getFarmersPaginatedAction,
+  saveFarmerAction,
+  toggleFarmerStatusAction
+} from '@/actions/traceability/farmer.action'
 
+import type { FetchFarmersParams, PaginatedFarmersResult } from '@/actions/traceability/farmer.action'
 import type { FarmerFormValues } from '@/schemas/traceability/farmer-schema'
 import type { FarmerRecord } from '@/types/traceability/farmer'
 
 export const farmerKeys = {
   all: ['farmers'] as const,
   lists: () => [...farmerKeys.all, 'list'] as const,
+  list: (params: FetchFarmersParams = {}) => [...farmerKeys.lists(), params] as const,
   details: () => [...farmerKeys.all, 'detail'] as const,
   detail: (id: string | number) => [...farmerKeys.details(), id] as const
 }
@@ -24,6 +32,16 @@ export function useFarmersQuery() {
       const res = await getFarmersAction()
       return res.farmers
     }
+  })
+}
+
+export function useFarmersPaginatedQuery(params: FetchFarmersParams = {}) {
+  return useQuery({
+    queryKey: farmerKeys.list(params),
+    queryFn: async (): Promise<PaginatedFarmersResult> => {
+      return await getFarmersPaginatedAction(params)
+    },
+    placeholderData: keepPreviousData
   })
 }
 

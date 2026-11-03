@@ -38,8 +38,8 @@ import {
   Wheat
 } from 'lucide-react'
 
-import type { CompanyProfile, NavGroup, UserProfile } from '@/components/layout/types'
 import type { ModuleTab } from '@/stores/nav-store'
+import type { CompanyProfile, NavGroup, UserProfile } from '@/types/layout/navigation'
 
 export interface SidebarData {
   user: UserProfile

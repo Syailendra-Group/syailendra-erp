@@ -102,6 +102,13 @@ export class OdooClient {
   /**
    * Universal search_read query wrapper
    */
+  /**
+   * Universal 'search_count' query wrapper (SELECT count(*))
+   */
+  async searchCount(model: string, domain: OdooDomain = []): Promise<number> {
+    return this.executeKw<number>(model, 'search_count', [domain])
+  }
+
   async searchRead<T>(
     model: string,
     domain: OdooDomain = [],

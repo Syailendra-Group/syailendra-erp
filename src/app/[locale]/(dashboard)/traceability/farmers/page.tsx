@@ -1,4 +1,3 @@
-import { getFarmersAction } from '@/actions/traceability/farmer.action'
 import { FarmersFeature } from '@/features/traceability/farmers'
 
 import type { Metadata } from 'next'
@@ -9,7 +8,6 @@ export const metadata: Metadata = {
   description: 'Official smallholder farmers and plantations register'
 }
 
-export default async function FarmersPage(): Promise<ReactElement> {
-  const { farmers } = await getFarmersAction()
-  return <FarmersFeature initialData={farmers} />
+export default function FarmersPage(): ReactElement {
+  return <FarmersFeature />
 }

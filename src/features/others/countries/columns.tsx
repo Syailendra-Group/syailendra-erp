@@ -49,7 +49,7 @@ export function getColumns({ t, onView, onEdit, onDelete }: GetColumnsProps): Co
             size="icon"
             className="text-muted-foreground hover:text-foreground size-7"
             onClick={() => onView(row.original)}
-            title="Lihat Rincian"
+            title="View"
           >
             <Eye className="size-3.5" />
           </Button>
@@ -58,7 +58,7 @@ export function getColumns({ t, onView, onEdit, onDelete }: GetColumnsProps): Co
             size="icon"
             className="text-muted-foreground hover:text-foreground size-7"
             onClick={() => onEdit(row.original)}
-            title="Ubah Data"
+            title="Edit"
           >
             <Edit className="size-3.5" />
           </Button>
@@ -67,7 +67,7 @@ export function getColumns({ t, onView, onEdit, onDelete }: GetColumnsProps): Co
             size="icon"
             className="text-destructive hover:text-destructive hover:bg-destructive/10 size-7"
             onClick={() => onDelete(row.original)}
-            title="Hapus Negara"
+            title="Delete"
           >
             <Trash2 className="size-3.5" />
           </Button>

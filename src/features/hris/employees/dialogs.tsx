@@ -30,7 +30,7 @@ export function EmployeesDialogs(): ReactElement {
         toast.success(currentRow.active ? tAdmin('messages.archived') : tAdmin('messages.updated'))
         setOpen(null)
         setCurrentRow(null)
-        refreshData()
+        refreshData?.()
       } else {
         toast.error(res.error || tCommon('status.error'))
       }
@@ -148,7 +148,7 @@ export function EmployeesDialogs(): ReactElement {
         onSuccess={() => {
           setOpen(null)
           setCurrentRow(null)
-          refreshData()
+          refreshData?.()
         }}
       />
 

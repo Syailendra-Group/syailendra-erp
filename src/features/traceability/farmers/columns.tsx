@@ -63,12 +63,12 @@ export function getColumns({ tTrace }: GetColumnsProps): ColumnDef<FarmerRecord>
       cell: ({ row }) => (
         <div className="flex items-center justify-center gap-1">
           <Button variant="ghost" size="icon" className="text-muted-foreground hover:text-foreground size-7" asChild>
-            <Link href={`/traceability/farmers/${row.original.id}`} title="Lihat Profil Petani">
+            <Link href={`/traceability/farmers/${row.original.id}`} title="View">
               <Eye className="size-3.5" />
             </Link>
           </Button>
           <Button variant="ghost" size="icon" className="text-muted-foreground hover:text-foreground size-7" asChild>
-            <Link href={`/traceability/farmers/${row.original.id}/edit`} title="Ubah Data">
+            <Link href={`/traceability/farmers/${row.original.id}/edit`} title="Edit">
               <Edit className="size-3.5" />
             </Link>
           </Button>

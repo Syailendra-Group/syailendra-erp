@@ -3,36 +3,39 @@
 import { revalidatePath } from 'next/cache'
 
 import { departmentFormSchema } from '@/schemas/hris/department-schema'
-import { fetchDepartments, persistDepartment, updateDepartmentActiveState } from '@/services/odoo/hris/department.service'
+import { fetchDepartments, fetchDepartmentsPaginated, persistDepartment, updateDepartmentActiveState } from '@/services/odoo/hris/department.service'
 
 import type { DepartmentFormValues } from '@/schemas/hris/department-schema'
+import type { FetchDepartmentsPaginatedParams, FetchDepartmentsPaginatedResult } from '@/services/odoo/hris/department.service'
 import type { DepartmentRecord } from '@/types/hris/department'
 
 export type { DepartmentRecord }
 
-export async function getDepartmentsAction(): Promise<{ departments: DepartmentRecord[] }> {
+export async function getDepartmentsAction(): Promise<{ departments: DepartmentRecord[]; error?: string }> {
   try {
     const departments = await fetchDepartments()
     return { departments }
-  } catch (error) {
-    console.error('Failed to fetch departments:', error)
-    return { departments: [] }
+  } catch {
+    return { departments: [], error: 'Failed to retrieve departments from Odoo 18' }
   }
 }
 
-export async function saveDepartmentAction(values: DepartmentFormValues): Promise<{ success: boolean; error?: string }> {
-  const parsed = departmentFormSchema.safeParse(values)
-  if (!parsed.success) {
-    return { success: false, error: parsed.error.issues[0]?.message }
-  }
-
+export async function getDepartmentsPaginatedAction(params: FetchDepartmentsPaginatedParams = {}): Promise<FetchDepartmentsPaginatedResult> {
   try {
-    await persistDepartment(parsed.data)
+    return await fetchDepartmentsPaginated(params)
+  } catch {
+    return { records: [], totalCount: 0, page: params.page || 1, perPage: params.perPage || 20 }
+  }
+}
+
+export async function saveDepartmentAction(rawValues: DepartmentFormValues): Promise<{ success: boolean; error?: string }> {
+  try {
+    const validated = departmentFormSchema.parse(rawValues)
+    await persistDepartment(validated)
     revalidatePath('/admin/departments')
     return { success: true }
-  } catch (error) {
-    const msg = error instanceof Error ? error.message : 'Failed to save department'
-    return { success: false, error: msg }
+  } catch {
+    return { success: false, error: 'Failed to persist department record in Odoo' }
   }
 }
 
@@ -41,8 +44,7 @@ export async function toggleDepartmentStatusAction(id: number, active: boolean):
     await updateDepartmentActiveState(id, active)
     revalidatePath('/admin/departments')
     return { success: true }
-  } catch (error) {
-    const msg = error instanceof Error ? error.message : 'Failed to toggle status'
-    return { success: false, error: msg }
+  } catch {
+    return { success: false, error: 'Failed to toggle department status in Odoo' }
   }
 }

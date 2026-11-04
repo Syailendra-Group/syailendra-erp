@@ -12,6 +12,7 @@ import type { SummaryCardItem } from '@/components/card/summary-card'
 import type { QuickActionItem } from '@/components/shared/quick-actions'
 
 export function OthersOverview(): ReactElement {
+  const t = useTranslations('others.overview')
   const tCommon = useTranslations('common')
   const kpis: SummaryCardItem[] = [
     { title: 'Status Akun Pengguna', value: 'Active', subtitle: 'Role-Based Access Control', icon: Shield, color: 'text-primary' },
@@ -35,7 +36,7 @@ export function OthersOverview(): ReactElement {
             <Sliders className="size-4 sm:size-5" />
           </div>
           <div>
-            <h1 className="text-xl font-bold tracking-tight sm:text-2xl">Tata Kelola & Data Wilayah (OTHERS)</h1>
+            <h1 className="text-xl font-bold tracking-tight sm:text-2xl">{t('title')}</h1>
             <p className="text-muted-foreground text-xs sm:text-sm">
               Pusat master data wilayah Indonesia, profil holding, hak akses RBAC, dan audit kepatuhan
             </p>

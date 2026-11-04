@@ -4,29 +4,74 @@
  */
 
 import { odoo } from '@/lib/odoo'
+import { buildStatusDomain } from '@/utils'
 
-import type { OdooFieldValue } from '@/lib/odoo/types'
+import type { OdooDomain, OdooDomainTuple } from '@/lib/odoo/types'
 import type { DepartmentFormValues } from '@/schemas/hris/department-schema'
 import type { DepartmentRecord } from '@/types/hris/department'
 
-export async function fetchDepartments(): Promise<DepartmentRecord[]> {
-  const records = await odoo.client.searchRead<Record<string, OdooFieldValue>>('hr.department', [], ['id', 'name', 'active'], { order: 'name asc' })
+const DEPT_FIELDS = ['id', 'name', 'active']
 
-  return records.map((r) => ({
-    id: r.id as number,
-    name: (r.name as string) || 'Department',
-    active: Boolean(r.active)
-  }))
+export interface FetchDepartmentsPaginatedParams {
+  page?: number
+  perPage?: number
+  search?: string
+  status?: string | string[]
+  order?: string
+}
+
+export interface FetchDepartmentsPaginatedResult {
+  records: DepartmentRecord[]
+  totalCount: number
+  page: number
+  perPage: number
+}
+
+export async function fetchDepartments(): Promise<DepartmentRecord[]> {
+  return odoo.client.searchRead<DepartmentRecord>('hr.department', [], DEPT_FIELDS, {
+    order: 'name asc'
+  })
+}
+
+export async function fetchDepartmentsPaginated(params: FetchDepartmentsPaginatedParams = {}): Promise<FetchDepartmentsPaginatedResult> {
+  const page = Math.max(1, params.page || 1)
+  const perPage = Math.max(1, params.perPage || 20)
+  const offset = (page - 1) * perPage
+
+  const baseDomain: (OdooDomainTuple | string)[] = []
+
+  const statusTuples = buildStatusDomain(params.status)
+  statusTuples.forEach((t) => baseDomain.push(t))
+
+  if (params.search?.trim()) {
+    const term = `%${params.search.trim()}%`
+    baseDomain.push(['name', 'ilike', term])
+  }
+
+  const [totalCount, rawRecords] = await Promise.all([
+    odoo.client.searchCount('hr.department', baseDomain as OdooDomain),
+    odoo.client.searchRead<DepartmentRecord>('hr.department', baseDomain as OdooDomain, DEPT_FIELDS, {
+      offset,
+      limit: perPage,
+      order: params.order || 'name asc'
+    })
+  ])
+
+  return {
+    records: rawRecords,
+    totalCount,
+    page,
+    perPage
+  }
 }
 
 export async function persistDepartment(values: DepartmentFormValues): Promise<void> {
-  const { id, name, active } = values
-  const payload: Record<string, OdooFieldValue> = { name, active }
+  const { id, name } = values
 
   if (id) {
-    await odoo.client.write('hr.department', [id], payload)
+    await odoo.client.write('hr.department', [id], { name })
   } else {
-    await odoo.client.create('hr.department', payload)
+    await odoo.client.create('hr.department', { name })
   }
 }
 

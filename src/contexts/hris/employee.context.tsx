@@ -14,14 +14,14 @@ export interface EmployeesContextType {
   setCurrentRow: (row: EmployeeRecord | null) => void
   departments: DepartmentOption[]
   setDepartments: (depts: DepartmentOption[]) => void
-  refreshData: () => void
+  refreshData?: () => void
 }
 
 const EmployeesContext = createContext<EmployeesContextType | null>(null)
 
 export interface EmployeesProviderProps {
   children: ReactNode
-  refreshData: () => void
+  refreshData?: () => void
   initialDepartments?: DepartmentOption[]
 }
 

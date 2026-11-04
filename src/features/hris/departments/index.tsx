@@ -1,56 +1,57 @@
 'use client'
 
-import { useState } from 'react'
-import { FolderTree, Plus } from 'lucide-react'
+import { Briefcase, Plus } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 
 import { PageHeader } from '@/components/shared/page-header'
 import { Button } from '@/components/ui/button'
-import { useDepartmentsQuery } from '@/hooks/hris/use-departments'
+import { DepartmentProvider, useDepartment } from '@/contexts/hris/department.context'
 
 import { DepartmentsActionDialog } from './form'
 import { DepartmentsTable } from './table'
 
-import type { DepartmentRecord } from '@/actions/hris/department.action'
 import type { ReactElement } from 'react'
 
-export interface DepartmentsFeatureProps {
-  initialData?: DepartmentRecord[]
+function DepartmentsPrimaryButtons(): ReactElement {
+  const { setOpen, setCurrentRow } = useDepartment()
+  const tAdmin = useTranslations('admin.departments')
+
+  return (
+    <Button
+      onClick={() => {
+        setCurrentRow(null)
+        setOpen('add')
+      }}
+      className="gap-2 font-semibold"
+    >
+      <Plus className="size-4" />
+      <span>{tAdmin('actions.add')}</span>
+    </Button>
+  )
 }
 
-export function DepartmentsFeature({ initialData = [] }: DepartmentsFeatureProps): ReactElement {
+function DepartmentsContent(): ReactElement {
   const tAdmin = useTranslations('admin.departments')
-  const { data = initialData, refetch } = useDepartmentsQuery()
-  const [dialogOpen, setDialogOpen] = useState(false)
-  const [selectedRow, setSelectedRow] = useState<DepartmentRecord | null>(null)
-
-  const handleCreate = () => {
-    setSelectedRow(null)
-    setDialogOpen(true)
-  }
-
-  const handleEdit = (row: DepartmentRecord) => {
-    setSelectedRow(row)
-    setDialogOpen(true)
-  }
+  const { open, setOpen, currentRow } = useDepartment()
 
   return (
     <div className="space-y-4 sm:space-y-6">
-      <PageHeader
-        title={tAdmin('title')}
-        description={tAdmin('subtitle')}
-        icon={FolderTree}
-        actions={
-          <Button onClick={handleCreate} className="cursor-pointer gap-1.5 font-semibold">
-            <Plus className="size-4" />
-            <span>{tAdmin('actions.add')}</span>
-          </Button>
-        }
+      <PageHeader title={tAdmin('title')} description={tAdmin('subtitle')} icon={Briefcase} actions={<DepartmentsPrimaryButtons />} />
+      <DepartmentsTable />
+      <DepartmentsActionDialog
+        open={open === 'add' || open === 'edit'}
+        onOpenChange={(isOpen) => !isOpen && setOpen(null)}
+        currentRow={currentRow}
+        onSuccess={() => setOpen(null)}
       />
-
-      <DepartmentsTable data={data} onEdit={handleEdit} onRefresh={refetch} />
-
-      <DepartmentsActionDialog open={dialogOpen} onOpenChange={setDialogOpen} currentRow={selectedRow} onSuccess={refetch} />
     </div>
+  )
+}
+
+export function DepartmentsFeature(): ReactElement {
+  return (
+    <DepartmentProvider>
+      <DepartmentsContent />
+    </DepartmentProvider>
   )
 }

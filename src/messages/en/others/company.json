@@ -1,16 +1,31 @@
 {
   "title": "Company Profile & Web Settings",
   "subtitle": "Manage legal holding identity, official branding, contacts, and public portal metadata",
+  "badge": "Odoo 18 Legal Business Entity (res.company)",
+  "sections": {
+    "core": {
+      "title": "Core Corporate Identity",
+      "subtitle": "Legal corporate name and commodity positioning of Syailendra Group"
+    },
+    "comms": {
+      "title": "Communication Channels & Web Portal",
+      "subtitle": "Official contact channels for partner farmers and global B2B buyers"
+    }
+  },
   "fields": {
     "name": "Legal Company Name",
+    "namePlaceholder": "e.g. PT. Syailendra Bumi Investama",
     "tagline": "Agribusiness Tagline",
+    "taglinePlaceholder": "e.g. Specialty Essential Oil & Fine Robusta Processing",
+    "currency": "Default System Currency",
     "email": "Official Business Email",
+    "emailPlaceholder": "info@ddistillers.com",
     "phone": "Headquarters Phone",
+    "phonePlaceholder": "+62 21 xxxx xxxx",
     "website": "Portal Website URL",
-    "address": "Head Office & Warehouse Address",
-    "currency": "Default System Currency"
+    "websitePlaceholder": "https://syailendragroup.com",
+    "address": "Head Office & Main Warehouse Address",
+    "addressPlaceholder": "Jl. Raya Parakan - Wonosobo KM 12, Temanggung, Central Java"
   },
-  "messages": {
-    "saved": "Company settings updated successfully in Odoo 18"
-  }
+  "saveButton": "Save Company Settings"
 }

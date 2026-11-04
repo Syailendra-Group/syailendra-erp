@@ -1,8 +1,9 @@
 {
-  "title": "Unified Contact Directory",
+  "title": "Unified Contacts & Partner Registry",
   "subtitle": "Central database of partner farmers, commodity collectors, suppliers, and B2B coffee buyers",
-  "fields": {
-    "name": "Contact / Entity Name",
+  "primaryAction": "Add Partner",
+  "table": {
+    "name": "Partner / Entity Name",
     "category": "Partner Category",
     "phone": "Phone / Mobile",
     "email": "Email Address",

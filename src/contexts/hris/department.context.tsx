@@ -5,7 +5,7 @@ import { createContext, useContext, useState } from 'react'
 import type { DepartmentRecord } from '@/types/hris/department'
 import type { ReactElement, ReactNode } from 'react'
 
-export type DepartmentDialogType = 'add' | 'edit' | 'archive' | 'view' | null
+export type DepartmentDialogType = 'add' | 'edit' | 'archive' | 'restore' | 'view' | null
 
 export interface DepartmentContextType {
   open: DepartmentDialogType
@@ -22,7 +22,7 @@ export interface DepartmentProviderProps {
   refreshData?: () => void
 }
 
-export function DepartmentProvider({ children, refreshData }: DepartmentProviderProps): ReactElement {
+export function DepartmentProvider({ children, refreshData = () => {} }: DepartmentProviderProps): ReactElement {
   const [open, setOpen] = useState<DepartmentDialogType>(null)
   const [currentRow, setCurrentRow] = useState<DepartmentRecord | null>(null)
 

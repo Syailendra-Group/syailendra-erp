@@ -1,4 +1,3 @@
-import { getDepartmentsAction } from '@/actions/hris/department.action'
 import { DepartmentsFeature } from '@/features/hris/departments'
 
 import type { Metadata } from 'next'
@@ -9,7 +8,6 @@ export const metadata: Metadata = {
   description: 'Manage corporate departments and divisional structure'
 }
 
-export default async function DepartmentsPage(): Promise<ReactElement> {
-  const { departments } = await getDepartmentsAction()
-  return <DepartmentsFeature initialData={departments} />
+export default function DepartmentsPage(): ReactElement {
+  return <DepartmentsFeature />
 }

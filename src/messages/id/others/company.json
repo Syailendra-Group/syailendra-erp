@@ -1,16 +1,31 @@
 {
   "title": "Profil Perusahaan & Pengaturan Web",
-  "subtitle": "Kelola identitas legal Syailendra Group, logo resmi, kontak perusahaan, dan metadata portal publik",
+  "subtitle": "Pengelolaan identitas holding legal, branding resmi, kontak, dan metadata portal publik",
+  "badge": "Identitas Entitas Usaha Odoo 18 (res.company)",
+  "sections": {
+    "core": {
+      "title": "Identitas Pokok Perusahaan",
+      "subtitle": "Nama legal dan positioning komoditas Syailendra Group"
+    },
+    "comms": {
+      "title": "Saluran Komunikasi & Portal Web",
+      "subtitle": "Kontak resmi untuk mitra petani dan buyer roastery internasional"
+    }
+  },
   "fields": {
     "name": "Nama Legal Perusahaan",
-    "tagline": "Slogan / Tagline Agribisnis",
-    "email": "Email Resmi Usaha",
+    "namePlaceholder": "Contoh: PT. Syailendra Bumi Investama",
+    "tagline": "Tagline Agribisnis",
+    "taglinePlaceholder": "Contoh: Specialty Essential Oil & Fine Robusta Processing",
+    "currency": "Mata Uang Default Sistem",
+    "email": "Email Resmi Bisnis",
+    "emailPlaceholder": "info@ddistillers.com",
     "phone": "Telepon Kantor Pusat",
-    "website": "Alamat Website Portal",
-    "address": "Alamat Kantor & Gudang",
-    "currency": "Mata Uang Utama"
+    "phonePlaceholder": "+62 21 xxxx xxxx",
+    "website": "URL Portal Web",
+    "websitePlaceholder": "https://syailendragroup.com",
+    "address": "Alamat Kantor & Gudang Utama",
+    "addressPlaceholder": "Jl. Raya Parakan - Wonosobo KM 12, Temanggung, Jawa Tengah"
   },
-  "messages": {
-    "saved": "Pengaturan profil perusahaan berhasil disimpan di Odoo 18"
-  }
+  "saveButton": "Simpan Pengaturan Perusahaan"
 }

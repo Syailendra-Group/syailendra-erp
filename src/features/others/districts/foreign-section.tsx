@@ -1,6 +1,7 @@
 'use client'
 
 import { useMemo } from 'react'
+import { useTranslations } from 'next-intl'
 
 import { FormFieldWrapper } from '@/components/form/form-field-wrapper'
 import { SelectForm } from '@/components/form/select-form'
@@ -21,6 +22,7 @@ export interface ForeignDistrictSectionProps {
 }
 
 export function ForeignDistrictSection({ form, isPending, t }: ForeignDistrictSectionProps): ReactElement {
+  const tForeign = useTranslations('regional.foreignForm')
   const { data: countries = [] } = useCountriesQuery()
   const { data: allProvinces = [] } = useProvincesQuery()
   const { data: allRegencies = [] } = useRegenciesQuery()
@@ -82,9 +84,9 @@ export function ForeignDistrictSection({ form, isPending, t }: ForeignDistrictSe
   return (
     <>
       <div className="grid grid-cols-1 gap-3.5 sm:grid-cols-3">
-        <FormFieldWrapper id="dist-foreign-cntry" label="Negara (Luar Negeri)" required>
+        <FormFieldWrapper id="dist-foreign-cntry" label={tForeign('countryLabel')} required>
           <SelectForm
-            placeholder="Pilih negara..."
+            placeholder={tForeign('countryPlaceholder')}
             disabled={isPending}
             value={selectedCountryId ? String(selectedCountryId) : undefined}
             onValueChange={handleSelectForeignCountry}
@@ -92,7 +94,7 @@ export function ForeignDistrictSection({ form, isPending, t }: ForeignDistrictSe
           />
         </FormFieldWrapper>
 
-        <FormFieldWrapper id="dist-foreign-prov" label="Provinsi / State" required>
+        <FormFieldWrapper id="dist-foreign-prov" label={tForeign('provinceLabel')} required>
           <SelectForm
             placeholder={
               availableForeignProvinces.length === 0 ? (selectedCountryId ? 'Tidak ada provinsi...' : 'Belum ada provinsi...') : 'Pilih provinsi...'
@@ -104,7 +106,7 @@ export function ForeignDistrictSection({ form, isPending, t }: ForeignDistrictSe
           />
         </FormFieldWrapper>
 
-        <FormFieldWrapper id="dist-foreign-city" label="Kabupaten / City" required>
+        <FormFieldWrapper id="dist-foreign-city" label={tForeign('cityLabel')} required>
           <SelectForm
             placeholder={
               availableForeignRegencies.length === 0 ? (selectedStateId ? 'Tidak ada kota...' : 'Belum ada kota...') : 'Pilih kabupaten/kota...'
@@ -137,9 +139,9 @@ export function ForeignDistrictSection({ form, isPending, t }: ForeignDistrictSe
           name="code"
           render={({ field }) => (
             <FormItem>
-              <FormFieldWrapper id="dist-code" label="Kode (Opsional)" error={form.formState.errors.code?.message}>
+              <FormFieldWrapper id="dist-code" label={tForeign('codeLabel')} error={form.formState.errors.code?.message}>
                 <FormControl>
-                  <Input id="dist-code" placeholder="Contoh: KR-SEL-GN" disabled={isPending} {...field} />
+                  <Input id="dist-code" placeholder={tForeign('codePlaceholder')} disabled={isPending} {...field} />
                 </FormControl>
               </FormFieldWrapper>
             </FormItem>

@@ -7,17 +7,17 @@ import { useForm } from 'react-hook-form'
 import { toast } from 'sonner'
 
 import { FormFieldWrapper } from '@/components/form/form-field-wrapper'
+import { ParentEntityAlert } from '@/components/form/parent-entity-alert'
 import { SelectForm } from '@/components/form/select-form'
 import { Form, FormField, FormItem } from '@/components/ui/form'
 import { Input } from '@/components/ui/input'
 import { Tabs, TabsList, TabsTrigger } from '@/components/ui/tabs'
 import { Textarea } from '@/components/ui/textarea'
 import { useCheckDistrictExistsQuery, useCheckParentRegencyQuery, useSaveDistrictMutation } from '@/hooks/others/use-districts'
-import { useCatalogDistrictsQuery } from '@/hooks/shared/use-regional-catalog'
+import { useCatalogDistrictsQuery, useCatalogRegenciesQuery } from '@/hooks/shared/use-regional-catalog'
 import { districtFormSchema } from '@/schemas/others/district-schema'
 
 import { ForeignDistrictSection } from './foreign-section'
-import { DistrictParentAlert } from './parent-alert'
 
 import type { DistrictFormValues } from '@/schemas/others/district-schema'
 import type { DistrictRecord } from '@/types/others/district'
@@ -56,7 +56,6 @@ export function DistrictForm({ currentRow, onSuccess, onValidationChange }: Dist
   const tReg = useTranslations('regional.common')
   const tToast = useTranslations('regional.regionalToasts')
   const { mutateAsync: saveDistrict, isPending } = useSaveDistrictMutation()
-  const { data: catalogDistricts = [], isLoading: isLoadingCatalog } = useCatalogDistrictsQuery()
 
   const form = useForm<DistrictFormValues>({
     resolver: zodResolver(districtFormSchema),
@@ -68,6 +67,8 @@ export function DistrictForm({ currentRow, onSuccess, onValidationChange }: Dist
   }, [currentRow, form])
 
   const isDomestic = form.watch('is_domestic')
+  const { data: catalogDistricts = [], isLoading: isLoadingCatalog } = useCatalogDistrictsQuery()
+  const { data: catalogRegencies = [] } = useCatalogRegenciesQuery({ enabled: isDomestic })
   const selectedRegName = form.watch('regency_name_raw') || ''
   const selectedRegCode = form.watch('regency_code_raw') || ''
   const autoAddRegency = form.watch('auto_add_regency')
@@ -110,6 +111,11 @@ export function DistrictForm({ currentRow, onSuccess, onValidationChange }: Dist
       form.setValue('regency_code_raw', found.regencyCode, { shouldValidate: true })
       form.setValue('province_code_raw', found.provinceCode, { shouldValidate: true })
       form.setValue('country_id', 100, { shouldValidate: true })
+
+      const reg = catalogRegencies.find((r) => r.code === found.regencyCode)
+      if (reg) {
+        form.setValue('regency_name_raw', reg.name, { shouldValidate: true })
+      }
     }
   }
 
@@ -198,8 +204,9 @@ export function DistrictForm({ currentRow, onSuccess, onValidationChange }: Dist
               />
             </FormFieldWrapper>
 
-            <DistrictParentAlert
-              regencyName={selectedRegName}
+            <ParentEntityAlert
+              parentLabel="Kabupaten/Kota Induk"
+              parentName={selectedRegName}
               isChecking={isCheckingParent}
               exists={Boolean(parentStatus?.exists)}
               autoAdd={autoAddRegency}
@@ -207,7 +214,8 @@ export function DistrictForm({ currentRow, onSuccess, onValidationChange }: Dist
               isDuplicate={isDuplicate}
               duplicateId={districtExists?.id}
               currentName={currentName}
-              tReg={tReg}
+              entityTypeLabel="Kecamatan"
+              parentTypeLabel="Kabupaten/Kota"
             />
 
             <FormField

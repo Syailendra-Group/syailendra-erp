@@ -24,7 +24,8 @@
     "code": "BPS/ISO Code",
     "parent": "Parent Territory",
     "gps": "GPS Coordinates",
-    "description": "Description / Notes"
+    "description": "Description / Notes",
+    "country": "Country"
   },
   "regionalToasts": {
     "alreadyExists": "This {entity} is already registered in the system.",
@@ -36,5 +37,25 @@
     "genericError": "Failed to save data",
     "validationFailed": "Validation failed: {message}",
     "switchedToForeign": "Switched to manual / foreign input mode"
+  },
+  "foreignForm": {
+    "countryLabel": "Country (International)",
+    "countryPlaceholder": "Select country...",
+    "provinceLabel": "Province / State",
+    "provincePlaceholder": "Select province...",
+    "cityLabel": "City / Regency",
+    "cityPlaceholder": "Select city/regency...",
+    "districtLabel": "District / Sub-city",
+    "districtPlaceholder": "Select district...",
+    "codeLabel": "Code (Optional)",
+    "codePlaceholder": "e.g. KR-SEL"
+  },
+  "parentAlert": {
+    "alreadyRegistered": "{entity} Already Registered in System",
+    "alreadyRegisteredDesc": "Entity \"{name}\" is already registered in the system database (ID: #{id}). Please use the existing record to prevent duplication.",
+    "parentUnregisteredDesc": "Parent {parent} \"{name}\" is not yet registered in the system database.",
+    "autoRegisterLabel": "Automatically Register {parent} to Odoo",
+    "autoRegisterHelpActive": "Parent entity will be created automatically upon saving",
+    "autoRegisterHelpInactive": "Must be enabled to proceed with saving"
   }
 }

@@ -7,7 +7,8 @@
     "code": "Code",
     "alias": "Alias",
     "city": "Regency / City",
-    "province": "Province"
+    "province": "Province",
+    "regency": "Regency / City"
   },
   "form": {
     "catalogLabel": "Select from 7,288 Districts Catalog",

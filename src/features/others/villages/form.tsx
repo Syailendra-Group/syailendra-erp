@@ -7,6 +7,7 @@ import { useForm } from 'react-hook-form'
 import { toast } from 'sonner'
 
 import { FormFieldWrapper } from '@/components/form/form-field-wrapper'
+import { ParentEntityAlert } from '@/components/form/parent-entity-alert'
 import { SelectForm } from '@/components/form/select-form'
 import { Form, FormField, FormItem } from '@/components/ui/form'
 import { Input } from '@/components/ui/input'
@@ -17,7 +18,6 @@ import { useCatalogDistrictsQuery, useCatalogVillagesQuery } from '@/hooks/share
 import { villageFormSchema } from '@/schemas/others/village-schema'
 
 import { ForeignVillageSection } from './foreign-section'
-import { VillageParentAlert } from './parent-alert'
 
 import type { VillageFormValues } from '@/schemas/others/village-schema'
 import type { VillageRecord } from '@/types/others/village'
@@ -203,7 +203,7 @@ export function VillageForm({ currentRow, onSuccess, onValidationChange }: Villa
         {isDomestic ? (
           <>
             <div className="grid grid-cols-1 gap-3.5 sm:grid-cols-2">
-              <FormFieldWrapper id="catalog-dist-filter" label="Pilih Kecamatan Induk (Katalog)" required>
+              <FormFieldWrapper id="catalog-dist-filter" label={t('form.selectDistrictCatalog')} required>
                 <SelectForm
                   placeholder="Ketik & pilih kecamatan..."
                   value={selectedDistCode || undefined}
@@ -212,10 +212,14 @@ export function VillageForm({ currentRow, onSuccess, onValidationChange }: Villa
                 />
               </FormFieldWrapper>
 
-              <FormFieldWrapper id="catalog-village" label="Pilih Desa / Kelurahan (Katalog)" required>
+              <FormFieldWrapper id="catalog-village" label={t('form.selectVillageCatalog')} required>
                 <SelectForm
                   placeholder={
-                    !selectedDistCode ? 'Pilih kecamatan terlebih dahulu...' : isLoadingCatalog ? 'Memuat desa...' : 'Pilih desa / kelurahan...'
+                    !selectedDistCode
+                      ? 'Pilih kecamatan terlebih dahulu...'
+                      : isLoadingCatalog
+                        ? t('form.loadingVillages')
+                        : 'Pilih desa / kelurahan...'
                   }
                   disabled={isPending || !selectedDistCode || isLoadingCatalog}
                   value={currentCode || undefined}
@@ -225,8 +229,9 @@ export function VillageForm({ currentRow, onSuccess, onValidationChange }: Villa
               </FormFieldWrapper>
             </div>
 
-            <VillageParentAlert
-              districtName={selectedDistName}
+            <ParentEntityAlert
+              parentLabel="Kecamatan Induk"
+              parentName={selectedDistName}
               isChecking={isCheckingParent}
               exists={Boolean(parentStatus?.exists)}
               autoAdd={autoAddDistrict}
@@ -234,7 +239,8 @@ export function VillageForm({ currentRow, onSuccess, onValidationChange }: Villa
               isDuplicate={isDuplicate}
               duplicateId={villageExists?.id}
               currentName={currentName}
-              tReg={tReg}
+              entityTypeLabel="Kelurahan/Desa"
+              parentTypeLabel="Kecamatan"
             />
 
             <div className="grid grid-cols-1 gap-3.5 sm:grid-cols-2">

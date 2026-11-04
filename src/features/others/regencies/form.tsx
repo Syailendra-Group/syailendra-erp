@@ -7,6 +7,7 @@ import { useForm } from 'react-hook-form'
 import { toast } from 'sonner'
 
 import { FormFieldWrapper } from '@/components/form/form-field-wrapper'
+import { ParentEntityAlert } from '@/components/form/parent-entity-alert'
 import { SelectForm } from '@/components/form/select-form'
 import { Form, FormField, FormItem } from '@/components/ui/form'
 import { Input } from '@/components/ui/input'
@@ -19,7 +20,6 @@ import { useCatalogRegenciesQuery } from '@/hooks/shared/use-regional-catalog'
 import { regencyFormSchema } from '@/schemas/others/regency-schema'
 
 import { ForeignRegencySection } from './foreign-section'
-import { ParentProvinceAlert } from './parent-alert'
 
 import type { RegencyFormValues } from '@/schemas/others/regency-schema'
 import type { RegencyRecord } from '@/types/others/regency'
@@ -233,17 +233,18 @@ export function RegencyForm({ currentRow, onSuccess, onValidationChange }: Regen
               />
             </FormFieldWrapper>
 
-            <ParentProvinceAlert
-              provinceName={selectedProvName}
+            <ParentEntityAlert
+              parentLabel="Provinsi Induk"
+              parentName={selectedProvName}
+              entityTypeLabel="Kabupaten/Kota"
+              parentTypeLabel="Provinsi"
               isChecking={isCheckingParent}
               exists={Boolean(parentStatus?.exists)}
               autoAdd={autoAddProvince}
-              onAutoAddChange={(checked) => form.setValue('auto_add_province', checked)}
+              onAutoAddChange={(checked: boolean) => form.setValue('auto_add_province', checked)}
               isDuplicate={isDuplicate}
               duplicateId={regencyExists?.id}
               currentName={currentName}
-              tReg={tReg}
-              tRegency={t}
             />
 
             <FormField

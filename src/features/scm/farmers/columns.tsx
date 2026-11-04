@@ -38,10 +38,10 @@ export function getColumns({ tTrace, tCommon }: GetColumnsProps): ColumnDef<Farm
       cell: ({ row }) => (
         <span
           className={`inline-flex items-center rounded-full px-2 py-0.5 text-[10px] font-medium ${
-            row.original.active ? 'bg-emerald-500/10 text-emerald-600' : 'bg-muted text-muted-foreground'
+            row.original.active ? 'bg-emerald-500/10 text-emerald-600 dark:text-emerald-400' : 'bg-muted text-muted-foreground'
           }`}
         >
-          {row.original.active ? 'Aktif' : 'Diarsipkan'}
+          {row.original.active ? tTrace('status.active') : tTrace('status.archived')}
         </span>
       )
     },

@@ -233,7 +233,7 @@ export function ProvinceForm({ currentRow, onSuccess }: ProvinceFormProps): Reac
             <FormItem>
               <FormFieldWrapper id="prov-alias" label={tReg('fields.alias')} error={form.formState.errors.alias?.message}>
                 <FormControl>
-                  <Input id="prov-alias" placeholder="Contoh: Jateng, Jabar, Jatim..." disabled={isPending} {...field} />
+                  <Input id="prov-alias" placeholder={t('form.aliasPlaceholder')} disabled={isPending} {...field} />
                 </FormControl>
               </FormFieldWrapper>
             </FormItem>

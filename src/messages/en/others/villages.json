@@ -7,7 +7,8 @@
     "code": "Code",
     "alias": "Alias",
     "district": "Parent District",
-    "zipCode": "Postal Code"
+    "zipCode": "Postal Code",
+    "city": "City / Regency"
   },
   "form": {
     "catalogLabel": "84,210 Villages & Subdistricts Catalog",
@@ -21,7 +22,10 @@
     "zipLabel": "Postal Code",
     "zipPlaceholder": "e.g. 56354",
     "descLabel": "Description / Regional Notes (Optional)",
-    "descPlaceholder": "Hilly terrain, altitude 1200 m ASL, patchouli farm center..."
+    "descPlaceholder": "Hilly terrain, altitude 1200 m ASL, patchouli farm center...",
+    "selectDistrictCatalog": "Select Parent District (Catalog)",
+    "selectVillageCatalog": "Select Village / Subdistrict (Catalog)",
+    "loadingVillages": "Loading villages..."
   },
   "dialog": {
     "addTitle": "Register New Village / Subdistrict",

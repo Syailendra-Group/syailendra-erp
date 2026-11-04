@@ -71,8 +71,8 @@ export function VillagesDialogs(): ReactElement {
               <DetailRow label={t('table.code')} value={currentRow.code || '-'} mono />
               <DetailRow label={t('table.district')} value={currentRow.district_id ? currentRow.district_id[1] : '-'} />
               <DetailRow label={t('table.zipCode')} value={currentRow.zip_code || '-'} mono />
-              {currentRow.city_id && <DetailRow label="Kabupaten/Kota" value={currentRow.city_id[1]} />}
-              {currentRow.country_id && <DetailRow label="Negara" value={currentRow.country_id[1]} />}
+              {currentRow.city_id && <DetailRow label={t('table.city')} value={currentRow.city_id[1]} />}
+              {currentRow.country_id && <DetailRow label={tReg('fields.country')} value={currentRow.country_id[1]} />}
               <DetailRow label={tReg('fields.description')} value={currentRow.description || '-'} border={false} />
             </div>
           )}

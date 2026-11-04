@@ -7,7 +7,8 @@
     "code": "Kode",
     "alias": "Alias",
     "city": "Kabupaten / Kota",
-    "province": "Provinsi"
+    "province": "Provinsi",
+    "regency": "Kabupaten / Kota"
   },
   "form": {
     "catalogLabel": "Pilih dari Katalog 7.288 Kecamatan",

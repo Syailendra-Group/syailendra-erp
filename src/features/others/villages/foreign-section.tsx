@@ -1,6 +1,7 @@
 'use client'
 
 import { useMemo } from 'react'
+import { useTranslations } from 'next-intl'
 
 import { FormFieldWrapper } from '@/components/form/form-field-wrapper'
 import { SelectForm } from '@/components/form/select-form'
@@ -22,6 +23,7 @@ export interface ForeignVillageSectionProps {
 }
 
 export function ForeignVillageSection({ form, isPending, t }: ForeignVillageSectionProps): ReactElement {
+  const tForeign = useTranslations('regional.foreignForm')
   const { data: countries = [] } = useCountriesQuery()
   const { data: allProvinces = [] } = useProvincesQuery()
   const { data: allRegencies = [] } = useRegenciesQuery()
@@ -108,9 +110,9 @@ export function ForeignVillageSection({ form, isPending, t }: ForeignVillageSect
   return (
     <>
       <div className="grid grid-cols-1 gap-3.5 sm:grid-cols-2">
-        <FormFieldWrapper id="vil-foreign-cntry" label="Negara (Luar Negeri)" required>
+        <FormFieldWrapper id="vil-foreign-cntry" label={tForeign('countryLabel')} required>
           <SelectForm
-            placeholder="Pilih negara..."
+            placeholder={tForeign('countryPlaceholder')}
             disabled={isPending}
             value={selectedCountryId ? String(selectedCountryId) : undefined}
             onValueChange={handleSelectCountry}
@@ -118,9 +120,9 @@ export function ForeignVillageSection({ form, isPending, t }: ForeignVillageSect
           />
         </FormFieldWrapper>
 
-        <FormFieldWrapper id="vil-foreign-prov" label="Provinsi / State" required>
+        <FormFieldWrapper id="vil-foreign-prov" label={tForeign('provinceLabel')} required>
           <SelectForm
-            placeholder="Pilih provinsi..."
+            placeholder={tForeign('provincePlaceholder')}
             disabled={isPending}
             value={selectedStateId ? String(selectedStateId) : undefined}
             onValueChange={handleSelectProvince}
@@ -130,9 +132,9 @@ export function ForeignVillageSection({ form, isPending, t }: ForeignVillageSect
       </div>
 
       <div className="grid grid-cols-1 gap-3.5 sm:grid-cols-2">
-        <FormFieldWrapper id="vil-foreign-city" label="Kabupaten / City" required>
+        <FormFieldWrapper id="vil-foreign-city" label={tForeign('cityLabel')} required>
           <SelectForm
-            placeholder="Pilih kabupaten/kota..."
+            placeholder={tForeign('cityPlaceholder')}
             disabled={isPending}
             value={selectedCityId ? String(selectedCityId) : undefined}
             onValueChange={handleSelectCity}
@@ -140,9 +142,9 @@ export function ForeignVillageSection({ form, isPending, t }: ForeignVillageSect
           />
         </FormFieldWrapper>
 
-        <FormFieldWrapper id="vil-foreign-dist" label="Kecamatan / District" required>
+        <FormFieldWrapper id="vil-foreign-dist" label={tForeign('districtLabel')} required>
           <SelectForm
-            placeholder="Pilih kecamatan/distrik..."
+            placeholder={tForeign('districtPlaceholder')}
             disabled={isPending}
             value={selectedDistrictId ? String(selectedDistrictId) : undefined}
             onValueChange={handleSelectDistrict}
@@ -171,9 +173,9 @@ export function ForeignVillageSection({ form, isPending, t }: ForeignVillageSect
           name="code"
           render={({ field }) => (
             <FormItem>
-              <FormFieldWrapper id="vil-code" label="Kode (Opsional)" error={form.formState.errors.code?.message}>
+              <FormFieldWrapper id="vil-code" label={tForeign('codeLabel')} error={form.formState.errors.code?.message}>
                 <FormControl>
-                  <Input id="vil-code" placeholder="Contoh: KR-SEL-GN-01" disabled={isPending} {...field} />
+                  <Input id="vil-code" placeholder={tForeign('codePlaceholder')} disabled={isPending} {...field} />
                 </FormControl>
               </FormFieldWrapper>
             </FormItem>

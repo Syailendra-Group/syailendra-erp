@@ -24,7 +24,8 @@
     "code": "Kode BPS/ISO",
     "parent": "Wilayah Induk",
     "gps": "Koordinat GPS",
-    "description": "Deskripsi / Catatan"
+    "description": "Deskripsi / Catatan",
+    "country": "Negara"
   },
   "regionalToasts": {
     "alreadyExists": "{entity} ini sudah terdaftar di sistem.",
@@ -36,5 +37,25 @@
     "genericError": "Gagal menyimpan data",
     "validationFailed": "Validasi gagal: {message}",
     "switchedToForeign": "Beralih ke mode input manual / luar negeri"
+  },
+  "foreignForm": {
+    "countryLabel": "Negara (Luar Negeri)",
+    "countryPlaceholder": "Pilih negara...",
+    "provinceLabel": "Provinsi / State",
+    "provincePlaceholder": "Pilih provinsi...",
+    "cityLabel": "Kabupaten / City",
+    "cityPlaceholder": "Pilih kabupaten/kota...",
+    "districtLabel": "Kecamatan / District",
+    "districtPlaceholder": "Pilih kecamatan/distrik...",
+    "codeLabel": "Kode (Opsional)",
+    "codePlaceholder": "Contoh: KR-SEL"
+  },
+  "parentAlert": {
+    "alreadyRegistered": "{entity} Sudah Terdaftar di Sistem",
+    "alreadyRegisteredDesc": "Entitas \"{name}\" sudah tercatat di database sistem (ID: #{id}). Silakan gunakan data yang sudah ada untuk mencegah duplikasi.",
+    "parentUnregisteredDesc": "{parent} {name} belum tercatat di database sistem.",
+    "autoRegisterLabel": "Daftarkan {parent} Otomatis ke Odoo",
+    "autoRegisterHelpActive": "Entitas induk akan dibuat otomatis saat menyimpan",
+    "autoRegisterHelpInactive": "Wajib diaktifkan untuk melanjutkan simpan"
   }
 }

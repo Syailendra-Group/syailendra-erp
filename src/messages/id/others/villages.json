@@ -7,7 +7,8 @@
     "code": "Kode",
     "alias": "Alias",
     "district": "Kecamatan Induk",
-    "zipCode": "Kode Pos"
+    "zipCode": "Kode Pos",
+    "city": "Kabupaten / Kota"
   },
   "form": {
     "catalogLabel": "Katalog 84.210 Kelurahan / Desa",
@@ -21,7 +22,10 @@
     "zipLabel": "Kode Pos (Postal Code)",
     "zipPlaceholder": "Contoh: 56354",
     "descLabel": "Deskripsi / Catatan Wilayah (Opsional)",
-    "descPlaceholder": "Area perbukitan, ketinggian 1200 mdpl, sentra tanaman nilam..."
+    "descPlaceholder": "Area perbukitan, ketinggian 1200 mdpl, sentra tanaman nilam...",
+    "selectDistrictCatalog": "Pilih Kecamatan Induk (Katalog)",
+    "selectVillageCatalog": "Pilih Desa / Kelurahan (Katalog)",
+    "loadingVillages": "Memuat desa..."
   },
   "dialog": {
     "addTitle": "Registrasi Kelurahan / Desa Baru",

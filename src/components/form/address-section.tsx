@@ -21,7 +21,7 @@ import type { MapCoordinates } from '@/types/components/map'
 import type { ReactElement } from 'react'
 
 export function AddressSection({ disabled = false, values, onChange, onCentroidPan, errors = {} }: AddressSectionProps): ReactElement {
-  const tTrace = useTranslations('traceability.farmers')
+  const tTrace = useTranslations('scm.farmers')
   const tCommon = useTranslations('common')
 
   const {

@@ -3,6 +3,7 @@ import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
 import {
   checkDistrictExistsAction,
   checkParentRegencyAction,
+  deleteDistrictAction,
   getDistrictByIdAction,
   getDistrictFilterOptionsAction,
   getDistrictsAction,
@@ -105,6 +106,16 @@ export function useToggleDistrictStatusMutation() {
   const queryClient = useQueryClient()
   return useMutation({
     mutationFn: ({ id, active }: { id: number; active: boolean }) => toggleDistrictStatusAction(id, active),
+    onSuccess: () => {
+      queryClient.invalidateQueries({ queryKey: districtKeys.all })
+    }
+  })
+}
+
+export function useDeleteDistrictMutation() {
+  const queryClient = useQueryClient()
+  return useMutation({
+    mutationFn: (id: number) => deleteDistrictAction(id),
     onSuccess: () => {
       queryClient.invalidateQueries({ queryKey: districtKeys.all })
     }

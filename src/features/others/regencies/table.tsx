@@ -16,18 +16,13 @@ import { getColumns } from './columns'
 import type { RegencyRecord } from '@/types/others/regency'
 import type { ReactElement } from 'react'
 
-export interface RegenciesTableProps {
-  onArchive?: (item: RegencyRecord) => void
-}
-
 const FILTER_KEYS = ['scope', 'country', 'province']
 
 export function RegenciesTable(): ReactElement {
-  const t = useTranslations('regional.regencies')
+  const t = useTranslations('others.regencies')
   const tCommon = useTranslations('common')
   const { setOpen, setCurrentRow } = useRegency()
 
-  // 1. Manage URL SearchParams & Table State adapters via reusable hook
   const {
     page,
     perPage,
@@ -48,14 +43,12 @@ export function RegenciesTable(): ReactElement {
     filterKeys: FILTER_KEYS
   })
 
-  // 2. Fetch system filter options (countries and provinces that have regencies in Odoo)
   const { data: filterOptions } = useRegencyFilterOptionsQuery()
 
   const scopeFilter = getArrayFilter('scope')
   const countryFilter = getArrayFilter('country')
   const provinceFilter = getArrayFilter('province')
 
-  // 3. Fetch paginated data from Odoo
   const {
     data: result,
     isLoading,
@@ -85,12 +78,15 @@ export function RegenciesTable(): ReactElement {
         onEdit: (item: RegencyRecord) => {
           setCurrentRow(item)
           setOpen('edit')
+        },
+        onDelete: (item: RegencyRecord) => {
+          setCurrentRow(item)
+          setOpen('delete')
         }
       }),
     [t, tCommon, setCurrentRow, setOpen]
   )
 
-  // 4. TanStack Table Instance
   const table = useReactTable({
     data: records,
     columns,
@@ -120,20 +116,12 @@ export function RegenciesTable(): ReactElement {
   )
 
   const countryFilterOptions = useMemo(
-    () =>
-      (filterOptions?.countries || []).map((c) => ({
-        label: c.name,
-        value: String(c.id)
-      })),
+    () => (filterOptions?.countries || []).map((c) => ({ label: c.name, value: String(c.id) })),
     [filterOptions?.countries]
   )
 
   const provinceFilterOptions = useMemo(
-    () =>
-      (filterOptions?.states || []).map((s) => ({
-        label: s.name,
-        value: String(s.id)
-      })),
+    () => (filterOptions?.states || []).map((s) => ({ label: s.name, value: String(s.id) })),
     [filterOptions?.states]
   )
 
@@ -152,24 +140,8 @@ export function RegenciesTable(): ReactElement {
             title: 'Cakupan Wilayah',
             options: scopeOptions
           },
-          ...(countryFilterOptions.length > 0
-            ? [
-                {
-                  columnId: 'country',
-                  title: 'Negara',
-                  options: countryFilterOptions
-                }
-              ]
-            : []),
-          ...(provinceFilterOptions.length > 0
-            ? [
-                {
-                  columnId: 'province',
-                  title: 'Provinsi',
-                  options: provinceFilterOptions
-                }
-              ]
-            : [])
+          ...(countryFilterOptions.length > 0 ? [{ columnId: 'country', title: 'Negara', options: countryFilterOptions }] : []),
+          ...(provinceFilterOptions.length > 0 ? [{ columnId: 'province', title: 'Provinsi', options: provinceFilterOptions }] : [])
         ]}
       />
 

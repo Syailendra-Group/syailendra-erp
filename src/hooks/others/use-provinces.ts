@@ -2,6 +2,7 @@ import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
 
 import {
   checkProvinceExistsAction,
+  deleteProvinceAction,
   getProvinceByIdAction,
   getProvinceFilterOptionsAction,
   getProvincesAction,
@@ -80,6 +81,16 @@ export function useSaveProvinceMutation() {
   const queryClient = useQueryClient()
   return useMutation({
     mutationFn: (values: ProvinceFormValues) => saveProvinceAction(values),
+    onSuccess: () => {
+      queryClient.invalidateQueries({ queryKey: provinceKeys.all })
+    }
+  })
+}
+
+export function useDeleteProvinceMutation() {
+  const queryClient = useQueryClient()
+  return useMutation({
+    mutationFn: (id: number) => deleteProvinceAction(id),
     onSuccess: () => {
       queryClient.invalidateQueries({ queryKey: provinceKeys.all })
     }

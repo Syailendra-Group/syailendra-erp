@@ -17,11 +17,10 @@ import type { CountryRecord } from '@/types/others/country'
 import type { ReactElement } from 'react'
 
 export function CountriesTable(): ReactElement {
-  const t = useTranslations('regional.countries')
+  const t = useTranslations('others.countries')
   const tCommon = useTranslations('common')
   const { setOpen, setCurrentRow } = useCountry()
 
-  // 1. Manage URL SearchParams & Table State adapters via reusable hook
   const {
     page,
     perPage,
@@ -41,7 +40,6 @@ export function CountriesTable(): ReactElement {
     filterKeys: []
   })
 
-  // 2. Fetch paginated data from Odoo
   const {
     data: result,
     isLoading,
@@ -53,7 +51,7 @@ export function CountriesTable(): ReactElement {
     order: orderOdoo
   })
 
-  const countries = result?.records ?? []
+  const records = result?.records ?? []
   const totalCount = result?.totalCount ?? 0
 
   const columns = useMemo(
@@ -61,25 +59,24 @@ export function CountriesTable(): ReactElement {
       getColumns({
         t,
         tCommon,
-        onView: (country: CountryRecord) => {
-          setCurrentRow(country)
+        onView: (item: CountryRecord) => {
+          setCurrentRow(item)
           setOpen('view')
         },
-        onEdit: (country: CountryRecord) => {
-          setCurrentRow(country)
+        onEdit: (item: CountryRecord) => {
+          setCurrentRow(item)
           setOpen('edit')
         },
-        onDelete: (country: CountryRecord) => {
-          setCurrentRow(country)
+        onDelete: (item: CountryRecord) => {
+          setCurrentRow(item)
           setOpen('delete')
         }
       }),
     [t, tCommon, setCurrentRow, setOpen]
   )
 
-  // 3. TanStack Table Instance
   const table = useReactTable({
-    data: countries,
+    data: records,
     columns,
     rowCount: totalCount,
     state: {
@@ -98,12 +95,12 @@ export function CountriesTable(): ReactElement {
     getCoreRowModel: getCoreRowModel()
   })
 
-  const showSkeleton = isLoading || (isFetching && countries.length === 0)
+  const showSkeleton = isLoading || (isFetching && records.length === 0)
   const isTableRefreshing = isFetching || isUpdating
 
   return (
     <div className="space-y-4">
-      <DataTableToolbar table={table} searchPlaceholder={tCommon('actions.search')} onReset={resetFilters} />
+      <DataTableToolbar table={table} searchPlaceholder="Cari negara..." onReset={resetFilters} />
 
       <div className="bg-card relative overflow-hidden rounded-md border-0 shadow-xs">
         {isTableRefreshing && !showSkeleton && (

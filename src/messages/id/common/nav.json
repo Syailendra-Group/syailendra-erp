@@ -5,7 +5,8 @@
     "wms": "WMS",
     "crm": "CRM",
     "hris": "HRIS",
-    "others": "OTHERS"
+    "others": "OTHERS",
+    "scm": "SCM"
   },
   "groups": {
     "main_ops": "Operasional Utama",
@@ -19,7 +20,9 @@
     "system_ops": "Tata Kelola Sistem",
     "regional_data": "Master Data Wilayah",
     "compliance": "Audit & Kepatuhan",
-    "overview": "Ikhtisar"
+    "overview": "Ikhtisar",
+    "scm_ops": "Operasional SCM",
+    "scm_reports": "Analitik & Laporan SCM"
   },
   "items": {
     "overview": "Overview",

@@ -16,18 +16,13 @@ import { getColumns } from './columns'
 import type { DistrictRecord } from '@/types/others/district'
 import type { ReactElement } from 'react'
 
-export interface DistrictsTableProps {
-  onArchive?: (item: DistrictRecord) => void
-}
-
 const FILTER_KEYS = ['scope', 'country', 'province', 'city']
 
 export function DistrictsTable(): ReactElement {
-  const t = useTranslations('regional.districts')
+  const t = useTranslations('others.districts')
   const tCommon = useTranslations('common')
   const { setOpen, setCurrentRow } = useDistrict()
 
-  // 1. Manage URL SearchParams & Table State adapters via reusable hook
   const {
     page,
     perPage,
@@ -48,7 +43,6 @@ export function DistrictsTable(): ReactElement {
     filterKeys: FILTER_KEYS
   })
 
-  // 2. Fetch system filter options (countries, provinces, and regencies existing in Odoo)
   const { data: filterOptions } = useDistrictFilterOptionsQuery()
 
   const scopeFilter = getArrayFilter('scope')
@@ -56,7 +50,6 @@ export function DistrictsTable(): ReactElement {
   const provinceFilter = getArrayFilter('province')
   const cityFilter = getArrayFilter('city')
 
-  // 3. Fetch paginated data from Odoo
   const {
     data: result,
     isLoading,
@@ -87,12 +80,15 @@ export function DistrictsTable(): ReactElement {
         onEdit: (item: DistrictRecord) => {
           setCurrentRow(item)
           setOpen('edit')
+        },
+        onDelete: (item: DistrictRecord) => {
+          setCurrentRow(item)
+          setOpen('delete')
         }
       }),
     [t, tCommon, setCurrentRow, setOpen]
   )
 
-  // 4. TanStack Table Instance
   const table = useReactTable({
     data: records,
     columns,

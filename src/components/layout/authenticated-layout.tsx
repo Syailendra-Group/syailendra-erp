@@ -26,8 +26,8 @@ export function AuthenticatedLayout({ children }: AuthenticatedLayoutProps): Rea
 
   // Route-watcher to automatically synchronize active navbar & sidebar module
   useEffect(() => {
-    if (pathname.includes('/traceability')) {
-      setActiveTab('traceability')
+    if (pathname.includes('/scm')) {
+      setActiveTab('scm')
     } else if (pathname.includes('/wms') || pathname.includes('/inventory')) {
       setActiveTab('wms')
     } else if (pathname.includes('/crm')) {

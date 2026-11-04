@@ -3,6 +3,7 @@ import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
 import {
   checkParentProvinceAction,
   checkRegencyExistsAction,
+  deleteRegencyAction,
   getRegenciesAction,
   getRegenciesPaginatedAction,
   getRegencyByIdAction,
@@ -105,6 +106,16 @@ export function useToggleRegencyStatusMutation() {
   const queryClient = useQueryClient()
   return useMutation({
     mutationFn: ({ id, active }: { id: number; active: boolean }) => toggleRegencyStatusAction(id, active),
+    onSuccess: () => {
+      queryClient.invalidateQueries({ queryKey: regencyKeys.all })
+    }
+  })
+}
+
+export function useDeleteRegencyMutation() {
+  const queryClient = useQueryClient()
+  return useMutation({
+    mutationFn: (id: number) => deleteRegencyAction(id),
     onSuccess: () => {
       queryClient.invalidateQueries({ queryKey: regencyKeys.all })
     }

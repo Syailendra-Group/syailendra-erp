@@ -75,33 +75,33 @@ export const sidebarData: SidebarData = {
     ],
 
     // 2. TRACEABILITY PILLAR
-    traceability: [
+    scm: [
       {
         titleKey: 'groups.master_scm',
         items: [
-          { titleKey: 'items.overview', url: '/traceability', icon: LayoutDashboard },
-          { titleKey: 'items.farmers', url: '/traceability/farmers', icon: Users },
-          { titleKey: 'items.distillers', url: '/traceability/distillers', icon: Factory }
+          { titleKey: 'items.overview', url: '/scm', icon: LayoutDashboard },
+          { titleKey: 'items.farmers', url: '/scm/farmers', icon: Users },
+          { titleKey: 'items.distillers', url: '/scm/distillers', icon: Factory }
         ]
       },
       {
-        titleKey: 'groups.traceability_ops',
+        titleKey: 'groups.scm_ops',
         items: [
-          { titleKey: 'items.harvest', url: '/traceability/harvest', icon: Wheat },
-          { titleKey: 'items.lots_batches', url: '/traceability/lots', icon: Tag },
-          { titleKey: 'items.distillation', url: '/traceability/distillation', icon: Flame },
-          { titleKey: 'items.qc_lab', url: '/traceability/qc', icon: FlaskConical },
-          { titleKey: 'items.genealogy_graph', url: '/traceability/genealogy', icon: GitBranch },
-          { titleKey: 'items.qr_printer', url: '/traceability/qr-printer', icon: QrCode },
-          { titleKey: 'items.mock_recall', url: '/traceability/recall', icon: RotateCcw }
+          { titleKey: 'items.harvest', url: '/scm/harvest', icon: Wheat },
+          { titleKey: 'items.lots_batches', url: '/scm/lots', icon: Tag },
+          { titleKey: 'items.distillation', url: '/scm/distillation', icon: Flame },
+          { titleKey: 'items.qc_lab', url: '/scm/qc', icon: FlaskConical },
+          { titleKey: 'items.genealogy_graph', url: '/scm/genealogy', icon: GitBranch },
+          { titleKey: 'items.qr_printer', url: '/scm/qr-printer', icon: QrCode },
+          { titleKey: 'items.mock_recall', url: '/scm/recall', icon: RotateCcw }
         ]
       },
       {
-        titleKey: 'groups.traceability_reports',
+        titleKey: 'groups.scm_reports',
         items: [
-          { titleKey: 'items.report_genealogy', url: '/traceability/reports/genealogy', icon: FileText },
-          { titleKey: 'items.report_yield', url: '/traceability/reports/yield', icon: LineChart },
-          { titleKey: 'items.report_qc', url: '/traceability/reports/qc', icon: ShieldCheck }
+          { titleKey: 'items.report_genealogy', url: '/scm/reports/genealogy', icon: FileText },
+          { titleKey: 'items.report_yield', url: '/scm/reports/yield', icon: LineChart },
+          { titleKey: 'items.report_qc', url: '/scm/reports/qc', icon: ShieldCheck }
         ]
       }
     ],

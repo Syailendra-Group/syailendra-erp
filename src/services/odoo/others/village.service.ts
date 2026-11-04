@@ -74,23 +74,27 @@ export async function fetchVillagesPaginated(params: FetchVillagesParams = {}): 
   }
 
   if (countryId) {
-    const cid = Array.isArray(countryId) ? Number(countryId[0]) : Number(countryId)
-    if (!isNaN(cid) && cid > 0) domain.push(['city_id.country_id', '=', cid])
+    const cids = (Array.isArray(countryId) ? countryId : [countryId]).map(Number).filter((id) => !isNaN(id) && id > 0)
+    if (cids.length === 1 && cids[0]) domain.push(['city_id.country_id', '=', cids[0]])
+    else if (cids.length > 1) domain.push(['city_id.country_id', 'in', cids])
   }
 
   if (stateId) {
-    const sid = Array.isArray(stateId) ? Number(stateId[0]) : Number(stateId)
-    if (!isNaN(sid) && sid > 0) domain.push(['city_id.state_id', '=', sid])
+    const sids = (Array.isArray(stateId) ? stateId : [stateId]).map(Number).filter((id) => !isNaN(id) && id > 0)
+    if (sids.length === 1 && sids[0]) domain.push(['city_id.state_id', '=', sids[0]])
+    else if (sids.length > 1) domain.push(['city_id.state_id', 'in', sids])
   }
 
   if (cityId) {
-    const cid = Array.isArray(cityId) ? Number(cityId[0]) : Number(cityId)
-    if (!isNaN(cid) && cid > 0) domain.push(['city_id', '=', cid])
+    const cids = (Array.isArray(cityId) ? cityId : [cityId]).map(Number).filter((id) => !isNaN(id) && id > 0)
+    if (cids.length === 1 && cids[0]) domain.push(['city_id', '=', cids[0]])
+    else if (cids.length > 1) domain.push(['city_id', 'in', cids])
   }
 
   if (districtId) {
-    const did = Array.isArray(districtId) ? Number(districtId[0]) : Number(districtId)
-    if (!isNaN(did) && did > 0) domain.push(['district_id', '=', did])
+    const dids = (Array.isArray(districtId) ? districtId : [districtId]).map(Number).filter((id) => !isNaN(id) && id > 0)
+    if (dids.length === 1 && dids[0]) domain.push(['district_id', '=', dids[0]])
+    else if (dids.length > 1) domain.push(['district_id', 'in', dids])
   }
 
   if (search.trim()) {
@@ -266,4 +270,20 @@ export async function persistVillage(values: VillageFormValues): Promise<number>
 
 export async function toggleVillageStatus(id: number, active: boolean): Promise<boolean> {
   return odoo.client.write('res.country.subdistrict', [id], { active })
+}
+
+export async function deleteVillage(id: number): Promise<{ success: boolean; error?: string }> {
+  try {
+    await odoo.client.unlink('res.country.village', [id])
+    return { success: true }
+  } catch (err: unknown) {
+    const msg = err instanceof Error ? err.message : String(err)
+    if (msg.includes('foreign key') || msg.includes('still referenced') || msg.includes('restrict') || msg.includes('linked')) {
+      return {
+        success: false,
+        error: 'Wilayah ini tidak dapat dihapus karena sedang digunakan oleh data relasi lain di sistem.'
+      }
+    }
+    return { success: false, error: msg || 'Gagal menghapus data wilayah.' }
+  }
 }

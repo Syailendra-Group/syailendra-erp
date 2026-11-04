@@ -107,5 +107,23 @@
     "zipCodePlaceholder": "e.g. 56354",
     "benchmark": "Additional Address / Field Landmark",
     "benchmarkPlaceholder": "e.g. North of health post, 500m from village gate..."
+  },
+  "map": {
+    "loading": "Loading Interactive Map...",
+    "locateMe": "Locate Me",
+    "locating": "Locating GPS..."
+  },
+  "select": {
+    "loadingMore": "Loading more data...",
+    "noResults": "No results found",
+    "searchPlaceholder": "Type to search..."
+  },
+  "deleteDialog": {
+    "title": "Delete Regional Data",
+    "desc": "Are you sure you want to permanently delete this regional data from the system? This action cannot be undone.",
+    "confirm": "Delete Permanently",
+    "cancel": "Cancel",
+    "success": "Regional data deleted successfully",
+    "inUseError": "This region cannot be deleted because it is currently referenced by other records in the system."
   }
 }

@@ -19,6 +19,8 @@ export interface DataTableFilterField {
     value: string
     icon?: React.ComponentType<{ className?: string }>
   }[]
+  selectedValues?: string[]
+  onFilterChange?: (values: string[] | undefined) => void
 }
 
 export interface DataTableToolbarProps<TData> {
@@ -45,8 +47,35 @@ export function DataTableToolbar<TData>({ table, searchPlaceholder, filters = []
 
         {filters.map((filter) => {
           const column = table.getColumn(filter.columnId)
-          if (!column) return null
-          return <DataTableFacetedFilter key={filter.columnId} column={column} title={filter.title} options={filter.options} />
+          const filterState = table.getState().columnFilters.find((f) => f.id === filter.columnId)
+          const selectedValues = filter.selectedValues ?? (filterState?.value as string[])
+
+          const handleFilterChange = (vals: string[] | undefined) => {
+            if (filter.onFilterChange) {
+              filter.onFilterChange(vals)
+            } else if (column) {
+              column.setFilterValue(vals)
+            } else {
+              table.setColumnFilters((prev) => {
+                const next = prev.filter((f) => f.id !== filter.columnId)
+                if (vals && vals.length > 0) {
+                  return [...next, { id: filter.columnId, value: vals }]
+                }
+                return next
+              })
+            }
+          }
+
+          return (
+            <DataTableFacetedFilter
+              key={filter.columnId}
+              column={column}
+              title={filter.title}
+              options={filter.options}
+              selectedValues={selectedValues}
+              onFilterChange={handleFilterChange}
+            />
+          )
         })}
 
         {isFiltered && (

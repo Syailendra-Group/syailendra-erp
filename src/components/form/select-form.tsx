@@ -17,6 +17,8 @@ import type { MouseEvent, ReactElement, UIEvent } from 'react'
 
 export type { MultiSelectFormProps, SelectFormProps, SelectOption, SingleSelectFormProps } from '@/types/components/select'
 
+const CHUNK_SIZE = 50
+
 export function SelectForm<T extends string = string>(props: SelectFormProps<T>): ReactElement {
   const {
     items,
@@ -31,15 +33,17 @@ export function SelectForm<T extends string = string>(props: SelectFormProps<T>)
     addNewHref,
     addNewLabel,
     onAddNewClick,
-    hasMore = false,
+    hasMore: externalHasMore,
     isLoadingMore = false,
-    onLoadMore,
+    onLoadMore: externalOnLoadMore,
     onSearchChange
   } = props
 
   const [open, setOpen] = useState(false)
   const [searchQuery, setSearchQuery] = useState('')
+  const [renderedCount, setRenderedCount] = useState(CHUNK_SIZE)
   const tCommon = useTranslations('common')
+  const tSelect = useTranslations('common.select')
 
   const isMultiple = props.multiple === true
   const singleValue = !isMultiple ? ((props as SingleSelectFormProps<T>).value ?? (props as SingleSelectFormProps<T>).defaultValue) : undefined
@@ -51,11 +55,22 @@ export function SelectForm<T extends string = string>(props: SelectFormProps<T>)
     return map
   }, [items])
 
+  const filteredItems = useMemo(() => {
+    if (!searchQuery.trim()) return items
+    const q = searchQuery.toLowerCase().trim()
+    return items.filter((i) => i.label.toLowerCase().includes(q) || (i.description && i.description.toLowerCase().includes(q)))
+  }, [items, searchQuery])
+
+  const internalHasMore = filteredItems.length > renderedCount
+  const visibleItems = useMemo(() => {
+    if (externalHasMore !== undefined) return items
+    return filteredItems.slice(0, renderedCount)
+  }, [items, filteredItems, renderedCount, externalHasMore])
+
   const handleSelect = (val: T) => {
     if (isMultiple) {
       const current = multiValue as T[]
-      const exists = current.includes(val)
-      const next = exists ? current.filter((item) => item !== val) : [...current, val]
+      const next = current.includes(val) ? current.filter((item) => item !== val) : [...current, val]
       ;(props as MultiSelectFormProps<T>).onValueChange?.(next)
     } else {
       ;(props as SingleSelectFormProps<T>).onValueChange?.(val)
@@ -74,22 +89,23 @@ export function SelectForm<T extends string = string>(props: SelectFormProps<T>)
 
   const handleRemoveItem = (val: T, e: MouseEvent<HTMLSpanElement>) => {
     e.stopPropagation()
-    if (isMultiple) {
-      const next = (multiValue as T[]).filter((item) => item !== val)
-      ;(props as MultiSelectFormProps<T>).onValueChange?.(next)
-    }
+    if (isMultiple) (props as MultiSelectFormProps<T>).onValueChange?.((multiValue as T[]).filter((item) => item !== val))
   }
 
   const handleSearchChange = (val: string) => {
     setSearchQuery(val)
+    setRenderedCount(CHUNK_SIZE)
     onSearchChange?.(val)
   }
 
   const handleScroll = (e: UIEvent<HTMLDivElement>) => {
-    if (!hasMore || isLoadingMore || !onLoadMore) return
     const target = e.currentTarget
-    if (target.scrollHeight - target.scrollTop <= target.clientHeight + 20) {
-      onLoadMore()
+    if (target.scrollHeight - target.scrollTop <= target.clientHeight + 25) {
+      if (externalOnLoadMore && externalHasMore) {
+        externalOnLoadMore()
+      } else if (internalHasMore) {
+        setRenderedCount((prev) => prev + CHUNK_SIZE)
+      }
     }
   }
 
@@ -105,6 +121,7 @@ export function SelectForm<T extends string = string>(props: SelectFormProps<T>)
         setOpen(v)
         if (!v) {
           setSearchQuery('')
+          setRenderedCount(CHUNK_SIZE)
           onSearchChange?.('')
         }
       }}
@@ -196,7 +213,7 @@ export function SelectForm<T extends string = string>(props: SelectFormProps<T>)
       >
         <Command className="flex max-h-72 w-full flex-col">
           <CommandInput
-            placeholder={searchPlaceholder || tCommon('actions.search')}
+            placeholder={searchPlaceholder || tSelect('searchPlaceholder')}
             value={searchQuery}
             onValueChange={handleSearchChange}
             className="h-8 shrink-0 text-xs"
@@ -204,11 +221,11 @@ export function SelectForm<T extends string = string>(props: SelectFormProps<T>)
 
           <CommandList onScroll={handleScroll} className="max-h-52 flex-1 overflow-y-auto">
             <CommandEmpty className="text-muted-foreground px-3 py-3 text-center text-xs">
-              <p>{emptyText || tCommon('table.noResults')}</p>
+              <p>{emptyText || tSelect('noResults')}</p>
             </CommandEmpty>
 
             <CommandGroup>
-              {items.map((item) => {
+              {visibleItems.map((item) => {
                 const isSelected = isMultiple ? (multiValue as T[]).includes(item.value) : singleValue === item.value
                 const Icon = item.icon
                 return (
@@ -236,10 +253,10 @@ export function SelectForm<T extends string = string>(props: SelectFormProps<T>)
               })}
             </CommandGroup>
 
-            {isLoadingMore && (
+            {(isLoadingMore || internalHasMore) && (
               <div className="text-muted-foreground flex items-center justify-center gap-1.5 py-2 text-xs">
                 <Loader2 className="text-primary size-3.5 animate-spin" />
-                <span>Memuat data selanjutnya...</span>
+                <span>{tSelect('loadingMore')}</span>
               </div>
             )}
           </CommandList>

@@ -27,7 +27,7 @@ export function TopNav(): ReactElement {
   // 6 Strategic Pillars of Syailendra Group ERP
   const tabs: NavItemConfig[] = [
     { id: 'main', titleKey: 'modules.main', icon: LayoutDashboard, href: '/overview' },
-    { id: 'traceability', titleKey: 'modules.traceability', icon: Layers, href: '/traceability' },
+    { id: 'scm', titleKey: 'modules.scm', icon: Layers, href: '/scm' },
     { id: 'wms', titleKey: 'modules.wms', icon: Warehouse, href: '/wms' },
     { id: 'crm', titleKey: 'modules.crm', icon: Target, href: '/crm' },
     { id: 'hris', titleKey: 'modules.hris', icon: Clock, href: '/hris' },

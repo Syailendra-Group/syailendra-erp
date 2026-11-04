@@ -1,6 +1,6 @@
 import { create } from 'zustand'
 
-export type ModuleTab = 'main' | 'traceability' | 'wms' | 'crm' | 'hris' | 'others'
+export type ModuleTab = 'main' | 'scm' | 'wms' | 'crm' | 'hris' | 'others'
 
 export interface NavState {
   activeTab: ModuleTab

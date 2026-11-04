@@ -19,14 +19,30 @@ export interface DataTableFacetedFilterProps<TData, TValue> {
     value: string
     icon?: ComponentType<{ className?: string }>
   }[]
+  selectedValues?: string[]
+  onFilterChange?: (values: string[] | undefined) => void
 }
 
-export function DataTableFacetedFilter<TData, TValue>({ column, title, options }: DataTableFacetedFilterProps<TData, TValue>): ReactElement | null {
+export function DataTableFacetedFilter<TData, TValue>({
+  column,
+  title,
+  options,
+  selectedValues: externalSelectedValues,
+  onFilterChange
+}: DataTableFacetedFilterProps<TData, TValue>): ReactElement | null {
   const tTable = useTranslations('common.table')
   const facets = column?.getFacetedUniqueValues()
-  const selectedValues = new Set(column?.getFilterValue() as string[])
 
-  if (!column) return null
+  const currentValues = externalSelectedValues ?? (column?.getFilterValue() as string[]) ?? []
+  const selectedValues = new Set(currentValues)
+
+  const handleApplyFilter = (values: string[] | undefined) => {
+    if (onFilterChange) {
+      onFilterChange(values)
+    } else if (column) {
+      column.setFilterValue(values)
+    }
+  }
 
   return (
     <Popover>
@@ -80,7 +96,7 @@ export function DataTableFacetedFilter<TData, TValue>({ column, title, options }
                         selectedValues.add(option.value)
                       }
                       const filterValues = Array.from(selectedValues)
-                      column?.setFilterValue(filterValues.length ? filterValues : undefined)
+                      handleApplyFilter(filterValues.length ? filterValues : undefined)
                     }}
                     className="cursor-pointer text-xs"
                   >
@@ -106,7 +122,7 @@ export function DataTableFacetedFilter<TData, TValue>({ column, title, options }
                 <CommandSeparator />
 
                 <CommandGroup>
-                  <CommandItem onSelect={() => column?.setFilterValue(undefined)} className="cursor-pointer justify-center text-center text-xs">
+                  <CommandItem onSelect={() => handleApplyFilter(undefined)} className="cursor-pointer justify-center text-center text-xs">
                     {tTable('clearFilters')}
                   </CommandItem>
                 </CommandGroup>

@@ -11,9 +11,10 @@ export interface GetColumnsOptions {
   tCommon: (key: string) => string
   onView: (item: RegencyRecord) => void
   onEdit: (regency: RegencyRecord) => void
+  onDelete: (regency: RegencyRecord) => void
 }
 
-export function getColumns({ t, tCommon, onView, onEdit }: GetColumnsOptions): ColumnDef<RegencyRecord>[] {
+export function getColumns({ t, tCommon, onView, onEdit, onDelete }: GetColumnsOptions): ColumnDef<RegencyRecord>[] {
   return [
     {
       accessorKey: 'code',
@@ -29,7 +30,7 @@ export function getColumns({ t, tCommon, onView, onEdit }: GetColumnsOptions): C
     },
     {
       accessorKey: 'alias',
-      header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.alias')} />,
+      header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.alias') || 'Alias'} />,
       cell: ({ row }) => <span className="text-muted-foreground text-xs">{row.original.alias || '-'}</span>,
       enableSorting: true
     },
@@ -42,14 +43,6 @@ export function getColumns({ t, tCommon, onView, onEdit }: GetColumnsOptions): C
       }
     },
     {
-      accessorKey: 'country_id',
-      header: ({ column }) => <DataTableColumnHeader column={column} title="Negara" />,
-      cell: ({ row }) => {
-        const country = row.original.country_id
-        return <span className="text-foreground text-xs font-medium">{country ? country[1] : '-'}</span>
-      }
-    },
-    {
       id: 'actions',
       header: () => <div className="text-center text-xs font-semibold">{tCommon('table.actions')}</div>,
       cell: ({ row }) => {
@@ -58,6 +51,7 @@ export function getColumns({ t, tCommon, onView, onEdit }: GetColumnsOptions): C
           <div className="flex items-center justify-center gap-1">
             <ActionButton variant="view" label={tCommon('actions.view')} onClick={() => onView(item)} />
             <ActionButton variant="edit" label={tCommon('actions.edit')} onClick={() => onEdit(item)} />
+            <ActionButton variant="delete" label={tCommon('actions.delete')} onClick={() => onDelete(item)} />
           </div>
         )
       }

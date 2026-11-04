@@ -16,18 +16,13 @@ import { getColumns } from './columns'
 import type { VillageRecord } from '@/types/others/village'
 import type { ReactElement } from 'react'
 
-export interface VillagesTableProps {
-  onArchive?: (item: VillageRecord) => void
-}
-
 const FILTER_KEYS = ['scope', 'country', 'province', 'city', 'district']
 
 export function VillagesTable(): ReactElement {
-  const t = useTranslations('regional.villages')
+  const t = useTranslations('others.villages')
   const tCommon = useTranslations('common')
   const { setOpen, setCurrentRow } = useVillage()
 
-  // 1. Manage URL SearchParams & Table State adapters via reusable hook
   const {
     page,
     perPage,
@@ -48,7 +43,6 @@ export function VillagesTable(): ReactElement {
     filterKeys: FILTER_KEYS
   })
 
-  // 2. Fetch system filter options (hierarchy existing in Odoo)
   const { data: filterOptions } = useVillageFilterOptionsQuery()
 
   const scopeFilter = getArrayFilter('scope')
@@ -57,7 +51,6 @@ export function VillagesTable(): ReactElement {
   const cityFilter = getArrayFilter('city')
   const districtFilter = getArrayFilter('district')
 
-  // 3. Fetch paginated data from Odoo
   const {
     data: result,
     isLoading,
@@ -89,12 +82,15 @@ export function VillagesTable(): ReactElement {
         onEdit: (item: VillageRecord) => {
           setCurrentRow(item)
           setOpen('edit')
+        },
+        onDelete: (item: VillageRecord) => {
+          setCurrentRow(item)
+          setOpen('delete')
         }
       }),
     [t, tCommon, setCurrentRow, setOpen]
   )
 
-  // 4. TanStack Table Instance
   const table = useReactTable({
     data: records,
     columns,

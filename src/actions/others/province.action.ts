@@ -4,6 +4,7 @@ import { revalidatePath } from 'next/cache'
 
 import {
   checkProvinceExistsInOdoo,
+  deleteProvince,
   fetchProvinceById,
   fetchProvinceFilterOptions,
   fetchProvinces,
@@ -80,4 +81,8 @@ export async function saveProvinceAction(values: ProvinceFormValues): Promise<{ 
       error: error instanceof Error ? error.message : 'Failed to persist province'
     }
   }
+}
+
+export async function deleteProvinceAction(id: number): Promise<{ success: boolean; error?: string }> {
+  return await deleteProvince(id)
 }

@@ -25,7 +25,7 @@ export function MainOverview(): ReactElement {
   ]
 
   const shortcuts: QuickActionItem[] = [
-    { label: t('shortcuts.lotTrace'), href: '/traceability', icon: Layers },
+    { label: t('shortcuts.lotTrace'), href: '/scm', icon: Layers },
     { label: t('shortcuts.wmsLedger'), href: '/wms', icon: Warehouse },
     { label: t('shortcuts.crmPipeline'), href: '/crm', icon: Target },
     { label: t('shortcuts.hrisAttendance'), href: '/hris', icon: Clock }

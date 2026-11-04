@@ -5,7 +5,8 @@
     "wms": "WMS",
     "crm": "CRM",
     "hris": "HRIS",
-    "others": "OTHERS"
+    "others": "OTHERS",
+    "scm": "SCM"
   },
   "groups": {
     "main_ops": "Main Operations",
@@ -19,7 +20,9 @@
     "system_ops": "System Governance",
     "regional_data": "Regional Master Data",
     "compliance": "Audit & Compliance",
-    "overview": "Overview"
+    "overview": "Overview",
+    "scm_ops": "SCM Operations",
+    "scm_reports": "SCM Reports & Analytics"
   },
   "items": {
     "overview": "Overview",

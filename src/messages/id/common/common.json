@@ -107,5 +107,23 @@
     "zipCodePlaceholder": "Contoh: 56354",
     "benchmark": "Alamat Tambahan / Patokan Lapangan",
     "benchmarkPlaceholder": "Contoh: Sebelah utara posyandu, 500m dari gapura desa..."
+  },
+  "map": {
+    "loading": "Memuat Peta Interaktif...",
+    "locateMe": "Cari Lokasi Saya",
+    "locating": "Mencari GPS..."
+  },
+  "select": {
+    "loadingMore": "Memuat data selanjutnya...",
+    "noResults": "Tidak ada data ditemukan",
+    "searchPlaceholder": "Ketik untuk mencari..."
+  },
+  "deleteDialog": {
+    "title": "Hapus Data Wilayah",
+    "desc": "Apakah Anda yakin ingin menghapus data wilayah ini secara permanen dari sistem? Tindakan ini tidak dapat dibatalkan.",
+    "confirm": "Hapus Permanen",
+    "cancel": "Batal",
+    "success": "Data wilayah berhasil dihapus",
+    "inUseError": "Wilayah ini tidak dapat dihapus karena sedang digunakan oleh data relasi lain di sistem."
   }
 }

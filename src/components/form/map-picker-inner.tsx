@@ -3,6 +3,7 @@
 import { useCallback, useEffect, useRef, useState } from 'react'
 import L from 'leaflet'
 import { Crosshair, Loader2 } from 'lucide-react'
+import { useTranslations } from 'next-intl'
 
 import { Button } from '@/components/ui/button'
 import { cn } from '@/lib/utils'
@@ -50,111 +51,125 @@ export default function MapPickerInner({
   longitude,
   onChange,
   disabled = false,
-  className,
-  zoom = 13,
+  locateMeLabel,
+  locatingLabel,
   centroidPan,
-  locateMeLabel = 'Lokasi Saya',
-  locatingLabel = 'Mencari GPS...'
+  className
 }: MapPickerProps): ReactElement {
+  const tMap = useTranslations('common.map')
   const mapContainerRef = useRef<HTMLDivElement>(null)
   const mapInstanceRef = useRef<L.Map | null>(null)
   const markerRef = useRef<L.Marker | null>(null)
-  const [isLocating, setIsLocating] = useState<boolean>(false)
+  const [isLocating, setIsLocating] = useState(false)
 
-  const activeLat = typeof latitude === 'number' && !isNaN(latitude) ? latitude : null
-  const activeLng = typeof longitude === 'number' && !isNaN(longitude) ? longitude : null
+  const activeLocateMeLabel = locateMeLabel || tMap('locateMe')
+  const activeLocatingLabel = locatingLabel || tMap('locating')
 
-  // 1. Initialize Map
+  // 1. Initialize Leaflet Map
   useEffect(() => {
     if (!mapContainerRef.current || mapInstanceRef.current) return
 
-    const initialCenter: [number, number] = activeLat !== null && activeLng !== null ? [activeLat, activeLng] : DEFAULT_CENTER
+    const initialLat = latitude ?? DEFAULT_CENTER[0]
+    const initialLng = longitude ?? DEFAULT_CENTER[1]
+    const initialZoom = latitude && longitude ? 14 : 9
 
     const map = L.map(mapContainerRef.current, {
-      center: initialCenter,
-      zoom,
       zoomControl: true,
-      scrollWheelZoom: true
-    })
+      scrollWheelZoom: !disabled,
+      dragging: !disabled,
+      touchZoom: !disabled
+    }).setView([initialLat, initialLng], initialZoom)
 
-    L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-      maxZoom: 19,
-      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '&copy; OpenStreetMap contributors',
+      maxZoom: 19
     }).addTo(map)
+
+    if (latitude && longitude) {
+      const marker = L.marker([latitude, longitude], {
+        icon: createCustomMarkerIcon(),
+        draggable: !disabled
+      }).addTo(map)
+
+      marker.on('dragend', () => {
+        const pos = marker.getLatLng()
+        onChange({
+          latitude: Number(pos.lat.toFixed(6)),
+          longitude: Number(pos.lng.toFixed(6))
+        })
+      })
+
+      markerRef.current = marker
+    }
+
+    map.on('click', (e: L.LeafletMouseEvent) => {
+      if (disabled) return
+      const { lat, lng } = e.latlng
+      const newLat = Number(lat.toFixed(6))
+      const newLng = Number(lng.toFixed(6))
+
+      onChange({ latitude: newLat, longitude: newLng })
+
+      if (markerRef.current) {
+        markerRef.current.setLatLng([newLat, newLng])
+      } else {
+        const marker = L.marker([newLat, newLng], {
+          icon: createCustomMarkerIcon(),
+          draggable: true
+        }).addTo(map)
+
+        marker.on('dragend', () => {
+          const pos = marker.getLatLng()
+          onChange({
+            latitude: Number(pos.lat.toFixed(6)),
+            longitude: Number(pos.lng.toFixed(6))
+          })
+        })
+
+        markerRef.current = marker
+      }
+    })
 
     mapInstanceRef.current = map
 
-    setTimeout(() => {
-      map.invalidateSize()
-    }, 200)
-
     return () => {
-      map.off()
       map.remove()
       mapInstanceRef.current = null
       markerRef.current = null
     }
-  }, [activeLat, activeLng, zoom])
+  }, []) // eslint-disable-line react-hooks/exhaustive-deps
 
-  // 2. Handle Marker Creation / Movement
+  // 2. Sync marker position with external value updates
   useEffect(() => {
     const map = mapInstanceRef.current
     if (!map) return
 
-    if (activeLat !== null && activeLng !== null) {
-      const pos: L.LatLngExpression = [activeLat, activeLng]
-
-      if (!markerRef.current) {
-        const marker = L.marker(pos, {
+    if (latitude && longitude) {
+      if (markerRef.current) {
+        markerRef.current.setLatLng([latitude, longitude])
+      } else {
+        const marker = L.marker([latitude, longitude], {
           icon: createCustomMarkerIcon(),
           draggable: !disabled
         }).addTo(map)
 
         marker.on('dragend', () => {
-          const newPos = marker.getLatLng()
+          const pos = marker.getLatLng()
           onChange({
-            latitude: Number(newPos.lat.toFixed(6)),
-            longitude: Number(newPos.lng.toFixed(6))
+            latitude: Number(pos.lat.toFixed(6)),
+            longitude: Number(pos.lng.toFixed(6))
           })
         })
 
         markerRef.current = marker
-      } else {
-        markerRef.current.setLatLng(pos)
-        if (disabled) {
-          markerRef.current.dragging?.disable()
-        } else {
-          markerRef.current.dragging?.enable()
-        }
       }
     } else if (markerRef.current) {
       markerRef.current.remove()
       markerRef.current = null
     }
-  }, [activeLat, activeLng, disabled, onChange])
+  }, [latitude, longitude, disabled, onChange])
 
-  // 3. Handle Map Click to Pin Location
-  useEffect(() => {
-    const map = mapInstanceRef.current
-    if (!map) return
-
-    const handleMapClick = (e: L.LeafletMouseEvent) => {
-      if (disabled) return
-      const { lat, lng } = e.latlng
-      onChange({
-        latitude: Number(lat.toFixed(6)),
-        longitude: Number(lng.toFixed(6))
-      })
-    }
-
-    map.on('click', handleMapClick)
-
-    return () => {
-      map.off('click', handleMapClick)
-    }
-  }, [disabled, onChange])
-
-  // 4. Handle Dynamic Centroid Pan (from province/regency change)
+  // 3. Dynamic Centroid Pan (from province/regency change)
   useEffect(() => {
     const map = mapInstanceRef.current
     if (!map || !centroidPan) return
@@ -167,7 +182,7 @@ export default function MapPickerInner({
     }
   }, [centroidPan])
 
-  // 5. GPS Current Geolocation
+  // 4. GPS Current Geolocation
   const handleLocateMe = useCallback(() => {
     if (!navigator.geolocation || disabled) return
     setIsLocating(true)
@@ -207,7 +222,7 @@ export default function MapPickerInner({
           className="bg-background/90 hover:bg-background h-8 gap-1.5 px-2.5 text-xs font-medium shadow-md backdrop-blur-md"
         >
           {isLocating ? <Loader2 className="text-primary size-3.5 animate-spin" /> : <Crosshair className="text-primary size-3.5" />}
-          <span>{isLocating ? locatingLabel : locateMeLabel}</span>
+          <span>{isLocating ? activeLocatingLabel : activeLocateMeLabel}</span>
         </Button>
       </div>
     </div>

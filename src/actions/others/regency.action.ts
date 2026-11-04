@@ -5,6 +5,7 @@ import { revalidatePath } from 'next/cache'
 import {
   checkProvinceExistsByNameOrCode,
   checkRegencyExistsInOdoo,
+  deleteRegency,
   fetchRegencies,
   fetchRegenciesPaginated,
   fetchRegencyById,
@@ -111,4 +112,8 @@ export async function toggleRegencyStatusAction(id: number, active: boolean): Pr
       error: error instanceof Error ? error.message : 'Failed to update status'
     }
   }
+}
+
+export async function deleteRegencyAction(id: number): Promise<{ success: boolean; error?: string }> {
+  return await deleteRegency(id)
 }

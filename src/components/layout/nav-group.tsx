@@ -29,7 +29,7 @@ export function NavGroup({ group }: NavGroupProps): ReactElement {
           const Icon = item.icon
           const isOverviewUrl =
             item.url === '/overview' ||
-            item.url === '/traceability' ||
+            item.url === '/scm' ||
             item.url === '/wms' ||
             item.url === '/crm' ||
             item.url === '/hris' ||

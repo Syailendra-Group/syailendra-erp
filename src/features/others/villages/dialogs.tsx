@@ -2,10 +2,14 @@
 
 import { useState } from 'react'
 import { useTranslations } from 'next-intl'
+import { toast } from 'sonner'
 
 import { ActionDialog } from '@/components/dialog/action-dialog'
+import { ConfirmDialog } from '@/components/dialog/confirm-dialog'
+import { DetailRow } from '@/components/shared/detail-row'
 import { Dialog, DialogContent, DialogDescription, DialogHeader, DialogTitle } from '@/components/ui/dialog'
 import { useVillage } from '@/contexts/others/village.context'
+import { useDeleteVillageMutation } from '@/hooks/others/use-villages'
 
 import { VillageForm } from './form'
 
@@ -15,14 +19,31 @@ export function VillagesDialogs(): ReactElement {
   const { open, setOpen, currentRow } = useVillage()
   const t = useTranslations('others.villages')
   const tReg = useTranslations('regional.common')
+  const tCommon = useTranslations('common')
   const [canSubmit, setCanSubmit] = useState(true)
+  const { mutateAsync: deleteVillage, isPending: isDeleting } = useDeleteVillageMutation()
 
   const isFormOpen = open === 'create' || open === 'edit'
   const isViewOpen = open === 'view'
+  const isDeleteOpen = open === 'delete'
+
+  const handleDelete = async () => {
+    if (!currentRow?.id) return
+    try {
+      const res = await deleteVillage(currentRow.id)
+      if (res.success) {
+        toast.success(tCommon('deleteDialog.success'))
+        setOpen(null)
+      } else {
+        toast.error(res.error || tCommon('deleteDialog.inUseError'))
+      }
+    } catch (err) {
+      toast.error(err instanceof Error ? err.message : 'Gagal menghapus data')
+    }
+  }
 
   return (
     <>
-      {/* Form ActionDialog */}
       <ActionDialog
         open={isFormOpen}
         onOpenChange={(isOpen) => !isOpen && setOpen(null)}
@@ -36,7 +57,6 @@ export function VillagesDialogs(): ReactElement {
         <VillageForm currentRow={currentRow} onSuccess={() => setOpen(null)} onValidationChange={setCanSubmit} />
       </ActionDialog>
 
-      {/* View Detail Dialog */}
       <Dialog open={isViewOpen} onOpenChange={(isOpen) => !isOpen && setOpen(null)}>
         <DialogContent className="sm:max-w-md">
           <DialogHeader className="text-start">
@@ -46,46 +66,30 @@ export function VillagesDialogs(): ReactElement {
 
           {currentRow && (
             <div className="space-y-3 pt-2 text-xs">
-              <div className="border-border/40 grid grid-cols-3 gap-2 border-b py-1.5">
-                <span className="text-muted-foreground font-medium">{t('table.name')}</span>
-                <span className="text-foreground col-span-2 font-semibold">{currentRow.name}</span>
-              </div>
-              <div className="border-border/40 grid grid-cols-3 gap-2 border-b py-1.5">
-                <span className="text-muted-foreground font-medium">{tReg('fields.alias')}</span>
-                <span className="text-foreground col-span-2">{currentRow.alias || '-'}</span>
-              </div>
-              <div className="border-border/40 grid grid-cols-3 gap-2 border-b py-1.5">
-                <span className="text-muted-foreground font-medium">{t('table.code')}</span>
-                <span className="text-foreground col-span-2 font-mono font-bold">{currentRow.code || '-'}</span>
-              </div>
-              <div className="border-border/40 grid grid-cols-3 gap-2 border-b py-1.5">
-                <span className="text-muted-foreground font-medium">{t('table.district')}</span>
-                <span className="text-foreground col-span-2 font-medium">{currentRow.district_id ? currentRow.district_id[1] : '-'}</span>
-              </div>
-              <div className="border-border/40 grid grid-cols-3 gap-2 border-b py-1.5">
-                <span className="text-muted-foreground font-medium">{t('table.zipCode')}</span>
-                <span className="text-foreground col-span-2 font-mono">{currentRow.zip_code || '-'}</span>
-              </div>
-              {currentRow.city_id && (
-                <div className="border-border/40 grid grid-cols-3 gap-2 border-b py-1.5">
-                  <span className="text-muted-foreground font-medium">Kabupaten/Kota</span>
-                  <span className="text-foreground col-span-2 font-medium">{currentRow.city_id[1]}</span>
-                </div>
-              )}
-              {currentRow.country_id && (
-                <div className="border-border/40 grid grid-cols-3 gap-2 border-b py-1.5">
-                  <span className="text-muted-foreground font-medium">Negara</span>
-                  <span className="text-foreground col-span-2 font-medium">{currentRow.country_id[1]}</span>
-                </div>
-              )}
-              <div className="grid grid-cols-3 gap-2 py-1.5">
-                <span className="text-muted-foreground font-medium">{tReg('fields.description')}</span>
-                <span className="text-foreground col-span-2 italic">{currentRow.description || '-'}</span>
-              </div>
+              <DetailRow label={t('table.name')} value={currentRow.name} />
+              <DetailRow label={tReg('fields.alias')} value={currentRow.alias || '-'} />
+              <DetailRow label={t('table.code')} value={currentRow.code || '-'} mono />
+              <DetailRow label={t('table.district')} value={currentRow.district_id ? currentRow.district_id[1] : '-'} />
+              <DetailRow label={t('table.zipCode')} value={currentRow.zip_code || '-'} mono />
+              {currentRow.city_id && <DetailRow label="Kabupaten/Kota" value={currentRow.city_id[1]} />}
+              {currentRow.country_id && <DetailRow label="Negara" value={currentRow.country_id[1]} />}
+              <DetailRow label={tReg('fields.description')} value={currentRow.description || '-'} border={false} />
             </div>
           )}
         </DialogContent>
       </Dialog>
+
+      <ConfirmDialog
+        open={isDeleteOpen}
+        onOpenChange={(isOpen) => !isOpen && setOpen(null)}
+        title={tCommon('deleteDialog.title')}
+        desc={tCommon('deleteDialog.desc')}
+        confirmText={tCommon('deleteDialog.confirm')}
+        cancelBtnText={tCommon('deleteDialog.cancel')}
+        destructive
+        isLoading={isDeleting}
+        handleConfirm={handleDelete}
+      />
     </>
   )
 }

@@ -11,9 +11,10 @@ export interface GetColumnsOptions {
   tCommon: (key: string) => string
   onView: (item: DistrictRecord) => void
   onEdit: (district: DistrictRecord) => void
+  onDelete: (district: DistrictRecord) => void
 }
 
-export function getColumns({ t, tCommon, onView, onEdit }: GetColumnsOptions): ColumnDef<DistrictRecord>[] {
+export function getColumns({ t, tCommon, onView, onEdit, onDelete }: GetColumnsOptions): ColumnDef<DistrictRecord>[] {
   return [
     {
       accessorKey: 'code',
@@ -35,18 +36,10 @@ export function getColumns({ t, tCommon, onView, onEdit }: GetColumnsOptions): C
     },
     {
       accessorKey: 'city_id',
-      header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.city')} />,
+      header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.regency')} />,
       cell: ({ row }) => {
         const city = row.original.city_id
         return <span className="text-foreground text-xs font-medium">{city ? city[1] : '-'}</span>
-      }
-    },
-    {
-      accessorKey: 'country_id',
-      header: ({ column }) => <DataTableColumnHeader column={column} title="Negara" />,
-      cell: ({ row }) => {
-        const country = row.original.country_id
-        return <span className="text-foreground text-xs font-medium">{country ? country[1] : '-'}</span>
       }
     },
     {
@@ -58,6 +51,7 @@ export function getColumns({ t, tCommon, onView, onEdit }: GetColumnsOptions): C
           <div className="flex items-center justify-center gap-1">
             <ActionButton variant="view" label={tCommon('actions.view')} onClick={() => onView(item)} />
             <ActionButton variant="edit" label={tCommon('actions.edit')} onClick={() => onEdit(item)} />
+            <ActionButton variant="delete" label={tCommon('actions.delete')} onClick={() => onDelete(item)} />
           </div>
         )
       }

@@ -19,11 +19,10 @@ import type { ReactElement } from 'react'
 const FILTER_KEYS = ['scope', 'country']
 
 export function ProvincesTable(): ReactElement {
-  const t = useTranslations('regional.provinces')
+  const t = useTranslations('others.provinces')
   const tCommon = useTranslations('common')
   const { setOpen, setCurrentRow } = useProvince()
 
-  // 1. Manage URL SearchParams & Table State adapters via reusable hook
   const {
     page,
     perPage,
@@ -44,13 +43,11 @@ export function ProvincesTable(): ReactElement {
     filterKeys: FILTER_KEYS
   })
 
-  // 2. Fetch filter options (system countries with registered provinces)
   const { data: filterOptions } = useProvinceFilterOptionsQuery()
 
   const scopeFilter = getArrayFilter('scope')
   const countryFilter = getArrayFilter('country')
 
-  // 3. Fetch paginated data from Odoo
   const {
     data: result,
     isLoading,
@@ -64,7 +61,7 @@ export function ProvincesTable(): ReactElement {
     order: orderOdoo
   })
 
-  const provinces = result?.records ?? []
+  const records = result?.records ?? []
   const totalCount = result?.totalCount ?? 0
 
   const columns = useMemo(
@@ -72,21 +69,24 @@ export function ProvincesTable(): ReactElement {
       getColumns({
         t,
         tCommon,
-        onView: (prov: ProvinceRecord) => {
-          setCurrentRow(prov)
+        onView: (item: ProvinceRecord) => {
+          setCurrentRow(item)
           setOpen('view')
         },
-        onEdit: (prov: ProvinceRecord) => {
-          setCurrentRow(prov)
+        onEdit: (item: ProvinceRecord) => {
+          setCurrentRow(item)
           setOpen('edit')
+        },
+        onDelete: (item: ProvinceRecord) => {
+          setCurrentRow(item)
+          setOpen('delete')
         }
       }),
     [t, tCommon, setCurrentRow, setOpen]
   )
 
-  // 4. TanStack Table Instance
   const table = useReactTable({
-    data: provinces,
+    data: records,
     columns,
     rowCount: totalCount,
     state: {
@@ -114,22 +114,18 @@ export function ProvincesTable(): ReactElement {
   )
 
   const countryFilterOptions = useMemo(
-    () =>
-      (filterOptions?.countries || []).map((c) => ({
-        label: c.name,
-        value: String(c.id)
-      })),
+    () => (filterOptions?.countries || []).map((c) => ({ label: c.name, value: String(c.id) })),
     [filterOptions?.countries]
   )
 
-  const showSkeleton = isLoading || (isFetching && provinces.length === 0)
+  const showSkeleton = isLoading || (isFetching && records.length === 0)
   const isTableRefreshing = isFetching || isUpdating
 
   return (
     <div className="space-y-4">
       <DataTableToolbar
         table={table}
-        searchPlaceholder={tCommon('actions.search')}
+        searchPlaceholder="Cari provinsi..."
         onReset={resetFilters}
         filters={[
           {
@@ -137,15 +133,7 @@ export function ProvincesTable(): ReactElement {
             title: 'Cakupan Wilayah',
             options: scopeOptions
           },
-          ...(countryFilterOptions.length > 0
-            ? [
-                {
-                  columnId: 'country',
-                  title: 'Negara',
-                  options: countryFilterOptions
-                }
-              ]
-            : [])
+          ...(countryFilterOptions.length > 0 ? [{ columnId: 'country', title: 'Negara', options: countryFilterOptions }] : [])
         ]}
       />
 

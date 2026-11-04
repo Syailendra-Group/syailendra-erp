@@ -3,6 +3,7 @@ import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
 import {
   checkParentDistrictAction,
   checkVillageExistsAction,
+  deleteVillageAction,
   getVillageByIdAction,
   getVillageFilterOptionsAction,
   getVillagesAction,
@@ -105,6 +106,16 @@ export function useToggleVillageStatusMutation() {
   const queryClient = useQueryClient()
   return useMutation({
     mutationFn: ({ id, active }: { id: number; active: boolean }) => toggleVillageStatusAction(id, active),
+    onSuccess: () => {
+      queryClient.invalidateQueries({ queryKey: villageKeys.all })
+    }
+  })
+}
+
+export function useDeleteVillageMutation() {
+  const queryClient = useQueryClient()
+  return useMutation({
+    mutationFn: (id: number) => deleteVillageAction(id),
     onSuccess: () => {
       queryClient.invalidateQueries({ queryKey: villageKeys.all })
     }

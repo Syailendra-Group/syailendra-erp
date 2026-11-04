@@ -5,6 +5,7 @@ import { revalidatePath } from 'next/cache'
 import {
   checkDistrictExistsInOdoo,
   checkParentRegencyExists,
+  deleteDistrict,
   fetchDistrictById,
   fetchDistrictFilterOptions,
   fetchDistricts,
@@ -112,4 +113,8 @@ export async function toggleDistrictStatusAction(id: number, active: boolean): P
       error: error instanceof Error ? error.message : 'Failed to update status'
     }
   }
+}
+
+export async function deleteDistrictAction(id: number): Promise<{ success: boolean; error?: string }> {
+  return await deleteDistrict(id)
 }

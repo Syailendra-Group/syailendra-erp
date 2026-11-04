@@ -11,9 +11,10 @@ export interface GetColumnsOptions {
   tCommon: (key: string) => string
   onView: (item: VillageRecord) => void
   onEdit: (village: VillageRecord) => void
+  onDelete: (village: VillageRecord) => void
 }
 
-export function getColumns({ t, tCommon, onView, onEdit }: GetColumnsOptions): ColumnDef<VillageRecord>[] {
+export function getColumns({ t, tCommon, onView, onEdit, onDelete }: GetColumnsOptions): ColumnDef<VillageRecord>[] {
   return [
     {
       accessorKey: 'code',
@@ -58,6 +59,7 @@ export function getColumns({ t, tCommon, onView, onEdit }: GetColumnsOptions): C
           <div className="flex items-center justify-center gap-1">
             <ActionButton variant="view" label={tCommon('actions.view')} onClick={() => onView(item)} />
             <ActionButton variant="edit" label={tCommon('actions.edit')} onClick={() => onEdit(item)} />
+            <ActionButton variant="delete" label={tCommon('actions.delete')} onClick={() => onDelete(item)} />
           </div>
         )
       }

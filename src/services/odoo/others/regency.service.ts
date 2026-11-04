@@ -69,17 +69,15 @@ export async function fetchRegenciesPaginated(params: FetchRegenciesParams = {})
   }
 
   if (countryId) {
-    const cid = Array.isArray(countryId) ? Number(countryId[0]) : Number(countryId)
-    if (!isNaN(cid) && cid > 0) {
-      domain.push(['country_id', '=', cid])
-    }
+    const cids = (Array.isArray(countryId) ? countryId : [countryId]).map(Number).filter((id) => !isNaN(id) && id > 0)
+    if (cids.length === 1 && cids[0]) domain.push(['country_id', '=', cids[0]])
+    else if (cids.length > 1) domain.push(['country_id', 'in', cids])
   }
 
   if (stateId) {
-    const sid = Array.isArray(stateId) ? Number(stateId[0]) : Number(stateId)
-    if (!isNaN(sid) && sid > 0) {
-      domain.push(['state_id', '=', sid])
-    }
+    const sids = (Array.isArray(stateId) ? stateId : [stateId]).map(Number).filter((id) => !isNaN(id) && id > 0)
+    if (sids.length === 1 && sids[0]) domain.push(['state_id', '=', sids[0]])
+    else if (sids.length > 1) domain.push(['state_id', 'in', sids])
   }
 
   if (search.trim()) {
@@ -221,4 +219,20 @@ export async function persistRegency(values: RegencyFormValues): Promise<number>
 
 export async function toggleRegencyStatus(id: number, active: boolean): Promise<boolean> {
   return odoo.client.write('res.country.city', [id], { active })
+}
+
+export async function deleteRegency(id: number): Promise<{ success: boolean; error?: string }> {
+  try {
+    await odoo.client.unlink('res.country.district', [id])
+    return { success: true }
+  } catch (err: unknown) {
+    const msg = err instanceof Error ? err.message : String(err)
+    if (msg.includes('foreign key') || msg.includes('still referenced') || msg.includes('restrict') || msg.includes('linked')) {
+      return {
+        success: false,
+        error: 'Wilayah ini tidak dapat dihapus karena sedang digunakan oleh data relasi lain di sistem.'
+      }
+    }
+    return { success: false, error: msg || 'Gagal menghapus data wilayah.' }
+  }
 }

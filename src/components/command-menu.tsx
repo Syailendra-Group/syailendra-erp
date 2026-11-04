@@ -32,7 +32,7 @@ export function CommandMenu(): ReactElement {
 
   const modules: { title: string; url: string; tab: ModuleTab; icon: ElementType }[] = [
     { title: tNav('modules.main'), url: '/overview', tab: 'main', icon: LayoutDashboard },
-    { title: tNav('modules.traceability'), url: '/traceability', tab: 'traceability', icon: Layers },
+    { title: tNav('modules.traceability'), url: '/scm', tab: 'scm', icon: Layers },
     { title: tNav('modules.wms'), url: '/wms', tab: 'wms', icon: Warehouse },
     { title: tNav('modules.crm'), url: '/crm', tab: 'crm', icon: Target },
     { title: tNav('modules.hris'), url: '/hris', tab: 'hris', icon: Clock },
@@ -40,9 +40,9 @@ export function CommandMenu(): ReactElement {
   ]
 
   const items: { title: string; url: string; tab: ModuleTab }[] = [
-    { title: tNav('items.lots_batches'), url: '/traceability', tab: 'traceability' },
-    { title: tNav('items.genealogy_graph'), url: '/traceability', tab: 'traceability' },
-    { title: tNav('items.qr_printer'), url: '/traceability', tab: 'traceability' },
+    { title: tNav('items.lots_batches'), url: '/scm', tab: 'scm' },
+    { title: tNav('items.genealogy_graph'), url: '/scm', tab: 'scm' },
+    { title: tNav('items.qr_printer'), url: '/scm', tab: 'scm' },
     { title: tNav('items.stock_ledger'), url: '/wms', tab: 'wms' },
     { title: tNav('items.inbound_grn'), url: '/wms', tab: 'wms' },
     { title: tNav('items.quarantine_zone'), url: '/wms', tab: 'wms' },

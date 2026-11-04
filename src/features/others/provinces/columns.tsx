@@ -10,10 +10,11 @@ export interface GetColumnsOptions {
   t: (key: string) => string
   tCommon: (key: string) => string
   onView: (item: ProvinceRecord) => void
-  onEdit: (prov: ProvinceRecord) => void
+  onEdit: (province: ProvinceRecord) => void
+  onDelete: (province: ProvinceRecord) => void
 }
 
-export function getColumns({ t, tCommon, onView, onEdit }: GetColumnsOptions): ColumnDef<ProvinceRecord>[] {
+export function getColumns({ t, tCommon, onView, onEdit, onDelete }: GetColumnsOptions): ColumnDef<ProvinceRecord>[] {
   return [
     {
       accessorKey: 'code',
@@ -29,7 +30,7 @@ export function getColumns({ t, tCommon, onView, onEdit }: GetColumnsOptions): C
     },
     {
       accessorKey: 'alias',
-      header: ({ column }) => <DataTableColumnHeader column={column} title="Alias" />,
+      header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.alias') || 'Alias'} />,
       cell: ({ row }) => <span className="text-muted-foreground text-xs">{row.original.alias || '-'}</span>,
       enableSorting: true
     },
@@ -38,7 +39,7 @@ export function getColumns({ t, tCommon, onView, onEdit }: GetColumnsOptions): C
       header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.country')} />,
       cell: ({ row }) => {
         const country = row.original.country_id
-        return <span className="text-foreground text-xs font-medium">{country ? country[1] : '-'}</span>
+        return <span className="text-muted-foreground text-xs">{country ? country[1] : '-'}</span>
       }
     },
     {
@@ -50,6 +51,7 @@ export function getColumns({ t, tCommon, onView, onEdit }: GetColumnsOptions): C
           <div className="flex items-center justify-center gap-1">
             <ActionButton variant="view" label={tCommon('actions.view')} onClick={() => onView(item)} />
             <ActionButton variant="edit" label={tCommon('actions.edit')} onClick={() => onEdit(item)} />
+            <ActionButton variant="delete" label={tCommon('actions.delete')} onClick={() => onDelete(item)} />
           </div>
         )
       }

@@ -1,0 +1,65 @@
+[
+  {
+    "code": "15.09.031.001",
+    "villageCode": "001",
+    "districtCode": "15.09.031",
+    "name": "Tebing Tinggi",
+    "alias": "Tebing Tinggi"
+  },
+  {
+    "code": "15.09.031.002",
+    "villageCode": "002",
+    "districtCode": "15.09.031",
+    "name": "Datar",
+    "alias": "Datar"
+  },
+  {
+    "code": "15.09.031.003",
+    "villageCode": "003",
+    "districtCode": "15.09.031",
+    "name": "Bedaro",
+    "alias": "Bedaro"
+  },
+  {
+    "code": "15.09.031.004",
+    "villageCode": "004",
+    "districtCode": "15.09.031",
+    "name": "Baru Pusat Jalo",
+    "alias": "Baru Pusat Jalo"
+  },
+  {
+    "code": "15.09.031.005",
+    "villageCode": "005",
+    "districtCode": "15.09.031",
+    "name": "Tebat",
+    "alias": "Tebat"
+  },
+  {
+    "code": "15.09.031.006",
+    "villageCode": "006",
+    "districtCode": "15.09.031",
+    "name": "Tanjung Agung",
+    "alias": "Tanjung Agung"
+  },
+  {
+    "code": "15.09.031.007",
+    "villageCode": "007",
+    "districtCode": "15.09.031",
+    "name": "Mangun Jayo",
+    "alias": "Mangun Jayo"
+  },
+  {
+    "code": "15.09.031.008",
+    "villageCode": "008",
+    "districtCode": "15.09.031",
+    "name": "Suka Jaya",
+    "alias": "Suka Jaya"
+  },
+  {
+    "code": "15.09.031.009",
+    "villageCode": "009",
+    "districtCode": "15.09.031",
+    "name": "Pekan Jumat",
+    "alias": "Pekan Jumat"
+  }
+]

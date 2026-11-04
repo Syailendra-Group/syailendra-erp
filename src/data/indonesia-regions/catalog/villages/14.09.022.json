@@ -1,0 +1,72 @@
+[
+  {
+    "code": "14.09.022.001",
+    "villageCode": "001",
+    "districtCode": "14.09.022",
+    "name": "Bagan Sinembah Kota",
+    "alias": "Bagan Sinembah Kota"
+  },
+  {
+    "code": "14.09.022.002",
+    "villageCode": "002",
+    "districtCode": "14.09.022",
+    "name": "Harapan Makmur Selatan",
+    "alias": "Harapan Makmur Selatan"
+  },
+  {
+    "code": "14.09.022.003",
+    "villageCode": "003",
+    "districtCode": "14.09.022",
+    "name": "Harapan Makmur",
+    "alias": "Harapan Makmur"
+  },
+  {
+    "code": "14.09.022.004",
+    "villageCode": "004",
+    "districtCode": "14.09.022",
+    "name": "Bagan Sinembah",
+    "alias": "Bagan Sinembah"
+  },
+  {
+    "code": "14.09.022.005",
+    "villageCode": "005",
+    "districtCode": "14.09.022",
+    "name": "Salak",
+    "alias": "Salak"
+  },
+  {
+    "code": "14.09.022.006",
+    "villageCode": "006",
+    "districtCode": "14.09.022",
+    "name": "Panca Mukti",
+    "alias": "Panca Mukti"
+  },
+  {
+    "code": "14.09.022.007",
+    "villageCode": "007",
+    "districtCode": "14.09.022",
+    "name": "Makmur Jaya",
+    "alias": "Makmur Jaya"
+  },
+  {
+    "code": "14.09.022.008",
+    "villageCode": "008",
+    "districtCode": "14.09.022",
+    "name": "Bagan Sinembah Barat",
+    "alias": "Bagan Sinembah Barat"
+  },
+  {
+    "code": "14.09.022.009",
+    "villageCode": "009",
+    "districtCode": "14.09.022",
+    "name": "Bagan Sinembah Timur",
+    "alias": "Bagan Sinembah Timur"
+  },
+  {
+    "code": "14.09.022.010",
+    "villageCode": "010",
+    "districtCode": "14.09.022",
+    "name": "Bagan Sinembah Utara",
+    "alias": "Bagan Sinembah Utara"
+  }
+]

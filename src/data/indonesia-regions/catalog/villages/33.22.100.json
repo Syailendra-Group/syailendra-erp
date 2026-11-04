@@ -1,0 +1,72 @@
+[
+  {
+    "code": "33.22.100.001",
+    "villageCode": "001",
+    "districtCode": "33.22.100",
+    "name": "Ngampin",
+    "alias": "Ngampin"
+  },
+  {
+    "code": "33.22.100.002",
+    "villageCode": "002",
+    "districtCode": "33.22.100",
+    "name": "Pojoksari",
+    "alias": "Pojoksari"
+  },
+  {
+    "code": "33.22.100.003",
+    "villageCode": "003",
+    "districtCode": "33.22.100",
+    "name": "Bejalen",
+    "alias": "Bejalen"
+  },
+  {
+    "code": "33.22.100.004",
+    "villageCode": "004",
+    "districtCode": "33.22.100",
+    "name": "Tambakboyo",
+    "alias": "Tambakboyo"
+  },
+  {
+    "code": "33.22.100.005",
+    "villageCode": "005",
+    "districtCode": "33.22.100",
+    "name": "Kupang",
+    "alias": "Kupang"
+  },
+  {
+    "code": "33.22.100.006",
+    "villageCode": "006",
+    "districtCode": "33.22.100",
+    "name": "Lodoyong",
+    "alias": "Lodoyong"
+  },
+  {
+    "code": "33.22.100.007",
+    "villageCode": "007",
+    "districtCode": "33.22.100",
+    "name": "Kranggan",
+    "alias": "Kranggan"
+  },
+  {
+    "code": "33.22.100.008",
+    "villageCode": "008",
+    "districtCode": "33.22.100",
+    "name": "Panjang",
+    "alias": "Panjang"
+  },
+  {
+    "code": "33.22.100.009",
+    "villageCode": "009",
+    "districtCode": "33.22.100",
+    "name": "Pasekan",
+    "alias": "Pasekan"
+  },
+  {
+    "code": "33.22.100.010",
+    "villageCode": "010",
+    "districtCode": "33.22.100",
+    "name": "Baran",
+    "alias": "Baran"
+  }
+]

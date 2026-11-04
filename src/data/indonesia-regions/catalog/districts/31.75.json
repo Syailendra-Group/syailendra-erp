@@ -1,0 +1,50 @@
+[
+  {
+    "code": "31.75.010",
+    "districtCode": "010",
+    "regencyCode": "31.75",
+    "provinceCode": "31",
+    "name": "Kecamatan Penjaringan",
+    "alias": "Penjaringan"
+  },
+  {
+    "code": "31.75.020",
+    "districtCode": "020",
+    "regencyCode": "31.75",
+    "provinceCode": "31",
+    "name": "Kecamatan Pademangan",
+    "alias": "Pademangan"
+  },
+  {
+    "code": "31.75.030",
+    "districtCode": "030",
+    "regencyCode": "31.75",
+    "provinceCode": "31",
+    "name": "Kecamatan Tanjung Priok",
+    "alias": "Tanjung Priok"
+  },
+  {
+    "code": "31.75.040",
+    "districtCode": "040",
+    "regencyCode": "31.75",
+    "provinceCode": "31",
+    "name": "Kecamatan Koja",
+    "alias": "Koja"
+  },
+  {
+    "code": "31.75.050",
+    "districtCode": "050",
+    "regencyCode": "31.75",
+    "provinceCode": "31",
+    "name": "Kecamatan Kelapa Gading",
+    "alias": "Kelapa Gading"
+  },
+  {
+    "code": "31.75.060",
+    "districtCode": "060",
+    "regencyCode": "31.75",
+    "provinceCode": "31",
+    "name": "Kecamatan Cilincing",
+    "alias": "Cilincing"
+  }
+]

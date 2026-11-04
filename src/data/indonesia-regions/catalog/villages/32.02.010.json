@@ -1,0 +1,65 @@
+[
+  {
+    "code": "32.02.010.001",
+    "villageCode": "001",
+    "districtCode": "32.02.010",
+    "name": "Cibenda",
+    "alias": "Cibenda"
+  },
+  {
+    "code": "32.02.010.002",
+    "villageCode": "002",
+    "districtCode": "32.02.010",
+    "name": "Ciwaru",
+    "alias": "Ciwaru"
+  },
+  {
+    "code": "32.02.010.003",
+    "villageCode": "003",
+    "districtCode": "32.02.010",
+    "name": "Tamanjaya",
+    "alias": "Tamanjaya"
+  },
+  {
+    "code": "32.02.010.004",
+    "villageCode": "004",
+    "districtCode": "32.02.010",
+    "name": "Mekarjaya",
+    "alias": "Mekarjaya"
+  },
+  {
+    "code": "32.02.010.005",
+    "villageCode": "005",
+    "districtCode": "32.02.010",
+    "name": "Ciemas",
+    "alias": "Ciemas"
+  },
+  {
+    "code": "32.02.010.006",
+    "villageCode": "006",
+    "districtCode": "32.02.010",
+    "name": "Girimukti",
+    "alias": "Girimukti"
+  },
+  {
+    "code": "32.02.010.007",
+    "villageCode": "007",
+    "districtCode": "32.02.010",
+    "name": "Mandrajaya",
+    "alias": "Mandrajaya"
+  },
+  {
+    "code": "32.02.010.008",
+    "villageCode": "008",
+    "districtCode": "32.02.010",
+    "name": "Mekarsakti",
+    "alias": "Mekarsakti"
+  },
+  {
+    "code": "32.02.010.009",
+    "villageCode": "009",
+    "districtCode": "32.02.010",
+    "name": "Sidamulya",
+    "alias": "Sidamulya"
+  }
+]

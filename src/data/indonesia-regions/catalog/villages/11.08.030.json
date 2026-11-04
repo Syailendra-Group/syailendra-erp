@@ -1,0 +1,366 @@
+[
+  {
+    "code": "11.08.030.001",
+    "villageCode": "001",
+    "districtCode": "11.08.030",
+    "name": "Aneuk Glee",
+    "alias": "Aneuk Glee"
+  },
+  {
+    "code": "11.08.030.002",
+    "villageCode": "002",
+    "districtCode": "11.08.030",
+    "name": "Lam Ilie Ganto",
+    "alias": "Lam Ilie Ganto"
+  },
+  {
+    "code": "11.08.030.003",
+    "villageCode": "003",
+    "districtCode": "11.08.030",
+    "name": "Lam Ilie Teungoh",
+    "alias": "Lam Ilie Teungoh"
+  },
+  {
+    "code": "11.08.030.004",
+    "villageCode": "004",
+    "districtCode": "11.08.030",
+    "name": "Reukih Dayah",
+    "alias": "Reukih Dayah"
+  },
+  {
+    "code": "11.08.030.005",
+    "villageCode": "005",
+    "districtCode": "11.08.030",
+    "name": "Krueng Lamkareung",
+    "alias": "Krueng Lamkareung"
+  },
+  {
+    "code": "11.08.030.006",
+    "villageCode": "006",
+    "districtCode": "11.08.030",
+    "name": "Riting",
+    "alias": "Riting"
+  },
+  {
+    "code": "11.08.030.028",
+    "villageCode": "028",
+    "districtCode": "11.08.030",
+    "name": "Lampanah Tunong",
+    "alias": "Lampanah Tunong"
+  },
+  {
+    "code": "11.08.030.029",
+    "villageCode": "029",
+    "districtCode": "11.08.030",
+    "name": "Lampanah Baro",
+    "alias": "Lampanah Baro"
+  },
+  {
+    "code": "11.08.030.030",
+    "villageCode": "030",
+    "districtCode": "11.08.030",
+    "name": "Lampanah Teungoh",
+    "alias": "Lampanah Teungoh"
+  },
+  {
+    "code": "11.08.030.031",
+    "villageCode": "031",
+    "districtCode": "11.08.030",
+    "name": "Lampanah Dayah",
+    "alias": "Lampanah Dayah"
+  },
+  {
+    "code": "11.08.030.032",
+    "villageCode": "032",
+    "districtCode": "11.08.030",
+    "name": "Lampanah Ranjo",
+    "alias": "Lampanah Ranjo"
+  },
+  {
+    "code": "11.08.030.033",
+    "villageCode": "033",
+    "districtCode": "11.08.030",
+    "name": "Seuot Tunong",
+    "alias": "Seuot Tunong"
+  },
+  {
+    "code": "11.08.030.034",
+    "villageCode": "034",
+    "districtCode": "11.08.030",
+    "name": "Sihom Cot",
+    "alias": "Sihom Cot"
+  },
+  {
+    "code": "11.08.030.035",
+    "villageCode": "035",
+    "districtCode": "11.08.030",
+    "name": "Sihom Lhok",
+    "alias": "Sihom Lhok"
+  },
+  {
+    "code": "11.08.030.036",
+    "villageCode": "036",
+    "districtCode": "11.08.030",
+    "name": "Sinyeu",
+    "alias": "Sinyeu"
+  },
+  {
+    "code": "11.08.030.037",
+    "villageCode": "037",
+    "districtCode": "11.08.030",
+    "name": "Seuot Baroh",
+    "alias": "Seuot Baroh"
+  },
+  {
+    "code": "11.08.030.038",
+    "villageCode": "038",
+    "districtCode": "11.08.030",
+    "name": "Pasar Indrapuri",
+    "alias": "Pasar Indrapuri"
+  },
+  {
+    "code": "11.08.030.039",
+    "villageCode": "039",
+    "districtCode": "11.08.030",
+    "name": "Indra Puri",
+    "alias": "Indra Puri"
+  },
+  {
+    "code": "11.08.030.040",
+    "villageCode": "040",
+    "districtCode": "11.08.030",
+    "name": "Reukih Keupula",
+    "alias": "Reukih Keupula"
+  },
+  {
+    "code": "11.08.030.041",
+    "villageCode": "041",
+    "districtCode": "11.08.030",
+    "name": "Lamleubok",
+    "alias": "Lamleubok"
+  },
+  {
+    "code": "11.08.030.042",
+    "villageCode": "042",
+    "districtCode": "11.08.030",
+    "name": "Lam Ilie Mesjid",
+    "alias": "Lam Ilie Mesjid"
+  },
+  {
+    "code": "11.08.030.043",
+    "villageCode": "043",
+    "districtCode": "11.08.030",
+    "name": "Empe Ara",
+    "alias": "Empe Ara"
+  },
+  {
+    "code": "11.08.030.044",
+    "villageCode": "044",
+    "districtCode": "11.08.030",
+    "name": "Ulee Kareung",
+    "alias": "Ulee Kareung"
+  },
+  {
+    "code": "11.08.030.045",
+    "villageCode": "045",
+    "districtCode": "11.08.030",
+    "name": "Seuremo",
+    "alias": "Seuremo"
+  },
+  {
+    "code": "11.08.030.046",
+    "villageCode": "046",
+    "districtCode": "11.08.030",
+    "name": "Meunara",
+    "alias": "Meunara"
+  },
+  {
+    "code": "11.08.030.047",
+    "villageCode": "047",
+    "districtCode": "11.08.030",
+    "name": "Lingom",
+    "alias": "Lingom"
+  },
+  {
+    "code": "11.08.030.048",
+    "villageCode": "048",
+    "districtCode": "11.08.030",
+    "name": "Lambunot",
+    "alias": "Lambunot"
+  },
+  {
+    "code": "11.08.030.049",
+    "villageCode": "049",
+    "districtCode": "11.08.030",
+    "name": "Lamsiot",
+    "alias": "Lamsiot"
+  },
+  {
+    "code": "11.08.030.050",
+    "villageCode": "050",
+    "districtCode": "11.08.030",
+    "name": "Ulee Ue",
+    "alias": "Ulee Ue"
+  },
+  {
+    "code": "11.08.030.051",
+    "villageCode": "051",
+    "districtCode": "11.08.030",
+    "name": "Jruek Bak Kreh",
+    "alias": "Jruek Bak Kreh"
+  },
+  {
+    "code": "11.08.030.052",
+    "villageCode": "052",
+    "districtCode": "11.08.030",
+    "name": "Jruek Balee",
+    "alias": "Jruek Balee"
+  },
+  {
+    "code": "11.08.030.053",
+    "villageCode": "053",
+    "districtCode": "11.08.030",
+    "name": "Grot Manyang",
+    "alias": "Grot Manyang"
+  },
+  {
+    "code": "11.08.030.054",
+    "villageCode": "054",
+    "districtCode": "11.08.030",
+    "name": "Grot Baro",
+    "alias": "Grot Baro"
+  },
+  {
+    "code": "11.08.030.055",
+    "villageCode": "055",
+    "districtCode": "11.08.030",
+    "name": "Mon Alue",
+    "alias": "Mon Alue"
+  },
+  {
+    "code": "11.08.030.056",
+    "villageCode": "056",
+    "districtCode": "11.08.030",
+    "name": "Grot Blang",
+    "alias": "Grot Blang"
+  },
+  {
+    "code": "11.08.030.057",
+    "villageCode": "057",
+    "districtCode": "11.08.030",
+    "name": "Seulangai",
+    "alias": "Seulangai"
+  },
+  {
+    "code": "11.08.030.058",
+    "villageCode": "058",
+    "districtCode": "11.08.030",
+    "name": "Lampupok Baro",
+    "alias": "Lampupok Baro"
+  },
+  {
+    "code": "11.08.030.059",
+    "villageCode": "059",
+    "districtCode": "11.08.030",
+    "name": "Lampupok Raya",
+    "alias": "Lampupok Raya"
+  },
+  {
+    "code": "11.08.030.060",
+    "villageCode": "060",
+    "districtCode": "11.08.030",
+    "name": "Lambeutong",
+    "alias": "Lambeutong"
+  },
+  {
+    "code": "11.08.030.061",
+    "villageCode": "061",
+    "districtCode": "11.08.030",
+    "name": "Limo Lamluweung",
+    "alias": "Limo Lamluweung"
+  },
+  {
+    "code": "11.08.030.062",
+    "villageCode": "062",
+    "districtCode": "11.08.030",
+    "name": "Limo Mesjid",
+    "alias": "Limo Mesjid"
+  },
+  {
+    "code": "11.08.030.063",
+    "villageCode": "063",
+    "districtCode": "11.08.030",
+    "name": "Limo Blang",
+    "alias": "Limo Blang"
+  },
+  {
+    "code": "11.08.030.064",
+    "villageCode": "064",
+    "districtCode": "11.08.030",
+    "name": "Cot Kareung",
+    "alias": "Cot Kareung"
+  },
+  {
+    "code": "11.08.030.065",
+    "villageCode": "065",
+    "districtCode": "11.08.030",
+    "name": "Cureh",
+    "alias": "Cureh"
+  },
+  {
+    "code": "11.08.030.066",
+    "villageCode": "066",
+    "districtCode": "11.08.030",
+    "name": "Lheue",
+    "alias": "Lheue"
+  },
+  {
+    "code": "11.08.030.067",
+    "villageCode": "067",
+    "districtCode": "11.08.030",
+    "name": "Mesalee",
+    "alias": "Mesalee"
+  },
+  {
+    "code": "11.08.030.068",
+    "villageCode": "068",
+    "districtCode": "11.08.030",
+    "name": "Lamlung",
+    "alias": "Lamlung"
+  },
+  {
+    "code": "11.08.030.069",
+    "villageCode": "069",
+    "districtCode": "11.08.030",
+    "name": "Mureu Ule Titie",
+    "alias": "Mureu Ule Titie"
+  },
+  {
+    "code": "11.08.030.070",
+    "villageCode": "070",
+    "districtCode": "11.08.030",
+    "name": "Mureu Bung U",
+    "alias": "Mureu Bung U"
+  },
+  {
+    "code": "11.08.030.071",
+    "villageCode": "071",
+    "districtCode": "11.08.030",
+    "name": "Mureu Baro",
+    "alias": "Mureu Baro"
+  },
+  {
+    "code": "11.08.030.072",
+    "villageCode": "072",
+    "districtCode": "11.08.030",
+    "name": "Mureu Lamglumpang",
+    "alias": "Mureu Lamglumpang"
+  },
+  {
+    "code": "11.08.030.073",
+    "villageCode": "073",
+    "districtCode": "11.08.030",
+    "name": "Manggra",
+    "alias": "Manggra"
+  }
+]

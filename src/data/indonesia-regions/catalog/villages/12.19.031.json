@@ -1,0 +1,72 @@
+[
+  {
+    "code": "12.19.031.001",
+    "villageCode": "001",
+    "districtCode": "12.19.031",
+    "name": "Petatal",
+    "alias": "Petatal"
+  },
+  {
+    "code": "12.19.031.002",
+    "villageCode": "002",
+    "districtCode": "12.19.031",
+    "name": "Perkebunan Tanah Datar",
+    "alias": "Perkebunan Tanah Datar"
+  },
+  {
+    "code": "12.19.031.003",
+    "villageCode": "003",
+    "districtCode": "12.19.031",
+    "name": "Karang Baru",
+    "alias": "Karang Baru"
+  },
+  {
+    "code": "12.19.031.004",
+    "villageCode": "004",
+    "districtCode": "12.19.031",
+    "name": "Bangun Sari",
+    "alias": "Bangun Sari"
+  },
+  {
+    "code": "12.19.031.005",
+    "villageCode": "005",
+    "districtCode": "12.19.031",
+    "name": "Binjai Baru",
+    "alias": "Binjai Baru"
+  },
+  {
+    "code": "12.19.031.006",
+    "villageCode": "006",
+    "districtCode": "12.19.031",
+    "name": "Sei Muka",
+    "alias": "Sei Muka"
+  },
+  {
+    "code": "12.19.031.007",
+    "villageCode": "007",
+    "districtCode": "12.19.031",
+    "name": "Perkebunan Petatal",
+    "alias": "Perkebunan Petatal"
+  },
+  {
+    "code": "12.19.031.008",
+    "villageCode": "008",
+    "districtCode": "12.19.031",
+    "name": "Glugur Makmur",
+    "alias": "Glugur Makmur"
+  },
+  {
+    "code": "12.19.031.009",
+    "villageCode": "009",
+    "districtCode": "12.19.031",
+    "name": "Mekar Baru",
+    "alias": "Mekar Baru"
+  },
+  {
+    "code": "12.19.031.010",
+    "villageCode": "010",
+    "districtCode": "12.19.031",
+    "name": "Sumber Tani",
+    "alias": "Sumber Tani"
+  }
+]

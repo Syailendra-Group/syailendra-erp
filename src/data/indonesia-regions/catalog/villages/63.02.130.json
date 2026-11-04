@@ -1,0 +1,72 @@
+[
+  {
+    "code": "63.02.130.001",
+    "villageCode": "001",
+    "districtCode": "63.02.130",
+    "name": "Mangkirana",
+    "alias": "Mangkirana"
+  },
+  {
+    "code": "63.02.130.002",
+    "villageCode": "002",
+    "districtCode": "63.02.130",
+    "name": "Cantung Kiri Hilir",
+    "alias": "Cantung Kiri Hilir"
+  },
+  {
+    "code": "63.02.130.003",
+    "villageCode": "003",
+    "districtCode": "63.02.130",
+    "name": "Banua Lawas",
+    "alias": "Banua Lawas"
+  },
+  {
+    "code": "63.02.130.004",
+    "villageCode": "004",
+    "districtCode": "63.02.130",
+    "name": "Sidomulyo",
+    "alias": "Sidomulyo"
+  },
+  {
+    "code": "63.02.130.005",
+    "villageCode": "005",
+    "districtCode": "63.02.130",
+    "name": "Karang Payau",
+    "alias": "Karang Payau"
+  },
+  {
+    "code": "63.02.130.006",
+    "villageCode": "006",
+    "districtCode": "63.02.130",
+    "name": "Sungai Kupang",
+    "alias": "Sungai Kupang"
+  },
+  {
+    "code": "63.02.130.007",
+    "villageCode": "007",
+    "districtCode": "63.02.130",
+    "name": "Bangkalan Melayu",
+    "alias": "Bangkalan Melayu"
+  },
+  {
+    "code": "63.02.130.008",
+    "villageCode": "008",
+    "districtCode": "63.02.130",
+    "name": "Karang Liwar",
+    "alias": "Karang Liwar"
+  },
+  {
+    "code": "63.02.130.009",
+    "villageCode": "009",
+    "districtCode": "63.02.130",
+    "name": "Bangkalan Dayak",
+    "alias": "Bangkalan Dayak"
+  },
+  {
+    "code": "63.02.130.010",
+    "villageCode": "010",
+    "districtCode": "63.02.130",
+    "name": "Laburan",
+    "alias": "Laburan"
+  }
+]

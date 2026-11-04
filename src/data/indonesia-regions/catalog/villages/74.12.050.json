@@ -1,0 +1,79 @@
+[
+  {
+    "code": "74.12.050.001",
+    "villageCode": "001",
+    "districtCode": "74.12.050",
+    "name": "Lawey",
+    "alias": "Lawey"
+  },
+  {
+    "code": "74.12.050.002",
+    "villageCode": "002",
+    "districtCode": "74.12.050",
+    "name": "Puuwatu",
+    "alias": "Puuwatu"
+  },
+  {
+    "code": "74.12.050.003",
+    "villageCode": "003",
+    "districtCode": "74.12.050",
+    "name": "Wawouso",
+    "alias": "Wawouso"
+  },
+  {
+    "code": "74.12.050.004",
+    "villageCode": "004",
+    "districtCode": "74.12.050",
+    "name": "Wawouso Baru",
+    "alias": "Wawouso Baru"
+  },
+  {
+    "code": "74.12.050.005",
+    "villageCode": "005",
+    "districtCode": "74.12.050",
+    "name": "Baku-Baku",
+    "alias": "Baku-Baku"
+  },
+  {
+    "code": "74.12.050.006",
+    "villageCode": "006",
+    "districtCode": "74.12.050",
+    "name": "Bobolio",
+    "alias": "Bobolio"
+  },
+  {
+    "code": "74.12.050.007",
+    "villageCode": "007",
+    "districtCode": "74.12.050",
+    "name": "Sawaea",
+    "alias": "Sawaea"
+  },
+  {
+    "code": "74.12.050.008",
+    "villageCode": "008",
+    "districtCode": "74.12.050",
+    "name": "Sawa Patani",
+    "alias": "Sawa Patani"
+  },
+  {
+    "code": "74.12.050.009",
+    "villageCode": "009",
+    "districtCode": "74.12.050",
+    "name": "Wungkolo",
+    "alias": "Wungkolo"
+  },
+  {
+    "code": "74.12.050.010",
+    "villageCode": "010",
+    "districtCode": "74.12.050",
+    "name": "Langara Jaya",
+    "alias": "Langara Jaya"
+  },
+  {
+    "code": "74.12.050.011",
+    "villageCode": "011",
+    "districtCode": "74.12.050",
+    "name": "Wawoone",
+    "alias": "Wawoone"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "code": "97.02.100.001",
+    "villageCode": "001",
+    "districtCode": "97.02.100",
+    "name": "Kepi",
+    "alias": "Kepi"
+  },
+  {
+    "code": "97.02.100.002",
+    "villageCode": "002",
+    "districtCode": "97.02.100",
+    "name": "Maima",
+    "alias": "Maima"
+  },
+  {
+    "code": "97.02.100.003",
+    "villageCode": "003",
+    "districtCode": "97.02.100",
+    "name": "Husewa",
+    "alias": "Husewa"
+  },
+  {
+    "code": "97.02.100.004",
+    "villageCode": "004",
+    "districtCode": "97.02.100",
+    "name": "Menagaima",
+    "alias": "Menagaima"
+  },
+  {
+    "code": "97.02.100.005",
+    "villageCode": "005",
+    "districtCode": "97.02.100",
+    "name": "Esiak",
+    "alias": "Esiak"
+  },
+  {
+    "code": "97.02.100.006",
+    "villageCode": "006",
+    "districtCode": "97.02.100",
+    "name": "Heraewa",
+    "alias": "Heraewa"
+  },
+  {
+    "code": "97.02.100.007",
+    "villageCode": "007",
+    "districtCode": "97.02.100",
+    "name": "Minimo",
+    "alias": "Minimo"
+  }
+]

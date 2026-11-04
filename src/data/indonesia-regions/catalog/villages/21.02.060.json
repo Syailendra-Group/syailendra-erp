@@ -1,0 +1,30 @@
+[
+  {
+    "code": "21.02.060.005",
+    "villageCode": "005",
+    "districtCode": "21.02.060",
+    "name": "Kijang Kota",
+    "alias": "Kijang Kota"
+  },
+  {
+    "code": "21.02.060.006",
+    "villageCode": "006",
+    "districtCode": "21.02.060",
+    "name": "Sungai Enam",
+    "alias": "Sungai Enam"
+  },
+  {
+    "code": "21.02.060.007",
+    "villageCode": "007",
+    "districtCode": "21.02.060",
+    "name": "Gunung Lengkuas",
+    "alias": "Gunung Lengkuas"
+  },
+  {
+    "code": "21.02.060.008",
+    "villageCode": "008",
+    "districtCode": "21.02.060",
+    "name": "Sungai Lekop",
+    "alias": "Sungai Lekop"
+  }
+]

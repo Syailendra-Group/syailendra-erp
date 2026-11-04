@@ -1,0 +1,226 @@
+[
+  {
+    "code": "53.11.020.004",
+    "villageCode": "004",
+    "districtCode": "53.11.020",
+    "name": "Ndetundora I",
+    "alias": "Ndetundora I"
+  },
+  {
+    "code": "53.11.020.005",
+    "villageCode": "005",
+    "districtCode": "53.11.020",
+    "name": "Randotonda",
+    "alias": "Randotonda"
+  },
+  {
+    "code": "53.11.020.006",
+    "villageCode": "006",
+    "districtCode": "53.11.020",
+    "name": "Raburia",
+    "alias": "Raburia"
+  },
+  {
+    "code": "53.11.020.007",
+    "villageCode": "007",
+    "districtCode": "53.11.020",
+    "name": "Tomberabu I",
+    "alias": "Tomberabu I"
+  },
+  {
+    "code": "53.11.020.008",
+    "villageCode": "008",
+    "districtCode": "53.11.020",
+    "name": "Tomberabu Ii",
+    "alias": "Tomberabu Ii"
+  },
+  {
+    "code": "53.11.020.009",
+    "villageCode": "009",
+    "districtCode": "53.11.020",
+    "name": "Tinabani",
+    "alias": "Tinabani"
+  },
+  {
+    "code": "53.11.020.010",
+    "villageCode": "010",
+    "districtCode": "53.11.020",
+    "name": "Wologai",
+    "alias": "Wologai"
+  },
+  {
+    "code": "53.11.020.011",
+    "villageCode": "011",
+    "districtCode": "53.11.020",
+    "name": "Mbotutenda",
+    "alias": "Mbotutenda"
+  },
+  {
+    "code": "53.11.020.012",
+    "villageCode": "012",
+    "districtCode": "53.11.020",
+    "name": "Jamokeasa",
+    "alias": "Jamokeasa"
+  },
+  {
+    "code": "53.11.020.013",
+    "villageCode": "013",
+    "districtCode": "53.11.020",
+    "name": "Ndetundora Ii",
+    "alias": "Ndetundora Ii"
+  },
+  {
+    "code": "53.11.020.014",
+    "villageCode": "014",
+    "districtCode": "53.11.020",
+    "name": "Emburia",
+    "alias": "Emburia"
+  },
+  {
+    "code": "53.11.020.015",
+    "villageCode": "015",
+    "districtCode": "53.11.020",
+    "name": "Riaraja",
+    "alias": "Riaraja"
+  },
+  {
+    "code": "53.11.020.016",
+    "villageCode": "016",
+    "districtCode": "53.11.020",
+    "name": "Wolokaro",
+    "alias": "Wolokaro"
+  },
+  {
+    "code": "53.11.020.017",
+    "villageCode": "017",
+    "districtCode": "53.11.020",
+    "name": "Rukuramba",
+    "alias": "Rukuramba"
+  },
+  {
+    "code": "53.11.020.018",
+    "villageCode": "018",
+    "districtCode": "53.11.020",
+    "name": "Nakuramba",
+    "alias": "Nakuramba"
+  },
+  {
+    "code": "53.11.020.019",
+    "villageCode": "019",
+    "districtCode": "53.11.020",
+    "name": "Ndetundora Iii",
+    "alias": "Ndetundora Iii"
+  },
+  {
+    "code": "53.11.020.020",
+    "villageCode": "020",
+    "districtCode": "53.11.020",
+    "name": "Tonggopapa",
+    "alias": "Tonggopapa"
+  },
+  {
+    "code": "53.11.020.021",
+    "villageCode": "021",
+    "districtCode": "53.11.020",
+    "name": "Uzuramba",
+    "alias": "Uzuramba"
+  },
+  {
+    "code": "53.11.020.022",
+    "villageCode": "022",
+    "districtCode": "53.11.020",
+    "name": "Randorama",
+    "alias": "Randorama"
+  },
+  {
+    "code": "53.11.020.023",
+    "villageCode": "023",
+    "districtCode": "53.11.020",
+    "name": "Tendambonggi",
+    "alias": "Tendambonggi"
+  },
+  {
+    "code": "53.11.020.024",
+    "villageCode": "024",
+    "districtCode": "53.11.020",
+    "name": "Wologai Dua",
+    "alias": "Wologai Dua"
+  },
+  {
+    "code": "53.11.020.025",
+    "villageCode": "025",
+    "districtCode": "53.11.020",
+    "name": "Worhopapa",
+    "alias": "Worhopapa"
+  },
+  {
+    "code": "53.11.020.026",
+    "villageCode": "026",
+    "districtCode": "53.11.020",
+    "name": "Nuaja",
+    "alias": "Nuaja"
+  },
+  {
+    "code": "53.11.020.027",
+    "villageCode": "027",
+    "districtCode": "53.11.020",
+    "name": "Embu Ngena",
+    "alias": "Embu Ngena"
+  },
+  {
+    "code": "53.11.020.028",
+    "villageCode": "028",
+    "districtCode": "53.11.020",
+    "name": "Embutheru",
+    "alias": "Embutheru"
+  },
+  {
+    "code": "53.11.020.029",
+    "villageCode": "029",
+    "districtCode": "53.11.020",
+    "name": "Wawonato",
+    "alias": "Wawonato"
+  },
+  {
+    "code": "53.11.020.030",
+    "villageCode": "030",
+    "districtCode": "53.11.020",
+    "name": "Jejaraja",
+    "alias": "Jejaraja"
+  },
+  {
+    "code": "53.11.020.031",
+    "villageCode": "031",
+    "districtCode": "53.11.020",
+    "name": "Wajakea Jaya",
+    "alias": "Wajakea Jaya"
+  },
+  {
+    "code": "53.11.020.032",
+    "villageCode": "032",
+    "districtCode": "53.11.020",
+    "name": "Nemboramba",
+    "alias": "Nemboramba"
+  },
+  {
+    "code": "53.11.020.033",
+    "villageCode": "033",
+    "districtCode": "53.11.020",
+    "name": "Ranoramba",
+    "alias": "Ranoramba"
+  },
+  {
+    "code": "53.11.020.034",
+    "villageCode": "034",
+    "districtCode": "53.11.020",
+    "name": "Peozakaramba",
+    "alias": "Peozakaramba"
+  },
+  {
+    "code": "53.11.020.035",
+    "villageCode": "035",
+    "districtCode": "53.11.020",
+    "name": "Uzuramba Barat",
+    "alias": "Uzuramba Barat"
+  }
+]

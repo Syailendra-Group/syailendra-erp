@@ -1,0 +1,79 @@
+[
+  {
+    "code": "63.03.090.001",
+    "villageCode": "001",
+    "districtCode": "63.03.090",
+    "name": "Hakim Makmur",
+    "alias": "Hakim Makmur"
+  },
+  {
+    "code": "63.03.090.002",
+    "villageCode": "002",
+    "districtCode": "63.03.090",
+    "name": "Kahelaan",
+    "alias": "Kahelaan"
+  },
+  {
+    "code": "63.03.090.003",
+    "villageCode": "003",
+    "districtCode": "63.03.090",
+    "name": "Sumber Baru",
+    "alias": "Sumber Baru"
+  },
+  {
+    "code": "63.03.090.004",
+    "villageCode": "004",
+    "districtCode": "63.03.090",
+    "name": "Sumber Harapan",
+    "alias": "Sumber Harapan"
+  },
+  {
+    "code": "63.03.090.005",
+    "villageCode": "005",
+    "districtCode": "63.03.090",
+    "name": "Kupang Rejo",
+    "alias": "Kupang Rejo"
+  },
+  {
+    "code": "63.03.090.006",
+    "villageCode": "006",
+    "districtCode": "63.03.090",
+    "name": "Sungai Pinang",
+    "alias": "Sungai Pinang"
+  },
+  {
+    "code": "63.03.090.007",
+    "villageCode": "007",
+    "districtCode": "63.03.090",
+    "name": "Pakutik",
+    "alias": "Pakutik"
+  },
+  {
+    "code": "63.03.090.008",
+    "villageCode": "008",
+    "districtCode": "63.03.090",
+    "name": "Rantau Nangka",
+    "alias": "Rantau Nangka"
+  },
+  {
+    "code": "63.03.090.009",
+    "villageCode": "009",
+    "districtCode": "63.03.090",
+    "name": "Rantau Bakula",
+    "alias": "Rantau Bakula"
+  },
+  {
+    "code": "63.03.090.010",
+    "villageCode": "010",
+    "districtCode": "63.03.090",
+    "name": "Belimbing Lama",
+    "alias": "Belimbing Lama"
+  },
+  {
+    "code": "63.03.090.011",
+    "villageCode": "011",
+    "districtCode": "63.03.090",
+    "name": "Belimbing Baru",
+    "alias": "Belimbing Baru"
+  }
+]

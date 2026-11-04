@@ -1,0 +1,72 @@
+[
+  {
+    "code": "74.06.060.001",
+    "villageCode": "001",
+    "districtCode": "74.06.060",
+    "name": "Boeara",
+    "alias": "Boeara"
+  },
+  {
+    "code": "74.06.060.002",
+    "villageCode": "002",
+    "districtCode": "74.06.060",
+    "name": "Pukurumba",
+    "alias": "Pukurumba"
+  },
+  {
+    "code": "74.06.060.003",
+    "villageCode": "003",
+    "districtCode": "74.06.060",
+    "name": "Kastarib",
+    "alias": "Kastarib"
+  },
+  {
+    "code": "74.06.060.004",
+    "villageCode": "004",
+    "districtCode": "74.06.060",
+    "name": "Barangga",
+    "alias": "Barangga"
+  },
+  {
+    "code": "74.06.060.005",
+    "villageCode": "005",
+    "districtCode": "74.06.060",
+    "name": "Boepinang",
+    "alias": "Boepinang"
+  },
+  {
+    "code": "74.06.060.006",
+    "villageCode": "006",
+    "districtCode": "74.06.060",
+    "name": "Pallimae",
+    "alias": "Pallimae"
+  },
+  {
+    "code": "74.06.060.007",
+    "villageCode": "007",
+    "districtCode": "74.06.060",
+    "name": "Salosa",
+    "alias": "Salosa"
+  },
+  {
+    "code": "74.06.060.008",
+    "villageCode": "008",
+    "districtCode": "74.06.060",
+    "name": "Boepinang Barat",
+    "alias": "Boepinang Barat"
+  },
+  {
+    "code": "74.06.060.009",
+    "villageCode": "009",
+    "districtCode": "74.06.060",
+    "name": "Kasabolo",
+    "alias": "Kasabolo"
+  },
+  {
+    "code": "74.06.060.010",
+    "villageCode": "010",
+    "districtCode": "74.06.060",
+    "name": "Mattirowalie",
+    "alias": "Mattirowalie"
+  }
+]

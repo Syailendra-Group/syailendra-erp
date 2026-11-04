@@ -1,0 +1,37 @@
+[
+  {
+    "code": "34.04.170.001",
+    "villageCode": "001",
+    "districtCode": "34.04.170",
+    "name": "Wukir Sari",
+    "alias": "Wukir Sari"
+  },
+  {
+    "code": "34.04.170.002",
+    "villageCode": "002",
+    "districtCode": "34.04.170",
+    "name": "Argo Mulyo",
+    "alias": "Argo Mulyo"
+  },
+  {
+    "code": "34.04.170.003",
+    "villageCode": "003",
+    "districtCode": "34.04.170",
+    "name": "Glagah Harjo",
+    "alias": "Glagah Harjo"
+  },
+  {
+    "code": "34.04.170.004",
+    "villageCode": "004",
+    "districtCode": "34.04.170",
+    "name": "Kepuh Harjo",
+    "alias": "Kepuh Harjo"
+  },
+  {
+    "code": "34.04.170.005",
+    "villageCode": "005",
+    "districtCode": "34.04.170",
+    "name": "Umbul Harjo",
+    "alias": "Umbul Harjo"
+  }
+]

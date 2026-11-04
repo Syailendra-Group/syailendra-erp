@@ -1,0 +1,100 @@
+[
+  {
+    "code": "32.10.050.001",
+    "villageCode": "001",
+    "districtCode": "32.10.050",
+    "name": "Sagara",
+    "alias": "Sagara"
+  },
+  {
+    "code": "32.10.050.002",
+    "villageCode": "002",
+    "districtCode": "32.10.050",
+    "name": "Cibunut",
+    "alias": "Cibunut"
+  },
+  {
+    "code": "32.10.050.003",
+    "villageCode": "003",
+    "districtCode": "32.10.050",
+    "name": "Tejamulya",
+    "alias": "Tejamulya"
+  },
+  {
+    "code": "32.10.050.004",
+    "villageCode": "004",
+    "districtCode": "32.10.050",
+    "name": "Sukasari Kidul",
+    "alias": "Sukasari Kidul"
+  },
+  {
+    "code": "32.10.050.005",
+    "villageCode": "005",
+    "districtCode": "32.10.050",
+    "name": "Sukasari Kaler",
+    "alias": "Sukasari Kaler"
+  },
+  {
+    "code": "32.10.050.006",
+    "villageCode": "006",
+    "districtCode": "32.10.050",
+    "name": "Sadasari",
+    "alias": "Sadasari"
+  },
+  {
+    "code": "32.10.050.007",
+    "villageCode": "007",
+    "districtCode": "32.10.050",
+    "name": "Sukadana",
+    "alias": "Sukadana"
+  },
+  {
+    "code": "32.10.050.008",
+    "villageCode": "008",
+    "districtCode": "32.10.050",
+    "name": "Argamukti",
+    "alias": "Argamukti"
+  },
+  {
+    "code": "32.10.050.009",
+    "villageCode": "009",
+    "districtCode": "32.10.050",
+    "name": "Argalingga",
+    "alias": "Argalingga"
+  },
+  {
+    "code": "32.10.050.010",
+    "villageCode": "010",
+    "districtCode": "32.10.050",
+    "name": "Haurseah",
+    "alias": "Haurseah"
+  },
+  {
+    "code": "32.10.050.011",
+    "villageCode": "011",
+    "districtCode": "32.10.050",
+    "name": "Gunungwangi",
+    "alias": "Gunungwangi"
+  },
+  {
+    "code": "32.10.050.012",
+    "villageCode": "012",
+    "districtCode": "32.10.050",
+    "name": "Mekarwangi",
+    "alias": "Mekarwangi"
+  },
+  {
+    "code": "32.10.050.013",
+    "villageCode": "013",
+    "districtCode": "32.10.050",
+    "name": "Heubeulisuk",
+    "alias": "Heubeulisuk"
+  },
+  {
+    "code": "32.10.050.014",
+    "villageCode": "014",
+    "districtCode": "32.10.050",
+    "name": "Cikaracak",
+    "alias": "Cikaracak"
+  }
+]

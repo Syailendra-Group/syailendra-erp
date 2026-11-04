@@ -1,0 +1,79 @@
+[
+  {
+    "code": "32.08.171.001",
+    "villageCode": "001",
+    "districtCode": "32.08.171",
+    "name": "Sangkanurip",
+    "alias": "Sangkanurip"
+  },
+  {
+    "code": "32.08.171.002",
+    "villageCode": "002",
+    "districtCode": "32.08.171",
+    "name": "Sangkanmulya",
+    "alias": "Sangkanmulya"
+  },
+  {
+    "code": "32.08.171.003",
+    "villageCode": "003",
+    "districtCode": "32.08.171",
+    "name": "Karangmuncang",
+    "alias": "Karangmuncang"
+  },
+  {
+    "code": "32.08.171.004",
+    "villageCode": "004",
+    "districtCode": "32.08.171",
+    "name": "Koreak",
+    "alias": "Koreak"
+  },
+  {
+    "code": "32.08.171.005",
+    "villageCode": "005",
+    "districtCode": "32.08.171",
+    "name": "Jambugeulis",
+    "alias": "Jambugeulis"
+  },
+  {
+    "code": "32.08.171.006",
+    "villageCode": "006",
+    "districtCode": "32.08.171",
+    "name": "Bunigeulis",
+    "alias": "Bunigeulis"
+  },
+  {
+    "code": "32.08.171.007",
+    "villageCode": "007",
+    "districtCode": "32.08.171",
+    "name": "Babakanjati",
+    "alias": "Babakanjati"
+  },
+  {
+    "code": "32.08.171.008",
+    "villageCode": "008",
+    "districtCode": "32.08.171",
+    "name": "Timbang",
+    "alias": "Timbang"
+  },
+  {
+    "code": "32.08.171.009",
+    "villageCode": "009",
+    "districtCode": "32.08.171",
+    "name": "Panawuan",
+    "alias": "Panawuan"
+  },
+  {
+    "code": "32.08.171.010",
+    "villageCode": "010",
+    "districtCode": "32.08.171",
+    "name": "Indapatra",
+    "alias": "Indapatra"
+  },
+  {
+    "code": "32.08.171.011",
+    "villageCode": "011",
+    "districtCode": "32.08.171",
+    "name": "Cibuntu",
+    "alias": "Cibuntu"
+  }
+]

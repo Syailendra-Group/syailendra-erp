@@ -1,0 +1,72 @@
+[
+  {
+    "code": "11.03.012.001",
+    "villageCode": "001",
+    "districtCode": "11.03.012",
+    "name": "Lhok Raya",
+    "alias": "Lhok Raya"
+  },
+  {
+    "code": "11.03.012.002",
+    "villageCode": "002",
+    "districtCode": "11.03.012",
+    "name": "Ie Jeureuneh",
+    "alias": "Ie Jeureuneh"
+  },
+  {
+    "code": "11.03.012.003",
+    "villageCode": "003",
+    "districtCode": "11.03.012",
+    "name": "Naca",
+    "alias": "Naca"
+  },
+  {
+    "code": "11.03.012.004",
+    "villageCode": "004",
+    "districtCode": "11.03.012",
+    "name": "Cot Bayu",
+    "alias": "Cot Bayu"
+  },
+  {
+    "code": "11.03.012.005",
+    "villageCode": "005",
+    "districtCode": "11.03.012",
+    "name": "Jambo Papeun",
+    "alias": "Jambo Papeun"
+  },
+  {
+    "code": "11.03.012.006",
+    "villageCode": "006",
+    "districtCode": "11.03.012",
+    "name": "Ladang Rimba",
+    "alias": "Ladang Rimba"
+  },
+  {
+    "code": "11.03.012.007",
+    "villageCode": "007",
+    "districtCode": "11.03.012",
+    "name": "Pulo Paya",
+    "alias": "Pulo Paya"
+  },
+  {
+    "code": "11.03.012.008",
+    "villageCode": "008",
+    "districtCode": "11.03.012",
+    "name": "Krueng Batee",
+    "alias": "Krueng Batee"
+  },
+  {
+    "code": "11.03.012.009",
+    "villageCode": "009",
+    "districtCode": "11.03.012",
+    "name": "Kampong Teungoh",
+    "alias": "Kampong Teungoh"
+  },
+  {
+    "code": "11.03.012.010",
+    "villageCode": "010",
+    "districtCode": "11.03.012",
+    "name": "Gunong Kapho",
+    "alias": "Gunong Kapho"
+  }
+]

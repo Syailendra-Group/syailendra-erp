@@ -1,0 +1,72 @@
+[
+  {
+    "code": "94.26.023.001",
+    "villageCode": "001",
+    "districtCode": "94.26.023",
+    "name": "Mambai",
+    "alias": "Mambai"
+  },
+  {
+    "code": "94.26.023.002",
+    "villageCode": "002",
+    "districtCode": "94.26.023",
+    "name": "Napani",
+    "alias": "Napani"
+  },
+  {
+    "code": "94.26.023.003",
+    "villageCode": "003",
+    "districtCode": "94.26.023",
+    "name": "Soyoi",
+    "alias": "Soyoi"
+  },
+  {
+    "code": "94.26.023.004",
+    "villageCode": "004",
+    "districtCode": "94.26.023",
+    "name": "Daimboa",
+    "alias": "Daimboa"
+  },
+  {
+    "code": "94.26.023.005",
+    "villageCode": "005",
+    "districtCode": "94.26.023",
+    "name": "Wainarisi",
+    "alias": "Wainarisi"
+  },
+  {
+    "code": "94.26.023.006",
+    "villageCode": "006",
+    "districtCode": "94.26.023",
+    "name": "Fafarui",
+    "alias": "Fafarui"
+  },
+  {
+    "code": "94.26.023.007",
+    "villageCode": "007",
+    "districtCode": "94.26.023",
+    "name": "Segha",
+    "alias": "Segha"
+  },
+  {
+    "code": "94.26.023.008",
+    "villageCode": "008",
+    "districtCode": "94.26.023",
+    "name": "Sinabo",
+    "alias": "Sinabo"
+  },
+  {
+    "code": "94.26.023.009",
+    "villageCode": "009",
+    "districtCode": "94.26.023",
+    "name": "Dawoa",
+    "alias": "Dawoa"
+  },
+  {
+    "code": "94.26.023.010",
+    "villageCode": "010",
+    "districtCode": "94.26.023",
+    "name": "Woinui",
+    "alias": "Woinui"
+  }
+]

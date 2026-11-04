@@ -1,0 +1,122 @@
+[
+  {
+    "code": "12.10.030",
+    "districtCode": "030",
+    "regencyCode": "12.10",
+    "provinceCode": "12",
+    "name": "Kecamatan Sidikalang",
+    "alias": "Sidikalang"
+  },
+  {
+    "code": "12.10.031",
+    "districtCode": "031",
+    "regencyCode": "12.10",
+    "provinceCode": "12",
+    "name": "Kecamatan Berampu",
+    "alias": "Berampu"
+  },
+  {
+    "code": "12.10.032",
+    "districtCode": "032",
+    "regencyCode": "12.10",
+    "provinceCode": "12",
+    "name": "Kecamatan Sitinjo",
+    "alias": "Sitinjo"
+  },
+  {
+    "code": "12.10.040",
+    "districtCode": "040",
+    "regencyCode": "12.10",
+    "provinceCode": "12",
+    "name": "Kecamatan Parbuluan",
+    "alias": "Parbuluan"
+  },
+  {
+    "code": "12.10.050",
+    "districtCode": "050",
+    "regencyCode": "12.10",
+    "provinceCode": "12",
+    "name": "Kecamatan Sumbul",
+    "alias": "Sumbul"
+  },
+  {
+    "code": "12.10.051",
+    "districtCode": "051",
+    "regencyCode": "12.10",
+    "provinceCode": "12",
+    "name": "Kecamatan Silahisabungan",
+    "alias": "Silahisabungan"
+  },
+  {
+    "code": "12.10.060",
+    "districtCode": "060",
+    "regencyCode": "12.10",
+    "provinceCode": "12",
+    "name": "Kecamatan Silima Pungga-Pungga",
+    "alias": "Silima Pungga-Pungga"
+  },
+  {
+    "code": "12.10.061",
+    "districtCode": "061",
+    "regencyCode": "12.10",
+    "provinceCode": "12",
+    "name": "Kecamatan Lae Parira",
+    "alias": "Lae Parira"
+  },
+  {
+    "code": "12.10.070",
+    "districtCode": "070",
+    "regencyCode": "12.10",
+    "provinceCode": "12",
+    "name": "Kecamatan Siempat Nempu",
+    "alias": "Siempat Nempu"
+  },
+  {
+    "code": "12.10.080",
+    "districtCode": "080",
+    "regencyCode": "12.10",
+    "provinceCode": "12",
+    "name": "Kecamatan Siempat Nempu Hulu",
+    "alias": "Siempat Nempu Hulu"
+  },
+  {
+    "code": "12.10.090",
+    "districtCode": "090",
+    "regencyCode": "12.10",
+    "provinceCode": "12",
+    "name": "Kecamatan Siempat Nempu Hilir",
+    "alias": "Siempat Nempu Hilir"
+  },
+  {
+    "code": "12.10.100",
+    "districtCode": "100",
+    "regencyCode": "12.10",
+    "provinceCode": "12",
+    "name": "Kecamatan Tiga Lingga",
+    "alias": "Tiga Lingga"
+  },
+  {
+    "code": "12.10.101",
+    "districtCode": "101",
+    "regencyCode": "12.10",
+    "provinceCode": "12",
+    "name": "Kecamatan Gunung Sitember",
+    "alias": "Gunung Sitember"
+  },
+  {
+    "code": "12.10.110",
+    "districtCode": "110",
+    "regencyCode": "12.10",
+    "provinceCode": "12",
+    "name": "Kecamatan Pegagan Hilir",
+    "alias": "Pegagan Hilir"
+  },
+  {
+    "code": "12.10.120",
+    "districtCode": "120",
+    "regencyCode": "12.10",
+    "provinceCode": "12",
+    "name": "Kecamatan Tanah Pinem",
+    "alias": "Tanah Pinem"
+  }
+]

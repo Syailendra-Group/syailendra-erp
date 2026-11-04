@@ -1,0 +1,44 @@
+[
+  {
+    "code": "74.71.023.001",
+    "villageCode": "001",
+    "districtCode": "74.71.023",
+    "name": "Tobimeita",
+    "alias": "Tobimeita"
+  },
+  {
+    "code": "74.71.023.002",
+    "villageCode": "002",
+    "districtCode": "74.71.023",
+    "name": "Petoaha",
+    "alias": "Petoaha"
+  },
+  {
+    "code": "74.71.023.003",
+    "villageCode": "003",
+    "districtCode": "74.71.023",
+    "name": "Nambo",
+    "alias": "Nambo"
+  },
+  {
+    "code": "74.71.023.004",
+    "villageCode": "004",
+    "districtCode": "74.71.023",
+    "name": "Sambuli",
+    "alias": "Sambuli"
+  },
+  {
+    "code": "74.71.023.005",
+    "villageCode": "005",
+    "districtCode": "74.71.023",
+    "name": "Tondonggeu",
+    "alias": "Tondonggeu"
+  },
+  {
+    "code": "74.71.023.006",
+    "villageCode": "006",
+    "districtCode": "74.71.023",
+    "name": "Bungkutoko",
+    "alias": "Bungkutoko"
+  }
+]

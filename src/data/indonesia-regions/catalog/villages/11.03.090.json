@@ -1,0 +1,114 @@
+[
+  {
+    "code": "11.03.090.010",
+    "villageCode": "010",
+    "districtCode": "11.03.090",
+    "name": "Padang Baru",
+    "alias": "Padang Baru"
+  },
+  {
+    "code": "11.03.090.011",
+    "villageCode": "011",
+    "districtCode": "11.03.090",
+    "name": "Lembah Baru",
+    "alias": "Lembah Baru"
+  },
+  {
+    "code": "11.03.090.012",
+    "villageCode": "012",
+    "districtCode": "11.03.090",
+    "name": "Tengah Baru",
+    "alias": "Tengah Baru"
+  },
+  {
+    "code": "11.03.090.013",
+    "villageCode": "013",
+    "districtCode": "11.03.090",
+    "name": "Pawoh",
+    "alias": "Pawoh"
+  },
+  {
+    "code": "11.03.090.014",
+    "villageCode": "014",
+    "districtCode": "11.03.090",
+    "name": "Apha",
+    "alias": "Apha"
+  },
+  {
+    "code": "11.03.090.015",
+    "villageCode": "015",
+    "districtCode": "11.03.090",
+    "name": "Pasar Lama",
+    "alias": "Pasar Lama"
+  },
+  {
+    "code": "11.03.090.016",
+    "villageCode": "016",
+    "districtCode": "11.03.090",
+    "name": "Padang Bakau",
+    "alias": "Padang Bakau"
+  },
+  {
+    "code": "11.03.090.028",
+    "villageCode": "028",
+    "districtCode": "11.03.090",
+    "name": "Bakau Hulu",
+    "alias": "Bakau Hulu"
+  },
+  {
+    "code": "11.03.090.029",
+    "villageCode": "029",
+    "districtCode": "11.03.090",
+    "name": "Manggis Harapan",
+    "alias": "Manggis Harapan"
+  },
+  {
+    "code": "11.03.090.030",
+    "villageCode": "030",
+    "districtCode": "11.03.090",
+    "name": "Ujung Batu",
+    "alias": "Ujung Batu"
+  },
+  {
+    "code": "11.03.090.031",
+    "villageCode": "031",
+    "districtCode": "11.03.090",
+    "name": "Dalam",
+    "alias": "Dalam"
+  },
+  {
+    "code": "11.03.090.032",
+    "villageCode": "032",
+    "districtCode": "11.03.090",
+    "name": "Kota Palak",
+    "alias": "Kota Palak"
+  },
+  {
+    "code": "11.03.090.033",
+    "villageCode": "033",
+    "districtCode": "11.03.090",
+    "name": "Cacang",
+    "alias": "Cacang"
+  },
+  {
+    "code": "11.03.090.034",
+    "villageCode": "034",
+    "districtCode": "11.03.090",
+    "name": "Tengah Pisang",
+    "alias": "Tengah Pisang"
+  },
+  {
+    "code": "11.03.090.035",
+    "villageCode": "035",
+    "districtCode": "11.03.090",
+    "name": "Pisang",
+    "alias": "Pisang"
+  },
+  {
+    "code": "11.03.090.036",
+    "villageCode": "036",
+    "districtCode": "11.03.090",
+    "name": "Hulu Pisang",
+    "alias": "Hulu Pisang"
+  }
+]

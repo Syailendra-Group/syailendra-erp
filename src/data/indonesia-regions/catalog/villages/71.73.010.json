@@ -1,0 +1,86 @@
+[
+  {
+    "code": "71.73.010.001",
+    "villageCode": "001",
+    "districtCode": "71.73.010",
+    "name": "Tondangow",
+    "alias": "Tondangow"
+  },
+  {
+    "code": "71.73.010.002",
+    "villageCode": "002",
+    "districtCode": "71.73.010",
+    "name": "Pangolombian",
+    "alias": "Pangolombian"
+  },
+  {
+    "code": "71.73.010.003",
+    "villageCode": "003",
+    "districtCode": "71.73.010",
+    "name": "Lahendong",
+    "alias": "Lahendong"
+  },
+  {
+    "code": "71.73.010.004",
+    "villageCode": "004",
+    "districtCode": "71.73.010",
+    "name": "Pinaras",
+    "alias": "Pinaras"
+  },
+  {
+    "code": "71.73.010.005",
+    "villageCode": "005",
+    "districtCode": "71.73.010",
+    "name": "Kampung Jawa",
+    "alias": "Kampung Jawa"
+  },
+  {
+    "code": "71.73.010.006",
+    "villageCode": "006",
+    "districtCode": "71.73.010",
+    "name": "Tumatangtang",
+    "alias": "Tumatangtang"
+  },
+  {
+    "code": "71.73.010.007",
+    "villageCode": "007",
+    "districtCode": "71.73.010",
+    "name": "Lansot",
+    "alias": "Lansot"
+  },
+  {
+    "code": "71.73.010.008",
+    "villageCode": "008",
+    "districtCode": "71.73.010",
+    "name": "Uluindano",
+    "alias": "Uluindano"
+  },
+  {
+    "code": "71.73.010.009",
+    "villageCode": "009",
+    "districtCode": "71.73.010",
+    "name": "Walian",
+    "alias": "Walian"
+  },
+  {
+    "code": "71.73.010.010",
+    "villageCode": "010",
+    "districtCode": "71.73.010",
+    "name": "Walian Satu",
+    "alias": "Walian Satu"
+  },
+  {
+    "code": "71.73.010.011",
+    "villageCode": "011",
+    "districtCode": "71.73.010",
+    "name": "Walian Dua",
+    "alias": "Walian Dua"
+  },
+  {
+    "code": "71.73.010.012",
+    "villageCode": "012",
+    "districtCode": "71.73.010",
+    "name": "Tumatangtang Satu",
+    "alias": "Tumatangtang Satu"
+  }
+]

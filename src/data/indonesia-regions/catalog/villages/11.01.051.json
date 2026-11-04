@@ -1,0 +1,58 @@
+[
+  {
+    "code": "11.01.051.001",
+    "villageCode": "001",
+    "districtCode": "11.01.051",
+    "name": "Lafakha",
+    "alias": "Lafakha"
+  },
+  {
+    "code": "11.01.051.002",
+    "villageCode": "002",
+    "districtCode": "11.01.051",
+    "name": "Lhok Dalam",
+    "alias": "Lhok Dalam"
+  },
+  {
+    "code": "11.01.051.003",
+    "villageCode": "003",
+    "districtCode": "11.01.051",
+    "name": "Lubuk Baik",
+    "alias": "Lubuk Baik"
+  },
+  {
+    "code": "11.01.051.004",
+    "villageCode": "004",
+    "districtCode": "11.01.051",
+    "name": "Langi",
+    "alias": "Langi"
+  },
+  {
+    "code": "11.01.051.005",
+    "villageCode": "005",
+    "districtCode": "11.01.051",
+    "name": "Serafon",
+    "alias": "Serafon"
+  },
+  {
+    "code": "11.01.051.006",
+    "villageCode": "006",
+    "districtCode": "11.01.051",
+    "name": "Lhok Pauh",
+    "alias": "Lhok Pauh"
+  },
+  {
+    "code": "11.01.051.007",
+    "villageCode": "007",
+    "districtCode": "11.01.051",
+    "name": "Lamerem",
+    "alias": "Lamerem"
+  },
+  {
+    "code": "11.01.051.008",
+    "villageCode": "008",
+    "districtCode": "11.01.051",
+    "name": "Lewak",
+    "alias": "Lewak"
+  }
+]

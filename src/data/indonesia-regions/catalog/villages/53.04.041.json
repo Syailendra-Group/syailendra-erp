@@ -1,0 +1,51 @@
+[
+  {
+    "code": "53.04.041.001",
+    "villageCode": "001",
+    "districtCode": "53.04.041",
+    "name": "Oebobo",
+    "alias": "Oebobo"
+  },
+  {
+    "code": "53.04.041.002",
+    "villageCode": "002",
+    "districtCode": "53.04.041",
+    "name": "Tuppan",
+    "alias": "Tuppan"
+  },
+  {
+    "code": "53.04.041.003",
+    "villageCode": "003",
+    "districtCode": "53.04.041",
+    "name": "Boentuka",
+    "alias": "Boentuka"
+  },
+  {
+    "code": "53.04.041.004",
+    "villageCode": "004",
+    "districtCode": "53.04.041",
+    "name": "Oehala",
+    "alias": "Oehala"
+  },
+  {
+    "code": "53.04.041.005",
+    "villageCode": "005",
+    "districtCode": "53.04.041",
+    "name": "Tuakole",
+    "alias": "Tuakole"
+  },
+  {
+    "code": "53.04.041.006",
+    "villageCode": "006",
+    "districtCode": "53.04.041",
+    "name": "Hane",
+    "alias": "Hane"
+  },
+  {
+    "code": "53.04.041.007",
+    "villageCode": "007",
+    "districtCode": "53.04.041",
+    "name": "Benlutu",
+    "alias": "Benlutu"
+  }
+]

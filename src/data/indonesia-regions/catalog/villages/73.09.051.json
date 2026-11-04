@@ -1,0 +1,44 @@
+[
+  {
+    "code": "73.09.051.001",
+    "villageCode": "001",
+    "districtCode": "73.09.051",
+    "name": "Bulu Tellue",
+    "alias": "Bulu Tellue"
+  },
+  {
+    "code": "73.09.051.002",
+    "villageCode": "002",
+    "districtCode": "73.09.051",
+    "name": "Malaka",
+    "alias": "Malaka"
+  },
+  {
+    "code": "73.09.051.003",
+    "villageCode": "003",
+    "districtCode": "73.09.051",
+    "name": "Bantimurung",
+    "alias": "Bantimurung"
+  },
+  {
+    "code": "73.09.051.004",
+    "villageCode": "004",
+    "districtCode": "73.09.051",
+    "name": "Tondongkura",
+    "alias": "Tondongkura"
+  },
+  {
+    "code": "73.09.051.005",
+    "villageCode": "005",
+    "districtCode": "73.09.051",
+    "name": "Lanne",
+    "alias": "Lanne"
+  },
+  {
+    "code": "73.09.051.006",
+    "villageCode": "006",
+    "districtCode": "73.09.051",
+    "name": "Bonto Birao",
+    "alias": "Bonto Birao"
+  }
+]

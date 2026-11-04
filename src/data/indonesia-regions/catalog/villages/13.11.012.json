@@ -1,0 +1,37 @@
+[
+  {
+    "code": "13.11.012.001",
+    "villageCode": "001",
+    "districtCode": "13.11.012",
+    "name": "Lubuk Besar",
+    "alias": "Lubuk Besar"
+  },
+  {
+    "code": "13.11.012.002",
+    "villageCode": "002",
+    "districtCode": "13.11.012",
+    "name": "Alahan Nan Tigo",
+    "alias": "Alahan Nan Tigo"
+  },
+  {
+    "code": "13.11.012.003",
+    "villageCode": "003",
+    "districtCode": "13.11.012",
+    "name": "Sungai Limau",
+    "alias": "Sungai Limau"
+  },
+  {
+    "code": "13.11.012.004",
+    "villageCode": "004",
+    "districtCode": "13.11.012",
+    "name": "Sinamar",
+    "alias": "Sinamar"
+  },
+  {
+    "code": "13.11.012.005",
+    "villageCode": "005",
+    "districtCode": "13.11.012",
+    "name": "Tanjung Alam",
+    "alias": "Tanjung Alam"
+  }
+]

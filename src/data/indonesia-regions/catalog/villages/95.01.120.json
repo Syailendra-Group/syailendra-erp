@@ -1,0 +1,51 @@
+[
+  {
+    "code": "95.01.120.001",
+    "villageCode": "001",
+    "districtCode": "95.01.120",
+    "name": "Kumbe",
+    "alias": "Kumbe"
+  },
+  {
+    "code": "95.01.120.002",
+    "villageCode": "002",
+    "districtCode": "95.01.120",
+    "name": "Kaiburse",
+    "alias": "Kaiburse"
+  },
+  {
+    "code": "95.01.120.003",
+    "villageCode": "003",
+    "districtCode": "95.01.120",
+    "name": "Rawasari",
+    "alias": "Rawasari"
+  },
+  {
+    "code": "95.01.120.004",
+    "villageCode": "004",
+    "districtCode": "95.01.120",
+    "name": "Onggari",
+    "alias": "Onggari"
+  },
+  {
+    "code": "95.01.120.005",
+    "villageCode": "005",
+    "districtCode": "95.01.120",
+    "name": "Padang Raharja",
+    "alias": "Padang Raharja"
+  },
+  {
+    "code": "95.01.120.006",
+    "villageCode": "006",
+    "districtCode": "95.01.120",
+    "name": "Suka Maju",
+    "alias": "Suka Maju"
+  },
+  {
+    "code": "95.01.120.007",
+    "villageCode": "007",
+    "districtCode": "95.01.120",
+    "name": "Domande",
+    "alias": "Domande"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "code": "73.14.080.001",
+    "villageCode": "001",
+    "districtCode": "73.14.080",
+    "name": "Padangloang",
+    "alias": "Padangloang"
+  },
+  {
+    "code": "73.14.080.002",
+    "villageCode": "002",
+    "districtCode": "73.14.080",
+    "name": "Padangloang Alau",
+    "alias": "Padangloang Alau"
+  },
+  {
+    "code": "73.14.080.003",
+    "villageCode": "003",
+    "districtCode": "73.14.080",
+    "name": "Salo Mallori",
+    "alias": "Salo Mallori"
+  },
+  {
+    "code": "73.14.080.004",
+    "villageCode": "004",
+    "districtCode": "73.14.080",
+    "name": "Tanrutedong",
+    "alias": "Tanrutedong"
+  },
+  {
+    "code": "73.14.080.005",
+    "villageCode": "005",
+    "districtCode": "73.14.080",
+    "name": "Kalosi",
+    "alias": "Kalosi"
+  },
+  {
+    "code": "73.14.080.006",
+    "villageCode": "006",
+    "districtCode": "73.14.080",
+    "name": "Kalosi Alau",
+    "alias": "Kalosi Alau"
+  },
+  {
+    "code": "73.14.080.007",
+    "villageCode": "007",
+    "districtCode": "73.14.080",
+    "name": "Taccimpo",
+    "alias": "Taccimpo"
+  },
+  {
+    "code": "73.14.080.008",
+    "villageCode": "008",
+    "districtCode": "73.14.080",
+    "name": "Salobukkang",
+    "alias": "Salobukkang"
+  },
+  {
+    "code": "73.14.080.010",
+    "villageCode": "010",
+    "districtCode": "73.14.080",
+    "name": "Bila",
+    "alias": "Bila"
+  },
+  {
+    "code": "73.14.080.011",
+    "villageCode": "011",
+    "districtCode": "73.14.080",
+    "name": "Kampale",
+    "alias": "Kampale"
+  }
+]

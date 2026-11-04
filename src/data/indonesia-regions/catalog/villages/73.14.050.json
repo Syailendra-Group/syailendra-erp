@@ -1,0 +1,58 @@
+[
+  {
+    "code": "73.14.050.001",
+    "villageCode": "001",
+    "districtCode": "73.14.050",
+    "name": "Kadidi",
+    "alias": "Kadidi"
+  },
+  {
+    "code": "73.14.050.002",
+    "villageCode": "002",
+    "districtCode": "73.14.050",
+    "name": "Macorawalie",
+    "alias": "Macorawalie"
+  },
+  {
+    "code": "73.14.050.003",
+    "villageCode": "003",
+    "districtCode": "73.14.050",
+    "name": "Timoreng Panua",
+    "alias": "Timoreng Panua"
+  },
+  {
+    "code": "73.14.050.004",
+    "villageCode": "004",
+    "districtCode": "73.14.050",
+    "name": "Cipotakari",
+    "alias": "Cipotakari"
+  },
+  {
+    "code": "73.14.050.005",
+    "villageCode": "005",
+    "districtCode": "73.14.050",
+    "name": "Bulo",
+    "alias": "Bulo"
+  },
+  {
+    "code": "73.14.050.006",
+    "villageCode": "006",
+    "districtCode": "73.14.050",
+    "name": "Bulo Wattang",
+    "alias": "Bulo Wattang"
+  },
+  {
+    "code": "73.14.050.007",
+    "villageCode": "007",
+    "districtCode": "73.14.050",
+    "name": "Lalebata",
+    "alias": "Lalebata"
+  },
+  {
+    "code": "73.14.050.008",
+    "villageCode": "008",
+    "districtCode": "73.14.050",
+    "name": "Rappang",
+    "alias": "Rappang"
+  }
+]

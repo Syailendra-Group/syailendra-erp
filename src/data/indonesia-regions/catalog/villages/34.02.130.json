@@ -1,0 +1,58 @@
+[
+  {
+    "code": "34.02.130.001",
+    "villageCode": "001",
+    "districtCode": "34.02.130",
+    "name": "Tamanan",
+    "alias": "Tamanan"
+  },
+  {
+    "code": "34.02.130.002",
+    "villageCode": "002",
+    "districtCode": "34.02.130",
+    "name": "Jagalan",
+    "alias": "Jagalan"
+  },
+  {
+    "code": "34.02.130.003",
+    "villageCode": "003",
+    "districtCode": "34.02.130",
+    "name": "Singosaren",
+    "alias": "Singosaren"
+  },
+  {
+    "code": "34.02.130.004",
+    "villageCode": "004",
+    "districtCode": "34.02.130",
+    "name": "Wirokerten",
+    "alias": "Wirokerten"
+  },
+  {
+    "code": "34.02.130.005",
+    "villageCode": "005",
+    "districtCode": "34.02.130",
+    "name": "Jambidan",
+    "alias": "Jambidan"
+  },
+  {
+    "code": "34.02.130.006",
+    "villageCode": "006",
+    "districtCode": "34.02.130",
+    "name": "Potorono",
+    "alias": "Potorono"
+  },
+  {
+    "code": "34.02.130.007",
+    "villageCode": "007",
+    "districtCode": "34.02.130",
+    "name": "Baturetno",
+    "alias": "Baturetno"
+  },
+  {
+    "code": "34.02.130.008",
+    "villageCode": "008",
+    "districtCode": "34.02.130",
+    "name": "Banguntapan",
+    "alias": "Banguntapan"
+  }
+]

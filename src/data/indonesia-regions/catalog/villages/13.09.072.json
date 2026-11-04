@@ -1,0 +1,30 @@
+[
+  {
+    "code": "13.09.072.001",
+    "villageCode": "001",
+    "districtCode": "13.09.072",
+    "name": "Alahan Mati",
+    "alias": "Alahan Mati"
+  },
+  {
+    "code": "13.09.072.002",
+    "villageCode": "002",
+    "districtCode": "13.09.072",
+    "name": "Simpang",
+    "alias": "Simpang"
+  },
+  {
+    "code": "13.09.072.003",
+    "villageCode": "003",
+    "districtCode": "13.09.072",
+    "name": "Nagari Alahan Mati Hilia",
+    "alias": "Nagari Alahan Mati Hilia"
+  },
+  {
+    "code": "13.09.072.004",
+    "villageCode": "004",
+    "districtCode": "13.09.072",
+    "name": "Nagari Simpang Utara",
+    "alias": "Nagari Simpang Utara"
+  }
+]

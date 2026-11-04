@@ -1,0 +1,58 @@
+[
+  {
+    "code": "33.13.110.001",
+    "villageCode": "001",
+    "districtCode": "33.13.110",
+    "name": "Suruhkalang",
+    "alias": "Suruhkalang"
+  },
+  {
+    "code": "33.13.110.002",
+    "villageCode": "002",
+    "districtCode": "33.13.110",
+    "name": "Jati",
+    "alias": "Jati"
+  },
+  {
+    "code": "33.13.110.003",
+    "villageCode": "003",
+    "districtCode": "33.13.110",
+    "name": "Jaten",
+    "alias": "Jaten"
+  },
+  {
+    "code": "33.13.110.004",
+    "villageCode": "004",
+    "districtCode": "33.13.110",
+    "name": "Dagen",
+    "alias": "Dagen"
+  },
+  {
+    "code": "33.13.110.005",
+    "villageCode": "005",
+    "districtCode": "33.13.110",
+    "name": "Ngringo",
+    "alias": "Ngringo"
+  },
+  {
+    "code": "33.13.110.006",
+    "villageCode": "006",
+    "districtCode": "33.13.110",
+    "name": "Jetis",
+    "alias": "Jetis"
+  },
+  {
+    "code": "33.13.110.007",
+    "villageCode": "007",
+    "districtCode": "33.13.110",
+    "name": "Sroyo",
+    "alias": "Sroyo"
+  },
+  {
+    "code": "33.13.110.008",
+    "villageCode": "008",
+    "districtCode": "33.13.110",
+    "name": "Brujul",
+    "alias": "Brujul"
+  }
+]

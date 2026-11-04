@@ -1,0 +1,107 @@
+[
+  {
+    "code": "75.02.021.001",
+    "villageCode": "001",
+    "districtCode": "75.02.021",
+    "name": "Molanihu",
+    "alias": "Molanihu"
+  },
+  {
+    "code": "75.02.021.002",
+    "villageCode": "002",
+    "districtCode": "75.02.021",
+    "name": "Batulayar",
+    "alias": "Batulayar"
+  },
+  {
+    "code": "75.02.021.003",
+    "villageCode": "003",
+    "districtCode": "75.02.021",
+    "name": "Molas",
+    "alias": "Molas"
+  },
+  {
+    "code": "75.02.021.004",
+    "villageCode": "004",
+    "districtCode": "75.02.021",
+    "name": "Tohupo",
+    "alias": "Tohupo"
+  },
+  {
+    "code": "75.02.021.005",
+    "villageCode": "005",
+    "districtCode": "75.02.021",
+    "name": "Molopatodu",
+    "alias": "Molopatodu"
+  },
+  {
+    "code": "75.02.021.006",
+    "villageCode": "006",
+    "districtCode": "75.02.021",
+    "name": "Upomela",
+    "alias": "Upomela"
+  },
+  {
+    "code": "75.02.021.007",
+    "villageCode": "007",
+    "districtCode": "75.02.021",
+    "name": "Dulamayo",
+    "alias": "Dulamayo"
+  },
+  {
+    "code": "75.02.021.014",
+    "villageCode": "014",
+    "districtCode": "75.02.021",
+    "name": "Otopade",
+    "alias": "Otopade"
+  },
+  {
+    "code": "75.02.021.015",
+    "villageCode": "015",
+    "districtCode": "75.02.021",
+    "name": "Batu Loreng",
+    "alias": "Batu Loreng"
+  },
+  {
+    "code": "75.02.021.016",
+    "villageCode": "016",
+    "districtCode": "75.02.021",
+    "name": "Bongohulawa",
+    "alias": "Bongohulawa"
+  },
+  {
+    "code": "75.02.021.017",
+    "villageCode": "017",
+    "districtCode": "75.02.021",
+    "name": "Huntulohulawa",
+    "alias": "Huntulohulawa"
+  },
+  {
+    "code": "75.02.021.020",
+    "villageCode": "020",
+    "districtCode": "75.02.021",
+    "name": "Liyodu",
+    "alias": "Liyodu"
+  },
+  {
+    "code": "75.02.021.021",
+    "villageCode": "021",
+    "districtCode": "75.02.021",
+    "name": "Kayumerah",
+    "alias": "Kayumerah"
+  },
+  {
+    "code": "75.02.021.022",
+    "villageCode": "022",
+    "districtCode": "75.02.021",
+    "name": "Owalanga",
+    "alias": "Owalanga"
+  },
+  {
+    "code": "75.02.021.025",
+    "villageCode": "025",
+    "districtCode": "75.02.021",
+    "name": "Liyoto",
+    "alias": "Liyoto"
+  }
+]

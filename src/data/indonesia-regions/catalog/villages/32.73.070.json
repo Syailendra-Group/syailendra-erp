@@ -1,0 +1,51 @@
+[
+  {
+    "code": "32.73.070.001",
+    "villageCode": "001",
+    "districtCode": "32.73.070",
+    "name": "Cijagra",
+    "alias": "Cijagra"
+  },
+  {
+    "code": "32.73.070.002",
+    "villageCode": "002",
+    "districtCode": "32.73.070",
+    "name": "Turangga",
+    "alias": "Turangga"
+  },
+  {
+    "code": "32.73.070.003",
+    "villageCode": "003",
+    "districtCode": "32.73.070",
+    "name": "Lingkar Selatan",
+    "alias": "Lingkar Selatan"
+  },
+  {
+    "code": "32.73.070.004",
+    "villageCode": "004",
+    "districtCode": "32.73.070",
+    "name": "Malabar",
+    "alias": "Malabar"
+  },
+  {
+    "code": "32.73.070.005",
+    "villageCode": "005",
+    "districtCode": "32.73.070",
+    "name": "Burangrang",
+    "alias": "Burangrang"
+  },
+  {
+    "code": "32.73.070.006",
+    "villageCode": "006",
+    "districtCode": "32.73.070",
+    "name": "Cikawao",
+    "alias": "Cikawao"
+  },
+  {
+    "code": "32.73.070.007",
+    "villageCode": "007",
+    "districtCode": "32.73.070",
+    "name": "Paledang",
+    "alias": "Paledang"
+  }
+]

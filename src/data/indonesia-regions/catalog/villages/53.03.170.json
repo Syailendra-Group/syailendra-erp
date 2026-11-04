@@ -1,0 +1,72 @@
+[
+  {
+    "code": "53.03.170.001",
+    "villageCode": "001",
+    "districtCode": "53.03.170",
+    "name": "Takari",
+    "alias": "Takari"
+  },
+  {
+    "code": "53.03.170.002",
+    "villageCode": "002",
+    "districtCode": "53.03.170",
+    "name": "Noelmina",
+    "alias": "Noelmina"
+  },
+  {
+    "code": "53.03.170.003",
+    "villageCode": "003",
+    "districtCode": "53.03.170",
+    "name": "Benu",
+    "alias": "Benu"
+  },
+  {
+    "code": "53.03.170.004",
+    "villageCode": "004",
+    "districtCode": "53.03.170",
+    "name": "Hueknutu",
+    "alias": "Hueknutu"
+  },
+  {
+    "code": "53.03.170.005",
+    "villageCode": "005",
+    "districtCode": "53.03.170",
+    "name": "Kauniki",
+    "alias": "Kauniki"
+  },
+  {
+    "code": "53.03.170.006",
+    "villageCode": "006",
+    "districtCode": "53.03.170",
+    "name": "Oelnaineno",
+    "alias": "Oelnaineno"
+  },
+  {
+    "code": "53.03.170.007",
+    "villageCode": "007",
+    "districtCode": "53.03.170",
+    "name": "Tanini",
+    "alias": "Tanini"
+  },
+  {
+    "code": "53.03.170.008",
+    "villageCode": "008",
+    "districtCode": "53.03.170",
+    "name": "Oesusu",
+    "alias": "Oesusu"
+  },
+  {
+    "code": "53.03.170.009",
+    "villageCode": "009",
+    "districtCode": "53.03.170",
+    "name": "Tuapanaf",
+    "alias": "Tuapanaf"
+  },
+  {
+    "code": "53.03.170.010",
+    "villageCode": "010",
+    "districtCode": "53.03.170",
+    "name": "Fatukona",
+    "alias": "Fatukona"
+  }
+]

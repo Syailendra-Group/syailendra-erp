@@ -1,0 +1,86 @@
+[
+  {
+    "code": "11.13.010.001",
+    "villageCode": "001",
+    "districtCode": "11.13.010",
+    "name": "Bener",
+    "alias": "Bener"
+  },
+  {
+    "code": "11.13.010.003",
+    "villageCode": "003",
+    "districtCode": "11.13.010",
+    "name": "Rikit Dekat",
+    "alias": "Rikit Dekat"
+  },
+  {
+    "code": "11.13.010.004",
+    "villageCode": "004",
+    "districtCode": "11.13.010",
+    "name": "Ulon Tanoh",
+    "alias": "Ulon Tanoh"
+  },
+  {
+    "code": "11.13.010.005",
+    "villageCode": "005",
+    "districtCode": "11.13.010",
+    "name": "Rema",
+    "alias": "Rema"
+  },
+  {
+    "code": "11.13.010.006",
+    "villageCode": "006",
+    "districtCode": "11.13.010",
+    "name": "Tampeng",
+    "alias": "Tampeng"
+  },
+  {
+    "code": "11.13.010.007",
+    "villageCode": "007",
+    "districtCode": "11.13.010",
+    "name": "Beranang",
+    "alias": "Beranang"
+  },
+  {
+    "code": "11.13.010.008",
+    "villageCode": "008",
+    "districtCode": "11.13.010",
+    "name": "Kuta Ujung",
+    "alias": "Kuta Ujung"
+  },
+  {
+    "code": "11.13.010.014",
+    "villageCode": "014",
+    "districtCode": "11.13.010",
+    "name": "Cike",
+    "alias": "Cike"
+  },
+  {
+    "code": "11.13.010.015",
+    "villageCode": "015",
+    "districtCode": "11.13.010",
+    "name": "Rema Baru",
+    "alias": "Rema Baru"
+  },
+  {
+    "code": "11.13.010.016",
+    "villageCode": "016",
+    "districtCode": "11.13.010",
+    "name": "Kerukunan Kuta Panjang",
+    "alias": "Kerukunan Kuta Panjang"
+  },
+  {
+    "code": "11.13.010.017",
+    "villageCode": "017",
+    "districtCode": "11.13.010",
+    "name": "Tampeng Musara",
+    "alias": "Tampeng Musara"
+  },
+  {
+    "code": "11.13.010.018",
+    "villageCode": "018",
+    "districtCode": "11.13.010",
+    "name": "Kong Paluh",
+    "alias": "Kong Paluh"
+  }
+]

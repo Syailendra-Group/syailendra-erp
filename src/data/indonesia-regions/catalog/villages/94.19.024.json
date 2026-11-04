@@ -1,0 +1,23 @@
+[
+  {
+    "code": "94.19.024.001",
+    "villageCode": "001",
+    "districtCode": "94.19.024",
+    "name": "Komra",
+    "alias": "Komra"
+  },
+  {
+    "code": "94.19.024.002",
+    "villageCode": "002",
+    "districtCode": "94.19.024",
+    "name": "Ansudu",
+    "alias": "Ansudu"
+  },
+  {
+    "code": "94.19.024.003",
+    "villageCode": "003",
+    "districtCode": "94.19.024",
+    "name": "Ansudu Ii / Srem",
+    "alias": "Ansudu Ii / Srem"
+  }
+]

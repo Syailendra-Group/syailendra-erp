@@ -1,0 +1,30 @@
+[
+  {
+    "code": "32.76.060.001",
+    "villageCode": "001",
+    "districtCode": "32.76.060",
+    "name": "Meruyung",
+    "alias": "Meruyung"
+  },
+  {
+    "code": "32.76.060.002",
+    "villageCode": "002",
+    "districtCode": "32.76.060",
+    "name": "Grogol",
+    "alias": "Grogol"
+  },
+  {
+    "code": "32.76.060.003",
+    "villageCode": "003",
+    "districtCode": "32.76.060",
+    "name": "Krukut",
+    "alias": "Krukut"
+  },
+  {
+    "code": "32.76.060.004",
+    "villageCode": "004",
+    "districtCode": "32.76.060",
+    "name": "Limo",
+    "alias": "Limo"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "code": "12.14.021.001",
+    "villageCode": "001",
+    "districtCode": "12.14.021",
+    "name": "Mahang Labara",
+    "alias": "Mahang Labara"
+  },
+  {
+    "code": "12.14.021.002",
+    "villageCode": "002",
+    "districtCode": "12.14.021",
+    "name": "Adam",
+    "alias": "Adam"
+  },
+  {
+    "code": "12.14.021.003",
+    "villageCode": "003",
+    "districtCode": "12.14.021",
+    "name": "Bais",
+    "alias": "Bais"
+  },
+  {
+    "code": "12.14.021.004",
+    "villageCode": "004",
+    "districtCode": "12.14.021",
+    "name": "Lambak",
+    "alias": "Lambak"
+  },
+  {
+    "code": "12.14.021.005",
+    "villageCode": "005",
+    "districtCode": "12.14.021",
+    "name": "Labuan Rima",
+    "alias": "Labuan Rima"
+  },
+  {
+    "code": "12.14.021.006",
+    "villageCode": "006",
+    "districtCode": "12.14.021",
+    "name": "Labuan Hiu",
+    "alias": "Labuan Hiu"
+  },
+  {
+    "code": "12.14.021.007",
+    "villageCode": "007",
+    "districtCode": "12.14.021",
+    "name": "Labuan Bajau",
+    "alias": "Labuan Bajau"
+  },
+  {
+    "code": "12.14.021.008",
+    "villageCode": "008",
+    "districtCode": "12.14.021",
+    "name": "Labara",
+    "alias": "Labara"
+  },
+  {
+    "code": "12.14.021.009",
+    "villageCode": "009",
+    "districtCode": "12.14.021",
+    "name": "Bais Baru",
+    "alias": "Bais Baru"
+  },
+  {
+    "code": "12.14.021.010",
+    "villageCode": "010",
+    "districtCode": "12.14.021",
+    "name": "Labuan Rima Baru",
+    "alias": "Labuan Rima Baru"
+  }
+]

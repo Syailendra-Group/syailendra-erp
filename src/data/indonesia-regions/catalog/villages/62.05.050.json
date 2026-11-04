@@ -1,0 +1,72 @@
+[
+  {
+    "code": "62.05.050.001",
+    "villageCode": "001",
+    "districtCode": "62.05.050",
+    "name": "Lemo I",
+    "alias": "Lemo I"
+  },
+  {
+    "code": "62.05.050.010",
+    "villageCode": "010",
+    "districtCode": "62.05.050",
+    "name": "Lemo Ii",
+    "alias": "Lemo Ii"
+  },
+  {
+    "code": "62.05.050.011",
+    "villageCode": "011",
+    "districtCode": "62.05.050",
+    "name": "Pendreh",
+    "alias": "Pendreh"
+  },
+  {
+    "code": "62.05.050.012",
+    "villageCode": "012",
+    "districtCode": "62.05.050",
+    "name": "Lanjas",
+    "alias": "Lanjas"
+  },
+  {
+    "code": "62.05.050.013",
+    "villageCode": "013",
+    "districtCode": "62.05.050",
+    "name": "Melayu",
+    "alias": "Melayu"
+  },
+  {
+    "code": "62.05.050.017",
+    "villageCode": "017",
+    "districtCode": "62.05.050",
+    "name": "Rimba Sari",
+    "alias": "Rimba Sari"
+  },
+  {
+    "code": "62.05.050.018",
+    "villageCode": "018",
+    "districtCode": "62.05.050",
+    "name": "Sei Rahayu I",
+    "alias": "Sei Rahayu I"
+  },
+  {
+    "code": "62.05.050.022",
+    "villageCode": "022",
+    "districtCode": "62.05.050",
+    "name": "Sei Rahayu Ii",
+    "alias": "Sei Rahayu Ii"
+  },
+  {
+    "code": "62.05.050.023",
+    "villageCode": "023",
+    "districtCode": "62.05.050",
+    "name": "Beringin Raya",
+    "alias": "Beringin Raya"
+  },
+  {
+    "code": "62.05.050.027",
+    "villageCode": "027",
+    "districtCode": "62.05.050",
+    "name": "Datai Nirui",
+    "alias": "Datai Nirui"
+  }
+]

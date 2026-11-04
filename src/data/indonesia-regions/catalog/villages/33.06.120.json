@@ -1,0 +1,282 @@
+[
+  {
+    "code": "33.06.120.001",
+    "villageCode": "001",
+    "districtCode": "33.06.120",
+    "name": "Kroyo Kulon",
+    "alias": "Kroyo Kulon"
+  },
+  {
+    "code": "33.06.120.002",
+    "villageCode": "002",
+    "districtCode": "33.06.120",
+    "name": "Waled",
+    "alias": "Waled"
+  },
+  {
+    "code": "33.06.120.003",
+    "villageCode": "003",
+    "districtCode": "33.06.120",
+    "name": "Paitan",
+    "alias": "Paitan"
+  },
+  {
+    "code": "33.06.120.004",
+    "villageCode": "004",
+    "districtCode": "33.06.120",
+    "name": "Gedong",
+    "alias": "Gedong"
+  },
+  {
+    "code": "33.06.120.005",
+    "villageCode": "005",
+    "districtCode": "33.06.120",
+    "name": "Rowobayem",
+    "alias": "Rowobayem"
+  },
+  {
+    "code": "33.06.120.006",
+    "villageCode": "006",
+    "districtCode": "33.06.120",
+    "name": "Kemiri Kidul",
+    "alias": "Kemiri Kidul"
+  },
+  {
+    "code": "33.06.120.007",
+    "villageCode": "007",
+    "districtCode": "33.06.120",
+    "name": "Kerep",
+    "alias": "Kerep"
+  },
+  {
+    "code": "33.06.120.008",
+    "villageCode": "008",
+    "districtCode": "33.06.120",
+    "name": "Gesikan",
+    "alias": "Gesikan"
+  },
+  {
+    "code": "33.06.120.009",
+    "villageCode": "009",
+    "districtCode": "33.06.120",
+    "name": "Rejosari",
+    "alias": "Rejosari"
+  },
+  {
+    "code": "33.06.120.010",
+    "villageCode": "010",
+    "districtCode": "33.06.120",
+    "name": "Kroyo Lor",
+    "alias": "Kroyo Lor"
+  },
+  {
+    "code": "33.06.120.011",
+    "villageCode": "011",
+    "districtCode": "33.06.120",
+    "name": "Kemiri Lor",
+    "alias": "Kemiri Lor"
+  },
+  {
+    "code": "33.06.120.012",
+    "villageCode": "012",
+    "districtCode": "33.06.120",
+    "name": "Bedono Kluwung",
+    "alias": "Bedono Kluwung"
+  },
+  {
+    "code": "33.06.120.013",
+    "villageCode": "013",
+    "districtCode": "33.06.120",
+    "name": "Bedono Pageron",
+    "alias": "Bedono Pageron"
+  },
+  {
+    "code": "33.06.120.014",
+    "villageCode": "014",
+    "districtCode": "33.06.120",
+    "name": "Karangduwur (Bedono)",
+    "alias": "Karangduwur (Bedono)"
+  },
+  {
+    "code": "33.06.120.015",
+    "villageCode": "015",
+    "districtCode": "33.06.120",
+    "name": "Rebug",
+    "alias": "Rebug"
+  },
+  {
+    "code": "33.06.120.016",
+    "villageCode": "016",
+    "districtCode": "33.06.120",
+    "name": "Loning",
+    "alias": "Loning"
+  },
+  {
+    "code": "33.06.120.017",
+    "villageCode": "017",
+    "districtCode": "33.06.120",
+    "name": "Winong",
+    "alias": "Winong"
+  },
+  {
+    "code": "33.06.120.018",
+    "villageCode": "018",
+    "districtCode": "33.06.120",
+    "name": "Sutoragan",
+    "alias": "Sutoragan"
+  },
+  {
+    "code": "33.06.120.019",
+    "villageCode": "019",
+    "districtCode": "33.06.120",
+    "name": "Jatiwangsan",
+    "alias": "Jatiwangsan"
+  },
+  {
+    "code": "33.06.120.020",
+    "villageCode": "020",
+    "districtCode": "33.06.120",
+    "name": "Turus",
+    "alias": "Turus"
+  },
+  {
+    "code": "33.06.120.021",
+    "villageCode": "021",
+    "districtCode": "33.06.120",
+    "name": "Kedunglo",
+    "alias": "Kedunglo"
+  },
+  {
+    "code": "33.06.120.022",
+    "villageCode": "022",
+    "districtCode": "33.06.120",
+    "name": "Sidodadi",
+    "alias": "Sidodadi"
+  },
+  {
+    "code": "33.06.120.023",
+    "villageCode": "023",
+    "districtCode": "33.06.120",
+    "name": "Kaliurip",
+    "alias": "Kaliurip"
+  },
+  {
+    "code": "33.06.120.024",
+    "villageCode": "024",
+    "districtCode": "33.06.120",
+    "name": "Kalimeneng",
+    "alias": "Kalimeneng"
+  },
+  {
+    "code": "33.06.120.025",
+    "villageCode": "025",
+    "districtCode": "33.06.120",
+    "name": "Rejowinangun",
+    "alias": "Rejowinangun"
+  },
+  {
+    "code": "33.06.120.026",
+    "villageCode": "026",
+    "districtCode": "33.06.120",
+    "name": "Samping",
+    "alias": "Samping"
+  },
+  {
+    "code": "33.06.120.027",
+    "villageCode": "027",
+    "districtCode": "33.06.120",
+    "name": "Wonosari",
+    "alias": "Wonosari"
+  },
+  {
+    "code": "33.06.120.028",
+    "villageCode": "028",
+    "districtCode": "33.06.120",
+    "name": "Kapiteran",
+    "alias": "Kapiteran"
+  },
+  {
+    "code": "33.06.120.029",
+    "villageCode": "029",
+    "districtCode": "33.06.120",
+    "name": "Wanurojo",
+    "alias": "Wanurojo"
+  },
+  {
+    "code": "33.06.120.030",
+    "villageCode": "030",
+    "districtCode": "33.06.120",
+    "name": "Sokogelap",
+    "alias": "Sokogelap"
+  },
+  {
+    "code": "33.06.120.031",
+    "villageCode": "031",
+    "districtCode": "33.06.120",
+    "name": "Kaliglagah",
+    "alias": "Kaliglagah"
+  },
+  {
+    "code": "33.06.120.032",
+    "villageCode": "032",
+    "districtCode": "33.06.120",
+    "name": "Gunungteges",
+    "alias": "Gunungteges"
+  },
+  {
+    "code": "33.06.120.033",
+    "villageCode": "033",
+    "districtCode": "33.06.120",
+    "name": "Purbayan",
+    "alias": "Purbayan"
+  },
+  {
+    "code": "33.06.120.034",
+    "villageCode": "034",
+    "districtCode": "33.06.120",
+    "name": "Kedung Pomahan Kulon",
+    "alias": "Kedung Pomahan Kulon"
+  },
+  {
+    "code": "33.06.120.035",
+    "villageCode": "035",
+    "districtCode": "33.06.120",
+    "name": "Karangluas",
+    "alias": "Karangluas"
+  },
+  {
+    "code": "33.06.120.036",
+    "villageCode": "036",
+    "districtCode": "33.06.120",
+    "name": "Kedung Pomahan Wetan",
+    "alias": "Kedung Pomahan Wetan"
+  },
+  {
+    "code": "33.06.120.037",
+    "villageCode": "037",
+    "districtCode": "33.06.120",
+    "name": "Wonosuko",
+    "alias": "Wonosuko"
+  },
+  {
+    "code": "33.06.120.038",
+    "villageCode": "038",
+    "districtCode": "33.06.120",
+    "name": "Dilem",
+    "alias": "Dilem"
+  },
+  {
+    "code": "33.06.120.039",
+    "villageCode": "039",
+    "districtCode": "33.06.120",
+    "name": "Girijoyo",
+    "alias": "Girijoyo"
+  },
+  {
+    "code": "33.06.120.040",
+    "villageCode": "040",
+    "districtCode": "33.06.120",
+    "name": "Girimulyo",
+    "alias": "Girimulyo"
+  }
+]

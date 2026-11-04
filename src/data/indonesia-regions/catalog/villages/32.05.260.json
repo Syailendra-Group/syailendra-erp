@@ -1,0 +1,79 @@
+[
+  {
+    "code": "32.05.260.001",
+    "villageCode": "001",
+    "districtCode": "32.05.260",
+    "name": "Cibatu",
+    "alias": "Cibatu"
+  },
+  {
+    "code": "32.05.260.002",
+    "villageCode": "002",
+    "districtCode": "32.05.260",
+    "name": "Kertajaya",
+    "alias": "Kertajaya"
+  },
+  {
+    "code": "32.05.260.003",
+    "villageCode": "003",
+    "districtCode": "32.05.260",
+    "name": "Wanakerta",
+    "alias": "Wanakerta"
+  },
+  {
+    "code": "32.05.260.004",
+    "villageCode": "004",
+    "districtCode": "32.05.260",
+    "name": "Karyamukti",
+    "alias": "Karyamukti"
+  },
+  {
+    "code": "32.05.260.005",
+    "villageCode": "005",
+    "districtCode": "32.05.260",
+    "name": "Padasuka",
+    "alias": "Padasuka"
+  },
+  {
+    "code": "32.05.260.006",
+    "villageCode": "006",
+    "districtCode": "32.05.260",
+    "name": "Keresek",
+    "alias": "Keresek"
+  },
+  {
+    "code": "32.05.260.007",
+    "villageCode": "007",
+    "districtCode": "32.05.260",
+    "name": "Cibunar",
+    "alias": "Cibunar"
+  },
+  {
+    "code": "32.05.260.008",
+    "villageCode": "008",
+    "districtCode": "32.05.260",
+    "name": "Sukalilah",
+    "alias": "Sukalilah"
+  },
+  {
+    "code": "32.05.260.009",
+    "villageCode": "009",
+    "districtCode": "32.05.260",
+    "name": "Girimukti",
+    "alias": "Girimukti"
+  },
+  {
+    "code": "32.05.260.015",
+    "villageCode": "015",
+    "districtCode": "32.05.260",
+    "name": "Mekarsari",
+    "alias": "Mekarsari"
+  },
+  {
+    "code": "32.05.260.016",
+    "villageCode": "016",
+    "districtCode": "32.05.260",
+    "name": "Sindangsuka",
+    "alias": "Sindangsuka"
+  }
+]

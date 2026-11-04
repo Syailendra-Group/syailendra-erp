@@ -1,0 +1,50 @@
+[
+  {
+    "code": "81.09.010",
+    "districtCode": "010",
+    "regencyCode": "81.09",
+    "provinceCode": "81",
+    "name": "Kecamatan Kepala Madan",
+    "alias": "Kepala Madan"
+  },
+  {
+    "code": "81.09.020",
+    "districtCode": "020",
+    "regencyCode": "81.09",
+    "provinceCode": "81",
+    "name": "Kecamatan Leksula",
+    "alias": "Leksula"
+  },
+  {
+    "code": "81.09.021",
+    "districtCode": "021",
+    "regencyCode": "81.09",
+    "provinceCode": "81",
+    "name": "Kecamatan Fena Fafan",
+    "alias": "Fena Fafan"
+  },
+  {
+    "code": "81.09.030",
+    "districtCode": "030",
+    "regencyCode": "81.09",
+    "provinceCode": "81",
+    "name": "Kecamatan Namrole",
+    "alias": "Namrole"
+  },
+  {
+    "code": "81.09.040",
+    "districtCode": "040",
+    "regencyCode": "81.09",
+    "provinceCode": "81",
+    "name": "Kecamatan Waesama",
+    "alias": "Waesama"
+  },
+  {
+    "code": "81.09.050",
+    "districtCode": "050",
+    "regencyCode": "81.09",
+    "provinceCode": "81",
+    "name": "Kecamatan Ambalau",
+    "alias": "Ambalau"
+  }
+]

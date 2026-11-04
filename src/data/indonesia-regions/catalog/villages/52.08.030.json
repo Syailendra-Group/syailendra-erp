@@ -1,0 +1,58 @@
+[
+  {
+    "code": "52.08.030.001",
+    "villageCode": "001",
+    "districtCode": "52.08.030",
+    "name": "Bentek",
+    "alias": "Bentek"
+  },
+  {
+    "code": "52.08.030.002",
+    "villageCode": "002",
+    "districtCode": "52.08.030",
+    "name": "Gondang",
+    "alias": "Gondang"
+  },
+  {
+    "code": "52.08.030.003",
+    "villageCode": "003",
+    "districtCode": "52.08.030",
+    "name": "Genggelang",
+    "alias": "Genggelang"
+  },
+  {
+    "code": "52.08.030.004",
+    "villageCode": "004",
+    "districtCode": "52.08.030",
+    "name": "Rempek",
+    "alias": "Rempek"
+  },
+  {
+    "code": "52.08.030.005",
+    "villageCode": "005",
+    "districtCode": "52.08.030",
+    "name": "Sambik Bangkol",
+    "alias": "Sambik Bangkol"
+  },
+  {
+    "code": "52.08.030.006",
+    "villageCode": "006",
+    "districtCode": "52.08.030",
+    "name": "Selelos",
+    "alias": "Selelos"
+  },
+  {
+    "code": "52.08.030.007",
+    "villageCode": "007",
+    "districtCode": "52.08.030",
+    "name": "Rempek Darussalam",
+    "alias": "Rempek Darussalam"
+  },
+  {
+    "code": "52.08.030.008",
+    "villageCode": "008",
+    "districtCode": "52.08.030",
+    "name": "Segara Katon",
+    "alias": "Segara Katon"
+  }
+]

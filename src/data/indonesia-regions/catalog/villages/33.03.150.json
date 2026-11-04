@@ -1,0 +1,79 @@
+[
+  {
+    "code": "33.03.150.001",
+    "villageCode": "001",
+    "districtCode": "33.03.150",
+    "name": "Karangsari",
+    "alias": "Karangsari"
+  },
+  {
+    "code": "33.03.150.002",
+    "villageCode": "002",
+    "districtCode": "33.03.150",
+    "name": "Pepedan",
+    "alias": "Pepedan"
+  },
+  {
+    "code": "33.03.150.003",
+    "villageCode": "003",
+    "districtCode": "33.03.150",
+    "name": "Pekiringan",
+    "alias": "Pekiringan"
+  },
+  {
+    "code": "33.03.150.004",
+    "villageCode": "004",
+    "districtCode": "33.03.150",
+    "name": "Grantung",
+    "alias": "Grantung"
+  },
+  {
+    "code": "33.03.150.005",
+    "villageCode": "005",
+    "districtCode": "33.03.150",
+    "name": "Rajawana",
+    "alias": "Rajawana"
+  },
+  {
+    "code": "33.03.150.006",
+    "villageCode": "006",
+    "districtCode": "33.03.150",
+    "name": "Tajug",
+    "alias": "Tajug"
+  },
+  {
+    "code": "33.03.150.007",
+    "villageCode": "007",
+    "districtCode": "33.03.150",
+    "name": "Tamansari",
+    "alias": "Tamansari"
+  },
+  {
+    "code": "33.03.150.008",
+    "villageCode": "008",
+    "districtCode": "33.03.150",
+    "name": "Baleraksa",
+    "alias": "Baleraksa"
+  },
+  {
+    "code": "33.03.150.009",
+    "villageCode": "009",
+    "districtCode": "33.03.150",
+    "name": "Tunjungmuli",
+    "alias": "Tunjungmuli"
+  },
+  {
+    "code": "33.03.150.010",
+    "villageCode": "010",
+    "districtCode": "33.03.150",
+    "name": "Kramat",
+    "alias": "Kramat"
+  },
+  {
+    "code": "33.03.150.011",
+    "villageCode": "011",
+    "districtCode": "33.03.150",
+    "name": "Sirau",
+    "alias": "Sirau"
+  }
+]

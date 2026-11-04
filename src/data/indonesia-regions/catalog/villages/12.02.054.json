@@ -1,0 +1,107 @@
+[
+  {
+    "code": "12.02.054.001",
+    "villageCode": "001",
+    "districtCode": "12.02.054",
+    "name": "Tebing Tinggi",
+    "alias": "Tebing Tinggi"
+  },
+  {
+    "code": "12.02.054.002",
+    "villageCode": "002",
+    "districtCode": "12.02.054",
+    "name": "Huta Rimbaru",
+    "alias": "Huta Rimbaru"
+  },
+  {
+    "code": "12.02.054.003",
+    "villageCode": "003",
+    "districtCode": "12.02.054",
+    "name": "Gunung Baringin",
+    "alias": "Gunung Baringin"
+  },
+  {
+    "code": "12.02.054.004",
+    "villageCode": "004",
+    "districtCode": "12.02.054",
+    "name": "Tanjung",
+    "alias": "Tanjung"
+  },
+  {
+    "code": "12.02.054.005",
+    "villageCode": "005",
+    "districtCode": "12.02.054",
+    "name": "Aek Nabara",
+    "alias": "Aek Nabara"
+  },
+  {
+    "code": "12.02.054.006",
+    "villageCode": "006",
+    "districtCode": "12.02.054",
+    "name": "Pagur",
+    "alias": "Pagur"
+  },
+  {
+    "code": "12.02.054.007",
+    "villageCode": "007",
+    "districtCode": "12.02.054",
+    "name": "Ranto Natas",
+    "alias": "Ranto Natas"
+  },
+  {
+    "code": "12.02.054.008",
+    "villageCode": "008",
+    "districtCode": "12.02.054",
+    "name": "Pardomuan",
+    "alias": "Pardomuan"
+  },
+  {
+    "code": "12.02.054.009",
+    "villageCode": "009",
+    "districtCode": "12.02.054",
+    "name": "Sirangkap",
+    "alias": "Sirangkap"
+  },
+  {
+    "code": "12.02.054.010",
+    "villageCode": "010",
+    "districtCode": "12.02.054",
+    "name": "Huta Tinggi",
+    "alias": "Huta Tinggi"
+  },
+  {
+    "code": "12.02.054.011",
+    "villageCode": "011",
+    "districtCode": "12.02.054",
+    "name": "Huta Bangun",
+    "alias": "Huta Bangun"
+  },
+  {
+    "code": "12.02.054.012",
+    "villageCode": "012",
+    "districtCode": "12.02.054",
+    "name": "Parmompang",
+    "alias": "Parmompang"
+  },
+  {
+    "code": "12.02.054.013",
+    "villageCode": "013",
+    "districtCode": "12.02.054",
+    "name": "Tanjung Julu",
+    "alias": "Tanjung Julu"
+  },
+  {
+    "code": "12.02.054.014",
+    "villageCode": "014",
+    "districtCode": "12.02.054",
+    "name": "Banjar Lancat",
+    "alias": "Banjar Lancat"
+  },
+  {
+    "code": "12.02.054.015",
+    "villageCode": "015",
+    "districtCode": "12.02.054",
+    "name": "Padang Laru",
+    "alias": "Padang Laru"
+  }
+]

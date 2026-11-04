@@ -1,0 +1,65 @@
+[
+  {
+    "code": "97.03.180.001",
+    "villageCode": "001",
+    "districtCode": "97.03.180",
+    "name": "Konikme",
+    "alias": "Konikme"
+  },
+  {
+    "code": "97.03.180.002",
+    "villageCode": "002",
+    "districtCode": "97.03.180",
+    "name": "Bogun Kunik",
+    "alias": "Bogun Kunik"
+  },
+  {
+    "code": "97.03.180.003",
+    "villageCode": "003",
+    "districtCode": "97.03.180",
+    "name": "Logom",
+    "alias": "Logom"
+  },
+  {
+    "code": "97.03.180.004",
+    "villageCode": "004",
+    "districtCode": "97.03.180",
+    "name": "Wandoak",
+    "alias": "Wandoak"
+  },
+  {
+    "code": "97.03.180.005",
+    "villageCode": "005",
+    "districtCode": "97.03.180",
+    "name": "Giwan",
+    "alias": "Giwan"
+  },
+  {
+    "code": "97.03.180.006",
+    "villageCode": "006",
+    "districtCode": "97.03.180",
+    "name": "Gimili Alome",
+    "alias": "Gimili Alome"
+  },
+  {
+    "code": "97.03.180.007",
+    "villageCode": "007",
+    "districtCode": "97.03.180",
+    "name": "Mabume",
+    "alias": "Mabume"
+  },
+  {
+    "code": "97.03.180.008",
+    "villageCode": "008",
+    "districtCode": "97.03.180",
+    "name": "Urgelo",
+    "alias": "Urgelo"
+  },
+  {
+    "code": "97.03.180.009",
+    "villageCode": "009",
+    "districtCode": "97.03.180",
+    "name": "Omagapa",
+    "alias": "Omagapa"
+  }
+]

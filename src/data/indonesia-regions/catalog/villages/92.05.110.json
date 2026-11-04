@@ -1,0 +1,37 @@
+[
+  {
+    "code": "92.05.110.001",
+    "villageCode": "001",
+    "districtCode": "92.05.110",
+    "name": "Aibogiar",
+    "alias": "Aibogiar"
+  },
+  {
+    "code": "92.05.110.002",
+    "villageCode": "002",
+    "districtCode": "92.05.110",
+    "name": "Ayae",
+    "alias": "Ayae"
+  },
+  {
+    "code": "92.05.110.003",
+    "villageCode": "003",
+    "districtCode": "92.05.110",
+    "name": "Siakwa",
+    "alias": "Siakwa"
+  },
+  {
+    "code": "92.05.110.004",
+    "villageCode": "004",
+    "districtCode": "92.05.110",
+    "name": "Ayawit",
+    "alias": "Ayawit"
+  },
+  {
+    "code": "92.05.110.005",
+    "villageCode": "005",
+    "districtCode": "92.05.110",
+    "name": "Aifair",
+    "alias": "Aifair"
+  }
+]

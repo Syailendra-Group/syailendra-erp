@@ -1,0 +1,114 @@
+[
+  {
+    "code": "35.03.010",
+    "districtCode": "010",
+    "regencyCode": "35.03",
+    "provinceCode": "35",
+    "name": "Kecamatan Panggul",
+    "alias": "Panggul"
+  },
+  {
+    "code": "35.03.020",
+    "districtCode": "020",
+    "regencyCode": "35.03",
+    "provinceCode": "35",
+    "name": "Kecamatan Munjungan",
+    "alias": "Munjungan"
+  },
+  {
+    "code": "35.03.030",
+    "districtCode": "030",
+    "regencyCode": "35.03",
+    "provinceCode": "35",
+    "name": "Kecamatan Watulimo",
+    "alias": "Watulimo"
+  },
+  {
+    "code": "35.03.040",
+    "districtCode": "040",
+    "regencyCode": "35.03",
+    "provinceCode": "35",
+    "name": "Kecamatan Kampak",
+    "alias": "Kampak"
+  },
+  {
+    "code": "35.03.050",
+    "districtCode": "050",
+    "regencyCode": "35.03",
+    "provinceCode": "35",
+    "name": "Kecamatan Dongko",
+    "alias": "Dongko"
+  },
+  {
+    "code": "35.03.060",
+    "districtCode": "060",
+    "regencyCode": "35.03",
+    "provinceCode": "35",
+    "name": "Kecamatan Pule",
+    "alias": "Pule"
+  },
+  {
+    "code": "35.03.070",
+    "districtCode": "070",
+    "regencyCode": "35.03",
+    "provinceCode": "35",
+    "name": "Kecamatan Karangan",
+    "alias": "Karangan"
+  },
+  {
+    "code": "35.03.071",
+    "districtCode": "071",
+    "regencyCode": "35.03",
+    "provinceCode": "35",
+    "name": "Kecamatan Suruh",
+    "alias": "Suruh"
+  },
+  {
+    "code": "35.03.080",
+    "districtCode": "080",
+    "regencyCode": "35.03",
+    "provinceCode": "35",
+    "name": "Kecamatan Gandusari",
+    "alias": "Gandusari"
+  },
+  {
+    "code": "35.03.090",
+    "districtCode": "090",
+    "regencyCode": "35.03",
+    "provinceCode": "35",
+    "name": "Kecamatan Durenan",
+    "alias": "Durenan"
+  },
+  {
+    "code": "35.03.100",
+    "districtCode": "100",
+    "regencyCode": "35.03",
+    "provinceCode": "35",
+    "name": "Kecamatan Pogalan",
+    "alias": "Pogalan"
+  },
+  {
+    "code": "35.03.110",
+    "districtCode": "110",
+    "regencyCode": "35.03",
+    "provinceCode": "35",
+    "name": "Kecamatan Trenggalek",
+    "alias": "Trenggalek"
+  },
+  {
+    "code": "35.03.120",
+    "districtCode": "120",
+    "regencyCode": "35.03",
+    "provinceCode": "35",
+    "name": "Kecamatan Tugu",
+    "alias": "Tugu"
+  },
+  {
+    "code": "35.03.130",
+    "districtCode": "130",
+    "regencyCode": "35.03",
+    "provinceCode": "35",
+    "name": "Kecamatan Bendungan",
+    "alias": "Bendungan"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "code": "32.06.221.001",
+    "villageCode": "001",
+    "districtCode": "32.06.221",
+    "name": "Tawangbanteng",
+    "alias": "Tawangbanteng"
+  },
+  {
+    "code": "32.06.221.002",
+    "villageCode": "002",
+    "districtCode": "32.06.221",
+    "name": "Gunungsari",
+    "alias": "Gunungsari"
+  },
+  {
+    "code": "32.06.221.003",
+    "villageCode": "003",
+    "districtCode": "32.06.221",
+    "name": "Sukamahi",
+    "alias": "Sukamahi"
+  },
+  {
+    "code": "32.06.221.004",
+    "villageCode": "004",
+    "districtCode": "32.06.221",
+    "name": "Sukagalih",
+    "alias": "Sukagalih"
+  },
+  {
+    "code": "32.06.221.005",
+    "villageCode": "005",
+    "districtCode": "32.06.221",
+    "name": "Indrajaya",
+    "alias": "Indrajaya"
+  },
+  {
+    "code": "32.06.221.006",
+    "villageCode": "006",
+    "districtCode": "32.06.221",
+    "name": "Sukaratu",
+    "alias": "Sukaratu"
+  },
+  {
+    "code": "32.06.221.007",
+    "villageCode": "007",
+    "districtCode": "32.06.221",
+    "name": "Sinagar",
+    "alias": "Sinagar"
+  },
+  {
+    "code": "32.06.221.008",
+    "villageCode": "008",
+    "districtCode": "32.06.221",
+    "name": "Linggajati",
+    "alias": "Linggajati"
+  }
+]

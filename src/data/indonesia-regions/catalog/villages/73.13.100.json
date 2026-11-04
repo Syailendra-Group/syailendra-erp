@@ -1,0 +1,58 @@
+[
+  {
+    "code": "73.13.100.001",
+    "villageCode": "001",
+    "districtCode": "73.13.100",
+    "name": "Tangkoli",
+    "alias": "Tangkoli"
+  },
+  {
+    "code": "73.13.100.002",
+    "villageCode": "002",
+    "districtCode": "73.13.100",
+    "name": "Dua Limpoe",
+    "alias": "Dua Limpoe"
+  },
+  {
+    "code": "73.13.100.003",
+    "villageCode": "003",
+    "districtCode": "73.13.100",
+    "name": "Anabanua",
+    "alias": "Anabanua"
+  },
+  {
+    "code": "73.13.100.012",
+    "villageCode": "012",
+    "districtCode": "73.13.100",
+    "name": "Abbanuange",
+    "alias": "Abbanuange"
+  },
+  {
+    "code": "73.13.100.013",
+    "villageCode": "013",
+    "districtCode": "73.13.100",
+    "name": "Mattirowalie",
+    "alias": "Mattirowalie"
+  },
+  {
+    "code": "73.13.100.014",
+    "villageCode": "014",
+    "districtCode": "73.13.100",
+    "name": "Kalola",
+    "alias": "Kalola"
+  },
+  {
+    "code": "73.13.100.015",
+    "villageCode": "015",
+    "districtCode": "73.13.100",
+    "name": "Sogi",
+    "alias": "Sogi"
+  },
+  {
+    "code": "73.13.100.016",
+    "villageCode": "016",
+    "districtCode": "73.13.100",
+    "name": "Minanga Tellue",
+    "alias": "Minanga Tellue"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "code": "92.03.140.001",
+    "villageCode": "001",
+    "districtCode": "92.03.140",
+    "name": "Pasir Putih",
+    "alias": "Pasir Putih"
+  },
+  {
+    "code": "92.03.140.002",
+    "villageCode": "002",
+    "districtCode": "92.03.140",
+    "name": "Welek",
+    "alias": "Welek"
+  },
+  {
+    "code": "92.03.140.003",
+    "villageCode": "003",
+    "districtCode": "92.03.140",
+    "name": "Bemus",
+    "alias": "Bemus"
+  },
+  {
+    "code": "92.03.140.004",
+    "villageCode": "004",
+    "districtCode": "92.03.140",
+    "name": "Wondum",
+    "alias": "Wondum"
+  }
+]

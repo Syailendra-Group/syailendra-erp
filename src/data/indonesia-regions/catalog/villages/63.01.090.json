@@ -1,0 +1,100 @@
+[
+  {
+    "code": "63.01.090.001",
+    "villageCode": "001",
+    "districtCode": "63.01.090",
+    "name": "Pandan Sari",
+    "alias": "Pandan Sari"
+  },
+  {
+    "code": "63.01.090.002",
+    "villageCode": "002",
+    "districtCode": "63.01.090",
+    "name": "Salaman",
+    "alias": "Salaman"
+  },
+  {
+    "code": "63.01.090.003",
+    "villageCode": "003",
+    "districtCode": "63.01.090",
+    "name": "Kintapura",
+    "alias": "Kintapura"
+  },
+  {
+    "code": "63.01.090.004",
+    "villageCode": "004",
+    "districtCode": "63.01.090",
+    "name": "Pasir Putih",
+    "alias": "Pasir Putih"
+  },
+  {
+    "code": "63.01.090.005",
+    "villageCode": "005",
+    "districtCode": "63.01.090",
+    "name": "Kintap Kecil",
+    "alias": "Kintap Kecil"
+  },
+  {
+    "code": "63.01.090.006",
+    "villageCode": "006",
+    "districtCode": "63.01.090",
+    "name": "Kintap",
+    "alias": "Kintap"
+  },
+  {
+    "code": "63.01.090.007",
+    "villageCode": "007",
+    "districtCode": "63.01.090",
+    "name": "Muara Kintap",
+    "alias": "Muara Kintap"
+  },
+  {
+    "code": "63.01.090.008",
+    "villageCode": "008",
+    "districtCode": "63.01.090",
+    "name": "Bukit Mulia",
+    "alias": "Bukit Mulia"
+  },
+  {
+    "code": "63.01.090.009",
+    "villageCode": "009",
+    "districtCode": "63.01.090",
+    "name": "Sumber Jaya",
+    "alias": "Sumber Jaya"
+  },
+  {
+    "code": "63.01.090.010",
+    "villageCode": "010",
+    "districtCode": "63.01.090",
+    "name": "Kebun Raya",
+    "alias": "Kebun Raya"
+  },
+  {
+    "code": "63.01.090.011",
+    "villageCode": "011",
+    "districtCode": "63.01.090",
+    "name": "Mekar Sari",
+    "alias": "Mekar Sari"
+  },
+  {
+    "code": "63.01.090.012",
+    "villageCode": "012",
+    "districtCode": "63.01.090",
+    "name": "Sebamban Baru",
+    "alias": "Sebamban Baru"
+  },
+  {
+    "code": "63.01.090.013",
+    "villageCode": "013",
+    "districtCode": "63.01.090",
+    "name": "Sungai Cuka",
+    "alias": "Sungai Cuka"
+  },
+  {
+    "code": "63.01.090.014",
+    "villageCode": "014",
+    "districtCode": "63.01.090",
+    "name": "Riam Adungan",
+    "alias": "Riam Adungan"
+  }
+]

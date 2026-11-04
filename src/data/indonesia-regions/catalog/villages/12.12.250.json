@@ -1,0 +1,37 @@
+[
+  {
+    "code": "12.12.250.001",
+    "villageCode": "001",
+    "districtCode": "12.12.250",
+    "name": "Helvetia",
+    "alias": "Helvetia"
+  },
+  {
+    "code": "12.12.250.002",
+    "villageCode": "002",
+    "districtCode": "12.12.250",
+    "name": "Manunggal",
+    "alias": "Manunggal"
+  },
+  {
+    "code": "12.12.250.003",
+    "villageCode": "003",
+    "districtCode": "12.12.250",
+    "name": "Pematang Johar",
+    "alias": "Pematang Johar"
+  },
+  {
+    "code": "12.12.250.004",
+    "villageCode": "004",
+    "districtCode": "12.12.250",
+    "name": "Telaga Tujuh",
+    "alias": "Telaga Tujuh"
+  },
+  {
+    "code": "12.12.250.005",
+    "villageCode": "005",
+    "districtCode": "12.12.250",
+    "name": "Karang Gading",
+    "alias": "Karang Gading"
+  }
+]

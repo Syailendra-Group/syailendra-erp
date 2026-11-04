@@ -1,0 +1,100 @@
+[
+  {
+    "code": "33.26.010.001",
+    "villageCode": "001",
+    "districtCode": "33.26.010",
+    "name": "Klesem",
+    "alias": "Klesem"
+  },
+  {
+    "code": "33.26.010.002",
+    "villageCode": "002",
+    "districtCode": "33.26.010",
+    "name": "Bodas",
+    "alias": "Bodas"
+  },
+  {
+    "code": "33.26.010.003",
+    "villageCode": "003",
+    "districtCode": "33.26.010",
+    "name": "Gembong",
+    "alias": "Gembong"
+  },
+  {
+    "code": "33.26.010.004",
+    "villageCode": "004",
+    "districtCode": "33.26.010",
+    "name": "Sukoharjo",
+    "alias": "Sukoharjo"
+  },
+  {
+    "code": "33.26.010.005",
+    "villageCode": "005",
+    "districtCode": "33.26.010",
+    "name": "Garungwiyoro",
+    "alias": "Garungwiyoro"
+  },
+  {
+    "code": "33.26.010.006",
+    "villageCode": "006",
+    "districtCode": "33.26.010",
+    "name": "Bubak",
+    "alias": "Bubak"
+  },
+  {
+    "code": "33.26.010.007",
+    "villageCode": "007",
+    "districtCode": "33.26.010",
+    "name": "Bojongkoneng",
+    "alias": "Bojongkoneng"
+  },
+  {
+    "code": "33.26.010.008",
+    "villageCode": "008",
+    "districtCode": "33.26.010",
+    "name": "Luragung",
+    "alias": "Luragung"
+  },
+  {
+    "code": "33.26.010.009",
+    "villageCode": "009",
+    "districtCode": "33.26.010",
+    "name": "Kandangserang",
+    "alias": "Kandangserang"
+  },
+  {
+    "code": "33.26.010.010",
+    "villageCode": "010",
+    "districtCode": "33.26.010",
+    "name": "Wangkelang",
+    "alias": "Wangkelang"
+  },
+  {
+    "code": "33.26.010.011",
+    "villageCode": "011",
+    "districtCode": "33.26.010",
+    "name": "Lambur",
+    "alias": "Lambur"
+  },
+  {
+    "code": "33.26.010.012",
+    "villageCode": "012",
+    "districtCode": "33.26.010",
+    "name": "Tajur",
+    "alias": "Tajur"
+  },
+  {
+    "code": "33.26.010.013",
+    "villageCode": "013",
+    "districtCode": "33.26.010",
+    "name": "Trajumas",
+    "alias": "Trajumas"
+  },
+  {
+    "code": "33.26.010.014",
+    "villageCode": "014",
+    "districtCode": "33.26.010",
+    "name": "Karanggondang",
+    "alias": "Karanggondang"
+  }
+]

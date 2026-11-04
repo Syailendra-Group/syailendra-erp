@@ -1,0 +1,44 @@
+[
+  {
+    "code": "62.71.010.004",
+    "villageCode": "004",
+    "districtCode": "62.71.010",
+    "name": "Pahandut",
+    "alias": "Pahandut"
+  },
+  {
+    "code": "62.71.010.005",
+    "villageCode": "005",
+    "districtCode": "62.71.010",
+    "name": "Panarung",
+    "alias": "Panarung"
+  },
+  {
+    "code": "62.71.010.006",
+    "villageCode": "006",
+    "districtCode": "62.71.010",
+    "name": "Langkai",
+    "alias": "Langkai"
+  },
+  {
+    "code": "62.71.010.009",
+    "villageCode": "009",
+    "districtCode": "62.71.010",
+    "name": "Tumbang Rungan",
+    "alias": "Tumbang Rungan"
+  },
+  {
+    "code": "62.71.010.010",
+    "villageCode": "010",
+    "districtCode": "62.71.010",
+    "name": "Tanjung Pinang",
+    "alias": "Tanjung Pinang"
+  },
+  {
+    "code": "62.71.010.011",
+    "villageCode": "011",
+    "districtCode": "62.71.010",
+    "name": "Pahandut Seberang",
+    "alias": "Pahandut Seberang"
+  }
+]

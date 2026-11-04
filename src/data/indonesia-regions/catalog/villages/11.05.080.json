@@ -1,0 +1,128 @@
+[
+  {
+    "code": "11.05.080.001",
+    "villageCode": "001",
+    "districtCode": "11.05.080",
+    "name": "Lokop",
+    "alias": "Lokop"
+  },
+  {
+    "code": "11.05.080.002",
+    "villageCode": "002",
+    "districtCode": "11.05.080",
+    "name": "Tualang",
+    "alias": "Tualang"
+  },
+  {
+    "code": "11.05.080.003",
+    "villageCode": "003",
+    "districtCode": "11.05.080",
+    "name": "Terujak",
+    "alias": "Terujak"
+  },
+  {
+    "code": "11.05.080.004",
+    "villageCode": "004",
+    "districtCode": "11.05.080",
+    "name": "Leles",
+    "alias": "Leles"
+  },
+  {
+    "code": "11.05.080.013",
+    "villageCode": "013",
+    "districtCode": "11.05.080",
+    "name": "Ujung Karang",
+    "alias": "Ujung Karang"
+  },
+  {
+    "code": "11.05.080.014",
+    "villageCode": "014",
+    "districtCode": "11.05.080",
+    "name": "Umah Taring",
+    "alias": "Umah Taring"
+  },
+  {
+    "code": "11.05.080.015",
+    "villageCode": "015",
+    "districtCode": "11.05.080",
+    "name": "Sunti",
+    "alias": "Sunti"
+  },
+  {
+    "code": "11.05.080.016",
+    "villageCode": "016",
+    "districtCode": "11.05.080",
+    "name": "Sekualan",
+    "alias": "Sekualan"
+  },
+  {
+    "code": "11.05.080.017",
+    "villageCode": "017",
+    "districtCode": "11.05.080",
+    "name": "Loot",
+    "alias": "Loot"
+  },
+  {
+    "code": "11.05.080.018",
+    "villageCode": "018",
+    "districtCode": "11.05.080",
+    "name": "Nalon",
+    "alias": "Nalon"
+  },
+  {
+    "code": "11.05.080.019",
+    "villageCode": "019",
+    "districtCode": "11.05.080",
+    "name": "Jering",
+    "alias": "Jering"
+  },
+  {
+    "code": "11.05.080.020",
+    "villageCode": "020",
+    "districtCode": "11.05.080",
+    "name": "Rampah",
+    "alias": "Rampah"
+  },
+  {
+    "code": "11.05.080.021",
+    "villageCode": "021",
+    "districtCode": "11.05.080",
+    "name": "Mesir",
+    "alias": "Mesir"
+  },
+  {
+    "code": "11.05.080.022",
+    "villageCode": "022",
+    "districtCode": "11.05.080",
+    "name": "Selemak",
+    "alias": "Selemak"
+  },
+  {
+    "code": "11.05.080.023",
+    "villageCode": "023",
+    "districtCode": "11.05.080",
+    "name": "Sembuang",
+    "alias": "Sembuang"
+  },
+  {
+    "code": "11.05.080.028",
+    "villageCode": "028",
+    "districtCode": "11.05.080",
+    "name": "Bunin",
+    "alias": "Bunin"
+  },
+  {
+    "code": "11.05.080.029",
+    "villageCode": "029",
+    "districtCode": "11.05.080",
+    "name": "Alur Durin",
+    "alias": "Alur Durin"
+  },
+  {
+    "code": "11.05.080.030",
+    "villageCode": "030",
+    "districtCode": "11.05.080",
+    "name": "Upt I Kuala Pangoh",
+    "alias": "Upt I Kuala Pangoh"
+  }
+]

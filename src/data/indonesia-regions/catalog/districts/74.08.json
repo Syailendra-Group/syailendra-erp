@@ -1,0 +1,122 @@
+[
+  {
+    "code": "74.08.010",
+    "districtCode": "010",
+    "regencyCode": "74.08",
+    "provinceCode": "74",
+    "name": "Kecamatan Ranteangin",
+    "alias": "Ranteangin"
+  },
+  {
+    "code": "74.08.011",
+    "districtCode": "011",
+    "regencyCode": "74.08",
+    "provinceCode": "74",
+    "name": "Kecamatan Lambai",
+    "alias": "Lambai"
+  },
+  {
+    "code": "74.08.012",
+    "districtCode": "012",
+    "regencyCode": "74.08",
+    "provinceCode": "74",
+    "name": "Kecamatan Wawo",
+    "alias": "Wawo"
+  },
+  {
+    "code": "74.08.020",
+    "districtCode": "020",
+    "regencyCode": "74.08",
+    "provinceCode": "74",
+    "name": "Kecamatan Lasusua",
+    "alias": "Lasusua"
+  },
+  {
+    "code": "74.08.021",
+    "districtCode": "021",
+    "regencyCode": "74.08",
+    "provinceCode": "74",
+    "name": "Kecamatan Katoi",
+    "alias": "Katoi"
+  },
+  {
+    "code": "74.08.030",
+    "districtCode": "030",
+    "regencyCode": "74.08",
+    "provinceCode": "74",
+    "name": "Kecamatan Kodeoha",
+    "alias": "Kodeoha"
+  },
+  {
+    "code": "74.08.031",
+    "districtCode": "031",
+    "regencyCode": "74.08",
+    "provinceCode": "74",
+    "name": "Kecamatan Tiwu",
+    "alias": "Tiwu"
+  },
+  {
+    "code": "74.08.040",
+    "districtCode": "040",
+    "regencyCode": "74.08",
+    "provinceCode": "74",
+    "name": "Kecamatan Ngapa",
+    "alias": "Ngapa"
+  },
+  {
+    "code": "74.08.041",
+    "districtCode": "041",
+    "regencyCode": "74.08",
+    "provinceCode": "74",
+    "name": "Kecamatan Watunohu",
+    "alias": "Watunohu"
+  },
+  {
+    "code": "74.08.050",
+    "districtCode": "050",
+    "regencyCode": "74.08",
+    "provinceCode": "74",
+    "name": "Kecamatan Pakue",
+    "alias": "Pakue"
+  },
+  {
+    "code": "74.08.051",
+    "districtCode": "051",
+    "regencyCode": "74.08",
+    "provinceCode": "74",
+    "name": "Kecamatan Pakue Utara",
+    "alias": "Pakue Utara"
+  },
+  {
+    "code": "74.08.052",
+    "districtCode": "052",
+    "regencyCode": "74.08",
+    "provinceCode": "74",
+    "name": "Kecamatan Pakue Tengah",
+    "alias": "Pakue Tengah"
+  },
+  {
+    "code": "74.08.060",
+    "districtCode": "060",
+    "regencyCode": "74.08",
+    "provinceCode": "74",
+    "name": "Kecamatan Batu Putih",
+    "alias": "Batu Putih"
+  },
+  {
+    "code": "74.08.061",
+    "districtCode": "061",
+    "regencyCode": "74.08",
+    "provinceCode": "74",
+    "name": "Kecamatan Porehu",
+    "alias": "Porehu"
+  },
+  {
+    "code": "74.08.062",
+    "districtCode": "062",
+    "regencyCode": "74.08",
+    "provinceCode": "74",
+    "name": "Kecamatan Tolala",
+    "alias": "Tolala"
+  }
+]

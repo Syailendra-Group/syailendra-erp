@@ -1,0 +1,146 @@
+[
+  {
+    "code": "81.03.010",
+    "districtCode": "010",
+    "regencyCode": "81.03",
+    "provinceCode": "81",
+    "name": "Kecamatan Banda",
+    "alias": "Banda"
+  },
+  {
+    "code": "81.03.040",
+    "districtCode": "040",
+    "regencyCode": "81.03",
+    "provinceCode": "81",
+    "name": "Kecamatan Tehoru",
+    "alias": "Tehoru"
+  },
+  {
+    "code": "81.03.041",
+    "districtCode": "041",
+    "regencyCode": "81.03",
+    "provinceCode": "81",
+    "name": "Kecamatan Telutih",
+    "alias": "Telutih"
+  },
+  {
+    "code": "81.03.050",
+    "districtCode": "050",
+    "regencyCode": "81.03",
+    "provinceCode": "81",
+    "name": "Kecamatan Amahai",
+    "alias": "Amahai"
+  },
+  {
+    "code": "81.03.051",
+    "districtCode": "051",
+    "regencyCode": "81.03",
+    "provinceCode": "81",
+    "name": "Kecamatan Kota Masohi",
+    "alias": "Kota Masohi"
+  },
+  {
+    "code": "81.03.052",
+    "districtCode": "052",
+    "regencyCode": "81.03",
+    "provinceCode": "81",
+    "name": "Kecamatan Teluk Elpaputih",
+    "alias": "Teluk Elpaputih"
+  },
+  {
+    "code": "81.03.060",
+    "districtCode": "060",
+    "regencyCode": "81.03",
+    "provinceCode": "81",
+    "name": "Kecamatan Teon Nila Serua",
+    "alias": "Teon Nila Serua"
+  },
+  {
+    "code": "81.03.080",
+    "districtCode": "080",
+    "regencyCode": "81.03",
+    "provinceCode": "81",
+    "name": "Kecamatan Saparua",
+    "alias": "Saparua"
+  },
+  {
+    "code": "81.03.081",
+    "districtCode": "081",
+    "regencyCode": "81.03",
+    "provinceCode": "81",
+    "name": "Kecamatan Nusalaut",
+    "alias": "Nusalaut"
+  },
+  {
+    "code": "81.03.082",
+    "districtCode": "082",
+    "regencyCode": "81.03",
+    "provinceCode": "81",
+    "name": "Kecamatan Saparua Timur",
+    "alias": "Saparua Timur"
+  },
+  {
+    "code": "81.03.090",
+    "districtCode": "090",
+    "regencyCode": "81.03",
+    "provinceCode": "81",
+    "name": "Kecamatan P. Haruku",
+    "alias": "P. Haruku"
+  },
+  {
+    "code": "81.03.100",
+    "districtCode": "100",
+    "regencyCode": "81.03",
+    "provinceCode": "81",
+    "name": "Kecamatan Salahutu",
+    "alias": "Salahutu"
+  },
+  {
+    "code": "81.03.110",
+    "districtCode": "110",
+    "regencyCode": "81.03",
+    "provinceCode": "81",
+    "name": "Kecamatan Leihitu",
+    "alias": "Leihitu"
+  },
+  {
+    "code": "81.03.111",
+    "districtCode": "111",
+    "regencyCode": "81.03",
+    "provinceCode": "81",
+    "name": "Kecamatan Leihitu Barat",
+    "alias": "Leihitu Barat"
+  },
+  {
+    "code": "81.03.140",
+    "districtCode": "140",
+    "regencyCode": "81.03",
+    "provinceCode": "81",
+    "name": "Kecamatan Seram Utara",
+    "alias": "Seram Utara"
+  },
+  {
+    "code": "81.03.141",
+    "districtCode": "141",
+    "regencyCode": "81.03",
+    "provinceCode": "81",
+    "name": "Kecamatan Seram Utara Barat",
+    "alias": "Seram Utara Barat"
+  },
+  {
+    "code": "81.03.142",
+    "districtCode": "142",
+    "regencyCode": "81.03",
+    "provinceCode": "81",
+    "name": "Kecamatan Seram Utara Timur Kobi",
+    "alias": "Seram Utara Timur Kobi"
+  },
+  {
+    "code": "81.03.143",
+    "districtCode": "143",
+    "regencyCode": "81.03",
+    "provinceCode": "81",
+    "name": "Kecamatan Seram Utara Timur Seti",
+    "alias": "Seram Utara Timur Seti"
+  }
+]

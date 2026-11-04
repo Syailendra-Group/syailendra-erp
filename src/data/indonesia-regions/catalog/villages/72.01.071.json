@@ -1,0 +1,79 @@
+[
+  {
+    "code": "72.01.071.001",
+    "villageCode": "001",
+    "districtCode": "72.01.071",
+    "name": "Kambani",
+    "alias": "Kambani"
+  },
+  {
+    "code": "72.01.071.002",
+    "villageCode": "002",
+    "districtCode": "72.01.071",
+    "name": "Tatabau",
+    "alias": "Tatabau"
+  },
+  {
+    "code": "72.01.071.003",
+    "villageCode": "003",
+    "districtCode": "72.01.071",
+    "name": "Buko",
+    "alias": "Buko"
+  },
+  {
+    "code": "72.01.071.004",
+    "villageCode": "004",
+    "districtCode": "72.01.071",
+    "name": "Palapat",
+    "alias": "Palapat"
+  },
+  {
+    "code": "72.01.071.005",
+    "villageCode": "005",
+    "districtCode": "72.01.071",
+    "name": "Lumbi-Lumbia",
+    "alias": "Lumbi-Lumbia"
+  },
+  {
+    "code": "72.01.071.006",
+    "villageCode": "006",
+    "districtCode": "72.01.071",
+    "name": "Labangun",
+    "alias": "Labangun"
+  },
+  {
+    "code": "72.01.071.007",
+    "villageCode": "007",
+    "districtCode": "72.01.071",
+    "name": "Seano",
+    "alias": "Seano"
+  },
+  {
+    "code": "72.01.071.008",
+    "villageCode": "008",
+    "districtCode": "72.01.071",
+    "name": "Apal",
+    "alias": "Apal"
+  },
+  {
+    "code": "72.01.071.009",
+    "villageCode": "009",
+    "districtCode": "72.01.071",
+    "name": "Lelang Matamaling",
+    "alias": "Lelang Matamaling"
+  },
+  {
+    "code": "72.01.071.010",
+    "villageCode": "010",
+    "districtCode": "72.01.071",
+    "name": "Landonan Bebeau",
+    "alias": "Landonan Bebeau"
+  },
+  {
+    "code": "72.01.071.011",
+    "villageCode": "011",
+    "districtCode": "72.01.071",
+    "name": "Sapelang",
+    "alias": "Sapelang"
+  }
+]

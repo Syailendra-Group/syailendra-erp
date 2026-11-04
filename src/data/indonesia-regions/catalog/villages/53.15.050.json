@@ -1,0 +1,93 @@
+[
+  {
+    "code": "53.15.050.006",
+    "villageCode": "006",
+    "districtCode": "53.15.050",
+    "name": "Wontong",
+    "alias": "Wontong"
+  },
+  {
+    "code": "53.15.050.007",
+    "villageCode": "007",
+    "districtCode": "53.15.050",
+    "name": "Rego",
+    "alias": "Rego"
+  },
+  {
+    "code": "53.15.050.008",
+    "villageCode": "008",
+    "districtCode": "53.15.050",
+    "name": "Nggilat",
+    "alias": "Nggilat"
+  },
+  {
+    "code": "53.15.050.009",
+    "villageCode": "009",
+    "districtCode": "53.15.050",
+    "name": "Mbakung",
+    "alias": "Mbakung"
+  },
+  {
+    "code": "53.15.050.010",
+    "villageCode": "010",
+    "districtCode": "53.15.050",
+    "name": "Bari",
+    "alias": "Bari"
+  },
+  {
+    "code": "53.15.050.011",
+    "villageCode": "011",
+    "districtCode": "53.15.050",
+    "name": "Rokap",
+    "alias": "Rokap"
+  },
+  {
+    "code": "53.15.050.012",
+    "villageCode": "012",
+    "districtCode": "53.15.050",
+    "name": "Raba",
+    "alias": "Raba"
+  },
+  {
+    "code": "53.15.050.013",
+    "villageCode": "013",
+    "districtCode": "53.15.050",
+    "name": "Nanga Kantor",
+    "alias": "Nanga Kantor"
+  },
+  {
+    "code": "53.15.050.022",
+    "villageCode": "022",
+    "districtCode": "53.15.050",
+    "name": "Watu Baru",
+    "alias": "Watu Baru"
+  },
+  {
+    "code": "53.15.050.023",
+    "villageCode": "023",
+    "districtCode": "53.15.050",
+    "name": "Lewat",
+    "alias": "Lewat"
+  },
+  {
+    "code": "53.15.050.024",
+    "villageCode": "024",
+    "districtCode": "53.15.050",
+    "name": "Watu Manggar",
+    "alias": "Watu Manggar"
+  },
+  {
+    "code": "53.15.050.025",
+    "villageCode": "025",
+    "districtCode": "53.15.050",
+    "name": "Sarae Naru",
+    "alias": "Sarae Naru"
+  },
+  {
+    "code": "53.15.050.026",
+    "villageCode": "026",
+    "districtCode": "53.15.050",
+    "name": "Nanga Kantor Barat",
+    "alias": "Nanga Kantor Barat"
+  }
+]

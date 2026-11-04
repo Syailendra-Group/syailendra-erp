@@ -1,0 +1,42 @@
+[
+  {
+    "code": "16.12.010",
+    "districtCode": "010",
+    "regencyCode": "16.12",
+    "provinceCode": "16",
+    "name": "Kecamatan Talang Ubi",
+    "alias": "Talang Ubi"
+  },
+  {
+    "code": "16.12.020",
+    "districtCode": "020",
+    "regencyCode": "16.12",
+    "provinceCode": "16",
+    "name": "Kecamatan Tanah Abang",
+    "alias": "Tanah Abang"
+  },
+  {
+    "code": "16.12.030",
+    "districtCode": "030",
+    "regencyCode": "16.12",
+    "provinceCode": "16",
+    "name": "Kecamatan Abab",
+    "alias": "Abab"
+  },
+  {
+    "code": "16.12.040",
+    "districtCode": "040",
+    "regencyCode": "16.12",
+    "provinceCode": "16",
+    "name": "Kecamatan Penukal",
+    "alias": "Penukal"
+  },
+  {
+    "code": "16.12.050",
+    "districtCode": "050",
+    "regencyCode": "16.12",
+    "provinceCode": "16",
+    "name": "Kecamatan Penukal Utara",
+    "alias": "Penukal Utara"
+  }
+]

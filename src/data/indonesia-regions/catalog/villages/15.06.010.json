@@ -1,0 +1,65 @@
+[
+  {
+    "code": "15.06.010.010",
+    "villageCode": "010",
+    "districtCode": "15.06.010",
+    "name": "Mendahara Tengah",
+    "alias": "Mendahara Tengah"
+  },
+  {
+    "code": "15.06.010.011",
+    "villageCode": "011",
+    "districtCode": "15.06.010",
+    "name": "Pangkal Duri",
+    "alias": "Pangkal Duri"
+  },
+  {
+    "code": "15.06.010.012",
+    "villageCode": "012",
+    "districtCode": "15.06.010",
+    "name": "Mendahara Ilir",
+    "alias": "Mendahara Ilir"
+  },
+  {
+    "code": "15.06.010.013",
+    "villageCode": "013",
+    "districtCode": "15.06.010",
+    "name": "Lagan Ilir",
+    "alias": "Lagan Ilir"
+  },
+  {
+    "code": "15.06.010.014",
+    "villageCode": "014",
+    "districtCode": "15.06.010",
+    "name": "Bakti Idaman",
+    "alias": "Bakti Idaman"
+  },
+  {
+    "code": "15.06.010.015",
+    "villageCode": "015",
+    "districtCode": "15.06.010",
+    "name": "Merbau",
+    "alias": "Merbau"
+  },
+  {
+    "code": "15.06.010.016",
+    "villageCode": "016",
+    "districtCode": "15.06.010",
+    "name": "Sungai Tawar",
+    "alias": "Sungai Tawar"
+  },
+  {
+    "code": "15.06.010.017",
+    "villageCode": "017",
+    "districtCode": "15.06.010",
+    "name": "Sinar Kalimantan",
+    "alias": "Sinar Kalimantan"
+  },
+  {
+    "code": "15.06.010.018",
+    "villageCode": "018",
+    "districtCode": "15.06.010",
+    "name": "Pangkal Duri Ilir",
+    "alias": "Pangkal Duri Ilir"
+  }
+]

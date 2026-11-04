@@ -1,0 +1,72 @@
+[
+  {
+    "code": "62.10.040.001",
+    "villageCode": "001",
+    "districtCode": "62.10.040",
+    "name": "Buntoi",
+    "alias": "Buntoi"
+  },
+  {
+    "code": "62.10.040.002",
+    "villageCode": "002",
+    "districtCode": "62.10.040",
+    "name": "Mintin",
+    "alias": "Mintin"
+  },
+  {
+    "code": "62.10.040.003",
+    "villageCode": "003",
+    "districtCode": "62.10.040",
+    "name": "Mantaren Ii",
+    "alias": "Mantaren Ii"
+  },
+  {
+    "code": "62.10.040.004",
+    "villageCode": "004",
+    "districtCode": "62.10.040",
+    "name": "Mantaren I",
+    "alias": "Mantaren I"
+  },
+  {
+    "code": "62.10.040.005",
+    "villageCode": "005",
+    "districtCode": "62.10.040",
+    "name": "Pulang Pisau",
+    "alias": "Pulang Pisau"
+  },
+  {
+    "code": "62.10.040.006",
+    "villageCode": "006",
+    "districtCode": "62.10.040",
+    "name": "Anjir Pulang Pisau",
+    "alias": "Anjir Pulang Pisau"
+  },
+  {
+    "code": "62.10.040.007",
+    "villageCode": "007",
+    "districtCode": "62.10.040",
+    "name": "Gohong",
+    "alias": "Gohong"
+  },
+  {
+    "code": "62.10.040.008",
+    "villageCode": "008",
+    "districtCode": "62.10.040",
+    "name": "Kalawa",
+    "alias": "Kalawa"
+  },
+  {
+    "code": "62.10.040.009",
+    "villageCode": "009",
+    "districtCode": "62.10.040",
+    "name": "Hanjak Maju",
+    "alias": "Hanjak Maju"
+  },
+  {
+    "code": "62.10.040.010",
+    "villageCode": "010",
+    "districtCode": "62.10.040",
+    "name": "Bereng",
+    "alias": "Bereng"
+  }
+]

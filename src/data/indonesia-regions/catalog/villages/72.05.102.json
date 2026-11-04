@@ -1,0 +1,44 @@
+[
+  {
+    "code": "72.05.102.001",
+    "villageCode": "001",
+    "districtCode": "72.05.102",
+    "name": "Tamarenja",
+    "alias": "Tamarenja"
+  },
+  {
+    "code": "72.05.102.002",
+    "villageCode": "002",
+    "districtCode": "72.05.102",
+    "name": "Oti",
+    "alias": "Oti"
+  },
+  {
+    "code": "72.05.102.003",
+    "villageCode": "003",
+    "districtCode": "72.05.102",
+    "name": "Alindau",
+    "alias": "Alindau"
+  },
+  {
+    "code": "72.05.102.004",
+    "villageCode": "004",
+    "districtCode": "72.05.102",
+    "name": "Sikara Tobata",
+    "alias": "Sikara Tobata"
+  },
+  {
+    "code": "72.05.102.005",
+    "villageCode": "005",
+    "districtCode": "72.05.102",
+    "name": "Sipeso",
+    "alias": "Sipeso"
+  },
+  {
+    "code": "72.05.102.006",
+    "villageCode": "006",
+    "districtCode": "72.05.102",
+    "name": "Sindosa",
+    "alias": "Sindosa"
+  }
+]

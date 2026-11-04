@@ -1,0 +1,72 @@
+[
+  {
+    "code": "73.22.010.001",
+    "villageCode": "001",
+    "districtCode": "73.22.010",
+    "name": "Tandung",
+    "alias": "Tandung"
+  },
+  {
+    "code": "73.22.010.011",
+    "villageCode": "011",
+    "districtCode": "73.22.010",
+    "name": "Pararra",
+    "alias": "Pararra"
+  },
+  {
+    "code": "73.22.010.013",
+    "villageCode": "013",
+    "districtCode": "73.22.010",
+    "name": "Buntu Terpedo",
+    "alias": "Buntu Terpedo"
+  },
+  {
+    "code": "73.22.010.014",
+    "villageCode": "014",
+    "districtCode": "73.22.010",
+    "name": "Tulak Tallu",
+    "alias": "Tulak Tallu"
+  },
+  {
+    "code": "73.22.010.015",
+    "villageCode": "015",
+    "districtCode": "73.22.010",
+    "name": "Bakka",
+    "alias": "Bakka"
+  },
+  {
+    "code": "73.22.010.016",
+    "villageCode": "016",
+    "districtCode": "73.22.010",
+    "name": "Pengkendekan",
+    "alias": "Pengkendekan"
+  },
+  {
+    "code": "73.22.010.017",
+    "villageCode": "017",
+    "districtCode": "73.22.010",
+    "name": "Marobo",
+    "alias": "Marobo"
+  },
+  {
+    "code": "73.22.010.018",
+    "villageCode": "018",
+    "districtCode": "73.22.010",
+    "name": "Sabbang",
+    "alias": "Sabbang"
+  },
+  {
+    "code": "73.22.010.019",
+    "villageCode": "019",
+    "districtCode": "73.22.010",
+    "name": "Salama",
+    "alias": "Salama"
+  },
+  {
+    "code": "73.22.010.020",
+    "villageCode": "020",
+    "districtCode": "73.22.010",
+    "name": "Malimbu",
+    "alias": "Malimbu"
+  }
+]

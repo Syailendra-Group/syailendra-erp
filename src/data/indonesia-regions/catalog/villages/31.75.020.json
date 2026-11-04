@@ -1,0 +1,23 @@
+[
+  {
+    "code": "31.75.020.001",
+    "villageCode": "001",
+    "districtCode": "31.75.020",
+    "name": "Pademangan Barat",
+    "alias": "Pademangan Barat"
+  },
+  {
+    "code": "31.75.020.002",
+    "villageCode": "002",
+    "districtCode": "31.75.020",
+    "name": "Pademangan Timur",
+    "alias": "Pademangan Timur"
+  },
+  {
+    "code": "31.75.020.003",
+    "villageCode": "003",
+    "districtCode": "31.75.020",
+    "name": "Ancol",
+    "alias": "Ancol"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "code": "34.04.150.001",
+    "villageCode": "001",
+    "districtCode": "34.04.150",
+    "name": "Bangun Kerto",
+    "alias": "Bangun Kerto"
+  },
+  {
+    "code": "34.04.150.002",
+    "villageCode": "002",
+    "districtCode": "34.04.150",
+    "name": "Donokerto",
+    "alias": "Donokerto"
+  },
+  {
+    "code": "34.04.150.003",
+    "villageCode": "003",
+    "districtCode": "34.04.150",
+    "name": "Giri Kerto",
+    "alias": "Giri Kerto"
+  },
+  {
+    "code": "34.04.150.004",
+    "villageCode": "004",
+    "districtCode": "34.04.150",
+    "name": "Wono Kerto",
+    "alias": "Wono Kerto"
+  }
+]

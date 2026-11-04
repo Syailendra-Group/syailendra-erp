@@ -1,0 +1,72 @@
+[
+  {
+    "code": "14.08.020.005",
+    "villageCode": "005",
+    "districtCode": "14.08.020",
+    "name": "Pangkalan Jambi",
+    "alias": "Pangkalan Jambi"
+  },
+  {
+    "code": "14.08.020.014",
+    "villageCode": "014",
+    "districtCode": "14.08.020",
+    "name": "Dompas",
+    "alias": "Dompas"
+  },
+  {
+    "code": "14.08.020.015",
+    "villageCode": "015",
+    "districtCode": "14.08.020",
+    "name": "Sejangat",
+    "alias": "Sejangat"
+  },
+  {
+    "code": "14.08.020.016",
+    "villageCode": "016",
+    "districtCode": "14.08.020",
+    "name": "Sungai Pakning",
+    "alias": "Sungai Pakning"
+  },
+  {
+    "code": "14.08.020.017",
+    "villageCode": "017",
+    "districtCode": "14.08.020",
+    "name": "Sungai Selari",
+    "alias": "Sungai Selari"
+  },
+  {
+    "code": "14.08.020.018",
+    "villageCode": "018",
+    "districtCode": "14.08.020",
+    "name": "Buruk Bakul",
+    "alias": "Buruk Bakul"
+  },
+  {
+    "code": "14.08.020.019",
+    "villageCode": "019",
+    "districtCode": "14.08.020",
+    "name": "Bukit Batu",
+    "alias": "Bukit Batu"
+  },
+  {
+    "code": "14.08.020.020",
+    "villageCode": "020",
+    "districtCode": "14.08.020",
+    "name": "Sukajadi",
+    "alias": "Sukajadi"
+  },
+  {
+    "code": "14.08.020.029",
+    "villageCode": "029",
+    "districtCode": "14.08.020",
+    "name": "Pakning Asal",
+    "alias": "Pakning Asal"
+  },
+  {
+    "code": "14.08.020.030",
+    "villageCode": "030",
+    "districtCode": "14.08.020",
+    "name": "Batang Duku",
+    "alias": "Batang Duku"
+  }
+]

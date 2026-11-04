@@ -1,0 +1,65 @@
+[
+  {
+    "code": "16.74.032.001",
+    "villageCode": "001",
+    "districtCode": "16.74.032",
+    "name": "Mesat Jaya",
+    "alias": "Mesat Jaya"
+  },
+  {
+    "code": "16.74.032.002",
+    "villageCode": "002",
+    "districtCode": "16.74.032",
+    "name": "Mesat Seni",
+    "alias": "Mesat Seni"
+  },
+  {
+    "code": "16.74.032.003",
+    "villageCode": "003",
+    "districtCode": "16.74.032",
+    "name": "Jawa Kanan",
+    "alias": "Jawa Kanan"
+  },
+  {
+    "code": "16.74.032.004",
+    "villageCode": "004",
+    "districtCode": "16.74.032",
+    "name": "Jawa Kanan Ss",
+    "alias": "Jawa Kanan Ss"
+  },
+  {
+    "code": "16.74.032.005",
+    "villageCode": "005",
+    "districtCode": "16.74.032",
+    "name": "Jawa Kiri",
+    "alias": "Jawa Kiri"
+  },
+  {
+    "code": "16.74.032.006",
+    "villageCode": "006",
+    "districtCode": "16.74.032",
+    "name": "Wira Karya",
+    "alias": "Wira Karya"
+  },
+  {
+    "code": "16.74.032.007",
+    "villageCode": "007",
+    "districtCode": "16.74.032",
+    "name": "Dempo",
+    "alias": "Dempo"
+  },
+  {
+    "code": "16.74.032.008",
+    "villageCode": "008",
+    "districtCode": "16.74.032",
+    "name": "Karya Bhakti",
+    "alias": "Karya Bhakti"
+  },
+  {
+    "code": "16.74.032.009",
+    "villageCode": "009",
+    "districtCode": "16.74.032",
+    "name": "Cereme Taba",
+    "alias": "Cereme Taba"
+  }
+]

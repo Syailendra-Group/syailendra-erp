@@ -1,0 +1,65 @@
+[
+  {
+    "code": "62.13.050.001",
+    "villageCode": "001",
+    "districtCode": "62.13.050",
+    "name": "Kalapeh Baru",
+    "alias": "Kalapeh Baru"
+  },
+  {
+    "code": "62.13.050.002",
+    "villageCode": "002",
+    "districtCode": "62.13.050",
+    "name": "Tumbang Masao",
+    "alias": "Tumbang Masao"
+  },
+  {
+    "code": "62.13.050.003",
+    "villageCode": "003",
+    "districtCode": "62.13.050",
+    "name": "Batu Makap",
+    "alias": "Batu Makap"
+  },
+  {
+    "code": "62.13.050.004",
+    "villageCode": "004",
+    "districtCode": "62.13.050",
+    "name": "Tumbang Kunyi",
+    "alias": "Tumbang Kunyi"
+  },
+  {
+    "code": "62.13.050.005",
+    "villageCode": "005",
+    "districtCode": "62.13.050",
+    "name": "Olong Liko",
+    "alias": "Olong Liko"
+  },
+  {
+    "code": "62.13.050.006",
+    "villageCode": "006",
+    "districtCode": "62.13.050",
+    "name": "Teluk Jolo",
+    "alias": "Teluk Jolo"
+  },
+  {
+    "code": "62.13.050.007",
+    "villageCode": "007",
+    "districtCode": "62.13.050",
+    "name": "Laas Baru",
+    "alias": "Laas Baru"
+  },
+  {
+    "code": "62.13.050.008",
+    "villageCode": "008",
+    "districtCode": "62.13.050",
+    "name": "Tumbang Tuan",
+    "alias": "Tumbang Tuan"
+  },
+  {
+    "code": "62.13.050.019",
+    "villageCode": "019",
+    "districtCode": "62.13.050",
+    "name": "Tumbang Mulut",
+    "alias": "Tumbang Mulut"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "code": "91.04.081.001",
+    "villageCode": "001",
+    "districtCode": "91.04.081",
+    "name": "Meyado",
+    "alias": "Meyado"
+  },
+  {
+    "code": "91.04.081.002",
+    "villageCode": "002",
+    "districtCode": "91.04.081",
+    "name": "Barma",
+    "alias": "Barma"
+  },
+  {
+    "code": "91.04.081.003",
+    "villageCode": "003",
+    "districtCode": "91.04.081",
+    "name": "Barma Baru / Stekool 2",
+    "alias": "Barma Baru / Stekool 2"
+  },
+  {
+    "code": "91.04.081.004",
+    "villageCode": "004",
+    "districtCode": "91.04.081",
+    "name": "Vesco Damnem / Stenkool 3",
+    "alias": "Vesco Damnem / Stenkool 3"
+  },
+  {
+    "code": "91.04.081.005",
+    "villageCode": "005",
+    "districtCode": "91.04.081",
+    "name": "Meyado Ii",
+    "alias": "Meyado Ii"
+  },
+  {
+    "code": "91.04.081.006",
+    "villageCode": "006",
+    "districtCode": "91.04.081",
+    "name": "Dagu",
+    "alias": "Dagu"
+  },
+  {
+    "code": "91.04.081.007",
+    "villageCode": "007",
+    "districtCode": "91.04.081",
+    "name": "Kaibur",
+    "alias": "Kaibur"
+  },
+  {
+    "code": "91.04.081.008",
+    "villageCode": "008",
+    "districtCode": "91.04.081",
+    "name": "Manofi",
+    "alias": "Manofi"
+  },
+  {
+    "code": "91.04.081.009",
+    "villageCode": "009",
+    "districtCode": "91.04.081",
+    "name": "Kali Hitam",
+    "alias": "Kali Hitam"
+  }
+]

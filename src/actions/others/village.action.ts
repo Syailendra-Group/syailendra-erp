@@ -2,7 +2,16 @@
 
 import { revalidatePath } from 'next/cache'
 
-import { fetchVillageById, fetchVillages, fetchVillagesPaginated, persistVillage, toggleVillageStatus } from '@/services/odoo/others/village.service'
+import {
+  checkParentDistrictExists,
+  checkVillageExistsInOdoo,
+  fetchVillageById,
+  fetchVillageFilterOptions,
+  fetchVillages,
+  fetchVillagesPaginated,
+  persistVillage,
+  toggleVillageStatus
+} from '@/services/odoo/others/village.service'
 
 import type { VillageFormValues } from '@/schemas/others/village-schema'
 import type { FetchVillagesParams, PaginatedVillagesResult } from '@/services/odoo/others/village.service'
@@ -42,6 +51,41 @@ export async function getVillageByIdAction(id: number): Promise<VillageRecord | 
   }
 }
 
+export async function checkVillageExistsAction(params: {
+  code?: string
+  name?: string
+}): Promise<{ exists: boolean; id?: number; name?: string; code?: string }> {
+  try {
+    return await checkVillageExistsInOdoo(params)
+  } catch (error) {
+    console.error('Failed to check village existence in Odoo:', error)
+    return { exists: false }
+  }
+}
+
+export async function checkParentDistrictAction(name: string, code?: string): Promise<{ exists: boolean; id?: number; name?: string }> {
+  try {
+    return await checkParentDistrictExists(name, code)
+  } catch (error) {
+    console.error('Failed to check parent district existence:', error)
+    return { exists: false }
+  }
+}
+
+export async function getVillageFilterOptionsAction(): Promise<{
+  countries: { id: number; name: string }[]
+  states: { id: number; name: string; countryId?: number }[]
+  cities: { id: number; name: string; stateId?: number }[]
+  districts: { id: number; name: string; cityId?: number }[]
+}> {
+  try {
+    return await fetchVillageFilterOptions()
+  } catch (error) {
+    console.error('Failed to fetch village filter options:', error)
+    return { countries: [], states: [], cities: [], districts: [] }
+  }
+}
+
 export async function saveVillageAction(values: VillageFormValues): Promise<{ success: boolean; error?: string; id?: number }> {
   try {
     const id = await persistVillage(values)
@@ -63,7 +107,7 @@ export async function toggleVillageStatusAction(id: number, active: boolean): Pr
     revalidatePath('/others/villages')
     return { success }
   } catch (error) {
-    console.error(`Failed to toggle village active status for ID ${id}:`, error)
+    console.error(`Failed to toggle village status for ID ${id}:`, error)
     return {
       success: false,
       error: error instanceof Error ? error.message : 'Failed to update status'

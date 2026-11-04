@@ -1,0 +1,86 @@
+[
+  {
+    "code": "35.06.060.001",
+    "villageCode": "001",
+    "districtCode": "35.06.060",
+    "name": "Sumberjo",
+    "alias": "Sumberjo"
+  },
+  {
+    "code": "35.06.060.002",
+    "villageCode": "002",
+    "districtCode": "35.06.060",
+    "name": "Karangrejo",
+    "alias": "Karangrejo"
+  },
+  {
+    "code": "35.06.060.003",
+    "villageCode": "003",
+    "districtCode": "35.06.060",
+    "name": "Selosari",
+    "alias": "Selosari"
+  },
+  {
+    "code": "35.06.060.004",
+    "villageCode": "004",
+    "districtCode": "35.06.060",
+    "name": "Kandat",
+    "alias": "Kandat"
+  },
+  {
+    "code": "35.06.060.005",
+    "villageCode": "005",
+    "districtCode": "35.06.060",
+    "name": "Cendono",
+    "alias": "Cendono"
+  },
+  {
+    "code": "35.06.060.006",
+    "villageCode": "006",
+    "districtCode": "35.06.060",
+    "name": "Ringinsari",
+    "alias": "Ringinsari"
+  },
+  {
+    "code": "35.06.060.007",
+    "villageCode": "007",
+    "districtCode": "35.06.060",
+    "name": "Tegalan",
+    "alias": "Tegalan"
+  },
+  {
+    "code": "35.06.060.008",
+    "villageCode": "008",
+    "districtCode": "35.06.060",
+    "name": "Ngletih",
+    "alias": "Ngletih"
+  },
+  {
+    "code": "35.06.060.009",
+    "villageCode": "009",
+    "districtCode": "35.06.060",
+    "name": "Purworejo",
+    "alias": "Purworejo"
+  },
+  {
+    "code": "35.06.060.010",
+    "villageCode": "010",
+    "districtCode": "35.06.060",
+    "name": "Pule",
+    "alias": "Pule"
+  },
+  {
+    "code": "35.06.060.011",
+    "villageCode": "011",
+    "districtCode": "35.06.060",
+    "name": "Blabak",
+    "alias": "Blabak"
+  },
+  {
+    "code": "35.06.060.012",
+    "villageCode": "012",
+    "districtCode": "35.06.060",
+    "name": "Ngreco",
+    "alias": "Ngreco"
+  }
+]

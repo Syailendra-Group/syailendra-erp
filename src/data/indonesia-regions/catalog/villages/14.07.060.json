@@ -1,0 +1,72 @@
+[
+  {
+    "code": "14.07.060.004",
+    "villageCode": "004",
+    "districtCode": "14.07.060",
+    "name": "Kepenuhan Tengah",
+    "alias": "Kepenuhan Tengah"
+  },
+  {
+    "code": "14.07.060.005",
+    "villageCode": "005",
+    "districtCode": "14.07.060",
+    "name": "Kepenuhan Barat",
+    "alias": "Kepenuhan Barat"
+  },
+  {
+    "code": "14.07.060.006",
+    "villageCode": "006",
+    "districtCode": "14.07.060",
+    "name": "Kepenuhan Raya",
+    "alias": "Kepenuhan Raya"
+  },
+  {
+    "code": "14.07.060.007",
+    "villageCode": "007",
+    "districtCode": "14.07.060",
+    "name": "Kepenuhan Baru",
+    "alias": "Kepenuhan Baru"
+  },
+  {
+    "code": "14.07.060.009",
+    "villageCode": "009",
+    "districtCode": "14.07.060",
+    "name": "Kepenuhan Timur",
+    "alias": "Kepenuhan Timur"
+  },
+  {
+    "code": "14.07.060.010",
+    "villageCode": "010",
+    "districtCode": "14.07.060",
+    "name": "Kepenuhan Hilir",
+    "alias": "Kepenuhan Hilir"
+  },
+  {
+    "code": "14.07.060.013",
+    "villageCode": "013",
+    "districtCode": "14.07.060",
+    "name": "Ulak Patian",
+    "alias": "Ulak Patian"
+  },
+  {
+    "code": "14.07.060.016",
+    "villageCode": "016",
+    "districtCode": "14.07.060",
+    "name": "Rantau Binuang Sakti",
+    "alias": "Rantau Binuang Sakti"
+  },
+  {
+    "code": "14.07.060.017",
+    "villageCode": "017",
+    "districtCode": "14.07.060",
+    "name": "Kepenuhan Barat Mulya",
+    "alias": "Kepenuhan Barat Mulya"
+  },
+  {
+    "code": "14.07.060.018",
+    "villageCode": "018",
+    "districtCode": "14.07.060",
+    "name": "Kepenuhan Barat Sungai Rokan Jaya",
+    "alias": "Kepenuhan Barat Sungai Rokan Jaya"
+  }
+]

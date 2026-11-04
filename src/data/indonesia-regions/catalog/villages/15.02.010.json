@@ -1,0 +1,79 @@
+[
+  {
+    "code": "15.02.010.015",
+    "villageCode": "015",
+    "districtCode": "15.02.010",
+    "name": "Muara Madras",
+    "alias": "Muara Madras"
+  },
+  {
+    "code": "15.02.010.016",
+    "villageCode": "016",
+    "districtCode": "15.02.010",
+    "name": "Lubuk Pungguk",
+    "alias": "Lubuk Pungguk"
+  },
+  {
+    "code": "15.02.010.017",
+    "villageCode": "017",
+    "districtCode": "15.02.010",
+    "name": "Pulau Tengah",
+    "alias": "Pulau Tengah"
+  },
+  {
+    "code": "15.02.010.018",
+    "villageCode": "018",
+    "districtCode": "15.02.010",
+    "name": "Renah Alai",
+    "alias": "Renah Alai"
+  },
+  {
+    "code": "15.02.010.019",
+    "villageCode": "019",
+    "districtCode": "15.02.010",
+    "name": "Lubuk Mentilin",
+    "alias": "Lubuk Mentilin"
+  },
+  {
+    "code": "15.02.010.020",
+    "villageCode": "020",
+    "districtCode": "15.02.010",
+    "name": "Rantau Kermas",
+    "alias": "Rantau Kermas"
+  },
+  {
+    "code": "15.02.010.021",
+    "villageCode": "021",
+    "districtCode": "15.02.010",
+    "name": "Tanjung Kasri",
+    "alias": "Tanjung Kasri"
+  },
+  {
+    "code": "15.02.010.022",
+    "villageCode": "022",
+    "districtCode": "15.02.010",
+    "name": "Renah Kemumu",
+    "alias": "Renah Kemumu"
+  },
+  {
+    "code": "15.02.010.023",
+    "villageCode": "023",
+    "districtCode": "15.02.010",
+    "name": "Koto Renah",
+    "alias": "Koto Renah"
+  },
+  {
+    "code": "15.02.010.024",
+    "villageCode": "024",
+    "districtCode": "15.02.010",
+    "name": "Renah Pelaan",
+    "alias": "Renah Pelaan"
+  },
+  {
+    "code": "15.02.010.025",
+    "villageCode": "025",
+    "districtCode": "15.02.010",
+    "name": "Koto Rawang",
+    "alias": "Koto Rawang"
+  }
+]

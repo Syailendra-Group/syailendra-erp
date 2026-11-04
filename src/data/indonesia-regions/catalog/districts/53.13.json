@@ -1,0 +1,98 @@
+[
+  {
+    "code": "53.13.040",
+    "districtCode": "040",
+    "regencyCode": "53.13",
+    "provinceCode": "53",
+    "name": "Kecamatan Satar Mese",
+    "alias": "Satar Mese"
+  },
+  {
+    "code": "53.13.041",
+    "districtCode": "041",
+    "regencyCode": "53.13",
+    "provinceCode": "53",
+    "name": "Kecamatan Satar Mese Barat",
+    "alias": "Satar Mese Barat"
+  },
+  {
+    "code": "53.13.042",
+    "districtCode": "042",
+    "regencyCode": "53.13",
+    "provinceCode": "53",
+    "name": "Kecamatan Satar Mese Utara",
+    "alias": "Satar Mese Utara"
+  },
+  {
+    "code": "53.13.110",
+    "districtCode": "110",
+    "regencyCode": "53.13",
+    "provinceCode": "53",
+    "name": "Kecamatan Langke Rembong",
+    "alias": "Langke Rembong"
+  },
+  {
+    "code": "53.13.120",
+    "districtCode": "120",
+    "regencyCode": "53.13",
+    "provinceCode": "53",
+    "name": "Kecamatan Ruteng",
+    "alias": "Ruteng"
+  },
+  {
+    "code": "53.13.121",
+    "districtCode": "121",
+    "regencyCode": "53.13",
+    "provinceCode": "53",
+    "name": "Kecamatan Wae Rii",
+    "alias": "Wae Rii"
+  },
+  {
+    "code": "53.13.122",
+    "districtCode": "122",
+    "regencyCode": "53.13",
+    "provinceCode": "53",
+    "name": "Kecamatan Lelak",
+    "alias": "Lelak"
+  },
+  {
+    "code": "53.13.123",
+    "districtCode": "123",
+    "regencyCode": "53.13",
+    "provinceCode": "53",
+    "name": "Kecamatan Rahong Utara",
+    "alias": "Rahong Utara"
+  },
+  {
+    "code": "53.13.130",
+    "districtCode": "130",
+    "regencyCode": "53.13",
+    "provinceCode": "53",
+    "name": "Kecamatan Cibal",
+    "alias": "Cibal"
+  },
+  {
+    "code": "53.13.131",
+    "districtCode": "131",
+    "regencyCode": "53.13",
+    "provinceCode": "53",
+    "name": "Kecamatan Cibal Barat",
+    "alias": "Cibal Barat"
+  },
+  {
+    "code": "53.13.140",
+    "districtCode": "140",
+    "regencyCode": "53.13",
+    "provinceCode": "53",
+    "name": "Kecamatan Reok",
+    "alias": "Reok"
+  },
+  {
+    "code": "53.13.141",
+    "districtCode": "141",
+    "regencyCode": "53.13",
+    "provinceCode": "53",
+    "name": "Kecamatan Reok Barat",
+    "alias": "Reok Barat"
+  }
+]

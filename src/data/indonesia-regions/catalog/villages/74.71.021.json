@@ -1,0 +1,51 @@
+[
+  {
+    "code": "74.71.021.001",
+    "villageCode": "001",
+    "districtCode": "74.71.021",
+    "name": "Benua Nirae",
+    "alias": "Benua Nirae"
+  },
+  {
+    "code": "74.71.021.002",
+    "villageCode": "002",
+    "districtCode": "74.71.021",
+    "name": "Pudai",
+    "alias": "Pudai"
+  },
+  {
+    "code": "74.71.021.004",
+    "villageCode": "004",
+    "districtCode": "74.71.021",
+    "name": "Lapulu",
+    "alias": "Lapulu"
+  },
+  {
+    "code": "74.71.021.005",
+    "villageCode": "005",
+    "districtCode": "74.71.021",
+    "name": "Abeli",
+    "alias": "Abeli"
+  },
+  {
+    "code": "74.71.021.006",
+    "villageCode": "006",
+    "districtCode": "74.71.021",
+    "name": "Anggalomelai",
+    "alias": "Anggalomelai"
+  },
+  {
+    "code": "74.71.021.008",
+    "villageCode": "008",
+    "districtCode": "74.71.021",
+    "name": "Poasia",
+    "alias": "Poasia"
+  },
+  {
+    "code": "74.71.021.009",
+    "villageCode": "009",
+    "districtCode": "74.71.021",
+    "name": "Talia",
+    "alias": "Talia"
+  }
+]

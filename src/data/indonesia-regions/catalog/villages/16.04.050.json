@@ -1,0 +1,72 @@
+[
+  {
+    "code": "16.04.050.031",
+    "villageCode": "031",
+    "districtCode": "16.04.050",
+    "name": "Tanjung Mulak",
+    "alias": "Tanjung Mulak"
+  },
+  {
+    "code": "16.04.050.032",
+    "villageCode": "032",
+    "districtCode": "16.04.050",
+    "name": "Pulau Pinang",
+    "alias": "Pulau Pinang"
+  },
+  {
+    "code": "16.04.050.033",
+    "villageCode": "033",
+    "districtCode": "16.04.050",
+    "name": "Lubuk Sepang",
+    "alias": "Lubuk Sepang"
+  },
+  {
+    "code": "16.04.050.034",
+    "villageCode": "034",
+    "districtCode": "16.04.050",
+    "name": "Tanjung Sirih",
+    "alias": "Tanjung Sirih"
+  },
+  {
+    "code": "16.04.050.039",
+    "villageCode": "039",
+    "districtCode": "16.04.050",
+    "name": "Perigi",
+    "alias": "Perigi"
+  },
+  {
+    "code": "16.04.050.040",
+    "villageCode": "040",
+    "districtCode": "16.04.050",
+    "name": "Karang Dalam",
+    "alias": "Karang Dalam"
+  },
+  {
+    "code": "16.04.050.041",
+    "villageCode": "041",
+    "districtCode": "16.04.050",
+    "name": "Pagar Batu",
+    "alias": "Pagar Batu"
+  },
+  {
+    "code": "16.04.050.042",
+    "villageCode": "042",
+    "districtCode": "16.04.050",
+    "name": "Kuba",
+    "alias": "Kuba"
+  },
+  {
+    "code": "16.04.050.043",
+    "villageCode": "043",
+    "districtCode": "16.04.050",
+    "name": "Jati",
+    "alias": "Jati"
+  },
+  {
+    "code": "16.04.050.044",
+    "villageCode": "044",
+    "districtCode": "16.04.050",
+    "name": "Muara Siban",
+    "alias": "Muara Siban"
+  }
+]

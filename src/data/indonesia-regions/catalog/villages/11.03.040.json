@@ -1,0 +1,149 @@
+[
+  {
+    "code": "11.03.040.001",
+    "villageCode": "001",
+    "districtCode": "11.03.040",
+    "name": "Kedai Padang",
+    "alias": "Kedai Padang"
+  },
+  {
+    "code": "11.03.040.002",
+    "villageCode": "002",
+    "districtCode": "11.03.040",
+    "name": "Pasi Kuala Bau",
+    "alias": "Pasi Kuala Bau"
+  },
+  {
+    "code": "11.03.040.003",
+    "villageCode": "003",
+    "districtCode": "11.03.040",
+    "name": "Suaq Geringgeng",
+    "alias": "Suaq Geringgeng"
+  },
+  {
+    "code": "11.03.040.004",
+    "villageCode": "004",
+    "districtCode": "11.03.040",
+    "name": "Simpang Lhee",
+    "alias": "Simpang Lhee"
+  },
+  {
+    "code": "11.03.040.005",
+    "villageCode": "005",
+    "districtCode": "11.03.040",
+    "name": "Simpang Empat",
+    "alias": "Simpang Empat"
+  },
+  {
+    "code": "11.03.040.006",
+    "villageCode": "006",
+    "districtCode": "11.03.040",
+    "name": "Jambo Manyang",
+    "alias": "Jambo Manyang"
+  },
+  {
+    "code": "11.03.040.007",
+    "villageCode": "007",
+    "districtCode": "11.03.040",
+    "name": "Limau Purut",
+    "alias": "Limau Purut"
+  },
+  {
+    "code": "11.03.040.008",
+    "villageCode": "008",
+    "districtCode": "11.03.040",
+    "name": "Pulo Kambing",
+    "alias": "Pulo Kambing"
+  },
+  {
+    "code": "11.03.040.009",
+    "villageCode": "009",
+    "districtCode": "11.03.040",
+    "name": "Kampung Paya",
+    "alias": "Kampung Paya"
+  },
+  {
+    "code": "11.03.040.010",
+    "villageCode": "010",
+    "districtCode": "11.03.040",
+    "name": "Krueng Batu",
+    "alias": "Krueng Batu"
+  },
+  {
+    "code": "11.03.040.011",
+    "villageCode": "011",
+    "districtCode": "11.03.040",
+    "name": "Gunong Pulo",
+    "alias": "Gunong Pulo"
+  },
+  {
+    "code": "11.03.040.012",
+    "villageCode": "012",
+    "districtCode": "11.03.040",
+    "name": "Pulo Ie I",
+    "alias": "Pulo Ie I"
+  },
+  {
+    "code": "11.03.040.013",
+    "villageCode": "013",
+    "districtCode": "11.03.040",
+    "name": "Krueng Batee",
+    "alias": "Krueng Batee"
+  },
+  {
+    "code": "11.03.040.014",
+    "villageCode": "014",
+    "districtCode": "11.03.040",
+    "name": "Pasi Kuala Asahan",
+    "alias": "Pasi Kuala Asahan"
+  },
+  {
+    "code": "11.03.040.015",
+    "villageCode": "015",
+    "districtCode": "11.03.040",
+    "name": "Fajar Harapan",
+    "alias": "Fajar Harapan"
+  },
+  {
+    "code": "11.03.040.036",
+    "villageCode": "036",
+    "districtCode": "11.03.040",
+    "name": "Krueng Kluet",
+    "alias": "Krueng Kluet"
+  },
+  {
+    "code": "11.03.040.039",
+    "villageCode": "039",
+    "districtCode": "11.03.040",
+    "name": "Alur Mas",
+    "alias": "Alur Mas"
+  },
+  {
+    "code": "11.03.040.050",
+    "villageCode": "050",
+    "districtCode": "11.03.040",
+    "name": "Kampung Tinggi",
+    "alias": "Kampung Tinggi"
+  },
+  {
+    "code": "11.03.040.051",
+    "villageCode": "051",
+    "districtCode": "11.03.040",
+    "name": "Kampung Ruak",
+    "alias": "Kampung Ruak"
+  },
+  {
+    "code": "11.03.040.052",
+    "villageCode": "052",
+    "districtCode": "11.03.040",
+    "name": "Kota Fajar",
+    "alias": "Kota Fajar"
+  },
+  {
+    "code": "11.03.040.053",
+    "villageCode": "053",
+    "districtCode": "11.03.040",
+    "name": "Gunung Pudung",
+    "alias": "Gunung Pudung"
+  }
+]

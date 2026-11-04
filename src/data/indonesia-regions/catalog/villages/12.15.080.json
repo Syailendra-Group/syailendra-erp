@@ -1,0 +1,93 @@
+[
+  {
+    "code": "12.15.080.001",
+    "villageCode": "001",
+    "districtCode": "12.15.080",
+    "name": "Aek Nauli Ii",
+    "alias": "Aek Nauli Ii"
+  },
+  {
+    "code": "12.15.080.003",
+    "villageCode": "003",
+    "districtCode": "12.15.080",
+    "name": "Aek Nauli I",
+    "alias": "Aek Nauli I"
+  },
+  {
+    "code": "12.15.080.004",
+    "villageCode": "004",
+    "districtCode": "12.15.080",
+    "name": "Pandumaan",
+    "alias": "Pandumaan"
+  },
+  {
+    "code": "12.15.080.005",
+    "villageCode": "005",
+    "districtCode": "12.15.080",
+    "name": "Sipitu Huta",
+    "alias": "Sipitu Huta"
+  },
+  {
+    "code": "12.15.080.006",
+    "villageCode": "006",
+    "districtCode": "12.15.080",
+    "name": "Parsingguran Ii",
+    "alias": "Parsingguran Ii"
+  },
+  {
+    "code": "12.15.080.007",
+    "villageCode": "007",
+    "districtCode": "12.15.080",
+    "name": "Pollung",
+    "alias": "Pollung"
+  },
+  {
+    "code": "12.15.080.008",
+    "villageCode": "008",
+    "districtCode": "12.15.080",
+    "name": "Parsingguran I",
+    "alias": "Parsingguran I"
+  },
+  {
+    "code": "12.15.080.009",
+    "villageCode": "009",
+    "districtCode": "12.15.080",
+    "name": "Ria Ria",
+    "alias": "Ria Ria"
+  },
+  {
+    "code": "12.15.080.010",
+    "villageCode": "010",
+    "districtCode": "12.15.080",
+    "name": "Huta Paung",
+    "alias": "Huta Paung"
+  },
+  {
+    "code": "12.15.080.011",
+    "villageCode": "011",
+    "districtCode": "12.15.080",
+    "name": "Pansur Batu",
+    "alias": "Pansur Batu"
+  },
+  {
+    "code": "12.15.080.012",
+    "villageCode": "012",
+    "districtCode": "12.15.080",
+    "name": "Huta Julu",
+    "alias": "Huta Julu"
+  },
+  {
+    "code": "12.15.080.013",
+    "villageCode": "013",
+    "districtCode": "12.15.080",
+    "name": "Pardomuan",
+    "alias": "Pardomuan"
+  },
+  {
+    "code": "12.15.080.014",
+    "villageCode": "014",
+    "districtCode": "12.15.080",
+    "name": "Hutapaung Utara",
+    "alias": "Hutapaung Utara"
+  }
+]

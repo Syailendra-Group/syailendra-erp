@@ -1,0 +1,107 @@
+[
+  {
+    "code": "33.02.060.001",
+    "villageCode": "001",
+    "districtCode": "33.02.060",
+    "name": "Grujugan",
+    "alias": "Grujugan"
+  },
+  {
+    "code": "33.02.060.002",
+    "villageCode": "002",
+    "districtCode": "33.02.060",
+    "name": "Sirau",
+    "alias": "Sirau"
+  },
+  {
+    "code": "33.02.060.003",
+    "villageCode": "003",
+    "districtCode": "33.02.060",
+    "name": "Sibalung",
+    "alias": "Sibalung"
+  },
+  {
+    "code": "33.02.060.004",
+    "villageCode": "004",
+    "districtCode": "33.02.060",
+    "name": "Sibrama",
+    "alias": "Sibrama"
+  },
+  {
+    "code": "33.02.060.005",
+    "villageCode": "005",
+    "districtCode": "33.02.060",
+    "name": "Kedungpring",
+    "alias": "Kedungpring"
+  },
+  {
+    "code": "33.02.060.006",
+    "villageCode": "006",
+    "districtCode": "33.02.060",
+    "name": "Kecila",
+    "alias": "Kecila"
+  },
+  {
+    "code": "33.02.060.007",
+    "villageCode": "007",
+    "districtCode": "33.02.060",
+    "name": "Nusamangir",
+    "alias": "Nusamangir"
+  },
+  {
+    "code": "33.02.060.008",
+    "villageCode": "008",
+    "districtCode": "33.02.060",
+    "name": "Karangjati",
+    "alias": "Karangjati"
+  },
+  {
+    "code": "33.02.060.009",
+    "villageCode": "009",
+    "districtCode": "33.02.060",
+    "name": "Kebarongan",
+    "alias": "Kebarongan"
+  },
+  {
+    "code": "33.02.060.010",
+    "villageCode": "010",
+    "districtCode": "33.02.060",
+    "name": "Sidamulya",
+    "alias": "Sidamulya"
+  },
+  {
+    "code": "33.02.060.011",
+    "villageCode": "011",
+    "districtCode": "33.02.060",
+    "name": "Pageralang",
+    "alias": "Pageralang"
+  },
+  {
+    "code": "33.02.060.012",
+    "villageCode": "012",
+    "districtCode": "33.02.060",
+    "name": "Alasmalang",
+    "alias": "Alasmalang"
+  },
+  {
+    "code": "33.02.060.013",
+    "villageCode": "013",
+    "districtCode": "33.02.060",
+    "name": "Petarangan",
+    "alias": "Petarangan"
+  },
+  {
+    "code": "33.02.060.014",
+    "villageCode": "014",
+    "districtCode": "33.02.060",
+    "name": "Karanggintung",
+    "alias": "Karanggintung"
+  },
+  {
+    "code": "33.02.060.015",
+    "villageCode": "015",
+    "districtCode": "33.02.060",
+    "name": "Karangsalam",
+    "alias": "Karangsalam"
+  }
+]

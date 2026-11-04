@@ -1,0 +1,79 @@
+[
+  {
+    "code": "97.07.080.001",
+    "villageCode": "001",
+    "districtCode": "97.07.080",
+    "name": "Sabin",
+    "alias": "Sabin"
+  },
+  {
+    "code": "97.07.080.002",
+    "villageCode": "002",
+    "districtCode": "97.07.080",
+    "name": "Apdagma",
+    "alias": "Apdagma"
+  },
+  {
+    "code": "97.07.080.003",
+    "villageCode": "003",
+    "districtCode": "97.07.080",
+    "name": "Mugi",
+    "alias": "Mugi"
+  },
+  {
+    "code": "97.07.080.004",
+    "villageCode": "004",
+    "districtCode": "97.07.080",
+    "name": "Harap",
+    "alias": "Harap"
+  },
+  {
+    "code": "97.07.080.005",
+    "villageCode": "005",
+    "districtCode": "97.07.080",
+    "name": "Suok",
+    "alias": "Suok"
+  },
+  {
+    "code": "97.07.080.006",
+    "villageCode": "006",
+    "districtCode": "97.07.080",
+    "name": "Mul",
+    "alias": "Mul"
+  },
+  {
+    "code": "97.07.080.007",
+    "villageCode": "007",
+    "districtCode": "97.07.080",
+    "name": "Kolodoma",
+    "alias": "Kolodoma"
+  },
+  {
+    "code": "97.07.080.008",
+    "villageCode": "008",
+    "districtCode": "97.07.080",
+    "name": "Sangatur",
+    "alias": "Sangatur"
+  },
+  {
+    "code": "97.07.080.009",
+    "villageCode": "009",
+    "districtCode": "97.07.080",
+    "name": "Sowaling",
+    "alias": "Sowaling"
+  },
+  {
+    "code": "97.07.080.010",
+    "villageCode": "010",
+    "districtCode": "97.07.080",
+    "name": "Yerekama",
+    "alias": "Yerekama"
+  },
+  {
+    "code": "97.07.080.011",
+    "villageCode": "011",
+    "districtCode": "97.07.080",
+    "name": "Walkuna",
+    "alias": "Walkuna"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "code": "12.24.010.001",
+    "villageCode": "001",
+    "districtCode": "12.24.010",
+    "name": "Humene Siheneasi",
+    "alias": "Humene Siheneasi"
+  },
+  {
+    "code": "12.24.010.002",
+    "villageCode": "002",
+    "districtCode": "12.24.010",
+    "name": "Fabaliwa Oyo",
+    "alias": "Fabaliwa Oyo"
+  },
+  {
+    "code": "12.24.010.003",
+    "villageCode": "003",
+    "districtCode": "12.24.010",
+    "name": "Siwawo",
+    "alias": "Siwawo"
+  },
+  {
+    "code": "12.24.010.004",
+    "villageCode": "004",
+    "districtCode": "12.24.010",
+    "name": "Gunung Tua",
+    "alias": "Gunung Tua"
+  },
+  {
+    "code": "12.24.010.005",
+    "villageCode": "005",
+    "districtCode": "12.24.010",
+    "name": "Ononazara",
+    "alias": "Ononazara"
+  },
+  {
+    "code": "12.24.010.006",
+    "villageCode": "006",
+    "districtCode": "12.24.010",
+    "name": "Teolo",
+    "alias": "Teolo"
+  },
+  {
+    "code": "12.24.010.007",
+    "villageCode": "007",
+    "districtCode": "12.24.010",
+    "name": "Botona Ai",
+    "alias": "Botona Ai"
+  },
+  {
+    "code": "12.24.010.008",
+    "villageCode": "008",
+    "districtCode": "12.24.010",
+    "name": "Harefa",
+    "alias": "Harefa"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "code": "18.05.122.001",
+    "villageCode": "001",
+    "districtCode": "18.05.122",
+    "name": "Joharan",
+    "alias": "Joharan"
+  },
+  {
+    "code": "18.05.122.002",
+    "villageCode": "002",
+    "districtCode": "18.05.122",
+    "name": "Rantau Jaya Ilir",
+    "alias": "Rantau Jaya Ilir"
+  },
+  {
+    "code": "18.05.122.003",
+    "villageCode": "003",
+    "districtCode": "18.05.122",
+    "name": "Bina Karya Sakti",
+    "alias": "Bina Karya Sakti"
+  },
+  {
+    "code": "18.05.122.004",
+    "villageCode": "004",
+    "districtCode": "18.05.122",
+    "name": "Bina Karya Jaya",
+    "alias": "Bina Karya Jaya"
+  },
+  {
+    "code": "18.05.122.005",
+    "villageCode": "005",
+    "districtCode": "18.05.122",
+    "name": "Bina Karya Utama",
+    "alias": "Bina Karya Utama"
+  },
+  {
+    "code": "18.05.122.006",
+    "villageCode": "006",
+    "districtCode": "18.05.122",
+    "name": "Rantau Jaya Baru",
+    "alias": "Rantau Jaya Baru"
+  },
+  {
+    "code": "18.05.122.007",
+    "villageCode": "007",
+    "districtCode": "18.05.122",
+    "name": "Meranggi Jaya",
+    "alias": "Meranggi Jaya"
+  },
+  {
+    "code": "18.05.122.008",
+    "villageCode": "008",
+    "districtCode": "18.05.122",
+    "name": "Mekar Jaya",
+    "alias": "Mekar Jaya"
+  },
+  {
+    "code": "18.05.122.009",
+    "villageCode": "009",
+    "districtCode": "18.05.122",
+    "name": "Bina Karya Baru",
+    "alias": "Bina Karya Baru"
+  },
+  {
+    "code": "18.05.122.010",
+    "villageCode": "010",
+    "districtCode": "18.05.122",
+    "name": "Rantau Jaya Makmur",
+    "alias": "Rantau Jaya Makmur"
+  }
+]

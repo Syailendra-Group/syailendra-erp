@@ -1,0 +1,218 @@
+[
+  {
+    "code": "35.24.010",
+    "districtCode": "010",
+    "regencyCode": "35.24",
+    "provinceCode": "35",
+    "name": "Kecamatan Sukorame",
+    "alias": "Sukorame"
+  },
+  {
+    "code": "35.24.020",
+    "districtCode": "020",
+    "regencyCode": "35.24",
+    "provinceCode": "35",
+    "name": "Kecamatan Bluluk",
+    "alias": "Bluluk"
+  },
+  {
+    "code": "35.24.030",
+    "districtCode": "030",
+    "regencyCode": "35.24",
+    "provinceCode": "35",
+    "name": "Kecamatan Ngimbang",
+    "alias": "Ngimbang"
+  },
+  {
+    "code": "35.24.040",
+    "districtCode": "040",
+    "regencyCode": "35.24",
+    "provinceCode": "35",
+    "name": "Kecamatan Sambeng",
+    "alias": "Sambeng"
+  },
+  {
+    "code": "35.24.050",
+    "districtCode": "050",
+    "regencyCode": "35.24",
+    "provinceCode": "35",
+    "name": "Kecamatan Mantup",
+    "alias": "Mantup"
+  },
+  {
+    "code": "35.24.060",
+    "districtCode": "060",
+    "regencyCode": "35.24",
+    "provinceCode": "35",
+    "name": "Kecamatan Kembangbahu",
+    "alias": "Kembangbahu"
+  },
+  {
+    "code": "35.24.070",
+    "districtCode": "070",
+    "regencyCode": "35.24",
+    "provinceCode": "35",
+    "name": "Kecamatan Sugio",
+    "alias": "Sugio"
+  },
+  {
+    "code": "35.24.080",
+    "districtCode": "080",
+    "regencyCode": "35.24",
+    "provinceCode": "35",
+    "name": "Kecamatan Kedungpring",
+    "alias": "Kedungpring"
+  },
+  {
+    "code": "35.24.090",
+    "districtCode": "090",
+    "regencyCode": "35.24",
+    "provinceCode": "35",
+    "name": "Kecamatan Modo",
+    "alias": "Modo"
+  },
+  {
+    "code": "35.24.100",
+    "districtCode": "100",
+    "regencyCode": "35.24",
+    "provinceCode": "35",
+    "name": "Kecamatan Babat",
+    "alias": "Babat"
+  },
+  {
+    "code": "35.24.110",
+    "districtCode": "110",
+    "regencyCode": "35.24",
+    "provinceCode": "35",
+    "name": "Kecamatan Pucuk",
+    "alias": "Pucuk"
+  },
+  {
+    "code": "35.24.120",
+    "districtCode": "120",
+    "regencyCode": "35.24",
+    "provinceCode": "35",
+    "name": "Kecamatan Sukodadi",
+    "alias": "Sukodadi"
+  },
+  {
+    "code": "35.24.130",
+    "districtCode": "130",
+    "regencyCode": "35.24",
+    "provinceCode": "35",
+    "name": "Kecamatan Lamongan",
+    "alias": "Lamongan"
+  },
+  {
+    "code": "35.24.140",
+    "districtCode": "140",
+    "regencyCode": "35.24",
+    "provinceCode": "35",
+    "name": "Kecamatan Tikung",
+    "alias": "Tikung"
+  },
+  {
+    "code": "35.24.141",
+    "districtCode": "141",
+    "regencyCode": "35.24",
+    "provinceCode": "35",
+    "name": "Kecamatan Sarirejo",
+    "alias": "Sarirejo"
+  },
+  {
+    "code": "35.24.150",
+    "districtCode": "150",
+    "regencyCode": "35.24",
+    "provinceCode": "35",
+    "name": "Kecamatan Deket",
+    "alias": "Deket"
+  },
+  {
+    "code": "35.24.160",
+    "districtCode": "160",
+    "regencyCode": "35.24",
+    "provinceCode": "35",
+    "name": "Kecamatan Glagah",
+    "alias": "Glagah"
+  },
+  {
+    "code": "35.24.170",
+    "districtCode": "170",
+    "regencyCode": "35.24",
+    "provinceCode": "35",
+    "name": "Kecamatan Karangbinangun",
+    "alias": "Karangbinangun"
+  },
+  {
+    "code": "35.24.180",
+    "districtCode": "180",
+    "regencyCode": "35.24",
+    "provinceCode": "35",
+    "name": "Kecamatan Turi",
+    "alias": "Turi"
+  },
+  {
+    "code": "35.24.190",
+    "districtCode": "190",
+    "regencyCode": "35.24",
+    "provinceCode": "35",
+    "name": "Kecamatan Kalitengah",
+    "alias": "Kalitengah"
+  },
+  {
+    "code": "35.24.200",
+    "districtCode": "200",
+    "regencyCode": "35.24",
+    "provinceCode": "35",
+    "name": "Kecamatan Karang Geneng",
+    "alias": "Karang Geneng"
+  },
+  {
+    "code": "35.24.210",
+    "districtCode": "210",
+    "regencyCode": "35.24",
+    "provinceCode": "35",
+    "name": "Kecamatan Sekaran",
+    "alias": "Sekaran"
+  },
+  {
+    "code": "35.24.220",
+    "districtCode": "220",
+    "regencyCode": "35.24",
+    "provinceCode": "35",
+    "name": "Kecamatan Maduran",
+    "alias": "Maduran"
+  },
+  {
+    "code": "35.24.230",
+    "districtCode": "230",
+    "regencyCode": "35.24",
+    "provinceCode": "35",
+    "name": "Kecamatan Laren",
+    "alias": "Laren"
+  },
+  {
+    "code": "35.24.240",
+    "districtCode": "240",
+    "regencyCode": "35.24",
+    "provinceCode": "35",
+    "name": "Kecamatan Solokuro",
+    "alias": "Solokuro"
+  },
+  {
+    "code": "35.24.250",
+    "districtCode": "250",
+    "regencyCode": "35.24",
+    "provinceCode": "35",
+    "name": "Kecamatan Paciran",
+    "alias": "Paciran"
+  },
+  {
+    "code": "35.24.260",
+    "districtCode": "260",
+    "regencyCode": "35.24",
+    "provinceCode": "35",
+    "name": "Kecamatan Brondong",
+    "alias": "Brondong"
+  }
+]

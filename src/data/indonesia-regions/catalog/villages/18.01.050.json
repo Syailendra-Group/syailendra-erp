@@ -1,0 +1,72 @@
+[
+  {
+    "code": "18.01.050.025",
+    "villageCode": "025",
+    "districtCode": "18.01.050",
+    "name": "Hujung",
+    "alias": "Hujung"
+  },
+  {
+    "code": "18.01.050.026",
+    "villageCode": "026",
+    "districtCode": "18.01.050",
+    "name": "Kenali",
+    "alias": "Kenali"
+  },
+  {
+    "code": "18.01.050.027",
+    "villageCode": "027",
+    "districtCode": "18.01.050",
+    "name": "Bedudu",
+    "alias": "Bedudu"
+  },
+  {
+    "code": "18.01.050.028",
+    "villageCode": "028",
+    "districtCode": "18.01.050",
+    "name": "Sukarami",
+    "alias": "Sukarami"
+  },
+  {
+    "code": "18.01.050.031",
+    "villageCode": "031",
+    "districtCode": "18.01.050",
+    "name": "Kejadian",
+    "alias": "Kejadian"
+  },
+  {
+    "code": "18.01.050.032",
+    "villageCode": "032",
+    "districtCode": "18.01.050",
+    "name": "Bumi Agung",
+    "alias": "Bumi Agung"
+  },
+  {
+    "code": "18.01.050.033",
+    "villageCode": "033",
+    "districtCode": "18.01.050",
+    "name": "Turgak",
+    "alias": "Turgak"
+  },
+  {
+    "code": "18.01.050.034",
+    "villageCode": "034",
+    "districtCode": "18.01.050",
+    "name": "Serungkuk",
+    "alias": "Serungkuk"
+  },
+  {
+    "code": "18.01.050.039",
+    "villageCode": "039",
+    "districtCode": "18.01.050",
+    "name": "Suka Makmur",
+    "alias": "Suka Makmur"
+  },
+  {
+    "code": "18.01.050.041",
+    "villageCode": "041",
+    "districtCode": "18.01.050",
+    "name": "Pajar Agung",
+    "alias": "Pajar Agung"
+  }
+]

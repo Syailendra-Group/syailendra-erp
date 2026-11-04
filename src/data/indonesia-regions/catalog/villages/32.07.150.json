@@ -1,0 +1,79 @@
+[
+  {
+    "code": "32.07.150.001",
+    "villageCode": "001",
+    "districtCode": "32.07.150",
+    "name": "Handapherang",
+    "alias": "Handapherang"
+  },
+  {
+    "code": "32.07.150.002",
+    "villageCode": "002",
+    "districtCode": "32.07.150",
+    "name": "Ciharalang",
+    "alias": "Ciharalang"
+  },
+  {
+    "code": "32.07.150.003",
+    "villageCode": "003",
+    "districtCode": "32.07.150",
+    "name": "Bojongmengger",
+    "alias": "Bojongmengger"
+  },
+  {
+    "code": "32.07.150.004",
+    "villageCode": "004",
+    "districtCode": "32.07.150",
+    "name": "Karangkamulyan",
+    "alias": "Karangkamulyan"
+  },
+  {
+    "code": "32.07.150.005",
+    "villageCode": "005",
+    "districtCode": "32.07.150",
+    "name": "Kertabumi",
+    "alias": "Kertabumi"
+  },
+  {
+    "code": "32.07.150.006",
+    "villageCode": "006",
+    "districtCode": "32.07.150",
+    "name": "Cijeungjing",
+    "alias": "Cijeungjing"
+  },
+  {
+    "code": "32.07.150.007",
+    "villageCode": "007",
+    "districtCode": "32.07.150",
+    "name": "Pamalayan",
+    "alias": "Pamalayan"
+  },
+  {
+    "code": "32.07.150.008",
+    "villageCode": "008",
+    "districtCode": "32.07.150",
+    "name": "Dewasari",
+    "alias": "Dewasari"
+  },
+  {
+    "code": "32.07.150.009",
+    "villageCode": "009",
+    "districtCode": "32.07.150",
+    "name": "Utama",
+    "alias": "Utama"
+  },
+  {
+    "code": "32.07.150.010",
+    "villageCode": "010",
+    "districtCode": "32.07.150",
+    "name": "Kertaharja",
+    "alias": "Kertaharja"
+  },
+  {
+    "code": "32.07.150.011",
+    "villageCode": "011",
+    "districtCode": "32.07.150",
+    "name": "Karanganyar",
+    "alias": "Karanganyar"
+  }
+]

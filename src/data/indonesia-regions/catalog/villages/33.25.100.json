@@ -1,0 +1,121 @@
+[
+  {
+    "code": "33.25.100.005",
+    "villageCode": "005",
+    "districtCode": "33.25.100",
+    "name": "Tulis",
+    "alias": "Tulis"
+  },
+  {
+    "code": "33.25.100.006",
+    "villageCode": "006",
+    "districtCode": "33.25.100",
+    "name": "Wringingintung",
+    "alias": "Wringingintung"
+  },
+  {
+    "code": "33.25.100.007",
+    "villageCode": "007",
+    "districtCode": "33.25.100",
+    "name": "Posong",
+    "alias": "Posong"
+  },
+  {
+    "code": "33.25.100.008",
+    "villageCode": "008",
+    "districtCode": "33.25.100",
+    "name": "Sembojo",
+    "alias": "Sembojo"
+  },
+  {
+    "code": "33.25.100.009",
+    "villageCode": "009",
+    "districtCode": "33.25.100",
+    "name": "Beji",
+    "alias": "Beji"
+  },
+  {
+    "code": "33.25.100.010",
+    "villageCode": "010",
+    "districtCode": "33.25.100",
+    "name": "Kaliboyo",
+    "alias": "Kaliboyo"
+  },
+  {
+    "code": "33.25.100.011",
+    "villageCode": "011",
+    "districtCode": "33.25.100",
+    "name": "Simbangdesa",
+    "alias": "Simbangdesa"
+  },
+  {
+    "code": "33.25.100.012",
+    "villageCode": "012",
+    "districtCode": "33.25.100",
+    "name": "Simbangjati",
+    "alias": "Simbangjati"
+  },
+  {
+    "code": "33.25.100.021",
+    "villageCode": "021",
+    "districtCode": "33.25.100",
+    "name": "Ponowareng",
+    "alias": "Ponowareng"
+  },
+  {
+    "code": "33.25.100.022",
+    "villageCode": "022",
+    "districtCode": "33.25.100",
+    "name": "Kenconorejo",
+    "alias": "Kenconorejo"
+  },
+  {
+    "code": "33.25.100.023",
+    "villageCode": "023",
+    "districtCode": "33.25.100",
+    "name": "Kedungsegog",
+    "alias": "Kedungsegog"
+  },
+  {
+    "code": "33.25.100.024",
+    "villageCode": "024",
+    "districtCode": "33.25.100",
+    "name": "Manggis",
+    "alias": "Manggis"
+  },
+  {
+    "code": "33.25.100.025",
+    "villageCode": "025",
+    "districtCode": "33.25.100",
+    "name": "Jolosekti",
+    "alias": "Jolosekti"
+  },
+  {
+    "code": "33.25.100.026",
+    "villageCode": "026",
+    "districtCode": "33.25.100",
+    "name": "Siberuk",
+    "alias": "Siberuk"
+  },
+  {
+    "code": "33.25.100.027",
+    "villageCode": "027",
+    "districtCode": "33.25.100",
+    "name": "Kebumen",
+    "alias": "Kebumen"
+  },
+  {
+    "code": "33.25.100.028",
+    "villageCode": "028",
+    "districtCode": "33.25.100",
+    "name": "Cluwuk",
+    "alias": "Cluwuk"
+  },
+  {
+    "code": "33.25.100.029",
+    "villageCode": "029",
+    "districtCode": "33.25.100",
+    "name": "Jrakahpayung",
+    "alias": "Jrakahpayung"
+  }
+]

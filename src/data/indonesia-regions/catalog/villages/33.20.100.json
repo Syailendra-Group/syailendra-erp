@@ -1,0 +1,86 @@
+[
+  {
+    "code": "33.20.100.001",
+    "villageCode": "001",
+    "districtCode": "33.20.100",
+    "name": "Guyangan",
+    "alias": "Guyangan"
+  },
+  {
+    "code": "33.20.100.002",
+    "villageCode": "002",
+    "districtCode": "33.20.100",
+    "name": "Kepuk",
+    "alias": "Kepuk"
+  },
+  {
+    "code": "33.20.100.003",
+    "villageCode": "003",
+    "districtCode": "33.20.100",
+    "name": "Papasan",
+    "alias": "Papasan"
+  },
+  {
+    "code": "33.20.100.009",
+    "villageCode": "009",
+    "districtCode": "33.20.100",
+    "name": "Srikandang",
+    "alias": "Srikandang"
+  },
+  {
+    "code": "33.20.100.010",
+    "villageCode": "010",
+    "districtCode": "33.20.100",
+    "name": "Tengguli",
+    "alias": "Tengguli"
+  },
+  {
+    "code": "33.20.100.011",
+    "villageCode": "011",
+    "districtCode": "33.20.100",
+    "name": "Bangsri",
+    "alias": "Bangsri"
+  },
+  {
+    "code": "33.20.100.012",
+    "villageCode": "012",
+    "districtCode": "33.20.100",
+    "name": "Banjaran",
+    "alias": "Banjaran"
+  },
+  {
+    "code": "33.20.100.014",
+    "villageCode": "014",
+    "districtCode": "33.20.100",
+    "name": "Wedelan",
+    "alias": "Wedelan"
+  },
+  {
+    "code": "33.20.100.015",
+    "villageCode": "015",
+    "districtCode": "33.20.100",
+    "name": "Jerukwangi",
+    "alias": "Jerukwangi"
+  },
+  {
+    "code": "33.20.100.016",
+    "villageCode": "016",
+    "districtCode": "33.20.100",
+    "name": "Kedungleper",
+    "alias": "Kedungleper"
+  },
+  {
+    "code": "33.20.100.022",
+    "villageCode": "022",
+    "districtCode": "33.20.100",
+    "name": "Bondo",
+    "alias": "Bondo"
+  },
+  {
+    "code": "33.20.100.023",
+    "villageCode": "023",
+    "districtCode": "33.20.100",
+    "name": "Banjar Agung",
+    "alias": "Banjar Agung"
+  }
+]

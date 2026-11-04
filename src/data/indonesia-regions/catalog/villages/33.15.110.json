@@ -1,0 +1,72 @@
+[
+  {
+    "code": "33.15.110.001",
+    "villageCode": "001",
+    "districtCode": "33.15.110",
+    "name": "Pulongrambe",
+    "alias": "Pulongrambe"
+  },
+  {
+    "code": "33.15.110.002",
+    "villageCode": "002",
+    "districtCode": "33.15.110",
+    "name": "Mayahan",
+    "alias": "Mayahan"
+  },
+  {
+    "code": "33.15.110.003",
+    "villageCode": "003",
+    "districtCode": "33.15.110",
+    "name": "Jono",
+    "alias": "Jono"
+  },
+  {
+    "code": "33.15.110.004",
+    "villageCode": "004",
+    "districtCode": "33.15.110",
+    "name": "Selo",
+    "alias": "Selo"
+  },
+  {
+    "code": "33.15.110.005",
+    "villageCode": "005",
+    "districtCode": "33.15.110",
+    "name": "Tawangharjo",
+    "alias": "Tawangharjo"
+  },
+  {
+    "code": "33.15.110.006",
+    "villageCode": "006",
+    "districtCode": "33.15.110",
+    "name": "Tarub",
+    "alias": "Tarub"
+  },
+  {
+    "code": "33.15.110.007",
+    "villageCode": "007",
+    "districtCode": "33.15.110",
+    "name": "Pojok",
+    "alias": "Pojok"
+  },
+  {
+    "code": "33.15.110.008",
+    "villageCode": "008",
+    "districtCode": "33.15.110",
+    "name": "Plosorejo",
+    "alias": "Plosorejo"
+  },
+  {
+    "code": "33.15.110.009",
+    "villageCode": "009",
+    "districtCode": "33.15.110",
+    "name": "Godan",
+    "alias": "Godan"
+  },
+  {
+    "code": "33.15.110.010",
+    "villageCode": "010",
+    "districtCode": "33.15.110",
+    "name": "Kemaduhbatur",
+    "alias": "Kemaduhbatur"
+  }
+]

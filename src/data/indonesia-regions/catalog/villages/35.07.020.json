@@ -1,0 +1,65 @@
+[
+  {
+    "code": "35.07.020.001",
+    "villageCode": "001",
+    "districtCode": "35.07.020",
+    "name": "Arjosari",
+    "alias": "Arjosari"
+  },
+  {
+    "code": "35.07.020.002",
+    "villageCode": "002",
+    "districtCode": "35.07.020",
+    "name": "Tumpakrejo",
+    "alias": "Tumpakrejo"
+  },
+  {
+    "code": "35.07.020.003",
+    "villageCode": "003",
+    "districtCode": "35.07.020",
+    "name": "Kaliasri",
+    "alias": "Kaliasri"
+  },
+  {
+    "code": "35.07.020.004",
+    "villageCode": "004",
+    "districtCode": "35.07.020",
+    "name": "Putukrejo",
+    "alias": "Putukrejo"
+  },
+  {
+    "code": "35.07.020.005",
+    "villageCode": "005",
+    "districtCode": "35.07.020",
+    "name": "Sumberpetung",
+    "alias": "Sumberpetung"
+  },
+  {
+    "code": "35.07.020.006",
+    "villageCode": "006",
+    "districtCode": "35.07.020",
+    "name": "Kalipare",
+    "alias": "Kalipare"
+  },
+  {
+    "code": "35.07.020.007",
+    "villageCode": "007",
+    "districtCode": "35.07.020",
+    "name": "Sukowilangun",
+    "alias": "Sukowilangun"
+  },
+  {
+    "code": "35.07.020.008",
+    "villageCode": "008",
+    "districtCode": "35.07.020",
+    "name": "Arjowilangun",
+    "alias": "Arjowilangun"
+  },
+  {
+    "code": "35.07.020.009",
+    "villageCode": "009",
+    "districtCode": "35.07.020",
+    "name": "Kalirejo",
+    "alias": "Kalirejo"
+  }
+]

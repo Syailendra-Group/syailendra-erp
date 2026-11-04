@@ -1,0 +1,58 @@
+[
+  {
+    "code": "12.13.201.001",
+    "villageCode": "001",
+    "districtCode": "12.13.201",
+    "name": "Salahaji",
+    "alias": "Salahaji"
+  },
+  {
+    "code": "12.13.201.002",
+    "villageCode": "002",
+    "districtCode": "12.13.201",
+    "name": "Serang Jaya",
+    "alias": "Serang Jaya"
+  },
+  {
+    "code": "12.13.201.003",
+    "villageCode": "003",
+    "districtCode": "12.13.201",
+    "name": "Pematang Tengah",
+    "alias": "Pematang Tengah"
+  },
+  {
+    "code": "12.13.201.004",
+    "villageCode": "004",
+    "districtCode": "12.13.201",
+    "name": "Perkebunan Perapen",
+    "alias": "Perkebunan Perapen"
+  },
+  {
+    "code": "12.13.201.005",
+    "villageCode": "005",
+    "districtCode": "12.13.201",
+    "name": "Limau Mungkur",
+    "alias": "Limau Mungkur"
+  },
+  {
+    "code": "12.13.201.006",
+    "villageCode": "006",
+    "districtCode": "12.13.201",
+    "name": "Perkebunan Damar Condong",
+    "alias": "Perkebunan Damar Condong"
+  },
+  {
+    "code": "12.13.201.007",
+    "villageCode": "007",
+    "districtCode": "12.13.201",
+    "name": "Damar Condong",
+    "alias": "Damar Condong"
+  },
+  {
+    "code": "12.13.201.008",
+    "villageCode": "008",
+    "districtCode": "12.13.201",
+    "name": "Serang Jaya Hilir",
+    "alias": "Serang Jaya Hilir"
+  }
+]

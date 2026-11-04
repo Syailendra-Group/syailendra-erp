@@ -1,0 +1,37 @@
+[
+  {
+    "code": "12.10.031.001",
+    "villageCode": "001",
+    "districtCode": "12.10.031",
+    "name": "Berampu",
+    "alias": "Berampu"
+  },
+  {
+    "code": "12.10.031.002",
+    "villageCode": "002",
+    "districtCode": "12.10.031",
+    "name": "Karing",
+    "alias": "Karing"
+  },
+  {
+    "code": "12.10.031.003",
+    "villageCode": "003",
+    "districtCode": "12.10.031",
+    "name": "Banjar Toba",
+    "alias": "Banjar Toba"
+  },
+  {
+    "code": "12.10.031.004",
+    "villageCode": "004",
+    "districtCode": "12.10.031",
+    "name": "Pasi",
+    "alias": "Pasi"
+  },
+  {
+    "code": "12.10.031.005",
+    "villageCode": "005",
+    "districtCode": "12.10.031",
+    "name": "Sambaliang",
+    "alias": "Sambaliang"
+  }
+]

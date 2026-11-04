@@ -1,0 +1,233 @@
+[
+  {
+    "code": "11.14.060.001",
+    "villageCode": "001",
+    "districtCode": "11.14.060",
+    "name": "Upah",
+    "alias": "Upah"
+  },
+  {
+    "code": "11.14.060.002",
+    "villageCode": "002",
+    "districtCode": "11.14.060",
+    "name": "Perkebunan Upah",
+    "alias": "Perkebunan Upah"
+  },
+  {
+    "code": "11.14.060.003",
+    "villageCode": "003",
+    "districtCode": "11.14.060",
+    "name": "Matang Tepah",
+    "alias": "Matang Tepah"
+  },
+  {
+    "code": "11.14.060.004",
+    "villageCode": "004",
+    "districtCode": "11.14.060",
+    "name": "Seuneubok Dalam Upah",
+    "alias": "Seuneubok Dalam Upah"
+  },
+  {
+    "code": "11.14.060.006",
+    "villageCode": "006",
+    "districtCode": "11.14.060",
+    "name": "Sukamulia Bd /S.Iyu",
+    "alias": "Sukamulia Bd /S.Iyu"
+  },
+  {
+    "code": "11.14.060.009",
+    "villageCode": "009",
+    "districtCode": "11.14.060",
+    "name": "Kebon Sungai Iyu",
+    "alias": "Kebon Sungai Iyu"
+  },
+  {
+    "code": "11.14.060.010",
+    "villageCode": "010",
+    "districtCode": "11.14.060",
+    "name": "Marlempang",
+    "alias": "Marlempang"
+  },
+  {
+    "code": "11.14.060.011",
+    "villageCode": "011",
+    "districtCode": "11.14.060",
+    "name": "Balai",
+    "alias": "Balai"
+  },
+  {
+    "code": "11.14.060.012",
+    "villageCode": "012",
+    "districtCode": "11.14.060",
+    "name": "Lambung Blang",
+    "alias": "Lambung Blang"
+  },
+  {
+    "code": "11.14.060.013",
+    "villageCode": "013",
+    "districtCode": "11.14.060",
+    "name": "Lubuk Batil",
+    "alias": "Lubuk Batil"
+  },
+  {
+    "code": "11.14.060.014",
+    "villageCode": "014",
+    "districtCode": "11.14.060",
+    "name": "Tanjung Paret",
+    "alias": "Tanjung Paret"
+  },
+  {
+    "code": "11.14.060.015",
+    "villageCode": "015",
+    "districtCode": "11.14.060",
+    "name": "Seuneubok Dalam Mesjid",
+    "alias": "Seuneubok Dalam Mesjid"
+  },
+  {
+    "code": "11.14.060.016",
+    "villageCode": "016",
+    "districtCode": "11.14.060",
+    "name": "Rantau Pakam",
+    "alias": "Rantau Pakam"
+  },
+  {
+    "code": "11.14.060.017",
+    "villageCode": "017",
+    "districtCode": "11.14.060",
+    "name": "Tumpok Tengoh",
+    "alias": "Tumpok Tengoh"
+  },
+  {
+    "code": "11.14.060.018",
+    "villageCode": "018",
+    "districtCode": "11.14.060",
+    "name": "Tanjung",
+    "alias": "Tanjung"
+  },
+  {
+    "code": "11.14.060.019",
+    "villageCode": "019",
+    "districtCode": "11.14.060",
+    "name": "Tanjung Mulia",
+    "alias": "Tanjung Mulia"
+  },
+  {
+    "code": "11.14.060.020",
+    "villageCode": "020",
+    "districtCode": "11.14.060",
+    "name": "Teluk Kemiri",
+    "alias": "Teluk Kemiri"
+  },
+  {
+    "code": "11.14.060.021",
+    "villageCode": "021",
+    "districtCode": "11.14.060",
+    "name": "Mesjid Bendahara",
+    "alias": "Mesjid Bendahara"
+  },
+  {
+    "code": "11.14.060.022",
+    "villageCode": "022",
+    "districtCode": "11.14.060",
+    "name": "Teluk Kepayang",
+    "alias": "Teluk Kepayang"
+  },
+  {
+    "code": "11.14.060.023",
+    "villageCode": "023",
+    "districtCode": "11.14.060",
+    "name": "Teluk Halban",
+    "alias": "Teluk Halban"
+  },
+  {
+    "code": "11.14.060.024",
+    "villageCode": "024",
+    "districtCode": "11.14.060",
+    "name": "Raja",
+    "alias": "Raja"
+  },
+  {
+    "code": "11.14.060.025",
+    "villageCode": "025",
+    "districtCode": "11.14.060",
+    "name": "Cinta Raja",
+    "alias": "Cinta Raja"
+  },
+  {
+    "code": "11.14.060.026",
+    "villageCode": "026",
+    "districtCode": "11.14.060",
+    "name": "Tanjung Binjai",
+    "alias": "Tanjung Binjai"
+  },
+  {
+    "code": "11.14.060.027",
+    "villageCode": "027",
+    "districtCode": "11.14.060",
+    "name": "Kuala Penaga",
+    "alias": "Kuala Penaga"
+  },
+  {
+    "code": "11.14.060.028",
+    "villageCode": "028",
+    "districtCode": "11.14.060",
+    "name": "Kuala Genting",
+    "alias": "Kuala Genting"
+  },
+  {
+    "code": "11.14.060.029",
+    "villageCode": "029",
+    "districtCode": "11.14.060",
+    "name": "Bandar Baru",
+    "alias": "Bandar Baru"
+  },
+  {
+    "code": "11.14.060.030",
+    "villageCode": "030",
+    "districtCode": "11.14.060",
+    "name": "Mesjid Sungai Iyu",
+    "alias": "Mesjid Sungai Iyu"
+  },
+  {
+    "code": "11.14.060.031",
+    "villageCode": "031",
+    "districtCode": "11.14.060",
+    "name": "Alur Cantik",
+    "alias": "Alur Cantik"
+  },
+  {
+    "code": "11.14.060.032",
+    "villageCode": "032",
+    "districtCode": "11.14.060",
+    "name": "Tanjung Lipat I",
+    "alias": "Tanjung Lipat I"
+  },
+  {
+    "code": "11.14.060.034",
+    "villageCode": "034",
+    "districtCode": "11.14.060",
+    "name": "Bandar Khalifah",
+    "alias": "Bandar Khalifah"
+  },
+  {
+    "code": "11.14.060.035",
+    "villageCode": "035",
+    "districtCode": "11.14.060",
+    "name": "Seuneubok Aceh",
+    "alias": "Seuneubok Aceh"
+  },
+  {
+    "code": "11.14.060.036",
+    "villageCode": "036",
+    "districtCode": "11.14.060",
+    "name": "Tanjung Lipat Ii",
+    "alias": "Tanjung Lipat Ii"
+  },
+  {
+    "code": "11.14.060.037",
+    "villageCode": "037",
+    "districtCode": "11.14.060",
+    "name": "Tengku Tinggi",
+    "alias": "Tengku Tinggi"
+  }
+]

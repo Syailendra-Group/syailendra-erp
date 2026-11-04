@@ -1,0 +1,30 @@
+[
+  {
+    "code": "13.11.023.001",
+    "villageCode": "001",
+    "districtCode": "13.11.023",
+    "name": "Batu Rijal",
+    "alias": "Batu Rijal"
+  },
+  {
+    "code": "13.11.023.002",
+    "villageCode": "002",
+    "districtCode": "13.11.023",
+    "name": "Muaro Sopan",
+    "alias": "Muaro Sopan"
+  },
+  {
+    "code": "13.11.023.003",
+    "villageCode": "003",
+    "districtCode": "13.11.023",
+    "name": "Padang Laweh",
+    "alias": "Padang Laweh"
+  },
+  {
+    "code": "13.11.023.004",
+    "villageCode": "004",
+    "districtCode": "13.11.023",
+    "name": "Sopan Jaya",
+    "alias": "Sopan Jaya"
+  }
+]

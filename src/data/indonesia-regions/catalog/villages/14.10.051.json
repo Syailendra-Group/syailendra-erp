@@ -1,0 +1,79 @@
+[
+  {
+    "code": "14.10.051.001",
+    "villageCode": "001",
+    "districtCode": "14.10.051",
+    "name": "Teluk Ketapang",
+    "alias": "Teluk Ketapang"
+  },
+  {
+    "code": "14.10.051.002",
+    "villageCode": "002",
+    "districtCode": "14.10.051",
+    "name": "Semukut",
+    "alias": "Semukut"
+  },
+  {
+    "code": "14.10.051.003",
+    "villageCode": "003",
+    "districtCode": "14.10.051",
+    "name": "Centai",
+    "alias": "Centai"
+  },
+  {
+    "code": "14.10.051.004",
+    "villageCode": "004",
+    "districtCode": "14.10.051",
+    "name": "Tanjung Bunga",
+    "alias": "Tanjung Bunga"
+  },
+  {
+    "code": "14.10.051.005",
+    "villageCode": "005",
+    "districtCode": "14.10.051",
+    "name": "Renak Dungun",
+    "alias": "Renak Dungun"
+  },
+  {
+    "code": "14.10.051.006",
+    "villageCode": "006",
+    "districtCode": "14.10.051",
+    "name": "Baran Melintang",
+    "alias": "Baran Melintang"
+  },
+  {
+    "code": "14.10.051.007",
+    "villageCode": "007",
+    "districtCode": "14.10.051",
+    "name": "Kuala Merbau",
+    "alias": "Kuala Merbau"
+  },
+  {
+    "code": "14.10.051.008",
+    "villageCode": "008",
+    "districtCode": "14.10.051",
+    "name": "Batang Meranti",
+    "alias": "Batang Meranti"
+  },
+  {
+    "code": "14.10.051.009",
+    "villageCode": "009",
+    "districtCode": "14.10.051",
+    "name": "Pangkalan Balai",
+    "alias": "Pangkalan Balai"
+  },
+  {
+    "code": "14.10.051.010",
+    "villageCode": "010",
+    "districtCode": "14.10.051",
+    "name": "Padang Kamal",
+    "alias": "Padang Kamal"
+  },
+  {
+    "code": "14.10.051.011",
+    "villageCode": "011",
+    "districtCode": "14.10.051",
+    "name": "Ketapang Permai",
+    "alias": "Ketapang Permai"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "code": "32.12.020.001",
+    "villageCode": "001",
+    "districtCode": "32.12.020",
+    "name": "Sukaslamet",
+    "alias": "Sukaslamet"
+  },
+  {
+    "code": "32.12.020.002",
+    "villageCode": "002",
+    "districtCode": "32.12.020",
+    "name": "Tanjungkerta",
+    "alias": "Tanjungkerta"
+  },
+  {
+    "code": "32.12.020.003",
+    "villageCode": "003",
+    "districtCode": "32.12.020",
+    "name": "Kroya",
+    "alias": "Kroya"
+  },
+  {
+    "code": "32.12.020.004",
+    "villageCode": "004",
+    "districtCode": "32.12.020",
+    "name": "Sumbon",
+    "alias": "Sumbon"
+  },
+  {
+    "code": "32.12.020.005",
+    "villageCode": "005",
+    "districtCode": "32.12.020",
+    "name": "Sukamelang",
+    "alias": "Sukamelang"
+  },
+  {
+    "code": "32.12.020.006",
+    "villageCode": "006",
+    "districtCode": "32.12.020",
+    "name": "Temiyang",
+    "alias": "Temiyang"
+  },
+  {
+    "code": "32.12.020.007",
+    "villageCode": "007",
+    "districtCode": "32.12.020",
+    "name": "Temiyangsari",
+    "alias": "Temiyangsari"
+  },
+  {
+    "code": "32.12.020.008",
+    "villageCode": "008",
+    "districtCode": "32.12.020",
+    "name": "Jayamulya",
+    "alias": "Jayamulya"
+  },
+  {
+    "code": "32.12.020.009",
+    "villageCode": "009",
+    "districtCode": "32.12.020",
+    "name": "Sumberjaya",
+    "alias": "Sumberjaya"
+  }
+]

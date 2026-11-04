@@ -1,0 +1,58 @@
+[
+  {
+    "code": "16.13.010",
+    "districtCode": "010",
+    "regencyCode": "16.13",
+    "provinceCode": "16",
+    "name": "Kecamatan Ulu Rawas",
+    "alias": "Ulu Rawas"
+  },
+  {
+    "code": "16.13.020",
+    "districtCode": "020",
+    "regencyCode": "16.13",
+    "provinceCode": "16",
+    "name": "Kecamatan Karang Jaya",
+    "alias": "Karang Jaya"
+  },
+  {
+    "code": "16.13.030",
+    "districtCode": "030",
+    "regencyCode": "16.13",
+    "provinceCode": "16",
+    "name": "Kecamatan Rawas Ulu",
+    "alias": "Rawas Ulu"
+  },
+  {
+    "code": "16.13.040",
+    "districtCode": "040",
+    "regencyCode": "16.13",
+    "provinceCode": "16",
+    "name": "Kecamatan Rupit",
+    "alias": "Rupit"
+  },
+  {
+    "code": "16.13.050",
+    "districtCode": "050",
+    "regencyCode": "16.13",
+    "provinceCode": "16",
+    "name": "Kecamatan Karang Dapo",
+    "alias": "Karang Dapo"
+  },
+  {
+    "code": "16.13.060",
+    "districtCode": "060",
+    "regencyCode": "16.13",
+    "provinceCode": "16",
+    "name": "Kecamatan Rawas Ilir",
+    "alias": "Rawas Ilir"
+  },
+  {
+    "code": "16.13.070",
+    "districtCode": "070",
+    "regencyCode": "16.13",
+    "provinceCode": "16",
+    "name": "Kecamatan Nibung",
+    "alias": "Nibung"
+  }
+]

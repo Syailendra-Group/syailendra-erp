@@ -1,0 +1,79 @@
+[
+  {
+    "code": "82.03.020.015",
+    "villageCode": "015",
+    "districtCode": "82.03.020",
+    "name": "Wailau",
+    "alias": "Wailau"
+  },
+  {
+    "code": "82.03.020.017",
+    "villageCode": "017",
+    "districtCode": "82.03.020",
+    "name": "Pastina",
+    "alias": "Pastina"
+  },
+  {
+    "code": "82.03.020.018",
+    "villageCode": "018",
+    "districtCode": "82.03.020",
+    "name": "Umaloya",
+    "alias": "Umaloya"
+  },
+  {
+    "code": "82.03.020.019",
+    "villageCode": "019",
+    "districtCode": "82.03.020",
+    "name": "Wai Ipa",
+    "alias": "Wai Ipa"
+  },
+  {
+    "code": "82.03.020.020",
+    "villageCode": "020",
+    "districtCode": "82.03.020",
+    "name": "Wai Hama",
+    "alias": "Wai Hama"
+  },
+  {
+    "code": "82.03.020.021",
+    "villageCode": "021",
+    "districtCode": "82.03.020",
+    "name": "Fogi",
+    "alias": "Fogi"
+  },
+  {
+    "code": "82.03.020.022",
+    "villageCode": "022",
+    "districtCode": "82.03.020",
+    "name": "Fatce",
+    "alias": "Fatce"
+  },
+  {
+    "code": "82.03.020.023",
+    "villageCode": "023",
+    "districtCode": "82.03.020",
+    "name": "Falahu",
+    "alias": "Falahu"
+  },
+  {
+    "code": "82.03.020.024",
+    "villageCode": "024",
+    "districtCode": "82.03.020",
+    "name": "Fagudu",
+    "alias": "Fagudu"
+  },
+  {
+    "code": "82.03.020.025",
+    "villageCode": "025",
+    "districtCode": "82.03.020",
+    "name": "Mangon",
+    "alias": "Mangon"
+  },
+  {
+    "code": "82.03.020.026",
+    "villageCode": "026",
+    "districtCode": "82.03.020",
+    "name": "Waibau",
+    "alias": "Waibau"
+  }
+]

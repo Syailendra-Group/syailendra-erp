@@ -1,0 +1,114 @@
+[
+  {
+    "code": "13.05.010",
+    "districtCode": "010",
+    "regencyCode": "13.05",
+    "provinceCode": "13",
+    "name": "Kecamatan X Koto",
+    "alias": "X Koto"
+  },
+  {
+    "code": "13.05.020",
+    "districtCode": "020",
+    "regencyCode": "13.05",
+    "provinceCode": "13",
+    "name": "Kecamatan Batipuh",
+    "alias": "Batipuh"
+  },
+  {
+    "code": "13.05.021",
+    "districtCode": "021",
+    "regencyCode": "13.05",
+    "provinceCode": "13",
+    "name": "Kecamatan Batipuah Selatan",
+    "alias": "Batipuah Selatan"
+  },
+  {
+    "code": "13.05.030",
+    "districtCode": "030",
+    "regencyCode": "13.05",
+    "provinceCode": "13",
+    "name": "Kecamatan Pariangan",
+    "alias": "Pariangan"
+  },
+  {
+    "code": "13.05.040",
+    "districtCode": "040",
+    "regencyCode": "13.05",
+    "provinceCode": "13",
+    "name": "Kecamatan Rambatan",
+    "alias": "Rambatan"
+  },
+  {
+    "code": "13.05.050",
+    "districtCode": "050",
+    "regencyCode": "13.05",
+    "provinceCode": "13",
+    "name": "Kecamatan Lima Kaum",
+    "alias": "Lima Kaum"
+  },
+  {
+    "code": "13.05.060",
+    "districtCode": "060",
+    "regencyCode": "13.05",
+    "provinceCode": "13",
+    "name": "Kecamatan Tanjung Emas",
+    "alias": "Tanjung Emas"
+  },
+  {
+    "code": "13.05.070",
+    "districtCode": "070",
+    "regencyCode": "13.05",
+    "provinceCode": "13",
+    "name": "Kecamatan Padang Ganting",
+    "alias": "Padang Ganting"
+  },
+  {
+    "code": "13.05.080",
+    "districtCode": "080",
+    "regencyCode": "13.05",
+    "provinceCode": "13",
+    "name": "Kecamatan Lintau Buo",
+    "alias": "Lintau Buo"
+  },
+  {
+    "code": "13.05.081",
+    "districtCode": "081",
+    "regencyCode": "13.05",
+    "provinceCode": "13",
+    "name": "Kecamatan Lintau Buo Utara",
+    "alias": "Lintau Buo Utara"
+  },
+  {
+    "code": "13.05.090",
+    "districtCode": "090",
+    "regencyCode": "13.05",
+    "provinceCode": "13",
+    "name": "Kecamatan Sungayang",
+    "alias": "Sungayang"
+  },
+  {
+    "code": "13.05.100",
+    "districtCode": "100",
+    "regencyCode": "13.05",
+    "provinceCode": "13",
+    "name": "Kecamatan Sungai Tarab",
+    "alias": "Sungai Tarab"
+  },
+  {
+    "code": "13.05.110",
+    "districtCode": "110",
+    "regencyCode": "13.05",
+    "provinceCode": "13",
+    "name": "Kecamatan Salimpaung",
+    "alias": "Salimpaung"
+  },
+  {
+    "code": "13.05.111",
+    "districtCode": "111",
+    "regencyCode": "13.05",
+    "provinceCode": "13",
+    "name": "Kecamatan Tanjuang Baru",
+    "alias": "Tanjuang Baru"
+  }
+]

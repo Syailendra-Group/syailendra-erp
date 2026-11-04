@@ -1,0 +1,51 @@
+[
+  {
+    "code": "72.07.051.001",
+    "villageCode": "001",
+    "districtCode": "72.07.051",
+    "name": "Bodi",
+    "alias": "Bodi"
+  },
+  {
+    "code": "72.07.051.002",
+    "villageCode": "002",
+    "districtCode": "72.07.051",
+    "name": "Tayokan",
+    "alias": "Tayokan"
+  },
+  {
+    "code": "72.07.051.003",
+    "villageCode": "003",
+    "districtCode": "72.07.051",
+    "name": "Harmoni",
+    "alias": "Harmoni"
+  },
+  {
+    "code": "72.07.051.004",
+    "villageCode": "004",
+    "districtCode": "72.07.051",
+    "name": "Lunguto",
+    "alias": "Lunguto"
+  },
+  {
+    "code": "72.07.051.005",
+    "villageCode": "005",
+    "districtCode": "72.07.051",
+    "name": "Timbulon",
+    "alias": "Timbulon"
+  },
+  {
+    "code": "72.07.051.006",
+    "villageCode": "006",
+    "districtCode": "72.07.051",
+    "name": "Oyak",
+    "alias": "Oyak"
+  },
+  {
+    "code": "72.07.051.007",
+    "villageCode": "007",
+    "districtCode": "72.07.051",
+    "name": "Hulubalang",
+    "alias": "Hulubalang"
+  }
+]

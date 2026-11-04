@@ -1,0 +1,58 @@
+[
+  {
+    "code": "61.08.060.001",
+    "villageCode": "001",
+    "districtCode": "61.08.060",
+    "name": "Nanga Manday",
+    "alias": "Nanga Manday"
+  },
+  {
+    "code": "61.08.060.004",
+    "villageCode": "004",
+    "districtCode": "61.08.060",
+    "name": "Jelemuk",
+    "alias": "Jelemuk"
+  },
+  {
+    "code": "61.08.060.005",
+    "villageCode": "005",
+    "districtCode": "61.08.060",
+    "name": "Bika",
+    "alias": "Bika"
+  },
+  {
+    "code": "61.08.060.006",
+    "villageCode": "006",
+    "districtCode": "61.08.060",
+    "name": "Teluk Sindur",
+    "alias": "Teluk Sindur"
+  },
+  {
+    "code": "61.08.060.008",
+    "villageCode": "008",
+    "districtCode": "61.08.060",
+    "name": "Penyeluang",
+    "alias": "Penyeluang"
+  },
+  {
+    "code": "61.08.060.011",
+    "villageCode": "011",
+    "districtCode": "61.08.060",
+    "name": "Jongkong Manday",
+    "alias": "Jongkong Manday"
+  },
+  {
+    "code": "61.08.060.012",
+    "villageCode": "012",
+    "districtCode": "61.08.060",
+    "name": "Melapi Manday",
+    "alias": "Melapi Manday"
+  },
+  {
+    "code": "61.08.060.013",
+    "villageCode": "013",
+    "districtCode": "61.08.060",
+    "name": "Bika Hulu",
+    "alias": "Bika Hulu"
+  }
+]

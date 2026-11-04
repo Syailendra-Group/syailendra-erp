@@ -1,0 +1,72 @@
+[
+  {
+    "code": "35.27.080.001",
+    "villageCode": "001",
+    "districtCode": "35.27.080",
+    "name": "Batorasang",
+    "alias": "Batorasang"
+  },
+  {
+    "code": "35.27.080.002",
+    "villageCode": "002",
+    "districtCode": "35.27.080",
+    "name": "Karang Anyar",
+    "alias": "Karang Anyar"
+  },
+  {
+    "code": "35.27.080.003",
+    "villageCode": "003",
+    "districtCode": "35.27.080",
+    "name": "Samaran",
+    "alias": "Samaran"
+  },
+  {
+    "code": "35.27.080.004",
+    "villageCode": "004",
+    "districtCode": "35.27.080",
+    "name": "Beringin",
+    "alias": "Beringin"
+  },
+  {
+    "code": "35.27.080.005",
+    "villageCode": "005",
+    "districtCode": "35.27.080",
+    "name": "Mambulu Barat",
+    "alias": "Mambulu Barat"
+  },
+  {
+    "code": "35.27.080.006",
+    "villageCode": "006",
+    "districtCode": "35.27.080",
+    "name": "Barung Gagah",
+    "alias": "Barung Gagah"
+  },
+  {
+    "code": "35.27.080.007",
+    "villageCode": "007",
+    "districtCode": "35.27.080",
+    "name": "Tambelangan",
+    "alias": "Tambelangan"
+  },
+  {
+    "code": "35.27.080.008",
+    "villageCode": "008",
+    "districtCode": "35.27.080",
+    "name": "Somber",
+    "alias": "Somber"
+  },
+  {
+    "code": "35.27.080.009",
+    "villageCode": "009",
+    "districtCode": "35.27.080",
+    "name": "Banjar Billah",
+    "alias": "Banjar Billah"
+  },
+  {
+    "code": "35.27.080.010",
+    "villageCode": "010",
+    "districtCode": "35.27.080",
+    "name": "Birem",
+    "alias": "Birem"
+  }
+]

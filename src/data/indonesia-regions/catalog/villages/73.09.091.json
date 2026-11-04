@@ -1,0 +1,44 @@
+[
+  {
+    "code": "73.09.091.001",
+    "villageCode": "001",
+    "districtCode": "73.09.091",
+    "name": "Bonto Matene",
+    "alias": "Bonto Matene"
+  },
+  {
+    "code": "73.09.091.002",
+    "villageCode": "002",
+    "districtCode": "73.09.091",
+    "name": "Baring",
+    "alias": "Baring"
+  },
+  {
+    "code": "73.09.091.003",
+    "villageCode": "003",
+    "districtCode": "73.09.091",
+    "name": "Parenreng",
+    "alias": "Parenreng"
+  },
+  {
+    "code": "73.09.091.004",
+    "villageCode": "004",
+    "districtCode": "73.09.091",
+    "name": "Segeri",
+    "alias": "Segeri"
+  },
+  {
+    "code": "73.09.091.005",
+    "villageCode": "005",
+    "districtCode": "73.09.091",
+    "name": "Bawasalo",
+    "alias": "Bawasalo"
+  },
+  {
+    "code": "73.09.091.006",
+    "villageCode": "006",
+    "districtCode": "73.09.091",
+    "name": "Bone",
+    "alias": "Bone"
+  }
+]

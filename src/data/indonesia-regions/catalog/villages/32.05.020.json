@@ -1,0 +1,51 @@
+[
+  {
+    "code": "32.05.020.001",
+    "villageCode": "001",
+    "districtCode": "32.05.020",
+    "name": "Selaawi",
+    "alias": "Selaawi"
+  },
+  {
+    "code": "32.05.020.002",
+    "villageCode": "002",
+    "districtCode": "32.05.020",
+    "name": "Mekarmukti",
+    "alias": "Mekarmukti"
+  },
+  {
+    "code": "32.05.020.003",
+    "villageCode": "003",
+    "districtCode": "32.05.020",
+    "name": "Mekarmulya",
+    "alias": "Mekarmulya"
+  },
+  {
+    "code": "32.05.020.004",
+    "villageCode": "004",
+    "districtCode": "32.05.020",
+    "name": "Sukamulya",
+    "alias": "Sukamulya"
+  },
+  {
+    "code": "32.05.020.005",
+    "villageCode": "005",
+    "districtCode": "32.05.020",
+    "name": "Sukamaju",
+    "alias": "Sukamaju"
+  },
+  {
+    "code": "32.05.020.006",
+    "villageCode": "006",
+    "districtCode": "32.05.020",
+    "name": "Sukalaksana",
+    "alias": "Sukalaksana"
+  },
+  {
+    "code": "32.05.020.007",
+    "villageCode": "007",
+    "districtCode": "32.05.020",
+    "name": "Mekarwangi",
+    "alias": "Mekarwangi"
+  }
+]

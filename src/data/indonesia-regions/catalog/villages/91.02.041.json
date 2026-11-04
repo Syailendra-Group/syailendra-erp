@@ -1,0 +1,44 @@
+[
+  {
+    "code": "91.02.041.001",
+    "villageCode": "001",
+    "districtCode": "91.02.041",
+    "name": "Hairapara",
+    "alias": "Hairapara"
+  },
+  {
+    "code": "91.02.041.002",
+    "villageCode": "002",
+    "districtCode": "91.02.041",
+    "name": "Omba Pamuku",
+    "alias": "Omba Pamuku"
+  },
+  {
+    "code": "91.02.041.003",
+    "villageCode": "003",
+    "districtCode": "91.02.041",
+    "name": "Wosokuno",
+    "alias": "Wosokuno"
+  },
+  {
+    "code": "91.02.041.004",
+    "villageCode": "004",
+    "districtCode": "91.02.041",
+    "name": "Wagoha",
+    "alias": "Wagoha"
+  },
+  {
+    "code": "91.02.041.005",
+    "villageCode": "005",
+    "districtCode": "91.02.041",
+    "name": "Urubika",
+    "alias": "Urubika"
+  },
+  {
+    "code": "91.02.041.006",
+    "villageCode": "006",
+    "districtCode": "91.02.041",
+    "name": "Ure",
+    "alias": "Ure"
+  }
+]

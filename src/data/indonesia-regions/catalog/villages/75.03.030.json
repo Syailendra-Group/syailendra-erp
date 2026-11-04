@@ -1,0 +1,58 @@
+[
+  {
+    "code": "75.03.030.005",
+    "villageCode": "005",
+    "districtCode": "75.03.030",
+    "name": "Marisa Selatan",
+    "alias": "Marisa Selatan"
+  },
+  {
+    "code": "75.03.030.006",
+    "villageCode": "006",
+    "districtCode": "75.03.030",
+    "name": "Pohuwato",
+    "alias": "Pohuwato"
+  },
+  {
+    "code": "75.03.030.007",
+    "villageCode": "007",
+    "districtCode": "75.03.030",
+    "name": "Marisa Utara",
+    "alias": "Marisa Utara"
+  },
+  {
+    "code": "75.03.030.008",
+    "villageCode": "008",
+    "districtCode": "75.03.030",
+    "name": "Teratai",
+    "alias": "Teratai"
+  },
+  {
+    "code": "75.03.030.019",
+    "villageCode": "019",
+    "districtCode": "75.03.030",
+    "name": "Botubilotahu Indah",
+    "alias": "Botubilotahu Indah"
+  },
+  {
+    "code": "75.03.030.020",
+    "villageCode": "020",
+    "districtCode": "75.03.030",
+    "name": "Palopo",
+    "alias": "Palopo"
+  },
+  {
+    "code": "75.03.030.021",
+    "villageCode": "021",
+    "districtCode": "75.03.030",
+    "name": "Pohuwato Timur",
+    "alias": "Pohuwato Timur"
+  },
+  {
+    "code": "75.03.030.022",
+    "villageCode": "022",
+    "districtCode": "75.03.030",
+    "name": "Bulangita",
+    "alias": "Bulangita"
+  }
+]

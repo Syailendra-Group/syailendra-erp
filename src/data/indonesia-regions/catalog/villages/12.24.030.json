@@ -1,0 +1,44 @@
+[
+  {
+    "code": "12.24.030.001",
+    "villageCode": "001",
+    "districtCode": "12.24.030",
+    "name": "Harefanaese",
+    "alias": "Harefanaese"
+  },
+  {
+    "code": "12.24.030.002",
+    "villageCode": "002",
+    "districtCode": "12.24.030",
+    "name": "Banua Sibohou Iii",
+    "alias": "Banua Sibohou Iii"
+  },
+  {
+    "code": "12.24.030.003",
+    "villageCode": "003",
+    "districtCode": "12.24.030",
+    "name": "Laehuwa",
+    "alias": "Laehuwa"
+  },
+  {
+    "code": "12.24.030.004",
+    "villageCode": "004",
+    "districtCode": "12.24.030",
+    "name": "Hilimbowo Kare",
+    "alias": "Hilimbowo Kare"
+  },
+  {
+    "code": "12.24.030.005",
+    "villageCode": "005",
+    "districtCode": "12.24.030",
+    "name": "Hilina A",
+    "alias": "Hilina A"
+  },
+  {
+    "code": "12.24.030.006",
+    "villageCode": "006",
+    "districtCode": "12.24.030",
+    "name": "Mazingo",
+    "alias": "Mazingo"
+  }
+]

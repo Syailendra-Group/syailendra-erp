@@ -1,0 +1,51 @@
+[
+  {
+    "code": "73.06.070.006",
+    "villageCode": "006",
+    "districtCode": "73.06.070",
+    "name": "Parigi",
+    "alias": "Parigi"
+  },
+  {
+    "code": "73.06.070.007",
+    "villageCode": "007",
+    "districtCode": "73.06.070",
+    "name": "Bulutana",
+    "alias": "Bulutana"
+  },
+  {
+    "code": "73.06.070.008",
+    "villageCode": "008",
+    "districtCode": "73.06.070",
+    "name": "Malino",
+    "alias": "Malino"
+  },
+  {
+    "code": "73.06.070.009",
+    "villageCode": "009",
+    "districtCode": "73.06.070",
+    "name": "Gantarang",
+    "alias": "Gantarang"
+  },
+  {
+    "code": "73.06.070.010",
+    "villageCode": "010",
+    "districtCode": "73.06.070",
+    "name": "Pattapang",
+    "alias": "Pattapang"
+  },
+  {
+    "code": "73.06.070.011",
+    "villageCode": "011",
+    "districtCode": "73.06.070",
+    "name": "Bonto Lerung",
+    "alias": "Bonto Lerung"
+  },
+  {
+    "code": "73.06.070.012",
+    "villageCode": "012",
+    "districtCode": "73.06.070",
+    "name": "Garassi",
+    "alias": "Garassi"
+  }
+]

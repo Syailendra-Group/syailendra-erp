@@ -1,0 +1,58 @@
+[
+  {
+    "code": "14.03.050.001",
+    "villageCode": "001",
+    "districtCode": "14.03.050",
+    "name": "Tanjung Lajau",
+    "alias": "Tanjung Lajau"
+  },
+  {
+    "code": "14.03.050.002",
+    "villageCode": "002",
+    "districtCode": "14.03.050",
+    "name": "Sungai Buluh",
+    "alias": "Sungai Buluh"
+  },
+  {
+    "code": "14.03.050.003",
+    "villageCode": "003",
+    "districtCode": "14.03.050",
+    "name": "Sungai Bela",
+    "alias": "Sungai Bela"
+  },
+  {
+    "code": "14.03.050.008",
+    "villageCode": "008",
+    "districtCode": "14.03.050",
+    "name": "Perigi Raja",
+    "alias": "Perigi Raja"
+  },
+  {
+    "code": "14.03.050.009",
+    "villageCode": "009",
+    "districtCode": "14.03.050",
+    "name": "Sapat",
+    "alias": "Sapat"
+  },
+  {
+    "code": "14.03.050.010",
+    "villageCode": "010",
+    "districtCode": "14.03.050",
+    "name": "Teluk Dalam",
+    "alias": "Teluk Dalam"
+  },
+  {
+    "code": "14.03.050.011",
+    "villageCode": "011",
+    "districtCode": "14.03.050",
+    "name": "Sungai Piyai",
+    "alias": "Sungai Piyai"
+  },
+  {
+    "code": "14.03.050.012",
+    "villageCode": "012",
+    "districtCode": "14.03.050",
+    "name": "Tanjung Melayu",
+    "alias": "Tanjung Melayu"
+  }
+]

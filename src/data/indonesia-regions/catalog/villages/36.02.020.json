@@ -1,0 +1,79 @@
+[
+  {
+    "code": "36.02.020.006",
+    "villageCode": "006",
+    "districtCode": "36.02.020",
+    "name": "Situregen",
+    "alias": "Situregen"
+  },
+  {
+    "code": "36.02.020.007",
+    "villageCode": "007",
+    "districtCode": "36.02.020",
+    "name": "Sukajadi",
+    "alias": "Sukajadi"
+  },
+  {
+    "code": "36.02.020.008",
+    "villageCode": "008",
+    "districtCode": "36.02.020",
+    "name": "Hegarmanah",
+    "alias": "Hegarmanah"
+  },
+  {
+    "code": "36.02.020.009",
+    "villageCode": "009",
+    "districtCode": "36.02.020",
+    "name": "Panggarangan",
+    "alias": "Panggarangan"
+  },
+  {
+    "code": "36.02.020.010",
+    "villageCode": "010",
+    "districtCode": "36.02.020",
+    "name": "Mekarjaya",
+    "alias": "Mekarjaya"
+  },
+  {
+    "code": "36.02.020.011",
+    "villageCode": "011",
+    "districtCode": "36.02.020",
+    "name": "Sindangratu",
+    "alias": "Sindangratu"
+  },
+  {
+    "code": "36.02.020.012",
+    "villageCode": "012",
+    "districtCode": "36.02.020",
+    "name": "Cimandiri",
+    "alias": "Cimandiri"
+  },
+  {
+    "code": "36.02.020.016",
+    "villageCode": "016",
+    "districtCode": "36.02.020",
+    "name": "Gunung Gede",
+    "alias": "Gunung Gede"
+  },
+  {
+    "code": "36.02.020.017",
+    "villageCode": "017",
+    "districtCode": "36.02.020",
+    "name": "Sogong",
+    "alias": "Sogong"
+  },
+  {
+    "code": "36.02.020.018",
+    "villageCode": "018",
+    "districtCode": "36.02.020",
+    "name": "Jatake",
+    "alias": "Jatake"
+  },
+  {
+    "code": "36.02.020.019",
+    "villageCode": "019",
+    "districtCode": "36.02.020",
+    "name": "Cibarengkok",
+    "alias": "Cibarengkok"
+  }
+]

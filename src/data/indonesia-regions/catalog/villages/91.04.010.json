@@ -1,0 +1,51 @@
+[
+  {
+    "code": "91.04.010.001",
+    "villageCode": "001",
+    "districtCode": "91.04.010",
+    "name": "Fruata",
+    "alias": "Fruata"
+  },
+  {
+    "code": "91.04.010.002",
+    "villageCode": "002",
+    "districtCode": "91.04.010",
+    "name": "Maryedi",
+    "alias": "Maryedi"
+  },
+  {
+    "code": "91.04.010.003",
+    "villageCode": "003",
+    "districtCode": "91.04.010",
+    "name": "Riendo",
+    "alias": "Riendo"
+  },
+  {
+    "code": "91.04.010.004",
+    "villageCode": "004",
+    "districtCode": "91.04.010",
+    "name": "Tarofa",
+    "alias": "Tarofa"
+  },
+  {
+    "code": "91.04.010.005",
+    "villageCode": "005",
+    "districtCode": "91.04.010",
+    "name": "Mambriema",
+    "alias": "Mambriema"
+  },
+  {
+    "code": "91.04.010.006",
+    "villageCode": "006",
+    "districtCode": "91.04.010",
+    "name": "Moniara",
+    "alias": "Moniara"
+  },
+  {
+    "code": "91.04.010.007",
+    "villageCode": "007",
+    "districtCode": "91.04.010",
+    "name": "Wararoma",
+    "alias": "Wararoma"
+  }
+]

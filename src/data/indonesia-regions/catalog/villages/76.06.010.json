@@ -1,0 +1,65 @@
+[
+  {
+    "code": "76.06.010.001",
+    "villageCode": "001",
+    "districtCode": "76.06.010",
+    "name": "Pangale",
+    "alias": "Pangale"
+  },
+  {
+    "code": "76.06.010.002",
+    "villageCode": "002",
+    "districtCode": "76.06.010",
+    "name": "Lemo-Lemo",
+    "alias": "Lemo-Lemo"
+  },
+  {
+    "code": "76.06.010.003",
+    "villageCode": "003",
+    "districtCode": "76.06.010",
+    "name": "Polo Pangale",
+    "alias": "Polo Pangale"
+  },
+  {
+    "code": "76.06.010.004",
+    "villageCode": "004",
+    "districtCode": "76.06.010",
+    "name": "Sartanamaju",
+    "alias": "Sartanamaju"
+  },
+  {
+    "code": "76.06.010.005",
+    "villageCode": "005",
+    "districtCode": "76.06.010",
+    "name": "Kombiling",
+    "alias": "Kombiling"
+  },
+  {
+    "code": "76.06.010.006",
+    "villageCode": "006",
+    "districtCode": "76.06.010",
+    "name": "Lamba-Lamba",
+    "alias": "Lamba-Lamba"
+  },
+  {
+    "code": "76.06.010.007",
+    "villageCode": "007",
+    "districtCode": "76.06.010",
+    "name": "Polo Camba",
+    "alias": "Polo Camba"
+  },
+  {
+    "code": "76.06.010.008",
+    "villageCode": "008",
+    "districtCode": "76.06.010",
+    "name": "Polo Lereng",
+    "alias": "Polo Lereng"
+  },
+  {
+    "code": "76.06.010.009",
+    "villageCode": "009",
+    "districtCode": "76.06.010",
+    "name": "Kuo",
+    "alias": "Kuo"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "code": "64.05.060.003",
+    "villageCode": "003",
+    "districtCode": "64.05.060",
+    "name": "Sungai Bedungun",
+    "alias": "Sungai Bedungun"
+  },
+  {
+    "code": "64.05.060.004",
+    "villageCode": "004",
+    "districtCode": "64.05.060",
+    "name": "Tanjung Redeb",
+    "alias": "Tanjung Redeb"
+  },
+  {
+    "code": "64.05.060.005",
+    "villageCode": "005",
+    "districtCode": "64.05.060",
+    "name": "Bugis",
+    "alias": "Bugis"
+  },
+  {
+    "code": "64.05.060.006",
+    "villageCode": "006",
+    "districtCode": "64.05.060",
+    "name": "Gunung Panjang",
+    "alias": "Gunung Panjang"
+  },
+  {
+    "code": "64.05.060.007",
+    "villageCode": "007",
+    "districtCode": "64.05.060",
+    "name": "Karang Ambun",
+    "alias": "Karang Ambun"
+  },
+  {
+    "code": "64.05.060.008",
+    "villageCode": "008",
+    "districtCode": "64.05.060",
+    "name": "Gayam",
+    "alias": "Gayam"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "code": "53.04.081.001",
+    "villageCode": "001",
+    "districtCode": "53.04.081",
+    "name": "Sillu",
+    "alias": "Sillu"
+  },
+  {
+    "code": "53.04.081.002",
+    "villageCode": "002",
+    "districtCode": "53.04.081",
+    "name": "Oeleon",
+    "alias": "Oeleon"
+  },
+  {
+    "code": "53.04.081.003",
+    "villageCode": "003",
+    "districtCode": "53.04.081",
+    "name": "Kaeneno",
+    "alias": "Kaeneno"
+  },
+  {
+    "code": "53.04.081.004",
+    "villageCode": "004",
+    "districtCode": "53.04.081",
+    "name": "Nunuhakniti",
+    "alias": "Nunuhakniti"
+  },
+  {
+    "code": "53.04.081.005",
+    "villageCode": "005",
+    "districtCode": "53.04.081",
+    "name": "Besleu",
+    "alias": "Besleu"
+  },
+  {
+    "code": "53.04.081.006",
+    "villageCode": "006",
+    "districtCode": "53.04.081",
+    "name": "Bileon",
+    "alias": "Bileon"
+  },
+  {
+    "code": "53.04.081.007",
+    "villageCode": "007",
+    "districtCode": "53.04.081",
+    "name": "Tunis",
+    "alias": "Tunis"
+  }
+]

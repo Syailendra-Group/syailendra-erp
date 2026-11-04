@@ -1,0 +1,30 @@
+[
+  {
+    "code": "73.05.020.003",
+    "villageCode": "003",
+    "districtCode": "73.05.020",
+    "name": "Takalar Kota",
+    "alias": "Takalar Kota"
+  },
+  {
+    "code": "73.05.020.004",
+    "villageCode": "004",
+    "districtCode": "73.05.020",
+    "name": "Patani",
+    "alias": "Patani"
+  },
+  {
+    "code": "73.05.020.005",
+    "villageCode": "005",
+    "districtCode": "73.05.020",
+    "name": "Soreang",
+    "alias": "Soreang"
+  },
+  {
+    "code": "73.05.020.006",
+    "villageCode": "006",
+    "districtCode": "73.05.020",
+    "name": "Pa Batangan",
+    "alias": "Pa Batangan"
+  }
+]

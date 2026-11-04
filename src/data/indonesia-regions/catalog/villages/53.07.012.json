@@ -1,0 +1,79 @@
+[
+  {
+    "code": "53.07.012.001",
+    "villageCode": "001",
+    "districtCode": "53.07.012",
+    "name": "Treweng",
+    "alias": "Treweng"
+  },
+  {
+    "code": "53.07.012.002",
+    "villageCode": "002",
+    "districtCode": "53.07.012",
+    "name": "Lalafang",
+    "alias": "Lalafang"
+  },
+  {
+    "code": "53.07.012.003",
+    "villageCode": "003",
+    "districtCode": "53.07.012",
+    "name": "Nule",
+    "alias": "Nule"
+  },
+  {
+    "code": "53.07.012.004",
+    "villageCode": "004",
+    "districtCode": "53.07.012",
+    "name": "Kaleb",
+    "alias": "Kaleb"
+  },
+  {
+    "code": "53.07.012.005",
+    "villageCode": "005",
+    "districtCode": "53.07.012",
+    "name": "Bunga Bali",
+    "alias": "Bunga Bali"
+  },
+  {
+    "code": "53.07.012.006",
+    "villageCode": "006",
+    "districtCode": "53.07.012",
+    "name": "Kaera",
+    "alias": "Kaera"
+  },
+  {
+    "code": "53.07.012.007",
+    "villageCode": "007",
+    "districtCode": "53.07.012",
+    "name": "Lekom",
+    "alias": "Lekom"
+  },
+  {
+    "code": "53.07.012.008",
+    "villageCode": "008",
+    "districtCode": "53.07.012",
+    "name": "Mawar",
+    "alias": "Mawar"
+  },
+  {
+    "code": "53.07.012.009",
+    "villageCode": "009",
+    "districtCode": "53.07.012",
+    "name": "Ombay",
+    "alias": "Ombay"
+  },
+  {
+    "code": "53.07.012.010",
+    "villageCode": "010",
+    "districtCode": "53.07.012",
+    "name": "Merdeka",
+    "alias": "Merdeka"
+  },
+  {
+    "code": "53.07.012.011",
+    "villageCode": "011",
+    "districtCode": "53.07.012",
+    "name": "Batu",
+    "alias": "Batu"
+  }
+]

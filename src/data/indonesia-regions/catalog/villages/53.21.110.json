@@ -1,0 +1,58 @@
+[
+  {
+    "code": "53.21.110.001",
+    "villageCode": "001",
+    "districtCode": "53.21.110",
+    "name": "Lakekun Barat",
+    "alias": "Lakekun Barat"
+  },
+  {
+    "code": "53.21.110.002",
+    "villageCode": "002",
+    "districtCode": "53.21.110",
+    "name": "Lakekun",
+    "alias": "Lakekun"
+  },
+  {
+    "code": "53.21.110.003",
+    "villageCode": "003",
+    "districtCode": "53.21.110",
+    "name": "Lakekun Utara",
+    "alias": "Lakekun Utara"
+  },
+  {
+    "code": "53.21.110.004",
+    "villageCode": "004",
+    "districtCode": "53.21.110",
+    "name": "Litamali",
+    "alias": "Litamali"
+  },
+  {
+    "code": "53.21.110.005",
+    "villageCode": "005",
+    "districtCode": "53.21.110",
+    "name": "Rainawe",
+    "alias": "Rainawe"
+  },
+  {
+    "code": "53.21.110.006",
+    "villageCode": "006",
+    "districtCode": "53.21.110",
+    "name": "S I S I",
+    "alias": "S I S I"
+  },
+  {
+    "code": "53.21.110.007",
+    "villageCode": "007",
+    "districtCode": "53.21.110",
+    "name": "Babulu Selatan",
+    "alias": "Babulu Selatan"
+  },
+  {
+    "code": "53.21.110.008",
+    "villageCode": "008",
+    "districtCode": "53.21.110",
+    "name": "Babulu",
+    "alias": "Babulu"
+  }
+]

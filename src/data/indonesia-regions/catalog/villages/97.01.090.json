@@ -1,0 +1,23 @@
+[
+  {
+    "code": "97.01.090.001",
+    "villageCode": "001",
+    "districtCode": "97.01.090",
+    "name": "Geselema",
+    "alias": "Geselema"
+  },
+  {
+    "code": "97.01.090.002",
+    "villageCode": "002",
+    "districtCode": "97.01.090",
+    "name": "Talem",
+    "alias": "Talem"
+  },
+  {
+    "code": "97.01.090.003",
+    "villageCode": "003",
+    "districtCode": "97.01.090",
+    "name": "Kosolpem",
+    "alias": "Kosolpem"
+  }
+]

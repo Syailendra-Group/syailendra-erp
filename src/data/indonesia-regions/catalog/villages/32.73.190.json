@@ -1,0 +1,44 @@
+[
+  {
+    "code": "32.73.190.001",
+    "villageCode": "001",
+    "districtCode": "32.73.190",
+    "name": "Arjuna",
+    "alias": "Arjuna"
+  },
+  {
+    "code": "32.73.190.002",
+    "villageCode": "002",
+    "districtCode": "32.73.190",
+    "name": "Pasirkaliki",
+    "alias": "Pasirkaliki"
+  },
+  {
+    "code": "32.73.190.003",
+    "villageCode": "003",
+    "districtCode": "32.73.190",
+    "name": "Pamoyanan",
+    "alias": "Pamoyanan"
+  },
+  {
+    "code": "32.73.190.004",
+    "villageCode": "004",
+    "districtCode": "32.73.190",
+    "name": "Pajajaran",
+    "alias": "Pajajaran"
+  },
+  {
+    "code": "32.73.190.005",
+    "villageCode": "005",
+    "districtCode": "32.73.190",
+    "name": "Husen Sastranegara",
+    "alias": "Husen Sastranegara"
+  },
+  {
+    "code": "32.73.190.006",
+    "villageCode": "006",
+    "districtCode": "32.73.190",
+    "name": "Sukaraja",
+    "alias": "Sukaraja"
+  }
+]

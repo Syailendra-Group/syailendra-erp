@@ -1,0 +1,93 @@
+[
+  {
+    "code": "72.08.063.001",
+    "villageCode": "001",
+    "districtCode": "72.08.063",
+    "name": "Wanamukti",
+    "alias": "Wanamukti"
+  },
+  {
+    "code": "72.08.063.002",
+    "villageCode": "002",
+    "districtCode": "72.08.063",
+    "name": "Sritabaang",
+    "alias": "Sritabaang"
+  },
+  {
+    "code": "72.08.063.003",
+    "villageCode": "003",
+    "districtCode": "72.08.063",
+    "name": "Beringin Jaya",
+    "alias": "Beringin Jaya"
+  },
+  {
+    "code": "72.08.063.004",
+    "villageCode": "004",
+    "districtCode": "72.08.063",
+    "name": "Bajo",
+    "alias": "Bajo"
+  },
+  {
+    "code": "72.08.063.005",
+    "villageCode": "005",
+    "districtCode": "72.08.063",
+    "name": "Bolano",
+    "alias": "Bolano"
+  },
+  {
+    "code": "72.08.063.006",
+    "villageCode": "006",
+    "districtCode": "72.08.063",
+    "name": "Lembah Bomban",
+    "alias": "Lembah Bomban"
+  },
+  {
+    "code": "72.08.063.007",
+    "villageCode": "007",
+    "districtCode": "72.08.063",
+    "name": "Bolano Barat",
+    "alias": "Bolano Barat"
+  },
+  {
+    "code": "72.08.063.008",
+    "villageCode": "008",
+    "districtCode": "72.08.063",
+    "name": "Wanamukti Utara",
+    "alias": "Wanamukti Utara"
+  },
+  {
+    "code": "72.08.063.009",
+    "villageCode": "009",
+    "districtCode": "72.08.063",
+    "name": "Bolano Tengah",
+    "alias": "Bolano Tengah"
+  },
+  {
+    "code": "72.08.063.010",
+    "villageCode": "010",
+    "districtCode": "72.08.063",
+    "name": "Bolano Utara",
+    "alias": "Bolano Utara"
+  },
+  {
+    "code": "72.08.063.011",
+    "villageCode": "011",
+    "districtCode": "72.08.063",
+    "name": "Sidomukti",
+    "alias": "Sidomukti"
+  },
+  {
+    "code": "72.08.063.012",
+    "villageCode": "012",
+    "districtCode": "72.08.063",
+    "name": "Wanamukti Barat",
+    "alias": "Wanamukti Barat"
+  },
+  {
+    "code": "72.08.063.013",
+    "villageCode": "013",
+    "districtCode": "72.08.063",
+    "name": "Sama Bahari",
+    "alias": "Sama Bahari"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "code": "81.04.022.001",
+    "villageCode": "001",
+    "districtCode": "81.04.022",
+    "name": "Waepoti",
+    "alias": "Waepoti"
+  },
+  {
+    "code": "81.04.022.002",
+    "villageCode": "002",
+    "districtCode": "81.04.022",
+    "name": "Waprea",
+    "alias": "Waprea"
+  },
+  {
+    "code": "81.04.022.003",
+    "villageCode": "003",
+    "districtCode": "81.04.022",
+    "name": "Wailihang",
+    "alias": "Wailihang"
+  },
+  {
+    "code": "81.04.022.004",
+    "villageCode": "004",
+    "districtCode": "81.04.022",
+    "name": "Hatawano",
+    "alias": "Hatawano"
+  },
+  {
+    "code": "81.04.022.005",
+    "villageCode": "005",
+    "districtCode": "81.04.022",
+    "name": "Namsina",
+    "alias": "Namsina"
+  },
+  {
+    "code": "81.04.022.006",
+    "villageCode": "006",
+    "districtCode": "81.04.022",
+    "name": "Samalagi",
+    "alias": "Samalagi"
+  },
+  {
+    "code": "81.04.022.007",
+    "villageCode": "007",
+    "districtCode": "81.04.022",
+    "name": "Waeura",
+    "alias": "Waeura"
+  },
+  {
+    "code": "81.04.022.008",
+    "villageCode": "008",
+    "districtCode": "81.04.022",
+    "name": "Waplau",
+    "alias": "Waplau"
+  },
+  {
+    "code": "81.04.022.009",
+    "villageCode": "009",
+    "districtCode": "81.04.022",
+    "name": "Lamahang",
+    "alias": "Lamahang"
+  },
+  {
+    "code": "81.04.022.010",
+    "villageCode": "010",
+    "districtCode": "81.04.022",
+    "name": "Skikilale",
+    "alias": "Skikilale"
+  }
+]

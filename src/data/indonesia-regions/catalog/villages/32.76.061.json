@@ -1,0 +1,30 @@
+[
+  {
+    "code": "32.76.061.001",
+    "villageCode": "001",
+    "districtCode": "32.76.061",
+    "name": "Cinere",
+    "alias": "Cinere"
+  },
+  {
+    "code": "32.76.061.002",
+    "villageCode": "002",
+    "districtCode": "32.76.061",
+    "name": "Gandul",
+    "alias": "Gandul"
+  },
+  {
+    "code": "32.76.061.003",
+    "villageCode": "003",
+    "districtCode": "32.76.061",
+    "name": "Pangkalanjati Baru",
+    "alias": "Pangkalanjati Baru"
+  },
+  {
+    "code": "32.76.061.004",
+    "villageCode": "004",
+    "districtCode": "32.76.061",
+    "name": "Pangkalanjati",
+    "alias": "Pangkalanjati"
+  }
+]

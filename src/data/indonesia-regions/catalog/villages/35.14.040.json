@@ -1,0 +1,58 @@
+[
+  {
+    "code": "35.14.040.001",
+    "villageCode": "001",
+    "districtCode": "35.14.040",
+    "name": "Kandangan",
+    "alias": "Kandangan"
+  },
+  {
+    "code": "35.14.040.002",
+    "villageCode": "002",
+    "districtCode": "35.14.040",
+    "name": "Mororejo",
+    "alias": "Mororejo"
+  },
+  {
+    "code": "35.14.040.003",
+    "villageCode": "003",
+    "districtCode": "35.14.040",
+    "name": "Ngadiwono",
+    "alias": "Ngadiwono"
+  },
+  {
+    "code": "35.14.040.004",
+    "villageCode": "004",
+    "districtCode": "35.14.040",
+    "name": "Podokoyo",
+    "alias": "Podokoyo"
+  },
+  {
+    "code": "35.14.040.005",
+    "villageCode": "005",
+    "districtCode": "35.14.040",
+    "name": "Wonokitri",
+    "alias": "Wonokitri"
+  },
+  {
+    "code": "35.14.040.006",
+    "villageCode": "006",
+    "districtCode": "35.14.040",
+    "name": "Tosari",
+    "alias": "Tosari"
+  },
+  {
+    "code": "35.14.040.007",
+    "villageCode": "007",
+    "districtCode": "35.14.040",
+    "name": "Baledono",
+    "alias": "Baledono"
+  },
+  {
+    "code": "35.14.040.008",
+    "villageCode": "008",
+    "districtCode": "35.14.040",
+    "name": "Sedaeng",
+    "alias": "Sedaeng"
+  }
+]

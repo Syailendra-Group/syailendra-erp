@@ -1,0 +1,51 @@
+[
+  {
+    "code": "64.72.040.001",
+    "villageCode": "001",
+    "districtCode": "64.72.040",
+    "name": "Loa Buah",
+    "alias": "Loa Buah"
+  },
+  {
+    "code": "64.72.040.002",
+    "villageCode": "002",
+    "districtCode": "64.72.040",
+    "name": "Loa Bakung",
+    "alias": "Loa Bakung"
+  },
+  {
+    "code": "64.72.040.003",
+    "villageCode": "003",
+    "districtCode": "64.72.040",
+    "name": "Karang Asam Ulu",
+    "alias": "Karang Asam Ulu"
+  },
+  {
+    "code": "64.72.040.004",
+    "villageCode": "004",
+    "districtCode": "64.72.040",
+    "name": "Teluk Lerong Ulu",
+    "alias": "Teluk Lerong Ulu"
+  },
+  {
+    "code": "64.72.040.005",
+    "villageCode": "005",
+    "districtCode": "64.72.040",
+    "name": "Lok Bahu",
+    "alias": "Lok Bahu"
+  },
+  {
+    "code": "64.72.040.006",
+    "villageCode": "006",
+    "districtCode": "64.72.040",
+    "name": "Karang Asam Ilir",
+    "alias": "Karang Asam Ilir"
+  },
+  {
+    "code": "64.72.040.007",
+    "villageCode": "007",
+    "districtCode": "64.72.040",
+    "name": "Karang Anyar",
+    "alias": "Karang Anyar"
+  }
+]

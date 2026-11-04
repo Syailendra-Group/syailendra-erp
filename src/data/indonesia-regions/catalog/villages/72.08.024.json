@@ -1,0 +1,44 @@
+[
+  {
+    "code": "72.08.024.001",
+    "villageCode": "001",
+    "districtCode": "72.08.024",
+    "name": "Petapa",
+    "alias": "Petapa"
+  },
+  {
+    "code": "72.08.024.002",
+    "villageCode": "002",
+    "districtCode": "72.08.024",
+    "name": "Binangga",
+    "alias": "Binangga"
+  },
+  {
+    "code": "72.08.024.003",
+    "villageCode": "003",
+    "districtCode": "72.08.024",
+    "name": "Pelawa",
+    "alias": "Pelawa"
+  },
+  {
+    "code": "72.08.024.004",
+    "villageCode": "004",
+    "districtCode": "72.08.024",
+    "name": "Matolele",
+    "alias": "Matolele"
+  },
+  {
+    "code": "72.08.024.005",
+    "villageCode": "005",
+    "districtCode": "72.08.024",
+    "name": "Pelawa Baru",
+    "alias": "Pelawa Baru"
+  },
+  {
+    "code": "72.08.024.006",
+    "villageCode": "006",
+    "districtCode": "72.08.024",
+    "name": "Jononunu",
+    "alias": "Jononunu"
+  }
+]

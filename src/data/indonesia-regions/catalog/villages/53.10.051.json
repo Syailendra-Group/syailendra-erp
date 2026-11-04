@@ -1,0 +1,51 @@
+[
+  {
+    "code": "53.10.051.009",
+    "villageCode": "009",
+    "districtCode": "53.10.051",
+    "name": "Hewokloang",
+    "alias": "Hewokloang"
+  },
+  {
+    "code": "53.10.051.010",
+    "villageCode": "010",
+    "districtCode": "53.10.051",
+    "name": "Heopuat",
+    "alias": "Heopuat"
+  },
+  {
+    "code": "53.10.051.011",
+    "villageCode": "011",
+    "districtCode": "53.10.051",
+    "name": "Wolomapa",
+    "alias": "Wolomapa"
+  },
+  {
+    "code": "53.10.051.012",
+    "villageCode": "012",
+    "districtCode": "53.10.051",
+    "name": "Rubit",
+    "alias": "Rubit"
+  },
+  {
+    "code": "53.10.051.013",
+    "villageCode": "013",
+    "districtCode": "53.10.051",
+    "name": "Kajowair",
+    "alias": "Kajowair"
+  },
+  {
+    "code": "53.10.051.020",
+    "villageCode": "020",
+    "districtCode": "53.10.051",
+    "name": "Baomekot",
+    "alias": "Baomekot"
+  },
+  {
+    "code": "53.10.051.021",
+    "villageCode": "021",
+    "districtCode": "53.10.051",
+    "name": "Munerana",
+    "alias": "Munerana"
+  }
+]

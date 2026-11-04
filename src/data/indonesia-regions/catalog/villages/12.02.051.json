@@ -1,0 +1,79 @@
+[
+  {
+    "code": "12.02.051.001",
+    "villageCode": "001",
+    "districtCode": "12.02.051",
+    "name": "Hayu Raja",
+    "alias": "Hayu Raja"
+  },
+  {
+    "code": "12.02.051.002",
+    "villageCode": "002",
+    "districtCode": "12.02.051",
+    "name": "Kayu Laut",
+    "alias": "Kayu Laut"
+  },
+  {
+    "code": "12.02.051.003",
+    "villageCode": "003",
+    "districtCode": "12.02.051",
+    "name": "Tano Bato",
+    "alias": "Tano Bato"
+  },
+  {
+    "code": "12.02.051.004",
+    "villageCode": "004",
+    "districtCode": "12.02.051",
+    "name": "Roburan Lombang",
+    "alias": "Roburan Lombang"
+  },
+  {
+    "code": "12.02.051.005",
+    "villageCode": "005",
+    "districtCode": "12.02.051",
+    "name": "Roburan Dolok",
+    "alias": "Roburan Dolok"
+  },
+  {
+    "code": "12.02.051.006",
+    "villageCode": "006",
+    "districtCode": "12.02.051",
+    "name": "Lumban Dolok",
+    "alias": "Lumban Dolok"
+  },
+  {
+    "code": "12.02.051.007",
+    "villageCode": "007",
+    "districtCode": "12.02.051",
+    "name": "Huta Raja",
+    "alias": "Huta Raja"
+  },
+  {
+    "code": "12.02.051.008",
+    "villageCode": "008",
+    "districtCode": "12.02.051",
+    "name": "Hutarimbaru",
+    "alias": "Hutarimbaru"
+  },
+  {
+    "code": "12.02.051.009",
+    "villageCode": "009",
+    "districtCode": "12.02.051",
+    "name": "Aek Ngali",
+    "alias": "Aek Ngali"
+  },
+  {
+    "code": "12.02.051.010",
+    "villageCode": "010",
+    "districtCode": "12.02.051",
+    "name": "Huta Julu",
+    "alias": "Huta Julu"
+  },
+  {
+    "code": "12.02.051.011",
+    "villageCode": "011",
+    "districtCode": "12.02.051",
+    "name": "Pagaran Gala-Gala",
+    "alias": "Pagaran Gala-Gala"
+  }
+]

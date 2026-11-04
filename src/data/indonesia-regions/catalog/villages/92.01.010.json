@@ -1,0 +1,37 @@
+[
+  {
+    "code": "92.01.010.001",
+    "villageCode": "001",
+    "districtCode": "92.01.010",
+    "name": "Kapatcol",
+    "alias": "Kapatcol"
+  },
+  {
+    "code": "92.01.010.002",
+    "villageCode": "002",
+    "districtCode": "92.01.010",
+    "name": "Lilinta",
+    "alias": "Lilinta"
+  },
+  {
+    "code": "92.01.010.003",
+    "villageCode": "003",
+    "districtCode": "92.01.010",
+    "name": "Biga",
+    "alias": "Biga"
+  },
+  {
+    "code": "92.01.010.004",
+    "villageCode": "004",
+    "districtCode": "92.01.010",
+    "name": "Magei",
+    "alias": "Magei"
+  },
+  {
+    "code": "92.01.010.005",
+    "villageCode": "005",
+    "districtCode": "92.01.010",
+    "name": "Gamta",
+    "alias": "Gamta"
+  }
+]

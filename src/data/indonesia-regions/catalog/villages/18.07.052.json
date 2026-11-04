@@ -1,0 +1,72 @@
+[
+  {
+    "code": "18.07.052.001",
+    "villageCode": "001",
+    "districtCode": "18.07.052",
+    "name": "Tanjung Dalom",
+    "alias": "Tanjung Dalom"
+  },
+  {
+    "code": "18.07.052.002",
+    "villageCode": "002",
+    "districtCode": "18.07.052",
+    "name": "Karangan",
+    "alias": "Karangan"
+  },
+  {
+    "code": "18.07.052.003",
+    "villageCode": "003",
+    "districtCode": "18.07.052",
+    "name": "Bumi Agung",
+    "alias": "Bumi Agung"
+  },
+  {
+    "code": "18.07.052.004",
+    "villageCode": "004",
+    "districtCode": "18.07.052",
+    "name": "Mulyo Harjo",
+    "alias": "Mulyo Harjo"
+  },
+  {
+    "code": "18.07.052.005",
+    "villageCode": "005",
+    "districtCode": "18.07.052",
+    "name": "Wonoharjo",
+    "alias": "Wonoharjo"
+  },
+  {
+    "code": "18.07.052.006",
+    "villageCode": "006",
+    "districtCode": "18.07.052",
+    "name": "Pisang Baru",
+    "alias": "Pisang Baru"
+  },
+  {
+    "code": "18.07.052.007",
+    "villageCode": "007",
+    "districtCode": "18.07.052",
+    "name": "Srinumpi",
+    "alias": "Srinumpi"
+  },
+  {
+    "code": "18.07.052.008",
+    "villageCode": "008",
+    "districtCode": "18.07.052",
+    "name": "Pisang Indah",
+    "alias": "Pisang Indah"
+  },
+  {
+    "code": "18.07.052.009",
+    "villageCode": "009",
+    "districtCode": "18.07.052",
+    "name": "Suka Maju",
+    "alias": "Suka Maju"
+  },
+  {
+    "code": "18.07.052.010",
+    "villageCode": "010",
+    "districtCode": "18.07.052",
+    "name": "Bumi Say Agung",
+    "alias": "Bumi Say Agung"
+  }
+]

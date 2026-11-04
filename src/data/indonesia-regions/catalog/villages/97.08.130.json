@@ -1,0 +1,93 @@
+[
+  {
+    "code": "97.08.130.001",
+    "villageCode": "001",
+    "districtCode": "97.08.130",
+    "name": "Onya",
+    "alias": "Onya"
+  },
+  {
+    "code": "97.08.130.002",
+    "villageCode": "002",
+    "districtCode": "97.08.130",
+    "name": "Omban",
+    "alias": "Omban"
+  },
+  {
+    "code": "97.08.130.003",
+    "villageCode": "003",
+    "districtCode": "97.08.130",
+    "name": "Borme",
+    "alias": "Borme"
+  },
+  {
+    "code": "97.08.130.004",
+    "villageCode": "004",
+    "districtCode": "97.08.130",
+    "name": "Arina",
+    "alias": "Arina"
+  },
+  {
+    "code": "97.08.130.005",
+    "villageCode": "005",
+    "districtCode": "97.08.130",
+    "name": "Sikibur",
+    "alias": "Sikibur"
+  },
+  {
+    "code": "97.08.130.006",
+    "villageCode": "006",
+    "districtCode": "97.08.130",
+    "name": "Bordamban",
+    "alias": "Bordamban"
+  },
+  {
+    "code": "97.08.130.007",
+    "villageCode": "007",
+    "districtCode": "97.08.130",
+    "name": "Kwime",
+    "alias": "Kwime"
+  },
+  {
+    "code": "97.08.130.008",
+    "villageCode": "008",
+    "districtCode": "97.08.130",
+    "name": "Laydamban",
+    "alias": "Laydamban"
+  },
+  {
+    "code": "97.08.130.009",
+    "villageCode": "009",
+    "districtCode": "97.08.130",
+    "name": "Kolgir",
+    "alias": "Kolgir"
+  },
+  {
+    "code": "97.08.130.010",
+    "villageCode": "010",
+    "districtCode": "97.08.130",
+    "name": "Cangdamban",
+    "alias": "Cangdamban"
+  },
+  {
+    "code": "97.08.130.011",
+    "villageCode": "011",
+    "districtCode": "97.08.130",
+    "name": "Seban",
+    "alias": "Seban"
+  },
+  {
+    "code": "97.08.130.012",
+    "villageCode": "012",
+    "districtCode": "97.08.130",
+    "name": "Bukam",
+    "alias": "Bukam"
+  },
+  {
+    "code": "97.08.130.013",
+    "villageCode": "013",
+    "districtCode": "97.08.130",
+    "name": "Aringgon",
+    "alias": "Aringgon"
+  }
+]

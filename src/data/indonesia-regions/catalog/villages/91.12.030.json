@@ -1,0 +1,58 @@
+[
+  {
+    "code": "91.12.030.001",
+    "villageCode": "001",
+    "districtCode": "91.12.030",
+    "name": "Itkau",
+    "alias": "Itkau"
+  },
+  {
+    "code": "91.12.030.002",
+    "villageCode": "002",
+    "districtCode": "91.12.030",
+    "name": "Tubyam",
+    "alias": "Tubyam"
+  },
+  {
+    "code": "91.12.030.003",
+    "villageCode": "003",
+    "districtCode": "91.12.030",
+    "name": "Sibiogud",
+    "alias": "Sibiogud"
+  },
+  {
+    "code": "91.12.030.004",
+    "villageCode": "004",
+    "districtCode": "91.12.030",
+    "name": "Tombrok",
+    "alias": "Tombrok"
+  },
+  {
+    "code": "91.12.030.005",
+    "villageCode": "005",
+    "districtCode": "91.12.030",
+    "name": "Ngisrow",
+    "alias": "Ngisrow"
+  },
+  {
+    "code": "91.12.030.006",
+    "villageCode": "006",
+    "districtCode": "91.12.030",
+    "name": "Sisrang",
+    "alias": "Sisrang"
+  },
+  {
+    "code": "91.12.030.007",
+    "villageCode": "007",
+    "districtCode": "91.12.030",
+    "name": "Krobut",
+    "alias": "Krobut"
+  },
+  {
+    "code": "91.12.030.008",
+    "villageCode": "008",
+    "districtCode": "91.12.030",
+    "name": "Sakumi",
+    "alias": "Sakumi"
+  }
+]

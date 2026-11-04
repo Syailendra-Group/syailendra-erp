@@ -1,0 +1,275 @@
+[
+  {
+    "code": "11.08.080.001",
+    "villageCode": "001",
+    "districtCode": "11.08.080",
+    "name": "Weu Bada",
+    "alias": "Weu Bada"
+  },
+  {
+    "code": "11.08.080.002",
+    "villageCode": "002",
+    "districtCode": "11.08.080",
+    "name": "Piyeung Lhang",
+    "alias": "Piyeung Lhang"
+  },
+  {
+    "code": "11.08.080.003",
+    "villageCode": "003",
+    "districtCode": "11.08.080",
+    "name": "Piyeung Datu",
+    "alias": "Piyeung Datu"
+  },
+  {
+    "code": "11.08.080.004",
+    "villageCode": "004",
+    "districtCode": "11.08.080",
+    "name": "Piyeung Mane",
+    "alias": "Piyeung Mane"
+  },
+  {
+    "code": "11.08.080.005",
+    "villageCode": "005",
+    "districtCode": "11.08.080",
+    "name": "Kuweu",
+    "alias": "Kuweu"
+  },
+  {
+    "code": "11.08.080.006",
+    "villageCode": "006",
+    "districtCode": "11.08.080",
+    "name": "Bueng Daroh",
+    "alias": "Bueng Daroh"
+  },
+  {
+    "code": "11.08.080.007",
+    "villageCode": "007",
+    "districtCode": "11.08.080",
+    "name": "Cot Lampoh Soh",
+    "alias": "Cot Lampoh Soh"
+  },
+  {
+    "code": "11.08.080.008",
+    "villageCode": "008",
+    "districtCode": "11.08.080",
+    "name": "Mon Ara",
+    "alias": "Mon Ara"
+  },
+  {
+    "code": "11.08.080.009",
+    "villageCode": "009",
+    "districtCode": "11.08.080",
+    "name": "Cot Lhok",
+    "alias": "Cot Lhok"
+  },
+  {
+    "code": "11.08.080.010",
+    "villageCode": "010",
+    "districtCode": "11.08.080",
+    "name": "Bueng Raya",
+    "alias": "Bueng Raya"
+  },
+  {
+    "code": "11.08.080.011",
+    "villageCode": "011",
+    "districtCode": "11.08.080",
+    "name": "Atong",
+    "alias": "Atong"
+  },
+  {
+    "code": "11.08.080.012",
+    "villageCode": "012",
+    "districtCode": "11.08.080",
+    "name": "Teubang Phui Mesjid",
+    "alias": "Teubang Phui Mesjid"
+  },
+  {
+    "code": "11.08.080.013",
+    "villageCode": "013",
+    "districtCode": "11.08.080",
+    "name": "Lamme Garot",
+    "alias": "Lamme Garot"
+  },
+  {
+    "code": "11.08.080.014",
+    "villageCode": "014",
+    "districtCode": "11.08.080",
+    "name": "Reudeup",
+    "alias": "Reudeup"
+  },
+  {
+    "code": "11.08.080.015",
+    "villageCode": "015",
+    "districtCode": "11.08.080",
+    "name": "Bakcirih",
+    "alias": "Bakcirih"
+  },
+  {
+    "code": "11.08.080.016",
+    "villageCode": "016",
+    "districtCode": "11.08.080",
+    "name": "Meunasah Tutong",
+    "alias": "Meunasah Tutong"
+  },
+  {
+    "code": "11.08.080.017",
+    "villageCode": "017",
+    "districtCode": "11.08.080",
+    "name": "Empee Tanong",
+    "alias": "Empee Tanong"
+  },
+  {
+    "code": "11.08.080.018",
+    "villageCode": "018",
+    "districtCode": "11.08.080",
+    "name": "Dayah Daboh",
+    "alias": "Dayah Daboh"
+  },
+  {
+    "code": "11.08.080.019",
+    "villageCode": "019",
+    "districtCode": "11.08.080",
+    "name": "Lampaseh Krueng",
+    "alias": "Lampaseh Krueng"
+  },
+  {
+    "code": "11.08.080.020",
+    "villageCode": "020",
+    "districtCode": "11.08.080",
+    "name": "Lamnga",
+    "alias": "Lamnga"
+  },
+  {
+    "code": "11.08.080.021",
+    "villageCode": "021",
+    "districtCode": "11.08.080",
+    "name": "Lampaseh Lhok",
+    "alias": "Lampaseh Lhok"
+  },
+  {
+    "code": "11.08.080.022",
+    "villageCode": "022",
+    "districtCode": "11.08.080",
+    "name": "Baroh",
+    "alias": "Baroh"
+  },
+  {
+    "code": "11.08.080.023",
+    "villageCode": "023",
+    "districtCode": "11.08.080",
+    "name": "Mata Ie",
+    "alias": "Mata Ie"
+  },
+  {
+    "code": "11.08.080.024",
+    "villageCode": "024",
+    "districtCode": "11.08.080",
+    "name": "Weu Krueng",
+    "alias": "Weu Krueng"
+  },
+  {
+    "code": "11.08.080.025",
+    "villageCode": "025",
+    "districtCode": "11.08.080",
+    "name": "Alue",
+    "alias": "Alue"
+  },
+  {
+    "code": "11.08.080.026",
+    "villageCode": "026",
+    "districtCode": "11.08.080",
+    "name": "Weu Lhok",
+    "alias": "Weu Lhok"
+  },
+  {
+    "code": "11.08.080.027",
+    "villageCode": "027",
+    "districtCode": "11.08.080",
+    "name": "Warabo",
+    "alias": "Warabo"
+  },
+  {
+    "code": "11.08.080.028",
+    "villageCode": "028",
+    "districtCode": "11.08.080",
+    "name": "Teubang Phui Baro",
+    "alias": "Teubang Phui Baro"
+  },
+  {
+    "code": "11.08.080.029",
+    "villageCode": "029",
+    "districtCode": "11.08.080",
+    "name": "Bueng Tujoh",
+    "alias": "Bueng Tujoh"
+  },
+  {
+    "code": "11.08.080.030",
+    "villageCode": "030",
+    "districtCode": "11.08.080",
+    "name": "Bira Lhok",
+    "alias": "Bira Lhok"
+  },
+  {
+    "code": "11.08.080.031",
+    "villageCode": "031",
+    "districtCode": "11.08.080",
+    "name": "Bira Cot",
+    "alias": "Bira Cot"
+  },
+  {
+    "code": "11.08.080.032",
+    "villageCode": "032",
+    "districtCode": "11.08.080",
+    "name": "Peurumping",
+    "alias": "Peurumping"
+  },
+  {
+    "code": "11.08.080.035",
+    "villageCode": "035",
+    "districtCode": "11.08.080",
+    "name": "Bak Dilip",
+    "alias": "Bak Dilip"
+  },
+  {
+    "code": "11.08.080.036",
+    "villageCode": "036",
+    "districtCode": "11.08.080",
+    "name": "Ulee Lhat",
+    "alias": "Ulee Lhat"
+  },
+  {
+    "code": "11.08.080.037",
+    "villageCode": "037",
+    "districtCode": "11.08.080",
+    "name": "Seubam Lhok",
+    "alias": "Seubam Lhok"
+  },
+  {
+    "code": "11.08.080.038",
+    "villageCode": "038",
+    "districtCode": "11.08.080",
+    "name": "Lam Raya",
+    "alias": "Lam Raya"
+  },
+  {
+    "code": "11.08.080.039",
+    "villageCode": "039",
+    "districtCode": "11.08.080",
+    "name": "Cot Seunong",
+    "alias": "Cot Seunong"
+  },
+  {
+    "code": "11.08.080.042",
+    "villageCode": "042",
+    "districtCode": "11.08.080",
+    "name": "Seubam Cot",
+    "alias": "Seubam Cot"
+  },
+  {
+    "code": "11.08.080.043",
+    "villageCode": "043",
+    "districtCode": "11.08.080",
+    "name": "Seumet",
+    "alias": "Seumet"
+  }
+]

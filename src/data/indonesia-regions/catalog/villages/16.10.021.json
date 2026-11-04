@@ -1,0 +1,93 @@
+[
+  {
+    "code": "16.10.021.001",
+    "villageCode": "001",
+    "districtCode": "16.10.021",
+    "name": "Tebedak I",
+    "alias": "Tebedak I"
+  },
+  {
+    "code": "16.10.021.002",
+    "villageCode": "002",
+    "districtCode": "16.10.021",
+    "name": "Lubuk Bandung",
+    "alias": "Lubuk Bandung"
+  },
+  {
+    "code": "16.10.021.003",
+    "villageCode": "003",
+    "districtCode": "16.10.021",
+    "name": "Rengas I",
+    "alias": "Rengas I"
+  },
+  {
+    "code": "16.10.021.004",
+    "villageCode": "004",
+    "districtCode": "16.10.021",
+    "name": "Paya Besar",
+    "alias": "Paya Besar"
+  },
+  {
+    "code": "16.10.021.005",
+    "villageCode": "005",
+    "districtCode": "16.10.021",
+    "name": "Talang Seleman",
+    "alias": "Talang Seleman"
+  },
+  {
+    "code": "16.10.021.006",
+    "villageCode": "006",
+    "districtCode": "16.10.021",
+    "name": "Payaraman Timur",
+    "alias": "Payaraman Timur"
+  },
+  {
+    "code": "16.10.021.007",
+    "villageCode": "007",
+    "districtCode": "16.10.021",
+    "name": "Seri Kembang I",
+    "alias": "Seri Kembang I"
+  },
+  {
+    "code": "16.10.021.008",
+    "villageCode": "008",
+    "districtCode": "16.10.021",
+    "name": "Tanjung Lalang",
+    "alias": "Tanjung Lalang"
+  },
+  {
+    "code": "16.10.021.009",
+    "villageCode": "009",
+    "districtCode": "16.10.021",
+    "name": "Seri Kembang Ii",
+    "alias": "Seri Kembang Ii"
+  },
+  {
+    "code": "16.10.021.010",
+    "villageCode": "010",
+    "districtCode": "16.10.021",
+    "name": "Seri Kembang Iii",
+    "alias": "Seri Kembang Iii"
+  },
+  {
+    "code": "16.10.021.011",
+    "villageCode": "011",
+    "districtCode": "16.10.021",
+    "name": "Tebedak Ii",
+    "alias": "Tebedak Ii"
+  },
+  {
+    "code": "16.10.021.012",
+    "villageCode": "012",
+    "districtCode": "16.10.021",
+    "name": "Rengas Ii",
+    "alias": "Rengas Ii"
+  },
+  {
+    "code": "16.10.021.013",
+    "villageCode": "013",
+    "districtCode": "16.10.021",
+    "name": "Payaraman Barat",
+    "alias": "Payaraman Barat"
+  }
+]

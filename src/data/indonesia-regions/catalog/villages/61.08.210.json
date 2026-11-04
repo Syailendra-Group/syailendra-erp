@@ -1,0 +1,72 @@
+[
+  {
+    "code": "61.08.210.001",
+    "villageCode": "001",
+    "districtCode": "61.08.210",
+    "name": "Setulang",
+    "alias": "Setulang"
+  },
+  {
+    "code": "61.08.210.002",
+    "villageCode": "002",
+    "districtCode": "61.08.210",
+    "name": "Sepandan",
+    "alias": "Sepandan"
+  },
+  {
+    "code": "61.08.210.003",
+    "villageCode": "003",
+    "districtCode": "61.08.210",
+    "name": "Melemba",
+    "alias": "Melemba"
+  },
+  {
+    "code": "61.08.210.004",
+    "villageCode": "004",
+    "districtCode": "61.08.210",
+    "name": "Sungai Ajung",
+    "alias": "Sungai Ajung"
+  },
+  {
+    "code": "61.08.210.005",
+    "villageCode": "005",
+    "districtCode": "61.08.210",
+    "name": "Sungai Abau",
+    "alias": "Sungai Abau"
+  },
+  {
+    "code": "61.08.210.006",
+    "villageCode": "006",
+    "districtCode": "61.08.210",
+    "name": "Labian",
+    "alias": "Labian"
+  },
+  {
+    "code": "61.08.210.007",
+    "villageCode": "007",
+    "districtCode": "61.08.210",
+    "name": "Mensiau",
+    "alias": "Mensiau"
+  },
+  {
+    "code": "61.08.210.008",
+    "villageCode": "008",
+    "districtCode": "61.08.210",
+    "name": "Sungai Senunuk",
+    "alias": "Sungai Senunuk"
+  },
+  {
+    "code": "61.08.210.009",
+    "villageCode": "009",
+    "districtCode": "61.08.210",
+    "name": "Lanjak Deras",
+    "alias": "Lanjak Deras"
+  },
+  {
+    "code": "61.08.210.010",
+    "villageCode": "010",
+    "districtCode": "61.08.210",
+    "name": "Labian Iraang",
+    "alias": "Labian Iraang"
+  }
+]

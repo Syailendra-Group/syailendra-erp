@@ -1,0 +1,37 @@
+[
+  {
+    "code": "18.72.022.001",
+    "villageCode": "001",
+    "districtCode": "18.72.022",
+    "name": "Metro",
+    "alias": "Metro"
+  },
+  {
+    "code": "18.72.022.002",
+    "villageCode": "002",
+    "districtCode": "18.72.022",
+    "name": "Imopuro",
+    "alias": "Imopuro"
+  },
+  {
+    "code": "18.72.022.003",
+    "villageCode": "003",
+    "districtCode": "18.72.022",
+    "name": "Hadimulyo Barat",
+    "alias": "Hadimulyo Barat"
+  },
+  {
+    "code": "18.72.022.004",
+    "villageCode": "004",
+    "districtCode": "18.72.022",
+    "name": "Hadimulyo Timur",
+    "alias": "Hadimulyo Timur"
+  },
+  {
+    "code": "18.72.022.005",
+    "villageCode": "005",
+    "districtCode": "18.72.022",
+    "name": "Yosomulyo",
+    "alias": "Yosomulyo"
+  }
+]

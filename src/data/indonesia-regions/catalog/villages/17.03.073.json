@@ -1,0 +1,72 @@
+[
+  {
+    "code": "17.03.073.001",
+    "villageCode": "001",
+    "districtCode": "17.03.073",
+    "name": "Tanjung Aur",
+    "alias": "Tanjung Aur"
+  },
+  {
+    "code": "17.03.073.002",
+    "villageCode": "002",
+    "districtCode": "17.03.073",
+    "name": "Mesigit",
+    "alias": "Mesigit"
+  },
+  {
+    "code": "17.03.073.003",
+    "villageCode": "003",
+    "districtCode": "17.03.073",
+    "name": "Retes",
+    "alias": "Retes"
+  },
+  {
+    "code": "17.03.073.004",
+    "villageCode": "004",
+    "districtCode": "17.03.073",
+    "name": "Lubuk Mumpo",
+    "alias": "Lubuk Mumpo"
+  },
+  {
+    "code": "17.03.073.005",
+    "villageCode": "005",
+    "districtCode": "17.03.073",
+    "name": "Talang Ulu",
+    "alias": "Talang Ulu"
+  },
+  {
+    "code": "17.03.073.006",
+    "villageCode": "006",
+    "districtCode": "17.03.073",
+    "name": "Kembang Manis",
+    "alias": "Kembang Manis"
+  },
+  {
+    "code": "17.03.073.007",
+    "villageCode": "007",
+    "districtCode": "17.03.073",
+    "name": "Sukarami",
+    "alias": "Sukarami"
+  },
+  {
+    "code": "17.03.073.008",
+    "villageCode": "008",
+    "districtCode": "17.03.073",
+    "name": "Teluk Ajang",
+    "alias": "Teluk Ajang"
+  },
+  {
+    "code": "17.03.073.009",
+    "villageCode": "009",
+    "districtCode": "17.03.073",
+    "name": "Dusun Balam",
+    "alias": "Dusun Balam"
+  },
+  {
+    "code": "17.03.073.010",
+    "villageCode": "010",
+    "districtCode": "17.03.073",
+    "name": "Padang Kala",
+    "alias": "Padang Kala"
+  }
+]

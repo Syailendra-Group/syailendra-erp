@@ -1,0 +1,37 @@
+[
+  {
+    "code": "64.71.011.001",
+    "villageCode": "001",
+    "districtCode": "64.71.011",
+    "name": "Prapatan",
+    "alias": "Prapatan"
+  },
+  {
+    "code": "64.71.011.002",
+    "villageCode": "002",
+    "districtCode": "64.71.011",
+    "name": "Telaga Sari",
+    "alias": "Telaga Sari"
+  },
+  {
+    "code": "64.71.011.003",
+    "villageCode": "003",
+    "districtCode": "64.71.011",
+    "name": "Klandasan Ulu",
+    "alias": "Klandasan Ulu"
+  },
+  {
+    "code": "64.71.011.004",
+    "villageCode": "004",
+    "districtCode": "64.71.011",
+    "name": "Klandasan Ilir",
+    "alias": "Klandasan Ilir"
+  },
+  {
+    "code": "64.71.011.005",
+    "villageCode": "005",
+    "districtCode": "64.71.011",
+    "name": "Damai",
+    "alias": "Damai"
+  }
+]

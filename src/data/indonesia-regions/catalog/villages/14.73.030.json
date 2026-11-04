@@ -1,0 +1,37 @@
+[
+  {
+    "code": "14.73.030.001",
+    "villageCode": "001",
+    "districtCode": "14.73.030",
+    "name": "Tanjung Palas",
+    "alias": "Tanjung Palas"
+  },
+  {
+    "code": "14.73.030.002",
+    "villageCode": "002",
+    "districtCode": "14.73.030",
+    "name": "Jaya Mukti",
+    "alias": "Jaya Mukti"
+  },
+  {
+    "code": "14.73.030.003",
+    "villageCode": "003",
+    "districtCode": "14.73.030",
+    "name": "Teluk Binjai",
+    "alias": "Teluk Binjai"
+  },
+  {
+    "code": "14.73.030.006",
+    "villageCode": "006",
+    "districtCode": "14.73.030",
+    "name": "Buluh Kasap",
+    "alias": "Buluh Kasap"
+  },
+  {
+    "code": "14.73.030.007",
+    "villageCode": "007",
+    "districtCode": "14.73.030",
+    "name": "Bukit Batrem",
+    "alias": "Bukit Batrem"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "code": "62.03.021.001",
+    "villageCode": "001",
+    "districtCode": "62.03.021",
+    "name": "Bandar Raya",
+    "alias": "Bandar Raya"
+  },
+  {
+    "code": "62.03.021.002",
+    "villageCode": "002",
+    "districtCode": "62.03.021",
+    "name": "Tamban Baru Mekar",
+    "alias": "Tamban Baru Mekar"
+  },
+  {
+    "code": "62.03.021.003",
+    "villageCode": "003",
+    "districtCode": "62.03.021",
+    "name": "Tamban Baru Timur",
+    "alias": "Tamban Baru Timur"
+  },
+  {
+    "code": "62.03.021.004",
+    "villageCode": "004",
+    "districtCode": "62.03.021",
+    "name": "Tamban Baru Tengah",
+    "alias": "Tamban Baru Tengah"
+  },
+  {
+    "code": "62.03.021.005",
+    "villageCode": "005",
+    "districtCode": "62.03.021",
+    "name": "Sidorejo",
+    "alias": "Sidorejo"
+  },
+  {
+    "code": "62.03.021.006",
+    "villageCode": "006",
+    "districtCode": "62.03.021",
+    "name": "Warna Sari",
+    "alias": "Warna Sari"
+  },
+  {
+    "code": "62.03.021.007",
+    "villageCode": "007",
+    "districtCode": "62.03.021",
+    "name": "Sido Mulyo",
+    "alias": "Sido Mulyo"
+  },
+  {
+    "code": "62.03.021.008",
+    "villageCode": "008",
+    "districtCode": "62.03.021",
+    "name": "Bandar Mekar",
+    "alias": "Bandar Mekar"
+  },
+  {
+    "code": "62.03.021.009",
+    "villageCode": "009",
+    "districtCode": "62.03.021",
+    "name": "Tamban Makmur",
+    "alias": "Tamban Makmur"
+  },
+  {
+    "code": "62.03.021.010",
+    "villageCode": "010",
+    "districtCode": "62.03.021",
+    "name": "Tamban Jaya",
+    "alias": "Tamban Jaya"
+  }
+]

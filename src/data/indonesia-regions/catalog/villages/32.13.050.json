@@ -1,0 +1,58 @@
+[
+  {
+    "code": "32.13.050.001",
+    "villageCode": "001",
+    "districtCode": "32.13.050",
+    "name": "Gunungtua",
+    "alias": "Gunungtua"
+  },
+  {
+    "code": "32.13.050.002",
+    "villageCode": "002",
+    "districtCode": "32.13.050",
+    "name": "Cijambe",
+    "alias": "Cijambe"
+  },
+  {
+    "code": "32.13.050.003",
+    "villageCode": "003",
+    "districtCode": "32.13.050",
+    "name": "Cirangkong",
+    "alias": "Cirangkong"
+  },
+  {
+    "code": "32.13.050.004",
+    "villageCode": "004",
+    "districtCode": "32.13.050",
+    "name": "Cimenteng",
+    "alias": "Cimenteng"
+  },
+  {
+    "code": "32.13.050.005",
+    "villageCode": "005",
+    "districtCode": "32.13.050",
+    "name": "Cikadu",
+    "alias": "Cikadu"
+  },
+  {
+    "code": "32.13.050.006",
+    "villageCode": "006",
+    "districtCode": "32.13.050",
+    "name": "Sukahurip",
+    "alias": "Sukahurip"
+  },
+  {
+    "code": "32.13.050.007",
+    "villageCode": "007",
+    "districtCode": "32.13.050",
+    "name": "Bantarsari",
+    "alias": "Bantarsari"
+  },
+  {
+    "code": "32.13.050.008",
+    "villageCode": "008",
+    "districtCode": "32.13.050",
+    "name": "Tanjungwangi",
+    "alias": "Tanjungwangi"
+  }
+]

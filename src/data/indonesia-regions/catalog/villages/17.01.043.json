@@ -1,0 +1,72 @@
+[
+  {
+    "code": "17.01.043.001",
+    "villageCode": "001",
+    "districtCode": "17.01.043",
+    "name": "Tumbuk Tebing",
+    "alias": "Tumbuk Tebing"
+  },
+  {
+    "code": "17.01.043.002",
+    "villageCode": "002",
+    "districtCode": "17.01.043",
+    "name": "Padang Burnai",
+    "alias": "Padang Burnai"
+  },
+  {
+    "code": "17.01.043.003",
+    "villageCode": "003",
+    "districtCode": "17.01.043",
+    "name": "Gunung Kayo",
+    "alias": "Gunung Kayo"
+  },
+  {
+    "code": "17.01.043.004",
+    "villageCode": "004",
+    "districtCode": "17.01.043",
+    "name": "Gindo Suli",
+    "alias": "Gindo Suli"
+  },
+  {
+    "code": "17.01.043.005",
+    "villageCode": "005",
+    "districtCode": "17.01.043",
+    "name": "Talang Indah",
+    "alias": "Talang Indah"
+  },
+  {
+    "code": "17.01.043.006",
+    "villageCode": "006",
+    "districtCode": "17.01.043",
+    "name": "Tanjung Tebat",
+    "alias": "Tanjung Tebat"
+  },
+  {
+    "code": "17.01.043.007",
+    "villageCode": "007",
+    "districtCode": "17.01.043",
+    "name": "Padang Jawi",
+    "alias": "Padang Jawi"
+  },
+  {
+    "code": "17.01.043.008",
+    "villageCode": "008",
+    "districtCode": "17.01.043",
+    "name": "Tanjung Aur",
+    "alias": "Tanjung Aur"
+  },
+  {
+    "code": "17.01.043.009",
+    "villageCode": "009",
+    "districtCode": "17.01.043",
+    "name": "Padang Nibung",
+    "alias": "Padang Nibung"
+  },
+  {
+    "code": "17.01.043.010",
+    "villageCode": "010",
+    "districtCode": "17.01.043",
+    "name": "Kuripan",
+    "alias": "Kuripan"
+  }
+]

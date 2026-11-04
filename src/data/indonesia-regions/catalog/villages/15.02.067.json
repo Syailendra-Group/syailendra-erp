@@ -1,0 +1,100 @@
+[
+  {
+    "code": "15.02.067.001",
+    "villageCode": "001",
+    "districtCode": "15.02.067",
+    "name": "Air Liki",
+    "alias": "Air Liki"
+  },
+  {
+    "code": "15.02.067.002",
+    "villageCode": "002",
+    "districtCode": "15.02.067",
+    "name": "Ngaol",
+    "alias": "Ngaol"
+  },
+  {
+    "code": "15.02.067.003",
+    "villageCode": "003",
+    "districtCode": "15.02.067",
+    "name": "Telentam",
+    "alias": "Telentam"
+  },
+  {
+    "code": "15.02.067.004",
+    "villageCode": "004",
+    "districtCode": "15.02.067",
+    "name": "Sungai Tabir",
+    "alias": "Sungai Tabir"
+  },
+  {
+    "code": "15.02.067.005",
+    "villageCode": "005",
+    "districtCode": "15.02.067",
+    "name": "Batang Kibul",
+    "alias": "Batang Kibul"
+  },
+  {
+    "code": "15.02.067.006",
+    "villageCode": "006",
+    "districtCode": "15.02.067",
+    "name": "Muara Kibul",
+    "alias": "Muara Kibul"
+  },
+  {
+    "code": "15.02.067.007",
+    "villageCode": "007",
+    "districtCode": "15.02.067",
+    "name": "Pulau Terbakar",
+    "alias": "Pulau Terbakar"
+  },
+  {
+    "code": "15.02.067.008",
+    "villageCode": "008",
+    "districtCode": "15.02.067",
+    "name": "Tanjung Putus",
+    "alias": "Tanjung Putus"
+  },
+  {
+    "code": "15.02.067.009",
+    "villageCode": "009",
+    "districtCode": "15.02.067",
+    "name": "Pulau Lebar",
+    "alias": "Pulau Lebar"
+  },
+  {
+    "code": "15.02.067.010",
+    "villageCode": "010",
+    "districtCode": "15.02.067",
+    "name": "Air Liki Baru",
+    "alias": "Air Liki Baru"
+  },
+  {
+    "code": "15.02.067.011",
+    "villageCode": "011",
+    "districtCode": "15.02.067",
+    "name": "Ngaol Ilir",
+    "alias": "Ngaol Ilir"
+  },
+  {
+    "code": "15.02.067.012",
+    "villageCode": "012",
+    "districtCode": "15.02.067",
+    "name": "Baru Kibul",
+    "alias": "Baru Kibul"
+  },
+  {
+    "code": "15.02.067.013",
+    "villageCode": "013",
+    "districtCode": "15.02.067",
+    "name": "Tanjung Beringin",
+    "alias": "Tanjung Beringin"
+  },
+  {
+    "code": "15.02.067.014",
+    "villageCode": "014",
+    "districtCode": "15.02.067",
+    "name": "Muara Langeh",
+    "alias": "Muara Langeh"
+  }
+]

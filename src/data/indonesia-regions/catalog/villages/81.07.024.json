@@ -1,0 +1,72 @@
+[
+  {
+    "code": "81.07.024.001",
+    "villageCode": "001",
+    "districtCode": "81.07.024",
+    "name": "Kiandarat",
+    "alias": "Kiandarat"
+  },
+  {
+    "code": "81.07.024.002",
+    "villageCode": "002",
+    "districtCode": "81.07.024",
+    "name": "Artafela",
+    "alias": "Artafela"
+  },
+  {
+    "code": "81.07.024.003",
+    "villageCode": "003",
+    "districtCode": "81.07.024",
+    "name": "Rumoga",
+    "alias": "Rumoga"
+  },
+  {
+    "code": "81.07.024.004",
+    "villageCode": "004",
+    "districtCode": "81.07.024",
+    "name": "Angar",
+    "alias": "Angar"
+  },
+  {
+    "code": "81.07.024.005",
+    "villageCode": "005",
+    "districtCode": "81.07.024",
+    "name": "Watu-Watu",
+    "alias": "Watu-Watu"
+  },
+  {
+    "code": "81.07.024.006",
+    "villageCode": "006",
+    "districtCode": "81.07.024",
+    "name": "Kelaba",
+    "alias": "Kelaba"
+  },
+  {
+    "code": "81.07.024.007",
+    "villageCode": "007",
+    "districtCode": "81.07.024",
+    "name": "Kilga Kilwouw",
+    "alias": "Kilga Kilwouw"
+  },
+  {
+    "code": "81.07.024.008",
+    "villageCode": "008",
+    "districtCode": "81.07.024",
+    "name": "Kilga Watubau",
+    "alias": "Kilga Watubau"
+  },
+  {
+    "code": "81.07.024.009",
+    "villageCode": "009",
+    "districtCode": "81.07.024",
+    "name": "Rumfakar",
+    "alias": "Rumfakar"
+  },
+  {
+    "code": "81.07.024.010",
+    "villageCode": "010",
+    "districtCode": "81.07.024",
+    "name": "Kileser",
+    "alias": "Kileser"
+  }
+]

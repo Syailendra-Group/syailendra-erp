@@ -1,0 +1,51 @@
+[
+  {
+    "code": "35.07.180.001",
+    "villageCode": "001",
+    "districtCode": "35.07.180",
+    "name": "Slorok",
+    "alias": "Slorok"
+  },
+  {
+    "code": "35.07.180.002",
+    "villageCode": "002",
+    "districtCode": "35.07.180",
+    "name": "Jatikerto",
+    "alias": "Jatikerto"
+  },
+  {
+    "code": "35.07.180.003",
+    "villageCode": "003",
+    "districtCode": "35.07.180",
+    "name": "Ngadirejo",
+    "alias": "Ngadirejo"
+  },
+  {
+    "code": "35.07.180.004",
+    "villageCode": "004",
+    "districtCode": "35.07.180",
+    "name": "Karangrejo",
+    "alias": "Karangrejo"
+  },
+  {
+    "code": "35.07.180.005",
+    "villageCode": "005",
+    "districtCode": "35.07.180",
+    "name": "Kromengan",
+    "alias": "Kromengan"
+  },
+  {
+    "code": "35.07.180.006",
+    "villageCode": "006",
+    "districtCode": "35.07.180",
+    "name": "Peniwen",
+    "alias": "Peniwen"
+  },
+  {
+    "code": "35.07.180.007",
+    "villageCode": "007",
+    "districtCode": "35.07.180",
+    "name": "Jambuwer",
+    "alias": "Jambuwer"
+  }
+]

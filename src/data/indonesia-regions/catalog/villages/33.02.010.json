@@ -1,0 +1,72 @@
+[
+  {
+    "code": "33.02.010.001",
+    "villageCode": "001",
+    "districtCode": "33.02.010",
+    "name": "Cingebul",
+    "alias": "Cingebul"
+  },
+  {
+    "code": "33.02.010.002",
+    "villageCode": "002",
+    "districtCode": "33.02.010",
+    "name": "Kedunggede",
+    "alias": "Kedunggede"
+  },
+  {
+    "code": "33.02.010.003",
+    "villageCode": "003",
+    "districtCode": "33.02.010",
+    "name": "Cidora",
+    "alias": "Cidora"
+  },
+  {
+    "code": "33.02.010.004",
+    "villageCode": "004",
+    "districtCode": "33.02.010",
+    "name": "Besuki",
+    "alias": "Besuki"
+  },
+  {
+    "code": "33.02.010.005",
+    "villageCode": "005",
+    "districtCode": "33.02.010",
+    "name": "Parungkamal",
+    "alias": "Parungkamal"
+  },
+  {
+    "code": "33.02.010.006",
+    "villageCode": "006",
+    "districtCode": "33.02.010",
+    "name": "Cirahab",
+    "alias": "Cirahab"
+  },
+  {
+    "code": "33.02.010.007",
+    "villageCode": "007",
+    "districtCode": "33.02.010",
+    "name": "Canduk",
+    "alias": "Canduk"
+  },
+  {
+    "code": "33.02.010.008",
+    "villageCode": "008",
+    "districtCode": "33.02.010",
+    "name": "Karanggayam",
+    "alias": "Karanggayam"
+  },
+  {
+    "code": "33.02.010.009",
+    "villageCode": "009",
+    "districtCode": "33.02.010",
+    "name": "Lumbir",
+    "alias": "Lumbir"
+  },
+  {
+    "code": "33.02.010.010",
+    "villageCode": "010",
+    "districtCode": "33.02.010",
+    "name": "Dermaji",
+    "alias": "Dermaji"
+  }
+]

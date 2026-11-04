@@ -1,0 +1,37 @@
+[
+  {
+    "code": "91.02.040.001",
+    "villageCode": "001",
+    "districtCode": "91.02.040",
+    "name": "Siawatan",
+    "alias": "Siawatan"
+  },
+  {
+    "code": "91.02.040.002",
+    "villageCode": "002",
+    "districtCode": "91.02.040",
+    "name": "Bamana",
+    "alias": "Bamana"
+  },
+  {
+    "code": "91.02.040.003",
+    "villageCode": "003",
+    "districtCode": "91.02.040",
+    "name": "Boiya",
+    "alias": "Boiya"
+  },
+  {
+    "code": "91.02.040.004",
+    "villageCode": "004",
+    "districtCode": "91.02.040",
+    "name": "Nariki",
+    "alias": "Nariki"
+  },
+  {
+    "code": "91.02.040.005",
+    "villageCode": "005",
+    "districtCode": "91.02.040",
+    "name": "Rurumo",
+    "alias": "Rurumo"
+  }
+]

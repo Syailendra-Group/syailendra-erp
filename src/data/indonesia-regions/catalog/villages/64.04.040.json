@@ -1,0 +1,30 @@
+[
+  {
+    "code": "64.04.040.012",
+    "villageCode": "012",
+    "districtCode": "64.04.040",
+    "name": "Sangatta Utara",
+    "alias": "Sangatta Utara"
+  },
+  {
+    "code": "64.04.040.016",
+    "villageCode": "016",
+    "districtCode": "64.04.040",
+    "name": "Teluk Lingga",
+    "alias": "Teluk Lingga"
+  },
+  {
+    "code": "64.04.040.017",
+    "villageCode": "017",
+    "districtCode": "64.04.040",
+    "name": "Singa Gembara",
+    "alias": "Singa Gembara"
+  },
+  {
+    "code": "64.04.040.018",
+    "villageCode": "018",
+    "districtCode": "64.04.040",
+    "name": "Swarga Bara",
+    "alias": "Swarga Bara"
+  }
+]

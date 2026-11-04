@@ -1,0 +1,107 @@
+[
+  {
+    "code": "63.09.060.002",
+    "villageCode": "002",
+    "districtCode": "63.09.060",
+    "name": "Banyu Tajun",
+    "alias": "Banyu Tajun"
+  },
+  {
+    "code": "63.09.060.003",
+    "villageCode": "003",
+    "districtCode": "63.09.060",
+    "name": "Sungai Pimping",
+    "alias": "Sungai Pimping"
+  },
+  {
+    "code": "63.09.060.004",
+    "villageCode": "004",
+    "districtCode": "63.09.060",
+    "name": "Pamarangan Kiwa",
+    "alias": "Pamarangan Kiwa"
+  },
+  {
+    "code": "63.09.060.006",
+    "villageCode": "006",
+    "districtCode": "63.09.060",
+    "name": "Puain Kiwa",
+    "alias": "Puain Kiwa"
+  },
+  {
+    "code": "63.09.060.007",
+    "villageCode": "007",
+    "districtCode": "63.09.060",
+    "name": "Jangkung",
+    "alias": "Jangkung"
+  },
+  {
+    "code": "63.09.060.008",
+    "villageCode": "008",
+    "districtCode": "63.09.060",
+    "name": "Tanjung",
+    "alias": "Tanjung"
+  },
+  {
+    "code": "63.09.060.009",
+    "villageCode": "009",
+    "districtCode": "63.09.060",
+    "name": "Agung",
+    "alias": "Agung"
+  },
+  {
+    "code": "63.09.060.011",
+    "villageCode": "011",
+    "districtCode": "63.09.060",
+    "name": "Kambitin",
+    "alias": "Kambitin"
+  },
+  {
+    "code": "63.09.060.012",
+    "villageCode": "012",
+    "districtCode": "63.09.060",
+    "name": "Hikun",
+    "alias": "Hikun"
+  },
+  {
+    "code": "63.09.060.014",
+    "villageCode": "014",
+    "districtCode": "63.09.060",
+    "name": "Kambitin Raya",
+    "alias": "Kambitin Raya"
+  },
+  {
+    "code": "63.09.060.015",
+    "villageCode": "015",
+    "districtCode": "63.09.060",
+    "name": "Wayau",
+    "alias": "Wayau"
+  },
+  {
+    "code": "63.09.060.017",
+    "villageCode": "017",
+    "districtCode": "63.09.060",
+    "name": "Juai",
+    "alias": "Juai"
+  },
+  {
+    "code": "63.09.060.019",
+    "villageCode": "019",
+    "districtCode": "63.09.060",
+    "name": "Garunggung",
+    "alias": "Garunggung"
+  },
+  {
+    "code": "63.09.060.020",
+    "villageCode": "020",
+    "districtCode": "63.09.060",
+    "name": "Kitang",
+    "alias": "Kitang"
+  },
+  {
+    "code": "63.09.060.021",
+    "villageCode": "021",
+    "districtCode": "63.09.060",
+    "name": "Mahe Seberang",
+    "alias": "Mahe Seberang"
+  }
+]

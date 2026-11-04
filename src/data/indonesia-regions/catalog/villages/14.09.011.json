@@ -1,0 +1,79 @@
+[
+  {
+    "code": "14.09.011.002",
+    "villageCode": "002",
+    "districtCode": "14.09.011",
+    "name": "Pujud",
+    "alias": "Pujud"
+  },
+  {
+    "code": "14.09.011.003",
+    "villageCode": "003",
+    "districtCode": "14.09.011",
+    "name": "Teluk Nayang",
+    "alias": "Teluk Nayang"
+  },
+  {
+    "code": "14.09.011.004",
+    "villageCode": "004",
+    "districtCode": "14.09.011",
+    "name": "Air Hitam",
+    "alias": "Air Hitam"
+  },
+  {
+    "code": "14.09.011.005",
+    "villageCode": "005",
+    "districtCode": "14.09.011",
+    "name": "Siarang Arang",
+    "alias": "Siarang Arang"
+  },
+  {
+    "code": "14.09.011.020",
+    "villageCode": "020",
+    "districtCode": "14.09.011",
+    "name": "Kasang Bangsawan",
+    "alias": "Kasang Bangsawan"
+  },
+  {
+    "code": "14.09.011.021",
+    "villageCode": "021",
+    "districtCode": "14.09.011",
+    "name": "Sungai Pinang",
+    "alias": "Sungai Pinang"
+  },
+  {
+    "code": "14.09.011.024",
+    "villageCode": "024",
+    "districtCode": "14.09.011",
+    "name": "Suka Jadi",
+    "alias": "Suka Jadi"
+  },
+  {
+    "code": "14.09.011.034",
+    "villageCode": "034",
+    "districtCode": "14.09.011",
+    "name": "Perkebunan Siarangarang",
+    "alias": "Perkebunan Siarangarang"
+  },
+  {
+    "code": "14.09.011.035",
+    "villageCode": "035",
+    "districtCode": "14.09.011",
+    "name": "Babussalam Rokan",
+    "alias": "Babussalam Rokan"
+  },
+  {
+    "code": "14.09.011.036",
+    "villageCode": "036",
+    "districtCode": "14.09.011",
+    "name": "Pujud Selatan",
+    "alias": "Pujud Selatan"
+  },
+  {
+    "code": "14.09.011.037",
+    "villageCode": "037",
+    "districtCode": "14.09.011",
+    "name": "Pujud Utara",
+    "alias": "Pujud Utara"
+  }
+]

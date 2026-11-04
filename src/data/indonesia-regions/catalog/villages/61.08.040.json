@@ -1,0 +1,107 @@
+[
+  {
+    "code": "61.08.040.001",
+    "villageCode": "001",
+    "districtCode": "61.08.040",
+    "name": "Nanga Dua",
+    "alias": "Nanga Dua"
+  },
+  {
+    "code": "61.08.040.002",
+    "villageCode": "002",
+    "districtCode": "61.08.040",
+    "name": "Selaup",
+    "alias": "Selaup"
+  },
+  {
+    "code": "61.08.040.003",
+    "villageCode": "003",
+    "districtCode": "61.08.040",
+    "name": "Nanga Semangut",
+    "alias": "Nanga Semangut"
+  },
+  {
+    "code": "61.08.040.004",
+    "villageCode": "004",
+    "districtCode": "61.08.040",
+    "name": "Temuyuk",
+    "alias": "Temuyuk"
+  },
+  {
+    "code": "61.08.040.005",
+    "villageCode": "005",
+    "districtCode": "61.08.040",
+    "name": "Nanga Suruk",
+    "alias": "Nanga Suruk"
+  },
+  {
+    "code": "61.08.040.006",
+    "villageCode": "006",
+    "districtCode": "61.08.040",
+    "name": "Riam Piyang",
+    "alias": "Riam Piyang"
+  },
+  {
+    "code": "61.08.040.007",
+    "villageCode": "007",
+    "districtCode": "61.08.040",
+    "name": "Nanga Payang",
+    "alias": "Nanga Payang"
+  },
+  {
+    "code": "61.08.040.008",
+    "villageCode": "008",
+    "districtCode": "61.08.040",
+    "name": "Batu Tiga",
+    "alias": "Batu Tiga"
+  },
+  {
+    "code": "61.08.040.009",
+    "villageCode": "009",
+    "districtCode": "61.08.040",
+    "name": "Semangut Utara",
+    "alias": "Semangut Utara"
+  },
+  {
+    "code": "61.08.040.010",
+    "villageCode": "010",
+    "districtCode": "61.08.040",
+    "name": "Segitak",
+    "alias": "Segitak"
+  },
+  {
+    "code": "61.08.040.011",
+    "villageCode": "011",
+    "districtCode": "61.08.040",
+    "name": "Nanga Kelibang",
+    "alias": "Nanga Kelibang"
+  },
+  {
+    "code": "61.08.040.012",
+    "villageCode": "012",
+    "districtCode": "61.08.040",
+    "name": "Sungai Besar",
+    "alias": "Sungai Besar"
+  },
+  {
+    "code": "61.08.040.013",
+    "villageCode": "013",
+    "districtCode": "61.08.040",
+    "name": "Bakung Permai",
+    "alias": "Bakung Permai"
+  },
+  {
+    "code": "61.08.040.014",
+    "villageCode": "014",
+    "districtCode": "61.08.040",
+    "name": "Beringin",
+    "alias": "Beringin"
+  },
+  {
+    "code": "61.08.040.015",
+    "villageCode": "015",
+    "districtCode": "61.08.040",
+    "name": "Pantas Bersatu",
+    "alias": "Pantas Bersatu"
+  }
+]

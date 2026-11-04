@@ -1,0 +1,114 @@
+[
+  {
+    "code": "14.05.010",
+    "districtCode": "010",
+    "regencyCode": "14.05",
+    "provinceCode": "14",
+    "name": "Kecamatan Minas",
+    "alias": "Minas"
+  },
+  {
+    "code": "14.05.011",
+    "districtCode": "011",
+    "regencyCode": "14.05",
+    "provinceCode": "14",
+    "name": "Kecamatan Sungai Mandau",
+    "alias": "Sungai Mandau"
+  },
+  {
+    "code": "14.05.012",
+    "districtCode": "012",
+    "regencyCode": "14.05",
+    "provinceCode": "14",
+    "name": "Kecamatan Kandis",
+    "alias": "Kandis"
+  },
+  {
+    "code": "14.05.020",
+    "districtCode": "020",
+    "regencyCode": "14.05",
+    "provinceCode": "14",
+    "name": "Kecamatan Siak",
+    "alias": "Siak"
+  },
+  {
+    "code": "14.05.021",
+    "districtCode": "021",
+    "regencyCode": "14.05",
+    "provinceCode": "14",
+    "name": "Kecamatan Kerinci Kanan",
+    "alias": "Kerinci Kanan"
+  },
+  {
+    "code": "14.05.022",
+    "districtCode": "022",
+    "regencyCode": "14.05",
+    "provinceCode": "14",
+    "name": "Kecamatan Tualang",
+    "alias": "Tualang"
+  },
+  {
+    "code": "14.05.023",
+    "districtCode": "023",
+    "regencyCode": "14.05",
+    "provinceCode": "14",
+    "name": "Kecamatan Dayun",
+    "alias": "Dayun"
+  },
+  {
+    "code": "14.05.024",
+    "districtCode": "024",
+    "regencyCode": "14.05",
+    "provinceCode": "14",
+    "name": "Kecamatan Lubuk Dalam",
+    "alias": "Lubuk Dalam"
+  },
+  {
+    "code": "14.05.025",
+    "districtCode": "025",
+    "regencyCode": "14.05",
+    "provinceCode": "14",
+    "name": "Kecamatan Koto Gasib",
+    "alias": "Koto Gasib"
+  },
+  {
+    "code": "14.05.026",
+    "districtCode": "026",
+    "regencyCode": "14.05",
+    "provinceCode": "14",
+    "name": "Kecamatan Mempura",
+    "alias": "Mempura"
+  },
+  {
+    "code": "14.05.030",
+    "districtCode": "030",
+    "regencyCode": "14.05",
+    "provinceCode": "14",
+    "name": "Kecamatan Sungai Apit",
+    "alias": "Sungai Apit"
+  },
+  {
+    "code": "14.05.031",
+    "districtCode": "031",
+    "regencyCode": "14.05",
+    "provinceCode": "14",
+    "name": "Kecamatan Bunga Raya",
+    "alias": "Bunga Raya"
+  },
+  {
+    "code": "14.05.032",
+    "districtCode": "032",
+    "regencyCode": "14.05",
+    "provinceCode": "14",
+    "name": "Kecamatan Sabak Auh",
+    "alias": "Sabak Auh"
+  },
+  {
+    "code": "14.05.033",
+    "districtCode": "033",
+    "regencyCode": "14.05",
+    "provinceCode": "14",
+    "name": "Kecamatan Pusako",
+    "alias": "Pusako"
+  }
+]

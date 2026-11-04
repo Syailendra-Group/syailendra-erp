@@ -1,0 +1,44 @@
+[
+  {
+    "code": "64.04.042.001",
+    "villageCode": "001",
+    "districtCode": "64.04.042",
+    "name": "Teluk Pandan",
+    "alias": "Teluk Pandan"
+  },
+  {
+    "code": "64.04.042.002",
+    "villageCode": "002",
+    "districtCode": "64.04.042",
+    "name": "Suka Damai",
+    "alias": "Suka Damai"
+  },
+  {
+    "code": "64.04.042.003",
+    "villageCode": "003",
+    "districtCode": "64.04.042",
+    "name": "Suka Rahmat",
+    "alias": "Suka Rahmat"
+  },
+  {
+    "code": "64.04.042.004",
+    "villageCode": "004",
+    "districtCode": "64.04.042",
+    "name": "Danau Redan",
+    "alias": "Danau Redan"
+  },
+  {
+    "code": "64.04.042.005",
+    "villageCode": "005",
+    "districtCode": "64.04.042",
+    "name": "Martadinata",
+    "alias": "Martadinata"
+  },
+  {
+    "code": "64.04.042.006",
+    "villageCode": "006",
+    "districtCode": "64.04.042",
+    "name": "Kandolo",
+    "alias": "Kandolo"
+  }
+]

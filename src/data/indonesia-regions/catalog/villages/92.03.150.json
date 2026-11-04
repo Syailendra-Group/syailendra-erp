@@ -1,0 +1,37 @@
+[
+  {
+    "code": "92.03.150.001",
+    "villageCode": "001",
+    "districtCode": "92.03.150",
+    "name": "Kofalit",
+    "alias": "Kofalit"
+  },
+  {
+    "code": "92.03.150.002",
+    "villageCode": "002",
+    "districtCode": "92.03.150",
+    "name": "Wenslolo",
+    "alias": "Wenslolo"
+  },
+  {
+    "code": "92.03.150.003",
+    "villageCode": "003",
+    "districtCode": "92.03.150",
+    "name": "Klamit",
+    "alias": "Klamit"
+  },
+  {
+    "code": "92.03.150.004",
+    "villageCode": "004",
+    "districtCode": "92.03.150",
+    "name": "Alma",
+    "alias": "Alma"
+  },
+  {
+    "code": "92.03.150.005",
+    "villageCode": "005",
+    "districtCode": "92.03.150",
+    "name": "Mlabolo",
+    "alias": "Mlabolo"
+  }
+]

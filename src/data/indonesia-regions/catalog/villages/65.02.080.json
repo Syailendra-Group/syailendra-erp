@@ -1,0 +1,44 @@
+[
+  {
+    "code": "65.02.080.001",
+    "villageCode": "001",
+    "districtCode": "65.02.080",
+    "name": "Pimping",
+    "alias": "Pimping"
+  },
+  {
+    "code": "65.02.080.002",
+    "villageCode": "002",
+    "districtCode": "65.02.080",
+    "name": "Kelubir",
+    "alias": "Kelubir"
+  },
+  {
+    "code": "65.02.080.003",
+    "villageCode": "003",
+    "districtCode": "65.02.080",
+    "name": "Karang Agung",
+    "alias": "Karang Agung"
+  },
+  {
+    "code": "65.02.080.004",
+    "villageCode": "004",
+    "districtCode": "65.02.080",
+    "name": "Ruhui Rahayu",
+    "alias": "Ruhui Rahayu"
+  },
+  {
+    "code": "65.02.080.005",
+    "villageCode": "005",
+    "districtCode": "65.02.080",
+    "name": "Panca Agung",
+    "alias": "Panca Agung"
+  },
+  {
+    "code": "65.02.080.006",
+    "villageCode": "006",
+    "districtCode": "65.02.080",
+    "name": "Ardi Mulya",
+    "alias": "Ardi Mulya"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "code": "34.04.030.001",
+    "villageCode": "001",
+    "districtCode": "34.04.030",
+    "name": "Margoluwih",
+    "alias": "Margoluwih"
+  },
+  {
+    "code": "34.04.030.002",
+    "villageCode": "002",
+    "districtCode": "34.04.030",
+    "name": "Margodadi",
+    "alias": "Margodadi"
+  },
+  {
+    "code": "34.04.030.003",
+    "villageCode": "003",
+    "districtCode": "34.04.030",
+    "name": "Margomulyo",
+    "alias": "Margomulyo"
+  },
+  {
+    "code": "34.04.030.004",
+    "villageCode": "004",
+    "districtCode": "34.04.030",
+    "name": "Margoagung",
+    "alias": "Margoagung"
+  },
+  {
+    "code": "34.04.030.005",
+    "villageCode": "005",
+    "districtCode": "34.04.030",
+    "name": "Margokaton",
+    "alias": "Margokaton"
+  }
+]

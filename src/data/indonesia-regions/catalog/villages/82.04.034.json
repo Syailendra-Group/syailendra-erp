@@ -1,0 +1,58 @@
+[
+  {
+    "code": "82.04.034.001",
+    "villageCode": "001",
+    "districtCode": "82.04.034",
+    "name": "Kampung Baru",
+    "alias": "Kampung Baru"
+  },
+  {
+    "code": "82.04.034.002",
+    "villageCode": "002",
+    "districtCode": "82.04.034",
+    "name": "Batutaga",
+    "alias": "Batutaga"
+  },
+  {
+    "code": "82.04.034.003",
+    "villageCode": "003",
+    "districtCode": "82.04.034",
+    "name": "Parapakanda",
+    "alias": "Parapakanda"
+  },
+  {
+    "code": "82.04.034.004",
+    "villageCode": "004",
+    "districtCode": "82.04.034",
+    "name": "Tanjung Obit",
+    "alias": "Tanjung Obit"
+  },
+  {
+    "code": "82.04.034.005",
+    "villageCode": "005",
+    "districtCode": "82.04.034",
+    "name": "Bajo",
+    "alias": "Bajo"
+  },
+  {
+    "code": "82.04.034.006",
+    "villageCode": "006",
+    "districtCode": "82.04.034",
+    "name": "Pasimbaos",
+    "alias": "Pasimbaos"
+  },
+  {
+    "code": "82.04.034.007",
+    "villageCode": "007",
+    "districtCode": "82.04.034",
+    "name": "Sawanakar",
+    "alias": "Sawanakar"
+  },
+  {
+    "code": "82.04.034.008",
+    "villageCode": "008",
+    "districtCode": "82.04.034",
+    "name": "Toin",
+    "alias": "Toin"
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "code": "96.05.080.001",
+    "villageCode": "001",
+    "districtCode": "96.05.080",
+    "name": "Wiyogei",
+    "alias": "Wiyogei"
+  },
+  {
+    "code": "96.05.080.002",
+    "villageCode": "002",
+    "districtCode": "96.05.080",
+    "name": "Kigodide",
+    "alias": "Kigodide"
+  },
+  {
+    "code": "96.05.080.003",
+    "villageCode": "003",
+    "districtCode": "96.05.080",
+    "name": "Pakage Kebo",
+    "alias": "Pakage Kebo"
+  },
+  {
+    "code": "96.05.080.004",
+    "villageCode": "004",
+    "districtCode": "96.05.080",
+    "name": "Tipakotu",
+    "alias": "Tipakotu"
+  },
+  {
+    "code": "96.05.080.005",
+    "villageCode": "005",
+    "districtCode": "96.05.080",
+    "name": "Utakogopa",
+    "alias": "Utakogopa"
+  },
+  {
+    "code": "96.05.080.006",
+    "villageCode": "006",
+    "districtCode": "96.05.080",
+    "name": "Woukotopa",
+    "alias": "Woukotopa"
+  },
+  {
+    "code": "96.05.080.007",
+    "villageCode": "007",
+    "districtCode": "96.05.080",
+    "name": "Beko",
+    "alias": "Beko"
+  },
+  {
+    "code": "96.05.080.008",
+    "villageCode": "008",
+    "districtCode": "96.05.080",
+    "name": "Amopa",
+    "alias": "Amopa"
+  },
+  {
+    "code": "96.05.080.009",
+    "villageCode": "009",
+    "districtCode": "96.05.080",
+    "name": "Ekinauwo",
+    "alias": "Ekinauwo"
+  },
+  {
+    "code": "96.05.080.010",
+    "villageCode": "010",
+    "districtCode": "96.05.080",
+    "name": "Mogeya",
+    "alias": "Mogeya"
+  },
+  {
+    "code": "96.05.080.011",
+    "villageCode": "011",
+    "districtCode": "96.05.080",
+    "name": "Epo Obano",
+    "alias": "Epo Obano"
+  },
+  {
+    "code": "96.05.080.012",
+    "villageCode": "012",
+    "districtCode": "96.05.080",
+    "name": "Idaiye",
+    "alias": "Idaiye"
+  },
+  {
+    "code": "96.05.080.013",
+    "villageCode": "013",
+    "districtCode": "96.05.080",
+    "name": "Obano",
+    "alias": "Obano"
+  },
+  {
+    "code": "96.05.080.014",
+    "villageCode": "014",
+    "districtCode": "96.05.080",
+    "name": "Kegouda",
+    "alias": "Kegouda"
+  },
+  {
+    "code": "96.05.080.015",
+    "villageCode": "015",
+    "districtCode": "96.05.080",
+    "name": "Tuwauwo",
+    "alias": "Tuwauwo"
+  }
+]

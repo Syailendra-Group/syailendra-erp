@@ -1,0 +1,82 @@
+[
+  {
+    "code": "81.01.040",
+    "districtCode": "040",
+    "regencyCode": "81.01",
+    "provinceCode": "81",
+    "name": "Kecamatan Tanimbar Selatan",
+    "alias": "Tanimbar Selatan"
+  },
+  {
+    "code": "81.01.041",
+    "districtCode": "041",
+    "regencyCode": "81.01",
+    "provinceCode": "81",
+    "name": "Kecamatan Wer Tamrian",
+    "alias": "Wer Tamrian"
+  },
+  {
+    "code": "81.01.042",
+    "districtCode": "042",
+    "regencyCode": "81.01",
+    "provinceCode": "81",
+    "name": "Kecamatan Wer Maktian",
+    "alias": "Wer Maktian"
+  },
+  {
+    "code": "81.01.043",
+    "districtCode": "043",
+    "regencyCode": "81.01",
+    "provinceCode": "81",
+    "name": "Kecamatan Selaru",
+    "alias": "Selaru"
+  },
+  {
+    "code": "81.01.050",
+    "districtCode": "050",
+    "regencyCode": "81.01",
+    "provinceCode": "81",
+    "name": "Kecamatan Tanimbar Utara",
+    "alias": "Tanimbar Utara"
+  },
+  {
+    "code": "81.01.051",
+    "districtCode": "051",
+    "regencyCode": "81.01",
+    "provinceCode": "81",
+    "name": "Kecamatan Fordata",
+    "alias": "Fordata"
+  },
+  {
+    "code": "81.01.052",
+    "districtCode": "052",
+    "regencyCode": "81.01",
+    "provinceCode": "81",
+    "name": "Kecamatan Wuar Labobar",
+    "alias": "Wuar Labobar"
+  },
+  {
+    "code": "81.01.053",
+    "districtCode": "053",
+    "regencyCode": "81.01",
+    "provinceCode": "81",
+    "name": "Kecamatan Nirunmas",
+    "alias": "Nirunmas"
+  },
+  {
+    "code": "81.01.054",
+    "districtCode": "054",
+    "regencyCode": "81.01",
+    "provinceCode": "81",
+    "name": "Kecamatan Kormomolin",
+    "alias": "Kormomolin"
+  },
+  {
+    "code": "81.01.055",
+    "districtCode": "055",
+    "regencyCode": "81.01",
+    "provinceCode": "81",
+    "name": "Kecamatan Molu Maru",
+    "alias": "Molu Maru"
+  }
+]

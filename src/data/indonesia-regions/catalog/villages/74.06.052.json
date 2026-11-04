@@ -1,0 +1,37 @@
+[
+  {
+    "code": "74.06.052.001",
+    "villageCode": "001",
+    "districtCode": "74.06.052",
+    "name": "Batu Putih",
+    "alias": "Batu Putih"
+  },
+  {
+    "code": "74.06.052.002",
+    "villageCode": "002",
+    "districtCode": "74.06.052",
+    "name": "Waemputang",
+    "alias": "Waemputang"
+  },
+  {
+    "code": "74.06.052.003",
+    "villageCode": "003",
+    "districtCode": "74.06.052",
+    "name": "Kalibaru",
+    "alias": "Kalibaru"
+  },
+  {
+    "code": "74.06.052.004",
+    "villageCode": "004",
+    "districtCode": "74.06.052",
+    "name": "Akacipong",
+    "alias": "Akacipong"
+  },
+  {
+    "code": "74.06.052.005",
+    "villageCode": "005",
+    "districtCode": "74.06.052",
+    "name": "Laea",
+    "alias": "Laea"
+  }
+]

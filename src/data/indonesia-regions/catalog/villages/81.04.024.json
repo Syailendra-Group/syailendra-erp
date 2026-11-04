@@ -1,0 +1,37 @@
+[
+  {
+    "code": "81.04.024.001",
+    "villageCode": "001",
+    "districtCode": "81.04.024",
+    "name": "Kaki Air",
+    "alias": "Kaki Air"
+  },
+  {
+    "code": "81.04.024.002",
+    "villageCode": "002",
+    "districtCode": "81.04.024",
+    "name": "Kaiely",
+    "alias": "Kaiely"
+  },
+  {
+    "code": "81.04.024.003",
+    "villageCode": "003",
+    "districtCode": "81.04.024",
+    "name": "Masarete",
+    "alias": "Masarete"
+  },
+  {
+    "code": "81.04.024.004",
+    "villageCode": "004",
+    "districtCode": "81.04.024",
+    "name": "Waelapia",
+    "alias": "Waelapia"
+  },
+  {
+    "code": "81.04.024.005",
+    "villageCode": "005",
+    "districtCode": "81.04.024",
+    "name": "Seith",
+    "alias": "Seith"
+  }
+]

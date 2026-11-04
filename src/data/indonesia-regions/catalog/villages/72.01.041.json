@@ -1,0 +1,65 @@
+[
+  {
+    "code": "72.01.041.001",
+    "villageCode": "001",
+    "districtCode": "72.01.041",
+    "name": "Paisumosoni",
+    "alias": "Paisumosoni"
+  },
+  {
+    "code": "72.01.041.002",
+    "villageCode": "002",
+    "districtCode": "72.01.041",
+    "name": "Tobing",
+    "alias": "Tobing"
+  },
+  {
+    "code": "72.01.041.003",
+    "villageCode": "003",
+    "districtCode": "72.01.041",
+    "name": "Tobungin",
+    "alias": "Tobungin"
+  },
+  {
+    "code": "72.01.041.004",
+    "villageCode": "004",
+    "districtCode": "72.01.041",
+    "name": "Mansamat B",
+    "alias": "Mansamat B"
+  },
+  {
+    "code": "72.01.041.005",
+    "villageCode": "005",
+    "districtCode": "72.01.041",
+    "name": "Mansamat A",
+    "alias": "Mansamat A"
+  },
+  {
+    "code": "72.01.041.006",
+    "villageCode": "006",
+    "districtCode": "72.01.041",
+    "name": "Kampung Baru",
+    "alias": "Kampung Baru"
+  },
+  {
+    "code": "72.01.041.007",
+    "villageCode": "007",
+    "districtCode": "72.01.041",
+    "name": "Tinangkung",
+    "alias": "Tinangkung"
+  },
+  {
+    "code": "72.01.041.008",
+    "villageCode": "008",
+    "districtCode": "72.01.041",
+    "name": "Gansal",
+    "alias": "Gansal"
+  },
+  {
+    "code": "72.01.041.009",
+    "villageCode": "009",
+    "districtCode": "72.01.041",
+    "name": "Bobu",
+    "alias": "Bobu"
+  }
+]

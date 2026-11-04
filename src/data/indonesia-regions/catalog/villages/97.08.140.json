@@ -1,0 +1,72 @@
+[
+  {
+    "code": "97.08.140.001",
+    "villageCode": "001",
+    "districtCode": "97.08.140",
+    "name": "Kameme",
+    "alias": "Kameme"
+  },
+  {
+    "code": "97.08.140.002",
+    "villageCode": "002",
+    "districtCode": "97.08.140",
+    "name": "Bime",
+    "alias": "Bime"
+  },
+  {
+    "code": "97.08.140.003",
+    "villageCode": "003",
+    "districtCode": "97.08.140",
+    "name": "Lim Lim",
+    "alias": "Lim Lim"
+  },
+  {
+    "code": "97.08.140.004",
+    "villageCode": "004",
+    "districtCode": "97.08.140",
+    "name": "Bunggon",
+    "alias": "Bunggon"
+  },
+  {
+    "code": "97.08.140.005",
+    "villageCode": "005",
+    "districtCode": "97.08.140",
+    "name": "Calab",
+    "alias": "Calab"
+  },
+  {
+    "code": "97.08.140.006",
+    "villageCode": "006",
+    "districtCode": "97.08.140",
+    "name": "Limiri",
+    "alias": "Limiri"
+  },
+  {
+    "code": "97.08.140.007",
+    "villageCode": "007",
+    "districtCode": "97.08.140",
+    "name": "Teli",
+    "alias": "Teli"
+  },
+  {
+    "code": "97.08.140.008",
+    "villageCode": "008",
+    "districtCode": "97.08.140",
+    "name": "Bob",
+    "alias": "Bob"
+  },
+  {
+    "code": "97.08.140.009",
+    "villageCode": "009",
+    "districtCode": "97.08.140",
+    "name": "Perem",
+    "alias": "Perem"
+  },
+  {
+    "code": "97.08.140.010",
+    "villageCode": "010",
+    "districtCode": "97.08.140",
+    "name": "Turwe",
+    "alias": "Turwe"
+  }
+]

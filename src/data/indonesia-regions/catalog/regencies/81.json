@@ -1,0 +1,90 @@
+[
+  {
+    "code": "81.01",
+    "regencyCode": "01",
+    "provinceCode": "81",
+    "provinceName": "Maluku",
+    "name": "Kabupaten Kepulauan Tanimbar",
+    "alias": "Kepulauan Tanimbar"
+  },
+  {
+    "code": "81.02",
+    "regencyCode": "02",
+    "provinceCode": "81",
+    "provinceName": "Maluku",
+    "name": "Kabupaten Maluku Tenggara",
+    "alias": "Maluku Tenggara"
+  },
+  {
+    "code": "81.03",
+    "regencyCode": "03",
+    "provinceCode": "81",
+    "provinceName": "Maluku",
+    "name": "Kabupaten Maluku Tengah",
+    "alias": "Maluku Tengah"
+  },
+  {
+    "code": "81.04",
+    "regencyCode": "04",
+    "provinceCode": "81",
+    "provinceName": "Maluku",
+    "name": "Kabupaten Buru",
+    "alias": "Buru"
+  },
+  {
+    "code": "81.05",
+    "regencyCode": "05",
+    "provinceCode": "81",
+    "provinceName": "Maluku",
+    "name": "Kabupaten Kepulauan Aru",
+    "alias": "Kepulauan Aru"
+  },
+  {
+    "code": "81.06",
+    "regencyCode": "06",
+    "provinceCode": "81",
+    "provinceName": "Maluku",
+    "name": "Kabupaten Seram Bagian Barat",
+    "alias": "Seram Bagian Barat"
+  },
+  {
+    "code": "81.07",
+    "regencyCode": "07",
+    "provinceCode": "81",
+    "provinceName": "Maluku",
+    "name": "Kabupaten Seram Bagian Timur",
+    "alias": "Seram Bagian Timur"
+  },
+  {
+    "code": "81.08",
+    "regencyCode": "08",
+    "provinceCode": "81",
+    "provinceName": "Maluku",
+    "name": "Kabupaten Maluku Barat Daya",
+    "alias": "Maluku Barat Daya"
+  },
+  {
+    "code": "81.09",
+    "regencyCode": "09",
+    "provinceCode": "81",
+    "provinceName": "Maluku",
+    "name": "Kabupaten Buru Selatan",
+    "alias": "Buru Selatan"
+  },
+  {
+    "code": "81.71",
+    "regencyCode": "71",
+    "provinceCode": "81",
+    "provinceName": "Maluku",
+    "name": "Kota Ambon",
+    "alias": "Ambon"
+  },
+  {
+    "code": "81.72",
+    "regencyCode": "72",
+    "provinceCode": "81",
+    "provinceName": "Maluku",
+    "name": "Kota Tual",
+    "alias": "Tual"
+  }
+]

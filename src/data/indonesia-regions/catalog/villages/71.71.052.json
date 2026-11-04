@@ -1,0 +1,72 @@
+[
+  {
+    "code": "71.71.052.001",
+    "villageCode": "001",
+    "districtCode": "71.71.052",
+    "name": "Sindulang Satu",
+    "alias": "Sindulang Satu"
+  },
+  {
+    "code": "71.71.052.002",
+    "villageCode": "002",
+    "districtCode": "71.71.052",
+    "name": "Kampung Islam",
+    "alias": "Kampung Islam"
+  },
+  {
+    "code": "71.71.052.003",
+    "villageCode": "003",
+    "districtCode": "71.71.052",
+    "name": "Sindulang Dua",
+    "alias": "Sindulang Dua"
+  },
+  {
+    "code": "71.71.052.004",
+    "villageCode": "004",
+    "districtCode": "71.71.052",
+    "name": "Bitung Karang Ria",
+    "alias": "Bitung Karang Ria"
+  },
+  {
+    "code": "71.71.052.005",
+    "villageCode": "005",
+    "districtCode": "71.71.052",
+    "name": "Maasing",
+    "alias": "Maasing"
+  },
+  {
+    "code": "71.71.052.006",
+    "villageCode": "006",
+    "districtCode": "71.71.052",
+    "name": "Tuminting",
+    "alias": "Tuminting"
+  },
+  {
+    "code": "71.71.052.007",
+    "villageCode": "007",
+    "districtCode": "71.71.052",
+    "name": "Mahawu",
+    "alias": "Mahawu"
+  },
+  {
+    "code": "71.71.052.008",
+    "villageCode": "008",
+    "districtCode": "71.71.052",
+    "name": "Sumompo",
+    "alias": "Sumompo"
+  },
+  {
+    "code": "71.71.052.009",
+    "villageCode": "009",
+    "districtCode": "71.71.052",
+    "name": "Tumumpa Satu",
+    "alias": "Tumumpa Satu"
+  },
+  {
+    "code": "71.71.052.010",
+    "villageCode": "010",
+    "districtCode": "71.71.052",
+    "name": "Tumumpa Dua",
+    "alias": "Tumumpa Dua"
+  }
+]

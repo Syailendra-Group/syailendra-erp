@@ -1,0 +1,79 @@
+[
+  {
+    "code": "14.06.014.001",
+    "villageCode": "001",
+    "districtCode": "14.06.014",
+    "name": "Penghidupan",
+    "alias": "Penghidupan"
+  },
+  {
+    "code": "14.06.014.002",
+    "villageCode": "002",
+    "districtCode": "14.06.014",
+    "name": "Simalinyang",
+    "alias": "Simalinyang"
+  },
+  {
+    "code": "14.06.014.003",
+    "villageCode": "003",
+    "districtCode": "14.06.014",
+    "name": "Mayang Pongkai",
+    "alias": "Mayang Pongkai"
+  },
+  {
+    "code": "14.06.014.004",
+    "villageCode": "004",
+    "districtCode": "14.06.014",
+    "name": "Lubuk Sakai",
+    "alias": "Lubuk Sakai"
+  },
+  {
+    "code": "14.06.014.005",
+    "villageCode": "005",
+    "districtCode": "14.06.014",
+    "name": "Bina Baru",
+    "alias": "Bina Baru"
+  },
+  {
+    "code": "14.06.014.006",
+    "villageCode": "006",
+    "districtCode": "14.06.014",
+    "name": "Hidup Baru",
+    "alias": "Hidup Baru"
+  },
+  {
+    "code": "14.06.014.007",
+    "villageCode": "007",
+    "districtCode": "14.06.014",
+    "name": "Karya Bakti",
+    "alias": "Karya Bakti"
+  },
+  {
+    "code": "14.06.014.008",
+    "villageCode": "008",
+    "districtCode": "14.06.014",
+    "name": "Koto Damai",
+    "alias": "Koto Damai"
+  },
+  {
+    "code": "14.06.014.009",
+    "villageCode": "009",
+    "districtCode": "14.06.014",
+    "name": "Utama Karya",
+    "alias": "Utama Karya"
+  },
+  {
+    "code": "14.06.014.010",
+    "villageCode": "010",
+    "districtCode": "14.06.014",
+    "name": "Bukit Sakai",
+    "alias": "Bukit Sakai"
+  },
+  {
+    "code": "14.06.014.011",
+    "villageCode": "011",
+    "districtCode": "14.06.014",
+    "name": "Mekar Jaya",
+    "alias": "Mekar Jaya"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "code": "53.71.020.001",
+    "villageCode": "001",
+    "districtCode": "53.71.020",
+    "name": "Fatukoa",
+    "alias": "Fatukoa"
+  },
+  {
+    "code": "53.71.020.002",
+    "villageCode": "002",
+    "districtCode": "53.71.020",
+    "name": "Sikumana",
+    "alias": "Sikumana"
+  },
+  {
+    "code": "53.71.020.003",
+    "villageCode": "003",
+    "districtCode": "53.71.020",
+    "name": "Bello",
+    "alias": "Bello"
+  },
+  {
+    "code": "53.71.020.004",
+    "villageCode": "004",
+    "districtCode": "53.71.020",
+    "name": "Kolhua",
+    "alias": "Kolhua"
+  },
+  {
+    "code": "53.71.020.005",
+    "villageCode": "005",
+    "districtCode": "53.71.020",
+    "name": "Penfui",
+    "alias": "Penfui"
+  },
+  {
+    "code": "53.71.020.006",
+    "villageCode": "006",
+    "districtCode": "53.71.020",
+    "name": "Naimata",
+    "alias": "Naimata"
+  },
+  {
+    "code": "53.71.020.007",
+    "villageCode": "007",
+    "districtCode": "53.71.020",
+    "name": "Maulafa",
+    "alias": "Maulafa"
+  },
+  {
+    "code": "53.71.020.008",
+    "villageCode": "008",
+    "districtCode": "53.71.020",
+    "name": "Oepura",
+    "alias": "Oepura"
+  },
+  {
+    "code": "53.71.020.009",
+    "villageCode": "009",
+    "districtCode": "53.71.020",
+    "name": "Naikolan",
+    "alias": "Naikolan"
+  }
+]

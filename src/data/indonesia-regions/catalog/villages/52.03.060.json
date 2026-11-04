@@ -1,0 +1,65 @@
+[
+  {
+    "code": "52.03.060.001",
+    "villageCode": "001",
+    "districtCode": "52.03.060",
+    "name": "Setanggor",
+    "alias": "Setanggor"
+  },
+  {
+    "code": "52.03.060.002",
+    "villageCode": "002",
+    "districtCode": "52.03.060",
+    "name": "Jantuk",
+    "alias": "Jantuk"
+  },
+  {
+    "code": "52.03.060.003",
+    "villageCode": "003",
+    "districtCode": "52.03.060",
+    "name": "Padamara",
+    "alias": "Padamara"
+  },
+  {
+    "code": "52.03.060.004",
+    "villageCode": "004",
+    "districtCode": "52.03.060",
+    "name": "Dasan Lekong",
+    "alias": "Dasan Lekong"
+  },
+  {
+    "code": "52.03.060.005",
+    "villageCode": "005",
+    "districtCode": "52.03.060",
+    "name": "Sukamulia",
+    "alias": "Sukamulia"
+  },
+  {
+    "code": "52.03.060.006",
+    "villageCode": "006",
+    "districtCode": "52.03.060",
+    "name": "Sukamulia Timur",
+    "alias": "Sukamulia Timur"
+  },
+  {
+    "code": "52.03.060.007",
+    "villageCode": "007",
+    "districtCode": "52.03.060",
+    "name": "Paok Pampang",
+    "alias": "Paok Pampang"
+  },
+  {
+    "code": "52.03.060.008",
+    "villageCode": "008",
+    "districtCode": "52.03.060",
+    "name": "Setanggor Selatan",
+    "alias": "Setanggor Selatan"
+  },
+  {
+    "code": "52.03.060.009",
+    "villageCode": "009",
+    "districtCode": "52.03.060",
+    "name": "Nyiur Tebel",
+    "alias": "Nyiur Tebel"
+  }
+]

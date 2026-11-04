@@ -1,0 +1,234 @@
+[
+  {
+    "code": "36.04.010",
+    "districtCode": "010",
+    "regencyCode": "36.04",
+    "provinceCode": "36",
+    "name": "Kecamatan Cinangka",
+    "alias": "Cinangka"
+  },
+  {
+    "code": "36.04.020",
+    "districtCode": "020",
+    "regencyCode": "36.04",
+    "provinceCode": "36",
+    "name": "Kecamatan Padarincang",
+    "alias": "Padarincang"
+  },
+  {
+    "code": "36.04.030",
+    "districtCode": "030",
+    "regencyCode": "36.04",
+    "provinceCode": "36",
+    "name": "Kecamatan Ciomas",
+    "alias": "Ciomas"
+  },
+  {
+    "code": "36.04.040",
+    "districtCode": "040",
+    "regencyCode": "36.04",
+    "provinceCode": "36",
+    "name": "Kecamatan Pabuaran",
+    "alias": "Pabuaran"
+  },
+  {
+    "code": "36.04.041",
+    "districtCode": "041",
+    "regencyCode": "36.04",
+    "provinceCode": "36",
+    "name": "Kecamatan Gunung Sari",
+    "alias": "Gunung Sari"
+  },
+  {
+    "code": "36.04.050",
+    "districtCode": "050",
+    "regencyCode": "36.04",
+    "provinceCode": "36",
+    "name": "Kecamatan Baros",
+    "alias": "Baros"
+  },
+  {
+    "code": "36.04.060",
+    "districtCode": "060",
+    "regencyCode": "36.04",
+    "provinceCode": "36",
+    "name": "Kecamatan Petir",
+    "alias": "Petir"
+  },
+  {
+    "code": "36.04.061",
+    "districtCode": "061",
+    "regencyCode": "36.04",
+    "provinceCode": "36",
+    "name": "Kecamatan Tunjung Teja",
+    "alias": "Tunjung Teja"
+  },
+  {
+    "code": "36.04.080",
+    "districtCode": "080",
+    "regencyCode": "36.04",
+    "provinceCode": "36",
+    "name": "Kecamatan Cikeusal",
+    "alias": "Cikeusal"
+  },
+  {
+    "code": "36.04.090",
+    "districtCode": "090",
+    "regencyCode": "36.04",
+    "provinceCode": "36",
+    "name": "Kecamatan Pamarayan",
+    "alias": "Pamarayan"
+  },
+  {
+    "code": "36.04.091",
+    "districtCode": "091",
+    "regencyCode": "36.04",
+    "provinceCode": "36",
+    "name": "Kecamatan Bandung",
+    "alias": "Bandung"
+  },
+  {
+    "code": "36.04.100",
+    "districtCode": "100",
+    "regencyCode": "36.04",
+    "provinceCode": "36",
+    "name": "Kecamatan Jawilan",
+    "alias": "Jawilan"
+  },
+  {
+    "code": "36.04.110",
+    "districtCode": "110",
+    "regencyCode": "36.04",
+    "provinceCode": "36",
+    "name": "Kecamatan Kopo",
+    "alias": "Kopo"
+  },
+  {
+    "code": "36.04.120",
+    "districtCode": "120",
+    "regencyCode": "36.04",
+    "provinceCode": "36",
+    "name": "Kecamatan Cikande",
+    "alias": "Cikande"
+  },
+  {
+    "code": "36.04.121",
+    "districtCode": "121",
+    "regencyCode": "36.04",
+    "provinceCode": "36",
+    "name": "Kecamatan Kibin",
+    "alias": "Kibin"
+  },
+  {
+    "code": "36.04.130",
+    "districtCode": "130",
+    "regencyCode": "36.04",
+    "provinceCode": "36",
+    "name": "Kecamatan Kragilan",
+    "alias": "Kragilan"
+  },
+  {
+    "code": "36.04.180",
+    "districtCode": "180",
+    "regencyCode": "36.04",
+    "provinceCode": "36",
+    "name": "Kecamatan Waringinkurung",
+    "alias": "Waringinkurung"
+  },
+  {
+    "code": "36.04.190",
+    "districtCode": "190",
+    "regencyCode": "36.04",
+    "provinceCode": "36",
+    "name": "Kecamatan Mancak",
+    "alias": "Mancak"
+  },
+  {
+    "code": "36.04.200",
+    "districtCode": "200",
+    "regencyCode": "36.04",
+    "provinceCode": "36",
+    "name": "Kecamatan Anyar",
+    "alias": "Anyar"
+  },
+  {
+    "code": "36.04.210",
+    "districtCode": "210",
+    "regencyCode": "36.04",
+    "provinceCode": "36",
+    "name": "Kecamatan Bojonegara",
+    "alias": "Bojonegara"
+  },
+  {
+    "code": "36.04.211",
+    "districtCode": "211",
+    "regencyCode": "36.04",
+    "provinceCode": "36",
+    "name": "Kecamatan Pulo Ampel",
+    "alias": "Pulo Ampel"
+  },
+  {
+    "code": "36.04.220",
+    "districtCode": "220",
+    "regencyCode": "36.04",
+    "provinceCode": "36",
+    "name": "Kecamatan Kramatwatu",
+    "alias": "Kramatwatu"
+  },
+  {
+    "code": "36.04.240",
+    "districtCode": "240",
+    "regencyCode": "36.04",
+    "provinceCode": "36",
+    "name": "Kecamatan Ciruas",
+    "alias": "Ciruas"
+  },
+  {
+    "code": "36.04.250",
+    "districtCode": "250",
+    "regencyCode": "36.04",
+    "provinceCode": "36",
+    "name": "Kecamatan Pontang",
+    "alias": "Pontang"
+  },
+  {
+    "code": "36.04.251",
+    "districtCode": "251",
+    "regencyCode": "36.04",
+    "provinceCode": "36",
+    "name": "Kecamatan Lebak Wangi",
+    "alias": "Lebak Wangi"
+  },
+  {
+    "code": "36.04.260",
+    "districtCode": "260",
+    "regencyCode": "36.04",
+    "provinceCode": "36",
+    "name": "Kecamatan Carenang",
+    "alias": "Carenang"
+  },
+  {
+    "code": "36.04.261",
+    "districtCode": "261",
+    "regencyCode": "36.04",
+    "provinceCode": "36",
+    "name": "Kecamatan Binuang",
+    "alias": "Binuang"
+  },
+  {
+    "code": "36.04.270",
+    "districtCode": "270",
+    "regencyCode": "36.04",
+    "provinceCode": "36",
+    "name": "Kecamatan Tirtayasa",
+    "alias": "Tirtayasa"
+  },
+  {
+    "code": "36.04.271",
+    "districtCode": "271",
+    "regencyCode": "36.04",
+    "provinceCode": "36",
+    "name": "Kecamatan Tanara",
+    "alias": "Tanara"
+  }
+]

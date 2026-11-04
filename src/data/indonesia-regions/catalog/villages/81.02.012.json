@@ -1,0 +1,72 @@
+[
+  {
+    "code": "81.02.012.001",
+    "villageCode": "001",
+    "districtCode": "81.02.012",
+    "name": "Ohoidertutu",
+    "alias": "Ohoidertutu"
+  },
+  {
+    "code": "81.02.012.002",
+    "villageCode": "002",
+    "districtCode": "81.02.012",
+    "name": "Madwaer",
+    "alias": "Madwaer"
+  },
+  {
+    "code": "81.02.012.003",
+    "villageCode": "003",
+    "districtCode": "81.02.012",
+    "name": "Somlain",
+    "alias": "Somlain"
+  },
+  {
+    "code": "81.02.012.004",
+    "villageCode": "004",
+    "districtCode": "81.02.012",
+    "name": "Ohoiren",
+    "alias": "Ohoiren"
+  },
+  {
+    "code": "81.02.012.005",
+    "villageCode": "005",
+    "districtCode": "81.02.012",
+    "name": "Ohoira",
+    "alias": "Ohoira"
+  },
+  {
+    "code": "81.02.012.006",
+    "villageCode": "006",
+    "districtCode": "81.02.012",
+    "name": "Ur Pulau",
+    "alias": "Ur Pulau"
+  },
+  {
+    "code": "81.02.012.007",
+    "villageCode": "007",
+    "districtCode": "81.02.012",
+    "name": "Tanimbar Kei",
+    "alias": "Tanimbar Kei"
+  },
+  {
+    "code": "81.02.012.008",
+    "villageCode": "008",
+    "districtCode": "81.02.012",
+    "name": "Warbal",
+    "alias": "Warbal"
+  },
+  {
+    "code": "81.02.012.009",
+    "villageCode": "009",
+    "districtCode": "81.02.012",
+    "name": "Ohoidertom",
+    "alias": "Ohoidertom"
+  },
+  {
+    "code": "81.02.012.010",
+    "villageCode": "010",
+    "districtCode": "81.02.012",
+    "name": "Yatwav",
+    "alias": "Yatwav"
+  }
+]

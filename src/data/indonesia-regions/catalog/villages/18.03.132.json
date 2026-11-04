@@ -1,0 +1,37 @@
+[
+  {
+    "code": "18.03.132.001",
+    "villageCode": "001",
+    "districtCode": "18.03.132",
+    "name": "Totoharjo",
+    "alias": "Totoharjo"
+  },
+  {
+    "code": "18.03.132.002",
+    "villageCode": "002",
+    "districtCode": "18.03.132",
+    "name": "Kelawi",
+    "alias": "Kelawi"
+  },
+  {
+    "code": "18.03.132.003",
+    "villageCode": "003",
+    "districtCode": "18.03.132",
+    "name": "Bakauheni",
+    "alias": "Bakauheni"
+  },
+  {
+    "code": "18.03.132.004",
+    "villageCode": "004",
+    "districtCode": "18.03.132",
+    "name": "Hata",
+    "alias": "Hata"
+  },
+  {
+    "code": "18.03.132.005",
+    "villageCode": "005",
+    "districtCode": "18.03.132",
+    "name": "Semanak",
+    "alias": "Semanak"
+  }
+]

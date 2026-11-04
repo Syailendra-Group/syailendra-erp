@@ -1,0 +1,30 @@
+[
+  {
+    "code": "36.01.191.005",
+    "villageCode": "005",
+    "districtCode": "36.01.191",
+    "name": "Kadumerak",
+    "alias": "Kadumerak"
+  },
+  {
+    "code": "36.01.191.006",
+    "villageCode": "006",
+    "districtCode": "36.01.191",
+    "name": "Pagadungan",
+    "alias": "Pagadungan"
+  },
+  {
+    "code": "36.01.191.007",
+    "villageCode": "007",
+    "districtCode": "36.01.191",
+    "name": "Cigadung",
+    "alias": "Cigadung"
+  },
+  {
+    "code": "36.01.191.010",
+    "villageCode": "010",
+    "districtCode": "36.01.191",
+    "name": "Juhut",
+    "alias": "Juhut"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "code": "94.19.031.004",
+    "villageCode": "004",
+    "districtCode": "94.19.031",
+    "name": "Taronta",
+    "alias": "Taronta"
+  },
+  {
+    "code": "94.19.031.005",
+    "villageCode": "005",
+    "districtCode": "94.19.031",
+    "name": "Armopa",
+    "alias": "Armopa"
+  },
+  {
+    "code": "94.19.031.006",
+    "villageCode": "006",
+    "districtCode": "94.19.031",
+    "name": "Kiren",
+    "alias": "Kiren"
+  },
+  {
+    "code": "94.19.031.007",
+    "villageCode": "007",
+    "districtCode": "94.19.031",
+    "name": "Bebon Jaya",
+    "alias": "Bebon Jaya"
+  },
+  {
+    "code": "94.19.031.011",
+    "villageCode": "011",
+    "districtCode": "94.19.031",
+    "name": "Tetom",
+    "alias": "Tetom"
+  },
+  {
+    "code": "94.19.031.012",
+    "villageCode": "012",
+    "districtCode": "94.19.031",
+    "name": "Srum",
+    "alias": "Srum"
+  },
+  {
+    "code": "94.19.031.013",
+    "villageCode": "013",
+    "districtCode": "94.19.031",
+    "name": "Narum",
+    "alias": "Narum"
+  }
+]

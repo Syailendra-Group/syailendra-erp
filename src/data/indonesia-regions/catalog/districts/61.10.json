@@ -1,0 +1,90 @@
+[
+  {
+    "code": "61.10.010",
+    "districtCode": "010",
+    "regencyCode": "61.10",
+    "provinceCode": "61",
+    "name": "Kecamatan Sokan",
+    "alias": "Sokan"
+  },
+  {
+    "code": "61.10.020",
+    "districtCode": "020",
+    "regencyCode": "61.10",
+    "provinceCode": "61",
+    "name": "Kecamatan Tanah Pinoh",
+    "alias": "Tanah Pinoh"
+  },
+  {
+    "code": "61.10.021",
+    "districtCode": "021",
+    "regencyCode": "61.10",
+    "provinceCode": "61",
+    "name": "Kecamatan Tanah Pinoh Barat",
+    "alias": "Tanah Pinoh Barat"
+  },
+  {
+    "code": "61.10.030",
+    "districtCode": "030",
+    "regencyCode": "61.10",
+    "provinceCode": "61",
+    "name": "Kecamatan Sayan",
+    "alias": "Sayan"
+  },
+  {
+    "code": "61.10.040",
+    "districtCode": "040",
+    "regencyCode": "61.10",
+    "provinceCode": "61",
+    "name": "Kecamatan Belimbing",
+    "alias": "Belimbing"
+  },
+  {
+    "code": "61.10.041",
+    "districtCode": "041",
+    "regencyCode": "61.10",
+    "provinceCode": "61",
+    "name": "Kecamatan Belimbing Hulu",
+    "alias": "Belimbing Hulu"
+  },
+  {
+    "code": "61.10.050",
+    "districtCode": "050",
+    "regencyCode": "61.10",
+    "provinceCode": "61",
+    "name": "Kecamatan Nanga Pinoh",
+    "alias": "Nanga Pinoh"
+  },
+  {
+    "code": "61.10.051",
+    "districtCode": "051",
+    "regencyCode": "61.10",
+    "provinceCode": "61",
+    "name": "Kecamatan Pinoh Selatan",
+    "alias": "Pinoh Selatan"
+  },
+  {
+    "code": "61.10.052",
+    "districtCode": "052",
+    "regencyCode": "61.10",
+    "provinceCode": "61",
+    "name": "Kecamatan Pinoh Utara",
+    "alias": "Pinoh Utara"
+  },
+  {
+    "code": "61.10.060",
+    "districtCode": "060",
+    "regencyCode": "61.10",
+    "provinceCode": "61",
+    "name": "Kecamatan Ella Hilir",
+    "alias": "Ella Hilir"
+  },
+  {
+    "code": "61.10.070",
+    "districtCode": "070",
+    "regencyCode": "61.10",
+    "provinceCode": "61",
+    "name": "Kecamatan Menukung",
+    "alias": "Menukung"
+  }
+]

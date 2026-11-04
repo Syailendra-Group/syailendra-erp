@@ -1,0 +1,79 @@
+[
+  {
+    "code": "73.25.080.001",
+    "villageCode": "001",
+    "districtCode": "73.25.080",
+    "name": "Balai Kembang",
+    "alias": "Balai Kembang"
+  },
+  {
+    "code": "73.25.080.002",
+    "villageCode": "002",
+    "districtCode": "73.25.080",
+    "name": "Manggala",
+    "alias": "Manggala"
+  },
+  {
+    "code": "73.25.080.006",
+    "villageCode": "006",
+    "districtCode": "73.25.080",
+    "name": "Wonorejo",
+    "alias": "Wonorejo"
+  },
+  {
+    "code": "73.25.080.007",
+    "villageCode": "007",
+    "districtCode": "73.25.080",
+    "name": "Maleku",
+    "alias": "Maleku"
+  },
+  {
+    "code": "73.25.080.008",
+    "villageCode": "008",
+    "districtCode": "73.25.080",
+    "name": "Panca Karsa",
+    "alias": "Panca Karsa"
+  },
+  {
+    "code": "73.25.080.009",
+    "villageCode": "009",
+    "districtCode": "73.25.080",
+    "name": "Margolembo",
+    "alias": "Margolembo"
+  },
+  {
+    "code": "73.25.080.010",
+    "villageCode": "010",
+    "districtCode": "73.25.080",
+    "name": "Kasintuwu",
+    "alias": "Kasintuwu"
+  },
+  {
+    "code": "73.25.080.011",
+    "villageCode": "011",
+    "districtCode": "73.25.080",
+    "name": "Teromu",
+    "alias": "Teromu"
+  },
+  {
+    "code": "73.25.080.012",
+    "villageCode": "012",
+    "districtCode": "73.25.080",
+    "name": "Wonorejo Timur",
+    "alias": "Wonorejo Timur"
+  },
+  {
+    "code": "73.25.080.013",
+    "villageCode": "013",
+    "districtCode": "73.25.080",
+    "name": "Sindu Agung",
+    "alias": "Sindu Agung"
+  },
+  {
+    "code": "73.25.080.014",
+    "villageCode": "014",
+    "districtCode": "73.25.080",
+    "name": "Koroncia",
+    "alias": "Koroncia"
+  }
+]

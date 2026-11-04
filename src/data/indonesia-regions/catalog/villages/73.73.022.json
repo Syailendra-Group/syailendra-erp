@@ -1,0 +1,30 @@
+[
+  {
+    "code": "73.73.022.008",
+    "villageCode": "008",
+    "districtCode": "73.73.022",
+    "name": "Mungkajang",
+    "alias": "Mungkajang"
+  },
+  {
+    "code": "73.73.022.009",
+    "villageCode": "009",
+    "districtCode": "73.73.022",
+    "name": "Murante",
+    "alias": "Murante"
+  },
+  {
+    "code": "73.73.022.010",
+    "villageCode": "010",
+    "districtCode": "73.73.022",
+    "name": "Latuppa",
+    "alias": "Latuppa"
+  },
+  {
+    "code": "73.73.022.011",
+    "villageCode": "011",
+    "districtCode": "73.73.022",
+    "name": "Kambo",
+    "alias": "Kambo"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "code": "81.72.010",
+    "districtCode": "010",
+    "regencyCode": "81.72",
+    "provinceCode": "81",
+    "name": "Kecamatan Pp. Kur",
+    "alias": "Pp. Kur"
+  },
+  {
+    "code": "81.72.011",
+    "districtCode": "011",
+    "regencyCode": "81.72",
+    "provinceCode": "81",
+    "name": "Kecamatan Kur Selatan",
+    "alias": "Kur Selatan"
+  },
+  {
+    "code": "81.72.020",
+    "districtCode": "020",
+    "regencyCode": "81.72",
+    "provinceCode": "81",
+    "name": "Kecamatan Tayando Tam",
+    "alias": "Tayando Tam"
+  },
+  {
+    "code": "81.72.030",
+    "districtCode": "030",
+    "regencyCode": "81.72",
+    "provinceCode": "81",
+    "name": "Kecamatan Pulau Dullah Utara",
+    "alias": "Pulau Dullah Utara"
+  },
+  {
+    "code": "81.72.040",
+    "districtCode": "040",
+    "regencyCode": "81.72",
+    "provinceCode": "81",
+    "name": "Kecamatan Pulau Dullah Selatan",
+    "alias": "Pulau Dullah Selatan"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "code": "72.02.062.001",
+    "villageCode": "001",
+    "districtCode": "72.02.062",
+    "name": "Bahingin",
+    "alias": "Bahingin"
+  },
+  {
+    "code": "72.02.062.002",
+    "villageCode": "002",
+    "districtCode": "72.02.062",
+    "name": "Balean",
+    "alias": "Balean"
+  },
+  {
+    "code": "72.02.062.003",
+    "villageCode": "003",
+    "districtCode": "72.02.062",
+    "name": "Uha-Uhangon",
+    "alias": "Uha-Uhangon"
+  },
+  {
+    "code": "72.02.062.004",
+    "villageCode": "004",
+    "districtCode": "72.02.062",
+    "name": "Kadodi",
+    "alias": "Kadodi"
+  },
+  {
+    "code": "72.02.062.005",
+    "villageCode": "005",
+    "districtCode": "72.02.062",
+    "name": "Niubulan",
+    "alias": "Niubulan"
+  },
+  {
+    "code": "72.02.062.006",
+    "villageCode": "006",
+    "districtCode": "72.02.062",
+    "name": "Lobu",
+    "alias": "Lobu"
+  },
+  {
+    "code": "72.02.062.007",
+    "villageCode": "007",
+    "districtCode": "72.02.062",
+    "name": "Bolobungkang",
+    "alias": "Bolobungkang"
+  },
+  {
+    "code": "72.02.062.008",
+    "villageCode": "008",
+    "districtCode": "72.02.062",
+    "name": "Uwedaka-Daka",
+    "alias": "Uwedaka-Daka"
+  },
+  {
+    "code": "72.02.062.009",
+    "villageCode": "009",
+    "districtCode": "72.02.062",
+    "name": "Dolom",
+    "alias": "Dolom"
+  },
+  {
+    "code": "72.02.062.010",
+    "villageCode": "010",
+    "districtCode": "72.02.062",
+    "name": "Lambuli",
+    "alias": "Lambuli"
+  }
+]

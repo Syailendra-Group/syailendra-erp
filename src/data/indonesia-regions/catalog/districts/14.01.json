@@ -1,0 +1,122 @@
+[
+  {
+    "code": "14.01.010",
+    "districtCode": "010",
+    "regencyCode": "14.01",
+    "provinceCode": "14",
+    "name": "Kecamatan Kuantan Mudik",
+    "alias": "Kuantan Mudik"
+  },
+  {
+    "code": "14.01.011",
+    "districtCode": "011",
+    "regencyCode": "14.01",
+    "provinceCode": "14",
+    "name": "Kecamatan Hulu Kuantan",
+    "alias": "Hulu Kuantan"
+  },
+  {
+    "code": "14.01.012",
+    "districtCode": "012",
+    "regencyCode": "14.01",
+    "provinceCode": "14",
+    "name": "Kecamatan Gunung Toar",
+    "alias": "Gunung Toar"
+  },
+  {
+    "code": "14.01.013",
+    "districtCode": "013",
+    "regencyCode": "14.01",
+    "provinceCode": "14",
+    "name": "Kecamatan Pucuk Rantau",
+    "alias": "Pucuk Rantau"
+  },
+  {
+    "code": "14.01.020",
+    "districtCode": "020",
+    "regencyCode": "14.01",
+    "provinceCode": "14",
+    "name": "Kecamatan Singingi",
+    "alias": "Singingi"
+  },
+  {
+    "code": "14.01.021",
+    "districtCode": "021",
+    "regencyCode": "14.01",
+    "provinceCode": "14",
+    "name": "Kecamatan Singingi Hilir",
+    "alias": "Singingi Hilir"
+  },
+  {
+    "code": "14.01.030",
+    "districtCode": "030",
+    "regencyCode": "14.01",
+    "provinceCode": "14",
+    "name": "Kecamatan Kuantan Tengah",
+    "alias": "Kuantan Tengah"
+  },
+  {
+    "code": "14.01.031",
+    "districtCode": "031",
+    "regencyCode": "14.01",
+    "provinceCode": "14",
+    "name": "Kecamatan Sentajo Raya",
+    "alias": "Sentajo Raya"
+  },
+  {
+    "code": "14.01.040",
+    "districtCode": "040",
+    "regencyCode": "14.01",
+    "provinceCode": "14",
+    "name": "Kecamatan Benai",
+    "alias": "Benai"
+  },
+  {
+    "code": "14.01.050",
+    "districtCode": "050",
+    "regencyCode": "14.01",
+    "provinceCode": "14",
+    "name": "Kecamatan Kuantan Hilir",
+    "alias": "Kuantan Hilir"
+  },
+  {
+    "code": "14.01.051",
+    "districtCode": "051",
+    "regencyCode": "14.01",
+    "provinceCode": "14",
+    "name": "Kecamatan Pangean",
+    "alias": "Pangean"
+  },
+  {
+    "code": "14.01.052",
+    "districtCode": "052",
+    "regencyCode": "14.01",
+    "provinceCode": "14",
+    "name": "Kecamatan Logas Tanah Darat",
+    "alias": "Logas Tanah Darat"
+  },
+  {
+    "code": "14.01.053",
+    "districtCode": "053",
+    "regencyCode": "14.01",
+    "provinceCode": "14",
+    "name": "Kecamatan Kuantan Hilir Seberang",
+    "alias": "Kuantan Hilir Seberang"
+  },
+  {
+    "code": "14.01.060",
+    "districtCode": "060",
+    "regencyCode": "14.01",
+    "provinceCode": "14",
+    "name": "Kecamatan Cerenti",
+    "alias": "Cerenti"
+  },
+  {
+    "code": "14.01.061",
+    "districtCode": "061",
+    "regencyCode": "14.01",
+    "provinceCode": "14",
+    "name": "Kecamatan Inuman",
+    "alias": "Inuman"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "code": "62.02.061.001",
+    "villageCode": "001",
+    "districtCode": "62.02.061",
+    "name": "Mentaya Seberang",
+    "alias": "Mentaya Seberang"
+  },
+  {
+    "code": "62.02.061.002",
+    "villageCode": "002",
+    "districtCode": "62.02.061",
+    "name": "Batuah",
+    "alias": "Batuah"
+  },
+  {
+    "code": "62.02.061.003",
+    "villageCode": "003",
+    "districtCode": "62.02.061",
+    "name": "Terantang Hilir",
+    "alias": "Terantang Hilir"
+  },
+  {
+    "code": "62.02.061.004",
+    "villageCode": "004",
+    "districtCode": "62.02.061",
+    "name": "Terantang",
+    "alias": "Terantang"
+  },
+  {
+    "code": "62.02.061.005",
+    "villageCode": "005",
+    "districtCode": "62.02.061",
+    "name": "Ganepo",
+    "alias": "Ganepo"
+  },
+  {
+    "code": "62.02.061.006",
+    "villageCode": "006",
+    "districtCode": "62.02.061",
+    "name": "Seragam Jaya",
+    "alias": "Seragam Jaya"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "code": "32.08.060.001",
+    "villageCode": "001",
+    "districtCode": "32.08.060",
+    "name": "Citundun",
+    "alias": "Citundun"
+  },
+  {
+    "code": "32.08.060.006",
+    "villageCode": "006",
+    "districtCode": "32.08.060",
+    "name": "Sagaranten",
+    "alias": "Sagaranten"
+  },
+  {
+    "code": "32.08.060.007",
+    "villageCode": "007",
+    "districtCode": "32.08.060",
+    "name": "Sumberjaya",
+    "alias": "Sumberjaya"
+  },
+  {
+    "code": "32.08.060.008",
+    "villageCode": "008",
+    "districtCode": "32.08.060",
+    "name": "Lebakherang",
+    "alias": "Lebakherang"
+  },
+  {
+    "code": "32.08.060.009",
+    "villageCode": "009",
+    "districtCode": "32.08.060",
+    "name": "Cilayung",
+    "alias": "Cilayung"
+  },
+  {
+    "code": "32.08.060.010",
+    "villageCode": "010",
+    "districtCode": "32.08.060",
+    "name": "Ciwaru",
+    "alias": "Ciwaru"
+  },
+  {
+    "code": "32.08.060.011",
+    "villageCode": "011",
+    "districtCode": "32.08.060",
+    "name": "Lingga Jaya",
+    "alias": "Lingga Jaya"
+  },
+  {
+    "code": "32.08.060.013",
+    "villageCode": "013",
+    "districtCode": "32.08.060",
+    "name": "Karangbaru",
+    "alias": "Karangbaru"
+  },
+  {
+    "code": "32.08.060.014",
+    "villageCode": "014",
+    "districtCode": "32.08.060",
+    "name": "Garajati",
+    "alias": "Garajati"
+  },
+  {
+    "code": "32.08.060.016",
+    "villageCode": "016",
+    "districtCode": "32.08.060",
+    "name": "Baok",
+    "alias": "Baok"
+  },
+  {
+    "code": "32.08.060.017",
+    "villageCode": "017",
+    "districtCode": "32.08.060",
+    "name": "Andamui",
+    "alias": "Andamui"
+  },
+  {
+    "code": "32.08.060.018",
+    "villageCode": "018",
+    "districtCode": "32.08.060",
+    "name": "Citikur",
+    "alias": "Citikur"
+  }
+]

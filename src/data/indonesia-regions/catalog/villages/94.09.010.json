@@ -1,0 +1,86 @@
+[
+  {
+    "code": "94.09.010.005",
+    "villageCode": "005",
+    "districtCode": "94.09.010",
+    "name": "Namber",
+    "alias": "Namber"
+  },
+  {
+    "code": "94.09.010.006",
+    "villageCode": "006",
+    "districtCode": "94.09.010",
+    "name": "Baruki",
+    "alias": "Baruki"
+  },
+  {
+    "code": "94.09.010.007",
+    "villageCode": "007",
+    "districtCode": "94.09.010",
+    "name": "Warido",
+    "alias": "Warido"
+  },
+  {
+    "code": "94.09.010.008",
+    "villageCode": "008",
+    "districtCode": "94.09.010",
+    "name": "Kameri",
+    "alias": "Kameri"
+  },
+  {
+    "code": "94.09.010.014",
+    "villageCode": "014",
+    "districtCode": "94.09.010",
+    "name": "Subangungsi",
+    "alias": "Subangungsi"
+  },
+  {
+    "code": "94.09.010.015",
+    "villageCode": "015",
+    "districtCode": "94.09.010",
+    "name": "Serbin",
+    "alias": "Serbin"
+  },
+  {
+    "code": "94.09.010.016",
+    "villageCode": "016",
+    "districtCode": "94.09.010",
+    "name": "Kansai",
+    "alias": "Kansai"
+  },
+  {
+    "code": "94.09.010.017",
+    "villageCode": "017",
+    "districtCode": "94.09.010",
+    "name": "Pondori",
+    "alias": "Pondori"
+  },
+  {
+    "code": "94.09.010.019",
+    "villageCode": "019",
+    "districtCode": "94.09.010",
+    "name": "Rimba Raya",
+    "alias": "Rimba Raya"
+  },
+  {
+    "code": "94.09.010.020",
+    "villageCode": "020",
+    "districtCode": "94.09.010",
+    "name": "Semayen",
+    "alias": "Semayen"
+  },
+  {
+    "code": "94.09.010.021",
+    "villageCode": "021",
+    "districtCode": "94.09.010",
+    "name": "Mambondo Sawai",
+    "alias": "Mambondo Sawai"
+  },
+  {
+    "code": "94.09.010.022",
+    "villageCode": "022",
+    "districtCode": "94.09.010",
+    "name": "Pomdori Sup",
+    "alias": "Pomdori Sup"
+  }
+]

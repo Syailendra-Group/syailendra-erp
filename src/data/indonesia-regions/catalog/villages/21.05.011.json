@@ -1,0 +1,23 @@
+[
+  {
+    "code": "21.05.011.001",
+    "villageCode": "001",
+    "districtCode": "21.05.011",
+    "name": "Keramut",
+    "alias": "Keramut"
+  },
+  {
+    "code": "21.05.011.002",
+    "villageCode": "002",
+    "districtCode": "21.05.011",
+    "name": "Impol",
+    "alias": "Impol"
+  },
+  {
+    "code": "21.05.011.003",
+    "villageCode": "003",
+    "districtCode": "21.05.011",
+    "name": "Sunggak",
+    "alias": "Sunggak"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "code": "31.01.020.001",
+    "villageCode": "001",
+    "districtCode": "31.01.020",
+    "name": "Pulau Panggang",
+    "alias": "Pulau Panggang"
+  },
+  {
+    "code": "31.01.020.002",
+    "villageCode": "002",
+    "districtCode": "31.01.020",
+    "name": "Pulau Kelapa",
+    "alias": "Pulau Kelapa"
+  },
+  {
+    "code": "31.01.020.003",
+    "villageCode": "003",
+    "districtCode": "31.01.020",
+    "name": "Pulau Harapan",
+    "alias": "Pulau Harapan"
+  }
+]

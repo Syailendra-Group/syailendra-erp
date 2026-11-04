@@ -1,0 +1,128 @@
+[
+  {
+    "code": "17.01.040.002",
+    "villageCode": "002",
+    "districtCode": "17.01.040",
+    "name": "Ketaping",
+    "alias": "Ketaping"
+  },
+  {
+    "code": "17.01.040.003",
+    "villageCode": "003",
+    "districtCode": "17.01.040",
+    "name": "Terulung",
+    "alias": "Terulung"
+  },
+  {
+    "code": "17.01.040.004",
+    "villageCode": "004",
+    "districtCode": "17.01.040",
+    "name": "Manggul",
+    "alias": "Manggul"
+  },
+  {
+    "code": "17.01.040.005",
+    "villageCode": "005",
+    "districtCode": "17.01.040",
+    "name": "Tanjung Besar",
+    "alias": "Tanjung Besar"
+  },
+  {
+    "code": "17.01.040.030",
+    "villageCode": "030",
+    "districtCode": "17.01.040",
+    "name": "Lubuk Sirih Ulu",
+    "alias": "Lubuk Sirih Ulu"
+  },
+  {
+    "code": "17.01.040.031",
+    "villageCode": "031",
+    "districtCode": "17.01.040",
+    "name": "Lubuk Sirih Ilir",
+    "alias": "Lubuk Sirih Ilir"
+  },
+  {
+    "code": "17.01.040.032",
+    "villageCode": "032",
+    "districtCode": "17.01.040",
+    "name": "Tanjung Raman",
+    "alias": "Tanjung Raman"
+  },
+  {
+    "code": "17.01.040.033",
+    "villageCode": "033",
+    "districtCode": "17.01.040",
+    "name": "Kayu Kunyit",
+    "alias": "Kayu Kunyit"
+  },
+  {
+    "code": "17.01.040.050",
+    "villageCode": "050",
+    "districtCode": "17.01.040",
+    "name": "Kota Padang",
+    "alias": "Kota Padang"
+  },
+  {
+    "code": "17.01.040.051",
+    "villageCode": "051",
+    "districtCode": "17.01.040",
+    "name": "Mela O",
+    "alias": "Mela O"
+  },
+  {
+    "code": "17.01.040.052",
+    "villageCode": "052",
+    "districtCode": "17.01.040",
+    "name": "Gunung Sakti",
+    "alias": "Gunung Sakti"
+  },
+  {
+    "code": "17.01.040.053",
+    "villageCode": "053",
+    "districtCode": "17.01.040",
+    "name": "Jeranglah Rendah",
+    "alias": "Jeranglah Rendah"
+  },
+  {
+    "code": "17.01.040.054",
+    "villageCode": "054",
+    "districtCode": "17.01.040",
+    "name": "Jeranglah Tinggi",
+    "alias": "Jeranglah Tinggi"
+  },
+  {
+    "code": "17.01.040.055",
+    "villageCode": "055",
+    "districtCode": "17.01.040",
+    "name": "Kembang Ayun",
+    "alias": "Kembang Ayun"
+  },
+  {
+    "code": "17.01.040.056",
+    "villageCode": "056",
+    "districtCode": "17.01.040",
+    "name": "Tambangan",
+    "alias": "Tambangan"
+  },
+  {
+    "code": "17.01.040.057",
+    "villageCode": "057",
+    "districtCode": "17.01.040",
+    "name": "Gunung Kembang",
+    "alias": "Gunung Kembang"
+  },
+  {
+    "code": "17.01.040.058",
+    "villageCode": "058",
+    "districtCode": "17.01.040",
+    "name": "Padang Manis",
+    "alias": "Padang Manis"
+  },
+  {
+    "code": "17.01.040.059",
+    "villageCode": "059",
+    "districtCode": "17.01.040",
+    "name": "Padang Pandan",
+    "alias": "Padang Pandan"
+  }
+]

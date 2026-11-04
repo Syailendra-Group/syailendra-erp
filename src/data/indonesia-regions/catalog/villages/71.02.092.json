@@ -1,0 +1,114 @@
+[
+  {
+    "code": "71.02.092.003",
+    "villageCode": "003",
+    "districtCode": "71.02.092",
+    "name": "Tounelet",
+    "alias": "Tounelet"
+  },
+  {
+    "code": "71.02.092.004",
+    "villageCode": "004",
+    "districtCode": "71.02.092",
+    "name": "Koyawas",
+    "alias": "Koyawas"
+  },
+  {
+    "code": "71.02.092.005",
+    "villageCode": "005",
+    "districtCode": "71.02.092",
+    "name": "Walewangko",
+    "alias": "Walewangko"
+  },
+  {
+    "code": "71.02.092.006",
+    "villageCode": "006",
+    "districtCode": "71.02.092",
+    "name": "Noongan",
+    "alias": "Noongan"
+  },
+  {
+    "code": "71.02.092.007",
+    "villageCode": "007",
+    "districtCode": "71.02.092",
+    "name": "Raringis",
+    "alias": "Raringis"
+  },
+  {
+    "code": "71.02.092.008",
+    "villageCode": "008",
+    "districtCode": "71.02.092",
+    "name": "Ampreng",
+    "alias": "Ampreng"
+  },
+  {
+    "code": "71.02.092.009",
+    "villageCode": "009",
+    "districtCode": "71.02.092",
+    "name": "Paslaten",
+    "alias": "Paslaten"
+  },
+  {
+    "code": "71.02.092.010",
+    "villageCode": "010",
+    "districtCode": "71.02.092",
+    "name": "Kopiwangker",
+    "alias": "Kopiwangker"
+  },
+  {
+    "code": "71.02.092.011",
+    "villageCode": "011",
+    "districtCode": "71.02.092",
+    "name": "Lowian",
+    "alias": "Lowian"
+  },
+  {
+    "code": "71.02.092.014",
+    "villageCode": "014",
+    "districtCode": "71.02.092",
+    "name": "Tumaratas",
+    "alias": "Tumaratas"
+  },
+  {
+    "code": "71.02.092.015",
+    "villageCode": "015",
+    "districtCode": "71.02.092",
+    "name": "Tumaratas Dua",
+    "alias": "Tumaratas Dua"
+  },
+  {
+    "code": "71.02.092.016",
+    "villageCode": "016",
+    "districtCode": "71.02.092",
+    "name": "Noongan Dua",
+    "alias": "Noongan Dua"
+  },
+  {
+    "code": "71.02.092.017",
+    "villageCode": "017",
+    "districtCode": "71.02.092",
+    "name": "Noongan Tiga",
+    "alias": "Noongan Tiga"
+  },
+  {
+    "code": "71.02.092.018",
+    "villageCode": "018",
+    "districtCode": "71.02.092",
+    "name": "Raranon",
+    "alias": "Raranon"
+  },
+  {
+    "code": "71.02.092.019",
+    "villageCode": "019",
+    "districtCode": "71.02.092",
+    "name": "Raringis Selatan",
+    "alias": "Raringis Selatan"
+  },
+  {
+    "code": "71.02.092.020",
+    "villageCode": "020",
+    "districtCode": "71.02.092",
+    "name": "Raringis Utara",
+    "alias": "Raringis Utara"
+  }
+]

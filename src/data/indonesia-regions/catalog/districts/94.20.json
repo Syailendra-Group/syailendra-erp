@@ -1,0 +1,90 @@
+[
+  {
+    "code": "94.20.010",
+    "districtCode": "010",
+    "regencyCode": "94.20",
+    "provinceCode": "94",
+    "name": "Kecamatan Web",
+    "alias": "Web"
+  },
+  {
+    "code": "94.20.011",
+    "districtCode": "011",
+    "regencyCode": "94.20",
+    "provinceCode": "94",
+    "name": "Kecamatan Towe",
+    "alias": "Towe"
+  },
+  {
+    "code": "94.20.012",
+    "districtCode": "012",
+    "regencyCode": "94.20",
+    "provinceCode": "94",
+    "name": "Kecamatan Yaffi",
+    "alias": "Yaffi"
+  },
+  {
+    "code": "94.20.020",
+    "districtCode": "020",
+    "regencyCode": "94.20",
+    "provinceCode": "94",
+    "name": "Kecamatan Senggi",
+    "alias": "Senggi"
+  },
+  {
+    "code": "94.20.021",
+    "districtCode": "021",
+    "regencyCode": "94.20",
+    "provinceCode": "94",
+    "name": "Kecamatan Kaisenar",
+    "alias": "Kaisenar"
+  },
+  {
+    "code": "94.20.030",
+    "districtCode": "030",
+    "regencyCode": "94.20",
+    "provinceCode": "94",
+    "name": "Kecamatan Waris",
+    "alias": "Waris"
+  },
+  {
+    "code": "94.20.040",
+    "districtCode": "040",
+    "regencyCode": "94.20",
+    "provinceCode": "94",
+    "name": "Kecamatan Arso",
+    "alias": "Arso"
+  },
+  {
+    "code": "94.20.041",
+    "districtCode": "041",
+    "regencyCode": "94.20",
+    "provinceCode": "94",
+    "name": "Kecamatan Arso Timur",
+    "alias": "Arso Timur"
+  },
+  {
+    "code": "94.20.042",
+    "districtCode": "042",
+    "regencyCode": "94.20",
+    "provinceCode": "94",
+    "name": "Kecamatan Arso Barat",
+    "alias": "Arso Barat"
+  },
+  {
+    "code": "94.20.043",
+    "districtCode": "043",
+    "regencyCode": "94.20",
+    "provinceCode": "94",
+    "name": "Kecamatan Mannem",
+    "alias": "Mannem"
+  },
+  {
+    "code": "94.20.050",
+    "districtCode": "050",
+    "regencyCode": "94.20",
+    "provinceCode": "94",
+    "name": "Kecamatan Skanto",
+    "alias": "Skanto"
+  }
+]

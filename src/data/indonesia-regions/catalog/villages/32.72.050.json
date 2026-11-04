@@ -1,0 +1,44 @@
+[
+  {
+    "code": "32.72.050.001",
+    "villageCode": "001",
+    "districtCode": "32.72.050",
+    "name": "Gunung Parang",
+    "alias": "Gunung Parang"
+  },
+  {
+    "code": "32.72.050.002",
+    "villageCode": "002",
+    "districtCode": "32.72.050",
+    "name": "Kebonjati",
+    "alias": "Kebonjati"
+  },
+  {
+    "code": "32.72.050.003",
+    "villageCode": "003",
+    "districtCode": "32.72.050",
+    "name": "Cikole",
+    "alias": "Cikole"
+  },
+  {
+    "code": "32.72.050.004",
+    "villageCode": "004",
+    "districtCode": "32.72.050",
+    "name": "Selabatu",
+    "alias": "Selabatu"
+  },
+  {
+    "code": "32.72.050.005",
+    "villageCode": "005",
+    "districtCode": "32.72.050",
+    "name": "Cisarua",
+    "alias": "Cisarua"
+  },
+  {
+    "code": "32.72.050.006",
+    "villageCode": "006",
+    "districtCode": "32.72.050",
+    "name": "Subangjaya",
+    "alias": "Subangjaya"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "code": "36.03.132.001",
+    "villageCode": "001",
+    "districtCode": "36.03.132",
+    "name": "Kubang",
+    "alias": "Kubang"
+  },
+  {
+    "code": "36.03.132.002",
+    "villageCode": "002",
+    "districtCode": "36.03.132",
+    "name": "Parahu",
+    "alias": "Parahu"
+  },
+  {
+    "code": "36.03.132.003",
+    "villageCode": "003",
+    "districtCode": "36.03.132",
+    "name": "Suka Mulya",
+    "alias": "Suka Mulya"
+  },
+  {
+    "code": "36.03.132.004",
+    "villageCode": "004",
+    "districtCode": "36.03.132",
+    "name": "Kali Asin",
+    "alias": "Kali Asin"
+  },
+  {
+    "code": "36.03.132.005",
+    "villageCode": "005",
+    "districtCode": "36.03.132",
+    "name": "Merak",
+    "alias": "Merak"
+  },
+  {
+    "code": "36.03.132.006",
+    "villageCode": "006",
+    "districtCode": "36.03.132",
+    "name": "Bunar",
+    "alias": "Bunar"
+  },
+  {
+    "code": "36.03.132.007",
+    "villageCode": "007",
+    "districtCode": "36.03.132",
+    "name": "Benda",
+    "alias": "Benda"
+  },
+  {
+    "code": "36.03.132.008",
+    "villageCode": "008",
+    "districtCode": "36.03.132",
+    "name": "Buni Ayu",
+    "alias": "Buni Ayu"
+  }
+]

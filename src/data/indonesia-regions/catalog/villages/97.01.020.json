@@ -1,0 +1,58 @@
+[
+  {
+    "code": "97.01.020.001",
+    "villageCode": "001",
+    "districtCode": "97.01.020",
+    "name": "Gunia",
+    "alias": "Gunia"
+  },
+  {
+    "code": "97.01.020.002",
+    "villageCode": "002",
+    "districtCode": "97.01.020",
+    "name": "Kwegono",
+    "alias": "Kwegono"
+  },
+  {
+    "code": "97.01.020.003",
+    "villageCode": "003",
+    "districtCode": "97.01.020",
+    "name": "Yeretma",
+    "alias": "Yeretma"
+  },
+  {
+    "code": "97.01.020.004",
+    "villageCode": "004",
+    "districtCode": "97.01.020",
+    "name": "Anggulpa",
+    "alias": "Anggulpa"
+  },
+  {
+    "code": "97.01.020.005",
+    "villageCode": "005",
+    "districtCode": "97.01.020",
+    "name": "Moba Dua",
+    "alias": "Moba Dua"
+  },
+  {
+    "code": "97.01.020.006",
+    "villageCode": "006",
+    "districtCode": "97.01.020",
+    "name": "Langpang",
+    "alias": "Langpang"
+  },
+  {
+    "code": "97.01.020.007",
+    "villageCode": "007",
+    "districtCode": "97.01.020",
+    "name": "Pijama",
+    "alias": "Pijama"
+  },
+  {
+    "code": "97.01.020.008",
+    "villageCode": "008",
+    "districtCode": "97.01.020",
+    "name": "Moba",
+    "alias": "Moba"
+  }
+]

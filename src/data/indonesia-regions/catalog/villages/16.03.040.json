@@ -1,0 +1,51 @@
+[
+  {
+    "code": "16.03.040.001",
+    "villageCode": "001",
+    "districtCode": "16.03.040",
+    "name": "Darmo",
+    "alias": "Darmo"
+  },
+  {
+    "code": "16.03.040.002",
+    "villageCode": "002",
+    "districtCode": "16.03.040",
+    "name": "Keban Agung",
+    "alias": "Keban Agung"
+  },
+  {
+    "code": "16.03.040.003",
+    "villageCode": "003",
+    "districtCode": "16.03.040",
+    "name": "Tanjung Enim Selatan",
+    "alias": "Tanjung Enim Selatan"
+  },
+  {
+    "code": "16.03.040.004",
+    "villageCode": "004",
+    "districtCode": "16.03.040",
+    "name": "Tanjung Enim",
+    "alias": "Tanjung Enim"
+  },
+  {
+    "code": "16.03.040.005",
+    "villageCode": "005",
+    "districtCode": "16.03.040",
+    "name": "Pasar Tanjung Enim",
+    "alias": "Pasar Tanjung Enim"
+  },
+  {
+    "code": "16.03.040.006",
+    "villageCode": "006",
+    "districtCode": "16.03.040",
+    "name": "Tegal Rejo",
+    "alias": "Tegal Rejo"
+  },
+  {
+    "code": "16.03.040.007",
+    "villageCode": "007",
+    "districtCode": "16.03.040",
+    "name": "Lingga",
+    "alias": "Lingga"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "code": "21.01.024.002",
+    "villageCode": "002",
+    "districtCode": "21.01.024",
+    "name": "Lebuh",
+    "alias": "Lebuh"
+  },
+  {
+    "code": "21.01.024.003",
+    "villageCode": "003",
+    "districtCode": "21.01.024",
+    "name": "Penarah",
+    "alias": "Penarah"
+  },
+  {
+    "code": "21.01.024.004",
+    "villageCode": "004",
+    "districtCode": "21.01.024",
+    "name": "Sebele",
+    "alias": "Sebele"
+  },
+  {
+    "code": "21.01.024.008",
+    "villageCode": "008",
+    "districtCode": "21.01.024",
+    "name": "Sungai Asam",
+    "alias": "Sungai Asam"
+  },
+  {
+    "code": "21.01.024.009",
+    "villageCode": "009",
+    "districtCode": "21.01.024",
+    "name": "Degong",
+    "alias": "Degong"
+  },
+  {
+    "code": "21.01.024.010",
+    "villageCode": "010",
+    "districtCode": "21.01.024",
+    "name": "Tebias",
+    "alias": "Tebias"
+  }
+]

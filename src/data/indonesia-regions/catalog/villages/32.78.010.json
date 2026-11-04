@@ -1,0 +1,72 @@
+[
+  {
+    "code": "32.78.010.001",
+    "villageCode": "001",
+    "districtCode": "32.78.010",
+    "name": "Leuwiliang",
+    "alias": "Leuwiliang"
+  },
+  {
+    "code": "32.78.010.002",
+    "villageCode": "002",
+    "districtCode": "32.78.010",
+    "name": "Urug",
+    "alias": "Urug"
+  },
+  {
+    "code": "32.78.010.003",
+    "villageCode": "003",
+    "districtCode": "32.78.010",
+    "name": "Gunungtandala",
+    "alias": "Gunungtandala"
+  },
+  {
+    "code": "32.78.010.004",
+    "villageCode": "004",
+    "districtCode": "32.78.010",
+    "name": "Gununggede",
+    "alias": "Gununggede"
+  },
+  {
+    "code": "32.78.010.005",
+    "villageCode": "005",
+    "districtCode": "32.78.010",
+    "name": "Talagasari",
+    "alias": "Talagasari"
+  },
+  {
+    "code": "32.78.010.006",
+    "villageCode": "006",
+    "districtCode": "32.78.010",
+    "name": "Tanjung",
+    "alias": "Tanjung"
+  },
+  {
+    "code": "32.78.010.007",
+    "villageCode": "007",
+    "districtCode": "32.78.010",
+    "name": "Cibeuti",
+    "alias": "Cibeuti"
+  },
+  {
+    "code": "32.78.010.008",
+    "villageCode": "008",
+    "districtCode": "32.78.010",
+    "name": "Karanganyar",
+    "alias": "Karanganyar"
+  },
+  {
+    "code": "32.78.010.009",
+    "villageCode": "009",
+    "districtCode": "32.78.010",
+    "name": "Cilamajang",
+    "alias": "Cilamajang"
+  },
+  {
+    "code": "32.78.010.010",
+    "villageCode": "010",
+    "districtCode": "32.78.010",
+    "name": "Karsamenak",
+    "alias": "Karsamenak"
+  }
+]

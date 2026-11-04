@@ -1,0 +1,72 @@
+[
+  {
+    "code": "36.01.131.001",
+    "villageCode": "001",
+    "districtCode": "36.01.131",
+    "name": "Karyautama",
+    "alias": "Karyautama"
+  },
+  {
+    "code": "36.01.131.002",
+    "villageCode": "002",
+    "districtCode": "36.01.131",
+    "name": "Tegal",
+    "alias": "Tegal"
+  },
+  {
+    "code": "36.01.131.003",
+    "villageCode": "003",
+    "districtCode": "36.01.131",
+    "name": "Cipicung",
+    "alias": "Cipicung"
+  },
+  {
+    "code": "36.01.131.004",
+    "villageCode": "004",
+    "districtCode": "36.01.131",
+    "name": "Karyasari",
+    "alias": "Karyasari"
+  },
+  {
+    "code": "36.01.131.005",
+    "villageCode": "005",
+    "districtCode": "36.01.131",
+    "name": "Dahu",
+    "alias": "Dahu"
+  },
+  {
+    "code": "36.01.131.006",
+    "villageCode": "006",
+    "districtCode": "36.01.131",
+    "name": "Babakanlor",
+    "alias": "Babakanlor"
+  },
+  {
+    "code": "36.01.131.007",
+    "villageCode": "007",
+    "districtCode": "36.01.131",
+    "name": "Mekarjaya",
+    "alias": "Mekarjaya"
+  },
+  {
+    "code": "36.01.131.008",
+    "villageCode": "008",
+    "districtCode": "36.01.131",
+    "name": "Padahayu",
+    "alias": "Padahayu"
+  },
+  {
+    "code": "36.01.131.009",
+    "villageCode": "009",
+    "districtCode": "36.01.131",
+    "name": "Bangkuyung",
+    "alias": "Bangkuyung"
+  },
+  {
+    "code": "36.01.131.010",
+    "villageCode": "010",
+    "districtCode": "36.01.131",
+    "name": "Cening",
+    "alias": "Cening"
+  }
+]

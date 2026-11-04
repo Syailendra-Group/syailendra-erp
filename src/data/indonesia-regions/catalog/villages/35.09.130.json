@@ -1,0 +1,58 @@
+[
+  {
+    "code": "35.09.130.001",
+    "villageCode": "001",
+    "districtCode": "35.09.130",
+    "name": "Karang Duren",
+    "alias": "Karang Duren"
+  },
+  {
+    "code": "35.09.130.002",
+    "villageCode": "002",
+    "districtCode": "35.09.130",
+    "name": "Karang Semanding",
+    "alias": "Karang Semanding"
+  },
+  {
+    "code": "35.09.130.003",
+    "villageCode": "003",
+    "districtCode": "35.09.130",
+    "name": "Tutul",
+    "alias": "Tutul"
+  },
+  {
+    "code": "35.09.130.004",
+    "villageCode": "004",
+    "districtCode": "35.09.130",
+    "name": "Balung Kulon",
+    "alias": "Balung Kulon"
+  },
+  {
+    "code": "35.09.130.005",
+    "villageCode": "005",
+    "districtCode": "35.09.130",
+    "name": "Balung Kidul",
+    "alias": "Balung Kidul"
+  },
+  {
+    "code": "35.09.130.006",
+    "villageCode": "006",
+    "districtCode": "35.09.130",
+    "name": "Balung Lor",
+    "alias": "Balung Lor"
+  },
+  {
+    "code": "35.09.130.007",
+    "villageCode": "007",
+    "districtCode": "35.09.130",
+    "name": "Gumelar",
+    "alias": "Gumelar"
+  },
+  {
+    "code": "35.09.130.008",
+    "villageCode": "008",
+    "districtCode": "35.09.130",
+    "name": "Curahlele",
+    "alias": "Curahlele"
+  }
+]

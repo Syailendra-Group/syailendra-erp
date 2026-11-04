@@ -1,0 +1,72 @@
+[
+  {
+    "code": "81.07.012.001",
+    "villageCode": "001",
+    "districtCode": "81.07.012",
+    "name": "Kilwouw",
+    "alias": "Kilwouw"
+  },
+  {
+    "code": "81.07.012.002",
+    "villageCode": "002",
+    "districtCode": "81.07.012",
+    "name": "Mamur",
+    "alias": "Mamur"
+  },
+  {
+    "code": "81.07.012.003",
+    "villageCode": "003",
+    "districtCode": "81.07.012",
+    "name": "Kampung Baru",
+    "alias": "Kampung Baru"
+  },
+  {
+    "code": "81.07.012.004",
+    "villageCode": "004",
+    "districtCode": "81.07.012",
+    "name": "Kampung Tengah Wermaf",
+    "alias": "Kampung Tengah Wermaf"
+  },
+  {
+    "code": "81.07.012.005",
+    "villageCode": "005",
+    "districtCode": "81.07.012",
+    "name": "Kartutin Kartenga",
+    "alias": "Kartutin Kartenga"
+  },
+  {
+    "code": "81.07.012.006",
+    "villageCode": "006",
+    "districtCode": "81.07.012",
+    "name": "Karlokin",
+    "alias": "Karlokin"
+  },
+  {
+    "code": "81.07.012.007",
+    "villageCode": "007",
+    "districtCode": "81.07.012",
+    "name": "Ker-Ker",
+    "alias": "Ker-Ker"
+  },
+  {
+    "code": "81.07.012.008",
+    "villageCode": "008",
+    "districtCode": "81.07.012",
+    "name": "Lapang Kampung Jawa",
+    "alias": "Lapang Kampung Jawa"
+  },
+  {
+    "code": "81.07.012.009",
+    "villageCode": "009",
+    "districtCode": "81.07.012",
+    "name": "Teor",
+    "alias": "Teor"
+  },
+  {
+    "code": "81.07.012.010",
+    "villageCode": "010",
+    "districtCode": "81.07.012",
+    "name": "Duryar Rumoy",
+    "alias": "Duryar Rumoy"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "code": "13.05.081.001",
+    "villageCode": "001",
+    "districtCode": "13.05.081",
+    "name": "Tapi Selo",
+    "alias": "Tapi Selo"
+  },
+  {
+    "code": "13.05.081.002",
+    "villageCode": "002",
+    "districtCode": "13.05.081",
+    "name": "Lubuak Jantan",
+    "alias": "Lubuak Jantan"
+  },
+  {
+    "code": "13.05.081.003",
+    "villageCode": "003",
+    "districtCode": "13.05.081",
+    "name": "Balai Tangah",
+    "alias": "Balai Tangah"
+  },
+  {
+    "code": "13.05.081.004",
+    "villageCode": "004",
+    "districtCode": "13.05.081",
+    "name": "Batu Bulek",
+    "alias": "Batu Bulek"
+  },
+  {
+    "code": "13.05.081.005",
+    "villageCode": "005",
+    "districtCode": "13.05.081",
+    "name": "Tanjuang Bonai",
+    "alias": "Tanjuang Bonai"
+  }
+]

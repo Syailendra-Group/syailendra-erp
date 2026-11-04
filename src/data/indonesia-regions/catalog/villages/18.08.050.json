@@ -1,0 +1,65 @@
+[
+  {
+    "code": "18.08.050.001",
+    "villageCode": "001",
+    "districtCode": "18.08.050",
+    "name": "Bujung Tenuk",
+    "alias": "Bujung Tenuk"
+  },
+  {
+    "code": "18.08.050.002",
+    "villageCode": "002",
+    "districtCode": "18.08.050",
+    "name": "Astra Ksetra",
+    "alias": "Astra Ksetra"
+  },
+  {
+    "code": "18.08.050.005",
+    "villageCode": "005",
+    "districtCode": "18.08.050",
+    "name": "Ujung Gunung Ilir",
+    "alias": "Ujung Gunung Ilir"
+  },
+  {
+    "code": "18.08.050.012",
+    "villageCode": "012",
+    "districtCode": "18.08.050",
+    "name": "Menggala Selatan",
+    "alias": "Menggala Selatan"
+  },
+  {
+    "code": "18.08.050.013",
+    "villageCode": "013",
+    "districtCode": "18.08.050",
+    "name": "Ujung Gunung",
+    "alias": "Ujung Gunung"
+  },
+  {
+    "code": "18.08.050.014",
+    "villageCode": "014",
+    "districtCode": "18.08.050",
+    "name": "Menggala Tengah",
+    "alias": "Menggala Tengah"
+  },
+  {
+    "code": "18.08.050.015",
+    "villageCode": "015",
+    "districtCode": "18.08.050",
+    "name": "Menggala Kota",
+    "alias": "Menggala Kota"
+  },
+  {
+    "code": "18.08.050.016",
+    "villageCode": "016",
+    "districtCode": "18.08.050",
+    "name": "Kagungan Rahayu",
+    "alias": "Kagungan Rahayu"
+  },
+  {
+    "code": "18.08.050.017",
+    "villageCode": "017",
+    "districtCode": "18.08.050",
+    "name": "Tiuh Tohou",
+    "alias": "Tiuh Tohou"
+  }
+]

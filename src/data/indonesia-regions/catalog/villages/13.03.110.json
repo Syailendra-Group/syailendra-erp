@@ -1,0 +1,58 @@
+[
+  {
+    "code": "13.03.110.001",
+    "villageCode": "001",
+    "districtCode": "13.03.110",
+    "name": "Gauang",
+    "alias": "Gauang"
+  },
+  {
+    "code": "13.03.110.002",
+    "villageCode": "002",
+    "districtCode": "13.03.110",
+    "name": "Panyakalan",
+    "alias": "Panyakalan"
+  },
+  {
+    "code": "13.03.110.003",
+    "villageCode": "003",
+    "districtCode": "13.03.110",
+    "name": "Saok Laweh",
+    "alias": "Saok Laweh"
+  },
+  {
+    "code": "13.03.110.004",
+    "villageCode": "004",
+    "districtCode": "13.03.110",
+    "name": "Tanjuang Bingkuang",
+    "alias": "Tanjuang Bingkuang"
+  },
+  {
+    "code": "13.03.110.005",
+    "villageCode": "005",
+    "districtCode": "13.03.110",
+    "name": "Gantuang Ciri",
+    "alias": "Gantuang Ciri"
+  },
+  {
+    "code": "13.03.110.006",
+    "villageCode": "006",
+    "districtCode": "13.03.110",
+    "name": "Koto Hilalang",
+    "alias": "Koto Hilalang"
+  },
+  {
+    "code": "13.03.110.007",
+    "villageCode": "007",
+    "districtCode": "13.03.110",
+    "name": "Selayo",
+    "alias": "Selayo"
+  },
+  {
+    "code": "13.03.110.008",
+    "villageCode": "008",
+    "districtCode": "13.03.110",
+    "name": "Koto Baru",
+    "alias": "Koto Baru"
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "code": "33.09.130.001",
+    "villageCode": "001",
+    "districtCode": "33.09.130",
+    "name": "Pelem",
+    "alias": "Pelem"
+  },
+  {
+    "code": "33.09.130.002",
+    "villageCode": "002",
+    "districtCode": "33.09.130",
+    "name": "Bendungan",
+    "alias": "Bendungan"
+  },
+  {
+    "code": "33.09.130.003",
+    "villageCode": "003",
+    "districtCode": "33.09.130",
+    "name": "Temon",
+    "alias": "Temon"
+  },
+  {
+    "code": "33.09.130.004",
+    "villageCode": "004",
+    "districtCode": "33.09.130",
+    "name": "Teter",
+    "alias": "Teter"
+  },
+  {
+    "code": "33.09.130.005",
+    "villageCode": "005",
+    "districtCode": "33.09.130",
+    "name": "Simo",
+    "alias": "Simo"
+  },
+  {
+    "code": "33.09.130.006",
+    "villageCode": "006",
+    "districtCode": "33.09.130",
+    "name": "Walen",
+    "alias": "Walen"
+  },
+  {
+    "code": "33.09.130.007",
+    "villageCode": "007",
+    "districtCode": "33.09.130",
+    "name": "Pentur",
+    "alias": "Pentur"
+  },
+  {
+    "code": "33.09.130.008",
+    "villageCode": "008",
+    "districtCode": "33.09.130",
+    "name": "Gunung",
+    "alias": "Gunung"
+  },
+  {
+    "code": "33.09.130.009",
+    "villageCode": "009",
+    "districtCode": "33.09.130",
+    "name": "Talakbroto",
+    "alias": "Talakbroto"
+  },
+  {
+    "code": "33.09.130.010",
+    "villageCode": "010",
+    "districtCode": "33.09.130",
+    "name": "Kedunglengkong",
+    "alias": "Kedunglengkong"
+  },
+  {
+    "code": "33.09.130.011",
+    "villageCode": "011",
+    "districtCode": "33.09.130",
+    "name": "Blagung",
+    "alias": "Blagung"
+  },
+  {
+    "code": "33.09.130.012",
+    "villageCode": "012",
+    "districtCode": "33.09.130",
+    "name": "Sumber",
+    "alias": "Sumber"
+  },
+  {
+    "code": "33.09.130.013",
+    "villageCode": "013",
+    "districtCode": "33.09.130",
+    "name": "Wates",
+    "alias": "Wates"
+  }
+]

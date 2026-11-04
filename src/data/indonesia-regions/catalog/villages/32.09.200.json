@@ -1,0 +1,79 @@
+[
+  {
+    "code": "32.09.200.001",
+    "villageCode": "001",
+    "districtCode": "32.09.200",
+    "name": "Sende",
+    "alias": "Sende"
+  },
+  {
+    "code": "32.09.200.002",
+    "villageCode": "002",
+    "districtCode": "32.09.200",
+    "name": "Jungjang Wetan",
+    "alias": "Jungjang Wetan"
+  },
+  {
+    "code": "32.09.200.010",
+    "villageCode": "010",
+    "districtCode": "32.09.200",
+    "name": "Jungjang",
+    "alias": "Jungjang"
+  },
+  {
+    "code": "32.09.200.011",
+    "villageCode": "011",
+    "districtCode": "32.09.200",
+    "name": "Arjawinangun",
+    "alias": "Arjawinangun"
+  },
+  {
+    "code": "32.09.200.012",
+    "villageCode": "012",
+    "districtCode": "32.09.200",
+    "name": "Tegalgubug",
+    "alias": "Tegalgubug"
+  },
+  {
+    "code": "32.09.200.013",
+    "villageCode": "013",
+    "districtCode": "32.09.200",
+    "name": "Rawagatel",
+    "alias": "Rawagatel"
+  },
+  {
+    "code": "32.09.200.014",
+    "villageCode": "014",
+    "districtCode": "32.09.200",
+    "name": "Tegalgubug Lor",
+    "alias": "Tegalgubug Lor"
+  },
+  {
+    "code": "32.09.200.015",
+    "villageCode": "015",
+    "districtCode": "32.09.200",
+    "name": "Karangsambung",
+    "alias": "Karangsambung"
+  },
+  {
+    "code": "32.09.200.016",
+    "villageCode": "016",
+    "districtCode": "32.09.200",
+    "name": "Bulak",
+    "alias": "Bulak"
+  },
+  {
+    "code": "32.09.200.017",
+    "villageCode": "017",
+    "districtCode": "32.09.200",
+    "name": "Geyongan",
+    "alias": "Geyongan"
+  },
+  {
+    "code": "32.09.200.018",
+    "villageCode": "018",
+    "districtCode": "32.09.200",
+    "name": "Kebonturi",
+    "alias": "Kebonturi"
+  }
+]

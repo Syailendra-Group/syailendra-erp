@@ -1,0 +1,122 @@
+[
+  {
+    "code": "12.03.010",
+    "districtCode": "010",
+    "regencyCode": "12.03",
+    "provinceCode": "12",
+    "name": "Kecamatan Batang Angkola",
+    "alias": "Batang Angkola"
+  },
+  {
+    "code": "12.03.011",
+    "districtCode": "011",
+    "regencyCode": "12.03",
+    "provinceCode": "12",
+    "name": "Kecamatan Sayur Matinggi",
+    "alias": "Sayur Matinggi"
+  },
+  {
+    "code": "12.03.012",
+    "districtCode": "012",
+    "regencyCode": "12.03",
+    "provinceCode": "12",
+    "name": "Kecamatan Tano Tombangan Angkola",
+    "alias": "Tano Tombangan Angkola"
+  },
+  {
+    "code": "12.03.013",
+    "districtCode": "013",
+    "regencyCode": "12.03",
+    "provinceCode": "12",
+    "name": "Kecamatan Angkola Muara Tais",
+    "alias": "Angkola Muara Tais"
+  },
+  {
+    "code": "12.03.070",
+    "districtCode": "070",
+    "regencyCode": "12.03",
+    "provinceCode": "12",
+    "name": "Kecamatan Angkola Timur",
+    "alias": "Angkola Timur"
+  },
+  {
+    "code": "12.03.080",
+    "districtCode": "080",
+    "regencyCode": "12.03",
+    "provinceCode": "12",
+    "name": "Kecamatan Angkola Selatan",
+    "alias": "Angkola Selatan"
+  },
+  {
+    "code": "12.03.090",
+    "districtCode": "090",
+    "regencyCode": "12.03",
+    "provinceCode": "12",
+    "name": "Kecamatan Angkola  Barat",
+    "alias": "Angkola  Barat"
+  },
+  {
+    "code": "12.03.091",
+    "districtCode": "091",
+    "regencyCode": "12.03",
+    "provinceCode": "12",
+    "name": "Kecamatan Angkola Sangkunur",
+    "alias": "Angkola Sangkunur"
+  },
+  {
+    "code": "12.03.100",
+    "districtCode": "100",
+    "regencyCode": "12.03",
+    "provinceCode": "12",
+    "name": "Kecamatan Batang Toru",
+    "alias": "Batang Toru"
+  },
+  {
+    "code": "12.03.101",
+    "districtCode": "101",
+    "regencyCode": "12.03",
+    "provinceCode": "12",
+    "name": "Kecamatan Marancar",
+    "alias": "Marancar"
+  },
+  {
+    "code": "12.03.102",
+    "districtCode": "102",
+    "regencyCode": "12.03",
+    "provinceCode": "12",
+    "name": "Kecamatan Muara Batang Toru",
+    "alias": "Muara Batang Toru"
+  },
+  {
+    "code": "12.03.110",
+    "districtCode": "110",
+    "regencyCode": "12.03",
+    "provinceCode": "12",
+    "name": "Kecamatan Sipirok",
+    "alias": "Sipirok"
+  },
+  {
+    "code": "12.03.120",
+    "districtCode": "120",
+    "regencyCode": "12.03",
+    "provinceCode": "12",
+    "name": "Kecamatan Arse",
+    "alias": "Arse"
+  },
+  {
+    "code": "12.03.160",
+    "districtCode": "160",
+    "regencyCode": "12.03",
+    "provinceCode": "12",
+    "name": "Kecamatan Saipar Dolok Hole",
+    "alias": "Saipar Dolok Hole"
+  },
+  {
+    "code": "12.03.161",
+    "districtCode": "161",
+    "regencyCode": "12.03",
+    "provinceCode": "12",
+    "name": "Kecamatan Aek Bilah",
+    "alias": "Aek Bilah"
+  }
+]

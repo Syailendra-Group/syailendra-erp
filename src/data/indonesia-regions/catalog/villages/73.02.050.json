@@ -1,0 +1,58 @@
+[
+  {
+    "code": "73.02.050.001",
+    "villageCode": "001",
+    "districtCode": "73.02.050",
+    "name": "Karassing",
+    "alias": "Karassing"
+  },
+  {
+    "code": "73.02.050.002",
+    "villageCode": "002",
+    "districtCode": "73.02.050",
+    "name": "Borong",
+    "alias": "Borong"
+  },
+  {
+    "code": "73.02.050.003",
+    "villageCode": "003",
+    "districtCode": "73.02.050",
+    "name": "Bonto Kamase",
+    "alias": "Bonto Kamase"
+  },
+  {
+    "code": "73.02.050.004",
+    "villageCode": "004",
+    "districtCode": "73.02.050",
+    "name": "Tanuntung",
+    "alias": "Tanuntung"
+  },
+  {
+    "code": "73.02.050.005",
+    "villageCode": "005",
+    "districtCode": "73.02.050",
+    "name": "Singa",
+    "alias": "Singa"
+  },
+  {
+    "code": "73.02.050.006",
+    "villageCode": "006",
+    "districtCode": "73.02.050",
+    "name": "Tugondeng",
+    "alias": "Tugondeng"
+  },
+  {
+    "code": "73.02.050.007",
+    "villageCode": "007",
+    "districtCode": "73.02.050",
+    "name": "Pataro",
+    "alias": "Pataro"
+  },
+  {
+    "code": "73.02.050.008",
+    "villageCode": "008",
+    "districtCode": "73.02.050",
+    "name": "Gunturu",
+    "alias": "Gunturu"
+  }
+]

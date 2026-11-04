@@ -1,0 +1,282 @@
+[
+  {
+    "code": "12.14.010",
+    "districtCode": "010",
+    "regencyCode": "12.14",
+    "provinceCode": "12",
+    "name": "Kecamatan Hibala",
+    "alias": "Hibala"
+  },
+  {
+    "code": "12.14.011",
+    "districtCode": "011",
+    "regencyCode": "12.14",
+    "provinceCode": "12",
+    "name": "Kecamatan Tanah Masa",
+    "alias": "Tanah Masa"
+  },
+  {
+    "code": "12.14.020",
+    "districtCode": "020",
+    "regencyCode": "12.14",
+    "provinceCode": "12",
+    "name": "Kecamatan Pulau-Pulau Batu",
+    "alias": "Pulau-Pulau Batu"
+  },
+  {
+    "code": "12.14.021",
+    "districtCode": "021",
+    "regencyCode": "12.14",
+    "provinceCode": "12",
+    "name": "Kecamatan Pulau-Pulau Batu Timur",
+    "alias": "Pulau-Pulau Batu Timur"
+  },
+  {
+    "code": "12.14.022",
+    "districtCode": "022",
+    "regencyCode": "12.14",
+    "provinceCode": "12",
+    "name": "Kecamatan Simuk",
+    "alias": "Simuk"
+  },
+  {
+    "code": "12.14.023",
+    "districtCode": "023",
+    "regencyCode": "12.14",
+    "provinceCode": "12",
+    "name": "Kecamatan Pulau-Pulau Batu Barat",
+    "alias": "Pulau-Pulau Batu Barat"
+  },
+  {
+    "code": "12.14.024",
+    "districtCode": "024",
+    "regencyCode": "12.14",
+    "provinceCode": "12",
+    "name": "Kecamatan Pulau-Pulau Batu Utara",
+    "alias": "Pulau-Pulau Batu Utara"
+  },
+  {
+    "code": "12.14.030",
+    "districtCode": "030",
+    "regencyCode": "12.14",
+    "provinceCode": "12",
+    "name": "Kecamatan Teluk Dalam",
+    "alias": "Teluk Dalam"
+  },
+  {
+    "code": "12.14.031",
+    "districtCode": "031",
+    "regencyCode": "12.14",
+    "provinceCode": "12",
+    "name": "Kecamatan Fanayama",
+    "alias": "Fanayama"
+  },
+  {
+    "code": "12.14.032",
+    "districtCode": "032",
+    "regencyCode": "12.14",
+    "provinceCode": "12",
+    "name": "Kecamatan Toma",
+    "alias": "Toma"
+  },
+  {
+    "code": "12.14.033",
+    "districtCode": "033",
+    "regencyCode": "12.14",
+    "provinceCode": "12",
+    "name": "Kecamatan Maniamolo",
+    "alias": "Maniamolo"
+  },
+  {
+    "code": "12.14.034",
+    "districtCode": "034",
+    "regencyCode": "12.14",
+    "provinceCode": "12",
+    "name": "Kecamatan Mazino",
+    "alias": "Mazino"
+  },
+  {
+    "code": "12.14.035",
+    "districtCode": "035",
+    "regencyCode": "12.14",
+    "provinceCode": "12",
+    "name": "Kecamatan Luahagundre Maniamolo",
+    "alias": "Luahagundre Maniamolo"
+  },
+  {
+    "code": "12.14.036",
+    "districtCode": "036",
+    "regencyCode": "12.14",
+    "provinceCode": "12",
+    "name": "Kecamatan Onolalu",
+    "alias": "Onolalu"
+  },
+  {
+    "code": "12.14.040",
+    "districtCode": "040",
+    "regencyCode": "12.14",
+    "provinceCode": "12",
+    "name": "Kecamatan Amandraya",
+    "alias": "Amandraya"
+  },
+  {
+    "code": "12.14.041",
+    "districtCode": "041",
+    "regencyCode": "12.14",
+    "provinceCode": "12",
+    "name": "Kecamatan Aramo",
+    "alias": "Aramo"
+  },
+  {
+    "code": "12.14.042",
+    "districtCode": "042",
+    "regencyCode": "12.14",
+    "provinceCode": "12",
+    "name": "Kecamatan Ulususua",
+    "alias": "Ulususua"
+  },
+  {
+    "code": "12.14.050",
+    "districtCode": "050",
+    "regencyCode": "12.14",
+    "provinceCode": "12",
+    "name": "Kecamatan Lahusa",
+    "alias": "Lahusa"
+  },
+  {
+    "code": "12.14.051",
+    "districtCode": "051",
+    "regencyCode": "12.14",
+    "provinceCode": "12",
+    "name": "Kecamatan Siduaori",
+    "alias": "Siduaori"
+  },
+  {
+    "code": "12.14.052",
+    "districtCode": "052",
+    "regencyCode": "12.14",
+    "provinceCode": "12",
+    "name": "Kecamatan Somambawa",
+    "alias": "Somambawa"
+  },
+  {
+    "code": "12.14.060",
+    "districtCode": "060",
+    "regencyCode": "12.14",
+    "provinceCode": "12",
+    "name": "Kecamatan Gomo",
+    "alias": "Gomo"
+  },
+  {
+    "code": "12.14.061",
+    "districtCode": "061",
+    "regencyCode": "12.14",
+    "provinceCode": "12",
+    "name": "Kecamatan Susua",
+    "alias": "Susua"
+  },
+  {
+    "code": "12.14.062",
+    "districtCode": "062",
+    "regencyCode": "12.14",
+    "provinceCode": "12",
+    "name": "Kecamatan Mazo",
+    "alias": "Mazo"
+  },
+  {
+    "code": "12.14.063",
+    "districtCode": "063",
+    "regencyCode": "12.14",
+    "provinceCode": "12",
+    "name": "Kecamatan Umbunasi",
+    "alias": "Umbunasi"
+  },
+  {
+    "code": "12.14.064",
+    "districtCode": "064",
+    "regencyCode": "12.14",
+    "provinceCode": "12",
+    "name": "Kecamatan Idanotae",
+    "alias": "Idanotae"
+  },
+  {
+    "code": "12.14.065",
+    "districtCode": "065",
+    "regencyCode": "12.14",
+    "provinceCode": "12",
+    "name": "Kecamatan Ulu Idanotae",
+    "alias": "Ulu Idanotae"
+  },
+  {
+    "code": "12.14.066",
+    "districtCode": "066",
+    "regencyCode": "12.14",
+    "provinceCode": "12",
+    "name": "Kecamatan Boronadu",
+    "alias": "Boronadu"
+  },
+  {
+    "code": "12.14.070",
+    "districtCode": "070",
+    "regencyCode": "12.14",
+    "provinceCode": "12",
+    "name": "Kecamatan Lolomatua",
+    "alias": "Lolomatua"
+  },
+  {
+    "code": "12.14.071",
+    "districtCode": "071",
+    "regencyCode": "12.14",
+    "provinceCode": "12",
+    "name": "Kecamatan Ulunoyo",
+    "alias": "Ulunoyo"
+  },
+  {
+    "code": "12.14.072",
+    "districtCode": "072",
+    "regencyCode": "12.14",
+    "provinceCode": "12",
+    "name": "Kecamatan Huruna",
+    "alias": "Huruna"
+  },
+  {
+    "code": "12.14.080",
+    "districtCode": "080",
+    "regencyCode": "12.14",
+    "provinceCode": "12",
+    "name": "Kecamatan Lolowa'U",
+    "alias": "Lolowa'U"
+  },
+  {
+    "code": "12.14.081",
+    "districtCode": "081",
+    "regencyCode": "12.14",
+    "provinceCode": "12",
+    "name": "Kecamatan Hilimegai",
+    "alias": "Hilimegai"
+  },
+  {
+    "code": "12.14.082",
+    "districtCode": "082",
+    "regencyCode": "12.14",
+    "provinceCode": "12",
+    "name": "Kecamatan Oou",
+    "alias": "Oou"
+  },
+  {
+    "code": "12.14.083",
+    "districtCode": "083",
+    "regencyCode": "12.14",
+    "provinceCode": "12",
+    "name": "Kecamatan Onohazumba",
+    "alias": "Onohazumba"
+  },
+  {
+    "code": "12.14.084",
+    "districtCode": "084",
+    "regencyCode": "12.14",
+    "provinceCode": "12",
+    "name": "Kecamatan Hilisalawaahe",
+    "alias": "Hilisalawaahe"
+  }
+]

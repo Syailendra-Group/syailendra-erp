@@ -1,0 +1,114 @@
+[
+  {
+    "code": "13.03.040",
+    "districtCode": "040",
+    "regencyCode": "13.03",
+    "provinceCode": "13",
+    "name": "Kecamatan Pantai Cermin",
+    "alias": "Pantai Cermin"
+  },
+  {
+    "code": "13.03.050",
+    "districtCode": "050",
+    "regencyCode": "13.03",
+    "provinceCode": "13",
+    "name": "Kecamatan Lembah Gumanti",
+    "alias": "Lembah Gumanti"
+  },
+  {
+    "code": "13.03.051",
+    "districtCode": "051",
+    "regencyCode": "13.03",
+    "provinceCode": "13",
+    "name": "Kecamatan Hiliran Gumanti",
+    "alias": "Hiliran Gumanti"
+  },
+  {
+    "code": "13.03.060",
+    "districtCode": "060",
+    "regencyCode": "13.03",
+    "provinceCode": "13",
+    "name": "Kecamatan Payung Sekaki",
+    "alias": "Payung Sekaki"
+  },
+  {
+    "code": "13.03.061",
+    "districtCode": "061",
+    "regencyCode": "13.03",
+    "provinceCode": "13",
+    "name": "Kecamatan Tigo Lurah",
+    "alias": "Tigo Lurah"
+  },
+  {
+    "code": "13.03.070",
+    "districtCode": "070",
+    "regencyCode": "13.03",
+    "provinceCode": "13",
+    "name": "Kecamatan Lembang Jaya",
+    "alias": "Lembang Jaya"
+  },
+  {
+    "code": "13.03.071",
+    "districtCode": "071",
+    "regencyCode": "13.03",
+    "provinceCode": "13",
+    "name": "Kecamatan Danau Kembar",
+    "alias": "Danau Kembar"
+  },
+  {
+    "code": "13.03.080",
+    "districtCode": "080",
+    "regencyCode": "13.03",
+    "provinceCode": "13",
+    "name": "Kecamatan Gunung Talang",
+    "alias": "Gunung Talang"
+  },
+  {
+    "code": "13.03.090",
+    "districtCode": "090",
+    "regencyCode": "13.03",
+    "provinceCode": "13",
+    "name": "Kecamatan Bukit Sundi",
+    "alias": "Bukit Sundi"
+  },
+  {
+    "code": "13.03.100",
+    "districtCode": "100",
+    "regencyCode": "13.03",
+    "provinceCode": "13",
+    "name": "Kecamatan Ix Koto Sungai Lasi",
+    "alias": "Ix Koto Sungai Lasi"
+  },
+  {
+    "code": "13.03.110",
+    "districtCode": "110",
+    "regencyCode": "13.03",
+    "provinceCode": "13",
+    "name": "Kecamatan Kubung",
+    "alias": "Kubung"
+  },
+  {
+    "code": "13.03.120",
+    "districtCode": "120",
+    "regencyCode": "13.03",
+    "provinceCode": "13",
+    "name": "Kecamatan X Koto Diatas",
+    "alias": "X Koto Diatas"
+  },
+  {
+    "code": "13.03.130",
+    "districtCode": "130",
+    "regencyCode": "13.03",
+    "provinceCode": "13",
+    "name": "Kecamatan X Koto Singkarak",
+    "alias": "X Koto Singkarak"
+  },
+  {
+    "code": "13.03.140",
+    "districtCode": "140",
+    "regencyCode": "13.03",
+    "provinceCode": "13",
+    "name": "Kecamatan Junjung Sirih",
+    "alias": "Junjung Sirih"
+  }
+]

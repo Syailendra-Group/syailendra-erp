@@ -7,7 +7,7 @@ import { useTranslations } from 'next-intl'
 import { DataTablePagination, DataTableSkeleton, DataTableToolbar } from '@/components/data-table'
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '@/components/ui/table'
 import { useDistrict } from '@/contexts/others/district.context'
-import { useDistrictsPaginatedQuery } from '@/hooks/others/use-districts'
+import { useDistrictFilterOptionsQuery, useDistrictsPaginatedQuery } from '@/hooks/others/use-districts'
 import { useDataTableUrlState } from '@/hooks/use-data-table-url-state'
 import { cn } from '@/lib/utils'
 
@@ -17,12 +17,12 @@ import type { DistrictRecord } from '@/types/others/district'
 import type { ReactElement } from 'react'
 
 export interface DistrictsTableProps {
-  onArchive: (item: DistrictRecord) => void
+  onArchive?: (item: DistrictRecord) => void
 }
 
-const FILTER_KEYS = ['active']
+const FILTER_KEYS = ['scope', 'country', 'province', 'city']
 
-export function DistrictsTable({ onArchive }: DistrictsTableProps): ReactElement {
+export function DistrictsTable(): ReactElement {
   const t = useTranslations('regional.districts')
   const tCommon = useTranslations('common')
   const { setOpen, setCurrentRow } = useDistrict()
@@ -48,8 +48,15 @@ export function DistrictsTable({ onArchive }: DistrictsTableProps): ReactElement
     filterKeys: FILTER_KEYS
   })
 
-  // 2. Fetch paginated data from Odoo
-  const statusList = getArrayFilter('status')
+  // 2. Fetch system filter options (countries, provinces, and regencies existing in Odoo)
+  const { data: filterOptions } = useDistrictFilterOptionsQuery()
+
+  const scopeFilter = getArrayFilter('scope')
+  const countryFilter = getArrayFilter('country')
+  const provinceFilter = getArrayFilter('province')
+  const cityFilter = getArrayFilter('city')
+
+  // 3. Fetch paginated data from Odoo
   const {
     data: result,
     isLoading,
@@ -58,7 +65,10 @@ export function DistrictsTable({ onArchive }: DistrictsTableProps): ReactElement
     page,
     perPage,
     search,
-    status: statusList.length > 0 ? statusList : undefined,
+    scope: scopeFilter.length > 0 ? scopeFilter : undefined,
+    countryId: countryFilter.length > 0 ? countryFilter : undefined,
+    stateId: provinceFilter.length > 0 ? provinceFilter : undefined,
+    cityId: cityFilter.length > 0 ? cityFilter : undefined,
     order: orderOdoo
   })
 
@@ -77,13 +87,12 @@ export function DistrictsTable({ onArchive }: DistrictsTableProps): ReactElement
         onEdit: (item: DistrictRecord) => {
           setCurrentRow(item)
           setOpen('edit')
-        },
-        onArchive
+        }
       }),
-    [t, tCommon, onArchive, setCurrentRow, setOpen]
+    [t, tCommon, setCurrentRow, setOpen]
   )
 
-  // 3. TanStack Table Instance
+  // 4. TanStack Table Instance
   const table = useReactTable({
     data: records,
     columns,
@@ -104,13 +113,25 @@ export function DistrictsTable({ onArchive }: DistrictsTableProps): ReactElement
     getCoreRowModel: getCoreRowModel()
   })
 
-  const statusFilterOptions = useMemo(
+  const scopeOptions = useMemo(
     () => [
-      { label: tCommon('status.active'), value: 'true' },
-      { label: tCommon('status.archived'), value: 'false' }
+      { label: 'Indonesia (Domestik)', value: 'domestic' },
+      { label: 'Luar Negeri (Internasional)', value: 'foreign' }
     ],
-    [tCommon]
+    []
   )
+
+  const countryFilterOptions = useMemo(
+    () => (filterOptions?.countries || []).map((c) => ({ label: c.name, value: String(c.id) })),
+    [filterOptions?.countries]
+  )
+
+  const provinceFilterOptions = useMemo(
+    () => (filterOptions?.states || []).map((s) => ({ label: s.name, value: String(s.id) })),
+    [filterOptions?.states]
+  )
+
+  const cityFilterOptions = useMemo(() => (filterOptions?.cities || []).map((c) => ({ label: c.name, value: String(c.id) })), [filterOptions?.cities])
 
   const showSkeleton = isLoading || (isFetching && records.length === 0)
   const isTableRefreshing = isFetching || isUpdating
@@ -123,10 +144,13 @@ export function DistrictsTable({ onArchive }: DistrictsTableProps): ReactElement
         onReset={resetFilters}
         filters={[
           {
-            columnId: 'active',
-            title: tCommon('status.title') || 'Status',
-            options: statusFilterOptions
-          }
+            columnId: 'scope',
+            title: 'Cakupan Wilayah',
+            options: scopeOptions
+          },
+          ...(countryFilterOptions.length > 0 ? [{ columnId: 'country', title: 'Negara', options: countryFilterOptions }] : []),
+          ...(provinceFilterOptions.length > 0 ? [{ columnId: 'province', title: 'Provinsi', options: provinceFilterOptions }] : []),
+          ...(cityFilterOptions.length > 0 ? [{ columnId: 'city', title: 'Kabupaten/Kota', options: cityFilterOptions }] : [])
         ]}
       />
 

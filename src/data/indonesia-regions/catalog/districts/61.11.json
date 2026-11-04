@@ -1,0 +1,50 @@
+[
+  {
+    "code": "61.11.010",
+    "districtCode": "010",
+    "regencyCode": "61.11",
+    "provinceCode": "61",
+    "name": "Kecamatan Pulau Maya",
+    "alias": "Pulau Maya"
+  },
+  {
+    "code": "61.11.011",
+    "districtCode": "011",
+    "regencyCode": "61.11",
+    "provinceCode": "61",
+    "name": "Kecamatan Kepulauan Karimata",
+    "alias": "Kepulauan Karimata"
+  },
+  {
+    "code": "61.11.020",
+    "districtCode": "020",
+    "regencyCode": "61.11",
+    "provinceCode": "61",
+    "name": "Kecamatan Sukadana",
+    "alias": "Sukadana"
+  },
+  {
+    "code": "61.11.030",
+    "districtCode": "030",
+    "regencyCode": "61.11",
+    "provinceCode": "61",
+    "name": "Kecamatan Simpang Hilir",
+    "alias": "Simpang Hilir"
+  },
+  {
+    "code": "61.11.040",
+    "districtCode": "040",
+    "regencyCode": "61.11",
+    "provinceCode": "61",
+    "name": "Kecamatan Teluk Batang",
+    "alias": "Teluk Batang"
+  },
+  {
+    "code": "61.11.050",
+    "districtCode": "050",
+    "regencyCode": "61.11",
+    "provinceCode": "61",
+    "name": "Kecamatan Seponti",
+    "alias": "Seponti"
+  }
+]

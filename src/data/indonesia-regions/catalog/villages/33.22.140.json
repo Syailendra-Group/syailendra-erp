@@ -1,0 +1,93 @@
+[
+  {
+    "code": "33.22.140.001",
+    "villageCode": "001",
+    "districtCode": "33.22.140",
+    "name": "Munding",
+    "alias": "Munding"
+  },
+  {
+    "code": "33.22.140.002",
+    "villageCode": "002",
+    "districtCode": "33.22.140",
+    "name": "Pagersari",
+    "alias": "Pagersari"
+  },
+  {
+    "code": "33.22.140.003",
+    "villageCode": "003",
+    "districtCode": "33.22.140",
+    "name": "Gebugan",
+    "alias": "Gebugan"
+  },
+  {
+    "code": "33.22.140.004",
+    "villageCode": "004",
+    "districtCode": "33.22.140",
+    "name": "Wujil",
+    "alias": "Wujil"
+  },
+  {
+    "code": "33.22.140.005",
+    "villageCode": "005",
+    "districtCode": "33.22.140",
+    "name": "Bergas Lor",
+    "alias": "Bergas Lor"
+  },
+  {
+    "code": "33.22.140.006",
+    "villageCode": "006",
+    "districtCode": "33.22.140",
+    "name": "Bergas Kidul",
+    "alias": "Bergas Kidul"
+  },
+  {
+    "code": "33.22.140.007",
+    "villageCode": "007",
+    "districtCode": "33.22.140",
+    "name": "Randugunting",
+    "alias": "Randugunting"
+  },
+  {
+    "code": "33.22.140.008",
+    "villageCode": "008",
+    "districtCode": "33.22.140",
+    "name": "Jatijajar",
+    "alias": "Jatijajar"
+  },
+  {
+    "code": "33.22.140.009",
+    "villageCode": "009",
+    "districtCode": "33.22.140",
+    "name": "Diwak",
+    "alias": "Diwak"
+  },
+  {
+    "code": "33.22.140.010",
+    "villageCode": "010",
+    "districtCode": "33.22.140",
+    "name": "Ngempon",
+    "alias": "Ngempon"
+  },
+  {
+    "code": "33.22.140.011",
+    "villageCode": "011",
+    "districtCode": "33.22.140",
+    "name": "Karangjati",
+    "alias": "Karangjati"
+  },
+  {
+    "code": "33.22.140.012",
+    "villageCode": "012",
+    "districtCode": "33.22.140",
+    "name": "Wringin Putih",
+    "alias": "Wringin Putih"
+  },
+  {
+    "code": "33.22.140.013",
+    "villageCode": "013",
+    "districtCode": "33.22.140",
+    "name": "Gondoriyo",
+    "alias": "Gondoriyo"
+  }
+]

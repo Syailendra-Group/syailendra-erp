@@ -1,0 +1,65 @@
+[
+  {
+    "code": "36.04.271.001",
+    "villageCode": "001",
+    "districtCode": "36.04.271",
+    "name": "Siremen",
+    "alias": "Siremen"
+  },
+  {
+    "code": "36.04.271.002",
+    "villageCode": "002",
+    "districtCode": "36.04.271",
+    "name": "Cibodas",
+    "alias": "Cibodas"
+  },
+  {
+    "code": "36.04.271.003",
+    "villageCode": "003",
+    "districtCode": "36.04.271",
+    "name": "Cerukcuk",
+    "alias": "Cerukcuk"
+  },
+  {
+    "code": "36.04.271.004",
+    "villageCode": "004",
+    "districtCode": "36.04.271",
+    "name": "Lempuyang",
+    "alias": "Lempuyang"
+  },
+  {
+    "code": "36.04.271.005",
+    "villageCode": "005",
+    "districtCode": "36.04.271",
+    "name": "Bendung",
+    "alias": "Bendung"
+  },
+  {
+    "code": "36.04.271.006",
+    "villageCode": "006",
+    "districtCode": "36.04.271",
+    "name": "Sukamanah",
+    "alias": "Sukamanah"
+  },
+  {
+    "code": "36.04.271.007",
+    "villageCode": "007",
+    "districtCode": "36.04.271",
+    "name": "Tanara",
+    "alias": "Tanara"
+  },
+  {
+    "code": "36.04.271.008",
+    "villageCode": "008",
+    "districtCode": "36.04.271",
+    "name": "Pedaleman",
+    "alias": "Pedaleman"
+  },
+  {
+    "code": "36.04.271.009",
+    "villageCode": "009",
+    "districtCode": "36.04.271",
+    "name": "Tenjo Ayu",
+    "alias": "Tenjo Ayu"
+  }
+]

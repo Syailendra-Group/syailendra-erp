@@ -1,0 +1,51 @@
+[
+  {
+    "code": "12.07.140.001",
+    "villageCode": "001",
+    "districtCode": "12.07.140",
+    "name": "Sei Sentosa",
+    "alias": "Sei Sentosa"
+  },
+  {
+    "code": "12.07.140.002",
+    "villageCode": "002",
+    "districtCode": "12.07.140",
+    "name": "Ajamu",
+    "alias": "Ajamu"
+  },
+  {
+    "code": "12.07.140.003",
+    "villageCode": "003",
+    "districtCode": "12.07.140",
+    "name": "Meranti Paham",
+    "alias": "Meranti Paham"
+  },
+  {
+    "code": "12.07.140.004",
+    "villageCode": "004",
+    "districtCode": "12.07.140",
+    "name": "Teluk Sentosa",
+    "alias": "Teluk Sentosa"
+  },
+  {
+    "code": "12.07.140.005",
+    "villageCode": "005",
+    "districtCode": "12.07.140",
+    "name": "Cinta Makmur",
+    "alias": "Cinta Makmur"
+  },
+  {
+    "code": "12.07.140.006",
+    "villageCode": "006",
+    "districtCode": "12.07.140",
+    "name": "Tanjung Sarang Elang",
+    "alias": "Tanjung Sarang Elang"
+  },
+  {
+    "code": "12.07.140.007",
+    "villageCode": "007",
+    "districtCode": "12.07.140",
+    "name": "Sei Jawi Jawi",
+    "alias": "Sei Jawi Jawi"
+  }
+]

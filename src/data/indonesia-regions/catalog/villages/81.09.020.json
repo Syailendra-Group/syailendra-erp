@@ -1,0 +1,135 @@
+[
+  {
+    "code": "81.09.020.001",
+    "villageCode": "001",
+    "districtCode": "81.09.020",
+    "name": "Waemulang",
+    "alias": "Waemulang"
+  },
+  {
+    "code": "81.09.020.002",
+    "villageCode": "002",
+    "districtCode": "81.09.020",
+    "name": "Waeturen",
+    "alias": "Waeturen"
+  },
+  {
+    "code": "81.09.020.003",
+    "villageCode": "003",
+    "districtCode": "81.09.020",
+    "name": "Waehaka",
+    "alias": "Waehaka"
+  },
+  {
+    "code": "81.09.020.004",
+    "villageCode": "004",
+    "districtCode": "81.09.020",
+    "name": "Waemala",
+    "alias": "Waemala"
+  },
+  {
+    "code": "81.09.020.005",
+    "villageCode": "005",
+    "districtCode": "81.09.020",
+    "name": "Ewiri",
+    "alias": "Ewiri"
+  },
+  {
+    "code": "81.09.020.006",
+    "villageCode": "006",
+    "districtCode": "81.09.020",
+    "name": "Tifu",
+    "alias": "Tifu"
+  },
+  {
+    "code": "81.09.020.007",
+    "villageCode": "007",
+    "districtCode": "81.09.020",
+    "name": "Mepa",
+    "alias": "Mepa"
+  },
+  {
+    "code": "81.09.020.008",
+    "villageCode": "008",
+    "districtCode": "81.09.020",
+    "name": "Leksula",
+    "alias": "Leksula"
+  },
+  {
+    "code": "81.09.020.009",
+    "villageCode": "009",
+    "districtCode": "81.09.020",
+    "name": "Nalbessy",
+    "alias": "Nalbessy"
+  },
+  {
+    "code": "81.09.020.010",
+    "villageCode": "010",
+    "districtCode": "81.09.020",
+    "name": "Kase",
+    "alias": "Kase"
+  },
+  {
+    "code": "81.09.020.015",
+    "villageCode": "015",
+    "districtCode": "81.09.020",
+    "name": "Slealale",
+    "alias": "Slealale"
+  },
+  {
+    "code": "81.09.020.017",
+    "villageCode": "017",
+    "districtCode": "81.09.020",
+    "name": "Neath",
+    "alias": "Neath"
+  },
+  {
+    "code": "81.09.020.018",
+    "villageCode": "018",
+    "districtCode": "81.09.020",
+    "name": "Liang",
+    "alias": "Liang"
+  },
+  {
+    "code": "81.09.020.021",
+    "villageCode": "021",
+    "districtCode": "81.09.020",
+    "name": "Walunhelat",
+    "alias": "Walunhelat"
+  },
+  {
+    "code": "81.09.020.022",
+    "villageCode": "022",
+    "districtCode": "81.09.020",
+    "name": "Grahwaen",
+    "alias": "Grahwaen"
+  },
+  {
+    "code": "81.09.020.023",
+    "villageCode": "023",
+    "districtCode": "81.09.020",
+    "name": "Terkury",
+    "alias": "Terkury"
+  },
+  {
+    "code": "81.09.020.024",
+    "villageCode": "024",
+    "districtCode": "81.09.020",
+    "name": "Waewali",
+    "alias": "Waewali"
+  },
+  {
+    "code": "81.09.020.025",
+    "villageCode": "025",
+    "districtCode": "81.09.020",
+    "name": "Wahaolon",
+    "alias": "Wahaolon"
+  },
+  {
+    "code": "81.09.020.029",
+    "villageCode": "029",
+    "districtCode": "81.09.020",
+    "name": "Waenamaolon",
+    "alias": "Waenamaolon"
+  }
+]

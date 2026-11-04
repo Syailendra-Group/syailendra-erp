@@ -1,0 +1,72 @@
+[
+  {
+    "code": "32.10.110.001",
+    "villageCode": "001",
+    "districtCode": "32.10.110",
+    "name": "Bantar Agung",
+    "alias": "Bantar Agung"
+  },
+  {
+    "code": "32.10.110.002",
+    "villageCode": "002",
+    "districtCode": "32.10.110",
+    "name": "Padaherang",
+    "alias": "Padaherang"
+  },
+  {
+    "code": "32.10.110.003",
+    "villageCode": "003",
+    "districtCode": "32.10.110",
+    "name": "Lengkongwetan",
+    "alias": "Lengkongwetan"
+  },
+  {
+    "code": "32.10.110.004",
+    "villageCode": "004",
+    "districtCode": "32.10.110",
+    "name": "Lengkongkulon",
+    "alias": "Lengkongkulon"
+  },
+  {
+    "code": "32.10.110.005",
+    "villageCode": "005",
+    "districtCode": "32.10.110",
+    "name": "Jerukleueut",
+    "alias": "Jerukleueut"
+  },
+  {
+    "code": "32.10.110.006",
+    "villageCode": "006",
+    "districtCode": "32.10.110",
+    "name": "Sindangwangi",
+    "alias": "Sindangwangi"
+  },
+  {
+    "code": "32.10.110.007",
+    "villageCode": "007",
+    "districtCode": "32.10.110",
+    "name": "Buahkapas",
+    "alias": "Buahkapas"
+  },
+  {
+    "code": "32.10.110.008",
+    "villageCode": "008",
+    "districtCode": "32.10.110",
+    "name": "Ujungberung",
+    "alias": "Ujungberung"
+  },
+  {
+    "code": "32.10.110.009",
+    "villageCode": "009",
+    "districtCode": "32.10.110",
+    "name": "Leuwilaja",
+    "alias": "Leuwilaja"
+  },
+  {
+    "code": "32.10.110.010",
+    "villageCode": "010",
+    "districtCode": "32.10.110",
+    "name": "Balagedog",
+    "alias": "Balagedog"
+  }
+]

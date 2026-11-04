@@ -1,0 +1,44 @@
+[
+  {
+    "code": "71.04.040.006",
+    "villageCode": "006",
+    "districtCode": "71.04.040",
+    "name": "Beo",
+    "alias": "Beo"
+  },
+  {
+    "code": "71.04.040.007",
+    "villageCode": "007",
+    "districtCode": "71.04.040",
+    "name": "Bantik",
+    "alias": "Bantik"
+  },
+  {
+    "code": "71.04.040.012",
+    "villageCode": "012",
+    "districtCode": "71.04.040",
+    "name": "Bantik Lama",
+    "alias": "Bantik Lama"
+  },
+  {
+    "code": "71.04.040.013",
+    "villageCode": "013",
+    "districtCode": "71.04.040",
+    "name": "Beo Barat",
+    "alias": "Beo Barat"
+  },
+  {
+    "code": "71.04.040.014",
+    "villageCode": "014",
+    "districtCode": "71.04.040",
+    "name": "Beo Timur",
+    "alias": "Beo Timur"
+  },
+  {
+    "code": "71.04.040.015",
+    "villageCode": "015",
+    "districtCode": "71.04.040",
+    "name": "Bengel",
+    "alias": "Bengel"
+  }
+]

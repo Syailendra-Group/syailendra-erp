@@ -1,0 +1,30 @@
+[
+  {
+    "code": "65.04.130.001",
+    "villageCode": "001",
+    "districtCode": "65.04.130",
+    "name": "Balansiku",
+    "alias": "Balansiku"
+  },
+  {
+    "code": "65.04.130.002",
+    "villageCode": "002",
+    "districtCode": "65.04.130",
+    "name": "Tanjung Karang",
+    "alias": "Tanjung Karang"
+  },
+  {
+    "code": "65.04.130.003",
+    "villageCode": "003",
+    "districtCode": "65.04.130",
+    "name": "Sei Manurung",
+    "alias": "Sei Manurung"
+  },
+  {
+    "code": "65.04.130.004",
+    "villageCode": "004",
+    "districtCode": "65.04.130",
+    "name": "Padaidi",
+    "alias": "Padaidi"
+  }
+]

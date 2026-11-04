@@ -1,0 +1,30 @@
+[
+  {
+    "code": "97.08.280.001",
+    "villageCode": "001",
+    "districtCode": "97.08.280",
+    "name": "Okelwel",
+    "alias": "Okelwel"
+  },
+  {
+    "code": "97.08.280.002",
+    "villageCode": "002",
+    "districtCode": "97.08.280",
+    "name": "Kotyobakon",
+    "alias": "Kotyobakon"
+  },
+  {
+    "code": "97.08.280.003",
+    "villageCode": "003",
+    "districtCode": "97.08.280",
+    "name": "Okteneng",
+    "alias": "Okteneng"
+  },
+  {
+    "code": "97.08.280.004",
+    "villageCode": "004",
+    "districtCode": "97.08.280",
+    "name": "Tengnong",
+    "alias": "Tengnong"
+  }
+]

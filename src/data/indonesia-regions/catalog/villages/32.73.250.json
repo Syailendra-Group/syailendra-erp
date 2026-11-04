@@ -1,0 +1,30 @@
+[
+  {
+    "code": "32.73.250.001",
+    "villageCode": "001",
+    "districtCode": "32.73.250",
+    "name": "Sarijadi",
+    "alias": "Sarijadi"
+  },
+  {
+    "code": "32.73.250.002",
+    "villageCode": "002",
+    "districtCode": "32.73.250",
+    "name": "Sukarasa",
+    "alias": "Sukarasa"
+  },
+  {
+    "code": "32.73.250.003",
+    "villageCode": "003",
+    "districtCode": "32.73.250",
+    "name": "Gegerkalong",
+    "alias": "Gegerkalong"
+  },
+  {
+    "code": "32.73.250.004",
+    "villageCode": "004",
+    "districtCode": "32.73.250",
+    "name": "Isola",
+    "alias": "Isola"
+  }
+]

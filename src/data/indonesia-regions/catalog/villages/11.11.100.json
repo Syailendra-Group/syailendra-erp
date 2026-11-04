@@ -1,0 +1,401 @@
+[
+  {
+    "code": "11.11.100.001",
+    "villageCode": "001",
+    "districtCode": "11.11.100",
+    "name": "Cinta Makmur",
+    "alias": "Cinta Makmur"
+  },
+  {
+    "code": "11.11.100.002",
+    "villageCode": "002",
+    "districtCode": "11.11.100",
+    "name": "Babussalam",
+    "alias": "Babussalam"
+  },
+  {
+    "code": "11.11.100.003",
+    "villageCode": "003",
+    "districtCode": "11.11.100",
+    "name": "Buket Dara Baro",
+    "alias": "Buket Dara Baro"
+  },
+  {
+    "code": "11.11.100.004",
+    "villageCode": "004",
+    "districtCode": "11.11.100",
+    "name": "Matang Baro",
+    "alias": "Matang Baro"
+  },
+  {
+    "code": "11.11.100.005",
+    "villageCode": "005",
+    "districtCode": "11.11.100",
+    "name": "Ujong Dama",
+    "alias": "Ujong Dama"
+  },
+  {
+    "code": "11.11.100.006",
+    "villageCode": "006",
+    "districtCode": "11.11.100",
+    "name": "Buket Mon Sukon",
+    "alias": "Buket Mon Sukon"
+  },
+  {
+    "code": "11.11.100.007",
+    "villageCode": "007",
+    "districtCode": "11.11.100",
+    "name": "Matang Beuringen",
+    "alias": "Matang Beuringen"
+  },
+  {
+    "code": "11.11.100.009",
+    "villageCode": "009",
+    "districtCode": "11.11.100",
+    "name": "Matang Pineung",
+    "alias": "Matang Pineung"
+  },
+  {
+    "code": "11.11.100.010",
+    "villageCode": "010",
+    "districtCode": "11.11.100",
+    "name": "Ceumpedak",
+    "alias": "Ceumpedak"
+  },
+  {
+    "code": "11.11.100.011",
+    "villageCode": "011",
+    "districtCode": "11.11.100",
+    "name": "Matang Reudeup",
+    "alias": "Matang Reudeup"
+  },
+  {
+    "code": "11.11.100.012",
+    "villageCode": "012",
+    "districtCode": "11.11.100",
+    "name": "Buket Lueng Bata",
+    "alias": "Buket Lueng Bata"
+  },
+  {
+    "code": "11.11.100.013",
+    "villageCode": "013",
+    "districtCode": "11.11.100",
+    "name": "Matang Manyam",
+    "alias": "Matang Manyam"
+  },
+  {
+    "code": "11.11.100.014",
+    "villageCode": "014",
+    "districtCode": "11.11.100",
+    "name": "Cot Manyang",
+    "alias": "Cot Manyang"
+  },
+  {
+    "code": "11.11.100.015",
+    "villageCode": "015",
+    "districtCode": "11.11.100",
+    "name": "Keude Meunye Iv",
+    "alias": "Keude Meunye Iv"
+  },
+  {
+    "code": "11.11.100.016",
+    "villageCode": "016",
+    "districtCode": "11.11.100",
+    "name": "Matang Ulim",
+    "alias": "Matang Ulim"
+  },
+  {
+    "code": "11.11.100.017",
+    "villageCode": "017",
+    "districtCode": "11.11.100",
+    "name": "Matang Linya",
+    "alias": "Matang Linya"
+  },
+  {
+    "code": "11.11.100.023",
+    "villageCode": "023",
+    "districtCode": "11.11.100",
+    "name": "Alue Ie Tarek",
+    "alias": "Alue Ie Tarek"
+  },
+  {
+    "code": "11.11.100.024",
+    "villageCode": "024",
+    "districtCode": "11.11.100",
+    "name": "Geulumpang Bungkok",
+    "alias": "Geulumpang Bungkok"
+  },
+  {
+    "code": "11.11.100.025",
+    "villageCode": "025",
+    "districtCode": "11.11.100",
+    "name": "Arongan Lise",
+    "alias": "Arongan Lise"
+  },
+  {
+    "code": "11.11.100.026",
+    "villageCode": "026",
+    "districtCode": "11.11.100",
+    "name": "Glumpang Payong",
+    "alias": "Glumpang Payong"
+  },
+  {
+    "code": "11.11.100.027",
+    "villageCode": "027",
+    "districtCode": "11.11.100",
+    "name": "Alue Rambong",
+    "alias": "Alue Rambong"
+  },
+  {
+    "code": "11.11.100.028",
+    "villageCode": "028",
+    "districtCode": "11.11.100",
+    "name": "Geulumpang Samlakoe",
+    "alias": "Geulumpang Samlakoe"
+  },
+  {
+    "code": "11.11.100.029",
+    "villageCode": "029",
+    "districtCode": "11.11.100",
+    "name": "Matang Rawa",
+    "alias": "Matang Rawa"
+  },
+  {
+    "code": "11.11.100.030",
+    "villageCode": "030",
+    "districtCode": "11.11.100",
+    "name": "Matang Lawang",
+    "alias": "Matang Lawang"
+  },
+  {
+    "code": "11.11.100.032",
+    "villageCode": "032",
+    "districtCode": "11.11.100",
+    "name": "Cot Ara",
+    "alias": "Cot Ara"
+  },
+  {
+    "code": "11.11.100.033",
+    "villageCode": "033",
+    "districtCode": "11.11.100",
+    "name": "Alue Dama",
+    "alias": "Alue Dama"
+  },
+  {
+    "code": "11.11.100.034",
+    "villageCode": "034",
+    "districtCode": "11.11.100",
+    "name": "Alue Bili Geulumpang",
+    "alias": "Alue Bili Geulumpang"
+  },
+  {
+    "code": "11.11.100.035",
+    "villageCode": "035",
+    "districtCode": "11.11.100",
+    "name": "Pucok Alue",
+    "alias": "Pucok Alue"
+  },
+  {
+    "code": "11.11.100.036",
+    "villageCode": "036",
+    "districtCode": "11.11.100",
+    "name": "Matang Kareung",
+    "alias": "Matang Kareung"
+  },
+  {
+    "code": "11.11.100.037",
+    "villageCode": "037",
+    "districtCode": "11.11.100",
+    "name": "Cot Ulaya",
+    "alias": "Cot Ulaya"
+  },
+  {
+    "code": "11.11.100.040",
+    "villageCode": "040",
+    "districtCode": "11.11.100",
+    "name": "Keude Panteu Breuh",
+    "alias": "Keude Panteu Breuh"
+  },
+  {
+    "code": "11.11.100.041",
+    "villageCode": "041",
+    "districtCode": "11.11.100",
+    "name": "Rambong Dalam",
+    "alias": "Rambong Dalam"
+  },
+  {
+    "code": "11.11.100.042",
+    "villageCode": "042",
+    "districtCode": "11.11.100",
+    "name": "Alue Bili Rayeuk",
+    "alias": "Alue Bili Rayeuk"
+  },
+  {
+    "code": "11.11.100.043",
+    "villageCode": "043",
+    "districtCode": "11.11.100",
+    "name": "Meunasah Alue Ie Puteh",
+    "alias": "Meunasah Alue Ie Puteh"
+  },
+  {
+    "code": "11.11.100.044",
+    "villageCode": "044",
+    "districtCode": "11.11.100",
+    "name": "Keude Alue Ie Puteh",
+    "alias": "Keude Alue Ie Puteh"
+  },
+  {
+    "code": "11.11.100.045",
+    "villageCode": "045",
+    "districtCode": "11.11.100",
+    "name": "Matang Kumbang",
+    "alias": "Matang Kumbang"
+  },
+  {
+    "code": "11.11.100.057",
+    "villageCode": "057",
+    "districtCode": "11.11.100",
+    "name": "Cot Mane",
+    "alias": "Cot Mane"
+  },
+  {
+    "code": "11.11.100.058",
+    "villageCode": "058",
+    "districtCode": "11.11.100",
+    "name": "Cot Kumbang",
+    "alias": "Cot Kumbang"
+  },
+  {
+    "code": "11.11.100.059",
+    "villageCode": "059",
+    "districtCode": "11.11.100",
+    "name": "Lhok Seutuy",
+    "alias": "Lhok Seutuy"
+  },
+  {
+    "code": "11.11.100.060",
+    "villageCode": "060",
+    "districtCode": "11.11.100",
+    "name": "Meunasah Bujok",
+    "alias": "Meunasah Bujok"
+  },
+  {
+    "code": "11.11.100.061",
+    "villageCode": "061",
+    "districtCode": "11.11.100",
+    "name": "Alue Jamok",
+    "alias": "Alue Jamok"
+  },
+  {
+    "code": "11.11.100.062",
+    "villageCode": "062",
+    "districtCode": "11.11.100",
+    "name": "Meudang Ara",
+    "alias": "Meudang Ara"
+  },
+  {
+    "code": "11.11.100.063",
+    "villageCode": "063",
+    "districtCode": "11.11.100",
+    "name": "Alue Keutapang",
+    "alias": "Alue Keutapang"
+  },
+  {
+    "code": "11.11.100.064",
+    "villageCode": "064",
+    "districtCode": "11.11.100",
+    "name": "Meunasah Geudong",
+    "alias": "Meunasah Geudong"
+  },
+  {
+    "code": "11.11.100.065",
+    "villageCode": "065",
+    "districtCode": "11.11.100",
+    "name": "Krueng Lingka Timu",
+    "alias": "Krueng Lingka Timu"
+  },
+  {
+    "code": "11.11.100.066",
+    "villageCode": "066",
+    "districtCode": "11.11.100",
+    "name": "Krueng Lingka Barat",
+    "alias": "Krueng Lingka Barat"
+  },
+  {
+    "code": "11.11.100.067",
+    "villageCode": "067",
+    "districtCode": "11.11.100",
+    "name": "Alue Anou Timu",
+    "alias": "Alue Anou Timu"
+  },
+  {
+    "code": "11.11.100.068",
+    "villageCode": "068",
+    "districtCode": "11.11.100",
+    "name": "Alue Anou Barat",
+    "alias": "Alue Anou Barat"
+  },
+  {
+    "code": "11.11.100.069",
+    "villageCode": "069",
+    "districtCode": "11.11.100",
+    "name": "Alue Serdang",
+    "alias": "Alue Serdang"
+  },
+  {
+    "code": "11.11.100.070",
+    "villageCode": "070",
+    "districtCode": "11.11.100",
+    "name": "Matang Raya Barat",
+    "alias": "Matang Raya Barat"
+  },
+  {
+    "code": "11.11.100.074",
+    "villageCode": "074",
+    "districtCode": "11.11.100",
+    "name": "Pulo Seuke",
+    "alias": "Pulo Seuke"
+  },
+  {
+    "code": "11.11.100.075",
+    "villageCode": "075",
+    "districtCode": "11.11.100",
+    "name": "Alue Geudong",
+    "alias": "Alue Geudong"
+  },
+  {
+    "code": "11.11.100.076",
+    "villageCode": "076",
+    "districtCode": "11.11.100",
+    "name": "Matang Keulayu",
+    "alias": "Matang Keulayu"
+  },
+  {
+    "code": "11.11.100.077",
+    "villageCode": "077",
+    "districtCode": "11.11.100",
+    "name": "Matang Raya Timu",
+    "alias": "Matang Raya Timu"
+  },
+  {
+    "code": "11.11.100.078",
+    "villageCode": "078",
+    "districtCode": "11.11.100",
+    "name": "Alue Buya",
+    "alias": "Alue Buya"
+  },
+  {
+    "code": "11.11.100.079",
+    "villageCode": "079",
+    "districtCode": "11.11.100",
+    "name": "Matang Cut",
+    "alias": "Matang Cut"
+  },
+  {
+    "code": "11.11.100.080",
+    "villageCode": "080",
+    "districtCode": "11.11.100",
+    "name": "Tanjong Glumpang",
+    "alias": "Tanjong Glumpang"
+  }
+]

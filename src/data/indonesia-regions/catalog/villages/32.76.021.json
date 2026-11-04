@@ -1,0 +1,37 @@
+[
+  {
+    "code": "32.76.021.001",
+    "villageCode": "001",
+    "districtCode": "32.76.021",
+    "name": "Cipayung Jaya",
+    "alias": "Cipayung Jaya"
+  },
+  {
+    "code": "32.76.021.002",
+    "villageCode": "002",
+    "districtCode": "32.76.021",
+    "name": "Bojong Pondok Terong",
+    "alias": "Bojong Pondok Terong"
+  },
+  {
+    "code": "32.76.021.003",
+    "villageCode": "003",
+    "districtCode": "32.76.021",
+    "name": "Pondok Jaya",
+    "alias": "Pondok Jaya"
+  },
+  {
+    "code": "32.76.021.004",
+    "villageCode": "004",
+    "districtCode": "32.76.021",
+    "name": "Ratu Jaya",
+    "alias": "Ratu Jaya"
+  },
+  {
+    "code": "32.76.021.005",
+    "villageCode": "005",
+    "districtCode": "32.76.021",
+    "name": "Cipayung",
+    "alias": "Cipayung"
+  }
+]

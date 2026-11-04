@@ -1,0 +1,37 @@
+[
+  {
+    "code": "96.04.150.001",
+    "villageCode": "001",
+    "districtCode": "96.04.150",
+    "name": "Arui",
+    "alias": "Arui"
+  },
+  {
+    "code": "96.04.150.002",
+    "villageCode": "002",
+    "districtCode": "96.04.150",
+    "name": "Moor",
+    "alias": "Moor"
+  },
+  {
+    "code": "96.04.150.003",
+    "villageCode": "003",
+    "districtCode": "96.04.150",
+    "name": "Kama",
+    "alias": "Kama"
+  },
+  {
+    "code": "96.04.150.004",
+    "villageCode": "004",
+    "districtCode": "96.04.150",
+    "name": "Mambor",
+    "alias": "Mambor"
+  },
+  {
+    "code": "96.04.150.005",
+    "villageCode": "005",
+    "districtCode": "96.04.150",
+    "name": "Hariti",
+    "alias": "Hariti"
+  }
+]

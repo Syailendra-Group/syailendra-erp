@@ -1,0 +1,138 @@
+[
+  {
+    "code": "21.03.030",
+    "districtCode": "030",
+    "regencyCode": "21.03",
+    "provinceCode": "21",
+    "name": "Kecamatan Midai",
+    "alias": "Midai"
+  },
+  {
+    "code": "21.03.031",
+    "districtCode": "031",
+    "regencyCode": "21.03",
+    "provinceCode": "21",
+    "name": "Kecamatan Suak Midai",
+    "alias": "Suak Midai"
+  },
+  {
+    "code": "21.03.040",
+    "districtCode": "040",
+    "regencyCode": "21.03",
+    "provinceCode": "21",
+    "name": "Kecamatan Bunguran Barat",
+    "alias": "Bunguran Barat"
+  },
+  {
+    "code": "21.03.041",
+    "districtCode": "041",
+    "regencyCode": "21.03",
+    "provinceCode": "21",
+    "name": "Kecamatan Bunguran Utara",
+    "alias": "Bunguran Utara"
+  },
+  {
+    "code": "21.03.042",
+    "districtCode": "042",
+    "regencyCode": "21.03",
+    "provinceCode": "21",
+    "name": "Kecamatan Pulau Laut",
+    "alias": "Pulau Laut"
+  },
+  {
+    "code": "21.03.043",
+    "districtCode": "043",
+    "regencyCode": "21.03",
+    "provinceCode": "21",
+    "name": "Kecamatan Pulau Tiga",
+    "alias": "Pulau Tiga"
+  },
+  {
+    "code": "21.03.044",
+    "districtCode": "044",
+    "regencyCode": "21.03",
+    "provinceCode": "21",
+    "name": "Kecamatan Bunguran Batubi",
+    "alias": "Bunguran Batubi"
+  },
+  {
+    "code": "21.03.045",
+    "districtCode": "045",
+    "regencyCode": "21.03",
+    "provinceCode": "21",
+    "name": "Kecamatan Pulau Tiga Barat",
+    "alias": "Pulau Tiga Barat"
+  },
+  {
+    "code": "21.03.046",
+    "districtCode": "046",
+    "regencyCode": "21.03",
+    "provinceCode": "21",
+    "name": "Kecamatan Pulau Seluan",
+    "alias": "Pulau Seluan"
+  },
+  {
+    "code": "21.03.050",
+    "districtCode": "050",
+    "regencyCode": "21.03",
+    "provinceCode": "21",
+    "name": "Kecamatan Bunguran Timur",
+    "alias": "Bunguran Timur"
+  },
+  {
+    "code": "21.03.051",
+    "districtCode": "051",
+    "regencyCode": "21.03",
+    "provinceCode": "21",
+    "name": "Kecamatan Bunguran Timur Laut",
+    "alias": "Bunguran Timur Laut"
+  },
+  {
+    "code": "21.03.052",
+    "districtCode": "052",
+    "regencyCode": "21.03",
+    "provinceCode": "21",
+    "name": "Kecamatan Bunguran Tengah",
+    "alias": "Bunguran Tengah"
+  },
+  {
+    "code": "21.03.053",
+    "districtCode": "053",
+    "regencyCode": "21.03",
+    "provinceCode": "21",
+    "name": "Kecamatan Bunguran Selatan",
+    "alias": "Bunguran Selatan"
+  },
+  {
+    "code": "21.03.060",
+    "districtCode": "060",
+    "regencyCode": "21.03",
+    "provinceCode": "21",
+    "name": "Kecamatan Serasan",
+    "alias": "Serasan"
+  },
+  {
+    "code": "21.03.061",
+    "districtCode": "061",
+    "regencyCode": "21.03",
+    "provinceCode": "21",
+    "name": "Kecamatan Subi",
+    "alias": "Subi"
+  },
+  {
+    "code": "21.03.062",
+    "districtCode": "062",
+    "regencyCode": "21.03",
+    "provinceCode": "21",
+    "name": "Kecamatan Serasan Timur",
+    "alias": "Serasan Timur"
+  },
+  {
+    "code": "21.03.063",
+    "districtCode": "063",
+    "regencyCode": "21.03",
+    "provinceCode": "21",
+    "name": "Kecamatan Pulau Panjang",
+    "alias": "Pulau Panjang"
+  }
+]

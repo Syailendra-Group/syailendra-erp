@@ -1,0 +1,65 @@
+[
+  {
+    "code": "32.13.060.002",
+    "villageCode": "002",
+    "districtCode": "32.13.060",
+    "name": "Sadawarna",
+    "alias": "Sadawarna"
+  },
+  {
+    "code": "32.13.060.003",
+    "villageCode": "003",
+    "districtCode": "32.13.060",
+    "name": "Sumurbarang",
+    "alias": "Sumurbarang"
+  },
+  {
+    "code": "32.13.060.004",
+    "villageCode": "004",
+    "districtCode": "32.13.060",
+    "name": "Padaasih",
+    "alias": "Padaasih"
+  },
+  {
+    "code": "32.13.060.005",
+    "villageCode": "005",
+    "districtCode": "32.13.060",
+    "name": "Cibogo",
+    "alias": "Cibogo"
+  },
+  {
+    "code": "32.13.060.006",
+    "villageCode": "006",
+    "districtCode": "32.13.060",
+    "name": "Cinangsi",
+    "alias": "Cinangsi"
+  },
+  {
+    "code": "32.13.060.007",
+    "villageCode": "007",
+    "districtCode": "32.13.060",
+    "name": "Majasari",
+    "alias": "Majasari"
+  },
+  {
+    "code": "32.13.060.008",
+    "villageCode": "008",
+    "districtCode": "32.13.060",
+    "name": "Cibalandongjaya",
+    "alias": "Cibalandongjaya"
+  },
+  {
+    "code": "32.13.060.009",
+    "villageCode": "009",
+    "districtCode": "32.13.060",
+    "name": "Belendung",
+    "alias": "Belendung"
+  },
+  {
+    "code": "32.13.060.010",
+    "villageCode": "010",
+    "districtCode": "32.13.060",
+    "name": "Cisaga",
+    "alias": "Cisaga"
+  }
+]

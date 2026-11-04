@@ -1,0 +1,90 @@
+[
+  {
+    "code": "73.25.010",
+    "districtCode": "010",
+    "regencyCode": "73.25",
+    "provinceCode": "73",
+    "name": "Kecamatan Burau",
+    "alias": "Burau"
+  },
+  {
+    "code": "73.25.020",
+    "districtCode": "020",
+    "regencyCode": "73.25",
+    "provinceCode": "73",
+    "name": "Kecamatan Wotu",
+    "alias": "Wotu"
+  },
+  {
+    "code": "73.25.030",
+    "districtCode": "030",
+    "regencyCode": "73.25",
+    "provinceCode": "73",
+    "name": "Kecamatan Tomoni",
+    "alias": "Tomoni"
+  },
+  {
+    "code": "73.25.031",
+    "districtCode": "031",
+    "regencyCode": "73.25",
+    "provinceCode": "73",
+    "name": "Kecamatan Tomoni Timur",
+    "alias": "Tomoni Timur"
+  },
+  {
+    "code": "73.25.040",
+    "districtCode": "040",
+    "regencyCode": "73.25",
+    "provinceCode": "73",
+    "name": "Kecamatan Angkona",
+    "alias": "Angkona"
+  },
+  {
+    "code": "73.25.050",
+    "districtCode": "050",
+    "regencyCode": "73.25",
+    "provinceCode": "73",
+    "name": "Kecamatan Malili",
+    "alias": "Malili"
+  },
+  {
+    "code": "73.25.060",
+    "districtCode": "060",
+    "regencyCode": "73.25",
+    "provinceCode": "73",
+    "name": "Kecamatan Towuti",
+    "alias": "Towuti"
+  },
+  {
+    "code": "73.25.070",
+    "districtCode": "070",
+    "regencyCode": "73.25",
+    "provinceCode": "73",
+    "name": "Kecamatan Nuha",
+    "alias": "Nuha"
+  },
+  {
+    "code": "73.25.071",
+    "districtCode": "071",
+    "regencyCode": "73.25",
+    "provinceCode": "73",
+    "name": "Kecamatan Wasuponda",
+    "alias": "Wasuponda"
+  },
+  {
+    "code": "73.25.080",
+    "districtCode": "080",
+    "regencyCode": "73.25",
+    "provinceCode": "73",
+    "name": "Kecamatan Mangkutana",
+    "alias": "Mangkutana"
+  },
+  {
+    "code": "73.25.081",
+    "districtCode": "081",
+    "regencyCode": "73.25",
+    "provinceCode": "73",
+    "name": "Kecamatan Kalaena",
+    "alias": "Kalaena"
+  }
+]

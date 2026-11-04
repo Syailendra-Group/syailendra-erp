@@ -1,0 +1,51 @@
+[
+  {
+    "code": "31.73.010.001",
+    "villageCode": "001",
+    "districtCode": "31.73.010",
+    "name": "Gelora",
+    "alias": "Gelora"
+  },
+  {
+    "code": "31.73.010.002",
+    "villageCode": "002",
+    "districtCode": "31.73.010",
+    "name": "Bendungan Hilir",
+    "alias": "Bendungan Hilir"
+  },
+  {
+    "code": "31.73.010.003",
+    "villageCode": "003",
+    "districtCode": "31.73.010",
+    "name": "Karet Tengsin",
+    "alias": "Karet Tengsin"
+  },
+  {
+    "code": "31.73.010.004",
+    "villageCode": "004",
+    "districtCode": "31.73.010",
+    "name": "Kebon Melati",
+    "alias": "Kebon Melati"
+  },
+  {
+    "code": "31.73.010.005",
+    "villageCode": "005",
+    "districtCode": "31.73.010",
+    "name": "Petamburan",
+    "alias": "Petamburan"
+  },
+  {
+    "code": "31.73.010.006",
+    "villageCode": "006",
+    "districtCode": "31.73.010",
+    "name": "Kebon Kacang",
+    "alias": "Kebon Kacang"
+  },
+  {
+    "code": "31.73.010.007",
+    "villageCode": "007",
+    "districtCode": "31.73.010",
+    "name": "Kampung Bali",
+    "alias": "Kampung Bali"
+  }
+]

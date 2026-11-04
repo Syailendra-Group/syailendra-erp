@@ -1,0 +1,44 @@
+[
+  {
+    "code": "12.24.050.001",
+    "villageCode": "001",
+    "districtCode": "12.24.050",
+    "name": "Tetehosi Maziaya",
+    "alias": "Tetehosi Maziaya"
+  },
+  {
+    "code": "12.24.050.002",
+    "villageCode": "002",
+    "districtCode": "12.24.050",
+    "name": "Umbubalodano",
+    "alias": "Umbubalodano"
+  },
+  {
+    "code": "12.24.050.003",
+    "villageCode": "003",
+    "districtCode": "12.24.050",
+    "name": "Hilimbosi",
+    "alias": "Hilimbosi"
+  },
+  {
+    "code": "12.24.050.004",
+    "villageCode": "004",
+    "districtCode": "12.24.050",
+    "name": "Hilisaloo",
+    "alias": "Hilisaloo"
+  },
+  {
+    "code": "12.24.050.005",
+    "villageCode": "005",
+    "districtCode": "12.24.050",
+    "name": "Botombawo",
+    "alias": "Botombawo"
+  },
+  {
+    "code": "12.24.050.006",
+    "villageCode": "006",
+    "districtCode": "12.24.050",
+    "name": "Fulolosaloo",
+    "alias": "Fulolosaloo"
+  }
+]

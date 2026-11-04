@@ -1,0 +1,58 @@
+[
+  {
+    "code": "33.20.090.001",
+    "villageCode": "001",
+    "districtCode": "33.20.090",
+    "name": "Mororejo",
+    "alias": "Mororejo"
+  },
+  {
+    "code": "33.20.090.010",
+    "villageCode": "010",
+    "districtCode": "33.20.090",
+    "name": "Suwawal",
+    "alias": "Suwawal"
+  },
+  {
+    "code": "33.20.090.011",
+    "villageCode": "011",
+    "districtCode": "33.20.090",
+    "name": "Sinanggul",
+    "alias": "Sinanggul"
+  },
+  {
+    "code": "33.20.090.012",
+    "villageCode": "012",
+    "districtCode": "33.20.090",
+    "name": "Jambu Timur",
+    "alias": "Jambu Timur"
+  },
+  {
+    "code": "33.20.090.013",
+    "villageCode": "013",
+    "districtCode": "33.20.090",
+    "name": "Jambu",
+    "alias": "Jambu"
+  },
+  {
+    "code": "33.20.090.014",
+    "villageCode": "014",
+    "districtCode": "33.20.090",
+    "name": "Sekuro",
+    "alias": "Sekuro"
+  },
+  {
+    "code": "33.20.090.015",
+    "villageCode": "015",
+    "districtCode": "33.20.090",
+    "name": "Srobyong",
+    "alias": "Srobyong"
+  },
+  {
+    "code": "33.20.090.016",
+    "villageCode": "016",
+    "districtCode": "33.20.090",
+    "name": "Karanggondang",
+    "alias": "Karanggondang"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "code": "35.05.210.001",
+    "villageCode": "001",
+    "districtCode": "35.05.210",
+    "name": "Gandekan",
+    "alias": "Gandekan"
+  },
+  {
+    "code": "35.05.210.002",
+    "villageCode": "002",
+    "districtCode": "35.05.210",
+    "name": "Kunir",
+    "alias": "Kunir"
+  },
+  {
+    "code": "35.05.210.003",
+    "villageCode": "003",
+    "districtCode": "35.05.210",
+    "name": "Kolomayan",
+    "alias": "Kolomayan"
+  },
+  {
+    "code": "35.05.210.004",
+    "villageCode": "004",
+    "districtCode": "35.05.210",
+    "name": "Pikatan",
+    "alias": "Pikatan"
+  },
+  {
+    "code": "35.05.210.005",
+    "villageCode": "005",
+    "districtCode": "35.05.210",
+    "name": "Wonodadi",
+    "alias": "Wonodadi"
+  },
+  {
+    "code": "35.05.210.006",
+    "villageCode": "006",
+    "districtCode": "35.05.210",
+    "name": "Kaliboto",
+    "alias": "Kaliboto"
+  },
+  {
+    "code": "35.05.210.007",
+    "villageCode": "007",
+    "districtCode": "35.05.210",
+    "name": "Rejosari",
+    "alias": "Rejosari"
+  },
+  {
+    "code": "35.05.210.008",
+    "villageCode": "008",
+    "districtCode": "35.05.210",
+    "name": "Tawangrejo",
+    "alias": "Tawangrejo"
+  },
+  {
+    "code": "35.05.210.009",
+    "villageCode": "009",
+    "districtCode": "35.05.210",
+    "name": "Kebonagung",
+    "alias": "Kebonagung"
+  },
+  {
+    "code": "35.05.210.010",
+    "villageCode": "010",
+    "districtCode": "35.05.210",
+    "name": "Salam",
+    "alias": "Salam"
+  },
+  {
+    "code": "35.05.210.011",
+    "villageCode": "011",
+    "districtCode": "35.05.210",
+    "name": "Jaten",
+    "alias": "Jaten"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "code": "35.05.050.001",
+    "villageCode": "001",
+    "districtCode": "35.05.050",
+    "name": "Salamrejo",
+    "alias": "Salamrejo"
+  },
+  {
+    "code": "35.05.050.002",
+    "villageCode": "002",
+    "districtCode": "35.05.050",
+    "name": "Sumber Kembar",
+    "alias": "Sumber Kembar"
+  },
+  {
+    "code": "35.05.050.003",
+    "villageCode": "003",
+    "districtCode": "35.05.050",
+    "name": "Binangun",
+    "alias": "Binangun"
+  },
+  {
+    "code": "35.05.050.004",
+    "villageCode": "004",
+    "districtCode": "35.05.050",
+    "name": "Birowo",
+    "alias": "Birowo"
+  },
+  {
+    "code": "35.05.050.005",
+    "villageCode": "005",
+    "districtCode": "35.05.050",
+    "name": "Sukorame",
+    "alias": "Sukorame"
+  },
+  {
+    "code": "35.05.050.006",
+    "villageCode": "006",
+    "districtCode": "35.05.050",
+    "name": "Ngadri",
+    "alias": "Ngadri"
+  },
+  {
+    "code": "35.05.050.007",
+    "villageCode": "007",
+    "districtCode": "35.05.050",
+    "name": "Sambigede",
+    "alias": "Sambigede"
+  },
+  {
+    "code": "35.05.050.008",
+    "villageCode": "008",
+    "districtCode": "35.05.050",
+    "name": "Rejoso",
+    "alias": "Rejoso"
+  },
+  {
+    "code": "35.05.050.009",
+    "villageCode": "009",
+    "districtCode": "35.05.050",
+    "name": "Umbul Damar",
+    "alias": "Umbul Damar"
+  },
+  {
+    "code": "35.05.050.010",
+    "villageCode": "010",
+    "districtCode": "35.05.050",
+    "name": "Tawang Rejo",
+    "alias": "Tawang Rejo"
+  },
+  {
+    "code": "35.05.050.011",
+    "villageCode": "011",
+    "districtCode": "35.05.050",
+    "name": "Ngembul",
+    "alias": "Ngembul"
+  },
+  {
+    "code": "35.05.050.012",
+    "villageCode": "012",
+    "districtCode": "35.05.050",
+    "name": "Kedungwungu",
+    "alias": "Kedungwungu"
+  }
+]

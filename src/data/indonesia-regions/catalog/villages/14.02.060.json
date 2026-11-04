@@ -1,0 +1,114 @@
+[
+  {
+    "code": "14.02.060.001",
+    "villageCode": "001",
+    "districtCode": "14.02.060",
+    "name": "Sungai Guntung Tengah",
+    "alias": "Sungai Guntung Tengah"
+  },
+  {
+    "code": "14.02.060.002",
+    "villageCode": "002",
+    "districtCode": "14.02.060",
+    "name": "Sungai Guntung Hilir",
+    "alias": "Sungai Guntung Hilir"
+  },
+  {
+    "code": "14.02.060.003",
+    "villageCode": "003",
+    "districtCode": "14.02.060",
+    "name": "Kuantan Babu",
+    "alias": "Kuantan Babu"
+  },
+  {
+    "code": "14.02.060.004",
+    "villageCode": "004",
+    "districtCode": "14.02.060",
+    "name": "Kampung Dagang",
+    "alias": "Kampung Dagang"
+  },
+  {
+    "code": "14.02.060.005",
+    "villageCode": "005",
+    "districtCode": "14.02.060",
+    "name": "Kampung Pulau",
+    "alias": "Kampung Pulau"
+  },
+  {
+    "code": "14.02.060.006",
+    "villageCode": "006",
+    "districtCode": "14.02.060",
+    "name": "Kampung Besar Kota",
+    "alias": "Kampung Besar Kota"
+  },
+  {
+    "code": "14.02.060.007",
+    "villageCode": "007",
+    "districtCode": "14.02.060",
+    "name": "Pasar Kota",
+    "alias": "Pasar Kota"
+  },
+  {
+    "code": "14.02.060.008",
+    "villageCode": "008",
+    "districtCode": "14.02.060",
+    "name": "Sekip Hulu",
+    "alias": "Sekip Hulu"
+  },
+  {
+    "code": "14.02.060.009",
+    "villageCode": "009",
+    "districtCode": "14.02.060",
+    "name": "Sekip Hilir",
+    "alias": "Sekip Hilir"
+  },
+  {
+    "code": "14.02.060.010",
+    "villageCode": "010",
+    "districtCode": "14.02.060",
+    "name": "Kampung Besar Seberang",
+    "alias": "Kampung Besar Seberang"
+  },
+  {
+    "code": "14.02.060.011",
+    "villageCode": "011",
+    "districtCode": "14.02.060",
+    "name": "Rantau Mapesai",
+    "alias": "Rantau Mapesai"
+  },
+  {
+    "code": "14.02.060.012",
+    "villageCode": "012",
+    "districtCode": "14.02.060",
+    "name": "Pasir Kemilu",
+    "alias": "Pasir Kemilu"
+  },
+  {
+    "code": "14.02.060.013",
+    "villageCode": "013",
+    "districtCode": "14.02.060",
+    "name": "Sungai Beringin",
+    "alias": "Sungai Beringin"
+  },
+  {
+    "code": "14.02.060.014",
+    "villageCode": "014",
+    "districtCode": "14.02.060",
+    "name": "Pulau Gajah",
+    "alias": "Pulau Gajah"
+  },
+  {
+    "code": "14.02.060.015",
+    "villageCode": "015",
+    "districtCode": "14.02.060",
+    "name": "Sungai Raya",
+    "alias": "Sungai Raya"
+  },
+  {
+    "code": "14.02.060.016",
+    "villageCode": "016",
+    "districtCode": "14.02.060",
+    "name": "Rawa Bangun",
+    "alias": "Rawa Bangun"
+  }
+]

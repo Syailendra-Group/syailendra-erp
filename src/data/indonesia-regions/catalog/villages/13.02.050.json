@@ -1,0 +1,72 @@
+[
+  {
+    "code": "13.02.050.001",
+    "villageCode": "001",
+    "districtCode": "13.02.050",
+    "name": "Sungai Tunu",
+    "alias": "Sungai Tunu"
+  },
+  {
+    "code": "13.02.050.002",
+    "villageCode": "002",
+    "districtCode": "13.02.050",
+    "name": "Palangai",
+    "alias": "Palangai"
+  },
+  {
+    "code": "13.02.050.003",
+    "villageCode": "003",
+    "districtCode": "13.02.050",
+    "name": "Sungai Tunu Barat",
+    "alias": "Sungai Tunu Barat"
+  },
+  {
+    "code": "13.02.050.004",
+    "villageCode": "004",
+    "districtCode": "13.02.050",
+    "name": "Sungai Tunu Utara",
+    "alias": "Sungai Tunu Utara"
+  },
+  {
+    "code": "13.02.050.005",
+    "villageCode": "005",
+    "districtCode": "13.02.050",
+    "name": "Nyiur Melambai Pelangai",
+    "alias": "Nyiur Melambai Pelangai"
+  },
+  {
+    "code": "13.02.050.006",
+    "villageCode": "006",
+    "districtCode": "13.02.050",
+    "name": "Pelangai Kaciak",
+    "alias": "Pelangai Kaciak"
+  },
+  {
+    "code": "13.02.050.007",
+    "villageCode": "007",
+    "districtCode": "13.02.050",
+    "name": "Pelangai Gadang",
+    "alias": "Pelangai Gadang"
+  },
+  {
+    "code": "13.02.050.008",
+    "villageCode": "008",
+    "districtCode": "13.02.050",
+    "name": "Koto Viii Pelangai",
+    "alias": "Koto Viii Pelangai"
+  },
+  {
+    "code": "13.02.050.009",
+    "villageCode": "009",
+    "districtCode": "13.02.050",
+    "name": "Pasia Pelangai",
+    "alias": "Pasia Pelangai"
+  },
+  {
+    "code": "13.02.050.010",
+    "villageCode": "010",
+    "districtCode": "13.02.050",
+    "name": "Sungai Liku Pelangai",
+    "alias": "Sungai Liku Pelangai"
+  }
+]

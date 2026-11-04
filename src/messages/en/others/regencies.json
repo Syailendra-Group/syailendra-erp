@@ -1,34 +1,33 @@
 {
-  "title": "Regencies & Cities",
-  "subtitle": "Plantation regions and distillation unit jurisdictions",
+  "title": "Regencies & Cities Master",
+  "subtitle": "Plantation centers and distillation units at regency/city level",
   "primaryAction": "Add Regency/City",
   "table": {
     "name": "Regency / City",
     "code": "Official Code",
     "province": "Parent Province",
-    "alias": "Alias",
-    "status": "Status"
+    "alias": "Alias"
   },
   "form": {
-    "catalogLabel": "Select from Indonesia Official Catalog",
-    "catalogPlaceholder": "Search & select regency / city...",
-    "namePlaceholder": "e.g. Wonosobo Regency",
+    "catalogLabel": "Select from 514 Regencies & Cities Catalog",
+    "catalogPlaceholder": "Search & select regency / city in Indonesia...",
+    "namePlaceholder": "e.g. Kabupaten Wonosobo",
     "aliasLabel": "Alias Name (For Dropdowns)",
     "aliasPlaceholder": "e.g. Wonosobo",
-    "descLabel": "Description / Geographical Character (Optional)",
-    "descPlaceholder": "Highland agribusiness center, hilly terrain..."
+    "descLabel": "Description / Geographical Profile (Optional)",
+    "descPlaceholder": "Highland agribusiness center, hilly contour..."
   },
   "dialog": {
     "addTitle": "Register New Regency / City",
     "addDesc": "Register a new regency or city into the system.",
-    "editTitle": "Edit Regency / City",
-    "editDesc": "Update regional identity, code, or parent province.",
+    "editTitle": "Edit Regency / City Data",
+    "editDesc": "Update name, official code, or parent province.",
     "viewTitle": "Regency / City Details",
-    "viewDesc": "Official regency information and parent province relation."
+    "viewDesc": "Official regional data and parent province information."
   },
   "alert": {
     "parentMissingTitle": "Parent Province Not Registered",
-    "parentMissingDesc": "Province {province} is not yet registered in Odoo master data.",
+    "parentMissingDesc": "Parent province {province} is not yet registered in Odoo master data.",
     "autoAddLabel": "Automatically register Province to Odoo:"
   }
 }

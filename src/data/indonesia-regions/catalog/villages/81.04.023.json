@@ -1,0 +1,37 @@
+[
+  {
+    "code": "81.04.023.001",
+    "villageCode": "001",
+    "districtCode": "81.04.023",
+    "name": "Ilath",
+    "alias": "Ilath"
+  },
+  {
+    "code": "81.04.023.002",
+    "villageCode": "002",
+    "districtCode": "81.04.023",
+    "name": "Waemorat",
+    "alias": "Waemorat"
+  },
+  {
+    "code": "81.04.023.003",
+    "villageCode": "003",
+    "districtCode": "81.04.023",
+    "name": "Batu Jungku",
+    "alias": "Batu Jungku"
+  },
+  {
+    "code": "81.04.023.004",
+    "villageCode": "004",
+    "districtCode": "81.04.023",
+    "name": "Pela",
+    "alias": "Pela"
+  },
+  {
+    "code": "81.04.023.006",
+    "villageCode": "006",
+    "districtCode": "81.04.023",
+    "name": "Namlea Ilath",
+    "alias": "Namlea Ilath"
+  }
+]

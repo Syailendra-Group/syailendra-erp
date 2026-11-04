@@ -1,0 +1,4114 @@
+[
+  {
+    "code": "11.01",
+    "regencyCode": "01",
+    "provinceCode": "11",
+    "provinceName": "Aceh",
+    "name": "Kabupaten Simeulue",
+    "alias": "Simeulue"
+  },
+  {
+    "code": "11.02",
+    "regencyCode": "02",
+    "provinceCode": "11",
+    "provinceName": "Aceh",
+    "name": "Kabupaten Aceh Singkil",
+    "alias": "Aceh Singkil"
+  },
+  {
+    "code": "11.03",
+    "regencyCode": "03",
+    "provinceCode": "11",
+    "provinceName": "Aceh",
+    "name": "Kabupaten Aceh Selatan",
+    "alias": "Aceh Selatan"
+  },
+  {
+    "code": "11.04",
+    "regencyCode": "04",
+    "provinceCode": "11",
+    "provinceName": "Aceh",
+    "name": "Kabupaten Aceh Tenggara",
+    "alias": "Aceh Tenggara"
+  },
+  {
+    "code": "11.05",
+    "regencyCode": "05",
+    "provinceCode": "11",
+    "provinceName": "Aceh",
+    "name": "Kabupaten Aceh Timur",
+    "alias": "Aceh Timur"
+  },
+  {
+    "code": "11.06",
+    "regencyCode": "06",
+    "provinceCode": "11",
+    "provinceName": "Aceh",
+    "name": "Kabupaten Aceh Tengah",
+    "alias": "Aceh Tengah"
+  },
+  {
+    "code": "11.07",
+    "regencyCode": "07",
+    "provinceCode": "11",
+    "provinceName": "Aceh",
+    "name": "Kabupaten Aceh Barat",
+    "alias": "Aceh Barat"
+  },
+  {
+    "code": "11.08",
+    "regencyCode": "08",
+    "provinceCode": "11",
+    "provinceName": "Aceh",
+    "name": "Kabupaten Aceh Besar",
+    "alias": "Aceh Besar"
+  },
+  {
+    "code": "11.09",
+    "regencyCode": "09",
+    "provinceCode": "11",
+    "provinceName": "Aceh",
+    "name": "Kabupaten Pidie",
+    "alias": "Pidie"
+  },
+  {
+    "code": "11.10",
+    "regencyCode": "10",
+    "provinceCode": "11",
+    "provinceName": "Aceh",
+    "name": "Kabupaten Bireuen",
+    "alias": "Bireuen"
+  },
+  {
+    "code": "11.11",
+    "regencyCode": "11",
+    "provinceCode": "11",
+    "provinceName": "Aceh",
+    "name": "Kabupaten Aceh Utara",
+    "alias": "Aceh Utara"
+  },
+  {
+    "code": "11.12",
+    "regencyCode": "12",
+    "provinceCode": "11",
+    "provinceName": "Aceh",
+    "name": "Kabupaten Aceh Barat Daya",
+    "alias": "Aceh Barat Daya"
+  },
+  {
+    "code": "11.13",
+    "regencyCode": "13",
+    "provinceCode": "11",
+    "provinceName": "Aceh",
+    "name": "Kabupaten Gayo Lues",
+    "alias": "Gayo Lues"
+  },
+  {
+    "code": "11.14",
+    "regencyCode": "14",
+    "provinceCode": "11",
+    "provinceName": "Aceh",
+    "name": "Kabupaten Aceh Tamiang",
+    "alias": "Aceh Tamiang"
+  },
+  {
+    "code": "11.15",
+    "regencyCode": "15",
+    "provinceCode": "11",
+    "provinceName": "Aceh",
+    "name": "Kabupaten Nagan Raya",
+    "alias": "Nagan Raya"
+  },
+  {
+    "code": "11.16",
+    "regencyCode": "16",
+    "provinceCode": "11",
+    "provinceName": "Aceh",
+    "name": "Kabupaten Aceh Jaya",
+    "alias": "Aceh Jaya"
+  },
+  {
+    "code": "11.17",
+    "regencyCode": "17",
+    "provinceCode": "11",
+    "provinceName": "Aceh",
+    "name": "Kabupaten Bener Meriah",
+    "alias": "Bener Meriah"
+  },
+  {
+    "code": "11.18",
+    "regencyCode": "18",
+    "provinceCode": "11",
+    "provinceName": "Aceh",
+    "name": "Kabupaten Pidie Jaya",
+    "alias": "Pidie Jaya"
+  },
+  {
+    "code": "11.71",
+    "regencyCode": "71",
+    "provinceCode": "11",
+    "provinceName": "Aceh",
+    "name": "Kota Banda Aceh",
+    "alias": "Banda Aceh"
+  },
+  {
+    "code": "11.72",
+    "regencyCode": "72",
+    "provinceCode": "11",
+    "provinceName": "Aceh",
+    "name": "Kota Sabang",
+    "alias": "Sabang"
+  },
+  {
+    "code": "11.73",
+    "regencyCode": "73",
+    "provinceCode": "11",
+    "provinceName": "Aceh",
+    "name": "Kota Langsa",
+    "alias": "Langsa"
+  },
+  {
+    "code": "11.74",
+    "regencyCode": "74",
+    "provinceCode": "11",
+    "provinceName": "Aceh",
+    "name": "Kota Lhokseumawe",
+    "alias": "Lhokseumawe"
+  },
+  {
+    "code": "11.75",
+    "regencyCode": "75",
+    "provinceCode": "11",
+    "provinceName": "Aceh",
+    "name": "Kota Subulussalam",
+    "alias": "Subulussalam"
+  },
+  {
+    "code": "12.01",
+    "regencyCode": "01",
+    "provinceCode": "12",
+    "provinceName": "Sumatera Utara",
+    "name": "Kabupaten Nias",
+    "alias": "Nias"
+  },
+  {
+    "code": "12.02",
+    "regencyCode": "02",
+    "provinceCode": "12",
+    "provinceName": "Sumatera Utara",
+    "name": "Kabupaten Mandailing Natal",
+    "alias": "Mandailing Natal"
+  },
+  {
+    "code": "12.03",
+    "regencyCode": "03",
+    "provinceCode": "12",
+    "provinceName": "Sumatera Utara",
+    "name": "Kabupaten Tapanuli Selatan",
+    "alias": "Tapanuli Selatan"
+  },
+  {
+    "code": "12.04",
+    "regencyCode": "04",
+    "provinceCode": "12",
+    "provinceName": "Sumatera Utara",
+    "name": "Kabupaten Tapanuli Tengah",
+    "alias": "Tapanuli Tengah"
+  },
+  {
+    "code": "12.05",
+    "regencyCode": "05",
+    "provinceCode": "12",
+    "provinceName": "Sumatera Utara",
+    "name": "Kabupaten Tapanuli Utara",
+    "alias": "Tapanuli Utara"
+  },
+  {
+    "code": "12.06",
+    "regencyCode": "06",
+    "provinceCode": "12",
+    "provinceName": "Sumatera Utara",
+    "name": "Kabupaten Toba",
+    "alias": "Toba"
+  },
+  {
+    "code": "12.07",
+    "regencyCode": "07",
+    "provinceCode": "12",
+    "provinceName": "Sumatera Utara",
+    "name": "Kabupaten Labuhanbatu",
+    "alias": "Labuhanbatu"
+  },
+  {
+    "code": "12.08",
+    "regencyCode": "08",
+    "provinceCode": "12",
+    "provinceName": "Sumatera Utara",
+    "name": "Kabupaten Asahan",
+    "alias": "Asahan"
+  },
+  {
+    "code": "12.09",
+    "regencyCode": "09",
+    "provinceCode": "12",
+    "provinceName": "Sumatera Utara",
+    "name": "Kabupaten Simalungun",
+    "alias": "Simalungun"
+  },
+  {
+    "code": "12.10",
+    "regencyCode": "10",
+    "provinceCode": "12",
+    "provinceName": "Sumatera Utara",
+    "name": "Kabupaten Dairi",
+    "alias": "Dairi"
+  },
+  {
+    "code": "12.11",
+    "regencyCode": "11",
+    "provinceCode": "12",
+    "provinceName": "Sumatera Utara",
+    "name": "Kabupaten Karo",
+    "alias": "Karo"
+  },
+  {
+    "code": "12.12",
+    "regencyCode": "12",
+    "provinceCode": "12",
+    "provinceName": "Sumatera Utara",
+    "name": "Kabupaten Deli Serdang",
+    "alias": "Deli Serdang"
+  },
+  {
+    "code": "12.13",
+    "regencyCode": "13",
+    "provinceCode": "12",
+    "provinceName": "Sumatera Utara",
+    "name": "Kabupaten Langkat",
+    "alias": "Langkat"
+  },
+  {
+    "code": "12.14",
+    "regencyCode": "14",
+    "provinceCode": "12",
+    "provinceName": "Sumatera Utara",
+    "name": "Kabupaten Nias Selatan",
+    "alias": "Nias Selatan"
+  },
+  {
+    "code": "12.15",
+    "regencyCode": "15",
+    "provinceCode": "12",
+    "provinceName": "Sumatera Utara",
+    "name": "Kabupaten Humbang Hasundutan",
+    "alias": "Humbang Hasundutan"
+  },
+  {
+    "code": "12.16",
+    "regencyCode": "16",
+    "provinceCode": "12",
+    "provinceName": "Sumatera Utara",
+    "name": "Kabupaten Pakpak Bharat",
+    "alias": "Pakpak Bharat"
+  },
+  {
+    "code": "12.17",
+    "regencyCode": "17",
+    "provinceCode": "12",
+    "provinceName": "Sumatera Utara",
+    "name": "Kabupaten Samosir",
+    "alias": "Samosir"
+  },
+  {
+    "code": "12.18",
+    "regencyCode": "18",
+    "provinceCode": "12",
+    "provinceName": "Sumatera Utara",
+    "name": "Kabupaten Serdang Bedagai",
+    "alias": "Serdang Bedagai"
+  },
+  {
+    "code": "12.19",
+    "regencyCode": "19",
+    "provinceCode": "12",
+    "provinceName": "Sumatera Utara",
+    "name": "Kabupaten Batu Bara",
+    "alias": "Batu Bara"
+  },
+  {
+    "code": "12.20",
+    "regencyCode": "20",
+    "provinceCode": "12",
+    "provinceName": "Sumatera Utara",
+    "name": "Kabupaten Padang Lawas Utara",
+    "alias": "Padang Lawas Utara"
+  },
+  {
+    "code": "12.21",
+    "regencyCode": "21",
+    "provinceCode": "12",
+    "provinceName": "Sumatera Utara",
+    "name": "Kabupaten Padang Lawas",
+    "alias": "Padang Lawas"
+  },
+  {
+    "code": "12.22",
+    "regencyCode": "22",
+    "provinceCode": "12",
+    "provinceName": "Sumatera Utara",
+    "name": "Kabupaten Labuhanbatu Selatan",
+    "alias": "Labuhanbatu Selatan"
+  },
+  {
+    "code": "12.23",
+    "regencyCode": "23",
+    "provinceCode": "12",
+    "provinceName": "Sumatera Utara",
+    "name": "Kabupaten Labuhanbatu Utara",
+    "alias": "Labuhanbatu Utara"
+  },
+  {
+    "code": "12.24",
+    "regencyCode": "24",
+    "provinceCode": "12",
+    "provinceName": "Sumatera Utara",
+    "name": "Kabupaten Nias Utara",
+    "alias": "Nias Utara"
+  },
+  {
+    "code": "12.25",
+    "regencyCode": "25",
+    "provinceCode": "12",
+    "provinceName": "Sumatera Utara",
+    "name": "Kabupaten Nias Barat",
+    "alias": "Nias Barat"
+  },
+  {
+    "code": "12.71",
+    "regencyCode": "71",
+    "provinceCode": "12",
+    "provinceName": "Sumatera Utara",
+    "name": "Kota Sibolga",
+    "alias": "Sibolga"
+  },
+  {
+    "code": "12.72",
+    "regencyCode": "72",
+    "provinceCode": "12",
+    "provinceName": "Sumatera Utara",
+    "name": "Kota Tanjung Balai",
+    "alias": "Tanjung Balai"
+  },
+  {
+    "code": "12.73",
+    "regencyCode": "73",
+    "provinceCode": "12",
+    "provinceName": "Sumatera Utara",
+    "name": "Kota Pematangsiantar",
+    "alias": "Pematangsiantar"
+  },
+  {
+    "code": "12.74",
+    "regencyCode": "74",
+    "provinceCode": "12",
+    "provinceName": "Sumatera Utara",
+    "name": "Kota Tebing Tinggi",
+    "alias": "Tebing Tinggi"
+  },
+  {
+    "code": "12.75",
+    "regencyCode": "75",
+    "provinceCode": "12",
+    "provinceName": "Sumatera Utara",
+    "name": "Kota Medan",
+    "alias": "Medan"
+  },
+  {
+    "code": "12.76",
+    "regencyCode": "76",
+    "provinceCode": "12",
+    "provinceName": "Sumatera Utara",
+    "name": "Kota Binjai",
+    "alias": "Binjai"
+  },
+  {
+    "code": "12.77",
+    "regencyCode": "77",
+    "provinceCode": "12",
+    "provinceName": "Sumatera Utara",
+    "name": "Kota Padang Sidempuan",
+    "alias": "Padang Sidempuan"
+  },
+  {
+    "code": "12.78",
+    "regencyCode": "78",
+    "provinceCode": "12",
+    "provinceName": "Sumatera Utara",
+    "name": "Kota Gunungsitoli",
+    "alias": "Gunungsitoli"
+  },
+  {
+    "code": "13.01",
+    "regencyCode": "01",
+    "provinceCode": "13",
+    "provinceName": "Sumatera Barat",
+    "name": "Kabupaten Kepulauan Mentawai",
+    "alias": "Kepulauan Mentawai"
+  },
+  {
+    "code": "13.02",
+    "regencyCode": "02",
+    "provinceCode": "13",
+    "provinceName": "Sumatera Barat",
+    "name": "Kabupaten Pesisir Selatan",
+    "alias": "Pesisir Selatan"
+  },
+  {
+    "code": "13.03",
+    "regencyCode": "03",
+    "provinceCode": "13",
+    "provinceName": "Sumatera Barat",
+    "name": "Kabupaten Solok",
+    "alias": "Solok"
+  },
+  {
+    "code": "13.04",
+    "regencyCode": "04",
+    "provinceCode": "13",
+    "provinceName": "Sumatera Barat",
+    "name": "Kabupaten Sijunjung",
+    "alias": "Sijunjung"
+  },
+  {
+    "code": "13.05",
+    "regencyCode": "05",
+    "provinceCode": "13",
+    "provinceName": "Sumatera Barat",
+    "name": "Kabupaten Tanah Datar",
+    "alias": "Tanah Datar"
+  },
+  {
+    "code": "13.06",
+    "regencyCode": "06",
+    "provinceCode": "13",
+    "provinceName": "Sumatera Barat",
+    "name": "Kabupaten Padang Pariaman",
+    "alias": "Padang Pariaman"
+  },
+  {
+    "code": "13.07",
+    "regencyCode": "07",
+    "provinceCode": "13",
+    "provinceName": "Sumatera Barat",
+    "name": "Kabupaten Agam",
+    "alias": "Agam"
+  },
+  {
+    "code": "13.08",
+    "regencyCode": "08",
+    "provinceCode": "13",
+    "provinceName": "Sumatera Barat",
+    "name": "Kabupaten Lima Puluh Kota",
+    "alias": "Lima Puluh Kota"
+  },
+  {
+    "code": "13.09",
+    "regencyCode": "09",
+    "provinceCode": "13",
+    "provinceName": "Sumatera Barat",
+    "name": "Kabupaten Pasaman",
+    "alias": "Pasaman"
+  },
+  {
+    "code": "13.10",
+    "regencyCode": "10",
+    "provinceCode": "13",
+    "provinceName": "Sumatera Barat",
+    "name": "Kabupaten Solok Selatan",
+    "alias": "Solok Selatan"
+  },
+  {
+    "code": "13.11",
+    "regencyCode": "11",
+    "provinceCode": "13",
+    "provinceName": "Sumatera Barat",
+    "name": "Kabupaten Dharmasraya",
+    "alias": "Dharmasraya"
+  },
+  {
+    "code": "13.12",
+    "regencyCode": "12",
+    "provinceCode": "13",
+    "provinceName": "Sumatera Barat",
+    "name": "Kabupaten Pasaman Barat",
+    "alias": "Pasaman Barat"
+  },
+  {
+    "code": "13.71",
+    "regencyCode": "71",
+    "provinceCode": "13",
+    "provinceName": "Sumatera Barat",
+    "name": "Kota Padang",
+    "alias": "Padang"
+  },
+  {
+    "code": "13.72",
+    "regencyCode": "72",
+    "provinceCode": "13",
+    "provinceName": "Sumatera Barat",
+    "name": "Kota Solok",
+    "alias": "Solok"
+  },
+  {
+    "code": "13.73",
+    "regencyCode": "73",
+    "provinceCode": "13",
+    "provinceName": "Sumatera Barat",
+    "name": "Kota Sawahlunto",
+    "alias": "Sawahlunto"
+  },
+  {
+    "code": "13.74",
+    "regencyCode": "74",
+    "provinceCode": "13",
+    "provinceName": "Sumatera Barat",
+    "name": "Kota Padang Panjang",
+    "alias": "Padang Panjang"
+  },
+  {
+    "code": "13.75",
+    "regencyCode": "75",
+    "provinceCode": "13",
+    "provinceName": "Sumatera Barat",
+    "name": "Kota Bukittinggi",
+    "alias": "Bukittinggi"
+  },
+  {
+    "code": "13.76",
+    "regencyCode": "76",
+    "provinceCode": "13",
+    "provinceName": "Sumatera Barat",
+    "name": "Kota Payakumbuh",
+    "alias": "Payakumbuh"
+  },
+  {
+    "code": "13.77",
+    "regencyCode": "77",
+    "provinceCode": "13",
+    "provinceName": "Sumatera Barat",
+    "name": "Kota Pariaman",
+    "alias": "Pariaman"
+  },
+  {
+    "code": "14.01",
+    "regencyCode": "01",
+    "provinceCode": "14",
+    "provinceName": "Riau",
+    "name": "Kabupaten Kuantan Singingi",
+    "alias": "Kuantan Singingi"
+  },
+  {
+    "code": "14.02",
+    "regencyCode": "02",
+    "provinceCode": "14",
+    "provinceName": "Riau",
+    "name": "Kabupaten Indragiri Hulu",
+    "alias": "Indragiri Hulu"
+  },
+  {
+    "code": "14.03",
+    "regencyCode": "03",
+    "provinceCode": "14",
+    "provinceName": "Riau",
+    "name": "Kabupaten Indragiri Hilir",
+    "alias": "Indragiri Hilir"
+  },
+  {
+    "code": "14.04",
+    "regencyCode": "04",
+    "provinceCode": "14",
+    "provinceName": "Riau",
+    "name": "Kabupaten Pelalawan",
+    "alias": "Pelalawan"
+  },
+  {
+    "code": "14.05",
+    "regencyCode": "05",
+    "provinceCode": "14",
+    "provinceName": "Riau",
+    "name": "Kabupaten Siak",
+    "alias": "Siak"
+  },
+  {
+    "code": "14.06",
+    "regencyCode": "06",
+    "provinceCode": "14",
+    "provinceName": "Riau",
+    "name": "Kabupaten Kampar",
+    "alias": "Kampar"
+  },
+  {
+    "code": "14.07",
+    "regencyCode": "07",
+    "provinceCode": "14",
+    "provinceName": "Riau",
+    "name": "Kabupaten Rokan Hulu",
+    "alias": "Rokan Hulu"
+  },
+  {
+    "code": "14.08",
+    "regencyCode": "08",
+    "provinceCode": "14",
+    "provinceName": "Riau",
+    "name": "Kabupaten Bengkalis",
+    "alias": "Bengkalis"
+  },
+  {
+    "code": "14.09",
+    "regencyCode": "09",
+    "provinceCode": "14",
+    "provinceName": "Riau",
+    "name": "Kabupaten Rokan Hilir",
+    "alias": "Rokan Hilir"
+  },
+  {
+    "code": "14.10",
+    "regencyCode": "10",
+    "provinceCode": "14",
+    "provinceName": "Riau",
+    "name": "Kabupaten Kepulauan Meranti",
+    "alias": "Kepulauan Meranti"
+  },
+  {
+    "code": "14.71",
+    "regencyCode": "71",
+    "provinceCode": "14",
+    "provinceName": "Riau",
+    "name": "Kota Pekanbaru",
+    "alias": "Pekanbaru"
+  },
+  {
+    "code": "14.73",
+    "regencyCode": "73",
+    "provinceCode": "14",
+    "provinceName": "Riau",
+    "name": "Kota Dumai",
+    "alias": "Dumai"
+  },
+  {
+    "code": "15.01",
+    "regencyCode": "01",
+    "provinceCode": "15",
+    "provinceName": "Jambi",
+    "name": "Kabupaten Kerinci",
+    "alias": "Kerinci"
+  },
+  {
+    "code": "15.02",
+    "regencyCode": "02",
+    "provinceCode": "15",
+    "provinceName": "Jambi",
+    "name": "Kabupaten Merangin",
+    "alias": "Merangin"
+  },
+  {
+    "code": "15.03",
+    "regencyCode": "03",
+    "provinceCode": "15",
+    "provinceName": "Jambi",
+    "name": "Kabupaten Sarolangun",
+    "alias": "Sarolangun"
+  },
+  {
+    "code": "15.04",
+    "regencyCode": "04",
+    "provinceCode": "15",
+    "provinceName": "Jambi",
+    "name": "Kabupaten Batanghari",
+    "alias": "Batanghari"
+  },
+  {
+    "code": "15.05",
+    "regencyCode": "05",
+    "provinceCode": "15",
+    "provinceName": "Jambi",
+    "name": "Kabupaten Muaro Jambi",
+    "alias": "Muaro Jambi"
+  },
+  {
+    "code": "15.06",
+    "regencyCode": "06",
+    "provinceCode": "15",
+    "provinceName": "Jambi",
+    "name": "Kabupaten Tanjung Jabung Timur",
+    "alias": "Tanjung Jabung Timur"
+  },
+  {
+    "code": "15.07",
+    "regencyCode": "07",
+    "provinceCode": "15",
+    "provinceName": "Jambi",
+    "name": "Kabupaten Tanjung Jabung Barat",
+    "alias": "Tanjung Jabung Barat"
+  },
+  {
+    "code": "15.08",
+    "regencyCode": "08",
+    "provinceCode": "15",
+    "provinceName": "Jambi",
+    "name": "Kabupaten Tebo",
+    "alias": "Tebo"
+  },
+  {
+    "code": "15.09",
+    "regencyCode": "09",
+    "provinceCode": "15",
+    "provinceName": "Jambi",
+    "name": "Kabupaten Bungo",
+    "alias": "Bungo"
+  },
+  {
+    "code": "15.71",
+    "regencyCode": "71",
+    "provinceCode": "15",
+    "provinceName": "Jambi",
+    "name": "Kota Jambi",
+    "alias": "Jambi"
+  },
+  {
+    "code": "15.72",
+    "regencyCode": "72",
+    "provinceCode": "15",
+    "provinceName": "Jambi",
+    "name": "Kota Sungai Penuh",
+    "alias": "Sungai Penuh"
+  },
+  {
+    "code": "16.01",
+    "regencyCode": "01",
+    "provinceCode": "16",
+    "provinceName": "Sumatera Selatan",
+    "name": "Kabupaten Ogan Komering Ulu",
+    "alias": "Ogan Komering Ulu"
+  },
+  {
+    "code": "16.02",
+    "regencyCode": "02",
+    "provinceCode": "16",
+    "provinceName": "Sumatera Selatan",
+    "name": "Kabupaten Ogan Komering Ilir",
+    "alias": "Ogan Komering Ilir"
+  },
+  {
+    "code": "16.03",
+    "regencyCode": "03",
+    "provinceCode": "16",
+    "provinceName": "Sumatera Selatan",
+    "name": "Kabupaten Muara Enim",
+    "alias": "Muara Enim"
+  },
+  {
+    "code": "16.04",
+    "regencyCode": "04",
+    "provinceCode": "16",
+    "provinceName": "Sumatera Selatan",
+    "name": "Kabupaten Lahat",
+    "alias": "Lahat"
+  },
+  {
+    "code": "16.05",
+    "regencyCode": "05",
+    "provinceCode": "16",
+    "provinceName": "Sumatera Selatan",
+    "name": "Kabupaten Musi Rawas",
+    "alias": "Musi Rawas"
+  },
+  {
+    "code": "16.06",
+    "regencyCode": "06",
+    "provinceCode": "16",
+    "provinceName": "Sumatera Selatan",
+    "name": "Kabupaten Musi Banyuasin",
+    "alias": "Musi Banyuasin"
+  },
+  {
+    "code": "16.07",
+    "regencyCode": "07",
+    "provinceCode": "16",
+    "provinceName": "Sumatera Selatan",
+    "name": "Kabupaten Banyuasin",
+    "alias": "Banyuasin"
+  },
+  {
+    "code": "16.08",
+    "regencyCode": "08",
+    "provinceCode": "16",
+    "provinceName": "Sumatera Selatan",
+    "name": "Kabupaten Ogan Komering Ulu\nSelatan",
+    "alias": "Ogan Komering Ulu\nSelatan"
+  },
+  {
+    "code": "16.09",
+    "regencyCode": "09",
+    "provinceCode": "16",
+    "provinceName": "Sumatera Selatan",
+    "name": "Kabupaten Ogan Komering Ulu Timur",
+    "alias": "Ogan Komering Ulu Timur"
+  },
+  {
+    "code": "16.10",
+    "regencyCode": "10",
+    "provinceCode": "16",
+    "provinceName": "Sumatera Selatan",
+    "name": "Kabupaten Ogan Ilir",
+    "alias": "Ogan Ilir"
+  },
+  {
+    "code": "16.11",
+    "regencyCode": "11",
+    "provinceCode": "16",
+    "provinceName": "Sumatera Selatan",
+    "name": "Kabupaten Empat Lawang",
+    "alias": "Empat Lawang"
+  },
+  {
+    "code": "16.12",
+    "regencyCode": "12",
+    "provinceCode": "16",
+    "provinceName": "Sumatera Selatan",
+    "name": "Kabupaten Penukal Abab Lematang\nIlir",
+    "alias": "Penukal Abab Lematang\nIlir"
+  },
+  {
+    "code": "16.13",
+    "regencyCode": "13",
+    "provinceCode": "16",
+    "provinceName": "Sumatera Selatan",
+    "name": "Kabupaten Musi Rawas Utara",
+    "alias": "Musi Rawas Utara"
+  },
+  {
+    "code": "16.71",
+    "regencyCode": "71",
+    "provinceCode": "16",
+    "provinceName": "Sumatera Selatan",
+    "name": "Kota Palembang",
+    "alias": "Palembang"
+  },
+  {
+    "code": "16.72",
+    "regencyCode": "72",
+    "provinceCode": "16",
+    "provinceName": "Sumatera Selatan",
+    "name": "Kota Prabumulih",
+    "alias": "Prabumulih"
+  },
+  {
+    "code": "16.73",
+    "regencyCode": "73",
+    "provinceCode": "16",
+    "provinceName": "Sumatera Selatan",
+    "name": "Kota Pagar Alam",
+    "alias": "Pagar Alam"
+  },
+  {
+    "code": "16.74",
+    "regencyCode": "74",
+    "provinceCode": "16",
+    "provinceName": "Sumatera Selatan",
+    "name": "Kota Lubuk Linggau",
+    "alias": "Lubuk Linggau"
+  },
+  {
+    "code": "17.01",
+    "regencyCode": "01",
+    "provinceCode": "17",
+    "provinceName": "Bengkulu",
+    "name": "Kabupaten Bengkulu Selatan",
+    "alias": "Bengkulu Selatan"
+  },
+  {
+    "code": "17.02",
+    "regencyCode": "02",
+    "provinceCode": "17",
+    "provinceName": "Bengkulu",
+    "name": "Kabupaten Rejang Lebong",
+    "alias": "Rejang Lebong"
+  },
+  {
+    "code": "17.03",
+    "regencyCode": "03",
+    "provinceCode": "17",
+    "provinceName": "Bengkulu",
+    "name": "Kabupaten Bengkulu Utara",
+    "alias": "Bengkulu Utara"
+  },
+  {
+    "code": "17.04",
+    "regencyCode": "04",
+    "provinceCode": "17",
+    "provinceName": "Bengkulu",
+    "name": "Kabupaten Kaur",
+    "alias": "Kaur"
+  },
+  {
+    "code": "17.05",
+    "regencyCode": "05",
+    "provinceCode": "17",
+    "provinceName": "Bengkulu",
+    "name": "Kabupaten Seluma",
+    "alias": "Seluma"
+  },
+  {
+    "code": "17.06",
+    "regencyCode": "06",
+    "provinceCode": "17",
+    "provinceName": "Bengkulu",
+    "name": "Kabupaten Muko Muko",
+    "alias": "Muko Muko"
+  },
+  {
+    "code": "17.07",
+    "regencyCode": "07",
+    "provinceCode": "17",
+    "provinceName": "Bengkulu",
+    "name": "Kabupaten Lebong",
+    "alias": "Lebong"
+  },
+  {
+    "code": "17.08",
+    "regencyCode": "08",
+    "provinceCode": "17",
+    "provinceName": "Bengkulu",
+    "name": "Kabupaten Kepahiang",
+    "alias": "Kepahiang"
+  },
+  {
+    "code": "17.09",
+    "regencyCode": "09",
+    "provinceCode": "17",
+    "provinceName": "Bengkulu",
+    "name": "Kabupaten Bengkulu Tengah",
+    "alias": "Bengkulu Tengah"
+  },
+  {
+    "code": "17.71",
+    "regencyCode": "71",
+    "provinceCode": "17",
+    "provinceName": "Bengkulu",
+    "name": "Kota Bengkulu",
+    "alias": "Bengkulu"
+  },
+  {
+    "code": "18.01",
+    "regencyCode": "01",
+    "provinceCode": "18",
+    "provinceName": "Lampung",
+    "name": "Kabupaten Lampung Barat",
+    "alias": "Lampung Barat"
+  },
+  {
+    "code": "18.02",
+    "regencyCode": "02",
+    "provinceCode": "18",
+    "provinceName": "Lampung",
+    "name": "Kabupaten Tanggamus",
+    "alias": "Tanggamus"
+  },
+  {
+    "code": "18.03",
+    "regencyCode": "03",
+    "provinceCode": "18",
+    "provinceName": "Lampung",
+    "name": "Kabupaten Lampung Selatan",
+    "alias": "Lampung Selatan"
+  },
+  {
+    "code": "18.04",
+    "regencyCode": "04",
+    "provinceCode": "18",
+    "provinceName": "Lampung",
+    "name": "Kabupaten Lampung Timur",
+    "alias": "Lampung Timur"
+  },
+  {
+    "code": "18.05",
+    "regencyCode": "05",
+    "provinceCode": "18",
+    "provinceName": "Lampung",
+    "name": "Kabupaten Lampung Tengah",
+    "alias": "Lampung Tengah"
+  },
+  {
+    "code": "18.06",
+    "regencyCode": "06",
+    "provinceCode": "18",
+    "provinceName": "Lampung",
+    "name": "Kabupaten Lampung Utara",
+    "alias": "Lampung Utara"
+  },
+  {
+    "code": "18.07",
+    "regencyCode": "07",
+    "provinceCode": "18",
+    "provinceName": "Lampung",
+    "name": "Kabupaten Way Kanan",
+    "alias": "Way Kanan"
+  },
+  {
+    "code": "18.08",
+    "regencyCode": "08",
+    "provinceCode": "18",
+    "provinceName": "Lampung",
+    "name": "Kabupaten Tulang Bawang",
+    "alias": "Tulang Bawang"
+  },
+  {
+    "code": "18.09",
+    "regencyCode": "09",
+    "provinceCode": "18",
+    "provinceName": "Lampung",
+    "name": "Kabupaten Pesawaran",
+    "alias": "Pesawaran"
+  },
+  {
+    "code": "18.10",
+    "regencyCode": "10",
+    "provinceCode": "18",
+    "provinceName": "Lampung",
+    "name": "Kabupaten Pringsewu",
+    "alias": "Pringsewu"
+  },
+  {
+    "code": "18.11",
+    "regencyCode": "11",
+    "provinceCode": "18",
+    "provinceName": "Lampung",
+    "name": "Kabupaten Mesuji",
+    "alias": "Mesuji"
+  },
+  {
+    "code": "18.12",
+    "regencyCode": "12",
+    "provinceCode": "18",
+    "provinceName": "Lampung",
+    "name": "Kabupaten Tulang Bawang Barat",
+    "alias": "Tulang Bawang Barat"
+  },
+  {
+    "code": "18.13",
+    "regencyCode": "13",
+    "provinceCode": "18",
+    "provinceName": "Lampung",
+    "name": "Kabupaten Pesisir Barat",
+    "alias": "Pesisir Barat"
+  },
+  {
+    "code": "18.71",
+    "regencyCode": "71",
+    "provinceCode": "18",
+    "provinceName": "Lampung",
+    "name": "Kota Bandar Lampung",
+    "alias": "Bandar Lampung"
+  },
+  {
+    "code": "18.72",
+    "regencyCode": "72",
+    "provinceCode": "18",
+    "provinceName": "Lampung",
+    "name": "Kota Metro",
+    "alias": "Metro"
+  },
+  {
+    "code": "19.01",
+    "regencyCode": "01",
+    "provinceCode": "19",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "name": "Kabupaten Bangka",
+    "alias": "Bangka"
+  },
+  {
+    "code": "19.02",
+    "regencyCode": "02",
+    "provinceCode": "19",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "name": "Kabupaten Belitung",
+    "alias": "Belitung"
+  },
+  {
+    "code": "19.03",
+    "regencyCode": "03",
+    "provinceCode": "19",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "name": "Kabupaten Bangka Barat",
+    "alias": "Bangka Barat"
+  },
+  {
+    "code": "19.04",
+    "regencyCode": "04",
+    "provinceCode": "19",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "name": "Kabupaten Bangka Tengah",
+    "alias": "Bangka Tengah"
+  },
+  {
+    "code": "19.05",
+    "regencyCode": "05",
+    "provinceCode": "19",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "name": "Kabupaten Bangka Selatan",
+    "alias": "Bangka Selatan"
+  },
+  {
+    "code": "19.06",
+    "regencyCode": "06",
+    "provinceCode": "19",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "name": "Kabupaten Belitung Timur",
+    "alias": "Belitung Timur"
+  },
+  {
+    "code": "19.71",
+    "regencyCode": "71",
+    "provinceCode": "19",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "name": "Kota Pangkal Pinang",
+    "alias": "Pangkal Pinang"
+  },
+  {
+    "code": "21.01",
+    "regencyCode": "01",
+    "provinceCode": "21",
+    "provinceName": "Kepulauan Riau",
+    "name": "Kabupaten Karimun",
+    "alias": "Karimun"
+  },
+  {
+    "code": "21.02",
+    "regencyCode": "02",
+    "provinceCode": "21",
+    "provinceName": "Kepulauan Riau",
+    "name": "Kabupaten Bintan",
+    "alias": "Bintan"
+  },
+  {
+    "code": "21.03",
+    "regencyCode": "03",
+    "provinceCode": "21",
+    "provinceName": "Kepulauan Riau",
+    "name": "Kabupaten Natuna",
+    "alias": "Natuna"
+  },
+  {
+    "code": "21.04",
+    "regencyCode": "04",
+    "provinceCode": "21",
+    "provinceName": "Kepulauan Riau",
+    "name": "Kabupaten Lingga",
+    "alias": "Lingga"
+  },
+  {
+    "code": "21.05",
+    "regencyCode": "05",
+    "provinceCode": "21",
+    "provinceName": "Kepulauan Riau",
+    "name": "Kabupaten Kepulauan Anambas",
+    "alias": "Kepulauan Anambas"
+  },
+  {
+    "code": "21.71",
+    "regencyCode": "71",
+    "provinceCode": "21",
+    "provinceName": "Kepulauan Riau",
+    "name": "Kota Batam",
+    "alias": "Batam"
+  },
+  {
+    "code": "21.72",
+    "regencyCode": "72",
+    "provinceCode": "21",
+    "provinceName": "Kepulauan Riau",
+    "name": "Kota Tanjung Pinang",
+    "alias": "Tanjung Pinang"
+  },
+  {
+    "code": "31.01",
+    "regencyCode": "01",
+    "provinceCode": "31",
+    "provinceName": "DKI Jakarta",
+    "name": "Kabupaten Adm. Kep. Seribu",
+    "alias": "Adm. Kep. Seribu"
+  },
+  {
+    "code": "31.71",
+    "regencyCode": "71",
+    "provinceCode": "31",
+    "provinceName": "DKI Jakarta",
+    "name": "Kota Adm. Jakarta Selatan",
+    "alias": "Adm. Jakarta Selatan"
+  },
+  {
+    "code": "31.72",
+    "regencyCode": "72",
+    "provinceCode": "31",
+    "provinceName": "DKI Jakarta",
+    "name": "Kota Adm. Jakarta Timur",
+    "alias": "Adm. Jakarta Timur"
+  },
+  {
+    "code": "31.73",
+    "regencyCode": "73",
+    "provinceCode": "31",
+    "provinceName": "DKI Jakarta",
+    "name": "Kota Adm. Jakarta Pusat",
+    "alias": "Adm. Jakarta Pusat"
+  },
+  {
+    "code": "31.74",
+    "regencyCode": "74",
+    "provinceCode": "31",
+    "provinceName": "DKI Jakarta",
+    "name": "Kota Adm. Jakarta Barat",
+    "alias": "Adm. Jakarta Barat"
+  },
+  {
+    "code": "31.75",
+    "regencyCode": "75",
+    "provinceCode": "31",
+    "provinceName": "DKI Jakarta",
+    "name": "Kota Adm. Jakarta Utara",
+    "alias": "Adm. Jakarta Utara"
+  },
+  {
+    "code": "32.01",
+    "regencyCode": "01",
+    "provinceCode": "32",
+    "provinceName": "Jawa Barat",
+    "name": "Kabupaten Bogor",
+    "alias": "Bogor"
+  },
+  {
+    "code": "32.02",
+    "regencyCode": "02",
+    "provinceCode": "32",
+    "provinceName": "Jawa Barat",
+    "name": "Kabupaten Sukabumi",
+    "alias": "Sukabumi"
+  },
+  {
+    "code": "32.03",
+    "regencyCode": "03",
+    "provinceCode": "32",
+    "provinceName": "Jawa Barat",
+    "name": "Kabupaten Cianjur",
+    "alias": "Cianjur"
+  },
+  {
+    "code": "32.04",
+    "regencyCode": "04",
+    "provinceCode": "32",
+    "provinceName": "Jawa Barat",
+    "name": "Kabupaten Bandung",
+    "alias": "Bandung"
+  },
+  {
+    "code": "32.05",
+    "regencyCode": "05",
+    "provinceCode": "32",
+    "provinceName": "Jawa Barat",
+    "name": "Kabupaten Garut",
+    "alias": "Garut"
+  },
+  {
+    "code": "32.06",
+    "regencyCode": "06",
+    "provinceCode": "32",
+    "provinceName": "Jawa Barat",
+    "name": "Kabupaten Tasikmalaya",
+    "alias": "Tasikmalaya"
+  },
+  {
+    "code": "32.07",
+    "regencyCode": "07",
+    "provinceCode": "32",
+    "provinceName": "Jawa Barat",
+    "name": "Kabupaten Ciamis",
+    "alias": "Ciamis"
+  },
+  {
+    "code": "32.08",
+    "regencyCode": "08",
+    "provinceCode": "32",
+    "provinceName": "Jawa Barat",
+    "name": "Kabupaten Kuningan",
+    "alias": "Kuningan"
+  },
+  {
+    "code": "32.09",
+    "regencyCode": "09",
+    "provinceCode": "32",
+    "provinceName": "Jawa Barat",
+    "name": "Kabupaten Cirebon",
+    "alias": "Cirebon"
+  },
+  {
+    "code": "32.10",
+    "regencyCode": "10",
+    "provinceCode": "32",
+    "provinceName": "Jawa Barat",
+    "name": "Kabupaten Majalengka",
+    "alias": "Majalengka"
+  },
+  {
+    "code": "32.11",
+    "regencyCode": "11",
+    "provinceCode": "32",
+    "provinceName": "Jawa Barat",
+    "name": "Kabupaten Sumedang",
+    "alias": "Sumedang"
+  },
+  {
+    "code": "32.12",
+    "regencyCode": "12",
+    "provinceCode": "32",
+    "provinceName": "Jawa Barat",
+    "name": "Kabupaten Indramayu",
+    "alias": "Indramayu"
+  },
+  {
+    "code": "32.13",
+    "regencyCode": "13",
+    "provinceCode": "32",
+    "provinceName": "Jawa Barat",
+    "name": "Kabupaten Subang",
+    "alias": "Subang"
+  },
+  {
+    "code": "32.14",
+    "regencyCode": "14",
+    "provinceCode": "32",
+    "provinceName": "Jawa Barat",
+    "name": "Kabupaten Purwakarta",
+    "alias": "Purwakarta"
+  },
+  {
+    "code": "32.15",
+    "regencyCode": "15",
+    "provinceCode": "32",
+    "provinceName": "Jawa Barat",
+    "name": "Kabupaten Karawang",
+    "alias": "Karawang"
+  },
+  {
+    "code": "32.16",
+    "regencyCode": "16",
+    "provinceCode": "32",
+    "provinceName": "Jawa Barat",
+    "name": "Kabupaten Bekasi",
+    "alias": "Bekasi"
+  },
+  {
+    "code": "32.17",
+    "regencyCode": "17",
+    "provinceCode": "32",
+    "provinceName": "Jawa Barat",
+    "name": "Kabupaten Bandung Barat",
+    "alias": "Bandung Barat"
+  },
+  {
+    "code": "32.18",
+    "regencyCode": "18",
+    "provinceCode": "32",
+    "provinceName": "Jawa Barat",
+    "name": "Kabupaten Pangandaran",
+    "alias": "Pangandaran"
+  },
+  {
+    "code": "32.71",
+    "regencyCode": "71",
+    "provinceCode": "32",
+    "provinceName": "Jawa Barat",
+    "name": "Kota Bogor",
+    "alias": "Bogor"
+  },
+  {
+    "code": "32.72",
+    "regencyCode": "72",
+    "provinceCode": "32",
+    "provinceName": "Jawa Barat",
+    "name": "Kota Sukabumi",
+    "alias": "Sukabumi"
+  },
+  {
+    "code": "32.73",
+    "regencyCode": "73",
+    "provinceCode": "32",
+    "provinceName": "Jawa Barat",
+    "name": "Kota Bandung",
+    "alias": "Bandung"
+  },
+  {
+    "code": "32.74",
+    "regencyCode": "74",
+    "provinceCode": "32",
+    "provinceName": "Jawa Barat",
+    "name": "Kota Cirebon",
+    "alias": "Cirebon"
+  },
+  {
+    "code": "32.75",
+    "regencyCode": "75",
+    "provinceCode": "32",
+    "provinceName": "Jawa Barat",
+    "name": "Kota Bekasi",
+    "alias": "Bekasi"
+  },
+  {
+    "code": "32.76",
+    "regencyCode": "76",
+    "provinceCode": "32",
+    "provinceName": "Jawa Barat",
+    "name": "Kota Depok",
+    "alias": "Depok"
+  },
+  {
+    "code": "32.77",
+    "regencyCode": "77",
+    "provinceCode": "32",
+    "provinceName": "Jawa Barat",
+    "name": "Kota Cimahi",
+    "alias": "Cimahi"
+  },
+  {
+    "code": "32.78",
+    "regencyCode": "78",
+    "provinceCode": "32",
+    "provinceName": "Jawa Barat",
+    "name": "Kota Tasikmalaya",
+    "alias": "Tasikmalaya"
+  },
+  {
+    "code": "32.79",
+    "regencyCode": "79",
+    "provinceCode": "32",
+    "provinceName": "Jawa Barat",
+    "name": "Kota Banjar",
+    "alias": "Banjar"
+  },
+  {
+    "code": "33.01",
+    "regencyCode": "01",
+    "provinceCode": "33",
+    "provinceName": "Jawa Tengah",
+    "name": "Kabupaten Cilacap",
+    "alias": "Cilacap"
+  },
+  {
+    "code": "33.02",
+    "regencyCode": "02",
+    "provinceCode": "33",
+    "provinceName": "Jawa Tengah",
+    "name": "Kabupaten Banyumas",
+    "alias": "Banyumas"
+  },
+  {
+    "code": "33.03",
+    "regencyCode": "03",
+    "provinceCode": "33",
+    "provinceName": "Jawa Tengah",
+    "name": "Kabupaten Purbalingga",
+    "alias": "Purbalingga"
+  },
+  {
+    "code": "33.04",
+    "regencyCode": "04",
+    "provinceCode": "33",
+    "provinceName": "Jawa Tengah",
+    "name": "Kabupaten Banjarnegara",
+    "alias": "Banjarnegara"
+  },
+  {
+    "code": "33.05",
+    "regencyCode": "05",
+    "provinceCode": "33",
+    "provinceName": "Jawa Tengah",
+    "name": "Kabupaten Kebumen",
+    "alias": "Kebumen"
+  },
+  {
+    "code": "33.06",
+    "regencyCode": "06",
+    "provinceCode": "33",
+    "provinceName": "Jawa Tengah",
+    "name": "Kabupaten Purworejo",
+    "alias": "Purworejo"
+  },
+  {
+    "code": "33.07",
+    "regencyCode": "07",
+    "provinceCode": "33",
+    "provinceName": "Jawa Tengah",
+    "name": "Kabupaten Wonosobo",
+    "alias": "Wonosobo"
+  },
+  {
+    "code": "33.08",
+    "regencyCode": "08",
+    "provinceCode": "33",
+    "provinceName": "Jawa Tengah",
+    "name": "Kabupaten Magelang",
+    "alias": "Magelang"
+  },
+  {
+    "code": "33.09",
+    "regencyCode": "09",
+    "provinceCode": "33",
+    "provinceName": "Jawa Tengah",
+    "name": "Kabupaten Boyolali",
+    "alias": "Boyolali"
+  },
+  {
+    "code": "33.10",
+    "regencyCode": "10",
+    "provinceCode": "33",
+    "provinceName": "Jawa Tengah",
+    "name": "Kabupaten Klaten",
+    "alias": "Klaten"
+  },
+  {
+    "code": "33.11",
+    "regencyCode": "11",
+    "provinceCode": "33",
+    "provinceName": "Jawa Tengah",
+    "name": "Kabupaten Sukoharjo",
+    "alias": "Sukoharjo"
+  },
+  {
+    "code": "33.12",
+    "regencyCode": "12",
+    "provinceCode": "33",
+    "provinceName": "Jawa Tengah",
+    "name": "Kabupaten Wonogiri",
+    "alias": "Wonogiri"
+  },
+  {
+    "code": "33.13",
+    "regencyCode": "13",
+    "provinceCode": "33",
+    "provinceName": "Jawa Tengah",
+    "name": "Kabupaten Karanganyar",
+    "alias": "Karanganyar"
+  },
+  {
+    "code": "33.14",
+    "regencyCode": "14",
+    "provinceCode": "33",
+    "provinceName": "Jawa Tengah",
+    "name": "Kabupaten Sragen",
+    "alias": "Sragen"
+  },
+  {
+    "code": "33.15",
+    "regencyCode": "15",
+    "provinceCode": "33",
+    "provinceName": "Jawa Tengah",
+    "name": "Kabupaten Grobogan",
+    "alias": "Grobogan"
+  },
+  {
+    "code": "33.16",
+    "regencyCode": "16",
+    "provinceCode": "33",
+    "provinceName": "Jawa Tengah",
+    "name": "Kabupaten Blora",
+    "alias": "Blora"
+  },
+  {
+    "code": "33.17",
+    "regencyCode": "17",
+    "provinceCode": "33",
+    "provinceName": "Jawa Tengah",
+    "name": "Kabupaten Rembang",
+    "alias": "Rembang"
+  },
+  {
+    "code": "33.18",
+    "regencyCode": "18",
+    "provinceCode": "33",
+    "provinceName": "Jawa Tengah",
+    "name": "Kabupaten Pati",
+    "alias": "Pati"
+  },
+  {
+    "code": "33.19",
+    "regencyCode": "19",
+    "provinceCode": "33",
+    "provinceName": "Jawa Tengah",
+    "name": "Kabupaten Kudus",
+    "alias": "Kudus"
+  },
+  {
+    "code": "33.20",
+    "regencyCode": "20",
+    "provinceCode": "33",
+    "provinceName": "Jawa Tengah",
+    "name": "Kabupaten Jepara",
+    "alias": "Jepara"
+  },
+  {
+    "code": "33.21",
+    "regencyCode": "21",
+    "provinceCode": "33",
+    "provinceName": "Jawa Tengah",
+    "name": "Kabupaten Demak",
+    "alias": "Demak"
+  },
+  {
+    "code": "33.22",
+    "regencyCode": "22",
+    "provinceCode": "33",
+    "provinceName": "Jawa Tengah",
+    "name": "Kabupaten Semarang",
+    "alias": "Semarang"
+  },
+  {
+    "code": "33.23",
+    "regencyCode": "23",
+    "provinceCode": "33",
+    "provinceName": "Jawa Tengah",
+    "name": "Kabupaten Temanggung",
+    "alias": "Temanggung"
+  },
+  {
+    "code": "33.24",
+    "regencyCode": "24",
+    "provinceCode": "33",
+    "provinceName": "Jawa Tengah",
+    "name": "Kabupaten Kendal",
+    "alias": "Kendal"
+  },
+  {
+    "code": "33.25",
+    "regencyCode": "25",
+    "provinceCode": "33",
+    "provinceName": "Jawa Tengah",
+    "name": "Kabupaten Batang",
+    "alias": "Batang"
+  },
+  {
+    "code": "33.26",
+    "regencyCode": "26",
+    "provinceCode": "33",
+    "provinceName": "Jawa Tengah",
+    "name": "Kabupaten Pekalongan",
+    "alias": "Pekalongan"
+  },
+  {
+    "code": "33.27",
+    "regencyCode": "27",
+    "provinceCode": "33",
+    "provinceName": "Jawa Tengah",
+    "name": "Kabupaten Pemalang",
+    "alias": "Pemalang"
+  },
+  {
+    "code": "33.28",
+    "regencyCode": "28",
+    "provinceCode": "33",
+    "provinceName": "Jawa Tengah",
+    "name": "Kabupaten Tegal",
+    "alias": "Tegal"
+  },
+  {
+    "code": "33.29",
+    "regencyCode": "29",
+    "provinceCode": "33",
+    "provinceName": "Jawa Tengah",
+    "name": "Kabupaten Brebes",
+    "alias": "Brebes"
+  },
+  {
+    "code": "33.71",
+    "regencyCode": "71",
+    "provinceCode": "33",
+    "provinceName": "Jawa Tengah",
+    "name": "Kota Magelang",
+    "alias": "Magelang"
+  },
+  {
+    "code": "33.72",
+    "regencyCode": "72",
+    "provinceCode": "33",
+    "provinceName": "Jawa Tengah",
+    "name": "Kota Surakarta",
+    "alias": "Surakarta"
+  },
+  {
+    "code": "33.73",
+    "regencyCode": "73",
+    "provinceCode": "33",
+    "provinceName": "Jawa Tengah",
+    "name": "Kota Salatiga",
+    "alias": "Salatiga"
+  },
+  {
+    "code": "33.74",
+    "regencyCode": "74",
+    "provinceCode": "33",
+    "provinceName": "Jawa Tengah",
+    "name": "Kota Semarang",
+    "alias": "Semarang"
+  },
+  {
+    "code": "33.75",
+    "regencyCode": "75",
+    "provinceCode": "33",
+    "provinceName": "Jawa Tengah",
+    "name": "Kota Pekalongan",
+    "alias": "Pekalongan"
+  },
+  {
+    "code": "33.76",
+    "regencyCode": "76",
+    "provinceCode": "33",
+    "provinceName": "Jawa Tengah",
+    "name": "Kota Tegal",
+    "alias": "Tegal"
+  },
+  {
+    "code": "34.01",
+    "regencyCode": "01",
+    "provinceCode": "34",
+    "provinceName": "DI Yogyakarta",
+    "name": "Kabupaten Kulon Progo",
+    "alias": "Kulon Progo"
+  },
+  {
+    "code": "34.02",
+    "regencyCode": "02",
+    "provinceCode": "34",
+    "provinceName": "DI Yogyakarta",
+    "name": "Kabupaten Bantul",
+    "alias": "Bantul"
+  },
+  {
+    "code": "34.03",
+    "regencyCode": "03",
+    "provinceCode": "34",
+    "provinceName": "DI Yogyakarta",
+    "name": "Kabupaten Gunungkidul",
+    "alias": "Gunungkidul"
+  },
+  {
+    "code": "34.04",
+    "regencyCode": "04",
+    "provinceCode": "34",
+    "provinceName": "DI Yogyakarta",
+    "name": "Kabupaten Sleman",
+    "alias": "Sleman"
+  },
+  {
+    "code": "34.71",
+    "regencyCode": "71",
+    "provinceCode": "34",
+    "provinceName": "DI Yogyakarta",
+    "name": "Kota Yogyakarta",
+    "alias": "Yogyakarta"
+  },
+  {
+    "code": "35.01",
+    "regencyCode": "01",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kabupaten Pacitan",
+    "alias": "Pacitan"
+  },
+  {
+    "code": "35.02",
+    "regencyCode": "02",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kabupaten Ponorogo",
+    "alias": "Ponorogo"
+  },
+  {
+    "code": "35.03",
+    "regencyCode": "03",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kabupaten Trenggalek",
+    "alias": "Trenggalek"
+  },
+  {
+    "code": "35.04",
+    "regencyCode": "04",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kabupaten Tulungagung",
+    "alias": "Tulungagung"
+  },
+  {
+    "code": "35.05",
+    "regencyCode": "05",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kabupaten Blitar",
+    "alias": "Blitar"
+  },
+  {
+    "code": "35.06",
+    "regencyCode": "06",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kabupaten Kediri",
+    "alias": "Kediri"
+  },
+  {
+    "code": "35.07",
+    "regencyCode": "07",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kabupaten Malang",
+    "alias": "Malang"
+  },
+  {
+    "code": "35.08",
+    "regencyCode": "08",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kabupaten Lumajang",
+    "alias": "Lumajang"
+  },
+  {
+    "code": "35.09",
+    "regencyCode": "09",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kabupaten Jember",
+    "alias": "Jember"
+  },
+  {
+    "code": "35.10",
+    "regencyCode": "10",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kabupaten Banyuwangi",
+    "alias": "Banyuwangi"
+  },
+  {
+    "code": "35.11",
+    "regencyCode": "11",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kabupaten Bondowoso",
+    "alias": "Bondowoso"
+  },
+  {
+    "code": "35.12",
+    "regencyCode": "12",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kabupaten Situbondo",
+    "alias": "Situbondo"
+  },
+  {
+    "code": "35.13",
+    "regencyCode": "13",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kabupaten Probolinggo",
+    "alias": "Probolinggo"
+  },
+  {
+    "code": "35.14",
+    "regencyCode": "14",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kabupaten Pasuruan",
+    "alias": "Pasuruan"
+  },
+  {
+    "code": "35.15",
+    "regencyCode": "15",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kabupaten Sidoarjo",
+    "alias": "Sidoarjo"
+  },
+  {
+    "code": "35.16",
+    "regencyCode": "16",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kabupaten Mojokerto",
+    "alias": "Mojokerto"
+  },
+  {
+    "code": "35.17",
+    "regencyCode": "17",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kabupaten Jombang",
+    "alias": "Jombang"
+  },
+  {
+    "code": "35.18",
+    "regencyCode": "18",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kabupaten Nganjuk",
+    "alias": "Nganjuk"
+  },
+  {
+    "code": "35.19",
+    "regencyCode": "19",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kabupaten Madiun",
+    "alias": "Madiun"
+  },
+  {
+    "code": "35.20",
+    "regencyCode": "20",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kabupaten Magetan",
+    "alias": "Magetan"
+  },
+  {
+    "code": "35.21",
+    "regencyCode": "21",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kabupaten Ngawi",
+    "alias": "Ngawi"
+  },
+  {
+    "code": "35.22",
+    "regencyCode": "22",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kabupaten Bojonegoro",
+    "alias": "Bojonegoro"
+  },
+  {
+    "code": "35.23",
+    "regencyCode": "23",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kabupaten Tuban",
+    "alias": "Tuban"
+  },
+  {
+    "code": "35.24",
+    "regencyCode": "24",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kabupaten Lamongan",
+    "alias": "Lamongan"
+  },
+  {
+    "code": "35.25",
+    "regencyCode": "25",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kabupaten Gresik",
+    "alias": "Gresik"
+  },
+  {
+    "code": "35.26",
+    "regencyCode": "26",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kabupaten Bangkalan",
+    "alias": "Bangkalan"
+  },
+  {
+    "code": "35.27",
+    "regencyCode": "27",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kabupaten Sampang",
+    "alias": "Sampang"
+  },
+  {
+    "code": "35.28",
+    "regencyCode": "28",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kabupaten Pamekasan",
+    "alias": "Pamekasan"
+  },
+  {
+    "code": "35.29",
+    "regencyCode": "29",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kabupaten Sumenep",
+    "alias": "Sumenep"
+  },
+  {
+    "code": "35.71",
+    "regencyCode": "71",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kota Kediri",
+    "alias": "Kediri"
+  },
+  {
+    "code": "35.72",
+    "regencyCode": "72",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kota Blitar",
+    "alias": "Blitar"
+  },
+  {
+    "code": "35.73",
+    "regencyCode": "73",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kota Malang",
+    "alias": "Malang"
+  },
+  {
+    "code": "35.74",
+    "regencyCode": "74",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kota Probolinggo",
+    "alias": "Probolinggo"
+  },
+  {
+    "code": "35.75",
+    "regencyCode": "75",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kota Pasuruan",
+    "alias": "Pasuruan"
+  },
+  {
+    "code": "35.76",
+    "regencyCode": "76",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kota Mojokerto",
+    "alias": "Mojokerto"
+  },
+  {
+    "code": "35.77",
+    "regencyCode": "77",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kota Madiun",
+    "alias": "Madiun"
+  },
+  {
+    "code": "35.78",
+    "regencyCode": "78",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kota Surabaya",
+    "alias": "Surabaya"
+  },
+  {
+    "code": "35.79",
+    "regencyCode": "79",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kota Batu",
+    "alias": "Batu"
+  },
+  {
+    "code": "36.01",
+    "regencyCode": "01",
+    "provinceCode": "36",
+    "provinceName": "Banten",
+    "name": "Kabupaten Pandeglang",
+    "alias": "Pandeglang"
+  },
+  {
+    "code": "36.02",
+    "regencyCode": "02",
+    "provinceCode": "36",
+    "provinceName": "Banten",
+    "name": "Kabupaten Lebak",
+    "alias": "Lebak"
+  },
+  {
+    "code": "36.03",
+    "regencyCode": "03",
+    "provinceCode": "36",
+    "provinceName": "Banten",
+    "name": "Kabupaten Tangerang",
+    "alias": "Tangerang"
+  },
+  {
+    "code": "36.04",
+    "regencyCode": "04",
+    "provinceCode": "36",
+    "provinceName": "Banten",
+    "name": "Kabupaten Serang",
+    "alias": "Serang"
+  },
+  {
+    "code": "36.71",
+    "regencyCode": "71",
+    "provinceCode": "36",
+    "provinceName": "Banten",
+    "name": "Kota Tangerang",
+    "alias": "Tangerang"
+  },
+  {
+    "code": "36.72",
+    "regencyCode": "72",
+    "provinceCode": "36",
+    "provinceName": "Banten",
+    "name": "Kota Cilegon",
+    "alias": "Cilegon"
+  },
+  {
+    "code": "36.73",
+    "regencyCode": "73",
+    "provinceCode": "36",
+    "provinceName": "Banten",
+    "name": "Kota Serang",
+    "alias": "Serang"
+  },
+  {
+    "code": "36.74",
+    "regencyCode": "74",
+    "provinceCode": "36",
+    "provinceName": "Banten",
+    "name": "Kota Tangerang Selatan",
+    "alias": "Tangerang Selatan"
+  },
+  {
+    "code": "51.01",
+    "regencyCode": "01",
+    "provinceCode": "51",
+    "provinceName": "Bali",
+    "name": "Kabupaten Jembrana",
+    "alias": "Jembrana"
+  },
+  {
+    "code": "51.02",
+    "regencyCode": "02",
+    "provinceCode": "51",
+    "provinceName": "Bali",
+    "name": "Kabupaten Tabanan",
+    "alias": "Tabanan"
+  },
+  {
+    "code": "51.03",
+    "regencyCode": "03",
+    "provinceCode": "51",
+    "provinceName": "Bali",
+    "name": "Kabupaten Badung",
+    "alias": "Badung"
+  },
+  {
+    "code": "51.04",
+    "regencyCode": "04",
+    "provinceCode": "51",
+    "provinceName": "Bali",
+    "name": "Kabupaten Gianyar",
+    "alias": "Gianyar"
+  },
+  {
+    "code": "51.05",
+    "regencyCode": "05",
+    "provinceCode": "51",
+    "provinceName": "Bali",
+    "name": "Kabupaten Klungkung",
+    "alias": "Klungkung"
+  },
+  {
+    "code": "51.06",
+    "regencyCode": "06",
+    "provinceCode": "51",
+    "provinceName": "Bali",
+    "name": "Kabupaten Bangli",
+    "alias": "Bangli"
+  },
+  {
+    "code": "51.07",
+    "regencyCode": "07",
+    "provinceCode": "51",
+    "provinceName": "Bali",
+    "name": "Kabupaten Karangasem",
+    "alias": "Karangasem"
+  },
+  {
+    "code": "51.08",
+    "regencyCode": "08",
+    "provinceCode": "51",
+    "provinceName": "Bali",
+    "name": "Kabupaten Buleleng",
+    "alias": "Buleleng"
+  },
+  {
+    "code": "51.71",
+    "regencyCode": "71",
+    "provinceCode": "51",
+    "provinceName": "Bali",
+    "name": "Kota Denpasar",
+    "alias": "Denpasar"
+  },
+  {
+    "code": "52.01",
+    "regencyCode": "01",
+    "provinceCode": "52",
+    "provinceName": "Nusa Tenggara Barat",
+    "name": "Kabupaten Lombok Barat",
+    "alias": "Lombok Barat"
+  },
+  {
+    "code": "52.02",
+    "regencyCode": "02",
+    "provinceCode": "52",
+    "provinceName": "Nusa Tenggara Barat",
+    "name": "Kabupaten Lombok Tengah",
+    "alias": "Lombok Tengah"
+  },
+  {
+    "code": "52.03",
+    "regencyCode": "03",
+    "provinceCode": "52",
+    "provinceName": "Nusa Tenggara Barat",
+    "name": "Kabupaten Lombok Timur",
+    "alias": "Lombok Timur"
+  },
+  {
+    "code": "52.04",
+    "regencyCode": "04",
+    "provinceCode": "52",
+    "provinceName": "Nusa Tenggara Barat",
+    "name": "Kabupaten Sumbawa",
+    "alias": "Sumbawa"
+  },
+  {
+    "code": "52.05",
+    "regencyCode": "05",
+    "provinceCode": "52",
+    "provinceName": "Nusa Tenggara Barat",
+    "name": "Kabupaten Dompu",
+    "alias": "Dompu"
+  },
+  {
+    "code": "52.06",
+    "regencyCode": "06",
+    "provinceCode": "52",
+    "provinceName": "Nusa Tenggara Barat",
+    "name": "Kabupaten Bima",
+    "alias": "Bima"
+  },
+  {
+    "code": "52.07",
+    "regencyCode": "07",
+    "provinceCode": "52",
+    "provinceName": "Nusa Tenggara Barat",
+    "name": "Kabupaten Sumbawa Barat",
+    "alias": "Sumbawa Barat"
+  },
+  {
+    "code": "52.08",
+    "regencyCode": "08",
+    "provinceCode": "52",
+    "provinceName": "Nusa Tenggara Barat",
+    "name": "Kabupaten Lombok Utara",
+    "alias": "Lombok Utara"
+  },
+  {
+    "code": "52.71",
+    "regencyCode": "71",
+    "provinceCode": "52",
+    "provinceName": "Nusa Tenggara Barat",
+    "name": "Kota Mataram",
+    "alias": "Mataram"
+  },
+  {
+    "code": "52.72",
+    "regencyCode": "72",
+    "provinceCode": "52",
+    "provinceName": "Nusa Tenggara Barat",
+    "name": "Kota Bima",
+    "alias": "Bima"
+  },
+  {
+    "code": "53.01",
+    "regencyCode": "01",
+    "provinceCode": "53",
+    "provinceName": "Nusa Tenggara Timur",
+    "name": "Kabupaten Sumba Barat",
+    "alias": "Sumba Barat"
+  },
+  {
+    "code": "53.02",
+    "regencyCode": "02",
+    "provinceCode": "53",
+    "provinceName": "Nusa Tenggara Timur",
+    "name": "Kabupaten Sumba Timur",
+    "alias": "Sumba Timur"
+  },
+  {
+    "code": "53.03",
+    "regencyCode": "03",
+    "provinceCode": "53",
+    "provinceName": "Nusa Tenggara Timur",
+    "name": "Kabupaten Kupang",
+    "alias": "Kupang"
+  },
+  {
+    "code": "53.04",
+    "regencyCode": "04",
+    "provinceCode": "53",
+    "provinceName": "Nusa Tenggara Timur",
+    "name": "Kab Timor Tengah Selatan",
+    "alias": "Kab Timor Tengah Selatan"
+  },
+  {
+    "code": "53.05",
+    "regencyCode": "05",
+    "provinceCode": "53",
+    "provinceName": "Nusa Tenggara Timur",
+    "name": "Kabupaten Timor Tengah Utara",
+    "alias": "Timor Tengah Utara"
+  },
+  {
+    "code": "53.06",
+    "regencyCode": "06",
+    "provinceCode": "53",
+    "provinceName": "Nusa Tenggara Timur",
+    "name": "Kabupaten Belu",
+    "alias": "Belu"
+  },
+  {
+    "code": "53.07",
+    "regencyCode": "07",
+    "provinceCode": "53",
+    "provinceName": "Nusa Tenggara Timur",
+    "name": "Kabupaten Alor",
+    "alias": "Alor"
+  },
+  {
+    "code": "53.08",
+    "regencyCode": "08",
+    "provinceCode": "53",
+    "provinceName": "Nusa Tenggara Timur",
+    "name": "Kabupaten Lembata",
+    "alias": "Lembata"
+  },
+  {
+    "code": "53.09",
+    "regencyCode": "09",
+    "provinceCode": "53",
+    "provinceName": "Nusa Tenggara Timur",
+    "name": "Kabupaten Flores Timur",
+    "alias": "Flores Timur"
+  },
+  {
+    "code": "53.10",
+    "regencyCode": "10",
+    "provinceCode": "53",
+    "provinceName": "Nusa Tenggara Timur",
+    "name": "Kabupaten Sikka",
+    "alias": "Sikka"
+  },
+  {
+    "code": "53.11",
+    "regencyCode": "11",
+    "provinceCode": "53",
+    "provinceName": "Nusa Tenggara Timur",
+    "name": "Kabupaten Ende",
+    "alias": "Ende"
+  },
+  {
+    "code": "53.12",
+    "regencyCode": "12",
+    "provinceCode": "53",
+    "provinceName": "Nusa Tenggara Timur",
+    "name": "Kabupaten Ngada",
+    "alias": "Ngada"
+  },
+  {
+    "code": "53.13",
+    "regencyCode": "13",
+    "provinceCode": "53",
+    "provinceName": "Nusa Tenggara Timur",
+    "name": "Kabupaten Manggarai",
+    "alias": "Manggarai"
+  },
+  {
+    "code": "53.14",
+    "regencyCode": "14",
+    "provinceCode": "53",
+    "provinceName": "Nusa Tenggara Timur",
+    "name": "Kabupaten Rote Ndao",
+    "alias": "Rote Ndao"
+  },
+  {
+    "code": "53.15",
+    "regencyCode": "15",
+    "provinceCode": "53",
+    "provinceName": "Nusa Tenggara Timur",
+    "name": "Kabupaten Manggarai Barat",
+    "alias": "Manggarai Barat"
+  },
+  {
+    "code": "53.16",
+    "regencyCode": "16",
+    "provinceCode": "53",
+    "provinceName": "Nusa Tenggara Timur",
+    "name": "Kabupaten Sumba Tengah",
+    "alias": "Sumba Tengah"
+  },
+  {
+    "code": "53.17",
+    "regencyCode": "17",
+    "provinceCode": "53",
+    "provinceName": "Nusa Tenggara Timur",
+    "name": "Kabupaten Sumba Barat Daya",
+    "alias": "Sumba Barat Daya"
+  },
+  {
+    "code": "53.18",
+    "regencyCode": "18",
+    "provinceCode": "53",
+    "provinceName": "Nusa Tenggara Timur",
+    "name": "Kabupaten Nagekeo",
+    "alias": "Nagekeo"
+  },
+  {
+    "code": "53.19",
+    "regencyCode": "19",
+    "provinceCode": "53",
+    "provinceName": "Nusa Tenggara Timur",
+    "name": "Kabupaten Manggarai Timur",
+    "alias": "Manggarai Timur"
+  },
+  {
+    "code": "53.20",
+    "regencyCode": "20",
+    "provinceCode": "53",
+    "provinceName": "Nusa Tenggara Timur",
+    "name": "Kabupaten Sabu Raijua",
+    "alias": "Sabu Raijua"
+  },
+  {
+    "code": "53.21",
+    "regencyCode": "21",
+    "provinceCode": "53",
+    "provinceName": "Nusa Tenggara Timur",
+    "name": "Kabupaten Malaka",
+    "alias": "Malaka"
+  },
+  {
+    "code": "53.71",
+    "regencyCode": "71",
+    "provinceCode": "53",
+    "provinceName": "Nusa Tenggara Timur",
+    "name": "Kota Kupang",
+    "alias": "Kupang"
+  },
+  {
+    "code": "61.01",
+    "regencyCode": "01",
+    "provinceCode": "61",
+    "provinceName": "Kalimantan Barat",
+    "name": "Kabupaten Sambas",
+    "alias": "Sambas"
+  },
+  {
+    "code": "61.02",
+    "regencyCode": "02",
+    "provinceCode": "61",
+    "provinceName": "Kalimantan Barat",
+    "name": "Kabupaten Bengkayang",
+    "alias": "Bengkayang"
+  },
+  {
+    "code": "61.03",
+    "regencyCode": "03",
+    "provinceCode": "61",
+    "provinceName": "Kalimantan Barat",
+    "name": "Kabupaten Landak",
+    "alias": "Landak"
+  },
+  {
+    "code": "61.04",
+    "regencyCode": "04",
+    "provinceCode": "61",
+    "provinceName": "Kalimantan Barat",
+    "name": "Kabupaten Mempawah",
+    "alias": "Mempawah"
+  },
+  {
+    "code": "61.05",
+    "regencyCode": "05",
+    "provinceCode": "61",
+    "provinceName": "Kalimantan Barat",
+    "name": "Kabupaten Sanggau",
+    "alias": "Sanggau"
+  },
+  {
+    "code": "61.06",
+    "regencyCode": "06",
+    "provinceCode": "61",
+    "provinceName": "Kalimantan Barat",
+    "name": "Kabupaten Ketapang",
+    "alias": "Ketapang"
+  },
+  {
+    "code": "61.07",
+    "regencyCode": "07",
+    "provinceCode": "61",
+    "provinceName": "Kalimantan Barat",
+    "name": "Kabupaten Sintang",
+    "alias": "Sintang"
+  },
+  {
+    "code": "61.08",
+    "regencyCode": "08",
+    "provinceCode": "61",
+    "provinceName": "Kalimantan Barat",
+    "name": "Kabupaten Kapuas Hulu",
+    "alias": "Kapuas Hulu"
+  },
+  {
+    "code": "61.09",
+    "regencyCode": "09",
+    "provinceCode": "61",
+    "provinceName": "Kalimantan Barat",
+    "name": "Kabupaten Sekadau",
+    "alias": "Sekadau"
+  },
+  {
+    "code": "61.10",
+    "regencyCode": "10",
+    "provinceCode": "61",
+    "provinceName": "Kalimantan Barat",
+    "name": "Kabupaten Melawi",
+    "alias": "Melawi"
+  },
+  {
+    "code": "61.11",
+    "regencyCode": "11",
+    "provinceCode": "61",
+    "provinceName": "Kalimantan Barat",
+    "name": "Kabupaten Kayong Utara",
+    "alias": "Kayong Utara"
+  },
+  {
+    "code": "61.12",
+    "regencyCode": "12",
+    "provinceCode": "61",
+    "provinceName": "Kalimantan Barat",
+    "name": "Kabupaten Kubu Raya",
+    "alias": "Kubu Raya"
+  },
+  {
+    "code": "61.71",
+    "regencyCode": "71",
+    "provinceCode": "61",
+    "provinceName": "Kalimantan Barat",
+    "name": "Kota Pontianak",
+    "alias": "Pontianak"
+  },
+  {
+    "code": "61.72",
+    "regencyCode": "72",
+    "provinceCode": "61",
+    "provinceName": "Kalimantan Barat",
+    "name": "Kota Singkawang",
+    "alias": "Singkawang"
+  },
+  {
+    "code": "62.01",
+    "regencyCode": "01",
+    "provinceCode": "62",
+    "provinceName": "Kalimantan Tengah",
+    "name": "Kabupaten Kotawaringin Barat",
+    "alias": "Kotawaringin Barat"
+  },
+  {
+    "code": "62.02",
+    "regencyCode": "02",
+    "provinceCode": "62",
+    "provinceName": "Kalimantan Tengah",
+    "name": "Kabupaten Kotawaringin Timur",
+    "alias": "Kotawaringin Timur"
+  },
+  {
+    "code": "62.03",
+    "regencyCode": "03",
+    "provinceCode": "62",
+    "provinceName": "Kalimantan Tengah",
+    "name": "Kabupaten Kapuas",
+    "alias": "Kapuas"
+  },
+  {
+    "code": "62.04",
+    "regencyCode": "04",
+    "provinceCode": "62",
+    "provinceName": "Kalimantan Tengah",
+    "name": "Kabupaten Barito Selatan",
+    "alias": "Barito Selatan"
+  },
+  {
+    "code": "62.05",
+    "regencyCode": "05",
+    "provinceCode": "62",
+    "provinceName": "Kalimantan Tengah",
+    "name": "Kabupaten Barito Utara",
+    "alias": "Barito Utara"
+  },
+  {
+    "code": "62.06",
+    "regencyCode": "06",
+    "provinceCode": "62",
+    "provinceName": "Kalimantan Tengah",
+    "name": "Kabupaten Sukamara",
+    "alias": "Sukamara"
+  },
+  {
+    "code": "62.07",
+    "regencyCode": "07",
+    "provinceCode": "62",
+    "provinceName": "Kalimantan Tengah",
+    "name": "Kabupaten Lamandau",
+    "alias": "Lamandau"
+  },
+  {
+    "code": "62.08",
+    "regencyCode": "08",
+    "provinceCode": "62",
+    "provinceName": "Kalimantan Tengah",
+    "name": "Kabupaten Seruyan",
+    "alias": "Seruyan"
+  },
+  {
+    "code": "62.09",
+    "regencyCode": "09",
+    "provinceCode": "62",
+    "provinceName": "Kalimantan Tengah",
+    "name": "Kabupaten Katingan",
+    "alias": "Katingan"
+  },
+  {
+    "code": "62.10",
+    "regencyCode": "10",
+    "provinceCode": "62",
+    "provinceName": "Kalimantan Tengah",
+    "name": "Kabupaten Pulang Pisau",
+    "alias": "Pulang Pisau"
+  },
+  {
+    "code": "62.11",
+    "regencyCode": "11",
+    "provinceCode": "62",
+    "provinceName": "Kalimantan Tengah",
+    "name": "Kabupaten Gunung Mas",
+    "alias": "Gunung Mas"
+  },
+  {
+    "code": "62.12",
+    "regencyCode": "12",
+    "provinceCode": "62",
+    "provinceName": "Kalimantan Tengah",
+    "name": "Kabupaten Barito Timur",
+    "alias": "Barito Timur"
+  },
+  {
+    "code": "62.13",
+    "regencyCode": "13",
+    "provinceCode": "62",
+    "provinceName": "Kalimantan Tengah",
+    "name": "Kabupaten Murung Raya",
+    "alias": "Murung Raya"
+  },
+  {
+    "code": "62.71",
+    "regencyCode": "71",
+    "provinceCode": "62",
+    "provinceName": "Kalimantan Tengah",
+    "name": "Kota Palangkaraya",
+    "alias": "Palangkaraya"
+  },
+  {
+    "code": "63.01",
+    "regencyCode": "01",
+    "provinceCode": "63",
+    "provinceName": "Kalimantan Selatan",
+    "name": "Kabupaten Tanah Laut",
+    "alias": "Tanah Laut"
+  },
+  {
+    "code": "63.02",
+    "regencyCode": "02",
+    "provinceCode": "63",
+    "provinceName": "Kalimantan Selatan",
+    "name": "Kabupaten Kotabaru",
+    "alias": "Kotabaru"
+  },
+  {
+    "code": "63.03",
+    "regencyCode": "03",
+    "provinceCode": "63",
+    "provinceName": "Kalimantan Selatan",
+    "name": "Kabupaten Banjar",
+    "alias": "Banjar"
+  },
+  {
+    "code": "63.04",
+    "regencyCode": "04",
+    "provinceCode": "63",
+    "provinceName": "Kalimantan Selatan",
+    "name": "Kabupaten Barito Kuala",
+    "alias": "Barito Kuala"
+  },
+  {
+    "code": "63.05",
+    "regencyCode": "05",
+    "provinceCode": "63",
+    "provinceName": "Kalimantan Selatan",
+    "name": "Kabupaten Tapin",
+    "alias": "Tapin"
+  },
+  {
+    "code": "63.06",
+    "regencyCode": "06",
+    "provinceCode": "63",
+    "provinceName": "Kalimantan Selatan",
+    "name": "Kabupaten Hulu Sungai Selatan",
+    "alias": "Hulu Sungai Selatan"
+  },
+  {
+    "code": "63.07",
+    "regencyCode": "07",
+    "provinceCode": "63",
+    "provinceName": "Kalimantan Selatan",
+    "name": "Kabupaten Hulu Sungai Tengah",
+    "alias": "Hulu Sungai Tengah"
+  },
+  {
+    "code": "63.08",
+    "regencyCode": "08",
+    "provinceCode": "63",
+    "provinceName": "Kalimantan Selatan",
+    "name": "Kabupaten Hulu Sungai Utara",
+    "alias": "Hulu Sungai Utara"
+  },
+  {
+    "code": "63.09",
+    "regencyCode": "09",
+    "provinceCode": "63",
+    "provinceName": "Kalimantan Selatan",
+    "name": "Kabupaten Tabalong",
+    "alias": "Tabalong"
+  },
+  {
+    "code": "63.10",
+    "regencyCode": "10",
+    "provinceCode": "63",
+    "provinceName": "Kalimantan Selatan",
+    "name": "Kabupaten Tanah Bumbu",
+    "alias": "Tanah Bumbu"
+  },
+  {
+    "code": "63.11",
+    "regencyCode": "11",
+    "provinceCode": "63",
+    "provinceName": "Kalimantan Selatan",
+    "name": "Kabupaten Balangan",
+    "alias": "Balangan"
+  },
+  {
+    "code": "63.71",
+    "regencyCode": "71",
+    "provinceCode": "63",
+    "provinceName": "Kalimantan Selatan",
+    "name": "Kota Banjarmasin",
+    "alias": "Banjarmasin"
+  },
+  {
+    "code": "63.72",
+    "regencyCode": "72",
+    "provinceCode": "63",
+    "provinceName": "Kalimantan Selatan",
+    "name": "Kota Banjarbaru",
+    "alias": "Banjarbaru"
+  },
+  {
+    "code": "64.01",
+    "regencyCode": "01",
+    "provinceCode": "64",
+    "provinceName": "Kalimantan Timur",
+    "name": "Kabupaten Paser",
+    "alias": "Paser"
+  },
+  {
+    "code": "64.02",
+    "regencyCode": "02",
+    "provinceCode": "64",
+    "provinceName": "Kalimantan Timur",
+    "name": "Kabupaten Kutai Barat",
+    "alias": "Kutai Barat"
+  },
+  {
+    "code": "64.03",
+    "regencyCode": "03",
+    "provinceCode": "64",
+    "provinceName": "Kalimantan Timur",
+    "name": "Kabupaten Kutai Kartanegara",
+    "alias": "Kutai Kartanegara"
+  },
+  {
+    "code": "64.04",
+    "regencyCode": "04",
+    "provinceCode": "64",
+    "provinceName": "Kalimantan Timur",
+    "name": "Kabupaten Kutai Timur",
+    "alias": "Kutai Timur"
+  },
+  {
+    "code": "64.05",
+    "regencyCode": "05",
+    "provinceCode": "64",
+    "provinceName": "Kalimantan Timur",
+    "name": "Kabupaten Berau",
+    "alias": "Berau"
+  },
+  {
+    "code": "64.09",
+    "regencyCode": "09",
+    "provinceCode": "64",
+    "provinceName": "Kalimantan Timur",
+    "name": "Kabupaten Penajam Paser Utara",
+    "alias": "Penajam Paser Utara"
+  },
+  {
+    "code": "64.11",
+    "regencyCode": "11",
+    "provinceCode": "64",
+    "provinceName": "Kalimantan Timur",
+    "name": "Kabupaten Mahakam Ulu",
+    "alias": "Mahakam Ulu"
+  },
+  {
+    "code": "64.71",
+    "regencyCode": "71",
+    "provinceCode": "64",
+    "provinceName": "Kalimantan Timur",
+    "name": "Kota Balikpapan",
+    "alias": "Balikpapan"
+  },
+  {
+    "code": "64.72",
+    "regencyCode": "72",
+    "provinceCode": "64",
+    "provinceName": "Kalimantan Timur",
+    "name": "Kota Samarinda",
+    "alias": "Samarinda"
+  },
+  {
+    "code": "64.74",
+    "regencyCode": "74",
+    "provinceCode": "64",
+    "provinceName": "Kalimantan Timur",
+    "name": "Kota Bontang",
+    "alias": "Bontang"
+  },
+  {
+    "code": "65.01",
+    "regencyCode": "01",
+    "provinceCode": "65",
+    "provinceName": "Kalimantan Utara",
+    "name": "Kabupaten Malinau",
+    "alias": "Malinau"
+  },
+  {
+    "code": "65.02",
+    "regencyCode": "02",
+    "provinceCode": "65",
+    "provinceName": "Kalimantan Utara",
+    "name": "Kabupaten Bulungan",
+    "alias": "Bulungan"
+  },
+  {
+    "code": "65.03",
+    "regencyCode": "03",
+    "provinceCode": "65",
+    "provinceName": "Kalimantan Utara",
+    "name": "Kabupaten Tana Tidung",
+    "alias": "Tana Tidung"
+  },
+  {
+    "code": "65.04",
+    "regencyCode": "04",
+    "provinceCode": "65",
+    "provinceName": "Kalimantan Utara",
+    "name": "Kabupaten Nunukan",
+    "alias": "Nunukan"
+  },
+  {
+    "code": "65.71",
+    "regencyCode": "71",
+    "provinceCode": "65",
+    "provinceName": "Kalimantan Utara",
+    "name": "Kota Tarakan",
+    "alias": "Tarakan"
+  },
+  {
+    "code": "71.01",
+    "regencyCode": "01",
+    "provinceCode": "71",
+    "provinceName": "Sulawesi Utara",
+    "name": "Kabupaten Bolaang Mongondow",
+    "alias": "Bolaang Mongondow"
+  },
+  {
+    "code": "71.02",
+    "regencyCode": "02",
+    "provinceCode": "71",
+    "provinceName": "Sulawesi Utara",
+    "name": "Kabupaten Minahasa",
+    "alias": "Minahasa"
+  },
+  {
+    "code": "71.03",
+    "regencyCode": "03",
+    "provinceCode": "71",
+    "provinceName": "Sulawesi Utara",
+    "name": "Kabupaten Kepulauan Sangihe",
+    "alias": "Kepulauan Sangihe"
+  },
+  {
+    "code": "71.04",
+    "regencyCode": "04",
+    "provinceCode": "71",
+    "provinceName": "Sulawesi Utara",
+    "name": "Kabupaten Kepulauan Talaud",
+    "alias": "Kepulauan Talaud"
+  },
+  {
+    "code": "71.05",
+    "regencyCode": "05",
+    "provinceCode": "71",
+    "provinceName": "Sulawesi Utara",
+    "name": "Kabupaten Minahasa Selatan",
+    "alias": "Minahasa Selatan"
+  },
+  {
+    "code": "71.06",
+    "regencyCode": "06",
+    "provinceCode": "71",
+    "provinceName": "Sulawesi Utara",
+    "name": "Kabupaten Minahasa Utara",
+    "alias": "Minahasa Utara"
+  },
+  {
+    "code": "71.07",
+    "regencyCode": "07",
+    "provinceCode": "71",
+    "provinceName": "Sulawesi Utara",
+    "name": "Kabupaten Bolaang Mongondow Utara",
+    "alias": "Bolaang Mongondow Utara"
+  },
+  {
+    "code": "71.08",
+    "regencyCode": "08",
+    "provinceCode": "71",
+    "provinceName": "Sulawesi Utara",
+    "name": "Kabupaten Kep. Siau Tagulandang Biaro",
+    "alias": "Kep. Siau Tagulandang Biaro"
+  },
+  {
+    "code": "71.09",
+    "regencyCode": "09",
+    "provinceCode": "71",
+    "provinceName": "Sulawesi Utara",
+    "name": "Kabupaten Minahasa Tenggara",
+    "alias": "Minahasa Tenggara"
+  },
+  {
+    "code": "71.10",
+    "regencyCode": "10",
+    "provinceCode": "71",
+    "provinceName": "Sulawesi Utara",
+    "name": "Kabupaten Bolaang Mongondow Selatan",
+    "alias": "Bolaang Mongondow Selatan"
+  },
+  {
+    "code": "71.11",
+    "regencyCode": "11",
+    "provinceCode": "71",
+    "provinceName": "Sulawesi Utara",
+    "name": "Kabupaten Bolaang Mongondow Timur",
+    "alias": "Bolaang Mongondow Timur"
+  },
+  {
+    "code": "71.71",
+    "regencyCode": "71",
+    "provinceCode": "71",
+    "provinceName": "Sulawesi Utara",
+    "name": "Kota Manado",
+    "alias": "Manado"
+  },
+  {
+    "code": "71.72",
+    "regencyCode": "72",
+    "provinceCode": "71",
+    "provinceName": "Sulawesi Utara",
+    "name": "Kota Bitung",
+    "alias": "Bitung"
+  },
+  {
+    "code": "71.73",
+    "regencyCode": "73",
+    "provinceCode": "71",
+    "provinceName": "Sulawesi Utara",
+    "name": "Kota Tomohon",
+    "alias": "Tomohon"
+  },
+  {
+    "code": "71.74",
+    "regencyCode": "74",
+    "provinceCode": "71",
+    "provinceName": "Sulawesi Utara",
+    "name": "Kota Kotamobagu",
+    "alias": "Kotamobagu"
+  },
+  {
+    "code": "72.01",
+    "regencyCode": "01",
+    "provinceCode": "72",
+    "provinceName": "Sulawesi Tengah",
+    "name": "Kabupaten Banggai Kepulauan",
+    "alias": "Banggai Kepulauan"
+  },
+  {
+    "code": "72.02",
+    "regencyCode": "02",
+    "provinceCode": "72",
+    "provinceName": "Sulawesi Tengah",
+    "name": "Kabupaten Banggai",
+    "alias": "Banggai"
+  },
+  {
+    "code": "72.03",
+    "regencyCode": "03",
+    "provinceCode": "72",
+    "provinceName": "Sulawesi Tengah",
+    "name": "Kabupaten Morowali",
+    "alias": "Morowali"
+  },
+  {
+    "code": "72.04",
+    "regencyCode": "04",
+    "provinceCode": "72",
+    "provinceName": "Sulawesi Tengah",
+    "name": "Kabupaten Poso",
+    "alias": "Poso"
+  },
+  {
+    "code": "72.05",
+    "regencyCode": "05",
+    "provinceCode": "72",
+    "provinceName": "Sulawesi Tengah",
+    "name": "Kabupaten Donggala",
+    "alias": "Donggala"
+  },
+  {
+    "code": "72.06",
+    "regencyCode": "06",
+    "provinceCode": "72",
+    "provinceName": "Sulawesi Tengah",
+    "name": "Kabupaten Toli Toli",
+    "alias": "Toli Toli"
+  },
+  {
+    "code": "72.07",
+    "regencyCode": "07",
+    "provinceCode": "72",
+    "provinceName": "Sulawesi Tengah",
+    "name": "Kabupaten Buol",
+    "alias": "Buol"
+  },
+  {
+    "code": "72.08",
+    "regencyCode": "08",
+    "provinceCode": "72",
+    "provinceName": "Sulawesi Tengah",
+    "name": "Kabupaten Parigi Moutong",
+    "alias": "Parigi Moutong"
+  },
+  {
+    "code": "72.09",
+    "regencyCode": "09",
+    "provinceCode": "72",
+    "provinceName": "Sulawesi Tengah",
+    "name": "Kabupaten Tojo Una Una",
+    "alias": "Tojo Una Una"
+  },
+  {
+    "code": "72.10",
+    "regencyCode": "10",
+    "provinceCode": "72",
+    "provinceName": "Sulawesi Tengah",
+    "name": "Kabupaten Sigi",
+    "alias": "Sigi"
+  },
+  {
+    "code": "72.11",
+    "regencyCode": "11",
+    "provinceCode": "72",
+    "provinceName": "Sulawesi Tengah",
+    "name": "Kabupaten Banggai Laut",
+    "alias": "Banggai Laut"
+  },
+  {
+    "code": "72.12",
+    "regencyCode": "12",
+    "provinceCode": "72",
+    "provinceName": "Sulawesi Tengah",
+    "name": "Kabupaten Morowali Utara",
+    "alias": "Morowali Utara"
+  },
+  {
+    "code": "72.71",
+    "regencyCode": "71",
+    "provinceCode": "72",
+    "provinceName": "Sulawesi Tengah",
+    "name": "Kota Palu",
+    "alias": "Palu"
+  },
+  {
+    "code": "73.01",
+    "regencyCode": "01",
+    "provinceCode": "73",
+    "provinceName": "Sulawesi Selatan",
+    "name": "Kabupaten Kepulauan Selayar",
+    "alias": "Kepulauan Selayar"
+  },
+  {
+    "code": "73.02",
+    "regencyCode": "02",
+    "provinceCode": "73",
+    "provinceName": "Sulawesi Selatan",
+    "name": "Kabupaten Bulukumba",
+    "alias": "Bulukumba"
+  },
+  {
+    "code": "73.03",
+    "regencyCode": "03",
+    "provinceCode": "73",
+    "provinceName": "Sulawesi Selatan",
+    "name": "Kabupaten Bantaeng",
+    "alias": "Bantaeng"
+  },
+  {
+    "code": "73.04",
+    "regencyCode": "04",
+    "provinceCode": "73",
+    "provinceName": "Sulawesi Selatan",
+    "name": "Kabupaten Jeneponto",
+    "alias": "Jeneponto"
+  },
+  {
+    "code": "73.05",
+    "regencyCode": "05",
+    "provinceCode": "73",
+    "provinceName": "Sulawesi Selatan",
+    "name": "Kabupaten Takalar",
+    "alias": "Takalar"
+  },
+  {
+    "code": "73.06",
+    "regencyCode": "06",
+    "provinceCode": "73",
+    "provinceName": "Sulawesi Selatan",
+    "name": "Kabupaten Gowa",
+    "alias": "Gowa"
+  },
+  {
+    "code": "73.07",
+    "regencyCode": "07",
+    "provinceCode": "73",
+    "provinceName": "Sulawesi Selatan",
+    "name": "Kabupaten Sinjai",
+    "alias": "Sinjai"
+  },
+  {
+    "code": "73.08",
+    "regencyCode": "08",
+    "provinceCode": "73",
+    "provinceName": "Sulawesi Selatan",
+    "name": "Kabupaten Maros",
+    "alias": "Maros"
+  },
+  {
+    "code": "73.09",
+    "regencyCode": "09",
+    "provinceCode": "73",
+    "provinceName": "Sulawesi Selatan",
+    "name": "Kabupaten Pangkajene Dan Kepulauan",
+    "alias": "Pangkajene Dan Kepulauan"
+  },
+  {
+    "code": "73.10",
+    "regencyCode": "10",
+    "provinceCode": "73",
+    "provinceName": "Sulawesi Selatan",
+    "name": "Kabupaten Barru",
+    "alias": "Barru"
+  },
+  {
+    "code": "73.11",
+    "regencyCode": "11",
+    "provinceCode": "73",
+    "provinceName": "Sulawesi Selatan",
+    "name": "Kabupaten Bone",
+    "alias": "Bone"
+  },
+  {
+    "code": "73.12",
+    "regencyCode": "12",
+    "provinceCode": "73",
+    "provinceName": "Sulawesi Selatan",
+    "name": "Kabupaten Soppeng",
+    "alias": "Soppeng"
+  },
+  {
+    "code": "73.13",
+    "regencyCode": "13",
+    "provinceCode": "73",
+    "provinceName": "Sulawesi Selatan",
+    "name": "Kabupaten Wajo",
+    "alias": "Wajo"
+  },
+  {
+    "code": "73.14",
+    "regencyCode": "14",
+    "provinceCode": "73",
+    "provinceName": "Sulawesi Selatan",
+    "name": "Kabupaten Sidenreng Rappang",
+    "alias": "Sidenreng Rappang"
+  },
+  {
+    "code": "73.15",
+    "regencyCode": "15",
+    "provinceCode": "73",
+    "provinceName": "Sulawesi Selatan",
+    "name": "Kabupaten Pinrang",
+    "alias": "Pinrang"
+  },
+  {
+    "code": "73.16",
+    "regencyCode": "16",
+    "provinceCode": "73",
+    "provinceName": "Sulawesi Selatan",
+    "name": "Kabupaten Enrekang",
+    "alias": "Enrekang"
+  },
+  {
+    "code": "73.17",
+    "regencyCode": "17",
+    "provinceCode": "73",
+    "provinceName": "Sulawesi Selatan",
+    "name": "Kabupaten Luwu",
+    "alias": "Luwu"
+  },
+  {
+    "code": "73.18",
+    "regencyCode": "18",
+    "provinceCode": "73",
+    "provinceName": "Sulawesi Selatan",
+    "name": "Kabupaten Tana Toraja",
+    "alias": "Tana Toraja"
+  },
+  {
+    "code": "73.22",
+    "regencyCode": "22",
+    "provinceCode": "73",
+    "provinceName": "Sulawesi Selatan",
+    "name": "Kabupaten Luwu Utara",
+    "alias": "Luwu Utara"
+  },
+  {
+    "code": "73.25",
+    "regencyCode": "25",
+    "provinceCode": "73",
+    "provinceName": "Sulawesi Selatan",
+    "name": "Kabupaten Luwu Timur",
+    "alias": "Luwu Timur"
+  },
+  {
+    "code": "73.26",
+    "regencyCode": "26",
+    "provinceCode": "73",
+    "provinceName": "Sulawesi Selatan",
+    "name": "Kabupaten Toraja Utara",
+    "alias": "Toraja Utara"
+  },
+  {
+    "code": "73.71",
+    "regencyCode": "71",
+    "provinceCode": "73",
+    "provinceName": "Sulawesi Selatan",
+    "name": "Kota Makassar",
+    "alias": "Makassar"
+  },
+  {
+    "code": "73.72",
+    "regencyCode": "72",
+    "provinceCode": "73",
+    "provinceName": "Sulawesi Selatan",
+    "name": "Kota Parepare",
+    "alias": "Parepare"
+  },
+  {
+    "code": "73.73",
+    "regencyCode": "73",
+    "provinceCode": "73",
+    "provinceName": "Sulawesi Selatan",
+    "name": "Kota Palopo",
+    "alias": "Palopo"
+  },
+  {
+    "code": "74.01",
+    "regencyCode": "01",
+    "provinceCode": "74",
+    "provinceName": "Sulawesi Tenggara",
+    "name": "Kabupaten Buton",
+    "alias": "Buton"
+  },
+  {
+    "code": "74.02",
+    "regencyCode": "02",
+    "provinceCode": "74",
+    "provinceName": "Sulawesi Tenggara",
+    "name": "Kabupaten Muna",
+    "alias": "Muna"
+  },
+  {
+    "code": "74.03",
+    "regencyCode": "03",
+    "provinceCode": "74",
+    "provinceName": "Sulawesi Tenggara",
+    "name": "Kabupaten Konawe",
+    "alias": "Konawe"
+  },
+  {
+    "code": "74.04",
+    "regencyCode": "04",
+    "provinceCode": "74",
+    "provinceName": "Sulawesi Tenggara",
+    "name": "Kabupaten Kolaka",
+    "alias": "Kolaka"
+  },
+  {
+    "code": "74.05",
+    "regencyCode": "05",
+    "provinceCode": "74",
+    "provinceName": "Sulawesi Tenggara",
+    "name": "Kabupaten Konawe Selatan",
+    "alias": "Konawe Selatan"
+  },
+  {
+    "code": "74.06",
+    "regencyCode": "06",
+    "provinceCode": "74",
+    "provinceName": "Sulawesi Tenggara",
+    "name": "Kabupaten Bombana",
+    "alias": "Bombana"
+  },
+  {
+    "code": "74.07",
+    "regencyCode": "07",
+    "provinceCode": "74",
+    "provinceName": "Sulawesi Tenggara",
+    "name": "Kabupaten Wakatobi",
+    "alias": "Wakatobi"
+  },
+  {
+    "code": "74.08",
+    "regencyCode": "08",
+    "provinceCode": "74",
+    "provinceName": "Sulawesi Tenggara",
+    "name": "Kabupaten Kolaka Utara",
+    "alias": "Kolaka Utara"
+  },
+  {
+    "code": "74.09",
+    "regencyCode": "09",
+    "provinceCode": "74",
+    "provinceName": "Sulawesi Tenggara",
+    "name": "Kabupaten Buton Utara",
+    "alias": "Buton Utara"
+  },
+  {
+    "code": "74.10",
+    "regencyCode": "10",
+    "provinceCode": "74",
+    "provinceName": "Sulawesi Tenggara",
+    "name": "Kabupaten Konawe Utara",
+    "alias": "Konawe Utara"
+  },
+  {
+    "code": "74.11",
+    "regencyCode": "11",
+    "provinceCode": "74",
+    "provinceName": "Sulawesi Tenggara",
+    "name": "Kabupaten Kolaka Timur",
+    "alias": "Kolaka Timur"
+  },
+  {
+    "code": "74.12",
+    "regencyCode": "12",
+    "provinceCode": "74",
+    "provinceName": "Sulawesi Tenggara",
+    "name": "Kabupaten Konawe Kepulauan",
+    "alias": "Konawe Kepulauan"
+  },
+  {
+    "code": "74.13",
+    "regencyCode": "13",
+    "provinceCode": "74",
+    "provinceName": "Sulawesi Tenggara",
+    "name": "Kabupaten Muna Barat",
+    "alias": "Muna Barat"
+  },
+  {
+    "code": "74.14",
+    "regencyCode": "14",
+    "provinceCode": "74",
+    "provinceName": "Sulawesi Tenggara",
+    "name": "Kabupaten Buton Tengah",
+    "alias": "Buton Tengah"
+  },
+  {
+    "code": "74.15",
+    "regencyCode": "15",
+    "provinceCode": "74",
+    "provinceName": "Sulawesi Tenggara",
+    "name": "Kabupaten Buton Selatan",
+    "alias": "Buton Selatan"
+  },
+  {
+    "code": "74.71",
+    "regencyCode": "71",
+    "provinceCode": "74",
+    "provinceName": "Sulawesi Tenggara",
+    "name": "Kota Kendari",
+    "alias": "Kendari"
+  },
+  {
+    "code": "74.72",
+    "regencyCode": "72",
+    "provinceCode": "74",
+    "provinceName": "Sulawesi Tenggara",
+    "name": "Kota Bau Bau",
+    "alias": "Bau Bau"
+  },
+  {
+    "code": "75.01",
+    "regencyCode": "01",
+    "provinceCode": "75",
+    "provinceName": "Gorontalo",
+    "name": "Kabupaten Boalemo",
+    "alias": "Boalemo"
+  },
+  {
+    "code": "75.02",
+    "regencyCode": "02",
+    "provinceCode": "75",
+    "provinceName": "Gorontalo",
+    "name": "Kabupaten Gorontalo",
+    "alias": "Gorontalo"
+  },
+  {
+    "code": "75.03",
+    "regencyCode": "03",
+    "provinceCode": "75",
+    "provinceName": "Gorontalo",
+    "name": "Kabupaten Pohuwato",
+    "alias": "Pohuwato"
+  },
+  {
+    "code": "75.04",
+    "regencyCode": "04",
+    "provinceCode": "75",
+    "provinceName": "Gorontalo",
+    "name": "Kabupaten Bone Bolango",
+    "alias": "Bone Bolango"
+  },
+  {
+    "code": "75.05",
+    "regencyCode": "05",
+    "provinceCode": "75",
+    "provinceName": "Gorontalo",
+    "name": "Kabupaten Gorontalo Utara",
+    "alias": "Gorontalo Utara"
+  },
+  {
+    "code": "75.71",
+    "regencyCode": "71",
+    "provinceCode": "75",
+    "provinceName": "Gorontalo",
+    "name": "Kota Gorontalo",
+    "alias": "Gorontalo"
+  },
+  {
+    "code": "76.01",
+    "regencyCode": "01",
+    "provinceCode": "76",
+    "provinceName": "Sulawesi Barat",
+    "name": "Kabupaten Majene",
+    "alias": "Majene"
+  },
+  {
+    "code": "76.02",
+    "regencyCode": "02",
+    "provinceCode": "76",
+    "provinceName": "Sulawesi Barat",
+    "name": "Kabupaten Polewali Mandar",
+    "alias": "Polewali Mandar"
+  },
+  {
+    "code": "76.03",
+    "regencyCode": "03",
+    "provinceCode": "76",
+    "provinceName": "Sulawesi Barat",
+    "name": "Kabupaten Mamasa",
+    "alias": "Mamasa"
+  },
+  {
+    "code": "76.04",
+    "regencyCode": "04",
+    "provinceCode": "76",
+    "provinceName": "Sulawesi Barat",
+    "name": "Kabupaten Mamuju",
+    "alias": "Mamuju"
+  },
+  {
+    "code": "76.05",
+    "regencyCode": "05",
+    "provinceCode": "76",
+    "provinceName": "Sulawesi Barat",
+    "name": "Kabupaten Pasangkayu",
+    "alias": "Pasangkayu"
+  },
+  {
+    "code": "76.06",
+    "regencyCode": "06",
+    "provinceCode": "76",
+    "provinceName": "Sulawesi Barat",
+    "name": "Kabupaten Mamuju Tengah",
+    "alias": "Mamuju Tengah"
+  },
+  {
+    "code": "81.01",
+    "regencyCode": "01",
+    "provinceCode": "81",
+    "provinceName": "Maluku",
+    "name": "Kabupaten Kepulauan Tanimbar",
+    "alias": "Kepulauan Tanimbar"
+  },
+  {
+    "code": "81.02",
+    "regencyCode": "02",
+    "provinceCode": "81",
+    "provinceName": "Maluku",
+    "name": "Kabupaten Maluku Tenggara",
+    "alias": "Maluku Tenggara"
+  },
+  {
+    "code": "81.03",
+    "regencyCode": "03",
+    "provinceCode": "81",
+    "provinceName": "Maluku",
+    "name": "Kabupaten Maluku Tengah",
+    "alias": "Maluku Tengah"
+  },
+  {
+    "code": "81.04",
+    "regencyCode": "04",
+    "provinceCode": "81",
+    "provinceName": "Maluku",
+    "name": "Kabupaten Buru",
+    "alias": "Buru"
+  },
+  {
+    "code": "81.05",
+    "regencyCode": "05",
+    "provinceCode": "81",
+    "provinceName": "Maluku",
+    "name": "Kabupaten Kepulauan Aru",
+    "alias": "Kepulauan Aru"
+  },
+  {
+    "code": "81.06",
+    "regencyCode": "06",
+    "provinceCode": "81",
+    "provinceName": "Maluku",
+    "name": "Kabupaten Seram Bagian Barat",
+    "alias": "Seram Bagian Barat"
+  },
+  {
+    "code": "81.07",
+    "regencyCode": "07",
+    "provinceCode": "81",
+    "provinceName": "Maluku",
+    "name": "Kabupaten Seram Bagian Timur",
+    "alias": "Seram Bagian Timur"
+  },
+  {
+    "code": "81.08",
+    "regencyCode": "08",
+    "provinceCode": "81",
+    "provinceName": "Maluku",
+    "name": "Kabupaten Maluku Barat Daya",
+    "alias": "Maluku Barat Daya"
+  },
+  {
+    "code": "81.09",
+    "regencyCode": "09",
+    "provinceCode": "81",
+    "provinceName": "Maluku",
+    "name": "Kabupaten Buru Selatan",
+    "alias": "Buru Selatan"
+  },
+  {
+    "code": "81.71",
+    "regencyCode": "71",
+    "provinceCode": "81",
+    "provinceName": "Maluku",
+    "name": "Kota Ambon",
+    "alias": "Ambon"
+  },
+  {
+    "code": "81.72",
+    "regencyCode": "72",
+    "provinceCode": "81",
+    "provinceName": "Maluku",
+    "name": "Kota Tual",
+    "alias": "Tual"
+  },
+  {
+    "code": "82.01",
+    "regencyCode": "01",
+    "provinceCode": "82",
+    "provinceName": "Maluku Utara",
+    "name": "Kabupaten Halmahera Barat",
+    "alias": "Halmahera Barat"
+  },
+  {
+    "code": "82.02",
+    "regencyCode": "02",
+    "provinceCode": "82",
+    "provinceName": "Maluku Utara",
+    "name": "Kabupaten Halmahera Tengah",
+    "alias": "Halmahera Tengah"
+  },
+  {
+    "code": "82.03",
+    "regencyCode": "03",
+    "provinceCode": "82",
+    "provinceName": "Maluku Utara",
+    "name": "Kabupaten Kepulauan Sula",
+    "alias": "Kepulauan Sula"
+  },
+  {
+    "code": "82.04",
+    "regencyCode": "04",
+    "provinceCode": "82",
+    "provinceName": "Maluku Utara",
+    "name": "Kabupaten Halmahera Selatan",
+    "alias": "Halmahera Selatan"
+  },
+  {
+    "code": "82.05",
+    "regencyCode": "05",
+    "provinceCode": "82",
+    "provinceName": "Maluku Utara",
+    "name": "Kabupaten Halmahera Utara",
+    "alias": "Halmahera Utara"
+  },
+  {
+    "code": "82.06",
+    "regencyCode": "06",
+    "provinceCode": "82",
+    "provinceName": "Maluku Utara",
+    "name": "Kabupaten Halmahera Timur",
+    "alias": "Halmahera Timur"
+  },
+  {
+    "code": "82.07",
+    "regencyCode": "07",
+    "provinceCode": "82",
+    "provinceName": "Maluku Utara",
+    "name": "Kabupaten Pulau Morotai",
+    "alias": "Pulau Morotai"
+  },
+  {
+    "code": "82.08",
+    "regencyCode": "08",
+    "provinceCode": "82",
+    "provinceName": "Maluku Utara",
+    "name": "Kabupaten Pulau Taliabu",
+    "alias": "Pulau Taliabu"
+  },
+  {
+    "code": "82.71",
+    "regencyCode": "71",
+    "provinceCode": "82",
+    "provinceName": "Maluku Utara",
+    "name": "Kota Ternate",
+    "alias": "Ternate"
+  },
+  {
+    "code": "82.72",
+    "regencyCode": "72",
+    "provinceCode": "82",
+    "provinceName": "Maluku Utara",
+    "name": "Kota Tidore Kepulauan",
+    "alias": "Tidore Kepulauan"
+  },
+  {
+    "code": "91.01",
+    "regencyCode": "01",
+    "provinceCode": "91",
+    "provinceName": "Papua Barat",
+    "name": "Kabupaten Fak Fak",
+    "alias": "Fak Fak"
+  },
+  {
+    "code": "91.02",
+    "regencyCode": "02",
+    "provinceCode": "91",
+    "provinceName": "Papua Barat",
+    "name": "Kabupaten Kaimana",
+    "alias": "Kaimana"
+  },
+  {
+    "code": "91.03",
+    "regencyCode": "03",
+    "provinceCode": "91",
+    "provinceName": "Papua Barat",
+    "name": "Kabupaten Teluk Wondama",
+    "alias": "Teluk Wondama"
+  },
+  {
+    "code": "91.04",
+    "regencyCode": "04",
+    "provinceCode": "91",
+    "provinceName": "Papua Barat",
+    "name": "Kabupaten Teluk Bintuni",
+    "alias": "Teluk Bintuni"
+  },
+  {
+    "code": "91.05",
+    "regencyCode": "05",
+    "provinceCode": "91",
+    "provinceName": "Papua Barat",
+    "name": "Kabupaten Manokwari",
+    "alias": "Manokwari"
+  },
+  {
+    "code": "91.11",
+    "regencyCode": "11",
+    "provinceCode": "91",
+    "provinceName": "Papua Barat",
+    "name": "Kabupaten Manokwari Selatan",
+    "alias": "Manokwari Selatan"
+  },
+  {
+    "code": "91.12",
+    "regencyCode": "12",
+    "provinceCode": "91",
+    "provinceName": "Papua Barat",
+    "name": "Kabupaten Pegunungan Arfak",
+    "alias": "Pegunungan Arfak"
+  },
+  {
+    "code": "92.01",
+    "regencyCode": "01",
+    "provinceCode": "92",
+    "provinceName": "Papua Barat Daya",
+    "name": "Kabupaten Raja Ampat",
+    "alias": "Raja Ampat"
+  },
+  {
+    "code": "92.02",
+    "regencyCode": "02",
+    "provinceCode": "92",
+    "provinceName": "Papua Barat Daya",
+    "name": "Kabupaten Sorong",
+    "alias": "Sorong"
+  },
+  {
+    "code": "92.03",
+    "regencyCode": "03",
+    "provinceCode": "92",
+    "provinceName": "Papua Barat Daya",
+    "name": "Kabupaten Sorong Selatan",
+    "alias": "Sorong Selatan"
+  },
+  {
+    "code": "92.04",
+    "regencyCode": "04",
+    "provinceCode": "92",
+    "provinceName": "Papua Barat Daya",
+    "name": "Kabupaten Maybrat",
+    "alias": "Maybrat"
+  },
+  {
+    "code": "92.05",
+    "regencyCode": "05",
+    "provinceCode": "92",
+    "provinceName": "Papua Barat Daya",
+    "name": "Kabupaten Tambrauw",
+    "alias": "Tambrauw"
+  },
+  {
+    "code": "92.71",
+    "regencyCode": "71",
+    "provinceCode": "92",
+    "provinceName": "Papua Barat Daya",
+    "name": "Kota Sorong",
+    "alias": "Sorong"
+  },
+  {
+    "code": "94.03",
+    "regencyCode": "03",
+    "provinceCode": "94",
+    "provinceName": "Papua",
+    "name": "Kabupaten Jayapura",
+    "alias": "Jayapura"
+  },
+  {
+    "code": "94.08",
+    "regencyCode": "08",
+    "provinceCode": "94",
+    "provinceName": "Papua",
+    "name": "Kabupaten Kepulauan Yapen",
+    "alias": "Kepulauan Yapen"
+  },
+  {
+    "code": "94.09",
+    "regencyCode": "09",
+    "provinceCode": "94",
+    "provinceName": "Papua",
+    "name": "Kabupaten Biak Numfor",
+    "alias": "Biak Numfor"
+  },
+  {
+    "code": "94.19",
+    "regencyCode": "19",
+    "provinceCode": "94",
+    "provinceName": "Papua",
+    "name": "Kabupaten Sarmi",
+    "alias": "Sarmi"
+  },
+  {
+    "code": "94.20",
+    "regencyCode": "20",
+    "provinceCode": "94",
+    "provinceName": "Papua",
+    "name": "Kabupaten Keerom",
+    "alias": "Keerom"
+  },
+  {
+    "code": "94.26",
+    "regencyCode": "26",
+    "provinceCode": "94",
+    "provinceName": "Papua",
+    "name": "Kabupaten Waropen",
+    "alias": "Waropen"
+  },
+  {
+    "code": "94.27",
+    "regencyCode": "27",
+    "provinceCode": "94",
+    "provinceName": "Papua",
+    "name": "Kabupaten Supiori",
+    "alias": "Supiori"
+  },
+  {
+    "code": "94.28",
+    "regencyCode": "28",
+    "provinceCode": "94",
+    "provinceName": "Papua",
+    "name": "Kabupaten Mamberamo Raya",
+    "alias": "Mamberamo Raya"
+  },
+  {
+    "code": "94.71",
+    "regencyCode": "71",
+    "provinceCode": "94",
+    "provinceName": "Papua",
+    "name": "Kota Jayapura",
+    "alias": "Jayapura"
+  },
+  {
+    "code": "95.01",
+    "regencyCode": "01",
+    "provinceCode": "95",
+    "provinceName": "Papua Selatan",
+    "name": "Kabupaten Merauke",
+    "alias": "Merauke"
+  },
+  {
+    "code": "95.02",
+    "regencyCode": "02",
+    "provinceCode": "95",
+    "provinceName": "Papua Selatan",
+    "name": "Kabupaten Boven Digoel",
+    "alias": "Boven Digoel"
+  },
+  {
+    "code": "95.03",
+    "regencyCode": "03",
+    "provinceCode": "95",
+    "provinceName": "Papua Selatan",
+    "name": "Kabupaten Mappi",
+    "alias": "Mappi"
+  },
+  {
+    "code": "95.04",
+    "regencyCode": "04",
+    "provinceCode": "95",
+    "provinceName": "Papua Selatan",
+    "name": "Kabupaten Asmat",
+    "alias": "Asmat"
+  },
+  {
+    "code": "96.01",
+    "regencyCode": "01",
+    "provinceCode": "96",
+    "provinceName": "Papua Tengah",
+    "name": "Kabupaten Mimika",
+    "alias": "Mimika"
+  },
+  {
+    "code": "96.02",
+    "regencyCode": "02",
+    "provinceCode": "96",
+    "provinceName": "Papua Tengah",
+    "name": "Kabupaten Dogiyai",
+    "alias": "Dogiyai"
+  },
+  {
+    "code": "96.03",
+    "regencyCode": "03",
+    "provinceCode": "96",
+    "provinceName": "Papua Tengah",
+    "name": "Kabupaten Deiyai",
+    "alias": "Deiyai"
+  },
+  {
+    "code": "96.04",
+    "regencyCode": "04",
+    "provinceCode": "96",
+    "provinceName": "Papua Tengah",
+    "name": "Kabupaten Nabire",
+    "alias": "Nabire"
+  },
+  {
+    "code": "96.05",
+    "regencyCode": "05",
+    "provinceCode": "96",
+    "provinceName": "Papua Tengah",
+    "name": "Kabupaten Paniai",
+    "alias": "Paniai"
+  },
+  {
+    "code": "96.06",
+    "regencyCode": "06",
+    "provinceCode": "96",
+    "provinceName": "Papua Tengah",
+    "name": "Kabupaten Intan Jaya",
+    "alias": "Intan Jaya"
+  },
+  {
+    "code": "96.07",
+    "regencyCode": "07",
+    "provinceCode": "96",
+    "provinceName": "Papua Tengah",
+    "name": "Kabupaten Puncak",
+    "alias": "Puncak"
+  },
+  {
+    "code": "96.08",
+    "regencyCode": "08",
+    "provinceCode": "96",
+    "provinceName": "Papua Tengah",
+    "name": "Kabupaten Puncak Jaya",
+    "alias": "Puncak Jaya"
+  },
+  {
+    "code": "97.01",
+    "regencyCode": "01",
+    "provinceCode": "97",
+    "provinceName": "Papua Pegunungan",
+    "name": "Kabupaten Nduga",
+    "alias": "Nduga"
+  },
+  {
+    "code": "97.02",
+    "regencyCode": "02",
+    "provinceCode": "97",
+    "provinceName": "Papua Pegunungan",
+    "name": "Kabupaten Jayawijaya",
+    "alias": "Jayawijaya"
+  },
+  {
+    "code": "97.03",
+    "regencyCode": "03",
+    "provinceCode": "97",
+    "provinceName": "Papua Pegunungan",
+    "name": "Kabupaten Lanny Jaya",
+    "alias": "Lanny Jaya"
+  },
+  {
+    "code": "97.04",
+    "regencyCode": "04",
+    "provinceCode": "97",
+    "provinceName": "Papua Pegunungan",
+    "name": "Kabupaten Tolikara",
+    "alias": "Tolikara"
+  },
+  {
+    "code": "97.05",
+    "regencyCode": "05",
+    "provinceCode": "97",
+    "provinceName": "Papua Pegunungan",
+    "name": "Kabupaten Mamberamo Tengah",
+    "alias": "Mamberamo Tengah"
+  },
+  {
+    "code": "97.06",
+    "regencyCode": "06",
+    "provinceCode": "97",
+    "provinceName": "Papua Pegunungan",
+    "name": "Kabupaten Yalimo",
+    "alias": "Yalimo"
+  },
+  {
+    "code": "97.07",
+    "regencyCode": "07",
+    "provinceCode": "97",
+    "provinceName": "Papua Pegunungan",
+    "name": "Kabupaten Yahukimo",
+    "alias": "Yahukimo"
+  },
+  {
+    "code": "97.08",
+    "regencyCode": "08",
+    "provinceCode": "97",
+    "provinceName": "Papua Pegunungan",
+    "name": "Kabupaten Pegunungan Bintang",
+    "alias": "Pegunungan Bintang"
+  }
+]

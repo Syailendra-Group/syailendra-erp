@@ -1,0 +1,107 @@
+[
+  {
+    "code": "11.05.112.001",
+    "villageCode": "001",
+    "districtCode": "11.05.112",
+    "name": "Kabu",
+    "alias": "Kabu"
+  },
+  {
+    "code": "11.05.112.002",
+    "villageCode": "002",
+    "districtCode": "11.05.112",
+    "name": "Beuringin",
+    "alias": "Beuringin"
+  },
+  {
+    "code": "11.05.112.003",
+    "villageCode": "003",
+    "districtCode": "11.05.112",
+    "name": "Teumpeun",
+    "alias": "Teumpeun"
+  },
+  {
+    "code": "11.05.112.004",
+    "villageCode": "004",
+    "districtCode": "11.05.112",
+    "name": "Kebun Teumpeun",
+    "alias": "Kebun Teumpeun"
+  },
+  {
+    "code": "11.05.112.005",
+    "villageCode": "005",
+    "districtCode": "11.05.112",
+    "name": "Paya Seungat",
+    "alias": "Paya Seungat"
+  },
+  {
+    "code": "11.05.112.006",
+    "villageCode": "006",
+    "districtCode": "11.05.112",
+    "name": "Tanjung Tualang",
+    "alias": "Tanjung Tualang"
+  },
+  {
+    "code": "11.05.112.007",
+    "villageCode": "007",
+    "districtCode": "11.05.112",
+    "name": "Beusa Seberang",
+    "alias": "Beusa Seberang"
+  },
+  {
+    "code": "11.05.112.008",
+    "villageCode": "008",
+    "districtCode": "11.05.112",
+    "name": "Paya Gajah",
+    "alias": "Paya Gajah"
+  },
+  {
+    "code": "11.05.112.009",
+    "villageCode": "009",
+    "districtCode": "11.05.112",
+    "name": "Mon Geudong",
+    "alias": "Mon Geudong"
+  },
+  {
+    "code": "11.05.112.010",
+    "villageCode": "010",
+    "districtCode": "11.05.112",
+    "name": "Alue Bu Tuha",
+    "alias": "Alue Bu Tuha"
+  },
+  {
+    "code": "11.05.112.011",
+    "villageCode": "011",
+    "districtCode": "11.05.112",
+    "name": "Alue Bu Jalan",
+    "alias": "Alue Bu Jalan"
+  },
+  {
+    "code": "11.05.112.012",
+    "villageCode": "012",
+    "districtCode": "11.05.112",
+    "name": "Paya Biek",
+    "alias": "Paya Biek"
+  },
+  {
+    "code": "11.05.112.013",
+    "villageCode": "013",
+    "districtCode": "11.05.112",
+    "name": "Beusa Baroh",
+    "alias": "Beusa Baroh"
+  },
+  {
+    "code": "11.05.112.014",
+    "villageCode": "014",
+    "districtCode": "11.05.112",
+    "name": "Alue Bu Tunong",
+    "alias": "Alue Bu Tunong"
+  },
+  {
+    "code": "11.05.112.015",
+    "villageCode": "015",
+    "districtCode": "11.05.112",
+    "name": "Alue Bu Jalan Baroh",
+    "alias": "Alue Bu Jalan Baroh"
+  }
+]

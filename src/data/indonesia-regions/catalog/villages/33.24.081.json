@@ -1,0 +1,58 @@
+[
+  {
+    "code": "33.24.081.001",
+    "villageCode": "001",
+    "districtCode": "33.24.081",
+    "name": "Kedungsuren",
+    "alias": "Kedungsuren"
+  },
+  {
+    "code": "33.24.081.002",
+    "villageCode": "002",
+    "districtCode": "33.24.081",
+    "name": "Jerukgiling",
+    "alias": "Jerukgiling"
+  },
+  {
+    "code": "33.24.081.003",
+    "villageCode": "003",
+    "districtCode": "33.24.081",
+    "name": "Darupono",
+    "alias": "Darupono"
+  },
+  {
+    "code": "33.24.081.004",
+    "villageCode": "004",
+    "districtCode": "33.24.081",
+    "name": "Protomulyo",
+    "alias": "Protomulyo"
+  },
+  {
+    "code": "33.24.081.005",
+    "villageCode": "005",
+    "districtCode": "33.24.081",
+    "name": "Magelung",
+    "alias": "Magelung"
+  },
+  {
+    "code": "33.24.081.006",
+    "villageCode": "006",
+    "districtCode": "33.24.081",
+    "name": "Plantaran",
+    "alias": "Plantaran"
+  },
+  {
+    "code": "33.24.081.007",
+    "villageCode": "007",
+    "districtCode": "33.24.081",
+    "name": "Sukomulyo",
+    "alias": "Sukomulyo"
+  },
+  {
+    "code": "33.24.081.008",
+    "villageCode": "008",
+    "districtCode": "33.24.081",
+    "name": "Sidomakmur",
+    "alias": "Sidomakmur"
+  }
+]

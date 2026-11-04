@@ -1,0 +1,90 @@
+[
+  {
+    "code": "11.02.010",
+    "districtCode": "010",
+    "regencyCode": "11.02",
+    "provinceCode": "11",
+    "name": "Kecamatan Pulau Banyak",
+    "alias": "Pulau Banyak"
+  },
+  {
+    "code": "11.02.011",
+    "districtCode": "011",
+    "regencyCode": "11.02",
+    "provinceCode": "11",
+    "name": "Kecamatan Pulau Banyak Barat",
+    "alias": "Pulau Banyak Barat"
+  },
+  {
+    "code": "11.02.020",
+    "districtCode": "020",
+    "regencyCode": "11.02",
+    "provinceCode": "11",
+    "name": "Kecamatan Singkil",
+    "alias": "Singkil"
+  },
+  {
+    "code": "11.02.021",
+    "districtCode": "021",
+    "regencyCode": "11.02",
+    "provinceCode": "11",
+    "name": "Kecamatan Singkil Utara",
+    "alias": "Singkil Utara"
+  },
+  {
+    "code": "11.02.022",
+    "districtCode": "022",
+    "regencyCode": "11.02",
+    "provinceCode": "11",
+    "name": "Kecamatan Kuala Baru",
+    "alias": "Kuala Baru"
+  },
+  {
+    "code": "11.02.030",
+    "districtCode": "030",
+    "regencyCode": "11.02",
+    "provinceCode": "11",
+    "name": "Kecamatan Simpang Kanan",
+    "alias": "Simpang Kanan"
+  },
+  {
+    "code": "11.02.031",
+    "districtCode": "031",
+    "regencyCode": "11.02",
+    "provinceCode": "11",
+    "name": "Kecamatan Gunung Meriah",
+    "alias": "Gunung Meriah"
+  },
+  {
+    "code": "11.02.032",
+    "districtCode": "032",
+    "regencyCode": "11.02",
+    "provinceCode": "11",
+    "name": "Kecamatan Danau Paris",
+    "alias": "Danau Paris"
+  },
+  {
+    "code": "11.02.033",
+    "districtCode": "033",
+    "regencyCode": "11.02",
+    "provinceCode": "11",
+    "name": "Kecamatan Suro",
+    "alias": "Suro"
+  },
+  {
+    "code": "11.02.042",
+    "districtCode": "042",
+    "regencyCode": "11.02",
+    "provinceCode": "11",
+    "name": "Kecamatan Singkohor",
+    "alias": "Singkohor"
+  },
+  {
+    "code": "11.02.043",
+    "districtCode": "043",
+    "regencyCode": "11.02",
+    "provinceCode": "11",
+    "name": "Kecamatan Kota Baharu",
+    "alias": "Kota Baharu"
+  }
+]

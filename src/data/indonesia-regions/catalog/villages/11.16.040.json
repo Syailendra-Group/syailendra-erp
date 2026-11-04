@@ -1,0 +1,93 @@
+[
+  {
+    "code": "11.16.040.001",
+    "villageCode": "001",
+    "districtCode": "11.16.040",
+    "name": "Sawang",
+    "alias": "Sawang"
+  },
+  {
+    "code": "11.16.040.002",
+    "villageCode": "002",
+    "districtCode": "11.16.040",
+    "name": "Lhok Geulumpang",
+    "alias": "Lhok Geulumpang"
+  },
+  {
+    "code": "11.16.040.003",
+    "villageCode": "003",
+    "districtCode": "11.16.040",
+    "name": "Lhok Timon",
+    "alias": "Lhok Timon"
+  },
+  {
+    "code": "11.16.040.004",
+    "villageCode": "004",
+    "districtCode": "11.16.040",
+    "name": "Gampong Baro",
+    "alias": "Gampong Baro"
+  },
+  {
+    "code": "11.16.040.005",
+    "villageCode": "005",
+    "districtCode": "11.16.040",
+    "name": "Lhok Buya",
+    "alias": "Lhok Buya"
+  },
+  {
+    "code": "11.16.040.006",
+    "villageCode": "006",
+    "districtCode": "11.16.040",
+    "name": "Lhok Bot",
+    "alias": "Lhok Bot"
+  },
+  {
+    "code": "11.16.040.007",
+    "villageCode": "007",
+    "districtCode": "11.16.040",
+    "name": "Padang",
+    "alias": "Padang"
+  },
+  {
+    "code": "11.16.040.008",
+    "villageCode": "008",
+    "districtCode": "11.16.040",
+    "name": "Gunong Meunasah",
+    "alias": "Gunong Meunasah"
+  },
+  {
+    "code": "11.16.040.009",
+    "villageCode": "009",
+    "districtCode": "11.16.040",
+    "name": "Paya Laut",
+    "alias": "Paya Laut"
+  },
+  {
+    "code": "11.16.040.010",
+    "villageCode": "010",
+    "districtCode": "11.16.040",
+    "name": "Sapek",
+    "alias": "Sapek"
+  },
+  {
+    "code": "11.16.040.011",
+    "villageCode": "011",
+    "districtCode": "11.16.040",
+    "name": "Gampong Baroh",
+    "alias": "Gampong Baroh"
+  },
+  {
+    "code": "11.16.040.012",
+    "villageCode": "012",
+    "districtCode": "11.16.040",
+    "name": "Gle Subak",
+    "alias": "Gle Subak"
+  },
+  {
+    "code": "11.16.040.013",
+    "villageCode": "013",
+    "districtCode": "11.16.040",
+    "name": "Pante Kuyun",
+    "alias": "Pante Kuyun"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "code": "32.05.080.001",
+    "villageCode": "001",
+    "districtCode": "32.05.080",
+    "name": "Mekarsari",
+    "alias": "Mekarsari"
+  },
+  {
+    "code": "32.05.080.002",
+    "villageCode": "002",
+    "districtCode": "32.05.080",
+    "name": "Karyasari",
+    "alias": "Karyasari"
+  },
+  {
+    "code": "32.05.080.003",
+    "villageCode": "003",
+    "districtCode": "32.05.080",
+    "name": "Karya Mukti",
+    "alias": "Karya Mukti"
+  },
+  {
+    "code": "32.05.080.004",
+    "villageCode": "004",
+    "districtCode": "32.05.080",
+    "name": "Sagara",
+    "alias": "Sagara"
+  },
+  {
+    "code": "32.05.080.005",
+    "villageCode": "005",
+    "districtCode": "32.05.080",
+    "name": "Maroko",
+    "alias": "Maroko"
+  },
+  {
+    "code": "32.05.080.006",
+    "villageCode": "006",
+    "districtCode": "32.05.080",
+    "name": "Sancang",
+    "alias": "Sancang"
+  },
+  {
+    "code": "32.05.080.007",
+    "villageCode": "007",
+    "districtCode": "32.05.080",
+    "name": "Simpang",
+    "alias": "Simpang"
+  },
+  {
+    "code": "32.05.080.008",
+    "villageCode": "008",
+    "districtCode": "32.05.080",
+    "name": "Cigaronggong",
+    "alias": "Cigaronggong"
+  },
+  {
+    "code": "32.05.080.009",
+    "villageCode": "009",
+    "districtCode": "32.05.080",
+    "name": "Mekarmukti",
+    "alias": "Mekarmukti"
+  },
+  {
+    "code": "32.05.080.010",
+    "villageCode": "010",
+    "districtCode": "32.05.080",
+    "name": "Mekarwangi",
+    "alias": "Mekarwangi"
+  },
+  {
+    "code": "32.05.080.011",
+    "villageCode": "011",
+    "districtCode": "32.05.080",
+    "name": "Najaten",
+    "alias": "Najaten"
+  }
+]

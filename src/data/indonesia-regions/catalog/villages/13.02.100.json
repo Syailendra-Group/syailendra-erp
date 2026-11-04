@@ -1,0 +1,121 @@
+[
+  {
+    "code": "13.02.100.001",
+    "villageCode": "001",
+    "districtCode": "13.02.100",
+    "name": "Pasar Baru",
+    "alias": "Pasar Baru"
+  },
+  {
+    "code": "13.02.100.002",
+    "villageCode": "002",
+    "districtCode": "13.02.100",
+    "name": "Talaok",
+    "alias": "Talaok"
+  },
+  {
+    "code": "13.02.100.003",
+    "villageCode": "003",
+    "districtCode": "13.02.100",
+    "name": "Koto Barapak",
+    "alias": "Koto Barapak"
+  },
+  {
+    "code": "13.02.100.004",
+    "villageCode": "004",
+    "districtCode": "13.02.100",
+    "name": "Gurun Panjang",
+    "alias": "Gurun Panjang"
+  },
+  {
+    "code": "13.02.100.005",
+    "villageCode": "005",
+    "districtCode": "13.02.100",
+    "name": "Api-Api Pasar Baru",
+    "alias": "Api-Api Pasar Baru"
+  },
+  {
+    "code": "13.02.100.006",
+    "villageCode": "006",
+    "districtCode": "13.02.100",
+    "name": "Tanjung Durian Pasar Baru",
+    "alias": "Tanjung Durian Pasar Baru"
+  },
+  {
+    "code": "13.02.100.007",
+    "villageCode": "007",
+    "districtCode": "13.02.100",
+    "name": "Asam Kamba Pasar Baru",
+    "alias": "Asam Kamba Pasar Baru"
+  },
+  {
+    "code": "13.02.100.008",
+    "villageCode": "008",
+    "districtCode": "13.02.100",
+    "name": "Sawah Laweh Pasar Baru",
+    "alias": "Sawah Laweh Pasar Baru"
+  },
+  {
+    "code": "13.02.100.009",
+    "villageCode": "009",
+    "districtCode": "13.02.100",
+    "name": "Kapeh Panji Jaya Talaok",
+    "alias": "Kapeh Panji Jaya Talaok"
+  },
+  {
+    "code": "13.02.100.010",
+    "villageCode": "010",
+    "districtCode": "13.02.100",
+    "name": "Aur Begalung Talaok",
+    "alias": "Aur Begalung Talaok"
+  },
+  {
+    "code": "13.02.100.011",
+    "villageCode": "011",
+    "districtCode": "13.02.100",
+    "name": "Kapelgam Koto Barapak",
+    "alias": "Kapelgam Koto Barapak"
+  },
+  {
+    "code": "13.02.100.012",
+    "villageCode": "012",
+    "districtCode": "13.02.100",
+    "name": "Kapujan Koto Barapak",
+    "alias": "Kapujan Koto Barapak"
+  },
+  {
+    "code": "13.02.100.013",
+    "villageCode": "013",
+    "districtCode": "13.02.100",
+    "name": "Koto Baru Koto Barapak",
+    "alias": "Koto Baru Koto Barapak"
+  },
+  {
+    "code": "13.02.100.014",
+    "villageCode": "014",
+    "districtCode": "13.02.100",
+    "name": "Kubang Koto Barapak",
+    "alias": "Kubang Koto Barapak"
+  },
+  {
+    "code": "13.02.100.015",
+    "villageCode": "015",
+    "districtCode": "13.02.100",
+    "name": "Gurun Panjang Selatan",
+    "alias": "Gurun Panjang Selatan"
+  },
+  {
+    "code": "13.02.100.016",
+    "villageCode": "016",
+    "districtCode": "13.02.100",
+    "name": "Gurun Panjang Utara",
+    "alias": "Gurun Panjang Utara"
+  },
+  {
+    "code": "13.02.100.017",
+    "villageCode": "017",
+    "districtCode": "13.02.100",
+    "name": "Gurun Panjang Barat",
+    "alias": "Gurun Panjang Barat"
+  }
+]

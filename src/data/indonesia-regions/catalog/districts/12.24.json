@@ -1,0 +1,90 @@
+[
+  {
+    "code": "12.24.010",
+    "districtCode": "010",
+    "regencyCode": "12.24",
+    "provinceCode": "12",
+    "name": "Kecamatan Tugala Oyo",
+    "alias": "Tugala Oyo"
+  },
+  {
+    "code": "12.24.020",
+    "districtCode": "020",
+    "regencyCode": "12.24",
+    "provinceCode": "12",
+    "name": "Kecamatan Alasa",
+    "alias": "Alasa"
+  },
+  {
+    "code": "12.24.030",
+    "districtCode": "030",
+    "regencyCode": "12.24",
+    "provinceCode": "12",
+    "name": "Kecamatan Alasa Talu Muzoi",
+    "alias": "Alasa Talu Muzoi"
+  },
+  {
+    "code": "12.24.040",
+    "districtCode": "040",
+    "regencyCode": "12.24",
+    "provinceCode": "12",
+    "name": "Kecamatan Namohalu Esiwa",
+    "alias": "Namohalu Esiwa"
+  },
+  {
+    "code": "12.24.050",
+    "districtCode": "050",
+    "regencyCode": "12.24",
+    "provinceCode": "12",
+    "name": "Kecamatan Sitolu Ori",
+    "alias": "Sitolu Ori"
+  },
+  {
+    "code": "12.24.060",
+    "districtCode": "060",
+    "regencyCode": "12.24",
+    "provinceCode": "12",
+    "name": "Kecamatan Tuhemberua",
+    "alias": "Tuhemberua"
+  },
+  {
+    "code": "12.24.070",
+    "districtCode": "070",
+    "regencyCode": "12.24",
+    "provinceCode": "12",
+    "name": "Kecamatan Sawo",
+    "alias": "Sawo"
+  },
+  {
+    "code": "12.24.080",
+    "districtCode": "080",
+    "regencyCode": "12.24",
+    "provinceCode": "12",
+    "name": "Kecamatan Lotu",
+    "alias": "Lotu"
+  },
+  {
+    "code": "12.24.090",
+    "districtCode": "090",
+    "regencyCode": "12.24",
+    "provinceCode": "12",
+    "name": "Kecamatan Lahewa Timur",
+    "alias": "Lahewa Timur"
+  },
+  {
+    "code": "12.24.100",
+    "districtCode": "100",
+    "regencyCode": "12.24",
+    "provinceCode": "12",
+    "name": "Kecamatan Afulu",
+    "alias": "Afulu"
+  },
+  {
+    "code": "12.24.110",
+    "districtCode": "110",
+    "regencyCode": "12.24",
+    "provinceCode": "12",
+    "name": "Kecamatan Lahewa",
+    "alias": "Lahewa"
+  }
+]

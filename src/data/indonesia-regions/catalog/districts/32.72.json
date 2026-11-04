@@ -1,0 +1,58 @@
+[
+  {
+    "code": "32.72.010",
+    "districtCode": "010",
+    "regencyCode": "32.72",
+    "provinceCode": "32",
+    "name": "Kecamatan Baros",
+    "alias": "Baros"
+  },
+  {
+    "code": "32.72.011",
+    "districtCode": "011",
+    "regencyCode": "32.72",
+    "provinceCode": "32",
+    "name": "Kecamatan Lembursitu",
+    "alias": "Lembursitu"
+  },
+  {
+    "code": "32.72.012",
+    "districtCode": "012",
+    "regencyCode": "32.72",
+    "provinceCode": "32",
+    "name": "Kecamatan Cibeureum",
+    "alias": "Cibeureum"
+  },
+  {
+    "code": "32.72.020",
+    "districtCode": "020",
+    "regencyCode": "32.72",
+    "provinceCode": "32",
+    "name": "Kecamatan Citamiang",
+    "alias": "Citamiang"
+  },
+  {
+    "code": "32.72.030",
+    "districtCode": "030",
+    "regencyCode": "32.72",
+    "provinceCode": "32",
+    "name": "Kecamatan Warudoyong",
+    "alias": "Warudoyong"
+  },
+  {
+    "code": "32.72.040",
+    "districtCode": "040",
+    "regencyCode": "32.72",
+    "provinceCode": "32",
+    "name": "Kecamatan Gunung Puyuh",
+    "alias": "Gunung Puyuh"
+  },
+  {
+    "code": "32.72.050",
+    "districtCode": "050",
+    "regencyCode": "32.72",
+    "provinceCode": "32",
+    "name": "Kecamatan Cikole",
+    "alias": "Cikole"
+  }
+]

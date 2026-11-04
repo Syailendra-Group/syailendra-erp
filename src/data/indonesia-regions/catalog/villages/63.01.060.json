@@ -1,0 +1,142 @@
+[
+  {
+    "code": "63.01.060.001",
+    "villageCode": "001",
+    "districtCode": "63.01.060",
+    "name": "Sungai Riam",
+    "alias": "Sungai Riam"
+  },
+  {
+    "code": "63.01.060.002",
+    "villageCode": "002",
+    "districtCode": "63.01.060",
+    "name": "Kampung Baru",
+    "alias": "Kampung Baru"
+  },
+  {
+    "code": "63.01.060.003",
+    "villageCode": "003",
+    "districtCode": "63.01.060",
+    "name": "Sumber Mulia",
+    "alias": "Sumber Mulia"
+  },
+  {
+    "code": "63.01.060.004",
+    "villageCode": "004",
+    "districtCode": "63.01.060",
+    "name": "Tampang",
+    "alias": "Tampang"
+  },
+  {
+    "code": "63.01.060.005",
+    "villageCode": "005",
+    "districtCode": "63.01.060",
+    "name": "Sarang Halang",
+    "alias": "Sarang Halang"
+  },
+  {
+    "code": "63.01.060.006",
+    "villageCode": "006",
+    "districtCode": "63.01.060",
+    "name": "Bumi Jaya",
+    "alias": "Bumi Jaya"
+  },
+  {
+    "code": "63.01.060.014",
+    "villageCode": "014",
+    "districtCode": "63.01.060",
+    "name": "Atu-Atu",
+    "alias": "Atu-Atu"
+  },
+  {
+    "code": "63.01.060.015",
+    "villageCode": "015",
+    "districtCode": "63.01.060",
+    "name": "Angsau",
+    "alias": "Angsau"
+  },
+  {
+    "code": "63.01.060.016",
+    "villageCode": "016",
+    "districtCode": "63.01.060",
+    "name": "Pelaihari",
+    "alias": "Pelaihari"
+  },
+  {
+    "code": "63.01.060.017",
+    "villageCode": "017",
+    "districtCode": "63.01.060",
+    "name": "Karang Taruna",
+    "alias": "Karang Taruna"
+  },
+  {
+    "code": "63.01.060.018",
+    "villageCode": "018",
+    "districtCode": "63.01.060",
+    "name": "Telaga",
+    "alias": "Telaga"
+  },
+  {
+    "code": "63.01.060.019",
+    "villageCode": "019",
+    "districtCode": "63.01.060",
+    "name": "Guntung Besar",
+    "alias": "Guntung Besar"
+  },
+  {
+    "code": "63.01.060.020",
+    "villageCode": "020",
+    "districtCode": "63.01.060",
+    "name": "Panjaratan",
+    "alias": "Panjaratan"
+  },
+  {
+    "code": "63.01.060.021",
+    "villageCode": "021",
+    "districtCode": "63.01.060",
+    "name": "Tungkaran",
+    "alias": "Tungkaran"
+  },
+  {
+    "code": "63.01.060.022",
+    "villageCode": "022",
+    "districtCode": "63.01.060",
+    "name": "Panggung",
+    "alias": "Panggung"
+  },
+  {
+    "code": "63.01.060.023",
+    "villageCode": "023",
+    "districtCode": "63.01.060",
+    "name": "Pabahanan",
+    "alias": "Pabahanan"
+  },
+  {
+    "code": "63.01.060.026",
+    "villageCode": "026",
+    "districtCode": "63.01.060",
+    "name": "Ambungan",
+    "alias": "Ambungan"
+  },
+  {
+    "code": "63.01.060.027",
+    "villageCode": "027",
+    "districtCode": "63.01.060",
+    "name": "Panggung Baru",
+    "alias": "Panggung Baru"
+  },
+  {
+    "code": "63.01.060.028",
+    "villageCode": "028",
+    "districtCode": "63.01.060",
+    "name": "Ujung Batu",
+    "alias": "Ujung Batu"
+  },
+  {
+    "code": "63.01.060.029",
+    "villageCode": "029",
+    "districtCode": "63.01.060",
+    "name": "Pemuda",
+    "alias": "Pemuda"
+  }
+]

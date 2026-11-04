@@ -1,0 +1,72 @@
+[
+  {
+    "code": "62.05.052.001",
+    "villageCode": "001",
+    "districtCode": "62.05.052",
+    "name": "Trahean",
+    "alias": "Trahean"
+  },
+  {
+    "code": "62.05.052.002",
+    "villageCode": "002",
+    "districtCode": "62.05.052",
+    "name": "Trinsing",
+    "alias": "Trinsing"
+  },
+  {
+    "code": "62.05.052.003",
+    "villageCode": "003",
+    "districtCode": "62.05.052",
+    "name": "Bintang Ninggi I",
+    "alias": "Bintang Ninggi I"
+  },
+  {
+    "code": "62.05.052.004",
+    "villageCode": "004",
+    "districtCode": "62.05.052",
+    "name": "Bintang Ninggi Ii",
+    "alias": "Bintang Ninggi Ii"
+  },
+  {
+    "code": "62.05.052.005",
+    "villageCode": "005",
+    "districtCode": "62.05.052",
+    "name": "Butong",
+    "alias": "Butong"
+  },
+  {
+    "code": "62.05.052.006",
+    "villageCode": "006",
+    "districtCode": "62.05.052",
+    "name": "Buntok Baru",
+    "alias": "Buntok Baru"
+  },
+  {
+    "code": "62.05.052.007",
+    "villageCode": "007",
+    "districtCode": "62.05.052",
+    "name": "Bukit Sawit",
+    "alias": "Bukit Sawit"
+  },
+  {
+    "code": "62.05.052.008",
+    "villageCode": "008",
+    "districtCode": "62.05.052",
+    "name": "Tawan Jaya",
+    "alias": "Tawan Jaya"
+  },
+  {
+    "code": "62.05.052.009",
+    "villageCode": "009",
+    "districtCode": "62.05.052",
+    "name": "Pandran Raya",
+    "alias": "Pandran Raya"
+  },
+  {
+    "code": "62.05.052.010",
+    "villageCode": "010",
+    "districtCode": "62.05.052",
+    "name": "Pandran Permai",
+    "alias": "Pandran Permai"
+  }
+]

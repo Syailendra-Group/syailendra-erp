@@ -1,0 +1,86 @@
+[
+  {
+    "code": "32.01.120.001",
+    "villageCode": "001",
+    "districtCode": "32.01.120",
+    "name": "Sukaresmi",
+    "alias": "Sukaresmi"
+  },
+  {
+    "code": "32.01.120.002",
+    "villageCode": "002",
+    "districtCode": "32.01.120",
+    "name": "Sukagalih",
+    "alias": "Sukagalih"
+  },
+  {
+    "code": "32.01.120.003",
+    "villageCode": "003",
+    "districtCode": "32.01.120",
+    "name": "Kuta",
+    "alias": "Kuta"
+  },
+  {
+    "code": "32.01.120.004",
+    "villageCode": "004",
+    "districtCode": "32.01.120",
+    "name": "Sukakarya",
+    "alias": "Sukakarya"
+  },
+  {
+    "code": "32.01.120.005",
+    "villageCode": "005",
+    "districtCode": "32.01.120",
+    "name": "Sukamanah",
+    "alias": "Sukamanah"
+  },
+  {
+    "code": "32.01.120.006",
+    "villageCode": "006",
+    "districtCode": "32.01.120",
+    "name": "Sukamaju",
+    "alias": "Sukamaju"
+  },
+  {
+    "code": "32.01.120.007",
+    "villageCode": "007",
+    "districtCode": "32.01.120",
+    "name": "Sukamahi",
+    "alias": "Sukamahi"
+  },
+  {
+    "code": "32.01.120.008",
+    "villageCode": "008",
+    "districtCode": "32.01.120",
+    "name": "Gadog",
+    "alias": "Gadog"
+  },
+  {
+    "code": "32.01.120.009",
+    "villageCode": "009",
+    "districtCode": "32.01.120",
+    "name": "Cipayung",
+    "alias": "Cipayung"
+  },
+  {
+    "code": "32.01.120.010",
+    "villageCode": "010",
+    "districtCode": "32.01.120",
+    "name": "Cipayung Girang",
+    "alias": "Cipayung Girang"
+  },
+  {
+    "code": "32.01.120.011",
+    "villageCode": "011",
+    "districtCode": "32.01.120",
+    "name": "Megamendung",
+    "alias": "Megamendung"
+  },
+  {
+    "code": "32.01.120.012",
+    "villageCode": "012",
+    "districtCode": "32.01.120",
+    "name": "Pasir Angin",
+    "alias": "Pasir Angin"
+  }
+]

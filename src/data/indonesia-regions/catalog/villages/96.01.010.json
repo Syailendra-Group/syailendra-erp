@@ -1,0 +1,51 @@
+[
+  {
+    "code": "96.01.010.001",
+    "villageCode": "001",
+    "districtCode": "96.01.010",
+    "name": "Kokonao",
+    "alias": "Kokonao"
+  },
+  {
+    "code": "96.01.010.002",
+    "villageCode": "002",
+    "districtCode": "96.01.010",
+    "name": "Migiwia",
+    "alias": "Migiwia"
+  },
+  {
+    "code": "96.01.010.003",
+    "villageCode": "003",
+    "districtCode": "96.01.010",
+    "name": "Mimika",
+    "alias": "Mimika"
+  },
+  {
+    "code": "96.01.010.004",
+    "villageCode": "004",
+    "districtCode": "96.01.010",
+    "name": "Kiyura",
+    "alias": "Kiyura"
+  },
+  {
+    "code": "96.01.010.005",
+    "villageCode": "005",
+    "districtCode": "96.01.010",
+    "name": "Apuri",
+    "alias": "Apuri"
+  },
+  {
+    "code": "96.01.010.006",
+    "villageCode": "006",
+    "districtCode": "96.01.010",
+    "name": "Atapo",
+    "alias": "Atapo"
+  },
+  {
+    "code": "96.01.010.007",
+    "villageCode": "007",
+    "districtCode": "96.01.010",
+    "name": "Aparuka",
+    "alias": "Aparuka"
+  }
+]

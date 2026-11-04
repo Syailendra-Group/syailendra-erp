@@ -1,0 +1,98 @@
+[
+  {
+    "code": "71.09.010",
+    "districtCode": "010",
+    "regencyCode": "71.09",
+    "provinceCode": "71",
+    "name": "Kecamatan Ratatotok",
+    "alias": "Ratatotok"
+  },
+  {
+    "code": "71.09.020",
+    "districtCode": "020",
+    "regencyCode": "71.09",
+    "provinceCode": "71",
+    "name": "Kecamatan Pusomaen",
+    "alias": "Pusomaen"
+  },
+  {
+    "code": "71.09.030",
+    "districtCode": "030",
+    "regencyCode": "71.09",
+    "provinceCode": "71",
+    "name": "Kecamatan Belang",
+    "alias": "Belang"
+  },
+  {
+    "code": "71.09.040",
+    "districtCode": "040",
+    "regencyCode": "71.09",
+    "provinceCode": "71",
+    "name": "Kecamatan Ratahan",
+    "alias": "Ratahan"
+  },
+  {
+    "code": "71.09.041",
+    "districtCode": "041",
+    "regencyCode": "71.09",
+    "provinceCode": "71",
+    "name": "Kecamatan Pasan",
+    "alias": "Pasan"
+  },
+  {
+    "code": "71.09.042",
+    "districtCode": "042",
+    "regencyCode": "71.09",
+    "provinceCode": "71",
+    "name": "Kecamatan Ratahan Timur",
+    "alias": "Ratahan Timur"
+  },
+  {
+    "code": "71.09.050",
+    "districtCode": "050",
+    "regencyCode": "71.09",
+    "provinceCode": "71",
+    "name": "Kecamatan Tombatu",
+    "alias": "Tombatu"
+  },
+  {
+    "code": "71.09.051",
+    "districtCode": "051",
+    "regencyCode": "71.09",
+    "provinceCode": "71",
+    "name": "Kecamatan Tombatu Timur",
+    "alias": "Tombatu Timur"
+  },
+  {
+    "code": "71.09.052",
+    "districtCode": "052",
+    "regencyCode": "71.09",
+    "provinceCode": "71",
+    "name": "Kecamatan Tombatu Utara",
+    "alias": "Tombatu Utara"
+  },
+  {
+    "code": "71.09.060",
+    "districtCode": "060",
+    "regencyCode": "71.09",
+    "provinceCode": "71",
+    "name": "Kecamatan Touluaan",
+    "alias": "Touluaan"
+  },
+  {
+    "code": "71.09.061",
+    "districtCode": "061",
+    "regencyCode": "71.09",
+    "provinceCode": "71",
+    "name": "Kecamatan Touluaan Selatan",
+    "alias": "Touluaan Selatan"
+  },
+  {
+    "code": "71.09.062",
+    "districtCode": "062",
+    "regencyCode": "71.09",
+    "provinceCode": "71",
+    "name": "Kecamatan Silian Raya",
+    "alias": "Silian Raya"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "code": "33.72.020.001",
+    "villageCode": "001",
+    "districtCode": "33.72.020",
+    "name": "Joyotakan",
+    "alias": "Joyotakan"
+  },
+  {
+    "code": "33.72.020.002",
+    "villageCode": "002",
+    "districtCode": "33.72.020",
+    "name": "Danukusuman",
+    "alias": "Danukusuman"
+  },
+  {
+    "code": "33.72.020.003",
+    "villageCode": "003",
+    "districtCode": "33.72.020",
+    "name": "Serengan",
+    "alias": "Serengan"
+  },
+  {
+    "code": "33.72.020.004",
+    "villageCode": "004",
+    "districtCode": "33.72.020",
+    "name": "Tipes",
+    "alias": "Tipes"
+  },
+  {
+    "code": "33.72.020.005",
+    "villageCode": "005",
+    "districtCode": "33.72.020",
+    "name": "Kratonan",
+    "alias": "Kratonan"
+  },
+  {
+    "code": "33.72.020.006",
+    "villageCode": "006",
+    "districtCode": "33.72.020",
+    "name": "Jayengan",
+    "alias": "Jayengan"
+  },
+  {
+    "code": "33.72.020.007",
+    "villageCode": "007",
+    "districtCode": "33.72.020",
+    "name": "Kemlayan",
+    "alias": "Kemlayan"
+  }
+]

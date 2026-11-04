@@ -1,0 +1,72 @@
+[
+  {
+    "code": "12.06.052.001",
+    "villageCode": "001",
+    "districtCode": "12.06.052",
+    "name": "Lumban Rau Tengah",
+    "alias": "Lumban Rau Tengah"
+  },
+  {
+    "code": "12.06.052.002",
+    "villageCode": "002",
+    "districtCode": "12.06.052",
+    "name": "Lumban Rau Timur",
+    "alias": "Lumban Rau Timur"
+  },
+  {
+    "code": "12.06.052.003",
+    "villageCode": "003",
+    "districtCode": "12.06.052",
+    "name": "Lumban Rau Utara",
+    "alias": "Lumban Rau Utara"
+  },
+  {
+    "code": "12.06.052.004",
+    "villageCode": "004",
+    "districtCode": "12.06.052",
+    "name": "Napajoring",
+    "alias": "Napajoring"
+  },
+  {
+    "code": "12.06.052.005",
+    "villageCode": "005",
+    "districtCode": "12.06.052",
+    "name": "Sipagabu",
+    "alias": "Sipagabu"
+  },
+  {
+    "code": "12.06.052.006",
+    "villageCode": "006",
+    "districtCode": "12.06.052",
+    "name": "Liat Tondung",
+    "alias": "Liat Tondung"
+  },
+  {
+    "code": "12.06.052.007",
+    "villageCode": "007",
+    "districtCode": "12.06.052",
+    "name": "Batu Manumpak",
+    "alias": "Batu Manumpak"
+  },
+  {
+    "code": "12.06.052.008",
+    "villageCode": "008",
+    "districtCode": "12.06.052",
+    "name": "Lumban Rau Tenggara",
+    "alias": "Lumban Rau Tenggara"
+  },
+  {
+    "code": "12.06.052.009",
+    "villageCode": "009",
+    "districtCode": "12.06.052",
+    "name": "Cinta Damai",
+    "alias": "Cinta Damai"
+  },
+  {
+    "code": "12.06.052.010",
+    "villageCode": "010",
+    "districtCode": "12.06.052",
+    "name": "Siantarasa",
+    "alias": "Siantarasa"
+  }
+]

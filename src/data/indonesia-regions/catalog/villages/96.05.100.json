@@ -1,0 +1,86 @@
+[
+  {
+    "code": "96.05.100.001",
+    "villageCode": "001",
+    "districtCode": "96.05.100",
+    "name": "Eguai",
+    "alias": "Eguai"
+  },
+  {
+    "code": "96.05.100.002",
+    "villageCode": "002",
+    "districtCode": "96.05.100",
+    "name": "Degatadi",
+    "alias": "Degatadi"
+  },
+  {
+    "code": "96.05.100.003",
+    "villageCode": "003",
+    "districtCode": "96.05.100",
+    "name": "Nomokepota",
+    "alias": "Nomokepota"
+  },
+  {
+    "code": "96.05.100.004",
+    "villageCode": "004",
+    "districtCode": "96.05.100",
+    "name": "Siriwo/Dadou",
+    "alias": "Siriwo/Dadou"
+  },
+  {
+    "code": "96.05.100.005",
+    "villageCode": "005",
+    "districtCode": "96.05.100",
+    "name": "Uwoyupi",
+    "alias": "Uwoyupi"
+  },
+  {
+    "code": "96.05.100.006",
+    "villageCode": "006",
+    "districtCode": "96.05.100",
+    "name": "Ikotu / Bua",
+    "alias": "Ikotu / Bua"
+  },
+  {
+    "code": "96.05.100.007",
+    "villageCode": "007",
+    "districtCode": "96.05.100",
+    "name": "Dogomouto",
+    "alias": "Dogomouto"
+  },
+  {
+    "code": "96.05.100.008",
+    "villageCode": "008",
+    "districtCode": "96.05.100",
+    "name": "Todia",
+    "alias": "Todia"
+  },
+  {
+    "code": "96.05.100.009",
+    "villageCode": "009",
+    "districtCode": "96.05.100",
+    "name": "Wageme/Wegekebo",
+    "alias": "Wageme/Wegekebo"
+  },
+  {
+    "code": "96.05.100.010",
+    "villageCode": "010",
+    "districtCode": "96.05.100",
+    "name": "Yinotadi",
+    "alias": "Yinotadi"
+  },
+  {
+    "code": "96.05.100.011",
+    "villageCode": "011",
+    "districtCode": "96.05.100",
+    "name": "Kepi",
+    "alias": "Kepi"
+  },
+  {
+    "code": "96.05.100.012",
+    "villageCode": "012",
+    "districtCode": "96.05.100",
+    "name": "Bugubutu",
+    "alias": "Bugubutu"
+  }
+]

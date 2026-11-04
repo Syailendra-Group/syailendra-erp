@@ -1,0 +1,66 @@
+[
+  {
+    "code": "36.01",
+    "regencyCode": "01",
+    "provinceCode": "36",
+    "provinceName": "Banten",
+    "name": "Kabupaten Pandeglang",
+    "alias": "Pandeglang"
+  },
+  {
+    "code": "36.02",
+    "regencyCode": "02",
+    "provinceCode": "36",
+    "provinceName": "Banten",
+    "name": "Kabupaten Lebak",
+    "alias": "Lebak"
+  },
+  {
+    "code": "36.03",
+    "regencyCode": "03",
+    "provinceCode": "36",
+    "provinceName": "Banten",
+    "name": "Kabupaten Tangerang",
+    "alias": "Tangerang"
+  },
+  {
+    "code": "36.04",
+    "regencyCode": "04",
+    "provinceCode": "36",
+    "provinceName": "Banten",
+    "name": "Kabupaten Serang",
+    "alias": "Serang"
+  },
+  {
+    "code": "36.71",
+    "regencyCode": "71",
+    "provinceCode": "36",
+    "provinceName": "Banten",
+    "name": "Kota Tangerang",
+    "alias": "Tangerang"
+  },
+  {
+    "code": "36.72",
+    "regencyCode": "72",
+    "provinceCode": "36",
+    "provinceName": "Banten",
+    "name": "Kota Cilegon",
+    "alias": "Cilegon"
+  },
+  {
+    "code": "36.73",
+    "regencyCode": "73",
+    "provinceCode": "36",
+    "provinceName": "Banten",
+    "name": "Kota Serang",
+    "alias": "Serang"
+  },
+  {
+    "code": "36.74",
+    "regencyCode": "74",
+    "provinceCode": "36",
+    "provinceName": "Banten",
+    "name": "Kota Tangerang Selatan",
+    "alias": "Tangerang Selatan"
+  }
+]

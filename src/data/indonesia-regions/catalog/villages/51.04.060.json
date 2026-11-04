@@ -1,0 +1,51 @@
+[
+  {
+    "code": "51.04.060.001",
+    "villageCode": "001",
+    "districtCode": "51.04.060",
+    "name": "Keliki",
+    "alias": "Keliki"
+  },
+  {
+    "code": "51.04.060.002",
+    "villageCode": "002",
+    "districtCode": "51.04.060",
+    "name": "Tegallalang",
+    "alias": "Tegallalang"
+  },
+  {
+    "code": "51.04.060.003",
+    "villageCode": "003",
+    "districtCode": "51.04.060",
+    "name": "Kenderan",
+    "alias": "Kenderan"
+  },
+  {
+    "code": "51.04.060.004",
+    "villageCode": "004",
+    "districtCode": "51.04.060",
+    "name": "Kedisan",
+    "alias": "Kedisan"
+  },
+  {
+    "code": "51.04.060.005",
+    "villageCode": "005",
+    "districtCode": "51.04.060",
+    "name": "Pupuan",
+    "alias": "Pupuan"
+  },
+  {
+    "code": "51.04.060.006",
+    "villageCode": "006",
+    "districtCode": "51.04.060",
+    "name": "Sebatu",
+    "alias": "Sebatu"
+  },
+  {
+    "code": "51.04.060.007",
+    "villageCode": "007",
+    "districtCode": "51.04.060",
+    "name": "Taro",
+    "alias": "Taro"
+  }
+]

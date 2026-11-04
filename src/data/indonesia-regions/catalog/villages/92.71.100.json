@@ -1,0 +1,30 @@
+[
+  {
+    "code": "92.71.100.001",
+    "villageCode": "001",
+    "districtCode": "92.71.100",
+    "name": "Tampa Garam",
+    "alias": "Tampa Garam"
+  },
+  {
+    "code": "92.71.100.002",
+    "villageCode": "002",
+    "districtCode": "92.71.100",
+    "name": "Saoka",
+    "alias": "Saoka"
+  },
+  {
+    "code": "92.71.100.003",
+    "villageCode": "003",
+    "districtCode": "92.71.100",
+    "name": "Suprau",
+    "alias": "Suprau"
+  },
+  {
+    "code": "92.71.100.004",
+    "villageCode": "004",
+    "districtCode": "92.71.100",
+    "name": "Tanjung Kasuari",
+    "alias": "Tanjung Kasuari"
+  }
+]

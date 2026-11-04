@@ -1,0 +1,30 @@
+[
+  {
+    "code": "32.72.010.006",
+    "villageCode": "006",
+    "districtCode": "32.72.010",
+    "name": "Sudajaya Hilir",
+    "alias": "Sudajaya Hilir"
+  },
+  {
+    "code": "32.72.010.007",
+    "villageCode": "007",
+    "districtCode": "32.72.010",
+    "name": "Jayamekar",
+    "alias": "Jayamekar"
+  },
+  {
+    "code": "32.72.010.008",
+    "villageCode": "008",
+    "districtCode": "32.72.010",
+    "name": "Jayaraksa",
+    "alias": "Jayaraksa"
+  },
+  {
+    "code": "32.72.010.009",
+    "villageCode": "009",
+    "districtCode": "32.72.010",
+    "name": "Baros",
+    "alias": "Baros"
+  }
+]

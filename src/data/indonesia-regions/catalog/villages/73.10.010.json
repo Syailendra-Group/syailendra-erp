@@ -1,0 +1,51 @@
+[
+  {
+    "code": "73.10.010.006",
+    "villageCode": "006",
+    "districtCode": "73.10.010",
+    "name": "Mattirowalie",
+    "alias": "Mattirowalie"
+  },
+  {
+    "code": "73.10.010.008",
+    "villageCode": "008",
+    "districtCode": "73.10.010",
+    "name": "Harapan",
+    "alias": "Harapan"
+  },
+  {
+    "code": "73.10.010.009",
+    "villageCode": "009",
+    "districtCode": "73.10.010",
+    "name": "Lompo Riaja",
+    "alias": "Lompo Riaja"
+  },
+  {
+    "code": "73.10.010.010",
+    "villageCode": "010",
+    "districtCode": "73.10.010",
+    "name": "Libureng",
+    "alias": "Libureng"
+  },
+  {
+    "code": "73.10.010.011",
+    "villageCode": "011",
+    "districtCode": "73.10.010",
+    "name": "Kading",
+    "alias": "Kading"
+  },
+  {
+    "code": "73.10.010.012",
+    "villageCode": "012",
+    "districtCode": "73.10.010",
+    "name": "Lompo Tengah",
+    "alias": "Lompo Tengah"
+  },
+  {
+    "code": "73.10.010.013",
+    "villageCode": "013",
+    "districtCode": "73.10.010",
+    "name": "Lempang",
+    "alias": "Lempang"
+  }
+]

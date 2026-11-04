@@ -1,0 +1,72 @@
+[
+  {
+    "code": "32.10.080.001",
+    "villageCode": "001",
+    "districtCode": "32.10.080",
+    "name": "Kawunghilir",
+    "alias": "Kawunghilir"
+  },
+  {
+    "code": "32.10.080.002",
+    "villageCode": "002",
+    "districtCode": "32.10.080",
+    "name": "Tajur",
+    "alias": "Tajur"
+  },
+  {
+    "code": "32.10.080.003",
+    "villageCode": "003",
+    "districtCode": "32.10.080",
+    "name": "Cigasong",
+    "alias": "Cigasong"
+  },
+  {
+    "code": "32.10.080.004",
+    "villageCode": "004",
+    "districtCode": "32.10.080",
+    "name": "Simpeureum",
+    "alias": "Simpeureum"
+  },
+  {
+    "code": "32.10.080.005",
+    "villageCode": "005",
+    "districtCode": "32.10.080",
+    "name": "Tenjolayar",
+    "alias": "Tenjolayar"
+  },
+  {
+    "code": "32.10.080.006",
+    "villageCode": "006",
+    "districtCode": "32.10.080",
+    "name": "Kutamanggu",
+    "alias": "Kutamanggu"
+  },
+  {
+    "code": "32.10.080.007",
+    "villageCode": "007",
+    "districtCode": "32.10.080",
+    "name": "Cicenang",
+    "alias": "Cicenang"
+  },
+  {
+    "code": "32.10.080.008",
+    "villageCode": "008",
+    "districtCode": "32.10.080",
+    "name": "Baribis",
+    "alias": "Baribis"
+  },
+  {
+    "code": "32.10.080.009",
+    "villageCode": "009",
+    "districtCode": "32.10.080",
+    "name": "Batujaya",
+    "alias": "Batujaya"
+  },
+  {
+    "code": "32.10.080.010",
+    "villageCode": "010",
+    "districtCode": "32.10.080",
+    "name": "Karayunan",
+    "alias": "Karayunan"
+  }
+]

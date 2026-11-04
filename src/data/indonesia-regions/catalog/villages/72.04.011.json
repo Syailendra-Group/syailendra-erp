@@ -1,0 +1,44 @@
+[
+  {
+    "code": "72.04.011.001",
+    "villageCode": "001",
+    "districtCode": "72.04.011",
+    "name": "Taipa",
+    "alias": "Taipa"
+  },
+  {
+    "code": "72.04.011.002",
+    "villageCode": "002",
+    "districtCode": "72.04.011",
+    "name": "Meko",
+    "alias": "Meko"
+  },
+  {
+    "code": "72.04.011.003",
+    "villageCode": "003",
+    "districtCode": "72.04.011",
+    "name": "Salukaia",
+    "alias": "Salukaia"
+  },
+  {
+    "code": "72.04.011.004",
+    "villageCode": "004",
+    "districtCode": "72.04.011",
+    "name": "Uranosari",
+    "alias": "Uranosari"
+  },
+  {
+    "code": "72.04.011.005",
+    "villageCode": "005",
+    "districtCode": "72.04.011",
+    "name": "Toinasa",
+    "alias": "Toinasa"
+  },
+  {
+    "code": "72.04.011.006",
+    "villageCode": "006",
+    "districtCode": "72.04.011",
+    "name": "Owini",
+    "alias": "Owini"
+  }
+]

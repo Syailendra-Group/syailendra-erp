@@ -1,0 +1,51 @@
+[
+  {
+    "code": "17.07.052.001",
+    "villageCode": "001",
+    "districtCode": "17.07.052",
+    "name": "Embong",
+    "alias": "Embong"
+  },
+  {
+    "code": "17.07.052.002",
+    "villageCode": "002",
+    "districtCode": "17.07.052",
+    "name": "Embong Satu",
+    "alias": "Embong Satu"
+  },
+  {
+    "code": "17.07.052.003",
+    "villageCode": "003",
+    "districtCode": "17.07.052",
+    "name": "Kota Baru",
+    "alias": "Kota Baru"
+  },
+  {
+    "code": "17.07.052.004",
+    "villageCode": "004",
+    "districtCode": "17.07.052",
+    "name": "Kota Agung",
+    "alias": "Kota Agung"
+  },
+  {
+    "code": "17.07.052.005",
+    "villageCode": "005",
+    "districtCode": "17.07.052",
+    "name": "Lemeu",
+    "alias": "Lemeu"
+  },
+  {
+    "code": "17.07.052.006",
+    "villageCode": "006",
+    "districtCode": "17.07.052",
+    "name": "Pangkalan",
+    "alias": "Pangkalan"
+  },
+  {
+    "code": "17.07.052.007",
+    "villageCode": "007",
+    "districtCode": "17.07.052",
+    "name": "Tangua",
+    "alias": "Tangua"
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "code": "33.17.010",
+    "districtCode": "010",
+    "regencyCode": "33.17",
+    "provinceCode": "33",
+    "name": "Kecamatan Sumber",
+    "alias": "Sumber"
+  },
+  {
+    "code": "33.17.020",
+    "districtCode": "020",
+    "regencyCode": "33.17",
+    "provinceCode": "33",
+    "name": "Kecamatan Bulu",
+    "alias": "Bulu"
+  },
+  {
+    "code": "33.17.030",
+    "districtCode": "030",
+    "regencyCode": "33.17",
+    "provinceCode": "33",
+    "name": "Kecamatan Gunem",
+    "alias": "Gunem"
+  },
+  {
+    "code": "33.17.040",
+    "districtCode": "040",
+    "regencyCode": "33.17",
+    "provinceCode": "33",
+    "name": "Kecamatan Sale",
+    "alias": "Sale"
+  },
+  {
+    "code": "33.17.050",
+    "districtCode": "050",
+    "regencyCode": "33.17",
+    "provinceCode": "33",
+    "name": "Kecamatan Sarang",
+    "alias": "Sarang"
+  },
+  {
+    "code": "33.17.060",
+    "districtCode": "060",
+    "regencyCode": "33.17",
+    "provinceCode": "33",
+    "name": "Kecamatan Sedan",
+    "alias": "Sedan"
+  },
+  {
+    "code": "33.17.070",
+    "districtCode": "070",
+    "regencyCode": "33.17",
+    "provinceCode": "33",
+    "name": "Kecamatan Pamotan",
+    "alias": "Pamotan"
+  },
+  {
+    "code": "33.17.080",
+    "districtCode": "080",
+    "regencyCode": "33.17",
+    "provinceCode": "33",
+    "name": "Kecamatan Sulang",
+    "alias": "Sulang"
+  },
+  {
+    "code": "33.17.090",
+    "districtCode": "090",
+    "regencyCode": "33.17",
+    "provinceCode": "33",
+    "name": "Kecamatan Kaliori",
+    "alias": "Kaliori"
+  },
+  {
+    "code": "33.17.100",
+    "districtCode": "100",
+    "regencyCode": "33.17",
+    "provinceCode": "33",
+    "name": "Kecamatan Rembang",
+    "alias": "Rembang"
+  },
+  {
+    "code": "33.17.110",
+    "districtCode": "110",
+    "regencyCode": "33.17",
+    "provinceCode": "33",
+    "name": "Kecamatan Pancur",
+    "alias": "Pancur"
+  },
+  {
+    "code": "33.17.120",
+    "districtCode": "120",
+    "regencyCode": "33.17",
+    "provinceCode": "33",
+    "name": "Kecamatan Kragan",
+    "alias": "Kragan"
+  },
+  {
+    "code": "33.17.130",
+    "districtCode": "130",
+    "regencyCode": "33.17",
+    "provinceCode": "33",
+    "name": "Kecamatan Sluke",
+    "alias": "Sluke"
+  },
+  {
+    "code": "33.17.140",
+    "districtCode": "140",
+    "regencyCode": "33.17",
+    "provinceCode": "33",
+    "name": "Kecamatan Lasem",
+    "alias": "Lasem"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "code": "64.04.052.001",
+    "villageCode": "001",
+    "districtCode": "64.04.052",
+    "name": "Susuk Luar",
+    "alias": "Susuk Luar"
+  },
+  {
+    "code": "64.04.052.002",
+    "villageCode": "002",
+    "districtCode": "64.04.052",
+    "name": "Susuk Dalam",
+    "alias": "Susuk Dalam"
+  },
+  {
+    "code": "64.04.052.003",
+    "villageCode": "003",
+    "districtCode": "64.04.052",
+    "name": "Marukangan",
+    "alias": "Marukangan"
+  },
+  {
+    "code": "64.04.052.004",
+    "villageCode": "004",
+    "districtCode": "64.04.052",
+    "name": "Manubar",
+    "alias": "Manubar"
+  },
+  {
+    "code": "64.04.052.005",
+    "villageCode": "005",
+    "districtCode": "64.04.052",
+    "name": "Tadoan",
+    "alias": "Tadoan"
+  },
+  {
+    "code": "64.04.052.006",
+    "villageCode": "006",
+    "districtCode": "64.04.052",
+    "name": "Sandaran",
+    "alias": "Sandaran"
+  },
+  {
+    "code": "64.04.052.007",
+    "villageCode": "007",
+    "districtCode": "64.04.052",
+    "name": "Tanjung Mangkalihat",
+    "alias": "Tanjung Mangkalihat"
+  },
+  {
+    "code": "64.04.052.008",
+    "villageCode": "008",
+    "districtCode": "64.04.052",
+    "name": "Susuk Tengah",
+    "alias": "Susuk Tengah"
+  },
+  {
+    "code": "64.04.052.009",
+    "villageCode": "009",
+    "districtCode": "64.04.052",
+    "name": "Manubar Dalam",
+    "alias": "Manubar Dalam"
+  }
+]

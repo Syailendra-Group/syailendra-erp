@@ -1,0 +1,58 @@
+[
+  {
+    "code": "15.02.040.004",
+    "villageCode": "004",
+    "districtCode": "15.02.040",
+    "name": "Sungai Kapas",
+    "alias": "Sungai Kapas"
+  },
+  {
+    "code": "15.02.040.005",
+    "villageCode": "005",
+    "districtCode": "15.02.040",
+    "name": "Langling",
+    "alias": "Langling"
+  },
+  {
+    "code": "15.02.040.006",
+    "villageCode": "006",
+    "districtCode": "15.02.040",
+    "name": "Kungkai",
+    "alias": "Kungkai"
+  },
+  {
+    "code": "15.02.040.014",
+    "villageCode": "014",
+    "districtCode": "15.02.040",
+    "name": "Pasar Atas Bangko",
+    "alias": "Pasar Atas Bangko"
+  },
+  {
+    "code": "15.02.040.016",
+    "villageCode": "016",
+    "districtCode": "15.02.040",
+    "name": "Pasar Bangko",
+    "alias": "Pasar Bangko"
+  },
+  {
+    "code": "15.02.040.017",
+    "villageCode": "017",
+    "districtCode": "15.02.040",
+    "name": "Pematang Kandis",
+    "alias": "Pematang Kandis"
+  },
+  {
+    "code": "15.02.040.018",
+    "villageCode": "018",
+    "districtCode": "15.02.040",
+    "name": "Dusun Bangko",
+    "alias": "Dusun Bangko"
+  },
+  {
+    "code": "15.02.040.019",
+    "villageCode": "019",
+    "districtCode": "15.02.040",
+    "name": "Mudo",
+    "alias": "Mudo"
+  }
+]

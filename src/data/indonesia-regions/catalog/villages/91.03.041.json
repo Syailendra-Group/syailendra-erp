@@ -1,0 +1,51 @@
+[
+  {
+    "code": "91.03.041.001",
+    "villageCode": "001",
+    "districtCode": "91.03.041",
+    "name": "Menarbu",
+    "alias": "Menarbu"
+  },
+  {
+    "code": "91.03.041.002",
+    "villageCode": "002",
+    "districtCode": "91.03.041",
+    "name": "Sariay",
+    "alias": "Sariay"
+  },
+  {
+    "code": "91.03.041.003",
+    "villageCode": "003",
+    "districtCode": "91.03.041",
+    "name": "Niab",
+    "alias": "Niab"
+  },
+  {
+    "code": "91.03.041.004",
+    "villageCode": "004",
+    "districtCode": "91.03.041",
+    "name": "Inday",
+    "alias": "Inday"
+  },
+  {
+    "code": "91.03.041.005",
+    "villageCode": "005",
+    "districtCode": "91.03.041",
+    "name": "Syabes",
+    "alias": "Syabes"
+  },
+  {
+    "code": "91.03.041.006",
+    "villageCode": "006",
+    "districtCode": "91.03.041",
+    "name": "Mena",
+    "alias": "Mena"
+  },
+  {
+    "code": "91.03.041.007",
+    "villageCode": "007",
+    "districtCode": "91.03.041",
+    "name": "Yende",
+    "alias": "Yende"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "code": "97.07.270.001",
+    "villageCode": "001",
+    "districtCode": "97.07.270",
+    "name": "Tapla",
+    "alias": "Tapla"
+  },
+  {
+    "code": "97.07.270.002",
+    "villageCode": "002",
+    "districtCode": "97.07.270",
+    "name": "Nipsan",
+    "alias": "Nipsan"
+  },
+  {
+    "code": "97.07.270.003",
+    "villageCode": "003",
+    "districtCode": "97.07.270",
+    "name": "Walmak",
+    "alias": "Walmak"
+  },
+  {
+    "code": "97.07.270.004",
+    "villageCode": "004",
+    "districtCode": "97.07.270",
+    "name": "Serengon",
+    "alias": "Serengon"
+  },
+  {
+    "code": "97.07.270.005",
+    "villageCode": "005",
+    "districtCode": "97.07.270",
+    "name": "Biu",
+    "alias": "Biu"
+  },
+  {
+    "code": "97.07.270.006",
+    "villageCode": "006",
+    "districtCode": "97.07.270",
+    "name": "Ikmuk",
+    "alias": "Ikmuk"
+  },
+  {
+    "code": "97.07.270.007",
+    "villageCode": "007",
+    "districtCode": "97.07.270",
+    "name": "Ilukdamon",
+    "alias": "Ilukdamon"
+  },
+  {
+    "code": "97.07.270.008",
+    "villageCode": "008",
+    "districtCode": "97.07.270",
+    "name": "Yalmun",
+    "alias": "Yalmun"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "code": "35.78.150.006",
+    "villageCode": "006",
+    "districtCode": "35.78.150",
+    "name": "Karangpoh",
+    "alias": "Karangpoh"
+  },
+  {
+    "code": "35.78.150.007",
+    "villageCode": "007",
+    "districtCode": "35.78.150",
+    "name": "Balongsari",
+    "alias": "Balongsari"
+  },
+  {
+    "code": "35.78.150.009",
+    "villageCode": "009",
+    "districtCode": "35.78.150",
+    "name": "Manukan Wetan",
+    "alias": "Manukan Wetan"
+  },
+  {
+    "code": "35.78.150.010",
+    "villageCode": "010",
+    "districtCode": "35.78.150",
+    "name": "Manukan Kulon",
+    "alias": "Manukan Kulon"
+  },
+  {
+    "code": "35.78.150.011",
+    "villageCode": "011",
+    "districtCode": "35.78.150",
+    "name": "Banjar Sugihan",
+    "alias": "Banjar Sugihan"
+  },
+  {
+    "code": "35.78.150.013",
+    "villageCode": "013",
+    "districtCode": "35.78.150",
+    "name": "Tandes",
+    "alias": "Tandes"
+  }
+]

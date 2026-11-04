@@ -1,0 +1,44 @@
+[
+  {
+    "code": "71.74.030.001",
+    "villageCode": "001",
+    "districtCode": "71.74.030",
+    "name": "Mongkonai",
+    "alias": "Mongkonai"
+  },
+  {
+    "code": "71.74.030.002",
+    "villageCode": "002",
+    "districtCode": "71.74.030",
+    "name": "Molinow",
+    "alias": "Molinow"
+  },
+  {
+    "code": "71.74.030.003",
+    "villageCode": "003",
+    "districtCode": "71.74.030",
+    "name": "Mogolaing",
+    "alias": "Mogolaing"
+  },
+  {
+    "code": "71.74.030.004",
+    "villageCode": "004",
+    "districtCode": "71.74.030",
+    "name": "Gogagoman",
+    "alias": "Gogagoman"
+  },
+  {
+    "code": "71.74.030.005",
+    "villageCode": "005",
+    "districtCode": "71.74.030",
+    "name": "Kotamobagu",
+    "alias": "Kotamobagu"
+  },
+  {
+    "code": "71.74.030.006",
+    "villageCode": "006",
+    "districtCode": "71.74.030",
+    "name": "Mongkonai Barat",
+    "alias": "Mongkonai Barat"
+  }
+]

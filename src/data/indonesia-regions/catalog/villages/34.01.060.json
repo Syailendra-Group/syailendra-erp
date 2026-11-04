@@ -1,0 +1,58 @@
+[
+  {
+    "code": "34.01.060.001",
+    "villageCode": "001",
+    "districtCode": "34.01.060",
+    "name": "Demangrejo",
+    "alias": "Demangrejo"
+  },
+  {
+    "code": "34.01.060.002",
+    "villageCode": "002",
+    "districtCode": "34.01.060",
+    "name": "Srikayangan",
+    "alias": "Srikayangan"
+  },
+  {
+    "code": "34.01.060.003",
+    "villageCode": "003",
+    "districtCode": "34.01.060",
+    "name": "Tuksono",
+    "alias": "Tuksono"
+  },
+  {
+    "code": "34.01.060.004",
+    "villageCode": "004",
+    "districtCode": "34.01.060",
+    "name": "Salamrejo",
+    "alias": "Salamrejo"
+  },
+  {
+    "code": "34.01.060.005",
+    "villageCode": "005",
+    "districtCode": "34.01.060",
+    "name": "Sukoreno",
+    "alias": "Sukoreno"
+  },
+  {
+    "code": "34.01.060.006",
+    "villageCode": "006",
+    "districtCode": "34.01.060",
+    "name": "Kaliagung",
+    "alias": "Kaliagung"
+  },
+  {
+    "code": "34.01.060.007",
+    "villageCode": "007",
+    "districtCode": "34.01.060",
+    "name": "Sentolo",
+    "alias": "Sentolo"
+  },
+  {
+    "code": "34.01.060.008",
+    "villageCode": "008",
+    "districtCode": "34.01.060",
+    "name": "Banguncipto",
+    "alias": "Banguncipto"
+  }
+]

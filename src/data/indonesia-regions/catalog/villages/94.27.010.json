@@ -1,0 +1,51 @@
+[
+  {
+    "code": "94.27.010.007",
+    "villageCode": "007",
+    "districtCode": "94.27.010",
+    "name": "Didiabolo",
+    "alias": "Didiabolo"
+  },
+  {
+    "code": "94.27.010.008",
+    "villageCode": "008",
+    "districtCode": "94.27.010",
+    "name": "Odori",
+    "alias": "Odori"
+  },
+  {
+    "code": "94.27.010.009",
+    "villageCode": "009",
+    "districtCode": "94.27.010",
+    "name": "Fanindi",
+    "alias": "Fanindi"
+  },
+  {
+    "code": "94.27.010.010",
+    "villageCode": "010",
+    "districtCode": "94.27.010",
+    "name": "Biniki",
+    "alias": "Biniki"
+  },
+  {
+    "code": "94.27.010.018",
+    "villageCode": "018",
+    "districtCode": "94.27.010",
+    "name": "Awaki",
+    "alias": "Awaki"
+  },
+  {
+    "code": "94.27.010.019",
+    "villageCode": "019",
+    "districtCode": "94.27.010",
+    "name": "Warbefondi",
+    "alias": "Warbefondi"
+  },
+  {
+    "code": "94.27.010.020",
+    "villageCode": "020",
+    "districtCode": "94.27.010",
+    "name": "Maryaidori",
+    "alias": "Maryaidori"
+  }
+]

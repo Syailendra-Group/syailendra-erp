@@ -1,0 +1,44 @@
+[
+  {
+    "code": "35.09.280.001",
+    "villageCode": "001",
+    "districtCode": "35.09.280",
+    "name": "Panduman",
+    "alias": "Panduman"
+  },
+  {
+    "code": "35.09.280.002",
+    "villageCode": "002",
+    "districtCode": "35.09.280",
+    "name": "Jelbuk",
+    "alias": "Jelbuk"
+  },
+  {
+    "code": "35.09.280.003",
+    "villageCode": "003",
+    "districtCode": "35.09.280",
+    "name": "Sukowiryo",
+    "alias": "Sukowiryo"
+  },
+  {
+    "code": "35.09.280.004",
+    "villageCode": "004",
+    "districtCode": "35.09.280",
+    "name": "Suger Kidul",
+    "alias": "Suger Kidul"
+  },
+  {
+    "code": "35.09.280.005",
+    "villageCode": "005",
+    "districtCode": "35.09.280",
+    "name": "Suko Jember",
+    "alias": "Suko Jember"
+  },
+  {
+    "code": "35.09.280.006",
+    "villageCode": "006",
+    "districtCode": "35.09.280",
+    "name": "Suco Pangepok",
+    "alias": "Suco Pangepok"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "code": "35.10.020.001",
+    "villageCode": "001",
+    "districtCode": "35.10.020",
+    "name": "Sukorejo",
+    "alias": "Sukorejo"
+  },
+  {
+    "code": "35.10.020.002",
+    "villageCode": "002",
+    "districtCode": "35.10.020",
+    "name": "Ringintelu",
+    "alias": "Ringintelu"
+  },
+  {
+    "code": "35.10.020.003",
+    "villageCode": "003",
+    "districtCode": "35.10.020",
+    "name": "Sambirejo",
+    "alias": "Sambirejo"
+  },
+  {
+    "code": "35.10.020.004",
+    "villageCode": "004",
+    "districtCode": "35.10.020",
+    "name": "Sambimulyo",
+    "alias": "Sambimulyo"
+  },
+  {
+    "code": "35.10.020.006",
+    "villageCode": "006",
+    "districtCode": "35.10.020",
+    "name": "Temurejo",
+    "alias": "Temurejo"
+  },
+  {
+    "code": "35.10.020.007",
+    "villageCode": "007",
+    "districtCode": "35.10.020",
+    "name": "Bangorejo",
+    "alias": "Bangorejo"
+  },
+  {
+    "code": "35.10.020.008",
+    "villageCode": "008",
+    "districtCode": "35.10.020",
+    "name": "Kebondalem",
+    "alias": "Kebondalem"
+  }
+]

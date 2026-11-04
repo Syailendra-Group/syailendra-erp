@@ -1,0 +1,191 @@
+[
+  {
+    "code": "12.21.080.074",
+    "villageCode": "074",
+    "districtCode": "12.21.080",
+    "name": "Ganal",
+    "alias": "Ganal"
+  },
+  {
+    "code": "12.21.080.076",
+    "villageCode": "076",
+    "districtCode": "12.21.080",
+    "name": "Gunung Matinggi",
+    "alias": "Gunung Matinggi"
+  },
+  {
+    "code": "12.21.080.077",
+    "villageCode": "077",
+    "districtCode": "12.21.080",
+    "name": "Gunung Manaon",
+    "alias": "Gunung Manaon"
+  },
+  {
+    "code": "12.21.080.078",
+    "villageCode": "078",
+    "districtCode": "12.21.080",
+    "name": "Paya Bujing",
+    "alias": "Paya Bujing"
+  },
+  {
+    "code": "12.21.080.079",
+    "villageCode": "079",
+    "districtCode": "12.21.080",
+    "name": "Bulu Cina",
+    "alias": "Bulu Cina"
+  },
+  {
+    "code": "12.21.080.080",
+    "villageCode": "080",
+    "districtCode": "12.21.080",
+    "name": "Gonting Julu",
+    "alias": "Gonting Julu"
+  },
+  {
+    "code": "12.21.080.084",
+    "villageCode": "084",
+    "districtCode": "12.21.080",
+    "name": "Gonting Jae",
+    "alias": "Gonting Jae"
+  },
+  {
+    "code": "12.21.080.085",
+    "villageCode": "085",
+    "districtCode": "12.21.080",
+    "name": "Binanga Tolu",
+    "alias": "Binanga Tolu"
+  },
+  {
+    "code": "12.21.080.086",
+    "villageCode": "086",
+    "districtCode": "12.21.080",
+    "name": "Pasir Lancat Lama",
+    "alias": "Pasir Lancat Lama"
+  },
+  {
+    "code": "12.21.080.087",
+    "villageCode": "087",
+    "districtCode": "12.21.080",
+    "name": "Pasir Lancat Baru",
+    "alias": "Pasir Lancat Baru"
+  },
+  {
+    "code": "12.21.080.088",
+    "villageCode": "088",
+    "districtCode": "12.21.080",
+    "name": "Ramba",
+    "alias": "Ramba"
+  },
+  {
+    "code": "12.21.080.089",
+    "villageCode": "089",
+    "districtCode": "12.21.080",
+    "name": "Tar Sihoda Hoda",
+    "alias": "Tar Sihoda Hoda"
+  },
+  {
+    "code": "12.21.080.090",
+    "villageCode": "090",
+    "districtCode": "12.21.080",
+    "name": "Pasir Pinang",
+    "alias": "Pasir Pinang"
+  },
+  {
+    "code": "12.21.080.091",
+    "villageCode": "091",
+    "districtCode": "12.21.080",
+    "name": "Pulo Bariang",
+    "alias": "Pulo Bariang"
+  },
+  {
+    "code": "12.21.080.092",
+    "villageCode": "092",
+    "districtCode": "12.21.080",
+    "name": "Pasar Huristak",
+    "alias": "Pasar Huristak"
+  },
+  {
+    "code": "12.21.080.093",
+    "villageCode": "093",
+    "districtCode": "12.21.080",
+    "name": "Huristak",
+    "alias": "Huristak"
+  },
+  {
+    "code": "12.21.080.094",
+    "villageCode": "094",
+    "districtCode": "12.21.080",
+    "name": "Sipirok Baru",
+    "alias": "Sipirok Baru"
+  },
+  {
+    "code": "12.21.080.095",
+    "villageCode": "095",
+    "districtCode": "12.21.080",
+    "name": "Paran Tonga",
+    "alias": "Paran Tonga"
+  },
+  {
+    "code": "12.21.080.096",
+    "villageCode": "096",
+    "districtCode": "12.21.080",
+    "name": "Tobing Tinggi",
+    "alias": "Tobing Tinggi"
+  },
+  {
+    "code": "12.21.080.097",
+    "villageCode": "097",
+    "districtCode": "12.21.080",
+    "name": "Tobing Julu",
+    "alias": "Tobing Julu"
+  },
+  {
+    "code": "12.21.080.098",
+    "villageCode": "098",
+    "districtCode": "12.21.080",
+    "name": "Huta Pasir Ulak Tano",
+    "alias": "Huta Pasir Ulak Tano"
+  },
+  {
+    "code": "12.21.080.099",
+    "villageCode": "099",
+    "districtCode": "12.21.080",
+    "name": "Gala Bonang",
+    "alias": "Gala Bonang"
+  },
+  {
+    "code": "12.21.080.100",
+    "villageCode": "100",
+    "districtCode": "12.21.080",
+    "name": "Tobing Jae",
+    "alias": "Tobing Jae"
+  },
+  {
+    "code": "12.21.080.101",
+    "villageCode": "101",
+    "districtCode": "12.21.080",
+    "name": "Siala Gundi",
+    "alias": "Siala Gundi"
+  },
+  {
+    "code": "12.21.080.102",
+    "villageCode": "102",
+    "districtCode": "12.21.080",
+    "name": "Tanjung Morang",
+    "alias": "Tanjung Morang"
+  },
+  {
+    "code": "12.21.080.103",
+    "villageCode": "103",
+    "districtCode": "12.21.080",
+    "name": "Tanjung Baringin",
+    "alias": "Tanjung Baringin"
+  },
+  {
+    "code": "12.21.080.106",
+    "villageCode": "106",
+    "districtCode": "12.21.080",
+    "name": "Sigading",
+    "alias": "Sigading"
+  }
+]

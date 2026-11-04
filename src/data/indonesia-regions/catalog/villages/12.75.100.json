@@ -1,0 +1,44 @@
+[
+  {
+    "code": "12.75.100.001",
+    "villageCode": "001",
+    "districtCode": "12.75.100",
+    "name": "Sempakata",
+    "alias": "Sempakata"
+  },
+  {
+    "code": "12.75.100.002",
+    "villageCode": "002",
+    "districtCode": "12.75.100",
+    "name": "Beringin",
+    "alias": "Beringin"
+  },
+  {
+    "code": "12.75.100.003",
+    "villageCode": "003",
+    "districtCode": "12.75.100",
+    "name": "Padang Bulan Selayang Ii",
+    "alias": "Padang Bulan Selayang Ii"
+  },
+  {
+    "code": "12.75.100.004",
+    "villageCode": "004",
+    "districtCode": "12.75.100",
+    "name": "Padang Bulan Selayang I",
+    "alias": "Padang Bulan Selayang I"
+  },
+  {
+    "code": "12.75.100.005",
+    "villageCode": "005",
+    "districtCode": "12.75.100",
+    "name": "Tanjung Sari",
+    "alias": "Tanjung Sari"
+  },
+  {
+    "code": "12.75.100.006",
+    "villageCode": "006",
+    "districtCode": "12.75.100",
+    "name": "Asam Kumbang",
+    "alias": "Asam Kumbang"
+  }
+]

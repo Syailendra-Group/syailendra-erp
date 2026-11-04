@@ -1,0 +1,37 @@
+[
+  {
+    "code": "31.75.010.001",
+    "villageCode": "001",
+    "districtCode": "31.75.010",
+    "name": "Kamal Muara",
+    "alias": "Kamal Muara"
+  },
+  {
+    "code": "31.75.010.002",
+    "villageCode": "002",
+    "districtCode": "31.75.010",
+    "name": "Kapuk Muara",
+    "alias": "Kapuk Muara"
+  },
+  {
+    "code": "31.75.010.003",
+    "villageCode": "003",
+    "districtCode": "31.75.010",
+    "name": "Pejagalan",
+    "alias": "Pejagalan"
+  },
+  {
+    "code": "31.75.010.004",
+    "villageCode": "004",
+    "districtCode": "31.75.010",
+    "name": "Penjaringan",
+    "alias": "Penjaringan"
+  },
+  {
+    "code": "31.75.010.005",
+    "villageCode": "005",
+    "districtCode": "31.75.010",
+    "name": "Pluit",
+    "alias": "Pluit"
+  }
+]

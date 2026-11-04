@@ -1,0 +1,44 @@
+[
+  {
+    "code": "94.20.010.001",
+    "villageCode": "001",
+    "districtCode": "94.20.010",
+    "name": "Embi",
+    "alias": "Embi"
+  },
+  {
+    "code": "94.20.010.002",
+    "villageCode": "002",
+    "districtCode": "94.20.010",
+    "name": "Semografi",
+    "alias": "Semografi"
+  },
+  {
+    "code": "94.20.010.004",
+    "villageCode": "004",
+    "districtCode": "94.20.010",
+    "name": "Umuaf",
+    "alias": "Umuaf"
+  },
+  {
+    "code": "94.20.010.005",
+    "villageCode": "005",
+    "districtCode": "94.20.010",
+    "name": "Dubu",
+    "alias": "Dubu"
+  },
+  {
+    "code": "94.20.010.007",
+    "villageCode": "007",
+    "districtCode": "94.20.010",
+    "name": "Yamraf Ii",
+    "alias": "Yamraf Ii"
+  },
+  {
+    "code": "94.20.010.008",
+    "villageCode": "008",
+    "districtCode": "94.20.010",
+    "name": "Tatakra",
+    "alias": "Tatakra"
+  }
+]

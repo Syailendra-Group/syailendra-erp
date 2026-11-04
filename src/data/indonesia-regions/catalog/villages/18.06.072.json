@@ -1,0 +1,79 @@
+[
+  {
+    "code": "18.06.072.001",
+    "villageCode": "001",
+    "districtCode": "18.06.072",
+    "name": "Kota Napal",
+    "alias": "Kota Napal"
+  },
+  {
+    "code": "18.06.072.002",
+    "villageCode": "002",
+    "districtCode": "18.06.072",
+    "name": "Tanah Abang",
+    "alias": "Tanah Abang"
+  },
+  {
+    "code": "18.06.072.003",
+    "villageCode": "003",
+    "districtCode": "18.06.072",
+    "name": "Negara Tulang Bawang",
+    "alias": "Negara Tulang Bawang"
+  },
+  {
+    "code": "18.06.072.004",
+    "villageCode": "004",
+    "districtCode": "18.06.072",
+    "name": "Tulang Bawang Baru",
+    "alias": "Tulang Bawang Baru"
+  },
+  {
+    "code": "18.06.072.005",
+    "villageCode": "005",
+    "districtCode": "18.06.072",
+    "name": "Sukadana Ilir",
+    "alias": "Sukadana Ilir"
+  },
+  {
+    "code": "18.06.072.006",
+    "villageCode": "006",
+    "districtCode": "18.06.072",
+    "name": "Sukadana Udik",
+    "alias": "Sukadana Udik"
+  },
+  {
+    "code": "18.06.072.007",
+    "villageCode": "007",
+    "districtCode": "18.06.072",
+    "name": "Haduyang Ratu",
+    "alias": "Haduyang Ratu"
+  },
+  {
+    "code": "18.06.072.008",
+    "villageCode": "008",
+    "districtCode": "18.06.072",
+    "name": "Isorejo",
+    "alias": "Isorejo"
+  },
+  {
+    "code": "18.06.072.009",
+    "villageCode": "009",
+    "districtCode": "18.06.072",
+    "name": "Mulyo Rejo Ii",
+    "alias": "Mulyo Rejo Ii"
+  },
+  {
+    "code": "18.06.072.010",
+    "villageCode": "010",
+    "districtCode": "18.06.072",
+    "name": "Mulyo Rejo I",
+    "alias": "Mulyo Rejo I"
+  },
+  {
+    "code": "18.06.072.011",
+    "villageCode": "011",
+    "districtCode": "18.06.072",
+    "name": "Sukamaju",
+    "alias": "Sukamaju"
+  }
+]

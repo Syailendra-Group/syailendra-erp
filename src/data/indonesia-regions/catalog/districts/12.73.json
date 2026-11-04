@@ -1,0 +1,66 @@
+[
+  {
+    "code": "12.73.010",
+    "districtCode": "010",
+    "regencyCode": "12.73",
+    "provinceCode": "12",
+    "name": "Kecamatan Siantar Marihat",
+    "alias": "Siantar Marihat"
+  },
+  {
+    "code": "12.73.011",
+    "districtCode": "011",
+    "regencyCode": "12.73",
+    "provinceCode": "12",
+    "name": "Kecamatan Siantar Marimbun",
+    "alias": "Siantar Marimbun"
+  },
+  {
+    "code": "12.73.020",
+    "districtCode": "020",
+    "regencyCode": "12.73",
+    "provinceCode": "12",
+    "name": "Kecamatan Siantar Selatan",
+    "alias": "Siantar Selatan"
+  },
+  {
+    "code": "12.73.030",
+    "districtCode": "030",
+    "regencyCode": "12.73",
+    "provinceCode": "12",
+    "name": "Kecamatan Siantar Barat",
+    "alias": "Siantar Barat"
+  },
+  {
+    "code": "12.73.040",
+    "districtCode": "040",
+    "regencyCode": "12.73",
+    "provinceCode": "12",
+    "name": "Kecamatan Siantar Utara",
+    "alias": "Siantar Utara"
+  },
+  {
+    "code": "12.73.050",
+    "districtCode": "050",
+    "regencyCode": "12.73",
+    "provinceCode": "12",
+    "name": "Kecamatan Siantar Timur",
+    "alias": "Siantar Timur"
+  },
+  {
+    "code": "12.73.060",
+    "districtCode": "060",
+    "regencyCode": "12.73",
+    "provinceCode": "12",
+    "name": "Kecamatan Siantar Martoba",
+    "alias": "Siantar Martoba"
+  },
+  {
+    "code": "12.73.061",
+    "districtCode": "061",
+    "regencyCode": "12.73",
+    "provinceCode": "12",
+    "name": "Kecamatan Siantar Sitalasari",
+    "alias": "Siantar Sitalasari"
+  }
+]

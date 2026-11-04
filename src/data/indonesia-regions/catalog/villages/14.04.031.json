@@ -1,0 +1,65 @@
+[
+  {
+    "code": "14.04.031.001",
+    "villageCode": "001",
+    "districtCode": "14.04.031",
+    "name": "Sungai Ara",
+    "alias": "Sungai Ara"
+  },
+  {
+    "code": "14.04.031.002",
+    "villageCode": "002",
+    "districtCode": "14.04.031",
+    "name": "Ransang",
+    "alias": "Ransang"
+  },
+  {
+    "code": "14.04.031.003",
+    "villageCode": "003",
+    "districtCode": "14.04.031",
+    "name": "Kuala Tolam",
+    "alias": "Kuala Tolam"
+  },
+  {
+    "code": "14.04.031.004",
+    "villageCode": "004",
+    "districtCode": "14.04.031",
+    "name": "Pelalawan",
+    "alias": "Pelalawan"
+  },
+  {
+    "code": "14.04.031.005",
+    "villageCode": "005",
+    "districtCode": "14.04.031",
+    "name": "Telayap",
+    "alias": "Telayap"
+  },
+  {
+    "code": "14.04.031.006",
+    "villageCode": "006",
+    "districtCode": "14.04.031",
+    "name": "Batang Nilo Kecil",
+    "alias": "Batang Nilo Kecil"
+  },
+  {
+    "code": "14.04.031.007",
+    "villageCode": "007",
+    "districtCode": "14.04.031",
+    "name": "Sering",
+    "alias": "Sering"
+  },
+  {
+    "code": "14.04.031.008",
+    "villageCode": "008",
+    "districtCode": "14.04.031",
+    "name": "Delik",
+    "alias": "Delik"
+  },
+  {
+    "code": "14.04.031.010",
+    "villageCode": "010",
+    "districtCode": "14.04.031",
+    "name": "Lalang Kabung",
+    "alias": "Lalang Kabung"
+  }
+]

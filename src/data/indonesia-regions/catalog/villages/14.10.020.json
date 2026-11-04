@@ -1,0 +1,65 @@
+[
+  {
+    "code": "14.10.020.008",
+    "villageCode": "008",
+    "districtCode": "14.10.020",
+    "name": "Sesap",
+    "alias": "Sesap"
+  },
+  {
+    "code": "14.10.020.009",
+    "villageCode": "009",
+    "districtCode": "14.10.020",
+    "name": "Banglas Barat",
+    "alias": "Banglas Barat"
+  },
+  {
+    "code": "14.10.020.010",
+    "villageCode": "010",
+    "districtCode": "14.10.020",
+    "name": "Banglas",
+    "alias": "Banglas"
+  },
+  {
+    "code": "14.10.020.011",
+    "villageCode": "011",
+    "districtCode": "14.10.020",
+    "name": "Selat Panjang Timur",
+    "alias": "Selat Panjang Timur"
+  },
+  {
+    "code": "14.10.020.012",
+    "villageCode": "012",
+    "districtCode": "14.10.020",
+    "name": "Selat Panjang Selatan",
+    "alias": "Selat Panjang Selatan"
+  },
+  {
+    "code": "14.10.020.013",
+    "villageCode": "013",
+    "districtCode": "14.10.020",
+    "name": "Alah Air",
+    "alias": "Alah Air"
+  },
+  {
+    "code": "14.10.020.014",
+    "villageCode": "014",
+    "districtCode": "14.10.020",
+    "name": "Alah Air Timur",
+    "alias": "Alah Air Timur"
+  },
+  {
+    "code": "14.10.020.015",
+    "villageCode": "015",
+    "districtCode": "14.10.020",
+    "name": "Selat Panjang Barat",
+    "alias": "Selat Panjang Barat"
+  },
+  {
+    "code": "14.10.020.016",
+    "villageCode": "016",
+    "districtCode": "14.10.020",
+    "name": "Selat Panjang Kota",
+    "alias": "Selat Panjang Kota"
+  }
+]

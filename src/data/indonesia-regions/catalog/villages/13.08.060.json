@@ -1,0 +1,23 @@
+[
+  {
+    "code": "13.08.060.001",
+    "villageCode": "001",
+    "districtCode": "13.08.060",
+    "name": "Pandam Gadang",
+    "alias": "Pandam Gadang"
+  },
+  {
+    "code": "13.08.060.002",
+    "villageCode": "002",
+    "districtCode": "13.08.060",
+    "name": "Talang Anau",
+    "alias": "Talang Anau"
+  },
+  {
+    "code": "13.08.060.003",
+    "villageCode": "003",
+    "districtCode": "13.08.060",
+    "name": "Koto Tinggi",
+    "alias": "Koto Tinggi"
+  }
+]

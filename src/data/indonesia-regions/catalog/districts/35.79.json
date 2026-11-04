@@ -1,0 +1,26 @@
+[
+  {
+    "code": "35.79.010",
+    "districtCode": "010",
+    "regencyCode": "35.79",
+    "provinceCode": "35",
+    "name": "Kecamatan Batu",
+    "alias": "Batu"
+  },
+  {
+    "code": "35.79.020",
+    "districtCode": "020",
+    "regencyCode": "35.79",
+    "provinceCode": "35",
+    "name": "Kecamatan Junrejo",
+    "alias": "Junrejo"
+  },
+  {
+    "code": "35.79.030",
+    "districtCode": "030",
+    "regencyCode": "35.79",
+    "provinceCode": "35",
+    "name": "Kecamatan Bumiaji",
+    "alias": "Bumiaji"
+  }
+]

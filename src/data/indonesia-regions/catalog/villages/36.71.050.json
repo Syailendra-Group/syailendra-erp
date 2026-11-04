@@ -1,0 +1,51 @@
+[
+  {
+    "code": "36.71.050.001",
+    "villageCode": "001",
+    "districtCode": "36.71.050",
+    "name": "Porisgaga Baru",
+    "alias": "Porisgaga Baru"
+  },
+  {
+    "code": "36.71.050.002",
+    "villageCode": "002",
+    "districtCode": "36.71.050",
+    "name": "Poris Jaya",
+    "alias": "Poris Jaya"
+  },
+  {
+    "code": "36.71.050.003",
+    "villageCode": "003",
+    "districtCode": "36.71.050",
+    "name": "Porisgaga",
+    "alias": "Porisgaga"
+  },
+  {
+    "code": "36.71.050.004",
+    "villageCode": "004",
+    "districtCode": "36.71.050",
+    "name": "Kebon Besar",
+    "alias": "Kebon Besar"
+  },
+  {
+    "code": "36.71.050.005",
+    "villageCode": "005",
+    "districtCode": "36.71.050",
+    "name": "Batuceper",
+    "alias": "Batuceper"
+  },
+  {
+    "code": "36.71.050.006",
+    "villageCode": "006",
+    "districtCode": "36.71.050",
+    "name": "Batujaya",
+    "alias": "Batujaya"
+  },
+  {
+    "code": "36.71.050.007",
+    "villageCode": "007",
+    "districtCode": "36.71.050",
+    "name": "Batusari",
+    "alias": "Batusari"
+  }
+]

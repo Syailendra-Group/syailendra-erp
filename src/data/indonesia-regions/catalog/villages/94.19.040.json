@@ -1,0 +1,30 @@
+[
+  {
+    "code": "94.19.040.003",
+    "villageCode": "003",
+    "districtCode": "94.19.040",
+    "name": "Samanente",
+    "alias": "Samanente"
+  },
+  {
+    "code": "94.19.040.004",
+    "villageCode": "004",
+    "districtCode": "94.19.040",
+    "name": "Konderjan",
+    "alias": "Konderjan"
+  },
+  {
+    "code": "94.19.040.006",
+    "villageCode": "006",
+    "districtCode": "94.19.040",
+    "name": "Denander",
+    "alias": "Denander"
+  },
+  {
+    "code": "94.19.040.008",
+    "villageCode": "008",
+    "districtCode": "94.19.040",
+    "name": "Sakron Tane",
+    "alias": "Sakron Tane"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "code": "65.01",
+    "regencyCode": "01",
+    "provinceCode": "65",
+    "provinceName": "Kalimantan Utara",
+    "name": "Kabupaten Malinau",
+    "alias": "Malinau"
+  },
+  {
+    "code": "65.02",
+    "regencyCode": "02",
+    "provinceCode": "65",
+    "provinceName": "Kalimantan Utara",
+    "name": "Kabupaten Bulungan",
+    "alias": "Bulungan"
+  },
+  {
+    "code": "65.03",
+    "regencyCode": "03",
+    "provinceCode": "65",
+    "provinceName": "Kalimantan Utara",
+    "name": "Kabupaten Tana Tidung",
+    "alias": "Tana Tidung"
+  },
+  {
+    "code": "65.04",
+    "regencyCode": "04",
+    "provinceCode": "65",
+    "provinceName": "Kalimantan Utara",
+    "name": "Kabupaten Nunukan",
+    "alias": "Nunukan"
+  },
+  {
+    "code": "65.71",
+    "regencyCode": "71",
+    "provinceCode": "65",
+    "provinceName": "Kalimantan Utara",
+    "name": "Kota Tarakan",
+    "alias": "Tarakan"
+  }
+]

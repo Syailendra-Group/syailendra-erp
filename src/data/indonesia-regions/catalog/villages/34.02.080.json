@@ -1,0 +1,30 @@
+[
+  {
+    "code": "34.02.080.001",
+    "villageCode": "001",
+    "districtCode": "34.02.080",
+    "name": "Patalan",
+    "alias": "Patalan"
+  },
+  {
+    "code": "34.02.080.002",
+    "villageCode": "002",
+    "districtCode": "34.02.080",
+    "name": "Canden",
+    "alias": "Canden"
+  },
+  {
+    "code": "34.02.080.003",
+    "villageCode": "003",
+    "districtCode": "34.02.080",
+    "name": "Sumber Agung",
+    "alias": "Sumber Agung"
+  },
+  {
+    "code": "34.02.080.004",
+    "villageCode": "004",
+    "districtCode": "34.02.080",
+    "name": "Trimulyo",
+    "alias": "Trimulyo"
+  }
+]

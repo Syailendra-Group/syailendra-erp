@@ -1,0 +1,72 @@
+[
+  {
+    "code": "12.11.100.001",
+    "villageCode": "001",
+    "districtCode": "12.11.100",
+    "name": "Gurusinga",
+    "alias": "Gurusinga"
+  },
+  {
+    "code": "12.11.100.002",
+    "villageCode": "002",
+    "districtCode": "12.11.100",
+    "name": "R A Y A",
+    "alias": "R A Y A"
+  },
+  {
+    "code": "12.11.100.003",
+    "villageCode": "003",
+    "districtCode": "12.11.100",
+    "name": "Rumah Berastagi",
+    "alias": "Rumah Berastagi"
+  },
+  {
+    "code": "12.11.100.004",
+    "villageCode": "004",
+    "districtCode": "12.11.100",
+    "name": "Tambak Lau Mulgap Ii",
+    "alias": "Tambak Lau Mulgap Ii"
+  },
+  {
+    "code": "12.11.100.005",
+    "villageCode": "005",
+    "districtCode": "12.11.100",
+    "name": "Gundaling Ii",
+    "alias": "Gundaling Ii"
+  },
+  {
+    "code": "12.11.100.006",
+    "villageCode": "006",
+    "districtCode": "12.11.100",
+    "name": "Gundaling I",
+    "alias": "Gundaling I"
+  },
+  {
+    "code": "12.11.100.007",
+    "villageCode": "007",
+    "districtCode": "12.11.100",
+    "name": "Tambak Lau Mulgap I",
+    "alias": "Tambak Lau Mulgap I"
+  },
+  {
+    "code": "12.11.100.008",
+    "villageCode": "008",
+    "districtCode": "12.11.100",
+    "name": "Sempajaya",
+    "alias": "Sempajaya"
+  },
+  {
+    "code": "12.11.100.009",
+    "villageCode": "009",
+    "districtCode": "12.11.100",
+    "name": "D A U L U",
+    "alias": "D A U L U"
+  },
+  {
+    "code": "12.11.100.010",
+    "villageCode": "010",
+    "districtCode": "12.11.100",
+    "name": "Lau Gumba",
+    "alias": "Lau Gumba"
+  }
+]

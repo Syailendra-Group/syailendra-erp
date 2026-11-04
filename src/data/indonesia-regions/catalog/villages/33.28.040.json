@@ -1,0 +1,142 @@
+[
+  {
+    "code": "33.28.040.001",
+    "villageCode": "001",
+    "districtCode": "33.28.040",
+    "name": "Cenggini",
+    "alias": "Cenggini"
+  },
+  {
+    "code": "33.28.040.002",
+    "villageCode": "002",
+    "districtCode": "33.28.040",
+    "name": "Bukateja",
+    "alias": "Bukateja"
+  },
+  {
+    "code": "33.28.040.003",
+    "villageCode": "003",
+    "districtCode": "33.28.040",
+    "name": "Kalibakung",
+    "alias": "Kalibakung"
+  },
+  {
+    "code": "33.28.040.004",
+    "villageCode": "004",
+    "districtCode": "33.28.040",
+    "name": "Karangjambu",
+    "alias": "Karangjambu"
+  },
+  {
+    "code": "33.28.040.005",
+    "villageCode": "005",
+    "districtCode": "33.28.040",
+    "name": "Cilongok",
+    "alias": "Cilongok"
+  },
+  {
+    "code": "33.28.040.006",
+    "villageCode": "006",
+    "districtCode": "33.28.040",
+    "name": "Tembongwah",
+    "alias": "Tembongwah"
+  },
+  {
+    "code": "33.28.040.007",
+    "villageCode": "007",
+    "districtCode": "33.28.040",
+    "name": "Danareja",
+    "alias": "Danareja"
+  },
+  {
+    "code": "33.28.040.008",
+    "villageCode": "008",
+    "districtCode": "33.28.040",
+    "name": "Sangkanjaya",
+    "alias": "Sangkanjaya"
+  },
+  {
+    "code": "33.28.040.009",
+    "villageCode": "009",
+    "districtCode": "33.28.040",
+    "name": "Danawarih",
+    "alias": "Danawarih"
+  },
+  {
+    "code": "33.28.040.010",
+    "villageCode": "010",
+    "districtCode": "33.28.040",
+    "name": "Pagerwangi",
+    "alias": "Pagerwangi"
+  },
+  {
+    "code": "33.28.040.011",
+    "villageCode": "011",
+    "districtCode": "33.28.040",
+    "name": "Harjowinangun",
+    "alias": "Harjowinangun"
+  },
+  {
+    "code": "33.28.040.012",
+    "villageCode": "012",
+    "districtCode": "33.28.040",
+    "name": "Batuagung",
+    "alias": "Batuagung"
+  },
+  {
+    "code": "33.28.040.013",
+    "villageCode": "013",
+    "districtCode": "33.28.040",
+    "name": "Kaliwungu",
+    "alias": "Kaliwungu"
+  },
+  {
+    "code": "33.28.040.014",
+    "villageCode": "014",
+    "districtCode": "33.28.040",
+    "name": "Banjaranyar",
+    "alias": "Banjaranyar"
+  },
+  {
+    "code": "33.28.040.015",
+    "villageCode": "015",
+    "districtCode": "33.28.040",
+    "name": "Sesepan",
+    "alias": "Sesepan"
+  },
+  {
+    "code": "33.28.040.016",
+    "villageCode": "016",
+    "districtCode": "33.28.040",
+    "name": "Wringinjenggot",
+    "alias": "Wringinjenggot"
+  },
+  {
+    "code": "33.28.040.017",
+    "villageCode": "017",
+    "districtCode": "33.28.040",
+    "name": "Pamiritan",
+    "alias": "Pamiritan"
+  },
+  {
+    "code": "33.28.040.018",
+    "villageCode": "018",
+    "districtCode": "33.28.040",
+    "name": "Balapulang Wetan",
+    "alias": "Balapulang Wetan"
+  },
+  {
+    "code": "33.28.040.019",
+    "villageCode": "019",
+    "districtCode": "33.28.040",
+    "name": "Balapulang Kulon",
+    "alias": "Balapulang Kulon"
+  },
+  {
+    "code": "33.28.040.020",
+    "villageCode": "020",
+    "districtCode": "33.28.040",
+    "name": "Cibunar",
+    "alias": "Cibunar"
+  }
+]

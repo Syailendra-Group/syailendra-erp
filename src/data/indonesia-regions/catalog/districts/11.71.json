@@ -1,0 +1,74 @@
+[
+  {
+    "code": "11.71.010",
+    "districtCode": "010",
+    "regencyCode": "11.71",
+    "provinceCode": "11",
+    "name": "Kecamatan Meuraxa",
+    "alias": "Meuraxa"
+  },
+  {
+    "code": "11.71.011",
+    "districtCode": "011",
+    "regencyCode": "11.71",
+    "provinceCode": "11",
+    "name": "Kecamatan Jaya Baru",
+    "alias": "Jaya Baru"
+  },
+  {
+    "code": "11.71.012",
+    "districtCode": "012",
+    "regencyCode": "11.71",
+    "provinceCode": "11",
+    "name": "Kecamatan Banda Raya",
+    "alias": "Banda Raya"
+  },
+  {
+    "code": "11.71.020",
+    "districtCode": "020",
+    "regencyCode": "11.71",
+    "provinceCode": "11",
+    "name": "Kecamatan Baiturrahman",
+    "alias": "Baiturrahman"
+  },
+  {
+    "code": "11.71.021",
+    "districtCode": "021",
+    "regencyCode": "11.71",
+    "provinceCode": "11",
+    "name": "Kecamatan Lueng Bata",
+    "alias": "Lueng Bata"
+  },
+  {
+    "code": "11.71.030",
+    "districtCode": "030",
+    "regencyCode": "11.71",
+    "provinceCode": "11",
+    "name": "Kecamatan Kuta Alam",
+    "alias": "Kuta Alam"
+  },
+  {
+    "code": "11.71.031",
+    "districtCode": "031",
+    "regencyCode": "11.71",
+    "provinceCode": "11",
+    "name": "Kecamatan Kuta Raja",
+    "alias": "Kuta Raja"
+  },
+  {
+    "code": "11.71.040",
+    "districtCode": "040",
+    "regencyCode": "11.71",
+    "provinceCode": "11",
+    "name": "Kecamatan Syiah Kuala",
+    "alias": "Syiah Kuala"
+  },
+  {
+    "code": "11.71.041",
+    "districtCode": "041",
+    "regencyCode": "11.71",
+    "provinceCode": "11",
+    "name": "Kecamatan Ulee Kareng",
+    "alias": "Ulee Kareng"
+  }
+]

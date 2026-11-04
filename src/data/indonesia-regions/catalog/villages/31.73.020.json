@@ -1,0 +1,37 @@
+[
+  {
+    "code": "31.73.020.001",
+    "villageCode": "001",
+    "districtCode": "31.73.020",
+    "name": "Menteng",
+    "alias": "Menteng"
+  },
+  {
+    "code": "31.73.020.002",
+    "villageCode": "002",
+    "districtCode": "31.73.020",
+    "name": "Pegangsaan",
+    "alias": "Pegangsaan"
+  },
+  {
+    "code": "31.73.020.003",
+    "villageCode": "003",
+    "districtCode": "31.73.020",
+    "name": "Cikini",
+    "alias": "Cikini"
+  },
+  {
+    "code": "31.73.020.004",
+    "villageCode": "004",
+    "districtCode": "31.73.020",
+    "name": "Gondangdia",
+    "alias": "Gondangdia"
+  },
+  {
+    "code": "31.73.020.005",
+    "villageCode": "005",
+    "districtCode": "31.73.020",
+    "name": "Kebon Sirih",
+    "alias": "Kebon Sirih"
+  }
+]

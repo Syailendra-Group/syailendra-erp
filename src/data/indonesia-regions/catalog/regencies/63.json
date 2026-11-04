@@ -1,0 +1,106 @@
+[
+  {
+    "code": "63.01",
+    "regencyCode": "01",
+    "provinceCode": "63",
+    "provinceName": "Kalimantan Selatan",
+    "name": "Kabupaten Tanah Laut",
+    "alias": "Tanah Laut"
+  },
+  {
+    "code": "63.02",
+    "regencyCode": "02",
+    "provinceCode": "63",
+    "provinceName": "Kalimantan Selatan",
+    "name": "Kabupaten Kotabaru",
+    "alias": "Kotabaru"
+  },
+  {
+    "code": "63.03",
+    "regencyCode": "03",
+    "provinceCode": "63",
+    "provinceName": "Kalimantan Selatan",
+    "name": "Kabupaten Banjar",
+    "alias": "Banjar"
+  },
+  {
+    "code": "63.04",
+    "regencyCode": "04",
+    "provinceCode": "63",
+    "provinceName": "Kalimantan Selatan",
+    "name": "Kabupaten Barito Kuala",
+    "alias": "Barito Kuala"
+  },
+  {
+    "code": "63.05",
+    "regencyCode": "05",
+    "provinceCode": "63",
+    "provinceName": "Kalimantan Selatan",
+    "name": "Kabupaten Tapin",
+    "alias": "Tapin"
+  },
+  {
+    "code": "63.06",
+    "regencyCode": "06",
+    "provinceCode": "63",
+    "provinceName": "Kalimantan Selatan",
+    "name": "Kabupaten Hulu Sungai Selatan",
+    "alias": "Hulu Sungai Selatan"
+  },
+  {
+    "code": "63.07",
+    "regencyCode": "07",
+    "provinceCode": "63",
+    "provinceName": "Kalimantan Selatan",
+    "name": "Kabupaten Hulu Sungai Tengah",
+    "alias": "Hulu Sungai Tengah"
+  },
+  {
+    "code": "63.08",
+    "regencyCode": "08",
+    "provinceCode": "63",
+    "provinceName": "Kalimantan Selatan",
+    "name": "Kabupaten Hulu Sungai Utara",
+    "alias": "Hulu Sungai Utara"
+  },
+  {
+    "code": "63.09",
+    "regencyCode": "09",
+    "provinceCode": "63",
+    "provinceName": "Kalimantan Selatan",
+    "name": "Kabupaten Tabalong",
+    "alias": "Tabalong"
+  },
+  {
+    "code": "63.10",
+    "regencyCode": "10",
+    "provinceCode": "63",
+    "provinceName": "Kalimantan Selatan",
+    "name": "Kabupaten Tanah Bumbu",
+    "alias": "Tanah Bumbu"
+  },
+  {
+    "code": "63.11",
+    "regencyCode": "11",
+    "provinceCode": "63",
+    "provinceName": "Kalimantan Selatan",
+    "name": "Kabupaten Balangan",
+    "alias": "Balangan"
+  },
+  {
+    "code": "63.71",
+    "regencyCode": "71",
+    "provinceCode": "63",
+    "provinceName": "Kalimantan Selatan",
+    "name": "Kota Banjarmasin",
+    "alias": "Banjarmasin"
+  },
+  {
+    "code": "63.72",
+    "regencyCode": "72",
+    "provinceCode": "63",
+    "provinceName": "Kalimantan Selatan",
+    "name": "Kota Banjarbaru",
+    "alias": "Banjarbaru"
+  }
+]

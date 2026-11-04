@@ -1,0 +1,44 @@
+[
+  {
+    "code": "19.71.031.001",
+    "villageCode": "001",
+    "districtCode": "19.71.031",
+    "name": "Air Salemba",
+    "alias": "Air Salemba"
+  },
+  {
+    "code": "19.71.031.002",
+    "villageCode": "002",
+    "districtCode": "19.71.031",
+    "name": "Gabek Satu",
+    "alias": "Gabek Satu"
+  },
+  {
+    "code": "19.71.031.003",
+    "villageCode": "003",
+    "districtCode": "19.71.031",
+    "name": "Gabek Dua",
+    "alias": "Gabek Dua"
+  },
+  {
+    "code": "19.71.031.004",
+    "villageCode": "004",
+    "districtCode": "19.71.031",
+    "name": "Selindung Baru",
+    "alias": "Selindung Baru"
+  },
+  {
+    "code": "19.71.031.005",
+    "villageCode": "005",
+    "districtCode": "19.71.031",
+    "name": "Selindung",
+    "alias": "Selindung"
+  },
+  {
+    "code": "19.71.031.006",
+    "villageCode": "006",
+    "districtCode": "19.71.031",
+    "name": "Jerambah Gantung",
+    "alias": "Jerambah Gantung"
+  }
+]

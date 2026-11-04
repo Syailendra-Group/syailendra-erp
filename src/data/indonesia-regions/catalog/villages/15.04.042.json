@@ -1,0 +1,58 @@
+[
+  {
+    "code": "15.04.042.001",
+    "villageCode": "001",
+    "districtCode": "15.04.042",
+    "name": "Terusan",
+    "alias": "Terusan"
+  },
+  {
+    "code": "15.04.042.002",
+    "villageCode": "002",
+    "districtCode": "15.04.042",
+    "name": "Danau Embat",
+    "alias": "Danau Embat"
+  },
+  {
+    "code": "15.04.042.003",
+    "villageCode": "003",
+    "districtCode": "15.04.042",
+    "name": "Bulian Jaya",
+    "alias": "Bulian Jaya"
+  },
+  {
+    "code": "15.04.042.004",
+    "villageCode": "004",
+    "districtCode": "15.04.042",
+    "name": "Tidar Kuranji",
+    "alias": "Tidar Kuranji"
+  },
+  {
+    "code": "15.04.042.005",
+    "villageCode": "005",
+    "districtCode": "15.04.042",
+    "name": "Kehidupan Baru",
+    "alias": "Kehidupan Baru"
+  },
+  {
+    "code": "15.04.042.006",
+    "villageCode": "006",
+    "districtCode": "15.04.042",
+    "name": "Karya Mukti",
+    "alias": "Karya Mukti"
+  },
+  {
+    "code": "15.04.042.007",
+    "villageCode": "007",
+    "districtCode": "15.04.042",
+    "name": "Bukit Sari",
+    "alias": "Bukit Sari"
+  },
+  {
+    "code": "15.04.042.008",
+    "villageCode": "008",
+    "districtCode": "15.04.042",
+    "name": "Terusan",
+    "alias": "Terusan"
+  }
+]

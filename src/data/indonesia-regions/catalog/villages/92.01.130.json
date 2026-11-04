@@ -1,0 +1,65 @@
+[
+  {
+    "code": "92.01.130.001",
+    "villageCode": "001",
+    "districtCode": "92.01.130",
+    "name": "Yenbekwan",
+    "alias": "Yenbekwan"
+  },
+  {
+    "code": "92.01.130.002",
+    "villageCode": "002",
+    "districtCode": "92.01.130",
+    "name": "Kapisawar",
+    "alias": "Kapisawar"
+  },
+  {
+    "code": "92.01.130.003",
+    "villageCode": "003",
+    "districtCode": "92.01.130",
+    "name": "Kabuy",
+    "alias": "Kabuy"
+  },
+  {
+    "code": "92.01.130.004",
+    "villageCode": "004",
+    "districtCode": "92.01.130",
+    "name": "Sawinggrai",
+    "alias": "Sawinggrai"
+  },
+  {
+    "code": "92.01.130.005",
+    "villageCode": "005",
+    "districtCode": "92.01.130",
+    "name": "Yenwaoupnor",
+    "alias": "Yenwaoupnor"
+  },
+  {
+    "code": "92.01.130.006",
+    "villageCode": "006",
+    "districtCode": "92.01.130",
+    "name": "Yenbuba",
+    "alias": "Yenbuba"
+  },
+  {
+    "code": "92.01.130.007",
+    "villageCode": "007",
+    "districtCode": "92.01.130",
+    "name": "Arborek",
+    "alias": "Arborek"
+  },
+  {
+    "code": "92.01.130.008",
+    "villageCode": "008",
+    "districtCode": "92.01.130",
+    "name": "Kurkapa",
+    "alias": "Kurkapa"
+  },
+  {
+    "code": "92.01.130.009",
+    "villageCode": "009",
+    "districtCode": "92.01.130",
+    "name": "Sauandarek",
+    "alias": "Sauandarek"
+  }
+]

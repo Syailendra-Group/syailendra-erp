@@ -1,0 +1,79 @@
+[
+  {
+    "code": "72.10.121.001",
+    "villageCode": "001",
+    "districtCode": "72.10.121",
+    "name": "Maranata",
+    "alias": "Maranata"
+  },
+  {
+    "code": "72.10.121.002",
+    "villageCode": "002",
+    "districtCode": "72.10.121",
+    "name": "Bora",
+    "alias": "Bora"
+  },
+  {
+    "code": "72.10.121.003",
+    "villageCode": "003",
+    "districtCode": "72.10.121",
+    "name": "Watunonju",
+    "alias": "Watunonju"
+  },
+  {
+    "code": "72.10.121.004",
+    "villageCode": "004",
+    "districtCode": "72.10.121",
+    "name": "Oloboju",
+    "alias": "Oloboju"
+  },
+  {
+    "code": "72.10.121.005",
+    "villageCode": "005",
+    "districtCode": "72.10.121",
+    "name": "Soulowe",
+    "alias": "Soulowe"
+  },
+  {
+    "code": "72.10.121.006",
+    "villageCode": "006",
+    "districtCode": "72.10.121",
+    "name": "Sidera",
+    "alias": "Sidera"
+  },
+  {
+    "code": "72.10.121.007",
+    "villageCode": "007",
+    "districtCode": "72.10.121",
+    "name": "Sidondo Iv",
+    "alias": "Sidondo Iv"
+  },
+  {
+    "code": "72.10.121.008",
+    "villageCode": "008",
+    "districtCode": "72.10.121",
+    "name": "Sigimpu",
+    "alias": "Sigimpu"
+  },
+  {
+    "code": "72.10.121.009",
+    "villageCode": "009",
+    "districtCode": "72.10.121",
+    "name": "Waturalele",
+    "alias": "Waturalele"
+  },
+  {
+    "code": "72.10.121.010",
+    "villageCode": "010",
+    "districtCode": "72.10.121",
+    "name": "Watubula",
+    "alias": "Watubula"
+  },
+  {
+    "code": "72.10.121.011",
+    "villageCode": "011",
+    "districtCode": "72.10.121",
+    "name": "Upt Lembah Palu",
+    "alias": "Upt Lembah Palu"
+  }
+]

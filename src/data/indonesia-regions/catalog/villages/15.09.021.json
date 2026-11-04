@@ -1,0 +1,44 @@
+[
+  {
+    "code": "15.09.021.001",
+    "villageCode": "001",
+    "districtCode": "15.09.021",
+    "name": "Sepunggur",
+    "alias": "Sepunggur"
+  },
+  {
+    "code": "15.09.021.002",
+    "villageCode": "002",
+    "districtCode": "15.09.021",
+    "name": "Babeko",
+    "alias": "Babeko"
+  },
+  {
+    "code": "15.09.021.003",
+    "villageCode": "003",
+    "districtCode": "15.09.021",
+    "name": "Simpang Babeko",
+    "alias": "Simpang Babeko"
+  },
+  {
+    "code": "15.09.021.004",
+    "villageCode": "004",
+    "districtCode": "15.09.021",
+    "name": "Tanjung Menanti",
+    "alias": "Tanjung Menanti"
+  },
+  {
+    "code": "15.09.021.005",
+    "villageCode": "005",
+    "districtCode": "15.09.021",
+    "name": "Suka Makmur",
+    "alias": "Suka Makmur"
+  },
+  {
+    "code": "15.09.021.006",
+    "villageCode": "006",
+    "districtCode": "15.09.021",
+    "name": "Tuo Sepunggur",
+    "alias": "Tuo Sepunggur"
+  }
+]

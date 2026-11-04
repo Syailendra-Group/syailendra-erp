@@ -1,0 +1,23 @@
+[
+  {
+    "code": "65.02.070.001",
+    "villageCode": "001",
+    "districtCode": "65.02.070",
+    "name": "Tanjung Buka",
+    "alias": "Tanjung Buka"
+  },
+  {
+    "code": "65.02.070.002",
+    "villageCode": "002",
+    "districtCode": "65.02.070",
+    "name": "Salim Batu",
+    "alias": "Salim Batu"
+  },
+  {
+    "code": "65.02.070.003",
+    "villageCode": "003",
+    "districtCode": "65.02.070",
+    "name": "Silva Rahayu",
+    "alias": "Silva Rahayu"
+  }
+]

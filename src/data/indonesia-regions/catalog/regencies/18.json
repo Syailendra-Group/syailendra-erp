@@ -1,0 +1,122 @@
+[
+  {
+    "code": "18.01",
+    "regencyCode": "01",
+    "provinceCode": "18",
+    "provinceName": "Lampung",
+    "name": "Kabupaten Lampung Barat",
+    "alias": "Lampung Barat"
+  },
+  {
+    "code": "18.02",
+    "regencyCode": "02",
+    "provinceCode": "18",
+    "provinceName": "Lampung",
+    "name": "Kabupaten Tanggamus",
+    "alias": "Tanggamus"
+  },
+  {
+    "code": "18.03",
+    "regencyCode": "03",
+    "provinceCode": "18",
+    "provinceName": "Lampung",
+    "name": "Kabupaten Lampung Selatan",
+    "alias": "Lampung Selatan"
+  },
+  {
+    "code": "18.04",
+    "regencyCode": "04",
+    "provinceCode": "18",
+    "provinceName": "Lampung",
+    "name": "Kabupaten Lampung Timur",
+    "alias": "Lampung Timur"
+  },
+  {
+    "code": "18.05",
+    "regencyCode": "05",
+    "provinceCode": "18",
+    "provinceName": "Lampung",
+    "name": "Kabupaten Lampung Tengah",
+    "alias": "Lampung Tengah"
+  },
+  {
+    "code": "18.06",
+    "regencyCode": "06",
+    "provinceCode": "18",
+    "provinceName": "Lampung",
+    "name": "Kabupaten Lampung Utara",
+    "alias": "Lampung Utara"
+  },
+  {
+    "code": "18.07",
+    "regencyCode": "07",
+    "provinceCode": "18",
+    "provinceName": "Lampung",
+    "name": "Kabupaten Way Kanan",
+    "alias": "Way Kanan"
+  },
+  {
+    "code": "18.08",
+    "regencyCode": "08",
+    "provinceCode": "18",
+    "provinceName": "Lampung",
+    "name": "Kabupaten Tulang Bawang",
+    "alias": "Tulang Bawang"
+  },
+  {
+    "code": "18.09",
+    "regencyCode": "09",
+    "provinceCode": "18",
+    "provinceName": "Lampung",
+    "name": "Kabupaten Pesawaran",
+    "alias": "Pesawaran"
+  },
+  {
+    "code": "18.10",
+    "regencyCode": "10",
+    "provinceCode": "18",
+    "provinceName": "Lampung",
+    "name": "Kabupaten Pringsewu",
+    "alias": "Pringsewu"
+  },
+  {
+    "code": "18.11",
+    "regencyCode": "11",
+    "provinceCode": "18",
+    "provinceName": "Lampung",
+    "name": "Kabupaten Mesuji",
+    "alias": "Mesuji"
+  },
+  {
+    "code": "18.12",
+    "regencyCode": "12",
+    "provinceCode": "18",
+    "provinceName": "Lampung",
+    "name": "Kabupaten Tulang Bawang Barat",
+    "alias": "Tulang Bawang Barat"
+  },
+  {
+    "code": "18.13",
+    "regencyCode": "13",
+    "provinceCode": "18",
+    "provinceName": "Lampung",
+    "name": "Kabupaten Pesisir Barat",
+    "alias": "Pesisir Barat"
+  },
+  {
+    "code": "18.71",
+    "regencyCode": "71",
+    "provinceCode": "18",
+    "provinceName": "Lampung",
+    "name": "Kota Bandar Lampung",
+    "alias": "Bandar Lampung"
+  },
+  {
+    "code": "18.72",
+    "regencyCode": "72",
+    "provinceCode": "18",
+    "provinceName": "Lampung",
+    "name": "Kota Metro",
+    "alias": "Metro"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "code": "97.08.340.001",
+    "villageCode": "001",
+    "districtCode": "97.08.340",
+    "name": "Mot",
+    "alias": "Mot"
+  },
+  {
+    "code": "97.08.340.002",
+    "villageCode": "002",
+    "districtCode": "97.08.340",
+    "name": "Muara Asbi",
+    "alias": "Muara Asbi"
+  },
+  {
+    "code": "97.08.340.003",
+    "villageCode": "003",
+    "districtCode": "97.08.340",
+    "name": "Milki",
+    "alias": "Milki"
+  },
+  {
+    "code": "97.08.340.004",
+    "villageCode": "004",
+    "districtCode": "97.08.340",
+    "name": "Yubu",
+    "alias": "Yubu"
+  },
+  {
+    "code": "97.08.340.005",
+    "villageCode": "005",
+    "districtCode": "97.08.340",
+    "name": "Tual",
+    "alias": "Tual"
+  }
+]

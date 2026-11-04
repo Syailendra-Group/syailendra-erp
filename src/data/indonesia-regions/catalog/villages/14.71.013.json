@@ -1,0 +1,37 @@
+[
+  {
+    "code": "14.71.013.001",
+    "villageCode": "001",
+    "districtCode": "14.71.013",
+    "name": "Simpang Baru",
+    "alias": "Simpang Baru"
+  },
+  {
+    "code": "14.71.013.002",
+    "villageCode": "002",
+    "districtCode": "14.71.013",
+    "name": "Tobek Godang",
+    "alias": "Tobek Godang"
+  },
+  {
+    "code": "14.71.013.003",
+    "villageCode": "003",
+    "districtCode": "14.71.013",
+    "name": "Delima",
+    "alias": "Delima"
+  },
+  {
+    "code": "14.71.013.004",
+    "villageCode": "004",
+    "districtCode": "14.71.013",
+    "name": "Bina Widya",
+    "alias": "Bina Widya"
+  },
+  {
+    "code": "14.71.013.005",
+    "villageCode": "005",
+    "districtCode": "14.71.013",
+    "name": "Sungai Sibam",
+    "alias": "Sungai Sibam"
+  }
+]

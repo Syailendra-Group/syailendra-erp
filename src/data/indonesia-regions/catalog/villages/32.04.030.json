@@ -1,0 +1,72 @@
+[
+  {
+    "code": "32.04.030.001",
+    "villageCode": "001",
+    "districtCode": "32.04.030",
+    "name": "Cikalong",
+    "alias": "Cikalong"
+  },
+  {
+    "code": "32.04.030.002",
+    "villageCode": "002",
+    "districtCode": "32.04.030",
+    "name": "Mekarsari",
+    "alias": "Mekarsari"
+  },
+  {
+    "code": "32.04.030.003",
+    "villageCode": "003",
+    "districtCode": "32.04.030",
+    "name": "Cipinang",
+    "alias": "Cipinang"
+  },
+  {
+    "code": "32.04.030.004",
+    "villageCode": "004",
+    "districtCode": "32.04.030",
+    "name": "Cimaung",
+    "alias": "Cimaung"
+  },
+  {
+    "code": "32.04.030.005",
+    "villageCode": "005",
+    "districtCode": "32.04.030",
+    "name": "Campakamulya",
+    "alias": "Campakamulya"
+  },
+  {
+    "code": "32.04.030.006",
+    "villageCode": "006",
+    "districtCode": "32.04.030",
+    "name": "Pasirhuni",
+    "alias": "Pasirhuni"
+  },
+  {
+    "code": "32.04.030.007",
+    "villageCode": "007",
+    "districtCode": "32.04.030",
+    "name": "Jagabaya",
+    "alias": "Jagabaya"
+  },
+  {
+    "code": "32.04.030.008",
+    "villageCode": "008",
+    "districtCode": "32.04.030",
+    "name": "Malasari",
+    "alias": "Malasari"
+  },
+  {
+    "code": "32.04.030.009",
+    "villageCode": "009",
+    "districtCode": "32.04.030",
+    "name": "Sukamaju",
+    "alias": "Sukamaju"
+  },
+  {
+    "code": "32.04.030.010",
+    "villageCode": "010",
+    "districtCode": "32.04.030",
+    "name": "Warjabakti",
+    "alias": "Warjabakti"
+  }
+]

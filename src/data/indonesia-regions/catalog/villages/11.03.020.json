@@ -1,0 +1,51 @@
+[
+  {
+    "code": "11.03.020.001",
+    "villageCode": "001",
+    "districtCode": "11.03.020",
+    "name": "Ujung Mangki",
+    "alias": "Ujung Mangki"
+  },
+  {
+    "code": "11.03.020.002",
+    "villageCode": "002",
+    "districtCode": "11.03.020",
+    "name": "Keude Bakongan",
+    "alias": "Keude Bakongan"
+  },
+  {
+    "code": "11.03.020.003",
+    "villageCode": "003",
+    "districtCode": "11.03.020",
+    "name": "Kampung Baru",
+    "alias": "Kampung Baru"
+  },
+  {
+    "code": "11.03.020.014",
+    "villageCode": "014",
+    "districtCode": "11.03.020",
+    "name": "Ujung Padang",
+    "alias": "Ujung Padang"
+  },
+  {
+    "code": "11.03.020.015",
+    "villageCode": "015",
+    "districtCode": "11.03.020",
+    "name": "Kmp Drien",
+    "alias": "Kmp Drien"
+  },
+  {
+    "code": "11.03.020.023",
+    "villageCode": "023",
+    "districtCode": "11.03.020",
+    "name": "Dahrul Ihsan",
+    "alias": "Dahrul Ihsan"
+  },
+  {
+    "code": "11.03.020.024",
+    "villageCode": "024",
+    "districtCode": "11.03.020",
+    "name": "Padang Beurahan",
+    "alias": "Padang Beurahan"
+  }
+]

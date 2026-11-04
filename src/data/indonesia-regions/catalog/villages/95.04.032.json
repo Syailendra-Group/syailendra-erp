@@ -1,0 +1,23 @@
+[
+  {
+    "code": "95.04.032.003",
+    "villageCode": "003",
+    "districtCode": "95.04.032",
+    "name": "Comoro",
+    "alias": "Comoro"
+  },
+  {
+    "code": "95.04.032.005",
+    "villageCode": "005",
+    "districtCode": "95.04.032",
+    "name": "Kawet",
+    "alias": "Kawet"
+  },
+  {
+    "code": "95.04.032.006",
+    "villageCode": "006",
+    "districtCode": "95.04.032",
+    "name": "Mausi",
+    "alias": "Mausi"
+  }
+]

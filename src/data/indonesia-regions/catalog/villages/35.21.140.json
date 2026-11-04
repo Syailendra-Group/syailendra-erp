@@ -1,0 +1,72 @@
+[
+  {
+    "code": "35.21.140.001",
+    "villageCode": "001",
+    "districtCode": "35.21.140",
+    "name": "Banjarbanggi",
+    "alias": "Banjarbanggi"
+  },
+  {
+    "code": "35.21.140.002",
+    "villageCode": "002",
+    "districtCode": "35.21.140",
+    "name": "Bangunrejo Lor",
+    "alias": "Bangunrejo Lor"
+  },
+  {
+    "code": "35.21.140.003",
+    "villageCode": "003",
+    "districtCode": "35.21.140",
+    "name": "Karanggeneng",
+    "alias": "Karanggeneng"
+  },
+  {
+    "code": "35.21.140.004",
+    "villageCode": "004",
+    "districtCode": "35.21.140",
+    "name": "Papungan",
+    "alias": "Papungan"
+  },
+  {
+    "code": "35.21.140.005",
+    "villageCode": "005",
+    "districtCode": "35.21.140",
+    "name": "Cantel",
+    "alias": "Cantel"
+  },
+  {
+    "code": "35.21.140.006",
+    "villageCode": "006",
+    "districtCode": "35.21.140",
+    "name": "Ngancar",
+    "alias": "Ngancar"
+  },
+  {
+    "code": "35.21.140.007",
+    "villageCode": "007",
+    "districtCode": "35.21.140",
+    "name": "Kalang",
+    "alias": "Kalang"
+  },
+  {
+    "code": "35.21.140.008",
+    "villageCode": "008",
+    "districtCode": "35.21.140",
+    "name": "Pitu",
+    "alias": "Pitu"
+  },
+  {
+    "code": "35.21.140.009",
+    "villageCode": "009",
+    "districtCode": "35.21.140",
+    "name": "Dumplengan",
+    "alias": "Dumplengan"
+  },
+  {
+    "code": "35.21.140.010",
+    "villageCode": "010",
+    "districtCode": "35.21.140",
+    "name": "Selopuro",
+    "alias": "Selopuro"
+  }
+]

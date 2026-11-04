@@ -1,0 +1,72 @@
+[
+  {
+    "code": "35.09.140.001",
+    "villageCode": "001",
+    "districtCode": "35.09.140",
+    "name": "Sukoreno",
+    "alias": "Sukoreno"
+  },
+  {
+    "code": "35.09.140.002",
+    "villageCode": "002",
+    "districtCode": "35.09.140",
+    "name": "Gunungsari",
+    "alias": "Gunungsari"
+  },
+  {
+    "code": "35.09.140.003",
+    "villageCode": "003",
+    "districtCode": "35.09.140",
+    "name": "Umbulsari",
+    "alias": "Umbulsari"
+  },
+  {
+    "code": "35.09.140.004",
+    "villageCode": "004",
+    "districtCode": "35.09.140",
+    "name": "Tanjungsari",
+    "alias": "Tanjungsari"
+  },
+  {
+    "code": "35.09.140.005",
+    "villageCode": "005",
+    "districtCode": "35.09.140",
+    "name": "Paleran",
+    "alias": "Paleran"
+  },
+  {
+    "code": "35.09.140.006",
+    "villageCode": "006",
+    "districtCode": "35.09.140",
+    "name": "Umbulrejo",
+    "alias": "Umbulrejo"
+  },
+  {
+    "code": "35.09.140.007",
+    "villageCode": "007",
+    "districtCode": "35.09.140",
+    "name": "Gadingrejo",
+    "alias": "Gadingrejo"
+  },
+  {
+    "code": "35.09.140.008",
+    "villageCode": "008",
+    "districtCode": "35.09.140",
+    "name": "Sidorejo",
+    "alias": "Sidorejo"
+  },
+  {
+    "code": "35.09.140.009",
+    "villageCode": "009",
+    "districtCode": "35.09.140",
+    "name": "Tegalwangi",
+    "alias": "Tegalwangi"
+  },
+  {
+    "code": "35.09.140.010",
+    "villageCode": "010",
+    "districtCode": "35.09.140",
+    "name": "Mundurejo",
+    "alias": "Mundurejo"
+  }
+]

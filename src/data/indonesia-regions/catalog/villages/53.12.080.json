@@ -1,0 +1,205 @@
+[
+  {
+    "code": "53.12.080.006",
+    "villageCode": "006",
+    "districtCode": "53.12.080",
+    "name": "Taen Terong",
+    "alias": "Taen Terong"
+  },
+  {
+    "code": "53.12.080.007",
+    "villageCode": "007",
+    "districtCode": "53.12.080",
+    "name": "Rawangkalo",
+    "alias": "Rawangkalo"
+  },
+  {
+    "code": "53.12.080.008",
+    "villageCode": "008",
+    "districtCode": "53.12.080",
+    "name": "Wangka",
+    "alias": "Wangka"
+  },
+  {
+    "code": "53.12.080.010",
+    "villageCode": "010",
+    "districtCode": "53.12.080",
+    "name": "Lengkosambi",
+    "alias": "Lengkosambi"
+  },
+  {
+    "code": "53.12.080.011",
+    "villageCode": "011",
+    "districtCode": "53.12.080",
+    "name": "Tadho",
+    "alias": "Tadho"
+  },
+  {
+    "code": "53.12.080.012",
+    "villageCode": "012",
+    "districtCode": "53.12.080",
+    "name": "Benteng Tengah",
+    "alias": "Benteng Tengah"
+  },
+  {
+    "code": "53.12.080.013",
+    "villageCode": "013",
+    "districtCode": "53.12.080",
+    "name": "Nangamese",
+    "alias": "Nangamese"
+  },
+  {
+    "code": "53.12.080.014",
+    "villageCode": "014",
+    "districtCode": "53.12.080",
+    "name": "Latung",
+    "alias": "Latung"
+  },
+  {
+    "code": "53.12.080.015",
+    "villageCode": "015",
+    "districtCode": "53.12.080",
+    "name": "Sambinasi",
+    "alias": "Sambinasi"
+  },
+  {
+    "code": "53.12.080.016",
+    "villageCode": "016",
+    "districtCode": "53.12.080",
+    "name": "Wangka Selatan",
+    "alias": "Wangka Selatan"
+  },
+  {
+    "code": "53.12.080.017",
+    "villageCode": "017",
+    "districtCode": "53.12.080",
+    "name": "Lengkosambi Timur",
+    "alias": "Lengkosambi Timur"
+  },
+  {
+    "code": "53.12.080.018",
+    "villageCode": "018",
+    "districtCode": "53.12.080",
+    "name": "Lengkosambi Barat",
+    "alias": "Lengkosambi Barat"
+  },
+  {
+    "code": "53.12.080.019",
+    "villageCode": "019",
+    "districtCode": "53.12.080",
+    "name": "Taen Terong I",
+    "alias": "Taen Terong I"
+  },
+  {
+    "code": "53.12.080.020",
+    "villageCode": "020",
+    "districtCode": "53.12.080",
+    "name": "Taen Terong Ii",
+    "alias": "Taen Terong Ii"
+  },
+  {
+    "code": "53.12.080.021",
+    "villageCode": "021",
+    "districtCode": "53.12.080",
+    "name": "Lengkosambi Utara",
+    "alias": "Lengkosambi Utara"
+  },
+  {
+    "code": "53.12.080.022",
+    "villageCode": "022",
+    "districtCode": "53.12.080",
+    "name": "Sambinasi Barat",
+    "alias": "Sambinasi Barat"
+  },
+  {
+    "code": "53.12.080.023",
+    "villageCode": "023",
+    "districtCode": "53.12.080",
+    "name": "Tadho Timur",
+    "alias": "Tadho Timur"
+  },
+  {
+    "code": "53.12.080.024",
+    "villageCode": "024",
+    "districtCode": "53.12.080",
+    "name": "Tadho Barat",
+    "alias": "Tadho Barat"
+  },
+  {
+    "code": "53.12.080.025",
+    "villageCode": "025",
+    "districtCode": "53.12.080",
+    "name": "Tadho Tengah",
+    "alias": "Tadho Tengah"
+  },
+  {
+    "code": "53.12.080.026",
+    "villageCode": "026",
+    "districtCode": "53.12.080",
+    "name": "Rawangkalo I",
+    "alias": "Rawangkalo I"
+  },
+  {
+    "code": "53.12.080.027",
+    "villageCode": "027",
+    "districtCode": "53.12.080",
+    "name": "Rawangkalo Ii",
+    "alias": "Rawangkalo Ii"
+  },
+  {
+    "code": "53.12.080.028",
+    "villageCode": "028",
+    "districtCode": "53.12.080",
+    "name": "Wakamanga",
+    "alias": "Wakamanga"
+  },
+  {
+    "code": "53.12.080.029",
+    "villageCode": "029",
+    "districtCode": "53.12.080",
+    "name": "Lengkosambi Barat Daya",
+    "alias": "Lengkosambi Barat Daya"
+  },
+  {
+    "code": "53.12.080.030",
+    "villageCode": "030",
+    "districtCode": "53.12.080",
+    "name": "Lengkosambi Tengah",
+    "alias": "Lengkosambi Tengah"
+  },
+  {
+    "code": "53.12.080.031",
+    "villageCode": "031",
+    "districtCode": "53.12.080",
+    "name": "Wangka Barat",
+    "alias": "Wangka Barat"
+  },
+  {
+    "code": "53.12.080.032",
+    "villageCode": "032",
+    "districtCode": "53.12.080",
+    "name": "Latung Barat",
+    "alias": "Latung Barat"
+  },
+  {
+    "code": "53.12.080.033",
+    "villageCode": "033",
+    "districtCode": "53.12.080",
+    "name": "Sambinasi Tengah",
+    "alias": "Sambinasi Tengah"
+  },
+  {
+    "code": "53.12.080.034",
+    "villageCode": "034",
+    "districtCode": "53.12.080",
+    "name": "Kota Raja",
+    "alias": "Kota Raja"
+  },
+  {
+    "code": "53.12.080.035",
+    "villageCode": "035",
+    "districtCode": "53.12.080",
+    "name": "Ite Jaya",
+    "alias": "Ite Jaya"
+  }
+]

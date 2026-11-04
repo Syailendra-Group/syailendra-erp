@@ -1,0 +1,65 @@
+[
+  {
+    "code": "35.21.070.001",
+    "villageCode": "001",
+    "districtCode": "35.21.070",
+    "name": "Gandri",
+    "alias": "Gandri"
+  },
+  {
+    "code": "35.21.070.002",
+    "villageCode": "002",
+    "districtCode": "35.21.070",
+    "name": "Sumber",
+    "alias": "Sumber"
+  },
+  {
+    "code": "35.21.070.003",
+    "villageCode": "003",
+    "districtCode": "35.21.070",
+    "name": "Babadan",
+    "alias": "Babadan"
+  },
+  {
+    "code": "35.21.070.004",
+    "villageCode": "004",
+    "districtCode": "35.21.070",
+    "name": "Poh Konyal",
+    "alias": "Poh Konyal"
+  },
+  {
+    "code": "35.21.070.005",
+    "villageCode": "005",
+    "districtCode": "35.21.070",
+    "name": "Paras",
+    "alias": "Paras"
+  },
+  {
+    "code": "35.21.070.006",
+    "villageCode": "006",
+    "districtCode": "35.21.070",
+    "name": "Pleset",
+    "alias": "Pleset"
+  },
+  {
+    "code": "35.21.070.007",
+    "villageCode": "007",
+    "districtCode": "35.21.070",
+    "name": "Pangkur",
+    "alias": "Pangkur"
+  },
+  {
+    "code": "35.21.070.008",
+    "villageCode": "008",
+    "districtCode": "35.21.070",
+    "name": "Waruk Tengah",
+    "alias": "Waruk Tengah"
+  },
+  {
+    "code": "35.21.070.009",
+    "villageCode": "009",
+    "districtCode": "35.21.070",
+    "name": "Ngompro",
+    "alias": "Ngompro"
+  }
+]

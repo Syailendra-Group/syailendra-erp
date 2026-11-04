@@ -1,0 +1,86 @@
+[
+  {
+    "code": "73.01.030.001",
+    "villageCode": "001",
+    "districtCode": "73.01.030",
+    "name": "Polassi",
+    "alias": "Polassi"
+  },
+  {
+    "code": "73.01.030.002",
+    "villageCode": "002",
+    "districtCode": "73.01.030",
+    "name": "Tambolongan",
+    "alias": "Tambolongan"
+  },
+  {
+    "code": "73.01.030.003",
+    "villageCode": "003",
+    "districtCode": "73.01.030",
+    "name": "Appatanah",
+    "alias": "Appatanah"
+  },
+  {
+    "code": "73.01.030.004",
+    "villageCode": "004",
+    "districtCode": "73.01.030",
+    "name": "Lowa",
+    "alias": "Lowa"
+  },
+  {
+    "code": "73.01.030.005",
+    "villageCode": "005",
+    "districtCode": "73.01.030",
+    "name": "Lantimbongan",
+    "alias": "Lantimbongan"
+  },
+  {
+    "code": "73.01.030.006",
+    "villageCode": "006",
+    "districtCode": "73.01.030",
+    "name": "Binanga Sombaiya",
+    "alias": "Binanga Sombaiya"
+  },
+  {
+    "code": "73.01.030.007",
+    "villageCode": "007",
+    "districtCode": "73.01.030",
+    "name": "Laiyolo",
+    "alias": "Laiyolo"
+  },
+  {
+    "code": "73.01.030.008",
+    "villageCode": "008",
+    "districtCode": "73.01.030",
+    "name": "Laiyolo Baru",
+    "alias": "Laiyolo Baru"
+  },
+  {
+    "code": "73.01.030.009",
+    "villageCode": "009",
+    "districtCode": "73.01.030",
+    "name": "Harapan",
+    "alias": "Harapan"
+  },
+  {
+    "code": "73.01.030.010",
+    "villageCode": "010",
+    "districtCode": "73.01.030",
+    "name": "Patikarya",
+    "alias": "Patikarya"
+  },
+  {
+    "code": "73.01.030.011",
+    "villageCode": "011",
+    "districtCode": "73.01.030",
+    "name": "Patilereng",
+    "alias": "Patilereng"
+  },
+  {
+    "code": "73.01.030.012",
+    "villageCode": "012",
+    "districtCode": "73.01.030",
+    "name": "Khusus Bahuluang",
+    "alias": "Khusus Bahuluang"
+  }
+]

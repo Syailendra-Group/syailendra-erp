@@ -1,0 +1,37 @@
+[
+  {
+    "code": "32.75.011.001",
+    "villageCode": "001",
+    "districtCode": "32.75.011",
+    "name": "Jatikarya",
+    "alias": "Jatikarya"
+  },
+  {
+    "code": "32.75.011.002",
+    "villageCode": "002",
+    "districtCode": "32.75.011",
+    "name": "Jatisampurna",
+    "alias": "Jatisampurna"
+  },
+  {
+    "code": "32.75.011.003",
+    "villageCode": "003",
+    "districtCode": "32.75.011",
+    "name": "Jatirangga",
+    "alias": "Jatirangga"
+  },
+  {
+    "code": "32.75.011.004",
+    "villageCode": "004",
+    "districtCode": "32.75.011",
+    "name": "Jatiranggon",
+    "alias": "Jatiranggon"
+  },
+  {
+    "code": "32.75.011.006",
+    "villageCode": "006",
+    "districtCode": "32.75.011",
+    "name": "Jatiraden",
+    "alias": "Jatiraden"
+  }
+]

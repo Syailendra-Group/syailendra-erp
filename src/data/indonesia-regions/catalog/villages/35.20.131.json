@@ -1,0 +1,86 @@
+[
+  {
+    "code": "35.20.131.001",
+    "villageCode": "001",
+    "districtCode": "35.20.131",
+    "name": "Klurahan",
+    "alias": "Klurahan"
+  },
+  {
+    "code": "35.20.131.002",
+    "villageCode": "002",
+    "districtCode": "35.20.131",
+    "name": "Pencol",
+    "alias": "Pencol"
+  },
+  {
+    "code": "35.20.131.003",
+    "villageCode": "003",
+    "districtCode": "35.20.131",
+    "name": "Sukowidi",
+    "alias": "Sukowidi"
+  },
+  {
+    "code": "35.20.131.004",
+    "villageCode": "004",
+    "districtCode": "35.20.131",
+    "name": "Kartoharjo",
+    "alias": "Kartoharjo"
+  },
+  {
+    "code": "35.20.131.005",
+    "villageCode": "005",
+    "districtCode": "35.20.131",
+    "name": "Ngelang",
+    "alias": "Ngelang"
+  },
+  {
+    "code": "35.20.131.006",
+    "villageCode": "006",
+    "districtCode": "35.20.131",
+    "name": "Jajar",
+    "alias": "Jajar"
+  },
+  {
+    "code": "35.20.131.007",
+    "villageCode": "007",
+    "districtCode": "35.20.131",
+    "name": "Gunungan",
+    "alias": "Gunungan"
+  },
+  {
+    "code": "35.20.131.008",
+    "villageCode": "008",
+    "districtCode": "35.20.131",
+    "name": "Karangmojo",
+    "alias": "Karangmojo"
+  },
+  {
+    "code": "35.20.131.009",
+    "villageCode": "009",
+    "districtCode": "35.20.131",
+    "name": "Mrahu",
+    "alias": "Mrahu"
+  },
+  {
+    "code": "35.20.131.010",
+    "villageCode": "010",
+    "districtCode": "35.20.131",
+    "name": "Bayem Taman",
+    "alias": "Bayem Taman"
+  },
+  {
+    "code": "35.20.131.011",
+    "villageCode": "011",
+    "districtCode": "35.20.131",
+    "name": "Bayem Wetan",
+    "alias": "Bayem Wetan"
+  },
+  {
+    "code": "35.20.131.012",
+    "villageCode": "012",
+    "districtCode": "35.20.131",
+    "name": "Jeruk",
+    "alias": "Jeruk"
+  }
+]

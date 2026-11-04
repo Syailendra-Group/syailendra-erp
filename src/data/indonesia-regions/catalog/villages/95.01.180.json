@@ -1,0 +1,37 @@
+[
+  {
+    "code": "95.01.180.001",
+    "villageCode": "001",
+    "districtCode": "95.01.180",
+    "name": "Rawa Biru",
+    "alias": "Rawa Biru"
+  },
+  {
+    "code": "95.01.180.002",
+    "villageCode": "002",
+    "districtCode": "95.01.180",
+    "name": "Yanggandur",
+    "alias": "Yanggandur"
+  },
+  {
+    "code": "95.01.180.003",
+    "villageCode": "003",
+    "districtCode": "95.01.180",
+    "name": "Sota",
+    "alias": "Sota"
+  },
+  {
+    "code": "95.01.180.004",
+    "villageCode": "004",
+    "districtCode": "95.01.180",
+    "name": "Toray",
+    "alias": "Toray"
+  },
+  {
+    "code": "95.01.180.005",
+    "villageCode": "005",
+    "districtCode": "95.01.180",
+    "name": "Erambu",
+    "alias": "Erambu"
+  }
+]

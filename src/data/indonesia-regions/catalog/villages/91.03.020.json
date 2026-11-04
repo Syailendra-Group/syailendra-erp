@@ -1,0 +1,30 @@
+[
+  {
+    "code": "91.03.020.008",
+    "villageCode": "008",
+    "districtCode": "91.03.020",
+    "name": "Wondiboi",
+    "alias": "Wondiboi"
+  },
+  {
+    "code": "91.03.020.012",
+    "villageCode": "012",
+    "districtCode": "91.03.020",
+    "name": "Isuy",
+    "alias": "Isuy"
+  },
+  {
+    "code": "91.03.020.013",
+    "villageCode": "013",
+    "districtCode": "91.03.020",
+    "name": "Kabuow",
+    "alias": "Kabuow"
+  },
+  {
+    "code": "91.03.020.014",
+    "villageCode": "014",
+    "districtCode": "91.03.020",
+    "name": "Kaibi",
+    "alias": "Kaibi"
+  }
+]

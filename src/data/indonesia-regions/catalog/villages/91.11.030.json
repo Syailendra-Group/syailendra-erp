@@ -1,0 +1,51 @@
+[
+  {
+    "code": "91.11.030.001",
+    "villageCode": "001",
+    "districtCode": "91.11.030",
+    "name": "Aryawenmoho",
+    "alias": "Aryawenmoho"
+  },
+  {
+    "code": "91.11.030.002",
+    "villageCode": "002",
+    "districtCode": "91.11.030",
+    "name": "Neney",
+    "alias": "Neney"
+  },
+  {
+    "code": "91.11.030.003",
+    "villageCode": "003",
+    "districtCode": "91.11.030",
+    "name": "Wama",
+    "alias": "Wama"
+  },
+  {
+    "code": "91.11.030.004",
+    "villageCode": "004",
+    "districtCode": "91.11.030",
+    "name": "Disi",
+    "alias": "Disi"
+  },
+  {
+    "code": "91.11.030.005",
+    "villageCode": "005",
+    "districtCode": "91.11.030",
+    "name": "Sesum",
+    "alias": "Sesum"
+  },
+  {
+    "code": "91.11.030.006",
+    "villageCode": "006",
+    "districtCode": "91.11.030",
+    "name": "Benyas",
+    "alias": "Benyas"
+  },
+  {
+    "code": "91.11.030.007",
+    "villageCode": "007",
+    "districtCode": "91.11.030",
+    "name": "Hiyou",
+    "alias": "Hiyou"
+  }
+]

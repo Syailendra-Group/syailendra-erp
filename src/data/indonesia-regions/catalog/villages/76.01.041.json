@@ -1,0 +1,58 @@
+[
+  {
+    "code": "76.01.041.001",
+    "villageCode": "001",
+    "districtCode": "76.01.041",
+    "name": "Ulumanda",
+    "alias": "Ulumanda"
+  },
+  {
+    "code": "76.01.041.002",
+    "villageCode": "002",
+    "districtCode": "76.01.041",
+    "name": "Sambabo",
+    "alias": "Sambabo"
+  },
+  {
+    "code": "76.01.041.003",
+    "villageCode": "003",
+    "districtCode": "76.01.041",
+    "name": "Tandeallo",
+    "alias": "Tandeallo"
+  },
+  {
+    "code": "76.01.041.005",
+    "villageCode": "005",
+    "districtCode": "76.01.041",
+    "name": "Kabiraan",
+    "alias": "Kabiraan"
+  },
+  {
+    "code": "76.01.041.006",
+    "villageCode": "006",
+    "districtCode": "76.01.041",
+    "name": "Popenga",
+    "alias": "Popenga"
+  },
+  {
+    "code": "76.01.041.007",
+    "villageCode": "007",
+    "districtCode": "76.01.041",
+    "name": "Salutambung",
+    "alias": "Salutambung"
+  },
+  {
+    "code": "76.01.041.008",
+    "villageCode": "008",
+    "districtCode": "76.01.041",
+    "name": "Panggalo",
+    "alias": "Panggalo"
+  },
+  {
+    "code": "76.01.041.009",
+    "villageCode": "009",
+    "districtCode": "76.01.041",
+    "name": "Sulai",
+    "alias": "Sulai"
+  }
+]

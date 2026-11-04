@@ -1,0 +1,30 @@
+[
+  {
+    "code": "21.71.080.004",
+    "villageCode": "004",
+    "districtCode": "21.71.080",
+    "name": "Kampung Seraya",
+    "alias": "Kampung Seraya"
+  },
+  {
+    "code": "21.71.080.005",
+    "villageCode": "005",
+    "districtCode": "21.71.080",
+    "name": "Sungai Jodoh",
+    "alias": "Sungai Jodoh"
+  },
+  {
+    "code": "21.71.080.007",
+    "villageCode": "007",
+    "districtCode": "21.71.080",
+    "name": "Tanjung Sengkuang",
+    "alias": "Tanjung Sengkuang"
+  },
+  {
+    "code": "21.71.080.008",
+    "villageCode": "008",
+    "districtCode": "21.71.080",
+    "name": "Batu Merah",
+    "alias": "Batu Merah"
+  }
+]

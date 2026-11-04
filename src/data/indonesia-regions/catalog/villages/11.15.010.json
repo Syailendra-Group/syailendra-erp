@@ -1,0 +1,282 @@
+[
+  {
+    "code": "11.15.010.003",
+    "villageCode": "003",
+    "districtCode": "11.15.010",
+    "name": "Kuala Semanyam",
+    "alias": "Kuala Semanyam"
+  },
+  {
+    "code": "11.15.010.005",
+    "villageCode": "005",
+    "districtCode": "11.15.010",
+    "name": "Blang Luah",
+    "alias": "Blang Luah"
+  },
+  {
+    "code": "11.15.010.007",
+    "villageCode": "007",
+    "districtCode": "11.15.010",
+    "name": "Pulo Kruet",
+    "alias": "Pulo Kruet"
+  },
+  {
+    "code": "11.15.010.009",
+    "villageCode": "009",
+    "districtCode": "11.15.010",
+    "name": "Alue Bateung Brook",
+    "alias": "Alue Bateung Brook"
+  },
+  {
+    "code": "11.15.010.010",
+    "villageCode": "010",
+    "districtCode": "11.15.010",
+    "name": "Ladang Baro",
+    "alias": "Ladang Baro"
+  },
+  {
+    "code": "11.15.010.011",
+    "villageCode": "011",
+    "districtCode": "11.15.010",
+    "name": "Alue Kuyun",
+    "alias": "Alue Kuyun"
+  },
+  {
+    "code": "11.15.010.013",
+    "villageCode": "013",
+    "districtCode": "11.15.010",
+    "name": "Alue Raya",
+    "alias": "Alue Raya"
+  },
+  {
+    "code": "11.15.010.014",
+    "villageCode": "014",
+    "districtCode": "11.15.010",
+    "name": "Sukaramai",
+    "alias": "Sukaramai"
+  },
+  {
+    "code": "11.15.010.015",
+    "villageCode": "015",
+    "districtCode": "11.15.010",
+    "name": "Ujong Tanjong",
+    "alias": "Ujong Tanjong"
+  },
+  {
+    "code": "11.15.010.016",
+    "villageCode": "016",
+    "districtCode": "11.15.010",
+    "name": "Alue Jampak",
+    "alias": "Alue Jampak"
+  },
+  {
+    "code": "11.15.010.017",
+    "villageCode": "017",
+    "districtCode": "11.15.010",
+    "name": "Serba Jadi",
+    "alias": "Serba Jadi"
+  },
+  {
+    "code": "11.15.010.018",
+    "villageCode": "018",
+    "districtCode": "11.15.010",
+    "name": "Serba Guna",
+    "alias": "Serba Guna"
+  },
+  {
+    "code": "11.15.010.022",
+    "villageCode": "022",
+    "districtCode": "11.15.010",
+    "name": "Kayee Unou",
+    "alias": "Kayee Unou"
+  },
+  {
+    "code": "11.15.010.023",
+    "villageCode": "023",
+    "districtCode": "11.15.010",
+    "name": "Geulanggang Gajah",
+    "alias": "Geulanggang Gajah"
+  },
+  {
+    "code": "11.15.010.024",
+    "villageCode": "024",
+    "districtCode": "11.15.010",
+    "name": "Sidojadi",
+    "alias": "Sidojadi"
+  },
+  {
+    "code": "11.15.010.025",
+    "villageCode": "025",
+    "districtCode": "11.15.010",
+    "name": "Sukamulia",
+    "alias": "Sukamulia"
+  },
+  {
+    "code": "11.15.010.026",
+    "villageCode": "026",
+    "districtCode": "11.15.010",
+    "name": "Simpang Dua",
+    "alias": "Simpang Dua"
+  },
+  {
+    "code": "11.15.010.027",
+    "villageCode": "027",
+    "districtCode": "11.15.010",
+    "name": "Panton Bayu",
+    "alias": "Panton Bayu"
+  },
+  {
+    "code": "11.15.010.028",
+    "villageCode": "028",
+    "districtCode": "11.15.010",
+    "name": "Simpang Deli Kilang",
+    "alias": "Simpang Deli Kilang"
+  },
+  {
+    "code": "11.15.010.029",
+    "villageCode": "029",
+    "districtCode": "11.15.010",
+    "name": "Simpang Deli Kampong",
+    "alias": "Simpang Deli Kampong"
+  },
+  {
+    "code": "11.15.010.030",
+    "villageCode": "030",
+    "districtCode": "11.15.010",
+    "name": "Pulo Ie",
+    "alias": "Pulo Ie"
+  },
+  {
+    "code": "11.15.010.031",
+    "villageCode": "031",
+    "districtCode": "11.15.010",
+    "name": "Pulo Tengah",
+    "alias": "Pulo Tengah"
+  },
+  {
+    "code": "11.15.010.032",
+    "villageCode": "032",
+    "districtCode": "11.15.010",
+    "name": "Karang Anyar",
+    "alias": "Karang Anyar"
+  },
+  {
+    "code": "11.15.010.033",
+    "villageCode": "033",
+    "districtCode": "11.15.010",
+    "name": "Sukajadi",
+    "alias": "Sukajadi"
+  },
+  {
+    "code": "11.15.010.034",
+    "villageCode": "034",
+    "districtCode": "11.15.010",
+    "name": "Alue Bilie",
+    "alias": "Alue Bilie"
+  },
+  {
+    "code": "11.15.010.035",
+    "villageCode": "035",
+    "districtCode": "11.15.010",
+    "name": "Blang Baro",
+    "alias": "Blang Baro"
+  },
+  {
+    "code": "11.15.010.036",
+    "villageCode": "036",
+    "districtCode": "11.15.010",
+    "name": "Kuta Trieng",
+    "alias": "Kuta Trieng"
+  },
+  {
+    "code": "11.15.010.037",
+    "villageCode": "037",
+    "districtCode": "11.15.010",
+    "name": "Lamie",
+    "alias": "Lamie"
+  },
+  {
+    "code": "11.15.010.040",
+    "villageCode": "040",
+    "districtCode": "11.15.010",
+    "name": "Ujong Lamie",
+    "alias": "Ujong Lamie"
+  },
+  {
+    "code": "11.15.010.041",
+    "villageCode": "041",
+    "districtCode": "11.15.010",
+    "name": "Tuwi Buya",
+    "alias": "Tuwi Buya"
+  },
+  {
+    "code": "11.15.010.042",
+    "villageCode": "042",
+    "districtCode": "11.15.010",
+    "name": "Sukaraja",
+    "alias": "Sukaraja"
+  },
+  {
+    "code": "11.15.010.043",
+    "villageCode": "043",
+    "districtCode": "11.15.010",
+    "name": "Gunung Cut",
+    "alias": "Gunung Cut"
+  },
+  {
+    "code": "11.15.010.044",
+    "villageCode": "044",
+    "districtCode": "11.15.010",
+    "name": "Suak Palembang",
+    "alias": "Suak Palembang"
+  },
+  {
+    "code": "11.15.010.045",
+    "villageCode": "045",
+    "districtCode": "11.15.010",
+    "name": "Alue Geutah",
+    "alias": "Alue Geutah"
+  },
+  {
+    "code": "11.15.010.046",
+    "villageCode": "046",
+    "districtCode": "11.15.010",
+    "name": "Alue Wakie",
+    "alias": "Alue Wakie"
+  },
+  {
+    "code": "11.15.010.047",
+    "villageCode": "047",
+    "districtCode": "11.15.010",
+    "name": "Krueng Alem",
+    "alias": "Krueng Alem"
+  },
+  {
+    "code": "11.15.010.048",
+    "villageCode": "048",
+    "districtCode": "11.15.010",
+    "name": "Alue Rambot",
+    "alias": "Alue Rambot"
+  },
+  {
+    "code": "11.15.010.049",
+    "villageCode": "049",
+    "districtCode": "11.15.010",
+    "name": "Krueng Seumayam",
+    "alias": "Krueng Seumayam"
+  },
+  {
+    "code": "11.15.010.050",
+    "villageCode": "050",
+    "districtCode": "11.15.010",
+    "name": "Makarti Jaya",
+    "alias": "Makarti Jaya"
+  },
+  {
+    "code": "11.15.010.051",
+    "villageCode": "051",
+    "districtCode": "11.15.010",
+    "name": "Sumber Makmur",
+    "alias": "Sumber Makmur"
+  }
+]

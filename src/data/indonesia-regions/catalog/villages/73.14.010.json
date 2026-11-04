@@ -1,0 +1,72 @@
+[
+  {
+    "code": "73.14.010.001",
+    "villageCode": "001",
+    "districtCode": "73.14.010",
+    "name": "Cenrana",
+    "alias": "Cenrana"
+  },
+  {
+    "code": "73.14.010.002",
+    "villageCode": "002",
+    "districtCode": "73.14.010",
+    "name": "Bapangi",
+    "alias": "Bapangi"
+  },
+  {
+    "code": "73.14.010.003",
+    "villageCode": "003",
+    "districtCode": "73.14.010",
+    "name": "Wanio Timoreng",
+    "alias": "Wanio Timoreng"
+  },
+  {
+    "code": "73.14.010.004",
+    "villageCode": "004",
+    "districtCode": "73.14.010",
+    "name": "Wanio",
+    "alias": "Wanio"
+  },
+  {
+    "code": "73.14.010.005",
+    "villageCode": "005",
+    "districtCode": "73.14.010",
+    "name": "Bilokka",
+    "alias": "Bilokka"
+  },
+  {
+    "code": "73.14.010.006",
+    "villageCode": "006",
+    "districtCode": "73.14.010",
+    "name": "Corawali",
+    "alias": "Corawali"
+  },
+  {
+    "code": "73.14.010.007",
+    "villageCode": "007",
+    "districtCode": "73.14.010",
+    "name": "Lise",
+    "alias": "Lise"
+  },
+  {
+    "code": "73.14.010.008",
+    "villageCode": "008",
+    "districtCode": "73.14.010",
+    "name": "Allesalewoe",
+    "alias": "Allesalewoe"
+  },
+  {
+    "code": "73.14.010.009",
+    "villageCode": "009",
+    "districtCode": "73.14.010",
+    "name": "Lajonga",
+    "alias": "Lajonga"
+  },
+  {
+    "code": "73.14.010.010",
+    "villageCode": "010",
+    "districtCode": "73.14.010",
+    "name": "Wettee",
+    "alias": "Wettee"
+  }
+]

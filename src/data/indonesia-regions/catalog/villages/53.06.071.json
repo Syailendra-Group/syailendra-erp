@@ -1,0 +1,44 @@
+[
+  {
+    "code": "53.06.071.001",
+    "villageCode": "001",
+    "districtCode": "53.06.071",
+    "name": "Asumanu",
+    "alias": "Asumanu"
+  },
+  {
+    "code": "53.06.071.002",
+    "villageCode": "002",
+    "districtCode": "53.06.071",
+    "name": "Tohe",
+    "alias": "Tohe"
+  },
+  {
+    "code": "53.06.071.003",
+    "villageCode": "003",
+    "districtCode": "53.06.071",
+    "name": "Raifatus",
+    "alias": "Raifatus"
+  },
+  {
+    "code": "53.06.071.004",
+    "villageCode": "004",
+    "districtCode": "53.06.071",
+    "name": "Aitoun",
+    "alias": "Aitoun"
+  },
+  {
+    "code": "53.06.071.005",
+    "villageCode": "005",
+    "districtCode": "53.06.071",
+    "name": "Maumutin",
+    "alias": "Maumutin"
+  },
+  {
+    "code": "53.06.071.006",
+    "villageCode": "006",
+    "districtCode": "53.06.071",
+    "name": "Tohe Leten",
+    "alias": "Tohe Leten"
+  }
+]

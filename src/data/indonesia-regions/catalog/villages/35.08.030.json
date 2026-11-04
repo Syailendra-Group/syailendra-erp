@@ -1,0 +1,72 @@
+[
+  {
+    "code": "35.08.030.001",
+    "villageCode": "001",
+    "districtCode": "35.08.030",
+    "name": "Jugosari",
+    "alias": "Jugosari"
+  },
+  {
+    "code": "35.08.030.002",
+    "villageCode": "002",
+    "districtCode": "35.08.030",
+    "name": "Jarit",
+    "alias": "Jarit"
+  },
+  {
+    "code": "35.08.030.003",
+    "villageCode": "003",
+    "districtCode": "35.08.030",
+    "name": "Candipuro",
+    "alias": "Candipuro"
+  },
+  {
+    "code": "35.08.030.004",
+    "villageCode": "004",
+    "districtCode": "35.08.030",
+    "name": "Sumberrejo",
+    "alias": "Sumberrejo"
+  },
+  {
+    "code": "35.08.030.005",
+    "villageCode": "005",
+    "districtCode": "35.08.030",
+    "name": "Sumberwuluh",
+    "alias": "Sumberwuluh"
+  },
+  {
+    "code": "35.08.030.006",
+    "villageCode": "006",
+    "districtCode": "35.08.030",
+    "name": "Sumbermujur",
+    "alias": "Sumbermujur"
+  },
+  {
+    "code": "35.08.030.007",
+    "villageCode": "007",
+    "districtCode": "35.08.030",
+    "name": "Penanggal",
+    "alias": "Penanggal"
+  },
+  {
+    "code": "35.08.030.008",
+    "villageCode": "008",
+    "districtCode": "35.08.030",
+    "name": "Tambahrejo",
+    "alias": "Tambahrejo"
+  },
+  {
+    "code": "35.08.030.009",
+    "villageCode": "009",
+    "districtCode": "35.08.030",
+    "name": "Kloposawit",
+    "alias": "Kloposawit"
+  },
+  {
+    "code": "35.08.030.010",
+    "villageCode": "010",
+    "districtCode": "35.08.030",
+    "name": "Tumpeng",
+    "alias": "Tumpeng"
+  }
+]

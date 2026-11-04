@@ -1,0 +1,240 @@
+[
+  {
+    "code": "82.01.090.015",
+    "villageCode": "015",
+    "districtCode": "82.01.090",
+    "name": "Buku Bualawa",
+    "alias": "Buku Bualawa"
+  },
+  {
+    "code": "82.01.090.016",
+    "villageCode": "016",
+    "districtCode": "82.01.090",
+    "name": "Tauro",
+    "alias": "Tauro"
+  },
+  {
+    "code": "82.01.090.017",
+    "villageCode": "017",
+    "districtCode": "82.01.090",
+    "name": "Matui",
+    "alias": "Matui"
+  },
+  {
+    "code": "82.01.090.018",
+    "villageCode": "018",
+    "districtCode": "82.01.090",
+    "name": "Tuada",
+    "alias": "Tuada"
+  },
+  {
+    "code": "82.01.090.019",
+    "villageCode": "019",
+    "districtCode": "82.01.090",
+    "name": "Todowongi",
+    "alias": "Todowongi"
+  },
+  {
+    "code": "82.01.090.020",
+    "villageCode": "020",
+    "districtCode": "82.01.090",
+    "name": "Bukumatiti",
+    "alias": "Bukumatiti"
+  },
+  {
+    "code": "82.01.090.021",
+    "villageCode": "021",
+    "districtCode": "82.01.090",
+    "name": "Porniti",
+    "alias": "Porniti"
+  },
+  {
+    "code": "82.01.090.022",
+    "villageCode": "022",
+    "districtCode": "82.01.090",
+    "name": "Gamlamo",
+    "alias": "Gamlamo"
+  },
+  {
+    "code": "82.01.090.023",
+    "villageCode": "023",
+    "districtCode": "82.01.090",
+    "name": "Gufasa",
+    "alias": "Gufasa"
+  },
+  {
+    "code": "82.01.090.024",
+    "villageCode": "024",
+    "districtCode": "82.01.090",
+    "name": "Guaemaadu",
+    "alias": "Guaemaadu"
+  },
+  {
+    "code": "82.01.090.025",
+    "villageCode": "025",
+    "districtCode": "82.01.090",
+    "name": "Galala",
+    "alias": "Galala"
+  },
+  {
+    "code": "82.01.090.026",
+    "villageCode": "026",
+    "districtCode": "82.01.090",
+    "name": "Bobanehena",
+    "alias": "Bobanehena"
+  },
+  {
+    "code": "82.01.090.027",
+    "villageCode": "027",
+    "districtCode": "82.01.090",
+    "name": "Saria",
+    "alias": "Saria"
+  },
+  {
+    "code": "82.01.090.028",
+    "villageCode": "028",
+    "districtCode": "82.01.090",
+    "name": "Payo",
+    "alias": "Payo"
+  },
+  {
+    "code": "82.01.090.029",
+    "villageCode": "029",
+    "districtCode": "82.01.090",
+    "name": "Bobo",
+    "alias": "Bobo"
+  },
+  {
+    "code": "82.01.090.030",
+    "villageCode": "030",
+    "districtCode": "82.01.090",
+    "name": "Idamdehe",
+    "alias": "Idamdehe"
+  },
+  {
+    "code": "82.01.090.031",
+    "villageCode": "031",
+    "districtCode": "82.01.090",
+    "name": "Idamdehe Gamsungi",
+    "alias": "Idamdehe Gamsungi"
+  },
+  {
+    "code": "82.01.090.032",
+    "villageCode": "032",
+    "districtCode": "82.01.090",
+    "name": "Jalan Baru",
+    "alias": "Jalan Baru"
+  },
+  {
+    "code": "82.01.090.033",
+    "villageCode": "033",
+    "districtCode": "82.01.090",
+    "name": "Marimabati",
+    "alias": "Marimabati"
+  },
+  {
+    "code": "82.01.090.034",
+    "villageCode": "034",
+    "districtCode": "82.01.090",
+    "name": "Gamtala",
+    "alias": "Gamtala"
+  },
+  {
+    "code": "82.01.090.035",
+    "villageCode": "035",
+    "districtCode": "82.01.090",
+    "name": "Soakonora",
+    "alias": "Soakonora"
+  },
+  {
+    "code": "82.01.090.036",
+    "villageCode": "036",
+    "districtCode": "82.01.090",
+    "name": "Lolori",
+    "alias": "Lolori"
+  },
+  {
+    "code": "82.01.090.037",
+    "villageCode": "037",
+    "districtCode": "82.01.090",
+    "name": "Taboso",
+    "alias": "Taboso"
+  },
+  {
+    "code": "82.01.090.038",
+    "villageCode": "038",
+    "districtCode": "82.01.090",
+    "name": "Hoku Hoku Kie",
+    "alias": "Hoku Hoku Kie"
+  },
+  {
+    "code": "82.01.090.039",
+    "villageCode": "039",
+    "districtCode": "82.01.090",
+    "name": "Acango",
+    "alias": "Acango"
+  },
+  {
+    "code": "82.01.090.040",
+    "villageCode": "040",
+    "districtCode": "82.01.090",
+    "name": "Tedeng",
+    "alias": "Tedeng"
+  },
+  {
+    "code": "82.01.090.041",
+    "villageCode": "041",
+    "districtCode": "82.01.090",
+    "name": "Akediri",
+    "alias": "Akediri"
+  },
+  {
+    "code": "82.01.090.048",
+    "villageCode": "048",
+    "districtCode": "82.01.090",
+    "name": "Guaeria",
+    "alias": "Guaeria"
+  },
+  {
+    "code": "82.01.090.049",
+    "villageCode": "049",
+    "districtCode": "82.01.090",
+    "name": "Hatebicara",
+    "alias": "Hatebicara"
+  },
+  {
+    "code": "82.01.090.050",
+    "villageCode": "050",
+    "districtCode": "82.01.090",
+    "name": "Bukumaadu",
+    "alias": "Bukumaadu"
+  },
+  {
+    "code": "82.01.090.051",
+    "villageCode": "051",
+    "districtCode": "82.01.090",
+    "name": "Ulo",
+    "alias": "Ulo"
+  },
+  {
+    "code": "82.01.090.052",
+    "villageCode": "052",
+    "districtCode": "82.01.090",
+    "name": "Pateng",
+    "alias": "Pateng"
+  },
+  {
+    "code": "82.01.090.053",
+    "villageCode": "053",
+    "districtCode": "82.01.090",
+    "name": "Bobojiko",
+    "alias": "Bobojiko"
+  },
+  {
+    "code": "82.01.090.054",
+    "villageCode": "054",
+    "districtCode": "82.01.090",
+    "name": "Kuripasai",
+    "alias": "Kuripasai"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "code": "94.20.020.001",
+    "villageCode": "001",
+    "districtCode": "94.20.020",
+    "name": "Molof",
+    "alias": "Molof"
+  },
+  {
+    "code": "94.20.020.002",
+    "villageCode": "002",
+    "districtCode": "94.20.020",
+    "name": "Senggi",
+    "alias": "Senggi"
+  },
+  {
+    "code": "94.20.020.003",
+    "villageCode": "003",
+    "districtCode": "94.20.020",
+    "name": "Warlef",
+    "alias": "Warlef"
+  },
+  {
+    "code": "94.20.020.005",
+    "villageCode": "005",
+    "districtCode": "94.20.020",
+    "name": "Woslay",
+    "alias": "Woslay"
+  },
+  {
+    "code": "94.20.020.006",
+    "villageCode": "006",
+    "districtCode": "94.20.020",
+    "name": "Usku",
+    "alias": "Usku"
+  },
+  {
+    "code": "94.20.020.007",
+    "villageCode": "007",
+    "districtCode": "94.20.020",
+    "name": "Waley",
+    "alias": "Waley"
+  },
+  {
+    "code": "94.20.020.008",
+    "villageCode": "008",
+    "districtCode": "94.20.020",
+    "name": "Namla",
+    "alias": "Namla"
+  }
+]

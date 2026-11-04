@@ -1,0 +1,310 @@
+[
+  {
+    "code": "12.20.080.001",
+    "villageCode": "001",
+    "districtCode": "12.20.080",
+    "name": "Kuala Simpang",
+    "alias": "Kuala Simpang"
+  },
+  {
+    "code": "12.20.080.002",
+    "villageCode": "002",
+    "districtCode": "12.20.080",
+    "name": "Simundol",
+    "alias": "Simundol"
+  },
+  {
+    "code": "12.20.080.003",
+    "villageCode": "003",
+    "districtCode": "12.20.080",
+    "name": "Sitonun",
+    "alias": "Sitonun"
+  },
+  {
+    "code": "12.20.080.004",
+    "villageCode": "004",
+    "districtCode": "12.20.080",
+    "name": "Simaninggir Sim",
+    "alias": "Simaninggir Sim"
+  },
+  {
+    "code": "12.20.080.005",
+    "villageCode": "005",
+    "districtCode": "12.20.080",
+    "name": "Aek Jabut",
+    "alias": "Aek Jabut"
+  },
+  {
+    "code": "12.20.080.006",
+    "villageCode": "006",
+    "districtCode": "12.20.080",
+    "name": "Nabundong",
+    "alias": "Nabundong"
+  },
+  {
+    "code": "12.20.080.007",
+    "villageCode": "007",
+    "districtCode": "12.20.080",
+    "name": "Pasar Simundol",
+    "alias": "Pasar Simundol"
+  },
+  {
+    "code": "12.20.080.008",
+    "villageCode": "008",
+    "districtCode": "12.20.080",
+    "name": "Pasang Lela",
+    "alias": "Pasang Lela"
+  },
+  {
+    "code": "12.20.080.009",
+    "villageCode": "009",
+    "districtCode": "12.20.080",
+    "name": "Gunung Sormin",
+    "alias": "Gunung Sormin"
+  },
+  {
+    "code": "12.20.080.010",
+    "villageCode": "010",
+    "districtCode": "12.20.080",
+    "name": "Nahula Jae",
+    "alias": "Nahula Jae"
+  },
+  {
+    "code": "12.20.080.011",
+    "villageCode": "011",
+    "districtCode": "12.20.080",
+    "name": "Gonting Bange",
+    "alias": "Gonting Bange"
+  },
+  {
+    "code": "12.20.080.012",
+    "villageCode": "012",
+    "districtCode": "12.20.080",
+    "name": "Simangambat",
+    "alias": "Simangambat"
+  },
+  {
+    "code": "12.20.080.013",
+    "villageCode": "013",
+    "districtCode": "12.20.080",
+    "name": "Tanjung Baru Silaiya",
+    "alias": "Tanjung Baru Silaiya"
+  },
+  {
+    "code": "12.20.080.014",
+    "villageCode": "014",
+    "districtCode": "12.20.080",
+    "name": "Padang Malakka",
+    "alias": "Padang Malakka"
+  },
+  {
+    "code": "12.20.080.015",
+    "villageCode": "015",
+    "districtCode": "12.20.080",
+    "name": "Saba Bangunan",
+    "alias": "Saba Bangunan"
+  },
+  {
+    "code": "12.20.080.016",
+    "villageCode": "016",
+    "districtCode": "12.20.080",
+    "name": "Malino",
+    "alias": "Malino"
+  },
+  {
+    "code": "12.20.080.017",
+    "villageCode": "017",
+    "districtCode": "12.20.080",
+    "name": "Salusuhan",
+    "alias": "Salusuhan"
+  },
+  {
+    "code": "12.20.080.018",
+    "villageCode": "018",
+    "districtCode": "12.20.080",
+    "name": "Sihalo-Halo",
+    "alias": "Sihalo-Halo"
+  },
+  {
+    "code": "12.20.080.019",
+    "villageCode": "019",
+    "districtCode": "12.20.080",
+    "name": "Janji Manahan Gnt",
+    "alias": "Janji Manahan Gnt"
+  },
+  {
+    "code": "12.20.080.020",
+    "villageCode": "020",
+    "districtCode": "12.20.080",
+    "name": "Sipogas B",
+    "alias": "Sipogas B"
+  },
+  {
+    "code": "12.20.080.021",
+    "villageCode": "021",
+    "districtCode": "12.20.080",
+    "name": "Sunut",
+    "alias": "Sunut"
+  },
+  {
+    "code": "12.20.080.022",
+    "villageCode": "022",
+    "districtCode": "12.20.080",
+    "name": "Pamarai",
+    "alias": "Pamarai"
+  },
+  {
+    "code": "12.20.080.023",
+    "villageCode": "023",
+    "districtCode": "12.20.080",
+    "name": "Psr Sayur Matinggi",
+    "alias": "Psr Sayur Matinggi"
+  },
+  {
+    "code": "12.20.080.024",
+    "villageCode": "024",
+    "districtCode": "12.20.080",
+    "name": "Sayur Matinggi",
+    "alias": "Sayur Matinggi"
+  },
+  {
+    "code": "12.20.080.025",
+    "villageCode": "025",
+    "districtCode": "12.20.080",
+    "name": "Panyabungan",
+    "alias": "Panyabungan"
+  },
+  {
+    "code": "12.20.080.026",
+    "villageCode": "026",
+    "districtCode": "12.20.080",
+    "name": "Aek Simanat",
+    "alias": "Aek Simanat"
+  },
+  {
+    "code": "12.20.080.027",
+    "villageCode": "027",
+    "districtCode": "12.20.080",
+    "name": "Pulo Liman",
+    "alias": "Pulo Liman"
+  },
+  {
+    "code": "12.20.080.028",
+    "villageCode": "028",
+    "districtCode": "12.20.080",
+    "name": "Pd Matinggi Gnt",
+    "alias": "Pd Matinggi Gnt"
+  },
+  {
+    "code": "12.20.080.029",
+    "villageCode": "029",
+    "districtCode": "12.20.080",
+    "name": "Hasahatan",
+    "alias": "Hasahatan"
+  },
+  {
+    "code": "12.20.080.030",
+    "villageCode": "030",
+    "districtCode": "12.20.080",
+    "name": "Pinarik",
+    "alias": "Pinarik"
+  },
+  {
+    "code": "12.20.080.031",
+    "villageCode": "031",
+    "districtCode": "12.20.080",
+    "name": "Unte Manis",
+    "alias": "Unte Manis"
+  },
+  {
+    "code": "12.20.080.032",
+    "villageCode": "032",
+    "districtCode": "12.20.080",
+    "name": "Pamonoran",
+    "alias": "Pamonoran"
+  },
+  {
+    "code": "12.20.080.033",
+    "villageCode": "033",
+    "districtCode": "12.20.080",
+    "name": "Huta Imbaru Sim",
+    "alias": "Huta Imbaru Sim"
+  },
+  {
+    "code": "12.20.080.034",
+    "villageCode": "034",
+    "districtCode": "12.20.080",
+    "name": "Aek Kundur",
+    "alias": "Aek Kundur"
+  },
+  {
+    "code": "12.20.080.035",
+    "villageCode": "035",
+    "districtCode": "12.20.080",
+    "name": "Hatiran",
+    "alias": "Hatiran"
+  },
+  {
+    "code": "12.20.080.036",
+    "villageCode": "036",
+    "districtCode": "12.20.080",
+    "name": "Pd Matinggi Sim",
+    "alias": "Pd Matinggi Sim"
+  },
+  {
+    "code": "12.20.080.037",
+    "villageCode": "037",
+    "districtCode": "12.20.080",
+    "name": "Aek Kanan",
+    "alias": "Aek Kanan"
+  },
+  {
+    "code": "12.20.080.038",
+    "villageCode": "038",
+    "districtCode": "12.20.080",
+    "name": "Karang Anyar",
+    "alias": "Karang Anyar"
+  },
+  {
+    "code": "12.20.080.039",
+    "villageCode": "039",
+    "districtCode": "12.20.080",
+    "name": "Nahula Julu",
+    "alias": "Nahula Julu"
+  },
+  {
+    "code": "12.20.080.040",
+    "villageCode": "040",
+    "districtCode": "12.20.080",
+    "name": "Gadung Holbung",
+    "alias": "Gadung Holbung"
+  },
+  {
+    "code": "12.20.080.041",
+    "villageCode": "041",
+    "districtCode": "12.20.080",
+    "name": "Sigordang",
+    "alias": "Sigordang"
+  },
+  {
+    "code": "12.20.080.042",
+    "villageCode": "042",
+    "districtCode": "12.20.080",
+    "name": "Batu Hibul",
+    "alias": "Batu Hibul"
+  },
+  {
+    "code": "12.20.080.043",
+    "villageCode": "043",
+    "districtCode": "12.20.080",
+    "name": "Simadihon",
+    "alias": "Simadihon"
+  },
+  {
+    "code": "12.20.080.044",
+    "villageCode": "044",
+    "districtCode": "12.20.080",
+    "name": "Sipogas A",
+    "alias": "Sipogas A"
+  }
+]

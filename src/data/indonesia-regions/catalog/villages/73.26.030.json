@@ -1,0 +1,44 @@
+[
+  {
+    "code": "73.26.030.001",
+    "villageCode": "001",
+    "districtCode": "73.26.030",
+    "name": "Lembang Tallung Penanian",
+    "alias": "Lembang Tallung Penanian"
+  },
+  {
+    "code": "73.26.030.002",
+    "villageCode": "002",
+    "districtCode": "73.26.030",
+    "name": "Lembang Pata   Padang",
+    "alias": "Lembang Pata   Padang"
+  },
+  {
+    "code": "73.26.030.003",
+    "villageCode": "003",
+    "districtCode": "73.26.030",
+    "name": "Kelurahan Pa Paelean",
+    "alias": "Kelurahan Pa Paelean"
+  },
+  {
+    "code": "73.26.030.004",
+    "villageCode": "004",
+    "districtCode": "73.26.030",
+    "name": "Lembang Buntu La Bo",
+    "alias": "Lembang Buntu La Bo"
+  },
+  {
+    "code": "73.26.030.005",
+    "villageCode": "005",
+    "districtCode": "73.26.030",
+    "name": "Lembang Tandung La Bo",
+    "alias": "Lembang Tandung La Bo"
+  },
+  {
+    "code": "73.26.030.006",
+    "villageCode": "006",
+    "districtCode": "73.26.030",
+    "name": "Lembang La Bo",
+    "alias": "Lembang La Bo"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "code": "63.02.161.001",
+    "villageCode": "001",
+    "districtCode": "63.02.161",
+    "name": "Batang Kulur",
+    "alias": "Batang Kulur"
+  },
+  {
+    "code": "63.02.161.002",
+    "villageCode": "002",
+    "districtCode": "63.02.161",
+    "name": "Bungkukan",
+    "alias": "Bungkukan"
+  },
+  {
+    "code": "63.02.161.003",
+    "villageCode": "003",
+    "districtCode": "63.02.161",
+    "name": "Siayuh",
+    "alias": "Siayuh"
+  },
+  {
+    "code": "63.02.161.004",
+    "villageCode": "004",
+    "districtCode": "63.02.161",
+    "name": "Tanjung Sari",
+    "alias": "Tanjung Sari"
+  },
+  {
+    "code": "63.02.161.005",
+    "villageCode": "005",
+    "districtCode": "63.02.161",
+    "name": "Magalau Hilir",
+    "alias": "Magalau Hilir"
+  },
+  {
+    "code": "63.02.161.006",
+    "villageCode": "006",
+    "districtCode": "63.02.161",
+    "name": "Magalau Hulu",
+    "alias": "Magalau Hulu"
+  }
+]

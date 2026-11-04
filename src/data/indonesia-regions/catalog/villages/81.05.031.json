@@ -1,0 +1,86 @@
+[
+  {
+    "code": "81.05.031.001",
+    "villageCode": "001",
+    "districtCode": "81.05.031",
+    "name": "Warialau",
+    "alias": "Warialau"
+  },
+  {
+    "code": "81.05.031.014",
+    "villageCode": "014",
+    "districtCode": "81.05.031",
+    "name": "Selmona",
+    "alias": "Selmona"
+  },
+  {
+    "code": "81.05.031.015",
+    "villageCode": "015",
+    "districtCode": "81.05.031",
+    "name": "Masidang",
+    "alias": "Masidang"
+  },
+  {
+    "code": "81.05.031.016",
+    "villageCode": "016",
+    "districtCode": "81.05.031",
+    "name": "Kolamar",
+    "alias": "Kolamar"
+  },
+  {
+    "code": "81.05.031.017",
+    "villageCode": "017",
+    "districtCode": "81.05.031",
+    "name": "Marlasi",
+    "alias": "Marlasi"
+  },
+  {
+    "code": "81.05.031.018",
+    "villageCode": "018",
+    "districtCode": "81.05.031",
+    "name": "Foket",
+    "alias": "Foket"
+  },
+  {
+    "code": "81.05.031.020",
+    "villageCode": "020",
+    "districtCode": "81.05.031",
+    "name": "Wahayum",
+    "alias": "Wahayum"
+  },
+  {
+    "code": "81.05.031.021",
+    "villageCode": "021",
+    "districtCode": "81.05.031",
+    "name": "Jerwatu",
+    "alias": "Jerwatu"
+  },
+  {
+    "code": "81.05.031.023",
+    "villageCode": "023",
+    "districtCode": "81.05.031",
+    "name": "Wahangulangula",
+    "alias": "Wahangulangula"
+  },
+  {
+    "code": "81.05.031.024",
+    "villageCode": "024",
+    "districtCode": "81.05.031",
+    "name": "Kaibolafin",
+    "alias": "Kaibolafin"
+  },
+  {
+    "code": "81.05.031.025",
+    "villageCode": "025",
+    "districtCode": "81.05.031",
+    "name": "Tasinwaha",
+    "alias": "Tasinwaha"
+  },
+  {
+    "code": "81.05.031.026",
+    "villageCode": "026",
+    "districtCode": "81.05.031",
+    "name": "Kabufin",
+    "alias": "Kabufin"
+  }
+]

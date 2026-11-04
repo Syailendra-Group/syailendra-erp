@@ -1,0 +1,65 @@
+[
+  {
+    "code": "71.73.020.001",
+    "villageCode": "001",
+    "districtCode": "71.73.020",
+    "name": "Matani Tiga",
+    "alias": "Matani Tiga"
+  },
+  {
+    "code": "71.73.020.002",
+    "villageCode": "002",
+    "districtCode": "71.73.020",
+    "name": "Matani Dua",
+    "alias": "Matani Dua"
+  },
+  {
+    "code": "71.73.020.003",
+    "villageCode": "003",
+    "districtCode": "71.73.020",
+    "name": "Matani Satu",
+    "alias": "Matani Satu"
+  },
+  {
+    "code": "71.73.020.005",
+    "villageCode": "005",
+    "districtCode": "71.73.020",
+    "name": "Kolongan",
+    "alias": "Kolongan"
+  },
+  {
+    "code": "71.73.020.011",
+    "villageCode": "011",
+    "districtCode": "71.73.020",
+    "name": "Kamasi",
+    "alias": "Kamasi"
+  },
+  {
+    "code": "71.73.020.016",
+    "villageCode": "016",
+    "districtCode": "71.73.020",
+    "name": "Talete Satu",
+    "alias": "Talete Satu"
+  },
+  {
+    "code": "71.73.020.017",
+    "villageCode": "017",
+    "districtCode": "71.73.020",
+    "name": "Talete Dua",
+    "alias": "Talete Dua"
+  },
+  {
+    "code": "71.73.020.018",
+    "villageCode": "018",
+    "districtCode": "71.73.020",
+    "name": "Kolongan Satu",
+    "alias": "Kolongan Satu"
+  },
+  {
+    "code": "71.73.020.019",
+    "villageCode": "019",
+    "districtCode": "71.73.020",
+    "name": "Kamasi Satu",
+    "alias": "Kamasi Satu"
+  }
+]

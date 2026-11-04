@@ -1,0 +1,37 @@
+[
+  {
+    "code": "35.78.180.001",
+    "villageCode": "001",
+    "districtCode": "35.78.180",
+    "name": "Keputran",
+    "alias": "Keputran"
+  },
+  {
+    "code": "35.78.180.002",
+    "villageCode": "002",
+    "districtCode": "35.78.180",
+    "name": "Dr. Sutomo",
+    "alias": "Dr. Sutomo"
+  },
+  {
+    "code": "35.78.180.003",
+    "villageCode": "003",
+    "districtCode": "35.78.180",
+    "name": "Tegalsari",
+    "alias": "Tegalsari"
+  },
+  {
+    "code": "35.78.180.004",
+    "villageCode": "004",
+    "districtCode": "35.78.180",
+    "name": "Wonorejo",
+    "alias": "Wonorejo"
+  },
+  {
+    "code": "35.78.180.005",
+    "villageCode": "005",
+    "districtCode": "35.78.180",
+    "name": "Kedungdoro",
+    "alias": "Kedungdoro"
+  }
+]

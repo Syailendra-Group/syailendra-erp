@@ -1,0 +1,79 @@
+[
+  {
+    "code": "32.05.220.001",
+    "villageCode": "001",
+    "districtCode": "32.05.220",
+    "name": "Pasanggrahan",
+    "alias": "Pasanggrahan"
+  },
+  {
+    "code": "32.05.220.006",
+    "villageCode": "006",
+    "districtCode": "32.05.220",
+    "name": "Sukamukti",
+    "alias": "Sukamukti"
+  },
+  {
+    "code": "32.05.220.007",
+    "villageCode": "007",
+    "districtCode": "32.05.220",
+    "name": "Mekarluyu",
+    "alias": "Mekarluyu"
+  },
+  {
+    "code": "32.05.220.008",
+    "villageCode": "008",
+    "districtCode": "32.05.220",
+    "name": "Sukawening",
+    "alias": "Sukawening"
+  },
+  {
+    "code": "32.05.220.009",
+    "villageCode": "009",
+    "districtCode": "32.05.220",
+    "name": "Sudalarang",
+    "alias": "Sudalarang"
+  },
+  {
+    "code": "32.05.220.010",
+    "villageCode": "010",
+    "districtCode": "32.05.220",
+    "name": "Maripari",
+    "alias": "Maripari"
+  },
+  {
+    "code": "32.05.220.011",
+    "villageCode": "011",
+    "districtCode": "32.05.220",
+    "name": "Sukahaji",
+    "alias": "Sukahaji"
+  },
+  {
+    "code": "32.05.220.012",
+    "villageCode": "012",
+    "districtCode": "32.05.220",
+    "name": "Sukasono",
+    "alias": "Sukasono"
+  },
+  {
+    "code": "32.05.220.013",
+    "villageCode": "013",
+    "districtCode": "32.05.220",
+    "name": "Sukaluyu",
+    "alias": "Sukaluyu"
+  },
+  {
+    "code": "32.05.220.014",
+    "villageCode": "014",
+    "districtCode": "32.05.220",
+    "name": "Mekarwangi",
+    "alias": "Mekarwangi"
+  },
+  {
+    "code": "32.05.220.015",
+    "villageCode": "015",
+    "districtCode": "32.05.220",
+    "name": "Mekarhurip",
+    "alias": "Mekarhurip"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "code": "52.01",
+    "regencyCode": "01",
+    "provinceCode": "52",
+    "provinceName": "Nusa Tenggara Barat",
+    "name": "Kabupaten Lombok Barat",
+    "alias": "Lombok Barat"
+  },
+  {
+    "code": "52.02",
+    "regencyCode": "02",
+    "provinceCode": "52",
+    "provinceName": "Nusa Tenggara Barat",
+    "name": "Kabupaten Lombok Tengah",
+    "alias": "Lombok Tengah"
+  },
+  {
+    "code": "52.03",
+    "regencyCode": "03",
+    "provinceCode": "52",
+    "provinceName": "Nusa Tenggara Barat",
+    "name": "Kabupaten Lombok Timur",
+    "alias": "Lombok Timur"
+  },
+  {
+    "code": "52.04",
+    "regencyCode": "04",
+    "provinceCode": "52",
+    "provinceName": "Nusa Tenggara Barat",
+    "name": "Kabupaten Sumbawa",
+    "alias": "Sumbawa"
+  },
+  {
+    "code": "52.05",
+    "regencyCode": "05",
+    "provinceCode": "52",
+    "provinceName": "Nusa Tenggara Barat",
+    "name": "Kabupaten Dompu",
+    "alias": "Dompu"
+  },
+  {
+    "code": "52.06",
+    "regencyCode": "06",
+    "provinceCode": "52",
+    "provinceName": "Nusa Tenggara Barat",
+    "name": "Kabupaten Bima",
+    "alias": "Bima"
+  },
+  {
+    "code": "52.07",
+    "regencyCode": "07",
+    "provinceCode": "52",
+    "provinceName": "Nusa Tenggara Barat",
+    "name": "Kabupaten Sumbawa Barat",
+    "alias": "Sumbawa Barat"
+  },
+  {
+    "code": "52.08",
+    "regencyCode": "08",
+    "provinceCode": "52",
+    "provinceName": "Nusa Tenggara Barat",
+    "name": "Kabupaten Lombok Utara",
+    "alias": "Lombok Utara"
+  },
+  {
+    "code": "52.71",
+    "regencyCode": "71",
+    "provinceCode": "52",
+    "provinceName": "Nusa Tenggara Barat",
+    "name": "Kota Mataram",
+    "alias": "Mataram"
+  },
+  {
+    "code": "52.72",
+    "regencyCode": "72",
+    "provinceCode": "52",
+    "provinceName": "Nusa Tenggara Barat",
+    "name": "Kota Bima",
+    "alias": "Bima"
+  }
+]

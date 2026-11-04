@@ -1,0 +1,86 @@
+[
+  {
+    "code": "72.10.090.001",
+    "villageCode": "001",
+    "districtCode": "72.10.090",
+    "name": "Bobo",
+    "alias": "Bobo"
+  },
+  {
+    "code": "72.10.090.002",
+    "villageCode": "002",
+    "districtCode": "72.10.090",
+    "name": "Mantikole",
+    "alias": "Mantikole"
+  },
+  {
+    "code": "72.10.090.003",
+    "villageCode": "003",
+    "districtCode": "72.10.090",
+    "name": "Pesaku",
+    "alias": "Pesaku"
+  },
+  {
+    "code": "72.10.090.004",
+    "villageCode": "004",
+    "districtCode": "72.10.090",
+    "name": "Balomoa",
+    "alias": "Balomoa"
+  },
+  {
+    "code": "72.10.090.005",
+    "villageCode": "005",
+    "districtCode": "72.10.090",
+    "name": "Rarampadende",
+    "alias": "Rarampadende"
+  },
+  {
+    "code": "72.10.090.006",
+    "villageCode": "006",
+    "districtCode": "72.10.090",
+    "name": "Balumpewa",
+    "alias": "Balumpewa"
+  },
+  {
+    "code": "72.10.090.007",
+    "villageCode": "007",
+    "districtCode": "72.10.090",
+    "name": "Kaleke",
+    "alias": "Kaleke"
+  },
+  {
+    "code": "72.10.090.008",
+    "villageCode": "008",
+    "districtCode": "72.10.090",
+    "name": "Pewunu",
+    "alias": "Pewunu"
+  },
+  {
+    "code": "72.10.090.009",
+    "villageCode": "009",
+    "districtCode": "72.10.090",
+    "name": "Kalungkutinggu",
+    "alias": "Kalungkutinggu"
+  },
+  {
+    "code": "72.10.090.010",
+    "villageCode": "010",
+    "districtCode": "72.10.090",
+    "name": "Sibonu",
+    "alias": "Sibonu"
+  },
+  {
+    "code": "72.10.090.011",
+    "villageCode": "011",
+    "districtCode": "72.10.090",
+    "name": "Luku",
+    "alias": "Luku"
+  },
+  {
+    "code": "72.10.090.012",
+    "villageCode": "012",
+    "districtCode": "72.10.090",
+    "name": "Balaroa Pewunu",
+    "alias": "Balaroa Pewunu"
+  }
+]

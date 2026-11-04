@@ -1,0 +1,79 @@
+[
+  {
+    "code": "12.02.034.001",
+    "villageCode": "001",
+    "districtCode": "12.02.034",
+    "name": "Huta Tinggi",
+    "alias": "Huta Tinggi"
+  },
+  {
+    "code": "12.02.034.002",
+    "villageCode": "002",
+    "districtCode": "12.02.034",
+    "name": "Hutanamale",
+    "alias": "Hutanamale"
+  },
+  {
+    "code": "12.02.034.003",
+    "villageCode": "003",
+    "districtCode": "12.02.034",
+    "name": "Huta Baringin",
+    "alias": "Huta Baringin"
+  },
+  {
+    "code": "12.02.034.004",
+    "villageCode": "004",
+    "districtCode": "12.02.034",
+    "name": "Sibanggor Julu",
+    "alias": "Sibanggor Julu"
+  },
+  {
+    "code": "12.02.034.005",
+    "villageCode": "005",
+    "districtCode": "12.02.034",
+    "name": "Sibanggor Jae",
+    "alias": "Sibanggor Jae"
+  },
+  {
+    "code": "12.02.034.006",
+    "villageCode": "006",
+    "districtCode": "12.02.034",
+    "name": "Purba Julu",
+    "alias": "Purba Julu"
+  },
+  {
+    "code": "12.02.034.007",
+    "villageCode": "007",
+    "districtCode": "12.02.034",
+    "name": "Sibanggor Tonga",
+    "alias": "Sibanggor Tonga"
+  },
+  {
+    "code": "12.02.034.008",
+    "villageCode": "008",
+    "districtCode": "12.02.034",
+    "name": "Huta Lombang",
+    "alias": "Huta Lombang"
+  },
+  {
+    "code": "12.02.034.009",
+    "villageCode": "009",
+    "districtCode": "12.02.034",
+    "name": "Huta Baru",
+    "alias": "Huta Baru"
+  },
+  {
+    "code": "12.02.034.010",
+    "villageCode": "010",
+    "districtCode": "12.02.034",
+    "name": "Handel",
+    "alias": "Handel"
+  },
+  {
+    "code": "12.02.034.011",
+    "villageCode": "011",
+    "districtCode": "12.02.034",
+    "name": "Huta Baringin Julu",
+    "alias": "Huta Baringin Julu"
+  }
+]

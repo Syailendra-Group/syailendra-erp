@@ -1,0 +1,58 @@
+[
+  {
+    "code": "33.20.091.001",
+    "villageCode": "001",
+    "districtCode": "33.20.091",
+    "name": "Lebak",
+    "alias": "Lebak"
+  },
+  {
+    "code": "33.20.091.002",
+    "villageCode": "002",
+    "districtCode": "33.20.091",
+    "name": "Bulungan",
+    "alias": "Bulungan"
+  },
+  {
+    "code": "33.20.091.003",
+    "villageCode": "003",
+    "districtCode": "33.20.091",
+    "name": "Suwawal Timur",
+    "alias": "Suwawal Timur"
+  },
+  {
+    "code": "33.20.091.004",
+    "villageCode": "004",
+    "districtCode": "33.20.091",
+    "name": "Kawak",
+    "alias": "Kawak"
+  },
+  {
+    "code": "33.20.091.005",
+    "villageCode": "005",
+    "districtCode": "33.20.091",
+    "name": "Tanjung",
+    "alias": "Tanjung"
+  },
+  {
+    "code": "33.20.091.006",
+    "villageCode": "006",
+    "districtCode": "33.20.091",
+    "name": "Plajan",
+    "alias": "Plajan"
+  },
+  {
+    "code": "33.20.091.007",
+    "villageCode": "007",
+    "districtCode": "33.20.091",
+    "name": "Slagi",
+    "alias": "Slagi"
+  },
+  {
+    "code": "33.20.091.008",
+    "villageCode": "008",
+    "districtCode": "33.20.091",
+    "name": "Mambak",
+    "alias": "Mambak"
+  }
+]

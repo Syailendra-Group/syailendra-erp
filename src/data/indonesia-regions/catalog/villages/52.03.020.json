@@ -1,0 +1,86 @@
+[
+  {
+    "code": "52.03.020.001",
+    "villageCode": "001",
+    "districtCode": "52.03.020",
+    "name": "Suangi",
+    "alias": "Suangi"
+  },
+  {
+    "code": "52.03.020.012",
+    "villageCode": "012",
+    "districtCode": "52.03.020",
+    "name": "Sakra",
+    "alias": "Sakra"
+  },
+  {
+    "code": "52.03.020.013",
+    "villageCode": "013",
+    "districtCode": "52.03.020",
+    "name": "Kabar",
+    "alias": "Kabar"
+  },
+  {
+    "code": "52.03.020.014",
+    "villageCode": "014",
+    "districtCode": "52.03.020",
+    "name": "Rumbuk",
+    "alias": "Rumbuk"
+  },
+  {
+    "code": "52.03.020.015",
+    "villageCode": "015",
+    "districtCode": "52.03.020",
+    "name": "Keselet",
+    "alias": "Keselet"
+  },
+  {
+    "code": "52.03.020.016",
+    "villageCode": "016",
+    "districtCode": "52.03.020",
+    "name": "Sakra Selatan",
+    "alias": "Sakra Selatan"
+  },
+  {
+    "code": "52.03.020.017",
+    "villageCode": "017",
+    "districtCode": "52.03.020",
+    "name": "Rumbuk Timur",
+    "alias": "Rumbuk Timur"
+  },
+  {
+    "code": "52.03.020.018",
+    "villageCode": "018",
+    "districtCode": "52.03.020",
+    "name": "Suangi Timur",
+    "alias": "Suangi Timur"
+  },
+  {
+    "code": "52.03.020.019",
+    "villageCode": "019",
+    "districtCode": "52.03.020",
+    "name": "Moyot",
+    "alias": "Moyot"
+  },
+  {
+    "code": "52.03.020.020",
+    "villageCode": "020",
+    "districtCode": "52.03.020",
+    "name": "Songak",
+    "alias": "Songak"
+  },
+  {
+    "code": "52.03.020.021",
+    "villageCode": "021",
+    "districtCode": "52.03.020",
+    "name": "Peresak",
+    "alias": "Peresak"
+  },
+  {
+    "code": "52.03.020.022",
+    "villageCode": "022",
+    "districtCode": "52.03.020",
+    "name": "Kuang Baru",
+    "alias": "Kuang Baru"
+  }
+]

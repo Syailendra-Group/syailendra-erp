@@ -1,0 +1,107 @@
+[
+  {
+    "code": "71.07.050.001",
+    "villageCode": "001",
+    "districtCode": "71.07.050",
+    "name": "Komus Dua",
+    "alias": "Komus Dua"
+  },
+  {
+    "code": "71.07.050.002",
+    "villageCode": "002",
+    "districtCode": "71.07.050",
+    "name": "Solo",
+    "alias": "Solo"
+  },
+  {
+    "code": "71.07.050.003",
+    "villageCode": "003",
+    "districtCode": "71.07.050",
+    "name": "Inomunga",
+    "alias": "Inomunga"
+  },
+  {
+    "code": "71.07.050.004",
+    "villageCode": "004",
+    "districtCode": "71.07.050",
+    "name": "Boroko",
+    "alias": "Boroko"
+  },
+  {
+    "code": "71.07.050.005",
+    "villageCode": "005",
+    "districtCode": "71.07.050",
+    "name": "Boroko Timur",
+    "alias": "Boroko Timur"
+  },
+  {
+    "code": "71.07.050.006",
+    "villageCode": "006",
+    "districtCode": "71.07.050",
+    "name": "Bigo",
+    "alias": "Bigo"
+  },
+  {
+    "code": "71.07.050.007",
+    "villageCode": "007",
+    "districtCode": "71.07.050",
+    "name": "Kuala",
+    "alias": "Kuala"
+  },
+  {
+    "code": "71.07.050.008",
+    "villageCode": "008",
+    "districtCode": "71.07.050",
+    "name": "Pontak",
+    "alias": "Pontak"
+  },
+  {
+    "code": "71.07.050.009",
+    "villageCode": "009",
+    "districtCode": "71.07.050",
+    "name": "Kuala Utara",
+    "alias": "Kuala Utara"
+  },
+  {
+    "code": "71.07.050.010",
+    "villageCode": "010",
+    "districtCode": "71.07.050",
+    "name": "Komus Dua Timur",
+    "alias": "Komus Dua Timur"
+  },
+  {
+    "code": "71.07.050.011",
+    "villageCode": "011",
+    "districtCode": "71.07.050",
+    "name": "Inomunga Utara",
+    "alias": "Inomunga Utara"
+  },
+  {
+    "code": "71.07.050.012",
+    "villageCode": "012",
+    "districtCode": "71.07.050",
+    "name": "Bigo Selatan",
+    "alias": "Bigo Selatan"
+  },
+  {
+    "code": "71.07.050.013",
+    "villageCode": "013",
+    "districtCode": "71.07.050",
+    "name": "Soligir",
+    "alias": "Soligir"
+  },
+  {
+    "code": "71.07.050.014",
+    "villageCode": "014",
+    "districtCode": "71.07.050",
+    "name": "Boroko Utara",
+    "alias": "Boroko Utara"
+  },
+  {
+    "code": "71.07.050.015",
+    "villageCode": "015",
+    "districtCode": "71.07.050",
+    "name": "Gihang",
+    "alias": "Gihang"
+  }
+]

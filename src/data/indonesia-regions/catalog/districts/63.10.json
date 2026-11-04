@@ -1,0 +1,98 @@
+[
+  {
+    "code": "63.10.010",
+    "districtCode": "010",
+    "regencyCode": "63.10",
+    "provinceCode": "63",
+    "name": "Kecamatan Kusan Hilir",
+    "alias": "Kusan Hilir"
+  },
+  {
+    "code": "63.10.011",
+    "districtCode": "011",
+    "regencyCode": "63.10",
+    "provinceCode": "63",
+    "name": "Kecamatan Kusan Tengah",
+    "alias": "Kusan Tengah"
+  },
+  {
+    "code": "63.10.020",
+    "districtCode": "020",
+    "regencyCode": "63.10",
+    "provinceCode": "63",
+    "name": "Kecamatan Sungai Loban",
+    "alias": "Sungai Loban"
+  },
+  {
+    "code": "63.10.030",
+    "districtCode": "030",
+    "regencyCode": "63.10",
+    "provinceCode": "63",
+    "name": "Kecamatan Satui",
+    "alias": "Satui"
+  },
+  {
+    "code": "63.10.031",
+    "districtCode": "031",
+    "regencyCode": "63.10",
+    "provinceCode": "63",
+    "name": "Kecamatan Angsana",
+    "alias": "Angsana"
+  },
+  {
+    "code": "63.10.040",
+    "districtCode": "040",
+    "regencyCode": "63.10",
+    "provinceCode": "63",
+    "name": "Kecamatan Kusan Hulu",
+    "alias": "Kusan Hulu"
+  },
+  {
+    "code": "63.10.041",
+    "districtCode": "041",
+    "regencyCode": "63.10",
+    "provinceCode": "63",
+    "name": "Kecamatan Kuranji",
+    "alias": "Kuranji"
+  },
+  {
+    "code": "63.10.042",
+    "districtCode": "042",
+    "regencyCode": "63.10",
+    "provinceCode": "63",
+    "name": "Kecamatan Teluk Kepayang",
+    "alias": "Teluk Kepayang"
+  },
+  {
+    "code": "63.10.050",
+    "districtCode": "050",
+    "regencyCode": "63.10",
+    "provinceCode": "63",
+    "name": "Kecamatan Batu Licin",
+    "alias": "Batu Licin"
+  },
+  {
+    "code": "63.10.051",
+    "districtCode": "051",
+    "regencyCode": "63.10",
+    "provinceCode": "63",
+    "name": "Kecamatan Karang Bintang",
+    "alias": "Karang Bintang"
+  },
+  {
+    "code": "63.10.052",
+    "districtCode": "052",
+    "regencyCode": "63.10",
+    "provinceCode": "63",
+    "name": "Kecamatan Simpang Empat",
+    "alias": "Simpang Empat"
+  },
+  {
+    "code": "63.10.053",
+    "districtCode": "053",
+    "regencyCode": "63.10",
+    "provinceCode": "63",
+    "name": "Kecamatan Mantewe",
+    "alias": "Mantewe"
+  }
+]

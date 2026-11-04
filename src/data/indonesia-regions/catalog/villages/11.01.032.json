@@ -1,0 +1,58 @@
+[
+  {
+    "code": "11.01.032.001",
+    "villageCode": "001",
+    "districtCode": "11.01.032",
+    "name": "Bubuhan",
+    "alias": "Bubuhan"
+  },
+  {
+    "code": "11.01.032.002",
+    "villageCode": "002",
+    "districtCode": "11.01.032",
+    "name": "Amarabu",
+    "alias": "Amarabu"
+  },
+  {
+    "code": "11.01.032.003",
+    "villageCode": "003",
+    "districtCode": "11.01.032",
+    "name": "Kuta Inang",
+    "alias": "Kuta Inang"
+  },
+  {
+    "code": "11.01.032.004",
+    "villageCode": "004",
+    "districtCode": "11.01.032",
+    "name": "Kuta Padang",
+    "alias": "Kuta Padang"
+  },
+  {
+    "code": "11.01.032.005",
+    "villageCode": "005",
+    "districtCode": "11.01.032",
+    "name": "Latak Ayah",
+    "alias": "Latak Ayah"
+  },
+  {
+    "code": "11.01.032.006",
+    "villageCode": "006",
+    "districtCode": "11.01.032",
+    "name": "Sibuluh",
+    "alias": "Sibuluh"
+  },
+  {
+    "code": "11.01.032.007",
+    "villageCode": "007",
+    "districtCode": "11.01.032",
+    "name": "Borengan",
+    "alias": "Borengan"
+  },
+  {
+    "code": "11.01.032.008",
+    "villageCode": "008",
+    "districtCode": "11.01.032",
+    "name": "Ujung Padang",
+    "alias": "Ujung Padang"
+  }
+]

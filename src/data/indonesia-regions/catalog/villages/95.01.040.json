@@ -1,0 +1,30 @@
+[
+  {
+    "code": "95.01.040.001",
+    "villageCode": "001",
+    "districtCode": "95.01.040",
+    "name": "Bibikem",
+    "alias": "Bibikem"
+  },
+  {
+    "code": "95.01.040.002",
+    "villageCode": "002",
+    "districtCode": "95.01.040",
+    "name": "Uli-Uli",
+    "alias": "Uli-Uli"
+  },
+  {
+    "code": "95.01.040.003",
+    "villageCode": "003",
+    "districtCode": "95.01.040",
+    "name": "Wanam",
+    "alias": "Wanam"
+  },
+  {
+    "code": "95.01.040.004",
+    "villageCode": "004",
+    "districtCode": "95.01.040",
+    "name": "Wogekel",
+    "alias": "Wogekel"
+  }
+]

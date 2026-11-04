@@ -1,0 +1,72 @@
+[
+  {
+    "code": "97.04.460.001",
+    "villageCode": "001",
+    "districtCode": "97.04.460",
+    "name": "Dunda",
+    "alias": "Dunda"
+  },
+  {
+    "code": "97.04.460.002",
+    "villageCode": "002",
+    "districtCode": "97.04.460",
+    "name": "Getiem",
+    "alias": "Getiem"
+  },
+  {
+    "code": "97.04.460.003",
+    "villageCode": "003",
+    "districtCode": "97.04.460",
+    "name": "Tamok  Lamanuk",
+    "alias": "Tamok  Lamanuk"
+  },
+  {
+    "code": "97.04.460.004",
+    "villageCode": "004",
+    "districtCode": "97.04.460",
+    "name": "Wanuk",
+    "alias": "Wanuk"
+  },
+  {
+    "code": "97.04.460.005",
+    "villageCode": "005",
+    "districtCode": "97.04.460",
+    "name": "Rumbepaga",
+    "alias": "Rumbepaga"
+  },
+  {
+    "code": "97.04.460.006",
+    "villageCode": "006",
+    "districtCode": "97.04.460",
+    "name": "Yimbanime",
+    "alias": "Yimbanime"
+  },
+  {
+    "code": "97.04.460.007",
+    "villageCode": "007",
+    "districtCode": "97.04.460",
+    "name": "Silo",
+    "alias": "Silo"
+  },
+  {
+    "code": "97.04.460.008",
+    "villageCode": "008",
+    "districtCode": "97.04.460",
+    "name": "Logi",
+    "alias": "Logi"
+  },
+  {
+    "code": "97.04.460.009",
+    "villageCode": "009",
+    "districtCode": "97.04.460",
+    "name": "Tagi",
+    "alias": "Tagi"
+  },
+  {
+    "code": "97.04.460.010",
+    "villageCode": "010",
+    "districtCode": "97.04.460",
+    "name": "Bini",
+    "alias": "Bini"
+  }
+]

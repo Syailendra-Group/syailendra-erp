@@ -1,0 +1,23 @@
+[
+  {
+    "code": "13.01.031.001",
+    "villageCode": "001",
+    "districtCode": "13.01.031",
+    "name": "Pasakiat Teileleu",
+    "alias": "Pasakiat Teileleu"
+  },
+  {
+    "code": "13.01.031.002",
+    "villageCode": "002",
+    "districtCode": "13.01.031",
+    "name": "Katurei",
+    "alias": "Katurei"
+  },
+  {
+    "code": "13.01.031.003",
+    "villageCode": "003",
+    "districtCode": "13.01.031",
+    "name": "Sagulubbeg",
+    "alias": "Sagulubbeg"
+  }
+]

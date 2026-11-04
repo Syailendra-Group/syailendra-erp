@@ -1,0 +1,51 @@
+[
+  {
+    "code": "53.05.052.001",
+    "villageCode": "001",
+    "districtCode": "53.05.052",
+    "name": "Tunbes",
+    "alias": "Tunbes"
+  },
+  {
+    "code": "53.05.052.002",
+    "villageCode": "002",
+    "districtCode": "53.05.052",
+    "name": "Luniup",
+    "alias": "Luniup"
+  },
+  {
+    "code": "53.05.052.003",
+    "villageCode": "003",
+    "districtCode": "53.05.052",
+    "name": "Matabesi",
+    "alias": "Matabesi"
+  },
+  {
+    "code": "53.05.052.004",
+    "villageCode": "004",
+    "districtCode": "53.05.052",
+    "name": "Kaubele",
+    "alias": "Kaubele"
+  },
+  {
+    "code": "53.05.052.005",
+    "villageCode": "005",
+    "districtCode": "53.05.052",
+    "name": "Oepuah",
+    "alias": "Oepuah"
+  },
+  {
+    "code": "53.05.052.006",
+    "villageCode": "006",
+    "districtCode": "53.05.052",
+    "name": "Oepuah Utara",
+    "alias": "Oepuah Utara"
+  },
+  {
+    "code": "53.05.052.007",
+    "villageCode": "007",
+    "districtCode": "53.05.052",
+    "name": "Oepuah Selatan",
+    "alias": "Oepuah Selatan"
+  }
+]

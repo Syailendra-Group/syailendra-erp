@@ -1,0 +1,162 @@
+[
+  {
+    "code": "18.02.010",
+    "districtCode": "010",
+    "regencyCode": "18.02",
+    "provinceCode": "18",
+    "name": "Kecamatan Wonosobo",
+    "alias": "Wonosobo"
+  },
+  {
+    "code": "18.02.011",
+    "districtCode": "011",
+    "regencyCode": "18.02",
+    "provinceCode": "18",
+    "name": "Kecamatan Semaka",
+    "alias": "Semaka"
+  },
+  {
+    "code": "18.02.012",
+    "districtCode": "012",
+    "regencyCode": "18.02",
+    "provinceCode": "18",
+    "name": "Kecamatan Bandar Negeri Semuong",
+    "alias": "Bandar Negeri Semuong"
+  },
+  {
+    "code": "18.02.020",
+    "districtCode": "020",
+    "regencyCode": "18.02",
+    "provinceCode": "18",
+    "name": "Kecamatan Kota Agung",
+    "alias": "Kota Agung"
+  },
+  {
+    "code": "18.02.021",
+    "districtCode": "021",
+    "regencyCode": "18.02",
+    "provinceCode": "18",
+    "name": "Kecamatan Pematang Sawa",
+    "alias": "Pematang Sawa"
+  },
+  {
+    "code": "18.02.022",
+    "districtCode": "022",
+    "regencyCode": "18.02",
+    "provinceCode": "18",
+    "name": "Kecamatan Kota Agung Timur",
+    "alias": "Kota Agung Timur"
+  },
+  {
+    "code": "18.02.023",
+    "districtCode": "023",
+    "regencyCode": "18.02",
+    "provinceCode": "18",
+    "name": "Kecamatan Kota Agung Barat",
+    "alias": "Kota Agung Barat"
+  },
+  {
+    "code": "18.02.030",
+    "districtCode": "030",
+    "regencyCode": "18.02",
+    "provinceCode": "18",
+    "name": "Kecamatan Pulau Panggung",
+    "alias": "Pulau Panggung"
+  },
+  {
+    "code": "18.02.031",
+    "districtCode": "031",
+    "regencyCode": "18.02",
+    "provinceCode": "18",
+    "name": "Kecamatan Ulubelu",
+    "alias": "Ulubelu"
+  },
+  {
+    "code": "18.02.032",
+    "districtCode": "032",
+    "regencyCode": "18.02",
+    "provinceCode": "18",
+    "name": "Kecamatan Air Naningan",
+    "alias": "Air Naningan"
+  },
+  {
+    "code": "18.02.040",
+    "districtCode": "040",
+    "regencyCode": "18.02",
+    "provinceCode": "18",
+    "name": "Kecamatan Talang Padang",
+    "alias": "Talang Padang"
+  },
+  {
+    "code": "18.02.041",
+    "districtCode": "041",
+    "regencyCode": "18.02",
+    "provinceCode": "18",
+    "name": "Kecamatan Sumberejo",
+    "alias": "Sumberejo"
+  },
+  {
+    "code": "18.02.042",
+    "districtCode": "042",
+    "regencyCode": "18.02",
+    "provinceCode": "18",
+    "name": "Kecamatan Gisting",
+    "alias": "Gisting"
+  },
+  {
+    "code": "18.02.043",
+    "districtCode": "043",
+    "regencyCode": "18.02",
+    "provinceCode": "18",
+    "name": "Kecamatan Gunung Alip",
+    "alias": "Gunung Alip"
+  },
+  {
+    "code": "18.02.050",
+    "districtCode": "050",
+    "regencyCode": "18.02",
+    "provinceCode": "18",
+    "name": "Kecamatan Pugung",
+    "alias": "Pugung"
+  },
+  {
+    "code": "18.02.101",
+    "districtCode": "101",
+    "regencyCode": "18.02",
+    "provinceCode": "18",
+    "name": "Kecamatan Bulok",
+    "alias": "Bulok"
+  },
+  {
+    "code": "18.02.110",
+    "districtCode": "110",
+    "regencyCode": "18.02",
+    "provinceCode": "18",
+    "name": "Kecamatan Cukuh Balak",
+    "alias": "Cukuh Balak"
+  },
+  {
+    "code": "18.02.111",
+    "districtCode": "111",
+    "regencyCode": "18.02",
+    "provinceCode": "18",
+    "name": "Kecamatan Kelumbayan",
+    "alias": "Kelumbayan"
+  },
+  {
+    "code": "18.02.112",
+    "districtCode": "112",
+    "regencyCode": "18.02",
+    "provinceCode": "18",
+    "name": "Kecamatan Limau",
+    "alias": "Limau"
+  },
+  {
+    "code": "18.02.113",
+    "districtCode": "113",
+    "regencyCode": "18.02",
+    "provinceCode": "18",
+    "name": "Kecamatan Kelumbayan Barat",
+    "alias": "Kelumbayan Barat"
+  }
+]

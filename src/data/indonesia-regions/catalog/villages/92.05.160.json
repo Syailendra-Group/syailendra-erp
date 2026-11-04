@@ -1,0 +1,44 @@
+[
+  {
+    "code": "92.05.160.001",
+    "villageCode": "001",
+    "districtCode": "92.05.160",
+    "name": "Krisnos",
+    "alias": "Krisnos"
+  },
+  {
+    "code": "92.05.160.002",
+    "villageCode": "002",
+    "districtCode": "92.05.160",
+    "name": "Syukwes",
+    "alias": "Syukwes"
+  },
+  {
+    "code": "92.05.160.003",
+    "villageCode": "003",
+    "districtCode": "92.05.160",
+    "name": "Syumbab",
+    "alias": "Syumbab"
+  },
+  {
+    "code": "92.05.160.004",
+    "villageCode": "004",
+    "districtCode": "92.05.160",
+    "name": "Sunggak",
+    "alias": "Sunggak"
+  },
+  {
+    "code": "92.05.160.005",
+    "villageCode": "005",
+    "districtCode": "92.05.160",
+    "name": "Resye",
+    "alias": "Resye"
+  },
+  {
+    "code": "92.05.160.006",
+    "villageCode": "006",
+    "districtCode": "92.05.160",
+    "name": "Womom",
+    "alias": "Womom"
+  }
+]

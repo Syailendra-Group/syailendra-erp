@@ -1,0 +1,163 @@
+[
+  {
+    "code": "17.08.050.001",
+    "villageCode": "001",
+    "districtCode": "17.08.050",
+    "name": "Tebat Monok",
+    "alias": "Tebat Monok"
+  },
+  {
+    "code": "17.08.050.002",
+    "villageCode": "002",
+    "districtCode": "17.08.050",
+    "name": "Kelilik",
+    "alias": "Kelilik"
+  },
+  {
+    "code": "17.08.050.003",
+    "villageCode": "003",
+    "districtCode": "17.08.050",
+    "name": "Imigrasi Permu",
+    "alias": "Imigrasi Permu"
+  },
+  {
+    "code": "17.08.050.004",
+    "villageCode": "004",
+    "districtCode": "17.08.050",
+    "name": "Permu",
+    "alias": "Permu"
+  },
+  {
+    "code": "17.08.050.005",
+    "villageCode": "005",
+    "districtCode": "17.08.050",
+    "name": "Pasar Ujung",
+    "alias": "Pasar Ujung"
+  },
+  {
+    "code": "17.08.050.006",
+    "villageCode": "006",
+    "districtCode": "17.08.050",
+    "name": "Karang Endah",
+    "alias": "Karang Endah"
+  },
+  {
+    "code": "17.08.050.007",
+    "villageCode": "007",
+    "districtCode": "17.08.050",
+    "name": "Weskust",
+    "alias": "Weskust"
+  },
+  {
+    "code": "17.08.050.008",
+    "villageCode": "008",
+    "districtCode": "17.08.050",
+    "name": "Kampung Bogor",
+    "alias": "Kampung Bogor"
+  },
+  {
+    "code": "17.08.050.009",
+    "villageCode": "009",
+    "districtCode": "17.08.050",
+    "name": "Pensiunan",
+    "alias": "Pensiunan"
+  },
+  {
+    "code": "17.08.050.010",
+    "villageCode": "010",
+    "districtCode": "17.08.050",
+    "name": "Pasar Kepahiang",
+    "alias": "Pasar Kepahiang"
+  },
+  {
+    "code": "17.08.050.011",
+    "villageCode": "011",
+    "districtCode": "17.08.050",
+    "name": "Dusun Kepahiang",
+    "alias": "Dusun Kepahiang"
+  },
+  {
+    "code": "17.08.050.012",
+    "villageCode": "012",
+    "districtCode": "17.08.050",
+    "name": "Kuto Rejo",
+    "alias": "Kuto Rejo"
+  },
+  {
+    "code": "17.08.050.013",
+    "villageCode": "013",
+    "districtCode": "17.08.050",
+    "name": "Karang Anyar",
+    "alias": "Karang Anyar"
+  },
+  {
+    "code": "17.08.050.014",
+    "villageCode": "014",
+    "districtCode": "17.08.050",
+    "name": "Taba Tebelet",
+    "alias": "Taba Tebelet"
+  },
+  {
+    "code": "17.08.050.015",
+    "villageCode": "015",
+    "districtCode": "17.08.050",
+    "name": "Pelangkian",
+    "alias": "Pelangkian"
+  },
+  {
+    "code": "17.08.050.016",
+    "villageCode": "016",
+    "districtCode": "17.08.050",
+    "name": "Kelobak",
+    "alias": "Kelobak"
+  },
+  {
+    "code": "17.08.050.017",
+    "villageCode": "017",
+    "districtCode": "17.08.050",
+    "name": "Pagar Gunung",
+    "alias": "Pagar Gunung"
+  },
+  {
+    "code": "17.08.050.018",
+    "villageCode": "018",
+    "districtCode": "17.08.050",
+    "name": "Suka Merindu",
+    "alias": "Suka Merindu"
+  },
+  {
+    "code": "17.08.050.019",
+    "villageCode": "019",
+    "districtCode": "17.08.050",
+    "name": "Kampung Pensiunan",
+    "alias": "Kampung Pensiunan"
+  },
+  {
+    "code": "17.08.050.020",
+    "villageCode": "020",
+    "districtCode": "17.08.050",
+    "name": "Pasar Sejantung",
+    "alias": "Pasar Sejantung"
+  },
+  {
+    "code": "17.08.050.021",
+    "villageCode": "021",
+    "districtCode": "17.08.050",
+    "name": "Padang Lekat",
+    "alias": "Padang Lekat"
+  },
+  {
+    "code": "17.08.050.022",
+    "villageCode": "022",
+    "districtCode": "17.08.050",
+    "name": "Bogor Baru",
+    "alias": "Bogor Baru"
+  },
+  {
+    "code": "17.08.050.023",
+    "villageCode": "023",
+    "districtCode": "17.08.050",
+    "name": "Permu Bawah",
+    "alias": "Permu Bawah"
+  }
+]

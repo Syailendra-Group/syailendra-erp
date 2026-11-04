@@ -1,0 +1,37 @@
+[
+  {
+    "code": "32.05.270.001",
+    "villageCode": "001",
+    "districtCode": "32.05.270",
+    "name": "Cipareuan",
+    "alias": "Cipareuan"
+  },
+  {
+    "code": "32.05.270.002",
+    "villageCode": "002",
+    "districtCode": "32.05.270",
+    "name": "Cibiuk Kidul",
+    "alias": "Cibiuk Kidul"
+  },
+  {
+    "code": "32.05.270.003",
+    "villageCode": "003",
+    "districtCode": "32.05.270",
+    "name": "Cibiuk Kaler",
+    "alias": "Cibiuk Kaler"
+  },
+  {
+    "code": "32.05.270.004",
+    "villageCode": "004",
+    "districtCode": "32.05.270",
+    "name": "Majasari",
+    "alias": "Majasari"
+  },
+  {
+    "code": "32.05.270.005",
+    "villageCode": "005",
+    "districtCode": "32.05.270",
+    "name": "Lingkungpasir",
+    "alias": "Lingkungpasir"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "code": "32.73.100.001",
+    "villageCode": "001",
+    "districtCode": "32.73.100",
+    "name": "Derwati",
+    "alias": "Derwati"
+  },
+  {
+    "code": "32.73.100.002",
+    "villageCode": "002",
+    "districtCode": "32.73.100",
+    "name": "Cipamokolan",
+    "alias": "Cipamokolan"
+  },
+  {
+    "code": "32.73.100.005",
+    "villageCode": "005",
+    "districtCode": "32.73.100",
+    "name": "Manjahlega",
+    "alias": "Manjahlega"
+  },
+  {
+    "code": "32.73.100.006",
+    "villageCode": "006",
+    "districtCode": "32.73.100",
+    "name": "Mekarjaya",
+    "alias": "Mekarjaya"
+  }
+]

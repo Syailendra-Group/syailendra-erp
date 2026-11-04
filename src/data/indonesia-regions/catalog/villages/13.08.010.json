@@ -1,0 +1,51 @@
+[
+  {
+    "code": "13.08.010.001",
+    "villageCode": "001",
+    "districtCode": "13.08.010",
+    "name": "Sungai Beringin",
+    "alias": "Sungai Beringin"
+  },
+  {
+    "code": "13.08.010.002",
+    "villageCode": "002",
+    "districtCode": "13.08.010",
+    "name": "Koto Baru Simalanggang",
+    "alias": "Koto Baru Simalanggang"
+  },
+  {
+    "code": "13.08.010.003",
+    "villageCode": "003",
+    "districtCode": "13.08.010",
+    "name": "Simalanggang",
+    "alias": "Simalanggang"
+  },
+  {
+    "code": "13.08.010.004",
+    "villageCode": "004",
+    "districtCode": "13.08.010",
+    "name": "Koto Tangah Simalanggang",
+    "alias": "Koto Tangah Simalanggang"
+  },
+  {
+    "code": "13.08.010.005",
+    "villageCode": "005",
+    "districtCode": "13.08.010",
+    "name": "Taeh Baruah",
+    "alias": "Taeh Baruah"
+  },
+  {
+    "code": "13.08.010.006",
+    "villageCode": "006",
+    "districtCode": "13.08.010",
+    "name": "Piobang",
+    "alias": "Piobang"
+  },
+  {
+    "code": "13.08.010.007",
+    "villageCode": "007",
+    "districtCode": "13.08.010",
+    "name": "Taeh Bukik",
+    "alias": "Taeh Bukik"
+  }
+]

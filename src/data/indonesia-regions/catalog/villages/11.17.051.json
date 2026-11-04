@@ -1,0 +1,86 @@
+[
+  {
+    "code": "11.17.051.001",
+    "villageCode": "001",
+    "districtCode": "11.17.051",
+    "name": "Bener Lukup Ii",
+    "alias": "Bener Lukup Ii"
+  },
+  {
+    "code": "11.17.051.002",
+    "villageCode": "002",
+    "districtCode": "11.17.051",
+    "name": "Bener Kelipah Utara",
+    "alias": "Bener Kelipah Utara"
+  },
+  {
+    "code": "11.17.051.003",
+    "villageCode": "003",
+    "districtCode": "11.17.051",
+    "name": "Bener Kelipah Selatan",
+    "alias": "Bener Kelipah Selatan"
+  },
+  {
+    "code": "11.17.051.004",
+    "villageCode": "004",
+    "districtCode": "11.17.051",
+    "name": "Bintang Musara",
+    "alias": "Bintang Musara"
+  },
+  {
+    "code": "11.17.051.005",
+    "villageCode": "005",
+    "districtCode": "11.17.051",
+    "name": "Bandar Jaya",
+    "alias": "Bandar Jaya"
+  },
+  {
+    "code": "11.17.051.006",
+    "villageCode": "006",
+    "districtCode": "11.17.051",
+    "name": "Nosar Tawar Jaya",
+    "alias": "Nosar Tawar Jaya"
+  },
+  {
+    "code": "11.17.051.007",
+    "villageCode": "007",
+    "districtCode": "11.17.051",
+    "name": "Jongok Meluem",
+    "alias": "Jongok Meluem"
+  },
+  {
+    "code": "11.17.051.008",
+    "villageCode": "008",
+    "districtCode": "11.17.051",
+    "name": "Suku Bener",
+    "alias": "Suku Bener"
+  },
+  {
+    "code": "11.17.051.009",
+    "villageCode": "009",
+    "districtCode": "11.17.051",
+    "name": "Lot Bener Kelipah",
+    "alias": "Lot Bener Kelipah"
+  },
+  {
+    "code": "11.17.051.010",
+    "villageCode": "010",
+    "districtCode": "11.17.051",
+    "name": "Kala Tenang",
+    "alias": "Kala Tenang"
+  },
+  {
+    "code": "11.17.051.011",
+    "villageCode": "011",
+    "districtCode": "11.17.051",
+    "name": "Gunung Musara",
+    "alias": "Gunung Musara"
+  },
+  {
+    "code": "11.17.051.012",
+    "villageCode": "012",
+    "districtCode": "11.17.051",
+    "name": "Nosar Baru",
+    "alias": "Nosar Baru"
+  }
+]

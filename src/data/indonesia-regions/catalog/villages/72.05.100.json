@@ -1,0 +1,93 @@
+[
+  {
+    "code": "72.05.100.001",
+    "villageCode": "001",
+    "districtCode": "72.05.100",
+    "name": "Dalaka",
+    "alias": "Dalaka"
+  },
+  {
+    "code": "72.05.100.002",
+    "villageCode": "002",
+    "districtCode": "72.05.100",
+    "name": "Lero",
+    "alias": "Lero"
+  },
+  {
+    "code": "72.05.100.003",
+    "villageCode": "003",
+    "districtCode": "72.05.100",
+    "name": "Toaya",
+    "alias": "Toaya"
+  },
+  {
+    "code": "72.05.100.004",
+    "villageCode": "004",
+    "districtCode": "72.05.100",
+    "name": "Sumari",
+    "alias": "Sumari"
+  },
+  {
+    "code": "72.05.100.005",
+    "villageCode": "005",
+    "districtCode": "72.05.100",
+    "name": "Taripa",
+    "alias": "Taripa"
+  },
+  {
+    "code": "72.05.100.006",
+    "villageCode": "006",
+    "districtCode": "72.05.100",
+    "name": "Masaingi",
+    "alias": "Masaingi"
+  },
+  {
+    "code": "72.05.100.007",
+    "villageCode": "007",
+    "districtCode": "72.05.100",
+    "name": "Marana",
+    "alias": "Marana"
+  },
+  {
+    "code": "72.05.100.008",
+    "villageCode": "008",
+    "districtCode": "72.05.100",
+    "name": "Enu",
+    "alias": "Enu"
+  },
+  {
+    "code": "72.05.100.016",
+    "villageCode": "016",
+    "districtCode": "72.05.100",
+    "name": "Lero Tatari",
+    "alias": "Lero Tatari"
+  },
+  {
+    "code": "72.05.100.017",
+    "villageCode": "017",
+    "districtCode": "72.05.100",
+    "name": "Toaya Vunta",
+    "alias": "Toaya Vunta"
+  },
+  {
+    "code": "72.05.100.018",
+    "villageCode": "018",
+    "districtCode": "72.05.100",
+    "name": "Kumbasa",
+    "alias": "Kumbasa"
+  },
+  {
+    "code": "72.05.100.020",
+    "villageCode": "020",
+    "districtCode": "72.05.100",
+    "name": "Amal",
+    "alias": "Amal"
+  },
+  {
+    "code": "72.05.100.021",
+    "villageCode": "021",
+    "districtCode": "72.05.100",
+    "name": "Kavaya",
+    "alias": "Kavaya"
+  }
+]

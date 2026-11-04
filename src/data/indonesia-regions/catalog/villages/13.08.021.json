@@ -1,0 +1,58 @@
+[
+  {
+    "code": "13.08.021.001",
+    "villageCode": "001",
+    "districtCode": "13.08.021",
+    "name": "Halaban",
+    "alias": "Halaban"
+  },
+  {
+    "code": "13.08.021.002",
+    "villageCode": "002",
+    "districtCode": "13.08.021",
+    "name": "Ampalu",
+    "alias": "Ampalu"
+  },
+  {
+    "code": "13.08.021.003",
+    "villageCode": "003",
+    "districtCode": "13.08.021",
+    "name": "Tanjuang Gadang",
+    "alias": "Tanjuang Gadang"
+  },
+  {
+    "code": "13.08.021.004",
+    "villageCode": "004",
+    "districtCode": "13.08.021",
+    "name": "Sitanang",
+    "alias": "Sitanang"
+  },
+  {
+    "code": "13.08.021.005",
+    "villageCode": "005",
+    "districtCode": "13.08.021",
+    "name": "Batu Payuang",
+    "alias": "Batu Payuang"
+  },
+  {
+    "code": "13.08.021.006",
+    "villageCode": "006",
+    "districtCode": "13.08.021",
+    "name": "Labuah Gunuang",
+    "alias": "Labuah Gunuang"
+  },
+  {
+    "code": "13.08.021.007",
+    "villageCode": "007",
+    "districtCode": "13.08.021",
+    "name": "Balai Panjang",
+    "alias": "Balai Panjang"
+  },
+  {
+    "code": "13.08.021.008",
+    "villageCode": "008",
+    "districtCode": "13.08.021",
+    "name": "Bukik Sikumpa",
+    "alias": "Bukik Sikumpa"
+  }
+]

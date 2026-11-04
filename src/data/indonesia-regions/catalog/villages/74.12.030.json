@@ -1,0 +1,72 @@
+[
+  {
+    "code": "74.12.030.001",
+    "villageCode": "001",
+    "districtCode": "74.12.030",
+    "name": "Puurau",
+    "alias": "Puurau"
+  },
+  {
+    "code": "74.12.030.002",
+    "villageCode": "002",
+    "districtCode": "74.12.030",
+    "name": "Mata Dimba",
+    "alias": "Mata Dimba"
+  },
+  {
+    "code": "74.12.030.003",
+    "villageCode": "003",
+    "districtCode": "74.12.030",
+    "name": "Dimba",
+    "alias": "Dimba"
+  },
+  {
+    "code": "74.12.030.004",
+    "villageCode": "004",
+    "districtCode": "74.12.030",
+    "name": "Patande",
+    "alias": "Patande"
+  },
+  {
+    "code": "74.12.030.005",
+    "villageCode": "005",
+    "districtCode": "74.12.030",
+    "name": "Ladianta",
+    "alias": "Ladianta"
+  },
+  {
+    "code": "74.12.030.006",
+    "villageCode": "006",
+    "districtCode": "74.12.030",
+    "name": "Tangkombuno",
+    "alias": "Tangkombuno"
+  },
+  {
+    "code": "74.12.030.007",
+    "villageCode": "007",
+    "districtCode": "74.12.030",
+    "name": "Baho Bubu",
+    "alias": "Baho Bubu"
+  },
+  {
+    "code": "74.12.030.008",
+    "villageCode": "008",
+    "districtCode": "74.12.030",
+    "name": "Noko",
+    "alias": "Noko"
+  },
+  {
+    "code": "74.12.030.009",
+    "villageCode": "009",
+    "districtCode": "74.12.030",
+    "name": "Bangun Mekar",
+    "alias": "Bangun Mekar"
+  },
+  {
+    "code": "74.12.030.010",
+    "villageCode": "010",
+    "districtCode": "74.12.030",
+    "name": "Watuondo",
+    "alias": "Watuondo"
+  }
+]

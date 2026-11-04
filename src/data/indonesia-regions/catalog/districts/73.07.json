@@ -1,0 +1,74 @@
+[
+  {
+    "code": "73.07.010",
+    "districtCode": "010",
+    "regencyCode": "73.07",
+    "provinceCode": "73",
+    "name": "Kecamatan Sinjai Barat",
+    "alias": "Sinjai Barat"
+  },
+  {
+    "code": "73.07.020",
+    "districtCode": "020",
+    "regencyCode": "73.07",
+    "provinceCode": "73",
+    "name": "Kecamatan Sinjai Borong",
+    "alias": "Sinjai Borong"
+  },
+  {
+    "code": "73.07.030",
+    "districtCode": "030",
+    "regencyCode": "73.07",
+    "provinceCode": "73",
+    "name": "Kecamatan Sinjai Selatan",
+    "alias": "Sinjai Selatan"
+  },
+  {
+    "code": "73.07.040",
+    "districtCode": "040",
+    "regencyCode": "73.07",
+    "provinceCode": "73",
+    "name": "Kecamatan Tellu Limpoe",
+    "alias": "Tellu Limpoe"
+  },
+  {
+    "code": "73.07.050",
+    "districtCode": "050",
+    "regencyCode": "73.07",
+    "provinceCode": "73",
+    "name": "Kecamatan Sinjai Timur",
+    "alias": "Sinjai Timur"
+  },
+  {
+    "code": "73.07.060",
+    "districtCode": "060",
+    "regencyCode": "73.07",
+    "provinceCode": "73",
+    "name": "Kecamatan Sinjai Tengah",
+    "alias": "Sinjai Tengah"
+  },
+  {
+    "code": "73.07.070",
+    "districtCode": "070",
+    "regencyCode": "73.07",
+    "provinceCode": "73",
+    "name": "Kecamatan Sinjai Utara",
+    "alias": "Sinjai Utara"
+  },
+  {
+    "code": "73.07.080",
+    "districtCode": "080",
+    "regencyCode": "73.07",
+    "provinceCode": "73",
+    "name": "Kecamatan Bulupoddo",
+    "alias": "Bulupoddo"
+  },
+  {
+    "code": "73.07.090",
+    "districtCode": "090",
+    "regencyCode": "73.07",
+    "provinceCode": "73",
+    "name": "Kecamatan Pulau Sembilan",
+    "alias": "Pulau Sembilan"
+  }
+]

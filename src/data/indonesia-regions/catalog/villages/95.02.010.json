@@ -1,0 +1,30 @@
+[
+  {
+    "code": "95.02.010.001",
+    "villageCode": "001",
+    "districtCode": "95.02.010",
+    "name": "Kaisa",
+    "alias": "Kaisa"
+  },
+  {
+    "code": "95.02.010.002",
+    "villageCode": "002",
+    "districtCode": "95.02.010",
+    "name": "Bhakti / Wagai",
+    "alias": "Bhakti / Wagai"
+  },
+  {
+    "code": "95.02.010.003",
+    "villageCode": "003",
+    "districtCode": "95.02.010",
+    "name": "Subur",
+    "alias": "Subur"
+  },
+  {
+    "code": "95.02.010.004",
+    "villageCode": "004",
+    "districtCode": "95.02.010",
+    "name": "Aiwat",
+    "alias": "Aiwat"
+  }
+]

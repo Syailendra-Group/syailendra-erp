@@ -1,0 +1,58 @@
+[
+  {
+    "code": "76.06.030.001",
+    "villageCode": "001",
+    "districtCode": "76.06.030",
+    "name": "Sulobaja",
+    "alias": "Sulobaja"
+  },
+  {
+    "code": "76.06.030.002",
+    "villageCode": "002",
+    "districtCode": "76.06.030",
+    "name": "Bambadaru",
+    "alias": "Bambadaru"
+  },
+  {
+    "code": "76.06.030.003",
+    "villageCode": "003",
+    "districtCode": "76.06.030",
+    "name": "Saloadak",
+    "alias": "Saloadak"
+  },
+  {
+    "code": "76.06.030.004",
+    "villageCode": "004",
+    "districtCode": "76.06.030",
+    "name": "Sejati",
+    "alias": "Sejati"
+  },
+  {
+    "code": "76.06.030.005",
+    "villageCode": "005",
+    "districtCode": "76.06.030",
+    "name": "Batu Parigi",
+    "alias": "Batu Parigi"
+  },
+  {
+    "code": "76.06.030.006",
+    "villageCode": "006",
+    "districtCode": "76.06.030",
+    "name": "Polongaan",
+    "alias": "Polongaan"
+  },
+  {
+    "code": "76.06.030.007",
+    "villageCode": "007",
+    "districtCode": "76.06.030",
+    "name": "Mahahe",
+    "alias": "Mahahe"
+  },
+  {
+    "code": "76.06.030.008",
+    "villageCode": "008",
+    "districtCode": "76.06.030",
+    "name": "Tobadak",
+    "alias": "Tobadak"
+  }
+]

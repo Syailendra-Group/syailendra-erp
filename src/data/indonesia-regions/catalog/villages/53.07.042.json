@@ -1,0 +1,30 @@
+[
+  {
+    "code": "53.07.042.001",
+    "villageCode": "001",
+    "districtCode": "53.07.042",
+    "name": "Langkuru",
+    "alias": "Langkuru"
+  },
+  {
+    "code": "53.07.042.002",
+    "villageCode": "002",
+    "districtCode": "53.07.042",
+    "name": "Kailesa",
+    "alias": "Kailesa"
+  },
+  {
+    "code": "53.07.042.003",
+    "villageCode": "003",
+    "districtCode": "53.07.042",
+    "name": "Purnama",
+    "alias": "Purnama"
+  },
+  {
+    "code": "53.07.042.004",
+    "villageCode": "004",
+    "districtCode": "53.07.042",
+    "name": "Langkuru Utara",
+    "alias": "Langkuru Utara"
+  }
+]

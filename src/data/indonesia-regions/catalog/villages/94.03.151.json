@@ -1,0 +1,30 @@
+[
+  {
+    "code": "94.03.151.001",
+    "villageCode": "001",
+    "districtCode": "94.03.151",
+    "name": "Klaisu",
+    "alias": "Klaisu"
+  },
+  {
+    "code": "94.03.151.002",
+    "villageCode": "002",
+    "districtCode": "94.03.151",
+    "name": "Bangai",
+    "alias": "Bangai"
+  },
+  {
+    "code": "94.03.151.003",
+    "villageCode": "003",
+    "districtCode": "94.03.151",
+    "name": "Iwon",
+    "alias": "Iwon"
+  },
+  {
+    "code": "94.03.151.004",
+    "villageCode": "004",
+    "districtCode": "94.03.151",
+    "name": "Omon",
+    "alias": "Omon"
+  }
+]

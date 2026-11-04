@@ -1,0 +1,44 @@
+[
+  {
+    "code": "35.02.061.001",
+    "villageCode": "001",
+    "districtCode": "35.02.061",
+    "name": "Banjarjo",
+    "alias": "Banjarjo"
+  },
+  {
+    "code": "35.02.061.002",
+    "villageCode": "002",
+    "districtCode": "35.02.061",
+    "name": "Pudak Wetan",
+    "alias": "Pudak Wetan"
+  },
+  {
+    "code": "35.02.061.003",
+    "villageCode": "003",
+    "districtCode": "35.02.061",
+    "name": "Pudak Kulon",
+    "alias": "Pudak Kulon"
+  },
+  {
+    "code": "35.02.061.004",
+    "villageCode": "004",
+    "districtCode": "35.02.061",
+    "name": "Krisik",
+    "alias": "Krisik"
+  },
+  {
+    "code": "35.02.061.005",
+    "villageCode": "005",
+    "districtCode": "35.02.061",
+    "name": "Tambang",
+    "alias": "Tambang"
+  },
+  {
+    "code": "35.02.061.006",
+    "villageCode": "006",
+    "districtCode": "35.02.061",
+    "name": "Bareng",
+    "alias": "Bareng"
+  }
+]

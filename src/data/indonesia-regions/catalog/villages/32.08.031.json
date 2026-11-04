@@ -1,0 +1,58 @@
+[
+  {
+    "code": "32.08.031.001",
+    "villageCode": "001",
+    "districtCode": "32.08.031",
+    "name": "Tundagan",
+    "alias": "Tundagan"
+  },
+  {
+    "code": "32.08.031.002",
+    "villageCode": "002",
+    "districtCode": "32.08.031",
+    "name": "Bunigeulis",
+    "alias": "Bunigeulis"
+  },
+  {
+    "code": "32.08.031.003",
+    "villageCode": "003",
+    "districtCode": "32.08.031",
+    "name": "Hantara",
+    "alias": "Hantara"
+  },
+  {
+    "code": "32.08.031.004",
+    "villageCode": "004",
+    "districtCode": "32.08.031",
+    "name": "Cikondang",
+    "alias": "Cikondang"
+  },
+  {
+    "code": "32.08.031.005",
+    "villageCode": "005",
+    "districtCode": "32.08.031",
+    "name": "Pasiragung",
+    "alias": "Pasiragung"
+  },
+  {
+    "code": "32.08.031.006",
+    "villageCode": "006",
+    "districtCode": "32.08.031",
+    "name": "Citapen",
+    "alias": "Citapen"
+  },
+  {
+    "code": "32.08.031.007",
+    "villageCode": "007",
+    "districtCode": "32.08.031",
+    "name": "Pakapasan Hilir",
+    "alias": "Pakapasan Hilir"
+  },
+  {
+    "code": "32.08.031.008",
+    "villageCode": "008",
+    "districtCode": "32.08.031",
+    "name": "Pakapasan Girang",
+    "alias": "Pakapasan Girang"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "code": "32.01.290.001",
+    "villageCode": "001",
+    "districtCode": "32.01.290",
+    "name": "Ciomas",
+    "alias": "Ciomas"
+  },
+  {
+    "code": "32.01.290.002",
+    "villageCode": "002",
+    "districtCode": "32.01.290",
+    "name": "Tapos",
+    "alias": "Tapos"
+  },
+  {
+    "code": "32.01.290.003",
+    "villageCode": "003",
+    "districtCode": "32.01.290",
+    "name": "Batok",
+    "alias": "Batok"
+  },
+  {
+    "code": "32.01.290.004",
+    "villageCode": "004",
+    "districtCode": "32.01.290",
+    "name": "Babakan",
+    "alias": "Babakan"
+  },
+  {
+    "code": "32.01.290.005",
+    "villageCode": "005",
+    "districtCode": "32.01.290",
+    "name": "Bojong",
+    "alias": "Bojong"
+  },
+  {
+    "code": "32.01.290.006",
+    "villageCode": "006",
+    "districtCode": "32.01.290",
+    "name": "Singabraja",
+    "alias": "Singabraja"
+  },
+  {
+    "code": "32.01.290.007",
+    "villageCode": "007",
+    "districtCode": "32.01.290",
+    "name": "Tenjo",
+    "alias": "Tenjo"
+  },
+  {
+    "code": "32.01.290.008",
+    "villageCode": "008",
+    "districtCode": "32.01.290",
+    "name": "Cilaku",
+    "alias": "Cilaku"
+  },
+  {
+    "code": "32.01.290.009",
+    "villageCode": "009",
+    "districtCode": "32.01.290",
+    "name": "Singabangsa",
+    "alias": "Singabangsa"
+  }
+]

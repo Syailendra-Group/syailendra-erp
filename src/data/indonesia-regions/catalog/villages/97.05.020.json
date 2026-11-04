@@ -1,0 +1,44 @@
+[
+  {
+    "code": "97.05.020.001",
+    "villageCode": "001",
+    "districtCode": "97.05.020",
+    "name": "Melenggama",
+    "alias": "Melenggama"
+  },
+  {
+    "code": "97.05.020.002",
+    "villageCode": "002",
+    "districtCode": "97.05.020",
+    "name": "Wirima",
+    "alias": "Wirima"
+  },
+  {
+    "code": "97.05.020.003",
+    "villageCode": "003",
+    "districtCode": "97.05.020",
+    "name": "Ilugwa",
+    "alias": "Ilugwa"
+  },
+  {
+    "code": "97.05.020.004",
+    "villageCode": "004",
+    "districtCode": "97.05.020",
+    "name": "Kalarin",
+    "alias": "Kalarin"
+  },
+  {
+    "code": "97.05.020.005",
+    "villageCode": "005",
+    "districtCode": "97.05.020",
+    "name": "Danama",
+    "alias": "Danama"
+  },
+  {
+    "code": "97.05.020.006",
+    "villageCode": "006",
+    "districtCode": "97.05.020",
+    "name": "Ilusilimo",
+    "alias": "Ilusilimo"
+  }
+]

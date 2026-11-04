@@ -1,0 +1,65 @@
+[
+  {
+    "code": "75.02.010.006",
+    "villageCode": "006",
+    "districtCode": "75.02.010",
+    "name": "Lamu",
+    "alias": "Lamu"
+  },
+  {
+    "code": "75.02.010.007",
+    "villageCode": "007",
+    "districtCode": "75.02.010",
+    "name": "Tontayuo",
+    "alias": "Tontayuo"
+  },
+  {
+    "code": "75.02.010.008",
+    "villageCode": "008",
+    "districtCode": "75.02.010",
+    "name": "Biluhu Timur",
+    "alias": "Biluhu Timur"
+  },
+  {
+    "code": "75.02.010.009",
+    "villageCode": "009",
+    "districtCode": "75.02.010",
+    "name": "Kayubulan",
+    "alias": "Kayubulan"
+  },
+  {
+    "code": "75.02.010.010",
+    "villageCode": "010",
+    "districtCode": "75.02.010",
+    "name": "Lopo",
+    "alias": "Lopo"
+  },
+  {
+    "code": "75.02.010.011",
+    "villageCode": "011",
+    "districtCode": "75.02.010",
+    "name": "Bongo",
+    "alias": "Bongo"
+  },
+  {
+    "code": "75.02.010.013",
+    "villageCode": "013",
+    "districtCode": "75.02.010",
+    "name": "Olimoo O",
+    "alias": "Olimoo O"
+  },
+  {
+    "code": "75.02.010.014",
+    "villageCode": "014",
+    "districtCode": "75.02.010",
+    "name": "Langgula",
+    "alias": "Langgula"
+  },
+  {
+    "code": "75.02.010.015",
+    "villageCode": "015",
+    "districtCode": "75.02.010",
+    "name": "Buhudaa",
+    "alias": "Buhudaa"
+  }
+]

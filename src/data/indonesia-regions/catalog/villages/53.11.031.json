@@ -1,0 +1,44 @@
+[
+  {
+    "code": "53.11.031.001",
+    "villageCode": "001",
+    "districtCode": "53.11.031",
+    "name": "Kel. Mautapaga",
+    "alias": "Kel. Mautapaga"
+  },
+  {
+    "code": "53.11.031.002",
+    "villageCode": "002",
+    "districtCode": "53.11.031",
+    "name": "Kel. Rewarangga",
+    "alias": "Kel. Rewarangga"
+  },
+  {
+    "code": "53.11.031.003",
+    "villageCode": "003",
+    "districtCode": "53.11.031",
+    "name": "Kedebodu",
+    "alias": "Kedebodu"
+  },
+  {
+    "code": "53.11.031.004",
+    "villageCode": "004",
+    "districtCode": "53.11.031",
+    "name": "Ndungga",
+    "alias": "Ndungga"
+  },
+  {
+    "code": "53.11.031.005",
+    "villageCode": "005",
+    "districtCode": "53.11.031",
+    "name": "Tiwutewa",
+    "alias": "Tiwutewa"
+  },
+  {
+    "code": "53.11.031.006",
+    "villageCode": "006",
+    "districtCode": "53.11.031",
+    "name": "Kel. Rewarangga Selatan",
+    "alias": "Kel. Rewarangga Selatan"
+  }
+]

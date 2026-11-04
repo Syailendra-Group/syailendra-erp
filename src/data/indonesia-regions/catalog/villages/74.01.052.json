@@ -1,0 +1,79 @@
+[
+  {
+    "code": "74.01.052.001",
+    "villageCode": "001",
+    "districtCode": "74.01.052",
+    "name": "Walompo",
+    "alias": "Walompo"
+  },
+  {
+    "code": "74.01.052.002",
+    "villageCode": "002",
+    "districtCode": "74.01.052",
+    "name": "Matanauwe",
+    "alias": "Matanauwe"
+  },
+  {
+    "code": "74.01.052.003",
+    "villageCode": "003",
+    "districtCode": "74.01.052",
+    "name": "Sampuabalo",
+    "alias": "Sampuabalo"
+  },
+  {
+    "code": "74.01.052.004",
+    "villageCode": "004",
+    "districtCode": "74.01.052",
+    "name": "Kuraa",
+    "alias": "Kuraa"
+  },
+  {
+    "code": "74.01.052.005",
+    "villageCode": "005",
+    "districtCode": "74.01.052",
+    "name": "Kumbewaha",
+    "alias": "Kumbewaha"
+  },
+  {
+    "code": "74.01.052.006",
+    "villageCode": "006",
+    "districtCode": "74.01.052",
+    "name": "Sumber Sari",
+    "alias": "Sumber Sari"
+  },
+  {
+    "code": "74.01.052.007",
+    "villageCode": "007",
+    "districtCode": "74.01.052",
+    "name": "Labuandiri",
+    "alias": "Labuandiri"
+  },
+  {
+    "code": "74.01.052.008",
+    "villageCode": "008",
+    "districtCode": "74.01.052",
+    "name": "Karya Jaya",
+    "alias": "Karya Jaya"
+  },
+  {
+    "code": "74.01.052.009",
+    "villageCode": "009",
+    "districtCode": "74.01.052",
+    "name": "Manuru",
+    "alias": "Manuru"
+  },
+  {
+    "code": "74.01.052.010",
+    "villageCode": "010",
+    "districtCode": "74.01.052",
+    "name": "Bahari Makmur",
+    "alias": "Bahari Makmur"
+  },
+  {
+    "code": "74.01.052.011",
+    "villageCode": "011",
+    "districtCode": "74.01.052",
+    "name": "Gunung Jaya",
+    "alias": "Gunung Jaya"
+  }
+]

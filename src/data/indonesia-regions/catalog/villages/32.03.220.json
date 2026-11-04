@@ -1,0 +1,51 @@
+[
+  {
+    "code": "32.03.220.001",
+    "villageCode": "001",
+    "districtCode": "32.03.220",
+    "name": "Ciputri",
+    "alias": "Ciputri"
+  },
+  {
+    "code": "32.03.220.002",
+    "villageCode": "002",
+    "districtCode": "32.03.220",
+    "name": "Ciherang",
+    "alias": "Ciherang"
+  },
+  {
+    "code": "32.03.220.003",
+    "villageCode": "003",
+    "districtCode": "32.03.220",
+    "name": "Cipendawa",
+    "alias": "Cipendawa"
+  },
+  {
+    "code": "32.03.220.004",
+    "villageCode": "004",
+    "districtCode": "32.03.220",
+    "name": "Cibodas",
+    "alias": "Cibodas"
+  },
+  {
+    "code": "32.03.220.005",
+    "villageCode": "005",
+    "districtCode": "32.03.220",
+    "name": "Gadog",
+    "alias": "Gadog"
+  },
+  {
+    "code": "32.03.220.008",
+    "villageCode": "008",
+    "districtCode": "32.03.220",
+    "name": "Sukatani",
+    "alias": "Sukatani"
+  },
+  {
+    "code": "32.03.220.014",
+    "villageCode": "014",
+    "districtCode": "32.03.220",
+    "name": "Sukanagalih",
+    "alias": "Sukanagalih"
+  }
+]

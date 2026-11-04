@@ -1,0 +1,30 @@
+[
+  {
+    "code": "53.06.052.001",
+    "villageCode": "001",
+    "districtCode": "53.06.052",
+    "name": "Dubesi",
+    "alias": "Dubesi"
+  },
+  {
+    "code": "53.06.052.002",
+    "villageCode": "002",
+    "districtCode": "53.06.052",
+    "name": "Nanaet",
+    "alias": "Nanaet"
+  },
+  {
+    "code": "53.06.052.003",
+    "villageCode": "003",
+    "districtCode": "53.06.052",
+    "name": "Fohoeka",
+    "alias": "Fohoeka"
+  },
+  {
+    "code": "53.06.052.004",
+    "villageCode": "004",
+    "districtCode": "53.06.052",
+    "name": "Nanaenoe",
+    "alias": "Nanaenoe"
+  }
+]

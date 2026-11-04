@@ -1,0 +1,65 @@
+[
+  {
+    "code": "17.06.040.005",
+    "villageCode": "005",
+    "districtCode": "17.06.040",
+    "name": "Tanah Rekah",
+    "alias": "Tanah Rekah"
+  },
+  {
+    "code": "17.06.040.006",
+    "villageCode": "006",
+    "districtCode": "17.06.040",
+    "name": "Pasar Mukomuko",
+    "alias": "Pasar Mukomuko"
+  },
+  {
+    "code": "17.06.040.007",
+    "villageCode": "007",
+    "districtCode": "17.06.040",
+    "name": "Ujung Padang",
+    "alias": "Ujung Padang"
+  },
+  {
+    "code": "17.06.040.008",
+    "villageCode": "008",
+    "districtCode": "17.06.040",
+    "name": "Pondok Batu",
+    "alias": "Pondok Batu"
+  },
+  {
+    "code": "17.06.040.009",
+    "villageCode": "009",
+    "districtCode": "17.06.040",
+    "name": "Selagan Jaya",
+    "alias": "Selagan Jaya"
+  },
+  {
+    "code": "17.06.040.014",
+    "villageCode": "014",
+    "districtCode": "17.06.040",
+    "name": "Pasar Sebelah",
+    "alias": "Pasar Sebelah"
+  },
+  {
+    "code": "17.06.040.033",
+    "villageCode": "033",
+    "districtCode": "17.06.040",
+    "name": "Koto Jaya",
+    "alias": "Koto Jaya"
+  },
+  {
+    "code": "17.06.040.034",
+    "villageCode": "034",
+    "districtCode": "17.06.040",
+    "name": "Bandar Ratu",
+    "alias": "Bandar Ratu"
+  },
+  {
+    "code": "17.06.040.035",
+    "villageCode": "035",
+    "districtCode": "17.06.040",
+    "name": "Tanah Harapan",
+    "alias": "Tanah Harapan"
+  }
+]

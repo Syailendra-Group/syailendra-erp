@@ -1,0 +1,72 @@
+[
+  {
+    "code": "94.26.024.001",
+    "villageCode": "001",
+    "districtCode": "94.26.024",
+    "name": "Wonti Bokhodaro",
+    "alias": "Wonti Bokhodaro"
+  },
+  {
+    "code": "94.26.024.002",
+    "villageCode": "002",
+    "districtCode": "94.26.024",
+    "name": "Odase",
+    "alias": "Odase"
+  },
+  {
+    "code": "94.26.024.003",
+    "villageCode": "003",
+    "districtCode": "94.26.024",
+    "name": "Wanda",
+    "alias": "Wanda"
+  },
+  {
+    "code": "94.26.024.004",
+    "villageCode": "004",
+    "districtCode": "94.26.024",
+    "name": "Sifuisera",
+    "alias": "Sifuisera"
+  },
+  {
+    "code": "94.26.024.005",
+    "villageCode": "005",
+    "districtCode": "94.26.024",
+    "name": "Borumei",
+    "alias": "Borumei"
+  },
+  {
+    "code": "94.26.024.006",
+    "villageCode": "006",
+    "districtCode": "94.26.024",
+    "name": "Wonti Kai",
+    "alias": "Wonti Kai"
+  },
+  {
+    "code": "94.26.024.007",
+    "villageCode": "007",
+    "districtCode": "94.26.024",
+    "name": "Gheroi",
+    "alias": "Gheroi"
+  },
+  {
+    "code": "94.26.024.008",
+    "villageCode": "008",
+    "districtCode": "94.26.024",
+    "name": "Ghoiwi Samberi",
+    "alias": "Ghoiwi Samberi"
+  },
+  {
+    "code": "94.26.024.009",
+    "villageCode": "009",
+    "districtCode": "94.26.024",
+    "name": "Moyufuri",
+    "alias": "Moyufuri"
+  },
+  {
+    "code": "94.26.024.010",
+    "villageCode": "010",
+    "districtCode": "94.26.024",
+    "name": "Fimore",
+    "alias": "Fimore"
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "code": "11.09.112.001",
+    "villageCode": "001",
+    "districtCode": "11.09.112",
+    "name": "Alue",
+    "alias": "Alue"
+  },
+  {
+    "code": "11.09.112.002",
+    "villageCode": "002",
+    "districtCode": "11.09.112",
+    "name": "Blang Tho",
+    "alias": "Blang Tho"
+  },
+  {
+    "code": "11.09.112.003",
+    "villageCode": "003",
+    "districtCode": "11.09.112",
+    "name": "Asan Tongpeudeng",
+    "alias": "Asan Tongpeudeng"
+  },
+  {
+    "code": "11.09.112.004",
+    "villageCode": "004",
+    "districtCode": "11.09.112",
+    "name": "Mesjid Tongpeudeng",
+    "alias": "Mesjid Tongpeudeng"
+  },
+  {
+    "code": "11.09.112.005",
+    "villageCode": "005",
+    "districtCode": "11.09.112",
+    "name": "Pulo Loih",
+    "alias": "Pulo Loih"
+  },
+  {
+    "code": "11.09.112.006",
+    "villageCode": "006",
+    "districtCode": "11.09.112",
+    "name": "Pulo Raya",
+    "alias": "Pulo Raya"
+  },
+  {
+    "code": "11.09.112.007",
+    "villageCode": "007",
+    "districtCode": "11.09.112",
+    "name": "Paloh Naleung",
+    "alias": "Paloh Naleung"
+  },
+  {
+    "code": "11.09.112.008",
+    "villageCode": "008",
+    "districtCode": "11.09.112",
+    "name": "Dayah Menara",
+    "alias": "Dayah Menara"
+  },
+  {
+    "code": "11.09.112.009",
+    "villageCode": "009",
+    "districtCode": "11.09.112",
+    "name": "Pante Siren",
+    "alias": "Pante Siren"
+  },
+  {
+    "code": "11.09.112.010",
+    "villageCode": "010",
+    "districtCode": "11.09.112",
+    "name": "Uke",
+    "alias": "Uke"
+  },
+  {
+    "code": "11.09.112.011",
+    "villageCode": "011",
+    "districtCode": "11.09.112",
+    "name": "Pante Kulu",
+    "alias": "Pante Kulu"
+  },
+  {
+    "code": "11.09.112.012",
+    "villageCode": "012",
+    "districtCode": "11.09.112",
+    "name": "Cut",
+    "alias": "Cut"
+  },
+  {
+    "code": "11.09.112.013",
+    "villageCode": "013",
+    "districtCode": "11.09.112",
+    "name": "Lingkok",
+    "alias": "Lingkok"
+  }
+]

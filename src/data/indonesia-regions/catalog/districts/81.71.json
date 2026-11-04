@@ -1,0 +1,42 @@
+[
+  {
+    "code": "81.71.010",
+    "districtCode": "010",
+    "regencyCode": "81.71",
+    "provinceCode": "81",
+    "name": "Kecamatan Nusaniwe",
+    "alias": "Nusaniwe"
+  },
+  {
+    "code": "81.71.020",
+    "districtCode": "020",
+    "regencyCode": "81.71",
+    "provinceCode": "81",
+    "name": "Kecamatan Sirimau",
+    "alias": "Sirimau"
+  },
+  {
+    "code": "81.71.021",
+    "districtCode": "021",
+    "regencyCode": "81.71",
+    "provinceCode": "81",
+    "name": "Kecamatan Leitimur Selatan",
+    "alias": "Leitimur Selatan"
+  },
+  {
+    "code": "81.71.030",
+    "districtCode": "030",
+    "regencyCode": "81.71",
+    "provinceCode": "81",
+    "name": "Kecamatan Teluk Ambon Baguala",
+    "alias": "Teluk Ambon Baguala"
+  },
+  {
+    "code": "81.71.031",
+    "districtCode": "031",
+    "regencyCode": "81.71",
+    "provinceCode": "81",
+    "name": "Kecamatan Teluk Ambon",
+    "alias": "Teluk Ambon"
+  }
+]

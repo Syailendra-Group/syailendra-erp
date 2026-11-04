@@ -1,0 +1,65 @@
+[
+  {
+    "code": "81.08.070.001",
+    "villageCode": "001",
+    "districtCode": "81.08.070",
+    "name": "Tela",
+    "alias": "Tela"
+  },
+  {
+    "code": "81.08.070.002",
+    "villageCode": "002",
+    "districtCode": "81.08.070",
+    "name": "Imroing",
+    "alias": "Imroing"
+  },
+  {
+    "code": "81.08.070.003",
+    "villageCode": "003",
+    "districtCode": "81.08.070",
+    "name": "Tepa",
+    "alias": "Tepa"
+  },
+  {
+    "code": "81.08.070.004",
+    "villageCode": "004",
+    "districtCode": "81.08.070",
+    "name": "Letsiara",
+    "alias": "Letsiara"
+  },
+  {
+    "code": "81.08.070.005",
+    "villageCode": "005",
+    "districtCode": "81.08.070",
+    "name": "Manuwui",
+    "alias": "Manuwui"
+  },
+  {
+    "code": "81.08.070.006",
+    "villageCode": "006",
+    "districtCode": "81.08.070",
+    "name": "Hertuti",
+    "alias": "Hertuti"
+  },
+  {
+    "code": "81.08.070.007",
+    "villageCode": "007",
+    "districtCode": "81.08.070",
+    "name": "Lewah",
+    "alias": "Lewah"
+  },
+  {
+    "code": "81.08.070.008",
+    "villageCode": "008",
+    "districtCode": "81.08.070",
+    "name": "Sinairusi",
+    "alias": "Sinairusi"
+  },
+  {
+    "code": "81.08.070.009",
+    "villageCode": "009",
+    "districtCode": "81.08.070",
+    "name": "Yaltubung",
+    "alias": "Yaltubung"
+  }
+]

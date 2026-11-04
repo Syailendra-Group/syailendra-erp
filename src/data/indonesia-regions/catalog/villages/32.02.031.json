@@ -1,0 +1,44 @@
+[
+  {
+    "code": "32.02.031.001",
+    "villageCode": "001",
+    "districtCode": "32.02.031",
+    "name": "Cidahu",
+    "alias": "Cidahu"
+  },
+  {
+    "code": "32.02.031.002",
+    "villageCode": "002",
+    "districtCode": "32.02.031",
+    "name": "Cibitung",
+    "alias": "Cibitung"
+  },
+  {
+    "code": "32.02.031.003",
+    "villageCode": "003",
+    "districtCode": "32.02.031",
+    "name": "Banyuwangi",
+    "alias": "Banyuwangi"
+  },
+  {
+    "code": "32.02.031.004",
+    "villageCode": "004",
+    "districtCode": "32.02.031",
+    "name": "Cibodas",
+    "alias": "Cibodas"
+  },
+  {
+    "code": "32.02.031.005",
+    "villageCode": "005",
+    "districtCode": "32.02.031",
+    "name": "Banyumurni",
+    "alias": "Banyumurni"
+  },
+  {
+    "code": "32.02.031.006",
+    "villageCode": "006",
+    "districtCode": "32.02.031",
+    "name": "Talagamurni",
+    "alias": "Talagamurni"
+  }
+]

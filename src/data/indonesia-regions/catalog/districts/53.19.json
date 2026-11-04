@@ -1,0 +1,98 @@
+[
+  {
+    "code": "53.19.010",
+    "districtCode": "010",
+    "regencyCode": "53.19",
+    "provinceCode": "53",
+    "name": "Kecamatan Borong",
+    "alias": "Borong"
+  },
+  {
+    "code": "53.19.011",
+    "districtCode": "011",
+    "regencyCode": "53.19",
+    "provinceCode": "53",
+    "name": "Kecamatan Rana Mese",
+    "alias": "Rana Mese"
+  },
+  {
+    "code": "53.19.020",
+    "districtCode": "020",
+    "regencyCode": "53.19",
+    "provinceCode": "53",
+    "name": "Kecamatan Kota Komba",
+    "alias": "Kota Komba"
+  },
+  {
+    "code": "53.19.021",
+    "districtCode": "021",
+    "regencyCode": "53.19",
+    "provinceCode": "53",
+    "name": "Kecamatan Kota Komba Utara",
+    "alias": "Kota Komba Utara"
+  },
+  {
+    "code": "53.19.030",
+    "districtCode": "030",
+    "regencyCode": "53.19",
+    "provinceCode": "53",
+    "name": "Kecamatan Elar",
+    "alias": "Elar"
+  },
+  {
+    "code": "53.19.031",
+    "districtCode": "031",
+    "regencyCode": "53.19",
+    "provinceCode": "53",
+    "name": "Kecamatan Elar Selatan",
+    "alias": "Elar Selatan"
+  },
+  {
+    "code": "53.19.040",
+    "districtCode": "040",
+    "regencyCode": "53.19",
+    "provinceCode": "53",
+    "name": "Kecamatan Sambi Rampas",
+    "alias": "Sambi Rampas"
+  },
+  {
+    "code": "53.19.041",
+    "districtCode": "041",
+    "regencyCode": "53.19",
+    "provinceCode": "53",
+    "name": "Kecamatan Congkar",
+    "alias": "Congkar"
+  },
+  {
+    "code": "53.19.050",
+    "districtCode": "050",
+    "regencyCode": "53.19",
+    "provinceCode": "53",
+    "name": "Kecamatan Lamba Leda Selatan",
+    "alias": "Lamba Leda Selatan"
+  },
+  {
+    "code": "53.19.051",
+    "districtCode": "051",
+    "regencyCode": "53.19",
+    "provinceCode": "53",
+    "name": "Kecamatan Lamba Leda Timur",
+    "alias": "Lamba Leda Timur"
+  },
+  {
+    "code": "53.19.060",
+    "districtCode": "060",
+    "regencyCode": "53.19",
+    "provinceCode": "53",
+    "name": "Kecamatan Lamba Leda",
+    "alias": "Lamba Leda"
+  },
+  {
+    "code": "53.19.061",
+    "districtCode": "061",
+    "regencyCode": "53.19",
+    "provinceCode": "53",
+    "name": "Kecamatan Lamba Leda Utara",
+    "alias": "Lamba Leda Utara"
+  }
+]

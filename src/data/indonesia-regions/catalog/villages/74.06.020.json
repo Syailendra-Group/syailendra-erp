@@ -1,0 +1,51 @@
+[
+  {
+    "code": "74.06.020.001",
+    "villageCode": "001",
+    "districtCode": "74.06.020",
+    "name": "Wumbuburo",
+    "alias": "Wumbuburo"
+  },
+  {
+    "code": "74.06.020.002",
+    "villageCode": "002",
+    "districtCode": "74.06.020",
+    "name": "Dongkala",
+    "alias": "Dongkala"
+  },
+  {
+    "code": "74.06.020.003",
+    "villageCode": "003",
+    "districtCode": "74.06.020",
+    "name": "Balo",
+    "alias": "Balo"
+  },
+  {
+    "code": "74.06.020.004",
+    "villageCode": "004",
+    "districtCode": "74.06.020",
+    "name": "Toli-Toli",
+    "alias": "Toli-Toli"
+  },
+  {
+    "code": "74.06.020.005",
+    "villageCode": "005",
+    "districtCode": "74.06.020",
+    "name": "Tapuhaka",
+    "alias": "Tapuhaka"
+  },
+  {
+    "code": "74.06.020.006",
+    "villageCode": "006",
+    "districtCode": "74.06.020",
+    "name": "Bungi-Bungi",
+    "alias": "Bungi-Bungi"
+  },
+  {
+    "code": "74.06.020.007",
+    "villageCode": "007",
+    "districtCode": "74.06.020",
+    "name": "Lambale",
+    "alias": "Lambale"
+  }
+]

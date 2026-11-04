@@ -1,0 +1,72 @@
+[
+  {
+    "code": "72.09.050.001",
+    "villageCode": "001",
+    "districtCode": "72.09.050",
+    "name": "Sansarino",
+    "alias": "Sansarino"
+  },
+  {
+    "code": "72.09.050.002",
+    "villageCode": "002",
+    "districtCode": "72.09.050",
+    "name": "Malotong",
+    "alias": "Malotong"
+  },
+  {
+    "code": "72.09.050.003",
+    "villageCode": "003",
+    "districtCode": "72.09.050",
+    "name": "Bailo",
+    "alias": "Bailo"
+  },
+  {
+    "code": "72.09.050.004",
+    "villageCode": "004",
+    "districtCode": "72.09.050",
+    "name": "Ampana",
+    "alias": "Ampana"
+  },
+  {
+    "code": "72.09.050.010",
+    "villageCode": "010",
+    "districtCode": "72.09.050",
+    "name": "Padang Tumbuo",
+    "alias": "Padang Tumbuo"
+  },
+  {
+    "code": "72.09.050.012",
+    "villageCode": "012",
+    "districtCode": "72.09.050",
+    "name": "Buntongi",
+    "alias": "Buntongi"
+  },
+  {
+    "code": "72.09.050.013",
+    "villageCode": "013",
+    "districtCode": "72.09.050",
+    "name": "Bonerato",
+    "alias": "Bonerato"
+  },
+  {
+    "code": "72.09.050.014",
+    "villageCode": "014",
+    "districtCode": "72.09.050",
+    "name": "Bailo Baru",
+    "alias": "Bailo Baru"
+  },
+  {
+    "code": "72.09.050.015",
+    "villageCode": "015",
+    "districtCode": "72.09.050",
+    "name": "Labiabae",
+    "alias": "Labiabae"
+  },
+  {
+    "code": "72.09.050.017",
+    "villageCode": "017",
+    "districtCode": "72.09.050",
+    "name": "Saluaba",
+    "alias": "Saluaba"
+  }
+]

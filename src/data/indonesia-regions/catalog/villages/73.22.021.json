@@ -1,0 +1,72 @@
+[
+  {
+    "code": "73.22.021.001",
+    "villageCode": "001",
+    "districtCode": "73.22.021",
+    "name": "Lawewe",
+    "alias": "Lawewe"
+  },
+  {
+    "code": "73.22.021.002",
+    "villageCode": "002",
+    "districtCode": "73.22.021",
+    "name": "Lembang-Lembang",
+    "alias": "Lembang-Lembang"
+  },
+  {
+    "code": "73.22.021.003",
+    "villageCode": "003",
+    "districtCode": "73.22.021",
+    "name": "Mukti Jaya",
+    "alias": "Mukti Jaya"
+  },
+  {
+    "code": "73.22.021.004",
+    "villageCode": "004",
+    "districtCode": "73.22.021",
+    "name": "Beringin Jaya",
+    "alias": "Beringin Jaya"
+  },
+  {
+    "code": "73.22.021.005",
+    "villageCode": "005",
+    "districtCode": "73.22.021",
+    "name": "Sumpira",
+    "alias": "Sumpira"
+  },
+  {
+    "code": "73.22.021.006",
+    "villageCode": "006",
+    "districtCode": "73.22.021",
+    "name": "Mekar Sari Jaya",
+    "alias": "Mekar Sari Jaya"
+  },
+  {
+    "code": "73.22.021.007",
+    "villageCode": "007",
+    "districtCode": "73.22.021",
+    "name": "Lara",
+    "alias": "Lara"
+  },
+  {
+    "code": "73.22.021.008",
+    "villageCode": "008",
+    "districtCode": "73.22.021",
+    "name": "Marannu",
+    "alias": "Marannu"
+  },
+  {
+    "code": "73.22.021.009",
+    "villageCode": "009",
+    "districtCode": "73.22.021",
+    "name": "Mukti Tama",
+    "alias": "Mukti Tama"
+  },
+  {
+    "code": "73.22.021.010",
+    "villageCode": "010",
+    "districtCode": "73.22.021",
+    "name": "Polewali",
+    "alias": "Polewali"
+  }
+]

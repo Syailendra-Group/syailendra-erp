@@ -1,0 +1,65 @@
+[
+  {
+    "code": "94.03.161.001",
+    "villageCode": "001",
+    "districtCode": "94.03.161",
+    "name": "Sanggai",
+    "alias": "Sanggai"
+  },
+  {
+    "code": "94.03.161.002",
+    "villageCode": "002",
+    "districtCode": "94.03.161",
+    "name": "Sarmai Atas",
+    "alias": "Sarmai Atas"
+  },
+  {
+    "code": "94.03.161.003",
+    "villageCode": "003",
+    "districtCode": "94.03.161",
+    "name": "Sarmai Bawah",
+    "alias": "Sarmai Bawah"
+  },
+  {
+    "code": "94.03.161.004",
+    "villageCode": "004",
+    "districtCode": "94.03.161",
+    "name": "Yakasib",
+    "alias": "Yakasib"
+  },
+  {
+    "code": "94.03.161.005",
+    "villageCode": "005",
+    "districtCode": "94.03.161",
+    "name": "Besum",
+    "alias": "Besum"
+  },
+  {
+    "code": "94.03.161.006",
+    "villageCode": "006",
+    "districtCode": "94.03.161",
+    "name": "Karya Bumi",
+    "alias": "Karya Bumi"
+  },
+  {
+    "code": "94.03.161.007",
+    "villageCode": "007",
+    "districtCode": "94.03.161",
+    "name": "Imestum",
+    "alias": "Imestum"
+  },
+  {
+    "code": "94.03.161.008",
+    "villageCode": "008",
+    "districtCode": "94.03.161",
+    "name": "Sumbe",
+    "alias": "Sumbe"
+  },
+  {
+    "code": "94.03.161.009",
+    "villageCode": "009",
+    "districtCode": "94.03.161",
+    "name": "Hanggai Hamong",
+    "alias": "Hanggai Hamong"
+  }
+]

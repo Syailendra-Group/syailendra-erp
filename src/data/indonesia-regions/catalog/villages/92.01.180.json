@@ -1,0 +1,30 @@
+[
+  {
+    "code": "92.01.180.001",
+    "villageCode": "001",
+    "districtCode": "92.01.180",
+    "name": "Yensner",
+    "alias": "Yensner"
+  },
+  {
+    "code": "92.01.180.002",
+    "villageCode": "002",
+    "districtCode": "92.01.180",
+    "name": "Urbinasopen",
+    "alias": "Urbinasopen"
+  },
+  {
+    "code": "92.01.180.003",
+    "villageCode": "003",
+    "districtCode": "92.01.180",
+    "name": "Yenbekaki",
+    "alias": "Yenbekaki"
+  },
+  {
+    "code": "92.01.180.004",
+    "villageCode": "004",
+    "districtCode": "92.01.180",
+    "name": "Puper",
+    "alias": "Puper"
+  }
+]

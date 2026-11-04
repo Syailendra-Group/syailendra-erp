@@ -1,0 +1,72 @@
+[
+  {
+    "code": "32.10.151.001",
+    "villageCode": "001",
+    "districtCode": "32.10.151",
+    "name": "Jatisawit",
+    "alias": "Jatisawit"
+  },
+  {
+    "code": "32.10.151.002",
+    "villageCode": "002",
+    "districtCode": "32.10.151",
+    "name": "Leuwikidang",
+    "alias": "Leuwikidang"
+  },
+  {
+    "code": "32.10.151.003",
+    "villageCode": "003",
+    "districtCode": "32.10.151",
+    "name": "Girimukti",
+    "alias": "Girimukti"
+  },
+  {
+    "code": "32.10.151.004",
+    "villageCode": "004",
+    "districtCode": "32.10.151",
+    "name": "Jatimulya",
+    "alias": "Jatimulya"
+  },
+  {
+    "code": "32.10.151.005",
+    "villageCode": "005",
+    "districtCode": "32.10.151",
+    "name": "Wanajaya",
+    "alias": "Wanajaya"
+  },
+  {
+    "code": "32.10.151.006",
+    "villageCode": "006",
+    "districtCode": "32.10.151",
+    "name": "Ranjiwetan",
+    "alias": "Ranjiwetan"
+  },
+  {
+    "code": "32.10.151.007",
+    "villageCode": "007",
+    "districtCode": "32.10.151",
+    "name": "Ranjikulon",
+    "alias": "Ranjikulon"
+  },
+  {
+    "code": "32.10.151.008",
+    "villageCode": "008",
+    "districtCode": "32.10.151",
+    "name": "Gunungsari",
+    "alias": "Gunungsari"
+  },
+  {
+    "code": "32.10.151.009",
+    "villageCode": "009",
+    "districtCode": "32.10.151",
+    "name": "Kasokandel",
+    "alias": "Kasokandel"
+  },
+  {
+    "code": "32.10.151.010",
+    "villageCode": "010",
+    "districtCode": "32.10.151",
+    "name": "Gandasari",
+    "alias": "Gandasari"
+  }
+]

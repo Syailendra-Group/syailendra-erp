@@ -1,0 +1,72 @@
+[
+  {
+    "code": "97.02.170.001",
+    "villageCode": "001",
+    "districtCode": "97.02.170",
+    "name": "Siapma",
+    "alias": "Siapma"
+  },
+  {
+    "code": "97.02.170.002",
+    "villageCode": "002",
+    "districtCode": "97.02.170",
+    "name": "Elabukama",
+    "alias": "Elabukama"
+  },
+  {
+    "code": "97.02.170.003",
+    "villageCode": "003",
+    "districtCode": "97.02.170",
+    "name": "Temia",
+    "alias": "Temia"
+  },
+  {
+    "code": "97.02.170.004",
+    "villageCode": "004",
+    "districtCode": "97.02.170",
+    "name": "Anegera",
+    "alias": "Anegera"
+  },
+  {
+    "code": "97.02.170.005",
+    "villageCode": "005",
+    "districtCode": "97.02.170",
+    "name": "Mulupalek",
+    "alias": "Mulupalek"
+  },
+  {
+    "code": "97.02.170.006",
+    "villageCode": "006",
+    "districtCode": "97.02.170",
+    "name": "Pumasili",
+    "alias": "Pumasili"
+  },
+  {
+    "code": "97.02.170.007",
+    "villageCode": "007",
+    "districtCode": "97.02.170",
+    "name": "Kosihave",
+    "alias": "Kosihave"
+  },
+  {
+    "code": "97.02.170.008",
+    "villageCode": "008",
+    "districtCode": "97.02.170",
+    "name": "Hamuhi",
+    "alias": "Hamuhi"
+  },
+  {
+    "code": "97.02.170.009",
+    "villageCode": "009",
+    "districtCode": "97.02.170",
+    "name": "Yumugima",
+    "alias": "Yumugima"
+  },
+  {
+    "code": "97.02.170.010",
+    "villageCode": "010",
+    "districtCode": "97.02.170",
+    "name": "Abulukmo",
+    "alias": "Abulukmo"
+  }
+]

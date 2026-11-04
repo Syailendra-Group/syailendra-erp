@@ -1,0 +1,72 @@
+[
+  {
+    "code": "97.04.040.001",
+    "villageCode": "001",
+    "districtCode": "97.04.040",
+    "name": "Martelo",
+    "alias": "Martelo"
+  },
+  {
+    "code": "97.04.040.002",
+    "villageCode": "002",
+    "districtCode": "97.04.040",
+    "name": "Egoni",
+    "alias": "Egoni"
+  },
+  {
+    "code": "97.04.040.003",
+    "villageCode": "003",
+    "districtCode": "97.04.040",
+    "name": "Lerewere",
+    "alias": "Lerewere"
+  },
+  {
+    "code": "97.04.040.004",
+    "villageCode": "004",
+    "districtCode": "97.04.040",
+    "name": "Tinggom",
+    "alias": "Tinggom"
+  },
+  {
+    "code": "97.04.040.005",
+    "villageCode": "005",
+    "districtCode": "97.04.040",
+    "name": "Welesi",
+    "alias": "Welesi"
+  },
+  {
+    "code": "97.04.040.006",
+    "villageCode": "006",
+    "districtCode": "97.04.040",
+    "name": "Yakep",
+    "alias": "Yakep"
+  },
+  {
+    "code": "97.04.040.007",
+    "villageCode": "007",
+    "districtCode": "97.04.040",
+    "name": "Baguni",
+    "alias": "Baguni"
+  },
+  {
+    "code": "97.04.040.008",
+    "villageCode": "008",
+    "districtCode": "97.04.040",
+    "name": "Yamulo",
+    "alias": "Yamulo"
+  },
+  {
+    "code": "97.04.040.009",
+    "villageCode": "009",
+    "districtCode": "97.04.040",
+    "name": "Orelukban",
+    "alias": "Orelukban"
+  },
+  {
+    "code": "97.04.040.010",
+    "villageCode": "010",
+    "districtCode": "97.04.040",
+    "name": "Kulutin",
+    "alias": "Kulutin"
+  }
+]

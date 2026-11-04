@@ -1,0 +1,100 @@
+[
+  {
+    "code": "32.10.180.001",
+    "villageCode": "001",
+    "districtCode": "32.10.180",
+    "name": "Mekarjaya",
+    "alias": "Mekarjaya"
+  },
+  {
+    "code": "32.10.180.002",
+    "villageCode": "002",
+    "districtCode": "32.10.180",
+    "name": "Palasah",
+    "alias": "Palasah"
+  },
+  {
+    "code": "32.10.180.003",
+    "villageCode": "003",
+    "districtCode": "32.10.180",
+    "name": "Pakubeureum",
+    "alias": "Pakubeureum"
+  },
+  {
+    "code": "32.10.180.004",
+    "villageCode": "004",
+    "districtCode": "32.10.180",
+    "name": "Sukawana",
+    "alias": "Sukawana"
+  },
+  {
+    "code": "32.10.180.005",
+    "villageCode": "005",
+    "districtCode": "32.10.180",
+    "name": "Kertawinangun",
+    "alias": "Kertawinangun"
+  },
+  {
+    "code": "32.10.180.006",
+    "villageCode": "006",
+    "districtCode": "32.10.180",
+    "name": "Babakan",
+    "alias": "Babakan"
+  },
+  {
+    "code": "32.10.180.007",
+    "villageCode": "007",
+    "districtCode": "32.10.180",
+    "name": "Kertajati",
+    "alias": "Kertajati"
+  },
+  {
+    "code": "32.10.180.008",
+    "villageCode": "008",
+    "districtCode": "32.10.180",
+    "name": "Kertasari",
+    "alias": "Kertasari"
+  },
+  {
+    "code": "32.10.180.009",
+    "villageCode": "009",
+    "districtCode": "32.10.180",
+    "name": "Mekarmulya",
+    "alias": "Mekarmulya"
+  },
+  {
+    "code": "32.10.180.010",
+    "villageCode": "010",
+    "districtCode": "32.10.180",
+    "name": "Sukamulya",
+    "alias": "Sukamulya"
+  },
+  {
+    "code": "32.10.180.011",
+    "villageCode": "011",
+    "districtCode": "32.10.180",
+    "name": "Bantarjati",
+    "alias": "Bantarjati"
+  },
+  {
+    "code": "32.10.180.012",
+    "villageCode": "012",
+    "districtCode": "32.10.180",
+    "name": "Pasiripis",
+    "alias": "Pasiripis"
+  },
+  {
+    "code": "32.10.180.013",
+    "villageCode": "013",
+    "districtCode": "32.10.180",
+    "name": "Sukakerta",
+    "alias": "Sukakerta"
+  },
+  {
+    "code": "32.10.180.014",
+    "villageCode": "014",
+    "districtCode": "32.10.180",
+    "name": "Sahbandar",
+    "alias": "Sahbandar"
+  }
+]

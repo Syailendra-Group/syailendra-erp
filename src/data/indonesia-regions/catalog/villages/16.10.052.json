@@ -1,0 +1,79 @@
+[
+  {
+    "code": "16.10.052.001",
+    "villageCode": "001",
+    "districtCode": "16.10.052",
+    "name": "Suka Merindu",
+    "alias": "Suka Merindu"
+  },
+  {
+    "code": "16.10.052.002",
+    "villageCode": "002",
+    "districtCode": "16.10.052",
+    "name": "Saranglang",
+    "alias": "Saranglang"
+  },
+  {
+    "code": "16.10.052.003",
+    "villageCode": "003",
+    "districtCode": "16.10.052",
+    "name": "Kamal",
+    "alias": "Kamal"
+  },
+  {
+    "code": "16.10.052.004",
+    "villageCode": "004",
+    "districtCode": "16.10.052",
+    "name": "Pulau Negara",
+    "alias": "Pulau Negara"
+  },
+  {
+    "code": "16.10.052.005",
+    "villageCode": "005",
+    "districtCode": "16.10.052",
+    "name": "Seribanding",
+    "alias": "Seribanding"
+  },
+  {
+    "code": "16.10.052.006",
+    "villageCode": "006",
+    "districtCode": "16.10.052",
+    "name": "Talang Pangeran Ulu",
+    "alias": "Talang Pangeran Ulu"
+  },
+  {
+    "code": "16.10.052.007",
+    "villageCode": "007",
+    "districtCode": "16.10.052",
+    "name": "Ulak Kembahang I",
+    "alias": "Ulak Kembahang I"
+  },
+  {
+    "code": "16.10.052.008",
+    "villageCode": "008",
+    "districtCode": "16.10.052",
+    "name": "Ulak Petangisan",
+    "alias": "Ulak Petangisan"
+  },
+  {
+    "code": "16.10.052.009",
+    "villageCode": "009",
+    "districtCode": "16.10.052",
+    "name": "Talang Pangeran Ilir",
+    "alias": "Talang Pangeran Ilir"
+  },
+  {
+    "code": "16.10.052.010",
+    "villageCode": "010",
+    "districtCode": "16.10.052",
+    "name": "Ulak Kembahang Ii",
+    "alias": "Ulak Kembahang Ii"
+  },
+  {
+    "code": "16.10.052.011",
+    "villageCode": "011",
+    "districtCode": "16.10.052",
+    "name": "Arisan Jaya",
+    "alias": "Arisan Jaya"
+  }
+]

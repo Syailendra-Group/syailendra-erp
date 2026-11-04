@@ -1,0 +1,72 @@
+[
+  {
+    "code": "81.07.030.007",
+    "villageCode": "007",
+    "districtCode": "81.07.030",
+    "name": "Bemo",
+    "alias": "Bemo"
+  },
+  {
+    "code": "81.07.030.008",
+    "villageCode": "008",
+    "districtCode": "81.07.030",
+    "name": "Werinama",
+    "alias": "Werinama"
+  },
+  {
+    "code": "81.07.030.009",
+    "villageCode": "009",
+    "districtCode": "81.07.030",
+    "name": "Hatumeten",
+    "alias": "Hatumeten"
+  },
+  {
+    "code": "81.07.030.010",
+    "villageCode": "010",
+    "districtCode": "81.07.030",
+    "name": "Batuasa",
+    "alias": "Batuasa"
+  },
+  {
+    "code": "81.07.030.017",
+    "villageCode": "017",
+    "districtCode": "81.07.030",
+    "name": "Tobo",
+    "alias": "Tobo"
+  },
+  {
+    "code": "81.07.030.018",
+    "villageCode": "018",
+    "districtCode": "81.07.030",
+    "name": "Osong",
+    "alias": "Osong"
+  },
+  {
+    "code": "81.07.030.019",
+    "villageCode": "019",
+    "districtCode": "81.07.030",
+    "name": "Gusalaut",
+    "alias": "Gusalaut"
+  },
+  {
+    "code": "81.07.030.020",
+    "villageCode": "020",
+    "districtCode": "81.07.030",
+    "name": "Tum",
+    "alias": "Tum"
+  },
+  {
+    "code": "81.07.030.021",
+    "villageCode": "021",
+    "districtCode": "81.07.030",
+    "name": "Bemo Perak",
+    "alias": "Bemo Perak"
+  },
+  {
+    "code": "81.07.030.022",
+    "villageCode": "022",
+    "districtCode": "81.07.030",
+    "name": "Funa Naiyaba",
+    "alias": "Funa Naiyaba"
+  }
+]

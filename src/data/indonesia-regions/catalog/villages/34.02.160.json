@@ -1,0 +1,23 @@
+[
+  {
+    "code": "34.02.160.001",
+    "villageCode": "001",
+    "districtCode": "34.02.160",
+    "name": "Triwidadi",
+    "alias": "Triwidadi"
+  },
+  {
+    "code": "34.02.160.002",
+    "villageCode": "002",
+    "districtCode": "34.02.160",
+    "name": "Sendangsari",
+    "alias": "Sendangsari"
+  },
+  {
+    "code": "34.02.160.003",
+    "villageCode": "003",
+    "districtCode": "34.02.160",
+    "name": "Guwosari",
+    "alias": "Guwosari"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "code": "18.02.101.001",
+    "villageCode": "001",
+    "districtCode": "18.02.101",
+    "name": "Sinarpetir",
+    "alias": "Sinarpetir"
+  },
+  {
+    "code": "18.02.101.002",
+    "villageCode": "002",
+    "districtCode": "18.02.101",
+    "name": "Napal",
+    "alias": "Napal"
+  },
+  {
+    "code": "18.02.101.003",
+    "villageCode": "003",
+    "districtCode": "18.02.101",
+    "name": "Gunung Terang",
+    "alias": "Gunung Terang"
+  },
+  {
+    "code": "18.02.101.004",
+    "villageCode": "004",
+    "districtCode": "18.02.101",
+    "name": "Banjar Masin",
+    "alias": "Banjar Masin"
+  },
+  {
+    "code": "18.02.101.005",
+    "villageCode": "005",
+    "districtCode": "18.02.101",
+    "name": "Sukamara",
+    "alias": "Sukamara"
+  },
+  {
+    "code": "18.02.101.006",
+    "villageCode": "006",
+    "districtCode": "18.02.101",
+    "name": "Sukanegara",
+    "alias": "Sukanegara"
+  },
+  {
+    "code": "18.02.101.007",
+    "villageCode": "007",
+    "districtCode": "18.02.101",
+    "name": "Suka Agung Timur",
+    "alias": "Suka Agung Timur"
+  },
+  {
+    "code": "18.02.101.008",
+    "villageCode": "008",
+    "districtCode": "18.02.101",
+    "name": "Suka Agung Barat",
+    "alias": "Suka Agung Barat"
+  },
+  {
+    "code": "18.02.101.009",
+    "villageCode": "009",
+    "districtCode": "18.02.101",
+    "name": "Pematang Nebak",
+    "alias": "Pematang Nebak"
+  },
+  {
+    "code": "18.02.101.010",
+    "villageCode": "010",
+    "districtCode": "18.02.101",
+    "name": "Tanjung Sari",
+    "alias": "Tanjung Sari"
+  }
+]

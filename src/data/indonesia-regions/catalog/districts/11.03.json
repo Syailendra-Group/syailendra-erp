@@ -1,0 +1,146 @@
+[
+  {
+    "code": "11.03.010",
+    "districtCode": "010",
+    "regencyCode": "11.03",
+    "provinceCode": "11",
+    "name": "Kecamatan Trumon",
+    "alias": "Trumon"
+  },
+  {
+    "code": "11.03.011",
+    "districtCode": "011",
+    "regencyCode": "11.03",
+    "provinceCode": "11",
+    "name": "Kecamatan Trumon Timur",
+    "alias": "Trumon Timur"
+  },
+  {
+    "code": "11.03.012",
+    "districtCode": "012",
+    "regencyCode": "11.03",
+    "provinceCode": "11",
+    "name": "Kecamatan Trumon Tengah",
+    "alias": "Trumon Tengah"
+  },
+  {
+    "code": "11.03.020",
+    "districtCode": "020",
+    "regencyCode": "11.03",
+    "provinceCode": "11",
+    "name": "Kecamatan Bakongan",
+    "alias": "Bakongan"
+  },
+  {
+    "code": "11.03.021",
+    "districtCode": "021",
+    "regencyCode": "11.03",
+    "provinceCode": "11",
+    "name": "Kecamatan Bakongan Timur",
+    "alias": "Bakongan Timur"
+  },
+  {
+    "code": "11.03.022",
+    "districtCode": "022",
+    "regencyCode": "11.03",
+    "provinceCode": "11",
+    "name": "Kecamatan Kota Bahagia",
+    "alias": "Kota Bahagia"
+  },
+  {
+    "code": "11.03.030",
+    "districtCode": "030",
+    "regencyCode": "11.03",
+    "provinceCode": "11",
+    "name": "Kecamatan Kluet Selatan",
+    "alias": "Kluet Selatan"
+  },
+  {
+    "code": "11.03.031",
+    "districtCode": "031",
+    "regencyCode": "11.03",
+    "provinceCode": "11",
+    "name": "Kecamatan Kluet Timur",
+    "alias": "Kluet Timur"
+  },
+  {
+    "code": "11.03.040",
+    "districtCode": "040",
+    "regencyCode": "11.03",
+    "provinceCode": "11",
+    "name": "Kecamatan Kluet Utara",
+    "alias": "Kluet Utara"
+  },
+  {
+    "code": "11.03.041",
+    "districtCode": "041",
+    "regencyCode": "11.03",
+    "provinceCode": "11",
+    "name": "Kecamatan Pasie Raja",
+    "alias": "Pasie Raja"
+  },
+  {
+    "code": "11.03.042",
+    "districtCode": "042",
+    "regencyCode": "11.03",
+    "provinceCode": "11",
+    "name": "Kecamatan Kluet Tengah",
+    "alias": "Kluet Tengah"
+  },
+  {
+    "code": "11.03.050",
+    "districtCode": "050",
+    "regencyCode": "11.03",
+    "provinceCode": "11",
+    "name": "Kecamatan Tapak Tuan",
+    "alias": "Tapak Tuan"
+  },
+  {
+    "code": "11.03.060",
+    "districtCode": "060",
+    "regencyCode": "11.03",
+    "provinceCode": "11",
+    "name": "Kecamatan Sama Dua",
+    "alias": "Sama Dua"
+  },
+  {
+    "code": "11.03.070",
+    "districtCode": "070",
+    "regencyCode": "11.03",
+    "provinceCode": "11",
+    "name": "Kecamatan Sawang",
+    "alias": "Sawang"
+  },
+  {
+    "code": "11.03.080",
+    "districtCode": "080",
+    "regencyCode": "11.03",
+    "provinceCode": "11",
+    "name": "Kecamatan Meukek",
+    "alias": "Meukek"
+  },
+  {
+    "code": "11.03.090",
+    "districtCode": "090",
+    "regencyCode": "11.03",
+    "provinceCode": "11",
+    "name": "Kecamatan Labuhan Haji",
+    "alias": "Labuhan Haji"
+  },
+  {
+    "code": "11.03.091",
+    "districtCode": "091",
+    "regencyCode": "11.03",
+    "provinceCode": "11",
+    "name": "Kecamatan Labuhan Haji Timur",
+    "alias": "Labuhan Haji Timur"
+  },
+  {
+    "code": "11.03.092",
+    "districtCode": "092",
+    "regencyCode": "11.03",
+    "provinceCode": "11",
+    "name": "Kecamatan Labuhan Haji Barat",
+    "alias": "Labuhan Haji Barat"
+  }
+]

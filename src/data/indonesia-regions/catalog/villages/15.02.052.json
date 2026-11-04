@@ -1,0 +1,58 @@
+[
+  {
+    "code": "15.02.052.001",
+    "villageCode": "001",
+    "districtCode": "15.02.052",
+    "name": "Bukit Perentak",
+    "alias": "Bukit Perentak"
+  },
+  {
+    "code": "15.02.052.002",
+    "villageCode": "002",
+    "districtCode": "15.02.052",
+    "name": "Baru Pangkalan Jambu",
+    "alias": "Baru Pangkalan Jambu"
+  },
+  {
+    "code": "15.02.052.003",
+    "villageCode": "003",
+    "districtCode": "15.02.052",
+    "name": "Tiga Alur Pangkalan Jambu",
+    "alias": "Tiga Alur Pangkalan Jambu"
+  },
+  {
+    "code": "15.02.052.004",
+    "villageCode": "004",
+    "districtCode": "15.02.052",
+    "name": "Birun",
+    "alias": "Birun"
+  },
+  {
+    "code": "15.02.052.005",
+    "villageCode": "005",
+    "districtCode": "15.02.052",
+    "name": "Bunga Tanjung",
+    "alias": "Bunga Tanjung"
+  },
+  {
+    "code": "15.02.052.006",
+    "villageCode": "006",
+    "districtCode": "15.02.052",
+    "name": "Sungai Jering",
+    "alias": "Sungai Jering"
+  },
+  {
+    "code": "15.02.052.007",
+    "villageCode": "007",
+    "districtCode": "15.02.052",
+    "name": "Kampung Limo",
+    "alias": "Kampung Limo"
+  },
+  {
+    "code": "15.02.052.008",
+    "villageCode": "008",
+    "districtCode": "15.02.052",
+    "name": "Tanjung Mudo",
+    "alias": "Tanjung Mudo"
+  }
+]

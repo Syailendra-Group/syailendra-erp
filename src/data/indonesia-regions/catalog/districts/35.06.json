@@ -1,0 +1,210 @@
+[
+  {
+    "code": "35.06.010",
+    "districtCode": "010",
+    "regencyCode": "35.06",
+    "provinceCode": "35",
+    "name": "Kecamatan Mojo",
+    "alias": "Mojo"
+  },
+  {
+    "code": "35.06.020",
+    "districtCode": "020",
+    "regencyCode": "35.06",
+    "provinceCode": "35",
+    "name": "Kecamatan Semen",
+    "alias": "Semen"
+  },
+  {
+    "code": "35.06.030",
+    "districtCode": "030",
+    "regencyCode": "35.06",
+    "provinceCode": "35",
+    "name": "Kecamatan Ngadiluwih",
+    "alias": "Ngadiluwih"
+  },
+  {
+    "code": "35.06.040",
+    "districtCode": "040",
+    "regencyCode": "35.06",
+    "provinceCode": "35",
+    "name": "Kecamatan Kras",
+    "alias": "Kras"
+  },
+  {
+    "code": "35.06.050",
+    "districtCode": "050",
+    "regencyCode": "35.06",
+    "provinceCode": "35",
+    "name": "Kecamatan Ringinrejo",
+    "alias": "Ringinrejo"
+  },
+  {
+    "code": "35.06.060",
+    "districtCode": "060",
+    "regencyCode": "35.06",
+    "provinceCode": "35",
+    "name": "Kecamatan Kandat",
+    "alias": "Kandat"
+  },
+  {
+    "code": "35.06.070",
+    "districtCode": "070",
+    "regencyCode": "35.06",
+    "provinceCode": "35",
+    "name": "Kecamatan Wates",
+    "alias": "Wates"
+  },
+  {
+    "code": "35.06.080",
+    "districtCode": "080",
+    "regencyCode": "35.06",
+    "provinceCode": "35",
+    "name": "Kecamatan Ngancar",
+    "alias": "Ngancar"
+  },
+  {
+    "code": "35.06.090",
+    "districtCode": "090",
+    "regencyCode": "35.06",
+    "provinceCode": "35",
+    "name": "Kecamatan Plosoklaten",
+    "alias": "Plosoklaten"
+  },
+  {
+    "code": "35.06.100",
+    "districtCode": "100",
+    "regencyCode": "35.06",
+    "provinceCode": "35",
+    "name": "Kecamatan Gurah",
+    "alias": "Gurah"
+  },
+  {
+    "code": "35.06.110",
+    "districtCode": "110",
+    "regencyCode": "35.06",
+    "provinceCode": "35",
+    "name": "Kecamatan Puncu",
+    "alias": "Puncu"
+  },
+  {
+    "code": "35.06.120",
+    "districtCode": "120",
+    "regencyCode": "35.06",
+    "provinceCode": "35",
+    "name": "Kecamatan Kepung",
+    "alias": "Kepung"
+  },
+  {
+    "code": "35.06.130",
+    "districtCode": "130",
+    "regencyCode": "35.06",
+    "provinceCode": "35",
+    "name": "Kecamatan Kandangan",
+    "alias": "Kandangan"
+  },
+  {
+    "code": "35.06.140",
+    "districtCode": "140",
+    "regencyCode": "35.06",
+    "provinceCode": "35",
+    "name": "Kecamatan Pare",
+    "alias": "Pare"
+  },
+  {
+    "code": "35.06.141",
+    "districtCode": "141",
+    "regencyCode": "35.06",
+    "provinceCode": "35",
+    "name": "Kecamatan Badas",
+    "alias": "Badas"
+  },
+  {
+    "code": "35.06.150",
+    "districtCode": "150",
+    "regencyCode": "35.06",
+    "provinceCode": "35",
+    "name": "Kecamatan Kunjang",
+    "alias": "Kunjang"
+  },
+  {
+    "code": "35.06.160",
+    "districtCode": "160",
+    "regencyCode": "35.06",
+    "provinceCode": "35",
+    "name": "Kecamatan Plemahan",
+    "alias": "Plemahan"
+  },
+  {
+    "code": "35.06.170",
+    "districtCode": "170",
+    "regencyCode": "35.06",
+    "provinceCode": "35",
+    "name": "Kecamatan Purwoasri",
+    "alias": "Purwoasri"
+  },
+  {
+    "code": "35.06.180",
+    "districtCode": "180",
+    "regencyCode": "35.06",
+    "provinceCode": "35",
+    "name": "Kecamatan Papar",
+    "alias": "Papar"
+  },
+  {
+    "code": "35.06.190",
+    "districtCode": "190",
+    "regencyCode": "35.06",
+    "provinceCode": "35",
+    "name": "Kecamatan Pagu",
+    "alias": "Pagu"
+  },
+  {
+    "code": "35.06.191",
+    "districtCode": "191",
+    "regencyCode": "35.06",
+    "provinceCode": "35",
+    "name": "Kecamatan Kayen Kidul",
+    "alias": "Kayen Kidul"
+  },
+  {
+    "code": "35.06.200",
+    "districtCode": "200",
+    "regencyCode": "35.06",
+    "provinceCode": "35",
+    "name": "Kecamatan Gampengrejo",
+    "alias": "Gampengrejo"
+  },
+  {
+    "code": "35.06.201",
+    "districtCode": "201",
+    "regencyCode": "35.06",
+    "provinceCode": "35",
+    "name": "Kecamatan Ngasem",
+    "alias": "Ngasem"
+  },
+  {
+    "code": "35.06.210",
+    "districtCode": "210",
+    "regencyCode": "35.06",
+    "provinceCode": "35",
+    "name": "Kecamatan Banyakan",
+    "alias": "Banyakan"
+  },
+  {
+    "code": "35.06.220",
+    "districtCode": "220",
+    "regencyCode": "35.06",
+    "provinceCode": "35",
+    "name": "Kecamatan Grogol",
+    "alias": "Grogol"
+  },
+  {
+    "code": "35.06.230",
+    "districtCode": "230",
+    "regencyCode": "35.06",
+    "provinceCode": "35",
+    "name": "Kecamatan Tarokan",
+    "alias": "Tarokan"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "code": "61.12.020.001",
+    "villageCode": "001",
+    "districtCode": "61.12.020",
+    "name": "Sungai Dungun",
+    "alias": "Sungai Dungun"
+  },
+  {
+    "code": "61.12.020.002",
+    "villageCode": "002",
+    "districtCode": "61.12.020",
+    "name": "Terentang Hulu",
+    "alias": "Terentang Hulu"
+  },
+  {
+    "code": "61.12.020.003",
+    "villageCode": "003",
+    "districtCode": "61.12.020",
+    "name": "Teluk Bayur",
+    "alias": "Teluk Bayur"
+  },
+  {
+    "code": "61.12.020.004",
+    "villageCode": "004",
+    "districtCode": "61.12.020",
+    "name": "Teluk Empening",
+    "alias": "Teluk Empening"
+  },
+  {
+    "code": "61.12.020.005",
+    "villageCode": "005",
+    "districtCode": "61.12.020",
+    "name": "Terentang Hilir",
+    "alias": "Terentang Hilir"
+  },
+  {
+    "code": "61.12.020.006",
+    "villageCode": "006",
+    "districtCode": "61.12.020",
+    "name": "Sungai Radak Satu",
+    "alias": "Sungai Radak Satu"
+  },
+  {
+    "code": "61.12.020.007",
+    "villageCode": "007",
+    "districtCode": "61.12.020",
+    "name": "Sungai Radak Dua",
+    "alias": "Sungai Radak Dua"
+  },
+  {
+    "code": "61.12.020.008",
+    "villageCode": "008",
+    "districtCode": "61.12.020",
+    "name": "Permata",
+    "alias": "Permata"
+  },
+  {
+    "code": "61.12.020.009",
+    "villageCode": "009",
+    "districtCode": "61.12.020",
+    "name": "Betuah",
+    "alias": "Betuah"
+  },
+  {
+    "code": "61.12.020.010",
+    "villageCode": "010",
+    "districtCode": "61.12.020",
+    "name": "Radak Baru",
+    "alias": "Radak Baru"
+  }
+]

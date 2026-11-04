@@ -1,0 +1,30 @@
+[
+  {
+    "code": "52.04.112.001",
+    "villageCode": "001",
+    "districtCode": "52.04.112",
+    "name": "Sepukur",
+    "alias": "Sepukur"
+  },
+  {
+    "code": "52.04.112.002",
+    "villageCode": "002",
+    "districtCode": "52.04.112",
+    "name": "Ai Mual",
+    "alias": "Ai Mual"
+  },
+  {
+    "code": "52.04.112.003",
+    "villageCode": "003",
+    "districtCode": "52.04.112",
+    "name": "Lantung",
+    "alias": "Lantung"
+  },
+  {
+    "code": "52.04.112.004",
+    "villageCode": "004",
+    "districtCode": "52.04.112",
+    "name": "Padesa",
+    "alias": "Padesa"
+  }
+]

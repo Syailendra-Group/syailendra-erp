@@ -1,0 +1,65 @@
+[
+  {
+    "code": "17.07.031.001",
+    "villageCode": "001",
+    "districtCode": "17.07.031",
+    "name": "Ujung Tanjung I",
+    "alias": "Ujung Tanjung I"
+  },
+  {
+    "code": "17.07.031.002",
+    "villageCode": "002",
+    "districtCode": "17.07.031",
+    "name": "Muning Agung",
+    "alias": "Muning Agung"
+  },
+  {
+    "code": "17.07.031.003",
+    "villageCode": "003",
+    "districtCode": "17.07.031",
+    "name": "Ujung Tanjung Ii",
+    "alias": "Ujung Tanjung Ii"
+  },
+  {
+    "code": "17.07.031.004",
+    "villageCode": "004",
+    "districtCode": "17.07.031",
+    "name": "Ujung Tanjung Iii",
+    "alias": "Ujung Tanjung Iii"
+  },
+  {
+    "code": "17.07.031.005",
+    "villageCode": "005",
+    "districtCode": "17.07.031",
+    "name": "Magelang Baru",
+    "alias": "Magelang Baru"
+  },
+  {
+    "code": "17.07.031.006",
+    "villageCode": "006",
+    "districtCode": "17.07.031",
+    "name": "Lemeu Pit",
+    "alias": "Lemeu Pit"
+  },
+  {
+    "code": "17.07.031.007",
+    "villageCode": "007",
+    "districtCode": "17.07.031",
+    "name": "Tabeak Kauk",
+    "alias": "Tabeak Kauk"
+  },
+  {
+    "code": "17.07.031.008",
+    "villageCode": "008",
+    "districtCode": "17.07.031",
+    "name": "Tabeak Dipoa",
+    "alias": "Tabeak Dipoa"
+  },
+  {
+    "code": "17.07.031.009",
+    "villageCode": "009",
+    "districtCode": "17.07.031",
+    "name": "Suka Bumi",
+    "alias": "Suka Bumi"
+  }
+]

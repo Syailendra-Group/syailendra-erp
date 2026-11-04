@@ -1,0 +1,44 @@
+[
+  {
+    "code": "61.02.080.004",
+    "villageCode": "004",
+    "districtCode": "61.02.080",
+    "name": "Jagoi",
+    "alias": "Jagoi"
+  },
+  {
+    "code": "61.02.080.005",
+    "villageCode": "005",
+    "districtCode": "61.02.080",
+    "name": "Kumba",
+    "alias": "Kumba"
+  },
+  {
+    "code": "61.02.080.007",
+    "villageCode": "007",
+    "districtCode": "61.02.080",
+    "name": "Sinar Baru",
+    "alias": "Sinar Baru"
+  },
+  {
+    "code": "61.02.080.008",
+    "villageCode": "008",
+    "districtCode": "61.02.080",
+    "name": "Gersik",
+    "alias": "Gersik"
+  },
+  {
+    "code": "61.02.080.009",
+    "villageCode": "009",
+    "districtCode": "61.02.080",
+    "name": "Semunying Jaya",
+    "alias": "Semunying Jaya"
+  },
+  {
+    "code": "61.02.080.010",
+    "villageCode": "010",
+    "districtCode": "61.02.080",
+    "name": "Sekida",
+    "alias": "Sekida"
+  }
+]

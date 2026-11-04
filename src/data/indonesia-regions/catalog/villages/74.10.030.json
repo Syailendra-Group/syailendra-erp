@@ -1,0 +1,121 @@
+[
+  {
+    "code": "74.10.030.027",
+    "villageCode": "027",
+    "districtCode": "74.10.030",
+    "name": "Abola",
+    "alias": "Abola"
+  },
+  {
+    "code": "74.10.030.028",
+    "villageCode": "028",
+    "districtCode": "74.10.030",
+    "name": "Belalo",
+    "alias": "Belalo"
+  },
+  {
+    "code": "74.10.030.029",
+    "villageCode": "029",
+    "districtCode": "74.10.030",
+    "name": "Andeo",
+    "alias": "Andeo"
+  },
+  {
+    "code": "74.10.030.030",
+    "villageCode": "030",
+    "districtCode": "74.10.030",
+    "name": "Matapila",
+    "alias": "Matapila"
+  },
+  {
+    "code": "74.10.030.031",
+    "villageCode": "031",
+    "districtCode": "74.10.030",
+    "name": "Lametono",
+    "alias": "Lametono"
+  },
+  {
+    "code": "74.10.030.032",
+    "villageCode": "032",
+    "districtCode": "74.10.030",
+    "name": "Andumowu",
+    "alias": "Andumowu"
+  },
+  {
+    "code": "74.10.030.033",
+    "villageCode": "033",
+    "districtCode": "74.10.030",
+    "name": "Basule",
+    "alias": "Basule"
+  },
+  {
+    "code": "74.10.030.034",
+    "villageCode": "034",
+    "districtCode": "74.10.030",
+    "name": "Tinobu",
+    "alias": "Tinobu"
+  },
+  {
+    "code": "74.10.030.035",
+    "villageCode": "035",
+    "districtCode": "74.10.030",
+    "name": "Waworaha",
+    "alias": "Waworaha"
+  },
+  {
+    "code": "74.10.030.036",
+    "villageCode": "036",
+    "districtCode": "74.10.030",
+    "name": "Otole",
+    "alias": "Otole"
+  },
+  {
+    "code": "74.10.030.037",
+    "villageCode": "037",
+    "districtCode": "74.10.030",
+    "name": "Watukila",
+    "alias": "Watukila"
+  },
+  {
+    "code": "74.10.030.048",
+    "villageCode": "048",
+    "districtCode": "74.10.030",
+    "name": "Larodangge",
+    "alias": "Larodangge"
+  },
+  {
+    "code": "74.10.030.053",
+    "villageCode": "053",
+    "districtCode": "74.10.030",
+    "name": "Tetelupai",
+    "alias": "Tetelupai"
+  },
+  {
+    "code": "74.10.030.054",
+    "villageCode": "054",
+    "districtCode": "74.10.030",
+    "name": "Lalowaru",
+    "alias": "Lalowaru"
+  },
+  {
+    "code": "74.10.030.055",
+    "villageCode": "055",
+    "districtCode": "74.10.030",
+    "name": "Muara Tinobu",
+    "alias": "Muara Tinobu"
+  },
+  {
+    "code": "74.10.030.056",
+    "villageCode": "056",
+    "districtCode": "74.10.030",
+    "name": "Morombo Pantai",
+    "alias": "Morombo Pantai"
+  },
+  {
+    "code": "74.10.030.057",
+    "villageCode": "057",
+    "districtCode": "74.10.030",
+    "name": "Tokowuta",
+    "alias": "Tokowuta"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "code": "53.02.033.001",
+    "villageCode": "001",
+    "districtCode": "53.02.033",
+    "name": "Mau Ramba",
+    "alias": "Mau Ramba"
+  },
+  {
+    "code": "53.02.033.002",
+    "villageCode": "002",
+    "districtCode": "53.02.033",
+    "name": "Kambata Bundung",
+    "alias": "Kambata Bundung"
+  },
+  {
+    "code": "53.02.033.003",
+    "villageCode": "003",
+    "districtCode": "53.02.033",
+    "name": "Kamanggih",
+    "alias": "Kamanggih"
+  },
+  {
+    "code": "53.02.033.004",
+    "villageCode": "004",
+    "districtCode": "53.02.033",
+    "name": "Kataka",
+    "alias": "Kataka"
+  },
+  {
+    "code": "53.02.033.005",
+    "villageCode": "005",
+    "districtCode": "53.02.033",
+    "name": "Matawai Maringu",
+    "alias": "Matawai Maringu"
+  },
+  {
+    "code": "53.02.033.006",
+    "villageCode": "006",
+    "districtCode": "53.02.033",
+    "name": "Matawai Katingga",
+    "alias": "Matawai Katingga"
+  },
+  {
+    "code": "53.02.033.007",
+    "villageCode": "007",
+    "districtCode": "53.02.033",
+    "name": "Kotak Kawau",
+    "alias": "Kotak Kawau"
+  },
+  {
+    "code": "53.02.033.008",
+    "villageCode": "008",
+    "districtCode": "53.02.033",
+    "name": "Lai Mbonga",
+    "alias": "Lai Mbonga"
+  },
+  {
+    "code": "53.02.033.009",
+    "villageCode": "009",
+    "districtCode": "53.02.033",
+    "name": "Meo Rumba",
+    "alias": "Meo Rumba"
+  },
+  {
+    "code": "53.02.033.010",
+    "villageCode": "010",
+    "districtCode": "53.02.033",
+    "name": "Desa Persiapan Prai Pahada",
+    "alias": "Desa Persiapan Prai Pahada"
+  },
+  {
+    "code": "53.02.033.011",
+    "villageCode": "011",
+    "districtCode": "53.02.033",
+    "name": "Desa Persiapan Yubuwai",
+    "alias": "Desa Persiapan Yubuwai"
+  },
+  {
+    "code": "53.02.033.012",
+    "villageCode": "012",
+    "districtCode": "53.02.033",
+    "name": "Desa Persiapan Madu Tolung",
+    "alias": "Desa Persiapan Madu Tolung"
+  }
+]

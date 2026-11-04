@@ -1,0 +1,79 @@
+[
+  {
+    "code": "33.12.080.001",
+    "villageCode": "001",
+    "districtCode": "33.12.080",
+    "name": "Kedungrejo",
+    "alias": "Kedungrejo"
+  },
+  {
+    "code": "33.12.080.002",
+    "villageCode": "002",
+    "districtCode": "33.12.080",
+    "name": "Bulurejo",
+    "alias": "Bulurejo"
+  },
+  {
+    "code": "33.12.080.003",
+    "villageCode": "003",
+    "districtCode": "33.12.080",
+    "name": "Kulurejo",
+    "alias": "Kulurejo"
+  },
+  {
+    "code": "33.12.080.004",
+    "villageCode": "004",
+    "districtCode": "33.12.080",
+    "name": "Semin",
+    "alias": "Semin"
+  },
+  {
+    "code": "33.12.080.005",
+    "villageCode": "005",
+    "districtCode": "33.12.080",
+    "name": "Beji",
+    "alias": "Beji"
+  },
+  {
+    "code": "33.12.080.006",
+    "villageCode": "006",
+    "districtCode": "33.12.080",
+    "name": "Wonoharjo",
+    "alias": "Wonoharjo"
+  },
+  {
+    "code": "33.12.080.007",
+    "villageCode": "007",
+    "districtCode": "33.12.080",
+    "name": "Bumiharjo",
+    "alias": "Bumiharjo"
+  },
+  {
+    "code": "33.12.080.008",
+    "villageCode": "008",
+    "districtCode": "33.12.080",
+    "name": "Gebang",
+    "alias": "Gebang"
+  },
+  {
+    "code": "33.12.080.009",
+    "villageCode": "009",
+    "districtCode": "33.12.080",
+    "name": "Pondoksari",
+    "alias": "Pondoksari"
+  },
+  {
+    "code": "33.12.080.010",
+    "villageCode": "010",
+    "districtCode": "33.12.080",
+    "name": "Ngadiroyo",
+    "alias": "Ngadiroyo"
+  },
+  {
+    "code": "33.12.080.011",
+    "villageCode": "011",
+    "districtCode": "33.12.080",
+    "name": "Ngadipiro",
+    "alias": "Ngadipiro"
+  }
+]

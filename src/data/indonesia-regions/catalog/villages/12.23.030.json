@@ -1,0 +1,58 @@
+[
+  {
+    "code": "12.23.030.001",
+    "villageCode": "001",
+    "districtCode": "12.23.030",
+    "name": "Padang Maninjau",
+    "alias": "Padang Maninjau"
+  },
+  {
+    "code": "12.23.030.002",
+    "villageCode": "002",
+    "districtCode": "12.23.030",
+    "name": "Perkebunan Panigoran",
+    "alias": "Perkebunan Panigoran"
+  },
+  {
+    "code": "12.23.030.003",
+    "villageCode": "003",
+    "districtCode": "12.23.030",
+    "name": "Sidomulyo",
+    "alias": "Sidomulyo"
+  },
+  {
+    "code": "12.23.030.004",
+    "villageCode": "004",
+    "districtCode": "12.23.030",
+    "name": "Karang Anyar",
+    "alias": "Karang Anyar"
+  },
+  {
+    "code": "12.23.030.005",
+    "villageCode": "005",
+    "districtCode": "12.23.030",
+    "name": "Perkebunan Padang Halaban",
+    "alias": "Perkebunan Padang Halaban"
+  },
+  {
+    "code": "12.23.030.006",
+    "villageCode": "006",
+    "districtCode": "12.23.030",
+    "name": "Aek Korsik",
+    "alias": "Aek Korsik"
+  },
+  {
+    "code": "12.23.030.007",
+    "villageCode": "007",
+    "districtCode": "12.23.030",
+    "name": "Purworejo",
+    "alias": "Purworejo"
+  },
+  {
+    "code": "12.23.030.008",
+    "villageCode": "008",
+    "districtCode": "12.23.030",
+    "name": "Bandar Selamat",
+    "alias": "Bandar Selamat"
+  }
+]

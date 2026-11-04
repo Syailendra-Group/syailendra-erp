@@ -1,0 +1,58 @@
+[
+  {
+    "code": "73.04.042.001",
+    "villageCode": "001",
+    "districtCode": "73.04.042",
+    "name": "P A O",
+    "alias": "P A O"
+  },
+  {
+    "code": "73.04.042.002",
+    "villageCode": "002",
+    "districtCode": "73.04.042",
+    "name": "Bontorappo",
+    "alias": "Bontorappo"
+  },
+  {
+    "code": "73.04.042.003",
+    "villageCode": "003",
+    "districtCode": "73.04.042",
+    "name": "Allu Tarowang",
+    "alias": "Allu Tarowang"
+  },
+  {
+    "code": "73.04.042.004",
+    "villageCode": "004",
+    "districtCode": "73.04.042",
+    "name": "Tarowang",
+    "alias": "Tarowang"
+  },
+  {
+    "code": "73.04.042.005",
+    "villageCode": "005",
+    "districtCode": "73.04.042",
+    "name": "Balang Baru",
+    "alias": "Balang Baru"
+  },
+  {
+    "code": "73.04.042.006",
+    "villageCode": "006",
+    "districtCode": "73.04.042",
+    "name": "Balang Loe Tarowang",
+    "alias": "Balang Loe Tarowang"
+  },
+  {
+    "code": "73.04.042.007",
+    "villageCode": "007",
+    "districtCode": "73.04.042",
+    "name": "Bonto Ujung",
+    "alias": "Bonto Ujung"
+  },
+  {
+    "code": "73.04.042.008",
+    "villageCode": "008",
+    "districtCode": "73.04.042",
+    "name": "Tino",
+    "alias": "Tino"
+  }
+]

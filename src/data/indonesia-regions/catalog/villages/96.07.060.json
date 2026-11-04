@@ -1,0 +1,37 @@
+[
+  {
+    "code": "96.07.060.001",
+    "villageCode": "001",
+    "districtCode": "96.07.060",
+    "name": "Welenggaru",
+    "alias": "Welenggaru"
+  },
+  {
+    "code": "96.07.060.002",
+    "villageCode": "002",
+    "districtCode": "96.07.060",
+    "name": "Towenggi Ii",
+    "alias": "Towenggi Ii"
+  },
+  {
+    "code": "96.07.060.003",
+    "villageCode": "003",
+    "districtCode": "96.07.060",
+    "name": "Tobenggi",
+    "alias": "Tobenggi"
+  },
+  {
+    "code": "96.07.060.004",
+    "villageCode": "004",
+    "districtCode": "96.07.060",
+    "name": "Mundidok",
+    "alias": "Mundidok"
+  },
+  {
+    "code": "96.07.060.005",
+    "villageCode": "005",
+    "districtCode": "96.07.060",
+    "name": "Yaikimaki",
+    "alias": "Yaikimaki"
+  }
+]

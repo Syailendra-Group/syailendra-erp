@@ -1,0 +1,82 @@
+[
+  {
+    "code": "82.06.010",
+    "districtCode": "010",
+    "regencyCode": "82.06",
+    "provinceCode": "82",
+    "name": "Kecamatan Maba Selatan",
+    "alias": "Maba Selatan"
+  },
+  {
+    "code": "82.06.011",
+    "districtCode": "011",
+    "regencyCode": "82.06",
+    "provinceCode": "82",
+    "name": "Kecamatan Kota Maba",
+    "alias": "Kota Maba"
+  },
+  {
+    "code": "82.06.020",
+    "districtCode": "020",
+    "regencyCode": "82.06",
+    "provinceCode": "82",
+    "name": "Kecamatan Wasile Selatan",
+    "alias": "Wasile Selatan"
+  },
+  {
+    "code": "82.06.030",
+    "districtCode": "030",
+    "regencyCode": "82.06",
+    "provinceCode": "82",
+    "name": "Kecamatan Wasile",
+    "alias": "Wasile"
+  },
+  {
+    "code": "82.06.031",
+    "districtCode": "031",
+    "regencyCode": "82.06",
+    "provinceCode": "82",
+    "name": "Kecamatan Wasile Timur",
+    "alias": "Wasile Timur"
+  },
+  {
+    "code": "82.06.032",
+    "districtCode": "032",
+    "regencyCode": "82.06",
+    "provinceCode": "82",
+    "name": "Kecamatan Wasile Tengah",
+    "alias": "Wasile Tengah"
+  },
+  {
+    "code": "82.06.033",
+    "districtCode": "033",
+    "regencyCode": "82.06",
+    "provinceCode": "82",
+    "name": "Kecamatan Wasile Utara",
+    "alias": "Wasile Utara"
+  },
+  {
+    "code": "82.06.040",
+    "districtCode": "040",
+    "regencyCode": "82.06",
+    "provinceCode": "82",
+    "name": "Kecamatan Maba",
+    "alias": "Maba"
+  },
+  {
+    "code": "82.06.041",
+    "districtCode": "041",
+    "regencyCode": "82.06",
+    "provinceCode": "82",
+    "name": "Kecamatan Maba Tengah",
+    "alias": "Maba Tengah"
+  },
+  {
+    "code": "82.06.042",
+    "districtCode": "042",
+    "regencyCode": "82.06",
+    "provinceCode": "82",
+    "name": "Kecamatan Maba Utara",
+    "alias": "Maba Utara"
+  }
+]

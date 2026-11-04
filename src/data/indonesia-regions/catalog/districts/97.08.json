@@ -1,0 +1,274 @@
+[
+  {
+    "code": "97.08.010",
+    "districtCode": "010",
+    "regencyCode": "97.08",
+    "provinceCode": "97",
+    "name": "Kecamatan Iwur",
+    "alias": "Iwur"
+  },
+  {
+    "code": "97.08.020",
+    "districtCode": "020",
+    "regencyCode": "97.08",
+    "provinceCode": "97",
+    "name": "Kecamatan Kawor",
+    "alias": "Kawor"
+  },
+  {
+    "code": "97.08.030",
+    "districtCode": "030",
+    "regencyCode": "97.08",
+    "provinceCode": "97",
+    "name": "Kecamatan Tarup",
+    "alias": "Tarup"
+  },
+  {
+    "code": "97.08.040",
+    "districtCode": "040",
+    "regencyCode": "97.08",
+    "provinceCode": "97",
+    "name": "Kecamatan Awinbon",
+    "alias": "Awinbon"
+  },
+  {
+    "code": "97.08.050",
+    "districtCode": "050",
+    "regencyCode": "97.08",
+    "provinceCode": "97",
+    "name": "Kecamatan Oksibil",
+    "alias": "Oksibil"
+  },
+  {
+    "code": "97.08.060",
+    "districtCode": "060",
+    "regencyCode": "97.08",
+    "provinceCode": "97",
+    "name": "Kecamatan Pepera",
+    "alias": "Pepera"
+  },
+  {
+    "code": "97.08.070",
+    "districtCode": "070",
+    "regencyCode": "97.08",
+    "provinceCode": "97",
+    "name": "Kecamatan Alemsom",
+    "alias": "Alemsom"
+  },
+  {
+    "code": "97.08.080",
+    "districtCode": "080",
+    "regencyCode": "97.08",
+    "provinceCode": "97",
+    "name": "Kecamatan Serambakon",
+    "alias": "Serambakon"
+  },
+  {
+    "code": "97.08.090",
+    "districtCode": "090",
+    "regencyCode": "97.08",
+    "provinceCode": "97",
+    "name": "Kecamatan Kalomdol",
+    "alias": "Kalomdol"
+  },
+  {
+    "code": "97.08.100",
+    "districtCode": "100",
+    "regencyCode": "97.08",
+    "provinceCode": "97",
+    "name": "Kecamatan Oksop",
+    "alias": "Oksop"
+  },
+  {
+    "code": "97.08.110",
+    "districtCode": "110",
+    "regencyCode": "97.08",
+    "provinceCode": "97",
+    "name": "Kecamatan Okbape",
+    "alias": "Okbape"
+  },
+  {
+    "code": "97.08.120",
+    "districtCode": "120",
+    "regencyCode": "97.08",
+    "provinceCode": "97",
+    "name": "Kecamatan Ok Aom",
+    "alias": "Ok Aom"
+  },
+  {
+    "code": "97.08.130",
+    "districtCode": "130",
+    "regencyCode": "97.08",
+    "provinceCode": "97",
+    "name": "Kecamatan Borme",
+    "alias": "Borme"
+  },
+  {
+    "code": "97.08.140",
+    "districtCode": "140",
+    "regencyCode": "97.08",
+    "provinceCode": "97",
+    "name": "Kecamatan Bime",
+    "alias": "Bime"
+  },
+  {
+    "code": "97.08.150",
+    "districtCode": "150",
+    "regencyCode": "97.08",
+    "provinceCode": "97",
+    "name": "Kecamatan Eipumek",
+    "alias": "Eipumek"
+  },
+  {
+    "code": "97.08.160",
+    "districtCode": "160",
+    "regencyCode": "97.08",
+    "provinceCode": "97",
+    "name": "Kecamatan Weime",
+    "alias": "Weime"
+  },
+  {
+    "code": "97.08.170",
+    "districtCode": "170",
+    "regencyCode": "97.08",
+    "provinceCode": "97",
+    "name": "Kecamatan Pamek",
+    "alias": "Pamek"
+  },
+  {
+    "code": "97.08.180",
+    "districtCode": "180",
+    "regencyCode": "97.08",
+    "provinceCode": "97",
+    "name": "Kecamatan Nongme",
+    "alias": "Nongme"
+  },
+  {
+    "code": "97.08.190",
+    "districtCode": "190",
+    "regencyCode": "97.08",
+    "provinceCode": "97",
+    "name": "Kecamatan Batani",
+    "alias": "Batani"
+  },
+  {
+    "code": "97.08.200",
+    "districtCode": "200",
+    "regencyCode": "97.08",
+    "provinceCode": "97",
+    "name": "Kecamatan Okbibab",
+    "alias": "Okbibab"
+  },
+  {
+    "code": "97.08.210",
+    "districtCode": "210",
+    "regencyCode": "97.08",
+    "provinceCode": "97",
+    "name": "Kecamatan Aboy",
+    "alias": "Aboy"
+  },
+  {
+    "code": "97.08.220",
+    "districtCode": "220",
+    "regencyCode": "97.08",
+    "provinceCode": "97",
+    "name": "Kecamatan Okbab",
+    "alias": "Okbab"
+  },
+  {
+    "code": "97.08.230",
+    "districtCode": "230",
+    "regencyCode": "97.08",
+    "provinceCode": "97",
+    "name": "Kecamatan Teiraplu",
+    "alias": "Teiraplu"
+  },
+  {
+    "code": "97.08.240",
+    "districtCode": "240",
+    "regencyCode": "97.08",
+    "provinceCode": "97",
+    "name": "Kecamatan Jetfa",
+    "alias": "Jetfa"
+  },
+  {
+    "code": "97.08.250",
+    "districtCode": "250",
+    "regencyCode": "97.08",
+    "provinceCode": "97",
+    "name": "Kecamatan Kiwirok",
+    "alias": "Kiwirok"
+  },
+  {
+    "code": "97.08.260",
+    "districtCode": "260",
+    "regencyCode": "97.08",
+    "provinceCode": "97",
+    "name": "Kecamatan Kiwirok Timur",
+    "alias": "Kiwirok Timur"
+  },
+  {
+    "code": "97.08.270",
+    "districtCode": "270",
+    "regencyCode": "97.08",
+    "provinceCode": "97",
+    "name": "Kecamatan Oksebang",
+    "alias": "Oksebang"
+  },
+  {
+    "code": "97.08.280",
+    "districtCode": "280",
+    "regencyCode": "97.08",
+    "provinceCode": "97",
+    "name": "Kecamatan Okhika",
+    "alias": "Okhika"
+  },
+  {
+    "code": "97.08.290",
+    "districtCode": "290",
+    "regencyCode": "97.08",
+    "provinceCode": "97",
+    "name": "Kecamatan Oklip",
+    "alias": "Oklip"
+  },
+  {
+    "code": "97.08.300",
+    "districtCode": "300",
+    "regencyCode": "97.08",
+    "provinceCode": "97",
+    "name": "Kecamatan Oksamol",
+    "alias": "Oksamol"
+  },
+  {
+    "code": "97.08.310",
+    "districtCode": "310",
+    "regencyCode": "97.08",
+    "provinceCode": "97",
+    "name": "Kecamatan Okbemtau",
+    "alias": "Okbemtau"
+  },
+  {
+    "code": "97.08.320",
+    "districtCode": "320",
+    "regencyCode": "97.08",
+    "provinceCode": "97",
+    "name": "Kecamatan Batom",
+    "alias": "Batom"
+  },
+  {
+    "code": "97.08.330",
+    "districtCode": "330",
+    "regencyCode": "97.08",
+    "provinceCode": "97",
+    "name": "Kecamatan Murkim",
+    "alias": "Murkim"
+  },
+  {
+    "code": "97.08.340",
+    "districtCode": "340",
+    "regencyCode": "97.08",
+    "provinceCode": "97",
+    "name": "Kecamatan Mofinop",
+    "alias": "Mofinop"
+  }
+]

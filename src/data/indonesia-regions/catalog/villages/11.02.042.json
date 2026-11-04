@@ -1,0 +1,51 @@
+[
+  {
+    "code": "11.02.042.001",
+    "villageCode": "001",
+    "districtCode": "11.02.042",
+    "name": "Sri Kayu",
+    "alias": "Sri Kayu"
+  },
+  {
+    "code": "11.02.042.002",
+    "villageCode": "002",
+    "districtCode": "11.02.042",
+    "name": "Pea Jambu",
+    "alias": "Pea Jambu"
+  },
+  {
+    "code": "11.02.042.003",
+    "villageCode": "003",
+    "districtCode": "11.02.042",
+    "name": "Lae Pinang",
+    "alias": "Lae Pinang"
+  },
+  {
+    "code": "11.02.042.004",
+    "villageCode": "004",
+    "districtCode": "11.02.042",
+    "name": "Singkohor",
+    "alias": "Singkohor"
+  },
+  {
+    "code": "11.02.042.005",
+    "villageCode": "005",
+    "districtCode": "11.02.042",
+    "name": "Mukti Harapan",
+    "alias": "Mukti Harapan"
+  },
+  {
+    "code": "11.02.042.006",
+    "villageCode": "006",
+    "districtCode": "11.02.042",
+    "name": "Mukti Jaya",
+    "alias": "Mukti Jaya"
+  },
+  {
+    "code": "11.02.042.007",
+    "villageCode": "007",
+    "districtCode": "11.02.042",
+    "name": "Lae Sipola",
+    "alias": "Lae Sipola"
+  }
+]

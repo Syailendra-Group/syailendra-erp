@@ -1,0 +1,30 @@
+[
+  {
+    "code": "73.73.010.002",
+    "villageCode": "002",
+    "districtCode": "73.73.010",
+    "name": "Sampoddo",
+    "alias": "Sampoddo"
+  },
+  {
+    "code": "73.73.010.003",
+    "villageCode": "003",
+    "districtCode": "73.73.010",
+    "name": "Songka",
+    "alias": "Songka"
+  },
+  {
+    "code": "73.73.010.004",
+    "villageCode": "004",
+    "districtCode": "73.73.010",
+    "name": "Takkalala",
+    "alias": "Takkalala"
+  },
+  {
+    "code": "73.73.010.005",
+    "villageCode": "005",
+    "districtCode": "73.73.010",
+    "name": "Binturu",
+    "alias": "Binturu"
+  }
+]

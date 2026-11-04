@@ -1,0 +1,51 @@
+[
+  {
+    "code": "12.08.090.013",
+    "villageCode": "013",
+    "districtCode": "12.08.090",
+    "name": "Serdang",
+    "alias": "Serdang"
+  },
+  {
+    "code": "12.08.090.014",
+    "villageCode": "014",
+    "districtCode": "12.08.090",
+    "name": "Meranti",
+    "alias": "Meranti"
+  },
+  {
+    "code": "12.08.090.015",
+    "villageCode": "015",
+    "districtCode": "12.08.090",
+    "name": "Sei Beluru",
+    "alias": "Sei Beluru"
+  },
+  {
+    "code": "12.08.090.016",
+    "villageCode": "016",
+    "districtCode": "12.08.090",
+    "name": "Perkebunan Sei Balai",
+    "alias": "Perkebunan Sei Balai"
+  },
+  {
+    "code": "12.08.090.020",
+    "villageCode": "020",
+    "districtCode": "12.08.090",
+    "name": "Gajah",
+    "alias": "Gajah"
+  },
+  {
+    "code": "12.08.090.021",
+    "villageCode": "021",
+    "districtCode": "12.08.090",
+    "name": "Air Putih",
+    "alias": "Air Putih"
+  },
+  {
+    "code": "12.08.090.022",
+    "villageCode": "022",
+    "districtCode": "12.08.090",
+    "name": "Sukajadi",
+    "alias": "Sukajadi"
+  }
+]

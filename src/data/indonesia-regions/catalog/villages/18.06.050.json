@@ -1,0 +1,114 @@
+[
+  {
+    "code": "18.06.050.001",
+    "villageCode": "001",
+    "districtCode": "18.06.050",
+    "name": "Gilih Sukanegeri",
+    "alias": "Gilih Sukanegeri"
+  },
+  {
+    "code": "18.06.050.002",
+    "villageCode": "002",
+    "districtCode": "18.06.050",
+    "name": "Cabang Empat",
+    "alias": "Cabang Empat"
+  },
+  {
+    "code": "18.06.050.003",
+    "villageCode": "003",
+    "districtCode": "18.06.050",
+    "name": "Sinar Ogan",
+    "alias": "Sinar Ogan"
+  },
+  {
+    "code": "18.06.050.004",
+    "villageCode": "004",
+    "districtCode": "18.06.050",
+    "name": "Candi Mas",
+    "alias": "Candi Mas"
+  },
+  {
+    "code": "18.06.050.005",
+    "villageCode": "005",
+    "districtCode": "18.06.050",
+    "name": "Trimodadi",
+    "alias": "Trimodadi"
+  },
+  {
+    "code": "18.06.050.011",
+    "villageCode": "011",
+    "districtCode": "18.06.050",
+    "name": "Kali Balangan",
+    "alias": "Kali Balangan"
+  },
+  {
+    "code": "18.06.050.012",
+    "villageCode": "012",
+    "districtCode": "18.06.050",
+    "name": "Kembang Tanjung",
+    "alias": "Kembang Tanjung"
+  },
+  {
+    "code": "18.06.050.013",
+    "villageCode": "013",
+    "districtCode": "18.06.050",
+    "name": "Kembang Gading",
+    "alias": "Kembang Gading"
+  },
+  {
+    "code": "18.06.050.014",
+    "villageCode": "014",
+    "districtCode": "18.06.050",
+    "name": "Abung Jayo",
+    "alias": "Abung Jayo"
+  },
+  {
+    "code": "18.06.050.015",
+    "villageCode": "015",
+    "districtCode": "18.06.050",
+    "name": "Cabang Abung Raya",
+    "alias": "Cabang Abung Raya"
+  },
+  {
+    "code": "18.06.050.016",
+    "villageCode": "016",
+    "districtCode": "18.06.050",
+    "name": "Kalibening Raya",
+    "alias": "Kalibening Raya"
+  },
+  {
+    "code": "18.06.050.017",
+    "villageCode": "017",
+    "districtCode": "18.06.050",
+    "name": "Ratu Abung",
+    "alias": "Ratu Abung"
+  },
+  {
+    "code": "18.06.050.018",
+    "villageCode": "018",
+    "districtCode": "18.06.050",
+    "name": "Kemalo Abung",
+    "alias": "Kemalo Abung"
+  },
+  {
+    "code": "18.06.050.019",
+    "villageCode": "019",
+    "districtCode": "18.06.050",
+    "name": "Bandar Kagungan Raya",
+    "alias": "Bandar Kagungan Raya"
+  },
+  {
+    "code": "18.06.050.020",
+    "villageCode": "020",
+    "districtCode": "18.06.050",
+    "name": "Way Lunik",
+    "alias": "Way Lunik"
+  },
+  {
+    "code": "18.06.050.021",
+    "villageCode": "021",
+    "districtCode": "18.06.050",
+    "name": "Bumi Raya",
+    "alias": "Bumi Raya"
+  }
+]

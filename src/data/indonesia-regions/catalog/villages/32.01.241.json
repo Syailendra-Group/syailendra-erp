@@ -1,0 +1,72 @@
+[
+  {
+    "code": "32.01.241.001",
+    "villageCode": "001",
+    "districtCode": "32.01.241",
+    "name": "Karihkil",
+    "alias": "Karihkil"
+  },
+  {
+    "code": "32.01.241.002",
+    "villageCode": "002",
+    "districtCode": "32.01.241",
+    "name": "Cibeuteung Udik",
+    "alias": "Cibeuteung Udik"
+  },
+  {
+    "code": "32.01.241.003",
+    "villageCode": "003",
+    "districtCode": "32.01.241",
+    "name": "Babakan",
+    "alias": "Babakan"
+  },
+  {
+    "code": "32.01.241.004",
+    "villageCode": "004",
+    "districtCode": "32.01.241",
+    "name": "Putat Nutug",
+    "alias": "Putat Nutug"
+  },
+  {
+    "code": "32.01.241.005",
+    "villageCode": "005",
+    "districtCode": "32.01.241",
+    "name": "Cibeuteung Muara",
+    "alias": "Cibeuteung Muara"
+  },
+  {
+    "code": "32.01.241.006",
+    "villageCode": "006",
+    "districtCode": "32.01.241",
+    "name": "Cibentang",
+    "alias": "Cibentang"
+  },
+  {
+    "code": "32.01.241.007",
+    "villageCode": "007",
+    "districtCode": "32.01.241",
+    "name": "Parigi Mekar",
+    "alias": "Parigi Mekar"
+  },
+  {
+    "code": "32.01.241.008",
+    "villageCode": "008",
+    "districtCode": "32.01.241",
+    "name": "Ciseeng",
+    "alias": "Ciseeng"
+  },
+  {
+    "code": "32.01.241.009",
+    "villageCode": "009",
+    "districtCode": "32.01.241",
+    "name": "Cihowe",
+    "alias": "Cihowe"
+  },
+  {
+    "code": "32.01.241.010",
+    "villageCode": "010",
+    "districtCode": "32.01.241",
+    "name": "Kuripan",
+    "alias": "Kuripan"
+  }
+]

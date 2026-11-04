@@ -1,0 +1,37 @@
+[
+  {
+    "code": "15.09.023.001",
+    "villageCode": "001",
+    "districtCode": "15.09.023",
+    "name": "Sungai Kerjan",
+    "alias": "Sungai Kerjan"
+  },
+  {
+    "code": "15.09.023.002",
+    "villageCode": "002",
+    "districtCode": "15.09.023",
+    "name": "Sungai Arang",
+    "alias": "Sungai Arang"
+  },
+  {
+    "code": "15.09.023.003",
+    "villageCode": "003",
+    "districtCode": "15.09.023",
+    "name": "Talang Pantai",
+    "alias": "Talang Pantai"
+  },
+  {
+    "code": "15.09.023.004",
+    "villageCode": "004",
+    "districtCode": "15.09.023",
+    "name": "Sungai Pinang",
+    "alias": "Sungai Pinang"
+  },
+  {
+    "code": "15.09.023.005",
+    "villageCode": "005",
+    "districtCode": "15.09.023",
+    "name": "Pulau Pekan",
+    "alias": "Pulau Pekan"
+  }
+]

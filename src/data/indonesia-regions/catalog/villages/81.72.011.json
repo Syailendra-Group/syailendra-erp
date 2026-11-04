@@ -1,0 +1,51 @@
+[
+  {
+    "code": "81.72.011.001",
+    "villageCode": "001",
+    "districtCode": "81.72.011",
+    "name": "Kanara",
+    "alias": "Kanara"
+  },
+  {
+    "code": "81.72.011.002",
+    "villageCode": "002",
+    "districtCode": "81.72.011",
+    "name": "Warkar",
+    "alias": "Warkar"
+  },
+  {
+    "code": "81.72.011.003",
+    "villageCode": "003",
+    "districtCode": "81.72.011",
+    "name": "Yapas",
+    "alias": "Yapas"
+  },
+  {
+    "code": "81.72.011.004",
+    "villageCode": "004",
+    "districtCode": "81.72.011",
+    "name": "Romoin",
+    "alias": "Romoin"
+  },
+  {
+    "code": "81.72.011.005",
+    "villageCode": "005",
+    "districtCode": "81.72.011",
+    "name": "Hirit",
+    "alias": "Hirit"
+  },
+  {
+    "code": "81.72.011.006",
+    "villageCode": "006",
+    "districtCode": "81.72.011",
+    "name": "Mangur Niela",
+    "alias": "Mangur Niela"
+  },
+  {
+    "code": "81.72.011.007",
+    "villageCode": "007",
+    "districtCode": "81.72.011",
+    "name": "Tiflean",
+    "alias": "Tiflean"
+  }
+]

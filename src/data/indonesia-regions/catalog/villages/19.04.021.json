@@ -1,0 +1,58 @@
+[
+  {
+    "code": "19.04.021.001",
+    "villageCode": "001",
+    "districtCode": "19.04.021",
+    "name": "Belilik",
+    "alias": "Belilik"
+  },
+  {
+    "code": "19.04.021.002",
+    "villageCode": "002",
+    "districtCode": "19.04.021",
+    "name": "Namang",
+    "alias": "Namang"
+  },
+  {
+    "code": "19.04.021.003",
+    "villageCode": "003",
+    "districtCode": "19.04.021",
+    "name": "Jelutung",
+    "alias": "Jelutung"
+  },
+  {
+    "code": "19.04.021.004",
+    "villageCode": "004",
+    "districtCode": "19.04.021",
+    "name": "Cambai",
+    "alias": "Cambai"
+  },
+  {
+    "code": "19.04.021.005",
+    "villageCode": "005",
+    "districtCode": "19.04.021",
+    "name": "Kayu Besi",
+    "alias": "Kayu Besi"
+  },
+  {
+    "code": "19.04.021.006",
+    "villageCode": "006",
+    "districtCode": "19.04.021",
+    "name": "Bukit Kijang",
+    "alias": "Bukit Kijang"
+  },
+  {
+    "code": "19.04.021.007",
+    "villageCode": "007",
+    "districtCode": "19.04.021",
+    "name": "Baskara Bakti",
+    "alias": "Baskara Bakti"
+  },
+  {
+    "code": "19.04.021.008",
+    "villageCode": "008",
+    "districtCode": "19.04.021",
+    "name": "Cambai Selatan",
+    "alias": "Cambai Selatan"
+  }
+]

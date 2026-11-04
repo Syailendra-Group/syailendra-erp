@@ -1,0 +1,79 @@
+[
+  {
+    "code": "15.05.011.009",
+    "villageCode": "009",
+    "districtCode": "15.05.011",
+    "name": "Tanjung Harapan",
+    "alias": "Tanjung Harapan"
+  },
+  {
+    "code": "15.05.011.010",
+    "villageCode": "010",
+    "districtCode": "15.05.011",
+    "name": "Marga Manunggal Jaya",
+    "alias": "Marga Manunggal Jaya"
+  },
+  {
+    "code": "15.05.011.011",
+    "villageCode": "011",
+    "districtCode": "15.05.011",
+    "name": "Bukit Mas",
+    "alias": "Bukit Mas"
+  },
+  {
+    "code": "15.05.011.012",
+    "villageCode": "012",
+    "districtCode": "15.05.011",
+    "name": "Panca Bakti",
+    "alias": "Panca Bakti"
+  },
+  {
+    "code": "15.05.011.013",
+    "villageCode": "013",
+    "districtCode": "15.05.011",
+    "name": "Bukit Makmur",
+    "alias": "Bukit Makmur"
+  },
+  {
+    "code": "15.05.011.020",
+    "villageCode": "020",
+    "districtCode": "15.05.011",
+    "name": "Suka Makmur",
+    "alias": "Suka Makmur"
+  },
+  {
+    "code": "15.05.011.021",
+    "villageCode": "021",
+    "districtCode": "15.05.011",
+    "name": "Marga Mulya",
+    "alias": "Marga Mulya"
+  },
+  {
+    "code": "15.05.011.022",
+    "villageCode": "022",
+    "districtCode": "15.05.011",
+    "name": "Berkah",
+    "alias": "Berkah"
+  },
+  {
+    "code": "15.05.011.023",
+    "villageCode": "023",
+    "districtCode": "15.05.011",
+    "name": "Panca Mulya",
+    "alias": "Panca Mulya"
+  },
+  {
+    "code": "15.05.011.025",
+    "villageCode": "025",
+    "districtCode": "15.05.011",
+    "name": "Mekar Sari Makmur",
+    "alias": "Mekar Sari Makmur"
+  },
+  {
+    "code": "15.05.011.032",
+    "villageCode": "032",
+    "districtCode": "15.05.011",
+    "name": "Bhakti Mulia",
+    "alias": "Bhakti Mulia"
+  }
+]

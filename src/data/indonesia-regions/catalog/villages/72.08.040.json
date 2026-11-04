@@ -1,0 +1,107 @@
+[
+  {
+    "code": "72.08.040.008",
+    "villageCode": "008",
+    "districtCode": "72.08.040",
+    "name": "Bainaa",
+    "alias": "Bainaa"
+  },
+  {
+    "code": "72.08.040.009",
+    "villageCode": "009",
+    "districtCode": "72.08.040",
+    "name": "Dongkas",
+    "alias": "Dongkas"
+  },
+  {
+    "code": "72.08.040.010",
+    "villageCode": "010",
+    "districtCode": "72.08.040",
+    "name": "Tinombo",
+    "alias": "Tinombo"
+  },
+  {
+    "code": "72.08.040.011",
+    "villageCode": "011",
+    "districtCode": "72.08.040",
+    "name": "Lombok",
+    "alias": "Lombok"
+  },
+  {
+    "code": "72.08.040.012",
+    "villageCode": "012",
+    "districtCode": "72.08.040",
+    "name": "Dusunan",
+    "alias": "Dusunan"
+  },
+  {
+    "code": "72.08.040.013",
+    "villageCode": "013",
+    "districtCode": "72.08.040",
+    "name": "Tibu",
+    "alias": "Tibu"
+  },
+  {
+    "code": "72.08.040.017",
+    "villageCode": "017",
+    "districtCode": "72.08.040",
+    "name": "Bainaa Barat",
+    "alias": "Bainaa Barat"
+  },
+  {
+    "code": "72.08.040.019",
+    "villageCode": "019",
+    "districtCode": "72.08.040",
+    "name": "Ogoalas",
+    "alias": "Ogoalas"
+  },
+  {
+    "code": "72.08.040.020",
+    "villageCode": "020",
+    "districtCode": "72.08.040",
+    "name": "Lombok Barat",
+    "alias": "Lombok Barat"
+  },
+  {
+    "code": "72.08.040.025",
+    "villageCode": "025",
+    "districtCode": "72.08.040",
+    "name": "Silabia",
+    "alias": "Silabia"
+  },
+  {
+    "code": "72.08.040.026",
+    "villageCode": "026",
+    "districtCode": "72.08.040",
+    "name": "Siavu",
+    "alias": "Siavu"
+  },
+  {
+    "code": "72.08.040.027",
+    "villageCode": "027",
+    "districtCode": "72.08.040",
+    "name": "Ambason Mekar",
+    "alias": "Ambason Mekar"
+  },
+  {
+    "code": "72.08.040.028",
+    "villageCode": "028",
+    "districtCode": "72.08.040",
+    "name": "Patingke",
+    "alias": "Patingke"
+  },
+  {
+    "code": "72.08.040.029",
+    "villageCode": "029",
+    "districtCode": "72.08.040",
+    "name": "Dusunan Barat",
+    "alias": "Dusunan Barat"
+  },
+  {
+    "code": "72.08.040.030",
+    "villageCode": "030",
+    "districtCode": "72.08.040",
+    "name": "Taipaobal",
+    "alias": "Taipaobal"
+  }
+]

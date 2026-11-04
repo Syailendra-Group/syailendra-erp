@@ -1,0 +1,93 @@
+[
+  {
+    "code": "16.11.060.001",
+    "villageCode": "001",
+    "districtCode": "16.11.060",
+    "name": "Karang Are",
+    "alias": "Karang Are"
+  },
+  {
+    "code": "16.11.060.002",
+    "villageCode": "002",
+    "districtCode": "16.11.060",
+    "name": "Kembahang Lama",
+    "alias": "Kembahang Lama"
+  },
+  {
+    "code": "16.11.060.003",
+    "villageCode": "003",
+    "districtCode": "16.11.060",
+    "name": "Padang Titiran",
+    "alias": "Padang Titiran"
+  },
+  {
+    "code": "16.11.060.004",
+    "villageCode": "004",
+    "districtCode": "16.11.060",
+    "name": "Ps Talang Padang",
+    "alias": "Ps Talang Padang"
+  },
+  {
+    "code": "16.11.060.005",
+    "villageCode": "005",
+    "districtCode": "16.11.060",
+    "name": "Macang Manis",
+    "alias": "Macang Manis"
+  },
+  {
+    "code": "16.11.060.006",
+    "villageCode": "006",
+    "districtCode": "16.11.060",
+    "name": "Talang Padang",
+    "alias": "Talang Padang"
+  },
+  {
+    "code": "16.11.060.007",
+    "villageCode": "007",
+    "districtCode": "16.11.060",
+    "name": "Lampar Baru",
+    "alias": "Lampar Baru"
+  },
+  {
+    "code": "16.11.060.008",
+    "villageCode": "008",
+    "districtCode": "16.11.060",
+    "name": "Kembahang Baru",
+    "alias": "Kembahang Baru"
+  },
+  {
+    "code": "16.11.060.009",
+    "villageCode": "009",
+    "districtCode": "16.11.060",
+    "name": "Canggu",
+    "alias": "Canggu"
+  },
+  {
+    "code": "16.11.060.010",
+    "villageCode": "010",
+    "districtCode": "16.11.060",
+    "name": "Remantai",
+    "alias": "Remantai"
+  },
+  {
+    "code": "16.11.060.011",
+    "villageCode": "011",
+    "districtCode": "16.11.060",
+    "name": "Talang Durian",
+    "alias": "Talang Durian"
+  },
+  {
+    "code": "16.11.060.012",
+    "villageCode": "012",
+    "districtCode": "16.11.060",
+    "name": "Lubuk Buntak",
+    "alias": "Lubuk Buntak"
+  },
+  {
+    "code": "16.11.060.013",
+    "villageCode": "013",
+    "districtCode": "16.11.060",
+    "name": "Ulak Dabuk",
+    "alias": "Ulak Dabuk"
+  }
+]

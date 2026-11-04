@@ -1,0 +1,86 @@
+[
+  {
+    "code": "33.74.070.001",
+    "villageCode": "001",
+    "districtCode": "33.74.070",
+    "name": "Rowosari",
+    "alias": "Rowosari"
+  },
+  {
+    "code": "33.74.070.002",
+    "villageCode": "002",
+    "districtCode": "33.74.070",
+    "name": "Meteseh",
+    "alias": "Meteseh"
+  },
+  {
+    "code": "33.74.070.003",
+    "villageCode": "003",
+    "districtCode": "33.74.070",
+    "name": "Kramas",
+    "alias": "Kramas"
+  },
+  {
+    "code": "33.74.070.004",
+    "villageCode": "004",
+    "districtCode": "33.74.070",
+    "name": "Tembalang",
+    "alias": "Tembalang"
+  },
+  {
+    "code": "33.74.070.005",
+    "villageCode": "005",
+    "districtCode": "33.74.070",
+    "name": "Bulusan",
+    "alias": "Bulusan"
+  },
+  {
+    "code": "33.74.070.006",
+    "villageCode": "006",
+    "districtCode": "33.74.070",
+    "name": "Mangunharjo",
+    "alias": "Mangunharjo"
+  },
+  {
+    "code": "33.74.070.007",
+    "villageCode": "007",
+    "districtCode": "33.74.070",
+    "name": "Sendangmulyo",
+    "alias": "Sendangmulyo"
+  },
+  {
+    "code": "33.74.070.008",
+    "villageCode": "008",
+    "districtCode": "33.74.070",
+    "name": "Sambiroto",
+    "alias": "Sambiroto"
+  },
+  {
+    "code": "33.74.070.009",
+    "villageCode": "009",
+    "districtCode": "33.74.070",
+    "name": "Jangli",
+    "alias": "Jangli"
+  },
+  {
+    "code": "33.74.070.010",
+    "villageCode": "010",
+    "districtCode": "33.74.070",
+    "name": "Tandang",
+    "alias": "Tandang"
+  },
+  {
+    "code": "33.74.070.011",
+    "villageCode": "011",
+    "districtCode": "33.74.070",
+    "name": "Kedungmundu",
+    "alias": "Kedungmundu"
+  },
+  {
+    "code": "33.74.070.012",
+    "villageCode": "012",
+    "districtCode": "33.74.070",
+    "name": "Sendangguwo",
+    "alias": "Sendangguwo"
+  }
+]

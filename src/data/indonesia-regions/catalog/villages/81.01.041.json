@@ -1,0 +1,65 @@
+[
+  {
+    "code": "81.01.041.001",
+    "villageCode": "001",
+    "districtCode": "81.01.041",
+    "name": "Tumbur",
+    "alias": "Tumbur"
+  },
+  {
+    "code": "81.01.041.002",
+    "villageCode": "002",
+    "districtCode": "81.01.041",
+    "name": "Lorulun",
+    "alias": "Lorulun"
+  },
+  {
+    "code": "81.01.041.005",
+    "villageCode": "005",
+    "districtCode": "81.01.041",
+    "name": "Amdasa",
+    "alias": "Amdasa"
+  },
+  {
+    "code": "81.01.041.006",
+    "villageCode": "006",
+    "districtCode": "81.01.041",
+    "name": "Sangliat Dol",
+    "alias": "Sangliat Dol"
+  },
+  {
+    "code": "81.01.041.007",
+    "villageCode": "007",
+    "districtCode": "81.01.041",
+    "name": "Sangliat Krawain",
+    "alias": "Sangliat Krawain"
+  },
+  {
+    "code": "81.01.041.008",
+    "villageCode": "008",
+    "districtCode": "81.01.041",
+    "name": "Arui Bab",
+    "alias": "Arui Bab"
+  },
+  {
+    "code": "81.01.041.009",
+    "villageCode": "009",
+    "districtCode": "81.01.041",
+    "name": "Arui Das",
+    "alias": "Arui Das"
+  },
+  {
+    "code": "81.01.041.010",
+    "villageCode": "010",
+    "districtCode": "81.01.041",
+    "name": "Atubul Da",
+    "alias": "Atubul Da"
+  },
+  {
+    "code": "81.01.041.011",
+    "villageCode": "011",
+    "districtCode": "81.01.041",
+    "name": "Atubul Dol",
+    "alias": "Atubul Dol"
+  }
+]

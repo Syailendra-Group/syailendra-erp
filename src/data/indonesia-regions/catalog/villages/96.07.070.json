@@ -1,0 +1,65 @@
+[
+  {
+    "code": "96.07.070.001",
+    "villageCode": "001",
+    "districtCode": "96.07.070",
+    "name": "Erelmekawia",
+    "alias": "Erelmekawia"
+  },
+  {
+    "code": "96.07.070.002",
+    "villageCode": "002",
+    "districtCode": "96.07.070",
+    "name": "Wamagun",
+    "alias": "Wamagun"
+  },
+  {
+    "code": "96.07.070.003",
+    "villageCode": "003",
+    "districtCode": "96.07.070",
+    "name": "Kalpamonora",
+    "alias": "Kalpamonora"
+  },
+  {
+    "code": "96.07.070.004",
+    "villageCode": "004",
+    "districtCode": "96.07.070",
+    "name": "Bomogin",
+    "alias": "Bomogin"
+  },
+  {
+    "code": "96.07.070.005",
+    "villageCode": "005",
+    "districtCode": "96.07.070",
+    "name": "Mamoldema",
+    "alias": "Mamoldema"
+  },
+  {
+    "code": "96.07.070.006",
+    "villageCode": "006",
+    "districtCode": "96.07.070",
+    "name": "Ipmangkop",
+    "alias": "Ipmangkop"
+  },
+  {
+    "code": "96.07.070.007",
+    "villageCode": "007",
+    "districtCode": "96.07.070",
+    "name": "Tamagun",
+    "alias": "Tamagun"
+  },
+  {
+    "code": "96.07.070.008",
+    "villageCode": "008",
+    "districtCode": "96.07.070",
+    "name": "Amungkonin",
+    "alias": "Amungkonin"
+  },
+  {
+    "code": "96.07.070.009",
+    "villageCode": "009",
+    "districtCode": "96.07.070",
+    "name": "Ai Arama",
+    "alias": "Ai Arama"
+  }
+]

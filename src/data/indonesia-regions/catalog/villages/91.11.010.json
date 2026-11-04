@@ -1,0 +1,30 @@
+[
+  {
+    "code": "91.11.010.001",
+    "villageCode": "001",
+    "districtCode": "91.11.010",
+    "name": "Kaprus",
+    "alias": "Kaprus"
+  },
+  {
+    "code": "91.11.010.002",
+    "villageCode": "002",
+    "districtCode": "91.11.010",
+    "name": "Reyob",
+    "alias": "Reyob"
+  },
+  {
+    "code": "91.11.010.003",
+    "villageCode": "003",
+    "districtCode": "91.11.010",
+    "name": "Seimeba",
+    "alias": "Seimeba"
+  },
+  {
+    "code": "91.11.010.004",
+    "villageCode": "004",
+    "districtCode": "91.11.010",
+    "name": "Yermatum",
+    "alias": "Yermatum"
+  }
+]

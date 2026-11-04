@@ -1,0 +1,58 @@
+[
+  {
+    "code": "61.08.050.001",
+    "villageCode": "001",
+    "districtCode": "61.08.050",
+    "name": "Tanjung",
+    "alias": "Tanjung"
+  },
+  {
+    "code": "61.08.050.002",
+    "villageCode": "002",
+    "districtCode": "61.08.050",
+    "name": "Kepala Gurung",
+    "alias": "Kepala Gurung"
+  },
+  {
+    "code": "61.08.050.003",
+    "villageCode": "003",
+    "districtCode": "61.08.050",
+    "name": "Suka Maju",
+    "alias": "Suka Maju"
+  },
+  {
+    "code": "61.08.050.004",
+    "villageCode": "004",
+    "districtCode": "61.08.050",
+    "name": "Tekalong",
+    "alias": "Tekalong"
+  },
+  {
+    "code": "61.08.050.005",
+    "villageCode": "005",
+    "districtCode": "61.08.050",
+    "name": "Nanga Mentebah",
+    "alias": "Nanga Mentebah"
+  },
+  {
+    "code": "61.08.050.006",
+    "villageCode": "006",
+    "districtCode": "61.08.050",
+    "name": "Tanjung Intan",
+    "alias": "Tanjung Intan"
+  },
+  {
+    "code": "61.08.050.007",
+    "villageCode": "007",
+    "districtCode": "61.08.050",
+    "name": "Tangai Jaya",
+    "alias": "Tangai Jaya"
+  },
+  {
+    "code": "61.08.050.008",
+    "villageCode": "008",
+    "districtCode": "61.08.050",
+    "name": "Menaren",
+    "alias": "Menaren"
+  }
+]

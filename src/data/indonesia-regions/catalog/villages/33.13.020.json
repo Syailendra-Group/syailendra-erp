@@ -1,0 +1,65 @@
+[
+  {
+    "code": "33.13.020.001",
+    "villageCode": "001",
+    "districtCode": "33.13.020",
+    "name": "Jatisawit",
+    "alias": "Jatisawit"
+  },
+  {
+    "code": "33.13.020.002",
+    "villageCode": "002",
+    "districtCode": "33.13.020",
+    "name": "Petung",
+    "alias": "Petung"
+  },
+  {
+    "code": "33.13.020.003",
+    "villageCode": "003",
+    "districtCode": "33.13.020",
+    "name": "Wonokeling",
+    "alias": "Wonokeling"
+  },
+  {
+    "code": "33.13.020.004",
+    "villageCode": "004",
+    "districtCode": "33.13.020",
+    "name": "Jatiyoso",
+    "alias": "Jatiyoso"
+  },
+  {
+    "code": "33.13.020.005",
+    "villageCode": "005",
+    "districtCode": "33.13.020",
+    "name": "Tlobo",
+    "alias": "Tlobo"
+  },
+  {
+    "code": "33.13.020.006",
+    "villageCode": "006",
+    "districtCode": "33.13.020",
+    "name": "Wonorejo",
+    "alias": "Wonorejo"
+  },
+  {
+    "code": "33.13.020.007",
+    "villageCode": "007",
+    "districtCode": "33.13.020",
+    "name": "Beruk",
+    "alias": "Beruk"
+  },
+  {
+    "code": "33.13.020.008",
+    "villageCode": "008",
+    "districtCode": "33.13.020",
+    "name": "Karangsari",
+    "alias": "Karangsari"
+  },
+  {
+    "code": "33.13.020.009",
+    "villageCode": "009",
+    "districtCode": "33.13.020",
+    "name": "Wukirsawit",
+    "alias": "Wukirsawit"
+  }
+]

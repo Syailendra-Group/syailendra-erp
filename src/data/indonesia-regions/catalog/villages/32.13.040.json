@@ -1,0 +1,72 @@
+[
+  {
+    "code": "32.13.040.001",
+    "villageCode": "001",
+    "districtCode": "32.13.040",
+    "name": "Buniara",
+    "alias": "Buniara"
+  },
+  {
+    "code": "32.13.040.002",
+    "villageCode": "002",
+    "districtCode": "32.13.040",
+    "name": "Tanjungsiang",
+    "alias": "Tanjungsiang"
+  },
+  {
+    "code": "32.13.040.003",
+    "villageCode": "003",
+    "districtCode": "32.13.040",
+    "name": "Cikawung",
+    "alias": "Cikawung"
+  },
+  {
+    "code": "32.13.040.004",
+    "villageCode": "004",
+    "districtCode": "32.13.040",
+    "name": "Cimeuhmal",
+    "alias": "Cimeuhmal"
+  },
+  {
+    "code": "32.13.040.005",
+    "villageCode": "005",
+    "districtCode": "32.13.040",
+    "name": "Sirap",
+    "alias": "Sirap"
+  },
+  {
+    "code": "32.13.040.006",
+    "villageCode": "006",
+    "districtCode": "32.13.040",
+    "name": "Kawungluwuk",
+    "alias": "Kawungluwuk"
+  },
+  {
+    "code": "32.13.040.008",
+    "villageCode": "008",
+    "districtCode": "32.13.040",
+    "name": "Cibuluh",
+    "alias": "Cibuluh"
+  },
+  {
+    "code": "32.13.040.009",
+    "villageCode": "009",
+    "districtCode": "32.13.040",
+    "name": "Sindanglaya",
+    "alias": "Sindanglaya"
+  },
+  {
+    "code": "32.13.040.010",
+    "villageCode": "010",
+    "districtCode": "32.13.040",
+    "name": "Rancamanggung",
+    "alias": "Rancamanggung"
+  },
+  {
+    "code": "32.13.040.011",
+    "villageCode": "011",
+    "districtCode": "32.13.040",
+    "name": "Gandasoli",
+    "alias": "Gandasoli"
+  }
+]

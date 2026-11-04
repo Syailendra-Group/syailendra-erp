@@ -1,0 +1,58 @@
+[
+  {
+    "code": "35.12.150.001",
+    "villageCode": "001",
+    "districtCode": "35.12.150",
+    "name": "Sopet",
+    "alias": "Sopet"
+  },
+  {
+    "code": "35.12.150.002",
+    "villageCode": "002",
+    "districtCode": "35.12.150",
+    "name": "Curah Kalak",
+    "alias": "Curah Kalak"
+  },
+  {
+    "code": "35.12.150.003",
+    "villageCode": "003",
+    "districtCode": "35.12.150",
+    "name": "Palangan",
+    "alias": "Palangan"
+  },
+  {
+    "code": "35.12.150.004",
+    "villageCode": "004",
+    "districtCode": "35.12.150",
+    "name": "Jangkar",
+    "alias": "Jangkar"
+  },
+  {
+    "code": "35.12.150.005",
+    "villageCode": "005",
+    "districtCode": "35.12.150",
+    "name": "Gadingan",
+    "alias": "Gadingan"
+  },
+  {
+    "code": "35.12.150.006",
+    "villageCode": "006",
+    "districtCode": "35.12.150",
+    "name": "Kumbangsari",
+    "alias": "Kumbangsari"
+  },
+  {
+    "code": "35.12.150.007",
+    "villageCode": "007",
+    "districtCode": "35.12.150",
+    "name": "Pesanggrahan",
+    "alias": "Pesanggrahan"
+  },
+  {
+    "code": "35.12.150.008",
+    "villageCode": "008",
+    "districtCode": "35.12.150",
+    "name": "Agel",
+    "alias": "Agel"
+  }
+]

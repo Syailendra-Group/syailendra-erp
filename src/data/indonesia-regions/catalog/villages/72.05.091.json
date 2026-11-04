@@ -1,0 +1,72 @@
+[
+  {
+    "code": "72.05.091.001",
+    "villageCode": "001",
+    "districtCode": "72.05.091",
+    "name": "Bale",
+    "alias": "Bale"
+  },
+  {
+    "code": "72.05.091.002",
+    "villageCode": "002",
+    "districtCode": "72.05.091",
+    "name": "Guntarano",
+    "alias": "Guntarano"
+  },
+  {
+    "code": "72.05.091.003",
+    "villageCode": "003",
+    "districtCode": "72.05.091",
+    "name": "Nupa Bomba",
+    "alias": "Nupa Bomba"
+  },
+  {
+    "code": "72.05.091.004",
+    "villageCode": "004",
+    "districtCode": "72.05.091",
+    "name": "Wombo",
+    "alias": "Wombo"
+  },
+  {
+    "code": "72.05.091.005",
+    "villageCode": "005",
+    "districtCode": "72.05.091",
+    "name": "Wani I",
+    "alias": "Wani I"
+  },
+  {
+    "code": "72.05.091.006",
+    "villageCode": "006",
+    "districtCode": "72.05.091",
+    "name": "Wani Ii",
+    "alias": "Wani Ii"
+  },
+  {
+    "code": "72.05.091.007",
+    "villageCode": "007",
+    "districtCode": "72.05.091",
+    "name": "Wombo Panau",
+    "alias": "Wombo Panau"
+  },
+  {
+    "code": "72.05.091.008",
+    "villageCode": "008",
+    "districtCode": "72.05.091",
+    "name": "Wombo Kalonggo",
+    "alias": "Wombo Kalonggo"
+  },
+  {
+    "code": "72.05.091.009",
+    "villageCode": "009",
+    "districtCode": "72.05.091",
+    "name": "Wani Iii",
+    "alias": "Wani Iii"
+  },
+  {
+    "code": "72.05.091.010",
+    "villageCode": "010",
+    "districtCode": "72.05.091",
+    "name": "Wani Lumbumpetigo",
+    "alias": "Wani Lumbumpetigo"
+  }
+]

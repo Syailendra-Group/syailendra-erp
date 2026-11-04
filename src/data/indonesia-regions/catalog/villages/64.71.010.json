@@ -1,0 +1,51 @@
+[
+  {
+    "code": "64.71.010.006",
+    "villageCode": "006",
+    "districtCode": "64.71.010",
+    "name": "Gunung Bahagia",
+    "alias": "Gunung Bahagia"
+  },
+  {
+    "code": "64.71.010.007",
+    "villageCode": "007",
+    "districtCode": "64.71.010",
+    "name": "Sepinggan",
+    "alias": "Sepinggan"
+  },
+  {
+    "code": "64.71.010.008",
+    "villageCode": "008",
+    "districtCode": "64.71.010",
+    "name": "Damai Baru",
+    "alias": "Damai Baru"
+  },
+  {
+    "code": "64.71.010.009",
+    "villageCode": "009",
+    "districtCode": "64.71.010",
+    "name": "Damai Bahagia",
+    "alias": "Damai Bahagia"
+  },
+  {
+    "code": "64.71.010.010",
+    "villageCode": "010",
+    "districtCode": "64.71.010",
+    "name": "Sungai Nangka",
+    "alias": "Sungai Nangka"
+  },
+  {
+    "code": "64.71.010.011",
+    "villageCode": "011",
+    "districtCode": "64.71.010",
+    "name": "Sepinggan Raya",
+    "alias": "Sepinggan Raya"
+  },
+  {
+    "code": "64.71.010.012",
+    "villageCode": "012",
+    "districtCode": "64.71.010",
+    "name": "Sepinggan Baru",
+    "alias": "Sepinggan Baru"
+  }
+]

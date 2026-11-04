@@ -1,0 +1,79 @@
+[
+  {
+    "code": "73.11.050.001",
+    "villageCode": "001",
+    "districtCode": "73.11.050",
+    "name": "Biccoing",
+    "alias": "Biccoing"
+  },
+  {
+    "code": "73.11.050.002",
+    "villageCode": "002",
+    "districtCode": "73.11.050",
+    "name": "Bacu",
+    "alias": "Bacu"
+  },
+  {
+    "code": "73.11.050.003",
+    "villageCode": "003",
+    "districtCode": "73.11.050",
+    "name": "Muara",
+    "alias": "Muara"
+  },
+  {
+    "code": "73.11.050.004",
+    "villageCode": "004",
+    "districtCode": "73.11.050",
+    "name": "Ujunge",
+    "alias": "Ujunge"
+  },
+  {
+    "code": "73.11.050.005",
+    "villageCode": "005",
+    "districtCode": "73.11.050",
+    "name": "Gareccing",
+    "alias": "Gareccing"
+  },
+  {
+    "code": "73.11.050.006",
+    "villageCode": "006",
+    "districtCode": "73.11.050",
+    "name": "Bonepute",
+    "alias": "Bonepute"
+  },
+  {
+    "code": "73.11.050.007",
+    "villageCode": "007",
+    "districtCode": "73.11.050",
+    "name": "Bulu-Bulu",
+    "alias": "Bulu-Bulu"
+  },
+  {
+    "code": "73.11.050.008",
+    "villageCode": "008",
+    "districtCode": "73.11.050",
+    "name": "Padatuo",
+    "alias": "Padatuo"
+  },
+  {
+    "code": "73.11.050.009",
+    "villageCode": "009",
+    "districtCode": "73.11.050",
+    "name": "Libureng",
+    "alias": "Libureng"
+  },
+  {
+    "code": "73.11.050.010",
+    "villageCode": "010",
+    "districtCode": "73.11.050",
+    "name": "Samaenre",
+    "alias": "Samaenre"
+  },
+  {
+    "code": "73.11.050.011",
+    "villageCode": "011",
+    "districtCode": "73.11.050",
+    "name": "Rappa",
+    "alias": "Rappa"
+  }
+]

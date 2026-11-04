@@ -1,0 +1,79 @@
+[
+  {
+    "code": "63.01.031.001",
+    "villageCode": "001",
+    "districtCode": "63.01.031",
+    "name": "Pantai Harapan",
+    "alias": "Pantai Harapan"
+  },
+  {
+    "code": "63.01.031.002",
+    "villageCode": "002",
+    "districtCode": "63.01.031",
+    "name": "Sungai Rasau",
+    "alias": "Sungai Rasau"
+  },
+  {
+    "code": "63.01.031.003",
+    "villageCode": "003",
+    "districtCode": "63.01.031",
+    "name": "Handil Maluka",
+    "alias": "Handil Maluka"
+  },
+  {
+    "code": "63.01.031.004",
+    "villageCode": "004",
+    "districtCode": "63.01.031",
+    "name": "Handil Labuan Amas",
+    "alias": "Handil Labuan Amas"
+  },
+  {
+    "code": "63.01.031.005",
+    "villageCode": "005",
+    "districtCode": "63.01.031",
+    "name": "Handil Suruk",
+    "alias": "Handil Suruk"
+  },
+  {
+    "code": "63.01.031.006",
+    "villageCode": "006",
+    "districtCode": "63.01.031",
+    "name": "Handil Gayam",
+    "alias": "Handil Gayam"
+  },
+  {
+    "code": "63.01.031.007",
+    "villageCode": "007",
+    "districtCode": "63.01.031",
+    "name": "Kurau Utara",
+    "alias": "Kurau Utara"
+  },
+  {
+    "code": "63.01.031.008",
+    "villageCode": "008",
+    "districtCode": "63.01.031",
+    "name": "Bumi Harapan",
+    "alias": "Bumi Harapan"
+  },
+  {
+    "code": "63.01.031.009",
+    "villageCode": "009",
+    "districtCode": "63.01.031",
+    "name": "Handil Babirik",
+    "alias": "Handil Babirik"
+  },
+  {
+    "code": "63.01.031.010",
+    "villageCode": "010",
+    "districtCode": "63.01.031",
+    "name": "Handil Birayang Bawah",
+    "alias": "Handil Birayang Bawah"
+  },
+  {
+    "code": "63.01.031.011",
+    "villageCode": "011",
+    "districtCode": "63.01.031",
+    "name": "Handil Birayang Atas",
+    "alias": "Handil Birayang Atas"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "code": "95.02.150.001",
+    "villageCode": "001",
+    "districtCode": "95.02.150",
+    "name": "Fefero",
+    "alias": "Fefero"
+  },
+  {
+    "code": "95.02.150.002",
+    "villageCode": "002",
+    "districtCode": "95.02.150",
+    "name": "Yaniruma",
+    "alias": "Yaniruma"
+  },
+  {
+    "code": "95.02.150.003",
+    "villageCode": "003",
+    "districtCode": "95.02.150",
+    "name": "Manggemahe",
+    "alias": "Manggemahe"
+  }
+]

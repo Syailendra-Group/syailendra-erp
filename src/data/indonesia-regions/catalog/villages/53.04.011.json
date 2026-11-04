@@ -1,0 +1,37 @@
+[
+  {
+    "code": "53.04.011.004",
+    "villageCode": "004",
+    "districtCode": "53.04.011",
+    "name": "Fatumnasi",
+    "alias": "Fatumnasi"
+  },
+  {
+    "code": "53.04.011.007",
+    "villageCode": "007",
+    "districtCode": "53.04.011",
+    "name": "Nenas",
+    "alias": "Nenas"
+  },
+  {
+    "code": "53.04.011.008",
+    "villageCode": "008",
+    "districtCode": "53.04.011",
+    "name": "Nuapin",
+    "alias": "Nuapin"
+  },
+  {
+    "code": "53.04.011.009",
+    "villageCode": "009",
+    "districtCode": "53.04.011",
+    "name": "Kuanoel",
+    "alias": "Kuanoel"
+  },
+  {
+    "code": "53.04.011.010",
+    "villageCode": "010",
+    "districtCode": "53.04.011",
+    "name": "Mutis",
+    "alias": "Mutis"
+  }
+]

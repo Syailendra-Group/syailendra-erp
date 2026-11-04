@@ -1,0 +1,72 @@
+[
+  {
+    "code": "17.01.051.001",
+    "villageCode": "001",
+    "districtCode": "17.01.051",
+    "name": "Suka Bandung",
+    "alias": "Suka Bandung"
+  },
+  {
+    "code": "17.01.051.002",
+    "villageCode": "002",
+    "districtCode": "17.01.051",
+    "name": "Penandingan",
+    "alias": "Penandingan"
+  },
+  {
+    "code": "17.01.051.003",
+    "villageCode": "003",
+    "districtCode": "17.01.051",
+    "name": "Maras",
+    "alias": "Maras"
+  },
+  {
+    "code": "17.01.051.004",
+    "villageCode": "004",
+    "districtCode": "17.01.051",
+    "name": "Keban Jati",
+    "alias": "Keban Jati"
+  },
+  {
+    "code": "17.01.051.005",
+    "villageCode": "005",
+    "districtCode": "17.01.051",
+    "name": "Tanjung Beringin",
+    "alias": "Tanjung Beringin"
+  },
+  {
+    "code": "17.01.051.006",
+    "villageCode": "006",
+    "districtCode": "17.01.051",
+    "name": "Palak Bengkerung",
+    "alias": "Palak Bengkerung"
+  },
+  {
+    "code": "17.01.051.007",
+    "villageCode": "007",
+    "districtCode": "17.01.051",
+    "name": "Suka Negeri",
+    "alias": "Suka Negeri"
+  },
+  {
+    "code": "17.01.051.008",
+    "villageCode": "008",
+    "districtCode": "17.01.051",
+    "name": "Pino Baru",
+    "alias": "Pino Baru"
+  },
+  {
+    "code": "17.01.051.009",
+    "villageCode": "009",
+    "districtCode": "17.01.051",
+    "name": "Suka Maju",
+    "alias": "Suka Maju"
+  },
+  {
+    "code": "17.01.051.010",
+    "villageCode": "010",
+    "districtCode": "17.01.051",
+    "name": "Sukarami",
+    "alias": "Sukarami"
+  }
+]

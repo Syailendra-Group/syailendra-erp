@@ -1,0 +1,65 @@
+[
+  {
+    "code": "53.11.053.001",
+    "villageCode": "001",
+    "districtCode": "53.11.053",
+    "name": "Pemo",
+    "alias": "Pemo"
+  },
+  {
+    "code": "53.11.053.002",
+    "villageCode": "002",
+    "districtCode": "53.11.053",
+    "name": "Woloara",
+    "alias": "Woloara"
+  },
+  {
+    "code": "53.11.053.003",
+    "villageCode": "003",
+    "districtCode": "53.11.053",
+    "name": "Koanara",
+    "alias": "Koanara"
+  },
+  {
+    "code": "53.11.053.004",
+    "villageCode": "004",
+    "districtCode": "53.11.053",
+    "name": "Nuamuri",
+    "alias": "Nuamuri"
+  },
+  {
+    "code": "53.11.053.005",
+    "villageCode": "005",
+    "districtCode": "53.11.053",
+    "name": "Nuamuri Barat",
+    "alias": "Nuamuri Barat"
+  },
+  {
+    "code": "53.11.053.006",
+    "villageCode": "006",
+    "districtCode": "53.11.053",
+    "name": "Nduaria",
+    "alias": "Nduaria"
+  },
+  {
+    "code": "53.11.053.009",
+    "villageCode": "009",
+    "districtCode": "53.11.053",
+    "name": "Waturaka",
+    "alias": "Waturaka"
+  },
+  {
+    "code": "53.11.053.010",
+    "villageCode": "010",
+    "districtCode": "53.11.053",
+    "name": "Detuena",
+    "alias": "Detuena"
+  },
+  {
+    "code": "53.11.053.011",
+    "villageCode": "011",
+    "districtCode": "53.11.053",
+    "name": "Wolokelo",
+    "alias": "Wolokelo"
+  }
+]

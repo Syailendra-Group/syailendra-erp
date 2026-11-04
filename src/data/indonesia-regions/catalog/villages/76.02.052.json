@@ -1,0 +1,37 @@
+[
+  {
+    "code": "76.02.052.002",
+    "villageCode": "002",
+    "districtCode": "76.02.052",
+    "name": "Anreapi",
+    "alias": "Anreapi"
+  },
+  {
+    "code": "76.02.052.003",
+    "villageCode": "003",
+    "districtCode": "76.02.052",
+    "name": "Kelapa Dua",
+    "alias": "Kelapa Dua"
+  },
+  {
+    "code": "76.02.052.004",
+    "villageCode": "004",
+    "districtCode": "76.02.052",
+    "name": "Pappandangan",
+    "alias": "Pappandangan"
+  },
+  {
+    "code": "76.02.052.005",
+    "villageCode": "005",
+    "districtCode": "76.02.052",
+    "name": "Duampanua",
+    "alias": "Duampanua"
+  },
+  {
+    "code": "76.02.052.006",
+    "villageCode": "006",
+    "districtCode": "76.02.052",
+    "name": "Kunyi",
+    "alias": "Kunyi"
+  }
+]

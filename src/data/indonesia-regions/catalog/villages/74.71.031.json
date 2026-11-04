@@ -1,0 +1,65 @@
+[
+  {
+    "code": "74.71.031.001",
+    "villageCode": "001",
+    "districtCode": "74.71.031",
+    "name": "Kemaraya",
+    "alias": "Kemaraya"
+  },
+  {
+    "code": "74.71.031.002",
+    "villageCode": "002",
+    "districtCode": "74.71.031",
+    "name": "Watu-Watu",
+    "alias": "Watu-Watu"
+  },
+  {
+    "code": "74.71.031.003",
+    "villageCode": "003",
+    "districtCode": "74.71.031",
+    "name": "Tipulu",
+    "alias": "Tipulu"
+  },
+  {
+    "code": "74.71.031.004",
+    "villageCode": "004",
+    "districtCode": "74.71.031",
+    "name": "Punggaloba",
+    "alias": "Punggaloba"
+  },
+  {
+    "code": "74.71.031.005",
+    "villageCode": "005",
+    "districtCode": "74.71.031",
+    "name": "Benu-Benua",
+    "alias": "Benu-Benua"
+  },
+  {
+    "code": "74.71.031.006",
+    "villageCode": "006",
+    "districtCode": "74.71.031",
+    "name": "Sodohoa",
+    "alias": "Sodohoa"
+  },
+  {
+    "code": "74.71.031.007",
+    "villageCode": "007",
+    "districtCode": "74.71.031",
+    "name": "Sanua",
+    "alias": "Sanua"
+  },
+  {
+    "code": "74.71.031.008",
+    "villageCode": "008",
+    "districtCode": "74.71.031",
+    "name": "Dapu-Dapura",
+    "alias": "Dapu-Dapura"
+  },
+  {
+    "code": "74.71.031.009",
+    "villageCode": "009",
+    "districtCode": "74.71.031",
+    "name": "Lahundape",
+    "alias": "Lahundape"
+  }
+]

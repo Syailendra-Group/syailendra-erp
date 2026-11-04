@@ -1,0 +1,30 @@
+[
+  {
+    "code": "94.19.041.001",
+    "villageCode": "001",
+    "districtCode": "94.19.041",
+    "name": "Bora Bora",
+    "alias": "Bora Bora"
+  },
+  {
+    "code": "94.19.041.002",
+    "villageCode": "002",
+    "districtCode": "94.19.041",
+    "name": "Togonfo / Teminabor",
+    "alias": "Togonfo / Teminabor"
+  },
+  {
+    "code": "94.19.041.003",
+    "villageCode": "003",
+    "districtCode": "94.19.041",
+    "name": "Waaf",
+    "alias": "Waaf"
+  },
+  {
+    "code": "94.19.041.004",
+    "villageCode": "004",
+    "districtCode": "94.19.041",
+    "name": "Segar Tor",
+    "alias": "Segar Tor"
+  }
+]

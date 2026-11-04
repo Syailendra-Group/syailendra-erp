@@ -1,0 +1,51 @@
+[
+  {
+    "code": "32.13.010.003",
+    "villageCode": "003",
+    "districtCode": "32.13.010",
+    "name": "Sukamandi",
+    "alias": "Sukamandi"
+  },
+  {
+    "code": "32.13.010.004",
+    "villageCode": "004",
+    "districtCode": "32.13.010",
+    "name": "Cicadas",
+    "alias": "Cicadas"
+  },
+  {
+    "code": "32.13.010.005",
+    "villageCode": "005",
+    "districtCode": "32.13.010",
+    "name": "Sagalaherang",
+    "alias": "Sagalaherang"
+  },
+  {
+    "code": "32.13.010.006",
+    "villageCode": "006",
+    "districtCode": "32.13.010",
+    "name": "Dayeuhkolot",
+    "alias": "Dayeuhkolot"
+  },
+  {
+    "code": "32.13.010.011",
+    "villageCode": "011",
+    "districtCode": "32.13.010",
+    "name": "Leles",
+    "alias": "Leles"
+  },
+  {
+    "code": "32.13.010.012",
+    "villageCode": "012",
+    "districtCode": "32.13.010",
+    "name": "Sagalaherang Kaler",
+    "alias": "Sagalaherang Kaler"
+  },
+  {
+    "code": "32.13.010.013",
+    "villageCode": "013",
+    "districtCode": "32.13.010",
+    "name": "Curugagung",
+    "alias": "Curugagung"
+  }
+]

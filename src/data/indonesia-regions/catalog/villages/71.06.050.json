@@ -1,0 +1,79 @@
+[
+  {
+    "code": "71.06.050.002",
+    "villageCode": "002",
+    "districtCode": "71.06.050",
+    "name": "Matungkas",
+    "alias": "Matungkas"
+  },
+  {
+    "code": "71.06.050.003",
+    "villageCode": "003",
+    "districtCode": "71.06.050",
+    "name": "Laikit",
+    "alias": "Laikit"
+  },
+  {
+    "code": "71.06.050.004",
+    "villageCode": "004",
+    "districtCode": "71.06.050",
+    "name": "Dimembe",
+    "alias": "Dimembe"
+  },
+  {
+    "code": "71.06.050.005",
+    "villageCode": "005",
+    "districtCode": "71.06.050",
+    "name": "Klabat",
+    "alias": "Klabat"
+  },
+  {
+    "code": "71.06.050.006",
+    "villageCode": "006",
+    "districtCode": "71.06.050",
+    "name": "Warukapas",
+    "alias": "Warukapas"
+  },
+  {
+    "code": "71.06.050.007",
+    "villageCode": "007",
+    "districtCode": "71.06.050",
+    "name": "Tetey",
+    "alias": "Tetey"
+  },
+  {
+    "code": "71.06.050.011",
+    "villageCode": "011",
+    "districtCode": "71.06.050",
+    "name": "Tatelu",
+    "alias": "Tatelu"
+  },
+  {
+    "code": "71.06.050.012",
+    "villageCode": "012",
+    "districtCode": "71.06.050",
+    "name": "Pinilih",
+    "alias": "Pinilih"
+  },
+  {
+    "code": "71.06.050.013",
+    "villageCode": "013",
+    "districtCode": "71.06.050",
+    "name": "Tatelu Rondor",
+    "alias": "Tatelu Rondor"
+  },
+  {
+    "code": "71.06.050.014",
+    "villageCode": "014",
+    "districtCode": "71.06.050",
+    "name": "Wasian",
+    "alias": "Wasian"
+  },
+  {
+    "code": "71.06.050.015",
+    "villageCode": "015",
+    "districtCode": "71.06.050",
+    "name": "Lumpias",
+    "alias": "Lumpias"
+  }
+]

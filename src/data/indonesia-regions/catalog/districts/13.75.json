@@ -1,0 +1,26 @@
+[
+  {
+    "code": "13.75.010",
+    "districtCode": "010",
+    "regencyCode": "13.75",
+    "provinceCode": "13",
+    "name": "Kecamatan Guguk Panjang",
+    "alias": "Guguk Panjang"
+  },
+  {
+    "code": "13.75.020",
+    "districtCode": "020",
+    "regencyCode": "13.75",
+    "provinceCode": "13",
+    "name": "Kecamatan Mandiangin Koto Selayan",
+    "alias": "Mandiangin Koto Selayan"
+  },
+  {
+    "code": "13.75.030",
+    "districtCode": "030",
+    "regencyCode": "13.75",
+    "provinceCode": "13",
+    "name": "Kecamatan Aur Birugo Tigo Baleh",
+    "alias": "Aur Birugo Tigo Baleh"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "code": "11.01.022.001",
+    "villageCode": "001",
+    "districtCode": "11.01.022",
+    "name": "Kahad",
+    "alias": "Kahad"
+  },
+  {
+    "code": "11.01.022.002",
+    "villageCode": "002",
+    "districtCode": "11.01.022",
+    "name": "Busung Indah",
+    "alias": "Busung Indah"
+  },
+  {
+    "code": "11.01.022.003",
+    "villageCode": "003",
+    "districtCode": "11.01.022",
+    "name": "Nancawa",
+    "alias": "Nancawa"
+  },
+  {
+    "code": "11.01.022.004",
+    "villageCode": "004",
+    "districtCode": "11.01.022",
+    "name": "Labuah",
+    "alias": "Labuah"
+  },
+  {
+    "code": "11.01.022.005",
+    "villageCode": "005",
+    "districtCode": "11.01.022",
+    "name": "Abail",
+    "alias": "Abail"
+  },
+  {
+    "code": "11.01.022.006",
+    "villageCode": "006",
+    "districtCode": "11.01.022",
+    "name": "Simpang Abail",
+    "alias": "Simpang Abail"
+  },
+  {
+    "code": "11.01.022.007",
+    "villageCode": "007",
+    "districtCode": "11.01.022",
+    "name": "Lanting",
+    "alias": "Lanting"
+  },
+  {
+    "code": "11.01.022.008",
+    "villageCode": "008",
+    "districtCode": "11.01.022",
+    "name": "Lasikin",
+    "alias": "Lasikin"
+  },
+  {
+    "code": "11.01.022.009",
+    "villageCode": "009",
+    "districtCode": "11.01.022",
+    "name": "Matanurung",
+    "alias": "Matanurung"
+  },
+  {
+    "code": "11.01.022.010",
+    "villageCode": "010",
+    "districtCode": "11.01.022",
+    "name": "Sua Sua",
+    "alias": "Sua Sua"
+  },
+  {
+    "code": "11.01.022.011",
+    "villageCode": "011",
+    "districtCode": "11.01.022",
+    "name": "Batu Batu",
+    "alias": "Batu Batu"
+  },
+  {
+    "code": "11.01.022.012",
+    "villageCode": "012",
+    "districtCode": "11.01.022",
+    "name": "Situbuk",
+    "alias": "Situbuk"
+  }
+]

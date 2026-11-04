@@ -1,0 +1,44 @@
+[
+  {
+    "code": "82.02.043.001",
+    "villageCode": "001",
+    "districtCode": "82.02.043",
+    "name": "Gemia",
+    "alias": "Gemia"
+  },
+  {
+    "code": "82.02.043.002",
+    "villageCode": "002",
+    "districtCode": "82.02.043",
+    "name": "Tepeleo",
+    "alias": "Tepeleo"
+  },
+  {
+    "code": "82.02.043.006",
+    "villageCode": "006",
+    "districtCode": "82.02.043",
+    "name": "Bilifitu",
+    "alias": "Bilifitu"
+  },
+  {
+    "code": "82.02.043.007",
+    "villageCode": "007",
+    "districtCode": "82.02.043",
+    "name": "Tepeleo Batu Dua",
+    "alias": "Tepeleo Batu Dua"
+  },
+  {
+    "code": "82.02.043.008",
+    "villageCode": "008",
+    "districtCode": "82.02.043",
+    "name": "Pantura Jaya",
+    "alias": "Pantura Jaya"
+  },
+  {
+    "code": "82.02.043.011",
+    "villageCode": "011",
+    "districtCode": "82.02.043",
+    "name": "Maliforo",
+    "alias": "Maliforo"
+  }
+]

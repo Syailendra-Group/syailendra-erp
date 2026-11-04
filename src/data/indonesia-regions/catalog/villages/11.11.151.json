@@ -1,0 +1,79 @@
+[
+  {
+    "code": "11.11.151.001",
+    "villageCode": "001",
+    "districtCode": "11.11.151",
+    "name": "Keureutoau",
+    "alias": "Keureutoau"
+  },
+  {
+    "code": "11.11.151.002",
+    "villageCode": "002",
+    "districtCode": "11.11.151",
+    "name": "Lueng Baro",
+    "alias": "Lueng Baro"
+  },
+  {
+    "code": "11.11.151.003",
+    "villageCode": "003",
+    "districtCode": "11.11.151",
+    "name": "Merbo Lama",
+    "alias": "Merbo Lama"
+  },
+  {
+    "code": "11.11.151.004",
+    "villageCode": "004",
+    "districtCode": "11.11.151",
+    "name": "Merbo Jurong",
+    "alias": "Merbo Jurong"
+  },
+  {
+    "code": "11.11.151.005",
+    "villageCode": "005",
+    "districtCode": "11.11.151",
+    "name": "Tanjung Dama",
+    "alias": "Tanjung Dama"
+  },
+  {
+    "code": "11.11.151.006",
+    "villageCode": "006",
+    "districtCode": "11.11.151",
+    "name": "Geulanggang Baro",
+    "alias": "Geulanggang Baro"
+  },
+  {
+    "code": "11.11.151.007",
+    "villageCode": "007",
+    "districtCode": "11.11.151",
+    "name": "Matang Tunong",
+    "alias": "Matang Tunong"
+  },
+  {
+    "code": "11.11.151.008",
+    "villageCode": "008",
+    "districtCode": "11.11.151",
+    "name": "Matang Baroh",
+    "alias": "Matang Baroh"
+  },
+  {
+    "code": "11.11.151.009",
+    "villageCode": "009",
+    "districtCode": "11.11.151",
+    "name": "Keude Lapang",
+    "alias": "Keude Lapang"
+  },
+  {
+    "code": "11.11.151.010",
+    "villageCode": "010",
+    "districtCode": "11.11.151",
+    "name": "Kuala Cangkoi",
+    "alias": "Kuala Cangkoi"
+  },
+  {
+    "code": "11.11.151.011",
+    "villageCode": "011",
+    "districtCode": "11.11.151",
+    "name": "Kuala Kereutou",
+    "alias": "Kuala Kereutou"
+  }
+]

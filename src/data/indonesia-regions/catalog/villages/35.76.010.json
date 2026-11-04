@@ -1,0 +1,44 @@
+[
+  {
+    "code": "35.76.010.001",
+    "villageCode": "001",
+    "districtCode": "35.76.010",
+    "name": "Surodinawan",
+    "alias": "Surodinawan"
+  },
+  {
+    "code": "35.76.010.004",
+    "villageCode": "004",
+    "districtCode": "35.76.010",
+    "name": "Prajurit Kulon",
+    "alias": "Prajurit Kulon"
+  },
+  {
+    "code": "35.76.010.005",
+    "villageCode": "005",
+    "districtCode": "35.76.010",
+    "name": "Blooto",
+    "alias": "Blooto"
+  },
+  {
+    "code": "35.76.010.006",
+    "villageCode": "006",
+    "districtCode": "35.76.010",
+    "name": "Mentikan",
+    "alias": "Mentikan"
+  },
+  {
+    "code": "35.76.010.007",
+    "villageCode": "007",
+    "districtCode": "35.76.010",
+    "name": "Kauman",
+    "alias": "Kauman"
+  },
+  {
+    "code": "35.76.010.008",
+    "villageCode": "008",
+    "districtCode": "35.76.010",
+    "name": "Pulorejo",
+    "alias": "Pulorejo"
+  }
+]

@@ -1,0 +1,194 @@
+[
+  {
+    "code": "91.04.010",
+    "districtCode": "010",
+    "regencyCode": "91.04",
+    "provinceCode": "91",
+    "name": "Kecamatan Fafurwar",
+    "alias": "Fafurwar"
+  },
+  {
+    "code": "91.04.020",
+    "districtCode": "020",
+    "regencyCode": "91.04",
+    "provinceCode": "91",
+    "name": "Kecamatan Babo",
+    "alias": "Babo"
+  },
+  {
+    "code": "91.04.021",
+    "districtCode": "021",
+    "regencyCode": "91.04",
+    "provinceCode": "91",
+    "name": "Kecamatan Sumuri",
+    "alias": "Sumuri"
+  },
+  {
+    "code": "91.04.022",
+    "districtCode": "022",
+    "regencyCode": "91.04",
+    "provinceCode": "91",
+    "name": "Kecamatan Aroba",
+    "alias": "Aroba"
+  },
+  {
+    "code": "91.04.023",
+    "districtCode": "023",
+    "regencyCode": "91.04",
+    "provinceCode": "91",
+    "name": "Kecamatan Kaitaro",
+    "alias": "Kaitaro"
+  },
+  {
+    "code": "91.04.030",
+    "districtCode": "030",
+    "regencyCode": "91.04",
+    "provinceCode": "91",
+    "name": "Kecamatan Kuri",
+    "alias": "Kuri"
+  },
+  {
+    "code": "91.04.040",
+    "districtCode": "040",
+    "regencyCode": "91.04",
+    "provinceCode": "91",
+    "name": "Kecamatan Wamesa",
+    "alias": "Wamesa"
+  },
+  {
+    "code": "91.04.050",
+    "districtCode": "050",
+    "regencyCode": "91.04",
+    "provinceCode": "91",
+    "name": "Kecamatan Bintuni",
+    "alias": "Bintuni"
+  },
+  {
+    "code": "91.04.051",
+    "districtCode": "051",
+    "regencyCode": "91.04",
+    "provinceCode": "91",
+    "name": "Kecamatan Manimeri",
+    "alias": "Manimeri"
+  },
+  {
+    "code": "91.04.052",
+    "districtCode": "052",
+    "regencyCode": "91.04",
+    "provinceCode": "91",
+    "name": "Kecamatan Tuhiba",
+    "alias": "Tuhiba"
+  },
+  {
+    "code": "91.04.053",
+    "districtCode": "053",
+    "regencyCode": "91.04",
+    "provinceCode": "91",
+    "name": "Kecamatan Dataran Beimes",
+    "alias": "Dataran Beimes"
+  },
+  {
+    "code": "91.04.060",
+    "districtCode": "060",
+    "regencyCode": "91.04",
+    "provinceCode": "91",
+    "name": "Kecamatan Tembuni",
+    "alias": "Tembuni"
+  },
+  {
+    "code": "91.04.070",
+    "districtCode": "070",
+    "regencyCode": "91.04",
+    "provinceCode": "91",
+    "name": "Kecamatan Aranday",
+    "alias": "Aranday"
+  },
+  {
+    "code": "91.04.071",
+    "districtCode": "071",
+    "regencyCode": "91.04",
+    "provinceCode": "91",
+    "name": "Kecamatan Kamundan",
+    "alias": "Kamundan"
+  },
+  {
+    "code": "91.04.072",
+    "districtCode": "072",
+    "regencyCode": "91.04",
+    "provinceCode": "91",
+    "name": "Kecamatan Tomu",
+    "alias": "Tomu"
+  },
+  {
+    "code": "91.04.073",
+    "districtCode": "073",
+    "regencyCode": "91.04",
+    "provinceCode": "91",
+    "name": "Kecamatan Weriagar",
+    "alias": "Weriagar"
+  },
+  {
+    "code": "91.04.080",
+    "districtCode": "080",
+    "regencyCode": "91.04",
+    "provinceCode": "91",
+    "name": "Kecamatan Moskona Selatan",
+    "alias": "Moskona Selatan"
+  },
+  {
+    "code": "91.04.081",
+    "districtCode": "081",
+    "regencyCode": "91.04",
+    "provinceCode": "91",
+    "name": "Kecamatan Meyado",
+    "alias": "Meyado"
+  },
+  {
+    "code": "91.04.082",
+    "districtCode": "082",
+    "regencyCode": "91.04",
+    "provinceCode": "91",
+    "name": "Kecamatan Moskona Barat",
+    "alias": "Moskona Barat"
+  },
+  {
+    "code": "91.04.090",
+    "districtCode": "090",
+    "regencyCode": "91.04",
+    "provinceCode": "91",
+    "name": "Kecamatan Merdey",
+    "alias": "Merdey"
+  },
+  {
+    "code": "91.04.091",
+    "districtCode": "091",
+    "regencyCode": "91.04",
+    "provinceCode": "91",
+    "name": "Kecamatan Biscoop",
+    "alias": "Biscoop"
+  },
+  {
+    "code": "91.04.092",
+    "districtCode": "092",
+    "regencyCode": "91.04",
+    "provinceCode": "91",
+    "name": "Kecamatan Masyeta",
+    "alias": "Masyeta"
+  },
+  {
+    "code": "91.04.100",
+    "districtCode": "100",
+    "regencyCode": "91.04",
+    "provinceCode": "91",
+    "name": "Kecamatan Moskona Utara",
+    "alias": "Moskona Utara"
+  },
+  {
+    "code": "91.04.101",
+    "districtCode": "101",
+    "regencyCode": "91.04",
+    "provinceCode": "91",
+    "name": "Kecamatan Moskona Timur",
+    "alias": "Moskona Timur"
+  }
+]

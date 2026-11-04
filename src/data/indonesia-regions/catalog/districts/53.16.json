@@ -1,0 +1,50 @@
+[
+  {
+    "code": "53.16.010",
+    "districtCode": "010",
+    "regencyCode": "53.16",
+    "provinceCode": "53",
+    "name": "Kecamatan Katikutana",
+    "alias": "Katikutana"
+  },
+  {
+    "code": "53.16.011",
+    "districtCode": "011",
+    "regencyCode": "53.16",
+    "provinceCode": "53",
+    "name": "Kecamatan Katikutana Selatan",
+    "alias": "Katikutana Selatan"
+  },
+  {
+    "code": "53.16.020",
+    "districtCode": "020",
+    "regencyCode": "53.16",
+    "provinceCode": "53",
+    "name": "Kecamatan Umbu Ratu Nggay Barat",
+    "alias": "Umbu Ratu Nggay Barat"
+  },
+  {
+    "code": "53.16.030",
+    "districtCode": "030",
+    "regencyCode": "53.16",
+    "provinceCode": "53",
+    "name": "Kecamatan Umbu Ratu Nggay",
+    "alias": "Umbu Ratu Nggay"
+  },
+  {
+    "code": "53.16.031",
+    "districtCode": "031",
+    "regencyCode": "53.16",
+    "provinceCode": "53",
+    "name": "Kecamatan Umbu Ratu Nggay Tengah",
+    "alias": "Umbu Ratu Nggay Tengah"
+  },
+  {
+    "code": "53.16.040",
+    "districtCode": "040",
+    "regencyCode": "53.16",
+    "provinceCode": "53",
+    "name": "Kecamatan Mamboro",
+    "alias": "Mamboro"
+  }
+]

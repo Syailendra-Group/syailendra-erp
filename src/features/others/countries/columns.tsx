@@ -29,15 +29,10 @@ export function getColumns({ t, onView, onEdit, onDelete }: GetColumnsProps): Co
     },
     {
       accessorKey: 'phone_code',
-      header: 'Kode Telepon',
+      header: t('table.phoneCode'),
       cell: ({ row }) => (
         <span className="text-muted-foreground font-mono text-xs">{row.original.phone_code ? `+${row.original.phone_code}` : '-'}</span>
       )
-    },
-    {
-      accessorKey: 'currency_id',
-      header: t('table.currency'),
-      cell: ({ row }) => <span className="text-muted-foreground text-xs">{row.original.currency_id ? row.original.currency_id[1] : '-'}</span>
     },
     {
       id: 'actions',

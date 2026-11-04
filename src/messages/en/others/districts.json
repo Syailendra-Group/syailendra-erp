@@ -1,35 +1,37 @@
 {
-  "title": "Districts (Kecamatan)",
-  "subtitle": "Farming sub-jurisdictions and local distillation centers",
+  "title": "Districts Master",
+  "subtitle": "Plantation development areas & plantation district sub-units",
   "primaryAction": "Add District",
   "table": {
     "name": "District Name",
     "code": "Code",
-    "regency": "Regency / City",
-    "province": "Province",
-    "status": "Status"
+    "alias": "Alias",
+    "city": "Regency / City",
+    "province": "Province"
   },
   "form": {
+    "catalogLabel": "Select from 7,288 Districts Catalog",
+    "catalogPlaceholder": "Search & select district in Indonesia...",
     "parentLabel": "Parent Regency",
     "parentPlaceholder": "Select Regency",
-    "namePlaceholder": "e.g. Kejajar District",
+    "namePlaceholder": "e.g. Kecamatan Candiroto",
     "aliasLabel": "Alias Name (Dropdown)",
-    "aliasPlaceholder": "e.g. Kejajar",
+    "aliasPlaceholder": "e.g. Candiroto",
     "codePlaceholder": "e.g. 33.23.08",
-    "descLabel": "Description / Territory Notes (Optional)",
-    "descPlaceholder": "Highland agronomic features, seedling hub..."
+    "descLabel": "Description / Regional Notes (Optional)",
+    "descPlaceholder": "Highland agronomic profile, seedling nursery center..."
   },
   "dialog": {
     "addTitle": "Register New District",
-    "addDesc": "Register a new plantation district.",
+    "addDesc": "Register a new district into the system regional catalog.",
     "editTitle": "Edit District Data",
     "editDesc": "Update official code, name, or parent regency.",
-    "viewTitle": "District Data Details",
-    "viewDesc": "Official district information and parent regency relation."
+    "viewTitle": "District Details",
+    "viewDesc": "Official regional data and parent regency information."
   },
   "alert": {
     "parentMissingTitle": "Parent Regency Not Registered",
-    "parentMissingDesc": "Regency {regency} is not yet registered in master data.",
+    "parentMissingDesc": "Parent regency {regency} is not yet registered in master data.",
     "autoAddLabel": "Automatically register Regency {regency} to Master Data"
   }
 }

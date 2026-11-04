@@ -1,0 +1,44 @@
+[
+  {
+    "code": "19.01.091.001",
+    "villageCode": "001",
+    "districtCode": "19.01.091",
+    "name": "Penyamun",
+    "alias": "Penyamun"
+  },
+  {
+    "code": "19.01.091.002",
+    "villageCode": "002",
+    "districtCode": "19.01.091",
+    "name": "Pemali",
+    "alias": "Pemali"
+  },
+  {
+    "code": "19.01.091.003",
+    "villageCode": "003",
+    "districtCode": "19.01.091",
+    "name": "Air Duren",
+    "alias": "Air Duren"
+  },
+  {
+    "code": "19.01.091.004",
+    "villageCode": "004",
+    "districtCode": "19.01.091",
+    "name": "Air Ruai",
+    "alias": "Air Ruai"
+  },
+  {
+    "code": "19.01.091.005",
+    "villageCode": "005",
+    "districtCode": "19.01.091",
+    "name": "Karya Makmur",
+    "alias": "Karya Makmur"
+  },
+  {
+    "code": "19.01.091.006",
+    "villageCode": "006",
+    "districtCode": "19.01.091",
+    "name": "Sempan",
+    "alias": "Sempan"
+  }
+]

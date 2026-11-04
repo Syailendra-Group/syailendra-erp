@@ -1,0 +1,100 @@
+[
+  {
+    "code": "72.12.020.001",
+    "villageCode": "001",
+    "districtCode": "72.12.020",
+    "name": "Wawopada",
+    "alias": "Wawopada"
+  },
+  {
+    "code": "72.12.020.002",
+    "villageCode": "002",
+    "districtCode": "72.12.020",
+    "name": "Lembobaru",
+    "alias": "Lembobaru"
+  },
+  {
+    "code": "72.12.020.003",
+    "villageCode": "003",
+    "districtCode": "72.12.020",
+    "name": "Wara A",
+    "alias": "Wara A"
+  },
+  {
+    "code": "72.12.020.004",
+    "villageCode": "004",
+    "districtCode": "72.12.020",
+    "name": "Tingkea O",
+    "alias": "Tingkea O"
+  },
+  {
+    "code": "72.12.020.005",
+    "villageCode": "005",
+    "districtCode": "72.12.020",
+    "name": "Korobonde",
+    "alias": "Korobonde"
+  },
+  {
+    "code": "72.12.020.006",
+    "villageCode": "006",
+    "districtCode": "72.12.020",
+    "name": "Mora",
+    "alias": "Mora"
+  },
+  {
+    "code": "72.12.020.007",
+    "villageCode": "007",
+    "districtCode": "72.12.020",
+    "name": "Uluanso",
+    "alias": "Uluanso"
+  },
+  {
+    "code": "72.12.020.008",
+    "villageCode": "008",
+    "districtCode": "72.12.020",
+    "name": "Beteleme",
+    "alias": "Beteleme"
+  },
+  {
+    "code": "72.12.020.009",
+    "villageCode": "009",
+    "districtCode": "72.12.020",
+    "name": "Tinompo",
+    "alias": "Tinompo"
+  },
+  {
+    "code": "72.12.020.010",
+    "villageCode": "010",
+    "districtCode": "72.12.020",
+    "name": "Koro Walelo",
+    "alias": "Koro Walelo"
+  },
+  {
+    "code": "72.12.020.011",
+    "villageCode": "011",
+    "districtCode": "72.12.020",
+    "name": "Kumpi",
+    "alias": "Kumpi"
+  },
+  {
+    "code": "72.12.020.012",
+    "villageCode": "012",
+    "districtCode": "72.12.020",
+    "name": "Korompeeli",
+    "alias": "Korompeeli"
+  },
+  {
+    "code": "72.12.020.013",
+    "villageCode": "013",
+    "districtCode": "72.12.020",
+    "name": "Lemboroma",
+    "alias": "Lemboroma"
+  },
+  {
+    "code": "72.12.020.014",
+    "villageCode": "014",
+    "districtCode": "72.12.020",
+    "name": "Korowou",
+    "alias": "Korowou"
+  }
+]

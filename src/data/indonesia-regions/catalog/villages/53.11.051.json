@@ -1,0 +1,44 @@
+[
+  {
+    "code": "53.11.051.001",
+    "villageCode": "001",
+    "districtCode": "53.11.051",
+    "name": "Nuamuli",
+    "alias": "Nuamuli"
+  },
+  {
+    "code": "53.11.051.002",
+    "villageCode": "002",
+    "districtCode": "53.11.051",
+    "name": "Nggela",
+    "alias": "Nggela"
+  },
+  {
+    "code": "53.11.051.003",
+    "villageCode": "003",
+    "districtCode": "53.11.051",
+    "name": "Pora",
+    "alias": "Pora"
+  },
+  {
+    "code": "53.11.051.004",
+    "villageCode": "004",
+    "districtCode": "53.11.051",
+    "name": "Kel. Wolojita",
+    "alias": "Kel. Wolojita"
+  },
+  {
+    "code": "53.11.051.005",
+    "villageCode": "005",
+    "districtCode": "53.11.051",
+    "name": "Tenda",
+    "alias": "Tenda"
+  },
+  {
+    "code": "53.11.051.006",
+    "villageCode": "006",
+    "districtCode": "53.11.051",
+    "name": "Wiwipemo",
+    "alias": "Wiwipemo"
+  }
+]

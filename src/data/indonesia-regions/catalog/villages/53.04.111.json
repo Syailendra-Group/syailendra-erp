@@ -1,0 +1,65 @@
+[
+  {
+    "code": "53.04.111.001",
+    "villageCode": "001",
+    "districtCode": "53.04.111",
+    "name": "Oeleu",
+    "alias": "Oeleu"
+  },
+  {
+    "code": "53.04.111.002",
+    "villageCode": "002",
+    "districtCode": "53.04.111",
+    "name": "Skinu",
+    "alias": "Skinu"
+  },
+  {
+    "code": "53.04.111.003",
+    "villageCode": "003",
+    "districtCode": "53.04.111",
+    "name": "Toianas",
+    "alias": "Toianas"
+  },
+  {
+    "code": "53.04.111.004",
+    "villageCode": "004",
+    "districtCode": "53.04.111",
+    "name": "Sambet",
+    "alias": "Sambet"
+  },
+  {
+    "code": "53.04.111.005",
+    "villageCode": "005",
+    "districtCode": "53.04.111",
+    "name": "Bokong",
+    "alias": "Bokong"
+  },
+  {
+    "code": "53.04.111.006",
+    "villageCode": "006",
+    "districtCode": "53.04.111",
+    "name": "Tuataum",
+    "alias": "Tuataum"
+  },
+  {
+    "code": "53.04.111.007",
+    "villageCode": "007",
+    "districtCode": "53.04.111",
+    "name": "Lobus",
+    "alias": "Lobus"
+  },
+  {
+    "code": "53.04.111.008",
+    "villageCode": "008",
+    "districtCode": "53.04.111",
+    "name": "Mili",
+    "alias": "Mili"
+  },
+  {
+    "code": "53.04.111.009",
+    "villageCode": "009",
+    "districtCode": "53.04.111",
+    "name": "Noeolin",
+    "alias": "Noeolin"
+  }
+]

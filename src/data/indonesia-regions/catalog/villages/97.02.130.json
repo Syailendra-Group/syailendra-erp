@@ -1,0 +1,72 @@
+[
+  {
+    "code": "97.02.130.001",
+    "villageCode": "001",
+    "districtCode": "97.02.130",
+    "name": "Habema",
+    "alias": "Habema"
+  },
+  {
+    "code": "97.02.130.002",
+    "villageCode": "002",
+    "districtCode": "97.02.130",
+    "name": "Ayubaibur",
+    "alias": "Ayubaibur"
+  },
+  {
+    "code": "97.02.130.003",
+    "villageCode": "003",
+    "districtCode": "97.02.130",
+    "name": "Tipalok",
+    "alias": "Tipalok"
+  },
+  {
+    "code": "97.02.130.004",
+    "villageCode": "004",
+    "districtCode": "97.02.130",
+    "name": "Yagarobak",
+    "alias": "Yagarobak"
+  },
+  {
+    "code": "97.02.130.005",
+    "villageCode": "005",
+    "districtCode": "97.02.130",
+    "name": "Ibele",
+    "alias": "Ibele"
+  },
+  {
+    "code": "97.02.130.006",
+    "villageCode": "006",
+    "districtCode": "97.02.130",
+    "name": "Zapma",
+    "alias": "Zapma"
+  },
+  {
+    "code": "97.02.130.007",
+    "villageCode": "007",
+    "districtCode": "97.02.130",
+    "name": "Holaliba",
+    "alias": "Holaliba"
+  },
+  {
+    "code": "97.02.130.008",
+    "villageCode": "008",
+    "districtCode": "97.02.130",
+    "name": "Zinai",
+    "alias": "Zinai"
+  },
+  {
+    "code": "97.02.130.009",
+    "villageCode": "009",
+    "districtCode": "97.02.130",
+    "name": "Yokalpalek",
+    "alias": "Yokalpalek"
+  },
+  {
+    "code": "97.02.130.010",
+    "villageCode": "010",
+    "districtCode": "97.02.130",
+    "name": "Yelebarek",
+    "alias": "Yelebarek"
+  }
+]

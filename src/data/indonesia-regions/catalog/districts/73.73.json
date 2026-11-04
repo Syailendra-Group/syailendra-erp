@@ -1,0 +1,74 @@
+[
+  {
+    "code": "73.73.010",
+    "districtCode": "010",
+    "regencyCode": "73.73",
+    "provinceCode": "73",
+    "name": "Kecamatan Wara Selatan",
+    "alias": "Wara Selatan"
+  },
+  {
+    "code": "73.73.011",
+    "districtCode": "011",
+    "regencyCode": "73.73",
+    "provinceCode": "73",
+    "name": "Kecamatan Sendana",
+    "alias": "Sendana"
+  },
+  {
+    "code": "73.73.020",
+    "districtCode": "020",
+    "regencyCode": "73.73",
+    "provinceCode": "73",
+    "name": "Kecamatan Wara",
+    "alias": "Wara"
+  },
+  {
+    "code": "73.73.021",
+    "districtCode": "021",
+    "regencyCode": "73.73",
+    "provinceCode": "73",
+    "name": "Kecamatan Wara Timur",
+    "alias": "Wara Timur"
+  },
+  {
+    "code": "73.73.022",
+    "districtCode": "022",
+    "regencyCode": "73.73",
+    "provinceCode": "73",
+    "name": "Kecamatan Mungkajang",
+    "alias": "Mungkajang"
+  },
+  {
+    "code": "73.73.030",
+    "districtCode": "030",
+    "regencyCode": "73.73",
+    "provinceCode": "73",
+    "name": "Kecamatan Wara Utara",
+    "alias": "Wara Utara"
+  },
+  {
+    "code": "73.73.031",
+    "districtCode": "031",
+    "regencyCode": "73.73",
+    "provinceCode": "73",
+    "name": "Kecamatan Bara",
+    "alias": "Bara"
+  },
+  {
+    "code": "73.73.040",
+    "districtCode": "040",
+    "regencyCode": "73.73",
+    "provinceCode": "73",
+    "name": "Kecamatan Telluwanua",
+    "alias": "Telluwanua"
+  },
+  {
+    "code": "73.73.041",
+    "districtCode": "041",
+    "regencyCode": "73.73",
+    "provinceCode": "73",
+    "name": "Kecamatan Wara Barat",
+    "alias": "Wara Barat"
+  }
+]

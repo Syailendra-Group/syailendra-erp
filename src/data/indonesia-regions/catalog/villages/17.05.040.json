@@ -1,0 +1,51 @@
+[
+  {
+    "code": "17.05.040.020",
+    "villageCode": "020",
+    "districtCode": "17.05.040",
+    "name": "Napal",
+    "alias": "Napal"
+  },
+  {
+    "code": "17.05.040.021",
+    "villageCode": "021",
+    "districtCode": "17.05.040",
+    "name": "Talang Dantuk",
+    "alias": "Talang Dantuk"
+  },
+  {
+    "code": "17.05.040.027",
+    "villageCode": "027",
+    "districtCode": "17.05.040",
+    "name": "Dusun Baru",
+    "alias": "Dusun Baru"
+  },
+  {
+    "code": "17.05.040.028",
+    "villageCode": "028",
+    "districtCode": "17.05.040",
+    "name": "Talang Saling",
+    "alias": "Talang Saling"
+  },
+  {
+    "code": "17.05.040.029",
+    "villageCode": "029",
+    "districtCode": "17.05.040",
+    "name": "Lubuk Lintang",
+    "alias": "Lubuk Lintang"
+  },
+  {
+    "code": "17.05.040.030",
+    "villageCode": "030",
+    "districtCode": "17.05.040",
+    "name": "Pasar Tais",
+    "alias": "Pasar Tais"
+  },
+  {
+    "code": "17.05.040.031",
+    "villageCode": "031",
+    "districtCode": "17.05.040",
+    "name": "Lubuk Kebur",
+    "alias": "Lubuk Kebur"
+  }
+]

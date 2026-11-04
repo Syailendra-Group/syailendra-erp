@@ -1,0 +1,79 @@
+[
+  {
+    "code": "33.13.120.001",
+    "villageCode": "001",
+    "districtCode": "33.13.120",
+    "name": "Ngasem",
+    "alias": "Ngasem"
+  },
+  {
+    "code": "33.13.120.002",
+    "villageCode": "002",
+    "districtCode": "33.13.120",
+    "name": "Bolon",
+    "alias": "Bolon"
+  },
+  {
+    "code": "33.13.120.003",
+    "villageCode": "003",
+    "districtCode": "33.13.120",
+    "name": "Malangjiwan",
+    "alias": "Malangjiwan"
+  },
+  {
+    "code": "33.13.120.004",
+    "villageCode": "004",
+    "districtCode": "33.13.120",
+    "name": "Paulan",
+    "alias": "Paulan"
+  },
+  {
+    "code": "33.13.120.005",
+    "villageCode": "005",
+    "districtCode": "33.13.120",
+    "name": "Gajahan",
+    "alias": "Gajahan"
+  },
+  {
+    "code": "33.13.120.006",
+    "villageCode": "006",
+    "districtCode": "33.13.120",
+    "name": "Blulukan",
+    "alias": "Blulukan"
+  },
+  {
+    "code": "33.13.120.007",
+    "villageCode": "007",
+    "districtCode": "33.13.120",
+    "name": "Gawanan",
+    "alias": "Gawanan"
+  },
+  {
+    "code": "33.13.120.008",
+    "villageCode": "008",
+    "districtCode": "33.13.120",
+    "name": "Gedongan",
+    "alias": "Gedongan"
+  },
+  {
+    "code": "33.13.120.009",
+    "villageCode": "009",
+    "districtCode": "33.13.120",
+    "name": "Tohudan",
+    "alias": "Tohudan"
+  },
+  {
+    "code": "33.13.120.010",
+    "villageCode": "010",
+    "districtCode": "33.13.120",
+    "name": "Baturan",
+    "alias": "Baturan"
+  },
+  {
+    "code": "33.13.120.011",
+    "villageCode": "011",
+    "districtCode": "33.13.120",
+    "name": "Klodran",
+    "alias": "Klodran"
+  }
+]

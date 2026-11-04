@@ -2,17 +2,10 @@
 
 import { revalidatePath } from 'next/cache'
 
-import {
-  deleteCountry,
-  fetchCountries,
-  fetchCountriesPaginated,
-  fetchCountryById,
-  fetchCurrencies,
-  persistCountry
-} from '@/services/odoo/others/country.service'
+import { deleteCountry, fetchCountries, fetchCountriesPaginated, fetchCountryById, persistCountry } from '@/services/odoo/others/country.service'
 
 import type { CountryFormValues } from '@/schemas/others/country-schema'
-import type { CurrencyOption, FetchCountriesParams, PaginatedCountriesResult } from '@/services/odoo/others/country.service'
+import type { FetchCountriesParams, PaginatedCountriesResult } from '@/services/odoo/others/country.service'
 import type { CountryRecord } from '@/types/others/country'
 
 export async function getCountriesAction(): Promise<{ countries: CountryRecord[] }> {
@@ -37,15 +30,6 @@ export async function getCountriesPaginatedAction(params: FetchCountriesParams =
       perPage: params.perPage || 20,
       pageCount: 1
     }
-  }
-}
-
-export async function getCurrenciesAction(): Promise<CurrencyOption[]> {
-  try {
-    return await fetchCurrencies()
-  } catch (error) {
-    console.error('Failed to fetch currencies:', error)
-    return []
   }
 }
 

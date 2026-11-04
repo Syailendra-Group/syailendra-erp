@@ -1,0 +1,44 @@
+[
+  {
+    "code": "81.08.082.001",
+    "villageCode": "001",
+    "districtCode": "81.08.082",
+    "name": "Ilmarang",
+    "alias": "Ilmarang"
+  },
+  {
+    "code": "81.08.082.002",
+    "villageCode": "002",
+    "districtCode": "81.08.082",
+    "name": "Welora",
+    "alias": "Welora"
+  },
+  {
+    "code": "81.08.082.003",
+    "villageCode": "003",
+    "districtCode": "81.08.082",
+    "name": "Letmasa",
+    "alias": "Letmasa"
+  },
+  {
+    "code": "81.08.082.004",
+    "villageCode": "004",
+    "districtCode": "81.08.082",
+    "name": "Watuwei",
+    "alias": "Watuwei"
+  },
+  {
+    "code": "81.08.082.005",
+    "villageCode": "005",
+    "districtCode": "81.08.082",
+    "name": "Wiratan",
+    "alias": "Wiratan"
+  },
+  {
+    "code": "81.08.082.006",
+    "villageCode": "006",
+    "districtCode": "81.08.082",
+    "name": "Nurnyaman",
+    "alias": "Nurnyaman"
+  }
+]

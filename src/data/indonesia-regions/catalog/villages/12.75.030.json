@@ -1,0 +1,51 @@
+[
+  {
+    "code": "12.75.030.001",
+    "villageCode": "001",
+    "districtCode": "12.75.030",
+    "name": "Harjosari Ii",
+    "alias": "Harjosari Ii"
+  },
+  {
+    "code": "12.75.030.002",
+    "villageCode": "002",
+    "districtCode": "12.75.030",
+    "name": "Sitirejo Ii",
+    "alias": "Sitirejo Ii"
+  },
+  {
+    "code": "12.75.030.003",
+    "villageCode": "003",
+    "districtCode": "12.75.030",
+    "name": "Sitirejo Iii",
+    "alias": "Sitirejo Iii"
+  },
+  {
+    "code": "12.75.030.004",
+    "villageCode": "004",
+    "districtCode": "12.75.030",
+    "name": "Harjosari I",
+    "alias": "Harjosari I"
+  },
+  {
+    "code": "12.75.030.005",
+    "villageCode": "005",
+    "districtCode": "12.75.030",
+    "name": "A M P L A S",
+    "alias": "A M P L A S"
+  },
+  {
+    "code": "12.75.030.006",
+    "villageCode": "006",
+    "districtCode": "12.75.030",
+    "name": "Timbang Deli",
+    "alias": "Timbang Deli"
+  },
+  {
+    "code": "12.75.030.007",
+    "villageCode": "007",
+    "districtCode": "12.75.030",
+    "name": "Bangun Mulia",
+    "alias": "Bangun Mulia"
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "code": "73.11.010",
+    "districtCode": "010",
+    "regencyCode": "73.11",
+    "provinceCode": "73",
+    "name": "Kecamatan Bontocani",
+    "alias": "Bontocani"
+  },
+  {
+    "code": "73.11.020",
+    "districtCode": "020",
+    "regencyCode": "73.11",
+    "provinceCode": "73",
+    "name": "Kecamatan Kahu",
+    "alias": "Kahu"
+  },
+  {
+    "code": "73.11.030",
+    "districtCode": "030",
+    "regencyCode": "73.11",
+    "provinceCode": "73",
+    "name": "Kecamatan Kajuara",
+    "alias": "Kajuara"
+  },
+  {
+    "code": "73.11.040",
+    "districtCode": "040",
+    "regencyCode": "73.11",
+    "provinceCode": "73",
+    "name": "Kecamatan Salomekko",
+    "alias": "Salomekko"
+  },
+  {
+    "code": "73.11.050",
+    "districtCode": "050",
+    "regencyCode": "73.11",
+    "provinceCode": "73",
+    "name": "Kecamatan Tonra",
+    "alias": "Tonra"
+  },
+  {
+    "code": "73.11.060",
+    "districtCode": "060",
+    "regencyCode": "73.11",
+    "provinceCode": "73",
+    "name": "Kecamatan Patimpeng",
+    "alias": "Patimpeng"
+  },
+  {
+    "code": "73.11.070",
+    "districtCode": "070",
+    "regencyCode": "73.11",
+    "provinceCode": "73",
+    "name": "Kecamatan Libureng",
+    "alias": "Libureng"
+  },
+  {
+    "code": "73.11.080",
+    "districtCode": "080",
+    "regencyCode": "73.11",
+    "provinceCode": "73",
+    "name": "Kecamatan Mare",
+    "alias": "Mare"
+  },
+  {
+    "code": "73.11.090",
+    "districtCode": "090",
+    "regencyCode": "73.11",
+    "provinceCode": "73",
+    "name": "Kecamatan Sibulue",
+    "alias": "Sibulue"
+  },
+  {
+    "code": "73.11.100",
+    "districtCode": "100",
+    "regencyCode": "73.11",
+    "provinceCode": "73",
+    "name": "Kecamatan Cina",
+    "alias": "Cina"
+  },
+  {
+    "code": "73.11.110",
+    "districtCode": "110",
+    "regencyCode": "73.11",
+    "provinceCode": "73",
+    "name": "Kecamatan Barebbo",
+    "alias": "Barebbo"
+  },
+  {
+    "code": "73.11.120",
+    "districtCode": "120",
+    "regencyCode": "73.11",
+    "provinceCode": "73",
+    "name": "Kecamatan Ponre",
+    "alias": "Ponre"
+  },
+  {
+    "code": "73.11.130",
+    "districtCode": "130",
+    "regencyCode": "73.11",
+    "provinceCode": "73",
+    "name": "Kecamatan Lappariaja",
+    "alias": "Lappariaja"
+  },
+  {
+    "code": "73.11.140",
+    "districtCode": "140",
+    "regencyCode": "73.11",
+    "provinceCode": "73",
+    "name": "Kecamatan Lamuru",
+    "alias": "Lamuru"
+  },
+  {
+    "code": "73.11.141",
+    "districtCode": "141",
+    "regencyCode": "73.11",
+    "provinceCode": "73",
+    "name": "Kecamatan Tellu Limpoe",
+    "alias": "Tellu Limpoe"
+  },
+  {
+    "code": "73.11.150",
+    "districtCode": "150",
+    "regencyCode": "73.11",
+    "provinceCode": "73",
+    "name": "Kecamatan Bengo",
+    "alias": "Bengo"
+  },
+  {
+    "code": "73.11.160",
+    "districtCode": "160",
+    "regencyCode": "73.11",
+    "provinceCode": "73",
+    "name": "Kecamatan Ulaweng",
+    "alias": "Ulaweng"
+  },
+  {
+    "code": "73.11.170",
+    "districtCode": "170",
+    "regencyCode": "73.11",
+    "provinceCode": "73",
+    "name": "Kecamatan Palakka",
+    "alias": "Palakka"
+  },
+  {
+    "code": "73.11.180",
+    "districtCode": "180",
+    "regencyCode": "73.11",
+    "provinceCode": "73",
+    "name": "Kecamatan Awangpone",
+    "alias": "Awangpone"
+  },
+  {
+    "code": "73.11.190",
+    "districtCode": "190",
+    "regencyCode": "73.11",
+    "provinceCode": "73",
+    "name": "Kecamatan Tellu Siattinge",
+    "alias": "Tellu Siattinge"
+  },
+  {
+    "code": "73.11.200",
+    "districtCode": "200",
+    "regencyCode": "73.11",
+    "provinceCode": "73",
+    "name": "Kecamatan Amali",
+    "alias": "Amali"
+  },
+  {
+    "code": "73.11.210",
+    "districtCode": "210",
+    "regencyCode": "73.11",
+    "provinceCode": "73",
+    "name": "Kecamatan Ajangale",
+    "alias": "Ajangale"
+  },
+  {
+    "code": "73.11.220",
+    "districtCode": "220",
+    "regencyCode": "73.11",
+    "provinceCode": "73",
+    "name": "Kecamatan Dua Boccoe",
+    "alias": "Dua Boccoe"
+  },
+  {
+    "code": "73.11.230",
+    "districtCode": "230",
+    "regencyCode": "73.11",
+    "provinceCode": "73",
+    "name": "Kecamatan Cenrana",
+    "alias": "Cenrana"
+  },
+  {
+    "code": "73.11.710",
+    "districtCode": "710",
+    "regencyCode": "73.11",
+    "provinceCode": "73",
+    "name": "Kecamatan Tanete Riattang Barat",
+    "alias": "Tanete Riattang Barat"
+  },
+  {
+    "code": "73.11.720",
+    "districtCode": "720",
+    "regencyCode": "73.11",
+    "provinceCode": "73",
+    "name": "Kecamatan Tanete Riattang",
+    "alias": "Tanete Riattang"
+  },
+  {
+    "code": "73.11.730",
+    "districtCode": "730",
+    "regencyCode": "73.11",
+    "provinceCode": "73",
+    "name": "Kecamatan Tanete Riattang Timur",
+    "alias": "Tanete Riattang Timur"
+  }
+]

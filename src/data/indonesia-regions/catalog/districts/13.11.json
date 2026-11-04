@@ -1,0 +1,90 @@
+[
+  {
+    "code": "13.11.010",
+    "districtCode": "010",
+    "regencyCode": "13.11",
+    "provinceCode": "13",
+    "name": "Kecamatan Sungai Rumbai",
+    "alias": "Sungai Rumbai"
+  },
+  {
+    "code": "13.11.011",
+    "districtCode": "011",
+    "regencyCode": "13.11",
+    "provinceCode": "13",
+    "name": "Kecamatan Koto Besar",
+    "alias": "Koto Besar"
+  },
+  {
+    "code": "13.11.012",
+    "districtCode": "012",
+    "regencyCode": "13.11",
+    "provinceCode": "13",
+    "name": "Kecamatan Asam Jujuhan",
+    "alias": "Asam Jujuhan"
+  },
+  {
+    "code": "13.11.020",
+    "districtCode": "020",
+    "regencyCode": "13.11",
+    "provinceCode": "13",
+    "name": "Kecamatan Koto Baru",
+    "alias": "Koto Baru"
+  },
+  {
+    "code": "13.11.021",
+    "districtCode": "021",
+    "regencyCode": "13.11",
+    "provinceCode": "13",
+    "name": "Kecamatan Koto Salak",
+    "alias": "Koto Salak"
+  },
+  {
+    "code": "13.11.022",
+    "districtCode": "022",
+    "regencyCode": "13.11",
+    "provinceCode": "13",
+    "name": "Kecamatan Tiumang",
+    "alias": "Tiumang"
+  },
+  {
+    "code": "13.11.023",
+    "districtCode": "023",
+    "regencyCode": "13.11",
+    "provinceCode": "13",
+    "name": "Kecamatan Padang Laweh",
+    "alias": "Padang Laweh"
+  },
+  {
+    "code": "13.11.030",
+    "districtCode": "030",
+    "regencyCode": "13.11",
+    "provinceCode": "13",
+    "name": "Kecamatan Sitiung",
+    "alias": "Sitiung"
+  },
+  {
+    "code": "13.11.031",
+    "districtCode": "031",
+    "regencyCode": "13.11",
+    "provinceCode": "13",
+    "name": "Kecamatan Timpeh",
+    "alias": "Timpeh"
+  },
+  {
+    "code": "13.11.040",
+    "districtCode": "040",
+    "regencyCode": "13.11",
+    "provinceCode": "13",
+    "name": "Kecamatan Pulau Punjung",
+    "alias": "Pulau Punjung"
+  },
+  {
+    "code": "13.11.041",
+    "districtCode": "041",
+    "regencyCode": "13.11",
+    "provinceCode": "13",
+    "name": "Kecamatan Ix Koto",
+    "alias": "Ix Koto"
+  }
+]

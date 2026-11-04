@@ -1,0 +1,44 @@
+[
+  {
+    "code": "75.04.033.001",
+    "villageCode": "001",
+    "districtCode": "75.04.033",
+    "name": "Lompotoo",
+    "alias": "Lompotoo"
+  },
+  {
+    "code": "75.04.033.002",
+    "villageCode": "002",
+    "districtCode": "75.04.033",
+    "name": "Lombongo",
+    "alias": "Lombongo"
+  },
+  {
+    "code": "75.04.033.003",
+    "villageCode": "003",
+    "districtCode": "75.04.033",
+    "name": "Duano",
+    "alias": "Duano"
+  },
+  {
+    "code": "75.04.033.004",
+    "villageCode": "004",
+    "districtCode": "75.04.033",
+    "name": "Tolomato",
+    "alias": "Tolomato"
+  },
+  {
+    "code": "75.04.033.005",
+    "villageCode": "005",
+    "districtCode": "75.04.033",
+    "name": "Alale",
+    "alias": "Alale"
+  },
+  {
+    "code": "75.04.033.006",
+    "villageCode": "006",
+    "districtCode": "75.04.033",
+    "name": "Tapadaa",
+    "alias": "Tapadaa"
+  }
+]

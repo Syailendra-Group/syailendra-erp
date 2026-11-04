@@ -1,0 +1,65 @@
+[
+  {
+    "code": "13.76.020.005",
+    "villageCode": "005",
+    "districtCode": "13.76.020",
+    "name": "Padang Tangah Payobada",
+    "alias": "Padang Tangah Payobada"
+  },
+  {
+    "code": "13.76.020.006",
+    "villageCode": "006",
+    "districtCode": "13.76.020",
+    "name": "Balai Jaring",
+    "alias": "Balai Jaring"
+  },
+  {
+    "code": "13.76.020.012",
+    "villageCode": "012",
+    "districtCode": "13.76.020",
+    "name": "Payobasung",
+    "alias": "Payobasung"
+  },
+  {
+    "code": "13.76.020.013",
+    "villageCode": "013",
+    "districtCode": "13.76.020",
+    "name": "Koto Panjang",
+    "alias": "Koto Panjang"
+  },
+  {
+    "code": "13.76.020.014",
+    "villageCode": "014",
+    "districtCode": "13.76.020",
+    "name": "Koto Baru",
+    "alias": "Koto Baru"
+  },
+  {
+    "code": "13.76.020.015",
+    "villageCode": "015",
+    "districtCode": "13.76.020",
+    "name": "Padang Alai Bodi",
+    "alias": "Padang Alai Bodi"
+  },
+  {
+    "code": "13.76.020.016",
+    "villageCode": "016",
+    "districtCode": "13.76.020",
+    "name": "Padang Tiakar",
+    "alias": "Padang Tiakar"
+  },
+  {
+    "code": "13.76.020.017",
+    "villageCode": "017",
+    "districtCode": "13.76.020",
+    "name": "Sicincin",
+    "alias": "Sicincin"
+  },
+  {
+    "code": "13.76.020.018",
+    "villageCode": "018",
+    "districtCode": "13.76.020",
+    "name": "Tiakar",
+    "alias": "Tiakar"
+  }
+]

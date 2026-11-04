@@ -1,0 +1,65 @@
+[
+  {
+    "code": "73.03.020.001",
+    "villageCode": "001",
+    "districtCode": "73.03.020",
+    "name": "Tappanjeng",
+    "alias": "Tappanjeng"
+  },
+  {
+    "code": "73.03.020.002",
+    "villageCode": "002",
+    "districtCode": "73.03.020",
+    "name": "Pallantikang",
+    "alias": "Pallantikang"
+  },
+  {
+    "code": "73.03.020.003",
+    "villageCode": "003",
+    "districtCode": "73.03.020",
+    "name": "Letta",
+    "alias": "Letta"
+  },
+  {
+    "code": "73.03.020.004",
+    "villageCode": "004",
+    "districtCode": "73.03.020",
+    "name": "Mallilingi",
+    "alias": "Mallilingi"
+  },
+  {
+    "code": "73.03.020.005",
+    "villageCode": "005",
+    "districtCode": "73.03.020",
+    "name": "Lembang",
+    "alias": "Lembang"
+  },
+  {
+    "code": "73.03.020.006",
+    "villageCode": "006",
+    "districtCode": "73.03.020",
+    "name": "Lamalaka",
+    "alias": "Lamalaka"
+  },
+  {
+    "code": "73.03.020.009",
+    "villageCode": "009",
+    "districtCode": "73.03.020",
+    "name": "Karatuang",
+    "alias": "Karatuang"
+  },
+  {
+    "code": "73.03.020.010",
+    "villageCode": "010",
+    "districtCode": "73.03.020",
+    "name": "Onto",
+    "alias": "Onto"
+  },
+  {
+    "code": "73.03.020.018",
+    "villageCode": "018",
+    "districtCode": "73.03.020",
+    "name": "Kayu Loe",
+    "alias": "Kayu Loe"
+  }
+]

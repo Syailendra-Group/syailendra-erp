@@ -1,0 +1,30 @@
+[
+  {
+    "code": "11.02.022.001",
+    "villageCode": "001",
+    "districtCode": "11.02.022",
+    "name": "Kayu Menang",
+    "alias": "Kayu Menang"
+  },
+  {
+    "code": "11.02.022.002",
+    "villageCode": "002",
+    "districtCode": "11.02.022",
+    "name": "Kuala Baru Sungai",
+    "alias": "Kuala Baru Sungai"
+  },
+  {
+    "code": "11.02.022.003",
+    "villageCode": "003",
+    "districtCode": "11.02.022",
+    "name": "Kuala Baru Laut",
+    "alias": "Kuala Baru Laut"
+  },
+  {
+    "code": "11.02.022.004",
+    "villageCode": "004",
+    "districtCode": "11.02.022",
+    "name": "Suka Jaya",
+    "alias": "Suka Jaya"
+  }
+]

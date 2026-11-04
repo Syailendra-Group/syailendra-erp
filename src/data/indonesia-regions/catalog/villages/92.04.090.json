@@ -1,0 +1,65 @@
+[
+  {
+    "code": "92.04.090.001",
+    "villageCode": "001",
+    "districtCode": "92.04.090",
+    "name": "Waybomatah",
+    "alias": "Waybomatah"
+  },
+  {
+    "code": "92.04.090.002",
+    "villageCode": "002",
+    "districtCode": "92.04.090",
+    "name": "Siyo",
+    "alias": "Siyo"
+  },
+  {
+    "code": "92.04.090.003",
+    "villageCode": "003",
+    "districtCode": "92.04.090",
+    "name": "Hasweh",
+    "alias": "Hasweh"
+  },
+  {
+    "code": "92.04.090.004",
+    "villageCode": "004",
+    "districtCode": "92.04.090",
+    "name": "Fatase",
+    "alias": "Fatase"
+  },
+  {
+    "code": "92.04.090.005",
+    "villageCode": "005",
+    "districtCode": "92.04.090",
+    "name": "Hosyo Ata",
+    "alias": "Hosyo Ata"
+  },
+  {
+    "code": "92.04.090.006",
+    "villageCode": "006",
+    "districtCode": "92.04.090",
+    "name": "Kambufatem",
+    "alias": "Kambufatem"
+  },
+  {
+    "code": "92.04.090.007",
+    "villageCode": "007",
+    "districtCode": "92.04.090",
+    "name": "Kambufatem Utara",
+    "alias": "Kambufatem Utara"
+  },
+  {
+    "code": "92.04.090.008",
+    "villageCode": "008",
+    "districtCode": "92.04.090",
+    "name": "Fatem",
+    "alias": "Fatem"
+  },
+  {
+    "code": "92.04.090.009",
+    "villageCode": "009",
+    "districtCode": "92.04.090",
+    "name": "Hosyo Banah",
+    "alias": "Hosyo Banah"
+  }
+]

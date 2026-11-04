@@ -1,0 +1,72 @@
+[
+  {
+    "code": "75.05.021.001",
+    "villageCode": "001",
+    "districtCode": "75.05.021",
+    "name": "Dambalo",
+    "alias": "Dambalo"
+  },
+  {
+    "code": "75.05.021.002",
+    "villageCode": "002",
+    "districtCode": "75.05.021",
+    "name": "Molantadu",
+    "alias": "Molantadu"
+  },
+  {
+    "code": "75.05.021.003",
+    "villageCode": "003",
+    "districtCode": "75.05.021",
+    "name": "Tanjung Karang",
+    "alias": "Tanjung Karang"
+  },
+  {
+    "code": "75.05.021.004",
+    "villageCode": "004",
+    "districtCode": "75.05.021",
+    "name": "Jembatan Merah",
+    "alias": "Jembatan Merah"
+  },
+  {
+    "code": "75.05.021.005",
+    "villageCode": "005",
+    "districtCode": "75.05.021",
+    "name": "Leyao",
+    "alias": "Leyao"
+  },
+  {
+    "code": "75.05.021.006",
+    "villageCode": "006",
+    "districtCode": "75.05.021",
+    "name": "Milango",
+    "alias": "Milango"
+  },
+  {
+    "code": "75.05.021.007",
+    "villageCode": "007",
+    "districtCode": "75.05.021",
+    "name": "Bubode",
+    "alias": "Bubode"
+  },
+  {
+    "code": "75.05.021.008",
+    "villageCode": "008",
+    "districtCode": "75.05.021",
+    "name": "Bulango Raya",
+    "alias": "Bulango Raya"
+  },
+  {
+    "code": "75.05.021.009",
+    "villageCode": "009",
+    "districtCode": "75.05.021",
+    "name": "Huidu Melito",
+    "alias": "Huidu Melito"
+  },
+  {
+    "code": "75.05.021.010",
+    "villageCode": "010",
+    "districtCode": "75.05.021",
+    "name": "Mutiara Laut",
+    "alias": "Mutiara Laut"
+  }
+]

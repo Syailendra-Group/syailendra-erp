@@ -1,0 +1,51 @@
+[
+  {
+    "code": "32.16.070.006",
+    "villageCode": "006",
+    "districtCode": "32.16.070",
+    "name": "Cibuntu",
+    "alias": "Cibuntu"
+  },
+  {
+    "code": "32.16.070.013",
+    "villageCode": "013",
+    "districtCode": "32.16.070",
+    "name": "Wanasari",
+    "alias": "Wanasari"
+  },
+  {
+    "code": "32.16.070.014",
+    "villageCode": "014",
+    "districtCode": "32.16.070",
+    "name": "Wanajaya",
+    "alias": "Wanajaya"
+  },
+  {
+    "code": "32.16.070.015",
+    "villageCode": "015",
+    "districtCode": "32.16.070",
+    "name": "Sukajaya",
+    "alias": "Sukajaya"
+  },
+  {
+    "code": "32.16.070.016",
+    "villageCode": "016",
+    "districtCode": "32.16.070",
+    "name": "Kertamukti",
+    "alias": "Kertamukti"
+  },
+  {
+    "code": "32.16.070.017",
+    "villageCode": "017",
+    "districtCode": "32.16.070",
+    "name": "Muktiwari",
+    "alias": "Muktiwari"
+  },
+  {
+    "code": "32.16.070.018",
+    "villageCode": "018",
+    "districtCode": "32.16.070",
+    "name": "Sarimukti",
+    "alias": "Sarimukti"
+  }
+]

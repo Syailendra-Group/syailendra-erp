@@ -1,0 +1,100 @@
+[
+  {
+    "code": "72.08.061.001",
+    "villageCode": "001",
+    "districtCode": "72.08.061",
+    "name": "Wanagading",
+    "alias": "Wanagading"
+  },
+  {
+    "code": "72.08.061.002",
+    "villageCode": "002",
+    "districtCode": "72.08.061",
+    "name": "Lambunu",
+    "alias": "Lambunu"
+  },
+  {
+    "code": "72.08.061.003",
+    "villageCode": "003",
+    "districtCode": "72.08.061",
+    "name": "Kotanagaya",
+    "alias": "Kotanagaya"
+  },
+  {
+    "code": "72.08.061.004",
+    "villageCode": "004",
+    "districtCode": "72.08.061",
+    "name": "Margapura",
+    "alias": "Margapura"
+  },
+  {
+    "code": "72.08.061.005",
+    "villageCode": "005",
+    "districtCode": "72.08.061",
+    "name": "Petunasugi",
+    "alias": "Petunasugi"
+  },
+  {
+    "code": "72.08.061.016",
+    "villageCode": "016",
+    "districtCode": "72.08.061",
+    "name": "Gunungsari",
+    "alias": "Gunungsari"
+  },
+  {
+    "code": "72.08.061.017",
+    "villageCode": "017",
+    "districtCode": "72.08.061",
+    "name": "Siendeng",
+    "alias": "Siendeng"
+  },
+  {
+    "code": "72.08.061.018",
+    "villageCode": "018",
+    "districtCode": "72.08.061",
+    "name": "Lambunu Utara",
+    "alias": "Lambunu Utara"
+  },
+  {
+    "code": "72.08.061.031",
+    "villageCode": "031",
+    "districtCode": "72.08.061",
+    "name": "Tirtanagaya",
+    "alias": "Tirtanagaya"
+  },
+  {
+    "code": "72.08.061.033",
+    "villageCode": "033",
+    "districtCode": "72.08.061",
+    "name": "Anutapura",
+    "alias": "Anutapura"
+  },
+  {
+    "code": "72.08.061.035",
+    "villageCode": "035",
+    "districtCode": "72.08.061",
+    "name": "Lambunu Timur",
+    "alias": "Lambunu Timur"
+  },
+  {
+    "code": "72.08.061.036",
+    "villageCode": "036",
+    "districtCode": "72.08.061",
+    "name": "Bukit Makmur",
+    "alias": "Bukit Makmur"
+  },
+  {
+    "code": "72.08.061.037",
+    "villageCode": "037",
+    "districtCode": "72.08.061",
+    "name": "Ganongol Sari",
+    "alias": "Ganongol Sari"
+  },
+  {
+    "code": "72.08.061.038",
+    "villageCode": "038",
+    "districtCode": "72.08.061",
+    "name": "Ogorandu",
+    "alias": "Ogorandu"
+  }
+]

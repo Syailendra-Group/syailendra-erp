@@ -1,0 +1,65 @@
+[
+  {
+    "code": "17.04.040.007",
+    "villageCode": "007",
+    "districtCode": "17.04.040",
+    "name": "Padang Baru",
+    "alias": "Padang Baru"
+  },
+  {
+    "code": "17.04.040.008",
+    "villageCode": "008",
+    "districtCode": "17.04.040",
+    "name": "Tanjung Pandan",
+    "alias": "Tanjung Pandan"
+  },
+  {
+    "code": "17.04.040.009",
+    "villageCode": "009",
+    "districtCode": "17.04.040",
+    "name": "Tanjung Iman",
+    "alias": "Tanjung Iman"
+  },
+  {
+    "code": "17.04.040.010",
+    "villageCode": "010",
+    "districtCode": "17.04.040",
+    "name": "Penyandingan",
+    "alias": "Penyandingan"
+  },
+  {
+    "code": "17.04.040.011",
+    "villageCode": "011",
+    "districtCode": "17.04.040",
+    "name": "Kemang Manis",
+    "alias": "Kemang Manis"
+  },
+  {
+    "code": "17.04.040.012",
+    "villageCode": "012",
+    "districtCode": "17.04.040",
+    "name": "Padang Hangat",
+    "alias": "Padang Hangat"
+  },
+  {
+    "code": "17.04.040.013",
+    "villageCode": "013",
+    "districtCode": "17.04.040",
+    "name": "Pajar Bulan",
+    "alias": "Pajar Bulan"
+  },
+  {
+    "code": "17.04.040.014",
+    "villageCode": "014",
+    "districtCode": "17.04.040",
+    "name": "Suka Rami",
+    "alias": "Suka Rami"
+  },
+  {
+    "code": "17.04.040.015",
+    "villageCode": "015",
+    "districtCode": "17.04.040",
+    "name": "Sinar Jaya",
+    "alias": "Sinar Jaya"
+  }
+]

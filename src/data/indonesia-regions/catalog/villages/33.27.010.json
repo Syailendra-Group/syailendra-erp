@@ -1,0 +1,72 @@
+[
+  {
+    "code": "33.27.010.001",
+    "villageCode": "001",
+    "districtCode": "33.27.010",
+    "name": "Plakaran",
+    "alias": "Plakaran"
+  },
+  {
+    "code": "33.27.010.002",
+    "villageCode": "002",
+    "districtCode": "33.27.010",
+    "name": "Mandiraja",
+    "alias": "Mandiraja"
+  },
+  {
+    "code": "33.27.010.003",
+    "villageCode": "003",
+    "districtCode": "33.27.010",
+    "name": "Walangsanga",
+    "alias": "Walangsanga"
+  },
+  {
+    "code": "33.27.010.004",
+    "villageCode": "004",
+    "districtCode": "33.27.010",
+    "name": "Sima",
+    "alias": "Sima"
+  },
+  {
+    "code": "33.27.010.005",
+    "villageCode": "005",
+    "districtCode": "33.27.010",
+    "name": "Banyumudal",
+    "alias": "Banyumudal"
+  },
+  {
+    "code": "33.27.010.006",
+    "villageCode": "006",
+    "districtCode": "33.27.010",
+    "name": "Moga",
+    "alias": "Moga"
+  },
+  {
+    "code": "33.27.010.007",
+    "villageCode": "007",
+    "districtCode": "33.27.010",
+    "name": "Wangkelang",
+    "alias": "Wangkelang"
+  },
+  {
+    "code": "33.27.010.008",
+    "villageCode": "008",
+    "districtCode": "33.27.010",
+    "name": "Kebanggan",
+    "alias": "Kebanggan"
+  },
+  {
+    "code": "33.27.010.009",
+    "villageCode": "009",
+    "districtCode": "33.27.010",
+    "name": "Pepedan",
+    "alias": "Pepedan"
+  },
+  {
+    "code": "33.27.010.010",
+    "villageCode": "010",
+    "districtCode": "33.27.010",
+    "name": "Gendowang",
+    "alias": "Gendowang"
+  }
+]

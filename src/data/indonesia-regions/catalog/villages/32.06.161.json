@@ -1,0 +1,51 @@
+[
+  {
+    "code": "32.06.161.001",
+    "villageCode": "001",
+    "districtCode": "32.06.161",
+    "name": "Cinunjang",
+    "alias": "Cinunjang"
+  },
+  {
+    "code": "32.06.161.002",
+    "villageCode": "002",
+    "districtCode": "32.06.161",
+    "name": "Malatisuka",
+    "alias": "Malatisuka"
+  },
+  {
+    "code": "32.06.161.003",
+    "villageCode": "003",
+    "districtCode": "32.06.161",
+    "name": "Giriwangi",
+    "alias": "Giriwangi"
+  },
+  {
+    "code": "32.06.161.004",
+    "villageCode": "004",
+    "districtCode": "32.06.161",
+    "name": "Jatijaya",
+    "alias": "Jatijaya"
+  },
+  {
+    "code": "32.06.161.005",
+    "villageCode": "005",
+    "districtCode": "32.06.161",
+    "name": "Gunungtanjung",
+    "alias": "Gunungtanjung"
+  },
+  {
+    "code": "32.06.161.006",
+    "villageCode": "006",
+    "districtCode": "32.06.161",
+    "name": "Tanjungsari",
+    "alias": "Tanjungsari"
+  },
+  {
+    "code": "32.06.161.007",
+    "villageCode": "007",
+    "districtCode": "32.06.161",
+    "name": "Bojongsari",
+    "alias": "Bojongsari"
+  }
+]

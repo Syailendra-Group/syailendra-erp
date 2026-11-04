@@ -1,0 +1,30 @@
+[
+  {
+    "code": "53.06.061.001",
+    "villageCode": "001",
+    "districtCode": "53.06.061",
+    "name": "Beirafu",
+    "alias": "Beirafu"
+  },
+  {
+    "code": "53.06.061.002",
+    "villageCode": "002",
+    "districtCode": "53.06.061",
+    "name": "Berdao",
+    "alias": "Berdao"
+  },
+  {
+    "code": "53.06.061.003",
+    "villageCode": "003",
+    "districtCode": "53.06.061",
+    "name": "Tulamalae",
+    "alias": "Tulamalae"
+  },
+  {
+    "code": "53.06.061.004",
+    "villageCode": "004",
+    "districtCode": "53.06.061",
+    "name": "Umanen",
+    "alias": "Umanen"
+  }
+]

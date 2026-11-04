@@ -1,0 +1,44 @@
+[
+  {
+    "code": "74.02.080.008",
+    "villageCode": "008",
+    "districtCode": "74.02.080",
+    "name": "Lambiku",
+    "alias": "Lambiku"
+  },
+  {
+    "code": "74.02.080.009",
+    "villageCode": "009",
+    "districtCode": "74.02.080",
+    "name": "Pentiro",
+    "alias": "Pentiro"
+  },
+  {
+    "code": "74.02.080.010",
+    "villageCode": "010",
+    "districtCode": "74.02.080",
+    "name": "Napabalano",
+    "alias": "Napabalano"
+  },
+  {
+    "code": "74.02.080.011",
+    "villageCode": "011",
+    "districtCode": "74.02.080",
+    "name": "Tampo",
+    "alias": "Tampo"
+  },
+  {
+    "code": "74.02.080.012",
+    "villageCode": "012",
+    "districtCode": "74.02.080",
+    "name": "Napalakura",
+    "alias": "Napalakura"
+  },
+  {
+    "code": "74.02.080.013",
+    "villageCode": "013",
+    "districtCode": "74.02.080",
+    "name": "Langkumapo",
+    "alias": "Langkumapo"
+  }
+]

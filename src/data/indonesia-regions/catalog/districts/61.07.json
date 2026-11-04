@@ -1,0 +1,114 @@
+[
+  {
+    "code": "61.07.060",
+    "districtCode": "060",
+    "regencyCode": "61.07",
+    "provinceCode": "61",
+    "name": "Kecamatan Serawai",
+    "alias": "Serawai"
+  },
+  {
+    "code": "61.07.070",
+    "districtCode": "070",
+    "regencyCode": "61.07",
+    "provinceCode": "61",
+    "name": "Kecamatan Ambalau",
+    "alias": "Ambalau"
+  },
+  {
+    "code": "61.07.080",
+    "districtCode": "080",
+    "regencyCode": "61.07",
+    "provinceCode": "61",
+    "name": "Kecamatan Kayan Hulu",
+    "alias": "Kayan Hulu"
+  },
+  {
+    "code": "61.07.110",
+    "districtCode": "110",
+    "regencyCode": "61.07",
+    "provinceCode": "61",
+    "name": "Kecamatan Sepauk",
+    "alias": "Sepauk"
+  },
+  {
+    "code": "61.07.120",
+    "districtCode": "120",
+    "regencyCode": "61.07",
+    "provinceCode": "61",
+    "name": "Kecamatan Tempunak",
+    "alias": "Tempunak"
+  },
+  {
+    "code": "61.07.130",
+    "districtCode": "130",
+    "regencyCode": "61.07",
+    "provinceCode": "61",
+    "name": "Kecamatan Sungai Tebelian",
+    "alias": "Sungai Tebelian"
+  },
+  {
+    "code": "61.07.140",
+    "districtCode": "140",
+    "regencyCode": "61.07",
+    "provinceCode": "61",
+    "name": "Kecamatan Sintang",
+    "alias": "Sintang"
+  },
+  {
+    "code": "61.07.150",
+    "districtCode": "150",
+    "regencyCode": "61.07",
+    "provinceCode": "61",
+    "name": "Kecamatan Dedai",
+    "alias": "Dedai"
+  },
+  {
+    "code": "61.07.160",
+    "districtCode": "160",
+    "regencyCode": "61.07",
+    "provinceCode": "61",
+    "name": "Kecamatan Kayan Hilir",
+    "alias": "Kayan Hilir"
+  },
+  {
+    "code": "61.07.170",
+    "districtCode": "170",
+    "regencyCode": "61.07",
+    "provinceCode": "61",
+    "name": "Kecamatan Kelam Permai",
+    "alias": "Kelam Permai"
+  },
+  {
+    "code": "61.07.180",
+    "districtCode": "180",
+    "regencyCode": "61.07",
+    "provinceCode": "61",
+    "name": "Kecamatan Binjai Hulu",
+    "alias": "Binjai Hulu"
+  },
+  {
+    "code": "61.07.190",
+    "districtCode": "190",
+    "regencyCode": "61.07",
+    "provinceCode": "61",
+    "name": "Kecamatan Ketungau Hilir",
+    "alias": "Ketungau Hilir"
+  },
+  {
+    "code": "61.07.200",
+    "districtCode": "200",
+    "regencyCode": "61.07",
+    "provinceCode": "61",
+    "name": "Kecamatan Ketungau Tengah",
+    "alias": "Ketungau Tengah"
+  },
+  {
+    "code": "61.07.210",
+    "districtCode": "210",
+    "regencyCode": "61.07",
+    "provinceCode": "61",
+    "name": "Kecamatan Ketungau Hulu",
+    "alias": "Ketungau Hulu"
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "code": "75.02.042.001",
+    "villageCode": "001",
+    "districtCode": "75.02.042",
+    "name": "Gandasari",
+    "alias": "Gandasari"
+  },
+  {
+    "code": "75.02.042.002",
+    "villageCode": "002",
+    "districtCode": "75.02.042",
+    "name": "Sukamakmur",
+    "alias": "Sukamakmur"
+  },
+  {
+    "code": "75.02.042.003",
+    "villageCode": "003",
+    "districtCode": "75.02.042",
+    "name": "Molohu",
+    "alias": "Molohu"
+  },
+  {
+    "code": "75.02.042.004",
+    "villageCode": "004",
+    "districtCode": "75.02.042",
+    "name": "Lakeya",
+    "alias": "Lakeya"
+  },
+  {
+    "code": "75.02.042.007",
+    "villageCode": "007",
+    "districtCode": "75.02.042",
+    "name": "Polohungo",
+    "alias": "Polohungo"
+  },
+  {
+    "code": "75.02.042.008",
+    "villageCode": "008",
+    "districtCode": "75.02.042",
+    "name": "Bina Jaya",
+    "alias": "Bina Jaya"
+  },
+  {
+    "code": "75.02.042.009",
+    "villageCode": "009",
+    "districtCode": "75.02.042",
+    "name": "Tamaila",
+    "alias": "Tamaila"
+  },
+  {
+    "code": "75.02.042.010",
+    "villageCode": "010",
+    "districtCode": "75.02.042",
+    "name": "Sidoarjo",
+    "alias": "Sidoarjo"
+  },
+  {
+    "code": "75.02.042.013",
+    "villageCode": "013",
+    "districtCode": "75.02.042",
+    "name": "Sukamakmur Utara",
+    "alias": "Sukamakmur Utara"
+  },
+  {
+    "code": "75.02.042.014",
+    "villageCode": "014",
+    "districtCode": "75.02.042",
+    "name": "Margomulya",
+    "alias": "Margomulya"
+  },
+  {
+    "code": "75.02.042.015",
+    "villageCode": "015",
+    "districtCode": "75.02.042",
+    "name": "Makmur Abadi",
+    "alias": "Makmur Abadi"
+  },
+  {
+    "code": "75.02.042.016",
+    "villageCode": "016",
+    "districtCode": "75.02.042",
+    "name": "Gandaria",
+    "alias": "Gandaria"
+  },
+  {
+    "code": "75.02.042.017",
+    "villageCode": "017",
+    "districtCode": "75.02.042",
+    "name": "Ombulo Tango",
+    "alias": "Ombulo Tango"
+  },
+  {
+    "code": "75.02.042.018",
+    "villageCode": "018",
+    "districtCode": "75.02.042",
+    "name": "Tamaila Utara",
+    "alias": "Tamaila Utara"
+  },
+  {
+    "code": "75.02.042.019",
+    "villageCode": "019",
+    "districtCode": "75.02.042",
+    "name": "Himalaya",
+    "alias": "Himalaya"
+  }
+]

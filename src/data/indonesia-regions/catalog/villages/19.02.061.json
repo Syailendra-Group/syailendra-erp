@@ -1,0 +1,51 @@
+[
+  {
+    "code": "19.02.061.001",
+    "villageCode": "001",
+    "districtCode": "19.02.061",
+    "name": "Pegantungan",
+    "alias": "Pegantungan"
+  },
+  {
+    "code": "19.02.061.002",
+    "villageCode": "002",
+    "districtCode": "19.02.061",
+    "name": "Sungai Samak",
+    "alias": "Sungai Samak"
+  },
+  {
+    "code": "19.02.061.003",
+    "villageCode": "003",
+    "districtCode": "19.02.061",
+    "name": "Cerucuk",
+    "alias": "Cerucuk"
+  },
+  {
+    "code": "19.02.061.004",
+    "villageCode": "004",
+    "districtCode": "19.02.061",
+    "name": "Badau",
+    "alias": "Badau"
+  },
+  {
+    "code": "19.02.061.005",
+    "villageCode": "005",
+    "districtCode": "19.02.061",
+    "name": "Kacang Butor",
+    "alias": "Kacang Butor"
+  },
+  {
+    "code": "19.02.061.006",
+    "villageCode": "006",
+    "districtCode": "19.02.061",
+    "name": "Air Batu Buding",
+    "alias": "Air Batu Buding"
+  },
+  {
+    "code": "19.02.061.007",
+    "villageCode": "007",
+    "districtCode": "19.02.061",
+    "name": "Ibul",
+    "alias": "Ibul"
+  }
+]

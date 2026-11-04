@@ -1,0 +1,79 @@
+[
+  {
+    "code": "73.22.050.001",
+    "villageCode": "001",
+    "districtCode": "73.22.050",
+    "name": "Pongko",
+    "alias": "Pongko"
+  },
+  {
+    "code": "73.22.050.002",
+    "villageCode": "002",
+    "districtCode": "73.22.050",
+    "name": "Batang Tongka",
+    "alias": "Batang Tongka"
+  },
+  {
+    "code": "73.22.050.003",
+    "villageCode": "003",
+    "districtCode": "73.22.050",
+    "name": "Tamuku",
+    "alias": "Tamuku"
+  },
+  {
+    "code": "73.22.050.014",
+    "villageCode": "014",
+    "districtCode": "73.22.050",
+    "name": "Sidomukti",
+    "alias": "Sidomukti"
+  },
+  {
+    "code": "73.22.050.015",
+    "villageCode": "015",
+    "districtCode": "73.22.050",
+    "name": "Banyu Urip",
+    "alias": "Banyu Urip"
+  },
+  {
+    "code": "73.22.050.016",
+    "villageCode": "016",
+    "districtCode": "73.22.050",
+    "name": "Sukaraya",
+    "alias": "Sukaraya"
+  },
+  {
+    "code": "73.22.050.017",
+    "villageCode": "017",
+    "districtCode": "73.22.050",
+    "name": "Muktisari",
+    "alias": "Muktisari"
+  },
+  {
+    "code": "73.22.050.018",
+    "villageCode": "018",
+    "districtCode": "73.22.050",
+    "name": "Patoloan",
+    "alias": "Patoloan"
+  },
+  {
+    "code": "73.22.050.019",
+    "villageCode": "019",
+    "districtCode": "73.22.050",
+    "name": "Bone Bone",
+    "alias": "Bone Bone"
+  },
+  {
+    "code": "73.22.050.020",
+    "villageCode": "020",
+    "districtCode": "73.22.050",
+    "name": "Bantimurung",
+    "alias": "Bantimurung"
+  },
+  {
+    "code": "73.22.050.022",
+    "villageCode": "022",
+    "districtCode": "73.22.050",
+    "name": "Sadar",
+    "alias": "Sadar"
+  }
+]

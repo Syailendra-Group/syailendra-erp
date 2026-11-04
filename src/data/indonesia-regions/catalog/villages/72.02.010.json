@@ -1,0 +1,177 @@
+[
+  {
+    "code": "72.02.010.015",
+    "villageCode": "015",
+    "districtCode": "72.02.010",
+    "name": "Tohiti Sari",
+    "alias": "Tohiti Sari"
+  },
+  {
+    "code": "72.02.010.017",
+    "villageCode": "017",
+    "districtCode": "72.02.010",
+    "name": "Piondo",
+    "alias": "Piondo"
+  },
+  {
+    "code": "72.02.010.018",
+    "villageCode": "018",
+    "districtCode": "72.02.010",
+    "name": "Bukit Jaya",
+    "alias": "Bukit Jaya"
+  },
+  {
+    "code": "72.02.010.019",
+    "villageCode": "019",
+    "districtCode": "72.02.010",
+    "name": "Tolisu",
+    "alias": "Tolisu"
+  },
+  {
+    "code": "72.02.010.020",
+    "villageCode": "020",
+    "districtCode": "72.02.010",
+    "name": "Tirta Kencana",
+    "alias": "Tirta Kencana"
+  },
+  {
+    "code": "72.02.010.021",
+    "villageCode": "021",
+    "districtCode": "72.02.010",
+    "name": "Tirta Sari",
+    "alias": "Tirta Sari"
+  },
+  {
+    "code": "72.02.010.022",
+    "villageCode": "022",
+    "districtCode": "72.02.010",
+    "name": "Sentral Sari",
+    "alias": "Sentral Sari"
+  },
+  {
+    "code": "72.02.010.023",
+    "villageCode": "023",
+    "districtCode": "72.02.010",
+    "name": "Cendanapura",
+    "alias": "Cendanapura"
+  },
+  {
+    "code": "72.02.010.024",
+    "villageCode": "024",
+    "districtCode": "72.02.010",
+    "name": "Singkoyo",
+    "alias": "Singkoyo"
+  },
+  {
+    "code": "72.02.010.026",
+    "villageCode": "026",
+    "districtCode": "72.02.010",
+    "name": "Rusa Kencana",
+    "alias": "Rusa Kencana"
+  },
+  {
+    "code": "72.02.010.036",
+    "villageCode": "036",
+    "districtCode": "72.02.010",
+    "name": "Benteng",
+    "alias": "Benteng"
+  },
+  {
+    "code": "72.02.010.037",
+    "villageCode": "037",
+    "districtCode": "72.02.010",
+    "name": "Samalore",
+    "alias": "Samalore"
+  },
+  {
+    "code": "72.02.010.038",
+    "villageCode": "038",
+    "districtCode": "72.02.010",
+    "name": "Ue Mea",
+    "alias": "Ue Mea"
+  },
+  {
+    "code": "72.02.010.039",
+    "villageCode": "039",
+    "districtCode": "72.02.010",
+    "name": "Sindang Baru",
+    "alias": "Sindang Baru"
+  },
+  {
+    "code": "72.02.010.041",
+    "villageCode": "041",
+    "districtCode": "72.02.010",
+    "name": "Mansahang",
+    "alias": "Mansahang"
+  },
+  {
+    "code": "72.02.010.042",
+    "villageCode": "042",
+    "districtCode": "72.02.010",
+    "name": "Saribuana",
+    "alias": "Saribuana"
+  },
+  {
+    "code": "72.02.010.043",
+    "villageCode": "043",
+    "districtCode": "72.02.010",
+    "name": "Mekar Kencana",
+    "alias": "Mekar Kencana"
+  },
+  {
+    "code": "72.02.010.044",
+    "villageCode": "044",
+    "districtCode": "72.02.010",
+    "name": "Marga Kencana",
+    "alias": "Marga Kencana"
+  },
+  {
+    "code": "72.02.010.045",
+    "villageCode": "045",
+    "districtCode": "72.02.010",
+    "name": "Sentral Timur",
+    "alias": "Sentral Timur"
+  },
+  {
+    "code": "72.02.010.046",
+    "villageCode": "046",
+    "districtCode": "72.02.010",
+    "name": "Cendana",
+    "alias": "Cendana"
+  },
+  {
+    "code": "72.02.010.047",
+    "villageCode": "047",
+    "districtCode": "72.02.010",
+    "name": "Jaya Kencana",
+    "alias": "Jaya Kencana"
+  },
+  {
+    "code": "72.02.010.048",
+    "villageCode": "048",
+    "districtCode": "72.02.010",
+    "name": "Tanah Abang",
+    "alias": "Tanah Abang"
+  },
+  {
+    "code": "72.02.010.055",
+    "villageCode": "055",
+    "districtCode": "72.02.010",
+    "name": "Mulya Sari",
+    "alias": "Mulya Sari"
+  },
+  {
+    "code": "72.02.010.056",
+    "villageCode": "056",
+    "districtCode": "72.02.010",
+    "name": "Tirta Jaya",
+    "alias": "Tirta Jaya"
+  },
+  {
+    "code": "72.02.010.057",
+    "villageCode": "057",
+    "districtCode": "72.02.010",
+    "name": "Sidomukti",
+    "alias": "Sidomukti"
+  }
+]

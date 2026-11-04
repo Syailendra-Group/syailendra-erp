@@ -1,0 +1,86 @@
+[
+  {
+    "code": "72.10.140.001",
+    "villageCode": "001",
+    "districtCode": "72.10.140",
+    "name": "Panesibaja",
+    "alias": "Panesibaja"
+  },
+  {
+    "code": "72.10.140.002",
+    "villageCode": "002",
+    "districtCode": "72.10.140",
+    "name": "Wiapore",
+    "alias": "Wiapore"
+  },
+  {
+    "code": "72.10.140.003",
+    "villageCode": "003",
+    "districtCode": "72.10.140",
+    "name": "Ongulero",
+    "alias": "Ongulero"
+  },
+  {
+    "code": "72.10.140.004",
+    "villageCode": "004",
+    "districtCode": "72.10.140",
+    "name": "Soi",
+    "alias": "Soi"
+  },
+  {
+    "code": "72.10.140.005",
+    "villageCode": "005",
+    "districtCode": "72.10.140",
+    "name": "Wawugaga",
+    "alias": "Wawugaga"
+  },
+  {
+    "code": "72.10.140.006",
+    "villageCode": "006",
+    "districtCode": "72.10.140",
+    "name": "Dombu",
+    "alias": "Dombu"
+  },
+  {
+    "code": "72.10.140.007",
+    "villageCode": "007",
+    "districtCode": "72.10.140",
+    "name": "Taipanggabe",
+    "alias": "Taipanggabe"
+  },
+  {
+    "code": "72.10.140.008",
+    "villageCode": "008",
+    "districtCode": "72.10.140",
+    "name": "Wayu",
+    "alias": "Wayu"
+  },
+  {
+    "code": "72.10.140.009",
+    "villageCode": "009",
+    "districtCode": "72.10.140",
+    "name": "Matantimali",
+    "alias": "Matantimali"
+  },
+  {
+    "code": "72.10.140.010",
+    "villageCode": "010",
+    "districtCode": "72.10.140",
+    "name": "Lewara",
+    "alias": "Lewara"
+  },
+  {
+    "code": "72.10.140.011",
+    "villageCode": "011",
+    "districtCode": "72.10.140",
+    "name": "Lemosiranindi",
+    "alias": "Lemosiranindi"
+  },
+  {
+    "code": "72.10.140.012",
+    "villageCode": "012",
+    "districtCode": "72.10.140",
+    "name": "Wawujai",
+    "alias": "Wawujai"
+  }
+]

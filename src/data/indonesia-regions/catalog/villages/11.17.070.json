@@ -1,0 +1,191 @@
+[
+  {
+    "code": "11.17.070.001",
+    "villageCode": "001",
+    "districtCode": "11.17.070",
+    "name": "Pantan Tengah Jaya",
+    "alias": "Pantan Tengah Jaya"
+  },
+  {
+    "code": "11.17.070.002",
+    "villageCode": "002",
+    "districtCode": "11.17.070",
+    "name": "Bener Pepanyi",
+    "alias": "Bener Pepanyi"
+  },
+  {
+    "code": "11.17.070.003",
+    "villageCode": "003",
+    "districtCode": "11.17.070",
+    "name": "Bintang Bener",
+    "alias": "Bintang Bener"
+  },
+  {
+    "code": "11.17.070.004",
+    "villageCode": "004",
+    "districtCode": "11.17.070",
+    "name": "Bintang Permata",
+    "alias": "Bintang Permata"
+  },
+  {
+    "code": "11.17.070.005",
+    "villageCode": "005",
+    "districtCode": "11.17.070",
+    "name": "Buntul Peteri",
+    "alias": "Buntul Peteri"
+  },
+  {
+    "code": "11.17.070.006",
+    "villageCode": "006",
+    "districtCode": "11.17.070",
+    "name": "Gelampang",
+    "alias": "Gelampang"
+  },
+  {
+    "code": "11.17.070.007",
+    "villageCode": "007",
+    "districtCode": "11.17.070",
+    "name": "Seni Antara",
+    "alias": "Seni Antara"
+  },
+  {
+    "code": "11.17.070.008",
+    "villageCode": "008",
+    "districtCode": "11.17.070",
+    "name": "Weh Tenang Uken",
+    "alias": "Weh Tenang Uken"
+  },
+  {
+    "code": "11.17.070.009",
+    "villageCode": "009",
+    "districtCode": "11.17.070",
+    "name": "Darul Aman",
+    "alias": "Darul Aman"
+  },
+  {
+    "code": "11.17.070.010",
+    "villageCode": "010",
+    "districtCode": "11.17.070",
+    "name": "Penosan Jaya",
+    "alias": "Penosan Jaya"
+  },
+  {
+    "code": "11.17.070.011",
+    "villageCode": "011",
+    "districtCode": "11.17.070",
+    "name": "Ramung Jaya",
+    "alias": "Ramung Jaya"
+  },
+  {
+    "code": "11.17.070.012",
+    "villageCode": "012",
+    "districtCode": "11.17.070",
+    "name": "Temas Mumanang",
+    "alias": "Temas Mumanang"
+  },
+  {
+    "code": "11.17.070.013",
+    "villageCode": "013",
+    "districtCode": "11.17.070",
+    "name": "Weh Tenang Tua",
+    "alias": "Weh Tenang Tua"
+  },
+  {
+    "code": "11.17.070.014",
+    "villageCode": "014",
+    "districtCode": "11.17.070",
+    "name": "Ayu Ara",
+    "alias": "Ayu Ara"
+  },
+  {
+    "code": "11.17.070.015",
+    "villageCode": "015",
+    "districtCode": "11.17.070",
+    "name": "Bale Musara",
+    "alias": "Bale Musara"
+  },
+  {
+    "code": "11.17.070.016",
+    "villageCode": "016",
+    "districtCode": "11.17.070",
+    "name": "Bale Purnama",
+    "alias": "Bale Purnama"
+  },
+  {
+    "code": "11.17.070.017",
+    "villageCode": "017",
+    "districtCode": "11.17.070",
+    "name": "Burni Pase",
+    "alias": "Burni Pase"
+  },
+  {
+    "code": "11.17.070.018",
+    "villageCode": "018",
+    "districtCode": "11.17.070",
+    "name": "Kepies",
+    "alias": "Kepies"
+  },
+  {
+    "code": "11.17.070.019",
+    "villageCode": "019",
+    "districtCode": "11.17.070",
+    "name": "Rikit Musara",
+    "alias": "Rikit Musara"
+  },
+  {
+    "code": "11.17.070.020",
+    "villageCode": "020",
+    "districtCode": "11.17.070",
+    "name": "Ceding Ayu",
+    "alias": "Ceding Ayu"
+  },
+  {
+    "code": "11.17.070.021",
+    "villageCode": "021",
+    "districtCode": "11.17.070",
+    "name": "Jungke Gajah",
+    "alias": "Jungke Gajah"
+  },
+  {
+    "code": "11.17.070.022",
+    "villageCode": "022",
+    "districtCode": "11.17.070",
+    "name": "Jelobok",
+    "alias": "Jelobok"
+  },
+  {
+    "code": "11.17.070.023",
+    "villageCode": "023",
+    "districtCode": "11.17.070",
+    "name": "Pemango",
+    "alias": "Pemango"
+  },
+  {
+    "code": "11.17.070.024",
+    "villageCode": "024",
+    "districtCode": "11.17.070",
+    "name": "Suku Sara Tangke",
+    "alias": "Suku Sara Tangke"
+  },
+  {
+    "code": "11.17.070.025",
+    "villageCode": "025",
+    "districtCode": "11.17.070",
+    "name": "Tawar Bengi",
+    "alias": "Tawar Bengi"
+  },
+  {
+    "code": "11.17.070.026",
+    "villageCode": "026",
+    "districtCode": "11.17.070",
+    "name": "Uning Sejuk",
+    "alias": "Uning Sejuk"
+  },
+  {
+    "code": "11.17.070.027",
+    "villageCode": "027",
+    "districtCode": "11.17.070",
+    "name": "Timur Jaya",
+    "alias": "Timur Jaya"
+  }
+]

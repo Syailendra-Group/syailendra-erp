@@ -1,0 +1,72 @@
+[
+  {
+    "code": "75.05.031.001",
+    "villageCode": "001",
+    "districtCode": "75.05.031",
+    "name": "Dunu",
+    "alias": "Dunu"
+  },
+  {
+    "code": "75.05.031.002",
+    "villageCode": "002",
+    "districtCode": "75.05.031",
+    "name": "Monano",
+    "alias": "Monano"
+  },
+  {
+    "code": "75.05.031.003",
+    "villageCode": "003",
+    "districtCode": "75.05.031",
+    "name": "Tudi",
+    "alias": "Tudi"
+  },
+  {
+    "code": "75.05.031.004",
+    "villageCode": "004",
+    "districtCode": "75.05.031",
+    "name": "Monas",
+    "alias": "Monas"
+  },
+  {
+    "code": "75.05.031.005",
+    "villageCode": "005",
+    "districtCode": "75.05.031",
+    "name": "Tolitehuyu",
+    "alias": "Tolitehuyu"
+  },
+  {
+    "code": "75.05.031.006",
+    "villageCode": "006",
+    "districtCode": "75.05.031",
+    "name": "Zuriyati",
+    "alias": "Zuriyati"
+  },
+  {
+    "code": "75.05.031.007",
+    "villageCode": "007",
+    "districtCode": "75.05.031",
+    "name": "Mokonowu",
+    "alias": "Mokonowu"
+  },
+  {
+    "code": "75.05.031.008",
+    "villageCode": "008",
+    "districtCode": "75.05.031",
+    "name": "Pilohulata",
+    "alias": "Pilohulata"
+  },
+  {
+    "code": "75.05.031.009",
+    "villageCode": "009",
+    "districtCode": "75.05.031",
+    "name": "Garapia",
+    "alias": "Garapia"
+  },
+  {
+    "code": "75.05.031.010",
+    "villageCode": "010",
+    "districtCode": "75.05.031",
+    "name": "Sogu",
+    "alias": "Sogu"
+  }
+]

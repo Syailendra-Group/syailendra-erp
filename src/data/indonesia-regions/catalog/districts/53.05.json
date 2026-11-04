@@ -1,0 +1,194 @@
+[
+  {
+    "code": "53.05.010",
+    "districtCode": "010",
+    "regencyCode": "53.05",
+    "provinceCode": "53",
+    "name": "Kecamatan Miomaffo Barat",
+    "alias": "Miomaffo Barat"
+  },
+  {
+    "code": "53.05.011",
+    "districtCode": "011",
+    "regencyCode": "53.05",
+    "provinceCode": "53",
+    "name": "Kecamatan Miomaffo Tengah",
+    "alias": "Miomaffo Tengah"
+  },
+  {
+    "code": "53.05.012",
+    "districtCode": "012",
+    "regencyCode": "53.05",
+    "provinceCode": "53",
+    "name": "Kecamatan Musi",
+    "alias": "Musi"
+  },
+  {
+    "code": "53.05.013",
+    "districtCode": "013",
+    "regencyCode": "53.05",
+    "provinceCode": "53",
+    "name": "Kecamatan Mutis",
+    "alias": "Mutis"
+  },
+  {
+    "code": "53.05.020",
+    "districtCode": "020",
+    "regencyCode": "53.05",
+    "provinceCode": "53",
+    "name": "Kecamatan Miomaffo Timur",
+    "alias": "Miomaffo Timur"
+  },
+  {
+    "code": "53.05.021",
+    "districtCode": "021",
+    "regencyCode": "53.05",
+    "provinceCode": "53",
+    "name": "Kecamatan Noemuti",
+    "alias": "Noemuti"
+  },
+  {
+    "code": "53.05.022",
+    "districtCode": "022",
+    "regencyCode": "53.05",
+    "provinceCode": "53",
+    "name": "Kecamatan Bikomi Selatan",
+    "alias": "Bikomi Selatan"
+  },
+  {
+    "code": "53.05.023",
+    "districtCode": "023",
+    "regencyCode": "53.05",
+    "provinceCode": "53",
+    "name": "Kecamatan Bikomi Tengah",
+    "alias": "Bikomi Tengah"
+  },
+  {
+    "code": "53.05.024",
+    "districtCode": "024",
+    "regencyCode": "53.05",
+    "provinceCode": "53",
+    "name": "Kecamatan Bikomi Nilulat",
+    "alias": "Bikomi Nilulat"
+  },
+  {
+    "code": "53.05.025",
+    "districtCode": "025",
+    "regencyCode": "53.05",
+    "provinceCode": "53",
+    "name": "Kecamatan Bikomi Utara",
+    "alias": "Bikomi Utara"
+  },
+  {
+    "code": "53.05.026",
+    "districtCode": "026",
+    "regencyCode": "53.05",
+    "provinceCode": "53",
+    "name": "Kecamatan Naibenu",
+    "alias": "Naibenu"
+  },
+  {
+    "code": "53.05.027",
+    "districtCode": "027",
+    "regencyCode": "53.05",
+    "provinceCode": "53",
+    "name": "Kecamatan Noemuti Timur",
+    "alias": "Noemuti Timur"
+  },
+  {
+    "code": "53.05.030",
+    "districtCode": "030",
+    "regencyCode": "53.05",
+    "provinceCode": "53",
+    "name": "Kecamatan Kota Kefamenanu",
+    "alias": "Kota Kefamenanu"
+  },
+  {
+    "code": "53.05.040",
+    "districtCode": "040",
+    "regencyCode": "53.05",
+    "provinceCode": "53",
+    "name": "Kecamatan Insana",
+    "alias": "Insana"
+  },
+  {
+    "code": "53.05.041",
+    "districtCode": "041",
+    "regencyCode": "53.05",
+    "provinceCode": "53",
+    "name": "Kecamatan Insana Utara",
+    "alias": "Insana Utara"
+  },
+  {
+    "code": "53.05.042",
+    "districtCode": "042",
+    "regencyCode": "53.05",
+    "provinceCode": "53",
+    "name": "Kecamatan Insana Barat",
+    "alias": "Insana Barat"
+  },
+  {
+    "code": "53.05.043",
+    "districtCode": "043",
+    "regencyCode": "53.05",
+    "provinceCode": "53",
+    "name": "Kecamatan Insana Tengah",
+    "alias": "Insana Tengah"
+  },
+  {
+    "code": "53.05.044",
+    "districtCode": "044",
+    "regencyCode": "53.05",
+    "provinceCode": "53",
+    "name": "Kecamatan Insana Fafinesu",
+    "alias": "Insana Fafinesu"
+  },
+  {
+    "code": "53.05.050",
+    "districtCode": "050",
+    "regencyCode": "53.05",
+    "provinceCode": "53",
+    "name": "Kecamatan Biboki Selatan",
+    "alias": "Biboki Selatan"
+  },
+  {
+    "code": "53.05.051",
+    "districtCode": "051",
+    "regencyCode": "53.05",
+    "provinceCode": "53",
+    "name": "Kecamatan Biboki Tanpah",
+    "alias": "Biboki Tanpah"
+  },
+  {
+    "code": "53.05.052",
+    "districtCode": "052",
+    "regencyCode": "53.05",
+    "provinceCode": "53",
+    "name": "Kecamatan Biboki Moenleu",
+    "alias": "Biboki Moenleu"
+  },
+  {
+    "code": "53.05.060",
+    "districtCode": "060",
+    "regencyCode": "53.05",
+    "provinceCode": "53",
+    "name": "Kecamatan Biboki Utara",
+    "alias": "Biboki Utara"
+  },
+  {
+    "code": "53.05.061",
+    "districtCode": "061",
+    "regencyCode": "53.05",
+    "provinceCode": "53",
+    "name": "Kecamatan Biboki Anleu",
+    "alias": "Biboki Anleu"
+  },
+  {
+    "code": "53.05.062",
+    "districtCode": "062",
+    "regencyCode": "53.05",
+    "provinceCode": "53",
+    "name": "Kecamatan Biboki Feotleu",
+    "alias": "Biboki Feotleu"
+  }
+]

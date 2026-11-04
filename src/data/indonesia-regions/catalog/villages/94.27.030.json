@@ -1,0 +1,72 @@
+[
+  {
+    "code": "94.27.030.001",
+    "villageCode": "001",
+    "districtCode": "94.27.030",
+    "name": "Wafor",
+    "alias": "Wafor"
+  },
+  {
+    "code": "94.27.030.002",
+    "villageCode": "002",
+    "districtCode": "94.27.030",
+    "name": "Sauyas",
+    "alias": "Sauyas"
+  },
+  {
+    "code": "94.27.030.003",
+    "villageCode": "003",
+    "districtCode": "94.27.030",
+    "name": "Sorendidori",
+    "alias": "Sorendidori"
+  },
+  {
+    "code": "94.27.030.004",
+    "villageCode": "004",
+    "districtCode": "94.27.030",
+    "name": "Waryesi",
+    "alias": "Waryesi"
+  },
+  {
+    "code": "94.27.030.005",
+    "villageCode": "005",
+    "districtCode": "94.27.030",
+    "name": "Wombonda",
+    "alias": "Wombonda"
+  },
+  {
+    "code": "94.27.030.006",
+    "villageCode": "006",
+    "districtCode": "94.27.030",
+    "name": "Yawerma",
+    "alias": "Yawerma"
+  },
+  {
+    "code": "94.27.030.007",
+    "villageCode": "007",
+    "districtCode": "94.27.030",
+    "name": "Marsram",
+    "alias": "Marsram"
+  },
+  {
+    "code": "94.27.030.008",
+    "villageCode": "008",
+    "districtCode": "94.27.030",
+    "name": "Duber",
+    "alias": "Duber"
+  },
+  {
+    "code": "94.27.030.009",
+    "villageCode": "009",
+    "districtCode": "94.27.030",
+    "name": "Douwbo",
+    "alias": "Douwbo"
+  },
+  {
+    "code": "94.27.030.010",
+    "villageCode": "010",
+    "districtCode": "94.27.030",
+    "name": "Syurdori",
+    "alias": "Syurdori"
+  }
+]

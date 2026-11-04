@@ -1,0 +1,65 @@
+[
+  {
+    "code": "63.04.110.001",
+    "villageCode": "001",
+    "districtCode": "63.04.110",
+    "name": "Sungai Pantai",
+    "alias": "Sungai Pantai"
+  },
+  {
+    "code": "63.04.110.002",
+    "villageCode": "002",
+    "districtCode": "63.04.110",
+    "name": "Pindahan Baru",
+    "alias": "Pindahan Baru"
+  },
+  {
+    "code": "63.04.110.003",
+    "villageCode": "003",
+    "districtCode": "63.04.110",
+    "name": "Danda Jaya",
+    "alias": "Danda Jaya"
+  },
+  {
+    "code": "63.04.110.004",
+    "villageCode": "004",
+    "districtCode": "63.04.110",
+    "name": "Sungai Gampa Asahi",
+    "alias": "Sungai Gampa Asahi"
+  },
+  {
+    "code": "63.04.110.005",
+    "villageCode": "005",
+    "districtCode": "63.04.110",
+    "name": "Sungai Bamban",
+    "alias": "Sungai Bamban"
+  },
+  {
+    "code": "63.04.110.006",
+    "villageCode": "006",
+    "districtCode": "63.04.110",
+    "name": "Sungai Gampa",
+    "alias": "Sungai Gampa"
+  },
+  {
+    "code": "63.04.110.007",
+    "villageCode": "007",
+    "districtCode": "63.04.110",
+    "name": "Sungai Sahurai",
+    "alias": "Sungai Sahurai"
+  },
+  {
+    "code": "63.04.110.008",
+    "villageCode": "008",
+    "districtCode": "63.04.110",
+    "name": "Simpang Arja",
+    "alias": "Simpang Arja"
+  },
+  {
+    "code": "63.04.110.009",
+    "villageCode": "009",
+    "districtCode": "63.04.110",
+    "name": "Sinar Baru",
+    "alias": "Sinar Baru"
+  }
+]

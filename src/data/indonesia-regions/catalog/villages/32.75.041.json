@@ -1,0 +1,30 @@
+[
+  {
+    "code": "32.75.041.001",
+    "villageCode": "001",
+    "districtCode": "32.75.041",
+    "name": "Bojong Menteng",
+    "alias": "Bojong Menteng"
+  },
+  {
+    "code": "32.75.041.002",
+    "villageCode": "002",
+    "districtCode": "32.75.041",
+    "name": "Bojong Rawalumbu",
+    "alias": "Bojong Rawalumbu"
+  },
+  {
+    "code": "32.75.041.003",
+    "villageCode": "003",
+    "districtCode": "32.75.041",
+    "name": "Sepanjang Jaya",
+    "alias": "Sepanjang Jaya"
+  },
+  {
+    "code": "32.75.041.004",
+    "villageCode": "004",
+    "districtCode": "32.75.041",
+    "name": "Pengasinan",
+    "alias": "Pengasinan"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "code": "81.08.080.001",
+    "villageCode": "001",
+    "districtCode": "81.08.080",
+    "name": "Emplawas",
+    "alias": "Emplawas"
+  },
+  {
+    "code": "81.08.080.002",
+    "villageCode": "002",
+    "districtCode": "81.08.080",
+    "name": "Tutuwawang",
+    "alias": "Tutuwawang"
+  },
+  {
+    "code": "81.08.080.003",
+    "villageCode": "003",
+    "districtCode": "81.08.080",
+    "name": "Manuweri",
+    "alias": "Manuweri"
+  },
+  {
+    "code": "81.08.080.004",
+    "villageCode": "004",
+    "districtCode": "81.08.080",
+    "name": "Analutur",
+    "alias": "Analutur"
+  },
+  {
+    "code": "81.08.080.005",
+    "villageCode": "005",
+    "districtCode": "81.08.080",
+    "name": "Ahanari",
+    "alias": "Ahanari"
+  },
+  {
+    "code": "81.08.080.006",
+    "villageCode": "006",
+    "districtCode": "81.08.080",
+    "name": "Wakpapapi",
+    "alias": "Wakpapapi"
+  },
+  {
+    "code": "81.08.080.007",
+    "villageCode": "007",
+    "districtCode": "81.08.080",
+    "name": "Kokwari",
+    "alias": "Kokwari"
+  },
+  {
+    "code": "81.08.080.008",
+    "villageCode": "008",
+    "districtCode": "81.08.080",
+    "name": "Letwurung",
+    "alias": "Letwurung"
+  },
+  {
+    "code": "81.08.080.009",
+    "villageCode": "009",
+    "districtCode": "81.08.080",
+    "name": "Kroing",
+    "alias": "Kroing"
+  },
+  {
+    "code": "81.08.080.010",
+    "villageCode": "010",
+    "districtCode": "81.08.080",
+    "name": "Yatoke",
+    "alias": "Yatoke"
+  },
+  {
+    "code": "81.08.080.011",
+    "villageCode": "011",
+    "districtCode": "81.08.080",
+    "name": "Nakarhamto",
+    "alias": "Nakarhamto"
+  }
+]

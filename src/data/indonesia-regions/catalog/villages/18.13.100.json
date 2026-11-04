@@ -1,0 +1,65 @@
+[
+  {
+    "code": "18.13.100.001",
+    "villageCode": "001",
+    "districtCode": "18.13.100",
+    "name": "Parda Suka",
+    "alias": "Parda Suka"
+  },
+  {
+    "code": "18.13.100.002",
+    "villageCode": "002",
+    "districtCode": "18.13.100",
+    "name": "Sukarame",
+    "alias": "Sukarame"
+  },
+  {
+    "code": "18.13.100.003",
+    "villageCode": "003",
+    "districtCode": "18.13.100",
+    "name": "Sukamaju",
+    "alias": "Sukamaju"
+  },
+  {
+    "code": "18.13.100.004",
+    "villageCode": "004",
+    "districtCode": "18.13.100",
+    "name": "Raja Basa",
+    "alias": "Raja Basa"
+  },
+  {
+    "code": "18.13.100.005",
+    "villageCode": "005",
+    "districtCode": "18.13.100",
+    "name": "Mulang Maya",
+    "alias": "Mulang Maya"
+  },
+  {
+    "code": "18.13.100.006",
+    "villageCode": "006",
+    "districtCode": "18.13.100",
+    "name": "Padang Dalam",
+    "alias": "Padang Dalam"
+  },
+  {
+    "code": "18.13.100.007",
+    "villageCode": "007",
+    "districtCode": "18.13.100",
+    "name": "Bandar Jaya",
+    "alias": "Bandar Jaya"
+  },
+  {
+    "code": "18.13.100.008",
+    "villageCode": "008",
+    "districtCode": "18.13.100",
+    "name": "Negeri Ratu Ngaras",
+    "alias": "Negeri Ratu Ngaras"
+  },
+  {
+    "code": "18.13.100.009",
+    "villageCode": "009",
+    "districtCode": "18.13.100",
+    "name": "Kota Batu",
+    "alias": "Kota Batu"
+  }
+]

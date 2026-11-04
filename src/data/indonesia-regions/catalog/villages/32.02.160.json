@@ -1,0 +1,51 @@
+[
+  {
+    "code": "32.02.160.001",
+    "villageCode": "001",
+    "districtCode": "32.02.160",
+    "name": "Ciengang",
+    "alias": "Ciengang"
+  },
+  {
+    "code": "32.02.160.002",
+    "villageCode": "002",
+    "districtCode": "32.02.160",
+    "name": "Sukamanah",
+    "alias": "Sukamanah"
+  },
+  {
+    "code": "32.02.160.003",
+    "villageCode": "003",
+    "districtCode": "32.02.160",
+    "name": "Gegerbitung",
+    "alias": "Gegerbitung"
+  },
+  {
+    "code": "32.02.160.004",
+    "villageCode": "004",
+    "districtCode": "32.02.160",
+    "name": "Cijurey",
+    "alias": "Cijurey"
+  },
+  {
+    "code": "32.02.160.005",
+    "villageCode": "005",
+    "districtCode": "32.02.160",
+    "name": "Karangjaya",
+    "alias": "Karangjaya"
+  },
+  {
+    "code": "32.02.160.006",
+    "villageCode": "006",
+    "districtCode": "32.02.160",
+    "name": "Buniwangi",
+    "alias": "Buniwangi"
+  },
+  {
+    "code": "32.02.160.007",
+    "villageCode": "007",
+    "districtCode": "32.02.160",
+    "name": "Caringin",
+    "alias": "Caringin"
+  }
+]

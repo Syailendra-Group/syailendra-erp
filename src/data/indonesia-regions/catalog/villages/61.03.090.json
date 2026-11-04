@@ -1,0 +1,44 @@
+[
+  {
+    "code": "61.03.090.001",
+    "villageCode": "001",
+    "districtCode": "61.03.090",
+    "name": "Kelampai Setolo",
+    "alias": "Kelampai Setolo"
+  },
+  {
+    "code": "61.03.090.002",
+    "villageCode": "002",
+    "districtCode": "61.03.090",
+    "name": "Meranti",
+    "alias": "Meranti"
+  },
+  {
+    "code": "61.03.090.003",
+    "villageCode": "003",
+    "districtCode": "61.03.090",
+    "name": "Ampadi",
+    "alias": "Ampadi"
+  },
+  {
+    "code": "61.03.090.004",
+    "villageCode": "004",
+    "districtCode": "61.03.090",
+    "name": "Selange",
+    "alias": "Selange"
+  },
+  {
+    "code": "61.03.090.005",
+    "villageCode": "005",
+    "districtCode": "61.03.090",
+    "name": "Moro Betung",
+    "alias": "Moro Betung"
+  },
+  {
+    "code": "61.03.090.006",
+    "villageCode": "006",
+    "districtCode": "61.03.090",
+    "name": "Tahu",
+    "alias": "Tahu"
+  }
+]

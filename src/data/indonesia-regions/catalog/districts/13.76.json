@@ -1,0 +1,42 @@
+[
+  {
+    "code": "13.76.010",
+    "districtCode": "010",
+    "regencyCode": "13.76",
+    "provinceCode": "13",
+    "name": "Kecamatan Payakumbuh Barat",
+    "alias": "Payakumbuh Barat"
+  },
+  {
+    "code": "13.76.011",
+    "districtCode": "011",
+    "regencyCode": "13.76",
+    "provinceCode": "13",
+    "name": "Kecamatan Payakumbuh Selatan",
+    "alias": "Payakumbuh Selatan"
+  },
+  {
+    "code": "13.76.020",
+    "districtCode": "020",
+    "regencyCode": "13.76",
+    "provinceCode": "13",
+    "name": "Kecamatan Payakumbuh Timur",
+    "alias": "Payakumbuh Timur"
+  },
+  {
+    "code": "13.76.030",
+    "districtCode": "030",
+    "regencyCode": "13.76",
+    "provinceCode": "13",
+    "name": "Kecamatan Payakumbuh Utara",
+    "alias": "Payakumbuh Utara"
+  },
+  {
+    "code": "13.76.031",
+    "districtCode": "031",
+    "regencyCode": "13.76",
+    "provinceCode": "13",
+    "name": "Kecamatan Lamposi Tigo Nagori",
+    "alias": "Lamposi Tigo Nagori"
+  }
+]

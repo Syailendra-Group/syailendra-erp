@@ -1,0 +1,93 @@
+[
+  {
+    "code": "32.02.290.001",
+    "villageCode": "001",
+    "districtCode": "32.02.290",
+    "name": "Pasirbaru",
+    "alias": "Pasirbaru"
+  },
+  {
+    "code": "32.02.290.002",
+    "villageCode": "002",
+    "districtCode": "32.02.290",
+    "name": "Cikahuripan",
+    "alias": "Cikahuripan"
+  },
+  {
+    "code": "32.02.290.003",
+    "villageCode": "003",
+    "districtCode": "32.02.290",
+    "name": "Cisolok",
+    "alias": "Cisolok"
+  },
+  {
+    "code": "32.02.290.004",
+    "villageCode": "004",
+    "districtCode": "32.02.290",
+    "name": "Karangpapak",
+    "alias": "Karangpapak"
+  },
+  {
+    "code": "32.02.290.012",
+    "villageCode": "012",
+    "districtCode": "32.02.290",
+    "name": "Sirnaresmi",
+    "alias": "Sirnaresmi"
+  },
+  {
+    "code": "32.02.290.013",
+    "villageCode": "013",
+    "districtCode": "32.02.290",
+    "name": "Cicadas",
+    "alias": "Cicadas"
+  },
+  {
+    "code": "32.02.290.014",
+    "villageCode": "014",
+    "districtCode": "32.02.290",
+    "name": "Cikelat",
+    "alias": "Cikelat"
+  },
+  {
+    "code": "32.02.290.015",
+    "villageCode": "015",
+    "districtCode": "32.02.290",
+    "name": "Gunung Kramat",
+    "alias": "Gunung Kramat"
+  },
+  {
+    "code": "32.02.290.016",
+    "villageCode": "016",
+    "districtCode": "32.02.290",
+    "name": "Gunung Tanjung",
+    "alias": "Gunung Tanjung"
+  },
+  {
+    "code": "32.02.290.017",
+    "villageCode": "017",
+    "districtCode": "32.02.290",
+    "name": "Caringin",
+    "alias": "Caringin"
+  },
+  {
+    "code": "32.02.290.018",
+    "villageCode": "018",
+    "districtCode": "32.02.290",
+    "name": "Sukarame",
+    "alias": "Sukarame"
+  },
+  {
+    "code": "32.02.290.019",
+    "villageCode": "019",
+    "districtCode": "32.02.290",
+    "name": "Wangunsari",
+    "alias": "Wangunsari"
+  },
+  {
+    "code": "32.02.290.020",
+    "villageCode": "020",
+    "districtCode": "32.02.290",
+    "name": "Wanajaya",
+    "alias": "Wanajaya"
+  }
+]

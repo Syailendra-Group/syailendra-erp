@@ -1,0 +1,121 @@
+[
+  {
+    "code": "62.12.020.001",
+    "villageCode": "001",
+    "districtCode": "62.12.020",
+    "name": "Pulau Patai",
+    "alias": "Pulau Patai"
+  },
+  {
+    "code": "62.12.020.002",
+    "villageCode": "002",
+    "districtCode": "62.12.020",
+    "name": "Sarapat (Ex Harara)",
+    "alias": "Sarapat (Ex Harara)"
+  },
+  {
+    "code": "62.12.020.003",
+    "villageCode": "003",
+    "districtCode": "62.12.020",
+    "name": "Magantis",
+    "alias": "Magantis"
+  },
+  {
+    "code": "62.12.020.004",
+    "villageCode": "004",
+    "districtCode": "62.12.020",
+    "name": "Jaar",
+    "alias": "Jaar"
+  },
+  {
+    "code": "62.12.020.005",
+    "villageCode": "005",
+    "districtCode": "62.12.020",
+    "name": "Matabu",
+    "alias": "Matabu"
+  },
+  {
+    "code": "62.12.020.006",
+    "villageCode": "006",
+    "districtCode": "62.12.020",
+    "name": "Tamiang Layang",
+    "alias": "Tamiang Layang"
+  },
+  {
+    "code": "62.12.020.007",
+    "villageCode": "007",
+    "districtCode": "62.12.020",
+    "name": "Jaweten",
+    "alias": "Jaweten"
+  },
+  {
+    "code": "62.12.020.008",
+    "villageCode": "008",
+    "districtCode": "62.12.020",
+    "name": "Haringen",
+    "alias": "Haringen"
+  },
+  {
+    "code": "62.12.020.009",
+    "villageCode": "009",
+    "districtCode": "62.12.020",
+    "name": "Dorong",
+    "alias": "Dorong"
+  },
+  {
+    "code": "62.12.020.010",
+    "villageCode": "010",
+    "districtCode": "62.12.020",
+    "name": "Didi",
+    "alias": "Didi"
+  },
+  {
+    "code": "62.12.020.011",
+    "villageCode": "011",
+    "districtCode": "62.12.020",
+    "name": "Karang Langit",
+    "alias": "Karang Langit"
+  },
+  {
+    "code": "62.12.020.012",
+    "villageCode": "012",
+    "districtCode": "62.12.020",
+    "name": "Harara",
+    "alias": "Harara"
+  },
+  {
+    "code": "62.12.020.013",
+    "villageCode": "013",
+    "districtCode": "62.12.020",
+    "name": "Mangkarap",
+    "alias": "Mangkarap"
+  },
+  {
+    "code": "62.12.020.014",
+    "villageCode": "014",
+    "districtCode": "62.12.020",
+    "name": "Matarah",
+    "alias": "Matarah"
+  },
+  {
+    "code": "62.12.020.015",
+    "villageCode": "015",
+    "districtCode": "62.12.020",
+    "name": "Gumpa",
+    "alias": "Gumpa"
+  },
+  {
+    "code": "62.12.020.016",
+    "villageCode": "016",
+    "districtCode": "62.12.020",
+    "name": "Maragut",
+    "alias": "Maragut"
+  },
+  {
+    "code": "62.12.020.017",
+    "villageCode": "017",
+    "districtCode": "62.12.020",
+    "name": "Sumur",
+    "alias": "Sumur"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "code": "82.04.062.001",
+    "villageCode": "001",
+    "districtCode": "82.04.062",
+    "name": "Sagawele",
+    "alias": "Sagawele"
+  },
+  {
+    "code": "82.04.062.002",
+    "villageCode": "002",
+    "districtCode": "82.04.062",
+    "name": "Posi Posi",
+    "alias": "Posi Posi"
+  },
+  {
+    "code": "82.04.062.003",
+    "villageCode": "003",
+    "districtCode": "82.04.062",
+    "name": "Ngute Ngute",
+    "alias": "Ngute Ngute"
+  },
+  {
+    "code": "82.04.062.004",
+    "villageCode": "004",
+    "districtCode": "82.04.062",
+    "name": "Laluin",
+    "alias": "Laluin"
+  },
+  {
+    "code": "82.04.062.005",
+    "villageCode": "005",
+    "districtCode": "82.04.062",
+    "name": "Pasir Putih",
+    "alias": "Pasir Putih"
+  },
+  {
+    "code": "82.04.062.006",
+    "villageCode": "006",
+    "districtCode": "82.04.062",
+    "name": "Orimakurunga",
+    "alias": "Orimakurunga"
+  }
+]

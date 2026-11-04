@@ -1,0 +1,114 @@
+[
+  {
+    "code": "21.01.010",
+    "districtCode": "010",
+    "regencyCode": "21.01",
+    "provinceCode": "21",
+    "name": "Kecamatan Moro",
+    "alias": "Moro"
+  },
+  {
+    "code": "21.01.011",
+    "districtCode": "011",
+    "regencyCode": "21.01",
+    "provinceCode": "21",
+    "name": "Kecamatan Durai",
+    "alias": "Durai"
+  },
+  {
+    "code": "21.01.012",
+    "districtCode": "012",
+    "regencyCode": "21.01",
+    "provinceCode": "21",
+    "name": "Kecamatan Sugie Besar",
+    "alias": "Sugie Besar"
+  },
+  {
+    "code": "21.01.020",
+    "districtCode": "020",
+    "regencyCode": "21.01",
+    "provinceCode": "21",
+    "name": "Kecamatan Kundur",
+    "alias": "Kundur"
+  },
+  {
+    "code": "21.01.021",
+    "districtCode": "021",
+    "regencyCode": "21.01",
+    "provinceCode": "21",
+    "name": "Kecamatan Kundur Utara",
+    "alias": "Kundur Utara"
+  },
+  {
+    "code": "21.01.022",
+    "districtCode": "022",
+    "regencyCode": "21.01",
+    "provinceCode": "21",
+    "name": "Kecamatan Kundur Barat",
+    "alias": "Kundur Barat"
+  },
+  {
+    "code": "21.01.023",
+    "districtCode": "023",
+    "regencyCode": "21.01",
+    "provinceCode": "21",
+    "name": "Kecamatan Ungar",
+    "alias": "Ungar"
+  },
+  {
+    "code": "21.01.024",
+    "districtCode": "024",
+    "regencyCode": "21.01",
+    "provinceCode": "21",
+    "name": "Kecamatan Belat",
+    "alias": "Belat"
+  },
+  {
+    "code": "21.01.030",
+    "districtCode": "030",
+    "regencyCode": "21.01",
+    "provinceCode": "21",
+    "name": "Kecamatan Karimun",
+    "alias": "Karimun"
+  },
+  {
+    "code": "21.01.031",
+    "districtCode": "031",
+    "regencyCode": "21.01",
+    "provinceCode": "21",
+    "name": "Kecamatan Buru",
+    "alias": "Buru"
+  },
+  {
+    "code": "21.01.032",
+    "districtCode": "032",
+    "regencyCode": "21.01",
+    "provinceCode": "21",
+    "name": "Kecamatan Meral",
+    "alias": "Meral"
+  },
+  {
+    "code": "21.01.033",
+    "districtCode": "033",
+    "regencyCode": "21.01",
+    "provinceCode": "21",
+    "name": "Kecamatan Tebing",
+    "alias": "Tebing"
+  },
+  {
+    "code": "21.01.034",
+    "districtCode": "034",
+    "regencyCode": "21.01",
+    "provinceCode": "21",
+    "name": "Kecamatan Meral Barat",
+    "alias": "Meral Barat"
+  },
+  {
+    "code": "21.01.035",
+    "districtCode": "035",
+    "regencyCode": "21.01",
+    "provinceCode": "21",
+    "name": "Kecamatan Selat Gelam",
+    "alias": "Selat Gelam"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "code": "35.09.040.001",
+    "villageCode": "001",
+    "districtCode": "35.09.040",
+    "name": "Lojejer",
+    "alias": "Lojejer"
+  },
+  {
+    "code": "35.09.040.002",
+    "villageCode": "002",
+    "districtCode": "35.09.040",
+    "name": "Ampel",
+    "alias": "Ampel"
+  },
+  {
+    "code": "35.09.040.003",
+    "villageCode": "003",
+    "districtCode": "35.09.040",
+    "name": "Tanjung Rejo",
+    "alias": "Tanjung Rejo"
+  },
+  {
+    "code": "35.09.040.004",
+    "villageCode": "004",
+    "districtCode": "35.09.040",
+    "name": "Kesilir",
+    "alias": "Kesilir"
+  },
+  {
+    "code": "35.09.040.005",
+    "villageCode": "005",
+    "districtCode": "35.09.040",
+    "name": "Dukuh Dempok",
+    "alias": "Dukuh Dempok"
+  },
+  {
+    "code": "35.09.040.006",
+    "villageCode": "006",
+    "districtCode": "35.09.040",
+    "name": "Tamansari",
+    "alias": "Tamansari"
+  },
+  {
+    "code": "35.09.040.007",
+    "villageCode": "007",
+    "districtCode": "35.09.040",
+    "name": "Glundengan",
+    "alias": "Glundengan"
+  }
+]

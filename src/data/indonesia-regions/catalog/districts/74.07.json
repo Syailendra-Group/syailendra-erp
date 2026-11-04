@@ -1,0 +1,66 @@
+[
+  {
+    "code": "74.07.010",
+    "districtCode": "010",
+    "regencyCode": "74.07",
+    "provinceCode": "74",
+    "name": "Kecamatan Binongko",
+    "alias": "Binongko"
+  },
+  {
+    "code": "74.07.011",
+    "districtCode": "011",
+    "regencyCode": "74.07",
+    "provinceCode": "74",
+    "name": "Kecamatan Togo Binongko",
+    "alias": "Togo Binongko"
+  },
+  {
+    "code": "74.07.020",
+    "districtCode": "020",
+    "regencyCode": "74.07",
+    "provinceCode": "74",
+    "name": "Kecamatan Tomia",
+    "alias": "Tomia"
+  },
+  {
+    "code": "74.07.021",
+    "districtCode": "021",
+    "regencyCode": "74.07",
+    "provinceCode": "74",
+    "name": "Kecamatan Tomia Timur",
+    "alias": "Tomia Timur"
+  },
+  {
+    "code": "74.07.030",
+    "districtCode": "030",
+    "regencyCode": "74.07",
+    "provinceCode": "74",
+    "name": "Kecamatan Kaledupa",
+    "alias": "Kaledupa"
+  },
+  {
+    "code": "74.07.031",
+    "districtCode": "031",
+    "regencyCode": "74.07",
+    "provinceCode": "74",
+    "name": "Kecamatan Kaledupa Selatan",
+    "alias": "Kaledupa Selatan"
+  },
+  {
+    "code": "74.07.040",
+    "districtCode": "040",
+    "regencyCode": "74.07",
+    "provinceCode": "74",
+    "name": "Kecamatan Wangi-Wangi",
+    "alias": "Wangi-Wangi"
+  },
+  {
+    "code": "74.07.050",
+    "districtCode": "050",
+    "regencyCode": "74.07",
+    "provinceCode": "74",
+    "name": "Kecamatan Wangi-Wangi Selatan",
+    "alias": "Wangi-Wangi Selatan"
+  }
+]

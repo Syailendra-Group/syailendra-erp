@@ -1,0 +1,51 @@
+[
+  {
+    "code": "11.03.021.002",
+    "villageCode": "002",
+    "districtCode": "11.03.021",
+    "name": "Ujung Pulo Cut",
+    "alias": "Ujung Pulo Cut"
+  },
+  {
+    "code": "11.03.021.003",
+    "villageCode": "003",
+    "districtCode": "11.03.021",
+    "name": "Ujung Pulo Rayeuk",
+    "alias": "Ujung Pulo Rayeuk"
+  },
+  {
+    "code": "11.03.021.004",
+    "villageCode": "004",
+    "districtCode": "11.03.021",
+    "name": "Pasi Seubadeh",
+    "alias": "Pasi Seubadeh"
+  },
+  {
+    "code": "11.03.021.005",
+    "villageCode": "005",
+    "districtCode": "11.03.021",
+    "name": "Ladang Rimba",
+    "alias": "Ladang Rimba"
+  },
+  {
+    "code": "11.03.021.006",
+    "villageCode": "006",
+    "districtCode": "11.03.021",
+    "name": "Simpang",
+    "alias": "Simpang"
+  },
+  {
+    "code": "11.03.021.007",
+    "villageCode": "007",
+    "districtCode": "11.03.021",
+    "name": "Sawah Tingkeum",
+    "alias": "Sawah Tingkeum"
+  },
+  {
+    "code": "11.03.021.008",
+    "villageCode": "008",
+    "districtCode": "11.03.021",
+    "name": "Seuleukat",
+    "alias": "Seuleukat"
+  }
+]

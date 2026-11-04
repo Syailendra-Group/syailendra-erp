@@ -1,0 +1,72 @@
+[
+  {
+    "code": "81.05.011.001",
+    "villageCode": "001",
+    "districtCode": "81.05.011",
+    "name": "Batugoyang",
+    "alias": "Batugoyang"
+  },
+  {
+    "code": "81.05.011.002",
+    "villageCode": "002",
+    "districtCode": "81.05.011",
+    "name": "Salarem",
+    "alias": "Salarem"
+  },
+  {
+    "code": "81.05.011.003",
+    "villageCode": "003",
+    "districtCode": "81.05.011",
+    "name": "Meror",
+    "alias": "Meror"
+  },
+  {
+    "code": "81.05.011.004",
+    "villageCode": "004",
+    "districtCode": "81.05.011",
+    "name": "Siya",
+    "alias": "Siya"
+  },
+  {
+    "code": "81.05.011.005",
+    "villageCode": "005",
+    "districtCode": "81.05.011",
+    "name": "Beltubur",
+    "alias": "Beltubur"
+  },
+  {
+    "code": "81.05.011.006",
+    "villageCode": "006",
+    "districtCode": "81.05.011",
+    "name": "Dosimar",
+    "alias": "Dosimar"
+  },
+  {
+    "code": "81.05.011.007",
+    "villageCode": "007",
+    "districtCode": "81.05.011",
+    "name": "Karey",
+    "alias": "Karey"
+  },
+  {
+    "code": "81.05.011.008",
+    "villageCode": "008",
+    "districtCode": "81.05.011",
+    "name": "Jorang",
+    "alias": "Jorang"
+  },
+  {
+    "code": "81.05.011.009",
+    "villageCode": "009",
+    "districtCode": "81.05.011",
+    "name": "Gomarmeti",
+    "alias": "Gomarmeti"
+  },
+  {
+    "code": "81.05.011.012",
+    "villageCode": "012",
+    "districtCode": "81.05.011",
+    "name": "Gomarsungai",
+    "alias": "Gomarsungai"
+  }
+]

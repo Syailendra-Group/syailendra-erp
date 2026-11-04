@@ -1,0 +1,51 @@
+[
+  {
+    "code": "19.06.020.001",
+    "villageCode": "001",
+    "districtCode": "19.06.020",
+    "name": "Lilangan",
+    "alias": "Lilangan"
+  },
+  {
+    "code": "19.06.020.002",
+    "villageCode": "002",
+    "districtCode": "19.06.020",
+    "name": "Jangkar Asam",
+    "alias": "Jangkar Asam"
+  },
+  {
+    "code": "19.06.020.003",
+    "villageCode": "003",
+    "districtCode": "19.06.020",
+    "name": "Gantung",
+    "alias": "Gantung"
+  },
+  {
+    "code": "19.06.020.004",
+    "villageCode": "004",
+    "districtCode": "19.06.020",
+    "name": "Selingsing",
+    "alias": "Selingsing"
+  },
+  {
+    "code": "19.06.020.008",
+    "villageCode": "008",
+    "districtCode": "19.06.020",
+    "name": "Limbongan",
+    "alias": "Limbongan"
+  },
+  {
+    "code": "19.06.020.009",
+    "villageCode": "009",
+    "districtCode": "19.06.020",
+    "name": "Batu Penyu",
+    "alias": "Batu Penyu"
+  },
+  {
+    "code": "19.06.020.010",
+    "villageCode": "010",
+    "districtCode": "19.06.020",
+    "name": "Lenggang",
+    "alias": "Lenggang"
+  }
+]

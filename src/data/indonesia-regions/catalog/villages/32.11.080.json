@@ -1,0 +1,86 @@
+[
+  {
+    "code": "32.11.080.003",
+    "villageCode": "003",
+    "districtCode": "32.11.080",
+    "name": "Neglasari",
+    "alias": "Neglasari"
+  },
+  {
+    "code": "32.11.080.004",
+    "villageCode": "004",
+    "districtCode": "32.11.080",
+    "name": "Sukamenak",
+    "alias": "Sukamenak"
+  },
+  {
+    "code": "32.11.080.006",
+    "villageCode": "006",
+    "districtCode": "32.11.080",
+    "name": "Darmajaya",
+    "alias": "Darmajaya"
+  },
+  {
+    "code": "32.11.080.007",
+    "villageCode": "007",
+    "districtCode": "32.11.080",
+    "name": "Darmaraja",
+    "alias": "Darmaraja"
+  },
+  {
+    "code": "32.11.080.008",
+    "villageCode": "008",
+    "districtCode": "32.11.080",
+    "name": "Cipeuteuy",
+    "alias": "Cipeuteuy"
+  },
+  {
+    "code": "32.11.080.011",
+    "villageCode": "011",
+    "districtCode": "32.11.080",
+    "name": "Cikeusi",
+    "alias": "Cikeusi"
+  },
+  {
+    "code": "32.11.080.012",
+    "villageCode": "012",
+    "districtCode": "32.11.080",
+    "name": "Cieunteung",
+    "alias": "Cieunteung"
+  },
+  {
+    "code": "32.11.080.013",
+    "villageCode": "013",
+    "districtCode": "32.11.080",
+    "name": "Tarunajaya",
+    "alias": "Tarunajaya"
+  },
+  {
+    "code": "32.11.080.014",
+    "villageCode": "014",
+    "districtCode": "32.11.080",
+    "name": "Sukaratu",
+    "alias": "Sukaratu"
+  },
+  {
+    "code": "32.11.080.018",
+    "villageCode": "018",
+    "districtCode": "32.11.080",
+    "name": "Karang Pakuan",
+    "alias": "Karang Pakuan"
+  },
+  {
+    "code": "32.11.080.019",
+    "villageCode": "019",
+    "districtCode": "32.11.080",
+    "name": "Paku Alam",
+    "alias": "Paku Alam"
+  },
+  {
+    "code": "32.11.080.020",
+    "villageCode": "020",
+    "districtCode": "32.11.080",
+    "name": "Ranggon",
+    "alias": "Ranggon"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "code": "36.03.130.001",
+    "villageCode": "001",
+    "districtCode": "36.03.130",
+    "name": "Gembong",
+    "alias": "Gembong"
+  },
+  {
+    "code": "36.03.130.002",
+    "villageCode": "002",
+    "districtCode": "36.03.130",
+    "name": "Cangkudu",
+    "alias": "Cangkudu"
+  },
+  {
+    "code": "36.03.130.003",
+    "villageCode": "003",
+    "districtCode": "36.03.130",
+    "name": "Sentul",
+    "alias": "Sentul"
+  },
+  {
+    "code": "36.03.130.004",
+    "villageCode": "004",
+    "districtCode": "36.03.130",
+    "name": "Sentul Jaya",
+    "alias": "Sentul Jaya"
+  },
+  {
+    "code": "36.03.130.005",
+    "villageCode": "005",
+    "districtCode": "36.03.130",
+    "name": "Talagasari",
+    "alias": "Talagasari"
+  },
+  {
+    "code": "36.03.130.006",
+    "villageCode": "006",
+    "districtCode": "36.03.130",
+    "name": "Bala Raja",
+    "alias": "Bala Raja"
+  },
+  {
+    "code": "36.03.130.007",
+    "villageCode": "007",
+    "districtCode": "36.03.130",
+    "name": "Tobat",
+    "alias": "Tobat"
+  },
+  {
+    "code": "36.03.130.008",
+    "villageCode": "008",
+    "districtCode": "36.03.130",
+    "name": "Suka Murni",
+    "alias": "Suka Murni"
+  },
+  {
+    "code": "36.03.130.015",
+    "villageCode": "015",
+    "districtCode": "36.03.130",
+    "name": "Saga",
+    "alias": "Saga"
+  }
+]

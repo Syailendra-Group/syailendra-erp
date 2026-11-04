@@ -1,0 +1,65 @@
+[
+  {
+    "code": "97.04.300.001",
+    "villageCode": "001",
+    "districtCode": "97.04.300",
+    "name": "Kubu",
+    "alias": "Kubu"
+  },
+  {
+    "code": "97.04.300.002",
+    "villageCode": "002",
+    "districtCode": "97.04.300",
+    "name": "Aruku",
+    "alias": "Aruku"
+  },
+  {
+    "code": "97.04.300.003",
+    "villageCode": "003",
+    "districtCode": "97.04.300",
+    "name": "Minagi",
+    "alias": "Minagi"
+  },
+  {
+    "code": "97.04.300.004",
+    "villageCode": "004",
+    "districtCode": "97.04.300",
+    "name": "Menggenagi",
+    "alias": "Menggenagi"
+  },
+  {
+    "code": "97.04.300.005",
+    "villageCode": "005",
+    "districtCode": "97.04.300",
+    "name": "Kubugiwa",
+    "alias": "Kubugiwa"
+  },
+  {
+    "code": "97.04.300.006",
+    "villageCode": "006",
+    "districtCode": "97.04.300",
+    "name": "Kalewi",
+    "alias": "Kalewi"
+  },
+  {
+    "code": "97.04.300.007",
+    "villageCode": "007",
+    "districtCode": "97.04.300",
+    "name": "Tiyangupur",
+    "alias": "Tiyangupur"
+  },
+  {
+    "code": "97.04.300.008",
+    "villageCode": "008",
+    "districtCode": "97.04.300",
+    "name": "Numbugawi",
+    "alias": "Numbugawi"
+  },
+  {
+    "code": "97.04.300.009",
+    "villageCode": "009",
+    "districtCode": "97.04.300",
+    "name": "Murik/Genipur",
+    "alias": "Murik/Genipur"
+  }
+]

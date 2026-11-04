@@ -1,0 +1,58 @@
+[
+  {
+    "code": "13.06.070.001",
+    "villageCode": "001",
+    "districtCode": "13.06.070",
+    "name": "Campago",
+    "alias": "Campago"
+  },
+  {
+    "code": "13.06.070.002",
+    "villageCode": "002",
+    "districtCode": "13.06.070",
+    "name": "Sikucua",
+    "alias": "Sikucua"
+  },
+  {
+    "code": "13.06.070.003",
+    "villageCode": "003",
+    "districtCode": "13.06.070",
+    "name": "Campago Selatan",
+    "alias": "Campago Selatan"
+  },
+  {
+    "code": "13.06.070.004",
+    "villageCode": "004",
+    "districtCode": "13.06.070",
+    "name": "Campago Barat",
+    "alias": "Campago Barat"
+  },
+  {
+    "code": "13.06.070.005",
+    "villageCode": "005",
+    "districtCode": "13.06.070",
+    "name": "Sikucua Tengah",
+    "alias": "Sikucua Tengah"
+  },
+  {
+    "code": "13.06.070.006",
+    "villageCode": "006",
+    "districtCode": "13.06.070",
+    "name": "Sikucua Barat",
+    "alias": "Sikucua Barat"
+  },
+  {
+    "code": "13.06.070.007",
+    "villageCode": "007",
+    "districtCode": "13.06.070",
+    "name": "Sikucua Utara",
+    "alias": "Sikucua Utara"
+  },
+  {
+    "code": "13.06.070.008",
+    "villageCode": "008",
+    "districtCode": "13.06.070",
+    "name": "Sikucua Timur",
+    "alias": "Sikucua Timur"
+  }
+]

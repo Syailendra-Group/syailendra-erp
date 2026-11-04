@@ -1,0 +1,65 @@
+[
+  {
+    "code": "18.08.052.003",
+    "villageCode": "003",
+    "districtCode": "18.08.052",
+    "name": "Bumi Ratu",
+    "alias": "Bumi Ratu"
+  },
+  {
+    "code": "18.08.052.004",
+    "villageCode": "004",
+    "districtCode": "18.08.052",
+    "name": "Hargo Rejo",
+    "alias": "Hargo Rejo"
+  },
+  {
+    "code": "18.08.052.005",
+    "villageCode": "005",
+    "districtCode": "18.08.052",
+    "name": "Yudha Karya Jitu",
+    "alias": "Yudha Karya Jitu"
+  },
+  {
+    "code": "18.08.052.010",
+    "villageCode": "010",
+    "districtCode": "18.08.052",
+    "name": "Karya Jitu Mukti",
+    "alias": "Karya Jitu Mukti"
+  },
+  {
+    "code": "18.08.052.011",
+    "villageCode": "011",
+    "districtCode": "18.08.052",
+    "name": "Hargo Mulyo",
+    "alias": "Hargo Mulyo"
+  },
+  {
+    "code": "18.08.052.012",
+    "villageCode": "012",
+    "districtCode": "18.08.052",
+    "name": "Wono Agung",
+    "alias": "Wono Agung"
+  },
+  {
+    "code": "18.08.052.013",
+    "villageCode": "013",
+    "districtCode": "18.08.052",
+    "name": "Medasari",
+    "alias": "Medasari"
+  },
+  {
+    "code": "18.08.052.014",
+    "villageCode": "014",
+    "districtCode": "18.08.052",
+    "name": "Gedung Karya Jitu",
+    "alias": "Gedung Karya Jitu"
+  },
+  {
+    "code": "18.08.052.015",
+    "villageCode": "015",
+    "districtCode": "18.08.052",
+    "name": "Karya Cipta Abadi",
+    "alias": "Karya Cipta Abadi"
+  }
+]

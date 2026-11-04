@@ -1,0 +1,58 @@
+[
+  {
+    "code": "63.05.050.001",
+    "villageCode": "001",
+    "districtCode": "63.05.050",
+    "name": "Baramban",
+    "alias": "Baramban"
+  },
+  {
+    "code": "63.05.050.002",
+    "villageCode": "002",
+    "districtCode": "63.05.050",
+    "name": "Miawa",
+    "alias": "Miawa"
+  },
+  {
+    "code": "63.05.050.003",
+    "villageCode": "003",
+    "districtCode": "63.05.050",
+    "name": "Buni In Jaya",
+    "alias": "Buni In Jaya"
+  },
+  {
+    "code": "63.05.050.004",
+    "villageCode": "004",
+    "districtCode": "63.05.050",
+    "name": "Batu Ampar",
+    "alias": "Batu Ampar"
+  },
+  {
+    "code": "63.05.050.005",
+    "villageCode": "005",
+    "districtCode": "63.05.050",
+    "name": "Pipitak Jaya",
+    "alias": "Pipitak Jaya"
+  },
+  {
+    "code": "63.05.050.006",
+    "villageCode": "006",
+    "districtCode": "63.05.050",
+    "name": "Harakit",
+    "alias": "Harakit"
+  },
+  {
+    "code": "63.05.050.007",
+    "villageCode": "007",
+    "districtCode": "63.05.050",
+    "name": "Batung",
+    "alias": "Batung"
+  },
+  {
+    "code": "63.05.050.008",
+    "villageCode": "008",
+    "districtCode": "63.05.050",
+    "name": "Balawaian",
+    "alias": "Balawaian"
+  }
+]

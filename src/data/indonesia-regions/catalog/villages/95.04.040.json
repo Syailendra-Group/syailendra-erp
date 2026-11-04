@@ -1,0 +1,72 @@
+[
+  {
+    "code": "95.04.040.001",
+    "villageCode": "001",
+    "districtCode": "95.04.040",
+    "name": "Jinak",
+    "alias": "Jinak"
+  },
+  {
+    "code": "95.04.040.002",
+    "villageCode": "002",
+    "districtCode": "95.04.040",
+    "name": "Wowi",
+    "alias": "Wowi"
+  },
+  {
+    "code": "95.04.040.007",
+    "villageCode": "007",
+    "districtCode": "95.04.040",
+    "name": "Karbis",
+    "alias": "Karbis"
+  },
+  {
+    "code": "95.04.040.008",
+    "villageCode": "008",
+    "districtCode": "95.04.040",
+    "name": "Bubis",
+    "alias": "Bubis"
+  },
+  {
+    "code": "95.04.040.009",
+    "villageCode": "009",
+    "districtCode": "95.04.040",
+    "name": "Binam",
+    "alias": "Binam"
+  },
+  {
+    "code": "95.04.040.010",
+    "villageCode": "010",
+    "districtCode": "95.04.040",
+    "name": "Burbis",
+    "alias": "Burbis"
+  },
+  {
+    "code": "95.04.040.011",
+    "villageCode": "011",
+    "districtCode": "95.04.040",
+    "name": "Waganu Dua",
+    "alias": "Waganu Dua"
+  },
+  {
+    "code": "95.04.040.014",
+    "villageCode": "014",
+    "districtCode": "95.04.040",
+    "name": "Sorai",
+    "alias": "Sorai"
+  },
+  {
+    "code": "95.04.040.015",
+    "villageCode": "015",
+    "districtCode": "95.04.040",
+    "name": "Wagabus",
+    "alias": "Wagabus"
+  },
+  {
+    "code": "95.04.040.016",
+    "villageCode": "016",
+    "districtCode": "95.04.040",
+    "name": "Emnam",
+    "alias": "Emnam"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "code": "61.71.030.001",
+    "villageCode": "001",
+    "districtCode": "61.71.030",
+    "name": "Pal Lima",
+    "alias": "Pal Lima"
+  },
+  {
+    "code": "61.71.030.006",
+    "villageCode": "006",
+    "districtCode": "61.71.030",
+    "name": "Sungai Jawi Dalam",
+    "alias": "Sungai Jawi Dalam"
+  },
+  {
+    "code": "61.71.030.007",
+    "villageCode": "007",
+    "districtCode": "61.71.030",
+    "name": "Sungai Jawi Luar",
+    "alias": "Sungai Jawi Luar"
+  },
+  {
+    "code": "61.71.030.008",
+    "villageCode": "008",
+    "districtCode": "61.71.030",
+    "name": "Sungai Beliung",
+    "alias": "Sungai Beliung"
+  }
+]

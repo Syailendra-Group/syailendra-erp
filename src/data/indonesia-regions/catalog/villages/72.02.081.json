@@ -1,0 +1,79 @@
+[
+  {
+    "code": "72.02.081.001",
+    "villageCode": "001",
+    "districtCode": "72.02.081",
+    "name": "Tombos",
+    "alias": "Tombos"
+  },
+  {
+    "code": "72.02.081.002",
+    "villageCode": "002",
+    "districtCode": "72.02.081",
+    "name": "Tintingon",
+    "alias": "Tintingon"
+  },
+  {
+    "code": "72.02.081.003",
+    "villageCode": "003",
+    "districtCode": "72.02.081",
+    "name": "Booy",
+    "alias": "Booy"
+  },
+  {
+    "code": "72.02.081.004",
+    "villageCode": "004",
+    "districtCode": "72.02.081",
+    "name": "Sepe",
+    "alias": "Sepe"
+  },
+  {
+    "code": "72.02.081.005",
+    "villageCode": "005",
+    "districtCode": "72.02.081",
+    "name": "Dondo",
+    "alias": "Dondo"
+  },
+  {
+    "code": "72.02.081.006",
+    "villageCode": "006",
+    "districtCode": "72.02.081",
+    "name": "Resarna",
+    "alias": "Resarna"
+  },
+  {
+    "code": "72.02.081.007",
+    "villageCode": "007",
+    "districtCode": "72.02.081",
+    "name": "Giwang",
+    "alias": "Giwang"
+  },
+  {
+    "code": "72.02.081.008",
+    "villageCode": "008",
+    "districtCode": "72.02.081",
+    "name": "Gorontalo",
+    "alias": "Gorontalo"
+  },
+  {
+    "code": "72.02.081.009",
+    "villageCode": "009",
+    "districtCode": "72.02.081",
+    "name": "Tongke",
+    "alias": "Tongke"
+  },
+  {
+    "code": "72.02.081.010",
+    "villageCode": "010",
+    "districtCode": "72.02.081",
+    "name": "Poyang",
+    "alias": "Poyang"
+  },
+  {
+    "code": "72.02.081.011",
+    "villageCode": "011",
+    "districtCode": "72.02.081",
+    "name": "Tanggawas",
+    "alias": "Tanggawas"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "code": "97.02.070.001",
+    "villageCode": "001",
+    "districtCode": "97.02.070",
+    "name": "Ketimavit",
+    "alias": "Ketimavit"
+  },
+  {
+    "code": "97.02.070.002",
+    "villageCode": "002",
+    "districtCode": "97.02.070",
+    "name": "Wouma",
+    "alias": "Wouma"
+  },
+  {
+    "code": "97.02.070.003",
+    "villageCode": "003",
+    "districtCode": "97.02.070",
+    "name": "Pipitmo",
+    "alias": "Pipitmo"
+  },
+  {
+    "code": "97.02.070.004",
+    "villageCode": "004",
+    "districtCode": "97.02.070",
+    "name": "Sinarekowa",
+    "alias": "Sinarekowa"
+  },
+  {
+    "code": "97.02.070.005",
+    "villageCode": "005",
+    "districtCode": "97.02.070",
+    "name": "Wesakma",
+    "alias": "Wesakma"
+  },
+  {
+    "code": "97.02.070.006",
+    "villageCode": "006",
+    "districtCode": "97.02.070",
+    "name": "Logonoba",
+    "alias": "Logonoba"
+  },
+  {
+    "code": "97.02.070.007",
+    "villageCode": "007",
+    "districtCode": "97.02.070",
+    "name": "Wesakin",
+    "alias": "Wesakin"
+  }
+]

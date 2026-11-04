@@ -1,0 +1,100 @@
+[
+  {
+    "code": "33.15.070.001",
+    "villageCode": "001",
+    "districtCode": "33.15.070",
+    "name": "Bago",
+    "alias": "Bago"
+  },
+  {
+    "code": "33.15.070.002",
+    "villageCode": "002",
+    "districtCode": "33.15.070",
+    "name": "Simo",
+    "alias": "Simo"
+  },
+  {
+    "code": "33.15.070.003",
+    "villageCode": "003",
+    "districtCode": "33.15.070",
+    "name": "Rejosari",
+    "alias": "Rejosari"
+  },
+  {
+    "code": "33.15.070.004",
+    "villageCode": "004",
+    "districtCode": "33.15.070",
+    "name": "Pakis",
+    "alias": "Pakis"
+  },
+  {
+    "code": "33.15.070.005",
+    "villageCode": "005",
+    "districtCode": "33.15.070",
+    "name": "Crewek",
+    "alias": "Crewek"
+  },
+  {
+    "code": "33.15.070.006",
+    "villageCode": "006",
+    "districtCode": "33.15.070",
+    "name": "Banjarsari",
+    "alias": "Banjarsari"
+  },
+  {
+    "code": "33.15.070.007",
+    "villageCode": "007",
+    "districtCode": "33.15.070",
+    "name": "Kradenan",
+    "alias": "Kradenan"
+  },
+  {
+    "code": "33.15.070.008",
+    "villageCode": "008",
+    "districtCode": "33.15.070",
+    "name": "Sambongbangi",
+    "alias": "Sambongbangi"
+  },
+  {
+    "code": "33.15.070.009",
+    "villageCode": "009",
+    "districtCode": "33.15.070",
+    "name": "Sengonwetan",
+    "alias": "Sengonwetan"
+  },
+  {
+    "code": "33.15.070.010",
+    "villageCode": "010",
+    "districtCode": "33.15.070",
+    "name": "Banjardowo",
+    "alias": "Banjardowo"
+  },
+  {
+    "code": "33.15.070.011",
+    "villageCode": "011",
+    "districtCode": "33.15.070",
+    "name": "Kalisari",
+    "alias": "Kalisari"
+  },
+  {
+    "code": "33.15.070.012",
+    "villageCode": "012",
+    "districtCode": "33.15.070",
+    "name": "Kuwu",
+    "alias": "Kuwu"
+  },
+  {
+    "code": "33.15.070.013",
+    "villageCode": "013",
+    "districtCode": "33.15.070",
+    "name": "Grabagan",
+    "alias": "Grabagan"
+  },
+  {
+    "code": "33.15.070.014",
+    "villageCode": "014",
+    "districtCode": "33.15.070",
+    "name": "Tanjungsari",
+    "alias": "Tanjungsari"
+  }
+]

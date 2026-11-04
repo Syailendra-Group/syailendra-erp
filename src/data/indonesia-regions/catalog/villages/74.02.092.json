@@ -1,0 +1,30 @@
+[
+  {
+    "code": "74.02.092.001",
+    "villageCode": "001",
+    "districtCode": "74.02.092",
+    "name": "Kolese",
+    "alias": "Kolese"
+  },
+  {
+    "code": "74.02.092.002",
+    "villageCode": "002",
+    "districtCode": "74.02.092",
+    "name": "Mata Indaha",
+    "alias": "Mata Indaha"
+  },
+  {
+    "code": "74.02.092.003",
+    "villageCode": "003",
+    "districtCode": "74.02.092",
+    "name": "Lambelu",
+    "alias": "Lambelu"
+  },
+  {
+    "code": "74.02.092.004",
+    "villageCode": "004",
+    "districtCode": "74.02.092",
+    "name": "Tampunabale",
+    "alias": "Tampunabale"
+  }
+]

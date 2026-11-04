@@ -1,0 +1,37 @@
+[
+  {
+    "code": "92.01.040.001",
+    "villageCode": "001",
+    "districtCode": "92.01.040",
+    "name": "Waigama",
+    "alias": "Waigama"
+  },
+  {
+    "code": "92.01.040.002",
+    "villageCode": "002",
+    "districtCode": "92.01.040",
+    "name": "Aduwei",
+    "alias": "Aduwei"
+  },
+  {
+    "code": "92.01.040.003",
+    "villageCode": "003",
+    "districtCode": "92.01.040",
+    "name": "Salafen",
+    "alias": "Salafen"
+  },
+  {
+    "code": "92.01.040.004",
+    "villageCode": "004",
+    "districtCode": "92.01.040",
+    "name": "Solal",
+    "alias": "Solal"
+  },
+  {
+    "code": "92.01.040.005",
+    "villageCode": "005",
+    "districtCode": "92.01.040",
+    "name": "Atkari",
+    "alias": "Atkari"
+  }
+]

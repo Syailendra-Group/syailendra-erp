@@ -1,0 +1,65 @@
+[
+  {
+    "code": "14.07.020.003",
+    "villageCode": "003",
+    "districtCode": "14.07.020",
+    "name": "Kumain",
+    "alias": "Kumain"
+  },
+  {
+    "code": "14.07.020.004",
+    "villageCode": "004",
+    "districtCode": "14.07.020",
+    "name": "Bono Tapung",
+    "alias": "Bono Tapung"
+  },
+  {
+    "code": "14.07.020.005",
+    "villageCode": "005",
+    "districtCode": "14.07.020",
+    "name": "Dayo",
+    "alias": "Dayo"
+  },
+  {
+    "code": "14.07.020.006",
+    "villageCode": "006",
+    "districtCode": "14.07.020",
+    "name": "Tapung Jaya",
+    "alias": "Tapung Jaya"
+  },
+  {
+    "code": "14.07.020.012",
+    "villageCode": "012",
+    "districtCode": "14.07.020",
+    "name": "Tandun",
+    "alias": "Tandun"
+  },
+  {
+    "code": "14.07.020.013",
+    "villageCode": "013",
+    "districtCode": "14.07.020",
+    "name": "Puo Raya",
+    "alias": "Puo Raya"
+  },
+  {
+    "code": "14.07.020.014",
+    "villageCode": "014",
+    "districtCode": "14.07.020",
+    "name": "Sungai Kuning",
+    "alias": "Sungai Kuning"
+  },
+  {
+    "code": "14.07.020.015",
+    "villageCode": "015",
+    "districtCode": "14.07.020",
+    "name": "Koto Tandun",
+    "alias": "Koto Tandun"
+  },
+  {
+    "code": "14.07.020.016",
+    "villageCode": "016",
+    "districtCode": "14.07.020",
+    "name": "Tandun Barat",
+    "alias": "Tandun Barat"
+  }
+]

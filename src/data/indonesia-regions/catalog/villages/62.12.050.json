@@ -1,0 +1,58 @@
+[
+  {
+    "code": "62.12.050.004",
+    "villageCode": "004",
+    "districtCode": "62.12.050",
+    "name": "Saing",
+    "alias": "Saing"
+  },
+  {
+    "code": "62.12.050.005",
+    "villageCode": "005",
+    "districtCode": "62.12.050",
+    "name": "Rodok",
+    "alias": "Rodok"
+  },
+  {
+    "code": "62.12.050.006",
+    "villageCode": "006",
+    "districtCode": "62.12.050",
+    "name": "Ampah Dua",
+    "alias": "Ampah Dua"
+  },
+  {
+    "code": "62.12.050.007",
+    "villageCode": "007",
+    "districtCode": "62.12.050",
+    "name": "Putai",
+    "alias": "Putai"
+  },
+  {
+    "code": "62.12.050.008",
+    "villageCode": "008",
+    "districtCode": "62.12.050",
+    "name": "Ampah Kota",
+    "alias": "Ampah Kota"
+  },
+  {
+    "code": "62.12.050.009",
+    "villageCode": "009",
+    "districtCode": "62.12.050",
+    "name": "Netampin",
+    "alias": "Netampin"
+  },
+  {
+    "code": "62.12.050.010",
+    "villageCode": "010",
+    "districtCode": "62.12.050",
+    "name": "Sumber Garunggung",
+    "alias": "Sumber Garunggung"
+  },
+  {
+    "code": "62.12.050.011",
+    "villageCode": "011",
+    "districtCode": "62.12.050",
+    "name": "Muara Awang",
+    "alias": "Muara Awang"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "code": "96.02.060.001",
+    "villageCode": "001",
+    "districtCode": "96.02.060",
+    "name": "Dogimani",
+    "alias": "Dogimani"
+  },
+  {
+    "code": "96.02.060.002",
+    "villageCode": "002",
+    "districtCode": "96.02.060",
+    "name": "Bobobutu",
+    "alias": "Bobobutu"
+  },
+  {
+    "code": "96.02.060.003",
+    "villageCode": "003",
+    "districtCode": "96.02.060",
+    "name": "Egebutu",
+    "alias": "Egebutu"
+  },
+  {
+    "code": "96.02.060.004",
+    "villageCode": "004",
+    "districtCode": "96.02.060",
+    "name": "Pona",
+    "alias": "Pona"
+  },
+  {
+    "code": "96.02.060.005",
+    "villageCode": "005",
+    "districtCode": "96.02.060",
+    "name": "Makidimi",
+    "alias": "Makidimi"
+  },
+  {
+    "code": "96.02.060.006",
+    "villageCode": "006",
+    "districtCode": "96.02.060",
+    "name": "Idadagi",
+    "alias": "Idadagi"
+  },
+  {
+    "code": "96.02.060.007",
+    "villageCode": "007",
+    "districtCode": "96.02.060",
+    "name": "Motito",
+    "alias": "Motito"
+  },
+  {
+    "code": "96.02.060.008",
+    "villageCode": "008",
+    "districtCode": "96.02.060",
+    "name": "Denemani",
+    "alias": "Denemani"
+  },
+  {
+    "code": "96.02.060.009",
+    "villageCode": "009",
+    "districtCode": "96.02.060",
+    "name": "Kigamani",
+    "alias": "Kigamani"
+  }
+]

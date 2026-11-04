@@ -1,0 +1,93 @@
+[
+  {
+    "code": "32.10.090.001",
+    "villageCode": "001",
+    "districtCode": "32.10.090",
+    "name": "Candrajaya",
+    "alias": "Candrajaya"
+  },
+  {
+    "code": "32.10.090.002",
+    "villageCode": "002",
+    "districtCode": "32.10.090",
+    "name": "Ciomas",
+    "alias": "Ciomas"
+  },
+  {
+    "code": "32.10.090.010",
+    "villageCode": "010",
+    "districtCode": "32.10.090",
+    "name": "Padahanten",
+    "alias": "Padahanten"
+  },
+  {
+    "code": "32.10.090.011",
+    "villageCode": "011",
+    "districtCode": "32.10.090",
+    "name": "Sukahaji",
+    "alias": "Sukahaji"
+  },
+  {
+    "code": "32.10.090.012",
+    "villageCode": "012",
+    "districtCode": "32.10.090",
+    "name": "Cikalong",
+    "alias": "Cikalong"
+  },
+  {
+    "code": "32.10.090.013",
+    "villageCode": "013",
+    "districtCode": "32.10.090",
+    "name": "Babakan Manjeti",
+    "alias": "Babakan Manjeti"
+  },
+  {
+    "code": "32.10.090.014",
+    "villageCode": "014",
+    "districtCode": "32.10.090",
+    "name": "Cikoneng",
+    "alias": "Cikoneng"
+  },
+  {
+    "code": "32.10.090.015",
+    "villageCode": "015",
+    "districtCode": "32.10.090",
+    "name": "Palabuan",
+    "alias": "Palabuan"
+  },
+  {
+    "code": "32.10.090.016",
+    "villageCode": "016",
+    "districtCode": "32.10.090",
+    "name": "Cikeusik",
+    "alias": "Cikeusik"
+  },
+  {
+    "code": "32.10.090.017",
+    "villageCode": "017",
+    "districtCode": "32.10.090",
+    "name": "Salagedang",
+    "alias": "Salagedang"
+  },
+  {
+    "code": "32.10.090.018",
+    "villageCode": "018",
+    "districtCode": "32.10.090",
+    "name": "Tanjungsari",
+    "alias": "Tanjungsari"
+  },
+  {
+    "code": "32.10.090.019",
+    "villageCode": "019",
+    "districtCode": "32.10.090",
+    "name": "Jayi",
+    "alias": "Jayi"
+  },
+  {
+    "code": "32.10.090.020",
+    "villageCode": "020",
+    "districtCode": "32.10.090",
+    "name": "Nanggewer",
+    "alias": "Nanggewer"
+  }
+]

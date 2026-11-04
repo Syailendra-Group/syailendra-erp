@@ -1,0 +1,58 @@
+[
+  {
+    "code": "36.74.010",
+    "districtCode": "010",
+    "regencyCode": "36.74",
+    "provinceCode": "36",
+    "name": "Kecamatan Setu",
+    "alias": "Setu"
+  },
+  {
+    "code": "36.74.020",
+    "districtCode": "020",
+    "regencyCode": "36.74",
+    "provinceCode": "36",
+    "name": "Kecamatan Serpong",
+    "alias": "Serpong"
+  },
+  {
+    "code": "36.74.030",
+    "districtCode": "030",
+    "regencyCode": "36.74",
+    "provinceCode": "36",
+    "name": "Kecamatan Pamulang",
+    "alias": "Pamulang"
+  },
+  {
+    "code": "36.74.040",
+    "districtCode": "040",
+    "regencyCode": "36.74",
+    "provinceCode": "36",
+    "name": "Kecamatan Ciputat",
+    "alias": "Ciputat"
+  },
+  {
+    "code": "36.74.050",
+    "districtCode": "050",
+    "regencyCode": "36.74",
+    "provinceCode": "36",
+    "name": "Kecamatan Ciputat Timur",
+    "alias": "Ciputat Timur"
+  },
+  {
+    "code": "36.74.060",
+    "districtCode": "060",
+    "regencyCode": "36.74",
+    "provinceCode": "36",
+    "name": "Kecamatan Pondok Aren",
+    "alias": "Pondok Aren"
+  },
+  {
+    "code": "36.74.070",
+    "districtCode": "070",
+    "regencyCode": "36.74",
+    "provinceCode": "36",
+    "name": "Kecamatan Serpong Utara",
+    "alias": "Serpong Utara"
+  }
+]

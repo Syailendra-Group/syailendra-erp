@@ -1,0 +1,44 @@
+[
+  {
+    "code": "32.07.260.001",
+    "villageCode": "001",
+    "districtCode": "32.07.260",
+    "name": "Cintanagara",
+    "alias": "Cintanagara"
+  },
+  {
+    "code": "32.07.260.002",
+    "villageCode": "002",
+    "districtCode": "32.07.260",
+    "name": "Bayasari",
+    "alias": "Bayasari"
+  },
+  {
+    "code": "32.07.260.003",
+    "villageCode": "003",
+    "districtCode": "32.07.260",
+    "name": "Jatinagara",
+    "alias": "Jatinagara"
+  },
+  {
+    "code": "32.07.260.004",
+    "villageCode": "004",
+    "districtCode": "32.07.260",
+    "name": "Dayeuhluhur",
+    "alias": "Dayeuhluhur"
+  },
+  {
+    "code": "32.07.260.005",
+    "villageCode": "005",
+    "districtCode": "32.07.260",
+    "name": "Sukanagara",
+    "alias": "Sukanagara"
+  },
+  {
+    "code": "32.07.260.006",
+    "villageCode": "006",
+    "districtCode": "32.07.260",
+    "name": "Mulyasari",
+    "alias": "Mulyasari"
+  }
+]

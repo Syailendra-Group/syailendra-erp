@@ -1,0 +1,44 @@
+[
+  {
+    "code": "81.03.100.001",
+    "villageCode": "001",
+    "districtCode": "81.03.100",
+    "name": "Suli",
+    "alias": "Suli"
+  },
+  {
+    "code": "81.03.100.002",
+    "villageCode": "002",
+    "districtCode": "81.03.100",
+    "name": "Tial",
+    "alias": "Tial"
+  },
+  {
+    "code": "81.03.100.003",
+    "villageCode": "003",
+    "districtCode": "81.03.100",
+    "name": "Tengah-Tengah",
+    "alias": "Tengah-Tengah"
+  },
+  {
+    "code": "81.03.100.004",
+    "villageCode": "004",
+    "districtCode": "81.03.100",
+    "name": "Tulehu",
+    "alias": "Tulehu"
+  },
+  {
+    "code": "81.03.100.005",
+    "villageCode": "005",
+    "districtCode": "81.03.100",
+    "name": "Waai",
+    "alias": "Waai"
+  },
+  {
+    "code": "81.03.100.006",
+    "villageCode": "006",
+    "districtCode": "81.03.100",
+    "name": "Liang",
+    "alias": "Liang"
+  }
+]

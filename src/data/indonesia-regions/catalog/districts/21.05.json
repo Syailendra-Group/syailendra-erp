@@ -1,0 +1,82 @@
+[
+  {
+    "code": "21.05.010",
+    "districtCode": "010",
+    "regencyCode": "21.05",
+    "provinceCode": "21",
+    "name": "Kecamatan Jemaja",
+    "alias": "Jemaja"
+  },
+  {
+    "code": "21.05.011",
+    "districtCode": "011",
+    "regencyCode": "21.05",
+    "provinceCode": "21",
+    "name": "Kecamatan Jemaja Barat",
+    "alias": "Jemaja Barat"
+  },
+  {
+    "code": "21.05.020",
+    "districtCode": "020",
+    "regencyCode": "21.05",
+    "provinceCode": "21",
+    "name": "Kecamatan Jemaja Timur",
+    "alias": "Jemaja Timur"
+  },
+  {
+    "code": "21.05.030",
+    "districtCode": "030",
+    "regencyCode": "21.05",
+    "provinceCode": "21",
+    "name": "Kecamatan Siantan Selatan",
+    "alias": "Siantan Selatan"
+  },
+  {
+    "code": "21.05.040",
+    "districtCode": "040",
+    "regencyCode": "21.05",
+    "provinceCode": "21",
+    "name": "Kecamatan Siantan",
+    "alias": "Siantan"
+  },
+  {
+    "code": "21.05.050",
+    "districtCode": "050",
+    "regencyCode": "21.05",
+    "provinceCode": "21",
+    "name": "Kecamatan Siantan Timur",
+    "alias": "Siantan Timur"
+  },
+  {
+    "code": "21.05.060",
+    "districtCode": "060",
+    "regencyCode": "21.05",
+    "provinceCode": "21",
+    "name": "Kecamatan Siantan Tengah",
+    "alias": "Siantan Tengah"
+  },
+  {
+    "code": "21.05.070",
+    "districtCode": "070",
+    "regencyCode": "21.05",
+    "provinceCode": "21",
+    "name": "Kecamatan Palmatak",
+    "alias": "Palmatak"
+  },
+  {
+    "code": "21.05.071",
+    "districtCode": "071",
+    "regencyCode": "21.05",
+    "provinceCode": "21",
+    "name": "Kecamatan Siantan Utara",
+    "alias": "Siantan Utara"
+  },
+  {
+    "code": "21.05.072",
+    "districtCode": "072",
+    "regencyCode": "21.05",
+    "provinceCode": "21",
+    "name": "Kecamatan Kute Siantan",
+    "alias": "Kute Siantan"
+  }
+]

@@ -1,0 +1,338 @@
+[
+  {
+    "code": "11.09.081.001",
+    "villageCode": "001",
+    "districtCode": "11.09.081",
+    "name": "Tong Peria",
+    "alias": "Tong Peria"
+  },
+  {
+    "code": "11.09.081.002",
+    "villageCode": "002",
+    "districtCode": "11.09.081",
+    "name": "Tong Weng",
+    "alias": "Tong Weng"
+  },
+  {
+    "code": "11.09.081.003",
+    "villageCode": "003",
+    "districtCode": "11.09.081",
+    "name": "Barieh",
+    "alias": "Barieh"
+  },
+  {
+    "code": "11.09.081.004",
+    "villageCode": "004",
+    "districtCode": "11.09.081",
+    "name": "Blangong Basah",
+    "alias": "Blangong Basah"
+  },
+  {
+    "code": "11.09.081.005",
+    "villageCode": "005",
+    "districtCode": "11.09.081",
+    "name": "Kulam Ara",
+    "alias": "Kulam Ara"
+  },
+  {
+    "code": "11.09.081.006",
+    "villageCode": "006",
+    "districtCode": "11.09.081",
+    "name": "Didoh",
+    "alias": "Didoh"
+  },
+  {
+    "code": "11.09.081.007",
+    "villageCode": "007",
+    "districtCode": "11.09.081",
+    "name": "Rinti",
+    "alias": "Rinti"
+  },
+  {
+    "code": "11.09.081.008",
+    "villageCode": "008",
+    "districtCode": "11.09.081",
+    "name": "Balee Ujong Rimba",
+    "alias": "Balee Ujong Rimba"
+  },
+  {
+    "code": "11.09.081.009",
+    "villageCode": "009",
+    "districtCode": "11.09.081",
+    "name": "Meugit",
+    "alias": "Meugit"
+  },
+  {
+    "code": "11.09.081.010",
+    "villageCode": "010",
+    "districtCode": "11.09.081",
+    "name": "Empeh",
+    "alias": "Empeh"
+  },
+  {
+    "code": "11.09.081.011",
+    "villageCode": "011",
+    "districtCode": "11.09.081",
+    "name": "Mesjid Gumpueng",
+    "alias": "Mesjid Gumpueng"
+  },
+  {
+    "code": "11.09.081.012",
+    "villageCode": "012",
+    "districtCode": "11.09.081",
+    "name": "Pulo Drien",
+    "alias": "Pulo Drien"
+  },
+  {
+    "code": "11.09.081.013",
+    "villageCode": "013",
+    "districtCode": "11.09.081",
+    "name": "Simbe",
+    "alias": "Simbe"
+  },
+  {
+    "code": "11.09.081.014",
+    "villageCode": "014",
+    "districtCode": "11.09.081",
+    "name": "Ulee Gampong",
+    "alias": "Ulee Gampong"
+  },
+  {
+    "code": "11.09.081.015",
+    "villageCode": "015",
+    "districtCode": "11.09.081",
+    "name": "Mon Ara",
+    "alias": "Mon Ara"
+  },
+  {
+    "code": "11.09.081.016",
+    "villageCode": "016",
+    "districtCode": "11.09.081",
+    "name": "Baroh",
+    "alias": "Baroh"
+  },
+  {
+    "code": "11.09.081.017",
+    "villageCode": "017",
+    "districtCode": "11.09.081",
+    "name": "Baro Ujong Rimba",
+    "alias": "Baro Ujong Rimba"
+  },
+  {
+    "code": "11.09.081.018",
+    "villageCode": "018",
+    "districtCode": "11.09.081",
+    "name": "Blang Riek",
+    "alias": "Blang Riek"
+  },
+  {
+    "code": "11.09.081.019",
+    "villageCode": "019",
+    "districtCode": "11.09.081",
+    "name": "Paloh Raya",
+    "alias": "Paloh Raya"
+  },
+  {
+    "code": "11.09.081.020",
+    "villageCode": "020",
+    "districtCode": "11.09.081",
+    "name": "Nibong",
+    "alias": "Nibong"
+  },
+  {
+    "code": "11.09.081.021",
+    "villageCode": "021",
+    "districtCode": "11.09.081",
+    "name": "Paloh Lhok Usi",
+    "alias": "Paloh Lhok Usi"
+  },
+  {
+    "code": "11.09.081.022",
+    "villageCode": "022",
+    "districtCode": "11.09.081",
+    "name": "Campli Usi",
+    "alias": "Campli Usi"
+  },
+  {
+    "code": "11.09.081.023",
+    "villageCode": "023",
+    "districtCode": "11.09.081",
+    "name": "Dayah Usi",
+    "alias": "Dayah Usi"
+  },
+  {
+    "code": "11.09.081.024",
+    "villageCode": "024",
+    "districtCode": "11.09.081",
+    "name": "Paloh Tinggi",
+    "alias": "Paloh Tinggi"
+  },
+  {
+    "code": "11.09.081.025",
+    "villageCode": "025",
+    "districtCode": "11.09.081",
+    "name": "Rambong",
+    "alias": "Rambong"
+  },
+  {
+    "code": "11.09.081.026",
+    "villageCode": "026",
+    "districtCode": "11.09.081",
+    "name": "Mee Tanjong Usi",
+    "alias": "Mee Tanjong Usi"
+  },
+  {
+    "code": "11.09.081.027",
+    "villageCode": "027",
+    "districtCode": "11.09.081",
+    "name": "Mesjid Usi",
+    "alias": "Mesjid Usi"
+  },
+  {
+    "code": "11.09.081.028",
+    "villageCode": "028",
+    "districtCode": "11.09.081",
+    "name": "Gampong Cot Usi",
+    "alias": "Gampong Cot Usi"
+  },
+  {
+    "code": "11.09.081.029",
+    "villageCode": "029",
+    "districtCode": "11.09.081",
+    "name": "Reubat",
+    "alias": "Reubat"
+  },
+  {
+    "code": "11.09.081.030",
+    "villageCode": "030",
+    "districtCode": "11.09.081",
+    "name": "Tiba Raya",
+    "alias": "Tiba Raya"
+  },
+  {
+    "code": "11.09.081.031",
+    "villageCode": "031",
+    "districtCode": "11.09.081",
+    "name": "Mesjid Tiba",
+    "alias": "Mesjid Tiba"
+  },
+  {
+    "code": "11.09.081.032",
+    "villageCode": "032",
+    "districtCode": "11.09.081",
+    "name": "Jojo",
+    "alias": "Jojo"
+  },
+  {
+    "code": "11.09.081.033",
+    "villageCode": "033",
+    "districtCode": "11.09.081",
+    "name": "Gampong Lada",
+    "alias": "Gampong Lada"
+  },
+  {
+    "code": "11.09.081.034",
+    "villageCode": "034",
+    "districtCode": "11.09.081",
+    "name": "Dayah Kumba",
+    "alias": "Dayah Kumba"
+  },
+  {
+    "code": "11.09.081.035",
+    "villageCode": "035",
+    "districtCode": "11.09.081",
+    "name": "Cot Kuthang",
+    "alias": "Cot Kuthang"
+  },
+  {
+    "code": "11.09.081.036",
+    "villageCode": "036",
+    "districtCode": "11.09.081",
+    "name": "Mesjid Jeurat Manyang",
+    "alias": "Mesjid Jeurat Manyang"
+  },
+  {
+    "code": "11.09.081.037",
+    "villageCode": "037",
+    "districtCode": "11.09.081",
+    "name": "Sagoe Teumpeun",
+    "alias": "Sagoe Teumpeun"
+  },
+  {
+    "code": "11.09.081.038",
+    "villageCode": "038",
+    "districtCode": "11.09.081",
+    "name": "Dayah Tanoh",
+    "alias": "Dayah Tanoh"
+  },
+  {
+    "code": "11.09.081.039",
+    "villageCode": "039",
+    "districtCode": "11.09.081",
+    "name": "Beureu Eh Ii",
+    "alias": "Beureu Eh Ii"
+  },
+  {
+    "code": "11.09.081.040",
+    "villageCode": "040",
+    "districtCode": "11.09.081",
+    "name": "Jiem",
+    "alias": "Jiem"
+  },
+  {
+    "code": "11.09.081.041",
+    "villageCode": "041",
+    "districtCode": "11.09.081",
+    "name": "Ulee Tutue",
+    "alias": "Ulee Tutue"
+  },
+  {
+    "code": "11.09.081.042",
+    "villageCode": "042",
+    "districtCode": "11.09.081",
+    "name": "Mecat Adan",
+    "alias": "Mecat Adan"
+  },
+  {
+    "code": "11.09.081.043",
+    "villageCode": "043",
+    "districtCode": "11.09.081",
+    "name": "Karieng",
+    "alias": "Karieng"
+  },
+  {
+    "code": "11.09.081.044",
+    "villageCode": "044",
+    "districtCode": "11.09.081",
+    "name": "Rambot Adan",
+    "alias": "Rambot Adan"
+  },
+  {
+    "code": "11.09.081.045",
+    "villageCode": "045",
+    "districtCode": "11.09.081",
+    "name": "Alue Adan",
+    "alias": "Alue Adan"
+  },
+  {
+    "code": "11.09.081.046",
+    "villageCode": "046",
+    "districtCode": "11.09.081",
+    "name": "Dayah Adan",
+    "alias": "Dayah Adan"
+  },
+  {
+    "code": "11.09.081.047",
+    "villageCode": "047",
+    "districtCode": "11.09.081",
+    "name": "Mee Adan",
+    "alias": "Mee Adan"
+  },
+  {
+    "code": "11.09.081.048",
+    "villageCode": "048",
+    "districtCode": "11.09.081",
+    "name": "Jumphoih Adan",
+    "alias": "Jumphoih Adan"
+  }
+]

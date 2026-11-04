@@ -1,0 +1,100 @@
+[
+  {
+    "code": "32.06.020.001",
+    "villageCode": "001",
+    "districtCode": "32.06.020",
+    "name": "Cidadap",
+    "alias": "Cidadap"
+  },
+  {
+    "code": "32.06.020.002",
+    "villageCode": "002",
+    "districtCode": "32.06.020",
+    "name": "Kujang",
+    "alias": "Kujang"
+  },
+  {
+    "code": "32.06.020.003",
+    "villageCode": "003",
+    "districtCode": "32.06.020",
+    "name": "Sarimukti",
+    "alias": "Sarimukti"
+  },
+  {
+    "code": "32.06.020.004",
+    "villageCode": "004",
+    "districtCode": "32.06.020",
+    "name": "Ciawi",
+    "alias": "Ciawi"
+  },
+  {
+    "code": "32.06.020.005",
+    "villageCode": "005",
+    "districtCode": "32.06.020",
+    "name": "Cikapinis",
+    "alias": "Cikapinis"
+  },
+  {
+    "code": "32.06.020.006",
+    "villageCode": "006",
+    "districtCode": "32.06.020",
+    "name": "Cikupa",
+    "alias": "Cikupa"
+  },
+  {
+    "code": "32.06.020.007",
+    "villageCode": "007",
+    "districtCode": "32.06.020",
+    "name": "Karangnunggal",
+    "alias": "Karangnunggal"
+  },
+  {
+    "code": "32.06.020.008",
+    "villageCode": "008",
+    "districtCode": "32.06.020",
+    "name": "Karangmekar",
+    "alias": "Karangmekar"
+  },
+  {
+    "code": "32.06.020.009",
+    "villageCode": "009",
+    "districtCode": "32.06.020",
+    "name": "Cibatuireng",
+    "alias": "Cibatuireng"
+  },
+  {
+    "code": "32.06.020.010",
+    "villageCode": "010",
+    "districtCode": "32.06.020",
+    "name": "Cibatu",
+    "alias": "Cibatu"
+  },
+  {
+    "code": "32.06.020.011",
+    "villageCode": "011",
+    "districtCode": "32.06.020",
+    "name": "Sukawangun",
+    "alias": "Sukawangun"
+  },
+  {
+    "code": "32.06.020.012",
+    "villageCode": "012",
+    "districtCode": "32.06.020",
+    "name": "Cintawangi",
+    "alias": "Cintawangi"
+  },
+  {
+    "code": "32.06.020.013",
+    "villageCode": "013",
+    "districtCode": "32.06.020",
+    "name": "Cikukulu",
+    "alias": "Cikukulu"
+  },
+  {
+    "code": "32.06.020.014",
+    "villageCode": "014",
+    "districtCode": "32.06.020",
+    "name": "Sarimanggu",
+    "alias": "Sarimanggu"
+  }
+]

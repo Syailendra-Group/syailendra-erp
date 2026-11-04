@@ -1,0 +1,93 @@
+[
+  {
+    "code": "71.05.090.001",
+    "villageCode": "001",
+    "districtCode": "71.05.090",
+    "name": "Durian",
+    "alias": "Durian"
+  },
+  {
+    "code": "71.05.090.002",
+    "villageCode": "002",
+    "districtCode": "71.05.090",
+    "name": "Poigar Ii",
+    "alias": "Poigar Ii"
+  },
+  {
+    "code": "71.05.090.003",
+    "villageCode": "003",
+    "districtCode": "71.05.090",
+    "name": "Poigar I",
+    "alias": "Poigar I"
+  },
+  {
+    "code": "71.05.090.004",
+    "villageCode": "004",
+    "districtCode": "71.05.090",
+    "name": "Tanamon",
+    "alias": "Tanamon"
+  },
+  {
+    "code": "71.05.090.005",
+    "villageCode": "005",
+    "districtCode": "71.05.090",
+    "name": "Aergale",
+    "alias": "Aergale"
+  },
+  {
+    "code": "71.05.090.006",
+    "villageCode": "006",
+    "districtCode": "71.05.090",
+    "name": "Ongkaw Ii",
+    "alias": "Ongkaw Ii"
+  },
+  {
+    "code": "71.05.090.007",
+    "villageCode": "007",
+    "districtCode": "71.05.090",
+    "name": "Ongkaw I",
+    "alias": "Ongkaw I"
+  },
+  {
+    "code": "71.05.090.008",
+    "villageCode": "008",
+    "districtCode": "71.05.090",
+    "name": "Tiniawangko",
+    "alias": "Tiniawangko"
+  },
+  {
+    "code": "71.05.090.009",
+    "villageCode": "009",
+    "districtCode": "71.05.090",
+    "name": "Boyong Pante",
+    "alias": "Boyong Pante"
+  },
+  {
+    "code": "71.05.090.010",
+    "villageCode": "010",
+    "districtCode": "71.05.090",
+    "name": "Blongko",
+    "alias": "Blongko"
+  },
+  {
+    "code": "71.05.090.011",
+    "villageCode": "011",
+    "districtCode": "71.05.090",
+    "name": "Tanamon Utara",
+    "alias": "Tanamon Utara"
+  },
+  {
+    "code": "71.05.090.012",
+    "villageCode": "012",
+    "districtCode": "71.05.090",
+    "name": "Ongkaw Tiga",
+    "alias": "Ongkaw Tiga"
+  },
+  {
+    "code": "71.05.090.013",
+    "villageCode": "013",
+    "districtCode": "71.05.090",
+    "name": "Boyong Pante Dua",
+    "alias": "Boyong Pante Dua"
+  }
+]

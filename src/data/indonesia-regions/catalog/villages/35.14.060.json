@@ -1,0 +1,121 @@
+[
+  {
+    "code": "35.14.060.001",
+    "villageCode": "001",
+    "districtCode": "35.14.060",
+    "name": "Tempuran",
+    "alias": "Tempuran"
+  },
+  {
+    "code": "35.14.060.002",
+    "villageCode": "002",
+    "districtCode": "35.14.060",
+    "name": "Ampelsari",
+    "alias": "Ampelsari"
+  },
+  {
+    "code": "35.14.060.003",
+    "villageCode": "003",
+    "districtCode": "35.14.060",
+    "name": "Sapulante",
+    "alias": "Sapulante"
+  },
+  {
+    "code": "35.14.060.004",
+    "villageCode": "004",
+    "districtCode": "35.14.060",
+    "name": "Pohgedang",
+    "alias": "Pohgedang"
+  },
+  {
+    "code": "35.14.060.005",
+    "villageCode": "005",
+    "districtCode": "35.14.060",
+    "name": "Mangguan",
+    "alias": "Mangguan"
+  },
+  {
+    "code": "35.14.060.006",
+    "villageCode": "006",
+    "districtCode": "35.14.060",
+    "name": "Ngantungan",
+    "alias": "Ngantungan"
+  },
+  {
+    "code": "35.14.060.007",
+    "villageCode": "007",
+    "districtCode": "35.14.060",
+    "name": "Galih",
+    "alias": "Galih"
+  },
+  {
+    "code": "35.14.060.008",
+    "villageCode": "008",
+    "districtCode": "35.14.060",
+    "name": "Petung",
+    "alias": "Petung"
+  },
+  {
+    "code": "35.14.060.009",
+    "villageCode": "009",
+    "districtCode": "35.14.060",
+    "name": "Klakah",
+    "alias": "Klakah"
+  },
+  {
+    "code": "35.14.060.010",
+    "villageCode": "010",
+    "districtCode": "35.14.060",
+    "name": "Sibon",
+    "alias": "Sibon"
+  },
+  {
+    "code": "35.14.060.011",
+    "villageCode": "011",
+    "districtCode": "35.14.060",
+    "name": "Pasrepan",
+    "alias": "Pasrepan"
+  },
+  {
+    "code": "35.14.060.012",
+    "villageCode": "012",
+    "districtCode": "35.14.060",
+    "name": "Rejosalam",
+    "alias": "Rejosalam"
+  },
+  {
+    "code": "35.14.060.013",
+    "villageCode": "013",
+    "districtCode": "35.14.060",
+    "name": "Cengkrong",
+    "alias": "Cengkrong"
+  },
+  {
+    "code": "35.14.060.014",
+    "villageCode": "014",
+    "districtCode": "35.14.060",
+    "name": "Lemahbang",
+    "alias": "Lemahbang"
+  },
+  {
+    "code": "35.14.060.015",
+    "villageCode": "015",
+    "districtCode": "35.14.060",
+    "name": "Tambakrejo",
+    "alias": "Tambakrejo"
+  },
+  {
+    "code": "35.14.060.016",
+    "villageCode": "016",
+    "districtCode": "35.14.060",
+    "name": "Jogorepuh",
+    "alias": "Jogorepuh"
+  },
+  {
+    "code": "35.14.060.017",
+    "villageCode": "017",
+    "districtCode": "35.14.060",
+    "name": "Pohgading",
+    "alias": "Pohgading"
+  }
+]

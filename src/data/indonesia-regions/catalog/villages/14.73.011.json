@@ -1,0 +1,30 @@
+[
+  {
+    "code": "14.73.011.001",
+    "villageCode": "001",
+    "districtCode": "14.73.011",
+    "name": "Pelintung",
+    "alias": "Pelintung"
+  },
+  {
+    "code": "14.73.011.002",
+    "villageCode": "002",
+    "districtCode": "14.73.011",
+    "name": "Guntung",
+    "alias": "Guntung"
+  },
+  {
+    "code": "14.73.011.003",
+    "villageCode": "003",
+    "districtCode": "14.73.011",
+    "name": "Teluk Makmur",
+    "alias": "Teluk Makmur"
+  },
+  {
+    "code": "14.73.011.004",
+    "villageCode": "004",
+    "districtCode": "14.73.011",
+    "name": "Mundam",
+    "alias": "Mundam"
+  }
+]

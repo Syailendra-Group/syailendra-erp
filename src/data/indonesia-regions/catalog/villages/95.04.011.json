@@ -1,0 +1,72 @@
+[
+  {
+    "code": "95.04.011.001",
+    "villageCode": "001",
+    "districtCode": "95.04.011",
+    "name": "Kawem",
+    "alias": "Kawem"
+  },
+  {
+    "code": "95.04.011.002",
+    "villageCode": "002",
+    "districtCode": "95.04.011",
+    "name": "Airo Sapem",
+    "alias": "Airo Sapem"
+  },
+  {
+    "code": "95.04.011.003",
+    "villageCode": "003",
+    "districtCode": "95.04.011",
+    "name": "Kaipom",
+    "alias": "Kaipom"
+  },
+  {
+    "code": "95.04.011.004",
+    "villageCode": "004",
+    "districtCode": "95.04.011",
+    "name": "Hahare",
+    "alias": "Hahare"
+  },
+  {
+    "code": "95.04.011.005",
+    "villageCode": "005",
+    "districtCode": "95.04.011",
+    "name": "Aikut",
+    "alias": "Aikut"
+  },
+  {
+    "code": "95.04.011.006",
+    "villageCode": "006",
+    "districtCode": "95.04.011",
+    "name": "Senepit",
+    "alias": "Senepit"
+  },
+  {
+    "code": "95.04.011.007",
+    "villageCode": "007",
+    "districtCode": "95.04.011",
+    "name": "Sanem",
+    "alias": "Sanem"
+  },
+  {
+    "code": "95.04.011.008",
+    "villageCode": "008",
+    "districtCode": "95.04.011",
+    "name": "Sasime",
+    "alias": "Sasime"
+  },
+  {
+    "code": "95.04.011.009",
+    "villageCode": "009",
+    "districtCode": "95.04.011",
+    "name": "Wagasu",
+    "alias": "Wagasu"
+  },
+  {
+    "code": "95.04.011.010",
+    "villageCode": "010",
+    "districtCode": "95.04.011",
+    "name": "Heiyaram",
+    "alias": "Heiyaram"
+  }
+]

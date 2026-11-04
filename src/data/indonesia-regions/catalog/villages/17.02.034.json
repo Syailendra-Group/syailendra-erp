@@ -1,0 +1,44 @@
+[
+  {
+    "code": "17.02.034.001",
+    "villageCode": "001",
+    "districtCode": "17.02.034",
+    "name": "Iv Suku Menanti",
+    "alias": "Iv Suku Menanti"
+  },
+  {
+    "code": "17.02.034.002",
+    "villageCode": "002",
+    "districtCode": "17.02.034",
+    "name": "Bengko",
+    "alias": "Bengko"
+  },
+  {
+    "code": "17.02.034.003",
+    "villageCode": "003",
+    "districtCode": "17.02.034",
+    "name": "Sinar Gunung",
+    "alias": "Sinar Gunung"
+  },
+  {
+    "code": "17.02.034.004",
+    "villageCode": "004",
+    "districtCode": "17.02.034",
+    "name": "Air Rusa",
+    "alias": "Air Rusa"
+  },
+  {
+    "code": "17.02.034.005",
+    "villageCode": "005",
+    "districtCode": "17.02.034",
+    "name": "Talang Belitar",
+    "alias": "Talang Belitar"
+  },
+  {
+    "code": "17.02.034.006",
+    "villageCode": "006",
+    "districtCode": "17.02.034",
+    "name": "Warung Pojok",
+    "alias": "Warung Pojok"
+  }
+]

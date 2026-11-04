@@ -1,0 +1,93 @@
+[
+  {
+    "code": "72.06.010.001",
+    "villageCode": "001",
+    "districtCode": "72.06.010",
+    "name": "Kombo",
+    "alias": "Kombo"
+  },
+  {
+    "code": "72.06.010.002",
+    "villageCode": "002",
+    "districtCode": "72.06.010",
+    "name": "Tampiala",
+    "alias": "Tampiala"
+  },
+  {
+    "code": "72.06.010.003",
+    "villageCode": "003",
+    "districtCode": "72.06.010",
+    "name": "Soni",
+    "alias": "Soni"
+  },
+  {
+    "code": "72.06.010.004",
+    "villageCode": "004",
+    "districtCode": "72.06.010",
+    "name": "Bangkir",
+    "alias": "Bangkir"
+  },
+  {
+    "code": "72.06.010.005",
+    "villageCode": "005",
+    "districtCode": "72.06.010",
+    "name": "Dongko",
+    "alias": "Dongko"
+  },
+  {
+    "code": "72.06.010.006",
+    "villageCode": "006",
+    "districtCode": "72.06.010",
+    "name": "Mimbala",
+    "alias": "Mimbala"
+  },
+  {
+    "code": "72.06.010.007",
+    "villageCode": "007",
+    "districtCode": "72.06.010",
+    "name": "Abbajareng",
+    "alias": "Abbajareng"
+  },
+  {
+    "code": "72.06.010.008",
+    "villageCode": "008",
+    "districtCode": "72.06.010",
+    "name": "Paddumpu",
+    "alias": "Paddumpu"
+  },
+  {
+    "code": "72.06.010.009",
+    "villageCode": "009",
+    "districtCode": "72.06.010",
+    "name": "Lempe",
+    "alias": "Lempe"
+  },
+  {
+    "code": "72.06.010.010",
+    "villageCode": "010",
+    "districtCode": "72.06.010",
+    "name": "Puse",
+    "alias": "Puse"
+  },
+  {
+    "code": "72.06.010.011",
+    "villageCode": "011",
+    "districtCode": "72.06.010",
+    "name": "Pallakawe",
+    "alias": "Pallakawe"
+  },
+  {
+    "code": "72.06.010.012",
+    "villageCode": "012",
+    "districtCode": "72.06.010",
+    "name": "Simuntu",
+    "alias": "Simuntu"
+  },
+  {
+    "code": "72.06.010.013",
+    "villageCode": "013",
+    "districtCode": "72.06.010",
+    "name": "Lemba Harapan",
+    "alias": "Lemba Harapan"
+  }
+]

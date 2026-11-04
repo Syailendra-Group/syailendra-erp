@@ -1,0 +1,79 @@
+[
+  {
+    "code": "35.73.030.001",
+    "villageCode": "001",
+    "districtCode": "35.73.030",
+    "name": "Kasin",
+    "alias": "Kasin"
+  },
+  {
+    "code": "35.73.030.002",
+    "villageCode": "002",
+    "districtCode": "35.73.030",
+    "name": "Sukoharjo",
+    "alias": "Sukoharjo"
+  },
+  {
+    "code": "35.73.030.003",
+    "villageCode": "003",
+    "districtCode": "35.73.030",
+    "name": "Kidul Dalem",
+    "alias": "Kidul Dalem"
+  },
+  {
+    "code": "35.73.030.004",
+    "villageCode": "004",
+    "districtCode": "35.73.030",
+    "name": "Kauman",
+    "alias": "Kauman"
+  },
+  {
+    "code": "35.73.030.005",
+    "villageCode": "005",
+    "districtCode": "35.73.030",
+    "name": "Bareng",
+    "alias": "Bareng"
+  },
+  {
+    "code": "35.73.030.006",
+    "villageCode": "006",
+    "districtCode": "35.73.030",
+    "name": "Gadingkasri",
+    "alias": "Gadingkasri"
+  },
+  {
+    "code": "35.73.030.007",
+    "villageCode": "007",
+    "districtCode": "35.73.030",
+    "name": "Oro Oro Dowo",
+    "alias": "Oro Oro Dowo"
+  },
+  {
+    "code": "35.73.030.008",
+    "villageCode": "008",
+    "districtCode": "35.73.030",
+    "name": "Klojen",
+    "alias": "Klojen"
+  },
+  {
+    "code": "35.73.030.009",
+    "villageCode": "009",
+    "districtCode": "35.73.030",
+    "name": "Rampal Celaket",
+    "alias": "Rampal Celaket"
+  },
+  {
+    "code": "35.73.030.010",
+    "villageCode": "010",
+    "districtCode": "35.73.030",
+    "name": "Samaan",
+    "alias": "Samaan"
+  },
+  {
+    "code": "35.73.030.011",
+    "villageCode": "011",
+    "districtCode": "35.73.030",
+    "name": "Penanggungan",
+    "alias": "Penanggungan"
+  }
+]

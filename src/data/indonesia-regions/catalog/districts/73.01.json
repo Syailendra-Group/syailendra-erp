@@ -1,0 +1,90 @@
+[
+  {
+    "code": "73.01.010",
+    "districtCode": "010",
+    "regencyCode": "73.01",
+    "provinceCode": "73",
+    "name": "Kecamatan Pasimarannu",
+    "alias": "Pasimarannu"
+  },
+  {
+    "code": "73.01.011",
+    "districtCode": "011",
+    "regencyCode": "73.01",
+    "provinceCode": "73",
+    "name": "Kecamatan Pasilambena",
+    "alias": "Pasilambena"
+  },
+  {
+    "code": "73.01.020",
+    "districtCode": "020",
+    "regencyCode": "73.01",
+    "provinceCode": "73",
+    "name": "Kecamatan Pasimassunggu",
+    "alias": "Pasimassunggu"
+  },
+  {
+    "code": "73.01.021",
+    "districtCode": "021",
+    "regencyCode": "73.01",
+    "provinceCode": "73",
+    "name": "Kecamatan Takabonerate",
+    "alias": "Takabonerate"
+  },
+  {
+    "code": "73.01.022",
+    "districtCode": "022",
+    "regencyCode": "73.01",
+    "provinceCode": "73",
+    "name": "Kecamatan Pasimassunggu Timur",
+    "alias": "Pasimassunggu Timur"
+  },
+  {
+    "code": "73.01.030",
+    "districtCode": "030",
+    "regencyCode": "73.01",
+    "provinceCode": "73",
+    "name": "Kecamatan Bontosikuyu",
+    "alias": "Bontosikuyu"
+  },
+  {
+    "code": "73.01.040",
+    "districtCode": "040",
+    "regencyCode": "73.01",
+    "provinceCode": "73",
+    "name": "Kecamatan Bontoharu",
+    "alias": "Bontoharu"
+  },
+  {
+    "code": "73.01.041",
+    "districtCode": "041",
+    "regencyCode": "73.01",
+    "provinceCode": "73",
+    "name": "Kecamatan Benteng",
+    "alias": "Benteng"
+  },
+  {
+    "code": "73.01.042",
+    "districtCode": "042",
+    "regencyCode": "73.01",
+    "provinceCode": "73",
+    "name": "Kecamatan Bontomanai",
+    "alias": "Bontomanai"
+  },
+  {
+    "code": "73.01.050",
+    "districtCode": "050",
+    "regencyCode": "73.01",
+    "provinceCode": "73",
+    "name": "Kecamatan Bontomatene",
+    "alias": "Bontomatene"
+  },
+  {
+    "code": "73.01.051",
+    "districtCode": "051",
+    "regencyCode": "73.01",
+    "provinceCode": "73",
+    "name": "Kecamatan Buki",
+    "alias": "Buki"
+  }
+]

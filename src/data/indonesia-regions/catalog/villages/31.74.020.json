@@ -1,0 +1,51 @@
+[
+  {
+    "code": "31.74.020.001",
+    "villageCode": "001",
+    "districtCode": "31.74.020",
+    "name": "Sukabumi Selatan",
+    "alias": "Sukabumi Selatan"
+  },
+  {
+    "code": "31.74.020.002",
+    "villageCode": "002",
+    "districtCode": "31.74.020",
+    "name": "Sukabumi Utara",
+    "alias": "Sukabumi Utara"
+  },
+  {
+    "code": "31.74.020.003",
+    "villageCode": "003",
+    "districtCode": "31.74.020",
+    "name": "Kelapa Dua",
+    "alias": "Kelapa Dua"
+  },
+  {
+    "code": "31.74.020.004",
+    "villageCode": "004",
+    "districtCode": "31.74.020",
+    "name": "Kebon Jeruk",
+    "alias": "Kebon Jeruk"
+  },
+  {
+    "code": "31.74.020.005",
+    "villageCode": "005",
+    "districtCode": "31.74.020",
+    "name": "Duri Kepa",
+    "alias": "Duri Kepa"
+  },
+  {
+    "code": "31.74.020.006",
+    "villageCode": "006",
+    "districtCode": "31.74.020",
+    "name": "Kedoya Selatan",
+    "alias": "Kedoya Selatan"
+  },
+  {
+    "code": "31.74.020.007",
+    "villageCode": "007",
+    "districtCode": "31.74.020",
+    "name": "Kedoya Utara",
+    "alias": "Kedoya Utara"
+  }
+]

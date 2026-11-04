@@ -1,0 +1,65 @@
+[
+  {
+    "code": "18.71.071.001",
+    "villageCode": "001",
+    "districtCode": "18.71.071",
+    "name": "Sumber Agung",
+    "alias": "Sumber Agung"
+  },
+  {
+    "code": "18.71.071.002",
+    "villageCode": "002",
+    "districtCode": "18.71.071",
+    "name": "Kedaung",
+    "alias": "Kedaung"
+  },
+  {
+    "code": "18.71.071.003",
+    "villageCode": "003",
+    "districtCode": "18.71.071",
+    "name": "Pinang Jaya",
+    "alias": "Pinang Jaya"
+  },
+  {
+    "code": "18.71.071.004",
+    "villageCode": "004",
+    "districtCode": "18.71.071",
+    "name": "Beringin Raya",
+    "alias": "Beringin Raya"
+  },
+  {
+    "code": "18.71.071.005",
+    "villageCode": "005",
+    "districtCode": "18.71.071",
+    "name": "Sumber Rejo",
+    "alias": "Sumber Rejo"
+  },
+  {
+    "code": "18.71.071.006",
+    "villageCode": "006",
+    "districtCode": "18.71.071",
+    "name": "Kemiling Permai",
+    "alias": "Kemiling Permai"
+  },
+  {
+    "code": "18.71.071.008",
+    "villageCode": "008",
+    "districtCode": "18.71.071",
+    "name": "Sumberrejo Sejahtera",
+    "alias": "Sumberrejo Sejahtera"
+  },
+  {
+    "code": "18.71.071.009",
+    "villageCode": "009",
+    "districtCode": "18.71.071",
+    "name": "Beringin Jaya",
+    "alias": "Beringin Jaya"
+  },
+  {
+    "code": "18.71.071.010",
+    "villageCode": "010",
+    "districtCode": "18.71.071",
+    "name": "Kemiling Raya",
+    "alias": "Kemiling Raya"
+  }
+]

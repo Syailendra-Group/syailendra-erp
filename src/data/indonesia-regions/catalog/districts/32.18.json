@@ -1,0 +1,82 @@
+[
+  {
+    "code": "32.18.010",
+    "districtCode": "010",
+    "regencyCode": "32.18",
+    "provinceCode": "32",
+    "name": "Kecamatan Cimerak",
+    "alias": "Cimerak"
+  },
+  {
+    "code": "32.18.020",
+    "districtCode": "020",
+    "regencyCode": "32.18",
+    "provinceCode": "32",
+    "name": "Kecamatan Cijulang",
+    "alias": "Cijulang"
+  },
+  {
+    "code": "32.18.030",
+    "districtCode": "030",
+    "regencyCode": "32.18",
+    "provinceCode": "32",
+    "name": "Kecamatan Cigugur",
+    "alias": "Cigugur"
+  },
+  {
+    "code": "32.18.040",
+    "districtCode": "040",
+    "regencyCode": "32.18",
+    "provinceCode": "32",
+    "name": "Kecamatan Langkaplancar",
+    "alias": "Langkaplancar"
+  },
+  {
+    "code": "32.18.050",
+    "districtCode": "050",
+    "regencyCode": "32.18",
+    "provinceCode": "32",
+    "name": "Kecamatan Parigi",
+    "alias": "Parigi"
+  },
+  {
+    "code": "32.18.060",
+    "districtCode": "060",
+    "regencyCode": "32.18",
+    "provinceCode": "32",
+    "name": "Kecamatan Sidamulih",
+    "alias": "Sidamulih"
+  },
+  {
+    "code": "32.18.070",
+    "districtCode": "070",
+    "regencyCode": "32.18",
+    "provinceCode": "32",
+    "name": "Kecamatan Pangandaran",
+    "alias": "Pangandaran"
+  },
+  {
+    "code": "32.18.080",
+    "districtCode": "080",
+    "regencyCode": "32.18",
+    "provinceCode": "32",
+    "name": "Kecamatan Kalipucang",
+    "alias": "Kalipucang"
+  },
+  {
+    "code": "32.18.090",
+    "districtCode": "090",
+    "regencyCode": "32.18",
+    "provinceCode": "32",
+    "name": "Kecamatan Padaherang",
+    "alias": "Padaherang"
+  },
+  {
+    "code": "32.18.100",
+    "districtCode": "100",
+    "regencyCode": "32.18",
+    "provinceCode": "32",
+    "name": "Kecamatan Mangunjaya",
+    "alias": "Mangunjaya"
+  }
+]

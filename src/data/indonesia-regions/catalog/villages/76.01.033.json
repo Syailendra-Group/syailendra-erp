@@ -1,0 +1,51 @@
+[
+  {
+    "code": "76.01.033.002",
+    "villageCode": "002",
+    "districtCode": "76.01.033",
+    "name": "Onang",
+    "alias": "Onang"
+  },
+  {
+    "code": "76.01.033.003",
+    "villageCode": "003",
+    "districtCode": "76.01.033",
+    "name": "Onang Utara",
+    "alias": "Onang Utara"
+  },
+  {
+    "code": "76.01.033.004",
+    "villageCode": "004",
+    "districtCode": "76.01.033",
+    "name": "Tubo Selatan",
+    "alias": "Tubo Selatan"
+  },
+  {
+    "code": "76.01.033.005",
+    "villageCode": "005",
+    "districtCode": "76.01.033",
+    "name": "Tubo",
+    "alias": "Tubo"
+  },
+  {
+    "code": "76.01.033.006",
+    "villageCode": "006",
+    "districtCode": "76.01.033",
+    "name": "Bonde-Bonde",
+    "alias": "Bonde-Bonde"
+  },
+  {
+    "code": "76.01.033.007",
+    "villageCode": "007",
+    "districtCode": "76.01.033",
+    "name": "Tubo Tengah",
+    "alias": "Tubo Tengah"
+  },
+  {
+    "code": "76.01.033.008",
+    "villageCode": "008",
+    "districtCode": "76.01.033",
+    "name": "Tubo Poang",
+    "alias": "Tubo Poang"
+  }
+]

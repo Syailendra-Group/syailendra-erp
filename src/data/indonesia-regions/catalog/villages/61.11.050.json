@@ -1,0 +1,44 @@
+[
+  {
+    "code": "61.11.050.001",
+    "villageCode": "001",
+    "districtCode": "61.11.050",
+    "name": "Podo Rukun",
+    "alias": "Podo Rukun"
+  },
+  {
+    "code": "61.11.050.002",
+    "villageCode": "002",
+    "districtCode": "61.11.050",
+    "name": "Wonorejo",
+    "alias": "Wonorejo"
+  },
+  {
+    "code": "61.11.050.003",
+    "villageCode": "003",
+    "districtCode": "61.11.050",
+    "name": "Seponti Jaya",
+    "alias": "Seponti Jaya"
+  },
+  {
+    "code": "61.11.050.004",
+    "villageCode": "004",
+    "districtCode": "61.11.050",
+    "name": "Telaga Arum",
+    "alias": "Telaga Arum"
+  },
+  {
+    "code": "61.11.050.005",
+    "villageCode": "005",
+    "districtCode": "61.11.050",
+    "name": "Sungai Sepeti",
+    "alias": "Sungai Sepeti"
+  },
+  {
+    "code": "61.11.050.006",
+    "villageCode": "006",
+    "districtCode": "61.11.050",
+    "name": "Durian Sebatang",
+    "alias": "Durian Sebatang"
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "code": "32.03.050.001",
+    "villageCode": "001",
+    "districtCode": "32.03.050",
+    "name": "Panyindangan",
+    "alias": "Panyindangan"
+  },
+  {
+    "code": "32.03.050.002",
+    "villageCode": "002",
+    "districtCode": "32.03.050",
+    "name": "Wargaluyu",
+    "alias": "Wargaluyu"
+  },
+  {
+    "code": "32.03.050.003",
+    "villageCode": "003",
+    "districtCode": "32.03.050",
+    "name": "Hamerang",
+    "alias": "Hamerang"
+  },
+  {
+    "code": "32.03.050.004",
+    "villageCode": "004",
+    "districtCode": "32.03.050",
+    "name": "Pananggapan",
+    "alias": "Pananggapan"
+  },
+  {
+    "code": "32.03.050.005",
+    "villageCode": "005",
+    "districtCode": "32.03.050",
+    "name": "Girijaya",
+    "alias": "Girijaya"
+  },
+  {
+    "code": "32.03.050.006",
+    "villageCode": "006",
+    "districtCode": "32.03.050",
+    "name": "Sukajadi",
+    "alias": "Sukajadi"
+  },
+  {
+    "code": "32.03.050.007",
+    "villageCode": "007",
+    "districtCode": "32.03.050",
+    "name": "Sukamekar",
+    "alias": "Sukamekar"
+  },
+  {
+    "code": "32.03.050.008",
+    "villageCode": "008",
+    "districtCode": "32.03.050",
+    "name": "Batulawang",
+    "alias": "Batulawang"
+  },
+  {
+    "code": "32.03.050.009",
+    "villageCode": "009",
+    "districtCode": "32.03.050",
+    "name": "Cikangkareng",
+    "alias": "Cikangkareng"
+  },
+  {
+    "code": "32.03.050.015",
+    "villageCode": "015",
+    "districtCode": "32.03.050",
+    "name": "Pamoyanan",
+    "alias": "Pamoyanan"
+  },
+  {
+    "code": "32.03.050.016",
+    "villageCode": "016",
+    "districtCode": "32.03.050",
+    "name": "Cimaskara",
+    "alias": "Cimaskara"
+  },
+  {
+    "code": "32.03.050.020",
+    "villageCode": "020",
+    "districtCode": "32.03.050",
+    "name": "Padasuka",
+    "alias": "Padasuka"
+  },
+  {
+    "code": "32.03.050.021",
+    "villageCode": "021",
+    "districtCode": "32.03.050",
+    "name": "Mekarmukti",
+    "alias": "Mekarmukti"
+  },
+  {
+    "code": "32.03.050.022",
+    "villageCode": "022",
+    "districtCode": "32.03.050",
+    "name": "Ciburial",
+    "alias": "Ciburial"
+  }
+]

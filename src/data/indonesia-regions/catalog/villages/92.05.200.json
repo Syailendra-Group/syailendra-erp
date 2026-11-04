@@ -1,0 +1,51 @@
+[
+  {
+    "code": "92.05.200.001",
+    "villageCode": "001",
+    "districtCode": "92.05.200",
+    "name": "Serayo",
+    "alias": "Serayo"
+  },
+  {
+    "code": "92.05.200.002",
+    "villageCode": "002",
+    "districtCode": "92.05.200",
+    "name": "Wekari",
+    "alias": "Wekari"
+  },
+  {
+    "code": "92.05.200.003",
+    "villageCode": "003",
+    "districtCode": "92.05.200",
+    "name": "Araro",
+    "alias": "Araro"
+  },
+  {
+    "code": "92.05.200.004",
+    "villageCode": "004",
+    "districtCode": "92.05.200",
+    "name": "Wajarek",
+    "alias": "Wajarek"
+  },
+  {
+    "code": "92.05.200.005",
+    "villageCode": "005",
+    "districtCode": "92.05.200",
+    "name": "Kali An",
+    "alias": "Kali An"
+  },
+  {
+    "code": "92.05.200.006",
+    "villageCode": "006",
+    "districtCode": "92.05.200",
+    "name": "Mangganek",
+    "alias": "Mangganek"
+  },
+  {
+    "code": "92.05.200.007",
+    "villageCode": "007",
+    "districtCode": "92.05.200",
+    "name": "Arupi",
+    "alias": "Arupi"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "code": "33.13.060.001",
+    "villageCode": "001",
+    "districtCode": "33.13.060",
+    "name": "Bandardawung",
+    "alias": "Bandardawung"
+  },
+  {
+    "code": "33.13.060.002",
+    "villageCode": "002",
+    "districtCode": "33.13.060",
+    "name": "Sepanjang",
+    "alias": "Sepanjang"
+  },
+  {
+    "code": "33.13.060.003",
+    "villageCode": "003",
+    "districtCode": "33.13.060",
+    "name": "Tawangmangu",
+    "alias": "Tawangmangu"
+  },
+  {
+    "code": "33.13.060.004",
+    "villageCode": "004",
+    "districtCode": "33.13.060",
+    "name": "Kalisoro",
+    "alias": "Kalisoro"
+  },
+  {
+    "code": "33.13.060.005",
+    "villageCode": "005",
+    "districtCode": "33.13.060",
+    "name": "Blumbang",
+    "alias": "Blumbang"
+  },
+  {
+    "code": "33.13.060.006",
+    "villageCode": "006",
+    "districtCode": "33.13.060",
+    "name": "Gondosuli",
+    "alias": "Gondosuli"
+  },
+  {
+    "code": "33.13.060.007",
+    "villageCode": "007",
+    "districtCode": "33.13.060",
+    "name": "Tengklik",
+    "alias": "Tengklik"
+  },
+  {
+    "code": "33.13.060.008",
+    "villageCode": "008",
+    "districtCode": "33.13.060",
+    "name": "Nglebak",
+    "alias": "Nglebak"
+  },
+  {
+    "code": "33.13.060.009",
+    "villageCode": "009",
+    "districtCode": "33.13.060",
+    "name": "Karanglo",
+    "alias": "Karanglo"
+  },
+  {
+    "code": "33.13.060.010",
+    "villageCode": "010",
+    "districtCode": "33.13.060",
+    "name": "Plumbon",
+    "alias": "Plumbon"
+  }
+]

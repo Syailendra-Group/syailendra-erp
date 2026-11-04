@@ -1,0 +1,51 @@
+[
+  {
+    "code": "18.06.052.001",
+    "villageCode": "001",
+    "districtCode": "18.06.052",
+    "name": "Jagang",
+    "alias": "Jagang"
+  },
+  {
+    "code": "18.06.052.002",
+    "villageCode": "002",
+    "districtCode": "18.06.052",
+    "name": "Tanjung Iman",
+    "alias": "Tanjung Iman"
+  },
+  {
+    "code": "18.06.052.003",
+    "villageCode": "003",
+    "districtCode": "18.06.052",
+    "name": "Blambangan",
+    "alias": "Blambangan"
+  },
+  {
+    "code": "18.06.052.004",
+    "villageCode": "004",
+    "districtCode": "18.06.052",
+    "name": "Pagar Gading",
+    "alias": "Pagar Gading"
+  },
+  {
+    "code": "18.06.052.005",
+    "villageCode": "005",
+    "districtCode": "18.06.052",
+    "name": "Tulung Singkip",
+    "alias": "Tulung Singkip"
+  },
+  {
+    "code": "18.06.052.006",
+    "villageCode": "006",
+    "districtCode": "18.06.052",
+    "name": "Pagar",
+    "alias": "Pagar"
+  },
+  {
+    "code": "18.06.052.007",
+    "villageCode": "007",
+    "districtCode": "18.06.052",
+    "name": "Buring Kencana",
+    "alias": "Buring Kencana"
+  }
+]

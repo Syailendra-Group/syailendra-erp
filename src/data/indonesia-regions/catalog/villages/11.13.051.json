@@ -1,0 +1,72 @@
+[
+  {
+    "code": "11.13.051.001",
+    "villageCode": "001",
+    "districtCode": "11.13.051",
+    "name": "Pasir",
+    "alias": "Pasir"
+  },
+  {
+    "code": "11.13.051.002",
+    "villageCode": "002",
+    "districtCode": "11.13.051",
+    "name": "Rerebe",
+    "alias": "Rerebe"
+  },
+  {
+    "code": "11.13.051.003",
+    "villageCode": "003",
+    "districtCode": "11.13.051",
+    "name": "Setul",
+    "alias": "Setul"
+  },
+  {
+    "code": "11.13.051.004",
+    "villageCode": "004",
+    "districtCode": "11.13.051",
+    "name": "Perlak",
+    "alias": "Perlak"
+  },
+  {
+    "code": "11.13.051.005",
+    "villageCode": "005",
+    "districtCode": "11.13.051",
+    "name": "Pantan Kela",
+    "alias": "Pantan Kela"
+  },
+  {
+    "code": "11.13.051.006",
+    "villageCode": "006",
+    "districtCode": "11.13.051",
+    "name": "Paya Kumer",
+    "alias": "Paya Kumer"
+  },
+  {
+    "code": "11.13.051.007",
+    "villageCode": "007",
+    "districtCode": "11.13.051",
+    "name": "Uyem Beriring",
+    "alias": "Uyem Beriring"
+  },
+  {
+    "code": "11.13.051.008",
+    "villageCode": "008",
+    "districtCode": "11.13.051",
+    "name": "Pulo Gelime",
+    "alias": "Pulo Gelime"
+  },
+  {
+    "code": "11.13.051.009",
+    "villageCode": "009",
+    "districtCode": "11.13.051",
+    "name": "Buntul Musara",
+    "alias": "Buntul Musara"
+  },
+  {
+    "code": "11.13.051.010",
+    "villageCode": "010",
+    "districtCode": "11.13.051",
+    "name": "Kuala Jernih",
+    "alias": "Kuala Jernih"
+  }
+]

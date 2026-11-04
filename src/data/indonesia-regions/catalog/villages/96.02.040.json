@@ -1,0 +1,72 @@
+[
+  {
+    "code": "96.02.040.001",
+    "villageCode": "001",
+    "districtCode": "96.02.040",
+    "name": "Megaikebo",
+    "alias": "Megaikebo"
+  },
+  {
+    "code": "96.02.040.002",
+    "villageCode": "002",
+    "districtCode": "96.02.040",
+    "name": "Diyeugi",
+    "alias": "Diyeugi"
+  },
+  {
+    "code": "96.02.040.003",
+    "villageCode": "003",
+    "districtCode": "96.02.040",
+    "name": "Timepa",
+    "alias": "Timepa"
+  },
+  {
+    "code": "96.02.040.004",
+    "villageCode": "004",
+    "districtCode": "96.02.040",
+    "name": "Modio",
+    "alias": "Modio"
+  },
+  {
+    "code": "96.02.040.005",
+    "villageCode": "005",
+    "districtCode": "96.02.040",
+    "name": "Putapa",
+    "alias": "Putapa"
+  },
+  {
+    "code": "96.02.040.006",
+    "villageCode": "006",
+    "districtCode": "96.02.040",
+    "name": "Atou",
+    "alias": "Atou"
+  },
+  {
+    "code": "96.02.040.007",
+    "villageCode": "007",
+    "districtCode": "96.02.040",
+    "name": "Adauwo",
+    "alias": "Adauwo"
+  },
+  {
+    "code": "96.02.040.008",
+    "villageCode": "008",
+    "districtCode": "96.02.040",
+    "name": "Gabaukunu",
+    "alias": "Gabaukunu"
+  },
+  {
+    "code": "96.02.040.009",
+    "villageCode": "009",
+    "districtCode": "96.02.040",
+    "name": "Upibega",
+    "alias": "Upibega"
+  },
+  {
+    "code": "96.02.040.010",
+    "villageCode": "010",
+    "districtCode": "96.02.040",
+    "name": "Piyakunu",
+    "alias": "Piyakunu"
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "code": "15.02.030.004",
+    "villageCode": "004",
+    "districtCode": "15.02.030",
+    "name": "Rejosari",
+    "alias": "Rejosari"
+  },
+  {
+    "code": "15.02.030.005",
+    "villageCode": "005",
+    "districtCode": "15.02.030",
+    "name": "Pematang Kancil",
+    "alias": "Pematang Kancil"
+  },
+  {
+    "code": "15.02.030.006",
+    "villageCode": "006",
+    "districtCode": "15.02.030",
+    "name": "Tanah Abang",
+    "alias": "Tanah Abang"
+  },
+  {
+    "code": "15.02.030.007",
+    "villageCode": "007",
+    "districtCode": "15.02.030",
+    "name": "Empang Benao",
+    "alias": "Empang Benao"
+  },
+  {
+    "code": "15.02.030.008",
+    "villageCode": "008",
+    "districtCode": "15.02.030",
+    "name": "Tanjung Gedang",
+    "alias": "Tanjung Gedang"
+  },
+  {
+    "code": "15.02.030.009",
+    "villageCode": "009",
+    "districtCode": "15.02.030",
+    "name": "Keroya",
+    "alias": "Keroya"
+  },
+  {
+    "code": "15.02.030.010",
+    "villageCode": "010",
+    "districtCode": "15.02.030",
+    "name": "Pauh Menang",
+    "alias": "Pauh Menang"
+  },
+  {
+    "code": "15.02.030.011",
+    "villageCode": "011",
+    "districtCode": "15.02.030",
+    "name": "Pamenang",
+    "alias": "Pamenang"
+  },
+  {
+    "code": "15.02.030.017",
+    "villageCode": "017",
+    "districtCode": "15.02.030",
+    "name": "Sialang",
+    "alias": "Sialang"
+  },
+  {
+    "code": "15.02.030.018",
+    "villageCode": "018",
+    "districtCode": "15.02.030",
+    "name": "Muara Belengo",
+    "alias": "Muara Belengo"
+  },
+  {
+    "code": "15.02.030.019",
+    "villageCode": "019",
+    "districtCode": "15.02.030",
+    "name": "Jelatang",
+    "alias": "Jelatang"
+  },
+  {
+    "code": "15.02.030.020",
+    "villageCode": "020",
+    "districtCode": "15.02.030",
+    "name": "Karang Berahi",
+    "alias": "Karang Berahi"
+  },
+  {
+    "code": "15.02.030.026",
+    "villageCode": "026",
+    "districtCode": "15.02.030",
+    "name": "Sungai Udang",
+    "alias": "Sungai Udang"
+  },
+  {
+    "code": "15.02.030.027",
+    "villageCode": "027",
+    "districtCode": "15.02.030",
+    "name": "Pelakar Jaya",
+    "alias": "Pelakar Jaya"
+  }
+]

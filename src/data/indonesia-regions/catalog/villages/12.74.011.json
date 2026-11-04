@@ -1,0 +1,51 @@
+[
+  {
+    "code": "12.74.011.001",
+    "villageCode": "001",
+    "districtCode": "12.74.011",
+    "name": "Mandailing",
+    "alias": "Mandailing"
+  },
+  {
+    "code": "12.74.011.002",
+    "villageCode": "002",
+    "districtCode": "12.74.011",
+    "name": "Pasar Gambir",
+    "alias": "Pasar Gambir"
+  },
+  {
+    "code": "12.74.011.003",
+    "villageCode": "003",
+    "districtCode": "12.74.011",
+    "name": "Rambung",
+    "alias": "Rambung"
+  },
+  {
+    "code": "12.74.011.004",
+    "villageCode": "004",
+    "districtCode": "12.74.011",
+    "name": "Tebing Tinggi Lama",
+    "alias": "Tebing Tinggi Lama"
+  },
+  {
+    "code": "12.74.011.005",
+    "villageCode": "005",
+    "districtCode": "12.74.011",
+    "name": "Pasar Baru",
+    "alias": "Pasar Baru"
+  },
+  {
+    "code": "12.74.011.006",
+    "villageCode": "006",
+    "districtCode": "12.74.011",
+    "name": "Badak Bejuang",
+    "alias": "Badak Bejuang"
+  },
+  {
+    "code": "12.74.011.007",
+    "villageCode": "007",
+    "districtCode": "12.74.011",
+    "name": "Bandar Utama",
+    "alias": "Bandar Utama"
+  }
+]

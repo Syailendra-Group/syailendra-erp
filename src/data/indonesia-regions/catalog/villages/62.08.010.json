@@ -1,0 +1,72 @@
+[
+  {
+    "code": "62.08.010.001",
+    "villageCode": "001",
+    "districtCode": "62.08.010",
+    "name": "Sungai Perlu",
+    "alias": "Sungai Perlu"
+  },
+  {
+    "code": "62.08.010.002",
+    "villageCode": "002",
+    "districtCode": "62.08.010",
+    "name": "Kuala Pembuang Ii",
+    "alias": "Kuala Pembuang Ii"
+  },
+  {
+    "code": "62.08.010.005",
+    "villageCode": "005",
+    "districtCode": "62.08.010",
+    "name": "Kuala Pembuang I",
+    "alias": "Kuala Pembuang I"
+  },
+  {
+    "code": "62.08.010.006",
+    "villageCode": "006",
+    "districtCode": "62.08.010",
+    "name": "Pematang Limau",
+    "alias": "Pematang Limau"
+  },
+  {
+    "code": "62.08.010.007",
+    "villageCode": "007",
+    "districtCode": "62.08.010",
+    "name": "Tanjung Rangas",
+    "alias": "Tanjung Rangas"
+  },
+  {
+    "code": "62.08.010.008",
+    "villageCode": "008",
+    "districtCode": "62.08.010",
+    "name": "Muara Dua",
+    "alias": "Muara Dua"
+  },
+  {
+    "code": "62.08.010.009",
+    "villageCode": "009",
+    "districtCode": "62.08.010",
+    "name": "Jahitan",
+    "alias": "Jahitan"
+  },
+  {
+    "code": "62.08.010.010",
+    "villageCode": "010",
+    "districtCode": "62.08.010",
+    "name": "Baung",
+    "alias": "Baung"
+  },
+  {
+    "code": "62.08.010.016",
+    "villageCode": "016",
+    "districtCode": "62.08.010",
+    "name": "Sungai Undang",
+    "alias": "Sungai Undang"
+  },
+  {
+    "code": "62.08.010.017",
+    "villageCode": "017",
+    "districtCode": "62.08.010",
+    "name": "Persil Raya",
+    "alias": "Persil Raya"
+  }
+]

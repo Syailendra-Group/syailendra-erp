@@ -1,0 +1,30 @@
+[
+  {
+    "code": "92.01.150.001",
+    "villageCode": "001",
+    "districtCode": "92.01.150",
+    "name": "Sapordanco",
+    "alias": "Sapordanco"
+  },
+  {
+    "code": "92.01.150.002",
+    "villageCode": "002",
+    "districtCode": "92.01.150",
+    "name": "Waisai",
+    "alias": "Waisai"
+  },
+  {
+    "code": "92.01.150.003",
+    "villageCode": "003",
+    "districtCode": "92.01.150",
+    "name": "Bonkawir",
+    "alias": "Bonkawir"
+  },
+  {
+    "code": "92.01.150.004",
+    "villageCode": "004",
+    "districtCode": "92.01.150",
+    "name": "Warmasen",
+    "alias": "Warmasen"
+  }
+]

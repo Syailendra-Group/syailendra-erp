@@ -1,0 +1,37 @@
+[
+  {
+    "code": "96.08.060.001",
+    "villageCode": "001",
+    "districtCode": "96.08.060",
+    "name": "Mewut",
+    "alias": "Mewut"
+  },
+  {
+    "code": "96.08.060.002",
+    "villageCode": "002",
+    "districtCode": "96.08.060",
+    "name": "Belaba",
+    "alias": "Belaba"
+  },
+  {
+    "code": "96.08.060.003",
+    "villageCode": "003",
+    "districtCode": "96.08.060",
+    "name": "Maloinggen",
+    "alias": "Maloinggen"
+  },
+  {
+    "code": "96.08.060.004",
+    "villageCode": "004",
+    "districtCode": "96.08.060",
+    "name": "Tioleme",
+    "alias": "Tioleme"
+  },
+  {
+    "code": "96.08.060.005",
+    "villageCode": "005",
+    "districtCode": "96.08.060",
+    "name": "Wanume",
+    "alias": "Wanume"
+  }
+]

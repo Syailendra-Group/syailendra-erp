@@ -1,0 +1,65 @@
+[
+  {
+    "code": "53.05.023.001",
+    "villageCode": "001",
+    "districtCode": "53.05.023",
+    "name": "Nimasi",
+    "alias": "Nimasi"
+  },
+  {
+    "code": "53.05.023.002",
+    "villageCode": "002",
+    "districtCode": "53.05.023",
+    "name": "Kuanek",
+    "alias": "Kuanek"
+  },
+  {
+    "code": "53.05.023.003",
+    "villageCode": "003",
+    "districtCode": "53.05.023",
+    "name": "Buk",
+    "alias": "Buk"
+  },
+  {
+    "code": "53.05.023.004",
+    "villageCode": "004",
+    "districtCode": "53.05.023",
+    "name": "Oelbonak",
+    "alias": "Oelbonak"
+  },
+  {
+    "code": "53.05.023.005",
+    "villageCode": "005",
+    "districtCode": "53.05.023",
+    "name": "Oenenu",
+    "alias": "Oenenu"
+  },
+  {
+    "code": "53.05.023.006",
+    "villageCode": "006",
+    "districtCode": "53.05.023",
+    "name": "Oenino",
+    "alias": "Oenino"
+  },
+  {
+    "code": "53.05.023.007",
+    "villageCode": "007",
+    "districtCode": "53.05.023",
+    "name": "Oenenu Utara",
+    "alias": "Oenenu Utara"
+  },
+  {
+    "code": "53.05.023.008",
+    "villageCode": "008",
+    "districtCode": "53.05.023",
+    "name": "Oenenu Selatan",
+    "alias": "Oenenu Selatan"
+  },
+  {
+    "code": "53.05.023.009",
+    "villageCode": "009",
+    "districtCode": "53.05.023",
+    "name": "Sono",
+    "alias": "Sono"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "code": "53.71.040.011",
+    "villageCode": "011",
+    "districtCode": "53.71.040",
+    "name": "Kelapa Lima",
+    "alias": "Kelapa Lima"
+  },
+  {
+    "code": "53.71.040.012",
+    "villageCode": "012",
+    "districtCode": "53.71.040",
+    "name": "Oesapa",
+    "alias": "Oesapa"
+  },
+  {
+    "code": "53.71.040.013",
+    "villageCode": "013",
+    "districtCode": "53.71.040",
+    "name": "Oesapa Barat",
+    "alias": "Oesapa Barat"
+  },
+  {
+    "code": "53.71.040.014",
+    "villageCode": "014",
+    "districtCode": "53.71.040",
+    "name": "Oesapa Selatan",
+    "alias": "Oesapa Selatan"
+  },
+  {
+    "code": "53.71.040.015",
+    "villageCode": "015",
+    "districtCode": "53.71.040",
+    "name": "Lasiana",
+    "alias": "Lasiana"
+  }
+]

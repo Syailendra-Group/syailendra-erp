@@ -1,0 +1,42 @@
+[
+  {
+    "code": "18.72.011",
+    "districtCode": "011",
+    "regencyCode": "18.72",
+    "provinceCode": "18",
+    "name": "Kecamatan Metro Selatan",
+    "alias": "Metro Selatan"
+  },
+  {
+    "code": "18.72.012",
+    "districtCode": "012",
+    "regencyCode": "18.72",
+    "provinceCode": "18",
+    "name": "Kecamatan Metro Barat",
+    "alias": "Metro Barat"
+  },
+  {
+    "code": "18.72.021",
+    "districtCode": "021",
+    "regencyCode": "18.72",
+    "provinceCode": "18",
+    "name": "Kecamatan Metro Timur",
+    "alias": "Metro Timur"
+  },
+  {
+    "code": "18.72.022",
+    "districtCode": "022",
+    "regencyCode": "18.72",
+    "provinceCode": "18",
+    "name": "Kecamatan Metro Pusat",
+    "alias": "Metro Pusat"
+  },
+  {
+    "code": "18.72.023",
+    "districtCode": "023",
+    "regencyCode": "18.72",
+    "provinceCode": "18",
+    "name": "Kecamatan Metro Utara",
+    "alias": "Metro Utara"
+  }
+]

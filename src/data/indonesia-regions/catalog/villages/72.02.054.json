@@ -1,0 +1,79 @@
+[
+  {
+    "code": "72.02.054.001",
+    "villageCode": "001",
+    "districtCode": "72.02.054",
+    "name": "Nambo Padang",
+    "alias": "Nambo Padang"
+  },
+  {
+    "code": "72.02.054.002",
+    "villageCode": "002",
+    "districtCode": "72.02.054",
+    "name": "Nambo Lempek",
+    "alias": "Nambo Lempek"
+  },
+  {
+    "code": "72.02.054.003",
+    "villageCode": "003",
+    "districtCode": "72.02.054",
+    "name": "Koyoan",
+    "alias": "Koyoan"
+  },
+  {
+    "code": "72.02.054.004",
+    "villageCode": "004",
+    "districtCode": "72.02.054",
+    "name": "Nambo Bosaa",
+    "alias": "Nambo Bosaa"
+  },
+  {
+    "code": "72.02.054.005",
+    "villageCode": "005",
+    "districtCode": "72.02.054",
+    "name": "Nambo Lempek Baru",
+    "alias": "Nambo Lempek Baru"
+  },
+  {
+    "code": "72.02.054.006",
+    "villageCode": "006",
+    "districtCode": "72.02.054",
+    "name": "Koyoan Permai",
+    "alias": "Koyoan Permai"
+  },
+  {
+    "code": "72.02.054.007",
+    "villageCode": "007",
+    "districtCode": "72.02.054",
+    "name": "Lontio",
+    "alias": "Lontio"
+  },
+  {
+    "code": "72.02.054.008",
+    "villageCode": "008",
+    "districtCode": "72.02.054",
+    "name": "Lontio Baru",
+    "alias": "Lontio Baru"
+  },
+  {
+    "code": "72.02.054.009",
+    "villageCode": "009",
+    "districtCode": "72.02.054",
+    "name": "Padungnyo",
+    "alias": "Padungnyo"
+  },
+  {
+    "code": "72.02.054.010",
+    "villageCode": "010",
+    "districtCode": "72.02.054",
+    "name": "Sayambongin",
+    "alias": "Sayambongin"
+  },
+  {
+    "code": "72.02.054.011",
+    "villageCode": "011",
+    "districtCode": "72.02.054",
+    "name": "Lumbe",
+    "alias": "Lumbe"
+  }
+]

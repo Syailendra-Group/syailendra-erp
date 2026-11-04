@@ -1,0 +1,58 @@
+[
+  {
+    "code": "18.02.111.001",
+    "villageCode": "001",
+    "districtCode": "18.02.111",
+    "name": "Umbar",
+    "alias": "Umbar"
+  },
+  {
+    "code": "18.02.111.002",
+    "villageCode": "002",
+    "districtCode": "18.02.111",
+    "name": "Paku",
+    "alias": "Paku"
+  },
+  {
+    "code": "18.02.111.003",
+    "villageCode": "003",
+    "districtCode": "18.02.111",
+    "name": "Napal",
+    "alias": "Napal"
+  },
+  {
+    "code": "18.02.111.004",
+    "villageCode": "004",
+    "districtCode": "18.02.111",
+    "name": "Negeri Kelumbayan",
+    "alias": "Negeri Kelumbayan"
+  },
+  {
+    "code": "18.02.111.005",
+    "villageCode": "005",
+    "districtCode": "18.02.111",
+    "name": "Pekon Susuk",
+    "alias": "Pekon Susuk"
+  },
+  {
+    "code": "18.02.111.006",
+    "villageCode": "006",
+    "districtCode": "18.02.111",
+    "name": "Penyandingan",
+    "alias": "Penyandingan"
+  },
+  {
+    "code": "18.02.111.007",
+    "villageCode": "007",
+    "districtCode": "18.02.111",
+    "name": "Pekon Unggak",
+    "alias": "Pekon Unggak"
+  },
+  {
+    "code": "18.02.111.008",
+    "villageCode": "008",
+    "districtCode": "18.02.111",
+    "name": "Kiluan Negeri",
+    "alias": "Kiluan Negeri"
+  }
+]

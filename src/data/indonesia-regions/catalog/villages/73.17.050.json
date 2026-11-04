@@ -1,0 +1,86 @@
+[
+  {
+    "code": "73.17.050.011",
+    "villageCode": "011",
+    "districtCode": "73.17.050",
+    "name": "Bolu",
+    "alias": "Bolu"
+  },
+  {
+    "code": "73.17.050.012",
+    "villageCode": "012",
+    "districtCode": "73.17.050",
+    "name": "Lange",
+    "alias": "Lange"
+  },
+  {
+    "code": "73.17.050.013",
+    "villageCode": "013",
+    "districtCode": "73.17.050",
+    "name": "Andulan",
+    "alias": "Andulan"
+  },
+  {
+    "code": "73.17.050.014",
+    "villageCode": "014",
+    "districtCode": "73.17.050",
+    "name": "Sinaji",
+    "alias": "Sinaji"
+  },
+  {
+    "code": "73.17.050.015",
+    "villageCode": "015",
+    "districtCode": "73.17.050",
+    "name": "Kanna",
+    "alias": "Kanna"
+  },
+  {
+    "code": "73.17.050.016",
+    "villageCode": "016",
+    "districtCode": "73.17.050",
+    "name": "Ledan",
+    "alias": "Ledan"
+  },
+  {
+    "code": "73.17.050.017",
+    "villageCode": "017",
+    "districtCode": "73.17.050",
+    "name": "Lissaga",
+    "alias": "Lissaga"
+  },
+  {
+    "code": "73.17.050.018",
+    "villageCode": "018",
+    "districtCode": "73.17.050",
+    "name": "To Long",
+    "alias": "To Long"
+  },
+  {
+    "code": "73.17.050.019",
+    "villageCode": "019",
+    "districtCode": "73.17.050",
+    "name": "Tabi",
+    "alias": "Tabi"
+  },
+  {
+    "code": "73.17.050.020",
+    "villageCode": "020",
+    "districtCode": "73.17.050",
+    "name": "Kanna Utara",
+    "alias": "Kanna Utara"
+  },
+  {
+    "code": "73.17.050.021",
+    "villageCode": "021",
+    "districtCode": "73.17.050",
+    "name": "Buntu Batu",
+    "alias": "Buntu Batu"
+  },
+  {
+    "code": "73.17.050.023",
+    "villageCode": "023",
+    "districtCode": "73.17.050",
+    "name": "Mappetajang",
+    "alias": "Mappetajang"
+  }
+]

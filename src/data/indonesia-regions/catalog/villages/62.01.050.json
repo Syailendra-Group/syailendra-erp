@@ -1,0 +1,142 @@
+[
+  {
+    "code": "62.01.050.001",
+    "villageCode": "001",
+    "districtCode": "62.01.050",
+    "name": "Tanjung Putri",
+    "alias": "Tanjung Putri"
+  },
+  {
+    "code": "62.01.050.002",
+    "villageCode": "002",
+    "districtCode": "62.01.050",
+    "name": "Kumpai Batu Bawah",
+    "alias": "Kumpai Batu Bawah"
+  },
+  {
+    "code": "62.01.050.003",
+    "villageCode": "003",
+    "districtCode": "62.01.050",
+    "name": "Kumpai Batu Atas",
+    "alias": "Kumpai Batu Atas"
+  },
+  {
+    "code": "62.01.050.004",
+    "villageCode": "004",
+    "districtCode": "62.01.050",
+    "name": "Pasir Panjang",
+    "alias": "Pasir Panjang"
+  },
+  {
+    "code": "62.01.050.005",
+    "villageCode": "005",
+    "districtCode": "62.01.050",
+    "name": "Mendawai",
+    "alias": "Mendawai"
+  },
+  {
+    "code": "62.01.050.006",
+    "villageCode": "006",
+    "districtCode": "62.01.050",
+    "name": "Mendawai Seberang",
+    "alias": "Mendawai Seberang"
+  },
+  {
+    "code": "62.01.050.007",
+    "villageCode": "007",
+    "districtCode": "62.01.050",
+    "name": "Raja",
+    "alias": "Raja"
+  },
+  {
+    "code": "62.01.050.008",
+    "villageCode": "008",
+    "districtCode": "62.01.050",
+    "name": "Sidorejo",
+    "alias": "Sidorejo"
+  },
+  {
+    "code": "62.01.050.009",
+    "villageCode": "009",
+    "districtCode": "62.01.050",
+    "name": "Madurejo",
+    "alias": "Madurejo"
+  },
+  {
+    "code": "62.01.050.010",
+    "villageCode": "010",
+    "districtCode": "62.01.050",
+    "name": "Baru",
+    "alias": "Baru"
+  },
+  {
+    "code": "62.01.050.011",
+    "villageCode": "011",
+    "districtCode": "62.01.050",
+    "name": "Raja Seberang",
+    "alias": "Raja Seberang"
+  },
+  {
+    "code": "62.01.050.012",
+    "villageCode": "012",
+    "districtCode": "62.01.050",
+    "name": "Rangda",
+    "alias": "Rangda"
+  },
+  {
+    "code": "62.01.050.013",
+    "villageCode": "013",
+    "districtCode": "62.01.050",
+    "name": "Kenambui",
+    "alias": "Kenambui"
+  },
+  {
+    "code": "62.01.050.014",
+    "villageCode": "014",
+    "districtCode": "62.01.050",
+    "name": "Runtu",
+    "alias": "Runtu"
+  },
+  {
+    "code": "62.01.050.015",
+    "villageCode": "015",
+    "districtCode": "62.01.050",
+    "name": "Umpang",
+    "alias": "Umpang"
+  },
+  {
+    "code": "62.01.050.016",
+    "villageCode": "016",
+    "districtCode": "62.01.050",
+    "name": "Natai Raya",
+    "alias": "Natai Raya"
+  },
+  {
+    "code": "62.01.050.017",
+    "villageCode": "017",
+    "districtCode": "62.01.050",
+    "name": "Medangsari",
+    "alias": "Medangsari"
+  },
+  {
+    "code": "62.01.050.018",
+    "villageCode": "018",
+    "districtCode": "62.01.050",
+    "name": "Natai Baru",
+    "alias": "Natai Baru"
+  },
+  {
+    "code": "62.01.050.019",
+    "villageCode": "019",
+    "districtCode": "62.01.050",
+    "name": "Tanjung Terantang",
+    "alias": "Tanjung Terantang"
+  },
+  {
+    "code": "62.01.050.020",
+    "villageCode": "020",
+    "districtCode": "62.01.050",
+    "name": "Sulung",
+    "alias": "Sulung"
+  }
+]

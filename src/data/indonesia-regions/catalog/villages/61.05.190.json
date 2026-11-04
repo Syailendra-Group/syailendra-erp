@@ -1,0 +1,37 @@
+[
+  {
+    "code": "61.05.190.001",
+    "villageCode": "001",
+    "districtCode": "61.05.190",
+    "name": "Sungai Ilai",
+    "alias": "Sungai Ilai"
+  },
+  {
+    "code": "61.05.190.002",
+    "villageCode": "002",
+    "districtCode": "61.05.190",
+    "name": "Bereng Berkawat",
+    "alias": "Bereng Berkawat"
+  },
+  {
+    "code": "61.05.190.003",
+    "villageCode": "003",
+    "districtCode": "61.05.190",
+    "name": "Kasro Mego",
+    "alias": "Kasro Mego"
+  },
+  {
+    "code": "61.05.190.004",
+    "villageCode": "004",
+    "districtCode": "61.05.190",
+    "name": "Thang Raya",
+    "alias": "Thang Raya"
+  },
+  {
+    "code": "61.05.190.005",
+    "villageCode": "005",
+    "districtCode": "61.05.190",
+    "name": "Mawang Muda",
+    "alias": "Mawang Muda"
+  }
+]

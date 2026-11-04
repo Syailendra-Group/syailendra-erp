@@ -1,0 +1,37 @@
+[
+  {
+    "code": "14.06.081.001",
+    "villageCode": "001",
+    "districtCode": "14.06.081",
+    "name": "Pantai Raja",
+    "alias": "Pantai Raja"
+  },
+  {
+    "code": "14.06.081.002",
+    "villageCode": "002",
+    "districtCode": "14.06.081",
+    "name": "Sialang Kubang",
+    "alias": "Sialang Kubang"
+  },
+  {
+    "code": "14.06.081.003",
+    "villageCode": "003",
+    "districtCode": "14.06.081",
+    "name": "Hang Tuah",
+    "alias": "Hang Tuah"
+  },
+  {
+    "code": "14.06.081.008",
+    "villageCode": "008",
+    "districtCode": "14.06.081",
+    "name": "Kampung Pinang",
+    "alias": "Kampung Pinang"
+  },
+  {
+    "code": "14.06.081.009",
+    "villageCode": "009",
+    "districtCode": "14.06.081",
+    "name": "Lubuk Sakat",
+    "alias": "Lubuk Sakat"
+  }
+]

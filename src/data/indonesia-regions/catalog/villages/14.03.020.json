@@ -1,0 +1,100 @@
+[
+  {
+    "code": "14.03.020.001",
+    "villageCode": "001",
+    "districtCode": "14.03.020",
+    "name": "Sanglar",
+    "alias": "Sanglar"
+  },
+  {
+    "code": "14.03.020.002",
+    "villageCode": "002",
+    "districtCode": "14.03.020",
+    "name": "Pulau Kecil",
+    "alias": "Pulau Kecil"
+  },
+  {
+    "code": "14.03.020.003",
+    "villageCode": "003",
+    "districtCode": "14.03.020",
+    "name": "Pulau Kijang",
+    "alias": "Pulau Kijang"
+  },
+  {
+    "code": "14.03.020.004",
+    "villageCode": "004",
+    "districtCode": "14.03.020",
+    "name": "Sungai Undan",
+    "alias": "Sungai Undan"
+  },
+  {
+    "code": "14.03.020.005",
+    "villageCode": "005",
+    "districtCode": "14.03.020",
+    "name": "Sungai Terab",
+    "alias": "Sungai Terab"
+  },
+  {
+    "code": "14.03.020.010",
+    "villageCode": "010",
+    "districtCode": "14.03.020",
+    "name": "Seberang Sanglar",
+    "alias": "Seberang Sanglar"
+  },
+  {
+    "code": "14.03.020.011",
+    "villageCode": "011",
+    "districtCode": "14.03.020",
+    "name": "Mekar Sari",
+    "alias": "Mekar Sari"
+  },
+  {
+    "code": "14.03.020.012",
+    "villageCode": "012",
+    "districtCode": "14.03.020",
+    "name": "Seberang Pulau Kijang",
+    "alias": "Seberang Pulau Kijang"
+  },
+  {
+    "code": "14.03.020.013",
+    "villageCode": "013",
+    "districtCode": "14.03.020",
+    "name": "Sungai Asam",
+    "alias": "Sungai Asam"
+  },
+  {
+    "code": "14.03.020.014",
+    "villageCode": "014",
+    "districtCode": "14.03.020",
+    "name": "Pulau Ruku",
+    "alias": "Pulau Ruku"
+  },
+  {
+    "code": "14.03.020.015",
+    "villageCode": "015",
+    "districtCode": "14.03.020",
+    "name": "Metro",
+    "alias": "Metro"
+  },
+  {
+    "code": "14.03.020.016",
+    "villageCode": "016",
+    "districtCode": "14.03.020",
+    "name": "Madani",
+    "alias": "Madani"
+  },
+  {
+    "code": "14.03.020.017",
+    "villageCode": "017",
+    "districtCode": "14.03.020",
+    "name": "Tanjung Labuh",
+    "alias": "Tanjung Labuh"
+  },
+  {
+    "code": "14.03.020.018",
+    "villageCode": "018",
+    "districtCode": "14.03.020",
+    "name": "Sungai Mahang",
+    "alias": "Sungai Mahang"
+  }
+]

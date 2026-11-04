@@ -1,0 +1,37 @@
+[
+  {
+    "code": "94.19.053.002",
+    "villageCode": "002",
+    "districtCode": "94.19.053",
+    "name": "Bagaiserwar",
+    "alias": "Bagaiserwar"
+  },
+  {
+    "code": "94.19.053.003",
+    "villageCode": "003",
+    "districtCode": "94.19.053",
+    "name": "Nanot",
+    "alias": "Nanot"
+  },
+  {
+    "code": "94.19.053.004",
+    "villageCode": "004",
+    "districtCode": "94.19.053",
+    "name": "Bagaiserwar Ii",
+    "alias": "Bagaiserwar Ii"
+  },
+  {
+    "code": "94.19.053.005",
+    "villageCode": "005",
+    "districtCode": "94.19.053",
+    "name": "Sumsar",
+    "alias": "Sumsar"
+  },
+  {
+    "code": "94.19.053.006",
+    "villageCode": "006",
+    "districtCode": "94.19.053",
+    "name": "Rorena",
+    "alias": "Rorena"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "code": "18.13.060.001",
+    "villageCode": "001",
+    "districtCode": "18.13.060",
+    "name": "Way Redak",
+    "alias": "Way Redak"
+  },
+  {
+    "code": "18.13.060.002",
+    "villageCode": "002",
+    "districtCode": "18.13.060",
+    "name": "Seray",
+    "alias": "Seray"
+  },
+  {
+    "code": "18.13.060.003",
+    "villageCode": "003",
+    "districtCode": "18.13.060",
+    "name": "Rawas",
+    "alias": "Rawas"
+  },
+  {
+    "code": "18.13.060.004",
+    "villageCode": "004",
+    "districtCode": "18.13.060",
+    "name": "Kampung Jawa",
+    "alias": "Kampung Jawa"
+  },
+  {
+    "code": "18.13.060.005",
+    "villageCode": "005",
+    "districtCode": "18.13.060",
+    "name": "Pasar Krui",
+    "alias": "Pasar Krui"
+  },
+  {
+    "code": "18.13.060.006",
+    "villageCode": "006",
+    "districtCode": "18.13.060",
+    "name": "Pasar Kota Krui",
+    "alias": "Pasar Kota Krui"
+  },
+  {
+    "code": "18.13.060.007",
+    "villageCode": "007",
+    "districtCode": "18.13.060",
+    "name": "Sukanegara",
+    "alias": "Sukanegara"
+  },
+  {
+    "code": "18.13.060.008",
+    "villageCode": "008",
+    "districtCode": "18.13.060",
+    "name": "Pahmungan",
+    "alias": "Pahmungan"
+  }
+]

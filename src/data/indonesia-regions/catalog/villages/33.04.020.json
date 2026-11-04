@@ -1,0 +1,58 @@
+[
+  {
+    "code": "33.04.020.001",
+    "villageCode": "001",
+    "districtCode": "33.04.020",
+    "name": "Purwareja",
+    "alias": "Purwareja"
+  },
+  {
+    "code": "33.04.020.002",
+    "villageCode": "002",
+    "districtCode": "33.04.020",
+    "name": "Kecitran",
+    "alias": "Kecitran"
+  },
+  {
+    "code": "33.04.020.003",
+    "villageCode": "003",
+    "districtCode": "33.04.020",
+    "name": "Sirkandi",
+    "alias": "Sirkandi"
+  },
+  {
+    "code": "33.04.020.004",
+    "villageCode": "004",
+    "districtCode": "33.04.020",
+    "name": "Pagak",
+    "alias": "Pagak"
+  },
+  {
+    "code": "33.04.020.005",
+    "villageCode": "005",
+    "districtCode": "33.04.020",
+    "name": "Kalilandak",
+    "alias": "Kalilandak"
+  },
+  {
+    "code": "33.04.020.006",
+    "villageCode": "006",
+    "districtCode": "33.04.020",
+    "name": "Klampok",
+    "alias": "Klampok"
+  },
+  {
+    "code": "33.04.020.007",
+    "villageCode": "007",
+    "districtCode": "33.04.020",
+    "name": "Kalimandi",
+    "alias": "Kalimandi"
+  },
+  {
+    "code": "33.04.020.008",
+    "villageCode": "008",
+    "districtCode": "33.04.020",
+    "name": "Kaliwinasuh",
+    "alias": "Kaliwinasuh"
+  }
+]

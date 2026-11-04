@@ -1,0 +1,30 @@
+[
+  {
+    "code": "64.05.041.001",
+    "villageCode": "001",
+    "districtCode": "64.05.041",
+    "name": "Maratua Payung-Payung",
+    "alias": "Maratua Payung-Payung"
+  },
+  {
+    "code": "64.05.041.002",
+    "villageCode": "002",
+    "districtCode": "64.05.041",
+    "name": "Maratua Bohesilian",
+    "alias": "Maratua Bohesilian"
+  },
+  {
+    "code": "64.05.041.003",
+    "villageCode": "003",
+    "districtCode": "64.05.041",
+    "name": "Maratua Teluk Alulu",
+    "alias": "Maratua Teluk Alulu"
+  },
+  {
+    "code": "64.05.041.004",
+    "villageCode": "004",
+    "districtCode": "64.05.041",
+    "name": "Maratua Teluk Harapan",
+    "alias": "Maratua Teluk Harapan"
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "code": "16.01.130.004",
+    "villageCode": "004",
+    "districtCode": "16.01.130",
+    "name": "Tanjung Baru",
+    "alias": "Tanjung Baru"
+  },
+  {
+    "code": "16.01.130.005",
+    "villageCode": "005",
+    "districtCode": "16.01.130",
+    "name": "Pasar Baru",
+    "alias": "Pasar Baru"
+  },
+  {
+    "code": "16.01.130.007",
+    "villageCode": "007",
+    "districtCode": "16.01.130",
+    "name": "Kemala Raja",
+    "alias": "Kemala Raja"
+  },
+  {
+    "code": "16.01.130.008",
+    "villageCode": "008",
+    "districtCode": "16.01.130",
+    "name": "Sukaraya",
+    "alias": "Sukaraya"
+  },
+  {
+    "code": "16.01.130.009",
+    "villageCode": "009",
+    "districtCode": "16.01.130",
+    "name": "Tanjung Kemala",
+    "alias": "Tanjung Kemala"
+  },
+  {
+    "code": "16.01.130.010",
+    "villageCode": "010",
+    "districtCode": "16.01.130",
+    "name": "Sukajadi",
+    "alias": "Sukajadi"
+  },
+  {
+    "code": "16.01.130.011",
+    "villageCode": "011",
+    "districtCode": "16.01.130",
+    "name": "Air Pauh",
+    "alias": "Air Pauh"
+  },
+  {
+    "code": "16.01.130.012",
+    "villageCode": "012",
+    "districtCode": "16.01.130",
+    "name": "Baturaja Permai",
+    "alias": "Baturaja Permai"
+  },
+  {
+    "code": "16.01.130.013",
+    "villageCode": "013",
+    "districtCode": "16.01.130",
+    "name": "Terusan",
+    "alias": "Terusan"
+  },
+  {
+    "code": "16.01.130.014",
+    "villageCode": "014",
+    "districtCode": "16.01.130",
+    "name": "Sekar Jaya",
+    "alias": "Sekar Jaya"
+  },
+  {
+    "code": "16.01.130.015",
+    "villageCode": "015",
+    "districtCode": "16.01.130",
+    "name": "Sepancar Lawang Kulon",
+    "alias": "Sepancar Lawang Kulon"
+  },
+  {
+    "code": "16.01.130.016",
+    "villageCode": "016",
+    "districtCode": "16.01.130",
+    "name": "Kemelak Bindung Langit",
+    "alias": "Kemelak Bindung Langit"
+  },
+  {
+    "code": "16.01.130.017",
+    "villageCode": "017",
+    "districtCode": "16.01.130",
+    "name": "Baturaja Lama",
+    "alias": "Baturaja Lama"
+  }
+]

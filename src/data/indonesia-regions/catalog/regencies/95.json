@@ -1,0 +1,34 @@
+[
+  {
+    "code": "95.01",
+    "regencyCode": "01",
+    "provinceCode": "95",
+    "provinceName": "Papua Selatan",
+    "name": "Kabupaten Merauke",
+    "alias": "Merauke"
+  },
+  {
+    "code": "95.02",
+    "regencyCode": "02",
+    "provinceCode": "95",
+    "provinceName": "Papua Selatan",
+    "name": "Kabupaten Boven Digoel",
+    "alias": "Boven Digoel"
+  },
+  {
+    "code": "95.03",
+    "regencyCode": "03",
+    "provinceCode": "95",
+    "provinceName": "Papua Selatan",
+    "name": "Kabupaten Mappi",
+    "alias": "Mappi"
+  },
+  {
+    "code": "95.04",
+    "regencyCode": "04",
+    "provinceCode": "95",
+    "provinceName": "Papua Selatan",
+    "name": "Kabupaten Asmat",
+    "alias": "Asmat"
+  }
+]

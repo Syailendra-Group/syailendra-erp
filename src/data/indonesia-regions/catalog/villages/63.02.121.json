@@ -1,0 +1,65 @@
+[
+  {
+    "code": "63.02.121.001",
+    "villageCode": "001",
+    "districtCode": "63.02.121",
+    "name": "Tarjun",
+    "alias": "Tarjun"
+  },
+  {
+    "code": "63.02.121.002",
+    "villageCode": "002",
+    "districtCode": "63.02.121",
+    "name": "Mandala",
+    "alias": "Mandala"
+  },
+  {
+    "code": "63.02.121.003",
+    "villageCode": "003",
+    "districtCode": "63.02.121",
+    "name": "Langadai",
+    "alias": "Langadai"
+  },
+  {
+    "code": "63.02.121.004",
+    "villageCode": "004",
+    "districtCode": "63.02.121",
+    "name": "Pelaju Baru",
+    "alias": "Pelaju Baru"
+  },
+  {
+    "code": "63.02.121.005",
+    "villageCode": "005",
+    "districtCode": "63.02.121",
+    "name": "Serongga",
+    "alias": "Serongga"
+  },
+  {
+    "code": "63.02.121.006",
+    "villageCode": "006",
+    "districtCode": "63.02.121",
+    "name": "Tegal Rejo",
+    "alias": "Tegal Rejo"
+  },
+  {
+    "code": "63.02.121.007",
+    "villageCode": "007",
+    "districtCode": "63.02.121",
+    "name": "Telaga Sari",
+    "alias": "Telaga Sari"
+  },
+  {
+    "code": "63.02.121.008",
+    "villageCode": "008",
+    "districtCode": "63.02.121",
+    "name": "Pulau Panci",
+    "alias": "Pulau Panci"
+  },
+  {
+    "code": "63.02.121.009",
+    "villageCode": "009",
+    "districtCode": "63.02.121",
+    "name": "Sahapi",
+    "alias": "Sahapi"
+  }
+]

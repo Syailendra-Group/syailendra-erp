@@ -1,0 +1,191 @@
+[
+  {
+    "code": "33.06.070.001",
+    "villageCode": "001",
+    "districtCode": "33.06.070",
+    "name": "Seborokrapyak",
+    "alias": "Seborokrapyak"
+  },
+  {
+    "code": "33.06.070.002",
+    "villageCode": "002",
+    "districtCode": "33.06.070",
+    "name": "Triwarno",
+    "alias": "Triwarno"
+  },
+  {
+    "code": "33.06.070.003",
+    "villageCode": "003",
+    "districtCode": "33.06.070",
+    "name": "Bajangrejo",
+    "alias": "Bajangrejo"
+  },
+  {
+    "code": "33.06.070.004",
+    "villageCode": "004",
+    "districtCode": "33.06.070",
+    "name": "Bencorejo",
+    "alias": "Bencorejo"
+  },
+  {
+    "code": "33.06.070.005",
+    "villageCode": "005",
+    "districtCode": "33.06.070",
+    "name": "Surorejo",
+    "alias": "Surorejo"
+  },
+  {
+    "code": "33.06.070.006",
+    "villageCode": "006",
+    "districtCode": "33.06.070",
+    "name": "Wangunrejo",
+    "alias": "Wangunrejo"
+  },
+  {
+    "code": "33.06.070.007",
+    "villageCode": "007",
+    "districtCode": "33.06.070",
+    "name": "Cengkawakrejo",
+    "alias": "Cengkawakrejo"
+  },
+  {
+    "code": "33.06.070.008",
+    "villageCode": "008",
+    "districtCode": "33.06.070",
+    "name": "Popongan",
+    "alias": "Popongan"
+  },
+  {
+    "code": "33.06.070.009",
+    "villageCode": "009",
+    "districtCode": "33.06.070",
+    "name": "Boro Wetan",
+    "alias": "Boro Wetan"
+  },
+  {
+    "code": "33.06.070.010",
+    "villageCode": "010",
+    "districtCode": "33.06.070",
+    "name": "Boro Kulon",
+    "alias": "Boro Kulon"
+  },
+  {
+    "code": "33.06.070.011",
+    "villageCode": "011",
+    "districtCode": "33.06.070",
+    "name": "Tegalrejo",
+    "alias": "Tegalrejo"
+  },
+  {
+    "code": "33.06.070.012",
+    "villageCode": "012",
+    "districtCode": "33.06.070",
+    "name": "Banyu Urip",
+    "alias": "Banyu Urip"
+  },
+  {
+    "code": "33.06.070.013",
+    "villageCode": "013",
+    "districtCode": "33.06.070",
+    "name": "Malangrejo",
+    "alias": "Malangrejo"
+  },
+  {
+    "code": "33.06.070.014",
+    "villageCode": "014",
+    "districtCode": "33.06.070",
+    "name": "Tegalkuning",
+    "alias": "Tegalkuning"
+  },
+  {
+    "code": "33.06.070.015",
+    "villageCode": "015",
+    "districtCode": "33.06.070",
+    "name": "Kliwonan",
+    "alias": "Kliwonan"
+  },
+  {
+    "code": "33.06.070.016",
+    "villageCode": "016",
+    "districtCode": "33.06.070",
+    "name": "Kertosono",
+    "alias": "Kertosono"
+  },
+  {
+    "code": "33.06.070.017",
+    "villageCode": "017",
+    "districtCode": "33.06.070",
+    "name": "Tanjunganom",
+    "alias": "Tanjunganom"
+  },
+  {
+    "code": "33.06.070.018",
+    "villageCode": "018",
+    "districtCode": "33.06.070",
+    "name": "Sawit",
+    "alias": "Sawit"
+  },
+  {
+    "code": "33.06.070.019",
+    "villageCode": "019",
+    "districtCode": "33.06.070",
+    "name": "Sumber Sari",
+    "alias": "Sumber Sari"
+  },
+  {
+    "code": "33.06.070.020",
+    "villageCode": "020",
+    "districtCode": "33.06.070",
+    "name": "Pakisrejo",
+    "alias": "Pakisrejo"
+  },
+  {
+    "code": "33.06.070.021",
+    "villageCode": "021",
+    "districtCode": "33.06.070",
+    "name": "Candingasinan",
+    "alias": "Candingasinan"
+  },
+  {
+    "code": "33.06.070.022",
+    "villageCode": "022",
+    "districtCode": "33.06.070",
+    "name": "Sokowaten",
+    "alias": "Sokowaten"
+  },
+  {
+    "code": "33.06.070.023",
+    "villageCode": "023",
+    "districtCode": "33.06.070",
+    "name": "Golok",
+    "alias": "Golok"
+  },
+  {
+    "code": "33.06.070.024",
+    "villageCode": "024",
+    "districtCode": "33.06.070",
+    "name": "Candisari",
+    "alias": "Candisari"
+  },
+  {
+    "code": "33.06.070.025",
+    "villageCode": "025",
+    "districtCode": "33.06.070",
+    "name": "Condongsari",
+    "alias": "Condongsari"
+  },
+  {
+    "code": "33.06.070.026",
+    "villageCode": "026",
+    "districtCode": "33.06.070",
+    "name": "Kledung Kradenan",
+    "alias": "Kledung Kradenan"
+  },
+  {
+    "code": "33.06.070.027",
+    "villageCode": "027",
+    "districtCode": "33.06.070",
+    "name": "Kledung Karangdalem",
+    "alias": "Kledung Karangdalem"
+  }
+]

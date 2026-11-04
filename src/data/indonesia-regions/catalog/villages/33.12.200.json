@@ -1,0 +1,72 @@
+[
+  {
+    "code": "33.12.200.001",
+    "villageCode": "001",
+    "districtCode": "33.12.200",
+    "name": "Domas",
+    "alias": "Domas"
+  },
+  {
+    "code": "33.12.200.002",
+    "villageCode": "002",
+    "districtCode": "33.12.200",
+    "name": "Nadi",
+    "alias": "Nadi"
+  },
+  {
+    "code": "33.12.200.003",
+    "villageCode": "003",
+    "districtCode": "33.12.200",
+    "name": "Ngaglik",
+    "alias": "Ngaglik"
+  },
+  {
+    "code": "33.12.200.004",
+    "villageCode": "004",
+    "districtCode": "33.12.200",
+    "name": "Bulurejo",
+    "alias": "Bulurejo"
+  },
+  {
+    "code": "33.12.200.010",
+    "villageCode": "010",
+    "districtCode": "33.12.200",
+    "name": "Bulukerto",
+    "alias": "Bulukerto"
+  },
+  {
+    "code": "33.12.200.011",
+    "villageCode": "011",
+    "districtCode": "33.12.200",
+    "name": "Krandegan",
+    "alias": "Krandegan"
+  },
+  {
+    "code": "33.12.200.012",
+    "villageCode": "012",
+    "districtCode": "33.12.200",
+    "name": "Tanjung",
+    "alias": "Tanjung"
+  },
+  {
+    "code": "33.12.200.013",
+    "villageCode": "013",
+    "districtCode": "33.12.200",
+    "name": "Sugihan",
+    "alias": "Sugihan"
+  },
+  {
+    "code": "33.12.200.014",
+    "villageCode": "014",
+    "districtCode": "33.12.200",
+    "name": "Conto",
+    "alias": "Conto"
+  },
+  {
+    "code": "33.12.200.015",
+    "villageCode": "015",
+    "districtCode": "33.12.200",
+    "name": "Geneng",
+    "alias": "Geneng"
+  }
+]

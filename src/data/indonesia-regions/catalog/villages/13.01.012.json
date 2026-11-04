@@ -1,0 +1,23 @@
+[
+  {
+    "code": "13.01.012.001",
+    "villageCode": "001",
+    "districtCode": "13.01.012",
+    "name": "Taikako",
+    "alias": "Taikako"
+  },
+  {
+    "code": "13.01.012.002",
+    "villageCode": "002",
+    "districtCode": "13.01.012",
+    "name": "Sikakap",
+    "alias": "Sikakap"
+  },
+  {
+    "code": "13.01.012.003",
+    "villageCode": "003",
+    "districtCode": "13.01.012",
+    "name": "Matobe",
+    "alias": "Matobe"
+  }
+]

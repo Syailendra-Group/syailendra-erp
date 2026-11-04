@@ -1,0 +1,194 @@
+[
+  {
+    "code": "53.03.100",
+    "districtCode": "100",
+    "regencyCode": "53.03",
+    "provinceCode": "53",
+    "name": "Kecamatan Semau",
+    "alias": "Semau"
+  },
+  {
+    "code": "53.03.101",
+    "districtCode": "101",
+    "regencyCode": "53.03",
+    "provinceCode": "53",
+    "name": "Kecamatan Semau Selatan",
+    "alias": "Semau Selatan"
+  },
+  {
+    "code": "53.03.110",
+    "districtCode": "110",
+    "regencyCode": "53.03",
+    "provinceCode": "53",
+    "name": "Kecamatan Kupang Barat",
+    "alias": "Kupang Barat"
+  },
+  {
+    "code": "53.03.111",
+    "districtCode": "111",
+    "regencyCode": "53.03",
+    "provinceCode": "53",
+    "name": "Kecamatan Nekamese",
+    "alias": "Nekamese"
+  },
+  {
+    "code": "53.03.120",
+    "districtCode": "120",
+    "regencyCode": "53.03",
+    "provinceCode": "53",
+    "name": "Kecamatan Kupang Tengah",
+    "alias": "Kupang Tengah"
+  },
+  {
+    "code": "53.03.121",
+    "districtCode": "121",
+    "regencyCode": "53.03",
+    "provinceCode": "53",
+    "name": "Kecamatan Taebenu",
+    "alias": "Taebenu"
+  },
+  {
+    "code": "53.03.130",
+    "districtCode": "130",
+    "regencyCode": "53.03",
+    "provinceCode": "53",
+    "name": "Kecamatan Amarasi",
+    "alias": "Amarasi"
+  },
+  {
+    "code": "53.03.131",
+    "districtCode": "131",
+    "regencyCode": "53.03",
+    "provinceCode": "53",
+    "name": "Kecamatan Amarasi Barat",
+    "alias": "Amarasi Barat"
+  },
+  {
+    "code": "53.03.132",
+    "districtCode": "132",
+    "regencyCode": "53.03",
+    "provinceCode": "53",
+    "name": "Kecamatan Amarasi Selatan",
+    "alias": "Amarasi Selatan"
+  },
+  {
+    "code": "53.03.133",
+    "districtCode": "133",
+    "regencyCode": "53.03",
+    "provinceCode": "53",
+    "name": "Kecamatan Amarasi Timur",
+    "alias": "Amarasi Timur"
+  },
+  {
+    "code": "53.03.140",
+    "districtCode": "140",
+    "regencyCode": "53.03",
+    "provinceCode": "53",
+    "name": "Kecamatan Kupang Timur",
+    "alias": "Kupang Timur"
+  },
+  {
+    "code": "53.03.141",
+    "districtCode": "141",
+    "regencyCode": "53.03",
+    "provinceCode": "53",
+    "name": "Kecamatan Amabi Oefeto Timur",
+    "alias": "Amabi Oefeto Timur"
+  },
+  {
+    "code": "53.03.142",
+    "districtCode": "142",
+    "regencyCode": "53.03",
+    "provinceCode": "53",
+    "name": "Kecamatan Amabi Oefeto",
+    "alias": "Amabi Oefeto"
+  },
+  {
+    "code": "53.03.150",
+    "districtCode": "150",
+    "regencyCode": "53.03",
+    "provinceCode": "53",
+    "name": "Kecamatan Sulamu",
+    "alias": "Sulamu"
+  },
+  {
+    "code": "53.03.160",
+    "districtCode": "160",
+    "regencyCode": "53.03",
+    "provinceCode": "53",
+    "name": "Kecamatan Fatuleu",
+    "alias": "Fatuleu"
+  },
+  {
+    "code": "53.03.161",
+    "districtCode": "161",
+    "regencyCode": "53.03",
+    "provinceCode": "53",
+    "name": "Kecamatan Fatuleu Tengah",
+    "alias": "Fatuleu Tengah"
+  },
+  {
+    "code": "53.03.162",
+    "districtCode": "162",
+    "regencyCode": "53.03",
+    "provinceCode": "53",
+    "name": "Kecamatan Fatuleu Barat",
+    "alias": "Fatuleu Barat"
+  },
+  {
+    "code": "53.03.170",
+    "districtCode": "170",
+    "regencyCode": "53.03",
+    "provinceCode": "53",
+    "name": "Kecamatan Takari",
+    "alias": "Takari"
+  },
+  {
+    "code": "53.03.180",
+    "districtCode": "180",
+    "regencyCode": "53.03",
+    "provinceCode": "53",
+    "name": "Kecamatan Amfoang Selatan",
+    "alias": "Amfoang Selatan"
+  },
+  {
+    "code": "53.03.181",
+    "districtCode": "181",
+    "regencyCode": "53.03",
+    "provinceCode": "53",
+    "name": "Kecamatan Amfoang Barat Daya",
+    "alias": "Amfoang Barat Daya"
+  },
+  {
+    "code": "53.03.182",
+    "districtCode": "182",
+    "regencyCode": "53.03",
+    "provinceCode": "53",
+    "name": "Kecamatan Amfoang Tengah",
+    "alias": "Amfoang Tengah"
+  },
+  {
+    "code": "53.03.190",
+    "districtCode": "190",
+    "regencyCode": "53.03",
+    "provinceCode": "53",
+    "name": "Kecamatan Amfoang Utara",
+    "alias": "Amfoang Utara"
+  },
+  {
+    "code": "53.03.191",
+    "districtCode": "191",
+    "regencyCode": "53.03",
+    "provinceCode": "53",
+    "name": "Kecamatan Amfoang Barat Laut",
+    "alias": "Amfoang Barat Laut"
+  },
+  {
+    "code": "53.03.192",
+    "districtCode": "192",
+    "regencyCode": "53.03",
+    "provinceCode": "53",
+    "name": "Kecamatan Amfoang Timur",
+    "alias": "Amfoang Timur"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "code": "61.71.031.001",
+    "villageCode": "001",
+    "districtCode": "61.71.031",
+    "name": "Sungai Bangkong",
+    "alias": "Sungai Bangkong"
+  },
+  {
+    "code": "61.71.031.002",
+    "villageCode": "002",
+    "districtCode": "61.71.031",
+    "name": "Darat Sekip",
+    "alias": "Darat Sekip"
+  },
+  {
+    "code": "61.71.031.003",
+    "villageCode": "003",
+    "districtCode": "61.71.031",
+    "name": "Tengah",
+    "alias": "Tengah"
+  },
+  {
+    "code": "61.71.031.004",
+    "villageCode": "004",
+    "districtCode": "61.71.031",
+    "name": "Mariana",
+    "alias": "Mariana"
+  },
+  {
+    "code": "61.71.031.005",
+    "villageCode": "005",
+    "districtCode": "61.71.031",
+    "name": "Sungai Jawi",
+    "alias": "Sungai Jawi"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "code": "61.01.061.001",
+    "villageCode": "001",
+    "districtCode": "61.01.061",
+    "name": "Ratu Sepudak",
+    "alias": "Ratu Sepudak"
+  },
+  {
+    "code": "61.01.061.002",
+    "villageCode": "002",
+    "districtCode": "61.01.061",
+    "name": "Sungai Palah",
+    "alias": "Sungai Palah"
+  },
+  {
+    "code": "61.01.061.003",
+    "villageCode": "003",
+    "districtCode": "61.01.061",
+    "name": "Sagu",
+    "alias": "Sagu"
+  },
+  {
+    "code": "61.01.061.004",
+    "villageCode": "004",
+    "districtCode": "61.01.061",
+    "name": "Tempapan Kuala",
+    "alias": "Tempapan Kuala"
+  },
+  {
+    "code": "61.01.061.005",
+    "villageCode": "005",
+    "districtCode": "61.01.061",
+    "name": "Galing",
+    "alias": "Galing"
+  },
+  {
+    "code": "61.01.061.006",
+    "villageCode": "006",
+    "districtCode": "61.01.061",
+    "name": "Tempapan Hulu",
+    "alias": "Tempapan Hulu"
+  },
+  {
+    "code": "61.01.061.007",
+    "villageCode": "007",
+    "districtCode": "61.01.061",
+    "name": "Tri Kembang",
+    "alias": "Tri Kembang"
+  },
+  {
+    "code": "61.01.061.008",
+    "villageCode": "008",
+    "districtCode": "61.01.061",
+    "name": "Tri Gadu",
+    "alias": "Tri Gadu"
+  },
+  {
+    "code": "61.01.061.009",
+    "villageCode": "009",
+    "districtCode": "61.01.061",
+    "name": "Sijang",
+    "alias": "Sijang"
+  },
+  {
+    "code": "61.01.061.010",
+    "villageCode": "010",
+    "districtCode": "61.01.061",
+    "name": "Teluk Pandan",
+    "alias": "Teluk Pandan"
+  }
+]

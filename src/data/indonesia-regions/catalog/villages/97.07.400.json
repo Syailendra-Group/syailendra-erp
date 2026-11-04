@@ -1,0 +1,51 @@
+[
+  {
+    "code": "97.07.400.001",
+    "villageCode": "001",
+    "districtCode": "97.07.400",
+    "name": "Kabianggama",
+    "alias": "Kabianggama"
+  },
+  {
+    "code": "97.07.400.002",
+    "villageCode": "002",
+    "districtCode": "97.07.400",
+    "name": "Sohopma",
+    "alias": "Sohopma"
+  },
+  {
+    "code": "97.07.400.003",
+    "villageCode": "003",
+    "districtCode": "97.07.400",
+    "name": "Sohal",
+    "alias": "Sohal"
+  },
+  {
+    "code": "97.07.400.004",
+    "villageCode": "004",
+    "districtCode": "97.07.400",
+    "name": "Bahabolma",
+    "alias": "Bahabolma"
+  },
+  {
+    "code": "97.07.400.005",
+    "villageCode": "005",
+    "districtCode": "97.07.400",
+    "name": "Subayo",
+    "alias": "Subayo"
+  },
+  {
+    "code": "97.07.400.006",
+    "villageCode": "006",
+    "districtCode": "97.07.400",
+    "name": "Buahun",
+    "alias": "Buahun"
+  },
+  {
+    "code": "97.07.400.007",
+    "villageCode": "007",
+    "districtCode": "97.07.400",
+    "name": "Domul",
+    "alias": "Domul"
+  }
+]

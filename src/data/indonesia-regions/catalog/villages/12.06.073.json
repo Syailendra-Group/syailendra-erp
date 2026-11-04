@@ -1,0 +1,79 @@
+[
+  {
+    "code": "12.06.073.001",
+    "villageCode": "001",
+    "districtCode": "12.06.073",
+    "name": "Siantar Utara",
+    "alias": "Siantar Utara"
+  },
+  {
+    "code": "12.06.073.002",
+    "villageCode": "002",
+    "districtCode": "12.06.073",
+    "name": "Dolok Nauli",
+    "alias": "Dolok Nauli"
+  },
+  {
+    "code": "12.06.073.003",
+    "villageCode": "003",
+    "districtCode": "12.06.073",
+    "name": "Jonggi Manulus",
+    "alias": "Jonggi Manulus"
+  },
+  {
+    "code": "12.06.073.004",
+    "villageCode": "004",
+    "districtCode": "12.06.073",
+    "name": "Banjar Ganjang",
+    "alias": "Banjar Ganjang"
+  },
+  {
+    "code": "12.06.073.005",
+    "villageCode": "005",
+    "districtCode": "12.06.073",
+    "name": "Pangombusan",
+    "alias": "Pangombusan"
+  },
+  {
+    "code": "12.06.073.006",
+    "villageCode": "006",
+    "districtCode": "12.06.073",
+    "name": "Lumban Sitorus",
+    "alias": "Lumban Sitorus"
+  },
+  {
+    "code": "12.06.073.007",
+    "villageCode": "007",
+    "districtCode": "12.06.073",
+    "name": "Bius Gu Barat",
+    "alias": "Bius Gu Barat"
+  },
+  {
+    "code": "12.06.073.008",
+    "villageCode": "008",
+    "districtCode": "12.06.073",
+    "name": "Lumban Huala",
+    "alias": "Lumban Huala"
+  },
+  {
+    "code": "12.06.073.009",
+    "villageCode": "009",
+    "districtCode": "12.06.073",
+    "name": "Tangga Batu Ii",
+    "alias": "Tangga Batu Ii"
+  },
+  {
+    "code": "12.06.073.010",
+    "villageCode": "010",
+    "districtCode": "12.06.073",
+    "name": "Tangga Batu I",
+    "alias": "Tangga Batu I"
+  },
+  {
+    "code": "12.06.073.011",
+    "villageCode": "011",
+    "districtCode": "12.06.073",
+    "name": "Lumban Manurung",
+    "alias": "Lumban Manurung"
+  }
+]

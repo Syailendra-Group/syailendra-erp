@@ -1,0 +1,82 @@
+[
+  {
+    "code": "51.02.010",
+    "districtCode": "010",
+    "regencyCode": "51.02",
+    "provinceCode": "51",
+    "name": "Kecamatan Selemadeg",
+    "alias": "Selemadeg"
+  },
+  {
+    "code": "51.02.011",
+    "districtCode": "011",
+    "regencyCode": "51.02",
+    "provinceCode": "51",
+    "name": "Kecamatan Selemadeg Timur",
+    "alias": "Selemadeg Timur"
+  },
+  {
+    "code": "51.02.012",
+    "districtCode": "012",
+    "regencyCode": "51.02",
+    "provinceCode": "51",
+    "name": "Kecamatan Selemadeg Barat",
+    "alias": "Selemadeg Barat"
+  },
+  {
+    "code": "51.02.020",
+    "districtCode": "020",
+    "regencyCode": "51.02",
+    "provinceCode": "51",
+    "name": "Kecamatan Kerambitan",
+    "alias": "Kerambitan"
+  },
+  {
+    "code": "51.02.030",
+    "districtCode": "030",
+    "regencyCode": "51.02",
+    "provinceCode": "51",
+    "name": "Kecamatan Tabanan",
+    "alias": "Tabanan"
+  },
+  {
+    "code": "51.02.040",
+    "districtCode": "040",
+    "regencyCode": "51.02",
+    "provinceCode": "51",
+    "name": "Kecamatan Kediri",
+    "alias": "Kediri"
+  },
+  {
+    "code": "51.02.050",
+    "districtCode": "050",
+    "regencyCode": "51.02",
+    "provinceCode": "51",
+    "name": "Kecamatan Marga",
+    "alias": "Marga"
+  },
+  {
+    "code": "51.02.060",
+    "districtCode": "060",
+    "regencyCode": "51.02",
+    "provinceCode": "51",
+    "name": "Kecamatan Baturiti",
+    "alias": "Baturiti"
+  },
+  {
+    "code": "51.02.070",
+    "districtCode": "070",
+    "regencyCode": "51.02",
+    "provinceCode": "51",
+    "name": "Kecamatan Penebel",
+    "alias": "Penebel"
+  },
+  {
+    "code": "51.02.080",
+    "districtCode": "080",
+    "regencyCode": "51.02",
+    "provinceCode": "51",
+    "name": "Kecamatan Pupuan",
+    "alias": "Pupuan"
+  }
+]

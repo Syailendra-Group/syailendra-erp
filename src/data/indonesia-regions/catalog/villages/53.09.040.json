@@ -1,0 +1,107 @@
+[
+  {
+    "code": "53.09.040.001",
+    "villageCode": "001",
+    "districtCode": "53.09.040",
+    "name": "Tanah Lein",
+    "alias": "Tanah Lein"
+  },
+  {
+    "code": "53.09.040.002",
+    "villageCode": "002",
+    "districtCode": "53.09.040",
+    "name": "Lamaole",
+    "alias": "Lamaole"
+  },
+  {
+    "code": "53.09.040.003",
+    "villageCode": "003",
+    "districtCode": "53.09.040",
+    "name": "Lewotanah Ole",
+    "alias": "Lewotanah Ole"
+  },
+  {
+    "code": "53.09.040.004",
+    "villageCode": "004",
+    "districtCode": "53.09.040",
+    "name": "Lamawohong",
+    "alias": "Lamawohong"
+  },
+  {
+    "code": "53.09.040.005",
+    "villageCode": "005",
+    "districtCode": "53.09.040",
+    "name": "Kalelu",
+    "alias": "Kalelu"
+  },
+  {
+    "code": "53.09.040.010",
+    "villageCode": "010",
+    "districtCode": "53.09.040",
+    "name": "Karawatung",
+    "alias": "Karawatung"
+  },
+  {
+    "code": "53.09.040.011",
+    "villageCode": "011",
+    "districtCode": "53.09.040",
+    "name": "Ongalereng",
+    "alias": "Ongalereng"
+  },
+  {
+    "code": "53.09.040.012",
+    "villageCode": "012",
+    "districtCode": "53.09.040",
+    "name": "Pamakayo",
+    "alias": "Pamakayo"
+  },
+  {
+    "code": "53.09.040.013",
+    "villageCode": "013",
+    "districtCode": "53.09.040",
+    "name": "Balaweling I",
+    "alias": "Balaweling I"
+  },
+  {
+    "code": "53.09.040.014",
+    "villageCode": "014",
+    "districtCode": "53.09.040",
+    "name": "Balaweling Ii",
+    "alias": "Balaweling Ii"
+  },
+  {
+    "code": "53.09.040.015",
+    "villageCode": "015",
+    "districtCode": "53.09.040",
+    "name": "Dani Wato",
+    "alias": "Dani Wato"
+  },
+  {
+    "code": "53.09.040.016",
+    "villageCode": "016",
+    "districtCode": "53.09.040",
+    "name": "Nurhalolon",
+    "alias": "Nurhalolon"
+  },
+  {
+    "code": "53.09.040.017",
+    "villageCode": "017",
+    "districtCode": "53.09.040",
+    "name": "Ritaebang",
+    "alias": "Ritaebang"
+  },
+  {
+    "code": "53.09.040.018",
+    "villageCode": "018",
+    "districtCode": "53.09.040",
+    "name": "Titehena",
+    "alias": "Titehena"
+  },
+  {
+    "code": "53.09.040.019",
+    "villageCode": "019",
+    "districtCode": "53.09.040",
+    "name": "Lewonama",
+    "alias": "Lewonama"
+  }
+]

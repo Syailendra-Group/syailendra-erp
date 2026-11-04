@@ -1,0 +1,135 @@
+[
+  {
+    "code": "72.03.030.011",
+    "villageCode": "011",
+    "districtCode": "72.03.030",
+    "name": "Puungkoilu",
+    "alias": "Puungkoilu"
+  },
+  {
+    "code": "72.03.030.012",
+    "villageCode": "012",
+    "districtCode": "72.03.030",
+    "name": "Bahontobungku",
+    "alias": "Bahontobungku"
+  },
+  {
+    "code": "72.03.030.013",
+    "villageCode": "013",
+    "districtCode": "72.03.030",
+    "name": "Tofuti",
+    "alias": "Tofuti"
+  },
+  {
+    "code": "72.03.030.014",
+    "villageCode": "014",
+    "districtCode": "72.03.030",
+    "name": "Sakita",
+    "alias": "Sakita"
+  },
+  {
+    "code": "72.03.030.015",
+    "villageCode": "015",
+    "districtCode": "72.03.030",
+    "name": "Mendui",
+    "alias": "Mendui"
+  },
+  {
+    "code": "72.03.030.016",
+    "villageCode": "016",
+    "districtCode": "72.03.030",
+    "name": "Tofoiso",
+    "alias": "Tofoiso"
+  },
+  {
+    "code": "72.03.030.017",
+    "villageCode": "017",
+    "districtCode": "72.03.030",
+    "name": "Marsaoleh",
+    "alias": "Marsaoleh"
+  },
+  {
+    "code": "72.03.030.018",
+    "villageCode": "018",
+    "districtCode": "72.03.030",
+    "name": "Lamberea",
+    "alias": "Lamberea"
+  },
+  {
+    "code": "72.03.030.019",
+    "villageCode": "019",
+    "districtCode": "72.03.030",
+    "name": "Bungi",
+    "alias": "Bungi"
+  },
+  {
+    "code": "72.03.030.020",
+    "villageCode": "020",
+    "districtCode": "72.03.030",
+    "name": "Matano",
+    "alias": "Matano"
+  },
+  {
+    "code": "72.03.030.021",
+    "villageCode": "021",
+    "districtCode": "72.03.030",
+    "name": "Matansala",
+    "alias": "Matansala"
+  },
+  {
+    "code": "72.03.030.022",
+    "villageCode": "022",
+    "districtCode": "72.03.030",
+    "name": "Bahoruru",
+    "alias": "Bahoruru"
+  },
+  {
+    "code": "72.03.030.023",
+    "villageCode": "023",
+    "districtCode": "72.03.030",
+    "name": "Ipi",
+    "alias": "Ipi"
+  },
+  {
+    "code": "72.03.030.024",
+    "villageCode": "024",
+    "districtCode": "72.03.030",
+    "name": "Bente",
+    "alias": "Bente"
+  },
+  {
+    "code": "72.03.030.025",
+    "villageCode": "025",
+    "districtCode": "72.03.030",
+    "name": "Bahomohoni",
+    "alias": "Bahomohoni"
+  },
+  {
+    "code": "72.03.030.026",
+    "villageCode": "026",
+    "districtCode": "72.03.030",
+    "name": "Bahomoleo",
+    "alias": "Bahomoleo"
+  },
+  {
+    "code": "72.03.030.027",
+    "villageCode": "027",
+    "districtCode": "72.03.030",
+    "name": "Bahomante",
+    "alias": "Bahomante"
+  },
+  {
+    "code": "72.03.030.028",
+    "villageCode": "028",
+    "districtCode": "72.03.030",
+    "name": "Lanona",
+    "alias": "Lanona"
+  },
+  {
+    "code": "72.03.030.029",
+    "villageCode": "029",
+    "districtCode": "72.03.030",
+    "name": "Tudua",
+    "alias": "Tudua"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "code": "53.03.180.001",
+    "villageCode": "001",
+    "districtCode": "53.03.180",
+    "name": "Fatusuki",
+    "alias": "Fatusuki"
+  },
+  {
+    "code": "53.03.180.002",
+    "villageCode": "002",
+    "districtCode": "53.03.180",
+    "name": "Fatumetan",
+    "alias": "Fatumetan"
+  },
+  {
+    "code": "53.03.180.003",
+    "villageCode": "003",
+    "districtCode": "53.03.180",
+    "name": "Ohaem I",
+    "alias": "Ohaem I"
+  },
+  {
+    "code": "53.03.180.008",
+    "villageCode": "008",
+    "districtCode": "53.03.180",
+    "name": "Leloboko",
+    "alias": "Leloboko"
+  },
+  {
+    "code": "53.03.180.009",
+    "villageCode": "009",
+    "districtCode": "53.03.180",
+    "name": "Lelogama",
+    "alias": "Lelogama"
+  },
+  {
+    "code": "53.03.180.010",
+    "villageCode": "010",
+    "districtCode": "53.03.180",
+    "name": "Oelbanu",
+    "alias": "Oelbanu"
+  },
+  {
+    "code": "53.03.180.011",
+    "villageCode": "011",
+    "districtCode": "53.03.180",
+    "name": "Ohaem Ii",
+    "alias": "Ohaem Ii"
+  }
+]

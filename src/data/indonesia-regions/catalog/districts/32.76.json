@@ -1,0 +1,90 @@
+[
+  {
+    "code": "32.76.010",
+    "districtCode": "010",
+    "regencyCode": "32.76",
+    "provinceCode": "32",
+    "name": "Kecamatan Sawangan",
+    "alias": "Sawangan"
+  },
+  {
+    "code": "32.76.011",
+    "districtCode": "011",
+    "regencyCode": "32.76",
+    "provinceCode": "32",
+    "name": "Kecamatan Bojongsari",
+    "alias": "Bojongsari"
+  },
+  {
+    "code": "32.76.020",
+    "districtCode": "020",
+    "regencyCode": "32.76",
+    "provinceCode": "32",
+    "name": "Kecamatan Pancoran Mas",
+    "alias": "Pancoran Mas"
+  },
+  {
+    "code": "32.76.021",
+    "districtCode": "021",
+    "regencyCode": "32.76",
+    "provinceCode": "32",
+    "name": "Kecamatan Cipayung",
+    "alias": "Cipayung"
+  },
+  {
+    "code": "32.76.030",
+    "districtCode": "030",
+    "regencyCode": "32.76",
+    "provinceCode": "32",
+    "name": "Kecamatan Sukmajaya",
+    "alias": "Sukmajaya"
+  },
+  {
+    "code": "32.76.031",
+    "districtCode": "031",
+    "regencyCode": "32.76",
+    "provinceCode": "32",
+    "name": "Kecamatan Cilodong",
+    "alias": "Cilodong"
+  },
+  {
+    "code": "32.76.040",
+    "districtCode": "040",
+    "regencyCode": "32.76",
+    "provinceCode": "32",
+    "name": "Kecamatan Cimanggis",
+    "alias": "Cimanggis"
+  },
+  {
+    "code": "32.76.041",
+    "districtCode": "041",
+    "regencyCode": "32.76",
+    "provinceCode": "32",
+    "name": "Kecamatan Tapos",
+    "alias": "Tapos"
+  },
+  {
+    "code": "32.76.050",
+    "districtCode": "050",
+    "regencyCode": "32.76",
+    "provinceCode": "32",
+    "name": "Kecamatan Beji",
+    "alias": "Beji"
+  },
+  {
+    "code": "32.76.060",
+    "districtCode": "060",
+    "regencyCode": "32.76",
+    "provinceCode": "32",
+    "name": "Kecamatan Limo",
+    "alias": "Limo"
+  },
+  {
+    "code": "32.76.061",
+    "districtCode": "061",
+    "regencyCode": "32.76",
+    "provinceCode": "32",
+    "name": "Kecamatan Cinere",
+    "alias": "Cinere"
+  }
+]

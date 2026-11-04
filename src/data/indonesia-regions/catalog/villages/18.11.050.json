@@ -1,0 +1,79 @@
+[
+  {
+    "code": "18.11.050.003",
+    "villageCode": "003",
+    "districtCode": "18.11.050",
+    "name": "Tirta Laga",
+    "alias": "Tirta Laga"
+  },
+  {
+    "code": "18.11.050.020",
+    "villageCode": "020",
+    "districtCode": "18.11.050",
+    "name": "Wiralaga I",
+    "alias": "Wiralaga I"
+  },
+  {
+    "code": "18.11.050.021",
+    "villageCode": "021",
+    "districtCode": "18.11.050",
+    "name": "Wiralaga Ii",
+    "alias": "Wiralaga Ii"
+  },
+  {
+    "code": "18.11.050.022",
+    "villageCode": "022",
+    "districtCode": "18.11.050",
+    "name": "Tanjung Serayan",
+    "alias": "Tanjung Serayan"
+  },
+  {
+    "code": "18.11.050.040",
+    "villageCode": "040",
+    "districtCode": "18.11.050",
+    "name": "Nipah Kuning",
+    "alias": "Nipah Kuning"
+  },
+  {
+    "code": "18.11.050.043",
+    "villageCode": "043",
+    "districtCode": "18.11.050",
+    "name": "Sungai Badak",
+    "alias": "Sungai Badak"
+  },
+  {
+    "code": "18.11.050.044",
+    "villageCode": "044",
+    "districtCode": "18.11.050",
+    "name": "Sidomulyo",
+    "alias": "Sidomulyo"
+  },
+  {
+    "code": "18.11.050.047",
+    "villageCode": "047",
+    "districtCode": "18.11.050",
+    "name": "Sumber Makmur",
+    "alias": "Sumber Makmur"
+  },
+  {
+    "code": "18.11.050.048",
+    "villageCode": "048",
+    "districtCode": "18.11.050",
+    "name": "Mulya Sari",
+    "alias": "Mulya Sari"
+  },
+  {
+    "code": "18.11.050.049",
+    "villageCode": "049",
+    "districtCode": "18.11.050",
+    "name": "Wiralaga Mulya",
+    "alias": "Wiralaga Mulya"
+  },
+  {
+    "code": "18.11.050.050",
+    "villageCode": "050",
+    "districtCode": "18.11.050",
+    "name": "Suka Maju",
+    "alias": "Suka Maju"
+  }
+]

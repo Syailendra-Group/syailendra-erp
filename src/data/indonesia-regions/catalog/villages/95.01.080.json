@@ -1,0 +1,44 @@
+[
+  {
+    "code": "95.01.080.001",
+    "villageCode": "001",
+    "districtCode": "95.01.080",
+    "name": "Wamal",
+    "alias": "Wamal"
+  },
+  {
+    "code": "95.01.080.002",
+    "villageCode": "002",
+    "districtCode": "95.01.080",
+    "name": "Dokib",
+    "alias": "Dokib"
+  },
+  {
+    "code": "95.01.080.003",
+    "villageCode": "003",
+    "districtCode": "95.01.080",
+    "name": "Yowied",
+    "alias": "Yowied"
+  },
+  {
+    "code": "95.01.080.004",
+    "villageCode": "004",
+    "districtCode": "95.01.080",
+    "name": "Dodalim",
+    "alias": "Dodalim"
+  },
+  {
+    "code": "95.01.080.005",
+    "villageCode": "005",
+    "districtCode": "95.01.080",
+    "name": "Woboyo",
+    "alias": "Woboyo"
+  },
+  {
+    "code": "95.01.080.006",
+    "villageCode": "006",
+    "districtCode": "95.01.080",
+    "name": "Welbuti",
+    "alias": "Welbuti"
+  }
+]

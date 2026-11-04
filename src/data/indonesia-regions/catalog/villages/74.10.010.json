@@ -1,0 +1,100 @@
+[
+  {
+    "code": "74.10.010.006",
+    "villageCode": "006",
+    "districtCode": "74.10.010",
+    "name": "Kokapi",
+    "alias": "Kokapi"
+  },
+  {
+    "code": "74.10.010.007",
+    "villageCode": "007",
+    "districtCode": "74.10.010",
+    "name": "Matanggonawe",
+    "alias": "Matanggonawe"
+  },
+  {
+    "code": "74.10.010.008",
+    "villageCode": "008",
+    "districtCode": "74.10.010",
+    "name": "Pudonggala",
+    "alias": "Pudonggala"
+  },
+  {
+    "code": "74.10.010.009",
+    "villageCode": "009",
+    "districtCode": "74.10.010",
+    "name": "Tongauna",
+    "alias": "Tongauna"
+  },
+  {
+    "code": "74.10.010.010",
+    "villageCode": "010",
+    "districtCode": "74.10.010",
+    "name": "Sawa",
+    "alias": "Sawa"
+  },
+  {
+    "code": "74.10.010.011",
+    "villageCode": "011",
+    "districtCode": "74.10.010",
+    "name": "Laimeo",
+    "alias": "Laimeo"
+  },
+  {
+    "code": "74.10.010.012",
+    "villageCode": "012",
+    "districtCode": "74.10.010",
+    "name": "Lalembo",
+    "alias": "Lalembo"
+  },
+  {
+    "code": "74.10.010.013",
+    "villageCode": "013",
+    "districtCode": "74.10.010",
+    "name": "Puupi",
+    "alias": "Puupi"
+  },
+  {
+    "code": "74.10.010.030",
+    "villageCode": "030",
+    "districtCode": "74.10.010",
+    "name": "Pudonggala Utama",
+    "alias": "Pudonggala Utama"
+  },
+  {
+    "code": "74.10.010.031",
+    "villageCode": "031",
+    "districtCode": "74.10.010",
+    "name": "Ulu Sawa",
+    "alias": "Ulu Sawa"
+  },
+  {
+    "code": "74.10.010.032",
+    "villageCode": "032",
+    "districtCode": "74.10.010",
+    "name": "Pekaroa",
+    "alias": "Pekaroa"
+  },
+  {
+    "code": "74.10.010.033",
+    "villageCode": "033",
+    "districtCode": "74.10.010",
+    "name": "Panggulawu",
+    "alias": "Panggulawu"
+  },
+  {
+    "code": "74.10.010.034",
+    "villageCode": "034",
+    "districtCode": "74.10.010",
+    "name": "Tudungano",
+    "alias": "Tudungano"
+  },
+  {
+    "code": "74.10.010.035",
+    "villageCode": "035",
+    "districtCode": "74.10.010",
+    "name": "Tanjung Laimeo",
+    "alias": "Tanjung Laimeo"
+  }
+]

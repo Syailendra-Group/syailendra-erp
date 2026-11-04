@@ -1,0 +1,37 @@
+[
+  {
+    "code": "15.71.051.001",
+    "villageCode": "001",
+    "districtCode": "15.71.051",
+    "name": "Selamat",
+    "alias": "Selamat"
+  },
+  {
+    "code": "15.71.051.002",
+    "villageCode": "002",
+    "districtCode": "15.71.051",
+    "name": "Sungai Putri",
+    "alias": "Sungai Putri"
+  },
+  {
+    "code": "15.71.051.003",
+    "villageCode": "003",
+    "districtCode": "15.71.051",
+    "name": "Solok Sipin",
+    "alias": "Solok Sipin"
+  },
+  {
+    "code": "15.71.051.004",
+    "villageCode": "004",
+    "districtCode": "15.71.051",
+    "name": "Murni",
+    "alias": "Murni"
+  },
+  {
+    "code": "15.71.051.005",
+    "villageCode": "005",
+    "districtCode": "15.71.051",
+    "name": "Legok",
+    "alias": "Legok"
+  }
+]

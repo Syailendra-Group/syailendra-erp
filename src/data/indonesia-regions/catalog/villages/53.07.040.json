@@ -1,0 +1,72 @@
+[
+  {
+    "code": "53.07.040.004",
+    "villageCode": "004",
+    "districtCode": "53.07.040",
+    "name": "Elok",
+    "alias": "Elok"
+  },
+  {
+    "code": "53.07.040.005",
+    "villageCode": "005",
+    "districtCode": "53.07.040",
+    "name": "Maritaing",
+    "alias": "Maritaing"
+  },
+  {
+    "code": "53.07.040.006",
+    "villageCode": "006",
+    "districtCode": "53.07.040",
+    "name": "Kolana Selatan",
+    "alias": "Kolana Selatan"
+  },
+  {
+    "code": "53.07.040.007",
+    "villageCode": "007",
+    "districtCode": "53.07.040",
+    "name": "Kolana Utara",
+    "alias": "Kolana Utara"
+  },
+  {
+    "code": "53.07.040.008",
+    "villageCode": "008",
+    "districtCode": "53.07.040",
+    "name": "Mausamang",
+    "alias": "Mausamang"
+  },
+  {
+    "code": "53.07.040.009",
+    "villageCode": "009",
+    "districtCode": "53.07.040",
+    "name": "Tanglapui Timur",
+    "alias": "Tanglapui Timur"
+  },
+  {
+    "code": "53.07.040.010",
+    "villageCode": "010",
+    "districtCode": "53.07.040",
+    "name": "Tanglapui",
+    "alias": "Tanglapui"
+  },
+  {
+    "code": "53.07.040.011",
+    "villageCode": "011",
+    "districtCode": "53.07.040",
+    "name": "Belemana",
+    "alias": "Belemana"
+  },
+  {
+    "code": "53.07.040.012",
+    "villageCode": "012",
+    "districtCode": "53.07.040",
+    "name": "Padang Panjang",
+    "alias": "Padang Panjang"
+  },
+  {
+    "code": "53.07.040.022",
+    "villageCode": "022",
+    "districtCode": "53.07.040",
+    "name": "Maukuru",
+    "alias": "Maukuru"
+  }
+]

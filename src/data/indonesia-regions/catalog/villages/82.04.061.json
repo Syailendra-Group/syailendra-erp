@@ -1,0 +1,30 @@
+[
+  {
+    "code": "82.04.061.001",
+    "villageCode": "001",
+    "districtCode": "82.04.061",
+    "name": "Bokimiake",
+    "alias": "Bokimiake"
+  },
+  {
+    "code": "82.04.061.002",
+    "villageCode": "002",
+    "districtCode": "82.04.061",
+    "name": "Hatejawa",
+    "alias": "Hatejawa"
+  },
+  {
+    "code": "82.04.061.003",
+    "villageCode": "003",
+    "districtCode": "82.04.061",
+    "name": "Busua",
+    "alias": "Busua"
+  },
+  {
+    "code": "82.04.061.004",
+    "villageCode": "004",
+    "districtCode": "82.04.061",
+    "name": "Fofao",
+    "alias": "Fofao"
+  }
+]

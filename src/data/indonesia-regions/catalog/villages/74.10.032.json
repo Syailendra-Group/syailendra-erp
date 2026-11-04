@@ -1,0 +1,44 @@
+[
+  {
+    "code": "74.10.032.001",
+    "villageCode": "001",
+    "districtCode": "74.10.032",
+    "name": "Boenaga",
+    "alias": "Boenaga"
+  },
+  {
+    "code": "74.10.032.002",
+    "villageCode": "002",
+    "districtCode": "74.10.032",
+    "name": "Waturambaha",
+    "alias": "Waturambaha"
+  },
+  {
+    "code": "74.10.032.003",
+    "villageCode": "003",
+    "districtCode": "74.10.032",
+    "name": "Labengki",
+    "alias": "Labengki"
+  },
+  {
+    "code": "74.10.032.004",
+    "villageCode": "004",
+    "districtCode": "74.10.032",
+    "name": "Morombo",
+    "alias": "Morombo"
+  },
+  {
+    "code": "74.10.032.005",
+    "villageCode": "005",
+    "districtCode": "74.10.032",
+    "name": "Tapunopaka",
+    "alias": "Tapunopaka"
+  },
+  {
+    "code": "74.10.032.006",
+    "villageCode": "006",
+    "districtCode": "74.10.032",
+    "name": "Boedingi",
+    "alias": "Boedingi"
+  }
+]

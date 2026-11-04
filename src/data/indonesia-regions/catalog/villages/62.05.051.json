@@ -1,0 +1,72 @@
+[
+  {
+    "code": "62.05.051.001",
+    "villageCode": "001",
+    "districtCode": "62.05.051",
+    "name": "Jingah",
+    "alias": "Jingah"
+  },
+  {
+    "code": "62.05.051.002",
+    "villageCode": "002",
+    "districtCode": "62.05.051",
+    "name": "Jambu",
+    "alias": "Jambu"
+  },
+  {
+    "code": "62.05.051.003",
+    "villageCode": "003",
+    "districtCode": "62.05.051",
+    "name": "Liang Naga",
+    "alias": "Liang Naga"
+  },
+  {
+    "code": "62.05.051.004",
+    "villageCode": "004",
+    "districtCode": "62.05.051",
+    "name": "Sabuh",
+    "alias": "Sabuh"
+  },
+  {
+    "code": "62.05.051.005",
+    "villageCode": "005",
+    "districtCode": "62.05.051",
+    "name": "Hajak",
+    "alias": "Hajak"
+  },
+  {
+    "code": "62.05.051.006",
+    "villageCode": "006",
+    "districtCode": "62.05.051",
+    "name": "Malawaken",
+    "alias": "Malawaken"
+  },
+  {
+    "code": "62.05.051.007",
+    "villageCode": "007",
+    "districtCode": "62.05.051",
+    "name": "Sikui",
+    "alias": "Sikui"
+  },
+  {
+    "code": "62.05.051.008",
+    "villageCode": "008",
+    "districtCode": "62.05.051",
+    "name": "Panaen",
+    "alias": "Panaen"
+  },
+  {
+    "code": "62.05.051.009",
+    "villageCode": "009",
+    "districtCode": "62.05.051",
+    "name": "Liang Buah",
+    "alias": "Liang Buah"
+  },
+  {
+    "code": "62.05.051.010",
+    "villageCode": "010",
+    "districtCode": "62.05.051",
+    "name": "Gandring",
+    "alias": "Gandring"
+  }
+]

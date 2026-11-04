@@ -1,0 +1,72 @@
+[
+  {
+    "code": "76.03.070.001",
+    "villageCode": "001",
+    "districtCode": "76.03.070",
+    "name": "Rantepuang",
+    "alias": "Rantepuang"
+  },
+  {
+    "code": "76.03.070.002",
+    "villageCode": "002",
+    "districtCode": "76.03.070",
+    "name": "Melangkena Padang",
+    "alias": "Melangkena Padang"
+  },
+  {
+    "code": "76.03.070.003",
+    "villageCode": "003",
+    "districtCode": "76.03.070",
+    "name": "Paladan",
+    "alias": "Paladan"
+  },
+  {
+    "code": "76.03.070.004",
+    "villageCode": "004",
+    "districtCode": "76.03.070",
+    "name": "Satanetean",
+    "alias": "Satanetean"
+  },
+  {
+    "code": "76.03.070.005",
+    "villageCode": "005",
+    "districtCode": "76.03.070",
+    "name": "Orobua Selatan",
+    "alias": "Orobua Selatan"
+  },
+  {
+    "code": "76.03.070.006",
+    "villageCode": "006",
+    "districtCode": "76.03.070",
+    "name": "Orobua",
+    "alias": "Orobua"
+  },
+  {
+    "code": "76.03.070.007",
+    "villageCode": "007",
+    "districtCode": "76.03.070",
+    "name": "Orobua Timur",
+    "alias": "Orobua Timur"
+  },
+  {
+    "code": "76.03.070.008",
+    "villageCode": "008",
+    "districtCode": "76.03.070",
+    "name": "Lisuan Ada",
+    "alias": "Lisuan Ada"
+  },
+  {
+    "code": "76.03.070.013",
+    "villageCode": "013",
+    "districtCode": "76.03.070",
+    "name": "Malimbong",
+    "alias": "Malimbong"
+  },
+  {
+    "code": "76.03.070.014",
+    "villageCode": "014",
+    "districtCode": "76.03.070",
+    "name": "Marampan Orobua",
+    "alias": "Marampan Orobua"
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "code": "11.03.042.001",
+    "villageCode": "001",
+    "districtCode": "11.03.042",
+    "name": "Jambo Papan",
+    "alias": "Jambo Papan"
+  },
+  {
+    "code": "11.03.042.002",
+    "villageCode": "002",
+    "districtCode": "11.03.042",
+    "name": "Koto Indarung",
+    "alias": "Koto Indarung"
+  },
+  {
+    "code": "11.03.042.003",
+    "villageCode": "003",
+    "districtCode": "11.03.042",
+    "name": "Siurai Urai",
+    "alias": "Siurai Urai"
+  },
+  {
+    "code": "11.03.042.004",
+    "villageCode": "004",
+    "districtCode": "11.03.042",
+    "name": "Malaka",
+    "alias": "Malaka"
+  },
+  {
+    "code": "11.03.042.005",
+    "villageCode": "005",
+    "districtCode": "11.03.042",
+    "name": "Lawe Melang",
+    "alias": "Lawe Melang"
+  },
+  {
+    "code": "11.03.042.006",
+    "villageCode": "006",
+    "districtCode": "11.03.042",
+    "name": "Koto",
+    "alias": "Koto"
+  },
+  {
+    "code": "11.03.042.007",
+    "villageCode": "007",
+    "districtCode": "11.03.042",
+    "name": "Kampung Sawah",
+    "alias": "Kampung Sawah"
+  },
+  {
+    "code": "11.03.042.008",
+    "villageCode": "008",
+    "districtCode": "11.03.042",
+    "name": "Kampung Padang",
+    "alias": "Kampung Padang"
+  },
+  {
+    "code": "11.03.042.009",
+    "villageCode": "009",
+    "districtCode": "11.03.042",
+    "name": "Pulo Air",
+    "alias": "Pulo Air"
+  },
+  {
+    "code": "11.03.042.010",
+    "villageCode": "010",
+    "districtCode": "11.03.042",
+    "name": "Mersak",
+    "alias": "Mersak"
+  },
+  {
+    "code": "11.03.042.011",
+    "villageCode": "011",
+    "districtCode": "11.03.042",
+    "name": "Simpang Dua",
+    "alias": "Simpang Dua"
+  },
+  {
+    "code": "11.03.042.012",
+    "villageCode": "012",
+    "districtCode": "11.03.042",
+    "name": "Simpang Tiga",
+    "alias": "Simpang Tiga"
+  },
+  {
+    "code": "11.03.042.013",
+    "villageCode": "013",
+    "districtCode": "11.03.042",
+    "name": "Alur Kejrun",
+    "alias": "Alur Kejrun"
+  }
+]

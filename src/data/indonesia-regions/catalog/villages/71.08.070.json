@@ -1,0 +1,86 @@
+[
+  {
+    "code": "71.08.070.006",
+    "villageCode": "006",
+    "districtCode": "71.08.070",
+    "name": "Pelingsawang",
+    "alias": "Pelingsawang"
+  },
+  {
+    "code": "71.08.070.007",
+    "villageCode": "007",
+    "districtCode": "71.08.070",
+    "name": "Peling",
+    "alias": "Peling"
+  },
+  {
+    "code": "71.08.070.008",
+    "villageCode": "008",
+    "districtCode": "71.08.070",
+    "name": "Paseng",
+    "alias": "Paseng"
+  },
+  {
+    "code": "71.08.070.009",
+    "villageCode": "009",
+    "districtCode": "71.08.070",
+    "name": "Paniki",
+    "alias": "Paniki"
+  },
+  {
+    "code": "71.08.070.013",
+    "villageCode": "013",
+    "districtCode": "71.08.070",
+    "name": "Ondong",
+    "alias": "Ondong"
+  },
+  {
+    "code": "71.08.070.014",
+    "villageCode": "014",
+    "districtCode": "71.08.070",
+    "name": "Kanawong",
+    "alias": "Kanawong"
+  },
+  {
+    "code": "71.08.070.015",
+    "villageCode": "015",
+    "districtCode": "71.08.070",
+    "name": "Lehi",
+    "alias": "Lehi"
+  },
+  {
+    "code": "71.08.070.022",
+    "villageCode": "022",
+    "districtCode": "71.08.070",
+    "name": "Makalehi",
+    "alias": "Makalehi"
+  },
+  {
+    "code": "71.08.070.023",
+    "villageCode": "023",
+    "districtCode": "71.08.070",
+    "name": "Bumbiha",
+    "alias": "Bumbiha"
+  },
+  {
+    "code": "71.08.070.024",
+    "villageCode": "024",
+    "districtCode": "71.08.070",
+    "name": "Pehe",
+    "alias": "Pehe"
+  },
+  {
+    "code": "71.08.070.025",
+    "villageCode": "025",
+    "districtCode": "71.08.070",
+    "name": "Makalehi Timur",
+    "alias": "Makalehi Timur"
+  },
+  {
+    "code": "71.08.070.026",
+    "villageCode": "026",
+    "districtCode": "71.08.070",
+    "name": "Makalehi Utara",
+    "alias": "Makalehi Utara"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "code": "14.01.021.001",
+    "villageCode": "001",
+    "districtCode": "14.01.021",
+    "name": "Petai",
+    "alias": "Petai"
+  },
+  {
+    "code": "14.01.021.002",
+    "villageCode": "002",
+    "districtCode": "14.01.021",
+    "name": "Sungai Buluh",
+    "alias": "Sungai Buluh"
+  },
+  {
+    "code": "14.01.021.003",
+    "villageCode": "003",
+    "districtCode": "14.01.021",
+    "name": "Simpang Raya",
+    "alias": "Simpang Raya"
+  },
+  {
+    "code": "14.01.021.004",
+    "villageCode": "004",
+    "districtCode": "14.01.021",
+    "name": "Koto Baru",
+    "alias": "Koto Baru"
+  },
+  {
+    "code": "14.01.021.005",
+    "villageCode": "005",
+    "districtCode": "14.01.021",
+    "name": "Sumber Jaya",
+    "alias": "Sumber Jaya"
+  },
+  {
+    "code": "14.01.021.006",
+    "villageCode": "006",
+    "districtCode": "14.01.021",
+    "name": "Suka Damai",
+    "alias": "Suka Damai"
+  },
+  {
+    "code": "14.01.021.007",
+    "villageCode": "007",
+    "districtCode": "14.01.021",
+    "name": "Muara Bahan",
+    "alias": "Muara Bahan"
+  },
+  {
+    "code": "14.01.021.008",
+    "villageCode": "008",
+    "districtCode": "14.01.021",
+    "name": "Bukit Raya",
+    "alias": "Bukit Raya"
+  },
+  {
+    "code": "14.01.021.009",
+    "villageCode": "009",
+    "districtCode": "14.01.021",
+    "name": "Beringin Jaya",
+    "alias": "Beringin Jaya"
+  },
+  {
+    "code": "14.01.021.010",
+    "villageCode": "010",
+    "districtCode": "14.01.021",
+    "name": "Sukamaju",
+    "alias": "Sukamaju"
+  },
+  {
+    "code": "14.01.021.011",
+    "villageCode": "011",
+    "districtCode": "14.01.021",
+    "name": "Sungai Paku",
+    "alias": "Sungai Paku"
+  },
+  {
+    "code": "14.01.021.012",
+    "villageCode": "012",
+    "districtCode": "14.01.021",
+    "name": "Tanjung Pauh",
+    "alias": "Tanjung Pauh"
+  }
+]

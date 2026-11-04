@@ -1,0 +1,65 @@
+[
+  {
+    "code": "11.71.021.001",
+    "villageCode": "001",
+    "districtCode": "11.71.021",
+    "name": "Lamdom",
+    "alias": "Lamdom"
+  },
+  {
+    "code": "11.71.021.002",
+    "villageCode": "002",
+    "districtCode": "11.71.021",
+    "name": "Cot Mesjid",
+    "alias": "Cot Mesjid"
+  },
+  {
+    "code": "11.71.021.003",
+    "villageCode": "003",
+    "districtCode": "11.71.021",
+    "name": "Batoh",
+    "alias": "Batoh"
+  },
+  {
+    "code": "11.71.021.004",
+    "villageCode": "004",
+    "districtCode": "11.71.021",
+    "name": "Lueng Bata",
+    "alias": "Lueng Bata"
+  },
+  {
+    "code": "11.71.021.005",
+    "villageCode": "005",
+    "districtCode": "11.71.021",
+    "name": "Blang Cut",
+    "alias": "Blang Cut"
+  },
+  {
+    "code": "11.71.021.006",
+    "villageCode": "006",
+    "districtCode": "11.71.021",
+    "name": "Lampaloh",
+    "alias": "Lampaloh"
+  },
+  {
+    "code": "11.71.021.007",
+    "villageCode": "007",
+    "districtCode": "11.71.021",
+    "name": "Sukadamai",
+    "alias": "Sukadamai"
+  },
+  {
+    "code": "11.71.021.008",
+    "villageCode": "008",
+    "districtCode": "11.71.021",
+    "name": "Panteriek",
+    "alias": "Panteriek"
+  },
+  {
+    "code": "11.71.021.009",
+    "villageCode": "009",
+    "districtCode": "11.71.021",
+    "name": "Lamseupeung",
+    "alias": "Lamseupeung"
+  }
+]

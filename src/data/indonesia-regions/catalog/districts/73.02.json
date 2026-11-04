@@ -1,0 +1,82 @@
+[
+  {
+    "code": "73.02.010",
+    "districtCode": "010",
+    "regencyCode": "73.02",
+    "provinceCode": "73",
+    "name": "Kecamatan Gantarang",
+    "alias": "Gantarang"
+  },
+  {
+    "code": "73.02.020",
+    "districtCode": "020",
+    "regencyCode": "73.02",
+    "provinceCode": "73",
+    "name": "Kecamatan Ujung Bulu",
+    "alias": "Ujung Bulu"
+  },
+  {
+    "code": "73.02.021",
+    "districtCode": "021",
+    "regencyCode": "73.02",
+    "provinceCode": "73",
+    "name": "Kecamatan Ujung Loe",
+    "alias": "Ujung Loe"
+  },
+  {
+    "code": "73.02.030",
+    "districtCode": "030",
+    "regencyCode": "73.02",
+    "provinceCode": "73",
+    "name": "Kecamatan Bonto Bahari",
+    "alias": "Bonto Bahari"
+  },
+  {
+    "code": "73.02.040",
+    "districtCode": "040",
+    "regencyCode": "73.02",
+    "provinceCode": "73",
+    "name": "Kecamatan Bontotiro",
+    "alias": "Bontotiro"
+  },
+  {
+    "code": "73.02.050",
+    "districtCode": "050",
+    "regencyCode": "73.02",
+    "provinceCode": "73",
+    "name": "Kecamatan Hero Lange-Lange",
+    "alias": "Hero Lange-Lange"
+  },
+  {
+    "code": "73.02.060",
+    "districtCode": "060",
+    "regencyCode": "73.02",
+    "provinceCode": "73",
+    "name": "Kecamatan Kajang",
+    "alias": "Kajang"
+  },
+  {
+    "code": "73.02.070",
+    "districtCode": "070",
+    "regencyCode": "73.02",
+    "provinceCode": "73",
+    "name": "Kecamatan Bulukumpa",
+    "alias": "Bulukumpa"
+  },
+  {
+    "code": "73.02.080",
+    "districtCode": "080",
+    "regencyCode": "73.02",
+    "provinceCode": "73",
+    "name": "Kecamatan Rilau Ale",
+    "alias": "Rilau Ale"
+  },
+  {
+    "code": "73.02.090",
+    "districtCode": "090",
+    "regencyCode": "73.02",
+    "provinceCode": "73",
+    "name": "Kecamatan Kindang",
+    "alias": "Kindang"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "code": "71.73.030.001",
+    "villageCode": "001",
+    "districtCode": "71.73.030",
+    "name": "Kayawu",
+    "alias": "Kayawu"
+  },
+  {
+    "code": "71.73.030.002",
+    "villageCode": "002",
+    "districtCode": "71.73.030",
+    "name": "Wailan",
+    "alias": "Wailan"
+  },
+  {
+    "code": "71.73.030.003",
+    "villageCode": "003",
+    "districtCode": "71.73.030",
+    "name": "Kakaskasen Tiga",
+    "alias": "Kakaskasen Tiga"
+  },
+  {
+    "code": "71.73.030.004",
+    "villageCode": "004",
+    "districtCode": "71.73.030",
+    "name": "Kakaskasen Dua",
+    "alias": "Kakaskasen Dua"
+  },
+  {
+    "code": "71.73.030.005",
+    "villageCode": "005",
+    "districtCode": "71.73.030",
+    "name": "Kakaskasen Satu",
+    "alias": "Kakaskasen Satu"
+  },
+  {
+    "code": "71.73.030.006",
+    "villageCode": "006",
+    "districtCode": "71.73.030",
+    "name": "Kinilow",
+    "alias": "Kinilow"
+  },
+  {
+    "code": "71.73.030.007",
+    "villageCode": "007",
+    "districtCode": "71.73.030",
+    "name": "Tinoor Satu",
+    "alias": "Tinoor Satu"
+  },
+  {
+    "code": "71.73.030.008",
+    "villageCode": "008",
+    "districtCode": "71.73.030",
+    "name": "Tinoor Dua",
+    "alias": "Tinoor Dua"
+  },
+  {
+    "code": "71.73.030.009",
+    "villageCode": "009",
+    "districtCode": "71.73.030",
+    "name": "Kinilow Satu",
+    "alias": "Kinilow Satu"
+  },
+  {
+    "code": "71.73.030.010",
+    "villageCode": "010",
+    "districtCode": "71.73.030",
+    "name": "Kakaskasen",
+    "alias": "Kakaskasen"
+  }
+]

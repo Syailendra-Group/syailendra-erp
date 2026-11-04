@@ -1,0 +1,37 @@
+[
+  {
+    "code": "94.19.063.001",
+    "villageCode": "001",
+    "districtCode": "94.19.063",
+    "name": "Kapeso",
+    "alias": "Kapeso"
+  },
+  {
+    "code": "94.19.063.002",
+    "villageCode": "002",
+    "districtCode": "94.19.063",
+    "name": "Pina",
+    "alias": "Pina"
+  },
+  {
+    "code": "94.19.063.003",
+    "villageCode": "003",
+    "districtCode": "94.19.063",
+    "name": "Airoran",
+    "alias": "Airoran"
+  },
+  {
+    "code": "94.19.063.004",
+    "villageCode": "004",
+    "districtCode": "94.19.063",
+    "name": "Murara",
+    "alias": "Murara"
+  },
+  {
+    "code": "94.19.063.005",
+    "villageCode": "005",
+    "districtCode": "94.19.063",
+    "name": "Maniwa",
+    "alias": "Maniwa"
+  }
+]

@@ -1,0 +1,219 @@
+[
+  {
+    "code": "53.13.040.009",
+    "villageCode": "009",
+    "districtCode": "53.13.040",
+    "name": "Tal",
+    "alias": "Tal"
+  },
+  {
+    "code": "53.13.040.010",
+    "villageCode": "010",
+    "districtCode": "53.13.040",
+    "name": "Paka",
+    "alias": "Paka"
+  },
+  {
+    "code": "53.13.040.011",
+    "villageCode": "011",
+    "districtCode": "53.13.040",
+    "name": "Legu",
+    "alias": "Legu"
+  },
+  {
+    "code": "53.13.040.012",
+    "villageCode": "012",
+    "districtCode": "53.13.040",
+    "name": "Langgo",
+    "alias": "Langgo"
+  },
+  {
+    "code": "53.13.040.013",
+    "villageCode": "013",
+    "districtCode": "53.13.040",
+    "name": "Tado",
+    "alias": "Tado"
+  },
+  {
+    "code": "53.13.040.014",
+    "villageCode": "014",
+    "districtCode": "53.13.040",
+    "name": "Koak",
+    "alias": "Koak"
+  },
+  {
+    "code": "53.13.040.015",
+    "villageCode": "015",
+    "districtCode": "53.13.040",
+    "name": "Lungar",
+    "alias": "Lungar"
+  },
+  {
+    "code": "53.13.040.016",
+    "villageCode": "016",
+    "districtCode": "53.13.040",
+    "name": "Golo Muntas",
+    "alias": "Golo Muntas"
+  },
+  {
+    "code": "53.13.040.017",
+    "villageCode": "017",
+    "districtCode": "53.13.040",
+    "name": "Gara",
+    "alias": "Gara"
+  },
+  {
+    "code": "53.13.040.018",
+    "villageCode": "018",
+    "districtCode": "53.13.040",
+    "name": "Wae Ajang",
+    "alias": "Wae Ajang"
+  },
+  {
+    "code": "53.13.040.019",
+    "villageCode": "019",
+    "districtCode": "53.13.040",
+    "name": "Wewo",
+    "alias": "Wewo"
+  },
+  {
+    "code": "53.13.040.020",
+    "villageCode": "020",
+    "districtCode": "53.13.040",
+    "name": "Mocok",
+    "alias": "Mocok"
+  },
+  {
+    "code": "53.13.040.021",
+    "villageCode": "021",
+    "districtCode": "53.13.040",
+    "name": "Umung",
+    "alias": "Umung"
+  },
+  {
+    "code": "53.13.040.022",
+    "villageCode": "022",
+    "districtCode": "53.13.040",
+    "name": "Ponggeok",
+    "alias": "Ponggeok"
+  },
+  {
+    "code": "53.13.040.028",
+    "villageCode": "028",
+    "districtCode": "53.13.040",
+    "name": "Papang",
+    "alias": "Papang"
+  },
+  {
+    "code": "53.13.040.029",
+    "villageCode": "029",
+    "districtCode": "53.13.040",
+    "name": "Pongkor",
+    "alias": "Pongkor"
+  },
+  {
+    "code": "53.13.040.034",
+    "villageCode": "034",
+    "districtCode": "53.13.040",
+    "name": "Ngkaer",
+    "alias": "Ngkaer"
+  },
+  {
+    "code": "53.13.040.035",
+    "villageCode": "035",
+    "districtCode": "53.13.040",
+    "name": "Golo Lambo",
+    "alias": "Golo Lambo"
+  },
+  {
+    "code": "53.13.040.036",
+    "villageCode": "036",
+    "districtCode": "53.13.040",
+    "name": "Jaong",
+    "alias": "Jaong"
+  },
+  {
+    "code": "53.13.040.037",
+    "villageCode": "037",
+    "districtCode": "53.13.040",
+    "name": "Iteng",
+    "alias": "Iteng"
+  },
+  {
+    "code": "53.13.040.038",
+    "villageCode": "038",
+    "districtCode": "53.13.040",
+    "name": "Satar Loung",
+    "alias": "Satar Loung"
+  },
+  {
+    "code": "53.13.040.039",
+    "villageCode": "039",
+    "districtCode": "53.13.040",
+    "name": "Ulu Belang",
+    "alias": "Ulu Belang"
+  },
+  {
+    "code": "53.13.040.040",
+    "villageCode": "040",
+    "districtCode": "53.13.040",
+    "name": "Lolang",
+    "alias": "Lolang"
+  },
+  {
+    "code": "53.13.040.041",
+    "villageCode": "041",
+    "districtCode": "53.13.040",
+    "name": "Desa Persiapan Ulu Ngali",
+    "alias": "Desa Persiapan Ulu Ngali"
+  },
+  {
+    "code": "53.13.040.042",
+    "villageCode": "042",
+    "districtCode": "53.13.040",
+    "name": "Desa Persiapan Nanga Woja",
+    "alias": "Desa Persiapan Nanga Woja"
+  },
+  {
+    "code": "53.13.040.043",
+    "villageCode": "043",
+    "districtCode": "53.13.040",
+    "name": "Desa Persiapan Satar Loleng",
+    "alias": "Desa Persiapan Satar Loleng"
+  },
+  {
+    "code": "53.13.040.044",
+    "villageCode": "044",
+    "districtCode": "53.13.040",
+    "name": "Desa Persiapan Bangka Redeng",
+    "alias": "Desa Persiapan Bangka Redeng"
+  },
+  {
+    "code": "53.13.040.045",
+    "villageCode": "045",
+    "districtCode": "53.13.040",
+    "name": "Desa Persiapan Ulu Koak",
+    "alias": "Desa Persiapan Ulu Koak"
+  },
+  {
+    "code": "53.13.040.046",
+    "villageCode": "046",
+    "districtCode": "53.13.040",
+    "name": "Desa Persiapan Pong Meleng",
+    "alias": "Desa Persiapan Pong Meleng"
+  },
+  {
+    "code": "53.13.040.047",
+    "villageCode": "047",
+    "districtCode": "53.13.040",
+    "name": "Desa Persiapan Kaca",
+    "alias": "Desa Persiapan Kaca"
+  },
+  {
+    "code": "53.13.040.048",
+    "villageCode": "048",
+    "districtCode": "53.13.040",
+    "name": "Desa Persiapan Bangka Gonggor",
+    "alias": "Desa Persiapan Bangka Gonggor"
+  }
+]

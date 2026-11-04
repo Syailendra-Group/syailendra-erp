@@ -1,0 +1,86 @@
+[
+  {
+    "code": "36.02.100.001",
+    "villageCode": "001",
+    "districtCode": "36.02.100",
+    "name": "Kanekes",
+    "alias": "Kanekes"
+  },
+  {
+    "code": "36.02.100.002",
+    "villageCode": "002",
+    "districtCode": "36.02.100",
+    "name": "Nayagati",
+    "alias": "Nayagati"
+  },
+  {
+    "code": "36.02.100.003",
+    "villageCode": "003",
+    "districtCode": "36.02.100",
+    "name": "Bojong Menteng",
+    "alias": "Bojong Menteng"
+  },
+  {
+    "code": "36.02.100.004",
+    "villageCode": "004",
+    "districtCode": "36.02.100",
+    "name": "Cisimeut",
+    "alias": "Cisimeut"
+  },
+  {
+    "code": "36.02.100.005",
+    "villageCode": "005",
+    "districtCode": "36.02.100",
+    "name": "Margawangi",
+    "alias": "Margawangi"
+  },
+  {
+    "code": "36.02.100.006",
+    "villageCode": "006",
+    "districtCode": "36.02.100",
+    "name": "Sangkanwangi",
+    "alias": "Sangkanwangi"
+  },
+  {
+    "code": "36.02.100.007",
+    "villageCode": "007",
+    "districtCode": "36.02.100",
+    "name": "Jalupang Mulya",
+    "alias": "Jalupang Mulya"
+  },
+  {
+    "code": "36.02.100.008",
+    "villageCode": "008",
+    "districtCode": "36.02.100",
+    "name": "Leuwidamar",
+    "alias": "Leuwidamar"
+  },
+  {
+    "code": "36.02.100.009",
+    "villageCode": "009",
+    "districtCode": "36.02.100",
+    "name": "Cibungur",
+    "alias": "Cibungur"
+  },
+  {
+    "code": "36.02.100.010",
+    "villageCode": "010",
+    "districtCode": "36.02.100",
+    "name": "Lebak Parahiang",
+    "alias": "Lebak Parahiang"
+  },
+  {
+    "code": "36.02.100.011",
+    "villageCode": "011",
+    "districtCode": "36.02.100",
+    "name": "Wantisari",
+    "alias": "Wantisari"
+  },
+  {
+    "code": "36.02.100.012",
+    "villageCode": "012",
+    "districtCode": "36.02.100",
+    "name": "Cisimeut Raya",
+    "alias": "Cisimeut Raya"
+  }
+]

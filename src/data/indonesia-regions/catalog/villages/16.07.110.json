@@ -1,0 +1,114 @@
+[
+  {
+    "code": "16.07.110.001",
+    "villageCode": "001",
+    "districtCode": "16.07.110",
+    "name": "Mukti Jaya",
+    "alias": "Mukti Jaya"
+  },
+  {
+    "code": "16.07.110.002",
+    "villageCode": "002",
+    "districtCode": "16.07.110",
+    "name": "Mekar Sari",
+    "alias": "Mekar Sari"
+  },
+  {
+    "code": "16.07.110.003",
+    "villageCode": "003",
+    "districtCode": "16.07.110",
+    "name": "Telang Jaya",
+    "alias": "Telang Jaya"
+  },
+  {
+    "code": "16.07.110.004",
+    "villageCode": "004",
+    "districtCode": "16.07.110",
+    "name": "Telang Makmur",
+    "alias": "Telang Makmur"
+  },
+  {
+    "code": "16.07.110.005",
+    "villageCode": "005",
+    "districtCode": "16.07.110",
+    "name": "Sumber Hidup",
+    "alias": "Sumber Hidup"
+  },
+  {
+    "code": "16.07.110.006",
+    "villageCode": "006",
+    "districtCode": "16.07.110",
+    "name": "Telang Rejo",
+    "alias": "Telang Rejo"
+  },
+  {
+    "code": "16.07.110.007",
+    "villageCode": "007",
+    "districtCode": "16.07.110",
+    "name": "Telang Karya",
+    "alias": "Telang Karya"
+  },
+  {
+    "code": "16.07.110.012",
+    "villageCode": "012",
+    "districtCode": "16.07.110",
+    "name": "Sumber Mulya",
+    "alias": "Sumber Mulya"
+  },
+  {
+    "code": "16.07.110.013",
+    "villageCode": "013",
+    "districtCode": "16.07.110",
+    "name": "Marga Rahayu",
+    "alias": "Marga Rahayu"
+  },
+  {
+    "code": "16.07.110.018",
+    "villageCode": "018",
+    "districtCode": "16.07.110",
+    "name": "Panca Mukti",
+    "alias": "Panca Mukti"
+  },
+  {
+    "code": "16.07.110.023",
+    "villageCode": "023",
+    "districtCode": "16.07.110",
+    "name": "Mekar Mukti",
+    "alias": "Mekar Mukti"
+  },
+  {
+    "code": "16.07.110.024",
+    "villageCode": "024",
+    "districtCode": "16.07.110",
+    "name": "Talang Indah",
+    "alias": "Talang Indah"
+  },
+  {
+    "code": "16.07.110.025",
+    "villageCode": "025",
+    "districtCode": "16.07.110",
+    "name": "Upang Jaya",
+    "alias": "Upang Jaya"
+  },
+  {
+    "code": "16.07.110.026",
+    "villageCode": "026",
+    "districtCode": "16.07.110",
+    "name": "Upang Ceria",
+    "alias": "Upang Ceria"
+  },
+  {
+    "code": "16.07.110.027",
+    "villageCode": "027",
+    "districtCode": "16.07.110",
+    "name": "Upang Cemara",
+    "alias": "Upang Cemara"
+  },
+  {
+    "code": "16.07.110.028",
+    "villageCode": "028",
+    "districtCode": "16.07.110",
+    "name": "Upang Karya",
+    "alias": "Upang Karya"
+  }
+]

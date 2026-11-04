@@ -1,0 +1,100 @@
+[
+  {
+    "code": "33.74.010.001",
+    "villageCode": "001",
+    "districtCode": "33.74.010",
+    "name": "Cangkiran",
+    "alias": "Cangkiran"
+  },
+  {
+    "code": "33.74.010.002",
+    "villageCode": "002",
+    "districtCode": "33.74.010",
+    "name": "Bubakan",
+    "alias": "Bubakan"
+  },
+  {
+    "code": "33.74.010.003",
+    "villageCode": "003",
+    "districtCode": "33.74.010",
+    "name": "Karangmalang",
+    "alias": "Karangmalang"
+  },
+  {
+    "code": "33.74.010.004",
+    "villageCode": "004",
+    "districtCode": "33.74.010",
+    "name": "Polaman",
+    "alias": "Polaman"
+  },
+  {
+    "code": "33.74.010.005",
+    "villageCode": "005",
+    "districtCode": "33.74.010",
+    "name": "Purwosari",
+    "alias": "Purwosari"
+  },
+  {
+    "code": "33.74.010.006",
+    "villageCode": "006",
+    "districtCode": "33.74.010",
+    "name": "Tambangan",
+    "alias": "Tambangan"
+  },
+  {
+    "code": "33.74.010.007",
+    "villageCode": "007",
+    "districtCode": "33.74.010",
+    "name": "Jatisari",
+    "alias": "Jatisari"
+  },
+  {
+    "code": "33.74.010.008",
+    "villageCode": "008",
+    "districtCode": "33.74.010",
+    "name": "Mijen",
+    "alias": "Mijen"
+  },
+  {
+    "code": "33.74.010.009",
+    "villageCode": "009",
+    "districtCode": "33.74.010",
+    "name": "Jatibarang",
+    "alias": "Jatibarang"
+  },
+  {
+    "code": "33.74.010.010",
+    "villageCode": "010",
+    "districtCode": "33.74.010",
+    "name": "Kedungpani",
+    "alias": "Kedungpani"
+  },
+  {
+    "code": "33.74.010.011",
+    "villageCode": "011",
+    "districtCode": "33.74.010",
+    "name": "Pesantren",
+    "alias": "Pesantren"
+  },
+  {
+    "code": "33.74.010.012",
+    "villageCode": "012",
+    "districtCode": "33.74.010",
+    "name": "Ngadirgo",
+    "alias": "Ngadirgo"
+  },
+  {
+    "code": "33.74.010.013",
+    "villageCode": "013",
+    "districtCode": "33.74.010",
+    "name": "Wonolopo",
+    "alias": "Wonolopo"
+  },
+  {
+    "code": "33.74.010.014",
+    "villageCode": "014",
+    "districtCode": "33.74.010",
+    "name": "Wonoplumbon",
+    "alias": "Wonoplumbon"
+  }
+]

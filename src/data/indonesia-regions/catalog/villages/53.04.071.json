@@ -1,0 +1,86 @@
+[
+  {
+    "code": "53.04.071.001",
+    "villageCode": "001",
+    "districtCode": "53.04.071",
+    "name": "Kolbano",
+    "alias": "Kolbano"
+  },
+  {
+    "code": "53.04.071.002",
+    "villageCode": "002",
+    "districtCode": "53.04.071",
+    "name": "Noesiu",
+    "alias": "Noesiu"
+  },
+  {
+    "code": "53.04.071.003",
+    "villageCode": "003",
+    "districtCode": "53.04.071",
+    "name": "Pene Selatan",
+    "alias": "Pene Selatan"
+  },
+  {
+    "code": "53.04.071.004",
+    "villageCode": "004",
+    "districtCode": "53.04.071",
+    "name": "Oetuke",
+    "alias": "Oetuke"
+  },
+  {
+    "code": "53.04.071.005",
+    "villageCode": "005",
+    "districtCode": "53.04.071",
+    "name": "Babuin",
+    "alias": "Babuin"
+  },
+  {
+    "code": "53.04.071.006",
+    "villageCode": "006",
+    "districtCode": "53.04.071",
+    "name": "Oeleu",
+    "alias": "Oeleu"
+  },
+  {
+    "code": "53.04.071.007",
+    "villageCode": "007",
+    "districtCode": "53.04.071",
+    "name": "Sei",
+    "alias": "Sei"
+  },
+  {
+    "code": "53.04.071.008",
+    "villageCode": "008",
+    "districtCode": "53.04.071",
+    "name": "Nununamat",
+    "alias": "Nununamat"
+  },
+  {
+    "code": "53.04.071.009",
+    "villageCode": "009",
+    "districtCode": "53.04.071",
+    "name": "Pana",
+    "alias": "Pana"
+  },
+  {
+    "code": "53.04.071.010",
+    "villageCode": "010",
+    "districtCode": "53.04.071",
+    "name": "Haunobenak",
+    "alias": "Haunobenak"
+  },
+  {
+    "code": "53.04.071.011",
+    "villageCode": "011",
+    "districtCode": "53.04.071",
+    "name": "Ofu",
+    "alias": "Ofu"
+  },
+  {
+    "code": "53.04.071.012",
+    "villageCode": "012",
+    "districtCode": "53.04.071",
+    "name": "Spaha",
+    "alias": "Spaha"
+  }
+]

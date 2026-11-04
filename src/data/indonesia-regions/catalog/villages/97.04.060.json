@@ -1,0 +1,72 @@
+[
+  {
+    "code": "97.04.060.001",
+    "villageCode": "001",
+    "districtCode": "97.04.060",
+    "name": "Wuluk",
+    "alias": "Wuluk"
+  },
+  {
+    "code": "97.04.060.002",
+    "villageCode": "002",
+    "districtCode": "97.04.060",
+    "name": "Wenggun",
+    "alias": "Wenggun"
+  },
+  {
+    "code": "97.04.060.003",
+    "villageCode": "003",
+    "districtCode": "97.04.060",
+    "name": "Posman",
+    "alias": "Posman"
+  },
+  {
+    "code": "97.04.060.004",
+    "villageCode": "004",
+    "districtCode": "97.04.060",
+    "name": "Kogagi",
+    "alias": "Kogagi"
+  },
+  {
+    "code": "97.04.060.005",
+    "villageCode": "005",
+    "districtCode": "97.04.060",
+    "name": "Tionggi",
+    "alias": "Tionggi"
+  },
+  {
+    "code": "97.04.060.006",
+    "villageCode": "006",
+    "districtCode": "97.04.060",
+    "name": "Yeli",
+    "alias": "Yeli"
+  },
+  {
+    "code": "97.04.060.007",
+    "villageCode": "007",
+    "districtCode": "97.04.060",
+    "name": "Agin",
+    "alias": "Agin"
+  },
+  {
+    "code": "97.04.060.008",
+    "villageCode": "008",
+    "districtCode": "97.04.060",
+    "name": "Wamigi",
+    "alias": "Wamigi"
+  },
+  {
+    "code": "97.04.060.009",
+    "villageCode": "009",
+    "districtCode": "97.04.060",
+    "name": "Kolanggun",
+    "alias": "Kolanggun"
+  },
+  {
+    "code": "97.04.060.010",
+    "villageCode": "010",
+    "districtCode": "97.04.060",
+    "name": "Yebena",
+    "alias": "Yebena"
+  }
+]

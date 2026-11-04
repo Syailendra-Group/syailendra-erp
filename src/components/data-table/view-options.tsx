@@ -34,7 +34,9 @@ export function DataTableViewOptions<TData>({ table }: DataTableViewOptionsProps
 
       <DropdownMenuContent align="end" className="w-37.5">
         <DropdownMenuLabel className="text-xs">{tCommon('toggleColumns')}</DropdownMenuLabel>
+
         <DropdownMenuSeparator />
+
         {table
           .getAllColumns()
           .filter((column) => typeof column.accessorFn !== 'undefined' && column.getCanHide())

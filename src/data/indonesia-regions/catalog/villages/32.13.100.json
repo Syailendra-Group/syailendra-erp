@@ -1,0 +1,58 @@
+[
+  {
+    "code": "32.13.100.002",
+    "villageCode": "002",
+    "districtCode": "32.13.100",
+    "name": "Cihambulu",
+    "alias": "Cihambulu"
+  },
+  {
+    "code": "32.13.100.003",
+    "villageCode": "003",
+    "districtCode": "32.13.100",
+    "name": "Siluman",
+    "alias": "Siluman"
+  },
+  {
+    "code": "32.13.100.004",
+    "villageCode": "004",
+    "districtCode": "32.13.100",
+    "name": "Pabuaran",
+    "alias": "Pabuaran"
+  },
+  {
+    "code": "32.13.100.005",
+    "villageCode": "005",
+    "districtCode": "32.13.100",
+    "name": "Salamjaya",
+    "alias": "Salamjaya"
+  },
+  {
+    "code": "32.13.100.006",
+    "villageCode": "006",
+    "districtCode": "32.13.100",
+    "name": "Kadawung",
+    "alias": "Kadawung"
+  },
+  {
+    "code": "32.13.100.007",
+    "villageCode": "007",
+    "districtCode": "32.13.100",
+    "name": "Pringkasap",
+    "alias": "Pringkasap"
+  },
+  {
+    "code": "32.13.100.008",
+    "villageCode": "008",
+    "districtCode": "32.13.100",
+    "name": "Karanghegar",
+    "alias": "Karanghegar"
+  },
+  {
+    "code": "32.13.100.011",
+    "villageCode": "011",
+    "districtCode": "32.13.100",
+    "name": "Balebandung Jaya",
+    "alias": "Balebandung Jaya"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "code": "73.07.010.001",
+    "villageCode": "001",
+    "districtCode": "73.07.010",
+    "name": "Gunung Perak",
+    "alias": "Gunung Perak"
+  },
+  {
+    "code": "73.07.010.002",
+    "villageCode": "002",
+    "districtCode": "73.07.010",
+    "name": "Balakia",
+    "alias": "Balakia"
+  },
+  {
+    "code": "73.07.010.003",
+    "villageCode": "003",
+    "districtCode": "73.07.010",
+    "name": "Tassililu",
+    "alias": "Tassililu"
+  },
+  {
+    "code": "73.07.010.004",
+    "villageCode": "004",
+    "districtCode": "73.07.010",
+    "name": "Arabika",
+    "alias": "Arabika"
+  },
+  {
+    "code": "73.07.010.005",
+    "villageCode": "005",
+    "districtCode": "73.07.010",
+    "name": "Barania",
+    "alias": "Barania"
+  },
+  {
+    "code": "73.07.010.006",
+    "villageCode": "006",
+    "districtCode": "73.07.010",
+    "name": "Boto Lempangan",
+    "alias": "Boto Lempangan"
+  },
+  {
+    "code": "73.07.010.007",
+    "villageCode": "007",
+    "districtCode": "73.07.010",
+    "name": "Bonto Salama",
+    "alias": "Bonto Salama"
+  },
+  {
+    "code": "73.07.010.008",
+    "villageCode": "008",
+    "districtCode": "73.07.010",
+    "name": "Turungan Baji",
+    "alias": "Turungan Baji"
+  },
+  {
+    "code": "73.07.010.009",
+    "villageCode": "009",
+    "districtCode": "73.07.010",
+    "name": "Terasa",
+    "alias": "Terasa"
+  }
+]

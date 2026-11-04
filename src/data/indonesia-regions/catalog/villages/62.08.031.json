@@ -1,0 +1,44 @@
+[
+  {
+    "code": "62.08.031.001",
+    "villageCode": "001",
+    "districtCode": "62.08.031",
+    "name": "Asam Baru",
+    "alias": "Asam Baru"
+  },
+  {
+    "code": "62.08.031.002",
+    "villageCode": "002",
+    "districtCode": "62.08.031",
+    "name": "Rungau Raya",
+    "alias": "Rungau Raya"
+  },
+  {
+    "code": "62.08.031.003",
+    "villageCode": "003",
+    "districtCode": "62.08.031",
+    "name": "Tanjung Hara",
+    "alias": "Tanjung Hara"
+  },
+  {
+    "code": "62.08.031.004",
+    "villageCode": "004",
+    "districtCode": "62.08.031",
+    "name": "Tanjung Paring",
+    "alias": "Tanjung Paring"
+  },
+  {
+    "code": "62.08.031.005",
+    "villageCode": "005",
+    "districtCode": "62.08.031",
+    "name": "Panimba Raya",
+    "alias": "Panimba Raya"
+  },
+  {
+    "code": "62.08.031.006",
+    "villageCode": "006",
+    "districtCode": "62.08.031",
+    "name": "Tanjung Rangas Ii",
+    "alias": "Tanjung Rangas Ii"
+  }
+]

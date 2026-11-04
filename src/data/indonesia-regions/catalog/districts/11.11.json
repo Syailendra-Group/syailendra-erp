@@ -1,0 +1,218 @@
+[
+  {
+    "code": "11.11.010",
+    "districtCode": "010",
+    "regencyCode": "11.11",
+    "provinceCode": "11",
+    "name": "Kecamatan Sawang",
+    "alias": "Sawang"
+  },
+  {
+    "code": "11.11.020",
+    "districtCode": "020",
+    "regencyCode": "11.11",
+    "provinceCode": "11",
+    "name": "Kecamatan Nisam",
+    "alias": "Nisam"
+  },
+  {
+    "code": "11.11.021",
+    "districtCode": "021",
+    "regencyCode": "11.11",
+    "provinceCode": "11",
+    "name": "Kecamatan Nisam Antara",
+    "alias": "Nisam Antara"
+  },
+  {
+    "code": "11.11.022",
+    "districtCode": "022",
+    "regencyCode": "11.11",
+    "provinceCode": "11",
+    "name": "Kecamatan Banda Baro",
+    "alias": "Banda Baro"
+  },
+  {
+    "code": "11.11.030",
+    "districtCode": "030",
+    "regencyCode": "11.11",
+    "provinceCode": "11",
+    "name": "Kecamatan Kuta Makmur",
+    "alias": "Kuta Makmur"
+  },
+  {
+    "code": "11.11.031",
+    "districtCode": "031",
+    "regencyCode": "11.11",
+    "provinceCode": "11",
+    "name": "Kecamatan Simpang Keramat",
+    "alias": "Simpang Keramat"
+  },
+  {
+    "code": "11.11.040",
+    "districtCode": "040",
+    "regencyCode": "11.11",
+    "provinceCode": "11",
+    "name": "Kecamatan Syamtalira Bayu",
+    "alias": "Syamtalira Bayu"
+  },
+  {
+    "code": "11.11.041",
+    "districtCode": "041",
+    "regencyCode": "11.11",
+    "provinceCode": "11",
+    "name": "Kecamatan Geureudong Pase",
+    "alias": "Geureudong Pase"
+  },
+  {
+    "code": "11.11.050",
+    "districtCode": "050",
+    "regencyCode": "11.11",
+    "provinceCode": "11",
+    "name": "Kecamatan Meurah Mulia",
+    "alias": "Meurah Mulia"
+  },
+  {
+    "code": "11.11.060",
+    "districtCode": "060",
+    "regencyCode": "11.11",
+    "provinceCode": "11",
+    "name": "Kecamatan Matangkuli",
+    "alias": "Matangkuli"
+  },
+  {
+    "code": "11.11.061",
+    "districtCode": "061",
+    "regencyCode": "11.11",
+    "provinceCode": "11",
+    "name": "Kecamatan Paya Bakong",
+    "alias": "Paya Bakong"
+  },
+  {
+    "code": "11.11.062",
+    "districtCode": "062",
+    "regencyCode": "11.11",
+    "provinceCode": "11",
+    "name": "Kecamatan Pirak Timu",
+    "alias": "Pirak Timu"
+  },
+  {
+    "code": "11.11.070",
+    "districtCode": "070",
+    "regencyCode": "11.11",
+    "provinceCode": "11",
+    "name": "Kecamatan Cot Girek",
+    "alias": "Cot Girek"
+  },
+  {
+    "code": "11.11.080",
+    "districtCode": "080",
+    "regencyCode": "11.11",
+    "provinceCode": "11",
+    "name": "Kecamatan Tanah Jambo Aye",
+    "alias": "Tanah Jambo Aye"
+  },
+  {
+    "code": "11.11.081",
+    "districtCode": "081",
+    "regencyCode": "11.11",
+    "provinceCode": "11",
+    "name": "Kecamatan Langkahan",
+    "alias": "Langkahan"
+  },
+  {
+    "code": "11.11.090",
+    "districtCode": "090",
+    "regencyCode": "11.11",
+    "provinceCode": "11",
+    "name": "Kecamatan Seunuddon",
+    "alias": "Seunuddon"
+  },
+  {
+    "code": "11.11.100",
+    "districtCode": "100",
+    "regencyCode": "11.11",
+    "provinceCode": "11",
+    "name": "Kecamatan Baktiya",
+    "alias": "Baktiya"
+  },
+  {
+    "code": "11.11.101",
+    "districtCode": "101",
+    "regencyCode": "11.11",
+    "provinceCode": "11",
+    "name": "Kecamatan Baktiya Barat",
+    "alias": "Baktiya Barat"
+  },
+  {
+    "code": "11.11.110",
+    "districtCode": "110",
+    "regencyCode": "11.11",
+    "provinceCode": "11",
+    "name": "Kecamatan Lhoksukon",
+    "alias": "Lhoksukon"
+  },
+  {
+    "code": "11.11.120",
+    "districtCode": "120",
+    "regencyCode": "11.11",
+    "provinceCode": "11",
+    "name": "Kecamatan Tanah Luas",
+    "alias": "Tanah Luas"
+  },
+  {
+    "code": "11.11.121",
+    "districtCode": "121",
+    "regencyCode": "11.11",
+    "provinceCode": "11",
+    "name": "Kecamatan Nibong",
+    "alias": "Nibong"
+  },
+  {
+    "code": "11.11.130",
+    "districtCode": "130",
+    "regencyCode": "11.11",
+    "provinceCode": "11",
+    "name": "Kecamatan Samudera",
+    "alias": "Samudera"
+  },
+  {
+    "code": "11.11.140",
+    "districtCode": "140",
+    "regencyCode": "11.11",
+    "provinceCode": "11",
+    "name": "Kecamatan Syamtalira Aron",
+    "alias": "Syamtalira Aron"
+  },
+  {
+    "code": "11.11.150",
+    "districtCode": "150",
+    "regencyCode": "11.11",
+    "provinceCode": "11",
+    "name": "Kecamatan Tanah Pasir",
+    "alias": "Tanah Pasir"
+  },
+  {
+    "code": "11.11.151",
+    "districtCode": "151",
+    "regencyCode": "11.11",
+    "provinceCode": "11",
+    "name": "Kecamatan Lapang",
+    "alias": "Lapang"
+  },
+  {
+    "code": "11.11.160",
+    "districtCode": "160",
+    "regencyCode": "11.11",
+    "provinceCode": "11",
+    "name": "Kecamatan Muara Batu",
+    "alias": "Muara Batu"
+  },
+  {
+    "code": "11.11.170",
+    "districtCode": "170",
+    "regencyCode": "11.11",
+    "provinceCode": "11",
+    "name": "Kecamatan Dewantara",
+    "alias": "Dewantara"
+  }
+]

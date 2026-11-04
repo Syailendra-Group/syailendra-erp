@@ -1,0 +1,58 @@
+[
+  {
+    "code": "71.05.082.001",
+    "villageCode": "001",
+    "districtCode": "71.05.082",
+    "name": "Toyopon",
+    "alias": "Toyopon"
+  },
+  {
+    "code": "71.05.082.002",
+    "villageCode": "002",
+    "districtCode": "71.05.082",
+    "name": "Keroit",
+    "alias": "Keroit"
+  },
+  {
+    "code": "71.05.082.003",
+    "villageCode": "003",
+    "districtCode": "71.05.082",
+    "name": "Raanan Baru I",
+    "alias": "Raanan Baru I"
+  },
+  {
+    "code": "71.05.082.004",
+    "villageCode": "004",
+    "districtCode": "71.05.082",
+    "name": "Raanan Baru",
+    "alias": "Raanan Baru"
+  },
+  {
+    "code": "71.05.082.005",
+    "villageCode": "005",
+    "districtCode": "71.05.082",
+    "name": "Raanan Baru Ii",
+    "alias": "Raanan Baru Ii"
+  },
+  {
+    "code": "71.05.082.006",
+    "villageCode": "006",
+    "districtCode": "71.05.082",
+    "name": "Tondei Satu",
+    "alias": "Tondei Satu"
+  },
+  {
+    "code": "71.05.082.007",
+    "villageCode": "007",
+    "districtCode": "71.05.082",
+    "name": "Tondei",
+    "alias": "Tondei"
+  },
+  {
+    "code": "71.05.082.008",
+    "villageCode": "008",
+    "districtCode": "71.05.082",
+    "name": "Tondei Dua",
+    "alias": "Tondei Dua"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "code": "51.03.010",
+    "districtCode": "010",
+    "regencyCode": "51.03",
+    "provinceCode": "51",
+    "name": "Kecamatan Kuta Selatan",
+    "alias": "Kuta Selatan"
+  },
+  {
+    "code": "51.03.020",
+    "districtCode": "020",
+    "regencyCode": "51.03",
+    "provinceCode": "51",
+    "name": "Kecamatan Kuta",
+    "alias": "Kuta"
+  },
+  {
+    "code": "51.03.030",
+    "districtCode": "030",
+    "regencyCode": "51.03",
+    "provinceCode": "51",
+    "name": "Kecamatan Kuta Utara",
+    "alias": "Kuta Utara"
+  },
+  {
+    "code": "51.03.040",
+    "districtCode": "040",
+    "regencyCode": "51.03",
+    "provinceCode": "51",
+    "name": "Kecamatan Mengwi",
+    "alias": "Mengwi"
+  },
+  {
+    "code": "51.03.050",
+    "districtCode": "050",
+    "regencyCode": "51.03",
+    "provinceCode": "51",
+    "name": "Kecamatan Abiansemal",
+    "alias": "Abiansemal"
+  },
+  {
+    "code": "51.03.060",
+    "districtCode": "060",
+    "regencyCode": "51.03",
+    "provinceCode": "51",
+    "name": "Kecamatan Petang",
+    "alias": "Petang"
+  }
+]

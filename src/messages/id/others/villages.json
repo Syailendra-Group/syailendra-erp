@@ -1,37 +1,39 @@
 {
   "title": "Master Kelurahan & Desa",
-  "subtitle": "Titik plot kebun hulu & kelompok tani binaan tingkat desa",
-  "primaryAction": "Tambah Kelurahan",
+  "subtitle": "Titik lokasi mikro kebun, kelompok tani, dan pos panen",
+  "primaryAction": "Tambah Kelurahan/Desa",
   "table": {
-    "name": "Desa / Kelurahan",
-    "code": "Kode BPS",
+    "name": "Kelurahan / Desa",
+    "code": "Kode",
+    "alias": "Alias",
     "district": "Kecamatan Induk",
-    "zipCode": "Kode Pos",
-    "status": "Status"
+    "zipCode": "Kode Pos"
   },
   "form": {
+    "catalogLabel": "Katalog 84.210 Kelurahan / Desa",
+    "catalogPlaceholder": "Pilih kelurahan / desa...",
     "parentLabel": "Kecamatan Induk",
     "parentPlaceholder": "Pilih Kecamatan",
-    "namePlaceholder": "Contoh: Desa Igirmranak",
+    "namePlaceholder": "Contoh: Desa Canggal",
     "aliasLabel": "Nama Alias (Dropdown)",
-    "aliasPlaceholder": "Contoh: Igirmranak",
+    "aliasPlaceholder": "Contoh: Canggal",
     "codePlaceholder": "Contoh: 33.23.08.2001",
-    "zipLabel": "Kode Pos",
+    "zipLabel": "Kode Pos (Postal Code)",
     "zipPlaceholder": "Contoh: 56354",
     "descLabel": "Deskripsi / Catatan Wilayah (Opsional)",
-    "descPlaceholder": "Sentra perkebunan atsiri, elevasi 1400 mdpl..."
+    "descPlaceholder": "Area perbukitan, ketinggian 1200 mdpl, sentra tanaman nilam..."
   },
   "dialog": {
     "addTitle": "Registrasi Kelurahan / Desa Baru",
-    "addDesc": "Daftarkan kelurahan atau desa baru ke dalam katalog wilayah sistem.",
+    "addDesc": "Daftarkan desa atau kelurahan baru ke dalam katalog wilayah sistem.",
     "editTitle": "Ubah Data Kelurahan / Desa",
-    "editDesc": "Perbarui kode pos, nama, atau kecamatan induk kelurahan/desa.",
-    "viewTitle": "Rincian Kelurahan / Desa",
-    "viewDesc": "Informasi data wilayah dan kecamatan induk terdaftar."
+    "editDesc": "Perbarui kode resmi, nama, kode pos, atau kecamatan induk.",
+    "viewTitle": "Rincian Data Kelurahan / Desa",
+    "viewDesc": "Informasi data wilayah, kode pos, dan kecamatan induk terdaftar."
   },
   "alert": {
     "parentMissingTitle": "Kecamatan Induk Belum Terdaftar",
-    "parentMissingDesc": "Kecamatan {district} belum ada di master data.",
+    "parentMissingDesc": "Kecamatan {district} belum ada di master data Odoo.",
     "autoAddLabel": "Otomatis daftarkan Kecamatan {district} ke Master Data"
   }
 }

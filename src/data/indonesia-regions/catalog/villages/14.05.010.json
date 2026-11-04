@@ -1,0 +1,37 @@
+[
+  {
+    "code": "14.05.010.005",
+    "villageCode": "005",
+    "districtCode": "14.05.010",
+    "name": "Mandi Angin",
+    "alias": "Mandi Angin"
+  },
+  {
+    "code": "14.05.010.006",
+    "villageCode": "006",
+    "districtCode": "14.05.010",
+    "name": "Minas Barat",
+    "alias": "Minas Barat"
+  },
+  {
+    "code": "14.05.010.007",
+    "villageCode": "007",
+    "districtCode": "14.05.010",
+    "name": "Rantau Bertuah",
+    "alias": "Rantau Bertuah"
+  },
+  {
+    "code": "14.05.010.008",
+    "villageCode": "008",
+    "districtCode": "14.05.010",
+    "name": "Minas Timur",
+    "alias": "Minas Timur"
+  },
+  {
+    "code": "14.05.010.009",
+    "villageCode": "009",
+    "districtCode": "14.05.010",
+    "name": "Minas Jaya",
+    "alias": "Minas Jaya"
+  }
+]

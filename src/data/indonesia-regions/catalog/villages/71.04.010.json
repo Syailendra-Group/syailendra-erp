@@ -1,0 +1,86 @@
+[
+  {
+    "code": "71.04.010.001",
+    "villageCode": "001",
+    "districtCode": "71.04.010",
+    "name": "Pangeran",
+    "alias": "Pangeran"
+  },
+  {
+    "code": "71.04.010.007",
+    "villageCode": "007",
+    "districtCode": "71.04.010",
+    "name": "Pantuge",
+    "alias": "Pantuge"
+  },
+  {
+    "code": "71.04.010.008",
+    "villageCode": "008",
+    "districtCode": "71.04.010",
+    "name": "Kabaruan",
+    "alias": "Kabaruan"
+  },
+  {
+    "code": "71.04.010.009",
+    "villageCode": "009",
+    "districtCode": "71.04.010",
+    "name": "Mangaran",
+    "alias": "Mangaran"
+  },
+  {
+    "code": "71.04.010.010",
+    "villageCode": "010",
+    "districtCode": "71.04.010",
+    "name": "Kordakel",
+    "alias": "Kordakel"
+  },
+  {
+    "code": "71.04.010.011",
+    "villageCode": "011",
+    "districtCode": "71.04.010",
+    "name": "Bulude",
+    "alias": "Bulude"
+  },
+  {
+    "code": "71.04.010.012",
+    "villageCode": "012",
+    "districtCode": "71.04.010",
+    "name": "Rarange",
+    "alias": "Rarange"
+  },
+  {
+    "code": "71.04.010.013",
+    "villageCode": "013",
+    "districtCode": "71.04.010",
+    "name": "Taduna",
+    "alias": "Taduna"
+  },
+  {
+    "code": "71.04.010.014",
+    "villageCode": "014",
+    "districtCode": "71.04.010",
+    "name": "Kabaruan Timur",
+    "alias": "Kabaruan Timur"
+  },
+  {
+    "code": "71.04.010.015",
+    "villageCode": "015",
+    "districtCode": "71.04.010",
+    "name": "Pantuge Timur",
+    "alias": "Pantuge Timur"
+  },
+  {
+    "code": "71.04.010.016",
+    "villageCode": "016",
+    "districtCode": "71.04.010",
+    "name": "Bulude Selatan",
+    "alias": "Bulude Selatan"
+  },
+  {
+    "code": "71.04.010.017",
+    "villageCode": "017",
+    "districtCode": "71.04.010",
+    "name": "Panulan",
+    "alias": "Panulan"
+  }
+]

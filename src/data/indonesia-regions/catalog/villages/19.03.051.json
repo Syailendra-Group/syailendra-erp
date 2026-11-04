@@ -1,0 +1,72 @@
+[
+  {
+    "code": "19.03.051.001",
+    "villageCode": "001",
+    "districtCode": "19.03.051",
+    "name": "Bakit",
+    "alias": "Bakit"
+  },
+  {
+    "code": "19.03.051.002",
+    "villageCode": "002",
+    "districtCode": "19.03.051",
+    "name": "Semulut",
+    "alias": "Semulut"
+  },
+  {
+    "code": "19.03.051.003",
+    "villageCode": "003",
+    "districtCode": "19.03.051",
+    "name": "Kapit",
+    "alias": "Kapit"
+  },
+  {
+    "code": "19.03.051.004",
+    "villageCode": "004",
+    "districtCode": "19.03.051",
+    "name": "Telak",
+    "alias": "Telak"
+  },
+  {
+    "code": "19.03.051.005",
+    "villageCode": "005",
+    "districtCode": "19.03.051",
+    "name": "Sekar Biru",
+    "alias": "Sekar Biru"
+  },
+  {
+    "code": "19.03.051.006",
+    "villageCode": "006",
+    "districtCode": "19.03.051",
+    "name": "Puput",
+    "alias": "Puput"
+  },
+  {
+    "code": "19.03.051.007",
+    "villageCode": "007",
+    "districtCode": "19.03.051",
+    "name": "Air Gantang",
+    "alias": "Air Gantang"
+  },
+  {
+    "code": "19.03.051.008",
+    "villageCode": "008",
+    "districtCode": "19.03.051",
+    "name": "Kelabat",
+    "alias": "Kelabat"
+  },
+  {
+    "code": "19.03.051.009",
+    "villageCode": "009",
+    "districtCode": "19.03.051",
+    "name": "Cupat",
+    "alias": "Cupat"
+  },
+  {
+    "code": "19.03.051.010",
+    "villageCode": "010",
+    "districtCode": "19.03.051",
+    "name": "Teluk Limau",
+    "alias": "Teluk Limau"
+  }
+]

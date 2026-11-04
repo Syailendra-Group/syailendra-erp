@@ -1,0 +1,37 @@
+[
+  {
+    "code": "36.71.042.001",
+    "villageCode": "001",
+    "districtCode": "36.71.042",
+    "name": "Gembor",
+    "alias": "Gembor"
+  },
+  {
+    "code": "36.71.042.002",
+    "villageCode": "002",
+    "districtCode": "36.71.042",
+    "name": "Gebang Raya",
+    "alias": "Gebang Raya"
+  },
+  {
+    "code": "36.71.042.003",
+    "villageCode": "003",
+    "districtCode": "36.71.042",
+    "name": "Sangiang Jaya",
+    "alias": "Sangiang Jaya"
+  },
+  {
+    "code": "36.71.042.004",
+    "villageCode": "004",
+    "districtCode": "36.71.042",
+    "name": "Periuk",
+    "alias": "Periuk"
+  },
+  {
+    "code": "36.71.042.005",
+    "villageCode": "005",
+    "districtCode": "36.71.042",
+    "name": "Periuk Jaya",
+    "alias": "Periuk Jaya"
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "code": "12.09.150.001",
+    "villageCode": "001",
+    "districtCode": "12.09.150",
+    "name": "Silenduk",
+    "alias": "Silenduk"
+  },
+  {
+    "code": "12.09.150.002",
+    "villageCode": "002",
+    "districtCode": "12.09.150",
+    "name": "Bah Tobu",
+    "alias": "Bah Tobu"
+  },
+  {
+    "code": "12.09.150.003",
+    "villageCode": "003",
+    "districtCode": "12.09.150",
+    "name": "Bandar Selamat",
+    "alias": "Bandar Selamat"
+  },
+  {
+    "code": "12.09.150.004",
+    "villageCode": "004",
+    "districtCode": "12.09.150",
+    "name": "Dolok Merangir Satu",
+    "alias": "Dolok Merangir Satu"
+  },
+  {
+    "code": "12.09.150.005",
+    "villageCode": "005",
+    "districtCode": "12.09.150",
+    "name": "Dolok Merangir Dua",
+    "alias": "Dolok Merangir Dua"
+  },
+  {
+    "code": "12.09.150.006",
+    "villageCode": "006",
+    "districtCode": "12.09.150",
+    "name": "Serbelawan",
+    "alias": "Serbelawan"
+  },
+  {
+    "code": "12.09.150.007",
+    "villageCode": "007",
+    "districtCode": "12.09.150",
+    "name": "Dolok Ilir Satu",
+    "alias": "Dolok Ilir Satu"
+  },
+  {
+    "code": "12.09.150.008",
+    "villageCode": "008",
+    "districtCode": "12.09.150",
+    "name": "Dolok Mainu",
+    "alias": "Dolok Mainu"
+  },
+  {
+    "code": "12.09.150.009",
+    "villageCode": "009",
+    "districtCode": "12.09.150",
+    "name": "Bahung Kahean",
+    "alias": "Bahung Kahean"
+  },
+  {
+    "code": "12.09.150.010",
+    "villageCode": "010",
+    "districtCode": "12.09.150",
+    "name": "Dolok Ilir Dua",
+    "alias": "Dolok Ilir Dua"
+  },
+  {
+    "code": "12.09.150.011",
+    "villageCode": "011",
+    "districtCode": "12.09.150",
+    "name": "Kahean",
+    "alias": "Kahean"
+  },
+  {
+    "code": "12.09.150.012",
+    "villageCode": "012",
+    "districtCode": "12.09.150",
+    "name": "Dolog Tenera",
+    "alias": "Dolog Tenera"
+  },
+  {
+    "code": "12.09.150.013",
+    "villageCode": "013",
+    "districtCode": "12.09.150",
+    "name": "Dolok Kataran",
+    "alias": "Dolok Kataran"
+  },
+  {
+    "code": "12.09.150.014",
+    "villageCode": "014",
+    "districtCode": "12.09.150",
+    "name": "Padang Mainu",
+    "alias": "Padang Mainu"
+  },
+  {
+    "code": "12.09.150.015",
+    "villageCode": "015",
+    "districtCode": "12.09.150",
+    "name": "Bahung Huluan",
+    "alias": "Bahung Huluan"
+  },
+  {
+    "code": "12.09.150.016",
+    "villageCode": "016",
+    "districtCode": "12.09.150",
+    "name": "Aman Sari",
+    "alias": "Aman Sari"
+  }
+]

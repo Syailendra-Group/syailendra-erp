@@ -1,0 +1,72 @@
+[
+  {
+    "code": "13.73.030.001",
+    "villageCode": "001",
+    "districtCode": "13.73.030",
+    "name": "Lumindai",
+    "alias": "Lumindai"
+  },
+  {
+    "code": "13.73.030.002",
+    "villageCode": "002",
+    "districtCode": "13.73.030",
+    "name": "Balai Batu Sandaran",
+    "alias": "Balai Batu Sandaran"
+  },
+  {
+    "code": "13.73.030.003",
+    "villageCode": "003",
+    "districtCode": "13.73.030",
+    "name": "Saringan",
+    "alias": "Saringan"
+  },
+  {
+    "code": "13.73.030.004",
+    "villageCode": "004",
+    "districtCode": "13.73.030",
+    "name": "Lubang Panjang",
+    "alias": "Lubang Panjang"
+  },
+  {
+    "code": "13.73.030.005",
+    "villageCode": "005",
+    "districtCode": "13.73.030",
+    "name": "Durian I",
+    "alias": "Durian I"
+  },
+  {
+    "code": "13.73.030.006",
+    "villageCode": "006",
+    "districtCode": "13.73.030",
+    "name": "Durian Ii",
+    "alias": "Durian Ii"
+  },
+  {
+    "code": "13.73.030.007",
+    "villageCode": "007",
+    "districtCode": "13.73.030",
+    "name": "Talago Gunung",
+    "alias": "Talago Gunung"
+  },
+  {
+    "code": "13.73.030.008",
+    "villageCode": "008",
+    "districtCode": "13.73.030",
+    "name": "Santua",
+    "alias": "Santua"
+  },
+  {
+    "code": "13.73.030.009",
+    "villageCode": "009",
+    "districtCode": "13.73.030",
+    "name": "Kolok Mudiak",
+    "alias": "Kolok Mudiak"
+  },
+  {
+    "code": "13.73.030.010",
+    "villageCode": "010",
+    "districtCode": "13.73.030",
+    "name": "Kolok Nan Tuo",
+    "alias": "Kolok Nan Tuo"
+  }
+]

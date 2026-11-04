@@ -1,0 +1,51 @@
+[
+  {
+    "code": "32.13.090.003",
+    "villageCode": "003",
+    "districtCode": "32.13.090",
+    "name": "Cimayasari",
+    "alias": "Cimayasari"
+  },
+  {
+    "code": "32.13.090.004",
+    "villageCode": "004",
+    "districtCode": "32.13.090",
+    "name": "Lengkong",
+    "alias": "Lengkong"
+  },
+  {
+    "code": "32.13.090.005",
+    "villageCode": "005",
+    "districtCode": "32.13.090",
+    "name": "Cipeundeuy",
+    "alias": "Cipeundeuy"
+  },
+  {
+    "code": "32.13.090.006",
+    "villageCode": "006",
+    "districtCode": "32.13.090",
+    "name": "Wantilan",
+    "alias": "Wantilan"
+  },
+  {
+    "code": "32.13.090.007",
+    "villageCode": "007",
+    "districtCode": "32.13.090",
+    "name": "Sawangan",
+    "alias": "Sawangan"
+  },
+  {
+    "code": "32.13.090.008",
+    "villageCode": "008",
+    "districtCode": "32.13.090",
+    "name": "Karangmukti",
+    "alias": "Karangmukti"
+  },
+  {
+    "code": "32.13.090.009",
+    "villageCode": "009",
+    "districtCode": "32.13.090",
+    "name": "Kosar",
+    "alias": "Kosar"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "code": "74.06.042.001",
+    "villageCode": "001",
+    "districtCode": "74.06.042",
+    "name": "Kolombi Mata Usu",
+    "alias": "Kolombi Mata Usu"
+  },
+  {
+    "code": "74.06.042.002",
+    "villageCode": "002",
+    "districtCode": "74.06.042",
+    "name": "Morengke",
+    "alias": "Morengke"
+  },
+  {
+    "code": "74.06.042.003",
+    "villageCode": "003",
+    "districtCode": "74.06.042",
+    "name": "Totole",
+    "alias": "Totole"
+  },
+  {
+    "code": "74.06.042.004",
+    "villageCode": "004",
+    "districtCode": "74.06.042",
+    "name": "Wia-Wia",
+    "alias": "Wia-Wia"
+  },
+  {
+    "code": "74.06.042.005",
+    "villageCode": "005",
+    "districtCode": "74.06.042",
+    "name": "Lamuru",
+    "alias": "Lamuru"
+  }
+]

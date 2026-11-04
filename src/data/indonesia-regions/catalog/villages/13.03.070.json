@@ -1,0 +1,44 @@
+[
+  {
+    "code": "13.03.070.001",
+    "villageCode": "001",
+    "districtCode": "13.03.070",
+    "name": "Koto Anau",
+    "alias": "Koto Anau"
+  },
+  {
+    "code": "13.03.070.002",
+    "villageCode": "002",
+    "districtCode": "13.03.070",
+    "name": "Batu Banyak",
+    "alias": "Batu Banyak"
+  },
+  {
+    "code": "13.03.070.003",
+    "villageCode": "003",
+    "districtCode": "13.03.070",
+    "name": "Limau Lunggo",
+    "alias": "Limau Lunggo"
+  },
+  {
+    "code": "13.03.070.004",
+    "villageCode": "004",
+    "districtCode": "13.03.070",
+    "name": "Koto Laweh",
+    "alias": "Koto Laweh"
+  },
+  {
+    "code": "13.03.070.005",
+    "villageCode": "005",
+    "districtCode": "13.03.070",
+    "name": "Salayo Tanang Bukik Sileh",
+    "alias": "Salayo Tanang Bukik Sileh"
+  },
+  {
+    "code": "13.03.070.006",
+    "villageCode": "006",
+    "districtCode": "13.03.070",
+    "name": "Batu Bajanjang",
+    "alias": "Batu Bajanjang"
+  }
+]

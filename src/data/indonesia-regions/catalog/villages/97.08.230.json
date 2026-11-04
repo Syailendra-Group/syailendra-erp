@@ -1,0 +1,72 @@
+[
+  {
+    "code": "97.08.230.001",
+    "villageCode": "001",
+    "districtCode": "97.08.230",
+    "name": "Teiraplu",
+    "alias": "Teiraplu"
+  },
+  {
+    "code": "97.08.230.002",
+    "villageCode": "002",
+    "districtCode": "97.08.230",
+    "name": "Bautme",
+    "alias": "Bautme"
+  },
+  {
+    "code": "97.08.230.003",
+    "villageCode": "003",
+    "districtCode": "97.08.230",
+    "name": "Sinami",
+    "alias": "Sinami"
+  },
+  {
+    "code": "97.08.230.004",
+    "villageCode": "004",
+    "districtCode": "97.08.230",
+    "name": "Maigame",
+    "alias": "Maigame"
+  },
+  {
+    "code": "97.08.230.005",
+    "villageCode": "005",
+    "districtCode": "97.08.230",
+    "name": "Terapdei",
+    "alias": "Terapdei"
+  },
+  {
+    "code": "97.08.230.006",
+    "villageCode": "006",
+    "districtCode": "97.08.230",
+    "name": "Yitarget",
+    "alias": "Yitarget"
+  },
+  {
+    "code": "97.08.230.007",
+    "villageCode": "007",
+    "districtCode": "97.08.230",
+    "name": "Murme",
+    "alias": "Murme"
+  },
+  {
+    "code": "97.08.230.008",
+    "villageCode": "008",
+    "districtCode": "97.08.230",
+    "name": "Yuaban Satu",
+    "alias": "Yuaban Satu"
+  },
+  {
+    "code": "97.08.230.009",
+    "villageCode": "009",
+    "districtCode": "97.08.230",
+    "name": "Yuaban Dua",
+    "alias": "Yuaban Dua"
+  },
+  {
+    "code": "97.08.230.010",
+    "villageCode": "010",
+    "districtCode": "97.08.230",
+    "name": "Teriame",
+    "alias": "Teriame"
+  }
+]

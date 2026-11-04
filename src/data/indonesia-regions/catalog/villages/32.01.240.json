@@ -1,0 +1,65 @@
+[
+  {
+    "code": "32.01.240.009",
+    "villageCode": "009",
+    "districtCode": "32.01.240",
+    "name": "Iwul",
+    "alias": "Iwul"
+  },
+  {
+    "code": "32.01.240.010",
+    "villageCode": "010",
+    "districtCode": "32.01.240",
+    "name": "Jabon Mekar",
+    "alias": "Jabon Mekar"
+  },
+  {
+    "code": "32.01.240.011",
+    "villageCode": "011",
+    "districtCode": "32.01.240",
+    "name": "Pamager Sari",
+    "alias": "Pamager Sari"
+  },
+  {
+    "code": "32.01.240.012",
+    "villageCode": "012",
+    "districtCode": "32.01.240",
+    "name": "Parung",
+    "alias": "Parung"
+  },
+  {
+    "code": "32.01.240.013",
+    "villageCode": "013",
+    "districtCode": "32.01.240",
+    "name": "Waru",
+    "alias": "Waru"
+  },
+  {
+    "code": "32.01.240.014",
+    "villageCode": "014",
+    "districtCode": "32.01.240",
+    "name": "Warujaya",
+    "alias": "Warujaya"
+  },
+  {
+    "code": "32.01.240.015",
+    "villageCode": "015",
+    "districtCode": "32.01.240",
+    "name": "Bojong Sempu",
+    "alias": "Bojong Sempu"
+  },
+  {
+    "code": "32.01.240.016",
+    "villageCode": "016",
+    "districtCode": "32.01.240",
+    "name": "Bojong Indah",
+    "alias": "Bojong Indah"
+  },
+  {
+    "code": "32.01.240.017",
+    "villageCode": "017",
+    "districtCode": "32.01.240",
+    "name": "Cogreg",
+    "alias": "Cogreg"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "code": "71.02.251.001",
+    "villageCode": "001",
+    "districtCode": "71.02.251",
+    "name": "Sumalangka",
+    "alias": "Sumalangka"
+  },
+  {
+    "code": "71.02.251.002",
+    "villageCode": "002",
+    "districtCode": "71.02.251",
+    "name": "Sasaran",
+    "alias": "Sasaran"
+  },
+  {
+    "code": "71.02.251.003",
+    "villageCode": "003",
+    "districtCode": "71.02.251",
+    "name": "Kembuan",
+    "alias": "Kembuan"
+  },
+  {
+    "code": "71.02.251.004",
+    "villageCode": "004",
+    "districtCode": "71.02.251",
+    "name": "Tonsea Lama",
+    "alias": "Tonsea Lama"
+  },
+  {
+    "code": "71.02.251.005",
+    "villageCode": "005",
+    "districtCode": "71.02.251",
+    "name": "Kampung Jawa",
+    "alias": "Kampung Jawa"
+  },
+  {
+    "code": "71.02.251.006",
+    "villageCode": "006",
+    "districtCode": "71.02.251",
+    "name": "Wulauan",
+    "alias": "Wulauan"
+  },
+  {
+    "code": "71.02.251.007",
+    "villageCode": "007",
+    "districtCode": "71.02.251",
+    "name": "Marawas",
+    "alias": "Marawas"
+  },
+  {
+    "code": "71.02.251.008",
+    "villageCode": "008",
+    "districtCode": "71.02.251",
+    "name": "Kembuan Satu",
+    "alias": "Kembuan Satu"
+  }
+]

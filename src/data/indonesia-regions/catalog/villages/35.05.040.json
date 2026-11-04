@@ -1,0 +1,58 @@
+[
+  {
+    "code": "35.05.040.001",
+    "villageCode": "001",
+    "districtCode": "35.05.040",
+    "name": "Ringin Rejo",
+    "alias": "Ringin Rejo"
+  },
+  {
+    "code": "35.05.040.002",
+    "villageCode": "002",
+    "districtCode": "35.05.040",
+    "name": "Sukorejo",
+    "alias": "Sukorejo"
+  },
+  {
+    "code": "35.05.040.003",
+    "villageCode": "003",
+    "districtCode": "35.05.040",
+    "name": "Tugu Rejo",
+    "alias": "Tugu Rejo"
+  },
+  {
+    "code": "35.05.040.004",
+    "villageCode": "004",
+    "districtCode": "35.05.040",
+    "name": "Wates",
+    "alias": "Wates"
+  },
+  {
+    "code": "35.05.040.005",
+    "villageCode": "005",
+    "districtCode": "35.05.040",
+    "name": "Tulungrejo",
+    "alias": "Tulungrejo"
+  },
+  {
+    "code": "35.05.040.006",
+    "villageCode": "006",
+    "districtCode": "35.05.040",
+    "name": "Purworejo",
+    "alias": "Purworejo"
+  },
+  {
+    "code": "35.05.040.007",
+    "villageCode": "007",
+    "districtCode": "35.05.040",
+    "name": "Sumberarum",
+    "alias": "Sumberarum"
+  },
+  {
+    "code": "35.05.040.008",
+    "villageCode": "008",
+    "districtCode": "35.05.040",
+    "name": "Mojorejo",
+    "alias": "Mojorejo"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "code": "82.03.021.001",
+    "villageCode": "001",
+    "districtCode": "82.03.021",
+    "name": "Bega",
+    "alias": "Bega"
+  },
+  {
+    "code": "82.03.021.002",
+    "villageCode": "002",
+    "districtCode": "82.03.021",
+    "name": "Fat-Iba",
+    "alias": "Fat-Iba"
+  },
+  {
+    "code": "82.03.021.003",
+    "villageCode": "003",
+    "districtCode": "82.03.021",
+    "name": "Waiman",
+    "alias": "Waiman"
+  },
+  {
+    "code": "82.03.021.004",
+    "villageCode": "004",
+    "districtCode": "82.03.021",
+    "name": "Soamole",
+    "alias": "Soamole"
+  },
+  {
+    "code": "82.03.021.005",
+    "villageCode": "005",
+    "districtCode": "82.03.021",
+    "name": "Wai Boga",
+    "alias": "Wai Boga"
+  },
+  {
+    "code": "82.03.021.006",
+    "villageCode": "006",
+    "districtCode": "82.03.021",
+    "name": "Manaf",
+    "alias": "Manaf"
+  },
+  {
+    "code": "82.03.021.007",
+    "villageCode": "007",
+    "districtCode": "82.03.021",
+    "name": "Umaga",
+    "alias": "Umaga"
+  }
+]

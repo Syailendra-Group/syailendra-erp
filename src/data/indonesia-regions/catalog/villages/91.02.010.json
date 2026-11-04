@@ -1,0 +1,72 @@
+[
+  {
+    "code": "91.02.010.001",
+    "villageCode": "001",
+    "districtCode": "91.02.010",
+    "name": "Adijaya",
+    "alias": "Adijaya"
+  },
+  {
+    "code": "91.02.010.002",
+    "villageCode": "002",
+    "districtCode": "91.02.010",
+    "name": "Nusa Ulan",
+    "alias": "Nusa Ulan"
+  },
+  {
+    "code": "91.02.010.003",
+    "villageCode": "003",
+    "districtCode": "91.02.010",
+    "name": "Kambala",
+    "alias": "Kambala"
+  },
+  {
+    "code": "91.02.010.004",
+    "villageCode": "004",
+    "districtCode": "91.02.010",
+    "name": "Yarona",
+    "alias": "Yarona"
+  },
+  {
+    "code": "91.02.010.005",
+    "villageCode": "005",
+    "districtCode": "91.02.010",
+    "name": "Hia",
+    "alias": "Hia"
+  },
+  {
+    "code": "91.02.010.006",
+    "villageCode": "006",
+    "districtCode": "91.02.010",
+    "name": "Tairi",
+    "alias": "Tairi"
+  },
+  {
+    "code": "91.02.010.007",
+    "villageCode": "007",
+    "districtCode": "91.02.010",
+    "name": "Guriasa",
+    "alias": "Guriasa"
+  },
+  {
+    "code": "91.02.010.008",
+    "villageCode": "008",
+    "districtCode": "91.02.010",
+    "name": "Gaka",
+    "alias": "Gaka"
+  },
+  {
+    "code": "91.02.010.009",
+    "villageCode": "009",
+    "districtCode": "91.02.010",
+    "name": "Esania",
+    "alias": "Esania"
+  },
+  {
+    "code": "91.02.010.010",
+    "villageCode": "010",
+    "districtCode": "91.02.010",
+    "name": "Edor",
+    "alias": "Edor"
+  }
+]

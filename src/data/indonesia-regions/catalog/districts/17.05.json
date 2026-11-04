@@ -1,0 +1,114 @@
+[
+  {
+    "code": "17.05.010",
+    "districtCode": "010",
+    "regencyCode": "17.05",
+    "provinceCode": "17",
+    "name": "Kecamatan Semidang Alas Maras",
+    "alias": "Semidang Alas Maras"
+  },
+  {
+    "code": "17.05.020",
+    "districtCode": "020",
+    "regencyCode": "17.05",
+    "provinceCode": "17",
+    "name": "Kecamatan Semidang Alas",
+    "alias": "Semidang Alas"
+  },
+  {
+    "code": "17.05.030",
+    "districtCode": "030",
+    "regencyCode": "17.05",
+    "provinceCode": "17",
+    "name": "Kecamatan Talo",
+    "alias": "Talo"
+  },
+  {
+    "code": "17.05.031",
+    "districtCode": "031",
+    "regencyCode": "17.05",
+    "provinceCode": "17",
+    "name": "Kecamatan Ilir Talo",
+    "alias": "Ilir Talo"
+  },
+  {
+    "code": "17.05.032",
+    "districtCode": "032",
+    "regencyCode": "17.05",
+    "provinceCode": "17",
+    "name": "Kecamatan Talo Kecil",
+    "alias": "Talo Kecil"
+  },
+  {
+    "code": "17.05.033",
+    "districtCode": "033",
+    "regencyCode": "17.05",
+    "provinceCode": "17",
+    "name": "Kecamatan Ulu Talo",
+    "alias": "Ulu Talo"
+  },
+  {
+    "code": "17.05.040",
+    "districtCode": "040",
+    "regencyCode": "17.05",
+    "provinceCode": "17",
+    "name": "Kecamatan Seluma",
+    "alias": "Seluma"
+  },
+  {
+    "code": "17.05.041",
+    "districtCode": "041",
+    "regencyCode": "17.05",
+    "provinceCode": "17",
+    "name": "Kecamatan Seluma Selatan",
+    "alias": "Seluma Selatan"
+  },
+  {
+    "code": "17.05.042",
+    "districtCode": "042",
+    "regencyCode": "17.05",
+    "provinceCode": "17",
+    "name": "Kecamatan Seluma Barat",
+    "alias": "Seluma Barat"
+  },
+  {
+    "code": "17.05.043",
+    "districtCode": "043",
+    "regencyCode": "17.05",
+    "provinceCode": "17",
+    "name": "Kecamatan Seluma Timur",
+    "alias": "Seluma Timur"
+  },
+  {
+    "code": "17.05.044",
+    "districtCode": "044",
+    "regencyCode": "17.05",
+    "provinceCode": "17",
+    "name": "Kecamatan Seluma Utara",
+    "alias": "Seluma Utara"
+  },
+  {
+    "code": "17.05.050",
+    "districtCode": "050",
+    "regencyCode": "17.05",
+    "provinceCode": "17",
+    "name": "Kecamatan Sukaraja",
+    "alias": "Sukaraja"
+  },
+  {
+    "code": "17.05.051",
+    "districtCode": "051",
+    "regencyCode": "17.05",
+    "provinceCode": "17",
+    "name": "Kecamatan Air Periukan",
+    "alias": "Air Periukan"
+  },
+  {
+    "code": "17.05.052",
+    "districtCode": "052",
+    "regencyCode": "17.05",
+    "provinceCode": "17",
+    "name": "Kecamatan Lubuk Sandi",
+    "alias": "Lubuk Sandi"
+  }
+]

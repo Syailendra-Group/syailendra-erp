@@ -1,0 +1,72 @@
+[
+  {
+    "code": "33.09.010.001",
+    "villageCode": "001",
+    "districtCode": "33.09.010",
+    "name": "Tlogolele",
+    "alias": "Tlogolele"
+  },
+  {
+    "code": "33.09.010.002",
+    "villageCode": "002",
+    "districtCode": "33.09.010",
+    "name": "Klakah",
+    "alias": "Klakah"
+  },
+  {
+    "code": "33.09.010.003",
+    "villageCode": "003",
+    "districtCode": "33.09.010",
+    "name": "Jrakah",
+    "alias": "Jrakah"
+  },
+  {
+    "code": "33.09.010.004",
+    "villageCode": "004",
+    "districtCode": "33.09.010",
+    "name": "Lencoh",
+    "alias": "Lencoh"
+  },
+  {
+    "code": "33.09.010.005",
+    "villageCode": "005",
+    "districtCode": "33.09.010",
+    "name": "Suroteleng",
+    "alias": "Suroteleng"
+  },
+  {
+    "code": "33.09.010.006",
+    "villageCode": "006",
+    "districtCode": "33.09.010",
+    "name": "Samiran",
+    "alias": "Samiran"
+  },
+  {
+    "code": "33.09.010.007",
+    "villageCode": "007",
+    "districtCode": "33.09.010",
+    "name": "Selo",
+    "alias": "Selo"
+  },
+  {
+    "code": "33.09.010.008",
+    "villageCode": "008",
+    "districtCode": "33.09.010",
+    "name": "Tarubatang",
+    "alias": "Tarubatang"
+  },
+  {
+    "code": "33.09.010.009",
+    "villageCode": "009",
+    "districtCode": "33.09.010",
+    "name": "Senden",
+    "alias": "Senden"
+  },
+  {
+    "code": "33.09.010.010",
+    "villageCode": "010",
+    "districtCode": "33.09.010",
+    "name": "Jeruk",
+    "alias": "Jeruk"
+  }
+]

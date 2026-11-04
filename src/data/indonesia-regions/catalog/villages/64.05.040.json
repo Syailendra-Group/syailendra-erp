@@ -1,0 +1,37 @@
+[
+  {
+    "code": "64.05.040.001",
+    "villageCode": "001",
+    "districtCode": "64.05.040",
+    "name": "Pegat",
+    "alias": "Pegat"
+  },
+  {
+    "code": "64.05.040.002",
+    "villageCode": "002",
+    "districtCode": "64.05.040",
+    "name": "Teluk Semanting",
+    "alias": "Teluk Semanting"
+  },
+  {
+    "code": "64.05.040.003",
+    "villageCode": "003",
+    "districtCode": "64.05.040",
+    "name": "Tanjung Batu",
+    "alias": "Tanjung Batu"
+  },
+  {
+    "code": "64.05.040.004",
+    "villageCode": "004",
+    "districtCode": "64.05.040",
+    "name": "Pulau Derawan",
+    "alias": "Pulau Derawan"
+  },
+  {
+    "code": "64.05.040.005",
+    "villageCode": "005",
+    "districtCode": "64.05.040",
+    "name": "Kasai",
+    "alias": "Kasai"
+  }
+]

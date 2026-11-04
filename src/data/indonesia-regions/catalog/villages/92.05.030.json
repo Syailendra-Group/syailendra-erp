@@ -1,0 +1,44 @@
+[
+  {
+    "code": "92.05.030.001",
+    "villageCode": "001",
+    "districtCode": "92.05.030",
+    "name": "Metbelum",
+    "alias": "Metbelum"
+  },
+  {
+    "code": "92.05.030.002",
+    "villageCode": "002",
+    "districtCode": "92.05.030",
+    "name": "Metbesa",
+    "alias": "Metbesa"
+  },
+  {
+    "code": "92.05.030.003",
+    "villageCode": "003",
+    "districtCode": "92.05.030",
+    "name": "Sumbekas",
+    "alias": "Sumbekas"
+  },
+  {
+    "code": "92.05.030.004",
+    "villageCode": "004",
+    "districtCode": "92.05.030",
+    "name": "Salem",
+    "alias": "Salem"
+  },
+  {
+    "code": "92.05.030.005",
+    "villageCode": "005",
+    "districtCode": "92.05.030",
+    "name": "Metnayam",
+    "alias": "Metnayam"
+  },
+  {
+    "code": "92.05.030.006",
+    "villageCode": "006",
+    "districtCode": "92.05.030",
+    "name": "Baun",
+    "alias": "Baun"
+  }
+]

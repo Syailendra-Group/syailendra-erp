@@ -1,0 +1,72 @@
+[
+  {
+    "code": "63.01.010.001",
+    "villageCode": "001",
+    "districtCode": "63.01.010",
+    "name": "Batakan",
+    "alias": "Batakan"
+  },
+  {
+    "code": "63.01.010.002",
+    "villageCode": "002",
+    "districtCode": "63.01.010",
+    "name": "Tanjung Dewa",
+    "alias": "Tanjung Dewa"
+  },
+  {
+    "code": "63.01.010.003",
+    "villageCode": "003",
+    "districtCode": "63.01.010",
+    "name": "Kandangan Lama",
+    "alias": "Kandangan Lama"
+  },
+  {
+    "code": "63.01.010.004",
+    "villageCode": "004",
+    "districtCode": "63.01.010",
+    "name": "Batu Tungku",
+    "alias": "Batu Tungku"
+  },
+  {
+    "code": "63.01.010.005",
+    "villageCode": "005",
+    "districtCode": "63.01.010",
+    "name": "Kuringkit",
+    "alias": "Kuringkit"
+  },
+  {
+    "code": "63.01.010.006",
+    "villageCode": "006",
+    "districtCode": "63.01.010",
+    "name": "Bumi Asih",
+    "alias": "Bumi Asih"
+  },
+  {
+    "code": "63.01.010.007",
+    "villageCode": "007",
+    "districtCode": "63.01.010",
+    "name": "Batu Mulya",
+    "alias": "Batu Mulya"
+  },
+  {
+    "code": "63.01.010.008",
+    "villageCode": "008",
+    "districtCode": "63.01.010",
+    "name": "Suka Ramah",
+    "alias": "Suka Ramah"
+  },
+  {
+    "code": "63.01.010.009",
+    "villageCode": "009",
+    "districtCode": "63.01.010",
+    "name": "Panyipatan",
+    "alias": "Panyipatan"
+  },
+  {
+    "code": "63.01.010.010",
+    "villageCode": "010",
+    "districtCode": "63.01.010",
+    "name": "Kandangan Baru",
+    "alias": "Kandangan Baru"
+  }
+]

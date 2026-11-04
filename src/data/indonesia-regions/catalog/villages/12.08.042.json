@@ -1,0 +1,37 @@
+[
+  {
+    "code": "12.08.042.001",
+    "villageCode": "001",
+    "districtCode": "12.08.042",
+    "name": "Sei Lunang",
+    "alias": "Sei Lunang"
+  },
+  {
+    "code": "12.08.042.002",
+    "villageCode": "002",
+    "districtCode": "12.08.042",
+    "name": "Sei Pasir",
+    "alias": "Sei Pasir"
+  },
+  {
+    "code": "12.08.042.003",
+    "villageCode": "003",
+    "districtCode": "12.08.042",
+    "name": "Sei Tempurung",
+    "alias": "Sei Tempurung"
+  },
+  {
+    "code": "12.08.042.004",
+    "villageCode": "004",
+    "districtCode": "12.08.042",
+    "name": "Sarang Helang",
+    "alias": "Sarang Helang"
+  },
+  {
+    "code": "12.08.042.005",
+    "villageCode": "005",
+    "districtCode": "12.08.042",
+    "name": "Sei Sembilang",
+    "alias": "Sei Sembilang"
+  }
+]

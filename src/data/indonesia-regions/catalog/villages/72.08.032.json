@@ -1,0 +1,65 @@
+[
+  {
+    "code": "72.08.032.001",
+    "villageCode": "001",
+    "districtCode": "72.08.032",
+    "name": "Tomoli",
+    "alias": "Tomoli"
+  },
+  {
+    "code": "72.08.032.002",
+    "villageCode": "002",
+    "districtCode": "72.08.032",
+    "name": "Singura",
+    "alias": "Singura"
+  },
+  {
+    "code": "72.08.032.003",
+    "villageCode": "003",
+    "districtCode": "72.08.032",
+    "name": "Toribulu",
+    "alias": "Toribulu"
+  },
+  {
+    "code": "72.08.032.004",
+    "villageCode": "004",
+    "districtCode": "72.08.032",
+    "name": "Sienjo",
+    "alias": "Sienjo"
+  },
+  {
+    "code": "72.08.032.005",
+    "villageCode": "005",
+    "districtCode": "72.08.032",
+    "name": "Pinotu",
+    "alias": "Pinotu"
+  },
+  {
+    "code": "72.08.032.006",
+    "villageCode": "006",
+    "districtCode": "72.08.032",
+    "name": "Tomoli Selatan",
+    "alias": "Tomoli Selatan"
+  },
+  {
+    "code": "72.08.032.007",
+    "villageCode": "007",
+    "districtCode": "72.08.032",
+    "name": "Sibalago",
+    "alias": "Sibalago"
+  },
+  {
+    "code": "72.08.032.008",
+    "villageCode": "008",
+    "districtCode": "72.08.032",
+    "name": "Tomoli Utara",
+    "alias": "Tomoli Utara"
+  },
+  {
+    "code": "72.08.032.009",
+    "villageCode": "009",
+    "districtCode": "72.08.032",
+    "name": "Toribulu Selatan",
+    "alias": "Toribulu Selatan"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "code": "36.03.210.001",
+    "villageCode": "001",
+    "districtCode": "36.03.210",
+    "name": "Rawa Rengas",
+    "alias": "Rawa Rengas"
+  },
+  {
+    "code": "36.03.210.002",
+    "villageCode": "002",
+    "districtCode": "36.03.210",
+    "name": "Rawa Burung",
+    "alias": "Rawa Burung"
+  },
+  {
+    "code": "36.03.210.003",
+    "villageCode": "003",
+    "districtCode": "36.03.210",
+    "name": "Belimbing",
+    "alias": "Belimbing"
+  },
+  {
+    "code": "36.03.210.004",
+    "villageCode": "004",
+    "districtCode": "36.03.210",
+    "name": "Jatimulya",
+    "alias": "Jatimulya"
+  },
+  {
+    "code": "36.03.210.005",
+    "villageCode": "005",
+    "districtCode": "36.03.210",
+    "name": "D A D A P",
+    "alias": "D A D A P"
+  },
+  {
+    "code": "36.03.210.006",
+    "villageCode": "006",
+    "districtCode": "36.03.210",
+    "name": "Kosambi Timur",
+    "alias": "Kosambi Timur"
+  },
+  {
+    "code": "36.03.210.007",
+    "villageCode": "007",
+    "districtCode": "36.03.210",
+    "name": "Kosambi Barat",
+    "alias": "Kosambi Barat"
+  },
+  {
+    "code": "36.03.210.008",
+    "villageCode": "008",
+    "districtCode": "36.03.210",
+    "name": "Cengklong",
+    "alias": "Cengklong"
+  },
+  {
+    "code": "36.03.210.009",
+    "villageCode": "009",
+    "districtCode": "36.03.210",
+    "name": "Salembaran Jati",
+    "alias": "Salembaran Jati"
+  },
+  {
+    "code": "36.03.210.010",
+    "villageCode": "010",
+    "districtCode": "36.03.210",
+    "name": "Salembaran Jaya",
+    "alias": "Salembaran Jaya"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "code": "97.03.040.001",
+    "villageCode": "001",
+    "districtCode": "97.03.040",
+    "name": "Juta",
+    "alias": "Juta"
+  },
+  {
+    "code": "97.03.040.002",
+    "villageCode": "002",
+    "districtCode": "97.03.040",
+    "name": "Gondura",
+    "alias": "Gondura"
+  },
+  {
+    "code": "97.03.040.003",
+    "villageCode": "003",
+    "districtCode": "97.03.040",
+    "name": "Tigima",
+    "alias": "Tigima"
+  },
+  {
+    "code": "97.03.040.004",
+    "villageCode": "004",
+    "districtCode": "97.03.040",
+    "name": "Pirambor",
+    "alias": "Pirambor"
+  },
+  {
+    "code": "97.03.040.005",
+    "villageCode": "005",
+    "districtCode": "97.03.040",
+    "name": "Wanggu",
+    "alias": "Wanggu"
+  },
+  {
+    "code": "97.03.040.006",
+    "villageCode": "006",
+    "districtCode": "97.03.040",
+    "name": "Murtani",
+    "alias": "Murtani"
+  },
+  {
+    "code": "97.03.040.007",
+    "villageCode": "007",
+    "districtCode": "97.03.040",
+    "name": "Beam",
+    "alias": "Beam"
+  },
+  {
+    "code": "97.03.040.008",
+    "villageCode": "008",
+    "districtCode": "97.03.040",
+    "name": "Kulip",
+    "alias": "Kulip"
+  },
+  {
+    "code": "97.03.040.009",
+    "villageCode": "009",
+    "districtCode": "97.03.040",
+    "name": "Gelok",
+    "alias": "Gelok"
+  }
+]

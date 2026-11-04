@@ -1,0 +1,44 @@
+[
+  {
+    "code": "14.03.051.001",
+    "villageCode": "001",
+    "districtCode": "14.03.051",
+    "name": "Concong Luar",
+    "alias": "Concong Luar"
+  },
+  {
+    "code": "14.03.051.002",
+    "villageCode": "002",
+    "districtCode": "14.03.051",
+    "name": "Kampung Baru",
+    "alias": "Kampung Baru"
+  },
+  {
+    "code": "14.03.051.003",
+    "villageCode": "003",
+    "districtCode": "14.03.051",
+    "name": "Concong Tengah",
+    "alias": "Concong Tengah"
+  },
+  {
+    "code": "14.03.051.004",
+    "villageCode": "004",
+    "districtCode": "14.03.051",
+    "name": "Concong Dalam",
+    "alias": "Concong Dalam"
+  },
+  {
+    "code": "14.03.051.005",
+    "villageCode": "005",
+    "districtCode": "14.03.051",
+    "name": "Sungai Berapit",
+    "alias": "Sungai Berapit"
+  },
+  {
+    "code": "14.03.051.006",
+    "villageCode": "006",
+    "districtCode": "14.03.051",
+    "name": "Panglima Raja",
+    "alias": "Panglima Raja"
+  }
+]

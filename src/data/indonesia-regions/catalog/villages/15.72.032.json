@@ -1,0 +1,44 @@
+[
+  {
+    "code": "15.72.032.001",
+    "villageCode": "001",
+    "districtCode": "15.72.032",
+    "name": "Sumur Anyir",
+    "alias": "Sumur Anyir"
+  },
+  {
+    "code": "15.72.032.002",
+    "villageCode": "002",
+    "districtCode": "15.72.032",
+    "name": "Pelayang Raya",
+    "alias": "Pelayang Raya"
+  },
+  {
+    "code": "15.72.032.003",
+    "villageCode": "003",
+    "districtCode": "15.72.032",
+    "name": "Talang Lindung",
+    "alias": "Talang Lindung"
+  },
+  {
+    "code": "15.72.032.004",
+    "villageCode": "004",
+    "districtCode": "15.72.032",
+    "name": "Sungai Ning",
+    "alias": "Sungai Ning"
+  },
+  {
+    "code": "15.72.032.005",
+    "villageCode": "005",
+    "districtCode": "15.72.032",
+    "name": "Koto Tinggi",
+    "alias": "Koto Tinggi"
+  },
+  {
+    "code": "15.72.032.006",
+    "villageCode": "006",
+    "districtCode": "15.72.032",
+    "name": "Dusun Baru",
+    "alias": "Dusun Baru"
+  }
+]

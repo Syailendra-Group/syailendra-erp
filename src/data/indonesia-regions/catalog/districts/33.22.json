@@ -1,0 +1,154 @@
+[
+  {
+    "code": "33.22.010",
+    "districtCode": "010",
+    "regencyCode": "33.22",
+    "provinceCode": "33",
+    "name": "Kecamatan Getasan",
+    "alias": "Getasan"
+  },
+  {
+    "code": "33.22.020",
+    "districtCode": "020",
+    "regencyCode": "33.22",
+    "provinceCode": "33",
+    "name": "Kecamatan Tengaran",
+    "alias": "Tengaran"
+  },
+  {
+    "code": "33.22.030",
+    "districtCode": "030",
+    "regencyCode": "33.22",
+    "provinceCode": "33",
+    "name": "Kecamatan Susukan",
+    "alias": "Susukan"
+  },
+  {
+    "code": "33.22.031",
+    "districtCode": "031",
+    "regencyCode": "33.22",
+    "provinceCode": "33",
+    "name": "Kecamatan Kaliwungu",
+    "alias": "Kaliwungu"
+  },
+  {
+    "code": "33.22.040",
+    "districtCode": "040",
+    "regencyCode": "33.22",
+    "provinceCode": "33",
+    "name": "Kecamatan Suruh",
+    "alias": "Suruh"
+  },
+  {
+    "code": "33.22.050",
+    "districtCode": "050",
+    "regencyCode": "33.22",
+    "provinceCode": "33",
+    "name": "Kecamatan Pabelan",
+    "alias": "Pabelan"
+  },
+  {
+    "code": "33.22.060",
+    "districtCode": "060",
+    "regencyCode": "33.22",
+    "provinceCode": "33",
+    "name": "Kecamatan Tuntang",
+    "alias": "Tuntang"
+  },
+  {
+    "code": "33.22.070",
+    "districtCode": "070",
+    "regencyCode": "33.22",
+    "provinceCode": "33",
+    "name": "Kecamatan Banyubiru",
+    "alias": "Banyubiru"
+  },
+  {
+    "code": "33.22.080",
+    "districtCode": "080",
+    "regencyCode": "33.22",
+    "provinceCode": "33",
+    "name": "Kecamatan Jambu",
+    "alias": "Jambu"
+  },
+  {
+    "code": "33.22.090",
+    "districtCode": "090",
+    "regencyCode": "33.22",
+    "provinceCode": "33",
+    "name": "Kecamatan Sumowono",
+    "alias": "Sumowono"
+  },
+  {
+    "code": "33.22.100",
+    "districtCode": "100",
+    "regencyCode": "33.22",
+    "provinceCode": "33",
+    "name": "Kecamatan Ambarawa",
+    "alias": "Ambarawa"
+  },
+  {
+    "code": "33.22.101",
+    "districtCode": "101",
+    "regencyCode": "33.22",
+    "provinceCode": "33",
+    "name": "Kecamatan Bandungan",
+    "alias": "Bandungan"
+  },
+  {
+    "code": "33.22.110",
+    "districtCode": "110",
+    "regencyCode": "33.22",
+    "provinceCode": "33",
+    "name": "Kecamatan Bawen",
+    "alias": "Bawen"
+  },
+  {
+    "code": "33.22.120",
+    "districtCode": "120",
+    "regencyCode": "33.22",
+    "provinceCode": "33",
+    "name": "Kecamatan Bringin",
+    "alias": "Bringin"
+  },
+  {
+    "code": "33.22.121",
+    "districtCode": "121",
+    "regencyCode": "33.22",
+    "provinceCode": "33",
+    "name": "Kecamatan Bancak",
+    "alias": "Bancak"
+  },
+  {
+    "code": "33.22.130",
+    "districtCode": "130",
+    "regencyCode": "33.22",
+    "provinceCode": "33",
+    "name": "Kecamatan Pringapus",
+    "alias": "Pringapus"
+  },
+  {
+    "code": "33.22.140",
+    "districtCode": "140",
+    "regencyCode": "33.22",
+    "provinceCode": "33",
+    "name": "Kecamatan Bergas",
+    "alias": "Bergas"
+  },
+  {
+    "code": "33.22.151",
+    "districtCode": "151",
+    "regencyCode": "33.22",
+    "provinceCode": "33",
+    "name": "Kecamatan Ungaran Barat",
+    "alias": "Ungaran Barat"
+  },
+  {
+    "code": "33.22.152",
+    "districtCode": "152",
+    "regencyCode": "33.22",
+    "provinceCode": "33",
+    "name": "Kecamatan Ungaran Timur",
+    "alias": "Ungaran Timur"
+  }
+]

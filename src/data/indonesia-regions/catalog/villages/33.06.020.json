@@ -1,0 +1,401 @@
+[
+  {
+    "code": "33.06.020.001",
+    "villageCode": "001",
+    "districtCode": "33.06.020",
+    "name": "Keburuhan",
+    "alias": "Keburuhan"
+  },
+  {
+    "code": "33.06.020.002",
+    "villageCode": "002",
+    "districtCode": "33.06.020",
+    "name": "Depokrejo",
+    "alias": "Depokrejo"
+  },
+  {
+    "code": "33.06.020.003",
+    "villageCode": "003",
+    "districtCode": "33.06.020",
+    "name": "Malang",
+    "alias": "Malang"
+  },
+  {
+    "code": "33.06.020.004",
+    "villageCode": "004",
+    "districtCode": "33.06.020",
+    "name": "Pagak",
+    "alias": "Pagak"
+  },
+  {
+    "code": "33.06.020.005",
+    "villageCode": "005",
+    "districtCode": "33.06.020",
+    "name": "Wero",
+    "alias": "Wero"
+  },
+  {
+    "code": "33.06.020.006",
+    "villageCode": "006",
+    "districtCode": "33.06.020",
+    "name": "Girirejo",
+    "alias": "Girirejo"
+  },
+  {
+    "code": "33.06.020.007",
+    "villageCode": "007",
+    "districtCode": "33.06.020",
+    "name": "Ngentak",
+    "alias": "Ngentak"
+  },
+  {
+    "code": "33.06.020.008",
+    "villageCode": "008",
+    "districtCode": "33.06.020",
+    "name": "Wonosari",
+    "alias": "Wonosari"
+  },
+  {
+    "code": "33.06.020.009",
+    "villageCode": "009",
+    "districtCode": "33.06.020",
+    "name": "Pejagran",
+    "alias": "Pejagran"
+  },
+  {
+    "code": "33.06.020.010",
+    "villageCode": "010",
+    "districtCode": "33.06.020",
+    "name": "Wonoroto",
+    "alias": "Wonoroto"
+  },
+  {
+    "code": "33.06.020.011",
+    "villageCode": "011",
+    "districtCode": "33.06.020",
+    "name": "Kesidan",
+    "alias": "Kesidan"
+  },
+  {
+    "code": "33.06.020.012",
+    "villageCode": "012",
+    "districtCode": "33.06.020",
+    "name": "Kumpulsari",
+    "alias": "Kumpulsari"
+  },
+  {
+    "code": "33.06.020.013",
+    "villageCode": "013",
+    "districtCode": "33.06.020",
+    "name": "Awuawu",
+    "alias": "Awuawu"
+  },
+  {
+    "code": "33.06.020.014",
+    "villageCode": "014",
+    "districtCode": "33.06.020",
+    "name": "Kaliwungu Kidul",
+    "alias": "Kaliwungu Kidul"
+  },
+  {
+    "code": "33.06.020.015",
+    "villageCode": "015",
+    "districtCode": "33.06.020",
+    "name": "Kaliwungu Lor",
+    "alias": "Kaliwungu Lor"
+  },
+  {
+    "code": "33.06.020.016",
+    "villageCode": "016",
+    "districtCode": "33.06.020",
+    "name": "Ringgit",
+    "alias": "Ringgit"
+  },
+  {
+    "code": "33.06.020.017",
+    "villageCode": "017",
+    "districtCode": "33.06.020",
+    "name": "Tunjungan",
+    "alias": "Tunjungan"
+  },
+  {
+    "code": "33.06.020.018",
+    "villageCode": "018",
+    "districtCode": "33.06.020",
+    "name": "Wasiat",
+    "alias": "Wasiat"
+  },
+  {
+    "code": "33.06.020.019",
+    "villageCode": "019",
+    "districtCode": "33.06.020",
+    "name": "Laban",
+    "alias": "Laban"
+  },
+  {
+    "code": "33.06.020.020",
+    "villageCode": "020",
+    "districtCode": "33.06.020",
+    "name": "Rasukan",
+    "alias": "Rasukan"
+  },
+  {
+    "code": "33.06.020.021",
+    "villageCode": "021",
+    "districtCode": "33.06.020",
+    "name": "Wonosri",
+    "alias": "Wonosri"
+  },
+  {
+    "code": "33.06.020.022",
+    "villageCode": "022",
+    "districtCode": "33.06.020",
+    "name": "Jeruken",
+    "alias": "Jeruken"
+  },
+  {
+    "code": "33.06.020.023",
+    "villageCode": "023",
+    "districtCode": "33.06.020",
+    "name": "Tanjungrejo",
+    "alias": "Tanjungrejo"
+  },
+  {
+    "code": "33.06.020.024",
+    "villageCode": "024",
+    "districtCode": "33.06.020",
+    "name": "Kalitanjung",
+    "alias": "Kalitanjung"
+  },
+  {
+    "code": "33.06.020.025",
+    "villageCode": "025",
+    "districtCode": "33.06.020",
+    "name": "Kuwukan",
+    "alias": "Kuwukan"
+  },
+  {
+    "code": "33.06.020.026",
+    "villageCode": "026",
+    "districtCode": "33.06.020",
+    "name": "Kedondong",
+    "alias": "Kedondong"
+  },
+  {
+    "code": "33.06.020.027",
+    "villageCode": "027",
+    "districtCode": "33.06.020",
+    "name": "Candi",
+    "alias": "Candi"
+  },
+  {
+    "code": "33.06.020.028",
+    "villageCode": "028",
+    "districtCode": "33.06.020",
+    "name": "Joso",
+    "alias": "Joso"
+  },
+  {
+    "code": "33.06.020.029",
+    "villageCode": "029",
+    "districtCode": "33.06.020",
+    "name": "Ngombol",
+    "alias": "Ngombol"
+  },
+  {
+    "code": "33.06.020.030",
+    "villageCode": "030",
+    "districtCode": "33.06.020",
+    "name": "Briyan",
+    "alias": "Briyan"
+  },
+  {
+    "code": "33.06.020.031",
+    "villageCode": "031",
+    "districtCode": "33.06.020",
+    "name": "Klandaran",
+    "alias": "Klandaran"
+  },
+  {
+    "code": "33.06.020.032",
+    "villageCode": "032",
+    "districtCode": "33.06.020",
+    "name": "Susuk",
+    "alias": "Susuk"
+  },
+  {
+    "code": "33.06.020.033",
+    "villageCode": "033",
+    "districtCode": "33.06.020",
+    "name": "Karangtalun",
+    "alias": "Karangtalun"
+  },
+  {
+    "code": "33.06.020.034",
+    "villageCode": "034",
+    "districtCode": "33.06.020",
+    "name": "Bojong",
+    "alias": "Bojong"
+  },
+  {
+    "code": "33.06.020.035",
+    "villageCode": "035",
+    "districtCode": "33.06.020",
+    "name": "Cokroyasan",
+    "alias": "Cokroyasan"
+  },
+  {
+    "code": "33.06.020.036",
+    "villageCode": "036",
+    "districtCode": "33.06.020",
+    "name": "Sumberejo",
+    "alias": "Sumberejo"
+  },
+  {
+    "code": "33.06.020.037",
+    "villageCode": "037",
+    "districtCode": "33.06.020",
+    "name": "Wunut",
+    "alias": "Wunut"
+  },
+  {
+    "code": "33.06.020.038",
+    "villageCode": "038",
+    "districtCode": "33.06.020",
+    "name": "Mendiro",
+    "alias": "Mendiro"
+  },
+  {
+    "code": "33.06.020.039",
+    "villageCode": "039",
+    "districtCode": "33.06.020",
+    "name": "Jombang",
+    "alias": "Jombang"
+  },
+  {
+    "code": "33.06.020.040",
+    "villageCode": "040",
+    "districtCode": "33.06.020",
+    "name": "Kembangkuning",
+    "alias": "Kembangkuning"
+  },
+  {
+    "code": "33.06.020.041",
+    "villageCode": "041",
+    "districtCode": "33.06.020",
+    "name": "Pulutan",
+    "alias": "Pulutan"
+  },
+  {
+    "code": "33.06.020.042",
+    "villageCode": "042",
+    "districtCode": "33.06.020",
+    "name": "Walikoro",
+    "alias": "Walikoro"
+  },
+  {
+    "code": "33.06.020.043",
+    "villageCode": "043",
+    "districtCode": "33.06.020",
+    "name": "Sruwoh",
+    "alias": "Sruwoh"
+  },
+  {
+    "code": "33.06.020.044",
+    "villageCode": "044",
+    "districtCode": "33.06.020",
+    "name": "Wonoboyo",
+    "alias": "Wonoboyo"
+  },
+  {
+    "code": "33.06.020.045",
+    "villageCode": "045",
+    "districtCode": "33.06.020",
+    "name": "Singkil Wetan",
+    "alias": "Singkil Wetan"
+  },
+  {
+    "code": "33.06.020.046",
+    "villageCode": "046",
+    "districtCode": "33.06.020",
+    "name": "Tumenggungan",
+    "alias": "Tumenggungan"
+  },
+  {
+    "code": "33.06.020.047",
+    "villageCode": "047",
+    "districtCode": "33.06.020",
+    "name": "Curug",
+    "alias": "Curug"
+  },
+  {
+    "code": "33.06.020.048",
+    "villageCode": "048",
+    "districtCode": "33.06.020",
+    "name": "Wingko Sanggrahan",
+    "alias": "Wingko Sanggrahan"
+  },
+  {
+    "code": "33.06.020.049",
+    "villageCode": "049",
+    "districtCode": "33.06.020",
+    "name": "Singkil Kulon",
+    "alias": "Singkil Kulon"
+  },
+  {
+    "code": "33.06.020.050",
+    "villageCode": "050",
+    "districtCode": "33.06.020",
+    "name": "Wingkoharjo",
+    "alias": "Wingkoharjo"
+  },
+  {
+    "code": "33.06.020.051",
+    "villageCode": "051",
+    "districtCode": "33.06.020",
+    "name": "Wingko Sigromulyo",
+    "alias": "Wingko Sigromulyo"
+  },
+  {
+    "code": "33.06.020.052",
+    "villageCode": "052",
+    "districtCode": "33.06.020",
+    "name": "Wingkomulyo",
+    "alias": "Wingkomulyo"
+  },
+  {
+    "code": "33.06.020.053",
+    "villageCode": "053",
+    "districtCode": "33.06.020",
+    "name": "Wingko Tinumpuk",
+    "alias": "Wingko Tinumpuk"
+  },
+  {
+    "code": "33.06.020.054",
+    "villageCode": "054",
+    "districtCode": "33.06.020",
+    "name": "Piyono",
+    "alias": "Piyono"
+  },
+  {
+    "code": "33.06.020.055",
+    "villageCode": "055",
+    "districtCode": "33.06.020",
+    "name": "Tanjung",
+    "alias": "Tanjung"
+  },
+  {
+    "code": "33.06.020.056",
+    "villageCode": "056",
+    "districtCode": "33.06.020",
+    "name": "Secang",
+    "alias": "Secang"
+  },
+  {
+    "code": "33.06.020.057",
+    "villageCode": "057",
+    "districtCode": "33.06.020",
+    "name": "Seboro Pasar",
+    "alias": "Seboro Pasar"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "code": "74.13.040.001",
+    "villageCode": "001",
+    "districtCode": "74.13.040",
+    "name": "Barakkah",
+    "alias": "Barakkah"
+  },
+  {
+    "code": "74.13.040.002",
+    "villageCode": "002",
+    "districtCode": "74.13.040",
+    "name": "Sangia Tiworo",
+    "alias": "Sangia Tiworo"
+  },
+  {
+    "code": "74.13.040.003",
+    "villageCode": "003",
+    "districtCode": "74.13.040",
+    "name": "Kasimpa Jaya",
+    "alias": "Kasimpa Jaya"
+  },
+  {
+    "code": "74.13.040.004",
+    "villageCode": "004",
+    "districtCode": "74.13.040",
+    "name": "Katangana",
+    "alias": "Katangana"
+  },
+  {
+    "code": "74.13.040.005",
+    "villageCode": "005",
+    "districtCode": "74.13.040",
+    "name": "Parura Jaya",
+    "alias": "Parura Jaya"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "code": "32.05.090.001",
+    "villageCode": "001",
+    "districtCode": "32.05.090",
+    "name": "Depok",
+    "alias": "Depok"
+  },
+  {
+    "code": "32.05.090.002",
+    "villageCode": "002",
+    "districtCode": "32.05.090",
+    "name": "Sukanagara",
+    "alias": "Sukanagara"
+  },
+  {
+    "code": "32.05.090.003",
+    "villageCode": "003",
+    "districtCode": "32.05.090",
+    "name": "Cihaurkuning",
+    "alias": "Cihaurkuning"
+  },
+  {
+    "code": "32.05.090.004",
+    "villageCode": "004",
+    "districtCode": "32.05.090",
+    "name": "Cikondang",
+    "alias": "Cikondang"
+  },
+  {
+    "code": "32.05.090.005",
+    "villageCode": "005",
+    "districtCode": "32.05.090",
+    "name": "Jatisari",
+    "alias": "Jatisari"
+  },
+  {
+    "code": "32.05.090.006",
+    "villageCode": "006",
+    "districtCode": "32.05.090",
+    "name": "Cisompet",
+    "alias": "Cisompet"
+  },
+  {
+    "code": "32.05.090.007",
+    "villageCode": "007",
+    "districtCode": "32.05.090",
+    "name": "Sukamukti",
+    "alias": "Sukamukti"
+  },
+  {
+    "code": "32.05.090.008",
+    "villageCode": "008",
+    "districtCode": "32.05.090",
+    "name": "Panyindangan",
+    "alias": "Panyindangan"
+  },
+  {
+    "code": "32.05.090.009",
+    "villageCode": "009",
+    "districtCode": "32.05.090",
+    "name": "Margamulya",
+    "alias": "Margamulya"
+  },
+  {
+    "code": "32.05.090.010",
+    "villageCode": "010",
+    "districtCode": "32.05.090",
+    "name": "Sindangsari",
+    "alias": "Sindangsari"
+  },
+  {
+    "code": "32.05.090.011",
+    "villageCode": "011",
+    "districtCode": "32.05.090",
+    "name": "Neglasari",
+    "alias": "Neglasari"
+  }
+]

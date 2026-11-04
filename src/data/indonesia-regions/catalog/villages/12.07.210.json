@@ -1,0 +1,65 @@
+[
+  {
+    "code": "12.07.210.001",
+    "villageCode": "001",
+    "districtCode": "12.07.210",
+    "name": "Lobusona",
+    "alias": "Lobusona"
+  },
+  {
+    "code": "12.07.210.002",
+    "villageCode": "002",
+    "districtCode": "12.07.210",
+    "name": "Sidorejo",
+    "alias": "Sidorejo"
+  },
+  {
+    "code": "12.07.210.003",
+    "villageCode": "003",
+    "districtCode": "12.07.210",
+    "name": "Sigambal",
+    "alias": "Sigambal"
+  },
+  {
+    "code": "12.07.210.004",
+    "villageCode": "004",
+    "districtCode": "12.07.210",
+    "name": "Danobale",
+    "alias": "Danobale"
+  },
+  {
+    "code": "12.07.210.005",
+    "villageCode": "005",
+    "districtCode": "12.07.210",
+    "name": "Perdamean",
+    "alias": "Perdamean"
+  },
+  {
+    "code": "12.07.210.006",
+    "villageCode": "006",
+    "districtCode": "12.07.210",
+    "name": "Ujung Bandar",
+    "alias": "Ujung Bandar"
+  },
+  {
+    "code": "12.07.210.007",
+    "villageCode": "007",
+    "districtCode": "12.07.210",
+    "name": "Bakaran Batu",
+    "alias": "Bakaran Batu"
+  },
+  {
+    "code": "12.07.210.008",
+    "villageCode": "008",
+    "districtCode": "12.07.210",
+    "name": "Urung Kompas",
+    "alias": "Urung Kompas"
+  },
+  {
+    "code": "12.07.210.009",
+    "villageCode": "009",
+    "districtCode": "12.07.210",
+    "name": "Sioldengan",
+    "alias": "Sioldengan"
+  }
+]

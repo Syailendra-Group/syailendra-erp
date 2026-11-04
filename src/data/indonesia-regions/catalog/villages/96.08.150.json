@@ -1,0 +1,58 @@
+[
+  {
+    "code": "96.08.150.001",
+    "villageCode": "001",
+    "districtCode": "96.08.150",
+    "name": "Karubate",
+    "alias": "Karubate"
+  },
+  {
+    "code": "96.08.150.002",
+    "villageCode": "002",
+    "districtCode": "96.08.150",
+    "name": "Kulirik",
+    "alias": "Kulirik"
+  },
+  {
+    "code": "96.08.150.003",
+    "villageCode": "003",
+    "districtCode": "96.08.150",
+    "name": "Dolinggobak",
+    "alias": "Dolinggobak"
+  },
+  {
+    "code": "96.08.150.004",
+    "villageCode": "004",
+    "districtCode": "96.08.150",
+    "name": "Yalinggua",
+    "alias": "Yalinggua"
+  },
+  {
+    "code": "96.08.150.005",
+    "villageCode": "005",
+    "districtCode": "96.08.150",
+    "name": "Muara",
+    "alias": "Muara"
+  },
+  {
+    "code": "96.08.150.006",
+    "villageCode": "006",
+    "districtCode": "96.08.150",
+    "name": "Talilome",
+    "alias": "Talilome"
+  },
+  {
+    "code": "96.08.150.007",
+    "villageCode": "007",
+    "districtCode": "96.08.150",
+    "name": "Doligobak",
+    "alias": "Doligobak"
+  },
+  {
+    "code": "96.08.150.008",
+    "villageCode": "008",
+    "districtCode": "96.08.150",
+    "name": "Yambidugum",
+    "alias": "Yambidugum"
+  }
+]

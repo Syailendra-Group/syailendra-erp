@@ -1,0 +1,23 @@
+[
+  {
+    "code": "94.19.052.001",
+    "villageCode": "001",
+    "districtCode": "94.19.052",
+    "name": "Munukania",
+    "alias": "Munukania"
+  },
+  {
+    "code": "94.19.052.004",
+    "villageCode": "004",
+    "districtCode": "94.19.052",
+    "name": "Kasukwe",
+    "alias": "Kasukwe"
+  },
+  {
+    "code": "94.19.052.005",
+    "villageCode": "005",
+    "districtCode": "94.19.052",
+    "name": "Wapoania",
+    "alias": "Wapoania"
+  }
+]

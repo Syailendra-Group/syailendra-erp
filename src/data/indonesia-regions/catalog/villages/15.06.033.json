@@ -1,0 +1,44 @@
+[
+  {
+    "code": "15.06.033.001",
+    "villageCode": "001",
+    "districtCode": "15.06.033",
+    "name": "Kuala Lagan",
+    "alias": "Kuala Lagan"
+  },
+  {
+    "code": "15.06.033.002",
+    "villageCode": "002",
+    "districtCode": "15.06.033",
+    "name": "Teluk Majelis",
+    "alias": "Teluk Majelis"
+  },
+  {
+    "code": "15.06.033.003",
+    "villageCode": "003",
+    "districtCode": "15.06.033",
+    "name": "Kampung Laut",
+    "alias": "Kampung Laut"
+  },
+  {
+    "code": "15.06.033.004",
+    "villageCode": "004",
+    "districtCode": "15.06.033",
+    "name": "Tanjung Solok",
+    "alias": "Tanjung Solok"
+  },
+  {
+    "code": "15.06.033.005",
+    "villageCode": "005",
+    "districtCode": "15.06.033",
+    "name": "Manunggal Makmur",
+    "alias": "Manunggal Makmur"
+  },
+  {
+    "code": "15.06.033.006",
+    "villageCode": "006",
+    "districtCode": "15.06.033",
+    "name": "Majelis Hidayah",
+    "alias": "Majelis Hidayah"
+  }
+]

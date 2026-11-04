@@ -1,0 +1,66 @@
+[
+  {
+    "code": "15.72.010",
+    "districtCode": "010",
+    "regencyCode": "15.72",
+    "provinceCode": "15",
+    "name": "Kecamatan Tanah Kampung",
+    "alias": "Tanah Kampung"
+  },
+  {
+    "code": "15.72.020",
+    "districtCode": "020",
+    "regencyCode": "15.72",
+    "provinceCode": "15",
+    "name": "Kecamatan Kumun Debai",
+    "alias": "Kumun Debai"
+  },
+  {
+    "code": "15.72.030",
+    "districtCode": "030",
+    "regencyCode": "15.72",
+    "provinceCode": "15",
+    "name": "Kecamatan Sungai Penuh",
+    "alias": "Sungai Penuh"
+  },
+  {
+    "code": "15.72.031",
+    "districtCode": "031",
+    "regencyCode": "15.72",
+    "provinceCode": "15",
+    "name": "Kecamatan Pondok Tinggi",
+    "alias": "Pondok Tinggi"
+  },
+  {
+    "code": "15.72.032",
+    "districtCode": "032",
+    "regencyCode": "15.72",
+    "provinceCode": "15",
+    "name": "Kecamatan Sungai Bungkal",
+    "alias": "Sungai Bungkal"
+  },
+  {
+    "code": "15.72.040",
+    "districtCode": "040",
+    "regencyCode": "15.72",
+    "provinceCode": "15",
+    "name": "Kecamatan Hamparan Rawang",
+    "alias": "Hamparan Rawang"
+  },
+  {
+    "code": "15.72.050",
+    "districtCode": "050",
+    "regencyCode": "15.72",
+    "provinceCode": "15",
+    "name": "Kecamatan Pesisir Bukit",
+    "alias": "Pesisir Bukit"
+  },
+  {
+    "code": "15.72.051",
+    "districtCode": "051",
+    "regencyCode": "15.72",
+    "provinceCode": "15",
+    "name": "Kecamatan Koto Baru",
+    "alias": "Koto Baru"
+  }
+]

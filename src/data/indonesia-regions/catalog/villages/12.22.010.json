@@ -1,0 +1,65 @@
+[
+  {
+    "code": "12.22.010.001",
+    "villageCode": "001",
+    "districtCode": "12.22.010",
+    "name": "Batang Nadenggan",
+    "alias": "Batang Nadenggan"
+  },
+  {
+    "code": "12.22.010.002",
+    "villageCode": "002",
+    "districtCode": "12.22.010",
+    "name": "Langga Payung",
+    "alias": "Langga Payung"
+  },
+  {
+    "code": "12.22.010.003",
+    "villageCode": "003",
+    "districtCode": "12.22.010",
+    "name": "Sabungan",
+    "alias": "Sabungan"
+  },
+  {
+    "code": "12.22.010.004",
+    "villageCode": "004",
+    "districtCode": "12.22.010",
+    "name": "Hajoran",
+    "alias": "Hajoran"
+  },
+  {
+    "code": "12.22.010.005",
+    "villageCode": "005",
+    "districtCode": "12.22.010",
+    "name": "Ujung Gading",
+    "alias": "Ujung Gading"
+  },
+  {
+    "code": "12.22.010.006",
+    "villageCode": "006",
+    "districtCode": "12.22.010",
+    "name": "Huta Godang",
+    "alias": "Huta Godang"
+  },
+  {
+    "code": "12.22.010.007",
+    "villageCode": "007",
+    "districtCode": "12.22.010",
+    "name": "Parimburan",
+    "alias": "Parimburan"
+  },
+  {
+    "code": "12.22.010.008",
+    "villageCode": "008",
+    "districtCode": "12.22.010",
+    "name": "Sampean",
+    "alias": "Sampean"
+  },
+  {
+    "code": "12.22.010.009",
+    "villageCode": "009",
+    "districtCode": "12.22.010",
+    "name": "Marsonja",
+    "alias": "Marsonja"
+  }
+]

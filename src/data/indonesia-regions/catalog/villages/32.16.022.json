@@ -1,0 +1,44 @@
+[
+  {
+    "code": "32.16.022.001",
+    "villageCode": "001",
+    "districtCode": "32.16.022",
+    "name": "Cicau",
+    "alias": "Cicau"
+  },
+  {
+    "code": "32.16.022.002",
+    "villageCode": "002",
+    "districtCode": "32.16.022",
+    "name": "Sukamahi",
+    "alias": "Sukamahi"
+  },
+  {
+    "code": "32.16.022.003",
+    "villageCode": "003",
+    "districtCode": "32.16.022",
+    "name": "Pasirranji",
+    "alias": "Pasirranji"
+  },
+  {
+    "code": "32.16.022.004",
+    "villageCode": "004",
+    "districtCode": "32.16.022",
+    "name": "Pasirtanjung",
+    "alias": "Pasirtanjung"
+  },
+  {
+    "code": "32.16.022.005",
+    "villageCode": "005",
+    "districtCode": "32.16.022",
+    "name": "Hegarmukti",
+    "alias": "Hegarmukti"
+  },
+  {
+    "code": "32.16.022.006",
+    "villageCode": "006",
+    "districtCode": "32.16.022",
+    "name": "Jayamukti",
+    "alias": "Jayamukti"
+  }
+]

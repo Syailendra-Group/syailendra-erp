@@ -1,0 +1,37 @@
+[
+  {
+    "code": "95.02.070.001",
+    "villageCode": "001",
+    "districtCode": "95.02.070",
+    "name": "Somi",
+    "alias": "Somi"
+  },
+  {
+    "code": "95.02.070.002",
+    "villageCode": "002",
+    "districtCode": "95.02.070",
+    "name": "Bomakia I",
+    "alias": "Bomakia I"
+  },
+  {
+    "code": "95.02.070.003",
+    "villageCode": "003",
+    "districtCode": "95.02.070",
+    "name": "Aifo",
+    "alias": "Aifo"
+  },
+  {
+    "code": "95.02.070.004",
+    "villageCode": "004",
+    "districtCode": "95.02.070",
+    "name": "Bomakia Ii",
+    "alias": "Bomakia Ii"
+  },
+  {
+    "code": "95.02.070.005",
+    "villageCode": "005",
+    "districtCode": "95.02.070",
+    "name": "Uni",
+    "alias": "Uni"
+  }
+]

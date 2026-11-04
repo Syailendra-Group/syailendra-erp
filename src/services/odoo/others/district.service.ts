@@ -4,7 +4,6 @@
  */
 
 import { odoo } from '@/lib/odoo'
-import { buildStatusDomain } from '@/utils'
 
 import type { OdooDomain, OdooFieldValue } from '@/lib/odoo/types'
 import type { DistrictFormValues } from '@/schemas/others/district-schema'
@@ -15,7 +14,10 @@ export interface FetchDistrictsParams {
   perPage?: number
   search?: string
   status?: string | string[]
-  cityId?: number
+  cityId?: number | string | string[]
+  stateId?: number | string | string[]
+  countryId?: number | string | string[]
+  scope?: string | string[]
   order?: string
 }
 
@@ -32,6 +34,8 @@ function mapDistrict(r: Record<string, OdooFieldValue>): DistrictRecord {
     id: r.id as number,
     name: r.name as string,
     code: (r.code as string) || false,
+    alias: (r.alias as string) || false,
+    description: (r.description as string) || false,
     city_id: r.city_id as [number, string],
     state_id: (r.state_id as [number, string]) || undefined,
     country_id: (r.country_id as [number, string]) || undefined,
@@ -41,28 +45,45 @@ function mapDistrict(r: Record<string, OdooFieldValue>): DistrictRecord {
   }
 }
 
-const DISTRICT_READ_FIELDS = ['id', 'name', 'code', 'country_id', 'state_id', 'city_id', 'latitude', 'longitude', 'active']
+const DISTRICT_READ_FIELDS = ['id', 'name', 'code', 'alias', 'description', 'country_id', 'state_id', 'city_id', 'latitude', 'longitude', 'active']
 
 export async function fetchDistricts(cityId?: number): Promise<DistrictRecord[]> {
   const domain: OdooDomain = cityId ? [['city_id', '=', cityId]] : []
   const records = await odoo.client.searchRead<Record<string, OdooFieldValue>>('res.country.district', domain, DISTRICT_READ_FIELDS, {
     order: 'name asc',
-    limit: 600
+    limit: 1000
   })
   return records.map(mapDistrict)
 }
 
 export async function fetchDistrictsPaginated(params: FetchDistrictsParams = {}): Promise<PaginatedDistrictsResult> {
-  const { page = 1, perPage = 20, search = '', status, cityId, order = 'name asc' } = params
+  const { page = 1, perPage = 20, search = '', cityId, stateId, countryId, scope, order = 'name asc' } = params
 
   const domain: OdooDomain = []
 
-  if (cityId) {
-    domain.push(['city_id', '=', cityId])
+  if (scope) {
+    const scopeArr = Array.isArray(scope) ? scope : [scope]
+    if (scopeArr.includes('domestic') && !scopeArr.includes('foreign')) {
+      domain.push(['country_id', '=', 100])
+    } else if (scopeArr.includes('foreign') && !scopeArr.includes('domestic')) {
+      domain.push(['country_id', '!=', 100])
+    }
   }
 
-  const statusTuples = buildStatusDomain(status)
-  statusTuples.forEach((t) => domain.push(t))
+  if (countryId) {
+    const cid = Array.isArray(countryId) ? Number(countryId[0]) : Number(countryId)
+    if (!isNaN(cid) && cid > 0) domain.push(['country_id', '=', cid])
+  }
+
+  if (stateId) {
+    const sid = Array.isArray(stateId) ? Number(stateId[0]) : Number(stateId)
+    if (!isNaN(sid) && sid > 0) domain.push(['state_id', '=', sid])
+  }
+
+  if (cityId) {
+    const cid = Array.isArray(cityId) ? Number(cityId[0]) : Number(cityId)
+    if (!isNaN(cid) && cid > 0) domain.push(['city_id', '=', cid])
+  }
 
   if (search.trim()) {
     const term = `%${search.trim()}%`
@@ -97,14 +118,108 @@ export async function fetchDistrictById(id: number): Promise<DistrictRecord | nu
   return mapDistrict(r)
 }
 
+export async function checkDistrictExistsInOdoo(params: {
+  code?: string
+  name?: string
+}): Promise<{ exists: boolean; id?: number; name?: string; code?: string }> {
+  const { code, name } = params
+  if (!code && !name) return { exists: false }
+
+  const domain: OdooDomain = []
+  if (code && name) {
+    domain.push('|', ['code', '=', code], ['name', 'ilike', name])
+  } else if (code) {
+    domain.push(['code', '=', code])
+  } else if (name) {
+    domain.push(['name', 'ilike', name])
+  }
+
+  const records = await odoo.client.searchRead<{ id: number; name: string; code: string | false }>(
+    'res.country.district',
+    domain,
+    ['id', 'name', 'code'],
+    { limit: 1 }
+  )
+  if (records.length > 0 && records[0]) {
+    return {
+      exists: true,
+      id: records[0].id,
+      name: records[0].name,
+      code: records[0].code || undefined
+    }
+  }
+  return { exists: false }
+}
+
+export async function checkParentRegencyExists(name: string, code?: string): Promise<{ exists: boolean; id?: number; name?: string }> {
+  const domain: OdooDomain = code ? ['|', ['name', 'ilike', name], ['code', '=', code]] : [['name', 'ilike', name]]
+  const records = await odoo.client.searchRead<{ id: number; name: string }>('res.country.city', domain, ['id', 'name'], { limit: 1 })
+  if (records.length > 0 && records[0]) {
+    return { exists: true, id: records[0].id, name: records[0].name }
+  }
+  return { exists: false }
+}
+
+export async function fetchDistrictFilterOptions(): Promise<{
+  countries: { id: number; name: string }[]
+  states: { id: number; name: string; countryId?: number }[]
+  cities: { id: number; name: string; stateId?: number; countryId?: number }[]
+}> {
+  const districts = await odoo.client.searchRead<Record<string, OdooFieldValue>>('res.country.district', [], ['country_id', 'state_id', 'city_id'], {
+    limit: 2000
+  })
+
+  const countryMap = new Map<number, string>()
+  const stateMap = new Map<number, { id: number; name: string; countryId?: number }>()
+  const cityMap = new Map<number, { id: number; name: string; stateId?: number; countryId?: number }>()
+
+  districts.forEach((d) => {
+    if (d.country_id && Array.isArray(d.country_id)) {
+      countryMap.set(d.country_id[0] as number, d.country_id[1] as string)
+    }
+    if (d.state_id && Array.isArray(d.state_id)) {
+      stateMap.set(d.state_id[0] as number, {
+        id: d.state_id[0] as number,
+        name: d.state_id[1] as string,
+        countryId: d.country_id && Array.isArray(d.country_id) ? (d.country_id[0] as number) : undefined
+      })
+    }
+    if (d.city_id && Array.isArray(d.city_id)) {
+      cityMap.set(d.city_id[0] as number, {
+        id: d.city_id[0] as number,
+        name: d.city_id[1] as string,
+        stateId: d.state_id && Array.isArray(d.state_id) ? (d.state_id[0] as number) : undefined,
+        countryId: d.country_id && Array.isArray(d.country_id) ? (d.country_id[0] as number) : undefined
+      })
+    }
+  })
+
+  return {
+    countries: Array.from(countryMap.entries()).map(([id, name]) => ({ id, name })),
+    states: Array.from(stateMap.values()),
+    cities: Array.from(cityMap.values())
+  }
+}
+
 export async function persistDistrict(values: DistrictFormValues): Promise<number> {
   let finalCityId = values.city_id
 
   if (!finalCityId && values.auto_add_regency && values.regency_name_raw) {
+    let finalStateId = values.state_id
+    if (!finalStateId && values.province_name_raw) {
+      finalStateId = await odoo.client.create('res.country.state', {
+        name: values.province_name_raw,
+        code: values.province_code_raw || values.province_name_raw.substring(0, 3).toUpperCase(),
+        country_id: values.country_id || 100
+      })
+    }
+
     finalCityId = await odoo.client.create('res.country.city', {
       name: values.regency_name_raw,
-      state_id: values.state_id_raw || false,
-      country_id: 100
+      code: values.regency_code_raw || false,
+      state_id: finalStateId || false,
+      country_id: values.country_id || 100,
+      active: true
     })
   }
 
@@ -115,6 +230,8 @@ export async function persistDistrict(values: DistrictFormValues): Promise<numbe
   const payload: Record<string, OdooFieldValue> = {
     name: values.name,
     code: values.code || false,
+    alias: values.alias || false,
+    description: values.description || false,
     city_id: finalCityId,
     latitude: values.latitude || 0,
     longitude: values.longitude || 0,

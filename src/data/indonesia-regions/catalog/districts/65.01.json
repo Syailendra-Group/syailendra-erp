@@ -1,0 +1,122 @@
+[
+  {
+    "code": "65.01.010",
+    "districtCode": "010",
+    "regencyCode": "65.01",
+    "provinceCode": "65",
+    "name": "Kecamatan Sungai Boh",
+    "alias": "Sungai Boh"
+  },
+  {
+    "code": "65.01.020",
+    "districtCode": "020",
+    "regencyCode": "65.01",
+    "provinceCode": "65",
+    "name": "Kecamatan Kayan Selatan",
+    "alias": "Kayan Selatan"
+  },
+  {
+    "code": "65.01.030",
+    "districtCode": "030",
+    "regencyCode": "65.01",
+    "provinceCode": "65",
+    "name": "Kecamatan Kayan Hulu",
+    "alias": "Kayan Hulu"
+  },
+  {
+    "code": "65.01.040",
+    "districtCode": "040",
+    "regencyCode": "65.01",
+    "provinceCode": "65",
+    "name": "Kecamatan Kayan Hilir",
+    "alias": "Kayan Hilir"
+  },
+  {
+    "code": "65.01.050",
+    "districtCode": "050",
+    "regencyCode": "65.01",
+    "provinceCode": "65",
+    "name": "Kecamatan Pujungan",
+    "alias": "Pujungan"
+  },
+  {
+    "code": "65.01.060",
+    "districtCode": "060",
+    "regencyCode": "65.01",
+    "provinceCode": "65",
+    "name": "Kecamatan Bahau Hulu",
+    "alias": "Bahau Hulu"
+  },
+  {
+    "code": "65.01.070",
+    "districtCode": "070",
+    "regencyCode": "65.01",
+    "provinceCode": "65",
+    "name": "Kecamatan Sungai Tubu",
+    "alias": "Sungai Tubu"
+  },
+  {
+    "code": "65.01.080",
+    "districtCode": "080",
+    "regencyCode": "65.01",
+    "provinceCode": "65",
+    "name": "Kecamatan Malinau Selatan Hulu",
+    "alias": "Malinau Selatan Hulu"
+  },
+  {
+    "code": "65.01.090",
+    "districtCode": "090",
+    "regencyCode": "65.01",
+    "provinceCode": "65",
+    "name": "Kecamatan Malinau Selatan",
+    "alias": "Malinau Selatan"
+  },
+  {
+    "code": "65.01.100",
+    "districtCode": "100",
+    "regencyCode": "65.01",
+    "provinceCode": "65",
+    "name": "Kecamatan Malinau Selatan Hilir",
+    "alias": "Malinau Selatan Hilir"
+  },
+  {
+    "code": "65.01.110",
+    "districtCode": "110",
+    "regencyCode": "65.01",
+    "provinceCode": "65",
+    "name": "Kecamatan Mentarang",
+    "alias": "Mentarang"
+  },
+  {
+    "code": "65.01.120",
+    "districtCode": "120",
+    "regencyCode": "65.01",
+    "provinceCode": "65",
+    "name": "Kecamatan Mentarang Hulu",
+    "alias": "Mentarang Hulu"
+  },
+  {
+    "code": "65.01.130",
+    "districtCode": "130",
+    "regencyCode": "65.01",
+    "provinceCode": "65",
+    "name": "Kecamatan Malinau Utara",
+    "alias": "Malinau Utara"
+  },
+  {
+    "code": "65.01.140",
+    "districtCode": "140",
+    "regencyCode": "65.01",
+    "provinceCode": "65",
+    "name": "Kecamatan Malinau Barat",
+    "alias": "Malinau Barat"
+  },
+  {
+    "code": "65.01.150",
+    "districtCode": "150",
+    "regencyCode": "65.01",
+    "provinceCode": "65",
+    "name": "Kecamatan Malinau Kota",
+    "alias": "Malinau Kota"
+  }
+]

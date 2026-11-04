@@ -1,0 +1,37 @@
+[
+  {
+    "code": "75.71.020.010",
+    "villageCode": "010",
+    "districtCode": "75.71.020",
+    "name": "Biawu",
+    "alias": "Biawu"
+  },
+  {
+    "code": "75.71.020.011",
+    "villageCode": "011",
+    "districtCode": "75.71.020",
+    "name": "Biawao",
+    "alias": "Biawao"
+  },
+  {
+    "code": "75.71.020.018",
+    "villageCode": "018",
+    "districtCode": "75.71.020",
+    "name": "Limba B",
+    "alias": "Limba B"
+  },
+  {
+    "code": "75.71.020.019",
+    "villageCode": "019",
+    "districtCode": "75.71.020",
+    "name": "Limba U Satu",
+    "alias": "Limba U Satu"
+  },
+  {
+    "code": "75.71.020.020",
+    "villageCode": "020",
+    "districtCode": "75.71.020",
+    "name": "Limba U Dua",
+    "alias": "Limba U Dua"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "code": "32.76.020.006",
+    "villageCode": "006",
+    "districtCode": "32.76.020",
+    "name": "Rangkapan Jaya Baru",
+    "alias": "Rangkapan Jaya Baru"
+  },
+  {
+    "code": "32.76.020.007",
+    "villageCode": "007",
+    "districtCode": "32.76.020",
+    "name": "Rangkapan Jaya",
+    "alias": "Rangkapan Jaya"
+  },
+  {
+    "code": "32.76.020.008",
+    "villageCode": "008",
+    "districtCode": "32.76.020",
+    "name": "Mampang",
+    "alias": "Mampang"
+  },
+  {
+    "code": "32.76.020.009",
+    "villageCode": "009",
+    "districtCode": "32.76.020",
+    "name": "Pancoran Mas",
+    "alias": "Pancoran Mas"
+  },
+  {
+    "code": "32.76.020.010",
+    "villageCode": "010",
+    "districtCode": "32.76.020",
+    "name": "Depok Jaya",
+    "alias": "Depok Jaya"
+  },
+  {
+    "code": "32.76.020.011",
+    "villageCode": "011",
+    "districtCode": "32.76.020",
+    "name": "Depok",
+    "alias": "Depok"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "code": "18.05.060.001",
+    "villageCode": "001",
+    "districtCode": "18.05.060",
+    "name": "Nunggal Rejo",
+    "alias": "Nunggal Rejo"
+  },
+  {
+    "code": "18.05.060.002",
+    "villageCode": "002",
+    "districtCode": "18.05.060",
+    "name": "Badran Sari",
+    "alias": "Badran Sari"
+  },
+  {
+    "code": "18.05.060.003",
+    "villageCode": "003",
+    "districtCode": "18.05.060",
+    "name": "Sri Sawahan",
+    "alias": "Sri Sawahan"
+  },
+  {
+    "code": "18.05.060.007",
+    "villageCode": "007",
+    "districtCode": "18.05.060",
+    "name": "Toto Katon",
+    "alias": "Toto Katon"
+  },
+  {
+    "code": "18.05.060.008",
+    "villageCode": "008",
+    "districtCode": "18.05.060",
+    "name": "Tanggul Angin",
+    "alias": "Tanggul Angin"
+  },
+  {
+    "code": "18.05.060.009",
+    "villageCode": "009",
+    "districtCode": "18.05.060",
+    "name": "Ngesti Rahayu",
+    "alias": "Ngesti Rahayu"
+  },
+  {
+    "code": "18.05.060.010",
+    "villageCode": "010",
+    "districtCode": "18.05.060",
+    "name": "Mojo Pahit",
+    "alias": "Mojo Pahit"
+  },
+  {
+    "code": "18.05.060.011",
+    "villageCode": "011",
+    "districtCode": "18.05.060",
+    "name": "Asto Mulyo",
+    "alias": "Asto Mulyo"
+  },
+  {
+    "code": "18.05.060.012",
+    "villageCode": "012",
+    "districtCode": "18.05.060",
+    "name": "Sido Mulyo",
+    "alias": "Sido Mulyo"
+  }
+]

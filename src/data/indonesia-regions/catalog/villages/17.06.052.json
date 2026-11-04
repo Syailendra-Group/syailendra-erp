@@ -1,0 +1,72 @@
+[
+  {
+    "code": "17.06.052.001",
+    "villageCode": "001",
+    "districtCode": "17.06.052",
+    "name": "Pondok Tengah",
+    "alias": "Pondok Tengah"
+  },
+  {
+    "code": "17.06.052.002",
+    "villageCode": "002",
+    "districtCode": "17.06.052",
+    "name": "Sungai Lintang",
+    "alias": "Sungai Lintang"
+  },
+  {
+    "code": "17.06.052.003",
+    "villageCode": "003",
+    "districtCode": "17.06.052",
+    "name": "Talang Petai",
+    "alias": "Talang Petai"
+  },
+  {
+    "code": "17.06.052.004",
+    "villageCode": "004",
+    "districtCode": "17.06.052",
+    "name": "Lalang Luas",
+    "alias": "Lalang Luas"
+  },
+  {
+    "code": "17.06.052.005",
+    "villageCode": "005",
+    "districtCode": "17.06.052",
+    "name": "Resno",
+    "alias": "Resno"
+  },
+  {
+    "code": "17.06.052.006",
+    "villageCode": "006",
+    "districtCode": "17.06.052",
+    "name": "Pondok Panjang",
+    "alias": "Pondok Panjang"
+  },
+  {
+    "code": "17.06.052.007",
+    "villageCode": "007",
+    "districtCode": "17.06.052",
+    "name": "Talang Sakti",
+    "alias": "Talang Sakti"
+  },
+  {
+    "code": "17.06.052.008",
+    "villageCode": "008",
+    "districtCode": "17.06.052",
+    "name": "Talang Sepakat",
+    "alias": "Talang Sepakat"
+  },
+  {
+    "code": "17.06.052.009",
+    "villageCode": "009",
+    "districtCode": "17.06.052",
+    "name": "Lubuk Cabau",
+    "alias": "Lubuk Cabau"
+  },
+  {
+    "code": "17.06.052.010",
+    "villageCode": "010",
+    "districtCode": "17.06.052",
+    "name": "Sungai Rengas",
+    "alias": "Sungai Rengas"
+  }
+]

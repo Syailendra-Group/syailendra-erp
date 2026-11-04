@@ -1,0 +1,34 @@
+[
+  {
+    "code": "33.75.010",
+    "districtCode": "010",
+    "regencyCode": "33.75",
+    "provinceCode": "33",
+    "name": "Kecamatan Pekalongan Barat",
+    "alias": "Pekalongan Barat"
+  },
+  {
+    "code": "33.75.020",
+    "districtCode": "020",
+    "regencyCode": "33.75",
+    "provinceCode": "33",
+    "name": "Kecamatan Pekalongan Timur",
+    "alias": "Pekalongan Timur"
+  },
+  {
+    "code": "33.75.030",
+    "districtCode": "030",
+    "regencyCode": "33.75",
+    "provinceCode": "33",
+    "name": "Kecamatan Pekalongan Selatan",
+    "alias": "Pekalongan Selatan"
+  },
+  {
+    "code": "33.75.040",
+    "districtCode": "040",
+    "regencyCode": "33.75",
+    "provinceCode": "33",
+    "name": "Kecamatan Pekalongan Utara",
+    "alias": "Pekalongan Utara"
+  }
+]

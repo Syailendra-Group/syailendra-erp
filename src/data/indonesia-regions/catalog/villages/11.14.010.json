@@ -1,0 +1,65 @@
+[
+  {
+    "code": "11.14.010.001",
+    "villageCode": "001",
+    "districtCode": "11.14.010",
+    "name": "Kaloy",
+    "alias": "Kaloy"
+  },
+  {
+    "code": "11.14.010.002",
+    "villageCode": "002",
+    "districtCode": "11.14.010",
+    "name": "Rongoh",
+    "alias": "Rongoh"
+  },
+  {
+    "code": "11.14.010.003",
+    "villageCode": "003",
+    "districtCode": "11.14.010",
+    "name": "Alur Tani Satu",
+    "alias": "Alur Tani Satu"
+  },
+  {
+    "code": "11.14.010.004",
+    "villageCode": "004",
+    "districtCode": "11.14.010",
+    "name": "Alur Tani Dua",
+    "alias": "Alur Tani Dua"
+  },
+  {
+    "code": "11.14.010.005",
+    "villageCode": "005",
+    "districtCode": "11.14.010",
+    "name": "Bandar Khalifah",
+    "alias": "Bandar Khalifah"
+  },
+  {
+    "code": "11.14.010.006",
+    "villageCode": "006",
+    "districtCode": "11.14.010",
+    "name": "Perk Pulau Tiga",
+    "alias": "Perk Pulau Tiga"
+  },
+  {
+    "code": "11.14.010.007",
+    "villageCode": "007",
+    "districtCode": "11.14.010",
+    "name": "Bandar Setia",
+    "alias": "Bandar Setia"
+  },
+  {
+    "code": "11.14.010.008",
+    "villageCode": "008",
+    "districtCode": "11.14.010",
+    "name": "Harum Sari",
+    "alias": "Harum Sari"
+  },
+  {
+    "code": "11.14.010.009",
+    "villageCode": "009",
+    "districtCode": "11.14.010",
+    "name": "Wono Sari",
+    "alias": "Wono Sari"
+  }
+]

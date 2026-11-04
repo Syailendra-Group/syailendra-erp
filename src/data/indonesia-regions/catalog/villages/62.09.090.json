@@ -1,0 +1,100 @@
+[
+  {
+    "code": "62.09.090.001",
+    "villageCode": "001",
+    "districtCode": "62.09.090",
+    "name": "Dehes",
+    "alias": "Dehes"
+  },
+  {
+    "code": "62.09.090.002",
+    "villageCode": "002",
+    "districtCode": "62.09.090",
+    "name": "Tumbang Labehu",
+    "alias": "Tumbang Labehu"
+  },
+  {
+    "code": "62.09.090.003",
+    "villageCode": "003",
+    "districtCode": "62.09.090",
+    "name": "Tumbang Kaman",
+    "alias": "Tumbang Kaman"
+  },
+  {
+    "code": "62.09.090.004",
+    "villageCode": "004",
+    "districtCode": "62.09.090",
+    "name": "Tumbang Manggo",
+    "alias": "Tumbang Manggo"
+  },
+  {
+    "code": "62.09.090.005",
+    "villageCode": "005",
+    "districtCode": "62.09.090",
+    "name": "Kamanto",
+    "alias": "Kamanto"
+  },
+  {
+    "code": "62.09.090.006",
+    "villageCode": "006",
+    "districtCode": "62.09.090",
+    "name": "Kuluk Habuhus",
+    "alias": "Kuluk Habuhus"
+  },
+  {
+    "code": "62.09.090.007",
+    "villageCode": "007",
+    "districtCode": "62.09.090",
+    "name": "Tumbang Kanei",
+    "alias": "Tumbang Kanei"
+  },
+  {
+    "code": "62.09.090.008",
+    "villageCode": "008",
+    "districtCode": "62.09.090",
+    "name": "Tumbang Taranei",
+    "alias": "Tumbang Taranei"
+  },
+  {
+    "code": "62.09.090.009",
+    "villageCode": "009",
+    "districtCode": "62.09.090",
+    "name": "Tumbang Pangka",
+    "alias": "Tumbang Pangka"
+  },
+  {
+    "code": "62.09.090.010",
+    "villageCode": "010",
+    "districtCode": "62.09.090",
+    "name": "Tumbang Atei",
+    "alias": "Tumbang Atei"
+  },
+  {
+    "code": "62.09.090.011",
+    "villageCode": "011",
+    "districtCode": "62.09.090",
+    "name": "Tumbang Kawei",
+    "alias": "Tumbang Kawei"
+  },
+  {
+    "code": "62.09.090.012",
+    "villageCode": "012",
+    "districtCode": "62.09.090",
+    "name": "Tumbang Mangara",
+    "alias": "Tumbang Mangara"
+  },
+  {
+    "code": "62.09.090.020",
+    "villageCode": "020",
+    "districtCode": "62.09.090",
+    "name": "Daya Manunggal",
+    "alias": "Daya Manunggal"
+  },
+  {
+    "code": "62.09.090.021",
+    "villageCode": "021",
+    "districtCode": "62.09.090",
+    "name": "Rantau Bangkiang",
+    "alias": "Rantau Bangkiang"
+  }
+]

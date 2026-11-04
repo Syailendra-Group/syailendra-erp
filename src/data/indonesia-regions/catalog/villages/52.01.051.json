@@ -1,0 +1,107 @@
+[
+  {
+    "code": "52.01.051.001",
+    "villageCode": "001",
+    "districtCode": "52.01.051",
+    "name": "Peteluan Indah",
+    "alias": "Peteluan Indah"
+  },
+  {
+    "code": "52.01.051.002",
+    "villageCode": "002",
+    "districtCode": "52.01.051",
+    "name": "Lingsar",
+    "alias": "Lingsar"
+  },
+  {
+    "code": "52.01.051.003",
+    "villageCode": "003",
+    "districtCode": "52.01.051",
+    "name": "Batu Kumbung",
+    "alias": "Batu Kumbung"
+  },
+  {
+    "code": "52.01.051.004",
+    "villageCode": "004",
+    "districtCode": "52.01.051",
+    "name": "Batu Mekar",
+    "alias": "Batu Mekar"
+  },
+  {
+    "code": "52.01.051.005",
+    "villageCode": "005",
+    "districtCode": "52.01.051",
+    "name": "Karang Bayan",
+    "alias": "Karang Bayan"
+  },
+  {
+    "code": "52.01.051.006",
+    "villageCode": "006",
+    "districtCode": "52.01.051",
+    "name": "Langko",
+    "alias": "Langko"
+  },
+  {
+    "code": "52.01.051.007",
+    "villageCode": "007",
+    "districtCode": "52.01.051",
+    "name": "Sigerongan",
+    "alias": "Sigerongan"
+  },
+  {
+    "code": "52.01.051.008",
+    "villageCode": "008",
+    "districtCode": "52.01.051",
+    "name": "Duman",
+    "alias": "Duman"
+  },
+  {
+    "code": "52.01.051.009",
+    "villageCode": "009",
+    "districtCode": "52.01.051",
+    "name": "Dasan Geria",
+    "alias": "Dasan Geria"
+  },
+  {
+    "code": "52.01.051.010",
+    "villageCode": "010",
+    "districtCode": "52.01.051",
+    "name": "Gegerung",
+    "alias": "Gegerung"
+  },
+  {
+    "code": "52.01.051.011",
+    "villageCode": "011",
+    "districtCode": "52.01.051",
+    "name": "Giri Madia",
+    "alias": "Giri Madia"
+  },
+  {
+    "code": "52.01.051.012",
+    "villageCode": "012",
+    "districtCode": "52.01.051",
+    "name": "Gegelang",
+    "alias": "Gegelang"
+  },
+  {
+    "code": "52.01.051.013",
+    "villageCode": "013",
+    "districtCode": "52.01.051",
+    "name": "Gontoran",
+    "alias": "Gontoran"
+  },
+  {
+    "code": "52.01.051.014",
+    "villageCode": "014",
+    "districtCode": "52.01.051",
+    "name": "Saribaye",
+    "alias": "Saribaye"
+  },
+  {
+    "code": "52.01.051.015",
+    "villageCode": "015",
+    "districtCode": "52.01.051",
+    "name": "Bug-Bug",
+    "alias": "Bug-Bug"
+  }
+]

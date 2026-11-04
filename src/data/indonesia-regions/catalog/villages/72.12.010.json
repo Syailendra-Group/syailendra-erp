@@ -1,0 +1,100 @@
+[
+  {
+    "code": "72.12.010.001",
+    "villageCode": "001",
+    "districtCode": "72.12.010",
+    "name": "Kasingoli",
+    "alias": "Kasingoli"
+  },
+  {
+    "code": "72.12.010.002",
+    "villageCode": "002",
+    "districtCode": "72.12.010",
+    "name": "Lee",
+    "alias": "Lee"
+  },
+  {
+    "code": "72.12.010.003",
+    "villageCode": "003",
+    "districtCode": "72.12.010",
+    "name": "Saemba",
+    "alias": "Saemba"
+  },
+  {
+    "code": "72.12.010.004",
+    "villageCode": "004",
+    "districtCode": "72.12.010",
+    "name": "Saemba Walati",
+    "alias": "Saemba Walati"
+  },
+  {
+    "code": "72.12.010.005",
+    "villageCode": "005",
+    "districtCode": "72.12.010",
+    "name": "Tomui Karya",
+    "alias": "Tomui Karya"
+  },
+  {
+    "code": "72.12.010.006",
+    "villageCode": "006",
+    "districtCode": "72.12.010",
+    "name": "Tomata",
+    "alias": "Tomata"
+  },
+  {
+    "code": "72.12.010.007",
+    "villageCode": "007",
+    "districtCode": "72.12.010",
+    "name": "Pambarea",
+    "alias": "Pambarea"
+  },
+  {
+    "code": "72.12.010.008",
+    "villageCode": "008",
+    "districtCode": "72.12.010",
+    "name": "Londi",
+    "alias": "Londi"
+  },
+  {
+    "code": "72.12.010.009",
+    "villageCode": "009",
+    "districtCode": "72.12.010",
+    "name": "Gontara",
+    "alias": "Gontara"
+  },
+  {
+    "code": "72.12.010.010",
+    "villageCode": "010",
+    "districtCode": "72.12.010",
+    "name": "Taende",
+    "alias": "Taende"
+  },
+  {
+    "code": "72.12.010.011",
+    "villageCode": "011",
+    "districtCode": "72.12.010",
+    "name": "Ensa",
+    "alias": "Ensa"
+  },
+  {
+    "code": "72.12.010.012",
+    "villageCode": "012",
+    "districtCode": "72.12.010",
+    "name": "Lanumor",
+    "alias": "Lanumor"
+  },
+  {
+    "code": "72.12.010.013",
+    "villageCode": "013",
+    "districtCode": "72.12.010",
+    "name": "Peonea",
+    "alias": "Peonea"
+  },
+  {
+    "code": "72.12.010.014",
+    "villageCode": "014",
+    "districtCode": "72.12.010",
+    "name": "Kolaka",
+    "alias": "Kolaka"
+  }
+]

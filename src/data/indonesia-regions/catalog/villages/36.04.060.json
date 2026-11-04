@@ -1,0 +1,107 @@
+[
+  {
+    "code": "36.04.060.009",
+    "villageCode": "009",
+    "districtCode": "36.04.060",
+    "name": "Kadugenep",
+    "alias": "Kadugenep"
+  },
+  {
+    "code": "36.04.060.010",
+    "villageCode": "010",
+    "districtCode": "36.04.060",
+    "name": "Padasuka",
+    "alias": "Padasuka"
+  },
+  {
+    "code": "36.04.060.011",
+    "villageCode": "011",
+    "districtCode": "36.04.060",
+    "name": "Sanding",
+    "alias": "Sanding"
+  },
+  {
+    "code": "36.04.060.012",
+    "villageCode": "012",
+    "districtCode": "36.04.060",
+    "name": "Sindangsari",
+    "alias": "Sindangsari"
+  },
+  {
+    "code": "36.04.060.013",
+    "villageCode": "013",
+    "districtCode": "36.04.060",
+    "name": "Cireundeu",
+    "alias": "Cireundeu"
+  },
+  {
+    "code": "36.04.060.014",
+    "villageCode": "014",
+    "districtCode": "36.04.060",
+    "name": "Cirangkong",
+    "alias": "Cirangkong"
+  },
+  {
+    "code": "36.04.060.015",
+    "villageCode": "015",
+    "districtCode": "36.04.060",
+    "name": "Tambiluk",
+    "alias": "Tambiluk"
+  },
+  {
+    "code": "36.04.060.016",
+    "villageCode": "016",
+    "districtCode": "36.04.060",
+    "name": "Mekarbaru",
+    "alias": "Mekarbaru"
+  },
+  {
+    "code": "36.04.060.017",
+    "villageCode": "017",
+    "districtCode": "36.04.060",
+    "name": "Petir",
+    "alias": "Petir"
+  },
+  {
+    "code": "36.04.060.018",
+    "villageCode": "018",
+    "districtCode": "36.04.060",
+    "name": "Nagara Padang",
+    "alias": "Nagara Padang"
+  },
+  {
+    "code": "36.04.060.019",
+    "villageCode": "019",
+    "districtCode": "36.04.060",
+    "name": "Kampung Baru",
+    "alias": "Kampung Baru"
+  },
+  {
+    "code": "36.04.060.020",
+    "villageCode": "020",
+    "districtCode": "36.04.060",
+    "name": "Seuat",
+    "alias": "Seuat"
+  },
+  {
+    "code": "36.04.060.021",
+    "villageCode": "021",
+    "districtCode": "36.04.060",
+    "name": "Seuat Jaya",
+    "alias": "Seuat Jaya"
+  },
+  {
+    "code": "36.04.060.022",
+    "villageCode": "022",
+    "districtCode": "36.04.060",
+    "name": "Kubang Jaya",
+    "alias": "Kubang Jaya"
+  },
+  {
+    "code": "36.04.060.023",
+    "villageCode": "023",
+    "districtCode": "36.04.060",
+    "name": "Bojong Nangka",
+    "alias": "Bojong Nangka"
+  }
+]

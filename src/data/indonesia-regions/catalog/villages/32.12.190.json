@@ -1,0 +1,93 @@
+[
+  {
+    "code": "32.12.190.001",
+    "villageCode": "001",
+    "districtCode": "32.12.190",
+    "name": "Curug",
+    "alias": "Curug"
+  },
+  {
+    "code": "32.12.190.002",
+    "villageCode": "002",
+    "districtCode": "32.12.190",
+    "name": "Pranti",
+    "alias": "Pranti"
+  },
+  {
+    "code": "32.12.190.003",
+    "villageCode": "003",
+    "districtCode": "32.12.190",
+    "name": "Wirakanan",
+    "alias": "Wirakanan"
+  },
+  {
+    "code": "32.12.190.004",
+    "villageCode": "004",
+    "districtCode": "32.12.190",
+    "name": "Karangmulya",
+    "alias": "Karangmulya"
+  },
+  {
+    "code": "32.12.190.005",
+    "villageCode": "005",
+    "districtCode": "32.12.190",
+    "name": "Karanganyar",
+    "alias": "Karanganyar"
+  },
+  {
+    "code": "32.12.190.006",
+    "villageCode": "006",
+    "districtCode": "32.12.190",
+    "name": "Wirapanjunan",
+    "alias": "Wirapanjunan"
+  },
+  {
+    "code": "32.12.190.007",
+    "villageCode": "007",
+    "districtCode": "32.12.190",
+    "name": "Parean Girang",
+    "alias": "Parean Girang"
+  },
+  {
+    "code": "32.12.190.008",
+    "villageCode": "008",
+    "districtCode": "32.12.190",
+    "name": "Bulak",
+    "alias": "Bulak"
+  },
+  {
+    "code": "32.12.190.009",
+    "villageCode": "009",
+    "districtCode": "32.12.190",
+    "name": "Ilir",
+    "alias": "Ilir"
+  },
+  {
+    "code": "32.12.190.010",
+    "villageCode": "010",
+    "districtCode": "32.12.190",
+    "name": "Soge",
+    "alias": "Soge"
+  },
+  {
+    "code": "32.12.190.011",
+    "villageCode": "011",
+    "districtCode": "32.12.190",
+    "name": "Eretan Wetan",
+    "alias": "Eretan Wetan"
+  },
+  {
+    "code": "32.12.190.012",
+    "villageCode": "012",
+    "districtCode": "32.12.190",
+    "name": "Eretan Kulon",
+    "alias": "Eretan Kulon"
+  },
+  {
+    "code": "32.12.190.013",
+    "villageCode": "013",
+    "districtCode": "32.12.190",
+    "name": "Kertawinangun",
+    "alias": "Kertawinangun"
+  }
+]

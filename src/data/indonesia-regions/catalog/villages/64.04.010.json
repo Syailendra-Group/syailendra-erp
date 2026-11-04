@@ -1,0 +1,72 @@
+[
+  {
+    "code": "64.04.010.001",
+    "villageCode": "001",
+    "districtCode": "64.04.010",
+    "name": "Senyiur",
+    "alias": "Senyiur"
+  },
+  {
+    "code": "64.04.010.002",
+    "villageCode": "002",
+    "districtCode": "64.04.010",
+    "name": "Kelinjau Ilir",
+    "alias": "Kelinjau Ilir"
+  },
+  {
+    "code": "64.04.010.003",
+    "villageCode": "003",
+    "districtCode": "64.04.010",
+    "name": "Kelinjau Ulu",
+    "alias": "Kelinjau Ulu"
+  },
+  {
+    "code": "64.04.010.004",
+    "villageCode": "004",
+    "districtCode": "64.04.010",
+    "name": "Long Nah",
+    "alias": "Long Nah"
+  },
+  {
+    "code": "64.04.010.005",
+    "villageCode": "005",
+    "districtCode": "64.04.010",
+    "name": "Gemar Baru",
+    "alias": "Gemar Baru"
+  },
+  {
+    "code": "64.04.010.006",
+    "villageCode": "006",
+    "districtCode": "64.04.010",
+    "name": "Long Tesak",
+    "alias": "Long Tesak"
+  },
+  {
+    "code": "64.04.010.007",
+    "villageCode": "007",
+    "districtCode": "64.04.010",
+    "name": "Long Poq Baru",
+    "alias": "Long Poq Baru"
+  },
+  {
+    "code": "64.04.010.008",
+    "villageCode": "008",
+    "districtCode": "64.04.010",
+    "name": "Muara Dun",
+    "alias": "Muara Dun"
+  },
+  {
+    "code": "64.04.010.009",
+    "villageCode": "009",
+    "districtCode": "64.04.010",
+    "name": "Teluk Baru",
+    "alias": "Teluk Baru"
+  },
+  {
+    "code": "64.04.010.010",
+    "villageCode": "010",
+    "districtCode": "64.04.010",
+    "name": "Desa Persiapan Kelinjau Tengah",
+    "alias": "Desa Persiapan Kelinjau Tengah"
+  }
+]

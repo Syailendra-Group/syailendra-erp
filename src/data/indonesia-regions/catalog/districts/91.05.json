@@ -1,0 +1,74 @@
+[
+  {
+    "code": "91.05.110",
+    "districtCode": "110",
+    "regencyCode": "91.05",
+    "provinceCode": "91",
+    "name": "Kecamatan Warmare",
+    "alias": "Warmare"
+  },
+  {
+    "code": "91.05.120",
+    "districtCode": "120",
+    "regencyCode": "91.05",
+    "provinceCode": "91",
+    "name": "Kecamatan Prafi",
+    "alias": "Prafi"
+  },
+  {
+    "code": "91.05.141",
+    "districtCode": "141",
+    "regencyCode": "91.05",
+    "provinceCode": "91",
+    "name": "Kecamatan Manokwari Barat",
+    "alias": "Manokwari Barat"
+  },
+  {
+    "code": "91.05.142",
+    "districtCode": "142",
+    "regencyCode": "91.05",
+    "provinceCode": "91",
+    "name": "Kecamatan Manokwari Timur",
+    "alias": "Manokwari Timur"
+  },
+  {
+    "code": "91.05.143",
+    "districtCode": "143",
+    "regencyCode": "91.05",
+    "provinceCode": "91",
+    "name": "Kecamatan Manokwari Utara",
+    "alias": "Manokwari Utara"
+  },
+  {
+    "code": "91.05.144",
+    "districtCode": "144",
+    "regencyCode": "91.05",
+    "provinceCode": "91",
+    "name": "Kecamatan Manokwari Selatan",
+    "alias": "Manokwari Selatan"
+  },
+  {
+    "code": "91.05.146",
+    "districtCode": "146",
+    "regencyCode": "91.05",
+    "provinceCode": "91",
+    "name": "Kecamatan Tanah Rubuh",
+    "alias": "Tanah Rubuh"
+  },
+  {
+    "code": "91.05.170",
+    "districtCode": "170",
+    "regencyCode": "91.05",
+    "provinceCode": "91",
+    "name": "Kecamatan Masni",
+    "alias": "Masni"
+  },
+  {
+    "code": "91.05.171",
+    "districtCode": "171",
+    "regencyCode": "91.05",
+    "provinceCode": "91",
+    "name": "Kecamatan Sidey",
+    "alias": "Sidey"
+  }
+]

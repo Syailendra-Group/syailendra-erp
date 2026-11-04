@@ -1,0 +1,37 @@
+[
+  {
+    "code": "35.22.040.007",
+    "villageCode": "007",
+    "districtCode": "35.22.040",
+    "name": "Nglampin",
+    "alias": "Nglampin"
+  },
+  {
+    "code": "35.22.040.008",
+    "villageCode": "008",
+    "districtCode": "35.22.040",
+    "name": "Karangmangu",
+    "alias": "Karangmangu"
+  },
+  {
+    "code": "35.22.040.009",
+    "villageCode": "009",
+    "districtCode": "35.22.040",
+    "name": "Ngambon",
+    "alias": "Ngambon"
+  },
+  {
+    "code": "35.22.040.010",
+    "villageCode": "010",
+    "districtCode": "35.22.040",
+    "name": "Sengon",
+    "alias": "Sengon"
+  },
+  {
+    "code": "35.22.040.011",
+    "villageCode": "011",
+    "districtCode": "35.22.040",
+    "name": "Bondol",
+    "alias": "Bondol"
+  }
+]

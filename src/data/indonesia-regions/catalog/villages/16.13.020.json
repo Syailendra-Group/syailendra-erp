@@ -1,0 +1,107 @@
+[
+  {
+    "code": "16.13.020.001",
+    "villageCode": "001",
+    "districtCode": "16.13.020",
+    "name": "Lubuk Kumbung",
+    "alias": "Lubuk Kumbung"
+  },
+  {
+    "code": "16.13.020.002",
+    "villageCode": "002",
+    "districtCode": "16.13.020",
+    "name": "Bukit Ulu",
+    "alias": "Bukit Ulu"
+  },
+  {
+    "code": "16.13.020.003",
+    "villageCode": "003",
+    "districtCode": "16.13.020",
+    "name": "Bukit Langkap",
+    "alias": "Bukit Langkap"
+  },
+  {
+    "code": "16.13.020.004",
+    "villageCode": "004",
+    "districtCode": "16.13.020",
+    "name": "Rantau Jaya",
+    "alias": "Rantau Jaya"
+  },
+  {
+    "code": "16.13.020.005",
+    "villageCode": "005",
+    "districtCode": "16.13.020",
+    "name": "Sukaraja",
+    "alias": "Sukaraja"
+  },
+  {
+    "code": "16.13.020.006",
+    "villageCode": "006",
+    "districtCode": "16.13.020",
+    "name": "Muara Batang Empu",
+    "alias": "Muara Batang Empu"
+  },
+  {
+    "code": "16.13.020.007",
+    "villageCode": "007",
+    "districtCode": "16.13.020",
+    "name": "Rantau Telang",
+    "alias": "Rantau Telang"
+  },
+  {
+    "code": "16.13.020.008",
+    "villageCode": "008",
+    "districtCode": "16.13.020",
+    "name": "Tanjung Agung",
+    "alias": "Tanjung Agung"
+  },
+  {
+    "code": "16.13.020.009",
+    "villageCode": "009",
+    "districtCode": "16.13.020",
+    "name": "Sukamenang",
+    "alias": "Sukamenang"
+  },
+  {
+    "code": "16.13.020.010",
+    "villageCode": "010",
+    "districtCode": "16.13.020",
+    "name": "Terusan",
+    "alias": "Terusan"
+  },
+  {
+    "code": "16.13.020.011",
+    "villageCode": "011",
+    "districtCode": "16.13.020",
+    "name": "Karang Jaya",
+    "alias": "Karang Jaya"
+  },
+  {
+    "code": "16.13.020.012",
+    "villageCode": "012",
+    "districtCode": "16.13.020",
+    "name": "Embacang Baru",
+    "alias": "Embacang Baru"
+  },
+  {
+    "code": "16.13.020.013",
+    "villageCode": "013",
+    "districtCode": "16.13.020",
+    "name": "Embacang Baru Ilir",
+    "alias": "Embacang Baru Ilir"
+  },
+  {
+    "code": "16.13.020.014",
+    "villageCode": "014",
+    "districtCode": "16.13.020",
+    "name": "Embacang Lama",
+    "alias": "Embacang Lama"
+  },
+  {
+    "code": "16.13.020.015",
+    "villageCode": "015",
+    "districtCode": "16.13.020",
+    "name": "Muara Tiku",
+    "alias": "Muara Tiku"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "code": "32.12.010.007",
+    "villageCode": "007",
+    "districtCode": "32.12.010",
+    "name": "Haurkolot",
+    "alias": "Haurkolot"
+  },
+  {
+    "code": "32.12.010.008",
+    "villageCode": "008",
+    "districtCode": "32.12.010",
+    "name": "Haurgeulis",
+    "alias": "Haurgeulis"
+  },
+  {
+    "code": "32.12.010.009",
+    "villageCode": "009",
+    "districtCode": "32.12.010",
+    "name": "Sukajati",
+    "alias": "Sukajati"
+  },
+  {
+    "code": "32.12.010.010",
+    "villageCode": "010",
+    "districtCode": "32.12.010",
+    "name": "Wanakaya",
+    "alias": "Wanakaya"
+  },
+  {
+    "code": "32.12.010.011",
+    "villageCode": "011",
+    "districtCode": "32.12.010",
+    "name": "Karangtumaritis",
+    "alias": "Karangtumaritis"
+  },
+  {
+    "code": "32.12.010.012",
+    "villageCode": "012",
+    "districtCode": "32.12.010",
+    "name": "Kertanegara",
+    "alias": "Kertanegara"
+  },
+  {
+    "code": "32.12.010.013",
+    "villageCode": "013",
+    "districtCode": "32.12.010",
+    "name": "Cipancuh",
+    "alias": "Cipancuh"
+  },
+  {
+    "code": "32.12.010.014",
+    "villageCode": "014",
+    "districtCode": "32.12.010",
+    "name": "Mekarjati",
+    "alias": "Mekarjati"
+  },
+  {
+    "code": "32.12.010.015",
+    "villageCode": "015",
+    "districtCode": "32.12.010",
+    "name": "Sidadadi",
+    "alias": "Sidadadi"
+  },
+  {
+    "code": "32.12.010.016",
+    "villageCode": "016",
+    "districtCode": "32.12.010",
+    "name": "Sumbermulya",
+    "alias": "Sumbermulya"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "code": "33.11.020.001",
+    "villageCode": "001",
+    "districtCode": "33.11.020",
+    "name": "Sanggang",
+    "alias": "Sanggang"
+  },
+  {
+    "code": "33.11.020.002",
+    "villageCode": "002",
+    "districtCode": "33.11.020",
+    "name": "Kamal",
+    "alias": "Kamal"
+  },
+  {
+    "code": "33.11.020.003",
+    "villageCode": "003",
+    "districtCode": "33.11.020",
+    "name": "Gentan",
+    "alias": "Gentan"
+  },
+  {
+    "code": "33.11.020.004",
+    "villageCode": "004",
+    "districtCode": "33.11.020",
+    "name": "Kedungsono",
+    "alias": "Kedungsono"
+  },
+  {
+    "code": "33.11.020.005",
+    "villageCode": "005",
+    "districtCode": "33.11.020",
+    "name": "Tiyaran",
+    "alias": "Tiyaran"
+  },
+  {
+    "code": "33.11.020.006",
+    "villageCode": "006",
+    "districtCode": "33.11.020",
+    "name": "Bulu",
+    "alias": "Bulu"
+  },
+  {
+    "code": "33.11.020.007",
+    "villageCode": "007",
+    "districtCode": "33.11.020",
+    "name": "Kunden",
+    "alias": "Kunden"
+  },
+  {
+    "code": "33.11.020.008",
+    "villageCode": "008",
+    "districtCode": "33.11.020",
+    "name": "Puron",
+    "alias": "Puron"
+  },
+  {
+    "code": "33.11.020.009",
+    "villageCode": "009",
+    "districtCode": "33.11.020",
+    "name": "Malangan",
+    "alias": "Malangan"
+  },
+  {
+    "code": "33.11.020.010",
+    "villageCode": "010",
+    "districtCode": "33.11.020",
+    "name": "Lengking",
+    "alias": "Lengking"
+  },
+  {
+    "code": "33.11.020.011",
+    "villageCode": "011",
+    "districtCode": "33.11.020",
+    "name": "Ngasinan",
+    "alias": "Ngasinan"
+  },
+  {
+    "code": "33.11.020.012",
+    "villageCode": "012",
+    "districtCode": "33.11.020",
+    "name": "Karangasem",
+    "alias": "Karangasem"
+  }
+]

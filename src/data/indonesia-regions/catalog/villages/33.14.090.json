@@ -1,0 +1,72 @@
+[
+  {
+    "code": "33.14.090.001",
+    "villageCode": "001",
+    "districtCode": "33.14.090",
+    "name": "Kedung Waduk",
+    "alias": "Kedung Waduk"
+  },
+  {
+    "code": "33.14.090.002",
+    "villageCode": "002",
+    "districtCode": "33.14.090",
+    "name": "Jurangjero",
+    "alias": "Jurangjero"
+  },
+  {
+    "code": "33.14.090.003",
+    "villageCode": "003",
+    "districtCode": "33.14.090",
+    "name": "Saradan",
+    "alias": "Saradan"
+  },
+  {
+    "code": "33.14.090.004",
+    "villageCode": "004",
+    "districtCode": "33.14.090",
+    "name": "Plosokerep",
+    "alias": "Plosokerep"
+  },
+  {
+    "code": "33.14.090.005",
+    "villageCode": "005",
+    "districtCode": "33.14.090",
+    "name": "Guworejo",
+    "alias": "Guworejo"
+  },
+  {
+    "code": "33.14.090.006",
+    "villageCode": "006",
+    "districtCode": "33.14.090",
+    "name": "Puro",
+    "alias": "Puro"
+  },
+  {
+    "code": "33.14.090.007",
+    "villageCode": "007",
+    "districtCode": "33.14.090",
+    "name": "Mojorejo",
+    "alias": "Mojorejo"
+  },
+  {
+    "code": "33.14.090.008",
+    "villageCode": "008",
+    "districtCode": "33.14.090",
+    "name": "Pelem Gadung",
+    "alias": "Pelem Gadung"
+  },
+  {
+    "code": "33.14.090.009",
+    "villageCode": "009",
+    "districtCode": "33.14.090",
+    "name": "Plumbungan",
+    "alias": "Plumbungan"
+  },
+  {
+    "code": "33.14.090.010",
+    "villageCode": "010",
+    "districtCode": "33.14.090",
+    "name": "Kroyo",
+    "alias": "Kroyo"
+  }
+]

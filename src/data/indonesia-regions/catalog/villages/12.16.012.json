@@ -1,0 +1,30 @@
+[
+  {
+    "code": "12.16.012.001",
+    "villageCode": "001",
+    "districtCode": "12.16.012",
+    "name": "Sibagindar",
+    "alias": "Sibagindar"
+  },
+  {
+    "code": "12.16.012.002",
+    "villageCode": "002",
+    "districtCode": "12.16.012",
+    "name": "Pagindar",
+    "alias": "Pagindar"
+  },
+  {
+    "code": "12.16.012.003",
+    "villageCode": "003",
+    "districtCode": "12.16.012",
+    "name": "Lae Mbentar",
+    "alias": "Lae Mbentar"
+  },
+  {
+    "code": "12.16.012.004",
+    "villageCode": "004",
+    "districtCode": "12.16.012",
+    "name": "Napatalun Perlambukan",
+    "alias": "Napatalun Perlambukan"
+  }
+]

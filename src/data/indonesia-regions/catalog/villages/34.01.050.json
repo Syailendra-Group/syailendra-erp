@@ -1,0 +1,44 @@
+[
+  {
+    "code": "34.01.050.001",
+    "villageCode": "001",
+    "districtCode": "34.01.050",
+    "name": "Wahyuharjo",
+    "alias": "Wahyuharjo"
+  },
+  {
+    "code": "34.01.050.002",
+    "villageCode": "002",
+    "districtCode": "34.01.050",
+    "name": "Bumirejo",
+    "alias": "Bumirejo"
+  },
+  {
+    "code": "34.01.050.003",
+    "villageCode": "003",
+    "districtCode": "34.01.050",
+    "name": "Jatirejo",
+    "alias": "Jatirejo"
+  },
+  {
+    "code": "34.01.050.004",
+    "villageCode": "004",
+    "districtCode": "34.01.050",
+    "name": "Sidorejo",
+    "alias": "Sidorejo"
+  },
+  {
+    "code": "34.01.050.005",
+    "villageCode": "005",
+    "districtCode": "34.01.050",
+    "name": "Gulurejo",
+    "alias": "Gulurejo"
+  },
+  {
+    "code": "34.01.050.006",
+    "villageCode": "006",
+    "districtCode": "34.01.050",
+    "name": "Ngentakrejo",
+    "alias": "Ngentakrejo"
+  }
+]

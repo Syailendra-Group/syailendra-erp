@@ -1,0 +1,114 @@
+[
+  {
+    "code": "63.10.030.001",
+    "villageCode": "001",
+    "districtCode": "63.10.030",
+    "name": "Sungai Cuka",
+    "alias": "Sungai Cuka"
+  },
+  {
+    "code": "63.10.030.002",
+    "villageCode": "002",
+    "districtCode": "63.10.030",
+    "name": "Sejahtera Mulia",
+    "alias": "Sejahtera Mulia"
+  },
+  {
+    "code": "63.10.030.003",
+    "villageCode": "003",
+    "districtCode": "63.10.030",
+    "name": "Jombang",
+    "alias": "Jombang"
+  },
+  {
+    "code": "63.10.030.004",
+    "villageCode": "004",
+    "districtCode": "63.10.030",
+    "name": "Sungai Danau",
+    "alias": "Sungai Danau"
+  },
+  {
+    "code": "63.10.030.005",
+    "villageCode": "005",
+    "districtCode": "63.10.030",
+    "name": "Satui Timur",
+    "alias": "Satui Timur"
+  },
+  {
+    "code": "63.10.030.007",
+    "villageCode": "007",
+    "districtCode": "63.10.030",
+    "name": "Satui Barat",
+    "alias": "Satui Barat"
+  },
+  {
+    "code": "63.10.030.008",
+    "villageCode": "008",
+    "districtCode": "63.10.030",
+    "name": "Setarap",
+    "alias": "Setarap"
+  },
+  {
+    "code": "63.10.030.016",
+    "villageCode": "016",
+    "districtCode": "63.10.030",
+    "name": "Tegal Sari",
+    "alias": "Tegal Sari"
+  },
+  {
+    "code": "63.10.030.017",
+    "villageCode": "017",
+    "districtCode": "63.10.030",
+    "name": "Sekapuk",
+    "alias": "Sekapuk"
+  },
+  {
+    "code": "63.10.030.018",
+    "villageCode": "018",
+    "districtCode": "63.10.030",
+    "name": "Sumber Makmur",
+    "alias": "Sumber Makmur"
+  },
+  {
+    "code": "63.10.030.019",
+    "villageCode": "019",
+    "districtCode": "63.10.030",
+    "name": "Wonorejo",
+    "alias": "Wonorejo"
+  },
+  {
+    "code": "63.10.030.020",
+    "villageCode": "020",
+    "districtCode": "63.10.030",
+    "name": "Sumber Arum",
+    "alias": "Sumber Arum"
+  },
+  {
+    "code": "63.10.030.021",
+    "villageCode": "021",
+    "districtCode": "63.10.030",
+    "name": "Makmur Mulia",
+    "alias": "Makmur Mulia"
+  },
+  {
+    "code": "63.10.030.022",
+    "villageCode": "022",
+    "districtCode": "63.10.030",
+    "name": "Al Kautsar",
+    "alias": "Al Kautsar"
+  },
+  {
+    "code": "63.10.030.025",
+    "villageCode": "025",
+    "districtCode": "63.10.030",
+    "name": "Sinar Bulan",
+    "alias": "Sinar Bulan"
+  },
+  {
+    "code": "63.10.030.026",
+    "villageCode": "026",
+    "districtCode": "63.10.030",
+    "name": "Pendamaran Jaya",
+    "alias": "Pendamaran Jaya"
+  }
+]

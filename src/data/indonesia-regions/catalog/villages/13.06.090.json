@@ -1,0 +1,30 @@
+[
+  {
+    "code": "13.06.090.001",
+    "villageCode": "001",
+    "districtCode": "13.06.090",
+    "name": "Kuranji Hulu",
+    "alias": "Kuranji Hulu"
+  },
+  {
+    "code": "13.06.090.002",
+    "villageCode": "002",
+    "districtCode": "13.06.090",
+    "name": "Malai Iii Koto",
+    "alias": "Malai Iii Koto"
+  },
+  {
+    "code": "13.06.090.003",
+    "villageCode": "003",
+    "districtCode": "13.06.090",
+    "name": "Batu Gadang Kuranji Hulu",
+    "alias": "Batu Gadang Kuranji Hulu"
+  },
+  {
+    "code": "13.06.090.004",
+    "villageCode": "004",
+    "districtCode": "13.06.090",
+    "name": "Sungai Sirah Kuranji Hulu",
+    "alias": "Sungai Sirah Kuranji Hulu"
+  }
+]

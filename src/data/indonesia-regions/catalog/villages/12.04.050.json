@@ -1,0 +1,100 @@
+[
+  {
+    "code": "12.04.050.001",
+    "villageCode": "001",
+    "districtCode": "12.04.050",
+    "name": "Unte Mungkur Iv",
+    "alias": "Unte Mungkur Iv"
+  },
+  {
+    "code": "12.04.050.003",
+    "villageCode": "003",
+    "districtCode": "12.04.050",
+    "name": "Unte Mungkur Iii",
+    "alias": "Unte Mungkur Iii"
+  },
+  {
+    "code": "12.04.050.004",
+    "villageCode": "004",
+    "districtCode": "12.04.050",
+    "name": "Unte Mungkur Ii",
+    "alias": "Unte Mungkur Ii"
+  },
+  {
+    "code": "12.04.050.006",
+    "villageCode": "006",
+    "districtCode": "12.04.050",
+    "name": "Unte Mungkur I",
+    "alias": "Unte Mungkur I"
+  },
+  {
+    "code": "12.04.050.007",
+    "villageCode": "007",
+    "districtCode": "12.04.050",
+    "name": "Satahi Nauli",
+    "alias": "Satahi Nauli"
+  },
+  {
+    "code": "12.04.050.008",
+    "villageCode": "008",
+    "districtCode": "12.04.050",
+    "name": "Hurlang Muara Nauli",
+    "alias": "Hurlang Muara Nauli"
+  },
+  {
+    "code": "12.04.050.009",
+    "villageCode": "009",
+    "districtCode": "12.04.050",
+    "name": "Kolang Nauli",
+    "alias": "Kolang Nauli"
+  },
+  {
+    "code": "12.04.050.010",
+    "villageCode": "010",
+    "districtCode": "12.04.050",
+    "name": "Pasar Onan Hurlang",
+    "alias": "Pasar Onan Hurlang"
+  },
+  {
+    "code": "12.04.050.011",
+    "villageCode": "011",
+    "districtCode": "12.04.050",
+    "name": "Sipakpahi Aek Lobu",
+    "alias": "Sipakpahi Aek Lobu"
+  },
+  {
+    "code": "12.04.050.012",
+    "villageCode": "012",
+    "districtCode": "12.04.050",
+    "name": "Hudopa Nauli",
+    "alias": "Hudopa Nauli"
+  },
+  {
+    "code": "12.04.050.013",
+    "villageCode": "013",
+    "districtCode": "12.04.050",
+    "name": "Rawa Makmur",
+    "alias": "Rawa Makmur"
+  },
+  {
+    "code": "12.04.050.014",
+    "villageCode": "014",
+    "districtCode": "12.04.050",
+    "name": "Makarti Nauli",
+    "alias": "Makarti Nauli"
+  },
+  {
+    "code": "12.04.050.015",
+    "villageCode": "015",
+    "districtCode": "12.04.050",
+    "name": "Pargaringan",
+    "alias": "Pargaringan"
+  },
+  {
+    "code": "12.04.050.016",
+    "villageCode": "016",
+    "districtCode": "12.04.050",
+    "name": "Simarpinggan",
+    "alias": "Simarpinggan"
+  }
+]

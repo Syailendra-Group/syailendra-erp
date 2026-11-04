@@ -1,0 +1,58 @@
+[
+  {
+    "code": "52.05.010.001",
+    "villageCode": "001",
+    "districtCode": "52.05.010",
+    "name": "Huu",
+    "alias": "Huu"
+  },
+  {
+    "code": "52.05.010.002",
+    "villageCode": "002",
+    "districtCode": "52.05.010",
+    "name": "Daha",
+    "alias": "Daha"
+  },
+  {
+    "code": "52.05.010.003",
+    "villageCode": "003",
+    "districtCode": "52.05.010",
+    "name": "Rasabou",
+    "alias": "Rasabou"
+  },
+  {
+    "code": "52.05.010.004",
+    "villageCode": "004",
+    "districtCode": "52.05.010",
+    "name": "Cempi Jaya",
+    "alias": "Cempi Jaya"
+  },
+  {
+    "code": "52.05.010.005",
+    "villageCode": "005",
+    "districtCode": "52.05.010",
+    "name": "Adu",
+    "alias": "Adu"
+  },
+  {
+    "code": "52.05.010.006",
+    "villageCode": "006",
+    "districtCode": "52.05.010",
+    "name": "Sawe",
+    "alias": "Sawe"
+  },
+  {
+    "code": "52.05.010.007",
+    "villageCode": "007",
+    "districtCode": "52.05.010",
+    "name": "Jala",
+    "alias": "Jala"
+  },
+  {
+    "code": "52.05.010.008",
+    "villageCode": "008",
+    "districtCode": "52.05.010",
+    "name": "Marada",
+    "alias": "Marada"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "code": "63.01.061.001",
+    "villageCode": "001",
+    "districtCode": "63.01.061",
+    "name": "Tirta Jaya",
+    "alias": "Tirta Jaya"
+  },
+  {
+    "code": "63.01.061.002",
+    "villageCode": "002",
+    "districtCode": "63.01.061",
+    "name": "Galam",
+    "alias": "Galam"
+  },
+  {
+    "code": "63.01.061.003",
+    "villageCode": "003",
+    "districtCode": "63.01.061",
+    "name": "Pemalongan",
+    "alias": "Pemalongan"
+  },
+  {
+    "code": "63.01.061.004",
+    "villageCode": "004",
+    "districtCode": "63.01.061",
+    "name": "Ketapang",
+    "alias": "Ketapang"
+  },
+  {
+    "code": "63.01.061.005",
+    "villageCode": "005",
+    "districtCode": "63.01.061",
+    "name": "Kunyit",
+    "alias": "Kunyit"
+  },
+  {
+    "code": "63.01.061.006",
+    "villageCode": "006",
+    "districtCode": "63.01.061",
+    "name": "Bajuin",
+    "alias": "Bajuin"
+  },
+  {
+    "code": "63.01.061.007",
+    "villageCode": "007",
+    "districtCode": "63.01.061",
+    "name": "Sungai Bakar",
+    "alias": "Sungai Bakar"
+  },
+  {
+    "code": "63.01.061.008",
+    "villageCode": "008",
+    "districtCode": "63.01.061",
+    "name": "Tanjung",
+    "alias": "Tanjung"
+  },
+  {
+    "code": "63.01.061.009",
+    "villageCode": "009",
+    "districtCode": "63.01.061",
+    "name": "Tebing Siring",
+    "alias": "Tebing Siring"
+  }
+]

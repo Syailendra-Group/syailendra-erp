@@ -1,0 +1,86 @@
+[
+  {
+    "code": "12.18.110.001",
+    "villageCode": "001",
+    "districtCode": "12.18.110",
+    "name": "Ujung Rambung",
+    "alias": "Ujung Rambung"
+  },
+  {
+    "code": "12.18.110.002",
+    "villageCode": "002",
+    "districtCode": "12.18.110",
+    "name": "Celawan",
+    "alias": "Celawan"
+  },
+  {
+    "code": "12.18.110.003",
+    "villageCode": "003",
+    "districtCode": "12.18.110",
+    "name": "Besar 2 Terjun",
+    "alias": "Besar 2 Terjun"
+  },
+  {
+    "code": "12.18.110.004",
+    "villageCode": "004",
+    "districtCode": "12.18.110",
+    "name": "Sementara",
+    "alias": "Sementara"
+  },
+  {
+    "code": "12.18.110.005",
+    "villageCode": "005",
+    "districtCode": "12.18.110",
+    "name": "Ara Payung",
+    "alias": "Ara Payung"
+  },
+  {
+    "code": "12.18.110.006",
+    "villageCode": "006",
+    "districtCode": "12.18.110",
+    "name": "Pematang Kasih",
+    "alias": "Pematang Kasih"
+  },
+  {
+    "code": "12.18.110.007",
+    "villageCode": "007",
+    "districtCode": "12.18.110",
+    "name": "Naga Kisar",
+    "alias": "Naga Kisar"
+  },
+  {
+    "code": "12.18.110.008",
+    "villageCode": "008",
+    "districtCode": "12.18.110",
+    "name": "Lubuk Saban",
+    "alias": "Lubuk Saban"
+  },
+  {
+    "code": "12.18.110.009",
+    "villageCode": "009",
+    "districtCode": "12.18.110",
+    "name": "Kuala Lama",
+    "alias": "Kuala Lama"
+  },
+  {
+    "code": "12.18.110.010",
+    "villageCode": "010",
+    "districtCode": "12.18.110",
+    "name": "Pantai Cermin Kiri",
+    "alias": "Pantai Cermin Kiri"
+  },
+  {
+    "code": "12.18.110.011",
+    "villageCode": "011",
+    "districtCode": "12.18.110",
+    "name": "Pantai Cermin Kanan",
+    "alias": "Pantai Cermin Kanan"
+  },
+  {
+    "code": "12.18.110.012",
+    "villageCode": "012",
+    "districtCode": "12.18.110",
+    "name": "Kota Pari",
+    "alias": "Kota Pari"
+  }
+]

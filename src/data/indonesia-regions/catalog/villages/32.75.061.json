@@ -1,0 +1,30 @@
+[
+  {
+    "code": "32.75.061.001",
+    "villageCode": "001",
+    "districtCode": "32.75.061",
+    "name": "Harapan Mulya",
+    "alias": "Harapan Mulya"
+  },
+  {
+    "code": "32.75.061.002",
+    "villageCode": "002",
+    "districtCode": "32.75.061",
+    "name": "Kali Baru",
+    "alias": "Kali Baru"
+  },
+  {
+    "code": "32.75.061.003",
+    "villageCode": "003",
+    "districtCode": "32.75.061",
+    "name": "Medan Satria",
+    "alias": "Medan Satria"
+  },
+  {
+    "code": "32.75.061.004",
+    "villageCode": "004",
+    "districtCode": "32.75.061",
+    "name": "Pejuang",
+    "alias": "Pejuang"
+  }
+]

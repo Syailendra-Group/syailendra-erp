@@ -1,0 +1,72 @@
+[
+  {
+    "code": "12.14.062.001",
+    "villageCode": "001",
+    "districtCode": "12.14.062",
+    "name": "Luahandroito",
+    "alias": "Luahandroito"
+  },
+  {
+    "code": "12.14.062.002",
+    "villageCode": "002",
+    "districtCode": "12.14.062",
+    "name": "Tetegawaai",
+    "alias": "Tetegawaai"
+  },
+  {
+    "code": "12.14.062.003",
+    "villageCode": "003",
+    "districtCode": "12.14.062",
+    "name": "Hilimbaruzo",
+    "alias": "Hilimbaruzo"
+  },
+  {
+    "code": "12.14.062.005",
+    "villageCode": "005",
+    "districtCode": "12.14.062",
+    "name": "Siofabanua",
+    "alias": "Siofabanua"
+  },
+  {
+    "code": "12.14.062.006",
+    "villageCode": "006",
+    "districtCode": "12.14.062",
+    "name": "Tafulu",
+    "alias": "Tafulu"
+  },
+  {
+    "code": "12.14.062.007",
+    "villageCode": "007",
+    "districtCode": "12.14.062",
+    "name": "Hilimaufa",
+    "alias": "Hilimaufa"
+  },
+  {
+    "code": "12.14.062.009",
+    "villageCode": "009",
+    "districtCode": "12.14.062",
+    "name": "Ulu Mazo",
+    "alias": "Ulu Mazo"
+  },
+  {
+    "code": "12.14.062.010",
+    "villageCode": "010",
+    "districtCode": "12.14.062",
+    "name": "Tetegawai Ehomo",
+    "alias": "Tetegawai Ehomo"
+  },
+  {
+    "code": "12.14.062.011",
+    "villageCode": "011",
+    "districtCode": "12.14.062",
+    "name": "Orahuahili",
+    "alias": "Orahuahili"
+  },
+  {
+    "code": "12.14.062.012",
+    "villageCode": "012",
+    "districtCode": "12.14.062",
+    "name": "Guigui",
+    "alias": "Guigui"
+  }
+]

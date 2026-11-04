@@ -1,0 +1,30 @@
+[
+  {
+    "code": "19.06.010.004",
+    "villageCode": "004",
+    "districtCode": "19.06.010",
+    "name": "Dendang",
+    "alias": "Dendang"
+  },
+  {
+    "code": "19.06.010.005",
+    "villageCode": "005",
+    "districtCode": "19.06.010",
+    "name": "Jangkang",
+    "alias": "Jangkang"
+  },
+  {
+    "code": "19.06.010.006",
+    "villageCode": "006",
+    "districtCode": "19.06.010",
+    "name": "Nyuruk",
+    "alias": "Nyuruk"
+  },
+  {
+    "code": "19.06.010.008",
+    "villageCode": "008",
+    "districtCode": "19.06.010",
+    "name": "Balok",
+    "alias": "Balok"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "code": "35.07.050.001",
+    "villageCode": "001",
+    "districtCode": "35.07.050",
+    "name": "Tumpakrejo",
+    "alias": "Tumpakrejo"
+  },
+  {
+    "code": "35.07.050.002",
+    "villageCode": "002",
+    "districtCode": "35.07.050",
+    "name": "Sindurejo",
+    "alias": "Sindurejo"
+  },
+  {
+    "code": "35.07.050.003",
+    "villageCode": "003",
+    "districtCode": "35.07.050",
+    "name": "Gajahrejo",
+    "alias": "Gajahrejo"
+  },
+  {
+    "code": "35.07.050.004",
+    "villageCode": "004",
+    "districtCode": "35.07.050",
+    "name": "Sidodadi",
+    "alias": "Sidodadi"
+  },
+  {
+    "code": "35.07.050.005",
+    "villageCode": "005",
+    "districtCode": "35.07.050",
+    "name": "Gedangan",
+    "alias": "Gedangan"
+  },
+  {
+    "code": "35.07.050.006",
+    "villageCode": "006",
+    "districtCode": "35.07.050",
+    "name": "Segaran",
+    "alias": "Segaran"
+  },
+  {
+    "code": "35.07.050.007",
+    "villageCode": "007",
+    "districtCode": "35.07.050",
+    "name": "Sumberejo",
+    "alias": "Sumberejo"
+  },
+  {
+    "code": "35.07.050.008",
+    "villageCode": "008",
+    "districtCode": "35.07.050",
+    "name": "Girimulyo",
+    "alias": "Girimulyo"
+  }
+]

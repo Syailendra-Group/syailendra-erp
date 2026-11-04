@@ -1,0 +1,121 @@
+[
+  {
+    "code": "15.04.011.001",
+    "villageCode": "001",
+    "districtCode": "15.04.011",
+    "name": "Batu Sawar",
+    "alias": "Batu Sawar"
+  },
+  {
+    "code": "15.04.011.002",
+    "villageCode": "002",
+    "districtCode": "15.04.011",
+    "name": "Peninjauan",
+    "alias": "Peninjauan"
+  },
+  {
+    "code": "15.04.011.003",
+    "villageCode": "003",
+    "districtCode": "15.04.011",
+    "name": "Teluk Leban",
+    "alias": "Teluk Leban"
+  },
+  {
+    "code": "15.04.011.004",
+    "villageCode": "004",
+    "districtCode": "15.04.011",
+    "name": "Kampung Baru",
+    "alias": "Kampung Baru"
+  },
+  {
+    "code": "15.04.011.005",
+    "villageCode": "005",
+    "districtCode": "15.04.011",
+    "name": "Padang Kelapo",
+    "alias": "Padang Kelapo"
+  },
+  {
+    "code": "15.04.011.006",
+    "villageCode": "006",
+    "districtCode": "15.04.011",
+    "name": "Sungai Lingkar",
+    "alias": "Sungai Lingkar"
+  },
+  {
+    "code": "15.04.011.007",
+    "villageCode": "007",
+    "districtCode": "15.04.011",
+    "name": "Sungai Ruan Ilir",
+    "alias": "Sungai Ruan Ilir"
+  },
+  {
+    "code": "15.04.011.008",
+    "villageCode": "008",
+    "districtCode": "15.04.011",
+    "name": "Sungai Ruan Ulu",
+    "alias": "Sungai Ruan Ulu"
+  },
+  {
+    "code": "15.04.011.009",
+    "villageCode": "009",
+    "districtCode": "15.04.011",
+    "name": "Olak Kemang",
+    "alias": "Olak Kemang"
+  },
+  {
+    "code": "15.04.011.010",
+    "villageCode": "010",
+    "districtCode": "15.04.011",
+    "name": "Tebing Tinggi",
+    "alias": "Tebing Tinggi"
+  },
+  {
+    "code": "15.04.011.011",
+    "villageCode": "011",
+    "districtCode": "15.04.011",
+    "name": "Rengas Ix",
+    "alias": "Rengas Ix"
+  },
+  {
+    "code": "15.04.011.012",
+    "villageCode": "012",
+    "districtCode": "15.04.011",
+    "name": "Kembang Seri",
+    "alias": "Kembang Seri"
+  },
+  {
+    "code": "15.04.011.013",
+    "villageCode": "013",
+    "districtCode": "15.04.011",
+    "name": "Buluh Kasab",
+    "alias": "Buluh Kasab"
+  },
+  {
+    "code": "15.04.011.014",
+    "villageCode": "014",
+    "districtCode": "15.04.011",
+    "name": "Simpang Sungai Rengas",
+    "alias": "Simpang Sungai Rengas"
+  },
+  {
+    "code": "15.04.011.015",
+    "villageCode": "015",
+    "districtCode": "15.04.011",
+    "name": "Rawa Mekar",
+    "alias": "Rawa Mekar"
+  },
+  {
+    "code": "15.04.011.016",
+    "villageCode": "016",
+    "districtCode": "15.04.011",
+    "name": "Mekar Sari",
+    "alias": "Mekar Sari"
+  },
+  {
+    "code": "15.04.011.017",
+    "villageCode": "017",
+    "districtCode": "15.04.011",
+    "name": "Kembang Seri Baru",
+    "alias": "Kembang Seri Baru"
+  }
+]

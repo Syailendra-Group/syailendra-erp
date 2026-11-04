@@ -1,0 +1,51 @@
+[
+  {
+    "code": "61.02.030.004",
+    "villageCode": "004",
+    "districtCode": "61.02.030",
+    "name": "Sabau",
+    "alias": "Sabau"
+  },
+  {
+    "code": "61.02.030.005",
+    "villageCode": "005",
+    "districtCode": "61.02.030",
+    "name": "Tumiang",
+    "alias": "Tumiang"
+  },
+  {
+    "code": "61.02.030.006",
+    "villageCode": "006",
+    "districtCode": "61.02.030",
+    "name": "Pastijaya",
+    "alias": "Pastijaya"
+  },
+  {
+    "code": "61.02.030.007",
+    "villageCode": "007",
+    "districtCode": "61.02.030",
+    "name": "Babane",
+    "alias": "Babane"
+  },
+  {
+    "code": "61.02.030.008",
+    "villageCode": "008",
+    "districtCode": "61.02.030",
+    "name": "Bukit Serayan",
+    "alias": "Bukit Serayan"
+  },
+  {
+    "code": "61.02.030.009",
+    "villageCode": "009",
+    "districtCode": "61.02.030",
+    "name": "Marunsu",
+    "alias": "Marunsu"
+  },
+  {
+    "code": "61.02.030.010",
+    "villageCode": "010",
+    "districtCode": "61.02.030",
+    "name": "Samalantan",
+    "alias": "Samalantan"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "code": "94.19.051.001",
+    "villageCode": "001",
+    "districtCode": "94.19.051",
+    "name": "Sewan",
+    "alias": "Sewan"
+  },
+  {
+    "code": "94.19.051.004",
+    "villageCode": "004",
+    "districtCode": "94.19.051",
+    "name": "Binyer",
+    "alias": "Binyer"
+  },
+  {
+    "code": "94.19.051.005",
+    "villageCode": "005",
+    "districtCode": "94.19.051",
+    "name": "Waskey",
+    "alias": "Waskey"
+  },
+  {
+    "code": "94.19.051.011",
+    "villageCode": "011",
+    "districtCode": "94.19.051",
+    "name": "Sewan Ii",
+    "alias": "Sewan Ii"
+  }
+]

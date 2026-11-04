@@ -1,0 +1,37 @@
+[
+  {
+    "code": "94.19.054.001",
+    "villageCode": "001",
+    "districtCode": "94.19.054",
+    "name": "Holmafem",
+    "alias": "Holmafem"
+  },
+  {
+    "code": "94.19.054.002",
+    "villageCode": "002",
+    "districtCode": "94.19.054",
+    "name": "Ebram",
+    "alias": "Ebram"
+  },
+  {
+    "code": "94.19.054.003",
+    "villageCode": "003",
+    "districtCode": "94.19.054",
+    "name": "Tanjung Batu",
+    "alias": "Tanjung Batu"
+  },
+  {
+    "code": "94.19.054.005",
+    "villageCode": "005",
+    "districtCode": "94.19.054",
+    "name": "Omte/Kwepke",
+    "alias": "Omte/Kwepke"
+  },
+  {
+    "code": "94.19.054.006",
+    "villageCode": "006",
+    "districtCode": "94.19.054",
+    "name": "Weyen",
+    "alias": "Weyen"
+  }
+]

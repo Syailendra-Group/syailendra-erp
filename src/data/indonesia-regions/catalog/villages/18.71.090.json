@@ -1,0 +1,44 @@
+[
+  {
+    "code": "18.71.090.005",
+    "villageCode": "005",
+    "districtCode": "18.71.090",
+    "name": "Sukarame",
+    "alias": "Sukarame"
+  },
+  {
+    "code": "18.71.090.009",
+    "villageCode": "009",
+    "districtCode": "18.71.090",
+    "name": "Way Dadi",
+    "alias": "Way Dadi"
+  },
+  {
+    "code": "18.71.090.011",
+    "villageCode": "011",
+    "districtCode": "18.71.090",
+    "name": "Korpri Jaya",
+    "alias": "Korpri Jaya"
+  },
+  {
+    "code": "18.71.090.012",
+    "villageCode": "012",
+    "districtCode": "18.71.090",
+    "name": "Way Dadi Baru",
+    "alias": "Way Dadi Baru"
+  },
+  {
+    "code": "18.71.090.013",
+    "villageCode": "013",
+    "districtCode": "18.71.090",
+    "name": "Korpri Raya",
+    "alias": "Korpri Raya"
+  },
+  {
+    "code": "18.71.090.014",
+    "villageCode": "014",
+    "districtCode": "18.71.090",
+    "name": "Sukarame Baru",
+    "alias": "Sukarame Baru"
+  }
+]

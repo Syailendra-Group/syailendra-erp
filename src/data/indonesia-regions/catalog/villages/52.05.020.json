@@ -1,0 +1,107 @@
+[
+  {
+    "code": "52.05.020.001",
+    "villageCode": "001",
+    "districtCode": "52.05.020",
+    "name": "Mbawi",
+    "alias": "Mbawi"
+  },
+  {
+    "code": "52.05.020.002",
+    "villageCode": "002",
+    "districtCode": "52.05.020",
+    "name": "Dorebara",
+    "alias": "Dorebara"
+  },
+  {
+    "code": "52.05.020.004",
+    "villageCode": "004",
+    "districtCode": "52.05.020",
+    "name": "Kandai Satu",
+    "alias": "Kandai Satu"
+  },
+  {
+    "code": "52.05.020.005",
+    "villageCode": "005",
+    "districtCode": "52.05.020",
+    "name": "Karijawa",
+    "alias": "Karijawa"
+  },
+  {
+    "code": "52.05.020.006",
+    "villageCode": "006",
+    "districtCode": "52.05.020",
+    "name": "Potu",
+    "alias": "Potu"
+  },
+  {
+    "code": "52.05.020.007",
+    "villageCode": "007",
+    "districtCode": "52.05.020",
+    "name": "Bada",
+    "alias": "Bada"
+  },
+  {
+    "code": "52.05.020.008",
+    "villageCode": "008",
+    "districtCode": "52.05.020",
+    "name": "Bali",
+    "alias": "Bali"
+  },
+  {
+    "code": "52.05.020.009",
+    "villageCode": "009",
+    "districtCode": "52.05.020",
+    "name": "Dorotangga",
+    "alias": "Dorotangga"
+  },
+  {
+    "code": "52.05.020.010",
+    "villageCode": "010",
+    "districtCode": "52.05.020",
+    "name": "Oo",
+    "alias": "Oo"
+  },
+  {
+    "code": "52.05.020.011",
+    "villageCode": "011",
+    "districtCode": "52.05.020",
+    "name": "Katua",
+    "alias": "Katua"
+  },
+  {
+    "code": "52.05.020.012",
+    "villageCode": "012",
+    "districtCode": "52.05.020",
+    "name": "Karamabura",
+    "alias": "Karamabura"
+  },
+  {
+    "code": "52.05.020.013",
+    "villageCode": "013",
+    "districtCode": "52.05.020",
+    "name": "Kareke",
+    "alias": "Kareke"
+  },
+  {
+    "code": "52.05.020.014",
+    "villageCode": "014",
+    "districtCode": "52.05.020",
+    "name": "Mangge Nae",
+    "alias": "Mangge Nae"
+  },
+  {
+    "code": "52.05.020.015",
+    "villageCode": "015",
+    "districtCode": "52.05.020",
+    "name": "Mangge Asi",
+    "alias": "Mangge Asi"
+  },
+  {
+    "code": "52.05.020.016",
+    "villageCode": "016",
+    "districtCode": "52.05.020",
+    "name": "Sorisakolo",
+    "alias": "Sorisakolo"
+  }
+]

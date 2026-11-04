@@ -1,0 +1,82 @@
+[
+  {
+    "code": "11.01.010",
+    "districtCode": "010",
+    "regencyCode": "11.01",
+    "provinceCode": "11",
+    "name": "Kecamatan Teupah Selatan",
+    "alias": "Teupah Selatan"
+  },
+  {
+    "code": "11.01.020",
+    "districtCode": "020",
+    "regencyCode": "11.01",
+    "provinceCode": "11",
+    "name": "Kecamatan Simeulue Timur",
+    "alias": "Simeulue Timur"
+  },
+  {
+    "code": "11.01.021",
+    "districtCode": "021",
+    "regencyCode": "11.01",
+    "provinceCode": "11",
+    "name": "Kecamatan Teupah Barat",
+    "alias": "Teupah Barat"
+  },
+  {
+    "code": "11.01.022",
+    "districtCode": "022",
+    "regencyCode": "11.01",
+    "provinceCode": "11",
+    "name": "Kecamatan Teupah Tengah",
+    "alias": "Teupah Tengah"
+  },
+  {
+    "code": "11.01.030",
+    "districtCode": "030",
+    "regencyCode": "11.01",
+    "provinceCode": "11",
+    "name": "Kecamatan Simeulue Tengah",
+    "alias": "Simeulue Tengah"
+  },
+  {
+    "code": "11.01.031",
+    "districtCode": "031",
+    "regencyCode": "11.01",
+    "provinceCode": "11",
+    "name": "Kecamatan Teluk Dalam",
+    "alias": "Teluk Dalam"
+  },
+  {
+    "code": "11.01.032",
+    "districtCode": "032",
+    "regencyCode": "11.01",
+    "provinceCode": "11",
+    "name": "Kecamatan Simeulue Cut",
+    "alias": "Simeulue Cut"
+  },
+  {
+    "code": "11.01.040",
+    "districtCode": "040",
+    "regencyCode": "11.01",
+    "provinceCode": "11",
+    "name": "Kecamatan Salang",
+    "alias": "Salang"
+  },
+  {
+    "code": "11.01.050",
+    "districtCode": "050",
+    "regencyCode": "11.01",
+    "provinceCode": "11",
+    "name": "Kecamatan Simeulue Barat",
+    "alias": "Simeulue Barat"
+  },
+  {
+    "code": "11.01.051",
+    "districtCode": "051",
+    "regencyCode": "11.01",
+    "provinceCode": "11",
+    "name": "Kecamatan Alafan",
+    "alias": "Alafan"
+  }
+]

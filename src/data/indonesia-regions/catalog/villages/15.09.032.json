@@ -1,0 +1,65 @@
+[
+  {
+    "code": "15.09.032.001",
+    "villageCode": "001",
+    "districtCode": "15.09.032",
+    "name": "Sungai Telang",
+    "alias": "Sungai Telang"
+  },
+  {
+    "code": "15.09.032.002",
+    "villageCode": "002",
+    "districtCode": "15.09.032",
+    "name": "Timbolasi",
+    "alias": "Timbolasi"
+  },
+  {
+    "code": "15.09.032.003",
+    "villageCode": "003",
+    "districtCode": "15.09.032",
+    "name": "Karak Apung",
+    "alias": "Karak Apung"
+  },
+  {
+    "code": "15.09.032.004",
+    "villageCode": "004",
+    "districtCode": "15.09.032",
+    "name": "Muara Buat",
+    "alias": "Muara Buat"
+  },
+  {
+    "code": "15.09.032.005",
+    "villageCode": "005",
+    "districtCode": "15.09.032",
+    "name": "Buat",
+    "alias": "Buat"
+  },
+  {
+    "code": "15.09.032.006",
+    "villageCode": "006",
+    "districtCode": "15.09.032",
+    "name": "Lubuk Beringin",
+    "alias": "Lubuk Beringin"
+  },
+  {
+    "code": "15.09.032.007",
+    "villageCode": "007",
+    "districtCode": "15.09.032",
+    "name": "Laman Panjang",
+    "alias": "Laman Panjang"
+  },
+  {
+    "code": "15.09.032.008",
+    "villageCode": "008",
+    "districtCode": "15.09.032",
+    "name": "Senamat Ulu",
+    "alias": "Senamat Ulu"
+  },
+  {
+    "code": "15.09.032.009",
+    "villageCode": "009",
+    "districtCode": "15.09.032",
+    "name": "Aur Cino",
+    "alias": "Aur Cino"
+  }
+]

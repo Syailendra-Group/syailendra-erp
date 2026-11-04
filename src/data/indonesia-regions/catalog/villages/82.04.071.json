@@ -1,0 +1,51 @@
+[
+  {
+    "code": "82.04.071.001",
+    "villageCode": "001",
+    "districtCode": "82.04.071",
+    "name": "Ombawa",
+    "alias": "Ombawa"
+  },
+  {
+    "code": "82.04.071.002",
+    "villageCode": "002",
+    "districtCode": "82.04.071",
+    "name": "Bobawae",
+    "alias": "Bobawae"
+  },
+  {
+    "code": "82.04.071.003",
+    "villageCode": "003",
+    "districtCode": "82.04.071",
+    "name": "Malapat",
+    "alias": "Malapat"
+  },
+  {
+    "code": "82.04.071.004",
+    "villageCode": "004",
+    "districtCode": "82.04.071",
+    "name": "Sebelei",
+    "alias": "Sebelei"
+  },
+  {
+    "code": "82.04.071.005",
+    "villageCode": "005",
+    "districtCode": "82.04.071",
+    "name": "Talapao",
+    "alias": "Talapao"
+  },
+  {
+    "code": "82.04.071.006",
+    "villageCode": "006",
+    "districtCode": "82.04.071",
+    "name": "Mateketen",
+    "alias": "Mateketen"
+  },
+  {
+    "code": "82.04.071.007",
+    "villageCode": "007",
+    "districtCode": "82.04.071",
+    "name": "Tegono",
+    "alias": "Tegono"
+  }
+]

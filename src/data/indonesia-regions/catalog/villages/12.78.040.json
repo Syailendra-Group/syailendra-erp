@@ -1,0 +1,226 @@
+[
+  {
+    "code": "12.78.040.001",
+    "villageCode": "001",
+    "districtCode": "12.78.040",
+    "name": "Miga",
+    "alias": "Miga"
+  },
+  {
+    "code": "12.78.040.002",
+    "villageCode": "002",
+    "districtCode": "12.78.040",
+    "name": "Sihareo Ii",
+    "alias": "Sihareo Ii"
+  },
+  {
+    "code": "12.78.040.003",
+    "villageCode": "003",
+    "districtCode": "12.78.040",
+    "name": "Ilir",
+    "alias": "Ilir"
+  },
+  {
+    "code": "12.78.040.004",
+    "villageCode": "004",
+    "districtCode": "12.78.040",
+    "name": "Sifalaete Tabaloho",
+    "alias": "Sifalaete Tabaloho"
+  },
+  {
+    "code": "12.78.040.005",
+    "villageCode": "005",
+    "districtCode": "12.78.040",
+    "name": "Dahana",
+    "alias": "Dahana"
+  },
+  {
+    "code": "12.78.040.006",
+    "villageCode": "006",
+    "districtCode": "12.78.040",
+    "name": "Sisobahili Tabaloho",
+    "alias": "Sisobahili Tabaloho"
+  },
+  {
+    "code": "12.78.040.007",
+    "villageCode": "007",
+    "districtCode": "12.78.040",
+    "name": "Dahadano Gawu Gawu",
+    "alias": "Dahadano Gawu Gawu"
+  },
+  {
+    "code": "12.78.040.008",
+    "villageCode": "008",
+    "districtCode": "12.78.040",
+    "name": "Lasara Bahili",
+    "alias": "Lasara Bahili"
+  },
+  {
+    "code": "12.78.040.009",
+    "villageCode": "009",
+    "districtCode": "12.78.040",
+    "name": "Mudik",
+    "alias": "Mudik"
+  },
+  {
+    "code": "12.78.040.010",
+    "villageCode": "010",
+    "districtCode": "12.78.040",
+    "name": "Boyo",
+    "alias": "Boyo"
+  },
+  {
+    "code": "12.78.040.011",
+    "villageCode": "011",
+    "districtCode": "12.78.040",
+    "name": "Hilina A",
+    "alias": "Hilina A"
+  },
+  {
+    "code": "12.78.040.012",
+    "villageCode": "012",
+    "districtCode": "12.78.040",
+    "name": "Lelewonu Nikootano",
+    "alias": "Lelewonu Nikootano"
+  },
+  {
+    "code": "12.78.040.013",
+    "villageCode": "013",
+    "districtCode": "12.78.040",
+    "name": "Simandraolo",
+    "alias": "Simandraolo"
+  },
+  {
+    "code": "12.78.040.014",
+    "villageCode": "014",
+    "districtCode": "12.78.040",
+    "name": "Madolaoli",
+    "alias": "Madolaoli"
+  },
+  {
+    "code": "12.78.040.015",
+    "villageCode": "015",
+    "districtCode": "12.78.040",
+    "name": "Sisarahili Sisambalahe",
+    "alias": "Sisarahili Sisambalahe"
+  },
+  {
+    "code": "12.78.040.016",
+    "villageCode": "016",
+    "districtCode": "12.78.040",
+    "name": "Onowaembo",
+    "alias": "Onowaembo"
+  },
+  {
+    "code": "12.78.040.017",
+    "villageCode": "017",
+    "districtCode": "12.78.040",
+    "name": "Fadoro Lasara",
+    "alias": "Fadoro Lasara"
+  },
+  {
+    "code": "12.78.040.018",
+    "villageCode": "018",
+    "districtCode": "12.78.040",
+    "name": "Tuhemberua Ulu",
+    "alias": "Tuhemberua Ulu"
+  },
+  {
+    "code": "12.78.040.019",
+    "villageCode": "019",
+    "districtCode": "12.78.040",
+    "name": "Onozitoli Siforoasi",
+    "alias": "Onozitoli Siforoasi"
+  },
+  {
+    "code": "12.78.040.020",
+    "villageCode": "020",
+    "districtCode": "12.78.040",
+    "name": "Pasar Gunung Sitoli",
+    "alias": "Pasar Gunung Sitoli"
+  },
+  {
+    "code": "12.78.040.021",
+    "villageCode": "021",
+    "districtCode": "12.78.040",
+    "name": "Saombo",
+    "alias": "Saombo"
+  },
+  {
+    "code": "12.78.040.022",
+    "villageCode": "022",
+    "districtCode": "12.78.040",
+    "name": "Iraonogeba",
+    "alias": "Iraonogeba"
+  },
+  {
+    "code": "12.78.040.023",
+    "villageCode": "023",
+    "districtCode": "12.78.040",
+    "name": "Ombolata Ulu",
+    "alias": "Ombolata Ulu"
+  },
+  {
+    "code": "12.78.040.024",
+    "villageCode": "024",
+    "districtCode": "12.78.040",
+    "name": "Moawo",
+    "alias": "Moawo"
+  },
+  {
+    "code": "12.78.040.025",
+    "villageCode": "025",
+    "districtCode": "12.78.040",
+    "name": "Saewe",
+    "alias": "Saewe"
+  },
+  {
+    "code": "12.78.040.026",
+    "villageCode": "026",
+    "districtCode": "12.78.040",
+    "name": "Sifalaete Ulu",
+    "alias": "Sifalaete Ulu"
+  },
+  {
+    "code": "12.78.040.027",
+    "villageCode": "027",
+    "districtCode": "12.78.040",
+    "name": "Hilimbaruzo",
+    "alias": "Hilimbaruzo"
+  },
+  {
+    "code": "12.78.040.028",
+    "villageCode": "028",
+    "districtCode": "12.78.040",
+    "name": "Hili Hao",
+    "alias": "Hili Hao"
+  },
+  {
+    "code": "12.78.040.029",
+    "villageCode": "029",
+    "districtCode": "12.78.040",
+    "name": "Sisarahili Gamo",
+    "alias": "Sisarahili Gamo"
+  },
+  {
+    "code": "12.78.040.030",
+    "villageCode": "030",
+    "districtCode": "12.78.040",
+    "name": "Bawadesolo",
+    "alias": "Bawadesolo"
+  },
+  {
+    "code": "12.78.040.031",
+    "villageCode": "031",
+    "districtCode": "12.78.040",
+    "name": "Onozitoli Olora",
+    "alias": "Onozitoli Olora"
+  },
+  {
+    "code": "12.78.040.032",
+    "villageCode": "032",
+    "districtCode": "12.78.040",
+    "name": "Madula",
+    "alias": "Madula"
+  }
+]

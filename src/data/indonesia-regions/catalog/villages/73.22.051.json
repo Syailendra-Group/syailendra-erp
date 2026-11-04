@@ -1,0 +1,72 @@
+[
+  {
+    "code": "73.22.051.004",
+    "villageCode": "004",
+    "districtCode": "73.22.051",
+    "name": "Rampoang",
+    "alias": "Rampoang"
+  },
+  {
+    "code": "73.22.051.005",
+    "villageCode": "005",
+    "districtCode": "73.22.051",
+    "name": "Karondang",
+    "alias": "Karondang"
+  },
+  {
+    "code": "73.22.051.006",
+    "villageCode": "006",
+    "districtCode": "73.22.051",
+    "name": "Munte",
+    "alias": "Munte"
+  },
+  {
+    "code": "73.22.051.007",
+    "villageCode": "007",
+    "districtCode": "73.22.051",
+    "name": "Poreang",
+    "alias": "Poreang"
+  },
+  {
+    "code": "73.22.051.008",
+    "villageCode": "008",
+    "districtCode": "73.22.051",
+    "name": "Bungadidi",
+    "alias": "Bungadidi"
+  },
+  {
+    "code": "73.22.051.009",
+    "villageCode": "009",
+    "districtCode": "73.22.051",
+    "name": "Bungapati",
+    "alias": "Bungapati"
+  },
+  {
+    "code": "73.22.051.010",
+    "villageCode": "010",
+    "districtCode": "73.22.051",
+    "name": "Sumberdadi",
+    "alias": "Sumberdadi"
+  },
+  {
+    "code": "73.22.051.011",
+    "villageCode": "011",
+    "districtCode": "73.22.051",
+    "name": "Sidobinangun",
+    "alias": "Sidobinangun"
+  },
+  {
+    "code": "73.22.051.012",
+    "villageCode": "012",
+    "districtCode": "73.22.051",
+    "name": "Patila",
+    "alias": "Patila"
+  },
+  {
+    "code": "73.22.051.013",
+    "villageCode": "013",
+    "districtCode": "73.22.051",
+    "name": "Sidomakmur",
+    "alias": "Sidomakmur"
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "code": "32.10.210.001",
+    "villageCode": "001",
+    "districtCode": "32.10.210",
+    "name": "Sumberjaya",
+    "alias": "Sumberjaya"
+  },
+  {
+    "code": "32.10.210.002",
+    "villageCode": "002",
+    "districtCode": "32.10.210",
+    "name": "Garawangi",
+    "alias": "Garawangi"
+  },
+  {
+    "code": "32.10.210.003",
+    "villageCode": "003",
+    "districtCode": "32.10.210",
+    "name": "Banjaran",
+    "alias": "Banjaran"
+  },
+  {
+    "code": "32.10.210.004",
+    "villageCode": "004",
+    "districtCode": "32.10.210",
+    "name": "Sepat",
+    "alias": "Sepat"
+  },
+  {
+    "code": "32.10.210.005",
+    "villageCode": "005",
+    "districtCode": "32.10.210",
+    "name": "Paningkiran",
+    "alias": "Paningkiran"
+  },
+  {
+    "code": "32.10.210.006",
+    "villageCode": "006",
+    "districtCode": "32.10.210",
+    "name": "Parapatan",
+    "alias": "Parapatan"
+  },
+  {
+    "code": "32.10.210.007",
+    "villageCode": "007",
+    "districtCode": "32.10.210",
+    "name": "Panjalin Kidul",
+    "alias": "Panjalin Kidul"
+  },
+  {
+    "code": "32.10.210.008",
+    "villageCode": "008",
+    "districtCode": "32.10.210",
+    "name": "Rancaputat",
+    "alias": "Rancaputat"
+  },
+  {
+    "code": "32.10.210.009",
+    "villageCode": "009",
+    "districtCode": "32.10.210",
+    "name": "Bongas Wetan",
+    "alias": "Bongas Wetan"
+  },
+  {
+    "code": "32.10.210.010",
+    "villageCode": "010",
+    "districtCode": "32.10.210",
+    "name": "Bongas Kulon",
+    "alias": "Bongas Kulon"
+  },
+  {
+    "code": "32.10.210.011",
+    "villageCode": "011",
+    "districtCode": "32.10.210",
+    "name": "Panjalin Lor",
+    "alias": "Panjalin Lor"
+  },
+  {
+    "code": "32.10.210.012",
+    "villageCode": "012",
+    "districtCode": "32.10.210",
+    "name": "Cidenok",
+    "alias": "Cidenok"
+  },
+  {
+    "code": "32.10.210.013",
+    "villageCode": "013",
+    "districtCode": "32.10.210",
+    "name": "Loji Kobong",
+    "alias": "Loji Kobong"
+  },
+  {
+    "code": "32.10.210.014",
+    "villageCode": "014",
+    "districtCode": "32.10.210",
+    "name": "Gelokmulya",
+    "alias": "Gelokmulya"
+  },
+  {
+    "code": "32.10.210.015",
+    "villageCode": "015",
+    "districtCode": "32.10.210",
+    "name": "Pancaksuji",
+    "alias": "Pancaksuji"
+  }
+]

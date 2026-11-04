@@ -1,0 +1,58 @@
+[
+  {
+    "code": "96.07.230.001",
+    "villageCode": "001",
+    "districtCode": "96.07.230",
+    "name": "Kelandiruma",
+    "alias": "Kelandiruma"
+  },
+  {
+    "code": "96.07.230.002",
+    "villageCode": "002",
+    "districtCode": "96.07.230",
+    "name": "Wandibet",
+    "alias": "Wandibet"
+  },
+  {
+    "code": "96.07.230.003",
+    "villageCode": "003",
+    "districtCode": "96.07.230",
+    "name": "Gimurik",
+    "alias": "Gimurik"
+  },
+  {
+    "code": "96.07.230.004",
+    "villageCode": "004",
+    "districtCode": "96.07.230",
+    "name": "Meningimte",
+    "alias": "Meningimte"
+  },
+  {
+    "code": "96.07.230.005",
+    "villageCode": "005",
+    "districtCode": "96.07.230",
+    "name": "Bungok",
+    "alias": "Bungok"
+  },
+  {
+    "code": "96.07.230.006",
+    "villageCode": "006",
+    "districtCode": "96.07.230",
+    "name": "Pilokoma",
+    "alias": "Pilokoma"
+  },
+  {
+    "code": "96.07.230.007",
+    "villageCode": "007",
+    "districtCode": "96.07.230",
+    "name": "Pupet",
+    "alias": "Pupet"
+  },
+  {
+    "code": "96.07.230.008",
+    "villageCode": "008",
+    "districtCode": "96.07.230",
+    "name": "Puluk",
+    "alias": "Puluk"
+  }
+]

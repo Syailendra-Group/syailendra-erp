@@ -1,0 +1,58 @@
+[
+  {
+    "code": "95.03.070.001",
+    "villageCode": "001",
+    "districtCode": "95.03.070",
+    "name": "Memes",
+    "alias": "Memes"
+  },
+  {
+    "code": "95.03.070.002",
+    "villageCode": "002",
+    "districtCode": "95.03.070",
+    "name": "Sahapikia",
+    "alias": "Sahapikia"
+  },
+  {
+    "code": "95.03.070.003",
+    "villageCode": "003",
+    "districtCode": "95.03.070",
+    "name": "Mopio",
+    "alias": "Mopio"
+  },
+  {
+    "code": "95.03.070.004",
+    "villageCode": "004",
+    "districtCode": "95.03.070",
+    "name": "Sien",
+    "alias": "Sien"
+  },
+  {
+    "code": "95.03.070.005",
+    "villageCode": "005",
+    "districtCode": "95.03.070",
+    "name": "Getiyo",
+    "alias": "Getiyo"
+  },
+  {
+    "code": "95.03.070.006",
+    "villageCode": "006",
+    "districtCode": "95.03.070",
+    "name": "Yibin",
+    "alias": "Yibin"
+  },
+  {
+    "code": "95.03.070.007",
+    "villageCode": "007",
+    "districtCode": "95.03.070",
+    "name": "Harapan",
+    "alias": "Harapan"
+  },
+  {
+    "code": "95.03.070.008",
+    "villageCode": "008",
+    "districtCode": "95.03.070",
+    "name": "Pies",
+    "alias": "Pies"
+  }
+]

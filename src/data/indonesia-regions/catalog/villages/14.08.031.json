@@ -1,0 +1,58 @@
+[
+  {
+    "code": "14.08.031.001",
+    "villageCode": "001",
+    "districtCode": "14.08.031",
+    "name": "Titi Akar",
+    "alias": "Titi Akar"
+  },
+  {
+    "code": "14.08.031.002",
+    "villageCode": "002",
+    "districtCode": "14.08.031",
+    "name": "Tanjung Medang",
+    "alias": "Tanjung Medang"
+  },
+  {
+    "code": "14.08.031.003",
+    "villageCode": "003",
+    "districtCode": "14.08.031",
+    "name": "Teluk Rhu",
+    "alias": "Teluk Rhu"
+  },
+  {
+    "code": "14.08.031.004",
+    "villageCode": "004",
+    "districtCode": "14.08.031",
+    "name": "Tanjung Punak",
+    "alias": "Tanjung Punak"
+  },
+  {
+    "code": "14.08.031.005",
+    "villageCode": "005",
+    "districtCode": "14.08.031",
+    "name": "Kadur",
+    "alias": "Kadur"
+  },
+  {
+    "code": "14.08.031.006",
+    "villageCode": "006",
+    "districtCode": "14.08.031",
+    "name": "Hutan Ayu",
+    "alias": "Hutan Ayu"
+  },
+  {
+    "code": "14.08.031.007",
+    "villageCode": "007",
+    "districtCode": "14.08.031",
+    "name": "Sukadamai",
+    "alias": "Sukadamai"
+  },
+  {
+    "code": "14.08.031.008",
+    "villageCode": "008",
+    "districtCode": "14.08.031",
+    "name": "Putri Sembilan",
+    "alias": "Putri Sembilan"
+  }
+]

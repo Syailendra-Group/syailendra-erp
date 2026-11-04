@@ -1,0 +1,86 @@
+[
+  {
+    "code": "35.19.030.001",
+    "villageCode": "001",
+    "districtCode": "35.19.030",
+    "name": "Lembah",
+    "alias": "Lembah"
+  },
+  {
+    "code": "35.19.030.002",
+    "villageCode": "002",
+    "districtCode": "35.19.030",
+    "name": "Mlilir",
+    "alias": "Mlilir"
+  },
+  {
+    "code": "35.19.030.003",
+    "villageCode": "003",
+    "districtCode": "35.19.030",
+    "name": "Kradinan",
+    "alias": "Kradinan"
+  },
+  {
+    "code": "35.19.030.004",
+    "villageCode": "004",
+    "districtCode": "35.19.030",
+    "name": "Suluk",
+    "alias": "Suluk"
+  },
+  {
+    "code": "35.19.030.005",
+    "villageCode": "005",
+    "districtCode": "35.19.030",
+    "name": "Blimbing",
+    "alias": "Blimbing"
+  },
+  {
+    "code": "35.19.030.006",
+    "villageCode": "006",
+    "districtCode": "35.19.030",
+    "name": "Bader",
+    "alias": "Bader"
+  },
+  {
+    "code": "35.19.030.007",
+    "villageCode": "007",
+    "districtCode": "35.19.030",
+    "name": "Candimulyo",
+    "alias": "Candimulyo"
+  },
+  {
+    "code": "35.19.030.008",
+    "villageCode": "008",
+    "districtCode": "35.19.030",
+    "name": "Glonggong",
+    "alias": "Glonggong"
+  },
+  {
+    "code": "35.19.030.009",
+    "villageCode": "009",
+    "districtCode": "35.19.030",
+    "name": "Dolopo",
+    "alias": "Dolopo"
+  },
+  {
+    "code": "35.19.030.010",
+    "villageCode": "010",
+    "districtCode": "35.19.030",
+    "name": "Doho",
+    "alias": "Doho"
+  },
+  {
+    "code": "35.19.030.011",
+    "villageCode": "011",
+    "districtCode": "35.19.030",
+    "name": "Ketawang",
+    "alias": "Ketawang"
+  },
+  {
+    "code": "35.19.030.012",
+    "villageCode": "012",
+    "districtCode": "35.19.030",
+    "name": "Bangunsari",
+    "alias": "Bangunsari"
+  }
+]

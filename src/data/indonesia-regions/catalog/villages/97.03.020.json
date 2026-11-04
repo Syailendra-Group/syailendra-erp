@@ -1,0 +1,86 @@
+[
+  {
+    "code": "97.03.020.001",
+    "villageCode": "001",
+    "districtCode": "97.03.020",
+    "name": "Andeyok",
+    "alias": "Andeyok"
+  },
+  {
+    "code": "97.03.020.002",
+    "villageCode": "002",
+    "districtCode": "97.03.020",
+    "name": "Lelam",
+    "alias": "Lelam"
+  },
+  {
+    "code": "97.03.020.003",
+    "villageCode": "003",
+    "districtCode": "97.03.020",
+    "name": "Yaneko",
+    "alias": "Yaneko"
+  },
+  {
+    "code": "97.03.020.004",
+    "villageCode": "004",
+    "districtCode": "97.03.020",
+    "name": "Kimbo",
+    "alias": "Kimbo"
+  },
+  {
+    "code": "97.03.020.005",
+    "villageCode": "005",
+    "districtCode": "97.03.020",
+    "name": "Onesia",
+    "alias": "Onesia"
+  },
+  {
+    "code": "97.03.020.006",
+    "villageCode": "006",
+    "districtCode": "97.03.020",
+    "name": "Jilam",
+    "alias": "Jilam"
+  },
+  {
+    "code": "97.03.020.007",
+    "villageCode": "007",
+    "districtCode": "97.03.020",
+    "name": "Teyiko",
+    "alias": "Teyiko"
+  },
+  {
+    "code": "97.03.020.008",
+    "villageCode": "008",
+    "districtCode": "97.03.020",
+    "name": "Penggima",
+    "alias": "Penggima"
+  },
+  {
+    "code": "97.03.020.009",
+    "villageCode": "009",
+    "districtCode": "97.03.020",
+    "name": "Magelo",
+    "alias": "Magelo"
+  },
+  {
+    "code": "97.03.020.010",
+    "villageCode": "010",
+    "districtCode": "97.03.020",
+    "name": "Kibingga",
+    "alias": "Kibingga"
+  },
+  {
+    "code": "97.03.020.011",
+    "villageCode": "011",
+    "districtCode": "97.03.020",
+    "name": "Ogobakni",
+    "alias": "Ogobakni"
+  },
+  {
+    "code": "97.03.020.012",
+    "villageCode": "012",
+    "districtCode": "97.03.020",
+    "name": "Wapur",
+    "alias": "Wapur"
+  }
+]

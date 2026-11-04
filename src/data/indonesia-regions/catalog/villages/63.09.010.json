@@ -1,0 +1,107 @@
+[
+  {
+    "code": "63.09.010.001",
+    "villageCode": "001",
+    "districtCode": "63.09.010",
+    "name": "Hapalah",
+    "alias": "Hapalah"
+  },
+  {
+    "code": "63.09.010.003",
+    "villageCode": "003",
+    "districtCode": "63.09.010",
+    "name": "Batang Banyu",
+    "alias": "Batang Banyu"
+  },
+  {
+    "code": "63.09.010.004",
+    "villageCode": "004",
+    "districtCode": "63.09.010",
+    "name": "Sungai Durian",
+    "alias": "Sungai Durian"
+  },
+  {
+    "code": "63.09.010.006",
+    "villageCode": "006",
+    "districtCode": "63.09.010",
+    "name": "Pematang",
+    "alias": "Pematang"
+  },
+  {
+    "code": "63.09.010.008",
+    "villageCode": "008",
+    "districtCode": "63.09.010",
+    "name": "Hariang",
+    "alias": "Hariang"
+  },
+  {
+    "code": "63.09.010.010",
+    "villageCode": "010",
+    "districtCode": "63.09.010",
+    "name": "Bungin",
+    "alias": "Bungin"
+  },
+  {
+    "code": "63.09.010.011",
+    "villageCode": "011",
+    "districtCode": "63.09.010",
+    "name": "Bangkiling",
+    "alias": "Bangkiling"
+  },
+  {
+    "code": "63.09.010.012",
+    "villageCode": "012",
+    "districtCode": "63.09.010",
+    "name": "Bangkiling Raya",
+    "alias": "Bangkiling Raya"
+  },
+  {
+    "code": "63.09.010.016",
+    "villageCode": "016",
+    "districtCode": "63.09.010",
+    "name": "Banua Lawas",
+    "alias": "Banua Lawas"
+  },
+  {
+    "code": "63.09.010.021",
+    "villageCode": "021",
+    "districtCode": "63.09.010",
+    "name": "Habau",
+    "alias": "Habau"
+  },
+  {
+    "code": "63.09.010.022",
+    "villageCode": "022",
+    "districtCode": "63.09.010",
+    "name": "Banua Rantau",
+    "alias": "Banua Rantau"
+  },
+  {
+    "code": "63.09.010.024",
+    "villageCode": "024",
+    "districtCode": "63.09.010",
+    "name": "Habau Hulu",
+    "alias": "Habau Hulu"
+  },
+  {
+    "code": "63.09.010.025",
+    "villageCode": "025",
+    "districtCode": "63.09.010",
+    "name": "Purai",
+    "alias": "Purai"
+  },
+  {
+    "code": "63.09.010.026",
+    "villageCode": "026",
+    "districtCode": "63.09.010",
+    "name": "Talan",
+    "alias": "Talan"
+  },
+  {
+    "code": "63.09.010.027",
+    "villageCode": "027",
+    "districtCode": "63.09.010",
+    "name": "Sungai Anyar",
+    "alias": "Sungai Anyar"
+  }
+]

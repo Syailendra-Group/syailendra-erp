@@ -1,0 +1,100 @@
+[
+  {
+    "code": "12.20.061.001",
+    "villageCode": "001",
+    "districtCode": "12.20.061",
+    "name": "Pasir Bara",
+    "alias": "Pasir Bara"
+  },
+  {
+    "code": "12.20.061.002",
+    "villageCode": "002",
+    "districtCode": "12.20.061",
+    "name": "Gunung Intan",
+    "alias": "Gunung Intan"
+  },
+  {
+    "code": "12.20.061.003",
+    "villageCode": "003",
+    "districtCode": "12.20.061",
+    "name": "Mompang I",
+    "alias": "Mompang I"
+  },
+  {
+    "code": "12.20.061.004",
+    "villageCode": "004",
+    "districtCode": "12.20.061",
+    "name": "Gunung Manaon Iii",
+    "alias": "Gunung Manaon Iii"
+  },
+  {
+    "code": "12.20.061.005",
+    "villageCode": "005",
+    "districtCode": "12.20.061",
+    "name": "Siancimun",
+    "alias": "Siancimun"
+  },
+  {
+    "code": "12.20.061.006",
+    "villageCode": "006",
+    "districtCode": "12.20.061",
+    "name": "Rondaman",
+    "alias": "Rondaman"
+  },
+  {
+    "code": "12.20.061.007",
+    "villageCode": "007",
+    "districtCode": "12.20.061",
+    "name": "Sihopuk Baru",
+    "alias": "Sihopuk Baru"
+  },
+  {
+    "code": "12.20.061.008",
+    "villageCode": "008",
+    "districtCode": "12.20.061",
+    "name": "Sihopuk Lama",
+    "alias": "Sihopuk Lama"
+  },
+  {
+    "code": "12.20.061.009",
+    "villageCode": "009",
+    "districtCode": "12.20.061",
+    "name": "Hutabaru Nangka",
+    "alias": "Hutabaru Nangka"
+  },
+  {
+    "code": "12.20.061.010",
+    "villageCode": "010",
+    "districtCode": "12.20.061",
+    "name": "Situmbaga",
+    "alias": "Situmbaga"
+  },
+  {
+    "code": "12.20.061.011",
+    "villageCode": "011",
+    "districtCode": "12.20.061",
+    "name": "Bolatan",
+    "alias": "Bolatan"
+  },
+  {
+    "code": "12.20.061.012",
+    "villageCode": "012",
+    "districtCode": "12.20.061",
+    "name": "Batang Pane I",
+    "alias": "Batang Pane I"
+  },
+  {
+    "code": "12.20.061.013",
+    "villageCode": "013",
+    "districtCode": "12.20.061",
+    "name": "Batang Pane Ii",
+    "alias": "Batang Pane Ii"
+  },
+  {
+    "code": "12.20.061.014",
+    "villageCode": "014",
+    "districtCode": "12.20.061",
+    "name": "Batang Pane Iii",
+    "alias": "Batang Pane Iii"
+  }
+]

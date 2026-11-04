@@ -1,0 +1,44 @@
+[
+  {
+    "code": "71.08.040.003",
+    "villageCode": "003",
+    "districtCode": "71.08.040",
+    "name": "Bulangan",
+    "alias": "Bulangan"
+  },
+  {
+    "code": "71.08.040.004",
+    "villageCode": "004",
+    "districtCode": "71.08.040",
+    "name": "Minanga",
+    "alias": "Minanga"
+  },
+  {
+    "code": "71.08.040.005",
+    "villageCode": "005",
+    "districtCode": "71.08.040",
+    "name": "W O",
+    "alias": "W O"
+  },
+  {
+    "code": "71.08.040.006",
+    "villageCode": "006",
+    "districtCode": "71.08.040",
+    "name": "Bawoleu",
+    "alias": "Bawoleu"
+  },
+  {
+    "code": "71.08.040.007",
+    "villageCode": "007",
+    "districtCode": "71.08.040",
+    "name": "Lumbo",
+    "alias": "Lumbo"
+  },
+  {
+    "code": "71.08.040.008",
+    "villageCode": "008",
+    "districtCode": "71.08.040",
+    "name": "Bawo",
+    "alias": "Bawo"
+  }
+]

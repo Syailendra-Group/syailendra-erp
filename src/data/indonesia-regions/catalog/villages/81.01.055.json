@@ -1,0 +1,37 @@
+[
+  {
+    "code": "81.01.055.001",
+    "villageCode": "001",
+    "districtCode": "81.01.055",
+    "name": "Nurkat",
+    "alias": "Nurkat"
+  },
+  {
+    "code": "81.01.055.002",
+    "villageCode": "002",
+    "districtCode": "81.01.055",
+    "name": "Tutunametal",
+    "alias": "Tutunametal"
+  },
+  {
+    "code": "81.01.055.003",
+    "villageCode": "003",
+    "districtCode": "81.01.055",
+    "name": "Wulmasa",
+    "alias": "Wulmasa"
+  },
+  {
+    "code": "81.01.055.004",
+    "villageCode": "004",
+    "districtCode": "81.01.055",
+    "name": "Wadankau",
+    "alias": "Wadankau"
+  },
+  {
+    "code": "81.01.055.005",
+    "villageCode": "005",
+    "districtCode": "81.01.055",
+    "name": "Adodomolo",
+    "alias": "Adodomolo"
+  }
+]

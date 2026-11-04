@@ -1,0 +1,90 @@
+[
+  {
+    "code": "81.06.010",
+    "districtCode": "010",
+    "regencyCode": "81.06",
+    "provinceCode": "81",
+    "name": "Kecamatan Huamual Belakang",
+    "alias": "Huamual Belakang"
+  },
+  {
+    "code": "81.06.011",
+    "districtCode": "011",
+    "regencyCode": "81.06",
+    "provinceCode": "81",
+    "name": "Kecamatan Kepulauan Manipa",
+    "alias": "Kepulauan Manipa"
+  },
+  {
+    "code": "81.06.020",
+    "districtCode": "020",
+    "regencyCode": "81.06",
+    "provinceCode": "81",
+    "name": "Kecamatan Seram Barat",
+    "alias": "Seram Barat"
+  },
+  {
+    "code": "81.06.021",
+    "districtCode": "021",
+    "regencyCode": "81.06",
+    "provinceCode": "81",
+    "name": "Kecamatan Huamual",
+    "alias": "Huamual"
+  },
+  {
+    "code": "81.06.030",
+    "districtCode": "030",
+    "regencyCode": "81.06",
+    "provinceCode": "81",
+    "name": "Kecamatan Kairatu",
+    "alias": "Kairatu"
+  },
+  {
+    "code": "81.06.031",
+    "districtCode": "031",
+    "regencyCode": "81.06",
+    "provinceCode": "81",
+    "name": "Kecamatan Kairatu Barat",
+    "alias": "Kairatu Barat"
+  },
+  {
+    "code": "81.06.032",
+    "districtCode": "032",
+    "regencyCode": "81.06",
+    "provinceCode": "81",
+    "name": "Kecamatan Inamosol",
+    "alias": "Inamosol"
+  },
+  {
+    "code": "81.06.033",
+    "districtCode": "033",
+    "regencyCode": "81.06",
+    "provinceCode": "81",
+    "name": "Kecamatan Amalatu",
+    "alias": "Amalatu"
+  },
+  {
+    "code": "81.06.034",
+    "districtCode": "034",
+    "regencyCode": "81.06",
+    "provinceCode": "81",
+    "name": "Kecamatan Elpaputih",
+    "alias": "Elpaputih"
+  },
+  {
+    "code": "81.06.040",
+    "districtCode": "040",
+    "regencyCode": "81.06",
+    "provinceCode": "81",
+    "name": "Kecamatan Taniwel",
+    "alias": "Taniwel"
+  },
+  {
+    "code": "81.06.041",
+    "districtCode": "041",
+    "regencyCode": "81.06",
+    "provinceCode": "81",
+    "name": "Kecamatan Taniwel Timur",
+    "alias": "Taniwel Timur"
+  }
+]

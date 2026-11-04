@@ -1,0 +1,72 @@
+[
+  {
+    "code": "32.03.071.001",
+    "villageCode": "001",
+    "districtCode": "32.03.071",
+    "name": "Padaasih",
+    "alias": "Padaasih"
+  },
+  {
+    "code": "32.03.071.002",
+    "villageCode": "002",
+    "districtCode": "32.03.071",
+    "name": "Sukaluyu",
+    "alias": "Sukaluyu"
+  },
+  {
+    "code": "32.03.071.003",
+    "villageCode": "003",
+    "districtCode": "32.03.071",
+    "name": "Sinarbakti",
+    "alias": "Sinarbakti"
+  },
+  {
+    "code": "32.03.071.004",
+    "villageCode": "004",
+    "districtCode": "32.03.071",
+    "name": "Bojonglarang",
+    "alias": "Bojonglarang"
+  },
+  {
+    "code": "32.03.071.005",
+    "villageCode": "005",
+    "districtCode": "32.03.071",
+    "name": "Sukamahi",
+    "alias": "Sukamahi"
+  },
+  {
+    "code": "32.03.071.006",
+    "villageCode": "006",
+    "districtCode": "32.03.071",
+    "name": "Cijati",
+    "alias": "Cijati"
+  },
+  {
+    "code": "32.03.071.007",
+    "villageCode": "007",
+    "districtCode": "32.03.071",
+    "name": "Cibodas",
+    "alias": "Cibodas"
+  },
+  {
+    "code": "32.03.071.008",
+    "villageCode": "008",
+    "districtCode": "32.03.071",
+    "name": "Caringin",
+    "alias": "Caringin"
+  },
+  {
+    "code": "32.03.071.009",
+    "villageCode": "009",
+    "districtCode": "32.03.071",
+    "name": "Parakantugu",
+    "alias": "Parakantugu"
+  },
+  {
+    "code": "32.03.071.010",
+    "villageCode": "010",
+    "districtCode": "32.03.071",
+    "name": "Sukamaju",
+    "alias": "Sukamaju"
+  }
+]

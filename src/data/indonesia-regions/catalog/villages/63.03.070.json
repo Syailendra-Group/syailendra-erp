@@ -1,0 +1,184 @@
+[
+  {
+    "code": "63.03.070.001",
+    "villageCode": "001",
+    "districtCode": "63.03.070",
+    "name": "Kiram",
+    "alias": "Kiram"
+  },
+  {
+    "code": "63.03.070.002",
+    "villageCode": "002",
+    "districtCode": "63.03.070",
+    "name": "Mandiangin Barat",
+    "alias": "Mandiangin Barat"
+  },
+  {
+    "code": "63.03.070.003",
+    "villageCode": "003",
+    "districtCode": "63.03.070",
+    "name": "Mandiangin Timur",
+    "alias": "Mandiangin Timur"
+  },
+  {
+    "code": "63.03.070.004",
+    "villageCode": "004",
+    "districtCode": "63.03.070",
+    "name": "Awang Bangkal Barat",
+    "alias": "Awang Bangkal Barat"
+  },
+  {
+    "code": "63.03.070.005",
+    "villageCode": "005",
+    "districtCode": "63.03.070",
+    "name": "Awang Bangkal Timur",
+    "alias": "Awang Bangkal Timur"
+  },
+  {
+    "code": "63.03.070.006",
+    "villageCode": "006",
+    "districtCode": "63.03.070",
+    "name": "Mandikapau Timur",
+    "alias": "Mandikapau Timur"
+  },
+  {
+    "code": "63.03.070.007",
+    "villageCode": "007",
+    "districtCode": "63.03.070",
+    "name": "Mandikapau Barat",
+    "alias": "Mandikapau Barat"
+  },
+  {
+    "code": "63.03.070.008",
+    "villageCode": "008",
+    "districtCode": "63.03.070",
+    "name": "Pulau Nyiur",
+    "alias": "Pulau Nyiur"
+  },
+  {
+    "code": "63.03.070.009",
+    "villageCode": "009",
+    "districtCode": "63.03.070",
+    "name": "Sungai Asam",
+    "alias": "Sungai Asam"
+  },
+  {
+    "code": "63.03.070.010",
+    "villageCode": "010",
+    "districtCode": "63.03.070",
+    "name": "Sungai Alang",
+    "alias": "Sungai Alang"
+  },
+  {
+    "code": "63.03.070.011",
+    "villageCode": "011",
+    "districtCode": "63.03.070",
+    "name": "Sungai Landas",
+    "alias": "Sungai Landas"
+  },
+  {
+    "code": "63.03.070.012",
+    "villageCode": "012",
+    "districtCode": "63.03.070",
+    "name": "Padang Panjang",
+    "alias": "Padang Panjang"
+  },
+  {
+    "code": "63.03.070.013",
+    "villageCode": "013",
+    "districtCode": "63.03.070",
+    "name": "Penyambaran",
+    "alias": "Penyambaran"
+  },
+  {
+    "code": "63.03.070.014",
+    "villageCode": "014",
+    "districtCode": "63.03.070",
+    "name": "Lihung",
+    "alias": "Lihung"
+  },
+  {
+    "code": "63.03.070.015",
+    "villageCode": "015",
+    "districtCode": "63.03.070",
+    "name": "Karang Intan",
+    "alias": "Karang Intan"
+  },
+  {
+    "code": "63.03.070.016",
+    "villageCode": "016",
+    "districtCode": "63.03.070",
+    "name": "Pasar Lama",
+    "alias": "Pasar Lama"
+  },
+  {
+    "code": "63.03.070.017",
+    "villageCode": "017",
+    "districtCode": "63.03.070",
+    "name": "Pandak Daun",
+    "alias": "Pandak Daun"
+  },
+  {
+    "code": "63.03.070.018",
+    "villageCode": "018",
+    "districtCode": "63.03.070",
+    "name": "Jingah Habang Ulu",
+    "alias": "Jingah Habang Ulu"
+  },
+  {
+    "code": "63.03.070.019",
+    "villageCode": "019",
+    "districtCode": "63.03.070",
+    "name": "Jingah Habang Ilir",
+    "alias": "Jingah Habang Ilir"
+  },
+  {
+    "code": "63.03.070.020",
+    "villageCode": "020",
+    "districtCode": "63.03.070",
+    "name": "Sungai Arfat",
+    "alias": "Sungai Arfat"
+  },
+  {
+    "code": "63.03.070.021",
+    "villageCode": "021",
+    "districtCode": "63.03.070",
+    "name": "Mali Mali",
+    "alias": "Mali Mali"
+  },
+  {
+    "code": "63.03.070.022",
+    "villageCode": "022",
+    "districtCode": "63.03.070",
+    "name": "Lok Tangga",
+    "alias": "Lok Tangga"
+  },
+  {
+    "code": "63.03.070.023",
+    "villageCode": "023",
+    "districtCode": "63.03.070",
+    "name": "Sungai Besar",
+    "alias": "Sungai Besar"
+  },
+  {
+    "code": "63.03.070.024",
+    "villageCode": "024",
+    "districtCode": "63.03.070",
+    "name": "Bi Ih",
+    "alias": "Bi Ih"
+  },
+  {
+    "code": "63.03.070.025",
+    "villageCode": "025",
+    "districtCode": "63.03.070",
+    "name": "Balau",
+    "alias": "Balau"
+  },
+  {
+    "code": "63.03.070.026",
+    "villageCode": "026",
+    "districtCode": "63.03.070",
+    "name": "Abirau",
+    "alias": "Abirau"
+  }
+]

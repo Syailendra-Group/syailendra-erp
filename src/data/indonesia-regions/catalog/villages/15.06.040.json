@@ -1,0 +1,79 @@
+[
+  {
+    "code": "15.06.040.006",
+    "villageCode": "006",
+    "districtCode": "15.06.040",
+    "name": "Rantau Rasau I",
+    "alias": "Rantau Rasau I"
+  },
+  {
+    "code": "15.06.040.007",
+    "villageCode": "007",
+    "districtCode": "15.06.040",
+    "name": "Rantau Rasau Ii",
+    "alias": "Rantau Rasau Ii"
+  },
+  {
+    "code": "15.06.040.008",
+    "villageCode": "008",
+    "districtCode": "15.06.040",
+    "name": "Rantau Jaya",
+    "alias": "Rantau Jaya"
+  },
+  {
+    "code": "15.06.040.009",
+    "villageCode": "009",
+    "districtCode": "15.06.040",
+    "name": "Bangun Karya",
+    "alias": "Bangun Karya"
+  },
+  {
+    "code": "15.06.040.010",
+    "villageCode": "010",
+    "districtCode": "15.06.040",
+    "name": "Bandar Jaya",
+    "alias": "Bandar Jaya"
+  },
+  {
+    "code": "15.06.040.011",
+    "villageCode": "011",
+    "districtCode": "15.06.040",
+    "name": "Sungai Dusun",
+    "alias": "Sungai Dusun"
+  },
+  {
+    "code": "15.06.040.012",
+    "villageCode": "012",
+    "districtCode": "15.06.040",
+    "name": "Harapan Makmur",
+    "alias": "Harapan Makmur"
+  },
+  {
+    "code": "15.06.040.013",
+    "villageCode": "013",
+    "districtCode": "15.06.040",
+    "name": "Marga Mulya",
+    "alias": "Marga Mulya"
+  },
+  {
+    "code": "15.06.040.014",
+    "villageCode": "014",
+    "districtCode": "15.06.040",
+    "name": "Karya Bakti",
+    "alias": "Karya Bakti"
+  },
+  {
+    "code": "15.06.040.015",
+    "villageCode": "015",
+    "districtCode": "15.06.040",
+    "name": "Pematang Mayan",
+    "alias": "Pematang Mayan"
+  },
+  {
+    "code": "15.06.040.016",
+    "villageCode": "016",
+    "districtCode": "15.06.040",
+    "name": "Tri Mulyo",
+    "alias": "Tri Mulyo"
+  }
+]

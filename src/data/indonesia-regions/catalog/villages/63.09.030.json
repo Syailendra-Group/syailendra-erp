@@ -1,0 +1,86 @@
+[
+  {
+    "code": "63.09.030.001",
+    "villageCode": "001",
+    "districtCode": "63.09.030",
+    "name": "Telaga Itar",
+    "alias": "Telaga Itar"
+  },
+  {
+    "code": "63.09.030.004",
+    "villageCode": "004",
+    "districtCode": "63.09.030",
+    "name": "Pudak Setegal",
+    "alias": "Pudak Setegal"
+  },
+  {
+    "code": "63.09.030.007",
+    "villageCode": "007",
+    "districtCode": "63.09.030",
+    "name": "Bahungin",
+    "alias": "Bahungin"
+  },
+  {
+    "code": "63.09.030.008",
+    "villageCode": "008",
+    "districtCode": "63.09.030",
+    "name": "Takulat",
+    "alias": "Takulat"
+  },
+  {
+    "code": "63.09.030.009",
+    "villageCode": "009",
+    "districtCode": "63.09.030",
+    "name": "Pulau",
+    "alias": "Pulau"
+  },
+  {
+    "code": "63.09.030.010",
+    "villageCode": "010",
+    "districtCode": "63.09.030",
+    "name": "Masintan",
+    "alias": "Masintan"
+  },
+  {
+    "code": "63.09.030.011",
+    "villageCode": "011",
+    "districtCode": "63.09.030",
+    "name": "Paliat",
+    "alias": "Paliat"
+  },
+  {
+    "code": "63.09.030.013",
+    "villageCode": "013",
+    "districtCode": "63.09.030",
+    "name": "Sungai Buluh",
+    "alias": "Sungai Buluh"
+  },
+  {
+    "code": "63.09.030.015",
+    "villageCode": "015",
+    "districtCode": "63.09.030",
+    "name": "Binturu",
+    "alias": "Binturu"
+  },
+  {
+    "code": "63.09.030.016",
+    "villageCode": "016",
+    "districtCode": "63.09.030",
+    "name": "Karangan Putih",
+    "alias": "Karangan Putih"
+  },
+  {
+    "code": "63.09.030.017",
+    "villageCode": "017",
+    "districtCode": "63.09.030",
+    "name": "Pasar Panas",
+    "alias": "Pasar Panas"
+  },
+  {
+    "code": "63.09.030.018",
+    "villageCode": "018",
+    "districtCode": "63.09.030",
+    "name": "Ampukung",
+    "alias": "Ampukung"
+  }
+]

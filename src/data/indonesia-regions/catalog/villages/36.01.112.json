@@ -1,0 +1,72 @@
+[
+  {
+    "code": "36.01.112.001",
+    "villageCode": "001",
+    "districtCode": "36.01.112",
+    "name": "Seuseupan",
+    "alias": "Seuseupan"
+  },
+  {
+    "code": "36.01.112.002",
+    "villageCode": "002",
+    "districtCode": "36.01.112",
+    "name": "Karyasari",
+    "alias": "Karyasari"
+  },
+  {
+    "code": "36.01.112.003",
+    "villageCode": "003",
+    "districtCode": "36.01.112",
+    "name": "Pasirkadu",
+    "alias": "Pasirkadu"
+  },
+  {
+    "code": "36.01.112.004",
+    "villageCode": "004",
+    "districtCode": "36.01.112",
+    "name": "Perdana",
+    "alias": "Perdana"
+  },
+  {
+    "code": "36.01.112.005",
+    "villageCode": "005",
+    "districtCode": "36.01.112",
+    "name": "Sukaresmi",
+    "alias": "Sukaresmi"
+  },
+  {
+    "code": "36.01.112.006",
+    "villageCode": "006",
+    "districtCode": "36.01.112",
+    "name": "Kubangkampil",
+    "alias": "Kubangkampil"
+  },
+  {
+    "code": "36.01.112.007",
+    "villageCode": "007",
+    "districtCode": "36.01.112",
+    "name": "Sidamukti",
+    "alias": "Sidamukti"
+  },
+  {
+    "code": "36.01.112.008",
+    "villageCode": "008",
+    "districtCode": "36.01.112",
+    "name": "Cibungur",
+    "alias": "Cibungur"
+  },
+  {
+    "code": "36.01.112.009",
+    "villageCode": "009",
+    "districtCode": "36.01.112",
+    "name": "Weru",
+    "alias": "Weru"
+  },
+  {
+    "code": "36.01.112.010",
+    "villageCode": "010",
+    "districtCode": "36.01.112",
+    "name": "Cikuya",
+    "alias": "Cikuya"
+  }
+]

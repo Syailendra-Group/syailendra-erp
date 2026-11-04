@@ -1,0 +1,65 @@
+[
+  {
+    "code": "35.04.040.001",
+    "villageCode": "001",
+    "districtCode": "35.04.040",
+    "name": "Ngentrong",
+    "alias": "Ngentrong"
+  },
+  {
+    "code": "35.04.040.002",
+    "villageCode": "002",
+    "districtCode": "35.04.040",
+    "name": "Sawo",
+    "alias": "Sawo"
+  },
+  {
+    "code": "35.04.040.003",
+    "villageCode": "003",
+    "districtCode": "35.04.040",
+    "name": "Gedangan",
+    "alias": "Gedangan"
+  },
+  {
+    "code": "35.04.040.004",
+    "villageCode": "004",
+    "districtCode": "35.04.040",
+    "name": "Gamping",
+    "alias": "Gamping"
+  },
+  {
+    "code": "35.04.040.005",
+    "villageCode": "005",
+    "districtCode": "35.04.040",
+    "name": "Campurdarat",
+    "alias": "Campurdarat"
+  },
+  {
+    "code": "35.04.040.006",
+    "villageCode": "006",
+    "districtCode": "35.04.040",
+    "name": "Wates",
+    "alias": "Wates"
+  },
+  {
+    "code": "35.04.040.007",
+    "villageCode": "007",
+    "districtCode": "35.04.040",
+    "name": "Pelem",
+    "alias": "Pelem"
+  },
+  {
+    "code": "35.04.040.008",
+    "villageCode": "008",
+    "districtCode": "35.04.040",
+    "name": "Pojok",
+    "alias": "Pojok"
+  },
+  {
+    "code": "35.04.040.009",
+    "villageCode": "009",
+    "districtCode": "35.04.040",
+    "name": "Tanggung",
+    "alias": "Tanggung"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "code": "14.05.026.001",
+    "villageCode": "001",
+    "districtCode": "14.05.026",
+    "name": "Merempan Hilir",
+    "alias": "Merempan Hilir"
+  },
+  {
+    "code": "14.05.026.002",
+    "villageCode": "002",
+    "districtCode": "14.05.026",
+    "name": "Sungai Mempura",
+    "alias": "Sungai Mempura"
+  },
+  {
+    "code": "14.05.026.003",
+    "villageCode": "003",
+    "districtCode": "14.05.026",
+    "name": "Kampung Tengah",
+    "alias": "Kampung Tengah"
+  },
+  {
+    "code": "14.05.026.004",
+    "villageCode": "004",
+    "districtCode": "14.05.026",
+    "name": "Benteng Hulu",
+    "alias": "Benteng Hulu"
+  },
+  {
+    "code": "14.05.026.005",
+    "villageCode": "005",
+    "districtCode": "14.05.026",
+    "name": "Benteng Hilir",
+    "alias": "Benteng Hilir"
+  },
+  {
+    "code": "14.05.026.006",
+    "villageCode": "006",
+    "districtCode": "14.05.026",
+    "name": "Paluh",
+    "alias": "Paluh"
+  },
+  {
+    "code": "14.05.026.007",
+    "villageCode": "007",
+    "districtCode": "14.05.026",
+    "name": "Kota Ringin",
+    "alias": "Kota Ringin"
+  },
+  {
+    "code": "14.05.026.008",
+    "villageCode": "008",
+    "districtCode": "14.05.026",
+    "name": "Teluk Merempan",
+    "alias": "Teluk Merempan"
+  }
+]

@@ -1,0 +1,135 @@
+[
+  {
+    "code": "97.04.090.001",
+    "villageCode": "001",
+    "districtCode": "97.04.090",
+    "name": "Doge",
+    "alias": "Doge"
+  },
+  {
+    "code": "97.04.090.002",
+    "villageCode": "002",
+    "districtCode": "97.04.090",
+    "name": "Tiri",
+    "alias": "Tiri"
+  },
+  {
+    "code": "97.04.090.003",
+    "villageCode": "003",
+    "districtCode": "97.04.090",
+    "name": "Yemarima",
+    "alias": "Yemarima"
+  },
+  {
+    "code": "97.04.090.004",
+    "villageCode": "004",
+    "districtCode": "97.04.090",
+    "name": "Dugi",
+    "alias": "Dugi"
+  },
+  {
+    "code": "97.04.090.005",
+    "villageCode": "005",
+    "districtCode": "97.04.090",
+    "name": "Tigikun",
+    "alias": "Tigikun"
+  },
+  {
+    "code": "97.04.090.006",
+    "villageCode": "006",
+    "districtCode": "97.04.090",
+    "name": "Didelonik",
+    "alias": "Didelonik"
+  },
+  {
+    "code": "97.04.090.007",
+    "villageCode": "007",
+    "districtCode": "97.04.090",
+    "name": "Kumbur",
+    "alias": "Kumbur"
+  },
+  {
+    "code": "97.04.090.008",
+    "villageCode": "008",
+    "districtCode": "97.04.090",
+    "name": "Peko",
+    "alias": "Peko"
+  },
+  {
+    "code": "97.04.090.009",
+    "villageCode": "009",
+    "districtCode": "97.04.090",
+    "name": "Goyage",
+    "alias": "Goyage"
+  },
+  {
+    "code": "97.04.090.010",
+    "villageCode": "010",
+    "districtCode": "97.04.090",
+    "name": "Benari",
+    "alias": "Benari"
+  },
+  {
+    "code": "97.04.090.011",
+    "villageCode": "011",
+    "districtCode": "97.04.090",
+    "name": "Wijamurik",
+    "alias": "Wijamurik"
+  },
+  {
+    "code": "97.04.090.012",
+    "villageCode": "012",
+    "districtCode": "97.04.090",
+    "name": "Tigir",
+    "alias": "Tigir"
+  },
+  {
+    "code": "97.04.090.013",
+    "villageCode": "013",
+    "districtCode": "97.04.090",
+    "name": "Bopa",
+    "alias": "Bopa"
+  },
+  {
+    "code": "97.04.090.014",
+    "villageCode": "014",
+    "districtCode": "97.04.090",
+    "name": "Angkasa",
+    "alias": "Angkasa"
+  },
+  {
+    "code": "97.04.090.015",
+    "villageCode": "015",
+    "districtCode": "97.04.090",
+    "name": "Gilok",
+    "alias": "Gilok"
+  },
+  {
+    "code": "97.04.090.016",
+    "villageCode": "016",
+    "districtCode": "97.04.090",
+    "name": "Woji",
+    "alias": "Woji"
+  },
+  {
+    "code": "97.04.090.017",
+    "villageCode": "017",
+    "districtCode": "97.04.090",
+    "name": "Mampulaga",
+    "alias": "Mampulaga"
+  },
+  {
+    "code": "97.04.090.018",
+    "villageCode": "018",
+    "districtCode": "97.04.090",
+    "name": "Tidur Mabuk",
+    "alias": "Tidur Mabuk"
+  },
+  {
+    "code": "97.04.090.019",
+    "villageCode": "019",
+    "districtCode": "97.04.090",
+    "name": "Bini",
+    "alias": "Bini"
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "code": "13.07.010",
+    "districtCode": "010",
+    "regencyCode": "13.07",
+    "provinceCode": "13",
+    "name": "Kecamatan Tanjung Mutiara",
+    "alias": "Tanjung Mutiara"
+  },
+  {
+    "code": "13.07.020",
+    "districtCode": "020",
+    "regencyCode": "13.07",
+    "provinceCode": "13",
+    "name": "Kecamatan Lubuk Basung",
+    "alias": "Lubuk Basung"
+  },
+  {
+    "code": "13.07.021",
+    "districtCode": "021",
+    "regencyCode": "13.07",
+    "provinceCode": "13",
+    "name": "Kecamatan Ampek Nagari",
+    "alias": "Ampek Nagari"
+  },
+  {
+    "code": "13.07.030",
+    "districtCode": "030",
+    "regencyCode": "13.07",
+    "provinceCode": "13",
+    "name": "Kecamatan Tanjung Raya",
+    "alias": "Tanjung Raya"
+  },
+  {
+    "code": "13.07.040",
+    "districtCode": "040",
+    "regencyCode": "13.07",
+    "provinceCode": "13",
+    "name": "Kecamatan Matur",
+    "alias": "Matur"
+  },
+  {
+    "code": "13.07.050",
+    "districtCode": "050",
+    "regencyCode": "13.07",
+    "provinceCode": "13",
+    "name": "Kecamatan Iv Koto",
+    "alias": "Iv Koto"
+  },
+  {
+    "code": "13.07.051",
+    "districtCode": "051",
+    "regencyCode": "13.07",
+    "provinceCode": "13",
+    "name": "Kecamatan Malalak",
+    "alias": "Malalak"
+  },
+  {
+    "code": "13.07.061",
+    "districtCode": "061",
+    "regencyCode": "13.07",
+    "provinceCode": "13",
+    "name": "Kecamatan Banuhampu",
+    "alias": "Banuhampu"
+  },
+  {
+    "code": "13.07.062",
+    "districtCode": "062",
+    "regencyCode": "13.07",
+    "provinceCode": "13",
+    "name": "Kecamatan Sungai Pua",
+    "alias": "Sungai Pua"
+  },
+  {
+    "code": "13.07.070",
+    "districtCode": "070",
+    "regencyCode": "13.07",
+    "provinceCode": "13",
+    "name": "Kecamatan Ampek Angkek",
+    "alias": "Ampek Angkek"
+  },
+  {
+    "code": "13.07.071",
+    "districtCode": "071",
+    "regencyCode": "13.07",
+    "provinceCode": "13",
+    "name": "Kecamatan Canduang",
+    "alias": "Canduang"
+  },
+  {
+    "code": "13.07.080",
+    "districtCode": "080",
+    "regencyCode": "13.07",
+    "provinceCode": "13",
+    "name": "Kecamatan Baso",
+    "alias": "Baso"
+  },
+  {
+    "code": "13.07.090",
+    "districtCode": "090",
+    "regencyCode": "13.07",
+    "provinceCode": "13",
+    "name": "Kecamatan Tilatang Kamang",
+    "alias": "Tilatang Kamang"
+  },
+  {
+    "code": "13.07.091",
+    "districtCode": "091",
+    "regencyCode": "13.07",
+    "provinceCode": "13",
+    "name": "Kecamatan Kamang Magek",
+    "alias": "Kamang Magek"
+  },
+  {
+    "code": "13.07.100",
+    "districtCode": "100",
+    "regencyCode": "13.07",
+    "provinceCode": "13",
+    "name": "Kecamatan Palembayan",
+    "alias": "Palembayan"
+  },
+  {
+    "code": "13.07.110",
+    "districtCode": "110",
+    "regencyCode": "13.07",
+    "provinceCode": "13",
+    "name": "Kecamatan Palupuh",
+    "alias": "Palupuh"
+  }
+]

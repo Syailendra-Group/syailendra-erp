@@ -1,0 +1,72 @@
+[
+  {
+    "code": "97.07.410.001",
+    "villageCode": "001",
+    "districtCode": "97.07.410",
+    "name": "Silakma",
+    "alias": "Silakma"
+  },
+  {
+    "code": "97.07.410.002",
+    "villageCode": "002",
+    "districtCode": "97.07.410",
+    "name": "Somarin",
+    "alias": "Somarin"
+  },
+  {
+    "code": "97.07.410.003",
+    "villageCode": "003",
+    "districtCode": "97.07.410",
+    "name": "Monin",
+    "alias": "Monin"
+  },
+  {
+    "code": "97.07.410.004",
+    "villageCode": "004",
+    "districtCode": "97.07.410",
+    "name": "Enggelasue",
+    "alias": "Enggelasue"
+  },
+  {
+    "code": "97.07.410.005",
+    "villageCode": "005",
+    "districtCode": "97.07.410",
+    "name": "Oakbisik",
+    "alias": "Oakbisik"
+  },
+  {
+    "code": "97.07.410.006",
+    "villageCode": "006",
+    "districtCode": "97.07.410",
+    "name": "Husmo",
+    "alias": "Husmo"
+  },
+  {
+    "code": "97.07.410.007",
+    "villageCode": "007",
+    "districtCode": "97.07.410",
+    "name": "Karelma",
+    "alias": "Karelma"
+  },
+  {
+    "code": "97.07.410.008",
+    "villageCode": "008",
+    "districtCode": "97.07.410",
+    "name": "Kenkeni",
+    "alias": "Kenkeni"
+  },
+  {
+    "code": "97.07.410.009",
+    "villageCode": "009",
+    "districtCode": "97.07.410",
+    "name": "Momenggama",
+    "alias": "Momenggama"
+  },
+  {
+    "code": "97.07.410.010",
+    "villageCode": "010",
+    "districtCode": "97.07.410",
+    "name": "Usabini",
+    "alias": "Usabini"
+  }
+]

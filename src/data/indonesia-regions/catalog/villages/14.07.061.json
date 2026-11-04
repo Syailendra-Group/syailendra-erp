@@ -1,0 +1,37 @@
+[
+  {
+    "code": "14.07.061.001",
+    "villageCode": "001",
+    "districtCode": "14.07.061",
+    "name": "Kepenuhan Jaya",
+    "alias": "Kepenuhan Jaya"
+  },
+  {
+    "code": "14.07.061.002",
+    "villageCode": "002",
+    "districtCode": "14.07.061",
+    "name": "Kepenuhan Hulu",
+    "alias": "Kepenuhan Hulu"
+  },
+  {
+    "code": "14.07.061.003",
+    "villageCode": "003",
+    "districtCode": "14.07.061",
+    "name": "Muara Jaya",
+    "alias": "Muara Jaya"
+  },
+  {
+    "code": "14.07.061.004",
+    "villageCode": "004",
+    "districtCode": "14.07.061",
+    "name": "Pekan Tebih",
+    "alias": "Pekan Tebih"
+  },
+  {
+    "code": "14.07.061.005",
+    "villageCode": "005",
+    "districtCode": "14.07.061",
+    "name": "Kepayang",
+    "alias": "Kepayang"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "code": "17.06.051.001",
+    "villageCode": "001",
+    "districtCode": "17.06.051",
+    "name": "Agung Jaya",
+    "alias": "Agung Jaya"
+  },
+  {
+    "code": "17.06.051.002",
+    "villageCode": "002",
+    "districtCode": "17.06.051",
+    "name": "Pondok Makmur",
+    "alias": "Pondok Makmur"
+  },
+  {
+    "code": "17.06.051.003",
+    "villageCode": "003",
+    "districtCode": "17.06.051",
+    "name": "Manjunto Jaya",
+    "alias": "Manjunto Jaya"
+  },
+  {
+    "code": "17.06.051.004",
+    "villageCode": "004",
+    "districtCode": "17.06.051",
+    "name": "Tirta Makmur",
+    "alias": "Tirta Makmur"
+  },
+  {
+    "code": "17.06.051.005",
+    "villageCode": "005",
+    "districtCode": "17.06.051",
+    "name": "Tirta Mulya",
+    "alias": "Tirta Mulya"
+  },
+  {
+    "code": "17.06.051.006",
+    "villageCode": "006",
+    "districtCode": "17.06.051",
+    "name": "Kota Praja",
+    "alias": "Kota Praja"
+  },
+  {
+    "code": "17.06.051.007",
+    "villageCode": "007",
+    "districtCode": "17.06.051",
+    "name": "Sinar Jaya",
+    "alias": "Sinar Jaya"
+  },
+  {
+    "code": "17.06.051.008",
+    "villageCode": "008",
+    "districtCode": "17.06.051",
+    "name": "Sido Makmur",
+    "alias": "Sido Makmur"
+  }
+]

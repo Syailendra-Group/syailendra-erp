@@ -1,0 +1,72 @@
+[
+  {
+    "code": "81.02.022.004",
+    "villageCode": "004",
+    "districtCode": "81.02.022",
+    "name": "Kilwat",
+    "alias": "Kilwat"
+  },
+  {
+    "code": "81.02.022.007",
+    "villageCode": "007",
+    "districtCode": "81.02.022",
+    "name": "Tamangil Nuhuyanat",
+    "alias": "Tamangil Nuhuyanat"
+  },
+  {
+    "code": "81.02.022.008",
+    "villageCode": "008",
+    "districtCode": "81.02.022",
+    "name": "Sather",
+    "alias": "Sather"
+  },
+  {
+    "code": "81.02.022.009",
+    "villageCode": "009",
+    "districtCode": "81.02.022",
+    "name": "Tutrean",
+    "alias": "Tutrean"
+  },
+  {
+    "code": "81.02.022.010",
+    "villageCode": "010",
+    "districtCode": "81.02.022",
+    "name": "Weduar",
+    "alias": "Weduar"
+  },
+  {
+    "code": "81.02.022.011",
+    "villageCode": "011",
+    "districtCode": "81.02.022",
+    "name": "Tamangil Nuhuten",
+    "alias": "Tamangil Nuhuten"
+  },
+  {
+    "code": "81.02.022.012",
+    "villageCode": "012",
+    "districtCode": "81.02.022",
+    "name": "Larat",
+    "alias": "Larat"
+  },
+  {
+    "code": "81.02.022.013",
+    "villageCode": "013",
+    "districtCode": "81.02.022",
+    "name": "Nerong",
+    "alias": "Nerong"
+  },
+  {
+    "code": "81.02.022.014",
+    "villageCode": "014",
+    "districtCode": "81.02.022",
+    "name": "Ohoirenan",
+    "alias": "Ohoirenan"
+  },
+  {
+    "code": "81.02.022.015",
+    "villageCode": "015",
+    "districtCode": "81.02.022",
+    "name": "Soindat",
+    "alias": "Soindat"
+  }
+]

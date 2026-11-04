@@ -1,0 +1,51 @@
+[
+  {
+    "code": "74.14.010.001",
+    "villageCode": "001",
+    "districtCode": "74.14.010",
+    "name": "Kokoe",
+    "alias": "Kokoe"
+  },
+  {
+    "code": "74.14.010.002",
+    "villageCode": "002",
+    "districtCode": "74.14.010",
+    "name": "Talaga Besar",
+    "alias": "Talaga Besar"
+  },
+  {
+    "code": "74.14.010.003",
+    "villageCode": "003",
+    "districtCode": "74.14.010",
+    "name": "Talaga Ii",
+    "alias": "Talaga Ii"
+  },
+  {
+    "code": "74.14.010.004",
+    "villageCode": "004",
+    "districtCode": "74.14.010",
+    "name": "Talaga Satu",
+    "alias": "Talaga Satu"
+  },
+  {
+    "code": "74.14.010.005",
+    "villageCode": "005",
+    "districtCode": "74.14.010",
+    "name": "Wulu",
+    "alias": "Wulu"
+  },
+  {
+    "code": "74.14.010.006",
+    "villageCode": "006",
+    "districtCode": "74.14.010",
+    "name": "Liwulompona",
+    "alias": "Liwulompona"
+  },
+  {
+    "code": "74.14.010.007",
+    "villageCode": "007",
+    "districtCode": "74.14.010",
+    "name": "Pangilia",
+    "alias": "Pangilia"
+  }
+]

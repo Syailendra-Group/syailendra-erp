@@ -1,0 +1,86 @@
+[
+  {
+    "code": "32.15.140.001",
+    "villageCode": "001",
+    "districtCode": "32.15.140",
+    "name": "Sindangkarya",
+    "alias": "Sindangkarya"
+  },
+  {
+    "code": "32.15.140.002",
+    "villageCode": "002",
+    "districtCode": "32.15.140",
+    "name": "Sindangmukti",
+    "alias": "Sindangmukti"
+  },
+  {
+    "code": "32.15.140.003",
+    "villageCode": "003",
+    "districtCode": "32.15.140",
+    "name": "Sindangmulya",
+    "alias": "Sindangmulya"
+  },
+  {
+    "code": "32.15.140.004",
+    "villageCode": "004",
+    "districtCode": "32.15.140",
+    "name": "Mulyajaya",
+    "alias": "Mulyajaya"
+  },
+  {
+    "code": "32.15.140.005",
+    "villageCode": "005",
+    "districtCode": "32.15.140",
+    "name": "Kutakarya",
+    "alias": "Kutakarya"
+  },
+  {
+    "code": "32.15.140.006",
+    "villageCode": "006",
+    "districtCode": "32.15.140",
+    "name": "Kutagandok",
+    "alias": "Kutagandok"
+  },
+  {
+    "code": "32.15.140.007",
+    "villageCode": "007",
+    "districtCode": "32.15.140",
+    "name": "Waluya",
+    "alias": "Waluya"
+  },
+  {
+    "code": "32.15.140.008",
+    "villageCode": "008",
+    "districtCode": "32.15.140",
+    "name": "Sampalan",
+    "alias": "Sampalan"
+  },
+  {
+    "code": "32.15.140.009",
+    "villageCode": "009",
+    "districtCode": "32.15.140",
+    "name": "Sindangsari",
+    "alias": "Sindangsari"
+  },
+  {
+    "code": "32.15.140.010",
+    "villageCode": "010",
+    "districtCode": "32.15.140",
+    "name": "Kutaraja",
+    "alias": "Kutaraja"
+  },
+  {
+    "code": "32.15.140.011",
+    "villageCode": "011",
+    "districtCode": "32.15.140",
+    "name": "Kutamukti",
+    "alias": "Kutamukti"
+  },
+  {
+    "code": "32.15.140.012",
+    "villageCode": "012",
+    "districtCode": "32.15.140",
+    "name": "Kutajaya",
+    "alias": "Kutajaya"
+  }
+]

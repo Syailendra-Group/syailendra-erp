@@ -1,0 +1,79 @@
+[
+  {
+    "code": "32.05.060.001",
+    "villageCode": "001",
+    "districtCode": "32.05.060",
+    "name": "Cigadog",
+    "alias": "Cigadog"
+  },
+  {
+    "code": "32.05.060.002",
+    "villageCode": "002",
+    "districtCode": "32.05.060",
+    "name": "Cijambe",
+    "alias": "Cijambe"
+  },
+  {
+    "code": "32.05.060.003",
+    "villageCode": "003",
+    "districtCode": "32.05.060",
+    "name": "Cikelet",
+    "alias": "Cikelet"
+  },
+  {
+    "code": "32.05.060.004",
+    "villageCode": "004",
+    "districtCode": "32.05.060",
+    "name": "Pamalayan",
+    "alias": "Pamalayan"
+  },
+  {
+    "code": "32.05.060.005",
+    "villageCode": "005",
+    "districtCode": "32.05.060",
+    "name": "Linggamanik",
+    "alias": "Linggamanik"
+  },
+  {
+    "code": "32.05.060.006",
+    "villageCode": "006",
+    "districtCode": "32.05.060",
+    "name": "Karangsari",
+    "alias": "Karangsari"
+  },
+  {
+    "code": "32.05.060.007",
+    "villageCode": "007",
+    "districtCode": "32.05.060",
+    "name": "Kertamukti",
+    "alias": "Kertamukti"
+  },
+  {
+    "code": "32.05.060.008",
+    "villageCode": "008",
+    "districtCode": "32.05.060",
+    "name": "Ciroyom",
+    "alias": "Ciroyom"
+  },
+  {
+    "code": "32.05.060.009",
+    "villageCode": "009",
+    "districtCode": "32.05.060",
+    "name": "Girimukti",
+    "alias": "Girimukti"
+  },
+  {
+    "code": "32.05.060.010",
+    "villageCode": "010",
+    "districtCode": "32.05.060",
+    "name": "Tipar",
+    "alias": "Tipar"
+  },
+  {
+    "code": "32.05.060.011",
+    "villageCode": "011",
+    "districtCode": "32.05.060",
+    "name": "Awassagara",
+    "alias": "Awassagara"
+  }
+]

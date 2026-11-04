@@ -1,0 +1,66 @@
+[
+  {
+    "code": "19.01.070",
+    "districtCode": "070",
+    "regencyCode": "19.01",
+    "provinceCode": "19",
+    "name": "Kecamatan Mendo Barat",
+    "alias": "Mendo Barat"
+  },
+  {
+    "code": "19.01.080",
+    "districtCode": "080",
+    "regencyCode": "19.01",
+    "provinceCode": "19",
+    "name": "Kecamatan Merawang",
+    "alias": "Merawang"
+  },
+  {
+    "code": "19.01.081",
+    "districtCode": "081",
+    "regencyCode": "19.01",
+    "provinceCode": "19",
+    "name": "Kecamatan Puding Besar",
+    "alias": "Puding Besar"
+  },
+  {
+    "code": "19.01.090",
+    "districtCode": "090",
+    "regencyCode": "19.01",
+    "provinceCode": "19",
+    "name": "Kecamatan Sungailiat",
+    "alias": "Sungailiat"
+  },
+  {
+    "code": "19.01.091",
+    "districtCode": "091",
+    "regencyCode": "19.01",
+    "provinceCode": "19",
+    "name": "Kecamatan Pemali",
+    "alias": "Pemali"
+  },
+  {
+    "code": "19.01.092",
+    "districtCode": "092",
+    "regencyCode": "19.01",
+    "provinceCode": "19",
+    "name": "Kecamatan Bakam",
+    "alias": "Bakam"
+  },
+  {
+    "code": "19.01.130",
+    "districtCode": "130",
+    "regencyCode": "19.01",
+    "provinceCode": "19",
+    "name": "Kecamatan Belinyu",
+    "alias": "Belinyu"
+  },
+  {
+    "code": "19.01.131",
+    "districtCode": "131",
+    "regencyCode": "19.01",
+    "provinceCode": "19",
+    "name": "Kecamatan Riau Silip",
+    "alias": "Riau Silip"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "code": "18.71.020.001",
+    "villageCode": "001",
+    "districtCode": "18.71.020",
+    "name": "Gedong Pakuon",
+    "alias": "Gedong Pakuon"
+  },
+  {
+    "code": "18.71.020.002",
+    "villageCode": "002",
+    "districtCode": "18.71.020",
+    "name": "Talang",
+    "alias": "Talang"
+  },
+  {
+    "code": "18.71.020.003",
+    "villageCode": "003",
+    "districtCode": "18.71.020",
+    "name": "Pesawahan",
+    "alias": "Pesawahan"
+  },
+  {
+    "code": "18.71.020.004",
+    "villageCode": "004",
+    "districtCode": "18.71.020",
+    "name": "Teluk Betung",
+    "alias": "Teluk Betung"
+  },
+  {
+    "code": "18.71.020.013",
+    "villageCode": "013",
+    "districtCode": "18.71.020",
+    "name": "Sumur Putri",
+    "alias": "Sumur Putri"
+  },
+  {
+    "code": "18.71.020.014",
+    "villageCode": "014",
+    "districtCode": "18.71.020",
+    "name": "Gunung Mas",
+    "alias": "Gunung Mas"
+  }
+]

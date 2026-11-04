@@ -1,0 +1,86 @@
+[
+  {
+    "code": "12.21.052.001",
+    "villageCode": "001",
+    "districtCode": "12.21.052",
+    "name": "Pasir Julu",
+    "alias": "Pasir Julu"
+  },
+  {
+    "code": "12.21.052.002",
+    "villageCode": "002",
+    "districtCode": "12.21.052",
+    "name": "Lumban Huayan",
+    "alias": "Lumban Huayan"
+  },
+  {
+    "code": "12.21.052.003",
+    "villageCode": "003",
+    "districtCode": "12.21.052",
+    "name": "Siborna Bunut",
+    "alias": "Siborna Bunut"
+  },
+  {
+    "code": "12.21.052.004",
+    "villageCode": "004",
+    "districtCode": "12.21.052",
+    "name": "Mananti Sosa Julu",
+    "alias": "Mananti Sosa Julu"
+  },
+  {
+    "code": "12.21.052.005",
+    "villageCode": "005",
+    "districtCode": "12.21.052",
+    "name": "Ampolu",
+    "alias": "Ampolu"
+  },
+  {
+    "code": "12.21.052.006",
+    "villageCode": "006",
+    "districtCode": "12.21.052",
+    "name": "Siginduang",
+    "alias": "Siginduang"
+  },
+  {
+    "code": "12.21.052.007",
+    "villageCode": "007",
+    "districtCode": "12.21.052",
+    "name": "Ramba",
+    "alias": "Ramba"
+  },
+  {
+    "code": "12.21.052.008",
+    "villageCode": "008",
+    "districtCode": "12.21.052",
+    "name": "Roburan",
+    "alias": "Roburan"
+  },
+  {
+    "code": "12.21.052.009",
+    "villageCode": "009",
+    "districtCode": "12.21.052",
+    "name": "Tanjung",
+    "alias": "Tanjung"
+  },
+  {
+    "code": "12.21.052.010",
+    "villageCode": "010",
+    "districtCode": "12.21.052",
+    "name": "Hurung Jilok",
+    "alias": "Hurung Jilok"
+  },
+  {
+    "code": "12.21.052.011",
+    "villageCode": "011",
+    "districtCode": "12.21.052",
+    "name": "Pasir Jae",
+    "alias": "Pasir Jae"
+  },
+  {
+    "code": "12.21.052.012",
+    "villageCode": "012",
+    "districtCode": "12.21.052",
+    "name": "Sungai Jior",
+    "alias": "Sungai Jior"
+  }
+]

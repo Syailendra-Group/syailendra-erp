@@ -1,0 +1,86 @@
+[
+  {
+    "code": "73.18.021.001",
+    "villageCode": "001",
+    "districtCode": "73.18.021",
+    "name": "Kelurahan Benteng Ambeso",
+    "alias": "Kelurahan Benteng Ambeso"
+  },
+  {
+    "code": "73.18.021.002",
+    "villageCode": "002",
+    "districtCode": "73.18.021",
+    "name": "Lembang Kaduaja",
+    "alias": "Lembang Kaduaja"
+  },
+  {
+    "code": "73.18.021.003",
+    "villageCode": "003",
+    "districtCode": "73.18.021",
+    "name": "Lembang Gandangbatu",
+    "alias": "Lembang Gandangbatu"
+  },
+  {
+    "code": "73.18.021.004",
+    "villageCode": "004",
+    "districtCode": "73.18.021",
+    "name": "Lembang Garassik",
+    "alias": "Lembang Garassik"
+  },
+  {
+    "code": "73.18.021.005",
+    "villageCode": "005",
+    "districtCode": "73.18.021",
+    "name": "Kelurahan Salubarani",
+    "alias": "Kelurahan Salubarani"
+  },
+  {
+    "code": "73.18.021.006",
+    "villageCode": "006",
+    "districtCode": "73.18.021",
+    "name": "Lembang Betteng Deata",
+    "alias": "Lembang Betteng Deata"
+  },
+  {
+    "code": "73.18.021.007",
+    "villageCode": "007",
+    "districtCode": "73.18.021",
+    "name": "Lembang Buntu Limbong",
+    "alias": "Lembang Buntu Limbong"
+  },
+  {
+    "code": "73.18.021.008",
+    "villageCode": "008",
+    "districtCode": "73.18.021",
+    "name": "Lembang Buntu Tabang",
+    "alias": "Lembang Buntu Tabang"
+  },
+  {
+    "code": "73.18.021.009",
+    "villageCode": "009",
+    "districtCode": "73.18.021",
+    "name": "Lembang Sillanan",
+    "alias": "Lembang Sillanan"
+  },
+  {
+    "code": "73.18.021.010",
+    "villageCode": "010",
+    "districtCode": "73.18.021",
+    "name": "Lembang Pemanukan",
+    "alias": "Lembang Pemanukan"
+  },
+  {
+    "code": "73.18.021.011",
+    "villageCode": "011",
+    "districtCode": "73.18.021",
+    "name": "Lembang Perindingan",
+    "alias": "Lembang Perindingan"
+  },
+  {
+    "code": "73.18.021.012",
+    "villageCode": "012",
+    "districtCode": "73.18.021",
+    "name": "Kelurahan Mebali",
+    "alias": "Kelurahan Mebali"
+  }
+]

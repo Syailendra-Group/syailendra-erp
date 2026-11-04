@@ -1,0 +1,275 @@
+[
+  {
+    "code": "11.11.061.001",
+    "villageCode": "001",
+    "districtCode": "11.11.061",
+    "name": "Blang Mane",
+    "alias": "Blang Mane"
+  },
+  {
+    "code": "11.11.061.002",
+    "villageCode": "002",
+    "districtCode": "11.11.061",
+    "name": "Matang Panyang",
+    "alias": "Matang Panyang"
+  },
+  {
+    "code": "11.11.061.003",
+    "villageCode": "003",
+    "districtCode": "11.11.061",
+    "name": "Alue Lhok",
+    "alias": "Alue Lhok"
+  },
+  {
+    "code": "11.11.061.004",
+    "villageCode": "004",
+    "districtCode": "11.11.061",
+    "name": "Seuneubok Aceh",
+    "alias": "Seuneubok Aceh"
+  },
+  {
+    "code": "11.11.061.005",
+    "villageCode": "005",
+    "districtCode": "11.11.061",
+    "name": "Buket Pidie",
+    "alias": "Buket Pidie"
+  },
+  {
+    "code": "11.11.061.006",
+    "villageCode": "006",
+    "districtCode": "11.11.061",
+    "name": "Buket Guru",
+    "alias": "Buket Guru"
+  },
+  {
+    "code": "11.11.061.007",
+    "villageCode": "007",
+    "districtCode": "11.11.061",
+    "name": "Alue Bieng",
+    "alias": "Alue Bieng"
+  },
+  {
+    "code": "11.11.061.008",
+    "villageCode": "008",
+    "districtCode": "11.11.061",
+    "name": "Peureupok",
+    "alias": "Peureupok"
+  },
+  {
+    "code": "11.11.061.009",
+    "villageCode": "009",
+    "districtCode": "11.11.061",
+    "name": "Blang Gunci",
+    "alias": "Blang Gunci"
+  },
+  {
+    "code": "11.11.061.010",
+    "villageCode": "010",
+    "districtCode": "11.11.061",
+    "name": "Pante Seuleumak",
+    "alias": "Pante Seuleumak"
+  },
+  {
+    "code": "11.11.061.011",
+    "villageCode": "011",
+    "districtCode": "11.11.061",
+    "name": "Nga",
+    "alias": "Nga"
+  },
+  {
+    "code": "11.11.061.012",
+    "villageCode": "012",
+    "districtCode": "11.11.061",
+    "name": "Mampree",
+    "alias": "Mampree"
+  },
+  {
+    "code": "11.11.061.013",
+    "villageCode": "013",
+    "districtCode": "11.11.061",
+    "name": "Tanjong Drien",
+    "alias": "Tanjong Drien"
+  },
+  {
+    "code": "11.11.061.014",
+    "villageCode": "014",
+    "districtCode": "11.11.061",
+    "name": "Cot Tufah",
+    "alias": "Cot Tufah"
+  },
+  {
+    "code": "11.11.061.015",
+    "villageCode": "015",
+    "districtCode": "11.11.061",
+    "name": "Asan Seuleumak",
+    "alias": "Asan Seuleumak"
+  },
+  {
+    "code": "11.11.061.016",
+    "villageCode": "016",
+    "districtCode": "11.11.061",
+    "name": "Tgk Dibanda Tek-Tek",
+    "alias": "Tgk Dibanda Tek-Tek"
+  },
+  {
+    "code": "11.11.061.017",
+    "villageCode": "017",
+    "districtCode": "11.11.061",
+    "name": "Simpang",
+    "alias": "Simpang"
+  },
+  {
+    "code": "11.11.061.018",
+    "villageCode": "018",
+    "districtCode": "11.11.061",
+    "name": "Keubon Pirak",
+    "alias": "Keubon Pirak"
+  },
+  {
+    "code": "11.11.061.019",
+    "villageCode": "019",
+    "districtCode": "11.11.061",
+    "name": "Blang Ara",
+    "alias": "Blang Ara"
+  },
+  {
+    "code": "11.11.061.020",
+    "villageCode": "020",
+    "districtCode": "11.11.061",
+    "name": "Geureughek",
+    "alias": "Geureughek"
+  },
+  {
+    "code": "11.11.061.021",
+    "villageCode": "021",
+    "districtCode": "11.11.061",
+    "name": "Blang Pante",
+    "alias": "Blang Pante"
+  },
+  {
+    "code": "11.11.061.022",
+    "villageCode": "022",
+    "districtCode": "11.11.061",
+    "name": "Lueng",
+    "alias": "Lueng"
+  },
+  {
+    "code": "11.11.061.023",
+    "villageCode": "023",
+    "districtCode": "11.11.061",
+    "name": "Tgk Dibanda Pirak",
+    "alias": "Tgk Dibanda Pirak"
+  },
+  {
+    "code": "11.11.061.024",
+    "villageCode": "024",
+    "districtCode": "11.11.061",
+    "name": "Geulumpang Pirak",
+    "alias": "Geulumpang Pirak"
+  },
+  {
+    "code": "11.11.061.025",
+    "villageCode": "025",
+    "districtCode": "11.11.061",
+    "name": "Blang Sialet",
+    "alias": "Blang Sialet"
+  },
+  {
+    "code": "11.11.061.026",
+    "villageCode": "026",
+    "districtCode": "11.11.061",
+    "name": "Blang Paku",
+    "alias": "Blang Paku"
+  },
+  {
+    "code": "11.11.061.027",
+    "villageCode": "027",
+    "districtCode": "11.11.061",
+    "name": "Blang Dalam",
+    "alias": "Blang Dalam"
+  },
+  {
+    "code": "11.11.061.028",
+    "villageCode": "028",
+    "districtCode": "11.11.061",
+    "name": "Meuria Seuleumak",
+    "alias": "Meuria Seuleumak"
+  },
+  {
+    "code": "11.11.061.029",
+    "villageCode": "029",
+    "districtCode": "11.11.061",
+    "name": "Leuhong",
+    "alias": "Leuhong"
+  },
+  {
+    "code": "11.11.061.030",
+    "villageCode": "030",
+    "districtCode": "11.11.061",
+    "name": "Tanjong Beurunyong",
+    "alias": "Tanjong Beurunyong"
+  },
+  {
+    "code": "11.11.061.031",
+    "villageCode": "031",
+    "districtCode": "11.11.061",
+    "name": "Keude Paya Bakong",
+    "alias": "Keude Paya Bakong"
+  },
+  {
+    "code": "11.11.061.032",
+    "villageCode": "032",
+    "districtCode": "11.11.061",
+    "name": "Cempeudak",
+    "alias": "Cempeudak"
+  },
+  {
+    "code": "11.11.061.033",
+    "villageCode": "033",
+    "districtCode": "11.11.061",
+    "name": "Paya Meudru",
+    "alias": "Paya Meudru"
+  },
+  {
+    "code": "11.11.061.034",
+    "villageCode": "034",
+    "districtCode": "11.11.061",
+    "name": "Meunye Seuleumak",
+    "alias": "Meunye Seuleumak"
+  },
+  {
+    "code": "11.11.061.035",
+    "villageCode": "035",
+    "districtCode": "11.11.061",
+    "name": "Alue Leukot",
+    "alias": "Alue Leukot"
+  },
+  {
+    "code": "11.11.061.036",
+    "villageCode": "036",
+    "districtCode": "11.11.061",
+    "name": "Pucok Alue Seuleumak",
+    "alias": "Pucok Alue Seuleumak"
+  },
+  {
+    "code": "11.11.061.037",
+    "villageCode": "037",
+    "districtCode": "11.11.061",
+    "name": "Jok",
+    "alias": "Jok"
+  },
+  {
+    "code": "11.11.061.038",
+    "villageCode": "038",
+    "districtCode": "11.11.061",
+    "name": "Tunong Krueng",
+    "alias": "Tunong Krueng"
+  },
+  {
+    "code": "11.11.061.039",
+    "villageCode": "039",
+    "districtCode": "11.11.061",
+    "name": "Tumpok Mesjid",
+    "alias": "Tumpok Mesjid"
+  }
+]

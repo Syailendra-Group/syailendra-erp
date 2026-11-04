@@ -1,0 +1,72 @@
+[
+  {
+    "code": "11.73.030.001",
+    "villageCode": "001",
+    "districtCode": "11.73.030",
+    "name": "Gampong Teungoh",
+    "alias": "Gampong Teungoh"
+  },
+  {
+    "code": "11.73.030.002",
+    "villageCode": "002",
+    "districtCode": "11.73.030",
+    "name": "Peukan Langsa",
+    "alias": "Peukan Langsa"
+  },
+  {
+    "code": "11.73.030.004",
+    "villageCode": "004",
+    "districtCode": "11.73.030",
+    "name": "Gampong Jawa",
+    "alias": "Gampong Jawa"
+  },
+  {
+    "code": "11.73.030.005",
+    "villageCode": "005",
+    "districtCode": "11.73.030",
+    "name": "Paya Bujok Blang Pase",
+    "alias": "Paya Bujok Blang Pase"
+  },
+  {
+    "code": "11.73.030.006",
+    "villageCode": "006",
+    "districtCode": "11.73.030",
+    "name": "Gampong Blang",
+    "alias": "Gampong Blang"
+  },
+  {
+    "code": "11.73.030.007",
+    "villageCode": "007",
+    "districtCode": "11.73.030",
+    "name": "Alue Berawe",
+    "alias": "Alue Berawe"
+  },
+  {
+    "code": "11.73.030.009",
+    "villageCode": "009",
+    "districtCode": "11.73.030",
+    "name": "Gampong Daulat",
+    "alias": "Gampong Daulat"
+  },
+  {
+    "code": "11.73.030.010",
+    "villageCode": "010",
+    "districtCode": "11.73.030",
+    "name": "Gampong Mutia",
+    "alias": "Gampong Mutia"
+  },
+  {
+    "code": "11.73.030.011",
+    "villageCode": "011",
+    "districtCode": "11.73.030",
+    "name": "Blang Sinibong",
+    "alias": "Blang Sinibong"
+  },
+  {
+    "code": "11.73.030.013",
+    "villageCode": "013",
+    "districtCode": "11.73.030",
+    "name": "Tualang Teungoh",
+    "alias": "Tualang Teungoh"
+  }
+]

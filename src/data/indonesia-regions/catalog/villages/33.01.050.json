@@ -1,0 +1,100 @@
+[
+  {
+    "code": "33.01.050.001",
+    "villageCode": "001",
+    "districtCode": "33.01.050",
+    "name": "Cidadap",
+    "alias": "Cidadap"
+  },
+  {
+    "code": "33.01.050.002",
+    "villageCode": "002",
+    "districtCode": "33.01.050",
+    "name": "Pengawaren",
+    "alias": "Pengawaren"
+  },
+  {
+    "code": "33.01.050.003",
+    "villageCode": "003",
+    "districtCode": "33.01.050",
+    "name": "Gunungtelu",
+    "alias": "Gunungtelu"
+  },
+  {
+    "code": "33.01.050.004",
+    "villageCode": "004",
+    "districtCode": "33.01.050",
+    "name": "Sindangbarang",
+    "alias": "Sindangbarang"
+  },
+  {
+    "code": "33.01.050.005",
+    "villageCode": "005",
+    "districtCode": "33.01.050",
+    "name": "Karangpucung",
+    "alias": "Karangpucung"
+  },
+  {
+    "code": "33.01.050.006",
+    "villageCode": "006",
+    "districtCode": "33.01.050",
+    "name": "Tayemtimur",
+    "alias": "Tayemtimur"
+  },
+  {
+    "code": "33.01.050.007",
+    "villageCode": "007",
+    "districtCode": "33.01.050",
+    "name": "Tayem",
+    "alias": "Tayem"
+  },
+  {
+    "code": "33.01.050.008",
+    "villageCode": "008",
+    "districtCode": "33.01.050",
+    "name": "Ciporos",
+    "alias": "Ciporos"
+  },
+  {
+    "code": "33.01.050.009",
+    "villageCode": "009",
+    "districtCode": "33.01.050",
+    "name": "Surusunda",
+    "alias": "Surusunda"
+  },
+  {
+    "code": "33.01.050.010",
+    "villageCode": "010",
+    "districtCode": "33.01.050",
+    "name": "Bengbulang",
+    "alias": "Bengbulang"
+  },
+  {
+    "code": "33.01.050.011",
+    "villageCode": "011",
+    "districtCode": "33.01.050",
+    "name": "Sidamulya",
+    "alias": "Sidamulya"
+  },
+  {
+    "code": "33.01.050.012",
+    "villageCode": "012",
+    "districtCode": "33.01.050",
+    "name": "Ciruyung",
+    "alias": "Ciruyung"
+  },
+  {
+    "code": "33.01.050.013",
+    "villageCode": "013",
+    "districtCode": "33.01.050",
+    "name": "Pamulihan",
+    "alias": "Pamulihan"
+  },
+  {
+    "code": "33.01.050.014",
+    "villageCode": "014",
+    "districtCode": "33.01.050",
+    "name": "Babakan",
+    "alias": "Babakan"
+  }
+]

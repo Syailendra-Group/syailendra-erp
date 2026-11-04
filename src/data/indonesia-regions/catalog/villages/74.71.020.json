@@ -1,0 +1,37 @@
+[
+  {
+    "code": "74.71.020.003",
+    "villageCode": "003",
+    "districtCode": "74.71.020",
+    "name": "Anduonohu",
+    "alias": "Anduonohu"
+  },
+  {
+    "code": "74.71.020.004",
+    "villageCode": "004",
+    "districtCode": "74.71.020",
+    "name": "Rahandouna",
+    "alias": "Rahandouna"
+  },
+  {
+    "code": "74.71.020.005",
+    "villageCode": "005",
+    "districtCode": "74.71.020",
+    "name": "Anggoeya",
+    "alias": "Anggoeya"
+  },
+  {
+    "code": "74.71.020.007",
+    "villageCode": "007",
+    "districtCode": "74.71.020",
+    "name": "Matabubu",
+    "alias": "Matabubu"
+  },
+  {
+    "code": "74.71.020.008",
+    "villageCode": "008",
+    "districtCode": "74.71.020",
+    "name": "Wundumbatu",
+    "alias": "Wundumbatu"
+  }
+]

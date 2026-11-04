@@ -1,0 +1,30 @@
+[
+  {
+    "code": "63.72.010.003",
+    "villageCode": "003",
+    "districtCode": "63.72.010",
+    "name": "Landasan Ulin Timur",
+    "alias": "Landasan Ulin Timur"
+  },
+  {
+    "code": "63.72.010.004",
+    "villageCode": "004",
+    "districtCode": "63.72.010",
+    "name": "Guntung Payung",
+    "alias": "Guntung Payung"
+  },
+  {
+    "code": "63.72.010.006",
+    "villageCode": "006",
+    "districtCode": "63.72.010",
+    "name": "Syamsudin Noor",
+    "alias": "Syamsudin Noor"
+  },
+  {
+    "code": "63.72.010.007",
+    "villageCode": "007",
+    "districtCode": "63.72.010",
+    "name": "Guntung Manggis",
+    "alias": "Guntung Manggis"
+  }
+]

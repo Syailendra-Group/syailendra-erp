@@ -1,0 +1,44 @@
+[
+  {
+    "code": "15.71.021.001",
+    "villageCode": "001",
+    "districtCode": "15.71.021",
+    "name": "Paal Merah",
+    "alias": "Paal Merah"
+  },
+  {
+    "code": "15.71.021.002",
+    "villageCode": "002",
+    "districtCode": "15.71.021",
+    "name": "Talang Bakung",
+    "alias": "Talang Bakung"
+  },
+  {
+    "code": "15.71.021.003",
+    "villageCode": "003",
+    "districtCode": "15.71.021",
+    "name": "Lingkar Selatan",
+    "alias": "Lingkar Selatan"
+  },
+  {
+    "code": "15.71.021.004",
+    "villageCode": "004",
+    "districtCode": "15.71.021",
+    "name": "Eka Jaya",
+    "alias": "Eka Jaya"
+  },
+  {
+    "code": "15.71.021.005",
+    "villageCode": "005",
+    "districtCode": "15.71.021",
+    "name": "Payo Selincah",
+    "alias": "Payo Selincah"
+  },
+  {
+    "code": "15.71.021.006",
+    "villageCode": "006",
+    "districtCode": "15.71.021",
+    "name": "Bakung Jaya",
+    "alias": "Bakung Jaya"
+  }
+]

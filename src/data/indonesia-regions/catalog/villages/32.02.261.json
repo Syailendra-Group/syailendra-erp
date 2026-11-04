@@ -1,0 +1,37 @@
+[
+  {
+    "code": "32.02.261.001",
+    "villageCode": "001",
+    "districtCode": "32.02.261",
+    "name": "Berekah",
+    "alias": "Berekah"
+  },
+  {
+    "code": "32.02.261.002",
+    "villageCode": "002",
+    "districtCode": "32.02.261",
+    "name": "Bojong Genteng",
+    "alias": "Bojong Genteng"
+  },
+  {
+    "code": "32.02.261.003",
+    "villageCode": "003",
+    "districtCode": "32.02.261",
+    "name": "Bojong Galing",
+    "alias": "Bojong Galing"
+  },
+  {
+    "code": "32.02.261.004",
+    "villageCode": "004",
+    "districtCode": "32.02.261",
+    "name": "Cibodas",
+    "alias": "Cibodas"
+  },
+  {
+    "code": "32.02.261.005",
+    "villageCode": "005",
+    "districtCode": "32.02.261",
+    "name": "Cipanengah",
+    "alias": "Cipanengah"
+  }
+]

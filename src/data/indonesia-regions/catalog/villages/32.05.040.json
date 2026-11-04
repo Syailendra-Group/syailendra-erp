@@ -1,0 +1,37 @@
+[
+  {
+    "code": "32.05.040.001",
+    "villageCode": "001",
+    "districtCode": "32.05.040",
+    "name": "Linggarjati",
+    "alias": "Linggarjati"
+  },
+  {
+    "code": "32.05.040.002",
+    "villageCode": "002",
+    "districtCode": "32.05.040",
+    "name": "Garumukti",
+    "alias": "Garumukti"
+  },
+  {
+    "code": "32.05.040.003",
+    "villageCode": "003",
+    "districtCode": "32.05.040",
+    "name": "Panawa",
+    "alias": "Panawa"
+  },
+  {
+    "code": "32.05.040.004",
+    "villageCode": "004",
+    "districtCode": "32.05.040",
+    "name": "Pakenjeng",
+    "alias": "Pakenjeng"
+  },
+  {
+    "code": "32.05.040.005",
+    "villageCode": "005",
+    "districtCode": "32.05.040",
+    "name": "Pananjung",
+    "alias": "Pananjung"
+  }
+]

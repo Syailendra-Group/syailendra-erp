@@ -1,0 +1,72 @@
+[
+  {
+    "code": "32.06.150.001",
+    "villageCode": "001",
+    "districtCode": "32.06.150",
+    "name": "Cisarua",
+    "alias": "Cisarua"
+  },
+  {
+    "code": "32.06.150.006",
+    "villageCode": "006",
+    "districtCode": "32.06.150",
+    "name": "Pasirmukti",
+    "alias": "Pasirmukti"
+  },
+  {
+    "code": "32.06.150.007",
+    "villageCode": "007",
+    "districtCode": "32.06.150",
+    "name": "Cikondang",
+    "alias": "Cikondang"
+  },
+  {
+    "code": "32.06.150.008",
+    "villageCode": "008",
+    "districtCode": "32.06.150",
+    "name": "Cijulang",
+    "alias": "Cijulang"
+  },
+  {
+    "code": "32.06.150.009",
+    "villageCode": "009",
+    "districtCode": "32.06.150",
+    "name": "Nagaratengah",
+    "alias": "Nagaratengah"
+  },
+  {
+    "code": "32.06.150.010",
+    "villageCode": "010",
+    "districtCode": "32.06.150",
+    "name": "Ciampanan",
+    "alias": "Ciampanan"
+  },
+  {
+    "code": "32.06.150.011",
+    "villageCode": "011",
+    "districtCode": "32.06.150",
+    "name": "Cineam",
+    "alias": "Cineam"
+  },
+  {
+    "code": "32.06.150.012",
+    "villageCode": "012",
+    "districtCode": "32.06.150",
+    "name": "Madiasari",
+    "alias": "Madiasari"
+  },
+  {
+    "code": "32.06.150.013",
+    "villageCode": "013",
+    "districtCode": "32.06.150",
+    "name": "Rajadatu",
+    "alias": "Rajadatu"
+  },
+  {
+    "code": "32.06.150.014",
+    "villageCode": "014",
+    "districtCode": "32.06.150",
+    "name": "Ancol",
+    "alias": "Ancol"
+  }
+]

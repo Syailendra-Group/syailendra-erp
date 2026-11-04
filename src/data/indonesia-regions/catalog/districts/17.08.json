@@ -1,0 +1,66 @@
+[
+  {
+    "code": "17.08.010",
+    "districtCode": "010",
+    "regencyCode": "17.08",
+    "provinceCode": "17",
+    "name": "Kecamatan Muara Kemumu",
+    "alias": "Muara Kemumu"
+  },
+  {
+    "code": "17.08.020",
+    "districtCode": "020",
+    "regencyCode": "17.08",
+    "provinceCode": "17",
+    "name": "Kecamatan Bermani Ilir",
+    "alias": "Bermani Ilir"
+  },
+  {
+    "code": "17.08.030",
+    "districtCode": "030",
+    "regencyCode": "17.08",
+    "provinceCode": "17",
+    "name": "Kecamatan Seberang Musi",
+    "alias": "Seberang Musi"
+  },
+  {
+    "code": "17.08.040",
+    "districtCode": "040",
+    "regencyCode": "17.08",
+    "provinceCode": "17",
+    "name": "Kecamatan Tebat Karai",
+    "alias": "Tebat Karai"
+  },
+  {
+    "code": "17.08.050",
+    "districtCode": "050",
+    "regencyCode": "17.08",
+    "provinceCode": "17",
+    "name": "Kecamatan Kepahiang",
+    "alias": "Kepahiang"
+  },
+  {
+    "code": "17.08.060",
+    "districtCode": "060",
+    "regencyCode": "17.08",
+    "provinceCode": "17",
+    "name": "Kecamatan Kaba Wetan",
+    "alias": "Kaba Wetan"
+  },
+  {
+    "code": "17.08.070",
+    "districtCode": "070",
+    "regencyCode": "17.08",
+    "provinceCode": "17",
+    "name": "Kecamatan Ujan Mas",
+    "alias": "Ujan Mas"
+  },
+  {
+    "code": "17.08.080",
+    "districtCode": "080",
+    "regencyCode": "17.08",
+    "provinceCode": "17",
+    "name": "Kecamatan Merigi",
+    "alias": "Merigi"
+  }
+]

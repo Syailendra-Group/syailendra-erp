@@ -1,0 +1,65 @@
+[
+  {
+    "code": "71.74.010.001",
+    "villageCode": "001",
+    "districtCode": "71.74.010",
+    "name": "Kopandakan  I",
+    "alias": "Kopandakan  I"
+  },
+  {
+    "code": "71.74.010.002",
+    "villageCode": "002",
+    "districtCode": "71.74.010",
+    "name": "Bungko",
+    "alias": "Bungko"
+  },
+  {
+    "code": "71.74.010.003",
+    "villageCode": "003",
+    "districtCode": "71.74.010",
+    "name": "Tabang",
+    "alias": "Tabang"
+  },
+  {
+    "code": "71.74.010.004",
+    "villageCode": "004",
+    "districtCode": "71.74.010",
+    "name": "Poyowa Besar I",
+    "alias": "Poyowa Besar I"
+  },
+  {
+    "code": "71.74.010.005",
+    "villageCode": "005",
+    "districtCode": "71.74.010",
+    "name": "Poyowa Besar Ii",
+    "alias": "Poyowa Besar Ii"
+  },
+  {
+    "code": "71.74.010.006",
+    "villageCode": "006",
+    "districtCode": "71.74.010",
+    "name": "Pobundayan",
+    "alias": "Pobundayan"
+  },
+  {
+    "code": "71.74.010.007",
+    "villageCode": "007",
+    "districtCode": "71.74.010",
+    "name": "Motoboi Kecil",
+    "alias": "Motoboi Kecil"
+  },
+  {
+    "code": "71.74.010.008",
+    "villageCode": "008",
+    "districtCode": "71.74.010",
+    "name": "Mongondow",
+    "alias": "Mongondow"
+  },
+  {
+    "code": "71.74.010.009",
+    "villageCode": "009",
+    "districtCode": "71.74.010",
+    "name": "Poyowa Kecil",
+    "alias": "Poyowa Kecil"
+  }
+]

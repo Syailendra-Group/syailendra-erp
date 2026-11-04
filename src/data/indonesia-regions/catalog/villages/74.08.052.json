@@ -1,0 +1,72 @@
+[
+  {
+    "code": "74.08.052.001",
+    "villageCode": "001",
+    "districtCode": "74.08.052",
+    "name": "Pasampang",
+    "alias": "Pasampang"
+  },
+  {
+    "code": "74.08.052.002",
+    "villageCode": "002",
+    "districtCode": "74.08.052",
+    "name": "Labipi",
+    "alias": "Labipi"
+  },
+  {
+    "code": "74.08.052.003",
+    "villageCode": "003",
+    "districtCode": "74.08.052",
+    "name": "Lanipa",
+    "alias": "Lanipa"
+  },
+  {
+    "code": "74.08.052.004",
+    "villageCode": "004",
+    "districtCode": "74.08.052",
+    "name": "Majapahit",
+    "alias": "Majapahit"
+  },
+  {
+    "code": "74.08.052.005",
+    "villageCode": "005",
+    "districtCode": "74.08.052",
+    "name": "Latali",
+    "alias": "Latali"
+  },
+  {
+    "code": "74.08.052.006",
+    "villageCode": "006",
+    "districtCode": "74.08.052",
+    "name": "Terengga",
+    "alias": "Terengga"
+  },
+  {
+    "code": "74.08.052.007",
+    "villageCode": "007",
+    "districtCode": "74.08.052",
+    "name": "Powalaa",
+    "alias": "Powalaa"
+  },
+  {
+    "code": "74.08.052.008",
+    "villageCode": "008",
+    "districtCode": "74.08.052",
+    "name": "To Lemo",
+    "alias": "To Lemo"
+  },
+  {
+    "code": "74.08.052.009",
+    "villageCode": "009",
+    "districtCode": "74.08.052",
+    "name": "Salulotong",
+    "alias": "Salulotong"
+  },
+  {
+    "code": "74.08.052.010",
+    "villageCode": "010",
+    "districtCode": "74.08.052",
+    "name": "Kalahunde",
+    "alias": "Kalahunde"
+  }
+]

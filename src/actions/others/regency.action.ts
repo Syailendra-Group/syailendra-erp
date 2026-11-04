@@ -4,9 +4,11 @@ import { revalidatePath } from 'next/cache'
 
 import {
   checkProvinceExistsByNameOrCode,
+  checkRegencyExistsInOdoo,
   fetchRegencies,
   fetchRegenciesPaginated,
   fetchRegencyById,
+  fetchRegencyFilterOptions,
   persistRegency,
   toggleRegencyStatus
 } from '@/services/odoo/others/regency.service'
@@ -55,6 +57,30 @@ export async function checkParentProvinceAction(name: string, code?: string): Pr
   } catch (error) {
     console.error('Failed to check parent province existence:', error)
     return { exists: false }
+  }
+}
+
+export async function checkRegencyExistsAction(params: {
+  code?: string
+  name?: string
+}): Promise<{ exists: boolean; id?: number; name?: string; code?: string }> {
+  try {
+    return await checkRegencyExistsInOdoo(params)
+  } catch (error) {
+    console.error('Failed to check regency existence in Odoo:', error)
+    return { exists: false }
+  }
+}
+
+export async function getRegencyFilterOptionsAction(): Promise<{
+  countries: { id: number; name: string }[]
+  states: { id: number; name: string; countryId: number }[]
+}> {
+  try {
+    return await fetchRegencyFilterOptions()
+  } catch (error) {
+    console.error('Failed to fetch regency filter options:', error)
+    return { countries: [], states: [] }
   }
 }
 

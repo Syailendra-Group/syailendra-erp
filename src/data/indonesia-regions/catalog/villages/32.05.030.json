@@ -1,0 +1,93 @@
+[
+  {
+    "code": "32.05.030.001",
+    "villageCode": "001",
+    "districtCode": "32.05.030",
+    "name": "Sinarjaya",
+    "alias": "Sinarjaya"
+  },
+  {
+    "code": "32.05.030.005",
+    "villageCode": "005",
+    "districtCode": "32.05.030",
+    "name": "Tegalega",
+    "alias": "Tegalega"
+  },
+  {
+    "code": "32.05.030.006",
+    "villageCode": "006",
+    "districtCode": "32.05.030",
+    "name": "Wangunjaya",
+    "alias": "Wangunjaya"
+  },
+  {
+    "code": "32.05.030.007",
+    "villageCode": "007",
+    "districtCode": "32.05.030",
+    "name": "Mekarjaya",
+    "alias": "Mekarjaya"
+  },
+  {
+    "code": "32.05.030.008",
+    "villageCode": "008",
+    "districtCode": "32.05.030",
+    "name": "Hanjuang",
+    "alias": "Hanjuang"
+  },
+  {
+    "code": "32.05.030.009",
+    "villageCode": "009",
+    "districtCode": "32.05.030",
+    "name": "Margalaksana",
+    "alias": "Margalaksana"
+  },
+  {
+    "code": "32.05.030.010",
+    "villageCode": "010",
+    "districtCode": "32.05.030",
+    "name": "Gunamekar",
+    "alias": "Gunamekar"
+  },
+  {
+    "code": "32.05.030.011",
+    "villageCode": "011",
+    "districtCode": "32.05.030",
+    "name": "Bungbulang",
+    "alias": "Bungbulang"
+  },
+  {
+    "code": "32.05.030.012",
+    "villageCode": "012",
+    "districtCode": "32.05.030",
+    "name": "Cihikeu",
+    "alias": "Cihikeu"
+  },
+  {
+    "code": "32.05.030.013",
+    "villageCode": "013",
+    "districtCode": "32.05.030",
+    "name": "Bojong",
+    "alias": "Bojong"
+  },
+  {
+    "code": "32.05.030.014",
+    "villageCode": "014",
+    "districtCode": "32.05.030",
+    "name": "Mekarbakti",
+    "alias": "Mekarbakti"
+  },
+  {
+    "code": "32.05.030.015",
+    "villageCode": "015",
+    "districtCode": "32.05.030",
+    "name": "Gunung Jampang",
+    "alias": "Gunung Jampang"
+  },
+  {
+    "code": "32.05.030.016",
+    "villageCode": "016",
+    "districtCode": "32.05.030",
+    "name": "Hegarmanah",
+    "alias": "Hegarmanah"
+  }
+]

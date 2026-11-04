@@ -1,0 +1,65 @@
+[
+  {
+    "code": "92.02.100.001",
+    "villageCode": "001",
+    "districtCode": "92.02.100",
+    "name": "Klasugley",
+    "alias": "Klasugley"
+  },
+  {
+    "code": "92.02.100.002",
+    "villageCode": "002",
+    "districtCode": "92.02.100",
+    "name": "Klauble",
+    "alias": "Klauble"
+  },
+  {
+    "code": "92.02.100.003",
+    "villageCode": "003",
+    "districtCode": "92.02.100",
+    "name": "Klablim",
+    "alias": "Klablim"
+  },
+  {
+    "code": "92.02.100.004",
+    "villageCode": "004",
+    "districtCode": "92.02.100",
+    "name": "Klawumuk",
+    "alias": "Klawumuk"
+  },
+  {
+    "code": "92.02.100.005",
+    "villageCode": "005",
+    "districtCode": "92.02.100",
+    "name": "Klagana",
+    "alias": "Klagana"
+  },
+  {
+    "code": "92.02.100.006",
+    "villageCode": "006",
+    "districtCode": "92.02.100",
+    "name": "Klagilwala",
+    "alias": "Klagilwala"
+  },
+  {
+    "code": "92.02.100.007",
+    "villageCode": "007",
+    "districtCode": "92.02.100",
+    "name": "Malaflon",
+    "alias": "Malaflon"
+  },
+  {
+    "code": "92.02.100.008",
+    "villageCode": "008",
+    "districtCode": "92.02.100",
+    "name": "Maibo",
+    "alias": "Maibo"
+  },
+  {
+    "code": "92.02.100.009",
+    "villageCode": "009",
+    "districtCode": "92.02.100",
+    "name": "Kabanmolo",
+    "alias": "Kabanmolo"
+  }
+]

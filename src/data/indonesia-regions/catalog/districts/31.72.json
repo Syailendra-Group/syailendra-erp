@@ -1,0 +1,82 @@
+[
+  {
+    "code": "31.72.010",
+    "districtCode": "010",
+    "regencyCode": "31.72",
+    "provinceCode": "31",
+    "name": "Kecamatan Pasar Rebo",
+    "alias": "Pasar Rebo"
+  },
+  {
+    "code": "31.72.020",
+    "districtCode": "020",
+    "regencyCode": "31.72",
+    "provinceCode": "31",
+    "name": "Kecamatan Ciracas",
+    "alias": "Ciracas"
+  },
+  {
+    "code": "31.72.030",
+    "districtCode": "030",
+    "regencyCode": "31.72",
+    "provinceCode": "31",
+    "name": "Kecamatan Cipayung",
+    "alias": "Cipayung"
+  },
+  {
+    "code": "31.72.040",
+    "districtCode": "040",
+    "regencyCode": "31.72",
+    "provinceCode": "31",
+    "name": "Kecamatan Makasar",
+    "alias": "Makasar"
+  },
+  {
+    "code": "31.72.050",
+    "districtCode": "050",
+    "regencyCode": "31.72",
+    "provinceCode": "31",
+    "name": "Kecamatan Kramat Jati",
+    "alias": "Kramat Jati"
+  },
+  {
+    "code": "31.72.060",
+    "districtCode": "060",
+    "regencyCode": "31.72",
+    "provinceCode": "31",
+    "name": "Kecamatan Jatinegara",
+    "alias": "Jatinegara"
+  },
+  {
+    "code": "31.72.070",
+    "districtCode": "070",
+    "regencyCode": "31.72",
+    "provinceCode": "31",
+    "name": "Kecamatan Duren Sawit",
+    "alias": "Duren Sawit"
+  },
+  {
+    "code": "31.72.080",
+    "districtCode": "080",
+    "regencyCode": "31.72",
+    "provinceCode": "31",
+    "name": "Kecamatan Cakung",
+    "alias": "Cakung"
+  },
+  {
+    "code": "31.72.090",
+    "districtCode": "090",
+    "regencyCode": "31.72",
+    "provinceCode": "31",
+    "name": "Kecamatan Pulo Gadung",
+    "alias": "Pulo Gadung"
+  },
+  {
+    "code": "31.72.100",
+    "districtCode": "100",
+    "regencyCode": "31.72",
+    "provinceCode": "31",
+    "name": "Kecamatan Matraman",
+    "alias": "Matraman"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "code": "32.75.010.008",
+    "villageCode": "008",
+    "districtCode": "32.75.010",
+    "name": "Jatimakmur",
+    "alias": "Jatimakmur"
+  },
+  {
+    "code": "32.75.010.009",
+    "villageCode": "009",
+    "districtCode": "32.75.010",
+    "name": "Jatiwaringin",
+    "alias": "Jatiwaringin"
+  },
+  {
+    "code": "32.75.010.010",
+    "villageCode": "010",
+    "districtCode": "32.75.010",
+    "name": "Jatibening",
+    "alias": "Jatibening"
+  },
+  {
+    "code": "32.75.010.011",
+    "villageCode": "011",
+    "districtCode": "32.75.010",
+    "name": "Jaticempaka",
+    "alias": "Jaticempaka"
+  },
+  {
+    "code": "32.75.010.012",
+    "villageCode": "012",
+    "districtCode": "32.75.010",
+    "name": "Jatibening Baru",
+    "alias": "Jatibening Baru"
+  }
+]

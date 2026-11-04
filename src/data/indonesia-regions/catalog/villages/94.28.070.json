@@ -1,0 +1,44 @@
+[
+  {
+    "code": "94.28.070.001",
+    "villageCode": "001",
+    "districtCode": "94.28.070",
+    "name": "Tayai",
+    "alias": "Tayai"
+  },
+  {
+    "code": "94.28.070.002",
+    "villageCode": "002",
+    "districtCode": "94.28.070",
+    "name": "Bareri",
+    "alias": "Bareri"
+  },
+  {
+    "code": "94.28.070.003",
+    "villageCode": "003",
+    "districtCode": "94.28.070",
+    "name": "Kayi / Kay Seta",
+    "alias": "Kayi / Kay Seta"
+  },
+  {
+    "code": "94.28.070.004",
+    "villageCode": "004",
+    "districtCode": "94.28.070",
+    "name": "Sikari",
+    "alias": "Sikari"
+  },
+  {
+    "code": "94.28.070.005",
+    "villageCode": "005",
+    "districtCode": "94.28.070",
+    "name": "Fona",
+    "alias": "Fona"
+  },
+  {
+    "code": "94.28.070.006",
+    "villageCode": "006",
+    "districtCode": "94.28.070",
+    "name": "Haiya",
+    "alias": "Haiya"
+  }
+]

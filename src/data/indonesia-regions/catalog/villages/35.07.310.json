@@ -1,0 +1,72 @@
+[
+  {
+    "code": "35.07.310.001",
+    "villageCode": "001",
+    "districtCode": "35.07.310",
+    "name": "Bendosari",
+    "alias": "Bendosari"
+  },
+  {
+    "code": "35.07.310.002",
+    "villageCode": "002",
+    "districtCode": "35.07.310",
+    "name": "Sukomulyo",
+    "alias": "Sukomulyo"
+  },
+  {
+    "code": "35.07.310.003",
+    "villageCode": "003",
+    "districtCode": "35.07.310",
+    "name": "Pujon Kidul",
+    "alias": "Pujon Kidul"
+  },
+  {
+    "code": "35.07.310.004",
+    "villageCode": "004",
+    "districtCode": "35.07.310",
+    "name": "Pandesari",
+    "alias": "Pandesari"
+  },
+  {
+    "code": "35.07.310.005",
+    "villageCode": "005",
+    "districtCode": "35.07.310",
+    "name": "Pujon Lor",
+    "alias": "Pujon Lor"
+  },
+  {
+    "code": "35.07.310.006",
+    "villageCode": "006",
+    "districtCode": "35.07.310",
+    "name": "Ngroto",
+    "alias": "Ngroto"
+  },
+  {
+    "code": "35.07.310.007",
+    "villageCode": "007",
+    "districtCode": "35.07.310",
+    "name": "Ngabab",
+    "alias": "Ngabab"
+  },
+  {
+    "code": "35.07.310.008",
+    "villageCode": "008",
+    "districtCode": "35.07.310",
+    "name": "Tawangsari",
+    "alias": "Tawangsari"
+  },
+  {
+    "code": "35.07.310.009",
+    "villageCode": "009",
+    "districtCode": "35.07.310",
+    "name": "Madiredo",
+    "alias": "Madiredo"
+  },
+  {
+    "code": "35.07.310.010",
+    "villageCode": "010",
+    "districtCode": "35.07.310",
+    "name": "Wiyurejo",
+    "alias": "Wiyurejo"
+  }
+]

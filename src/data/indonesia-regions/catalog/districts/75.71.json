@@ -1,0 +1,74 @@
+[
+  {
+    "code": "75.71.010",
+    "districtCode": "010",
+    "regencyCode": "75.71",
+    "provinceCode": "75",
+    "name": "Kecamatan Kota Barat",
+    "alias": "Kota Barat"
+  },
+  {
+    "code": "75.71.011",
+    "districtCode": "011",
+    "regencyCode": "75.71",
+    "provinceCode": "75",
+    "name": "Kecamatan Dungingi",
+    "alias": "Dungingi"
+  },
+  {
+    "code": "75.71.020",
+    "districtCode": "020",
+    "regencyCode": "75.71",
+    "provinceCode": "75",
+    "name": "Kecamatan Kota Selatan",
+    "alias": "Kota Selatan"
+  },
+  {
+    "code": "75.71.021",
+    "districtCode": "021",
+    "regencyCode": "75.71",
+    "provinceCode": "75",
+    "name": "Kecamatan Kota Timur",
+    "alias": "Kota Timur"
+  },
+  {
+    "code": "75.71.022",
+    "districtCode": "022",
+    "regencyCode": "75.71",
+    "provinceCode": "75",
+    "name": "Kecamatan Hulonthalangi",
+    "alias": "Hulonthalangi"
+  },
+  {
+    "code": "75.71.023",
+    "districtCode": "023",
+    "regencyCode": "75.71",
+    "provinceCode": "75",
+    "name": "Kecamatan Dumbo Raya",
+    "alias": "Dumbo Raya"
+  },
+  {
+    "code": "75.71.030",
+    "districtCode": "030",
+    "regencyCode": "75.71",
+    "provinceCode": "75",
+    "name": "Kecamatan Kota Utara",
+    "alias": "Kota Utara"
+  },
+  {
+    "code": "75.71.031",
+    "districtCode": "031",
+    "regencyCode": "75.71",
+    "provinceCode": "75",
+    "name": "Kecamatan Kota Tengah",
+    "alias": "Kota Tengah"
+  },
+  {
+    "code": "75.71.032",
+    "districtCode": "032",
+    "regencyCode": "75.71",
+    "provinceCode": "75",
+    "name": "Kecamatan Sipatana",
+    "alias": "Sipatana"
+  }
+]

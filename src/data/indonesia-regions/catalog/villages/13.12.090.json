@@ -1,0 +1,65 @@
+[
+  {
+    "code": "13.12.090.001",
+    "villageCode": "001",
+    "districtCode": "13.12.090",
+    "name": "Koto Baru",
+    "alias": "Koto Baru"
+  },
+  {
+    "code": "13.12.090.002",
+    "villageCode": "002",
+    "districtCode": "13.12.090",
+    "name": "Kapa",
+    "alias": "Kapa"
+  },
+  {
+    "code": "13.12.090.003",
+    "villageCode": "003",
+    "districtCode": "13.12.090",
+    "name": "Giri Maju",
+    "alias": "Giri Maju"
+  },
+  {
+    "code": "13.12.090.004",
+    "villageCode": "004",
+    "districtCode": "13.12.090",
+    "name": "Ophir",
+    "alias": "Ophir"
+  },
+  {
+    "code": "13.12.090.005",
+    "villageCode": "005",
+    "districtCode": "13.12.090",
+    "name": "Maha Karya",
+    "alias": "Maha Karya"
+  },
+  {
+    "code": "13.12.090.006",
+    "villageCode": "006",
+    "districtCode": "13.12.090",
+    "name": "Sariak",
+    "alias": "Sariak"
+  },
+  {
+    "code": "13.12.090.007",
+    "villageCode": "007",
+    "districtCode": "13.12.090",
+    "name": "Sungai Talang",
+    "alias": "Sungai Talang"
+  },
+  {
+    "code": "13.12.090.008",
+    "villageCode": "008",
+    "districtCode": "13.12.090",
+    "name": "Jambak Selatan",
+    "alias": "Jambak Selatan"
+  },
+  {
+    "code": "13.12.090.009",
+    "villageCode": "009",
+    "districtCode": "13.12.090",
+    "name": "Pujo Rahayu",
+    "alias": "Pujo Rahayu"
+  }
+]

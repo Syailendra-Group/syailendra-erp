@@ -1,0 +1,79 @@
+[
+  {
+    "code": "72.10.130.001",
+    "villageCode": "001",
+    "districtCode": "72.10.130",
+    "name": "Lebanu",
+    "alias": "Lebanu"
+  },
+  {
+    "code": "72.10.130.002",
+    "villageCode": "002",
+    "districtCode": "72.10.130",
+    "name": "Bomba",
+    "alias": "Bomba"
+  },
+  {
+    "code": "72.10.130.003",
+    "villageCode": "003",
+    "districtCode": "72.10.130",
+    "name": "Beka",
+    "alias": "Beka"
+  },
+  {
+    "code": "72.10.130.004",
+    "villageCode": "004",
+    "districtCode": "72.10.130",
+    "name": "Sibedi",
+    "alias": "Sibedi"
+  },
+  {
+    "code": "72.10.130.005",
+    "villageCode": "005",
+    "districtCode": "72.10.130",
+    "name": "Padende",
+    "alias": "Padende"
+  },
+  {
+    "code": "72.10.130.006",
+    "villageCode": "006",
+    "districtCode": "72.10.130",
+    "name": "Binangga",
+    "alias": "Binangga"
+  },
+  {
+    "code": "72.10.130.007",
+    "villageCode": "007",
+    "districtCode": "72.10.130",
+    "name": "Sunju",
+    "alias": "Sunju"
+  },
+  {
+    "code": "72.10.130.008",
+    "villageCode": "008",
+    "districtCode": "72.10.130",
+    "name": "Tinggede",
+    "alias": "Tinggede"
+  },
+  {
+    "code": "72.10.130.009",
+    "villageCode": "009",
+    "districtCode": "72.10.130",
+    "name": "Baliase",
+    "alias": "Baliase"
+  },
+  {
+    "code": "72.10.130.010",
+    "villageCode": "010",
+    "districtCode": "72.10.130",
+    "name": "Boyabaliase",
+    "alias": "Boyabaliase"
+  },
+  {
+    "code": "72.10.130.011",
+    "villageCode": "011",
+    "districtCode": "72.10.130",
+    "name": "Tinggede Selatan",
+    "alias": "Tinggede Selatan"
+  }
+]

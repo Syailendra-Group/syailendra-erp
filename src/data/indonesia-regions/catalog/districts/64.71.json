@@ -1,0 +1,50 @@
+[
+  {
+    "code": "64.71.010",
+    "districtCode": "010",
+    "regencyCode": "64.71",
+    "provinceCode": "64",
+    "name": "Kecamatan Balikpapan Selatan",
+    "alias": "Balikpapan Selatan"
+  },
+  {
+    "code": "64.71.011",
+    "districtCode": "011",
+    "regencyCode": "64.71",
+    "provinceCode": "64",
+    "name": "Kecamatan Balikpapan Kota",
+    "alias": "Balikpapan Kota"
+  },
+  {
+    "code": "64.71.020",
+    "districtCode": "020",
+    "regencyCode": "64.71",
+    "provinceCode": "64",
+    "name": "Kecamatan Balikpapan Timur",
+    "alias": "Balikpapan Timur"
+  },
+  {
+    "code": "64.71.030",
+    "districtCode": "030",
+    "regencyCode": "64.71",
+    "provinceCode": "64",
+    "name": "Kecamatan Balikpapan Utara",
+    "alias": "Balikpapan Utara"
+  },
+  {
+    "code": "64.71.040",
+    "districtCode": "040",
+    "regencyCode": "64.71",
+    "provinceCode": "64",
+    "name": "Kecamatan Balikpapan Tengah",
+    "alias": "Balikpapan Tengah"
+  },
+  {
+    "code": "64.71.050",
+    "districtCode": "050",
+    "regencyCode": "64.71",
+    "provinceCode": "64",
+    "name": "Kecamatan Balikpapan Barat",
+    "alias": "Balikpapan Barat"
+  }
+]

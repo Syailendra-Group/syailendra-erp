@@ -1,0 +1,100 @@
+[
+  {
+    "code": "32.03.100.001",
+    "villageCode": "001",
+    "districtCode": "32.03.100",
+    "name": "Kertaraharja",
+    "alias": "Kertaraharja"
+  },
+  {
+    "code": "32.03.100.002",
+    "villageCode": "002",
+    "districtCode": "32.03.100",
+    "name": "Pagelaran",
+    "alias": "Pagelaran"
+  },
+  {
+    "code": "32.03.100.003",
+    "villageCode": "003",
+    "districtCode": "32.03.100",
+    "name": "Padamaju",
+    "alias": "Padamaju"
+  },
+  {
+    "code": "32.03.100.008",
+    "villageCode": "008",
+    "districtCode": "32.03.100",
+    "name": "Buniwangi",
+    "alias": "Buniwangi"
+  },
+  {
+    "code": "32.03.100.009",
+    "villageCode": "009",
+    "districtCode": "32.03.100",
+    "name": "Bunijaya",
+    "alias": "Bunijaya"
+  },
+  {
+    "code": "32.03.100.010",
+    "villageCode": "010",
+    "districtCode": "32.03.100",
+    "name": "Pangadegan",
+    "alias": "Pangadegan"
+  },
+  {
+    "code": "32.03.100.011",
+    "villageCode": "011",
+    "districtCode": "32.03.100",
+    "name": "Situhiang",
+    "alias": "Situhiang"
+  },
+  {
+    "code": "32.03.100.012",
+    "villageCode": "012",
+    "districtCode": "32.03.100",
+    "name": "Pasirbaru",
+    "alias": "Pasirbaru"
+  },
+  {
+    "code": "32.03.100.013",
+    "villageCode": "013",
+    "districtCode": "32.03.100",
+    "name": "Sindangkerta",
+    "alias": "Sindangkerta"
+  },
+  {
+    "code": "32.03.100.014",
+    "villageCode": "014",
+    "districtCode": "32.03.100",
+    "name": "Karangharja",
+    "alias": "Karangharja"
+  },
+  {
+    "code": "32.03.100.015",
+    "villageCode": "015",
+    "districtCode": "32.03.100",
+    "name": "Selagedang",
+    "alias": "Selagedang"
+  },
+  {
+    "code": "32.03.100.016",
+    "villageCode": "016",
+    "districtCode": "32.03.100",
+    "name": "Gelar Anyar",
+    "alias": "Gelar Anyar"
+  },
+  {
+    "code": "32.03.100.017",
+    "villageCode": "017",
+    "districtCode": "32.03.100",
+    "name": "Mekarsari",
+    "alias": "Mekarsari"
+  },
+  {
+    "code": "32.03.100.018",
+    "villageCode": "018",
+    "districtCode": "32.03.100",
+    "name": "Sukamaju",
+    "alias": "Sukamaju"
+  }
+]

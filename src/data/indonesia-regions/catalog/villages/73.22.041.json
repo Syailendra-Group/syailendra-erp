@@ -1,0 +1,79 @@
+[
+  {
+    "code": "73.22.041.001",
+    "villageCode": "001",
+    "districtCode": "73.22.041",
+    "name": "Subur",
+    "alias": "Subur"
+  },
+  {
+    "code": "73.22.041.002",
+    "villageCode": "002",
+    "districtCode": "73.22.041",
+    "name": "Lino",
+    "alias": "Lino"
+  },
+  {
+    "code": "73.22.041.003",
+    "villageCode": "003",
+    "districtCode": "73.22.041",
+    "name": "Paomacang",
+    "alias": "Paomacang"
+  },
+  {
+    "code": "73.22.041.004",
+    "villageCode": "004",
+    "districtCode": "73.22.041",
+    "name": "Wonokerto",
+    "alias": "Wonokerto"
+  },
+  {
+    "code": "73.22.041.005",
+    "villageCode": "005",
+    "districtCode": "73.22.041",
+    "name": "Sumber Baru",
+    "alias": "Sumber Baru"
+  },
+  {
+    "code": "73.22.041.006",
+    "villageCode": "006",
+    "districtCode": "73.22.041",
+    "name": "Banyuwangi",
+    "alias": "Banyuwangi"
+  },
+  {
+    "code": "73.22.041.007",
+    "villageCode": "007",
+    "districtCode": "73.22.041",
+    "name": "Rawamangun",
+    "alias": "Rawamangun"
+  },
+  {
+    "code": "73.22.041.008",
+    "villageCode": "008",
+    "districtCode": "73.22.041",
+    "name": "Mulyorejo",
+    "alias": "Mulyorejo"
+  },
+  {
+    "code": "73.22.041.009",
+    "villageCode": "009",
+    "districtCode": "73.22.041",
+    "name": "Sidoraharjo",
+    "alias": "Sidoraharjo"
+  },
+  {
+    "code": "73.22.041.010",
+    "villageCode": "010",
+    "districtCode": "73.22.041",
+    "name": "Sukamukti",
+    "alias": "Sukamukti"
+  },
+  {
+    "code": "73.22.041.011",
+    "villageCode": "011",
+    "districtCode": "73.22.041",
+    "name": "Sukaharapan",
+    "alias": "Sukaharapan"
+  }
+]

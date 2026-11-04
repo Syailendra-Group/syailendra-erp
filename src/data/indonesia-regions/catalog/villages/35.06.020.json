@@ -1,0 +1,86 @@
+[
+  {
+    "code": "35.06.020.001",
+    "villageCode": "001",
+    "districtCode": "35.06.020",
+    "name": "Selopanggung",
+    "alias": "Selopanggung"
+  },
+  {
+    "code": "35.06.020.002",
+    "villageCode": "002",
+    "districtCode": "35.06.020",
+    "name": "Puhrubuh",
+    "alias": "Puhrubuh"
+  },
+  {
+    "code": "35.06.020.003",
+    "villageCode": "003",
+    "districtCode": "35.06.020",
+    "name": "Sidomulyo",
+    "alias": "Sidomulyo"
+  },
+  {
+    "code": "35.06.020.004",
+    "villageCode": "004",
+    "districtCode": "35.06.020",
+    "name": "Bulu",
+    "alias": "Bulu"
+  },
+  {
+    "code": "35.06.020.005",
+    "villageCode": "005",
+    "districtCode": "35.06.020",
+    "name": "Bobang",
+    "alias": "Bobang"
+  },
+  {
+    "code": "35.06.020.006",
+    "villageCode": "006",
+    "districtCode": "35.06.020",
+    "name": "Puhsarang",
+    "alias": "Puhsarang"
+  },
+  {
+    "code": "35.06.020.007",
+    "villageCode": "007",
+    "districtCode": "35.06.020",
+    "name": "Kanyoran",
+    "alias": "Kanyoran"
+  },
+  {
+    "code": "35.06.020.008",
+    "villageCode": "008",
+    "districtCode": "35.06.020",
+    "name": "Joho",
+    "alias": "Joho"
+  },
+  {
+    "code": "35.06.020.009",
+    "villageCode": "009",
+    "districtCode": "35.06.020",
+    "name": "Pagung",
+    "alias": "Pagung"
+  },
+  {
+    "code": "35.06.020.010",
+    "villageCode": "010",
+    "districtCode": "35.06.020",
+    "name": "Kedak",
+    "alias": "Kedak"
+  },
+  {
+    "code": "35.06.020.011",
+    "villageCode": "011",
+    "districtCode": "35.06.020",
+    "name": "Titik",
+    "alias": "Titik"
+  },
+  {
+    "code": "35.06.020.012",
+    "villageCode": "012",
+    "districtCode": "35.06.020",
+    "name": "Semen",
+    "alias": "Semen"
+  }
+]

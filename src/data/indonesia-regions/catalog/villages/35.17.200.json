@@ -1,0 +1,93 @@
+[
+  {
+    "code": "35.17.200.001",
+    "villageCode": "001",
+    "districtCode": "35.17.200",
+    "name": "Klitih",
+    "alias": "Klitih"
+  },
+  {
+    "code": "35.17.200.002",
+    "villageCode": "002",
+    "districtCode": "35.17.200",
+    "name": "Plabuhan",
+    "alias": "Plabuhan"
+  },
+  {
+    "code": "35.17.200.003",
+    "villageCode": "003",
+    "districtCode": "35.17.200",
+    "name": "Kampungbaru",
+    "alias": "Kampungbaru"
+  },
+  {
+    "code": "35.17.200.004",
+    "villageCode": "004",
+    "districtCode": "35.17.200",
+    "name": "Gebang Bunder",
+    "alias": "Gebang Bunder"
+  },
+  {
+    "code": "35.17.200.005",
+    "villageCode": "005",
+    "districtCode": "35.17.200",
+    "name": "Jatimlerek",
+    "alias": "Jatimlerek"
+  },
+  {
+    "code": "35.17.200.006",
+    "villageCode": "006",
+    "districtCode": "35.17.200",
+    "name": "Karang Mojo",
+    "alias": "Karang Mojo"
+  },
+  {
+    "code": "35.17.200.007",
+    "villageCode": "007",
+    "districtCode": "35.17.200",
+    "name": "Plandaan",
+    "alias": "Plandaan"
+  },
+  {
+    "code": "35.17.200.008",
+    "villageCode": "008",
+    "districtCode": "35.17.200",
+    "name": "Bangsri",
+    "alias": "Bangsri"
+  },
+  {
+    "code": "35.17.200.009",
+    "villageCode": "009",
+    "districtCode": "35.17.200",
+    "name": "Purisemanding",
+    "alias": "Purisemanding"
+  },
+  {
+    "code": "35.17.200.010",
+    "villageCode": "010",
+    "districtCode": "35.17.200",
+    "name": "Tondowulan",
+    "alias": "Tondowulan"
+  },
+  {
+    "code": "35.17.200.011",
+    "villageCode": "011",
+    "districtCode": "35.17.200",
+    "name": "Darurejo",
+    "alias": "Darurejo"
+  },
+  {
+    "code": "35.17.200.012",
+    "villageCode": "012",
+    "districtCode": "35.17.200",
+    "name": "Sumberjo",
+    "alias": "Sumberjo"
+  },
+  {
+    "code": "35.17.200.013",
+    "villageCode": "013",
+    "districtCode": "35.17.200",
+    "name": "Jipurapah",
+    "alias": "Jipurapah"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "code": "75.01",
+    "regencyCode": "01",
+    "provinceCode": "75",
+    "provinceName": "Gorontalo",
+    "name": "Kabupaten Boalemo",
+    "alias": "Boalemo"
+  },
+  {
+    "code": "75.02",
+    "regencyCode": "02",
+    "provinceCode": "75",
+    "provinceName": "Gorontalo",
+    "name": "Kabupaten Gorontalo",
+    "alias": "Gorontalo"
+  },
+  {
+    "code": "75.03",
+    "regencyCode": "03",
+    "provinceCode": "75",
+    "provinceName": "Gorontalo",
+    "name": "Kabupaten Pohuwato",
+    "alias": "Pohuwato"
+  },
+  {
+    "code": "75.04",
+    "regencyCode": "04",
+    "provinceCode": "75",
+    "provinceName": "Gorontalo",
+    "name": "Kabupaten Bone Bolango",
+    "alias": "Bone Bolango"
+  },
+  {
+    "code": "75.05",
+    "regencyCode": "05",
+    "provinceCode": "75",
+    "provinceName": "Gorontalo",
+    "name": "Kabupaten Gorontalo Utara",
+    "alias": "Gorontalo Utara"
+  },
+  {
+    "code": "75.71",
+    "regencyCode": "71",
+    "provinceCode": "75",
+    "provinceName": "Gorontalo",
+    "name": "Kota Gorontalo",
+    "alias": "Gorontalo"
+  }
+]

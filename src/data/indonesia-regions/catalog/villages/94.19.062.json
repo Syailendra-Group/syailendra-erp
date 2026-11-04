@@ -1,0 +1,37 @@
+[
+  {
+    "code": "94.19.062.001",
+    "villageCode": "001",
+    "districtCode": "94.19.062",
+    "name": "Karfasia",
+    "alias": "Karfasia"
+  },
+  {
+    "code": "94.19.062.002",
+    "villageCode": "002",
+    "districtCode": "94.19.062",
+    "name": "Masep",
+    "alias": "Masep"
+  },
+  {
+    "code": "94.19.062.003",
+    "villageCode": "003",
+    "districtCode": "94.19.062",
+    "name": "Subu",
+    "alias": "Subu"
+  },
+  {
+    "code": "94.19.062.004",
+    "villageCode": "004",
+    "districtCode": "94.19.062",
+    "name": "Burgena",
+    "alias": "Burgena"
+  },
+  {
+    "code": "94.19.062.005",
+    "villageCode": "005",
+    "districtCode": "94.19.062",
+    "name": "Samorkena",
+    "alias": "Samorkena"
+  }
+]

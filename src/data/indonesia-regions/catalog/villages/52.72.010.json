@@ -1,0 +1,44 @@
+[
+  {
+    "code": "52.72.010.004",
+    "villageCode": "004",
+    "districtCode": "52.72.010",
+    "name": "Paruga",
+    "alias": "Paruga"
+  },
+  {
+    "code": "52.72.010.005",
+    "villageCode": "005",
+    "districtCode": "52.72.010",
+    "name": "Tanjung",
+    "alias": "Tanjung"
+  },
+  {
+    "code": "52.72.010.006",
+    "villageCode": "006",
+    "districtCode": "52.72.010",
+    "name": "Sarae",
+    "alias": "Sarae"
+  },
+  {
+    "code": "52.72.010.007",
+    "villageCode": "007",
+    "districtCode": "52.72.010",
+    "name": "Nae",
+    "alias": "Nae"
+  },
+  {
+    "code": "52.72.010.009",
+    "villageCode": "009",
+    "districtCode": "52.72.010",
+    "name": "Dara",
+    "alias": "Dara"
+  },
+  {
+    "code": "52.72.010.010",
+    "villageCode": "010",
+    "districtCode": "52.72.010",
+    "name": "Pane",
+    "alias": "Pane"
+  }
+]

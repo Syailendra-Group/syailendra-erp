@@ -1,0 +1,44 @@
+[
+  {
+    "code": "33.73.040.001",
+    "villageCode": "001",
+    "districtCode": "33.73.040",
+    "name": "Pulutan",
+    "alias": "Pulutan"
+  },
+  {
+    "code": "33.73.040.002",
+    "villageCode": "002",
+    "districtCode": "33.73.040",
+    "name": "Blotongan",
+    "alias": "Blotongan"
+  },
+  {
+    "code": "33.73.040.003",
+    "villageCode": "003",
+    "districtCode": "33.73.040",
+    "name": "Sidorejo Lor",
+    "alias": "Sidorejo Lor"
+  },
+  {
+    "code": "33.73.040.004",
+    "villageCode": "004",
+    "districtCode": "33.73.040",
+    "name": "Salatiga",
+    "alias": "Salatiga"
+  },
+  {
+    "code": "33.73.040.005",
+    "villageCode": "005",
+    "districtCode": "33.73.040",
+    "name": "Bugel",
+    "alias": "Bugel"
+  },
+  {
+    "code": "33.73.040.006",
+    "villageCode": "006",
+    "districtCode": "33.73.040",
+    "name": "Kauman Kidul",
+    "alias": "Kauman Kidul"
+  }
+]

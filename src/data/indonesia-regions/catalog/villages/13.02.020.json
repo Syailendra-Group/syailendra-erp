@@ -1,0 +1,72 @@
+[
+  {
+    "code": "13.02.020.001",
+    "villageCode": "001",
+    "districtCode": "13.02.020",
+    "name": "Tapan",
+    "alias": "Tapan"
+  },
+  {
+    "code": "13.02.020.003",
+    "villageCode": "003",
+    "districtCode": "13.02.020",
+    "name": "Batang Arah Tapan",
+    "alias": "Batang Arah Tapan"
+  },
+  {
+    "code": "13.02.020.005",
+    "villageCode": "005",
+    "districtCode": "13.02.020",
+    "name": "Pasar Tapan",
+    "alias": "Pasar Tapan"
+  },
+  {
+    "code": "13.02.020.006",
+    "villageCode": "006",
+    "districtCode": "13.02.020",
+    "name": "Ampang Tulak Tapan",
+    "alias": "Ampang Tulak Tapan"
+  },
+  {
+    "code": "13.02.020.009",
+    "villageCode": "009",
+    "districtCode": "13.02.020",
+    "name": "Koto Anau Tapan",
+    "alias": "Koto Anau Tapan"
+  },
+  {
+    "code": "13.02.020.010",
+    "villageCode": "010",
+    "districtCode": "13.02.020",
+    "name": "Dusun Baru Tapan",
+    "alias": "Dusun Baru Tapan"
+  },
+  {
+    "code": "13.02.020.011",
+    "villageCode": "011",
+    "districtCode": "13.02.020",
+    "name": "Tanjung Pondok Tapan",
+    "alias": "Tanjung Pondok Tapan"
+  },
+  {
+    "code": "13.02.020.015",
+    "villageCode": "015",
+    "districtCode": "13.02.020",
+    "name": "Batang Betung Tapan",
+    "alias": "Batang Betung Tapan"
+  },
+  {
+    "code": "13.02.020.016",
+    "villageCode": "016",
+    "districtCode": "13.02.020",
+    "name": "Riak Danau Tapan",
+    "alias": "Riak Danau Tapan"
+  },
+  {
+    "code": "13.02.020.017",
+    "villageCode": "017",
+    "districtCode": "13.02.020",
+    "name": "Bukit Buai Tapan",
+    "alias": "Bukit Buai Tapan"
+  }
+]

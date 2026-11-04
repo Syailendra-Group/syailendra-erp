@@ -1,0 +1,44 @@
+[
+  {
+    "code": "36.71.041.001",
+    "villageCode": "001",
+    "districtCode": "36.71.041",
+    "name": "Panunggangan Barat",
+    "alias": "Panunggangan Barat"
+  },
+  {
+    "code": "36.71.041.002",
+    "villageCode": "002",
+    "districtCode": "36.71.041",
+    "name": "Cibodasari",
+    "alias": "Cibodasari"
+  },
+  {
+    "code": "36.71.041.003",
+    "villageCode": "003",
+    "districtCode": "36.71.041",
+    "name": "Cibodas Baru",
+    "alias": "Cibodas Baru"
+  },
+  {
+    "code": "36.71.041.004",
+    "villageCode": "004",
+    "districtCode": "36.71.041",
+    "name": "Cibodas",
+    "alias": "Cibodas"
+  },
+  {
+    "code": "36.71.041.005",
+    "villageCode": "005",
+    "districtCode": "36.71.041",
+    "name": "Uwung Jaya",
+    "alias": "Uwung Jaya"
+  },
+  {
+    "code": "36.71.041.006",
+    "villageCode": "006",
+    "districtCode": "36.71.041",
+    "name": "Jatiuwung",
+    "alias": "Jatiuwung"
+  }
+]

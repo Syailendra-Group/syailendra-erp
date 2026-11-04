@@ -1,0 +1,79 @@
+[
+  {
+    "code": "33.05.200.001",
+    "villageCode": "001",
+    "districtCode": "33.05.200",
+    "name": "Sidomulyo",
+    "alias": "Sidomulyo"
+  },
+  {
+    "code": "33.05.200.002",
+    "villageCode": "002",
+    "districtCode": "33.05.200",
+    "name": "Panjatan",
+    "alias": "Panjatan"
+  },
+  {
+    "code": "33.05.200.003",
+    "villageCode": "003",
+    "districtCode": "33.05.200",
+    "name": "Karanganyar",
+    "alias": "Karanganyar"
+  },
+  {
+    "code": "33.05.200.004",
+    "villageCode": "004",
+    "districtCode": "33.05.200",
+    "name": "Jatiluhur",
+    "alias": "Jatiluhur"
+  },
+  {
+    "code": "33.05.200.005",
+    "villageCode": "005",
+    "districtCode": "33.05.200",
+    "name": "Candi",
+    "alias": "Candi"
+  },
+  {
+    "code": "33.05.200.006",
+    "villageCode": "006",
+    "districtCode": "33.05.200",
+    "name": "Giripurno",
+    "alias": "Giripurno"
+  },
+  {
+    "code": "33.05.200.007",
+    "villageCode": "007",
+    "districtCode": "33.05.200",
+    "name": "Plarangan",
+    "alias": "Plarangan"
+  },
+  {
+    "code": "33.05.200.008",
+    "villageCode": "008",
+    "districtCode": "33.05.200",
+    "name": "Karangkemiri",
+    "alias": "Karangkemiri"
+  },
+  {
+    "code": "33.05.200.009",
+    "villageCode": "009",
+    "districtCode": "33.05.200",
+    "name": "Wonorejo",
+    "alias": "Wonorejo"
+  },
+  {
+    "code": "33.05.200.010",
+    "villageCode": "010",
+    "districtCode": "33.05.200",
+    "name": "Grenggeng",
+    "alias": "Grenggeng"
+  },
+  {
+    "code": "33.05.200.011",
+    "villageCode": "011",
+    "districtCode": "33.05.200",
+    "name": "Pohkumbang",
+    "alias": "Pohkumbang"
+  }
+]

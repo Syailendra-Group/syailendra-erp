@@ -1,0 +1,82 @@
+[
+  {
+    "code": "72.06.010",
+    "districtCode": "010",
+    "regencyCode": "72.06",
+    "provinceCode": "72",
+    "name": "Kecamatan Dampal Selatan",
+    "alias": "Dampal Selatan"
+  },
+  {
+    "code": "72.06.020",
+    "districtCode": "020",
+    "regencyCode": "72.06",
+    "provinceCode": "72",
+    "name": "Kecamatan Dampal Utara",
+    "alias": "Dampal Utara"
+  },
+  {
+    "code": "72.06.030",
+    "districtCode": "030",
+    "regencyCode": "72.06",
+    "provinceCode": "72",
+    "name": "Kecamatan Dondo",
+    "alias": "Dondo"
+  },
+  {
+    "code": "72.06.031",
+    "districtCode": "031",
+    "regencyCode": "72.06",
+    "provinceCode": "72",
+    "name": "Kecamatan Ogodeide",
+    "alias": "Ogodeide"
+  },
+  {
+    "code": "72.06.032",
+    "districtCode": "032",
+    "regencyCode": "72.06",
+    "provinceCode": "72",
+    "name": "Kecamatan Basidondo",
+    "alias": "Basidondo"
+  },
+  {
+    "code": "72.06.040",
+    "districtCode": "040",
+    "regencyCode": "72.06",
+    "provinceCode": "72",
+    "name": "Kecamatan Baolan",
+    "alias": "Baolan"
+  },
+  {
+    "code": "72.06.041",
+    "districtCode": "041",
+    "regencyCode": "72.06",
+    "provinceCode": "72",
+    "name": "Kecamatan Lampasio",
+    "alias": "Lampasio"
+  },
+  {
+    "code": "72.06.050",
+    "districtCode": "050",
+    "regencyCode": "72.06",
+    "provinceCode": "72",
+    "name": "Kecamatan Galang",
+    "alias": "Galang"
+  },
+  {
+    "code": "72.06.060",
+    "districtCode": "060",
+    "regencyCode": "72.06",
+    "provinceCode": "72",
+    "name": "Kecamatan Tolitoli Utara",
+    "alias": "Tolitoli Utara"
+  },
+  {
+    "code": "72.06.061",
+    "districtCode": "061",
+    "regencyCode": "72.06",
+    "provinceCode": "72",
+    "name": "Kecamatan Dako Pemean",
+    "alias": "Dako Pemean"
+  }
+]

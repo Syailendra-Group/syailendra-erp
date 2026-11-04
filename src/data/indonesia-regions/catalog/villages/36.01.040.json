@@ -1,0 +1,100 @@
+[
+  {
+    "code": "36.01.040.001",
+    "villageCode": "001",
+    "districtCode": "36.01.040",
+    "name": "Tanjungan",
+    "alias": "Tanjungan"
+  },
+  {
+    "code": "36.01.040.002",
+    "villageCode": "002",
+    "districtCode": "36.01.040",
+    "name": "Cikiruhwetan",
+    "alias": "Cikiruhwetan"
+  },
+  {
+    "code": "36.01.040.003",
+    "villageCode": "003",
+    "districtCode": "36.01.040",
+    "name": "Sukawaris",
+    "alias": "Sukawaris"
+  },
+  {
+    "code": "36.01.040.004",
+    "villageCode": "004",
+    "districtCode": "36.01.040",
+    "name": "Sumurbatu",
+    "alias": "Sumurbatu"
+  },
+  {
+    "code": "36.01.040.005",
+    "villageCode": "005",
+    "districtCode": "36.01.040",
+    "name": "Umbulan",
+    "alias": "Umbulan"
+  },
+  {
+    "code": "36.01.040.006",
+    "villageCode": "006",
+    "districtCode": "36.01.040",
+    "name": "Sukamulya",
+    "alias": "Sukamulya"
+  },
+  {
+    "code": "36.01.040.007",
+    "villageCode": "007",
+    "districtCode": "36.01.040",
+    "name": "Parungkokosan",
+    "alias": "Parungkokosan"
+  },
+  {
+    "code": "36.01.040.008",
+    "villageCode": "008",
+    "districtCode": "36.01.040",
+    "name": "Nanggala",
+    "alias": "Nanggala"
+  },
+  {
+    "code": "36.01.040.009",
+    "villageCode": "009",
+    "districtCode": "36.01.040",
+    "name": "Rancaseneng",
+    "alias": "Rancaseneng"
+  },
+  {
+    "code": "36.01.040.010",
+    "villageCode": "010",
+    "districtCode": "36.01.040",
+    "name": "Sukaseneng",
+    "alias": "Sukaseneng"
+  },
+  {
+    "code": "36.01.040.011",
+    "villageCode": "011",
+    "districtCode": "36.01.040",
+    "name": "Cikeusik",
+    "alias": "Cikeusik"
+  },
+  {
+    "code": "36.01.040.012",
+    "villageCode": "012",
+    "districtCode": "36.01.040",
+    "name": "Leuwibalang",
+    "alias": "Leuwibalang"
+  },
+  {
+    "code": "36.01.040.013",
+    "villageCode": "013",
+    "districtCode": "36.01.040",
+    "name": "Curugciung",
+    "alias": "Curugciung"
+  },
+  {
+    "code": "36.01.040.014",
+    "villageCode": "014",
+    "districtCode": "36.01.040",
+    "name": "Cikadongdong",
+    "alias": "Cikadongdong"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "code": "32.71.060.001",
+    "villageCode": "001",
+    "districtCode": "32.71.060",
+    "name": "Kedungwaringin",
+    "alias": "Kedungwaringin"
+  },
+  {
+    "code": "32.71.060.002",
+    "villageCode": "002",
+    "districtCode": "32.71.060",
+    "name": "Kedungjaya",
+    "alias": "Kedungjaya"
+  },
+  {
+    "code": "32.71.060.003",
+    "villageCode": "003",
+    "districtCode": "32.71.060",
+    "name": "Kebonpedes",
+    "alias": "Kebonpedes"
+  },
+  {
+    "code": "32.71.060.004",
+    "villageCode": "004",
+    "districtCode": "32.71.060",
+    "name": "Tanahsareal",
+    "alias": "Tanahsareal"
+  },
+  {
+    "code": "32.71.060.005",
+    "villageCode": "005",
+    "districtCode": "32.71.060",
+    "name": "Kedungbadak",
+    "alias": "Kedungbadak"
+  },
+  {
+    "code": "32.71.060.006",
+    "villageCode": "006",
+    "districtCode": "32.71.060",
+    "name": "Sukaresmi",
+    "alias": "Sukaresmi"
+  },
+  {
+    "code": "32.71.060.007",
+    "villageCode": "007",
+    "districtCode": "32.71.060",
+    "name": "Sukadamai",
+    "alias": "Sukadamai"
+  },
+  {
+    "code": "32.71.060.008",
+    "villageCode": "008",
+    "districtCode": "32.71.060",
+    "name": "Cibadak",
+    "alias": "Cibadak"
+  },
+  {
+    "code": "32.71.060.009",
+    "villageCode": "009",
+    "districtCode": "32.71.060",
+    "name": "Kayumanis",
+    "alias": "Kayumanis"
+  },
+  {
+    "code": "32.71.060.010",
+    "villageCode": "010",
+    "districtCode": "32.71.060",
+    "name": "Mekarwangi",
+    "alias": "Mekarwangi"
+  },
+  {
+    "code": "32.71.060.011",
+    "villageCode": "011",
+    "districtCode": "32.71.060",
+    "name": "Kencana",
+    "alias": "Kencana"
+  }
+]

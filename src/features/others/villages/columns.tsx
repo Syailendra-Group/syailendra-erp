@@ -2,7 +2,6 @@
 
 import { ActionButton } from '@/components/button/action-button'
 import { DataTableColumnHeader } from '@/components/data-table/column-header'
-import { StatusBadge } from '@/components/shared/status-badge'
 
 import type { VillageRecord } from '@/types/others/village'
 import type { ColumnDef } from '@tanstack/react-table'
@@ -12,10 +11,9 @@ export interface GetColumnsOptions {
   tCommon: (key: string) => string
   onView: (item: VillageRecord) => void
   onEdit: (village: VillageRecord) => void
-  onArchive: (village: VillageRecord) => void
 }
 
-export function getColumns({ t, tCommon, onEdit, onArchive }: GetColumnsOptions): ColumnDef<VillageRecord>[] {
+export function getColumns({ t, tCommon, onView, onEdit }: GetColumnsOptions): ColumnDef<VillageRecord>[] {
   return [
     {
       accessorKey: 'code',
@@ -27,6 +25,12 @@ export function getColumns({ t, tCommon, onEdit, onArchive }: GetColumnsOptions)
       accessorKey: 'name',
       header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.name')} />,
       cell: ({ row }) => <span className="text-foreground text-xs font-semibold sm:text-sm">{row.original.name}</span>,
+      enableSorting: true
+    },
+    {
+      accessorKey: 'alias',
+      header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.alias') || 'Alias'} />,
+      cell: ({ row }) => <span className="text-muted-foreground text-xs">{row.original.alias || '-'}</span>,
       enableSorting: true
     },
     {
@@ -42,15 +46,7 @@ export function getColumns({ t, tCommon, onEdit, onArchive }: GetColumnsOptions)
       header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.zipCode')} />,
       cell: ({ row }) => {
         const zip = row.original.zip_code
-        return zip ? <StatusBadge variant="neutral">{zip}</StatusBadge> : <span className="text-muted-foreground text-xs">-</span>
-      }
-    },
-    {
-      accessorKey: 'active',
-      header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.status')} />,
-      cell: ({ row }) => {
-        const active = row.original.active
-        return <StatusBadge variant={active ? 'success' : 'neutral'}>{active ? tCommon('status.active') : tCommon('status.archived')}</StatusBadge>
+        return <span className="font-mono text-xs">{zip || '-'}</span>
       }
     },
     {
@@ -60,13 +56,8 @@ export function getColumns({ t, tCommon, onEdit, onArchive }: GetColumnsOptions)
         const item = row.original
         return (
           <div className="flex items-center justify-center gap-1">
-            <ActionButton variant="view" label={tCommon('actions.view')} href={`/others/villages/${item.id}`} />
+            <ActionButton variant="view" label={tCommon('actions.view')} onClick={() => onView(item)} />
             <ActionButton variant="edit" label={tCommon('actions.edit')} onClick={() => onEdit(item)} />
-            <ActionButton
-              variant={item.active ? 'archive' : 'restore'}
-              label={item.active ? tCommon('actions.archive') : tCommon('actions.restore')}
-              onClick={() => onArchive(item)}
-            />
           </div>
         )
       }

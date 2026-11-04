@@ -1,0 +1,30 @@
+[
+  {
+    "code": "81.03.052.004",
+    "villageCode": "004",
+    "districtCode": "81.03.052",
+    "name": "Sahulau",
+    "alias": "Sahulau"
+  },
+  {
+    "code": "81.03.052.005",
+    "villageCode": "005",
+    "districtCode": "81.03.052",
+    "name": "Liang",
+    "alias": "Liang"
+  },
+  {
+    "code": "81.03.052.006",
+    "villageCode": "006",
+    "districtCode": "81.03.052",
+    "name": "Tananahu",
+    "alias": "Tananahu"
+  },
+  {
+    "code": "81.03.052.007",
+    "villageCode": "007",
+    "districtCode": "81.03.052",
+    "name": "Waraka",
+    "alias": "Waraka"
+  }
+]

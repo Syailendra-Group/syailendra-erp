@@ -59,11 +59,14 @@ export function DataTableFacetedFilter<TData, TValue>({ column, title, options }
           )}
         </Button>
       </PopoverTrigger>
+
       <PopoverContent className="w-50 p-0" align="start">
         <Command>
           <CommandInput placeholder={title} />
+
           <CommandList>
             <CommandEmpty>{tTable('noResults')}</CommandEmpty>
+
             <CommandGroup>
               {options.map((option) => {
                 const isSelected = selectedValues.has(option.value)
@@ -101,6 +104,7 @@ export function DataTableFacetedFilter<TData, TValue>({ column, title, options }
             {selectedValues.size > 0 && (
               <>
                 <CommandSeparator />
+
                 <CommandGroup>
                   <CommandItem onSelect={() => column?.setFilterValue(undefined)} className="cursor-pointer justify-center text-center text-xs">
                     {tTable('clearFilters')}

@@ -1,0 +1,90 @@
+[
+  {
+    "code": "53.14.010",
+    "districtCode": "010",
+    "regencyCode": "53.14",
+    "provinceCode": "53",
+    "name": "Kecamatan Rote Barat Daya",
+    "alias": "Rote Barat Daya"
+  },
+  {
+    "code": "53.14.020",
+    "districtCode": "020",
+    "regencyCode": "53.14",
+    "provinceCode": "53",
+    "name": "Kecamatan Rote Barat Laut",
+    "alias": "Rote Barat Laut"
+  },
+  {
+    "code": "53.14.021",
+    "districtCode": "021",
+    "regencyCode": "53.14",
+    "provinceCode": "53",
+    "name": "Kecamatan Loaholu",
+    "alias": "Loaholu"
+  },
+  {
+    "code": "53.14.030",
+    "districtCode": "030",
+    "regencyCode": "53.14",
+    "provinceCode": "53",
+    "name": "Kecamatan Lobalain",
+    "alias": "Lobalain"
+  },
+  {
+    "code": "53.14.040",
+    "districtCode": "040",
+    "regencyCode": "53.14",
+    "provinceCode": "53",
+    "name": "Kecamatan Rote Tengah",
+    "alias": "Rote Tengah"
+  },
+  {
+    "code": "53.14.041",
+    "districtCode": "041",
+    "regencyCode": "53.14",
+    "provinceCode": "53",
+    "name": "Kecamatan Rote Selatan",
+    "alias": "Rote Selatan"
+  },
+  {
+    "code": "53.14.050",
+    "districtCode": "050",
+    "regencyCode": "53.14",
+    "provinceCode": "53",
+    "name": "Kecamatan Pantai Baru",
+    "alias": "Pantai Baru"
+  },
+  {
+    "code": "53.14.060",
+    "districtCode": "060",
+    "regencyCode": "53.14",
+    "provinceCode": "53",
+    "name": "Kecamatan Rote Timur",
+    "alias": "Rote Timur"
+  },
+  {
+    "code": "53.14.061",
+    "districtCode": "061",
+    "regencyCode": "53.14",
+    "provinceCode": "53",
+    "name": "Kecamatan Landu Leko",
+    "alias": "Landu Leko"
+  },
+  {
+    "code": "53.14.070",
+    "districtCode": "070",
+    "regencyCode": "53.14",
+    "provinceCode": "53",
+    "name": "Kecamatan Rote Barat",
+    "alias": "Rote Barat"
+  },
+  {
+    "code": "53.14.071",
+    "districtCode": "071",
+    "regencyCode": "53.14",
+    "provinceCode": "53",
+    "name": "Kecamatan Ndao Nuse",
+    "alias": "Ndao Nuse"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "code": "12.02.033.001",
+    "villageCode": "001",
+    "districtCode": "12.02.033",
+    "name": "Purba Baru",
+    "alias": "Purba Baru"
+  },
+  {
+    "code": "12.02.033.002",
+    "villageCode": "002",
+    "districtCode": "12.02.033",
+    "name": "Siantona",
+    "alias": "Siantona"
+  },
+  {
+    "code": "12.02.033.003",
+    "villageCode": "003",
+    "districtCode": "12.02.033",
+    "name": "Purba Lamo",
+    "alias": "Purba Lamo"
+  },
+  {
+    "code": "12.02.033.004",
+    "villageCode": "004",
+    "districtCode": "12.02.033",
+    "name": "Bangun Purba",
+    "alias": "Bangun Purba"
+  },
+  {
+    "code": "12.02.033.005",
+    "villageCode": "005",
+    "districtCode": "12.02.033",
+    "name": "Aek Marian Mg",
+    "alias": "Aek Marian Mg"
+  },
+  {
+    "code": "12.02.033.006",
+    "villageCode": "006",
+    "districtCode": "12.02.033",
+    "name": "Pasar Maga",
+    "alias": "Pasar Maga"
+  },
+  {
+    "code": "12.02.033.007",
+    "villageCode": "007",
+    "districtCode": "12.02.033",
+    "name": "Maga Dolok",
+    "alias": "Maga Dolok"
+  },
+  {
+    "code": "12.02.033.008",
+    "villageCode": "008",
+    "districtCode": "12.02.033",
+    "name": "Maga Lombang",
+    "alias": "Maga Lombang"
+  },
+  {
+    "code": "12.02.033.009",
+    "villageCode": "009",
+    "districtCode": "12.02.033",
+    "name": "Pangkat",
+    "alias": "Pangkat"
+  }
+]

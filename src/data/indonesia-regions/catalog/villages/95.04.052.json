@@ -1,0 +1,44 @@
+[
+  {
+    "code": "95.04.052.001",
+    "villageCode": "001",
+    "districtCode": "95.04.052",
+    "name": "Manep",
+    "alias": "Manep"
+  },
+  {
+    "code": "95.04.052.002",
+    "villageCode": "002",
+    "districtCode": "95.04.052",
+    "name": "Beco",
+    "alias": "Beco"
+  },
+  {
+    "code": "95.04.052.003",
+    "villageCode": "003",
+    "districtCode": "95.04.052",
+    "name": "Yuni",
+    "alias": "Yuni"
+  },
+  {
+    "code": "95.04.052.004",
+    "villageCode": "004",
+    "districtCode": "95.04.052",
+    "name": "Betkuar",
+    "alias": "Betkuar"
+  },
+  {
+    "code": "95.04.052.005",
+    "villageCode": "005",
+    "districtCode": "95.04.052",
+    "name": "Fakan",
+    "alias": "Fakan"
+  },
+  {
+    "code": "95.04.052.006",
+    "villageCode": "006",
+    "districtCode": "95.04.052",
+    "name": "Simini",
+    "alias": "Simini"
+  }
+]

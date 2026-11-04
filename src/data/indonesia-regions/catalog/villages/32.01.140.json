@@ -1,0 +1,65 @@
+[
+  {
+    "code": "32.01.140.001",
+    "villageCode": "001",
+    "districtCode": "32.01.140",
+    "name": "Cijayanti",
+    "alias": "Cijayanti"
+  },
+  {
+    "code": "32.01.140.002",
+    "villageCode": "002",
+    "districtCode": "32.01.140",
+    "name": "Bojong Koneng",
+    "alias": "Bojong Koneng"
+  },
+  {
+    "code": "32.01.140.003",
+    "villageCode": "003",
+    "districtCode": "32.01.140",
+    "name": "Karang Tengah",
+    "alias": "Karang Tengah"
+  },
+  {
+    "code": "32.01.140.004",
+    "villageCode": "004",
+    "districtCode": "32.01.140",
+    "name": "Sumur Batu",
+    "alias": "Sumur Batu"
+  },
+  {
+    "code": "32.01.140.005",
+    "villageCode": "005",
+    "districtCode": "32.01.140",
+    "name": "Babakan Madang",
+    "alias": "Babakan Madang"
+  },
+  {
+    "code": "32.01.140.006",
+    "villageCode": "006",
+    "districtCode": "32.01.140",
+    "name": "Citaringgul",
+    "alias": "Citaringgul"
+  },
+  {
+    "code": "32.01.140.007",
+    "villageCode": "007",
+    "districtCode": "32.01.140",
+    "name": "Cipambuan",
+    "alias": "Cipambuan"
+  },
+  {
+    "code": "32.01.140.008",
+    "villageCode": "008",
+    "districtCode": "32.01.140",
+    "name": "Kadumangu",
+    "alias": "Kadumangu"
+  },
+  {
+    "code": "32.01.140.009",
+    "villageCode": "009",
+    "districtCode": "32.01.140",
+    "name": "Sentul",
+    "alias": "Sentul"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "code": "76.03.050.001",
+    "villageCode": "001",
+    "districtCode": "76.03.050",
+    "name": "Mamasa",
+    "alias": "Mamasa"
+  },
+  {
+    "code": "76.03.050.002",
+    "villageCode": "002",
+    "districtCode": "76.03.050",
+    "name": "Osango",
+    "alias": "Osango"
+  },
+  {
+    "code": "76.03.050.003",
+    "villageCode": "003",
+    "districtCode": "76.03.050",
+    "name": "Rambu Saratu",
+    "alias": "Rambu Saratu"
+  },
+  {
+    "code": "76.03.050.004",
+    "villageCode": "004",
+    "districtCode": "76.03.050",
+    "name": "Lambanan",
+    "alias": "Lambanan"
+  },
+  {
+    "code": "76.03.050.005",
+    "villageCode": "005",
+    "districtCode": "76.03.050",
+    "name": "Lembangna Salulo",
+    "alias": "Lembangna Salulo"
+  },
+  {
+    "code": "76.03.050.006",
+    "villageCode": "006",
+    "districtCode": "76.03.050",
+    "name": "Taupe",
+    "alias": "Taupe"
+  },
+  {
+    "code": "76.03.050.007",
+    "villageCode": "007",
+    "districtCode": "76.03.050",
+    "name": "Buntubuda",
+    "alias": "Buntubuda"
+  },
+  {
+    "code": "76.03.050.008",
+    "villageCode": "008",
+    "districtCode": "76.03.050",
+    "name": "Tondok Bakaru",
+    "alias": "Tondok Bakaru"
+  },
+  {
+    "code": "76.03.050.009",
+    "villageCode": "009",
+    "districtCode": "76.03.050",
+    "name": "Pebassian",
+    "alias": "Pebassian"
+  },
+  {
+    "code": "76.03.050.010",
+    "villageCode": "010",
+    "districtCode": "76.03.050",
+    "name": "Mambulilling",
+    "alias": "Mambulilling"
+  },
+  {
+    "code": "76.03.050.011",
+    "villageCode": "011",
+    "districtCode": "76.03.050",
+    "name": "Bombong Lambe",
+    "alias": "Bombong Lambe"
+  },
+  {
+    "code": "76.03.050.012",
+    "villageCode": "012",
+    "districtCode": "76.03.050",
+    "name": "Bubun Batu",
+    "alias": "Bubun Batu"
+  }
+]

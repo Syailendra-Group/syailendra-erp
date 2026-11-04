@@ -1,0 +1,79 @@
+[
+  {
+    "code": "53.12.082.001",
+    "villageCode": "001",
+    "districtCode": "53.12.082",
+    "name": "Turaloa",
+    "alias": "Turaloa"
+  },
+  {
+    "code": "53.12.082.002",
+    "villageCode": "002",
+    "districtCode": "53.12.082",
+    "name": "Mainai",
+    "alias": "Mainai"
+  },
+  {
+    "code": "53.12.082.003",
+    "villageCode": "003",
+    "districtCode": "53.12.082",
+    "name": "Denatana",
+    "alias": "Denatana"
+  },
+  {
+    "code": "53.12.082.004",
+    "villageCode": "004",
+    "districtCode": "53.12.082",
+    "name": "Nginamanu",
+    "alias": "Nginamanu"
+  },
+  {
+    "code": "53.12.082.005",
+    "villageCode": "005",
+    "districtCode": "53.12.082",
+    "name": "Nginamanu Selatan",
+    "alias": "Nginamanu Selatan"
+  },
+  {
+    "code": "53.12.082.006",
+    "villageCode": "006",
+    "districtCode": "53.12.082",
+    "name": "Nginamanu Barat",
+    "alias": "Nginamanu Barat"
+  },
+  {
+    "code": "53.12.082.007",
+    "villageCode": "007",
+    "districtCode": "53.12.082",
+    "name": "Wue",
+    "alias": "Wue"
+  },
+  {
+    "code": "53.12.082.008",
+    "villageCode": "008",
+    "districtCode": "53.12.082",
+    "name": "Denatana Timur",
+    "alias": "Denatana Timur"
+  },
+  {
+    "code": "53.12.082.009",
+    "villageCode": "009",
+    "districtCode": "53.12.082",
+    "name": "Larilaki",
+    "alias": "Larilaki"
+  },
+  {
+    "code": "53.12.082.010",
+    "villageCode": "010",
+    "districtCode": "53.12.082",
+    "name": "Mulumese",
+    "alias": "Mulumese"
+  },
+  {
+    "code": "53.12.082.011",
+    "villageCode": "011",
+    "districtCode": "53.12.082",
+    "name": "Turaloa Timur",
+    "alias": "Turaloa Timur"
+  }
+]

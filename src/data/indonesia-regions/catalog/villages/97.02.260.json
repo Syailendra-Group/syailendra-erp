@@ -1,0 +1,37 @@
+[
+  {
+    "code": "97.02.260.001",
+    "villageCode": "001",
+    "districtCode": "97.02.260",
+    "name": "Wadangku",
+    "alias": "Wadangku"
+  },
+  {
+    "code": "97.02.260.002",
+    "villageCode": "002",
+    "districtCode": "97.02.260",
+    "name": "Luku-Luku",
+    "alias": "Luku-Luku"
+  },
+  {
+    "code": "97.02.260.003",
+    "villageCode": "003",
+    "districtCode": "97.02.260",
+    "name": "Agulimo",
+    "alias": "Agulimo"
+  },
+  {
+    "code": "97.02.260.004",
+    "villageCode": "004",
+    "districtCode": "97.02.260",
+    "name": "Musiem",
+    "alias": "Musiem"
+  },
+  {
+    "code": "97.02.260.005",
+    "villageCode": "005",
+    "districtCode": "97.02.260",
+    "name": "Yomosima",
+    "alias": "Yomosima"
+  }
+]

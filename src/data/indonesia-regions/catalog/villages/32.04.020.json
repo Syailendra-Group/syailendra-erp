@@ -1,0 +1,72 @@
+[
+  {
+    "code": "32.04.020.001",
+    "villageCode": "001",
+    "districtCode": "32.04.020",
+    "name": "Sugihmukti",
+    "alias": "Sugihmukti"
+  },
+  {
+    "code": "32.04.020.002",
+    "villageCode": "002",
+    "districtCode": "32.04.020",
+    "name": "Margamulya",
+    "alias": "Margamulya"
+  },
+  {
+    "code": "32.04.020.003",
+    "villageCode": "003",
+    "districtCode": "32.04.020",
+    "name": "Tenjolaya",
+    "alias": "Tenjolaya"
+  },
+  {
+    "code": "32.04.020.004",
+    "villageCode": "004",
+    "districtCode": "32.04.020",
+    "name": "Cisondari",
+    "alias": "Cisondari"
+  },
+  {
+    "code": "32.04.020.005",
+    "villageCode": "005",
+    "districtCode": "32.04.020",
+    "name": "Mekarsari",
+    "alias": "Mekarsari"
+  },
+  {
+    "code": "32.04.020.006",
+    "villageCode": "006",
+    "districtCode": "32.04.020",
+    "name": "Cibodas",
+    "alias": "Cibodas"
+  },
+  {
+    "code": "32.04.020.007",
+    "villageCode": "007",
+    "districtCode": "32.04.020",
+    "name": "Cukanggenteng",
+    "alias": "Cukanggenteng"
+  },
+  {
+    "code": "32.04.020.008",
+    "villageCode": "008",
+    "districtCode": "32.04.020",
+    "name": "Pasirjambu",
+    "alias": "Pasirjambu"
+  },
+  {
+    "code": "32.04.020.009",
+    "villageCode": "009",
+    "districtCode": "32.04.020",
+    "name": "Mekarmaju",
+    "alias": "Mekarmaju"
+  },
+  {
+    "code": "32.04.020.010",
+    "villageCode": "010",
+    "districtCode": "32.04.020",
+    "name": "Cikoneng",
+    "alias": "Cikoneng"
+  }
+]

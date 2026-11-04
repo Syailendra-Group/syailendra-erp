@@ -1,0 +1,51 @@
+[
+  {
+    "code": "18.05.090.001",
+    "villageCode": "001",
+    "districtCode": "18.05.090",
+    "name": "Gunung Agung",
+    "alias": "Gunung Agung"
+  },
+  {
+    "code": "18.05.090.002",
+    "villageCode": "002",
+    "districtCode": "18.05.090",
+    "name": "Bandar Agung",
+    "alias": "Bandar Agung"
+  },
+  {
+    "code": "18.05.090.003",
+    "villageCode": "003",
+    "districtCode": "18.05.090",
+    "name": "Bandar Sakti",
+    "alias": "Bandar Sakti"
+  },
+  {
+    "code": "18.05.090.004",
+    "villageCode": "004",
+    "districtCode": "18.05.090",
+    "name": "Tanjung Anom",
+    "alias": "Tanjung Anom"
+  },
+  {
+    "code": "18.05.090.005",
+    "villageCode": "005",
+    "districtCode": "18.05.090",
+    "name": "Gunung Batin Baru",
+    "alias": "Gunung Batin Baru"
+  },
+  {
+    "code": "18.05.090.006",
+    "villageCode": "006",
+    "districtCode": "18.05.090",
+    "name": "Gunung Batin Udik",
+    "alias": "Gunung Batin Udik"
+  },
+  {
+    "code": "18.05.090.007",
+    "villageCode": "007",
+    "districtCode": "18.05.090",
+    "name": "Gunung Batin Ilir",
+    "alias": "Gunung Batin Ilir"
+  }
+]

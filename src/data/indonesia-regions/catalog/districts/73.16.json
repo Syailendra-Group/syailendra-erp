@@ -1,0 +1,98 @@
+[
+  {
+    "code": "73.16.010",
+    "districtCode": "010",
+    "regencyCode": "73.16",
+    "provinceCode": "73",
+    "name": "Kecamatan Maiwa",
+    "alias": "Maiwa"
+  },
+  {
+    "code": "73.16.011",
+    "districtCode": "011",
+    "regencyCode": "73.16",
+    "provinceCode": "73",
+    "name": "Kecamatan Bungin",
+    "alias": "Bungin"
+  },
+  {
+    "code": "73.16.020",
+    "districtCode": "020",
+    "regencyCode": "73.16",
+    "provinceCode": "73",
+    "name": "Kecamatan Enrekang",
+    "alias": "Enrekang"
+  },
+  {
+    "code": "73.16.021",
+    "districtCode": "021",
+    "regencyCode": "73.16",
+    "provinceCode": "73",
+    "name": "Kecamatan Cendana",
+    "alias": "Cendana"
+  },
+  {
+    "code": "73.16.030",
+    "districtCode": "030",
+    "regencyCode": "73.16",
+    "provinceCode": "73",
+    "name": "Kecamatan Baraka",
+    "alias": "Baraka"
+  },
+  {
+    "code": "73.16.031",
+    "districtCode": "031",
+    "regencyCode": "73.16",
+    "provinceCode": "73",
+    "name": "Kecamatan Buntu Batu",
+    "alias": "Buntu Batu"
+  },
+  {
+    "code": "73.16.040",
+    "districtCode": "040",
+    "regencyCode": "73.16",
+    "provinceCode": "73",
+    "name": "Kecamatan Anggeraja",
+    "alias": "Anggeraja"
+  },
+  {
+    "code": "73.16.041",
+    "districtCode": "041",
+    "regencyCode": "73.16",
+    "provinceCode": "73",
+    "name": "Kecamatan Malua",
+    "alias": "Malua"
+  },
+  {
+    "code": "73.16.050",
+    "districtCode": "050",
+    "regencyCode": "73.16",
+    "provinceCode": "73",
+    "name": "Kecamatan Alla",
+    "alias": "Alla"
+  },
+  {
+    "code": "73.16.051",
+    "districtCode": "051",
+    "regencyCode": "73.16",
+    "provinceCode": "73",
+    "name": "Kecamatan Curio",
+    "alias": "Curio"
+  },
+  {
+    "code": "73.16.052",
+    "districtCode": "052",
+    "regencyCode": "73.16",
+    "provinceCode": "73",
+    "name": "Kecamatan Masalle",
+    "alias": "Masalle"
+  },
+  {
+    "code": "73.16.053",
+    "districtCode": "053",
+    "regencyCode": "73.16",
+    "provinceCode": "73",
+    "name": "Kecamatan Baroko",
+    "alias": "Baroko"
+  }
+]

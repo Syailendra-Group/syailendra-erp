@@ -1,0 +1,65 @@
+[
+  {
+    "code": "11.71.011.001",
+    "villageCode": "001",
+    "districtCode": "11.71.011",
+    "name": "Ulee Pata",
+    "alias": "Ulee Pata"
+  },
+  {
+    "code": "11.71.011.002",
+    "villageCode": "002",
+    "districtCode": "11.71.011",
+    "name": "Lamjamee",
+    "alias": "Lamjamee"
+  },
+  {
+    "code": "11.71.011.003",
+    "villageCode": "003",
+    "districtCode": "11.71.011",
+    "name": "Lampoh Daya",
+    "alias": "Lampoh Daya"
+  },
+  {
+    "code": "11.71.011.004",
+    "villageCode": "004",
+    "districtCode": "11.71.011",
+    "name": "Emperom",
+    "alias": "Emperom"
+  },
+  {
+    "code": "11.71.011.005",
+    "villageCode": "005",
+    "districtCode": "11.71.011",
+    "name": "Geuceu Meunara",
+    "alias": "Geuceu Meunara"
+  },
+  {
+    "code": "11.71.011.006",
+    "villageCode": "006",
+    "districtCode": "11.71.011",
+    "name": "Lamtemen Barat",
+    "alias": "Lamtemen Barat"
+  },
+  {
+    "code": "11.71.011.007",
+    "villageCode": "007",
+    "districtCode": "11.71.011",
+    "name": "Bitai",
+    "alias": "Bitai"
+  },
+  {
+    "code": "11.71.011.008",
+    "villageCode": "008",
+    "districtCode": "11.71.011",
+    "name": "Lamtemen Timur",
+    "alias": "Lamtemen Timur"
+  },
+  {
+    "code": "11.71.011.009",
+    "villageCode": "009",
+    "districtCode": "11.71.011",
+    "name": "Punge Blang Cut",
+    "alias": "Punge Blang Cut"
+  }
+]

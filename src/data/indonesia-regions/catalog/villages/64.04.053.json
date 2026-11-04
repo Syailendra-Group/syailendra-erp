@@ -1,0 +1,58 @@
+[
+  {
+    "code": "64.04.053.001",
+    "villageCode": "001",
+    "districtCode": "64.04.053",
+    "name": "Cipta Graha",
+    "alias": "Cipta Graha"
+  },
+  {
+    "code": "64.04.053.002",
+    "villageCode": "002",
+    "districtCode": "64.04.053",
+    "name": "Bumi Jaya",
+    "alias": "Bumi Jaya"
+  },
+  {
+    "code": "64.04.053.003",
+    "villageCode": "003",
+    "districtCode": "64.04.053",
+    "name": "Bumi Rapak",
+    "alias": "Bumi Rapak"
+  },
+  {
+    "code": "64.04.053.004",
+    "villageCode": "004",
+    "districtCode": "64.04.053",
+    "name": "Bumi Etam",
+    "alias": "Bumi Etam"
+  },
+  {
+    "code": "64.04.053.005",
+    "villageCode": "005",
+    "districtCode": "64.04.053",
+    "name": "Mata Air",
+    "alias": "Mata Air"
+  },
+  {
+    "code": "64.04.053.006",
+    "villageCode": "006",
+    "districtCode": "64.04.053",
+    "name": "Bukit Permata",
+    "alias": "Bukit Permata"
+  },
+  {
+    "code": "64.04.053.007",
+    "villageCode": "007",
+    "districtCode": "64.04.053",
+    "name": "Kadungan Jaya",
+    "alias": "Kadungan Jaya"
+  },
+  {
+    "code": "64.04.053.008",
+    "villageCode": "008",
+    "districtCode": "64.04.053",
+    "name": "Pengadan Baru",
+    "alias": "Pengadan Baru"
+  }
+]

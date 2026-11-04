@@ -1,0 +1,65 @@
+[
+  {
+    "code": "32.11.181.001",
+    "villageCode": "001",
+    "districtCode": "32.11.181",
+    "name": "Wanajaya",
+    "alias": "Wanajaya"
+  },
+  {
+    "code": "32.11.181.002",
+    "villageCode": "002",
+    "districtCode": "32.11.181",
+    "name": "Wanasari",
+    "alias": "Wanasari"
+  },
+  {
+    "code": "32.11.181.003",
+    "villageCode": "003",
+    "districtCode": "32.11.181",
+    "name": "Pamekarsari",
+    "alias": "Pamekarsari"
+  },
+  {
+    "code": "32.11.181.004",
+    "villageCode": "004",
+    "districtCode": "32.11.181",
+    "name": "Surian",
+    "alias": "Surian"
+  },
+  {
+    "code": "32.11.181.005",
+    "villageCode": "005",
+    "districtCode": "32.11.181",
+    "name": "Tanjung",
+    "alias": "Tanjung"
+  },
+  {
+    "code": "32.11.181.006",
+    "villageCode": "006",
+    "districtCode": "32.11.181",
+    "name": "Ranggasari",
+    "alias": "Ranggasari"
+  },
+  {
+    "code": "32.11.181.007",
+    "villageCode": "007",
+    "districtCode": "32.11.181",
+    "name": "Suriamedal",
+    "alias": "Suriamedal"
+  },
+  {
+    "code": "32.11.181.008",
+    "villageCode": "008",
+    "districtCode": "32.11.181",
+    "name": "Suriamukti",
+    "alias": "Suriamukti"
+  },
+  {
+    "code": "32.11.181.009",
+    "villageCode": "009",
+    "districtCode": "32.11.181",
+    "name": "Nanjungwangi",
+    "alias": "Nanjungwangi"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "code": "72.08.012.001",
+    "villageCode": "001",
+    "districtCode": "72.08.012",
+    "name": "Suli",
+    "alias": "Suli"
+  },
+  {
+    "code": "72.08.012.002",
+    "villageCode": "002",
+    "districtCode": "72.08.012",
+    "name": "Malakosa",
+    "alias": "Malakosa"
+  },
+  {
+    "code": "72.08.012.003",
+    "villageCode": "003",
+    "districtCode": "72.08.012",
+    "name": "Balinggi",
+    "alias": "Balinggi"
+  },
+  {
+    "code": "72.08.012.004",
+    "villageCode": "004",
+    "districtCode": "72.08.012",
+    "name": "Balinggi Jati",
+    "alias": "Balinggi Jati"
+  },
+  {
+    "code": "72.08.012.005",
+    "villageCode": "005",
+    "districtCode": "72.08.012",
+    "name": "Suli Indah",
+    "alias": "Suli Indah"
+  },
+  {
+    "code": "72.08.012.006",
+    "villageCode": "006",
+    "districtCode": "72.08.012",
+    "name": "Beraban",
+    "alias": "Beraban"
+  },
+  {
+    "code": "72.08.012.007",
+    "villageCode": "007",
+    "districtCode": "72.08.012",
+    "name": "Lebagu",
+    "alias": "Lebagu"
+  },
+  {
+    "code": "72.08.012.008",
+    "villageCode": "008",
+    "districtCode": "72.08.012",
+    "name": "Tumpapa Indah",
+    "alias": "Tumpapa Indah"
+  },
+  {
+    "code": "72.08.012.009",
+    "villageCode": "009",
+    "districtCode": "72.08.012",
+    "name": "Catur Karya",
+    "alias": "Catur Karya"
+  }
+]

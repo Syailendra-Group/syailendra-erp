@@ -1,0 +1,72 @@
+[
+  {
+    "code": "14.09.043.001",
+    "villageCode": "001",
+    "districtCode": "14.09.043",
+    "name": "Rokan Baru",
+    "alias": "Rokan Baru"
+  },
+  {
+    "code": "14.09.043.002",
+    "villageCode": "002",
+    "districtCode": "14.09.043",
+    "name": "Teluk Bano Ii",
+    "alias": "Teluk Bano Ii"
+  },
+  {
+    "code": "14.09.043.003",
+    "villageCode": "003",
+    "districtCode": "14.09.043",
+    "name": "Suak Temenggung",
+    "alias": "Suak Temenggung"
+  },
+  {
+    "code": "14.09.043.006",
+    "villageCode": "006",
+    "districtCode": "14.09.043",
+    "name": "Pedamaran",
+    "alias": "Pedamaran"
+  },
+  {
+    "code": "14.09.043.007",
+    "villageCode": "007",
+    "districtCode": "14.09.043",
+    "name": "Suak Air Hitam",
+    "alias": "Suak Air Hitam"
+  },
+  {
+    "code": "14.09.043.011",
+    "villageCode": "011",
+    "districtCode": "14.09.043",
+    "name": "Sungai Besar",
+    "alias": "Sungai Besar"
+  },
+  {
+    "code": "14.09.043.012",
+    "villageCode": "012",
+    "districtCode": "14.09.043",
+    "name": "Pekaitan",
+    "alias": "Pekaitan"
+  },
+  {
+    "code": "14.09.043.025",
+    "villageCode": "025",
+    "districtCode": "14.09.043",
+    "name": "Kubu I",
+    "alias": "Kubu I"
+  },
+  {
+    "code": "14.09.043.026",
+    "villageCode": "026",
+    "districtCode": "14.09.043",
+    "name": "Karya Mulyo Sari",
+    "alias": "Karya Mulyo Sari"
+  },
+  {
+    "code": "14.09.043.027",
+    "villageCode": "027",
+    "districtCode": "14.09.043",
+    "name": "Rokan Baru Pesisir",
+    "alias": "Rokan Baru Pesisir"
+  }
+]

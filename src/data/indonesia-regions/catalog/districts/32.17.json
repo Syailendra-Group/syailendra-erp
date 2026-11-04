@@ -1,0 +1,130 @@
+[
+  {
+    "code": "32.17.010",
+    "districtCode": "010",
+    "regencyCode": "32.17",
+    "provinceCode": "32",
+    "name": "Kecamatan Rongga",
+    "alias": "Rongga"
+  },
+  {
+    "code": "32.17.020",
+    "districtCode": "020",
+    "regencyCode": "32.17",
+    "provinceCode": "32",
+    "name": "Kecamatan Gununghalu",
+    "alias": "Gununghalu"
+  },
+  {
+    "code": "32.17.030",
+    "districtCode": "030",
+    "regencyCode": "32.17",
+    "provinceCode": "32",
+    "name": "Kecamatan Sindangkerta",
+    "alias": "Sindangkerta"
+  },
+  {
+    "code": "32.17.040",
+    "districtCode": "040",
+    "regencyCode": "32.17",
+    "provinceCode": "32",
+    "name": "Kecamatan Cililin",
+    "alias": "Cililin"
+  },
+  {
+    "code": "32.17.050",
+    "districtCode": "050",
+    "regencyCode": "32.17",
+    "provinceCode": "32",
+    "name": "Kecamatan Cihampelas",
+    "alias": "Cihampelas"
+  },
+  {
+    "code": "32.17.060",
+    "districtCode": "060",
+    "regencyCode": "32.17",
+    "provinceCode": "32",
+    "name": "Kecamatan Cipongkor",
+    "alias": "Cipongkor"
+  },
+  {
+    "code": "32.17.070",
+    "districtCode": "070",
+    "regencyCode": "32.17",
+    "provinceCode": "32",
+    "name": "Kecamatan Batujajar",
+    "alias": "Batujajar"
+  },
+  {
+    "code": "32.17.071",
+    "districtCode": "071",
+    "regencyCode": "32.17",
+    "provinceCode": "32",
+    "name": "Kecamatan Saguling",
+    "alias": "Saguling"
+  },
+  {
+    "code": "32.17.080",
+    "districtCode": "080",
+    "regencyCode": "32.17",
+    "provinceCode": "32",
+    "name": "Kecamatan Cipatat",
+    "alias": "Cipatat"
+  },
+  {
+    "code": "32.17.090",
+    "districtCode": "090",
+    "regencyCode": "32.17",
+    "provinceCode": "32",
+    "name": "Kecamatan Padalarang",
+    "alias": "Padalarang"
+  },
+  {
+    "code": "32.17.100",
+    "districtCode": "100",
+    "regencyCode": "32.17",
+    "provinceCode": "32",
+    "name": "Kecamatan Ngamprah",
+    "alias": "Ngamprah"
+  },
+  {
+    "code": "32.17.110",
+    "districtCode": "110",
+    "regencyCode": "32.17",
+    "provinceCode": "32",
+    "name": "Kecamatan Parongpong",
+    "alias": "Parongpong"
+  },
+  {
+    "code": "32.17.120",
+    "districtCode": "120",
+    "regencyCode": "32.17",
+    "provinceCode": "32",
+    "name": "Kecamatan Lembang",
+    "alias": "Lembang"
+  },
+  {
+    "code": "32.17.130",
+    "districtCode": "130",
+    "regencyCode": "32.17",
+    "provinceCode": "32",
+    "name": "Kecamatan Cisarua",
+    "alias": "Cisarua"
+  },
+  {
+    "code": "32.17.140",
+    "districtCode": "140",
+    "regencyCode": "32.17",
+    "provinceCode": "32",
+    "name": "Kecamatan Cikalong Wetan",
+    "alias": "Cikalong Wetan"
+  },
+  {
+    "code": "32.17.150",
+    "districtCode": "150",
+    "regencyCode": "32.17",
+    "provinceCode": "32",
+    "name": "Kecamatan Cipeundeuy",
+    "alias": "Cipeundeuy"
+  }
+]

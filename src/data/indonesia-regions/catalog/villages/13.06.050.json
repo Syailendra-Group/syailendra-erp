@@ -1,0 +1,23 @@
+[
+  {
+    "code": "13.06.050.001",
+    "villageCode": "001",
+    "districtCode": "13.06.050",
+    "name": "Lubuak Pandan",
+    "alias": "Lubuak Pandan"
+  },
+  {
+    "code": "13.06.050.002",
+    "villageCode": "002",
+    "districtCode": "13.06.050",
+    "name": "Sicincin",
+    "alias": "Sicincin"
+  },
+  {
+    "code": "13.06.050.003",
+    "villageCode": "003",
+    "districtCode": "13.06.050",
+    "name": "Sungai Asam",
+    "alias": "Sungai Asam"
+  }
+]

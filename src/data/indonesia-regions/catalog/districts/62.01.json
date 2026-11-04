@@ -1,0 +1,50 @@
+[
+  {
+    "code": "62.01.040",
+    "districtCode": "040",
+    "regencyCode": "62.01",
+    "provinceCode": "62",
+    "name": "Kecamatan Kotawaringin Lama",
+    "alias": "Kotawaringin Lama"
+  },
+  {
+    "code": "62.01.050",
+    "districtCode": "050",
+    "regencyCode": "62.01",
+    "provinceCode": "62",
+    "name": "Kecamatan Arut Selatan",
+    "alias": "Arut Selatan"
+  },
+  {
+    "code": "62.01.060",
+    "districtCode": "060",
+    "regencyCode": "62.01",
+    "provinceCode": "62",
+    "name": "Kecamatan Kumai",
+    "alias": "Kumai"
+  },
+  {
+    "code": "62.01.061",
+    "districtCode": "061",
+    "regencyCode": "62.01",
+    "provinceCode": "62",
+    "name": "Kecamatan Pangkalan Banteng",
+    "alias": "Pangkalan Banteng"
+  },
+  {
+    "code": "62.01.062",
+    "districtCode": "062",
+    "regencyCode": "62.01",
+    "provinceCode": "62",
+    "name": "Kecamatan Pangkalan Lada",
+    "alias": "Pangkalan Lada"
+  },
+  {
+    "code": "62.01.070",
+    "districtCode": "070",
+    "regencyCode": "62.01",
+    "provinceCode": "62",
+    "name": "Kecamatan Arut Utara",
+    "alias": "Arut Utara"
+  }
+]

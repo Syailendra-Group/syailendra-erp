@@ -1,0 +1,44 @@
+[
+  {
+    "code": "61.02.040.008",
+    "villageCode": "008",
+    "districtCode": "61.02.040",
+    "name": "Bhakti Mulya",
+    "alias": "Bhakti Mulya"
+  },
+  {
+    "code": "61.02.040.009",
+    "villageCode": "009",
+    "districtCode": "61.02.040",
+    "name": "Tirta Kencana",
+    "alias": "Tirta Kencana"
+  },
+  {
+    "code": "61.02.040.014",
+    "villageCode": "014",
+    "districtCode": "61.02.040",
+    "name": "Bumi Emas",
+    "alias": "Bumi Emas"
+  },
+  {
+    "code": "61.02.040.015",
+    "villageCode": "015",
+    "districtCode": "61.02.040",
+    "name": "Bani Amas",
+    "alias": "Bani Amas"
+  },
+  {
+    "code": "61.02.040.017",
+    "villageCode": "017",
+    "districtCode": "61.02.040",
+    "name": "Setia Budi",
+    "alias": "Setia Budi"
+  },
+  {
+    "code": "61.02.040.018",
+    "villageCode": "018",
+    "districtCode": "61.02.040",
+    "name": "Sebalo",
+    "alias": "Sebalo"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "code": "33.76.030.001",
+    "villageCode": "001",
+    "districtCode": "33.76.030",
+    "name": "Pesurungan Kidul",
+    "alias": "Pesurungan Kidul"
+  },
+  {
+    "code": "33.76.030.002",
+    "villageCode": "002",
+    "districtCode": "33.76.030",
+    "name": "Debong Lor",
+    "alias": "Debong Lor"
+  },
+  {
+    "code": "33.76.030.003",
+    "villageCode": "003",
+    "districtCode": "33.76.030",
+    "name": "Kemandungan",
+    "alias": "Kemandungan"
+  },
+  {
+    "code": "33.76.030.004",
+    "villageCode": "004",
+    "districtCode": "33.76.030",
+    "name": "Pekauman",
+    "alias": "Pekauman"
+  },
+  {
+    "code": "33.76.030.005",
+    "villageCode": "005",
+    "districtCode": "33.76.030",
+    "name": "Kraton",
+    "alias": "Kraton"
+  },
+  {
+    "code": "33.76.030.006",
+    "villageCode": "006",
+    "districtCode": "33.76.030",
+    "name": "Tegalsari",
+    "alias": "Tegalsari"
+  },
+  {
+    "code": "33.76.030.007",
+    "villageCode": "007",
+    "districtCode": "33.76.030",
+    "name": "Muarareja",
+    "alias": "Muarareja"
+  }
+]

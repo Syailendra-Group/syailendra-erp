@@ -1,0 +1,65 @@
+[
+  {
+    "code": "62.03.160.001",
+    "villageCode": "001",
+    "districtCode": "62.03.160",
+    "name": "Petak Puti",
+    "alias": "Petak Puti"
+  },
+  {
+    "code": "62.03.160.002",
+    "villageCode": "002",
+    "districtCode": "62.03.160",
+    "name": "Aruk",
+    "alias": "Aruk"
+  },
+  {
+    "code": "62.03.160.003",
+    "villageCode": "003",
+    "districtCode": "62.03.160",
+    "name": "Lawang Kajang",
+    "alias": "Lawang Kajang"
+  },
+  {
+    "code": "62.03.160.004",
+    "villageCode": "004",
+    "districtCode": "62.03.160",
+    "name": "Timpah",
+    "alias": "Timpah"
+  },
+  {
+    "code": "62.03.160.005",
+    "villageCode": "005",
+    "districtCode": "62.03.160",
+    "name": "Lungku Layang",
+    "alias": "Lungku Layang"
+  },
+  {
+    "code": "62.03.160.006",
+    "villageCode": "006",
+    "districtCode": "62.03.160",
+    "name": "Danau Pantau",
+    "alias": "Danau Pantau"
+  },
+  {
+    "code": "62.03.160.007",
+    "villageCode": "007",
+    "districtCode": "62.03.160",
+    "name": "Lawang Kamah",
+    "alias": "Lawang Kamah"
+  },
+  {
+    "code": "62.03.160.008",
+    "villageCode": "008",
+    "districtCode": "62.03.160",
+    "name": "Tumbang Randang",
+    "alias": "Tumbang Randang"
+  },
+  {
+    "code": "62.03.160.009",
+    "villageCode": "009",
+    "districtCode": "62.03.160",
+    "name": "Batapah",
+    "alias": "Batapah"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "code": "62.03.040.010",
+    "villageCode": "010",
+    "districtCode": "62.03.040",
+    "name": "Murung Keramat",
+    "alias": "Murung Keramat"
+  },
+  {
+    "code": "62.03.040.011",
+    "villageCode": "011",
+    "districtCode": "62.03.040",
+    "name": "Selat Hilir",
+    "alias": "Selat Hilir"
+  },
+  {
+    "code": "62.03.040.012",
+    "villageCode": "012",
+    "districtCode": "62.03.040",
+    "name": "Selat Tengah",
+    "alias": "Selat Tengah"
+  },
+  {
+    "code": "62.03.040.013",
+    "villageCode": "013",
+    "districtCode": "62.03.040",
+    "name": "Selat Hulu",
+    "alias": "Selat Hulu"
+  },
+  {
+    "code": "62.03.040.014",
+    "villageCode": "014",
+    "districtCode": "62.03.040",
+    "name": "Selat Dalam",
+    "alias": "Selat Dalam"
+  },
+  {
+    "code": "62.03.040.015",
+    "villageCode": "015",
+    "districtCode": "62.03.040",
+    "name": "Pulau Telo",
+    "alias": "Pulau Telo"
+  },
+  {
+    "code": "62.03.040.016",
+    "villageCode": "016",
+    "districtCode": "62.03.040",
+    "name": "Panamas",
+    "alias": "Panamas"
+  },
+  {
+    "code": "62.03.040.017",
+    "villageCode": "017",
+    "districtCode": "62.03.040",
+    "name": "Selat Barat",
+    "alias": "Selat Barat"
+  },
+  {
+    "code": "62.03.040.018",
+    "villageCode": "018",
+    "districtCode": "62.03.040",
+    "name": "Selat Utara",
+    "alias": "Selat Utara"
+  },
+  {
+    "code": "62.03.040.019",
+    "villageCode": "019",
+    "districtCode": "62.03.040",
+    "name": "Pulau Telo Baru",
+    "alias": "Pulau Telo Baru"
+  }
+]

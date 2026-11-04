@@ -1,0 +1,79 @@
+[
+  {
+    "code": "12.01.071.001",
+    "villageCode": "001",
+    "districtCode": "12.01.071",
+    "name": "Tuhembuasi",
+    "alias": "Tuhembuasi"
+  },
+  {
+    "code": "12.01.071.002",
+    "villageCode": "002",
+    "districtCode": "12.01.071",
+    "name": "Hilibadalu",
+    "alias": "Hilibadalu"
+  },
+  {
+    "code": "12.01.071.003",
+    "villageCode": "003",
+    "districtCode": "12.01.071",
+    "name": "Lauri",
+    "alias": "Lauri"
+  },
+  {
+    "code": "12.01.071.004",
+    "villageCode": "004",
+    "districtCode": "12.01.071",
+    "name": "Hilimbana",
+    "alias": "Hilimbana"
+  },
+  {
+    "code": "12.01.071.005",
+    "villageCode": "005",
+    "districtCode": "12.01.071",
+    "name": "Saetagaramba",
+    "alias": "Saetagaramba"
+  },
+  {
+    "code": "12.01.071.006",
+    "villageCode": "006",
+    "districtCode": "12.01.071",
+    "name": "Sogaeadu",
+    "alias": "Sogaeadu"
+  },
+  {
+    "code": "12.01.071.007",
+    "villageCode": "007",
+    "districtCode": "12.01.071",
+    "name": "Baruzo",
+    "alias": "Baruzo"
+  },
+  {
+    "code": "12.01.071.008",
+    "villageCode": "008",
+    "districtCode": "12.01.071",
+    "name": "Tulumbaho",
+    "alias": "Tulumbaho"
+  },
+  {
+    "code": "12.01.071.009",
+    "villageCode": "009",
+    "districtCode": "12.01.071",
+    "name": "Sihareo Sogaeadu",
+    "alias": "Sihareo Sogaeadu"
+  },
+  {
+    "code": "12.01.071.010",
+    "villageCode": "010",
+    "districtCode": "12.01.071",
+    "name": "Wea-Wea",
+    "alias": "Wea-Wea"
+  },
+  {
+    "code": "12.01.071.011",
+    "villageCode": "011",
+    "districtCode": "12.01.071",
+    "name": "Sisarahili Sogeadu",
+    "alias": "Sisarahili Sogeadu"
+  }
+]

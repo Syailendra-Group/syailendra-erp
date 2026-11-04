@@ -1,0 +1,86 @@
+[
+  {
+    "code": "35.08.090.001",
+    "villageCode": "001",
+    "districtCode": "35.08.090",
+    "name": "Darungan",
+    "alias": "Darungan"
+  },
+  {
+    "code": "35.08.090.002",
+    "villageCode": "002",
+    "districtCode": "35.08.090",
+    "name": "Kraton",
+    "alias": "Kraton"
+  },
+  {
+    "code": "35.08.090.003",
+    "villageCode": "003",
+    "districtCode": "35.08.090",
+    "name": "Wotgalih",
+    "alias": "Wotgalih"
+  },
+  {
+    "code": "35.08.090.004",
+    "villageCode": "004",
+    "districtCode": "35.08.090",
+    "name": "Tunjungrejo",
+    "alias": "Tunjungrejo"
+  },
+  {
+    "code": "35.08.090.005",
+    "villageCode": "005",
+    "districtCode": "35.08.090",
+    "name": "Yosowilangun Kidul",
+    "alias": "Yosowilangun Kidul"
+  },
+  {
+    "code": "35.08.090.006",
+    "villageCode": "006",
+    "districtCode": "35.08.090",
+    "name": "Yosowilangun Lor",
+    "alias": "Yosowilangun Lor"
+  },
+  {
+    "code": "35.08.090.007",
+    "villageCode": "007",
+    "districtCode": "35.08.090",
+    "name": "Krai",
+    "alias": "Krai"
+  },
+  {
+    "code": "35.08.090.008",
+    "villageCode": "008",
+    "districtCode": "35.08.090",
+    "name": "Karangayar",
+    "alias": "Karangayar"
+  },
+  {
+    "code": "35.08.090.009",
+    "villageCode": "009",
+    "districtCode": "35.08.090",
+    "name": "Karangrejo",
+    "alias": "Karangrejo"
+  },
+  {
+    "code": "35.08.090.010",
+    "villageCode": "010",
+    "districtCode": "35.08.090",
+    "name": "Munder",
+    "alias": "Munder"
+  },
+  {
+    "code": "35.08.090.011",
+    "villageCode": "011",
+    "districtCode": "35.08.090",
+    "name": "Kebonsari",
+    "alias": "Kebonsari"
+  },
+  {
+    "code": "35.08.090.012",
+    "villageCode": "012",
+    "districtCode": "35.08.090",
+    "name": "Kalipepe",
+    "alias": "Kalipepe"
+  }
+]

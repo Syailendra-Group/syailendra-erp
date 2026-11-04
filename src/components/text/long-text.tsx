@@ -52,6 +52,7 @@ export function LongText({ children, className = '', contentClassName = '' }: Lo
           </Tooltip>
         </TooltipProvider>
       </div>
+
       <div className="sm:hidden">
         <Popover>
           <PopoverTrigger asChild>

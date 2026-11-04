@@ -1,0 +1,79 @@
+[
+  {
+    "code": "14.07.051.001",
+    "villageCode": "001",
+    "districtCode": "14.07.051",
+    "name": "Suka Damai",
+    "alias": "Suka Damai"
+  },
+  {
+    "code": "14.07.051.002",
+    "villageCode": "002",
+    "districtCode": "14.07.051",
+    "name": "Mahato Sakti",
+    "alias": "Mahato Sakti"
+  },
+  {
+    "code": "14.07.051.003",
+    "villageCode": "003",
+    "districtCode": "14.07.051",
+    "name": "Rantau Sakti",
+    "alias": "Rantau Sakti"
+  },
+  {
+    "code": "14.07.051.004",
+    "villageCode": "004",
+    "districtCode": "14.07.051",
+    "name": "Payung Sekaki",
+    "alias": "Payung Sekaki"
+  },
+  {
+    "code": "14.07.051.005",
+    "villageCode": "005",
+    "districtCode": "14.07.051",
+    "name": "Pagar Mayang",
+    "alias": "Pagar Mayang"
+  },
+  {
+    "code": "14.07.051.006",
+    "villageCode": "006",
+    "districtCode": "14.07.051",
+    "name": "Simpang Harapan",
+    "alias": "Simpang Harapan"
+  },
+  {
+    "code": "14.07.051.007",
+    "villageCode": "007",
+    "districtCode": "14.07.051",
+    "name": "Mekar Jaya",
+    "alias": "Mekar Jaya"
+  },
+  {
+    "code": "14.07.051.008",
+    "villageCode": "008",
+    "districtCode": "14.07.051",
+    "name": "Bangun Jaya",
+    "alias": "Bangun Jaya"
+  },
+  {
+    "code": "14.07.051.009",
+    "villageCode": "009",
+    "districtCode": "14.07.051",
+    "name": "Tambusai Utara",
+    "alias": "Tambusai Utara"
+  },
+  {
+    "code": "14.07.051.010",
+    "villageCode": "010",
+    "districtCode": "14.07.051",
+    "name": "Tanjung Medan",
+    "alias": "Tanjung Medan"
+  },
+  {
+    "code": "14.07.051.011",
+    "villageCode": "011",
+    "districtCode": "14.07.051",
+    "name": "Mahato",
+    "alias": "Mahato"
+  }
+]

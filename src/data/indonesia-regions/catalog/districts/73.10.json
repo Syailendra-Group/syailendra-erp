@@ -1,0 +1,58 @@
+[
+  {
+    "code": "73.10.010",
+    "districtCode": "010",
+    "regencyCode": "73.10",
+    "provinceCode": "73",
+    "name": "Kecamatan Tanete Riaja",
+    "alias": "Tanete Riaja"
+  },
+  {
+    "code": "73.10.011",
+    "districtCode": "011",
+    "regencyCode": "73.10",
+    "provinceCode": "73",
+    "name": "Kecamatan Pujananting",
+    "alias": "Pujananting"
+  },
+  {
+    "code": "73.10.020",
+    "districtCode": "020",
+    "regencyCode": "73.10",
+    "provinceCode": "73",
+    "name": "Kecamatan Tanete Rilau",
+    "alias": "Tanete Rilau"
+  },
+  {
+    "code": "73.10.030",
+    "districtCode": "030",
+    "regencyCode": "73.10",
+    "provinceCode": "73",
+    "name": "Kecamatan Barru",
+    "alias": "Barru"
+  },
+  {
+    "code": "73.10.040",
+    "districtCode": "040",
+    "regencyCode": "73.10",
+    "provinceCode": "73",
+    "name": "Kecamatan Soppeng Riaja",
+    "alias": "Soppeng Riaja"
+  },
+  {
+    "code": "73.10.041",
+    "districtCode": "041",
+    "regencyCode": "73.10",
+    "provinceCode": "73",
+    "name": "Kecamatan Balusu",
+    "alias": "Balusu"
+  },
+  {
+    "code": "73.10.050",
+    "districtCode": "050",
+    "regencyCode": "73.10",
+    "provinceCode": "73",
+    "name": "Kecamatan Mallusetasi",
+    "alias": "Mallusetasi"
+  }
+]

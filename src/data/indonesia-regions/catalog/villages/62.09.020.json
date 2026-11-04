@@ -1,0 +1,51 @@
+[
+  {
+    "code": "62.09.020.001",
+    "villageCode": "001",
+    "districtCode": "62.09.020",
+    "name": "Teluk Sebulu",
+    "alias": "Teluk Sebulu"
+  },
+  {
+    "code": "62.09.020.002",
+    "villageCode": "002",
+    "districtCode": "62.09.020",
+    "name": "Mendawai",
+    "alias": "Mendawai"
+  },
+  {
+    "code": "62.09.020.003",
+    "villageCode": "003",
+    "districtCode": "62.09.020",
+    "name": "Kampung Melayu",
+    "alias": "Kampung Melayu"
+  },
+  {
+    "code": "62.09.020.004",
+    "villageCode": "004",
+    "districtCode": "62.09.020",
+    "name": "Tewang Kampung",
+    "alias": "Tewang Kampung"
+  },
+  {
+    "code": "62.09.020.005",
+    "villageCode": "005",
+    "districtCode": "62.09.020",
+    "name": "Mekar Tani",
+    "alias": "Mekar Tani"
+  },
+  {
+    "code": "62.09.020.006",
+    "villageCode": "006",
+    "districtCode": "62.09.020",
+    "name": "Perigi",
+    "alias": "Perigi"
+  },
+  {
+    "code": "62.09.020.007",
+    "villageCode": "007",
+    "districtCode": "62.09.020",
+    "name": "Tumbang Bulan",
+    "alias": "Tumbang Bulan"
+  }
+]

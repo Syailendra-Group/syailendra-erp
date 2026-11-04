@@ -1,0 +1,42 @@
+[
+  {
+    "code": "97.06.010",
+    "districtCode": "010",
+    "regencyCode": "97.06",
+    "provinceCode": "97",
+    "name": "Kecamatan Welarek",
+    "alias": "Welarek"
+  },
+  {
+    "code": "97.06.020",
+    "districtCode": "020",
+    "regencyCode": "97.06",
+    "provinceCode": "97",
+    "name": "Kecamatan Apalapsili",
+    "alias": "Apalapsili"
+  },
+  {
+    "code": "97.06.030",
+    "districtCode": "030",
+    "regencyCode": "97.06",
+    "provinceCode": "97",
+    "name": "Kecamatan Abenaho",
+    "alias": "Abenaho"
+  },
+  {
+    "code": "97.06.040",
+    "districtCode": "040",
+    "regencyCode": "97.06",
+    "provinceCode": "97",
+    "name": "Kecamatan Elelim",
+    "alias": "Elelim"
+  },
+  {
+    "code": "97.06.050",
+    "districtCode": "050",
+    "regencyCode": "97.06",
+    "provinceCode": "97",
+    "name": "Kecamatan Benawa",
+    "alias": "Benawa"
+  }
+]

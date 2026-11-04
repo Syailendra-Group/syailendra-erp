@@ -1,0 +1,37 @@
+[
+  {
+    "code": "18.71.010.005",
+    "villageCode": "005",
+    "districtCode": "18.71.010",
+    "name": "Bakung",
+    "alias": "Bakung"
+  },
+  {
+    "code": "18.71.010.006",
+    "villageCode": "006",
+    "districtCode": "18.71.010",
+    "name": "Kuripan",
+    "alias": "Kuripan"
+  },
+  {
+    "code": "18.71.010.007",
+    "villageCode": "007",
+    "districtCode": "18.71.010",
+    "name": "Negeri Olok Gading",
+    "alias": "Negeri Olok Gading"
+  },
+  {
+    "code": "18.71.010.008",
+    "villageCode": "008",
+    "districtCode": "18.71.010",
+    "name": "Sukarame Ii",
+    "alias": "Sukarame Ii"
+  },
+  {
+    "code": "18.71.010.011",
+    "villageCode": "011",
+    "districtCode": "18.71.010",
+    "name": "Batu Putuk",
+    "alias": "Batu Putuk"
+  }
+]

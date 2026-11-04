@@ -1,0 +1,121 @@
+[
+  {
+    "code": "35.07.120.001",
+    "villageCode": "001",
+    "districtCode": "35.07.120",
+    "name": "Kemulan",
+    "alias": "Kemulan"
+  },
+  {
+    "code": "35.07.120.002",
+    "villageCode": "002",
+    "districtCode": "35.07.120",
+    "name": "Tawangrejeni",
+    "alias": "Tawangrejeni"
+  },
+  {
+    "code": "35.07.120.003",
+    "villageCode": "003",
+    "districtCode": "35.07.120",
+    "name": "Sawahan",
+    "alias": "Sawahan"
+  },
+  {
+    "code": "35.07.120.004",
+    "villageCode": "004",
+    "districtCode": "35.07.120",
+    "name": "Undaan",
+    "alias": "Undaan"
+  },
+  {
+    "code": "35.07.120.005",
+    "villageCode": "005",
+    "districtCode": "35.07.120",
+    "name": "Gedog Kulon",
+    "alias": "Gedog Kulon"
+  },
+  {
+    "code": "35.07.120.006",
+    "villageCode": "006",
+    "districtCode": "35.07.120",
+    "name": "Gedog Wetan",
+    "alias": "Gedog Wetan"
+  },
+  {
+    "code": "35.07.120.007",
+    "villageCode": "007",
+    "districtCode": "35.07.120",
+    "name": "Talok",
+    "alias": "Talok"
+  },
+  {
+    "code": "35.07.120.008",
+    "villageCode": "008",
+    "districtCode": "35.07.120",
+    "name": "Sedayu",
+    "alias": "Sedayu"
+  },
+  {
+    "code": "35.07.120.009",
+    "villageCode": "009",
+    "districtCode": "35.07.120",
+    "name": "Tanggung",
+    "alias": "Tanggung"
+  },
+  {
+    "code": "35.07.120.010",
+    "villageCode": "010",
+    "districtCode": "35.07.120",
+    "name": "Jeru",
+    "alias": "Jeru"
+  },
+  {
+    "code": "35.07.120.011",
+    "villageCode": "011",
+    "districtCode": "35.07.120",
+    "name": "Turen",
+    "alias": "Turen"
+  },
+  {
+    "code": "35.07.120.012",
+    "villageCode": "012",
+    "districtCode": "35.07.120",
+    "name": "Pagedangan",
+    "alias": "Pagedangan"
+  },
+  {
+    "code": "35.07.120.013",
+    "villageCode": "013",
+    "districtCode": "35.07.120",
+    "name": "Sanankerto",
+    "alias": "Sanankerto"
+  },
+  {
+    "code": "35.07.120.014",
+    "villageCode": "014",
+    "districtCode": "35.07.120",
+    "name": "Sananrejo",
+    "alias": "Sananrejo"
+  },
+  {
+    "code": "35.07.120.015",
+    "villageCode": "015",
+    "districtCode": "35.07.120",
+    "name": "Kedok",
+    "alias": "Kedok"
+  },
+  {
+    "code": "35.07.120.016",
+    "villageCode": "016",
+    "districtCode": "35.07.120",
+    "name": "Talangsuko",
+    "alias": "Talangsuko"
+  },
+  {
+    "code": "35.07.120.017",
+    "villageCode": "017",
+    "districtCode": "35.07.120",
+    "name": "Tumpukrenteng",
+    "alias": "Tumpukrenteng"
+  }
+]

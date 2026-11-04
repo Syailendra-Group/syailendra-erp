@@ -1,0 +1,37 @@
+[
+  {
+    "code": "53.05.062.001",
+    "villageCode": "001",
+    "districtCode": "53.05.062",
+    "name": "Manumean",
+    "alias": "Manumean"
+  },
+  {
+    "code": "53.05.062.002",
+    "villageCode": "002",
+    "districtCode": "53.05.062",
+    "name": "Kuluan",
+    "alias": "Kuluan"
+  },
+  {
+    "code": "53.05.062.003",
+    "villageCode": "003",
+    "districtCode": "53.05.062",
+    "name": "Naku",
+    "alias": "Naku"
+  },
+  {
+    "code": "53.05.062.004",
+    "villageCode": "004",
+    "districtCode": "53.05.062",
+    "name": "Makun",
+    "alias": "Makun"
+  },
+  {
+    "code": "53.05.062.005",
+    "villageCode": "005",
+    "districtCode": "53.05.062",
+    "name": "Birunatun",
+    "alias": "Birunatun"
+  }
+]

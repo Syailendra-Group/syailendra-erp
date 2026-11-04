@@ -1,0 +1,79 @@
+[
+  {
+    "code": "35.29.230.001",
+    "villageCode": "001",
+    "districtCode": "35.29.230",
+    "name": "Sabuntan",
+    "alias": "Sabuntan"
+  },
+  {
+    "code": "35.29.230.002",
+    "villageCode": "002",
+    "districtCode": "35.29.230",
+    "name": "Paliat",
+    "alias": "Paliat"
+  },
+  {
+    "code": "35.29.230.003",
+    "villageCode": "003",
+    "districtCode": "35.29.230",
+    "name": "Sapeken",
+    "alias": "Sapeken"
+  },
+  {
+    "code": "35.29.230.004",
+    "villageCode": "004",
+    "districtCode": "35.29.230",
+    "name": "Sasiil",
+    "alias": "Sasiil"
+  },
+  {
+    "code": "35.29.230.005",
+    "villageCode": "005",
+    "districtCode": "35.29.230",
+    "name": "Sepanjang",
+    "alias": "Sepanjang"
+  },
+  {
+    "code": "35.29.230.006",
+    "villageCode": "006",
+    "districtCode": "35.29.230",
+    "name": "Tanjungkiaok",
+    "alias": "Tanjungkiaok"
+  },
+  {
+    "code": "35.29.230.007",
+    "villageCode": "007",
+    "districtCode": "35.29.230",
+    "name": "Pagerungan Kecil",
+    "alias": "Pagerungan Kecil"
+  },
+  {
+    "code": "35.29.230.008",
+    "villageCode": "008",
+    "districtCode": "35.29.230",
+    "name": "Pagerungan Besar",
+    "alias": "Pagerungan Besar"
+  },
+  {
+    "code": "35.29.230.009",
+    "villageCode": "009",
+    "districtCode": "35.29.230",
+    "name": "Sakala",
+    "alias": "Sakala"
+  },
+  {
+    "code": "35.29.230.010",
+    "villageCode": "010",
+    "districtCode": "35.29.230",
+    "name": "Sadulang",
+    "alias": "Sadulang"
+  },
+  {
+    "code": "35.29.230.011",
+    "villageCode": "011",
+    "districtCode": "35.29.230",
+    "name": "Saur Saebus",
+    "alias": "Saur Saebus"
+  }
+]

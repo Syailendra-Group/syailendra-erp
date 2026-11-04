@@ -1,0 +1,58 @@
+[
+  {
+    "code": "64.72.060.004",
+    "villageCode": "004",
+    "districtCode": "64.72.060",
+    "name": "Lempake",
+    "alias": "Lempake"
+  },
+  {
+    "code": "64.72.060.005",
+    "villageCode": "005",
+    "districtCode": "64.72.060",
+    "name": "Sempaja Selatan",
+    "alias": "Sempaja Selatan"
+  },
+  {
+    "code": "64.72.060.006",
+    "villageCode": "006",
+    "districtCode": "64.72.060",
+    "name": "Sungai Siring",
+    "alias": "Sungai Siring"
+  },
+  {
+    "code": "64.72.060.010",
+    "villageCode": "010",
+    "districtCode": "64.72.060",
+    "name": "Tanah Merah",
+    "alias": "Tanah Merah"
+  },
+  {
+    "code": "64.72.060.011",
+    "villageCode": "011",
+    "districtCode": "64.72.060",
+    "name": "Sempaja Utara",
+    "alias": "Sempaja Utara"
+  },
+  {
+    "code": "64.72.060.012",
+    "villageCode": "012",
+    "districtCode": "64.72.060",
+    "name": "Sempaja Timur",
+    "alias": "Sempaja Timur"
+  },
+  {
+    "code": "64.72.060.013",
+    "villageCode": "013",
+    "districtCode": "64.72.060",
+    "name": "Sempaja Barat",
+    "alias": "Sempaja Barat"
+  },
+  {
+    "code": "64.72.060.014",
+    "villageCode": "014",
+    "districtCode": "64.72.060",
+    "name": "Budaya Pampang",
+    "alias": "Budaya Pampang"
+  }
+]

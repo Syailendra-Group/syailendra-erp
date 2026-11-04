@@ -1,0 +1,44 @@
+[
+  {
+    "code": "13.71.080.001",
+    "villageCode": "001",
+    "districtCode": "13.71.080",
+    "name": "Tabiang Banda Gadang",
+    "alias": "Tabiang Banda Gadang"
+  },
+  {
+    "code": "13.71.080.002",
+    "villageCode": "002",
+    "districtCode": "13.71.080",
+    "name": "Gurun Laweh",
+    "alias": "Gurun Laweh"
+  },
+  {
+    "code": "13.71.080.003",
+    "villageCode": "003",
+    "districtCode": "13.71.080",
+    "name": "Kampung Olo",
+    "alias": "Kampung Olo"
+  },
+  {
+    "code": "13.71.080.005",
+    "villageCode": "005",
+    "districtCode": "13.71.080",
+    "name": "Kampung Lapai Baru",
+    "alias": "Kampung Lapai Baru"
+  },
+  {
+    "code": "13.71.080.006",
+    "villageCode": "006",
+    "districtCode": "13.71.080",
+    "name": "Surau Gadang",
+    "alias": "Surau Gadang"
+  },
+  {
+    "code": "13.71.080.007",
+    "villageCode": "007",
+    "districtCode": "13.71.080",
+    "name": "Kurao Pagang",
+    "alias": "Kurao Pagang"
+  }
+]

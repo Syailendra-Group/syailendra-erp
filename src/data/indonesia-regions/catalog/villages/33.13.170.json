@@ -1,0 +1,65 @@
+[
+  {
+    "code": "33.13.170.001",
+    "villageCode": "001",
+    "districtCode": "33.13.170",
+    "name": "Gumeng",
+    "alias": "Gumeng"
+  },
+  {
+    "code": "33.13.170.002",
+    "villageCode": "002",
+    "districtCode": "33.13.170",
+    "name": "Anggrasmanis",
+    "alias": "Anggrasmanis"
+  },
+  {
+    "code": "33.13.170.003",
+    "villageCode": "003",
+    "districtCode": "33.13.170",
+    "name": "Jenawi",
+    "alias": "Jenawi"
+  },
+  {
+    "code": "33.13.170.004",
+    "villageCode": "004",
+    "districtCode": "33.13.170",
+    "name": "Trengguli",
+    "alias": "Trengguli"
+  },
+  {
+    "code": "33.13.170.005",
+    "villageCode": "005",
+    "districtCode": "33.13.170",
+    "name": "Sidomukti",
+    "alias": "Sidomukti"
+  },
+  {
+    "code": "33.13.170.006",
+    "villageCode": "006",
+    "districtCode": "33.13.170",
+    "name": "Balong",
+    "alias": "Balong"
+  },
+  {
+    "code": "33.13.170.007",
+    "villageCode": "007",
+    "districtCode": "33.13.170",
+    "name": "Seloromo",
+    "alias": "Seloromo"
+  },
+  {
+    "code": "33.13.170.008",
+    "villageCode": "008",
+    "districtCode": "33.13.170",
+    "name": "Menjing",
+    "alias": "Menjing"
+  },
+  {
+    "code": "33.13.170.009",
+    "villageCode": "009",
+    "districtCode": "33.13.170",
+    "name": "Lempong",
+    "alias": "Lempong"
+  }
+]

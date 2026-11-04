@@ -1,0 +1,37 @@
+[
+  {
+    "code": "95.01.130.001",
+    "villageCode": "001",
+    "districtCode": "95.01.130",
+    "name": "Senegi",
+    "alias": "Senegi"
+  },
+  {
+    "code": "95.01.130.002",
+    "villageCode": "002",
+    "districtCode": "95.01.130",
+    "name": "Baad",
+    "alias": "Baad"
+  },
+  {
+    "code": "95.01.130.003",
+    "villageCode": "003",
+    "districtCode": "95.01.130",
+    "name": "Wajau / Wayao",
+    "alias": "Wajau / Wayao"
+  },
+  {
+    "code": "95.01.130.004",
+    "villageCode": "004",
+    "districtCode": "95.01.130",
+    "name": "Koa",
+    "alias": "Koa"
+  },
+  {
+    "code": "95.01.130.005",
+    "villageCode": "005",
+    "districtCode": "95.01.130",
+    "name": "Kaisah",
+    "alias": "Kaisah"
+  }
+]

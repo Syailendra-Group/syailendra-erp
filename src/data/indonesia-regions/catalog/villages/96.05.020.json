@@ -1,0 +1,58 @@
+[
+  {
+    "code": "96.05.020.001",
+    "villageCode": "001",
+    "districtCode": "96.05.020",
+    "name": "Wejatadi",
+    "alias": "Wejatadi"
+  },
+  {
+    "code": "96.05.020.002",
+    "villageCode": "002",
+    "districtCode": "96.05.020",
+    "name": "Iyaitadi",
+    "alias": "Iyaitadi"
+  },
+  {
+    "code": "96.05.020.003",
+    "villageCode": "003",
+    "districtCode": "96.05.020",
+    "name": "Iyaidagi",
+    "alias": "Iyaidagi"
+  },
+  {
+    "code": "96.05.020.004",
+    "villageCode": "004",
+    "districtCode": "96.05.020",
+    "name": "Tipago",
+    "alias": "Tipago"
+  },
+  {
+    "code": "96.05.020.005",
+    "villageCode": "005",
+    "districtCode": "96.05.020",
+    "name": "Pugo Woge",
+    "alias": "Pugo Woge"
+  },
+  {
+    "code": "96.05.020.006",
+    "villageCode": "006",
+    "districtCode": "96.05.020",
+    "name": "Kopaidagi",
+    "alias": "Kopaidagi"
+  },
+  {
+    "code": "96.05.020.007",
+    "villageCode": "007",
+    "districtCode": "96.05.020",
+    "name": "Waiepo",
+    "alias": "Waiepo"
+  },
+  {
+    "code": "96.05.020.008",
+    "villageCode": "008",
+    "districtCode": "96.05.020",
+    "name": "Boba",
+    "alias": "Boba"
+  }
+]

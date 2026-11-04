@@ -1,0 +1,51 @@
+[
+  {
+    "code": "18.06.051.001",
+    "villageCode": "001",
+    "districtCode": "18.06.051",
+    "name": "Sukamaju",
+    "alias": "Sukamaju"
+  },
+  {
+    "code": "18.06.051.002",
+    "villageCode": "002",
+    "districtCode": "18.06.051",
+    "name": "Semuli Jaya",
+    "alias": "Semuli Jaya"
+  },
+  {
+    "code": "18.06.051.003",
+    "villageCode": "003",
+    "districtCode": "18.06.051",
+    "name": "Semuli Raya",
+    "alias": "Semuli Raya"
+  },
+  {
+    "code": "18.06.051.004",
+    "villageCode": "004",
+    "districtCode": "18.06.051",
+    "name": "Papan Asri",
+    "alias": "Papan Asri"
+  },
+  {
+    "code": "18.06.051.005",
+    "villageCode": "005",
+    "districtCode": "18.06.051",
+    "name": "Sido Rahayu",
+    "alias": "Sido Rahayu"
+  },
+  {
+    "code": "18.06.051.006",
+    "villageCode": "006",
+    "districtCode": "18.06.051",
+    "name": "Gunung Kramat",
+    "alias": "Gunung Kramat"
+  },
+  {
+    "code": "18.06.051.007",
+    "villageCode": "007",
+    "districtCode": "18.06.051",
+    "name": "Gunung Sari",
+    "alias": "Gunung Sari"
+  }
+]

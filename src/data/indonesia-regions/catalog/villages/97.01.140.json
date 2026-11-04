@@ -1,0 +1,72 @@
+[
+  {
+    "code": "97.01.140.001",
+    "villageCode": "001",
+    "districtCode": "97.01.140",
+    "name": "Lunggadumu",
+    "alias": "Lunggadumu"
+  },
+  {
+    "code": "97.01.140.002",
+    "villageCode": "002",
+    "districtCode": "97.01.140",
+    "name": "Mapenduma",
+    "alias": "Mapenduma"
+  },
+  {
+    "code": "97.01.140.003",
+    "villageCode": "003",
+    "districtCode": "97.01.140",
+    "name": "Yoe",
+    "alias": "Yoe"
+  },
+  {
+    "code": "97.01.140.004",
+    "villageCode": "004",
+    "districtCode": "97.01.140",
+    "name": "Palsam",
+    "alias": "Palsam"
+  },
+  {
+    "code": "97.01.140.005",
+    "villageCode": "005",
+    "districtCode": "97.01.140",
+    "name": "Endumu",
+    "alias": "Endumu"
+  },
+  {
+    "code": "97.01.140.006",
+    "villageCode": "006",
+    "districtCode": "97.01.140",
+    "name": "Litkui",
+    "alias": "Litkui"
+  },
+  {
+    "code": "97.01.140.007",
+    "villageCode": "007",
+    "districtCode": "97.01.140",
+    "name": "Nowomlusu",
+    "alias": "Nowomlusu"
+  },
+  {
+    "code": "97.01.140.008",
+    "villageCode": "008",
+    "districtCode": "97.01.140",
+    "name": "Kelapa Dua",
+    "alias": "Kelapa Dua"
+  },
+  {
+    "code": "97.01.140.009",
+    "villageCode": "009",
+    "districtCode": "97.01.140",
+    "name": "Dumdum",
+    "alias": "Dumdum"
+  },
+  {
+    "code": "97.01.140.010",
+    "villageCode": "010",
+    "districtCode": "97.01.140",
+    "name": "Duma",
+    "alias": "Duma"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "code": "35.12.110.001",
+    "villageCode": "001",
+    "districtCode": "35.12.110",
+    "name": "Trebungan",
+    "alias": "Trebungan"
+  },
+  {
+    "code": "35.12.110.002",
+    "villageCode": "002",
+    "districtCode": "35.12.110",
+    "name": "Mangaran",
+    "alias": "Mangaran"
+  },
+  {
+    "code": "35.12.110.003",
+    "villageCode": "003",
+    "districtCode": "35.12.110",
+    "name": "Tanjung Kamal",
+    "alias": "Tanjung Kamal"
+  },
+  {
+    "code": "35.12.110.004",
+    "villageCode": "004",
+    "districtCode": "35.12.110",
+    "name": "Tanjung Glugur",
+    "alias": "Tanjung Glugur"
+  },
+  {
+    "code": "35.12.110.005",
+    "villageCode": "005",
+    "districtCode": "35.12.110",
+    "name": "Tanjung Pecinan",
+    "alias": "Tanjung Pecinan"
+  },
+  {
+    "code": "35.12.110.006",
+    "villageCode": "006",
+    "districtCode": "35.12.110",
+    "name": "Semiring",
+    "alias": "Semiring"
+  }
+]

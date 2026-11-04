@@ -1,0 +1,51 @@
+[
+  {
+    "code": "61.09.060.001",
+    "villageCode": "001",
+    "districtCode": "61.09.060",
+    "name": "Belitang Satu",
+    "alias": "Belitang Satu"
+  },
+  {
+    "code": "61.09.060.002",
+    "villageCode": "002",
+    "districtCode": "61.09.060",
+    "name": "Belitang Dua",
+    "alias": "Belitang Dua"
+  },
+  {
+    "code": "61.09.060.003",
+    "villageCode": "003",
+    "districtCode": "61.09.060",
+    "name": "Padak",
+    "alias": "Padak"
+  },
+  {
+    "code": "61.09.060.004",
+    "villageCode": "004",
+    "districtCode": "61.09.060",
+    "name": "Setuntung",
+    "alias": "Setuntung"
+  },
+  {
+    "code": "61.09.060.005",
+    "villageCode": "005",
+    "districtCode": "61.09.060",
+    "name": "Nanga Ansar",
+    "alias": "Nanga Ansar"
+  },
+  {
+    "code": "61.09.060.006",
+    "villageCode": "006",
+    "districtCode": "61.09.060",
+    "name": "Manua Prama",
+    "alias": "Manua Prama"
+  },
+  {
+    "code": "61.09.060.007",
+    "villageCode": "007",
+    "districtCode": "61.09.060",
+    "name": "Maboh Permai",
+    "alias": "Maboh Permai"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "code": "35.15.020.001",
+    "villageCode": "001",
+    "districtCode": "35.15.020",
+    "name": "Prambon",
+    "alias": "Prambon"
+  },
+  {
+    "code": "35.15.020.002",
+    "villageCode": "002",
+    "districtCode": "35.15.020",
+    "name": "Kajartengguli",
+    "alias": "Kajartengguli"
+  },
+  {
+    "code": "35.15.020.003",
+    "villageCode": "003",
+    "districtCode": "35.15.020",
+    "name": "Gedangrowo",
+    "alias": "Gedangrowo"
+  },
+  {
+    "code": "35.15.020.004",
+    "villageCode": "004",
+    "districtCode": "35.15.020",
+    "name": "Wirobiting",
+    "alias": "Wirobiting"
+  },
+  {
+    "code": "35.15.020.005",
+    "villageCode": "005",
+    "districtCode": "35.15.020",
+    "name": "Simpang",
+    "alias": "Simpang"
+  },
+  {
+    "code": "35.15.020.006",
+    "villageCode": "006",
+    "districtCode": "35.15.020",
+    "name": "Bulang",
+    "alias": "Bulang"
+  },
+  {
+    "code": "35.15.020.007",
+    "villageCode": "007",
+    "districtCode": "35.15.020",
+    "name": "Gampang",
+    "alias": "Gampang"
+  },
+  {
+    "code": "35.15.020.008",
+    "villageCode": "008",
+    "districtCode": "35.15.020",
+    "name": "Jatikalang",
+    "alias": "Jatikalang"
+  },
+  {
+    "code": "35.15.020.009",
+    "villageCode": "009",
+    "districtCode": "35.15.020",
+    "name": "Pejangkungan",
+    "alias": "Pejangkungan"
+  },
+  {
+    "code": "35.15.020.010",
+    "villageCode": "010",
+    "districtCode": "35.15.020",
+    "name": "Kedungsugo",
+    "alias": "Kedungsugo"
+  },
+  {
+    "code": "35.15.020.011",
+    "villageCode": "011",
+    "districtCode": "35.15.020",
+    "name": "Kedungwonokerto",
+    "alias": "Kedungwonokerto"
+  },
+  {
+    "code": "35.15.020.012",
+    "villageCode": "012",
+    "districtCode": "35.15.020",
+    "name": "Bendotretek",
+    "alias": "Bendotretek"
+  },
+  {
+    "code": "35.15.020.013",
+    "villageCode": "013",
+    "districtCode": "35.15.020",
+    "name": "Wono Plintahan",
+    "alias": "Wono Plintahan"
+  },
+  {
+    "code": "35.15.020.014",
+    "villageCode": "014",
+    "districtCode": "35.15.020",
+    "name": "Kedungkembar",
+    "alias": "Kedungkembar"
+  },
+  {
+    "code": "35.15.020.015",
+    "villageCode": "015",
+    "districtCode": "35.15.020",
+    "name": "Jati Alun Alun",
+    "alias": "Jati Alun Alun"
+  },
+  {
+    "code": "35.15.020.016",
+    "villageCode": "016",
+    "districtCode": "35.15.020",
+    "name": "Jedongcangkring",
+    "alias": "Jedongcangkring"
+  },
+  {
+    "code": "35.15.020.017",
+    "villageCode": "017",
+    "districtCode": "35.15.020",
+    "name": "Cangkringturi",
+    "alias": "Cangkringturi"
+  },
+  {
+    "code": "35.15.020.018",
+    "villageCode": "018",
+    "districtCode": "35.15.020",
+    "name": "Simogirang",
+    "alias": "Simogirang"
+  },
+  {
+    "code": "35.15.020.019",
+    "villageCode": "019",
+    "districtCode": "35.15.020",
+    "name": "Temu",
+    "alias": "Temu"
+  },
+  {
+    "code": "35.15.020.020",
+    "villageCode": "020",
+    "districtCode": "35.15.020",
+    "name": "Watutulis",
+    "alias": "Watutulis"
+  }
+]

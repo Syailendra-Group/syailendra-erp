@@ -1,0 +1,79 @@
+[
+  {
+    "code": "74.12.020.001",
+    "villageCode": "001",
+    "districtCode": "74.12.020",
+    "name": "Wakadawu",
+    "alias": "Wakadawu"
+  },
+  {
+    "code": "74.12.020.003",
+    "villageCode": "003",
+    "districtCode": "74.12.020",
+    "name": "Tekonea",
+    "alias": "Tekonea"
+  },
+  {
+    "code": "74.12.020.004",
+    "villageCode": "004",
+    "districtCode": "74.12.020",
+    "name": "Lapulu",
+    "alias": "Lapulu"
+  },
+  {
+    "code": "74.12.020.005",
+    "villageCode": "005",
+    "districtCode": "74.12.020",
+    "name": "Munse",
+    "alias": "Munse"
+  },
+  {
+    "code": "74.12.020.006",
+    "villageCode": "006",
+    "districtCode": "74.12.020",
+    "name": "Laywo Jaya",
+    "alias": "Laywo Jaya"
+  },
+  {
+    "code": "74.12.020.007",
+    "villageCode": "007",
+    "districtCode": "74.12.020",
+    "name": "Munse Indah",
+    "alias": "Munse Indah"
+  },
+  {
+    "code": "74.12.020.008",
+    "villageCode": "008",
+    "districtCode": "74.12.020",
+    "name": "Lebo",
+    "alias": "Lebo"
+  },
+  {
+    "code": "74.12.020.009",
+    "villageCode": "009",
+    "districtCode": "74.12.020",
+    "name": "Nanga",
+    "alias": "Nanga"
+  },
+  {
+    "code": "74.12.020.010",
+    "villageCode": "010",
+    "districtCode": "74.12.020",
+    "name": "Butuea",
+    "alias": "Butuea"
+  },
+  {
+    "code": "74.12.020.011",
+    "villageCode": "011",
+    "districtCode": "74.12.020",
+    "name": "Lembono",
+    "alias": "Lembono"
+  },
+  {
+    "code": "74.12.020.012",
+    "villageCode": "012",
+    "districtCode": "74.12.020",
+    "name": "Saburano",
+    "alias": "Saburano"
+  }
+]

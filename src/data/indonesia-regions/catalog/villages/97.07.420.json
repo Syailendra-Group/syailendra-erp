@@ -1,0 +1,51 @@
+[
+  {
+    "code": "97.07.420.001",
+    "villageCode": "001",
+    "districtCode": "97.07.420",
+    "name": "Hilipuk",
+    "alias": "Hilipuk"
+  },
+  {
+    "code": "97.07.420.002",
+    "villageCode": "002",
+    "districtCode": "97.07.420",
+    "name": "Homodipmu",
+    "alias": "Homodipmu"
+  },
+  {
+    "code": "97.07.420.003",
+    "villageCode": "003",
+    "districtCode": "97.07.420",
+    "name": "Kini",
+    "alias": "Kini"
+  },
+  {
+    "code": "97.07.420.004",
+    "villageCode": "004",
+    "districtCode": "97.07.420",
+    "name": "Yaruhuk",
+    "alias": "Yaruhuk"
+  },
+  {
+    "code": "97.07.420.005",
+    "villageCode": "005",
+    "districtCode": "97.07.420",
+    "name": "Jamin",
+    "alias": "Jamin"
+  },
+  {
+    "code": "97.07.420.006",
+    "villageCode": "006",
+    "districtCode": "97.07.420",
+    "name": "Dindok",
+    "alias": "Dindok"
+  },
+  {
+    "code": "97.07.420.007",
+    "villageCode": "007",
+    "districtCode": "97.07.420",
+    "name": "Sohondipmu",
+    "alias": "Sohondipmu"
+  }
+]

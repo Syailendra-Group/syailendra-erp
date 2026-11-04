@@ -1,0 +1,65 @@
+[
+  {
+    "code": "52.06.040.005",
+    "villageCode": "005",
+    "districtCode": "52.06.040",
+    "name": "Ncera",
+    "alias": "Ncera"
+  },
+  {
+    "code": "52.06.040.006",
+    "villageCode": "006",
+    "districtCode": "52.06.040",
+    "name": "Lido",
+    "alias": "Lido"
+  },
+  {
+    "code": "52.06.040.007",
+    "villageCode": "007",
+    "districtCode": "52.06.040",
+    "name": "Ngali",
+    "alias": "Ngali"
+  },
+  {
+    "code": "52.06.040.008",
+    "villageCode": "008",
+    "districtCode": "52.06.040",
+    "name": "Renda",
+    "alias": "Renda"
+  },
+  {
+    "code": "52.06.040.009",
+    "villageCode": "009",
+    "districtCode": "52.06.040",
+    "name": "Cenggu",
+    "alias": "Cenggu"
+  },
+  {
+    "code": "52.06.040.010",
+    "villageCode": "010",
+    "districtCode": "52.06.040",
+    "name": "Runggu",
+    "alias": "Runggu"
+  },
+  {
+    "code": "52.06.040.018",
+    "villageCode": "018",
+    "districtCode": "52.06.040",
+    "name": "Soki",
+    "alias": "Soki"
+  },
+  {
+    "code": "52.06.040.019",
+    "villageCode": "019",
+    "districtCode": "52.06.040",
+    "name": "Roka",
+    "alias": "Roka"
+  },
+  {
+    "code": "52.06.040.020",
+    "villageCode": "020",
+    "districtCode": "52.06.040",
+    "name": "Diha",
+    "alias": "Diha"
+  }
+]

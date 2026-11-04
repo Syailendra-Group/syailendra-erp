@@ -1,0 +1,107 @@
+[
+  {
+    "code": "32.11.070.001",
+    "villageCode": "001",
+    "districtCode": "32.11.070",
+    "name": "Bangbayang",
+    "alias": "Bangbayang"
+  },
+  {
+    "code": "32.11.070.002",
+    "villageCode": "002",
+    "districtCode": "32.11.070",
+    "name": "Kaduwulung",
+    "alias": "Kaduwulung"
+  },
+  {
+    "code": "32.11.070.011",
+    "villageCode": "011",
+    "districtCode": "32.11.070",
+    "name": "Cijati",
+    "alias": "Cijati"
+  },
+  {
+    "code": "32.11.070.012",
+    "villageCode": "012",
+    "districtCode": "32.11.070",
+    "name": "Mekarmulya",
+    "alias": "Mekarmulya"
+  },
+  {
+    "code": "32.11.070.013",
+    "villageCode": "013",
+    "districtCode": "32.11.070",
+    "name": "Cikadu",
+    "alias": "Cikadu"
+  },
+  {
+    "code": "32.11.070.014",
+    "villageCode": "014",
+    "districtCode": "32.11.070",
+    "name": "Karangheuleut",
+    "alias": "Karangheuleut"
+  },
+  {
+    "code": "32.11.070.015",
+    "villageCode": "015",
+    "districtCode": "32.11.070",
+    "name": "Cijeler",
+    "alias": "Cijeler"
+  },
+  {
+    "code": "32.11.070.016",
+    "villageCode": "016",
+    "districtCode": "32.11.070",
+    "name": "Ambit",
+    "alias": "Ambit"
+  },
+  {
+    "code": "32.11.070.017",
+    "villageCode": "017",
+    "districtCode": "32.11.070",
+    "name": "Sukatali",
+    "alias": "Sukatali"
+  },
+  {
+    "code": "32.11.070.018",
+    "villageCode": "018",
+    "districtCode": "32.11.070",
+    "name": "Situraja",
+    "alias": "Situraja"
+  },
+  {
+    "code": "32.11.070.019",
+    "villageCode": "019",
+    "districtCode": "32.11.070",
+    "name": "Jatimekar",
+    "alias": "Jatimekar"
+  },
+  {
+    "code": "32.11.070.020",
+    "villageCode": "020",
+    "districtCode": "32.11.070",
+    "name": "Situraja Utara",
+    "alias": "Situraja Utara"
+  },
+  {
+    "code": "32.11.070.021",
+    "villageCode": "021",
+    "districtCode": "32.11.070",
+    "name": "Malaka",
+    "alias": "Malaka"
+  },
+  {
+    "code": "32.11.070.022",
+    "villageCode": "022",
+    "districtCode": "32.11.070",
+    "name": "Pamulihan",
+    "alias": "Pamulihan"
+  },
+  {
+    "code": "32.11.070.023",
+    "villageCode": "023",
+    "districtCode": "32.11.070",
+    "name": "Cicarimanah",
+    "alias": "Cicarimanah"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "code": "33.71.010",
+    "districtCode": "010",
+    "regencyCode": "33.71",
+    "provinceCode": "33",
+    "name": "Kecamatan Magelang Selatan",
+    "alias": "Magelang Selatan"
+  },
+  {
+    "code": "33.71.011",
+    "districtCode": "011",
+    "regencyCode": "33.71",
+    "provinceCode": "33",
+    "name": "Kecamatan Magelang Tengah",
+    "alias": "Magelang Tengah"
+  },
+  {
+    "code": "33.71.020",
+    "districtCode": "020",
+    "regencyCode": "33.71",
+    "provinceCode": "33",
+    "name": "Kecamatan Magelang Utara",
+    "alias": "Magelang Utara"
+  }
+]

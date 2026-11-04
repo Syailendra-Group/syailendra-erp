@@ -1,0 +1,37 @@
+[
+  {
+    "code": "32.76.031.001",
+    "villageCode": "001",
+    "districtCode": "32.76.031",
+    "name": "Kalimulya",
+    "alias": "Kalimulya"
+  },
+  {
+    "code": "32.76.031.002",
+    "villageCode": "002",
+    "districtCode": "32.76.031",
+    "name": "Jatimulya",
+    "alias": "Jatimulya"
+  },
+  {
+    "code": "32.76.031.003",
+    "villageCode": "003",
+    "districtCode": "32.76.031",
+    "name": "Kalibaru",
+    "alias": "Kalibaru"
+  },
+  {
+    "code": "32.76.031.004",
+    "villageCode": "004",
+    "districtCode": "32.76.031",
+    "name": "Cilodong",
+    "alias": "Cilodong"
+  },
+  {
+    "code": "32.76.031.005",
+    "villageCode": "005",
+    "districtCode": "32.76.031",
+    "name": "Sukamaju",
+    "alias": "Sukamaju"
+  }
+]

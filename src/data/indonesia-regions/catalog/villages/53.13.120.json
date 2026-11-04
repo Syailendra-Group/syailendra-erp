@@ -1,0 +1,170 @@
+[
+  {
+    "code": "53.13.120.004",
+    "villageCode": "004",
+    "districtCode": "53.13.120",
+    "name": "Bulan",
+    "alias": "Bulan"
+  },
+  {
+    "code": "53.13.120.005",
+    "villageCode": "005",
+    "districtCode": "53.13.120",
+    "name": "Pong Lao",
+    "alias": "Pong Lao"
+  },
+  {
+    "code": "53.13.120.006",
+    "villageCode": "006",
+    "districtCode": "53.13.120",
+    "name": "Cumbi",
+    "alias": "Cumbi"
+  },
+  {
+    "code": "53.13.120.007",
+    "villageCode": "007",
+    "districtCode": "53.13.120",
+    "name": "Poco Likang",
+    "alias": "Poco Likang"
+  },
+  {
+    "code": "53.13.120.008",
+    "villageCode": "008",
+    "districtCode": "53.13.120",
+    "name": "Pong Murung",
+    "alias": "Pong Murung"
+  },
+  {
+    "code": "53.13.120.009",
+    "villageCode": "009",
+    "districtCode": "53.13.120",
+    "name": "Pong Leko",
+    "alias": "Pong Leko"
+  },
+  {
+    "code": "53.13.120.011",
+    "villageCode": "011",
+    "districtCode": "53.13.120",
+    "name": "Belang Turi",
+    "alias": "Belang Turi"
+  },
+  {
+    "code": "53.13.120.012",
+    "villageCode": "012",
+    "districtCode": "53.13.120",
+    "name": "Goloworok",
+    "alias": "Goloworok"
+  },
+  {
+    "code": "53.13.120.013",
+    "villageCode": "013",
+    "districtCode": "53.13.120",
+    "name": "Meler",
+    "alias": "Meler"
+  },
+  {
+    "code": "53.13.120.014",
+    "villageCode": "014",
+    "districtCode": "53.13.120",
+    "name": "Wae Belang",
+    "alias": "Wae Belang"
+  },
+  {
+    "code": "53.13.120.015",
+    "villageCode": "015",
+    "districtCode": "53.13.120",
+    "name": "Rai",
+    "alias": "Rai"
+  },
+  {
+    "code": "53.13.120.016",
+    "villageCode": "016",
+    "districtCode": "53.13.120",
+    "name": "Benteng Kuwu",
+    "alias": "Benteng Kuwu"
+  },
+  {
+    "code": "53.13.120.017",
+    "villageCode": "017",
+    "districtCode": "53.13.120",
+    "name": "Kakor",
+    "alias": "Kakor"
+  },
+  {
+    "code": "53.13.120.018",
+    "villageCode": "018",
+    "districtCode": "53.13.120",
+    "name": "Beo Rahong",
+    "alias": "Beo Rahong"
+  },
+  {
+    "code": "53.13.120.029",
+    "villageCode": "029",
+    "districtCode": "53.13.120",
+    "name": "Bangka Lao",
+    "alias": "Bangka Lao"
+  },
+  {
+    "code": "53.13.120.030",
+    "villageCode": "030",
+    "districtCode": "53.13.120",
+    "name": "Compang Dalo",
+    "alias": "Compang Dalo"
+  },
+  {
+    "code": "53.13.120.031",
+    "villageCode": "031",
+    "districtCode": "53.13.120",
+    "name": "Compang Namut",
+    "alias": "Compang Namut"
+  },
+  {
+    "code": "53.13.120.032",
+    "villageCode": "032",
+    "districtCode": "53.13.120",
+    "name": "Pong Lale",
+    "alias": "Pong Lale"
+  },
+  {
+    "code": "53.13.120.033",
+    "villageCode": "033",
+    "districtCode": "53.13.120",
+    "name": "Bea Kakor",
+    "alias": "Bea Kakor"
+  },
+  {
+    "code": "53.13.120.034",
+    "villageCode": "034",
+    "districtCode": "53.13.120",
+    "name": "Desa Persiapan Bung",
+    "alias": "Desa Persiapan Bung"
+  },
+  {
+    "code": "53.13.120.035",
+    "villageCode": "035",
+    "districtCode": "53.13.120",
+    "name": "Desa Persiapan Bangka Wela",
+    "alias": "Desa Persiapan Bangka Wela"
+  },
+  {
+    "code": "53.13.120.036",
+    "villageCode": "036",
+    "districtCode": "53.13.120",
+    "name": "Desa Persiapan Pong Ndung",
+    "alias": "Desa Persiapan Pong Ndung"
+  },
+  {
+    "code": "53.13.120.037",
+    "villageCode": "037",
+    "districtCode": "53.13.120",
+    "name": "Desa Persiapan Benteng Wake",
+    "alias": "Desa Persiapan Benteng Wake"
+  },
+  {
+    "code": "53.13.120.038",
+    "villageCode": "038",
+    "districtCode": "53.13.120",
+    "name": "Desa Persiapan Golo Cumang",
+    "alias": "Desa Persiapan Golo Cumang"
+  }
+]

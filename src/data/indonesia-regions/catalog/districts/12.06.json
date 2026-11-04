@@ -1,0 +1,130 @@
+[
+  {
+    "code": "12.06.030",
+    "districtCode": "030",
+    "regencyCode": "12.06",
+    "provinceCode": "12",
+    "name": "Kecamatan Balige",
+    "alias": "Balige"
+  },
+  {
+    "code": "12.06.031",
+    "districtCode": "031",
+    "regencyCode": "12.06",
+    "provinceCode": "12",
+    "name": "Kecamatan Tampahan",
+    "alias": "Tampahan"
+  },
+  {
+    "code": "12.06.040",
+    "districtCode": "040",
+    "regencyCode": "12.06",
+    "provinceCode": "12",
+    "name": "Kecamatan Laguboti",
+    "alias": "Laguboti"
+  },
+  {
+    "code": "12.06.050",
+    "districtCode": "050",
+    "regencyCode": "12.06",
+    "provinceCode": "12",
+    "name": "Kecamatan Habinsaran",
+    "alias": "Habinsaran"
+  },
+  {
+    "code": "12.06.051",
+    "districtCode": "051",
+    "regencyCode": "12.06",
+    "provinceCode": "12",
+    "name": "Kecamatan Borbor",
+    "alias": "Borbor"
+  },
+  {
+    "code": "12.06.052",
+    "districtCode": "052",
+    "regencyCode": "12.06",
+    "provinceCode": "12",
+    "name": "Kecamatan Nassau",
+    "alias": "Nassau"
+  },
+  {
+    "code": "12.06.060",
+    "districtCode": "060",
+    "regencyCode": "12.06",
+    "provinceCode": "12",
+    "name": "Kecamatan Silaen",
+    "alias": "Silaen"
+  },
+  {
+    "code": "12.06.061",
+    "districtCode": "061",
+    "regencyCode": "12.06",
+    "provinceCode": "12",
+    "name": "Kecamatan Sigumpar",
+    "alias": "Sigumpar"
+  },
+  {
+    "code": "12.06.070",
+    "districtCode": "070",
+    "regencyCode": "12.06",
+    "provinceCode": "12",
+    "name": "Kecamatan Porsea",
+    "alias": "Porsea"
+  },
+  {
+    "code": "12.06.071",
+    "districtCode": "071",
+    "regencyCode": "12.06",
+    "provinceCode": "12",
+    "name": "Kecamatan Pintu Pohan Meranti",
+    "alias": "Pintu Pohan Meranti"
+  },
+  {
+    "code": "12.06.072",
+    "districtCode": "072",
+    "regencyCode": "12.06",
+    "provinceCode": "12",
+    "name": "Kecamatan Siantar Narumonda",
+    "alias": "Siantar Narumonda"
+  },
+  {
+    "code": "12.06.073",
+    "districtCode": "073",
+    "regencyCode": "12.06",
+    "provinceCode": "12",
+    "name": "Kecamatan Parmaksian",
+    "alias": "Parmaksian"
+  },
+  {
+    "code": "12.06.080",
+    "districtCode": "080",
+    "regencyCode": "12.06",
+    "provinceCode": "12",
+    "name": "Kecamatan Lumban Julu",
+    "alias": "Lumban Julu"
+  },
+  {
+    "code": "12.06.081",
+    "districtCode": "081",
+    "regencyCode": "12.06",
+    "provinceCode": "12",
+    "name": "Kecamatan Uluan",
+    "alias": "Uluan"
+  },
+  {
+    "code": "12.06.082",
+    "districtCode": "082",
+    "regencyCode": "12.06",
+    "provinceCode": "12",
+    "name": "Kecamatan Ajibata",
+    "alias": "Ajibata"
+  },
+  {
+    "code": "12.06.083",
+    "districtCode": "083",
+    "regencyCode": "12.06",
+    "provinceCode": "12",
+    "name": "Kecamatan Bonatua Lunasi",
+    "alias": "Bonatua Lunasi"
+  }
+]

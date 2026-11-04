@@ -1,0 +1,34 @@
+[
+  {
+    "code": "71.74.010",
+    "districtCode": "010",
+    "regencyCode": "71.74",
+    "provinceCode": "71",
+    "name": "Kecamatan Kotamobagu Selatan",
+    "alias": "Kotamobagu Selatan"
+  },
+  {
+    "code": "71.74.020",
+    "districtCode": "020",
+    "regencyCode": "71.74",
+    "provinceCode": "71",
+    "name": "Kecamatan Kotamobagu Timur",
+    "alias": "Kotamobagu Timur"
+  },
+  {
+    "code": "71.74.030",
+    "districtCode": "030",
+    "regencyCode": "71.74",
+    "provinceCode": "71",
+    "name": "Kecamatan Kotamobagu Barat",
+    "alias": "Kotamobagu Barat"
+  },
+  {
+    "code": "71.74.040",
+    "districtCode": "040",
+    "regencyCode": "71.74",
+    "provinceCode": "71",
+    "name": "Kecamatan Kotamobagu Utara",
+    "alias": "Kotamobagu Utara"
+  }
+]

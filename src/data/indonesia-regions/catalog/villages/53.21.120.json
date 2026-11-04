@@ -1,0 +1,30 @@
+[
+  {
+    "code": "53.21.120.001",
+    "villageCode": "001",
+    "districtCode": "53.21.120",
+    "name": "Alas Selatan",
+    "alias": "Alas Selatan"
+  },
+  {
+    "code": "53.21.120.002",
+    "villageCode": "002",
+    "districtCode": "53.21.120",
+    "name": "Alas",
+    "alias": "Alas"
+  },
+  {
+    "code": "53.21.120.003",
+    "villageCode": "003",
+    "districtCode": "53.21.120",
+    "name": "Kotabiru",
+    "alias": "Kotabiru"
+  },
+  {
+    "code": "53.21.120.004",
+    "villageCode": "004",
+    "districtCode": "53.21.120",
+    "name": "Alas Utara",
+    "alias": "Alas Utara"
+  }
+]

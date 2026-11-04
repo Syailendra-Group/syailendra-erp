@@ -1,0 +1,86 @@
+[
+  {
+    "code": "32.08.090.001",
+    "villageCode": "001",
+    "districtCode": "32.08.090",
+    "name": "Cihideunggirang",
+    "alias": "Cihideunggirang"
+  },
+  {
+    "code": "32.08.090.002",
+    "villageCode": "002",
+    "districtCode": "32.08.090",
+    "name": "Cihideunghilir",
+    "alias": "Cihideunghilir"
+  },
+  {
+    "code": "32.08.090.003",
+    "villageCode": "003",
+    "districtCode": "32.08.090",
+    "name": "Cidahu",
+    "alias": "Cidahu"
+  },
+  {
+    "code": "32.08.090.004",
+    "villageCode": "004",
+    "districtCode": "32.08.090",
+    "name": "Kertawinangun",
+    "alias": "Kertawinangun"
+  },
+  {
+    "code": "32.08.090.005",
+    "villageCode": "005",
+    "districtCode": "32.08.090",
+    "name": "Datar",
+    "alias": "Datar"
+  },
+  {
+    "code": "32.08.090.006",
+    "villageCode": "006",
+    "districtCode": "32.08.090",
+    "name": "Bunder",
+    "alias": "Bunder"
+  },
+  {
+    "code": "32.08.090.007",
+    "villageCode": "007",
+    "districtCode": "32.08.090",
+    "name": "Legok",
+    "alias": "Legok"
+  },
+  {
+    "code": "32.08.090.008",
+    "villageCode": "008",
+    "districtCode": "32.08.090",
+    "name": "Cieurih",
+    "alias": "Cieurih"
+  },
+  {
+    "code": "32.08.090.009",
+    "villageCode": "009",
+    "districtCode": "32.08.090",
+    "name": "Nanggela",
+    "alias": "Nanggela"
+  },
+  {
+    "code": "32.08.090.016",
+    "villageCode": "016",
+    "districtCode": "32.08.090",
+    "name": "Cibulan",
+    "alias": "Cibulan"
+  },
+  {
+    "code": "32.08.090.017",
+    "villageCode": "017",
+    "districtCode": "32.08.090",
+    "name": "Cikeusik",
+    "alias": "Cikeusik"
+  },
+  {
+    "code": "32.08.090.018",
+    "villageCode": "018",
+    "districtCode": "32.08.090",
+    "name": "Jatimulya",
+    "alias": "Jatimulya"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "code": "35.06.220.001",
+    "villageCode": "001",
+    "districtCode": "35.06.220",
+    "name": "Kalipang",
+    "alias": "Kalipang"
+  },
+  {
+    "code": "35.06.220.002",
+    "villageCode": "002",
+    "districtCode": "35.06.220",
+    "name": "Grogol",
+    "alias": "Grogol"
+  },
+  {
+    "code": "35.06.220.003",
+    "villageCode": "003",
+    "districtCode": "35.06.220",
+    "name": "Wonoasri",
+    "alias": "Wonoasri"
+  },
+  {
+    "code": "35.06.220.004",
+    "villageCode": "004",
+    "districtCode": "35.06.220",
+    "name": "Sonorejo",
+    "alias": "Sonorejo"
+  },
+  {
+    "code": "35.06.220.005",
+    "villageCode": "005",
+    "districtCode": "35.06.220",
+    "name": "Bakalan",
+    "alias": "Bakalan"
+  },
+  {
+    "code": "35.06.220.006",
+    "villageCode": "006",
+    "districtCode": "35.06.220",
+    "name": "Datengan",
+    "alias": "Datengan"
+  },
+  {
+    "code": "35.06.220.007",
+    "villageCode": "007",
+    "districtCode": "35.06.220",
+    "name": "Gambyok",
+    "alias": "Gambyok"
+  },
+  {
+    "code": "35.06.220.008",
+    "villageCode": "008",
+    "districtCode": "35.06.220",
+    "name": "Sumberjo",
+    "alias": "Sumberjo"
+  },
+  {
+    "code": "35.06.220.009",
+    "villageCode": "009",
+    "districtCode": "35.06.220",
+    "name": "Cerme",
+    "alias": "Cerme"
+  }
+]

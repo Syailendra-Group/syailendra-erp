@@ -1,0 +1,44 @@
+[
+  {
+    "code": "53.03.101.001",
+    "villageCode": "001",
+    "districtCode": "53.03.101",
+    "name": "Naikean",
+    "alias": "Naikean"
+  },
+  {
+    "code": "53.03.101.002",
+    "villageCode": "002",
+    "districtCode": "53.03.101",
+    "name": "Akle",
+    "alias": "Akle"
+  },
+  {
+    "code": "53.03.101.003",
+    "villageCode": "003",
+    "districtCode": "53.03.101",
+    "name": "Uitiuh Ana",
+    "alias": "Uitiuh Ana"
+  },
+  {
+    "code": "53.03.101.004",
+    "villageCode": "004",
+    "districtCode": "53.03.101",
+    "name": "Onansila",
+    "alias": "Onansila"
+  },
+  {
+    "code": "53.03.101.005",
+    "villageCode": "005",
+    "districtCode": "53.03.101",
+    "name": "Uitiuhtuan",
+    "alias": "Uitiuhtuan"
+  },
+  {
+    "code": "53.03.101.006",
+    "villageCode": "006",
+    "districtCode": "53.03.101",
+    "name": "Uiboa",
+    "alias": "Uiboa"
+  }
+]

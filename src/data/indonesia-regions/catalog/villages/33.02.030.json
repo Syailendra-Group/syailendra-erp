@@ -1,0 +1,79 @@
+[
+  {
+    "code": "33.02.030.001",
+    "villageCode": "001",
+    "districtCode": "33.02.030",
+    "name": "Gunung Wetan",
+    "alias": "Gunung Wetan"
+  },
+  {
+    "code": "33.02.030.002",
+    "villageCode": "002",
+    "districtCode": "33.02.030",
+    "name": "Pekuncen",
+    "alias": "Pekuncen"
+  },
+  {
+    "code": "33.02.030.003",
+    "villageCode": "003",
+    "districtCode": "33.02.030",
+    "name": "Karanglewas",
+    "alias": "Karanglewas"
+  },
+  {
+    "code": "33.02.030.004",
+    "villageCode": "004",
+    "districtCode": "33.02.030",
+    "name": "Karanganyar",
+    "alias": "Karanganyar"
+  },
+  {
+    "code": "33.02.030.005",
+    "villageCode": "005",
+    "districtCode": "33.02.030",
+    "name": "Margasana",
+    "alias": "Margasana"
+  },
+  {
+    "code": "33.02.030.006",
+    "villageCode": "006",
+    "districtCode": "33.02.030",
+    "name": "Adisara",
+    "alias": "Adisara"
+  },
+  {
+    "code": "33.02.030.007",
+    "villageCode": "007",
+    "districtCode": "33.02.030",
+    "name": "Kedungwringin",
+    "alias": "Kedungwringin"
+  },
+  {
+    "code": "33.02.030.008",
+    "villageCode": "008",
+    "districtCode": "33.02.030",
+    "name": "Bantar",
+    "alias": "Bantar"
+  },
+  {
+    "code": "33.02.030.009",
+    "villageCode": "009",
+    "districtCode": "33.02.030",
+    "name": "Tinggarjaya",
+    "alias": "Tinggarjaya"
+  },
+  {
+    "code": "33.02.030.010",
+    "villageCode": "010",
+    "districtCode": "33.02.030",
+    "name": "Tunjung",
+    "alias": "Tunjung"
+  },
+  {
+    "code": "33.02.030.011",
+    "villageCode": "011",
+    "districtCode": "33.02.030",
+    "name": "Gentawangi",
+    "alias": "Gentawangi"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "code": "15.71.010",
+    "districtCode": "010",
+    "regencyCode": "15.71",
+    "provinceCode": "15",
+    "name": "Kecamatan Kota Baru",
+    "alias": "Kota Baru"
+  },
+  {
+    "code": "15.71.011",
+    "districtCode": "011",
+    "regencyCode": "15.71",
+    "provinceCode": "15",
+    "name": "Kecamatan Alam Barajo",
+    "alias": "Alam Barajo"
+  },
+  {
+    "code": "15.71.020",
+    "districtCode": "020",
+    "regencyCode": "15.71",
+    "provinceCode": "15",
+    "name": "Kecamatan Jambi Selatan",
+    "alias": "Jambi Selatan"
+  },
+  {
+    "code": "15.71.021",
+    "districtCode": "021",
+    "regencyCode": "15.71",
+    "provinceCode": "15",
+    "name": "Kecamatan Paal Merah",
+    "alias": "Paal Merah"
+  },
+  {
+    "code": "15.71.030",
+    "districtCode": "030",
+    "regencyCode": "15.71",
+    "provinceCode": "15",
+    "name": "Kecamatan Jelutung",
+    "alias": "Jelutung"
+  },
+  {
+    "code": "15.71.040",
+    "districtCode": "040",
+    "regencyCode": "15.71",
+    "provinceCode": "15",
+    "name": "Kecamatan Pasar Jambi",
+    "alias": "Pasar Jambi"
+  },
+  {
+    "code": "15.71.050",
+    "districtCode": "050",
+    "regencyCode": "15.71",
+    "provinceCode": "15",
+    "name": "Kecamatan Telanaipura",
+    "alias": "Telanaipura"
+  },
+  {
+    "code": "15.71.051",
+    "districtCode": "051",
+    "regencyCode": "15.71",
+    "provinceCode": "15",
+    "name": "Kecamatan Danau Sipin",
+    "alias": "Danau Sipin"
+  },
+  {
+    "code": "15.71.060",
+    "districtCode": "060",
+    "regencyCode": "15.71",
+    "provinceCode": "15",
+    "name": "Kecamatan Danau Teluk",
+    "alias": "Danau Teluk"
+  },
+  {
+    "code": "15.71.070",
+    "districtCode": "070",
+    "regencyCode": "15.71",
+    "provinceCode": "15",
+    "name": "Kecamatan Pelayangan",
+    "alias": "Pelayangan"
+  },
+  {
+    "code": "15.71.080",
+    "districtCode": "080",
+    "regencyCode": "15.71",
+    "provinceCode": "15",
+    "name": "Kecamatan Jambi Timur",
+    "alias": "Jambi Timur"
+  }
+]

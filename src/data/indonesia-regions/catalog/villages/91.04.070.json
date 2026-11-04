@@ -1,0 +1,58 @@
+[
+  {
+    "code": "91.04.070.008",
+    "villageCode": "008",
+    "districtCode": "91.04.070",
+    "name": "Manunggal Jaya/Hti 2",
+    "alias": "Manunggal Jaya/Hti 2"
+  },
+  {
+    "code": "91.04.070.009",
+    "villageCode": "009",
+    "districtCode": "91.04.070",
+    "name": "Kecap",
+    "alias": "Kecap"
+  },
+  {
+    "code": "91.04.070.010",
+    "villageCode": "010",
+    "districtCode": "91.04.070",
+    "name": "Aranday",
+    "alias": "Aranday"
+  },
+  {
+    "code": "91.04.070.011",
+    "villageCode": "011",
+    "districtCode": "91.04.070",
+    "name": "Kampung Baru",
+    "alias": "Kampung Baru"
+  },
+  {
+    "code": "91.04.070.012",
+    "villageCode": "012",
+    "districtCode": "91.04.070",
+    "name": "Yakora",
+    "alias": "Yakora"
+  },
+  {
+    "code": "91.04.070.013",
+    "villageCode": "013",
+    "districtCode": "91.04.070",
+    "name": "Irira",
+    "alias": "Irira"
+  },
+  {
+    "code": "91.04.070.014",
+    "villageCode": "014",
+    "districtCode": "91.04.070",
+    "name": "Botonik",
+    "alias": "Botonik"
+  },
+  {
+    "code": "91.04.070.015",
+    "villageCode": "015",
+    "districtCode": "91.04.070",
+    "name": "Kandarin",
+    "alias": "Kandarin"
+  }
+]

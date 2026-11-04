@@ -1,0 +1,51 @@
+[
+  {
+    "code": "12.08.100.001",
+    "villageCode": "001",
+    "districtCode": "12.08.100",
+    "name": "Binjai Serbangan",
+    "alias": "Binjai Serbangan"
+  },
+  {
+    "code": "12.08.100.002",
+    "villageCode": "002",
+    "districtCode": "12.08.100",
+    "name": "Air Joman",
+    "alias": "Air Joman"
+  },
+  {
+    "code": "12.08.100.003",
+    "villageCode": "003",
+    "districtCode": "12.08.100",
+    "name": "Air Joman Baru",
+    "alias": "Air Joman Baru"
+  },
+  {
+    "code": "12.08.100.004",
+    "villageCode": "004",
+    "districtCode": "12.08.100",
+    "name": "Punggulan",
+    "alias": "Punggulan"
+  },
+  {
+    "code": "12.08.100.005",
+    "villageCode": "005",
+    "districtCode": "12.08.100",
+    "name": "Pasar Lembu",
+    "alias": "Pasar Lembu"
+  },
+  {
+    "code": "12.08.100.007",
+    "villageCode": "007",
+    "districtCode": "12.08.100",
+    "name": "Banjar",
+    "alias": "Banjar"
+  },
+  {
+    "code": "12.08.100.008",
+    "villageCode": "008",
+    "districtCode": "12.08.100",
+    "name": "Subur",
+    "alias": "Subur"
+  }
+]

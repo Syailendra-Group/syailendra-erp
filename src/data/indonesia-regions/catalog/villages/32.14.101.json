@@ -1,0 +1,65 @@
+[
+  {
+    "code": "32.14.101.001",
+    "villageCode": "001",
+    "districtCode": "32.14.101",
+    "name": "Maracang",
+    "alias": "Maracang"
+  },
+  {
+    "code": "32.14.101.002",
+    "villageCode": "002",
+    "districtCode": "32.14.101",
+    "name": "Ciwareng",
+    "alias": "Ciwareng"
+  },
+  {
+    "code": "32.14.101.003",
+    "villageCode": "003",
+    "districtCode": "32.14.101",
+    "name": "Mulyamekar",
+    "alias": "Mulyamekar"
+  },
+  {
+    "code": "32.14.101.004",
+    "villageCode": "004",
+    "districtCode": "32.14.101",
+    "name": "Cigelam",
+    "alias": "Cigelam"
+  },
+  {
+    "code": "32.14.101.005",
+    "villageCode": "005",
+    "districtCode": "32.14.101",
+    "name": "Babakancikao",
+    "alias": "Babakancikao"
+  },
+  {
+    "code": "32.14.101.006",
+    "villageCode": "006",
+    "districtCode": "32.14.101",
+    "name": "Kadumekar",
+    "alias": "Kadumekar"
+  },
+  {
+    "code": "32.14.101.007",
+    "villageCode": "007",
+    "districtCode": "32.14.101",
+    "name": "Hegarmanah",
+    "alias": "Hegarmanah"
+  },
+  {
+    "code": "32.14.101.008",
+    "villageCode": "008",
+    "districtCode": "32.14.101",
+    "name": "Cicadas",
+    "alias": "Cicadas"
+  },
+  {
+    "code": "32.14.101.009",
+    "villageCode": "009",
+    "districtCode": "32.14.101",
+    "name": "Cilangkap",
+    "alias": "Cilangkap"
+  }
+]

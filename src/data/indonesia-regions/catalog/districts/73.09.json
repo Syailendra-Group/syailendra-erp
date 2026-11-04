@@ -1,0 +1,106 @@
+[
+  {
+    "code": "73.09.010",
+    "districtCode": "010",
+    "regencyCode": "73.09",
+    "provinceCode": "73",
+    "name": "Kecamatan Liukang Tangaya",
+    "alias": "Liukang Tangaya"
+  },
+  {
+    "code": "73.09.020",
+    "districtCode": "020",
+    "regencyCode": "73.09",
+    "provinceCode": "73",
+    "name": "Kecamatan Liukang Kalmas",
+    "alias": "Liukang Kalmas"
+  },
+  {
+    "code": "73.09.030",
+    "districtCode": "030",
+    "regencyCode": "73.09",
+    "provinceCode": "73",
+    "name": "Kecamatan Liukang Tupabbiring",
+    "alias": "Liukang Tupabbiring"
+  },
+  {
+    "code": "73.09.031",
+    "districtCode": "031",
+    "regencyCode": "73.09",
+    "provinceCode": "73",
+    "name": "Kecamatan Liukang Tupabbiring Utara",
+    "alias": "Liukang Tupabbiring Utara"
+  },
+  {
+    "code": "73.09.040",
+    "districtCode": "040",
+    "regencyCode": "73.09",
+    "provinceCode": "73",
+    "name": "Kecamatan Pangkajene",
+    "alias": "Pangkajene"
+  },
+  {
+    "code": "73.09.041",
+    "districtCode": "041",
+    "regencyCode": "73.09",
+    "provinceCode": "73",
+    "name": "Kecamatan Minasatene",
+    "alias": "Minasatene"
+  },
+  {
+    "code": "73.09.050",
+    "districtCode": "050",
+    "regencyCode": "73.09",
+    "provinceCode": "73",
+    "name": "Kecamatan Balocci",
+    "alias": "Balocci"
+  },
+  {
+    "code": "73.09.051",
+    "districtCode": "051",
+    "regencyCode": "73.09",
+    "provinceCode": "73",
+    "name": "Kecamatan Tondong Tallasa",
+    "alias": "Tondong Tallasa"
+  },
+  {
+    "code": "73.09.060",
+    "districtCode": "060",
+    "regencyCode": "73.09",
+    "provinceCode": "73",
+    "name": "Kecamatan Bungoro",
+    "alias": "Bungoro"
+  },
+  {
+    "code": "73.09.070",
+    "districtCode": "070",
+    "regencyCode": "73.09",
+    "provinceCode": "73",
+    "name": "Kecamatan Labakkang",
+    "alias": "Labakkang"
+  },
+  {
+    "code": "73.09.080",
+    "districtCode": "080",
+    "regencyCode": "73.09",
+    "provinceCode": "73",
+    "name": "Kecamatan Ma'Rang",
+    "alias": "Ma'Rang"
+  },
+  {
+    "code": "73.09.091",
+    "districtCode": "091",
+    "regencyCode": "73.09",
+    "provinceCode": "73",
+    "name": "Kecamatan Segeri",
+    "alias": "Segeri"
+  },
+  {
+    "code": "73.09.092",
+    "districtCode": "092",
+    "regencyCode": "73.09",
+    "provinceCode": "73",
+    "name": "Kecamatan Mandalle",
+    "alias": "Mandalle"
+  }
+]

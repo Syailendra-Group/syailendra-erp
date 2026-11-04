@@ -1,0 +1,72 @@
+[
+  {
+    "code": "51.02.010.002",
+    "villageCode": "002",
+    "districtCode": "51.02.010",
+    "name": "Antap",
+    "alias": "Antap"
+  },
+  {
+    "code": "51.02.010.004",
+    "villageCode": "004",
+    "districtCode": "51.02.010",
+    "name": "Bajera",
+    "alias": "Bajera"
+  },
+  {
+    "code": "51.02.010.005",
+    "villageCode": "005",
+    "districtCode": "51.02.010",
+    "name": "Berembeng",
+    "alias": "Berembeng"
+  },
+  {
+    "code": "51.02.010.006",
+    "villageCode": "006",
+    "districtCode": "51.02.010",
+    "name": "Serampingan",
+    "alias": "Serampingan"
+  },
+  {
+    "code": "51.02.010.014",
+    "villageCode": "014",
+    "districtCode": "51.02.010",
+    "name": "Selemadeg",
+    "alias": "Selemadeg"
+  },
+  {
+    "code": "51.02.010.015",
+    "villageCode": "015",
+    "districtCode": "51.02.010",
+    "name": "Pupuan Sawah",
+    "alias": "Pupuan Sawah"
+  },
+  {
+    "code": "51.02.010.018",
+    "villageCode": "018",
+    "districtCode": "51.02.010",
+    "name": "Wanagiri",
+    "alias": "Wanagiri"
+  },
+  {
+    "code": "51.02.010.024",
+    "villageCode": "024",
+    "districtCode": "51.02.010",
+    "name": "Wanagiri Kauh",
+    "alias": "Wanagiri Kauh"
+  },
+  {
+    "code": "51.02.010.025",
+    "villageCode": "025",
+    "districtCode": "51.02.010",
+    "name": "Manikyang",
+    "alias": "Manikyang"
+  },
+  {
+    "code": "51.02.010.026",
+    "villageCode": "026",
+    "districtCode": "51.02.010",
+    "name": "Bajera Utara",
+    "alias": "Bajera Utara"
+  }
+]

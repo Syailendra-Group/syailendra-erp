@@ -1,0 +1,72 @@
+[
+  {
+    "code": "71.02.122.001",
+    "villageCode": "001",
+    "districtCode": "71.02.122",
+    "name": "Talikuran Barat",
+    "alias": "Talikuran Barat"
+  },
+  {
+    "code": "71.02.122.002",
+    "villageCode": "002",
+    "districtCode": "71.02.122",
+    "name": "Talikuran",
+    "alias": "Talikuran"
+  },
+  {
+    "code": "71.02.122.003",
+    "villageCode": "003",
+    "districtCode": "71.02.122",
+    "name": "Talikuran Utara",
+    "alias": "Talikuran Utara"
+  },
+  {
+    "code": "71.02.122.004",
+    "villageCode": "004",
+    "districtCode": "71.02.122",
+    "name": "Kiawa Satu",
+    "alias": "Kiawa Satu"
+  },
+  {
+    "code": "71.02.122.005",
+    "villageCode": "005",
+    "districtCode": "71.02.122",
+    "name": "Kiawa Satu Barat",
+    "alias": "Kiawa Satu Barat"
+  },
+  {
+    "code": "71.02.122.006",
+    "villageCode": "006",
+    "districtCode": "71.02.122",
+    "name": "Kiawa Satu Utara",
+    "alias": "Kiawa Satu Utara"
+  },
+  {
+    "code": "71.02.122.007",
+    "villageCode": "007",
+    "districtCode": "71.02.122",
+    "name": "Kiawa Dua",
+    "alias": "Kiawa Dua"
+  },
+  {
+    "code": "71.02.122.008",
+    "villageCode": "008",
+    "districtCode": "71.02.122",
+    "name": "Kiawa Dua Barat",
+    "alias": "Kiawa Dua Barat"
+  },
+  {
+    "code": "71.02.122.009",
+    "villageCode": "009",
+    "districtCode": "71.02.122",
+    "name": "Kiawa Dua Timur",
+    "alias": "Kiawa Dua Timur"
+  },
+  {
+    "code": "71.02.122.010",
+    "villageCode": "010",
+    "districtCode": "71.02.122",
+    "name": "Uner",
+    "alias": "Uner"
+  }
+]

@@ -1,0 +1,378 @@
+[
+  {
+    "code": "32.02.010",
+    "districtCode": "010",
+    "regencyCode": "32.02",
+    "provinceCode": "32",
+    "name": "Kecamatan Ciemas",
+    "alias": "Ciemas"
+  },
+  {
+    "code": "32.02.020",
+    "districtCode": "020",
+    "regencyCode": "32.02",
+    "provinceCode": "32",
+    "name": "Kecamatan Ciracap",
+    "alias": "Ciracap"
+  },
+  {
+    "code": "32.02.021",
+    "districtCode": "021",
+    "regencyCode": "32.02",
+    "provinceCode": "32",
+    "name": "Kecamatan Waluran",
+    "alias": "Waluran"
+  },
+  {
+    "code": "32.02.030",
+    "districtCode": "030",
+    "regencyCode": "32.02",
+    "provinceCode": "32",
+    "name": "Kecamatan Surade",
+    "alias": "Surade"
+  },
+  {
+    "code": "32.02.031",
+    "districtCode": "031",
+    "regencyCode": "32.02",
+    "provinceCode": "32",
+    "name": "Kecamatan Cibitung",
+    "alias": "Cibitung"
+  },
+  {
+    "code": "32.02.040",
+    "districtCode": "040",
+    "regencyCode": "32.02",
+    "provinceCode": "32",
+    "name": "Kecamatan Jampang Kulon",
+    "alias": "Jampang Kulon"
+  },
+  {
+    "code": "32.02.041",
+    "districtCode": "041",
+    "regencyCode": "32.02",
+    "provinceCode": "32",
+    "name": "Kecamatan Cimanggu",
+    "alias": "Cimanggu"
+  },
+  {
+    "code": "32.02.050",
+    "districtCode": "050",
+    "regencyCode": "32.02",
+    "provinceCode": "32",
+    "name": "Kecamatan Kali Bunder",
+    "alias": "Kali Bunder"
+  },
+  {
+    "code": "32.02.060",
+    "districtCode": "060",
+    "regencyCode": "32.02",
+    "provinceCode": "32",
+    "name": "Kecamatan Tegal Buleud",
+    "alias": "Tegal Buleud"
+  },
+  {
+    "code": "32.02.070",
+    "districtCode": "070",
+    "regencyCode": "32.02",
+    "provinceCode": "32",
+    "name": "Kecamatan Cidolog",
+    "alias": "Cidolog"
+  },
+  {
+    "code": "32.02.080",
+    "districtCode": "080",
+    "regencyCode": "32.02",
+    "provinceCode": "32",
+    "name": "Kecamatan Sagaranten",
+    "alias": "Sagaranten"
+  },
+  {
+    "code": "32.02.081",
+    "districtCode": "081",
+    "regencyCode": "32.02",
+    "provinceCode": "32",
+    "name": "Kecamatan Cidadap",
+    "alias": "Cidadap"
+  },
+  {
+    "code": "32.02.082",
+    "districtCode": "082",
+    "regencyCode": "32.02",
+    "provinceCode": "32",
+    "name": "Kecamatan Curugkembar",
+    "alias": "Curugkembar"
+  },
+  {
+    "code": "32.02.090",
+    "districtCode": "090",
+    "regencyCode": "32.02",
+    "provinceCode": "32",
+    "name": "Kecamatan Pabuaran",
+    "alias": "Pabuaran"
+  },
+  {
+    "code": "32.02.100",
+    "districtCode": "100",
+    "regencyCode": "32.02",
+    "provinceCode": "32",
+    "name": "Kecamatan Lengkong",
+    "alias": "Lengkong"
+  },
+  {
+    "code": "32.02.110",
+    "districtCode": "110",
+    "regencyCode": "32.02",
+    "provinceCode": "32",
+    "name": "Kecamatan Palabuhanratu",
+    "alias": "Palabuhanratu"
+  },
+  {
+    "code": "32.02.111",
+    "districtCode": "111",
+    "regencyCode": "32.02",
+    "provinceCode": "32",
+    "name": "Kecamatan Simpenan",
+    "alias": "Simpenan"
+  },
+  {
+    "code": "32.02.120",
+    "districtCode": "120",
+    "regencyCode": "32.02",
+    "provinceCode": "32",
+    "name": "Kecamatan Warung Kiara",
+    "alias": "Warung Kiara"
+  },
+  {
+    "code": "32.02.121",
+    "districtCode": "121",
+    "regencyCode": "32.02",
+    "provinceCode": "32",
+    "name": "Kecamatan Bantargadung",
+    "alias": "Bantargadung"
+  },
+  {
+    "code": "32.02.130",
+    "districtCode": "130",
+    "regencyCode": "32.02",
+    "provinceCode": "32",
+    "name": "Kecamatan Jampang Tengah",
+    "alias": "Jampang Tengah"
+  },
+  {
+    "code": "32.02.131",
+    "districtCode": "131",
+    "regencyCode": "32.02",
+    "provinceCode": "32",
+    "name": "Kecamatan Purabaya",
+    "alias": "Purabaya"
+  },
+  {
+    "code": "32.02.140",
+    "districtCode": "140",
+    "regencyCode": "32.02",
+    "provinceCode": "32",
+    "name": "Kecamatan Cikembar",
+    "alias": "Cikembar"
+  },
+  {
+    "code": "32.02.150",
+    "districtCode": "150",
+    "regencyCode": "32.02",
+    "provinceCode": "32",
+    "name": "Kecamatan Nyalindung",
+    "alias": "Nyalindung"
+  },
+  {
+    "code": "32.02.160",
+    "districtCode": "160",
+    "regencyCode": "32.02",
+    "provinceCode": "32",
+    "name": "Kecamatan Geger Bitung",
+    "alias": "Geger Bitung"
+  },
+  {
+    "code": "32.02.170",
+    "districtCode": "170",
+    "regencyCode": "32.02",
+    "provinceCode": "32",
+    "name": "Kecamatan Sukaraja",
+    "alias": "Sukaraja"
+  },
+  {
+    "code": "32.02.171",
+    "districtCode": "171",
+    "regencyCode": "32.02",
+    "provinceCode": "32",
+    "name": "Kecamatan Kebonpedes",
+    "alias": "Kebonpedes"
+  },
+  {
+    "code": "32.02.172",
+    "districtCode": "172",
+    "regencyCode": "32.02",
+    "provinceCode": "32",
+    "name": "Kecamatan Cireunghas",
+    "alias": "Cireunghas"
+  },
+  {
+    "code": "32.02.173",
+    "districtCode": "173",
+    "regencyCode": "32.02",
+    "provinceCode": "32",
+    "name": "Kecamatan Sukalarang",
+    "alias": "Sukalarang"
+  },
+  {
+    "code": "32.02.180",
+    "districtCode": "180",
+    "regencyCode": "32.02",
+    "provinceCode": "32",
+    "name": "Kecamatan Sukabumi",
+    "alias": "Sukabumi"
+  },
+  {
+    "code": "32.02.190",
+    "districtCode": "190",
+    "regencyCode": "32.02",
+    "provinceCode": "32",
+    "name": "Kecamatan Kadudampit",
+    "alias": "Kadudampit"
+  },
+  {
+    "code": "32.02.200",
+    "districtCode": "200",
+    "regencyCode": "32.02",
+    "provinceCode": "32",
+    "name": "Kecamatan Cisaat",
+    "alias": "Cisaat"
+  },
+  {
+    "code": "32.02.201",
+    "districtCode": "201",
+    "regencyCode": "32.02",
+    "provinceCode": "32",
+    "name": "Kecamatan Gunungguruh",
+    "alias": "Gunungguruh"
+  },
+  {
+    "code": "32.02.210",
+    "districtCode": "210",
+    "regencyCode": "32.02",
+    "provinceCode": "32",
+    "name": "Kecamatan Cibadak",
+    "alias": "Cibadak"
+  },
+  {
+    "code": "32.02.211",
+    "districtCode": "211",
+    "regencyCode": "32.02",
+    "provinceCode": "32",
+    "name": "Kecamatan Cicantayan",
+    "alias": "Cicantayan"
+  },
+  {
+    "code": "32.02.212",
+    "districtCode": "212",
+    "regencyCode": "32.02",
+    "provinceCode": "32",
+    "name": "Kecamatan Caringin",
+    "alias": "Caringin"
+  },
+  {
+    "code": "32.02.220",
+    "districtCode": "220",
+    "regencyCode": "32.02",
+    "provinceCode": "32",
+    "name": "Kecamatan Nagrak",
+    "alias": "Nagrak"
+  },
+  {
+    "code": "32.02.221",
+    "districtCode": "221",
+    "regencyCode": "32.02",
+    "provinceCode": "32",
+    "name": "Kecamatan Ciambar",
+    "alias": "Ciambar"
+  },
+  {
+    "code": "32.02.230",
+    "districtCode": "230",
+    "regencyCode": "32.02",
+    "provinceCode": "32",
+    "name": "Kecamatan Cicurug",
+    "alias": "Cicurug"
+  },
+  {
+    "code": "32.02.240",
+    "districtCode": "240",
+    "regencyCode": "32.02",
+    "provinceCode": "32",
+    "name": "Kecamatan Cidahu",
+    "alias": "Cidahu"
+  },
+  {
+    "code": "32.02.250",
+    "districtCode": "250",
+    "regencyCode": "32.02",
+    "provinceCode": "32",
+    "name": "Kecamatan Parakan Salak",
+    "alias": "Parakan Salak"
+  },
+  {
+    "code": "32.02.260",
+    "districtCode": "260",
+    "regencyCode": "32.02",
+    "provinceCode": "32",
+    "name": "Kecamatan Parung Kuda",
+    "alias": "Parung Kuda"
+  },
+  {
+    "code": "32.02.261",
+    "districtCode": "261",
+    "regencyCode": "32.02",
+    "provinceCode": "32",
+    "name": "Kecamatan Bojong Genteng",
+    "alias": "Bojong Genteng"
+  },
+  {
+    "code": "32.02.270",
+    "districtCode": "270",
+    "regencyCode": "32.02",
+    "provinceCode": "32",
+    "name": "Kecamatan Kalapa Nunggal",
+    "alias": "Kalapa Nunggal"
+  },
+  {
+    "code": "32.02.280",
+    "districtCode": "280",
+    "regencyCode": "32.02",
+    "provinceCode": "32",
+    "name": "Kecamatan Cikidang",
+    "alias": "Cikidang"
+  },
+  {
+    "code": "32.02.290",
+    "districtCode": "290",
+    "regencyCode": "32.02",
+    "provinceCode": "32",
+    "name": "Kecamatan Cisolok",
+    "alias": "Cisolok"
+  },
+  {
+    "code": "32.02.291",
+    "districtCode": "291",
+    "regencyCode": "32.02",
+    "provinceCode": "32",
+    "name": "Kecamatan Cikakak",
+    "alias": "Cikakak"
+  },
+  {
+    "code": "32.02.300",
+    "districtCode": "300",
+    "regencyCode": "32.02",
+    "provinceCode": "32",
+    "name": "Kecamatan Kabandungan",
+    "alias": "Kabandungan"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "code": "51.02.060.001",
+    "villageCode": "001",
+    "districtCode": "51.02.060",
+    "name": "Perean",
+    "alias": "Perean"
+  },
+  {
+    "code": "51.02.060.002",
+    "villageCode": "002",
+    "districtCode": "51.02.060",
+    "name": "Perean Tengah",
+    "alias": "Perean Tengah"
+  },
+  {
+    "code": "51.02.060.003",
+    "villageCode": "003",
+    "districtCode": "51.02.060",
+    "name": "Perean Kangin",
+    "alias": "Perean Kangin"
+  },
+  {
+    "code": "51.02.060.004",
+    "villageCode": "004",
+    "districtCode": "51.02.060",
+    "name": "Luwus",
+    "alias": "Luwus"
+  },
+  {
+    "code": "51.02.060.005",
+    "villageCode": "005",
+    "districtCode": "51.02.060",
+    "name": "Mekarsari",
+    "alias": "Mekarsari"
+  },
+  {
+    "code": "51.02.060.006",
+    "villageCode": "006",
+    "districtCode": "51.02.060",
+    "name": "Apuan",
+    "alias": "Apuan"
+  },
+  {
+    "code": "51.02.060.007",
+    "villageCode": "007",
+    "districtCode": "51.02.060",
+    "name": "Angseri",
+    "alias": "Angseri"
+  },
+  {
+    "code": "51.02.060.008",
+    "villageCode": "008",
+    "districtCode": "51.02.060",
+    "name": "Bangli",
+    "alias": "Bangli"
+  },
+  {
+    "code": "51.02.060.009",
+    "villageCode": "009",
+    "districtCode": "51.02.060",
+    "name": "Baturiti",
+    "alias": "Baturiti"
+  },
+  {
+    "code": "51.02.060.010",
+    "villageCode": "010",
+    "districtCode": "51.02.060",
+    "name": "Batunya",
+    "alias": "Batunya"
+  },
+  {
+    "code": "51.02.060.011",
+    "villageCode": "011",
+    "districtCode": "51.02.060",
+    "name": "Antapan",
+    "alias": "Antapan"
+  },
+  {
+    "code": "51.02.060.012",
+    "villageCode": "012",
+    "districtCode": "51.02.060",
+    "name": "Candikuning",
+    "alias": "Candikuning"
+  }
+]

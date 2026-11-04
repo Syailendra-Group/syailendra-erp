@@ -1,0 +1,79 @@
+[
+  {
+    "code": "35.06.200.010",
+    "villageCode": "010",
+    "districtCode": "35.06.200",
+    "name": "Jongbiru",
+    "alias": "Jongbiru"
+  },
+  {
+    "code": "35.06.200.011",
+    "villageCode": "011",
+    "districtCode": "35.06.200",
+    "name": "Putih",
+    "alias": "Putih"
+  },
+  {
+    "code": "35.06.200.012",
+    "villageCode": "012",
+    "districtCode": "35.06.200",
+    "name": "Sambirejo",
+    "alias": "Sambirejo"
+  },
+  {
+    "code": "35.06.200.016",
+    "villageCode": "016",
+    "districtCode": "35.06.200",
+    "name": "Sambiresik",
+    "alias": "Sambiresik"
+  },
+  {
+    "code": "35.06.200.017",
+    "villageCode": "017",
+    "districtCode": "35.06.200",
+    "name": "Gampeng",
+    "alias": "Gampeng"
+  },
+  {
+    "code": "35.06.200.018",
+    "villageCode": "018",
+    "districtCode": "35.06.200",
+    "name": "Ngebrak",
+    "alias": "Ngebrak"
+  },
+  {
+    "code": "35.06.200.019",
+    "villageCode": "019",
+    "districtCode": "35.06.200",
+    "name": "Wanengpaten",
+    "alias": "Wanengpaten"
+  },
+  {
+    "code": "35.06.200.020",
+    "villageCode": "020",
+    "districtCode": "35.06.200",
+    "name": "Turus",
+    "alias": "Turus"
+  },
+  {
+    "code": "35.06.200.021",
+    "villageCode": "021",
+    "districtCode": "35.06.200",
+    "name": "Plosorejo",
+    "alias": "Plosorejo"
+  },
+  {
+    "code": "35.06.200.022",
+    "villageCode": "022",
+    "districtCode": "35.06.200",
+    "name": "Kepuhrejo",
+    "alias": "Kepuhrejo"
+  },
+  {
+    "code": "35.06.200.023",
+    "villageCode": "023",
+    "districtCode": "35.06.200",
+    "name": "Kalibelo",
+    "alias": "Kalibelo"
+  }
+]

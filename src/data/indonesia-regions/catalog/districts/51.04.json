@@ -1,0 +1,58 @@
+[
+  {
+    "code": "51.04.010",
+    "districtCode": "010",
+    "regencyCode": "51.04",
+    "provinceCode": "51",
+    "name": "Kecamatan Sukawati",
+    "alias": "Sukawati"
+  },
+  {
+    "code": "51.04.020",
+    "districtCode": "020",
+    "regencyCode": "51.04",
+    "provinceCode": "51",
+    "name": "Kecamatan Blahbatuh",
+    "alias": "Blahbatuh"
+  },
+  {
+    "code": "51.04.030",
+    "districtCode": "030",
+    "regencyCode": "51.04",
+    "provinceCode": "51",
+    "name": "Kecamatan Gianyar",
+    "alias": "Gianyar"
+  },
+  {
+    "code": "51.04.040",
+    "districtCode": "040",
+    "regencyCode": "51.04",
+    "provinceCode": "51",
+    "name": "Kecamatan Tampaksiring",
+    "alias": "Tampaksiring"
+  },
+  {
+    "code": "51.04.050",
+    "districtCode": "050",
+    "regencyCode": "51.04",
+    "provinceCode": "51",
+    "name": "Kecamatan Ubud",
+    "alias": "Ubud"
+  },
+  {
+    "code": "51.04.060",
+    "districtCode": "060",
+    "regencyCode": "51.04",
+    "provinceCode": "51",
+    "name": "Kecamatan Tegallalang",
+    "alias": "Tegallalang"
+  },
+  {
+    "code": "51.04.070",
+    "districtCode": "070",
+    "regencyCode": "51.04",
+    "provinceCode": "51",
+    "name": "Kecamatan Payangan",
+    "alias": "Payangan"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "code": "63.10.051.001",
+    "villageCode": "001",
+    "districtCode": "63.10.051",
+    "name": "Rejowinangun",
+    "alias": "Rejowinangun"
+  },
+  {
+    "code": "63.10.051.002",
+    "villageCode": "002",
+    "districtCode": "63.10.051",
+    "name": "Pematang Ulin",
+    "alias": "Pematang Ulin"
+  },
+  {
+    "code": "63.10.051.003",
+    "villageCode": "003",
+    "districtCode": "63.10.051",
+    "name": "Karang Bintang",
+    "alias": "Karang Bintang"
+  },
+  {
+    "code": "63.10.051.004",
+    "villageCode": "004",
+    "districtCode": "63.10.051",
+    "name": "Batulicin Irigasi",
+    "alias": "Batulicin Irigasi"
+  },
+  {
+    "code": "63.10.051.005",
+    "villageCode": "005",
+    "districtCode": "63.10.051",
+    "name": "Pandan Sari",
+    "alias": "Pandan Sari"
+  },
+  {
+    "code": "63.10.051.006",
+    "villageCode": "006",
+    "districtCode": "63.10.051",
+    "name": "Sela Selilau",
+    "alias": "Sela Selilau"
+  },
+  {
+    "code": "63.10.051.007",
+    "villageCode": "007",
+    "districtCode": "63.10.051",
+    "name": "Manunggal",
+    "alias": "Manunggal"
+  },
+  {
+    "code": "63.10.051.008",
+    "villageCode": "008",
+    "districtCode": "63.10.051",
+    "name": "Maju Sejahtera",
+    "alias": "Maju Sejahtera"
+  },
+  {
+    "code": "63.10.051.009",
+    "villageCode": "009",
+    "districtCode": "63.10.051",
+    "name": "Sumber Wangi",
+    "alias": "Sumber Wangi"
+  },
+  {
+    "code": "63.10.051.010",
+    "villageCode": "010",
+    "districtCode": "63.10.051",
+    "name": "Madu Retno",
+    "alias": "Madu Retno"
+  },
+  {
+    "code": "63.10.051.011",
+    "villageCode": "011",
+    "districtCode": "63.10.051",
+    "name": "Karang Rejo",
+    "alias": "Karang Rejo"
+  }
+]

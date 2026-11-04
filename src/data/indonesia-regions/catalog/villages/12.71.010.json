@@ -1,0 +1,37 @@
+[
+  {
+    "code": "12.71.010.001",
+    "villageCode": "001",
+    "districtCode": "12.71.010",
+    "name": "Sibolga Ilir",
+    "alias": "Sibolga Ilir"
+  },
+  {
+    "code": "12.71.010.002",
+    "villageCode": "002",
+    "districtCode": "12.71.010",
+    "name": "Angin Nauli",
+    "alias": "Angin Nauli"
+  },
+  {
+    "code": "12.71.010.003",
+    "villageCode": "003",
+    "districtCode": "12.71.010",
+    "name": "Huta Tonga Tonga",
+    "alias": "Huta Tonga Tonga"
+  },
+  {
+    "code": "12.71.010.004",
+    "villageCode": "004",
+    "districtCode": "12.71.010",
+    "name": "Huta Barangan",
+    "alias": "Huta Barangan"
+  },
+  {
+    "code": "12.71.010.005",
+    "villageCode": "005",
+    "districtCode": "12.71.010",
+    "name": "Simare-Mare",
+    "alias": "Simare-Mare"
+  }
+]

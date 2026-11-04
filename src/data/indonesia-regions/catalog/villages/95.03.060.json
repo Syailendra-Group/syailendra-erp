@@ -1,0 +1,51 @@
+[
+  {
+    "code": "95.03.060.001",
+    "villageCode": "001",
+    "districtCode": "95.03.060",
+    "name": "Amk",
+    "alias": "Amk"
+  },
+  {
+    "code": "95.03.060.002",
+    "villageCode": "002",
+    "districtCode": "95.03.060",
+    "name": "Yame",
+    "alias": "Yame"
+  },
+  {
+    "code": "95.03.060.003",
+    "villageCode": "003",
+    "districtCode": "95.03.060",
+    "name": "Benggo",
+    "alias": "Benggo"
+  },
+  {
+    "code": "95.03.060.004",
+    "villageCode": "004",
+    "districtCode": "95.03.060",
+    "name": "Kokoya",
+    "alias": "Kokoya"
+  },
+  {
+    "code": "95.03.060.005",
+    "villageCode": "005",
+    "districtCode": "95.03.060",
+    "name": "Mulya / Borobaha",
+    "alias": "Mulya / Borobaha"
+  },
+  {
+    "code": "95.03.060.006",
+    "villageCode": "006",
+    "districtCode": "95.03.060",
+    "name": "Ogorito",
+    "alias": "Ogorito"
+  },
+  {
+    "code": "95.03.060.007",
+    "villageCode": "007",
+    "districtCode": "95.03.060",
+    "name": "Ebeske",
+    "alias": "Ebeske"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "code": "11.14.021.001",
+    "villageCode": "001",
+    "districtCode": "11.14.021",
+    "name": "Selamat",
+    "alias": "Selamat"
+  },
+  {
+    "code": "11.14.021.002",
+    "villageCode": "002",
+    "districtCode": "11.14.021",
+    "name": "Tenggulun",
+    "alias": "Tenggulun"
+  },
+  {
+    "code": "11.14.021.003",
+    "villageCode": "003",
+    "districtCode": "11.14.021",
+    "name": "Rimba Sawang",
+    "alias": "Rimba Sawang"
+  },
+  {
+    "code": "11.14.021.004",
+    "villageCode": "004",
+    "districtCode": "11.14.021",
+    "name": "Tebing Tinggi",
+    "alias": "Tebing Tinggi"
+  },
+  {
+    "code": "11.14.021.006",
+    "villageCode": "006",
+    "districtCode": "11.14.021",
+    "name": "Simpang Kiri",
+    "alias": "Simpang Kiri"
+  },
+  {
+    "code": "11.14.021.007",
+    "villageCode": "007",
+    "districtCode": "11.14.021",
+    "name": "Sumber Makmur",
+    "alias": "Sumber Makmur"
+  }
+]

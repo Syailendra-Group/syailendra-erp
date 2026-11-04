@@ -1,0 +1,72 @@
+[
+  {
+    "code": "36.01.121.001",
+    "villageCode": "001",
+    "districtCode": "36.01.121",
+    "name": "Pejamben",
+    "alias": "Pejamben"
+  },
+  {
+    "code": "36.01.121.002",
+    "villageCode": "002",
+    "districtCode": "36.01.121",
+    "name": "Banjarmasin",
+    "alias": "Banjarmasin"
+  },
+  {
+    "code": "36.01.121.003",
+    "villageCode": "003",
+    "districtCode": "36.01.121",
+    "name": "Tembong",
+    "alias": "Tembong"
+  },
+  {
+    "code": "36.01.121.004",
+    "villageCode": "004",
+    "districtCode": "36.01.121",
+    "name": "Sindanglaut",
+    "alias": "Sindanglaut"
+  },
+  {
+    "code": "36.01.121.005",
+    "villageCode": "005",
+    "districtCode": "36.01.121",
+    "name": "Carita",
+    "alias": "Carita"
+  },
+  {
+    "code": "36.01.121.006",
+    "villageCode": "006",
+    "districtCode": "36.01.121",
+    "name": "Sukajadi",
+    "alias": "Sukajadi"
+  },
+  {
+    "code": "36.01.121.007",
+    "villageCode": "007",
+    "districtCode": "36.01.121",
+    "name": "Sukarame",
+    "alias": "Sukarame"
+  },
+  {
+    "code": "36.01.121.008",
+    "villageCode": "008",
+    "districtCode": "36.01.121",
+    "name": "Sukanagara",
+    "alias": "Sukanagara"
+  },
+  {
+    "code": "36.01.121.009",
+    "villageCode": "009",
+    "districtCode": "36.01.121",
+    "name": "Kawoyang",
+    "alias": "Kawoyang"
+  },
+  {
+    "code": "36.01.121.010",
+    "villageCode": "010",
+    "districtCode": "36.01.121",
+    "name": "Cinoyong",
+    "alias": "Cinoyong"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "code": "73.13.090.001",
+    "villageCode": "001",
+    "districtCode": "73.13.090",
+    "name": "Leppangeng",
+    "alias": "Leppangeng"
+  },
+  {
+    "code": "73.13.090.002",
+    "villageCode": "002",
+    "districtCode": "73.13.090",
+    "name": "Lautang",
+    "alias": "Lautang"
+  },
+  {
+    "code": "73.13.090.003",
+    "villageCode": "003",
+    "districtCode": "73.13.090",
+    "name": "Limpo Rilau",
+    "alias": "Limpo Rilau"
+  },
+  {
+    "code": "73.13.090.004",
+    "villageCode": "004",
+    "districtCode": "73.13.090",
+    "name": "Belawa",
+    "alias": "Belawa"
+  },
+  {
+    "code": "73.13.090.005",
+    "villageCode": "005",
+    "districtCode": "73.13.090",
+    "name": "Macero",
+    "alias": "Macero"
+  },
+  {
+    "code": "73.13.090.006",
+    "villageCode": "006",
+    "districtCode": "73.13.090",
+    "name": "Malakke",
+    "alias": "Malakke"
+  },
+  {
+    "code": "73.13.090.007",
+    "villageCode": "007",
+    "districtCode": "73.13.090",
+    "name": "Ongkoe",
+    "alias": "Ongkoe"
+  },
+  {
+    "code": "73.13.090.008",
+    "villageCode": "008",
+    "districtCode": "73.13.090",
+    "name": "Sappa",
+    "alias": "Sappa"
+  },
+  {
+    "code": "73.13.090.009",
+    "villageCode": "009",
+    "districtCode": "73.13.090",
+    "name": "Wele",
+    "alias": "Wele"
+  }
+]

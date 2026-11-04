@@ -1,0 +1,154 @@
+[
+  {
+    "code": "35.04.010",
+    "districtCode": "010",
+    "regencyCode": "35.04",
+    "provinceCode": "35",
+    "name": "Kecamatan Besuki",
+    "alias": "Besuki"
+  },
+  {
+    "code": "35.04.020",
+    "districtCode": "020",
+    "regencyCode": "35.04",
+    "provinceCode": "35",
+    "name": "Kecamatan Bandung",
+    "alias": "Bandung"
+  },
+  {
+    "code": "35.04.030",
+    "districtCode": "030",
+    "regencyCode": "35.04",
+    "provinceCode": "35",
+    "name": "Kecamatan Pakel",
+    "alias": "Pakel"
+  },
+  {
+    "code": "35.04.040",
+    "districtCode": "040",
+    "regencyCode": "35.04",
+    "provinceCode": "35",
+    "name": "Kecamatan Campur Darat",
+    "alias": "Campur Darat"
+  },
+  {
+    "code": "35.04.050",
+    "districtCode": "050",
+    "regencyCode": "35.04",
+    "provinceCode": "35",
+    "name": "Kecamatan Tanggung Gunung",
+    "alias": "Tanggung Gunung"
+  },
+  {
+    "code": "35.04.060",
+    "districtCode": "060",
+    "regencyCode": "35.04",
+    "provinceCode": "35",
+    "name": "Kecamatan Kalidawir",
+    "alias": "Kalidawir"
+  },
+  {
+    "code": "35.04.070",
+    "districtCode": "070",
+    "regencyCode": "35.04",
+    "provinceCode": "35",
+    "name": "Kecamatan Pucang Laban",
+    "alias": "Pucang Laban"
+  },
+  {
+    "code": "35.04.080",
+    "districtCode": "080",
+    "regencyCode": "35.04",
+    "provinceCode": "35",
+    "name": "Kecamatan Rejotangan",
+    "alias": "Rejotangan"
+  },
+  {
+    "code": "35.04.090",
+    "districtCode": "090",
+    "regencyCode": "35.04",
+    "provinceCode": "35",
+    "name": "Kecamatan Ngunut",
+    "alias": "Ngunut"
+  },
+  {
+    "code": "35.04.100",
+    "districtCode": "100",
+    "regencyCode": "35.04",
+    "provinceCode": "35",
+    "name": "Kecamatan Sumbergempol",
+    "alias": "Sumbergempol"
+  },
+  {
+    "code": "35.04.110",
+    "districtCode": "110",
+    "regencyCode": "35.04",
+    "provinceCode": "35",
+    "name": "Kecamatan Boyolangu",
+    "alias": "Boyolangu"
+  },
+  {
+    "code": "35.04.120",
+    "districtCode": "120",
+    "regencyCode": "35.04",
+    "provinceCode": "35",
+    "name": "Kecamatan Tulungagung",
+    "alias": "Tulungagung"
+  },
+  {
+    "code": "35.04.130",
+    "districtCode": "130",
+    "regencyCode": "35.04",
+    "provinceCode": "35",
+    "name": "Kecamatan Kedungwaru",
+    "alias": "Kedungwaru"
+  },
+  {
+    "code": "35.04.140",
+    "districtCode": "140",
+    "regencyCode": "35.04",
+    "provinceCode": "35",
+    "name": "Kecamatan Ngantru",
+    "alias": "Ngantru"
+  },
+  {
+    "code": "35.04.150",
+    "districtCode": "150",
+    "regencyCode": "35.04",
+    "provinceCode": "35",
+    "name": "Kecamatan Karangrejo",
+    "alias": "Karangrejo"
+  },
+  {
+    "code": "35.04.160",
+    "districtCode": "160",
+    "regencyCode": "35.04",
+    "provinceCode": "35",
+    "name": "Kecamatan Kauman",
+    "alias": "Kauman"
+  },
+  {
+    "code": "35.04.170",
+    "districtCode": "170",
+    "regencyCode": "35.04",
+    "provinceCode": "35",
+    "name": "Kecamatan Gondang",
+    "alias": "Gondang"
+  },
+  {
+    "code": "35.04.180",
+    "districtCode": "180",
+    "regencyCode": "35.04",
+    "provinceCode": "35",
+    "name": "Kecamatan Pager Wojo",
+    "alias": "Pager Wojo"
+  },
+  {
+    "code": "35.04.190",
+    "districtCode": "190",
+    "regencyCode": "35.04",
+    "provinceCode": "35",
+    "name": "Kecamatan Sendang",
+    "alias": "Sendang"
+  }
+]

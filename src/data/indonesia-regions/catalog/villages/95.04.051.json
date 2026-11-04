@@ -1,0 +1,58 @@
+[
+  {
+    "code": "95.04.051.001",
+    "villageCode": "001",
+    "districtCode": "95.04.051",
+    "name": "Sesakam",
+    "alias": "Sesakam"
+  },
+  {
+    "code": "95.04.051.002",
+    "villageCode": "002",
+    "districtCode": "95.04.051",
+    "name": "Amborep",
+    "alias": "Amborep"
+  },
+  {
+    "code": "95.04.051.003",
+    "villageCode": "003",
+    "districtCode": "95.04.051",
+    "name": "Jetsy",
+    "alias": "Jetsy"
+  },
+  {
+    "code": "95.04.051.004",
+    "villageCode": "004",
+    "districtCode": "95.04.051",
+    "name": "Pau",
+    "alias": "Pau"
+  },
+  {
+    "code": "95.04.051.005",
+    "villageCode": "005",
+    "districtCode": "95.04.051",
+    "name": "Akamar",
+    "alias": "Akamar"
+  },
+  {
+    "code": "95.04.051.006",
+    "villageCode": "006",
+    "districtCode": "95.04.051",
+    "name": "Birak",
+    "alias": "Birak"
+  },
+  {
+    "code": "95.04.051.007",
+    "villageCode": "007",
+    "districtCode": "95.04.051",
+    "name": "Katew",
+    "alias": "Katew"
+  },
+  {
+    "code": "95.04.051.008",
+    "villageCode": "008",
+    "districtCode": "95.04.051",
+    "name": "Dawer",
+    "alias": "Dawer"
+  }
+]

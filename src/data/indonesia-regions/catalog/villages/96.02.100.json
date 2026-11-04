@@ -1,0 +1,72 @@
+[
+  {
+    "code": "96.02.100.001",
+    "villageCode": "001",
+    "districtCode": "96.02.100",
+    "name": "Idakebo",
+    "alias": "Idakebo"
+  },
+  {
+    "code": "96.02.100.002",
+    "villageCode": "002",
+    "districtCode": "96.02.100",
+    "name": "Pugatadi Ii",
+    "alias": "Pugatadi Ii"
+  },
+  {
+    "code": "96.02.100.003",
+    "villageCode": "003",
+    "districtCode": "96.02.100",
+    "name": "Pugatadi I",
+    "alias": "Pugatadi I"
+  },
+  {
+    "code": "96.02.100.004",
+    "villageCode": "004",
+    "districtCode": "96.02.100",
+    "name": "Ikrar",
+    "alias": "Ikrar"
+  },
+  {
+    "code": "96.02.100.005",
+    "villageCode": "005",
+    "districtCode": "96.02.100",
+    "name": "Obayo",
+    "alias": "Obayo"
+  },
+  {
+    "code": "96.02.100.006",
+    "villageCode": "006",
+    "districtCode": "96.02.100",
+    "name": "Kuyakago",
+    "alias": "Kuyakago"
+  },
+  {
+    "code": "96.02.100.007",
+    "villageCode": "007",
+    "districtCode": "96.02.100",
+    "name": "Yametadi",
+    "alias": "Yametadi"
+  },
+  {
+    "code": "96.02.100.008",
+    "villageCode": "008",
+    "districtCode": "96.02.100",
+    "name": "Mogou",
+    "alias": "Mogou"
+  },
+  {
+    "code": "96.02.100.009",
+    "villageCode": "009",
+    "districtCode": "96.02.100",
+    "name": "Duntek",
+    "alias": "Duntek"
+  },
+  {
+    "code": "96.02.100.010",
+    "villageCode": "010",
+    "districtCode": "96.02.100",
+    "name": "Ekimani",
+    "alias": "Ekimani"
+  }
+]

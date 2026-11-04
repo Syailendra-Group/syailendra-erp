@@ -1,0 +1,58 @@
+[
+  {
+    "code": "75.03.020.001",
+    "villageCode": "001",
+    "districtCode": "75.03.020",
+    "name": "Lomuli",
+    "alias": "Lomuli"
+  },
+  {
+    "code": "75.03.020.002",
+    "villageCode": "002",
+    "districtCode": "75.03.020",
+    "name": "Lemito",
+    "alias": "Lemito"
+  },
+  {
+    "code": "75.03.020.003",
+    "villageCode": "003",
+    "districtCode": "75.03.020",
+    "name": "Wonggarasi Barat",
+    "alias": "Wonggarasi Barat"
+  },
+  {
+    "code": "75.03.020.008",
+    "villageCode": "008",
+    "districtCode": "75.03.020",
+    "name": "Kenari",
+    "alias": "Kenari"
+  },
+  {
+    "code": "75.03.020.009",
+    "villageCode": "009",
+    "districtCode": "75.03.020",
+    "name": "Lemito Utara",
+    "alias": "Lemito Utara"
+  },
+  {
+    "code": "75.03.020.010",
+    "villageCode": "010",
+    "districtCode": "75.03.020",
+    "name": "Wonggarasi Tengah",
+    "alias": "Wonggarasi Tengah"
+  },
+  {
+    "code": "75.03.020.011",
+    "villageCode": "011",
+    "districtCode": "75.03.020",
+    "name": "Suka Damai",
+    "alias": "Suka Damai"
+  },
+  {
+    "code": "75.03.020.012",
+    "villageCode": "012",
+    "districtCode": "75.03.020",
+    "name": "Babalonge",
+    "alias": "Babalonge"
+  }
+]

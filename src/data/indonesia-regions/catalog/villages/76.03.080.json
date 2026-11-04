@@ -1,0 +1,93 @@
+[
+  {
+    "code": "76.03.080.001",
+    "villageCode": "001",
+    "districtCode": "76.03.080",
+    "name": "Mambi",
+    "alias": "Mambi"
+  },
+  {
+    "code": "76.03.080.002",
+    "villageCode": "002",
+    "districtCode": "76.03.080",
+    "name": "Talippuki",
+    "alias": "Talippuki"
+  },
+  {
+    "code": "76.03.080.004",
+    "villageCode": "004",
+    "districtCode": "76.03.080",
+    "name": "Rantebulahan",
+    "alias": "Rantebulahan"
+  },
+  {
+    "code": "76.03.080.006",
+    "villageCode": "006",
+    "districtCode": "76.03.080",
+    "name": "Sondong Lajuk",
+    "alias": "Sondong Lajuk"
+  },
+  {
+    "code": "76.03.080.010",
+    "villageCode": "010",
+    "districtCode": "76.03.080",
+    "name": "Salubanua",
+    "alias": "Salubanua"
+  },
+  {
+    "code": "76.03.080.011",
+    "villageCode": "011",
+    "districtCode": "76.03.080",
+    "name": "Tapalinna",
+    "alias": "Tapalinna"
+  },
+  {
+    "code": "76.03.080.012",
+    "villageCode": "012",
+    "districtCode": "76.03.080",
+    "name": "Pammoseang",
+    "alias": "Pammoseang"
+  },
+  {
+    "code": "76.03.080.013",
+    "villageCode": "013",
+    "districtCode": "76.03.080",
+    "name": "Salumakak",
+    "alias": "Salumakak"
+  },
+  {
+    "code": "76.03.080.014",
+    "villageCode": "014",
+    "districtCode": "76.03.080",
+    "name": "Bujungmanurung",
+    "alias": "Bujungmanurung"
+  },
+  {
+    "code": "76.03.080.016",
+    "villageCode": "016",
+    "districtCode": "76.03.080",
+    "name": "Sendana",
+    "alias": "Sendana"
+  },
+  {
+    "code": "76.03.080.027",
+    "villageCode": "027",
+    "districtCode": "76.03.080",
+    "name": "Indo Banua",
+    "alias": "Indo Banua"
+  },
+  {
+    "code": "76.03.080.028",
+    "villageCode": "028",
+    "districtCode": "76.03.080",
+    "name": "Salualo",
+    "alias": "Salualo"
+  },
+  {
+    "code": "76.03.080.029",
+    "villageCode": "029",
+    "districtCode": "76.03.080",
+    "name": "Saludurian",
+    "alias": "Saludurian"
+  }
+]

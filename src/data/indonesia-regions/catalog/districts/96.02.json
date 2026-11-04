@@ -1,0 +1,82 @@
+[
+  {
+    "code": "96.02.010",
+    "districtCode": "010",
+    "regencyCode": "96.02",
+    "provinceCode": "96",
+    "name": "Kecamatan Sukikai Selatan",
+    "alias": "Sukikai Selatan"
+  },
+  {
+    "code": "96.02.020",
+    "districtCode": "020",
+    "regencyCode": "96.02",
+    "provinceCode": "96",
+    "name": "Kecamatan Piyaiye",
+    "alias": "Piyaiye"
+  },
+  {
+    "code": "96.02.030",
+    "districtCode": "030",
+    "regencyCode": "96.02",
+    "provinceCode": "96",
+    "name": "Kecamatan Mapia Barat",
+    "alias": "Mapia Barat"
+  },
+  {
+    "code": "96.02.040",
+    "districtCode": "040",
+    "regencyCode": "96.02",
+    "provinceCode": "96",
+    "name": "Kecamatan Mapia Tengah",
+    "alias": "Mapia Tengah"
+  },
+  {
+    "code": "96.02.050",
+    "districtCode": "050",
+    "regencyCode": "96.02",
+    "provinceCode": "96",
+    "name": "Kecamatan Mapia",
+    "alias": "Mapia"
+  },
+  {
+    "code": "96.02.060",
+    "districtCode": "060",
+    "regencyCode": "96.02",
+    "provinceCode": "96",
+    "name": "Kecamatan Dogiyai",
+    "alias": "Dogiyai"
+  },
+  {
+    "code": "96.02.070",
+    "districtCode": "070",
+    "regencyCode": "96.02",
+    "provinceCode": "96",
+    "name": "Kecamatan Kamu Selatan",
+    "alias": "Kamu Selatan"
+  },
+  {
+    "code": "96.02.080",
+    "districtCode": "080",
+    "regencyCode": "96.02",
+    "provinceCode": "96",
+    "name": "Kecamatan Kamu",
+    "alias": "Kamu"
+  },
+  {
+    "code": "96.02.090",
+    "districtCode": "090",
+    "regencyCode": "96.02",
+    "provinceCode": "96",
+    "name": "Kecamatan Kamu Timur",
+    "alias": "Kamu Timur"
+  },
+  {
+    "code": "96.02.100",
+    "districtCode": "100",
+    "regencyCode": "96.02",
+    "provinceCode": "96",
+    "name": "Kecamatan Kamu Utara",
+    "alias": "Kamu Utara"
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "code": "12.21.032.001",
+    "villageCode": "001",
+    "districtCode": "12.21.032",
+    "name": "Sitarolo Julu",
+    "alias": "Sitarolo Julu"
+  },
+  {
+    "code": "12.21.032.002",
+    "villageCode": "002",
+    "districtCode": "12.21.032",
+    "name": "Mompang",
+    "alias": "Mompang"
+  },
+  {
+    "code": "12.21.032.003",
+    "villageCode": "003",
+    "districtCode": "12.21.032",
+    "name": "Sabahotang",
+    "alias": "Sabahotang"
+  },
+  {
+    "code": "12.21.032.004",
+    "villageCode": "004",
+    "districtCode": "12.21.032",
+    "name": "Sigorbus Julu",
+    "alias": "Sigorbus Julu"
+  },
+  {
+    "code": "12.21.032.005",
+    "villageCode": "005",
+    "districtCode": "12.21.032",
+    "name": "Sigurbus Jae",
+    "alias": "Sigurbus Jae"
+  },
+  {
+    "code": "12.21.032.006",
+    "villageCode": "006",
+    "districtCode": "12.21.032",
+    "name": "Hasahatan Julu",
+    "alias": "Hasahatan Julu"
+  },
+  {
+    "code": "12.21.032.007",
+    "villageCode": "007",
+    "districtCode": "12.21.032",
+    "name": "Hasahatan Jae",
+    "alias": "Hasahatan Jae"
+  },
+  {
+    "code": "12.21.032.008",
+    "villageCode": "008",
+    "districtCode": "12.21.032",
+    "name": "Siolip",
+    "alias": "Siolip"
+  },
+  {
+    "code": "12.21.032.009",
+    "villageCode": "009",
+    "districtCode": "12.21.032",
+    "name": "Saba Rimba",
+    "alias": "Saba Rimba"
+  },
+  {
+    "code": "12.21.032.010",
+    "villageCode": "010",
+    "districtCode": "12.21.032",
+    "name": "Limbong",
+    "alias": "Limbong"
+  },
+  {
+    "code": "12.21.032.011",
+    "villageCode": "011",
+    "districtCode": "12.21.032",
+    "name": "Simaninggir",
+    "alias": "Simaninggir"
+  },
+  {
+    "code": "12.21.032.012",
+    "villageCode": "012",
+    "districtCode": "12.21.032",
+    "name": "Binabo Jae",
+    "alias": "Binabo Jae"
+  },
+  {
+    "code": "12.21.032.013",
+    "villageCode": "013",
+    "districtCode": "12.21.032",
+    "name": "Binabo Julu",
+    "alias": "Binabo Julu"
+  }
+]

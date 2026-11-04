@@ -1,0 +1,37 @@
+[
+  {
+    "code": "13.03.090.001",
+    "villageCode": "001",
+    "districtCode": "13.03.090",
+    "name": "Muaro Paneh",
+    "alias": "Muaro Paneh"
+  },
+  {
+    "code": "13.03.090.002",
+    "villageCode": "002",
+    "districtCode": "13.03.090",
+    "name": "Kinari",
+    "alias": "Kinari"
+  },
+  {
+    "code": "13.03.090.003",
+    "villageCode": "003",
+    "districtCode": "13.03.090",
+    "name": "Parambahan",
+    "alias": "Parambahan"
+  },
+  {
+    "code": "13.03.090.004",
+    "villageCode": "004",
+    "districtCode": "13.03.090",
+    "name": "Dilam",
+    "alias": "Dilam"
+  },
+  {
+    "code": "13.03.090.005",
+    "villageCode": "005",
+    "districtCode": "13.03.090",
+    "name": "Bukik Tandang",
+    "alias": "Bukik Tandang"
+  }
+]

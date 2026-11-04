@@ -1,0 +1,58 @@
+[
+  {
+    "code": "36.04.040.001",
+    "villageCode": "001",
+    "districtCode": "36.04.040",
+    "name": "Tanjungsari",
+    "alias": "Tanjungsari"
+  },
+  {
+    "code": "36.04.040.002",
+    "villageCode": "002",
+    "districtCode": "36.04.040",
+    "name": "Kadubeureum",
+    "alias": "Kadubeureum"
+  },
+  {
+    "code": "36.04.040.003",
+    "villageCode": "003",
+    "districtCode": "36.04.040",
+    "name": "Pasanggrahan",
+    "alias": "Pasanggrahan"
+  },
+  {
+    "code": "36.04.040.004",
+    "villageCode": "004",
+    "districtCode": "36.04.040",
+    "name": "Pabuaran",
+    "alias": "Pabuaran"
+  },
+  {
+    "code": "36.04.040.005",
+    "villageCode": "005",
+    "districtCode": "36.04.040",
+    "name": "Pancanegara",
+    "alias": "Pancanegara"
+  },
+  {
+    "code": "36.04.040.006",
+    "villageCode": "006",
+    "districtCode": "36.04.040",
+    "name": "Sindangheula",
+    "alias": "Sindangheula"
+  },
+  {
+    "code": "36.04.040.007",
+    "villageCode": "007",
+    "districtCode": "36.04.040",
+    "name": "Sindangsari",
+    "alias": "Sindangsari"
+  },
+  {
+    "code": "36.04.040.008",
+    "villageCode": "008",
+    "districtCode": "36.04.040",
+    "name": "Talaga Warna",
+    "alias": "Talaga Warna"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "code": "21.05.040.003",
+    "villageCode": "003",
+    "districtCode": "21.05.040",
+    "name": "Tarempa Barat",
+    "alias": "Tarempa Barat"
+  },
+  {
+    "code": "21.05.040.004",
+    "villageCode": "004",
+    "districtCode": "21.05.040",
+    "name": "Tarempa",
+    "alias": "Tarempa"
+  },
+  {
+    "code": "21.05.040.005",
+    "villageCode": "005",
+    "districtCode": "21.05.040",
+    "name": "Tarempa Selatan",
+    "alias": "Tarempa Selatan"
+  },
+  {
+    "code": "21.05.040.006",
+    "villageCode": "006",
+    "districtCode": "21.05.040",
+    "name": "Tarempa Timur",
+    "alias": "Tarempa Timur"
+  },
+  {
+    "code": "21.05.040.007",
+    "villageCode": "007",
+    "districtCode": "21.05.040",
+    "name": "Sri Tanjung",
+    "alias": "Sri Tanjung"
+  },
+  {
+    "code": "21.05.040.008",
+    "villageCode": "008",
+    "districtCode": "21.05.040",
+    "name": "Tarempa Barat Daya",
+    "alias": "Tarempa Barat Daya"
+  },
+  {
+    "code": "21.05.040.009",
+    "villageCode": "009",
+    "districtCode": "21.05.040",
+    "name": "Pesisir Timur",
+    "alias": "Pesisir Timur"
+  }
+]

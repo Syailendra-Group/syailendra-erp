@@ -1,0 +1,72 @@
+[
+  {
+    "code": "74.13.070.001",
+    "villageCode": "001",
+    "districtCode": "74.13.070",
+    "name": "Lawada Jaya",
+    "alias": "Lawada Jaya"
+  },
+  {
+    "code": "74.13.070.002",
+    "villageCode": "002",
+    "districtCode": "74.13.070",
+    "name": "Lakalamba",
+    "alias": "Lakalamba"
+  },
+  {
+    "code": "74.13.070.003",
+    "villageCode": "003",
+    "districtCode": "74.13.070",
+    "name": "Marobea",
+    "alias": "Marobea"
+  },
+  {
+    "code": "74.13.070.004",
+    "villageCode": "004",
+    "districtCode": "74.13.070",
+    "name": "Ondoke",
+    "alias": "Ondoke"
+  },
+  {
+    "code": "74.13.070.011",
+    "villageCode": "011",
+    "districtCode": "74.13.070",
+    "name": "Nihi",
+    "alias": "Nihi"
+  },
+  {
+    "code": "74.13.070.014",
+    "villageCode": "014",
+    "districtCode": "74.13.070",
+    "name": "Kampobalano",
+    "alias": "Kampobalano"
+  },
+  {
+    "code": "74.13.070.015",
+    "villageCode": "015",
+    "districtCode": "74.13.070",
+    "name": "Lombu Jaya",
+    "alias": "Lombu Jaya"
+  },
+  {
+    "code": "74.13.070.016",
+    "villageCode": "016",
+    "districtCode": "74.13.070",
+    "name": "Waukuni",
+    "alias": "Waukuni"
+  },
+  {
+    "code": "74.13.070.017",
+    "villageCode": "017",
+    "districtCode": "74.13.070",
+    "name": "Maperaha",
+    "alias": "Maperaha"
+  },
+  {
+    "code": "74.13.070.018",
+    "villageCode": "018",
+    "districtCode": "74.13.070",
+    "name": "Wakoila",
+    "alias": "Wakoila"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "code": "18.10.020.001",
+    "villageCode": "001",
+    "districtCode": "18.10.020",
+    "name": "Kresnomulyo",
+    "alias": "Kresnomulyo"
+  },
+  {
+    "code": "18.10.020.002",
+    "villageCode": "002",
+    "districtCode": "18.10.020",
+    "name": "Sumber Agung",
+    "alias": "Sumber Agung"
+  },
+  {
+    "code": "18.10.020.003",
+    "villageCode": "003",
+    "districtCode": "18.10.020",
+    "name": "Ambarawa",
+    "alias": "Ambarawa"
+  },
+  {
+    "code": "18.10.020.004",
+    "villageCode": "004",
+    "districtCode": "18.10.020",
+    "name": "Ambarawa Barat",
+    "alias": "Ambarawa Barat"
+  },
+  {
+    "code": "18.10.020.005",
+    "villageCode": "005",
+    "districtCode": "18.10.020",
+    "name": "Tanjung Anom",
+    "alias": "Tanjung Anom"
+  },
+  {
+    "code": "18.10.020.006",
+    "villageCode": "006",
+    "districtCode": "18.10.020",
+    "name": "Jati Agung",
+    "alias": "Jati Agung"
+  },
+  {
+    "code": "18.10.020.007",
+    "villageCode": "007",
+    "districtCode": "18.10.020",
+    "name": "Margodadi",
+    "alias": "Margodadi"
+  },
+  {
+    "code": "18.10.020.008",
+    "villageCode": "008",
+    "districtCode": "18.10.020",
+    "name": "Ambarawa Timur",
+    "alias": "Ambarawa Timur"
+  }
+]

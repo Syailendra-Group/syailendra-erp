@@ -1,0 +1,58 @@
+[
+  {
+    "code": "32.07.240.001",
+    "villageCode": "001",
+    "districtCode": "32.07.240",
+    "name": "Mekarjadi",
+    "alias": "Mekarjadi"
+  },
+  {
+    "code": "32.07.240.002",
+    "villageCode": "002",
+    "districtCode": "32.07.240",
+    "name": "Sukajadi",
+    "alias": "Sukajadi"
+  },
+  {
+    "code": "32.07.240.003",
+    "villageCode": "003",
+    "districtCode": "32.07.240",
+    "name": "Werasari",
+    "alias": "Werasari"
+  },
+  {
+    "code": "32.07.240.004",
+    "villageCode": "004",
+    "districtCode": "32.07.240",
+    "name": "Mangkubumi",
+    "alias": "Mangkubumi"
+  },
+  {
+    "code": "32.07.240.005",
+    "villageCode": "005",
+    "districtCode": "32.07.240",
+    "name": "Bendasari",
+    "alias": "Bendasari"
+  },
+  {
+    "code": "32.07.240.006",
+    "villageCode": "006",
+    "districtCode": "32.07.240",
+    "name": "Sadananya",
+    "alias": "Sadananya"
+  },
+  {
+    "code": "32.07.240.007",
+    "villageCode": "007",
+    "districtCode": "32.07.240",
+    "name": "Tanjungsari",
+    "alias": "Tanjungsari"
+  },
+  {
+    "code": "32.07.240.008",
+    "villageCode": "008",
+    "districtCode": "32.07.240",
+    "name": "Gunungsari",
+    "alias": "Gunungsari"
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "code": "33.06.090.001",
+    "villageCode": "001",
+    "districtCode": "33.06.090",
+    "name": "Purwosari",
+    "alias": "Purwosari"
+  },
+  {
+    "code": "33.06.090.002",
+    "villageCode": "002",
+    "districtCode": "33.06.090",
+    "name": "Karangwuluh",
+    "alias": "Karangwuluh"
+  },
+  {
+    "code": "33.06.090.003",
+    "villageCode": "003",
+    "districtCode": "33.06.090",
+    "name": "Kebondalem",
+    "alias": "Kebondalem"
+  },
+  {
+    "code": "33.06.090.004",
+    "villageCode": "004",
+    "districtCode": "33.06.090",
+    "name": "Tuntungpahit",
+    "alias": "Tuntungpahit"
+  },
+  {
+    "code": "33.06.090.005",
+    "villageCode": "005",
+    "districtCode": "33.06.090",
+    "name": "Kiyangkongrejo",
+    "alias": "Kiyangkongrejo"
+  },
+  {
+    "code": "33.06.090.006",
+    "villageCode": "006",
+    "districtCode": "33.06.090",
+    "name": "Pringgowijayan",
+    "alias": "Pringgowijayan"
+  },
+  {
+    "code": "33.06.090.007",
+    "villageCode": "007",
+    "districtCode": "33.06.090",
+    "name": "Suren",
+    "alias": "Suren"
+  },
+  {
+    "code": "33.06.090.008",
+    "villageCode": "008",
+    "districtCode": "33.06.090",
+    "name": "Kepuh",
+    "alias": "Kepuh"
+  },
+  {
+    "code": "33.06.090.009",
+    "villageCode": "009",
+    "districtCode": "33.06.090",
+    "name": "Majir",
+    "alias": "Majir"
+  },
+  {
+    "code": "33.06.090.010",
+    "villageCode": "010",
+    "districtCode": "33.06.090",
+    "name": "Semawung Daleman",
+    "alias": "Semawung Daleman"
+  },
+  {
+    "code": "33.06.090.011",
+    "villageCode": "011",
+    "districtCode": "33.06.090",
+    "name": "Semawung Kembaran",
+    "alias": "Semawung Kembaran"
+  },
+  {
+    "code": "33.06.090.012",
+    "villageCode": "012",
+    "districtCode": "33.06.090",
+    "name": "Kuwurejo",
+    "alias": "Kuwurejo"
+  },
+  {
+    "code": "33.06.090.013",
+    "villageCode": "013",
+    "districtCode": "33.06.090",
+    "name": "Sidarum",
+    "alias": "Sidarum"
+  },
+  {
+    "code": "33.06.090.014",
+    "villageCode": "014",
+    "districtCode": "33.06.090",
+    "name": "Bayem",
+    "alias": "Bayem"
+  },
+  {
+    "code": "33.06.090.015",
+    "villageCode": "015",
+    "districtCode": "33.06.090",
+    "name": "Katerban",
+    "alias": "Katerban"
+  },
+  {
+    "code": "33.06.090.016",
+    "villageCode": "016",
+    "districtCode": "33.06.090",
+    "name": "Kutoarjo",
+    "alias": "Kutoarjo"
+  },
+  {
+    "code": "33.06.090.017",
+    "villageCode": "017",
+    "districtCode": "33.06.090",
+    "name": "Bandung",
+    "alias": "Bandung"
+  },
+  {
+    "code": "33.06.090.018",
+    "villageCode": "018",
+    "districtCode": "33.06.090",
+    "name": "Sokoharjo",
+    "alias": "Sokoharjo"
+  },
+  {
+    "code": "33.06.090.019",
+    "villageCode": "019",
+    "districtCode": "33.06.090",
+    "name": "Pacor",
+    "alias": "Pacor"
+  },
+  {
+    "code": "33.06.090.020",
+    "villageCode": "020",
+    "districtCode": "33.06.090",
+    "name": "Tunggorono",
+    "alias": "Tunggorono"
+  },
+  {
+    "code": "33.06.090.021",
+    "villageCode": "021",
+    "districtCode": "33.06.090",
+    "name": "Tepus Kulon",
+    "alias": "Tepus Kulon"
+  },
+  {
+    "code": "33.06.090.022",
+    "villageCode": "022",
+    "districtCode": "33.06.090",
+    "name": "Tepus Wetan",
+    "alias": "Tepus Wetan"
+  },
+  {
+    "code": "33.06.090.023",
+    "villageCode": "023",
+    "districtCode": "33.06.090",
+    "name": "Kemadu Lor",
+    "alias": "Kemadu Lor"
+  },
+  {
+    "code": "33.06.090.024",
+    "villageCode": "024",
+    "districtCode": "33.06.090",
+    "name": "Kaligesing",
+    "alias": "Kaligesing"
+  },
+  {
+    "code": "33.06.090.025",
+    "villageCode": "025",
+    "districtCode": "33.06.090",
+    "name": "Karangrejo",
+    "alias": "Karangrejo"
+  },
+  {
+    "code": "33.06.090.026",
+    "villageCode": "026",
+    "districtCode": "33.06.090",
+    "name": "Wirun",
+    "alias": "Wirun"
+  },
+  {
+    "code": "33.06.090.027",
+    "villageCode": "027",
+    "districtCode": "33.06.090",
+    "name": "Tursino",
+    "alias": "Tursino"
+  }
+]

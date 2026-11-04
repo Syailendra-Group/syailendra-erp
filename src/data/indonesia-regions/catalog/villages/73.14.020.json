@@ -1,0 +1,65 @@
+[
+  {
+    "code": "73.14.020.001",
+    "villageCode": "001",
+    "districtCode": "73.14.020",
+    "name": "Teppo",
+    "alias": "Teppo"
+  },
+  {
+    "code": "73.14.020.002",
+    "villageCode": "002",
+    "districtCode": "73.14.020",
+    "name": "Massepe",
+    "alias": "Massepe"
+  },
+  {
+    "code": "73.14.020.004",
+    "villageCode": "004",
+    "districtCode": "73.14.020",
+    "name": "Pajalele",
+    "alias": "Pajalele"
+  },
+  {
+    "code": "73.14.020.005",
+    "villageCode": "005",
+    "districtCode": "73.14.020",
+    "name": "Polewali",
+    "alias": "Polewali"
+  },
+  {
+    "code": "73.14.020.006",
+    "villageCode": "006",
+    "districtCode": "73.14.020",
+    "name": "Teteaji",
+    "alias": "Teteaji"
+  },
+  {
+    "code": "73.14.020.007",
+    "villageCode": "007",
+    "districtCode": "73.14.020",
+    "name": "Amparita",
+    "alias": "Amparita"
+  },
+  {
+    "code": "73.14.020.008",
+    "villageCode": "008",
+    "districtCode": "73.14.020",
+    "name": "Baula",
+    "alias": "Baula"
+  },
+  {
+    "code": "73.14.020.009",
+    "villageCode": "009",
+    "districtCode": "73.14.020",
+    "name": "Todang Pulu",
+    "alias": "Todang Pulu"
+  },
+  {
+    "code": "73.14.020.010",
+    "villageCode": "010",
+    "districtCode": "73.14.020",
+    "name": "Arateng",
+    "alias": "Arateng"
+  }
+]

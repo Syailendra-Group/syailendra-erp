@@ -1,0 +1,51 @@
+[
+  {
+    "code": "52.04.020.001",
+    "villageCode": "001",
+    "districtCode": "52.04.020",
+    "name": "Pada Suka",
+    "alias": "Pada Suka"
+  },
+  {
+    "code": "52.04.020.002",
+    "villageCode": "002",
+    "districtCode": "52.04.020",
+    "name": "Suka Maju",
+    "alias": "Suka Maju"
+  },
+  {
+    "code": "52.04.020.003",
+    "villageCode": "003",
+    "districtCode": "52.04.020",
+    "name": "Lunyuk Ode",
+    "alias": "Lunyuk Ode"
+  },
+  {
+    "code": "52.04.020.004",
+    "villageCode": "004",
+    "districtCode": "52.04.020",
+    "name": "Lunyuk Rea",
+    "alias": "Lunyuk Rea"
+  },
+  {
+    "code": "52.04.020.005",
+    "villageCode": "005",
+    "districtCode": "52.04.020",
+    "name": "Jamu",
+    "alias": "Jamu"
+  },
+  {
+    "code": "52.04.020.009",
+    "villageCode": "009",
+    "districtCode": "52.04.020",
+    "name": "Emang Lestari",
+    "alias": "Emang Lestari"
+  },
+  {
+    "code": "52.04.020.010",
+    "villageCode": "010",
+    "districtCode": "52.04.020",
+    "name": "Perung",
+    "alias": "Perung"
+  }
+]

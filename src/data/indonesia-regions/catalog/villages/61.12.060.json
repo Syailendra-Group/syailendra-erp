@@ -1,0 +1,44 @@
+[
+  {
+    "code": "61.12.060.001",
+    "villageCode": "001",
+    "districtCode": "61.12.060",
+    "name": "Rasau Jaya Umum",
+    "alias": "Rasau Jaya Umum"
+  },
+  {
+    "code": "61.12.060.002",
+    "villageCode": "002",
+    "districtCode": "61.12.060",
+    "name": "Bintang  Mas",
+    "alias": "Bintang  Mas"
+  },
+  {
+    "code": "61.12.060.003",
+    "villageCode": "003",
+    "districtCode": "61.12.060",
+    "name": "Rasau Jaya Tiga",
+    "alias": "Rasau Jaya Tiga"
+  },
+  {
+    "code": "61.12.060.004",
+    "villageCode": "004",
+    "districtCode": "61.12.060",
+    "name": "Rasau Jaya Satu",
+    "alias": "Rasau Jaya Satu"
+  },
+  {
+    "code": "61.12.060.005",
+    "villageCode": "005",
+    "districtCode": "61.12.060",
+    "name": "Rasau Jaya Dua",
+    "alias": "Rasau Jaya Dua"
+  },
+  {
+    "code": "61.12.060.006",
+    "villageCode": "006",
+    "districtCode": "61.12.060",
+    "name": "Pematang Tujuh",
+    "alias": "Pematang Tujuh"
+  }
+]

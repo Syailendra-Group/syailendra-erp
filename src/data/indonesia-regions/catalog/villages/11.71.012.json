@@ -1,0 +1,72 @@
+[
+  {
+    "code": "11.71.012.001",
+    "villageCode": "001",
+    "districtCode": "11.71.012",
+    "name": "Lam Ara",
+    "alias": "Lam Ara"
+  },
+  {
+    "code": "11.71.012.002",
+    "villageCode": "002",
+    "districtCode": "11.71.012",
+    "name": "Lampuot",
+    "alias": "Lampuot"
+  },
+  {
+    "code": "11.71.012.003",
+    "villageCode": "003",
+    "districtCode": "11.71.012",
+    "name": "Mibo",
+    "alias": "Mibo"
+  },
+  {
+    "code": "11.71.012.004",
+    "villageCode": "004",
+    "districtCode": "11.71.012",
+    "name": "Lhong Cut",
+    "alias": "Lhong Cut"
+  },
+  {
+    "code": "11.71.012.005",
+    "villageCode": "005",
+    "districtCode": "11.71.012",
+    "name": "Lhong Raya",
+    "alias": "Lhong Raya"
+  },
+  {
+    "code": "11.71.012.006",
+    "villageCode": "006",
+    "districtCode": "11.71.012",
+    "name": "Peunyeurat",
+    "alias": "Peunyeurat"
+  },
+  {
+    "code": "11.71.012.007",
+    "villageCode": "007",
+    "districtCode": "11.71.012",
+    "name": "Lam Lagang",
+    "alias": "Lam Lagang"
+  },
+  {
+    "code": "11.71.012.008",
+    "villageCode": "008",
+    "districtCode": "11.71.012",
+    "name": "Geuceu Komplek",
+    "alias": "Geuceu Komplek"
+  },
+  {
+    "code": "11.71.012.009",
+    "villageCode": "009",
+    "districtCode": "11.71.012",
+    "name": "Geuceu Iniem",
+    "alias": "Geuceu Iniem"
+  },
+  {
+    "code": "11.71.012.010",
+    "villageCode": "010",
+    "districtCode": "11.71.012",
+    "name": "Geuceu Kayee Jato",
+    "alias": "Geuceu Kayee Jato"
+  }
+]

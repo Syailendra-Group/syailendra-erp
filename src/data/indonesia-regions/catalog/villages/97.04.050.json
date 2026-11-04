@@ -1,0 +1,86 @@
+[
+  {
+    "code": "97.04.050.001",
+    "villageCode": "001",
+    "districtCode": "97.04.050",
+    "name": "Wama",
+    "alias": "Wama"
+  },
+  {
+    "code": "97.04.050.002",
+    "villageCode": "002",
+    "districtCode": "97.04.050",
+    "name": "Kumbur",
+    "alias": "Kumbur"
+  },
+  {
+    "code": "97.04.050.003",
+    "villageCode": "003",
+    "districtCode": "97.04.050",
+    "name": "Kwarini",
+    "alias": "Kwarini"
+  },
+  {
+    "code": "97.04.050.004",
+    "villageCode": "004",
+    "districtCode": "97.04.050",
+    "name": "Weyage",
+    "alias": "Weyage"
+  },
+  {
+    "code": "97.04.050.005",
+    "villageCode": "005",
+    "districtCode": "97.04.050",
+    "name": "Towolome",
+    "alias": "Towolome"
+  },
+  {
+    "code": "97.04.050.006",
+    "villageCode": "006",
+    "districtCode": "97.04.050",
+    "name": "Wonitu",
+    "alias": "Wonitu"
+  },
+  {
+    "code": "97.04.050.007",
+    "villageCode": "007",
+    "districtCode": "97.04.050",
+    "name": "Golena",
+    "alias": "Golena"
+  },
+  {
+    "code": "97.04.050.008",
+    "villageCode": "008",
+    "districtCode": "97.04.050",
+    "name": "Korlo",
+    "alias": "Korlo"
+  },
+  {
+    "code": "97.04.050.009",
+    "villageCode": "009",
+    "districtCode": "97.04.050",
+    "name": "Gunalo",
+    "alias": "Gunalo"
+  },
+  {
+    "code": "97.04.050.010",
+    "villageCode": "010",
+    "districtCode": "97.04.050",
+    "name": "Timer",
+    "alias": "Timer"
+  },
+  {
+    "code": "97.04.050.011",
+    "villageCode": "011",
+    "districtCode": "97.04.050",
+    "name": "Nowo",
+    "alias": "Nowo"
+  },
+  {
+    "code": "97.04.050.012",
+    "villageCode": "012",
+    "districtCode": "97.04.050",
+    "name": "Gulak",
+    "alias": "Gulak"
+  }
+]

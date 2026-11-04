@@ -1,0 +1,366 @@
+[
+  {
+    "code": "11.10.040.001",
+    "villageCode": "001",
+    "districtCode": "11.10.040",
+    "name": "Blang Rangkuluh",
+    "alias": "Blang Rangkuluh"
+  },
+  {
+    "code": "11.10.040.002",
+    "villageCode": "002",
+    "districtCode": "11.10.040",
+    "name": "Alue Sijuek",
+    "alias": "Alue Sijuek"
+  },
+  {
+    "code": "11.10.040.003",
+    "villageCode": "003",
+    "districtCode": "11.10.040",
+    "name": "Buket Paya",
+    "alias": "Buket Paya"
+  },
+  {
+    "code": "11.10.040.004",
+    "villageCode": "004",
+    "districtCode": "11.10.040",
+    "name": "Dayah Mon Ara",
+    "alias": "Dayah Mon Ara"
+  },
+  {
+    "code": "11.10.040.005",
+    "villageCode": "005",
+    "districtCode": "11.10.040",
+    "name": "Pulo Ara",
+    "alias": "Pulo Ara"
+  },
+  {
+    "code": "11.10.040.006",
+    "villageCode": "006",
+    "districtCode": "11.10.040",
+    "name": "Cot Laot",
+    "alias": "Cot Laot"
+  },
+  {
+    "code": "11.10.040.007",
+    "villageCode": "007",
+    "districtCode": "11.10.040",
+    "name": "Meunasah Bungo",
+    "alias": "Meunasah Bungo"
+  },
+  {
+    "code": "11.10.040.008",
+    "villageCode": "008",
+    "districtCode": "11.10.040",
+    "name": "Paya Bunot",
+    "alias": "Paya Bunot"
+  },
+  {
+    "code": "11.10.040.009",
+    "villageCode": "009",
+    "districtCode": "11.10.040",
+    "name": "Cot Keutapang",
+    "alias": "Cot Keutapang"
+  },
+  {
+    "code": "11.10.040.010",
+    "villageCode": "010",
+    "districtCode": "11.10.040",
+    "name": "Lawang",
+    "alias": "Lawang"
+  },
+  {
+    "code": "11.10.040.011",
+    "villageCode": "011",
+    "districtCode": "11.10.040",
+    "name": "Hagu",
+    "alias": "Hagu"
+  },
+  {
+    "code": "11.10.040.012",
+    "villageCode": "012",
+    "districtCode": "11.10.040",
+    "name": "Meunasah Krueng",
+    "alias": "Meunasah Krueng"
+  },
+  {
+    "code": "11.10.040.013",
+    "villageCode": "013",
+    "districtCode": "11.10.040",
+    "name": "Meunasah Rabo",
+    "alias": "Meunasah Rabo"
+  },
+  {
+    "code": "11.10.040.014",
+    "villageCode": "014",
+    "districtCode": "11.10.040",
+    "name": "Meunasah Tambo",
+    "alias": "Meunasah Tambo"
+  },
+  {
+    "code": "11.10.040.015",
+    "villageCode": "015",
+    "districtCode": "11.10.040",
+    "name": "Meunasah Baroh",
+    "alias": "Meunasah Baroh"
+  },
+  {
+    "code": "11.10.040.016",
+    "villageCode": "016",
+    "districtCode": "11.10.040",
+    "name": "Blang Matang",
+    "alias": "Blang Matang"
+  },
+  {
+    "code": "11.10.040.017",
+    "villageCode": "017",
+    "districtCode": "11.10.040",
+    "name": "Meunasah Tunong",
+    "alias": "Meunasah Tunong"
+  },
+  {
+    "code": "11.10.040.018",
+    "villageCode": "018",
+    "districtCode": "11.10.040",
+    "name": "Meunasah Alue",
+    "alias": "Meunasah Alue"
+  },
+  {
+    "code": "11.10.040.019",
+    "villageCode": "019",
+    "districtCode": "11.10.040",
+    "name": "Blang Bati",
+    "alias": "Blang Bati"
+  },
+  {
+    "code": "11.10.040.020",
+    "villageCode": "020",
+    "districtCode": "11.10.040",
+    "name": "Keude Alue Rheing",
+    "alias": "Keude Alue Rheing"
+  },
+  {
+    "code": "11.10.040.021",
+    "villageCode": "021",
+    "districtCode": "11.10.040",
+    "name": "Pulo Lawang",
+    "alias": "Pulo Lawang"
+  },
+  {
+    "code": "11.10.040.022",
+    "villageCode": "022",
+    "districtCode": "11.10.040",
+    "name": "Karieng",
+    "alias": "Karieng"
+  },
+  {
+    "code": "11.10.040.023",
+    "villageCode": "023",
+    "districtCode": "11.10.040",
+    "name": "Blang Glumpang",
+    "alias": "Blang Glumpang"
+  },
+  {
+    "code": "11.10.040.024",
+    "villageCode": "024",
+    "districtCode": "11.10.040",
+    "name": "Meunasah Mesjid",
+    "alias": "Meunasah Mesjid"
+  },
+  {
+    "code": "11.10.040.025",
+    "villageCode": "025",
+    "districtCode": "11.10.040",
+    "name": "Meunasah Cut",
+    "alias": "Meunasah Cut"
+  },
+  {
+    "code": "11.10.040.026",
+    "villageCode": "026",
+    "districtCode": "11.10.040",
+    "name": "Matang Reuleut",
+    "alias": "Matang Reuleut"
+  },
+  {
+    "code": "11.10.040.027",
+    "villageCode": "027",
+    "districtCode": "11.10.040",
+    "name": "Meunasah Pulo",
+    "alias": "Meunasah Pulo"
+  },
+  {
+    "code": "11.10.040.028",
+    "villageCode": "028",
+    "districtCode": "11.10.040",
+    "name": "Ara Bungong",
+    "alias": "Ara Bungong"
+  },
+  {
+    "code": "11.10.040.029",
+    "villageCode": "029",
+    "districtCode": "11.10.040",
+    "name": "Garot",
+    "alias": "Garot"
+  },
+  {
+    "code": "11.10.040.030",
+    "villageCode": "030",
+    "districtCode": "11.10.040",
+    "name": "Blang Beururu",
+    "alias": "Blang Beururu"
+  },
+  {
+    "code": "11.10.040.031",
+    "villageCode": "031",
+    "districtCode": "11.10.040",
+    "name": "Jabet",
+    "alias": "Jabet"
+  },
+  {
+    "code": "11.10.040.032",
+    "villageCode": "032",
+    "districtCode": "11.10.040",
+    "name": "Sawang",
+    "alias": "Sawang"
+  },
+  {
+    "code": "11.10.040.033",
+    "villageCode": "033",
+    "districtCode": "11.10.040",
+    "name": "Blang Kubu",
+    "alias": "Blang Kubu"
+  },
+  {
+    "code": "11.10.040.034",
+    "villageCode": "034",
+    "districtCode": "11.10.040",
+    "name": "Matang Pasi",
+    "alias": "Matang Pasi"
+  },
+  {
+    "code": "11.10.040.035",
+    "villageCode": "035",
+    "districtCode": "11.10.040",
+    "name": "Kukue",
+    "alias": "Kukue"
+  },
+  {
+    "code": "11.10.040.036",
+    "villageCode": "036",
+    "districtCode": "11.10.040",
+    "name": "Meunasah Blang",
+    "alias": "Meunasah Blang"
+  },
+  {
+    "code": "11.10.040.037",
+    "villageCode": "037",
+    "districtCode": "11.10.040",
+    "name": "Gampong Baro",
+    "alias": "Gampong Baro"
+  },
+  {
+    "code": "11.10.040.038",
+    "villageCode": "038",
+    "districtCode": "11.10.040",
+    "name": "Gampong Paya",
+    "alias": "Gampong Paya"
+  },
+  {
+    "code": "11.10.040.039",
+    "villageCode": "039",
+    "districtCode": "11.10.040",
+    "name": "Seuneubok Paya",
+    "alias": "Seuneubok Paya"
+  },
+  {
+    "code": "11.10.040.040",
+    "villageCode": "040",
+    "districtCode": "11.10.040",
+    "name": "Meunasah Teungoh",
+    "alias": "Meunasah Teungoh"
+  },
+  {
+    "code": "11.10.040.041",
+    "villageCode": "041",
+    "districtCode": "11.10.040",
+    "name": "Calok",
+    "alias": "Calok"
+  },
+  {
+    "code": "11.10.040.042",
+    "villageCode": "042",
+    "districtCode": "11.10.040",
+    "name": "Tanjong Seulamat",
+    "alias": "Tanjong Seulamat"
+  },
+  {
+    "code": "11.10.040.043",
+    "villageCode": "043",
+    "districtCode": "11.10.040",
+    "name": "Jaba",
+    "alias": "Jaba"
+  },
+  {
+    "code": "11.10.040.044",
+    "villageCode": "044",
+    "districtCode": "11.10.040",
+    "name": "Cot Kruet",
+    "alias": "Cot Kruet"
+  },
+  {
+    "code": "11.10.040.045",
+    "villageCode": "045",
+    "districtCode": "11.10.040",
+    "name": "Alue Keutapang",
+    "alias": "Alue Keutapang"
+  },
+  {
+    "code": "11.10.040.046",
+    "villageCode": "046",
+    "districtCode": "11.10.040",
+    "name": "Alue Gandai",
+    "alias": "Alue Gandai"
+  },
+  {
+    "code": "11.10.040.047",
+    "villageCode": "047",
+    "districtCode": "11.10.040",
+    "name": "Tgk.Di Bathon",
+    "alias": "Tgk.Di Bathon"
+  },
+  {
+    "code": "11.10.040.048",
+    "villageCode": "048",
+    "districtCode": "11.10.040",
+    "name": "Paya Barat",
+    "alias": "Paya Barat"
+  },
+  {
+    "code": "11.10.040.049",
+    "villageCode": "049",
+    "districtCode": "11.10.040",
+    "name": "Gampong Mulia",
+    "alias": "Gampong Mulia"
+  },
+  {
+    "code": "11.10.040.050",
+    "villageCode": "050",
+    "districtCode": "11.10.040",
+    "name": "Neubok Naleung",
+    "alias": "Neubok Naleung"
+  },
+  {
+    "code": "11.10.040.051",
+    "villageCode": "051",
+    "districtCode": "11.10.040",
+    "name": "Paya Timu",
+    "alias": "Paya Timu"
+  },
+  {
+    "code": "11.10.040.052",
+    "villageCode": "052",
+    "districtCode": "11.10.040",
+    "name": "Pinto Rimba",
+    "alias": "Pinto Rimba"
+  }
+]

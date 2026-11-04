@@ -1,0 +1,58 @@
+[
+  {
+    "code": "74.14.040.001",
+    "villageCode": "001",
+    "districtCode": "74.14.040",
+    "name": "Lagili",
+    "alias": "Lagili"
+  },
+  {
+    "code": "74.14.040.002",
+    "villageCode": "002",
+    "districtCode": "74.14.040",
+    "name": "Wambuloli",
+    "alias": "Wambuloli"
+  },
+  {
+    "code": "74.14.040.003",
+    "villageCode": "003",
+    "districtCode": "74.14.040",
+    "name": "Bonemarambe",
+    "alias": "Bonemarambe"
+  },
+  {
+    "code": "74.14.040.004",
+    "villageCode": "004",
+    "districtCode": "74.14.040",
+    "name": "Lasori",
+    "alias": "Lasori"
+  },
+  {
+    "code": "74.14.040.005",
+    "villageCode": "005",
+    "districtCode": "74.14.040",
+    "name": "Inulu",
+    "alias": "Inulu"
+  },
+  {
+    "code": "74.14.040.006",
+    "villageCode": "006",
+    "districtCode": "74.14.040",
+    "name": "Wantopi",
+    "alias": "Wantopi"
+  },
+  {
+    "code": "74.14.040.007",
+    "villageCode": "007",
+    "districtCode": "74.14.040",
+    "name": "Bungi",
+    "alias": "Bungi"
+  },
+  {
+    "code": "74.14.040.008",
+    "villageCode": "008",
+    "districtCode": "74.14.040",
+    "name": "Batubanawa",
+    "alias": "Batubanawa"
+  }
+]

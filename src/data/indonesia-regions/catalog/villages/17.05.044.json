@@ -1,0 +1,72 @@
+[
+  {
+    "code": "17.05.044.001",
+    "villageCode": "001",
+    "districtCode": "17.05.044",
+    "name": "Simpang",
+    "alias": "Simpang"
+  },
+  {
+    "code": "17.05.044.002",
+    "villageCode": "002",
+    "districtCode": "17.05.044",
+    "name": "Selingsingan",
+    "alias": "Selingsingan"
+  },
+  {
+    "code": "17.05.044.003",
+    "villageCode": "003",
+    "districtCode": "17.05.044",
+    "name": "Puguk",
+    "alias": "Puguk"
+  },
+  {
+    "code": "17.05.044.004",
+    "villageCode": "004",
+    "districtCode": "17.05.044",
+    "name": "Pandan",
+    "alias": "Pandan"
+  },
+  {
+    "code": "17.05.044.005",
+    "villageCode": "005",
+    "districtCode": "17.05.044",
+    "name": "Talang Beringin",
+    "alias": "Talang Beringin"
+  },
+  {
+    "code": "17.05.044.006",
+    "villageCode": "006",
+    "districtCode": "17.05.044",
+    "name": "Talang Rami",
+    "alias": "Talang Rami"
+  },
+  {
+    "code": "17.05.044.007",
+    "villageCode": "007",
+    "districtCode": "17.05.044",
+    "name": "Lubuk Resam",
+    "alias": "Lubuk Resam"
+  },
+  {
+    "code": "17.05.044.008",
+    "villageCode": "008",
+    "districtCode": "17.05.044",
+    "name": "Sekalak",
+    "alias": "Sekalak"
+  },
+  {
+    "code": "17.05.044.009",
+    "villageCode": "009",
+    "districtCode": "17.05.044",
+    "name": "Sinar Pagi",
+    "alias": "Sinar Pagi"
+  },
+  {
+    "code": "17.05.044.010",
+    "villageCode": "010",
+    "districtCode": "17.05.044",
+    "name": "Talang Empat",
+    "alias": "Talang Empat"
+  }
+]

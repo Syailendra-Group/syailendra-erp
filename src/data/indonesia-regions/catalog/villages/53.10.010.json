@@ -1,0 +1,100 @@
+[
+  {
+    "code": "53.10.010.001",
+    "villageCode": "001",
+    "districtCode": "53.10.010",
+    "name": "Wolowiro",
+    "alias": "Wolowiro"
+  },
+  {
+    "code": "53.10.010.002",
+    "villageCode": "002",
+    "districtCode": "53.10.010",
+    "name": "Mauloo",
+    "alias": "Mauloo"
+  },
+  {
+    "code": "53.10.010.003",
+    "villageCode": "003",
+    "districtCode": "53.10.010",
+    "name": "Mbengu",
+    "alias": "Mbengu"
+  },
+  {
+    "code": "53.10.010.004",
+    "villageCode": "004",
+    "districtCode": "53.10.010",
+    "name": "Paga",
+    "alias": "Paga"
+  },
+  {
+    "code": "53.10.010.008",
+    "villageCode": "008",
+    "districtCode": "53.10.010",
+    "name": "Lenandareta",
+    "alias": "Lenandareta"
+  },
+  {
+    "code": "53.10.010.015",
+    "villageCode": "015",
+    "districtCode": "53.10.010",
+    "name": "Masebewa",
+    "alias": "Masebewa"
+  },
+  {
+    "code": "53.10.010.016",
+    "villageCode": "016",
+    "districtCode": "53.10.010",
+    "name": "Wolorega",
+    "alias": "Wolorega"
+  },
+  {
+    "code": "53.10.010.017",
+    "villageCode": "017",
+    "districtCode": "53.10.010",
+    "name": "Wolowona",
+    "alias": "Wolowona"
+  },
+  {
+    "code": "53.10.010.018",
+    "villageCode": "018",
+    "districtCode": "53.10.010",
+    "name": "Lowolabo",
+    "alias": "Lowolabo"
+  },
+  {
+    "code": "53.10.010.019",
+    "villageCode": "019",
+    "districtCode": "53.10.010",
+    "name": "Aebubu",
+    "alias": "Aebubu"
+  },
+  {
+    "code": "53.10.010.020",
+    "villageCode": "020",
+    "districtCode": "53.10.010",
+    "name": "Regapu'U",
+    "alias": "Regapu'U"
+  },
+  {
+    "code": "53.10.010.021",
+    "villageCode": "021",
+    "districtCode": "53.10.010",
+    "name": "Rejo",
+    "alias": "Rejo"
+  },
+  {
+    "code": "53.10.010.022",
+    "villageCode": "022",
+    "districtCode": "53.10.010",
+    "name": "Begu",
+    "alias": "Begu"
+  },
+  {
+    "code": "53.10.010.023",
+    "villageCode": "023",
+    "districtCode": "53.10.010",
+    "name": "Kotandelu",
+    "alias": "Kotandelu"
+  }
+]

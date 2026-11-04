@@ -1,0 +1,170 @@
+[
+  {
+    "code": "82.06.020.001",
+    "villageCode": "001",
+    "districtCode": "82.06.020",
+    "name": "Nusa Ambu",
+    "alias": "Nusa Ambu"
+  },
+  {
+    "code": "82.06.020.002",
+    "villageCode": "002",
+    "districtCode": "82.06.020",
+    "name": "Pintatu",
+    "alias": "Pintatu"
+  },
+  {
+    "code": "82.06.020.003",
+    "villageCode": "003",
+    "districtCode": "82.06.020",
+    "name": "Binagara",
+    "alias": "Binagara"
+  },
+  {
+    "code": "82.06.020.004",
+    "villageCode": "004",
+    "districtCode": "82.06.020",
+    "name": "Nusa Jaya",
+    "alias": "Nusa Jaya"
+  },
+  {
+    "code": "82.06.020.005",
+    "villageCode": "005",
+    "districtCode": "82.06.020",
+    "name": "Minamin",
+    "alias": "Minamin"
+  },
+  {
+    "code": "82.06.020.006",
+    "villageCode": "006",
+    "districtCode": "82.06.020",
+    "name": "Waijoi",
+    "alias": "Waijoi"
+  },
+  {
+    "code": "82.06.020.007",
+    "villageCode": "007",
+    "districtCode": "82.06.020",
+    "name": "Saramaake",
+    "alias": "Saramaake"
+  },
+  {
+    "code": "82.06.020.008",
+    "villageCode": "008",
+    "districtCode": "82.06.020",
+    "name": "Wasile",
+    "alias": "Wasile"
+  },
+  {
+    "code": "82.06.020.009",
+    "villageCode": "009",
+    "districtCode": "82.06.020",
+    "name": "Fayaul",
+    "alias": "Fayaul"
+  },
+  {
+    "code": "82.06.020.010",
+    "villageCode": "010",
+    "districtCode": "82.06.020",
+    "name": "Tomares",
+    "alias": "Tomares"
+  },
+  {
+    "code": "82.06.020.011",
+    "villageCode": "011",
+    "districtCode": "82.06.020",
+    "name": "Tabanalou",
+    "alias": "Tabanalou"
+  },
+  {
+    "code": "82.06.020.012",
+    "villageCode": "012",
+    "districtCode": "82.06.020",
+    "name": "Saolat",
+    "alias": "Saolat"
+  },
+  {
+    "code": "82.06.020.013",
+    "villageCode": "013",
+    "districtCode": "82.06.020",
+    "name": "Loleba",
+    "alias": "Loleba"
+  },
+  {
+    "code": "82.06.020.014",
+    "villageCode": "014",
+    "districtCode": "82.06.020",
+    "name": "Nanas",
+    "alias": "Nanas"
+  },
+  {
+    "code": "82.06.020.015",
+    "villageCode": "015",
+    "districtCode": "82.06.020",
+    "name": "Sondo-Sondo",
+    "alias": "Sondo-Sondo"
+  },
+  {
+    "code": "82.06.020.016",
+    "villageCode": "016",
+    "districtCode": "82.06.020",
+    "name": "Talaga Jaya",
+    "alias": "Talaga Jaya"
+  },
+  {
+    "code": "82.06.020.017",
+    "villageCode": "017",
+    "districtCode": "82.06.020",
+    "name": "Ake Jawi",
+    "alias": "Ake Jawi"
+  },
+  {
+    "code": "82.06.020.018",
+    "villageCode": "018",
+    "districtCode": "82.06.020",
+    "name": "Ino Jaya",
+    "alias": "Ino Jaya"
+  },
+  {
+    "code": "82.06.020.019",
+    "villageCode": "019",
+    "districtCode": "82.06.020",
+    "name": "Jikomoi",
+    "alias": "Jikomoi"
+  },
+  {
+    "code": "82.06.020.020",
+    "villageCode": "020",
+    "districtCode": "82.06.020",
+    "name": "Yawal",
+    "alias": "Yawal"
+  },
+  {
+    "code": "82.06.020.021",
+    "villageCode": "021",
+    "districtCode": "82.06.020",
+    "name": "Tanure",
+    "alias": "Tanure"
+  },
+  {
+    "code": "82.06.020.022",
+    "villageCode": "022",
+    "districtCode": "82.06.020",
+    "name": "Ekor",
+    "alias": "Ekor"
+  },
+  {
+    "code": "82.06.020.023",
+    "villageCode": "023",
+    "districtCode": "82.06.020",
+    "name": "Ekorino",
+    "alias": "Ekorino"
+  },
+  {
+    "code": "82.06.020.024",
+    "villageCode": "024",
+    "districtCode": "82.06.020",
+    "name": "Bukutio",
+    "alias": "Bukutio"
+  }
+]

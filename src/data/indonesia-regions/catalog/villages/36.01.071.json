@@ -1,0 +1,65 @@
+[
+  {
+    "code": "36.01.071.001",
+    "villageCode": "001",
+    "districtCode": "36.01.071",
+    "name": "Cipinang",
+    "alias": "Cipinang"
+  },
+  {
+    "code": "36.01.071.002",
+    "villageCode": "002",
+    "districtCode": "36.01.071",
+    "name": "Kadubadak",
+    "alias": "Kadubadak"
+  },
+  {
+    "code": "36.01.071.004",
+    "villageCode": "004",
+    "districtCode": "36.01.071",
+    "name": "Cikayas",
+    "alias": "Cikayas"
+  },
+  {
+    "code": "36.01.071.005",
+    "villageCode": "005",
+    "districtCode": "36.01.071",
+    "name": "Sumurlaban",
+    "alias": "Sumurlaban"
+  },
+  {
+    "code": "36.01.071.006",
+    "villageCode": "006",
+    "districtCode": "36.01.071",
+    "name": "Padamulya",
+    "alias": "Padamulya"
+  },
+  {
+    "code": "36.01.071.007",
+    "villageCode": "007",
+    "districtCode": "36.01.071",
+    "name": "Padaherang",
+    "alias": "Padaherang"
+  },
+  {
+    "code": "36.01.071.008",
+    "villageCode": "008",
+    "districtCode": "36.01.071",
+    "name": "Karangsari",
+    "alias": "Karangsari"
+  },
+  {
+    "code": "36.01.071.009",
+    "villageCode": "009",
+    "districtCode": "36.01.071",
+    "name": "Angsana",
+    "alias": "Angsana"
+  },
+  {
+    "code": "36.01.071.010",
+    "villageCode": "010",
+    "districtCode": "36.01.071",
+    "name": "Kramatmanik",
+    "alias": "Kramatmanik"
+  }
+]

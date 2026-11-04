@@ -1,0 +1,37 @@
+[
+  {
+    "code": "96.04.040.001",
+    "villageCode": "001",
+    "districtCode": "96.04.040",
+    "name": "Totoberi",
+    "alias": "Totoberi"
+  },
+  {
+    "code": "96.04.040.002",
+    "villageCode": "002",
+    "districtCode": "96.04.040",
+    "name": "Samanui",
+    "alias": "Samanui"
+  },
+  {
+    "code": "96.04.040.003",
+    "villageCode": "003",
+    "districtCode": "96.04.040",
+    "name": "Kamarisanoi",
+    "alias": "Kamarisanoi"
+  },
+  {
+    "code": "96.04.040.004",
+    "villageCode": "004",
+    "districtCode": "96.04.040",
+    "name": "Keuw",
+    "alias": "Keuw"
+  },
+  {
+    "code": "96.04.040.005",
+    "villageCode": "005",
+    "districtCode": "96.04.040",
+    "name": "Taumi",
+    "alias": "Taumi"
+  }
+]

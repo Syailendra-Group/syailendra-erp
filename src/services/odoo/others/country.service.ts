@@ -24,24 +24,17 @@ export interface PaginatedCountriesResult {
   pageCount: number
 }
 
-export interface CurrencyOption {
-  id: number
-  name: string
-  symbol: string
-}
-
 function mapCountry(r: Record<string, OdooFieldValue>): CountryRecord {
   return {
     id: r.id as number,
     name: r.name as string,
     code: (r.code as string) || '',
-    currency_id: (r.currency_id as [number, string]) || false,
     phone_code: Number(r.phone_code) || false,
     description: (r.vat_label as string) || false
   }
 }
 
-const COUNTRY_READ_FIELDS = ['id', 'name', 'code', 'currency_id', 'phone_code', 'vat_label']
+const COUNTRY_READ_FIELDS = ['id', 'name', 'code', 'phone_code', 'vat_label']
 
 export async function fetchCountries(): Promise<CountryRecord[]> {
   const records = await odoo.client.searchRead<Record<string, OdooFieldValue>>('res.country', [], COUNTRY_READ_FIELDS, {
@@ -89,24 +82,11 @@ export async function fetchCountryById(id: number): Promise<CountryRecord | null
   return mapCountry(r)
 }
 
-export async function fetchCurrencies(): Promise<CurrencyOption[]> {
-  const records = await odoo.client.searchRead<Record<string, OdooFieldValue>>('res.currency', [], ['id', 'name', 'symbol'], {
-    order: 'name asc',
-    limit: 100
-  })
-  return records.map((c) => ({
-    id: c.id as number,
-    name: c.name as string,
-    symbol: (c.symbol as string) || ''
-  }))
-}
-
 export async function persistCountry(values: CountryFormValues): Promise<number> {
   const payload: Record<string, OdooFieldValue> = {
     name: values.name,
     code: values.code.toUpperCase(),
     phone_code: values.phone_code || false,
-    currency_id: values.currency_id || false,
     vat_label: values.description || false
   }
 

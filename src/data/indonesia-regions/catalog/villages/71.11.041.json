@@ -1,0 +1,72 @@
+[
+  {
+    "code": "71.11.041.001",
+    "villageCode": "001",
+    "districtCode": "71.11.041",
+    "name": "Moat",
+    "alias": "Moat"
+  },
+  {
+    "code": "71.11.041.002",
+    "villageCode": "002",
+    "districtCode": "71.11.041",
+    "name": "Bongkudai Selatan",
+    "alias": "Bongkudai Selatan"
+  },
+  {
+    "code": "71.11.041.003",
+    "villageCode": "003",
+    "districtCode": "71.11.041",
+    "name": "Bongkudai Baru",
+    "alias": "Bongkudai Baru"
+  },
+  {
+    "code": "71.11.041.004",
+    "villageCode": "004",
+    "districtCode": "71.11.041",
+    "name": "Bongkudai Utara",
+    "alias": "Bongkudai Utara"
+  },
+  {
+    "code": "71.11.041.005",
+    "villageCode": "005",
+    "districtCode": "71.11.041",
+    "name": "Bongkudai Timur",
+    "alias": "Bongkudai Timur"
+  },
+  {
+    "code": "71.11.041.006",
+    "villageCode": "006",
+    "districtCode": "71.11.041",
+    "name": "Guaan",
+    "alias": "Guaan"
+  },
+  {
+    "code": "71.11.041.007",
+    "villageCode": "007",
+    "districtCode": "71.11.041",
+    "name": "Mototompiaan",
+    "alias": "Mototompiaan"
+  },
+  {
+    "code": "71.11.041.008",
+    "villageCode": "008",
+    "districtCode": "71.11.041",
+    "name": "Mokitompia",
+    "alias": "Mokitompia"
+  },
+  {
+    "code": "71.11.041.009",
+    "villageCode": "009",
+    "districtCode": "71.11.041",
+    "name": "Kokapoy",
+    "alias": "Kokapoy"
+  },
+  {
+    "code": "71.11.041.010",
+    "villageCode": "010",
+    "districtCode": "71.11.041",
+    "name": "Kokapoy Timur",
+    "alias": "Kokapoy Timur"
+  }
+]

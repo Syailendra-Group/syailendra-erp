@@ -1,0 +1,51 @@
+[
+  {
+    "code": "94.28.040.001",
+    "villageCode": "001",
+    "districtCode": "94.28.040",
+    "name": "Baudi",
+    "alias": "Baudi"
+  },
+  {
+    "code": "94.28.040.002",
+    "villageCode": "002",
+    "districtCode": "94.28.040",
+    "name": "Trimuris",
+    "alias": "Trimuris"
+  },
+  {
+    "code": "94.28.040.003",
+    "villageCode": "003",
+    "districtCode": "94.28.040",
+    "name": "Swaseso",
+    "alias": "Swaseso"
+  },
+  {
+    "code": "94.28.040.004",
+    "villageCode": "004",
+    "districtCode": "94.28.040",
+    "name": "Kapeso",
+    "alias": "Kapeso"
+  },
+  {
+    "code": "94.28.040.005",
+    "villageCode": "005",
+    "districtCode": "94.28.040",
+    "name": "Bagusa",
+    "alias": "Bagusa"
+  },
+  {
+    "code": "94.28.040.006",
+    "villageCode": "006",
+    "districtCode": "94.28.040",
+    "name": "Warembori",
+    "alias": "Warembori"
+  },
+  {
+    "code": "94.28.040.007",
+    "villageCode": "007",
+    "districtCode": "94.28.040",
+    "name": "Yoke",
+    "alias": "Yoke"
+  }
+]

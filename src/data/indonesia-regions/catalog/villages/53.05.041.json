@@ -1,0 +1,37 @@
+[
+  {
+    "code": "53.05.041.006",
+    "villageCode": "006",
+    "districtCode": "53.05.041",
+    "name": "Humusu A",
+    "alias": "Humusu A"
+  },
+  {
+    "code": "53.05.041.007",
+    "villageCode": "007",
+    "districtCode": "53.05.041",
+    "name": "Fatumtasa",
+    "alias": "Fatumtasa"
+  },
+  {
+    "code": "53.05.041.008",
+    "villageCode": "008",
+    "districtCode": "53.05.041",
+    "name": "Humusu B",
+    "alias": "Humusu B"
+  },
+  {
+    "code": "53.05.041.009",
+    "villageCode": "009",
+    "districtCode": "53.05.041",
+    "name": "Oesoko",
+    "alias": "Oesoko"
+  },
+  {
+    "code": "53.05.041.010",
+    "villageCode": "010",
+    "districtCode": "53.05.041",
+    "name": "Humusu Wini",
+    "alias": "Humusu Wini"
+  }
+]

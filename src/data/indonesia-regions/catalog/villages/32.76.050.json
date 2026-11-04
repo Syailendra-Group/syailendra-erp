@@ -1,0 +1,44 @@
+[
+  {
+    "code": "32.76.050.001",
+    "villageCode": "001",
+    "districtCode": "32.76.050",
+    "name": "Beji",
+    "alias": "Beji"
+  },
+  {
+    "code": "32.76.050.002",
+    "villageCode": "002",
+    "districtCode": "32.76.050",
+    "name": "Beji Timur",
+    "alias": "Beji Timur"
+  },
+  {
+    "code": "32.76.050.003",
+    "villageCode": "003",
+    "districtCode": "32.76.050",
+    "name": "Kemirimuka",
+    "alias": "Kemirimuka"
+  },
+  {
+    "code": "32.76.050.004",
+    "villageCode": "004",
+    "districtCode": "32.76.050",
+    "name": "Pondok Cina",
+    "alias": "Pondok Cina"
+  },
+  {
+    "code": "32.76.050.005",
+    "villageCode": "005",
+    "districtCode": "32.76.050",
+    "name": "Kukusan",
+    "alias": "Kukusan"
+  },
+  {
+    "code": "32.76.050.006",
+    "villageCode": "006",
+    "districtCode": "32.76.050",
+    "name": "Tanah Baru",
+    "alias": "Tanah Baru"
+  }
+]

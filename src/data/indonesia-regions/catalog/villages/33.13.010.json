@@ -1,0 +1,72 @@
+[
+  {
+    "code": "33.13.010.001",
+    "villageCode": "001",
+    "districtCode": "33.13.010",
+    "name": "Ngepungsari",
+    "alias": "Ngepungsari"
+  },
+  {
+    "code": "33.13.010.002",
+    "villageCode": "002",
+    "districtCode": "33.13.010",
+    "name": "Jatipurwo",
+    "alias": "Jatipurwo"
+  },
+  {
+    "code": "33.13.010.003",
+    "villageCode": "003",
+    "districtCode": "33.13.010",
+    "name": "Jatipuro",
+    "alias": "Jatipuro"
+  },
+  {
+    "code": "33.13.010.004",
+    "villageCode": "004",
+    "districtCode": "33.13.010",
+    "name": "Jatisobo",
+    "alias": "Jatisobo"
+  },
+  {
+    "code": "33.13.010.005",
+    "villageCode": "005",
+    "districtCode": "33.13.010",
+    "name": "Jatiwarno",
+    "alias": "Jatiwarno"
+  },
+  {
+    "code": "33.13.010.006",
+    "villageCode": "006",
+    "districtCode": "33.13.010",
+    "name": "Jatimulyo",
+    "alias": "Jatimulyo"
+  },
+  {
+    "code": "33.13.010.007",
+    "villageCode": "007",
+    "districtCode": "33.13.010",
+    "name": "Jatisuko",
+    "alias": "Jatisuko"
+  },
+  {
+    "code": "33.13.010.008",
+    "villageCode": "008",
+    "districtCode": "33.13.010",
+    "name": "Jatiharjo",
+    "alias": "Jatiharjo"
+  },
+  {
+    "code": "33.13.010.009",
+    "villageCode": "009",
+    "districtCode": "33.13.010",
+    "name": "Jatikuwung",
+    "alias": "Jatikuwung"
+  },
+  {
+    "code": "33.13.010.010",
+    "villageCode": "010",
+    "districtCode": "33.13.010",
+    "name": "Jatiroyo",
+    "alias": "Jatiroyo"
+  }
+]

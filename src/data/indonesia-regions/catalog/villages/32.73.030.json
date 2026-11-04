@@ -1,0 +1,37 @@
+[
+  {
+    "code": "32.73.030.001",
+    "villageCode": "001",
+    "districtCode": "32.73.030",
+    "name": "Kopo",
+    "alias": "Kopo"
+  },
+  {
+    "code": "32.73.030.002",
+    "villageCode": "002",
+    "districtCode": "32.73.030",
+    "name": "Suka Asih",
+    "alias": "Suka Asih"
+  },
+  {
+    "code": "32.73.030.003",
+    "villageCode": "003",
+    "districtCode": "32.73.030",
+    "name": "Babakan Asih",
+    "alias": "Babakan Asih"
+  },
+  {
+    "code": "32.73.030.004",
+    "villageCode": "004",
+    "districtCode": "32.73.030",
+    "name": "Babakan Tarogong",
+    "alias": "Babakan Tarogong"
+  },
+  {
+    "code": "32.73.030.005",
+    "villageCode": "005",
+    "districtCode": "32.73.030",
+    "name": "Jamika",
+    "alias": "Jamika"
+  }
+]

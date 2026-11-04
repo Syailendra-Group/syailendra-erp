@@ -1,0 +1,44 @@
+[
+  {
+    "code": "14.07.021.001",
+    "villageCode": "001",
+    "districtCode": "14.07.021",
+    "name": "Kabun",
+    "alias": "Kabun"
+  },
+  {
+    "code": "14.07.021.002",
+    "villageCode": "002",
+    "districtCode": "14.07.021",
+    "name": "Aliantan",
+    "alias": "Aliantan"
+  },
+  {
+    "code": "14.07.021.003",
+    "villageCode": "003",
+    "districtCode": "14.07.021",
+    "name": "Koto Ranah",
+    "alias": "Koto Ranah"
+  },
+  {
+    "code": "14.07.021.004",
+    "villageCode": "004",
+    "districtCode": "14.07.021",
+    "name": "Bencah Kesuma",
+    "alias": "Bencah Kesuma"
+  },
+  {
+    "code": "14.07.021.005",
+    "villageCode": "005",
+    "districtCode": "14.07.021",
+    "name": "Batu Langkah Besar",
+    "alias": "Batu Langkah Besar"
+  },
+  {
+    "code": "14.07.021.006",
+    "villageCode": "006",
+    "districtCode": "14.07.021",
+    "name": "Giti",
+    "alias": "Giti"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "code": "73.03.010",
+    "districtCode": "010",
+    "regencyCode": "73.03",
+    "provinceCode": "73",
+    "name": "Kecamatan Bissappu",
+    "alias": "Bissappu"
+  },
+  {
+    "code": "73.03.011",
+    "districtCode": "011",
+    "regencyCode": "73.03",
+    "provinceCode": "73",
+    "name": "Kecamatan Uluere",
+    "alias": "Uluere"
+  },
+  {
+    "code": "73.03.012",
+    "districtCode": "012",
+    "regencyCode": "73.03",
+    "provinceCode": "73",
+    "name": "Kecamatan Sinoa",
+    "alias": "Sinoa"
+  },
+  {
+    "code": "73.03.020",
+    "districtCode": "020",
+    "regencyCode": "73.03",
+    "provinceCode": "73",
+    "name": "Kecamatan Bantaeng",
+    "alias": "Bantaeng"
+  },
+  {
+    "code": "73.03.021",
+    "districtCode": "021",
+    "regencyCode": "73.03",
+    "provinceCode": "73",
+    "name": "Kecamatan Eremerasa",
+    "alias": "Eremerasa"
+  },
+  {
+    "code": "73.03.030",
+    "districtCode": "030",
+    "regencyCode": "73.03",
+    "provinceCode": "73",
+    "name": "Kecamatan Tompobulu",
+    "alias": "Tompobulu"
+  },
+  {
+    "code": "73.03.031",
+    "districtCode": "031",
+    "regencyCode": "73.03",
+    "provinceCode": "73",
+    "name": "Kecamatan Pa'Jukukang",
+    "alias": "Pa'Jukukang"
+  },
+  {
+    "code": "73.03.032",
+    "districtCode": "032",
+    "regencyCode": "73.03",
+    "provinceCode": "73",
+    "name": "Kecamatan Gantarangkeke",
+    "alias": "Gantarangkeke"
+  }
+]

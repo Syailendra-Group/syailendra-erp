@@ -1,0 +1,82 @@
+[
+  {
+    "code": "82.01",
+    "regencyCode": "01",
+    "provinceCode": "82",
+    "provinceName": "Maluku Utara",
+    "name": "Kabupaten Halmahera Barat",
+    "alias": "Halmahera Barat"
+  },
+  {
+    "code": "82.02",
+    "regencyCode": "02",
+    "provinceCode": "82",
+    "provinceName": "Maluku Utara",
+    "name": "Kabupaten Halmahera Tengah",
+    "alias": "Halmahera Tengah"
+  },
+  {
+    "code": "82.03",
+    "regencyCode": "03",
+    "provinceCode": "82",
+    "provinceName": "Maluku Utara",
+    "name": "Kabupaten Kepulauan Sula",
+    "alias": "Kepulauan Sula"
+  },
+  {
+    "code": "82.04",
+    "regencyCode": "04",
+    "provinceCode": "82",
+    "provinceName": "Maluku Utara",
+    "name": "Kabupaten Halmahera Selatan",
+    "alias": "Halmahera Selatan"
+  },
+  {
+    "code": "82.05",
+    "regencyCode": "05",
+    "provinceCode": "82",
+    "provinceName": "Maluku Utara",
+    "name": "Kabupaten Halmahera Utara",
+    "alias": "Halmahera Utara"
+  },
+  {
+    "code": "82.06",
+    "regencyCode": "06",
+    "provinceCode": "82",
+    "provinceName": "Maluku Utara",
+    "name": "Kabupaten Halmahera Timur",
+    "alias": "Halmahera Timur"
+  },
+  {
+    "code": "82.07",
+    "regencyCode": "07",
+    "provinceCode": "82",
+    "provinceName": "Maluku Utara",
+    "name": "Kabupaten Pulau Morotai",
+    "alias": "Pulau Morotai"
+  },
+  {
+    "code": "82.08",
+    "regencyCode": "08",
+    "provinceCode": "82",
+    "provinceName": "Maluku Utara",
+    "name": "Kabupaten Pulau Taliabu",
+    "alias": "Pulau Taliabu"
+  },
+  {
+    "code": "82.71",
+    "regencyCode": "71",
+    "provinceCode": "82",
+    "provinceName": "Maluku Utara",
+    "name": "Kota Ternate",
+    "alias": "Ternate"
+  },
+  {
+    "code": "82.72",
+    "regencyCode": "72",
+    "provinceCode": "82",
+    "provinceName": "Maluku Utara",
+    "name": "Kota Tidore Kepulauan",
+    "alias": "Tidore Kepulauan"
+  }
+]

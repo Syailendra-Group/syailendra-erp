@@ -1,0 +1,58 @@
+[
+  {
+    "code": "36.03.131.001",
+    "villageCode": "001",
+    "districtCode": "36.03.131",
+    "name": "Jayanti",
+    "alias": "Jayanti"
+  },
+  {
+    "code": "36.03.131.002",
+    "villageCode": "002",
+    "districtCode": "36.03.131",
+    "name": "Pasir Muncang",
+    "alias": "Pasir Muncang"
+  },
+  {
+    "code": "36.03.131.003",
+    "villageCode": "003",
+    "districtCode": "36.03.131",
+    "name": "Sumur Bandung",
+    "alias": "Sumur Bandung"
+  },
+  {
+    "code": "36.03.131.004",
+    "villageCode": "004",
+    "districtCode": "36.03.131",
+    "name": "Cikande",
+    "alias": "Cikande"
+  },
+  {
+    "code": "36.03.131.005",
+    "villageCode": "005",
+    "districtCode": "36.03.131",
+    "name": "Pasir Gintung",
+    "alias": "Pasir Gintung"
+  },
+  {
+    "code": "36.03.131.006",
+    "villageCode": "006",
+    "districtCode": "36.03.131",
+    "name": "Pangkat",
+    "alias": "Pangkat"
+  },
+  {
+    "code": "36.03.131.007",
+    "villageCode": "007",
+    "districtCode": "36.03.131",
+    "name": "Dang Deur",
+    "alias": "Dang Deur"
+  },
+  {
+    "code": "36.03.131.008",
+    "villageCode": "008",
+    "districtCode": "36.03.131",
+    "name": "Pabuaran",
+    "alias": "Pabuaran"
+  }
+]

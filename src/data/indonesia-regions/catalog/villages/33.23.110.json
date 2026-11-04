@@ -1,0 +1,93 @@
+[
+  {
+    "code": "33.23.110.001",
+    "villageCode": "001",
+    "districtCode": "33.23.110",
+    "name": "Morobongo",
+    "alias": "Morobongo"
+  },
+  {
+    "code": "33.23.110.002",
+    "villageCode": "002",
+    "districtCode": "33.23.110",
+    "name": "Sukomarto",
+    "alias": "Sukomarto"
+  },
+  {
+    "code": "33.23.110.003",
+    "villageCode": "003",
+    "districtCode": "33.23.110",
+    "name": "Padureso",
+    "alias": "Padureso"
+  },
+  {
+    "code": "33.23.110.004",
+    "villageCode": "004",
+    "districtCode": "33.23.110",
+    "name": "Barang",
+    "alias": "Barang"
+  },
+  {
+    "code": "33.23.110.005",
+    "villageCode": "005",
+    "districtCode": "33.23.110",
+    "name": "Karangtejo",
+    "alias": "Karangtejo"
+  },
+  {
+    "code": "33.23.110.006",
+    "villageCode": "006",
+    "districtCode": "33.23.110",
+    "name": "Ketitang",
+    "alias": "Ketitang"
+  },
+  {
+    "code": "33.23.110.007",
+    "villageCode": "007",
+    "districtCode": "33.23.110",
+    "name": "Jombor",
+    "alias": "Jombor"
+  },
+  {
+    "code": "33.23.110.008",
+    "villageCode": "008",
+    "districtCode": "33.23.110",
+    "name": "Giyono",
+    "alias": "Giyono"
+  },
+  {
+    "code": "33.23.110.009",
+    "villageCode": "009",
+    "districtCode": "33.23.110",
+    "name": "Gunung Gempol",
+    "alias": "Gunung Gempol"
+  },
+  {
+    "code": "33.23.110.010",
+    "villageCode": "010",
+    "districtCode": "33.23.110",
+    "name": "Jumo",
+    "alias": "Jumo"
+  },
+  {
+    "code": "33.23.110.011",
+    "villageCode": "011",
+    "districtCode": "33.23.110",
+    "name": "Kertosari",
+    "alias": "Kertosari"
+  },
+  {
+    "code": "33.23.110.012",
+    "villageCode": "012",
+    "districtCode": "33.23.110",
+    "name": "Jamusan",
+    "alias": "Jamusan"
+  },
+  {
+    "code": "33.23.110.019",
+    "villageCode": "019",
+    "districtCode": "33.23.110",
+    "name": "Gedongsari",
+    "alias": "Gedongsari"
+  }
+]

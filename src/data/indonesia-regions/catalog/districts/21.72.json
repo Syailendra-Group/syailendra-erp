@@ -1,0 +1,34 @@
+[
+  {
+    "code": "21.72.010",
+    "districtCode": "010",
+    "regencyCode": "21.72",
+    "provinceCode": "21",
+    "name": "Kecamatan Bukit Bestari",
+    "alias": "Bukit Bestari"
+  },
+  {
+    "code": "21.72.020",
+    "districtCode": "020",
+    "regencyCode": "21.72",
+    "provinceCode": "21",
+    "name": "Kecamatan Tanjungpinang Timur",
+    "alias": "Tanjungpinang Timur"
+  },
+  {
+    "code": "21.72.030",
+    "districtCode": "030",
+    "regencyCode": "21.72",
+    "provinceCode": "21",
+    "name": "Kecamatan Tanjungpinang Kota",
+    "alias": "Tanjungpinang Kota"
+  },
+  {
+    "code": "21.72.040",
+    "districtCode": "040",
+    "regencyCode": "21.72",
+    "provinceCode": "21",
+    "name": "Kecamatan Tanjungpinang Barat",
+    "alias": "Tanjungpinang Barat"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "code": "14.04.030.005",
+    "villageCode": "005",
+    "districtCode": "14.04.030",
+    "name": "Merbau",
+    "alias": "Merbau"
+  },
+  {
+    "code": "14.04.030.009",
+    "villageCode": "009",
+    "districtCode": "14.04.030",
+    "name": "Petani",
+    "alias": "Petani"
+  },
+  {
+    "code": "14.04.030.010",
+    "villageCode": "010",
+    "districtCode": "14.04.030",
+    "name": "Pangkalan Bunut",
+    "alias": "Pangkalan Bunut"
+  },
+  {
+    "code": "14.04.030.011",
+    "villageCode": "011",
+    "districtCode": "14.04.030",
+    "name": "Lubuk Mas",
+    "alias": "Lubuk Mas"
+  },
+  {
+    "code": "14.04.030.012",
+    "villageCode": "012",
+    "districtCode": "14.04.030",
+    "name": "Balam Merah",
+    "alias": "Balam Merah"
+  },
+  {
+    "code": "14.04.030.013",
+    "villageCode": "013",
+    "districtCode": "14.04.030",
+    "name": "Bagan Laguh",
+    "alias": "Bagan Laguh"
+  },
+  {
+    "code": "14.04.030.014",
+    "villageCode": "014",
+    "districtCode": "14.04.030",
+    "name": "Sungai Buluh",
+    "alias": "Sungai Buluh"
+  },
+  {
+    "code": "14.04.030.017",
+    "villageCode": "017",
+    "districtCode": "14.04.030",
+    "name": "Lubuk Mandian Gajah",
+    "alias": "Lubuk Mandian Gajah"
+  },
+  {
+    "code": "14.04.030.018",
+    "villageCode": "018",
+    "districtCode": "14.04.030",
+    "name": "Keriung",
+    "alias": "Keriung"
+  },
+  {
+    "code": "14.04.030.019",
+    "villageCode": "019",
+    "districtCode": "14.04.030",
+    "name": "Sialang Kayu Batu",
+    "alias": "Sialang Kayu Batu"
+  }
+]

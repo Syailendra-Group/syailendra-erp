@@ -1,0 +1,65 @@
+[
+  {
+    "code": "17.04.071.001",
+    "villageCode": "001",
+    "districtCode": "17.04.071",
+    "name": "Gunung Kaya",
+    "alias": "Gunung Kaya"
+  },
+  {
+    "code": "17.04.071.002",
+    "villageCode": "002",
+    "districtCode": "17.04.071",
+    "name": "Ulak Agung",
+    "alias": "Ulak Agung"
+  },
+  {
+    "code": "17.04.071.003",
+    "villageCode": "003",
+    "districtCode": "17.04.071",
+    "name": "Air Kering I",
+    "alias": "Air Kering I"
+  },
+  {
+    "code": "17.04.071.004",
+    "villageCode": "004",
+    "districtCode": "17.04.071",
+    "name": "Talang Padang",
+    "alias": "Talang Padang"
+  },
+  {
+    "code": "17.04.071.005",
+    "villageCode": "005",
+    "districtCode": "17.04.071",
+    "name": "Talang Jawi I",
+    "alias": "Talang Jawi I"
+  },
+  {
+    "code": "17.04.071.006",
+    "villageCode": "006",
+    "districtCode": "17.04.071",
+    "name": "Talang Jawi Ii",
+    "alias": "Talang Jawi Ii"
+  },
+  {
+    "code": "17.04.071.007",
+    "villageCode": "007",
+    "districtCode": "17.04.071",
+    "name": "Talang Besar",
+    "alias": "Talang Besar"
+  },
+  {
+    "code": "17.04.071.008",
+    "villageCode": "008",
+    "districtCode": "17.04.071",
+    "name": "Pulau Panggung",
+    "alias": "Pulau Panggung"
+  },
+  {
+    "code": "17.04.071.010",
+    "villageCode": "010",
+    "districtCode": "17.04.071",
+    "name": "Air Kering Ii",
+    "alias": "Air Kering Ii"
+  }
+]

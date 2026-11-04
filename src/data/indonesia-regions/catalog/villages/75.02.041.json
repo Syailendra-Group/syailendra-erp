@@ -1,0 +1,72 @@
+[
+  {
+    "code": "75.02.041.001",
+    "villageCode": "001",
+    "districtCode": "75.02.041",
+    "name": "Talumopatu",
+    "alias": "Talumopatu"
+  },
+  {
+    "code": "75.02.041.002",
+    "villageCode": "002",
+    "districtCode": "75.02.041",
+    "name": "Sido Mukti",
+    "alias": "Sido Mukti"
+  },
+  {
+    "code": "75.02.041.003",
+    "villageCode": "003",
+    "districtCode": "75.02.041",
+    "name": "Karya Mukti",
+    "alias": "Karya Mukti"
+  },
+  {
+    "code": "75.02.041.004",
+    "villageCode": "004",
+    "districtCode": "75.02.041",
+    "name": "Satria",
+    "alias": "Satria"
+  },
+  {
+    "code": "75.02.041.005",
+    "villageCode": "005",
+    "districtCode": "75.02.041",
+    "name": "Paris",
+    "alias": "Paris"
+  },
+  {
+    "code": "75.02.041.006",
+    "villageCode": "006",
+    "districtCode": "75.02.041",
+    "name": "Helumo",
+    "alias": "Helumo"
+  },
+  {
+    "code": "75.02.041.007",
+    "villageCode": "007",
+    "districtCode": "75.02.041",
+    "name": "Pilomonu",
+    "alias": "Pilomonu"
+  },
+  {
+    "code": "75.02.041.008",
+    "villageCode": "008",
+    "districtCode": "75.02.041",
+    "name": "Huyula",
+    "alias": "Huyula"
+  },
+  {
+    "code": "75.02.041.009",
+    "villageCode": "009",
+    "districtCode": "75.02.041",
+    "name": "Payu",
+    "alias": "Payu"
+  },
+  {
+    "code": "75.02.041.010",
+    "villageCode": "010",
+    "districtCode": "75.02.041",
+    "name": "Suka Maju",
+    "alias": "Suka Maju"
+  }
+]

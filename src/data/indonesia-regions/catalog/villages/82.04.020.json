@@ -1,0 +1,65 @@
+[
+  {
+    "code": "82.04.020.008",
+    "villageCode": "008",
+    "districtCode": "82.04.020",
+    "name": "Anggai",
+    "alias": "Anggai"
+  },
+  {
+    "code": "82.04.020.009",
+    "villageCode": "009",
+    "districtCode": "82.04.020",
+    "name": "Sambiki",
+    "alias": "Sambiki"
+  },
+  {
+    "code": "82.04.020.011",
+    "villageCode": "011",
+    "districtCode": "82.04.020",
+    "name": "Jikotamo",
+    "alias": "Jikotamo"
+  },
+  {
+    "code": "82.04.020.013",
+    "villageCode": "013",
+    "districtCode": "82.04.020",
+    "name": "Laiwui",
+    "alias": "Laiwui"
+  },
+  {
+    "code": "82.04.020.014",
+    "villageCode": "014",
+    "districtCode": "82.04.020",
+    "name": "Buton",
+    "alias": "Buton"
+  },
+  {
+    "code": "82.04.020.015",
+    "villageCode": "015",
+    "districtCode": "82.04.020",
+    "name": "Baru",
+    "alias": "Baru"
+  },
+  {
+    "code": "82.04.020.016",
+    "villageCode": "016",
+    "districtCode": "82.04.020",
+    "name": "Akegula",
+    "alias": "Akegula"
+  },
+  {
+    "code": "82.04.020.021",
+    "villageCode": "021",
+    "districtCode": "82.04.020",
+    "name": "Kawasi",
+    "alias": "Kawasi"
+  },
+  {
+    "code": "82.04.020.022",
+    "villageCode": "022",
+    "districtCode": "82.04.020",
+    "name": "Air Mangga",
+    "alias": "Air Mangga"
+  }
+]

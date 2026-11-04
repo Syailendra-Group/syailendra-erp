@@ -1,0 +1,86 @@
+[
+  {
+    "code": "35.26.120.001",
+    "villageCode": "001",
+    "districtCode": "35.26.120",
+    "name": "Jambu",
+    "alias": "Jambu"
+  },
+  {
+    "code": "35.26.120.002",
+    "villageCode": "002",
+    "districtCode": "35.26.120",
+    "name": "Langkap",
+    "alias": "Langkap"
+  },
+  {
+    "code": "35.26.120.003",
+    "villageCode": "003",
+    "districtCode": "35.26.120",
+    "name": "Burneh",
+    "alias": "Burneh"
+  },
+  {
+    "code": "35.26.120.004",
+    "villageCode": "004",
+    "districtCode": "35.26.120",
+    "name": "Benangkah",
+    "alias": "Benangkah"
+  },
+  {
+    "code": "35.26.120.005",
+    "villageCode": "005",
+    "districtCode": "35.26.120",
+    "name": "Alas Kembang",
+    "alias": "Alas Kembang"
+  },
+  {
+    "code": "35.26.120.006",
+    "villageCode": "006",
+    "districtCode": "35.26.120",
+    "name": "Binoh",
+    "alias": "Binoh"
+  },
+  {
+    "code": "35.26.120.007",
+    "villageCode": "007",
+    "districtCode": "35.26.120",
+    "name": "Perreng",
+    "alias": "Perreng"
+  },
+  {
+    "code": "35.26.120.008",
+    "villageCode": "008",
+    "districtCode": "35.26.120",
+    "name": "Pangolangan",
+    "alias": "Pangolangan"
+  },
+  {
+    "code": "35.26.120.009",
+    "villageCode": "009",
+    "districtCode": "35.26.120",
+    "name": "Sobih",
+    "alias": "Sobih"
+  },
+  {
+    "code": "35.26.120.010",
+    "villageCode": "010",
+    "districtCode": "35.26.120",
+    "name": "Tonjung",
+    "alias": "Tonjung"
+  },
+  {
+    "code": "35.26.120.011",
+    "villageCode": "011",
+    "districtCode": "35.26.120",
+    "name": "Kapor",
+    "alias": "Kapor"
+  },
+  {
+    "code": "35.26.120.012",
+    "villageCode": "012",
+    "districtCode": "35.26.120",
+    "name": "Arok",
+    "alias": "Arok"
+  }
+]

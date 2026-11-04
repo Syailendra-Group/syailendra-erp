@@ -1,0 +1,72 @@
+[
+  {
+    "code": "13.02.011.001",
+    "villageCode": "001",
+    "districtCode": "13.02.011",
+    "name": "Silaut",
+    "alias": "Silaut"
+  },
+  {
+    "code": "13.02.011.002",
+    "villageCode": "002",
+    "districtCode": "13.02.011",
+    "name": "Sambungo",
+    "alias": "Sambungo"
+  },
+  {
+    "code": "13.02.011.003",
+    "villageCode": "003",
+    "districtCode": "13.02.011",
+    "name": "Air Hitam",
+    "alias": "Air Hitam"
+  },
+  {
+    "code": "13.02.011.004",
+    "villageCode": "004",
+    "districtCode": "13.02.011",
+    "name": "Lubuk Bunta",
+    "alias": "Lubuk Bunta"
+  },
+  {
+    "code": "13.02.011.005",
+    "villageCode": "005",
+    "districtCode": "13.02.011",
+    "name": "Durian Seribu",
+    "alias": "Durian Seribu"
+  },
+  {
+    "code": "13.02.011.006",
+    "villageCode": "006",
+    "districtCode": "13.02.011",
+    "name": "Pasir Binjai",
+    "alias": "Pasir Binjai"
+  },
+  {
+    "code": "13.02.011.007",
+    "villageCode": "007",
+    "districtCode": "13.02.011",
+    "name": "Talang Binjai",
+    "alias": "Talang Binjai"
+  },
+  {
+    "code": "13.02.011.008",
+    "villageCode": "008",
+    "districtCode": "13.02.011",
+    "name": "Sungai Sarik",
+    "alias": "Sungai Sarik"
+  },
+  {
+    "code": "13.02.011.009",
+    "villageCode": "009",
+    "districtCode": "13.02.011",
+    "name": "Sungai Pulai",
+    "alias": "Sungai Pulai"
+  },
+  {
+    "code": "13.02.011.010",
+    "villageCode": "010",
+    "districtCode": "13.02.011",
+    "name": "Sungai Sirah",
+    "alias": "Sungai Sirah"
+  }
+]

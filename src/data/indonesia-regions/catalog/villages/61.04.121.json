@@ -1,0 +1,44 @@
+[
+  {
+    "code": "61.04.121.001",
+    "villageCode": "001",
+    "districtCode": "61.04.121",
+    "name": "Pentek",
+    "alias": "Pentek"
+  },
+  {
+    "code": "61.04.121.002",
+    "villageCode": "002",
+    "districtCode": "61.04.121",
+    "name": "Sekabuk",
+    "alias": "Sekabuk"
+  },
+  {
+    "code": "61.04.121.003",
+    "villageCode": "003",
+    "districtCode": "61.04.121",
+    "name": "Bumbun",
+    "alias": "Bumbun"
+  },
+  {
+    "code": "61.04.121.004",
+    "villageCode": "004",
+    "districtCode": "61.04.121",
+    "name": "Amawang",
+    "alias": "Amawang"
+  },
+  {
+    "code": "61.04.121.005",
+    "villageCode": "005",
+    "districtCode": "61.04.121",
+    "name": "Ansiap",
+    "alias": "Ansiap"
+  },
+  {
+    "code": "61.04.121.006",
+    "villageCode": "006",
+    "districtCode": "61.04.121",
+    "name": "Suak Barangan",
+    "alias": "Suak Barangan"
+  }
+]

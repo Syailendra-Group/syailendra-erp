@@ -1,0 +1,30 @@
+[
+  {
+    "code": "35.78.211.003",
+    "villageCode": "003",
+    "districtCode": "35.78.211",
+    "name": "Kenjeran",
+    "alias": "Kenjeran"
+  },
+  {
+    "code": "35.78.211.004",
+    "villageCode": "004",
+    "districtCode": "35.78.211",
+    "name": "Bulak",
+    "alias": "Bulak"
+  },
+  {
+    "code": "35.78.211.005",
+    "villageCode": "005",
+    "districtCode": "35.78.211",
+    "name": "Kedung Cowek",
+    "alias": "Kedung Cowek"
+  },
+  {
+    "code": "35.78.211.006",
+    "villageCode": "006",
+    "districtCode": "35.78.211",
+    "name": "Sukolilo Baru",
+    "alias": "Sukolilo Baru"
+  }
+]

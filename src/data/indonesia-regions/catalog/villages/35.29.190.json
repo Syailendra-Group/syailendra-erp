@@ -1,0 +1,107 @@
+[
+  {
+    "code": "35.29.190.001",
+    "villageCode": "001",
+    "districtCode": "35.29.190",
+    "name": "Jadung",
+    "alias": "Jadung"
+  },
+  {
+    "code": "35.29.190.002",
+    "villageCode": "002",
+    "districtCode": "35.29.190",
+    "name": "Romben Barat",
+    "alias": "Romben Barat"
+  },
+  {
+    "code": "35.29.190.003",
+    "villageCode": "003",
+    "districtCode": "35.29.190",
+    "name": "Romben Rana",
+    "alias": "Romben Rana"
+  },
+  {
+    "code": "35.29.190.004",
+    "villageCode": "004",
+    "districtCode": "35.29.190",
+    "name": "Romben Guna",
+    "alias": "Romben Guna"
+  },
+  {
+    "code": "35.29.190.005",
+    "villageCode": "005",
+    "districtCode": "35.29.190",
+    "name": "Bicabi",
+    "alias": "Bicabi"
+  },
+  {
+    "code": "35.29.190.006",
+    "villageCode": "006",
+    "districtCode": "35.29.190",
+    "name": "Dungkek",
+    "alias": "Dungkek"
+  },
+  {
+    "code": "35.29.190.007",
+    "villageCode": "007",
+    "districtCode": "35.29.190",
+    "name": "Lapa Laok",
+    "alias": "Lapa Laok"
+  },
+  {
+    "code": "35.29.190.008",
+    "villageCode": "008",
+    "districtCode": "35.29.190",
+    "name": "Lapa Daya",
+    "alias": "Lapa Daya"
+  },
+  {
+    "code": "35.29.190.009",
+    "villageCode": "009",
+    "districtCode": "35.29.190",
+    "name": "Lapa Taman",
+    "alias": "Lapa Taman"
+  },
+  {
+    "code": "35.29.190.010",
+    "villageCode": "010",
+    "districtCode": "35.29.190",
+    "name": "Bungin Bungin",
+    "alias": "Bungin Bungin"
+  },
+  {
+    "code": "35.29.190.011",
+    "villageCode": "011",
+    "districtCode": "35.29.190",
+    "name": "Bunpenang",
+    "alias": "Bunpenang"
+  },
+  {
+    "code": "35.29.190.012",
+    "villageCode": "012",
+    "districtCode": "35.29.190",
+    "name": "Tamansare",
+    "alias": "Tamansare"
+  },
+  {
+    "code": "35.29.190.013",
+    "villageCode": "013",
+    "districtCode": "35.29.190",
+    "name": "Candi",
+    "alias": "Candi"
+  },
+  {
+    "code": "35.29.190.014",
+    "villageCode": "014",
+    "districtCode": "35.29.190",
+    "name": "Bancamara",
+    "alias": "Bancamara"
+  },
+  {
+    "code": "35.29.190.015",
+    "villageCode": "015",
+    "districtCode": "35.29.190",
+    "name": "Banraas",
+    "alias": "Banraas"
+  }
+]

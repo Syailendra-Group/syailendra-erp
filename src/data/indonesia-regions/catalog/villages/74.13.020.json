@@ -1,0 +1,58 @@
+[
+  {
+    "code": "74.13.020.001",
+    "villageCode": "001",
+    "districtCode": "74.13.020",
+    "name": "G A L A",
+    "alias": "G A L A"
+  },
+  {
+    "code": "74.13.020.002",
+    "villageCode": "002",
+    "districtCode": "74.13.020",
+    "name": "Bangko",
+    "alias": "Bangko"
+  },
+  {
+    "code": "74.13.020.008",
+    "villageCode": "008",
+    "districtCode": "74.13.020",
+    "name": "Abadi Jaya",
+    "alias": "Abadi Jaya"
+  },
+  {
+    "code": "74.13.020.009",
+    "villageCode": "009",
+    "districtCode": "74.13.020",
+    "name": "Pajala",
+    "alias": "Pajala"
+  },
+  {
+    "code": "74.13.020.010",
+    "villageCode": "010",
+    "districtCode": "74.13.020",
+    "name": "Maginti",
+    "alias": "Maginti"
+  },
+  {
+    "code": "74.13.020.011",
+    "villageCode": "011",
+    "districtCode": "74.13.020",
+    "name": "Kangkunawe",
+    "alias": "Kangkunawe"
+  },
+  {
+    "code": "74.13.020.012",
+    "villageCode": "012",
+    "districtCode": "74.13.020",
+    "name": "Pasipadangan",
+    "alias": "Pasipadangan"
+  },
+  {
+    "code": "74.13.020.013",
+    "villageCode": "013",
+    "districtCode": "74.13.020",
+    "name": "Kembar Maminasa",
+    "alias": "Kembar Maminasa"
+  }
+]

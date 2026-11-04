@@ -1,0 +1,107 @@
+[
+  {
+    "code": "35.24.050.001",
+    "villageCode": "001",
+    "districtCode": "35.24.050",
+    "name": "Sumberdadi",
+    "alias": "Sumberdadi"
+  },
+  {
+    "code": "35.24.050.002",
+    "villageCode": "002",
+    "districtCode": "35.24.050",
+    "name": "Kedukbembem",
+    "alias": "Kedukbembem"
+  },
+  {
+    "code": "35.24.050.003",
+    "villageCode": "003",
+    "districtCode": "35.24.050",
+    "name": "Kedungsoko",
+    "alias": "Kedungsoko"
+  },
+  {
+    "code": "35.24.050.004",
+    "villageCode": "004",
+    "districtCode": "35.24.050",
+    "name": "Sidomulyo",
+    "alias": "Sidomulyo"
+  },
+  {
+    "code": "35.24.050.005",
+    "villageCode": "005",
+    "districtCode": "35.24.050",
+    "name": "Sukosari",
+    "alias": "Sukosari"
+  },
+  {
+    "code": "35.24.050.006",
+    "villageCode": "006",
+    "districtCode": "35.24.050",
+    "name": "Mojosari",
+    "alias": "Mojosari"
+  },
+  {
+    "code": "35.24.050.007",
+    "villageCode": "007",
+    "districtCode": "35.24.050",
+    "name": "Rumpuk",
+    "alias": "Rumpuk"
+  },
+  {
+    "code": "35.24.050.008",
+    "villageCode": "008",
+    "districtCode": "35.24.050",
+    "name": "Plabuhanrejo",
+    "alias": "Plabuhanrejo"
+  },
+  {
+    "code": "35.24.050.009",
+    "villageCode": "009",
+    "districtCode": "35.24.050",
+    "name": "Sumberkerep",
+    "alias": "Sumberkerep"
+  },
+  {
+    "code": "35.24.050.010",
+    "villageCode": "010",
+    "districtCode": "35.24.050",
+    "name": "Sumberagung",
+    "alias": "Sumberagung"
+  },
+  {
+    "code": "35.24.050.011",
+    "villageCode": "011",
+    "districtCode": "35.24.050",
+    "name": "Mantup",
+    "alias": "Mantup"
+  },
+  {
+    "code": "35.24.050.012",
+    "villageCode": "012",
+    "districtCode": "35.24.050",
+    "name": "Tugu",
+    "alias": "Tugu"
+  },
+  {
+    "code": "35.24.050.013",
+    "villageCode": "013",
+    "districtCode": "35.24.050",
+    "name": "Sumberbendo",
+    "alias": "Sumberbendo"
+  },
+  {
+    "code": "35.24.050.014",
+    "villageCode": "014",
+    "districtCode": "35.24.050",
+    "name": "Tunggunjagir",
+    "alias": "Tunggunjagir"
+  },
+  {
+    "code": "35.24.050.015",
+    "villageCode": "015",
+    "districtCode": "35.24.050",
+    "name": "Sukobendu",
+    "alias": "Sukobendu"
+  }
+]

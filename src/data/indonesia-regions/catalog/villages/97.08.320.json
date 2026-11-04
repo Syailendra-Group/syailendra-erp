@@ -1,0 +1,79 @@
+[
+  {
+    "code": "97.08.320.001",
+    "villageCode": "001",
+    "districtCode": "97.08.320",
+    "name": "Batom",
+    "alias": "Batom"
+  },
+  {
+    "code": "97.08.320.002",
+    "villageCode": "002",
+    "districtCode": "97.08.320",
+    "name": "Oksip",
+    "alias": "Oksip"
+  },
+  {
+    "code": "97.08.320.003",
+    "villageCode": "003",
+    "districtCode": "97.08.320",
+    "name": "Sabi",
+    "alias": "Sabi"
+  },
+  {
+    "code": "97.08.320.004",
+    "villageCode": "004",
+    "districtCode": "97.08.320",
+    "name": "Batom Dua",
+    "alias": "Batom Dua"
+  },
+  {
+    "code": "97.08.320.005",
+    "villageCode": "005",
+    "districtCode": "97.08.320",
+    "name": "Neep",
+    "alias": "Neep"
+  },
+  {
+    "code": "97.08.320.006",
+    "villageCode": "006",
+    "districtCode": "97.08.320",
+    "name": "Muara",
+    "alias": "Muara"
+  },
+  {
+    "code": "97.08.320.007",
+    "villageCode": "007",
+    "districtCode": "97.08.320",
+    "name": "Okyako",
+    "alias": "Okyako"
+  },
+  {
+    "code": "97.08.320.008",
+    "villageCode": "008",
+    "districtCode": "97.08.320",
+    "name": "Mongham",
+    "alias": "Mongham"
+  },
+  {
+    "code": "97.08.320.009",
+    "villageCode": "009",
+    "districtCode": "97.08.320",
+    "name": "Mongham",
+    "alias": "Mongham"
+  },
+  {
+    "code": "97.08.320.010",
+    "villageCode": "010",
+    "districtCode": "97.08.320",
+    "name": "Peteng",
+    "alias": "Peteng"
+  },
+  {
+    "code": "97.08.320.011",
+    "villageCode": "011",
+    "districtCode": "97.08.320",
+    "name": "Abukerom",
+    "alias": "Abukerom"
+  }
+]

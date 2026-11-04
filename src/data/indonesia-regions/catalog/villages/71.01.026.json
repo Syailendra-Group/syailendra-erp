@@ -1,0 +1,86 @@
+[
+  {
+    "code": "71.01.026.001",
+    "villageCode": "001",
+    "districtCode": "71.01.026",
+    "name": "Siniyung",
+    "alias": "Siniyung"
+  },
+  {
+    "code": "71.01.026.002",
+    "villageCode": "002",
+    "districtCode": "71.01.026",
+    "name": "Siniyung I",
+    "alias": "Siniyung I"
+  },
+  {
+    "code": "71.01.026.003",
+    "villageCode": "003",
+    "districtCode": "71.01.026",
+    "name": "Bumbungon",
+    "alias": "Bumbungon"
+  },
+  {
+    "code": "71.01.026.004",
+    "villageCode": "004",
+    "districtCode": "71.01.026",
+    "name": "Serasi",
+    "alias": "Serasi"
+  },
+  {
+    "code": "71.01.026.005",
+    "villageCode": "005",
+    "districtCode": "71.01.026",
+    "name": "Mototabian",
+    "alias": "Mototabian"
+  },
+  {
+    "code": "71.01.026.006",
+    "villageCode": "006",
+    "districtCode": "71.01.026",
+    "name": "Ponompiaan",
+    "alias": "Ponompiaan"
+  },
+  {
+    "code": "71.01.026.007",
+    "villageCode": "007",
+    "districtCode": "71.01.026",
+    "name": "Pusian",
+    "alias": "Pusian"
+  },
+  {
+    "code": "71.01.026.008",
+    "villageCode": "008",
+    "districtCode": "71.01.026",
+    "name": "Kanaan",
+    "alias": "Kanaan"
+  },
+  {
+    "code": "71.01.026.009",
+    "villageCode": "009",
+    "districtCode": "71.01.026",
+    "name": "Toruakat",
+    "alias": "Toruakat"
+  },
+  {
+    "code": "71.01.026.010",
+    "villageCode": "010",
+    "districtCode": "71.01.026",
+    "name": "Dumoga I",
+    "alias": "Dumoga I"
+  },
+  {
+    "code": "71.01.026.011",
+    "villageCode": "011",
+    "districtCode": "71.01.026",
+    "name": "Pusian Barat",
+    "alias": "Pusian Barat"
+  },
+  {
+    "code": "71.01.026.012",
+    "villageCode": "012",
+    "districtCode": "71.01.026",
+    "name": "Pusian Selatan",
+    "alias": "Pusian Selatan"
+  }
+]

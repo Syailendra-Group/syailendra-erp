@@ -1,0 +1,58 @@
+[
+  {
+    "code": "35.06.141.001",
+    "villageCode": "001",
+    "districtCode": "35.06.141",
+    "name": "Sekoto",
+    "alias": "Sekoto"
+  },
+  {
+    "code": "35.06.141.002",
+    "villageCode": "002",
+    "districtCode": "35.06.141",
+    "name": "Bringin",
+    "alias": "Bringin"
+  },
+  {
+    "code": "35.06.141.003",
+    "villageCode": "003",
+    "districtCode": "35.06.141",
+    "name": "Lamong",
+    "alias": "Lamong"
+  },
+  {
+    "code": "35.06.141.004",
+    "villageCode": "004",
+    "districtCode": "35.06.141",
+    "name": "Canggu",
+    "alias": "Canggu"
+  },
+  {
+    "code": "35.06.141.005",
+    "villageCode": "005",
+    "districtCode": "35.06.141",
+    "name": "Krecek",
+    "alias": "Krecek"
+  },
+  {
+    "code": "35.06.141.006",
+    "villageCode": "006",
+    "districtCode": "35.06.141",
+    "name": "Tunglur",
+    "alias": "Tunglur"
+  },
+  {
+    "code": "35.06.141.007",
+    "villageCode": "007",
+    "districtCode": "35.06.141",
+    "name": "Badas",
+    "alias": "Badas"
+  },
+  {
+    "code": "35.06.141.008",
+    "villageCode": "008",
+    "districtCode": "35.06.141",
+    "name": "Blaru",
+    "alias": "Blaru"
+  }
+]

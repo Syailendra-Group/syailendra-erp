@@ -1,0 +1,72 @@
+[
+  {
+    "code": "72.07.040.001",
+    "villageCode": "001",
+    "districtCode": "72.07.040",
+    "name": "Lonu",
+    "alias": "Lonu"
+  },
+  {
+    "code": "72.07.040.002",
+    "villageCode": "002",
+    "districtCode": "72.07.040",
+    "name": "Bunobogu",
+    "alias": "Bunobogu"
+  },
+  {
+    "code": "72.07.040.003",
+    "villageCode": "003",
+    "districtCode": "72.07.040",
+    "name": "Tamit",
+    "alias": "Tamit"
+  },
+  {
+    "code": "72.07.040.005",
+    "villageCode": "005",
+    "districtCode": "72.07.040",
+    "name": "Konamukan",
+    "alias": "Konamukan"
+  },
+  {
+    "code": "72.07.040.006",
+    "villageCode": "006",
+    "districtCode": "72.07.040",
+    "name": "Ponipingan",
+    "alias": "Ponipingan"
+  },
+  {
+    "code": "72.07.040.007",
+    "villageCode": "007",
+    "districtCode": "72.07.040",
+    "name": "Inalatan",
+    "alias": "Inalatan"
+  },
+  {
+    "code": "72.07.040.013",
+    "villageCode": "013",
+    "districtCode": "72.07.040",
+    "name": "Botugolu",
+    "alias": "Botugolu"
+  },
+  {
+    "code": "72.07.040.014",
+    "villageCode": "014",
+    "districtCode": "72.07.040",
+    "name": "Domag Mekar",
+    "alias": "Domag Mekar"
+  },
+  {
+    "code": "72.07.040.015",
+    "villageCode": "015",
+    "districtCode": "72.07.040",
+    "name": "Pokobo",
+    "alias": "Pokobo"
+  },
+  {
+    "code": "72.07.040.016",
+    "villageCode": "016",
+    "districtCode": "72.07.040",
+    "name": "Bunobogu Selatan",
+    "alias": "Bunobogu Selatan"
+  }
+]

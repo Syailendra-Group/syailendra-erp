@@ -1,0 +1,58 @@
+[
+  {
+    "code": "75.02.082.001",
+    "villageCode": "001",
+    "districtCode": "75.02.082",
+    "name": "Tualango",
+    "alias": "Tualango"
+  },
+  {
+    "code": "75.02.082.002",
+    "villageCode": "002",
+    "districtCode": "75.02.082",
+    "name": "Dulomo",
+    "alias": "Dulomo"
+  },
+  {
+    "code": "75.02.082.003",
+    "villageCode": "003",
+    "districtCode": "75.02.082",
+    "name": "Tilote",
+    "alias": "Tilote"
+  },
+  {
+    "code": "75.02.082.004",
+    "villageCode": "004",
+    "districtCode": "75.02.082",
+    "name": "Tabumela",
+    "alias": "Tabumela"
+  },
+  {
+    "code": "75.02.082.005",
+    "villageCode": "005",
+    "districtCode": "75.02.082",
+    "name": "Ilotidea",
+    "alias": "Ilotidea"
+  },
+  {
+    "code": "75.02.082.006",
+    "villageCode": "006",
+    "districtCode": "75.02.082",
+    "name": "Lauwonu",
+    "alias": "Lauwonu"
+  },
+  {
+    "code": "75.02.082.007",
+    "villageCode": "007",
+    "districtCode": "75.02.082",
+    "name": "Tenggela",
+    "alias": "Tenggela"
+  },
+  {
+    "code": "75.02.082.008",
+    "villageCode": "008",
+    "districtCode": "75.02.082",
+    "name": "Tinelo",
+    "alias": "Tinelo"
+  }
+]

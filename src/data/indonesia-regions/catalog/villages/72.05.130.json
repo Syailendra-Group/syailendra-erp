@@ -1,0 +1,93 @@
+[
+  {
+    "code": "72.05.130.001",
+    "villageCode": "001",
+    "districtCode": "72.05.130",
+    "name": "Lombonga",
+    "alias": "Lombonga"
+  },
+  {
+    "code": "72.05.130.008",
+    "villageCode": "008",
+    "districtCode": "72.05.130",
+    "name": "Labean",
+    "alias": "Labean"
+  },
+  {
+    "code": "72.05.130.009",
+    "villageCode": "009",
+    "districtCode": "72.05.130",
+    "name": "Meli",
+    "alias": "Meli"
+  },
+  {
+    "code": "72.05.130.010",
+    "villageCode": "010",
+    "districtCode": "72.05.130",
+    "name": "Tambu",
+    "alias": "Tambu"
+  },
+  {
+    "code": "72.05.130.011",
+    "villageCode": "011",
+    "districtCode": "72.05.130",
+    "name": "Siweli",
+    "alias": "Siweli"
+  },
+  {
+    "code": "72.05.130.012",
+    "villageCode": "012",
+    "districtCode": "72.05.130",
+    "name": "Sibualong",
+    "alias": "Sibualong"
+  },
+  {
+    "code": "72.05.130.013",
+    "villageCode": "013",
+    "districtCode": "72.05.130",
+    "name": "Sibayu",
+    "alias": "Sibayu"
+  },
+  {
+    "code": "72.05.130.015",
+    "villageCode": "015",
+    "districtCode": "72.05.130",
+    "name": "Malino",
+    "alias": "Malino"
+  },
+  {
+    "code": "72.05.130.016",
+    "villageCode": "016",
+    "districtCode": "72.05.130",
+    "name": "Mapane Tambu",
+    "alias": "Mapane Tambu"
+  },
+  {
+    "code": "72.05.130.017",
+    "villageCode": "017",
+    "districtCode": "72.05.130",
+    "name": "Tovia Tambu",
+    "alias": "Tovia Tambu"
+  },
+  {
+    "code": "72.05.130.018",
+    "villageCode": "018",
+    "districtCode": "72.05.130",
+    "name": "Simagaya",
+    "alias": "Simagaya"
+  },
+  {
+    "code": "72.05.130.019",
+    "villageCode": "019",
+    "districtCode": "72.05.130",
+    "name": "Sipure",
+    "alias": "Sipure"
+  },
+  {
+    "code": "72.05.130.020",
+    "villageCode": "020",
+    "districtCode": "72.05.130",
+    "name": "Kampung Baru Sibayu",
+    "alias": "Kampung Baru Sibayu"
+  }
+]

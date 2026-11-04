@@ -1,0 +1,72 @@
+[
+  {
+    "code": "32.13.120.001",
+    "villageCode": "001",
+    "districtCode": "32.13.120",
+    "name": "Koranji",
+    "alias": "Koranji"
+  },
+  {
+    "code": "32.13.120.002",
+    "villageCode": "002",
+    "districtCode": "32.13.120",
+    "name": "Belendung",
+    "alias": "Belendung"
+  },
+  {
+    "code": "32.13.120.003",
+    "villageCode": "003",
+    "districtCode": "32.13.120",
+    "name": "Wanakerta",
+    "alias": "Wanakerta"
+  },
+  {
+    "code": "32.13.120.005",
+    "villageCode": "005",
+    "districtCode": "32.13.120",
+    "name": "Pagon",
+    "alias": "Pagon"
+  },
+  {
+    "code": "32.13.120.006",
+    "villageCode": "006",
+    "districtCode": "32.13.120",
+    "name": "Parapatan",
+    "alias": "Parapatan"
+  },
+  {
+    "code": "32.13.120.007",
+    "villageCode": "007",
+    "districtCode": "32.13.120",
+    "name": "Purwadadi",
+    "alias": "Purwadadi"
+  },
+  {
+    "code": "32.13.120.008",
+    "villageCode": "008",
+    "districtCode": "32.13.120",
+    "name": "Purwadadi Barat",
+    "alias": "Purwadadi Barat"
+  },
+  {
+    "code": "32.13.120.009",
+    "villageCode": "009",
+    "districtCode": "32.13.120",
+    "name": "Pasirbungur",
+    "alias": "Pasirbungur"
+  },
+  {
+    "code": "32.13.120.010",
+    "villageCode": "010",
+    "districtCode": "32.13.120",
+    "name": "Rancamahi",
+    "alias": "Rancamahi"
+  },
+  {
+    "code": "32.13.120.011",
+    "villageCode": "011",
+    "districtCode": "32.13.120",
+    "name": "Panyingkiran",
+    "alias": "Panyingkiran"
+  }
+]

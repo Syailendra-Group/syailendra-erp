@@ -1,0 +1,72 @@
+[
+  {
+    "code": "32.13.081.001",
+    "villageCode": "001",
+    "districtCode": "32.13.081",
+    "name": "Jambelaer",
+    "alias": "Jambelaer"
+  },
+  {
+    "code": "32.13.081.002",
+    "villageCode": "002",
+    "districtCode": "32.13.081",
+    "name": "Margasari",
+    "alias": "Margasari"
+  },
+  {
+    "code": "32.13.081.003",
+    "villageCode": "003",
+    "districtCode": "32.13.081",
+    "name": "Cisampih",
+    "alias": "Cisampih"
+  },
+  {
+    "code": "32.13.081.004",
+    "villageCode": "004",
+    "districtCode": "32.13.081",
+    "name": "Situsari",
+    "alias": "Situsari"
+  },
+  {
+    "code": "32.13.081.005",
+    "villageCode": "005",
+    "districtCode": "32.13.081",
+    "name": "Sukasari",
+    "alias": "Sukasari"
+  },
+  {
+    "code": "32.13.081.006",
+    "villageCode": "006",
+    "districtCode": "32.13.081",
+    "name": "Rawalele",
+    "alias": "Rawalele"
+  },
+  {
+    "code": "32.13.081.007",
+    "villageCode": "007",
+    "districtCode": "32.13.081",
+    "name": "Dawuan Kidul",
+    "alias": "Dawuan Kidul"
+  },
+  {
+    "code": "32.13.081.008",
+    "villageCode": "008",
+    "districtCode": "32.13.081",
+    "name": "Dawuan Kaler",
+    "alias": "Dawuan Kaler"
+  },
+  {
+    "code": "32.13.081.009",
+    "villageCode": "009",
+    "districtCode": "32.13.081",
+    "name": "Manyeti",
+    "alias": "Manyeti"
+  },
+  {
+    "code": "32.13.081.010",
+    "villageCode": "010",
+    "districtCode": "32.13.081",
+    "name": "Batusari",
+    "alias": "Batusari"
+  }
+]

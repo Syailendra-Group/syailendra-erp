@@ -1,0 +1,121 @@
+[
+  {
+    "code": "35.03.010.001",
+    "villageCode": "001",
+    "districtCode": "35.03.010",
+    "name": "Nglebeng",
+    "alias": "Nglebeng"
+  },
+  {
+    "code": "35.03.010.002",
+    "villageCode": "002",
+    "districtCode": "35.03.010",
+    "name": "Banjar",
+    "alias": "Banjar"
+  },
+  {
+    "code": "35.03.010.003",
+    "villageCode": "003",
+    "districtCode": "35.03.010",
+    "name": "Ngrambingan",
+    "alias": "Ngrambingan"
+  },
+  {
+    "code": "35.03.010.004",
+    "villageCode": "004",
+    "districtCode": "35.03.010",
+    "name": "Ngrencak",
+    "alias": "Ngrencak"
+  },
+  {
+    "code": "35.03.010.005",
+    "villageCode": "005",
+    "districtCode": "35.03.010",
+    "name": "Panggul",
+    "alias": "Panggul"
+  },
+  {
+    "code": "35.03.010.006",
+    "villageCode": "006",
+    "districtCode": "35.03.010",
+    "name": "Gayam",
+    "alias": "Gayam"
+  },
+  {
+    "code": "35.03.010.007",
+    "villageCode": "007",
+    "districtCode": "35.03.010",
+    "name": "Wonocoyo",
+    "alias": "Wonocoyo"
+  },
+  {
+    "code": "35.03.010.008",
+    "villageCode": "008",
+    "districtCode": "35.03.010",
+    "name": "Besuki",
+    "alias": "Besuki"
+  },
+  {
+    "code": "35.03.010.009",
+    "villageCode": "009",
+    "districtCode": "35.03.010",
+    "name": "Terbis",
+    "alias": "Terbis"
+  },
+  {
+    "code": "35.03.010.010",
+    "villageCode": "010",
+    "districtCode": "35.03.010",
+    "name": "Karangtengah",
+    "alias": "Karangtengah"
+  },
+  {
+    "code": "35.03.010.011",
+    "villageCode": "011",
+    "districtCode": "35.03.010",
+    "name": "Kertosono",
+    "alias": "Kertosono"
+  },
+  {
+    "code": "35.03.010.012",
+    "villageCode": "012",
+    "districtCode": "35.03.010",
+    "name": "Bodag",
+    "alias": "Bodag"
+  },
+  {
+    "code": "35.03.010.013",
+    "villageCode": "013",
+    "districtCode": "35.03.010",
+    "name": "Barang",
+    "alias": "Barang"
+  },
+  {
+    "code": "35.03.010.014",
+    "villageCode": "014",
+    "districtCode": "35.03.010",
+    "name": "Sawahan",
+    "alias": "Sawahan"
+  },
+  {
+    "code": "35.03.010.015",
+    "villageCode": "015",
+    "districtCode": "35.03.010",
+    "name": "Manggis",
+    "alias": "Manggis"
+  },
+  {
+    "code": "35.03.010.016",
+    "villageCode": "016",
+    "districtCode": "35.03.010",
+    "name": "Tangkil",
+    "alias": "Tangkil"
+  },
+  {
+    "code": "35.03.010.017",
+    "villageCode": "017",
+    "districtCode": "35.03.010",
+    "name": "Depok",
+    "alias": "Depok"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "code": "52.03.100.001",
+    "villageCode": "001",
+    "districtCode": "52.03.100",
+    "name": "Sambelia",
+    "alias": "Sambelia"
+  },
+  {
+    "code": "52.03.100.002",
+    "villageCode": "002",
+    "districtCode": "52.03.100",
+    "name": "Belanting",
+    "alias": "Belanting"
+  },
+  {
+    "code": "52.03.100.003",
+    "villageCode": "003",
+    "districtCode": "52.03.100",
+    "name": "Obel Obel",
+    "alias": "Obel Obel"
+  },
+  {
+    "code": "52.03.100.004",
+    "villageCode": "004",
+    "districtCode": "52.03.100",
+    "name": "Sugian",
+    "alias": "Sugian"
+  },
+  {
+    "code": "52.03.100.005",
+    "villageCode": "005",
+    "districtCode": "52.03.100",
+    "name": "Labuhan Pandan",
+    "alias": "Labuhan Pandan"
+  },
+  {
+    "code": "52.03.100.006",
+    "villageCode": "006",
+    "districtCode": "52.03.100",
+    "name": "Dara Kunci",
+    "alias": "Dara Kunci"
+  },
+  {
+    "code": "52.03.100.007",
+    "villageCode": "007",
+    "districtCode": "52.03.100",
+    "name": "Bagik Manis",
+    "alias": "Bagik Manis"
+  },
+  {
+    "code": "52.03.100.008",
+    "villageCode": "008",
+    "districtCode": "52.03.100",
+    "name": "Dadap",
+    "alias": "Dadap"
+  },
+  {
+    "code": "52.03.100.009",
+    "villageCode": "009",
+    "districtCode": "52.03.100",
+    "name": "Madayin",
+    "alias": "Madayin"
+  },
+  {
+    "code": "52.03.100.010",
+    "villageCode": "010",
+    "districtCode": "52.03.100",
+    "name": "Senanggalih",
+    "alias": "Senanggalih"
+  },
+  {
+    "code": "52.03.100.011",
+    "villageCode": "011",
+    "districtCode": "52.03.100",
+    "name": "Padak Guar",
+    "alias": "Padak Guar"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "code": "15.03.010",
+    "districtCode": "010",
+    "regencyCode": "15.03",
+    "provinceCode": "15",
+    "name": "Kecamatan Batang Asai",
+    "alias": "Batang Asai"
+  },
+  {
+    "code": "15.03.020",
+    "districtCode": "020",
+    "regencyCode": "15.03",
+    "provinceCode": "15",
+    "name": "Kecamatan Limun",
+    "alias": "Limun"
+  },
+  {
+    "code": "15.03.021",
+    "districtCode": "021",
+    "regencyCode": "15.03",
+    "provinceCode": "15",
+    "name": "Kecamatan Cermin Nan Gedang",
+    "alias": "Cermin Nan Gedang"
+  },
+  {
+    "code": "15.03.030",
+    "districtCode": "030",
+    "regencyCode": "15.03",
+    "provinceCode": "15",
+    "name": "Kecamatan Pelawan",
+    "alias": "Pelawan"
+  },
+  {
+    "code": "15.03.031",
+    "districtCode": "031",
+    "regencyCode": "15.03",
+    "provinceCode": "15",
+    "name": "Kecamatan Singkut",
+    "alias": "Singkut"
+  },
+  {
+    "code": "15.03.040",
+    "districtCode": "040",
+    "regencyCode": "15.03",
+    "provinceCode": "15",
+    "name": "Kecamatan Sarolangun",
+    "alias": "Sarolangun"
+  },
+  {
+    "code": "15.03.041",
+    "districtCode": "041",
+    "regencyCode": "15.03",
+    "provinceCode": "15",
+    "name": "Kecamatan Bathin Viii",
+    "alias": "Bathin Viii"
+  },
+  {
+    "code": "15.03.050",
+    "districtCode": "050",
+    "regencyCode": "15.03",
+    "provinceCode": "15",
+    "name": "Kecamatan Pauh",
+    "alias": "Pauh"
+  },
+  {
+    "code": "15.03.051",
+    "districtCode": "051",
+    "regencyCode": "15.03",
+    "provinceCode": "15",
+    "name": "Kecamatan Air Hitam",
+    "alias": "Air Hitam"
+  },
+  {
+    "code": "15.03.060",
+    "districtCode": "060",
+    "regencyCode": "15.03",
+    "provinceCode": "15",
+    "name": "Kecamatan Mandiangin",
+    "alias": "Mandiangin"
+  },
+  {
+    "code": "15.03.061",
+    "districtCode": "061",
+    "regencyCode": "15.03",
+    "provinceCode": "15",
+    "name": "Kecamatan Mandiangin Timur",
+    "alias": "Mandiangin Timur"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "code": "21.01.021.001",
+    "villageCode": "001",
+    "districtCode": "21.01.021",
+    "name": "Sungai Ungar Utara",
+    "alias": "Sungai Ungar Utara"
+  },
+  {
+    "code": "21.01.021.005",
+    "villageCode": "005",
+    "districtCode": "21.01.021",
+    "name": "Tanjung Berlian Kota",
+    "alias": "Tanjung Berlian Kota"
+  },
+  {
+    "code": "21.01.021.006",
+    "villageCode": "006",
+    "districtCode": "21.01.021",
+    "name": "Teluk Radang",
+    "alias": "Teluk Radang"
+  },
+  {
+    "code": "21.01.021.007",
+    "villageCode": "007",
+    "districtCode": "21.01.021",
+    "name": "Tanjung Berlian Barat",
+    "alias": "Tanjung Berlian Barat"
+  },
+  {
+    "code": "21.01.021.008",
+    "villageCode": "008",
+    "districtCode": "21.01.021",
+    "name": "Perayun",
+    "alias": "Perayun"
+  }
+]

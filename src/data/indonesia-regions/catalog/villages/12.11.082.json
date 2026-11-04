@@ -1,0 +1,65 @@
+[
+  {
+    "code": "12.11.082.001",
+    "villageCode": "001",
+    "districtCode": "12.11.082",
+    "name": "Deram",
+    "alias": "Deram"
+  },
+  {
+    "code": "12.11.082.002",
+    "villageCode": "002",
+    "districtCode": "12.11.082",
+    "name": "Ujung Teran",
+    "alias": "Ujung Teran"
+  },
+  {
+    "code": "12.11.082.003",
+    "villageCode": "003",
+    "districtCode": "12.11.082",
+    "name": "Cinta Rayat",
+    "alias": "Cinta Rayat"
+  },
+  {
+    "code": "12.11.082.004",
+    "villageCode": "004",
+    "districtCode": "12.11.082",
+    "name": "Sada Perarih",
+    "alias": "Sada Perarih"
+  },
+  {
+    "code": "12.11.082.005",
+    "villageCode": "005",
+    "districtCode": "12.11.082",
+    "name": "Semangat",
+    "alias": "Semangat"
+  },
+  {
+    "code": "12.11.082.006",
+    "villageCode": "006",
+    "districtCode": "12.11.082",
+    "name": "Merdeka",
+    "alias": "Merdeka"
+  },
+  {
+    "code": "12.11.082.007",
+    "villageCode": "007",
+    "districtCode": "12.11.082",
+    "name": "Gongsol",
+    "alias": "Gongsol"
+  },
+  {
+    "code": "12.11.082.008",
+    "villageCode": "008",
+    "districtCode": "12.11.082",
+    "name": "Jaranguda",
+    "alias": "Jaranguda"
+  },
+  {
+    "code": "12.11.082.009",
+    "villageCode": "009",
+    "districtCode": "12.11.082",
+    "name": "Semangat Gunung",
+    "alias": "Semangat Gunung"
+  }
+]

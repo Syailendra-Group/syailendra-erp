@@ -1,0 +1,44 @@
+[
+  {
+    "code": "21.05.050.001",
+    "villageCode": "001",
+    "districtCode": "21.05.050",
+    "name": "Nyamuk",
+    "alias": "Nyamuk"
+  },
+  {
+    "code": "21.05.050.002",
+    "villageCode": "002",
+    "districtCode": "21.05.050",
+    "name": "Batu Belah",
+    "alias": "Batu Belah"
+  },
+  {
+    "code": "21.05.050.003",
+    "villageCode": "003",
+    "districtCode": "21.05.050",
+    "name": "Munjan",
+    "alias": "Munjan"
+  },
+  {
+    "code": "21.05.050.004",
+    "villageCode": "004",
+    "districtCode": "21.05.050",
+    "name": "Serat",
+    "alias": "Serat"
+  },
+  {
+    "code": "21.05.050.005",
+    "villageCode": "005",
+    "districtCode": "21.05.050",
+    "name": "Air Putih",
+    "alias": "Air Putih"
+  },
+  {
+    "code": "21.05.050.006",
+    "villageCode": "006",
+    "districtCode": "21.05.050",
+    "name": "Temburun",
+    "alias": "Temburun"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "code": "97.07.350.001",
+    "villageCode": "001",
+    "districtCode": "97.07.350",
+    "name": "Paima",
+    "alias": "Paima"
+  },
+  {
+    "code": "97.07.350.002",
+    "villageCode": "002",
+    "districtCode": "97.07.350",
+    "name": "Dugumhad",
+    "alias": "Dugumhad"
+  },
+  {
+    "code": "97.07.350.003",
+    "villageCode": "003",
+    "districtCode": "97.07.350",
+    "name": "Leleak",
+    "alias": "Leleak"
+  },
+  {
+    "code": "97.07.350.004",
+    "villageCode": "004",
+    "districtCode": "97.07.350",
+    "name": "Subsal",
+    "alias": "Subsal"
+  },
+  {
+    "code": "97.07.350.005",
+    "villageCode": "005",
+    "districtCode": "97.07.350",
+    "name": "Sengsenagaik",
+    "alias": "Sengsenagaik"
+  },
+  {
+    "code": "97.07.350.006",
+    "villageCode": "006",
+    "districtCode": "97.07.350",
+    "name": "Sipnidipmu",
+    "alias": "Sipnidipmu"
+  },
+  {
+    "code": "97.07.350.007",
+    "villageCode": "007",
+    "districtCode": "97.07.350",
+    "name": "Hogio 1",
+    "alias": "Hogio 1"
+  },
+  {
+    "code": "97.07.350.008",
+    "villageCode": "008",
+    "districtCode": "97.07.350",
+    "name": "Hogio 2",
+    "alias": "Hogio 2"
+  }
+]

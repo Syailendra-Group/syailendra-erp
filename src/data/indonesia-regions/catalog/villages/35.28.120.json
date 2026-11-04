@@ -1,0 +1,93 @@
+[
+  {
+    "code": "35.28.120.001",
+    "villageCode": "001",
+    "districtCode": "35.28.120",
+    "name": "Pangerreman",
+    "alias": "Pangerreman"
+  },
+  {
+    "code": "35.28.120.002",
+    "villageCode": "002",
+    "districtCode": "35.28.120",
+    "name": "Bujur Barat",
+    "alias": "Bujur Barat"
+  },
+  {
+    "code": "35.28.120.003",
+    "villageCode": "003",
+    "districtCode": "35.28.120",
+    "name": "Bujur Tengah",
+    "alias": "Bujur Tengah"
+  },
+  {
+    "code": "35.28.120.004",
+    "villageCode": "004",
+    "districtCode": "35.28.120",
+    "name": "Bujur Timur",
+    "alias": "Bujur Timur"
+  },
+  {
+    "code": "35.28.120.005",
+    "villageCode": "005",
+    "districtCode": "35.28.120",
+    "name": "Ponjanan Timur",
+    "alias": "Ponjanan Timur"
+  },
+  {
+    "code": "35.28.120.006",
+    "villageCode": "006",
+    "districtCode": "35.28.120",
+    "name": "Ponjanan Barat",
+    "alias": "Ponjanan Barat"
+  },
+  {
+    "code": "35.28.120.007",
+    "villageCode": "007",
+    "districtCode": "35.28.120",
+    "name": "Lesong Laok",
+    "alias": "Lesong Laok"
+  },
+  {
+    "code": "35.28.120.008",
+    "villageCode": "008",
+    "districtCode": "35.28.120",
+    "name": "Bangsereh",
+    "alias": "Bangsereh"
+  },
+  {
+    "code": "35.28.120.009",
+    "villageCode": "009",
+    "districtCode": "35.28.120",
+    "name": "Blaban",
+    "alias": "Blaban"
+  },
+  {
+    "code": "35.28.120.010",
+    "villageCode": "010",
+    "districtCode": "35.28.120",
+    "name": "Tamberu",
+    "alias": "Tamberu"
+  },
+  {
+    "code": "35.28.120.011",
+    "villageCode": "011",
+    "districtCode": "35.28.120",
+    "name": "Batubintang",
+    "alias": "Batubintang"
+  },
+  {
+    "code": "35.28.120.012",
+    "villageCode": "012",
+    "districtCode": "35.28.120",
+    "name": "Lesong Daja",
+    "alias": "Lesong Daja"
+  },
+  {
+    "code": "35.28.120.013",
+    "villageCode": "013",
+    "districtCode": "35.28.120",
+    "name": "Kapong",
+    "alias": "Kapong"
+  }
+]

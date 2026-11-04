@@ -1,0 +1,37 @@
+[
+  {
+    "code": "16.72.040.003",
+    "villageCode": "003",
+    "districtCode": "16.72.040",
+    "name": "Sungai Medang",
+    "alias": "Sungai Medang"
+  },
+  {
+    "code": "16.72.040.004",
+    "villageCode": "004",
+    "districtCode": "16.72.040",
+    "name": "Muara Sungai",
+    "alias": "Muara Sungai"
+  },
+  {
+    "code": "16.72.040.005",
+    "villageCode": "005",
+    "districtCode": "16.72.040",
+    "name": "Cambai",
+    "alias": "Cambai"
+  },
+  {
+    "code": "16.72.040.006",
+    "villageCode": "006",
+    "districtCode": "16.72.040",
+    "name": "Sindur",
+    "alias": "Sindur"
+  },
+  {
+    "code": "16.72.040.007",
+    "villageCode": "007",
+    "districtCode": "16.72.040",
+    "name": "Pangkul",
+    "alias": "Pangkul"
+  }
+]

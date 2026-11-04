@@ -1,0 +1,30 @@
+[
+  {
+    "code": "61.02.042.001",
+    "villageCode": "001",
+    "districtCode": "61.02.042",
+    "name": "Karya Bhakti",
+    "alias": "Karya Bhakti"
+  },
+  {
+    "code": "61.02.042.002",
+    "villageCode": "002",
+    "districtCode": "61.02.042",
+    "name": "Suka Maju",
+    "alias": "Suka Maju"
+  },
+  {
+    "code": "61.02.042.003",
+    "villageCode": "003",
+    "districtCode": "61.02.042",
+    "name": "Suka Bangun",
+    "alias": "Suka Bangun"
+  },
+  {
+    "code": "61.02.042.004",
+    "villageCode": "004",
+    "districtCode": "61.02.042",
+    "name": "Cipta Karya",
+    "alias": "Cipta Karya"
+  }
+]

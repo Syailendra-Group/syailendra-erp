@@ -1,0 +1,65 @@
+[
+  {
+    "code": "71.01.101.001",
+    "villageCode": "001",
+    "districtCode": "71.01.101",
+    "name": "Ambang Ii",
+    "alias": "Ambang Ii"
+  },
+  {
+    "code": "71.01.101.002",
+    "villageCode": "002",
+    "districtCode": "71.01.101",
+    "name": "Ambang I",
+    "alias": "Ambang I"
+  },
+  {
+    "code": "71.01.101.003",
+    "villageCode": "003",
+    "districtCode": "71.01.101",
+    "name": "Tadoy",
+    "alias": "Tadoy"
+  },
+  {
+    "code": "71.01.101.004",
+    "villageCode": "004",
+    "districtCode": "71.01.101",
+    "name": "Tadoy I",
+    "alias": "Tadoy I"
+  },
+  {
+    "code": "71.01.101.005",
+    "villageCode": "005",
+    "districtCode": "71.01.101",
+    "name": "Bolaang",
+    "alias": "Bolaang"
+  },
+  {
+    "code": "71.01.101.006",
+    "villageCode": "006",
+    "districtCode": "71.01.101",
+    "name": "Bantik",
+    "alias": "Bantik"
+  },
+  {
+    "code": "71.01.101.007",
+    "villageCode": "007",
+    "districtCode": "71.01.101",
+    "name": "Lolan",
+    "alias": "Lolan"
+  },
+  {
+    "code": "71.01.101.008",
+    "villageCode": "008",
+    "districtCode": "71.01.101",
+    "name": "Bolaang I",
+    "alias": "Bolaang I"
+  },
+  {
+    "code": "71.01.101.009",
+    "villageCode": "009",
+    "districtCode": "71.01.101",
+    "name": "Lolan Ii",
+    "alias": "Lolan Ii"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "code": "15.08.043.001",
+    "villageCode": "001",
+    "districtCode": "15.08.043",
+    "name": "Teluk Kepayang Pulau Indah",
+    "alias": "Teluk Kepayang Pulau Indah"
+  },
+  {
+    "code": "15.08.043.002",
+    "villageCode": "002",
+    "districtCode": "15.08.043",
+    "name": "Sungai Karang",
+    "alias": "Sungai Karang"
+  },
+  {
+    "code": "15.08.043.003",
+    "villageCode": "003",
+    "districtCode": "15.08.043",
+    "name": "Balai Rajo",
+    "alias": "Balai Rajo"
+  },
+  {
+    "code": "15.08.043.004",
+    "villageCode": "004",
+    "districtCode": "15.08.043",
+    "name": "Paseban",
+    "alias": "Paseban"
+  },
+  {
+    "code": "15.08.043.005",
+    "villageCode": "005",
+    "districtCode": "15.08.043",
+    "name": "Cermin Alam",
+    "alias": "Cermin Alam"
+  },
+  {
+    "code": "15.08.043.006",
+    "villageCode": "006",
+    "districtCode": "15.08.043",
+    "name": "Pasir Mayang",
+    "alias": "Pasir Mayang"
+  }
+]

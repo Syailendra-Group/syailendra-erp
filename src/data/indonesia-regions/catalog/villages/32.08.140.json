@@ -1,0 +1,72 @@
+[
+  {
+    "code": "32.08.140.001",
+    "villageCode": "001",
+    "districtCode": "32.08.140",
+    "name": "Cigadung",
+    "alias": "Cigadung"
+  },
+  {
+    "code": "32.08.140.002",
+    "villageCode": "002",
+    "districtCode": "32.08.140",
+    "name": "Sukamulya",
+    "alias": "Sukamulya"
+  },
+  {
+    "code": "32.08.140.003",
+    "villageCode": "003",
+    "districtCode": "32.08.140",
+    "name": "Cileuleuy",
+    "alias": "Cileuleuy"
+  },
+  {
+    "code": "32.08.140.004",
+    "villageCode": "004",
+    "districtCode": "32.08.140",
+    "name": "Puncak",
+    "alias": "Puncak"
+  },
+  {
+    "code": "32.08.140.005",
+    "villageCode": "005",
+    "districtCode": "32.08.140",
+    "name": "Babakanmulya",
+    "alias": "Babakanmulya"
+  },
+  {
+    "code": "32.08.140.006",
+    "villageCode": "006",
+    "districtCode": "32.08.140",
+    "name": "Cisantana",
+    "alias": "Cisantana"
+  },
+  {
+    "code": "32.08.140.007",
+    "villageCode": "007",
+    "districtCode": "32.08.140",
+    "name": "Cigugur",
+    "alias": "Cigugur"
+  },
+  {
+    "code": "32.08.140.008",
+    "villageCode": "008",
+    "districtCode": "32.08.140",
+    "name": "Winduherang",
+    "alias": "Winduherang"
+  },
+  {
+    "code": "32.08.140.009",
+    "villageCode": "009",
+    "districtCode": "32.08.140",
+    "name": "Gunungkeling",
+    "alias": "Gunungkeling"
+  },
+  {
+    "code": "32.08.140.010",
+    "villageCode": "010",
+    "districtCode": "32.08.140",
+    "name": "Cipari",
+    "alias": "Cipari"
+  }
+]

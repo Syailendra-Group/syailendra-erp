@@ -1,0 +1,72 @@
+[
+  {
+    "code": "32.08.070.002",
+    "villageCode": "002",
+    "districtCode": "32.08.070",
+    "name": "Ciangir",
+    "alias": "Ciangir"
+  },
+  {
+    "code": "32.08.070.003",
+    "villageCode": "003",
+    "districtCode": "32.08.070",
+    "name": "Cipondok",
+    "alias": "Cipondok"
+  },
+  {
+    "code": "32.08.070.004",
+    "villageCode": "004",
+    "districtCode": "32.08.070",
+    "name": "Sukaharja",
+    "alias": "Sukaharja"
+  },
+  {
+    "code": "32.08.070.005",
+    "villageCode": "005",
+    "districtCode": "32.08.070",
+    "name": "Sindangjawa",
+    "alias": "Sindangjawa"
+  },
+  {
+    "code": "32.08.070.011",
+    "villageCode": "011",
+    "districtCode": "32.08.070",
+    "name": "Sukamaju",
+    "alias": "Sukamaju"
+  },
+  {
+    "code": "32.08.070.012",
+    "villageCode": "012",
+    "districtCode": "32.08.070",
+    "name": "Cibingbin",
+    "alias": "Cibingbin"
+  },
+  {
+    "code": "32.08.070.013",
+    "villageCode": "013",
+    "districtCode": "32.08.070",
+    "name": "Citenjo",
+    "alias": "Citenjo"
+  },
+  {
+    "code": "32.08.070.014",
+    "villageCode": "014",
+    "districtCode": "32.08.070",
+    "name": "Dukuhbadag",
+    "alias": "Dukuhbadag"
+  },
+  {
+    "code": "32.08.070.017",
+    "villageCode": "017",
+    "districtCode": "32.08.070",
+    "name": "Cisaat",
+    "alias": "Cisaat"
+  },
+  {
+    "code": "32.08.070.018",
+    "villageCode": "018",
+    "districtCode": "32.08.070",
+    "name": "Bantarpanjang",
+    "alias": "Bantarpanjang"
+  }
+]

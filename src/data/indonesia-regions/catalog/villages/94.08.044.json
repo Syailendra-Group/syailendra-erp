@@ -1,0 +1,58 @@
+[
+  {
+    "code": "94.08.044.002",
+    "villageCode": "002",
+    "districtCode": "94.08.044",
+    "name": "Kaipuri",
+    "alias": "Kaipuri"
+  },
+  {
+    "code": "94.08.044.003",
+    "villageCode": "003",
+    "districtCode": "94.08.044",
+    "name": "Doreiamini",
+    "alias": "Doreiamini"
+  },
+  {
+    "code": "94.08.044.004",
+    "villageCode": "004",
+    "districtCode": "94.08.044",
+    "name": "Andesaria",
+    "alias": "Andesaria"
+  },
+  {
+    "code": "94.08.044.005",
+    "villageCode": "005",
+    "districtCode": "94.08.044",
+    "name": "Kurudu",
+    "alias": "Kurudu"
+  },
+  {
+    "code": "94.08.044.006",
+    "villageCode": "006",
+    "districtCode": "94.08.044",
+    "name": "Kirimbri",
+    "alias": "Kirimbri"
+  },
+  {
+    "code": "94.08.044.007",
+    "villageCode": "007",
+    "districtCode": "94.08.044",
+    "name": "Mansiesi",
+    "alias": "Mansiesi"
+  },
+  {
+    "code": "94.08.044.008",
+    "villageCode": "008",
+    "districtCode": "94.08.044",
+    "name": "Manusundu",
+    "alias": "Manusundu"
+  },
+  {
+    "code": "94.08.044.009",
+    "villageCode": "009",
+    "districtCode": "94.08.044",
+    "name": "Mnukwar",
+    "alias": "Mnukwar"
+  }
+]

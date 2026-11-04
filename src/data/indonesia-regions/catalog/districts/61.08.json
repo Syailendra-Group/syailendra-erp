@@ -1,0 +1,186 @@
+[
+  {
+    "code": "61.08.010",
+    "districtCode": "010",
+    "regencyCode": "61.08",
+    "provinceCode": "61",
+    "name": "Kecamatan Silat Hilir",
+    "alias": "Silat Hilir"
+  },
+  {
+    "code": "61.08.020",
+    "districtCode": "020",
+    "regencyCode": "61.08",
+    "provinceCode": "61",
+    "name": "Kecamatan Silat Hulu",
+    "alias": "Silat Hulu"
+  },
+  {
+    "code": "61.08.030",
+    "districtCode": "030",
+    "regencyCode": "61.08",
+    "provinceCode": "61",
+    "name": "Kecamatan Hulu Gurung",
+    "alias": "Hulu Gurung"
+  },
+  {
+    "code": "61.08.040",
+    "districtCode": "040",
+    "regencyCode": "61.08",
+    "provinceCode": "61",
+    "name": "Kecamatan Bunut Hulu",
+    "alias": "Bunut Hulu"
+  },
+  {
+    "code": "61.08.050",
+    "districtCode": "050",
+    "regencyCode": "61.08",
+    "provinceCode": "61",
+    "name": "Kecamatan Mentebah",
+    "alias": "Mentebah"
+  },
+  {
+    "code": "61.08.060",
+    "districtCode": "060",
+    "regencyCode": "61.08",
+    "provinceCode": "61",
+    "name": "Kecamatan Bika",
+    "alias": "Bika"
+  },
+  {
+    "code": "61.08.070",
+    "districtCode": "070",
+    "regencyCode": "61.08",
+    "provinceCode": "61",
+    "name": "Kecamatan Kalis",
+    "alias": "Kalis"
+  },
+  {
+    "code": "61.08.080",
+    "districtCode": "080",
+    "regencyCode": "61.08",
+    "provinceCode": "61",
+    "name": "Kecamatan Putussibau Selatan",
+    "alias": "Putussibau Selatan"
+  },
+  {
+    "code": "61.08.090",
+    "districtCode": "090",
+    "regencyCode": "61.08",
+    "provinceCode": "61",
+    "name": "Kecamatan Embaloh Hilir",
+    "alias": "Embaloh Hilir"
+  },
+  {
+    "code": "61.08.100",
+    "districtCode": "100",
+    "regencyCode": "61.08",
+    "provinceCode": "61",
+    "name": "Kecamatan Bunut Hilir",
+    "alias": "Bunut Hilir"
+  },
+  {
+    "code": "61.08.110",
+    "districtCode": "110",
+    "regencyCode": "61.08",
+    "provinceCode": "61",
+    "name": "Kecamatan Boyan Tanjung",
+    "alias": "Boyan Tanjung"
+  },
+  {
+    "code": "61.08.120",
+    "districtCode": "120",
+    "regencyCode": "61.08",
+    "provinceCode": "61",
+    "name": "Kecamatan Pengkadan",
+    "alias": "Pengkadan"
+  },
+  {
+    "code": "61.08.130",
+    "districtCode": "130",
+    "regencyCode": "61.08",
+    "provinceCode": "61",
+    "name": "Kecamatan Jongkong",
+    "alias": "Jongkong"
+  },
+  {
+    "code": "61.08.140",
+    "districtCode": "140",
+    "regencyCode": "61.08",
+    "provinceCode": "61",
+    "name": "Kecamatan Selimbau",
+    "alias": "Selimbau"
+  },
+  {
+    "code": "61.08.150",
+    "districtCode": "150",
+    "regencyCode": "61.08",
+    "provinceCode": "61",
+    "name": "Kecamatan Suhaid",
+    "alias": "Suhaid"
+  },
+  {
+    "code": "61.08.160",
+    "districtCode": "160",
+    "regencyCode": "61.08",
+    "provinceCode": "61",
+    "name": "Kecamatan Seberuang",
+    "alias": "Seberuang"
+  },
+  {
+    "code": "61.08.170",
+    "districtCode": "170",
+    "regencyCode": "61.08",
+    "provinceCode": "61",
+    "name": "Kecamatan Semitau",
+    "alias": "Semitau"
+  },
+  {
+    "code": "61.08.180",
+    "districtCode": "180",
+    "regencyCode": "61.08",
+    "provinceCode": "61",
+    "name": "Kecamatan Empanang",
+    "alias": "Empanang"
+  },
+  {
+    "code": "61.08.190",
+    "districtCode": "190",
+    "regencyCode": "61.08",
+    "provinceCode": "61",
+    "name": "Kecamatan Puring Kencana",
+    "alias": "Puring Kencana"
+  },
+  {
+    "code": "61.08.200",
+    "districtCode": "200",
+    "regencyCode": "61.08",
+    "provinceCode": "61",
+    "name": "Kecamatan Badau",
+    "alias": "Badau"
+  },
+  {
+    "code": "61.08.210",
+    "districtCode": "210",
+    "regencyCode": "61.08",
+    "provinceCode": "61",
+    "name": "Kecamatan Batang Lupar",
+    "alias": "Batang Lupar"
+  },
+  {
+    "code": "61.08.220",
+    "districtCode": "220",
+    "regencyCode": "61.08",
+    "provinceCode": "61",
+    "name": "Kecamatan Embaloh Hulu",
+    "alias": "Embaloh Hulu"
+  },
+  {
+    "code": "61.08.230",
+    "districtCode": "230",
+    "regencyCode": "61.08",
+    "provinceCode": "61",
+    "name": "Kecamatan Putussibau Utara",
+    "alias": "Putussibau Utara"
+  }
+]

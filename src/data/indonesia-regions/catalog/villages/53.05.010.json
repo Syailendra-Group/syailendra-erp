@@ -1,0 +1,93 @@
+[
+  {
+    "code": "53.05.010.001",
+    "villageCode": "001",
+    "districtCode": "53.05.010",
+    "name": "Noepesu",
+    "alias": "Noepesu"
+  },
+  {
+    "code": "53.05.010.002",
+    "villageCode": "002",
+    "districtCode": "53.05.010",
+    "name": "Fatuneno",
+    "alias": "Fatuneno"
+  },
+  {
+    "code": "53.05.010.003",
+    "villageCode": "003",
+    "districtCode": "53.05.010",
+    "name": "Eban",
+    "alias": "Eban"
+  },
+  {
+    "code": "53.05.010.004",
+    "villageCode": "004",
+    "districtCode": "53.05.010",
+    "name": "Sallu",
+    "alias": "Sallu"
+  },
+  {
+    "code": "53.05.010.005",
+    "villageCode": "005",
+    "districtCode": "53.05.010",
+    "name": "Suanae",
+    "alias": "Suanae"
+  },
+  {
+    "code": "53.05.010.006",
+    "villageCode": "006",
+    "districtCode": "53.05.010",
+    "name": "Lemon",
+    "alias": "Lemon"
+  },
+  {
+    "code": "53.05.010.007",
+    "villageCode": "007",
+    "districtCode": "53.05.010",
+    "name": "Fatunisuan",
+    "alias": "Fatunisuan"
+  },
+  {
+    "code": "53.05.010.008",
+    "villageCode": "008",
+    "districtCode": "53.05.010",
+    "name": "Haulasi",
+    "alias": "Haulasi"
+  },
+  {
+    "code": "53.05.010.020",
+    "villageCode": "020",
+    "districtCode": "53.05.010",
+    "name": "Noeltoko",
+    "alias": "Noeltoko"
+  },
+  {
+    "code": "53.05.010.021",
+    "villageCode": "021",
+    "districtCode": "53.05.010",
+    "name": "Fatutasu",
+    "alias": "Fatutasu"
+  },
+  {
+    "code": "53.05.010.022",
+    "villageCode": "022",
+    "districtCode": "53.05.010",
+    "name": "Manusasi",
+    "alias": "Manusasi"
+  },
+  {
+    "code": "53.05.010.023",
+    "villageCode": "023",
+    "districtCode": "53.05.010",
+    "name": "Saenam",
+    "alias": "Saenam"
+  },
+  {
+    "code": "53.05.010.024",
+    "villageCode": "024",
+    "districtCode": "53.05.010",
+    "name": "Satab",
+    "alias": "Satab"
+  }
+]

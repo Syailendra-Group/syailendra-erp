@@ -1,0 +1,122 @@
+[
+  {
+    "code": "17.02.020",
+    "districtCode": "020",
+    "regencyCode": "17.02",
+    "provinceCode": "17",
+    "name": "Kecamatan Kota Padang",
+    "alias": "Kota Padang"
+  },
+  {
+    "code": "17.02.021",
+    "districtCode": "021",
+    "regencyCode": "17.02",
+    "provinceCode": "17",
+    "name": "Kecamatan Sindang Beliti Ilir",
+    "alias": "Sindang Beliti Ilir"
+  },
+  {
+    "code": "17.02.030",
+    "districtCode": "030",
+    "regencyCode": "17.02",
+    "provinceCode": "17",
+    "name": "Kecamatan Padang Ulak Tanding",
+    "alias": "Padang Ulak Tanding"
+  },
+  {
+    "code": "17.02.031",
+    "districtCode": "031",
+    "regencyCode": "17.02",
+    "provinceCode": "17",
+    "name": "Kecamatan Sindang Kelingi",
+    "alias": "Sindang Kelingi"
+  },
+  {
+    "code": "17.02.032",
+    "districtCode": "032",
+    "regencyCode": "17.02",
+    "provinceCode": "17",
+    "name": "Kecamatan Bindu Riang",
+    "alias": "Bindu Riang"
+  },
+  {
+    "code": "17.02.033",
+    "districtCode": "033",
+    "regencyCode": "17.02",
+    "provinceCode": "17",
+    "name": "Kecamatan Sindang Beliti Ulu",
+    "alias": "Sindang Beliti Ulu"
+  },
+  {
+    "code": "17.02.034",
+    "districtCode": "034",
+    "regencyCode": "17.02",
+    "provinceCode": "17",
+    "name": "Kecamatan Sindang Dataran",
+    "alias": "Sindang Dataran"
+  },
+  {
+    "code": "17.02.040",
+    "districtCode": "040",
+    "regencyCode": "17.02",
+    "provinceCode": "17",
+    "name": "Kecamatan Curup",
+    "alias": "Curup"
+  },
+  {
+    "code": "17.02.041",
+    "districtCode": "041",
+    "regencyCode": "17.02",
+    "provinceCode": "17",
+    "name": "Kecamatan Bermani Ulu",
+    "alias": "Bermani Ulu"
+  },
+  {
+    "code": "17.02.042",
+    "districtCode": "042",
+    "regencyCode": "17.02",
+    "provinceCode": "17",
+    "name": "Kecamatan Selupu Rejang",
+    "alias": "Selupu Rejang"
+  },
+  {
+    "code": "17.02.043",
+    "districtCode": "043",
+    "regencyCode": "17.02",
+    "provinceCode": "17",
+    "name": "Kecamatan Curup Selatan",
+    "alias": "Curup Selatan"
+  },
+  {
+    "code": "17.02.044",
+    "districtCode": "044",
+    "regencyCode": "17.02",
+    "provinceCode": "17",
+    "name": "Kecamatan Curup Tengah",
+    "alias": "Curup Tengah"
+  },
+  {
+    "code": "17.02.045",
+    "districtCode": "045",
+    "regencyCode": "17.02",
+    "provinceCode": "17",
+    "name": "Kecamatan Bermani Ulu Raya",
+    "alias": "Bermani Ulu Raya"
+  },
+  {
+    "code": "17.02.046",
+    "districtCode": "046",
+    "regencyCode": "17.02",
+    "provinceCode": "17",
+    "name": "Kecamatan Curup Utara",
+    "alias": "Curup Utara"
+  },
+  {
+    "code": "17.02.047",
+    "districtCode": "047",
+    "regencyCode": "17.02",
+    "provinceCode": "17",
+    "name": "Kecamatan Curup Timur",
+    "alias": "Curup Timur"
+  }
+]

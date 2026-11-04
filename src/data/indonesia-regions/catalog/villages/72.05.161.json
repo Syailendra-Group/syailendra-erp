@@ -1,0 +1,37 @@
+[
+  {
+    "code": "72.05.161.001",
+    "villageCode": "001",
+    "districtCode": "72.05.161",
+    "name": "Pesik",
+    "alias": "Pesik"
+  },
+  {
+    "code": "72.05.161.002",
+    "villageCode": "002",
+    "districtCode": "72.05.161",
+    "name": "Lenju",
+    "alias": "Lenju"
+  },
+  {
+    "code": "72.05.161.003",
+    "villageCode": "003",
+    "districtCode": "72.05.161",
+    "name": "Ogoamas Ii",
+    "alias": "Ogoamas Ii"
+  },
+  {
+    "code": "72.05.161.004",
+    "villageCode": "004",
+    "districtCode": "72.05.161",
+    "name": "Ogoamas I",
+    "alias": "Ogoamas I"
+  },
+  {
+    "code": "72.05.161.005",
+    "villageCode": "005",
+    "districtCode": "72.05.161",
+    "name": "Bengkoli",
+    "alias": "Bengkoli"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "code": "71.04.041.001",
+    "villageCode": "001",
+    "districtCode": "71.04.041",
+    "name": "Makatara",
+    "alias": "Makatara"
+  },
+  {
+    "code": "71.04.041.002",
+    "villageCode": "002",
+    "districtCode": "71.04.041",
+    "name": "Makatara Timur",
+    "alias": "Makatara Timur"
+  },
+  {
+    "code": "71.04.041.003",
+    "villageCode": "003",
+    "districtCode": "71.04.041",
+    "name": "Lobbo",
+    "alias": "Lobbo"
+  },
+  {
+    "code": "71.04.041.004",
+    "villageCode": "004",
+    "districtCode": "71.04.041",
+    "name": "Lobbo I",
+    "alias": "Lobbo I"
+  },
+  {
+    "code": "71.04.041.005",
+    "villageCode": "005",
+    "districtCode": "71.04.041",
+    "name": "Rae",
+    "alias": "Rae"
+  },
+  {
+    "code": "71.04.041.006",
+    "villageCode": "006",
+    "districtCode": "71.04.041",
+    "name": "Rae Selatan",
+    "alias": "Rae Selatan"
+  },
+  {
+    "code": "71.04.041.007",
+    "villageCode": "007",
+    "districtCode": "71.04.041",
+    "name": "Awit",
+    "alias": "Awit"
+  },
+  {
+    "code": "71.04.041.008",
+    "villageCode": "008",
+    "districtCode": "71.04.041",
+    "name": "Awit Selatan",
+    "alias": "Awit Selatan"
+  }
+]

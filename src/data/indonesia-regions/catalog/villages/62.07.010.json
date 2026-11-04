@@ -1,0 +1,107 @@
+[
+  {
+    "code": "62.07.010.001",
+    "villageCode": "001",
+    "districtCode": "62.07.010",
+    "name": "Batu Kotam",
+    "alias": "Batu Kotam"
+  },
+  {
+    "code": "62.07.010.003",
+    "villageCode": "003",
+    "districtCode": "62.07.010",
+    "name": "Guci",
+    "alias": "Guci"
+  },
+  {
+    "code": "62.07.010.004",
+    "villageCode": "004",
+    "districtCode": "62.07.010",
+    "name": "Kujan",
+    "alias": "Kujan"
+  },
+  {
+    "code": "62.07.010.005",
+    "villageCode": "005",
+    "districtCode": "62.07.010",
+    "name": "Nanga Bulik",
+    "alias": "Nanga Bulik"
+  },
+  {
+    "code": "62.07.010.006",
+    "villageCode": "006",
+    "districtCode": "62.07.010",
+    "name": "Bumi Agung",
+    "alias": "Bumi Agung"
+  },
+  {
+    "code": "62.07.010.007",
+    "villageCode": "007",
+    "districtCode": "62.07.010",
+    "name": "Sumber Mulya",
+    "alias": "Sumber Mulya"
+  },
+  {
+    "code": "62.07.010.008",
+    "villageCode": "008",
+    "districtCode": "62.07.010",
+    "name": "Bukit Indah",
+    "alias": "Bukit Indah"
+  },
+  {
+    "code": "62.07.010.009",
+    "villageCode": "009",
+    "districtCode": "62.07.010",
+    "name": "Arga Mulya",
+    "alias": "Arga Mulya"
+  },
+  {
+    "code": "62.07.010.010",
+    "villageCode": "010",
+    "districtCode": "62.07.010",
+    "name": "Bunut",
+    "alias": "Bunut"
+  },
+  {
+    "code": "62.07.010.011",
+    "villageCode": "011",
+    "districtCode": "62.07.010",
+    "name": "Sungai Mentawa",
+    "alias": "Sungai Mentawa"
+  },
+  {
+    "code": "62.07.010.012",
+    "villageCode": "012",
+    "districtCode": "62.07.010",
+    "name": "Beruta",
+    "alias": "Beruta"
+  },
+  {
+    "code": "62.07.010.013",
+    "villageCode": "013",
+    "districtCode": "62.07.010",
+    "name": "Tamiang",
+    "alias": "Tamiang"
+  },
+  {
+    "code": "62.07.010.014",
+    "villageCode": "014",
+    "districtCode": "62.07.010",
+    "name": "Perigi Raya",
+    "alias": "Perigi Raya"
+  },
+  {
+    "code": "62.07.010.015",
+    "villageCode": "015",
+    "districtCode": "62.07.010",
+    "name": "Nanga Pamalontian",
+    "alias": "Nanga Pamalontian"
+  },
+  {
+    "code": "62.07.010.016",
+    "villageCode": "016",
+    "districtCode": "62.07.010",
+    "name": "Liku Mulya Sakti",
+    "alias": "Liku Mulya Sakti"
+  }
+]

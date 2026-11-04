@@ -1,0 +1,51 @@
+[
+  {
+    "code": "33.14.180.001",
+    "villageCode": "001",
+    "districtCode": "33.14.180",
+    "name": "Pilangsari",
+    "alias": "Pilangsari"
+  },
+  {
+    "code": "33.14.180.002",
+    "villageCode": "002",
+    "districtCode": "33.14.180",
+    "name": "Tanggan",
+    "alias": "Tanggan"
+  },
+  {
+    "code": "33.14.180.003",
+    "villageCode": "003",
+    "districtCode": "33.14.180",
+    "name": "Srawung",
+    "alias": "Srawung"
+  },
+  {
+    "code": "33.14.180.004",
+    "villageCode": "004",
+    "districtCode": "33.14.180",
+    "name": "Gesi",
+    "alias": "Gesi"
+  },
+  {
+    "code": "33.14.180.005",
+    "villageCode": "005",
+    "districtCode": "33.14.180",
+    "name": "Blangu",
+    "alias": "Blangu"
+  },
+  {
+    "code": "33.14.180.006",
+    "villageCode": "006",
+    "districtCode": "33.14.180",
+    "name": "Slendro",
+    "alias": "Slendro"
+  },
+  {
+    "code": "33.14.180.007",
+    "villageCode": "007",
+    "districtCode": "33.14.180",
+    "name": "Poleng",
+    "alias": "Poleng"
+  }
+]

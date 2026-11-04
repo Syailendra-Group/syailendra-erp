@@ -1,0 +1,149 @@
+[
+  {
+    "code": "18.11.040.001",
+    "villageCode": "001",
+    "districtCode": "18.11.040",
+    "name": "Muara Tenang",
+    "alias": "Muara Tenang"
+  },
+  {
+    "code": "18.11.040.002",
+    "villageCode": "002",
+    "districtCode": "18.11.040",
+    "name": "Brabasan",
+    "alias": "Brabasan"
+  },
+  {
+    "code": "18.11.040.003",
+    "villageCode": "003",
+    "districtCode": "18.11.040",
+    "name": "Gedung Ram",
+    "alias": "Gedung Ram"
+  },
+  {
+    "code": "18.11.040.004",
+    "villageCode": "004",
+    "districtCode": "18.11.040",
+    "name": "Mekar Sari",
+    "alias": "Mekar Sari"
+  },
+  {
+    "code": "18.11.040.005",
+    "villageCode": "005",
+    "districtCode": "18.11.040",
+    "name": "Sinar Laga",
+    "alias": "Sinar Laga"
+  },
+  {
+    "code": "18.11.040.006",
+    "villageCode": "006",
+    "districtCode": "18.11.040",
+    "name": "Wira Jaya",
+    "alias": "Wira Jaya"
+  },
+  {
+    "code": "18.11.040.007",
+    "villageCode": "007",
+    "districtCode": "18.11.040",
+    "name": "Bangun Jaya",
+    "alias": "Bangun Jaya"
+  },
+  {
+    "code": "18.11.040.008",
+    "villageCode": "008",
+    "districtCode": "18.11.040",
+    "name": "Bujung Buring",
+    "alias": "Bujung Buring"
+  },
+  {
+    "code": "18.11.040.009",
+    "villageCode": "009",
+    "districtCode": "18.11.040",
+    "name": "Harapan Mukti",
+    "alias": "Harapan Mukti"
+  },
+  {
+    "code": "18.11.040.010",
+    "villageCode": "010",
+    "districtCode": "18.11.040",
+    "name": "Tri Karya Mulya",
+    "alias": "Tri Karya Mulya"
+  },
+  {
+    "code": "18.11.040.011",
+    "villageCode": "011",
+    "districtCode": "18.11.040",
+    "name": "Tanjung Sari",
+    "alias": "Tanjung Sari"
+  },
+  {
+    "code": "18.11.040.012",
+    "villageCode": "012",
+    "districtCode": "18.11.040",
+    "name": "Kagungan Dalam",
+    "alias": "Kagungan Dalam"
+  },
+  {
+    "code": "18.11.040.013",
+    "villageCode": "013",
+    "districtCode": "18.11.040",
+    "name": "Sri Tanjung",
+    "alias": "Sri Tanjung"
+  },
+  {
+    "code": "18.11.040.014",
+    "villageCode": "014",
+    "districtCode": "18.11.040",
+    "name": "Berasan Makmur",
+    "alias": "Berasan Makmur"
+  },
+  {
+    "code": "18.11.040.015",
+    "villageCode": "015",
+    "districtCode": "18.11.040",
+    "name": "Mekar Jaya",
+    "alias": "Mekar Jaya"
+  },
+  {
+    "code": "18.11.040.016",
+    "villageCode": "016",
+    "districtCode": "18.11.040",
+    "name": "Gedung Mulya",
+    "alias": "Gedung Mulya"
+  },
+  {
+    "code": "18.11.040.017",
+    "villageCode": "017",
+    "districtCode": "18.11.040",
+    "name": "Tanjung Harapan",
+    "alias": "Tanjung Harapan"
+  },
+  {
+    "code": "18.11.040.018",
+    "villageCode": "018",
+    "districtCode": "18.11.040",
+    "name": "Muara Tenang Timur",
+    "alias": "Muara Tenang Timur"
+  },
+  {
+    "code": "18.11.040.019",
+    "villageCode": "019",
+    "districtCode": "18.11.040",
+    "name": "Sriwijaya",
+    "alias": "Sriwijaya"
+  },
+  {
+    "code": "18.11.040.020",
+    "villageCode": "020",
+    "districtCode": "18.11.040",
+    "name": "Mukti Jaya",
+    "alias": "Mukti Jaya"
+  },
+  {
+    "code": "18.11.040.021",
+    "villageCode": "021",
+    "districtCode": "18.11.040",
+    "name": "Bujung Buring Baru",
+    "alias": "Bujung Buring Baru"
+  }
+]

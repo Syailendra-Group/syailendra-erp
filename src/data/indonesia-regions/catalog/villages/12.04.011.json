@@ -1,0 +1,65 @@
+[
+  {
+    "code": "12.04.011.001",
+    "villageCode": "001",
+    "districtCode": "12.04.011",
+    "name": "Sitardas",
+    "alias": "Sitardas"
+  },
+  {
+    "code": "12.04.011.002",
+    "villageCode": "002",
+    "districtCode": "12.04.011",
+    "name": "Jago-Jago",
+    "alias": "Jago-Jago"
+  },
+  {
+    "code": "12.04.011.003",
+    "villageCode": "003",
+    "districtCode": "12.04.011",
+    "name": "Hutabalang",
+    "alias": "Hutabalang"
+  },
+  {
+    "code": "12.04.011.004",
+    "villageCode": "004",
+    "districtCode": "12.04.011",
+    "name": "Lopian",
+    "alias": "Lopian"
+  },
+  {
+    "code": "12.04.011.005",
+    "villageCode": "005",
+    "districtCode": "12.04.011",
+    "name": "Aek Horsik",
+    "alias": "Aek Horsik"
+  },
+  {
+    "code": "12.04.011.006",
+    "villageCode": "006",
+    "districtCode": "12.04.011",
+    "name": "Kebun Pisang",
+    "alias": "Kebun Pisang"
+  },
+  {
+    "code": "12.04.011.007",
+    "villageCode": "007",
+    "districtCode": "12.04.011",
+    "name": "Gunung Kelambu",
+    "alias": "Gunung Kelambu"
+  },
+  {
+    "code": "12.04.011.008",
+    "villageCode": "008",
+    "districtCode": "12.04.011",
+    "name": "Lubuk Ampolu",
+    "alias": "Lubuk Ampolu"
+  },
+  {
+    "code": "12.04.011.009",
+    "villageCode": "009",
+    "districtCode": "12.04.011",
+    "name": "Pagaran Honas",
+    "alias": "Pagaran Honas"
+  }
+]

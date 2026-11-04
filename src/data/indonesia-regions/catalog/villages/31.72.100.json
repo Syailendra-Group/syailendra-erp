@@ -1,0 +1,44 @@
+[
+  {
+    "code": "31.72.100.001",
+    "villageCode": "001",
+    "districtCode": "31.72.100",
+    "name": "Kebon Manggis",
+    "alias": "Kebon Manggis"
+  },
+  {
+    "code": "31.72.100.002",
+    "villageCode": "002",
+    "districtCode": "31.72.100",
+    "name": "Pal Meriem",
+    "alias": "Pal Meriem"
+  },
+  {
+    "code": "31.72.100.003",
+    "villageCode": "003",
+    "districtCode": "31.72.100",
+    "name": "Pisangan Baru",
+    "alias": "Pisangan Baru"
+  },
+  {
+    "code": "31.72.100.004",
+    "villageCode": "004",
+    "districtCode": "31.72.100",
+    "name": "Kayu Manis",
+    "alias": "Kayu Manis"
+  },
+  {
+    "code": "31.72.100.005",
+    "villageCode": "005",
+    "districtCode": "31.72.100",
+    "name": "Utan Kayu Selatan",
+    "alias": "Utan Kayu Selatan"
+  },
+  {
+    "code": "31.72.100.006",
+    "villageCode": "006",
+    "districtCode": "31.72.100",
+    "name": "Utan Kayu Utara",
+    "alias": "Utan Kayu Utara"
+  }
+]

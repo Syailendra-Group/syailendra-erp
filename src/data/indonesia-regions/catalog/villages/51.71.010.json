@@ -1,0 +1,72 @@
+[
+  {
+    "code": "51.71.010.001",
+    "villageCode": "001",
+    "districtCode": "51.71.010",
+    "name": "Pemogan",
+    "alias": "Pemogan"
+  },
+  {
+    "code": "51.71.010.002",
+    "villageCode": "002",
+    "districtCode": "51.71.010",
+    "name": "Pedungan",
+    "alias": "Pedungan"
+  },
+  {
+    "code": "51.71.010.003",
+    "villageCode": "003",
+    "districtCode": "51.71.010",
+    "name": "Sesetan",
+    "alias": "Sesetan"
+  },
+  {
+    "code": "51.71.010.004",
+    "villageCode": "004",
+    "districtCode": "51.71.010",
+    "name": "Serangan",
+    "alias": "Serangan"
+  },
+  {
+    "code": "51.71.010.005",
+    "villageCode": "005",
+    "districtCode": "51.71.010",
+    "name": "Sidakarya",
+    "alias": "Sidakarya"
+  },
+  {
+    "code": "51.71.010.006",
+    "villageCode": "006",
+    "districtCode": "51.71.010",
+    "name": "Panjer",
+    "alias": "Panjer"
+  },
+  {
+    "code": "51.71.010.007",
+    "villageCode": "007",
+    "districtCode": "51.71.010",
+    "name": "Renon",
+    "alias": "Renon"
+  },
+  {
+    "code": "51.71.010.008",
+    "villageCode": "008",
+    "districtCode": "51.71.010",
+    "name": "Sanur Kauh",
+    "alias": "Sanur Kauh"
+  },
+  {
+    "code": "51.71.010.009",
+    "villageCode": "009",
+    "districtCode": "51.71.010",
+    "name": "Sanur",
+    "alias": "Sanur"
+  },
+  {
+    "code": "51.71.010.010",
+    "villageCode": "010",
+    "districtCode": "51.71.010",
+    "name": "Sanur Kaja",
+    "alias": "Sanur Kaja"
+  }
+]

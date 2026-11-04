@@ -1,0 +1,114 @@
+[
+  {
+    "code": "35.05.200.001",
+    "villageCode": "001",
+    "districtCode": "35.05.200",
+    "name": "Purwokerto",
+    "alias": "Purwokerto"
+  },
+  {
+    "code": "35.05.200.002",
+    "villageCode": "002",
+    "districtCode": "35.05.200",
+    "name": "Selokajang",
+    "alias": "Selokajang"
+  },
+  {
+    "code": "35.05.200.003",
+    "villageCode": "003",
+    "districtCode": "35.05.200",
+    "name": "Ngaglik",
+    "alias": "Ngaglik"
+  },
+  {
+    "code": "35.05.200.004",
+    "villageCode": "004",
+    "districtCode": "35.05.200",
+    "name": "Maron",
+    "alias": "Maron"
+  },
+  {
+    "code": "35.05.200.005",
+    "villageCode": "005",
+    "districtCode": "35.05.200",
+    "name": "Pakisrejo",
+    "alias": "Pakisrejo"
+  },
+  {
+    "code": "35.05.200.006",
+    "villageCode": "006",
+    "districtCode": "35.05.200",
+    "name": "Karanggayam",
+    "alias": "Karanggayam"
+  },
+  {
+    "code": "35.05.200.007",
+    "villageCode": "007",
+    "districtCode": "35.05.200",
+    "name": "Kerjen",
+    "alias": "Kerjen"
+  },
+  {
+    "code": "35.05.200.008",
+    "villageCode": "008",
+    "districtCode": "35.05.200",
+    "name": "Wonorejo",
+    "alias": "Wonorejo"
+  },
+  {
+    "code": "35.05.200.009",
+    "villageCode": "009",
+    "districtCode": "35.05.200",
+    "name": "Kauman",
+    "alias": "Kauman"
+  },
+  {
+    "code": "35.05.200.010",
+    "villageCode": "010",
+    "districtCode": "35.05.200",
+    "name": "Kandangan",
+    "alias": "Kandangan"
+  },
+  {
+    "code": "35.05.200.011",
+    "villageCode": "011",
+    "districtCode": "35.05.200",
+    "name": "Kendalrejo",
+    "alias": "Kendalrejo"
+  },
+  {
+    "code": "35.05.200.012",
+    "villageCode": "012",
+    "districtCode": "35.05.200",
+    "name": "Dandong",
+    "alias": "Dandong"
+  },
+  {
+    "code": "35.05.200.013",
+    "villageCode": "013",
+    "districtCode": "35.05.200",
+    "name": "Bagelenan",
+    "alias": "Bagelenan"
+  },
+  {
+    "code": "35.05.200.014",
+    "villageCode": "014",
+    "districtCode": "35.05.200",
+    "name": "Srengat",
+    "alias": "Srengat"
+  },
+  {
+    "code": "35.05.200.015",
+    "villageCode": "015",
+    "districtCode": "35.05.200",
+    "name": "Togogan",
+    "alias": "Togogan"
+  },
+  {
+    "code": "35.05.200.016",
+    "villageCode": "016",
+    "districtCode": "35.05.200",
+    "name": "Dermojayan",
+    "alias": "Dermojayan"
+  }
+]

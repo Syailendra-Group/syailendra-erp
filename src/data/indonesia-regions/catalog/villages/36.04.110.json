@@ -1,0 +1,72 @@
+[
+  {
+    "code": "36.04.110.001",
+    "villageCode": "001",
+    "districtCode": "36.04.110",
+    "name": "Nanggung",
+    "alias": "Nanggung"
+  },
+  {
+    "code": "36.04.110.002",
+    "villageCode": "002",
+    "districtCode": "36.04.110",
+    "name": "Kopo",
+    "alias": "Kopo"
+  },
+  {
+    "code": "36.04.110.003",
+    "villageCode": "003",
+    "districtCode": "36.04.110",
+    "name": "Mekarbaru",
+    "alias": "Mekarbaru"
+  },
+  {
+    "code": "36.04.110.004",
+    "villageCode": "004",
+    "districtCode": "36.04.110",
+    "name": "Garut",
+    "alias": "Garut"
+  },
+  {
+    "code": "36.04.110.005",
+    "villageCode": "005",
+    "districtCode": "36.04.110",
+    "name": "Rancasumur",
+    "alias": "Rancasumur"
+  },
+  {
+    "code": "36.04.110.006",
+    "villageCode": "006",
+    "districtCode": "36.04.110",
+    "name": "Cidahu",
+    "alias": "Cidahu"
+  },
+  {
+    "code": "36.04.110.007",
+    "villageCode": "007",
+    "districtCode": "36.04.110",
+    "name": "Nyompok",
+    "alias": "Nyompok"
+  },
+  {
+    "code": "36.04.110.008",
+    "villageCode": "008",
+    "districtCode": "36.04.110",
+    "name": "Carenang Udik",
+    "alias": "Carenang Udik"
+  },
+  {
+    "code": "36.04.110.009",
+    "villageCode": "009",
+    "districtCode": "36.04.110",
+    "name": "Babakan Jaya",
+    "alias": "Babakan Jaya"
+  },
+  {
+    "code": "36.04.110.010",
+    "villageCode": "010",
+    "districtCode": "36.04.110",
+    "name": "Gabus",
+    "alias": "Gabus"
+  }
+]

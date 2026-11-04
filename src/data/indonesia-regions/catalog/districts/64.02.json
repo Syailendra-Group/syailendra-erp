@@ -1,0 +1,130 @@
+[
+  {
+    "code": "64.02.010",
+    "districtCode": "010",
+    "regencyCode": "64.02",
+    "provinceCode": "64",
+    "name": "Kecamatan Bongan",
+    "alias": "Bongan"
+  },
+  {
+    "code": "64.02.020",
+    "districtCode": "020",
+    "regencyCode": "64.02",
+    "provinceCode": "64",
+    "name": "Kecamatan Jempang",
+    "alias": "Jempang"
+  },
+  {
+    "code": "64.02.030",
+    "districtCode": "030",
+    "regencyCode": "64.02",
+    "provinceCode": "64",
+    "name": "Kecamatan Penyinggahan",
+    "alias": "Penyinggahan"
+  },
+  {
+    "code": "64.02.040",
+    "districtCode": "040",
+    "regencyCode": "64.02",
+    "provinceCode": "64",
+    "name": "Kecamatan Muara Pahu",
+    "alias": "Muara Pahu"
+  },
+  {
+    "code": "64.02.041",
+    "districtCode": "041",
+    "regencyCode": "64.02",
+    "provinceCode": "64",
+    "name": "Kecamatan Siluq Ngurai",
+    "alias": "Siluq Ngurai"
+  },
+  {
+    "code": "64.02.050",
+    "districtCode": "050",
+    "regencyCode": "64.02",
+    "provinceCode": "64",
+    "name": "Kecamatan Muara Lawa",
+    "alias": "Muara Lawa"
+  },
+  {
+    "code": "64.02.051",
+    "districtCode": "051",
+    "regencyCode": "64.02",
+    "provinceCode": "64",
+    "name": "Kecamatan Bentian Besar",
+    "alias": "Bentian Besar"
+  },
+  {
+    "code": "64.02.060",
+    "districtCode": "060",
+    "regencyCode": "64.02",
+    "provinceCode": "64",
+    "name": "Kecamatan Damai",
+    "alias": "Damai"
+  },
+  {
+    "code": "64.02.061",
+    "districtCode": "061",
+    "regencyCode": "64.02",
+    "provinceCode": "64",
+    "name": "Kecamatan Nyuatan",
+    "alias": "Nyuatan"
+  },
+  {
+    "code": "64.02.070",
+    "districtCode": "070",
+    "regencyCode": "64.02",
+    "provinceCode": "64",
+    "name": "Kecamatan Barong Tongkok",
+    "alias": "Barong Tongkok"
+  },
+  {
+    "code": "64.02.071",
+    "districtCode": "071",
+    "regencyCode": "64.02",
+    "provinceCode": "64",
+    "name": "Kecamatan Linggang Bigung",
+    "alias": "Linggang Bigung"
+  },
+  {
+    "code": "64.02.080",
+    "districtCode": "080",
+    "regencyCode": "64.02",
+    "provinceCode": "64",
+    "name": "Kecamatan Melak",
+    "alias": "Melak"
+  },
+  {
+    "code": "64.02.081",
+    "districtCode": "081",
+    "regencyCode": "64.02",
+    "provinceCode": "64",
+    "name": "Kecamatan Sekolaq Darat",
+    "alias": "Sekolaq Darat"
+  },
+  {
+    "code": "64.02.082",
+    "districtCode": "082",
+    "regencyCode": "64.02",
+    "provinceCode": "64",
+    "name": "Kecamatan Mook Manaar Bulatn",
+    "alias": "Mook Manaar Bulatn"
+  },
+  {
+    "code": "64.02.090",
+    "districtCode": "090",
+    "regencyCode": "64.02",
+    "provinceCode": "64",
+    "name": "Kecamatan Long Iram",
+    "alias": "Long Iram"
+  },
+  {
+    "code": "64.02.091",
+    "districtCode": "091",
+    "regencyCode": "64.02",
+    "provinceCode": "64",
+    "name": "Kecamatan Tering",
+    "alias": "Tering"
+  }
+]

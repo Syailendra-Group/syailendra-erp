@@ -1,0 +1,72 @@
+[
+  {
+    "code": "52.01.011.001",
+    "villageCode": "001",
+    "districtCode": "52.01.011",
+    "name": "Mareje",
+    "alias": "Mareje"
+  },
+  {
+    "code": "52.01.011.002",
+    "villageCode": "002",
+    "districtCode": "52.01.011",
+    "name": "Sekotong Timur",
+    "alias": "Sekotong Timur"
+  },
+  {
+    "code": "52.01.011.003",
+    "villageCode": "003",
+    "districtCode": "52.01.011",
+    "name": "Lembar",
+    "alias": "Lembar"
+  },
+  {
+    "code": "52.01.011.004",
+    "villageCode": "004",
+    "districtCode": "52.01.011",
+    "name": "Jembatan Kembar",
+    "alias": "Jembatan Kembar"
+  },
+  {
+    "code": "52.01.011.005",
+    "villageCode": "005",
+    "districtCode": "52.01.011",
+    "name": "Labuan Tereng",
+    "alias": "Labuan Tereng"
+  },
+  {
+    "code": "52.01.011.006",
+    "villageCode": "006",
+    "districtCode": "52.01.011",
+    "name": "Mareje Timur",
+    "alias": "Mareje Timur"
+  },
+  {
+    "code": "52.01.011.007",
+    "villageCode": "007",
+    "districtCode": "52.01.011",
+    "name": "Lembar Selatan",
+    "alias": "Lembar Selatan"
+  },
+  {
+    "code": "52.01.011.008",
+    "villageCode": "008",
+    "districtCode": "52.01.011",
+    "name": "Jembatan Gantung",
+    "alias": "Jembatan Gantung"
+  },
+  {
+    "code": "52.01.011.009",
+    "villageCode": "009",
+    "districtCode": "52.01.011",
+    "name": "Jembatan Kembar Timur",
+    "alias": "Jembatan Kembar Timur"
+  },
+  {
+    "code": "52.01.011.010",
+    "villageCode": "010",
+    "districtCode": "52.01.011",
+    "name": "Eyat Mayang",
+    "alias": "Eyat Mayang"
+  }
+]

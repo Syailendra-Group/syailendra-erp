@@ -1,0 +1,44 @@
+[
+  {
+    "code": "53.05.024.001",
+    "villageCode": "001",
+    "districtCode": "53.05.024",
+    "name": "Nilulat",
+    "alias": "Nilulat"
+  },
+  {
+    "code": "53.05.024.002",
+    "villageCode": "002",
+    "districtCode": "53.05.024",
+    "name": "Tubu",
+    "alias": "Tubu"
+  },
+  {
+    "code": "53.05.024.003",
+    "villageCode": "003",
+    "districtCode": "53.05.024",
+    "name": "Haumeni  Ana",
+    "alias": "Haumeni  Ana"
+  },
+  {
+    "code": "53.05.024.004",
+    "villageCode": "004",
+    "districtCode": "53.05.024",
+    "name": "Sunkaen",
+    "alias": "Sunkaen"
+  },
+  {
+    "code": "53.05.024.005",
+    "villageCode": "005",
+    "districtCode": "53.05.024",
+    "name": "Nainaban",
+    "alias": "Nainaban"
+  },
+  {
+    "code": "53.05.024.006",
+    "villageCode": "006",
+    "districtCode": "53.05.024",
+    "name": "Inbate",
+    "alias": "Inbate"
+  }
+]

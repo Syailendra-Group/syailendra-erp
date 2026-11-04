@@ -1,0 +1,82 @@
+[
+  {
+    "code": "16.11.010",
+    "districtCode": "010",
+    "regencyCode": "16.11",
+    "provinceCode": "16",
+    "name": "Kecamatan Muara Pinang",
+    "alias": "Muara Pinang"
+  },
+  {
+    "code": "16.11.020",
+    "districtCode": "020",
+    "regencyCode": "16.11",
+    "provinceCode": "16",
+    "name": "Kecamatan Lintang Kanan",
+    "alias": "Lintang Kanan"
+  },
+  {
+    "code": "16.11.030",
+    "districtCode": "030",
+    "regencyCode": "16.11",
+    "provinceCode": "16",
+    "name": "Kecamatan Pendopo",
+    "alias": "Pendopo"
+  },
+  {
+    "code": "16.11.031",
+    "districtCode": "031",
+    "regencyCode": "16.11",
+    "provinceCode": "16",
+    "name": "Kecamatan Pendopo Barat",
+    "alias": "Pendopo Barat"
+  },
+  {
+    "code": "16.11.040",
+    "districtCode": "040",
+    "regencyCode": "16.11",
+    "provinceCode": "16",
+    "name": "Kecamatan Pasemah Air Keruh",
+    "alias": "Pasemah Air Keruh"
+  },
+  {
+    "code": "16.11.050",
+    "districtCode": "050",
+    "regencyCode": "16.11",
+    "provinceCode": "16",
+    "name": "Kecamatan Ulu Musi",
+    "alias": "Ulu Musi"
+  },
+  {
+    "code": "16.11.051",
+    "districtCode": "051",
+    "regencyCode": "16.11",
+    "provinceCode": "16",
+    "name": "Kecamatan Sikap Dalam",
+    "alias": "Sikap Dalam"
+  },
+  {
+    "code": "16.11.060",
+    "districtCode": "060",
+    "regencyCode": "16.11",
+    "provinceCode": "16",
+    "name": "Kecamatan Talang Padang",
+    "alias": "Talang Padang"
+  },
+  {
+    "code": "16.11.070",
+    "districtCode": "070",
+    "regencyCode": "16.11",
+    "provinceCode": "16",
+    "name": "Kecamatan Tebing Tinggi",
+    "alias": "Tebing Tinggi"
+  },
+  {
+    "code": "16.11.071",
+    "districtCode": "071",
+    "regencyCode": "16.11",
+    "provinceCode": "16",
+    "name": "Kecamatan Saling",
+    "alias": "Saling"
+  }
+]

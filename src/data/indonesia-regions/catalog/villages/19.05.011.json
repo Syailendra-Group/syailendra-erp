@@ -1,0 +1,37 @@
+[
+  {
+    "code": "19.05.011.001",
+    "villageCode": "001",
+    "districtCode": "19.05.011",
+    "name": "Batu Betumpang",
+    "alias": "Batu Betumpang"
+  },
+  {
+    "code": "19.05.011.002",
+    "villageCode": "002",
+    "districtCode": "19.05.011",
+    "name": "Panca Tunggal",
+    "alias": "Panca Tunggal"
+  },
+  {
+    "code": "19.05.011.003",
+    "villageCode": "003",
+    "districtCode": "19.05.011",
+    "name": "Fajar Indah",
+    "alias": "Fajar Indah"
+  },
+  {
+    "code": "19.05.011.004",
+    "villageCode": "004",
+    "districtCode": "19.05.011",
+    "name": "Sukajaya",
+    "alias": "Sukajaya"
+  },
+  {
+    "code": "19.05.011.005",
+    "villageCode": "005",
+    "districtCode": "19.05.011",
+    "name": "Sumber Jaya Permai",
+    "alias": "Sumber Jaya Permai"
+  }
+]

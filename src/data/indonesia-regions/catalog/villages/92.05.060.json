@@ -1,0 +1,37 @@
+[
+  {
+    "code": "92.05.060.001",
+    "villageCode": "001",
+    "districtCode": "92.05.060",
+    "name": "Soon",
+    "alias": "Soon"
+  },
+  {
+    "code": "92.05.060.002",
+    "villageCode": "002",
+    "districtCode": "92.05.060",
+    "name": "Ifatkan",
+    "alias": "Ifatkan"
+  },
+  {
+    "code": "92.05.060.003",
+    "villageCode": "003",
+    "districtCode": "92.05.060",
+    "name": "Ruriay",
+    "alias": "Ruriay"
+  },
+  {
+    "code": "92.05.060.004",
+    "villageCode": "004",
+    "districtCode": "92.05.060",
+    "name": "Hohair",
+    "alias": "Hohair"
+  },
+  {
+    "code": "92.05.060.005",
+    "villageCode": "005",
+    "districtCode": "92.05.060",
+    "name": "Tinggouw",
+    "alias": "Tinggouw"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "code": "71.71.020.004",
+    "villageCode": "004",
+    "districtCode": "71.71.020",
+    "name": "Ranotana",
+    "alias": "Ranotana"
+  },
+  {
+    "code": "71.71.020.006",
+    "villageCode": "006",
+    "districtCode": "71.71.020",
+    "name": "Sario Kota Baru",
+    "alias": "Sario Kota Baru"
+  },
+  {
+    "code": "71.71.020.007",
+    "villageCode": "007",
+    "districtCode": "71.71.020",
+    "name": "Sario",
+    "alias": "Sario"
+  },
+  {
+    "code": "71.71.020.008",
+    "villageCode": "008",
+    "districtCode": "71.71.020",
+    "name": "Sario Tumpaan",
+    "alias": "Sario Tumpaan"
+  },
+  {
+    "code": "71.71.020.009",
+    "villageCode": "009",
+    "districtCode": "71.71.020",
+    "name": "Sario Utara",
+    "alias": "Sario Utara"
+  },
+  {
+    "code": "71.71.020.011",
+    "villageCode": "011",
+    "districtCode": "71.71.020",
+    "name": "Titiwungen Selatan",
+    "alias": "Titiwungen Selatan"
+  },
+  {
+    "code": "71.71.020.012",
+    "villageCode": "012",
+    "districtCode": "71.71.020",
+    "name": "Titiwungen Utara",
+    "alias": "Titiwungen Utara"
+  }
+]

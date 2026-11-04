@@ -1,0 +1,58 @@
+[
+  {
+    "code": "16.72.020.003",
+    "villageCode": "003",
+    "districtCode": "16.72.020",
+    "name": "Karang Raja",
+    "alias": "Karang Raja"
+  },
+  {
+    "code": "16.72.020.004",
+    "villageCode": "004",
+    "districtCode": "16.72.020",
+    "name": "Muara Dua",
+    "alias": "Muara Dua"
+  },
+  {
+    "code": "16.72.020.005",
+    "villageCode": "005",
+    "districtCode": "16.72.020",
+    "name": "Gunung Ibul Barat",
+    "alias": "Gunung Ibul Barat"
+  },
+  {
+    "code": "16.72.020.006",
+    "villageCode": "006",
+    "districtCode": "16.72.020",
+    "name": "Gunung Ibul",
+    "alias": "Gunung Ibul"
+  },
+  {
+    "code": "16.72.020.007",
+    "villageCode": "007",
+    "districtCode": "16.72.020",
+    "name": "Karang Jaya",
+    "alias": "Karang Jaya"
+  },
+  {
+    "code": "16.72.020.008",
+    "villageCode": "008",
+    "districtCode": "16.72.020",
+    "name": "Tugu Kecil",
+    "alias": "Tugu Kecil"
+  },
+  {
+    "code": "16.72.020.009",
+    "villageCode": "009",
+    "districtCode": "16.72.020",
+    "name": "Prabu Jaya",
+    "alias": "Prabu Jaya"
+  },
+  {
+    "code": "16.72.020.010",
+    "villageCode": "010",
+    "districtCode": "16.72.020",
+    "name": "Sukajadi",
+    "alias": "Sukajadi"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "code": "52.01.061.001",
+    "villageCode": "001",
+    "districtCode": "52.01.061",
+    "name": "Sandik",
+    "alias": "Sandik"
+  },
+  {
+    "code": "52.01.061.002",
+    "villageCode": "002",
+    "districtCode": "52.01.061",
+    "name": "Meninting",
+    "alias": "Meninting"
+  },
+  {
+    "code": "52.01.061.003",
+    "villageCode": "003",
+    "districtCode": "52.01.061",
+    "name": "Batu Layar",
+    "alias": "Batu Layar"
+  },
+  {
+    "code": "52.01.061.004",
+    "villageCode": "004",
+    "districtCode": "52.01.061",
+    "name": "Lembah Sari",
+    "alias": "Lembah Sari"
+  },
+  {
+    "code": "52.01.061.005",
+    "villageCode": "005",
+    "districtCode": "52.01.061",
+    "name": "Senteluk",
+    "alias": "Senteluk"
+  },
+  {
+    "code": "52.01.061.006",
+    "villageCode": "006",
+    "districtCode": "52.01.061",
+    "name": "Senggigi",
+    "alias": "Senggigi"
+  },
+  {
+    "code": "52.01.061.007",
+    "villageCode": "007",
+    "districtCode": "52.01.061",
+    "name": "Batu Layar Barat",
+    "alias": "Batu Layar Barat"
+  },
+  {
+    "code": "52.01.061.008",
+    "villageCode": "008",
+    "districtCode": "52.01.061",
+    "name": "Bengkaung",
+    "alias": "Bengkaung"
+  },
+  {
+    "code": "52.01.061.009",
+    "villageCode": "009",
+    "districtCode": "52.01.061",
+    "name": "Pusuk Lestari",
+    "alias": "Pusuk Lestari"
+  }
+]

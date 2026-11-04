@@ -1,0 +1,44 @@
+[
+  {
+    "code": "73.18.067.001",
+    "villageCode": "001",
+    "districtCode": "73.18.067",
+    "name": "Lembang Bambalu",
+    "alias": "Lembang Bambalu"
+  },
+  {
+    "code": "73.18.067.002",
+    "villageCode": "002",
+    "districtCode": "73.18.067",
+    "name": "Lembang Lipungan Tanete",
+    "alias": "Lembang Lipungan Tanete"
+  },
+  {
+    "code": "73.18.067.003",
+    "villageCode": "003",
+    "districtCode": "73.18.067",
+    "name": "Kelurahan Rante Kurra",
+    "alias": "Kelurahan Rante Kurra"
+  },
+  {
+    "code": "73.18.067.004",
+    "villageCode": "004",
+    "districtCode": "73.18.067",
+    "name": "Lembang Rante Limbong",
+    "alias": "Lembang Rante Limbong"
+  },
+  {
+    "code": "73.18.067.005",
+    "villageCode": "005",
+    "districtCode": "73.18.067",
+    "name": "Lembang Limbong Sangpolo",
+    "alias": "Lembang Limbong Sangpolo"
+  },
+  {
+    "code": "73.18.067.006",
+    "villageCode": "006",
+    "districtCode": "73.18.067",
+    "name": "Lembang Moroson",
+    "alias": "Lembang Moroson"
+  }
+]

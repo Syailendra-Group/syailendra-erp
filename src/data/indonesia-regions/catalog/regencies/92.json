@@ -1,0 +1,50 @@
+[
+  {
+    "code": "92.01",
+    "regencyCode": "01",
+    "provinceCode": "92",
+    "provinceName": "Papua Barat Daya",
+    "name": "Kabupaten Raja Ampat",
+    "alias": "Raja Ampat"
+  },
+  {
+    "code": "92.02",
+    "regencyCode": "02",
+    "provinceCode": "92",
+    "provinceName": "Papua Barat Daya",
+    "name": "Kabupaten Sorong",
+    "alias": "Sorong"
+  },
+  {
+    "code": "92.03",
+    "regencyCode": "03",
+    "provinceCode": "92",
+    "provinceName": "Papua Barat Daya",
+    "name": "Kabupaten Sorong Selatan",
+    "alias": "Sorong Selatan"
+  },
+  {
+    "code": "92.04",
+    "regencyCode": "04",
+    "provinceCode": "92",
+    "provinceName": "Papua Barat Daya",
+    "name": "Kabupaten Maybrat",
+    "alias": "Maybrat"
+  },
+  {
+    "code": "92.05",
+    "regencyCode": "05",
+    "provinceCode": "92",
+    "provinceName": "Papua Barat Daya",
+    "name": "Kabupaten Tambrauw",
+    "alias": "Tambrauw"
+  },
+  {
+    "code": "92.71",
+    "regencyCode": "71",
+    "provinceCode": "92",
+    "provinceName": "Papua Barat Daya",
+    "name": "Kota Sorong",
+    "alias": "Sorong"
+  }
+]

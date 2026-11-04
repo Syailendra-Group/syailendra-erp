@@ -1,0 +1,44 @@
+[
+  {
+    "code": "51.07.010.001",
+    "villageCode": "001",
+    "districtCode": "51.07.010",
+    "name": "Pesaban",
+    "alias": "Pesaban"
+  },
+  {
+    "code": "51.07.010.002",
+    "villageCode": "002",
+    "districtCode": "51.07.010",
+    "name": "Nongan",
+    "alias": "Nongan"
+  },
+  {
+    "code": "51.07.010.003",
+    "villageCode": "003",
+    "districtCode": "51.07.010",
+    "name": "Rendang",
+    "alias": "Rendang"
+  },
+  {
+    "code": "51.07.010.004",
+    "villageCode": "004",
+    "districtCode": "51.07.010",
+    "name": "Menanga",
+    "alias": "Menanga"
+  },
+  {
+    "code": "51.07.010.005",
+    "villageCode": "005",
+    "districtCode": "51.07.010",
+    "name": "Besakih",
+    "alias": "Besakih"
+  },
+  {
+    "code": "51.07.010.006",
+    "villageCode": "006",
+    "districtCode": "51.07.010",
+    "name": "Pempatan",
+    "alias": "Pempatan"
+  }
+]

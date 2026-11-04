@@ -13,7 +13,8 @@ export interface FetchProvincesParams {
   page?: number
   perPage?: number
   search?: string
-  countryId?: number
+  countryId?: number | string | string[]
+  scope?: string | string[]
   order?: string
 }
 
@@ -30,28 +31,42 @@ function mapStateToProvince(r: Record<string, OdooFieldValue>): ProvinceRecord {
     id: r.id as number,
     name: r.name as string,
     code: (r.code as string) || '',
+    alias: (r.alias as string) || false,
+    description: (r.description as string) || false,
     country_id: r.country_id as [number, string]
   }
 }
 
-const PROVINCE_READ_FIELDS = ['id', 'name', 'code', 'country_id']
+const PROVINCE_READ_FIELDS = ['id', 'name', 'code', 'alias', 'description', 'country_id']
 
 export async function fetchProvinces(countryId?: number): Promise<ProvinceRecord[]> {
   const domain: OdooDomain = countryId ? [['country_id', '=', countryId]] : []
   const records = await odoo.client.searchRead<Record<string, OdooFieldValue>>('res.country.state', domain, PROVINCE_READ_FIELDS, {
-    order: 'name asc',
-    limit: 200
+    order: countryId ? 'name asc' : 'id desc, name asc',
+    limit: 2500
   })
   return records.map(mapStateToProvince)
 }
 
 export async function fetchProvincesPaginated(params: FetchProvincesParams = {}): Promise<PaginatedProvincesResult> {
-  const { page = 1, perPage = 20, search = '', countryId, order = 'name asc' } = params
+  const { page = 1, perPage = 20, search = '', countryId, scope, order = 'name asc' } = params
 
   const domain: OdooDomain = []
 
+  if (scope) {
+    const scopeArr = Array.isArray(scope) ? scope : [scope]
+    if (scopeArr.includes('domestic') && !scopeArr.includes('foreign')) {
+      domain.push(['country_id', '=', 100])
+    } else if (scopeArr.includes('foreign') && !scopeArr.includes('domestic')) {
+      domain.push(['country_id', '!=', 100])
+    }
+  }
+
   if (countryId) {
-    domain.push(['country_id', '=', countryId])
+    const cid = Array.isArray(countryId) ? Number(countryId[0]) : Number(countryId)
+    if (!isNaN(cid) && cid > 0) {
+      domain.push(['country_id', '=', cid])
+    }
   }
 
   if (search.trim()) {
@@ -87,10 +102,47 @@ export async function fetchProvinceById(id: number): Promise<ProvinceRecord | nu
   return mapStateToProvince(r)
 }
 
+export async function checkProvinceExistsInOdoo(params: { code?: string; name?: string }): Promise<{ exists: boolean; id?: number; name?: string }> {
+  const { code, name } = params
+  if (!code && !name) return { exists: false }
+
+  const domain: OdooDomain = []
+  if (code && name) {
+    domain.push('|', ['code', '=', code], ['name', 'ilike', name])
+  } else if (code) {
+    domain.push(['code', '=', code])
+  } else if (name) {
+    domain.push(['name', 'ilike', name])
+  }
+
+  const records = await odoo.client.searchRead<{ id: number; name: string }>('res.country.state', domain, ['id', 'name'], { limit: 1 })
+  if (records.length > 0 && records[0]) {
+    return { exists: true, id: records[0].id, name: records[0].name }
+  }
+  return { exists: false }
+}
+
+export async function fetchProvinceFilterOptions(): Promise<{ countries: { id: number; name: string }[] }> {
+  const states = await odoo.client.searchRead<Record<string, OdooFieldValue>>('res.country.state', [], ['country_id'], { limit: 2500 })
+  const countryMap = new Map<number, string>()
+
+  states.forEach((s) => {
+    if (s.country_id && Array.isArray(s.country_id)) {
+      countryMap.set(s.country_id[0] as number, s.country_id[1] as string)
+    }
+  })
+
+  return {
+    countries: Array.from(countryMap.entries()).map(([id, name]) => ({ id, name }))
+  }
+}
+
 export async function persistProvince(values: ProvinceFormValues): Promise<number> {
   const payload: Record<string, OdooFieldValue> = {
     name: values.name,
     code: values.code || false,
+    alias: values.alias || false,
+    description: values.description || false,
     country_id: values.country_id || 100
   }
 

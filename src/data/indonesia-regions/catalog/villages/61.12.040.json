@@ -1,0 +1,100 @@
+[
+  {
+    "code": "61.12.040.001",
+    "villageCode": "001",
+    "districtCode": "61.12.040",
+    "name": "Sungai Nibung",
+    "alias": "Sungai Nibung"
+  },
+  {
+    "code": "61.12.040.002",
+    "villageCode": "002",
+    "districtCode": "61.12.040",
+    "name": "Seruat Satu",
+    "alias": "Seruat Satu"
+  },
+  {
+    "code": "61.12.040.003",
+    "villageCode": "003",
+    "districtCode": "61.12.040",
+    "name": "Kuala Karang",
+    "alias": "Kuala Karang"
+  },
+  {
+    "code": "61.12.040.004",
+    "villageCode": "004",
+    "districtCode": "61.12.040",
+    "name": "Tanjung Bunga",
+    "alias": "Tanjung Bunga"
+  },
+  {
+    "code": "61.12.040.005",
+    "villageCode": "005",
+    "districtCode": "61.12.040",
+    "name": "Teluk Gelam",
+    "alias": "Teluk Gelam"
+  },
+  {
+    "code": "61.12.040.006",
+    "villageCode": "006",
+    "districtCode": "61.12.040",
+    "name": "Selat Remis",
+    "alias": "Selat Remis"
+  },
+  {
+    "code": "61.12.040.007",
+    "villageCode": "007",
+    "districtCode": "61.12.040",
+    "name": "Teluk Pakedai Hulu",
+    "alias": "Teluk Pakedai Hulu"
+  },
+  {
+    "code": "61.12.040.008",
+    "villageCode": "008",
+    "districtCode": "61.12.040",
+    "name": "Teluk Pakedai Dua",
+    "alias": "Teluk Pakedai Dua"
+  },
+  {
+    "code": "61.12.040.009",
+    "villageCode": "009",
+    "districtCode": "61.12.040",
+    "name": "Teluk Pakedai Satu",
+    "alias": "Teluk Pakedai Satu"
+  },
+  {
+    "code": "61.12.040.010",
+    "villageCode": "010",
+    "districtCode": "61.12.040",
+    "name": "Pasir Putih",
+    "alias": "Pasir Putih"
+  },
+  {
+    "code": "61.12.040.011",
+    "villageCode": "011",
+    "districtCode": "61.12.040",
+    "name": "Madura",
+    "alias": "Madura"
+  },
+  {
+    "code": "61.12.040.012",
+    "villageCode": "012",
+    "districtCode": "61.12.040",
+    "name": "Sungai Deras",
+    "alias": "Sungai Deras"
+  },
+  {
+    "code": "61.12.040.013",
+    "villageCode": "013",
+    "districtCode": "61.12.040",
+    "name": "Arus Deras",
+    "alias": "Arus Deras"
+  },
+  {
+    "code": "61.12.040.014",
+    "villageCode": "014",
+    "districtCode": "61.12.040",
+    "name": "Sungai Nipah",
+    "alias": "Sungai Nipah"
+  }
+]

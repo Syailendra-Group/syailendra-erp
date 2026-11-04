@@ -1,0 +1,30 @@
+[
+  {
+    "code": "53.01.023.001",
+    "villageCode": "001",
+    "districtCode": "53.01.023",
+    "name": "Wetana",
+    "alias": "Wetana"
+  },
+  {
+    "code": "53.01.023.002",
+    "villageCode": "002",
+    "districtCode": "53.01.023",
+    "name": "Gaura",
+    "alias": "Gaura"
+  },
+  {
+    "code": "53.01.023.003",
+    "villageCode": "003",
+    "districtCode": "53.01.023",
+    "name": "Patiala Dete",
+    "alias": "Patiala Dete"
+  },
+  {
+    "code": "53.01.023.004",
+    "villageCode": "004",
+    "districtCode": "53.01.023",
+    "name": "Harona Kala",
+    "alias": "Harona Kala"
+  }
+]

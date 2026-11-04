@@ -1,0 +1,37 @@
+[
+  {
+    "code": "96.04.070.001",
+    "villageCode": "001",
+    "districtCode": "96.04.070",
+    "name": "Waharia",
+    "alias": "Waharia"
+  },
+  {
+    "code": "96.04.070.002",
+    "villageCode": "002",
+    "districtCode": "96.04.070",
+    "name": "Kimi",
+    "alias": "Kimi"
+  },
+  {
+    "code": "96.04.070.003",
+    "villageCode": "003",
+    "districtCode": "96.04.070",
+    "name": "Samabusa",
+    "alias": "Samabusa"
+  },
+  {
+    "code": "96.04.070.004",
+    "villageCode": "004",
+    "districtCode": "96.04.070",
+    "name": "Lani",
+    "alias": "Lani"
+  },
+  {
+    "code": "96.04.070.005",
+    "villageCode": "005",
+    "districtCode": "96.04.070",
+    "name": "Air Mandidi",
+    "alias": "Air Mandidi"
+  }
+]

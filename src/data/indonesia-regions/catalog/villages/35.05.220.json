@@ -1,0 +1,86 @@
+[
+  {
+    "code": "35.05.220.001",
+    "villageCode": "001",
+    "districtCode": "35.05.220",
+    "name": "Ringinanom",
+    "alias": "Ringinanom"
+  },
+  {
+    "code": "35.05.220.002",
+    "villageCode": "002",
+    "districtCode": "35.05.220",
+    "name": "Sumbersari",
+    "alias": "Sumbersari"
+  },
+  {
+    "code": "35.05.220.003",
+    "villageCode": "003",
+    "districtCode": "35.05.220",
+    "name": "Karanggondang",
+    "alias": "Karanggondang"
+  },
+  {
+    "code": "35.05.220.004",
+    "villageCode": "004",
+    "districtCode": "35.05.220",
+    "name": "Tunjung",
+    "alias": "Tunjung"
+  },
+  {
+    "code": "35.05.220.005",
+    "villageCode": "005",
+    "districtCode": "35.05.220",
+    "name": "Jati",
+    "alias": "Jati"
+  },
+  {
+    "code": "35.05.220.006",
+    "villageCode": "006",
+    "districtCode": "35.05.220",
+    "name": "Temenggungan",
+    "alias": "Temenggungan"
+  },
+  {
+    "code": "35.05.220.007",
+    "villageCode": "007",
+    "districtCode": "35.05.220",
+    "name": "Besuki",
+    "alias": "Besuki"
+  },
+  {
+    "code": "35.05.220.008",
+    "villageCode": "008",
+    "districtCode": "35.05.220",
+    "name": "Bakung",
+    "alias": "Bakung"
+  },
+  {
+    "code": "35.05.220.009",
+    "villageCode": "009",
+    "districtCode": "35.05.220",
+    "name": "Mangunan",
+    "alias": "Mangunan"
+  },
+  {
+    "code": "35.05.220.010",
+    "villageCode": "010",
+    "districtCode": "35.05.220",
+    "name": "Sukorejo",
+    "alias": "Sukorejo"
+  },
+  {
+    "code": "35.05.220.011",
+    "villageCode": "011",
+    "districtCode": "35.05.220",
+    "name": "Slemanan",
+    "alias": "Slemanan"
+  },
+  {
+    "code": "35.05.220.012",
+    "villageCode": "012",
+    "districtCode": "35.05.220",
+    "name": "Bendorejo",
+    "alias": "Bendorejo"
+  }
+]

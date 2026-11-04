@@ -1,0 +1,44 @@
+[
+  {
+    "code": "32.02.250.001",
+    "villageCode": "001",
+    "districtCode": "32.02.250",
+    "name": "Sukatani",
+    "alias": "Sukatani"
+  },
+  {
+    "code": "32.02.250.002",
+    "villageCode": "002",
+    "districtCode": "32.02.250",
+    "name": "Sukakersa",
+    "alias": "Sukakersa"
+  },
+  {
+    "code": "32.02.250.003",
+    "villageCode": "003",
+    "districtCode": "32.02.250",
+    "name": "Bojonglongok",
+    "alias": "Bojonglongok"
+  },
+  {
+    "code": "32.02.250.004",
+    "villageCode": "004",
+    "districtCode": "32.02.250",
+    "name": "Bojongasih",
+    "alias": "Bojongasih"
+  },
+  {
+    "code": "32.02.250.005",
+    "villageCode": "005",
+    "districtCode": "32.02.250",
+    "name": "Lebaksari",
+    "alias": "Lebaksari"
+  },
+  {
+    "code": "32.02.250.006",
+    "villageCode": "006",
+    "districtCode": "32.02.250",
+    "name": "Parakansalak",
+    "alias": "Parakansalak"
+  }
+]

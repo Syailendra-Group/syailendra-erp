@@ -1,0 +1,58 @@
+[
+  {
+    "code": "92.03.080.001",
+    "villageCode": "001",
+    "districtCode": "92.03.080",
+    "name": "Bagaraga",
+    "alias": "Bagaraga"
+  },
+  {
+    "code": "92.03.080.002",
+    "villageCode": "002",
+    "districtCode": "92.03.080",
+    "name": "Sungguer",
+    "alias": "Sungguer"
+  },
+  {
+    "code": "92.03.080.003",
+    "villageCode": "003",
+    "districtCode": "92.03.080",
+    "name": "Waigo",
+    "alias": "Waigo"
+  },
+  {
+    "code": "92.03.080.004",
+    "villageCode": "004",
+    "districtCode": "92.03.080",
+    "name": "Wardik",
+    "alias": "Wardik"
+  },
+  {
+    "code": "92.03.080.005",
+    "villageCode": "005",
+    "districtCode": "92.03.080",
+    "name": "Boldon",
+    "alias": "Boldon"
+  },
+  {
+    "code": "92.03.080.006",
+    "villageCode": "006",
+    "districtCode": "92.03.080",
+    "name": "Sesor",
+    "alias": "Sesor"
+  },
+  {
+    "code": "92.03.080.007",
+    "villageCode": "007",
+    "districtCode": "92.03.080",
+    "name": "Wayer",
+    "alias": "Wayer"
+  },
+  {
+    "code": "92.03.080.008",
+    "villageCode": "008",
+    "districtCode": "92.03.080",
+    "name": "Unggi",
+    "alias": "Unggi"
+  }
+]

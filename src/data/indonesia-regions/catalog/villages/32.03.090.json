@@ -1,0 +1,72 @@
+[
+  {
+    "code": "32.03.090.001",
+    "villageCode": "001",
+    "districtCode": "32.03.090",
+    "name": "Jayagiri",
+    "alias": "Jayagiri"
+  },
+  {
+    "code": "32.03.090.002",
+    "villageCode": "002",
+    "districtCode": "32.03.090",
+    "name": "Ciguha",
+    "alias": "Ciguha"
+  },
+  {
+    "code": "32.03.090.003",
+    "villageCode": "003",
+    "districtCode": "32.03.090",
+    "name": "Sukakarya",
+    "alias": "Sukakarya"
+  },
+  {
+    "code": "32.03.090.004",
+    "villageCode": "004",
+    "districtCode": "32.03.090",
+    "name": "Sukarame",
+    "alias": "Sukarame"
+  },
+  {
+    "code": "32.03.090.005",
+    "villageCode": "005",
+    "districtCode": "32.03.090",
+    "name": "Sukalaksana",
+    "alias": "Sukalaksana"
+  },
+  {
+    "code": "32.03.090.006",
+    "villageCode": "006",
+    "districtCode": "32.03.090",
+    "name": "Sukanagara",
+    "alias": "Sukanagara"
+  },
+  {
+    "code": "32.03.090.007",
+    "villageCode": "007",
+    "districtCode": "32.03.090",
+    "name": "Gunungsari",
+    "alias": "Gunungsari"
+  },
+  {
+    "code": "32.03.090.008",
+    "villageCode": "008",
+    "districtCode": "32.03.090",
+    "name": "Sindangsari",
+    "alias": "Sindangsari"
+  },
+  {
+    "code": "32.03.090.009",
+    "villageCode": "009",
+    "districtCode": "32.03.090",
+    "name": "Sukajembar",
+    "alias": "Sukajembar"
+  },
+  {
+    "code": "32.03.090.010",
+    "villageCode": "010",
+    "districtCode": "32.03.090",
+    "name": "Sukamekar",
+    "alias": "Sukamekar"
+  }
+]

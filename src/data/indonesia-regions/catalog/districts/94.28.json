@@ -1,0 +1,74 @@
+[
+  {
+    "code": "94.28.030",
+    "districtCode": "030",
+    "regencyCode": "94.28",
+    "provinceCode": "94",
+    "name": "Kecamatan Waropen Atas",
+    "alias": "Waropen Atas"
+  },
+  {
+    "code": "94.28.031",
+    "districtCode": "031",
+    "regencyCode": "94.28",
+    "provinceCode": "94",
+    "name": "Kecamatan Benuki",
+    "alias": "Benuki"
+  },
+  {
+    "code": "94.28.032",
+    "districtCode": "032",
+    "regencyCode": "94.28",
+    "provinceCode": "94",
+    "name": "Kecamatan Sawai",
+    "alias": "Sawai"
+  },
+  {
+    "code": "94.28.040",
+    "districtCode": "040",
+    "regencyCode": "94.28",
+    "provinceCode": "94",
+    "name": "Kecamatan Mamberamo Ilir",
+    "alias": "Mamberamo Ilir"
+  },
+  {
+    "code": "94.28.050",
+    "districtCode": "050",
+    "regencyCode": "94.28",
+    "provinceCode": "94",
+    "name": "Kecamatan Mamberamo Tengah",
+    "alias": "Mamberamo Tengah"
+  },
+  {
+    "code": "94.28.051",
+    "districtCode": "051",
+    "regencyCode": "94.28",
+    "provinceCode": "94",
+    "name": "Kecamatan Iwaso",
+    "alias": "Iwaso"
+  },
+  {
+    "code": "94.28.060",
+    "districtCode": "060",
+    "regencyCode": "94.28",
+    "provinceCode": "94",
+    "name": "Kecamatan Mamberamo Tengah Timur",
+    "alias": "Mamberamo Tengah Timur"
+  },
+  {
+    "code": "94.28.070",
+    "districtCode": "070",
+    "regencyCode": "94.28",
+    "provinceCode": "94",
+    "name": "Kecamatan Rofaer",
+    "alias": "Rofaer"
+  },
+  {
+    "code": "94.28.080",
+    "districtCode": "080",
+    "regencyCode": "94.28",
+    "provinceCode": "94",
+    "name": "Kecamatan Mamberamo Ulu",
+    "alias": "Mamberamo Ulu"
+  }
+]

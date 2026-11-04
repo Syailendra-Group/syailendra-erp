@@ -1,0 +1,51 @@
+[
+  {
+    "code": "32.08.050.001",
+    "villageCode": "001",
+    "districtCode": "32.08.050",
+    "name": "Tangkolo",
+    "alias": "Tangkolo"
+  },
+  {
+    "code": "32.08.050.002",
+    "villageCode": "002",
+    "districtCode": "32.08.050",
+    "name": "Pamulihan",
+    "alias": "Pamulihan"
+  },
+  {
+    "code": "32.08.050.004",
+    "villageCode": "004",
+    "districtCode": "32.08.050",
+    "name": "Jatisari",
+    "alias": "Jatisari"
+  },
+  {
+    "code": "32.08.050.009",
+    "villageCode": "009",
+    "districtCode": "32.08.050",
+    "name": "Subang",
+    "alias": "Subang"
+  },
+  {
+    "code": "32.08.050.010",
+    "villageCode": "010",
+    "districtCode": "32.08.050",
+    "name": "Bangunjaya",
+    "alias": "Bangunjaya"
+  },
+  {
+    "code": "32.08.050.011",
+    "villageCode": "011",
+    "districtCode": "32.08.050",
+    "name": "Gunungaci",
+    "alias": "Gunungaci"
+  },
+  {
+    "code": "32.08.050.012",
+    "villageCode": "012",
+    "districtCode": "32.08.050",
+    "name": "Situgede",
+    "alias": "Situgede"
+  }
+]

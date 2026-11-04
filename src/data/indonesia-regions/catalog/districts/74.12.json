@@ -1,0 +1,58 @@
+[
+  {
+    "code": "74.12.010",
+    "districtCode": "010",
+    "regencyCode": "74.12",
+    "provinceCode": "74",
+    "name": "Kecamatan Wawonii Tenggara",
+    "alias": "Wawonii Tenggara"
+  },
+  {
+    "code": "74.12.020",
+    "districtCode": "020",
+    "regencyCode": "74.12",
+    "provinceCode": "74",
+    "name": "Kecamatan Wawonii Timur",
+    "alias": "Wawonii Timur"
+  },
+  {
+    "code": "74.12.030",
+    "districtCode": "030",
+    "regencyCode": "74.12",
+    "provinceCode": "74",
+    "name": "Kecamatan Wawonii Timur Laut",
+    "alias": "Wawonii Timur Laut"
+  },
+  {
+    "code": "74.12.040",
+    "districtCode": "040",
+    "regencyCode": "74.12",
+    "provinceCode": "74",
+    "name": "Kecamatan Wawonii Utara",
+    "alias": "Wawonii Utara"
+  },
+  {
+    "code": "74.12.050",
+    "districtCode": "050",
+    "regencyCode": "74.12",
+    "provinceCode": "74",
+    "name": "Kecamatan Wawonii Selatan",
+    "alias": "Wawonii Selatan"
+  },
+  {
+    "code": "74.12.060",
+    "districtCode": "060",
+    "regencyCode": "74.12",
+    "provinceCode": "74",
+    "name": "Kecamatan Wawonii Tengah",
+    "alias": "Wawonii Tengah"
+  },
+  {
+    "code": "74.12.070",
+    "districtCode": "070",
+    "regencyCode": "74.12",
+    "provinceCode": "74",
+    "name": "Kecamatan Wawonii Barat",
+    "alias": "Wawonii Barat"
+  }
+]

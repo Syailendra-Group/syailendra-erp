@@ -1,0 +1,30 @@
+[
+  {
+    "code": "72.06.061.001",
+    "villageCode": "001",
+    "districtCode": "72.06.061",
+    "name": "Galumpang",
+    "alias": "Galumpang"
+  },
+  {
+    "code": "72.06.061.002",
+    "villageCode": "002",
+    "districtCode": "72.06.061",
+    "name": "Dungingis",
+    "alias": "Dungingis"
+  },
+  {
+    "code": "72.06.061.003",
+    "villageCode": "003",
+    "districtCode": "72.06.061",
+    "name": "Kapas",
+    "alias": "Kapas"
+  },
+  {
+    "code": "72.06.061.004",
+    "villageCode": "004",
+    "districtCode": "72.06.061",
+    "name": "Lingadan",
+    "alias": "Lingadan"
+  }
+]

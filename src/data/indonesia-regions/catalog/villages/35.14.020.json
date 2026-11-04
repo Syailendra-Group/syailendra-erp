@@ -1,0 +1,86 @@
+[
+  {
+    "code": "35.14.020.001",
+    "villageCode": "001",
+    "districtCode": "35.14.020",
+    "name": "Blarang",
+    "alias": "Blarang"
+  },
+  {
+    "code": "35.14.020.002",
+    "villageCode": "002",
+    "districtCode": "35.14.020",
+    "name": "Kayu Kebek",
+    "alias": "Kayu Kebek"
+  },
+  {
+    "code": "35.14.020.003",
+    "villageCode": "003",
+    "districtCode": "35.14.020",
+    "name": "Ngadirejo",
+    "alias": "Ngadirejo"
+  },
+  {
+    "code": "35.14.020.004",
+    "villageCode": "004",
+    "districtCode": "35.14.020",
+    "name": "Andono Sari",
+    "alias": "Andono Sari"
+  },
+  {
+    "code": "35.14.020.005",
+    "villageCode": "005",
+    "districtCode": "35.14.020",
+    "name": "Wonosari",
+    "alias": "Wonosari"
+  },
+  {
+    "code": "35.14.020.006",
+    "villageCode": "006",
+    "districtCode": "35.14.020",
+    "name": "Gendro",
+    "alias": "Gendro"
+  },
+  {
+    "code": "35.14.020.007",
+    "villageCode": "007",
+    "districtCode": "35.14.020",
+    "name": "Tlogosari",
+    "alias": "Tlogosari"
+  },
+  {
+    "code": "35.14.020.008",
+    "villageCode": "008",
+    "districtCode": "35.14.020",
+    "name": "Tutur",
+    "alias": "Tutur"
+  },
+  {
+    "code": "35.14.020.009",
+    "villageCode": "009",
+    "districtCode": "35.14.020",
+    "name": "Pungging",
+    "alias": "Pungging"
+  },
+  {
+    "code": "35.14.020.010",
+    "villageCode": "010",
+    "districtCode": "35.14.020",
+    "name": "Kali Pucang",
+    "alias": "Kali Pucang"
+  },
+  {
+    "code": "35.14.020.011",
+    "villageCode": "011",
+    "districtCode": "35.14.020",
+    "name": "Sumber Pitu",
+    "alias": "Sumber Pitu"
+  },
+  {
+    "code": "35.14.020.012",
+    "villageCode": "012",
+    "districtCode": "35.14.020",
+    "name": "Ngembal",
+    "alias": "Ngembal"
+  }
+]

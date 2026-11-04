@@ -1,0 +1,93 @@
+[
+  {
+    "code": "21.04.010.001",
+    "villageCode": "001",
+    "districtCode": "21.04.010",
+    "name": "Marok Tua",
+    "alias": "Marok Tua"
+  },
+  {
+    "code": "21.04.010.002",
+    "villageCode": "002",
+    "districtCode": "21.04.010",
+    "name": "Sungai Buluh",
+    "alias": "Sungai Buluh"
+  },
+  {
+    "code": "21.04.010.003",
+    "villageCode": "003",
+    "districtCode": "21.04.010",
+    "name": "Kuala Raya",
+    "alias": "Kuala Raya"
+  },
+  {
+    "code": "21.04.010.004",
+    "villageCode": "004",
+    "districtCode": "21.04.010",
+    "name": "Bakong",
+    "alias": "Bakong"
+  },
+  {
+    "code": "21.04.010.006",
+    "villageCode": "006",
+    "districtCode": "21.04.010",
+    "name": "Sungai Harapan",
+    "alias": "Sungai Harapan"
+  },
+  {
+    "code": "21.04.010.007",
+    "villageCode": "007",
+    "districtCode": "21.04.010",
+    "name": "Jagoh",
+    "alias": "Jagoh"
+  },
+  {
+    "code": "21.04.010.008",
+    "villageCode": "008",
+    "districtCode": "21.04.010",
+    "name": "Sungai Raya",
+    "alias": "Sungai Raya"
+  },
+  {
+    "code": "21.04.010.009",
+    "villageCode": "009",
+    "districtCode": "21.04.010",
+    "name": "Raya",
+    "alias": "Raya"
+  },
+  {
+    "code": "21.04.010.010",
+    "villageCode": "010",
+    "districtCode": "21.04.010",
+    "name": "Bukit Belah",
+    "alias": "Bukit Belah"
+  },
+  {
+    "code": "21.04.010.011",
+    "villageCode": "011",
+    "districtCode": "21.04.010",
+    "name": "Tanjung Irat",
+    "alias": "Tanjung Irat"
+  },
+  {
+    "code": "21.04.010.012",
+    "villageCode": "012",
+    "districtCode": "21.04.010",
+    "name": "Langkap",
+    "alias": "Langkap"
+  },
+  {
+    "code": "21.04.010.013",
+    "villageCode": "013",
+    "districtCode": "21.04.010",
+    "name": "Tinjul",
+    "alias": "Tinjul"
+  },
+  {
+    "code": "21.04.010.014",
+    "villageCode": "014",
+    "districtCode": "21.04.010",
+    "name": "Desa Persiapan Air Batu",
+    "alias": "Desa Persiapan Air Batu"
+  }
+]

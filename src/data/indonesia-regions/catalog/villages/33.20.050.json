@@ -1,0 +1,107 @@
+[
+  {
+    "code": "33.20.050.001",
+    "villageCode": "001",
+    "districtCode": "33.20.050",
+    "name": "Dorang",
+    "alias": "Dorang"
+  },
+  {
+    "code": "33.20.050.002",
+    "villageCode": "002",
+    "districtCode": "33.20.050",
+    "name": "Blimbingrejo",
+    "alias": "Blimbingrejo"
+  },
+  {
+    "code": "33.20.050.003",
+    "villageCode": "003",
+    "districtCode": "33.20.050",
+    "name": "Tunggulpandean",
+    "alias": "Tunggulpandean"
+  },
+  {
+    "code": "33.20.050.004",
+    "villageCode": "004",
+    "districtCode": "33.20.050",
+    "name": "Pringtulis",
+    "alias": "Pringtulis"
+  },
+  {
+    "code": "33.20.050.005",
+    "villageCode": "005",
+    "districtCode": "33.20.050",
+    "name": "Jatisari",
+    "alias": "Jatisari"
+  },
+  {
+    "code": "33.20.050.006",
+    "villageCode": "006",
+    "districtCode": "33.20.050",
+    "name": "Gemiring Kidul",
+    "alias": "Gemiring Kidul"
+  },
+  {
+    "code": "33.20.050.007",
+    "villageCode": "007",
+    "districtCode": "33.20.050",
+    "name": "Gemiring Lor",
+    "alias": "Gemiring Lor"
+  },
+  {
+    "code": "33.20.050.008",
+    "villageCode": "008",
+    "districtCode": "33.20.050",
+    "name": "Nalumsari",
+    "alias": "Nalumsari"
+  },
+  {
+    "code": "33.20.050.009",
+    "villageCode": "009",
+    "districtCode": "33.20.050",
+    "name": "Tritis",
+    "alias": "Tritis"
+  },
+  {
+    "code": "33.20.050.010",
+    "villageCode": "010",
+    "districtCode": "33.20.050",
+    "name": "Daren",
+    "alias": "Daren"
+  },
+  {
+    "code": "33.20.050.011",
+    "villageCode": "011",
+    "districtCode": "33.20.050",
+    "name": "Karangnongko",
+    "alias": "Karangnongko"
+  },
+  {
+    "code": "33.20.050.012",
+    "villageCode": "012",
+    "districtCode": "33.20.050",
+    "name": "Ngetuk",
+    "alias": "Ngetuk"
+  },
+  {
+    "code": "33.20.050.013",
+    "villageCode": "013",
+    "districtCode": "33.20.050",
+    "name": "Bendanpete",
+    "alias": "Bendanpete"
+  },
+  {
+    "code": "33.20.050.014",
+    "villageCode": "014",
+    "districtCode": "33.20.050",
+    "name": "Muryolobo",
+    "alias": "Muryolobo"
+  },
+  {
+    "code": "33.20.050.015",
+    "villageCode": "015",
+    "districtCode": "33.20.050",
+    "name": "Bategede",
+    "alias": "Bategede"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "code": "72.09.051.005",
+    "villageCode": "005",
+    "districtCode": "72.09.051",
+    "name": "Uentanaga Atas",
+    "alias": "Uentanaga Atas"
+  },
+  {
+    "code": "72.09.051.006",
+    "villageCode": "006",
+    "districtCode": "72.09.051",
+    "name": "Sumoli",
+    "alias": "Sumoli"
+  },
+  {
+    "code": "72.09.051.007",
+    "villageCode": "007",
+    "districtCode": "72.09.051",
+    "name": "Uentanaga Bawah",
+    "alias": "Uentanaga Bawah"
+  },
+  {
+    "code": "72.09.051.008",
+    "villageCode": "008",
+    "districtCode": "72.09.051",
+    "name": "Dondo",
+    "alias": "Dondo"
+  },
+  {
+    "code": "72.09.051.009",
+    "villageCode": "009",
+    "districtCode": "72.09.051",
+    "name": "Labuan",
+    "alias": "Labuan"
+  },
+  {
+    "code": "72.09.051.011",
+    "villageCode": "011",
+    "districtCode": "72.09.051",
+    "name": "Sabulira Toba",
+    "alias": "Sabulira Toba"
+  },
+  {
+    "code": "72.09.051.016",
+    "villageCode": "016",
+    "districtCode": "72.09.051",
+    "name": "Uemalingku",
+    "alias": "Uemalingku"
+  },
+  {
+    "code": "72.09.051.018",
+    "villageCode": "018",
+    "districtCode": "72.09.051",
+    "name": "Patingko",
+    "alias": "Patingko"
+  },
+  {
+    "code": "72.09.051.019",
+    "villageCode": "019",
+    "districtCode": "72.09.051",
+    "name": "Muara Toba",
+    "alias": "Muara Toba"
+  },
+  {
+    "code": "72.09.051.020",
+    "villageCode": "020",
+    "districtCode": "72.09.051",
+    "name": "Dondo Barat",
+    "alias": "Dondo Barat"
+  }
+]

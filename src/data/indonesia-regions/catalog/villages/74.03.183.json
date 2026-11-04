@@ -1,0 +1,65 @@
+[
+  {
+    "code": "74.03.183.001",
+    "villageCode": "001",
+    "districtCode": "74.03.183",
+    "name": "Lasada",
+    "alias": "Lasada"
+  },
+  {
+    "code": "74.03.183.002",
+    "villageCode": "002",
+    "districtCode": "74.03.183",
+    "name": "Awua Jaya",
+    "alias": "Awua Jaya"
+  },
+  {
+    "code": "74.03.183.003",
+    "villageCode": "003",
+    "districtCode": "74.03.183",
+    "name": "Nekudu",
+    "alias": "Nekudu"
+  },
+  {
+    "code": "74.03.183.004",
+    "villageCode": "004",
+    "districtCode": "74.03.183",
+    "name": "Asinua Jaya",
+    "alias": "Asinua Jaya"
+  },
+  {
+    "code": "74.03.183.005",
+    "villageCode": "005",
+    "districtCode": "74.03.183",
+    "name": "Ambondia",
+    "alias": "Ambondia"
+  },
+  {
+    "code": "74.03.183.006",
+    "villageCode": "006",
+    "districtCode": "74.03.183",
+    "name": "Angohi",
+    "alias": "Angohi"
+  },
+  {
+    "code": "74.03.183.007",
+    "villageCode": "007",
+    "districtCode": "74.03.183",
+    "name": "Awua Sari",
+    "alias": "Awua Sari"
+  },
+  {
+    "code": "74.03.183.008",
+    "villageCode": "008",
+    "districtCode": "74.03.183",
+    "name": "Asipako",
+    "alias": "Asipako"
+  },
+  {
+    "code": "74.03.183.009",
+    "villageCode": "009",
+    "districtCode": "74.03.183",
+    "name": "Lasao Jaya",
+    "alias": "Lasao Jaya"
+  }
+]

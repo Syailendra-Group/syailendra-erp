@@ -1,0 +1,44 @@
+[
+  {
+    "code": "32.04.280.001",
+    "villageCode": "001",
+    "districtCode": "32.04.280",
+    "name": "Bojongsari",
+    "alias": "Bojongsari"
+  },
+  {
+    "code": "32.04.280.002",
+    "villageCode": "002",
+    "districtCode": "32.04.280",
+    "name": "Bojongsoang",
+    "alias": "Bojongsoang"
+  },
+  {
+    "code": "32.04.280.003",
+    "villageCode": "003",
+    "districtCode": "32.04.280",
+    "name": "Lengkong",
+    "alias": "Lengkong"
+  },
+  {
+    "code": "32.04.280.004",
+    "villageCode": "004",
+    "districtCode": "32.04.280",
+    "name": "Cipagalo",
+    "alias": "Cipagalo"
+  },
+  {
+    "code": "32.04.280.005",
+    "villageCode": "005",
+    "districtCode": "32.04.280",
+    "name": "Buahbatu",
+    "alias": "Buahbatu"
+  },
+  {
+    "code": "32.04.280.006",
+    "villageCode": "006",
+    "districtCode": "32.04.280",
+    "name": "Tegalluar",
+    "alias": "Tegalluar"
+  }
+]

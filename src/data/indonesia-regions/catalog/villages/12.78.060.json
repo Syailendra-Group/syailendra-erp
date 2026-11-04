@@ -1,0 +1,72 @@
+[
+  {
+    "code": "12.78.060.001",
+    "villageCode": "001",
+    "districtCode": "12.78.060",
+    "name": "Hiligodu Ulu",
+    "alias": "Hiligodu Ulu"
+  },
+  {
+    "code": "12.78.060.002",
+    "villageCode": "002",
+    "districtCode": "12.78.060",
+    "name": "Hilimbowo Olora",
+    "alias": "Hilimbowo Olora"
+  },
+  {
+    "code": "12.78.060.003",
+    "villageCode": "003",
+    "districtCode": "12.78.060",
+    "name": "Olora",
+    "alias": "Olora"
+  },
+  {
+    "code": "12.78.060.004",
+    "villageCode": "004",
+    "districtCode": "12.78.060",
+    "name": "Gawu Gawu Bouso",
+    "alias": "Gawu Gawu Bouso"
+  },
+  {
+    "code": "12.78.060.005",
+    "villageCode": "005",
+    "districtCode": "12.78.060",
+    "name": "Loloanaa / Lolomoyo",
+    "alias": "Loloanaa / Lolomoyo"
+  },
+  {
+    "code": "12.78.060.006",
+    "villageCode": "006",
+    "districtCode": "12.78.060",
+    "name": "Lasara Sowu",
+    "alias": "Lasara Sowu"
+  },
+  {
+    "code": "12.78.060.007",
+    "villageCode": "007",
+    "districtCode": "12.78.060",
+    "name": "Hambawa",
+    "alias": "Hambawa"
+  },
+  {
+    "code": "12.78.060.008",
+    "villageCode": "008",
+    "districtCode": "12.78.060",
+    "name": "Tetehosi Afia",
+    "alias": "Tetehosi Afia"
+  },
+  {
+    "code": "12.78.060.009",
+    "villageCode": "009",
+    "districtCode": "12.78.060",
+    "name": "Afia",
+    "alias": "Afia"
+  },
+  {
+    "code": "12.78.060.010",
+    "villageCode": "010",
+    "districtCode": "12.78.060",
+    "name": "Teluk Belukar",
+    "alias": "Teluk Belukar"
+  }
+]

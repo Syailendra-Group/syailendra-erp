@@ -1,0 +1,37 @@
+[
+  {
+    "code": "95.02.110.001",
+    "villageCode": "001",
+    "districtCode": "95.02.110",
+    "name": "Autriop",
+    "alias": "Autriop"
+  },
+  {
+    "code": "95.02.110.002",
+    "villageCode": "002",
+    "districtCode": "95.02.110",
+    "name": "Ogenatan",
+    "alias": "Ogenatan"
+  },
+  {
+    "code": "95.02.110.003",
+    "villageCode": "003",
+    "districtCode": "95.02.110",
+    "name": "Langgoan",
+    "alias": "Langgoan"
+  },
+  {
+    "code": "95.02.110.004",
+    "villageCode": "004",
+    "districtCode": "95.02.110",
+    "name": "Warik Toop",
+    "alias": "Warik Toop"
+  },
+  {
+    "code": "95.02.110.005",
+    "villageCode": "005",
+    "districtCode": "95.02.110",
+    "name": "Tetop",
+    "alias": "Tetop"
+  }
+]

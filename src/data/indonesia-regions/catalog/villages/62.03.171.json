@@ -1,0 +1,72 @@
+[
+  {
+    "code": "62.03.171.001",
+    "villageCode": "001",
+    "districtCode": "62.03.171",
+    "name": "Dandang",
+    "alias": "Dandang"
+  },
+  {
+    "code": "62.03.171.002",
+    "villageCode": "002",
+    "districtCode": "62.03.171",
+    "name": "Balai Banjang",
+    "alias": "Balai Banjang"
+  },
+  {
+    "code": "62.03.171.003",
+    "villageCode": "003",
+    "districtCode": "62.03.171",
+    "name": "Jangkang",
+    "alias": "Jangkang"
+  },
+  {
+    "code": "62.03.171.004",
+    "villageCode": "004",
+    "districtCode": "62.03.171",
+    "name": "Kaburan",
+    "alias": "Kaburan"
+  },
+  {
+    "code": "62.03.171.005",
+    "villageCode": "005",
+    "districtCode": "62.03.171",
+    "name": "Sei Ringin",
+    "alias": "Sei Ringin"
+  },
+  {
+    "code": "62.03.171.006",
+    "villageCode": "006",
+    "districtCode": "62.03.171",
+    "name": "Hurung Kampin",
+    "alias": "Hurung Kampin"
+  },
+  {
+    "code": "62.03.171.007",
+    "villageCode": "007",
+    "districtCode": "62.03.171",
+    "name": "Tumbang Tukun",
+    "alias": "Tumbang Tukun"
+  },
+  {
+    "code": "62.03.171.008",
+    "villageCode": "008",
+    "districtCode": "62.03.171",
+    "name": "Tumbang Diring",
+    "alias": "Tumbang Diring"
+  },
+  {
+    "code": "62.03.171.009",
+    "villageCode": "009",
+    "districtCode": "62.03.171",
+    "name": "Batu Sambung",
+    "alias": "Batu Sambung"
+  },
+  {
+    "code": "62.03.171.010",
+    "villageCode": "010",
+    "districtCode": "62.03.171",
+    "name": "Tumbang Nusa",
+    "alias": "Tumbang Nusa"
+  }
+]

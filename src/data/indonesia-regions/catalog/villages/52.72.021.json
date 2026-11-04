@@ -1,0 +1,79 @@
+[
+  {
+    "code": "52.72.021.001",
+    "villageCode": "001",
+    "districtCode": "52.72.021",
+    "name": "Nitu",
+    "alias": "Nitu"
+  },
+  {
+    "code": "52.72.021.002",
+    "villageCode": "002",
+    "districtCode": "52.72.021",
+    "name": "Rontu",
+    "alias": "Rontu"
+  },
+  {
+    "code": "52.72.021.003",
+    "villageCode": "003",
+    "districtCode": "52.72.021",
+    "name": "Rabangodu Selatan",
+    "alias": "Rabangodu Selatan"
+  },
+  {
+    "code": "52.72.021.004",
+    "villageCode": "004",
+    "districtCode": "52.72.021",
+    "name": "Rabangodu Utara",
+    "alias": "Rabangodu Utara"
+  },
+  {
+    "code": "52.72.021.005",
+    "villageCode": "005",
+    "districtCode": "52.72.021",
+    "name": "Penaraga",
+    "alias": "Penaraga"
+  },
+  {
+    "code": "52.72.021.006",
+    "villageCode": "006",
+    "districtCode": "52.72.021",
+    "name": "Rabadompu Barat",
+    "alias": "Rabadompu Barat"
+  },
+  {
+    "code": "52.72.021.007",
+    "villageCode": "007",
+    "districtCode": "52.72.021",
+    "name": "Rabadompu Timur",
+    "alias": "Rabadompu Timur"
+  },
+  {
+    "code": "52.72.021.008",
+    "villageCode": "008",
+    "districtCode": "52.72.021",
+    "name": "Kendo",
+    "alias": "Kendo"
+  },
+  {
+    "code": "52.72.021.009",
+    "villageCode": "009",
+    "districtCode": "52.72.021",
+    "name": "Penanae",
+    "alias": "Penanae"
+  },
+  {
+    "code": "52.72.021.010",
+    "villageCode": "010",
+    "districtCode": "52.72.021",
+    "name": "Rite",
+    "alias": "Rite"
+  },
+  {
+    "code": "52.72.021.011",
+    "villageCode": "011",
+    "districtCode": "52.72.021",
+    "name": "Ntobo",
+    "alias": "Ntobo"
+  }
+]

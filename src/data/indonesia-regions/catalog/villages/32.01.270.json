@@ -1,0 +1,107 @@
+[
+  {
+    "code": "32.01.270.006",
+    "villageCode": "006",
+    "districtCode": "32.01.270",
+    "name": "Sukaraksa",
+    "alias": "Sukaraksa"
+  },
+  {
+    "code": "32.01.270.009",
+    "villageCode": "009",
+    "districtCode": "32.01.270",
+    "name": "Sukamaju",
+    "alias": "Sukamaju"
+  },
+  {
+    "code": "32.01.270.010",
+    "villageCode": "010",
+    "districtCode": "32.01.270",
+    "name": "Cigudeg",
+    "alias": "Cigudeg"
+  },
+  {
+    "code": "32.01.270.011",
+    "villageCode": "011",
+    "districtCode": "32.01.270",
+    "name": "Banyuresmi",
+    "alias": "Banyuresmi"
+  },
+  {
+    "code": "32.01.270.012",
+    "villageCode": "012",
+    "districtCode": "32.01.270",
+    "name": "Wargajaya",
+    "alias": "Wargajaya"
+  },
+  {
+    "code": "32.01.270.013",
+    "villageCode": "013",
+    "districtCode": "32.01.270",
+    "name": "Bunar",
+    "alias": "Bunar"
+  },
+  {
+    "code": "32.01.270.014",
+    "villageCode": "014",
+    "districtCode": "32.01.270",
+    "name": "Mekarjaya",
+    "alias": "Mekarjaya"
+  },
+  {
+    "code": "32.01.270.015",
+    "villageCode": "015",
+    "districtCode": "32.01.270",
+    "name": "Cintamanik",
+    "alias": "Cintamanik"
+  },
+  {
+    "code": "32.01.270.016",
+    "villageCode": "016",
+    "districtCode": "32.01.270",
+    "name": "Banyuwangi",
+    "alias": "Banyuwangi"
+  },
+  {
+    "code": "32.01.270.017",
+    "villageCode": "017",
+    "districtCode": "32.01.270",
+    "name": "Banyuasih",
+    "alias": "Banyuasih"
+  },
+  {
+    "code": "32.01.270.018",
+    "villageCode": "018",
+    "districtCode": "32.01.270",
+    "name": "Tegallega",
+    "alias": "Tegallega"
+  },
+  {
+    "code": "32.01.270.019",
+    "villageCode": "019",
+    "districtCode": "32.01.270",
+    "name": "Batujajar",
+    "alias": "Batujajar"
+  },
+  {
+    "code": "32.01.270.020",
+    "villageCode": "020",
+    "districtCode": "32.01.270",
+    "name": "Rengasjajar",
+    "alias": "Rengasjajar"
+  },
+  {
+    "code": "32.01.270.021",
+    "villageCode": "021",
+    "districtCode": "32.01.270",
+    "name": "Bangunjaya",
+    "alias": "Bangunjaya"
+  },
+  {
+    "code": "32.01.270.022",
+    "villageCode": "022",
+    "districtCode": "32.01.270",
+    "name": "Argapura",
+    "alias": "Argapura"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "code": "13.71.010",
+    "districtCode": "010",
+    "regencyCode": "13.71",
+    "provinceCode": "13",
+    "name": "Kecamatan Bungus Teluk Kabung",
+    "alias": "Bungus Teluk Kabung"
+  },
+  {
+    "code": "13.71.020",
+    "districtCode": "020",
+    "regencyCode": "13.71",
+    "provinceCode": "13",
+    "name": "Kecamatan Lubuk Kilangan",
+    "alias": "Lubuk Kilangan"
+  },
+  {
+    "code": "13.71.030",
+    "districtCode": "030",
+    "regencyCode": "13.71",
+    "provinceCode": "13",
+    "name": "Kecamatan Lubuk Begalung",
+    "alias": "Lubuk Begalung"
+  },
+  {
+    "code": "13.71.040",
+    "districtCode": "040",
+    "regencyCode": "13.71",
+    "provinceCode": "13",
+    "name": "Kecamatan Padang Selatan",
+    "alias": "Padang Selatan"
+  },
+  {
+    "code": "13.71.050",
+    "districtCode": "050",
+    "regencyCode": "13.71",
+    "provinceCode": "13",
+    "name": "Kecamatan Padang Timur",
+    "alias": "Padang Timur"
+  },
+  {
+    "code": "13.71.060",
+    "districtCode": "060",
+    "regencyCode": "13.71",
+    "provinceCode": "13",
+    "name": "Kecamatan Padang Barat",
+    "alias": "Padang Barat"
+  },
+  {
+    "code": "13.71.070",
+    "districtCode": "070",
+    "regencyCode": "13.71",
+    "provinceCode": "13",
+    "name": "Kecamatan Padang Utara",
+    "alias": "Padang Utara"
+  },
+  {
+    "code": "13.71.080",
+    "districtCode": "080",
+    "regencyCode": "13.71",
+    "provinceCode": "13",
+    "name": "Kecamatan Nanggalo",
+    "alias": "Nanggalo"
+  },
+  {
+    "code": "13.71.090",
+    "districtCode": "090",
+    "regencyCode": "13.71",
+    "provinceCode": "13",
+    "name": "Kecamatan Kuranji",
+    "alias": "Kuranji"
+  },
+  {
+    "code": "13.71.100",
+    "districtCode": "100",
+    "regencyCode": "13.71",
+    "provinceCode": "13",
+    "name": "Kecamatan Pauh",
+    "alias": "Pauh"
+  },
+  {
+    "code": "13.71.110",
+    "districtCode": "110",
+    "regencyCode": "13.71",
+    "provinceCode": "13",
+    "name": "Kecamatan Koto Tangah",
+    "alias": "Koto Tangah"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "code": "12.17.070.001",
+    "villageCode": "001",
+    "districtCode": "12.17.070",
+    "name": "Paraduan",
+    "alias": "Paraduan"
+  },
+  {
+    "code": "12.17.070.002",
+    "villageCode": "002",
+    "districtCode": "12.17.070",
+    "name": "Lintongnihuta",
+    "alias": "Lintongnihuta"
+  },
+  {
+    "code": "12.17.070.003",
+    "villageCode": "003",
+    "districtCode": "12.17.070",
+    "name": "Ronggur Nihuta",
+    "alias": "Ronggur Nihuta"
+  },
+  {
+    "code": "12.17.070.004",
+    "villageCode": "004",
+    "districtCode": "12.17.070",
+    "name": "Sijambur",
+    "alias": "Sijambur"
+  },
+  {
+    "code": "12.17.070.005",
+    "villageCode": "005",
+    "districtCode": "12.17.070",
+    "name": "Sabungan Nihuta",
+    "alias": "Sabungan Nihuta"
+  },
+  {
+    "code": "12.17.070.006",
+    "villageCode": "006",
+    "districtCode": "12.17.070",
+    "name": "Salaon Toba",
+    "alias": "Salaon Toba"
+  },
+  {
+    "code": "12.17.070.007",
+    "villageCode": "007",
+    "districtCode": "12.17.070",
+    "name": "Salaon Tonga Tonga",
+    "alias": "Salaon Tonga Tonga"
+  },
+  {
+    "code": "12.17.070.008",
+    "villageCode": "008",
+    "districtCode": "12.17.070",
+    "name": "Salaon Dolok",
+    "alias": "Salaon Dolok"
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "code": "61.10.030.001",
+    "villageCode": "001",
+    "districtCode": "61.10.030",
+    "name": "Madya Raya",
+    "alias": "Madya Raya"
+  },
+  {
+    "code": "61.10.030.002",
+    "villageCode": "002",
+    "districtCode": "61.10.030",
+    "name": "Landau Sadak",
+    "alias": "Landau Sadak"
+  },
+  {
+    "code": "61.10.030.003",
+    "villageCode": "003",
+    "districtCode": "61.10.030",
+    "name": "Pekawai",
+    "alias": "Pekawai"
+  },
+  {
+    "code": "61.10.030.004",
+    "villageCode": "004",
+    "districtCode": "61.10.030",
+    "name": "Mekar Pelita",
+    "alias": "Mekar Pelita"
+  },
+  {
+    "code": "61.10.030.005",
+    "villageCode": "005",
+    "districtCode": "61.10.030",
+    "name": "Nanga Sayan",
+    "alias": "Nanga Sayan"
+  },
+  {
+    "code": "61.10.030.006",
+    "villageCode": "006",
+    "districtCode": "61.10.030",
+    "name": "Kerangan Purun",
+    "alias": "Kerangan Purun"
+  },
+  {
+    "code": "61.10.030.007",
+    "villageCode": "007",
+    "districtCode": "61.10.030",
+    "name": "Bora",
+    "alias": "Bora"
+  },
+  {
+    "code": "61.10.030.008",
+    "villageCode": "008",
+    "districtCode": "61.10.030",
+    "name": "Nanga Kompi",
+    "alias": "Nanga Kompi"
+  },
+  {
+    "code": "61.10.030.009",
+    "villageCode": "009",
+    "districtCode": "61.10.030",
+    "name": "Nanga Mancur",
+    "alias": "Nanga Mancur"
+  },
+  {
+    "code": "61.10.030.010",
+    "villageCode": "010",
+    "districtCode": "61.10.030",
+    "name": "Tumbak Raya",
+    "alias": "Tumbak Raya"
+  },
+  {
+    "code": "61.10.030.011",
+    "villageCode": "011",
+    "districtCode": "61.10.030",
+    "name": "Nanga Raku",
+    "alias": "Nanga Raku"
+  },
+  {
+    "code": "61.10.030.012",
+    "villageCode": "012",
+    "districtCode": "61.10.030",
+    "name": "Meta Bersatu",
+    "alias": "Meta Bersatu"
+  },
+  {
+    "code": "61.10.030.013",
+    "villageCode": "013",
+    "districtCode": "61.10.030",
+    "name": "Nanga Kasai",
+    "alias": "Nanga Kasai"
+  },
+  {
+    "code": "61.10.030.014",
+    "villageCode": "014",
+    "districtCode": "61.10.030",
+    "name": "Siling Permai",
+    "alias": "Siling Permai"
+  },
+  {
+    "code": "61.10.030.015",
+    "villageCode": "015",
+    "districtCode": "61.10.030",
+    "name": "Lingkar Indah",
+    "alias": "Lingkar Indah"
+  },
+  {
+    "code": "61.10.030.016",
+    "villageCode": "016",
+    "districtCode": "61.10.030",
+    "name": "Sayan Jaya",
+    "alias": "Sayan Jaya"
+  },
+  {
+    "code": "61.10.030.017",
+    "villageCode": "017",
+    "districtCode": "61.10.030",
+    "name": "Nanga Pak",
+    "alias": "Nanga Pak"
+  },
+  {
+    "code": "61.10.030.018",
+    "villageCode": "018",
+    "districtCode": "61.10.030",
+    "name": "Berobai Permai",
+    "alias": "Berobai Permai"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "code": "96.06.010",
+    "districtCode": "010",
+    "regencyCode": "96.06",
+    "provinceCode": "96",
+    "name": "Kecamatan Wandai",
+    "alias": "Wandai"
+  },
+  {
+    "code": "96.06.020",
+    "districtCode": "020",
+    "regencyCode": "96.06",
+    "provinceCode": "96",
+    "name": "Kecamatan Biandoga",
+    "alias": "Biandoga"
+  },
+  {
+    "code": "96.06.030",
+    "districtCode": "030",
+    "regencyCode": "96.06",
+    "provinceCode": "96",
+    "name": "Kecamatan Hitadipa",
+    "alias": "Hitadipa"
+  },
+  {
+    "code": "96.06.040",
+    "districtCode": "040",
+    "regencyCode": "96.06",
+    "provinceCode": "96",
+    "name": "Kecamatan Tomosiga",
+    "alias": "Tomosiga"
+  },
+  {
+    "code": "96.06.050",
+    "districtCode": "050",
+    "regencyCode": "96.06",
+    "provinceCode": "96",
+    "name": "Kecamatan Agisiga",
+    "alias": "Agisiga"
+  },
+  {
+    "code": "96.06.060",
+    "districtCode": "060",
+    "regencyCode": "96.06",
+    "provinceCode": "96",
+    "name": "Kecamatan Ugimba",
+    "alias": "Ugimba"
+  },
+  {
+    "code": "96.06.070",
+    "districtCode": "070",
+    "regencyCode": "96.06",
+    "provinceCode": "96",
+    "name": "Kecamatan Sugapa",
+    "alias": "Sugapa"
+  },
+  {
+    "code": "96.06.080",
+    "districtCode": "080",
+    "regencyCode": "96.06",
+    "provinceCode": "96",
+    "name": "Kecamatan Homeyo",
+    "alias": "Homeyo"
+  }
+]

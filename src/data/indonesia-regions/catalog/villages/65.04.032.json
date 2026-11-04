@@ -1,0 +1,72 @@
+[
+  {
+    "code": "65.04.032.001",
+    "villageCode": "001",
+    "districtCode": "65.04.032",
+    "name": "Sibalu",
+    "alias": "Sibalu"
+  },
+  {
+    "code": "65.04.032.002",
+    "villageCode": "002",
+    "districtCode": "65.04.032",
+    "name": "Mamasin",
+    "alias": "Mamasin"
+  },
+  {
+    "code": "65.04.032.003",
+    "villageCode": "003",
+    "districtCode": "65.04.032",
+    "name": "Duyan",
+    "alias": "Duyan"
+  },
+  {
+    "code": "65.04.032.004",
+    "villageCode": "004",
+    "districtCode": "65.04.032",
+    "name": "Tau Lumbis",
+    "alias": "Tau Lumbis"
+  },
+  {
+    "code": "65.04.032.005",
+    "villageCode": "005",
+    "districtCode": "65.04.032",
+    "name": "Kabungolor",
+    "alias": "Kabungolor"
+  },
+  {
+    "code": "65.04.032.006",
+    "villageCode": "006",
+    "districtCode": "65.04.032",
+    "name": "Tetagas",
+    "alias": "Tetagas"
+  },
+  {
+    "code": "65.04.032.007",
+    "villageCode": "007",
+    "districtCode": "65.04.032",
+    "name": "Bululaun Hulu",
+    "alias": "Bululaun Hulu"
+  },
+  {
+    "code": "65.04.032.008",
+    "villageCode": "008",
+    "districtCode": "65.04.032",
+    "name": "Tantulibing",
+    "alias": "Tantulibing"
+  },
+  {
+    "code": "65.04.032.009",
+    "villageCode": "009",
+    "districtCode": "65.04.032",
+    "name": "Kalisun",
+    "alias": "Kalisun"
+  },
+  {
+    "code": "65.04.032.010",
+    "villageCode": "010",
+    "districtCode": "65.04.032",
+    "name": "Lipaga",
+    "alias": "Lipaga"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "code": "72.01.051.001",
+    "villageCode": "001",
+    "districtCode": "72.01.051",
+    "name": "Tolulos",
+    "alias": "Tolulos"
+  },
+  {
+    "code": "72.01.051.002",
+    "villageCode": "002",
+    "districtCode": "72.01.051",
+    "name": "Popisi",
+    "alias": "Popisi"
+  },
+  {
+    "code": "72.01.051.003",
+    "villageCode": "003",
+    "districtCode": "72.01.051",
+    "name": "Labibi",
+    "alias": "Labibi"
+  },
+  {
+    "code": "72.01.051.004",
+    "villageCode": "004",
+    "districtCode": "72.01.051",
+    "name": "Luk",
+    "alias": "Luk"
+  },
+  {
+    "code": "72.01.051.005",
+    "villageCode": "005",
+    "districtCode": "72.01.051",
+    "name": "Tombos",
+    "alias": "Tombos"
+  },
+  {
+    "code": "72.01.051.006",
+    "villageCode": "006",
+    "districtCode": "72.01.051",
+    "name": "Alakasing",
+    "alias": "Alakasing"
+  },
+  {
+    "code": "72.01.051.007",
+    "villageCode": "007",
+    "districtCode": "72.01.051",
+    "name": "Patukuki",
+    "alias": "Patukuki"
+  },
+  {
+    "code": "72.01.051.008",
+    "villageCode": "008",
+    "districtCode": "72.01.051",
+    "name": "Koyobunga",
+    "alias": "Koyobunga"
+  },
+  {
+    "code": "72.01.051.009",
+    "villageCode": "009",
+    "districtCode": "72.01.051",
+    "name": "Kolak",
+    "alias": "Kolak"
+  },
+  {
+    "code": "72.01.051.010",
+    "villageCode": "010",
+    "districtCode": "72.01.051",
+    "name": "Balombong",
+    "alias": "Balombong"
+  },
+  {
+    "code": "72.01.051.011",
+    "villageCode": "011",
+    "districtCode": "72.01.051",
+    "name": "Tunggaling",
+    "alias": "Tunggaling"
+  }
+]

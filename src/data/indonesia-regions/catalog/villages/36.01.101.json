@@ -1,0 +1,65 @@
+[
+  {
+    "code": "36.01.101.001",
+    "villageCode": "001",
+    "districtCode": "36.01.101",
+    "name": "Kondangjaya",
+    "alias": "Kondangjaya"
+  },
+  {
+    "code": "36.01.101.002",
+    "villageCode": "002",
+    "districtCode": "36.01.101",
+    "name": "Kubangkondang",
+    "alias": "Kubangkondang"
+  },
+  {
+    "code": "36.01.101.003",
+    "villageCode": "003",
+    "districtCode": "36.01.101",
+    "name": "Cisereh",
+    "alias": "Cisereh"
+  },
+  {
+    "code": "36.01.101.004",
+    "villageCode": "004",
+    "districtCode": "36.01.101",
+    "name": "Cibarani",
+    "alias": "Cibarani"
+  },
+  {
+    "code": "36.01.101.005",
+    "villageCode": "005",
+    "districtCode": "36.01.101",
+    "name": "Rawasari",
+    "alias": "Rawasari"
+  },
+  {
+    "code": "36.01.101.006",
+    "villageCode": "006",
+    "districtCode": "36.01.101",
+    "name": "Pasireurih",
+    "alias": "Pasireurih"
+  },
+  {
+    "code": "36.01.101.007",
+    "villageCode": "007",
+    "districtCode": "36.01.101",
+    "name": "Kaduronyok",
+    "alias": "Kaduronyok"
+  },
+  {
+    "code": "36.01.101.008",
+    "villageCode": "008",
+    "districtCode": "36.01.101",
+    "name": "Ciherangjaya",
+    "alias": "Ciherangjaya"
+  },
+  {
+    "code": "36.01.101.009",
+    "villageCode": "009",
+    "districtCode": "36.01.101",
+    "name": "Palembang",
+    "alias": "Palembang"
+  }
+]

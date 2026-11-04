@@ -1,0 +1,138 @@
+[
+  {
+    "code": "61.02.010",
+    "districtCode": "010",
+    "regencyCode": "61.02",
+    "provinceCode": "61",
+    "name": "Kecamatan Sungai Raya",
+    "alias": "Sungai Raya"
+  },
+  {
+    "code": "61.02.011",
+    "districtCode": "011",
+    "regencyCode": "61.02",
+    "provinceCode": "61",
+    "name": "Kecamatan Capkala",
+    "alias": "Capkala"
+  },
+  {
+    "code": "61.02.012",
+    "districtCode": "012",
+    "regencyCode": "61.02",
+    "provinceCode": "61",
+    "name": "Kecamatan Sungai Raya Kepulauan",
+    "alias": "Sungai Raya Kepulauan"
+  },
+  {
+    "code": "61.02.030",
+    "districtCode": "030",
+    "regencyCode": "61.02",
+    "provinceCode": "61",
+    "name": "Kecamatan Samalantan",
+    "alias": "Samalantan"
+  },
+  {
+    "code": "61.02.031",
+    "districtCode": "031",
+    "regencyCode": "61.02",
+    "provinceCode": "61",
+    "name": "Kecamatan Monterado",
+    "alias": "Monterado"
+  },
+  {
+    "code": "61.02.032",
+    "districtCode": "032",
+    "regencyCode": "61.02",
+    "provinceCode": "61",
+    "name": "Kecamatan Lembah Bawang",
+    "alias": "Lembah Bawang"
+  },
+  {
+    "code": "61.02.040",
+    "districtCode": "040",
+    "regencyCode": "61.02",
+    "provinceCode": "61",
+    "name": "Kecamatan Bengkayang",
+    "alias": "Bengkayang"
+  },
+  {
+    "code": "61.02.041",
+    "districtCode": "041",
+    "regencyCode": "61.02",
+    "provinceCode": "61",
+    "name": "Kecamatan Teriak",
+    "alias": "Teriak"
+  },
+  {
+    "code": "61.02.042",
+    "districtCode": "042",
+    "regencyCode": "61.02",
+    "provinceCode": "61",
+    "name": "Kecamatan Sungai Betung",
+    "alias": "Sungai Betung"
+  },
+  {
+    "code": "61.02.050",
+    "districtCode": "050",
+    "regencyCode": "61.02",
+    "provinceCode": "61",
+    "name": "Kecamatan Ledo",
+    "alias": "Ledo"
+  },
+  {
+    "code": "61.02.051",
+    "districtCode": "051",
+    "regencyCode": "61.02",
+    "provinceCode": "61",
+    "name": "Kecamatan Suti Semarang",
+    "alias": "Suti Semarang"
+  },
+  {
+    "code": "61.02.052",
+    "districtCode": "052",
+    "regencyCode": "61.02",
+    "provinceCode": "61",
+    "name": "Kecamatan Lumar",
+    "alias": "Lumar"
+  },
+  {
+    "code": "61.02.060",
+    "districtCode": "060",
+    "regencyCode": "61.02",
+    "provinceCode": "61",
+    "name": "Kecamatan Sanggau Ledo",
+    "alias": "Sanggau Ledo"
+  },
+  {
+    "code": "61.02.061",
+    "districtCode": "061",
+    "regencyCode": "61.02",
+    "provinceCode": "61",
+    "name": "Kecamatan Tujuh Belas",
+    "alias": "Tujuh Belas"
+  },
+  {
+    "code": "61.02.070",
+    "districtCode": "070",
+    "regencyCode": "61.02",
+    "provinceCode": "61",
+    "name": "Kecamatan Seluas",
+    "alias": "Seluas"
+  },
+  {
+    "code": "61.02.080",
+    "districtCode": "080",
+    "regencyCode": "61.02",
+    "provinceCode": "61",
+    "name": "Kecamatan Jagoi Babang",
+    "alias": "Jagoi Babang"
+  },
+  {
+    "code": "61.02.081",
+    "districtCode": "081",
+    "regencyCode": "61.02",
+    "provinceCode": "61",
+    "name": "Kecamatan Siding",
+    "alias": "Siding"
+  }
+]

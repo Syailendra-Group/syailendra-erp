@@ -1,0 +1,74 @@
+[
+  {
+    "code": "94.03",
+    "regencyCode": "03",
+    "provinceCode": "94",
+    "provinceName": "Papua",
+    "name": "Kabupaten Jayapura",
+    "alias": "Jayapura"
+  },
+  {
+    "code": "94.08",
+    "regencyCode": "08",
+    "provinceCode": "94",
+    "provinceName": "Papua",
+    "name": "Kabupaten Kepulauan Yapen",
+    "alias": "Kepulauan Yapen"
+  },
+  {
+    "code": "94.09",
+    "regencyCode": "09",
+    "provinceCode": "94",
+    "provinceName": "Papua",
+    "name": "Kabupaten Biak Numfor",
+    "alias": "Biak Numfor"
+  },
+  {
+    "code": "94.19",
+    "regencyCode": "19",
+    "provinceCode": "94",
+    "provinceName": "Papua",
+    "name": "Kabupaten Sarmi",
+    "alias": "Sarmi"
+  },
+  {
+    "code": "94.20",
+    "regencyCode": "20",
+    "provinceCode": "94",
+    "provinceName": "Papua",
+    "name": "Kabupaten Keerom",
+    "alias": "Keerom"
+  },
+  {
+    "code": "94.26",
+    "regencyCode": "26",
+    "provinceCode": "94",
+    "provinceName": "Papua",
+    "name": "Kabupaten Waropen",
+    "alias": "Waropen"
+  },
+  {
+    "code": "94.27",
+    "regencyCode": "27",
+    "provinceCode": "94",
+    "provinceName": "Papua",
+    "name": "Kabupaten Supiori",
+    "alias": "Supiori"
+  },
+  {
+    "code": "94.28",
+    "regencyCode": "28",
+    "provinceCode": "94",
+    "provinceName": "Papua",
+    "name": "Kabupaten Mamberamo Raya",
+    "alias": "Mamberamo Raya"
+  },
+  {
+    "code": "94.71",
+    "regencyCode": "71",
+    "provinceCode": "94",
+    "provinceName": "Papua",
+    "name": "Kota Jayapura",
+    "alias": "Jayapura"
+  }
+]

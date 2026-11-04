@@ -1,0 +1,90 @@
+[
+  {
+    "code": "81.02.010",
+    "districtCode": "010",
+    "regencyCode": "81.02",
+    "provinceCode": "81",
+    "name": "Kecamatan Kei Kecil",
+    "alias": "Kei Kecil"
+  },
+  {
+    "code": "81.02.012",
+    "districtCode": "012",
+    "regencyCode": "81.02",
+    "provinceCode": "81",
+    "name": "Kecamatan Kei Kecil Barat",
+    "alias": "Kei Kecil Barat"
+  },
+  {
+    "code": "81.02.013",
+    "districtCode": "013",
+    "regencyCode": "81.02",
+    "provinceCode": "81",
+    "name": "Kecamatan Kei Kecil Timur",
+    "alias": "Kei Kecil Timur"
+  },
+  {
+    "code": "81.02.014",
+    "districtCode": "014",
+    "regencyCode": "81.02",
+    "provinceCode": "81",
+    "name": "Kecamatan Hoat Sorbay",
+    "alias": "Hoat Sorbay"
+  },
+  {
+    "code": "81.02.015",
+    "districtCode": "015",
+    "regencyCode": "81.02",
+    "provinceCode": "81",
+    "name": "Kecamatan Manyeuw",
+    "alias": "Manyeuw"
+  },
+  {
+    "code": "81.02.016",
+    "districtCode": "016",
+    "regencyCode": "81.02",
+    "provinceCode": "81",
+    "name": "Kecamatan Kei Kecil Timur Selatan",
+    "alias": "Kei Kecil Timur Selatan"
+  },
+  {
+    "code": "81.02.020",
+    "districtCode": "020",
+    "regencyCode": "81.02",
+    "provinceCode": "81",
+    "name": "Kecamatan Kei Besar",
+    "alias": "Kei Besar"
+  },
+  {
+    "code": "81.02.021",
+    "districtCode": "021",
+    "regencyCode": "81.02",
+    "provinceCode": "81",
+    "name": "Kecamatan Kei Besar Utara Timur",
+    "alias": "Kei Besar Utara Timur"
+  },
+  {
+    "code": "81.02.022",
+    "districtCode": "022",
+    "regencyCode": "81.02",
+    "provinceCode": "81",
+    "name": "Kecamatan Kei Besar Selatan",
+    "alias": "Kei Besar Selatan"
+  },
+  {
+    "code": "81.02.023",
+    "districtCode": "023",
+    "regencyCode": "81.02",
+    "provinceCode": "81",
+    "name": "Kecamatan Kei Besar Utara Barat",
+    "alias": "Kei Besar Utara Barat"
+  },
+  {
+    "code": "81.02.024",
+    "districtCode": "024",
+    "regencyCode": "81.02",
+    "provinceCode": "81",
+    "name": "Kecamatan Kei Besar Selatan Barat",
+    "alias": "Kei Besar Selatan Barat"
+  }
+]

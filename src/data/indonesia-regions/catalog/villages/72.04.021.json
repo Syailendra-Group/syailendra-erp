@@ -1,0 +1,44 @@
+[
+  {
+    "code": "72.04.021.001",
+    "villageCode": "001",
+    "districtCode": "72.04.021",
+    "name": "Tuare",
+    "alias": "Tuare"
+  },
+  {
+    "code": "72.04.021.002",
+    "villageCode": "002",
+    "districtCode": "72.04.021",
+    "name": "Tomehipi",
+    "alias": "Tomehipi"
+  },
+  {
+    "code": "72.04.021.003",
+    "villageCode": "003",
+    "districtCode": "72.04.021",
+    "name": "Kageroa",
+    "alias": "Kageroa"
+  },
+  {
+    "code": "72.04.021.004",
+    "villageCode": "004",
+    "districtCode": "72.04.021",
+    "name": "Lengkeka",
+    "alias": "Lengkeka"
+  },
+  {
+    "code": "72.04.021.005",
+    "villageCode": "005",
+    "districtCode": "72.04.021",
+    "name": "Kolori",
+    "alias": "Kolori"
+  },
+  {
+    "code": "72.04.021.006",
+    "villageCode": "006",
+    "districtCode": "72.04.021",
+    "name": "Lelio",
+    "alias": "Lelio"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "code": "71.07.010",
+    "districtCode": "010",
+    "regencyCode": "71.07",
+    "provinceCode": "71",
+    "name": "Kecamatan Sangkub",
+    "alias": "Sangkub"
+  },
+  {
+    "code": "71.07.020",
+    "districtCode": "020",
+    "regencyCode": "71.07",
+    "provinceCode": "71",
+    "name": "Kecamatan Bintauna",
+    "alias": "Bintauna"
+  },
+  {
+    "code": "71.07.030",
+    "districtCode": "030",
+    "regencyCode": "71.07",
+    "provinceCode": "71",
+    "name": "Kecamatan Bolang Itang Timur",
+    "alias": "Bolang Itang Timur"
+  },
+  {
+    "code": "71.07.040",
+    "districtCode": "040",
+    "regencyCode": "71.07",
+    "provinceCode": "71",
+    "name": "Kecamatan Bolang Itang Barat",
+    "alias": "Bolang Itang Barat"
+  },
+  {
+    "code": "71.07.050",
+    "districtCode": "050",
+    "regencyCode": "71.07",
+    "provinceCode": "71",
+    "name": "Kecamatan Kaidipang",
+    "alias": "Kaidipang"
+  },
+  {
+    "code": "71.07.060",
+    "districtCode": "060",
+    "regencyCode": "71.07",
+    "provinceCode": "71",
+    "name": "Kecamatan Pinogaluman",
+    "alias": "Pinogaluman"
+  }
+]

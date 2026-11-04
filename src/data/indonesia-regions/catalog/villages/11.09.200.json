@@ -1,0 +1,107 @@
+[
+  {
+    "code": "11.09.200.001",
+    "villageCode": "001",
+    "districtCode": "11.09.200",
+    "name": "Tanjong Krueng",
+    "alias": "Tanjong Krueng"
+  },
+  {
+    "code": "11.09.200.002",
+    "villageCode": "002",
+    "districtCode": "11.09.200",
+    "name": "Mns Peukan",
+    "alias": "Mns Peukan"
+  },
+  {
+    "code": "11.09.200.003",
+    "villageCode": "003",
+    "districtCode": "11.09.200",
+    "name": "Gampong Asan",
+    "alias": "Gampong Asan"
+  },
+  {
+    "code": "11.09.200.004",
+    "villageCode": "004",
+    "districtCode": "11.09.200",
+    "name": "Blang Asan",
+    "alias": "Blang Asan"
+  },
+  {
+    "code": "11.09.200.005",
+    "villageCode": "005",
+    "districtCode": "11.09.200",
+    "name": "Blok Sawah",
+    "alias": "Blok Sawah"
+  },
+  {
+    "code": "11.09.200.006",
+    "villageCode": "006",
+    "districtCode": "11.09.200",
+    "name": "Pante Teungoh",
+    "alias": "Pante Teungoh"
+  },
+  {
+    "code": "11.09.200.007",
+    "villageCode": "007",
+    "districtCode": "11.09.200",
+    "name": "Kramat Dalam",
+    "alias": "Kramat Dalam"
+  },
+  {
+    "code": "11.09.200.008",
+    "villageCode": "008",
+    "districtCode": "11.09.200",
+    "name": "Kramat Luar",
+    "alias": "Kramat Luar"
+  },
+  {
+    "code": "11.09.200.009",
+    "villageCode": "009",
+    "districtCode": "11.09.200",
+    "name": "Lampoh Krueng",
+    "alias": "Lampoh Krueng"
+  },
+  {
+    "code": "11.09.200.010",
+    "villageCode": "010",
+    "districtCode": "11.09.200",
+    "name": "Pasi Peukan Baro",
+    "alias": "Pasi Peukan Baro"
+  },
+  {
+    "code": "11.09.200.011",
+    "villageCode": "011",
+    "districtCode": "11.09.200",
+    "name": "Pasi Rawa",
+    "alias": "Pasi Rawa"
+  },
+  {
+    "code": "11.09.200.012",
+    "villageCode": "012",
+    "districtCode": "11.09.200",
+    "name": "Kuala Pidie",
+    "alias": "Kuala Pidie"
+  },
+  {
+    "code": "11.09.200.013",
+    "villageCode": "013",
+    "districtCode": "11.09.200",
+    "name": "Blok Bengkel",
+    "alias": "Blok Bengkel"
+  },
+  {
+    "code": "11.09.200.014",
+    "villageCode": "014",
+    "districtCode": "11.09.200",
+    "name": "Benteng",
+    "alias": "Benteng"
+  },
+  {
+    "code": "11.09.200.015",
+    "villageCode": "015",
+    "districtCode": "11.09.200",
+    "name": "Blang Paseh",
+    "alias": "Blang Paseh"
+  }
+]

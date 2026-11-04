@@ -1,0 +1,79 @@
+[
+  {
+    "code": "18.07.050.002",
+    "villageCode": "002",
+    "districtCode": "18.07.050",
+    "name": "Giri Harjo",
+    "alias": "Giri Harjo"
+  },
+  {
+    "code": "18.07.050.003",
+    "villageCode": "003",
+    "districtCode": "18.07.050",
+    "name": "Tulang Bawang",
+    "alias": "Tulang Bawang"
+  },
+  {
+    "code": "18.07.050.004",
+    "villageCode": "004",
+    "districtCode": "18.07.050",
+    "name": "Mesir Udik",
+    "alias": "Mesir Udik"
+  },
+  {
+    "code": "18.07.050.005",
+    "villageCode": "005",
+    "districtCode": "18.07.050",
+    "name": "Mesir Ilir",
+    "alias": "Mesir Ilir"
+  },
+  {
+    "code": "18.07.050.020",
+    "villageCode": "020",
+    "districtCode": "18.07.050",
+    "name": "Bumi Agung Watas",
+    "alias": "Bumi Agung Watas"
+  },
+  {
+    "code": "18.07.050.021",
+    "villageCode": "021",
+    "districtCode": "18.07.050",
+    "name": "Serdang Kuring",
+    "alias": "Serdang Kuring"
+  },
+  {
+    "code": "18.07.050.022",
+    "villageCode": "022",
+    "districtCode": "18.07.050",
+    "name": "Sapto Renggo",
+    "alias": "Sapto Renggo"
+  },
+  {
+    "code": "18.07.050.023",
+    "villageCode": "023",
+    "districtCode": "18.07.050",
+    "name": "Bumi Agung",
+    "alias": "Bumi Agung"
+  },
+  {
+    "code": "18.07.050.024",
+    "villageCode": "024",
+    "districtCode": "18.07.050",
+    "name": "Mekar Jaya",
+    "alias": "Mekar Jaya"
+  },
+  {
+    "code": "18.07.050.025",
+    "villageCode": "025",
+    "districtCode": "18.07.050",
+    "name": "Kota Dewa",
+    "alias": "Kota Dewa"
+  },
+  {
+    "code": "18.07.050.026",
+    "villageCode": "026",
+    "districtCode": "18.07.050",
+    "name": "Dewa Agung",
+    "alias": "Dewa Agung"
+  }
+]

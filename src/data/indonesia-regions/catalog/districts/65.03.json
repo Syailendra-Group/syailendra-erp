@@ -1,0 +1,42 @@
+[
+  {
+    "code": "65.03.010",
+    "districtCode": "010",
+    "regencyCode": "65.03",
+    "provinceCode": "65",
+    "name": "Kecamatan Muruk Rian",
+    "alias": "Muruk Rian"
+  },
+  {
+    "code": "65.03.020",
+    "districtCode": "020",
+    "regencyCode": "65.03",
+    "provinceCode": "65",
+    "name": "Kecamatan Sesayap",
+    "alias": "Sesayap"
+  },
+  {
+    "code": "65.03.030",
+    "districtCode": "030",
+    "regencyCode": "65.03",
+    "provinceCode": "65",
+    "name": "Kecamatan Betayau",
+    "alias": "Betayau"
+  },
+  {
+    "code": "65.03.040",
+    "districtCode": "040",
+    "regencyCode": "65.03",
+    "provinceCode": "65",
+    "name": "Kecamatan Sesayap Hilir",
+    "alias": "Sesayap Hilir"
+  },
+  {
+    "code": "65.03.050",
+    "districtCode": "050",
+    "regencyCode": "65.03",
+    "provinceCode": "65",
+    "name": "Kecamatan Tana Lia",
+    "alias": "Tana Lia"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "code": "15.02.042.001",
+    "villageCode": "001",
+    "districtCode": "15.02.042",
+    "name": "Mentawak",
+    "alias": "Mentawak"
+  },
+  {
+    "code": "15.02.042.002",
+    "villageCode": "002",
+    "districtCode": "15.02.042",
+    "name": "Sungai Ulak",
+    "alias": "Sungai Ulak"
+  },
+  {
+    "code": "15.02.042.003",
+    "villageCode": "003",
+    "districtCode": "15.02.042",
+    "name": "Aur Berduri",
+    "alias": "Aur Berduri"
+  },
+  {
+    "code": "15.02.042.004",
+    "villageCode": "004",
+    "districtCode": "15.02.042",
+    "name": "Danau",
+    "alias": "Danau"
+  },
+  {
+    "code": "15.02.042.005",
+    "villageCode": "005",
+    "districtCode": "15.02.042",
+    "name": "Telun",
+    "alias": "Telun"
+  },
+  {
+    "code": "15.02.042.006",
+    "villageCode": "006",
+    "districtCode": "15.02.042",
+    "name": "Nalo Gedang",
+    "alias": "Nalo Gedang"
+  },
+  {
+    "code": "15.02.042.007",
+    "villageCode": "007",
+    "districtCode": "15.02.042",
+    "name": "Baru Nalo",
+    "alias": "Baru Nalo"
+  }
+]

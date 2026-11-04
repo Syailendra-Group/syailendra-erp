@@ -1,0 +1,51 @@
+[
+  {
+    "code": "33.02.740.001",
+    "villageCode": "001",
+    "districtCode": "33.02.740",
+    "name": "Bobosan",
+    "alias": "Bobosan"
+  },
+  {
+    "code": "33.02.740.002",
+    "villageCode": "002",
+    "districtCode": "33.02.740",
+    "name": "Purwanegara",
+    "alias": "Purwanegara"
+  },
+  {
+    "code": "33.02.740.003",
+    "villageCode": "003",
+    "districtCode": "33.02.740",
+    "name": "Bancarkembar",
+    "alias": "Bancarkembar"
+  },
+  {
+    "code": "33.02.740.004",
+    "villageCode": "004",
+    "districtCode": "33.02.740",
+    "name": "Sumampir",
+    "alias": "Sumampir"
+  },
+  {
+    "code": "33.02.740.005",
+    "villageCode": "005",
+    "districtCode": "33.02.740",
+    "name": "Pabuaran",
+    "alias": "Pabuaran"
+  },
+  {
+    "code": "33.02.740.006",
+    "villageCode": "006",
+    "districtCode": "33.02.740",
+    "name": "Grendeng",
+    "alias": "Grendeng"
+  },
+  {
+    "code": "33.02.740.007",
+    "villageCode": "007",
+    "districtCode": "33.02.740",
+    "name": "Karangwangkal",
+    "alias": "Karangwangkal"
+  }
+]

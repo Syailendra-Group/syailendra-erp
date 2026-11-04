@@ -1,0 +1,30 @@
+[
+  {
+    "code": "13.07.021.001",
+    "villageCode": "001",
+    "districtCode": "13.07.021",
+    "name": "Bawan",
+    "alias": "Bawan"
+  },
+  {
+    "code": "13.07.021.002",
+    "villageCode": "002",
+    "districtCode": "13.07.021",
+    "name": "Sitanang",
+    "alias": "Sitanang"
+  },
+  {
+    "code": "13.07.021.003",
+    "villageCode": "003",
+    "districtCode": "13.07.021",
+    "name": "Batu Kambing",
+    "alias": "Batu Kambing"
+  },
+  {
+    "code": "13.07.021.004",
+    "villageCode": "004",
+    "districtCode": "13.07.021",
+    "name": "Sitalang",
+    "alias": "Sitalang"
+  }
+]

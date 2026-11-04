@@ -1,0 +1,44 @@
+[
+  {
+    "code": "97.01.220.001",
+    "villageCode": "001",
+    "districtCode": "97.01.220",
+    "name": "Dal",
+    "alias": "Dal"
+  },
+  {
+    "code": "97.01.220.002",
+    "villageCode": "002",
+    "districtCode": "97.01.220",
+    "name": "Silan",
+    "alias": "Silan"
+  },
+  {
+    "code": "97.01.220.003",
+    "villageCode": "003",
+    "districtCode": "97.01.220",
+    "name": "Gurumbe",
+    "alias": "Gurumbe"
+  },
+  {
+    "code": "97.01.220.004",
+    "villageCode": "004",
+    "districtCode": "97.01.220",
+    "name": "Kaboneri",
+    "alias": "Kaboneri"
+  },
+  {
+    "code": "97.01.220.005",
+    "villageCode": "005",
+    "districtCode": "97.01.220",
+    "name": "Silankuru",
+    "alias": "Silankuru"
+  },
+  {
+    "code": "97.01.220.006",
+    "villageCode": "006",
+    "districtCode": "97.01.220",
+    "name": "Grinbun",
+    "alias": "Grinbun"
+  }
+]

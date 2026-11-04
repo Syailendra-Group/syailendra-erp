@@ -1,0 +1,37 @@
+[
+  {
+    "code": "95.02.180.001",
+    "villageCode": "001",
+    "districtCode": "95.02.180",
+    "name": "Anyumka",
+    "alias": "Anyumka"
+  },
+  {
+    "code": "95.02.180.002",
+    "villageCode": "002",
+    "districtCode": "95.02.180",
+    "name": "Nyum / Awaken",
+    "alias": "Nyum / Awaken"
+  },
+  {
+    "code": "95.02.180.003",
+    "villageCode": "003",
+    "districtCode": "95.02.180",
+    "name": "Arimbit",
+    "alias": "Arimbit"
+  },
+  {
+    "code": "95.02.180.004",
+    "villageCode": "004",
+    "districtCode": "95.02.180",
+    "name": "Kuken",
+    "alias": "Kuken"
+  },
+  {
+    "code": "95.02.180.005",
+    "villageCode": "005",
+    "districtCode": "95.02.180",
+    "name": "Kolopkam",
+    "alias": "Kolopkam"
+  }
+]

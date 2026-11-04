@@ -1,0 +1,72 @@
+[
+  {
+    "code": "71.05.113.001",
+    "villageCode": "001",
+    "districtCode": "71.05.113",
+    "name": "Ranomea",
+    "alias": "Ranomea"
+  },
+  {
+    "code": "71.05.113.002",
+    "villageCode": "002",
+    "districtCode": "71.05.113",
+    "name": "Pondang",
+    "alias": "Pondang"
+  },
+  {
+    "code": "71.05.113.003",
+    "villageCode": "003",
+    "districtCode": "71.05.113",
+    "name": "Pinaling",
+    "alias": "Pinaling"
+  },
+  {
+    "code": "71.05.113.004",
+    "villageCode": "004",
+    "districtCode": "71.05.113",
+    "name": "Kota Menara",
+    "alias": "Kota Menara"
+  },
+  {
+    "code": "71.05.113.005",
+    "villageCode": "005",
+    "districtCode": "71.05.113",
+    "name": "Maliku",
+    "alias": "Maliku"
+  },
+  {
+    "code": "71.05.113.006",
+    "villageCode": "006",
+    "districtCode": "71.05.113",
+    "name": "Ritey",
+    "alias": "Ritey"
+  },
+  {
+    "code": "71.05.113.007",
+    "villageCode": "007",
+    "districtCode": "71.05.113",
+    "name": "Malenos Baru",
+    "alias": "Malenos Baru"
+  },
+  {
+    "code": "71.05.113.008",
+    "villageCode": "008",
+    "districtCode": "71.05.113",
+    "name": "Lopana",
+    "alias": "Lopana"
+  },
+  {
+    "code": "71.05.113.009",
+    "villageCode": "009",
+    "districtCode": "71.05.113",
+    "name": "Lopana Satu",
+    "alias": "Lopana Satu"
+  },
+  {
+    "code": "71.05.113.010",
+    "villageCode": "010",
+    "districtCode": "71.05.113",
+    "name": "Maliku Satu",
+    "alias": "Maliku Satu"
+  }
+]

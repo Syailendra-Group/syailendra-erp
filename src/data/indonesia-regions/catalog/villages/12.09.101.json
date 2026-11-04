@@ -1,0 +1,72 @@
+[
+  {
+    "code": "12.09.101.001",
+    "villageCode": "001",
+    "districtCode": "12.09.101",
+    "name": "Parjalangan",
+    "alias": "Parjalangan"
+  },
+  {
+    "code": "12.09.101.002",
+    "villageCode": "002",
+    "districtCode": "12.09.101",
+    "name": "Raya Huluan",
+    "alias": "Raya Huluan"
+  },
+  {
+    "code": "12.09.101.003",
+    "villageCode": "003",
+    "districtCode": "12.09.101",
+    "name": "Dolog Huluan",
+    "alias": "Dolog Huluan"
+  },
+  {
+    "code": "12.09.101.004",
+    "villageCode": "004",
+    "districtCode": "12.09.101",
+    "name": "Raya Usang",
+    "alias": "Raya Usang"
+  },
+  {
+    "code": "12.09.101.005",
+    "villageCode": "005",
+    "districtCode": "12.09.101",
+    "name": "Bintang Mariah",
+    "alias": "Bintang Mariah"
+  },
+  {
+    "code": "12.09.101.006",
+    "villageCode": "006",
+    "districtCode": "12.09.101",
+    "name": "Bangun Pane",
+    "alias": "Bangun Pane"
+  },
+  {
+    "code": "12.09.101.007",
+    "villageCode": "007",
+    "districtCode": "12.09.101",
+    "name": "Partuahan",
+    "alias": "Partuahan"
+  },
+  {
+    "code": "12.09.101.008",
+    "villageCode": "008",
+    "districtCode": "12.09.101",
+    "name": "Bah Bolon",
+    "alias": "Bah Bolon"
+  },
+  {
+    "code": "12.09.101.009",
+    "villageCode": "009",
+    "districtCode": "12.09.101",
+    "name": "Sinaman Labah",
+    "alias": "Sinaman Labah"
+  },
+  {
+    "code": "12.09.101.010",
+    "villageCode": "010",
+    "districtCode": "12.09.101",
+    "name": "Pamatang Sinaman",
+    "alias": "Pamatang Sinaman"
+  }
+]

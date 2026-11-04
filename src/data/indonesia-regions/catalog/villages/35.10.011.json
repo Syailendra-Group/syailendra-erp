@@ -1,0 +1,37 @@
+[
+  {
+    "code": "35.10.011.001",
+    "villageCode": "001",
+    "districtCode": "35.10.011",
+    "name": "Buluagung",
+    "alias": "Buluagung"
+  },
+  {
+    "code": "35.10.011.002",
+    "villageCode": "002",
+    "districtCode": "35.10.011",
+    "name": "Siliragung",
+    "alias": "Siliragung"
+  },
+  {
+    "code": "35.10.011.003",
+    "villageCode": "003",
+    "districtCode": "35.10.011",
+    "name": "Seneporejo",
+    "alias": "Seneporejo"
+  },
+  {
+    "code": "35.10.011.004",
+    "villageCode": "004",
+    "districtCode": "35.10.011",
+    "name": "Kesilir",
+    "alias": "Kesilir"
+  },
+  {
+    "code": "35.10.011.005",
+    "villageCode": "005",
+    "districtCode": "35.10.011",
+    "name": "Barurejo",
+    "alias": "Barurejo"
+  }
+]

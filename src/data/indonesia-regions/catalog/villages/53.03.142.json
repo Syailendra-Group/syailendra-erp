@@ -1,0 +1,51 @@
+[
+  {
+    "code": "53.03.142.001",
+    "villageCode": "001",
+    "districtCode": "53.03.142",
+    "name": "Kuanheum",
+    "alias": "Kuanheum"
+  },
+  {
+    "code": "53.03.142.002",
+    "villageCode": "002",
+    "districtCode": "53.03.142",
+    "name": "Fatuknutu",
+    "alias": "Fatuknutu"
+  },
+  {
+    "code": "53.03.142.003",
+    "villageCode": "003",
+    "districtCode": "53.03.142",
+    "name": "Kairane",
+    "alias": "Kairane"
+  },
+  {
+    "code": "53.03.142.004",
+    "villageCode": "004",
+    "districtCode": "53.03.142",
+    "name": "Niunbaun",
+    "alias": "Niunbaun"
+  },
+  {
+    "code": "53.03.142.005",
+    "villageCode": "005",
+    "districtCode": "53.03.142",
+    "name": "Raknamo",
+    "alias": "Raknamo"
+  },
+  {
+    "code": "53.03.142.006",
+    "villageCode": "006",
+    "districtCode": "53.03.142",
+    "name": "Fatuteta",
+    "alias": "Fatuteta"
+  },
+  {
+    "code": "53.03.142.007",
+    "villageCode": "007",
+    "districtCode": "53.03.142",
+    "name": "Oefeto",
+    "alias": "Oefeto"
+  }
+]

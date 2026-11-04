@@ -1,0 +1,51 @@
+[
+  {
+    "code": "32.06.210.003",
+    "villageCode": "003",
+    "districtCode": "32.06.210",
+    "name": "Arjasari",
+    "alias": "Arjasari"
+  },
+  {
+    "code": "32.06.210.007",
+    "villageCode": "007",
+    "districtCode": "32.06.210",
+    "name": "Ciawang",
+    "alias": "Ciawang"
+  },
+  {
+    "code": "32.06.210.008",
+    "villageCode": "008",
+    "districtCode": "32.06.210",
+    "name": "Jayamukti",
+    "alias": "Jayamukti"
+  },
+  {
+    "code": "32.06.210.015",
+    "villageCode": "015",
+    "districtCode": "32.06.210",
+    "name": "Linggawangi",
+    "alias": "Linggawangi"
+  },
+  {
+    "code": "32.06.210.016",
+    "villageCode": "016",
+    "districtCode": "32.06.210",
+    "name": "Linggamulya",
+    "alias": "Linggamulya"
+  },
+  {
+    "code": "32.06.210.017",
+    "villageCode": "017",
+    "districtCode": "32.06.210",
+    "name": "Cigadog",
+    "alias": "Cigadog"
+  },
+  {
+    "code": "32.06.210.018",
+    "villageCode": "018",
+    "districtCode": "32.06.210",
+    "name": "Mandalagiri",
+    "alias": "Mandalagiri"
+  }
+]

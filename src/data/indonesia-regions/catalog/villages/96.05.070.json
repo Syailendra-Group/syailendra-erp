@@ -1,0 +1,51 @@
+[
+  {
+    "code": "96.05.070.001",
+    "villageCode": "001",
+    "districtCode": "96.05.070",
+    "name": "Muyetadi",
+    "alias": "Muyetadi"
+  },
+  {
+    "code": "96.05.070.002",
+    "villageCode": "002",
+    "districtCode": "96.05.070",
+    "name": "Tinou",
+    "alias": "Tinou"
+  },
+  {
+    "code": "96.05.070.003",
+    "villageCode": "003",
+    "districtCode": "96.05.070",
+    "name": "Tiga Damuto",
+    "alias": "Tiga Damuto"
+  },
+  {
+    "code": "96.05.070.004",
+    "villageCode": "004",
+    "districtCode": "96.05.070",
+    "name": "Epou / Epobutu",
+    "alias": "Epou / Epobutu"
+  },
+  {
+    "code": "96.05.070.005",
+    "villageCode": "005",
+    "districtCode": "96.05.070",
+    "name": "Obaimapa",
+    "alias": "Obaimapa"
+  },
+  {
+    "code": "96.05.070.006",
+    "villageCode": "006",
+    "districtCode": "96.05.070",
+    "name": "Odebutu",
+    "alias": "Odebutu"
+  },
+  {
+    "code": "96.05.070.007",
+    "villageCode": "007",
+    "districtCode": "96.05.070",
+    "name": "Bebiyai",
+    "alias": "Bebiyai"
+  }
+]

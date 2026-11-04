@@ -1,0 +1,65 @@
+[
+  {
+    "code": "52.71.020.001",
+    "villageCode": "001",
+    "districtCode": "52.71.020",
+    "name": "Pagesangan",
+    "alias": "Pagesangan"
+  },
+  {
+    "code": "52.71.020.002",
+    "villageCode": "002",
+    "districtCode": "52.71.020",
+    "name": "Mataram Timur",
+    "alias": "Mataram Timur"
+  },
+  {
+    "code": "52.71.020.003",
+    "villageCode": "003",
+    "districtCode": "52.71.020",
+    "name": "Pagesangan Barat",
+    "alias": "Pagesangan Barat"
+  },
+  {
+    "code": "52.71.020.004",
+    "villageCode": "004",
+    "districtCode": "52.71.020",
+    "name": "Pagesangan Timur",
+    "alias": "Pagesangan Timur"
+  },
+  {
+    "code": "52.71.020.005",
+    "villageCode": "005",
+    "districtCode": "52.71.020",
+    "name": "Pejanggik",
+    "alias": "Pejanggik"
+  },
+  {
+    "code": "52.71.020.006",
+    "villageCode": "006",
+    "districtCode": "52.71.020",
+    "name": "Punia",
+    "alias": "Punia"
+  },
+  {
+    "code": "52.71.020.007",
+    "villageCode": "007",
+    "districtCode": "52.71.020",
+    "name": "Pagutan",
+    "alias": "Pagutan"
+  },
+  {
+    "code": "52.71.020.008",
+    "villageCode": "008",
+    "districtCode": "52.71.020",
+    "name": "Pagutan Barat",
+    "alias": "Pagutan Barat"
+  },
+  {
+    "code": "52.71.020.009",
+    "villageCode": "009",
+    "districtCode": "52.71.020",
+    "name": "Pagutan Timur",
+    "alias": "Pagutan Timur"
+  }
+]

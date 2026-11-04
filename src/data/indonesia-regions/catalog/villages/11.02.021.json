@@ -1,0 +1,51 @@
+[
+  {
+    "code": "11.02.021.001",
+    "villageCode": "001",
+    "districtCode": "11.02.021",
+    "name": "Gosong Telaga Utara",
+    "alias": "Gosong Telaga Utara"
+  },
+  {
+    "code": "11.02.021.002",
+    "villageCode": "002",
+    "districtCode": "11.02.021",
+    "name": "Gosong Telaga Selatan",
+    "alias": "Gosong Telaga Selatan"
+  },
+  {
+    "code": "11.02.021.003",
+    "villageCode": "003",
+    "districtCode": "11.02.021",
+    "name": "Gosong Telaga Timur",
+    "alias": "Gosong Telaga Timur"
+  },
+  {
+    "code": "11.02.021.004",
+    "villageCode": "004",
+    "districtCode": "11.02.021",
+    "name": "Telaga Bakti",
+    "alias": "Telaga Bakti"
+  },
+  {
+    "code": "11.02.021.005",
+    "villageCode": "005",
+    "districtCode": "11.02.021",
+    "name": "Kampung Baru",
+    "alias": "Kampung Baru"
+  },
+  {
+    "code": "11.02.021.006",
+    "villageCode": "006",
+    "districtCode": "11.02.021",
+    "name": "Ketapang Indah",
+    "alias": "Ketapang Indah"
+  },
+  {
+    "code": "11.02.021.007",
+    "villageCode": "007",
+    "districtCode": "11.02.021",
+    "name": "Gosong Telaga Barat",
+    "alias": "Gosong Telaga Barat"
+  }
+]

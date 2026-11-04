@@ -75,10 +75,6 @@ export function CountriesDialogs(): ReactElement {
                 <span className="text-muted-foreground font-medium">{t('table.phoneCode')}</span>
                 <span className="text-foreground col-span-2 font-mono">{currentRow.phone_code ? `+${currentRow.phone_code}` : '-'}</span>
               </div>
-              <div className="border-border/40 grid grid-cols-3 gap-2 border-b py-1.5">
-                <span className="text-muted-foreground font-medium">{t('table.currency')}</span>
-                <span className="text-foreground col-span-2 font-medium">{currentRow.currency_id ? currentRow.currency_id[1] : '-'}</span>
-              </div>
               <div className="grid grid-cols-3 gap-2 py-1.5">
                 <span className="text-muted-foreground font-medium">{tReg('fields.description')}</span>
                 <span className="text-foreground col-span-2 italic">{currentRow.description || '-'}</span>

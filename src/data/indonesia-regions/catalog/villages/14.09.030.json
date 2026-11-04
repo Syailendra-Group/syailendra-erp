@@ -1,0 +1,72 @@
+[
+  {
+    "code": "14.09.030.007",
+    "villageCode": "007",
+    "districtCode": "14.09.030",
+    "name": "Teluk Merbau",
+    "alias": "Teluk Merbau"
+  },
+  {
+    "code": "14.09.030.008",
+    "villageCode": "008",
+    "districtCode": "14.09.030",
+    "name": "Rantau Panjang Kanan",
+    "alias": "Rantau Panjang Kanan"
+  },
+  {
+    "code": "14.09.030.009",
+    "villageCode": "009",
+    "districtCode": "14.09.030",
+    "name": "Sungai Kubu",
+    "alias": "Sungai Kubu"
+  },
+  {
+    "code": "14.09.030.010",
+    "villageCode": "010",
+    "districtCode": "14.09.030",
+    "name": "Tanjung Leban",
+    "alias": "Tanjung Leban"
+  },
+  {
+    "code": "14.09.030.011",
+    "villageCode": "011",
+    "districtCode": "14.09.030",
+    "name": "Sungai Sigajah",
+    "alias": "Sungai Sigajah"
+  },
+  {
+    "code": "14.09.030.012",
+    "villageCode": "012",
+    "districtCode": "14.09.030",
+    "name": "Teluk Piyai",
+    "alias": "Teluk Piyai"
+  },
+  {
+    "code": "14.09.030.015",
+    "villageCode": "015",
+    "districtCode": "14.09.030",
+    "name": "Sei Segajah Makmur",
+    "alias": "Sei Segajah Makmur"
+  },
+  {
+    "code": "14.09.030.016",
+    "villageCode": "016",
+    "districtCode": "14.09.030",
+    "name": "Sungai Kubu Hulu",
+    "alias": "Sungai Kubu Hulu"
+  },
+  {
+    "code": "14.09.030.017",
+    "villageCode": "017",
+    "districtCode": "14.09.030",
+    "name": "Teluk Piyai Pesisir",
+    "alias": "Teluk Piyai Pesisir"
+  },
+  {
+    "code": "14.09.030.018",
+    "villageCode": "018",
+    "districtCode": "14.09.030",
+    "name": "Sungai Sigajah Jaya",
+    "alias": "Sungai Sigajah Jaya"
+  }
+]

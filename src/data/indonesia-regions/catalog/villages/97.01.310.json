@@ -1,0 +1,30 @@
+[
+  {
+    "code": "97.01.310.001",
+    "villageCode": "001",
+    "districtCode": "97.01.310",
+    "name": "Mandala",
+    "alias": "Mandala"
+  },
+  {
+    "code": "97.01.310.002",
+    "villageCode": "002",
+    "districtCode": "97.01.310",
+    "name": "Pasir Putih",
+    "alias": "Pasir Putih"
+  },
+  {
+    "code": "97.01.310.003",
+    "villageCode": "003",
+    "districtCode": "97.01.310",
+    "name": "Trim",
+    "alias": "Trim"
+  },
+  {
+    "code": "97.01.310.004",
+    "villageCode": "004",
+    "districtCode": "97.01.310",
+    "name": "Benggem",
+    "alias": "Benggem"
+  }
+]

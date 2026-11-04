@@ -1,0 +1,72 @@
+[
+  {
+    "code": "81.04.026.001",
+    "villageCode": "001",
+    "districtCode": "81.04.026",
+    "name": "Nafrua",
+    "alias": "Nafrua"
+  },
+  {
+    "code": "81.04.026.002",
+    "villageCode": "002",
+    "districtCode": "81.04.026",
+    "name": "Wapsalit",
+    "alias": "Wapsalit"
+  },
+  {
+    "code": "81.04.026.003",
+    "villageCode": "003",
+    "districtCode": "81.04.026",
+    "name": "Lele",
+    "alias": "Lele"
+  },
+  {
+    "code": "81.04.026.004",
+    "villageCode": "004",
+    "districtCode": "81.04.026",
+    "name": "Grandeng",
+    "alias": "Grandeng"
+  },
+  {
+    "code": "81.04.026.005",
+    "villageCode": "005",
+    "districtCode": "81.04.026",
+    "name": "Waegeren",
+    "alias": "Waegeren"
+  },
+  {
+    "code": "81.04.026.006",
+    "villageCode": "006",
+    "districtCode": "81.04.026",
+    "name": "Tifu",
+    "alias": "Tifu"
+  },
+  {
+    "code": "81.04.026.007",
+    "villageCode": "007",
+    "districtCode": "81.04.026",
+    "name": "Wanakarta",
+    "alias": "Wanakarta"
+  },
+  {
+    "code": "81.04.026.008",
+    "villageCode": "008",
+    "districtCode": "81.04.026",
+    "name": "Wabloy",
+    "alias": "Wabloy"
+  },
+  {
+    "code": "81.04.026.009",
+    "villageCode": "009",
+    "districtCode": "81.04.026",
+    "name": "Kubalahin",
+    "alias": "Kubalahin"
+  },
+  {
+    "code": "81.04.026.010",
+    "villageCode": "010",
+    "districtCode": "81.04.026",
+    "name": "Ohilahin",
+    "alias": "Ohilahin"
+  }
+]

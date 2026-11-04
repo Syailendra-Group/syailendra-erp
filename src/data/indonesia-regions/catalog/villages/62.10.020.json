@@ -1,0 +1,114 @@
+[
+  {
+    "code": "62.10.020.001",
+    "villageCode": "001",
+    "districtCode": "62.10.020",
+    "name": "Dandang",
+    "alias": "Dandang"
+  },
+  {
+    "code": "62.10.020.002",
+    "villageCode": "002",
+    "districtCode": "62.10.020",
+    "name": "Talio",
+    "alias": "Talio"
+  },
+  {
+    "code": "62.10.020.003",
+    "villageCode": "003",
+    "districtCode": "62.10.020",
+    "name": "Gadabung",
+    "alias": "Gadabung"
+  },
+  {
+    "code": "62.10.020.004",
+    "villageCode": "004",
+    "districtCode": "62.10.020",
+    "name": "Belanti Siam",
+    "alias": "Belanti Siam"
+  },
+  {
+    "code": "62.10.020.005",
+    "villageCode": "005",
+    "districtCode": "62.10.020",
+    "name": "Pangkoh Hilir",
+    "alias": "Pangkoh Hilir"
+  },
+  {
+    "code": "62.10.020.006",
+    "villageCode": "006",
+    "districtCode": "62.10.020",
+    "name": "Talio Muara",
+    "alias": "Talio Muara"
+  },
+  {
+    "code": "62.10.020.007",
+    "villageCode": "007",
+    "districtCode": "62.10.020",
+    "name": "Talio Hulu",
+    "alias": "Talio Hulu"
+  },
+  {
+    "code": "62.10.020.008",
+    "villageCode": "008",
+    "districtCode": "62.10.020",
+    "name": "Pangkoh Sari",
+    "alias": "Pangkoh Sari"
+  },
+  {
+    "code": "62.10.020.009",
+    "villageCode": "009",
+    "districtCode": "62.10.020",
+    "name": "Kantan Muara",
+    "alias": "Kantan Muara"
+  },
+  {
+    "code": "62.10.020.010",
+    "villageCode": "010",
+    "districtCode": "62.10.020",
+    "name": "Pangkoh Hulu",
+    "alias": "Pangkoh Hulu"
+  },
+  {
+    "code": "62.10.020.011",
+    "villageCode": "011",
+    "districtCode": "62.10.020",
+    "name": "Sanggang",
+    "alias": "Sanggang"
+  },
+  {
+    "code": "62.10.020.012",
+    "villageCode": "012",
+    "districtCode": "62.10.020",
+    "name": "Pantik",
+    "alias": "Pantik"
+  },
+  {
+    "code": "62.10.020.013",
+    "villageCode": "013",
+    "districtCode": "62.10.020",
+    "name": "Mulyasari",
+    "alias": "Mulyasari"
+  },
+  {
+    "code": "62.10.020.014",
+    "villageCode": "014",
+    "districtCode": "62.10.020",
+    "name": "Kantan Dalam",
+    "alias": "Kantan Dalam"
+  },
+  {
+    "code": "62.10.020.015",
+    "villageCode": "015",
+    "districtCode": "62.10.020",
+    "name": "Kantan Atas",
+    "alias": "Kantan Atas"
+  },
+  {
+    "code": "62.10.020.016",
+    "villageCode": "016",
+    "districtCode": "62.10.020",
+    "name": "Karya Bersama",
+    "alias": "Karya Bersama"
+  }
+]

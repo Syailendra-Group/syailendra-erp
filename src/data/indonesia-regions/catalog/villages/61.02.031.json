@@ -1,0 +1,79 @@
+[
+  {
+    "code": "61.02.031.001",
+    "villageCode": "001",
+    "districtCode": "61.02.031",
+    "name": "Goa Boma",
+    "alias": "Goa Boma"
+  },
+  {
+    "code": "61.02.031.002",
+    "villageCode": "002",
+    "districtCode": "61.02.031",
+    "name": "Monterado",
+    "alias": "Monterado"
+  },
+  {
+    "code": "61.02.031.003",
+    "villageCode": "003",
+    "districtCode": "61.02.031",
+    "name": "Serindu",
+    "alias": "Serindu"
+  },
+  {
+    "code": "61.02.031.004",
+    "villageCode": "004",
+    "districtCode": "61.02.031",
+    "name": "Beringin Baru",
+    "alias": "Beringin Baru"
+  },
+  {
+    "code": "61.02.031.005",
+    "villageCode": "005",
+    "districtCode": "61.02.031",
+    "name": "Gerantung",
+    "alias": "Gerantung"
+  },
+  {
+    "code": "61.02.031.007",
+    "villageCode": "007",
+    "districtCode": "61.02.031",
+    "name": "Jahandung",
+    "alias": "Jahandung"
+  },
+  {
+    "code": "61.02.031.008",
+    "villageCode": "008",
+    "districtCode": "61.02.031",
+    "name": "Siaga",
+    "alias": "Siaga"
+  },
+  {
+    "code": "61.02.031.009",
+    "villageCode": "009",
+    "districtCode": "61.02.031",
+    "name": "Nek Ginap",
+    "alias": "Nek Ginap"
+  },
+  {
+    "code": "61.02.031.011",
+    "villageCode": "011",
+    "districtCode": "61.02.031",
+    "name": "Sendoreng",
+    "alias": "Sendoreng"
+  },
+  {
+    "code": "61.02.031.012",
+    "villageCode": "012",
+    "districtCode": "61.02.031",
+    "name": "Rantau",
+    "alias": "Rantau"
+  },
+  {
+    "code": "61.02.031.013",
+    "villageCode": "013",
+    "districtCode": "61.02.031",
+    "name": "Mekar Baru",
+    "alias": "Mekar Baru"
+  }
+]

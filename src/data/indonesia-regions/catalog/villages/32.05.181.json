@@ -1,0 +1,86 @@
+[
+  {
+    "code": "32.05.181.001",
+    "villageCode": "001",
+    "districtCode": "32.05.181",
+    "name": "Kersamenak",
+    "alias": "Kersamenak"
+  },
+  {
+    "code": "32.05.181.002",
+    "villageCode": "002",
+    "districtCode": "32.05.181",
+    "name": "Cibunar",
+    "alias": "Cibunar"
+  },
+  {
+    "code": "32.05.181.003",
+    "villageCode": "003",
+    "districtCode": "32.05.181",
+    "name": "Sukabakti",
+    "alias": "Sukabakti"
+  },
+  {
+    "code": "32.05.181.004",
+    "villageCode": "004",
+    "districtCode": "32.05.181",
+    "name": "Sukakarya",
+    "alias": "Sukakarya"
+  },
+  {
+    "code": "32.05.181.005",
+    "villageCode": "005",
+    "districtCode": "32.05.181",
+    "name": "Sukajaya",
+    "alias": "Sukajaya"
+  },
+  {
+    "code": "32.05.181.006",
+    "villageCode": "006",
+    "districtCode": "32.05.181",
+    "name": "Jayawaras",
+    "alias": "Jayawaras"
+  },
+  {
+    "code": "32.05.181.007",
+    "villageCode": "007",
+    "districtCode": "32.05.181",
+    "name": "Haurpanggung",
+    "alias": "Haurpanggung"
+  },
+  {
+    "code": "32.05.181.008",
+    "villageCode": "008",
+    "districtCode": "32.05.181",
+    "name": "Jayaraga",
+    "alias": "Jayaraga"
+  },
+  {
+    "code": "32.05.181.009",
+    "villageCode": "009",
+    "districtCode": "32.05.181",
+    "name": "Pataruman",
+    "alias": "Pataruman"
+  },
+  {
+    "code": "32.05.181.010",
+    "villageCode": "010",
+    "districtCode": "32.05.181",
+    "name": "Sukagalih",
+    "alias": "Sukagalih"
+  },
+  {
+    "code": "32.05.181.011",
+    "villageCode": "011",
+    "districtCode": "32.05.181",
+    "name": "Mekargalih",
+    "alias": "Mekargalih"
+  },
+  {
+    "code": "32.05.181.012",
+    "villageCode": "012",
+    "districtCode": "32.05.181",
+    "name": "Tarogong",
+    "alias": "Tarogong"
+  }
+]

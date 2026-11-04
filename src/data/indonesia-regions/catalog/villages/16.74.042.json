@@ -1,0 +1,72 @@
+[
+  {
+    "code": "16.74.042.001",
+    "villageCode": "001",
+    "districtCode": "16.74.042",
+    "name": "Ulak Surung",
+    "alias": "Ulak Surung"
+  },
+  {
+    "code": "16.74.042.002",
+    "villageCode": "002",
+    "districtCode": "16.74.042",
+    "name": "Pasar Satelit",
+    "alias": "Pasar Satelit"
+  },
+  {
+    "code": "16.74.042.003",
+    "villageCode": "003",
+    "districtCode": "16.74.042",
+    "name": "Kenanga",
+    "alias": "Kenanga"
+  },
+  {
+    "code": "16.74.042.004",
+    "villageCode": "004",
+    "districtCode": "16.74.042",
+    "name": "Senalang",
+    "alias": "Senalang"
+  },
+  {
+    "code": "16.74.042.005",
+    "villageCode": "005",
+    "districtCode": "16.74.042",
+    "name": "Batu Urip",
+    "alias": "Batu Urip"
+  },
+  {
+    "code": "16.74.042.006",
+    "villageCode": "006",
+    "districtCode": "16.74.042",
+    "name": "Megang",
+    "alias": "Megang"
+  },
+  {
+    "code": "16.74.042.007",
+    "villageCode": "007",
+    "districtCode": "16.74.042",
+    "name": "Ponorogo",
+    "alias": "Ponorogo"
+  },
+  {
+    "code": "16.74.042.008",
+    "villageCode": "008",
+    "districtCode": "16.74.042",
+    "name": "Jogoboyo",
+    "alias": "Jogoboyo"
+  },
+  {
+    "code": "16.74.042.009",
+    "villageCode": "009",
+    "districtCode": "16.74.042",
+    "name": "Puncak Kemuning",
+    "alias": "Puncak Kemuning"
+  },
+  {
+    "code": "16.74.042.010",
+    "villageCode": "010",
+    "districtCode": "16.74.042",
+    "name": "Kali Serayu",
+    "alias": "Kali Serayu"
+  }
+]

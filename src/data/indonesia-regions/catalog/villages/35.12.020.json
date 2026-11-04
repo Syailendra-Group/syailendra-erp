@@ -1,0 +1,58 @@
+[
+  {
+    "code": "35.12.020.001",
+    "villageCode": "001",
+    "districtCode": "35.12.020",
+    "name": "Patemon",
+    "alias": "Patemon"
+  },
+  {
+    "code": "35.12.020.002",
+    "villageCode": "002",
+    "districtCode": "35.12.020",
+    "name": "Kembangsari",
+    "alias": "Kembangsari"
+  },
+  {
+    "code": "35.12.020.003",
+    "villageCode": "003",
+    "districtCode": "35.12.020",
+    "name": "Pategalan",
+    "alias": "Pategalan"
+  },
+  {
+    "code": "35.12.020.004",
+    "villageCode": "004",
+    "districtCode": "35.12.020",
+    "name": "Semambung",
+    "alias": "Semambung"
+  },
+  {
+    "code": "35.12.020.005",
+    "villageCode": "005",
+    "districtCode": "35.12.020",
+    "name": "Sumberanyar",
+    "alias": "Sumberanyar"
+  },
+  {
+    "code": "35.12.020.006",
+    "villageCode": "006",
+    "districtCode": "35.12.020",
+    "name": "Jatibanteng",
+    "alias": "Jatibanteng"
+  },
+  {
+    "code": "35.12.020.007",
+    "villageCode": "007",
+    "districtCode": "35.12.020",
+    "name": "Wringinanom",
+    "alias": "Wringinanom"
+  },
+  {
+    "code": "35.12.020.008",
+    "villageCode": "008",
+    "districtCode": "35.12.020",
+    "name": "Curahsuri",
+    "alias": "Curahsuri"
+  }
+]

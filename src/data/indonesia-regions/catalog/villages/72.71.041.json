@@ -1,0 +1,37 @@
+[
+  {
+    "code": "72.71.041.001",
+    "villageCode": "001",
+    "districtCode": "72.71.041",
+    "name": "Panau",
+    "alias": "Panau"
+  },
+  {
+    "code": "72.71.041.002",
+    "villageCode": "002",
+    "districtCode": "72.71.041",
+    "name": "Lambara",
+    "alias": "Lambara"
+  },
+  {
+    "code": "72.71.041.003",
+    "villageCode": "003",
+    "districtCode": "72.71.041",
+    "name": "Baiya",
+    "alias": "Baiya"
+  },
+  {
+    "code": "72.71.041.004",
+    "villageCode": "004",
+    "districtCode": "72.71.041",
+    "name": "Pantoloan",
+    "alias": "Pantoloan"
+  },
+  {
+    "code": "72.71.041.005",
+    "villageCode": "005",
+    "districtCode": "72.71.041",
+    "name": "Pantoloan Boya",
+    "alias": "Pantoloan Boya"
+  }
+]

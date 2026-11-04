@@ -1,0 +1,86 @@
+[
+  {
+    "code": "21.04.030.001",
+    "villageCode": "001",
+    "districtCode": "21.04.030",
+    "name": "Pekajang",
+    "alias": "Pekajang"
+  },
+  {
+    "code": "21.04.030.004",
+    "villageCode": "004",
+    "districtCode": "21.04.030",
+    "name": "Kelumu",
+    "alias": "Kelumu"
+  },
+  {
+    "code": "21.04.030.005",
+    "villageCode": "005",
+    "districtCode": "21.04.030",
+    "name": "Mepar",
+    "alias": "Mepar"
+  },
+  {
+    "code": "21.04.030.006",
+    "villageCode": "006",
+    "districtCode": "21.04.030",
+    "name": "Kelombok",
+    "alias": "Kelombok"
+  },
+  {
+    "code": "21.04.030.007",
+    "villageCode": "007",
+    "districtCode": "21.04.030",
+    "name": "Merawang",
+    "alias": "Merawang"
+  },
+  {
+    "code": "21.04.030.008",
+    "villageCode": "008",
+    "districtCode": "21.04.030",
+    "name": "Daik",
+    "alias": "Daik"
+  },
+  {
+    "code": "21.04.030.009",
+    "villageCode": "009",
+    "districtCode": "21.04.030",
+    "name": "Panggak Darat",
+    "alias": "Panggak Darat"
+  },
+  {
+    "code": "21.04.030.010",
+    "villageCode": "010",
+    "districtCode": "21.04.030",
+    "name": "Panggak Laut",
+    "alias": "Panggak Laut"
+  },
+  {
+    "code": "21.04.030.011",
+    "villageCode": "011",
+    "districtCode": "21.04.030",
+    "name": "Musai",
+    "alias": "Musai"
+  },
+  {
+    "code": "21.04.030.016",
+    "villageCode": "016",
+    "districtCode": "21.04.030",
+    "name": "Mentuda",
+    "alias": "Mentuda"
+  },
+  {
+    "code": "21.04.030.017",
+    "villageCode": "017",
+    "districtCode": "21.04.030",
+    "name": "Nerekeh",
+    "alias": "Nerekeh"
+  },
+  {
+    "code": "21.04.030.018",
+    "villageCode": "018",
+    "districtCode": "21.04.030",
+    "name": "Desa Persiapan Cempaka",
+    "alias": "Desa Persiapan Cempaka"
+  }
+]

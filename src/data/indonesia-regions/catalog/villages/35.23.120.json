@@ -1,0 +1,121 @@
+[
+  {
+    "code": "35.23.120.003",
+    "villageCode": "003",
+    "districtCode": "35.23.120",
+    "name": "Ngino",
+    "alias": "Ngino"
+  },
+  {
+    "code": "35.23.120.005",
+    "villageCode": "005",
+    "districtCode": "35.23.120",
+    "name": "Bektiharjo",
+    "alias": "Bektiharjo"
+  },
+  {
+    "code": "35.23.120.006",
+    "villageCode": "006",
+    "districtCode": "35.23.120",
+    "name": "Sambongrejo",
+    "alias": "Sambongrejo"
+  },
+  {
+    "code": "35.23.120.007",
+    "villageCode": "007",
+    "districtCode": "35.23.120",
+    "name": "Genaharjo",
+    "alias": "Genaharjo"
+  },
+  {
+    "code": "35.23.120.008",
+    "villageCode": "008",
+    "districtCode": "35.23.120",
+    "name": "Gesing",
+    "alias": "Gesing"
+  },
+  {
+    "code": "35.23.120.009",
+    "villageCode": "009",
+    "districtCode": "35.23.120",
+    "name": "Tunah",
+    "alias": "Tunah"
+  },
+  {
+    "code": "35.23.120.010",
+    "villageCode": "010",
+    "districtCode": "35.23.120",
+    "name": "Kowang",
+    "alias": "Kowang"
+  },
+  {
+    "code": "35.23.120.011",
+    "villageCode": "011",
+    "districtCode": "35.23.120",
+    "name": "Penambangan",
+    "alias": "Penambangan"
+  },
+  {
+    "code": "35.23.120.012",
+    "villageCode": "012",
+    "districtCode": "35.23.120",
+    "name": "Semanding",
+    "alias": "Semanding"
+  },
+  {
+    "code": "35.23.120.013",
+    "villageCode": "013",
+    "districtCode": "35.23.120",
+    "name": "Prunggahan Wetan",
+    "alias": "Prunggahan Wetan"
+  },
+  {
+    "code": "35.23.120.014",
+    "villageCode": "014",
+    "districtCode": "35.23.120",
+    "name": "Prunggahan Kulon",
+    "alias": "Prunggahan Kulon"
+  },
+  {
+    "code": "35.23.120.015",
+    "villageCode": "015",
+    "districtCode": "35.23.120",
+    "name": "Jadi",
+    "alias": "Jadi"
+  },
+  {
+    "code": "35.23.120.016",
+    "villageCode": "016",
+    "districtCode": "35.23.120",
+    "name": "Boto",
+    "alias": "Boto"
+  },
+  {
+    "code": "35.23.120.017",
+    "villageCode": "017",
+    "districtCode": "35.23.120",
+    "name": "Tegalagung",
+    "alias": "Tegalagung"
+  },
+  {
+    "code": "35.23.120.018",
+    "villageCode": "018",
+    "districtCode": "35.23.120",
+    "name": "Bejagung",
+    "alias": "Bejagung"
+  },
+  {
+    "code": "35.23.120.019",
+    "villageCode": "019",
+    "districtCode": "35.23.120",
+    "name": "Gedongombo",
+    "alias": "Gedongombo"
+  },
+  {
+    "code": "35.23.120.020",
+    "villageCode": "020",
+    "districtCode": "35.23.120",
+    "name": "Karang",
+    "alias": "Karang"
+  }
+]

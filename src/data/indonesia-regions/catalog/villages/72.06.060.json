@@ -1,0 +1,72 @@
+[
+  {
+    "code": "72.06.060.005",
+    "villageCode": "005",
+    "districtCode": "72.06.060",
+    "name": "Santigi",
+    "alias": "Santigi"
+  },
+  {
+    "code": "72.06.060.006",
+    "villageCode": "006",
+    "districtCode": "72.06.060",
+    "name": "Laulalang",
+    "alias": "Laulalang"
+  },
+  {
+    "code": "72.06.060.007",
+    "villageCode": "007",
+    "districtCode": "72.06.060",
+    "name": "Salumpaga",
+    "alias": "Salumpaga"
+  },
+  {
+    "code": "72.06.060.008",
+    "villageCode": "008",
+    "districtCode": "72.06.060",
+    "name": "Diule",
+    "alias": "Diule"
+  },
+  {
+    "code": "72.06.060.009",
+    "villageCode": "009",
+    "districtCode": "72.06.060",
+    "name": "Pinjan",
+    "alias": "Pinjan"
+  },
+  {
+    "code": "72.06.060.010",
+    "villageCode": "010",
+    "districtCode": "72.06.060",
+    "name": "Binontoan",
+    "alias": "Binontoan"
+  },
+  {
+    "code": "72.06.060.011",
+    "villageCode": "011",
+    "districtCode": "72.06.060",
+    "name": "Lakuan Tolitoli",
+    "alias": "Lakuan Tolitoli"
+  },
+  {
+    "code": "72.06.060.012",
+    "villageCode": "012",
+    "districtCode": "72.06.060",
+    "name": "Teluk Jaya",
+    "alias": "Teluk Jaya"
+  },
+  {
+    "code": "72.06.060.013",
+    "villageCode": "013",
+    "districtCode": "72.06.060",
+    "name": "Timbolo",
+    "alias": "Timbolo"
+  },
+  {
+    "code": "72.06.060.014",
+    "villageCode": "014",
+    "districtCode": "72.06.060",
+    "name": "Gio",
+    "alias": "Gio"
+  }
+]

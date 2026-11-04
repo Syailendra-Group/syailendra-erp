@@ -1,0 +1,114 @@
+[
+  {
+    "code": "15.05.060.001",
+    "villageCode": "001",
+    "districtCode": "15.05.060",
+    "name": "Tantan",
+    "alias": "Tantan"
+  },
+  {
+    "code": "15.05.060.002",
+    "villageCode": "002",
+    "districtCode": "15.05.060",
+    "name": "Kedotan",
+    "alias": "Kedotan"
+  },
+  {
+    "code": "15.05.060.003",
+    "villageCode": "003",
+    "districtCode": "15.05.060",
+    "name": "Keranggan",
+    "alias": "Keranggan"
+  },
+  {
+    "code": "15.05.060.004",
+    "villageCode": "004",
+    "districtCode": "15.05.060",
+    "name": "Sekernan",
+    "alias": "Sekernan"
+  },
+  {
+    "code": "15.05.060.005",
+    "villageCode": "005",
+    "districtCode": "15.05.060",
+    "name": "Tunas Baru",
+    "alias": "Tunas Baru"
+  },
+  {
+    "code": "15.05.060.006",
+    "villageCode": "006",
+    "districtCode": "15.05.060",
+    "name": "Berembang",
+    "alias": "Berembang"
+  },
+  {
+    "code": "15.05.060.007",
+    "villageCode": "007",
+    "districtCode": "15.05.060",
+    "name": "Pematang Pulai",
+    "alias": "Pematang Pulai"
+  },
+  {
+    "code": "15.05.060.008",
+    "villageCode": "008",
+    "districtCode": "15.05.060",
+    "name": "Pulau Kayu Aro",
+    "alias": "Pulau Kayu Aro"
+  },
+  {
+    "code": "15.05.060.009",
+    "villageCode": "009",
+    "districtCode": "15.05.060",
+    "name": "Rantau Majo",
+    "alias": "Rantau Majo"
+  },
+  {
+    "code": "15.05.060.010",
+    "villageCode": "010",
+    "districtCode": "15.05.060",
+    "name": "Sengeti",
+    "alias": "Sengeti"
+  },
+  {
+    "code": "15.05.060.011",
+    "villageCode": "011",
+    "districtCode": "15.05.060",
+    "name": "Bukit Baling",
+    "alias": "Bukit Baling"
+  },
+  {
+    "code": "15.05.060.012",
+    "villageCode": "012",
+    "districtCode": "15.05.060",
+    "name": "Gerunggung",
+    "alias": "Gerunggung"
+  },
+  {
+    "code": "15.05.060.013",
+    "villageCode": "013",
+    "districtCode": "15.05.060",
+    "name": "Suak Putat",
+    "alias": "Suak Putat"
+  },
+  {
+    "code": "15.05.060.014",
+    "villageCode": "014",
+    "districtCode": "15.05.060",
+    "name": "Tanjung Lanjut",
+    "alias": "Tanjung Lanjut"
+  },
+  {
+    "code": "15.05.060.015",
+    "villageCode": "015",
+    "districtCode": "15.05.060",
+    "name": "Suko Awin Jaya",
+    "alias": "Suko Awin Jaya"
+  },
+  {
+    "code": "15.05.060.016",
+    "villageCode": "016",
+    "districtCode": "15.05.060",
+    "name": "Tunas Mudo",
+    "alias": "Tunas Mudo"
+  }
+]

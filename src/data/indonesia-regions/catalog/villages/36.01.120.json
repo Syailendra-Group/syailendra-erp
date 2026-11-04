@@ -1,0 +1,65 @@
+[
+  {
+    "code": "36.01.120.001",
+    "villageCode": "001",
+    "districtCode": "36.01.120",
+    "name": "Cigondang",
+    "alias": "Cigondang"
+  },
+  {
+    "code": "36.01.120.002",
+    "villageCode": "002",
+    "districtCode": "36.01.120",
+    "name": "Sukamaju",
+    "alias": "Sukamaju"
+  },
+  {
+    "code": "36.01.120.003",
+    "villageCode": "003",
+    "districtCode": "36.01.120",
+    "name": "Rancateureup",
+    "alias": "Rancateureup"
+  },
+  {
+    "code": "36.01.120.004",
+    "villageCode": "004",
+    "districtCode": "36.01.120",
+    "name": "Kalanganyar",
+    "alias": "Kalanganyar"
+  },
+  {
+    "code": "36.01.120.005",
+    "villageCode": "005",
+    "districtCode": "36.01.120",
+    "name": "Labuan",
+    "alias": "Labuan"
+  },
+  {
+    "code": "36.01.120.006",
+    "villageCode": "006",
+    "districtCode": "36.01.120",
+    "name": "Teluk",
+    "alias": "Teluk"
+  },
+  {
+    "code": "36.01.120.007",
+    "villageCode": "007",
+    "districtCode": "36.01.120",
+    "name": "Banyumekar",
+    "alias": "Banyumekar"
+  },
+  {
+    "code": "36.01.120.008",
+    "villageCode": "008",
+    "districtCode": "36.01.120",
+    "name": "Banyubiru",
+    "alias": "Banyubiru"
+  },
+  {
+    "code": "36.01.120.009",
+    "villageCode": "009",
+    "districtCode": "36.01.120",
+    "name": "Caringin",
+    "alias": "Caringin"
+  }
+]

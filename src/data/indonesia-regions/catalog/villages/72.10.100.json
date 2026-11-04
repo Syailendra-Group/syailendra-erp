@@ -1,0 +1,37 @@
+[
+  {
+    "code": "72.10.100.001",
+    "villageCode": "001",
+    "districtCode": "72.10.100",
+    "name": "Lambara",
+    "alias": "Lambara"
+  },
+  {
+    "code": "72.10.100.002",
+    "villageCode": "002",
+    "districtCode": "72.10.100",
+    "name": "Sibalaya Selatan",
+    "alias": "Sibalaya Selatan"
+  },
+  {
+    "code": "72.10.100.003",
+    "villageCode": "003",
+    "districtCode": "72.10.100",
+    "name": "Sibalaya Utara",
+    "alias": "Sibalaya Utara"
+  },
+  {
+    "code": "72.10.100.004",
+    "villageCode": "004",
+    "districtCode": "72.10.100",
+    "name": "Sibowi",
+    "alias": "Sibowi"
+  },
+  {
+    "code": "72.10.100.005",
+    "villageCode": "005",
+    "districtCode": "72.10.100",
+    "name": "Sibalaya Barat",
+    "alias": "Sibalaya Barat"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "code": "36.03.051.001",
+    "villageCode": "001",
+    "districtCode": "36.03.051",
+    "name": "Bojong Nangka",
+    "alias": "Bojong Nangka"
+  },
+  {
+    "code": "36.03.051.002",
+    "villageCode": "002",
+    "districtCode": "36.03.051",
+    "name": "Curug Sangereng",
+    "alias": "Curug Sangereng"
+  },
+  {
+    "code": "36.03.051.003",
+    "villageCode": "003",
+    "districtCode": "36.03.051",
+    "name": "Pakulonan Barat",
+    "alias": "Pakulonan Barat"
+  },
+  {
+    "code": "36.03.051.004",
+    "villageCode": "004",
+    "districtCode": "36.03.051",
+    "name": "Kelapa Dua",
+    "alias": "Kelapa Dua"
+  },
+  {
+    "code": "36.03.051.005",
+    "villageCode": "005",
+    "districtCode": "36.03.051",
+    "name": "Bencongan Indah",
+    "alias": "Bencongan Indah"
+  },
+  {
+    "code": "36.03.051.006",
+    "villageCode": "006",
+    "districtCode": "36.03.051",
+    "name": "Bencongan",
+    "alias": "Bencongan"
+  }
+]

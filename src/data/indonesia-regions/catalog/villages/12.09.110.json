@@ -1,0 +1,100 @@
+[
+  {
+    "code": "12.09.110.001",
+    "villageCode": "001",
+    "districtCode": "12.09.110",
+    "name": "Cingkes",
+    "alias": "Cingkes"
+  },
+  {
+    "code": "12.09.110.002",
+    "villageCode": "002",
+    "districtCode": "12.09.110",
+    "name": "Paribuan",
+    "alias": "Paribuan"
+  },
+  {
+    "code": "12.09.110.003",
+    "villageCode": "003",
+    "districtCode": "12.09.110",
+    "name": "Saran Padang",
+    "alias": "Saran Padang"
+  },
+  {
+    "code": "12.09.110.004",
+    "villageCode": "004",
+    "districtCode": "12.09.110",
+    "name": "Mariah Dolok",
+    "alias": "Mariah Dolok"
+  },
+  {
+    "code": "12.09.110.005",
+    "villageCode": "005",
+    "districtCode": "12.09.110",
+    "name": "Dolok Mariah",
+    "alias": "Dolok Mariah"
+  },
+  {
+    "code": "12.09.110.006",
+    "villageCode": "006",
+    "districtCode": "12.09.110",
+    "name": "Marubun Lokkung",
+    "alias": "Marubun Lokkung"
+  },
+  {
+    "code": "12.09.110.007",
+    "villageCode": "007",
+    "districtCode": "12.09.110",
+    "name": "Bawang",
+    "alias": "Bawang"
+  },
+  {
+    "code": "12.09.110.008",
+    "villageCode": "008",
+    "districtCode": "12.09.110",
+    "name": "Huta Saing",
+    "alias": "Huta Saing"
+  },
+  {
+    "code": "12.09.110.009",
+    "villageCode": "009",
+    "districtCode": "12.09.110",
+    "name": "Togur",
+    "alias": "Togur"
+  },
+  {
+    "code": "12.09.110.010",
+    "villageCode": "010",
+    "districtCode": "12.09.110",
+    "name": "Perasmian",
+    "alias": "Perasmian"
+  },
+  {
+    "code": "12.09.110.011",
+    "villageCode": "011",
+    "districtCode": "12.09.110",
+    "name": "Tanjung Purba",
+    "alias": "Tanjung Purba"
+  },
+  {
+    "code": "12.09.110.012",
+    "villageCode": "012",
+    "districtCode": "12.09.110",
+    "name": "Ujung Bawang",
+    "alias": "Ujung Bawang"
+  },
+  {
+    "code": "12.09.110.013",
+    "villageCode": "013",
+    "districtCode": "12.09.110",
+    "name": "Silau Marawan",
+    "alias": "Silau Marawan"
+  },
+  {
+    "code": "12.09.110.014",
+    "villageCode": "014",
+    "districtCode": "12.09.110",
+    "name": "Bosi Sinombah",
+    "alias": "Bosi Sinombah"
+  }
+]

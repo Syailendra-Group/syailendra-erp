@@ -1,0 +1,37 @@
+[
+  {
+    "code": "65.03.050.001",
+    "villageCode": "001",
+    "districtCode": "65.03.050",
+    "name": "Tanah Merah",
+    "alias": "Tanah Merah"
+  },
+  {
+    "code": "65.03.050.002",
+    "villageCode": "002",
+    "districtCode": "65.03.050",
+    "name": "Sambungan",
+    "alias": "Sambungan"
+  },
+  {
+    "code": "65.03.050.003",
+    "villageCode": "003",
+    "districtCode": "65.03.050",
+    "name": "Tengku Dacing",
+    "alias": "Tengku Dacing"
+  },
+  {
+    "code": "65.03.050.004",
+    "villageCode": "004",
+    "districtCode": "65.03.050",
+    "name": "Tanah Merah Barat",
+    "alias": "Tanah Merah Barat"
+  },
+  {
+    "code": "65.03.050.005",
+    "villageCode": "005",
+    "districtCode": "65.03.050",
+    "name": "Sambungan Selatan",
+    "alias": "Sambungan Selatan"
+  }
+]

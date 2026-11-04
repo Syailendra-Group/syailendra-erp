@@ -1,0 +1,72 @@
+[
+  {
+    "code": "71.02.110.004",
+    "villageCode": "004",
+    "districtCode": "71.02.110",
+    "name": "Kamanga",
+    "alias": "Kamanga"
+  },
+  {
+    "code": "71.02.110.005",
+    "villageCode": "005",
+    "districtCode": "71.02.110",
+    "name": "Tember",
+    "alias": "Tember"
+  },
+  {
+    "code": "71.02.110.006",
+    "villageCode": "006",
+    "districtCode": "71.02.110",
+    "name": "Liba",
+    "alias": "Liba"
+  },
+  {
+    "code": "71.02.110.007",
+    "villageCode": "007",
+    "districtCode": "71.02.110",
+    "name": "Sendangan",
+    "alias": "Sendangan"
+  },
+  {
+    "code": "71.02.110.008",
+    "villageCode": "008",
+    "districtCode": "71.02.110",
+    "name": "Talikuran",
+    "alias": "Talikuran"
+  },
+  {
+    "code": "71.02.110.010",
+    "villageCode": "010",
+    "districtCode": "71.02.110",
+    "name": "Tempok",
+    "alias": "Tempok"
+  },
+  {
+    "code": "71.02.110.011",
+    "villageCode": "011",
+    "districtCode": "71.02.110",
+    "name": "Tolok",
+    "alias": "Tolok"
+  },
+  {
+    "code": "71.02.110.013",
+    "villageCode": "013",
+    "districtCode": "71.02.110",
+    "name": "Kamanga Dua",
+    "alias": "Kamanga Dua"
+  },
+  {
+    "code": "71.02.110.018",
+    "villageCode": "018",
+    "districtCode": "71.02.110",
+    "name": "Tempok Selatan",
+    "alias": "Tempok Selatan"
+  },
+  {
+    "code": "71.02.110.019",
+    "villageCode": "019",
+    "districtCode": "71.02.110",
+    "name": "Tolok Satu",
+    "alias": "Tolok Satu"
+  }
+]

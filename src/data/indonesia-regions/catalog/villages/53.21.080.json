@@ -1,0 +1,37 @@
+[
+  {
+    "code": "53.21.080.001",
+    "villageCode": "001",
+    "districtCode": "53.21.080",
+    "name": "Babotin Selatan",
+    "alias": "Babotin Selatan"
+  },
+  {
+    "code": "53.21.080.002",
+    "villageCode": "002",
+    "districtCode": "53.21.080",
+    "name": "Babotin",
+    "alias": "Babotin"
+  },
+  {
+    "code": "53.21.080.003",
+    "villageCode": "003",
+    "districtCode": "53.21.080",
+    "name": "Babotin Maemina",
+    "alias": "Babotin Maemina"
+  },
+  {
+    "code": "53.21.080.004",
+    "villageCode": "004",
+    "districtCode": "53.21.080",
+    "name": "Takarai",
+    "alias": "Takarai"
+  },
+  {
+    "code": "53.21.080.005",
+    "villageCode": "005",
+    "districtCode": "53.21.080",
+    "name": "Kereana",
+    "alias": "Kereana"
+  }
+]

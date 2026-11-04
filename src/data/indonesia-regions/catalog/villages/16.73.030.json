@@ -1,0 +1,58 @@
+[
+  {
+    "code": "16.73.030.001",
+    "villageCode": "001",
+    "districtCode": "16.73.030",
+    "name": "Tanjung Agung",
+    "alias": "Tanjung Agung"
+  },
+  {
+    "code": "16.73.030.002",
+    "villageCode": "002",
+    "districtCode": "16.73.030",
+    "name": "Ulu Rurah",
+    "alias": "Ulu Rurah"
+  },
+  {
+    "code": "16.73.030.003",
+    "villageCode": "003",
+    "districtCode": "16.73.030",
+    "name": "Tumbak Ulas",
+    "alias": "Tumbak Ulas"
+  },
+  {
+    "code": "16.73.030.004",
+    "villageCode": "004",
+    "districtCode": "16.73.030",
+    "name": "Basemah Serasan",
+    "alias": "Basemah Serasan"
+  },
+  {
+    "code": "16.73.030.005",
+    "villageCode": "005",
+    "districtCode": "16.73.030",
+    "name": "Tebat Giri Indah",
+    "alias": "Tebat Giri Indah"
+  },
+  {
+    "code": "16.73.030.006",
+    "villageCode": "006",
+    "districtCode": "16.73.030",
+    "name": "Sidorejo",
+    "alias": "Sidorejo"
+  },
+  {
+    "code": "16.73.030.007",
+    "villageCode": "007",
+    "districtCode": "16.73.030",
+    "name": "Nendagung",
+    "alias": "Nendagung"
+  },
+  {
+    "code": "16.73.030.008",
+    "villageCode": "008",
+    "districtCode": "16.73.030",
+    "name": "Gunung Dempo",
+    "alias": "Gunung Dempo"
+  }
+]

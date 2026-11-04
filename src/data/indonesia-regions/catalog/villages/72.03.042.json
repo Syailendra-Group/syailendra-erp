@@ -1,0 +1,65 @@
+[
+  {
+    "code": "72.03.042.001",
+    "villageCode": "001",
+    "districtCode": "72.03.042",
+    "name": "Puntari Makmur",
+    "alias": "Puntari Makmur"
+  },
+  {
+    "code": "72.03.042.002",
+    "villageCode": "002",
+    "districtCode": "72.03.042",
+    "name": "Sampeantaba",
+    "alias": "Sampeantaba"
+  },
+  {
+    "code": "72.03.042.003",
+    "villageCode": "003",
+    "districtCode": "72.03.042",
+    "name": "Lantula Jaya",
+    "alias": "Lantula Jaya"
+  },
+  {
+    "code": "72.03.042.004",
+    "villageCode": "004",
+    "districtCode": "72.03.042",
+    "name": "Bumi Harapan",
+    "alias": "Bumi Harapan"
+  },
+  {
+    "code": "72.03.042.005",
+    "villageCode": "005",
+    "districtCode": "72.03.042",
+    "name": "Emea",
+    "alias": "Emea"
+  },
+  {
+    "code": "72.03.042.006",
+    "villageCode": "006",
+    "districtCode": "72.03.042",
+    "name": "Moahino",
+    "alias": "Moahino"
+  },
+  {
+    "code": "72.03.042.007",
+    "villageCode": "007",
+    "districtCode": "72.03.042",
+    "name": "Ungkaya",
+    "alias": "Ungkaya"
+  },
+  {
+    "code": "72.03.042.008",
+    "villageCode": "008",
+    "districtCode": "72.03.042",
+    "name": "Solonsa Jaya",
+    "alias": "Solonsa Jaya"
+  },
+  {
+    "code": "72.03.042.009",
+    "villageCode": "009",
+    "districtCode": "72.03.042",
+    "name": "Solonsa",
+    "alias": "Solonsa"
+  }
+]

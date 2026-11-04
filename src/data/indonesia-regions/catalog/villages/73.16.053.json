@@ -1,0 +1,37 @@
+[
+  {
+    "code": "73.16.053.001",
+    "villageCode": "001",
+    "districtCode": "73.16.053",
+    "name": "Baroko",
+    "alias": "Baroko"
+  },
+  {
+    "code": "73.16.053.002",
+    "villageCode": "002",
+    "districtCode": "73.16.053",
+    "name": "Tongko",
+    "alias": "Tongko"
+  },
+  {
+    "code": "73.16.053.003",
+    "villageCode": "003",
+    "districtCode": "73.16.053",
+    "name": "Patongloan",
+    "alias": "Patongloan"
+  },
+  {
+    "code": "73.16.053.004",
+    "villageCode": "004",
+    "districtCode": "73.16.053",
+    "name": "Benteng Alla Utara",
+    "alias": "Benteng Alla Utara"
+  },
+  {
+    "code": "73.16.053.005",
+    "villageCode": "005",
+    "districtCode": "73.16.053",
+    "name": "Benteng Alla",
+    "alias": "Benteng Alla"
+  }
+]

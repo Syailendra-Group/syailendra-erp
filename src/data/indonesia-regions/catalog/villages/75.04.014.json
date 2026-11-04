@@ -1,0 +1,44 @@
+[
+  {
+    "code": "75.04.014.001",
+    "villageCode": "001",
+    "districtCode": "75.04.014",
+    "name": "Owata",
+    "alias": "Owata"
+  },
+  {
+    "code": "75.04.014.002",
+    "villageCode": "002",
+    "districtCode": "75.04.014",
+    "name": "Mongiilo",
+    "alias": "Mongiilo"
+  },
+  {
+    "code": "75.04.014.003",
+    "villageCode": "003",
+    "districtCode": "75.04.014",
+    "name": "Mongilo Utara",
+    "alias": "Mongilo Utara"
+  },
+  {
+    "code": "75.04.014.004",
+    "villageCode": "004",
+    "districtCode": "75.04.014",
+    "name": "Pilolaheya",
+    "alias": "Pilolaheya"
+  },
+  {
+    "code": "75.04.014.005",
+    "villageCode": "005",
+    "districtCode": "75.04.014",
+    "name": "Ilomata",
+    "alias": "Ilomata"
+  },
+  {
+    "code": "75.04.014.006",
+    "villageCode": "006",
+    "districtCode": "75.04.014",
+    "name": "Suka Makmur",
+    "alias": "Suka Makmur"
+  }
+]

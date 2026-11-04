@@ -1,0 +1,82 @@
+[
+  {
+    "code": "12.01.060",
+    "districtCode": "060",
+    "regencyCode": "12.01",
+    "provinceCode": "12",
+    "name": "Kecamatan Idano Gawo",
+    "alias": "Idano Gawo"
+  },
+  {
+    "code": "12.01.061",
+    "districtCode": "061",
+    "regencyCode": "12.01",
+    "provinceCode": "12",
+    "name": "Kecamatan Bawolato",
+    "alias": "Bawolato"
+  },
+  {
+    "code": "12.01.062",
+    "districtCode": "062",
+    "regencyCode": "12.01",
+    "provinceCode": "12",
+    "name": "Kecamatan Ulugawo",
+    "alias": "Ulugawo"
+  },
+  {
+    "code": "12.01.070",
+    "districtCode": "070",
+    "regencyCode": "12.01",
+    "provinceCode": "12",
+    "name": "Kecamatan Gido",
+    "alias": "Gido"
+  },
+  {
+    "code": "12.01.071",
+    "districtCode": "071",
+    "regencyCode": "12.01",
+    "provinceCode": "12",
+    "name": "Kecamatan Sogaeadu",
+    "alias": "Sogaeadu"
+  },
+  {
+    "code": "12.01.081",
+    "districtCode": "081",
+    "regencyCode": "12.01",
+    "provinceCode": "12",
+    "name": "Kecamatan Ma U",
+    "alias": "Ma U"
+  },
+  {
+    "code": "12.01.082",
+    "districtCode": "082",
+    "regencyCode": "12.01",
+    "provinceCode": "12",
+    "name": "Kecamatan Somolo - Molo",
+    "alias": "Somolo - Molo"
+  },
+  {
+    "code": "12.01.130",
+    "districtCode": "130",
+    "regencyCode": "12.01",
+    "provinceCode": "12",
+    "name": "Kecamatan Hiliduho",
+    "alias": "Hiliduho"
+  },
+  {
+    "code": "12.01.131",
+    "districtCode": "131",
+    "regencyCode": "12.01",
+    "provinceCode": "12",
+    "name": "Kecamatan Hili Serangkai",
+    "alias": "Hili Serangkai"
+  },
+  {
+    "code": "12.01.132",
+    "districtCode": "132",
+    "regencyCode": "12.01",
+    "provinceCode": "12",
+    "name": "Kecamatan Botomuzoi",
+    "alias": "Botomuzoi"
+  }
+]

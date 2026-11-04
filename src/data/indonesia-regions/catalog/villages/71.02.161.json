@@ -1,0 +1,72 @@
+[
+  {
+    "code": "71.02.161.001",
+    "villageCode": "001",
+    "districtCode": "71.02.161",
+    "name": "Ranotongkor",
+    "alias": "Ranotongkor"
+  },
+  {
+    "code": "71.02.161.002",
+    "villageCode": "002",
+    "districtCode": "71.02.161",
+    "name": "Lolah Satu",
+    "alias": "Lolah Satu"
+  },
+  {
+    "code": "71.02.161.003",
+    "villageCode": "003",
+    "districtCode": "71.02.161",
+    "name": "Lolah Dua",
+    "alias": "Lolah Dua"
+  },
+  {
+    "code": "71.02.161.004",
+    "villageCode": "004",
+    "districtCode": "71.02.161",
+    "name": "Lemoh",
+    "alias": "Lemoh"
+  },
+  {
+    "code": "71.02.161.005",
+    "villageCode": "005",
+    "districtCode": "71.02.161",
+    "name": "Lemoh Timur",
+    "alias": "Lemoh Timur"
+  },
+  {
+    "code": "71.02.161.006",
+    "villageCode": "006",
+    "districtCode": "71.02.161",
+    "name": "Lemoh Barat",
+    "alias": "Lemoh Barat"
+  },
+  {
+    "code": "71.02.161.007",
+    "villageCode": "007",
+    "districtCode": "71.02.161",
+    "name": "Ranotongkor Timur",
+    "alias": "Ranotongkor Timur"
+  },
+  {
+    "code": "71.02.161.008",
+    "villageCode": "008",
+    "districtCode": "71.02.161",
+    "name": "Lolah Tiga",
+    "alias": "Lolah Tiga"
+  },
+  {
+    "code": "71.02.161.009",
+    "villageCode": "009",
+    "districtCode": "71.02.161",
+    "name": "Lolah",
+    "alias": "Lolah"
+  },
+  {
+    "code": "71.02.161.010",
+    "villageCode": "010",
+    "districtCode": "71.02.161",
+    "name": "Lemoh Uner",
+    "alias": "Lemoh Uner"
+  }
+]

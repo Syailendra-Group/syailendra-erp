@@ -1,0 +1,30 @@
+[
+  {
+    "code": "32.05.111.001",
+    "villageCode": "001",
+    "districtCode": "32.05.111",
+    "name": "Cisangkal",
+    "alias": "Cisangkal"
+  },
+  {
+    "code": "32.05.111.002",
+    "villageCode": "002",
+    "districtCode": "32.05.111",
+    "name": "Jayamukti",
+    "alias": "Jayamukti"
+  },
+  {
+    "code": "32.05.111.003",
+    "villageCode": "003",
+    "districtCode": "32.05.111",
+    "name": "Cihurip",
+    "alias": "Cihurip"
+  },
+  {
+    "code": "32.05.111.004",
+    "villageCode": "004",
+    "districtCode": "32.05.111",
+    "name": "Mekarwangi",
+    "alias": "Mekarwangi"
+  }
+]

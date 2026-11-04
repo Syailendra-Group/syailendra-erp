@@ -1,0 +1,58 @@
+[
+  {
+    "code": "97.03.070.001",
+    "villageCode": "001",
+    "districtCode": "97.03.070",
+    "name": "Ekanom",
+    "alias": "Ekanom"
+  },
+  {
+    "code": "97.03.070.002",
+    "villageCode": "002",
+    "districtCode": "97.03.070",
+    "name": "Umbanume",
+    "alias": "Umbanume"
+  },
+  {
+    "code": "97.03.070.003",
+    "villageCode": "003",
+    "districtCode": "97.03.070",
+    "name": "Yalipak",
+    "alias": "Yalipak"
+  },
+  {
+    "code": "97.03.070.004",
+    "villageCode": "004",
+    "districtCode": "97.03.070",
+    "name": "Amberingime",
+    "alias": "Amberingime"
+  },
+  {
+    "code": "97.03.070.005",
+    "villageCode": "005",
+    "districtCode": "97.03.070",
+    "name": "Aniwo",
+    "alias": "Aniwo"
+  },
+  {
+    "code": "97.03.070.006",
+    "villageCode": "006",
+    "districtCode": "97.03.070",
+    "name": "Bugumbak",
+    "alias": "Bugumbak"
+  },
+  {
+    "code": "97.03.070.007",
+    "villageCode": "007",
+    "districtCode": "97.03.070",
+    "name": "Yugumbinik",
+    "alias": "Yugumbinik"
+  },
+  {
+    "code": "97.03.070.008",
+    "villageCode": "008",
+    "districtCode": "97.03.070",
+    "name": "Wenam",
+    "alias": "Wenam"
+  }
+]

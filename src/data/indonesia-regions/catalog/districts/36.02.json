@@ -1,0 +1,226 @@
+[
+  {
+    "code": "36.02.010",
+    "districtCode": "010",
+    "regencyCode": "36.02",
+    "provinceCode": "36",
+    "name": "Kecamatan Malingping",
+    "alias": "Malingping"
+  },
+  {
+    "code": "36.02.011",
+    "districtCode": "011",
+    "regencyCode": "36.02",
+    "provinceCode": "36",
+    "name": "Kecamatan Wanasalam",
+    "alias": "Wanasalam"
+  },
+  {
+    "code": "36.02.020",
+    "districtCode": "020",
+    "regencyCode": "36.02",
+    "provinceCode": "36",
+    "name": "Kecamatan Panggarangan",
+    "alias": "Panggarangan"
+  },
+  {
+    "code": "36.02.021",
+    "districtCode": "021",
+    "regencyCode": "36.02",
+    "provinceCode": "36",
+    "name": "Kecamatan Cihara",
+    "alias": "Cihara"
+  },
+  {
+    "code": "36.02.030",
+    "districtCode": "030",
+    "regencyCode": "36.02",
+    "provinceCode": "36",
+    "name": "Kecamatan Bayah",
+    "alias": "Bayah"
+  },
+  {
+    "code": "36.02.031",
+    "districtCode": "031",
+    "regencyCode": "36.02",
+    "provinceCode": "36",
+    "name": "Kecamatan Cilograng",
+    "alias": "Cilograng"
+  },
+  {
+    "code": "36.02.040",
+    "districtCode": "040",
+    "regencyCode": "36.02",
+    "provinceCode": "36",
+    "name": "Kecamatan Cibeber",
+    "alias": "Cibeber"
+  },
+  {
+    "code": "36.02.050",
+    "districtCode": "050",
+    "regencyCode": "36.02",
+    "provinceCode": "36",
+    "name": "Kecamatan Cijaku",
+    "alias": "Cijaku"
+  },
+  {
+    "code": "36.02.051",
+    "districtCode": "051",
+    "regencyCode": "36.02",
+    "provinceCode": "36",
+    "name": "Kecamatan Cigemblong",
+    "alias": "Cigemblong"
+  },
+  {
+    "code": "36.02.060",
+    "districtCode": "060",
+    "regencyCode": "36.02",
+    "provinceCode": "36",
+    "name": "Kecamatan Banjarsari",
+    "alias": "Banjarsari"
+  },
+  {
+    "code": "36.02.070",
+    "districtCode": "070",
+    "regencyCode": "36.02",
+    "provinceCode": "36",
+    "name": "Kecamatan Cileles",
+    "alias": "Cileles"
+  },
+  {
+    "code": "36.02.080",
+    "districtCode": "080",
+    "regencyCode": "36.02",
+    "provinceCode": "36",
+    "name": "Kecamatan Gunung Kencana",
+    "alias": "Gunung Kencana"
+  },
+  {
+    "code": "36.02.090",
+    "districtCode": "090",
+    "regencyCode": "36.02",
+    "provinceCode": "36",
+    "name": "Kecamatan Bojongmanik",
+    "alias": "Bojongmanik"
+  },
+  {
+    "code": "36.02.091",
+    "districtCode": "091",
+    "regencyCode": "36.02",
+    "provinceCode": "36",
+    "name": "Kecamatan Cirinten",
+    "alias": "Cirinten"
+  },
+  {
+    "code": "36.02.100",
+    "districtCode": "100",
+    "regencyCode": "36.02",
+    "provinceCode": "36",
+    "name": "Kecamatan Leuwidamar",
+    "alias": "Leuwidamar"
+  },
+  {
+    "code": "36.02.110",
+    "districtCode": "110",
+    "regencyCode": "36.02",
+    "provinceCode": "36",
+    "name": "Kecamatan Muncang",
+    "alias": "Muncang"
+  },
+  {
+    "code": "36.02.111",
+    "districtCode": "111",
+    "regencyCode": "36.02",
+    "provinceCode": "36",
+    "name": "Kecamatan Sobang",
+    "alias": "Sobang"
+  },
+  {
+    "code": "36.02.120",
+    "districtCode": "120",
+    "regencyCode": "36.02",
+    "provinceCode": "36",
+    "name": "Kecamatan Cipanas",
+    "alias": "Cipanas"
+  },
+  {
+    "code": "36.02.121",
+    "districtCode": "121",
+    "regencyCode": "36.02",
+    "provinceCode": "36",
+    "name": "Kecamatan Lebakgedong",
+    "alias": "Lebakgedong"
+  },
+  {
+    "code": "36.02.130",
+    "districtCode": "130",
+    "regencyCode": "36.02",
+    "provinceCode": "36",
+    "name": "Kecamatan Sajira",
+    "alias": "Sajira"
+  },
+  {
+    "code": "36.02.140",
+    "districtCode": "140",
+    "regencyCode": "36.02",
+    "provinceCode": "36",
+    "name": "Kecamatan Cimarga",
+    "alias": "Cimarga"
+  },
+  {
+    "code": "36.02.150",
+    "districtCode": "150",
+    "regencyCode": "36.02",
+    "provinceCode": "36",
+    "name": "Kecamatan Cikulur",
+    "alias": "Cikulur"
+  },
+  {
+    "code": "36.02.160",
+    "districtCode": "160",
+    "regencyCode": "36.02",
+    "provinceCode": "36",
+    "name": "Kecamatan Warunggunung",
+    "alias": "Warunggunung"
+  },
+  {
+    "code": "36.02.170",
+    "districtCode": "170",
+    "regencyCode": "36.02",
+    "provinceCode": "36",
+    "name": "Kecamatan Cibadak",
+    "alias": "Cibadak"
+  },
+  {
+    "code": "36.02.180",
+    "districtCode": "180",
+    "regencyCode": "36.02",
+    "provinceCode": "36",
+    "name": "Kecamatan Rangkasbitung",
+    "alias": "Rangkasbitung"
+  },
+  {
+    "code": "36.02.181",
+    "districtCode": "181",
+    "regencyCode": "36.02",
+    "provinceCode": "36",
+    "name": "Kecamatan Kalanganyar",
+    "alias": "Kalanganyar"
+  },
+  {
+    "code": "36.02.190",
+    "districtCode": "190",
+    "regencyCode": "36.02",
+    "provinceCode": "36",
+    "name": "Kecamatan Maja",
+    "alias": "Maja"
+  },
+  {
+    "code": "36.02.191",
+    "districtCode": "191",
+    "regencyCode": "36.02",
+    "provinceCode": "36",
+    "name": "Kecamatan Curugbitung",
+    "alias": "Curugbitung"
+  }
+]

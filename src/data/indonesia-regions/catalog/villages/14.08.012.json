@@ -1,0 +1,93 @@
+[
+  {
+    "code": "14.08.012.001",
+    "villageCode": "001",
+    "districtCode": "14.08.012",
+    "name": "Buluh Manis",
+    "alias": "Buluh Manis"
+  },
+  {
+    "code": "14.08.012.002",
+    "villageCode": "002",
+    "districtCode": "14.08.012",
+    "name": "Petani",
+    "alias": "Petani"
+  },
+  {
+    "code": "14.08.012.003",
+    "villageCode": "003",
+    "districtCode": "14.08.012",
+    "name": "Tambusai Batang Dui",
+    "alias": "Tambusai Batang Dui"
+  },
+  {
+    "code": "14.08.012.004",
+    "villageCode": "004",
+    "districtCode": "14.08.012",
+    "name": "Simpang Padang",
+    "alias": "Simpang Padang"
+  },
+  {
+    "code": "14.08.012.005",
+    "villageCode": "005",
+    "districtCode": "14.08.012",
+    "name": "Pematang Obo",
+    "alias": "Pematang Obo"
+  },
+  {
+    "code": "14.08.012.006",
+    "villageCode": "006",
+    "districtCode": "14.08.012",
+    "name": "Balai Makam",
+    "alias": "Balai Makam"
+  },
+  {
+    "code": "14.08.012.007",
+    "villageCode": "007",
+    "districtCode": "14.08.012",
+    "name": "Air Kulim",
+    "alias": "Air Kulim"
+  },
+  {
+    "code": "14.08.012.008",
+    "villageCode": "008",
+    "districtCode": "14.08.012",
+    "name": "Boncah Mahang",
+    "alias": "Boncah Mahang"
+  },
+  {
+    "code": "14.08.012.009",
+    "villageCode": "009",
+    "districtCode": "14.08.012",
+    "name": "Sebangar",
+    "alias": "Sebangar"
+  },
+  {
+    "code": "14.08.012.010",
+    "villageCode": "010",
+    "districtCode": "14.08.012",
+    "name": "Pamesi",
+    "alias": "Pamesi"
+  },
+  {
+    "code": "14.08.012.011",
+    "villageCode": "011",
+    "districtCode": "14.08.012",
+    "name": "Bumbung",
+    "alias": "Bumbung"
+  },
+  {
+    "code": "14.08.012.012",
+    "villageCode": "012",
+    "districtCode": "14.08.012",
+    "name": "Kesumbo Ampai",
+    "alias": "Kesumbo Ampai"
+  },
+  {
+    "code": "14.08.012.013",
+    "villageCode": "013",
+    "districtCode": "14.08.012",
+    "name": "Bathin Sobanga",
+    "alias": "Bathin Sobanga"
+  }
+]

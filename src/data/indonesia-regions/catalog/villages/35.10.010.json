@@ -1,0 +1,37 @@
+[
+  {
+    "code": "35.10.010.001",
+    "villageCode": "001",
+    "districtCode": "35.10.010",
+    "name": "Sarongan",
+    "alias": "Sarongan"
+  },
+  {
+    "code": "35.10.010.002",
+    "villageCode": "002",
+    "districtCode": "35.10.010",
+    "name": "Kandangan",
+    "alias": "Kandangan"
+  },
+  {
+    "code": "35.10.010.003",
+    "villageCode": "003",
+    "districtCode": "35.10.010",
+    "name": "Sumberagung",
+    "alias": "Sumberagung"
+  },
+  {
+    "code": "35.10.010.004",
+    "villageCode": "004",
+    "districtCode": "35.10.010",
+    "name": "Pesanggaran",
+    "alias": "Pesanggaran"
+  },
+  {
+    "code": "35.10.010.009",
+    "villageCode": "009",
+    "districtCode": "35.10.010",
+    "name": "Sumbermulyo",
+    "alias": "Sumbermulyo"
+  }
+]

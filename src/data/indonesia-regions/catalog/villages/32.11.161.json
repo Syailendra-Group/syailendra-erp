@@ -1,0 +1,51 @@
+[
+  {
+    "code": "32.11.161.001",
+    "villageCode": "001",
+    "districtCode": "32.11.161",
+    "name": "Cisalak",
+    "alias": "Cisalak"
+  },
+  {
+    "code": "32.11.161.002",
+    "villageCode": "002",
+    "districtCode": "32.11.161",
+    "name": "Kebonkalapa",
+    "alias": "Kebonkalapa"
+  },
+  {
+    "code": "32.11.161.003",
+    "villageCode": "003",
+    "districtCode": "32.11.161",
+    "name": "Cisarua",
+    "alias": "Cisarua"
+  },
+  {
+    "code": "32.11.161.004",
+    "villageCode": "004",
+    "districtCode": "32.11.161",
+    "name": "Bantarmara",
+    "alias": "Bantarmara"
+  },
+  {
+    "code": "32.11.161.005",
+    "villageCode": "005",
+    "districtCode": "32.11.161",
+    "name": "Ciuyah",
+    "alias": "Ciuyah"
+  },
+  {
+    "code": "32.11.161.006",
+    "villageCode": "006",
+    "districtCode": "32.11.161",
+    "name": "Cimara",
+    "alias": "Cimara"
+  },
+  {
+    "code": "32.11.161.007",
+    "villageCode": "007",
+    "districtCode": "32.11.161",
+    "name": "Cipandanwangi",
+    "alias": "Cipandanwangi"
+  }
+]

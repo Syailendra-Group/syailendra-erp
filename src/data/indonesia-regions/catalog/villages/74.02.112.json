@@ -1,0 +1,30 @@
+[
+  {
+    "code": "74.02.112.001",
+    "villageCode": "001",
+    "districtCode": "74.02.112",
+    "name": "Baluara",
+    "alias": "Baluara"
+  },
+  {
+    "code": "74.02.112.002",
+    "villageCode": "002",
+    "districtCode": "74.02.112",
+    "name": "Moolo",
+    "alias": "Moolo"
+  },
+  {
+    "code": "74.02.112.003",
+    "villageCode": "003",
+    "districtCode": "74.02.112",
+    "name": "Lanobake",
+    "alias": "Lanobake"
+  },
+  {
+    "code": "74.02.112.004",
+    "villageCode": "004",
+    "districtCode": "74.02.112",
+    "name": "Bone-Bone",
+    "alias": "Bone-Bone"
+  }
+]

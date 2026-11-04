@@ -1,0 +1,65 @@
+[
+  {
+    "code": "95.04.030.006",
+    "villageCode": "006",
+    "districtCode": "95.04.030",
+    "name": "Ambisu",
+    "alias": "Ambisu"
+  },
+  {
+    "code": "95.04.030.010",
+    "villageCode": "010",
+    "districtCode": "95.04.030",
+    "name": "Yasiu/Yaisu",
+    "alias": "Yasiu/Yaisu"
+  },
+  {
+    "code": "95.04.030.011",
+    "villageCode": "011",
+    "districtCode": "95.04.030",
+    "name": "Atsy",
+    "alias": "Atsy"
+  },
+  {
+    "code": "95.04.030.012",
+    "villageCode": "012",
+    "districtCode": "95.04.030",
+    "name": "Amanamkai",
+    "alias": "Amanamkai"
+  },
+  {
+    "code": "95.04.030.013",
+    "villageCode": "013",
+    "districtCode": "95.04.030",
+    "name": "Bipim",
+    "alias": "Bipim"
+  },
+  {
+    "code": "95.04.030.014",
+    "villageCode": "014",
+    "districtCode": "95.04.030",
+    "name": "Bine",
+    "alias": "Bine"
+  },
+  {
+    "code": "95.04.030.015",
+    "villageCode": "015",
+    "districtCode": "95.04.030",
+    "name": "Sogoni",
+    "alias": "Sogoni"
+  },
+  {
+    "code": "95.04.030.024",
+    "villageCode": "024",
+    "districtCode": "95.04.030",
+    "name": "Bakasei",
+    "alias": "Bakasei"
+  },
+  {
+    "code": "95.04.030.028",
+    "villageCode": "028",
+    "districtCode": "95.04.030",
+    "name": "Cewewyamew",
+    "alias": "Cewewyamew"
+  }
+]

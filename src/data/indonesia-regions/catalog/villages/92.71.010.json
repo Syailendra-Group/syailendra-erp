@@ -1,0 +1,30 @@
+[
+  {
+    "code": "92.71.010.001",
+    "villageCode": "001",
+    "districtCode": "92.71.010",
+    "name": "Klasuat",
+    "alias": "Klasuat"
+  },
+  {
+    "code": "92.71.010.002",
+    "villageCode": "002",
+    "districtCode": "92.71.010",
+    "name": "Klablim",
+    "alias": "Klablim"
+  },
+  {
+    "code": "92.71.010.003",
+    "villageCode": "003",
+    "districtCode": "92.71.010",
+    "name": "Klasaman",
+    "alias": "Klasaman"
+  },
+  {
+    "code": "92.71.010.004",
+    "villageCode": "004",
+    "districtCode": "92.71.010",
+    "name": "Giwu",
+    "alias": "Giwu"
+  }
+]

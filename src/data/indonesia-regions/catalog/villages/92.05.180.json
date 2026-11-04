@@ -1,0 +1,65 @@
+[
+  {
+    "code": "92.05.180.001",
+    "villageCode": "001",
+    "districtCode": "92.05.180",
+    "name": "Manggapnut",
+    "alias": "Manggapnut"
+  },
+  {
+    "code": "92.05.180.002",
+    "villageCode": "002",
+    "districtCode": "92.05.180",
+    "name": "Waramui",
+    "alias": "Waramui"
+  },
+  {
+    "code": "92.05.180.003",
+    "villageCode": "003",
+    "districtCode": "92.05.180",
+    "name": "Wefiani",
+    "alias": "Wefiani"
+  },
+  {
+    "code": "92.05.180.004",
+    "villageCode": "004",
+    "districtCode": "92.05.180",
+    "name": "Warpaperi",
+    "alias": "Warpaperi"
+  },
+  {
+    "code": "92.05.180.005",
+    "villageCode": "005",
+    "districtCode": "92.05.180",
+    "name": "Binmaks",
+    "alias": "Binmaks"
+  },
+  {
+    "code": "92.05.180.006",
+    "villageCode": "006",
+    "districtCode": "92.05.180",
+    "name": "Kabibwan",
+    "alias": "Kabibwan"
+  },
+  {
+    "code": "92.05.180.007",
+    "villageCode": "007",
+    "districtCode": "92.05.180",
+    "name": "Wasarak",
+    "alias": "Wasarak"
+  },
+  {
+    "code": "92.05.180.008",
+    "villageCode": "008",
+    "districtCode": "92.05.180",
+    "name": "Saukorem",
+    "alias": "Saukorem"
+  },
+  {
+    "code": "92.05.180.009",
+    "villageCode": "009",
+    "districtCode": "92.05.180",
+    "name": "Binasi",
+    "alias": "Binasi"
+  }
+]

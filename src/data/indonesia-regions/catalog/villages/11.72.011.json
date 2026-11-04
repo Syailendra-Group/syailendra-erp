@@ -1,0 +1,44 @@
+[
+  {
+    "code": "11.72.011.001",
+    "villageCode": "001",
+    "districtCode": "11.72.011",
+    "name": "Beurawang",
+    "alias": "Beurawang"
+  },
+  {
+    "code": "11.72.011.002",
+    "villageCode": "002",
+    "districtCode": "11.72.011",
+    "name": "Keuneukai",
+    "alias": "Keuneukai"
+  },
+  {
+    "code": "11.72.011.003",
+    "villageCode": "003",
+    "districtCode": "11.72.011",
+    "name": "Paya",
+    "alias": "Paya"
+  },
+  {
+    "code": "11.72.011.004",
+    "villageCode": "004",
+    "districtCode": "11.72.011",
+    "name": "Batee Shoek",
+    "alias": "Batee Shoek"
+  },
+  {
+    "code": "11.72.011.005",
+    "villageCode": "005",
+    "districtCode": "11.72.011",
+    "name": "Paya Seunara",
+    "alias": "Paya Seunara"
+  },
+  {
+    "code": "11.72.011.006",
+    "villageCode": "006",
+    "districtCode": "11.72.011",
+    "name": "Iboih",
+    "alias": "Iboih"
+  }
+]

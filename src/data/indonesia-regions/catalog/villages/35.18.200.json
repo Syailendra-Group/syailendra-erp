@@ -1,0 +1,79 @@
+[
+  {
+    "code": "35.18.200.001",
+    "villageCode": "001",
+    "districtCode": "35.18.200",
+    "name": "Perning",
+    "alias": "Perning"
+  },
+  {
+    "code": "35.18.200.002",
+    "villageCode": "002",
+    "districtCode": "35.18.200",
+    "name": "Ngasem",
+    "alias": "Ngasem"
+  },
+  {
+    "code": "35.18.200.003",
+    "villageCode": "003",
+    "districtCode": "35.18.200",
+    "name": "Gondang Wetan",
+    "alias": "Gondang Wetan"
+  },
+  {
+    "code": "35.18.200.004",
+    "villageCode": "004",
+    "districtCode": "35.18.200",
+    "name": "Jatikalen",
+    "alias": "Jatikalen"
+  },
+  {
+    "code": "35.18.200.005",
+    "villageCode": "005",
+    "districtCode": "35.18.200",
+    "name": "Dlururejo",
+    "alias": "Dlururejo"
+  },
+  {
+    "code": "35.18.200.006",
+    "villageCode": "006",
+    "districtCode": "35.18.200",
+    "name": "Begendeng",
+    "alias": "Begendeng"
+  },
+  {
+    "code": "35.18.200.007",
+    "villageCode": "007",
+    "districtCode": "35.18.200",
+    "name": "Lumpang Kuwik",
+    "alias": "Lumpang Kuwik"
+  },
+  {
+    "code": "35.18.200.008",
+    "villageCode": "008",
+    "districtCode": "35.18.200",
+    "name": "Dawuhan",
+    "alias": "Dawuhan"
+  },
+  {
+    "code": "35.18.200.009",
+    "villageCode": "009",
+    "districtCode": "35.18.200",
+    "name": "Munung",
+    "alias": "Munung"
+  },
+  {
+    "code": "35.18.200.010",
+    "villageCode": "010",
+    "districtCode": "35.18.200",
+    "name": "Pulowetan",
+    "alias": "Pulowetan"
+  },
+  {
+    "code": "35.18.200.011",
+    "villageCode": "011",
+    "districtCode": "35.18.200",
+    "name": "Pule",
+    "alias": "Pule"
+  }
+]

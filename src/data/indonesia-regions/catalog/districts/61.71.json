@@ -1,0 +1,50 @@
+[
+  {
+    "code": "61.71.010",
+    "districtCode": "010",
+    "regencyCode": "61.71",
+    "provinceCode": "61",
+    "name": "Kecamatan Pontianak Selatan",
+    "alias": "Pontianak Selatan"
+  },
+  {
+    "code": "61.71.011",
+    "districtCode": "011",
+    "regencyCode": "61.71",
+    "provinceCode": "61",
+    "name": "Kecamatan Pontianak Tenggara",
+    "alias": "Pontianak Tenggara"
+  },
+  {
+    "code": "61.71.020",
+    "districtCode": "020",
+    "regencyCode": "61.71",
+    "provinceCode": "61",
+    "name": "Kecamatan Pontianak Timur",
+    "alias": "Pontianak Timur"
+  },
+  {
+    "code": "61.71.030",
+    "districtCode": "030",
+    "regencyCode": "61.71",
+    "provinceCode": "61",
+    "name": "Kecamatan Pontianak Barat",
+    "alias": "Pontianak Barat"
+  },
+  {
+    "code": "61.71.031",
+    "districtCode": "031",
+    "regencyCode": "61.71",
+    "provinceCode": "61",
+    "name": "Kecamatan Pontianak Kota",
+    "alias": "Pontianak Kota"
+  },
+  {
+    "code": "61.71.040",
+    "districtCode": "040",
+    "regencyCode": "61.71",
+    "provinceCode": "61",
+    "name": "Kecamatan Pontianak Utara",
+    "alias": "Pontianak Utara"
+  }
+]

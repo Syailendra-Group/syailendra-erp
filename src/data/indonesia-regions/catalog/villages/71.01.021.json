@@ -1,0 +1,86 @@
+[
+  {
+    "code": "71.01.021.001",
+    "villageCode": "001",
+    "districtCode": "71.01.021",
+    "name": "Toraut",
+    "alias": "Toraut"
+  },
+  {
+    "code": "71.01.021.002",
+    "villageCode": "002",
+    "districtCode": "71.01.021",
+    "name": "Matayangan",
+    "alias": "Matayangan"
+  },
+  {
+    "code": "71.01.021.003",
+    "villageCode": "003",
+    "districtCode": "71.01.021",
+    "name": "Uuwan",
+    "alias": "Uuwan"
+  },
+  {
+    "code": "71.01.021.004",
+    "villageCode": "004",
+    "districtCode": "71.01.021",
+    "name": "Ikhwan",
+    "alias": "Ikhwan"
+  },
+  {
+    "code": "71.01.021.005",
+    "villageCode": "005",
+    "districtCode": "71.01.021",
+    "name": "Doloduo",
+    "alias": "Doloduo"
+  },
+  {
+    "code": "71.01.021.006",
+    "villageCode": "006",
+    "districtCode": "71.01.021",
+    "name": "Mekaruo",
+    "alias": "Mekaruo"
+  },
+  {
+    "code": "71.01.021.007",
+    "villageCode": "007",
+    "districtCode": "71.01.021",
+    "name": "Wangga Baru",
+    "alias": "Wangga Baru"
+  },
+  {
+    "code": "71.01.021.008",
+    "villageCode": "008",
+    "districtCode": "71.01.021",
+    "name": "Toraut Utara",
+    "alias": "Toraut Utara"
+  },
+  {
+    "code": "71.01.021.009",
+    "villageCode": "009",
+    "districtCode": "71.01.021",
+    "name": "Doloduo I",
+    "alias": "Doloduo I"
+  },
+  {
+    "code": "71.01.021.010",
+    "villageCode": "010",
+    "districtCode": "71.01.021",
+    "name": "Doloduo Ii",
+    "alias": "Doloduo Ii"
+  },
+  {
+    "code": "71.01.021.011",
+    "villageCode": "011",
+    "districtCode": "71.01.021",
+    "name": "Doloduo Iii",
+    "alias": "Doloduo Iii"
+  },
+  {
+    "code": "71.01.021.012",
+    "villageCode": "012",
+    "districtCode": "71.01.021",
+    "name": "Toraut Tengah",
+    "alias": "Toraut Tengah"
+  }
+]

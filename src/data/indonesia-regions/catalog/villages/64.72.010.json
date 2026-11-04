@@ -1,0 +1,37 @@
+[
+  {
+    "code": "64.72.010.001",
+    "villageCode": "001",
+    "districtCode": "64.72.010",
+    "name": "Simpang Pasir",
+    "alias": "Simpang Pasir"
+  },
+  {
+    "code": "64.72.010.002",
+    "villageCode": "002",
+    "districtCode": "64.72.010",
+    "name": "Handil Bakti",
+    "alias": "Handil Bakti"
+  },
+  {
+    "code": "64.72.010.003",
+    "villageCode": "003",
+    "districtCode": "64.72.010",
+    "name": "Bantuas",
+    "alias": "Bantuas"
+  },
+  {
+    "code": "64.72.010.004",
+    "villageCode": "004",
+    "districtCode": "64.72.010",
+    "name": "Bukuan",
+    "alias": "Bukuan"
+  },
+  {
+    "code": "64.72.010.005",
+    "villageCode": "005",
+    "districtCode": "64.72.010",
+    "name": "Rawa Makmur",
+    "alias": "Rawa Makmur"
+  }
+]

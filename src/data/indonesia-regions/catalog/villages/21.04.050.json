@@ -1,0 +1,51 @@
+[
+  {
+    "code": "21.04.050.001",
+    "villageCode": "001",
+    "districtCode": "21.04.050",
+    "name": "Mamut",
+    "alias": "Mamut"
+  },
+  {
+    "code": "21.04.050.002",
+    "villageCode": "002",
+    "districtCode": "21.04.050",
+    "name": "Senayang",
+    "alias": "Senayang"
+  },
+  {
+    "code": "21.04.050.013",
+    "villageCode": "013",
+    "districtCode": "21.04.050",
+    "name": "Penaah",
+    "alias": "Penaah"
+  },
+  {
+    "code": "21.04.050.014",
+    "villageCode": "014",
+    "districtCode": "21.04.050",
+    "name": "Laboh",
+    "alias": "Laboh"
+  },
+  {
+    "code": "21.04.050.015",
+    "villageCode": "015",
+    "districtCode": "21.04.050",
+    "name": "Baran",
+    "alias": "Baran"
+  },
+  {
+    "code": "21.04.050.016",
+    "villageCode": "016",
+    "districtCode": "21.04.050",
+    "name": "Desa Persiapan Kentar",
+    "alias": "Desa Persiapan Kentar"
+  },
+  {
+    "code": "21.04.050.017",
+    "villageCode": "017",
+    "districtCode": "21.04.050",
+    "name": "Desa Persiapan Sebung",
+    "alias": "Desa Persiapan Sebung"
+  }
+]

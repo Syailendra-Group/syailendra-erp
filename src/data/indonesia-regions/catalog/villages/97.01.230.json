@@ -1,0 +1,72 @@
+[
+  {
+    "code": "97.01.230.001",
+    "villageCode": "001",
+    "districtCode": "97.01.230",
+    "name": "Nirkuri",
+    "alias": "Nirkuri"
+  },
+  {
+    "code": "97.01.230.002",
+    "villageCode": "002",
+    "districtCode": "97.01.230",
+    "name": "Binime",
+    "alias": "Binime"
+  },
+  {
+    "code": "97.01.230.003",
+    "villageCode": "003",
+    "districtCode": "97.01.230",
+    "name": "Uenoma",
+    "alias": "Uenoma"
+  },
+  {
+    "code": "97.01.230.004",
+    "villageCode": "004",
+    "districtCode": "97.01.230",
+    "name": "Pasebem",
+    "alias": "Pasebem"
+  },
+  {
+    "code": "97.01.230.005",
+    "villageCode": "005",
+    "districtCode": "97.01.230",
+    "name": "Sokmie",
+    "alias": "Sokmie"
+  },
+  {
+    "code": "97.01.230.006",
+    "villageCode": "006",
+    "districtCode": "97.01.230",
+    "name": "Nirigimbirik",
+    "alias": "Nirigimbirik"
+  },
+  {
+    "code": "97.01.230.007",
+    "villageCode": "007",
+    "districtCode": "97.01.230",
+    "name": "Oldobo",
+    "alias": "Oldobo"
+  },
+  {
+    "code": "97.01.230.008",
+    "villageCode": "008",
+    "districtCode": "97.01.230",
+    "name": "Likubuk",
+    "alias": "Likubuk"
+  },
+  {
+    "code": "97.01.230.009",
+    "villageCode": "009",
+    "districtCode": "97.01.230",
+    "name": "Kokujondumu",
+    "alias": "Kokujondumu"
+  },
+  {
+    "code": "97.01.230.010",
+    "villageCode": "010",
+    "districtCode": "97.01.230",
+    "name": "Kurigi",
+    "alias": "Kurigi"
+  }
+]

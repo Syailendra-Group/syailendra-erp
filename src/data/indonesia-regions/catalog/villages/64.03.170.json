@@ -1,0 +1,79 @@
+[
+  {
+    "code": "64.03.170.001",
+    "villageCode": "001",
+    "districtCode": "64.03.170",
+    "name": "Genting Tanah",
+    "alias": "Genting Tanah"
+  },
+  {
+    "code": "64.03.170.002",
+    "villageCode": "002",
+    "districtCode": "64.03.170",
+    "name": "Loa Sakoh",
+    "alias": "Loa Sakoh"
+  },
+  {
+    "code": "64.03.170.003",
+    "villageCode": "003",
+    "districtCode": "64.03.170",
+    "name": "Hambau",
+    "alias": "Hambau"
+  },
+  {
+    "code": "64.03.170.004",
+    "villageCode": "004",
+    "districtCode": "64.03.170",
+    "name": "Kembang Janggut",
+    "alias": "Kembang Janggut"
+  },
+  {
+    "code": "64.03.170.005",
+    "villageCode": "005",
+    "districtCode": "64.03.170",
+    "name": "Kelekat",
+    "alias": "Kelekat"
+  },
+  {
+    "code": "64.03.170.006",
+    "villageCode": "006",
+    "districtCode": "64.03.170",
+    "name": "Pulau Pinang",
+    "alias": "Pulau Pinang"
+  },
+  {
+    "code": "64.03.170.007",
+    "villageCode": "007",
+    "districtCode": "64.03.170",
+    "name": "Long Beleh Haloq",
+    "alias": "Long Beleh Haloq"
+  },
+  {
+    "code": "64.03.170.008",
+    "villageCode": "008",
+    "districtCode": "64.03.170",
+    "name": "Long Beleh Modang",
+    "alias": "Long Beleh Modang"
+  },
+  {
+    "code": "64.03.170.009",
+    "villageCode": "009",
+    "districtCode": "64.03.170",
+    "name": "Bukit Layang",
+    "alias": "Bukit Layang"
+  },
+  {
+    "code": "64.03.170.010",
+    "villageCode": "010",
+    "districtCode": "64.03.170",
+    "name": "Muai",
+    "alias": "Muai"
+  },
+  {
+    "code": "64.03.170.011",
+    "villageCode": "011",
+    "districtCode": "64.03.170",
+    "name": "Perdana",
+    "alias": "Perdana"
+  }
+]

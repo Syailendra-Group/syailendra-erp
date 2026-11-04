@@ -1,0 +1,42 @@
+[
+  {
+    "code": "63.72.010",
+    "districtCode": "010",
+    "regencyCode": "63.72",
+    "provinceCode": "63",
+    "name": "Kecamatan Landasan Ulin",
+    "alias": "Landasan Ulin"
+  },
+  {
+    "code": "63.72.011",
+    "districtCode": "011",
+    "regencyCode": "63.72",
+    "provinceCode": "63",
+    "name": "Kecamatan Liang Anggang",
+    "alias": "Liang Anggang"
+  },
+  {
+    "code": "63.72.020",
+    "districtCode": "020",
+    "regencyCode": "63.72",
+    "provinceCode": "63",
+    "name": "Kecamatan Cempaka",
+    "alias": "Cempaka"
+  },
+  {
+    "code": "63.72.031",
+    "districtCode": "031",
+    "regencyCode": "63.72",
+    "provinceCode": "63",
+    "name": "Kecamatan Banjarbaru Utara",
+    "alias": "Banjarbaru Utara"
+  },
+  {
+    "code": "63.72.032",
+    "districtCode": "032",
+    "regencyCode": "63.72",
+    "provinceCode": "63",
+    "name": "Kecamatan Banjarbaru Selatan",
+    "alias": "Banjarbaru Selatan"
+  }
+]

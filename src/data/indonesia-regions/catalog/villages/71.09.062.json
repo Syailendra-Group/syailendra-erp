@@ -1,0 +1,72 @@
+[
+  {
+    "code": "71.09.062.001",
+    "villageCode": "001",
+    "districtCode": "71.09.062",
+    "name": "Silian Dua",
+    "alias": "Silian Dua"
+  },
+  {
+    "code": "71.09.062.002",
+    "villageCode": "002",
+    "districtCode": "71.09.062",
+    "name": "Silian Tengah",
+    "alias": "Silian Tengah"
+  },
+  {
+    "code": "71.09.062.003",
+    "villageCode": "003",
+    "districtCode": "71.09.062",
+    "name": "Silian Kota",
+    "alias": "Silian Kota"
+  },
+  {
+    "code": "71.09.062.004",
+    "villageCode": "004",
+    "districtCode": "71.09.062",
+    "name": "Silian Satu",
+    "alias": "Silian Satu"
+  },
+  {
+    "code": "71.09.062.005",
+    "villageCode": "005",
+    "districtCode": "71.09.062",
+    "name": "Silian Selatan",
+    "alias": "Silian Selatan"
+  },
+  {
+    "code": "71.09.062.006",
+    "villageCode": "006",
+    "districtCode": "71.09.062",
+    "name": "Silian Tiga",
+    "alias": "Silian Tiga"
+  },
+  {
+    "code": "71.09.062.007",
+    "villageCode": "007",
+    "districtCode": "71.09.062",
+    "name": "Silian Barat",
+    "alias": "Silian Barat"
+  },
+  {
+    "code": "71.09.062.008",
+    "villageCode": "008",
+    "districtCode": "71.09.062",
+    "name": "Silian",
+    "alias": "Silian"
+  },
+  {
+    "code": "71.09.062.009",
+    "villageCode": "009",
+    "districtCode": "71.09.062",
+    "name": "Silian Utara",
+    "alias": "Silian Utara"
+  },
+  {
+    "code": "71.09.062.010",
+    "villageCode": "010",
+    "districtCode": "71.09.062",
+    "name": "Silian Timur",
+    "alias": "Silian Timur"
+  }
+]

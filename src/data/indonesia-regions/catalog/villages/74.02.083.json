@@ -1,0 +1,37 @@
+[
+  {
+    "code": "74.02.083.001",
+    "villageCode": "001",
+    "districtCode": "74.02.083",
+    "name": "Renda",
+    "alias": "Renda"
+  },
+  {
+    "code": "74.02.083.002",
+    "villageCode": "002",
+    "districtCode": "74.02.083",
+    "name": "Bhontu-Bhontu",
+    "alias": "Bhontu-Bhontu"
+  },
+  {
+    "code": "74.02.083.003",
+    "villageCode": "003",
+    "districtCode": "74.02.083",
+    "name": "M O A S I",
+    "alias": "M O A S I"
+  },
+  {
+    "code": "74.02.083.004",
+    "villageCode": "004",
+    "districtCode": "74.02.083",
+    "name": "Lakarama",
+    "alias": "Lakarama"
+  },
+  {
+    "code": "74.02.083.005",
+    "villageCode": "005",
+    "districtCode": "74.02.083",
+    "name": "Wangkolabu",
+    "alias": "Wangkolabu"
+  }
+]

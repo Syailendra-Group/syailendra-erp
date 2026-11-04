@@ -1,0 +1,37 @@
+[
+  {
+    "code": "62.06.010.001",
+    "villageCode": "001",
+    "districtCode": "62.06.010",
+    "name": "Kuala Jelai",
+    "alias": "Kuala Jelai"
+  },
+  {
+    "code": "62.06.010.002",
+    "villageCode": "002",
+    "districtCode": "62.06.010",
+    "name": "Sungai Baru",
+    "alias": "Sungai Baru"
+  },
+  {
+    "code": "62.06.010.003",
+    "villageCode": "003",
+    "districtCode": "62.06.010",
+    "name": "Sungai Bundung",
+    "alias": "Sungai Bundung"
+  },
+  {
+    "code": "62.06.010.004",
+    "villageCode": "004",
+    "districtCode": "62.06.010",
+    "name": "Sungai Raja",
+    "alias": "Sungai Raja"
+  },
+  {
+    "code": "62.06.010.006",
+    "villageCode": "006",
+    "districtCode": "62.06.010",
+    "name": "Pulau Nibung",
+    "alias": "Pulau Nibung"
+  }
+]

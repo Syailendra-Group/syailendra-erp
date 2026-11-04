@@ -1,0 +1,79 @@
+[
+  {
+    "code": "32.12.100.007",
+    "villageCode": "007",
+    "districtCode": "32.12.100",
+    "name": "Kaplonganlor",
+    "alias": "Kaplonganlor"
+  },
+  {
+    "code": "32.12.100.008",
+    "villageCode": "008",
+    "districtCode": "32.12.100",
+    "name": "Tanjungpura",
+    "alias": "Tanjungpura"
+  },
+  {
+    "code": "32.12.100.009",
+    "villageCode": "009",
+    "districtCode": "32.12.100",
+    "name": "Tanjungsari",
+    "alias": "Tanjungsari"
+  },
+  {
+    "code": "32.12.100.010",
+    "villageCode": "010",
+    "districtCode": "32.12.100",
+    "name": "Pringgacala",
+    "alias": "Pringgacala"
+  },
+  {
+    "code": "32.12.100.011",
+    "villageCode": "011",
+    "districtCode": "32.12.100",
+    "name": "Benda",
+    "alias": "Benda"
+  },
+  {
+    "code": "32.12.100.012",
+    "villageCode": "012",
+    "districtCode": "32.12.100",
+    "name": "Sendang",
+    "alias": "Sendang"
+  },
+  {
+    "code": "32.12.100.013",
+    "villageCode": "013",
+    "districtCode": "32.12.100",
+    "name": "Karangampel Kidul",
+    "alias": "Karangampel Kidul"
+  },
+  {
+    "code": "32.12.100.014",
+    "villageCode": "014",
+    "districtCode": "32.12.100",
+    "name": "Karangampel",
+    "alias": "Karangampel"
+  },
+  {
+    "code": "32.12.100.015",
+    "villageCode": "015",
+    "districtCode": "32.12.100",
+    "name": "Dukuhjeruk",
+    "alias": "Dukuhjeruk"
+  },
+  {
+    "code": "32.12.100.016",
+    "villageCode": "016",
+    "districtCode": "32.12.100",
+    "name": "Dukuhtengah",
+    "alias": "Dukuhtengah"
+  },
+  {
+    "code": "32.12.100.017",
+    "villageCode": "017",
+    "districtCode": "32.12.100",
+    "name": "Mundu",
+    "alias": "Mundu"
+  }
+]

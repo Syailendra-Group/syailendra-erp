@@ -1,0 +1,234 @@
+[
+  {
+    "code": "36.03.010",
+    "districtCode": "010",
+    "regencyCode": "36.03",
+    "provinceCode": "36",
+    "name": "Kecamatan Cisoka",
+    "alias": "Cisoka"
+  },
+  {
+    "code": "36.03.011",
+    "districtCode": "011",
+    "regencyCode": "36.03",
+    "provinceCode": "36",
+    "name": "Kecamatan Solear",
+    "alias": "Solear"
+  },
+  {
+    "code": "36.03.020",
+    "districtCode": "020",
+    "regencyCode": "36.03",
+    "provinceCode": "36",
+    "name": "Kecamatan Tigaraksa",
+    "alias": "Tigaraksa"
+  },
+  {
+    "code": "36.03.021",
+    "districtCode": "021",
+    "regencyCode": "36.03",
+    "provinceCode": "36",
+    "name": "Kecamatan Jambe",
+    "alias": "Jambe"
+  },
+  {
+    "code": "36.03.030",
+    "districtCode": "030",
+    "regencyCode": "36.03",
+    "provinceCode": "36",
+    "name": "Kecamatan Cikupa",
+    "alias": "Cikupa"
+  },
+  {
+    "code": "36.03.040",
+    "districtCode": "040",
+    "regencyCode": "36.03",
+    "provinceCode": "36",
+    "name": "Kecamatan Panongan",
+    "alias": "Panongan"
+  },
+  {
+    "code": "36.03.050",
+    "districtCode": "050",
+    "regencyCode": "36.03",
+    "provinceCode": "36",
+    "name": "Kecamatan Curug",
+    "alias": "Curug"
+  },
+  {
+    "code": "36.03.051",
+    "districtCode": "051",
+    "regencyCode": "36.03",
+    "provinceCode": "36",
+    "name": "Kecamatan Kelapa Dua",
+    "alias": "Kelapa Dua"
+  },
+  {
+    "code": "36.03.060",
+    "districtCode": "060",
+    "regencyCode": "36.03",
+    "provinceCode": "36",
+    "name": "Kecamatan Legok",
+    "alias": "Legok"
+  },
+  {
+    "code": "36.03.070",
+    "districtCode": "070",
+    "regencyCode": "36.03",
+    "provinceCode": "36",
+    "name": "Kecamatan Pagedangan",
+    "alias": "Pagedangan"
+  },
+  {
+    "code": "36.03.081",
+    "districtCode": "081",
+    "regencyCode": "36.03",
+    "provinceCode": "36",
+    "name": "Kecamatan Cisauk",
+    "alias": "Cisauk"
+  },
+  {
+    "code": "36.03.120",
+    "districtCode": "120",
+    "regencyCode": "36.03",
+    "provinceCode": "36",
+    "name": "Kecamatan Pasarkemis",
+    "alias": "Pasarkemis"
+  },
+  {
+    "code": "36.03.121",
+    "districtCode": "121",
+    "regencyCode": "36.03",
+    "provinceCode": "36",
+    "name": "Kecamatan Sindang Jaya",
+    "alias": "Sindang Jaya"
+  },
+  {
+    "code": "36.03.130",
+    "districtCode": "130",
+    "regencyCode": "36.03",
+    "provinceCode": "36",
+    "name": "Kecamatan Balaraja",
+    "alias": "Balaraja"
+  },
+  {
+    "code": "36.03.131",
+    "districtCode": "131",
+    "regencyCode": "36.03",
+    "provinceCode": "36",
+    "name": "Kecamatan Jayanti",
+    "alias": "Jayanti"
+  },
+  {
+    "code": "36.03.132",
+    "districtCode": "132",
+    "regencyCode": "36.03",
+    "provinceCode": "36",
+    "name": "Kecamatan Sukamulya",
+    "alias": "Sukamulya"
+  },
+  {
+    "code": "36.03.140",
+    "districtCode": "140",
+    "regencyCode": "36.03",
+    "provinceCode": "36",
+    "name": "Kecamatan Kresek",
+    "alias": "Kresek"
+  },
+  {
+    "code": "36.03.141",
+    "districtCode": "141",
+    "regencyCode": "36.03",
+    "provinceCode": "36",
+    "name": "Kecamatan Gunung Kaler",
+    "alias": "Gunung Kaler"
+  },
+  {
+    "code": "36.03.150",
+    "districtCode": "150",
+    "regencyCode": "36.03",
+    "provinceCode": "36",
+    "name": "Kecamatan Kronjo",
+    "alias": "Kronjo"
+  },
+  {
+    "code": "36.03.151",
+    "districtCode": "151",
+    "regencyCode": "36.03",
+    "provinceCode": "36",
+    "name": "Kecamatan Mekar Baru",
+    "alias": "Mekar Baru"
+  },
+  {
+    "code": "36.03.160",
+    "districtCode": "160",
+    "regencyCode": "36.03",
+    "provinceCode": "36",
+    "name": "Kecamatan Mauk",
+    "alias": "Mauk"
+  },
+  {
+    "code": "36.03.161",
+    "districtCode": "161",
+    "regencyCode": "36.03",
+    "provinceCode": "36",
+    "name": "Kecamatan Kemiri",
+    "alias": "Kemiri"
+  },
+  {
+    "code": "36.03.162",
+    "districtCode": "162",
+    "regencyCode": "36.03",
+    "provinceCode": "36",
+    "name": "Kecamatan Sukadiri",
+    "alias": "Sukadiri"
+  },
+  {
+    "code": "36.03.170",
+    "districtCode": "170",
+    "regencyCode": "36.03",
+    "provinceCode": "36",
+    "name": "Kecamatan Rajeg",
+    "alias": "Rajeg"
+  },
+  {
+    "code": "36.03.180",
+    "districtCode": "180",
+    "regencyCode": "36.03",
+    "provinceCode": "36",
+    "name": "Kecamatan Sepatan",
+    "alias": "Sepatan"
+  },
+  {
+    "code": "36.03.181",
+    "districtCode": "181",
+    "regencyCode": "36.03",
+    "provinceCode": "36",
+    "name": "Kecamatan Sepatan Timur",
+    "alias": "Sepatan Timur"
+  },
+  {
+    "code": "36.03.190",
+    "districtCode": "190",
+    "regencyCode": "36.03",
+    "provinceCode": "36",
+    "name": "Kecamatan Pakuhaji",
+    "alias": "Pakuhaji"
+  },
+  {
+    "code": "36.03.200",
+    "districtCode": "200",
+    "regencyCode": "36.03",
+    "provinceCode": "36",
+    "name": "Kecamatan Teluknaga",
+    "alias": "Teluknaga"
+  },
+  {
+    "code": "36.03.210",
+    "districtCode": "210",
+    "regencyCode": "36.03",
+    "provinceCode": "36",
+    "name": "Kecamatan Kosambi",
+    "alias": "Kosambi"
+  }
+]

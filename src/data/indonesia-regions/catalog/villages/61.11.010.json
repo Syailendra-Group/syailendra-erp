@@ -1,0 +1,37 @@
+[
+  {
+    "code": "61.11.010.002",
+    "villageCode": "002",
+    "districtCode": "61.11.010",
+    "name": "Dusun Besar",
+    "alias": "Dusun Besar"
+  },
+  {
+    "code": "61.11.010.003",
+    "villageCode": "003",
+    "districtCode": "61.11.010",
+    "name": "Tanjung Satai",
+    "alias": "Tanjung Satai"
+  },
+  {
+    "code": "61.11.010.004",
+    "villageCode": "004",
+    "districtCode": "61.11.010",
+    "name": "Dusun Kecil",
+    "alias": "Dusun Kecil"
+  },
+  {
+    "code": "61.11.010.005",
+    "villageCode": "005",
+    "districtCode": "61.11.010",
+    "name": "Kemboja",
+    "alias": "Kemboja"
+  },
+  {
+    "code": "61.11.010.006",
+    "villageCode": "006",
+    "districtCode": "61.11.010",
+    "name": "Satai Lestari",
+    "alias": "Satai Lestari"
+  }
+]

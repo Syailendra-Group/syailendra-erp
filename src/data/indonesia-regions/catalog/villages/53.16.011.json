@@ -1,0 +1,65 @@
+[
+  {
+    "code": "53.16.011.001",
+    "villageCode": "001",
+    "districtCode": "53.16.011",
+    "name": "Wai Manu",
+    "alias": "Wai Manu"
+  },
+  {
+    "code": "53.16.011.002",
+    "villageCode": "002",
+    "districtCode": "53.16.011",
+    "name": "Manurara",
+    "alias": "Manurara"
+  },
+  {
+    "code": "53.16.011.003",
+    "villageCode": "003",
+    "districtCode": "53.16.011",
+    "name": "Dameka",
+    "alias": "Dameka"
+  },
+  {
+    "code": "53.16.011.004",
+    "villageCode": "004",
+    "districtCode": "53.16.011",
+    "name": "Wai Lawa",
+    "alias": "Wai Lawa"
+  },
+  {
+    "code": "53.16.011.005",
+    "villageCode": "005",
+    "districtCode": "53.16.011",
+    "name": "Malinjak",
+    "alias": "Malinjak"
+  },
+  {
+    "code": "53.16.011.006",
+    "villageCode": "006",
+    "districtCode": "53.16.011",
+    "name": "Tana Modu",
+    "alias": "Tana Modu"
+  },
+  {
+    "code": "53.16.011.007",
+    "villageCode": "007",
+    "districtCode": "53.16.011",
+    "name": "Konda Maloba",
+    "alias": "Konda Maloba"
+  },
+  {
+    "code": "53.16.011.008",
+    "villageCode": "008",
+    "districtCode": "53.16.011",
+    "name": "Dasa Elu",
+    "alias": "Dasa Elu"
+  },
+  {
+    "code": "53.16.011.009",
+    "villageCode": "009",
+    "districtCode": "53.16.011",
+    "name": "Oka Wacu",
+    "alias": "Oka Wacu"
+  }
+]

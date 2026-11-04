@@ -1,0 +1,86 @@
+[
+  {
+    "code": "73.17.040.004",
+    "villageCode": "004",
+    "districtCode": "73.17.040",
+    "name": "Tallang Bulawang",
+    "alias": "Tallang Bulawang"
+  },
+  {
+    "code": "73.17.040.005",
+    "villageCode": "005",
+    "districtCode": "73.17.040",
+    "name": "Balla",
+    "alias": "Balla"
+  },
+  {
+    "code": "73.17.040.006",
+    "villageCode": "006",
+    "districtCode": "73.17.040",
+    "name": "Sampa",
+    "alias": "Sampa"
+  },
+  {
+    "code": "73.17.040.007",
+    "villageCode": "007",
+    "districtCode": "73.17.040",
+    "name": "Bajo",
+    "alias": "Bajo"
+  },
+  {
+    "code": "73.17.040.008",
+    "villageCode": "008",
+    "districtCode": "73.17.040",
+    "name": "Rumaju",
+    "alias": "Rumaju"
+  },
+  {
+    "code": "73.17.040.009",
+    "villageCode": "009",
+    "districtCode": "73.17.040",
+    "name": "Saga",
+    "alias": "Saga"
+  },
+  {
+    "code": "73.17.040.010",
+    "villageCode": "010",
+    "districtCode": "73.17.040",
+    "name": "Jambu",
+    "alias": "Jambu"
+  },
+  {
+    "code": "73.17.040.011",
+    "villageCode": "011",
+    "districtCode": "73.17.040",
+    "name": "Pangi",
+    "alias": "Pangi"
+  },
+  {
+    "code": "73.17.040.012",
+    "villageCode": "012",
+    "districtCode": "73.17.040",
+    "name": "Sumabu",
+    "alias": "Sumabu"
+  },
+  {
+    "code": "73.17.040.013",
+    "villageCode": "013",
+    "districtCode": "73.17.040",
+    "name": "Samulang",
+    "alias": "Samulang"
+  },
+  {
+    "code": "73.17.040.014",
+    "villageCode": "014",
+    "districtCode": "73.17.040",
+    "name": "Buntu Babang",
+    "alias": "Buntu Babang"
+  },
+  {
+    "code": "73.17.040.015",
+    "villageCode": "015",
+    "districtCode": "73.17.040",
+    "name": "Langkiddi",
+    "alias": "Langkiddi"
+  }
+]

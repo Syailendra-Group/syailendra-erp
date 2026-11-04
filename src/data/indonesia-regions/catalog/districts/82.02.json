@@ -1,0 +1,82 @@
+[
+  {
+    "code": "82.02.030",
+    "districtCode": "030",
+    "regencyCode": "82.02",
+    "provinceCode": "82",
+    "name": "Kecamatan Weda",
+    "alias": "Weda"
+  },
+  {
+    "code": "82.02.031",
+    "districtCode": "031",
+    "regencyCode": "82.02",
+    "provinceCode": "82",
+    "name": "Kecamatan Weda Selatan",
+    "alias": "Weda Selatan"
+  },
+  {
+    "code": "82.02.032",
+    "districtCode": "032",
+    "regencyCode": "82.02",
+    "provinceCode": "82",
+    "name": "Kecamatan Weda Utara",
+    "alias": "Weda Utara"
+  },
+  {
+    "code": "82.02.033",
+    "districtCode": "033",
+    "regencyCode": "82.02",
+    "provinceCode": "82",
+    "name": "Kecamatan Weda Tengah",
+    "alias": "Weda Tengah"
+  },
+  {
+    "code": "82.02.034",
+    "districtCode": "034",
+    "regencyCode": "82.02",
+    "provinceCode": "82",
+    "name": "Kecamatan Weda Timur",
+    "alias": "Weda Timur"
+  },
+  {
+    "code": "82.02.041",
+    "districtCode": "041",
+    "regencyCode": "82.02",
+    "provinceCode": "82",
+    "name": "Kecamatan Pulau Gebe",
+    "alias": "Pulau Gebe"
+  },
+  {
+    "code": "82.02.042",
+    "districtCode": "042",
+    "regencyCode": "82.02",
+    "provinceCode": "82",
+    "name": "Kecamatan Patani",
+    "alias": "Patani"
+  },
+  {
+    "code": "82.02.043",
+    "districtCode": "043",
+    "regencyCode": "82.02",
+    "provinceCode": "82",
+    "name": "Kecamatan Patani Utara",
+    "alias": "Patani Utara"
+  },
+  {
+    "code": "82.02.044",
+    "districtCode": "044",
+    "regencyCode": "82.02",
+    "provinceCode": "82",
+    "name": "Kecamatan Patani Barat",
+    "alias": "Patani Barat"
+  },
+  {
+    "code": "82.02.045",
+    "districtCode": "045",
+    "regencyCode": "82.02",
+    "provinceCode": "82",
+    "name": "Kecamatan Patani Timur",
+    "alias": "Patani Timur"
+  }
+]

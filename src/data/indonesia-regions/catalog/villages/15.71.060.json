@@ -1,0 +1,37 @@
+[
+  {
+    "code": "15.71.060.001",
+    "villageCode": "001",
+    "districtCode": "15.71.060",
+    "name": "Pasir Panjang",
+    "alias": "Pasir Panjang"
+  },
+  {
+    "code": "15.71.060.002",
+    "villageCode": "002",
+    "districtCode": "15.71.060",
+    "name": "Tanjung Raden",
+    "alias": "Tanjung Raden"
+  },
+  {
+    "code": "15.71.060.003",
+    "villageCode": "003",
+    "districtCode": "15.71.060",
+    "name": "Tanjung Pasir",
+    "alias": "Tanjung Pasir"
+  },
+  {
+    "code": "15.71.060.004",
+    "villageCode": "004",
+    "districtCode": "15.71.060",
+    "name": "Olak Kemang",
+    "alias": "Olak Kemang"
+  },
+  {
+    "code": "15.71.060.005",
+    "villageCode": "005",
+    "districtCode": "15.71.060",
+    "name": "Ulu Gedong",
+    "alias": "Ulu Gedong"
+  }
+]

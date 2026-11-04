@@ -1,0 +1,107 @@
+[
+  {
+    "code": "35.18.140.001",
+    "villageCode": "001",
+    "districtCode": "35.18.140",
+    "name": "Jatirejo",
+    "alias": "Jatirejo"
+  },
+  {
+    "code": "35.18.140.002",
+    "villageCode": "002",
+    "districtCode": "35.18.140",
+    "name": "Ploso",
+    "alias": "Ploso"
+  },
+  {
+    "code": "35.18.140.003",
+    "villageCode": "003",
+    "districtCode": "35.18.140",
+    "name": "Kramat",
+    "alias": "Kramat"
+  },
+  {
+    "code": "35.18.140.004",
+    "villageCode": "004",
+    "districtCode": "35.18.140",
+    "name": "Payaman",
+    "alias": "Payaman"
+  },
+  {
+    "code": "35.18.140.005",
+    "villageCode": "005",
+    "districtCode": "35.18.140",
+    "name": "Kartoharjo",
+    "alias": "Kartoharjo"
+  },
+  {
+    "code": "35.18.140.006",
+    "villageCode": "006",
+    "districtCode": "35.18.140",
+    "name": "Cangkringan",
+    "alias": "Cangkringan"
+  },
+  {
+    "code": "35.18.140.007",
+    "villageCode": "007",
+    "districtCode": "35.18.140",
+    "name": "Bogo",
+    "alias": "Bogo"
+  },
+  {
+    "code": "35.18.140.008",
+    "villageCode": "008",
+    "districtCode": "35.18.140",
+    "name": "Kauman",
+    "alias": "Kauman"
+  },
+  {
+    "code": "35.18.140.009",
+    "villageCode": "009",
+    "districtCode": "35.18.140",
+    "name": "Ganung Kidul",
+    "alias": "Ganung Kidul"
+  },
+  {
+    "code": "35.18.140.010",
+    "villageCode": "010",
+    "districtCode": "35.18.140",
+    "name": "Mangun Dikaran",
+    "alias": "Mangun Dikaran"
+  },
+  {
+    "code": "35.18.140.011",
+    "villageCode": "011",
+    "districtCode": "35.18.140",
+    "name": "Werungotok",
+    "alias": "Werungotok"
+  },
+  {
+    "code": "35.18.140.012",
+    "villageCode": "012",
+    "districtCode": "35.18.140",
+    "name": "Begadung",
+    "alias": "Begadung"
+  },
+  {
+    "code": "35.18.140.013",
+    "villageCode": "013",
+    "districtCode": "35.18.140",
+    "name": "Ringin Anom",
+    "alias": "Ringin Anom"
+  },
+  {
+    "code": "35.18.140.014",
+    "villageCode": "014",
+    "districtCode": "35.18.140",
+    "name": "Kedung Dowo",
+    "alias": "Kedung Dowo"
+  },
+  {
+    "code": "35.18.140.015",
+    "villageCode": "015",
+    "districtCode": "35.18.140",
+    "name": "Balong Pacul",
+    "alias": "Balong Pacul"
+  }
+]

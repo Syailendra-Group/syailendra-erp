@@ -1,0 +1,23 @@
+[
+  {
+    "code": "81.08.021.001",
+    "villageCode": "001",
+    "districtCode": "81.08.021",
+    "name": "Nomaha",
+    "alias": "Nomaha"
+  },
+  {
+    "code": "81.08.021.002",
+    "villageCode": "002",
+    "districtCode": "81.08.021",
+    "name": "Purpura",
+    "alias": "Purpura"
+  },
+  {
+    "code": "81.08.021.003",
+    "villageCode": "003",
+    "districtCode": "81.08.021",
+    "name": "Lebelau",
+    "alias": "Lebelau"
+  }
+]

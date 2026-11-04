@@ -1,0 +1,58 @@
+[
+  {
+    "code": "72.11.010",
+    "districtCode": "010",
+    "regencyCode": "72.11",
+    "provinceCode": "72",
+    "name": "Kecamatan Bangkurung",
+    "alias": "Bangkurung"
+  },
+  {
+    "code": "72.11.020",
+    "districtCode": "020",
+    "regencyCode": "72.11",
+    "provinceCode": "72",
+    "name": "Kecamatan Labobo",
+    "alias": "Labobo"
+  },
+  {
+    "code": "72.11.030",
+    "districtCode": "030",
+    "regencyCode": "72.11",
+    "provinceCode": "72",
+    "name": "Kecamatan Banggai Utara",
+    "alias": "Banggai Utara"
+  },
+  {
+    "code": "72.11.040",
+    "districtCode": "040",
+    "regencyCode": "72.11",
+    "provinceCode": "72",
+    "name": "Kecamatan Banggai",
+    "alias": "Banggai"
+  },
+  {
+    "code": "72.11.050",
+    "districtCode": "050",
+    "regencyCode": "72.11",
+    "provinceCode": "72",
+    "name": "Kecamatan Banggai Tengah",
+    "alias": "Banggai Tengah"
+  },
+  {
+    "code": "72.11.060",
+    "districtCode": "060",
+    "regencyCode": "72.11",
+    "provinceCode": "72",
+    "name": "Kecamatan Banggai Selatan",
+    "alias": "Banggai Selatan"
+  },
+  {
+    "code": "72.11.070",
+    "districtCode": "070",
+    "regencyCode": "72.11",
+    "provinceCode": "72",
+    "name": "Kecamatan Bokan Kepulauan",
+    "alias": "Bokan Kepulauan"
+  }
+]

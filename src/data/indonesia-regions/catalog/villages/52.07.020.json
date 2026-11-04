@@ -1,0 +1,30 @@
+[
+  {
+    "code": "52.07.020.002",
+    "villageCode": "002",
+    "districtCode": "52.07.020",
+    "name": "Belo",
+    "alias": "Belo"
+  },
+  {
+    "code": "52.07.020.004",
+    "villageCode": "004",
+    "districtCode": "52.07.020",
+    "name": "Goa",
+    "alias": "Goa"
+  },
+  {
+    "code": "52.07.020.005",
+    "villageCode": "005",
+    "districtCode": "52.07.020",
+    "name": "Beru",
+    "alias": "Beru"
+  },
+  {
+    "code": "52.07.020.006",
+    "villageCode": "006",
+    "districtCode": "52.07.020",
+    "name": "Dasan Anyar",
+    "alias": "Dasan Anyar"
+  }
+]

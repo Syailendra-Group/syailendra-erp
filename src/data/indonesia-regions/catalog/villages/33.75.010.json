@@ -1,0 +1,51 @@
+[
+  {
+    "code": "33.75.010.004",
+    "villageCode": "004",
+    "districtCode": "33.75.010",
+    "name": "Medono",
+    "alias": "Medono"
+  },
+  {
+    "code": "33.75.010.007",
+    "villageCode": "007",
+    "districtCode": "33.75.010",
+    "name": "Podosugih",
+    "alias": "Podosugih"
+  },
+  {
+    "code": "33.75.010.010",
+    "villageCode": "010",
+    "districtCode": "33.75.010",
+    "name": "Tirto",
+    "alias": "Tirto"
+  },
+  {
+    "code": "33.75.010.014",
+    "villageCode": "014",
+    "districtCode": "33.75.010",
+    "name": "Pringrejo",
+    "alias": "Pringrejo"
+  },
+  {
+    "code": "33.75.010.015",
+    "villageCode": "015",
+    "districtCode": "33.75.010",
+    "name": "Sapuro Kebulen",
+    "alias": "Sapuro Kebulen"
+  },
+  {
+    "code": "33.75.010.016",
+    "villageCode": "016",
+    "districtCode": "33.75.010",
+    "name": "Bendan Kergon",
+    "alias": "Bendan Kergon"
+  },
+  {
+    "code": "33.75.010.017",
+    "villageCode": "017",
+    "districtCode": "33.75.010",
+    "name": "Pasirkratonkramat",
+    "alias": "Pasirkratonkramat"
+  }
+]

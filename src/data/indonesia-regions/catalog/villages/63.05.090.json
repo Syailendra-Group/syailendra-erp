@@ -1,0 +1,86 @@
+[
+  {
+    "code": "63.05.090.001",
+    "villageCode": "001",
+    "districtCode": "63.05.090",
+    "name": "Sungai Rutas",
+    "alias": "Sungai Rutas"
+  },
+  {
+    "code": "63.05.090.002",
+    "villageCode": "002",
+    "districtCode": "63.05.090",
+    "name": "Sungai Rutas Hulu",
+    "alias": "Sungai Rutas Hulu"
+  },
+  {
+    "code": "63.05.090.003",
+    "villageCode": "003",
+    "districtCode": "63.05.090",
+    "name": "Pabaungan Hulu",
+    "alias": "Pabaungan Hulu"
+  },
+  {
+    "code": "63.05.090.004",
+    "villageCode": "004",
+    "districtCode": "63.05.090",
+    "name": "Pabaungan Pantai",
+    "alias": "Pabaungan Pantai"
+  },
+  {
+    "code": "63.05.090.005",
+    "villageCode": "005",
+    "districtCode": "63.05.090",
+    "name": "Pabaungan Hilir",
+    "alias": "Pabaungan Hilir"
+  },
+  {
+    "code": "63.05.090.006",
+    "villageCode": "006",
+    "districtCode": "63.05.090",
+    "name": "Marampiau",
+    "alias": "Marampiau"
+  },
+  {
+    "code": "63.05.090.007",
+    "villageCode": "007",
+    "districtCode": "63.05.090",
+    "name": "Marampiau Hilir",
+    "alias": "Marampiau Hilir"
+  },
+  {
+    "code": "63.05.090.008",
+    "villageCode": "008",
+    "districtCode": "63.05.090",
+    "name": "Baringin A",
+    "alias": "Baringin A"
+  },
+  {
+    "code": "63.05.090.009",
+    "villageCode": "009",
+    "districtCode": "63.05.090",
+    "name": "Baringin B",
+    "alias": "Baringin B"
+  },
+  {
+    "code": "63.05.090.010",
+    "villageCode": "010",
+    "districtCode": "63.05.090",
+    "name": "Margasari Hulu",
+    "alias": "Margasari Hulu"
+  },
+  {
+    "code": "63.05.090.011",
+    "villageCode": "011",
+    "districtCode": "63.05.090",
+    "name": "Candi Laras",
+    "alias": "Candi Laras"
+  },
+  {
+    "code": "63.05.090.012",
+    "villageCode": "012",
+    "districtCode": "63.05.090",
+    "name": "Baulin",
+    "alias": "Baulin"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "code": "72.01.042.001",
+    "villageCode": "001",
+    "districtCode": "72.01.042",
+    "name": "Palam",
+    "alias": "Palam"
+  },
+  {
+    "code": "72.01.042.002",
+    "villageCode": "002",
+    "districtCode": "72.01.042",
+    "name": "Luk Sagu",
+    "alias": "Luk Sagu"
+  },
+  {
+    "code": "72.01.042.003",
+    "villageCode": "003",
+    "districtCode": "72.01.042",
+    "name": "Tatakalai",
+    "alias": "Tatakalai"
+  },
+  {
+    "code": "72.01.042.004",
+    "villageCode": "004",
+    "districtCode": "72.01.042",
+    "name": "Ponding-Ponding",
+    "alias": "Ponding-Ponding"
+  },
+  {
+    "code": "72.01.042.005",
+    "villageCode": "005",
+    "districtCode": "72.01.042",
+    "name": "Lalong",
+    "alias": "Lalong"
+  },
+  {
+    "code": "72.01.042.006",
+    "villageCode": "006",
+    "districtCode": "72.01.042",
+    "name": "Bampanga",
+    "alias": "Bampanga"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "code": "15.01.073.001",
+    "villageCode": "001",
+    "districtCode": "15.01.073",
+    "name": "Koto Cayo",
+    "alias": "Koto Cayo"
+  },
+  {
+    "code": "15.01.073.002",
+    "villageCode": "002",
+    "districtCode": "15.01.073",
+    "name": "Kecil",
+    "alias": "Kecil"
+  },
+  {
+    "code": "15.01.073.003",
+    "villageCode": "003",
+    "districtCode": "15.01.073",
+    "name": "Koto Tengah",
+    "alias": "Koto Tengah"
+  },
+  {
+    "code": "15.01.073.004",
+    "villageCode": "004",
+    "districtCode": "15.01.073",
+    "name": "Koto Datuk",
+    "alias": "Koto Datuk"
+  },
+  {
+    "code": "15.01.073.005",
+    "villageCode": "005",
+    "districtCode": "15.01.073",
+    "name": "Koto Dua Baru",
+    "alias": "Koto Dua Baru"
+  },
+  {
+    "code": "15.01.073.006",
+    "villageCode": "006",
+    "districtCode": "15.01.073",
+    "name": "Koto Mudik",
+    "alias": "Koto Mudik"
+  },
+  {
+    "code": "15.01.073.007",
+    "villageCode": "007",
+    "districtCode": "15.01.073",
+    "name": "Pugu",
+    "alias": "Pugu"
+  },
+  {
+    "code": "15.01.073.008",
+    "villageCode": "008",
+    "districtCode": "15.01.073",
+    "name": "Air Panas Baru",
+    "alias": "Air Panas Baru"
+  },
+  {
+    "code": "15.01.073.009",
+    "villageCode": "009",
+    "districtCode": "15.01.073",
+    "name": "Baru",
+    "alias": "Baru"
+  },
+  {
+    "code": "15.01.073.010",
+    "villageCode": "010",
+    "districtCode": "15.01.073",
+    "name": "Koto Mebai",
+    "alias": "Koto Mebai"
+  },
+  {
+    "code": "15.01.073.011",
+    "villageCode": "011",
+    "districtCode": "15.01.073",
+    "name": "Hamparan Pugu",
+    "alias": "Hamparan Pugu"
+  },
+  {
+    "code": "15.01.073.012",
+    "villageCode": "012",
+    "districtCode": "15.01.073",
+    "name": "Air Bersih",
+    "alias": "Air Bersih"
+  }
+]

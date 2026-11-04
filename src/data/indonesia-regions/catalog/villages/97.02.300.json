@@ -1,0 +1,79 @@
+[
+  {
+    "code": "97.02.300.001",
+    "villageCode": "001",
+    "districtCode": "97.02.300",
+    "name": "Wugurima",
+    "alias": "Wugurima"
+  },
+  {
+    "code": "97.02.300.002",
+    "villageCode": "002",
+    "districtCode": "97.02.300",
+    "name": "Bitti",
+    "alias": "Bitti"
+  },
+  {
+    "code": "97.02.300.003",
+    "villageCode": "003",
+    "districtCode": "97.02.300",
+    "name": "Wananuk Dua",
+    "alias": "Wananuk Dua"
+  },
+  {
+    "code": "97.02.300.004",
+    "villageCode": "004",
+    "districtCode": "97.02.300",
+    "name": "Wananuk",
+    "alias": "Wananuk"
+  },
+  {
+    "code": "97.02.300.005",
+    "villageCode": "005",
+    "districtCode": "97.02.300",
+    "name": "Yelengga",
+    "alias": "Yelengga"
+  },
+  {
+    "code": "97.02.300.006",
+    "villageCode": "006",
+    "districtCode": "97.02.300",
+    "name": "Taganik",
+    "alias": "Taganik"
+  },
+  {
+    "code": "97.02.300.007",
+    "villageCode": "007",
+    "districtCode": "97.02.300",
+    "name": "Pilimo",
+    "alias": "Pilimo"
+  },
+  {
+    "code": "97.02.300.008",
+    "villageCode": "008",
+    "districtCode": "97.02.300",
+    "name": "Tumun",
+    "alias": "Tumun"
+  },
+  {
+    "code": "97.02.300.009",
+    "villageCode": "009",
+    "districtCode": "97.02.300",
+    "name": "Akorek",
+    "alias": "Akorek"
+  },
+  {
+    "code": "97.02.300.010",
+    "villageCode": "010",
+    "districtCode": "97.02.300",
+    "name": "Manili",
+    "alias": "Manili"
+  },
+  {
+    "code": "97.02.300.011",
+    "villageCode": "011",
+    "districtCode": "97.02.300",
+    "name": "Aipakma",
+    "alias": "Aipakma"
+  }
+]

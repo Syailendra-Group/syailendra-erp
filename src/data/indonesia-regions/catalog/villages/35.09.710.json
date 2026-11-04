@@ -1,0 +1,51 @@
+[
+  {
+    "code": "35.09.710.001",
+    "villageCode": "001",
+    "districtCode": "35.09.710",
+    "name": "Mangli",
+    "alias": "Mangli"
+  },
+  {
+    "code": "35.09.710.002",
+    "villageCode": "002",
+    "districtCode": "35.09.710",
+    "name": "Sempusari",
+    "alias": "Sempusari"
+  },
+  {
+    "code": "35.09.710.003",
+    "villageCode": "003",
+    "districtCode": "35.09.710",
+    "name": "Kaliwates",
+    "alias": "Kaliwates"
+  },
+  {
+    "code": "35.09.710.004",
+    "villageCode": "004",
+    "districtCode": "35.09.710",
+    "name": "Tegal Besar",
+    "alias": "Tegal Besar"
+  },
+  {
+    "code": "35.09.710.005",
+    "villageCode": "005",
+    "districtCode": "35.09.710",
+    "name": "Jember Kidul",
+    "alias": "Jember Kidul"
+  },
+  {
+    "code": "35.09.710.006",
+    "villageCode": "006",
+    "districtCode": "35.09.710",
+    "name": "Kepatihan",
+    "alias": "Kepatihan"
+  },
+  {
+    "code": "35.09.710.007",
+    "villageCode": "007",
+    "districtCode": "35.09.710",
+    "name": "Kebon Agung",
+    "alias": "Kebon Agung"
+  }
+]

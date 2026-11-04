@@ -1,0 +1,93 @@
+[
+  {
+    "code": "61.08.010.001",
+    "villageCode": "001",
+    "districtCode": "61.08.010",
+    "name": "Bongkong",
+    "alias": "Bongkong"
+  },
+  {
+    "code": "61.08.010.002",
+    "villageCode": "002",
+    "districtCode": "61.08.010",
+    "name": "Nanga Nuar",
+    "alias": "Nanga Nuar"
+  },
+  {
+    "code": "61.08.010.003",
+    "villageCode": "003",
+    "districtCode": "61.08.010",
+    "name": "Setunggul",
+    "alias": "Setunggul"
+  },
+  {
+    "code": "61.08.010.004",
+    "villageCode": "004",
+    "districtCode": "61.08.010",
+    "name": "Sungai Sena",
+    "alias": "Sungai Sena"
+  },
+  {
+    "code": "61.08.010.005",
+    "villageCode": "005",
+    "districtCode": "61.08.010",
+    "name": "Miau Merah",
+    "alias": "Miau Merah"
+  },
+  {
+    "code": "61.08.010.006",
+    "villageCode": "006",
+    "districtCode": "61.08.010",
+    "name": "Pangeran",
+    "alias": "Pangeran"
+  },
+  {
+    "code": "61.08.010.007",
+    "villageCode": "007",
+    "districtCode": "61.08.010",
+    "name": "Baru",
+    "alias": "Baru"
+  },
+  {
+    "code": "61.08.010.008",
+    "villageCode": "008",
+    "districtCode": "61.08.010",
+    "name": "Perigi",
+    "alias": "Perigi"
+  },
+  {
+    "code": "61.08.010.009",
+    "villageCode": "009",
+    "districtCode": "61.08.010",
+    "name": "Penai",
+    "alias": "Penai"
+  },
+  {
+    "code": "61.08.010.010",
+    "villageCode": "010",
+    "districtCode": "61.08.010",
+    "name": "Seberu",
+    "alias": "Seberu"
+  },
+  {
+    "code": "61.08.010.011",
+    "villageCode": "011",
+    "districtCode": "61.08.010",
+    "name": "Sentabai",
+    "alias": "Sentabai"
+  },
+  {
+    "code": "61.08.010.012",
+    "villageCode": "012",
+    "districtCode": "61.08.010",
+    "name": "Rumbih",
+    "alias": "Rumbih"
+  },
+  {
+    "code": "61.08.010.013",
+    "villageCode": "013",
+    "districtCode": "61.08.010",
+    "name": "Bukit Penai",
+    "alias": "Bukit Penai"
+  }
+]

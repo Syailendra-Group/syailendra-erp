@@ -1,0 +1,58 @@
+[
+  {
+    "code": "74.01.050",
+    "districtCode": "050",
+    "regencyCode": "74.01",
+    "provinceCode": "74",
+    "name": "Kecamatan Lasalimu",
+    "alias": "Lasalimu"
+  },
+  {
+    "code": "74.01.051",
+    "districtCode": "051",
+    "regencyCode": "74.01",
+    "provinceCode": "74",
+    "name": "Kecamatan Lasalimu Selatan",
+    "alias": "Lasalimu Selatan"
+  },
+  {
+    "code": "74.01.052",
+    "districtCode": "052",
+    "regencyCode": "74.01",
+    "provinceCode": "74",
+    "name": "Kecamatan Siotapina",
+    "alias": "Siotapina"
+  },
+  {
+    "code": "74.01.060",
+    "districtCode": "060",
+    "regencyCode": "74.01",
+    "provinceCode": "74",
+    "name": "Kecamatan Pasar Wajo",
+    "alias": "Pasar Wajo"
+  },
+  {
+    "code": "74.01.061",
+    "districtCode": "061",
+    "regencyCode": "74.01",
+    "provinceCode": "74",
+    "name": "Kecamatan Wolowa",
+    "alias": "Wolowa"
+  },
+  {
+    "code": "74.01.062",
+    "districtCode": "062",
+    "regencyCode": "74.01",
+    "provinceCode": "74",
+    "name": "Kecamatan Wabula",
+    "alias": "Wabula"
+  },
+  {
+    "code": "74.01.110",
+    "districtCode": "110",
+    "regencyCode": "74.01",
+    "provinceCode": "74",
+    "name": "Kecamatan Kapontori",
+    "alias": "Kapontori"
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "code": "16.10.030.001",
+    "villageCode": "001",
+    "districtCode": "16.10.030",
+    "name": "Kelampaian",
+    "alias": "Kelampaian"
+  },
+  {
+    "code": "16.10.030.002",
+    "villageCode": "002",
+    "districtCode": "16.10.030",
+    "name": "Suka Nanti",
+    "alias": "Suka Nanti"
+  },
+  {
+    "code": "16.10.030.003",
+    "villageCode": "003",
+    "districtCode": "16.10.030",
+    "name": "Rantau Alai",
+    "alias": "Rantau Alai"
+  },
+  {
+    "code": "16.10.030.004",
+    "villageCode": "004",
+    "districtCode": "16.10.030",
+    "name": "Kertabayang",
+    "alias": "Kertabayang"
+  },
+  {
+    "code": "16.10.030.005",
+    "villageCode": "005",
+    "districtCode": "16.10.030",
+    "name": "Suka Maju",
+    "alias": "Suka Maju"
+  },
+  {
+    "code": "16.10.030.006",
+    "villageCode": "006",
+    "districtCode": "16.10.030",
+    "name": "Sukamarga",
+    "alias": "Sukamarga"
+  },
+  {
+    "code": "16.10.030.007",
+    "villageCode": "007",
+    "districtCode": "16.10.030",
+    "name": "Sanding Marga",
+    "alias": "Sanding Marga"
+  },
+  {
+    "code": "16.10.030.011",
+    "villageCode": "011",
+    "districtCode": "16.10.030",
+    "name": "Tanjung Mas",
+    "alias": "Tanjung Mas"
+  },
+  {
+    "code": "16.10.030.012",
+    "villageCode": "012",
+    "districtCode": "16.10.030",
+    "name": "Lebung Bandung",
+    "alias": "Lebung Bandung"
+  },
+  {
+    "code": "16.10.030.013",
+    "villageCode": "013",
+    "districtCode": "16.10.030",
+    "name": "Talang Sari",
+    "alias": "Talang Sari"
+  },
+  {
+    "code": "16.10.030.019",
+    "villageCode": "019",
+    "districtCode": "16.10.030",
+    "name": "Sirah Pulau Kilip",
+    "alias": "Sirah Pulau Kilip"
+  },
+  {
+    "code": "16.10.030.020",
+    "villageCode": "020",
+    "districtCode": "16.10.030",
+    "name": "Mekar Sari",
+    "alias": "Mekar Sari"
+  },
+  {
+    "code": "16.10.030.021",
+    "villageCode": "021",
+    "districtCode": "16.10.030",
+    "name": "Sukananti  Baru",
+    "alias": "Sukananti  Baru"
+  }
+]

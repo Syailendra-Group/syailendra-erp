@@ -1,0 +1,82 @@
+[
+  {
+    "code": "52.01.010",
+    "districtCode": "010",
+    "regencyCode": "52.01",
+    "provinceCode": "52",
+    "name": "Kecamatan Sekotong",
+    "alias": "Sekotong"
+  },
+  {
+    "code": "52.01.011",
+    "districtCode": "011",
+    "regencyCode": "52.01",
+    "provinceCode": "52",
+    "name": "Kecamatan Lembar",
+    "alias": "Lembar"
+  },
+  {
+    "code": "52.01.020",
+    "districtCode": "020",
+    "regencyCode": "52.01",
+    "provinceCode": "52",
+    "name": "Kecamatan Gerung",
+    "alias": "Gerung"
+  },
+  {
+    "code": "52.01.030",
+    "districtCode": "030",
+    "regencyCode": "52.01",
+    "provinceCode": "52",
+    "name": "Kecamatan Labu Api",
+    "alias": "Labu Api"
+  },
+  {
+    "code": "52.01.040",
+    "districtCode": "040",
+    "regencyCode": "52.01",
+    "provinceCode": "52",
+    "name": "Kecamatan Kediri",
+    "alias": "Kediri"
+  },
+  {
+    "code": "52.01.041",
+    "districtCode": "041",
+    "regencyCode": "52.01",
+    "provinceCode": "52",
+    "name": "Kecamatan Kuripan",
+    "alias": "Kuripan"
+  },
+  {
+    "code": "52.01.050",
+    "districtCode": "050",
+    "regencyCode": "52.01",
+    "provinceCode": "52",
+    "name": "Kecamatan Narmada",
+    "alias": "Narmada"
+  },
+  {
+    "code": "52.01.051",
+    "districtCode": "051",
+    "regencyCode": "52.01",
+    "provinceCode": "52",
+    "name": "Kecamatan Lingsar",
+    "alias": "Lingsar"
+  },
+  {
+    "code": "52.01.060",
+    "districtCode": "060",
+    "regencyCode": "52.01",
+    "provinceCode": "52",
+    "name": "Kecamatan Gunung Sari",
+    "alias": "Gunung Sari"
+  },
+  {
+    "code": "52.01.061",
+    "districtCode": "061",
+    "regencyCode": "52.01",
+    "provinceCode": "52",
+    "name": "Kecamatan Batu Layar",
+    "alias": "Batu Layar"
+  }
+]

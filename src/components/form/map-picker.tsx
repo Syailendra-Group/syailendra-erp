@@ -12,7 +12,7 @@ import type { ReactElement } from 'react'
 const MapPickerInner = dynamic(() => import('./map-picker-inner'), {
   ssr: false,
   loading: () => (
-    <div className="border-border/80 bg-muted/30 relative flex min-h-[280px] w-full flex-col items-center justify-center overflow-hidden rounded-lg border">
+    <div className="border-border/80 bg-muted/30 relative flex min-h-70 w-full flex-col items-center justify-center overflow-hidden rounded-lg border">
       <Skeleton className="absolute inset-0 h-full w-full" />
       <div className="text-muted-foreground relative z-10 flex flex-col items-center gap-2">
         <MapPin className="text-primary size-6 animate-bounce" />

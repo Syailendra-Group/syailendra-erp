@@ -1,0 +1,65 @@
+[
+  {
+    "code": "32.05.210.005",
+    "villageCode": "005",
+    "districtCode": "32.05.210",
+    "name": "Sukamenak",
+    "alias": "Sukamenak"
+  },
+  {
+    "code": "32.05.210.007",
+    "villageCode": "007",
+    "districtCode": "32.05.210",
+    "name": "Sindangmekar",
+    "alias": "Sindangmekar"
+  },
+  {
+    "code": "32.05.210.008",
+    "villageCode": "008",
+    "districtCode": "32.05.210",
+    "name": "Sindangratu",
+    "alias": "Sindangratu"
+  },
+  {
+    "code": "32.05.210.012",
+    "villageCode": "012",
+    "districtCode": "32.05.210",
+    "name": "Cinunuk",
+    "alias": "Cinunuk"
+  },
+  {
+    "code": "32.05.210.013",
+    "villageCode": "013",
+    "districtCode": "32.05.210",
+    "name": "Wanamekar",
+    "alias": "Wanamekar"
+  },
+  {
+    "code": "32.05.210.014",
+    "villageCode": "014",
+    "districtCode": "32.05.210",
+    "name": "Wanaraja",
+    "alias": "Wanaraja"
+  },
+  {
+    "code": "32.05.210.015",
+    "villageCode": "015",
+    "districtCode": "32.05.210",
+    "name": "Wanasari",
+    "alias": "Wanasari"
+  },
+  {
+    "code": "32.05.210.016",
+    "villageCode": "016",
+    "districtCode": "32.05.210",
+    "name": "Wanajaya",
+    "alias": "Wanajaya"
+  },
+  {
+    "code": "32.05.210.017",
+    "villageCode": "017",
+    "districtCode": "32.05.210",
+    "name": "Sindangprabu",
+    "alias": "Sindangprabu"
+  }
+]

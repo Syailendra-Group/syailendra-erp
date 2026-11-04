@@ -1,0 +1,58 @@
+[
+  {
+    "code": "32.16.140.001",
+    "villageCode": "001",
+    "districtCode": "32.16.140",
+    "name": "Jayabakti",
+    "alias": "Jayabakti"
+  },
+  {
+    "code": "32.16.140.002",
+    "villageCode": "002",
+    "districtCode": "32.16.140",
+    "name": "Sindangjaya",
+    "alias": "Sindangjaya"
+  },
+  {
+    "code": "32.16.140.003",
+    "villageCode": "003",
+    "districtCode": "32.16.140",
+    "name": "Sindangsari",
+    "alias": "Sindangsari"
+  },
+  {
+    "code": "32.16.140.004",
+    "villageCode": "004",
+    "districtCode": "32.16.140",
+    "name": "Jayalaksana",
+    "alias": "Jayalaksana"
+  },
+  {
+    "code": "32.16.140.005",
+    "villageCode": "005",
+    "districtCode": "32.16.140",
+    "name": "Setialaksana",
+    "alias": "Setialaksana"
+  },
+  {
+    "code": "32.16.140.006",
+    "villageCode": "006",
+    "districtCode": "32.16.140",
+    "name": "Lenggahjaya",
+    "alias": "Lenggahjaya"
+  },
+  {
+    "code": "32.16.140.007",
+    "villageCode": "007",
+    "districtCode": "32.16.140",
+    "name": "Setiajaya",
+    "alias": "Setiajaya"
+  },
+  {
+    "code": "32.16.140.008",
+    "villageCode": "008",
+    "districtCode": "32.16.140",
+    "name": "Lenggahsari",
+    "alias": "Lenggahsari"
+  }
+]

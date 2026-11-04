@@ -1,0 +1,65 @@
+[
+  {
+    "code": "12.03.102.001",
+    "villageCode": "001",
+    "districtCode": "12.03.102",
+    "name": "Muara Upu",
+    "alias": "Muara Upu"
+  },
+  {
+    "code": "12.03.102.002",
+    "villageCode": "002",
+    "districtCode": "12.03.102",
+    "name": "Bandar Hapinis",
+    "alias": "Bandar Hapinis"
+  },
+  {
+    "code": "12.03.102.003",
+    "villageCode": "003",
+    "districtCode": "12.03.102",
+    "name": "Huta Raja",
+    "alias": "Huta Raja"
+  },
+  {
+    "code": "12.03.102.004",
+    "villageCode": "004",
+    "districtCode": "12.03.102",
+    "name": "Muara Manompas",
+    "alias": "Muara Manompas"
+  },
+  {
+    "code": "12.03.102.006",
+    "villageCode": "006",
+    "districtCode": "12.03.102",
+    "name": "Pardamean",
+    "alias": "Pardamean"
+  },
+  {
+    "code": "12.03.102.007",
+    "villageCode": "007",
+    "districtCode": "12.03.102",
+    "name": "Terapung Raya",
+    "alias": "Terapung Raya"
+  },
+  {
+    "code": "12.03.102.008",
+    "villageCode": "008",
+    "districtCode": "12.03.102",
+    "name": "Muara Huta Raja",
+    "alias": "Muara Huta Raja"
+  },
+  {
+    "code": "12.03.102.009",
+    "villageCode": "009",
+    "districtCode": "12.03.102",
+    "name": "Muara Ampolu",
+    "alias": "Muara Ampolu"
+  },
+  {
+    "code": "12.03.102.010",
+    "villageCode": "010",
+    "districtCode": "12.03.102",
+    "name": "Simarlelan",
+    "alias": "Simarlelan"
+  }
+]

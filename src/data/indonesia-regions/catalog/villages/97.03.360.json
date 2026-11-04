@@ -1,0 +1,58 @@
+[
+  {
+    "code": "97.03.360.001",
+    "villageCode": "001",
+    "districtCode": "97.03.360",
+    "name": "Ekapame",
+    "alias": "Ekapame"
+  },
+  {
+    "code": "97.03.360.002",
+    "villageCode": "002",
+    "districtCode": "97.03.360",
+    "name": "Yugumabur",
+    "alias": "Yugumabur"
+  },
+  {
+    "code": "97.03.360.003",
+    "villageCode": "003",
+    "districtCode": "97.03.360",
+    "name": "Odika",
+    "alias": "Odika"
+  },
+  {
+    "code": "97.03.360.004",
+    "villageCode": "004",
+    "districtCode": "97.03.360",
+    "name": "Wanome",
+    "alias": "Wanome"
+  },
+  {
+    "code": "97.03.360.005",
+    "villageCode": "005",
+    "districtCode": "97.03.360",
+    "name": "Yiluweneri",
+    "alias": "Yiluweneri"
+  },
+  {
+    "code": "97.03.360.006",
+    "villageCode": "006",
+    "districtCode": "97.03.360",
+    "name": "Kubagalo",
+    "alias": "Kubagalo"
+  },
+  {
+    "code": "97.03.360.007",
+    "villageCode": "007",
+    "districtCode": "97.03.360",
+    "name": "Jilekme",
+    "alias": "Jilekme"
+  },
+  {
+    "code": "97.03.360.008",
+    "villageCode": "008",
+    "districtCode": "97.03.360",
+    "name": "Papani",
+    "alias": "Papani"
+  }
+]

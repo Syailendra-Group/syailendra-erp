@@ -1,0 +1,51 @@
+[
+  {
+    "code": "91.11.040.001",
+    "villageCode": "001",
+    "districtCode": "91.11.040",
+    "name": "Yekwandi",
+    "alias": "Yekwandi"
+  },
+  {
+    "code": "91.11.040.002",
+    "villageCode": "002",
+    "districtCode": "91.11.040",
+    "name": "Gaya Baru",
+    "alias": "Gaya Baru"
+  },
+  {
+    "code": "91.11.040.003",
+    "villageCode": "003",
+    "districtCode": "91.11.040",
+    "name": "Nij",
+    "alias": "Nij"
+  },
+  {
+    "code": "91.11.040.004",
+    "villageCode": "004",
+    "districtCode": "91.11.040",
+    "name": "Waren",
+    "alias": "Waren"
+  },
+  {
+    "code": "91.11.040.005",
+    "villageCode": "005",
+    "districtCode": "91.11.040",
+    "name": "Siwi",
+    "alias": "Siwi"
+  },
+  {
+    "code": "91.11.040.006",
+    "villageCode": "006",
+    "districtCode": "91.11.040",
+    "name": "Demini",
+    "alias": "Demini"
+  },
+  {
+    "code": "91.11.040.007",
+    "villageCode": "007",
+    "districtCode": "91.11.040",
+    "name": "Dembek",
+    "alias": "Dembek"
+  }
+]

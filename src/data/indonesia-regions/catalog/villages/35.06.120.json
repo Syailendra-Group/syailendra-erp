@@ -1,0 +1,72 @@
+[
+  {
+    "code": "35.06.120.001",
+    "villageCode": "001",
+    "districtCode": "35.06.120",
+    "name": "Kebonrejo",
+    "alias": "Kebonrejo"
+  },
+  {
+    "code": "35.06.120.002",
+    "villageCode": "002",
+    "districtCode": "35.06.120",
+    "name": "Besowo",
+    "alias": "Besowo"
+  },
+  {
+    "code": "35.06.120.003",
+    "villageCode": "003",
+    "districtCode": "35.06.120",
+    "name": "Kampungbaru",
+    "alias": "Kampungbaru"
+  },
+  {
+    "code": "35.06.120.004",
+    "villageCode": "004",
+    "districtCode": "35.06.120",
+    "name": "Siman",
+    "alias": "Siman"
+  },
+  {
+    "code": "35.06.120.005",
+    "villageCode": "005",
+    "districtCode": "35.06.120",
+    "name": "Brumbung",
+    "alias": "Brumbung"
+  },
+  {
+    "code": "35.06.120.006",
+    "villageCode": "006",
+    "districtCode": "35.06.120",
+    "name": "Kepung",
+    "alias": "Kepung"
+  },
+  {
+    "code": "35.06.120.007",
+    "villageCode": "007",
+    "districtCode": "35.06.120",
+    "name": "Krenceng",
+    "alias": "Krenceng"
+  },
+  {
+    "code": "35.06.120.008",
+    "villageCode": "008",
+    "districtCode": "35.06.120",
+    "name": "Kencong",
+    "alias": "Kencong"
+  },
+  {
+    "code": "35.06.120.009",
+    "villageCode": "009",
+    "districtCode": "35.06.120",
+    "name": "Keling",
+    "alias": "Keling"
+  },
+  {
+    "code": "35.06.120.010",
+    "villageCode": "010",
+    "districtCode": "35.06.120",
+    "name": "Damarwulan",
+    "alias": "Damarwulan"
+  }
+]

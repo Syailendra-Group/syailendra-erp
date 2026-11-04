@@ -1,0 +1,72 @@
+[
+  {
+    "code": "94.20.011.001",
+    "villageCode": "001",
+    "districtCode": "94.20.011",
+    "name": "Towe Lama / Towe Atas",
+    "alias": "Towe Lama / Towe Atas"
+  },
+  {
+    "code": "94.20.011.002",
+    "villageCode": "002",
+    "districtCode": "94.20.011",
+    "name": "Towe Hitam",
+    "alias": "Towe Hitam"
+  },
+  {
+    "code": "94.20.011.003",
+    "villageCode": "003",
+    "districtCode": "94.20.011",
+    "name": "Bias",
+    "alias": "Bias"
+  },
+  {
+    "code": "94.20.011.004",
+    "villageCode": "004",
+    "districtCode": "94.20.011",
+    "name": "Milki",
+    "alias": "Milki"
+  },
+  {
+    "code": "94.20.011.005",
+    "villageCode": "005",
+    "districtCode": "94.20.011",
+    "name": "Lules",
+    "alias": "Lules"
+  },
+  {
+    "code": "94.20.011.006",
+    "villageCode": "006",
+    "districtCode": "94.20.011",
+    "name": "Terpones",
+    "alias": "Terpones"
+  },
+  {
+    "code": "94.20.011.007",
+    "villageCode": "007",
+    "districtCode": "94.20.011",
+    "name": "Tefalma",
+    "alias": "Tefalma"
+  },
+  {
+    "code": "94.20.011.008",
+    "villageCode": "008",
+    "districtCode": "94.20.011",
+    "name": "Jember",
+    "alias": "Jember"
+  },
+  {
+    "code": "94.20.011.009",
+    "villageCode": "009",
+    "districtCode": "94.20.011",
+    "name": "Niliti",
+    "alias": "Niliti"
+  },
+  {
+    "code": "94.20.011.010",
+    "villageCode": "010",
+    "districtCode": "94.20.011",
+    "name": "Pris",
+    "alias": "Pris"
+  }
+]

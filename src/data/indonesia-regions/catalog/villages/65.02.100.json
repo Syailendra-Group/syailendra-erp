@@ -1,0 +1,23 @@
+[
+  {
+    "code": "65.02.100.001",
+    "villageCode": "001",
+    "districtCode": "65.02.100",
+    "name": "Bunyu Barat",
+    "alias": "Bunyu Barat"
+  },
+  {
+    "code": "65.02.100.002",
+    "villageCode": "002",
+    "districtCode": "65.02.100",
+    "name": "Bunyu Selatan",
+    "alias": "Bunyu Selatan"
+  },
+  {
+    "code": "65.02.100.003",
+    "villageCode": "003",
+    "districtCode": "65.02.100",
+    "name": "Bunyu Timur",
+    "alias": "Bunyu Timur"
+  }
+]

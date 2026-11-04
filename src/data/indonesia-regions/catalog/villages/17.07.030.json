@@ -1,0 +1,79 @@
+[
+  {
+    "code": "17.07.030.001",
+    "villageCode": "001",
+    "districtCode": "17.07.030",
+    "name": "Semelako Atas",
+    "alias": "Semelako Atas"
+  },
+  {
+    "code": "17.07.030.002",
+    "villageCode": "002",
+    "districtCode": "17.07.030",
+    "name": "Semelako I",
+    "alias": "Semelako I"
+  },
+  {
+    "code": "17.07.030.003",
+    "villageCode": "003",
+    "districtCode": "17.07.030",
+    "name": "Karang Anyar",
+    "alias": "Karang Anyar"
+  },
+  {
+    "code": "17.07.030.004",
+    "villageCode": "004",
+    "districtCode": "17.07.030",
+    "name": "Tanjung Bungai I",
+    "alias": "Tanjung Bungai I"
+  },
+  {
+    "code": "17.07.030.005",
+    "villageCode": "005",
+    "districtCode": "17.07.030",
+    "name": "Pagar Agung",
+    "alias": "Pagar Agung"
+  },
+  {
+    "code": "17.07.030.006",
+    "villageCode": "006",
+    "districtCode": "17.07.030",
+    "name": "Embong Panjang",
+    "alias": "Embong Panjang"
+  },
+  {
+    "code": "17.07.030.013",
+    "villageCode": "013",
+    "districtCode": "17.07.030",
+    "name": "Tanjung Bungai Ii",
+    "alias": "Tanjung Bungai Ii"
+  },
+  {
+    "code": "17.07.030.014",
+    "villageCode": "014",
+    "districtCode": "17.07.030",
+    "name": "Semelako Ii",
+    "alias": "Semelako Ii"
+  },
+  {
+    "code": "17.07.030.015",
+    "villageCode": "015",
+    "districtCode": "17.07.030",
+    "name": "Semelako Iii",
+    "alias": "Semelako Iii"
+  },
+  {
+    "code": "17.07.030.016",
+    "villageCode": "016",
+    "districtCode": "17.07.030",
+    "name": "Danau Liang",
+    "alias": "Danau Liang"
+  },
+  {
+    "code": "17.07.030.017",
+    "villageCode": "017",
+    "districtCode": "17.07.030",
+    "name": "Suka Damai",
+    "alias": "Suka Damai"
+  }
+]

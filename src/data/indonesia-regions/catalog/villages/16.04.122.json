@@ -1,0 +1,79 @@
+[
+  {
+    "code": "16.04.122.001",
+    "villageCode": "001",
+    "districtCode": "16.04.122",
+    "name": "Sukajadi",
+    "alias": "Sukajadi"
+  },
+  {
+    "code": "16.04.122.002",
+    "villageCode": "002",
+    "districtCode": "16.04.122",
+    "name": "Penandingan",
+    "alias": "Penandingan"
+  },
+  {
+    "code": "16.04.122.003",
+    "villageCode": "003",
+    "districtCode": "16.04.122",
+    "name": "Tanjung Agung",
+    "alias": "Tanjung Agung"
+  },
+  {
+    "code": "16.04.122.004",
+    "villageCode": "004",
+    "districtCode": "16.04.122",
+    "name": "Talang Tinggi",
+    "alias": "Talang Tinggi"
+  },
+  {
+    "code": "16.04.122.005",
+    "villageCode": "005",
+    "districtCode": "16.04.122",
+    "name": "Batu Niding",
+    "alias": "Batu Niding"
+  },
+  {
+    "code": "16.04.122.006",
+    "villageCode": "006",
+    "districtCode": "16.04.122",
+    "name": "Tanjung Raya",
+    "alias": "Tanjung Raya"
+  },
+  {
+    "code": "16.04.122.007",
+    "villageCode": "007",
+    "districtCode": "16.04.122",
+    "name": "Lubuk Mabar",
+    "alias": "Lubuk Mabar"
+  },
+  {
+    "code": "16.04.122.008",
+    "villageCode": "008",
+    "districtCode": "16.04.122",
+    "name": "Pagar Agung",
+    "alias": "Pagar Agung"
+  },
+  {
+    "code": "16.04.122.009",
+    "villageCode": "009",
+    "districtCode": "16.04.122",
+    "name": "Lubuk Tuba",
+    "alias": "Lubuk Tuba"
+  },
+  {
+    "code": "16.04.122.010",
+    "villageCode": "010",
+    "districtCode": "16.04.122",
+    "name": "Lubuk Atung",
+    "alias": "Lubuk Atung"
+  },
+  {
+    "code": "16.04.122.011",
+    "villageCode": "011",
+    "districtCode": "16.04.122",
+    "name": "Muara Cawang",
+    "alias": "Muara Cawang"
+  }
+]

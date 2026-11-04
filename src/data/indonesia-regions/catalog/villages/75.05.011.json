@@ -1,0 +1,79 @@
+[
+  {
+    "code": "75.05.011.001",
+    "villageCode": "001",
+    "districtCode": "75.05.011",
+    "name": "Ipilo",
+    "alias": "Ipilo"
+  },
+  {
+    "code": "75.05.011.002",
+    "villageCode": "002",
+    "districtCode": "75.05.011",
+    "name": "Molonggota",
+    "alias": "Molonggota"
+  },
+  {
+    "code": "75.05.011.003",
+    "villageCode": "003",
+    "districtCode": "75.05.011",
+    "name": "Gentuma",
+    "alias": "Gentuma"
+  },
+  {
+    "code": "75.05.011.004",
+    "villageCode": "004",
+    "districtCode": "75.05.011",
+    "name": "Dumolodo",
+    "alias": "Dumolodo"
+  },
+  {
+    "code": "75.05.011.012",
+    "villageCode": "012",
+    "districtCode": "75.05.011",
+    "name": "Langke",
+    "alias": "Langke"
+  },
+  {
+    "code": "75.05.011.013",
+    "villageCode": "013",
+    "districtCode": "75.05.011",
+    "name": "Durian",
+    "alias": "Durian"
+  },
+  {
+    "code": "75.05.011.014",
+    "villageCode": "014",
+    "districtCode": "75.05.011",
+    "name": "Motomingo",
+    "alias": "Motomingo"
+  },
+  {
+    "code": "75.05.011.015",
+    "villageCode": "015",
+    "districtCode": "75.05.011",
+    "name": "Bohusami",
+    "alias": "Bohusami"
+  },
+  {
+    "code": "75.05.011.016",
+    "villageCode": "016",
+    "districtCode": "75.05.011",
+    "name": "Ketapang",
+    "alias": "Ketapang"
+  },
+  {
+    "code": "75.05.011.017",
+    "villageCode": "017",
+    "districtCode": "75.05.011",
+    "name": "Pasalae",
+    "alias": "Pasalae"
+  },
+  {
+    "code": "75.05.011.018",
+    "villageCode": "018",
+    "districtCode": "75.05.011",
+    "name": "Nanati Jaya",
+    "alias": "Nanati Jaya"
+  }
+]

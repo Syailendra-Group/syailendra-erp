@@ -1,0 +1,79 @@
+[
+  {
+    "code": "53.11.012.001",
+    "villageCode": "001",
+    "districtCode": "53.11.012",
+    "name": "Kebirangga Selatan",
+    "alias": "Kebirangga Selatan"
+  },
+  {
+    "code": "53.11.012.002",
+    "villageCode": "002",
+    "districtCode": "53.11.012",
+    "name": "Kamubheka",
+    "alias": "Kamubheka"
+  },
+  {
+    "code": "53.11.012.003",
+    "villageCode": "003",
+    "districtCode": "53.11.012",
+    "name": "Kebirangga",
+    "alias": "Kebirangga"
+  },
+  {
+    "code": "53.11.012.004",
+    "villageCode": "004",
+    "districtCode": "53.11.012",
+    "name": "Boafeo",
+    "alias": "Boafeo"
+  },
+  {
+    "code": "53.11.012.005",
+    "villageCode": "005",
+    "districtCode": "53.11.012",
+    "name": "Magekapa",
+    "alias": "Magekapa"
+  },
+  {
+    "code": "53.11.012.006",
+    "villageCode": "006",
+    "districtCode": "53.11.012",
+    "name": "Nabe",
+    "alias": "Nabe"
+  },
+  {
+    "code": "53.11.012.007",
+    "villageCode": "007",
+    "districtCode": "53.11.012",
+    "name": "Kobaleba",
+    "alias": "Kobaleba"
+  },
+  {
+    "code": "53.11.012.008",
+    "villageCode": "008",
+    "districtCode": "53.11.012",
+    "name": "Mundinggasa",
+    "alias": "Mundinggasa"
+  },
+  {
+    "code": "53.11.012.009",
+    "villageCode": "009",
+    "districtCode": "53.11.012",
+    "name": "Kolikapa",
+    "alias": "Kolikapa"
+  },
+  {
+    "code": "53.11.012.010",
+    "villageCode": "010",
+    "districtCode": "53.11.012",
+    "name": "Kebirangga Tengah",
+    "alias": "Kebirangga Tengah"
+  },
+  {
+    "code": "53.11.012.011",
+    "villageCode": "011",
+    "districtCode": "53.11.012",
+    "name": "Natanangge",
+    "alias": "Natanangge"
+  }
+]

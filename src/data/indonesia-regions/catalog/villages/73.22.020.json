@@ -1,0 +1,79 @@
+[
+  {
+    "code": "73.22.020.006",
+    "villageCode": "006",
+    "districtCode": "73.22.020",
+    "name": "Mario",
+    "alias": "Mario"
+  },
+  {
+    "code": "73.22.020.008",
+    "villageCode": "008",
+    "districtCode": "73.22.020",
+    "name": "Palandan",
+    "alias": "Palandan"
+  },
+  {
+    "code": "73.22.020.009",
+    "villageCode": "009",
+    "districtCode": "73.22.020",
+    "name": "Bumi Harapan",
+    "alias": "Bumi Harapan"
+  },
+  {
+    "code": "73.22.020.013",
+    "villageCode": "013",
+    "districtCode": "73.22.020",
+    "name": "Tarobok",
+    "alias": "Tarobok"
+  },
+  {
+    "code": "73.22.020.014",
+    "villageCode": "014",
+    "districtCode": "73.22.020",
+    "name": "Salulemo",
+    "alias": "Salulemo"
+  },
+  {
+    "code": "73.22.020.015",
+    "villageCode": "015",
+    "districtCode": "73.22.020",
+    "name": "Kariango",
+    "alias": "Kariango"
+  },
+  {
+    "code": "73.22.020.016",
+    "villageCode": "016",
+    "districtCode": "73.22.020",
+    "name": "Radda",
+    "alias": "Radda"
+  },
+  {
+    "code": "73.22.020.017",
+    "villageCode": "017",
+    "districtCode": "73.22.020",
+    "name": "Meli",
+    "alias": "Meli"
+  },
+  {
+    "code": "73.22.020.018",
+    "villageCode": "018",
+    "districtCode": "73.22.020",
+    "name": "Baebunta",
+    "alias": "Baebunta"
+  },
+  {
+    "code": "73.22.020.020",
+    "villageCode": "020",
+    "districtCode": "73.22.020",
+    "name": "Sassa",
+    "alias": "Sassa"
+  },
+  {
+    "code": "73.22.020.021",
+    "villageCode": "021",
+    "districtCode": "73.22.020",
+    "name": "Salassa",
+    "alias": "Salassa"
+  }
+]

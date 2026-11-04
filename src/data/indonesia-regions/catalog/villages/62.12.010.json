@@ -1,0 +1,51 @@
+[
+  {
+    "code": "62.12.010.001",
+    "villageCode": "001",
+    "districtCode": "62.12.010",
+    "name": "Taniran",
+    "alias": "Taniran"
+  },
+  {
+    "code": "62.12.010.002",
+    "villageCode": "002",
+    "districtCode": "62.12.010",
+    "name": "Kandris",
+    "alias": "Kandris"
+  },
+  {
+    "code": "62.12.010.003",
+    "villageCode": "003",
+    "districtCode": "62.12.010",
+    "name": "Banyu Landas",
+    "alias": "Banyu Landas"
+  },
+  {
+    "code": "62.12.010.004",
+    "villageCode": "004",
+    "districtCode": "62.12.010",
+    "name": "Bagok",
+    "alias": "Bagok"
+  },
+  {
+    "code": "62.12.010.005",
+    "villageCode": "005",
+    "districtCode": "62.12.010",
+    "name": "Bamban",
+    "alias": "Bamban"
+  },
+  {
+    "code": "62.12.010.006",
+    "villageCode": "006",
+    "districtCode": "62.12.010",
+    "name": "Tewah Pupuh",
+    "alias": "Tewah Pupuh"
+  },
+  {
+    "code": "62.12.010.007",
+    "villageCode": "007",
+    "districtCode": "62.12.010",
+    "name": "Gudang Seng",
+    "alias": "Gudang Seng"
+  }
+]

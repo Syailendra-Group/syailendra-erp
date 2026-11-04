@@ -1,0 +1,30 @@
+[
+  {
+    "code": "32.05.221.001",
+    "villageCode": "001",
+    "districtCode": "32.05.221",
+    "name": "Sindanggalih",
+    "alias": "Sindanggalih"
+  },
+  {
+    "code": "32.05.221.002",
+    "villageCode": "002",
+    "districtCode": "32.05.221",
+    "name": "Cinta",
+    "alias": "Cinta"
+  },
+  {
+    "code": "32.05.221.003",
+    "villageCode": "003",
+    "districtCode": "32.05.221",
+    "name": "Cintamanik",
+    "alias": "Cintamanik"
+  },
+  {
+    "code": "32.05.221.004",
+    "villageCode": "004",
+    "districtCode": "32.05.221",
+    "name": "Caringin",
+    "alias": "Caringin"
+  }
+]

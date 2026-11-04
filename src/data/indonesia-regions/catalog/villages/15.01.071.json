@@ -1,0 +1,177 @@
+[
+  {
+    "code": "15.01.071.001",
+    "villageCode": "001",
+    "districtCode": "15.01.071",
+    "name": "Kemantan Hilir",
+    "alias": "Kemantan Hilir"
+  },
+  {
+    "code": "15.01.071.002",
+    "villageCode": "002",
+    "districtCode": "15.01.071",
+    "name": "Koto Tebat",
+    "alias": "Koto Tebat"
+  },
+  {
+    "code": "15.01.071.003",
+    "villageCode": "003",
+    "districtCode": "15.01.071",
+    "name": "Pondok Sungai Abu",
+    "alias": "Pondok Sungai Abu"
+  },
+  {
+    "code": "15.01.071.004",
+    "villageCode": "004",
+    "districtCode": "15.01.071",
+    "name": "Sungai Abu",
+    "alias": "Sungai Abu"
+  },
+  {
+    "code": "15.01.071.005",
+    "villageCode": "005",
+    "districtCode": "15.01.071",
+    "name": "Pungut Hilir",
+    "alias": "Pungut Hilir"
+  },
+  {
+    "code": "15.01.071.006",
+    "villageCode": "006",
+    "districtCode": "15.01.071",
+    "name": "Pungut Tengah",
+    "alias": "Pungut Tengah"
+  },
+  {
+    "code": "15.01.071.007",
+    "villageCode": "007",
+    "districtCode": "15.01.071",
+    "name": "Pungut Mudik",
+    "alias": "Pungut Mudik"
+  },
+  {
+    "code": "15.01.071.008",
+    "villageCode": "008",
+    "districtCode": "15.01.071",
+    "name": "Desa Baru Sei Tutung",
+    "alias": "Desa Baru Sei Tutung"
+  },
+  {
+    "code": "15.01.071.009",
+    "villageCode": "009",
+    "districtCode": "15.01.071",
+    "name": "Sungai Tutung",
+    "alias": "Sungai Tutung"
+  },
+  {
+    "code": "15.01.071.010",
+    "villageCode": "010",
+    "districtCode": "15.01.071",
+    "name": "Sungai Medang",
+    "alias": "Sungai Medang"
+  },
+  {
+    "code": "15.01.071.013",
+    "villageCode": "013",
+    "districtCode": "15.01.071",
+    "name": "Air Hangat",
+    "alias": "Air Hangat"
+  },
+  {
+    "code": "15.01.071.014",
+    "villageCode": "014",
+    "districtCode": "15.01.071",
+    "name": "Kemantan Tinggi",
+    "alias": "Kemantan Tinggi"
+  },
+  {
+    "code": "15.01.071.015",
+    "villageCode": "015",
+    "districtCode": "15.01.071",
+    "name": "Kemantan Agung",
+    "alias": "Kemantan Agung"
+  },
+  {
+    "code": "15.01.071.016",
+    "villageCode": "016",
+    "districtCode": "15.01.071",
+    "name": "Kemantan Kebalai",
+    "alias": "Kemantan Kebalai"
+  },
+  {
+    "code": "15.01.071.017",
+    "villageCode": "017",
+    "districtCode": "15.01.071",
+    "name": "Kemantan Darat",
+    "alias": "Kemantan Darat"
+  },
+  {
+    "code": "15.01.071.018",
+    "villageCode": "018",
+    "districtCode": "15.01.071",
+    "name": "Sungai Deras",
+    "alias": "Sungai Deras"
+  },
+  {
+    "code": "15.01.071.019",
+    "villageCode": "019",
+    "districtCode": "15.01.071",
+    "name": "Simpang Empat Sungai Tutung",
+    "alias": "Simpang Empat Sungai Tutung"
+  },
+  {
+    "code": "15.01.071.020",
+    "villageCode": "020",
+    "districtCode": "15.01.071",
+    "name": "Kemantan Mudik",
+    "alias": "Kemantan Mudik"
+  },
+  {
+    "code": "15.01.071.021",
+    "villageCode": "021",
+    "districtCode": "15.01.071",
+    "name": "Baru Sungai Deras",
+    "alias": "Baru Sungai Deras"
+  },
+  {
+    "code": "15.01.071.022",
+    "villageCode": "022",
+    "districtCode": "15.01.071",
+    "name": "Air Panas Sungai Abu",
+    "alias": "Air Panas Sungai Abu"
+  },
+  {
+    "code": "15.01.071.023",
+    "villageCode": "023",
+    "districtCode": "15.01.071",
+    "name": "Baru Sungai Abu",
+    "alias": "Baru Sungai Abu"
+  },
+  {
+    "code": "15.01.071.024",
+    "villageCode": "024",
+    "districtCode": "15.01.071",
+    "name": "Taman Jernih Sungai Tutung",
+    "alias": "Taman Jernih Sungai Tutung"
+  },
+  {
+    "code": "15.01.071.025",
+    "villageCode": "025",
+    "districtCode": "15.01.071",
+    "name": "Baru Sungai Medang",
+    "alias": "Baru Sungai Medang"
+  },
+  {
+    "code": "15.01.071.026",
+    "villageCode": "026",
+    "districtCode": "15.01.071",
+    "name": "Baru Air Hangat",
+    "alias": "Baru Air Hangat"
+  },
+  {
+    "code": "15.01.071.027",
+    "villageCode": "027",
+    "districtCode": "15.01.071",
+    "name": "Kemantan Raya",
+    "alias": "Kemantan Raya"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "code": "12.11.111.001",
+    "villageCode": "001",
+    "districtCode": "12.11.111",
+    "name": "Kubucolia",
+    "alias": "Kubucolia"
+  },
+  {
+    "code": "12.11.111.002",
+    "villageCode": "002",
+    "districtCode": "12.11.111",
+    "name": "Sampun",
+    "alias": "Sampun"
+  },
+  {
+    "code": "12.11.111.003",
+    "villageCode": "003",
+    "districtCode": "12.11.111",
+    "name": "Bukit",
+    "alias": "Bukit"
+  },
+  {
+    "code": "12.11.111.004",
+    "villageCode": "004",
+    "districtCode": "12.11.111",
+    "name": "Sugihen",
+    "alias": "Sugihen"
+  },
+  {
+    "code": "12.11.111.005",
+    "villageCode": "005",
+    "districtCode": "12.11.111",
+    "name": "Melas",
+    "alias": "Melas"
+  },
+  {
+    "code": "12.11.111.006",
+    "villageCode": "006",
+    "districtCode": "12.11.111",
+    "name": "Ujung Sampun",
+    "alias": "Ujung Sampun"
+  },
+  {
+    "code": "12.11.111.007",
+    "villageCode": "007",
+    "districtCode": "12.11.111",
+    "name": "Dolat Rayat",
+    "alias": "Dolat Rayat"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "code": "91.12.060.001",
+    "villageCode": "001",
+    "districtCode": "91.12.060",
+    "name": "Tridaga",
+    "alias": "Tridaga"
+  },
+  {
+    "code": "91.12.060.002",
+    "villageCode": "002",
+    "districtCode": "91.12.060",
+    "name": "Siskedowo",
+    "alias": "Siskedowo"
+  },
+  {
+    "code": "91.12.060.003",
+    "villageCode": "003",
+    "districtCode": "91.12.060",
+    "name": "Irbos",
+    "alias": "Irbos"
+  },
+  {
+    "code": "91.12.060.004",
+    "villageCode": "004",
+    "districtCode": "91.12.060",
+    "name": "Disura",
+    "alias": "Disura"
+  },
+  {
+    "code": "91.12.060.005",
+    "villageCode": "005",
+    "districtCode": "91.12.060",
+    "name": "Deurohu",
+    "alias": "Deurohu"
+  },
+  {
+    "code": "91.12.060.006",
+    "villageCode": "006",
+    "districtCode": "91.12.060",
+    "name": "Ansum",
+    "alias": "Ansum"
+  },
+  {
+    "code": "91.12.060.007",
+    "villageCode": "007",
+    "districtCode": "91.12.060",
+    "name": "Taige",
+    "alias": "Taige"
+  },
+  {
+    "code": "91.12.060.008",
+    "villageCode": "008",
+    "districtCode": "91.12.060",
+    "name": "Genyu",
+    "alias": "Genyu"
+  },
+  {
+    "code": "91.12.060.009",
+    "villageCode": "009",
+    "districtCode": "91.12.060",
+    "name": "Horeta",
+    "alias": "Horeta"
+  },
+  {
+    "code": "91.12.060.010",
+    "villageCode": "010",
+    "districtCode": "91.12.060",
+    "name": "Awigau",
+    "alias": "Awigau"
+  },
+  {
+    "code": "91.12.060.011",
+    "villageCode": "011",
+    "districtCode": "91.12.060",
+    "name": "Ubeisa",
+    "alias": "Ubeisa"
+  }
+]

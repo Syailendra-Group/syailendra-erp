@@ -1,0 +1,44 @@
+[
+  {
+    "code": "21.71.051.001",
+    "villageCode": "001",
+    "districtCode": "21.71.051",
+    "name": "Taman Baloi",
+    "alias": "Taman Baloi"
+  },
+  {
+    "code": "21.71.051.002",
+    "villageCode": "002",
+    "districtCode": "21.71.051",
+    "name": "Baloi Permai",
+    "alias": "Baloi Permai"
+  },
+  {
+    "code": "21.71.051.003",
+    "villageCode": "003",
+    "districtCode": "21.71.051",
+    "name": "Belian",
+    "alias": "Belian"
+  },
+  {
+    "code": "21.71.051.004",
+    "villageCode": "004",
+    "districtCode": "21.71.051",
+    "name": "Teluk Tering",
+    "alias": "Teluk Tering"
+  },
+  {
+    "code": "21.71.051.005",
+    "villageCode": "005",
+    "districtCode": "21.71.051",
+    "name": "Sungai Panas",
+    "alias": "Sungai Panas"
+  },
+  {
+    "code": "21.71.051.006",
+    "villageCode": "006",
+    "districtCode": "21.71.051",
+    "name": "Sukajadi",
+    "alias": "Sukajadi"
+  }
+]

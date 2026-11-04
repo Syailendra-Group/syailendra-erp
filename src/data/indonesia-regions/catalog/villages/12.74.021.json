@@ -1,0 +1,51 @@
+[
+  {
+    "code": "12.74.021.001",
+    "villageCode": "001",
+    "districtCode": "12.74.021",
+    "name": "Bulian",
+    "alias": "Bulian"
+  },
+  {
+    "code": "12.74.021.002",
+    "villageCode": "002",
+    "districtCode": "12.74.021",
+    "name": "Pelita",
+    "alias": "Pelita"
+  },
+  {
+    "code": "12.74.021.003",
+    "villageCode": "003",
+    "districtCode": "12.74.021",
+    "name": "Durian",
+    "alias": "Durian"
+  },
+  {
+    "code": "12.74.021.004",
+    "villageCode": "004",
+    "districtCode": "12.74.021",
+    "name": "Bandar Sakti",
+    "alias": "Bandar Sakti"
+  },
+  {
+    "code": "12.74.021.005",
+    "villageCode": "005",
+    "districtCode": "12.74.021",
+    "name": "Teluk Karang",
+    "alias": "Teluk Karang"
+  },
+  {
+    "code": "12.74.021.006",
+    "villageCode": "006",
+    "districtCode": "12.74.021",
+    "name": "Pinang Mancung",
+    "alias": "Pinang Mancung"
+  },
+  {
+    "code": "12.74.021.007",
+    "villageCode": "007",
+    "districtCode": "12.74.021",
+    "name": "Berohol",
+    "alias": "Berohol"
+  }
+]

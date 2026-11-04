@@ -1,0 +1,98 @@
+[
+  {
+    "code": "73.15.010",
+    "districtCode": "010",
+    "regencyCode": "73.15",
+    "provinceCode": "73",
+    "name": "Kecamatan Suppa",
+    "alias": "Suppa"
+  },
+  {
+    "code": "73.15.020",
+    "districtCode": "020",
+    "regencyCode": "73.15",
+    "provinceCode": "73",
+    "name": "Kecamatan Mattirosompe",
+    "alias": "Mattirosompe"
+  },
+  {
+    "code": "73.15.021",
+    "districtCode": "021",
+    "regencyCode": "73.15",
+    "provinceCode": "73",
+    "name": "Kecamatan Lanrisang",
+    "alias": "Lanrisang"
+  },
+  {
+    "code": "73.15.030",
+    "districtCode": "030",
+    "regencyCode": "73.15",
+    "provinceCode": "73",
+    "name": "Kecamatan Mattiro Bulu",
+    "alias": "Mattiro Bulu"
+  },
+  {
+    "code": "73.15.040",
+    "districtCode": "040",
+    "regencyCode": "73.15",
+    "provinceCode": "73",
+    "name": "Kecamatan Watang Sawitto",
+    "alias": "Watang Sawitto"
+  },
+  {
+    "code": "73.15.041",
+    "districtCode": "041",
+    "regencyCode": "73.15",
+    "provinceCode": "73",
+    "name": "Kecamatan Paleteang",
+    "alias": "Paleteang"
+  },
+  {
+    "code": "73.15.042",
+    "districtCode": "042",
+    "regencyCode": "73.15",
+    "provinceCode": "73",
+    "name": "Kecamatan Tiroang",
+    "alias": "Tiroang"
+  },
+  {
+    "code": "73.15.050",
+    "districtCode": "050",
+    "regencyCode": "73.15",
+    "provinceCode": "73",
+    "name": "Kecamatan Patampanua",
+    "alias": "Patampanua"
+  },
+  {
+    "code": "73.15.060",
+    "districtCode": "060",
+    "regencyCode": "73.15",
+    "provinceCode": "73",
+    "name": "Kecamatan Cempa",
+    "alias": "Cempa"
+  },
+  {
+    "code": "73.15.070",
+    "districtCode": "070",
+    "regencyCode": "73.15",
+    "provinceCode": "73",
+    "name": "Kecamatan Duampanua",
+    "alias": "Duampanua"
+  },
+  {
+    "code": "73.15.071",
+    "districtCode": "071",
+    "regencyCode": "73.15",
+    "provinceCode": "73",
+    "name": "Kecamatan Batulappa",
+    "alias": "Batulappa"
+  },
+  {
+    "code": "73.15.080",
+    "districtCode": "080",
+    "regencyCode": "73.15",
+    "provinceCode": "73",
+    "name": "Kecamatan Lembang",
+    "alias": "Lembang"
+  }
+]

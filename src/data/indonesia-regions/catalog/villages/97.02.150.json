@@ -1,0 +1,58 @@
+[
+  {
+    "code": "97.02.150.001",
+    "villageCode": "001",
+    "districtCode": "97.02.150",
+    "name": "Hubikiak",
+    "alias": "Hubikiak"
+  },
+  {
+    "code": "97.02.150.002",
+    "villageCode": "002",
+    "districtCode": "97.02.150",
+    "name": "Dokopku",
+    "alias": "Dokopku"
+  },
+  {
+    "code": "97.02.150.003",
+    "villageCode": "003",
+    "districtCode": "97.02.150",
+    "name": "Musiaima",
+    "alias": "Musiaima"
+  },
+  {
+    "code": "97.02.150.004",
+    "villageCode": "004",
+    "districtCode": "97.02.150",
+    "name": "Husoak",
+    "alias": "Husoak"
+  },
+  {
+    "code": "97.02.150.005",
+    "villageCode": "005",
+    "districtCode": "97.02.150",
+    "name": "Hom-Hom",
+    "alias": "Hom-Hom"
+  },
+  {
+    "code": "97.02.150.006",
+    "villageCode": "006",
+    "districtCode": "97.02.150",
+    "name": "Hetuma",
+    "alias": "Hetuma"
+  },
+  {
+    "code": "97.02.150.007",
+    "villageCode": "007",
+    "districtCode": "97.02.150",
+    "name": "Likino",
+    "alias": "Likino"
+  },
+  {
+    "code": "97.02.150.008",
+    "villageCode": "008",
+    "districtCode": "97.02.150",
+    "name": "Musiaima Ii",
+    "alias": "Musiaima Ii"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "code": "97.07.120.001",
+    "villageCode": "001",
+    "districtCode": "97.07.120",
+    "name": "Wanim",
+    "alias": "Wanim"
+  },
+  {
+    "code": "97.07.120.002",
+    "villageCode": "002",
+    "districtCode": "97.07.120",
+    "name": "Lolat",
+    "alias": "Lolat"
+  },
+  {
+    "code": "97.07.120.003",
+    "villageCode": "003",
+    "districtCode": "97.07.120",
+    "name": "Bunde",
+    "alias": "Bunde"
+  },
+  {
+    "code": "97.07.120.004",
+    "villageCode": "004",
+    "districtCode": "97.07.120",
+    "name": "Serahak",
+    "alias": "Serahak"
+  },
+  {
+    "code": "97.07.120.005",
+    "villageCode": "005",
+    "districtCode": "97.07.120",
+    "name": "Webile",
+    "alias": "Webile"
+  },
+  {
+    "code": "97.07.120.006",
+    "villageCode": "006",
+    "districtCode": "97.07.120",
+    "name": "Dinggila",
+    "alias": "Dinggila"
+  },
+  {
+    "code": "97.07.120.007",
+    "villageCode": "007",
+    "districtCode": "97.07.120",
+    "name": "Esalek",
+    "alias": "Esalek"
+  },
+  {
+    "code": "97.07.120.008",
+    "villageCode": "008",
+    "districtCode": "97.07.120",
+    "name": "Denema",
+    "alias": "Denema"
+  }
+]

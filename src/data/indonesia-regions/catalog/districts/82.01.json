@@ -1,0 +1,74 @@
+[
+  {
+    "code": "82.01.090",
+    "districtCode": "090",
+    "regencyCode": "82.01",
+    "provinceCode": "82",
+    "name": "Kecamatan Jailolo",
+    "alias": "Jailolo"
+  },
+  {
+    "code": "82.01.091",
+    "districtCode": "091",
+    "regencyCode": "82.01",
+    "provinceCode": "82",
+    "name": "Kecamatan Jailolo Selatan",
+    "alias": "Jailolo Selatan"
+  },
+  {
+    "code": "82.01.100",
+    "districtCode": "100",
+    "regencyCode": "82.01",
+    "provinceCode": "82",
+    "name": "Kecamatan Sahu",
+    "alias": "Sahu"
+  },
+  {
+    "code": "82.01.101",
+    "districtCode": "101",
+    "regencyCode": "82.01",
+    "provinceCode": "82",
+    "name": "Kecamatan Sahu Timur",
+    "alias": "Sahu Timur"
+  },
+  {
+    "code": "82.01.130",
+    "districtCode": "130",
+    "regencyCode": "82.01",
+    "provinceCode": "82",
+    "name": "Kecamatan Ibu",
+    "alias": "Ibu"
+  },
+  {
+    "code": "82.01.131",
+    "districtCode": "131",
+    "regencyCode": "82.01",
+    "provinceCode": "82",
+    "name": "Kecamatan Ibu Selatan",
+    "alias": "Ibu Selatan"
+  },
+  {
+    "code": "82.01.132",
+    "districtCode": "132",
+    "regencyCode": "82.01",
+    "provinceCode": "82",
+    "name": "Kecamatan Tabaru",
+    "alias": "Tabaru"
+  },
+  {
+    "code": "82.01.140",
+    "districtCode": "140",
+    "regencyCode": "82.01",
+    "provinceCode": "82",
+    "name": "Kecamatan Loloda",
+    "alias": "Loloda"
+  },
+  {
+    "code": "82.01.141",
+    "districtCode": "141",
+    "regencyCode": "82.01",
+    "provinceCode": "82",
+    "name": "Kecamatan Loloda Tengah",
+    "alias": "Loloda Tengah"
+  }
+]

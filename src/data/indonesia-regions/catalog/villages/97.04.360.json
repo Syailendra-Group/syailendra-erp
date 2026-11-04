@@ -1,0 +1,72 @@
+[
+  {
+    "code": "97.04.360.001",
+    "villageCode": "001",
+    "districtCode": "97.04.360",
+    "name": "Kaiga",
+    "alias": "Kaiga"
+  },
+  {
+    "code": "97.04.360.002",
+    "villageCode": "002",
+    "districtCode": "97.04.360",
+    "name": "Bawi",
+    "alias": "Bawi"
+  },
+  {
+    "code": "97.04.360.003",
+    "villageCode": "003",
+    "districtCode": "97.04.360",
+    "name": "Tina",
+    "alias": "Tina"
+  },
+  {
+    "code": "97.04.360.004",
+    "villageCode": "004",
+    "districtCode": "97.04.360",
+    "name": "Kurbaya",
+    "alias": "Kurbaya"
+  },
+  {
+    "code": "97.04.360.005",
+    "villageCode": "005",
+    "districtCode": "97.04.360",
+    "name": "Wiyangger",
+    "alias": "Wiyangger"
+  },
+  {
+    "code": "97.04.360.006",
+    "villageCode": "006",
+    "districtCode": "97.04.360",
+    "name": "Piralome",
+    "alias": "Piralome"
+  },
+  {
+    "code": "97.04.360.007",
+    "villageCode": "007",
+    "districtCode": "97.04.360",
+    "name": "Wolu",
+    "alias": "Wolu"
+  },
+  {
+    "code": "97.04.360.008",
+    "villageCode": "008",
+    "districtCode": "97.04.360",
+    "name": "Kotorambur",
+    "alias": "Kotorambur"
+  },
+  {
+    "code": "97.04.360.009",
+    "villageCode": "009",
+    "districtCode": "97.04.360",
+    "name": "Tunggunale",
+    "alias": "Tunggunale"
+  },
+  {
+    "code": "97.04.360.010",
+    "villageCode": "010",
+    "districtCode": "97.04.360",
+    "name": "Agian",
+    "alias": "Agian"
+  }
+]

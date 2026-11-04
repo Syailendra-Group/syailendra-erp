@@ -1,0 +1,198 @@
+[
+  {
+    "code": "11.09.220.001",
+    "villageCode": "001",
+    "districtCode": "11.09.220",
+    "name": "Kareung",
+    "alias": "Kareung"
+  },
+  {
+    "code": "11.09.220.002",
+    "villageCode": "002",
+    "districtCode": "11.09.220",
+    "name": "Awe",
+    "alias": "Awe"
+  },
+  {
+    "code": "11.09.220.003",
+    "villageCode": "003",
+    "districtCode": "11.09.220",
+    "name": "Rungkom",
+    "alias": "Rungkom"
+  },
+  {
+    "code": "11.09.220.004",
+    "villageCode": "004",
+    "districtCode": "11.09.220",
+    "name": "Pulo Pande",
+    "alias": "Pulo Pande"
+  },
+  {
+    "code": "11.09.220.005",
+    "villageCode": "005",
+    "districtCode": "11.09.220",
+    "name": "Mee",
+    "alias": "Mee"
+  },
+  {
+    "code": "11.09.220.006",
+    "villageCode": "006",
+    "districtCode": "11.09.220",
+    "name": "Alue Lada",
+    "alias": "Alue Lada"
+  },
+  {
+    "code": "11.09.220.007",
+    "villageCode": "007",
+    "districtCode": "11.09.220",
+    "name": "Seulatan",
+    "alias": "Seulatan"
+  },
+  {
+    "code": "11.09.220.008",
+    "villageCode": "008",
+    "districtCode": "11.09.220",
+    "name": "Tuha",
+    "alias": "Tuha"
+  },
+  {
+    "code": "11.09.220.009",
+    "villageCode": "009",
+    "districtCode": "11.09.220",
+    "name": "Teupin Raya",
+    "alias": "Teupin Raya"
+  },
+  {
+    "code": "11.09.220.010",
+    "villageCode": "010",
+    "districtCode": "11.09.220",
+    "name": "Calong Cut",
+    "alias": "Calong Cut"
+  },
+  {
+    "code": "11.09.220.011",
+    "villageCode": "011",
+    "districtCode": "11.09.220",
+    "name": "Dayah",
+    "alias": "Dayah"
+  },
+  {
+    "code": "11.09.220.012",
+    "villageCode": "012",
+    "districtCode": "11.09.220",
+    "name": "Meucat",
+    "alias": "Meucat"
+  },
+  {
+    "code": "11.09.220.013",
+    "villageCode": "013",
+    "districtCode": "11.09.220",
+    "name": "Aron",
+    "alias": "Aron"
+  },
+  {
+    "code": "11.09.220.014",
+    "villageCode": "014",
+    "districtCode": "11.09.220",
+    "name": "Mesjid",
+    "alias": "Mesjid"
+  },
+  {
+    "code": "11.09.220.015",
+    "villageCode": "015",
+    "districtCode": "11.09.220",
+    "name": "Bintang Hu",
+    "alias": "Bintang Hu"
+  },
+  {
+    "code": "11.09.220.016",
+    "villageCode": "016",
+    "districtCode": "11.09.220",
+    "name": "Dayah Tuha",
+    "alias": "Dayah Tuha"
+  },
+  {
+    "code": "11.09.220.017",
+    "villageCode": "017",
+    "districtCode": "11.09.220",
+    "name": "Dayah Baroh",
+    "alias": "Dayah Baroh"
+  },
+  {
+    "code": "11.09.220.018",
+    "villageCode": "018",
+    "districtCode": "11.09.220",
+    "name": "Pulo Tukok",
+    "alias": "Pulo Tukok"
+  },
+  {
+    "code": "11.09.220.019",
+    "villageCode": "019",
+    "districtCode": "11.09.220",
+    "name": "Glumpang Lhee",
+    "alias": "Glumpang Lhee"
+  },
+  {
+    "code": "11.09.220.020",
+    "villageCode": "020",
+    "districtCode": "11.09.220",
+    "name": "Geunteng Timur",
+    "alias": "Geunteng Timur"
+  },
+  {
+    "code": "11.09.220.021",
+    "villageCode": "021",
+    "districtCode": "11.09.220",
+    "name": "Geunteng Barat",
+    "alias": "Geunteng Barat"
+  },
+  {
+    "code": "11.09.220.022",
+    "villageCode": "022",
+    "districtCode": "11.09.220",
+    "name": "Pulo Bungong",
+    "alias": "Pulo Bungong"
+  },
+  {
+    "code": "11.09.220.023",
+    "villageCode": "023",
+    "districtCode": "11.09.220",
+    "name": "Teupin Jeue",
+    "alias": "Teupin Jeue"
+  },
+  {
+    "code": "11.09.220.024",
+    "villageCode": "024",
+    "districtCode": "11.09.220",
+    "name": "Neuheun",
+    "alias": "Neuheun"
+  },
+  {
+    "code": "11.09.220.025",
+    "villageCode": "025",
+    "districtCode": "11.09.220",
+    "name": "Crueng",
+    "alias": "Crueng"
+  },
+  {
+    "code": "11.09.220.026",
+    "villageCode": "026",
+    "districtCode": "11.09.220",
+    "name": "Kulam",
+    "alias": "Kulam"
+  },
+  {
+    "code": "11.09.220.027",
+    "villageCode": "027",
+    "districtCode": "11.09.220",
+    "name": "Kulee",
+    "alias": "Kulee"
+  },
+  {
+    "code": "11.09.220.028",
+    "villageCode": "028",
+    "districtCode": "11.09.220",
+    "name": "Pasi Beurandeh",
+    "alias": "Pasi Beurandeh"
+  }
+]

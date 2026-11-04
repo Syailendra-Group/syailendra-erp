@@ -1,0 +1,51 @@
+[
+  {
+    "code": "12.02.082.001",
+    "villageCode": "001",
+    "districtCode": "12.02.082",
+    "name": "Banua Rakyat",
+    "alias": "Banua Rakyat"
+  },
+  {
+    "code": "12.02.082.002",
+    "villageCode": "002",
+    "districtCode": "12.02.082",
+    "name": "Humbang I",
+    "alias": "Humbang I"
+  },
+  {
+    "code": "12.02.082.003",
+    "villageCode": "003",
+    "districtCode": "12.02.082",
+    "name": "Sayur Matua",
+    "alias": "Sayur Matua"
+  },
+  {
+    "code": "12.02.082.004",
+    "villageCode": "004",
+    "districtCode": "12.02.082",
+    "name": "Tarutung Panjang",
+    "alias": "Tarutung Panjang"
+  },
+  {
+    "code": "12.02.082.005",
+    "villageCode": "005",
+    "districtCode": "12.02.082",
+    "name": "Tambiski",
+    "alias": "Tambiski"
+  },
+  {
+    "code": "12.02.082.006",
+    "villageCode": "006",
+    "districtCode": "12.02.082",
+    "name": "Banua Simanosor",
+    "alias": "Banua Simanosor"
+  },
+  {
+    "code": "12.02.082.007",
+    "villageCode": "007",
+    "districtCode": "12.02.082",
+    "name": "Tambiski Nauli",
+    "alias": "Tambiski Nauli"
+  }
+]

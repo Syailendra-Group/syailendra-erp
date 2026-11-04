@@ -1,0 +1,86 @@
+[
+  {
+    "code": "95.04.013.001",
+    "villageCode": "001",
+    "districtCode": "95.04.013",
+    "name": "Emene",
+    "alias": "Emene"
+  },
+  {
+    "code": "95.04.013.002",
+    "villageCode": "002",
+    "districtCode": "95.04.013",
+    "name": "Tareo",
+    "alias": "Tareo"
+  },
+  {
+    "code": "95.04.013.003",
+    "villageCode": "003",
+    "districtCode": "95.04.013",
+    "name": "Semendoro",
+    "alias": "Semendoro"
+  },
+  {
+    "code": "95.04.013.004",
+    "villageCode": "004",
+    "districtCode": "95.04.013",
+    "name": "Saman",
+    "alias": "Saman"
+  },
+  {
+    "code": "95.04.013.005",
+    "villageCode": "005",
+    "districtCode": "95.04.013",
+    "name": "Aworket",
+    "alias": "Aworket"
+  },
+  {
+    "code": "95.04.013.006",
+    "villageCode": "006",
+    "districtCode": "95.04.013",
+    "name": "Primapun",
+    "alias": "Primapun"
+  },
+  {
+    "code": "95.04.013.007",
+    "villageCode": "007",
+    "districtCode": "95.04.013",
+    "name": "Kairin",
+    "alias": "Kairin"
+  },
+  {
+    "code": "95.04.013.008",
+    "villageCode": "008",
+    "districtCode": "95.04.013",
+    "name": "Bayun",
+    "alias": "Bayun"
+  },
+  {
+    "code": "95.04.013.009",
+    "villageCode": "009",
+    "districtCode": "95.04.013",
+    "name": "Santambor",
+    "alias": "Santambor"
+  },
+  {
+    "code": "95.04.013.010",
+    "villageCode": "010",
+    "districtCode": "95.04.013",
+    "name": "Yaptambor",
+    "alias": "Yaptambor"
+  },
+  {
+    "code": "95.04.013.011",
+    "villageCode": "011",
+    "districtCode": "95.04.013",
+    "name": "Simsagar",
+    "alias": "Simsagar"
+  },
+  {
+    "code": "95.04.013.012",
+    "villageCode": "012",
+    "districtCode": "95.04.013",
+    "name": "Itersok",
+    "alias": "Itersok"
+  }
+]

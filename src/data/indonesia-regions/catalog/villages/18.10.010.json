@@ -1,0 +1,93 @@
+[
+  {
+    "code": "18.10.010.004",
+    "villageCode": "004",
+    "districtCode": "18.10.010",
+    "name": "Selapan",
+    "alias": "Selapan"
+  },
+  {
+    "code": "18.10.010.005",
+    "villageCode": "005",
+    "districtCode": "18.10.010",
+    "name": "Kedaung",
+    "alias": "Kedaung"
+  },
+  {
+    "code": "18.10.010.006",
+    "villageCode": "006",
+    "districtCode": "18.10.010",
+    "name": "Suka Negeri",
+    "alias": "Suka Negeri"
+  },
+  {
+    "code": "18.10.010.007",
+    "villageCode": "007",
+    "districtCode": "18.10.010",
+    "name": "Rantau Tijang",
+    "alias": "Rantau Tijang"
+  },
+  {
+    "code": "18.10.010.008",
+    "villageCode": "008",
+    "districtCode": "18.10.010",
+    "name": "Pardasuka",
+    "alias": "Pardasuka"
+  },
+  {
+    "code": "18.10.010.009",
+    "villageCode": "009",
+    "districtCode": "18.10.010",
+    "name": "Tanjung Rusia",
+    "alias": "Tanjung Rusia"
+  },
+  {
+    "code": "18.10.010.013",
+    "villageCode": "013",
+    "districtCode": "18.10.010",
+    "name": "Wargo Mulyo",
+    "alias": "Wargo Mulyo"
+  },
+  {
+    "code": "18.10.010.014",
+    "villageCode": "014",
+    "districtCode": "18.10.010",
+    "name": "Pujodadi",
+    "alias": "Pujodadi"
+  },
+  {
+    "code": "18.10.010.015",
+    "villageCode": "015",
+    "districtCode": "18.10.010",
+    "name": "Sukorejo",
+    "alias": "Sukorejo"
+  },
+  {
+    "code": "18.10.010.018",
+    "villageCode": "018",
+    "districtCode": "18.10.010",
+    "name": "Sidodadi",
+    "alias": "Sidodadi"
+  },
+  {
+    "code": "18.10.010.019",
+    "villageCode": "019",
+    "districtCode": "18.10.010",
+    "name": "Pardasuka Timur",
+    "alias": "Pardasuka Timur"
+  },
+  {
+    "code": "18.10.010.020",
+    "villageCode": "020",
+    "districtCode": "18.10.010",
+    "name": "Tanjung Rusia Timur",
+    "alias": "Tanjung Rusia Timur"
+  },
+  {
+    "code": "18.10.010.021",
+    "villageCode": "021",
+    "districtCode": "18.10.010",
+    "name": "Pardasuka Selatan",
+    "alias": "Pardasuka Selatan"
+  }
+]

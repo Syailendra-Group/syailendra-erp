@@ -1,0 +1,72 @@
+[
+  {
+    "code": "13.02.012.001",
+    "villageCode": "001",
+    "districtCode": "13.02.012",
+    "name": "Lunang",
+    "alias": "Lunang"
+  },
+  {
+    "code": "13.02.012.002",
+    "villageCode": "002",
+    "districtCode": "13.02.012",
+    "name": "Lunang Selatan",
+    "alias": "Lunang Selatan"
+  },
+  {
+    "code": "13.02.012.003",
+    "villageCode": "003",
+    "districtCode": "13.02.012",
+    "name": "Lunang Utara",
+    "alias": "Lunang Utara"
+  },
+  {
+    "code": "13.02.012.004",
+    "villageCode": "004",
+    "districtCode": "13.02.012",
+    "name": "Lunang Barat",
+    "alias": "Lunang Barat"
+  },
+  {
+    "code": "13.02.012.005",
+    "villageCode": "005",
+    "districtCode": "13.02.012",
+    "name": "Sindang Lunang",
+    "alias": "Sindang Lunang"
+  },
+  {
+    "code": "13.02.012.006",
+    "villageCode": "006",
+    "districtCode": "13.02.012",
+    "name": "Lunang Satu",
+    "alias": "Lunang Satu"
+  },
+  {
+    "code": "13.02.012.007",
+    "villageCode": "007",
+    "districtCode": "13.02.012",
+    "name": "Lunang Tengah",
+    "alias": "Lunang Tengah"
+  },
+  {
+    "code": "13.02.012.008",
+    "villageCode": "008",
+    "districtCode": "13.02.012",
+    "name": "Pondok Parian Lunang",
+    "alias": "Pondok Parian Lunang"
+  },
+  {
+    "code": "13.02.012.009",
+    "villageCode": "009",
+    "districtCode": "13.02.012",
+    "name": "Lunang Dua",
+    "alias": "Lunang Dua"
+  },
+  {
+    "code": "13.02.012.010",
+    "villageCode": "010",
+    "districtCode": "13.02.012",
+    "name": "Lunang Tiga",
+    "alias": "Lunang Tiga"
+  }
+]

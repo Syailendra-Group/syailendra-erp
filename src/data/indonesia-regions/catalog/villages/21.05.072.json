@@ -1,0 +1,37 @@
+[
+  {
+    "code": "21.05.072.001",
+    "villageCode": "001",
+    "districtCode": "21.05.072",
+    "name": "Payalaman",
+    "alias": "Payalaman"
+  },
+  {
+    "code": "21.05.072.002",
+    "villageCode": "002",
+    "districtCode": "21.05.072",
+    "name": "Teluk Bayur",
+    "alias": "Teluk Bayur"
+  },
+  {
+    "code": "21.05.072.003",
+    "villageCode": "003",
+    "districtCode": "21.05.072",
+    "name": "Matak",
+    "alias": "Matak"
+  },
+  {
+    "code": "21.05.072.004",
+    "villageCode": "004",
+    "districtCode": "21.05.072",
+    "name": "Payamaram",
+    "alias": "Payamaram"
+  },
+  {
+    "code": "21.05.072.005",
+    "villageCode": "005",
+    "districtCode": "21.05.072",
+    "name": "Batu Ampar",
+    "alias": "Batu Ampar"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "code": "97.08.330.001",
+    "villageCode": "001",
+    "districtCode": "97.08.330",
+    "name": "Bias",
+    "alias": "Bias"
+  },
+  {
+    "code": "97.08.330.002",
+    "villageCode": "002",
+    "districtCode": "97.08.330",
+    "name": "Bumi",
+    "alias": "Bumi"
+  },
+  {
+    "code": "97.08.330.003",
+    "villageCode": "003",
+    "districtCode": "97.08.330",
+    "name": "Tero",
+    "alias": "Tero"
+  },
+  {
+    "code": "97.08.330.004",
+    "villageCode": "004",
+    "districtCode": "97.08.330",
+    "name": "Delemo",
+    "alias": "Delemo"
+  }
+]

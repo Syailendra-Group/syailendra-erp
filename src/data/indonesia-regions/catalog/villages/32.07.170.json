@@ -1,0 +1,44 @@
+[
+  {
+    "code": "32.07.170.001",
+    "villageCode": "001",
+    "districtCode": "32.07.170",
+    "name": "Tambaksari",
+    "alias": "Tambaksari"
+  },
+  {
+    "code": "32.07.170.002",
+    "villageCode": "002",
+    "districtCode": "32.07.170",
+    "name": "Karangpaningal",
+    "alias": "Karangpaningal"
+  },
+  {
+    "code": "32.07.170.003",
+    "villageCode": "003",
+    "districtCode": "32.07.170",
+    "name": "Kaso",
+    "alias": "Kaso"
+  },
+  {
+    "code": "32.07.170.004",
+    "villageCode": "004",
+    "districtCode": "32.07.170",
+    "name": "Mekarsari",
+    "alias": "Mekarsari"
+  },
+  {
+    "code": "32.07.170.005",
+    "villageCode": "005",
+    "districtCode": "32.07.170",
+    "name": "Sukasari",
+    "alias": "Sukasari"
+  },
+  {
+    "code": "32.07.170.006",
+    "villageCode": "006",
+    "districtCode": "32.07.170",
+    "name": "Kadupandak",
+    "alias": "Kadupandak"
+  }
+]

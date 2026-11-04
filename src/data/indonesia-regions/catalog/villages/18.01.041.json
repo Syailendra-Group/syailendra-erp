@@ -1,0 +1,72 @@
+[
+  {
+    "code": "18.01.041.001",
+    "villageCode": "001",
+    "districtCode": "18.01.041",
+    "name": "Tanjung Raya",
+    "alias": "Tanjung Raya"
+  },
+  {
+    "code": "18.01.041.002",
+    "villageCode": "002",
+    "districtCode": "18.01.041",
+    "name": "Hanakau",
+    "alias": "Hanakau"
+  },
+  {
+    "code": "18.01.041.003",
+    "villageCode": "003",
+    "districtCode": "18.01.041",
+    "name": "Buay Nyerupa",
+    "alias": "Buay Nyerupa"
+  },
+  {
+    "code": "18.01.041.004",
+    "villageCode": "004",
+    "districtCode": "18.01.041",
+    "name": "Tapak Siring",
+    "alias": "Tapak Siring"
+  },
+  {
+    "code": "18.01.041.005",
+    "villageCode": "005",
+    "districtCode": "18.01.041",
+    "name": "Pagar Dewa",
+    "alias": "Pagar Dewa"
+  },
+  {
+    "code": "18.01.041.006",
+    "villageCode": "006",
+    "districtCode": "18.01.041",
+    "name": "Jaga Raga",
+    "alias": "Jaga Raga"
+  },
+  {
+    "code": "18.01.041.012",
+    "villageCode": "012",
+    "districtCode": "18.01.041",
+    "name": "Suka Mulya",
+    "alias": "Suka Mulya"
+  },
+  {
+    "code": "18.01.041.018",
+    "villageCode": "018",
+    "districtCode": "18.01.041",
+    "name": "Bandar Baru",
+    "alias": "Bandar Baru"
+  },
+  {
+    "code": "18.01.041.019",
+    "villageCode": "019",
+    "districtCode": "18.01.041",
+    "name": "Bumi Jaya",
+    "alias": "Bumi Jaya"
+  },
+  {
+    "code": "18.01.041.020",
+    "villageCode": "020",
+    "districtCode": "18.01.041",
+    "name": "Teba Pering Raya",
+    "alias": "Teba Pering Raya"
+  }
+]

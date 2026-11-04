@@ -1,0 +1,50 @@
+[
+  {
+    "code": "53.71.010",
+    "districtCode": "010",
+    "regencyCode": "53.71",
+    "provinceCode": "53",
+    "name": "Kecamatan Alak",
+    "alias": "Alak"
+  },
+  {
+    "code": "53.71.020",
+    "districtCode": "020",
+    "regencyCode": "53.71",
+    "provinceCode": "53",
+    "name": "Kecamatan Maulafa",
+    "alias": "Maulafa"
+  },
+  {
+    "code": "53.71.030",
+    "districtCode": "030",
+    "regencyCode": "53.71",
+    "provinceCode": "53",
+    "name": "Kecamatan Oebobo",
+    "alias": "Oebobo"
+  },
+  {
+    "code": "53.71.031",
+    "districtCode": "031",
+    "regencyCode": "53.71",
+    "provinceCode": "53",
+    "name": "Kecamatan Kota Raja",
+    "alias": "Kota Raja"
+  },
+  {
+    "code": "53.71.040",
+    "districtCode": "040",
+    "regencyCode": "53.71",
+    "provinceCode": "53",
+    "name": "Kecamatan Kelapa Lima",
+    "alias": "Kelapa Lima"
+  },
+  {
+    "code": "53.71.041",
+    "districtCode": "041",
+    "regencyCode": "53.71",
+    "provinceCode": "53",
+    "name": "Kecamatan Kota Lama",
+    "alias": "Kota Lama"
+  }
+]

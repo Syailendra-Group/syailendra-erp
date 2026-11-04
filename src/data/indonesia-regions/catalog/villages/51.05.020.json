@@ -1,0 +1,93 @@
+[
+  {
+    "code": "51.05.020.001",
+    "villageCode": "001",
+    "districtCode": "51.05.020",
+    "name": "Negari",
+    "alias": "Negari"
+  },
+  {
+    "code": "51.05.020.002",
+    "villageCode": "002",
+    "districtCode": "51.05.020",
+    "name": "Takmung",
+    "alias": "Takmung"
+  },
+  {
+    "code": "51.05.020.003",
+    "villageCode": "003",
+    "districtCode": "51.05.020",
+    "name": "Banjarangkan",
+    "alias": "Banjarangkan"
+  },
+  {
+    "code": "51.05.020.004",
+    "villageCode": "004",
+    "districtCode": "51.05.020",
+    "name": "Tusan",
+    "alias": "Tusan"
+  },
+  {
+    "code": "51.05.020.005",
+    "villageCode": "005",
+    "districtCode": "51.05.020",
+    "name": "Bakas",
+    "alias": "Bakas"
+  },
+  {
+    "code": "51.05.020.006",
+    "villageCode": "006",
+    "districtCode": "51.05.020",
+    "name": "Getakan",
+    "alias": "Getakan"
+  },
+  {
+    "code": "51.05.020.007",
+    "villageCode": "007",
+    "districtCode": "51.05.020",
+    "name": "Tihingan",
+    "alias": "Tihingan"
+  },
+  {
+    "code": "51.05.020.008",
+    "villageCode": "008",
+    "districtCode": "51.05.020",
+    "name": "Aan",
+    "alias": "Aan"
+  },
+  {
+    "code": "51.05.020.009",
+    "villageCode": "009",
+    "districtCode": "51.05.020",
+    "name": "Nyalian",
+    "alias": "Nyalian"
+  },
+  {
+    "code": "51.05.020.010",
+    "villageCode": "010",
+    "districtCode": "51.05.020",
+    "name": "Bungbungan",
+    "alias": "Bungbungan"
+  },
+  {
+    "code": "51.05.020.011",
+    "villageCode": "011",
+    "districtCode": "51.05.020",
+    "name": "Timuhun",
+    "alias": "Timuhun"
+  },
+  {
+    "code": "51.05.020.012",
+    "villageCode": "012",
+    "districtCode": "51.05.020",
+    "name": "Nyanglan",
+    "alias": "Nyanglan"
+  },
+  {
+    "code": "51.05.020.013",
+    "villageCode": "013",
+    "districtCode": "51.05.020",
+    "name": "Tohpati",
+    "alias": "Tohpati"
+  }
+]

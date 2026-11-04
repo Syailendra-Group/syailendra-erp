@@ -1,0 +1,98 @@
+[
+  {
+    "code": "21.71.010",
+    "districtCode": "010",
+    "regencyCode": "21.71",
+    "provinceCode": "21",
+    "name": "Kecamatan Belakang Padang",
+    "alias": "Belakang Padang"
+  },
+  {
+    "code": "21.71.020",
+    "districtCode": "020",
+    "regencyCode": "21.71",
+    "provinceCode": "21",
+    "name": "Kecamatan Bulang",
+    "alias": "Bulang"
+  },
+  {
+    "code": "21.71.030",
+    "districtCode": "030",
+    "regencyCode": "21.71",
+    "provinceCode": "21",
+    "name": "Kecamatan Galang",
+    "alias": "Galang"
+  },
+  {
+    "code": "21.71.040",
+    "districtCode": "040",
+    "regencyCode": "21.71",
+    "provinceCode": "21",
+    "name": "Kecamatan Sei Beduk",
+    "alias": "Sei Beduk"
+  },
+  {
+    "code": "21.71.041",
+    "districtCode": "041",
+    "regencyCode": "21.71",
+    "provinceCode": "21",
+    "name": "Kecamatan Sagulung",
+    "alias": "Sagulung"
+  },
+  {
+    "code": "21.71.050",
+    "districtCode": "050",
+    "regencyCode": "21.71",
+    "provinceCode": "21",
+    "name": "Kecamatan Nongsa",
+    "alias": "Nongsa"
+  },
+  {
+    "code": "21.71.051",
+    "districtCode": "051",
+    "regencyCode": "21.71",
+    "provinceCode": "21",
+    "name": "Kecamatan Batam Kota",
+    "alias": "Batam Kota"
+  },
+  {
+    "code": "21.71.060",
+    "districtCode": "060",
+    "regencyCode": "21.71",
+    "provinceCode": "21",
+    "name": "Kecamatan Sekupang",
+    "alias": "Sekupang"
+  },
+  {
+    "code": "21.71.061",
+    "districtCode": "061",
+    "regencyCode": "21.71",
+    "provinceCode": "21",
+    "name": "Kecamatan Batu Aji",
+    "alias": "Batu Aji"
+  },
+  {
+    "code": "21.71.070",
+    "districtCode": "070",
+    "regencyCode": "21.71",
+    "provinceCode": "21",
+    "name": "Kecamatan Lubuk Baja",
+    "alias": "Lubuk Baja"
+  },
+  {
+    "code": "21.71.080",
+    "districtCode": "080",
+    "regencyCode": "21.71",
+    "provinceCode": "21",
+    "name": "Kecamatan Batu Ampar",
+    "alias": "Batu Ampar"
+  },
+  {
+    "code": "21.71.081",
+    "districtCode": "081",
+    "regencyCode": "21.71",
+    "provinceCode": "21",
+    "name": "Kecamatan Bengkong",
+    "alias": "Bengkong"
+  }
+]

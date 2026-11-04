@@ -1,0 +1,86 @@
+[
+  {
+    "code": "15.01.010.001",
+    "villageCode": "001",
+    "districtCode": "15.01.010",
+    "name": "Lempur Mudik",
+    "alias": "Lempur Mudik"
+  },
+  {
+    "code": "15.01.010.002",
+    "villageCode": "002",
+    "districtCode": "15.01.010",
+    "name": "Dusun Baru Lempur",
+    "alias": "Dusun Baru Lempur"
+  },
+  {
+    "code": "15.01.010.003",
+    "villageCode": "003",
+    "districtCode": "15.01.010",
+    "name": "Lempur Tengah",
+    "alias": "Lempur Tengah"
+  },
+  {
+    "code": "15.01.010.004",
+    "villageCode": "004",
+    "districtCode": "15.01.010",
+    "name": "Lempur Hilir",
+    "alias": "Lempur Hilir"
+  },
+  {
+    "code": "15.01.010.005",
+    "villageCode": "005",
+    "districtCode": "15.01.010",
+    "name": "Perikan Tengah",
+    "alias": "Perikan Tengah"
+  },
+  {
+    "code": "15.01.010.006",
+    "villageCode": "006",
+    "districtCode": "15.01.010",
+    "name": "Selampaung",
+    "alias": "Selampaung"
+  },
+  {
+    "code": "15.01.010.007",
+    "villageCode": "007",
+    "districtCode": "15.01.010",
+    "name": "Masgo",
+    "alias": "Masgo"
+  },
+  {
+    "code": "15.01.010.008",
+    "villageCode": "008",
+    "districtCode": "15.01.010",
+    "name": "Air Mumu",
+    "alias": "Air Mumu"
+  },
+  {
+    "code": "15.01.010.009",
+    "villageCode": "009",
+    "districtCode": "15.01.010",
+    "name": "Kebun Baru",
+    "alias": "Kebun Baru"
+  },
+  {
+    "code": "15.01.010.010",
+    "villageCode": "010",
+    "districtCode": "15.01.010",
+    "name": "Sungai Hangat",
+    "alias": "Sungai Hangat"
+  },
+  {
+    "code": "15.01.010.017",
+    "villageCode": "017",
+    "districtCode": "15.01.010",
+    "name": "Manjunto Lempur",
+    "alias": "Manjunto Lempur"
+  },
+  {
+    "code": "15.01.010.018",
+    "villageCode": "018",
+    "districtCode": "15.01.010",
+    "name": "Kebun Lima",
+    "alias": "Kebun Lima"
+  }
+]

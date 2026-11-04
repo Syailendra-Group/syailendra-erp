@@ -1,0 +1,51 @@
+[
+  {
+    "code": "96.07.250.001",
+    "villageCode": "001",
+    "districtCode": "96.07.250",
+    "name": "Faisauw",
+    "alias": "Faisauw"
+  },
+  {
+    "code": "96.07.250.002",
+    "villageCode": "002",
+    "districtCode": "96.07.250",
+    "name": "Kordesi",
+    "alias": "Kordesi"
+  },
+  {
+    "code": "96.07.250.003",
+    "villageCode": "003",
+    "districtCode": "96.07.250",
+    "name": "Tayai",
+    "alias": "Tayai"
+  },
+  {
+    "code": "96.07.250.004",
+    "villageCode": "004",
+    "districtCode": "96.07.250",
+    "name": "Duwaita",
+    "alias": "Duwaita"
+  },
+  {
+    "code": "96.07.250.005",
+    "villageCode": "005",
+    "districtCode": "96.07.250",
+    "name": "Foisa",
+    "alias": "Foisa"
+  },
+  {
+    "code": "96.07.250.006",
+    "villageCode": "006",
+    "districtCode": "96.07.250",
+    "name": "Fokri",
+    "alias": "Fokri"
+  },
+  {
+    "code": "96.07.250.007",
+    "villageCode": "007",
+    "districtCode": "96.07.250",
+    "name": "Dervos",
+    "alias": "Dervos"
+  }
+]

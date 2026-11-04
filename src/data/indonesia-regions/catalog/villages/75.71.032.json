@@ -1,0 +1,37 @@
+[
+  {
+    "code": "75.71.032.001",
+    "villageCode": "001",
+    "districtCode": "75.71.032",
+    "name": "Tapa",
+    "alias": "Tapa"
+  },
+  {
+    "code": "75.71.032.002",
+    "villageCode": "002",
+    "districtCode": "75.71.032",
+    "name": "Molosipat U",
+    "alias": "Molosipat U"
+  },
+  {
+    "code": "75.71.032.003",
+    "villageCode": "003",
+    "districtCode": "75.71.032",
+    "name": "Tanggikiki",
+    "alias": "Tanggikiki"
+  },
+  {
+    "code": "75.71.032.004",
+    "villageCode": "004",
+    "districtCode": "75.71.032",
+    "name": "Bulotada Timur",
+    "alias": "Bulotada Timur"
+  },
+  {
+    "code": "75.71.032.005",
+    "villageCode": "005",
+    "districtCode": "75.71.032",
+    "name": "Bulotadaa",
+    "alias": "Bulotadaa"
+  }
+]

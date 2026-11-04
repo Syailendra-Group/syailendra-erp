@@ -1,0 +1,86 @@
+[
+  {
+    "code": "13.02.070.001",
+    "villageCode": "001",
+    "districtCode": "13.02.070",
+    "name": "Amping Parak",
+    "alias": "Amping Parak"
+  },
+  {
+    "code": "13.02.070.002",
+    "villageCode": "002",
+    "districtCode": "13.02.070",
+    "name": "Surantih",
+    "alias": "Surantih"
+  },
+  {
+    "code": "13.02.070.003",
+    "villageCode": "003",
+    "districtCode": "13.02.070",
+    "name": "Taratak",
+    "alias": "Taratak"
+  },
+  {
+    "code": "13.02.070.004",
+    "villageCode": "004",
+    "districtCode": "13.02.070",
+    "name": "Amping Parak Timur",
+    "alias": "Amping Parak Timur"
+  },
+  {
+    "code": "13.02.070.005",
+    "villageCode": "005",
+    "districtCode": "13.02.070",
+    "name": "Aur Duri Surantih",
+    "alias": "Aur Duri Surantih"
+  },
+  {
+    "code": "13.02.070.006",
+    "villageCode": "006",
+    "districtCode": "13.02.070",
+    "name": "Rawang Gunung Malelo Surantih",
+    "alias": "Rawang Gunung Malelo Surantih"
+  },
+  {
+    "code": "13.02.070.007",
+    "villageCode": "007",
+    "districtCode": "13.02.070",
+    "name": "Koto Nan Tigo Selatan Surantih",
+    "alias": "Koto Nan Tigo Selatan Surantih"
+  },
+  {
+    "code": "13.02.070.008",
+    "villageCode": "008",
+    "districtCode": "13.02.070",
+    "name": "Koto Nan Tigo Utara Surantih",
+    "alias": "Koto Nan Tigo Utara Surantih"
+  },
+  {
+    "code": "13.02.070.009",
+    "villageCode": "009",
+    "districtCode": "13.02.070",
+    "name": "Gantiang Mudiak Selatan Surantih",
+    "alias": "Gantiang Mudiak Selatan Surantih"
+  },
+  {
+    "code": "13.02.070.010",
+    "villageCode": "010",
+    "districtCode": "13.02.070",
+    "name": "Gantiang Mudiak Utara Surantih",
+    "alias": "Gantiang Mudiak Utara Surantih"
+  },
+  {
+    "code": "13.02.070.011",
+    "villageCode": "011",
+    "districtCode": "13.02.070",
+    "name": "Lansano Taratak",
+    "alias": "Lansano Taratak"
+  },
+  {
+    "code": "13.02.070.012",
+    "villageCode": "012",
+    "districtCode": "13.02.070",
+    "name": "Koto Taratak",
+    "alias": "Koto Taratak"
+  }
+]

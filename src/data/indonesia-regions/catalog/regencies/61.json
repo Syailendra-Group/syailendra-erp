@@ -1,0 +1,114 @@
+[
+  {
+    "code": "61.01",
+    "regencyCode": "01",
+    "provinceCode": "61",
+    "provinceName": "Kalimantan Barat",
+    "name": "Kabupaten Sambas",
+    "alias": "Sambas"
+  },
+  {
+    "code": "61.02",
+    "regencyCode": "02",
+    "provinceCode": "61",
+    "provinceName": "Kalimantan Barat",
+    "name": "Kabupaten Bengkayang",
+    "alias": "Bengkayang"
+  },
+  {
+    "code": "61.03",
+    "regencyCode": "03",
+    "provinceCode": "61",
+    "provinceName": "Kalimantan Barat",
+    "name": "Kabupaten Landak",
+    "alias": "Landak"
+  },
+  {
+    "code": "61.04",
+    "regencyCode": "04",
+    "provinceCode": "61",
+    "provinceName": "Kalimantan Barat",
+    "name": "Kabupaten Mempawah",
+    "alias": "Mempawah"
+  },
+  {
+    "code": "61.05",
+    "regencyCode": "05",
+    "provinceCode": "61",
+    "provinceName": "Kalimantan Barat",
+    "name": "Kabupaten Sanggau",
+    "alias": "Sanggau"
+  },
+  {
+    "code": "61.06",
+    "regencyCode": "06",
+    "provinceCode": "61",
+    "provinceName": "Kalimantan Barat",
+    "name": "Kabupaten Ketapang",
+    "alias": "Ketapang"
+  },
+  {
+    "code": "61.07",
+    "regencyCode": "07",
+    "provinceCode": "61",
+    "provinceName": "Kalimantan Barat",
+    "name": "Kabupaten Sintang",
+    "alias": "Sintang"
+  },
+  {
+    "code": "61.08",
+    "regencyCode": "08",
+    "provinceCode": "61",
+    "provinceName": "Kalimantan Barat",
+    "name": "Kabupaten Kapuas Hulu",
+    "alias": "Kapuas Hulu"
+  },
+  {
+    "code": "61.09",
+    "regencyCode": "09",
+    "provinceCode": "61",
+    "provinceName": "Kalimantan Barat",
+    "name": "Kabupaten Sekadau",
+    "alias": "Sekadau"
+  },
+  {
+    "code": "61.10",
+    "regencyCode": "10",
+    "provinceCode": "61",
+    "provinceName": "Kalimantan Barat",
+    "name": "Kabupaten Melawi",
+    "alias": "Melawi"
+  },
+  {
+    "code": "61.11",
+    "regencyCode": "11",
+    "provinceCode": "61",
+    "provinceName": "Kalimantan Barat",
+    "name": "Kabupaten Kayong Utara",
+    "alias": "Kayong Utara"
+  },
+  {
+    "code": "61.12",
+    "regencyCode": "12",
+    "provinceCode": "61",
+    "provinceName": "Kalimantan Barat",
+    "name": "Kabupaten Kubu Raya",
+    "alias": "Kubu Raya"
+  },
+  {
+    "code": "61.71",
+    "regencyCode": "71",
+    "provinceCode": "61",
+    "provinceName": "Kalimantan Barat",
+    "name": "Kota Pontianak",
+    "alias": "Pontianak"
+  },
+  {
+    "code": "61.72",
+    "regencyCode": "72",
+    "provinceCode": "61",
+    "provinceName": "Kalimantan Barat",
+    "name": "Kota Singkawang",
+    "alias": "Singkawang"
+  }
+]

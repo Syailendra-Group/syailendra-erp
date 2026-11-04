@@ -1,0 +1,58 @@
+[
+  {
+    "code": "73.08.050.002",
+    "villageCode": "002",
+    "districtCode": "73.08.050",
+    "name": "Purna Karya",
+    "alias": "Purna Karya"
+  },
+  {
+    "code": "73.08.050.003",
+    "villageCode": "003",
+    "districtCode": "73.08.050",
+    "name": "Leko Pancing",
+    "alias": "Leko Pancing"
+  },
+  {
+    "code": "73.08.050.004",
+    "villageCode": "004",
+    "districtCode": "73.08.050",
+    "name": "Kuru Sumange",
+    "alias": "Kuru Sumange"
+  },
+  {
+    "code": "73.08.050.005",
+    "villageCode": "005",
+    "districtCode": "73.08.050",
+    "name": "Sudirman",
+    "alias": "Sudirman"
+  },
+  {
+    "code": "73.08.050.006",
+    "villageCode": "006",
+    "districtCode": "73.08.050",
+    "name": "Damai",
+    "alias": "Damai"
+  },
+  {
+    "code": "73.08.050.007",
+    "villageCode": "007",
+    "districtCode": "73.08.050",
+    "name": "Allaere",
+    "alias": "Allaere"
+  },
+  {
+    "code": "73.08.050.008",
+    "villageCode": "008",
+    "districtCode": "73.08.050",
+    "name": "Borong",
+    "alias": "Borong"
+  },
+  {
+    "code": "73.08.050.009",
+    "villageCode": "009",
+    "districtCode": "73.08.050",
+    "name": "Toddo Pulia",
+    "alias": "Toddo Pulia"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "code": "35.11.160.002",
+    "villageCode": "002",
+    "districtCode": "35.11.160",
+    "name": "Tarum",
+    "alias": "Tarum"
+  },
+  {
+    "code": "35.11.160.003",
+    "villageCode": "003",
+    "districtCode": "35.11.160",
+    "name": "Bandilan",
+    "alias": "Bandilan"
+  },
+  {
+    "code": "35.11.160.004",
+    "villageCode": "004",
+    "districtCode": "35.11.160",
+    "name": "Sempol",
+    "alias": "Sempol"
+  },
+  {
+    "code": "35.11.160.005",
+    "villageCode": "005",
+    "districtCode": "35.11.160",
+    "name": "Prajekan Lor",
+    "alias": "Prajekan Lor"
+  },
+  {
+    "code": "35.11.160.006",
+    "villageCode": "006",
+    "districtCode": "35.11.160",
+    "name": "Prajekan Kidul",
+    "alias": "Prajekan Kidul"
+  },
+  {
+    "code": "35.11.160.007",
+    "villageCode": "007",
+    "districtCode": "35.11.160",
+    "name": "Cangkring",
+    "alias": "Cangkring"
+  },
+  {
+    "code": "35.11.160.008",
+    "villageCode": "008",
+    "districtCode": "35.11.160",
+    "name": "Walidono",
+    "alias": "Walidono"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "code": "32.01.081.001",
+    "villageCode": "001",
+    "districtCode": "32.01.081",
+    "name": "Tugu Jaya",
+    "alias": "Tugu Jaya"
+  },
+  {
+    "code": "32.01.081.002",
+    "villageCode": "002",
+    "districtCode": "32.01.081",
+    "name": "Cigombong",
+    "alias": "Cigombong"
+  },
+  {
+    "code": "32.01.081.003",
+    "villageCode": "003",
+    "districtCode": "32.01.081",
+    "name": "Watesjaya",
+    "alias": "Watesjaya"
+  },
+  {
+    "code": "32.01.081.004",
+    "villageCode": "004",
+    "districtCode": "32.01.081",
+    "name": "Srogol",
+    "alias": "Srogol"
+  },
+  {
+    "code": "32.01.081.005",
+    "villageCode": "005",
+    "districtCode": "32.01.081",
+    "name": "Ciburuy",
+    "alias": "Ciburuy"
+  },
+  {
+    "code": "32.01.081.006",
+    "villageCode": "006",
+    "districtCode": "32.01.081",
+    "name": "Cisalada",
+    "alias": "Cisalada"
+  },
+  {
+    "code": "32.01.081.007",
+    "villageCode": "007",
+    "districtCode": "32.01.081",
+    "name": "Pasirjaya",
+    "alias": "Pasirjaya"
+  },
+  {
+    "code": "32.01.081.008",
+    "villageCode": "008",
+    "districtCode": "32.01.081",
+    "name": "Ciburayut",
+    "alias": "Ciburayut"
+  },
+  {
+    "code": "32.01.081.009",
+    "villageCode": "009",
+    "districtCode": "32.01.081",
+    "name": "Ciadeg",
+    "alias": "Ciadeg"
+  }
+]

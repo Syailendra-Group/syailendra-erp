@@ -1,0 +1,93 @@
+[
+  {
+    "code": "73.05.050.001",
+    "villageCode": "001",
+    "districtCode": "73.05.050",
+    "name": "Mangindara",
+    "alias": "Mangindara"
+  },
+  {
+    "code": "73.05.050.002",
+    "villageCode": "002",
+    "districtCode": "73.05.050",
+    "name": "Bonto Marannu",
+    "alias": "Bonto Marannu"
+  },
+  {
+    "code": "73.05.050.003",
+    "villageCode": "003",
+    "districtCode": "73.05.050",
+    "name": "Baramamase",
+    "alias": "Baramamase"
+  },
+  {
+    "code": "73.05.050.004",
+    "villageCode": "004",
+    "districtCode": "73.05.050",
+    "name": "Bonto Kassi",
+    "alias": "Bonto Kassi"
+  },
+  {
+    "code": "73.05.050.005",
+    "villageCode": "005",
+    "districtCode": "73.05.050",
+    "name": "Sawakong",
+    "alias": "Sawakong"
+  },
+  {
+    "code": "73.05.050.006",
+    "villageCode": "006",
+    "districtCode": "73.05.050",
+    "name": "Bentang",
+    "alias": "Bentang"
+  },
+  {
+    "code": "73.05.050.007",
+    "villageCode": "007",
+    "districtCode": "73.05.050",
+    "name": "Bontokanang",
+    "alias": "Bontokanang"
+  },
+  {
+    "code": "73.05.050.015",
+    "villageCode": "015",
+    "districtCode": "73.05.050",
+    "name": "Popo",
+    "alias": "Popo"
+  },
+  {
+    "code": "73.05.050.016",
+    "villageCode": "016",
+    "districtCode": "73.05.050",
+    "name": "Tarowang",
+    "alias": "Tarowang"
+  },
+  {
+    "code": "73.05.050.017",
+    "villageCode": "017",
+    "districtCode": "73.05.050",
+    "name": "Kadatong",
+    "alias": "Kadatong"
+  },
+  {
+    "code": "73.05.050.018",
+    "villageCode": "018",
+    "districtCode": "73.05.050",
+    "name": "Kalebentang",
+    "alias": "Kalebentang"
+  },
+  {
+    "code": "73.05.050.019",
+    "villageCode": "019",
+    "districtCode": "73.05.050",
+    "name": "Kaluku Bodo",
+    "alias": "Kaluku Bodo"
+  },
+  {
+    "code": "73.05.050.020",
+    "villageCode": "020",
+    "districtCode": "73.05.050",
+    "name": "Kanaeng",
+    "alias": "Kanaeng"
+  }
+]

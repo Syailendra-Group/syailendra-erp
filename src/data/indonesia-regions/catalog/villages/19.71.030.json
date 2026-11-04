@@ -1,0 +1,37 @@
+[
+  {
+    "code": "19.71.030.006",
+    "villageCode": "006",
+    "districtCode": "19.71.030",
+    "name": "Ampui",
+    "alias": "Ampui"
+  },
+  {
+    "code": "19.71.030.009",
+    "villageCode": "009",
+    "districtCode": "19.71.030",
+    "name": "Lontong Pancur",
+    "alias": "Lontong Pancur"
+  },
+  {
+    "code": "19.71.030.010",
+    "villageCode": "010",
+    "districtCode": "19.71.030",
+    "name": "Pasir Garam",
+    "alias": "Pasir Garam"
+  },
+  {
+    "code": "19.71.030.015",
+    "villageCode": "015",
+    "districtCode": "19.71.030",
+    "name": "Rejosari",
+    "alias": "Rejosari"
+  },
+  {
+    "code": "19.71.030.016",
+    "villageCode": "016",
+    "districtCode": "19.71.030",
+    "name": "Ketapang",
+    "alias": "Ketapang"
+  }
+]

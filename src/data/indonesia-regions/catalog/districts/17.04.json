@@ -1,0 +1,122 @@
+[
+  {
+    "code": "17.04.010",
+    "districtCode": "010",
+    "regencyCode": "17.04",
+    "provinceCode": "17",
+    "name": "Kecamatan Nasal",
+    "alias": "Nasal"
+  },
+  {
+    "code": "17.04.020",
+    "districtCode": "020",
+    "regencyCode": "17.04",
+    "provinceCode": "17",
+    "name": "Kecamatan Maje",
+    "alias": "Maje"
+  },
+  {
+    "code": "17.04.030",
+    "districtCode": "030",
+    "regencyCode": "17.04",
+    "provinceCode": "17",
+    "name": "Kecamatan Kaur Selatan",
+    "alias": "Kaur Selatan"
+  },
+  {
+    "code": "17.04.031",
+    "districtCode": "031",
+    "regencyCode": "17.04",
+    "provinceCode": "17",
+    "name": "Kecamatan Tetap",
+    "alias": "Tetap"
+  },
+  {
+    "code": "17.04.040",
+    "districtCode": "040",
+    "regencyCode": "17.04",
+    "provinceCode": "17",
+    "name": "Kecamatan Kaur Tengah",
+    "alias": "Kaur Tengah"
+  },
+  {
+    "code": "17.04.041",
+    "districtCode": "041",
+    "regencyCode": "17.04",
+    "provinceCode": "17",
+    "name": "Kecamatan Luas",
+    "alias": "Luas"
+  },
+  {
+    "code": "17.04.042",
+    "districtCode": "042",
+    "regencyCode": "17.04",
+    "provinceCode": "17",
+    "name": "Kecamatan Muara Sahung",
+    "alias": "Muara Sahung"
+  },
+  {
+    "code": "17.04.050",
+    "districtCode": "050",
+    "regencyCode": "17.04",
+    "provinceCode": "17",
+    "name": "Kecamatan Kinal",
+    "alias": "Kinal"
+  },
+  {
+    "code": "17.04.051",
+    "districtCode": "051",
+    "regencyCode": "17.04",
+    "provinceCode": "17",
+    "name": "Kecamatan Semidang Gumay",
+    "alias": "Semidang Gumay"
+  },
+  {
+    "code": "17.04.060",
+    "districtCode": "060",
+    "regencyCode": "17.04",
+    "provinceCode": "17",
+    "name": "Kecamatan Tanjung Kemuning",
+    "alias": "Tanjung Kemuning"
+  },
+  {
+    "code": "17.04.061",
+    "districtCode": "061",
+    "regencyCode": "17.04",
+    "provinceCode": "17",
+    "name": "Kecamatan Kelam Tengah",
+    "alias": "Kelam Tengah"
+  },
+  {
+    "code": "17.04.070",
+    "districtCode": "070",
+    "regencyCode": "17.04",
+    "provinceCode": "17",
+    "name": "Kecamatan Kaur Utara",
+    "alias": "Kaur Utara"
+  },
+  {
+    "code": "17.04.071",
+    "districtCode": "071",
+    "regencyCode": "17.04",
+    "provinceCode": "17",
+    "name": "Kecamatan Padang Guci Hilir",
+    "alias": "Padang Guci Hilir"
+  },
+  {
+    "code": "17.04.072",
+    "districtCode": "072",
+    "regencyCode": "17.04",
+    "provinceCode": "17",
+    "name": "Kecamatan Lungkang Kule",
+    "alias": "Lungkang Kule"
+  },
+  {
+    "code": "17.04.073",
+    "districtCode": "073",
+    "regencyCode": "17.04",
+    "provinceCode": "17",
+    "name": "Kecamatan Padang Guci Hulu",
+    "alias": "Padang Guci Hulu"
+  }
+]

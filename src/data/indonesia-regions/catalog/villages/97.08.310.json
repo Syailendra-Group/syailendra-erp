@@ -1,0 +1,65 @@
+[
+  {
+    "code": "97.08.310.001",
+    "villageCode": "001",
+    "districtCode": "97.08.310",
+    "name": "Oktau",
+    "alias": "Oktau"
+  },
+  {
+    "code": "97.08.310.002",
+    "villageCode": "002",
+    "districtCode": "97.08.310",
+    "name": "Okngam",
+    "alias": "Okngam"
+  },
+  {
+    "code": "97.08.310.003",
+    "villageCode": "003",
+    "districtCode": "97.08.310",
+    "name": "Okbem",
+    "alias": "Okbem"
+  },
+  {
+    "code": "97.08.310.004",
+    "villageCode": "004",
+    "districtCode": "97.08.310",
+    "name": "Oktaru",
+    "alias": "Oktaru"
+  },
+  {
+    "code": "97.08.310.005",
+    "villageCode": "005",
+    "districtCode": "97.08.310",
+    "name": "Kaep",
+    "alias": "Kaep"
+  },
+  {
+    "code": "97.08.310.006",
+    "villageCode": "006",
+    "districtCode": "97.08.310",
+    "name": "Bemhimiku",
+    "alias": "Bemhimiku"
+  },
+  {
+    "code": "97.08.310.007",
+    "villageCode": "007",
+    "districtCode": "97.08.310",
+    "name": "Atang Doki",
+    "alias": "Atang Doki"
+  },
+  {
+    "code": "97.08.310.008",
+    "villageCode": "008",
+    "districtCode": "97.08.310",
+    "name": "Okalut Kumal",
+    "alias": "Okalut Kumal"
+  },
+  {
+    "code": "97.08.310.009",
+    "villageCode": "009",
+    "districtCode": "97.08.310",
+    "name": "Bilip Bayo",
+    "alias": "Bilip Bayo"
+  }
+]

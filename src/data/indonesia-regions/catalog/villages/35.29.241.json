@@ -1,0 +1,65 @@
+[
+  {
+    "code": "35.29.241.001",
+    "villageCode": "001",
+    "districtCode": "35.29.241",
+    "name": "Saobi",
+    "alias": "Saobi"
+  },
+  {
+    "code": "35.29.241.002",
+    "villageCode": "002",
+    "districtCode": "35.29.241",
+    "name": "Kangayan",
+    "alias": "Kangayan"
+  },
+  {
+    "code": "35.29.241.003",
+    "villageCode": "003",
+    "districtCode": "35.29.241",
+    "name": "Toerjek",
+    "alias": "Toerjek"
+  },
+  {
+    "code": "35.29.241.004",
+    "villageCode": "004",
+    "districtCode": "35.29.241",
+    "name": "Cangkramaan",
+    "alias": "Cangkramaan"
+  },
+  {
+    "code": "35.29.241.005",
+    "villageCode": "005",
+    "districtCode": "35.29.241",
+    "name": "Tembayangan",
+    "alias": "Tembayangan"
+  },
+  {
+    "code": "35.29.241.006",
+    "villageCode": "006",
+    "districtCode": "35.29.241",
+    "name": "Batuputih",
+    "alias": "Batuputih"
+  },
+  {
+    "code": "35.29.241.007",
+    "villageCode": "007",
+    "districtCode": "35.29.241",
+    "name": "Daandung",
+    "alias": "Daandung"
+  },
+  {
+    "code": "35.29.241.008",
+    "villageCode": "008",
+    "districtCode": "35.29.241",
+    "name": "Timur Janjang",
+    "alias": "Timur Janjang"
+  },
+  {
+    "code": "35.29.241.009",
+    "villageCode": "009",
+    "districtCode": "35.29.241",
+    "name": "Jukong Jukong",
+    "alias": "Jukong Jukong"
+  }
+]

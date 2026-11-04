@@ -1,0 +1,23 @@
+[
+  {
+    "code": "11.02.010.003",
+    "villageCode": "003",
+    "districtCode": "11.02.010",
+    "name": "Pulau Baguk",
+    "alias": "Pulau Baguk"
+  },
+  {
+    "code": "11.02.010.004",
+    "villageCode": "004",
+    "districtCode": "11.02.010",
+    "name": "Pulau Balai",
+    "alias": "Pulau Balai"
+  },
+  {
+    "code": "11.02.010.005",
+    "villageCode": "005",
+    "districtCode": "11.02.010",
+    "name": "Teluk Nibung",
+    "alias": "Teluk Nibung"
+  }
+]

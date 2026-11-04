@@ -1,0 +1,37 @@
+[
+  {
+    "code": "94.03.220.007",
+    "villageCode": "007",
+    "districtCode": "94.03.220",
+    "name": "Sabron Sari",
+    "alias": "Sabron Sari"
+  },
+  {
+    "code": "94.03.220.008",
+    "villageCode": "008",
+    "districtCode": "94.03.220",
+    "name": "Sabron Yoru",
+    "alias": "Sabron Yoru"
+  },
+  {
+    "code": "94.03.220.009",
+    "villageCode": "009",
+    "districtCode": "94.03.220",
+    "name": "Dosai",
+    "alias": "Dosai"
+  },
+  {
+    "code": "94.03.220.010",
+    "villageCode": "010",
+    "districtCode": "94.03.220",
+    "name": "Waibron",
+    "alias": "Waibron"
+  },
+  {
+    "code": "94.03.220.011",
+    "villageCode": "011",
+    "districtCode": "94.03.220",
+    "name": "Maribu",
+    "alias": "Maribu"
+  }
+]

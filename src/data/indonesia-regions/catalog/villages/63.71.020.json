@@ -1,0 +1,65 @@
+[
+  {
+    "code": "63.71.020.001",
+    "villageCode": "001",
+    "districtCode": "63.71.020",
+    "name": "Pekapuran Raya",
+    "alias": "Pekapuran Raya"
+  },
+  {
+    "code": "63.71.020.002",
+    "villageCode": "002",
+    "districtCode": "63.71.020",
+    "name": "Karang Mekar",
+    "alias": "Karang Mekar"
+  },
+  {
+    "code": "63.71.020.003",
+    "villageCode": "003",
+    "districtCode": "63.71.020",
+    "name": "Kebun Bunga",
+    "alias": "Kebun Bunga"
+  },
+  {
+    "code": "63.71.020.004",
+    "villageCode": "004",
+    "districtCode": "63.71.020",
+    "name": "Sungai Lulut",
+    "alias": "Sungai Lulut"
+  },
+  {
+    "code": "63.71.020.005",
+    "villageCode": "005",
+    "districtCode": "63.71.020",
+    "name": "Kuripan",
+    "alias": "Kuripan"
+  },
+  {
+    "code": "63.71.020.011",
+    "villageCode": "011",
+    "districtCode": "63.71.020",
+    "name": "Sungai Bilu",
+    "alias": "Sungai Bilu"
+  },
+  {
+    "code": "63.71.020.012",
+    "villageCode": "012",
+    "districtCode": "63.71.020",
+    "name": "Pengambangan",
+    "alias": "Pengambangan"
+  },
+  {
+    "code": "63.71.020.013",
+    "villageCode": "013",
+    "districtCode": "63.71.020",
+    "name": "Banua Anyar",
+    "alias": "Banua Anyar"
+  },
+  {
+    "code": "63.71.020.014",
+    "villageCode": "014",
+    "districtCode": "63.71.020",
+    "name": "Pemurus Luar",
+    "alias": "Pemurus Luar"
+  }
+]

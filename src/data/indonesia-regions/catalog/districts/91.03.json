@@ -1,0 +1,106 @@
+[
+  {
+    "code": "91.03.010",
+    "districtCode": "010",
+    "regencyCode": "91.03",
+    "provinceCode": "91",
+    "name": "Kecamatan Naikere",
+    "alias": "Naikere"
+  },
+  {
+    "code": "91.03.020",
+    "districtCode": "020",
+    "regencyCode": "91.03",
+    "provinceCode": "91",
+    "name": "Kecamatan Wondiboy",
+    "alias": "Wondiboy"
+  },
+  {
+    "code": "91.03.021",
+    "districtCode": "021",
+    "regencyCode": "91.03",
+    "provinceCode": "91",
+    "name": "Kecamatan Rasiey",
+    "alias": "Rasiey"
+  },
+  {
+    "code": "91.03.022",
+    "districtCode": "022",
+    "regencyCode": "91.03",
+    "provinceCode": "91",
+    "name": "Kecamatan Kuri Wamesa",
+    "alias": "Kuri Wamesa"
+  },
+  {
+    "code": "91.03.030",
+    "districtCode": "030",
+    "regencyCode": "91.03",
+    "provinceCode": "91",
+    "name": "Kecamatan Wasior",
+    "alias": "Wasior"
+  },
+  {
+    "code": "91.03.040",
+    "districtCode": "040",
+    "regencyCode": "91.03",
+    "provinceCode": "91",
+    "name": "Kecamatan Duairi",
+    "alias": "Duairi"
+  },
+  {
+    "code": "91.03.041",
+    "districtCode": "041",
+    "regencyCode": "91.03",
+    "provinceCode": "91",
+    "name": "Kecamatan Roon",
+    "alias": "Roon"
+  },
+  {
+    "code": "91.03.050",
+    "districtCode": "050",
+    "regencyCode": "91.03",
+    "provinceCode": "91",
+    "name": "Kecamatan Windesi",
+    "alias": "Windesi"
+  },
+  {
+    "code": "91.03.051",
+    "districtCode": "051",
+    "regencyCode": "91.03",
+    "provinceCode": "91",
+    "name": "Kecamatan Nikiwar",
+    "alias": "Nikiwar"
+  },
+  {
+    "code": "91.03.060",
+    "districtCode": "060",
+    "regencyCode": "91.03",
+    "provinceCode": "91",
+    "name": "Kecamatan Wamesa",
+    "alias": "Wamesa"
+  },
+  {
+    "code": "91.03.061",
+    "districtCode": "061",
+    "regencyCode": "91.03",
+    "provinceCode": "91",
+    "name": "Kecamatan Roswar",
+    "alias": "Roswar"
+  },
+  {
+    "code": "91.03.070",
+    "districtCode": "070",
+    "regencyCode": "91.03",
+    "provinceCode": "91",
+    "name": "Kecamatan Rumberpon",
+    "alias": "Rumberpon"
+  },
+  {
+    "code": "91.03.071",
+    "districtCode": "071",
+    "regencyCode": "91.03",
+    "provinceCode": "91",
+    "name": "Kecamatan Soug Jaya",
+    "alias": "Soug Jaya"
+  }
+]

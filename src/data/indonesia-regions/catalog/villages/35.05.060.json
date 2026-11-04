@@ -1,0 +1,79 @@
+[
+  {
+    "code": "35.05.060.001",
+    "villageCode": "001",
+    "districtCode": "35.05.060",
+    "name": "Pandanarum",
+    "alias": "Pandanarum"
+  },
+  {
+    "code": "35.05.060.002",
+    "villageCode": "002",
+    "districtCode": "35.05.060",
+    "name": "Kedung Bunder",
+    "alias": "Kedung Bunder"
+  },
+  {
+    "code": "35.05.060.003",
+    "villageCode": "003",
+    "districtCode": "35.05.060",
+    "name": "Sutojayan",
+    "alias": "Sutojayan"
+  },
+  {
+    "code": "35.05.060.004",
+    "villageCode": "004",
+    "districtCode": "35.05.060",
+    "name": "Bacem",
+    "alias": "Bacem"
+  },
+  {
+    "code": "35.05.060.005",
+    "villageCode": "005",
+    "districtCode": "35.05.060",
+    "name": "Sumberjo",
+    "alias": "Sumberjo"
+  },
+  {
+    "code": "35.05.060.006",
+    "villageCode": "006",
+    "districtCode": "35.05.060",
+    "name": "Sukorejo",
+    "alias": "Sukorejo"
+  },
+  {
+    "code": "35.05.060.007",
+    "villageCode": "007",
+    "districtCode": "35.05.060",
+    "name": "Kalipang",
+    "alias": "Kalipang"
+  },
+  {
+    "code": "35.05.060.008",
+    "villageCode": "008",
+    "districtCode": "35.05.060",
+    "name": "Kembangarum",
+    "alias": "Kembangarum"
+  },
+  {
+    "code": "35.05.060.009",
+    "villageCode": "009",
+    "districtCode": "35.05.060",
+    "name": "Jingglong",
+    "alias": "Jingglong"
+  },
+  {
+    "code": "35.05.060.010",
+    "villageCode": "010",
+    "districtCode": "35.05.060",
+    "name": "Kaulon",
+    "alias": "Kaulon"
+  },
+  {
+    "code": "35.05.060.011",
+    "villageCode": "011",
+    "districtCode": "35.05.060",
+    "name": "Jegu",
+    "alias": "Jegu"
+  }
+]

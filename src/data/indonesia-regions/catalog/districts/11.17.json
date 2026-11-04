@@ -1,0 +1,82 @@
+[
+  {
+    "code": "11.17.010",
+    "districtCode": "010",
+    "regencyCode": "11.17",
+    "provinceCode": "11",
+    "name": "Kecamatan Timang Gajah",
+    "alias": "Timang Gajah"
+  },
+  {
+    "code": "11.17.011",
+    "districtCode": "011",
+    "regencyCode": "11.17",
+    "provinceCode": "11",
+    "name": "Kecamatan Gajah Putih",
+    "alias": "Gajah Putih"
+  },
+  {
+    "code": "11.17.020",
+    "districtCode": "020",
+    "regencyCode": "11.17",
+    "provinceCode": "11",
+    "name": "Kecamatan Pintu Rime Gayo",
+    "alias": "Pintu Rime Gayo"
+  },
+  {
+    "code": "11.17.030",
+    "districtCode": "030",
+    "regencyCode": "11.17",
+    "provinceCode": "11",
+    "name": "Kecamatan Bukit",
+    "alias": "Bukit"
+  },
+  {
+    "code": "11.17.040",
+    "districtCode": "040",
+    "regencyCode": "11.17",
+    "provinceCode": "11",
+    "name": "Kecamatan Wih Pesam",
+    "alias": "Wih Pesam"
+  },
+  {
+    "code": "11.17.050",
+    "districtCode": "050",
+    "regencyCode": "11.17",
+    "provinceCode": "11",
+    "name": "Kecamatan Bandar",
+    "alias": "Bandar"
+  },
+  {
+    "code": "11.17.051",
+    "districtCode": "051",
+    "regencyCode": "11.17",
+    "provinceCode": "11",
+    "name": "Kecamatan Bener Kelipah",
+    "alias": "Bener Kelipah"
+  },
+  {
+    "code": "11.17.060",
+    "districtCode": "060",
+    "regencyCode": "11.17",
+    "provinceCode": "11",
+    "name": "Kecamatan Syiah Utama",
+    "alias": "Syiah Utama"
+  },
+  {
+    "code": "11.17.061",
+    "districtCode": "061",
+    "regencyCode": "11.17",
+    "provinceCode": "11",
+    "name": "Kecamatan Mesidah",
+    "alias": "Mesidah"
+  },
+  {
+    "code": "11.17.070",
+    "districtCode": "070",
+    "regencyCode": "11.17",
+    "provinceCode": "11",
+    "name": "Kecamatan Permata",
+    "alias": "Permata"
+  }
+]

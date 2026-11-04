@@ -1,0 +1,79 @@
+[
+  {
+    "code": "32.03.230.001",
+    "villageCode": "001",
+    "districtCode": "32.03.230",
+    "name": "Pakuon",
+    "alias": "Pakuon"
+  },
+  {
+    "code": "32.03.230.002",
+    "villageCode": "002",
+    "districtCode": "32.03.230",
+    "name": "Cikanyere",
+    "alias": "Cikanyere"
+  },
+  {
+    "code": "32.03.230.003",
+    "villageCode": "003",
+    "districtCode": "32.03.230",
+    "name": "Sukaresmi",
+    "alias": "Sukaresmi"
+  },
+  {
+    "code": "32.03.230.004",
+    "villageCode": "004",
+    "districtCode": "32.03.230",
+    "name": "Ciwalen",
+    "alias": "Ciwalen"
+  },
+  {
+    "code": "32.03.230.005",
+    "villageCode": "005",
+    "districtCode": "32.03.230",
+    "name": "Kawungluwuk",
+    "alias": "Kawungluwuk"
+  },
+  {
+    "code": "32.03.230.006",
+    "villageCode": "006",
+    "districtCode": "32.03.230",
+    "name": "Cibadak",
+    "alias": "Cibadak"
+  },
+  {
+    "code": "32.03.230.007",
+    "villageCode": "007",
+    "districtCode": "32.03.230",
+    "name": "Rawabelut",
+    "alias": "Rawabelut"
+  },
+  {
+    "code": "32.03.230.008",
+    "villageCode": "008",
+    "districtCode": "32.03.230",
+    "name": "Cibanteng",
+    "alias": "Cibanteng"
+  },
+  {
+    "code": "32.03.230.009",
+    "villageCode": "009",
+    "districtCode": "32.03.230",
+    "name": "Kubang",
+    "alias": "Kubang"
+  },
+  {
+    "code": "32.03.230.010",
+    "villageCode": "010",
+    "districtCode": "32.03.230",
+    "name": "Sukamahi",
+    "alias": "Sukamahi"
+  },
+  {
+    "code": "32.03.230.011",
+    "villageCode": "011",
+    "districtCode": "32.03.230",
+    "name": "Cikancana",
+    "alias": "Cikancana"
+  }
+]

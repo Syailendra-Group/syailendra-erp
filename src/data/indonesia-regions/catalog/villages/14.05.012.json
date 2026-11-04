@@ -1,0 +1,79 @@
+[
+  {
+    "code": "14.05.012.001",
+    "villageCode": "001",
+    "districtCode": "14.05.012",
+    "name": "Telaga Sam Sam",
+    "alias": "Telaga Sam Sam"
+  },
+  {
+    "code": "14.05.012.002",
+    "villageCode": "002",
+    "districtCode": "14.05.012",
+    "name": "Sam Sam",
+    "alias": "Sam Sam"
+  },
+  {
+    "code": "14.05.012.003",
+    "villageCode": "003",
+    "districtCode": "14.05.012",
+    "name": "Kandis Kota",
+    "alias": "Kandis Kota"
+  },
+  {
+    "code": "14.05.012.004",
+    "villageCode": "004",
+    "districtCode": "14.05.012",
+    "name": "Kandis",
+    "alias": "Kandis"
+  },
+  {
+    "code": "14.05.012.005",
+    "villageCode": "005",
+    "districtCode": "14.05.012",
+    "name": "Simpang Belutu",
+    "alias": "Simpang Belutu"
+  },
+  {
+    "code": "14.05.012.006",
+    "villageCode": "006",
+    "districtCode": "14.05.012",
+    "name": "Belutu",
+    "alias": "Belutu"
+  },
+  {
+    "code": "14.05.012.007",
+    "villageCode": "007",
+    "districtCode": "14.05.012",
+    "name": "Bekalar",
+    "alias": "Bekalar"
+  },
+  {
+    "code": "14.05.012.008",
+    "villageCode": "008",
+    "districtCode": "14.05.012",
+    "name": "Jambai Makmur",
+    "alias": "Jambai Makmur"
+  },
+  {
+    "code": "14.05.012.009",
+    "villageCode": "009",
+    "districtCode": "14.05.012",
+    "name": "Pencing Bekulo",
+    "alias": "Pencing Bekulo"
+  },
+  {
+    "code": "14.05.012.010",
+    "villageCode": "010",
+    "districtCode": "14.05.012",
+    "name": "Sungai Gondang",
+    "alias": "Sungai Gondang"
+  },
+  {
+    "code": "14.05.012.011",
+    "villageCode": "011",
+    "districtCode": "14.05.012",
+    "name": "Libo Jaya",
+    "alias": "Libo Jaya"
+  }
+]

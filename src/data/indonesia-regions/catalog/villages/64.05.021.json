@@ -1,0 +1,44 @@
+[
+  {
+    "code": "64.05.021.004",
+    "villageCode": "004",
+    "districtCode": "64.05.021",
+    "name": "Tabalar Muara",
+    "alias": "Tabalar Muara"
+  },
+  {
+    "code": "64.05.021.005",
+    "villageCode": "005",
+    "districtCode": "64.05.021",
+    "name": "Harapan Maju",
+    "alias": "Harapan Maju"
+  },
+  {
+    "code": "64.05.021.006",
+    "villageCode": "006",
+    "districtCode": "64.05.021",
+    "name": "Tabalar Ulu",
+    "alias": "Tabalar Ulu"
+  },
+  {
+    "code": "64.05.021.007",
+    "villageCode": "007",
+    "districtCode": "64.05.021",
+    "name": "Tubaan",
+    "alias": "Tubaan"
+  },
+  {
+    "code": "64.05.021.008",
+    "villageCode": "008",
+    "districtCode": "64.05.021",
+    "name": "Semurut",
+    "alias": "Semurut"
+  },
+  {
+    "code": "64.05.021.009",
+    "villageCode": "009",
+    "districtCode": "64.05.021",
+    "name": "Radak/Buyung-Buyung",
+    "alias": "Radak/Buyung-Buyung"
+  }
+]

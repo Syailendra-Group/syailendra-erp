@@ -1,0 +1,149 @@
+[
+  {
+    "code": "12.03.010.056",
+    "villageCode": "056",
+    "districtCode": "12.03.010",
+    "name": "Sorik",
+    "alias": "Sorik"
+  },
+  {
+    "code": "12.03.010.057",
+    "villageCode": "057",
+    "districtCode": "12.03.010",
+    "name": "Padang Kahombu",
+    "alias": "Padang Kahombu"
+  },
+  {
+    "code": "12.03.010.058",
+    "villageCode": "058",
+    "districtCode": "12.03.010",
+    "name": "Huta Padang",
+    "alias": "Huta Padang"
+  },
+  {
+    "code": "12.03.010.059",
+    "villageCode": "059",
+    "districtCode": "12.03.010",
+    "name": "Sori Madingin Pp",
+    "alias": "Sori Madingin Pp"
+  },
+  {
+    "code": "12.03.010.061",
+    "villageCode": "061",
+    "districtCode": "12.03.010",
+    "name": "Hurase",
+    "alias": "Hurase"
+  },
+  {
+    "code": "12.03.010.069",
+    "villageCode": "069",
+    "districtCode": "12.03.010",
+    "name": "Sigulang Losung",
+    "alias": "Sigulang Losung"
+  },
+  {
+    "code": "12.03.010.075",
+    "villageCode": "075",
+    "districtCode": "12.03.010",
+    "name": "Pasar Lama",
+    "alias": "Pasar Lama"
+  },
+  {
+    "code": "12.03.010.076",
+    "villageCode": "076",
+    "districtCode": "12.03.010",
+    "name": "Sigalangan",
+    "alias": "Sigalangan"
+  },
+  {
+    "code": "12.03.010.079",
+    "villageCode": "079",
+    "districtCode": "12.03.010",
+    "name": "Janji Manaon",
+    "alias": "Janji Manaon"
+  },
+  {
+    "code": "12.03.010.081",
+    "villageCode": "081",
+    "districtCode": "12.03.010",
+    "name": "Bargot Topong",
+    "alias": "Bargot Topong"
+  },
+  {
+    "code": "12.03.010.083",
+    "villageCode": "083",
+    "districtCode": "12.03.010",
+    "name": "Sidadi Ii",
+    "alias": "Sidadi Ii"
+  },
+  {
+    "code": "12.03.010.084",
+    "villageCode": "084",
+    "districtCode": "12.03.010",
+    "name": "Sidadi I",
+    "alias": "Sidadi I"
+  },
+  {
+    "code": "12.03.010.099",
+    "villageCode": "099",
+    "districtCode": "12.03.010",
+    "name": "Aek Nauli",
+    "alias": "Aek Nauli"
+  },
+  {
+    "code": "12.03.010.114",
+    "villageCode": "114",
+    "districtCode": "12.03.010",
+    "name": "Benteng Huraba",
+    "alias": "Benteng Huraba"
+  },
+  {
+    "code": "12.03.010.115",
+    "villageCode": "115",
+    "districtCode": "12.03.010",
+    "name": "Kelurahan Pintu Padang I",
+    "alias": "Kelurahan Pintu Padang I"
+  },
+  {
+    "code": "12.03.010.116",
+    "villageCode": "116",
+    "districtCode": "12.03.010",
+    "name": "Kelurahan Pintu Padang Ii",
+    "alias": "Kelurahan Pintu Padang Ii"
+  },
+  {
+    "code": "12.03.010.117",
+    "villageCode": "117",
+    "districtCode": "12.03.010",
+    "name": "Bangun Purba",
+    "alias": "Bangun Purba"
+  },
+  {
+    "code": "12.03.010.118",
+    "villageCode": "118",
+    "districtCode": "12.03.010",
+    "name": "Sitampa",
+    "alias": "Sitampa"
+  },
+  {
+    "code": "12.03.010.120",
+    "villageCode": "120",
+    "districtCode": "12.03.010",
+    "name": "Sibulele Muara",
+    "alias": "Sibulele Muara"
+  },
+  {
+    "code": "12.03.010.121",
+    "villageCode": "121",
+    "districtCode": "12.03.010",
+    "name": "Aek Gunung",
+    "alias": "Aek Gunung"
+  },
+  {
+    "code": "12.03.010.126",
+    "villageCode": "126",
+    "districtCode": "12.03.010",
+    "name": "Tahalak Ujung Gading",
+    "alias": "Tahalak Ujung Gading"
+  }
+]

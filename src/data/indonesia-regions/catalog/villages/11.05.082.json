@@ -1,0 +1,37 @@
+[
+  {
+    "code": "11.05.082.001",
+    "villageCode": "001",
+    "districtCode": "11.05.082",
+    "name": "Arul Pinang",
+    "alias": "Arul Pinang"
+  },
+  {
+    "code": "11.05.082.002",
+    "villageCode": "002",
+    "districtCode": "11.05.082",
+    "name": "Peunaron Baru",
+    "alias": "Peunaron Baru"
+  },
+  {
+    "code": "11.05.082.003",
+    "villageCode": "003",
+    "districtCode": "11.05.082",
+    "name": "Peunaron Lama",
+    "alias": "Peunaron Lama"
+  },
+  {
+    "code": "11.05.082.004",
+    "villageCode": "004",
+    "districtCode": "11.05.082",
+    "name": "Bukit Tiga",
+    "alias": "Bukit Tiga"
+  },
+  {
+    "code": "11.05.082.006",
+    "villageCode": "006",
+    "districtCode": "11.05.082",
+    "name": "Sri Mulya",
+    "alias": "Sri Mulya"
+  }
+]

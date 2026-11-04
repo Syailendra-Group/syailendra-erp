@@ -1,0 +1,90 @@
+[
+  {
+    "code": "63.06.010",
+    "districtCode": "010",
+    "regencyCode": "63.06",
+    "provinceCode": "63",
+    "name": "Kecamatan Padang Batung",
+    "alias": "Padang Batung"
+  },
+  {
+    "code": "63.06.020",
+    "districtCode": "020",
+    "regencyCode": "63.06",
+    "provinceCode": "63",
+    "name": "Kecamatan Loksado",
+    "alias": "Loksado"
+  },
+  {
+    "code": "63.06.030",
+    "districtCode": "030",
+    "regencyCode": "63.06",
+    "provinceCode": "63",
+    "name": "Kecamatan Telaga Langsat",
+    "alias": "Telaga Langsat"
+  },
+  {
+    "code": "63.06.040",
+    "districtCode": "040",
+    "regencyCode": "63.06",
+    "provinceCode": "63",
+    "name": "Kecamatan Angkinang",
+    "alias": "Angkinang"
+  },
+  {
+    "code": "63.06.050",
+    "districtCode": "050",
+    "regencyCode": "63.06",
+    "provinceCode": "63",
+    "name": "Kecamatan Kandangan",
+    "alias": "Kandangan"
+  },
+  {
+    "code": "63.06.060",
+    "districtCode": "060",
+    "regencyCode": "63.06",
+    "provinceCode": "63",
+    "name": "Kecamatan Sungai Raya",
+    "alias": "Sungai Raya"
+  },
+  {
+    "code": "63.06.070",
+    "districtCode": "070",
+    "regencyCode": "63.06",
+    "provinceCode": "63",
+    "name": "Kecamatan Simpur",
+    "alias": "Simpur"
+  },
+  {
+    "code": "63.06.080",
+    "districtCode": "080",
+    "regencyCode": "63.06",
+    "provinceCode": "63",
+    "name": "Kecamatan Kalumpang",
+    "alias": "Kalumpang"
+  },
+  {
+    "code": "63.06.090",
+    "districtCode": "090",
+    "regencyCode": "63.06",
+    "provinceCode": "63",
+    "name": "Kecamatan Daha Selatan",
+    "alias": "Daha Selatan"
+  },
+  {
+    "code": "63.06.091",
+    "districtCode": "091",
+    "regencyCode": "63.06",
+    "provinceCode": "63",
+    "name": "Kecamatan Daha Barat",
+    "alias": "Daha Barat"
+  },
+  {
+    "code": "63.06.100",
+    "districtCode": "100",
+    "regencyCode": "63.06",
+    "provinceCode": "63",
+    "name": "Kecamatan Daha Utara",
+    "alias": "Daha Utara"
+  }
+]

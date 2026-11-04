@@ -1,0 +1,30 @@
+[
+  {
+    "code": "92.01.240.001",
+    "villageCode": "001",
+    "districtCode": "92.01.240",
+    "name": "Meosbekwan",
+    "alias": "Meosbekwan"
+  },
+  {
+    "code": "92.01.240.002",
+    "villageCode": "002",
+    "districtCode": "92.01.240",
+    "name": "Abidon",
+    "alias": "Abidon"
+  },
+  {
+    "code": "92.01.240.003",
+    "villageCode": "003",
+    "districtCode": "92.01.240",
+    "name": "Rutum",
+    "alias": "Rutum"
+  },
+  {
+    "code": "92.01.240.004",
+    "villageCode": "004",
+    "districtCode": "92.01.240",
+    "name": "Reni",
+    "alias": "Reni"
+  }
+]

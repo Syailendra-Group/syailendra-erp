@@ -1,0 +1,72 @@
+[
+  {
+    "code": "34.03.150.001",
+    "villageCode": "001",
+    "districtCode": "34.03.150",
+    "name": "Kalitekuk",
+    "alias": "Kalitekuk"
+  },
+  {
+    "code": "34.03.150.002",
+    "villageCode": "002",
+    "districtCode": "34.03.150",
+    "name": "Kemejing",
+    "alias": "Kemejing"
+  },
+  {
+    "code": "34.03.150.003",
+    "villageCode": "003",
+    "districtCode": "34.03.150",
+    "name": "Semin",
+    "alias": "Semin"
+  },
+  {
+    "code": "34.03.150.004",
+    "villageCode": "004",
+    "districtCode": "34.03.150",
+    "name": "Pundungsari",
+    "alias": "Pundungsari"
+  },
+  {
+    "code": "34.03.150.005",
+    "villageCode": "005",
+    "districtCode": "34.03.150",
+    "name": "Karangsari",
+    "alias": "Karangsari"
+  },
+  {
+    "code": "34.03.150.006",
+    "villageCode": "006",
+    "districtCode": "34.03.150",
+    "name": "Rejosari",
+    "alias": "Rejosari"
+  },
+  {
+    "code": "34.03.150.007",
+    "villageCode": "007",
+    "districtCode": "34.03.150",
+    "name": "Bulurejo",
+    "alias": "Bulurejo"
+  },
+  {
+    "code": "34.03.150.008",
+    "villageCode": "008",
+    "districtCode": "34.03.150",
+    "name": "Bendung",
+    "alias": "Bendung"
+  },
+  {
+    "code": "34.03.150.009",
+    "villageCode": "009",
+    "districtCode": "34.03.150",
+    "name": "Sumberrejo",
+    "alias": "Sumberrejo"
+  },
+  {
+    "code": "34.03.150.010",
+    "villageCode": "010",
+    "districtCode": "34.03.150",
+    "name": "Candirejo",
+    "alias": "Candirejo"
+  }
+]

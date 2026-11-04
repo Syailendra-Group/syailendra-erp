@@ -1,0 +1,51 @@
+[
+  {
+    "code": "33.14.190.001",
+    "villageCode": "001",
+    "districtCode": "33.14.190",
+    "name": "Katelan",
+    "alias": "Katelan"
+  },
+  {
+    "code": "33.14.190.002",
+    "villageCode": "002",
+    "districtCode": "33.14.190",
+    "name": "Dukuh",
+    "alias": "Dukuh"
+  },
+  {
+    "code": "33.14.190.003",
+    "villageCode": "003",
+    "districtCode": "33.14.190",
+    "name": "Jekawal",
+    "alias": "Jekawal"
+  },
+  {
+    "code": "33.14.190.004",
+    "villageCode": "004",
+    "districtCode": "33.14.190",
+    "name": "Galeh",
+    "alias": "Galeh"
+  },
+  {
+    "code": "33.14.190.005",
+    "villageCode": "005",
+    "districtCode": "33.14.190",
+    "name": "Ngrombo",
+    "alias": "Ngrombo"
+  },
+  {
+    "code": "33.14.190.006",
+    "villageCode": "006",
+    "districtCode": "33.14.190",
+    "name": "Sigit",
+    "alias": "Sigit"
+  },
+  {
+    "code": "33.14.190.007",
+    "villageCode": "007",
+    "districtCode": "33.14.190",
+    "name": "Denanyar",
+    "alias": "Denanyar"
+  }
+]

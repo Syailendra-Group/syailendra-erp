@@ -1,0 +1,58 @@
+[
+  {
+    "code": "71.05.111.001",
+    "villageCode": "001",
+    "districtCode": "71.05.111",
+    "name": "Buyungon",
+    "alias": "Buyungon"
+  },
+  {
+    "code": "71.05.111.002",
+    "villageCode": "002",
+    "districtCode": "71.05.111",
+    "name": "Ranoyapo",
+    "alias": "Ranoyapo"
+  },
+  {
+    "code": "71.05.111.003",
+    "villageCode": "003",
+    "districtCode": "71.05.111",
+    "name": "Uwuran Satu",
+    "alias": "Uwuran Satu"
+  },
+  {
+    "code": "71.05.111.004",
+    "villageCode": "004",
+    "districtCode": "71.05.111",
+    "name": "Uwuran Dua",
+    "alias": "Uwuran Dua"
+  },
+  {
+    "code": "71.05.111.005",
+    "villageCode": "005",
+    "districtCode": "71.05.111",
+    "name": "Lewet",
+    "alias": "Lewet"
+  },
+  {
+    "code": "71.05.111.006",
+    "villageCode": "006",
+    "districtCode": "71.05.111",
+    "name": "Ranoketang Tua",
+    "alias": "Ranoketang Tua"
+  },
+  {
+    "code": "71.05.111.007",
+    "villageCode": "007",
+    "districtCode": "71.05.111",
+    "name": "Bitung",
+    "alias": "Bitung"
+  },
+  {
+    "code": "71.05.111.008",
+    "villageCode": "008",
+    "districtCode": "71.05.111",
+    "name": "Kilometer Tiga",
+    "alias": "Kilometer Tiga"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "code": "91.02.031.001",
+    "villageCode": "001",
+    "districtCode": "91.02.031",
+    "name": "Kooy",
+    "alias": "Kooy"
+  },
+  {
+    "code": "91.02.031.002",
+    "villageCode": "002",
+    "districtCode": "91.02.031",
+    "name": "Wamesa",
+    "alias": "Wamesa"
+  },
+  {
+    "code": "91.02.031.003",
+    "villageCode": "003",
+    "districtCode": "91.02.031",
+    "name": "Waho",
+    "alias": "Waho"
+  },
+  {
+    "code": "91.02.031.004",
+    "villageCode": "004",
+    "districtCode": "91.02.031",
+    "name": "Bahumia",
+    "alias": "Bahumia"
+  },
+  {
+    "code": "91.02.031.005",
+    "villageCode": "005",
+    "districtCode": "91.02.031",
+    "name": "Ubia Sermuku",
+    "alias": "Ubia Sermuku"
+  },
+  {
+    "code": "91.02.031.006",
+    "villageCode": "006",
+    "districtCode": "91.02.031",
+    "name": "Werafuta",
+    "alias": "Werafuta"
+  },
+  {
+    "code": "91.02.031.007",
+    "villageCode": "007",
+    "districtCode": "91.02.031",
+    "name": "Rauna",
+    "alias": "Rauna"
+  }
+]

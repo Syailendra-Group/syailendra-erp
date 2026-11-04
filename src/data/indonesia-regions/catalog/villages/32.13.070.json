@@ -1,0 +1,58 @@
+[
+  {
+    "code": "32.13.070.001",
+    "villageCode": "001",
+    "districtCode": "32.13.070",
+    "name": "Parung",
+    "alias": "Parung"
+  },
+  {
+    "code": "32.13.070.002",
+    "villageCode": "002",
+    "districtCode": "32.13.070",
+    "name": "Pasirkareumbi",
+    "alias": "Pasirkareumbi"
+  },
+  {
+    "code": "32.13.070.003",
+    "villageCode": "003",
+    "districtCode": "32.13.070",
+    "name": "Soklat",
+    "alias": "Soklat"
+  },
+  {
+    "code": "32.13.070.004",
+    "villageCode": "004",
+    "districtCode": "32.13.070",
+    "name": "Karanganyar",
+    "alias": "Karanganyar"
+  },
+  {
+    "code": "32.13.070.005",
+    "villageCode": "005",
+    "districtCode": "32.13.070",
+    "name": "Cigadung",
+    "alias": "Cigadung"
+  },
+  {
+    "code": "32.13.070.006",
+    "villageCode": "006",
+    "districtCode": "32.13.070",
+    "name": "Dangdeur",
+    "alias": "Dangdeur"
+  },
+  {
+    "code": "32.13.070.007",
+    "villageCode": "007",
+    "districtCode": "32.13.070",
+    "name": "Sukamelang",
+    "alias": "Sukamelang"
+  },
+  {
+    "code": "32.13.070.012",
+    "villageCode": "012",
+    "districtCode": "32.13.070",
+    "name": "Wanareja",
+    "alias": "Wanareja"
+  }
+]

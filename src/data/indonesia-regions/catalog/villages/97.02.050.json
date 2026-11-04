@@ -1,0 +1,65 @@
+[
+  {
+    "code": "97.02.050.001",
+    "villageCode": "001",
+    "districtCode": "97.02.050",
+    "name": "Napua",
+    "alias": "Napua"
+  },
+  {
+    "code": "97.02.050.002",
+    "villageCode": "002",
+    "districtCode": "97.02.050",
+    "name": "Lani Matuan",
+    "alias": "Lani Matuan"
+  },
+  {
+    "code": "97.02.050.003",
+    "villageCode": "003",
+    "districtCode": "97.02.050",
+    "name": "Yelekama",
+    "alias": "Yelekama"
+  },
+  {
+    "code": "97.02.050.004",
+    "villageCode": "004",
+    "districtCode": "97.02.050",
+    "name": "Sapalek",
+    "alias": "Sapalek"
+  },
+  {
+    "code": "97.02.050.005",
+    "villageCode": "005",
+    "districtCode": "97.02.050",
+    "name": "Haelekma",
+    "alias": "Haelekma"
+  },
+  {
+    "code": "97.02.050.006",
+    "villageCode": "006",
+    "districtCode": "97.02.050",
+    "name": "Okilik",
+    "alias": "Okilik"
+  },
+  {
+    "code": "97.02.050.007",
+    "villageCode": "007",
+    "districtCode": "97.02.050",
+    "name": "Holima",
+    "alias": "Holima"
+  },
+  {
+    "code": "97.02.050.008",
+    "villageCode": "008",
+    "districtCode": "97.02.050",
+    "name": "Wilekama/Sawarek",
+    "alias": "Wilekama/Sawarek"
+  },
+  {
+    "code": "97.02.050.009",
+    "villageCode": "009",
+    "districtCode": "97.02.050",
+    "name": "Yomaima",
+    "alias": "Yomaima"
+  }
+]

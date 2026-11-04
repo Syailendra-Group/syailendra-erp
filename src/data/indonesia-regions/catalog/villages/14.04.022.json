@@ -1,0 +1,72 @@
+[
+  {
+    "code": "14.04.022.001",
+    "villageCode": "001",
+    "districtCode": "14.04.022",
+    "name": "Genduang",
+    "alias": "Genduang"
+  },
+  {
+    "code": "14.04.022.002",
+    "villageCode": "002",
+    "districtCode": "14.04.022",
+    "name": "Rawang Sari",
+    "alias": "Rawang Sari"
+  },
+  {
+    "code": "14.04.022.003",
+    "villageCode": "003",
+    "districtCode": "14.04.022",
+    "name": "Sari Makmur",
+    "alias": "Sari Makmur"
+  },
+  {
+    "code": "14.04.022.004",
+    "villageCode": "004",
+    "districtCode": "14.04.022",
+    "name": "Mulia Subur",
+    "alias": "Mulia Subur"
+  },
+  {
+    "code": "14.04.022.005",
+    "villageCode": "005",
+    "districtCode": "14.04.022",
+    "name": "Mayang Sari",
+    "alias": "Mayang Sari"
+  },
+  {
+    "code": "14.04.022.006",
+    "villageCode": "006",
+    "districtCode": "14.04.022",
+    "name": "Sari Mulya",
+    "alias": "Sari Mulya"
+  },
+  {
+    "code": "14.04.022.007",
+    "villageCode": "007",
+    "districtCode": "14.04.022",
+    "name": "Dusun Tua",
+    "alias": "Dusun Tua"
+  },
+  {
+    "code": "14.04.022.008",
+    "villageCode": "008",
+    "districtCode": "14.04.022",
+    "name": "Pangkalan Lesung",
+    "alias": "Pangkalan Lesung"
+  },
+  {
+    "code": "14.04.022.009",
+    "villageCode": "009",
+    "districtCode": "14.04.022",
+    "name": "Tanjung Kuyo",
+    "alias": "Tanjung Kuyo"
+  },
+  {
+    "code": "14.04.022.010",
+    "villageCode": "010",
+    "districtCode": "14.04.022",
+    "name": "Pesaguan",
+    "alias": "Pesaguan"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "code": "53.03.133.001",
+    "villageCode": "001",
+    "districtCode": "53.03.133",
+    "name": "Pakubaun",
+    "alias": "Pakubaun"
+  },
+  {
+    "code": "53.03.133.002",
+    "villageCode": "002",
+    "districtCode": "53.03.133",
+    "name": "Oebesi",
+    "alias": "Oebesi"
+  },
+  {
+    "code": "53.03.133.003",
+    "villageCode": "003",
+    "districtCode": "53.03.133",
+    "name": "Rabeka",
+    "alias": "Rabeka"
+  },
+  {
+    "code": "53.03.133.004",
+    "villageCode": "004",
+    "districtCode": "53.03.133",
+    "name": "Enoraen",
+    "alias": "Enoraen"
+  }
+]

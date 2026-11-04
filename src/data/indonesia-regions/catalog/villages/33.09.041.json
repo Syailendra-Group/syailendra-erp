@@ -1,0 +1,72 @@
+[
+  {
+    "code": "33.09.041.001",
+    "villageCode": "001",
+    "districtCode": "33.09.041",
+    "name": "Lampar",
+    "alias": "Lampar"
+  },
+  {
+    "code": "33.09.041.002",
+    "villageCode": "002",
+    "districtCode": "33.09.041",
+    "name": "Dragan",
+    "alias": "Dragan"
+  },
+  {
+    "code": "33.09.041.003",
+    "villageCode": "003",
+    "districtCode": "33.09.041",
+    "name": "Karanganyar",
+    "alias": "Karanganyar"
+  },
+  {
+    "code": "33.09.041.004",
+    "villageCode": "004",
+    "districtCode": "33.09.041",
+    "name": "Jemowo",
+    "alias": "Jemowo"
+  },
+  {
+    "code": "33.09.041.005",
+    "villageCode": "005",
+    "districtCode": "33.09.041",
+    "name": "Sumur",
+    "alias": "Sumur"
+  },
+  {
+    "code": "33.09.041.006",
+    "villageCode": "006",
+    "districtCode": "33.09.041",
+    "name": "Sangup",
+    "alias": "Sangup"
+  },
+  {
+    "code": "33.09.041.007",
+    "villageCode": "007",
+    "districtCode": "33.09.041",
+    "name": "Mriyan",
+    "alias": "Mriyan"
+  },
+  {
+    "code": "33.09.041.008",
+    "villageCode": "008",
+    "districtCode": "33.09.041",
+    "name": "Lanjaran",
+    "alias": "Lanjaran"
+  },
+  {
+    "code": "33.09.041.009",
+    "villageCode": "009",
+    "districtCode": "33.09.041",
+    "name": "Karangkendal",
+    "alias": "Karangkendal"
+  },
+  {
+    "code": "33.09.041.010",
+    "villageCode": "010",
+    "districtCode": "33.09.041",
+    "name": "Keposong",
+    "alias": "Keposong"
+  }
+]

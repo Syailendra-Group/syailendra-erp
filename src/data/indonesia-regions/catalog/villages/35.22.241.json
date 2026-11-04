@@ -1,0 +1,37 @@
+[
+  {
+    "code": "35.22.241.001",
+    "villageCode": "001",
+    "districtCode": "35.22.241",
+    "name": "Kawengan",
+    "alias": "Kawengan"
+  },
+  {
+    "code": "35.22.241.002",
+    "villageCode": "002",
+    "districtCode": "35.22.241",
+    "name": "Wonocolo",
+    "alias": "Wonocolo"
+  },
+  {
+    "code": "35.22.241.003",
+    "villageCode": "003",
+    "districtCode": "35.22.241",
+    "name": "Hargomulyo",
+    "alias": "Hargomulyo"
+  },
+  {
+    "code": "35.22.241.004",
+    "villageCode": "004",
+    "districtCode": "35.22.241",
+    "name": "Kedewan",
+    "alias": "Kedewan"
+  },
+  {
+    "code": "35.22.241.005",
+    "villageCode": "005",
+    "districtCode": "35.22.241",
+    "name": "Beji",
+    "alias": "Beji"
+  }
+]

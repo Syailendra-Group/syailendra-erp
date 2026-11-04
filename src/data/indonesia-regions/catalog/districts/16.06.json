@@ -1,0 +1,122 @@
+[
+  {
+    "code": "16.06.010",
+    "districtCode": "010",
+    "regencyCode": "16.06",
+    "provinceCode": "16",
+    "name": "Kecamatan Sanga Desa",
+    "alias": "Sanga Desa"
+  },
+  {
+    "code": "16.06.020",
+    "districtCode": "020",
+    "regencyCode": "16.06",
+    "provinceCode": "16",
+    "name": "Kecamatan Babat Toman",
+    "alias": "Babat Toman"
+  },
+  {
+    "code": "16.06.021",
+    "districtCode": "021",
+    "regencyCode": "16.06",
+    "provinceCode": "16",
+    "name": "Kecamatan Batanghari Leko",
+    "alias": "Batanghari Leko"
+  },
+  {
+    "code": "16.06.022",
+    "districtCode": "022",
+    "regencyCode": "16.06",
+    "provinceCode": "16",
+    "name": "Kecamatan Plakat Tinggi",
+    "alias": "Plakat Tinggi"
+  },
+  {
+    "code": "16.06.023",
+    "districtCode": "023",
+    "regencyCode": "16.06",
+    "provinceCode": "16",
+    "name": "Kecamatan Lawang Wetan",
+    "alias": "Lawang Wetan"
+  },
+  {
+    "code": "16.06.030",
+    "districtCode": "030",
+    "regencyCode": "16.06",
+    "provinceCode": "16",
+    "name": "Kecamatan Sungai Keruh",
+    "alias": "Sungai Keruh"
+  },
+  {
+    "code": "16.06.031",
+    "districtCode": "031",
+    "regencyCode": "16.06",
+    "provinceCode": "16",
+    "name": "Kecamatan Jirak Jaya",
+    "alias": "Jirak Jaya"
+  },
+  {
+    "code": "16.06.040",
+    "districtCode": "040",
+    "regencyCode": "16.06",
+    "provinceCode": "16",
+    "name": "Kecamatan Sekayu",
+    "alias": "Sekayu"
+  },
+  {
+    "code": "16.06.041",
+    "districtCode": "041",
+    "regencyCode": "16.06",
+    "provinceCode": "16",
+    "name": "Kecamatan Lais",
+    "alias": "Lais"
+  },
+  {
+    "code": "16.06.090",
+    "districtCode": "090",
+    "regencyCode": "16.06",
+    "provinceCode": "16",
+    "name": "Kecamatan Sungai Lilin",
+    "alias": "Sungai Lilin"
+  },
+  {
+    "code": "16.06.091",
+    "districtCode": "091",
+    "regencyCode": "16.06",
+    "provinceCode": "16",
+    "name": "Kecamatan Keluang",
+    "alias": "Keluang"
+  },
+  {
+    "code": "16.06.092",
+    "districtCode": "092",
+    "regencyCode": "16.06",
+    "provinceCode": "16",
+    "name": "Kecamatan Babat Supat",
+    "alias": "Babat Supat"
+  },
+  {
+    "code": "16.06.100",
+    "districtCode": "100",
+    "regencyCode": "16.06",
+    "provinceCode": "16",
+    "name": "Kecamatan Bayung Lencir",
+    "alias": "Bayung Lencir"
+  },
+  {
+    "code": "16.06.101",
+    "districtCode": "101",
+    "regencyCode": "16.06",
+    "provinceCode": "16",
+    "name": "Kecamatan Lalan",
+    "alias": "Lalan"
+  },
+  {
+    "code": "16.06.102",
+    "districtCode": "102",
+    "regencyCode": "16.06",
+    "provinceCode": "16",
+    "name": "Kecamatan Tungkal Jaya",
+    "alias": "Tungkal Jaya"
+  }
+]

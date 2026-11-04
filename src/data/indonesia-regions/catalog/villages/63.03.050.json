@@ -1,0 +1,184 @@
+[
+  {
+    "code": "63.03.050.001",
+    "villageCode": "001",
+    "districtCode": "63.03.050",
+    "name": "Cindai Alus",
+    "alias": "Cindai Alus"
+  },
+  {
+    "code": "63.03.050.002",
+    "villageCode": "002",
+    "districtCode": "63.03.050",
+    "name": "Sungai Sipai",
+    "alias": "Sungai Sipai"
+  },
+  {
+    "code": "63.03.050.003",
+    "villageCode": "003",
+    "districtCode": "63.03.050",
+    "name": "Sungai Paring",
+    "alias": "Sungai Paring"
+  },
+  {
+    "code": "63.03.050.004",
+    "villageCode": "004",
+    "districtCode": "63.03.050",
+    "name": "Jawa",
+    "alias": "Jawa"
+  },
+  {
+    "code": "63.03.050.005",
+    "villageCode": "005",
+    "districtCode": "63.03.050",
+    "name": "Tanjung Rema Darat",
+    "alias": "Tanjung Rema Darat"
+  },
+  {
+    "code": "63.03.050.006",
+    "villageCode": "006",
+    "districtCode": "63.03.050",
+    "name": "Indrasari",
+    "alias": "Indrasari"
+  },
+  {
+    "code": "63.03.050.007",
+    "villageCode": "007",
+    "districtCode": "63.03.050",
+    "name": "Labuan Tabu",
+    "alias": "Labuan Tabu"
+  },
+  {
+    "code": "63.03.050.008",
+    "villageCode": "008",
+    "districtCode": "63.03.050",
+    "name": "Bincau",
+    "alias": "Bincau"
+  },
+  {
+    "code": "63.03.050.009",
+    "villageCode": "009",
+    "districtCode": "63.03.050",
+    "name": "Tambak Baru",
+    "alias": "Tambak Baru"
+  },
+  {
+    "code": "63.03.050.010",
+    "villageCode": "010",
+    "districtCode": "63.03.050",
+    "name": "Bincau Muara",
+    "alias": "Bincau Muara"
+  },
+  {
+    "code": "63.03.050.011",
+    "villageCode": "011",
+    "districtCode": "63.03.050",
+    "name": "Tunggul Irang",
+    "alias": "Tunggul Irang"
+  },
+  {
+    "code": "63.03.050.012",
+    "villageCode": "012",
+    "districtCode": "63.03.050",
+    "name": "Tunggul Irang Ulu",
+    "alias": "Tunggul Irang Ulu"
+  },
+  {
+    "code": "63.03.050.013",
+    "villageCode": "013",
+    "districtCode": "63.03.050",
+    "name": "Tanjung Rema",
+    "alias": "Tanjung Rema"
+  },
+  {
+    "code": "63.03.050.014",
+    "villageCode": "014",
+    "districtCode": "63.03.050",
+    "name": "Jawa Laut",
+    "alias": "Jawa Laut"
+  },
+  {
+    "code": "63.03.050.015",
+    "villageCode": "015",
+    "districtCode": "63.03.050",
+    "name": "Tunggul Irang Ilir",
+    "alias": "Tunggul Irang Ilir"
+  },
+  {
+    "code": "63.03.050.016",
+    "villageCode": "016",
+    "districtCode": "63.03.050",
+    "name": "Murung Keraton",
+    "alias": "Murung Keraton"
+  },
+  {
+    "code": "63.03.050.017",
+    "villageCode": "017",
+    "districtCode": "63.03.050",
+    "name": "Keraton",
+    "alias": "Keraton"
+  },
+  {
+    "code": "63.03.050.018",
+    "villageCode": "018",
+    "districtCode": "63.03.050",
+    "name": "Pasayangan Utara",
+    "alias": "Pasayangan Utara"
+  },
+  {
+    "code": "63.03.050.019",
+    "villageCode": "019",
+    "districtCode": "63.03.050",
+    "name": "Pasayangan Selatan",
+    "alias": "Pasayangan Selatan"
+  },
+  {
+    "code": "63.03.050.020",
+    "villageCode": "020",
+    "districtCode": "63.03.050",
+    "name": "Pasayangan Barat",
+    "alias": "Pasayangan Barat"
+  },
+  {
+    "code": "63.03.050.021",
+    "villageCode": "021",
+    "districtCode": "63.03.050",
+    "name": "Pasayangan",
+    "alias": "Pasayangan"
+  },
+  {
+    "code": "63.03.050.023",
+    "villageCode": "023",
+    "districtCode": "63.03.050",
+    "name": "Murung Kenanga",
+    "alias": "Murung Kenanga"
+  },
+  {
+    "code": "63.03.050.027",
+    "villageCode": "027",
+    "districtCode": "63.03.050",
+    "name": "Tambak Baru Ilir",
+    "alias": "Tambak Baru Ilir"
+  },
+  {
+    "code": "63.03.050.028",
+    "villageCode": "028",
+    "districtCode": "63.03.050",
+    "name": "Tambak Baru Ulu",
+    "alias": "Tambak Baru Ulu"
+  },
+  {
+    "code": "63.03.050.037",
+    "villageCode": "037",
+    "districtCode": "63.03.050",
+    "name": "Tungkaran",
+    "alias": "Tungkaran"
+  },
+  {
+    "code": "63.03.050.038",
+    "villageCode": "038",
+    "districtCode": "63.03.050",
+    "name": "Sekumpul",
+    "alias": "Sekumpul"
+  }
+]

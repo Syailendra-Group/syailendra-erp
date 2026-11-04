@@ -1,0 +1,86 @@
+[
+  {
+    "code": "95.03.020.001",
+    "villageCode": "001",
+    "districtCode": "95.03.020",
+    "name": "Kabe",
+    "alias": "Kabe"
+  },
+  {
+    "code": "95.03.020.002",
+    "villageCode": "002",
+    "districtCode": "95.03.020",
+    "name": "Sumur Aman",
+    "alias": "Sumur Aman"
+  },
+  {
+    "code": "95.03.020.003",
+    "villageCode": "003",
+    "districtCode": "95.03.020",
+    "name": "Kofar",
+    "alias": "Kofar"
+  },
+  {
+    "code": "95.03.020.004",
+    "villageCode": "004",
+    "districtCode": "95.03.020",
+    "name": "Komru",
+    "alias": "Komru"
+  },
+  {
+    "code": "95.03.020.005",
+    "villageCode": "005",
+    "districtCode": "95.03.020",
+    "name": "Sene",
+    "alias": "Sene"
+  },
+  {
+    "code": "95.03.020.006",
+    "villageCode": "006",
+    "districtCode": "95.03.020",
+    "name": "Taragae",
+    "alias": "Taragae"
+  },
+  {
+    "code": "95.03.020.007",
+    "villageCode": "007",
+    "districtCode": "95.03.020",
+    "name": "Upin",
+    "alias": "Upin"
+  },
+  {
+    "code": "95.03.020.008",
+    "villageCode": "008",
+    "districtCode": "95.03.020",
+    "name": "Khaumi",
+    "alias": "Khaumi"
+  },
+  {
+    "code": "95.03.020.009",
+    "villageCode": "009",
+    "districtCode": "95.03.020",
+    "name": "Atti",
+    "alias": "Atti"
+  },
+  {
+    "code": "95.03.020.010",
+    "villageCode": "010",
+    "districtCode": "95.03.020",
+    "name": "Kayagae",
+    "alias": "Kayagae"
+  },
+  {
+    "code": "95.03.020.011",
+    "villageCode": "011",
+    "districtCode": "95.03.020",
+    "name": "Pano",
+    "alias": "Pano"
+  },
+  {
+    "code": "95.03.020.012",
+    "villageCode": "012",
+    "districtCode": "95.03.020",
+    "name": "Kogir",
+    "alias": "Kogir"
+  }
+]

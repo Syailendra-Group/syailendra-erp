@@ -1,0 +1,51 @@
+[
+  {
+    "code": "21.05.070.002",
+    "villageCode": "002",
+    "districtCode": "21.05.070",
+    "name": "Tebang",
+    "alias": "Tebang"
+  },
+  {
+    "code": "21.05.070.003",
+    "villageCode": "003",
+    "districtCode": "21.05.070",
+    "name": "Ladan",
+    "alias": "Ladan"
+  },
+  {
+    "code": "21.05.070.008",
+    "villageCode": "008",
+    "districtCode": "21.05.070",
+    "name": "Putik",
+    "alias": "Putik"
+  },
+  {
+    "code": "21.05.070.010",
+    "villageCode": "010",
+    "districtCode": "21.05.070",
+    "name": "Piabung",
+    "alias": "Piabung"
+  },
+  {
+    "code": "21.05.070.011",
+    "villageCode": "011",
+    "districtCode": "21.05.070",
+    "name": "Langir",
+    "alias": "Langir"
+  },
+  {
+    "code": "21.05.070.012",
+    "villageCode": "012",
+    "districtCode": "21.05.070",
+    "name": "Candi",
+    "alias": "Candi"
+  },
+  {
+    "code": "21.05.070.014",
+    "villageCode": "014",
+    "districtCode": "21.05.070",
+    "name": "Belibak",
+    "alias": "Belibak"
+  }
+]

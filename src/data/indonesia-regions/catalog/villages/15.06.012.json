@@ -1,0 +1,65 @@
+[
+  {
+    "code": "15.06.012.001",
+    "villageCode": "001",
+    "districtCode": "15.06.012",
+    "name": "Rantau Karya",
+    "alias": "Rantau Karya"
+  },
+  {
+    "code": "15.06.012.002",
+    "villageCode": "002",
+    "districtCode": "15.06.012",
+    "name": "Kota Baru",
+    "alias": "Kota Baru"
+  },
+  {
+    "code": "15.06.012.003",
+    "villageCode": "003",
+    "districtCode": "15.06.012",
+    "name": "Pandan Lagan",
+    "alias": "Pandan Lagan"
+  },
+  {
+    "code": "15.06.012.004",
+    "villageCode": "004",
+    "districtCode": "15.06.012",
+    "name": "Suka Maju",
+    "alias": "Suka Maju"
+  },
+  {
+    "code": "15.06.012.005",
+    "villageCode": "005",
+    "districtCode": "15.06.012",
+    "name": "Pandan Makmur",
+    "alias": "Pandan Makmur"
+  },
+  {
+    "code": "15.06.012.006",
+    "villageCode": "006",
+    "districtCode": "15.06.012",
+    "name": "Pandan Sejahtera",
+    "alias": "Pandan Sejahtera"
+  },
+  {
+    "code": "15.06.012.007",
+    "villageCode": "007",
+    "districtCode": "15.06.012",
+    "name": "Pandan Jaya",
+    "alias": "Pandan Jaya"
+  },
+  {
+    "code": "15.06.012.008",
+    "villageCode": "008",
+    "districtCode": "15.06.012",
+    "name": "Lagan Ulu",
+    "alias": "Lagan Ulu"
+  },
+  {
+    "code": "15.06.012.009",
+    "villageCode": "009",
+    "districtCode": "15.06.012",
+    "name": "Lagan Tengah",
+    "alias": "Lagan Tengah"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "code": "62.12.053.001",
+    "villageCode": "001",
+    "districtCode": "62.12.053",
+    "name": "Dayu",
+    "alias": "Dayu"
+  },
+  {
+    "code": "62.12.053.002",
+    "villageCode": "002",
+    "districtCode": "62.12.053",
+    "name": "Wuran",
+    "alias": "Wuran"
+  },
+  {
+    "code": "62.12.053.003",
+    "villageCode": "003",
+    "districtCode": "62.12.053",
+    "name": "Ipu Mea",
+    "alias": "Ipu Mea"
+  },
+  {
+    "code": "62.12.053.004",
+    "villageCode": "004",
+    "districtCode": "62.12.053",
+    "name": "Simpang Naneng",
+    "alias": "Simpang Naneng"
+  },
+  {
+    "code": "62.12.053.005",
+    "villageCode": "005",
+    "districtCode": "62.12.053",
+    "name": "Lagan",
+    "alias": "Lagan"
+  },
+  {
+    "code": "62.12.053.006",
+    "villageCode": "006",
+    "districtCode": "62.12.053",
+    "name": "Putut Tawuluh",
+    "alias": "Putut Tawuluh"
+  },
+  {
+    "code": "62.12.053.007",
+    "villageCode": "007",
+    "districtCode": "62.12.053",
+    "name": "Kandris",
+    "alias": "Kandris"
+  }
+]

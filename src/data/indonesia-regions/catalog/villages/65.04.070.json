@@ -1,0 +1,72 @@
+[
+  {
+    "code": "65.04.070.001",
+    "villageCode": "001",
+    "districtCode": "65.04.070",
+    "name": "Sujau",
+    "alias": "Sujau"
+  },
+  {
+    "code": "65.04.070.002",
+    "villageCode": "002",
+    "districtCode": "65.04.070",
+    "name": "Lulu",
+    "alias": "Lulu"
+  },
+  {
+    "code": "65.04.070.003",
+    "villageCode": "003",
+    "districtCode": "65.04.070",
+    "name": "Melasu Baru",
+    "alias": "Melasu Baru"
+  },
+  {
+    "code": "65.04.070.004",
+    "villageCode": "004",
+    "districtCode": "65.04.070",
+    "name": "Bebanas",
+    "alias": "Bebanas"
+  },
+  {
+    "code": "65.04.070.005",
+    "villageCode": "005",
+    "districtCode": "65.04.070",
+    "name": "Tetaban",
+    "alias": "Tetaban"
+  },
+  {
+    "code": "65.04.070.006",
+    "villageCode": "006",
+    "districtCode": "65.04.070",
+    "name": "Kunyit",
+    "alias": "Kunyit"
+  },
+  {
+    "code": "65.04.070.007",
+    "villageCode": "007",
+    "districtCode": "65.04.070",
+    "name": "Kekayap",
+    "alias": "Kekayap"
+  },
+  {
+    "code": "65.04.070.008",
+    "villageCode": "008",
+    "districtCode": "65.04.070",
+    "name": "Apas",
+    "alias": "Apas"
+  },
+  {
+    "code": "65.04.070.009",
+    "villageCode": "009",
+    "districtCode": "65.04.070",
+    "name": "Harapan",
+    "alias": "Harapan"
+  },
+  {
+    "code": "65.04.070.010",
+    "villageCode": "010",
+    "districtCode": "65.04.070",
+    "name": "Pembeliangan",
+    "alias": "Pembeliangan"
+  }
+]

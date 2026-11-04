@@ -1,0 +1,30 @@
+[
+  {
+    "code": "13.08.020.001",
+    "villageCode": "001",
+    "districtCode": "13.08.020",
+    "name": "Mungo",
+    "alias": "Mungo"
+  },
+  {
+    "code": "13.08.020.002",
+    "villageCode": "002",
+    "districtCode": "13.08.020",
+    "name": "Andaleh",
+    "alias": "Andaleh"
+  },
+  {
+    "code": "13.08.020.003",
+    "villageCode": "003",
+    "districtCode": "13.08.020",
+    "name": "Sungai Kamuyang",
+    "alias": "Sungai Kamuyang"
+  },
+  {
+    "code": "13.08.020.004",
+    "villageCode": "004",
+    "districtCode": "13.08.020",
+    "name": "Tanjuang Haro Sikabu-Kabu Padang Panjang",
+    "alias": "Tanjuang Haro Sikabu-Kabu Padang Panjang"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "code": "63.07.091.001",
+    "villageCode": "001",
+    "districtCode": "63.07.091",
+    "name": "Limpasu",
+    "alias": "Limpasu"
+  },
+  {
+    "code": "63.07.091.002",
+    "villageCode": "002",
+    "districtCode": "63.07.091",
+    "name": "Kabang",
+    "alias": "Kabang"
+  },
+  {
+    "code": "63.07.091.003",
+    "villageCode": "003",
+    "districtCode": "63.07.091",
+    "name": "Tapuk",
+    "alias": "Tapuk"
+  },
+  {
+    "code": "63.07.091.004",
+    "villageCode": "004",
+    "districtCode": "63.07.091",
+    "name": "Pauh",
+    "alias": "Pauh"
+  },
+  {
+    "code": "63.07.091.005",
+    "villageCode": "005",
+    "districtCode": "63.07.091",
+    "name": "Hawang",
+    "alias": "Hawang"
+  },
+  {
+    "code": "63.07.091.006",
+    "villageCode": "006",
+    "districtCode": "63.07.091",
+    "name": "Karatungan",
+    "alias": "Karatungan"
+  },
+  {
+    "code": "63.07.091.007",
+    "villageCode": "007",
+    "districtCode": "63.07.091",
+    "name": "Abung",
+    "alias": "Abung"
+  },
+  {
+    "code": "63.07.091.008",
+    "villageCode": "008",
+    "districtCode": "63.07.091",
+    "name": "Abung Surapati",
+    "alias": "Abung Surapati"
+  },
+  {
+    "code": "63.07.091.009",
+    "villageCode": "009",
+    "districtCode": "63.07.091",
+    "name": "Karau",
+    "alias": "Karau"
+  }
+]

@@ -1,0 +1,240 @@
+[
+  {
+    "code": "11.15.050.001",
+    "villageCode": "001",
+    "districtCode": "11.15.050",
+    "name": "Blang Lango",
+    "alias": "Blang Lango"
+  },
+  {
+    "code": "11.15.050.002",
+    "villageCode": "002",
+    "districtCode": "11.15.050",
+    "name": "Tuwi Meuleusong",
+    "alias": "Tuwi Meuleusong"
+  },
+  {
+    "code": "11.15.050.003",
+    "villageCode": "003",
+    "districtCode": "11.15.050",
+    "name": "Blang Geudong",
+    "alias": "Blang Geudong"
+  },
+  {
+    "code": "11.15.050.004",
+    "villageCode": "004",
+    "districtCode": "11.15.050",
+    "name": "Sawang Mane",
+    "alias": "Sawang Mane"
+  },
+  {
+    "code": "11.15.050.005",
+    "villageCode": "005",
+    "districtCode": "11.15.050",
+    "name": "Lhok Pange",
+    "alias": "Lhok Pange"
+  },
+  {
+    "code": "11.15.050.006",
+    "villageCode": "006",
+    "districtCode": "11.15.050",
+    "name": "Keude Neulop",
+    "alias": "Keude Neulop"
+  },
+  {
+    "code": "11.15.050.007",
+    "villageCode": "007",
+    "districtCode": "11.15.050",
+    "name": "Mon Bateung",
+    "alias": "Mon Bateung"
+  },
+  {
+    "code": "11.15.050.008",
+    "villageCode": "008",
+    "districtCode": "11.15.050",
+    "name": "Ie Beudoh",
+    "alias": "Ie Beudoh"
+  },
+  {
+    "code": "11.15.050.009",
+    "villageCode": "009",
+    "districtCode": "11.15.050",
+    "name": "Suak Perbong",
+    "alias": "Suak Perbong"
+  },
+  {
+    "code": "11.15.050.010",
+    "villageCode": "010",
+    "districtCode": "11.15.050",
+    "name": "Blang Ara Kmp.",
+    "alias": "Blang Ara Kmp."
+  },
+  {
+    "code": "11.15.050.011",
+    "villageCode": "011",
+    "districtCode": "11.15.050",
+    "name": "Krueng Kulu",
+    "alias": "Krueng Kulu"
+  },
+  {
+    "code": "11.15.050.012",
+    "villageCode": "012",
+    "districtCode": "11.15.050",
+    "name": "Cot Punti",
+    "alias": "Cot Punti"
+  },
+  {
+    "code": "11.15.050.013",
+    "villageCode": "013",
+    "districtCode": "11.15.050",
+    "name": "Keude Blang Ara",
+    "alias": "Keude Blang Ara"
+  },
+  {
+    "code": "11.15.050.014",
+    "villageCode": "014",
+    "districtCode": "11.15.050",
+    "name": "Peuleukung",
+    "alias": "Peuleukung"
+  },
+  {
+    "code": "11.15.050.015",
+    "villageCode": "015",
+    "districtCode": "11.15.050",
+    "name": "Sapeng",
+    "alias": "Sapeng"
+  },
+  {
+    "code": "11.15.050.016",
+    "villageCode": "016",
+    "districtCode": "11.15.050",
+    "name": "Meugat Meuh",
+    "alias": "Meugat Meuh"
+  },
+  {
+    "code": "11.15.050.017",
+    "villageCode": "017",
+    "districtCode": "11.15.050",
+    "name": "Blang Panyang",
+    "alias": "Blang Panyang"
+  },
+  {
+    "code": "11.15.050.018",
+    "villageCode": "018",
+    "districtCode": "11.15.050",
+    "name": "Uteun Pulo",
+    "alias": "Uteun Pulo"
+  },
+  {
+    "code": "11.15.050.019",
+    "villageCode": "019",
+    "districtCode": "11.15.050",
+    "name": "Keude Linteung",
+    "alias": "Keude Linteung"
+  },
+  {
+    "code": "11.15.050.020",
+    "villageCode": "020",
+    "districtCode": "11.15.050",
+    "name": "Paya",
+    "alias": "Paya"
+  },
+  {
+    "code": "11.15.050.021",
+    "villageCode": "021",
+    "districtCode": "11.15.050",
+    "name": "Cot Teuku Dek",
+    "alias": "Cot Teuku Dek"
+  },
+  {
+    "code": "11.15.050.022",
+    "villageCode": "022",
+    "districtCode": "11.15.050",
+    "name": "Lhok Mesjid",
+    "alias": "Lhok Mesjid"
+  },
+  {
+    "code": "11.15.050.023",
+    "villageCode": "023",
+    "districtCode": "11.15.050",
+    "name": "Blang Preh",
+    "alias": "Blang Preh"
+  },
+  {
+    "code": "11.15.050.024",
+    "villageCode": "024",
+    "districtCode": "11.15.050",
+    "name": "Blang Bayu",
+    "alias": "Blang Bayu"
+  },
+  {
+    "code": "11.15.050.025",
+    "villageCode": "025",
+    "districtCode": "11.15.050",
+    "name": "Meurandeh Suak",
+    "alias": "Meurandeh Suak"
+  },
+  {
+    "code": "11.15.050.026",
+    "villageCode": "026",
+    "districtCode": "11.15.050",
+    "name": "Cot Dirui",
+    "alias": "Cot Dirui"
+  },
+  {
+    "code": "11.15.050.027",
+    "villageCode": "027",
+    "districtCode": "11.15.050",
+    "name": "Cot Manyang",
+    "alias": "Cot Manyang"
+  },
+  {
+    "code": "11.15.050.028",
+    "villageCode": "028",
+    "districtCode": "11.15.050",
+    "name": "Kabu Baroh",
+    "alias": "Kabu Baroh"
+  },
+  {
+    "code": "11.15.050.029",
+    "villageCode": "029",
+    "districtCode": "11.15.050",
+    "name": "Kabu Tunong",
+    "alias": "Kabu Tunong"
+  },
+  {
+    "code": "11.15.050.030",
+    "villageCode": "030",
+    "districtCode": "11.15.050",
+    "name": "Cot Gud",
+    "alias": "Cot Gud"
+  },
+  {
+    "code": "11.15.050.031",
+    "villageCode": "031",
+    "districtCode": "11.15.050",
+    "name": "Pulo Teungoh",
+    "alias": "Pulo Teungoh"
+  },
+  {
+    "code": "11.15.050.032",
+    "villageCode": "032",
+    "districtCode": "11.15.050",
+    "name": "Kila",
+    "alias": "Kila"
+  },
+  {
+    "code": "11.15.050.033",
+    "villageCode": "033",
+    "districtCode": "11.15.050",
+    "name": "Kandeh",
+    "alias": "Kandeh"
+  },
+  {
+    "code": "11.15.050.034",
+    "villageCode": "034",
+    "districtCode": "11.15.050",
+    "name": "Blang Tengku",
+    "alias": "Blang Tengku"
+  }
+]

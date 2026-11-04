@@ -1,0 +1,50 @@
+[
+  {
+    "code": "12.77.010",
+    "districtCode": "010",
+    "regencyCode": "12.77",
+    "provinceCode": "12",
+    "name": "Kecamatan Padangsidimpuan Tenggara",
+    "alias": "Padangsidimpuan Tenggara"
+  },
+  {
+    "code": "12.77.020",
+    "districtCode": "020",
+    "regencyCode": "12.77",
+    "provinceCode": "12",
+    "name": "Kecamatan Padangsidimpuan Selatan",
+    "alias": "Padangsidimpuan Selatan"
+  },
+  {
+    "code": "12.77.030",
+    "districtCode": "030",
+    "regencyCode": "12.77",
+    "provinceCode": "12",
+    "name": "Kecamatan Padangsidimpuan Batunadua",
+    "alias": "Padangsidimpuan Batunadua"
+  },
+  {
+    "code": "12.77.040",
+    "districtCode": "040",
+    "regencyCode": "12.77",
+    "provinceCode": "12",
+    "name": "Kecamatan Padangsidimpuan Utara",
+    "alias": "Padangsidimpuan Utara"
+  },
+  {
+    "code": "12.77.050",
+    "districtCode": "050",
+    "regencyCode": "12.77",
+    "provinceCode": "12",
+    "name": "Kecamatan Padangsidimpuan Hutaimbaru",
+    "alias": "Padangsidimpuan Hutaimbaru"
+  },
+  {
+    "code": "12.77.051",
+    "districtCode": "051",
+    "regencyCode": "12.77",
+    "provinceCode": "12",
+    "name": "Kecamatan Padangsidimpuan Angkola Julu",
+    "alias": "Padangsidimpuan Angkola Julu"
+  }
+]

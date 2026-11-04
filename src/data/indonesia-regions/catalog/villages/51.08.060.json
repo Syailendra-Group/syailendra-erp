@@ -1,0 +1,205 @@
+[
+  {
+    "code": "51.08.060.001",
+    "villageCode": "001",
+    "districtCode": "51.08.060",
+    "name": "Kalibukbuk",
+    "alias": "Kalibukbuk"
+  },
+  {
+    "code": "51.08.060.002",
+    "villageCode": "002",
+    "districtCode": "51.08.060",
+    "name": "Anturan",
+    "alias": "Anturan"
+  },
+  {
+    "code": "51.08.060.003",
+    "villageCode": "003",
+    "districtCode": "51.08.060",
+    "name": "Tukadmungga",
+    "alias": "Tukadmungga"
+  },
+  {
+    "code": "51.08.060.004",
+    "villageCode": "004",
+    "districtCode": "51.08.060",
+    "name": "Pemaron",
+    "alias": "Pemaron"
+  },
+  {
+    "code": "51.08.060.005",
+    "villageCode": "005",
+    "districtCode": "51.08.060",
+    "name": "Baktiseraga",
+    "alias": "Baktiseraga"
+  },
+  {
+    "code": "51.08.060.006",
+    "villageCode": "006",
+    "districtCode": "51.08.060",
+    "name": "Banyuasri",
+    "alias": "Banyuasri"
+  },
+  {
+    "code": "51.08.060.007",
+    "villageCode": "007",
+    "districtCode": "51.08.060",
+    "name": "Banjar Tegal",
+    "alias": "Banjar Tegal"
+  },
+  {
+    "code": "51.08.060.008",
+    "villageCode": "008",
+    "districtCode": "51.08.060",
+    "name": "Paket Agung",
+    "alias": "Paket Agung"
+  },
+  {
+    "code": "51.08.060.009",
+    "villageCode": "009",
+    "districtCode": "51.08.060",
+    "name": "Beratan",
+    "alias": "Beratan"
+  },
+  {
+    "code": "51.08.060.010",
+    "villageCode": "010",
+    "districtCode": "51.08.060",
+    "name": "Liligundi",
+    "alias": "Liligundi"
+  },
+  {
+    "code": "51.08.060.011",
+    "villageCode": "011",
+    "districtCode": "51.08.060",
+    "name": "Kampung Singaraja",
+    "alias": "Kampung Singaraja"
+  },
+  {
+    "code": "51.08.060.012",
+    "villageCode": "012",
+    "districtCode": "51.08.060",
+    "name": "Kendran",
+    "alias": "Kendran"
+  },
+  {
+    "code": "51.08.060.013",
+    "villageCode": "013",
+    "districtCode": "51.08.060",
+    "name": "Astina",
+    "alias": "Astina"
+  },
+  {
+    "code": "51.08.060.014",
+    "villageCode": "014",
+    "districtCode": "51.08.060",
+    "name": "Banjar Jawa",
+    "alias": "Banjar Jawa"
+  },
+  {
+    "code": "51.08.060.015",
+    "villageCode": "015",
+    "districtCode": "51.08.060",
+    "name": "Banjar Bali",
+    "alias": "Banjar Bali"
+  },
+  {
+    "code": "51.08.060.016",
+    "villageCode": "016",
+    "districtCode": "51.08.060",
+    "name": "Kampung Kajanan",
+    "alias": "Kampung Kajanan"
+  },
+  {
+    "code": "51.08.060.017",
+    "villageCode": "017",
+    "districtCode": "51.08.060",
+    "name": "Kaliuntu",
+    "alias": "Kaliuntu"
+  },
+  {
+    "code": "51.08.060.018",
+    "villageCode": "018",
+    "districtCode": "51.08.060",
+    "name": "Kampung Anyar",
+    "alias": "Kampung Anyar"
+  },
+  {
+    "code": "51.08.060.019",
+    "villageCode": "019",
+    "districtCode": "51.08.060",
+    "name": "Kampung Bugis",
+    "alias": "Kampung Bugis"
+  },
+  {
+    "code": "51.08.060.020",
+    "villageCode": "020",
+    "districtCode": "51.08.060",
+    "name": "Kampung Baru",
+    "alias": "Kampung Baru"
+  },
+  {
+    "code": "51.08.060.021",
+    "villageCode": "021",
+    "districtCode": "51.08.060",
+    "name": "Banyuning",
+    "alias": "Banyuning"
+  },
+  {
+    "code": "51.08.060.022",
+    "villageCode": "022",
+    "districtCode": "51.08.060",
+    "name": "Penarukan",
+    "alias": "Penarukan"
+  },
+  {
+    "code": "51.08.060.023",
+    "villageCode": "023",
+    "districtCode": "51.08.060",
+    "name": "Jinengdalem",
+    "alias": "Jinengdalem"
+  },
+  {
+    "code": "51.08.060.024",
+    "villageCode": "024",
+    "districtCode": "51.08.060",
+    "name": "Penglatan",
+    "alias": "Penglatan"
+  },
+  {
+    "code": "51.08.060.025",
+    "villageCode": "025",
+    "districtCode": "51.08.060",
+    "name": "Petandakan",
+    "alias": "Petandakan"
+  },
+  {
+    "code": "51.08.060.026",
+    "villageCode": "026",
+    "districtCode": "51.08.060",
+    "name": "Sari Mekar",
+    "alias": "Sari Mekar"
+  },
+  {
+    "code": "51.08.060.027",
+    "villageCode": "027",
+    "districtCode": "51.08.060",
+    "name": "Nagasepaha",
+    "alias": "Nagasepaha"
+  },
+  {
+    "code": "51.08.060.028",
+    "villageCode": "028",
+    "districtCode": "51.08.060",
+    "name": "Alasangker",
+    "alias": "Alasangker"
+  },
+  {
+    "code": "51.08.060.029",
+    "villageCode": "029",
+    "districtCode": "51.08.060",
+    "name": "Poh Bergong",
+    "alias": "Poh Bergong"
+  }
+]

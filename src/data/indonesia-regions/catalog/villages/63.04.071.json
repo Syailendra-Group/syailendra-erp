@@ -1,0 +1,51 @@
+[
+  {
+    "code": "63.04.071.001",
+    "villageCode": "001",
+    "districtCode": "63.04.071",
+    "name": "Cahaya Baru",
+    "alias": "Cahaya Baru"
+  },
+  {
+    "code": "63.04.071.002",
+    "villageCode": "002",
+    "districtCode": "63.04.071",
+    "name": "Sampurna",
+    "alias": "Sampurna"
+  },
+  {
+    "code": "63.04.071.003",
+    "villageCode": "003",
+    "districtCode": "63.04.071",
+    "name": "Bahandang",
+    "alias": "Bahandang"
+  },
+  {
+    "code": "63.04.071.004",
+    "villageCode": "004",
+    "districtCode": "63.04.071",
+    "name": "Jejangkit Muara",
+    "alias": "Jejangkit Muara"
+  },
+  {
+    "code": "63.04.071.005",
+    "villageCode": "005",
+    "districtCode": "63.04.071",
+    "name": "Jejangkit Pasar",
+    "alias": "Jejangkit Pasar"
+  },
+  {
+    "code": "63.04.071.006",
+    "villageCode": "006",
+    "districtCode": "63.04.071",
+    "name": "Jejangkit Barat",
+    "alias": "Jejangkit Barat"
+  },
+  {
+    "code": "63.04.071.007",
+    "villageCode": "007",
+    "districtCode": "63.04.071",
+    "name": "Jejangkit Timur",
+    "alias": "Jejangkit Timur"
+  }
+]

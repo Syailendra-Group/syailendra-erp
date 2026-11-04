@@ -1,0 +1,114 @@
+[
+  {
+    "code": "32.10.140.001",
+    "villageCode": "001",
+    "districtCode": "32.10.140",
+    "name": "Pinangraja",
+    "alias": "Pinangraja"
+  },
+  {
+    "code": "32.10.140.002",
+    "villageCode": "002",
+    "districtCode": "32.10.140",
+    "name": "Sukaraja Kulon",
+    "alias": "Sukaraja Kulon"
+  },
+  {
+    "code": "32.10.140.003",
+    "villageCode": "003",
+    "districtCode": "32.10.140",
+    "name": "Sukaraja Wetan",
+    "alias": "Sukaraja Wetan"
+  },
+  {
+    "code": "32.10.140.004",
+    "villageCode": "004",
+    "districtCode": "32.10.140",
+    "name": "Cibentar",
+    "alias": "Cibentar"
+  },
+  {
+    "code": "32.10.140.005",
+    "villageCode": "005",
+    "districtCode": "32.10.140",
+    "name": "Leuwenggede",
+    "alias": "Leuwenggede"
+  },
+  {
+    "code": "32.10.140.006",
+    "villageCode": "006",
+    "districtCode": "32.10.140",
+    "name": "Andir",
+    "alias": "Andir"
+  },
+  {
+    "code": "32.10.140.007",
+    "villageCode": "007",
+    "districtCode": "32.10.140",
+    "name": "Cicadas",
+    "alias": "Cicadas"
+  },
+  {
+    "code": "32.10.140.008",
+    "villageCode": "008",
+    "districtCode": "32.10.140",
+    "name": "Burujul Wetan",
+    "alias": "Burujul Wetan"
+  },
+  {
+    "code": "32.10.140.009",
+    "villageCode": "009",
+    "districtCode": "32.10.140",
+    "name": "Burujul Kulon",
+    "alias": "Burujul Kulon"
+  },
+  {
+    "code": "32.10.140.010",
+    "villageCode": "010",
+    "districtCode": "32.10.140",
+    "name": "Mekarsari",
+    "alias": "Mekarsari"
+  },
+  {
+    "code": "32.10.140.011",
+    "villageCode": "011",
+    "districtCode": "32.10.140",
+    "name": "Jatiwangi",
+    "alias": "Jatiwangi"
+  },
+  {
+    "code": "32.10.140.012",
+    "villageCode": "012",
+    "districtCode": "32.10.140",
+    "name": "Surawangi",
+    "alias": "Surawangi"
+  },
+  {
+    "code": "32.10.140.013",
+    "villageCode": "013",
+    "districtCode": "32.10.140",
+    "name": "Jatisura",
+    "alias": "Jatisura"
+  },
+  {
+    "code": "32.10.140.014",
+    "villageCode": "014",
+    "districtCode": "32.10.140",
+    "name": "Sutawangi",
+    "alias": "Sutawangi"
+  },
+  {
+    "code": "32.10.140.015",
+    "villageCode": "015",
+    "districtCode": "32.10.140",
+    "name": "Ciborelang",
+    "alias": "Ciborelang"
+  },
+  {
+    "code": "32.10.140.016",
+    "villageCode": "016",
+    "districtCode": "32.10.140",
+    "name": "Loji",
+    "alias": "Loji"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "code": "61.72.050.001",
+    "villageCode": "001",
+    "districtCode": "61.72.050",
+    "name": "Roban",
+    "alias": "Roban"
+  },
+  {
+    "code": "61.72.050.002",
+    "villageCode": "002",
+    "districtCode": "61.72.050",
+    "name": "Condong",
+    "alias": "Condong"
+  },
+  {
+    "code": "61.72.050.003",
+    "villageCode": "003",
+    "districtCode": "61.72.050",
+    "name": "Sekip Lama",
+    "alias": "Sekip Lama"
+  },
+  {
+    "code": "61.72.050.004",
+    "villageCode": "004",
+    "districtCode": "61.72.050",
+    "name": "Jawa",
+    "alias": "Jawa"
+  },
+  {
+    "code": "61.72.050.005",
+    "villageCode": "005",
+    "districtCode": "61.72.050",
+    "name": "Bukit Batu",
+    "alias": "Bukit Batu"
+  },
+  {
+    "code": "61.72.050.006",
+    "villageCode": "006",
+    "districtCode": "61.72.050",
+    "name": "Sei Wie",
+    "alias": "Sei Wie"
+  }
+]

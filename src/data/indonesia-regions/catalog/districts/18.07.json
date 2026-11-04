@@ -1,0 +1,122 @@
+[
+  {
+    "code": "18.07.010",
+    "districtCode": "010",
+    "regencyCode": "18.07",
+    "provinceCode": "18",
+    "name": "Kecamatan Banjit",
+    "alias": "Banjit"
+  },
+  {
+    "code": "18.07.020",
+    "districtCode": "020",
+    "regencyCode": "18.07",
+    "provinceCode": "18",
+    "name": "Kecamatan Baradatu",
+    "alias": "Baradatu"
+  },
+  {
+    "code": "18.07.021",
+    "districtCode": "021",
+    "regencyCode": "18.07",
+    "provinceCode": "18",
+    "name": "Kecamatan Gunung Labuhan",
+    "alias": "Gunung Labuhan"
+  },
+  {
+    "code": "18.07.030",
+    "districtCode": "030",
+    "regencyCode": "18.07",
+    "provinceCode": "18",
+    "name": "Kecamatan Kasui",
+    "alias": "Kasui"
+  },
+  {
+    "code": "18.07.031",
+    "districtCode": "031",
+    "regencyCode": "18.07",
+    "provinceCode": "18",
+    "name": "Kecamatan Rebang Tangkas",
+    "alias": "Rebang Tangkas"
+  },
+  {
+    "code": "18.07.040",
+    "districtCode": "040",
+    "regencyCode": "18.07",
+    "provinceCode": "18",
+    "name": "Kecamatan Blambangan Umpu",
+    "alias": "Blambangan Umpu"
+  },
+  {
+    "code": "18.07.041",
+    "districtCode": "041",
+    "regencyCode": "18.07",
+    "provinceCode": "18",
+    "name": "Kecamatan Way Tuba",
+    "alias": "Way Tuba"
+  },
+  {
+    "code": "18.07.042",
+    "districtCode": "042",
+    "regencyCode": "18.07",
+    "provinceCode": "18",
+    "name": "Kecamatan Negeri Agung",
+    "alias": "Negeri Agung"
+  },
+  {
+    "code": "18.07.043",
+    "districtCode": "043",
+    "regencyCode": "18.07",
+    "provinceCode": "18",
+    "name": "Kecamatan Umpu Semenguk",
+    "alias": "Umpu Semenguk"
+  },
+  {
+    "code": "18.07.050",
+    "districtCode": "050",
+    "regencyCode": "18.07",
+    "provinceCode": "18",
+    "name": "Kecamatan Bahuga",
+    "alias": "Bahuga"
+  },
+  {
+    "code": "18.07.051",
+    "districtCode": "051",
+    "regencyCode": "18.07",
+    "provinceCode": "18",
+    "name": "Kecamatan Buay  Bahuga",
+    "alias": "Buay  Bahuga"
+  },
+  {
+    "code": "18.07.052",
+    "districtCode": "052",
+    "regencyCode": "18.07",
+    "provinceCode": "18",
+    "name": "Kecamatan Bumi Agung",
+    "alias": "Bumi Agung"
+  },
+  {
+    "code": "18.07.060",
+    "districtCode": "060",
+    "regencyCode": "18.07",
+    "provinceCode": "18",
+    "name": "Kecamatan Pakuan Ratu",
+    "alias": "Pakuan Ratu"
+  },
+  {
+    "code": "18.07.061",
+    "districtCode": "061",
+    "regencyCode": "18.07",
+    "provinceCode": "18",
+    "name": "Kecamatan Negara Batin",
+    "alias": "Negara Batin"
+  },
+  {
+    "code": "18.07.062",
+    "districtCode": "062",
+    "regencyCode": "18.07",
+    "provinceCode": "18",
+    "name": "Kecamatan Negeri Besar",
+    "alias": "Negeri Besar"
+  }
+]

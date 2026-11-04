@@ -1,0 +1,107 @@
+[
+  {
+    "code": "53.15.032.001",
+    "villageCode": "001",
+    "districtCode": "53.15.032",
+    "name": "Nanga Bere",
+    "alias": "Nanga Bere"
+  },
+  {
+    "code": "53.15.032.002",
+    "villageCode": "002",
+    "districtCode": "53.15.032",
+    "name": "Benteng Dewa",
+    "alias": "Benteng Dewa"
+  },
+  {
+    "code": "53.15.032.003",
+    "villageCode": "003",
+    "districtCode": "53.15.032",
+    "name": "Nanga Lili",
+    "alias": "Nanga Lili"
+  },
+  {
+    "code": "53.15.032.004",
+    "villageCode": "004",
+    "districtCode": "53.15.032",
+    "name": "Repi",
+    "alias": "Repi"
+  },
+  {
+    "code": "53.15.032.005",
+    "villageCode": "005",
+    "districtCode": "53.15.032",
+    "name": "Watu Waja",
+    "alias": "Watu Waja"
+  },
+  {
+    "code": "53.15.032.006",
+    "villageCode": "006",
+    "districtCode": "53.15.032",
+    "name": "Surunumbeng",
+    "alias": "Surunumbeng"
+  },
+  {
+    "code": "53.15.032.007",
+    "villageCode": "007",
+    "districtCode": "53.15.032",
+    "name": "Munting",
+    "alias": "Munting"
+  },
+  {
+    "code": "53.15.032.008",
+    "villageCode": "008",
+    "districtCode": "53.15.032",
+    "name": "Lalong",
+    "alias": "Lalong"
+  },
+  {
+    "code": "53.15.032.009",
+    "villageCode": "009",
+    "districtCode": "53.15.032",
+    "name": "Kakor",
+    "alias": "Kakor"
+  },
+  {
+    "code": "53.15.032.010",
+    "villageCode": "010",
+    "districtCode": "53.15.032",
+    "name": "Wae Mose",
+    "alias": "Wae Mose"
+  },
+  {
+    "code": "53.15.032.011",
+    "villageCode": "011",
+    "districtCode": "53.15.032",
+    "name": "Watu Tiri",
+    "alias": "Watu Tiri"
+  },
+  {
+    "code": "53.15.032.012",
+    "villageCode": "012",
+    "districtCode": "53.15.032",
+    "name": "Benteng Tado",
+    "alias": "Benteng Tado"
+  },
+  {
+    "code": "53.15.032.013",
+    "villageCode": "013",
+    "districtCode": "53.15.032",
+    "name": "Watu Rambung",
+    "alias": "Watu Rambung"
+  },
+  {
+    "code": "53.15.032.014",
+    "villageCode": "014",
+    "districtCode": "53.15.032",
+    "name": "Lendong",
+    "alias": "Lendong"
+  },
+  {
+    "code": "53.15.032.015",
+    "villageCode": "015",
+    "districtCode": "53.15.032",
+    "name": "Modo",
+    "alias": "Modo"
+  }
+]

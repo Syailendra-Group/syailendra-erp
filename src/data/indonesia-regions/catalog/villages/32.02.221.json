@@ -1,0 +1,44 @@
+[
+  {
+    "code": "32.02.221.001",
+    "villageCode": "001",
+    "districtCode": "32.02.221",
+    "name": "Munjul",
+    "alias": "Munjul"
+  },
+  {
+    "code": "32.02.221.002",
+    "villageCode": "002",
+    "districtCode": "32.02.221",
+    "name": "Ciambar",
+    "alias": "Ciambar"
+  },
+  {
+    "code": "32.02.221.003",
+    "villageCode": "003",
+    "districtCode": "32.02.221",
+    "name": "Ginanjar",
+    "alias": "Ginanjar"
+  },
+  {
+    "code": "32.02.221.004",
+    "villageCode": "004",
+    "districtCode": "32.02.221",
+    "name": "Wangunjaya",
+    "alias": "Wangunjaya"
+  },
+  {
+    "code": "32.02.221.005",
+    "villageCode": "005",
+    "districtCode": "32.02.221",
+    "name": "Cibunarjaya",
+    "alias": "Cibunarjaya"
+  },
+  {
+    "code": "32.02.221.006",
+    "villageCode": "006",
+    "districtCode": "32.02.221",
+    "name": "Ambarjaya",
+    "alias": "Ambarjaya"
+  }
+]

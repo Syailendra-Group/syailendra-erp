@@ -1,0 +1,37 @@
+[
+  {
+    "code": "21.72.010.001",
+    "villageCode": "001",
+    "districtCode": "21.72.010",
+    "name": "Dompak",
+    "alias": "Dompak"
+  },
+  {
+    "code": "21.72.010.002",
+    "villageCode": "002",
+    "districtCode": "21.72.010",
+    "name": "Tanjungpinang Timur",
+    "alias": "Tanjungpinang Timur"
+  },
+  {
+    "code": "21.72.010.003",
+    "villageCode": "003",
+    "districtCode": "21.72.010",
+    "name": "Tanjung Ayun Sakti",
+    "alias": "Tanjung Ayun Sakti"
+  },
+  {
+    "code": "21.72.010.004",
+    "villageCode": "004",
+    "districtCode": "21.72.010",
+    "name": "Sei Jang",
+    "alias": "Sei Jang"
+  },
+  {
+    "code": "21.72.010.005",
+    "villageCode": "005",
+    "districtCode": "21.72.010",
+    "name": "Tanjung Unggat",
+    "alias": "Tanjung Unggat"
+  }
+]

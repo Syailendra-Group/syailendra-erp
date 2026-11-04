@@ -1,0 +1,65 @@
+[
+  {
+    "code": "62.07.031.001",
+    "villageCode": "001",
+    "districtCode": "62.07.031",
+    "name": "Batu Tambun",
+    "alias": "Batu Tambun"
+  },
+  {
+    "code": "62.07.031.002",
+    "villageCode": "002",
+    "districtCode": "62.07.031",
+    "name": "Kinipan",
+    "alias": "Kinipan"
+  },
+  {
+    "code": "62.07.031.003",
+    "villageCode": "003",
+    "districtCode": "62.07.031",
+    "name": "Ginih",
+    "alias": "Ginih"
+  },
+  {
+    "code": "62.07.031.004",
+    "villageCode": "004",
+    "districtCode": "62.07.031",
+    "name": "Benakitan",
+    "alias": "Benakitan"
+  },
+  {
+    "code": "62.07.031.005",
+    "villageCode": "005",
+    "districtCode": "62.07.031",
+    "name": "Liku",
+    "alias": "Liku"
+  },
+  {
+    "code": "62.07.031.006",
+    "villageCode": "006",
+    "districtCode": "62.07.031",
+    "name": "Mangkalang",
+    "alias": "Mangkalang"
+  },
+  {
+    "code": "62.07.031.007",
+    "villageCode": "007",
+    "districtCode": "62.07.031",
+    "name": "Karang Mas",
+    "alias": "Karang Mas"
+  },
+  {
+    "code": "62.07.031.008",
+    "villageCode": "008",
+    "districtCode": "62.07.031",
+    "name": "Kina",
+    "alias": "Kina"
+  },
+  {
+    "code": "62.07.031.009",
+    "villageCode": "009",
+    "districtCode": "62.07.031",
+    "name": "Jemuat",
+    "alias": "Jemuat"
+  }
+]

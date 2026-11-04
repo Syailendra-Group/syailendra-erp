@@ -1,0 +1,44 @@
+[
+  {
+    "code": "94.03.081.001",
+    "villageCode": "001",
+    "districtCode": "94.03.081",
+    "name": "Pagai",
+    "alias": "Pagai"
+  },
+  {
+    "code": "94.03.081.002",
+    "villageCode": "002",
+    "districtCode": "94.03.081",
+    "name": "Hulu Atas",
+    "alias": "Hulu Atas"
+  },
+  {
+    "code": "94.03.081.003",
+    "villageCode": "003",
+    "districtCode": "94.03.081",
+    "name": "Aurina",
+    "alias": "Aurina"
+  },
+  {
+    "code": "94.03.081.004",
+    "villageCode": "004",
+    "districtCode": "94.03.081",
+    "name": "Muara Nawa",
+    "alias": "Muara Nawa"
+  },
+  {
+    "code": "94.03.081.005",
+    "villageCode": "005",
+    "districtCode": "94.03.081",
+    "name": "Kamikaru",
+    "alias": "Kamikaru"
+  },
+  {
+    "code": "94.03.081.006",
+    "villageCode": "006",
+    "districtCode": "94.03.081",
+    "name": "Naira",
+    "alias": "Naira"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "code": "72.11.060.001",
+    "villageCode": "001",
+    "districtCode": "72.11.060",
+    "name": "Bentean",
+    "alias": "Bentean"
+  },
+  {
+    "code": "72.11.060.002",
+    "villageCode": "002",
+    "districtCode": "72.11.060",
+    "name": "Tolokibit",
+    "alias": "Tolokibit"
+  },
+  {
+    "code": "72.11.060.003",
+    "villageCode": "003",
+    "districtCode": "72.11.060",
+    "name": "Matanga",
+    "alias": "Matanga"
+  },
+  {
+    "code": "72.11.060.004",
+    "villageCode": "004",
+    "districtCode": "72.11.060",
+    "name": "Labuan Kapelak",
+    "alias": "Labuan Kapelak"
+  },
+  {
+    "code": "72.11.060.005",
+    "villageCode": "005",
+    "districtCode": "72.11.060",
+    "name": "Malino",
+    "alias": "Malino"
+  },
+  {
+    "code": "72.11.060.006",
+    "villageCode": "006",
+    "districtCode": "72.11.060",
+    "name": "Kelapa Lima",
+    "alias": "Kelapa Lima"
+  }
+]

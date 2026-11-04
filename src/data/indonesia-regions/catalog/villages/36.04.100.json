@@ -1,0 +1,65 @@
+[
+  {
+    "code": "36.04.100.001",
+    "villageCode": "001",
+    "districtCode": "36.04.100",
+    "name": "Pagintungan",
+    "alias": "Pagintungan"
+  },
+  {
+    "code": "36.04.100.002",
+    "villageCode": "002",
+    "districtCode": "36.04.100",
+    "name": "Cemplang",
+    "alias": "Cemplang"
+  },
+  {
+    "code": "36.04.100.003",
+    "villageCode": "003",
+    "districtCode": "36.04.100",
+    "name": "Bojot",
+    "alias": "Bojot"
+  },
+  {
+    "code": "36.04.100.004",
+    "villageCode": "004",
+    "districtCode": "36.04.100",
+    "name": "Jawilan",
+    "alias": "Jawilan"
+  },
+  {
+    "code": "36.04.100.005",
+    "villageCode": "005",
+    "districtCode": "36.04.100",
+    "name": "Pasirbuyut",
+    "alias": "Pasirbuyut"
+  },
+  {
+    "code": "36.04.100.006",
+    "villageCode": "006",
+    "districtCode": "36.04.100",
+    "name": "Majasari",
+    "alias": "Majasari"
+  },
+  {
+    "code": "36.04.100.007",
+    "villageCode": "007",
+    "districtCode": "36.04.100",
+    "name": "Parakan",
+    "alias": "Parakan"
+  },
+  {
+    "code": "36.04.100.008",
+    "villageCode": "008",
+    "districtCode": "36.04.100",
+    "name": "Kareo",
+    "alias": "Kareo"
+  },
+  {
+    "code": "36.04.100.009",
+    "villageCode": "009",
+    "districtCode": "36.04.100",
+    "name": "Junti",
+    "alias": "Junti"
+  }
+]

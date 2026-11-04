@@ -1,0 +1,51 @@
+[
+  {
+    "code": "76.02.043.002",
+    "villageCode": "002",
+    "districtCode": "76.02.043",
+    "name": "Patampanua",
+    "alias": "Patampanua"
+  },
+  {
+    "code": "76.02.043.003",
+    "villageCode": "003",
+    "districtCode": "76.02.043",
+    "name": "Matakali",
+    "alias": "Matakali"
+  },
+  {
+    "code": "76.02.043.004",
+    "villageCode": "004",
+    "districtCode": "76.02.043",
+    "name": "Tonro Lima",
+    "alias": "Tonro Lima"
+  },
+  {
+    "code": "76.02.043.005",
+    "villageCode": "005",
+    "districtCode": "76.02.043",
+    "name": "Indumakkombong",
+    "alias": "Indumakkombong"
+  },
+  {
+    "code": "76.02.043.006",
+    "villageCode": "006",
+    "districtCode": "76.02.043",
+    "name": "Barumbung",
+    "alias": "Barumbung"
+  },
+  {
+    "code": "76.02.043.007",
+    "villageCode": "007",
+    "districtCode": "76.02.043",
+    "name": "Pasiang",
+    "alias": "Pasiang"
+  },
+  {
+    "code": "76.02.043.008",
+    "villageCode": "008",
+    "districtCode": "76.02.043",
+    "name": "Bunga Bunga",
+    "alias": "Bunga Bunga"
+  }
+]

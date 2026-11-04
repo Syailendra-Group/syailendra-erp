@@ -1,0 +1,37 @@
+[
+  {
+    "code": "33.71.020.004",
+    "villageCode": "004",
+    "districtCode": "33.71.020",
+    "name": "Wates",
+    "alias": "Wates"
+  },
+  {
+    "code": "33.71.020.005",
+    "villageCode": "005",
+    "districtCode": "33.71.020",
+    "name": "Potrobangsan",
+    "alias": "Potrobangsan"
+  },
+  {
+    "code": "33.71.020.006",
+    "villageCode": "006",
+    "districtCode": "33.71.020",
+    "name": "Kedungsari",
+    "alias": "Kedungsari"
+  },
+  {
+    "code": "33.71.020.008",
+    "villageCode": "008",
+    "districtCode": "33.71.020",
+    "name": "Kramat Utara",
+    "alias": "Kramat Utara"
+  },
+  {
+    "code": "33.71.020.009",
+    "villageCode": "009",
+    "districtCode": "33.71.020",
+    "name": "Kramat Selatan",
+    "alias": "Kramat Selatan"
+  }
+]

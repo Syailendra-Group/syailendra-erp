@@ -1,0 +1,65 @@
+[
+  {
+    "code": "74.03.101.010",
+    "villageCode": "010",
+    "districtCode": "74.03.101",
+    "name": "Pebunooha Dalam",
+    "alias": "Pebunooha Dalam"
+  },
+  {
+    "code": "74.03.101.011",
+    "villageCode": "011",
+    "districtCode": "74.03.101",
+    "name": "Pebunooha",
+    "alias": "Pebunooha"
+  },
+  {
+    "code": "74.03.101.012",
+    "villageCode": "012",
+    "districtCode": "74.03.101",
+    "name": "Rumbia",
+    "alias": "Rumbia"
+  },
+  {
+    "code": "74.03.101.013",
+    "villageCode": "013",
+    "districtCode": "74.03.101",
+    "name": "Diolo",
+    "alias": "Diolo"
+  },
+  {
+    "code": "74.03.101.014",
+    "villageCode": "014",
+    "districtCode": "74.03.101",
+    "name": "Laosu",
+    "alias": "Laosu"
+  },
+  {
+    "code": "74.03.101.015",
+    "villageCode": "015",
+    "districtCode": "74.03.101",
+    "name": "Lalonggaluku",
+    "alias": "Lalonggaluku"
+  },
+  {
+    "code": "74.03.101.026",
+    "villageCode": "026",
+    "districtCode": "74.03.101",
+    "name": "Rambu Kongga",
+    "alias": "Rambu Kongga"
+  },
+  {
+    "code": "74.03.101.027",
+    "villageCode": "027",
+    "districtCode": "74.03.101",
+    "name": "Laosu Jaya",
+    "alias": "Laosu Jaya"
+  },
+  {
+    "code": "74.03.101.028",
+    "villageCode": "028",
+    "districtCode": "74.03.101",
+    "name": "Lalonggaluku Timur",
+    "alias": "Lalonggaluku Timur"
+  }
+]

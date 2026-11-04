@@ -1,0 +1,44 @@
+[
+  {
+    "code": "96.04.010.001",
+    "villageCode": "001",
+    "districtCode": "96.04.010",
+    "name": "Lokodimi",
+    "alias": "Lokodimi"
+  },
+  {
+    "code": "96.04.010.002",
+    "villageCode": "002",
+    "districtCode": "96.04.010",
+    "name": "Kunupi",
+    "alias": "Kunupi"
+  },
+  {
+    "code": "96.04.010.003",
+    "villageCode": "003",
+    "districtCode": "96.04.010",
+    "name": "Dadidapa",
+    "alias": "Dadidapa"
+  },
+  {
+    "code": "96.04.010.004",
+    "villageCode": "004",
+    "districtCode": "96.04.010",
+    "name": "Ogiyai",
+    "alias": "Ogiyai"
+  },
+  {
+    "code": "96.04.010.005",
+    "villageCode": "005",
+    "districtCode": "96.04.010",
+    "name": "Yegeugi",
+    "alias": "Yegeugi"
+  },
+  {
+    "code": "96.04.010.006",
+    "villageCode": "006",
+    "districtCode": "96.04.010",
+    "name": "Epou",
+    "alias": "Epou"
+  }
+]

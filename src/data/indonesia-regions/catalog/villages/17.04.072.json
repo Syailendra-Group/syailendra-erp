@@ -1,0 +1,65 @@
+[
+  {
+    "code": "17.04.072.001",
+    "villageCode": "001",
+    "districtCode": "17.04.072",
+    "name": "Datar Lebar I",
+    "alias": "Datar Lebar I"
+  },
+  {
+    "code": "17.04.072.002",
+    "villageCode": "002",
+    "districtCode": "17.04.072",
+    "name": "Tanjung Bunian",
+    "alias": "Tanjung Bunian"
+  },
+  {
+    "code": "17.04.072.003",
+    "villageCode": "003",
+    "districtCode": "17.04.072",
+    "name": "Sinar Bulan",
+    "alias": "Sinar Bulan"
+  },
+  {
+    "code": "17.04.072.004",
+    "villageCode": "004",
+    "districtCode": "17.04.072",
+    "name": "Suka Nanti",
+    "alias": "Suka Nanti"
+  },
+  {
+    "code": "17.04.072.005",
+    "villageCode": "005",
+    "districtCode": "17.04.072",
+    "name": "Lawang Agung",
+    "alias": "Lawang Agung"
+  },
+  {
+    "code": "17.04.072.006",
+    "villageCode": "006",
+    "districtCode": "17.04.072",
+    "name": "Tanjung Kurung",
+    "alias": "Tanjung Kurung"
+  },
+  {
+    "code": "17.04.072.007",
+    "villageCode": "007",
+    "districtCode": "17.04.072",
+    "name": "Senak",
+    "alias": "Senak"
+  },
+  {
+    "code": "17.04.072.009",
+    "villageCode": "009",
+    "districtCode": "17.04.072",
+    "name": "Datar Lebar Ii",
+    "alias": "Datar Lebar Ii"
+  },
+  {
+    "code": "17.04.072.010",
+    "villageCode": "010",
+    "districtCode": "17.04.072",
+    "name": "Aur Gading",
+    "alias": "Aur Gading"
+  }
+]

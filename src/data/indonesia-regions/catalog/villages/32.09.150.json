@@ -1,0 +1,65 @@
+[
+  {
+    "code": "32.09.150.005",
+    "villageCode": "005",
+    "districtCode": "32.09.150",
+    "name": "Karangsari",
+    "alias": "Karangsari"
+  },
+  {
+    "code": "32.09.150.006",
+    "villageCode": "006",
+    "districtCode": "32.09.150",
+    "name": "Kertasari",
+    "alias": "Kertasari"
+  },
+  {
+    "code": "32.09.150.007",
+    "villageCode": "007",
+    "districtCode": "32.09.150",
+    "name": "Megu Cilik",
+    "alias": "Megu Cilik"
+  },
+  {
+    "code": "32.09.150.008",
+    "villageCode": "008",
+    "districtCode": "32.09.150",
+    "name": "Megu Gede",
+    "alias": "Megu Gede"
+  },
+  {
+    "code": "32.09.150.009",
+    "villageCode": "009",
+    "districtCode": "32.09.150",
+    "name": "Setu Wetan",
+    "alias": "Setu Wetan"
+  },
+  {
+    "code": "32.09.150.010",
+    "villageCode": "010",
+    "districtCode": "32.09.150",
+    "name": "Weru Kidul",
+    "alias": "Weru Kidul"
+  },
+  {
+    "code": "32.09.150.011",
+    "villageCode": "011",
+    "districtCode": "32.09.150",
+    "name": "Setu Kulon",
+    "alias": "Setu Kulon"
+  },
+  {
+    "code": "32.09.150.012",
+    "villageCode": "012",
+    "districtCode": "32.09.150",
+    "name": "Tegalwangi",
+    "alias": "Tegalwangi"
+  },
+  {
+    "code": "32.09.150.015",
+    "villageCode": "015",
+    "districtCode": "32.09.150",
+    "name": "Weru Lor",
+    "alias": "Weru Lor"
+  }
+]

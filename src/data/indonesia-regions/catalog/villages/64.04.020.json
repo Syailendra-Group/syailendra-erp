@@ -1,0 +1,72 @@
+[
+  {
+    "code": "64.04.020.001",
+    "villageCode": "001",
+    "districtCode": "64.04.020",
+    "name": "Benhes",
+    "alias": "Benhes"
+  },
+  {
+    "code": "64.04.020.002",
+    "villageCode": "002",
+    "districtCode": "64.04.020",
+    "name": "Diaq Lay",
+    "alias": "Diaq Lay"
+  },
+  {
+    "code": "64.04.020.003",
+    "villageCode": "003",
+    "districtCode": "64.04.020",
+    "name": "Dabeq",
+    "alias": "Dabeq"
+  },
+  {
+    "code": "64.04.020.004",
+    "villageCode": "004",
+    "districtCode": "64.04.020",
+    "name": "Jak Luay",
+    "alias": "Jak Luay"
+  },
+  {
+    "code": "64.04.020.005",
+    "villageCode": "005",
+    "districtCode": "64.04.020",
+    "name": "Muara Wahau",
+    "alias": "Muara Wahau"
+  },
+  {
+    "code": "64.04.020.006",
+    "villageCode": "006",
+    "districtCode": "64.04.020",
+    "name": "Nehesliah Bing",
+    "alias": "Nehesliah Bing"
+  },
+  {
+    "code": "64.04.020.007",
+    "villageCode": "007",
+    "districtCode": "64.04.020",
+    "name": "Karya Bakti",
+    "alias": "Karya Bakti"
+  },
+  {
+    "code": "64.04.020.008",
+    "villageCode": "008",
+    "districtCode": "64.04.020",
+    "name": "Wahau Baru",
+    "alias": "Wahau Baru"
+  },
+  {
+    "code": "64.04.020.009",
+    "villageCode": "009",
+    "districtCode": "64.04.020",
+    "name": "Wana Sari",
+    "alias": "Wana Sari"
+  },
+  {
+    "code": "64.04.020.010",
+    "villageCode": "010",
+    "districtCode": "64.04.020",
+    "name": "Long Wehea",
+    "alias": "Long Wehea"
+  }
+]

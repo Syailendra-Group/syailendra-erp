@@ -1,0 +1,66 @@
+[
+  {
+    "code": "51.07.010",
+    "districtCode": "010",
+    "regencyCode": "51.07",
+    "provinceCode": "51",
+    "name": "Kecamatan Rendang",
+    "alias": "Rendang"
+  },
+  {
+    "code": "51.07.020",
+    "districtCode": "020",
+    "regencyCode": "51.07",
+    "provinceCode": "51",
+    "name": "Kecamatan Sidemen",
+    "alias": "Sidemen"
+  },
+  {
+    "code": "51.07.030",
+    "districtCode": "030",
+    "regencyCode": "51.07",
+    "provinceCode": "51",
+    "name": "Kecamatan Manggis",
+    "alias": "Manggis"
+  },
+  {
+    "code": "51.07.040",
+    "districtCode": "040",
+    "regencyCode": "51.07",
+    "provinceCode": "51",
+    "name": "Kecamatan Karangasem",
+    "alias": "Karangasem"
+  },
+  {
+    "code": "51.07.050",
+    "districtCode": "050",
+    "regencyCode": "51.07",
+    "provinceCode": "51",
+    "name": "Kecamatan Abang",
+    "alias": "Abang"
+  },
+  {
+    "code": "51.07.060",
+    "districtCode": "060",
+    "regencyCode": "51.07",
+    "provinceCode": "51",
+    "name": "Kecamatan Bebandem",
+    "alias": "Bebandem"
+  },
+  {
+    "code": "51.07.070",
+    "districtCode": "070",
+    "regencyCode": "51.07",
+    "provinceCode": "51",
+    "name": "Kecamatan Selat",
+    "alias": "Selat"
+  },
+  {
+    "code": "51.07.080",
+    "districtCode": "080",
+    "regencyCode": "51.07",
+    "provinceCode": "51",
+    "name": "Kecamatan Kubu",
+    "alias": "Kubu"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "code": "32.16.081.001",
+    "villageCode": "001",
+    "districtCode": "32.16.081",
+    "name": "Jatimulya",
+    "alias": "Jatimulya"
+  },
+  {
+    "code": "32.16.081.002",
+    "villageCode": "002",
+    "districtCode": "32.16.081",
+    "name": "Lambangsari",
+    "alias": "Lambangsari"
+  },
+  {
+    "code": "32.16.081.003",
+    "villageCode": "003",
+    "districtCode": "32.16.081",
+    "name": "Lambangjaya",
+    "alias": "Lambangjaya"
+  },
+  {
+    "code": "32.16.081.004",
+    "villageCode": "004",
+    "districtCode": "32.16.081",
+    "name": "Tambun",
+    "alias": "Tambun"
+  },
+  {
+    "code": "32.16.081.005",
+    "villageCode": "005",
+    "districtCode": "32.16.081",
+    "name": "Setiadarma",
+    "alias": "Setiadarma"
+  },
+  {
+    "code": "32.16.081.006",
+    "villageCode": "006",
+    "districtCode": "32.16.081",
+    "name": "Setiamekar",
+    "alias": "Setiamekar"
+  },
+  {
+    "code": "32.16.081.007",
+    "villageCode": "007",
+    "districtCode": "32.16.081",
+    "name": "Mekarsari",
+    "alias": "Mekarsari"
+  },
+  {
+    "code": "32.16.081.008",
+    "villageCode": "008",
+    "districtCode": "32.16.081",
+    "name": "Tridayasakti",
+    "alias": "Tridayasakti"
+  },
+  {
+    "code": "32.16.081.009",
+    "villageCode": "009",
+    "districtCode": "32.16.081",
+    "name": "Mangunjaya",
+    "alias": "Mangunjaya"
+  },
+  {
+    "code": "32.16.081.010",
+    "villageCode": "010",
+    "districtCode": "32.16.081",
+    "name": "Sumberjaya",
+    "alias": "Sumberjaya"
+  }
+]

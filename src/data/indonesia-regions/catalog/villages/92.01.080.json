@@ -1,0 +1,44 @@
+[
+  {
+    "code": "92.01.080.001",
+    "villageCode": "001",
+    "districtCode": "92.01.080",
+    "name": "Kapatlap",
+    "alias": "Kapatlap"
+  },
+  {
+    "code": "92.01.080.002",
+    "villageCode": "002",
+    "districtCode": "92.01.080",
+    "name": "Waidim",
+    "alias": "Waidim"
+  },
+  {
+    "code": "92.01.080.003",
+    "villageCode": "003",
+    "districtCode": "92.01.080",
+    "name": "Samate",
+    "alias": "Samate"
+  },
+  {
+    "code": "92.01.080.004",
+    "villageCode": "004",
+    "districtCode": "92.01.080",
+    "name": "Wamega",
+    "alias": "Wamega"
+  },
+  {
+    "code": "92.01.080.005",
+    "villageCode": "005",
+    "districtCode": "92.01.080",
+    "name": "Jefman Barat",
+    "alias": "Jefman Barat"
+  },
+  {
+    "code": "92.01.080.006",
+    "villageCode": "006",
+    "districtCode": "92.01.080",
+    "name": "Jefman Timur",
+    "alias": "Jefman Timur"
+  }
+]

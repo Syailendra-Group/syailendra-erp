@@ -1,0 +1,100 @@
+[
+  {
+    "code": "35.20.130.001",
+    "villageCode": "001",
+    "districtCode": "35.20.130",
+    "name": "Banjarejo",
+    "alias": "Banjarejo"
+  },
+  {
+    "code": "35.20.130.002",
+    "villageCode": "002",
+    "districtCode": "35.20.130",
+    "name": "Purwodadi",
+    "alias": "Purwodadi"
+  },
+  {
+    "code": "35.20.130.003",
+    "villageCode": "003",
+    "districtCode": "35.20.130",
+    "name": "Karangsono",
+    "alias": "Karangsono"
+  },
+  {
+    "code": "35.20.130.004",
+    "villageCode": "004",
+    "districtCode": "35.20.130",
+    "name": "Bogorejo",
+    "alias": "Bogorejo"
+  },
+  {
+    "code": "35.20.130.005",
+    "villageCode": "005",
+    "districtCode": "35.20.130",
+    "name": "Tebon",
+    "alias": "Tebon"
+  },
+  {
+    "code": "35.20.130.006",
+    "villageCode": "006",
+    "districtCode": "35.20.130",
+    "name": "Manjung",
+    "alias": "Manjung"
+  },
+  {
+    "code": "35.20.130.007",
+    "villageCode": "007",
+    "districtCode": "35.20.130",
+    "name": "Panggung",
+    "alias": "Panggung"
+  },
+  {
+    "code": "35.20.130.008",
+    "villageCode": "008",
+    "districtCode": "35.20.130",
+    "name": "Klagen",
+    "alias": "Klagen"
+  },
+  {
+    "code": "35.20.130.013",
+    "villageCode": "013",
+    "districtCode": "35.20.130",
+    "name": "Ngumpul",
+    "alias": "Ngumpul"
+  },
+  {
+    "code": "35.20.130.014",
+    "villageCode": "014",
+    "districtCode": "35.20.130",
+    "name": "Bangunasri",
+    "alias": "Bangunasri"
+  },
+  {
+    "code": "35.20.130.015",
+    "villageCode": "015",
+    "districtCode": "35.20.130",
+    "name": "Blaran",
+    "alias": "Blaran"
+  },
+  {
+    "code": "35.20.130.016",
+    "villageCode": "016",
+    "districtCode": "35.20.130",
+    "name": "Mangge",
+    "alias": "Mangge"
+  },
+  {
+    "code": "35.20.130.017",
+    "villageCode": "017",
+    "districtCode": "35.20.130",
+    "name": "Jonggrang",
+    "alias": "Jonggrang"
+  },
+  {
+    "code": "35.20.130.023",
+    "villageCode": "023",
+    "districtCode": "35.20.130",
+    "name": "Rejomulyo",
+    "alias": "Rejomulyo"
+  }
+]

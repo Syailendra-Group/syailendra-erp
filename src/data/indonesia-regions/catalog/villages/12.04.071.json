@@ -1,0 +1,65 @@
+[
+  {
+    "code": "12.04.071.001",
+    "villageCode": "001",
+    "districtCode": "12.04.071",
+    "name": "Barambang",
+    "alias": "Barambang"
+  },
+  {
+    "code": "12.04.071.002",
+    "villageCode": "002",
+    "districtCode": "12.04.071",
+    "name": "Sosor Gadong",
+    "alias": "Sosor Gadong"
+  },
+  {
+    "code": "12.04.071.003",
+    "villageCode": "003",
+    "districtCode": "12.04.071",
+    "name": "Siantar Ca",
+    "alias": "Siantar Ca"
+  },
+  {
+    "code": "12.04.071.004",
+    "villageCode": "004",
+    "districtCode": "12.04.071",
+    "name": "Muara Bolak",
+    "alias": "Muara Bolak"
+  },
+  {
+    "code": "12.04.071.005",
+    "villageCode": "005",
+    "districtCode": "12.04.071",
+    "name": "Siantar Dolok",
+    "alias": "Siantar Dolok"
+  },
+  {
+    "code": "12.04.071.006",
+    "villageCode": "006",
+    "districtCode": "12.04.071",
+    "name": "Baringin",
+    "alias": "Baringin"
+  },
+  {
+    "code": "12.04.071.007",
+    "villageCode": "007",
+    "districtCode": "12.04.071",
+    "name": "Huta Tombak",
+    "alias": "Huta Tombak"
+  },
+  {
+    "code": "12.04.071.008",
+    "villageCode": "008",
+    "districtCode": "12.04.071",
+    "name": "Sibintang",
+    "alias": "Sibintang"
+  },
+  {
+    "code": "12.04.071.009",
+    "villageCode": "009",
+    "districtCode": "12.04.071",
+    "name": "Unte Boang",
+    "alias": "Unte Boang"
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "code": "65.04.010",
+    "districtCode": "010",
+    "regencyCode": "65.04",
+    "provinceCode": "65",
+    "name": "Kecamatan Krayan Selatan",
+    "alias": "Krayan Selatan"
+  },
+  {
+    "code": "65.04.011",
+    "districtCode": "011",
+    "regencyCode": "65.04",
+    "provinceCode": "65",
+    "name": "Kecamatan Krayan Tengah",
+    "alias": "Krayan Tengah"
+  },
+  {
+    "code": "65.04.020",
+    "districtCode": "020",
+    "regencyCode": "65.04",
+    "provinceCode": "65",
+    "name": "Kecamatan Krayan",
+    "alias": "Krayan"
+  },
+  {
+    "code": "65.04.021",
+    "districtCode": "021",
+    "regencyCode": "65.04",
+    "provinceCode": "65",
+    "name": "Kecamatan Krayan Timur",
+    "alias": "Krayan Timur"
+  },
+  {
+    "code": "65.04.022",
+    "districtCode": "022",
+    "regencyCode": "65.04",
+    "provinceCode": "65",
+    "name": "Kecamatan Krayan Barat",
+    "alias": "Krayan Barat"
+  },
+  {
+    "code": "65.04.030",
+    "districtCode": "030",
+    "regencyCode": "65.04",
+    "provinceCode": "65",
+    "name": "Kecamatan Lumbis Ogong",
+    "alias": "Lumbis Ogong"
+  },
+  {
+    "code": "65.04.031",
+    "districtCode": "031",
+    "regencyCode": "65.04",
+    "provinceCode": "65",
+    "name": "Kecamatan Lumbis Pansiangan",
+    "alias": "Lumbis Pansiangan"
+  },
+  {
+    "code": "65.04.032",
+    "districtCode": "032",
+    "regencyCode": "65.04",
+    "provinceCode": "65",
+    "name": "Kecamatan Lumbis Hulu",
+    "alias": "Lumbis Hulu"
+  },
+  {
+    "code": "65.04.040",
+    "districtCode": "040",
+    "regencyCode": "65.04",
+    "provinceCode": "65",
+    "name": "Kecamatan Lumbis",
+    "alias": "Lumbis"
+  },
+  {
+    "code": "65.04.050",
+    "districtCode": "050",
+    "regencyCode": "65.04",
+    "provinceCode": "65",
+    "name": "Kecamatan Sembakung Atulai",
+    "alias": "Sembakung Atulai"
+  },
+  {
+    "code": "65.04.060",
+    "districtCode": "060",
+    "regencyCode": "65.04",
+    "provinceCode": "65",
+    "name": "Kecamatan Sembakung",
+    "alias": "Sembakung"
+  },
+  {
+    "code": "65.04.070",
+    "districtCode": "070",
+    "regencyCode": "65.04",
+    "provinceCode": "65",
+    "name": "Kecamatan Sebuku",
+    "alias": "Sebuku"
+  },
+  {
+    "code": "65.04.080",
+    "districtCode": "080",
+    "regencyCode": "65.04",
+    "provinceCode": "65",
+    "name": "Kecamatan Tulin Onsoi",
+    "alias": "Tulin Onsoi"
+  },
+  {
+    "code": "65.04.090",
+    "districtCode": "090",
+    "regencyCode": "65.04",
+    "provinceCode": "65",
+    "name": "Kecamatan Sei Menggaris",
+    "alias": "Sei Menggaris"
+  },
+  {
+    "code": "65.04.100",
+    "districtCode": "100",
+    "regencyCode": "65.04",
+    "provinceCode": "65",
+    "name": "Kecamatan Nunukan",
+    "alias": "Nunukan"
+  },
+  {
+    "code": "65.04.110",
+    "districtCode": "110",
+    "regencyCode": "65.04",
+    "provinceCode": "65",
+    "name": "Kecamatan Nunukan Selatan",
+    "alias": "Nunukan Selatan"
+  },
+  {
+    "code": "65.04.120",
+    "districtCode": "120",
+    "regencyCode": "65.04",
+    "provinceCode": "65",
+    "name": "Kecamatan Sebatik Barat",
+    "alias": "Sebatik Barat"
+  },
+  {
+    "code": "65.04.130",
+    "districtCode": "130",
+    "regencyCode": "65.04",
+    "provinceCode": "65",
+    "name": "Kecamatan Sebatik",
+    "alias": "Sebatik"
+  },
+  {
+    "code": "65.04.140",
+    "districtCode": "140",
+    "regencyCode": "65.04",
+    "provinceCode": "65",
+    "name": "Kecamatan Sebatik Timur",
+    "alias": "Sebatik Timur"
+  },
+  {
+    "code": "65.04.150",
+    "districtCode": "150",
+    "regencyCode": "65.04",
+    "provinceCode": "65",
+    "name": "Kecamatan Sebatik Tengah",
+    "alias": "Sebatik Tengah"
+  },
+  {
+    "code": "65.04.160",
+    "districtCode": "160",
+    "regencyCode": "65.04",
+    "provinceCode": "65",
+    "name": "Kecamatan Sebatik Utara",
+    "alias": "Sebatik Utara"
+  }
+]

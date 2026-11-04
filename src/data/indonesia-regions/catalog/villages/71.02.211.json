@@ -1,0 +1,72 @@
+[
+  {
+    "code": "71.02.211.001",
+    "villageCode": "001",
+    "districtCode": "71.02.211",
+    "name": "Bukittinggi",
+    "alias": "Bukittinggi"
+  },
+  {
+    "code": "71.02.211.002",
+    "villageCode": "002",
+    "districtCode": "71.02.211",
+    "name": "Wailang",
+    "alias": "Wailang"
+  },
+  {
+    "code": "71.02.211.003",
+    "villageCode": "003",
+    "districtCode": "71.02.211",
+    "name": "Simbel",
+    "alias": "Simbel"
+  },
+  {
+    "code": "71.02.211.004",
+    "villageCode": "004",
+    "districtCode": "71.02.211",
+    "name": "Touliang",
+    "alias": "Touliang"
+  },
+  {
+    "code": "71.02.211.005",
+    "villageCode": "005",
+    "districtCode": "71.02.211",
+    "name": "Wasian",
+    "alias": "Wasian"
+  },
+  {
+    "code": "71.02.211.006",
+    "villageCode": "006",
+    "districtCode": "71.02.211",
+    "name": "Kalawiran",
+    "alias": "Kalawiran"
+  },
+  {
+    "code": "71.02.211.007",
+    "villageCode": "007",
+    "districtCode": "71.02.211",
+    "name": "Panasen",
+    "alias": "Panasen"
+  },
+  {
+    "code": "71.02.211.008",
+    "villageCode": "008",
+    "districtCode": "71.02.211",
+    "name": "Totolan",
+    "alias": "Totolan"
+  },
+  {
+    "code": "71.02.211.009",
+    "villageCode": "009",
+    "districtCode": "71.02.211",
+    "name": "Tountimomor",
+    "alias": "Tountimomor"
+  },
+  {
+    "code": "71.02.211.010",
+    "villageCode": "010",
+    "districtCode": "71.02.211",
+    "name": "Passo",
+    "alias": "Passo"
+  }
+]

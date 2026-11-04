@@ -1,0 +1,58 @@
+[
+  {
+    "code": "75.01.052.001",
+    "villageCode": "001",
+    "districtCode": "75.01.052",
+    "name": "Limbatihu",
+    "alias": "Limbatihu"
+  },
+  {
+    "code": "75.01.052.002",
+    "villageCode": "002",
+    "districtCode": "75.01.052",
+    "name": "Bubaa",
+    "alias": "Bubaa"
+  },
+  {
+    "code": "75.01.052.003",
+    "villageCode": "003",
+    "districtCode": "75.01.052",
+    "name": "Lito",
+    "alias": "Lito"
+  },
+  {
+    "code": "75.01.052.004",
+    "villageCode": "004",
+    "districtCode": "75.01.052",
+    "name": "Bukit Karya",
+    "alias": "Bukit Karya"
+  },
+  {
+    "code": "75.01.052.005",
+    "villageCode": "005",
+    "districtCode": "75.01.052",
+    "name": "Apitalawu",
+    "alias": "Apitalawu"
+  },
+  {
+    "code": "75.01.052.006",
+    "villageCode": "006",
+    "districtCode": "75.01.052",
+    "name": "Olibu",
+    "alias": "Olibu"
+  },
+  {
+    "code": "75.01.052.007",
+    "villageCode": "007",
+    "districtCode": "75.01.052",
+    "name": "Towayu",
+    "alias": "Towayu"
+  },
+  {
+    "code": "75.01.052.008",
+    "villageCode": "008",
+    "districtCode": "75.01.052",
+    "name": "Bangga",
+    "alias": "Bangga"
+  }
+]

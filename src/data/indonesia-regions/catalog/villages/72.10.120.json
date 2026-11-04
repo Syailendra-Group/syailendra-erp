@@ -1,0 +1,72 @@
+[
+  {
+    "code": "72.10.120.001",
+    "villageCode": "001",
+    "districtCode": "72.10.120",
+    "name": "Sidondo Ii",
+    "alias": "Sidondo Ii"
+  },
+  {
+    "code": "72.10.120.002",
+    "villageCode": "002",
+    "districtCode": "72.10.120",
+    "name": "Sidondo I",
+    "alias": "Sidondo I"
+  },
+  {
+    "code": "72.10.120.009",
+    "villageCode": "009",
+    "districtCode": "72.10.120",
+    "name": "Jono Oge",
+    "alias": "Jono Oge"
+  },
+  {
+    "code": "72.10.120.010",
+    "villageCode": "010",
+    "districtCode": "72.10.120",
+    "name": "Pombewe",
+    "alias": "Pombewe"
+  },
+  {
+    "code": "72.10.120.011",
+    "villageCode": "011",
+    "districtCode": "72.10.120",
+    "name": "Lolu",
+    "alias": "Lolu"
+  },
+  {
+    "code": "72.10.120.012",
+    "villageCode": "012",
+    "districtCode": "72.10.120",
+    "name": "Kalukubula",
+    "alias": "Kalukubula"
+  },
+  {
+    "code": "72.10.120.013",
+    "villageCode": "013",
+    "districtCode": "72.10.120",
+    "name": "Mpanau",
+    "alias": "Mpanau"
+  },
+  {
+    "code": "72.10.120.014",
+    "villageCode": "014",
+    "districtCode": "72.10.120",
+    "name": "Loru",
+    "alias": "Loru"
+  },
+  {
+    "code": "72.10.120.015",
+    "villageCode": "015",
+    "districtCode": "72.10.120",
+    "name": "Ngatabaru",
+    "alias": "Ngatabaru"
+  },
+  {
+    "code": "72.10.120.016",
+    "villageCode": "016",
+    "districtCode": "72.10.120",
+    "name": "Sidondo Iii",
+    "alias": "Sidondo Iii"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "code": "32.73.060.001",
+    "villageCode": "001",
+    "districtCode": "32.73.060",
+    "name": "Ciseureuh",
+    "alias": "Ciseureuh"
+  },
+  {
+    "code": "32.73.060.002",
+    "villageCode": "002",
+    "districtCode": "32.73.060",
+    "name": "Pasirluyu",
+    "alias": "Pasirluyu"
+  },
+  {
+    "code": "32.73.060.003",
+    "villageCode": "003",
+    "districtCode": "32.73.060",
+    "name": "Ancol",
+    "alias": "Ancol"
+  },
+  {
+    "code": "32.73.060.004",
+    "villageCode": "004",
+    "districtCode": "32.73.060",
+    "name": "Cigereleng",
+    "alias": "Cigereleng"
+  },
+  {
+    "code": "32.73.060.005",
+    "villageCode": "005",
+    "districtCode": "32.73.060",
+    "name": "Ciateul",
+    "alias": "Ciateul"
+  },
+  {
+    "code": "32.73.060.006",
+    "villageCode": "006",
+    "districtCode": "32.73.060",
+    "name": "Pungkur",
+    "alias": "Pungkur"
+  },
+  {
+    "code": "32.73.060.007",
+    "villageCode": "007",
+    "districtCode": "32.73.060",
+    "name": "Balong Gede",
+    "alias": "Balong Gede"
+  }
+]

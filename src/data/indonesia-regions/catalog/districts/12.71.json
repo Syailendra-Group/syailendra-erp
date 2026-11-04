@@ -1,0 +1,34 @@
+[
+  {
+    "code": "12.71.010",
+    "districtCode": "010",
+    "regencyCode": "12.71",
+    "provinceCode": "12",
+    "name": "Kecamatan Sibolga Utara",
+    "alias": "Sibolga Utara"
+  },
+  {
+    "code": "12.71.020",
+    "districtCode": "020",
+    "regencyCode": "12.71",
+    "provinceCode": "12",
+    "name": "Kecamatan Sibolga Kota",
+    "alias": "Sibolga Kota"
+  },
+  {
+    "code": "12.71.030",
+    "districtCode": "030",
+    "regencyCode": "12.71",
+    "provinceCode": "12",
+    "name": "Kecamatan Sibolga Selatan",
+    "alias": "Sibolga Selatan"
+  },
+  {
+    "code": "12.71.031",
+    "districtCode": "031",
+    "regencyCode": "12.71",
+    "provinceCode": "12",
+    "name": "Kecamatan Sibolga Sambas",
+    "alias": "Sibolga Sambas"
+  }
+]

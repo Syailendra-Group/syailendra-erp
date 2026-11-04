@@ -1,0 +1,58 @@
+[
+  {
+    "code": "35.02.200.001",
+    "villageCode": "001",
+    "districtCode": "35.02.200",
+    "name": "Ngrogung",
+    "alias": "Ngrogung"
+  },
+  {
+    "code": "35.02.200.002",
+    "villageCode": "002",
+    "districtCode": "35.02.200",
+    "name": "Sahang",
+    "alias": "Sahang"
+  },
+  {
+    "code": "35.02.200.003",
+    "villageCode": "003",
+    "districtCode": "35.02.200",
+    "name": "Wagirlor",
+    "alias": "Wagirlor"
+  },
+  {
+    "code": "35.02.200.004",
+    "villageCode": "004",
+    "districtCode": "35.02.200",
+    "name": "Talun",
+    "alias": "Talun"
+  },
+  {
+    "code": "35.02.200.005",
+    "villageCode": "005",
+    "districtCode": "35.02.200",
+    "name": "Gondowido",
+    "alias": "Gondowido"
+  },
+  {
+    "code": "35.02.200.006",
+    "villageCode": "006",
+    "districtCode": "35.02.200",
+    "name": "Pupus",
+    "alias": "Pupus"
+  },
+  {
+    "code": "35.02.200.007",
+    "villageCode": "007",
+    "districtCode": "35.02.200",
+    "name": "Ngebel",
+    "alias": "Ngebel"
+  },
+  {
+    "code": "35.02.200.008",
+    "villageCode": "008",
+    "districtCode": "35.02.200",
+    "name": "Sempu",
+    "alias": "Sempu"
+  }
+]

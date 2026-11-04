@@ -1,0 +1,37 @@
+[
+  {
+    "code": "32.04.011.001",
+    "villageCode": "001",
+    "districtCode": "32.04.011",
+    "name": "Cipelah",
+    "alias": "Cipelah"
+  },
+  {
+    "code": "32.04.011.002",
+    "villageCode": "002",
+    "districtCode": "32.04.011",
+    "name": "Sukaresmi",
+    "alias": "Sukaresmi"
+  },
+  {
+    "code": "32.04.011.003",
+    "villageCode": "003",
+    "districtCode": "32.04.011",
+    "name": "Indragiri",
+    "alias": "Indragiri"
+  },
+  {
+    "code": "32.04.011.004",
+    "villageCode": "004",
+    "districtCode": "32.04.011",
+    "name": "Patengan",
+    "alias": "Patengan"
+  },
+  {
+    "code": "32.04.011.005",
+    "villageCode": "005",
+    "districtCode": "32.04.011",
+    "name": "Alamendah",
+    "alias": "Alamendah"
+  }
+]

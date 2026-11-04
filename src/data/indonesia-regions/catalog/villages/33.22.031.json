@@ -1,0 +1,79 @@
+[
+  {
+    "code": "33.22.031.001",
+    "villageCode": "001",
+    "districtCode": "33.22.031",
+    "name": "Siwal",
+    "alias": "Siwal"
+  },
+  {
+    "code": "33.22.031.002",
+    "villageCode": "002",
+    "districtCode": "33.22.031",
+    "name": "Pager",
+    "alias": "Pager"
+  },
+  {
+    "code": "33.22.031.003",
+    "villageCode": "003",
+    "districtCode": "33.22.031",
+    "name": "Udanwuh",
+    "alias": "Udanwuh"
+  },
+  {
+    "code": "33.22.031.004",
+    "villageCode": "004",
+    "districtCode": "33.22.031",
+    "name": "Kener",
+    "alias": "Kener"
+  },
+  {
+    "code": "33.22.031.005",
+    "villageCode": "005",
+    "districtCode": "33.22.031",
+    "name": "Papringan",
+    "alias": "Papringan"
+  },
+  {
+    "code": "33.22.031.006",
+    "villageCode": "006",
+    "districtCode": "33.22.031",
+    "name": "Kradenan",
+    "alias": "Kradenan"
+  },
+  {
+    "code": "33.22.031.007",
+    "villageCode": "007",
+    "districtCode": "33.22.031",
+    "name": "Kaliwungu",
+    "alias": "Kaliwungu"
+  },
+  {
+    "code": "33.22.031.008",
+    "villageCode": "008",
+    "districtCode": "33.22.031",
+    "name": "Mukiran",
+    "alias": "Mukiran"
+  },
+  {
+    "code": "33.22.031.009",
+    "villageCode": "009",
+    "districtCode": "33.22.031",
+    "name": "Payungan",
+    "alias": "Payungan"
+  },
+  {
+    "code": "33.22.031.010",
+    "villageCode": "010",
+    "districtCode": "33.22.031",
+    "name": "Jetis",
+    "alias": "Jetis"
+  },
+  {
+    "code": "33.22.031.011",
+    "villageCode": "011",
+    "districtCode": "33.22.031",
+    "name": "Rogomulyo",
+    "alias": "Rogomulyo"
+  }
+]

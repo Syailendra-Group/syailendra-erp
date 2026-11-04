@@ -1,0 +1,178 @@
+[
+  {
+    "code": "33.09.010",
+    "districtCode": "010",
+    "regencyCode": "33.09",
+    "provinceCode": "33",
+    "name": "Kecamatan Selo",
+    "alias": "Selo"
+  },
+  {
+    "code": "33.09.020",
+    "districtCode": "020",
+    "regencyCode": "33.09",
+    "provinceCode": "33",
+    "name": "Kecamatan Ampel",
+    "alias": "Ampel"
+  },
+  {
+    "code": "33.09.021",
+    "districtCode": "021",
+    "regencyCode": "33.09",
+    "provinceCode": "33",
+    "name": "Kecamatan Gladagsari",
+    "alias": "Gladagsari"
+  },
+  {
+    "code": "33.09.030",
+    "districtCode": "030",
+    "regencyCode": "33.09",
+    "provinceCode": "33",
+    "name": "Kecamatan Cepogo",
+    "alias": "Cepogo"
+  },
+  {
+    "code": "33.09.040",
+    "districtCode": "040",
+    "regencyCode": "33.09",
+    "provinceCode": "33",
+    "name": "Kecamatan Musuk",
+    "alias": "Musuk"
+  },
+  {
+    "code": "33.09.041",
+    "districtCode": "041",
+    "regencyCode": "33.09",
+    "provinceCode": "33",
+    "name": "Kecamatan Tamansari",
+    "alias": "Tamansari"
+  },
+  {
+    "code": "33.09.050",
+    "districtCode": "050",
+    "regencyCode": "33.09",
+    "provinceCode": "33",
+    "name": "Kecamatan Boyolali",
+    "alias": "Boyolali"
+  },
+  {
+    "code": "33.09.060",
+    "districtCode": "060",
+    "regencyCode": "33.09",
+    "provinceCode": "33",
+    "name": "Kecamatan Mojosongo",
+    "alias": "Mojosongo"
+  },
+  {
+    "code": "33.09.070",
+    "districtCode": "070",
+    "regencyCode": "33.09",
+    "provinceCode": "33",
+    "name": "Kecamatan Teras",
+    "alias": "Teras"
+  },
+  {
+    "code": "33.09.080",
+    "districtCode": "080",
+    "regencyCode": "33.09",
+    "provinceCode": "33",
+    "name": "Kecamatan Sawit",
+    "alias": "Sawit"
+  },
+  {
+    "code": "33.09.090",
+    "districtCode": "090",
+    "regencyCode": "33.09",
+    "provinceCode": "33",
+    "name": "Kecamatan Banyudono",
+    "alias": "Banyudono"
+  },
+  {
+    "code": "33.09.100",
+    "districtCode": "100",
+    "regencyCode": "33.09",
+    "provinceCode": "33",
+    "name": "Kecamatan Sambi",
+    "alias": "Sambi"
+  },
+  {
+    "code": "33.09.110",
+    "districtCode": "110",
+    "regencyCode": "33.09",
+    "provinceCode": "33",
+    "name": "Kecamatan Ngemplak",
+    "alias": "Ngemplak"
+  },
+  {
+    "code": "33.09.120",
+    "districtCode": "120",
+    "regencyCode": "33.09",
+    "provinceCode": "33",
+    "name": "Kecamatan Nogosari",
+    "alias": "Nogosari"
+  },
+  {
+    "code": "33.09.130",
+    "districtCode": "130",
+    "regencyCode": "33.09",
+    "provinceCode": "33",
+    "name": "Kecamatan Simo",
+    "alias": "Simo"
+  },
+  {
+    "code": "33.09.140",
+    "districtCode": "140",
+    "regencyCode": "33.09",
+    "provinceCode": "33",
+    "name": "Kecamatan Karanggede",
+    "alias": "Karanggede"
+  },
+  {
+    "code": "33.09.150",
+    "districtCode": "150",
+    "regencyCode": "33.09",
+    "provinceCode": "33",
+    "name": "Kecamatan Klego",
+    "alias": "Klego"
+  },
+  {
+    "code": "33.09.160",
+    "districtCode": "160",
+    "regencyCode": "33.09",
+    "provinceCode": "33",
+    "name": "Kecamatan Andong",
+    "alias": "Andong"
+  },
+  {
+    "code": "33.09.170",
+    "districtCode": "170",
+    "regencyCode": "33.09",
+    "provinceCode": "33",
+    "name": "Kecamatan Kemusu",
+    "alias": "Kemusu"
+  },
+  {
+    "code": "33.09.180",
+    "districtCode": "180",
+    "regencyCode": "33.09",
+    "provinceCode": "33",
+    "name": "Kecamatan Wonosegoro",
+    "alias": "Wonosegoro"
+  },
+  {
+    "code": "33.09.181",
+    "districtCode": "181",
+    "regencyCode": "33.09",
+    "provinceCode": "33",
+    "name": "Kecamatan Wonosamodro",
+    "alias": "Wonosamodro"
+  },
+  {
+    "code": "33.09.190",
+    "districtCode": "190",
+    "regencyCode": "33.09",
+    "provinceCode": "33",
+    "name": "Kecamatan Juwangi",
+    "alias": "Juwangi"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "code": "76.02.010.001",
+    "villageCode": "001",
+    "districtCode": "76.02.010",
+    "name": "Tandung",
+    "alias": "Tandung"
+  },
+  {
+    "code": "76.02.010.002",
+    "villageCode": "002",
+    "districtCode": "76.02.010",
+    "name": "Sepa Batu",
+    "alias": "Sepa Batu"
+  },
+  {
+    "code": "76.02.010.003",
+    "villageCode": "003",
+    "districtCode": "76.02.010",
+    "name": "Tangnga-Tangnga",
+    "alias": "Tangnga-Tangnga"
+  },
+  {
+    "code": "76.02.010.004",
+    "villageCode": "004",
+    "districtCode": "76.02.010",
+    "name": "Karama",
+    "alias": "Karama"
+  },
+  {
+    "code": "76.02.010.014",
+    "villageCode": "014",
+    "districtCode": "76.02.010",
+    "name": "Batulaya",
+    "alias": "Batulaya"
+  },
+  {
+    "code": "76.02.010.018",
+    "villageCode": "018",
+    "districtCode": "76.02.010",
+    "name": "Tinambung",
+    "alias": "Tinambung"
+  },
+  {
+    "code": "76.02.010.019",
+    "villageCode": "019",
+    "districtCode": "76.02.010",
+    "name": "Lekopadis",
+    "alias": "Lekopadis"
+  },
+  {
+    "code": "76.02.010.021",
+    "villageCode": "021",
+    "districtCode": "76.02.010",
+    "name": "Galung Lombok",
+    "alias": "Galung Lombok"
+  }
+]

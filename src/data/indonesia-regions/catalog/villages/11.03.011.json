@@ -1,0 +1,58 @@
+[
+  {
+    "code": "11.03.011.001",
+    "villageCode": "001",
+    "districtCode": "11.03.011",
+    "name": "Titi Poben",
+    "alias": "Titi Poben"
+  },
+  {
+    "code": "11.03.011.002",
+    "villageCode": "002",
+    "districtCode": "11.03.011",
+    "name": "Alur Bujok",
+    "alias": "Alur Bujok"
+  },
+  {
+    "code": "11.03.011.003",
+    "villageCode": "003",
+    "districtCode": "11.03.011",
+    "name": "Seuneubok Puntho",
+    "alias": "Seuneubok Puntho"
+  },
+  {
+    "code": "11.03.011.008",
+    "villageCode": "008",
+    "districtCode": "11.03.011",
+    "name": "Pinto Rimba",
+    "alias": "Pinto Rimba"
+  },
+  {
+    "code": "11.03.011.009",
+    "villageCode": "009",
+    "districtCode": "11.03.011",
+    "name": "Krung Luas",
+    "alias": "Krung Luas"
+  },
+  {
+    "code": "11.03.011.010",
+    "villageCode": "010",
+    "districtCode": "11.03.011",
+    "name": "Jambo Dalem",
+    "alias": "Jambo Dalem"
+  },
+  {
+    "code": "11.03.011.011",
+    "villageCode": "011",
+    "districtCode": "11.03.011",
+    "name": "Kapai Seusak",
+    "alias": "Kapai Seusak"
+  },
+  {
+    "code": "11.03.011.012",
+    "villageCode": "012",
+    "districtCode": "11.03.011",
+    "name": "Upt I Snb Pusaka",
+    "alias": "Upt I Snb Pusaka"
+  }
+]

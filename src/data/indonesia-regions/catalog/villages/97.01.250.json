@@ -1,0 +1,44 @@
+[
+  {
+    "code": "97.01.250.001",
+    "villageCode": "001",
+    "districtCode": "97.01.250",
+    "name": "Otalama",
+    "alias": "Otalama"
+  },
+  {
+    "code": "97.01.250.002",
+    "villageCode": "002",
+    "districtCode": "97.01.250",
+    "name": "Mbua",
+    "alias": "Mbua"
+  },
+  {
+    "code": "97.01.250.003",
+    "villageCode": "003",
+    "districtCode": "97.01.250",
+    "name": "Arugia",
+    "alias": "Arugia"
+  },
+  {
+    "code": "97.01.250.004",
+    "villageCode": "004",
+    "districtCode": "97.01.250",
+    "name": "Opmu",
+    "alias": "Opmu"
+  },
+  {
+    "code": "97.01.250.005",
+    "villageCode": "005",
+    "districtCode": "97.01.250",
+    "name": "Digilimu",
+    "alias": "Digilimu"
+  },
+  {
+    "code": "97.01.250.006",
+    "villageCode": "006",
+    "districtCode": "97.01.250",
+    "name": "Kogomaru",
+    "alias": "Kogomaru"
+  }
+]

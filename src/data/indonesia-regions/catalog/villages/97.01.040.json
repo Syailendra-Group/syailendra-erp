@@ -1,0 +1,37 @@
+[
+  {
+    "code": "97.01.040.001",
+    "villageCode": "001",
+    "districtCode": "97.01.040",
+    "name": "Nanggoal",
+    "alias": "Nanggoal"
+  },
+  {
+    "code": "97.01.040.002",
+    "villageCode": "002",
+    "districtCode": "97.01.040",
+    "name": "Kora",
+    "alias": "Kora"
+  },
+  {
+    "code": "97.01.040.003",
+    "villageCode": "003",
+    "districtCode": "97.01.040",
+    "name": "Wenam",
+    "alias": "Wenam"
+  },
+  {
+    "code": "97.01.040.004",
+    "villageCode": "004",
+    "districtCode": "97.01.040",
+    "name": "Wilimi",
+    "alias": "Wilimi"
+  },
+  {
+    "code": "97.01.040.005",
+    "villageCode": "005",
+    "districtCode": "97.01.040",
+    "name": "Brutnai",
+    "alias": "Brutnai"
+  }
+]

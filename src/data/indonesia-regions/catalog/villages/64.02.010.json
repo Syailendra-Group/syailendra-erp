@@ -1,0 +1,114 @@
+[
+  {
+    "code": "64.02.010.001",
+    "villageCode": "001",
+    "districtCode": "64.02.010",
+    "name": "Gerunggung",
+    "alias": "Gerunggung"
+  },
+  {
+    "code": "64.02.010.002",
+    "villageCode": "002",
+    "districtCode": "64.02.010",
+    "name": "Tanjung Soke",
+    "alias": "Tanjung Soke"
+  },
+  {
+    "code": "64.02.010.003",
+    "villageCode": "003",
+    "districtCode": "64.02.010",
+    "name": "Pereng Talik",
+    "alias": "Pereng Talik"
+  },
+  {
+    "code": "64.02.010.004",
+    "villageCode": "004",
+    "districtCode": "64.02.010",
+    "name": "Deraya",
+    "alias": "Deraya"
+  },
+  {
+    "code": "64.02.010.005",
+    "villageCode": "005",
+    "districtCode": "64.02.010",
+    "name": "Lemper",
+    "alias": "Lemper"
+  },
+  {
+    "code": "64.02.010.006",
+    "villageCode": "006",
+    "districtCode": "64.02.010",
+    "name": "Muara Siram",
+    "alias": "Muara Siram"
+  },
+  {
+    "code": "64.02.010.007",
+    "villageCode": "007",
+    "districtCode": "64.02.010",
+    "name": "Siram Makmur",
+    "alias": "Siram Makmur"
+  },
+  {
+    "code": "64.02.010.008",
+    "villageCode": "008",
+    "districtCode": "64.02.010",
+    "name": "Siram Jaya",
+    "alias": "Siram Jaya"
+  },
+  {
+    "code": "64.02.010.009",
+    "villageCode": "009",
+    "districtCode": "64.02.010",
+    "name": "Resak",
+    "alias": "Resak"
+  },
+  {
+    "code": "64.02.010.010",
+    "villageCode": "010",
+    "districtCode": "64.02.010",
+    "name": "Tanjung Sari",
+    "alias": "Tanjung Sari"
+  },
+  {
+    "code": "64.02.010.011",
+    "villageCode": "011",
+    "districtCode": "64.02.010",
+    "name": "Jambuk Makmur",
+    "alias": "Jambuk Makmur"
+  },
+  {
+    "code": "64.02.010.012",
+    "villageCode": "012",
+    "districtCode": "64.02.010",
+    "name": "Bukit Harapan",
+    "alias": "Bukit Harapan"
+  },
+  {
+    "code": "64.02.010.013",
+    "villageCode": "013",
+    "districtCode": "64.02.010",
+    "name": "Jambuk",
+    "alias": "Jambuk"
+  },
+  {
+    "code": "64.02.010.014",
+    "villageCode": "014",
+    "districtCode": "64.02.010",
+    "name": "Muara Gusik",
+    "alias": "Muara Gusik"
+  },
+  {
+    "code": "64.02.010.015",
+    "villageCode": "015",
+    "districtCode": "64.02.010",
+    "name": "Penawai",
+    "alias": "Penawai"
+  },
+  {
+    "code": "64.02.010.016",
+    "villageCode": "016",
+    "districtCode": "64.02.010",
+    "name": "Muara Kedang",
+    "alias": "Muara Kedang"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "code": "53.04.102.001",
+    "villageCode": "001",
+    "districtCode": "53.04.102",
+    "name": "Op",
+    "alias": "Op"
+  },
+  {
+    "code": "53.04.102.002",
+    "villageCode": "002",
+    "districtCode": "53.04.102",
+    "name": "Saenam",
+    "alias": "Saenam"
+  },
+  {
+    "code": "53.04.102.003",
+    "villageCode": "003",
+    "districtCode": "53.04.102",
+    "name": "Sahan",
+    "alias": "Sahan"
+  },
+  {
+    "code": "53.04.102.004",
+    "villageCode": "004",
+    "districtCode": "53.04.102",
+    "name": "Nenoat",
+    "alias": "Nenoat"
+  },
+  {
+    "code": "53.04.102.005",
+    "villageCode": "005",
+    "districtCode": "53.04.102",
+    "name": "Nunkolo",
+    "alias": "Nunkolo"
+  },
+  {
+    "code": "53.04.102.006",
+    "villageCode": "006",
+    "districtCode": "53.04.102",
+    "name": "Hoineno",
+    "alias": "Hoineno"
+  },
+  {
+    "code": "53.04.102.007",
+    "villageCode": "007",
+    "districtCode": "53.04.102",
+    "name": "Fat",
+    "alias": "Fat"
+  },
+  {
+    "code": "53.04.102.008",
+    "villageCode": "008",
+    "districtCode": "53.04.102",
+    "name": "Putun",
+    "alias": "Putun"
+  },
+  {
+    "code": "53.04.102.009",
+    "villageCode": "009",
+    "districtCode": "53.04.102",
+    "name": "Haumeni",
+    "alias": "Haumeni"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "code": "74.15.070.001",
+    "villageCode": "001",
+    "districtCode": "74.15.070",
+    "name": "Waonu",
+    "alias": "Waonu"
+  },
+  {
+    "code": "74.15.070.002",
+    "villageCode": "002",
+    "districtCode": "74.15.070",
+    "name": "Kapoa",
+    "alias": "Kapoa"
+  },
+  {
+    "code": "74.15.070.003",
+    "villageCode": "003",
+    "districtCode": "74.15.070",
+    "name": "Kaofe",
+    "alias": "Kaofe"
+  },
+  {
+    "code": "74.15.070.004",
+    "villageCode": "004",
+    "districtCode": "74.15.070",
+    "name": "Uwemaasi",
+    "alias": "Uwemaasi"
+  },
+  {
+    "code": "74.15.070.005",
+    "villageCode": "005",
+    "districtCode": "74.15.070",
+    "name": "Lipu",
+    "alias": "Lipu"
+  },
+  {
+    "code": "74.15.070.006",
+    "villageCode": "006",
+    "districtCode": "74.15.070",
+    "name": "Banabungi",
+    "alias": "Banabungi"
+  },
+  {
+    "code": "74.15.070.007",
+    "villageCode": "007",
+    "districtCode": "74.15.070",
+    "name": "Kapoa Barat",
+    "alias": "Kapoa Barat"
+  },
+  {
+    "code": "74.15.070.008",
+    "villageCode": "008",
+    "districtCode": "74.15.070",
+    "name": "Mawambunga",
+    "alias": "Mawambunga"
+  },
+  {
+    "code": "74.15.070.009",
+    "villageCode": "009",
+    "districtCode": "74.15.070",
+    "name": "Marawali",
+    "alias": "Marawali"
+  },
+  {
+    "code": "74.15.070.010",
+    "villageCode": "010",
+    "districtCode": "74.15.070",
+    "name": "Banabungi Selatan",
+    "alias": "Banabungi Selatan"
+  }
+]

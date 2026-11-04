@@ -1,0 +1,107 @@
+[
+  {
+    "code": "52.03.080.001",
+    "villageCode": "001",
+    "districtCode": "52.03.080",
+    "name": "Bagik Papan",
+    "alias": "Bagik Papan"
+  },
+  {
+    "code": "52.03.080.002",
+    "villageCode": "002",
+    "districtCode": "52.03.080",
+    "name": "Apitaik",
+    "alias": "Apitaik"
+  },
+  {
+    "code": "52.03.080.003",
+    "villageCode": "003",
+    "districtCode": "52.03.080",
+    "name": "Kerumut",
+    "alias": "Kerumut"
+  },
+  {
+    "code": "52.03.080.004",
+    "villageCode": "004",
+    "districtCode": "52.03.080",
+    "name": "Pohgading",
+    "alias": "Pohgading"
+  },
+  {
+    "code": "52.03.080.005",
+    "villageCode": "005",
+    "districtCode": "52.03.080",
+    "name": "Batuyang",
+    "alias": "Batuyang"
+  },
+  {
+    "code": "52.03.080.006",
+    "villageCode": "006",
+    "districtCode": "52.03.080",
+    "name": "Pringgabaya",
+    "alias": "Pringgabaya"
+  },
+  {
+    "code": "52.03.080.013",
+    "villageCode": "013",
+    "districtCode": "52.03.080",
+    "name": "Labuhan Lombok",
+    "alias": "Labuhan Lombok"
+  },
+  {
+    "code": "52.03.080.014",
+    "villageCode": "014",
+    "districtCode": "52.03.080",
+    "name": "Teko",
+    "alias": "Teko"
+  },
+  {
+    "code": "52.03.080.015",
+    "villageCode": "015",
+    "districtCode": "52.03.080",
+    "name": "Pohgading Timur",
+    "alias": "Pohgading Timur"
+  },
+  {
+    "code": "52.03.080.016",
+    "villageCode": "016",
+    "districtCode": "52.03.080",
+    "name": "Pringgabaya Utara",
+    "alias": "Pringgabaya Utara"
+  },
+  {
+    "code": "52.03.080.017",
+    "villageCode": "017",
+    "districtCode": "52.03.080",
+    "name": "Tanak Gadang",
+    "alias": "Tanak Gadang"
+  },
+  {
+    "code": "52.03.080.018",
+    "villageCode": "018",
+    "districtCode": "52.03.080",
+    "name": "Anggaraksa",
+    "alias": "Anggaraksa"
+  },
+  {
+    "code": "52.03.080.019",
+    "villageCode": "019",
+    "districtCode": "52.03.080",
+    "name": "Gunung Malang",
+    "alias": "Gunung Malang"
+  },
+  {
+    "code": "52.03.080.020",
+    "villageCode": "020",
+    "districtCode": "52.03.080",
+    "name": "Seruni Mumbul",
+    "alias": "Seruni Mumbul"
+  },
+  {
+    "code": "52.03.080.021",
+    "villageCode": "021",
+    "districtCode": "52.03.080",
+    "name": "Telaga Waru",
+    "alias": "Telaga Waru"
+  }
+]

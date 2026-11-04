@@ -1,0 +1,37 @@
+[
+  {
+    "code": "81.03.111.001",
+    "villageCode": "001",
+    "districtCode": "81.03.111",
+    "name": "Larike",
+    "alias": "Larike"
+  },
+  {
+    "code": "81.03.111.002",
+    "villageCode": "002",
+    "districtCode": "81.03.111",
+    "name": "Wakasihu",
+    "alias": "Wakasihu"
+  },
+  {
+    "code": "81.03.111.003",
+    "villageCode": "003",
+    "districtCode": "81.03.111",
+    "name": "Allang",
+    "alias": "Allang"
+  },
+  {
+    "code": "81.03.111.004",
+    "villageCode": "004",
+    "districtCode": "81.03.111",
+    "name": "Lilibooy",
+    "alias": "Lilibooy"
+  },
+  {
+    "code": "81.03.111.005",
+    "villageCode": "005",
+    "districtCode": "81.03.111",
+    "name": "Hatu",
+    "alias": "Hatu"
+  }
+]

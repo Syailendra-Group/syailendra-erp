@@ -1,0 +1,177 @@
+[
+  {
+    "code": "61.01.060.001",
+    "villageCode": "001",
+    "districtCode": "61.01.060",
+    "name": "Teluk Kaseh",
+    "alias": "Teluk Kaseh"
+  },
+  {
+    "code": "61.01.060.002",
+    "villageCode": "002",
+    "districtCode": "61.01.060",
+    "name": "Sengawang",
+    "alias": "Sengawang"
+  },
+  {
+    "code": "61.01.060.003",
+    "villageCode": "003",
+    "districtCode": "61.01.060",
+    "name": "Sungai Baru",
+    "alias": "Sungai Baru"
+  },
+  {
+    "code": "61.01.060.004",
+    "villageCode": "004",
+    "districtCode": "61.01.060",
+    "name": "Berlimang",
+    "alias": "Berlimang"
+  },
+  {
+    "code": "61.01.060.005",
+    "villageCode": "005",
+    "districtCode": "61.01.060",
+    "name": "Puringan",
+    "alias": "Puringan"
+  },
+  {
+    "code": "61.01.060.006",
+    "villageCode": "006",
+    "districtCode": "61.01.060",
+    "name": "Kubangga",
+    "alias": "Kubangga"
+  },
+  {
+    "code": "61.01.060.007",
+    "villageCode": "007",
+    "districtCode": "61.01.060",
+    "name": "Tambatan",
+    "alias": "Tambatan"
+  },
+  {
+    "code": "61.01.060.008",
+    "villageCode": "008",
+    "districtCode": "61.01.060",
+    "name": "Lela",
+    "alias": "Lela"
+  },
+  {
+    "code": "61.01.060.009",
+    "villageCode": "009",
+    "districtCode": "61.01.060",
+    "name": "Sungai Kumpai",
+    "alias": "Sungai Kumpai"
+  },
+  {
+    "code": "61.01.060.010",
+    "villageCode": "010",
+    "districtCode": "61.01.060",
+    "name": "Sekura",
+    "alias": "Sekura"
+  },
+  {
+    "code": "61.01.060.011",
+    "villageCode": "011",
+    "districtCode": "61.01.060",
+    "name": "Sepadu",
+    "alias": "Sepadu"
+  },
+  {
+    "code": "61.01.060.012",
+    "villageCode": "012",
+    "districtCode": "61.01.060",
+    "name": "Tanjung Keracut",
+    "alias": "Tanjung Keracut"
+  },
+  {
+    "code": "61.01.060.013",
+    "villageCode": "013",
+    "districtCode": "61.01.060",
+    "name": "Sebagu",
+    "alias": "Sebagu"
+  },
+  {
+    "code": "61.01.060.019",
+    "villageCode": "019",
+    "districtCode": "61.01.060",
+    "name": "Kuala Pangkalan Keramat",
+    "alias": "Kuala Pangkalan Keramat"
+  },
+  {
+    "code": "61.01.060.020",
+    "villageCode": "020",
+    "districtCode": "61.01.060",
+    "name": "Mekar Sekuntum",
+    "alias": "Mekar Sekuntum"
+  },
+  {
+    "code": "61.01.060.021",
+    "villageCode": "021",
+    "districtCode": "61.01.060",
+    "name": "Teluk Kembang",
+    "alias": "Teluk Kembang"
+  },
+  {
+    "code": "61.01.060.022",
+    "villageCode": "022",
+    "districtCode": "61.01.060",
+    "name": "Sungai Serabek",
+    "alias": "Sungai Serabek"
+  },
+  {
+    "code": "61.01.060.023",
+    "villageCode": "023",
+    "districtCode": "61.01.060",
+    "name": "Pedada",
+    "alias": "Pedada"
+  },
+  {
+    "code": "61.01.060.024",
+    "villageCode": "024",
+    "districtCode": "61.01.060",
+    "name": "Tri Mandayan",
+    "alias": "Tri Mandayan"
+  },
+  {
+    "code": "61.01.060.025",
+    "villageCode": "025",
+    "districtCode": "61.01.060",
+    "name": "Sayang Sedayu",
+    "alias": "Sayang Sedayu"
+  },
+  {
+    "code": "61.01.060.026",
+    "villageCode": "026",
+    "districtCode": "61.01.060",
+    "name": "Samustida",
+    "alias": "Samustida"
+  },
+  {
+    "code": "61.01.060.027",
+    "villageCode": "027",
+    "districtCode": "61.01.060",
+    "name": "Pipit Teja",
+    "alias": "Pipit Teja"
+  },
+  {
+    "code": "61.01.060.035",
+    "villageCode": "035",
+    "districtCode": "61.01.060",
+    "name": "Mulia",
+    "alias": "Mulia"
+  },
+  {
+    "code": "61.01.060.036",
+    "villageCode": "036",
+    "districtCode": "61.01.060",
+    "name": "Matang Segantar",
+    "alias": "Matang Segantar"
+  },
+  {
+    "code": "61.01.060.037",
+    "villageCode": "037",
+    "districtCode": "61.01.060",
+    "name": "Sabing",
+    "alias": "Sabing"
+  }
+]

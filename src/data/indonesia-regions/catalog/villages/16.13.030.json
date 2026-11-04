@@ -1,0 +1,121 @@
+[
+  {
+    "code": "16.13.030.001",
+    "villageCode": "001",
+    "districtCode": "16.13.030",
+    "name": "Lubuk Mas",
+    "alias": "Lubuk Mas"
+  },
+  {
+    "code": "16.13.030.002",
+    "villageCode": "002",
+    "districtCode": "16.13.030",
+    "name": "Pangkalan",
+    "alias": "Pangkalan"
+  },
+  {
+    "code": "16.13.030.003",
+    "villageCode": "003",
+    "districtCode": "16.13.030",
+    "name": "Teladas",
+    "alias": "Teladas"
+  },
+  {
+    "code": "16.13.030.004",
+    "villageCode": "004",
+    "districtCode": "16.13.030",
+    "name": "Kerta Dewa",
+    "alias": "Kerta Dewa"
+  },
+  {
+    "code": "16.13.030.005",
+    "villageCode": "005",
+    "districtCode": "16.13.030",
+    "name": "Pulau Lebar",
+    "alias": "Pulau Lebar"
+  },
+  {
+    "code": "16.13.030.006",
+    "villageCode": "006",
+    "districtCode": "16.13.030",
+    "name": "Sungai Baung",
+    "alias": "Sungai Baung"
+  },
+  {
+    "code": "16.13.030.007",
+    "villageCode": "007",
+    "districtCode": "16.13.030",
+    "name": "Surulangun",
+    "alias": "Surulangun"
+  },
+  {
+    "code": "16.13.030.008",
+    "villageCode": "008",
+    "districtCode": "16.13.030",
+    "name": "Sukomoro",
+    "alias": "Sukomoro"
+  },
+  {
+    "code": "16.13.030.009",
+    "villageCode": "009",
+    "districtCode": "16.13.030",
+    "name": "Pasar Surulangun",
+    "alias": "Pasar Surulangun"
+  },
+  {
+    "code": "16.13.030.010",
+    "villageCode": "010",
+    "districtCode": "16.13.030",
+    "name": "Lesung Batu Muda",
+    "alias": "Lesung Batu Muda"
+  },
+  {
+    "code": "16.13.030.011",
+    "villageCode": "011",
+    "districtCode": "16.13.030",
+    "name": "Lesung Batu",
+    "alias": "Lesung Batu"
+  },
+  {
+    "code": "16.13.030.012",
+    "villageCode": "012",
+    "districtCode": "16.13.030",
+    "name": "Lubuk Kemang",
+    "alias": "Lubuk Kemang"
+  },
+  {
+    "code": "16.13.030.013",
+    "villageCode": "013",
+    "districtCode": "16.13.030",
+    "name": "Remban",
+    "alias": "Remban"
+  },
+  {
+    "code": "16.13.030.014",
+    "villageCode": "014",
+    "districtCode": "16.13.030",
+    "name": "Sungai Kijang",
+    "alias": "Sungai Kijang"
+  },
+  {
+    "code": "16.13.030.015",
+    "villageCode": "015",
+    "districtCode": "16.13.030",
+    "name": "Sungai Jauh",
+    "alias": "Sungai Jauh"
+  },
+  {
+    "code": "16.13.030.016",
+    "villageCode": "016",
+    "districtCode": "16.13.030",
+    "name": "Simpang Nibung Rawas",
+    "alias": "Simpang Nibung Rawas"
+  },
+  {
+    "code": "16.13.030.017",
+    "villageCode": "017",
+    "districtCode": "16.13.030",
+    "name": "Sungai Lanang",
+    "alias": "Sungai Lanang"
+  }
+]

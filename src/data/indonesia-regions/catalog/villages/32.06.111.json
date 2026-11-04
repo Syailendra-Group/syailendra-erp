@@ -1,0 +1,58 @@
+[
+  {
+    "code": "32.06.111.001",
+    "villageCode": "001",
+    "districtCode": "32.06.111",
+    "name": "Mandalasari",
+    "alias": "Mandalasari"
+  },
+  {
+    "code": "32.06.111.002",
+    "villageCode": "002",
+    "districtCode": "32.06.111",
+    "name": "Sukasari",
+    "alias": "Sukasari"
+  },
+  {
+    "code": "32.06.111.003",
+    "villageCode": "003",
+    "districtCode": "32.06.111",
+    "name": "Puspasari",
+    "alias": "Puspasari"
+  },
+  {
+    "code": "32.06.111.004",
+    "villageCode": "004",
+    "districtCode": "32.06.111",
+    "name": "Puspahiang",
+    "alias": "Puspahiang"
+  },
+  {
+    "code": "32.06.111.005",
+    "villageCode": "005",
+    "districtCode": "32.06.111",
+    "name": "Pusparahayu",
+    "alias": "Pusparahayu"
+  },
+  {
+    "code": "32.06.111.006",
+    "villageCode": "006",
+    "districtCode": "32.06.111",
+    "name": "Luyubakti",
+    "alias": "Luyubakti"
+  },
+  {
+    "code": "32.06.111.007",
+    "villageCode": "007",
+    "districtCode": "32.06.111",
+    "name": "Cimanggu",
+    "alias": "Cimanggu"
+  },
+  {
+    "code": "32.06.111.008",
+    "villageCode": "008",
+    "districtCode": "32.06.111",
+    "name": "Puspajaya",
+    "alias": "Puspajaya"
+  }
+]

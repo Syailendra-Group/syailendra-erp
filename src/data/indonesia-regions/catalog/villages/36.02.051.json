@@ -1,0 +1,65 @@
+[
+  {
+    "code": "36.02.051.001",
+    "villageCode": "001",
+    "districtCode": "36.02.051",
+    "name": "Peucangpari",
+    "alias": "Peucangpari"
+  },
+  {
+    "code": "36.02.051.002",
+    "villageCode": "002",
+    "districtCode": "36.02.051",
+    "name": "Cibungur",
+    "alias": "Cibungur"
+  },
+  {
+    "code": "36.02.051.003",
+    "villageCode": "003",
+    "districtCode": "36.02.051",
+    "name": "Cikaret",
+    "alias": "Cikaret"
+  },
+  {
+    "code": "36.02.051.004",
+    "villageCode": "004",
+    "districtCode": "36.02.051",
+    "name": "Cikadongdong",
+    "alias": "Cikadongdong"
+  },
+  {
+    "code": "36.02.051.005",
+    "villageCode": "005",
+    "districtCode": "36.02.051",
+    "name": "Cikaratuan",
+    "alias": "Cikaratuan"
+  },
+  {
+    "code": "36.02.051.006",
+    "villageCode": "006",
+    "districtCode": "36.02.051",
+    "name": "Mugijaya",
+    "alias": "Mugijaya"
+  },
+  {
+    "code": "36.02.051.007",
+    "villageCode": "007",
+    "districtCode": "36.02.051",
+    "name": "Cigemblong",
+    "alias": "Cigemblong"
+  },
+  {
+    "code": "36.02.051.008",
+    "villageCode": "008",
+    "districtCode": "36.02.051",
+    "name": "Cikate",
+    "alias": "Cikate"
+  },
+  {
+    "code": "36.02.051.009",
+    "villageCode": "009",
+    "districtCode": "36.02.051",
+    "name": "Wangunjaya",
+    "alias": "Wangunjaya"
+  }
+]

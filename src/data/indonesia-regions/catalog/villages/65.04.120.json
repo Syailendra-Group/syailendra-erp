@@ -1,0 +1,30 @@
+[
+  {
+    "code": "65.04.120.001",
+    "villageCode": "001",
+    "districtCode": "65.04.120",
+    "name": "Bambangan",
+    "alias": "Bambangan"
+  },
+  {
+    "code": "65.04.120.002",
+    "villageCode": "002",
+    "districtCode": "65.04.120",
+    "name": "Liang Bunyu",
+    "alias": "Liang Bunyu"
+  },
+  {
+    "code": "65.04.120.003",
+    "villageCode": "003",
+    "districtCode": "65.04.120",
+    "name": "Binalawan",
+    "alias": "Binalawan"
+  },
+  {
+    "code": "65.04.120.004",
+    "villageCode": "004",
+    "districtCode": "65.04.120",
+    "name": "Setabu",
+    "alias": "Setabu"
+  }
+]

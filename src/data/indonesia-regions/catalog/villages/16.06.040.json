@@ -1,0 +1,100 @@
+[
+  {
+    "code": "16.06.040.001",
+    "villageCode": "001",
+    "districtCode": "16.06.040",
+    "name": "Rimbah Ukur",
+    "alias": "Rimbah Ukur"
+  },
+  {
+    "code": "16.06.040.002",
+    "villageCode": "002",
+    "districtCode": "16.06.040",
+    "name": "Sungai Medak",
+    "alias": "Sungai Medak"
+  },
+  {
+    "code": "16.06.040.003",
+    "villageCode": "003",
+    "districtCode": "16.06.040",
+    "name": "Sungai Batang",
+    "alias": "Sungai Batang"
+  },
+  {
+    "code": "16.06.040.004",
+    "villageCode": "004",
+    "districtCode": "16.06.040",
+    "name": "Sukarami",
+    "alias": "Sukarami"
+  },
+  {
+    "code": "16.06.040.005",
+    "villageCode": "005",
+    "districtCode": "16.06.040",
+    "name": "Soak Baru",
+    "alias": "Soak Baru"
+  },
+  {
+    "code": "16.06.040.006",
+    "villageCode": "006",
+    "districtCode": "16.06.040",
+    "name": "Balai Agung",
+    "alias": "Balai Agung"
+  },
+  {
+    "code": "16.06.040.007",
+    "villageCode": "007",
+    "districtCode": "16.06.040",
+    "name": "Serasan Jaya",
+    "alias": "Serasan Jaya"
+  },
+  {
+    "code": "16.06.040.008",
+    "villageCode": "008",
+    "districtCode": "16.06.040",
+    "name": "Kayuara",
+    "alias": "Kayuara"
+  },
+  {
+    "code": "16.06.040.009",
+    "villageCode": "009",
+    "districtCode": "16.06.040",
+    "name": "Lumpatan",
+    "alias": "Lumpatan"
+  },
+  {
+    "code": "16.06.040.010",
+    "villageCode": "010",
+    "districtCode": "16.06.040",
+    "name": "Bailangu",
+    "alias": "Bailangu"
+  },
+  {
+    "code": "16.06.040.022",
+    "villageCode": "022",
+    "districtCode": "16.06.040",
+    "name": "Muara Teladan",
+    "alias": "Muara Teladan"
+  },
+  {
+    "code": "16.06.040.023",
+    "villageCode": "023",
+    "districtCode": "16.06.040",
+    "name": "Bandar Jaya",
+    "alias": "Bandar Jaya"
+  },
+  {
+    "code": "16.06.040.024",
+    "villageCode": "024",
+    "districtCode": "16.06.040",
+    "name": "Lumpatan Ii",
+    "alias": "Lumpatan Ii"
+  },
+  {
+    "code": "16.06.040.025",
+    "villageCode": "025",
+    "districtCode": "16.06.040",
+    "name": "Bailangu Timur",
+    "alias": "Bailangu Timur"
+  }
+]

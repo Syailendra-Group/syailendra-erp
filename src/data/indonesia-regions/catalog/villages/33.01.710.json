@@ -1,0 +1,37 @@
+[
+  {
+    "code": "33.01.710.001",
+    "villageCode": "001",
+    "districtCode": "33.01.710",
+    "name": "Tambakreja",
+    "alias": "Tambakreja"
+  },
+  {
+    "code": "33.01.710.002",
+    "villageCode": "002",
+    "districtCode": "33.01.710",
+    "name": "Tegalrejo",
+    "alias": "Tegalrejo"
+  },
+  {
+    "code": "33.01.710.003",
+    "villageCode": "003",
+    "districtCode": "33.01.710",
+    "name": "Sidakaya",
+    "alias": "Sidakaya"
+  },
+  {
+    "code": "33.01.710.004",
+    "villageCode": "004",
+    "districtCode": "33.01.710",
+    "name": "Cilacap",
+    "alias": "Cilacap"
+  },
+  {
+    "code": "33.01.710.005",
+    "villageCode": "005",
+    "districtCode": "33.01.710",
+    "name": "Tegalkamulyan",
+    "alias": "Tegalkamulyan"
+  }
+]

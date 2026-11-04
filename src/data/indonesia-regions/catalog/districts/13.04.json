@@ -1,0 +1,66 @@
+[
+  {
+    "code": "13.04.050",
+    "districtCode": "050",
+    "regencyCode": "13.04",
+    "provinceCode": "13",
+    "name": "Kecamatan Kamang Baru",
+    "alias": "Kamang Baru"
+  },
+  {
+    "code": "13.04.060",
+    "districtCode": "060",
+    "regencyCode": "13.04",
+    "provinceCode": "13",
+    "name": "Kecamatan Tanjung Gadang",
+    "alias": "Tanjung Gadang"
+  },
+  {
+    "code": "13.04.070",
+    "districtCode": "070",
+    "regencyCode": "13.04",
+    "provinceCode": "13",
+    "name": "Kecamatan Sijunjung",
+    "alias": "Sijunjung"
+  },
+  {
+    "code": "13.04.071",
+    "districtCode": "071",
+    "regencyCode": "13.04",
+    "provinceCode": "13",
+    "name": "Kecamatan Lubuk Tarok",
+    "alias": "Lubuk Tarok"
+  },
+  {
+    "code": "13.04.080",
+    "districtCode": "080",
+    "regencyCode": "13.04",
+    "provinceCode": "13",
+    "name": "Kecamatan Iv Nagari",
+    "alias": "Iv Nagari"
+  },
+  {
+    "code": "13.04.090",
+    "districtCode": "090",
+    "regencyCode": "13.04",
+    "provinceCode": "13",
+    "name": "Kecamatan Kupitan",
+    "alias": "Kupitan"
+  },
+  {
+    "code": "13.04.100",
+    "districtCode": "100",
+    "regencyCode": "13.04",
+    "provinceCode": "13",
+    "name": "Kecamatan Koto Tujuh",
+    "alias": "Koto Tujuh"
+  },
+  {
+    "code": "13.04.110",
+    "districtCode": "110",
+    "regencyCode": "13.04",
+    "provinceCode": "13",
+    "name": "Kecamatan Sumpur Kudus",
+    "alias": "Sumpur Kudus"
+  }
+]

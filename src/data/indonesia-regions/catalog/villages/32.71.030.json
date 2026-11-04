@@ -1,0 +1,58 @@
+[
+  {
+    "code": "32.71.030.001",
+    "villageCode": "001",
+    "districtCode": "32.71.030",
+    "name": "Bantarjati",
+    "alias": "Bantarjati"
+  },
+  {
+    "code": "32.71.030.002",
+    "villageCode": "002",
+    "districtCode": "32.71.030",
+    "name": "Tegalgundil",
+    "alias": "Tegalgundil"
+  },
+  {
+    "code": "32.71.030.003",
+    "villageCode": "003",
+    "districtCode": "32.71.030",
+    "name": "Tanahbaru",
+    "alias": "Tanahbaru"
+  },
+  {
+    "code": "32.71.030.004",
+    "villageCode": "004",
+    "districtCode": "32.71.030",
+    "name": "Cimahpar",
+    "alias": "Cimahpar"
+  },
+  {
+    "code": "32.71.030.005",
+    "villageCode": "005",
+    "districtCode": "32.71.030",
+    "name": "Ciluar",
+    "alias": "Ciluar"
+  },
+  {
+    "code": "32.71.030.006",
+    "villageCode": "006",
+    "districtCode": "32.71.030",
+    "name": "Cibuluh",
+    "alias": "Cibuluh"
+  },
+  {
+    "code": "32.71.030.007",
+    "villageCode": "007",
+    "districtCode": "32.71.030",
+    "name": "Kedunghalang",
+    "alias": "Kedunghalang"
+  },
+  {
+    "code": "32.71.030.008",
+    "villageCode": "008",
+    "districtCode": "32.71.030",
+    "name": "Ciparigi",
+    "alias": "Ciparigi"
+  }
+]

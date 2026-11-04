@@ -1,0 +1,242 @@
+[
+  {
+    "code": "82.04.010",
+    "districtCode": "010",
+    "regencyCode": "82.04",
+    "provinceCode": "82",
+    "name": "Kecamatan Obi Selatan",
+    "alias": "Obi Selatan"
+  },
+  {
+    "code": "82.04.020",
+    "districtCode": "020",
+    "regencyCode": "82.04",
+    "provinceCode": "82",
+    "name": "Kecamatan Obi",
+    "alias": "Obi"
+  },
+  {
+    "code": "82.04.021",
+    "districtCode": "021",
+    "regencyCode": "82.04",
+    "provinceCode": "82",
+    "name": "Kecamatan Obi Barat",
+    "alias": "Obi Barat"
+  },
+  {
+    "code": "82.04.022",
+    "districtCode": "022",
+    "regencyCode": "82.04",
+    "provinceCode": "82",
+    "name": "Kecamatan Obi Timur",
+    "alias": "Obi Timur"
+  },
+  {
+    "code": "82.04.023",
+    "districtCode": "023",
+    "regencyCode": "82.04",
+    "provinceCode": "82",
+    "name": "Kecamatan Obi Utara",
+    "alias": "Obi Utara"
+  },
+  {
+    "code": "82.04.030",
+    "districtCode": "030",
+    "regencyCode": "82.04",
+    "provinceCode": "82",
+    "name": "Kecamatan Bacan",
+    "alias": "Bacan"
+  },
+  {
+    "code": "82.04.031",
+    "districtCode": "031",
+    "regencyCode": "82.04",
+    "provinceCode": "82",
+    "name": "Kecamatan Mandioli Selatan",
+    "alias": "Mandioli Selatan"
+  },
+  {
+    "code": "82.04.032",
+    "districtCode": "032",
+    "regencyCode": "82.04",
+    "provinceCode": "82",
+    "name": "Kecamatan Mandioli Utara",
+    "alias": "Mandioli Utara"
+  },
+  {
+    "code": "82.04.033",
+    "districtCode": "033",
+    "regencyCode": "82.04",
+    "provinceCode": "82",
+    "name": "Kecamatan Bacan Selatan",
+    "alias": "Bacan Selatan"
+  },
+  {
+    "code": "82.04.034",
+    "districtCode": "034",
+    "regencyCode": "82.04",
+    "provinceCode": "82",
+    "name": "Kecamatan Batang Lomang",
+    "alias": "Batang Lomang"
+  },
+  {
+    "code": "82.04.040",
+    "districtCode": "040",
+    "regencyCode": "82.04",
+    "provinceCode": "82",
+    "name": "Kecamatan Bacan Timur",
+    "alias": "Bacan Timur"
+  },
+  {
+    "code": "82.04.041",
+    "districtCode": "041",
+    "regencyCode": "82.04",
+    "provinceCode": "82",
+    "name": "Kecamatan Bacan Timur Selatan",
+    "alias": "Bacan Timur Selatan"
+  },
+  {
+    "code": "82.04.042",
+    "districtCode": "042",
+    "regencyCode": "82.04",
+    "provinceCode": "82",
+    "name": "Kecamatan Bacan Timur Tengah",
+    "alias": "Bacan Timur Tengah"
+  },
+  {
+    "code": "82.04.050",
+    "districtCode": "050",
+    "regencyCode": "82.04",
+    "provinceCode": "82",
+    "name": "Kecamatan Bacan Barat",
+    "alias": "Bacan Barat"
+  },
+  {
+    "code": "82.04.051",
+    "districtCode": "051",
+    "regencyCode": "82.04",
+    "provinceCode": "82",
+    "name": "Kecamatan Kasiruta Barat",
+    "alias": "Kasiruta Barat"
+  },
+  {
+    "code": "82.04.052",
+    "districtCode": "052",
+    "regencyCode": "82.04",
+    "provinceCode": "82",
+    "name": "Kecamatan Kasiruta Timur",
+    "alias": "Kasiruta Timur"
+  },
+  {
+    "code": "82.04.053",
+    "districtCode": "053",
+    "regencyCode": "82.04",
+    "provinceCode": "82",
+    "name": "Kecamatan Bacan Barat Utara",
+    "alias": "Bacan Barat Utara"
+  },
+  {
+    "code": "82.04.060",
+    "districtCode": "060",
+    "regencyCode": "82.04",
+    "provinceCode": "82",
+    "name": "Kecamatan Kayoa",
+    "alias": "Kayoa"
+  },
+  {
+    "code": "82.04.061",
+    "districtCode": "061",
+    "regencyCode": "82.04",
+    "provinceCode": "82",
+    "name": "Kecamatan Kayoa Barat",
+    "alias": "Kayoa Barat"
+  },
+  {
+    "code": "82.04.062",
+    "districtCode": "062",
+    "regencyCode": "82.04",
+    "provinceCode": "82",
+    "name": "Kecamatan Kayoa Selatan",
+    "alias": "Kayoa Selatan"
+  },
+  {
+    "code": "82.04.063",
+    "districtCode": "063",
+    "regencyCode": "82.04",
+    "provinceCode": "82",
+    "name": "Kecamatan Kayoa Utara",
+    "alias": "Kayoa Utara"
+  },
+  {
+    "code": "82.04.070",
+    "districtCode": "070",
+    "regencyCode": "82.04",
+    "provinceCode": "82",
+    "name": "Kecamatan Pulau Makian",
+    "alias": "Pulau Makian"
+  },
+  {
+    "code": "82.04.071",
+    "districtCode": "071",
+    "regencyCode": "82.04",
+    "provinceCode": "82",
+    "name": "Kecamatan Makian Barat",
+    "alias": "Makian Barat"
+  },
+  {
+    "code": "82.04.080",
+    "districtCode": "080",
+    "regencyCode": "82.04",
+    "provinceCode": "82",
+    "name": "Kecamatan Gane Barat",
+    "alias": "Gane Barat"
+  },
+  {
+    "code": "82.04.081",
+    "districtCode": "081",
+    "regencyCode": "82.04",
+    "provinceCode": "82",
+    "name": "Kecamatan Gane Barat Selatan",
+    "alias": "Gane Barat Selatan"
+  },
+  {
+    "code": "82.04.082",
+    "districtCode": "082",
+    "regencyCode": "82.04",
+    "provinceCode": "82",
+    "name": "Kecamatan Gane Barat Utara",
+    "alias": "Gane Barat Utara"
+  },
+  {
+    "code": "82.04.083",
+    "districtCode": "083",
+    "regencyCode": "82.04",
+    "provinceCode": "82",
+    "name": "Kecamatan Kepulauan Joronga",
+    "alias": "Kepulauan Joronga"
+  },
+  {
+    "code": "82.04.090",
+    "districtCode": "090",
+    "regencyCode": "82.04",
+    "provinceCode": "82",
+    "name": "Kecamatan Gane Timur",
+    "alias": "Gane Timur"
+  },
+  {
+    "code": "82.04.091",
+    "districtCode": "091",
+    "regencyCode": "82.04",
+    "provinceCode": "82",
+    "name": "Kecamatan Gane Timur Tengah",
+    "alias": "Gane Timur Tengah"
+  },
+  {
+    "code": "82.04.092",
+    "districtCode": "092",
+    "regencyCode": "82.04",
+    "provinceCode": "82",
+    "name": "Kecamatan Gane Timur Selatan",
+    "alias": "Gane Timur Selatan"
+  }
+]

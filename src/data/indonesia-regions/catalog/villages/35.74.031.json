@@ -1,0 +1,44 @@
+[
+  {
+    "code": "35.74.031.001",
+    "villageCode": "001",
+    "districtCode": "35.74.031",
+    "name": "Curahgrinting",
+    "alias": "Curahgrinting"
+  },
+  {
+    "code": "35.74.031.002",
+    "villageCode": "002",
+    "districtCode": "35.74.031",
+    "name": "Kanigaran",
+    "alias": "Kanigaran"
+  },
+  {
+    "code": "35.74.031.003",
+    "villageCode": "003",
+    "districtCode": "35.74.031",
+    "name": "Kebonsari Wetan",
+    "alias": "Kebonsari Wetan"
+  },
+  {
+    "code": "35.74.031.004",
+    "villageCode": "004",
+    "districtCode": "35.74.031",
+    "name": "Sukoharjo",
+    "alias": "Sukoharjo"
+  },
+  {
+    "code": "35.74.031.005",
+    "villageCode": "005",
+    "districtCode": "35.74.031",
+    "name": "Kebonsari Kulon",
+    "alias": "Kebonsari Kulon"
+  },
+  {
+    "code": "35.74.031.006",
+    "villageCode": "006",
+    "districtCode": "35.74.031",
+    "name": "Tisnonegaran",
+    "alias": "Tisnonegaran"
+  }
+]

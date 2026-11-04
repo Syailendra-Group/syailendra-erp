@@ -21,7 +21,7 @@ export function FarmersTable(): ReactElement {
 
   const columns = useMemo(() => getColumns({ tTrace, tCommon }), [tTrace, tCommon])
 
-  // 1. Hook manages all URL parsing, pagination, sorting & filter state
+  // Hook manages all URL parsing, pagination, sorting & filter state
   const {
     page,
     perPage,
@@ -42,7 +42,7 @@ export function FarmersTable(): ReactElement {
     filterKeys: FILTER_KEYS
   })
 
-  // 2. Fetch paginated data from Odoo via TanStack Query using URL state
+  // Fetch paginated data from Odoo via TanStack Query using URL state
   const commodityList = getArrayFilter('commodity')
   const statusList = getArrayFilter('status')
 
@@ -62,7 +62,7 @@ export function FarmersTable(): ReactElement {
   const farmers = result?.records ?? []
   const totalCount = result?.totalCount ?? 0
 
-  // 3. Clean TanStack Table instance wiring
+  // Clean TanStack Table instance wiring
   const table = useReactTable({
     data: farmers,
     columns,
@@ -83,7 +83,7 @@ export function FarmersTable(): ReactElement {
     getCoreRowModel: getCoreRowModel()
   })
 
-  // 4. Faceted Filter Options
+  // Faceted Filter Options
   const commodityFilterOptions = useMemo(
     () => [
       { label: tTrace('commodities.gaharu'), value: 'gaharu' },

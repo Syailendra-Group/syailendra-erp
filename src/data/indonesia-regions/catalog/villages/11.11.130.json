@@ -1,0 +1,282 @@
+[
+  {
+    "code": "11.11.130.001",
+    "villageCode": "001",
+    "districtCode": "11.11.130",
+    "name": "Kitou",
+    "alias": "Kitou"
+  },
+  {
+    "code": "11.11.130.002",
+    "villageCode": "002",
+    "districtCode": "11.11.130",
+    "name": "Paya Terbang",
+    "alias": "Paya Terbang"
+  },
+  {
+    "code": "11.11.130.003",
+    "villageCode": "003",
+    "districtCode": "11.11.130",
+    "name": "Tanjong Mesjid",
+    "alias": "Tanjong Mesjid"
+  },
+  {
+    "code": "11.11.130.004",
+    "villageCode": "004",
+    "districtCode": "11.11.130",
+    "name": "Tanjong Awe",
+    "alias": "Tanjong Awe"
+  },
+  {
+    "code": "11.11.130.005",
+    "villageCode": "005",
+    "districtCode": "11.11.130",
+    "name": "Tanjong Rengkam",
+    "alias": "Tanjong Rengkam"
+  },
+  {
+    "code": "11.11.130.006",
+    "villageCode": "006",
+    "districtCode": "11.11.130",
+    "name": "Tanjong Hagu",
+    "alias": "Tanjong Hagu"
+  },
+  {
+    "code": "11.11.130.007",
+    "villageCode": "007",
+    "districtCode": "11.11.130",
+    "name": "Madan",
+    "alias": "Madan"
+  },
+  {
+    "code": "11.11.130.008",
+    "villageCode": "008",
+    "districtCode": "11.11.130",
+    "name": "Tanjong Baroh",
+    "alias": "Tanjong Baroh"
+  },
+  {
+    "code": "11.11.130.009",
+    "villageCode": "009",
+    "districtCode": "11.11.130",
+    "name": "Gampong Baro",
+    "alias": "Gampong Baro"
+  },
+  {
+    "code": "11.11.130.010",
+    "villageCode": "010",
+    "districtCode": "11.11.130",
+    "name": "Tanjong Kleng",
+    "alias": "Tanjong Kleng"
+  },
+  {
+    "code": "11.11.130.011",
+    "villageCode": "011",
+    "districtCode": "11.11.130",
+    "name": "Krueng Baro Lgh",
+    "alias": "Krueng Baro Lgh"
+  },
+  {
+    "code": "11.11.130.012",
+    "villageCode": "012",
+    "districtCode": "11.11.130",
+    "name": "Teupin Beulangan",
+    "alias": "Teupin Beulangan"
+  },
+  {
+    "code": "11.11.130.013",
+    "villageCode": "013",
+    "districtCode": "11.11.130",
+    "name": "Teupin Ara",
+    "alias": "Teupin Ara"
+  },
+  {
+    "code": "11.11.130.014",
+    "villageCode": "014",
+    "districtCode": "11.11.130",
+    "name": "Pusong",
+    "alias": "Pusong"
+  },
+  {
+    "code": "11.11.130.015",
+    "villageCode": "015",
+    "districtCode": "11.11.130",
+    "name": "Mancang",
+    "alias": "Mancang"
+  },
+  {
+    "code": "11.11.130.016",
+    "villageCode": "016",
+    "districtCode": "11.11.130",
+    "name": "Blang Kabu",
+    "alias": "Blang Kabu"
+  },
+  {
+    "code": "11.11.130.017",
+    "villageCode": "017",
+    "districtCode": "11.11.130",
+    "name": "Keude Geudong",
+    "alias": "Keude Geudong"
+  },
+  {
+    "code": "11.11.130.018",
+    "villageCode": "018",
+    "districtCode": "11.11.130",
+    "name": "Blang Peuria",
+    "alias": "Blang Peuria"
+  },
+  {
+    "code": "11.11.130.019",
+    "villageCode": "019",
+    "districtCode": "11.11.130",
+    "name": "Meunasah Asan",
+    "alias": "Meunasah Asan"
+  },
+  {
+    "code": "11.11.130.020",
+    "villageCode": "020",
+    "districtCode": "11.11.130",
+    "name": "Murong",
+    "alias": "Murong"
+  },
+  {
+    "code": "11.11.130.021",
+    "villageCode": "021",
+    "districtCode": "11.11.130",
+    "name": "Pie",
+    "alias": "Pie"
+  },
+  {
+    "code": "11.11.130.022",
+    "villageCode": "022",
+    "districtCode": "11.11.130",
+    "name": "Krueng Mate",
+    "alias": "Krueng Mate"
+  },
+  {
+    "code": "11.11.130.023",
+    "villageCode": "023",
+    "districtCode": "11.11.130",
+    "name": "Beuringen",
+    "alias": "Beuringen"
+  },
+  {
+    "code": "11.11.130.024",
+    "villageCode": "024",
+    "districtCode": "11.11.130",
+    "name": "Kuta Krueng",
+    "alias": "Kuta Krueng"
+  },
+  {
+    "code": "11.11.130.025",
+    "villageCode": "025",
+    "districtCode": "11.11.130",
+    "name": "Kuta Glumpang",
+    "alias": "Kuta Glumpang"
+  },
+  {
+    "code": "11.11.130.026",
+    "villageCode": "026",
+    "districtCode": "11.11.130",
+    "name": "Meucat",
+    "alias": "Meucat"
+  },
+  {
+    "code": "11.11.130.027",
+    "villageCode": "027",
+    "districtCode": "11.11.130",
+    "name": "Krueng Baro Blang Me",
+    "alias": "Krueng Baro Blang Me"
+  },
+  {
+    "code": "11.11.130.028",
+    "villageCode": "028",
+    "districtCode": "11.11.130",
+    "name": "Ujong",
+    "alias": "Ujong"
+  },
+  {
+    "code": "11.11.130.029",
+    "villageCode": "029",
+    "districtCode": "11.11.130",
+    "name": "Mesjid",
+    "alias": "Mesjid"
+  },
+  {
+    "code": "11.11.130.030",
+    "villageCode": "030",
+    "districtCode": "11.11.130",
+    "name": "Teungoh",
+    "alias": "Teungoh"
+  },
+  {
+    "code": "11.11.130.031",
+    "villageCode": "031",
+    "districtCode": "11.11.130",
+    "name": "Puuk",
+    "alias": "Puuk"
+  },
+  {
+    "code": "11.11.130.032",
+    "villageCode": "032",
+    "districtCode": "11.11.130",
+    "name": "Pulo",
+    "alias": "Pulo"
+  },
+  {
+    "code": "11.11.130.033",
+    "villageCode": "033",
+    "districtCode": "11.11.130",
+    "name": "Laga Baro",
+    "alias": "Laga Baro"
+  },
+  {
+    "code": "11.11.130.034",
+    "villageCode": "034",
+    "districtCode": "11.11.130",
+    "name": "Matang Tunong",
+    "alias": "Matang Tunong"
+  },
+  {
+    "code": "11.11.130.035",
+    "villageCode": "035",
+    "districtCode": "11.11.130",
+    "name": "Keude Blang Me",
+    "alias": "Keude Blang Me"
+  },
+  {
+    "code": "11.11.130.036",
+    "villageCode": "036",
+    "districtCode": "11.11.130",
+    "name": "Matang Puntong",
+    "alias": "Matang Puntong"
+  },
+  {
+    "code": "11.11.130.037",
+    "villageCode": "037",
+    "districtCode": "11.11.130",
+    "name": "Lancang",
+    "alias": "Lancang"
+  },
+  {
+    "code": "11.11.130.038",
+    "villageCode": "038",
+    "districtCode": "11.11.130",
+    "name": "Matang Ulim",
+    "alias": "Matang Ulim"
+  },
+  {
+    "code": "11.11.130.039",
+    "villageCode": "039",
+    "districtCode": "11.11.130",
+    "name": "Sawang",
+    "alias": "Sawang"
+  },
+  {
+    "code": "11.11.130.040",
+    "villageCode": "040",
+    "districtCode": "11.11.130",
+    "name": "Blang Nibong",
+    "alias": "Blang Nibong"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "code": "63.01.030.001",
+    "villageCode": "001",
+    "districtCode": "63.01.030",
+    "name": "Sungai Bakau",
+    "alias": "Sungai Bakau"
+  },
+  {
+    "code": "63.01.030.002",
+    "villageCode": "002",
+    "districtCode": "63.01.030",
+    "name": "Raden",
+    "alias": "Raden"
+  },
+  {
+    "code": "63.01.030.003",
+    "villageCode": "003",
+    "districtCode": "63.01.030",
+    "name": "Maluka Baulin",
+    "alias": "Maluka Baulin"
+  },
+  {
+    "code": "63.01.030.004",
+    "villageCode": "004",
+    "districtCode": "63.01.030",
+    "name": "Bawah Layung",
+    "alias": "Bawah Layung"
+  },
+  {
+    "code": "63.01.030.005",
+    "villageCode": "005",
+    "districtCode": "63.01.030",
+    "name": "Tambak Karya",
+    "alias": "Tambak Karya"
+  },
+  {
+    "code": "63.01.030.006",
+    "villageCode": "006",
+    "districtCode": "63.01.030",
+    "name": "Padang Luas",
+    "alias": "Padang Luas"
+  },
+  {
+    "code": "63.01.030.007",
+    "villageCode": "007",
+    "districtCode": "63.01.030",
+    "name": "Tambak Sarinah",
+    "alias": "Tambak Sarinah"
+  },
+  {
+    "code": "63.01.030.008",
+    "villageCode": "008",
+    "districtCode": "63.01.030",
+    "name": "Sarikandi",
+    "alias": "Sarikandi"
+  },
+  {
+    "code": "63.01.030.009",
+    "villageCode": "009",
+    "districtCode": "63.01.030",
+    "name": "Handil Negara",
+    "alias": "Handil Negara"
+  },
+  {
+    "code": "63.01.030.010",
+    "villageCode": "010",
+    "districtCode": "63.01.030",
+    "name": "Kali Besar",
+    "alias": "Kali Besar"
+  },
+  {
+    "code": "63.01.030.013",
+    "villageCode": "013",
+    "districtCode": "63.01.030",
+    "name": "Kurau",
+    "alias": "Kurau"
+  }
+]

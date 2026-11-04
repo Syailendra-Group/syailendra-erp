@@ -1,0 +1,58 @@
+[
+  {
+    "code": "35.29.050.001",
+    "villageCode": "001",
+    "districtCode": "35.29.050",
+    "name": "Padike",
+    "alias": "Padike"
+  },
+  {
+    "code": "35.29.050.002",
+    "villageCode": "002",
+    "districtCode": "35.29.050",
+    "name": "Cabbiya",
+    "alias": "Cabbiya"
+  },
+  {
+    "code": "35.29.050.003",
+    "villageCode": "003",
+    "districtCode": "35.29.050",
+    "name": "Essang",
+    "alias": "Essang"
+  },
+  {
+    "code": "35.29.050.004",
+    "villageCode": "004",
+    "districtCode": "35.29.050",
+    "name": "Kombang",
+    "alias": "Kombang"
+  },
+  {
+    "code": "35.29.050.005",
+    "villageCode": "005",
+    "districtCode": "35.29.050",
+    "name": "Poteran",
+    "alias": "Poteran"
+  },
+  {
+    "code": "35.29.050.006",
+    "villageCode": "006",
+    "districtCode": "35.29.050",
+    "name": "Palasa",
+    "alias": "Palasa"
+  },
+  {
+    "code": "35.29.050.007",
+    "villageCode": "007",
+    "districtCode": "35.29.050",
+    "name": "Gapurana",
+    "alias": "Gapurana"
+  },
+  {
+    "code": "35.29.050.008",
+    "villageCode": "008",
+    "districtCode": "35.29.050",
+    "name": "Talango",
+    "alias": "Talango"
+  }
+]

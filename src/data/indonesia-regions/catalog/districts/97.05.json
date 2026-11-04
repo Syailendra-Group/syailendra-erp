@@ -1,0 +1,42 @@
+[
+  {
+    "code": "97.05.010",
+    "districtCode": "010",
+    "regencyCode": "97.05",
+    "provinceCode": "97",
+    "name": "Kecamatan Kobakma",
+    "alias": "Kobakma"
+  },
+  {
+    "code": "97.05.020",
+    "districtCode": "020",
+    "regencyCode": "97.05",
+    "provinceCode": "97",
+    "name": "Kecamatan Ilugwa",
+    "alias": "Ilugwa"
+  },
+  {
+    "code": "97.05.030",
+    "districtCode": "030",
+    "regencyCode": "97.05",
+    "provinceCode": "97",
+    "name": "Kecamatan Kelila",
+    "alias": "Kelila"
+  },
+  {
+    "code": "97.05.040",
+    "districtCode": "040",
+    "regencyCode": "97.05",
+    "provinceCode": "97",
+    "name": "Kecamatan Eragayam",
+    "alias": "Eragayam"
+  },
+  {
+    "code": "97.05.050",
+    "districtCode": "050",
+    "regencyCode": "97.05",
+    "provinceCode": "97",
+    "name": "Kecamatan Megambilis",
+    "alias": "Megambilis"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "code": "74.05.102.001",
+    "villageCode": "001",
+    "districtCode": "74.05.102",
+    "name": "Koronua",
+    "alias": "Koronua"
+  },
+  {
+    "code": "74.05.102.002",
+    "villageCode": "002",
+    "districtCode": "74.05.102",
+    "name": "Watu-Watu",
+    "alias": "Watu-Watu"
+  },
+  {
+    "code": "74.05.102.003",
+    "villageCode": "003",
+    "districtCode": "74.05.102",
+    "name": "Ulu Sabulakoa",
+    "alias": "Ulu Sabulakoa"
+  },
+  {
+    "code": "74.05.102.005",
+    "villageCode": "005",
+    "districtCode": "74.05.102",
+    "name": "Wonua Koa",
+    "alias": "Wonua Koa"
+  },
+  {
+    "code": "74.05.102.006",
+    "villageCode": "006",
+    "districtCode": "74.05.102",
+    "name": "Sabulakoa",
+    "alias": "Sabulakoa"
+  },
+  {
+    "code": "74.05.102.007",
+    "villageCode": "007",
+    "districtCode": "74.05.102",
+    "name": "Talumbinga Jaya",
+    "alias": "Talumbinga Jaya"
+  },
+  {
+    "code": "74.05.102.008",
+    "villageCode": "008",
+    "districtCode": "74.05.102",
+    "name": "Tetenggabo",
+    "alias": "Tetenggabo"
+  },
+  {
+    "code": "74.05.102.009",
+    "villageCode": "009",
+    "districtCode": "74.05.102",
+    "name": "Asaria",
+    "alias": "Asaria"
+  },
+  {
+    "code": "74.05.102.010",
+    "villageCode": "010",
+    "districtCode": "74.05.102",
+    "name": "Wawobende",
+    "alias": "Wawobende"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "code": "82.02.032.001",
+    "villageCode": "001",
+    "districtCode": "82.02.032",
+    "name": "Gemaf",
+    "alias": "Gemaf"
+  },
+  {
+    "code": "82.02.032.002",
+    "villageCode": "002",
+    "districtCode": "82.02.032",
+    "name": "Sagea",
+    "alias": "Sagea"
+  },
+  {
+    "code": "82.02.032.003",
+    "villageCode": "003",
+    "districtCode": "82.02.032",
+    "name": "Fritu",
+    "alias": "Fritu"
+  },
+  {
+    "code": "82.02.032.004",
+    "villageCode": "004",
+    "districtCode": "82.02.032",
+    "name": "Waleh",
+    "alias": "Waleh"
+  },
+  {
+    "code": "82.02.032.008",
+    "villageCode": "008",
+    "districtCode": "82.02.032",
+    "name": "Desa Persiapan Trans Sp I",
+    "alias": "Desa Persiapan Trans Sp I"
+  },
+  {
+    "code": "82.02.032.009",
+    "villageCode": "009",
+    "districtCode": "82.02.032",
+    "name": "Kiya",
+    "alias": "Kiya"
+  },
+  {
+    "code": "82.02.032.010",
+    "villageCode": "010",
+    "districtCode": "82.02.032",
+    "name": "Upt Waleh Sp3",
+    "alias": "Upt Waleh Sp3"
+  }
+]

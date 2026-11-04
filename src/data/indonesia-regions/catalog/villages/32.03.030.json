@@ -1,0 +1,100 @@
+[
+  {
+    "code": "32.03.030.001",
+    "villageCode": "001",
+    "districtCode": "32.03.030",
+    "name": "Karyabakti",
+    "alias": "Karyabakti"
+  },
+  {
+    "code": "32.03.030.002",
+    "villageCode": "002",
+    "districtCode": "32.03.030",
+    "name": "Sukapura",
+    "alias": "Sukapura"
+  },
+  {
+    "code": "32.03.030.003",
+    "villageCode": "003",
+    "districtCode": "32.03.030",
+    "name": "Cisalak",
+    "alias": "Cisalak"
+  },
+  {
+    "code": "32.03.030.004",
+    "villageCode": "004",
+    "districtCode": "32.03.030",
+    "name": "Jayapura",
+    "alias": "Jayapura"
+  },
+  {
+    "code": "32.03.030.005",
+    "villageCode": "005",
+    "districtCode": "32.03.030",
+    "name": "Kertajadi",
+    "alias": "Kertajadi"
+  },
+  {
+    "code": "32.03.030.006",
+    "villageCode": "006",
+    "districtCode": "32.03.030",
+    "name": "Cidamar",
+    "alias": "Cidamar"
+  },
+  {
+    "code": "32.03.030.007",
+    "villageCode": "007",
+    "districtCode": "32.03.030",
+    "name": "Karangwangi",
+    "alias": "Karangwangi"
+  },
+  {
+    "code": "32.03.030.008",
+    "villageCode": "008",
+    "districtCode": "32.03.030",
+    "name": "Cimaragang",
+    "alias": "Cimaragang"
+  },
+  {
+    "code": "32.03.030.009",
+    "villageCode": "009",
+    "districtCode": "32.03.030",
+    "name": "Gelarpawitan",
+    "alias": "Gelarpawitan"
+  },
+  {
+    "code": "32.03.030.010",
+    "villageCode": "010",
+    "districtCode": "32.03.030",
+    "name": "Neglasari",
+    "alias": "Neglasari"
+  },
+  {
+    "code": "32.03.030.011",
+    "villageCode": "011",
+    "districtCode": "32.03.030",
+    "name": "Cibuluh",
+    "alias": "Cibuluh"
+  },
+  {
+    "code": "32.03.030.012",
+    "villageCode": "012",
+    "districtCode": "32.03.030",
+    "name": "Puncakbaru",
+    "alias": "Puncakbaru"
+  },
+  {
+    "code": "32.03.030.013",
+    "villageCode": "013",
+    "districtCode": "32.03.030",
+    "name": "Mekarjaya",
+    "alias": "Mekarjaya"
+  },
+  {
+    "code": "32.03.030.014",
+    "villageCode": "014",
+    "districtCode": "32.03.030",
+    "name": "Gelarwangi",
+    "alias": "Gelarwangi"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "code": "16.73.010.001",
+    "villageCode": "001",
+    "districtCode": "16.73.010",
+    "name": "Penjalang",
+    "alias": "Penjalang"
+  },
+  {
+    "code": "16.73.010.002",
+    "villageCode": "002",
+    "districtCode": "16.73.010",
+    "name": "Lubuk Buntak",
+    "alias": "Lubuk Buntak"
+  },
+  {
+    "code": "16.73.010.003",
+    "villageCode": "003",
+    "districtCode": "16.73.010",
+    "name": "Perahu Dipo",
+    "alias": "Perahu Dipo"
+  },
+  {
+    "code": "16.73.010.004",
+    "villageCode": "004",
+    "districtCode": "16.73.010",
+    "name": "Kance Diwe",
+    "alias": "Kance Diwe"
+  },
+  {
+    "code": "16.73.010.005",
+    "villageCode": "005",
+    "districtCode": "16.73.010",
+    "name": "Atung Bungsu",
+    "alias": "Atung Bungsu"
+  }
+]

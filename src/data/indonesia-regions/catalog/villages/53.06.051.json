@@ -1,0 +1,44 @@
+[
+  {
+    "code": "53.06.051.001",
+    "villageCode": "001",
+    "districtCode": "53.06.051",
+    "name": "Fatukety",
+    "alias": "Fatukety"
+  },
+  {
+    "code": "53.06.051.002",
+    "villageCode": "002",
+    "districtCode": "53.06.051",
+    "name": "Kabuna",
+    "alias": "Kabuna"
+  },
+  {
+    "code": "53.06.051.003",
+    "villageCode": "003",
+    "districtCode": "53.06.051",
+    "name": "Kenebibi",
+    "alias": "Kenebibi"
+  },
+  {
+    "code": "53.06.051.004",
+    "villageCode": "004",
+    "districtCode": "53.06.051",
+    "name": "Jenilu",
+    "alias": "Jenilu"
+  },
+  {
+    "code": "53.06.051.005",
+    "villageCode": "005",
+    "districtCode": "53.06.051",
+    "name": "Leosama",
+    "alias": "Leosama"
+  },
+  {
+    "code": "53.06.051.006",
+    "villageCode": "006",
+    "districtCode": "53.06.051",
+    "name": "Dualaus",
+    "alias": "Dualaus"
+  }
+]

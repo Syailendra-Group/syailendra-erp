@@ -1,0 +1,74 @@
+[
+  {
+    "code": "18.12.010",
+    "districtCode": "010",
+    "regencyCode": "18.12",
+    "provinceCode": "18",
+    "name": "Kecamatan Tulang Bawang Udik",
+    "alias": "Tulang Bawang Udik"
+  },
+  {
+    "code": "18.12.020",
+    "districtCode": "020",
+    "regencyCode": "18.12",
+    "provinceCode": "18",
+    "name": "Kecamatan Tumi Jajar",
+    "alias": "Tumi Jajar"
+  },
+  {
+    "code": "18.12.030",
+    "districtCode": "030",
+    "regencyCode": "18.12",
+    "provinceCode": "18",
+    "name": "Kecamatan Tulang Bawang Tengah",
+    "alias": "Tulang Bawang Tengah"
+  },
+  {
+    "code": "18.12.040",
+    "districtCode": "040",
+    "regencyCode": "18.12",
+    "provinceCode": "18",
+    "name": "Kecamatan Pagar Dewa",
+    "alias": "Pagar Dewa"
+  },
+  {
+    "code": "18.12.050",
+    "districtCode": "050",
+    "regencyCode": "18.12",
+    "provinceCode": "18",
+    "name": "Kecamatan Lambu Kibang",
+    "alias": "Lambu Kibang"
+  },
+  {
+    "code": "18.12.060",
+    "districtCode": "060",
+    "regencyCode": "18.12",
+    "provinceCode": "18",
+    "name": "Kecamatan Gunung Terang",
+    "alias": "Gunung Terang"
+  },
+  {
+    "code": "18.12.061",
+    "districtCode": "061",
+    "regencyCode": "18.12",
+    "provinceCode": "18",
+    "name": "Kecamatan Batu Putih",
+    "alias": "Batu Putih"
+  },
+  {
+    "code": "18.12.070",
+    "districtCode": "070",
+    "regencyCode": "18.12",
+    "provinceCode": "18",
+    "name": "Kecamatan Gunung Agung",
+    "alias": "Gunung Agung"
+  },
+  {
+    "code": "18.12.080",
+    "districtCode": "080",
+    "regencyCode": "18.12",
+    "provinceCode": "18",
+    "name": "Kecamatan Way Kenanga",
+    "alias": "Way Kenanga"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "code": "33.13.140.001",
+    "villageCode": "001",
+    "districtCode": "33.13.140",
+    "name": "Kemiri",
+    "alias": "Kemiri"
+  },
+  {
+    "code": "33.13.140.002",
+    "villageCode": "002",
+    "districtCode": "33.13.140",
+    "name": "Nangsri",
+    "alias": "Nangsri"
+  },
+  {
+    "code": "33.13.140.003",
+    "villageCode": "003",
+    "districtCode": "33.13.140",
+    "name": "Macanan",
+    "alias": "Macanan"
+  },
+  {
+    "code": "33.13.140.004",
+    "villageCode": "004",
+    "districtCode": "33.13.140",
+    "name": "Alastuwo",
+    "alias": "Alastuwo"
+  },
+  {
+    "code": "33.13.140.005",
+    "villageCode": "005",
+    "districtCode": "33.13.140",
+    "name": "Banjarharjo",
+    "alias": "Banjarharjo"
+  },
+  {
+    "code": "33.13.140.006",
+    "villageCode": "006",
+    "districtCode": "33.13.140",
+    "name": "Malanggaten",
+    "alias": "Malanggaten"
+  },
+  {
+    "code": "33.13.140.007",
+    "villageCode": "007",
+    "districtCode": "33.13.140",
+    "name": "Kaliwuluh",
+    "alias": "Kaliwuluh"
+  },
+  {
+    "code": "33.13.140.008",
+    "villageCode": "008",
+    "districtCode": "33.13.140",
+    "name": "Pulosari",
+    "alias": "Pulosari"
+  },
+  {
+    "code": "33.13.140.009",
+    "villageCode": "009",
+    "districtCode": "33.13.140",
+    "name": "Kebak",
+    "alias": "Kebak"
+  },
+  {
+    "code": "33.13.140.010",
+    "villageCode": "010",
+    "districtCode": "33.13.140",
+    "name": "Waru",
+    "alias": "Waru"
+  }
+]

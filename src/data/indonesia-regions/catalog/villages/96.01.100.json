@@ -1,0 +1,100 @@
+[
+  {
+    "code": "96.01.100.001",
+    "villageCode": "001",
+    "districtCode": "96.01.100",
+    "name": "Tembagapura",
+    "alias": "Tembagapura"
+  },
+  {
+    "code": "96.01.100.002",
+    "villageCode": "002",
+    "districtCode": "96.01.100",
+    "name": "Waa",
+    "alias": "Waa"
+  },
+  {
+    "code": "96.01.100.003",
+    "villageCode": "003",
+    "districtCode": "96.01.100",
+    "name": "Arwandop",
+    "alias": "Arwandop"
+  },
+  {
+    "code": "96.01.100.004",
+    "villageCode": "004",
+    "districtCode": "96.01.100",
+    "name": "Tsinga",
+    "alias": "Tsinga"
+  },
+  {
+    "code": "96.01.100.006",
+    "villageCode": "006",
+    "districtCode": "96.01.100",
+    "name": "Jagamin",
+    "alias": "Jagamin"
+  },
+  {
+    "code": "96.01.100.007",
+    "villageCode": "007",
+    "districtCode": "96.01.100",
+    "name": "Opitawak",
+    "alias": "Opitawak"
+  },
+  {
+    "code": "96.01.100.008",
+    "villageCode": "008",
+    "districtCode": "96.01.100",
+    "name": "Doliningokngin",
+    "alias": "Doliningokngin"
+  },
+  {
+    "code": "96.01.100.009",
+    "villageCode": "009",
+    "districtCode": "96.01.100",
+    "name": "Banigogom",
+    "alias": "Banigogom"
+  },
+  {
+    "code": "96.01.100.010",
+    "villageCode": "010",
+    "districtCode": "96.01.100",
+    "name": "Banti Ii",
+    "alias": "Banti Ii"
+  },
+  {
+    "code": "96.01.100.011",
+    "villageCode": "011",
+    "districtCode": "96.01.100",
+    "name": "Aingongin",
+    "alias": "Aingongin"
+  },
+  {
+    "code": "96.01.100.012",
+    "villageCode": "012",
+    "districtCode": "96.01.100",
+    "name": "Baluni",
+    "alias": "Baluni"
+  },
+  {
+    "code": "96.01.100.013",
+    "villageCode": "013",
+    "districtCode": "96.01.100",
+    "name": "Noselanop",
+    "alias": "Noselanop"
+  },
+  {
+    "code": "96.01.100.014",
+    "villageCode": "014",
+    "districtCode": "96.01.100",
+    "name": "Jongkkogoma",
+    "alias": "Jongkkogoma"
+  },
+  {
+    "code": "96.01.100.015",
+    "villageCode": "015",
+    "districtCode": "96.01.100",
+    "name": "Minipogom",
+    "alias": "Minipogom"
+  }
+]

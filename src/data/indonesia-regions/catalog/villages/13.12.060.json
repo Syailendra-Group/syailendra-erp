@@ -1,0 +1,51 @@
+[
+  {
+    "code": "13.12.060.001",
+    "villageCode": "001",
+    "districtCode": "13.12.060",
+    "name": "Muaro Kiawai",
+    "alias": "Muaro Kiawai"
+  },
+  {
+    "code": "13.12.060.002",
+    "villageCode": "002",
+    "districtCode": "13.12.060",
+    "name": "Rabi Jonggor",
+    "alias": "Rabi Jonggor"
+  },
+  {
+    "code": "13.12.060.003",
+    "villageCode": "003",
+    "districtCode": "13.12.060",
+    "name": "Muaro Kiawai Barat",
+    "alias": "Muaro Kiawai Barat"
+  },
+  {
+    "code": "13.12.060.004",
+    "villageCode": "004",
+    "districtCode": "13.12.060",
+    "name": "Muaro Kiawai Hilir",
+    "alias": "Muaro Kiawai Hilir"
+  },
+  {
+    "code": "13.12.060.005",
+    "villageCode": "005",
+    "districtCode": "13.12.060",
+    "name": "Seberang Kenaikan",
+    "alias": "Seberang Kenaikan"
+  },
+  {
+    "code": "13.12.060.006",
+    "villageCode": "006",
+    "districtCode": "13.12.060",
+    "name": "Bahoras",
+    "alias": "Bahoras"
+  },
+  {
+    "code": "13.12.060.007",
+    "villageCode": "007",
+    "districtCode": "13.12.060",
+    "name": "Sungai Magelang",
+    "alias": "Sungai Magelang"
+  }
+]

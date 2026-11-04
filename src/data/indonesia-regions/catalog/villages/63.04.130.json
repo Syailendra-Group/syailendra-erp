@@ -1,0 +1,65 @@
+[
+  {
+    "code": "63.04.130.001",
+    "villageCode": "001",
+    "districtCode": "63.04.130",
+    "name": "Batik",
+    "alias": "Batik"
+  },
+  {
+    "code": "63.04.130.002",
+    "villageCode": "002",
+    "districtCode": "63.04.130",
+    "name": "Lepasan",
+    "alias": "Lepasan"
+  },
+  {
+    "code": "63.04.130.003",
+    "villageCode": "003",
+    "districtCode": "63.04.130",
+    "name": "Bahalayung",
+    "alias": "Bahalayung"
+  },
+  {
+    "code": "63.04.130.004",
+    "villageCode": "004",
+    "districtCode": "63.04.130",
+    "name": "Benua Anyar",
+    "alias": "Benua Anyar"
+  },
+  {
+    "code": "63.04.130.005",
+    "villageCode": "005",
+    "districtCode": "63.04.130",
+    "name": "Murung Raya",
+    "alias": "Murung Raya"
+  },
+  {
+    "code": "63.04.130.006",
+    "villageCode": "006",
+    "districtCode": "63.04.130",
+    "name": "Sungai Lirik",
+    "alias": "Sungai Lirik"
+  },
+  {
+    "code": "63.04.130.007",
+    "villageCode": "007",
+    "districtCode": "63.04.130",
+    "name": "Banitan",
+    "alias": "Banitan"
+  },
+  {
+    "code": "63.04.130.008",
+    "villageCode": "008",
+    "districtCode": "63.04.130",
+    "name": "Palingkau",
+    "alias": "Palingkau"
+  },
+  {
+    "code": "63.04.130.009",
+    "villageCode": "009",
+    "districtCode": "63.04.130",
+    "name": "Balukung",
+    "alias": "Balukung"
+  }
+]

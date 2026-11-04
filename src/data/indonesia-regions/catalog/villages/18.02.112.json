@@ -1,0 +1,79 @@
+[
+  {
+    "code": "18.02.112.001",
+    "villageCode": "001",
+    "districtCode": "18.02.112",
+    "name": "Badak",
+    "alias": "Badak"
+  },
+  {
+    "code": "18.02.112.002",
+    "villageCode": "002",
+    "districtCode": "18.02.112",
+    "name": "Kuripan",
+    "alias": "Kuripan"
+  },
+  {
+    "code": "18.02.112.003",
+    "villageCode": "003",
+    "districtCode": "18.02.112",
+    "name": "Tegineneng",
+    "alias": "Tegineneng"
+  },
+  {
+    "code": "18.02.112.004",
+    "villageCode": "004",
+    "districtCode": "18.02.112",
+    "name": "Ketapang",
+    "alias": "Ketapang"
+  },
+  {
+    "code": "18.02.112.005",
+    "villageCode": "005",
+    "districtCode": "18.02.112",
+    "name": "Padang Ratu",
+    "alias": "Padang Ratu"
+  },
+  {
+    "code": "18.02.112.006",
+    "villageCode": "006",
+    "districtCode": "18.02.112",
+    "name": "Banjar Agung",
+    "alias": "Banjar Agung"
+  },
+  {
+    "code": "18.02.112.007",
+    "villageCode": "007",
+    "districtCode": "18.02.112",
+    "name": "Pekon Ampai",
+    "alias": "Pekon Ampai"
+  },
+  {
+    "code": "18.02.112.008",
+    "villageCode": "008",
+    "districtCode": "18.02.112",
+    "name": "Pariaman",
+    "alias": "Pariaman"
+  },
+  {
+    "code": "18.02.112.009",
+    "villageCode": "009",
+    "districtCode": "18.02.112",
+    "name": "Antarbrak",
+    "alias": "Antarbrak"
+  },
+  {
+    "code": "18.02.112.010",
+    "villageCode": "010",
+    "districtCode": "18.02.112",
+    "name": "Tanjung Siom",
+    "alias": "Tanjung Siom"
+  },
+  {
+    "code": "18.02.112.011",
+    "villageCode": "011",
+    "districtCode": "18.02.112",
+    "name": "Tanjung Jaya",
+    "alias": "Tanjung Jaya"
+  }
+]

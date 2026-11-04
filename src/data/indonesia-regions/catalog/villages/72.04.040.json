@@ -1,0 +1,51 @@
+[
+  {
+    "code": "72.04.040.009",
+    "villageCode": "009",
+    "districtCode": "72.04.040",
+    "name": "Dodolo",
+    "alias": "Dodolo"
+  },
+  {
+    "code": "72.04.040.017",
+    "villageCode": "017",
+    "districtCode": "72.04.040",
+    "name": "Kaduwaa",
+    "alias": "Kaduwaa"
+  },
+  {
+    "code": "72.04.040.018",
+    "villageCode": "018",
+    "districtCode": "72.04.040",
+    "name": "Alitupu",
+    "alias": "Alitupu"
+  },
+  {
+    "code": "72.04.040.019",
+    "villageCode": "019",
+    "districtCode": "72.04.040",
+    "name": "Wuasa",
+    "alias": "Wuasa"
+  },
+  {
+    "code": "72.04.040.020",
+    "villageCode": "020",
+    "districtCode": "72.04.040",
+    "name": "Watumaeta",
+    "alias": "Watumaeta"
+  },
+  {
+    "code": "72.04.040.021",
+    "villageCode": "021",
+    "districtCode": "72.04.040",
+    "name": "Sedoa",
+    "alias": "Sedoa"
+  },
+  {
+    "code": "72.04.040.022",
+    "villageCode": "022",
+    "districtCode": "72.04.040",
+    "name": "Bumi Banyusari",
+    "alias": "Bumi Banyusari"
+  }
+]

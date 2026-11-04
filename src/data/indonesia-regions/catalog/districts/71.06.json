@@ -1,0 +1,82 @@
+[
+  {
+    "code": "71.06.010",
+    "districtCode": "010",
+    "regencyCode": "71.06",
+    "provinceCode": "71",
+    "name": "Kecamatan Kema",
+    "alias": "Kema"
+  },
+  {
+    "code": "71.06.020",
+    "districtCode": "020",
+    "regencyCode": "71.06",
+    "provinceCode": "71",
+    "name": "Kecamatan Kauditan",
+    "alias": "Kauditan"
+  },
+  {
+    "code": "71.06.030",
+    "districtCode": "030",
+    "regencyCode": "71.06",
+    "provinceCode": "71",
+    "name": "Kecamatan Airmadidi",
+    "alias": "Airmadidi"
+  },
+  {
+    "code": "71.06.040",
+    "districtCode": "040",
+    "regencyCode": "71.06",
+    "provinceCode": "71",
+    "name": "Kecamatan Kalawat",
+    "alias": "Kalawat"
+  },
+  {
+    "code": "71.06.050",
+    "districtCode": "050",
+    "regencyCode": "71.06",
+    "provinceCode": "71",
+    "name": "Kecamatan Dimembe",
+    "alias": "Dimembe"
+  },
+  {
+    "code": "71.06.051",
+    "districtCode": "051",
+    "regencyCode": "71.06",
+    "provinceCode": "71",
+    "name": "Kecamatan Talawaan",
+    "alias": "Talawaan"
+  },
+  {
+    "code": "71.06.060",
+    "districtCode": "060",
+    "regencyCode": "71.06",
+    "provinceCode": "71",
+    "name": "Kecamatan Wori",
+    "alias": "Wori"
+  },
+  {
+    "code": "71.06.070",
+    "districtCode": "070",
+    "regencyCode": "71.06",
+    "provinceCode": "71",
+    "name": "Kecamatan Likupang Barat",
+    "alias": "Likupang Barat"
+  },
+  {
+    "code": "71.06.080",
+    "districtCode": "080",
+    "regencyCode": "71.06",
+    "provinceCode": "71",
+    "name": "Kecamatan Likupang Timur",
+    "alias": "Likupang Timur"
+  },
+  {
+    "code": "71.06.081",
+    "districtCode": "081",
+    "regencyCode": "71.06",
+    "provinceCode": "71",
+    "name": "Kecamatan Likupang Selatan",
+    "alias": "Likupang Selatan"
+  }
+]

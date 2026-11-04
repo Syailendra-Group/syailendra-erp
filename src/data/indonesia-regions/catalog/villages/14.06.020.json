@@ -1,0 +1,93 @@
+[
+  {
+    "code": "14.06.020.001",
+    "villageCode": "001",
+    "districtCode": "14.06.020",
+    "name": "Balung",
+    "alias": "Balung"
+  },
+  {
+    "code": "14.06.020.002",
+    "villageCode": "002",
+    "districtCode": "14.06.020",
+    "name": "Pulau Gadang",
+    "alias": "Pulau Gadang"
+  },
+  {
+    "code": "14.06.020.003",
+    "villageCode": "003",
+    "districtCode": "14.06.020",
+    "name": "Tanjung Alai",
+    "alias": "Tanjung Alai"
+  },
+  {
+    "code": "14.06.020.004",
+    "villageCode": "004",
+    "districtCode": "14.06.020",
+    "name": "Batu Bersurat",
+    "alias": "Batu Bersurat"
+  },
+  {
+    "code": "14.06.020.005",
+    "villageCode": "005",
+    "districtCode": "14.06.020",
+    "name": "Koto Tuo",
+    "alias": "Koto Tuo"
+  },
+  {
+    "code": "14.06.020.006",
+    "villageCode": "006",
+    "districtCode": "14.06.020",
+    "name": "Muara Takus",
+    "alias": "Muara Takus"
+  },
+  {
+    "code": "14.06.020.007",
+    "villageCode": "007",
+    "districtCode": "14.06.020",
+    "name": "Gunung Bungsu",
+    "alias": "Gunung Bungsu"
+  },
+  {
+    "code": "14.06.020.013",
+    "villageCode": "013",
+    "districtCode": "14.06.020",
+    "name": "Koto Mesjid",
+    "alias": "Koto Mesjid"
+  },
+  {
+    "code": "14.06.020.014",
+    "villageCode": "014",
+    "districtCode": "14.06.020",
+    "name": "Lubuk Agung",
+    "alias": "Lubuk Agung"
+  },
+  {
+    "code": "14.06.020.015",
+    "villageCode": "015",
+    "districtCode": "14.06.020",
+    "name": "Ranah Sungkai",
+    "alias": "Ranah Sungkai"
+  },
+  {
+    "code": "14.06.020.016",
+    "villageCode": "016",
+    "districtCode": "14.06.020",
+    "name": "Binamang",
+    "alias": "Binamang"
+  },
+  {
+    "code": "14.06.020.017",
+    "villageCode": "017",
+    "districtCode": "14.06.020",
+    "name": "Pongkai Istiqamah",
+    "alias": "Pongkai Istiqamah"
+  },
+  {
+    "code": "14.06.020.024",
+    "villageCode": "024",
+    "districtCode": "14.06.020",
+    "name": "Koto Tuo Barat",
+    "alias": "Koto Tuo Barat"
+  }
+]

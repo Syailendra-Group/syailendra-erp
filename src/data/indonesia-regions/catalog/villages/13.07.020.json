@@ -1,0 +1,72 @@
+[
+  {
+    "code": "13.07.020.001",
+    "villageCode": "001",
+    "districtCode": "13.07.020",
+    "name": "Manggopoh",
+    "alias": "Manggopoh"
+  },
+  {
+    "code": "13.07.020.002",
+    "villageCode": "002",
+    "districtCode": "13.07.020",
+    "name": "Garagahan",
+    "alias": "Garagahan"
+  },
+  {
+    "code": "13.07.020.003",
+    "villageCode": "003",
+    "districtCode": "13.07.020",
+    "name": "Kampuang Tangah",
+    "alias": "Kampuang Tangah"
+  },
+  {
+    "code": "13.07.020.004",
+    "villageCode": "004",
+    "districtCode": "13.07.020",
+    "name": "Kampung Pinang",
+    "alias": "Kampung Pinang"
+  },
+  {
+    "code": "13.07.020.005",
+    "villageCode": "005",
+    "districtCode": "13.07.020",
+    "name": "Lubuk Basung",
+    "alias": "Lubuk Basung"
+  },
+  {
+    "code": "13.07.020.006",
+    "villageCode": "006",
+    "districtCode": "13.07.020",
+    "name": "Nagari Persiapan Kandih Lubuk Basung",
+    "alias": "Nagari Persiapan Kandih Lubuk Basung"
+  },
+  {
+    "code": "13.07.020.007",
+    "villageCode": "007",
+    "districtCode": "13.07.020",
+    "name": "Nagari Persiapan Sangkir Lubuk Basung",
+    "alias": "Nagari Persiapan Sangkir Lubuk Basung"
+  },
+  {
+    "code": "13.07.020.008",
+    "villageCode": "008",
+    "districtCode": "13.07.020",
+    "name": "Nagari Persiapan Surabayo Lubuk Basung",
+    "alias": "Nagari Persiapan Surabayo Lubuk Basung"
+  },
+  {
+    "code": "13.07.020.009",
+    "villageCode": "009",
+    "districtCode": "13.07.020",
+    "name": "Nagari Persiapan Sungai Jariang Lubuk Basung",
+    "alias": "Nagari Persiapan Sungai Jariang Lubuk Basung"
+  },
+  {
+    "code": "13.07.020.010",
+    "villageCode": "010",
+    "districtCode": "13.07.020",
+    "name": "Nagari Persiapan Parit Panjang Lubuk Basung",
+    "alias": "Nagari Persiapan Parit Panjang Lubuk Basung"
+  }
+]

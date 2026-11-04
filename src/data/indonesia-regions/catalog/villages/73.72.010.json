@@ -1,0 +1,30 @@
+[
+  {
+    "code": "73.72.010.002",
+    "villageCode": "002",
+    "districtCode": "73.72.010",
+    "name": "Watang Bacukiki",
+    "alias": "Watang Bacukiki"
+  },
+  {
+    "code": "73.72.010.003",
+    "villageCode": "003",
+    "districtCode": "73.72.010",
+    "name": "Lemoe",
+    "alias": "Lemoe"
+  },
+  {
+    "code": "73.72.010.004",
+    "villageCode": "004",
+    "districtCode": "73.72.010",
+    "name": "Lompoe",
+    "alias": "Lompoe"
+  },
+  {
+    "code": "73.72.010.005",
+    "villageCode": "005",
+    "districtCode": "73.72.010",
+    "name": "Galung Maloang",
+    "alias": "Galung Maloang"
+  }
+]

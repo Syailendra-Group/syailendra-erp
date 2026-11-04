@@ -1,0 +1,44 @@
+[
+  {
+    "code": "11.08.021.001",
+    "villageCode": "001",
+    "districtCode": "11.08.021",
+    "name": "Layeun",
+    "alias": "Layeun"
+  },
+  {
+    "code": "11.08.021.002",
+    "villageCode": "002",
+    "districtCode": "11.08.021",
+    "name": "Pulot",
+    "alias": "Pulot"
+  },
+  {
+    "code": "11.08.021.003",
+    "villageCode": "003",
+    "districtCode": "11.08.021",
+    "name": "Lamseunia",
+    "alias": "Lamseunia"
+  },
+  {
+    "code": "11.08.021.004",
+    "villageCode": "004",
+    "districtCode": "11.08.021",
+    "name": "Meunasah Mesjid",
+    "alias": "Meunasah Mesjid"
+  },
+  {
+    "code": "11.08.021.005",
+    "villageCode": "005",
+    "districtCode": "11.08.021",
+    "name": "Meunasah Bak U",
+    "alias": "Meunasah Bak U"
+  },
+  {
+    "code": "11.08.021.006",
+    "villageCode": "006",
+    "districtCode": "11.08.021",
+    "name": "Dayah Mamplam",
+    "alias": "Dayah Mamplam"
+  }
+]

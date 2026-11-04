@@ -1,0 +1,72 @@
+[
+  {
+    "code": "15.08.041.001",
+    "villageCode": "001",
+    "districtCode": "15.08.041",
+    "name": "Tanjung Pucuk Jambi",
+    "alias": "Tanjung Pucuk Jambi"
+  },
+  {
+    "code": "15.08.041.002",
+    "villageCode": "002",
+    "districtCode": "15.08.041",
+    "name": "Kuamang",
+    "alias": "Kuamang"
+  },
+  {
+    "code": "15.08.041.003",
+    "villageCode": "003",
+    "districtCode": "15.08.041",
+    "name": "Teluk Kayu Putih",
+    "alias": "Teluk Kayu Putih"
+  },
+  {
+    "code": "15.08.041.006",
+    "villageCode": "006",
+    "districtCode": "15.08.041",
+    "name": "Dusun Baru",
+    "alias": "Dusun Baru"
+  },
+  {
+    "code": "15.08.041.011",
+    "villageCode": "011",
+    "districtCode": "15.08.041",
+    "name": "Muara Niro",
+    "alias": "Muara Niro"
+  },
+  {
+    "code": "15.08.041.012",
+    "villageCode": "012",
+    "districtCode": "15.08.041",
+    "name": "Aur Cino",
+    "alias": "Aur Cino"
+  },
+  {
+    "code": "15.08.041.013",
+    "villageCode": "013",
+    "districtCode": "15.08.041",
+    "name": "Sungai Abang",
+    "alias": "Sungai Abang"
+  },
+  {
+    "code": "15.08.041.014",
+    "villageCode": "014",
+    "districtCode": "15.08.041",
+    "name": "Teluk Lancang",
+    "alias": "Teluk Lancang"
+  },
+  {
+    "code": "15.08.041.015",
+    "villageCode": "015",
+    "districtCode": "15.08.041",
+    "name": "Muara Tabun",
+    "alias": "Muara Tabun"
+  },
+  {
+    "code": "15.08.041.016",
+    "villageCode": "016",
+    "districtCode": "15.08.041",
+    "name": "Tabun",
+    "alias": "Tabun"
+  }
+]

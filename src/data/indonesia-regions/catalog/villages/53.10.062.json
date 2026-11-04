@@ -1,0 +1,51 @@
+[
+  {
+    "code": "53.10.062.001",
+    "villageCode": "001",
+    "districtCode": "53.10.062",
+    "name": "Koting C",
+    "alias": "Koting C"
+  },
+  {
+    "code": "53.10.062.002",
+    "villageCode": "002",
+    "districtCode": "53.10.062",
+    "name": "Koting D",
+    "alias": "Koting D"
+  },
+  {
+    "code": "53.10.062.003",
+    "villageCode": "003",
+    "districtCode": "53.10.062",
+    "name": "Paubekor",
+    "alias": "Paubekor"
+  },
+  {
+    "code": "53.10.062.004",
+    "villageCode": "004",
+    "districtCode": "53.10.062",
+    "name": "Koting B",
+    "alias": "Koting B"
+  },
+  {
+    "code": "53.10.062.005",
+    "villageCode": "005",
+    "districtCode": "53.10.062",
+    "name": "Koting A",
+    "alias": "Koting A"
+  },
+  {
+    "code": "53.10.062.006",
+    "villageCode": "006",
+    "districtCode": "53.10.062",
+    "name": "Ribang",
+    "alias": "Ribang"
+  },
+  {
+    "code": "53.10.062.007",
+    "villageCode": "007",
+    "districtCode": "53.10.062",
+    "name": "Watu Repa",
+    "alias": "Watu Repa"
+  }
+]

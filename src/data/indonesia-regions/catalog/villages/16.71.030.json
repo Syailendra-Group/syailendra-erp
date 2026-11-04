@@ -1,0 +1,51 @@
+[
+  {
+    "code": "16.71.030.007",
+    "villageCode": "007",
+    "districtCode": "16.71.030",
+    "name": "Sentosa",
+    "alias": "Sentosa"
+  },
+  {
+    "code": "16.71.030.008",
+    "villageCode": "008",
+    "districtCode": "16.71.030",
+    "name": "Enam-Belas Ulu",
+    "alias": "Enam-Belas Ulu"
+  },
+  {
+    "code": "16.71.030.010",
+    "villageCode": "010",
+    "districtCode": "16.71.030",
+    "name": "Tanggatakat",
+    "alias": "Tanggatakat"
+  },
+  {
+    "code": "16.71.030.011",
+    "villageCode": "011",
+    "districtCode": "16.71.030",
+    "name": "Empat-Belas Ulu",
+    "alias": "Empat-Belas Ulu"
+  },
+  {
+    "code": "16.71.030.012",
+    "villageCode": "012",
+    "districtCode": "16.71.030",
+    "name": "Tiga-Belas Ulu",
+    "alias": "Tiga-Belas Ulu"
+  },
+  {
+    "code": "16.71.030.013",
+    "villageCode": "013",
+    "districtCode": "16.71.030",
+    "name": "Dua-Belas Ulu",
+    "alias": "Dua-Belas Ulu"
+  },
+  {
+    "code": "16.71.030.014",
+    "villageCode": "014",
+    "districtCode": "16.71.030",
+    "name": "Sebelas Ulu",
+    "alias": "Sebelas Ulu"
+  }
+]

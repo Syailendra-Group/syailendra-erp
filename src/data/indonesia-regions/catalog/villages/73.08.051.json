@@ -1,0 +1,58 @@
+[
+  {
+    "code": "73.08.051.001",
+    "villageCode": "001",
+    "districtCode": "73.08.051",
+    "name": "Benteng Gajah",
+    "alias": "Benteng Gajah"
+  },
+  {
+    "code": "73.08.051.002",
+    "villageCode": "002",
+    "districtCode": "73.08.051",
+    "name": "Pucak",
+    "alias": "Pucak"
+  },
+  {
+    "code": "73.08.051.003",
+    "villageCode": "003",
+    "districtCode": "73.08.051",
+    "name": "Tompo Bulu",
+    "alias": "Tompo Bulu"
+  },
+  {
+    "code": "73.08.051.004",
+    "villageCode": "004",
+    "districtCode": "73.08.051",
+    "name": "Toddolimae",
+    "alias": "Toddolimae"
+  },
+  {
+    "code": "73.08.051.005",
+    "villageCode": "005",
+    "districtCode": "73.08.051",
+    "name": "Bonto Manai",
+    "alias": "Bonto Manai"
+  },
+  {
+    "code": "73.08.051.006",
+    "villageCode": "006",
+    "districtCode": "73.08.051",
+    "name": "Bontomatinggi",
+    "alias": "Bontomatinggi"
+  },
+  {
+    "code": "73.08.051.007",
+    "villageCode": "007",
+    "districtCode": "73.08.051",
+    "name": "Bonto Manurung",
+    "alias": "Bonto Manurung"
+  },
+  {
+    "code": "73.08.051.008",
+    "villageCode": "008",
+    "districtCode": "73.08.051",
+    "name": "Bonto Somba",
+    "alias": "Bonto Somba"
+  }
+]

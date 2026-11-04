@@ -1,0 +1,26 @@
+[
+  {
+    "code": "35.77.010",
+    "districtCode": "010",
+    "regencyCode": "35.77",
+    "provinceCode": "35",
+    "name": "Kecamatan Mangu Harjo",
+    "alias": "Mangu Harjo"
+  },
+  {
+    "code": "35.77.020",
+    "districtCode": "020",
+    "regencyCode": "35.77",
+    "provinceCode": "35",
+    "name": "Kecamatan Taman",
+    "alias": "Taman"
+  },
+  {
+    "code": "35.77.030",
+    "districtCode": "030",
+    "regencyCode": "35.77",
+    "provinceCode": "35",
+    "name": "Kecamatan Kartoharjo",
+    "alias": "Kartoharjo"
+  }
+]

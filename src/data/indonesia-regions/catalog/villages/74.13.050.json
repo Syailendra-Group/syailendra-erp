@@ -1,0 +1,51 @@
+[
+  {
+    "code": "74.13.050.001",
+    "villageCode": "001",
+    "districtCode": "74.13.050",
+    "name": "Tondasi",
+    "alias": "Tondasi"
+  },
+  {
+    "code": "74.13.050.002",
+    "villageCode": "002",
+    "districtCode": "74.13.050",
+    "name": "Santiri",
+    "alias": "Santiri"
+  },
+  {
+    "code": "74.13.050.003",
+    "villageCode": "003",
+    "districtCode": "74.13.050",
+    "name": "Tasipi",
+    "alias": "Tasipi"
+  },
+  {
+    "code": "74.13.050.004",
+    "villageCode": "004",
+    "districtCode": "74.13.050",
+    "name": "Bero",
+    "alias": "Bero"
+  },
+  {
+    "code": "74.13.050.005",
+    "villageCode": "005",
+    "districtCode": "74.13.050",
+    "name": "Mandike",
+    "alias": "Mandike"
+  },
+  {
+    "code": "74.13.050.006",
+    "villageCode": "006",
+    "districtCode": "74.13.050",
+    "name": "Santigi",
+    "alias": "Santigi"
+  },
+  {
+    "code": "74.13.050.007",
+    "villageCode": "007",
+    "districtCode": "74.13.050",
+    "name": "Tiga",
+    "alias": "Tiga"
+  }
+]

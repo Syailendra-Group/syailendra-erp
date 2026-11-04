@@ -1,0 +1,58 @@
+[
+  {
+    "code": "32.02.060.001",
+    "villageCode": "001",
+    "districtCode": "32.02.060",
+    "name": "Sumberjaya",
+    "alias": "Sumberjaya"
+  },
+  {
+    "code": "32.02.060.002",
+    "villageCode": "002",
+    "districtCode": "32.02.060",
+    "name": "Buniasih",
+    "alias": "Buniasih"
+  },
+  {
+    "code": "32.02.060.003",
+    "villageCode": "003",
+    "districtCode": "32.02.060",
+    "name": "Tegalbuleud",
+    "alias": "Tegalbuleud"
+  },
+  {
+    "code": "32.02.060.004",
+    "villageCode": "004",
+    "districtCode": "32.02.060",
+    "name": "Calingcing",
+    "alias": "Calingcing"
+  },
+  {
+    "code": "32.02.060.005",
+    "villageCode": "005",
+    "districtCode": "32.02.060",
+    "name": "Rambay",
+    "alias": "Rambay"
+  },
+  {
+    "code": "32.02.060.006",
+    "villageCode": "006",
+    "districtCode": "32.02.060",
+    "name": "Nangela",
+    "alias": "Nangela"
+  },
+  {
+    "code": "32.02.060.007",
+    "villageCode": "007",
+    "districtCode": "32.02.060",
+    "name": "Bangbayang",
+    "alias": "Bangbayang"
+  },
+  {
+    "code": "32.02.060.008",
+    "villageCode": "008",
+    "districtCode": "32.02.060",
+    "name": "Sirnamekar",
+    "alias": "Sirnamekar"
+  }
+]

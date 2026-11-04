@@ -1,0 +1,30 @@
+[
+  {
+    "code": "18.72.023.001",
+    "villageCode": "001",
+    "districtCode": "18.72.023",
+    "name": "Banjarsari",
+    "alias": "Banjarsari"
+  },
+  {
+    "code": "18.72.023.002",
+    "villageCode": "002",
+    "districtCode": "18.72.023",
+    "name": "Purwosari",
+    "alias": "Purwosari"
+  },
+  {
+    "code": "18.72.023.003",
+    "villageCode": "003",
+    "districtCode": "18.72.023",
+    "name": "Purwoasri",
+    "alias": "Purwoasri"
+  },
+  {
+    "code": "18.72.023.004",
+    "villageCode": "004",
+    "districtCode": "18.72.023",
+    "name": "Karangrejo",
+    "alias": "Karangrejo"
+  }
+]

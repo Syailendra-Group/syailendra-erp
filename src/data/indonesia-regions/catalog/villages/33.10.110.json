@@ -1,0 +1,100 @@
+[
+  {
+    "code": "33.10.110.001",
+    "villageCode": "001",
+    "districtCode": "33.10.110",
+    "name": "Gumul",
+    "alias": "Gumul"
+  },
+  {
+    "code": "33.10.110.002",
+    "villageCode": "002",
+    "districtCode": "33.10.110",
+    "name": "Banyuaeng",
+    "alias": "Banyuaeng"
+  },
+  {
+    "code": "33.10.110.003",
+    "villageCode": "003",
+    "districtCode": "33.10.110",
+    "name": "Kadilajo",
+    "alias": "Kadilajo"
+  },
+  {
+    "code": "33.10.110.004",
+    "villageCode": "004",
+    "districtCode": "33.10.110",
+    "name": "Somokaton",
+    "alias": "Somokaton"
+  },
+  {
+    "code": "33.10.110.005",
+    "villageCode": "005",
+    "districtCode": "33.10.110",
+    "name": "Jetis",
+    "alias": "Jetis"
+  },
+  {
+    "code": "33.10.110.006",
+    "villageCode": "006",
+    "districtCode": "33.10.110",
+    "name": "Karangnongko",
+    "alias": "Karangnongko"
+  },
+  {
+    "code": "33.10.110.007",
+    "villageCode": "007",
+    "districtCode": "33.10.110",
+    "name": "Jagalan",
+    "alias": "Jagalan"
+  },
+  {
+    "code": "33.10.110.008",
+    "villageCode": "008",
+    "districtCode": "33.10.110",
+    "name": "Demakijo",
+    "alias": "Demakijo"
+  },
+  {
+    "code": "33.10.110.009",
+    "villageCode": "009",
+    "districtCode": "33.10.110",
+    "name": "Blimbing",
+    "alias": "Blimbing"
+  },
+  {
+    "code": "33.10.110.010",
+    "villageCode": "010",
+    "districtCode": "33.10.110",
+    "name": "Kanoman",
+    "alias": "Kanoman"
+  },
+  {
+    "code": "33.10.110.011",
+    "villageCode": "011",
+    "districtCode": "33.10.110",
+    "name": "Gemampir",
+    "alias": "Gemampir"
+  },
+  {
+    "code": "33.10.110.012",
+    "villageCode": "012",
+    "districtCode": "33.10.110",
+    "name": "Logede",
+    "alias": "Logede"
+  },
+  {
+    "code": "33.10.110.013",
+    "villageCode": "013",
+    "districtCode": "33.10.110",
+    "name": "Jiwan",
+    "alias": "Jiwan"
+  },
+  {
+    "code": "33.10.110.014",
+    "villageCode": "014",
+    "districtCode": "33.10.110",
+    "name": "Ngemplak",
+    "alias": "Ngemplak"
+  }
+]

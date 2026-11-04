@@ -1,0 +1,90 @@
+[
+  {
+    "code": "73.14.010",
+    "districtCode": "010",
+    "regencyCode": "73.14",
+    "provinceCode": "73",
+    "name": "Kecamatan Panca Lautang",
+    "alias": "Panca Lautang"
+  },
+  {
+    "code": "73.14.020",
+    "districtCode": "020",
+    "regencyCode": "73.14",
+    "provinceCode": "73",
+    "name": "Kecamatan Tellulimpo E",
+    "alias": "Tellulimpo E"
+  },
+  {
+    "code": "73.14.030",
+    "districtCode": "030",
+    "regencyCode": "73.14",
+    "provinceCode": "73",
+    "name": "Kecamatan Watang Pulu",
+    "alias": "Watang Pulu"
+  },
+  {
+    "code": "73.14.040",
+    "districtCode": "040",
+    "regencyCode": "73.14",
+    "provinceCode": "73",
+    "name": "Kecamatan Baranti",
+    "alias": "Baranti"
+  },
+  {
+    "code": "73.14.050",
+    "districtCode": "050",
+    "regencyCode": "73.14",
+    "provinceCode": "73",
+    "name": "Kecamatan Panca Rijang",
+    "alias": "Panca Rijang"
+  },
+  {
+    "code": "73.14.051",
+    "districtCode": "051",
+    "regencyCode": "73.14",
+    "provinceCode": "73",
+    "name": "Kecamatan Kulo",
+    "alias": "Kulo"
+  },
+  {
+    "code": "73.14.060",
+    "districtCode": "060",
+    "regencyCode": "73.14",
+    "provinceCode": "73",
+    "name": "Kecamatan Maritengngae",
+    "alias": "Maritengngae"
+  },
+  {
+    "code": "73.14.061",
+    "districtCode": "061",
+    "regencyCode": "73.14",
+    "provinceCode": "73",
+    "name": "Kecamatan Watang Sidenreng",
+    "alias": "Watang Sidenreng"
+  },
+  {
+    "code": "73.14.070",
+    "districtCode": "070",
+    "regencyCode": "73.14",
+    "provinceCode": "73",
+    "name": "Kecamatan Pitu Riawa",
+    "alias": "Pitu Riawa"
+  },
+  {
+    "code": "73.14.080",
+    "districtCode": "080",
+    "regencyCode": "73.14",
+    "provinceCode": "73",
+    "name": "Kecamatan Duapitue",
+    "alias": "Duapitue"
+  },
+  {
+    "code": "73.14.081",
+    "districtCode": "081",
+    "regencyCode": "73.14",
+    "provinceCode": "73",
+    "name": "Kecamatan Pitu Riase",
+    "alias": "Pitu Riase"
+  }
+]

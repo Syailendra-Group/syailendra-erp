@@ -1,0 +1,37 @@
+[
+  {
+    "code": "97.01.030.001",
+    "villageCode": "001",
+    "districtCode": "97.01.030",
+    "name": "Nganai",
+    "alias": "Nganai"
+  },
+  {
+    "code": "97.01.030.002",
+    "villageCode": "002",
+    "districtCode": "97.01.030",
+    "name": "Sitgama",
+    "alias": "Sitgama"
+  },
+  {
+    "code": "97.01.030.003",
+    "villageCode": "003",
+    "districtCode": "97.01.030",
+    "name": "Pija",
+    "alias": "Pija"
+  },
+  {
+    "code": "97.01.030.004",
+    "villageCode": "004",
+    "districtCode": "97.01.030",
+    "name": "Murupbaye",
+    "alias": "Murupbaye"
+  },
+  {
+    "code": "97.01.030.005",
+    "villageCode": "005",
+    "districtCode": "97.01.030",
+    "name": "Siat",
+    "alias": "Siat"
+  }
+]

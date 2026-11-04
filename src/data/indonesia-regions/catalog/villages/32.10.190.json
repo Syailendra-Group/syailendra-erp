@@ -1,0 +1,107 @@
+[
+  {
+    "code": "32.10.190.001",
+    "villageCode": "001",
+    "districtCode": "32.10.190",
+    "name": "Biyawak",
+    "alias": "Biyawak"
+  },
+  {
+    "code": "32.10.190.002",
+    "villageCode": "002",
+    "districtCode": "32.10.190",
+    "name": "Pasindangan",
+    "alias": "Pasindangan"
+  },
+  {
+    "code": "32.10.190.003",
+    "villageCode": "003",
+    "districtCode": "32.10.190",
+    "name": "Panongan",
+    "alias": "Panongan"
+  },
+  {
+    "code": "32.10.190.004",
+    "villageCode": "004",
+    "districtCode": "32.10.190",
+    "name": "Panyingkiran",
+    "alias": "Panyingkiran"
+  },
+  {
+    "code": "32.10.190.005",
+    "villageCode": "005",
+    "districtCode": "32.10.190",
+    "name": "Randegan Kulon",
+    "alias": "Randegan Kulon"
+  },
+  {
+    "code": "32.10.190.006",
+    "villageCode": "006",
+    "districtCode": "32.10.190",
+    "name": "Randegan Wetan",
+    "alias": "Randegan Wetan"
+  },
+  {
+    "code": "32.10.190.007",
+    "villageCode": "007",
+    "districtCode": "32.10.190",
+    "name": "Putridalem",
+    "alias": "Putridalem"
+  },
+  {
+    "code": "32.10.190.008",
+    "villageCode": "008",
+    "districtCode": "32.10.190",
+    "name": "Jatitengah",
+    "alias": "Jatitengah"
+  },
+  {
+    "code": "32.10.190.009",
+    "villageCode": "009",
+    "districtCode": "32.10.190",
+    "name": "Jatitujuh",
+    "alias": "Jatitujuh"
+  },
+  {
+    "code": "32.10.190.010",
+    "villageCode": "010",
+    "districtCode": "32.10.190",
+    "name": "Babajurang",
+    "alias": "Babajurang"
+  },
+  {
+    "code": "32.10.190.011",
+    "villageCode": "011",
+    "districtCode": "32.10.190",
+    "name": "Pilangsari",
+    "alias": "Pilangsari"
+  },
+  {
+    "code": "32.10.190.012",
+    "villageCode": "012",
+    "districtCode": "32.10.190",
+    "name": "Jatiraga",
+    "alias": "Jatiraga"
+  },
+  {
+    "code": "32.10.190.013",
+    "villageCode": "013",
+    "districtCode": "32.10.190",
+    "name": "Sumber Kulon",
+    "alias": "Sumber Kulon"
+  },
+  {
+    "code": "32.10.190.014",
+    "villageCode": "014",
+    "districtCode": "32.10.190",
+    "name": "Sumber Wetan",
+    "alias": "Sumber Wetan"
+  },
+  {
+    "code": "32.10.190.015",
+    "villageCode": "015",
+    "districtCode": "32.10.190",
+    "name": "Pangkalanpari",
+    "alias": "Pangkalanpari"
+  }
+]

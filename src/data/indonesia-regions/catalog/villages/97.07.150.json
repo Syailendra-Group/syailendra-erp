@@ -1,0 +1,58 @@
+[
+  {
+    "code": "97.07.150.001",
+    "villageCode": "001",
+    "districtCode": "97.07.150",
+    "name": "Tapasik",
+    "alias": "Tapasik"
+  },
+  {
+    "code": "97.07.150.002",
+    "villageCode": "002",
+    "districtCode": "97.07.150",
+    "name": "Suntamon",
+    "alias": "Suntamon"
+  },
+  {
+    "code": "97.07.150.003",
+    "villageCode": "003",
+    "districtCode": "97.07.150",
+    "name": "Dirik",
+    "alias": "Dirik"
+  },
+  {
+    "code": "97.07.150.004",
+    "villageCode": "004",
+    "districtCode": "97.07.150",
+    "name": "Masumkon",
+    "alias": "Masumkon"
+  },
+  {
+    "code": "97.07.150.005",
+    "villageCode": "005",
+    "districtCode": "97.07.150",
+    "name": "Binalkon",
+    "alias": "Binalkon"
+  },
+  {
+    "code": "97.07.150.006",
+    "villageCode": "006",
+    "districtCode": "97.07.150",
+    "name": "Bulbul",
+    "alias": "Bulbul"
+  },
+  {
+    "code": "97.07.150.007",
+    "villageCode": "007",
+    "districtCode": "97.07.150",
+    "name": "Yup",
+    "alias": "Yup"
+  },
+  {
+    "code": "97.07.150.008",
+    "villageCode": "008",
+    "districtCode": "97.07.150",
+    "name": "Bongkok",
+    "alias": "Bongkok"
+  }
+]

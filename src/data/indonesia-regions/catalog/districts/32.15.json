@@ -1,0 +1,242 @@
+[
+  {
+    "code": "32.15.010",
+    "districtCode": "010",
+    "regencyCode": "32.15",
+    "provinceCode": "32",
+    "name": "Kecamatan Pangkalan",
+    "alias": "Pangkalan"
+  },
+  {
+    "code": "32.15.011",
+    "districtCode": "011",
+    "regencyCode": "32.15",
+    "provinceCode": "32",
+    "name": "Kecamatan Tegalwaru",
+    "alias": "Tegalwaru"
+  },
+  {
+    "code": "32.15.020",
+    "districtCode": "020",
+    "regencyCode": "32.15",
+    "provinceCode": "32",
+    "name": "Kecamatan Ciampel",
+    "alias": "Ciampel"
+  },
+  {
+    "code": "32.15.031",
+    "districtCode": "031",
+    "regencyCode": "32.15",
+    "provinceCode": "32",
+    "name": "Kecamatan Telukjambe Timur",
+    "alias": "Telukjambe Timur"
+  },
+  {
+    "code": "32.15.032",
+    "districtCode": "032",
+    "regencyCode": "32.15",
+    "provinceCode": "32",
+    "name": "Kecamatan Telukjambe Barat",
+    "alias": "Telukjambe Barat"
+  },
+  {
+    "code": "32.15.040",
+    "districtCode": "040",
+    "regencyCode": "32.15",
+    "provinceCode": "32",
+    "name": "Kecamatan Klari",
+    "alias": "Klari"
+  },
+  {
+    "code": "32.15.050",
+    "districtCode": "050",
+    "regencyCode": "32.15",
+    "provinceCode": "32",
+    "name": "Kecamatan Cikampek",
+    "alias": "Cikampek"
+  },
+  {
+    "code": "32.15.051",
+    "districtCode": "051",
+    "regencyCode": "32.15",
+    "provinceCode": "32",
+    "name": "Kecamatan Purwasari",
+    "alias": "Purwasari"
+  },
+  {
+    "code": "32.15.060",
+    "districtCode": "060",
+    "regencyCode": "32.15",
+    "provinceCode": "32",
+    "name": "Kecamatan Tirtamulya",
+    "alias": "Tirtamulya"
+  },
+  {
+    "code": "32.15.070",
+    "districtCode": "070",
+    "regencyCode": "32.15",
+    "provinceCode": "32",
+    "name": "Kecamatan Jatisari",
+    "alias": "Jatisari"
+  },
+  {
+    "code": "32.15.071",
+    "districtCode": "071",
+    "regencyCode": "32.15",
+    "provinceCode": "32",
+    "name": "Kecamatan Banyusari",
+    "alias": "Banyusari"
+  },
+  {
+    "code": "32.15.072",
+    "districtCode": "072",
+    "regencyCode": "32.15",
+    "provinceCode": "32",
+    "name": "Kecamatan Kotabaru",
+    "alias": "Kotabaru"
+  },
+  {
+    "code": "32.15.081",
+    "districtCode": "081",
+    "regencyCode": "32.15",
+    "provinceCode": "32",
+    "name": "Kecamatan Cilamaya Wetan",
+    "alias": "Cilamaya Wetan"
+  },
+  {
+    "code": "32.15.082",
+    "districtCode": "082",
+    "regencyCode": "32.15",
+    "provinceCode": "32",
+    "name": "Kecamatan Cilamaya Kulon",
+    "alias": "Cilamaya Kulon"
+  },
+  {
+    "code": "32.15.090",
+    "districtCode": "090",
+    "regencyCode": "32.15",
+    "provinceCode": "32",
+    "name": "Kecamatan Lemahabang",
+    "alias": "Lemahabang"
+  },
+  {
+    "code": "32.15.100",
+    "districtCode": "100",
+    "regencyCode": "32.15",
+    "provinceCode": "32",
+    "name": "Kecamatan Telagasari",
+    "alias": "Telagasari"
+  },
+  {
+    "code": "32.15.111",
+    "districtCode": "111",
+    "regencyCode": "32.15",
+    "provinceCode": "32",
+    "name": "Kecamatan Majalaya",
+    "alias": "Majalaya"
+  },
+  {
+    "code": "32.15.112",
+    "districtCode": "112",
+    "regencyCode": "32.15",
+    "provinceCode": "32",
+    "name": "Kecamatan Karawang Timur",
+    "alias": "Karawang Timur"
+  },
+  {
+    "code": "32.15.113",
+    "districtCode": "113",
+    "regencyCode": "32.15",
+    "provinceCode": "32",
+    "name": "Kecamatan Karawang Barat",
+    "alias": "Karawang Barat"
+  },
+  {
+    "code": "32.15.120",
+    "districtCode": "120",
+    "regencyCode": "32.15",
+    "provinceCode": "32",
+    "name": "Kecamatan Rawamerta",
+    "alias": "Rawamerta"
+  },
+  {
+    "code": "32.15.130",
+    "districtCode": "130",
+    "regencyCode": "32.15",
+    "provinceCode": "32",
+    "name": "Kecamatan Tempuran",
+    "alias": "Tempuran"
+  },
+  {
+    "code": "32.15.140",
+    "districtCode": "140",
+    "regencyCode": "32.15",
+    "provinceCode": "32",
+    "name": "Kecamatan Kutawaluya",
+    "alias": "Kutawaluya"
+  },
+  {
+    "code": "32.15.150",
+    "districtCode": "150",
+    "regencyCode": "32.15",
+    "provinceCode": "32",
+    "name": "Kecamatan Rengasdengklok",
+    "alias": "Rengasdengklok"
+  },
+  {
+    "code": "32.15.151",
+    "districtCode": "151",
+    "regencyCode": "32.15",
+    "provinceCode": "32",
+    "name": "Kecamatan Jayakerta",
+    "alias": "Jayakerta"
+  },
+  {
+    "code": "32.15.160",
+    "districtCode": "160",
+    "regencyCode": "32.15",
+    "provinceCode": "32",
+    "name": "Kecamatan Pedes",
+    "alias": "Pedes"
+  },
+  {
+    "code": "32.15.161",
+    "districtCode": "161",
+    "regencyCode": "32.15",
+    "provinceCode": "32",
+    "name": "Kecamatan Cilebar",
+    "alias": "Cilebar"
+  },
+  {
+    "code": "32.15.170",
+    "districtCode": "170",
+    "regencyCode": "32.15",
+    "provinceCode": "32",
+    "name": "Kecamatan Cibuaya",
+    "alias": "Cibuaya"
+  },
+  {
+    "code": "32.15.180",
+    "districtCode": "180",
+    "regencyCode": "32.15",
+    "provinceCode": "32",
+    "name": "Kecamatan Tirtajaya",
+    "alias": "Tirtajaya"
+  },
+  {
+    "code": "32.15.190",
+    "districtCode": "190",
+    "regencyCode": "32.15",
+    "provinceCode": "32",
+    "name": "Kecamatan Batujaya",
+    "alias": "Batujaya"
+  },
+  {
+    "code": "32.15.200",
+    "districtCode": "200",
+    "regencyCode": "32.15",
+    "provinceCode": "32",
+    "name": "Kecamatan Pakisjaya",
+    "alias": "Pakisjaya"
+  }
+]

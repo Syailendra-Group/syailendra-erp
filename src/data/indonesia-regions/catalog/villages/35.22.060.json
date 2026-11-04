@@ -1,0 +1,86 @@
+[
+  {
+    "code": "35.22.060.001",
+    "villageCode": "001",
+    "districtCode": "35.22.060",
+    "name": "Kedungsumber",
+    "alias": "Kedungsumber"
+  },
+  {
+    "code": "35.22.060.002",
+    "villageCode": "002",
+    "districtCode": "35.22.060",
+    "name": "Soko",
+    "alias": "Soko"
+  },
+  {
+    "code": "35.22.060.003",
+    "villageCode": "003",
+    "districtCode": "35.22.060",
+    "name": "Papringan",
+    "alias": "Papringan"
+  },
+  {
+    "code": "35.22.060.004",
+    "villageCode": "004",
+    "districtCode": "35.22.060",
+    "name": "Kedungsari",
+    "alias": "Kedungsari"
+  },
+  {
+    "code": "35.22.060.005",
+    "villageCode": "005",
+    "districtCode": "35.22.060",
+    "name": "Bakulan",
+    "alias": "Bakulan"
+  },
+  {
+    "code": "35.22.060.006",
+    "villageCode": "006",
+    "districtCode": "35.22.060",
+    "name": "Temayang",
+    "alias": "Temayang"
+  },
+  {
+    "code": "35.22.060.007",
+    "villageCode": "007",
+    "districtCode": "35.22.060",
+    "name": "Pandantoyo",
+    "alias": "Pandantoyo"
+  },
+  {
+    "code": "35.22.060.008",
+    "villageCode": "008",
+    "districtCode": "35.22.060",
+    "name": "Belun",
+    "alias": "Belun"
+  },
+  {
+    "code": "35.22.060.009",
+    "villageCode": "009",
+    "districtCode": "35.22.060",
+    "name": "Jono",
+    "alias": "Jono"
+  },
+  {
+    "code": "35.22.060.010",
+    "villageCode": "010",
+    "districtCode": "35.22.060",
+    "name": "Ngujung",
+    "alias": "Ngujung"
+  },
+  {
+    "code": "35.22.060.011",
+    "villageCode": "011",
+    "districtCode": "35.22.060",
+    "name": "Pancur",
+    "alias": "Pancur"
+  },
+  {
+    "code": "35.22.060.012",
+    "villageCode": "012",
+    "districtCode": "35.22.060",
+    "name": "Buntalan",
+    "alias": "Buntalan"
+  }
+]

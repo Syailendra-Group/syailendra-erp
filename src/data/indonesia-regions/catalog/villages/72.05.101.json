@@ -1,0 +1,44 @@
+[
+  {
+    "code": "72.05.101.001",
+    "villageCode": "001",
+    "districtCode": "72.05.101",
+    "name": "Tibo",
+    "alias": "Tibo"
+  },
+  {
+    "code": "72.05.101.002",
+    "villageCode": "002",
+    "districtCode": "72.05.101",
+    "name": "Saloya",
+    "alias": "Saloya"
+  },
+  {
+    "code": "72.05.101.003",
+    "villageCode": "003",
+    "districtCode": "72.05.101",
+    "name": "Kaliburu",
+    "alias": "Kaliburu"
+  },
+  {
+    "code": "72.05.101.004",
+    "villageCode": "004",
+    "districtCode": "72.05.101",
+    "name": "Batusuya",
+    "alias": "Batusuya"
+  },
+  {
+    "code": "72.05.101.005",
+    "villageCode": "005",
+    "districtCode": "72.05.101",
+    "name": "Batusuya Go O",
+    "alias": "Batusuya Go O"
+  },
+  {
+    "code": "72.05.101.006",
+    "villageCode": "006",
+    "districtCode": "72.05.101",
+    "name": "Kaliburu Kata",
+    "alias": "Kaliburu Kata"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "code": "35.09.180.001",
+    "villageCode": "001",
+    "districtCode": "35.09.180",
+    "name": "Tanggul Kulon",
+    "alias": "Tanggul Kulon"
+  },
+  {
+    "code": "35.09.180.002",
+    "villageCode": "002",
+    "districtCode": "35.09.180",
+    "name": "Tanggul Wetan",
+    "alias": "Tanggul Wetan"
+  },
+  {
+    "code": "35.09.180.003",
+    "villageCode": "003",
+    "districtCode": "35.09.180",
+    "name": "Klatakan",
+    "alias": "Klatakan"
+  },
+  {
+    "code": "35.09.180.004",
+    "villageCode": "004",
+    "districtCode": "35.09.180",
+    "name": "Selodakon",
+    "alias": "Selodakon"
+  },
+  {
+    "code": "35.09.180.005",
+    "villageCode": "005",
+    "districtCode": "35.09.180",
+    "name": "Darungan",
+    "alias": "Darungan"
+  },
+  {
+    "code": "35.09.180.006",
+    "villageCode": "006",
+    "districtCode": "35.09.180",
+    "name": "Manggisan",
+    "alias": "Manggisan"
+  },
+  {
+    "code": "35.09.180.007",
+    "villageCode": "007",
+    "districtCode": "35.09.180",
+    "name": "Patemon",
+    "alias": "Patemon"
+  },
+  {
+    "code": "35.09.180.008",
+    "villageCode": "008",
+    "districtCode": "35.09.180",
+    "name": "Kramat Sukoharjo",
+    "alias": "Kramat Sukoharjo"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "code": "35.12.130.001",
+    "villageCode": "001",
+    "districtCode": "35.12.130",
+    "name": "Kandang",
+    "alias": "Kandang"
+  },
+  {
+    "code": "35.12.130.002",
+    "villageCode": "002",
+    "districtCode": "35.12.130",
+    "name": "Curah Cotok",
+    "alias": "Curah Cotok"
+  },
+  {
+    "code": "35.12.130.003",
+    "villageCode": "003",
+    "districtCode": "35.12.130",
+    "name": "Peleyan",
+    "alias": "Peleyan"
+  },
+  {
+    "code": "35.12.130.004",
+    "villageCode": "004",
+    "districtCode": "35.12.130",
+    "name": "Wonokoyo",
+    "alias": "Wonokoyo"
+  },
+  {
+    "code": "35.12.130.005",
+    "villageCode": "005",
+    "districtCode": "35.12.130",
+    "name": "Seletreng",
+    "alias": "Seletreng"
+  },
+  {
+    "code": "35.12.130.006",
+    "villageCode": "006",
+    "districtCode": "35.12.130",
+    "name": "Landangan",
+    "alias": "Landangan"
+  },
+  {
+    "code": "35.12.130.007",
+    "villageCode": "007",
+    "districtCode": "35.12.130",
+    "name": "Kapongan",
+    "alias": "Kapongan"
+  },
+  {
+    "code": "35.12.130.008",
+    "villageCode": "008",
+    "districtCode": "35.12.130",
+    "name": "Kesambi Rampak",
+    "alias": "Kesambi Rampak"
+  },
+  {
+    "code": "35.12.130.009",
+    "villageCode": "009",
+    "districtCode": "35.12.130",
+    "name": "Gebangan",
+    "alias": "Gebangan"
+  },
+  {
+    "code": "35.12.130.010",
+    "villageCode": "010",
+    "districtCode": "35.12.130",
+    "name": "Pokaan",
+    "alias": "Pokaan"
+  }
+]

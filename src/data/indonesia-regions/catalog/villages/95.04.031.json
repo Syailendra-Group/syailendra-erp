@@ -1,0 +1,58 @@
+[
+  {
+    "code": "95.04.031.001",
+    "villageCode": "001",
+    "districtCode": "95.04.031",
+    "name": "Waganu",
+    "alias": "Waganu"
+  },
+  {
+    "code": "95.04.031.002",
+    "villageCode": "002",
+    "districtCode": "95.04.031",
+    "name": "Fos",
+    "alias": "Fos"
+  },
+  {
+    "code": "95.04.031.003",
+    "villageCode": "003",
+    "districtCode": "95.04.031",
+    "name": "Awok",
+    "alias": "Awok"
+  },
+  {
+    "code": "95.04.031.004",
+    "villageCode": "004",
+    "districtCode": "95.04.031",
+    "name": "Kaimo",
+    "alias": "Kaimo"
+  },
+  {
+    "code": "95.04.031.005",
+    "villageCode": "005",
+    "districtCode": "95.04.031",
+    "name": "Yausakor",
+    "alias": "Yausakor"
+  },
+  {
+    "code": "95.04.031.006",
+    "villageCode": "006",
+    "districtCode": "95.04.031",
+    "name": "Damen",
+    "alias": "Damen"
+  },
+  {
+    "code": "95.04.031.007",
+    "villageCode": "007",
+    "districtCode": "95.04.031",
+    "name": "Biwar Darat",
+    "alias": "Biwar Darat"
+  },
+  {
+    "code": "95.04.031.008",
+    "villageCode": "008",
+    "districtCode": "95.04.031",
+    "name": "Sakor",
+    "alias": "Sakor"
+  }
+]

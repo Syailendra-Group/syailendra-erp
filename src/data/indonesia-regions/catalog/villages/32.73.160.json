@@ -1,0 +1,58 @@
+[
+  {
+    "code": "32.73.160.001",
+    "villageCode": "001",
+    "districtCode": "32.73.160",
+    "name": "Gumuruh",
+    "alias": "Gumuruh"
+  },
+  {
+    "code": "32.73.160.002",
+    "villageCode": "002",
+    "districtCode": "32.73.160",
+    "name": "Binong",
+    "alias": "Binong"
+  },
+  {
+    "code": "32.73.160.003",
+    "villageCode": "003",
+    "districtCode": "32.73.160",
+    "name": "Kebon Gedang",
+    "alias": "Kebon Gedang"
+  },
+  {
+    "code": "32.73.160.004",
+    "villageCode": "004",
+    "districtCode": "32.73.160",
+    "name": "Maleer",
+    "alias": "Maleer"
+  },
+  {
+    "code": "32.73.160.005",
+    "villageCode": "005",
+    "districtCode": "32.73.160",
+    "name": "Cibangkong",
+    "alias": "Cibangkong"
+  },
+  {
+    "code": "32.73.160.006",
+    "villageCode": "006",
+    "districtCode": "32.73.160",
+    "name": "Samoja",
+    "alias": "Samoja"
+  },
+  {
+    "code": "32.73.160.007",
+    "villageCode": "007",
+    "districtCode": "32.73.160",
+    "name": "Kacapiring",
+    "alias": "Kacapiring"
+  },
+  {
+    "code": "32.73.160.008",
+    "villageCode": "008",
+    "districtCode": "32.73.160",
+    "name": "Kebon Waru",
+    "alias": "Kebon Waru"
+  }
+]

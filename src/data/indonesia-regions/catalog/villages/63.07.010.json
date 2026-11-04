@@ -1,0 +1,121 @@
+[
+  {
+    "code": "63.07.010.001",
+    "villageCode": "001",
+    "districtCode": "63.07.010",
+    "name": "Pangambau Hilir Luar",
+    "alias": "Pangambau Hilir Luar"
+  },
+  {
+    "code": "63.07.010.003",
+    "villageCode": "003",
+    "districtCode": "63.07.010",
+    "name": "Pengambau Hilir Dalam",
+    "alias": "Pengambau Hilir Dalam"
+  },
+  {
+    "code": "63.07.010.004",
+    "villageCode": "004",
+    "districtCode": "63.07.010",
+    "name": "Tabat Padang",
+    "alias": "Tabat Padang"
+  },
+  {
+    "code": "63.07.010.005",
+    "villageCode": "005",
+    "districtCode": "63.07.010",
+    "name": "Lok Buntar",
+    "alias": "Lok Buntar"
+  },
+  {
+    "code": "63.07.010.007",
+    "villageCode": "007",
+    "districtCode": "63.07.010",
+    "name": "Pengambau Hulu",
+    "alias": "Pengambau Hulu"
+  },
+  {
+    "code": "63.07.010.009",
+    "villageCode": "009",
+    "districtCode": "63.07.010",
+    "name": "Sungai Harang",
+    "alias": "Sungai Harang"
+  },
+  {
+    "code": "63.07.010.012",
+    "villageCode": "012",
+    "districtCode": "63.07.010",
+    "name": "Batu Panggung",
+    "alias": "Batu Panggung"
+  },
+  {
+    "code": "63.07.010.014",
+    "villageCode": "014",
+    "districtCode": "63.07.010",
+    "name": "Hapulang",
+    "alias": "Hapulang"
+  },
+  {
+    "code": "63.07.010.015",
+    "villageCode": "015",
+    "districtCode": "63.07.010",
+    "name": "Mangunang",
+    "alias": "Mangunang"
+  },
+  {
+    "code": "63.07.010.016",
+    "villageCode": "016",
+    "districtCode": "63.07.010",
+    "name": "Mangunang Seberang",
+    "alias": "Mangunang Seberang"
+  },
+  {
+    "code": "63.07.010.019",
+    "villageCode": "019",
+    "districtCode": "63.07.010",
+    "name": "Haruyan Seberang",
+    "alias": "Haruyan Seberang"
+  },
+  {
+    "code": "63.07.010.021",
+    "villageCode": "021",
+    "districtCode": "63.07.010",
+    "name": "Haruyan",
+    "alias": "Haruyan"
+  },
+  {
+    "code": "63.07.010.022",
+    "villageCode": "022",
+    "districtCode": "63.07.010",
+    "name": "Andang",
+    "alias": "Andang"
+  },
+  {
+    "code": "63.07.010.024",
+    "villageCode": "024",
+    "districtCode": "63.07.010",
+    "name": "Teluk Mesjid",
+    "alias": "Teluk Mesjid"
+  },
+  {
+    "code": "63.07.010.028",
+    "villageCode": "028",
+    "districtCode": "63.07.010",
+    "name": "Barikin",
+    "alias": "Barikin"
+  },
+  {
+    "code": "63.07.010.030",
+    "villageCode": "030",
+    "districtCode": "63.07.010",
+    "name": "Panggung",
+    "alias": "Panggung"
+  },
+  {
+    "code": "63.07.010.032",
+    "villageCode": "032",
+    "districtCode": "63.07.010",
+    "name": "Pandanu",
+    "alias": "Pandanu"
+  }
+]

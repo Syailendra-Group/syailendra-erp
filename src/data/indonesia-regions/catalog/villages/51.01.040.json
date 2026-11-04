@@ -1,0 +1,58 @@
+[
+  {
+    "code": "51.01.040.001",
+    "villageCode": "001",
+    "districtCode": "51.01.040",
+    "name": "Medewi",
+    "alias": "Medewi"
+  },
+  {
+    "code": "51.01.040.002",
+    "villageCode": "002",
+    "districtCode": "51.01.040",
+    "name": "Pulukan",
+    "alias": "Pulukan"
+  },
+  {
+    "code": "51.01.040.003",
+    "villageCode": "003",
+    "districtCode": "51.01.040",
+    "name": "Pekutatan",
+    "alias": "Pekutatan"
+  },
+  {
+    "code": "51.01.040.004",
+    "villageCode": "004",
+    "districtCode": "51.01.040",
+    "name": "Pangyangan",
+    "alias": "Pangyangan"
+  },
+  {
+    "code": "51.01.040.005",
+    "villageCode": "005",
+    "districtCode": "51.01.040",
+    "name": "Gumbrih",
+    "alias": "Gumbrih"
+  },
+  {
+    "code": "51.01.040.006",
+    "villageCode": "006",
+    "districtCode": "51.01.040",
+    "name": "Pengeragoan",
+    "alias": "Pengeragoan"
+  },
+  {
+    "code": "51.01.040.007",
+    "villageCode": "007",
+    "districtCode": "51.01.040",
+    "name": "Asahduren",
+    "alias": "Asahduren"
+  },
+  {
+    "code": "51.01.040.008",
+    "villageCode": "008",
+    "districtCode": "51.01.040",
+    "name": "Manggissari",
+    "alias": "Manggissari"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "code": "35.78.110.001",
+    "villageCode": "001",
+    "districtCode": "35.78.110",
+    "name": "Sawunggaling",
+    "alias": "Sawunggaling"
+  },
+  {
+    "code": "35.78.110.002",
+    "villageCode": "002",
+    "districtCode": "35.78.110",
+    "name": "Wonokromo",
+    "alias": "Wonokromo"
+  },
+  {
+    "code": "35.78.110.003",
+    "villageCode": "003",
+    "districtCode": "35.78.110",
+    "name": "Jagir",
+    "alias": "Jagir"
+  },
+  {
+    "code": "35.78.110.004",
+    "villageCode": "004",
+    "districtCode": "35.78.110",
+    "name": "Ngagelrejo",
+    "alias": "Ngagelrejo"
+  },
+  {
+    "code": "35.78.110.005",
+    "villageCode": "005",
+    "districtCode": "35.78.110",
+    "name": "Ngagel",
+    "alias": "Ngagel"
+  },
+  {
+    "code": "35.78.110.006",
+    "villageCode": "006",
+    "districtCode": "35.78.110",
+    "name": "Darmo",
+    "alias": "Darmo"
+  }
+]

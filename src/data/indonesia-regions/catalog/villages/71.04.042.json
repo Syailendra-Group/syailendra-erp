@@ -1,0 +1,51 @@
+[
+  {
+    "code": "71.04.042.001",
+    "villageCode": "001",
+    "districtCode": "71.04.042",
+    "name": "Pampalu",
+    "alias": "Pampalu"
+  },
+  {
+    "code": "71.04.042.002",
+    "villageCode": "002",
+    "districtCode": "71.04.042",
+    "name": "Russoh",
+    "alias": "Russoh"
+  },
+  {
+    "code": "71.04.042.003",
+    "villageCode": "003",
+    "districtCode": "71.04.042",
+    "name": "Niampak",
+    "alias": "Niampak"
+  },
+  {
+    "code": "71.04.042.004",
+    "villageCode": "004",
+    "districtCode": "71.04.042",
+    "name": "Niampak Utara",
+    "alias": "Niampak Utara"
+  },
+  {
+    "code": "71.04.042.005",
+    "villageCode": "005",
+    "districtCode": "71.04.042",
+    "name": "Tarohan",
+    "alias": "Tarohan"
+  },
+  {
+    "code": "71.04.042.006",
+    "villageCode": "006",
+    "districtCode": "71.04.042",
+    "name": "Tarohan Selatan",
+    "alias": "Tarohan Selatan"
+  },
+  {
+    "code": "71.04.042.007",
+    "villageCode": "007",
+    "districtCode": "71.04.042",
+    "name": "Matahit",
+    "alias": "Matahit"
+  }
+]

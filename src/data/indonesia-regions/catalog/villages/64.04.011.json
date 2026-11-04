@@ -1,0 +1,44 @@
+[
+  {
+    "code": "64.04.011.001",
+    "villageCode": "001",
+    "districtCode": "64.04.011",
+    "name": "Long Bentuk",
+    "alias": "Long Bentuk"
+  },
+  {
+    "code": "64.04.011.002",
+    "villageCode": "002",
+    "districtCode": "64.04.011",
+    "name": "Long Pejeng",
+    "alias": "Long Pejeng"
+  },
+  {
+    "code": "64.04.011.003",
+    "villageCode": "003",
+    "districtCode": "64.04.011",
+    "name": "Mekar Baru",
+    "alias": "Mekar Baru"
+  },
+  {
+    "code": "64.04.011.004",
+    "villageCode": "004",
+    "districtCode": "64.04.011",
+    "name": "Long Lees",
+    "alias": "Long Lees"
+  },
+  {
+    "code": "64.04.011.005",
+    "villageCode": "005",
+    "districtCode": "64.04.011",
+    "name": "Long Nyelong",
+    "alias": "Long Nyelong"
+  },
+  {
+    "code": "64.04.011.006",
+    "villageCode": "006",
+    "districtCode": "64.04.011",
+    "name": "Rantau Sentosa",
+    "alias": "Rantau Sentosa"
+  }
+]

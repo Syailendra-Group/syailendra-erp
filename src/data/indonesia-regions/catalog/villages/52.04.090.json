@@ -1,0 +1,72 @@
+[
+  {
+    "code": "52.04.090.001",
+    "villageCode": "001",
+    "districtCode": "52.04.090",
+    "name": "Serading",
+    "alias": "Serading"
+  },
+  {
+    "code": "52.04.090.002",
+    "villageCode": "002",
+    "districtCode": "52.04.090",
+    "name": "Kakiang",
+    "alias": "Kakiang"
+  },
+  {
+    "code": "52.04.090.003",
+    "villageCode": "003",
+    "districtCode": "52.04.090",
+    "name": "Moyo",
+    "alias": "Moyo"
+  },
+  {
+    "code": "52.04.090.004",
+    "villageCode": "004",
+    "districtCode": "52.04.090",
+    "name": "Poto",
+    "alias": "Poto"
+  },
+  {
+    "code": "52.04.090.005",
+    "villageCode": "005",
+    "districtCode": "52.04.090",
+    "name": "Berare",
+    "alias": "Berare"
+  },
+  {
+    "code": "52.04.090.006",
+    "villageCode": "006",
+    "districtCode": "52.04.090",
+    "name": "Ngeru",
+    "alias": "Ngeru"
+  },
+  {
+    "code": "52.04.090.010",
+    "villageCode": "010",
+    "districtCode": "52.04.090",
+    "name": "Olat Rawa",
+    "alias": "Olat Rawa"
+  },
+  {
+    "code": "52.04.090.011",
+    "villageCode": "011",
+    "districtCode": "52.04.090",
+    "name": "Batu Bangka",
+    "alias": "Batu Bangka"
+  },
+  {
+    "code": "52.04.090.013",
+    "villageCode": "013",
+    "districtCode": "52.04.090",
+    "name": "Moyo Mekar",
+    "alias": "Moyo Mekar"
+  },
+  {
+    "code": "52.04.090.014",
+    "villageCode": "014",
+    "districtCode": "52.04.090",
+    "name": "Labuhan Ijuk",
+    "alias": "Labuhan Ijuk"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "code": "64.71.020.001",
+    "villageCode": "001",
+    "districtCode": "64.71.020",
+    "name": "Manggar",
+    "alias": "Manggar"
+  },
+  {
+    "code": "64.71.020.002",
+    "villageCode": "002",
+    "districtCode": "64.71.020",
+    "name": "Manggar Baru",
+    "alias": "Manggar Baru"
+  },
+  {
+    "code": "64.71.020.003",
+    "villageCode": "003",
+    "districtCode": "64.71.020",
+    "name": "Lamaru",
+    "alias": "Lamaru"
+  },
+  {
+    "code": "64.71.020.004",
+    "villageCode": "004",
+    "districtCode": "64.71.020",
+    "name": "Teritip",
+    "alias": "Teritip"
+  }
+]

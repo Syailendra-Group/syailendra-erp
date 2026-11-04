@@ -1,0 +1,37 @@
+[
+  {
+    "code": "19.71.021.001",
+    "villageCode": "001",
+    "districtCode": "19.71.021",
+    "name": "Sriwijaya",
+    "alias": "Sriwijaya"
+  },
+  {
+    "code": "19.71.021.002",
+    "villageCode": "002",
+    "districtCode": "19.71.021",
+    "name": "Bukit Besar",
+    "alias": "Bukit Besar"
+  },
+  {
+    "code": "19.71.021.003",
+    "villageCode": "003",
+    "districtCode": "19.71.021",
+    "name": "Batu Intan",
+    "alias": "Batu Intan"
+  },
+  {
+    "code": "19.71.021.004",
+    "villageCode": "004",
+    "districtCode": "19.71.021",
+    "name": "Semabung Baru",
+    "alias": "Semabung Baru"
+  },
+  {
+    "code": "19.71.021.005",
+    "villageCode": "005",
+    "districtCode": "19.71.021",
+    "name": "Pasar Padi",
+    "alias": "Pasar Padi"
+  }
+]

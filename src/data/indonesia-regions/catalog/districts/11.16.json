@@ -1,0 +1,74 @@
+[
+  {
+    "code": "11.16.010",
+    "districtCode": "010",
+    "regencyCode": "11.16",
+    "provinceCode": "11",
+    "name": "Kecamatan Teunom",
+    "alias": "Teunom"
+  },
+  {
+    "code": "11.16.011",
+    "districtCode": "011",
+    "regencyCode": "11.16",
+    "provinceCode": "11",
+    "name": "Kecamatan Pasie Raya",
+    "alias": "Pasie Raya"
+  },
+  {
+    "code": "11.16.020",
+    "districtCode": "020",
+    "regencyCode": "11.16",
+    "provinceCode": "11",
+    "name": "Kecamatan Panga",
+    "alias": "Panga"
+  },
+  {
+    "code": "11.16.030",
+    "districtCode": "030",
+    "regencyCode": "11.16",
+    "provinceCode": "11",
+    "name": "Kecamatan Krueng Sabee",
+    "alias": "Krueng Sabee"
+  },
+  {
+    "code": "11.16.040",
+    "districtCode": "040",
+    "regencyCode": "11.16",
+    "provinceCode": "11",
+    "name": "Kecamatan Setia Bakti",
+    "alias": "Setia Bakti"
+  },
+  {
+    "code": "11.16.050",
+    "districtCode": "050",
+    "regencyCode": "11.16",
+    "provinceCode": "11",
+    "name": "Kecamatan Sampoiniet",
+    "alias": "Sampoiniet"
+  },
+  {
+    "code": "11.16.051",
+    "districtCode": "051",
+    "regencyCode": "11.16",
+    "provinceCode": "11",
+    "name": "Kecamatan Darul Hikmah",
+    "alias": "Darul Hikmah"
+  },
+  {
+    "code": "11.16.060",
+    "districtCode": "060",
+    "regencyCode": "11.16",
+    "provinceCode": "11",
+    "name": "Kecamatan Jaya",
+    "alias": "Jaya"
+  },
+  {
+    "code": "11.16.061",
+    "districtCode": "061",
+    "regencyCode": "11.16",
+    "provinceCode": "11",
+    "name": "Kecamatan Indra Jaya",
+    "alias": "Indra Jaya"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "code": "61.07.180.001",
+    "villageCode": "001",
+    "districtCode": "61.07.180",
+    "name": "Telaga Satu",
+    "alias": "Telaga Satu"
+  },
+  {
+    "code": "61.07.180.002",
+    "villageCode": "002",
+    "districtCode": "61.07.180",
+    "name": "Telaga Dua",
+    "alias": "Telaga Dua"
+  },
+  {
+    "code": "61.07.180.003",
+    "villageCode": "003",
+    "districtCode": "61.07.180",
+    "name": "Binjai Hilir",
+    "alias": "Binjai Hilir"
+  },
+  {
+    "code": "61.07.180.004",
+    "villageCode": "004",
+    "districtCode": "61.07.180",
+    "name": "Dak Jaya",
+    "alias": "Dak Jaya"
+  },
+  {
+    "code": "61.07.180.005",
+    "villageCode": "005",
+    "districtCode": "61.07.180",
+    "name": "Ampar Bedang",
+    "alias": "Ampar Bedang"
+  },
+  {
+    "code": "61.07.180.006",
+    "villageCode": "006",
+    "districtCode": "61.07.180",
+    "name": "Mensiku",
+    "alias": "Mensiku"
+  },
+  {
+    "code": "61.07.180.007",
+    "villageCode": "007",
+    "districtCode": "61.07.180",
+    "name": "Binjai Hulu",
+    "alias": "Binjai Hulu"
+  },
+  {
+    "code": "61.07.180.008",
+    "villageCode": "008",
+    "districtCode": "61.07.180",
+    "name": "Sungai Risap",
+    "alias": "Sungai Risap"
+  },
+  {
+    "code": "61.07.180.009",
+    "villageCode": "009",
+    "districtCode": "61.07.180",
+    "name": "Empaka Kabiau Raya",
+    "alias": "Empaka Kabiau Raya"
+  },
+  {
+    "code": "61.07.180.010",
+    "villageCode": "010",
+    "districtCode": "61.07.180",
+    "name": "Sungai Risap Mensiku Bersatu",
+    "alias": "Sungai Risap Mensiku Bersatu"
+  },
+  {
+    "code": "61.07.180.011",
+    "villageCode": "011",
+    "districtCode": "61.07.180",
+    "name": "Simba Raya",
+    "alias": "Simba Raya"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "code": "21.04.053.001",
+    "villageCode": "001",
+    "districtCode": "21.04.053",
+    "name": "Pulau Medang",
+    "alias": "Pulau Medang"
+  },
+  {
+    "code": "21.04.053.002",
+    "villageCode": "002",
+    "districtCode": "21.04.053",
+    "name": "Pulau Duyung",
+    "alias": "Pulau Duyung"
+  },
+  {
+    "code": "21.04.053.003",
+    "villageCode": "003",
+    "districtCode": "21.04.053",
+    "name": "Mensanak",
+    "alias": "Mensanak"
+  },
+  {
+    "code": "21.04.053.004",
+    "villageCode": "004",
+    "districtCode": "21.04.053",
+    "name": "Pulau Bukit",
+    "alias": "Pulau Bukit"
+  },
+  {
+    "code": "21.04.053.005",
+    "villageCode": "005",
+    "districtCode": "21.04.053",
+    "name": "Benan",
+    "alias": "Benan"
+  },
+  {
+    "code": "21.04.053.006",
+    "villageCode": "006",
+    "districtCode": "21.04.053",
+    "name": "Desa Persiapan Busung",
+    "alias": "Desa Persiapan Busung"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "code": "15.04.010",
+    "districtCode": "010",
+    "regencyCode": "15.04",
+    "provinceCode": "15",
+    "name": "Kecamatan Mersam",
+    "alias": "Mersam"
+  },
+  {
+    "code": "15.04.011",
+    "districtCode": "011",
+    "regencyCode": "15.04",
+    "provinceCode": "15",
+    "name": "Kecamatan Maro Sebo Ulu",
+    "alias": "Maro Sebo Ulu"
+  },
+  {
+    "code": "15.04.020",
+    "districtCode": "020",
+    "regencyCode": "15.04",
+    "provinceCode": "15",
+    "name": "Kecamatan Batin Xxiv",
+    "alias": "Batin Xxiv"
+  },
+  {
+    "code": "15.04.030",
+    "districtCode": "030",
+    "regencyCode": "15.04",
+    "provinceCode": "15",
+    "name": "Kecamatan Muara Tembesi",
+    "alias": "Muara Tembesi"
+  },
+  {
+    "code": "15.04.040",
+    "districtCode": "040",
+    "regencyCode": "15.04",
+    "provinceCode": "15",
+    "name": "Kecamatan Muara Bulian",
+    "alias": "Muara Bulian"
+  },
+  {
+    "code": "15.04.041",
+    "districtCode": "041",
+    "regencyCode": "15.04",
+    "provinceCode": "15",
+    "name": "Kecamatan Bajubang",
+    "alias": "Bajubang"
+  },
+  {
+    "code": "15.04.042",
+    "districtCode": "042",
+    "regencyCode": "15.04",
+    "provinceCode": "15",
+    "name": "Kecamatan Maro Sebo Ilir",
+    "alias": "Maro Sebo Ilir"
+  },
+  {
+    "code": "15.04.050",
+    "districtCode": "050",
+    "regencyCode": "15.04",
+    "provinceCode": "15",
+    "name": "Kecamatan Pemayung",
+    "alias": "Pemayung"
+  }
+]

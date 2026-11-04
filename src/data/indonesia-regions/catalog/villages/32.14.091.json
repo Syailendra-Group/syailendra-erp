@@ -1,0 +1,79 @@
+[
+  {
+    "code": "32.14.091.001",
+    "villageCode": "001",
+    "districtCode": "32.14.091",
+    "name": "Bungur Jaya",
+    "alias": "Bungur Jaya"
+  },
+  {
+    "code": "32.14.091.002",
+    "villageCode": "002",
+    "districtCode": "32.14.091",
+    "name": "Pondokbungur",
+    "alias": "Pondokbungur"
+  },
+  {
+    "code": "32.14.091.003",
+    "villageCode": "003",
+    "districtCode": "32.14.091",
+    "name": "Salem",
+    "alias": "Salem"
+  },
+  {
+    "code": "32.14.091.004",
+    "villageCode": "004",
+    "districtCode": "32.14.091",
+    "name": "Galudra",
+    "alias": "Galudra"
+  },
+  {
+    "code": "32.14.091.005",
+    "villageCode": "005",
+    "districtCode": "32.14.091",
+    "name": "Sukajadi",
+    "alias": "Sukajadi"
+  },
+  {
+    "code": "32.14.091.006",
+    "villageCode": "006",
+    "districtCode": "32.14.091",
+    "name": "Tanjungsari",
+    "alias": "Tanjungsari"
+  },
+  {
+    "code": "32.14.091.007",
+    "villageCode": "007",
+    "districtCode": "32.14.091",
+    "name": "Salam Jaya",
+    "alias": "Salam Jaya"
+  },
+  {
+    "code": "32.14.091.008",
+    "villageCode": "008",
+    "districtCode": "32.14.091",
+    "name": "Situ",
+    "alias": "Situ"
+  },
+  {
+    "code": "32.14.091.009",
+    "villageCode": "009",
+    "districtCode": "32.14.091",
+    "name": "Parakansalam",
+    "alias": "Parakansalam"
+  },
+  {
+    "code": "32.14.091.010",
+    "villageCode": "010",
+    "districtCode": "32.14.091",
+    "name": "Salam Mulya",
+    "alias": "Salam Mulya"
+  },
+  {
+    "code": "32.14.091.011",
+    "villageCode": "011",
+    "districtCode": "32.14.091",
+    "name": "Gurudug",
+    "alias": "Gurudug"
+  }
+]

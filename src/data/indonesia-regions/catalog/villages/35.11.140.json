@@ -1,0 +1,58 @@
+[
+  {
+    "code": "35.11.140.001",
+    "villageCode": "001",
+    "districtCode": "35.11.140",
+    "name": "Karanganyar",
+    "alias": "Karanganyar"
+  },
+  {
+    "code": "35.11.140.002",
+    "villageCode": "002",
+    "districtCode": "35.11.140",
+    "name": "Sekarputih",
+    "alias": "Sekarputih"
+  },
+  {
+    "code": "35.11.140.003",
+    "villageCode": "003",
+    "districtCode": "35.11.140",
+    "name": "Tegalampel",
+    "alias": "Tegalampel"
+  },
+  {
+    "code": "35.11.140.011",
+    "villageCode": "011",
+    "districtCode": "35.11.140",
+    "name": "Mandiro",
+    "alias": "Mandiro"
+  },
+  {
+    "code": "35.11.140.012",
+    "villageCode": "012",
+    "districtCode": "35.11.140",
+    "name": "Tanggulangin",
+    "alias": "Tanggulangin"
+  },
+  {
+    "code": "35.11.140.013",
+    "villageCode": "013",
+    "districtCode": "35.11.140",
+    "name": "Klabang",
+    "alias": "Klabang"
+  },
+  {
+    "code": "35.11.140.014",
+    "villageCode": "014",
+    "districtCode": "35.11.140",
+    "name": "Klabang Agung",
+    "alias": "Klabang Agung"
+  },
+  {
+    "code": "35.11.140.015",
+    "villageCode": "015",
+    "districtCode": "35.11.140",
+    "name": "Purnama",
+    "alias": "Purnama"
+  }
+]

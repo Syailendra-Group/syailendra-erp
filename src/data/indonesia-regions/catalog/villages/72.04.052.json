@@ -1,0 +1,72 @@
+[
+  {
+    "code": "72.04.052.001",
+    "villageCode": "001",
+    "districtCode": "72.04.052",
+    "name": "Kilo",
+    "alias": "Kilo"
+  },
+  {
+    "code": "72.04.052.002",
+    "villageCode": "002",
+    "districtCode": "72.04.052",
+    "name": "Tri Mulya",
+    "alias": "Tri Mulya"
+  },
+  {
+    "code": "72.04.052.003",
+    "villageCode": "003",
+    "districtCode": "72.04.052",
+    "name": "Kawende",
+    "alias": "Kawende"
+  },
+  {
+    "code": "72.04.052.004",
+    "villageCode": "004",
+    "districtCode": "72.04.052",
+    "name": "Kalora",
+    "alias": "Kalora"
+  },
+  {
+    "code": "72.04.052.005",
+    "villageCode": "005",
+    "districtCode": "72.04.052",
+    "name": "Tambarana",
+    "alias": "Tambarana"
+  },
+  {
+    "code": "72.04.052.006",
+    "villageCode": "006",
+    "districtCode": "72.04.052",
+    "name": "Bakti Agung",
+    "alias": "Bakti Agung"
+  },
+  {
+    "code": "72.04.052.007",
+    "villageCode": "007",
+    "districtCode": "72.04.052",
+    "name": "Tumora",
+    "alias": "Tumora"
+  },
+  {
+    "code": "72.04.052.008",
+    "villageCode": "008",
+    "districtCode": "72.04.052",
+    "name": "Membuke",
+    "alias": "Membuke"
+  },
+  {
+    "code": "72.04.052.009",
+    "villageCode": "009",
+    "districtCode": "72.04.052",
+    "name": "Tobe",
+    "alias": "Tobe"
+  },
+  {
+    "code": "72.04.052.010",
+    "villageCode": "010",
+    "districtCode": "72.04.052",
+    "name": "Maranda",
+    "alias": "Maranda"
+  }
+]

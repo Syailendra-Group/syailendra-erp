@@ -1,0 +1,42 @@
+[
+  {
+    "code": "96.03.010",
+    "districtCode": "010",
+    "regencyCode": "96.03",
+    "provinceCode": "96",
+    "name": "Kecamatan Kapiraya",
+    "alias": "Kapiraya"
+  },
+  {
+    "code": "96.03.020",
+    "districtCode": "020",
+    "regencyCode": "96.03",
+    "provinceCode": "96",
+    "name": "Kecamatan Tigi Barat",
+    "alias": "Tigi Barat"
+  },
+  {
+    "code": "96.03.030",
+    "districtCode": "030",
+    "regencyCode": "96.03",
+    "provinceCode": "96",
+    "name": "Kecamatan Tigi",
+    "alias": "Tigi"
+  },
+  {
+    "code": "96.03.040",
+    "districtCode": "040",
+    "regencyCode": "96.03",
+    "provinceCode": "96",
+    "name": "Kecamatan Tigi Timur",
+    "alias": "Tigi Timur"
+  },
+  {
+    "code": "96.03.050",
+    "districtCode": "050",
+    "regencyCode": "96.03",
+    "provinceCode": "96",
+    "name": "Kecamatan Bowobado",
+    "alias": "Bowobado"
+  }
+]

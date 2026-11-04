@@ -1,0 +1,65 @@
+[
+  {
+    "code": "94.08.081.001",
+    "villageCode": "001",
+    "districtCode": "94.08.081",
+    "name": "Waisani",
+    "alias": "Waisani"
+  },
+  {
+    "code": "94.08.081.002",
+    "villageCode": "002",
+    "districtCode": "94.08.081",
+    "name": "Munggui",
+    "alias": "Munggui"
+  },
+  {
+    "code": "94.08.081.003",
+    "villageCode": "003",
+    "districtCode": "94.08.081",
+    "name": "Asai",
+    "alias": "Asai"
+  },
+  {
+    "code": "94.08.081.004",
+    "villageCode": "004",
+    "districtCode": "94.08.081",
+    "name": "Windesi",
+    "alias": "Windesi"
+  },
+  {
+    "code": "94.08.081.005",
+    "villageCode": "005",
+    "districtCode": "94.08.081",
+    "name": "Saruman",
+    "alias": "Saruman"
+  },
+  {
+    "code": "94.08.081.006",
+    "villageCode": "006",
+    "districtCode": "94.08.081",
+    "name": "Kaonda",
+    "alias": "Kaonda"
+  },
+  {
+    "code": "94.08.081.007",
+    "villageCode": "007",
+    "districtCode": "94.08.081",
+    "name": "Karawi",
+    "alias": "Karawi"
+  },
+  {
+    "code": "94.08.081.008",
+    "villageCode": "008",
+    "districtCode": "94.08.081",
+    "name": "Rosbori",
+    "alias": "Rosbori"
+  },
+  {
+    "code": "94.08.081.009",
+    "villageCode": "009",
+    "districtCode": "94.08.081",
+    "name": "Aryobu",
+    "alias": "Aryobu"
+  }
+]

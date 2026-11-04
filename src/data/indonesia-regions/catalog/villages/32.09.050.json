@@ -1,0 +1,58 @@
+[
+  {
+    "code": "32.09.050.008",
+    "villageCode": "008",
+    "districtCode": "32.09.050",
+    "name": "Tambelang",
+    "alias": "Tambelang"
+  },
+  {
+    "code": "32.09.050.015",
+    "villageCode": "015",
+    "districtCode": "32.09.050",
+    "name": "Karangsuwung",
+    "alias": "Karangsuwung"
+  },
+  {
+    "code": "32.09.050.016",
+    "villageCode": "016",
+    "districtCode": "32.09.050",
+    "name": "Karangtengah",
+    "alias": "Karangtengah"
+  },
+  {
+    "code": "32.09.050.017",
+    "villageCode": "017",
+    "districtCode": "32.09.050",
+    "name": "Kalimeang",
+    "alias": "Kalimeang"
+  },
+  {
+    "code": "32.09.050.018",
+    "villageCode": "018",
+    "districtCode": "32.09.050",
+    "name": "Karangmalang",
+    "alias": "Karangmalang"
+  },
+  {
+    "code": "32.09.050.019",
+    "villageCode": "019",
+    "districtCode": "32.09.050",
+    "name": "Karangmekar",
+    "alias": "Karangmekar"
+  },
+  {
+    "code": "32.09.050.020",
+    "villageCode": "020",
+    "districtCode": "32.09.050",
+    "name": "Kubangkarang",
+    "alias": "Kubangkarang"
+  },
+  {
+    "code": "32.09.050.021",
+    "villageCode": "021",
+    "districtCode": "32.09.050",
+    "name": "Karangsembung",
+    "alias": "Karangsembung"
+  }
+]

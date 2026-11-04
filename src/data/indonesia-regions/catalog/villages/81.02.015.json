@@ -1,0 +1,65 @@
+[
+  {
+    "code": "81.02.015.001",
+    "villageCode": "001",
+    "districtCode": "81.02.015",
+    "name": "Rumadian",
+    "alias": "Rumadian"
+  },
+  {
+    "code": "81.02.015.002",
+    "villageCode": "002",
+    "districtCode": "81.02.015",
+    "name": "Debut",
+    "alias": "Debut"
+  },
+  {
+    "code": "81.02.015.003",
+    "villageCode": "003",
+    "districtCode": "81.02.015",
+    "name": "Namar",
+    "alias": "Namar"
+  },
+  {
+    "code": "81.02.015.004",
+    "villageCode": "004",
+    "districtCode": "81.02.015",
+    "name": "Lairngangas",
+    "alias": "Lairngangas"
+  },
+  {
+    "code": "81.02.015.005",
+    "villageCode": "005",
+    "districtCode": "81.02.015",
+    "name": "Selayar",
+    "alias": "Selayar"
+  },
+  {
+    "code": "81.02.015.006",
+    "villageCode": "006",
+    "districtCode": "81.02.015",
+    "name": "Ngayub",
+    "alias": "Ngayub"
+  },
+  {
+    "code": "81.02.015.007",
+    "villageCode": "007",
+    "districtCode": "81.02.015",
+    "name": "Ohoiluk",
+    "alias": "Ohoiluk"
+  },
+  {
+    "code": "81.02.015.008",
+    "villageCode": "008",
+    "districtCode": "81.02.015",
+    "name": "Ngilngof",
+    "alias": "Ngilngof"
+  },
+  {
+    "code": "81.02.015.009",
+    "villageCode": "009",
+    "districtCode": "81.02.015",
+    "name": "Ohoililir",
+    "alias": "Ohoililir"
+  }
+]

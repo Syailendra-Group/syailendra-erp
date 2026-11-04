@@ -1,0 +1,93 @@
+[
+  {
+    "code": "61.06.100.001",
+    "villageCode": "001",
+    "districtCode": "61.06.100",
+    "name": "Penjawaan",
+    "alias": "Penjawaan"
+  },
+  {
+    "code": "61.06.100.002",
+    "villageCode": "002",
+    "districtCode": "61.06.100",
+    "name": "Sandai",
+    "alias": "Sandai"
+  },
+  {
+    "code": "61.06.100.003",
+    "villageCode": "003",
+    "districtCode": "61.06.100",
+    "name": "Muara Jekak",
+    "alias": "Muara Jekak"
+  },
+  {
+    "code": "61.06.100.004",
+    "villageCode": "004",
+    "districtCode": "61.06.100",
+    "name": "Petai Patah",
+    "alias": "Petai Patah"
+  },
+  {
+    "code": "61.06.100.005",
+    "villageCode": "005",
+    "districtCode": "61.06.100",
+    "name": "Randau Jungkal",
+    "alias": "Randau Jungkal"
+  },
+  {
+    "code": "61.06.100.009",
+    "villageCode": "009",
+    "districtCode": "61.06.100",
+    "name": "Randau",
+    "alias": "Randau"
+  },
+  {
+    "code": "61.06.100.011",
+    "villageCode": "011",
+    "districtCode": "61.06.100",
+    "name": "Sandai Kiri",
+    "alias": "Sandai Kiri"
+  },
+  {
+    "code": "61.06.100.012",
+    "villageCode": "012",
+    "districtCode": "61.06.100",
+    "name": "Demit",
+    "alias": "Demit"
+  },
+  {
+    "code": "61.06.100.013",
+    "villageCode": "013",
+    "districtCode": "61.06.100",
+    "name": "Jago Bersatu",
+    "alias": "Jago Bersatu"
+  },
+  {
+    "code": "61.06.100.014",
+    "villageCode": "014",
+    "districtCode": "61.06.100",
+    "name": "Pendamar Indah",
+    "alias": "Pendamar Indah"
+  },
+  {
+    "code": "61.06.100.015",
+    "villageCode": "015",
+    "districtCode": "61.06.100",
+    "name": "Merimbang Jaya",
+    "alias": "Merimbang Jaya"
+  },
+  {
+    "code": "61.06.100.016",
+    "villageCode": "016",
+    "districtCode": "61.06.100",
+    "name": "Alam Pakuan",
+    "alias": "Alam Pakuan"
+  },
+  {
+    "code": "61.06.100.017",
+    "villageCode": "017",
+    "districtCode": "61.06.100",
+    "name": "Istana",
+    "alias": "Istana"
+  }
+]

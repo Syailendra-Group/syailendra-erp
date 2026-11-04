@@ -1,0 +1,72 @@
+[
+  {
+    "code": "71.09.042.001",
+    "villageCode": "001",
+    "districtCode": "71.09.042",
+    "name": "Wioy",
+    "alias": "Wioy"
+  },
+  {
+    "code": "71.09.042.002",
+    "villageCode": "002",
+    "districtCode": "71.09.042",
+    "name": "Wioy Satu",
+    "alias": "Wioy Satu"
+  },
+  {
+    "code": "71.09.042.003",
+    "villageCode": "003",
+    "districtCode": "71.09.042",
+    "name": "Wioy Dua",
+    "alias": "Wioy Dua"
+  },
+  {
+    "code": "71.09.042.004",
+    "villageCode": "004",
+    "districtCode": "71.09.042",
+    "name": "Wioy Tiga",
+    "alias": "Wioy Tiga"
+  },
+  {
+    "code": "71.09.042.005",
+    "villageCode": "005",
+    "districtCode": "71.09.042",
+    "name": "Wioy Timur",
+    "alias": "Wioy Timur"
+  },
+  {
+    "code": "71.09.042.006",
+    "villageCode": "006",
+    "districtCode": "71.09.042",
+    "name": "Wongkai",
+    "alias": "Wongkai"
+  },
+  {
+    "code": "71.09.042.007",
+    "villageCode": "007",
+    "districtCode": "71.09.042",
+    "name": "Wongkai Satu",
+    "alias": "Wongkai Satu"
+  },
+  {
+    "code": "71.09.042.008",
+    "villageCode": "008",
+    "districtCode": "71.09.042",
+    "name": "Pangu",
+    "alias": "Pangu"
+  },
+  {
+    "code": "71.09.042.009",
+    "villageCode": "009",
+    "districtCode": "71.09.042",
+    "name": "Pangu Satu",
+    "alias": "Pangu Satu"
+  },
+  {
+    "code": "71.09.042.010",
+    "villageCode": "010",
+    "districtCode": "71.09.042",
+    "name": "Pangu Dua",
+    "alias": "Pangu Dua"
+  }
+]

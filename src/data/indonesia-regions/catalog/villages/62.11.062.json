@@ -1,0 +1,79 @@
+[
+  {
+    "code": "62.11.062.001",
+    "villageCode": "001",
+    "districtCode": "62.11.062",
+    "name": "Tumbang Lapan",
+    "alias": "Tumbang Lapan"
+  },
+  {
+    "code": "62.11.062.002",
+    "villageCode": "002",
+    "districtCode": "62.11.062",
+    "name": "Tumbang Siruk",
+    "alias": "Tumbang Siruk"
+  },
+  {
+    "code": "62.11.062.003",
+    "villageCode": "003",
+    "districtCode": "62.11.062",
+    "name": "Tumbang Napoi",
+    "alias": "Tumbang Napoi"
+  },
+  {
+    "code": "62.11.062.004",
+    "villageCode": "004",
+    "districtCode": "62.11.062",
+    "name": "Buntoi",
+    "alias": "Buntoi"
+  },
+  {
+    "code": "62.11.062.005",
+    "villageCode": "005",
+    "districtCode": "62.11.062",
+    "name": "Tumbang Koroi",
+    "alias": "Tumbang Koroi"
+  },
+  {
+    "code": "62.11.062.006",
+    "villageCode": "006",
+    "districtCode": "62.11.062",
+    "name": "Mangkuhung",
+    "alias": "Mangkuhung"
+  },
+  {
+    "code": "62.11.062.007",
+    "villageCode": "007",
+    "districtCode": "62.11.062",
+    "name": "Tumbang Manyoi",
+    "alias": "Tumbang Manyoi"
+  },
+  {
+    "code": "62.11.062.008",
+    "villageCode": "008",
+    "districtCode": "62.11.062",
+    "name": "Tumbang Masukih",
+    "alias": "Tumbang Masukih"
+  },
+  {
+    "code": "62.11.062.009",
+    "villageCode": "009",
+    "districtCode": "62.11.062",
+    "name": "Rangan Hiran",
+    "alias": "Rangan Hiran"
+  },
+  {
+    "code": "62.11.062.010",
+    "villageCode": "010",
+    "districtCode": "62.11.062",
+    "name": "Harowu",
+    "alias": "Harowu"
+  },
+  {
+    "code": "62.11.062.011",
+    "villageCode": "011",
+    "districtCode": "62.11.062",
+    "name": "Tumbang Hatung",
+    "alias": "Tumbang Hatung"
+  }
+]

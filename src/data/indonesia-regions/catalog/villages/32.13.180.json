@@ -1,0 +1,65 @@
+[
+  {
+    "code": "32.13.180.001",
+    "villageCode": "001",
+    "districtCode": "32.13.180",
+    "name": "Sukamandijaya",
+    "alias": "Sukamandijaya"
+  },
+  {
+    "code": "32.13.180.002",
+    "villageCode": "002",
+    "districtCode": "32.13.180",
+    "name": "Ciasem Tengah",
+    "alias": "Ciasem Tengah"
+  },
+  {
+    "code": "32.13.180.003",
+    "villageCode": "003",
+    "districtCode": "32.13.180",
+    "name": "Dukuh",
+    "alias": "Dukuh"
+  },
+  {
+    "code": "32.13.180.004",
+    "villageCode": "004",
+    "districtCode": "32.13.180",
+    "name": "Jatibaru",
+    "alias": "Jatibaru"
+  },
+  {
+    "code": "32.13.180.006",
+    "villageCode": "006",
+    "districtCode": "32.13.180",
+    "name": "Ciasem Hilir",
+    "alias": "Ciasem Hilir"
+  },
+  {
+    "code": "32.13.180.007",
+    "villageCode": "007",
+    "districtCode": "32.13.180",
+    "name": "Ciasem Baru",
+    "alias": "Ciasem Baru"
+  },
+  {
+    "code": "32.13.180.008",
+    "villageCode": "008",
+    "districtCode": "32.13.180",
+    "name": "Ciasem Girang",
+    "alias": "Ciasem Girang"
+  },
+  {
+    "code": "32.13.180.009",
+    "villageCode": "009",
+    "districtCode": "32.13.180",
+    "name": "Sukahaji",
+    "alias": "Sukahaji"
+  },
+  {
+    "code": "32.13.180.010",
+    "villageCode": "010",
+    "districtCode": "32.13.180",
+    "name": "Pinangsari",
+    "alias": "Pinangsari"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "code": "53.03.162.001",
+    "villageCode": "001",
+    "districtCode": "53.03.162",
+    "name": "Kalali",
+    "alias": "Kalali"
+  },
+  {
+    "code": "53.03.162.002",
+    "villageCode": "002",
+    "districtCode": "53.03.162",
+    "name": "Poto",
+    "alias": "Poto"
+  },
+  {
+    "code": "53.03.162.003",
+    "villageCode": "003",
+    "districtCode": "53.03.162",
+    "name": "Naitae",
+    "alias": "Naitae"
+  },
+  {
+    "code": "53.03.162.004",
+    "villageCode": "004",
+    "districtCode": "53.03.162",
+    "name": "Nuataus",
+    "alias": "Nuataus"
+  },
+  {
+    "code": "53.03.162.005",
+    "villageCode": "005",
+    "districtCode": "53.03.162",
+    "name": "Tuakau",
+    "alias": "Tuakau"
+  }
+]

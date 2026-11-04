@@ -1,0 +1,37 @@
+[
+  {
+    "code": "32.07.140.001",
+    "villageCode": "001",
+    "districtCode": "32.07.140",
+    "name": "Bojongmalang",
+    "alias": "Bojongmalang"
+  },
+  {
+    "code": "32.07.140.002",
+    "villageCode": "002",
+    "districtCode": "32.07.140",
+    "name": "Raksabaya",
+    "alias": "Raksabaya"
+  },
+  {
+    "code": "32.07.140.003",
+    "villageCode": "003",
+    "districtCode": "32.07.140",
+    "name": "Beber",
+    "alias": "Beber"
+  },
+  {
+    "code": "32.07.140.004",
+    "villageCode": "004",
+    "districtCode": "32.07.140",
+    "name": "Cimaragas",
+    "alias": "Cimaragas"
+  },
+  {
+    "code": "32.07.140.005",
+    "villageCode": "005",
+    "districtCode": "32.07.140",
+    "name": "Jayaraksa",
+    "alias": "Jayaraksa"
+  }
+]

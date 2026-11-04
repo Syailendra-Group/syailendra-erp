@@ -1,0 +1,51 @@
+[
+  {
+    "code": "12.76.020.001",
+    "villageCode": "001",
+    "districtCode": "12.76.020",
+    "name": "Berngam",
+    "alias": "Berngam"
+  },
+  {
+    "code": "12.76.020.002",
+    "villageCode": "002",
+    "districtCode": "12.76.020",
+    "name": "Satria",
+    "alias": "Satria"
+  },
+  {
+    "code": "12.76.020.003",
+    "villageCode": "003",
+    "districtCode": "12.76.020",
+    "name": "Setia",
+    "alias": "Setia"
+  },
+  {
+    "code": "12.76.020.004",
+    "villageCode": "004",
+    "districtCode": "12.76.020",
+    "name": "Kartini",
+    "alias": "Kartini"
+  },
+  {
+    "code": "12.76.020.005",
+    "villageCode": "005",
+    "districtCode": "12.76.020",
+    "name": "Tangsi",
+    "alias": "Tangsi"
+  },
+  {
+    "code": "12.76.020.006",
+    "villageCode": "006",
+    "districtCode": "12.76.020",
+    "name": "Binjai",
+    "alias": "Binjai"
+  },
+  {
+    "code": "12.76.020.007",
+    "villageCode": "007",
+    "districtCode": "12.76.020",
+    "name": "Pekan Binjai",
+    "alias": "Pekan Binjai"
+  }
+]

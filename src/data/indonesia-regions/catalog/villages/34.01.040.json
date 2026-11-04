@@ -1,0 +1,51 @@
+[
+  {
+    "code": "34.01.040.001",
+    "villageCode": "001",
+    "districtCode": "34.01.040",
+    "name": "Karang Sewu",
+    "alias": "Karang Sewu"
+  },
+  {
+    "code": "34.01.040.002",
+    "villageCode": "002",
+    "districtCode": "34.01.040",
+    "name": "Banaran",
+    "alias": "Banaran"
+  },
+  {
+    "code": "34.01.040.003",
+    "villageCode": "003",
+    "districtCode": "34.01.040",
+    "name": "Kranggan",
+    "alias": "Kranggan"
+  },
+  {
+    "code": "34.01.040.004",
+    "villageCode": "004",
+    "districtCode": "34.01.040",
+    "name": "Nomporejo",
+    "alias": "Nomporejo"
+  },
+  {
+    "code": "34.01.040.005",
+    "villageCode": "005",
+    "districtCode": "34.01.040",
+    "name": "Brosot",
+    "alias": "Brosot"
+  },
+  {
+    "code": "34.01.040.006",
+    "villageCode": "006",
+    "districtCode": "34.01.040",
+    "name": "Pandowan",
+    "alias": "Pandowan"
+  },
+  {
+    "code": "34.01.040.007",
+    "villageCode": "007",
+    "districtCode": "34.01.040",
+    "name": "Tirta Rahayu",
+    "alias": "Tirta Rahayu"
+  }
+]

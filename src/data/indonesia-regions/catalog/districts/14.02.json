@@ -1,0 +1,114 @@
+[
+  {
+    "code": "14.02.010",
+    "districtCode": "010",
+    "regencyCode": "14.02",
+    "provinceCode": "14",
+    "name": "Kecamatan Peranap",
+    "alias": "Peranap"
+  },
+  {
+    "code": "14.02.011",
+    "districtCode": "011",
+    "regencyCode": "14.02",
+    "provinceCode": "14",
+    "name": "Kecamatan Batang Peranap",
+    "alias": "Batang Peranap"
+  },
+  {
+    "code": "14.02.020",
+    "districtCode": "020",
+    "regencyCode": "14.02",
+    "provinceCode": "14",
+    "name": "Kecamatan Seberida",
+    "alias": "Seberida"
+  },
+  {
+    "code": "14.02.021",
+    "districtCode": "021",
+    "regencyCode": "14.02",
+    "provinceCode": "14",
+    "name": "Kecamatan Batang Cenaku",
+    "alias": "Batang Cenaku"
+  },
+  {
+    "code": "14.02.022",
+    "districtCode": "022",
+    "regencyCode": "14.02",
+    "provinceCode": "14",
+    "name": "Kecamatan Batang Gansal",
+    "alias": "Batang Gansal"
+  },
+  {
+    "code": "14.02.030",
+    "districtCode": "030",
+    "regencyCode": "14.02",
+    "provinceCode": "14",
+    "name": "Kecamatan Kelayang",
+    "alias": "Kelayang"
+  },
+  {
+    "code": "14.02.031",
+    "districtCode": "031",
+    "regencyCode": "14.02",
+    "provinceCode": "14",
+    "name": "Kecamatan Rakit Kulim",
+    "alias": "Rakit Kulim"
+  },
+  {
+    "code": "14.02.040",
+    "districtCode": "040",
+    "regencyCode": "14.02",
+    "provinceCode": "14",
+    "name": "Kecamatan Pasir Penyu",
+    "alias": "Pasir Penyu"
+  },
+  {
+    "code": "14.02.041",
+    "districtCode": "041",
+    "regencyCode": "14.02",
+    "provinceCode": "14",
+    "name": "Kecamatan Lirik",
+    "alias": "Lirik"
+  },
+  {
+    "code": "14.02.042",
+    "districtCode": "042",
+    "regencyCode": "14.02",
+    "provinceCode": "14",
+    "name": "Kecamatan Sungai Lala",
+    "alias": "Sungai Lala"
+  },
+  {
+    "code": "14.02.043",
+    "districtCode": "043",
+    "regencyCode": "14.02",
+    "provinceCode": "14",
+    "name": "Kecamatan Lubuk Batu Jaya",
+    "alias": "Lubuk Batu Jaya"
+  },
+  {
+    "code": "14.02.050",
+    "districtCode": "050",
+    "regencyCode": "14.02",
+    "provinceCode": "14",
+    "name": "Kecamatan Rengat Barat",
+    "alias": "Rengat Barat"
+  },
+  {
+    "code": "14.02.060",
+    "districtCode": "060",
+    "regencyCode": "14.02",
+    "provinceCode": "14",
+    "name": "Kecamatan Rengat",
+    "alias": "Rengat"
+  },
+  {
+    "code": "14.02.061",
+    "districtCode": "061",
+    "regencyCode": "14.02",
+    "provinceCode": "14",
+    "name": "Kecamatan Kuala Cenaku",
+    "alias": "Kuala Cenaku"
+  }
+]

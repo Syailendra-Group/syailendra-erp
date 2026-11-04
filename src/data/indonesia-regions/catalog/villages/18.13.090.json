@@ -1,0 +1,65 @@
+[
+  {
+    "code": "18.13.090.001",
+    "villageCode": "001",
+    "districtCode": "18.13.090",
+    "name": "Gedung Cahya Kuningan",
+    "alias": "Gedung Cahya Kuningan"
+  },
+  {
+    "code": "18.13.090.002",
+    "villageCode": "002",
+    "districtCode": "18.13.090",
+    "name": "Suka Banjar",
+    "alias": "Suka Banjar"
+  },
+  {
+    "code": "18.13.090.003",
+    "villageCode": "003",
+    "districtCode": "18.13.090",
+    "name": "Suka Negara",
+    "alias": "Suka Negara"
+  },
+  {
+    "code": "18.13.090.004",
+    "villageCode": "004",
+    "districtCode": "18.13.090",
+    "name": "Pekon Mon",
+    "alias": "Pekon Mon"
+  },
+  {
+    "code": "18.13.090.005",
+    "villageCode": "005",
+    "districtCode": "18.13.090",
+    "name": "Muara Tembulih",
+    "alias": "Muara Tembulih"
+  },
+  {
+    "code": "18.13.090.006",
+    "villageCode": "006",
+    "districtCode": "18.13.090",
+    "name": "Negeri Ratu Ngambur",
+    "alias": "Negeri Ratu Ngambur"
+  },
+  {
+    "code": "18.13.090.007",
+    "villageCode": "007",
+    "districtCode": "18.13.090",
+    "name": "Bumi Ratu",
+    "alias": "Bumi Ratu"
+  },
+  {
+    "code": "18.13.090.008",
+    "villageCode": "008",
+    "districtCode": "18.13.090",
+    "name": "Ulok Mukti",
+    "alias": "Ulok Mukti"
+  },
+  {
+    "code": "18.13.090.009",
+    "villageCode": "009",
+    "districtCode": "18.13.090",
+    "name": "Sumber Agung",
+    "alias": "Sumber Agung"
+  }
+]

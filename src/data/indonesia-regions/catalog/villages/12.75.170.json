@@ -1,0 +1,51 @@
+[
+  {
+    "code": "12.75.170.001",
+    "villageCode": "001",
+    "districtCode": "12.75.170",
+    "name": "Indra Kasih",
+    "alias": "Indra Kasih"
+  },
+  {
+    "code": "12.75.170.002",
+    "villageCode": "002",
+    "districtCode": "12.75.170",
+    "name": "Sidorejo Hilir",
+    "alias": "Sidorejo Hilir"
+  },
+  {
+    "code": "12.75.170.003",
+    "villageCode": "003",
+    "districtCode": "12.75.170",
+    "name": "Sidorejo",
+    "alias": "Sidorejo"
+  },
+  {
+    "code": "12.75.170.004",
+    "villageCode": "004",
+    "districtCode": "12.75.170",
+    "name": "Bantan Timur",
+    "alias": "Bantan Timur"
+  },
+  {
+    "code": "12.75.170.005",
+    "villageCode": "005",
+    "districtCode": "12.75.170",
+    "name": "Bandar Selamat",
+    "alias": "Bandar Selamat"
+  },
+  {
+    "code": "12.75.170.006",
+    "villageCode": "006",
+    "districtCode": "12.75.170",
+    "name": "B A N T A N",
+    "alias": "B A N T A N"
+  },
+  {
+    "code": "12.75.170.007",
+    "villageCode": "007",
+    "districtCode": "12.75.170",
+    "name": "T E M B U N G",
+    "alias": "T E M B U N G"
+  }
+]

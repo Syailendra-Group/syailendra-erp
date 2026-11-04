@@ -1,0 +1,65 @@
+[
+  {
+    "code": "32.15.072.001",
+    "villageCode": "001",
+    "districtCode": "32.15.072",
+    "name": "Sarimulya",
+    "alias": "Sarimulya"
+  },
+  {
+    "code": "32.15.072.002",
+    "villageCode": "002",
+    "districtCode": "32.15.072",
+    "name": "Jomin Barat",
+    "alias": "Jomin Barat"
+  },
+  {
+    "code": "32.15.072.003",
+    "villageCode": "003",
+    "districtCode": "32.15.072",
+    "name": "Jomin Timur",
+    "alias": "Jomin Timur"
+  },
+  {
+    "code": "32.15.072.004",
+    "villageCode": "004",
+    "districtCode": "32.15.072",
+    "name": "Pangulah Selatan",
+    "alias": "Pangulah Selatan"
+  },
+  {
+    "code": "32.15.072.005",
+    "villageCode": "005",
+    "districtCode": "32.15.072",
+    "name": "Pangulah Utara",
+    "alias": "Pangulah Utara"
+  },
+  {
+    "code": "32.15.072.006",
+    "villageCode": "006",
+    "districtCode": "32.15.072",
+    "name": "Pangulah Baru",
+    "alias": "Pangulah Baru"
+  },
+  {
+    "code": "32.15.072.007",
+    "villageCode": "007",
+    "districtCode": "32.15.072",
+    "name": "Wancimekar",
+    "alias": "Wancimekar"
+  },
+  {
+    "code": "32.15.072.008",
+    "villageCode": "008",
+    "districtCode": "32.15.072",
+    "name": "Pucung",
+    "alias": "Pucung"
+  },
+  {
+    "code": "32.15.072.009",
+    "villageCode": "009",
+    "districtCode": "32.15.072",
+    "name": "Cikampek Utara",
+    "alias": "Cikampek Utara"
+  }
+]

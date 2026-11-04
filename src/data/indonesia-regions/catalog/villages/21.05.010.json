@@ -1,0 +1,44 @@
+[
+  {
+    "code": "21.05.010.004",
+    "villageCode": "004",
+    "districtCode": "21.05.010",
+    "name": "Mampok",
+    "alias": "Mampok"
+  },
+  {
+    "code": "21.05.010.005",
+    "villageCode": "005",
+    "districtCode": "21.05.010",
+    "name": "Letung",
+    "alias": "Letung"
+  },
+  {
+    "code": "21.05.010.006",
+    "villageCode": "006",
+    "districtCode": "21.05.010",
+    "name": "Rewak",
+    "alias": "Rewak"
+  },
+  {
+    "code": "21.05.010.009",
+    "villageCode": "009",
+    "districtCode": "21.05.010",
+    "name": "Air Biru",
+    "alias": "Air Biru"
+  },
+  {
+    "code": "21.05.010.011",
+    "villageCode": "011",
+    "districtCode": "21.05.010",
+    "name": "Batu Berapit",
+    "alias": "Batu Berapit"
+  },
+  {
+    "code": "21.05.010.012",
+    "villageCode": "012",
+    "districtCode": "21.05.010",
+    "name": "Landak",
+    "alias": "Landak"
+  }
+]

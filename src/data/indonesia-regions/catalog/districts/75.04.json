@@ -1,0 +1,146 @@
+[
+  {
+    "code": "75.04.010",
+    "districtCode": "010",
+    "regencyCode": "75.04",
+    "provinceCode": "75",
+    "name": "Kecamatan Tapa",
+    "alias": "Tapa"
+  },
+  {
+    "code": "75.04.011",
+    "districtCode": "011",
+    "regencyCode": "75.04",
+    "provinceCode": "75",
+    "name": "Kecamatan Bulango Utara",
+    "alias": "Bulango Utara"
+  },
+  {
+    "code": "75.04.012",
+    "districtCode": "012",
+    "regencyCode": "75.04",
+    "provinceCode": "75",
+    "name": "Kecamatan Bulango Selatan",
+    "alias": "Bulango Selatan"
+  },
+  {
+    "code": "75.04.013",
+    "districtCode": "013",
+    "regencyCode": "75.04",
+    "provinceCode": "75",
+    "name": "Kecamatan Bulango Timur",
+    "alias": "Bulango Timur"
+  },
+  {
+    "code": "75.04.014",
+    "districtCode": "014",
+    "regencyCode": "75.04",
+    "provinceCode": "75",
+    "name": "Kecamatan Bulango Ulu",
+    "alias": "Bulango Ulu"
+  },
+  {
+    "code": "75.04.020",
+    "districtCode": "020",
+    "regencyCode": "75.04",
+    "provinceCode": "75",
+    "name": "Kecamatan Kabila",
+    "alias": "Kabila"
+  },
+  {
+    "code": "75.04.021",
+    "districtCode": "021",
+    "regencyCode": "75.04",
+    "provinceCode": "75",
+    "name": "Kecamatan Botu Pingge",
+    "alias": "Botu Pingge"
+  },
+  {
+    "code": "75.04.022",
+    "districtCode": "022",
+    "regencyCode": "75.04",
+    "provinceCode": "75",
+    "name": "Kecamatan Tilongkabila",
+    "alias": "Tilongkabila"
+  },
+  {
+    "code": "75.04.030",
+    "districtCode": "030",
+    "regencyCode": "75.04",
+    "provinceCode": "75",
+    "name": "Kecamatan Suwawa",
+    "alias": "Suwawa"
+  },
+  {
+    "code": "75.04.031",
+    "districtCode": "031",
+    "regencyCode": "75.04",
+    "provinceCode": "75",
+    "name": "Kecamatan Suwawa Selatan",
+    "alias": "Suwawa Selatan"
+  },
+  {
+    "code": "75.04.032",
+    "districtCode": "032",
+    "regencyCode": "75.04",
+    "provinceCode": "75",
+    "name": "Kecamatan Suwawa Timur",
+    "alias": "Suwawa Timur"
+  },
+  {
+    "code": "75.04.033",
+    "districtCode": "033",
+    "regencyCode": "75.04",
+    "provinceCode": "75",
+    "name": "Kecamatan Suwawa Tengah",
+    "alias": "Suwawa Tengah"
+  },
+  {
+    "code": "75.04.034",
+    "districtCode": "034",
+    "regencyCode": "75.04",
+    "provinceCode": "75",
+    "name": "Kecamatan Pinogu",
+    "alias": "Pinogu"
+  },
+  {
+    "code": "75.04.040",
+    "districtCode": "040",
+    "regencyCode": "75.04",
+    "provinceCode": "75",
+    "name": "Kecamatan Bonepantai",
+    "alias": "Bonepantai"
+  },
+  {
+    "code": "75.04.041",
+    "districtCode": "041",
+    "regencyCode": "75.04",
+    "provinceCode": "75",
+    "name": "Kecamatan Kabila Bone",
+    "alias": "Kabila Bone"
+  },
+  {
+    "code": "75.04.042",
+    "districtCode": "042",
+    "regencyCode": "75.04",
+    "provinceCode": "75",
+    "name": "Kecamatan Bone Raya",
+    "alias": "Bone Raya"
+  },
+  {
+    "code": "75.04.043",
+    "districtCode": "043",
+    "regencyCode": "75.04",
+    "provinceCode": "75",
+    "name": "Kecamatan Bone",
+    "alias": "Bone"
+  },
+  {
+    "code": "75.04.044",
+    "districtCode": "044",
+    "regencyCode": "75.04",
+    "provinceCode": "75",
+    "name": "Kecamatan Bulawa",
+    "alias": "Bulawa"
+  }
+]

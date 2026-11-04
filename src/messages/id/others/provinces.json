@@ -5,14 +5,15 @@
   "table": {
     "name": "Nama Provinsi",
     "code": "Kode",
+    "alias": "Alias",
     "country": "Negara",
     "status": "Status"
   },
   "form": {
-    "category": "Kategori Provinsi",
+    "category": "Kategori Wilayah",
     "catalogLabel": "Katalog 38 Provinsi Resmi BPS",
     "catalogPlaceholder": "Pilih 38 Provinsi Resmi...",
-    "foreignCountry": "Negara Tujuan",
+    "foreignCountry": "Negara Bagian / Luar Negeri",
     "foreignCountryPlaceholder": "Pilih negara...",
     "namePlaceholder": "Contoh: Jawa Tengah, Sabah, Victoria",
     "codePlaceholder": "Contoh: JT / 33 / VIC"
@@ -21,8 +22,8 @@
     "addTitle": "Registrasi Provinsi Baru",
     "addDesc": "Daftarkan provinsi baru ke dalam katalog wilayah sistem.",
     "editTitle": "Ubah Data Provinsi",
-    "editDesc": "Perbarui kode resmi atau nama provinsi.",
+    "editDesc": "Perbarui kode resmi, nama alias, atau deskripsi provinsi.",
     "viewTitle": "Rincian Data Provinsi",
-    "viewDesc": "Informasi data wilayah dan negara induk terdaftar."
+    "viewDesc": "Informasi data wilayah, nama alias, dan negara induk terdaftar."
   }
 }

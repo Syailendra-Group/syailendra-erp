@@ -1,0 +1,51 @@
+[
+  {
+    "code": "61.05.010.001",
+    "villageCode": "001",
+    "districtCode": "61.05.010",
+    "name": "Bagan Asam",
+    "alias": "Bagan Asam"
+  },
+  {
+    "code": "61.05.010.002",
+    "villageCode": "002",
+    "districtCode": "61.05.010",
+    "name": "Teraju",
+    "alias": "Teraju"
+  },
+  {
+    "code": "61.05.010.003",
+    "villageCode": "003",
+    "districtCode": "61.05.010",
+    "name": "Kampung Baru",
+    "alias": "Kampung Baru"
+  },
+  {
+    "code": "61.05.010.004",
+    "villageCode": "004",
+    "districtCode": "61.05.010",
+    "name": "Lumut",
+    "alias": "Lumut"
+  },
+  {
+    "code": "61.05.010.005",
+    "villageCode": "005",
+    "districtCode": "61.05.010",
+    "name": "Sansat",
+    "alias": "Sansat"
+  },
+  {
+    "code": "61.05.010.006",
+    "villageCode": "006",
+    "districtCode": "61.05.010",
+    "name": "Balai Belungai",
+    "alias": "Balai Belungai"
+  },
+  {
+    "code": "61.05.010.007",
+    "villageCode": "007",
+    "districtCode": "61.05.010",
+    "name": "Belungai Dalam",
+    "alias": "Belungai Dalam"
+  }
+]

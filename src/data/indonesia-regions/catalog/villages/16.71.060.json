@@ -1,0 +1,44 @@
+[
+  {
+    "code": "16.71.060.004",
+    "villageCode": "004",
+    "districtCode": "16.71.060",
+    "name": "Lawangkidul",
+    "alias": "Lawangkidul"
+  },
+  {
+    "code": "16.71.060.005",
+    "villageCode": "005",
+    "districtCode": "16.71.060",
+    "name": "Tiga Ilir",
+    "alias": "Tiga Ilir"
+  },
+  {
+    "code": "16.71.060.006",
+    "villageCode": "006",
+    "districtCode": "16.71.060",
+    "name": "Satu Ilir",
+    "alias": "Satu Ilir"
+  },
+  {
+    "code": "16.71.060.007",
+    "villageCode": "007",
+    "districtCode": "16.71.060",
+    "name": "Sungaibuah",
+    "alias": "Sungaibuah"
+  },
+  {
+    "code": "16.71.060.008",
+    "villageCode": "008",
+    "districtCode": "16.71.060",
+    "name": "Dua Ilir",
+    "alias": "Dua Ilir"
+  },
+  {
+    "code": "16.71.060.009",
+    "villageCode": "009",
+    "districtCode": "16.71.060",
+    "name": "Lima Ilir",
+    "alias": "Lima Ilir"
+  }
+]

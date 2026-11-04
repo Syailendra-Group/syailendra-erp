@@ -1,0 +1,218 @@
+[
+  {
+    "code": "35.29.010",
+    "districtCode": "010",
+    "regencyCode": "35.29",
+    "provinceCode": "35",
+    "name": "Kecamatan Pragaan",
+    "alias": "Pragaan"
+  },
+  {
+    "code": "35.29.020",
+    "districtCode": "020",
+    "regencyCode": "35.29",
+    "provinceCode": "35",
+    "name": "Kecamatan Bluto",
+    "alias": "Bluto"
+  },
+  {
+    "code": "35.29.030",
+    "districtCode": "030",
+    "regencyCode": "35.29",
+    "provinceCode": "35",
+    "name": "Kecamatan Saronggi",
+    "alias": "Saronggi"
+  },
+  {
+    "code": "35.29.040",
+    "districtCode": "040",
+    "regencyCode": "35.29",
+    "provinceCode": "35",
+    "name": "Kecamatan Giligenteng",
+    "alias": "Giligenteng"
+  },
+  {
+    "code": "35.29.050",
+    "districtCode": "050",
+    "regencyCode": "35.29",
+    "provinceCode": "35",
+    "name": "Kecamatan Talango",
+    "alias": "Talango"
+  },
+  {
+    "code": "35.29.060",
+    "districtCode": "060",
+    "regencyCode": "35.29",
+    "provinceCode": "35",
+    "name": "Kecamatan Kalianget",
+    "alias": "Kalianget"
+  },
+  {
+    "code": "35.29.070",
+    "districtCode": "070",
+    "regencyCode": "35.29",
+    "provinceCode": "35",
+    "name": "Kecamatan Kota Sumenep",
+    "alias": "Kota Sumenep"
+  },
+  {
+    "code": "35.29.071",
+    "districtCode": "071",
+    "regencyCode": "35.29",
+    "provinceCode": "35",
+    "name": "Kecamatan Batuan",
+    "alias": "Batuan"
+  },
+  {
+    "code": "35.29.080",
+    "districtCode": "080",
+    "regencyCode": "35.29",
+    "provinceCode": "35",
+    "name": "Kecamatan Lenteng",
+    "alias": "Lenteng"
+  },
+  {
+    "code": "35.29.090",
+    "districtCode": "090",
+    "regencyCode": "35.29",
+    "provinceCode": "35",
+    "name": "Kecamatan Ganding",
+    "alias": "Ganding"
+  },
+  {
+    "code": "35.29.100",
+    "districtCode": "100",
+    "regencyCode": "35.29",
+    "provinceCode": "35",
+    "name": "Kecamatan Guluk Guluk",
+    "alias": "Guluk Guluk"
+  },
+  {
+    "code": "35.29.110",
+    "districtCode": "110",
+    "regencyCode": "35.29",
+    "provinceCode": "35",
+    "name": "Kecamatan Pasongsongan",
+    "alias": "Pasongsongan"
+  },
+  {
+    "code": "35.29.120",
+    "districtCode": "120",
+    "regencyCode": "35.29",
+    "provinceCode": "35",
+    "name": "Kecamatan Ambunten",
+    "alias": "Ambunten"
+  },
+  {
+    "code": "35.29.130",
+    "districtCode": "130",
+    "regencyCode": "35.29",
+    "provinceCode": "35",
+    "name": "Kecamatan Rubaru",
+    "alias": "Rubaru"
+  },
+  {
+    "code": "35.29.140",
+    "districtCode": "140",
+    "regencyCode": "35.29",
+    "provinceCode": "35",
+    "name": "Kecamatan Dasuk",
+    "alias": "Dasuk"
+  },
+  {
+    "code": "35.29.150",
+    "districtCode": "150",
+    "regencyCode": "35.29",
+    "provinceCode": "35",
+    "name": "Kecamatan Manding",
+    "alias": "Manding"
+  },
+  {
+    "code": "35.29.160",
+    "districtCode": "160",
+    "regencyCode": "35.29",
+    "provinceCode": "35",
+    "name": "Kecamatan Batuputih",
+    "alias": "Batuputih"
+  },
+  {
+    "code": "35.29.170",
+    "districtCode": "170",
+    "regencyCode": "35.29",
+    "provinceCode": "35",
+    "name": "Kecamatan Gapura",
+    "alias": "Gapura"
+  },
+  {
+    "code": "35.29.180",
+    "districtCode": "180",
+    "regencyCode": "35.29",
+    "provinceCode": "35",
+    "name": "Kecamatan Batang Batang",
+    "alias": "Batang Batang"
+  },
+  {
+    "code": "35.29.190",
+    "districtCode": "190",
+    "regencyCode": "35.29",
+    "provinceCode": "35",
+    "name": "Kecamatan Dungkek",
+    "alias": "Dungkek"
+  },
+  {
+    "code": "35.29.200",
+    "districtCode": "200",
+    "regencyCode": "35.29",
+    "provinceCode": "35",
+    "name": "Kecamatan Nonggunong",
+    "alias": "Nonggunong"
+  },
+  {
+    "code": "35.29.210",
+    "districtCode": "210",
+    "regencyCode": "35.29",
+    "provinceCode": "35",
+    "name": "Kecamatan Gayam",
+    "alias": "Gayam"
+  },
+  {
+    "code": "35.29.220",
+    "districtCode": "220",
+    "regencyCode": "35.29",
+    "provinceCode": "35",
+    "name": "Kecamatan Raas",
+    "alias": "Raas"
+  },
+  {
+    "code": "35.29.230",
+    "districtCode": "230",
+    "regencyCode": "35.29",
+    "provinceCode": "35",
+    "name": "Kecamatan Sapeken",
+    "alias": "Sapeken"
+  },
+  {
+    "code": "35.29.240",
+    "districtCode": "240",
+    "regencyCode": "35.29",
+    "provinceCode": "35",
+    "name": "Kecamatan Arjasa",
+    "alias": "Arjasa"
+  },
+  {
+    "code": "35.29.241",
+    "districtCode": "241",
+    "regencyCode": "35.29",
+    "provinceCode": "35",
+    "name": "Kecamatan Kangayan",
+    "alias": "Kangayan"
+  },
+  {
+    "code": "35.29.250",
+    "districtCode": "250",
+    "regencyCode": "35.29",
+    "provinceCode": "35",
+    "name": "Kecamatan Masalembu",
+    "alias": "Masalembu"
+  }
+]

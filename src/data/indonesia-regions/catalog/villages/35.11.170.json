@@ -1,0 +1,107 @@
+[
+  {
+    "code": "35.11.170.001",
+    "villageCode": "001",
+    "districtCode": "35.11.170",
+    "name": "Suling Kulon",
+    "alias": "Suling Kulon"
+  },
+  {
+    "code": "35.11.170.002",
+    "villageCode": "002",
+    "districtCode": "35.11.170",
+    "name": "Solor",
+    "alias": "Solor"
+  },
+  {
+    "code": "35.11.170.003",
+    "villageCode": "003",
+    "districtCode": "35.11.170",
+    "name": "Kladi",
+    "alias": "Kladi"
+  },
+  {
+    "code": "35.11.170.004",
+    "villageCode": "004",
+    "districtCode": "35.11.170",
+    "name": "Bercak",
+    "alias": "Bercak"
+  },
+  {
+    "code": "35.11.170.005",
+    "villageCode": "005",
+    "districtCode": "35.11.170",
+    "name": "Cermee",
+    "alias": "Cermee"
+  },
+  {
+    "code": "35.11.170.006",
+    "villageCode": "006",
+    "districtCode": "35.11.170",
+    "name": "Suling Wetan",
+    "alias": "Suling Wetan"
+  },
+  {
+    "code": "35.11.170.007",
+    "villageCode": "007",
+    "districtCode": "35.11.170",
+    "name": "Ramban Wetan",
+    "alias": "Ramban Wetan"
+  },
+  {
+    "code": "35.11.170.008",
+    "villageCode": "008",
+    "districtCode": "35.11.170",
+    "name": "Ramban Kulon",
+    "alias": "Ramban Kulon"
+  },
+  {
+    "code": "35.11.170.009",
+    "villageCode": "009",
+    "districtCode": "35.11.170",
+    "name": "Grujugan",
+    "alias": "Grujugan"
+  },
+  {
+    "code": "35.11.170.010",
+    "villageCode": "010",
+    "districtCode": "35.11.170",
+    "name": "Bajuran",
+    "alias": "Bajuran"
+  },
+  {
+    "code": "35.11.170.011",
+    "villageCode": "011",
+    "districtCode": "35.11.170",
+    "name": "Jirek Mas",
+    "alias": "Jirek Mas"
+  },
+  {
+    "code": "35.11.170.012",
+    "villageCode": "012",
+    "districtCode": "35.11.170",
+    "name": "Batusalang",
+    "alias": "Batusalang"
+  },
+  {
+    "code": "35.11.170.013",
+    "villageCode": "013",
+    "districtCode": "35.11.170",
+    "name": "Pelalangan",
+    "alias": "Pelalangan"
+  },
+  {
+    "code": "35.11.170.014",
+    "villageCode": "014",
+    "districtCode": "35.11.170",
+    "name": "Batu Ampar",
+    "alias": "Batu Ampar"
+  },
+  {
+    "code": "35.11.170.015",
+    "villageCode": "015",
+    "districtCode": "35.11.170",
+    "name": "Bercak Asri",
+    "alias": "Bercak Asri"
+  }
+]

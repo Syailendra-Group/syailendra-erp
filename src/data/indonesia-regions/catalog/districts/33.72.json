@@ -1,0 +1,42 @@
+[
+  {
+    "code": "33.72.010",
+    "districtCode": "010",
+    "regencyCode": "33.72",
+    "provinceCode": "33",
+    "name": "Kecamatan Laweyan",
+    "alias": "Laweyan"
+  },
+  {
+    "code": "33.72.020",
+    "districtCode": "020",
+    "regencyCode": "33.72",
+    "provinceCode": "33",
+    "name": "Kecamatan Serengan",
+    "alias": "Serengan"
+  },
+  {
+    "code": "33.72.030",
+    "districtCode": "030",
+    "regencyCode": "33.72",
+    "provinceCode": "33",
+    "name": "Kecamatan Pasar Kliwon",
+    "alias": "Pasar Kliwon"
+  },
+  {
+    "code": "33.72.040",
+    "districtCode": "040",
+    "regencyCode": "33.72",
+    "provinceCode": "33",
+    "name": "Kecamatan Jebres",
+    "alias": "Jebres"
+  },
+  {
+    "code": "33.72.050",
+    "districtCode": "050",
+    "regencyCode": "33.72",
+    "provinceCode": "33",
+    "name": "Kecamatan Banjarsari",
+    "alias": "Banjarsari"
+  }
+]

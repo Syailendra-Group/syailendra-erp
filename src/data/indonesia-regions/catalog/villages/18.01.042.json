@@ -1,0 +1,79 @@
+[
+  {
+    "code": "18.01.042.001",
+    "villageCode": "001",
+    "districtCode": "18.01.042",
+    "name": "Lombok",
+    "alias": "Lombok"
+  },
+  {
+    "code": "18.01.042.002",
+    "villageCode": "002",
+    "districtCode": "18.01.042",
+    "name": "Heni Arong",
+    "alias": "Heni Arong"
+  },
+  {
+    "code": "18.01.042.003",
+    "villageCode": "003",
+    "districtCode": "18.01.042",
+    "name": "Suka Banjar",
+    "alias": "Suka Banjar"
+  },
+  {
+    "code": "18.01.042.004",
+    "villageCode": "004",
+    "districtCode": "18.01.042",
+    "name": "Lombok Timur",
+    "alias": "Lombok Timur"
+  },
+  {
+    "code": "18.01.042.005",
+    "villageCode": "005",
+    "districtCode": "18.01.042",
+    "name": "Suka Banjar Ii Ujung Rembun",
+    "alias": "Suka Banjar Ii Ujung Rembun"
+  },
+  {
+    "code": "18.01.042.006",
+    "villageCode": "006",
+    "districtCode": "18.01.042",
+    "name": "Suka Maju",
+    "alias": "Suka Maju"
+  },
+  {
+    "code": "18.01.042.007",
+    "villageCode": "007",
+    "districtCode": "18.01.042",
+    "name": "Ujung",
+    "alias": "Ujung"
+  },
+  {
+    "code": "18.01.042.008",
+    "villageCode": "008",
+    "districtCode": "18.01.042",
+    "name": "Keagungan",
+    "alias": "Keagungan"
+  },
+  {
+    "code": "18.01.042.009",
+    "villageCode": "009",
+    "districtCode": "18.01.042",
+    "name": "Tawan Suka Mulya",
+    "alias": "Tawan Suka Mulya"
+  },
+  {
+    "code": "18.01.042.010",
+    "villageCode": "010",
+    "districtCode": "18.01.042",
+    "name": "Pancur Mas",
+    "alias": "Pancur Mas"
+  },
+  {
+    "code": "18.01.042.011",
+    "villageCode": "011",
+    "districtCode": "18.01.042",
+    "name": "Lombok Selatan",
+    "alias": "Lombok Selatan"
+  }
+]

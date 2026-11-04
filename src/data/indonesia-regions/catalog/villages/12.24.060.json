@@ -1,0 +1,58 @@
+[
+  {
+    "code": "12.24.060.001",
+    "villageCode": "001",
+    "districtCode": "12.24.060",
+    "name": "Botolakha",
+    "alias": "Botolakha"
+  },
+  {
+    "code": "12.24.060.002",
+    "villageCode": "002",
+    "districtCode": "12.24.060",
+    "name": "Siofa Banua",
+    "alias": "Siofa Banua"
+  },
+  {
+    "code": "12.24.060.003",
+    "villageCode": "003",
+    "districtCode": "12.24.060",
+    "name": "Laaya",
+    "alias": "Laaya"
+  },
+  {
+    "code": "12.24.060.004",
+    "villageCode": "004",
+    "districtCode": "12.24.060",
+    "name": "Alooa",
+    "alias": "Alooa"
+  },
+  {
+    "code": "12.24.060.005",
+    "villageCode": "005",
+    "districtCode": "12.24.060",
+    "name": "Ladara",
+    "alias": "Ladara"
+  },
+  {
+    "code": "12.24.060.006",
+    "villageCode": "006",
+    "districtCode": "12.24.060",
+    "name": "Banuagea",
+    "alias": "Banuagea"
+  },
+  {
+    "code": "12.24.060.007",
+    "villageCode": "007",
+    "districtCode": "12.24.060",
+    "name": "Silima Banua",
+    "alias": "Silima Banua"
+  },
+  {
+    "code": "12.24.060.008",
+    "villageCode": "008",
+    "districtCode": "12.24.060",
+    "name": "Fino",
+    "alias": "Fino"
+  }
+]

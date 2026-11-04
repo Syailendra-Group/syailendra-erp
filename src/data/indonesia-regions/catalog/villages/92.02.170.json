@@ -1,0 +1,37 @@
+[
+  {
+    "code": "92.02.170.001",
+    "villageCode": "001",
+    "districtCode": "92.02.170",
+    "name": "Barros",
+    "alias": "Barros"
+  },
+  {
+    "code": "92.02.170.002",
+    "villageCode": "002",
+    "districtCode": "92.02.170",
+    "name": "Maladuk",
+    "alias": "Maladuk"
+  },
+  {
+    "code": "92.02.170.003",
+    "villageCode": "003",
+    "districtCode": "92.02.170",
+    "name": "Klamono Olie",
+    "alias": "Klamono Olie"
+  },
+  {
+    "code": "92.02.170.004",
+    "villageCode": "004",
+    "districtCode": "92.02.170",
+    "name": "Tiligum",
+    "alias": "Tiligum"
+  },
+  {
+    "code": "92.02.170.005",
+    "villageCode": "005",
+    "districtCode": "92.02.170",
+    "name": "Kwawilibe",
+    "alias": "Kwawilibe"
+  }
+]

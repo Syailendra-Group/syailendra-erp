@@ -1,0 +1,79 @@
+[
+  {
+    "code": "32.04.120.001",
+    "villageCode": "001",
+    "districtCode": "32.04.120",
+    "name": "Neglasari",
+    "alias": "Neglasari"
+  },
+  {
+    "code": "32.04.120.002",
+    "villageCode": "002",
+    "districtCode": "32.04.120",
+    "name": "Wangisagara",
+    "alias": "Wangisagara"
+  },
+  {
+    "code": "32.04.120.003",
+    "villageCode": "003",
+    "districtCode": "32.04.120",
+    "name": "Padamulya",
+    "alias": "Padamulya"
+  },
+  {
+    "code": "32.04.120.004",
+    "villageCode": "004",
+    "districtCode": "32.04.120",
+    "name": "Sukamukti",
+    "alias": "Sukamukti"
+  },
+  {
+    "code": "32.04.120.005",
+    "villageCode": "005",
+    "districtCode": "32.04.120",
+    "name": "Padaulun",
+    "alias": "Padaulun"
+  },
+  {
+    "code": "32.04.120.006",
+    "villageCode": "006",
+    "districtCode": "32.04.120",
+    "name": "Biru",
+    "alias": "Biru"
+  },
+  {
+    "code": "32.04.120.007",
+    "villageCode": "007",
+    "districtCode": "32.04.120",
+    "name": "Sukamaju",
+    "alias": "Sukamaju"
+  },
+  {
+    "code": "32.04.120.008",
+    "villageCode": "008",
+    "districtCode": "32.04.120",
+    "name": "Majasetra",
+    "alias": "Majasetra"
+  },
+  {
+    "code": "32.04.120.009",
+    "villageCode": "009",
+    "districtCode": "32.04.120",
+    "name": "Majalaya",
+    "alias": "Majalaya"
+  },
+  {
+    "code": "32.04.120.010",
+    "villageCode": "010",
+    "districtCode": "32.04.120",
+    "name": "Majakerta",
+    "alias": "Majakerta"
+  },
+  {
+    "code": "32.04.120.011",
+    "villageCode": "011",
+    "districtCode": "32.04.120",
+    "name": "Bojong",
+    "alias": "Bojong"
+  }
+]

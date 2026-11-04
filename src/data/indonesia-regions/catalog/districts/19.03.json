@@ -1,0 +1,50 @@
+[
+  {
+    "code": "19.03.010",
+    "districtCode": "010",
+    "regencyCode": "19.03",
+    "provinceCode": "19",
+    "name": "Kecamatan Kelapa",
+    "alias": "Kelapa"
+  },
+  {
+    "code": "19.03.020",
+    "districtCode": "020",
+    "regencyCode": "19.03",
+    "provinceCode": "19",
+    "name": "Kecamatan Tempilang",
+    "alias": "Tempilang"
+  },
+  {
+    "code": "19.03.030",
+    "districtCode": "030",
+    "regencyCode": "19.03",
+    "provinceCode": "19",
+    "name": "Kecamatan Mentok",
+    "alias": "Mentok"
+  },
+  {
+    "code": "19.03.040",
+    "districtCode": "040",
+    "regencyCode": "19.03",
+    "provinceCode": "19",
+    "name": "Kecamatan Simpang Teritip",
+    "alias": "Simpang Teritip"
+  },
+  {
+    "code": "19.03.050",
+    "districtCode": "050",
+    "regencyCode": "19.03",
+    "provinceCode": "19",
+    "name": "Kecamatan Jebus",
+    "alias": "Jebus"
+  },
+  {
+    "code": "19.03.051",
+    "districtCode": "051",
+    "regencyCode": "19.03",
+    "provinceCode": "19",
+    "name": "Kecamatan Parittiga",
+    "alias": "Parittiga"
+  }
+]

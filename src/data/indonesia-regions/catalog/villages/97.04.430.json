@@ -1,0 +1,79 @@
+[
+  {
+    "code": "97.04.430.001",
+    "villageCode": "001",
+    "districtCode": "97.04.430",
+    "name": "Pekaleme",
+    "alias": "Pekaleme"
+  },
+  {
+    "code": "97.04.430.002",
+    "villageCode": "002",
+    "districtCode": "97.04.430",
+    "name": "Taleme",
+    "alias": "Taleme"
+  },
+  {
+    "code": "97.04.430.003",
+    "villageCode": "003",
+    "districtCode": "97.04.430",
+    "name": "Giko/Obelom",
+    "alias": "Giko/Obelom"
+  },
+  {
+    "code": "97.04.430.004",
+    "villageCode": "004",
+    "districtCode": "97.04.430",
+    "name": "Kungge",
+    "alias": "Kungge"
+  },
+  {
+    "code": "97.04.430.005",
+    "villageCode": "005",
+    "districtCode": "97.04.430",
+    "name": "Kotorambur",
+    "alias": "Kotorambur"
+  },
+  {
+    "code": "97.04.430.006",
+    "villageCode": "006",
+    "districtCode": "97.04.430",
+    "name": "Minagame",
+    "alias": "Minagame"
+  },
+  {
+    "code": "97.04.430.007",
+    "villageCode": "007",
+    "districtCode": "97.04.430",
+    "name": "Karu",
+    "alias": "Karu"
+  },
+  {
+    "code": "97.04.430.008",
+    "villageCode": "008",
+    "districtCode": "97.04.430",
+    "name": "Tabuh",
+    "alias": "Tabuh"
+  },
+  {
+    "code": "97.04.430.009",
+    "villageCode": "009",
+    "districtCode": "97.04.430",
+    "name": "Gwak Dugunik",
+    "alias": "Gwak Dugunik"
+  },
+  {
+    "code": "97.04.430.010",
+    "villageCode": "010",
+    "districtCode": "97.04.430",
+    "name": "Minegime",
+    "alias": "Minegime"
+  },
+  {
+    "code": "97.04.430.011",
+    "villageCode": "011",
+    "districtCode": "97.04.430",
+    "name": "Ambirik",
+    "alias": "Ambirik"
+  }
+]

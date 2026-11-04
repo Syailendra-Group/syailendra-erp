@@ -1,0 +1,100 @@
+[
+  {
+    "code": "82.04.060.004",
+    "villageCode": "004",
+    "districtCode": "82.04.060",
+    "name": "Ligua",
+    "alias": "Ligua"
+  },
+  {
+    "code": "82.04.060.005",
+    "villageCode": "005",
+    "districtCode": "82.04.060",
+    "name": "Kida",
+    "alias": "Kida"
+  },
+  {
+    "code": "82.04.060.006",
+    "villageCode": "006",
+    "districtCode": "82.04.060",
+    "name": "Buli",
+    "alias": "Buli"
+  },
+  {
+    "code": "82.04.060.011",
+    "villageCode": "011",
+    "districtCode": "82.04.060",
+    "name": "Lelei",
+    "alias": "Lelei"
+  },
+  {
+    "code": "82.04.060.012",
+    "villageCode": "012",
+    "districtCode": "82.04.060",
+    "name": "Talimau",
+    "alias": "Talimau"
+  },
+  {
+    "code": "82.04.060.013",
+    "villageCode": "013",
+    "districtCode": "82.04.060",
+    "name": "Tawabi",
+    "alias": "Tawabi"
+  },
+  {
+    "code": "82.04.060.015",
+    "villageCode": "015",
+    "districtCode": "82.04.060",
+    "name": "Guruapin",
+    "alias": "Guruapin"
+  },
+  {
+    "code": "82.04.060.016",
+    "villageCode": "016",
+    "districtCode": "82.04.060",
+    "name": "Bajo",
+    "alias": "Bajo"
+  },
+  {
+    "code": "82.04.060.017",
+    "villageCode": "017",
+    "districtCode": "82.04.060",
+    "name": "Gunange",
+    "alias": "Gunange"
+  },
+  {
+    "code": "82.04.060.019",
+    "villageCode": "019",
+    "districtCode": "82.04.060",
+    "name": "Karamat",
+    "alias": "Karamat"
+  },
+  {
+    "code": "82.04.060.024",
+    "villageCode": "024",
+    "districtCode": "82.04.060",
+    "name": "Laigoma",
+    "alias": "Laigoma"
+  },
+  {
+    "code": "82.04.060.025",
+    "villageCode": "025",
+    "districtCode": "82.04.060",
+    "name": "Gafi",
+    "alias": "Gafi"
+  },
+  {
+    "code": "82.04.060.026",
+    "villageCode": "026",
+    "districtCode": "82.04.060",
+    "name": "Siko",
+    "alias": "Siko"
+  },
+  {
+    "code": "82.04.060.027",
+    "villageCode": "027",
+    "districtCode": "82.04.060",
+    "name": "Dorolamo",
+    "alias": "Dorolamo"
+  }
+]

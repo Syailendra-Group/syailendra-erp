@@ -1,0 +1,34 @@
+[
+  {
+    "code": "13.77.010",
+    "districtCode": "010",
+    "regencyCode": "13.77",
+    "provinceCode": "13",
+    "name": "Kecamatan Pariaman Selatan",
+    "alias": "Pariaman Selatan"
+  },
+  {
+    "code": "13.77.020",
+    "districtCode": "020",
+    "regencyCode": "13.77",
+    "provinceCode": "13",
+    "name": "Kecamatan Pariaman Tengah",
+    "alias": "Pariaman Tengah"
+  },
+  {
+    "code": "13.77.021",
+    "districtCode": "021",
+    "regencyCode": "13.77",
+    "provinceCode": "13",
+    "name": "Kecamatan Pariaman Timur",
+    "alias": "Pariaman Timur"
+  },
+  {
+    "code": "13.77.030",
+    "districtCode": "030",
+    "regencyCode": "13.77",
+    "provinceCode": "13",
+    "name": "Kecamatan Pariaman Utara",
+    "alias": "Pariaman Utara"
+  }
+]

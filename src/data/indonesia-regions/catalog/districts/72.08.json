@@ -1,0 +1,186 @@
+[
+  {
+    "code": "72.08.010",
+    "districtCode": "010",
+    "regencyCode": "72.08",
+    "provinceCode": "72",
+    "name": "Kecamatan Sausu",
+    "alias": "Sausu"
+  },
+  {
+    "code": "72.08.011",
+    "districtCode": "011",
+    "regencyCode": "72.08",
+    "provinceCode": "72",
+    "name": "Kecamatan Torue",
+    "alias": "Torue"
+  },
+  {
+    "code": "72.08.012",
+    "districtCode": "012",
+    "regencyCode": "72.08",
+    "provinceCode": "72",
+    "name": "Kecamatan Balinggi",
+    "alias": "Balinggi"
+  },
+  {
+    "code": "72.08.020",
+    "districtCode": "020",
+    "regencyCode": "72.08",
+    "provinceCode": "72",
+    "name": "Kecamatan Parigi",
+    "alias": "Parigi"
+  },
+  {
+    "code": "72.08.021",
+    "districtCode": "021",
+    "regencyCode": "72.08",
+    "provinceCode": "72",
+    "name": "Kecamatan Parigi Selatan",
+    "alias": "Parigi Selatan"
+  },
+  {
+    "code": "72.08.022",
+    "districtCode": "022",
+    "regencyCode": "72.08",
+    "provinceCode": "72",
+    "name": "Kecamatan Parigi Barat",
+    "alias": "Parigi Barat"
+  },
+  {
+    "code": "72.08.023",
+    "districtCode": "023",
+    "regencyCode": "72.08",
+    "provinceCode": "72",
+    "name": "Kecamatan Parigi Utara",
+    "alias": "Parigi Utara"
+  },
+  {
+    "code": "72.08.024",
+    "districtCode": "024",
+    "regencyCode": "72.08",
+    "provinceCode": "72",
+    "name": "Kecamatan Parigi Tengah",
+    "alias": "Parigi Tengah"
+  },
+  {
+    "code": "72.08.030",
+    "districtCode": "030",
+    "regencyCode": "72.08",
+    "provinceCode": "72",
+    "name": "Kecamatan Ampibabo",
+    "alias": "Ampibabo"
+  },
+  {
+    "code": "72.08.031",
+    "districtCode": "031",
+    "regencyCode": "72.08",
+    "provinceCode": "72",
+    "name": "Kecamatan Kasimbar",
+    "alias": "Kasimbar"
+  },
+  {
+    "code": "72.08.032",
+    "districtCode": "032",
+    "regencyCode": "72.08",
+    "provinceCode": "72",
+    "name": "Kecamatan Toribulu",
+    "alias": "Toribulu"
+  },
+  {
+    "code": "72.08.033",
+    "districtCode": "033",
+    "regencyCode": "72.08",
+    "provinceCode": "72",
+    "name": "Kecamatan Siniu",
+    "alias": "Siniu"
+  },
+  {
+    "code": "72.08.040",
+    "districtCode": "040",
+    "regencyCode": "72.08",
+    "provinceCode": "72",
+    "name": "Kecamatan Tinombo",
+    "alias": "Tinombo"
+  },
+  {
+    "code": "72.08.041",
+    "districtCode": "041",
+    "regencyCode": "72.08",
+    "provinceCode": "72",
+    "name": "Kecamatan Tinombo Selatan",
+    "alias": "Tinombo Selatan"
+  },
+  {
+    "code": "72.08.042",
+    "districtCode": "042",
+    "regencyCode": "72.08",
+    "provinceCode": "72",
+    "name": "Kecamatan Sidoan",
+    "alias": "Sidoan"
+  },
+  {
+    "code": "72.08.050",
+    "districtCode": "050",
+    "regencyCode": "72.08",
+    "provinceCode": "72",
+    "name": "Kecamatan Tomini",
+    "alias": "Tomini"
+  },
+  {
+    "code": "72.08.051",
+    "districtCode": "051",
+    "regencyCode": "72.08",
+    "provinceCode": "72",
+    "name": "Kecamatan Mepanga",
+    "alias": "Mepanga"
+  },
+  {
+    "code": "72.08.052",
+    "districtCode": "052",
+    "regencyCode": "72.08",
+    "provinceCode": "72",
+    "name": "Kecamatan Palasa",
+    "alias": "Palasa"
+  },
+  {
+    "code": "72.08.060",
+    "districtCode": "060",
+    "regencyCode": "72.08",
+    "provinceCode": "72",
+    "name": "Kecamatan Moutong",
+    "alias": "Moutong"
+  },
+  {
+    "code": "72.08.061",
+    "districtCode": "061",
+    "regencyCode": "72.08",
+    "provinceCode": "72",
+    "name": "Kecamatan Bolano Lambunu",
+    "alias": "Bolano Lambunu"
+  },
+  {
+    "code": "72.08.062",
+    "districtCode": "062",
+    "regencyCode": "72.08",
+    "provinceCode": "72",
+    "name": "Kecamatan Taopa",
+    "alias": "Taopa"
+  },
+  {
+    "code": "72.08.063",
+    "districtCode": "063",
+    "regencyCode": "72.08",
+    "provinceCode": "72",
+    "name": "Kecamatan Bolano",
+    "alias": "Bolano"
+  },
+  {
+    "code": "72.08.064",
+    "districtCode": "064",
+    "regencyCode": "72.08",
+    "provinceCode": "72",
+    "name": "Kecamatan Ongka Malino",
+    "alias": "Ongka Malino"
+  }
+]

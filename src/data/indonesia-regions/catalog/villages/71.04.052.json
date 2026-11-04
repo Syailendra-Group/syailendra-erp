@@ -1,0 +1,37 @@
+[
+  {
+    "code": "71.04.052.001",
+    "villageCode": "001",
+    "districtCode": "71.04.052",
+    "name": "Pulutan",
+    "alias": "Pulutan"
+  },
+  {
+    "code": "71.04.052.002",
+    "villageCode": "002",
+    "districtCode": "71.04.052",
+    "name": "Pulutan Utara",
+    "alias": "Pulutan Utara"
+  },
+  {
+    "code": "71.04.052.003",
+    "villageCode": "003",
+    "districtCode": "71.04.052",
+    "name": "Pulutan Selatan",
+    "alias": "Pulutan Selatan"
+  },
+  {
+    "code": "71.04.052.004",
+    "villageCode": "004",
+    "districtCode": "71.04.052",
+    "name": "Daran",
+    "alias": "Daran"
+  },
+  {
+    "code": "71.04.052.005",
+    "villageCode": "005",
+    "districtCode": "71.04.052",
+    "name": "Daran Utara",
+    "alias": "Daran Utara"
+  }
+]

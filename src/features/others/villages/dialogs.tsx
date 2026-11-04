@@ -1,12 +1,11 @@
 'use client'
 
+import { useState } from 'react'
 import { useTranslations } from 'next-intl'
 
 import { ActionDialog } from '@/components/dialog/action-dialog'
-import { ConfirmDialog } from '@/components/dialog/confirm-dialog'
 import { Dialog, DialogContent, DialogDescription, DialogHeader, DialogTitle } from '@/components/ui/dialog'
 import { useVillage } from '@/contexts/others/village.context'
-import { useToggleVillageStatusMutation } from '@/hooks/others/use-villages'
 
 import { VillageForm } from './form'
 
@@ -16,17 +15,10 @@ export function VillagesDialogs(): ReactElement {
   const { open, setOpen, currentRow } = useVillage()
   const t = useTranslations('others.villages')
   const tReg = useTranslations('regional.common')
-  const { mutateAsync: toggleStatus, isPending: isToggling } = useToggleVillageStatusMutation()
+  const [canSubmit, setCanSubmit] = useState(true)
 
   const isFormOpen = open === 'create' || open === 'edit'
   const isViewOpen = open === 'view'
-  const isArchiveOpen = open === 'delete'
-
-  const handleToggleArchive = async () => {
-    if (!currentRow?.id) return
-    await toggleStatus({ id: currentRow.id, active: !currentRow.active })
-    setOpen(null)
-  }
 
   return (
     <>
@@ -36,11 +28,12 @@ export function VillagesDialogs(): ReactElement {
         onOpenChange={(isOpen) => !isOpen && setOpen(null)}
         formId="village-action-form"
         isEdit={open === 'edit'}
+        submitDisabled={!canSubmit}
         title={open === 'edit' ? t('dialog.editTitle') : t('dialog.addTitle')}
         description={open === 'edit' ? t('dialog.editDesc') : t('dialog.addDesc')}
         maxWidth="sm:max-w-xl"
       >
-        <VillageForm currentRow={currentRow} onSuccess={() => setOpen(null)} />
+        <VillageForm currentRow={currentRow} onSuccess={() => setOpen(null)} onValidationChange={setCanSubmit} />
       </ActionDialog>
 
       {/* View Detail Dialog */}
@@ -63,7 +56,7 @@ export function VillagesDialogs(): ReactElement {
               </div>
               <div className="border-border/40 grid grid-cols-3 gap-2 border-b py-1.5">
                 <span className="text-muted-foreground font-medium">{t('table.code')}</span>
-                <span className="text-foreground col-span-2 font-mono font-bold">{currentRow.code}</span>
+                <span className="text-foreground col-span-2 font-mono font-bold">{currentRow.code || '-'}</span>
               </div>
               <div className="border-border/40 grid grid-cols-3 gap-2 border-b py-1.5">
                 <span className="text-muted-foreground font-medium">{t('table.district')}</span>
@@ -73,6 +66,18 @@ export function VillagesDialogs(): ReactElement {
                 <span className="text-muted-foreground font-medium">{t('table.zipCode')}</span>
                 <span className="text-foreground col-span-2 font-mono">{currentRow.zip_code || '-'}</span>
               </div>
+              {currentRow.city_id && (
+                <div className="border-border/40 grid grid-cols-3 gap-2 border-b py-1.5">
+                  <span className="text-muted-foreground font-medium">Kabupaten/Kota</span>
+                  <span className="text-foreground col-span-2 font-medium">{currentRow.city_id[1]}</span>
+                </div>
+              )}
+              {currentRow.country_id && (
+                <div className="border-border/40 grid grid-cols-3 gap-2 border-b py-1.5">
+                  <span className="text-muted-foreground font-medium">Negara</span>
+                  <span className="text-foreground col-span-2 font-medium">{currentRow.country_id[1]}</span>
+                </div>
+              )}
               <div className="grid grid-cols-3 gap-2 py-1.5">
                 <span className="text-muted-foreground font-medium">{tReg('fields.description')}</span>
                 <span className="text-foreground col-span-2 italic">{currentRow.description || '-'}</span>
@@ -81,18 +86,6 @@ export function VillagesDialogs(): ReactElement {
           )}
         </DialogContent>
       </Dialog>
-
-      {/* Archive / Delete Dialog */}
-      <ConfirmDialog
-        open={isArchiveOpen}
-        onOpenChange={(isOpen) => !isOpen && setOpen(null)}
-        title={currentRow?.active ? 'Arsipkan Kelurahan / Desa' : 'Pulihkan Kelurahan / Desa'}
-        desc={`Apakah Anda yakin ingin ${currentRow?.active ? 'menonaktifkan' : 'mengaktifkan'} status wilayah ${currentRow?.name}?`}
-        confirmText={currentRow?.active ? 'Arsipkan' : 'Pulihkan'}
-        destructive={currentRow?.active}
-        isLoading={isToggling}
-        handleConfirm={handleToggleArchive}
-      />
     </>
   )
 }

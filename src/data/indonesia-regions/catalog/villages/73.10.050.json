@@ -1,0 +1,58 @@
+[
+  {
+    "code": "73.10.050.001",
+    "villageCode": "001",
+    "districtCode": "73.10.050",
+    "name": "Cilellang",
+    "alias": "Cilellang"
+  },
+  {
+    "code": "73.10.050.002",
+    "villageCode": "002",
+    "districtCode": "73.10.050",
+    "name": "Manuba",
+    "alias": "Manuba"
+  },
+  {
+    "code": "73.10.050.003",
+    "villageCode": "003",
+    "districtCode": "73.10.050",
+    "name": "Nepo",
+    "alias": "Nepo"
+  },
+  {
+    "code": "73.10.050.004",
+    "villageCode": "004",
+    "districtCode": "73.10.050",
+    "name": "Palanro",
+    "alias": "Palanro"
+  },
+  {
+    "code": "73.10.050.005",
+    "villageCode": "005",
+    "districtCode": "73.10.050",
+    "name": "Mallawa",
+    "alias": "Mallawa"
+  },
+  {
+    "code": "73.10.050.006",
+    "villageCode": "006",
+    "districtCode": "73.10.050",
+    "name": "Kupa",
+    "alias": "Kupa"
+  },
+  {
+    "code": "73.10.050.007",
+    "villageCode": "007",
+    "districtCode": "73.10.050",
+    "name": "Bojo",
+    "alias": "Bojo"
+  },
+  {
+    "code": "73.10.050.008",
+    "villageCode": "008",
+    "districtCode": "73.10.050",
+    "name": "Bojo Baru",
+    "alias": "Bojo Baru"
+  }
+]

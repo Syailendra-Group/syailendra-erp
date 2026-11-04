@@ -1,0 +1,44 @@
+[
+  {
+    "code": "17.71.023.001",
+    "villageCode": "001",
+    "districtCode": "17.71.023",
+    "name": "Jembatan Kecil",
+    "alias": "Jembatan Kecil"
+  },
+  {
+    "code": "17.71.023.002",
+    "villageCode": "002",
+    "districtCode": "17.71.023",
+    "name": "Panorama",
+    "alias": "Panorama"
+  },
+  {
+    "code": "17.71.023.003",
+    "villageCode": "003",
+    "districtCode": "17.71.023",
+    "name": "Lingkar Timur",
+    "alias": "Lingkar Timur"
+  },
+  {
+    "code": "17.71.023.004",
+    "villageCode": "004",
+    "districtCode": "17.71.023",
+    "name": "Timur Indah",
+    "alias": "Timur Indah"
+  },
+  {
+    "code": "17.71.023.005",
+    "villageCode": "005",
+    "districtCode": "17.71.023",
+    "name": "Padang Nangka",
+    "alias": "Padang Nangka"
+  },
+  {
+    "code": "17.71.023.006",
+    "villageCode": "006",
+    "districtCode": "17.71.023",
+    "name": "Dusun Besar",
+    "alias": "Dusun Besar"
+  }
+]

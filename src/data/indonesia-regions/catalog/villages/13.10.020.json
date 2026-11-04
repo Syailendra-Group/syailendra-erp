@@ -1,0 +1,37 @@
+[
+  {
+    "code": "13.10.020.001",
+    "villageCode": "001",
+    "districtCode": "13.10.020",
+    "name": "Lubuk Malako",
+    "alias": "Lubuk Malako"
+  },
+  {
+    "code": "13.10.020.002",
+    "villageCode": "002",
+    "districtCode": "13.10.020",
+    "name": "Padang Air Dingin",
+    "alias": "Padang Air Dingin"
+  },
+  {
+    "code": "13.10.020.003",
+    "villageCode": "003",
+    "districtCode": "13.10.020",
+    "name": "Bidar Alam",
+    "alias": "Bidar Alam"
+  },
+  {
+    "code": "13.10.020.004",
+    "villageCode": "004",
+    "districtCode": "13.10.020",
+    "name": "Padang Limau Sundai",
+    "alias": "Padang Limau Sundai"
+  },
+  {
+    "code": "13.10.020.005",
+    "villageCode": "005",
+    "districtCode": "13.10.020",
+    "name": "Padang Gantiang",
+    "alias": "Padang Gantiang"
+  }
+]

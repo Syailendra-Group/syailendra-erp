@@ -1,0 +1,79 @@
+[
+  {
+    "code": "18.02.012.001",
+    "villageCode": "001",
+    "districtCode": "18.02.012",
+    "name": "Negeri Agung",
+    "alias": "Negeri Agung"
+  },
+  {
+    "code": "18.02.012.002",
+    "villageCode": "002",
+    "districtCode": "18.02.012",
+    "name": "Bandar Sukabumi",
+    "alias": "Bandar Sukabumi"
+  },
+  {
+    "code": "18.02.012.003",
+    "villageCode": "003",
+    "districtCode": "18.02.012",
+    "name": "Sanggi",
+    "alias": "Sanggi"
+  },
+  {
+    "code": "18.02.012.004",
+    "villageCode": "004",
+    "districtCode": "18.02.012",
+    "name": "Raja Basa",
+    "alias": "Raja Basa"
+  },
+  {
+    "code": "18.02.012.005",
+    "villageCode": "005",
+    "districtCode": "18.02.012",
+    "name": "Gunung Doh",
+    "alias": "Gunung Doh"
+  },
+  {
+    "code": "18.02.012.006",
+    "villageCode": "006",
+    "districtCode": "18.02.012",
+    "name": "Banding",
+    "alias": "Banding"
+  },
+  {
+    "code": "18.02.012.007",
+    "villageCode": "007",
+    "districtCode": "18.02.012",
+    "name": "Atar Lebar",
+    "alias": "Atar Lebar"
+  },
+  {
+    "code": "18.02.012.008",
+    "villageCode": "008",
+    "districtCode": "18.02.012",
+    "name": "Simpang Bayur",
+    "alias": "Simpang Bayur"
+  },
+  {
+    "code": "18.02.012.009",
+    "villageCode": "009",
+    "districtCode": "18.02.012",
+    "name": "Sanggi Unggak",
+    "alias": "Sanggi Unggak"
+  },
+  {
+    "code": "18.02.012.010",
+    "villageCode": "010",
+    "districtCode": "18.02.012",
+    "name": "Sinar Bangun",
+    "alias": "Sinar Bangun"
+  },
+  {
+    "code": "18.02.012.011",
+    "villageCode": "011",
+    "districtCode": "18.02.012",
+    "name": "Tulung Sari",
+    "alias": "Tulung Sari"
+  }
+]

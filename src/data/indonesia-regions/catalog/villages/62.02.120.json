@@ -1,0 +1,44 @@
+[
+  {
+    "code": "62.02.120.001",
+    "villageCode": "001",
+    "districtCode": "62.02.120",
+    "name": "Baamang Hilir",
+    "alias": "Baamang Hilir"
+  },
+  {
+    "code": "62.02.120.002",
+    "villageCode": "002",
+    "districtCode": "62.02.120",
+    "name": "Baamang Tengah",
+    "alias": "Baamang Tengah"
+  },
+  {
+    "code": "62.02.120.003",
+    "villageCode": "003",
+    "districtCode": "62.02.120",
+    "name": "Baamang Hulu",
+    "alias": "Baamang Hulu"
+  },
+  {
+    "code": "62.02.120.006",
+    "villageCode": "006",
+    "districtCode": "62.02.120",
+    "name": "Tinduk",
+    "alias": "Tinduk"
+  },
+  {
+    "code": "62.02.120.007",
+    "villageCode": "007",
+    "districtCode": "62.02.120",
+    "name": "Baamang Barat",
+    "alias": "Baamang Barat"
+  },
+  {
+    "code": "62.02.120.008",
+    "villageCode": "008",
+    "districtCode": "62.02.120",
+    "name": "Tanah Mas",
+    "alias": "Tanah Mas"
+  }
+]

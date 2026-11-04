@@ -1,0 +1,72 @@
+[
+  {
+    "code": "32.01.250.001",
+    "villageCode": "001",
+    "districtCode": "32.01.250",
+    "name": "Jampang",
+    "alias": "Jampang"
+  },
+  {
+    "code": "32.01.250.002",
+    "villageCode": "002",
+    "districtCode": "32.01.250",
+    "name": "Cibadung",
+    "alias": "Cibadung"
+  },
+  {
+    "code": "32.01.250.003",
+    "villageCode": "003",
+    "districtCode": "32.01.250",
+    "name": "Cibinong",
+    "alias": "Cibinong"
+  },
+  {
+    "code": "32.01.250.004",
+    "villageCode": "004",
+    "districtCode": "32.01.250",
+    "name": "Cidokom",
+    "alias": "Cidokom"
+  },
+  {
+    "code": "32.01.250.005",
+    "villageCode": "005",
+    "districtCode": "32.01.250",
+    "name": "Padurenan",
+    "alias": "Padurenan"
+  },
+  {
+    "code": "32.01.250.006",
+    "villageCode": "006",
+    "districtCode": "32.01.250",
+    "name": "Curug",
+    "alias": "Curug"
+  },
+  {
+    "code": "32.01.250.007",
+    "villageCode": "007",
+    "districtCode": "32.01.250",
+    "name": "Rawakalong",
+    "alias": "Rawakalong"
+  },
+  {
+    "code": "32.01.250.008",
+    "villageCode": "008",
+    "districtCode": "32.01.250",
+    "name": "Pengasinan",
+    "alias": "Pengasinan"
+  },
+  {
+    "code": "32.01.250.009",
+    "villageCode": "009",
+    "districtCode": "32.01.250",
+    "name": "Gunung Sindur",
+    "alias": "Gunung Sindur"
+  },
+  {
+    "code": "32.01.250.010",
+    "villageCode": "010",
+    "districtCode": "32.01.250",
+    "name": "Pabuaran",
+    "alias": "Pabuaran"
+  }
+]

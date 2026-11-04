@@ -1,0 +1,51 @@
+[
+  {
+    "code": "82.06.030.010",
+    "villageCode": "010",
+    "districtCode": "82.06.030",
+    "name": "Subaim",
+    "alias": "Subaim"
+  },
+  {
+    "code": "82.06.030.011",
+    "villageCode": "011",
+    "districtCode": "82.06.030",
+    "name": "Cemara Jaya",
+    "alias": "Cemara Jaya"
+  },
+  {
+    "code": "82.06.030.012",
+    "villageCode": "012",
+    "districtCode": "82.06.030",
+    "name": "Bumi Restu",
+    "alias": "Bumi Restu"
+  },
+  {
+    "code": "82.06.030.013",
+    "villageCode": "013",
+    "districtCode": "82.06.030",
+    "name": "Batu Raja",
+    "alias": "Batu Raja"
+  },
+  {
+    "code": "82.06.030.014",
+    "villageCode": "014",
+    "districtCode": "82.06.030",
+    "name": "Mekar Sari",
+    "alias": "Mekar Sari"
+  },
+  {
+    "code": "82.06.030.015",
+    "villageCode": "015",
+    "districtCode": "82.06.030",
+    "name": "Gulapapo",
+    "alias": "Gulapapo"
+  },
+  {
+    "code": "82.06.030.016",
+    "villageCode": "016",
+    "districtCode": "82.06.030",
+    "name": "Waisuba",
+    "alias": "Waisuba"
+  }
+]

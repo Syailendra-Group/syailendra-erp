@@ -1,0 +1,65 @@
+[
+  {
+    "code": "35.77.020.001",
+    "villageCode": "001",
+    "districtCode": "35.77.020",
+    "name": "Josenan",
+    "alias": "Josenan"
+  },
+  {
+    "code": "35.77.020.002",
+    "villageCode": "002",
+    "districtCode": "35.77.020",
+    "name": "Kuncen",
+    "alias": "Kuncen"
+  },
+  {
+    "code": "35.77.020.003",
+    "villageCode": "003",
+    "districtCode": "35.77.020",
+    "name": "Demangan",
+    "alias": "Demangan"
+  },
+  {
+    "code": "35.77.020.004",
+    "villageCode": "004",
+    "districtCode": "35.77.020",
+    "name": "Banjarejo",
+    "alias": "Banjarejo"
+  },
+  {
+    "code": "35.77.020.005",
+    "villageCode": "005",
+    "districtCode": "35.77.020",
+    "name": "Pandean",
+    "alias": "Pandean"
+  },
+  {
+    "code": "35.77.020.006",
+    "villageCode": "006",
+    "districtCode": "35.77.020",
+    "name": "Kejuron",
+    "alias": "Kejuron"
+  },
+  {
+    "code": "35.77.020.007",
+    "villageCode": "007",
+    "districtCode": "35.77.020",
+    "name": "Taman",
+    "alias": "Taman"
+  },
+  {
+    "code": "35.77.020.008",
+    "villageCode": "008",
+    "districtCode": "35.77.020",
+    "name": "Mojorejo",
+    "alias": "Mojorejo"
+  },
+  {
+    "code": "35.77.020.009",
+    "villageCode": "009",
+    "districtCode": "35.77.020",
+    "name": "Manisrejo",
+    "alias": "Manisrejo"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "code": "81.07.021.001",
+    "villageCode": "001",
+    "districtCode": "81.07.021",
+    "name": "Danama",
+    "alias": "Danama"
+  },
+  {
+    "code": "81.07.021.002",
+    "villageCode": "002",
+    "districtCode": "81.07.021",
+    "name": "Kilmoy",
+    "alias": "Kilmoy"
+  },
+  {
+    "code": "81.07.021.003",
+    "villageCode": "003",
+    "districtCode": "81.07.021",
+    "name": "Kilbat",
+    "alias": "Kilbat"
+  },
+  {
+    "code": "81.07.021.004",
+    "villageCode": "004",
+    "districtCode": "81.07.021",
+    "name": "Sesar",
+    "alias": "Sesar"
+  },
+  {
+    "code": "81.07.021.005",
+    "villageCode": "005",
+    "districtCode": "81.07.021",
+    "name": "Airkasar",
+    "alias": "Airkasar"
+  },
+  {
+    "code": "81.07.021.006",
+    "villageCode": "006",
+    "districtCode": "81.07.021",
+    "name": "Waras-Waras",
+    "alias": "Waras-Waras"
+  },
+  {
+    "code": "81.07.021.007",
+    "villageCode": "007",
+    "districtCode": "81.07.021",
+    "name": "Gah",
+    "alias": "Gah"
+  },
+  {
+    "code": "81.07.021.008",
+    "villageCode": "008",
+    "districtCode": "81.07.021",
+    "name": "Walang Tenga",
+    "alias": "Walang Tenga"
+  },
+  {
+    "code": "81.07.021.009",
+    "villageCode": "009",
+    "districtCode": "81.07.021",
+    "name": "Bati Kilwouw",
+    "alias": "Bati Kilwouw"
+  },
+  {
+    "code": "81.07.021.010",
+    "villageCode": "010",
+    "districtCode": "81.07.021",
+    "name": "Taruy",
+    "alias": "Taruy"
+  },
+  {
+    "code": "81.07.021.011",
+    "villageCode": "011",
+    "districtCode": "81.07.021",
+    "name": "Kufar",
+    "alias": "Kufar"
+  }
+]

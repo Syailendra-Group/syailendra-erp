@@ -1,0 +1,37 @@
+[
+  {
+    "code": "61.03.020.001",
+    "villageCode": "001",
+    "districtCode": "61.03.020",
+    "name": "Rantau Panjang",
+    "alias": "Rantau Panjang"
+  },
+  {
+    "code": "61.03.020.002",
+    "villageCode": "002",
+    "districtCode": "61.03.020",
+    "name": "Sungai Segak",
+    "alias": "Sungai Segak"
+  },
+  {
+    "code": "61.03.020.003",
+    "villageCode": "003",
+    "districtCode": "61.03.020",
+    "name": "Sebangki",
+    "alias": "Sebangki"
+  },
+  {
+    "code": "61.03.020.004",
+    "villageCode": "004",
+    "districtCode": "61.03.020",
+    "name": "Kumpang Tengah",
+    "alias": "Kumpang Tengah"
+  },
+  {
+    "code": "61.03.020.007",
+    "villageCode": "007",
+    "districtCode": "61.03.020",
+    "name": "Agak",
+    "alias": "Agak"
+  }
+]

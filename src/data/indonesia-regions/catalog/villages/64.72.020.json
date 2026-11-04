@@ -1,0 +1,37 @@
+[
+  {
+    "code": "64.72.020.006",
+    "villageCode": "006",
+    "districtCode": "64.72.020",
+    "name": "Selili",
+    "alias": "Selili"
+  },
+  {
+    "code": "64.72.020.007",
+    "villageCode": "007",
+    "districtCode": "64.72.020",
+    "name": "Sungai Dama",
+    "alias": "Sungai Dama"
+  },
+  {
+    "code": "64.72.020.008",
+    "villageCode": "008",
+    "districtCode": "64.72.020",
+    "name": "Sidodamai",
+    "alias": "Sidodamai"
+  },
+  {
+    "code": "64.72.020.009",
+    "villageCode": "009",
+    "districtCode": "64.72.020",
+    "name": "Sidomulyo",
+    "alias": "Sidomulyo"
+  },
+  {
+    "code": "64.72.020.014",
+    "villageCode": "014",
+    "districtCode": "64.72.020",
+    "name": "Pelita",
+    "alias": "Pelita"
+  }
+]

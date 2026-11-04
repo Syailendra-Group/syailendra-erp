@@ -1,0 +1,66 @@
+[
+  {
+    "code": "31.73.010",
+    "districtCode": "010",
+    "regencyCode": "31.73",
+    "provinceCode": "31",
+    "name": "Kecamatan Tanah Abang",
+    "alias": "Tanah Abang"
+  },
+  {
+    "code": "31.73.020",
+    "districtCode": "020",
+    "regencyCode": "31.73",
+    "provinceCode": "31",
+    "name": "Kecamatan Menteng",
+    "alias": "Menteng"
+  },
+  {
+    "code": "31.73.030",
+    "districtCode": "030",
+    "regencyCode": "31.73",
+    "provinceCode": "31",
+    "name": "Kecamatan Senen",
+    "alias": "Senen"
+  },
+  {
+    "code": "31.73.040",
+    "districtCode": "040",
+    "regencyCode": "31.73",
+    "provinceCode": "31",
+    "name": "Kecamatan Johar Baru",
+    "alias": "Johar Baru"
+  },
+  {
+    "code": "31.73.050",
+    "districtCode": "050",
+    "regencyCode": "31.73",
+    "provinceCode": "31",
+    "name": "Kecamatan Cempaka Putih",
+    "alias": "Cempaka Putih"
+  },
+  {
+    "code": "31.73.060",
+    "districtCode": "060",
+    "regencyCode": "31.73",
+    "provinceCode": "31",
+    "name": "Kecamatan Kemayoran",
+    "alias": "Kemayoran"
+  },
+  {
+    "code": "31.73.070",
+    "districtCode": "070",
+    "regencyCode": "31.73",
+    "provinceCode": "31",
+    "name": "Kecamatan Sawah Besar",
+    "alias": "Sawah Besar"
+  },
+  {
+    "code": "31.73.080",
+    "districtCode": "080",
+    "regencyCode": "31.73",
+    "provinceCode": "31",
+    "name": "Kecamatan Gambir",
+    "alias": "Gambir"
+  }
+]

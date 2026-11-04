@@ -1,0 +1,72 @@
+[
+  {
+    "code": "33.22.070.001",
+    "villageCode": "001",
+    "districtCode": "33.22.070",
+    "name": "Wirogomo",
+    "alias": "Wirogomo"
+  },
+  {
+    "code": "33.22.070.002",
+    "villageCode": "002",
+    "districtCode": "33.22.070",
+    "name": "Kemambang",
+    "alias": "Kemambang"
+  },
+  {
+    "code": "33.22.070.003",
+    "villageCode": "003",
+    "districtCode": "33.22.070",
+    "name": "Sepakung",
+    "alias": "Sepakung"
+  },
+  {
+    "code": "33.22.070.004",
+    "villageCode": "004",
+    "districtCode": "33.22.070",
+    "name": "Kebumen",
+    "alias": "Kebumen"
+  },
+  {
+    "code": "33.22.070.005",
+    "villageCode": "005",
+    "districtCode": "33.22.070",
+    "name": "Gedong",
+    "alias": "Gedong"
+  },
+  {
+    "code": "33.22.070.006",
+    "villageCode": "006",
+    "districtCode": "33.22.070",
+    "name": "Rowoboni",
+    "alias": "Rowoboni"
+  },
+  {
+    "code": "33.22.070.007",
+    "villageCode": "007",
+    "districtCode": "33.22.070",
+    "name": "Tegaron",
+    "alias": "Tegaron"
+  },
+  {
+    "code": "33.22.070.008",
+    "villageCode": "008",
+    "districtCode": "33.22.070",
+    "name": "Kebondowo",
+    "alias": "Kebondowo"
+  },
+  {
+    "code": "33.22.070.009",
+    "villageCode": "009",
+    "districtCode": "33.22.070",
+    "name": "Banyubiru",
+    "alias": "Banyubiru"
+  },
+  {
+    "code": "33.22.070.010",
+    "villageCode": "010",
+    "districtCode": "33.22.070",
+    "name": "Ngrapah",
+    "alias": "Ngrapah"
+  }
+]

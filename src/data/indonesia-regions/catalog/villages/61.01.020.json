@@ -1,0 +1,58 @@
+[
+  {
+    "code": "61.01.020.011",
+    "villageCode": "011",
+    "districtCode": "61.01.020",
+    "name": "Perapakan",
+    "alias": "Perapakan"
+  },
+  {
+    "code": "61.01.020.012",
+    "villageCode": "012",
+    "districtCode": "61.01.020",
+    "name": "Jelutung",
+    "alias": "Jelutung"
+  },
+  {
+    "code": "61.01.020.013",
+    "villageCode": "013",
+    "districtCode": "61.01.020",
+    "name": "Harapan",
+    "alias": "Harapan"
+  },
+  {
+    "code": "61.01.020.014",
+    "villageCode": "014",
+    "districtCode": "61.01.020",
+    "name": "Penjajap",
+    "alias": "Penjajap"
+  },
+  {
+    "code": "61.01.020.015",
+    "villageCode": "015",
+    "districtCode": "61.01.020",
+    "name": "Pemangkat Kota",
+    "alias": "Pemangkat Kota"
+  },
+  {
+    "code": "61.01.020.016",
+    "villageCode": "016",
+    "districtCode": "61.01.020",
+    "name": "Sebatuan",
+    "alias": "Sebatuan"
+  },
+  {
+    "code": "61.01.020.017",
+    "villageCode": "017",
+    "districtCode": "61.01.020",
+    "name": "Gugah Sejahtera",
+    "alias": "Gugah Sejahtera"
+  },
+  {
+    "code": "61.01.020.018",
+    "villageCode": "018",
+    "districtCode": "61.01.020",
+    "name": "Lonam",
+    "alias": "Lonam"
+  }
+]

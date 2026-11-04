@@ -1,0 +1,42 @@
+[
+  {
+    "code": "63.71.010",
+    "districtCode": "010",
+    "regencyCode": "63.71",
+    "provinceCode": "63",
+    "name": "Kecamatan Banjarmasin Selatan",
+    "alias": "Banjarmasin Selatan"
+  },
+  {
+    "code": "63.71.020",
+    "districtCode": "020",
+    "regencyCode": "63.71",
+    "provinceCode": "63",
+    "name": "Kecamatan Banjarmasin Timur",
+    "alias": "Banjarmasin Timur"
+  },
+  {
+    "code": "63.71.030",
+    "districtCode": "030",
+    "regencyCode": "63.71",
+    "provinceCode": "63",
+    "name": "Kecamatan Banjarmasin Barat",
+    "alias": "Banjarmasin Barat"
+  },
+  {
+    "code": "63.71.031",
+    "districtCode": "031",
+    "regencyCode": "63.71",
+    "provinceCode": "63",
+    "name": "Kecamatan Banjarmasin Tengah",
+    "alias": "Banjarmasin Tengah"
+  },
+  {
+    "code": "63.71.040",
+    "districtCode": "040",
+    "regencyCode": "63.71",
+    "provinceCode": "63",
+    "name": "Kecamatan Banjarmasin Utara",
+    "alias": "Banjarmasin Utara"
+  }
+]

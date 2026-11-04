@@ -1,0 +1,66 @@
+[
+  {
+    "code": "73.12.010",
+    "districtCode": "010",
+    "regencyCode": "73.12",
+    "provinceCode": "73",
+    "name": "Kecamatan Mario Riwawo",
+    "alias": "Mario Riwawo"
+  },
+  {
+    "code": "73.12.020",
+    "districtCode": "020",
+    "regencyCode": "73.12",
+    "provinceCode": "73",
+    "name": "Kecamatan Lalabata",
+    "alias": "Lalabata"
+  },
+  {
+    "code": "73.12.030",
+    "districtCode": "030",
+    "regencyCode": "73.12",
+    "provinceCode": "73",
+    "name": "Kecamatan Lili Riaja",
+    "alias": "Lili Riaja"
+  },
+  {
+    "code": "73.12.031",
+    "districtCode": "031",
+    "regencyCode": "73.12",
+    "provinceCode": "73",
+    "name": "Kecamatan Ganra",
+    "alias": "Ganra"
+  },
+  {
+    "code": "73.12.032",
+    "districtCode": "032",
+    "regencyCode": "73.12",
+    "provinceCode": "73",
+    "name": "Kecamatan Citta",
+    "alias": "Citta"
+  },
+  {
+    "code": "73.12.040",
+    "districtCode": "040",
+    "regencyCode": "73.12",
+    "provinceCode": "73",
+    "name": "Kecamatan Lili Rilau",
+    "alias": "Lili Rilau"
+  },
+  {
+    "code": "73.12.050",
+    "districtCode": "050",
+    "regencyCode": "73.12",
+    "provinceCode": "73",
+    "name": "Kecamatan Donri Donri",
+    "alias": "Donri Donri"
+  },
+  {
+    "code": "73.12.060",
+    "districtCode": "060",
+    "regencyCode": "73.12",
+    "provinceCode": "73",
+    "name": "Kecamatan Mario Riawa",
+    "alias": "Mario Riawa"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "code": "36.01.072.001",
+    "villageCode": "001",
+    "districtCode": "36.01.072",
+    "name": "Pasirloa",
+    "alias": "Pasirloa"
+  },
+  {
+    "code": "36.01.072.002",
+    "villageCode": "002",
+    "districtCode": "36.01.072",
+    "name": "Bojongmanik",
+    "alias": "Bojongmanik"
+  },
+  {
+    "code": "36.01.072.003",
+    "villageCode": "003",
+    "districtCode": "36.01.072",
+    "name": "Campakawarna",
+    "alias": "Campakawarna"
+  },
+  {
+    "code": "36.01.072.004",
+    "villageCode": "004",
+    "districtCode": "36.01.072",
+    "name": "Ciodeng",
+    "alias": "Ciodeng"
+  },
+  {
+    "code": "36.01.072.005",
+    "villageCode": "005",
+    "districtCode": "36.01.072",
+    "name": "Pasirtenjo",
+    "alias": "Pasirtenjo"
+  },
+  {
+    "code": "36.01.072.006",
+    "villageCode": "006",
+    "districtCode": "36.01.072",
+    "name": "Sindangresmi",
+    "alias": "Sindangresmi"
+  },
+  {
+    "code": "36.01.072.007",
+    "villageCode": "007",
+    "districtCode": "36.01.072",
+    "name": "Pasirlancar",
+    "alias": "Pasirlancar"
+  },
+  {
+    "code": "36.01.072.008",
+    "villageCode": "008",
+    "districtCode": "36.01.072",
+    "name": "Pasirdurung",
+    "alias": "Pasirdurung"
+  },
+  {
+    "code": "36.01.072.009",
+    "villageCode": "009",
+    "districtCode": "36.01.072",
+    "name": "Kadumalati",
+    "alias": "Kadumalati"
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "code": "35.07.250.001",
+    "villageCode": "001",
+    "districtCode": "35.07.250",
+    "name": "Sekarpuro",
+    "alias": "Sekarpuro"
+  },
+  {
+    "code": "35.07.250.002",
+    "villageCode": "002",
+    "districtCode": "35.07.250",
+    "name": "Ampeldento",
+    "alias": "Ampeldento"
+  },
+  {
+    "code": "35.07.250.003",
+    "villageCode": "003",
+    "districtCode": "35.07.250",
+    "name": "Sumberkradenan",
+    "alias": "Sumberkradenan"
+  },
+  {
+    "code": "35.07.250.004",
+    "villageCode": "004",
+    "districtCode": "35.07.250",
+    "name": "Kedungrejo",
+    "alias": "Kedungrejo"
+  },
+  {
+    "code": "35.07.250.005",
+    "villageCode": "005",
+    "districtCode": "35.07.250",
+    "name": "Banjarrejo",
+    "alias": "Banjarrejo"
+  },
+  {
+    "code": "35.07.250.006",
+    "villageCode": "006",
+    "districtCode": "35.07.250",
+    "name": "Pucang Songo",
+    "alias": "Pucang Songo"
+  },
+  {
+    "code": "35.07.250.007",
+    "villageCode": "007",
+    "districtCode": "35.07.250",
+    "name": "Sukoanyar",
+    "alias": "Sukoanyar"
+  },
+  {
+    "code": "35.07.250.008",
+    "villageCode": "008",
+    "districtCode": "35.07.250",
+    "name": "Sumberpasir",
+    "alias": "Sumberpasir"
+  },
+  {
+    "code": "35.07.250.009",
+    "villageCode": "009",
+    "districtCode": "35.07.250",
+    "name": "Pakiskembar",
+    "alias": "Pakiskembar"
+  },
+  {
+    "code": "35.07.250.010",
+    "villageCode": "010",
+    "districtCode": "35.07.250",
+    "name": "Pakisjajar",
+    "alias": "Pakisjajar"
+  },
+  {
+    "code": "35.07.250.011",
+    "villageCode": "011",
+    "districtCode": "35.07.250",
+    "name": "Bunutwetan",
+    "alias": "Bunutwetan"
+  },
+  {
+    "code": "35.07.250.012",
+    "villageCode": "012",
+    "districtCode": "35.07.250",
+    "name": "Asrikaton",
+    "alias": "Asrikaton"
+  },
+  {
+    "code": "35.07.250.013",
+    "villageCode": "013",
+    "districtCode": "35.07.250",
+    "name": "Saptorenggo",
+    "alias": "Saptorenggo"
+  },
+  {
+    "code": "35.07.250.014",
+    "villageCode": "014",
+    "districtCode": "35.07.250",
+    "name": "Mangliawan",
+    "alias": "Mangliawan"
+  },
+  {
+    "code": "35.07.250.015",
+    "villageCode": "015",
+    "districtCode": "35.07.250",
+    "name": "Tirtomoyo",
+    "alias": "Tirtomoyo"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "code": "94.71.040.001",
+    "villageCode": "001",
+    "districtCode": "94.71.040",
+    "name": "Gurabesi",
+    "alias": "Gurabesi"
+  },
+  {
+    "code": "94.71.040.002",
+    "villageCode": "002",
+    "districtCode": "94.71.040",
+    "name": "Bayangkara",
+    "alias": "Bayangkara"
+  },
+  {
+    "code": "94.71.040.003",
+    "villageCode": "003",
+    "districtCode": "94.71.040",
+    "name": "Mandala",
+    "alias": "Mandala"
+  },
+  {
+    "code": "94.71.040.004",
+    "villageCode": "004",
+    "districtCode": "94.71.040",
+    "name": "Trikora",
+    "alias": "Trikora"
+  },
+  {
+    "code": "94.71.040.005",
+    "villageCode": "005",
+    "districtCode": "94.71.040",
+    "name": "Angkasapura",
+    "alias": "Angkasapura"
+  },
+  {
+    "code": "94.71.040.006",
+    "villageCode": "006",
+    "districtCode": "94.71.040",
+    "name": "Imbi",
+    "alias": "Imbi"
+  },
+  {
+    "code": "94.71.040.007",
+    "villageCode": "007",
+    "districtCode": "94.71.040",
+    "name": "Tanjung Ria",
+    "alias": "Tanjung Ria"
+  },
+  {
+    "code": "94.71.040.008",
+    "villageCode": "008",
+    "districtCode": "94.71.040",
+    "name": "Kampung Kayobatu",
+    "alias": "Kampung Kayobatu"
+  }
+]

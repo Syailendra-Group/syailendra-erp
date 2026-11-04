@@ -1,0 +1,65 @@
+[
+  {
+    "code": "32.09.181.001",
+    "villageCode": "001",
+    "districtCode": "32.09.181",
+    "name": "Suranenggala Kulon",
+    "alias": "Suranenggala Kulon"
+  },
+  {
+    "code": "32.09.181.002",
+    "villageCode": "002",
+    "districtCode": "32.09.181",
+    "name": "Surakarta",
+    "alias": "Surakarta"
+  },
+  {
+    "code": "32.09.181.003",
+    "villageCode": "003",
+    "districtCode": "32.09.181",
+    "name": "Keraton",
+    "alias": "Keraton"
+  },
+  {
+    "code": "32.09.181.004",
+    "villageCode": "004",
+    "districtCode": "32.09.181",
+    "name": "Purwawinangun",
+    "alias": "Purwawinangun"
+  },
+  {
+    "code": "32.09.181.005",
+    "villageCode": "005",
+    "districtCode": "32.09.181",
+    "name": "Muara",
+    "alias": "Muara"
+  },
+  {
+    "code": "32.09.181.006",
+    "villageCode": "006",
+    "districtCode": "32.09.181",
+    "name": "Karangreja",
+    "alias": "Karangreja"
+  },
+  {
+    "code": "32.09.181.007",
+    "villageCode": "007",
+    "districtCode": "32.09.181",
+    "name": "Suranenggala Kidul",
+    "alias": "Suranenggala Kidul"
+  },
+  {
+    "code": "32.09.181.008",
+    "villageCode": "008",
+    "districtCode": "32.09.181",
+    "name": "Suranenggala Lor",
+    "alias": "Suranenggala Lor"
+  },
+  {
+    "code": "32.09.181.009",
+    "villageCode": "009",
+    "districtCode": "32.09.181",
+    "name": "Suranenggala",
+    "alias": "Suranenggala"
+  }
+]

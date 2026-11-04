@@ -1,0 +1,79 @@
+[
+  {
+    "code": "32.17.040.001",
+    "villageCode": "001",
+    "districtCode": "32.17.040",
+    "name": "Karyamukti",
+    "alias": "Karyamukti"
+  },
+  {
+    "code": "32.17.040.002",
+    "villageCode": "002",
+    "districtCode": "32.17.040",
+    "name": "Nanggerang",
+    "alias": "Nanggerang"
+  },
+  {
+    "code": "32.17.040.003",
+    "villageCode": "003",
+    "districtCode": "32.17.040",
+    "name": "Mukapayung",
+    "alias": "Mukapayung"
+  },
+  {
+    "code": "32.17.040.004",
+    "villageCode": "004",
+    "districtCode": "32.17.040",
+    "name": "Rancapanggung",
+    "alias": "Rancapanggung"
+  },
+  {
+    "code": "32.17.040.005",
+    "villageCode": "005",
+    "districtCode": "32.17.040",
+    "name": "Bongas",
+    "alias": "Bongas"
+  },
+  {
+    "code": "32.17.040.006",
+    "villageCode": "006",
+    "districtCode": "32.17.040",
+    "name": "Batulayang",
+    "alias": "Batulayang"
+  },
+  {
+    "code": "32.17.040.007",
+    "villageCode": "007",
+    "districtCode": "32.17.040",
+    "name": "Cililin",
+    "alias": "Cililin"
+  },
+  {
+    "code": "32.17.040.008",
+    "villageCode": "008",
+    "districtCode": "32.17.040",
+    "name": "Karangtanjung",
+    "alias": "Karangtanjung"
+  },
+  {
+    "code": "32.17.040.010",
+    "villageCode": "010",
+    "districtCode": "32.17.040",
+    "name": "Kidangpananjung",
+    "alias": "Kidangpananjung"
+  },
+  {
+    "code": "32.17.040.018",
+    "villageCode": "018",
+    "districtCode": "32.17.040",
+    "name": "Budiharja",
+    "alias": "Budiharja"
+  },
+  {
+    "code": "32.17.040.019",
+    "villageCode": "019",
+    "districtCode": "32.17.040",
+    "name": "Karanganyar",
+    "alias": "Karanganyar"
+  }
+]

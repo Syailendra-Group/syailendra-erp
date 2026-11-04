@@ -1,0 +1,86 @@
+[
+  {
+    "code": "61.06.101.001",
+    "villageCode": "001",
+    "districtCode": "61.06.101",
+    "name": "Menyumbung",
+    "alias": "Menyumbung"
+  },
+  {
+    "code": "61.06.101.002",
+    "villageCode": "002",
+    "districtCode": "61.06.101",
+    "name": "Senduruhan",
+    "alias": "Senduruhan"
+  },
+  {
+    "code": "61.06.101.003",
+    "villageCode": "003",
+    "districtCode": "61.06.101",
+    "name": "Cinta Manis",
+    "alias": "Cinta Manis"
+  },
+  {
+    "code": "61.06.101.004",
+    "villageCode": "004",
+    "districtCode": "61.06.101",
+    "name": "Beginci Darat",
+    "alias": "Beginci Darat"
+  },
+  {
+    "code": "61.06.101.005",
+    "villageCode": "005",
+    "districtCode": "61.06.101",
+    "name": "Benua Krio",
+    "alias": "Benua Krio"
+  },
+  {
+    "code": "61.06.101.006",
+    "villageCode": "006",
+    "districtCode": "61.06.101",
+    "name": "Riam Dadap",
+    "alias": "Riam Dadap"
+  },
+  {
+    "code": "61.06.101.007",
+    "villageCode": "007",
+    "districtCode": "61.06.101",
+    "name": "Sekukun",
+    "alias": "Sekukun"
+  },
+  {
+    "code": "61.06.101.008",
+    "villageCode": "008",
+    "districtCode": "61.06.101",
+    "name": "Batu Lapis",
+    "alias": "Batu Lapis"
+  },
+  {
+    "code": "61.06.101.009",
+    "villageCode": "009",
+    "districtCode": "61.06.101",
+    "name": "Krio Hulu",
+    "alias": "Krio Hulu"
+  },
+  {
+    "code": "61.06.101.010",
+    "villageCode": "010",
+    "districtCode": "61.06.101",
+    "name": "Kenyabur",
+    "alias": "Kenyabur"
+  },
+  {
+    "code": "61.06.101.011",
+    "villageCode": "011",
+    "districtCode": "61.06.101",
+    "name": "Sunge Bengaras",
+    "alias": "Sunge Bengaras"
+  },
+  {
+    "code": "61.06.101.012",
+    "villageCode": "012",
+    "districtCode": "61.06.101",
+    "name": "Lubuk Kakap",
+    "alias": "Lubuk Kakap"
+  }
+]

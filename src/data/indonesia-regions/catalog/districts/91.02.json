@@ -1,0 +1,58 @@
+[
+  {
+    "code": "91.02.010",
+    "districtCode": "010",
+    "regencyCode": "91.02",
+    "provinceCode": "91",
+    "name": "Kecamatan Buruway",
+    "alias": "Buruway"
+  },
+  {
+    "code": "91.02.020",
+    "districtCode": "020",
+    "regencyCode": "91.02",
+    "provinceCode": "91",
+    "name": "Kecamatan Teluk Arguni",
+    "alias": "Teluk Arguni"
+  },
+  {
+    "code": "91.02.021",
+    "districtCode": "021",
+    "regencyCode": "91.02",
+    "provinceCode": "91",
+    "name": "Kecamatan Teluk Arguni Bawah",
+    "alias": "Teluk Arguni Bawah"
+  },
+  {
+    "code": "91.02.030",
+    "districtCode": "030",
+    "regencyCode": "91.02",
+    "provinceCode": "91",
+    "name": "Kecamatan Kaimana",
+    "alias": "Kaimana"
+  },
+  {
+    "code": "91.02.031",
+    "districtCode": "031",
+    "regencyCode": "91.02",
+    "provinceCode": "91",
+    "name": "Kecamatan Kambrau",
+    "alias": "Kambrau"
+  },
+  {
+    "code": "91.02.040",
+    "districtCode": "040",
+    "regencyCode": "91.02",
+    "provinceCode": "91",
+    "name": "Kecamatan Teluk Etna",
+    "alias": "Teluk Etna"
+  },
+  {
+    "code": "91.02.041",
+    "districtCode": "041",
+    "regencyCode": "91.02",
+    "provinceCode": "91",
+    "name": "Kecamatan Yamor",
+    "alias": "Yamor"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "code": "33.12.201.001",
+    "villageCode": "001",
+    "districtCode": "33.12.201",
+    "name": "Puhpelem",
+    "alias": "Puhpelem"
+  },
+  {
+    "code": "33.12.201.002",
+    "villageCode": "002",
+    "districtCode": "33.12.201",
+    "name": "Giriharjo",
+    "alias": "Giriharjo"
+  },
+  {
+    "code": "33.12.201.003",
+    "villageCode": "003",
+    "districtCode": "33.12.201",
+    "name": "Nguneng",
+    "alias": "Nguneng"
+  },
+  {
+    "code": "33.12.201.004",
+    "villageCode": "004",
+    "districtCode": "33.12.201",
+    "name": "Sukorejo",
+    "alias": "Sukorejo"
+  },
+  {
+    "code": "33.12.201.005",
+    "villageCode": "005",
+    "districtCode": "33.12.201",
+    "name": "Tengger",
+    "alias": "Tengger"
+  },
+  {
+    "code": "33.12.201.006",
+    "villageCode": "006",
+    "districtCode": "33.12.201",
+    "name": "Golo",
+    "alias": "Golo"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "code": "72.05.051.001",
+    "villageCode": "001",
+    "districtCode": "72.05.051",
+    "name": "Palintuma",
+    "alias": "Palintuma"
+  },
+  {
+    "code": "72.05.051.002",
+    "villageCode": "002",
+    "districtCode": "72.05.051",
+    "name": "Gimpubia",
+    "alias": "Gimpubia"
+  },
+  {
+    "code": "72.05.051.003",
+    "villageCode": "003",
+    "districtCode": "72.05.051",
+    "name": "Bambakanini",
+    "alias": "Bambakanini"
+  },
+  {
+    "code": "72.05.051.004",
+    "villageCode": "004",
+    "districtCode": "72.05.051",
+    "name": "Dangaraa",
+    "alias": "Dangaraa"
+  },
+  {
+    "code": "72.05.051.005",
+    "villageCode": "005",
+    "districtCode": "72.05.051",
+    "name": "Tamodo",
+    "alias": "Tamodo"
+  },
+  {
+    "code": "72.05.051.006",
+    "villageCode": "006",
+    "districtCode": "72.05.051",
+    "name": "Bambakaenu",
+    "alias": "Bambakaenu"
+  },
+  {
+    "code": "72.05.051.007",
+    "villageCode": "007",
+    "districtCode": "72.05.051",
+    "name": "Karovia",
+    "alias": "Karovia"
+  },
+  {
+    "code": "72.05.051.008",
+    "villageCode": "008",
+    "districtCode": "72.05.051",
+    "name": "Kanagalongga",
+    "alias": "Kanagalongga"
+  },
+  {
+    "code": "72.05.051.009",
+    "villageCode": "009",
+    "districtCode": "72.05.051",
+    "name": "Tavanggeli",
+    "alias": "Tavanggeli"
+  }
+]

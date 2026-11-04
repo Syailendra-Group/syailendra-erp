@@ -1,0 +1,186 @@
+[
+  {
+    "code": "11.08.010",
+    "districtCode": "010",
+    "regencyCode": "11.08",
+    "provinceCode": "11",
+    "name": "Kecamatan Lhoong",
+    "alias": "Lhoong"
+  },
+  {
+    "code": "11.08.020",
+    "districtCode": "020",
+    "regencyCode": "11.08",
+    "provinceCode": "11",
+    "name": "Kecamatan Lhoknga",
+    "alias": "Lhoknga"
+  },
+  {
+    "code": "11.08.021",
+    "districtCode": "021",
+    "regencyCode": "11.08",
+    "provinceCode": "11",
+    "name": "Kecamatan Leupung",
+    "alias": "Leupung"
+  },
+  {
+    "code": "11.08.030",
+    "districtCode": "030",
+    "regencyCode": "11.08",
+    "provinceCode": "11",
+    "name": "Kecamatan Indrapuri",
+    "alias": "Indrapuri"
+  },
+  {
+    "code": "11.08.031",
+    "districtCode": "031",
+    "regencyCode": "11.08",
+    "provinceCode": "11",
+    "name": "Kecamatan Kuta Cot Glie",
+    "alias": "Kuta Cot Glie"
+  },
+  {
+    "code": "11.08.040",
+    "districtCode": "040",
+    "regencyCode": "11.08",
+    "provinceCode": "11",
+    "name": "Kecamatan Seulimeum",
+    "alias": "Seulimeum"
+  },
+  {
+    "code": "11.08.041",
+    "districtCode": "041",
+    "regencyCode": "11.08",
+    "provinceCode": "11",
+    "name": "Kecamatan Kota Jantho",
+    "alias": "Kota Jantho"
+  },
+  {
+    "code": "11.08.042",
+    "districtCode": "042",
+    "regencyCode": "11.08",
+    "provinceCode": "11",
+    "name": "Kecamatan Lembah Seulawah",
+    "alias": "Lembah Seulawah"
+  },
+  {
+    "code": "11.08.050",
+    "districtCode": "050",
+    "regencyCode": "11.08",
+    "provinceCode": "11",
+    "name": "Kecamatan Mesjid Raya",
+    "alias": "Mesjid Raya"
+  },
+  {
+    "code": "11.08.060",
+    "districtCode": "060",
+    "regencyCode": "11.08",
+    "provinceCode": "11",
+    "name": "Kecamatan Darussalam",
+    "alias": "Darussalam"
+  },
+  {
+    "code": "11.08.061",
+    "districtCode": "061",
+    "regencyCode": "11.08",
+    "provinceCode": "11",
+    "name": "Kecamatan Baitussalam",
+    "alias": "Baitussalam"
+  },
+  {
+    "code": "11.08.070",
+    "districtCode": "070",
+    "regencyCode": "11.08",
+    "provinceCode": "11",
+    "name": "Kecamatan Kuta Baro",
+    "alias": "Kuta Baro"
+  },
+  {
+    "code": "11.08.080",
+    "districtCode": "080",
+    "regencyCode": "11.08",
+    "provinceCode": "11",
+    "name": "Kecamatan Montasik",
+    "alias": "Montasik"
+  },
+  {
+    "code": "11.08.081",
+    "districtCode": "081",
+    "regencyCode": "11.08",
+    "provinceCode": "11",
+    "name": "Kecamatan Blang Bintang",
+    "alias": "Blang Bintang"
+  },
+  {
+    "code": "11.08.090",
+    "districtCode": "090",
+    "regencyCode": "11.08",
+    "provinceCode": "11",
+    "name": "Kecamatan Ingin Jaya",
+    "alias": "Ingin Jaya"
+  },
+  {
+    "code": "11.08.091",
+    "districtCode": "091",
+    "regencyCode": "11.08",
+    "provinceCode": "11",
+    "name": "Kecamatan Krueng Barona Jaya",
+    "alias": "Krueng Barona Jaya"
+  },
+  {
+    "code": "11.08.100",
+    "districtCode": "100",
+    "regencyCode": "11.08",
+    "provinceCode": "11",
+    "name": "Kecamatan Suka Makmur",
+    "alias": "Suka Makmur"
+  },
+  {
+    "code": "11.08.101",
+    "districtCode": "101",
+    "regencyCode": "11.08",
+    "provinceCode": "11",
+    "name": "Kecamatan Kuta Malaka",
+    "alias": "Kuta Malaka"
+  },
+  {
+    "code": "11.08.102",
+    "districtCode": "102",
+    "regencyCode": "11.08",
+    "provinceCode": "11",
+    "name": "Kecamatan Simpang Tiga",
+    "alias": "Simpang Tiga"
+  },
+  {
+    "code": "11.08.110",
+    "districtCode": "110",
+    "regencyCode": "11.08",
+    "provinceCode": "11",
+    "name": "Kecamatan Darul Imarah",
+    "alias": "Darul Imarah"
+  },
+  {
+    "code": "11.08.111",
+    "districtCode": "111",
+    "regencyCode": "11.08",
+    "provinceCode": "11",
+    "name": "Kecamatan Darul Kamal",
+    "alias": "Darul Kamal"
+  },
+  {
+    "code": "11.08.120",
+    "districtCode": "120",
+    "regencyCode": "11.08",
+    "provinceCode": "11",
+    "name": "Kecamatan Peukan Bada",
+    "alias": "Peukan Bada"
+  },
+  {
+    "code": "11.08.130",
+    "districtCode": "130",
+    "regencyCode": "11.08",
+    "provinceCode": "11",
+    "name": "Kecamatan Pulo Aceh",
+    "alias": "Pulo Aceh"
+  }
+]

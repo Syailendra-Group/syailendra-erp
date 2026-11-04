@@ -1,0 +1,58 @@
+[
+  {
+    "code": "73.09.041.001",
+    "villageCode": "001",
+    "districtCode": "73.09.041",
+    "name": "Bonto Langkasa",
+    "alias": "Bonto Langkasa"
+  },
+  {
+    "code": "73.09.041.002",
+    "villageCode": "002",
+    "districtCode": "73.09.041",
+    "name": "Kabba",
+    "alias": "Kabba"
+  },
+  {
+    "code": "73.09.041.003",
+    "villageCode": "003",
+    "districtCode": "73.09.041",
+    "name": "Panaikang",
+    "alias": "Panaikang"
+  },
+  {
+    "code": "73.09.041.004",
+    "villageCode": "004",
+    "districtCode": "73.09.041",
+    "name": "Bontokio",
+    "alias": "Bontokio"
+  },
+  {
+    "code": "73.09.041.005",
+    "villageCode": "005",
+    "districtCode": "73.09.041",
+    "name": "Biraeng",
+    "alias": "Biraeng"
+  },
+  {
+    "code": "73.09.041.006",
+    "villageCode": "006",
+    "districtCode": "73.09.041",
+    "name": "Minasatene",
+    "alias": "Minasatene"
+  },
+  {
+    "code": "73.09.041.007",
+    "villageCode": "007",
+    "districtCode": "73.09.041",
+    "name": "Kalabbirang",
+    "alias": "Kalabbirang"
+  },
+  {
+    "code": "73.09.041.008",
+    "villageCode": "008",
+    "districtCode": "73.09.041",
+    "name": "Bontoa",
+    "alias": "Bontoa"
+  }
+]

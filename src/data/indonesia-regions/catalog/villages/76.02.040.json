@@ -1,0 +1,100 @@
+[
+  {
+    "code": "76.02.040.001",
+    "villageCode": "001",
+    "districtCode": "76.02.040",
+    "name": "Tumpiling",
+    "alias": "Tumpiling"
+  },
+  {
+    "code": "76.02.040.003",
+    "villageCode": "003",
+    "districtCode": "76.02.040",
+    "name": "Nepo",
+    "alias": "Nepo"
+  },
+  {
+    "code": "76.02.040.004",
+    "villageCode": "004",
+    "districtCode": "76.02.040",
+    "name": "Kebunsari",
+    "alias": "Kebunsari"
+  },
+  {
+    "code": "76.02.040.005",
+    "villageCode": "005",
+    "districtCode": "76.02.040",
+    "name": "Arjosari",
+    "alias": "Arjosari"
+  },
+  {
+    "code": "76.02.040.006",
+    "villageCode": "006",
+    "districtCode": "76.02.040",
+    "name": "Bumiayu",
+    "alias": "Bumiayu"
+  },
+  {
+    "code": "76.02.040.007",
+    "villageCode": "007",
+    "districtCode": "76.02.040",
+    "name": "Bumi Mulyo",
+    "alias": "Bumi Mulyo"
+  },
+  {
+    "code": "76.02.040.008",
+    "villageCode": "008",
+    "districtCode": "76.02.040",
+    "name": "Sidorejo",
+    "alias": "Sidorejo"
+  },
+  {
+    "code": "76.02.040.009",
+    "villageCode": "009",
+    "districtCode": "76.02.040",
+    "name": "Sidodadi",
+    "alias": "Sidodadi"
+  },
+  {
+    "code": "76.02.040.010",
+    "villageCode": "010",
+    "districtCode": "76.02.040",
+    "name": "Campurjo",
+    "alias": "Campurjo"
+  },
+  {
+    "code": "76.02.040.014",
+    "villageCode": "014",
+    "districtCode": "76.02.040",
+    "name": "Sumberjo",
+    "alias": "Sumberjo"
+  },
+  {
+    "code": "76.02.040.015",
+    "villageCode": "015",
+    "districtCode": "76.02.040",
+    "name": "Sugih Waras",
+    "alias": "Sugih Waras"
+  },
+  {
+    "code": "76.02.040.016",
+    "villageCode": "016",
+    "districtCode": "76.02.040",
+    "name": "Banua Baru",
+    "alias": "Banua Baru"
+  },
+  {
+    "code": "76.02.040.021",
+    "villageCode": "021",
+    "districtCode": "76.02.040",
+    "name": "Bakka-Bakka",
+    "alias": "Bakka-Bakka"
+  },
+  {
+    "code": "76.02.040.022",
+    "villageCode": "022",
+    "districtCode": "76.02.040",
+    "name": "Galeso",
+    "alias": "Galeso"
+  }
+]

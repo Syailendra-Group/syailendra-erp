@@ -1,0 +1,93 @@
+[
+  {
+    "code": "62.03.170.001",
+    "villageCode": "001",
+    "districtCode": "62.03.170",
+    "name": "Masaran",
+    "alias": "Masaran"
+  },
+  {
+    "code": "62.03.170.002",
+    "villageCode": "002",
+    "districtCode": "62.03.170",
+    "name": "Kayu Bulan",
+    "alias": "Kayu Bulan"
+  },
+  {
+    "code": "62.03.170.003",
+    "villageCode": "003",
+    "districtCode": "62.03.170",
+    "name": "Kota Baru",
+    "alias": "Kota Baru"
+  },
+  {
+    "code": "62.03.170.004",
+    "villageCode": "004",
+    "districtCode": "62.03.170",
+    "name": "Penda Muntei",
+    "alias": "Penda Muntei"
+  },
+  {
+    "code": "62.03.170.005",
+    "villageCode": "005",
+    "districtCode": "62.03.170",
+    "name": "Tapen",
+    "alias": "Tapen"
+  },
+  {
+    "code": "62.03.170.006",
+    "villageCode": "006",
+    "districtCode": "62.03.170",
+    "name": "Pujon",
+    "alias": "Pujon"
+  },
+  {
+    "code": "62.03.170.007",
+    "villageCode": "007",
+    "districtCode": "62.03.170",
+    "name": "Marapit",
+    "alias": "Marapit"
+  },
+  {
+    "code": "62.03.170.008",
+    "villageCode": "008",
+    "districtCode": "62.03.170",
+    "name": "Manis",
+    "alias": "Manis"
+  },
+  {
+    "code": "62.03.170.009",
+    "villageCode": "009",
+    "districtCode": "62.03.170",
+    "name": "Bajuh",
+    "alias": "Bajuh"
+  },
+  {
+    "code": "62.03.170.011",
+    "villageCode": "011",
+    "districtCode": "62.03.170",
+    "name": "Karukus",
+    "alias": "Karukus"
+  },
+  {
+    "code": "62.03.170.018",
+    "villageCode": "018",
+    "districtCode": "62.03.170",
+    "name": "Barunang",
+    "alias": "Barunang"
+  },
+  {
+    "code": "62.03.170.019",
+    "villageCode": "019",
+    "districtCode": "62.03.170",
+    "name": "Buhut Jaya",
+    "alias": "Buhut Jaya"
+  },
+  {
+    "code": "62.03.170.020",
+    "villageCode": "020",
+    "districtCode": "62.03.170",
+    "name": "Hurung Pukung",
+    "alias": "Hurung Pukung"
+  }
+]

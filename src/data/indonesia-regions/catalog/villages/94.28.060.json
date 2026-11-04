@@ -1,0 +1,51 @@
+[
+  {
+    "code": "94.28.060.001",
+    "villageCode": "001",
+    "districtCode": "94.28.060",
+    "name": "Biri",
+    "alias": "Biri"
+  },
+  {
+    "code": "94.28.060.002",
+    "villageCode": "002",
+    "districtCode": "94.28.060",
+    "name": "Ery",
+    "alias": "Ery"
+  },
+  {
+    "code": "94.28.060.003",
+    "villageCode": "003",
+    "districtCode": "94.28.060",
+    "name": "Kustra",
+    "alias": "Kustra"
+  },
+  {
+    "code": "94.28.060.004",
+    "villageCode": "004",
+    "districtCode": "94.28.060",
+    "name": "Noyadi",
+    "alias": "Noyadi"
+  },
+  {
+    "code": "94.28.060.005",
+    "villageCode": "005",
+    "districtCode": "94.28.060",
+    "name": "Obogoi",
+    "alias": "Obogoi"
+  },
+  {
+    "code": "94.28.060.006",
+    "villageCode": "006",
+    "districtCode": "94.28.060",
+    "name": "Tuwao",
+    "alias": "Tuwao"
+  },
+  {
+    "code": "94.28.060.007",
+    "villageCode": "007",
+    "districtCode": "94.28.060",
+    "name": "Wakeyadi",
+    "alias": "Wakeyadi"
+  }
+]

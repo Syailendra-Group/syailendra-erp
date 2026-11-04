@@ -1,0 +1,65 @@
+[
+  {
+    "code": "16.04.114.001",
+    "villageCode": "001",
+    "districtCode": "16.04.114",
+    "name": "Tanjung Aur",
+    "alias": "Tanjung Aur"
+  },
+  {
+    "code": "16.04.114.002",
+    "villageCode": "002",
+    "districtCode": "16.04.114",
+    "name": "Sukaraja",
+    "alias": "Sukaraja"
+  },
+  {
+    "code": "16.04.114.003",
+    "villageCode": "003",
+    "districtCode": "16.04.114",
+    "name": "Maspura",
+    "alias": "Maspura"
+  },
+  {
+    "code": "16.04.114.004",
+    "villageCode": "004",
+    "districtCode": "16.04.114",
+    "name": "Sungai Laru",
+    "alias": "Sungai Laru"
+  },
+  {
+    "code": "16.04.114.005",
+    "villageCode": "005",
+    "districtCode": "16.04.114",
+    "name": "Tanjung Baru",
+    "alias": "Tanjung Baru"
+  },
+  {
+    "code": "16.04.114.006",
+    "villageCode": "006",
+    "districtCode": "16.04.114",
+    "name": "Muara Lingsing",
+    "alias": "Muara Lingsing"
+  },
+  {
+    "code": "16.04.114.007",
+    "villageCode": "007",
+    "districtCode": "16.04.114",
+    "name": "Kepala Siring",
+    "alias": "Kepala Siring"
+  },
+  {
+    "code": "16.04.114.008",
+    "villageCode": "008",
+    "districtCode": "16.04.114",
+    "name": "Banyumas",
+    "alias": "Banyumas"
+  },
+  {
+    "code": "16.04.114.009",
+    "villageCode": "009",
+    "districtCode": "16.04.114",
+    "name": "Purbamas",
+    "alias": "Purbamas"
+  }
+]

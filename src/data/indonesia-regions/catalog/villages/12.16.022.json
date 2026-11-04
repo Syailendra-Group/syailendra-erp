@@ -1,0 +1,44 @@
+[
+  {
+    "code": "12.16.022.001",
+    "villageCode": "001",
+    "districtCode": "12.16.022",
+    "name": "Siempat Rube I",
+    "alias": "Siempat Rube I"
+  },
+  {
+    "code": "12.16.022.002",
+    "villageCode": "002",
+    "districtCode": "12.16.022",
+    "name": "Siempat Rube Ii",
+    "alias": "Siempat Rube Ii"
+  },
+  {
+    "code": "12.16.022.003",
+    "villageCode": "003",
+    "districtCode": "12.16.022",
+    "name": "Mungkur",
+    "alias": "Mungkur"
+  },
+  {
+    "code": "12.16.022.004",
+    "villageCode": "004",
+    "districtCode": "12.16.022",
+    "name": "Siempat Rube Iv",
+    "alias": "Siempat Rube Iv"
+  },
+  {
+    "code": "12.16.022.005",
+    "villageCode": "005",
+    "districtCode": "12.16.022",
+    "name": "Kuta Jungak",
+    "alias": "Kuta Jungak"
+  },
+  {
+    "code": "12.16.022.006",
+    "villageCode": "006",
+    "districtCode": "12.16.022",
+    "name": "Traju",
+    "alias": "Traju"
+  }
+]

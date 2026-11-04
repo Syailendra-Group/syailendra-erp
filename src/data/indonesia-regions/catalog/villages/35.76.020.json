@@ -1,0 +1,44 @@
+[
+  {
+    "code": "35.76.020.002",
+    "villageCode": "002",
+    "districtCode": "35.76.020",
+    "name": "Gunung Gedangan",
+    "alias": "Gunung Gedangan"
+  },
+  {
+    "code": "35.76.020.003",
+    "villageCode": "003",
+    "districtCode": "35.76.020",
+    "name": "Kedundung",
+    "alias": "Kedundung"
+  },
+  {
+    "code": "35.76.020.004",
+    "villageCode": "004",
+    "districtCode": "35.76.020",
+    "name": "Balongsari",
+    "alias": "Balongsari"
+  },
+  {
+    "code": "35.76.020.008",
+    "villageCode": "008",
+    "districtCode": "35.76.020",
+    "name": "Gedongan",
+    "alias": "Gedongan"
+  },
+  {
+    "code": "35.76.020.009",
+    "villageCode": "009",
+    "districtCode": "35.76.020",
+    "name": "Magersari",
+    "alias": "Magersari"
+  },
+  {
+    "code": "35.76.020.010",
+    "villageCode": "010",
+    "districtCode": "35.76.020",
+    "name": "Wates",
+    "alias": "Wates"
+  }
+]

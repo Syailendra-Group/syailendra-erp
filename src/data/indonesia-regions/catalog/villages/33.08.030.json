@@ -1,0 +1,58 @@
+[
+  {
+    "code": "33.08.030.001",
+    "villageCode": "001",
+    "districtCode": "33.08.030",
+    "name": "Bligo",
+    "alias": "Bligo"
+  },
+  {
+    "code": "33.08.030.002",
+    "villageCode": "002",
+    "districtCode": "33.08.030",
+    "name": "Pakunden",
+    "alias": "Pakunden"
+  },
+  {
+    "code": "33.08.030.003",
+    "villageCode": "003",
+    "districtCode": "33.08.030",
+    "name": "Somokaton",
+    "alias": "Somokaton"
+  },
+  {
+    "code": "33.08.030.004",
+    "villageCode": "004",
+    "districtCode": "33.08.030",
+    "name": "Ngluwar",
+    "alias": "Ngluwar"
+  },
+  {
+    "code": "33.08.030.005",
+    "villageCode": "005",
+    "districtCode": "33.08.030",
+    "name": "Karangtalun",
+    "alias": "Karangtalun"
+  },
+  {
+    "code": "33.08.030.006",
+    "villageCode": "006",
+    "districtCode": "33.08.030",
+    "name": "Jamuskauman",
+    "alias": "Jamuskauman"
+  },
+  {
+    "code": "33.08.030.007",
+    "villageCode": "007",
+    "districtCode": "33.08.030",
+    "name": "Plosogede",
+    "alias": "Plosogede"
+  },
+  {
+    "code": "33.08.030.008",
+    "villageCode": "008",
+    "districtCode": "33.08.030",
+    "name": "Blongkeng",
+    "alias": "Blongkeng"
+  }
+]

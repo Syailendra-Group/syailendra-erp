@@ -1,0 +1,37 @@
+[
+  {
+    "code": "74.71.013.005",
+    "villageCode": "005",
+    "districtCode": "74.71.013",
+    "name": "Bende",
+    "alias": "Bende"
+  },
+  {
+    "code": "74.71.013.006",
+    "villageCode": "006",
+    "districtCode": "74.71.013",
+    "name": "Kadia",
+    "alias": "Kadia"
+  },
+  {
+    "code": "74.71.013.009",
+    "villageCode": "009",
+    "districtCode": "74.71.013",
+    "name": "Anaiwoi",
+    "alias": "Anaiwoi"
+  },
+  {
+    "code": "74.71.013.010",
+    "villageCode": "010",
+    "districtCode": "74.71.013",
+    "name": "Wowawanggu",
+    "alias": "Wowawanggu"
+  },
+  {
+    "code": "74.71.013.012",
+    "villageCode": "012",
+    "districtCode": "74.71.013",
+    "name": "Pondambea",
+    "alias": "Pondambea"
+  }
+]

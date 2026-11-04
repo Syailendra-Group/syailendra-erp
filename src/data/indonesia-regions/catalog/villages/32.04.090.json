@@ -1,0 +1,65 @@
+[
+  {
+    "code": "32.04.090.001",
+    "villageCode": "001",
+    "districtCode": "32.04.090",
+    "name": "Srirahayu",
+    "alias": "Srirahayu"
+  },
+  {
+    "code": "32.04.090.002",
+    "villageCode": "002",
+    "districtCode": "32.04.090",
+    "name": "Ciluluk",
+    "alias": "Ciluluk"
+  },
+  {
+    "code": "32.04.090.003",
+    "villageCode": "003",
+    "districtCode": "32.04.090",
+    "name": "Mekarlaksana",
+    "alias": "Mekarlaksana"
+  },
+  {
+    "code": "32.04.090.004",
+    "villageCode": "004",
+    "districtCode": "32.04.090",
+    "name": "Cihanyir",
+    "alias": "Cihanyir"
+  },
+  {
+    "code": "32.04.090.005",
+    "villageCode": "005",
+    "districtCode": "32.04.090",
+    "name": "Cikancung",
+    "alias": "Cikancung"
+  },
+  {
+    "code": "32.04.090.006",
+    "villageCode": "006",
+    "districtCode": "32.04.090",
+    "name": "Mandalasari",
+    "alias": "Mandalasari"
+  },
+  {
+    "code": "32.04.090.007",
+    "villageCode": "007",
+    "districtCode": "32.04.090",
+    "name": "Hegarmanah",
+    "alias": "Hegarmanah"
+  },
+  {
+    "code": "32.04.090.008",
+    "villageCode": "008",
+    "districtCode": "32.04.090",
+    "name": "Cikasungka",
+    "alias": "Cikasungka"
+  },
+  {
+    "code": "32.04.090.009",
+    "villageCode": "009",
+    "districtCode": "32.04.090",
+    "name": "Tanjunglaya",
+    "alias": "Tanjunglaya"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "code": "94.28.031.001",
+    "villageCode": "001",
+    "districtCode": "94.28.031",
+    "name": "Watiaro",
+    "alias": "Watiaro"
+  },
+  {
+    "code": "94.28.031.002",
+    "villageCode": "002",
+    "districtCode": "94.28.031",
+    "name": "Baitanisa",
+    "alias": "Baitanisa"
+  },
+  {
+    "code": "94.28.031.003",
+    "villageCode": "003",
+    "districtCode": "94.28.031",
+    "name": "Dadat",
+    "alias": "Dadat"
+  },
+  {
+    "code": "94.28.031.004",
+    "villageCode": "004",
+    "districtCode": "94.28.031",
+    "name": "Kamai",
+    "alias": "Kamai"
+  },
+  {
+    "code": "94.28.031.005",
+    "villageCode": "005",
+    "districtCode": "94.28.031",
+    "name": "Gesa Baru",
+    "alias": "Gesa Baru"
+  },
+  {
+    "code": "94.28.031.006",
+    "villageCode": "006",
+    "districtCode": "94.28.031",
+    "name": "Kerema",
+    "alias": "Kerema"
+  }
+]

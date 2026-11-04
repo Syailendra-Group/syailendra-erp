@@ -1,0 +1,122 @@
+[
+  {
+    "code": "73.22.010",
+    "districtCode": "010",
+    "regencyCode": "73.22",
+    "provinceCode": "73",
+    "name": "Kecamatan Sabbang",
+    "alias": "Sabbang"
+  },
+  {
+    "code": "73.22.011",
+    "districtCode": "011",
+    "regencyCode": "73.22",
+    "provinceCode": "73",
+    "name": "Kecamatan Sabbang Selatan",
+    "alias": "Sabbang Selatan"
+  },
+  {
+    "code": "73.22.020",
+    "districtCode": "020",
+    "regencyCode": "73.22",
+    "provinceCode": "73",
+    "name": "Kecamatan Baebunta",
+    "alias": "Baebunta"
+  },
+  {
+    "code": "73.22.021",
+    "districtCode": "021",
+    "regencyCode": "73.22",
+    "provinceCode": "73",
+    "name": "Kecamatan Baebunta Selatan",
+    "alias": "Baebunta Selatan"
+  },
+  {
+    "code": "73.22.030",
+    "districtCode": "030",
+    "regencyCode": "73.22",
+    "provinceCode": "73",
+    "name": "Kecamatan Malangke",
+    "alias": "Malangke"
+  },
+  {
+    "code": "73.22.031",
+    "districtCode": "031",
+    "regencyCode": "73.22",
+    "provinceCode": "73",
+    "name": "Kecamatan Malangke Barat",
+    "alias": "Malangke Barat"
+  },
+  {
+    "code": "73.22.040",
+    "districtCode": "040",
+    "regencyCode": "73.22",
+    "provinceCode": "73",
+    "name": "Kecamatan Sukamaju",
+    "alias": "Sukamaju"
+  },
+  {
+    "code": "73.22.041",
+    "districtCode": "041",
+    "regencyCode": "73.22",
+    "provinceCode": "73",
+    "name": "Kecamatan Sukamaju Selatan",
+    "alias": "Sukamaju Selatan"
+  },
+  {
+    "code": "73.22.050",
+    "districtCode": "050",
+    "regencyCode": "73.22",
+    "provinceCode": "73",
+    "name": "Kecamatan Bone-Bone",
+    "alias": "Bone-Bone"
+  },
+  {
+    "code": "73.22.051",
+    "districtCode": "051",
+    "regencyCode": "73.22",
+    "provinceCode": "73",
+    "name": "Kecamatan Tana Lili",
+    "alias": "Tana Lili"
+  },
+  {
+    "code": "73.22.120",
+    "districtCode": "120",
+    "regencyCode": "73.22",
+    "provinceCode": "73",
+    "name": "Kecamatan Masamba",
+    "alias": "Masamba"
+  },
+  {
+    "code": "73.22.121",
+    "districtCode": "121",
+    "regencyCode": "73.22",
+    "provinceCode": "73",
+    "name": "Kecamatan Mappedeceng",
+    "alias": "Mappedeceng"
+  },
+  {
+    "code": "73.22.122",
+    "districtCode": "122",
+    "regencyCode": "73.22",
+    "provinceCode": "73",
+    "name": "Kecamatan Rampi",
+    "alias": "Rampi"
+  },
+  {
+    "code": "73.22.130",
+    "districtCode": "130",
+    "regencyCode": "73.22",
+    "provinceCode": "73",
+    "name": "Kecamatan Rongkong",
+    "alias": "Rongkong"
+  },
+  {
+    "code": "73.22.131",
+    "districtCode": "131",
+    "regencyCode": "73.22",
+    "provinceCode": "73",
+    "name": "Kecamatan Seko",
+    "alias": "Seko"
+  }
+]

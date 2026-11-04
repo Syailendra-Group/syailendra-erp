@@ -1,0 +1,72 @@
+[
+  {
+    "code": "71.09.061.001",
+    "villageCode": "001",
+    "districtCode": "71.09.061",
+    "name": "Lowantag",
+    "alias": "Lowantag"
+  },
+  {
+    "code": "71.09.061.002",
+    "villageCode": "002",
+    "districtCode": "71.09.061",
+    "name": "Banga",
+    "alias": "Banga"
+  },
+  {
+    "code": "71.09.061.003",
+    "villageCode": "003",
+    "districtCode": "71.09.061",
+    "name": "Suhuyon",
+    "alias": "Suhuyon"
+  },
+  {
+    "code": "71.09.061.004",
+    "villageCode": "004",
+    "districtCode": "71.09.061",
+    "name": "Tambelang",
+    "alias": "Tambelang"
+  },
+  {
+    "code": "71.09.061.005",
+    "villageCode": "005",
+    "districtCode": "71.09.061",
+    "name": "Bunag",
+    "alias": "Bunag"
+  },
+  {
+    "code": "71.09.061.006",
+    "villageCode": "006",
+    "districtCode": "71.09.061",
+    "name": "Ranoako",
+    "alias": "Ranoako"
+  },
+  {
+    "code": "71.09.061.007",
+    "villageCode": "007",
+    "districtCode": "71.09.061",
+    "name": "Kalait",
+    "alias": "Kalait"
+  },
+  {
+    "code": "71.09.061.008",
+    "villageCode": "008",
+    "districtCode": "71.09.061",
+    "name": "Kalait Satu",
+    "alias": "Kalait Satu"
+  },
+  {
+    "code": "71.09.061.009",
+    "villageCode": "009",
+    "districtCode": "71.09.061",
+    "name": "Kalait Dua",
+    "alias": "Kalait Dua"
+  },
+  {
+    "code": "71.09.061.010",
+    "villageCode": "010",
+    "districtCode": "71.09.061",
+    "name": "Kalait Tiga",
+    "alias": "Kalait Tiga"
+  }
+]

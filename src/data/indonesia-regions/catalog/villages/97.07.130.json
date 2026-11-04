@@ -1,0 +1,65 @@
+[
+  {
+    "code": "97.07.130.001",
+    "villageCode": "001",
+    "districtCode": "97.07.130",
+    "name": "Langda",
+    "alias": "Langda"
+  },
+  {
+    "code": "97.07.130.002",
+    "villageCode": "002",
+    "districtCode": "97.07.130",
+    "name": "Alirji",
+    "alias": "Alirji"
+  },
+  {
+    "code": "97.07.130.003",
+    "villageCode": "003",
+    "districtCode": "97.07.130",
+    "name": "Laryi",
+    "alias": "Laryi"
+  },
+  {
+    "code": "97.07.130.004",
+    "villageCode": "004",
+    "districtCode": "97.07.130",
+    "name": "Kap-Kap/Kikmai",
+    "alias": "Kap-Kap/Kikmai"
+  },
+  {
+    "code": "97.07.130.005",
+    "villageCode": "005",
+    "districtCode": "97.07.130",
+    "name": "Yalar",
+    "alias": "Yalar"
+  },
+  {
+    "code": "97.07.130.006",
+    "villageCode": "006",
+    "districtCode": "97.07.130",
+    "name": "Wasumurji",
+    "alias": "Wasumurji"
+  },
+  {
+    "code": "97.07.130.007",
+    "villageCode": "007",
+    "districtCode": "97.07.130",
+    "name": "Kirabuk",
+    "alias": "Kirabuk"
+  },
+  {
+    "code": "97.07.130.008",
+    "villageCode": "008",
+    "districtCode": "97.07.130",
+    "name": "Bebekle",
+    "alias": "Bebekle"
+  },
+  {
+    "code": "97.07.130.009",
+    "villageCode": "009",
+    "districtCode": "97.07.130",
+    "name": "Lukun",
+    "alias": "Lukun"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "code": "35.29.200.001",
+    "villageCode": "001",
+    "districtCode": "35.29.200",
+    "name": "Sokarame Paseser",
+    "alias": "Sokarame Paseser"
+  },
+  {
+    "code": "35.29.200.002",
+    "villageCode": "002",
+    "districtCode": "35.29.200",
+    "name": "Sokarame Timur",
+    "alias": "Sokarame Timur"
+  },
+  {
+    "code": "35.29.200.003",
+    "villageCode": "003",
+    "districtCode": "35.29.200",
+    "name": "Tanahmerah",
+    "alias": "Tanahmerah"
+  },
+  {
+    "code": "35.29.200.004",
+    "villageCode": "004",
+    "districtCode": "35.29.200",
+    "name": "Somber",
+    "alias": "Somber"
+  },
+  {
+    "code": "35.29.200.005",
+    "villageCode": "005",
+    "districtCode": "35.29.200",
+    "name": "Sonok",
+    "alias": "Sonok"
+  },
+  {
+    "code": "35.29.200.006",
+    "villageCode": "006",
+    "districtCode": "35.29.200",
+    "name": "Nonggunong",
+    "alias": "Nonggunong"
+  },
+  {
+    "code": "35.29.200.007",
+    "villageCode": "007",
+    "districtCode": "35.29.200",
+    "name": "Rosong",
+    "alias": "Rosong"
+  },
+  {
+    "code": "35.29.200.008",
+    "villageCode": "008",
+    "districtCode": "35.29.200",
+    "name": "Talaga",
+    "alias": "Talaga"
+  }
+]

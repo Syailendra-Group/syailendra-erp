@@ -1,0 +1,44 @@
+[
+  {
+    "code": "95.04.012.001",
+    "villageCode": "001",
+    "districtCode": "95.04.012",
+    "name": "Amkai",
+    "alias": "Amkai"
+  },
+  {
+    "code": "95.04.012.002",
+    "villageCode": "002",
+    "districtCode": "95.04.012",
+    "name": "Yamkap",
+    "alias": "Yamkap"
+  },
+  {
+    "code": "95.04.012.003",
+    "villageCode": "003",
+    "districtCode": "95.04.012",
+    "name": "Amaru",
+    "alias": "Amaru"
+  },
+  {
+    "code": "95.04.012.004",
+    "villageCode": "004",
+    "districtCode": "95.04.012",
+    "name": "Amkum",
+    "alias": "Amkum"
+  },
+  {
+    "code": "95.04.012.005",
+    "villageCode": "005",
+    "districtCode": "95.04.012",
+    "name": "Erosaman",
+    "alias": "Erosaman"
+  },
+  {
+    "code": "95.04.012.006",
+    "villageCode": "006",
+    "districtCode": "95.04.012",
+    "name": "Amagais",
+    "alias": "Amagais"
+  }
+]

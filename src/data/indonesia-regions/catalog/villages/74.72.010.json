@@ -1,0 +1,37 @@
+[
+  {
+    "code": "74.72.010.001",
+    "villageCode": "001",
+    "districtCode": "74.72.010",
+    "name": "Sulaa",
+    "alias": "Sulaa"
+  },
+  {
+    "code": "74.72.010.002",
+    "villageCode": "002",
+    "districtCode": "74.72.010",
+    "name": "Waborobo",
+    "alias": "Waborobo"
+  },
+  {
+    "code": "74.72.010.008",
+    "villageCode": "008",
+    "districtCode": "74.72.010",
+    "name": "Lipu",
+    "alias": "Lipu"
+  },
+  {
+    "code": "74.72.010.009",
+    "villageCode": "009",
+    "districtCode": "74.72.010",
+    "name": "Katobengke",
+    "alias": "Katobengke"
+  },
+  {
+    "code": "74.72.010.010",
+    "villageCode": "010",
+    "districtCode": "74.72.010",
+    "name": "Labalawa",
+    "alias": "Labalawa"
+  }
+]

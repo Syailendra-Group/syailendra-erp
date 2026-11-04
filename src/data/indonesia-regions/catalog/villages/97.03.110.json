@@ -1,0 +1,72 @@
+[
+  {
+    "code": "97.03.110.001",
+    "villageCode": "001",
+    "districtCode": "97.03.110",
+    "name": "Golo",
+    "alias": "Golo"
+  },
+  {
+    "code": "97.03.110.002",
+    "villageCode": "002",
+    "districtCode": "97.03.110",
+    "name": "Yiwili",
+    "alias": "Yiwili"
+  },
+  {
+    "code": "97.03.110.003",
+    "villageCode": "003",
+    "districtCode": "97.03.110",
+    "name": "Wuluwebur",
+    "alias": "Wuluwebur"
+  },
+  {
+    "code": "97.03.110.004",
+    "villageCode": "004",
+    "districtCode": "97.03.110",
+    "name": "Yugumabur",
+    "alias": "Yugumabur"
+  },
+  {
+    "code": "97.03.110.005",
+    "villageCode": "005",
+    "districtCode": "97.03.110",
+    "name": "Uniwani",
+    "alias": "Uniwani"
+  },
+  {
+    "code": "97.03.110.006",
+    "villageCode": "006",
+    "districtCode": "97.03.110",
+    "name": "Wiringgabut",
+    "alias": "Wiringgabut"
+  },
+  {
+    "code": "97.03.110.007",
+    "villageCode": "007",
+    "districtCode": "97.03.110",
+    "name": "Milidi",
+    "alias": "Milidi"
+  },
+  {
+    "code": "97.03.110.008",
+    "villageCode": "008",
+    "districtCode": "97.03.110",
+    "name": "Giruwi",
+    "alias": "Giruwi"
+  },
+  {
+    "code": "97.03.110.009",
+    "villageCode": "009",
+    "districtCode": "97.03.110",
+    "name": "Kiludo",
+    "alias": "Kiludo"
+  },
+  {
+    "code": "97.03.110.010",
+    "villageCode": "010",
+    "districtCode": "97.03.110",
+    "name": "Golomi",
+    "alias": "Golomi"
+  }
+]

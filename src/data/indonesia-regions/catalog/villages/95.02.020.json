@@ -1,0 +1,37 @@
+[
+  {
+    "code": "95.02.020.001",
+    "villageCode": "001",
+    "districtCode": "95.02.020",
+    "name": "Metto",
+    "alias": "Metto"
+  },
+  {
+    "code": "95.02.020.002",
+    "villageCode": "002",
+    "districtCode": "95.02.020",
+    "name": "Obinangge",
+    "alias": "Obinangge"
+  },
+  {
+    "code": "95.02.020.003",
+    "villageCode": "003",
+    "districtCode": "95.02.020",
+    "name": "Kapohu",
+    "alias": "Kapohu"
+  },
+  {
+    "code": "95.02.020.004",
+    "villageCode": "004",
+    "districtCode": "95.02.020",
+    "name": "Ujungkia",
+    "alias": "Ujungkia"
+  },
+  {
+    "code": "95.02.020.005",
+    "villageCode": "005",
+    "districtCode": "95.02.020",
+    "name": "Watemu",
+    "alias": "Watemu"
+  }
+]

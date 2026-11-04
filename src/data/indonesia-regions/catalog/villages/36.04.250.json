@@ -1,0 +1,79 @@
+[
+  {
+    "code": "36.04.250.001",
+    "villageCode": "001",
+    "districtCode": "36.04.250",
+    "name": "Sukajaya",
+    "alias": "Sukajaya"
+  },
+  {
+    "code": "36.04.250.002",
+    "villageCode": "002",
+    "districtCode": "36.04.250",
+    "name": "Sukanegara",
+    "alias": "Sukanegara"
+  },
+  {
+    "code": "36.04.250.007",
+    "villageCode": "007",
+    "districtCode": "36.04.250",
+    "name": "Kalapian",
+    "alias": "Kalapian"
+  },
+  {
+    "code": "36.04.250.008",
+    "villageCode": "008",
+    "districtCode": "36.04.250",
+    "name": "Keserangan",
+    "alias": "Keserangan"
+  },
+  {
+    "code": "36.04.250.009",
+    "villageCode": "009",
+    "districtCode": "36.04.250",
+    "name": "Pulo Kencana",
+    "alias": "Pulo Kencana"
+  },
+  {
+    "code": "36.04.250.010",
+    "villageCode": "010",
+    "districtCode": "36.04.250",
+    "name": "Linduk",
+    "alias": "Linduk"
+  },
+  {
+    "code": "36.04.250.011",
+    "villageCode": "011",
+    "districtCode": "36.04.250",
+    "name": "Kubang Puji",
+    "alias": "Kubang Puji"
+  },
+  {
+    "code": "36.04.250.012",
+    "villageCode": "012",
+    "districtCode": "36.04.250",
+    "name": "Singarajan",
+    "alias": "Singarajan"
+  },
+  {
+    "code": "36.04.250.013",
+    "villageCode": "013",
+    "districtCode": "36.04.250",
+    "name": "Pontang",
+    "alias": "Pontang"
+  },
+  {
+    "code": "36.04.250.014",
+    "villageCode": "014",
+    "districtCode": "36.04.250",
+    "name": "Wanayasa",
+    "alias": "Wanayasa"
+  },
+  {
+    "code": "36.04.250.015",
+    "villageCode": "015",
+    "districtCode": "36.04.250",
+    "name": "Domas",
+    "alias": "Domas"
+  }
+]

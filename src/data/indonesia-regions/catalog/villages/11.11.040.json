@@ -1,0 +1,268 @@
+[
+  {
+    "code": "11.11.040.010",
+    "villageCode": "010",
+    "districtCode": "11.11.040",
+    "name": "Meudang Ara",
+    "alias": "Meudang Ara"
+  },
+  {
+    "code": "11.11.040.012",
+    "villageCode": "012",
+    "districtCode": "11.11.040",
+    "name": "Siren Tujoh",
+    "alias": "Siren Tujoh"
+  },
+  {
+    "code": "11.11.040.013",
+    "villageCode": "013",
+    "districtCode": "11.11.040",
+    "name": "Cut Neuheun",
+    "alias": "Cut Neuheun"
+  },
+  {
+    "code": "11.11.040.014",
+    "villageCode": "014",
+    "districtCode": "11.11.040",
+    "name": "Tumpeun",
+    "alias": "Tumpeun"
+  },
+  {
+    "code": "11.11.040.015",
+    "villageCode": "015",
+    "districtCode": "11.11.040",
+    "name": "A L E N",
+    "alias": "A L E N"
+  },
+  {
+    "code": "11.11.040.016",
+    "villageCode": "016",
+    "districtCode": "11.11.040",
+    "name": "Dayah Blang Seureukuy",
+    "alias": "Dayah Blang Seureukuy"
+  },
+  {
+    "code": "11.11.040.017",
+    "villageCode": "017",
+    "districtCode": "11.11.040",
+    "name": "Blang Patra",
+    "alias": "Blang Patra"
+  },
+  {
+    "code": "11.11.040.019",
+    "villageCode": "019",
+    "districtCode": "11.11.040",
+    "name": "Buket Glumpang",
+    "alias": "Buket Glumpang"
+  },
+  {
+    "code": "11.11.040.020",
+    "villageCode": "020",
+    "districtCode": "11.11.040",
+    "name": "Seunebok Baro",
+    "alias": "Seunebok Baro"
+  },
+  {
+    "code": "11.11.040.021",
+    "villageCode": "021",
+    "districtCode": "11.11.040",
+    "name": "Alue Majron",
+    "alias": "Alue Majron"
+  },
+  {
+    "code": "11.11.040.022",
+    "villageCode": "022",
+    "districtCode": "11.11.040",
+    "name": "Blang Majron",
+    "alias": "Blang Majron"
+  },
+  {
+    "code": "11.11.040.023",
+    "villageCode": "023",
+    "districtCode": "11.11.040",
+    "name": "Blang Seureukuy",
+    "alias": "Blang Seureukuy"
+  },
+  {
+    "code": "11.11.040.024",
+    "villageCode": "024",
+    "districtCode": "11.11.040",
+    "name": "Kayee Panyang",
+    "alias": "Kayee Panyang"
+  },
+  {
+    "code": "11.11.040.025",
+    "villageCode": "025",
+    "districtCode": "11.11.040",
+    "name": "Ulee Meuria",
+    "alias": "Ulee Meuria"
+  },
+  {
+    "code": "11.11.040.026",
+    "villageCode": "026",
+    "districtCode": "11.11.040",
+    "name": "Pulo Blang Trieng",
+    "alias": "Pulo Blang Trieng"
+  },
+  {
+    "code": "11.11.040.027",
+    "villageCode": "027",
+    "districtCode": "11.11.040",
+    "name": "Rheng",
+    "alias": "Rheng"
+  },
+  {
+    "code": "11.11.040.028",
+    "villageCode": "028",
+    "districtCode": "11.11.040",
+    "name": "Trieng Meudurou",
+    "alias": "Trieng Meudurou"
+  },
+  {
+    "code": "11.11.040.029",
+    "villageCode": "029",
+    "districtCode": "11.11.040",
+    "name": "Garot",
+    "alias": "Garot"
+  },
+  {
+    "code": "11.11.040.030",
+    "villageCode": "030",
+    "districtCode": "11.11.040",
+    "name": "Cibrek",
+    "alias": "Cibrek"
+  },
+  {
+    "code": "11.11.040.031",
+    "villageCode": "031",
+    "districtCode": "11.11.040",
+    "name": "Blang Awe",
+    "alias": "Blang Awe"
+  },
+  {
+    "code": "11.11.040.032",
+    "villageCode": "032",
+    "districtCode": "11.11.040",
+    "name": "Pulo Blang Mangat",
+    "alias": "Pulo Blang Mangat"
+  },
+  {
+    "code": "11.11.040.033",
+    "villageCode": "033",
+    "districtCode": "11.11.040",
+    "name": "Ulee Gampong",
+    "alias": "Ulee Gampong"
+  },
+  {
+    "code": "11.11.040.034",
+    "villageCode": "034",
+    "districtCode": "11.11.040",
+    "name": "Bale",
+    "alias": "Bale"
+  },
+  {
+    "code": "11.11.040.035",
+    "villageCode": "035",
+    "districtCode": "11.11.040",
+    "name": "Bie",
+    "alias": "Bie"
+  },
+  {
+    "code": "11.11.040.036",
+    "villageCode": "036",
+    "districtCode": "11.11.040",
+    "name": "Nibong",
+    "alias": "Nibong"
+  },
+  {
+    "code": "11.11.040.037",
+    "villageCode": "037",
+    "districtCode": "11.11.040",
+    "name": "Baro Kulam Gajah",
+    "alias": "Baro Kulam Gajah"
+  },
+  {
+    "code": "11.11.040.038",
+    "villageCode": "038",
+    "districtCode": "11.11.040",
+    "name": "Beurandang",
+    "alias": "Beurandang"
+  },
+  {
+    "code": "11.11.040.039",
+    "villageCode": "039",
+    "districtCode": "11.11.040",
+    "name": "Glong",
+    "alias": "Glong"
+  },
+  {
+    "code": "11.11.040.040",
+    "villageCode": "040",
+    "districtCode": "11.11.040",
+    "name": "Langa",
+    "alias": "Langa"
+  },
+  {
+    "code": "11.11.040.041",
+    "villageCode": "041",
+    "districtCode": "11.11.040",
+    "name": "Beunot",
+    "alias": "Beunot"
+  },
+  {
+    "code": "11.11.040.042",
+    "villageCode": "042",
+    "districtCode": "11.11.040",
+    "name": "Keude Bayu",
+    "alias": "Keude Bayu"
+  },
+  {
+    "code": "11.11.040.043",
+    "villageCode": "043",
+    "districtCode": "11.11.040",
+    "name": "Blang Bayu",
+    "alias": "Blang Bayu"
+  },
+  {
+    "code": "11.11.040.044",
+    "villageCode": "044",
+    "districtCode": "11.11.040",
+    "name": "Dayah Baro",
+    "alias": "Dayah Baro"
+  },
+  {
+    "code": "11.11.040.045",
+    "villageCode": "045",
+    "districtCode": "11.11.040",
+    "name": "Dayah Tuha",
+    "alias": "Dayah Tuha"
+  },
+  {
+    "code": "11.11.040.046",
+    "villageCode": "046",
+    "districtCode": "11.11.040",
+    "name": "Bungong",
+    "alias": "Bungong"
+  },
+  {
+    "code": "11.11.040.047",
+    "villageCode": "047",
+    "districtCode": "11.11.040",
+    "name": "Punti",
+    "alias": "Punti"
+  },
+  {
+    "code": "11.11.040.048",
+    "villageCode": "048",
+    "districtCode": "11.11.040",
+    "name": "Baroh Blang Rimueng",
+    "alias": "Baroh Blang Rimueng"
+  },
+  {
+    "code": "11.11.040.049",
+    "villageCode": "049",
+    "districtCode": "11.11.040",
+    "name": "Lancok",
+    "alias": "Lancok"
+  }
+]

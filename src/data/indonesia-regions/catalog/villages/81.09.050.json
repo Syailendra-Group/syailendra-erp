@@ -1,0 +1,51 @@
+[
+  {
+    "code": "81.09.050.001",
+    "villageCode": "001",
+    "districtCode": "81.09.050",
+    "name": "Siwar",
+    "alias": "Siwar"
+  },
+  {
+    "code": "81.09.050.002",
+    "villageCode": "002",
+    "districtCode": "81.09.050",
+    "name": "Selasi",
+    "alias": "Selasi"
+  },
+  {
+    "code": "81.09.050.003",
+    "villageCode": "003",
+    "districtCode": "81.09.050",
+    "name": "Elara",
+    "alias": "Elara"
+  },
+  {
+    "code": "81.09.050.004",
+    "villageCode": "004",
+    "districtCode": "81.09.050",
+    "name": "Lumoy",
+    "alias": "Lumoy"
+  },
+  {
+    "code": "81.09.050.005",
+    "villageCode": "005",
+    "districtCode": "81.09.050",
+    "name": "Masawoy",
+    "alias": "Masawoy"
+  },
+  {
+    "code": "81.09.050.006",
+    "villageCode": "006",
+    "districtCode": "81.09.050",
+    "name": "Ulima",
+    "alias": "Ulima"
+  },
+  {
+    "code": "81.09.050.007",
+    "villageCode": "007",
+    "districtCode": "81.09.050",
+    "name": "Kampung Baru",
+    "alias": "Kampung Baru"
+  }
+]

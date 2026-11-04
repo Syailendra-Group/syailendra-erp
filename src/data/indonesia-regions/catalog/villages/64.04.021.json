@@ -1,0 +1,58 @@
+[
+  {
+    "code": "64.04.021.001",
+    "villageCode": "001",
+    "districtCode": "64.04.021",
+    "name": "Long Noran",
+    "alias": "Long Noran"
+  },
+  {
+    "code": "64.04.021.002",
+    "villageCode": "002",
+    "districtCode": "64.04.021",
+    "name": "Long Segar",
+    "alias": "Long Segar"
+  },
+  {
+    "code": "64.04.021.003",
+    "villageCode": "003",
+    "districtCode": "64.04.021",
+    "name": "Juk Ayaq",
+    "alias": "Juk Ayaq"
+  },
+  {
+    "code": "64.04.021.004",
+    "villageCode": "004",
+    "districtCode": "64.04.021",
+    "name": "Marah Haloq",
+    "alias": "Marah Haloq"
+  },
+  {
+    "code": "64.04.021.005",
+    "villageCode": "005",
+    "districtCode": "64.04.021",
+    "name": "Lung Melah",
+    "alias": "Lung Melah"
+  },
+  {
+    "code": "64.04.021.006",
+    "villageCode": "006",
+    "districtCode": "64.04.021",
+    "name": "Muara Pantun",
+    "alias": "Muara Pantun"
+  },
+  {
+    "code": "64.04.021.007",
+    "villageCode": "007",
+    "districtCode": "64.04.021",
+    "name": "Rantau Panjang",
+    "alias": "Rantau Panjang"
+  },
+  {
+    "code": "64.04.021.008",
+    "villageCode": "008",
+    "districtCode": "64.04.021",
+    "name": "Kernyanyan",
+    "alias": "Kernyanyan"
+  }
+]

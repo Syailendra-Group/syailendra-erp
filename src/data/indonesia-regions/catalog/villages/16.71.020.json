@@ -1,0 +1,37 @@
+[
+  {
+    "code": "16.71.020.008",
+    "villageCode": "008",
+    "districtCode": "16.71.020",
+    "name": "Satu Ulu",
+    "alias": "Satu Ulu"
+  },
+  {
+    "code": "16.71.020.010",
+    "villageCode": "010",
+    "districtCode": "16.71.020",
+    "name": "Dua Ulu",
+    "alias": "Dua Ulu"
+  },
+  {
+    "code": "16.71.020.011",
+    "villageCode": "011",
+    "districtCode": "16.71.020",
+    "name": "Tiga Empat Ulu",
+    "alias": "Tiga Empat Ulu"
+  },
+  {
+    "code": "16.71.020.012",
+    "villageCode": "012",
+    "districtCode": "16.71.020",
+    "name": "Lima Ulu",
+    "alias": "Lima Ulu"
+  },
+  {
+    "code": "16.71.020.013",
+    "villageCode": "013",
+    "districtCode": "16.71.020",
+    "name": "Tujuh Ulu",
+    "alias": "Tujuh Ulu"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "code": "97.03.330.001",
+    "villageCode": "001",
+    "districtCode": "97.03.330",
+    "name": "Wanggagome",
+    "alias": "Wanggagome"
+  },
+  {
+    "code": "97.03.330.002",
+    "villageCode": "002",
+    "districtCode": "97.03.330",
+    "name": "Wuluwa",
+    "alias": "Wuluwa"
+  },
+  {
+    "code": "97.03.330.003",
+    "villageCode": "003",
+    "districtCode": "97.03.330",
+    "name": "Langgime",
+    "alias": "Langgime"
+  },
+  {
+    "code": "97.03.330.004",
+    "villageCode": "004",
+    "districtCode": "97.03.330",
+    "name": "Kotorambur",
+    "alias": "Kotorambur"
+  },
+  {
+    "code": "97.03.330.005",
+    "villageCode": "005",
+    "districtCode": "97.03.330",
+    "name": "Wumbanakme",
+    "alias": "Wumbanakme"
+  },
+  {
+    "code": "97.03.330.006",
+    "villageCode": "006",
+    "districtCode": "97.03.330",
+    "name": "Ambime",
+    "alias": "Ambime"
+  },
+  {
+    "code": "97.03.330.007",
+    "villageCode": "007",
+    "districtCode": "97.03.330",
+    "name": "Pindalo",
+    "alias": "Pindalo"
+  },
+  {
+    "code": "97.03.330.008",
+    "villageCode": "008",
+    "districtCode": "97.03.330",
+    "name": "Yimiribaga",
+    "alias": "Yimiribaga"
+  },
+  {
+    "code": "97.03.330.009",
+    "villageCode": "009",
+    "districtCode": "97.03.330",
+    "name": "Elubaga",
+    "alias": "Elubaga"
+  }
+]

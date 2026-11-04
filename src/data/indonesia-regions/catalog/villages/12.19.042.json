@@ -1,0 +1,72 @@
+[
+  {
+    "code": "12.19.042.001",
+    "villageCode": "001",
+    "districtCode": "12.19.042",
+    "name": "Kuala Gunung",
+    "alias": "Kuala Gunung"
+  },
+  {
+    "code": "12.19.042.002",
+    "villageCode": "002",
+    "districtCode": "12.19.042",
+    "name": "Cahaya Pardomuan",
+    "alias": "Cahaya Pardomuan"
+  },
+  {
+    "code": "12.19.042.003",
+    "villageCode": "003",
+    "districtCode": "12.19.042",
+    "name": "Simpang Dolok",
+    "alias": "Simpang Dolok"
+  },
+  {
+    "code": "12.19.042.004",
+    "villageCode": "004",
+    "districtCode": "12.19.042",
+    "name": "Empat Negeri",
+    "alias": "Empat Negeri"
+  },
+  {
+    "code": "12.19.042.005",
+    "villageCode": "005",
+    "districtCode": "12.19.042",
+    "name": "Perkebunan Tanah Itam Ulu",
+    "alias": "Perkebunan Tanah Itam Ulu"
+  },
+  {
+    "code": "12.19.042.006",
+    "villageCode": "006",
+    "districtCode": "12.19.042",
+    "name": "Lubuk Besar",
+    "alias": "Lubuk Besar"
+  },
+  {
+    "code": "12.19.042.007",
+    "villageCode": "007",
+    "districtCode": "12.19.042",
+    "name": "Pulau Sejuk",
+    "alias": "Pulau Sejuk"
+  },
+  {
+    "code": "12.19.042.008",
+    "villageCode": "008",
+    "districtCode": "12.19.042",
+    "name": "Air Hitam",
+    "alias": "Air Hitam"
+  },
+  {
+    "code": "12.19.042.009",
+    "villageCode": "009",
+    "districtCode": "12.19.042",
+    "name": "Sumber Rejo",
+    "alias": "Sumber Rejo"
+  },
+  {
+    "code": "12.19.042.010",
+    "villageCode": "010",
+    "districtCode": "12.19.042",
+    "name": "Lubuk Hulu",
+    "alias": "Lubuk Hulu"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "code": "92.05.140.001",
+    "villageCode": "001",
+    "districtCode": "92.05.140",
+    "name": "Esmambo",
+    "alias": "Esmambo"
+  },
+  {
+    "code": "92.05.140.002",
+    "villageCode": "002",
+    "districtCode": "92.05.140",
+    "name": "Hopmare",
+    "alias": "Hopmare"
+  },
+  {
+    "code": "92.05.140.003",
+    "villageCode": "003",
+    "districtCode": "92.05.140",
+    "name": "Orwen",
+    "alias": "Orwen"
+  },
+  {
+    "code": "92.05.140.004",
+    "villageCode": "004",
+    "districtCode": "92.05.140",
+    "name": "Kwoor",
+    "alias": "Kwoor"
+  },
+  {
+    "code": "92.05.140.005",
+    "villageCode": "005",
+    "districtCode": "92.05.140",
+    "name": "Barar",
+    "alias": "Barar"
+  }
+]

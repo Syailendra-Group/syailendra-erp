@@ -1,0 +1,51 @@
+[
+  {
+    "code": "14.73.010.001",
+    "villageCode": "001",
+    "districtCode": "14.73.010",
+    "name": "Bukit Nenas",
+    "alias": "Bukit Nenas"
+  },
+  {
+    "code": "14.73.010.006",
+    "villageCode": "006",
+    "districtCode": "14.73.010",
+    "name": "Bagan Besar",
+    "alias": "Bagan Besar"
+  },
+  {
+    "code": "14.73.010.007",
+    "villageCode": "007",
+    "districtCode": "14.73.010",
+    "name": "Bukit Kayu Kapur",
+    "alias": "Bukit Kayu Kapur"
+  },
+  {
+    "code": "14.73.010.008",
+    "villageCode": "008",
+    "districtCode": "14.73.010",
+    "name": "Gurun Panjang",
+    "alias": "Gurun Panjang"
+  },
+  {
+    "code": "14.73.010.009",
+    "villageCode": "009",
+    "districtCode": "14.73.010",
+    "name": "Kampung Baru",
+    "alias": "Kampung Baru"
+  },
+  {
+    "code": "14.73.010.010",
+    "villageCode": "010",
+    "districtCode": "14.73.010",
+    "name": "Bagan Besar Timur",
+    "alias": "Bagan Besar Timur"
+  },
+  {
+    "code": "14.73.010.011",
+    "villageCode": "011",
+    "districtCode": "14.73.010",
+    "name": "Bukit Kapur",
+    "alias": "Bukit Kapur"
+  }
+]

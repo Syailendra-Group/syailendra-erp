@@ -1,0 +1,186 @@
+[
+  {
+    "code": "11.01",
+    "regencyCode": "01",
+    "provinceCode": "11",
+    "provinceName": "Aceh",
+    "name": "Kabupaten Simeulue",
+    "alias": "Simeulue"
+  },
+  {
+    "code": "11.02",
+    "regencyCode": "02",
+    "provinceCode": "11",
+    "provinceName": "Aceh",
+    "name": "Kabupaten Aceh Singkil",
+    "alias": "Aceh Singkil"
+  },
+  {
+    "code": "11.03",
+    "regencyCode": "03",
+    "provinceCode": "11",
+    "provinceName": "Aceh",
+    "name": "Kabupaten Aceh Selatan",
+    "alias": "Aceh Selatan"
+  },
+  {
+    "code": "11.04",
+    "regencyCode": "04",
+    "provinceCode": "11",
+    "provinceName": "Aceh",
+    "name": "Kabupaten Aceh Tenggara",
+    "alias": "Aceh Tenggara"
+  },
+  {
+    "code": "11.05",
+    "regencyCode": "05",
+    "provinceCode": "11",
+    "provinceName": "Aceh",
+    "name": "Kabupaten Aceh Timur",
+    "alias": "Aceh Timur"
+  },
+  {
+    "code": "11.06",
+    "regencyCode": "06",
+    "provinceCode": "11",
+    "provinceName": "Aceh",
+    "name": "Kabupaten Aceh Tengah",
+    "alias": "Aceh Tengah"
+  },
+  {
+    "code": "11.07",
+    "regencyCode": "07",
+    "provinceCode": "11",
+    "provinceName": "Aceh",
+    "name": "Kabupaten Aceh Barat",
+    "alias": "Aceh Barat"
+  },
+  {
+    "code": "11.08",
+    "regencyCode": "08",
+    "provinceCode": "11",
+    "provinceName": "Aceh",
+    "name": "Kabupaten Aceh Besar",
+    "alias": "Aceh Besar"
+  },
+  {
+    "code": "11.09",
+    "regencyCode": "09",
+    "provinceCode": "11",
+    "provinceName": "Aceh",
+    "name": "Kabupaten Pidie",
+    "alias": "Pidie"
+  },
+  {
+    "code": "11.10",
+    "regencyCode": "10",
+    "provinceCode": "11",
+    "provinceName": "Aceh",
+    "name": "Kabupaten Bireuen",
+    "alias": "Bireuen"
+  },
+  {
+    "code": "11.11",
+    "regencyCode": "11",
+    "provinceCode": "11",
+    "provinceName": "Aceh",
+    "name": "Kabupaten Aceh Utara",
+    "alias": "Aceh Utara"
+  },
+  {
+    "code": "11.12",
+    "regencyCode": "12",
+    "provinceCode": "11",
+    "provinceName": "Aceh",
+    "name": "Kabupaten Aceh Barat Daya",
+    "alias": "Aceh Barat Daya"
+  },
+  {
+    "code": "11.13",
+    "regencyCode": "13",
+    "provinceCode": "11",
+    "provinceName": "Aceh",
+    "name": "Kabupaten Gayo Lues",
+    "alias": "Gayo Lues"
+  },
+  {
+    "code": "11.14",
+    "regencyCode": "14",
+    "provinceCode": "11",
+    "provinceName": "Aceh",
+    "name": "Kabupaten Aceh Tamiang",
+    "alias": "Aceh Tamiang"
+  },
+  {
+    "code": "11.15",
+    "regencyCode": "15",
+    "provinceCode": "11",
+    "provinceName": "Aceh",
+    "name": "Kabupaten Nagan Raya",
+    "alias": "Nagan Raya"
+  },
+  {
+    "code": "11.16",
+    "regencyCode": "16",
+    "provinceCode": "11",
+    "provinceName": "Aceh",
+    "name": "Kabupaten Aceh Jaya",
+    "alias": "Aceh Jaya"
+  },
+  {
+    "code": "11.17",
+    "regencyCode": "17",
+    "provinceCode": "11",
+    "provinceName": "Aceh",
+    "name": "Kabupaten Bener Meriah",
+    "alias": "Bener Meriah"
+  },
+  {
+    "code": "11.18",
+    "regencyCode": "18",
+    "provinceCode": "11",
+    "provinceName": "Aceh",
+    "name": "Kabupaten Pidie Jaya",
+    "alias": "Pidie Jaya"
+  },
+  {
+    "code": "11.71",
+    "regencyCode": "71",
+    "provinceCode": "11",
+    "provinceName": "Aceh",
+    "name": "Kota Banda Aceh",
+    "alias": "Banda Aceh"
+  },
+  {
+    "code": "11.72",
+    "regencyCode": "72",
+    "provinceCode": "11",
+    "provinceName": "Aceh",
+    "name": "Kota Sabang",
+    "alias": "Sabang"
+  },
+  {
+    "code": "11.73",
+    "regencyCode": "73",
+    "provinceCode": "11",
+    "provinceName": "Aceh",
+    "name": "Kota Langsa",
+    "alias": "Langsa"
+  },
+  {
+    "code": "11.74",
+    "regencyCode": "74",
+    "provinceCode": "11",
+    "provinceName": "Aceh",
+    "name": "Kota Lhokseumawe",
+    "alias": "Lhokseumawe"
+  },
+  {
+    "code": "11.75",
+    "regencyCode": "75",
+    "provinceCode": "11",
+    "provinceName": "Aceh",
+    "name": "Kota Subulussalam",
+    "alias": "Subulussalam"
+  }
+]

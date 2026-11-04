@@ -1,0 +1,72 @@
+[
+  {
+    "code": "32.13.080.004",
+    "villageCode": "004",
+    "districtCode": "32.13.080",
+    "name": "Tanggulun Timur",
+    "alias": "Tanggulun Timur"
+  },
+  {
+    "code": "32.13.080.005",
+    "villageCode": "005",
+    "districtCode": "32.13.080",
+    "name": "Tanggulun Barat",
+    "alias": "Tanggulun Barat"
+  },
+  {
+    "code": "32.13.080.006",
+    "villageCode": "006",
+    "districtCode": "32.13.080",
+    "name": "Marengmang",
+    "alias": "Marengmang"
+  },
+  {
+    "code": "32.13.080.007",
+    "villageCode": "007",
+    "districtCode": "32.13.080",
+    "name": "Kalijati Barat",
+    "alias": "Kalijati Barat"
+  },
+  {
+    "code": "32.13.080.008",
+    "villageCode": "008",
+    "districtCode": "32.13.080",
+    "name": "Kalijati Timur",
+    "alias": "Kalijati Timur"
+  },
+  {
+    "code": "32.13.080.016",
+    "villageCode": "016",
+    "districtCode": "32.13.080",
+    "name": "Kaliangsana",
+    "alias": "Kaliangsana"
+  },
+  {
+    "code": "32.13.080.017",
+    "villageCode": "017",
+    "districtCode": "32.13.080",
+    "name": "Banggalamulya",
+    "alias": "Banggalamulya"
+  },
+  {
+    "code": "32.13.080.018",
+    "villageCode": "018",
+    "districtCode": "32.13.080",
+    "name": "Jalupang",
+    "alias": "Jalupang"
+  },
+  {
+    "code": "32.13.080.019",
+    "villageCode": "019",
+    "districtCode": "32.13.080",
+    "name": "Caracas",
+    "alias": "Caracas"
+  },
+  {
+    "code": "32.13.080.020",
+    "villageCode": "020",
+    "districtCode": "32.13.080",
+    "name": "Ciruluk",
+    "alias": "Ciruluk"
+  }
+]

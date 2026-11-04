@@ -1,0 +1,156 @@
+[
+  {
+    "code": "33.29.100.001",
+    "villageCode": "001",
+    "districtCode": "33.29.100",
+    "name": "Randegan",
+    "alias": "Randegan"
+  },
+  {
+    "code": "33.29.100.002",
+    "villageCode": "002",
+    "districtCode": "33.29.100",
+    "name": "Jati Sawit",
+    "alias": "Jati Sawit"
+  },
+  {
+    "code": "33.29.100.003",
+    "villageCode": "003",
+    "districtCode": "33.29.100",
+    "name": "Karangsambung",
+    "alias": "Karangsambung"
+  },
+  {
+    "code": "33.29.100.004",
+    "villageCode": "004",
+    "districtCode": "33.29.100",
+    "name": "Negla",
+    "alias": "Negla"
+  },
+  {
+    "code": "33.29.100.005",
+    "villageCode": "005",
+    "districtCode": "33.29.100",
+    "name": "Bojongsari",
+    "alias": "Bojongsari"
+  },
+  {
+    "code": "33.29.100.006",
+    "villageCode": "006",
+    "districtCode": "33.29.100",
+    "name": "Karangjunti",
+    "alias": "Karangjunti"
+  },
+  {
+    "code": "33.29.100.007",
+    "villageCode": "007",
+    "districtCode": "33.29.100",
+    "name": "Rungkang",
+    "alias": "Rungkang"
+  },
+  {
+    "code": "33.29.100.008",
+    "villageCode": "008",
+    "districtCode": "33.29.100",
+    "name": "Dukuhsalam",
+    "alias": "Dukuhsalam"
+  },
+  {
+    "code": "33.29.100.009",
+    "villageCode": "009",
+    "districtCode": "33.29.100",
+    "name": "Babakan",
+    "alias": "Babakan"
+  },
+  {
+    "code": "33.29.100.010",
+    "villageCode": "010",
+    "districtCode": "33.29.100",
+    "name": "Kalibuntu",
+    "alias": "Kalibuntu"
+  },
+  {
+    "code": "33.29.100.011",
+    "villageCode": "011",
+    "districtCode": "33.29.100",
+    "name": "Kedungneng",
+    "alias": "Kedungneng"
+  },
+  {
+    "code": "33.29.100.012",
+    "villageCode": "012",
+    "districtCode": "33.29.100",
+    "name": "Randusari",
+    "alias": "Randusari"
+  },
+  {
+    "code": "33.29.100.013",
+    "villageCode": "013",
+    "districtCode": "33.29.100",
+    "name": "Blubuk",
+    "alias": "Blubuk"
+  },
+  {
+    "code": "33.29.100.014",
+    "villageCode": "014",
+    "districtCode": "33.29.100",
+    "name": "Pekauman",
+    "alias": "Pekauman"
+  },
+  {
+    "code": "33.29.100.015",
+    "villageCode": "015",
+    "districtCode": "33.29.100",
+    "name": "Losari Kidul",
+    "alias": "Losari Kidul"
+  },
+  {
+    "code": "33.29.100.016",
+    "villageCode": "016",
+    "districtCode": "33.29.100",
+    "name": "Losari Lor",
+    "alias": "Losari Lor"
+  },
+  {
+    "code": "33.29.100.017",
+    "villageCode": "017",
+    "districtCode": "33.29.100",
+    "name": "Kecipir",
+    "alias": "Kecipir"
+  },
+  {
+    "code": "33.29.100.018",
+    "villageCode": "018",
+    "districtCode": "33.29.100",
+    "name": "Pengabean",
+    "alias": "Pengabean"
+  },
+  {
+    "code": "33.29.100.019",
+    "villageCode": "019",
+    "districtCode": "33.29.100",
+    "name": "Limbangan",
+    "alias": "Limbangan"
+  },
+  {
+    "code": "33.29.100.020",
+    "villageCode": "020",
+    "districtCode": "33.29.100",
+    "name": "Prapag Kidul",
+    "alias": "Prapag Kidul"
+  },
+  {
+    "code": "33.29.100.021",
+    "villageCode": "021",
+    "districtCode": "33.29.100",
+    "name": "Karangdempel",
+    "alias": "Karangdempel"
+  },
+  {
+    "code": "33.29.100.022",
+    "villageCode": "022",
+    "districtCode": "33.29.100",
+    "name": "Prapag Lor",
+    "alias": "Prapag Lor"
+  }
+]

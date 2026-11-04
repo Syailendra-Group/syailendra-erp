@@ -1,0 +1,107 @@
+[
+  {
+    "code": "52.02.060.001",
+    "villageCode": "001",
+    "districtCode": "52.02.060",
+    "name": "Panjisari",
+    "alias": "Panjisari"
+  },
+  {
+    "code": "52.02.060.002",
+    "villageCode": "002",
+    "districtCode": "52.02.060",
+    "name": "Leneng",
+    "alias": "Leneng"
+  },
+  {
+    "code": "52.02.060.003",
+    "villageCode": "003",
+    "districtCode": "52.02.060",
+    "name": "Renteng",
+    "alias": "Renteng"
+  },
+  {
+    "code": "52.02.060.004",
+    "villageCode": "004",
+    "districtCode": "52.02.060",
+    "name": "Praya",
+    "alias": "Praya"
+  },
+  {
+    "code": "52.02.060.005",
+    "villageCode": "005",
+    "districtCode": "52.02.060",
+    "name": "Prapen",
+    "alias": "Prapen"
+  },
+  {
+    "code": "52.02.060.006",
+    "villageCode": "006",
+    "districtCode": "52.02.060",
+    "name": "Tiwugalih",
+    "alias": "Tiwugalih"
+  },
+  {
+    "code": "52.02.060.009",
+    "villageCode": "009",
+    "districtCode": "52.02.060",
+    "name": "Semayan",
+    "alias": "Semayan"
+  },
+  {
+    "code": "52.02.060.018",
+    "villageCode": "018",
+    "districtCode": "52.02.060",
+    "name": "Bunut Baok",
+    "alias": "Bunut Baok"
+  },
+  {
+    "code": "52.02.060.019",
+    "villageCode": "019",
+    "districtCode": "52.02.060",
+    "name": "Gerunung",
+    "alias": "Gerunung"
+  },
+  {
+    "code": "52.02.060.020",
+    "villageCode": "020",
+    "districtCode": "52.02.060",
+    "name": "Gonjak",
+    "alias": "Gonjak"
+  },
+  {
+    "code": "52.02.060.021",
+    "villageCode": "021",
+    "districtCode": "52.02.060",
+    "name": "Jago",
+    "alias": "Jago"
+  },
+  {
+    "code": "52.02.060.022",
+    "villageCode": "022",
+    "districtCode": "52.02.060",
+    "name": "Aik Mual",
+    "alias": "Aik Mual"
+  },
+  {
+    "code": "52.02.060.023",
+    "villageCode": "023",
+    "districtCode": "52.02.060",
+    "name": "Mertak Tombok",
+    "alias": "Mertak Tombok"
+  },
+  {
+    "code": "52.02.060.024",
+    "villageCode": "024",
+    "districtCode": "52.02.060",
+    "name": "Montong Terep",
+    "alias": "Montong Terep"
+  },
+  {
+    "code": "52.02.060.025",
+    "villageCode": "025",
+    "districtCode": "52.02.060",
+    "name": "Mekar Damai",
+    "alias": "Mekar Damai"
+  }
+]

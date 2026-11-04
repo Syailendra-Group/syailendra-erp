@@ -6,12 +6,11 @@
     "name": "Kabupaten / Kota",
     "code": "Kode BPS",
     "province": "Provinsi Induk",
-    "alias": "Alias",
-    "status": "Status"
+    "alias": "Alias"
   },
   "form": {
-    "catalogLabel": "Pilih dari Katalog Resmi Indonesia",
-    "catalogPlaceholder": "Cari & pilih kabupaten / kota...",
+    "catalogLabel": "Pilih dari Katalog 514 Kabupaten / Kota",
+    "catalogPlaceholder": "Cari & pilih kabupaten / kota se-Indonesia...",
     "namePlaceholder": "Contoh: Kabupaten Wonosobo",
     "aliasLabel": "Nama Alias (Untuk Dropdown)",
     "aliasPlaceholder": "Contoh: Wonosobo",

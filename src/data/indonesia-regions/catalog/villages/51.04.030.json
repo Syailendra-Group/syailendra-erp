@@ -1,0 +1,121 @@
+[
+  {
+    "code": "51.04.030.001",
+    "villageCode": "001",
+    "districtCode": "51.04.030",
+    "name": "Lebih",
+    "alias": "Lebih"
+  },
+  {
+    "code": "51.04.030.002",
+    "villageCode": "002",
+    "districtCode": "51.04.030",
+    "name": "Tulikup",
+    "alias": "Tulikup"
+  },
+  {
+    "code": "51.04.030.003",
+    "villageCode": "003",
+    "districtCode": "51.04.030",
+    "name": "Temesi",
+    "alias": "Temesi"
+  },
+  {
+    "code": "51.04.030.004",
+    "villageCode": "004",
+    "districtCode": "51.04.030",
+    "name": "Sidan",
+    "alias": "Sidan"
+  },
+  {
+    "code": "51.04.030.005",
+    "villageCode": "005",
+    "districtCode": "51.04.030",
+    "name": "Samplangan",
+    "alias": "Samplangan"
+  },
+  {
+    "code": "51.04.030.006",
+    "villageCode": "006",
+    "districtCode": "51.04.030",
+    "name": "Serongga",
+    "alias": "Serongga"
+  },
+  {
+    "code": "51.04.030.007",
+    "villageCode": "007",
+    "districtCode": "51.04.030",
+    "name": "Abianbase",
+    "alias": "Abianbase"
+  },
+  {
+    "code": "51.04.030.008",
+    "villageCode": "008",
+    "districtCode": "51.04.030",
+    "name": "Gianyar",
+    "alias": "Gianyar"
+  },
+  {
+    "code": "51.04.030.009",
+    "villageCode": "009",
+    "districtCode": "51.04.030",
+    "name": "Beng",
+    "alias": "Beng"
+  },
+  {
+    "code": "51.04.030.010",
+    "villageCode": "010",
+    "districtCode": "51.04.030",
+    "name": "Bitera",
+    "alias": "Bitera"
+  },
+  {
+    "code": "51.04.030.011",
+    "villageCode": "011",
+    "districtCode": "51.04.030",
+    "name": "Bakbakan",
+    "alias": "Bakbakan"
+  },
+  {
+    "code": "51.04.030.012",
+    "villageCode": "012",
+    "districtCode": "51.04.030",
+    "name": "Siangan",
+    "alias": "Siangan"
+  },
+  {
+    "code": "51.04.030.013",
+    "villageCode": "013",
+    "districtCode": "51.04.030",
+    "name": "Suwat",
+    "alias": "Suwat"
+  },
+  {
+    "code": "51.04.030.014",
+    "villageCode": "014",
+    "districtCode": "51.04.030",
+    "name": "Petak",
+    "alias": "Petak"
+  },
+  {
+    "code": "51.04.030.015",
+    "villageCode": "015",
+    "districtCode": "51.04.030",
+    "name": "Petak Kaja",
+    "alias": "Petak Kaja"
+  },
+  {
+    "code": "51.04.030.016",
+    "villageCode": "016",
+    "districtCode": "51.04.030",
+    "name": "Sumita",
+    "alias": "Sumita"
+  },
+  {
+    "code": "51.04.030.017",
+    "villageCode": "017",
+    "districtCode": "51.04.030",
+    "name": "Tegal Tugu",
+    "alias": "Tegal Tugu"
+  }
+]

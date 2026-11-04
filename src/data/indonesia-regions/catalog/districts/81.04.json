@@ -1,0 +1,82 @@
+[
+  {
+    "code": "81.04.020",
+    "districtCode": "020",
+    "regencyCode": "81.04",
+    "provinceCode": "81",
+    "name": "Kecamatan Namlea",
+    "alias": "Namlea"
+  },
+  {
+    "code": "81.04.021",
+    "districtCode": "021",
+    "regencyCode": "81.04",
+    "provinceCode": "81",
+    "name": "Kecamatan Waeapo",
+    "alias": "Waeapo"
+  },
+  {
+    "code": "81.04.022",
+    "districtCode": "022",
+    "regencyCode": "81.04",
+    "provinceCode": "81",
+    "name": "Kecamatan Waplau",
+    "alias": "Waplau"
+  },
+  {
+    "code": "81.04.023",
+    "districtCode": "023",
+    "regencyCode": "81.04",
+    "provinceCode": "81",
+    "name": "Kecamatan Bata Bual",
+    "alias": "Bata Bual"
+  },
+  {
+    "code": "81.04.024",
+    "districtCode": "024",
+    "regencyCode": "81.04",
+    "provinceCode": "81",
+    "name": "Kecamatan Teluk Kaiely",
+    "alias": "Teluk Kaiely"
+  },
+  {
+    "code": "81.04.025",
+    "districtCode": "025",
+    "regencyCode": "81.04",
+    "provinceCode": "81",
+    "name": "Kecamatan Waelata",
+    "alias": "Waelata"
+  },
+  {
+    "code": "81.04.026",
+    "districtCode": "026",
+    "regencyCode": "81.04",
+    "provinceCode": "81",
+    "name": "Kecamatan Lolong Guba",
+    "alias": "Lolong Guba"
+  },
+  {
+    "code": "81.04.027",
+    "districtCode": "027",
+    "regencyCode": "81.04",
+    "provinceCode": "81",
+    "name": "Kecamatan Lilialy",
+    "alias": "Lilialy"
+  },
+  {
+    "code": "81.04.030",
+    "districtCode": "030",
+    "regencyCode": "81.04",
+    "provinceCode": "81",
+    "name": "Kecamatan Air Buaya",
+    "alias": "Air Buaya"
+  },
+  {
+    "code": "81.04.031",
+    "districtCode": "031",
+    "regencyCode": "81.04",
+    "provinceCode": "81",
+    "name": "Kecamatan Fena Leisela",
+    "alias": "Fena Leisela"
+  }
+]

@@ -1,0 +1,258 @@
+[
+  {
+    "code": "12.09.010",
+    "districtCode": "010",
+    "regencyCode": "12.09",
+    "provinceCode": "12",
+    "name": "Kecamatan Silimakuta",
+    "alias": "Silimakuta"
+  },
+  {
+    "code": "12.09.011",
+    "districtCode": "011",
+    "regencyCode": "12.09",
+    "provinceCode": "12",
+    "name": "Kecamatan Pematang Silimahuta",
+    "alias": "Pematang Silimahuta"
+  },
+  {
+    "code": "12.09.020",
+    "districtCode": "020",
+    "regencyCode": "12.09",
+    "provinceCode": "12",
+    "name": "Kecamatan Purba",
+    "alias": "Purba"
+  },
+  {
+    "code": "12.09.021",
+    "districtCode": "021",
+    "regencyCode": "12.09",
+    "provinceCode": "12",
+    "name": "Kecamatan Haranggaol Horison",
+    "alias": "Haranggaol Horison"
+  },
+  {
+    "code": "12.09.030",
+    "districtCode": "030",
+    "regencyCode": "12.09",
+    "provinceCode": "12",
+    "name": "Kecamatan Dolok Pardamean",
+    "alias": "Dolok Pardamean"
+  },
+  {
+    "code": "12.09.040",
+    "districtCode": "040",
+    "regencyCode": "12.09",
+    "provinceCode": "12",
+    "name": "Kecamatan Sidamanik",
+    "alias": "Sidamanik"
+  },
+  {
+    "code": "12.09.041",
+    "districtCode": "041",
+    "regencyCode": "12.09",
+    "provinceCode": "12",
+    "name": "Kecamatan Pematang Sidamanik",
+    "alias": "Pematang Sidamanik"
+  },
+  {
+    "code": "12.09.050",
+    "districtCode": "050",
+    "regencyCode": "12.09",
+    "provinceCode": "12",
+    "name": "Kecamatan Girsang Sipangan Bolon",
+    "alias": "Girsang Sipangan Bolon"
+  },
+  {
+    "code": "12.09.060",
+    "districtCode": "060",
+    "regencyCode": "12.09",
+    "provinceCode": "12",
+    "name": "Kecamatan Tanah Jawa",
+    "alias": "Tanah Jawa"
+  },
+  {
+    "code": "12.09.061",
+    "districtCode": "061",
+    "regencyCode": "12.09",
+    "provinceCode": "12",
+    "name": "Kecamatan Hatonduhan",
+    "alias": "Hatonduhan"
+  },
+  {
+    "code": "12.09.070",
+    "districtCode": "070",
+    "regencyCode": "12.09",
+    "provinceCode": "12",
+    "name": "Kecamatan Dolok Panribuan",
+    "alias": "Dolok Panribuan"
+  },
+  {
+    "code": "12.09.080",
+    "districtCode": "080",
+    "regencyCode": "12.09",
+    "provinceCode": "12",
+    "name": "Kecamatan Jorlang Hataran",
+    "alias": "Jorlang Hataran"
+  },
+  {
+    "code": "12.09.090",
+    "districtCode": "090",
+    "regencyCode": "12.09",
+    "provinceCode": "12",
+    "name": "Kecamatan Panei",
+    "alias": "Panei"
+  },
+  {
+    "code": "12.09.091",
+    "districtCode": "091",
+    "regencyCode": "12.09",
+    "provinceCode": "12",
+    "name": "Kecamatan Panombean Panei",
+    "alias": "Panombean Panei"
+  },
+  {
+    "code": "12.09.100",
+    "districtCode": "100",
+    "regencyCode": "12.09",
+    "provinceCode": "12",
+    "name": "Kecamatan Raya",
+    "alias": "Raya"
+  },
+  {
+    "code": "12.09.101",
+    "districtCode": "101",
+    "regencyCode": "12.09",
+    "provinceCode": "12",
+    "name": "Kecamatan Dolog Masagal",
+    "alias": "Dolog Masagal"
+  },
+  {
+    "code": "12.09.110",
+    "districtCode": "110",
+    "regencyCode": "12.09",
+    "provinceCode": "12",
+    "name": "Kecamatan Dolok Silau",
+    "alias": "Dolok Silau"
+  },
+  {
+    "code": "12.09.120",
+    "districtCode": "120",
+    "regencyCode": "12.09",
+    "provinceCode": "12",
+    "name": "Kecamatan Silau Kahean",
+    "alias": "Silau Kahean"
+  },
+  {
+    "code": "12.09.130",
+    "districtCode": "130",
+    "regencyCode": "12.09",
+    "provinceCode": "12",
+    "name": "Kecamatan Raya Kahean",
+    "alias": "Raya Kahean"
+  },
+  {
+    "code": "12.09.140",
+    "districtCode": "140",
+    "regencyCode": "12.09",
+    "provinceCode": "12",
+    "name": "Kecamatan Tapian Dolok",
+    "alias": "Tapian Dolok"
+  },
+  {
+    "code": "12.09.150",
+    "districtCode": "150",
+    "regencyCode": "12.09",
+    "provinceCode": "12",
+    "name": "Kecamatan Dolok Batu Nanggar",
+    "alias": "Dolok Batu Nanggar"
+  },
+  {
+    "code": "12.09.160",
+    "districtCode": "160",
+    "regencyCode": "12.09",
+    "provinceCode": "12",
+    "name": "Kecamatan Siantar",
+    "alias": "Siantar"
+  },
+  {
+    "code": "12.09.161",
+    "districtCode": "161",
+    "regencyCode": "12.09",
+    "provinceCode": "12",
+    "name": "Kecamatan Gunung Malela",
+    "alias": "Gunung Malela"
+  },
+  {
+    "code": "12.09.162",
+    "districtCode": "162",
+    "regencyCode": "12.09",
+    "provinceCode": "12",
+    "name": "Kecamatan Gunung Maligas",
+    "alias": "Gunung Maligas"
+  },
+  {
+    "code": "12.09.170",
+    "districtCode": "170",
+    "regencyCode": "12.09",
+    "provinceCode": "12",
+    "name": "Kecamatan Hutabayu Raja",
+    "alias": "Hutabayu Raja"
+  },
+  {
+    "code": "12.09.171",
+    "districtCode": "171",
+    "regencyCode": "12.09",
+    "provinceCode": "12",
+    "name": "Kecamatan Jawa Maraja Bah Jambi",
+    "alias": "Jawa Maraja Bah Jambi"
+  },
+  {
+    "code": "12.09.180",
+    "districtCode": "180",
+    "regencyCode": "12.09",
+    "provinceCode": "12",
+    "name": "Kecamatan Pematang Bandar",
+    "alias": "Pematang Bandar"
+  },
+  {
+    "code": "12.09.181",
+    "districtCode": "181",
+    "regencyCode": "12.09",
+    "provinceCode": "12",
+    "name": "Kecamatan Bandar Huluan",
+    "alias": "Bandar Huluan"
+  },
+  {
+    "code": "12.09.190",
+    "districtCode": "190",
+    "regencyCode": "12.09",
+    "provinceCode": "12",
+    "name": "Kecamatan Bandar",
+    "alias": "Bandar"
+  },
+  {
+    "code": "12.09.191",
+    "districtCode": "191",
+    "regencyCode": "12.09",
+    "provinceCode": "12",
+    "name": "Kecamatan Bandar Masilam",
+    "alias": "Bandar Masilam"
+  },
+  {
+    "code": "12.09.200",
+    "districtCode": "200",
+    "regencyCode": "12.09",
+    "provinceCode": "12",
+    "name": "Kecamatan Bosar Maligas",
+    "alias": "Bosar Maligas"
+  },
+  {
+    "code": "12.09.210",
+    "districtCode": "210",
+    "regencyCode": "12.09",
+    "provinceCode": "12",
+    "name": "Kecamatan Ujung Padang",
+    "alias": "Ujung Padang"
+  }
+]

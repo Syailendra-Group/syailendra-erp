@@ -1,0 +1,79 @@
+[
+  {
+    "code": "71.02.220.001",
+    "villageCode": "001",
+    "districtCode": "71.02.220",
+    "name": "Kaleosan",
+    "alias": "Kaleosan"
+  },
+  {
+    "code": "71.02.220.002",
+    "villageCode": "002",
+    "districtCode": "71.02.220",
+    "name": "Karor",
+    "alias": "Karor"
+  },
+  {
+    "code": "71.02.220.003",
+    "villageCode": "003",
+    "districtCode": "71.02.220",
+    "name": "Watulaney",
+    "alias": "Watulaney"
+  },
+  {
+    "code": "71.02.220.004",
+    "villageCode": "004",
+    "districtCode": "71.02.220",
+    "name": "Kayuroya",
+    "alias": "Kayuroya"
+  },
+  {
+    "code": "71.02.220.005",
+    "villageCode": "005",
+    "districtCode": "71.02.220",
+    "name": "Atep Oki",
+    "alias": "Atep Oki"
+  },
+  {
+    "code": "71.02.220.006",
+    "villageCode": "006",
+    "districtCode": "71.02.220",
+    "name": "Kapataran",
+    "alias": "Kapataran"
+  },
+  {
+    "code": "71.02.220.007",
+    "villageCode": "007",
+    "districtCode": "71.02.220",
+    "name": "Seretan",
+    "alias": "Seretan"
+  },
+  {
+    "code": "71.02.220.008",
+    "villageCode": "008",
+    "districtCode": "71.02.220",
+    "name": "Parentek",
+    "alias": "Parentek"
+  },
+  {
+    "code": "71.02.220.009",
+    "villageCode": "009",
+    "districtCode": "71.02.220",
+    "name": "Kapataran Satu",
+    "alias": "Kapataran Satu"
+  },
+  {
+    "code": "71.02.220.010",
+    "villageCode": "010",
+    "districtCode": "71.02.220",
+    "name": "Seretan Timu",
+    "alias": "Seretan Timu"
+  },
+  {
+    "code": "71.02.220.011",
+    "villageCode": "011",
+    "districtCode": "71.02.220",
+    "name": "Watulaney Amian",
+    "alias": "Watulaney Amian"
+  }
+]

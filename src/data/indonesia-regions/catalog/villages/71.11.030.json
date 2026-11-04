@@ -1,0 +1,107 @@
+[
+  {
+    "code": "71.11.030.001",
+    "villageCode": "001",
+    "districtCode": "71.11.030",
+    "name": "Paret",
+    "alias": "Paret"
+  },
+  {
+    "code": "71.11.030.002",
+    "villageCode": "002",
+    "districtCode": "71.11.030",
+    "name": "Kotabunan",
+    "alias": "Kotabunan"
+  },
+  {
+    "code": "71.11.030.003",
+    "villageCode": "003",
+    "districtCode": "71.11.030",
+    "name": "Bukaka",
+    "alias": "Bukaka"
+  },
+  {
+    "code": "71.11.030.004",
+    "villageCode": "004",
+    "districtCode": "71.11.030",
+    "name": "Bulawan",
+    "alias": "Bulawan"
+  },
+  {
+    "code": "71.11.030.005",
+    "villageCode": "005",
+    "districtCode": "71.11.030",
+    "name": "Buyat",
+    "alias": "Buyat"
+  },
+  {
+    "code": "71.11.030.006",
+    "villageCode": "006",
+    "districtCode": "71.11.030",
+    "name": "Buyat I",
+    "alias": "Buyat I"
+  },
+  {
+    "code": "71.11.030.007",
+    "villageCode": "007",
+    "districtCode": "71.11.030",
+    "name": "Buyat Ii",
+    "alias": "Buyat Ii"
+  },
+  {
+    "code": "71.11.030.008",
+    "villageCode": "008",
+    "districtCode": "71.11.030",
+    "name": "Buyat Barat",
+    "alias": "Buyat Barat"
+  },
+  {
+    "code": "71.11.030.009",
+    "villageCode": "009",
+    "districtCode": "71.11.030",
+    "name": "Buyat Selatan",
+    "alias": "Buyat Selatan"
+  },
+  {
+    "code": "71.11.030.010",
+    "villageCode": "010",
+    "districtCode": "71.11.030",
+    "name": "Buyat Tengah",
+    "alias": "Buyat Tengah"
+  },
+  {
+    "code": "71.11.030.011",
+    "villageCode": "011",
+    "districtCode": "71.11.030",
+    "name": "Bulawan I",
+    "alias": "Bulawan I"
+  },
+  {
+    "code": "71.11.030.012",
+    "villageCode": "012",
+    "districtCode": "71.11.030",
+    "name": "Bulawan Ii",
+    "alias": "Bulawan Ii"
+  },
+  {
+    "code": "71.11.030.013",
+    "villageCode": "013",
+    "districtCode": "71.11.030",
+    "name": "Kotabunan Selatan",
+    "alias": "Kotabunan Selatan"
+  },
+  {
+    "code": "71.11.030.014",
+    "villageCode": "014",
+    "districtCode": "71.11.030",
+    "name": "Kotabunan Barat",
+    "alias": "Kotabunan Barat"
+  },
+  {
+    "code": "71.11.030.015",
+    "villageCode": "015",
+    "districtCode": "71.11.030",
+    "name": "Paret Timur",
+    "alias": "Paret Timur"
+  }
+]

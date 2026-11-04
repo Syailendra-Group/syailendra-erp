@@ -1,0 +1,44 @@
+[
+  {
+    "code": "82.03.010.004",
+    "villageCode": "004",
+    "districtCode": "82.03.010",
+    "name": "Wai Ina",
+    "alias": "Wai Ina"
+  },
+  {
+    "code": "82.03.010.005",
+    "villageCode": "005",
+    "districtCode": "82.03.010",
+    "name": "Kabau Darat",
+    "alias": "Kabau Darat"
+  },
+  {
+    "code": "82.03.010.006",
+    "villageCode": "006",
+    "districtCode": "82.03.010",
+    "name": "Ona",
+    "alias": "Ona"
+  },
+  {
+    "code": "82.03.010.008",
+    "villageCode": "008",
+    "districtCode": "82.03.010",
+    "name": "Kabau Pantai",
+    "alias": "Kabau Pantai"
+  },
+  {
+    "code": "82.03.010.009",
+    "villageCode": "009",
+    "districtCode": "82.03.010",
+    "name": "Nahi",
+    "alias": "Nahi"
+  },
+  {
+    "code": "82.03.010.010",
+    "villageCode": "010",
+    "districtCode": "82.03.010",
+    "name": "Paratina",
+    "alias": "Paratina"
+  }
+]

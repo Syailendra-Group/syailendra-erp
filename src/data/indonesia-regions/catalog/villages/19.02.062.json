@@ -1,0 +1,72 @@
+[
+  {
+    "code": "19.02.062.001",
+    "villageCode": "001",
+    "districtCode": "19.02.062",
+    "name": "Batu Itam",
+    "alias": "Batu Itam"
+  },
+  {
+    "code": "19.02.062.002",
+    "villageCode": "002",
+    "districtCode": "19.02.062",
+    "name": "Terong",
+    "alias": "Terong"
+  },
+  {
+    "code": "19.02.062.003",
+    "villageCode": "003",
+    "districtCode": "19.02.062",
+    "name": "Air Seruk",
+    "alias": "Air Seruk"
+  },
+  {
+    "code": "19.02.062.004",
+    "villageCode": "004",
+    "districtCode": "19.02.062",
+    "name": "Air Selumar",
+    "alias": "Air Selumar"
+  },
+  {
+    "code": "19.02.062.005",
+    "villageCode": "005",
+    "districtCode": "19.02.062",
+    "name": "Tanjung Binga",
+    "alias": "Tanjung Binga"
+  },
+  {
+    "code": "19.02.062.006",
+    "villageCode": "006",
+    "districtCode": "19.02.062",
+    "name": "Keciput",
+    "alias": "Keciput"
+  },
+  {
+    "code": "19.02.062.007",
+    "villageCode": "007",
+    "districtCode": "19.02.062",
+    "name": "Sijuk",
+    "alias": "Sijuk"
+  },
+  {
+    "code": "19.02.062.008",
+    "villageCode": "008",
+    "districtCode": "19.02.062",
+    "name": "Sungai Padang",
+    "alias": "Sungai Padang"
+  },
+  {
+    "code": "19.02.062.009",
+    "villageCode": "009",
+    "districtCode": "19.02.062",
+    "name": "Tanjong Tinggi",
+    "alias": "Tanjong Tinggi"
+  },
+  {
+    "code": "19.02.062.010",
+    "villageCode": "010",
+    "districtCode": "19.02.062",
+    "name": "Pelepak Pute",
+    "alias": "Pelepak Pute"
+  }
+]

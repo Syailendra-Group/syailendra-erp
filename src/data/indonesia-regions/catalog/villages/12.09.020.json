@@ -1,0 +1,100 @@
+[
+  {
+    "code": "12.09.020.002",
+    "villageCode": "002",
+    "districtCode": "12.09.020",
+    "name": "Kinalang",
+    "alias": "Kinalang"
+  },
+  {
+    "code": "12.09.020.006",
+    "villageCode": "006",
+    "districtCode": "12.09.020",
+    "name": "Tiga Runggu",
+    "alias": "Tiga Runggu"
+  },
+  {
+    "code": "12.09.020.007",
+    "villageCode": "007",
+    "districtCode": "12.09.020",
+    "name": "Purba Tengah",
+    "alias": "Purba Tengah"
+  },
+  {
+    "code": "12.09.020.008",
+    "villageCode": "008",
+    "districtCode": "12.09.020",
+    "name": "Pematang Purba",
+    "alias": "Pematang Purba"
+  },
+  {
+    "code": "12.09.020.009",
+    "villageCode": "009",
+    "districtCode": "12.09.020",
+    "name": "Purba Sipinggan",
+    "alias": "Purba Sipinggan"
+  },
+  {
+    "code": "12.09.020.010",
+    "villageCode": "010",
+    "districtCode": "12.09.020",
+    "name": "Urung Purba",
+    "alias": "Urung Purba"
+  },
+  {
+    "code": "12.09.020.011",
+    "villageCode": "011",
+    "districtCode": "12.09.020",
+    "name": "Tanoh Tinggir",
+    "alias": "Tanoh Tinggir"
+  },
+  {
+    "code": "12.09.020.012",
+    "villageCode": "012",
+    "districtCode": "12.09.020",
+    "name": "Purba Dolok",
+    "alias": "Purba Dolok"
+  },
+  {
+    "code": "12.09.020.013",
+    "villageCode": "013",
+    "districtCode": "12.09.020",
+    "name": "Saribu Jandi",
+    "alias": "Saribu Jandi"
+  },
+  {
+    "code": "12.09.020.014",
+    "villageCode": "014",
+    "districtCode": "12.09.020",
+    "name": "Hutaraja",
+    "alias": "Hutaraja"
+  },
+  {
+    "code": "12.09.020.015",
+    "villageCode": "015",
+    "districtCode": "12.09.020",
+    "name": "Nagori Tongah",
+    "alias": "Nagori Tongah"
+  },
+  {
+    "code": "12.09.020.016",
+    "villageCode": "016",
+    "districtCode": "12.09.020",
+    "name": "Urung Pane",
+    "alias": "Urung Pane"
+  },
+  {
+    "code": "12.09.020.017",
+    "villageCode": "017",
+    "districtCode": "12.09.020",
+    "name": "Bunga Sampang",
+    "alias": "Bunga Sampang"
+  },
+  {
+    "code": "12.09.020.018",
+    "villageCode": "018",
+    "districtCode": "12.09.020",
+    "name": "Bandar Sauhur",
+    "alias": "Bandar Sauhur"
+  }
+]

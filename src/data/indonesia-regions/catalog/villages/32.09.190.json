@@ -1,0 +1,65 @@
+[
+  {
+    "code": "32.09.190.001",
+    "villageCode": "001",
+    "districtCode": "32.09.190",
+    "name": "Serang",
+    "alias": "Serang"
+  },
+  {
+    "code": "32.09.190.002",
+    "villageCode": "002",
+    "districtCode": "32.09.190",
+    "name": "Klangenan",
+    "alias": "Klangenan"
+  },
+  {
+    "code": "32.09.190.003",
+    "villageCode": "003",
+    "districtCode": "32.09.190",
+    "name": "Danawinangun",
+    "alias": "Danawinangun"
+  },
+  {
+    "code": "32.09.190.007",
+    "villageCode": "007",
+    "districtCode": "32.09.190",
+    "name": "Pekantingan",
+    "alias": "Pekantingan"
+  },
+  {
+    "code": "32.09.190.008",
+    "villageCode": "008",
+    "districtCode": "32.09.190",
+    "name": "Jemaras Kidul",
+    "alias": "Jemaras Kidul"
+  },
+  {
+    "code": "32.09.190.009",
+    "villageCode": "009",
+    "districtCode": "32.09.190",
+    "name": "Jemaras Lor",
+    "alias": "Jemaras Lor"
+  },
+  {
+    "code": "32.09.190.011",
+    "villageCode": "011",
+    "districtCode": "32.09.190",
+    "name": "Slangit",
+    "alias": "Slangit"
+  },
+  {
+    "code": "32.09.190.012",
+    "villageCode": "012",
+    "districtCode": "32.09.190",
+    "name": "Kreyo",
+    "alias": "Kreyo"
+  },
+  {
+    "code": "32.09.190.013",
+    "villageCode": "013",
+    "districtCode": "32.09.190",
+    "name": "Bangodua",
+    "alias": "Bangodua"
+  }
+]

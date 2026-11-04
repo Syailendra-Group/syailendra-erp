@@ -1,0 +1,72 @@
+[
+  {
+    "code": "13.07.100.001",
+    "villageCode": "001",
+    "districtCode": "13.07.100",
+    "name": "Baringin",
+    "alias": "Baringin"
+  },
+  {
+    "code": "13.07.100.002",
+    "villageCode": "002",
+    "districtCode": "13.07.100",
+    "name": "Sungai Puar",
+    "alias": "Sungai Puar"
+  },
+  {
+    "code": "13.07.100.003",
+    "villageCode": "003",
+    "districtCode": "13.07.100",
+    "name": "Sipinang",
+    "alias": "Sipinang"
+  },
+  {
+    "code": "13.07.100.004",
+    "villageCode": "004",
+    "districtCode": "13.07.100",
+    "name": "Ampek Koto Palembayan",
+    "alias": "Ampek Koto Palembayan"
+  },
+  {
+    "code": "13.07.100.005",
+    "villageCode": "005",
+    "districtCode": "13.07.100",
+    "name": "Tigo Koto Silungkang",
+    "alias": "Tigo Koto Silungkang"
+  },
+  {
+    "code": "13.07.100.006",
+    "villageCode": "006",
+    "districtCode": "13.07.100",
+    "name": "Salareh Aia",
+    "alias": "Salareh Aia"
+  },
+  {
+    "code": "13.07.100.007",
+    "villageCode": "007",
+    "districtCode": "13.07.100",
+    "name": "Nagari Persiapan Salareh Aia Timur",
+    "alias": "Nagari Persiapan Salareh Aia Timur"
+  },
+  {
+    "code": "13.07.100.008",
+    "villageCode": "008",
+    "districtCode": "13.07.100",
+    "name": "Nagari Persiapan Salareh Aia Barat",
+    "alias": "Nagari Persiapan Salareh Aia Barat"
+  },
+  {
+    "code": "13.07.100.009",
+    "villageCode": "009",
+    "districtCode": "13.07.100",
+    "name": "Nagari Persiapan Salareh Aia Utara",
+    "alias": "Nagari Persiapan Salareh Aia Utara"
+  },
+  {
+    "code": "13.07.100.010",
+    "villageCode": "010",
+    "districtCode": "13.07.100",
+    "name": "Nagari Persiapan Tigo Koto Silungkang Timur",
+    "alias": "Nagari Persiapan Tigo Koto Silungkang Timur"
+  }
+]

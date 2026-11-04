@@ -1,0 +1,122 @@
+[
+  {
+    "code": "33.07.010",
+    "districtCode": "010",
+    "regencyCode": "33.07",
+    "provinceCode": "33",
+    "name": "Kecamatan Wadaslintang",
+    "alias": "Wadaslintang"
+  },
+  {
+    "code": "33.07.020",
+    "districtCode": "020",
+    "regencyCode": "33.07",
+    "provinceCode": "33",
+    "name": "Kecamatan Kepil",
+    "alias": "Kepil"
+  },
+  {
+    "code": "33.07.030",
+    "districtCode": "030",
+    "regencyCode": "33.07",
+    "provinceCode": "33",
+    "name": "Kecamatan Sapuran",
+    "alias": "Sapuran"
+  },
+  {
+    "code": "33.07.031",
+    "districtCode": "031",
+    "regencyCode": "33.07",
+    "provinceCode": "33",
+    "name": "Kecamatan Kalibawang",
+    "alias": "Kalibawang"
+  },
+  {
+    "code": "33.07.040",
+    "districtCode": "040",
+    "regencyCode": "33.07",
+    "provinceCode": "33",
+    "name": "Kecamatan Kaliwiro",
+    "alias": "Kaliwiro"
+  },
+  {
+    "code": "33.07.050",
+    "districtCode": "050",
+    "regencyCode": "33.07",
+    "provinceCode": "33",
+    "name": "Kecamatan Leksono",
+    "alias": "Leksono"
+  },
+  {
+    "code": "33.07.051",
+    "districtCode": "051",
+    "regencyCode": "33.07",
+    "provinceCode": "33",
+    "name": "Kecamatan Sukoharjo",
+    "alias": "Sukoharjo"
+  },
+  {
+    "code": "33.07.060",
+    "districtCode": "060",
+    "regencyCode": "33.07",
+    "provinceCode": "33",
+    "name": "Kecamatan Selomerto",
+    "alias": "Selomerto"
+  },
+  {
+    "code": "33.07.070",
+    "districtCode": "070",
+    "regencyCode": "33.07",
+    "provinceCode": "33",
+    "name": "Kecamatan Kalikajar",
+    "alias": "Kalikajar"
+  },
+  {
+    "code": "33.07.080",
+    "districtCode": "080",
+    "regencyCode": "33.07",
+    "provinceCode": "33",
+    "name": "Kecamatan Kertek",
+    "alias": "Kertek"
+  },
+  {
+    "code": "33.07.090",
+    "districtCode": "090",
+    "regencyCode": "33.07",
+    "provinceCode": "33",
+    "name": "Kecamatan Wonosobo",
+    "alias": "Wonosobo"
+  },
+  {
+    "code": "33.07.100",
+    "districtCode": "100",
+    "regencyCode": "33.07",
+    "provinceCode": "33",
+    "name": "Kecamatan Watumalang",
+    "alias": "Watumalang"
+  },
+  {
+    "code": "33.07.110",
+    "districtCode": "110",
+    "regencyCode": "33.07",
+    "provinceCode": "33",
+    "name": "Kecamatan Mojotengah",
+    "alias": "Mojotengah"
+  },
+  {
+    "code": "33.07.120",
+    "districtCode": "120",
+    "regencyCode": "33.07",
+    "provinceCode": "33",
+    "name": "Kecamatan Garung",
+    "alias": "Garung"
+  },
+  {
+    "code": "33.07.130",
+    "districtCode": "130",
+    "regencyCode": "33.07",
+    "provinceCode": "33",
+    "name": "Kecamatan Kejajar",
+    "alias": "Kejajar"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "code": "94.03.231.001",
+    "villageCode": "001",
+    "districtCode": "94.03.231",
+    "name": "Babrongko",
+    "alias": "Babrongko"
+  },
+  {
+    "code": "94.03.231.002",
+    "villageCode": "002",
+    "districtCode": "94.03.231",
+    "name": "Simporo",
+    "alias": "Simporo"
+  },
+  {
+    "code": "94.03.231.003",
+    "villageCode": "003",
+    "districtCode": "94.03.231",
+    "name": "Khameyaka",
+    "alias": "Khameyaka"
+  },
+  {
+    "code": "94.03.231.004",
+    "villageCode": "004",
+    "districtCode": "94.03.231",
+    "name": "Atabar",
+    "alias": "Atabar"
+  },
+  {
+    "code": "94.03.231.005",
+    "villageCode": "005",
+    "districtCode": "94.03.231",
+    "name": "Ebungfa",
+    "alias": "Ebungfa"
+  }
+]

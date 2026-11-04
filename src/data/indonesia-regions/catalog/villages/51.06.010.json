@@ -1,0 +1,65 @@
+[
+  {
+    "code": "51.06.010.001",
+    "villageCode": "001",
+    "districtCode": "51.06.010",
+    "name": "Apuan",
+    "alias": "Apuan"
+  },
+  {
+    "code": "51.06.010.002",
+    "villageCode": "002",
+    "districtCode": "51.06.010",
+    "name": "Abuan",
+    "alias": "Abuan"
+  },
+  {
+    "code": "51.06.010.003",
+    "villageCode": "003",
+    "districtCode": "51.06.010",
+    "name": "Demulih",
+    "alias": "Demulih"
+  },
+  {
+    "code": "51.06.010.004",
+    "villageCode": "004",
+    "districtCode": "51.06.010",
+    "name": "Susut",
+    "alias": "Susut"
+  },
+  {
+    "code": "51.06.010.005",
+    "villageCode": "005",
+    "districtCode": "51.06.010",
+    "name": "Sulahan",
+    "alias": "Sulahan"
+  },
+  {
+    "code": "51.06.010.006",
+    "villageCode": "006",
+    "districtCode": "51.06.010",
+    "name": "Tiga",
+    "alias": "Tiga"
+  },
+  {
+    "code": "51.06.010.007",
+    "villageCode": "007",
+    "districtCode": "51.06.010",
+    "name": "Penglumbaran",
+    "alias": "Penglumbaran"
+  },
+  {
+    "code": "51.06.010.008",
+    "villageCode": "008",
+    "districtCode": "51.06.010",
+    "name": "Selat",
+    "alias": "Selat"
+  },
+  {
+    "code": "51.06.010.009",
+    "villageCode": "009",
+    "districtCode": "51.06.010",
+    "name": "Pengiangan",
+    "alias": "Pengiangan"
+  }
+]

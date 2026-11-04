@@ -1,0 +1,138 @@
+[
+  {
+    "code": "82.05.010",
+    "districtCode": "010",
+    "regencyCode": "82.05",
+    "provinceCode": "82",
+    "name": "Kecamatan Malifut",
+    "alias": "Malifut"
+  },
+  {
+    "code": "82.05.011",
+    "districtCode": "011",
+    "regencyCode": "82.05",
+    "provinceCode": "82",
+    "name": "Kecamatan Kao Teluk",
+    "alias": "Kao Teluk"
+  },
+  {
+    "code": "82.05.020",
+    "districtCode": "020",
+    "regencyCode": "82.05",
+    "provinceCode": "82",
+    "name": "Kecamatan Kao",
+    "alias": "Kao"
+  },
+  {
+    "code": "82.05.021",
+    "districtCode": "021",
+    "regencyCode": "82.05",
+    "provinceCode": "82",
+    "name": "Kecamatan Kao Barat",
+    "alias": "Kao Barat"
+  },
+  {
+    "code": "82.05.022",
+    "districtCode": "022",
+    "regencyCode": "82.05",
+    "provinceCode": "82",
+    "name": "Kecamatan Kao Utara",
+    "alias": "Kao Utara"
+  },
+  {
+    "code": "82.05.030",
+    "districtCode": "030",
+    "regencyCode": "82.05",
+    "provinceCode": "82",
+    "name": "Kecamatan Tobelo Selatan",
+    "alias": "Tobelo Selatan"
+  },
+  {
+    "code": "82.05.031",
+    "districtCode": "031",
+    "regencyCode": "82.05",
+    "provinceCode": "82",
+    "name": "Kecamatan Tobelo Barat",
+    "alias": "Tobelo Barat"
+  },
+  {
+    "code": "82.05.032",
+    "districtCode": "032",
+    "regencyCode": "82.05",
+    "provinceCode": "82",
+    "name": "Kecamatan Tobelo Timur",
+    "alias": "Tobelo Timur"
+  },
+  {
+    "code": "82.05.040",
+    "districtCode": "040",
+    "regencyCode": "82.05",
+    "provinceCode": "82",
+    "name": "Kecamatan Tobelo",
+    "alias": "Tobelo"
+  },
+  {
+    "code": "82.05.041",
+    "districtCode": "041",
+    "regencyCode": "82.05",
+    "provinceCode": "82",
+    "name": "Kecamatan Tobelo Tengah",
+    "alias": "Tobelo Tengah"
+  },
+  {
+    "code": "82.05.042",
+    "districtCode": "042",
+    "regencyCode": "82.05",
+    "provinceCode": "82",
+    "name": "Kecamatan Tobelo Utara",
+    "alias": "Tobelo Utara"
+  },
+  {
+    "code": "82.05.050",
+    "districtCode": "050",
+    "regencyCode": "82.05",
+    "provinceCode": "82",
+    "name": "Kecamatan Galela",
+    "alias": "Galela"
+  },
+  {
+    "code": "82.05.051",
+    "districtCode": "051",
+    "regencyCode": "82.05",
+    "provinceCode": "82",
+    "name": "Kecamatan Galela Selatan",
+    "alias": "Galela Selatan"
+  },
+  {
+    "code": "82.05.052",
+    "districtCode": "052",
+    "regencyCode": "82.05",
+    "provinceCode": "82",
+    "name": "Kecamatan Galela Barat",
+    "alias": "Galela Barat"
+  },
+  {
+    "code": "82.05.053",
+    "districtCode": "053",
+    "regencyCode": "82.05",
+    "provinceCode": "82",
+    "name": "Kecamatan Galela Utara",
+    "alias": "Galela Utara"
+  },
+  {
+    "code": "82.05.060",
+    "districtCode": "060",
+    "regencyCode": "82.05",
+    "provinceCode": "82",
+    "name": "Kecamatan Loloda Utara",
+    "alias": "Loloda Utara"
+  },
+  {
+    "code": "82.05.061",
+    "districtCode": "061",
+    "regencyCode": "82.05",
+    "provinceCode": "82",
+    "name": "Kecamatan Loloda Kepulauan",
+    "alias": "Loloda Kepulauan"
+  }
+]

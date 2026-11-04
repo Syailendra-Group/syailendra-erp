@@ -1,0 +1,44 @@
+[
+  {
+    "code": "12.22.040.001",
+    "villageCode": "001",
+    "districtCode": "12.22.040",
+    "name": "Binanga Dua",
+    "alias": "Binanga Dua"
+  },
+  {
+    "code": "12.22.040.002",
+    "villageCode": "002",
+    "districtCode": "12.22.040",
+    "name": "Mandala Sena",
+    "alias": "Mandala Sena"
+  },
+  {
+    "code": "12.22.040.003",
+    "villageCode": "003",
+    "districtCode": "12.22.040",
+    "name": "Ulu Mahuam",
+    "alias": "Ulu Mahuam"
+  },
+  {
+    "code": "12.22.040.004",
+    "villageCode": "004",
+    "districtCode": "12.22.040",
+    "name": "Aek Goti",
+    "alias": "Aek Goti"
+  },
+  {
+    "code": "12.22.040.005",
+    "villageCode": "005",
+    "districtCode": "12.22.040",
+    "name": "Rintis",
+    "alias": "Rintis"
+  },
+  {
+    "code": "12.22.040.006",
+    "villageCode": "006",
+    "districtCode": "12.22.040",
+    "name": "Sukadame",
+    "alias": "Sukadame"
+  }
+]

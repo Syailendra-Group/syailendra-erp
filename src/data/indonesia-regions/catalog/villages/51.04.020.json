@@ -1,0 +1,65 @@
+[
+  {
+    "code": "51.04.020.001",
+    "villageCode": "001",
+    "districtCode": "51.04.020",
+    "name": "Saba",
+    "alias": "Saba"
+  },
+  {
+    "code": "51.04.020.002",
+    "villageCode": "002",
+    "districtCode": "51.04.020",
+    "name": "Pering",
+    "alias": "Pering"
+  },
+  {
+    "code": "51.04.020.003",
+    "villageCode": "003",
+    "districtCode": "51.04.020",
+    "name": "Keramas",
+    "alias": "Keramas"
+  },
+  {
+    "code": "51.04.020.004",
+    "villageCode": "004",
+    "districtCode": "51.04.020",
+    "name": "Medahan",
+    "alias": "Medahan"
+  },
+  {
+    "code": "51.04.020.005",
+    "villageCode": "005",
+    "districtCode": "51.04.020",
+    "name": "Bona",
+    "alias": "Bona"
+  },
+  {
+    "code": "51.04.020.006",
+    "villageCode": "006",
+    "districtCode": "51.04.020",
+    "name": "Belega",
+    "alias": "Belega"
+  },
+  {
+    "code": "51.04.020.007",
+    "villageCode": "007",
+    "districtCode": "51.04.020",
+    "name": "Blahbatuh",
+    "alias": "Blahbatuh"
+  },
+  {
+    "code": "51.04.020.008",
+    "villageCode": "008",
+    "districtCode": "51.04.020",
+    "name": "Buruan",
+    "alias": "Buruan"
+  },
+  {
+    "code": "51.04.020.009",
+    "villageCode": "009",
+    "districtCode": "51.04.020",
+    "name": "Bedulu",
+    "alias": "Bedulu"
+  }
+]

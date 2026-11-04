@@ -1,0 +1,58 @@
+[
+  {
+    "code": "53.02.041.002",
+    "villageCode": "002",
+    "districtCode": "53.02.041",
+    "name": "Lainjanji",
+    "alias": "Lainjanji"
+  },
+  {
+    "code": "53.02.041.003",
+    "villageCode": "003",
+    "districtCode": "53.02.041",
+    "name": "La Tena",
+    "alias": "La Tena"
+  },
+  {
+    "code": "53.02.041.004",
+    "villageCode": "004",
+    "districtCode": "53.02.041",
+    "name": "Lai Pandak",
+    "alias": "Lai Pandak"
+  },
+  {
+    "code": "53.02.041.005",
+    "villageCode": "005",
+    "districtCode": "53.02.041",
+    "name": "Lumbu Manggit",
+    "alias": "Lumbu Manggit"
+  },
+  {
+    "code": "53.02.041.006",
+    "villageCode": "006",
+    "districtCode": "53.02.041",
+    "name": "Paranda",
+    "alias": "Paranda"
+  },
+  {
+    "code": "53.02.041.007",
+    "villageCode": "007",
+    "districtCode": "53.02.041",
+    "name": "Hadakamali",
+    "alias": "Hadakamali"
+  },
+  {
+    "code": "53.02.041.008",
+    "villageCode": "008",
+    "districtCode": "53.02.041",
+    "name": "W U L A",
+    "alias": "W U L A"
+  },
+  {
+    "code": "53.02.041.009",
+    "villageCode": "009",
+    "districtCode": "53.02.041",
+    "name": "Desa Persiapan Matawai Mbana",
+    "alias": "Desa Persiapan Matawai Mbana"
+  }
+]

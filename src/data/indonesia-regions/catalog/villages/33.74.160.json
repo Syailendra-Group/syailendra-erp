@@ -1,0 +1,72 @@
+[
+  {
+    "code": "33.74.160.001",
+    "villageCode": "001",
+    "districtCode": "33.74.160",
+    "name": "Podorejo",
+    "alias": "Podorejo"
+  },
+  {
+    "code": "33.74.160.002",
+    "villageCode": "002",
+    "districtCode": "33.74.160",
+    "name": "Wates",
+    "alias": "Wates"
+  },
+  {
+    "code": "33.74.160.003",
+    "villageCode": "003",
+    "districtCode": "33.74.160",
+    "name": "Bringin",
+    "alias": "Bringin"
+  },
+  {
+    "code": "33.74.160.004",
+    "villageCode": "004",
+    "districtCode": "33.74.160",
+    "name": "Ngaliyan",
+    "alias": "Ngaliyan"
+  },
+  {
+    "code": "33.74.160.005",
+    "villageCode": "005",
+    "districtCode": "33.74.160",
+    "name": "Bambankerep",
+    "alias": "Bambankerep"
+  },
+  {
+    "code": "33.74.160.006",
+    "villageCode": "006",
+    "districtCode": "33.74.160",
+    "name": "Kalipancur",
+    "alias": "Kalipancur"
+  },
+  {
+    "code": "33.74.160.007",
+    "villageCode": "007",
+    "districtCode": "33.74.160",
+    "name": "Purwoyoso",
+    "alias": "Purwoyoso"
+  },
+  {
+    "code": "33.74.160.008",
+    "villageCode": "008",
+    "districtCode": "33.74.160",
+    "name": "Tambakaji",
+    "alias": "Tambakaji"
+  },
+  {
+    "code": "33.74.160.009",
+    "villageCode": "009",
+    "districtCode": "33.74.160",
+    "name": "Gondoriyo",
+    "alias": "Gondoriyo"
+  },
+  {
+    "code": "33.74.160.010",
+    "villageCode": "010",
+    "districtCode": "33.74.160",
+    "name": "Wonosari",
+    "alias": "Wonosari"
+  }
+]

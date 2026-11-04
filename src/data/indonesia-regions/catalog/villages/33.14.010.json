@@ -1,0 +1,100 @@
+[
+  {
+    "code": "33.14.010.001",
+    "villageCode": "001",
+    "districtCode": "33.14.010",
+    "name": "Keden",
+    "alias": "Keden"
+  },
+  {
+    "code": "33.14.010.002",
+    "villageCode": "002",
+    "districtCode": "33.14.010",
+    "name": "Trobayan",
+    "alias": "Trobayan"
+  },
+  {
+    "code": "33.14.010.003",
+    "villageCode": "003",
+    "districtCode": "33.14.010",
+    "name": "Kalimacan",
+    "alias": "Kalimacan"
+  },
+  {
+    "code": "33.14.010.004",
+    "villageCode": "004",
+    "districtCode": "33.14.010",
+    "name": "Jetis Karangpung",
+    "alias": "Jetis Karangpung"
+  },
+  {
+    "code": "33.14.010.005",
+    "villageCode": "005",
+    "districtCode": "33.14.010",
+    "name": "Krikilan",
+    "alias": "Krikilan"
+  },
+  {
+    "code": "33.14.010.006",
+    "villageCode": "006",
+    "districtCode": "33.14.010",
+    "name": "Bukuran",
+    "alias": "Bukuran"
+  },
+  {
+    "code": "33.14.010.007",
+    "villageCode": "007",
+    "districtCode": "33.14.010",
+    "name": "Ngebung",
+    "alias": "Ngebung"
+  },
+  {
+    "code": "33.14.010.008",
+    "villageCode": "008",
+    "districtCode": "33.14.010",
+    "name": "Banaran",
+    "alias": "Banaran"
+  },
+  {
+    "code": "33.14.010.009",
+    "villageCode": "009",
+    "districtCode": "33.14.010",
+    "name": "Samberembe",
+    "alias": "Samberembe"
+  },
+  {
+    "code": "33.14.010.010",
+    "villageCode": "010",
+    "districtCode": "33.14.010",
+    "name": "Donoyudan",
+    "alias": "Donoyudan"
+  },
+  {
+    "code": "33.14.010.011",
+    "villageCode": "011",
+    "districtCode": "33.14.010",
+    "name": "Wonorejo",
+    "alias": "Wonorejo"
+  },
+  {
+    "code": "33.14.010.012",
+    "villageCode": "012",
+    "districtCode": "33.14.010",
+    "name": "Saren",
+    "alias": "Saren"
+  },
+  {
+    "code": "33.14.010.013",
+    "villageCode": "013",
+    "districtCode": "33.14.010",
+    "name": "Karangjati",
+    "alias": "Karangjati"
+  },
+  {
+    "code": "33.14.010.014",
+    "villageCode": "014",
+    "districtCode": "33.14.010",
+    "name": "Tegalombo",
+    "alias": "Tegalombo"
+  }
+]

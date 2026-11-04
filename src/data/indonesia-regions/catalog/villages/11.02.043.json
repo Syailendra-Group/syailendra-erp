@@ -1,0 +1,72 @@
+[
+  {
+    "code": "11.02.043.001",
+    "villageCode": "001",
+    "districtCode": "11.02.043",
+    "name": "Muara Pea",
+    "alias": "Muara Pea"
+  },
+  {
+    "code": "11.02.043.002",
+    "villageCode": "002",
+    "districtCode": "11.02.043",
+    "name": "Sumber Mukti",
+    "alias": "Sumber Mukti"
+  },
+  {
+    "code": "11.02.043.003",
+    "villageCode": "003",
+    "districtCode": "11.02.043",
+    "name": "Ladang Bisik",
+    "alias": "Ladang Bisik"
+  },
+  {
+    "code": "11.02.043.004",
+    "villageCode": "004",
+    "districtCode": "11.02.043",
+    "name": "Samar Dua",
+    "alias": "Samar Dua"
+  },
+  {
+    "code": "11.02.043.005",
+    "villageCode": "005",
+    "districtCode": "11.02.043",
+    "name": "Butar",
+    "alias": "Butar"
+  },
+  {
+    "code": "11.02.043.006",
+    "villageCode": "006",
+    "districtCode": "11.02.043",
+    "name": "Mukti Lincir",
+    "alias": "Mukti Lincir"
+  },
+  {
+    "code": "11.02.043.007",
+    "villageCode": "007",
+    "districtCode": "11.02.043",
+    "name": "Lapahan Buaya",
+    "alias": "Lapahan Buaya"
+  },
+  {
+    "code": "11.02.043.008",
+    "villageCode": "008",
+    "districtCode": "11.02.043",
+    "name": "Lentong",
+    "alias": "Lentong"
+  },
+  {
+    "code": "11.02.043.009",
+    "villageCode": "009",
+    "districtCode": "11.02.043",
+    "name": "Danau Bungara",
+    "alias": "Danau Bungara"
+  },
+  {
+    "code": "11.02.043.010",
+    "villageCode": "010",
+    "districtCode": "11.02.043",
+    "name": "Silakar Udang",
+    "alias": "Silakar Udang"
+  }
+]

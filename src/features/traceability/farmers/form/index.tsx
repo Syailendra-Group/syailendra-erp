@@ -132,10 +132,8 @@ export function FarmerForm({ initialData }: FarmerFormProps): ReactElement {
 
       <form id="farmer-form" onSubmit={handleSubmit(onSubmit)} className="space-y-5">
         <div className="grid grid-cols-1 items-stretch gap-5 lg:grid-cols-2">
-          {/* Identitas Kemitraan */}
           <IdentitySection register={register} errors={errors} isPending={isPending} />
 
-          {/* Komoditas Pertanian & Budidaya */}
           <CommoditySection
             register={register}
             errors={errors}
@@ -146,7 +144,6 @@ export function FarmerForm({ initialData }: FarmerFormProps): ReactElement {
             isPending={isPending}
           />
 
-          {/* Reusable Address & Interactive Map Suite (Full Width) */}
           <div className="lg:col-span-2">
             <AddressSection
               disabled={isPending}
@@ -163,13 +160,11 @@ export function FarmerForm({ initialData }: FarmerFormProps): ReactElement {
             />
           </div>
 
-          {/* Catatan Agronomi (Full Width) */}
           <div className="lg:col-span-2">
             <NotesSection register={register} isPending={isPending} />
           </div>
         </div>
 
-        {/* Sticky Action Footer */}
         <div className="border-border/60 bg-background/90 sticky bottom-4 z-20 flex items-center justify-between rounded-xl border p-3 shadow-md backdrop-blur-md">
           <Button variant="outline" asChild>
             <Link href="/traceability/farmers">{tCommon('actions.cancel')}</Link>

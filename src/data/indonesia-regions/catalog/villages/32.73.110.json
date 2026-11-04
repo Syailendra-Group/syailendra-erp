@@ -1,0 +1,30 @@
+[
+  {
+    "code": "32.73.110.003",
+    "villageCode": "003",
+    "districtCode": "32.73.110",
+    "name": "Pasir Biru",
+    "alias": "Pasir Biru"
+  },
+  {
+    "code": "32.73.110.004",
+    "villageCode": "004",
+    "districtCode": "32.73.110",
+    "name": "Cipadung",
+    "alias": "Cipadung"
+  },
+  {
+    "code": "32.73.110.005",
+    "villageCode": "005",
+    "districtCode": "32.73.110",
+    "name": "Palasari",
+    "alias": "Palasari"
+  },
+  {
+    "code": "32.73.110.006",
+    "villageCode": "006",
+    "districtCode": "32.73.110",
+    "name": "Cisurupan",
+    "alias": "Cisurupan"
+  }
+]

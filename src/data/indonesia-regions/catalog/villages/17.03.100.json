@@ -1,0 +1,65 @@
+[
+  {
+    "code": "17.03.100.001",
+    "villageCode": "001",
+    "districtCode": "17.03.100",
+    "name": "Air Petai",
+    "alias": "Air Petai"
+  },
+  {
+    "code": "17.03.100.002",
+    "villageCode": "002",
+    "districtCode": "17.03.100",
+    "name": "Karang Pulau",
+    "alias": "Karang Pulau"
+  },
+  {
+    "code": "17.03.100.003",
+    "villageCode": "003",
+    "districtCode": "17.03.100",
+    "name": "Karang Tengah",
+    "alias": "Karang Tengah"
+  },
+  {
+    "code": "17.03.100.004",
+    "villageCode": "004",
+    "districtCode": "17.03.100",
+    "name": "Air Muring",
+    "alias": "Air Muring"
+  },
+  {
+    "code": "17.03.100.005",
+    "villageCode": "005",
+    "districtCode": "17.03.100",
+    "name": "Pasar Baru Kota Bani",
+    "alias": "Pasar Baru Kota Bani"
+  },
+  {
+    "code": "17.03.100.006",
+    "villageCode": "006",
+    "districtCode": "17.03.100",
+    "name": "Pasar Sebelat",
+    "alias": "Pasar Sebelat"
+  },
+  {
+    "code": "17.03.100.007",
+    "villageCode": "007",
+    "districtCode": "17.03.100",
+    "name": "Talang Arah",
+    "alias": "Talang Arah"
+  },
+  {
+    "code": "17.03.100.008",
+    "villageCode": "008",
+    "districtCode": "17.03.100",
+    "name": "Cipta Mulya",
+    "alias": "Cipta Mulya"
+  },
+  {
+    "code": "17.03.100.009",
+    "villageCode": "009",
+    "districtCode": "17.03.100",
+    "name": "Air Pandan",
+    "alias": "Air Pandan"
+  }
+]

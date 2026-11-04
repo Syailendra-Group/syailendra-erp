@@ -1,0 +1,23 @@
+[
+  {
+    "code": "34.02.120.001",
+    "villageCode": "001",
+    "districtCode": "34.02.120",
+    "name": "Sitimulyo",
+    "alias": "Sitimulyo"
+  },
+  {
+    "code": "34.02.120.002",
+    "villageCode": "002",
+    "districtCode": "34.02.120",
+    "name": "Srimulyo",
+    "alias": "Srimulyo"
+  },
+  {
+    "code": "34.02.120.003",
+    "villageCode": "003",
+    "districtCode": "34.02.120",
+    "name": "Srimartani",
+    "alias": "Srimartani"
+  }
+]

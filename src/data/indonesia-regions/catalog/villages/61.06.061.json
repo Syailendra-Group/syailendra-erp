@@ -1,0 +1,79 @@
+[
+  {
+    "code": "61.06.061.001",
+    "villageCode": "001",
+    "districtCode": "61.06.061",
+    "name": "Padang",
+    "alias": "Padang"
+  },
+  {
+    "code": "61.06.061.002",
+    "villageCode": "002",
+    "districtCode": "61.06.061",
+    "name": "Tuan Tuan",
+    "alias": "Tuan Tuan"
+  },
+  {
+    "code": "61.06.061.003",
+    "villageCode": "003",
+    "districtCode": "61.06.061",
+    "name": "Negeri Baru",
+    "alias": "Negeri Baru"
+  },
+  {
+    "code": "61.06.061.004",
+    "villageCode": "004",
+    "districtCode": "61.06.061",
+    "name": "Mulia Kerta",
+    "alias": "Mulia Kerta"
+  },
+  {
+    "code": "61.06.061.005",
+    "villageCode": "005",
+    "districtCode": "61.06.061",
+    "name": "Sungai Kinjil",
+    "alias": "Sungai Kinjil"
+  },
+  {
+    "code": "61.06.061.006",
+    "villageCode": "006",
+    "districtCode": "61.06.061",
+    "name": "Kauman",
+    "alias": "Kauman"
+  },
+  {
+    "code": "61.06.061.007",
+    "villageCode": "007",
+    "districtCode": "61.06.061",
+    "name": "Baru",
+    "alias": "Baru"
+  },
+  {
+    "code": "61.06.061.008",
+    "villageCode": "008",
+    "districtCode": "61.06.061",
+    "name": "Suka Baru",
+    "alias": "Suka Baru"
+  },
+  {
+    "code": "61.06.061.009",
+    "villageCode": "009",
+    "districtCode": "61.06.061",
+    "name": "Banjar",
+    "alias": "Banjar"
+  },
+  {
+    "code": "61.06.061.010",
+    "villageCode": "010",
+    "districtCode": "61.06.061",
+    "name": "Mekar Sari",
+    "alias": "Mekar Sari"
+  },
+  {
+    "code": "61.06.061.011",
+    "villageCode": "011",
+    "districtCode": "61.06.061",
+    "name": "Kinjil Pesisir",
+    "alias": "Kinjil Pesisir"
+  }
+]

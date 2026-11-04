@@ -1,0 +1,106 @@
+[
+  {
+    "code": "75.03.010",
+    "districtCode": "010",
+    "regencyCode": "75.03",
+    "provinceCode": "75",
+    "name": "Kecamatan Popayato",
+    "alias": "Popayato"
+  },
+  {
+    "code": "75.03.011",
+    "districtCode": "011",
+    "regencyCode": "75.03",
+    "provinceCode": "75",
+    "name": "Kecamatan Popayato Barat",
+    "alias": "Popayato Barat"
+  },
+  {
+    "code": "75.03.012",
+    "districtCode": "012",
+    "regencyCode": "75.03",
+    "provinceCode": "75",
+    "name": "Kecamatan Popayato Timur",
+    "alias": "Popayato Timur"
+  },
+  {
+    "code": "75.03.020",
+    "districtCode": "020",
+    "regencyCode": "75.03",
+    "provinceCode": "75",
+    "name": "Kecamatan Lemito",
+    "alias": "Lemito"
+  },
+  {
+    "code": "75.03.021",
+    "districtCode": "021",
+    "regencyCode": "75.03",
+    "provinceCode": "75",
+    "name": "Kecamatan Wanggarasi",
+    "alias": "Wanggarasi"
+  },
+  {
+    "code": "75.03.030",
+    "districtCode": "030",
+    "regencyCode": "75.03",
+    "provinceCode": "75",
+    "name": "Kecamatan Marisa",
+    "alias": "Marisa"
+  },
+  {
+    "code": "75.03.031",
+    "districtCode": "031",
+    "regencyCode": "75.03",
+    "provinceCode": "75",
+    "name": "Kecamatan Patilanggio",
+    "alias": "Patilanggio"
+  },
+  {
+    "code": "75.03.032",
+    "districtCode": "032",
+    "regencyCode": "75.03",
+    "provinceCode": "75",
+    "name": "Kecamatan Buntulia",
+    "alias": "Buntulia"
+  },
+  {
+    "code": "75.03.033",
+    "districtCode": "033",
+    "regencyCode": "75.03",
+    "provinceCode": "75",
+    "name": "Kecamatan Duhiadaa",
+    "alias": "Duhiadaa"
+  },
+  {
+    "code": "75.03.040",
+    "districtCode": "040",
+    "regencyCode": "75.03",
+    "provinceCode": "75",
+    "name": "Kecamatan Randangan",
+    "alias": "Randangan"
+  },
+  {
+    "code": "75.03.041",
+    "districtCode": "041",
+    "regencyCode": "75.03",
+    "provinceCode": "75",
+    "name": "Kecamatan Taluditi",
+    "alias": "Taluditi"
+  },
+  {
+    "code": "75.03.050",
+    "districtCode": "050",
+    "regencyCode": "75.03",
+    "provinceCode": "75",
+    "name": "Kecamatan Paguat",
+    "alias": "Paguat"
+  },
+  {
+    "code": "75.03.051",
+    "districtCode": "051",
+    "regencyCode": "75.03",
+    "provinceCode": "75",
+    "name": "Kecamatan Dengilo",
+    "alias": "Dengilo"
+  }
+]

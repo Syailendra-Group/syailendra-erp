@@ -1,0 +1,100 @@
+[
+  {
+    "code": "52.02.030.001",
+    "villageCode": "001",
+    "districtCode": "52.02.030",
+    "name": "Kidang",
+    "alias": "Kidang"
+  },
+  {
+    "code": "52.02.030.002",
+    "villageCode": "002",
+    "districtCode": "52.02.030",
+    "name": "Bilelando",
+    "alias": "Bilelando"
+  },
+  {
+    "code": "52.02.030.003",
+    "villageCode": "003",
+    "districtCode": "52.02.030",
+    "name": "Semoyang",
+    "alias": "Semoyang"
+  },
+  {
+    "code": "52.02.030.004",
+    "villageCode": "004",
+    "districtCode": "52.02.030",
+    "name": "Ganti",
+    "alias": "Ganti"
+  },
+  {
+    "code": "52.02.030.005",
+    "villageCode": "005",
+    "districtCode": "52.02.030",
+    "name": "Beleka",
+    "alias": "Beleka"
+  },
+  {
+    "code": "52.02.030.006",
+    "villageCode": "006",
+    "districtCode": "52.02.030",
+    "name": "Sengkerang",
+    "alias": "Sengkerang"
+  },
+  {
+    "code": "52.02.030.007",
+    "villageCode": "007",
+    "districtCode": "52.02.030",
+    "name": "Landah",
+    "alias": "Landah"
+  },
+  {
+    "code": "52.02.030.008",
+    "villageCode": "008",
+    "districtCode": "52.02.030",
+    "name": "Marong",
+    "alias": "Marong"
+  },
+  {
+    "code": "52.02.030.009",
+    "villageCode": "009",
+    "districtCode": "52.02.030",
+    "name": "Mujur",
+    "alias": "Mujur"
+  },
+  {
+    "code": "52.02.030.010",
+    "villageCode": "010",
+    "districtCode": "52.02.030",
+    "name": "Sukaraja",
+    "alias": "Sukaraja"
+  },
+  {
+    "code": "52.02.030.011",
+    "villageCode": "011",
+    "districtCode": "52.02.030",
+    "name": "Beleke Daye",
+    "alias": "Beleke Daye"
+  },
+  {
+    "code": "52.02.030.012",
+    "villageCode": "012",
+    "districtCode": "52.02.030",
+    "name": "Beleke Lebe Sane",
+    "alias": "Beleke Lebe Sane"
+  },
+  {
+    "code": "52.02.030.013",
+    "villageCode": "013",
+    "districtCode": "52.02.030",
+    "name": "Jero Puri",
+    "alias": "Jero Puri"
+  },
+  {
+    "code": "52.02.030.014",
+    "villageCode": "014",
+    "districtCode": "52.02.030",
+    "name": "Pengonak",
+    "alias": "Pengonak"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "code": "12.04.010.002",
+    "villageCode": "002",
+    "districtCode": "12.04.010",
+    "name": "Pinang Sori",
+    "alias": "Pinang Sori"
+  },
+  {
+    "code": "12.04.010.003",
+    "villageCode": "003",
+    "districtCode": "12.04.010",
+    "name": "Gunung Marijo",
+    "alias": "Gunung Marijo"
+  },
+  {
+    "code": "12.04.010.004",
+    "villageCode": "004",
+    "districtCode": "12.04.010",
+    "name": "Sihaporas",
+    "alias": "Sihaporas"
+  },
+  {
+    "code": "12.04.010.005",
+    "villageCode": "005",
+    "districtCode": "12.04.010",
+    "name": "Sitonong Bangun",
+    "alias": "Sitonong Bangun"
+  },
+  {
+    "code": "12.04.010.006",
+    "villageCode": "006",
+    "districtCode": "12.04.010",
+    "name": "Toga Basir",
+    "alias": "Toga Basir"
+  },
+  {
+    "code": "12.04.010.007",
+    "villageCode": "007",
+    "districtCode": "12.04.010",
+    "name": "Pinang Baru",
+    "alias": "Pinang Baru"
+  },
+  {
+    "code": "12.04.010.008",
+    "villageCode": "008",
+    "districtCode": "12.04.010",
+    "name": "Parjalihotan Baru",
+    "alias": "Parjalihotan Baru"
+  },
+  {
+    "code": "12.04.010.009",
+    "villageCode": "009",
+    "districtCode": "12.04.010",
+    "name": "Danau Pandan",
+    "alias": "Danau Pandan"
+  },
+  {
+    "code": "12.04.010.010",
+    "villageCode": "010",
+    "districtCode": "12.04.010",
+    "name": "Sori Nauli",
+    "alias": "Sori Nauli"
+  },
+  {
+    "code": "12.04.010.011",
+    "villageCode": "011",
+    "districtCode": "12.04.010",
+    "name": "Albion Prancis",
+    "alias": "Albion Prancis"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "code": "32.06.072.001",
+    "villageCode": "001",
+    "districtCode": "32.06.072",
+    "name": "Bojongsari",
+    "alias": "Bojongsari"
+  },
+  {
+    "code": "32.06.072.002",
+    "villageCode": "002",
+    "districtCode": "32.06.072",
+    "name": "Cintabodas",
+    "alias": "Cintabodas"
+  },
+  {
+    "code": "32.06.072.003",
+    "villageCode": "003",
+    "districtCode": "32.06.072",
+    "name": "Cikuya",
+    "alias": "Cikuya"
+  },
+  {
+    "code": "32.06.072.004",
+    "villageCode": "004",
+    "districtCode": "32.06.072",
+    "name": "Cipicung",
+    "alias": "Cipicung"
+  },
+  {
+    "code": "32.06.072.005",
+    "villageCode": "005",
+    "districtCode": "32.06.072",
+    "name": "Mekarlaksana",
+    "alias": "Mekarlaksana"
+  }
+]

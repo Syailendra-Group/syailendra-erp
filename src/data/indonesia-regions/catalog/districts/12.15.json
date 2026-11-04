@@ -1,0 +1,82 @@
+[
+  {
+    "code": "12.15.010",
+    "districtCode": "010",
+    "regencyCode": "12.15",
+    "provinceCode": "12",
+    "name": "Kecamatan Pakkat",
+    "alias": "Pakkat"
+  },
+  {
+    "code": "12.15.020",
+    "districtCode": "020",
+    "regencyCode": "12.15",
+    "provinceCode": "12",
+    "name": "Kecamatan Onan Ganjang",
+    "alias": "Onan Ganjang"
+  },
+  {
+    "code": "12.15.030",
+    "districtCode": "030",
+    "regencyCode": "12.15",
+    "provinceCode": "12",
+    "name": "Kecamatan Sijama Polang",
+    "alias": "Sijama Polang"
+  },
+  {
+    "code": "12.15.040",
+    "districtCode": "040",
+    "regencyCode": "12.15",
+    "provinceCode": "12",
+    "name": "Kecamatan Dolok Sanggul",
+    "alias": "Dolok Sanggul"
+  },
+  {
+    "code": "12.15.050",
+    "districtCode": "050",
+    "regencyCode": "12.15",
+    "provinceCode": "12",
+    "name": "Kecamatan Lintong Nihuta",
+    "alias": "Lintong Nihuta"
+  },
+  {
+    "code": "12.15.060",
+    "districtCode": "060",
+    "regencyCode": "12.15",
+    "provinceCode": "12",
+    "name": "Kecamatan Paranginan",
+    "alias": "Paranginan"
+  },
+  {
+    "code": "12.15.070",
+    "districtCode": "070",
+    "regencyCode": "12.15",
+    "provinceCode": "12",
+    "name": "Kecamatan Bakti Raja",
+    "alias": "Bakti Raja"
+  },
+  {
+    "code": "12.15.080",
+    "districtCode": "080",
+    "regencyCode": "12.15",
+    "provinceCode": "12",
+    "name": "Kecamatan Pollung",
+    "alias": "Pollung"
+  },
+  {
+    "code": "12.15.090",
+    "districtCode": "090",
+    "regencyCode": "12.15",
+    "provinceCode": "12",
+    "name": "Kecamatan Parlilitan",
+    "alias": "Parlilitan"
+  },
+  {
+    "code": "12.15.100",
+    "districtCode": "100",
+    "regencyCode": "12.15",
+    "provinceCode": "12",
+    "name": "Kecamatan Tara Bintang",
+    "alias": "Tara Bintang"
+  }
+]

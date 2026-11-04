@@ -1,0 +1,44 @@
+[
+  {
+    "code": "82.71.010.005",
+    "villageCode": "005",
+    "districtCode": "82.71.010",
+    "name": "Jambula",
+    "alias": "Jambula"
+  },
+  {
+    "code": "82.71.010.006",
+    "villageCode": "006",
+    "districtCode": "82.71.010",
+    "name": "Kastela",
+    "alias": "Kastela"
+  },
+  {
+    "code": "82.71.010.007",
+    "villageCode": "007",
+    "districtCode": "82.71.010",
+    "name": "Foramadiahi",
+    "alias": "Foramadiahi"
+  },
+  {
+    "code": "82.71.010.009",
+    "villageCode": "009",
+    "districtCode": "82.71.010",
+    "name": "Rua",
+    "alias": "Rua"
+  },
+  {
+    "code": "82.71.010.011",
+    "villageCode": "011",
+    "districtCode": "82.71.010",
+    "name": "Afe-Taduma",
+    "alias": "Afe-Taduma"
+  },
+  {
+    "code": "82.71.010.026",
+    "villageCode": "026",
+    "districtCode": "82.71.010",
+    "name": "Dorpedu",
+    "alias": "Dorpedu"
+  }
+]

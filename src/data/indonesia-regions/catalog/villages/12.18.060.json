@@ -1,0 +1,37 @@
+[
+  {
+    "code": "12.18.060.001",
+    "villageCode": "001",
+    "districtCode": "12.18.060",
+    "name": "Bandar Tengah",
+    "alias": "Bandar Tengah"
+  },
+  {
+    "code": "12.18.060.002",
+    "villageCode": "002",
+    "districtCode": "12.18.060",
+    "name": "Juhar",
+    "alias": "Juhar"
+  },
+  {
+    "code": "12.18.060.003",
+    "villageCode": "003",
+    "districtCode": "12.18.060",
+    "name": "Kayu Besar",
+    "alias": "Kayu Besar"
+  },
+  {
+    "code": "12.18.060.004",
+    "villageCode": "004",
+    "districtCode": "12.18.060",
+    "name": "Pekan Bandar Khalipah",
+    "alias": "Pekan Bandar Khalipah"
+  },
+  {
+    "code": "12.18.060.005",
+    "villageCode": "005",
+    "districtCode": "12.18.060",
+    "name": "Gelam Sei Serimah",
+    "alias": "Gelam Sei Serimah"
+  }
+]

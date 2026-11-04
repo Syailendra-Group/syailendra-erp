@@ -1,0 +1,100 @@
+[
+  {
+    "code": "64.05.050.001",
+    "villageCode": "001",
+    "districtCode": "64.05.050",
+    "name": "Long Lanuk",
+    "alias": "Long Lanuk"
+  },
+  {
+    "code": "64.05.050.002",
+    "villageCode": "002",
+    "districtCode": "64.05.050",
+    "name": "Tumbit Dayak",
+    "alias": "Tumbit Dayak"
+  },
+  {
+    "code": "64.05.050.004",
+    "villageCode": "004",
+    "districtCode": "64.05.050",
+    "name": "Inaran",
+    "alias": "Inaran"
+  },
+  {
+    "code": "64.05.050.005",
+    "villageCode": "005",
+    "districtCode": "64.05.050",
+    "name": "Pegat Bukur",
+    "alias": "Pegat Bukur"
+  },
+  {
+    "code": "64.05.050.006",
+    "villageCode": "006",
+    "districtCode": "64.05.050",
+    "name": "Rantau Panjang",
+    "alias": "Rantau Panjang"
+  },
+  {
+    "code": "64.05.050.007",
+    "villageCode": "007",
+    "districtCode": "64.05.050",
+    "name": "Sambaliung",
+    "alias": "Sambaliung"
+  },
+  {
+    "code": "64.05.050.008",
+    "villageCode": "008",
+    "districtCode": "64.05.050",
+    "name": "Bebanir",
+    "alias": "Bebanir"
+  },
+  {
+    "code": "64.05.050.009",
+    "villageCode": "009",
+    "districtCode": "64.05.050",
+    "name": "Gurimbang",
+    "alias": "Gurimbang"
+  },
+  {
+    "code": "64.05.050.010",
+    "villageCode": "010",
+    "districtCode": "64.05.050",
+    "name": "Tanjung Perangat",
+    "alias": "Tanjung Perangat"
+  },
+  {
+    "code": "64.05.050.011",
+    "villageCode": "011",
+    "districtCode": "64.05.050",
+    "name": "Sukan Tengah",
+    "alias": "Sukan Tengah"
+  },
+  {
+    "code": "64.05.050.012",
+    "villageCode": "012",
+    "districtCode": "64.05.050",
+    "name": "Suaran",
+    "alias": "Suaran"
+  },
+  {
+    "code": "64.05.050.013",
+    "villageCode": "013",
+    "districtCode": "64.05.050",
+    "name": "Pesayan",
+    "alias": "Pesayan"
+  },
+  {
+    "code": "64.05.050.014",
+    "villageCode": "014",
+    "districtCode": "64.05.050",
+    "name": "Pilanjau",
+    "alias": "Pilanjau"
+  },
+  {
+    "code": "64.05.050.015",
+    "villageCode": "015",
+    "districtCode": "64.05.050",
+    "name": "Bena Baru",
+    "alias": "Bena Baru"
+  }
+]

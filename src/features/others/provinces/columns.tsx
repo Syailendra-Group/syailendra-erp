@@ -13,7 +13,7 @@ export interface GetColumnsOptions {
   onEdit: (prov: ProvinceRecord) => void
 }
 
-export function getColumns({ t, tCommon, onEdit }: GetColumnsOptions): ColumnDef<ProvinceRecord>[] {
+export function getColumns({ t, tCommon, onView, onEdit }: GetColumnsOptions): ColumnDef<ProvinceRecord>[] {
   return [
     {
       accessorKey: 'code',
@@ -25,6 +25,12 @@ export function getColumns({ t, tCommon, onEdit }: GetColumnsOptions): ColumnDef
       accessorKey: 'name',
       header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.name')} />,
       cell: ({ row }) => <span className="text-foreground text-xs font-semibold sm:text-sm">{row.original.name}</span>,
+      enableSorting: true
+    },
+    {
+      accessorKey: 'alias',
+      header: ({ column }) => <DataTableColumnHeader column={column} title="Alias" />,
+      cell: ({ row }) => <span className="text-muted-foreground text-xs">{row.original.alias || '-'}</span>,
       enableSorting: true
     },
     {
@@ -42,7 +48,7 @@ export function getColumns({ t, tCommon, onEdit }: GetColumnsOptions): ColumnDef
         const item = row.original
         return (
           <div className="flex items-center justify-center gap-1">
-            <ActionButton variant="view" label={tCommon('actions.view')} href={`/others/provinces/${item.id}`} />
+            <ActionButton variant="view" label={tCommon('actions.view')} onClick={() => onView(item)} />
             <ActionButton variant="edit" label={tCommon('actions.edit')} onClick={() => onEdit(item)} />
           </div>
         )

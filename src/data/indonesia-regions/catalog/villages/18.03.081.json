@@ -1,0 +1,58 @@
+[
+  {
+    "code": "18.03.081.001",
+    "villageCode": "001",
+    "districtCode": "18.03.081",
+    "name": "Sidomukti",
+    "alias": "Sidomukti"
+  },
+  {
+    "code": "18.03.081.002",
+    "villageCode": "002",
+    "districtCode": "18.03.081",
+    "name": "Wawasan",
+    "alias": "Wawasan"
+  },
+  {
+    "code": "18.03.081.003",
+    "villageCode": "003",
+    "districtCode": "18.03.081",
+    "name": "Bangunsari",
+    "alias": "Bangunsari"
+  },
+  {
+    "code": "18.03.081.004",
+    "villageCode": "004",
+    "districtCode": "18.03.081",
+    "name": "Mulyo Sari",
+    "alias": "Mulyo Sari"
+  },
+  {
+    "code": "18.03.081.005",
+    "villageCode": "005",
+    "districtCode": "18.03.081",
+    "name": "Kertosari",
+    "alias": "Kertosari"
+  },
+  {
+    "code": "18.03.081.006",
+    "villageCode": "006",
+    "districtCode": "18.03.081",
+    "name": "Wonodadi",
+    "alias": "Wonodadi"
+  },
+  {
+    "code": "18.03.081.007",
+    "villageCode": "007",
+    "districtCode": "18.03.081",
+    "name": "Purwodadi Dalam",
+    "alias": "Purwodadi Dalam"
+  },
+  {
+    "code": "18.03.081.008",
+    "villageCode": "008",
+    "districtCode": "18.03.081",
+    "name": "Malang Sari",
+    "alias": "Malang Sari"
+  }
+]

@@ -1,0 +1,275 @@
+[
+  {
+    "code": "11.11.030.001",
+    "villageCode": "001",
+    "districtCode": "11.11.030",
+    "name": "Sido Muliyo",
+    "alias": "Sido Muliyo"
+  },
+  {
+    "code": "11.11.030.012",
+    "villageCode": "012",
+    "districtCode": "11.11.030",
+    "name": "Alue Rambe",
+    "alias": "Alue Rambe"
+  },
+  {
+    "code": "11.11.030.013",
+    "villageCode": "013",
+    "districtCode": "11.11.030",
+    "name": "Meunye Cut Bahagia",
+    "alias": "Meunye Cut Bahagia"
+  },
+  {
+    "code": "11.11.030.014",
+    "villageCode": "014",
+    "districtCode": "11.11.030",
+    "name": "Cot Merbo",
+    "alias": "Cot Merbo"
+  },
+  {
+    "code": "11.11.030.015",
+    "villageCode": "015",
+    "districtCode": "11.11.030",
+    "name": "Panton Rayeuk I",
+    "alias": "Panton Rayeuk I"
+  },
+  {
+    "code": "11.11.030.016",
+    "villageCode": "016",
+    "districtCode": "11.11.030",
+    "name": "Blang Talon",
+    "alias": "Blang Talon"
+  },
+  {
+    "code": "11.11.030.017",
+    "villageCode": "017",
+    "districtCode": "11.11.030",
+    "name": "Buket",
+    "alias": "Buket"
+  },
+  {
+    "code": "11.11.030.018",
+    "villageCode": "018",
+    "districtCode": "11.11.030",
+    "name": "Lhok Jok",
+    "alias": "Lhok Jok"
+  },
+  {
+    "code": "11.11.030.019",
+    "villageCode": "019",
+    "districtCode": "11.11.030",
+    "name": "Seuneubok Drien",
+    "alias": "Seuneubok Drien"
+  },
+  {
+    "code": "11.11.030.026",
+    "villageCode": "026",
+    "districtCode": "11.11.030",
+    "name": "Cempeudak",
+    "alias": "Cempeudak"
+  },
+  {
+    "code": "11.11.030.027",
+    "villageCode": "027",
+    "districtCode": "11.11.030",
+    "name": "Blang Riek",
+    "alias": "Blang Riek"
+  },
+  {
+    "code": "11.11.030.028",
+    "villageCode": "028",
+    "districtCode": "11.11.030",
+    "name": "Meunasah Blang Ara",
+    "alias": "Meunasah Blang Ara"
+  },
+  {
+    "code": "11.11.030.029",
+    "villageCode": "029",
+    "districtCode": "11.11.030",
+    "name": "Keude Blang Ara",
+    "alias": "Keude Blang Ara"
+  },
+  {
+    "code": "11.11.030.030",
+    "villageCode": "030",
+    "districtCode": "11.11.030",
+    "name": "Krueng Manyang",
+    "alias": "Krueng Manyang"
+  },
+  {
+    "code": "11.11.030.031",
+    "villageCode": "031",
+    "districtCode": "11.11.030",
+    "name": "Bayu",
+    "alias": "Bayu"
+  },
+  {
+    "code": "11.11.030.032",
+    "villageCode": "032",
+    "districtCode": "11.11.030",
+    "name": "Blang Ado",
+    "alias": "Blang Ado"
+  },
+  {
+    "code": "11.11.030.033",
+    "villageCode": "033",
+    "districtCode": "11.11.030",
+    "name": "Dayah Meunara",
+    "alias": "Dayah Meunara"
+  },
+  {
+    "code": "11.11.030.034",
+    "villageCode": "034",
+    "districtCode": "11.11.030",
+    "name": "Cot Rheue",
+    "alias": "Cot Rheue"
+  },
+  {
+    "code": "11.11.030.035",
+    "villageCode": "035",
+    "districtCode": "11.11.030",
+    "name": "Babah Lueng",
+    "alias": "Babah Lueng"
+  },
+  {
+    "code": "11.11.030.036",
+    "villageCode": "036",
+    "districtCode": "11.11.030",
+    "name": "Panton Rayeuk Ii",
+    "alias": "Panton Rayeuk Ii"
+  },
+  {
+    "code": "11.11.030.037",
+    "villageCode": "037",
+    "districtCode": "11.11.030",
+    "name": "Saweuk",
+    "alias": "Saweuk"
+  },
+  {
+    "code": "11.11.030.038",
+    "villageCode": "038",
+    "districtCode": "11.11.030",
+    "name": "Langkuta",
+    "alias": "Langkuta"
+  },
+  {
+    "code": "11.11.030.039",
+    "villageCode": "039",
+    "districtCode": "11.11.030",
+    "name": "Cot Seumiyong",
+    "alias": "Cot Seumiyong"
+  },
+  {
+    "code": "11.11.030.040",
+    "villageCode": "040",
+    "districtCode": "11.11.030",
+    "name": "Meuriya",
+    "alias": "Meuriya"
+  },
+  {
+    "code": "11.11.030.041",
+    "villageCode": "041",
+    "districtCode": "11.11.030",
+    "name": "Cot Seutui",
+    "alias": "Cot Seutui"
+  },
+  {
+    "code": "11.11.030.042",
+    "villageCode": "042",
+    "districtCode": "11.11.030",
+    "name": "Mulieng Manyang",
+    "alias": "Mulieng Manyang"
+  },
+  {
+    "code": "11.11.030.043",
+    "villageCode": "043",
+    "districtCode": "11.11.030",
+    "name": "Mulieng Meucat",
+    "alias": "Mulieng Meucat"
+  },
+  {
+    "code": "11.11.030.044",
+    "villageCode": "044",
+    "districtCode": "11.11.030",
+    "name": "Pulo Barat",
+    "alias": "Pulo Barat"
+  },
+  {
+    "code": "11.11.030.045",
+    "villageCode": "045",
+    "districtCode": "11.11.030",
+    "name": "Pulo Rayeuk",
+    "alias": "Pulo Rayeuk"
+  },
+  {
+    "code": "11.11.030.046",
+    "villageCode": "046",
+    "districtCode": "11.11.030",
+    "name": "Meunasah Kumbang",
+    "alias": "Meunasah Kumbang"
+  },
+  {
+    "code": "11.11.030.047",
+    "villageCode": "047",
+    "districtCode": "11.11.030",
+    "name": "Ceumeucet",
+    "alias": "Ceumeucet"
+  },
+  {
+    "code": "11.11.030.048",
+    "villageCode": "048",
+    "districtCode": "11.11.030",
+    "name": "Guha Uleu",
+    "alias": "Guha Uleu"
+  },
+  {
+    "code": "11.11.030.049",
+    "villageCode": "049",
+    "districtCode": "11.11.030",
+    "name": "Blang Gurah",
+    "alias": "Blang Gurah"
+  },
+  {
+    "code": "11.11.030.050",
+    "villageCode": "050",
+    "districtCode": "11.11.030",
+    "name": "Krueng Seunong",
+    "alias": "Krueng Seunong"
+  },
+  {
+    "code": "11.11.030.051",
+    "villageCode": "051",
+    "districtCode": "11.11.030",
+    "name": "Keude Krueng",
+    "alias": "Keude Krueng"
+  },
+  {
+    "code": "11.11.030.052",
+    "villageCode": "052",
+    "districtCode": "11.11.030",
+    "name": "Pulo Iboih",
+    "alias": "Pulo Iboih"
+  },
+  {
+    "code": "11.11.030.053",
+    "villageCode": "053",
+    "districtCode": "11.11.030",
+    "name": "Keureusek",
+    "alias": "Keureusek"
+  },
+  {
+    "code": "11.11.030.054",
+    "villageCode": "054",
+    "districtCode": "11.11.030",
+    "name": "Meunasah Kulam",
+    "alias": "Meunasah Kulam"
+  },
+  {
+    "code": "11.11.030.055",
+    "villageCode": "055",
+    "districtCode": "11.11.030",
+    "name": "Krueng Seupeng",
+    "alias": "Krueng Seupeng"
+  }
+]

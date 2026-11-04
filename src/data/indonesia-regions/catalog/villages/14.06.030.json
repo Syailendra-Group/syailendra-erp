@@ -1,0 +1,65 @@
+[
+  {
+    "code": "14.06.030.002",
+    "villageCode": "002",
+    "districtCode": "14.06.030",
+    "name": "Kuok",
+    "alias": "Kuok"
+  },
+  {
+    "code": "14.06.030.003",
+    "villageCode": "003",
+    "districtCode": "14.06.030",
+    "name": "Merangin",
+    "alias": "Merangin"
+  },
+  {
+    "code": "14.06.030.004",
+    "villageCode": "004",
+    "districtCode": "14.06.030",
+    "name": "Empat Balai",
+    "alias": "Empat Balai"
+  },
+  {
+    "code": "14.06.030.005",
+    "villageCode": "005",
+    "districtCode": "14.06.030",
+    "name": "Pulau Jambu",
+    "alias": "Pulau Jambu"
+  },
+  {
+    "code": "14.06.030.008",
+    "villageCode": "008",
+    "districtCode": "14.06.030",
+    "name": "Silam",
+    "alias": "Silam"
+  },
+  {
+    "code": "14.06.030.009",
+    "villageCode": "009",
+    "districtCode": "14.06.030",
+    "name": "Bukit Melintang",
+    "alias": "Bukit Melintang"
+  },
+  {
+    "code": "14.06.030.010",
+    "villageCode": "010",
+    "districtCode": "14.06.030",
+    "name": "Lereng",
+    "alias": "Lereng"
+  },
+  {
+    "code": "14.06.030.011",
+    "villageCode": "011",
+    "districtCode": "14.06.030",
+    "name": "Pulau Terap",
+    "alias": "Pulau Terap"
+  },
+  {
+    "code": "14.06.030.012",
+    "villageCode": "012",
+    "districtCode": "14.06.030",
+    "name": "Batu Langka Kecil",
+    "alias": "Batu Langka Kecil"
+  }
+]

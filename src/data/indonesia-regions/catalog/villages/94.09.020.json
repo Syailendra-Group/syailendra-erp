@@ -1,0 +1,65 @@
+[
+  {
+    "code": "94.09.020.010",
+    "villageCode": "010",
+    "districtCode": "94.09.020",
+    "name": "Yenburwo",
+    "alias": "Yenburwo"
+  },
+  {
+    "code": "94.09.020.011",
+    "villageCode": "011",
+    "districtCode": "94.09.020",
+    "name": "Kornasoren",
+    "alias": "Kornasoren"
+  },
+  {
+    "code": "94.09.020.014",
+    "villageCode": "014",
+    "districtCode": "94.09.020",
+    "name": "Rarsibo",
+    "alias": "Rarsibo"
+  },
+  {
+    "code": "94.09.020.015",
+    "villageCode": "015",
+    "districtCode": "94.09.020",
+    "name": "Asaryendi",
+    "alias": "Asaryendi"
+  },
+  {
+    "code": "94.09.020.016",
+    "villageCode": "016",
+    "districtCode": "94.09.020",
+    "name": "Yenmanu",
+    "alias": "Yenmanu"
+  },
+  {
+    "code": "94.09.020.017",
+    "villageCode": "017",
+    "districtCode": "94.09.020",
+    "name": "Fyepuri",
+    "alias": "Fyepuri"
+  },
+  {
+    "code": "94.09.020.018",
+    "villageCode": "018",
+    "districtCode": "94.09.020",
+    "name": "Indaibori",
+    "alias": "Indaibori"
+  },
+  {
+    "code": "94.09.020.019",
+    "villageCode": "019",
+    "districtCode": "94.09.020",
+    "name": "Barkori",
+    "alias": "Barkori"
+  },
+  {
+    "code": "94.09.020.020",
+    "villageCode": "020",
+    "districtCode": "94.09.020",
+    "name": "Asaibori",
+    "alias": "Asaibori"
+  }
+]

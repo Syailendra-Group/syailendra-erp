@@ -1,0 +1,51 @@
+[
+  {
+    "code": "33.12.120.001",
+    "villageCode": "001",
+    "districtCode": "33.12.120",
+    "name": "Kepuhsari",
+    "alias": "Kepuhsari"
+  },
+  {
+    "code": "33.12.120.002",
+    "villageCode": "002",
+    "districtCode": "33.12.120",
+    "name": "Pijiharjo",
+    "alias": "Pijiharjo"
+  },
+  {
+    "code": "33.12.120.003",
+    "villageCode": "003",
+    "districtCode": "33.12.120",
+    "name": "Bero",
+    "alias": "Bero"
+  },
+  {
+    "code": "33.12.120.004",
+    "villageCode": "004",
+    "districtCode": "33.12.120",
+    "name": "Gunungan",
+    "alias": "Gunungan"
+  },
+  {
+    "code": "33.12.120.005",
+    "villageCode": "005",
+    "districtCode": "33.12.120",
+    "name": "Karanglor",
+    "alias": "Karanglor"
+  },
+  {
+    "code": "33.12.120.006",
+    "villageCode": "006",
+    "districtCode": "33.12.120",
+    "name": "Pagutan",
+    "alias": "Pagutan"
+  },
+  {
+    "code": "33.12.120.007",
+    "villageCode": "007",
+    "districtCode": "33.12.120",
+    "name": "Punduhsari",
+    "alias": "Punduhsari"
+  }
+]

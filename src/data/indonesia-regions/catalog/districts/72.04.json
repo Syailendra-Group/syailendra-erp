@@ -1,0 +1,154 @@
+[
+  {
+    "code": "72.04.010",
+    "districtCode": "010",
+    "regencyCode": "72.04",
+    "provinceCode": "72",
+    "name": "Kecamatan Pamona Selatan",
+    "alias": "Pamona Selatan"
+  },
+  {
+    "code": "72.04.011",
+    "districtCode": "011",
+    "regencyCode": "72.04",
+    "provinceCode": "72",
+    "name": "Kecamatan Pamona Barat",
+    "alias": "Pamona Barat"
+  },
+  {
+    "code": "72.04.012",
+    "districtCode": "012",
+    "regencyCode": "72.04",
+    "provinceCode": "72",
+    "name": "Kecamatan Pamona Tenggara",
+    "alias": "Pamona Tenggara"
+  },
+  {
+    "code": "72.04.020",
+    "districtCode": "020",
+    "regencyCode": "72.04",
+    "provinceCode": "72",
+    "name": "Kecamatan Lore Selatan",
+    "alias": "Lore Selatan"
+  },
+  {
+    "code": "72.04.021",
+    "districtCode": "021",
+    "regencyCode": "72.04",
+    "provinceCode": "72",
+    "name": "Kecamatan Lore Barat",
+    "alias": "Lore Barat"
+  },
+  {
+    "code": "72.04.030",
+    "districtCode": "030",
+    "regencyCode": "72.04",
+    "provinceCode": "72",
+    "name": "Kecamatan Pamona Pusalemba",
+    "alias": "Pamona Pusalemba"
+  },
+  {
+    "code": "72.04.031",
+    "districtCode": "031",
+    "regencyCode": "72.04",
+    "provinceCode": "72",
+    "name": "Kecamatan Pamona Timur",
+    "alias": "Pamona Timur"
+  },
+  {
+    "code": "72.04.032",
+    "districtCode": "032",
+    "regencyCode": "72.04",
+    "provinceCode": "72",
+    "name": "Kecamatan Pamona Utara",
+    "alias": "Pamona Utara"
+  },
+  {
+    "code": "72.04.040",
+    "districtCode": "040",
+    "regencyCode": "72.04",
+    "provinceCode": "72",
+    "name": "Kecamatan Lore Utara",
+    "alias": "Lore Utara"
+  },
+  {
+    "code": "72.04.041",
+    "districtCode": "041",
+    "regencyCode": "72.04",
+    "provinceCode": "72",
+    "name": "Kecamatan Lore Tengah",
+    "alias": "Lore Tengah"
+  },
+  {
+    "code": "72.04.042",
+    "districtCode": "042",
+    "regencyCode": "72.04",
+    "provinceCode": "72",
+    "name": "Kecamatan Lore Timur",
+    "alias": "Lore Timur"
+  },
+  {
+    "code": "72.04.043",
+    "districtCode": "043",
+    "regencyCode": "72.04",
+    "provinceCode": "72",
+    "name": "Kecamatan Lore Peore",
+    "alias": "Lore Peore"
+  },
+  {
+    "code": "72.04.050",
+    "districtCode": "050",
+    "regencyCode": "72.04",
+    "provinceCode": "72",
+    "name": "Kecamatan Poso Pesisir",
+    "alias": "Poso Pesisir"
+  },
+  {
+    "code": "72.04.051",
+    "districtCode": "051",
+    "regencyCode": "72.04",
+    "provinceCode": "72",
+    "name": "Kecamatan Poso Pesisir Selatan",
+    "alias": "Poso Pesisir Selatan"
+  },
+  {
+    "code": "72.04.052",
+    "districtCode": "052",
+    "regencyCode": "72.04",
+    "provinceCode": "72",
+    "name": "Kecamatan Poso Pesisir Utara",
+    "alias": "Poso Pesisir Utara"
+  },
+  {
+    "code": "72.04.060",
+    "districtCode": "060",
+    "regencyCode": "72.04",
+    "provinceCode": "72",
+    "name": "Kecamatan Lage",
+    "alias": "Lage"
+  },
+  {
+    "code": "72.04.070",
+    "districtCode": "070",
+    "regencyCode": "72.04",
+    "provinceCode": "72",
+    "name": "Kecamatan Poso Kota",
+    "alias": "Poso Kota"
+  },
+  {
+    "code": "72.04.071",
+    "districtCode": "071",
+    "regencyCode": "72.04",
+    "provinceCode": "72",
+    "name": "Kecamatan Poso Kota Utara",
+    "alias": "Poso Kota Utara"
+  },
+  {
+    "code": "72.04.072",
+    "districtCode": "072",
+    "regencyCode": "72.04",
+    "provinceCode": "72",
+    "name": "Kecamatan Poso Kota Selatan",
+    "alias": "Poso Kota Selatan"
+  }
+]

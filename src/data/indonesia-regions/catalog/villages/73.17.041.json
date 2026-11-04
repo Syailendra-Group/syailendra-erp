@@ -1,0 +1,65 @@
+[
+  {
+    "code": "73.17.041.001",
+    "villageCode": "001",
+    "districtCode": "73.17.041",
+    "name": "Saronda",
+    "alias": "Saronda"
+  },
+  {
+    "code": "73.17.041.002",
+    "villageCode": "002",
+    "districtCode": "73.17.041",
+    "name": "Tumbu Bara",
+    "alias": "Tumbu Bara"
+  },
+  {
+    "code": "73.17.041.003",
+    "villageCode": "003",
+    "districtCode": "73.17.041",
+    "name": "Sampeang",
+    "alias": "Sampeang"
+  },
+  {
+    "code": "73.17.041.004",
+    "villageCode": "004",
+    "districtCode": "73.17.041",
+    "name": "Kadong-Kadong",
+    "alias": "Kadong-Kadong"
+  },
+  {
+    "code": "73.17.041.005",
+    "villageCode": "005",
+    "districtCode": "73.17.041",
+    "name": "Marinding",
+    "alias": "Marinding"
+  },
+  {
+    "code": "73.17.041.006",
+    "villageCode": "006",
+    "districtCode": "73.17.041",
+    "name": "Tetekang",
+    "alias": "Tetekang"
+  },
+  {
+    "code": "73.17.041.007",
+    "villageCode": "007",
+    "districtCode": "73.17.041",
+    "name": "Bonelemo",
+    "alias": "Bonelemo"
+  },
+  {
+    "code": "73.17.041.008",
+    "villageCode": "008",
+    "districtCode": "73.17.041",
+    "name": "Bonelemo Barat",
+    "alias": "Bonelemo Barat"
+  },
+  {
+    "code": "73.17.041.009",
+    "villageCode": "009",
+    "districtCode": "73.17.041",
+    "name": "Bonelemo Utara",
+    "alias": "Bonelemo Utara"
+  }
+]

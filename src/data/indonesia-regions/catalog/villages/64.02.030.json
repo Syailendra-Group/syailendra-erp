@@ -1,0 +1,44 @@
+[
+  {
+    "code": "64.02.030.001",
+    "villageCode": "001",
+    "districtCode": "64.02.030",
+    "name": "Loa Deras",
+    "alias": "Loa Deras"
+  },
+  {
+    "code": "64.02.030.002",
+    "villageCode": "002",
+    "districtCode": "64.02.030",
+    "name": "Minta",
+    "alias": "Minta"
+  },
+  {
+    "code": "64.02.030.003",
+    "villageCode": "003",
+    "districtCode": "64.02.030",
+    "name": "Penyinggahan Ilir",
+    "alias": "Penyinggahan Ilir"
+  },
+  {
+    "code": "64.02.030.004",
+    "villageCode": "004",
+    "districtCode": "64.02.030",
+    "name": "Tanjung Haur",
+    "alias": "Tanjung Haur"
+  },
+  {
+    "code": "64.02.030.005",
+    "villageCode": "005",
+    "districtCode": "64.02.030",
+    "name": "Penyinggahan Ulu",
+    "alias": "Penyinggahan Ulu"
+  },
+  {
+    "code": "64.02.030.006",
+    "villageCode": "006",
+    "districtCode": "64.02.030",
+    "name": "Bakung",
+    "alias": "Bakung"
+  }
+]

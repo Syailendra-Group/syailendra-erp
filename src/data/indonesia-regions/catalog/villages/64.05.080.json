@@ -1,0 +1,93 @@
+[
+  {
+    "code": "64.05.080.001",
+    "villageCode": "001",
+    "districtCode": "64.05.080",
+    "name": "Punan Mahkam",
+    "alias": "Punan Mahkam"
+  },
+  {
+    "code": "64.05.080.002",
+    "villageCode": "002",
+    "districtCode": "64.05.080",
+    "name": "Long Laay",
+    "alias": "Long Laay"
+  },
+  {
+    "code": "64.05.080.003",
+    "villageCode": "003",
+    "districtCode": "64.05.080",
+    "name": "Punan Segah",
+    "alias": "Punan Segah"
+  },
+  {
+    "code": "64.05.080.004",
+    "villageCode": "004",
+    "districtCode": "64.05.080",
+    "name": "Long Ayap",
+    "alias": "Long Ayap"
+  },
+  {
+    "code": "64.05.080.005",
+    "villageCode": "005",
+    "districtCode": "64.05.080",
+    "name": "Long Ayan",
+    "alias": "Long Ayan"
+  },
+  {
+    "code": "64.05.080.006",
+    "villageCode": "006",
+    "districtCode": "64.05.080",
+    "name": "Punan Malinau",
+    "alias": "Punan Malinau"
+  },
+  {
+    "code": "64.05.080.007",
+    "villageCode": "007",
+    "districtCode": "64.05.080",
+    "name": "Gunung Sari",
+    "alias": "Gunung Sari"
+  },
+  {
+    "code": "64.05.080.008",
+    "villageCode": "008",
+    "districtCode": "64.05.080",
+    "name": "Harapan Jaya",
+    "alias": "Harapan Jaya"
+  },
+  {
+    "code": "64.05.080.009",
+    "villageCode": "009",
+    "districtCode": "64.05.080",
+    "name": "Bukit Makmur",
+    "alias": "Bukit Makmur"
+  },
+  {
+    "code": "64.05.080.010",
+    "villageCode": "010",
+    "districtCode": "64.05.080",
+    "name": "Pandan Sari",
+    "alias": "Pandan Sari"
+  },
+  {
+    "code": "64.05.080.011",
+    "villageCode": "011",
+    "districtCode": "64.05.080",
+    "name": "Tepian Buah",
+    "alias": "Tepian Buah"
+  },
+  {
+    "code": "64.05.080.012",
+    "villageCode": "012",
+    "districtCode": "64.05.080",
+    "name": "Siduung Indah",
+    "alias": "Siduung Indah"
+  },
+  {
+    "code": "64.05.080.013",
+    "villageCode": "013",
+    "districtCode": "64.05.080",
+    "name": "Batu Rajang",
+    "alias": "Batu Rajang"
+  }
+]

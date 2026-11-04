@@ -1,0 +1,65 @@
+[
+  {
+    "code": "63.09.110.001",
+    "villageCode": "001",
+    "districtCode": "63.09.110",
+    "name": "Namun",
+    "alias": "Namun"
+  },
+  {
+    "code": "63.09.110.002",
+    "villageCode": "002",
+    "districtCode": "63.09.110",
+    "name": "Muang",
+    "alias": "Muang"
+  },
+  {
+    "code": "63.09.110.003",
+    "villageCode": "003",
+    "districtCode": "63.09.110",
+    "name": "Teratau",
+    "alias": "Teratau"
+  },
+  {
+    "code": "63.09.110.004",
+    "villageCode": "004",
+    "districtCode": "63.09.110",
+    "name": "Purui",
+    "alias": "Purui"
+  },
+  {
+    "code": "63.09.110.005",
+    "villageCode": "005",
+    "districtCode": "63.09.110",
+    "name": "Nalui",
+    "alias": "Nalui"
+  },
+  {
+    "code": "63.09.110.006",
+    "villageCode": "006",
+    "districtCode": "63.09.110",
+    "name": "Jaro",
+    "alias": "Jaro"
+  },
+  {
+    "code": "63.09.110.007",
+    "villageCode": "007",
+    "districtCode": "63.09.110",
+    "name": "Garagata",
+    "alias": "Garagata"
+  },
+  {
+    "code": "63.09.110.008",
+    "villageCode": "008",
+    "districtCode": "63.09.110",
+    "name": "Solan",
+    "alias": "Solan"
+  },
+  {
+    "code": "63.09.110.009",
+    "villageCode": "009",
+    "districtCode": "63.09.110",
+    "name": "Lano",
+    "alias": "Lano"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "code": "12.21.093.001",
+    "villageCode": "001",
+    "districtCode": "12.21.093",
+    "name": "Huta Ruhom",
+    "alias": "Huta Ruhom"
+  },
+  {
+    "code": "12.21.093.002",
+    "villageCode": "002",
+    "districtCode": "12.21.093",
+    "name": "Gading",
+    "alias": "Gading"
+  },
+  {
+    "code": "12.21.093.003",
+    "villageCode": "003",
+    "districtCode": "12.21.093",
+    "name": "Paran Napa Jae",
+    "alias": "Paran Napa Jae"
+  },
+  {
+    "code": "12.21.093.004",
+    "villageCode": "004",
+    "districtCode": "12.21.093",
+    "name": "Batu Sundung",
+    "alias": "Batu Sundung"
+  },
+  {
+    "code": "12.21.093.005",
+    "villageCode": "005",
+    "districtCode": "12.21.093",
+    "name": "Sidong-Dong",
+    "alias": "Sidong-Dong"
+  },
+  {
+    "code": "12.21.093.006",
+    "villageCode": "006",
+    "districtCode": "12.21.093",
+    "name": "Sisalean",
+    "alias": "Sisalean"
+  },
+  {
+    "code": "12.21.093.007",
+    "villageCode": "007",
+    "districtCode": "12.21.093",
+    "name": "Sibontar",
+    "alias": "Sibontar"
+  },
+  {
+    "code": "12.21.093.008",
+    "villageCode": "008",
+    "districtCode": "12.21.093",
+    "name": "Bire",
+    "alias": "Bire"
+  },
+  {
+    "code": "12.21.093.009",
+    "villageCode": "009",
+    "districtCode": "12.21.093",
+    "name": "Paran Napa Dolok",
+    "alias": "Paran Napa Dolok"
+  },
+  {
+    "code": "12.21.093.010",
+    "villageCode": "010",
+    "districtCode": "12.21.093",
+    "name": "Aek Siala",
+    "alias": "Aek Siala"
+  }
+]

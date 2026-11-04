@@ -1,0 +1,30 @@
+[
+  {
+    "code": "15.09.022.001",
+    "villageCode": "001",
+    "districtCode": "15.09.022",
+    "name": "Sungai Mengkuang",
+    "alias": "Sungai Mengkuang"
+  },
+  {
+    "code": "15.09.022.002",
+    "villageCode": "002",
+    "districtCode": "15.09.022",
+    "name": "Sungai Buluh",
+    "alias": "Sungai Buluh"
+  },
+  {
+    "code": "15.09.022.003",
+    "villageCode": "003",
+    "districtCode": "15.09.022",
+    "name": "Pasir Putih",
+    "alias": "Pasir Putih"
+  },
+  {
+    "code": "15.09.022.004",
+    "villageCode": "004",
+    "districtCode": "15.09.022",
+    "name": "Cadika",
+    "alias": "Cadika"
+  }
+]

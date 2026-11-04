@@ -1,0 +1,100 @@
+[
+  {
+    "code": "11.01.050.007",
+    "villageCode": "007",
+    "districtCode": "11.01.050",
+    "name": "Sanggiran",
+    "alias": "Sanggiran"
+  },
+  {
+    "code": "11.01.050.008",
+    "villageCode": "008",
+    "districtCode": "11.01.050",
+    "name": "Amabaan",
+    "alias": "Amabaan"
+  },
+  {
+    "code": "11.01.050.009",
+    "villageCode": "009",
+    "districtCode": "11.01.050",
+    "name": "Miteum",
+    "alias": "Miteum"
+  },
+  {
+    "code": "11.01.050.010",
+    "villageCode": "010",
+    "districtCode": "11.01.050",
+    "name": "Malasin",
+    "alias": "Malasin"
+  },
+  {
+    "code": "11.01.050.011",
+    "villageCode": "011",
+    "districtCode": "11.01.050",
+    "name": "Lamamek",
+    "alias": "Lamamek"
+  },
+  {
+    "code": "11.01.050.012",
+    "villageCode": "012",
+    "districtCode": "11.01.050",
+    "name": "Sigulai",
+    "alias": "Sigulai"
+  },
+  {
+    "code": "11.01.050.013",
+    "villageCode": "013",
+    "districtCode": "11.01.050",
+    "name": "Sembilan",
+    "alias": "Sembilan"
+  },
+  {
+    "code": "11.01.050.014",
+    "villageCode": "014",
+    "districtCode": "11.01.050",
+    "name": "Layabaung",
+    "alias": "Layabaung"
+  },
+  {
+    "code": "11.01.050.015",
+    "villageCode": "015",
+    "districtCode": "11.01.050",
+    "name": "Lhok Makmur",
+    "alias": "Lhok Makmur"
+  },
+  {
+    "code": "11.01.050.016",
+    "villageCode": "016",
+    "districtCode": "11.01.050",
+    "name": "Ujung Harapan",
+    "alias": "Ujung Harapan"
+  },
+  {
+    "code": "11.01.050.017",
+    "villageCode": "017",
+    "districtCode": "11.01.050",
+    "name": "Lhok Bikhao",
+    "alias": "Lhok Bikhao"
+  },
+  {
+    "code": "11.01.050.018",
+    "villageCode": "018",
+    "districtCode": "11.01.050",
+    "name": "Babul Makmur",
+    "alias": "Babul Makmur"
+  },
+  {
+    "code": "11.01.050.019",
+    "villageCode": "019",
+    "districtCode": "11.01.050",
+    "name": "Batu Ragi",
+    "alias": "Batu Ragi"
+  },
+  {
+    "code": "11.01.050.020",
+    "villageCode": "020",
+    "districtCode": "11.01.050",
+    "name": "Sinar Bahagia",
+    "alias": "Sinar Bahagia"
+  }
+]

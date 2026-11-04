@@ -1,0 +1,37 @@
+[
+  {
+    "code": "96.05.230.001",
+    "villageCode": "001",
+    "districtCode": "96.05.230",
+    "name": "Danggipa",
+    "alias": "Danggipa"
+  },
+  {
+    "code": "96.05.230.002",
+    "villageCode": "002",
+    "districtCode": "96.05.230",
+    "name": "Odegapa",
+    "alias": "Odegapa"
+  },
+  {
+    "code": "96.05.230.003",
+    "villageCode": "003",
+    "districtCode": "96.05.230",
+    "name": "Sogomo",
+    "alias": "Sogomo"
+  },
+  {
+    "code": "96.05.230.004",
+    "villageCode": "004",
+    "districtCode": "96.05.230",
+    "name": "Dogomo",
+    "alias": "Dogomo"
+  },
+  {
+    "code": "96.05.230.005",
+    "villageCode": "005",
+    "districtCode": "96.05.230",
+    "name": "Bomogbuduga",
+    "alias": "Bomogbuduga"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "code": "32.13.190.006",
+    "villageCode": "006",
+    "districtCode": "32.13.190",
+    "name": "Rancasari",
+    "alias": "Rancasari"
+  },
+  {
+    "code": "32.13.190.007",
+    "villageCode": "007",
+    "districtCode": "32.13.190",
+    "name": "Pamanukan",
+    "alias": "Pamanukan"
+  },
+  {
+    "code": "32.13.190.008",
+    "villageCode": "008",
+    "districtCode": "32.13.190",
+    "name": "Pamanukan Hilir",
+    "alias": "Pamanukan Hilir"
+  },
+  {
+    "code": "32.13.190.009",
+    "villageCode": "009",
+    "districtCode": "32.13.190",
+    "name": "Lengkongjaya",
+    "alias": "Lengkongjaya"
+  },
+  {
+    "code": "32.13.190.010",
+    "villageCode": "010",
+    "districtCode": "32.13.190",
+    "name": "Pamanukan Sebrang",
+    "alias": "Pamanukan Sebrang"
+  },
+  {
+    "code": "32.13.190.012",
+    "villageCode": "012",
+    "districtCode": "32.13.190",
+    "name": "Mulyasari",
+    "alias": "Mulyasari"
+  },
+  {
+    "code": "32.13.190.013",
+    "villageCode": "013",
+    "districtCode": "32.13.190",
+    "name": "Rancahilir",
+    "alias": "Rancahilir"
+  },
+  {
+    "code": "32.13.190.014",
+    "villageCode": "014",
+    "districtCode": "32.13.190",
+    "name": "Bongas",
+    "alias": "Bongas"
+  }
+]

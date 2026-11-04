@@ -1,0 +1,82 @@
+[
+  {
+    "code": "64.72.010",
+    "districtCode": "010",
+    "regencyCode": "64.72",
+    "provinceCode": "64",
+    "name": "Kecamatan Palaran",
+    "alias": "Palaran"
+  },
+  {
+    "code": "64.72.020",
+    "districtCode": "020",
+    "regencyCode": "64.72",
+    "provinceCode": "64",
+    "name": "Kecamatan Samarinda Ilir",
+    "alias": "Samarinda Ilir"
+  },
+  {
+    "code": "64.72.021",
+    "districtCode": "021",
+    "regencyCode": "64.72",
+    "provinceCode": "64",
+    "name": "Kecamatan Samarinda Kota",
+    "alias": "Samarinda Kota"
+  },
+  {
+    "code": "64.72.022",
+    "districtCode": "022",
+    "regencyCode": "64.72",
+    "provinceCode": "64",
+    "name": "Kecamatan Sambutan",
+    "alias": "Sambutan"
+  },
+  {
+    "code": "64.72.030",
+    "districtCode": "030",
+    "regencyCode": "64.72",
+    "provinceCode": "64",
+    "name": "Kecamatan Samarinda Seberang",
+    "alias": "Samarinda Seberang"
+  },
+  {
+    "code": "64.72.031",
+    "districtCode": "031",
+    "regencyCode": "64.72",
+    "provinceCode": "64",
+    "name": "Kecamatan Loa Janan Ilir",
+    "alias": "Loa Janan Ilir"
+  },
+  {
+    "code": "64.72.040",
+    "districtCode": "040",
+    "regencyCode": "64.72",
+    "provinceCode": "64",
+    "name": "Kecamatan Sungai Kunjang",
+    "alias": "Sungai Kunjang"
+  },
+  {
+    "code": "64.72.050",
+    "districtCode": "050",
+    "regencyCode": "64.72",
+    "provinceCode": "64",
+    "name": "Kecamatan Samarinda Ulu",
+    "alias": "Samarinda Ulu"
+  },
+  {
+    "code": "64.72.060",
+    "districtCode": "060",
+    "regencyCode": "64.72",
+    "provinceCode": "64",
+    "name": "Kecamatan Samarinda Utara",
+    "alias": "Samarinda Utara"
+  },
+  {
+    "code": "64.72.061",
+    "districtCode": "061",
+    "regencyCode": "64.72",
+    "provinceCode": "64",
+    "name": "Kecamatan Sungai Pinang",
+    "alias": "Sungai Pinang"
+  }
+]

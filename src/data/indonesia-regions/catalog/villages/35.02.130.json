@@ -1,0 +1,93 @@
+[
+  {
+    "code": "35.02.130.001",
+    "villageCode": "001",
+    "districtCode": "35.02.130",
+    "name": "Krebet",
+    "alias": "Krebet"
+  },
+  {
+    "code": "35.02.130.002",
+    "villageCode": "002",
+    "districtCode": "35.02.130",
+    "name": "Jonggol",
+    "alias": "Jonggol"
+  },
+  {
+    "code": "35.02.130.003",
+    "villageCode": "003",
+    "districtCode": "35.02.130",
+    "name": "Poko",
+    "alias": "Poko"
+  },
+  {
+    "code": "35.02.130.004",
+    "villageCode": "004",
+    "districtCode": "35.02.130",
+    "name": "Bringinan",
+    "alias": "Bringinan"
+  },
+  {
+    "code": "35.02.130.005",
+    "villageCode": "005",
+    "districtCode": "35.02.130",
+    "name": "Sendang",
+    "alias": "Sendang"
+  },
+  {
+    "code": "35.02.130.006",
+    "villageCode": "006",
+    "districtCode": "35.02.130",
+    "name": "Karanglo Kidul",
+    "alias": "Karanglo Kidul"
+  },
+  {
+    "code": "35.02.130.007",
+    "villageCode": "007",
+    "districtCode": "35.02.130",
+    "name": "Bulu Lor",
+    "alias": "Bulu Lor"
+  },
+  {
+    "code": "35.02.130.008",
+    "villageCode": "008",
+    "districtCode": "35.02.130",
+    "name": "Jambon",
+    "alias": "Jambon"
+  },
+  {
+    "code": "35.02.130.009",
+    "villageCode": "009",
+    "districtCode": "35.02.130",
+    "name": "Blembem",
+    "alias": "Blembem"
+  },
+  {
+    "code": "35.02.130.010",
+    "villageCode": "010",
+    "districtCode": "35.02.130",
+    "name": "Pulosari",
+    "alias": "Pulosari"
+  },
+  {
+    "code": "35.02.130.011",
+    "villageCode": "011",
+    "districtCode": "35.02.130",
+    "name": "Menang",
+    "alias": "Menang"
+  },
+  {
+    "code": "35.02.130.012",
+    "villageCode": "012",
+    "districtCode": "35.02.130",
+    "name": "Srandil",
+    "alias": "Srandil"
+  },
+  {
+    "code": "35.02.130.013",
+    "villageCode": "013",
+    "districtCode": "35.02.130",
+    "name": "Sidoharjo",
+    "alias": "Sidoharjo"
+  }
+]

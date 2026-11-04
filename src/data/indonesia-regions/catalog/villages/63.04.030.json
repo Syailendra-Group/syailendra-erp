@@ -1,0 +1,65 @@
+[
+  {
+    "code": "63.04.030.001",
+    "villageCode": "001",
+    "districtCode": "63.04.030",
+    "name": "Tamban Raya",
+    "alias": "Tamban Raya"
+  },
+  {
+    "code": "63.04.030.002",
+    "villageCode": "002",
+    "districtCode": "63.04.030",
+    "name": "Tamban Raya Baru",
+    "alias": "Tamban Raya Baru"
+  },
+  {
+    "code": "63.04.030.003",
+    "villageCode": "003",
+    "districtCode": "63.04.030",
+    "name": "Karang Mekar",
+    "alias": "Karang Mekar"
+  },
+  {
+    "code": "63.04.030.004",
+    "villageCode": "004",
+    "districtCode": "63.04.030",
+    "name": "Indah Sari",
+    "alias": "Indah Sari"
+  },
+  {
+    "code": "63.04.030.005",
+    "villageCode": "005",
+    "districtCode": "63.04.030",
+    "name": "Mekar Sari",
+    "alias": "Mekar Sari"
+  },
+  {
+    "code": "63.04.030.006",
+    "villageCode": "006",
+    "districtCode": "63.04.030",
+    "name": "Tinggiran Darat",
+    "alias": "Tinggiran Darat"
+  },
+  {
+    "code": "63.04.030.007",
+    "villageCode": "007",
+    "districtCode": "63.04.030",
+    "name": "Jelapat Ii",
+    "alias": "Jelapat Ii"
+  },
+  {
+    "code": "63.04.030.008",
+    "villageCode": "008",
+    "districtCode": "63.04.030",
+    "name": "Tinggiran Tengah",
+    "alias": "Tinggiran Tengah"
+  },
+  {
+    "code": "63.04.030.009",
+    "villageCode": "009",
+    "districtCode": "63.04.030",
+    "name": "Tinggiran Baru",
+    "alias": "Tinggiran Baru"
+  }
+]

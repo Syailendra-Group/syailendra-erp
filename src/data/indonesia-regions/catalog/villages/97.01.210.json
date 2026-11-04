@@ -1,0 +1,86 @@
+[
+  {
+    "code": "97.01.210.001",
+    "villageCode": "001",
+    "districtCode": "97.01.210",
+    "name": "Wiritlak",
+    "alias": "Wiritlak"
+  },
+  {
+    "code": "97.01.210.002",
+    "villageCode": "002",
+    "districtCode": "97.01.210",
+    "name": "Ekilapok",
+    "alias": "Ekilapok"
+  },
+  {
+    "code": "97.01.210.003",
+    "villageCode": "003",
+    "districtCode": "97.01.210",
+    "name": "Yigi",
+    "alias": "Yigi"
+  },
+  {
+    "code": "97.01.210.004",
+    "villageCode": "004",
+    "districtCode": "97.01.210",
+    "name": "Delsa",
+    "alias": "Delsa"
+  },
+  {
+    "code": "97.01.210.005",
+    "villageCode": "005",
+    "districtCode": "97.01.210",
+    "name": "Boroit",
+    "alias": "Boroit"
+  },
+  {
+    "code": "97.01.210.006",
+    "villageCode": "006",
+    "districtCode": "97.01.210",
+    "name": "Disendobo",
+    "alias": "Disendobo"
+  },
+  {
+    "code": "97.01.210.007",
+    "villageCode": "007",
+    "districtCode": "97.01.210",
+    "name": "Sumbo",
+    "alias": "Sumbo"
+  },
+  {
+    "code": "97.01.210.008",
+    "villageCode": "008",
+    "districtCode": "97.01.210",
+    "name": "Yebadola",
+    "alias": "Yebadola"
+  },
+  {
+    "code": "97.01.210.009",
+    "villageCode": "009",
+    "districtCode": "97.01.210",
+    "name": "Lumbukdumu",
+    "alias": "Lumbukdumu"
+  },
+  {
+    "code": "97.01.210.010",
+    "villageCode": "010",
+    "districtCode": "97.01.210",
+    "name": "Suwenem",
+    "alias": "Suwenem"
+  },
+  {
+    "code": "97.01.210.011",
+    "villageCode": "011",
+    "districtCode": "97.01.210",
+    "name": "Karunggame",
+    "alias": "Karunggame"
+  },
+  {
+    "code": "97.01.210.012",
+    "villageCode": "012",
+    "districtCode": "97.01.210",
+    "name": "Sirit",
+    "alias": "Sirit"
+  }
+]

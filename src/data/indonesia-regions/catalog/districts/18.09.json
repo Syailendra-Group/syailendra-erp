@@ -1,0 +1,90 @@
+[
+  {
+    "code": "18.09.010",
+    "districtCode": "010",
+    "regencyCode": "18.09",
+    "provinceCode": "18",
+    "name": "Kecamatan Punduh Pidada",
+    "alias": "Punduh Pidada"
+  },
+  {
+    "code": "18.09.011",
+    "districtCode": "011",
+    "regencyCode": "18.09",
+    "provinceCode": "18",
+    "name": "Kecamatan Marga Punduh",
+    "alias": "Marga Punduh"
+  },
+  {
+    "code": "18.09.020",
+    "districtCode": "020",
+    "regencyCode": "18.09",
+    "provinceCode": "18",
+    "name": "Kecamatan Padang Cermin",
+    "alias": "Padang Cermin"
+  },
+  {
+    "code": "18.09.021",
+    "districtCode": "021",
+    "regencyCode": "18.09",
+    "provinceCode": "18",
+    "name": "Kecamatan Teluk Pandan",
+    "alias": "Teluk Pandan"
+  },
+  {
+    "code": "18.09.022",
+    "districtCode": "022",
+    "regencyCode": "18.09",
+    "provinceCode": "18",
+    "name": "Kecamatan Way Ratai",
+    "alias": "Way Ratai"
+  },
+  {
+    "code": "18.09.030",
+    "districtCode": "030",
+    "regencyCode": "18.09",
+    "provinceCode": "18",
+    "name": "Kecamatan Kedondong",
+    "alias": "Kedondong"
+  },
+  {
+    "code": "18.09.031",
+    "districtCode": "031",
+    "regencyCode": "18.09",
+    "provinceCode": "18",
+    "name": "Kecamatan Way Khilau",
+    "alias": "Way Khilau"
+  },
+  {
+    "code": "18.09.040",
+    "districtCode": "040",
+    "regencyCode": "18.09",
+    "provinceCode": "18",
+    "name": "Kecamatan Way Lima",
+    "alias": "Way Lima"
+  },
+  {
+    "code": "18.09.050",
+    "districtCode": "050",
+    "regencyCode": "18.09",
+    "provinceCode": "18",
+    "name": "Kecamatan Gedung Tataan",
+    "alias": "Gedung Tataan"
+  },
+  {
+    "code": "18.09.060",
+    "districtCode": "060",
+    "regencyCode": "18.09",
+    "provinceCode": "18",
+    "name": "Kecamatan Negeri Katon",
+    "alias": "Negeri Katon"
+  },
+  {
+    "code": "18.09.070",
+    "districtCode": "070",
+    "regencyCode": "18.09",
+    "provinceCode": "18",
+    "name": "Kecamatan Tegineneng",
+    "alias": "Tegineneng"
+  }
+]

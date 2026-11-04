@@ -1,0 +1,72 @@
+[
+  {
+    "code": "33.26.140.001",
+    "villageCode": "001",
+    "districtCode": "33.26.140",
+    "name": "Coprayan",
+    "alias": "Coprayan"
+  },
+  {
+    "code": "33.26.140.002",
+    "villageCode": "002",
+    "districtCode": "33.26.140",
+    "name": "Sapugarut",
+    "alias": "Sapugarut"
+  },
+  {
+    "code": "33.26.140.003",
+    "villageCode": "003",
+    "districtCode": "33.26.140",
+    "name": "Wonoyoso",
+    "alias": "Wonoyoso"
+  },
+  {
+    "code": "33.26.140.004",
+    "villageCode": "004",
+    "districtCode": "33.26.140",
+    "name": "Bligo",
+    "alias": "Bligo"
+  },
+  {
+    "code": "33.26.140.005",
+    "villageCode": "005",
+    "districtCode": "33.26.140",
+    "name": "Pakumbulan",
+    "alias": "Pakumbulan"
+  },
+  {
+    "code": "33.26.140.006",
+    "villageCode": "006",
+    "districtCode": "33.26.140",
+    "name": "Watusalam",
+    "alias": "Watusalam"
+  },
+  {
+    "code": "33.26.140.007",
+    "villageCode": "007",
+    "districtCode": "33.26.140",
+    "name": "Simbang Wetan",
+    "alias": "Simbang Wetan"
+  },
+  {
+    "code": "33.26.140.008",
+    "villageCode": "008",
+    "districtCode": "33.26.140",
+    "name": "Simbang Kulon",
+    "alias": "Simbang Kulon"
+  },
+  {
+    "code": "33.26.140.009",
+    "villageCode": "009",
+    "districtCode": "33.26.140",
+    "name": "Kertijayan",
+    "alias": "Kertijayan"
+  },
+  {
+    "code": "33.26.140.010",
+    "villageCode": "010",
+    "districtCode": "33.26.140",
+    "name": "Paweden",
+    "alias": "Paweden"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "code": "61.10.021.001",
+    "villageCode": "001",
+    "districtCode": "61.10.021",
+    "name": "Togan Baru",
+    "alias": "Togan Baru"
+  },
+  {
+    "code": "61.10.021.002",
+    "villageCode": "002",
+    "districtCode": "61.10.021",
+    "name": "Ganjang",
+    "alias": "Ganjang"
+  },
+  {
+    "code": "61.10.021.003",
+    "villageCode": "003",
+    "districtCode": "61.10.021",
+    "name": "Durian Jaya",
+    "alias": "Durian Jaya"
+  },
+  {
+    "code": "61.10.021.004",
+    "villageCode": "004",
+    "districtCode": "61.10.021",
+    "name": "Pelita Jaya",
+    "alias": "Pelita Jaya"
+  },
+  {
+    "code": "61.10.021.005",
+    "villageCode": "005",
+    "districtCode": "61.10.021",
+    "name": "Bukit Raya",
+    "alias": "Bukit Raya"
+  },
+  {
+    "code": "61.10.021.006",
+    "villageCode": "006",
+    "districtCode": "61.10.021",
+    "name": "Ulak Muid",
+    "alias": "Ulak Muid"
+  },
+  {
+    "code": "61.10.021.007",
+    "villageCode": "007",
+    "districtCode": "61.10.021",
+    "name": "Lintah Taum",
+    "alias": "Lintah Taum"
+  },
+  {
+    "code": "61.10.021.008",
+    "villageCode": "008",
+    "districtCode": "61.10.021",
+    "name": "Laja",
+    "alias": "Laja"
+  },
+  {
+    "code": "61.10.021.009",
+    "villageCode": "009",
+    "districtCode": "61.10.021",
+    "name": "Harapan Jaya",
+    "alias": "Harapan Jaya"
+  },
+  {
+    "code": "61.10.021.010",
+    "villageCode": "010",
+    "districtCode": "61.10.021",
+    "name": "Keluas Hulu",
+    "alias": "Keluas Hulu"
+  }
+]

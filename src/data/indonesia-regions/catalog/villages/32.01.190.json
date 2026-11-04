@@ -1,0 +1,72 @@
+[
+  {
+    "code": "32.01.190.001",
+    "villageCode": "001",
+    "districtCode": "32.01.190",
+    "name": "Karanggan",
+    "alias": "Karanggan"
+  },
+  {
+    "code": "32.01.190.002",
+    "villageCode": "002",
+    "districtCode": "32.01.190",
+    "name": "Gunung Putri",
+    "alias": "Gunung Putri"
+  },
+  {
+    "code": "32.01.190.003",
+    "villageCode": "003",
+    "districtCode": "32.01.190",
+    "name": "Tlajung Udik",
+    "alias": "Tlajung Udik"
+  },
+  {
+    "code": "32.01.190.004",
+    "villageCode": "004",
+    "districtCode": "32.01.190",
+    "name": "Bojong Nangka",
+    "alias": "Bojong Nangka"
+  },
+  {
+    "code": "32.01.190.005",
+    "villageCode": "005",
+    "districtCode": "32.01.190",
+    "name": "Cicadas",
+    "alias": "Cicadas"
+  },
+  {
+    "code": "32.01.190.006",
+    "villageCode": "006",
+    "districtCode": "32.01.190",
+    "name": "Wanaherang",
+    "alias": "Wanaherang"
+  },
+  {
+    "code": "32.01.190.007",
+    "villageCode": "007",
+    "districtCode": "32.01.190",
+    "name": "Cikeas Udik",
+    "alias": "Cikeas Udik"
+  },
+  {
+    "code": "32.01.190.008",
+    "villageCode": "008",
+    "districtCode": "32.01.190",
+    "name": "Nagrak",
+    "alias": "Nagrak"
+  },
+  {
+    "code": "32.01.190.009",
+    "villageCode": "009",
+    "districtCode": "32.01.190",
+    "name": "Ciangsana",
+    "alias": "Ciangsana"
+  },
+  {
+    "code": "32.01.190.010",
+    "villageCode": "010",
+    "districtCode": "32.01.190",
+    "name": "Bojong Kulur",
+    "alias": "Bojong Kulur"
+  }
+]

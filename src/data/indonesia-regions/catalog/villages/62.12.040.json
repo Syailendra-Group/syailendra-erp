@@ -1,0 +1,72 @@
+[
+  {
+    "code": "62.12.040.001",
+    "villageCode": "001",
+    "districtCode": "62.12.040",
+    "name": "Pulau Padang",
+    "alias": "Pulau Padang"
+  },
+  {
+    "code": "62.12.040.002",
+    "villageCode": "002",
+    "districtCode": "62.12.040",
+    "name": "Ramania",
+    "alias": "Ramania"
+  },
+  {
+    "code": "62.12.040.003",
+    "villageCode": "003",
+    "districtCode": "62.12.040",
+    "name": "Kambitin",
+    "alias": "Kambitin"
+  },
+  {
+    "code": "62.12.040.004",
+    "villageCode": "004",
+    "districtCode": "62.12.040",
+    "name": "Bentot",
+    "alias": "Bentot"
+  },
+  {
+    "code": "62.12.040.005",
+    "villageCode": "005",
+    "districtCode": "62.12.040",
+    "name": "Ampari Bora",
+    "alias": "Ampari Bora"
+  },
+  {
+    "code": "62.12.040.006",
+    "villageCode": "006",
+    "districtCode": "62.12.040",
+    "name": "Kotam",
+    "alias": "Kotam"
+  },
+  {
+    "code": "62.12.040.007",
+    "villageCode": "007",
+    "districtCode": "62.12.040",
+    "name": "Betang Nalong",
+    "alias": "Betang Nalong"
+  },
+  {
+    "code": "62.12.040.008",
+    "villageCode": "008",
+    "districtCode": "62.12.040",
+    "name": "Mawani",
+    "alias": "Mawani"
+  },
+  {
+    "code": "62.12.040.009",
+    "villageCode": "009",
+    "districtCode": "62.12.040",
+    "name": "Jango",
+    "alias": "Jango"
+  },
+  {
+    "code": "62.12.040.010",
+    "villageCode": "010",
+    "districtCode": "62.12.040",
+    "name": "Lalap",
+    "alias": "Lalap"
+  }
+]

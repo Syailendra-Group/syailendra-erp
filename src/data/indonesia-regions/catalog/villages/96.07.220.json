@@ -1,0 +1,44 @@
+[
+  {
+    "code": "96.07.220.001",
+    "villageCode": "001",
+    "districtCode": "96.07.220",
+    "name": "Babe",
+    "alias": "Babe"
+  },
+  {
+    "code": "96.07.220.002",
+    "villageCode": "002",
+    "districtCode": "96.07.220",
+    "name": "Nungai",
+    "alias": "Nungai"
+  },
+  {
+    "code": "96.07.220.003",
+    "villageCode": "003",
+    "districtCode": "96.07.220",
+    "name": "Mugulip",
+    "alias": "Mugulip"
+  },
+  {
+    "code": "96.07.220.004",
+    "villageCode": "004",
+    "districtCode": "96.07.220",
+    "name": "Kelmabet",
+    "alias": "Kelmabet"
+  },
+  {
+    "code": "96.07.220.005",
+    "villageCode": "005",
+    "districtCode": "96.07.220",
+    "name": "Jenggeren",
+    "alias": "Jenggeren"
+  },
+  {
+    "code": "96.07.220.006",
+    "villageCode": "006",
+    "districtCode": "96.07.220",
+    "name": "Jambul",
+    "alias": "Jambul"
+  }
+]

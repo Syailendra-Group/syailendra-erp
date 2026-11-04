@@ -1,0 +1,58 @@
+[
+  {
+    "code": "63.02.050.001",
+    "villageCode": "001",
+    "districtCode": "63.02.050",
+    "name": "Sekapung",
+    "alias": "Sekapung"
+  },
+  {
+    "code": "63.02.050.002",
+    "villageCode": "002",
+    "districtCode": "63.02.050",
+    "name": "Kanibungan",
+    "alias": "Kanibungan"
+  },
+  {
+    "code": "63.02.050.003",
+    "villageCode": "003",
+    "districtCode": "63.02.050",
+    "name": "Mandin",
+    "alias": "Mandin"
+  },
+  {
+    "code": "63.02.050.004",
+    "villageCode": "004",
+    "districtCode": "63.02.050",
+    "name": "Belambus",
+    "alias": "Belambus"
+  },
+  {
+    "code": "63.02.050.005",
+    "villageCode": "005",
+    "districtCode": "63.02.050",
+    "name": "Sarakaman",
+    "alias": "Sarakaman"
+  },
+  {
+    "code": "63.02.050.006",
+    "villageCode": "006",
+    "districtCode": "63.02.050",
+    "name": "Sungai Bali",
+    "alias": "Sungai Bali"
+  },
+  {
+    "code": "63.02.050.007",
+    "villageCode": "007",
+    "districtCode": "63.02.050",
+    "name": "Rampa",
+    "alias": "Rampa"
+  },
+  {
+    "code": "63.02.050.008",
+    "villageCode": "008",
+    "districtCode": "63.02.050",
+    "name": "Ujung",
+    "alias": "Ujung"
+  }
+]

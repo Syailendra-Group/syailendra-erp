@@ -1,0 +1,79 @@
+[
+  {
+    "code": "12.13.150.001",
+    "villageCode": "001",
+    "districtCode": "12.13.150",
+    "name": "Paya Bengkuang",
+    "alias": "Paya Bengkuang"
+  },
+  {
+    "code": "12.13.150.002",
+    "villageCode": "002",
+    "districtCode": "12.13.150",
+    "name": "Air Hitam",
+    "alias": "Air Hitam"
+  },
+  {
+    "code": "12.13.150.003",
+    "villageCode": "003",
+    "districtCode": "12.13.150",
+    "name": "Padang Langkat",
+    "alias": "Padang Langkat"
+  },
+  {
+    "code": "12.13.150.004",
+    "villageCode": "004",
+    "districtCode": "12.13.150",
+    "name": "Paluh Manis",
+    "alias": "Paluh Manis"
+  },
+  {
+    "code": "12.13.150.005",
+    "villageCode": "005",
+    "districtCode": "12.13.150",
+    "name": "Pekan Gebang",
+    "alias": "Pekan Gebang"
+  },
+  {
+    "code": "12.13.150.006",
+    "villageCode": "006",
+    "districtCode": "12.13.150",
+    "name": "Dogang",
+    "alias": "Dogang"
+  },
+  {
+    "code": "12.13.150.007",
+    "villageCode": "007",
+    "districtCode": "12.13.150",
+    "name": "Sangga Lima Perkebunan Serapuh",
+    "alias": "Sangga Lima Perkebunan Serapuh"
+  },
+  {
+    "code": "12.13.150.008",
+    "villageCode": "008",
+    "districtCode": "12.13.150",
+    "name": "Pasar Rawa",
+    "alias": "Pasar Rawa"
+  },
+  {
+    "code": "12.13.150.009",
+    "villageCode": "009",
+    "districtCode": "12.13.150",
+    "name": "Kwala Gebang",
+    "alias": "Kwala Gebang"
+  },
+  {
+    "code": "12.13.150.010",
+    "villageCode": "010",
+    "districtCode": "12.13.150",
+    "name": "Bukit Mengkirai",
+    "alias": "Bukit Mengkirai"
+  },
+  {
+    "code": "12.13.150.011",
+    "villageCode": "011",
+    "districtCode": "12.13.150",
+    "name": "Pasiran",
+    "alias": "Pasiran"
+  }
+]

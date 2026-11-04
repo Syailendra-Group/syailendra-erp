@@ -1,0 +1,30 @@
+[
+  {
+    "code": "63.72.031.001",
+    "villageCode": "001",
+    "districtCode": "63.72.031",
+    "name": "Loktabat Utara",
+    "alias": "Loktabat Utara"
+  },
+  {
+    "code": "63.72.031.002",
+    "villageCode": "002",
+    "districtCode": "63.72.031",
+    "name": "Mentaos",
+    "alias": "Mentaos"
+  },
+  {
+    "code": "63.72.031.003",
+    "villageCode": "003",
+    "districtCode": "63.72.031",
+    "name": "Komet",
+    "alias": "Komet"
+  },
+  {
+    "code": "63.72.031.004",
+    "villageCode": "004",
+    "districtCode": "63.72.031",
+    "name": "Sungai Ulin",
+    "alias": "Sungai Ulin"
+  }
+]

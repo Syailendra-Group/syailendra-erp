@@ -1,0 +1,82 @@
+[
+  {
+    "code": "62.08.010",
+    "districtCode": "010",
+    "regencyCode": "62.08",
+    "provinceCode": "62",
+    "name": "Kecamatan Seruyan Hilir",
+    "alias": "Seruyan Hilir"
+  },
+  {
+    "code": "62.08.011",
+    "districtCode": "011",
+    "regencyCode": "62.08",
+    "provinceCode": "62",
+    "name": "Kecamatan Seruyan Hilir Timur",
+    "alias": "Seruyan Hilir Timur"
+  },
+  {
+    "code": "62.08.020",
+    "districtCode": "020",
+    "regencyCode": "62.08",
+    "provinceCode": "62",
+    "name": "Kecamatan Danau Sembuluh",
+    "alias": "Danau Sembuluh"
+  },
+  {
+    "code": "62.08.021",
+    "districtCode": "021",
+    "regencyCode": "62.08",
+    "provinceCode": "62",
+    "name": "Kecamatan Seruyan Raya",
+    "alias": "Seruyan Raya"
+  },
+  {
+    "code": "62.08.030",
+    "districtCode": "030",
+    "regencyCode": "62.08",
+    "provinceCode": "62",
+    "name": "Kecamatan Hanau",
+    "alias": "Hanau"
+  },
+  {
+    "code": "62.08.031",
+    "districtCode": "031",
+    "regencyCode": "62.08",
+    "provinceCode": "62",
+    "name": "Kecamatan Danau Seluluk",
+    "alias": "Danau Seluluk"
+  },
+  {
+    "code": "62.08.040",
+    "districtCode": "040",
+    "regencyCode": "62.08",
+    "provinceCode": "62",
+    "name": "Kecamatan Seruyan Tengah",
+    "alias": "Seruyan Tengah"
+  },
+  {
+    "code": "62.08.041",
+    "districtCode": "041",
+    "regencyCode": "62.08",
+    "provinceCode": "62",
+    "name": "Kecamatan Batu Ampar",
+    "alias": "Batu Ampar"
+  },
+  {
+    "code": "62.08.050",
+    "districtCode": "050",
+    "regencyCode": "62.08",
+    "provinceCode": "62",
+    "name": "Kecamatan Seruyan Hulu",
+    "alias": "Seruyan Hulu"
+  },
+  {
+    "code": "62.08.051",
+    "districtCode": "051",
+    "regencyCode": "62.08",
+    "provinceCode": "62",
+    "name": "Kecamatan Suling Tambun",
+    "alias": "Suling Tambun"
+  }
+]

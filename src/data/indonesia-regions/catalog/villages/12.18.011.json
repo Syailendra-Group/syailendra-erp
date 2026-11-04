@@ -1,0 +1,65 @@
+[
+  {
+    "code": "12.18.011.001",
+    "villageCode": "001",
+    "districtCode": "12.18.011",
+    "name": "Pamah",
+    "alias": "Pamah"
+  },
+  {
+    "code": "12.18.011.002",
+    "villageCode": "002",
+    "districtCode": "12.18.011",
+    "name": "Tarean",
+    "alias": "Tarean"
+  },
+  {
+    "code": "12.18.011.003",
+    "villageCode": "003",
+    "districtCode": "12.18.011",
+    "name": "Tapak Meriah",
+    "alias": "Tapak Meriah"
+  },
+  {
+    "code": "12.18.011.004",
+    "villageCode": "004",
+    "districtCode": "12.18.011",
+    "name": "Pagar Manik",
+    "alias": "Pagar Manik"
+  },
+  {
+    "code": "12.18.011.005",
+    "villageCode": "005",
+    "districtCode": "12.18.011",
+    "name": "Silinda",
+    "alias": "Silinda"
+  },
+  {
+    "code": "12.18.011.006",
+    "villageCode": "006",
+    "districtCode": "12.18.011",
+    "name": "Damak Gelugur",
+    "alias": "Damak Gelugur"
+  },
+  {
+    "code": "12.18.011.007",
+    "villageCode": "007",
+    "districtCode": "12.18.011",
+    "name": "Kulasar",
+    "alias": "Kulasar"
+  },
+  {
+    "code": "12.18.011.008",
+    "villageCode": "008",
+    "districtCode": "12.18.011",
+    "name": "Sungai Buaya",
+    "alias": "Sungai Buaya"
+  },
+  {
+    "code": "12.18.011.009",
+    "villageCode": "009",
+    "districtCode": "12.18.011",
+    "name": "Batu Masagi",
+    "alias": "Batu Masagi"
+  }
+]

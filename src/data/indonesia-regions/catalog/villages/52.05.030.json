@@ -1,0 +1,100 @@
+[
+  {
+    "code": "52.05.030.001",
+    "villageCode": "001",
+    "districtCode": "52.05.030",
+    "name": "Riwo",
+    "alias": "Riwo"
+  },
+  {
+    "code": "52.05.030.002",
+    "villageCode": "002",
+    "districtCode": "52.05.030",
+    "name": "Madaprama",
+    "alias": "Madaprama"
+  },
+  {
+    "code": "52.05.030.003",
+    "villageCode": "003",
+    "districtCode": "52.05.030",
+    "name": "Bara",
+    "alias": "Bara"
+  },
+  {
+    "code": "52.05.030.004",
+    "villageCode": "004",
+    "districtCode": "52.05.030",
+    "name": "Nowa",
+    "alias": "Nowa"
+  },
+  {
+    "code": "52.05.030.005",
+    "villageCode": "005",
+    "districtCode": "52.05.030",
+    "name": "Wawonduru",
+    "alias": "Wawonduru"
+  },
+  {
+    "code": "52.05.030.006",
+    "villageCode": "006",
+    "districtCode": "52.05.030",
+    "name": "Matua",
+    "alias": "Matua"
+  },
+  {
+    "code": "52.05.030.007",
+    "villageCode": "007",
+    "districtCode": "52.05.030",
+    "name": "Montabaru",
+    "alias": "Montabaru"
+  },
+  {
+    "code": "52.05.030.008",
+    "villageCode": "008",
+    "districtCode": "52.05.030",
+    "name": "Kandai Dua",
+    "alias": "Kandai Dua"
+  },
+  {
+    "code": "52.05.030.009",
+    "villageCode": "009",
+    "districtCode": "52.05.030",
+    "name": "Simpasai",
+    "alias": "Simpasai"
+  },
+  {
+    "code": "52.05.030.010",
+    "villageCode": "010",
+    "districtCode": "52.05.030",
+    "name": "Saneo",
+    "alias": "Saneo"
+  },
+  {
+    "code": "52.05.030.011",
+    "villageCode": "011",
+    "districtCode": "52.05.030",
+    "name": "Mumbu",
+    "alias": "Mumbu"
+  },
+  {
+    "code": "52.05.030.012",
+    "villageCode": "012",
+    "districtCode": "52.05.030",
+    "name": "Bakajaya",
+    "alias": "Bakajaya"
+  },
+  {
+    "code": "52.05.030.013",
+    "villageCode": "013",
+    "districtCode": "52.05.030",
+    "name": "Rababaka",
+    "alias": "Rababaka"
+  },
+  {
+    "code": "52.05.030.014",
+    "villageCode": "014",
+    "districtCode": "52.05.030",
+    "name": "Serakapi",
+    "alias": "Serakapi"
+  }
+]

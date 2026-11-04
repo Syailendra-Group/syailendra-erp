@@ -1,0 +1,65 @@
+[
+  {
+    "code": "73.11.120.001",
+    "villageCode": "001",
+    "districtCode": "73.11.120",
+    "name": "Turu Adae",
+    "alias": "Turu Adae"
+  },
+  {
+    "code": "73.11.120.002",
+    "villageCode": "002",
+    "districtCode": "73.11.120",
+    "name": "Mappesangka",
+    "alias": "Mappesangka"
+  },
+  {
+    "code": "73.11.120.003",
+    "villageCode": "003",
+    "districtCode": "73.11.120",
+    "name": "Salebba",
+    "alias": "Salebba"
+  },
+  {
+    "code": "73.11.120.004",
+    "villageCode": "004",
+    "districtCode": "73.11.120",
+    "name": "Salampe",
+    "alias": "Salampe"
+  },
+  {
+    "code": "73.11.120.005",
+    "villageCode": "005",
+    "districtCode": "73.11.120",
+    "name": "Bolli",
+    "alias": "Bolli"
+  },
+  {
+    "code": "73.11.120.006",
+    "villageCode": "006",
+    "districtCode": "73.11.120",
+    "name": "Pattimpa",
+    "alias": "Pattimpa"
+  },
+  {
+    "code": "73.11.120.007",
+    "villageCode": "007",
+    "districtCode": "73.11.120",
+    "name": "Poleonro",
+    "alias": "Poleonro"
+  },
+  {
+    "code": "73.11.120.008",
+    "villageCode": "008",
+    "districtCode": "73.11.120",
+    "name": "Tellu Boccoe",
+    "alias": "Tellu Boccoe"
+  },
+  {
+    "code": "73.11.120.009",
+    "villageCode": "009",
+    "districtCode": "73.11.120",
+    "name": "Mattampae",
+    "alias": "Mattampae"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "code": "32.74.040.001",
+    "villageCode": "001",
+    "districtCode": "32.74.040",
+    "name": "Karyamulya",
+    "alias": "Karyamulya"
+  },
+  {
+    "code": "32.74.040.002",
+    "villageCode": "002",
+    "districtCode": "32.74.040",
+    "name": "Sunyaragi",
+    "alias": "Sunyaragi"
+  },
+  {
+    "code": "32.74.040.003",
+    "villageCode": "003",
+    "districtCode": "32.74.040",
+    "name": "Drajat",
+    "alias": "Drajat"
+  },
+  {
+    "code": "32.74.040.004",
+    "villageCode": "004",
+    "districtCode": "32.74.040",
+    "name": "Kesambi",
+    "alias": "Kesambi"
+  },
+  {
+    "code": "32.74.040.005",
+    "villageCode": "005",
+    "districtCode": "32.74.040",
+    "name": "Pekiringan",
+    "alias": "Pekiringan"
+  }
+]

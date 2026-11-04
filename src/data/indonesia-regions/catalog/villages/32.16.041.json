@@ -1,0 +1,58 @@
+[
+  {
+    "code": "32.16.041.001",
+    "villageCode": "001",
+    "districtCode": "32.16.041",
+    "name": "Sertajaya",
+    "alias": "Sertajaya"
+  },
+  {
+    "code": "32.16.041.002",
+    "villageCode": "002",
+    "districtCode": "32.16.041",
+    "name": "Hegarmanah",
+    "alias": "Hegarmanah"
+  },
+  {
+    "code": "32.16.041.003",
+    "villageCode": "003",
+    "districtCode": "32.16.041",
+    "name": "Cipayung",
+    "alias": "Cipayung"
+  },
+  {
+    "code": "32.16.041.004",
+    "villageCode": "004",
+    "districtCode": "32.16.041",
+    "name": "Jatireja",
+    "alias": "Jatireja"
+  },
+  {
+    "code": "32.16.041.005",
+    "villageCode": "005",
+    "districtCode": "32.16.041",
+    "name": "Jatibaru",
+    "alias": "Jatibaru"
+  },
+  {
+    "code": "32.16.041.006",
+    "villageCode": "006",
+    "districtCode": "32.16.041",
+    "name": "Tanjungbaru",
+    "alias": "Tanjungbaru"
+  },
+  {
+    "code": "32.16.041.007",
+    "villageCode": "007",
+    "districtCode": "32.16.041",
+    "name": "Labansari",
+    "alias": "Labansari"
+  },
+  {
+    "code": "32.16.041.008",
+    "villageCode": "008",
+    "districtCode": "32.16.041",
+    "name": "Karangsari",
+    "alias": "Karangsari"
+  }
+]

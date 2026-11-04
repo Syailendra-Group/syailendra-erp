@@ -1,0 +1,86 @@
+[
+  {
+    "code": "12.14.024.001",
+    "villageCode": "001",
+    "districtCode": "12.14.024",
+    "name": "Wawa",
+    "alias": "Wawa"
+  },
+  {
+    "code": "12.14.024.002",
+    "villageCode": "002",
+    "districtCode": "12.14.024",
+    "name": "Teluk Limo",
+    "alias": "Teluk Limo"
+  },
+  {
+    "code": "12.14.024.003",
+    "villageCode": "003",
+    "districtCode": "12.14.024",
+    "name": "Bale Bale",
+    "alias": "Bale Bale"
+  },
+  {
+    "code": "12.14.024.005",
+    "villageCode": "005",
+    "districtCode": "12.14.024",
+    "name": "Marit Baru",
+    "alias": "Marit Baru"
+  },
+  {
+    "code": "12.14.024.006",
+    "villageCode": "006",
+    "districtCode": "12.14.024",
+    "name": "Silima Banua Marit",
+    "alias": "Silima Banua Marit"
+  },
+  {
+    "code": "12.14.024.009",
+    "villageCode": "009",
+    "districtCode": "12.14.024",
+    "name": "Majino Lorang",
+    "alias": "Majino Lorang"
+  },
+  {
+    "code": "12.14.024.010",
+    "villageCode": "010",
+    "districtCode": "12.14.024",
+    "name": "Siofa Banua Lorang",
+    "alias": "Siofa Banua Lorang"
+  },
+  {
+    "code": "12.14.024.011",
+    "villageCode": "011",
+    "districtCode": "12.14.024",
+    "name": "Limo Biang",
+    "alias": "Limo Biang"
+  },
+  {
+    "code": "12.14.024.012",
+    "villageCode": "012",
+    "districtCode": "12.14.024",
+    "name": "Ziabiang",
+    "alias": "Ziabiang"
+  },
+  {
+    "code": "12.14.024.013",
+    "villageCode": "013",
+    "districtCode": "12.14.024",
+    "name": "Memong",
+    "alias": "Memong"
+  },
+  {
+    "code": "12.14.024.014",
+    "villageCode": "014",
+    "districtCode": "12.14.024",
+    "name": "Afore",
+    "alias": "Afore"
+  },
+  {
+    "code": "12.14.024.015",
+    "villageCode": "015",
+    "districtCode": "12.14.024",
+    "name": "Bale-Bale Sibohou",
+    "alias": "Bale-Bale Sibohou"
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "code": "35.24.140.001",
+    "villageCode": "001",
+    "districtCode": "35.24.140",
+    "name": "Kelorarum",
+    "alias": "Kelorarum"
+  },
+  {
+    "code": "35.24.140.002",
+    "villageCode": "002",
+    "districtCode": "35.24.140",
+    "name": "Soko",
+    "alias": "Soko"
+  },
+  {
+    "code": "35.24.140.003",
+    "villageCode": "003",
+    "districtCode": "35.24.140",
+    "name": "Balongwangi",
+    "alias": "Balongwangi"
+  },
+  {
+    "code": "35.24.140.004",
+    "villageCode": "004",
+    "districtCode": "35.24.140",
+    "name": "Wonokromo",
+    "alias": "Wonokromo"
+  },
+  {
+    "code": "35.24.140.005",
+    "villageCode": "005",
+    "districtCode": "35.24.140",
+    "name": "Takeranklating",
+    "alias": "Takeranklating"
+  },
+  {
+    "code": "35.24.140.006",
+    "villageCode": "006",
+    "districtCode": "35.24.140",
+    "name": "Botoputih",
+    "alias": "Botoputih"
+  },
+  {
+    "code": "35.24.140.013",
+    "villageCode": "013",
+    "districtCode": "35.24.140",
+    "name": "Dukuhagung",
+    "alias": "Dukuhagung"
+  },
+  {
+    "code": "35.24.140.014",
+    "villageCode": "014",
+    "districtCode": "35.24.140",
+    "name": "Pengumbulanadi",
+    "alias": "Pengumbulanadi"
+  },
+  {
+    "code": "35.24.140.015",
+    "villageCode": "015",
+    "districtCode": "35.24.140",
+    "name": "Bakalanpule",
+    "alias": "Bakalanpule"
+  },
+  {
+    "code": "35.24.140.016",
+    "villageCode": "016",
+    "districtCode": "35.24.140",
+    "name": "Guminingrejo",
+    "alias": "Guminingrejo"
+  },
+  {
+    "code": "35.24.140.017",
+    "villageCode": "017",
+    "districtCode": "35.24.140",
+    "name": "Jotosanur",
+    "alias": "Jotosanur"
+  },
+  {
+    "code": "35.24.140.018",
+    "villageCode": "018",
+    "districtCode": "35.24.140",
+    "name": "Jatirejo",
+    "alias": "Jatirejo"
+  },
+  {
+    "code": "35.24.140.019",
+    "villageCode": "019",
+    "districtCode": "35.24.140",
+    "name": "Tambakrigadung",
+    "alias": "Tambakrigadung"
+  }
+]

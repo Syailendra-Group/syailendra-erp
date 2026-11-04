@@ -1,0 +1,30 @@
+[
+  {
+    "code": "92.71.070.001",
+    "villageCode": "001",
+    "districtCode": "92.71.070",
+    "name": "Kampung Baru",
+    "alias": "Kampung Baru"
+  },
+  {
+    "code": "92.71.070.002",
+    "villageCode": "002",
+    "districtCode": "92.71.070",
+    "name": "Klakublik",
+    "alias": "Klakublik"
+  },
+  {
+    "code": "92.71.070.003",
+    "villageCode": "003",
+    "districtCode": "92.71.070",
+    "name": "Klabala",
+    "alias": "Klabala"
+  },
+  {
+    "code": "92.71.070.004",
+    "villageCode": "004",
+    "districtCode": "92.71.070",
+    "name": "Klasuur",
+    "alias": "Klasuur"
+  }
+]

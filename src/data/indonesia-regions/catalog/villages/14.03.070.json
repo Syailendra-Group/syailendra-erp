@@ -1,0 +1,65 @@
+[
+  {
+    "code": "14.03.070.009",
+    "villageCode": "009",
+    "districtCode": "14.03.070",
+    "name": "Tempuling",
+    "alias": "Tempuling"
+  },
+  {
+    "code": "14.03.070.010",
+    "villageCode": "010",
+    "districtCode": "14.03.070",
+    "name": "Sungai Salak",
+    "alias": "Sungai Salak"
+  },
+  {
+    "code": "14.03.070.011",
+    "villageCode": "011",
+    "districtCode": "14.03.070",
+    "name": "Teluk Jira",
+    "alias": "Teluk Jira"
+  },
+  {
+    "code": "14.03.070.012",
+    "villageCode": "012",
+    "districtCode": "14.03.070",
+    "name": "Mumpa",
+    "alias": "Mumpa"
+  },
+  {
+    "code": "14.03.070.013",
+    "villageCode": "013",
+    "districtCode": "14.03.070",
+    "name": "Teluk Kiambang",
+    "alias": "Teluk Kiambang"
+  },
+  {
+    "code": "14.03.070.014",
+    "villageCode": "014",
+    "districtCode": "14.03.070",
+    "name": "Karya Tunas Jaya",
+    "alias": "Karya Tunas Jaya"
+  },
+  {
+    "code": "14.03.070.015",
+    "villageCode": "015",
+    "districtCode": "14.03.070",
+    "name": "Harapan Jaya",
+    "alias": "Harapan Jaya"
+  },
+  {
+    "code": "14.03.070.016",
+    "villageCode": "016",
+    "districtCode": "14.03.070",
+    "name": "Tanjung Pidada",
+    "alias": "Tanjung Pidada"
+  },
+  {
+    "code": "14.03.070.017",
+    "villageCode": "017",
+    "districtCode": "14.03.070",
+    "name": "Pangkalan Tujuh",
+    "alias": "Pangkalan Tujuh"
+  }
+]

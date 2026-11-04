@@ -1,0 +1,114 @@
+[
+  {
+    "code": "76.01.030.001",
+    "villageCode": "001",
+    "districtCode": "76.01.030",
+    "name": "Mosso Dua",
+    "alias": "Mosso Dua"
+  },
+  {
+    "code": "76.01.030.002",
+    "villageCode": "002",
+    "districtCode": "76.01.030",
+    "name": "Mosso",
+    "alias": "Mosso"
+  },
+  {
+    "code": "76.01.030.003",
+    "villageCode": "003",
+    "districtCode": "76.01.030",
+    "name": "Puttada",
+    "alias": "Puttada"
+  },
+  {
+    "code": "76.01.030.004",
+    "villageCode": "004",
+    "districtCode": "76.01.030",
+    "name": "Sendana",
+    "alias": "Sendana"
+  },
+  {
+    "code": "76.01.030.005",
+    "villageCode": "005",
+    "districtCode": "76.01.030",
+    "name": "Tallum Banua",
+    "alias": "Tallum Banua"
+  },
+  {
+    "code": "76.01.030.011",
+    "villageCode": "011",
+    "districtCode": "76.01.030",
+    "name": "Pundau",
+    "alias": "Pundau"
+  },
+  {
+    "code": "76.01.030.012",
+    "villageCode": "012",
+    "districtCode": "76.01.030",
+    "name": "Bukit Samang",
+    "alias": "Bukit Samang"
+  },
+  {
+    "code": "76.01.030.013",
+    "villageCode": "013",
+    "districtCode": "76.01.030",
+    "name": "Limbua",
+    "alias": "Limbua"
+  },
+  {
+    "code": "76.01.030.014",
+    "villageCode": "014",
+    "districtCode": "76.01.030",
+    "name": "Lalatedong",
+    "alias": "Lalatedong"
+  },
+  {
+    "code": "76.01.030.015",
+    "villageCode": "015",
+    "districtCode": "76.01.030",
+    "name": "Paminggalan",
+    "alias": "Paminggalan"
+  },
+  {
+    "code": "76.01.030.016",
+    "villageCode": "016",
+    "districtCode": "76.01.030",
+    "name": "Totolisi Sendana",
+    "alias": "Totolisi Sendana"
+  },
+  {
+    "code": "76.01.030.017",
+    "villageCode": "017",
+    "districtCode": "76.01.030",
+    "name": "Banua Sendana",
+    "alias": "Banua Sendana"
+  },
+  {
+    "code": "76.01.030.018",
+    "villageCode": "018",
+    "districtCode": "76.01.030",
+    "name": "Tallu Banua Utara",
+    "alias": "Tallu Banua Utara"
+  },
+  {
+    "code": "76.01.030.019",
+    "villageCode": "019",
+    "districtCode": "76.01.030",
+    "name": "Limboro Rambu-Rambu",
+    "alias": "Limboro Rambu-Rambu"
+  },
+  {
+    "code": "76.01.030.020",
+    "villageCode": "020",
+    "districtCode": "76.01.030",
+    "name": "Leppangan",
+    "alias": "Leppangan"
+  },
+  {
+    "code": "76.01.030.021",
+    "villageCode": "021",
+    "districtCode": "76.01.030",
+    "name": "Binanga",
+    "alias": "Binanga"
+  }
+]

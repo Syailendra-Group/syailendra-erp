@@ -1,0 +1,44 @@
+[
+  {
+    "code": "74.02.011.001",
+    "villageCode": "001",
+    "districtCode": "74.02.011",
+    "name": "Kulidawa",
+    "alias": "Kulidawa"
+  },
+  {
+    "code": "74.02.011.002",
+    "villageCode": "002",
+    "districtCode": "74.02.011",
+    "name": "Wale-Ale",
+    "alias": "Wale-Ale"
+  },
+  {
+    "code": "74.02.011.003",
+    "villageCode": "003",
+    "districtCode": "74.02.011",
+    "name": "Labasa",
+    "alias": "Labasa"
+  },
+  {
+    "code": "74.02.011.004",
+    "villageCode": "004",
+    "districtCode": "74.02.011",
+    "name": "Lawama",
+    "alias": "Lawama"
+  },
+  {
+    "code": "74.02.011.005",
+    "villageCode": "005",
+    "districtCode": "74.02.011",
+    "name": "Watondo",
+    "alias": "Watondo"
+  },
+  {
+    "code": "74.02.011.006",
+    "villageCode": "006",
+    "districtCode": "74.02.011",
+    "name": "Lianosa",
+    "alias": "Lianosa"
+  }
+]

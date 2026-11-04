@@ -1,0 +1,58 @@
+[
+  {
+    "code": "75.01.031",
+    "districtCode": "031",
+    "regencyCode": "75.01",
+    "provinceCode": "75",
+    "name": "Kecamatan Mananggu",
+    "alias": "Mananggu"
+  },
+  {
+    "code": "75.01.040",
+    "districtCode": "040",
+    "regencyCode": "75.01",
+    "provinceCode": "75",
+    "name": "Kecamatan Tilamuta",
+    "alias": "Tilamuta"
+  },
+  {
+    "code": "75.01.041",
+    "districtCode": "041",
+    "regencyCode": "75.01",
+    "provinceCode": "75",
+    "name": "Kecamatan Dulupi",
+    "alias": "Dulupi"
+  },
+  {
+    "code": "75.01.042",
+    "districtCode": "042",
+    "regencyCode": "75.01",
+    "provinceCode": "75",
+    "name": "Kecamatan Botumoito",
+    "alias": "Botumoito"
+  },
+  {
+    "code": "75.01.050",
+    "districtCode": "050",
+    "regencyCode": "75.01",
+    "provinceCode": "75",
+    "name": "Kecamatan Paguyaman",
+    "alias": "Paguyaman"
+  },
+  {
+    "code": "75.01.051",
+    "districtCode": "051",
+    "regencyCode": "75.01",
+    "provinceCode": "75",
+    "name": "Kecamatan Wonosari",
+    "alias": "Wonosari"
+  },
+  {
+    "code": "75.01.052",
+    "districtCode": "052",
+    "regencyCode": "75.01",
+    "provinceCode": "75",
+    "name": "Kecamatan Paguyaman Pantai",
+    "alias": "Paguyaman Pantai"
+  }
+]

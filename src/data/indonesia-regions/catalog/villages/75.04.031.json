@@ -1,0 +1,58 @@
+[
+  {
+    "code": "75.04.031.001",
+    "villageCode": "001",
+    "districtCode": "75.04.031",
+    "name": "Bulontala",
+    "alias": "Bulontala"
+  },
+  {
+    "code": "75.04.031.002",
+    "villageCode": "002",
+    "districtCode": "75.04.031",
+    "name": "Libungo",
+    "alias": "Libungo"
+  },
+  {
+    "code": "75.04.031.003",
+    "villageCode": "003",
+    "districtCode": "75.04.031",
+    "name": "Molintogupo",
+    "alias": "Molintogupo"
+  },
+  {
+    "code": "75.04.031.004",
+    "villageCode": "004",
+    "districtCode": "75.04.031",
+    "name": "Bonedaa",
+    "alias": "Bonedaa"
+  },
+  {
+    "code": "75.04.031.005",
+    "villageCode": "005",
+    "districtCode": "75.04.031",
+    "name": "Bondawuna",
+    "alias": "Bondawuna"
+  },
+  {
+    "code": "75.04.031.006",
+    "villageCode": "006",
+    "districtCode": "75.04.031",
+    "name": "Bulontala Timur",
+    "alias": "Bulontala Timur"
+  },
+  {
+    "code": "75.04.031.007",
+    "villageCode": "007",
+    "districtCode": "75.04.031",
+    "name": "Pancuran",
+    "alias": "Pancuran"
+  },
+  {
+    "code": "75.04.031.008",
+    "villageCode": "008",
+    "districtCode": "75.04.031",
+    "name": "Bonda Raya",
+    "alias": "Bonda Raya"
+  }
+]

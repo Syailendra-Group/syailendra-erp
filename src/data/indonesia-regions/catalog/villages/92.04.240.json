@@ -1,0 +1,65 @@
+[
+  {
+    "code": "92.04.240.001",
+    "villageCode": "001",
+    "districtCode": "92.04.240",
+    "name": "Mahos",
+    "alias": "Mahos"
+  },
+  {
+    "code": "92.04.240.002",
+    "villageCode": "002",
+    "districtCode": "92.04.240",
+    "name": "Suswa",
+    "alias": "Suswa"
+  },
+  {
+    "code": "92.04.240.003",
+    "villageCode": "003",
+    "districtCode": "92.04.240",
+    "name": "Kombif",
+    "alias": "Kombif"
+  },
+  {
+    "code": "92.04.240.004",
+    "villageCode": "004",
+    "districtCode": "92.04.240",
+    "name": "Bakrabi",
+    "alias": "Bakrabi"
+  },
+  {
+    "code": "92.04.240.005",
+    "villageCode": "005",
+    "districtCode": "92.04.240",
+    "name": "Waban",
+    "alias": "Waban"
+  },
+  {
+    "code": "92.04.240.006",
+    "villageCode": "006",
+    "districtCode": "92.04.240",
+    "name": "Sawo",
+    "alias": "Sawo"
+  },
+  {
+    "code": "92.04.240.007",
+    "villageCode": "007",
+    "districtCode": "92.04.240",
+    "name": "Nafasi",
+    "alias": "Nafasi"
+  },
+  {
+    "code": "92.04.240.008",
+    "villageCode": "008",
+    "districtCode": "92.04.240",
+    "name": "Seya",
+    "alias": "Seya"
+  },
+  {
+    "code": "92.04.240.009",
+    "villageCode": "009",
+    "districtCode": "92.04.240",
+    "name": "Rufases",
+    "alias": "Rufases"
+  }
+]

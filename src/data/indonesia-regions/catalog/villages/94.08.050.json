@@ -1,0 +1,79 @@
+[
+  {
+    "code": "94.08.050.008",
+    "villageCode": "008",
+    "districtCode": "94.08.050",
+    "name": "Wadapi",
+    "alias": "Wadapi"
+  },
+  {
+    "code": "94.08.050.009",
+    "villageCode": "009",
+    "districtCode": "94.08.050",
+    "name": "Wawuti",
+    "alias": "Wawuti"
+  },
+  {
+    "code": "94.08.050.010",
+    "villageCode": "010",
+    "districtCode": "94.08.050",
+    "name": "Kainui I",
+    "alias": "Kainui I"
+  },
+  {
+    "code": "94.08.050.011",
+    "villageCode": "011",
+    "districtCode": "94.08.050",
+    "name": "Kainui Ii",
+    "alias": "Kainui Ii"
+  },
+  {
+    "code": "94.08.050.012",
+    "villageCode": "012",
+    "districtCode": "94.08.050",
+    "name": "Ransarnoni",
+    "alias": "Ransarnoni"
+  },
+  {
+    "code": "94.08.050.013",
+    "villageCode": "013",
+    "districtCode": "94.08.050",
+    "name": "Aitiri",
+    "alias": "Aitiri"
+  },
+  {
+    "code": "94.08.050.014",
+    "villageCode": "014",
+    "districtCode": "94.08.050",
+    "name": "Menawi",
+    "alias": "Menawi"
+  },
+  {
+    "code": "94.08.050.015",
+    "villageCode": "015",
+    "districtCode": "94.08.050",
+    "name": "Roipi",
+    "alias": "Roipi"
+  },
+  {
+    "code": "94.08.050.024",
+    "villageCode": "024",
+    "districtCode": "94.08.050",
+    "name": "Wanampompi",
+    "alias": "Wanampompi"
+  },
+  {
+    "code": "94.08.050.025",
+    "villageCode": "025",
+    "districtCode": "94.08.050",
+    "name": "Roipi Ii",
+    "alias": "Roipi Ii"
+  },
+  {
+    "code": "94.08.050.026",
+    "villageCode": "026",
+    "districtCode": "94.08.050",
+    "name": "Mananayam",
+    "alias": "Mananayam"
+  }
+]

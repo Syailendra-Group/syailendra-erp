@@ -1,0 +1,72 @@
+[
+  {
+    "code": "35.10.110.001",
+    "villageCode": "001",
+    "districtCode": "35.10.110",
+    "name": "Sumbersari",
+    "alias": "Sumbersari"
+  },
+  {
+    "code": "35.10.110.002",
+    "villageCode": "002",
+    "districtCode": "35.10.110",
+    "name": "Kepundungan",
+    "alias": "Kepundungan"
+  },
+  {
+    "code": "35.10.110.003",
+    "villageCode": "003",
+    "districtCode": "35.10.110",
+    "name": "Kebaman",
+    "alias": "Kebaman"
+  },
+  {
+    "code": "35.10.110.004",
+    "villageCode": "004",
+    "districtCode": "35.10.110",
+    "name": "Sukonatar",
+    "alias": "Sukonatar"
+  },
+  {
+    "code": "35.10.110.005",
+    "villageCode": "005",
+    "districtCode": "35.10.110",
+    "name": "Bagorejo",
+    "alias": "Bagorejo"
+  },
+  {
+    "code": "35.10.110.006",
+    "villageCode": "006",
+    "districtCode": "35.10.110",
+    "name": "Rejoagung",
+    "alias": "Rejoagung"
+  },
+  {
+    "code": "35.10.110.007",
+    "villageCode": "007",
+    "districtCode": "35.10.110",
+    "name": "Wonosobo",
+    "alias": "Wonosobo"
+  },
+  {
+    "code": "35.10.110.008",
+    "villageCode": "008",
+    "districtCode": "35.10.110",
+    "name": "Sukomaju",
+    "alias": "Sukomaju"
+  },
+  {
+    "code": "35.10.110.009",
+    "villageCode": "009",
+    "districtCode": "35.10.110",
+    "name": "Parijatah Wetan",
+    "alias": "Parijatah Wetan"
+  },
+  {
+    "code": "35.10.110.010",
+    "villageCode": "010",
+    "districtCode": "35.10.110",
+    "name": "Parijatah Kulon",
+    "alias": "Parijatah Kulon"
+  }
+]

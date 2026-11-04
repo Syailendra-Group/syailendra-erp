@@ -1,0 +1,58 @@
+[
+  {
+    "code": "74.13.080.001",
+    "villageCode": "001",
+    "districtCode": "74.13.080",
+    "name": "Barangka",
+    "alias": "Barangka"
+  },
+  {
+    "code": "74.13.080.002",
+    "villageCode": "002",
+    "districtCode": "74.13.080",
+    "name": "Sawerigadi",
+    "alias": "Sawerigadi"
+  },
+  {
+    "code": "74.13.080.003",
+    "villageCode": "003",
+    "districtCode": "74.13.080",
+    "name": "Bungkolo",
+    "alias": "Bungkolo"
+  },
+  {
+    "code": "74.13.080.004",
+    "villageCode": "004",
+    "districtCode": "74.13.080",
+    "name": "Lapolea",
+    "alias": "Lapolea"
+  },
+  {
+    "code": "74.13.080.005",
+    "villageCode": "005",
+    "districtCode": "74.13.080",
+    "name": "Walelei",
+    "alias": "Walelei"
+  },
+  {
+    "code": "74.13.080.006",
+    "villageCode": "006",
+    "districtCode": "74.13.080",
+    "name": "Waulai",
+    "alias": "Waulai"
+  },
+  {
+    "code": "74.13.080.007",
+    "villageCode": "007",
+    "districtCode": "74.13.080",
+    "name": "Lafinde",
+    "alias": "Lafinde"
+  },
+  {
+    "code": "74.13.080.008",
+    "villageCode": "008",
+    "districtCode": "74.13.080",
+    "name": "W U N A",
+    "alias": "W U N A"
+  }
+]

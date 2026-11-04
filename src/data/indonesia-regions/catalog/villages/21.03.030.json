@@ -1,0 +1,23 @@
+[
+  {
+    "code": "21.03.030.001",
+    "villageCode": "001",
+    "districtCode": "21.03.030",
+    "name": "Sebelat",
+    "alias": "Sebelat"
+  },
+  {
+    "code": "21.03.030.003",
+    "villageCode": "003",
+    "districtCode": "21.03.030",
+    "name": "Sabang Barat",
+    "alias": "Sabang Barat"
+  },
+  {
+    "code": "21.03.030.005",
+    "villageCode": "005",
+    "districtCode": "21.03.030",
+    "name": "Air Putih",
+    "alias": "Air Putih"
+  }
+]

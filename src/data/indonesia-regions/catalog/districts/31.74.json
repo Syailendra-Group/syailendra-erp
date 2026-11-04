@@ -1,0 +1,66 @@
+[
+  {
+    "code": "31.74.010",
+    "districtCode": "010",
+    "regencyCode": "31.74",
+    "provinceCode": "31",
+    "name": "Kecamatan Kembangan",
+    "alias": "Kembangan"
+  },
+  {
+    "code": "31.74.020",
+    "districtCode": "020",
+    "regencyCode": "31.74",
+    "provinceCode": "31",
+    "name": "Kecamatan Kebon Jeruk",
+    "alias": "Kebon Jeruk"
+  },
+  {
+    "code": "31.74.030",
+    "districtCode": "030",
+    "regencyCode": "31.74",
+    "provinceCode": "31",
+    "name": "Kecamatan Palmerah",
+    "alias": "Palmerah"
+  },
+  {
+    "code": "31.74.040",
+    "districtCode": "040",
+    "regencyCode": "31.74",
+    "provinceCode": "31",
+    "name": "Kecamatan Grogol Petamburan",
+    "alias": "Grogol Petamburan"
+  },
+  {
+    "code": "31.74.050",
+    "districtCode": "050",
+    "regencyCode": "31.74",
+    "provinceCode": "31",
+    "name": "Kecamatan Tambora",
+    "alias": "Tambora"
+  },
+  {
+    "code": "31.74.060",
+    "districtCode": "060",
+    "regencyCode": "31.74",
+    "provinceCode": "31",
+    "name": "Kecamatan Taman Sari",
+    "alias": "Taman Sari"
+  },
+  {
+    "code": "31.74.070",
+    "districtCode": "070",
+    "regencyCode": "31.74",
+    "provinceCode": "31",
+    "name": "Kecamatan Cengkareng",
+    "alias": "Cengkareng"
+  },
+  {
+    "code": "31.74.080",
+    "districtCode": "080",
+    "regencyCode": "31.74",
+    "provinceCode": "31",
+    "name": "Kecamatan Kali Deres",
+    "alias": "Kali Deres"
+  }
+]

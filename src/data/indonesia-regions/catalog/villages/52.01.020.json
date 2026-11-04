@@ -1,0 +1,100 @@
+[
+  {
+    "code": "52.01.020.003",
+    "villageCode": "003",
+    "districtCode": "52.01.020",
+    "name": "Banyu Urip",
+    "alias": "Banyu Urip"
+  },
+  {
+    "code": "52.01.020.004",
+    "villageCode": "004",
+    "districtCode": "52.01.020",
+    "name": "Dasan Geres",
+    "alias": "Dasan Geres"
+  },
+  {
+    "code": "52.01.020.005",
+    "villageCode": "005",
+    "districtCode": "52.01.020",
+    "name": "Babussalam",
+    "alias": "Babussalam"
+  },
+  {
+    "code": "52.01.020.006",
+    "villageCode": "006",
+    "districtCode": "52.01.020",
+    "name": "Dasan Tapen",
+    "alias": "Dasan Tapen"
+  },
+  {
+    "code": "52.01.020.007",
+    "villageCode": "007",
+    "districtCode": "52.01.020",
+    "name": "Beleke",
+    "alias": "Beleke"
+  },
+  {
+    "code": "52.01.020.009",
+    "villageCode": "009",
+    "districtCode": "52.01.020",
+    "name": "Kebunayu",
+    "alias": "Kebunayu"
+  },
+  {
+    "code": "52.01.020.010",
+    "villageCode": "010",
+    "districtCode": "52.01.020",
+    "name": "Gapuk",
+    "alias": "Gapuk"
+  },
+  {
+    "code": "52.01.020.011",
+    "villageCode": "011",
+    "districtCode": "52.01.020",
+    "name": "Suka Makmur",
+    "alias": "Suka Makmur"
+  },
+  {
+    "code": "52.01.020.012",
+    "villageCode": "012",
+    "districtCode": "52.01.020",
+    "name": "Tempos",
+    "alias": "Tempos"
+  },
+  {
+    "code": "52.01.020.013",
+    "villageCode": "013",
+    "districtCode": "52.01.020",
+    "name": "Gerung Selatan",
+    "alias": "Gerung Selatan"
+  },
+  {
+    "code": "52.01.020.014",
+    "villageCode": "014",
+    "districtCode": "52.01.020",
+    "name": "Gerung Utara",
+    "alias": "Gerung Utara"
+  },
+  {
+    "code": "52.01.020.015",
+    "villageCode": "015",
+    "districtCode": "52.01.020",
+    "name": "Mesanggok",
+    "alias": "Mesanggok"
+  },
+  {
+    "code": "52.01.020.016",
+    "villageCode": "016",
+    "districtCode": "52.01.020",
+    "name": "Giri Tembesi",
+    "alias": "Giri Tembesi"
+  },
+  {
+    "code": "52.01.020.017",
+    "villageCode": "017",
+    "districtCode": "52.01.020",
+    "name": "Taman Ayu",
+    "alias": "Taman Ayu"
+  }
+]

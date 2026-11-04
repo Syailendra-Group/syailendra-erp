@@ -1,0 +1,30 @@
+[
+  {
+    "code": "53.06.062.001",
+    "villageCode": "001",
+    "districtCode": "53.06.062",
+    "name": "Fatukbot",
+    "alias": "Fatukbot"
+  },
+  {
+    "code": "53.06.062.002",
+    "villageCode": "002",
+    "districtCode": "53.06.062",
+    "name": "Lidak",
+    "alias": "Lidak"
+  },
+  {
+    "code": "53.06.062.003",
+    "villageCode": "003",
+    "districtCode": "53.06.062",
+    "name": "Manuaman",
+    "alias": "Manuaman"
+  },
+  {
+    "code": "53.06.062.004",
+    "villageCode": "004",
+    "districtCode": "53.06.062",
+    "name": "Rinbesi",
+    "alias": "Rinbesi"
+  }
+]

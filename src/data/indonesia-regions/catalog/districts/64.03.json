@@ -1,0 +1,162 @@
+[
+  {
+    "code": "64.03.010",
+    "districtCode": "010",
+    "regencyCode": "64.03",
+    "provinceCode": "64",
+    "name": "Kecamatan Samboja",
+    "alias": "Samboja"
+  },
+  {
+    "code": "64.03.011",
+    "districtCode": "011",
+    "regencyCode": "64.03",
+    "provinceCode": "64",
+    "name": "Kecamatan Samboja Barat",
+    "alias": "Samboja Barat"
+  },
+  {
+    "code": "64.03.020",
+    "districtCode": "020",
+    "regencyCode": "64.03",
+    "provinceCode": "64",
+    "name": "Kecamatan Muara Jawa",
+    "alias": "Muara Jawa"
+  },
+  {
+    "code": "64.03.030",
+    "districtCode": "030",
+    "regencyCode": "64.03",
+    "provinceCode": "64",
+    "name": "Kecamatan Sanga-Sanga",
+    "alias": "Sanga-Sanga"
+  },
+  {
+    "code": "64.03.040",
+    "districtCode": "040",
+    "regencyCode": "64.03",
+    "provinceCode": "64",
+    "name": "Kecamatan Loa Janan",
+    "alias": "Loa Janan"
+  },
+  {
+    "code": "64.03.050",
+    "districtCode": "050",
+    "regencyCode": "64.03",
+    "provinceCode": "64",
+    "name": "Kecamatan Loa Kulu",
+    "alias": "Loa Kulu"
+  },
+  {
+    "code": "64.03.060",
+    "districtCode": "060",
+    "regencyCode": "64.03",
+    "provinceCode": "64",
+    "name": "Kecamatan Muara Muntai",
+    "alias": "Muara Muntai"
+  },
+  {
+    "code": "64.03.070",
+    "districtCode": "070",
+    "regencyCode": "64.03",
+    "provinceCode": "64",
+    "name": "Kecamatan Muara Wis",
+    "alias": "Muara Wis"
+  },
+  {
+    "code": "64.03.080",
+    "districtCode": "080",
+    "regencyCode": "64.03",
+    "provinceCode": "64",
+    "name": "Kecamatan Kota Bangun",
+    "alias": "Kota Bangun"
+  },
+  {
+    "code": "64.03.081",
+    "districtCode": "081",
+    "regencyCode": "64.03",
+    "provinceCode": "64",
+    "name": "Kecamatan Kota Bangun Darat",
+    "alias": "Kota Bangun Darat"
+  },
+  {
+    "code": "64.03.090",
+    "districtCode": "090",
+    "regencyCode": "64.03",
+    "provinceCode": "64",
+    "name": "Kecamatan Tenggarong",
+    "alias": "Tenggarong"
+  },
+  {
+    "code": "64.03.100",
+    "districtCode": "100",
+    "regencyCode": "64.03",
+    "provinceCode": "64",
+    "name": "Kecamatan Sebulu",
+    "alias": "Sebulu"
+  },
+  {
+    "code": "64.03.110",
+    "districtCode": "110",
+    "regencyCode": "64.03",
+    "provinceCode": "64",
+    "name": "Kecamatan Tenggarong Seberang",
+    "alias": "Tenggarong Seberang"
+  },
+  {
+    "code": "64.03.120",
+    "districtCode": "120",
+    "regencyCode": "64.03",
+    "provinceCode": "64",
+    "name": "Kecamatan Anggana",
+    "alias": "Anggana"
+  },
+  {
+    "code": "64.03.130",
+    "districtCode": "130",
+    "regencyCode": "64.03",
+    "provinceCode": "64",
+    "name": "Kecamatan Muara Badak",
+    "alias": "Muara Badak"
+  },
+  {
+    "code": "64.03.140",
+    "districtCode": "140",
+    "regencyCode": "64.03",
+    "provinceCode": "64",
+    "name": "Kecamatan Marang Kayu",
+    "alias": "Marang Kayu"
+  },
+  {
+    "code": "64.03.150",
+    "districtCode": "150",
+    "regencyCode": "64.03",
+    "provinceCode": "64",
+    "name": "Kecamatan Muara Kaman",
+    "alias": "Muara Kaman"
+  },
+  {
+    "code": "64.03.160",
+    "districtCode": "160",
+    "regencyCode": "64.03",
+    "provinceCode": "64",
+    "name": "Kecamatan Kenohan",
+    "alias": "Kenohan"
+  },
+  {
+    "code": "64.03.170",
+    "districtCode": "170",
+    "regencyCode": "64.03",
+    "provinceCode": "64",
+    "name": "Kecamatan Kembang Janggut",
+    "alias": "Kembang Janggut"
+  },
+  {
+    "code": "64.03.180",
+    "districtCode": "180",
+    "regencyCode": "64.03",
+    "provinceCode": "64",
+    "name": "Kecamatan Tabang",
+    "alias": "Tabang"
+  }
+]

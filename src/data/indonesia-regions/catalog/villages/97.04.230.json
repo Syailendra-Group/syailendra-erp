@@ -1,0 +1,72 @@
+[
+  {
+    "code": "97.04.230.001",
+    "villageCode": "001",
+    "districtCode": "97.04.230",
+    "name": "Gagulineri",
+    "alias": "Gagulineri"
+  },
+  {
+    "code": "97.04.230.002",
+    "villageCode": "002",
+    "districtCode": "97.04.230",
+    "name": "Telekonok",
+    "alias": "Telekonok"
+  },
+  {
+    "code": "97.04.230.003",
+    "villageCode": "003",
+    "districtCode": "97.04.230",
+    "name": "Kuoklanggunik",
+    "alias": "Kuoklanggunik"
+  },
+  {
+    "code": "97.04.230.004",
+    "villageCode": "004",
+    "districtCode": "97.04.230",
+    "name": "Bogokila",
+    "alias": "Bogokila"
+  },
+  {
+    "code": "97.04.230.005",
+    "villageCode": "005",
+    "districtCode": "97.04.230",
+    "name": "Mabuk",
+    "alias": "Mabuk"
+  },
+  {
+    "code": "97.04.230.006",
+    "villageCode": "006",
+    "districtCode": "97.04.230",
+    "name": "Nogari",
+    "alias": "Nogari"
+  },
+  {
+    "code": "97.04.230.007",
+    "villageCode": "007",
+    "districtCode": "97.04.230",
+    "name": "Genage",
+    "alias": "Genage"
+  },
+  {
+    "code": "97.04.230.008",
+    "villageCode": "008",
+    "districtCode": "97.04.230",
+    "name": "Gindugunik",
+    "alias": "Gindugunik"
+  },
+  {
+    "code": "97.04.230.009",
+    "villageCode": "009",
+    "districtCode": "97.04.230",
+    "name": "Tigir",
+    "alias": "Tigir"
+  },
+  {
+    "code": "97.04.230.010",
+    "villageCode": "010",
+    "districtCode": "97.04.230",
+    "name": "Konengga",
+    "alias": "Konengga"
+  }
+]

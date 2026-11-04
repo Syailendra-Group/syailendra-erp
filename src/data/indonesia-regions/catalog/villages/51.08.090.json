@@ -1,0 +1,72 @@
+[
+  {
+    "code": "51.08.090.001",
+    "villageCode": "001",
+    "districtCode": "51.08.090",
+    "name": "Sembiran",
+    "alias": "Sembiran"
+  },
+  {
+    "code": "51.08.090.002",
+    "villageCode": "002",
+    "districtCode": "51.08.090",
+    "name": "Pacung",
+    "alias": "Pacung"
+  },
+  {
+    "code": "51.08.090.003",
+    "villageCode": "003",
+    "districtCode": "51.08.090",
+    "name": "Julah",
+    "alias": "Julah"
+  },
+  {
+    "code": "51.08.090.004",
+    "villageCode": "004",
+    "districtCode": "51.08.090",
+    "name": "Bondalem",
+    "alias": "Bondalem"
+  },
+  {
+    "code": "51.08.090.005",
+    "villageCode": "005",
+    "districtCode": "51.08.090",
+    "name": "Madenan",
+    "alias": "Madenan"
+  },
+  {
+    "code": "51.08.090.006",
+    "villageCode": "006",
+    "districtCode": "51.08.090",
+    "name": "Tejakula",
+    "alias": "Tejakula"
+  },
+  {
+    "code": "51.08.090.007",
+    "villageCode": "007",
+    "districtCode": "51.08.090",
+    "name": "Les",
+    "alias": "Les"
+  },
+  {
+    "code": "51.08.090.008",
+    "villageCode": "008",
+    "districtCode": "51.08.090",
+    "name": "Penuktukan",
+    "alias": "Penuktukan"
+  },
+  {
+    "code": "51.08.090.009",
+    "villageCode": "009",
+    "districtCode": "51.08.090",
+    "name": "Sambirenteng",
+    "alias": "Sambirenteng"
+  },
+  {
+    "code": "51.08.090.010",
+    "villageCode": "010",
+    "districtCode": "51.08.090",
+    "name": "Tembok",
+    "alias": "Tembok"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "code": "14.71.022.002",
+    "villageCode": "002",
+    "districtCode": "14.71.022",
+    "name": "Tengkerang Timur",
+    "alias": "Tengkerang Timur"
+  },
+  {
+    "code": "14.71.022.003",
+    "villageCode": "003",
+    "districtCode": "14.71.022",
+    "name": "Rejosari",
+    "alias": "Rejosari"
+  },
+  {
+    "code": "14.71.022.004",
+    "villageCode": "004",
+    "districtCode": "14.71.022",
+    "name": "Bencah Lesung",
+    "alias": "Bencah Lesung"
+  },
+  {
+    "code": "14.71.022.009",
+    "villageCode": "009",
+    "districtCode": "14.71.022",
+    "name": "Sialang Sakti",
+    "alias": "Sialang Sakti"
+  },
+  {
+    "code": "14.71.022.010",
+    "villageCode": "010",
+    "districtCode": "14.71.022",
+    "name": "Tuah Negeri",
+    "alias": "Tuah Negeri"
+  },
+  {
+    "code": "14.71.022.011",
+    "villageCode": "011",
+    "districtCode": "14.71.022",
+    "name": "Melebung",
+    "alias": "Melebung"
+  },
+  {
+    "code": "14.71.022.012",
+    "villageCode": "012",
+    "districtCode": "14.71.022",
+    "name": "Industri Tenayan",
+    "alias": "Industri Tenayan"
+  },
+  {
+    "code": "14.71.022.013",
+    "villageCode": "013",
+    "districtCode": "14.71.022",
+    "name": "Bambu Kuning",
+    "alias": "Bambu Kuning"
+  }
+]

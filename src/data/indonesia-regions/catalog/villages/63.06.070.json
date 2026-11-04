@@ -1,0 +1,79 @@
+[
+  {
+    "code": "63.06.070.009",
+    "villageCode": "009",
+    "districtCode": "63.06.070",
+    "name": "Wasah Hulu",
+    "alias": "Wasah Hulu"
+  },
+  {
+    "code": "63.06.070.010",
+    "villageCode": "010",
+    "districtCode": "63.06.070",
+    "name": "Wasah Tengah",
+    "alias": "Wasah Tengah"
+  },
+  {
+    "code": "63.06.070.011",
+    "villageCode": "011",
+    "districtCode": "63.06.070",
+    "name": "Wasah Hilir",
+    "alias": "Wasah Hilir"
+  },
+  {
+    "code": "63.06.070.012",
+    "villageCode": "012",
+    "districtCode": "63.06.070",
+    "name": "Simpur",
+    "alias": "Simpur"
+  },
+  {
+    "code": "63.06.070.014",
+    "villageCode": "014",
+    "districtCode": "63.06.070",
+    "name": "Tebing Tinggi",
+    "alias": "Tebing Tinggi"
+  },
+  {
+    "code": "63.06.070.015",
+    "villageCode": "015",
+    "districtCode": "63.06.070",
+    "name": "Garunggang",
+    "alias": "Garunggang"
+  },
+  {
+    "code": "63.06.070.018",
+    "villageCode": "018",
+    "districtCode": "63.06.070",
+    "name": "Amparaya",
+    "alias": "Amparaya"
+  },
+  {
+    "code": "63.06.070.019",
+    "villageCode": "019",
+    "districtCode": "63.06.070",
+    "name": "Panjampang Bahagia",
+    "alias": "Panjampang Bahagia"
+  },
+  {
+    "code": "63.06.070.021",
+    "villageCode": "021",
+    "districtCode": "63.06.070",
+    "name": "Ulin",
+    "alias": "Ulin"
+  },
+  {
+    "code": "63.06.070.022",
+    "villageCode": "022",
+    "districtCode": "63.06.070",
+    "name": "Pantai Ulin",
+    "alias": "Pantai Ulin"
+  },
+  {
+    "code": "63.06.070.025",
+    "villageCode": "025",
+    "districtCode": "63.06.070",
+    "name": "Kapuh",
+    "alias": "Kapuh"
+  }
+]

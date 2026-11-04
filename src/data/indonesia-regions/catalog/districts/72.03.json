@@ -1,0 +1,74 @@
+[
+  {
+    "code": "72.03.010",
+    "districtCode": "010",
+    "regencyCode": "72.03",
+    "provinceCode": "72",
+    "name": "Kecamatan Menui Kepulauan",
+    "alias": "Menui Kepulauan"
+  },
+  {
+    "code": "72.03.020",
+    "districtCode": "020",
+    "regencyCode": "72.03",
+    "provinceCode": "72",
+    "name": "Kecamatan Bungku Selatan",
+    "alias": "Bungku Selatan"
+  },
+  {
+    "code": "72.03.021",
+    "districtCode": "021",
+    "regencyCode": "72.03",
+    "provinceCode": "72",
+    "name": "Kecamatan Bahodopi",
+    "alias": "Bahodopi"
+  },
+  {
+    "code": "72.03.022",
+    "districtCode": "022",
+    "regencyCode": "72.03",
+    "provinceCode": "72",
+    "name": "Kecamatan Bungku Pesisir",
+    "alias": "Bungku Pesisir"
+  },
+  {
+    "code": "72.03.030",
+    "districtCode": "030",
+    "regencyCode": "72.03",
+    "provinceCode": "72",
+    "name": "Kecamatan Bungku Tengah",
+    "alias": "Bungku Tengah"
+  },
+  {
+    "code": "72.03.031",
+    "districtCode": "031",
+    "regencyCode": "72.03",
+    "provinceCode": "72",
+    "name": "Kecamatan Bungku Timur",
+    "alias": "Bungku Timur"
+  },
+  {
+    "code": "72.03.040",
+    "districtCode": "040",
+    "regencyCode": "72.03",
+    "provinceCode": "72",
+    "name": "Kecamatan Bungku Barat",
+    "alias": "Bungku Barat"
+  },
+  {
+    "code": "72.03.041",
+    "districtCode": "041",
+    "regencyCode": "72.03",
+    "provinceCode": "72",
+    "name": "Kecamatan Bumi Raya",
+    "alias": "Bumi Raya"
+  },
+  {
+    "code": "72.03.042",
+    "districtCode": "042",
+    "regencyCode": "72.03",
+    "provinceCode": "72",
+    "name": "Kecamatan Wita Ponda",
+    "alias": "Wita Ponda"
+  }
+]

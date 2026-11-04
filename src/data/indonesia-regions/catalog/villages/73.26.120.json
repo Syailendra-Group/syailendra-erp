@@ -1,0 +1,51 @@
+[
+  {
+    "code": "73.26.120.001",
+    "villageCode": "001",
+    "districtCode": "73.26.120",
+    "name": "Lembang Palangi",
+    "alias": "Lembang Palangi"
+  },
+  {
+    "code": "73.26.120.002",
+    "villageCode": "002",
+    "districtCode": "73.26.120",
+    "name": "Lembang Karua",
+    "alias": "Lembang Karua"
+  },
+  {
+    "code": "73.26.120.003",
+    "villageCode": "003",
+    "districtCode": "73.26.120",
+    "name": "Lembang Lilikira Ao Gading",
+    "alias": "Lembang Lilikira Ao Gading"
+  },
+  {
+    "code": "73.26.120.004",
+    "villageCode": "004",
+    "districtCode": "73.26.120",
+    "name": "Lembang Awak Kawasik",
+    "alias": "Lembang Awak Kawasik"
+  },
+  {
+    "code": "73.26.120.005",
+    "villageCode": "005",
+    "districtCode": "73.26.120",
+    "name": "Kelurahan Tagari",
+    "alias": "Kelurahan Tagari"
+  },
+  {
+    "code": "73.26.120.006",
+    "villageCode": "006",
+    "districtCode": "73.26.120",
+    "name": "Kelurahan  Balusu",
+    "alias": "Kelurahan  Balusu"
+  },
+  {
+    "code": "73.26.120.007",
+    "villageCode": "007",
+    "districtCode": "73.26.120",
+    "name": "Lembang Balusu Bangun Lipu",
+    "alias": "Lembang Balusu Bangun Lipu"
+  }
+]

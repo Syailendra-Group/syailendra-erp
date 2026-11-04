@@ -1,0 +1,58 @@
+[
+  {
+    "code": "35.75.010.001",
+    "villageCode": "001",
+    "districtCode": "35.75.010",
+    "name": "Krapyakrejo",
+    "alias": "Krapyakrejo"
+  },
+  {
+    "code": "35.75.010.002",
+    "villageCode": "002",
+    "districtCode": "35.75.010",
+    "name": "Bukir",
+    "alias": "Bukir"
+  },
+  {
+    "code": "35.75.010.003",
+    "villageCode": "003",
+    "districtCode": "35.75.010",
+    "name": "Sebani",
+    "alias": "Sebani"
+  },
+  {
+    "code": "35.75.010.004",
+    "villageCode": "004",
+    "districtCode": "35.75.010",
+    "name": "Gentong",
+    "alias": "Gentong"
+  },
+  {
+    "code": "35.75.010.008",
+    "villageCode": "008",
+    "districtCode": "35.75.010",
+    "name": "Gadingrejo",
+    "alias": "Gadingrejo"
+  },
+  {
+    "code": "35.75.010.009",
+    "villageCode": "009",
+    "districtCode": "35.75.010",
+    "name": "Petahunan",
+    "alias": "Petahunan"
+  },
+  {
+    "code": "35.75.010.010",
+    "villageCode": "010",
+    "districtCode": "35.75.010",
+    "name": "Randusari",
+    "alias": "Randusari"
+  },
+  {
+    "code": "35.75.010.011",
+    "villageCode": "011",
+    "districtCode": "35.75.010",
+    "name": "Karangketug",
+    "alias": "Karangketug"
+  }
+]

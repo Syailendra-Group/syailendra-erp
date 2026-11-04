@@ -1,0 +1,72 @@
+[
+  {
+    "code": "17.02.021.001",
+    "villageCode": "001",
+    "districtCode": "17.02.021",
+    "name": "Merantau",
+    "alias": "Merantau"
+  },
+  {
+    "code": "17.02.021.002",
+    "villageCode": "002",
+    "districtCode": "17.02.021",
+    "name": "Periang",
+    "alias": "Periang"
+  },
+  {
+    "code": "17.02.021.003",
+    "villageCode": "003",
+    "districtCode": "17.02.021",
+    "name": "Balai Butar",
+    "alias": "Balai Butar"
+  },
+  {
+    "code": "17.02.021.004",
+    "villageCode": "004",
+    "districtCode": "17.02.021",
+    "name": "Lubuk Belimbing I",
+    "alias": "Lubuk Belimbing I"
+  },
+  {
+    "code": "17.02.021.005",
+    "villageCode": "005",
+    "districtCode": "17.02.021",
+    "name": "Sari Pulau",
+    "alias": "Sari Pulau"
+  },
+  {
+    "code": "17.02.021.006",
+    "villageCode": "006",
+    "districtCode": "17.02.021",
+    "name": "Suka Merindu",
+    "alias": "Suka Merindu"
+  },
+  {
+    "code": "17.02.021.007",
+    "villageCode": "007",
+    "districtCode": "17.02.021",
+    "name": "Lubuk Belimbing Ii",
+    "alias": "Lubuk Belimbing Ii"
+  },
+  {
+    "code": "17.02.021.008",
+    "villageCode": "008",
+    "districtCode": "17.02.021",
+    "name": "Lubuk Bingin Baru",
+    "alias": "Lubuk Bingin Baru"
+  },
+  {
+    "code": "17.02.021.009",
+    "villageCode": "009",
+    "districtCode": "17.02.021",
+    "name": "Lubuk Tunjung",
+    "alias": "Lubuk Tunjung"
+  },
+  {
+    "code": "17.02.021.010",
+    "villageCode": "010",
+    "districtCode": "17.02.021",
+    "name": "Suka Karya",
+    "alias": "Suka Karya"
+  }
+]

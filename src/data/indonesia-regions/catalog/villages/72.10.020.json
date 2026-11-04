@@ -1,0 +1,86 @@
+[
+  {
+    "code": "72.10.020.001",
+    "villageCode": "001",
+    "districtCode": "72.10.020",
+    "name": "Moa",
+    "alias": "Moa"
+  },
+  {
+    "code": "72.10.020.002",
+    "villageCode": "002",
+    "districtCode": "72.10.020",
+    "name": "Pili Makujawa",
+    "alias": "Pili Makujawa"
+  },
+  {
+    "code": "72.10.020.003",
+    "villageCode": "003",
+    "districtCode": "72.10.020",
+    "name": "Lempelero",
+    "alias": "Lempelero"
+  },
+  {
+    "code": "72.10.020.004",
+    "villageCode": "004",
+    "districtCode": "72.10.020",
+    "name": "Gimpu",
+    "alias": "Gimpu"
+  },
+  {
+    "code": "72.10.020.005",
+    "villageCode": "005",
+    "districtCode": "72.10.020",
+    "name": "Tomua",
+    "alias": "Tomua"
+  },
+  {
+    "code": "72.10.020.006",
+    "villageCode": "006",
+    "districtCode": "72.10.020",
+    "name": "Tompi Bugis",
+    "alias": "Tompi Bugis"
+  },
+  {
+    "code": "72.10.020.007",
+    "villageCode": "007",
+    "districtCode": "72.10.020",
+    "name": "Lawua",
+    "alias": "Lawua"
+  },
+  {
+    "code": "72.10.020.008",
+    "villageCode": "008",
+    "districtCode": "72.10.020",
+    "name": "Watukilo",
+    "alias": "Watukilo"
+  },
+  {
+    "code": "72.10.020.009",
+    "villageCode": "009",
+    "districtCode": "72.10.020",
+    "name": "Salutome",
+    "alias": "Salutome"
+  },
+  {
+    "code": "72.10.020.010",
+    "villageCode": "010",
+    "districtCode": "72.10.020",
+    "name": "O O",
+    "alias": "O O"
+  },
+  {
+    "code": "72.10.020.011",
+    "villageCode": "011",
+    "districtCode": "72.10.020",
+    "name": "Palamaki",
+    "alias": "Palamaki"
+  },
+  {
+    "code": "72.10.020.012",
+    "villageCode": "012",
+    "districtCode": "72.10.020",
+    "name": "Wangka",
+    "alias": "Wangka"
+  }
+]

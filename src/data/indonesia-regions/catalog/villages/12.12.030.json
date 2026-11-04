@@ -1,0 +1,212 @@
+[
+  {
+    "code": "12.12.030.001",
+    "villageCode": "001",
+    "districtCode": "12.12.030",
+    "name": "Bandar Baru",
+    "alias": "Bandar Baru"
+  },
+  {
+    "code": "12.12.030.002",
+    "villageCode": "002",
+    "districtCode": "12.12.030",
+    "name": "Sikeben",
+    "alias": "Sikeben"
+  },
+  {
+    "code": "12.12.030.003",
+    "villageCode": "003",
+    "districtCode": "12.12.030",
+    "name": "Martelu",
+    "alias": "Martelu"
+  },
+  {
+    "code": "12.12.030.004",
+    "villageCode": "004",
+    "districtCode": "12.12.030",
+    "name": "Bukum",
+    "alias": "Bukum"
+  },
+  {
+    "code": "12.12.030.005",
+    "villageCode": "005",
+    "districtCode": "12.12.030",
+    "name": "Negri Gugung",
+    "alias": "Negri Gugung"
+  },
+  {
+    "code": "12.12.030.006",
+    "villageCode": "006",
+    "districtCode": "12.12.030",
+    "name": "Cinta Rakyat",
+    "alias": "Cinta Rakyat"
+  },
+  {
+    "code": "12.12.030.007",
+    "villageCode": "007",
+    "districtCode": "12.12.030",
+    "name": "Ketangkuhen",
+    "alias": "Ketangkuhen"
+  },
+  {
+    "code": "12.12.030.008",
+    "villageCode": "008",
+    "districtCode": "12.12.030",
+    "name": "Suka Maju",
+    "alias": "Suka Maju"
+  },
+  {
+    "code": "12.12.030.009",
+    "villageCode": "009",
+    "districtCode": "12.12.030",
+    "name": "Buluh Awar",
+    "alias": "Buluh Awar"
+  },
+  {
+    "code": "12.12.030.010",
+    "villageCode": "010",
+    "districtCode": "12.12.030",
+    "name": "Batu Layang",
+    "alias": "Batu Layang"
+  },
+  {
+    "code": "12.12.030.011",
+    "villageCode": "011",
+    "districtCode": "12.12.030",
+    "name": "Rumah Pil-Pil",
+    "alias": "Rumah Pil-Pil"
+  },
+  {
+    "code": "12.12.030.012",
+    "villageCode": "012",
+    "districtCode": "12.12.030",
+    "name": "Suka Makmur",
+    "alias": "Suka Makmur"
+  },
+  {
+    "code": "12.12.030.013",
+    "villageCode": "013",
+    "districtCode": "12.12.030",
+    "name": "Durin Serugun",
+    "alias": "Durin Serugun"
+  },
+  {
+    "code": "12.12.030.014",
+    "villageCode": "014",
+    "districtCode": "12.12.030",
+    "name": "Ujung Deleng",
+    "alias": "Ujung Deleng"
+  },
+  {
+    "code": "12.12.030.015",
+    "villageCode": "015",
+    "districtCode": "12.12.030",
+    "name": "Tanjung Beringin",
+    "alias": "Tanjung Beringin"
+  },
+  {
+    "code": "12.12.030.016",
+    "villageCode": "016",
+    "districtCode": "12.12.030",
+    "name": "Tambunen",
+    "alias": "Tambunen"
+  },
+  {
+    "code": "12.12.030.017",
+    "villageCode": "017",
+    "districtCode": "12.12.030",
+    "name": "Puang Aja",
+    "alias": "Puang Aja"
+  },
+  {
+    "code": "12.12.030.018",
+    "villageCode": "018",
+    "districtCode": "12.12.030",
+    "name": "Betimus Baru",
+    "alias": "Betimus Baru"
+  },
+  {
+    "code": "12.12.030.019",
+    "villageCode": "019",
+    "districtCode": "12.12.030",
+    "name": "Rumah Sumbul",
+    "alias": "Rumah Sumbul"
+  },
+  {
+    "code": "12.12.030.020",
+    "villageCode": "020",
+    "districtCode": "12.12.030",
+    "name": "Rumah Kinangkung Suka Piring",
+    "alias": "Rumah Kinangkung Suka Piring"
+  },
+  {
+    "code": "12.12.030.021",
+    "villageCode": "021",
+    "districtCode": "12.12.030",
+    "name": "Sala Bulan",
+    "alias": "Sala Bulan"
+  },
+  {
+    "code": "12.12.030.022",
+    "villageCode": "022",
+    "districtCode": "12.12.030",
+    "name": "Bengkurung",
+    "alias": "Bengkurung"
+  },
+  {
+    "code": "12.12.030.023",
+    "villageCode": "023",
+    "districtCode": "12.12.030",
+    "name": "Kuala",
+    "alias": "Kuala"
+  },
+  {
+    "code": "12.12.030.024",
+    "villageCode": "024",
+    "districtCode": "12.12.030",
+    "name": "Batu Mbelin",
+    "alias": "Batu Mbelin"
+  },
+  {
+    "code": "12.12.030.025",
+    "villageCode": "025",
+    "districtCode": "12.12.030",
+    "name": "Sibolangit",
+    "alias": "Sibolangit"
+  },
+  {
+    "code": "12.12.030.026",
+    "villageCode": "026",
+    "districtCode": "12.12.030",
+    "name": "Sembahe",
+    "alias": "Sembahe"
+  },
+  {
+    "code": "12.12.030.027",
+    "villageCode": "027",
+    "districtCode": "12.12.030",
+    "name": "Buah Nabar",
+    "alias": "Buah Nabar"
+  },
+  {
+    "code": "12.12.030.028",
+    "villageCode": "028",
+    "districtCode": "12.12.030",
+    "name": "Bingkawan",
+    "alias": "Bingkawan"
+  },
+  {
+    "code": "12.12.030.029",
+    "villageCode": "029",
+    "districtCode": "12.12.030",
+    "name": "Sayum Sabah",
+    "alias": "Sayum Sabah"
+  },
+  {
+    "code": "12.12.030.030",
+    "villageCode": "030",
+    "districtCode": "12.12.030",
+    "name": "Rambung Baru",
+    "alias": "Rambung Baru"
+  }
+]

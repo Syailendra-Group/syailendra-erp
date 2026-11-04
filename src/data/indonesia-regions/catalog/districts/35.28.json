@@ -1,0 +1,106 @@
+[
+  {
+    "code": "35.28.010",
+    "districtCode": "010",
+    "regencyCode": "35.28",
+    "provinceCode": "35",
+    "name": "Kecamatan Tlanakan",
+    "alias": "Tlanakan"
+  },
+  {
+    "code": "35.28.020",
+    "districtCode": "020",
+    "regencyCode": "35.28",
+    "provinceCode": "35",
+    "name": "Kecamatan Pademawu",
+    "alias": "Pademawu"
+  },
+  {
+    "code": "35.28.030",
+    "districtCode": "030",
+    "regencyCode": "35.28",
+    "provinceCode": "35",
+    "name": "Kecamatan Galis",
+    "alias": "Galis"
+  },
+  {
+    "code": "35.28.040",
+    "districtCode": "040",
+    "regencyCode": "35.28",
+    "provinceCode": "35",
+    "name": "Kecamatan Larangan",
+    "alias": "Larangan"
+  },
+  {
+    "code": "35.28.050",
+    "districtCode": "050",
+    "regencyCode": "35.28",
+    "provinceCode": "35",
+    "name": "Kecamatan Pamekasan",
+    "alias": "Pamekasan"
+  },
+  {
+    "code": "35.28.060",
+    "districtCode": "060",
+    "regencyCode": "35.28",
+    "provinceCode": "35",
+    "name": "Kecamatan Proppo",
+    "alias": "Proppo"
+  },
+  {
+    "code": "35.28.070",
+    "districtCode": "070",
+    "regencyCode": "35.28",
+    "provinceCode": "35",
+    "name": "Kecamatan Palengaan",
+    "alias": "Palengaan"
+  },
+  {
+    "code": "35.28.080",
+    "districtCode": "080",
+    "regencyCode": "35.28",
+    "provinceCode": "35",
+    "name": "Kecamatan Pegantenan",
+    "alias": "Pegantenan"
+  },
+  {
+    "code": "35.28.090",
+    "districtCode": "090",
+    "regencyCode": "35.28",
+    "provinceCode": "35",
+    "name": "Kecamatan Kadur",
+    "alias": "Kadur"
+  },
+  {
+    "code": "35.28.100",
+    "districtCode": "100",
+    "regencyCode": "35.28",
+    "provinceCode": "35",
+    "name": "Kecamatan Pakong",
+    "alias": "Pakong"
+  },
+  {
+    "code": "35.28.110",
+    "districtCode": "110",
+    "regencyCode": "35.28",
+    "provinceCode": "35",
+    "name": "Kecamatan Waru",
+    "alias": "Waru"
+  },
+  {
+    "code": "35.28.120",
+    "districtCode": "120",
+    "regencyCode": "35.28",
+    "provinceCode": "35",
+    "name": "Kecamatan Batu Marmar",
+    "alias": "Batu Marmar"
+  },
+  {
+    "code": "35.28.130",
+    "districtCode": "130",
+    "regencyCode": "35.28",
+    "provinceCode": "35",
+    "name": "Kecamatan Pasean",
+    "alias": "Pasean"
+  }
+]

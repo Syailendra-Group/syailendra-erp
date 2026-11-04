@@ -1,0 +1,65 @@
+[
+  {
+    "code": "92.02.150.001",
+    "villageCode": "001",
+    "districtCode": "92.02.150",
+    "name": "Klamugun",
+    "alias": "Klamugun"
+  },
+  {
+    "code": "92.02.150.002",
+    "villageCode": "002",
+    "districtCode": "92.02.150",
+    "name": "Marik May",
+    "alias": "Marik May"
+  },
+  {
+    "code": "92.02.150.003",
+    "villageCode": "003",
+    "districtCode": "92.02.150",
+    "name": "Klasman",
+    "alias": "Klasman"
+  },
+  {
+    "code": "92.02.150.004",
+    "villageCode": "004",
+    "districtCode": "92.02.150",
+    "name": "Tanah Tinggi",
+    "alias": "Tanah Tinggi"
+  },
+  {
+    "code": "92.02.150.005",
+    "villageCode": "005",
+    "districtCode": "92.02.150",
+    "name": "Malajapa",
+    "alias": "Malajapa"
+  },
+  {
+    "code": "92.02.150.006",
+    "villageCode": "006",
+    "districtCode": "92.02.150",
+    "name": "Malasigit",
+    "alias": "Malasigit"
+  },
+  {
+    "code": "92.02.150.007",
+    "villageCode": "007",
+    "districtCode": "92.02.150",
+    "name": "Malamoja",
+    "alias": "Malamoja"
+  },
+  {
+    "code": "92.02.150.008",
+    "villageCode": "008",
+    "districtCode": "92.02.150",
+    "name": "Magatarum",
+    "alias": "Magatarum"
+  },
+  {
+    "code": "92.02.150.009",
+    "villageCode": "009",
+    "districtCode": "92.02.150",
+    "name": "Klagulu",
+    "alias": "Klagulu"
+  }
+]

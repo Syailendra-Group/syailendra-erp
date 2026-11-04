@@ -1,0 +1,282 @@
+[
+  {
+    "code": "36.01.010",
+    "districtCode": "010",
+    "regencyCode": "36.01",
+    "provinceCode": "36",
+    "name": "Kecamatan Sumur",
+    "alias": "Sumur"
+  },
+  {
+    "code": "36.01.020",
+    "districtCode": "020",
+    "regencyCode": "36.01",
+    "provinceCode": "36",
+    "name": "Kecamatan Cimanggu",
+    "alias": "Cimanggu"
+  },
+  {
+    "code": "36.01.030",
+    "districtCode": "030",
+    "regencyCode": "36.01",
+    "provinceCode": "36",
+    "name": "Kecamatan Cibaliung",
+    "alias": "Cibaliung"
+  },
+  {
+    "code": "36.01.031",
+    "districtCode": "031",
+    "regencyCode": "36.01",
+    "provinceCode": "36",
+    "name": "Kecamatan Cibitung",
+    "alias": "Cibitung"
+  },
+  {
+    "code": "36.01.040",
+    "districtCode": "040",
+    "regencyCode": "36.01",
+    "provinceCode": "36",
+    "name": "Kecamatan Cikeusik",
+    "alias": "Cikeusik"
+  },
+  {
+    "code": "36.01.050",
+    "districtCode": "050",
+    "regencyCode": "36.01",
+    "provinceCode": "36",
+    "name": "Kecamatan Cigeulis",
+    "alias": "Cigeulis"
+  },
+  {
+    "code": "36.01.060",
+    "districtCode": "060",
+    "regencyCode": "36.01",
+    "provinceCode": "36",
+    "name": "Kecamatan Panimbang",
+    "alias": "Panimbang"
+  },
+  {
+    "code": "36.01.061",
+    "districtCode": "061",
+    "regencyCode": "36.01",
+    "provinceCode": "36",
+    "name": "Kecamatan Sobang",
+    "alias": "Sobang"
+  },
+  {
+    "code": "36.01.070",
+    "districtCode": "070",
+    "regencyCode": "36.01",
+    "provinceCode": "36",
+    "name": "Kecamatan Munjul",
+    "alias": "Munjul"
+  },
+  {
+    "code": "36.01.071",
+    "districtCode": "071",
+    "regencyCode": "36.01",
+    "provinceCode": "36",
+    "name": "Kecamatan Angsana",
+    "alias": "Angsana"
+  },
+  {
+    "code": "36.01.072",
+    "districtCode": "072",
+    "regencyCode": "36.01",
+    "provinceCode": "36",
+    "name": "Kecamatan Sindangresmi",
+    "alias": "Sindangresmi"
+  },
+  {
+    "code": "36.01.080",
+    "districtCode": "080",
+    "regencyCode": "36.01",
+    "provinceCode": "36",
+    "name": "Kecamatan Picung",
+    "alias": "Picung"
+  },
+  {
+    "code": "36.01.090",
+    "districtCode": "090",
+    "regencyCode": "36.01",
+    "provinceCode": "36",
+    "name": "Kecamatan Bojong",
+    "alias": "Bojong"
+  },
+  {
+    "code": "36.01.100",
+    "districtCode": "100",
+    "regencyCode": "36.01",
+    "provinceCode": "36",
+    "name": "Kecamatan Saketi",
+    "alias": "Saketi"
+  },
+  {
+    "code": "36.01.101",
+    "districtCode": "101",
+    "regencyCode": "36.01",
+    "provinceCode": "36",
+    "name": "Kecamatan Cisata",
+    "alias": "Cisata"
+  },
+  {
+    "code": "36.01.110",
+    "districtCode": "110",
+    "regencyCode": "36.01",
+    "provinceCode": "36",
+    "name": "Kecamatan Pagelaran",
+    "alias": "Pagelaran"
+  },
+  {
+    "code": "36.01.111",
+    "districtCode": "111",
+    "regencyCode": "36.01",
+    "provinceCode": "36",
+    "name": "Kecamatan Patia",
+    "alias": "Patia"
+  },
+  {
+    "code": "36.01.112",
+    "districtCode": "112",
+    "regencyCode": "36.01",
+    "provinceCode": "36",
+    "name": "Kecamatan Sukaresmi",
+    "alias": "Sukaresmi"
+  },
+  {
+    "code": "36.01.120",
+    "districtCode": "120",
+    "regencyCode": "36.01",
+    "provinceCode": "36",
+    "name": "Kecamatan Labuan",
+    "alias": "Labuan"
+  },
+  {
+    "code": "36.01.121",
+    "districtCode": "121",
+    "regencyCode": "36.01",
+    "provinceCode": "36",
+    "name": "Kecamatan Carita",
+    "alias": "Carita"
+  },
+  {
+    "code": "36.01.130",
+    "districtCode": "130",
+    "regencyCode": "36.01",
+    "provinceCode": "36",
+    "name": "Kecamatan Jiput",
+    "alias": "Jiput"
+  },
+  {
+    "code": "36.01.131",
+    "districtCode": "131",
+    "regencyCode": "36.01",
+    "provinceCode": "36",
+    "name": "Kecamatan Cikedal",
+    "alias": "Cikedal"
+  },
+  {
+    "code": "36.01.140",
+    "districtCode": "140",
+    "regencyCode": "36.01",
+    "provinceCode": "36",
+    "name": "Kecamatan Menes",
+    "alias": "Menes"
+  },
+  {
+    "code": "36.01.141",
+    "districtCode": "141",
+    "regencyCode": "36.01",
+    "provinceCode": "36",
+    "name": "Kecamatan Pulosari",
+    "alias": "Pulosari"
+  },
+  {
+    "code": "36.01.150",
+    "districtCode": "150",
+    "regencyCode": "36.01",
+    "provinceCode": "36",
+    "name": "Kecamatan Mandalawangi",
+    "alias": "Mandalawangi"
+  },
+  {
+    "code": "36.01.160",
+    "districtCode": "160",
+    "regencyCode": "36.01",
+    "provinceCode": "36",
+    "name": "Kecamatan Cimanuk",
+    "alias": "Cimanuk"
+  },
+  {
+    "code": "36.01.161",
+    "districtCode": "161",
+    "regencyCode": "36.01",
+    "provinceCode": "36",
+    "name": "Kecamatan Cipeucang",
+    "alias": "Cipeucang"
+  },
+  {
+    "code": "36.01.170",
+    "districtCode": "170",
+    "regencyCode": "36.01",
+    "provinceCode": "36",
+    "name": "Kecamatan Banjar",
+    "alias": "Banjar"
+  },
+  {
+    "code": "36.01.171",
+    "districtCode": "171",
+    "regencyCode": "36.01",
+    "provinceCode": "36",
+    "name": "Kecamatan Kaduhejo",
+    "alias": "Kaduhejo"
+  },
+  {
+    "code": "36.01.172",
+    "districtCode": "172",
+    "regencyCode": "36.01",
+    "provinceCode": "36",
+    "name": "Kecamatan Mekarjaya",
+    "alias": "Mekarjaya"
+  },
+  {
+    "code": "36.01.180",
+    "districtCode": "180",
+    "regencyCode": "36.01",
+    "provinceCode": "36",
+    "name": "Kecamatan Pandeglang",
+    "alias": "Pandeglang"
+  },
+  {
+    "code": "36.01.181",
+    "districtCode": "181",
+    "regencyCode": "36.01",
+    "provinceCode": "36",
+    "name": "Kecamatan Majasari",
+    "alias": "Majasari"
+  },
+  {
+    "code": "36.01.190",
+    "districtCode": "190",
+    "regencyCode": "36.01",
+    "provinceCode": "36",
+    "name": "Kecamatan Cadasari",
+    "alias": "Cadasari"
+  },
+  {
+    "code": "36.01.191",
+    "districtCode": "191",
+    "regencyCode": "36.01",
+    "provinceCode": "36",
+    "name": "Kecamatan Karangtanjung",
+    "alias": "Karangtanjung"
+  },
+  {
+    "code": "36.01.192",
+    "districtCode": "192",
+    "regencyCode": "36.01",
+    "provinceCode": "36",
+    "name": "Kecamatan Koroncong",
+    "alias": "Koroncong"
+  }
+]

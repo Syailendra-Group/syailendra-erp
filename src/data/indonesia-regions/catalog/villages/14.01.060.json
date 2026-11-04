@@ -1,0 +1,93 @@
+[
+  {
+    "code": "14.01.060.003",
+    "villageCode": "003",
+    "districtCode": "14.01.060",
+    "name": "Sikakak",
+    "alias": "Sikakak"
+  },
+  {
+    "code": "14.01.060.004",
+    "villageCode": "004",
+    "districtCode": "14.01.060",
+    "name": "Pulau Jambu",
+    "alias": "Pulau Jambu"
+  },
+  {
+    "code": "14.01.060.005",
+    "villageCode": "005",
+    "districtCode": "14.01.060",
+    "name": "Pulau Bayur",
+    "alias": "Pulau Bayur"
+  },
+  {
+    "code": "14.01.060.006",
+    "villageCode": "006",
+    "districtCode": "14.01.060",
+    "name": "Pulau Panjang Cerenti",
+    "alias": "Pulau Panjang Cerenti"
+  },
+  {
+    "code": "14.01.060.007",
+    "villageCode": "007",
+    "districtCode": "14.01.060",
+    "name": "Teluk Pauh",
+    "alias": "Teluk Pauh"
+  },
+  {
+    "code": "14.01.060.008",
+    "villageCode": "008",
+    "districtCode": "14.01.060",
+    "name": "Pesikaian",
+    "alias": "Pesikaian"
+  },
+  {
+    "code": "14.01.060.009",
+    "villageCode": "009",
+    "districtCode": "14.01.060",
+    "name": "Koto Cerenti",
+    "alias": "Koto Cerenti"
+  },
+  {
+    "code": "14.01.060.010",
+    "villageCode": "010",
+    "districtCode": "14.01.060",
+    "name": "Koto Peraku",
+    "alias": "Koto Peraku"
+  },
+  {
+    "code": "14.01.060.011",
+    "villageCode": "011",
+    "districtCode": "14.01.060",
+    "name": "Pasar Cerenti",
+    "alias": "Pasar Cerenti"
+  },
+  {
+    "code": "14.01.060.012",
+    "villageCode": "012",
+    "districtCode": "14.01.060",
+    "name": "Kampung Baru",
+    "alias": "Kampung Baru"
+  },
+  {
+    "code": "14.01.060.013",
+    "villageCode": "013",
+    "districtCode": "14.01.060",
+    "name": "Kompe Berangin",
+    "alias": "Kompe Berangin"
+  },
+  {
+    "code": "14.01.060.014",
+    "villageCode": "014",
+    "districtCode": "14.01.060",
+    "name": "Tanjung Medan",
+    "alias": "Tanjung Medan"
+  },
+  {
+    "code": "14.01.060.015",
+    "villageCode": "015",
+    "districtCode": "14.01.060",
+    "name": "Kampung Baru Timur",
+    "alias": "Kampung Baru Timur"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "code": "15.02.031.001",
+    "villageCode": "001",
+    "districtCode": "15.02.031",
+    "name": "Mampun Baru",
+    "alias": "Mampun Baru"
+  },
+  {
+    "code": "15.02.031.002",
+    "villageCode": "002",
+    "districtCode": "15.02.031",
+    "name": "Pinang Merah",
+    "alias": "Pinang Merah"
+  },
+  {
+    "code": "15.02.031.003",
+    "villageCode": "003",
+    "districtCode": "15.02.031",
+    "name": "Karang Anyar",
+    "alias": "Karang Anyar"
+  },
+  {
+    "code": "15.02.031.004",
+    "villageCode": "004",
+    "districtCode": "15.02.031",
+    "name": "Simpang Limbur Merangin",
+    "alias": "Simpang Limbur Merangin"
+  },
+  {
+    "code": "15.02.031.005",
+    "villageCode": "005",
+    "districtCode": "15.02.031",
+    "name": "Limbur Merangin",
+    "alias": "Limbur Merangin"
+  },
+  {
+    "code": "15.02.031.006",
+    "villageCode": "006",
+    "districtCode": "15.02.031",
+    "name": "Tanjung Lamin",
+    "alias": "Tanjung Lamin"
+  },
+  {
+    "code": "15.02.031.007",
+    "villageCode": "007",
+    "districtCode": "15.02.031",
+    "name": "Papit",
+    "alias": "Papit"
+  },
+  {
+    "code": "15.02.031.008",
+    "villageCode": "008",
+    "districtCode": "15.02.031",
+    "name": "Pulau Tujuh",
+    "alias": "Pulau Tujuh"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "code": "17.07.053.001",
+    "villageCode": "001",
+    "districtCode": "17.07.053",
+    "name": "Ketenong Satu",
+    "alias": "Ketenong Satu"
+  },
+  {
+    "code": "17.07.053.002",
+    "villageCode": "002",
+    "districtCode": "17.07.053",
+    "name": "Ketenong Dua",
+    "alias": "Ketenong Dua"
+  },
+  {
+    "code": "17.07.053.003",
+    "villageCode": "003",
+    "districtCode": "17.07.053",
+    "name": "Ketenong Jaya",
+    "alias": "Ketenong Jaya"
+  },
+  {
+    "code": "17.07.053.004",
+    "villageCode": "004",
+    "districtCode": "17.07.053",
+    "name": "Tambang Saweak",
+    "alias": "Tambang Saweak"
+  },
+  {
+    "code": "17.07.053.005",
+    "villageCode": "005",
+    "districtCode": "17.07.053",
+    "name": "Air Kopras",
+    "alias": "Air Kopras"
+  },
+  {
+    "code": "17.07.053.006",
+    "villageCode": "006",
+    "districtCode": "17.07.053",
+    "name": "Bioa Putiak",
+    "alias": "Bioa Putiak"
+  },
+  {
+    "code": "17.07.053.007",
+    "villageCode": "007",
+    "districtCode": "17.07.053",
+    "name": "Sebelet",
+    "alias": "Sebelet"
+  },
+  {
+    "code": "17.07.053.008",
+    "villageCode": "008",
+    "districtCode": "17.07.053",
+    "name": "Sungai Lisai",
+    "alias": "Sungai Lisai"
+  }
+]

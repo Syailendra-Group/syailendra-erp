@@ -1,0 +1,72 @@
+[
+  {
+    "code": "92.02.020.001",
+    "villageCode": "001",
+    "districtCode": "92.02.020",
+    "name": "Batbiro",
+    "alias": "Batbiro"
+  },
+  {
+    "code": "92.02.020.002",
+    "villageCode": "002",
+    "districtCode": "92.02.020",
+    "name": "Maralol",
+    "alias": "Maralol"
+  },
+  {
+    "code": "92.02.020.003",
+    "villageCode": "003",
+    "districtCode": "92.02.020",
+    "name": "Sailen",
+    "alias": "Sailen"
+  },
+  {
+    "code": "92.02.020.004",
+    "villageCode": "004",
+    "districtCode": "92.02.020",
+    "name": "Duriankari",
+    "alias": "Duriankari"
+  },
+  {
+    "code": "92.02.020.005",
+    "villageCode": "005",
+    "districtCode": "92.02.020",
+    "name": "Meyaup",
+    "alias": "Meyaup"
+  },
+  {
+    "code": "92.02.020.006",
+    "villageCode": "006",
+    "districtCode": "92.02.020",
+    "name": "Manfanim",
+    "alias": "Manfanim"
+  },
+  {
+    "code": "92.02.020.007",
+    "villageCode": "007",
+    "districtCode": "92.02.020",
+    "name": "Sakapul",
+    "alias": "Sakapul"
+  },
+  {
+    "code": "92.02.020.008",
+    "villageCode": "008",
+    "districtCode": "92.02.020",
+    "name": "Waliam",
+    "alias": "Waliam"
+  },
+  {
+    "code": "92.02.020.009",
+    "villageCode": "009",
+    "districtCode": "92.02.020",
+    "name": "Waiman",
+    "alias": "Waiman"
+  },
+  {
+    "code": "92.02.020.010",
+    "villageCode": "010",
+    "districtCode": "92.02.020",
+    "name": "Waibin",
+    "alias": "Waibin"
+  }
+]

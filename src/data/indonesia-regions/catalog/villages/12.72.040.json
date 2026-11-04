@@ -1,0 +1,37 @@
+[
+  {
+    "code": "12.72.040.001",
+    "villageCode": "001",
+    "districtCode": "12.72.040",
+    "name": "Pasar Baru",
+    "alias": "Pasar Baru"
+  },
+  {
+    "code": "12.72.040.002",
+    "villageCode": "002",
+    "districtCode": "12.72.040",
+    "name": "Keramat Kubah",
+    "alias": "Keramat Kubah"
+  },
+  {
+    "code": "12.72.040.003",
+    "villageCode": "003",
+    "districtCode": "12.72.040",
+    "name": "Sumber Sari",
+    "alias": "Sumber Sari"
+  },
+  {
+    "code": "12.72.040.004",
+    "villageCode": "004",
+    "districtCode": "12.72.040",
+    "name": "Muara Sentosa",
+    "alias": "Muara Sentosa"
+  },
+  {
+    "code": "12.72.040.005",
+    "villageCode": "005",
+    "districtCode": "12.72.040",
+    "name": "Sei Raja",
+    "alias": "Sei Raja"
+  }
+]

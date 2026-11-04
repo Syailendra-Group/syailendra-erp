@@ -1,0 +1,72 @@
+[
+  {
+    "code": "64.03.081.001",
+    "villageCode": "001",
+    "districtCode": "64.03.081",
+    "name": "Kota Bangun Iii",
+    "alias": "Kota Bangun Iii"
+  },
+  {
+    "code": "64.03.081.002",
+    "villageCode": "002",
+    "districtCode": "64.03.081",
+    "name": "Kota Bangun Ii",
+    "alias": "Kota Bangun Ii"
+  },
+  {
+    "code": "64.03.081.003",
+    "villageCode": "003",
+    "districtCode": "64.03.081",
+    "name": "Kota Bangun I",
+    "alias": "Kota Bangun I"
+  },
+  {
+    "code": "64.03.081.004",
+    "villageCode": "004",
+    "districtCode": "64.03.081",
+    "name": "Wonosari",
+    "alias": "Wonosari"
+  },
+  {
+    "code": "64.03.081.005",
+    "villageCode": "005",
+    "districtCode": "64.03.081",
+    "name": "Kedang Ipil",
+    "alias": "Kedang Ipil"
+  },
+  {
+    "code": "64.03.081.006",
+    "villageCode": "006",
+    "districtCode": "64.03.081",
+    "name": "Benua Baru",
+    "alias": "Benua Baru"
+  },
+  {
+    "code": "64.03.081.007",
+    "villageCode": "007",
+    "districtCode": "64.03.081",
+    "name": "Sedulang",
+    "alias": "Sedulang"
+  },
+  {
+    "code": "64.03.081.008",
+    "villageCode": "008",
+    "districtCode": "64.03.081",
+    "name": "Suka Bumi",
+    "alias": "Suka Bumi"
+  },
+  {
+    "code": "64.03.081.009",
+    "villageCode": "009",
+    "districtCode": "64.03.081",
+    "name": "Sari Nadi",
+    "alias": "Sari Nadi"
+  },
+  {
+    "code": "64.03.081.010",
+    "villageCode": "010",
+    "districtCode": "64.03.081",
+    "name": "Sumber Sari",
+    "alias": "Sumber Sari"
+  }
+]

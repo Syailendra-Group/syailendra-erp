@@ -1,0 +1,74 @@
+[
+  {
+    "code": "51.08.010",
+    "districtCode": "010",
+    "regencyCode": "51.08",
+    "provinceCode": "51",
+    "name": "Kecamatan Gerokgak",
+    "alias": "Gerokgak"
+  },
+  {
+    "code": "51.08.020",
+    "districtCode": "020",
+    "regencyCode": "51.08",
+    "provinceCode": "51",
+    "name": "Kecamatan Seririt",
+    "alias": "Seririt"
+  },
+  {
+    "code": "51.08.030",
+    "districtCode": "030",
+    "regencyCode": "51.08",
+    "provinceCode": "51",
+    "name": "Kecamatan Busungbiu",
+    "alias": "Busungbiu"
+  },
+  {
+    "code": "51.08.040",
+    "districtCode": "040",
+    "regencyCode": "51.08",
+    "provinceCode": "51",
+    "name": "Kecamatan Banjar",
+    "alias": "Banjar"
+  },
+  {
+    "code": "51.08.050",
+    "districtCode": "050",
+    "regencyCode": "51.08",
+    "provinceCode": "51",
+    "name": "Kecamatan Sukasada",
+    "alias": "Sukasada"
+  },
+  {
+    "code": "51.08.060",
+    "districtCode": "060",
+    "regencyCode": "51.08",
+    "provinceCode": "51",
+    "name": "Kecamatan Buleleng",
+    "alias": "Buleleng"
+  },
+  {
+    "code": "51.08.070",
+    "districtCode": "070",
+    "regencyCode": "51.08",
+    "provinceCode": "51",
+    "name": "Kecamatan Sawan",
+    "alias": "Sawan"
+  },
+  {
+    "code": "51.08.080",
+    "districtCode": "080",
+    "regencyCode": "51.08",
+    "provinceCode": "51",
+    "name": "Kecamatan Kubutambahan",
+    "alias": "Kubutambahan"
+  },
+  {
+    "code": "51.08.090",
+    "districtCode": "090",
+    "regencyCode": "51.08",
+    "provinceCode": "51",
+    "name": "Kecamatan Tejakula",
+    "alias": "Tejakula"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "code": "34.01.010",
+    "districtCode": "010",
+    "regencyCode": "34.01",
+    "provinceCode": "34",
+    "name": "Kecamatan Temon",
+    "alias": "Temon"
+  },
+  {
+    "code": "34.01.020",
+    "districtCode": "020",
+    "regencyCode": "34.01",
+    "provinceCode": "34",
+    "name": "Kecamatan Wates",
+    "alias": "Wates"
+  },
+  {
+    "code": "34.01.030",
+    "districtCode": "030",
+    "regencyCode": "34.01",
+    "provinceCode": "34",
+    "name": "Kecamatan Panjatan",
+    "alias": "Panjatan"
+  },
+  {
+    "code": "34.01.040",
+    "districtCode": "040",
+    "regencyCode": "34.01",
+    "provinceCode": "34",
+    "name": "Kecamatan Galur",
+    "alias": "Galur"
+  },
+  {
+    "code": "34.01.050",
+    "districtCode": "050",
+    "regencyCode": "34.01",
+    "provinceCode": "34",
+    "name": "Kecamatan Lendah",
+    "alias": "Lendah"
+  },
+  {
+    "code": "34.01.060",
+    "districtCode": "060",
+    "regencyCode": "34.01",
+    "provinceCode": "34",
+    "name": "Kecamatan Sentolo",
+    "alias": "Sentolo"
+  },
+  {
+    "code": "34.01.070",
+    "districtCode": "070",
+    "regencyCode": "34.01",
+    "provinceCode": "34",
+    "name": "Kecamatan Pengasih",
+    "alias": "Pengasih"
+  },
+  {
+    "code": "34.01.080",
+    "districtCode": "080",
+    "regencyCode": "34.01",
+    "provinceCode": "34",
+    "name": "Kecamatan Kokap",
+    "alias": "Kokap"
+  },
+  {
+    "code": "34.01.090",
+    "districtCode": "090",
+    "regencyCode": "34.01",
+    "provinceCode": "34",
+    "name": "Kecamatan Girimulyo",
+    "alias": "Girimulyo"
+  },
+  {
+    "code": "34.01.100",
+    "districtCode": "100",
+    "regencyCode": "34.01",
+    "provinceCode": "34",
+    "name": "Kecamatan Nanggulan",
+    "alias": "Nanggulan"
+  },
+  {
+    "code": "34.01.110",
+    "districtCode": "110",
+    "regencyCode": "34.01",
+    "provinceCode": "34",
+    "name": "Kecamatan Kalibawang",
+    "alias": "Kalibawang"
+  },
+  {
+    "code": "34.01.120",
+    "districtCode": "120",
+    "regencyCode": "34.01",
+    "provinceCode": "34",
+    "name": "Kecamatan Samigaluh",
+    "alias": "Samigaluh"
+  }
+]

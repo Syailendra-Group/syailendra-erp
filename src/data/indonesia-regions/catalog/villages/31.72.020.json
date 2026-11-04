@@ -1,0 +1,37 @@
+[
+  {
+    "code": "31.72.020.001",
+    "villageCode": "001",
+    "districtCode": "31.72.020",
+    "name": "Cibubur",
+    "alias": "Cibubur"
+  },
+  {
+    "code": "31.72.020.002",
+    "villageCode": "002",
+    "districtCode": "31.72.020",
+    "name": "Kelapa Dua Wetan",
+    "alias": "Kelapa Dua Wetan"
+  },
+  {
+    "code": "31.72.020.003",
+    "villageCode": "003",
+    "districtCode": "31.72.020",
+    "name": "Ciracas",
+    "alias": "Ciracas"
+  },
+  {
+    "code": "31.72.020.004",
+    "villageCode": "004",
+    "districtCode": "31.72.020",
+    "name": "Susukan",
+    "alias": "Susukan"
+  },
+  {
+    "code": "31.72.020.005",
+    "villageCode": "005",
+    "districtCode": "31.72.020",
+    "name": "Rambutan",
+    "alias": "Rambutan"
+  }
+]

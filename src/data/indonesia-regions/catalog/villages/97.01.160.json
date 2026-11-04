@@ -1,0 +1,37 @@
+[
+  {
+    "code": "97.01.160.001",
+    "villageCode": "001",
+    "districtCode": "97.01.160",
+    "name": "Paro",
+    "alias": "Paro"
+  },
+  {
+    "code": "97.01.160.002",
+    "villageCode": "002",
+    "districtCode": "97.01.160",
+    "name": "Lombrik",
+    "alias": "Lombrik"
+  },
+  {
+    "code": "97.01.160.003",
+    "villageCode": "003",
+    "districtCode": "97.01.160",
+    "name": "Animarem",
+    "alias": "Animarem"
+  },
+  {
+    "code": "97.01.160.004",
+    "villageCode": "004",
+    "districtCode": "97.01.160",
+    "name": "Tawelma",
+    "alias": "Tawelma"
+  },
+  {
+    "code": "97.01.160.005",
+    "villageCode": "005",
+    "districtCode": "97.01.160",
+    "name": "Loaraba",
+    "alias": "Loaraba"
+  }
+]

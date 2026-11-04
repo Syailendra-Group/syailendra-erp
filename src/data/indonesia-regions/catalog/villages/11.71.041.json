@@ -1,0 +1,65 @@
+[
+  {
+    "code": "11.71.041.001",
+    "villageCode": "001",
+    "districtCode": "11.71.041",
+    "name": "Pango Raya",
+    "alias": "Pango Raya"
+  },
+  {
+    "code": "11.71.041.002",
+    "villageCode": "002",
+    "districtCode": "11.71.041",
+    "name": "Pango Deah",
+    "alias": "Pango Deah"
+  },
+  {
+    "code": "11.71.041.003",
+    "villageCode": "003",
+    "districtCode": "11.71.041",
+    "name": "Ilie",
+    "alias": "Ilie"
+  },
+  {
+    "code": "11.71.041.004",
+    "villageCode": "004",
+    "districtCode": "11.71.041",
+    "name": "Lamteh",
+    "alias": "Lamteh"
+  },
+  {
+    "code": "11.71.041.005",
+    "villageCode": "005",
+    "districtCode": "11.71.041",
+    "name": "Lamglumpang",
+    "alias": "Lamglumpang"
+  },
+  {
+    "code": "11.71.041.006",
+    "villageCode": "006",
+    "districtCode": "11.71.041",
+    "name": "Ceurih",
+    "alias": "Ceurih"
+  },
+  {
+    "code": "11.71.041.007",
+    "villageCode": "007",
+    "districtCode": "11.71.041",
+    "name": "Ie Masen Ulee Kareng",
+    "alias": "Ie Masen Ulee Kareng"
+  },
+  {
+    "code": "11.71.041.008",
+    "villageCode": "008",
+    "districtCode": "11.71.041",
+    "name": "Doy",
+    "alias": "Doy"
+  },
+  {
+    "code": "11.71.041.009",
+    "villageCode": "009",
+    "districtCode": "11.71.041",
+    "name": "Lambhuk",
+    "alias": "Lambhuk"
+  }
+]

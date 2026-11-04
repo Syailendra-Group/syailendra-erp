@@ -1,0 +1,121 @@
+[
+  {
+    "code": "92.04.100.001",
+    "villageCode": "001",
+    "districtCode": "92.04.100",
+    "name": "Kamro",
+    "alias": "Kamro"
+  },
+  {
+    "code": "92.04.100.002",
+    "villageCode": "002",
+    "districtCode": "92.04.100",
+    "name": "Sumanis",
+    "alias": "Sumanis"
+  },
+  {
+    "code": "92.04.100.003",
+    "villageCode": "003",
+    "districtCode": "92.04.100",
+    "name": "Karsu",
+    "alias": "Karsu"
+  },
+  {
+    "code": "92.04.100.004",
+    "villageCode": "004",
+    "districtCode": "92.04.100",
+    "name": "Sris",
+    "alias": "Sris"
+  },
+  {
+    "code": "92.04.100.005",
+    "villageCode": "005",
+    "districtCode": "92.04.100",
+    "name": "Eroh He",
+    "alias": "Eroh He"
+  },
+  {
+    "code": "92.04.100.006",
+    "villageCode": "006",
+    "districtCode": "92.04.100",
+    "name": "Aitinyo",
+    "alias": "Aitinyo"
+  },
+  {
+    "code": "92.04.100.007",
+    "villageCode": "007",
+    "districtCode": "92.04.100",
+    "name": "Korom",
+    "alias": "Korom"
+  },
+  {
+    "code": "92.04.100.008",
+    "villageCode": "008",
+    "districtCode": "92.04.100",
+    "name": "Tehak Kecil",
+    "alias": "Tehak Kecil"
+  },
+  {
+    "code": "92.04.100.009",
+    "villageCode": "009",
+    "districtCode": "92.04.100",
+    "name": "Sira Aya",
+    "alias": "Sira Aya"
+  },
+  {
+    "code": "92.04.100.010",
+    "villageCode": "010",
+    "districtCode": "92.04.100",
+    "name": "Kamro Selatan",
+    "alias": "Kamro Selatan"
+  },
+  {
+    "code": "92.04.100.011",
+    "villageCode": "011",
+    "districtCode": "92.04.100",
+    "name": "Subin",
+    "alias": "Subin"
+  },
+  {
+    "code": "92.04.100.012",
+    "villageCode": "012",
+    "districtCode": "92.04.100",
+    "name": "Iroh Mrar",
+    "alias": "Iroh Mrar"
+  },
+  {
+    "code": "92.04.100.013",
+    "villageCode": "013",
+    "districtCode": "92.04.100",
+    "name": "Bofait",
+    "alias": "Bofait"
+  },
+  {
+    "code": "92.04.100.014",
+    "villageCode": "014",
+    "districtCode": "92.04.100",
+    "name": "Sowai Sau",
+    "alias": "Sowai Sau"
+  },
+  {
+    "code": "92.04.100.015",
+    "villageCode": "015",
+    "districtCode": "92.04.100",
+    "name": "Ibasuf",
+    "alias": "Ibasuf"
+  },
+  {
+    "code": "92.04.100.016",
+    "villageCode": "016",
+    "districtCode": "92.04.100",
+    "name": "Wiho",
+    "alias": "Wiho"
+  },
+  {
+    "code": "92.04.100.017",
+    "villageCode": "017",
+    "districtCode": "92.04.100",
+    "name": "Afkrem",
+    "alias": "Afkrem"
+  }
+]

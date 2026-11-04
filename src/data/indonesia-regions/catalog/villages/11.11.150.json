@@ -1,0 +1,128 @@
+[
+  {
+    "code": "11.11.150.001",
+    "villageCode": "001",
+    "districtCode": "11.11.150",
+    "name": "Alue",
+    "alias": "Alue"
+  },
+  {
+    "code": "11.11.150.002",
+    "villageCode": "002",
+    "districtCode": "11.11.150",
+    "name": "Keude Matang Panyang",
+    "alias": "Keude Matang Panyang"
+  },
+  {
+    "code": "11.11.150.003",
+    "villageCode": "003",
+    "districtCode": "11.11.150",
+    "name": "Blang",
+    "alias": "Blang"
+  },
+  {
+    "code": "11.11.150.004",
+    "villageCode": "004",
+    "districtCode": "11.11.150",
+    "name": "Pande",
+    "alias": "Pande"
+  },
+  {
+    "code": "11.11.150.005",
+    "villageCode": "005",
+    "districtCode": "11.11.150",
+    "name": "Paloh",
+    "alias": "Paloh"
+  },
+  {
+    "code": "11.11.150.006",
+    "villageCode": "006",
+    "districtCode": "11.11.150",
+    "name": "Prie",
+    "alias": "Prie"
+  },
+  {
+    "code": "11.11.150.007",
+    "villageCode": "007",
+    "districtCode": "11.11.150",
+    "name": "Me Merbo",
+    "alias": "Me Merbo"
+  },
+  {
+    "code": "11.11.150.008",
+    "villageCode": "008",
+    "districtCode": "11.11.150",
+    "name": "Ulee Tanoh",
+    "alias": "Ulee Tanoh"
+  },
+  {
+    "code": "11.11.150.009",
+    "villageCode": "009",
+    "districtCode": "11.11.150",
+    "name": "Matang Ranub Laseh",
+    "alias": "Matang Ranub Laseh"
+  },
+  {
+    "code": "11.11.150.015",
+    "villageCode": "015",
+    "districtCode": "11.11.150",
+    "name": "Keutapang",
+    "alias": "Keutapang"
+  },
+  {
+    "code": "11.11.150.016",
+    "villageCode": "016",
+    "districtCode": "11.11.150",
+    "name": "Kumbang",
+    "alias": "Kumbang"
+  },
+  {
+    "code": "11.11.150.017",
+    "villageCode": "017",
+    "districtCode": "11.11.150",
+    "name": "Me Matang Panyang",
+    "alias": "Me Matang Panyang"
+  },
+  {
+    "code": "11.11.150.018",
+    "villageCode": "018",
+    "districtCode": "11.11.150",
+    "name": "Cangguek",
+    "alias": "Cangguek"
+  },
+  {
+    "code": "11.11.150.019",
+    "villageCode": "019",
+    "districtCode": "11.11.150",
+    "name": "Keude Jrat Manyang",
+    "alias": "Keude Jrat Manyang"
+  },
+  {
+    "code": "11.11.150.020",
+    "villageCode": "020",
+    "districtCode": "11.11.150",
+    "name": "Teupin Gapeuh",
+    "alias": "Teupin Gapeuh"
+  },
+  {
+    "code": "11.11.150.021",
+    "villageCode": "021",
+    "districtCode": "11.11.150",
+    "name": "Cibrek",
+    "alias": "Cibrek"
+  },
+  {
+    "code": "11.11.150.024",
+    "villageCode": "024",
+    "districtCode": "11.11.150",
+    "name": "Matang Janeng",
+    "alias": "Matang Janeng"
+  },
+  {
+    "code": "11.11.150.029",
+    "villageCode": "029",
+    "districtCode": "11.11.150",
+    "name": "Kuala Keureutoe Barat",
+    "alias": "Kuala Keureutoe Barat"
+  }
+]

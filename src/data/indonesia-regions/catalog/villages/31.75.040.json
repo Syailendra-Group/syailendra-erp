@@ -1,0 +1,44 @@
+[
+  {
+    "code": "31.75.040.001",
+    "villageCode": "001",
+    "districtCode": "31.75.040",
+    "name": "Rawabadak Selatan",
+    "alias": "Rawabadak Selatan"
+  },
+  {
+    "code": "31.75.040.002",
+    "villageCode": "002",
+    "districtCode": "31.75.040",
+    "name": "Tugu Selatan",
+    "alias": "Tugu Selatan"
+  },
+  {
+    "code": "31.75.040.003",
+    "villageCode": "003",
+    "districtCode": "31.75.040",
+    "name": "Tugu Utara",
+    "alias": "Tugu Utara"
+  },
+  {
+    "code": "31.75.040.004",
+    "villageCode": "004",
+    "districtCode": "31.75.040",
+    "name": "Lagoa",
+    "alias": "Lagoa"
+  },
+  {
+    "code": "31.75.040.005",
+    "villageCode": "005",
+    "districtCode": "31.75.040",
+    "name": "Rawabadak Utara",
+    "alias": "Rawabadak Utara"
+  },
+  {
+    "code": "31.75.040.006",
+    "villageCode": "006",
+    "districtCode": "31.75.040",
+    "name": "Koja",
+    "alias": "Koja"
+  }
+]

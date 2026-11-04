@@ -1,0 +1,58 @@
+[
+  {
+    "code": "71.72.031.001",
+    "villageCode": "001",
+    "districtCode": "71.72.031",
+    "name": "Pakadoodan",
+    "alias": "Pakadoodan"
+  },
+  {
+    "code": "71.72.031.002",
+    "villageCode": "002",
+    "districtCode": "71.72.031",
+    "name": "Bitung Barat Satu",
+    "alias": "Bitung Barat Satu"
+  },
+  {
+    "code": "71.72.031.003",
+    "villageCode": "003",
+    "districtCode": "71.72.031",
+    "name": "Bitung Barat Dua",
+    "alias": "Bitung Barat Dua"
+  },
+  {
+    "code": "71.72.031.004",
+    "villageCode": "004",
+    "districtCode": "71.72.031",
+    "name": "Kakenturan Satu",
+    "alias": "Kakenturan Satu"
+  },
+  {
+    "code": "71.72.031.005",
+    "villageCode": "005",
+    "districtCode": "71.72.031",
+    "name": "Kakenturan Dua",
+    "alias": "Kakenturan Dua"
+  },
+  {
+    "code": "71.72.031.006",
+    "villageCode": "006",
+    "districtCode": "71.72.031",
+    "name": "Bitung Tengah",
+    "alias": "Bitung Tengah"
+  },
+  {
+    "code": "71.72.031.007",
+    "villageCode": "007",
+    "districtCode": "71.72.031",
+    "name": "Bitung Timur",
+    "alias": "Bitung Timur"
+  },
+  {
+    "code": "71.72.031.008",
+    "villageCode": "008",
+    "districtCode": "71.72.031",
+    "name": "Pateten Tiga",
+    "alias": "Pateten Tiga"
+  }
+]

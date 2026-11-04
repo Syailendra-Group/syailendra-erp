@@ -1,0 +1,44 @@
+[
+  {
+    "code": "94.19.061.001",
+    "villageCode": "001",
+    "districtCode": "94.19.061",
+    "name": "Sasawapece",
+    "alias": "Sasawapece"
+  },
+  {
+    "code": "94.19.061.002",
+    "villageCode": "002",
+    "districtCode": "94.19.061",
+    "name": "Wamariri",
+    "alias": "Wamariri"
+  },
+  {
+    "code": "94.19.061.003",
+    "villageCode": "003",
+    "districtCode": "94.19.061",
+    "name": "Aurimi",
+    "alias": "Aurimi"
+  },
+  {
+    "code": "94.19.061.004",
+    "villageCode": "004",
+    "districtCode": "94.19.061",
+    "name": "Tamaya",
+    "alias": "Tamaya"
+  },
+  {
+    "code": "94.19.061.009",
+    "villageCode": "009",
+    "districtCode": "94.19.061",
+    "name": "Syurimania",
+    "alias": "Syurimania"
+  },
+  {
+    "code": "94.19.061.011",
+    "villageCode": "011",
+    "districtCode": "94.19.061",
+    "name": "Kwapitania",
+    "alias": "Kwapitania"
+  }
+]

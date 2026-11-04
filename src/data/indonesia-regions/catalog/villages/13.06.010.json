@@ -1,0 +1,58 @@
+[
+  {
+    "code": "13.06.010.001",
+    "villageCode": "001",
+    "districtCode": "13.06.010",
+    "name": "Katapiang",
+    "alias": "Katapiang"
+  },
+  {
+    "code": "13.06.010.002",
+    "villageCode": "002",
+    "districtCode": "13.06.010",
+    "name": "Kasang",
+    "alias": "Kasang"
+  },
+  {
+    "code": "13.06.010.003",
+    "villageCode": "003",
+    "districtCode": "13.06.010",
+    "name": "Sungai Buluah",
+    "alias": "Sungai Buluah"
+  },
+  {
+    "code": "13.06.010.004",
+    "villageCode": "004",
+    "districtCode": "13.06.010",
+    "name": "Buayan Lubuak Aluang",
+    "alias": "Buayan Lubuak Aluang"
+  },
+  {
+    "code": "13.06.010.005",
+    "villageCode": "005",
+    "districtCode": "13.06.010",
+    "name": "Sungai Buluah Selatan",
+    "alias": "Sungai Buluah Selatan"
+  },
+  {
+    "code": "13.06.010.006",
+    "villageCode": "006",
+    "districtCode": "13.06.010",
+    "name": "Sungai Buluah Barat",
+    "alias": "Sungai Buluah Barat"
+  },
+  {
+    "code": "13.06.010.007",
+    "villageCode": "007",
+    "districtCode": "13.06.010",
+    "name": "Sungai Buluah Timur",
+    "alias": "Sungai Buluah Timur"
+  },
+  {
+    "code": "13.06.010.008",
+    "villageCode": "008",
+    "districtCode": "13.06.010",
+    "name": "Sungai Buluah Utara",
+    "alias": "Sungai Buluah Utara"
+  }
+]

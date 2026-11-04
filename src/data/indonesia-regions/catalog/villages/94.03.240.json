@@ -1,0 +1,51 @@
+[
+  {
+    "code": "94.03.240.001",
+    "villageCode": "001",
+    "districtCode": "94.03.240",
+    "name": "Puai",
+    "alias": "Puai"
+  },
+  {
+    "code": "94.03.240.002",
+    "villageCode": "002",
+    "districtCode": "94.03.240",
+    "name": "Itakiwa",
+    "alias": "Itakiwa"
+  },
+  {
+    "code": "94.03.240.003",
+    "villageCode": "003",
+    "districtCode": "94.03.240",
+    "name": "Asei Besar",
+    "alias": "Asei Besar"
+  },
+  {
+    "code": "94.03.240.004",
+    "villageCode": "004",
+    "districtCode": "94.03.240",
+    "name": "Asei Kecil",
+    "alias": "Asei Kecil"
+  },
+  {
+    "code": "94.03.240.005",
+    "villageCode": "005",
+    "districtCode": "94.03.240",
+    "name": "Nolokla",
+    "alias": "Nolokla"
+  },
+  {
+    "code": "94.03.240.006",
+    "villageCode": "006",
+    "districtCode": "94.03.240",
+    "name": "Nendali",
+    "alias": "Nendali"
+  },
+  {
+    "code": "94.03.240.007",
+    "villageCode": "007",
+    "districtCode": "94.03.240",
+    "name": "Yokiwa",
+    "alias": "Yokiwa"
+  }
+]

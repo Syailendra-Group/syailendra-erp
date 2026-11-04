@@ -1,0 +1,51 @@
+[
+  {
+    "code": "14.04.011.001",
+    "villageCode": "001",
+    "districtCode": "14.04.011",
+    "name": "Rantau Baru",
+    "alias": "Rantau Baru"
+  },
+  {
+    "code": "14.04.011.002",
+    "villageCode": "002",
+    "districtCode": "14.04.011",
+    "name": "Kuala Terusan",
+    "alias": "Kuala Terusan"
+  },
+  {
+    "code": "14.04.011.003",
+    "villageCode": "003",
+    "districtCode": "14.04.011",
+    "name": "Pangkalan Kerinci Kota",
+    "alias": "Pangkalan Kerinci Kota"
+  },
+  {
+    "code": "14.04.011.005",
+    "villageCode": "005",
+    "districtCode": "14.04.011",
+    "name": "Mekar Jaya",
+    "alias": "Mekar Jaya"
+  },
+  {
+    "code": "14.04.011.006",
+    "villageCode": "006",
+    "districtCode": "14.04.011",
+    "name": "Makmur",
+    "alias": "Makmur"
+  },
+  {
+    "code": "14.04.011.007",
+    "villageCode": "007",
+    "districtCode": "14.04.011",
+    "name": "Pangkalan Kerinci Barat",
+    "alias": "Pangkalan Kerinci Barat"
+  },
+  {
+    "code": "14.04.011.008",
+    "villageCode": "008",
+    "districtCode": "14.04.011",
+    "name": "Pangkalan Kerinci Timur",
+    "alias": "Pangkalan Kerinci Timur"
+  }
+]

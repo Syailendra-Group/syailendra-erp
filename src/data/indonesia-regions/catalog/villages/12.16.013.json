@@ -1,0 +1,37 @@
+[
+  {
+    "code": "12.16.013.001",
+    "villageCode": "001",
+    "districtCode": "12.16.013",
+    "name": "Silimakuta",
+    "alias": "Silimakuta"
+  },
+  {
+    "code": "12.16.013.002",
+    "villageCode": "002",
+    "districtCode": "12.16.013",
+    "name": "Ulu Merah",
+    "alias": "Ulu Merah"
+  },
+  {
+    "code": "12.16.013.003",
+    "villageCode": "003",
+    "districtCode": "12.16.013",
+    "name": "Pardomuan",
+    "alias": "Pardomuan"
+  },
+  {
+    "code": "12.16.013.004",
+    "villageCode": "004",
+    "districtCode": "12.16.013",
+    "name": "Lae Langge Namuseng",
+    "alias": "Lae Langge Namuseng"
+  },
+  {
+    "code": "12.16.013.005",
+    "villageCode": "005",
+    "districtCode": "12.16.013",
+    "name": "Cikaok",
+    "alias": "Cikaok"
+  }
+]

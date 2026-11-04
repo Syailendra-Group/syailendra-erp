@@ -1,0 +1,82 @@
+[
+  {
+    "code": "64.01.010",
+    "districtCode": "010",
+    "regencyCode": "64.01",
+    "provinceCode": "64",
+    "name": "Kecamatan Batu Sopang",
+    "alias": "Batu Sopang"
+  },
+  {
+    "code": "64.01.011",
+    "districtCode": "011",
+    "regencyCode": "64.01",
+    "provinceCode": "64",
+    "name": "Kecamatan Muara Samu",
+    "alias": "Muara Samu"
+  },
+  {
+    "code": "64.01.021",
+    "districtCode": "021",
+    "regencyCode": "64.01",
+    "provinceCode": "64",
+    "name": "Kecamatan Batu Engau",
+    "alias": "Batu Engau"
+  },
+  {
+    "code": "64.01.022",
+    "districtCode": "022",
+    "regencyCode": "64.01",
+    "provinceCode": "64",
+    "name": "Kecamatan Tanjung Harapan",
+    "alias": "Tanjung Harapan"
+  },
+  {
+    "code": "64.01.030",
+    "districtCode": "030",
+    "regencyCode": "64.01",
+    "provinceCode": "64",
+    "name": "Kecamatan Pasir Belengkong",
+    "alias": "Pasir Belengkong"
+  },
+  {
+    "code": "64.01.040",
+    "districtCode": "040",
+    "regencyCode": "64.01",
+    "provinceCode": "64",
+    "name": "Kecamatan Tanah Grogot",
+    "alias": "Tanah Grogot"
+  },
+  {
+    "code": "64.01.050",
+    "districtCode": "050",
+    "regencyCode": "64.01",
+    "provinceCode": "64",
+    "name": "Kecamatan Kuaro",
+    "alias": "Kuaro"
+  },
+  {
+    "code": "64.01.060",
+    "districtCode": "060",
+    "regencyCode": "64.01",
+    "provinceCode": "64",
+    "name": "Kecamatan Long Ikis",
+    "alias": "Long Ikis"
+  },
+  {
+    "code": "64.01.070",
+    "districtCode": "070",
+    "regencyCode": "64.01",
+    "provinceCode": "64",
+    "name": "Kecamatan Muara Komam",
+    "alias": "Muara Komam"
+  },
+  {
+    "code": "64.01.080",
+    "districtCode": "080",
+    "regencyCode": "64.01",
+    "provinceCode": "64",
+    "name": "Kecamatan Long Kali",
+    "alias": "Long Kali"
+  }
+]

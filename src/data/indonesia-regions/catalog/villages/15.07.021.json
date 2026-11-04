@@ -1,0 +1,72 @@
+[
+  {
+    "code": "15.07.021.001",
+    "villageCode": "001",
+    "districtCode": "15.07.021",
+    "name": "Margo Rukun",
+    "alias": "Margo Rukun"
+  },
+  {
+    "code": "15.07.021.002",
+    "villageCode": "002",
+    "districtCode": "15.07.021",
+    "name": "Sungai Rambai",
+    "alias": "Sungai Rambai"
+  },
+  {
+    "code": "15.07.021.003",
+    "villageCode": "003",
+    "districtCode": "15.07.021",
+    "name": "Teluk Ketapang",
+    "alias": "Teluk Ketapang"
+  },
+  {
+    "code": "15.07.021.004",
+    "villageCode": "004",
+    "districtCode": "15.07.021",
+    "name": "Sungai Kayu Aro",
+    "alias": "Sungai Kayu Aro"
+  },
+  {
+    "code": "15.07.021.005",
+    "villageCode": "005",
+    "districtCode": "15.07.021",
+    "name": "Senyerang",
+    "alias": "Senyerang"
+  },
+  {
+    "code": "15.07.021.006",
+    "villageCode": "006",
+    "districtCode": "15.07.021",
+    "name": "Lumahan",
+    "alias": "Lumahan"
+  },
+  {
+    "code": "15.07.021.007",
+    "villageCode": "007",
+    "districtCode": "15.07.021",
+    "name": "Kempas Jaya",
+    "alias": "Kempas Jaya"
+  },
+  {
+    "code": "15.07.021.008",
+    "villageCode": "008",
+    "districtCode": "15.07.021",
+    "name": "Sungsang",
+    "alias": "Sungsang"
+  },
+  {
+    "code": "15.07.021.009",
+    "villageCode": "009",
+    "districtCode": "15.07.021",
+    "name": "Sungai Kepayang",
+    "alias": "Sungai Kepayang"
+  },
+  {
+    "code": "15.07.021.010",
+    "villageCode": "010",
+    "districtCode": "15.07.021",
+    "name": "Sungai Landak",
+    "alias": "Sungai Landak"
+  }
+]

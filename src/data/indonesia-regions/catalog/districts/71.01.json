@@ -1,0 +1,122 @@
+[
+  {
+    "code": "71.01.021",
+    "districtCode": "021",
+    "regencyCode": "71.01",
+    "provinceCode": "71",
+    "name": "Kecamatan Dumoga Barat",
+    "alias": "Dumoga Barat"
+  },
+  {
+    "code": "71.01.022",
+    "districtCode": "022",
+    "regencyCode": "71.01",
+    "provinceCode": "71",
+    "name": "Kecamatan Dumoga Utara",
+    "alias": "Dumoga Utara"
+  },
+  {
+    "code": "71.01.023",
+    "districtCode": "023",
+    "regencyCode": "71.01",
+    "provinceCode": "71",
+    "name": "Kecamatan Dumoga Timur",
+    "alias": "Dumoga Timur"
+  },
+  {
+    "code": "71.01.024",
+    "districtCode": "024",
+    "regencyCode": "71.01",
+    "provinceCode": "71",
+    "name": "Kecamatan Dumoga Tengah",
+    "alias": "Dumoga Tengah"
+  },
+  {
+    "code": "71.01.025",
+    "districtCode": "025",
+    "regencyCode": "71.01",
+    "provinceCode": "71",
+    "name": "Kecamatan Dumoga Tenggara",
+    "alias": "Dumoga Tenggara"
+  },
+  {
+    "code": "71.01.026",
+    "districtCode": "026",
+    "regencyCode": "71.01",
+    "provinceCode": "71",
+    "name": "Kecamatan Dumoga",
+    "alias": "Dumoga"
+  },
+  {
+    "code": "71.01.060",
+    "districtCode": "060",
+    "regencyCode": "71.01",
+    "provinceCode": "71",
+    "name": "Kecamatan Lolayan",
+    "alias": "Lolayan"
+  },
+  {
+    "code": "71.01.081",
+    "districtCode": "081",
+    "regencyCode": "71.01",
+    "provinceCode": "71",
+    "name": "Kecamatan Passi Barat",
+    "alias": "Passi Barat"
+  },
+  {
+    "code": "71.01.082",
+    "districtCode": "082",
+    "regencyCode": "71.01",
+    "provinceCode": "71",
+    "name": "Kecamatan Passi Timur",
+    "alias": "Passi Timur"
+  },
+  {
+    "code": "71.01.083",
+    "districtCode": "083",
+    "regencyCode": "71.01",
+    "provinceCode": "71",
+    "name": "Kecamatan Bilalang",
+    "alias": "Bilalang"
+  },
+  {
+    "code": "71.01.090",
+    "districtCode": "090",
+    "regencyCode": "71.01",
+    "provinceCode": "71",
+    "name": "Kecamatan Poigar",
+    "alias": "Poigar"
+  },
+  {
+    "code": "71.01.100",
+    "districtCode": "100",
+    "regencyCode": "71.01",
+    "provinceCode": "71",
+    "name": "Kecamatan Bolaang",
+    "alias": "Bolaang"
+  },
+  {
+    "code": "71.01.101",
+    "districtCode": "101",
+    "regencyCode": "71.01",
+    "provinceCode": "71",
+    "name": "Kecamatan Bolaang Timur",
+    "alias": "Bolaang Timur"
+  },
+  {
+    "code": "71.01.110",
+    "districtCode": "110",
+    "regencyCode": "71.01",
+    "provinceCode": "71",
+    "name": "Kecamatan Lolak",
+    "alias": "Lolak"
+  },
+  {
+    "code": "71.01.120",
+    "districtCode": "120",
+    "regencyCode": "71.01",
+    "provinceCode": "71",
+    "name": "Kecamatan Sangtombolang",
+    "alias": "Sangtombolang"
+  }
+]

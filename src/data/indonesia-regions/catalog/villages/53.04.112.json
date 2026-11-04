@@ -1,0 +1,44 @@
+[
+  {
+    "code": "53.04.112.001",
+    "villageCode": "001",
+    "districtCode": "53.04.112",
+    "name": "Lotas",
+    "alias": "Lotas"
+  },
+  {
+    "code": "53.04.112.002",
+    "villageCode": "002",
+    "districtCode": "53.04.112",
+    "name": "Sabnala",
+    "alias": "Sabnala"
+  },
+  {
+    "code": "53.04.112.003",
+    "villageCode": "003",
+    "districtCode": "53.04.112",
+    "name": "Kol Oto",
+    "alias": "Kol Oto"
+  },
+  {
+    "code": "53.04.112.004",
+    "villageCode": "004",
+    "districtCode": "53.04.112",
+    "name": "Obaki",
+    "alias": "Obaki"
+  },
+  {
+    "code": "53.04.112.005",
+    "villageCode": "005",
+    "districtCode": "53.04.112",
+    "name": "Benahe",
+    "alias": "Benahe"
+  },
+  {
+    "code": "53.04.112.006",
+    "villageCode": "006",
+    "districtCode": "53.04.112",
+    "name": "Niti",
+    "alias": "Niti"
+  }
+]

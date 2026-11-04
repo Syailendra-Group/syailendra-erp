@@ -1,0 +1,30 @@
+[
+  {
+    "code": "74.06.012.001",
+    "villageCode": "001",
+    "districtCode": "74.06.012",
+    "name": "Pongkalaero",
+    "alias": "Pongkalaero"
+  },
+  {
+    "code": "74.06.012.002",
+    "villageCode": "002",
+    "districtCode": "74.06.012",
+    "name": "Batuawu",
+    "alias": "Batuawu"
+  },
+  {
+    "code": "74.06.012.003",
+    "villageCode": "003",
+    "districtCode": "74.06.012",
+    "name": "Langkema",
+    "alias": "Langkema"
+  },
+  {
+    "code": "74.06.012.004",
+    "villageCode": "004",
+    "districtCode": "74.06.012",
+    "name": "Puu Nunu",
+    "alias": "Puu Nunu"
+  }
+]

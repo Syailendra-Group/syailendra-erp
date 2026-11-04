@@ -1,0 +1,30 @@
+[
+  {
+    "code": "14.06.050.002",
+    "villageCode": "002",
+    "districtCode": "14.06.050",
+    "name": "Langgini",
+    "alias": "Langgini"
+  },
+  {
+    "code": "14.06.050.003",
+    "villageCode": "003",
+    "districtCode": "14.06.050",
+    "name": "Bangkinang",
+    "alias": "Bangkinang"
+  },
+  {
+    "code": "14.06.050.013",
+    "villageCode": "013",
+    "districtCode": "14.06.050",
+    "name": "Kumantan",
+    "alias": "Kumantan"
+  },
+  {
+    "code": "14.06.050.014",
+    "villageCode": "014",
+    "districtCode": "14.06.050",
+    "name": "Ridan Permai",
+    "alias": "Ridan Permai"
+  }
+]

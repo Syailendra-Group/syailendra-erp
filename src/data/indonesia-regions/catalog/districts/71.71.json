@@ -1,0 +1,90 @@
+[
+  {
+    "code": "71.71.010",
+    "districtCode": "010",
+    "regencyCode": "71.71",
+    "provinceCode": "71",
+    "name": "Kecamatan Malalayang",
+    "alias": "Malalayang"
+  },
+  {
+    "code": "71.71.020",
+    "districtCode": "020",
+    "regencyCode": "71.71",
+    "provinceCode": "71",
+    "name": "Kecamatan Sario",
+    "alias": "Sario"
+  },
+  {
+    "code": "71.71.021",
+    "districtCode": "021",
+    "regencyCode": "71.71",
+    "provinceCode": "71",
+    "name": "Kecamatan Wanea",
+    "alias": "Wanea"
+  },
+  {
+    "code": "71.71.030",
+    "districtCode": "030",
+    "regencyCode": "71.71",
+    "provinceCode": "71",
+    "name": "Kecamatan Wenang",
+    "alias": "Wenang"
+  },
+  {
+    "code": "71.71.031",
+    "districtCode": "031",
+    "regencyCode": "71.71",
+    "provinceCode": "71",
+    "name": "Kecamatan Tikala",
+    "alias": "Tikala"
+  },
+  {
+    "code": "71.71.032",
+    "districtCode": "032",
+    "regencyCode": "71.71",
+    "provinceCode": "71",
+    "name": "Kecamatan Paal Dua",
+    "alias": "Paal Dua"
+  },
+  {
+    "code": "71.71.040",
+    "districtCode": "040",
+    "regencyCode": "71.71",
+    "provinceCode": "71",
+    "name": "Kecamatan Mapanget",
+    "alias": "Mapanget"
+  },
+  {
+    "code": "71.71.051",
+    "districtCode": "051",
+    "regencyCode": "71.71",
+    "provinceCode": "71",
+    "name": "Kecamatan Singkil",
+    "alias": "Singkil"
+  },
+  {
+    "code": "71.71.052",
+    "districtCode": "052",
+    "regencyCode": "71.71",
+    "provinceCode": "71",
+    "name": "Kecamatan Tuminting",
+    "alias": "Tuminting"
+  },
+  {
+    "code": "71.71.053",
+    "districtCode": "053",
+    "regencyCode": "71.71",
+    "provinceCode": "71",
+    "name": "Kecamatan Bunaken",
+    "alias": "Bunaken"
+  },
+  {
+    "code": "71.71.054",
+    "districtCode": "054",
+    "regencyCode": "71.71",
+    "provinceCode": "71",
+    "name": "Kecamatan Bunaken Kepulauan",
+    "alias": "Bunaken Kepulauan"
+  }
+]

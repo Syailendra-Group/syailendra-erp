@@ -1,0 +1,86 @@
+[
+  {
+    "code": "73.12.040.001",
+    "villageCode": "001",
+    "districtCode": "73.12.040",
+    "name": "Pajalesang",
+    "alias": "Pajalesang"
+  },
+  {
+    "code": "73.12.040.002",
+    "villageCode": "002",
+    "districtCode": "73.12.040",
+    "name": "Cabenge",
+    "alias": "Cabenge"
+  },
+  {
+    "code": "73.12.040.003",
+    "villageCode": "003",
+    "districtCode": "73.12.040",
+    "name": "Paroto",
+    "alias": "Paroto"
+  },
+  {
+    "code": "73.12.040.004",
+    "villageCode": "004",
+    "districtCode": "73.12.040",
+    "name": "Palangiseng",
+    "alias": "Palangiseng"
+  },
+  {
+    "code": "73.12.040.005",
+    "villageCode": "005",
+    "districtCode": "73.12.040",
+    "name": "Tetewatu",
+    "alias": "Tetewatu"
+  },
+  {
+    "code": "73.12.040.006",
+    "villageCode": "006",
+    "districtCode": "73.12.040",
+    "name": "Abbanuange",
+    "alias": "Abbanuange"
+  },
+  {
+    "code": "73.12.040.007",
+    "villageCode": "007",
+    "districtCode": "73.12.040",
+    "name": "Parenring",
+    "alias": "Parenring"
+  },
+  {
+    "code": "73.12.040.008",
+    "villageCode": "008",
+    "districtCode": "73.12.040",
+    "name": "Ujung",
+    "alias": "Ujung"
+  },
+  {
+    "code": "73.12.040.009",
+    "villageCode": "009",
+    "districtCode": "73.12.040",
+    "name": "Masing",
+    "alias": "Masing"
+  },
+  {
+    "code": "73.12.040.010",
+    "villageCode": "010",
+    "districtCode": "73.12.040",
+    "name": "Baringeng",
+    "alias": "Baringeng"
+  },
+  {
+    "code": "73.12.040.011",
+    "villageCode": "011",
+    "districtCode": "73.12.040",
+    "name": "Kebo",
+    "alias": "Kebo"
+  },
+  {
+    "code": "73.12.040.012",
+    "villageCode": "012",
+    "districtCode": "73.12.040",
+    "name": "Macanre",
+    "alias": "Macanre"
+  }
+]

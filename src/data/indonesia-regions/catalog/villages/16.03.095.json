@@ -1,0 +1,72 @@
+[
+  {
+    "code": "16.03.095.001",
+    "villageCode": "001",
+    "districtCode": "16.03.095",
+    "name": "Babat",
+    "alias": "Babat"
+  },
+  {
+    "code": "16.03.095.002",
+    "villageCode": "002",
+    "districtCode": "16.03.095",
+    "name": "Talang Balai",
+    "alias": "Talang Balai"
+  },
+  {
+    "code": "16.03.095.003",
+    "villageCode": "003",
+    "districtCode": "16.03.095",
+    "name": "Sialingan",
+    "alias": "Sialingan"
+  },
+  {
+    "code": "16.03.095.004",
+    "villageCode": "004",
+    "districtCode": "16.03.095",
+    "name": "Tanjung Bunut",
+    "alias": "Tanjung Bunut"
+  },
+  {
+    "code": "16.03.095.005",
+    "villageCode": "005",
+    "districtCode": "16.03.095",
+    "name": "Ibul",
+    "alias": "Ibul"
+  },
+  {
+    "code": "16.03.095.006",
+    "villageCode": "006",
+    "districtCode": "16.03.095",
+    "name": "Gaung Asam",
+    "alias": "Gaung Asam"
+  },
+  {
+    "code": "16.03.095.014",
+    "villageCode": "014",
+    "districtCode": "16.03.095",
+    "name": "Lubuk Semantung",
+    "alias": "Lubuk Semantung"
+  },
+  {
+    "code": "16.03.095.016",
+    "villageCode": "016",
+    "districtCode": "16.03.095",
+    "name": "Lubuk Getam",
+    "alias": "Lubuk Getam"
+  },
+  {
+    "code": "16.03.095.018",
+    "villageCode": "018",
+    "districtCode": "16.03.095",
+    "name": "Tanjung Tiga",
+    "alias": "Tanjung Tiga"
+  },
+  {
+    "code": "16.03.095.019",
+    "villageCode": "019",
+    "districtCode": "16.03.095",
+    "name": "Talang Beliung",
+    "alias": "Talang Beliung"
+  }
+]

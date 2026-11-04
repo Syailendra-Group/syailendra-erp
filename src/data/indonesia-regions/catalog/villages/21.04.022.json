@@ -1,0 +1,44 @@
+[
+  {
+    "code": "21.04.022.001",
+    "villageCode": "001",
+    "districtCode": "21.04.022",
+    "name": "Berindat",
+    "alias": "Berindat"
+  },
+  {
+    "code": "21.04.022.002",
+    "villageCode": "002",
+    "districtCode": "21.04.022",
+    "name": "Persing",
+    "alias": "Persing"
+  },
+  {
+    "code": "21.04.022.003",
+    "villageCode": "003",
+    "districtCode": "21.04.022",
+    "name": "Sedamai",
+    "alias": "Sedamai"
+  },
+  {
+    "code": "21.04.022.004",
+    "villageCode": "004",
+    "districtCode": "21.04.022",
+    "name": "Lanjut",
+    "alias": "Lanjut"
+  },
+  {
+    "code": "21.04.022.005",
+    "villageCode": "005",
+    "districtCode": "21.04.022",
+    "name": "Kote",
+    "alias": "Kote"
+  },
+  {
+    "code": "21.04.022.006",
+    "villageCode": "006",
+    "districtCode": "21.04.022",
+    "name": "Pelakak",
+    "alias": "Pelakak"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "code": "96.07.020.001",
+    "villageCode": "001",
+    "districtCode": "96.07.020",
+    "name": "Tuput",
+    "alias": "Tuput"
+  },
+  {
+    "code": "96.07.020.002",
+    "villageCode": "002",
+    "districtCode": "96.07.020",
+    "name": "Wenggenambut",
+    "alias": "Wenggenambut"
+  },
+  {
+    "code": "96.07.020.003",
+    "villageCode": "003",
+    "districtCode": "96.07.020",
+    "name": "Wanombut",
+    "alias": "Wanombut"
+  },
+  {
+    "code": "96.07.020.004",
+    "villageCode": "004",
+    "districtCode": "96.07.020",
+    "name": "Tenawi",
+    "alias": "Tenawi"
+  },
+  {
+    "code": "96.07.020.005",
+    "villageCode": "005",
+    "districtCode": "96.07.020",
+    "name": "Womru",
+    "alias": "Womru"
+  },
+  {
+    "code": "96.07.020.006",
+    "villageCode": "006",
+    "districtCode": "96.07.020",
+    "name": "Pumbanak",
+    "alias": "Pumbanak"
+  },
+  {
+    "code": "96.07.020.007",
+    "villageCode": "007",
+    "districtCode": "96.07.020",
+    "name": "Piluwolu",
+    "alias": "Piluwolu"
+  }
+]

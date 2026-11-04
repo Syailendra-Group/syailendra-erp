@@ -1,0 +1,65 @@
+[
+  {
+    "code": "14.05.022.001",
+    "villageCode": "001",
+    "districtCode": "14.05.022",
+    "name": "Meredan",
+    "alias": "Meredan"
+  },
+  {
+    "code": "14.05.022.002",
+    "villageCode": "002",
+    "districtCode": "14.05.022",
+    "name": "Tualang",
+    "alias": "Tualang"
+  },
+  {
+    "code": "14.05.022.003",
+    "villageCode": "003",
+    "districtCode": "14.05.022",
+    "name": "Pinang Sebatang",
+    "alias": "Pinang Sebatang"
+  },
+  {
+    "code": "14.05.022.013",
+    "villageCode": "013",
+    "districtCode": "14.05.022",
+    "name": "Meredan Barat",
+    "alias": "Meredan Barat"
+  },
+  {
+    "code": "14.05.022.014",
+    "villageCode": "014",
+    "districtCode": "14.05.022",
+    "name": "Pinang Sebatang Barat",
+    "alias": "Pinang Sebatang Barat"
+  },
+  {
+    "code": "14.05.022.015",
+    "villageCode": "015",
+    "districtCode": "14.05.022",
+    "name": "Pinang Sebatang Timur",
+    "alias": "Pinang Sebatang Timur"
+  },
+  {
+    "code": "14.05.022.016",
+    "villageCode": "016",
+    "districtCode": "14.05.022",
+    "name": "Perawang Barat",
+    "alias": "Perawang Barat"
+  },
+  {
+    "code": "14.05.022.017",
+    "villageCode": "017",
+    "districtCode": "14.05.022",
+    "name": "Perawang",
+    "alias": "Perawang"
+  },
+  {
+    "code": "14.05.022.018",
+    "villageCode": "018",
+    "districtCode": "14.05.022",
+    "name": "Tualang Timur",
+    "alias": "Tualang Timur"
+  }
+]

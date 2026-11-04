@@ -1,0 +1,58 @@
+[
+  {
+    "code": "97.07.380.001",
+    "villageCode": "001",
+    "districtCode": "97.07.380",
+    "name": "Weawen",
+    "alias": "Weawen"
+  },
+  {
+    "code": "97.07.380.002",
+    "villageCode": "002",
+    "districtCode": "97.07.380",
+    "name": "Kwelena",
+    "alias": "Kwelena"
+  },
+  {
+    "code": "97.07.380.003",
+    "villageCode": "003",
+    "districtCode": "97.07.380",
+    "name": "Banga",
+    "alias": "Banga"
+  },
+  {
+    "code": "97.07.380.004",
+    "villageCode": "004",
+    "districtCode": "97.07.380",
+    "name": "Musan",
+    "alias": "Musan"
+  },
+  {
+    "code": "97.07.380.005",
+    "villageCode": "005",
+    "districtCode": "97.07.380",
+    "name": "Salbi",
+    "alias": "Salbi"
+  },
+  {
+    "code": "97.07.380.006",
+    "villageCode": "006",
+    "districtCode": "97.07.380",
+    "name": "Erim",
+    "alias": "Erim"
+  },
+  {
+    "code": "97.07.380.007",
+    "villageCode": "007",
+    "districtCode": "97.07.380",
+    "name": "Singokla",
+    "alias": "Singokla"
+  },
+  {
+    "code": "97.07.380.008",
+    "villageCode": "008",
+    "districtCode": "97.07.380",
+    "name": "Soline",
+    "alias": "Soline"
+  }
+]

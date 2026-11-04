@@ -1,0 +1,37 @@
+[
+  {
+    "code": "92.05.170.001",
+    "villageCode": "001",
+    "districtCode": "92.05.170",
+    "name": "Syukwo",
+    "alias": "Syukwo"
+  },
+  {
+    "code": "92.05.170.002",
+    "villageCode": "002",
+    "districtCode": "92.05.170",
+    "name": "Wau",
+    "alias": "Wau"
+  },
+  {
+    "code": "92.05.170.003",
+    "villageCode": "003",
+    "districtCode": "92.05.170",
+    "name": "Weyaf",
+    "alias": "Weyaf"
+  },
+  {
+    "code": "92.05.170.004",
+    "villageCode": "004",
+    "districtCode": "92.05.170",
+    "name": "Waibem",
+    "alias": "Waibem"
+  },
+  {
+    "code": "92.05.170.005",
+    "villageCode": "005",
+    "districtCode": "92.05.170",
+    "name": "Weprari",
+    "alias": "Weprari"
+  }
+]

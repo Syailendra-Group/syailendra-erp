@@ -1,0 +1,51 @@
+[
+  {
+    "code": "95.02.100.001",
+    "villageCode": "001",
+    "districtCode": "95.02.100",
+    "name": "Patriot",
+    "alias": "Patriot"
+  },
+  {
+    "code": "95.02.100.002",
+    "villageCode": "002",
+    "districtCode": "95.02.100",
+    "name": "Arimbit",
+    "alias": "Arimbit"
+  },
+  {
+    "code": "95.02.100.003",
+    "villageCode": "003",
+    "districtCode": "95.02.100",
+    "name": "Aroa",
+    "alias": "Aroa"
+  },
+  {
+    "code": "95.02.100.004",
+    "villageCode": "004",
+    "districtCode": "95.02.100",
+    "name": "Ginggimob",
+    "alias": "Ginggimob"
+  },
+  {
+    "code": "95.02.100.005",
+    "villageCode": "005",
+    "districtCode": "95.02.100",
+    "name": "Maju",
+    "alias": "Maju"
+  },
+  {
+    "code": "95.02.100.006",
+    "villageCode": "006",
+    "districtCode": "95.02.100",
+    "name": "Ujung",
+    "alias": "Ujung"
+  },
+  {
+    "code": "95.02.100.007",
+    "villageCode": "007",
+    "districtCode": "95.02.100",
+    "name": "Bukit",
+    "alias": "Bukit"
+  }
+]

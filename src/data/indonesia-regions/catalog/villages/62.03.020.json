@@ -1,0 +1,93 @@
+[
+  {
+    "code": "62.03.020.001",
+    "villageCode": "001",
+    "districtCode": "62.03.020",
+    "name": "Batanjung",
+    "alias": "Batanjung"
+  },
+  {
+    "code": "62.03.020.002",
+    "villageCode": "002",
+    "districtCode": "62.03.020",
+    "name": "Cemara Labat",
+    "alias": "Cemara Labat"
+  },
+  {
+    "code": "62.03.020.003",
+    "villageCode": "003",
+    "districtCode": "62.03.020",
+    "name": "Palampai",
+    "alias": "Palampai"
+  },
+  {
+    "code": "62.03.020.004",
+    "villageCode": "004",
+    "districtCode": "62.03.020",
+    "name": "Sungai Teras",
+    "alias": "Sungai Teras"
+  },
+  {
+    "code": "62.03.020.005",
+    "villageCode": "005",
+    "districtCode": "62.03.020",
+    "name": "Lupak Dalam",
+    "alias": "Lupak Dalam"
+  },
+  {
+    "code": "62.03.020.006",
+    "villageCode": "006",
+    "districtCode": "62.03.020",
+    "name": "Tamban Baru Selatan",
+    "alias": "Tamban Baru Selatan"
+  },
+  {
+    "code": "62.03.020.011",
+    "villageCode": "011",
+    "districtCode": "62.03.020",
+    "name": "Tamban Lupak",
+    "alias": "Tamban Lupak"
+  },
+  {
+    "code": "62.03.020.012",
+    "villageCode": "012",
+    "districtCode": "62.03.020",
+    "name": "Simpang Bunga Tanjung",
+    "alias": "Simpang Bunga Tanjung"
+  },
+  {
+    "code": "62.03.020.013",
+    "villageCode": "013",
+    "districtCode": "62.03.020",
+    "name": "Baranggau",
+    "alias": "Baranggau"
+  },
+  {
+    "code": "62.03.020.014",
+    "villageCode": "014",
+    "districtCode": "62.03.020",
+    "name": "Lupak Timur",
+    "alias": "Lupak Timur"
+  },
+  {
+    "code": "62.03.020.015",
+    "villageCode": "015",
+    "districtCode": "62.03.020",
+    "name": "Pematang",
+    "alias": "Pematang"
+  },
+  {
+    "code": "62.03.020.016",
+    "villageCode": "016",
+    "districtCode": "62.03.020",
+    "name": "Wargo Mulyo",
+    "alias": "Wargo Mulyo"
+  },
+  {
+    "code": "62.03.020.017",
+    "villageCode": "017",
+    "districtCode": "62.03.020",
+    "name": "Sei Bakut",
+    "alias": "Sei Bakut"
+  }
+]

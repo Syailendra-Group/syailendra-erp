@@ -1,0 +1,50 @@
+[
+  {
+    "code": "53.20.010",
+    "districtCode": "010",
+    "regencyCode": "53.20",
+    "provinceCode": "53",
+    "name": "Kecamatan Raijua",
+    "alias": "Raijua"
+  },
+  {
+    "code": "53.20.020",
+    "districtCode": "020",
+    "regencyCode": "53.20",
+    "provinceCode": "53",
+    "name": "Kecamatan Hawu Mehara",
+    "alias": "Hawu Mehara"
+  },
+  {
+    "code": "53.20.030",
+    "districtCode": "030",
+    "regencyCode": "53.20",
+    "provinceCode": "53",
+    "name": "Kecamatan Sabu Liae",
+    "alias": "Sabu Liae"
+  },
+  {
+    "code": "53.20.040",
+    "districtCode": "040",
+    "regencyCode": "53.20",
+    "provinceCode": "53",
+    "name": "Kecamatan Sabu Barat",
+    "alias": "Sabu Barat"
+  },
+  {
+    "code": "53.20.050",
+    "districtCode": "050",
+    "regencyCode": "53.20",
+    "provinceCode": "53",
+    "name": "Kecamatan Sabu Tengah",
+    "alias": "Sabu Tengah"
+  },
+  {
+    "code": "53.20.060",
+    "districtCode": "060",
+    "regencyCode": "53.20",
+    "provinceCode": "53",
+    "name": "Kecamatan Sabu Timur",
+    "alias": "Sabu Timur"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "code": "13.74.010.001",
+    "villageCode": "001",
+    "districtCode": "13.74.010",
+    "name": "Silaing Bawah",
+    "alias": "Silaing Bawah"
+  },
+  {
+    "code": "13.74.010.002",
+    "villageCode": "002",
+    "districtCode": "13.74.010",
+    "name": "Silaing Atas",
+    "alias": "Silaing Atas"
+  },
+  {
+    "code": "13.74.010.003",
+    "villageCode": "003",
+    "districtCode": "13.74.010",
+    "name": "Pasar Usang",
+    "alias": "Pasar Usang"
+  },
+  {
+    "code": "13.74.010.004",
+    "villageCode": "004",
+    "districtCode": "13.74.010",
+    "name": "Kampung  Manggis",
+    "alias": "Kampung  Manggis"
+  },
+  {
+    "code": "13.74.010.005",
+    "villageCode": "005",
+    "districtCode": "13.74.010",
+    "name": "Tanah Hitam",
+    "alias": "Tanah Hitam"
+  },
+  {
+    "code": "13.74.010.006",
+    "villageCode": "006",
+    "districtCode": "13.74.010",
+    "name": "Pasar Baru",
+    "alias": "Pasar Baru"
+  },
+  {
+    "code": "13.74.010.007",
+    "villageCode": "007",
+    "districtCode": "13.74.010",
+    "name": "Bukit Surungan",
+    "alias": "Bukit Surungan"
+  },
+  {
+    "code": "13.74.010.008",
+    "villageCode": "008",
+    "districtCode": "13.74.010",
+    "name": "Balai-Balai",
+    "alias": "Balai-Balai"
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "code": "73.71.020.001",
+    "villageCode": "001",
+    "districtCode": "73.71.020",
+    "name": "Tamparang Keke",
+    "alias": "Tamparang Keke"
+  },
+  {
+    "code": "73.71.020.002",
+    "villageCode": "002",
+    "districtCode": "73.71.020",
+    "name": "Sambung Jawa",
+    "alias": "Sambung Jawa"
+  },
+  {
+    "code": "73.71.020.003",
+    "villageCode": "003",
+    "districtCode": "73.71.020",
+    "name": "Karang Anyar",
+    "alias": "Karang Anyar"
+  },
+  {
+    "code": "73.71.020.004",
+    "villageCode": "004",
+    "districtCode": "73.71.020",
+    "name": "Baji Mappakasunggu",
+    "alias": "Baji Mappakasunggu"
+  },
+  {
+    "code": "73.71.020.005",
+    "villageCode": "005",
+    "districtCode": "73.71.020",
+    "name": "Pa Batang",
+    "alias": "Pa Batang"
+  },
+  {
+    "code": "73.71.020.006",
+    "villageCode": "006",
+    "districtCode": "73.71.020",
+    "name": "Parang",
+    "alias": "Parang"
+  },
+  {
+    "code": "73.71.020.007",
+    "villageCode": "007",
+    "districtCode": "73.71.020",
+    "name": "Bonto Lebang",
+    "alias": "Bonto Lebang"
+  },
+  {
+    "code": "73.71.020.008",
+    "villageCode": "008",
+    "districtCode": "73.71.020",
+    "name": "Mamajang Dalam",
+    "alias": "Mamajang Dalam"
+  },
+  {
+    "code": "73.71.020.009",
+    "villageCode": "009",
+    "districtCode": "73.71.020",
+    "name": "Labuang Baji",
+    "alias": "Labuang Baji"
+  },
+  {
+    "code": "73.71.020.010",
+    "villageCode": "010",
+    "districtCode": "73.71.020",
+    "name": "Bonto Biraeng",
+    "alias": "Bonto Biraeng"
+  },
+  {
+    "code": "73.71.020.011",
+    "villageCode": "011",
+    "districtCode": "73.71.020",
+    "name": "Mandala",
+    "alias": "Mandala"
+  },
+  {
+    "code": "73.71.020.012",
+    "villageCode": "012",
+    "districtCode": "73.71.020",
+    "name": "Maricaya Selatan",
+    "alias": "Maricaya Selatan"
+  },
+  {
+    "code": "73.71.020.013",
+    "villageCode": "013",
+    "districtCode": "73.71.020",
+    "name": "Mamajang Luar",
+    "alias": "Mamajang Luar"
+  }
+]

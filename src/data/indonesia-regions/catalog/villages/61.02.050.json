@@ -1,0 +1,86 @@
+[
+  {
+    "code": "61.02.050.006",
+    "villageCode": "006",
+    "districtCode": "61.02.050",
+    "name": "Serangkat",
+    "alias": "Serangkat"
+  },
+  {
+    "code": "61.02.050.008",
+    "villageCode": "008",
+    "districtCode": "61.02.050",
+    "name": "Lesabela",
+    "alias": "Lesabela"
+  },
+  {
+    "code": "61.02.050.009",
+    "villageCode": "009",
+    "districtCode": "61.02.050",
+    "name": "Rodaya",
+    "alias": "Rodaya"
+  },
+  {
+    "code": "61.02.050.010",
+    "villageCode": "010",
+    "districtCode": "61.02.050",
+    "name": "Seles",
+    "alias": "Seles"
+  },
+  {
+    "code": "61.02.050.011",
+    "villageCode": "011",
+    "districtCode": "61.02.050",
+    "name": "Sidai",
+    "alias": "Sidai"
+  },
+  {
+    "code": "61.02.050.016",
+    "villageCode": "016",
+    "districtCode": "61.02.050",
+    "name": "Lomba Karya",
+    "alias": "Lomba Karya"
+  },
+  {
+    "code": "61.02.050.017",
+    "villageCode": "017",
+    "districtCode": "61.02.050",
+    "name": "Dayung",
+    "alias": "Dayung"
+  },
+  {
+    "code": "61.02.050.018",
+    "villageCode": "018",
+    "districtCode": "61.02.050",
+    "name": "Jesape",
+    "alias": "Jesape"
+  },
+  {
+    "code": "61.02.050.019",
+    "villageCode": "019",
+    "districtCode": "61.02.050",
+    "name": "Suka Jaya",
+    "alias": "Suka Jaya"
+  },
+  {
+    "code": "61.02.050.020",
+    "villageCode": "020",
+    "districtCode": "61.02.050",
+    "name": "Semangat",
+    "alias": "Semangat"
+  },
+  {
+    "code": "61.02.050.021",
+    "villageCode": "021",
+    "districtCode": "61.02.050",
+    "name": "Tebuah Marong",
+    "alias": "Tebuah Marong"
+  },
+  {
+    "code": "61.02.050.022",
+    "villageCode": "022",
+    "districtCode": "61.02.050",
+    "name": "Suka Damai",
+    "alias": "Suka Damai"
+  }
+]

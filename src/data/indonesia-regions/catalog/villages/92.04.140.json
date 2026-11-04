@@ -1,0 +1,72 @@
+[
+  {
+    "code": "92.04.140.001",
+    "villageCode": "001",
+    "districtCode": "92.04.140",
+    "name": "Koma-Koma",
+    "alias": "Koma-Koma"
+  },
+  {
+    "code": "92.04.140.002",
+    "villageCode": "002",
+    "districtCode": "92.04.140",
+    "name": "Sembaro",
+    "alias": "Sembaro"
+  },
+  {
+    "code": "92.04.140.003",
+    "villageCode": "003",
+    "districtCode": "92.04.140",
+    "name": "Sauf",
+    "alias": "Sauf"
+  },
+  {
+    "code": "92.04.140.004",
+    "villageCode": "004",
+    "districtCode": "92.04.140",
+    "name": "Kanisabar",
+    "alias": "Kanisabar"
+  },
+  {
+    "code": "92.04.140.005",
+    "villageCode": "005",
+    "districtCode": "92.04.140",
+    "name": "Sfarare",
+    "alias": "Sfarare"
+  },
+  {
+    "code": "92.04.140.006",
+    "villageCode": "006",
+    "districtCode": "92.04.140",
+    "name": "Seneh",
+    "alias": "Seneh"
+  },
+  {
+    "code": "92.04.140.007",
+    "villageCode": "007",
+    "districtCode": "92.04.140",
+    "name": "Lemauk Klit",
+    "alias": "Lemauk Klit"
+  },
+  {
+    "code": "92.04.140.008",
+    "villageCode": "008",
+    "districtCode": "92.04.140",
+    "name": "Sagrim",
+    "alias": "Sagrim"
+  },
+  {
+    "code": "92.04.140.009",
+    "villageCode": "009",
+    "districtCode": "92.04.140",
+    "name": "Simiyah",
+    "alias": "Simiyah"
+  },
+  {
+    "code": "92.04.140.010",
+    "villageCode": "010",
+    "districtCode": "92.04.140",
+    "name": "Hawiyoh",
+    "alias": "Hawiyoh"
+  }
+]

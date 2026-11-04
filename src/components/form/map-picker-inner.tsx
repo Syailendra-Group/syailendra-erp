@@ -194,10 +194,10 @@ export default function MapPickerInner({
 
   return (
     <div className={cn('border-border/80 relative overflow-hidden rounded-lg border', className)}>
-      <div ref={mapContainerRef} className="h-full min-h-[280px] w-full" />
+      <div ref={mapContainerRef} className="h-full min-h-70 w-full" />
 
       {/* Quick Locate Button Overlay */}
-      <div className="absolute top-3 right-3 z-[1000]">
+      <div className="absolute top-3 right-3 z-1000">
         <Button
           type="button"
           size="sm"

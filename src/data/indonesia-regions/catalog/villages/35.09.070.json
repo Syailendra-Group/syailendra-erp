@@ -1,0 +1,65 @@
+[
+  {
+    "code": "35.09.070.001",
+    "villageCode": "001",
+    "districtCode": "35.09.070",
+    "name": "Mulyorejo",
+    "alias": "Mulyorejo"
+  },
+  {
+    "code": "35.09.070.002",
+    "villageCode": "002",
+    "districtCode": "35.09.070",
+    "name": "Pace",
+    "alias": "Pace"
+  },
+  {
+    "code": "35.09.070.003",
+    "villageCode": "003",
+    "districtCode": "35.09.070",
+    "name": "Harjomulyo",
+    "alias": "Harjomulyo"
+  },
+  {
+    "code": "35.09.070.004",
+    "villageCode": "004",
+    "districtCode": "35.09.070",
+    "name": "Karangharjo",
+    "alias": "Karangharjo"
+  },
+  {
+    "code": "35.09.070.005",
+    "villageCode": "005",
+    "districtCode": "35.09.070",
+    "name": "Silo",
+    "alias": "Silo"
+  },
+  {
+    "code": "35.09.070.006",
+    "villageCode": "006",
+    "districtCode": "35.09.070",
+    "name": "Sempolan",
+    "alias": "Sempolan"
+  },
+  {
+    "code": "35.09.070.007",
+    "villageCode": "007",
+    "districtCode": "35.09.070",
+    "name": "Sumberjati",
+    "alias": "Sumberjati"
+  },
+  {
+    "code": "35.09.070.008",
+    "villageCode": "008",
+    "districtCode": "35.09.070",
+    "name": "Garahan",
+    "alias": "Garahan"
+  },
+  {
+    "code": "35.09.070.009",
+    "villageCode": "009",
+    "districtCode": "35.09.070",
+    "name": "Sidomulyo",
+    "alias": "Sidomulyo"
+  }
+]

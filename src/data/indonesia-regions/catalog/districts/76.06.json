@@ -1,0 +1,42 @@
+[
+  {
+    "code": "76.06.010",
+    "districtCode": "010",
+    "regencyCode": "76.06",
+    "provinceCode": "76",
+    "name": "Kecamatan Pangale",
+    "alias": "Pangale"
+  },
+  {
+    "code": "76.06.020",
+    "districtCode": "020",
+    "regencyCode": "76.06",
+    "provinceCode": "76",
+    "name": "Kecamatan Budong-Budong",
+    "alias": "Budong-Budong"
+  },
+  {
+    "code": "76.06.030",
+    "districtCode": "030",
+    "regencyCode": "76.06",
+    "provinceCode": "76",
+    "name": "Kecamatan Tobadak",
+    "alias": "Tobadak"
+  },
+  {
+    "code": "76.06.040",
+    "districtCode": "040",
+    "regencyCode": "76.06",
+    "provinceCode": "76",
+    "name": "Kecamatan Topoyo",
+    "alias": "Topoyo"
+  },
+  {
+    "code": "76.06.050",
+    "districtCode": "050",
+    "regencyCode": "76.06",
+    "provinceCode": "76",
+    "name": "Kecamatan Karossa",
+    "alias": "Karossa"
+  }
+]

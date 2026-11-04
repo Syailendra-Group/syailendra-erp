@@ -1,0 +1,90 @@
+[
+  {
+    "code": "17.09.010",
+    "districtCode": "010",
+    "regencyCode": "17.09",
+    "provinceCode": "17",
+    "name": "Kecamatan Talang Empat",
+    "alias": "Talang Empat"
+  },
+  {
+    "code": "17.09.011",
+    "districtCode": "011",
+    "regencyCode": "17.09",
+    "provinceCode": "17",
+    "name": "Kecamatan Semidang Lagan",
+    "alias": "Semidang Lagan"
+  },
+  {
+    "code": "17.09.020",
+    "districtCode": "020",
+    "regencyCode": "17.09",
+    "provinceCode": "17",
+    "name": "Kecamatan Karang Tinggi",
+    "alias": "Karang Tinggi"
+  },
+  {
+    "code": "17.09.030",
+    "districtCode": "030",
+    "regencyCode": "17.09",
+    "provinceCode": "17",
+    "name": "Kecamatan Taba Penanjung",
+    "alias": "Taba Penanjung"
+  },
+  {
+    "code": "17.09.031",
+    "districtCode": "031",
+    "regencyCode": "17.09",
+    "provinceCode": "17",
+    "name": "Kecamatan Merigi Kelindang",
+    "alias": "Merigi Kelindang"
+  },
+  {
+    "code": "17.09.040",
+    "districtCode": "040",
+    "regencyCode": "17.09",
+    "provinceCode": "17",
+    "name": "Kecamatan Pagar Jati",
+    "alias": "Pagar Jati"
+  },
+  {
+    "code": "17.09.041",
+    "districtCode": "041",
+    "regencyCode": "17.09",
+    "provinceCode": "17",
+    "name": "Kecamatan Merigi Sakti",
+    "alias": "Merigi Sakti"
+  },
+  {
+    "code": "17.09.050",
+    "districtCode": "050",
+    "regencyCode": "17.09",
+    "provinceCode": "17",
+    "name": "Kecamatan Pondok Kelapa",
+    "alias": "Pondok Kelapa"
+  },
+  {
+    "code": "17.09.051",
+    "districtCode": "051",
+    "regencyCode": "17.09",
+    "provinceCode": "17",
+    "name": "Kecamatan Pondok Kubang",
+    "alias": "Pondok Kubang"
+  },
+  {
+    "code": "17.09.060",
+    "districtCode": "060",
+    "regencyCode": "17.09",
+    "provinceCode": "17",
+    "name": "Kecamatan Pematang Tiga",
+    "alias": "Pematang Tiga"
+  },
+  {
+    "code": "17.09.061",
+    "districtCode": "061",
+    "regencyCode": "17.09",
+    "provinceCode": "17",
+    "name": "Kecamatan Bang Haji",
+    "alias": "Bang Haji"
+  }
+]

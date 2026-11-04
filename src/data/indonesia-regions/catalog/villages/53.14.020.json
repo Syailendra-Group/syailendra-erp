@@ -1,0 +1,86 @@
+[
+  {
+    "code": "53.14.020.004",
+    "villageCode": "004",
+    "districtCode": "53.14.020",
+    "name": "Temas",
+    "alias": "Temas"
+  },
+  {
+    "code": "53.14.020.005",
+    "villageCode": "005",
+    "districtCode": "53.14.020",
+    "name": "Modosinal",
+    "alias": "Modosinal"
+  },
+  {
+    "code": "53.14.020.006",
+    "villageCode": "006",
+    "districtCode": "53.14.020",
+    "name": "Busalangga",
+    "alias": "Busalangga"
+  },
+  {
+    "code": "53.14.020.007",
+    "villageCode": "007",
+    "districtCode": "53.14.020",
+    "name": "Oetutulu",
+    "alias": "Oetutulu"
+  },
+  {
+    "code": "53.14.020.008",
+    "villageCode": "008",
+    "districtCode": "53.14.020",
+    "name": "Daudolu",
+    "alias": "Daudolu"
+  },
+  {
+    "code": "53.14.020.009",
+    "villageCode": "009",
+    "districtCode": "53.14.020",
+    "name": "Netenaen",
+    "alias": "Netenaen"
+  },
+  {
+    "code": "53.14.020.010",
+    "villageCode": "010",
+    "districtCode": "53.14.020",
+    "name": "Ingguinak",
+    "alias": "Ingguinak"
+  },
+  {
+    "code": "53.14.020.015",
+    "villageCode": "015",
+    "districtCode": "53.14.020",
+    "name": "Tualima",
+    "alias": "Tualima"
+  },
+  {
+    "code": "53.14.020.017",
+    "villageCode": "017",
+    "districtCode": "53.14.020",
+    "name": "Hundihuk",
+    "alias": "Hundihuk"
+  },
+  {
+    "code": "53.14.020.019",
+    "villageCode": "019",
+    "districtCode": "53.14.020",
+    "name": "Saindule",
+    "alias": "Saindule"
+  },
+  {
+    "code": "53.14.020.023",
+    "villageCode": "023",
+    "districtCode": "53.14.020",
+    "name": "Busalangga Timur",
+    "alias": "Busalangga Timur"
+  },
+  {
+    "code": "53.14.020.024",
+    "villageCode": "024",
+    "districtCode": "53.14.020",
+    "name": "Busalangga Barat",
+    "alias": "Busalangga Barat"
+  }
+]

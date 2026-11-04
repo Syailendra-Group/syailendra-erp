@@ -1,0 +1,100 @@
+[
+  {
+    "code": "32.10.120.001",
+    "villageCode": "001",
+    "districtCode": "32.10.120",
+    "name": "Parakan",
+    "alias": "Parakan"
+  },
+  {
+    "code": "32.10.120.002",
+    "villageCode": "002",
+    "districtCode": "32.10.120",
+    "name": "Lame",
+    "alias": "Lame"
+  },
+  {
+    "code": "32.10.120.003",
+    "villageCode": "003",
+    "districtCode": "32.10.120",
+    "name": "Mindi",
+    "alias": "Mindi"
+  },
+  {
+    "code": "32.10.120.004",
+    "villageCode": "004",
+    "districtCode": "32.10.120",
+    "name": "Rajawangi",
+    "alias": "Rajawangi"
+  },
+  {
+    "code": "32.10.120.005",
+    "villageCode": "005",
+    "districtCode": "32.10.120",
+    "name": "Leuwikujang",
+    "alias": "Leuwikujang"
+  },
+  {
+    "code": "32.10.120.006",
+    "villageCode": "006",
+    "districtCode": "32.10.120",
+    "name": "Nanggerang",
+    "alias": "Nanggerang"
+  },
+  {
+    "code": "32.10.120.007",
+    "villageCode": "007",
+    "districtCode": "32.10.120",
+    "name": "Patuanan",
+    "alias": "Patuanan"
+  },
+  {
+    "code": "32.10.120.008",
+    "villageCode": "008",
+    "districtCode": "32.10.120",
+    "name": "Tanjungsari",
+    "alias": "Tanjungsari"
+  },
+  {
+    "code": "32.10.120.009",
+    "villageCode": "009",
+    "districtCode": "32.10.120",
+    "name": "Karangasem",
+    "alias": "Karangasem"
+  },
+  {
+    "code": "32.10.120.010",
+    "villageCode": "010",
+    "districtCode": "32.10.120",
+    "name": "Heuleut",
+    "alias": "Heuleut"
+  },
+  {
+    "code": "32.10.120.011",
+    "villageCode": "011",
+    "districtCode": "32.10.120",
+    "name": "Ciparay",
+    "alias": "Ciparay"
+  },
+  {
+    "code": "32.10.120.012",
+    "villageCode": "012",
+    "districtCode": "32.10.120",
+    "name": "Leuwimunding",
+    "alias": "Leuwimunding"
+  },
+  {
+    "code": "32.10.120.013",
+    "villageCode": "013",
+    "districtCode": "32.10.120",
+    "name": "Mirat",
+    "alias": "Mirat"
+  },
+  {
+    "code": "32.10.120.014",
+    "villageCode": "014",
+    "districtCode": "32.10.120",
+    "name": "Parungjaya",
+    "alias": "Parungjaya"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "code": "32.11.130.001",
+    "villageCode": "001",
+    "districtCode": "32.11.130",
+    "name": "Cipelang",
+    "alias": "Cipelang"
+  },
+  {
+    "code": "32.11.130.002",
+    "villageCode": "002",
+    "districtCode": "32.11.130",
+    "name": "Palabuan",
+    "alias": "Palabuan"
+  },
+  {
+    "code": "32.11.130.003",
+    "villageCode": "003",
+    "districtCode": "32.11.130",
+    "name": "Kebon Cau",
+    "alias": "Kebon Cau"
+  },
+  {
+    "code": "32.11.130.004",
+    "villageCode": "004",
+    "districtCode": "32.11.130",
+    "name": "Kudangwangi",
+    "alias": "Kudangwangi"
+  },
+  {
+    "code": "32.11.130.005",
+    "villageCode": "005",
+    "districtCode": "32.11.130",
+    "name": "Sukamulya",
+    "alias": "Sukamulya"
+  },
+  {
+    "code": "32.11.130.006",
+    "villageCode": "006",
+    "districtCode": "32.11.130",
+    "name": "Palasari",
+    "alias": "Palasari"
+  },
+  {
+    "code": "32.11.130.007",
+    "villageCode": "007",
+    "districtCode": "32.11.130",
+    "name": "Ujungjaya",
+    "alias": "Ujungjaya"
+  },
+  {
+    "code": "32.11.130.008",
+    "villageCode": "008",
+    "districtCode": "32.11.130",
+    "name": "Sakurjaya",
+    "alias": "Sakurjaya"
+  },
+  {
+    "code": "32.11.130.009",
+    "villageCode": "009",
+    "districtCode": "32.11.130",
+    "name": "Cibuluh",
+    "alias": "Cibuluh"
+  }
+]

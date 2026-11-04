@@ -1,0 +1,51 @@
+[
+  {
+    "code": "35.08.150.001",
+    "villageCode": "001",
+    "districtCode": "35.08.150",
+    "name": "Pasrujambe",
+    "alias": "Pasrujambe"
+  },
+  {
+    "code": "35.08.150.002",
+    "villageCode": "002",
+    "districtCode": "35.08.150",
+    "name": "Jambekumbu",
+    "alias": "Jambekumbu"
+  },
+  {
+    "code": "35.08.150.003",
+    "villageCode": "003",
+    "districtCode": "35.08.150",
+    "name": "Sukorejo",
+    "alias": "Sukorejo"
+  },
+  {
+    "code": "35.08.150.004",
+    "villageCode": "004",
+    "districtCode": "35.08.150",
+    "name": "Jambearum",
+    "alias": "Jambearum"
+  },
+  {
+    "code": "35.08.150.005",
+    "villageCode": "005",
+    "districtCode": "35.08.150",
+    "name": "Kertosari",
+    "alias": "Kertosari"
+  },
+  {
+    "code": "35.08.150.006",
+    "villageCode": "006",
+    "districtCode": "35.08.150",
+    "name": "Pagowan",
+    "alias": "Pagowan"
+  },
+  {
+    "code": "35.08.150.007",
+    "villageCode": "007",
+    "districtCode": "35.08.150",
+    "name": "Karanganom",
+    "alias": "Karanganom"
+  }
+]

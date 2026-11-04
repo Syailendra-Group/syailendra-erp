@@ -1,0 +1,93 @@
+[
+  {
+    "code": "15.03.031.001",
+    "villageCode": "001",
+    "districtCode": "15.03.031",
+    "name": "Perdamaian",
+    "alias": "Perdamaian"
+  },
+  {
+    "code": "15.03.031.002",
+    "villageCode": "002",
+    "districtCode": "15.03.031",
+    "name": "Sungai Gedang",
+    "alias": "Sungai Gedang"
+  },
+  {
+    "code": "15.03.031.003",
+    "villageCode": "003",
+    "districtCode": "15.03.031",
+    "name": "Sungai Benteng",
+    "alias": "Sungai Benteng"
+  },
+  {
+    "code": "15.03.031.004",
+    "villageCode": "004",
+    "districtCode": "15.03.031",
+    "name": "Bukit Murau",
+    "alias": "Bukit Murau"
+  },
+  {
+    "code": "15.03.031.005",
+    "villageCode": "005",
+    "districtCode": "15.03.031",
+    "name": "Pasar Singkut",
+    "alias": "Pasar Singkut"
+  },
+  {
+    "code": "15.03.031.006",
+    "villageCode": "006",
+    "districtCode": "15.03.031",
+    "name": "Bukit Tigo",
+    "alias": "Bukit Tigo"
+  },
+  {
+    "code": "15.03.031.007",
+    "villageCode": "007",
+    "districtCode": "15.03.031",
+    "name": "Payo Lebar",
+    "alias": "Payo Lebar"
+  },
+  {
+    "code": "15.03.031.019",
+    "villageCode": "019",
+    "districtCode": "15.03.031",
+    "name": "Simpang Nibung",
+    "alias": "Simpang Nibung"
+  },
+  {
+    "code": "15.03.031.020",
+    "villageCode": "020",
+    "districtCode": "15.03.031",
+    "name": "Siliwangi",
+    "alias": "Siliwangi"
+  },
+  {
+    "code": "15.03.031.021",
+    "villageCode": "021",
+    "districtCode": "15.03.031",
+    "name": "Sendang Sari",
+    "alias": "Sendang Sari"
+  },
+  {
+    "code": "15.03.031.022",
+    "villageCode": "022",
+    "districtCode": "15.03.031",
+    "name": "Argo Sari",
+    "alias": "Argo Sari"
+  },
+  {
+    "code": "15.03.031.023",
+    "villageCode": "023",
+    "districtCode": "15.03.031",
+    "name": "Bukit Bumi Raya",
+    "alias": "Bukit Bumi Raya"
+  },
+  {
+    "code": "15.03.031.024",
+    "villageCode": "024",
+    "districtCode": "15.03.031",
+    "name": "Bukit Talang Mas",
+    "alias": "Bukit Talang Mas"
+  }
+]

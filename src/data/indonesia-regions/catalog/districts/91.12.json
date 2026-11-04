@@ -1,0 +1,82 @@
+[
+  {
+    "code": "91.12.010",
+    "districtCode": "010",
+    "regencyCode": "91.12",
+    "provinceCode": "91",
+    "name": "Kecamatan Didohu",
+    "alias": "Didohu"
+  },
+  {
+    "code": "91.12.020",
+    "districtCode": "020",
+    "regencyCode": "91.12",
+    "provinceCode": "91",
+    "name": "Kecamatan Sururey",
+    "alias": "Sururey"
+  },
+  {
+    "code": "91.12.030",
+    "districtCode": "030",
+    "regencyCode": "91.12",
+    "provinceCode": "91",
+    "name": "Kecamatan Anggi Gida",
+    "alias": "Anggi Gida"
+  },
+  {
+    "code": "91.12.040",
+    "districtCode": "040",
+    "regencyCode": "91.12",
+    "provinceCode": "91",
+    "name": "Kecamatan Membey",
+    "alias": "Membey"
+  },
+  {
+    "code": "91.12.050",
+    "districtCode": "050",
+    "regencyCode": "91.12",
+    "provinceCode": "91",
+    "name": "Kecamatan Anggi",
+    "alias": "Anggi"
+  },
+  {
+    "code": "91.12.060",
+    "districtCode": "060",
+    "regencyCode": "91.12",
+    "provinceCode": "91",
+    "name": "Kecamatan Taige",
+    "alias": "Taige"
+  },
+  {
+    "code": "91.12.070",
+    "districtCode": "070",
+    "regencyCode": "91.12",
+    "provinceCode": "91",
+    "name": "Kecamatan Hingk",
+    "alias": "Hingk"
+  },
+  {
+    "code": "91.12.080",
+    "districtCode": "080",
+    "regencyCode": "91.12",
+    "provinceCode": "91",
+    "name": "Kecamatan Minyambouw",
+    "alias": "Minyambouw"
+  },
+  {
+    "code": "91.12.090",
+    "districtCode": "090",
+    "regencyCode": "91.12",
+    "provinceCode": "91",
+    "name": "Kecamatan Catubouw",
+    "alias": "Catubouw"
+  },
+  {
+    "code": "91.12.100",
+    "districtCode": "100",
+    "regencyCode": "91.12",
+    "provinceCode": "91",
+    "name": "Kecamatan Testega",
+    "alias": "Testega"
+  }
+]

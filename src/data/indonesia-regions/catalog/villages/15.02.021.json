@@ -1,0 +1,107 @@
+[
+  {
+    "code": "15.02.021.001",
+    "villageCode": "001",
+    "districtCode": "15.02.021",
+    "name": "Tanjung Dalam",
+    "alias": "Tanjung Dalam"
+  },
+  {
+    "code": "15.02.021.002",
+    "villageCode": "002",
+    "districtCode": "15.02.021",
+    "name": "Muara Pangi",
+    "alias": "Muara Pangi"
+  },
+  {
+    "code": "15.02.021.003",
+    "villageCode": "003",
+    "districtCode": "15.02.021",
+    "name": "Rantau Jering",
+    "alias": "Rantau Jering"
+  },
+  {
+    "code": "15.02.021.004",
+    "villageCode": "004",
+    "districtCode": "15.02.021",
+    "name": "Nilo Dingin",
+    "alias": "Nilo Dingin"
+  },
+  {
+    "code": "15.02.021.005",
+    "villageCode": "005",
+    "districtCode": "15.02.021",
+    "name": "Tanjung Berugo",
+    "alias": "Tanjung Berugo"
+  },
+  {
+    "code": "15.02.021.006",
+    "villageCode": "006",
+    "districtCode": "15.02.021",
+    "name": "Tuo",
+    "alias": "Tuo"
+  },
+  {
+    "code": "15.02.021.007",
+    "villageCode": "007",
+    "districtCode": "15.02.021",
+    "name": "Koto Rami",
+    "alias": "Koto Rami"
+  },
+  {
+    "code": "15.02.021.008",
+    "villageCode": "008",
+    "districtCode": "15.02.021",
+    "name": "Pasar Masurai",
+    "alias": "Pasar Masurai"
+  },
+  {
+    "code": "15.02.021.009",
+    "villageCode": "009",
+    "districtCode": "15.02.021",
+    "name": "Rancan",
+    "alias": "Rancan"
+  },
+  {
+    "code": "15.02.021.010",
+    "villageCode": "010",
+    "districtCode": "15.02.021",
+    "name": "Muara Lengayo",
+    "alias": "Muara Lengayo"
+  },
+  {
+    "code": "15.02.021.011",
+    "villageCode": "011",
+    "districtCode": "15.02.021",
+    "name": "Sungai Lalang",
+    "alias": "Sungai Lalang"
+  },
+  {
+    "code": "15.02.021.012",
+    "villageCode": "012",
+    "districtCode": "15.02.021",
+    "name": "Talang Asal",
+    "alias": "Talang Asal"
+  },
+  {
+    "code": "15.02.021.013",
+    "villageCode": "013",
+    "districtCode": "15.02.021",
+    "name": "Muara Kelukup",
+    "alias": "Muara Kelukup"
+  },
+  {
+    "code": "15.02.021.014",
+    "villageCode": "014",
+    "districtCode": "15.02.021",
+    "name": "Talang Paruh",
+    "alias": "Talang Paruh"
+  },
+  {
+    "code": "15.02.021.015",
+    "villageCode": "015",
+    "districtCode": "15.02.021",
+    "name": "Durian Mukut",
+    "alias": "Durian Mukut"
+  }
+]

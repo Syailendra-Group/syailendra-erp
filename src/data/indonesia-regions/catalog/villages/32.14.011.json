@@ -1,0 +1,37 @@
+[
+  {
+    "code": "32.14.011.001",
+    "villageCode": "001",
+    "districtCode": "32.14.011",
+    "name": "Parungbanteng",
+    "alias": "Parungbanteng"
+  },
+  {
+    "code": "32.14.011.002",
+    "villageCode": "002",
+    "districtCode": "32.14.011",
+    "name": "Sukasari",
+    "alias": "Sukasari"
+  },
+  {
+    "code": "32.14.011.003",
+    "villageCode": "003",
+    "districtCode": "32.14.011",
+    "name": "Ciririp",
+    "alias": "Ciririp"
+  },
+  {
+    "code": "32.14.011.004",
+    "villageCode": "004",
+    "districtCode": "32.14.011",
+    "name": "Kertamanah",
+    "alias": "Kertamanah"
+  },
+  {
+    "code": "32.14.011.005",
+    "villageCode": "005",
+    "districtCode": "32.14.011",
+    "name": "Kutamanah",
+    "alias": "Kutamanah"
+  }
+]

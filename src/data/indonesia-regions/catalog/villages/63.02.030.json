@@ -1,0 +1,58 @@
+[
+  {
+    "code": "63.02.030.009",
+    "villageCode": "009",
+    "districtCode": "63.02.030",
+    "name": "Teluk Sirih",
+    "alias": "Teluk Sirih"
+  },
+  {
+    "code": "63.02.030.010",
+    "villageCode": "010",
+    "districtCode": "63.02.030",
+    "name": "Sungai Bulan",
+    "alias": "Sungai Bulan"
+  },
+  {
+    "code": "63.02.030.011",
+    "villageCode": "011",
+    "districtCode": "63.02.030",
+    "name": "Sungai Bahim",
+    "alias": "Sungai Bahim"
+  },
+  {
+    "code": "63.02.030.012",
+    "villageCode": "012",
+    "districtCode": "63.02.030",
+    "name": "Alle Alle",
+    "alias": "Alle Alle"
+  },
+  {
+    "code": "63.02.030.013",
+    "villageCode": "013",
+    "districtCode": "63.02.030",
+    "name": "Tanjung Seloka",
+    "alias": "Tanjung Seloka"
+  },
+  {
+    "code": "63.02.030.014",
+    "villageCode": "014",
+    "districtCode": "63.02.030",
+    "name": "Tanjung Serudung",
+    "alias": "Tanjung Serudung"
+  },
+  {
+    "code": "63.02.030.015",
+    "villageCode": "015",
+    "districtCode": "63.02.030",
+    "name": "Labuan Mas",
+    "alias": "Labuan Mas"
+  },
+  {
+    "code": "63.02.030.016",
+    "villageCode": "016",
+    "districtCode": "63.02.030",
+    "name": "Tanjung Seloka Utara",
+    "alias": "Tanjung Seloka Utara"
+  }
+]

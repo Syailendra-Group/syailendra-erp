@@ -1,0 +1,58 @@
+[
+  {
+    "code": "15.72.031.001",
+    "villageCode": "001",
+    "districtCode": "15.72.031",
+    "name": "Sungai Jernih",
+    "alias": "Sungai Jernih"
+  },
+  {
+    "code": "15.72.031.002",
+    "villageCode": "002",
+    "districtCode": "15.72.031",
+    "name": "Koto Lebu",
+    "alias": "Koto Lebu"
+  },
+  {
+    "code": "15.72.031.003",
+    "villageCode": "003",
+    "districtCode": "15.72.031",
+    "name": "Karya Bakti",
+    "alias": "Karya Bakti"
+  },
+  {
+    "code": "15.72.031.004",
+    "villageCode": "004",
+    "districtCode": "15.72.031",
+    "name": "Lawang Agung",
+    "alias": "Lawang Agung"
+  },
+  {
+    "code": "15.72.031.005",
+    "villageCode": "005",
+    "districtCode": "15.72.031",
+    "name": "Pondok Tinggi",
+    "alias": "Pondok Tinggi"
+  },
+  {
+    "code": "15.72.031.006",
+    "villageCode": "006",
+    "districtCode": "15.72.031",
+    "name": "Permanti",
+    "alias": "Permanti"
+  },
+  {
+    "code": "15.72.031.007",
+    "villageCode": "007",
+    "districtCode": "15.72.031",
+    "name": "Pondok Agung",
+    "alias": "Pondok Agung"
+  },
+  {
+    "code": "15.72.031.008",
+    "villageCode": "008",
+    "districtCode": "15.72.031",
+    "name": "Aur Duri",
+    "alias": "Aur Duri"
+  }
+]

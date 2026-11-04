@@ -1,0 +1,37 @@
+[
+  {
+    "code": "64.72.061.001",
+    "villageCode": "001",
+    "districtCode": "64.72.061",
+    "name": "Temindung Permai",
+    "alias": "Temindung Permai"
+  },
+  {
+    "code": "64.72.061.002",
+    "villageCode": "002",
+    "districtCode": "64.72.061",
+    "name": "Bandara",
+    "alias": "Bandara"
+  },
+  {
+    "code": "64.72.061.003",
+    "villageCode": "003",
+    "districtCode": "64.72.061",
+    "name": "Sungai Pinang Dalam",
+    "alias": "Sungai Pinang Dalam"
+  },
+  {
+    "code": "64.72.061.004",
+    "villageCode": "004",
+    "districtCode": "64.72.061",
+    "name": "Mugirejo",
+    "alias": "Mugirejo"
+  },
+  {
+    "code": "64.72.061.005",
+    "villageCode": "005",
+    "districtCode": "64.72.061",
+    "name": "Gunung Lingai",
+    "alias": "Gunung Lingai"
+  }
+]

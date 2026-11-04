@@ -1,0 +1,72 @@
+[
+  {
+    "code": "32.01.161.001",
+    "villageCode": "001",
+    "districtCode": "32.01.161",
+    "name": "Cibadak",
+    "alias": "Cibadak"
+  },
+  {
+    "code": "32.01.161.002",
+    "villageCode": "002",
+    "districtCode": "32.01.161",
+    "name": "Tanjung Sari",
+    "alias": "Tanjung Sari"
+  },
+  {
+    "code": "32.01.161.003",
+    "villageCode": "003",
+    "districtCode": "32.01.161",
+    "name": "Sinarsari",
+    "alias": "Sinarsari"
+  },
+  {
+    "code": "32.01.161.004",
+    "villageCode": "004",
+    "districtCode": "32.01.161",
+    "name": "Sinarrasa",
+    "alias": "Sinarrasa"
+  },
+  {
+    "code": "32.01.161.005",
+    "villageCode": "005",
+    "districtCode": "32.01.161",
+    "name": "Buanajaya",
+    "alias": "Buanajaya"
+  },
+  {
+    "code": "32.01.161.006",
+    "villageCode": "006",
+    "districtCode": "32.01.161",
+    "name": "Antajaya",
+    "alias": "Antajaya"
+  },
+  {
+    "code": "32.01.161.007",
+    "villageCode": "007",
+    "districtCode": "32.01.161",
+    "name": "Pasir Tanjung",
+    "alias": "Pasir Tanjung"
+  },
+  {
+    "code": "32.01.161.008",
+    "villageCode": "008",
+    "districtCode": "32.01.161",
+    "name": "Tanjung Rasa",
+    "alias": "Tanjung Rasa"
+  },
+  {
+    "code": "32.01.161.009",
+    "villageCode": "009",
+    "districtCode": "32.01.161",
+    "name": "Sukarasa",
+    "alias": "Sukarasa"
+  },
+  {
+    "code": "32.01.161.010",
+    "villageCode": "010",
+    "districtCode": "32.01.161",
+    "name": "Selawangi",
+    "alias": "Selawangi"
+  }
+]

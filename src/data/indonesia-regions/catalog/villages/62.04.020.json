@@ -1,0 +1,72 @@
+[
+  {
+    "code": "62.04.020.001",
+    "villageCode": "001",
+    "districtCode": "62.04.020",
+    "name": "Sungai Jaya",
+    "alias": "Sungai Jaya"
+  },
+  {
+    "code": "62.04.020.002",
+    "villageCode": "002",
+    "districtCode": "62.04.020",
+    "name": "Mahajandau",
+    "alias": "Mahajandau"
+  },
+  {
+    "code": "62.04.020.003",
+    "villageCode": "003",
+    "districtCode": "62.04.020",
+    "name": "Mengkatip",
+    "alias": "Mengkatip"
+  },
+  {
+    "code": "62.04.020.004",
+    "villageCode": "004",
+    "districtCode": "62.04.020",
+    "name": "Kalanis",
+    "alias": "Kalanis"
+  },
+  {
+    "code": "62.04.020.005",
+    "villageCode": "005",
+    "districtCode": "62.04.020",
+    "name": "Lehai",
+    "alias": "Lehai"
+  },
+  {
+    "code": "62.04.020.006",
+    "villageCode": "006",
+    "districtCode": "62.04.020",
+    "name": "Damparan",
+    "alias": "Damparan"
+  },
+  {
+    "code": "62.04.020.007",
+    "villageCode": "007",
+    "districtCode": "62.04.020",
+    "name": "Teluk Timbau",
+    "alias": "Teluk Timbau"
+  },
+  {
+    "code": "62.04.020.008",
+    "villageCode": "008",
+    "districtCode": "62.04.020",
+    "name": "Batilap",
+    "alias": "Batilap"
+  },
+  {
+    "code": "62.04.020.009",
+    "villageCode": "009",
+    "districtCode": "62.04.020",
+    "name": "Batampang",
+    "alias": "Batampang"
+  },
+  {
+    "code": "62.04.020.010",
+    "villageCode": "010",
+    "districtCode": "62.04.020",
+    "name": "Mangkatir",
+    "alias": "Mangkatir"
+  }
+]

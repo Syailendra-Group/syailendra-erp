@@ -1,0 +1,79 @@
+[
+  {
+    "code": "71.72.040.001",
+    "villageCode": "001",
+    "districtCode": "71.72.040",
+    "name": "Kumersot",
+    "alias": "Kumersot"
+  },
+  {
+    "code": "71.72.040.003",
+    "villageCode": "003",
+    "districtCode": "71.72.040",
+    "name": "Pinokalan",
+    "alias": "Pinokalan"
+  },
+  {
+    "code": "71.72.040.004",
+    "villageCode": "004",
+    "districtCode": "71.72.040",
+    "name": "Tewaan",
+    "alias": "Tewaan"
+  },
+  {
+    "code": "71.72.040.005",
+    "villageCode": "005",
+    "districtCode": "71.72.040",
+    "name": "Danowudu",
+    "alias": "Danowudu"
+  },
+  {
+    "code": "71.72.040.006",
+    "villageCode": "006",
+    "districtCode": "71.72.040",
+    "name": "Dua Sudara",
+    "alias": "Dua Sudara"
+  },
+  {
+    "code": "71.72.040.007",
+    "villageCode": "007",
+    "districtCode": "71.72.040",
+    "name": "Apela Dua",
+    "alias": "Apela Dua"
+  },
+  {
+    "code": "71.72.040.008",
+    "villageCode": "008",
+    "districtCode": "71.72.040",
+    "name": "Apela Satu",
+    "alias": "Apela Satu"
+  },
+  {
+    "code": "71.72.040.009",
+    "villageCode": "009",
+    "districtCode": "71.72.040",
+    "name": "Karondoran",
+    "alias": "Karondoran"
+  },
+  {
+    "code": "71.72.040.010",
+    "villageCode": "010",
+    "districtCode": "71.72.040",
+    "name": "Pinasungkulan",
+    "alias": "Pinasungkulan"
+  },
+  {
+    "code": "71.72.040.012",
+    "villageCode": "012",
+    "districtCode": "71.72.040",
+    "name": "Batu Putih Atas",
+    "alias": "Batu Putih Atas"
+  },
+  {
+    "code": "71.72.040.013",
+    "villageCode": "013",
+    "districtCode": "71.72.040",
+    "name": "Batu Putih  Bawah",
+    "alias": "Batu Putih  Bawah"
+  }
+]

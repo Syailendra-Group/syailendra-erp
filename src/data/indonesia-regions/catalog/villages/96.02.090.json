@@ -1,0 +1,51 @@
+[
+  {
+    "code": "96.02.090.001",
+    "villageCode": "001",
+    "districtCode": "96.02.090",
+    "name": "Bunauwo",
+    "alias": "Bunauwo"
+  },
+  {
+    "code": "96.02.090.002",
+    "villageCode": "002",
+    "districtCode": "96.02.090",
+    "name": "Yotapuga",
+    "alias": "Yotapuga"
+  },
+  {
+    "code": "96.02.090.003",
+    "villageCode": "003",
+    "districtCode": "96.02.090",
+    "name": "Ugapuga",
+    "alias": "Ugapuga"
+  },
+  {
+    "code": "96.02.090.004",
+    "villageCode": "004",
+    "districtCode": "96.02.090",
+    "name": "Boduda",
+    "alias": "Boduda"
+  },
+  {
+    "code": "96.02.090.005",
+    "villageCode": "005",
+    "districtCode": "96.02.090",
+    "name": "Nuwa",
+    "alias": "Nuwa"
+  },
+  {
+    "code": "96.02.090.006",
+    "villageCode": "006",
+    "districtCode": "96.02.090",
+    "name": "Bokaibutu",
+    "alias": "Bokaibutu"
+  },
+  {
+    "code": "96.02.090.007",
+    "villageCode": "007",
+    "districtCode": "96.02.090",
+    "name": "Deiyapa",
+    "alias": "Deiyapa"
+  }
+]

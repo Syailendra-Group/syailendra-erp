@@ -1,0 +1,65 @@
+[
+  {
+    "code": "13.75.020.001",
+    "villageCode": "001",
+    "districtCode": "13.75.020",
+    "name": "Pulai Anak Air",
+    "alias": "Pulai Anak Air"
+  },
+  {
+    "code": "13.75.020.002",
+    "villageCode": "002",
+    "districtCode": "13.75.020",
+    "name": "Koto Selayan",
+    "alias": "Koto Selayan"
+  },
+  {
+    "code": "13.75.020.003",
+    "villageCode": "003",
+    "districtCode": "13.75.020",
+    "name": "Garegeh",
+    "alias": "Garegeh"
+  },
+  {
+    "code": "13.75.020.004",
+    "villageCode": "004",
+    "districtCode": "13.75.020",
+    "name": "Manggis Ganting",
+    "alias": "Manggis Ganting"
+  },
+  {
+    "code": "13.75.020.005",
+    "villageCode": "005",
+    "districtCode": "13.75.020",
+    "name": "Campago Ipuh",
+    "alias": "Campago Ipuh"
+  },
+  {
+    "code": "13.75.020.006",
+    "villageCode": "006",
+    "districtCode": "13.75.020",
+    "name": "Puhun Tembok",
+    "alias": "Puhun Tembok"
+  },
+  {
+    "code": "13.75.020.007",
+    "villageCode": "007",
+    "districtCode": "13.75.020",
+    "name": "Puhun Pintu Kabun",
+    "alias": "Puhun Pintu Kabun"
+  },
+  {
+    "code": "13.75.020.008",
+    "villageCode": "008",
+    "districtCode": "13.75.020",
+    "name": "Kubu Gulai Bancah",
+    "alias": "Kubu Gulai Bancah"
+  },
+  {
+    "code": "13.75.020.009",
+    "villageCode": "009",
+    "districtCode": "13.75.020",
+    "name": "Campago Guguk Bulek",
+    "alias": "Campago Guguk Bulek"
+  }
+]

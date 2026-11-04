@@ -1,0 +1,72 @@
+[
+  {
+    "code": "72.02.053.001",
+    "villageCode": "001",
+    "districtCode": "72.02.053",
+    "name": "Bubung",
+    "alias": "Bubung"
+  },
+  {
+    "code": "72.02.053.002",
+    "villageCode": "002",
+    "districtCode": "72.02.053",
+    "name": "Maahas",
+    "alias": "Maahas"
+  },
+  {
+    "code": "72.02.053.003",
+    "villageCode": "003",
+    "districtCode": "72.02.053",
+    "name": "Simpong",
+    "alias": "Simpong"
+  },
+  {
+    "code": "72.02.053.004",
+    "villageCode": "004",
+    "districtCode": "72.02.053",
+    "name": "Hanga-Hanga",
+    "alias": "Hanga-Hanga"
+  },
+  {
+    "code": "72.02.053.005",
+    "villageCode": "005",
+    "districtCode": "72.02.053",
+    "name": "Tanjung Tuwis",
+    "alias": "Tanjung Tuwis"
+  },
+  {
+    "code": "72.02.053.006",
+    "villageCode": "006",
+    "districtCode": "72.02.053",
+    "name": "Bukit Mambual",
+    "alias": "Bukit Mambual"
+  },
+  {
+    "code": "72.02.053.007",
+    "villageCode": "007",
+    "districtCode": "72.02.053",
+    "name": "Tombang Permai",
+    "alias": "Tombang Permai"
+  },
+  {
+    "code": "72.02.053.008",
+    "villageCode": "008",
+    "districtCode": "72.02.053",
+    "name": "Kompo",
+    "alias": "Kompo"
+  },
+  {
+    "code": "72.02.053.009",
+    "villageCode": "009",
+    "districtCode": "72.02.053",
+    "name": "Jole",
+    "alias": "Jole"
+  },
+  {
+    "code": "72.02.053.010",
+    "villageCode": "010",
+    "districtCode": "72.02.053",
+    "name": "Hanga-Hanga Permai",
+    "alias": "Hanga-Hanga Permai"
+  }
+]

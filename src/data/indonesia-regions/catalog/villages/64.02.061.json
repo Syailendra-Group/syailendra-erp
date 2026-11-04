@@ -1,0 +1,72 @@
+[
+  {
+    "code": "64.02.061.001",
+    "villageCode": "001",
+    "districtCode": "64.02.061",
+    "name": "Dempar",
+    "alias": "Dempar"
+  },
+  {
+    "code": "64.02.061.002",
+    "villageCode": "002",
+    "districtCode": "64.02.061",
+    "name": "Sentalar",
+    "alias": "Sentalar"
+  },
+  {
+    "code": "64.02.061.003",
+    "villageCode": "003",
+    "districtCode": "64.02.061",
+    "name": "Jontai",
+    "alias": "Jontai"
+  },
+  {
+    "code": "64.02.061.004",
+    "villageCode": "004",
+    "districtCode": "64.02.061",
+    "name": "Temula",
+    "alias": "Temula"
+  },
+  {
+    "code": "64.02.061.005",
+    "villageCode": "005",
+    "districtCode": "64.02.061",
+    "name": "Terajuk",
+    "alias": "Terajuk"
+  },
+  {
+    "code": "64.02.061.006",
+    "villageCode": "006",
+    "districtCode": "64.02.061",
+    "name": "Sembuan",
+    "alias": "Sembuan"
+  },
+  {
+    "code": "64.02.061.007",
+    "villageCode": "007",
+    "districtCode": "64.02.061",
+    "name": "Lakan Bilem",
+    "alias": "Lakan Bilem"
+  },
+  {
+    "code": "64.02.061.008",
+    "villageCode": "008",
+    "districtCode": "64.02.061",
+    "name": "Intu Lingau",
+    "alias": "Intu Lingau"
+  },
+  {
+    "code": "64.02.061.009",
+    "villageCode": "009",
+    "districtCode": "64.02.061",
+    "name": "Muut",
+    "alias": "Muut"
+  },
+  {
+    "code": "64.02.061.010",
+    "villageCode": "010",
+    "districtCode": "64.02.061",
+    "name": "Awai",
+    "alias": "Awai"
+  }
+]

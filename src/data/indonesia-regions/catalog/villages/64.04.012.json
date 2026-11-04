@@ -1,0 +1,51 @@
+[
+  {
+    "code": "64.04.012.001",
+    "villageCode": "001",
+    "districtCode": "64.04.012",
+    "name": "Mukti Utama",
+    "alias": "Mukti Utama"
+  },
+  {
+    "code": "64.04.012.002",
+    "villageCode": "002",
+    "districtCode": "64.04.012",
+    "name": "Sumber Sari",
+    "alias": "Sumber Sari"
+  },
+  {
+    "code": "64.04.012.003",
+    "villageCode": "003",
+    "districtCode": "64.04.012",
+    "name": "Segoy Makmur",
+    "alias": "Segoy Makmur"
+  },
+  {
+    "code": "64.04.012.004",
+    "villageCode": "004",
+    "districtCode": "64.04.012",
+    "name": "Sika Makmur",
+    "alias": "Sika Makmur"
+  },
+  {
+    "code": "64.04.012.005",
+    "villageCode": "005",
+    "districtCode": "64.04.012",
+    "name": "Melan",
+    "alias": "Melan"
+  },
+  {
+    "code": "64.04.012.006",
+    "villageCode": "006",
+    "districtCode": "64.04.012",
+    "name": "Tanah Abang",
+    "alias": "Tanah Abang"
+  },
+  {
+    "code": "64.04.012.007",
+    "villageCode": "007",
+    "districtCode": "64.04.012",
+    "name": "Sumber Agung",
+    "alias": "Sumber Agung"
+  }
+]

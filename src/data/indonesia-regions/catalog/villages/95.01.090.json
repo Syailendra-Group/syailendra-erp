@@ -1,0 +1,44 @@
+[
+  {
+    "code": "95.01.090.001",
+    "villageCode": "001",
+    "districtCode": "95.01.090",
+    "name": "Yomop",
+    "alias": "Yomop"
+  },
+  {
+    "code": "95.01.090.002",
+    "villageCode": "002",
+    "districtCode": "95.01.090",
+    "name": "Yawimu",
+    "alias": "Yawimu"
+  },
+  {
+    "code": "95.01.090.003",
+    "villageCode": "003",
+    "districtCode": "95.01.090",
+    "name": "Po-Epe",
+    "alias": "Po-Epe"
+  },
+  {
+    "code": "95.01.090.004",
+    "villageCode": "004",
+    "districtCode": "95.01.090",
+    "name": "Salamepe",
+    "alias": "Salamepe"
+  },
+  {
+    "code": "95.01.090.005",
+    "villageCode": "005",
+    "districtCode": "95.01.090",
+    "name": "Nakias",
+    "alias": "Nakias"
+  },
+  {
+    "code": "95.01.090.006",
+    "villageCode": "006",
+    "districtCode": "95.01.090",
+    "name": "Taga Epe",
+    "alias": "Taga Epe"
+  }
+]

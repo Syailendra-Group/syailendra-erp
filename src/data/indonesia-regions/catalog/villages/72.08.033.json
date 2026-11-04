@@ -1,0 +1,65 @@
+[
+  {
+    "code": "72.08.033.001",
+    "villageCode": "001",
+    "districtCode": "72.08.033",
+    "name": "Marantale",
+    "alias": "Marantale"
+  },
+  {
+    "code": "72.08.033.002",
+    "villageCode": "002",
+    "districtCode": "72.08.033",
+    "name": "Tandaigi",
+    "alias": "Tandaigi"
+  },
+  {
+    "code": "72.08.033.003",
+    "villageCode": "003",
+    "districtCode": "72.08.033",
+    "name": "Silanga",
+    "alias": "Silanga"
+  },
+  {
+    "code": "72.08.033.004",
+    "villageCode": "004",
+    "districtCode": "72.08.033",
+    "name": "Siniu",
+    "alias": "Siniu"
+  },
+  {
+    "code": "72.08.033.005",
+    "villageCode": "005",
+    "districtCode": "72.08.033",
+    "name": "Towera",
+    "alias": "Towera"
+  },
+  {
+    "code": "72.08.033.006",
+    "villageCode": "006",
+    "districtCode": "72.08.033",
+    "name": "Toraranga",
+    "alias": "Toraranga"
+  },
+  {
+    "code": "72.08.033.007",
+    "villageCode": "007",
+    "districtCode": "72.08.033",
+    "name": "Uevolo",
+    "alias": "Uevolo"
+  },
+  {
+    "code": "72.08.033.008",
+    "villageCode": "008",
+    "districtCode": "72.08.033",
+    "name": "Siniu Sayogindano",
+    "alias": "Siniu Sayogindano"
+  },
+  {
+    "code": "72.08.033.009",
+    "villageCode": "009",
+    "districtCode": "72.08.033",
+    "name": "Silanga Barat",
+    "alias": "Silanga Barat"
+  }
+]

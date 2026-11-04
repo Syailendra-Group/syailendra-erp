@@ -1,0 +1,37 @@
+[
+  {
+    "code": "61.02.012.001",
+    "villageCode": "001",
+    "districtCode": "61.02.012",
+    "name": "Rukmajaya",
+    "alias": "Rukmajaya"
+  },
+  {
+    "code": "61.02.012.002",
+    "villageCode": "002",
+    "districtCode": "61.02.012",
+    "name": "Sungai Keran",
+    "alias": "Sungai Keran"
+  },
+  {
+    "code": "61.02.012.003",
+    "villageCode": "003",
+    "districtCode": "61.02.012",
+    "name": "Sungai Raya",
+    "alias": "Sungai Raya"
+  },
+  {
+    "code": "61.02.012.004",
+    "villageCode": "004",
+    "districtCode": "61.02.012",
+    "name": "Karimunting",
+    "alias": "Karimunting"
+  },
+  {
+    "code": "61.02.012.005",
+    "villageCode": "005",
+    "districtCode": "61.02.012",
+    "name": "Pulau Lemukutan",
+    "alias": "Pulau Lemukutan"
+  }
+]

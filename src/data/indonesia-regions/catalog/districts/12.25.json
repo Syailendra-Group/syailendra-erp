@@ -1,0 +1,66 @@
+[
+  {
+    "code": "12.25.010",
+    "districtCode": "010",
+    "regencyCode": "12.25",
+    "provinceCode": "12",
+    "name": "Kecamatan Sirombu",
+    "alias": "Sirombu"
+  },
+  {
+    "code": "12.25.020",
+    "districtCode": "020",
+    "regencyCode": "12.25",
+    "provinceCode": "12",
+    "name": "Kecamatan Lahomi",
+    "alias": "Lahomi"
+  },
+  {
+    "code": "12.25.030",
+    "districtCode": "030",
+    "regencyCode": "12.25",
+    "provinceCode": "12",
+    "name": "Kecamatan Ulu Moro O",
+    "alias": "Ulu Moro O"
+  },
+  {
+    "code": "12.25.040",
+    "districtCode": "040",
+    "regencyCode": "12.25",
+    "provinceCode": "12",
+    "name": "Kecamatan Lolofitu Moi",
+    "alias": "Lolofitu Moi"
+  },
+  {
+    "code": "12.25.050",
+    "districtCode": "050",
+    "regencyCode": "12.25",
+    "provinceCode": "12",
+    "name": "Kecamatan Mandrehe Utara",
+    "alias": "Mandrehe Utara"
+  },
+  {
+    "code": "12.25.060",
+    "districtCode": "060",
+    "regencyCode": "12.25",
+    "provinceCode": "12",
+    "name": "Kecamatan Mandrehe",
+    "alias": "Mandrehe"
+  },
+  {
+    "code": "12.25.070",
+    "districtCode": "070",
+    "regencyCode": "12.25",
+    "provinceCode": "12",
+    "name": "Kecamatan Mandrehe Barat",
+    "alias": "Mandrehe Barat"
+  },
+  {
+    "code": "12.25.080",
+    "districtCode": "080",
+    "regencyCode": "12.25",
+    "provinceCode": "12",
+    "name": "Kecamatan Moro O",
+    "alias": "Moro O"
+  }
+]

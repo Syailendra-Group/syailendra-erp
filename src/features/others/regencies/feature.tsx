@@ -31,17 +31,11 @@ function RegenciesPrimaryButtons(): ReactElement {
 
 function RegenciesContent(): ReactElement {
   const t = useTranslations('others.regencies')
-  const { setOpen, setCurrentRow } = useRegency()
 
   return (
     <div className="space-y-4 sm:space-y-6">
       <PageHeader title={t('title')} description={t('subtitle')} icon={Building2} actions={<RegenciesPrimaryButtons />} />
-      <RegenciesTable
-        onArchive={(item) => {
-          setCurrentRow(item)
-          setOpen('delete')
-        }}
-      />
+      <RegenciesTable />
       <RegenciesDialogs />
     </div>
   )

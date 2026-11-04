@@ -1,0 +1,30 @@
+[
+  {
+    "code": "73.26.180.001",
+    "villageCode": "001",
+    "districtCode": "73.26.180",
+    "name": "Lembang Batu Lotong",
+    "alias": "Lembang Batu Lotong"
+  },
+  {
+    "code": "73.26.180.002",
+    "villageCode": "002",
+    "districtCode": "73.26.180",
+    "name": "Lembang Awan",
+    "alias": "Lembang Awan"
+  },
+  {
+    "code": "73.26.180.003",
+    "villageCode": "003",
+    "districtCode": "73.26.180",
+    "name": "Lembang Londong Biang",
+    "alias": "Lembang Londong Biang"
+  },
+  {
+    "code": "73.26.180.004",
+    "villageCode": "004",
+    "districtCode": "73.26.180",
+    "name": "Lembang Buntu Karua",
+    "alias": "Lembang Buntu Karua"
+  }
+]

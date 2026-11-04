@@ -1,0 +1,90 @@
+[
+  {
+    "code": "76.04.010",
+    "districtCode": "010",
+    "regencyCode": "76.04",
+    "provinceCode": "76",
+    "name": "Kecamatan Tapalang",
+    "alias": "Tapalang"
+  },
+  {
+    "code": "76.04.011",
+    "districtCode": "011",
+    "regencyCode": "76.04",
+    "provinceCode": "76",
+    "name": "Kecamatan Tapalang Barat",
+    "alias": "Tapalang Barat"
+  },
+  {
+    "code": "76.04.020",
+    "districtCode": "020",
+    "regencyCode": "76.04",
+    "provinceCode": "76",
+    "name": "Kecamatan Mamuju",
+    "alias": "Mamuju"
+  },
+  {
+    "code": "76.04.022",
+    "districtCode": "022",
+    "regencyCode": "76.04",
+    "provinceCode": "76",
+    "name": "Kecamatan Simboro",
+    "alias": "Simboro"
+  },
+  {
+    "code": "76.04.023",
+    "districtCode": "023",
+    "regencyCode": "76.04",
+    "provinceCode": "76",
+    "name": "Kecamatan Kepulauan Bala Balakang",
+    "alias": "Kepulauan Bala Balakang"
+  },
+  {
+    "code": "76.04.030",
+    "districtCode": "030",
+    "regencyCode": "76.04",
+    "provinceCode": "76",
+    "name": "Kecamatan Kalukku",
+    "alias": "Kalukku"
+  },
+  {
+    "code": "76.04.031",
+    "districtCode": "031",
+    "regencyCode": "76.04",
+    "provinceCode": "76",
+    "name": "Kecamatan Papalang",
+    "alias": "Papalang"
+  },
+  {
+    "code": "76.04.032",
+    "districtCode": "032",
+    "regencyCode": "76.04",
+    "provinceCode": "76",
+    "name": "Kecamatan Sampaga",
+    "alias": "Sampaga"
+  },
+  {
+    "code": "76.04.033",
+    "districtCode": "033",
+    "regencyCode": "76.04",
+    "provinceCode": "76",
+    "name": "Kecamatan Tommo",
+    "alias": "Tommo"
+  },
+  {
+    "code": "76.04.040",
+    "districtCode": "040",
+    "regencyCode": "76.04",
+    "provinceCode": "76",
+    "name": "Kecamatan Kalumpang",
+    "alias": "Kalumpang"
+  },
+  {
+    "code": "76.04.041",
+    "districtCode": "041",
+    "regencyCode": "76.04",
+    "provinceCode": "76",
+    "name": "Kecamatan Bonehau",
+    "alias": "Bonehau"
+  }
+]

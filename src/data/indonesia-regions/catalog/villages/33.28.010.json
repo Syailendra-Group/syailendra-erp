@@ -1,0 +1,93 @@
+[
+  {
+    "code": "33.28.010.001",
+    "villageCode": "001",
+    "districtCode": "33.28.010",
+    "name": "Prupuk Selatan",
+    "alias": "Prupuk Selatan"
+  },
+  {
+    "code": "33.28.010.002",
+    "villageCode": "002",
+    "districtCode": "33.28.010",
+    "name": "Prupuk Utara",
+    "alias": "Prupuk Utara"
+  },
+  {
+    "code": "33.28.010.003",
+    "villageCode": "003",
+    "districtCode": "33.28.010",
+    "name": "Kaligayam",
+    "alias": "Kaligayam"
+  },
+  {
+    "code": "33.28.010.004",
+    "villageCode": "004",
+    "districtCode": "33.28.010",
+    "name": "Wanasari",
+    "alias": "Wanasari"
+  },
+  {
+    "code": "33.28.010.005",
+    "villageCode": "005",
+    "districtCode": "33.28.010",
+    "name": "Danaraja",
+    "alias": "Danaraja"
+  },
+  {
+    "code": "33.28.010.006",
+    "villageCode": "006",
+    "districtCode": "33.28.010",
+    "name": "Jembayat",
+    "alias": "Jembayat"
+  },
+  {
+    "code": "33.28.010.007",
+    "villageCode": "007",
+    "districtCode": "33.28.010",
+    "name": "Margasari",
+    "alias": "Margasari"
+  },
+  {
+    "code": "33.28.010.008",
+    "villageCode": "008",
+    "districtCode": "33.28.010",
+    "name": "Dukuh Tengah",
+    "alias": "Dukuh Tengah"
+  },
+  {
+    "code": "33.28.010.009",
+    "villageCode": "009",
+    "districtCode": "33.28.010",
+    "name": "Pakulaut",
+    "alias": "Pakulaut"
+  },
+  {
+    "code": "33.28.010.010",
+    "villageCode": "010",
+    "districtCode": "33.28.010",
+    "name": "Margaayu",
+    "alias": "Margaayu"
+  },
+  {
+    "code": "33.28.010.011",
+    "villageCode": "011",
+    "districtCode": "33.28.010",
+    "name": "Kalisalak",
+    "alias": "Kalisalak"
+  },
+  {
+    "code": "33.28.010.012",
+    "villageCode": "012",
+    "districtCode": "33.28.010",
+    "name": "Karangdawa",
+    "alias": "Karangdawa"
+  },
+  {
+    "code": "33.28.010.013",
+    "villageCode": "013",
+    "districtCode": "33.28.010",
+    "name": "Jatilaba",
+    "alias": "Jatilaba"
+  }
+]

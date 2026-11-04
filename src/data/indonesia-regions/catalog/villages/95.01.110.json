@@ -1,0 +1,93 @@
+[
+  {
+    "code": "95.01.110.001",
+    "villageCode": "001",
+    "districtCode": "95.01.110",
+    "name": "Kurik",
+    "alias": "Kurik"
+  },
+  {
+    "code": "95.01.110.002",
+    "villageCode": "002",
+    "districtCode": "95.01.110",
+    "name": "Wonorejo",
+    "alias": "Wonorejo"
+  },
+  {
+    "code": "95.01.110.003",
+    "villageCode": "003",
+    "districtCode": "95.01.110",
+    "name": "Candra Jaya",
+    "alias": "Candra Jaya"
+  },
+  {
+    "code": "95.01.110.004",
+    "villageCode": "004",
+    "districtCode": "95.01.110",
+    "name": "Harapan Makmur",
+    "alias": "Harapan Makmur"
+  },
+  {
+    "code": "95.01.110.005",
+    "villageCode": "005",
+    "districtCode": "95.01.110",
+    "name": "Ivi Mahad",
+    "alias": "Ivi Mahad"
+  },
+  {
+    "code": "95.01.110.006",
+    "villageCode": "006",
+    "districtCode": "95.01.110",
+    "name": "Jaya Makmur",
+    "alias": "Jaya Makmur"
+  },
+  {
+    "code": "95.01.110.007",
+    "villageCode": "007",
+    "districtCode": "95.01.110",
+    "name": "Anumbob",
+    "alias": "Anumbob"
+  },
+  {
+    "code": "95.01.110.008",
+    "villageCode": "008",
+    "districtCode": "95.01.110",
+    "name": "Salor Indah",
+    "alias": "Salor Indah"
+  },
+  {
+    "code": "95.01.110.009",
+    "villageCode": "009",
+    "districtCode": "95.01.110",
+    "name": "Telaga Sari",
+    "alias": "Telaga Sari"
+  },
+  {
+    "code": "95.01.110.010",
+    "villageCode": "010",
+    "districtCode": "95.01.110",
+    "name": "Sumber Mulya",
+    "alias": "Sumber Mulya"
+  },
+  {
+    "code": "95.01.110.011",
+    "villageCode": "011",
+    "districtCode": "95.01.110",
+    "name": "Kaliki",
+    "alias": "Kaliki"
+  },
+  {
+    "code": "95.01.110.012",
+    "villageCode": "012",
+    "districtCode": "95.01.110",
+    "name": "Sumber Rejeki",
+    "alias": "Sumber Rejeki"
+  },
+  {
+    "code": "95.01.110.013",
+    "villageCode": "013",
+    "districtCode": "95.01.110",
+    "name": "Wapeko",
+    "alias": "Wapeko"
+  }
+]

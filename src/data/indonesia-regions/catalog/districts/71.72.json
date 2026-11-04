@@ -1,0 +1,66 @@
+[
+  {
+    "code": "71.72.010",
+    "districtCode": "010",
+    "regencyCode": "71.72",
+    "provinceCode": "71",
+    "name": "Kecamatan Madidir",
+    "alias": "Madidir"
+  },
+  {
+    "code": "71.72.011",
+    "districtCode": "011",
+    "regencyCode": "71.72",
+    "provinceCode": "71",
+    "name": "Kecamatan Matuari",
+    "alias": "Matuari"
+  },
+  {
+    "code": "71.72.012",
+    "districtCode": "012",
+    "regencyCode": "71.72",
+    "provinceCode": "71",
+    "name": "Kecamatan Girian",
+    "alias": "Girian"
+  },
+  {
+    "code": "71.72.021",
+    "districtCode": "021",
+    "regencyCode": "71.72",
+    "provinceCode": "71",
+    "name": "Kecamatan Lembeh Selatan",
+    "alias": "Lembeh Selatan"
+  },
+  {
+    "code": "71.72.022",
+    "districtCode": "022",
+    "regencyCode": "71.72",
+    "provinceCode": "71",
+    "name": "Kecamatan Lembeh Utara",
+    "alias": "Lembeh Utara"
+  },
+  {
+    "code": "71.72.030",
+    "districtCode": "030",
+    "regencyCode": "71.72",
+    "provinceCode": "71",
+    "name": "Kecamatan Aertembaga",
+    "alias": "Aertembaga"
+  },
+  {
+    "code": "71.72.031",
+    "districtCode": "031",
+    "regencyCode": "71.72",
+    "provinceCode": "71",
+    "name": "Kecamatan Maesa",
+    "alias": "Maesa"
+  },
+  {
+    "code": "71.72.040",
+    "districtCode": "040",
+    "regencyCode": "71.72",
+    "provinceCode": "71",
+    "name": "Kecamatan Ranowulu",
+    "alias": "Ranowulu"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "code": "53.19.061.001",
+    "villageCode": "001",
+    "districtCode": "53.19.061",
+    "name": "Lencur",
+    "alias": "Lencur"
+  },
+  {
+    "code": "53.19.061.002",
+    "villageCode": "002",
+    "districtCode": "53.19.061",
+    "name": "Golo Mangung",
+    "alias": "Golo Mangung"
+  },
+  {
+    "code": "53.19.061.003",
+    "villageCode": "003",
+    "districtCode": "53.19.061",
+    "name": "Satar Padut",
+    "alias": "Satar Padut"
+  },
+  {
+    "code": "53.19.061.004",
+    "villageCode": "004",
+    "districtCode": "53.19.061",
+    "name": "Nampar Tabang",
+    "alias": "Nampar Tabang"
+  },
+  {
+    "code": "53.19.061.005",
+    "villageCode": "005",
+    "districtCode": "53.19.061",
+    "name": "Liang Deruk",
+    "alias": "Liang Deruk"
+  },
+  {
+    "code": "53.19.061.006",
+    "villageCode": "006",
+    "districtCode": "53.19.061",
+    "name": "Satar Punda",
+    "alias": "Satar Punda"
+  },
+  {
+    "code": "53.19.061.007",
+    "villageCode": "007",
+    "districtCode": "53.19.061",
+    "name": "Golo Munga Barat",
+    "alias": "Golo Munga Barat"
+  },
+  {
+    "code": "53.19.061.008",
+    "villageCode": "008",
+    "districtCode": "53.19.061",
+    "name": "Haju Wangi",
+    "alias": "Haju Wangi"
+  },
+  {
+    "code": "53.19.061.009",
+    "villageCode": "009",
+    "districtCode": "53.19.061",
+    "name": "Golo Wontong",
+    "alias": "Golo Wontong"
+  },
+  {
+    "code": "53.19.061.010",
+    "villageCode": "010",
+    "districtCode": "53.19.061",
+    "name": "Satar Kampas",
+    "alias": "Satar Kampas"
+  },
+  {
+    "code": "53.19.061.011",
+    "villageCode": "011",
+    "districtCode": "53.19.061",
+    "name": "Satar Punda Barat",
+    "alias": "Satar Punda Barat"
+  }
+]

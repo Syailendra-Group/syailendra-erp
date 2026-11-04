@@ -1,0 +1,72 @@
+[
+  {
+    "code": "97.03.320.001",
+    "villageCode": "001",
+    "districtCode": "97.03.320",
+    "name": "Tologi",
+    "alias": "Tologi"
+  },
+  {
+    "code": "97.03.320.002",
+    "villageCode": "002",
+    "districtCode": "97.03.320",
+    "name": "Kelulome",
+    "alias": "Kelulome"
+  },
+  {
+    "code": "97.03.320.003",
+    "villageCode": "003",
+    "districtCode": "97.03.320",
+    "name": "Wiyagi",
+    "alias": "Wiyagi"
+  },
+  {
+    "code": "97.03.320.004",
+    "villageCode": "004",
+    "districtCode": "97.03.320",
+    "name": "Wegenpura",
+    "alias": "Wegenpura"
+  },
+  {
+    "code": "97.03.320.005",
+    "villageCode": "005",
+    "districtCode": "97.03.320",
+    "name": "Ilunggijime",
+    "alias": "Ilunggijime"
+  },
+  {
+    "code": "97.03.320.006",
+    "villageCode": "006",
+    "districtCode": "97.03.320",
+    "name": "Juyiga",
+    "alias": "Juyiga"
+  },
+  {
+    "code": "97.03.320.007",
+    "villageCode": "007",
+    "districtCode": "97.03.320",
+    "name": "Wiringgame",
+    "alias": "Wiringgame"
+  },
+  {
+    "code": "97.03.320.008",
+    "villageCode": "008",
+    "districtCode": "97.03.320",
+    "name": "Lewinagi",
+    "alias": "Lewinagi"
+  },
+  {
+    "code": "97.03.320.009",
+    "villageCode": "009",
+    "districtCode": "97.03.320",
+    "name": "Peragime",
+    "alias": "Peragime"
+  },
+  {
+    "code": "97.03.320.010",
+    "villageCode": "010",
+    "districtCode": "97.03.320",
+    "name": "Muluneri",
+    "alias": "Muluneri"
+  }
+]

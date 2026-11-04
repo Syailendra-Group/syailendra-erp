@@ -1,0 +1,66 @@
+[
+  {
+    "code": "52.07.010",
+    "districtCode": "010",
+    "regencyCode": "52.07",
+    "provinceCode": "52",
+    "name": "Kecamatan Sekongkang",
+    "alias": "Sekongkang"
+  },
+  {
+    "code": "52.07.020",
+    "districtCode": "020",
+    "regencyCode": "52.07",
+    "provinceCode": "52",
+    "name": "Kecamatan Jereweh",
+    "alias": "Jereweh"
+  },
+  {
+    "code": "52.07.021",
+    "districtCode": "021",
+    "regencyCode": "52.07",
+    "provinceCode": "52",
+    "name": "Kecamatan Maluk",
+    "alias": "Maluk"
+  },
+  {
+    "code": "52.07.030",
+    "districtCode": "030",
+    "regencyCode": "52.07",
+    "provinceCode": "52",
+    "name": "Kecamatan Taliwang",
+    "alias": "Taliwang"
+  },
+  {
+    "code": "52.07.031",
+    "districtCode": "031",
+    "regencyCode": "52.07",
+    "provinceCode": "52",
+    "name": "Kecamatan Brang Ene",
+    "alias": "Brang Ene"
+  },
+  {
+    "code": "52.07.040",
+    "districtCode": "040",
+    "regencyCode": "52.07",
+    "provinceCode": "52",
+    "name": "Kecamatan Brang Rea",
+    "alias": "Brang Rea"
+  },
+  {
+    "code": "52.07.050",
+    "districtCode": "050",
+    "regencyCode": "52.07",
+    "provinceCode": "52",
+    "name": "Kecamatan Seteluk",
+    "alias": "Seteluk"
+  },
+  {
+    "code": "52.07.051",
+    "districtCode": "051",
+    "regencyCode": "52.07",
+    "provinceCode": "52",
+    "name": "Kecamatan Poto Tano",
+    "alias": "Poto Tano"
+  }
+]

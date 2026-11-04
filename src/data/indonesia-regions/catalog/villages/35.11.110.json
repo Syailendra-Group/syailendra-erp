@@ -1,0 +1,86 @@
+[
+  {
+    "code": "35.11.110.001",
+    "villageCode": "001",
+    "districtCode": "35.11.110",
+    "name": "Jetis",
+    "alias": "Jetis"
+  },
+  {
+    "code": "35.11.110.002",
+    "villageCode": "002",
+    "districtCode": "35.11.110",
+    "name": "Pakuwesi",
+    "alias": "Pakuwesi"
+  },
+  {
+    "code": "35.11.110.003",
+    "villageCode": "003",
+    "districtCode": "35.11.110",
+    "name": "Kupang",
+    "alias": "Kupang"
+  },
+  {
+    "code": "35.11.110.004",
+    "villageCode": "004",
+    "districtCode": "35.11.110",
+    "name": "Petung",
+    "alias": "Petung"
+  },
+  {
+    "code": "35.11.110.005",
+    "villageCode": "005",
+    "districtCode": "35.11.110",
+    "name": "Penambangan",
+    "alias": "Penambangan"
+  },
+  {
+    "code": "35.11.110.006",
+    "villageCode": "006",
+    "districtCode": "35.11.110",
+    "name": "Curahpoh",
+    "alias": "Curahpoh"
+  },
+  {
+    "code": "35.11.110.007",
+    "villageCode": "007",
+    "districtCode": "35.11.110",
+    "name": "Curahdami",
+    "alias": "Curahdami"
+  },
+  {
+    "code": "35.11.110.008",
+    "villageCode": "008",
+    "districtCode": "35.11.110",
+    "name": "Poncogati",
+    "alias": "Poncogati"
+  },
+  {
+    "code": "35.11.110.009",
+    "villageCode": "009",
+    "districtCode": "35.11.110",
+    "name": "Sumbersuko",
+    "alias": "Sumbersuko"
+  },
+  {
+    "code": "35.11.110.011",
+    "villageCode": "011",
+    "districtCode": "35.11.110",
+    "name": "Silolembu",
+    "alias": "Silolembu"
+  },
+  {
+    "code": "35.11.110.019",
+    "villageCode": "019",
+    "districtCode": "35.11.110",
+    "name": "Locare",
+    "alias": "Locare"
+  },
+  {
+    "code": "35.11.110.020",
+    "villageCode": "020",
+    "districtCode": "35.11.110",
+    "name": "Sumber Salak",
+    "alias": "Sumber Salak"
+  }
+]

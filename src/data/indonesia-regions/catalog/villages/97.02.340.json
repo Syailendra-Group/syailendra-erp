@@ -1,0 +1,58 @@
+[
+  {
+    "code": "97.02.340.001",
+    "villageCode": "001",
+    "districtCode": "97.02.340",
+    "name": "Manda",
+    "alias": "Manda"
+  },
+  {
+    "code": "97.02.340.002",
+    "villageCode": "002",
+    "districtCode": "97.02.340",
+    "name": "Bugi",
+    "alias": "Bugi"
+  },
+  {
+    "code": "97.02.340.003",
+    "villageCode": "003",
+    "districtCode": "97.02.340",
+    "name": "Kodlangga",
+    "alias": "Kodlangga"
+  },
+  {
+    "code": "97.02.340.004",
+    "villageCode": "004",
+    "districtCode": "97.02.340",
+    "name": "Walak Selatan",
+    "alias": "Walak Selatan"
+  },
+  {
+    "code": "97.02.340.005",
+    "villageCode": "005",
+    "districtCode": "97.02.340",
+    "name": "Air Garam",
+    "alias": "Air Garam"
+  },
+  {
+    "code": "97.02.340.006",
+    "villageCode": "006",
+    "districtCode": "97.02.340",
+    "name": "Totni",
+    "alias": "Totni"
+  },
+  {
+    "code": "97.02.340.007",
+    "villageCode": "007",
+    "districtCode": "97.02.340",
+    "name": "Tagunik",
+    "alias": "Tagunik"
+  },
+  {
+    "code": "97.02.340.008",
+    "villageCode": "008",
+    "districtCode": "97.02.340",
+    "name": "Dewene",
+    "alias": "Dewene"
+  }
+]

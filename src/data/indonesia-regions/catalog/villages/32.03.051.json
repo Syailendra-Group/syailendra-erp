@@ -1,0 +1,72 @@
+[
+  {
+    "code": "32.03.051.001",
+    "villageCode": "001",
+    "districtCode": "32.03.051",
+    "name": "Padaluyu",
+    "alias": "Padaluyu"
+  },
+  {
+    "code": "32.03.051.002",
+    "villageCode": "002",
+    "districtCode": "32.03.051",
+    "name": "Sukaluyu",
+    "alias": "Sukaluyu"
+  },
+  {
+    "code": "32.03.051.003",
+    "villageCode": "003",
+    "districtCode": "32.03.051",
+    "name": "Mekarlaksana",
+    "alias": "Mekarlaksana"
+  },
+  {
+    "code": "32.03.051.004",
+    "villageCode": "004",
+    "districtCode": "32.03.051",
+    "name": "Cikadu",
+    "alias": "Cikadu"
+  },
+  {
+    "code": "32.03.051.005",
+    "villageCode": "005",
+    "districtCode": "32.03.051",
+    "name": "Kalapanunggal",
+    "alias": "Kalapanunggal"
+  },
+  {
+    "code": "32.03.051.006",
+    "villageCode": "006",
+    "districtCode": "32.03.051",
+    "name": "Mekarwangi",
+    "alias": "Mekarwangi"
+  },
+  {
+    "code": "32.03.051.007",
+    "villageCode": "007",
+    "districtCode": "32.03.051",
+    "name": "Cisaranten",
+    "alias": "Cisaranten"
+  },
+  {
+    "code": "32.03.051.008",
+    "villageCode": "008",
+    "districtCode": "32.03.051",
+    "name": "Sukamulya",
+    "alias": "Sukamulya"
+  },
+  {
+    "code": "32.03.051.009",
+    "villageCode": "009",
+    "districtCode": "32.03.051",
+    "name": "Mekarjaya",
+    "alias": "Mekarjaya"
+  },
+  {
+    "code": "32.03.051.010",
+    "villageCode": "010",
+    "districtCode": "32.03.051",
+    "name": "Sukamanah",
+    "alias": "Sukamanah"
+  }
+]

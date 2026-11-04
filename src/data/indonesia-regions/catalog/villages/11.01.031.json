@@ -1,0 +1,72 @@
+[
+  {
+    "code": "11.01.031.001",
+    "villageCode": "001",
+    "districtCode": "11.01.031",
+    "name": "Kuala Bakti",
+    "alias": "Kuala Bakti"
+  },
+  {
+    "code": "11.01.031.002",
+    "villageCode": "002",
+    "districtCode": "11.01.031",
+    "name": "Lugu Sebahak",
+    "alias": "Lugu Sebahak"
+  },
+  {
+    "code": "11.01.031.003",
+    "villageCode": "003",
+    "districtCode": "11.01.031",
+    "name": "Gunung Putih",
+    "alias": "Gunung Putih"
+  },
+  {
+    "code": "11.01.031.004",
+    "villageCode": "004",
+    "districtCode": "11.01.031",
+    "name": "Babussalam",
+    "alias": "Babussalam"
+  },
+  {
+    "code": "11.01.031.005",
+    "villageCode": "005",
+    "districtCode": "11.01.031",
+    "name": "Muara Aman",
+    "alias": "Muara Aman"
+  },
+  {
+    "code": "11.01.031.006",
+    "villageCode": "006",
+    "districtCode": "11.01.031",
+    "name": "Luan Balu",
+    "alias": "Luan Balu"
+  },
+  {
+    "code": "11.01.031.007",
+    "villageCode": "007",
+    "districtCode": "11.01.031",
+    "name": "Sambay",
+    "alias": "Sambay"
+  },
+  {
+    "code": "11.01.031.008",
+    "villageCode": "008",
+    "districtCode": "11.01.031",
+    "name": "Kuala Baru",
+    "alias": "Kuala Baru"
+  },
+  {
+    "code": "11.01.031.009",
+    "villageCode": "009",
+    "districtCode": "11.01.031",
+    "name": "Tanjung Raya",
+    "alias": "Tanjung Raya"
+  },
+  {
+    "code": "11.01.031.010",
+    "villageCode": "010",
+    "districtCode": "11.01.031",
+    "name": "Bulu Hadek",
+    "alias": "Bulu Hadek"
+  }
+]

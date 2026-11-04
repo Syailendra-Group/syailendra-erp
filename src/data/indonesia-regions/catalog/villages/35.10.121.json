@@ -1,0 +1,72 @@
+[
+  {
+    "code": "35.10.121.001",
+    "villageCode": "001",
+    "districtCode": "35.10.121",
+    "name": "Kaligung",
+    "alias": "Kaligung"
+  },
+  {
+    "code": "35.10.121.002",
+    "villageCode": "002",
+    "districtCode": "35.10.121",
+    "name": "Karangrejo",
+    "alias": "Karangrejo"
+  },
+  {
+    "code": "35.10.121.003",
+    "villageCode": "003",
+    "districtCode": "35.10.121",
+    "name": "Bomo",
+    "alias": "Bomo"
+  },
+  {
+    "code": "35.10.121.004",
+    "villageCode": "004",
+    "districtCode": "35.10.121",
+    "name": "Gintangan",
+    "alias": "Gintangan"
+  },
+  {
+    "code": "35.10.121.005",
+    "villageCode": "005",
+    "districtCode": "35.10.121",
+    "name": "Kaotan",
+    "alias": "Kaotan"
+  },
+  {
+    "code": "35.10.121.006",
+    "villageCode": "006",
+    "districtCode": "35.10.121",
+    "name": "Watu Kebo",
+    "alias": "Watu Kebo"
+  },
+  {
+    "code": "35.10.121.007",
+    "villageCode": "007",
+    "districtCode": "35.10.121",
+    "name": "Patoman",
+    "alias": "Patoman"
+  },
+  {
+    "code": "35.10.121.008",
+    "villageCode": "008",
+    "districtCode": "35.10.121",
+    "name": "Blimbing Sari",
+    "alias": "Blimbing Sari"
+  },
+  {
+    "code": "35.10.121.009",
+    "villageCode": "009",
+    "districtCode": "35.10.121",
+    "name": "Badean",
+    "alias": "Badean"
+  },
+  {
+    "code": "35.10.121.010",
+    "villageCode": "010",
+    "districtCode": "35.10.121",
+    "name": "Sukojati",
+    "alias": "Sukojati"
+  }
+]

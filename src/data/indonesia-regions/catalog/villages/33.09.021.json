@@ -1,0 +1,72 @@
+[
+  {
+    "code": "33.09.021.001",
+    "villageCode": "001",
+    "districtCode": "33.09.021",
+    "name": "Ngagrong",
+    "alias": "Ngagrong"
+  },
+  {
+    "code": "33.09.021.002",
+    "villageCode": "002",
+    "districtCode": "33.09.021",
+    "name": "Seboto",
+    "alias": "Seboto"
+  },
+  {
+    "code": "33.09.021.003",
+    "villageCode": "003",
+    "districtCode": "33.09.021",
+    "name": "Gladagsari",
+    "alias": "Gladagsari"
+  },
+  {
+    "code": "33.09.021.004",
+    "villageCode": "004",
+    "districtCode": "33.09.021",
+    "name": "Kaligentong",
+    "alias": "Kaligentong"
+  },
+  {
+    "code": "33.09.021.005",
+    "villageCode": "005",
+    "districtCode": "33.09.021",
+    "name": "Kembang",
+    "alias": "Kembang"
+  },
+  {
+    "code": "33.09.021.006",
+    "villageCode": "006",
+    "districtCode": "33.09.021",
+    "name": "Candisari",
+    "alias": "Candisari"
+  },
+  {
+    "code": "33.09.021.007",
+    "villageCode": "007",
+    "districtCode": "33.09.021",
+    "name": "Ngargoloko",
+    "alias": "Ngargoloko"
+  },
+  {
+    "code": "33.09.021.008",
+    "villageCode": "008",
+    "districtCode": "33.09.021",
+    "name": "Sampetan",
+    "alias": "Sampetan"
+  },
+  {
+    "code": "33.09.021.009",
+    "villageCode": "009",
+    "districtCode": "33.09.021",
+    "name": "Ngadirojo",
+    "alias": "Ngadirojo"
+  },
+  {
+    "code": "33.09.021.010",
+    "villageCode": "010",
+    "districtCode": "33.09.021",
+    "name": "Jlarem",
+    "alias": "Jlarem"
+  }
+]

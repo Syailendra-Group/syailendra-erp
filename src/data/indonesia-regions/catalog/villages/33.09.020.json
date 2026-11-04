@@ -1,0 +1,72 @@
+[
+  {
+    "code": "33.09.020.003",
+    "villageCode": "003",
+    "districtCode": "33.09.020",
+    "name": "Tanduk",
+    "alias": "Tanduk"
+  },
+  {
+    "code": "33.09.020.004",
+    "villageCode": "004",
+    "districtCode": "33.09.020",
+    "name": "Banyuanyar",
+    "alias": "Banyuanyar"
+  },
+  {
+    "code": "33.09.020.005",
+    "villageCode": "005",
+    "districtCode": "33.09.020",
+    "name": "Sidomulyo",
+    "alias": "Sidomulyo"
+  },
+  {
+    "code": "33.09.020.006",
+    "villageCode": "006",
+    "districtCode": "33.09.020",
+    "name": "Ngargosari",
+    "alias": "Ngargosari"
+  },
+  {
+    "code": "33.09.020.007",
+    "villageCode": "007",
+    "districtCode": "33.09.020",
+    "name": "Selodoko",
+    "alias": "Selodoko"
+  },
+  {
+    "code": "33.09.020.008",
+    "villageCode": "008",
+    "districtCode": "33.09.020",
+    "name": "Ngenden",
+    "alias": "Ngenden"
+  },
+  {
+    "code": "33.09.020.009",
+    "villageCode": "009",
+    "districtCode": "33.09.020",
+    "name": "Ngampon",
+    "alias": "Ngampon"
+  },
+  {
+    "code": "33.09.020.010",
+    "villageCode": "010",
+    "districtCode": "33.09.020",
+    "name": "Gondangslamet",
+    "alias": "Gondangslamet"
+  },
+  {
+    "code": "33.09.020.011",
+    "villageCode": "011",
+    "districtCode": "33.09.020",
+    "name": "Candi",
+    "alias": "Candi"
+  },
+  {
+    "code": "33.09.020.012",
+    "villageCode": "012",
+    "districtCode": "33.09.020",
+    "name": "Urutsewu",
+    "alias": "Urutsewu"
+  }
+]

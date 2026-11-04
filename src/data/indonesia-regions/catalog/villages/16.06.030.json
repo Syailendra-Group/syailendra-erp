@@ -1,0 +1,72 @@
+[
+  {
+    "code": "16.06.030.003",
+    "villageCode": "003",
+    "districtCode": "16.06.030",
+    "name": "Sungai Dua",
+    "alias": "Sungai Dua"
+  },
+  {
+    "code": "16.06.030.005",
+    "villageCode": "005",
+    "districtCode": "16.06.030",
+    "name": "Pagar Kaya",
+    "alias": "Pagar Kaya"
+  },
+  {
+    "code": "16.06.030.006",
+    "villageCode": "006",
+    "districtCode": "16.06.030",
+    "name": "Suka Lali",
+    "alias": "Suka Lali"
+  },
+  {
+    "code": "16.06.030.007",
+    "villageCode": "007",
+    "districtCode": "16.06.030",
+    "name": "Kertayu",
+    "alias": "Kertayu"
+  },
+  {
+    "code": "16.06.030.008",
+    "villageCode": "008",
+    "districtCode": "16.06.030",
+    "name": "Sindang Marga",
+    "alias": "Sindang Marga"
+  },
+  {
+    "code": "16.06.030.009",
+    "villageCode": "009",
+    "districtCode": "16.06.030",
+    "name": "Tebing Bulang",
+    "alias": "Tebing Bulang"
+  },
+  {
+    "code": "16.06.030.010",
+    "villageCode": "010",
+    "districtCode": "16.06.030",
+    "name": "Gajah Mati",
+    "alias": "Gajah Mati"
+  },
+  {
+    "code": "16.06.030.011",
+    "villageCode": "011",
+    "districtCode": "16.06.030",
+    "name": "Rantau Sialang",
+    "alias": "Rantau Sialang"
+  },
+  {
+    "code": "16.06.030.012",
+    "villageCode": "012",
+    "districtCode": "16.06.030",
+    "name": "Kerta Jaya",
+    "alias": "Kerta Jaya"
+  },
+  {
+    "code": "16.06.030.019",
+    "villageCode": "019",
+    "districtCode": "16.06.030",
+    "name": "Keramat Jaya",
+    "alias": "Keramat Jaya"
+  }
+]

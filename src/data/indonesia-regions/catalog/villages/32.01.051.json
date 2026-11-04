@@ -1,0 +1,51 @@
+[
+  {
+    "code": "32.01.051.001",
+    "villageCode": "001",
+    "districtCode": "32.01.051",
+    "name": "Tapos I",
+    "alias": "Tapos I"
+  },
+  {
+    "code": "32.01.051.002",
+    "villageCode": "002",
+    "districtCode": "32.01.051",
+    "name": "Gunung Malang",
+    "alias": "Gunung Malang"
+  },
+  {
+    "code": "32.01.051.003",
+    "villageCode": "003",
+    "districtCode": "32.01.051",
+    "name": "Tapos Ii",
+    "alias": "Tapos Ii"
+  },
+  {
+    "code": "32.01.051.004",
+    "villageCode": "004",
+    "districtCode": "32.01.051",
+    "name": "Situ Daun",
+    "alias": "Situ Daun"
+  },
+  {
+    "code": "32.01.051.005",
+    "villageCode": "005",
+    "districtCode": "32.01.051",
+    "name": "Cibitung Tengah",
+    "alias": "Cibitung Tengah"
+  },
+  {
+    "code": "32.01.051.006",
+    "villageCode": "006",
+    "districtCode": "32.01.051",
+    "name": "Cinangneng",
+    "alias": "Cinangneng"
+  },
+  {
+    "code": "32.01.051.007",
+    "villageCode": "007",
+    "districtCode": "32.01.051",
+    "name": "Gunung Mulya",
+    "alias": "Gunung Mulya"
+  }
+]

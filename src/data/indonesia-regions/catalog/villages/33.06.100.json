@@ -1,0 +1,289 @@
+[
+  {
+    "code": "33.06.100.001",
+    "villageCode": "001",
+    "districtCode": "33.06.100",
+    "name": "Mangunjayan",
+    "alias": "Mangunjayan"
+  },
+  {
+    "code": "33.06.100.002",
+    "villageCode": "002",
+    "districtCode": "33.06.100",
+    "name": "Kedungmulyo",
+    "alias": "Kedungmulyo"
+  },
+  {
+    "code": "33.06.100.003",
+    "villageCode": "003",
+    "districtCode": "33.06.100",
+    "name": "Sidomulyo",
+    "alias": "Sidomulyo"
+  },
+  {
+    "code": "33.06.100.004",
+    "villageCode": "004",
+    "districtCode": "33.06.100",
+    "name": "Sumbersari",
+    "alias": "Sumbersari"
+  },
+  {
+    "code": "33.06.100.005",
+    "villageCode": "005",
+    "districtCode": "33.06.100",
+    "name": "Langenrejo",
+    "alias": "Langenrejo"
+  },
+  {
+    "code": "33.06.100.006",
+    "villageCode": "006",
+    "districtCode": "33.06.100",
+    "name": "Tamansari",
+    "alias": "Tamansari"
+  },
+  {
+    "code": "33.06.100.007",
+    "villageCode": "007",
+    "districtCode": "33.06.100",
+    "name": "Wareng",
+    "alias": "Wareng"
+  },
+  {
+    "code": "33.06.100.008",
+    "villageCode": "008",
+    "districtCode": "33.06.100",
+    "name": "Ketug",
+    "alias": "Ketug"
+  },
+  {
+    "code": "33.06.100.009",
+    "villageCode": "009",
+    "districtCode": "33.06.100",
+    "name": "Rowodadi",
+    "alias": "Rowodadi"
+  },
+  {
+    "code": "33.06.100.010",
+    "villageCode": "010",
+    "districtCode": "33.06.100",
+    "name": "Kedungsari",
+    "alias": "Kedungsari"
+  },
+  {
+    "code": "33.06.100.011",
+    "villageCode": "011",
+    "districtCode": "33.06.100",
+    "name": "Tanjunganom",
+    "alias": "Tanjunganom"
+  },
+  {
+    "code": "33.06.100.012",
+    "villageCode": "012",
+    "districtCode": "33.06.100",
+    "name": "Karanganom",
+    "alias": "Karanganom"
+  },
+  {
+    "code": "33.06.100.013",
+    "villageCode": "013",
+    "districtCode": "33.06.100",
+    "name": "Wonodadi",
+    "alias": "Wonodadi"
+  },
+  {
+    "code": "33.06.100.014",
+    "villageCode": "014",
+    "districtCode": "33.06.100",
+    "name": "Sruwoh Dukuh",
+    "alias": "Sruwoh Dukuh"
+  },
+  {
+    "code": "33.06.100.015",
+    "villageCode": "015",
+    "districtCode": "33.06.100",
+    "name": "Kedungsri",
+    "alias": "Kedungsri"
+  },
+  {
+    "code": "33.06.100.016",
+    "villageCode": "016",
+    "districtCode": "33.06.100",
+    "name": "Kedungagung",
+    "alias": "Kedungagung"
+  },
+  {
+    "code": "33.06.100.017",
+    "villageCode": "017",
+    "districtCode": "33.06.100",
+    "name": "Sruwohrejo",
+    "alias": "Sruwohrejo"
+  },
+  {
+    "code": "33.06.100.018",
+    "villageCode": "018",
+    "districtCode": "33.06.100",
+    "name": "Lugurejo",
+    "alias": "Lugurejo"
+  },
+  {
+    "code": "33.06.100.019",
+    "villageCode": "019",
+    "districtCode": "33.06.100",
+    "name": "Kunir",
+    "alias": "Kunir"
+  },
+  {
+    "code": "33.06.100.020",
+    "villageCode": "020",
+    "districtCode": "33.06.100",
+    "name": "Wonorejo Wetan",
+    "alias": "Wonorejo Wetan"
+  },
+  {
+    "code": "33.06.100.021",
+    "villageCode": "021",
+    "districtCode": "33.06.100",
+    "name": "Wonorejo Kulon",
+    "alias": "Wonorejo Kulon"
+  },
+  {
+    "code": "33.06.100.022",
+    "villageCode": "022",
+    "districtCode": "33.06.100",
+    "name": "Kunirejo Kulon",
+    "alias": "Kunirejo Kulon"
+  },
+  {
+    "code": "33.06.100.023",
+    "villageCode": "023",
+    "districtCode": "33.06.100",
+    "name": "Kunirejo Wetan",
+    "alias": "Kunirejo Wetan"
+  },
+  {
+    "code": "33.06.100.024",
+    "villageCode": "024",
+    "districtCode": "33.06.100",
+    "name": "Lubang Dukuh",
+    "alias": "Lubang Dukuh"
+  },
+  {
+    "code": "33.06.100.025",
+    "villageCode": "025",
+    "districtCode": "33.06.100",
+    "name": "Tlogorejo",
+    "alias": "Tlogorejo"
+  },
+  {
+    "code": "33.06.100.026",
+    "villageCode": "026",
+    "districtCode": "33.06.100",
+    "name": "Polomarto",
+    "alias": "Polomarto"
+  },
+  {
+    "code": "33.06.100.027",
+    "villageCode": "027",
+    "districtCode": "33.06.100",
+    "name": "Wironatan",
+    "alias": "Wironatan"
+  },
+  {
+    "code": "33.06.100.028",
+    "villageCode": "028",
+    "districtCode": "33.06.100",
+    "name": "Klepu",
+    "alias": "Klepu"
+  },
+  {
+    "code": "33.06.100.029",
+    "villageCode": "029",
+    "districtCode": "33.06.100",
+    "name": "Tegalgondo",
+    "alias": "Tegalgondo"
+  },
+  {
+    "code": "33.06.100.030",
+    "villageCode": "030",
+    "districtCode": "33.06.100",
+    "name": "Lubang Indangan",
+    "alias": "Lubang Indangan"
+  },
+  {
+    "code": "33.06.100.031",
+    "villageCode": "031",
+    "districtCode": "33.06.100",
+    "name": "Lubang Lor",
+    "alias": "Lubang Lor"
+  },
+  {
+    "code": "33.06.100.032",
+    "villageCode": "032",
+    "districtCode": "33.06.100",
+    "name": "Lubang Kidul",
+    "alias": "Lubang Kidul"
+  },
+  {
+    "code": "33.06.100.033",
+    "villageCode": "033",
+    "districtCode": "33.06.100",
+    "name": "Lubang Sampang",
+    "alias": "Lubang Sampang"
+  },
+  {
+    "code": "33.06.100.034",
+    "villageCode": "034",
+    "districtCode": "33.06.100",
+    "name": "Butuh",
+    "alias": "Butuh"
+  },
+  {
+    "code": "33.06.100.035",
+    "villageCode": "035",
+    "districtCode": "33.06.100",
+    "name": "Binangun",
+    "alias": "Binangun"
+  },
+  {
+    "code": "33.06.100.036",
+    "villageCode": "036",
+    "districtCode": "33.06.100",
+    "name": "Panggeldlanggu",
+    "alias": "Panggeldlanggu"
+  },
+  {
+    "code": "33.06.100.037",
+    "villageCode": "037",
+    "districtCode": "33.06.100",
+    "name": "Dlangu",
+    "alias": "Dlangu"
+  },
+  {
+    "code": "33.06.100.038",
+    "villageCode": "038",
+    "districtCode": "33.06.100",
+    "name": "Lugu",
+    "alias": "Lugu"
+  },
+  {
+    "code": "33.06.100.039",
+    "villageCode": "039",
+    "districtCode": "33.06.100",
+    "name": "Andong",
+    "alias": "Andong"
+  },
+  {
+    "code": "33.06.100.040",
+    "villageCode": "040",
+    "districtCode": "33.06.100",
+    "name": "Kaliwatukranggan",
+    "alias": "Kaliwatukranggan"
+  },
+  {
+    "code": "33.06.100.041",
+    "villageCode": "041",
+    "districtCode": "33.06.100",
+    "name": "Kaliwatubumi",
+    "alias": "Kaliwatubumi"
+  }
+]

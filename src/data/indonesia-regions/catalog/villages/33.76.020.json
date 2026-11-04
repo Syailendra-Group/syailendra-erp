@@ -1,0 +1,37 @@
+[
+  {
+    "code": "33.76.020.001",
+    "villageCode": "001",
+    "districtCode": "33.76.020",
+    "name": "Kejambon",
+    "alias": "Kejambon"
+  },
+  {
+    "code": "33.76.020.002",
+    "villageCode": "002",
+    "districtCode": "33.76.020",
+    "name": "Slerok",
+    "alias": "Slerok"
+  },
+  {
+    "code": "33.76.020.003",
+    "villageCode": "003",
+    "districtCode": "33.76.020",
+    "name": "Panggung",
+    "alias": "Panggung"
+  },
+  {
+    "code": "33.76.020.004",
+    "villageCode": "004",
+    "districtCode": "33.76.020",
+    "name": "Mangkukusuman",
+    "alias": "Mangkukusuman"
+  },
+  {
+    "code": "33.76.020.005",
+    "villageCode": "005",
+    "districtCode": "33.76.020",
+    "name": "Mintaragen",
+    "alias": "Mintaragen"
+  }
+]

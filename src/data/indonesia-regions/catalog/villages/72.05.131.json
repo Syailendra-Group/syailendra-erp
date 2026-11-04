@@ -1,0 +1,58 @@
+[
+  {
+    "code": "72.05.131.001",
+    "villageCode": "001",
+    "districtCode": "72.05.131",
+    "name": "Walandano",
+    "alias": "Walandano"
+  },
+  {
+    "code": "72.05.131.002",
+    "villageCode": "002",
+    "districtCode": "72.05.131",
+    "name": "Malei",
+    "alias": "Malei"
+  },
+  {
+    "code": "72.05.131.003",
+    "villageCode": "003",
+    "districtCode": "72.05.131",
+    "name": "Kamonji",
+    "alias": "Kamonji"
+  },
+  {
+    "code": "72.05.131.004",
+    "villageCode": "004",
+    "districtCode": "72.05.131",
+    "name": "Ketong",
+    "alias": "Ketong"
+  },
+  {
+    "code": "72.05.131.005",
+    "villageCode": "005",
+    "districtCode": "72.05.131",
+    "name": "Manimbaya",
+    "alias": "Manimbaya"
+  },
+  {
+    "code": "72.05.131.006",
+    "villageCode": "006",
+    "districtCode": "72.05.131",
+    "name": "Rano B",
+    "alias": "Rano B"
+  },
+  {
+    "code": "72.05.131.007",
+    "villageCode": "007",
+    "districtCode": "72.05.131",
+    "name": "Pomolulu",
+    "alias": "Pomolulu"
+  },
+  {
+    "code": "72.05.131.008",
+    "villageCode": "008",
+    "districtCode": "72.05.131",
+    "name": "Palau",
+    "alias": "Palau"
+  }
+]

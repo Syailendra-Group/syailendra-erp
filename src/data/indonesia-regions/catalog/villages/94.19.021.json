@@ -1,0 +1,65 @@
+[
+  {
+    "code": "94.19.021.004",
+    "villageCode": "004",
+    "districtCode": "94.19.021",
+    "name": "Dabe",
+    "alias": "Dabe"
+  },
+  {
+    "code": "94.19.021.005",
+    "villageCode": "005",
+    "districtCode": "94.19.021",
+    "name": "Nengke",
+    "alias": "Nengke"
+  },
+  {
+    "code": "94.19.021.006",
+    "villageCode": "006",
+    "districtCode": "94.19.021",
+    "name": "Takar I / Vinyabor",
+    "alias": "Takar I / Vinyabor"
+  },
+  {
+    "code": "94.19.021.007",
+    "villageCode": "007",
+    "districtCode": "94.19.021",
+    "name": "Dabe Ii",
+    "alias": "Dabe Ii"
+  },
+  {
+    "code": "94.19.021.008",
+    "villageCode": "008",
+    "districtCode": "94.19.021",
+    "name": "Takar Ii / Fito",
+    "alias": "Takar Ii / Fito"
+  },
+  {
+    "code": "94.19.021.009",
+    "villageCode": "009",
+    "districtCode": "94.19.021",
+    "name": "Nengke Ii / Nengke Baru",
+    "alias": "Nengke Ii / Nengke Baru"
+  },
+  {
+    "code": "94.19.021.014",
+    "villageCode": "014",
+    "districtCode": "94.19.021",
+    "name": "Artibe",
+    "alias": "Artibe"
+  },
+  {
+    "code": "94.19.021.017",
+    "villageCode": "017",
+    "districtCode": "94.19.021",
+    "name": "Burtin / Assyaf",
+    "alias": "Burtin / Assyaf"
+  },
+  {
+    "code": "94.19.021.018",
+    "villageCode": "018",
+    "districtCode": "94.19.021",
+    "name": "Takar Iii / Kwentor",
+    "alias": "Takar Iii / Kwentor"
+  }
+]

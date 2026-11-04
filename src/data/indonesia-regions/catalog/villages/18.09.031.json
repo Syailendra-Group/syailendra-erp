@@ -1,0 +1,72 @@
+[
+  {
+    "code": "18.09.031.001",
+    "villageCode": "001",
+    "districtCode": "18.09.031",
+    "name": "Bayas Jaya",
+    "alias": "Bayas Jaya"
+  },
+  {
+    "code": "18.09.031.002",
+    "villageCode": "002",
+    "districtCode": "18.09.031",
+    "name": "Padang Cermin",
+    "alias": "Padang Cermin"
+  },
+  {
+    "code": "18.09.031.003",
+    "villageCode": "003",
+    "districtCode": "18.09.031",
+    "name": "Sukajaya",
+    "alias": "Sukajaya"
+  },
+  {
+    "code": "18.09.031.004",
+    "villageCode": "004",
+    "districtCode": "18.09.031",
+    "name": "Penengahan",
+    "alias": "Penengahan"
+  },
+  {
+    "code": "18.09.031.005",
+    "villageCode": "005",
+    "districtCode": "18.09.031",
+    "name": "Tanjung Kerta",
+    "alias": "Tanjung Kerta"
+  },
+  {
+    "code": "18.09.031.006",
+    "villageCode": "006",
+    "districtCode": "18.09.031",
+    "name": "Kotajawa",
+    "alias": "Kotajawa"
+  },
+  {
+    "code": "18.09.031.007",
+    "villageCode": "007",
+    "districtCode": "18.09.031",
+    "name": "Mada Jaya",
+    "alias": "Mada Jaya"
+  },
+  {
+    "code": "18.09.031.008",
+    "villageCode": "008",
+    "districtCode": "18.09.031",
+    "name": "Gunungsari",
+    "alias": "Gunungsari"
+  },
+  {
+    "code": "18.09.031.009",
+    "villageCode": "009",
+    "districtCode": "18.09.031",
+    "name": "Kubu Batu",
+    "alias": "Kubu Batu"
+  },
+  {
+    "code": "18.09.031.010",
+    "villageCode": "010",
+    "districtCode": "18.09.031",
+    "name": "Tanjung Rejo",
+    "alias": "Tanjung Rejo"
+  }
+]

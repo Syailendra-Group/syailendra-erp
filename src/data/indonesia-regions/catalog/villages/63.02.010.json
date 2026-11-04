@@ -1,0 +1,37 @@
+[
+  {
+    "code": "63.02.010.001",
+    "villageCode": "001",
+    "districtCode": "63.02.010",
+    "name": "Labuan Barat",
+    "alias": "Labuan Barat"
+  },
+  {
+    "code": "63.02.010.002",
+    "villageCode": "002",
+    "districtCode": "63.02.010",
+    "name": "Teluk Sungai",
+    "alias": "Teluk Sungai"
+  },
+  {
+    "code": "63.02.010.003",
+    "villageCode": "003",
+    "districtCode": "63.02.010",
+    "name": "Maradapan",
+    "alias": "Maradapan"
+  },
+  {
+    "code": "63.02.010.004",
+    "villageCode": "004",
+    "districtCode": "63.02.010",
+    "name": "Tengah",
+    "alias": "Tengah"
+  },
+  {
+    "code": "63.02.010.005",
+    "villageCode": "005",
+    "districtCode": "63.02.010",
+    "name": "Tanjung Nyiur",
+    "alias": "Tanjung Nyiur"
+  }
+]

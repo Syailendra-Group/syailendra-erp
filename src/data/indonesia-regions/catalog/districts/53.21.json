@@ -1,0 +1,98 @@
+[
+  {
+    "code": "53.21.010",
+    "districtCode": "010",
+    "regencyCode": "53.21",
+    "provinceCode": "53",
+    "name": "Kecamatan Wewiku",
+    "alias": "Wewiku"
+  },
+  {
+    "code": "53.21.020",
+    "districtCode": "020",
+    "regencyCode": "53.21",
+    "provinceCode": "53",
+    "name": "Kecamatan Malaka Barat",
+    "alias": "Malaka Barat"
+  },
+  {
+    "code": "53.21.030",
+    "districtCode": "030",
+    "regencyCode": "53.21",
+    "provinceCode": "53",
+    "name": "Kecamatan Weliman",
+    "alias": "Weliman"
+  },
+  {
+    "code": "53.21.040",
+    "districtCode": "040",
+    "regencyCode": "53.21",
+    "provinceCode": "53",
+    "name": "Kecamatan Rinhat",
+    "alias": "Rinhat"
+  },
+  {
+    "code": "53.21.050",
+    "districtCode": "050",
+    "regencyCode": "53.21",
+    "provinceCode": "53",
+    "name": "Kecamatan Io Kufeu",
+    "alias": "Io Kufeu"
+  },
+  {
+    "code": "53.21.060",
+    "districtCode": "060",
+    "regencyCode": "53.21",
+    "provinceCode": "53",
+    "name": "Kecamatan Sasita Mean",
+    "alias": "Sasita Mean"
+  },
+  {
+    "code": "53.21.070",
+    "districtCode": "070",
+    "regencyCode": "53.21",
+    "provinceCode": "53",
+    "name": "Kecamatan Malaka Tengah",
+    "alias": "Malaka Tengah"
+  },
+  {
+    "code": "53.21.080",
+    "districtCode": "080",
+    "regencyCode": "53.21",
+    "provinceCode": "53",
+    "name": "Kecamatan Botin Leobele",
+    "alias": "Botin Leobele"
+  },
+  {
+    "code": "53.21.090",
+    "districtCode": "090",
+    "regencyCode": "53.21",
+    "provinceCode": "53",
+    "name": "Kecamatan Laen Manen",
+    "alias": "Laen Manen"
+  },
+  {
+    "code": "53.21.100",
+    "districtCode": "100",
+    "regencyCode": "53.21",
+    "provinceCode": "53",
+    "name": "Kecamatan Malaka Timur",
+    "alias": "Malaka Timur"
+  },
+  {
+    "code": "53.21.110",
+    "districtCode": "110",
+    "regencyCode": "53.21",
+    "provinceCode": "53",
+    "name": "Kecamatan Kobalima",
+    "alias": "Kobalima"
+  },
+  {
+    "code": "53.21.120",
+    "districtCode": "120",
+    "regencyCode": "53.21",
+    "provinceCode": "53",
+    "name": "Kecamatan Kobalima Timur",
+    "alias": "Kobalima Timur"
+  }
+]

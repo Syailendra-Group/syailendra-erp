@@ -1,0 +1,42 @@
+[
+  {
+    "code": "51.01.010",
+    "districtCode": "010",
+    "regencyCode": "51.01",
+    "provinceCode": "51",
+    "name": "Kecamatan Melaya",
+    "alias": "Melaya"
+  },
+  {
+    "code": "51.01.020",
+    "districtCode": "020",
+    "regencyCode": "51.01",
+    "provinceCode": "51",
+    "name": "Kecamatan Negara",
+    "alias": "Negara"
+  },
+  {
+    "code": "51.01.021",
+    "districtCode": "021",
+    "regencyCode": "51.01",
+    "provinceCode": "51",
+    "name": "Kecamatan Jembrana",
+    "alias": "Jembrana"
+  },
+  {
+    "code": "51.01.030",
+    "districtCode": "030",
+    "regencyCode": "51.01",
+    "provinceCode": "51",
+    "name": "Kecamatan Mendoyo",
+    "alias": "Mendoyo"
+  },
+  {
+    "code": "51.01.040",
+    "districtCode": "040",
+    "regencyCode": "51.01",
+    "provinceCode": "51",
+    "name": "Kecamatan Pekutatan",
+    "alias": "Pekutatan"
+  }
+]

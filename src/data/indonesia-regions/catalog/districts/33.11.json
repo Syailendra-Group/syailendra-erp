@@ -1,0 +1,98 @@
+[
+  {
+    "code": "33.11.010",
+    "districtCode": "010",
+    "regencyCode": "33.11",
+    "provinceCode": "33",
+    "name": "Kecamatan Weru",
+    "alias": "Weru"
+  },
+  {
+    "code": "33.11.020",
+    "districtCode": "020",
+    "regencyCode": "33.11",
+    "provinceCode": "33",
+    "name": "Kecamatan Bulu",
+    "alias": "Bulu"
+  },
+  {
+    "code": "33.11.030",
+    "districtCode": "030",
+    "regencyCode": "33.11",
+    "provinceCode": "33",
+    "name": "Kecamatan Tawangsari",
+    "alias": "Tawangsari"
+  },
+  {
+    "code": "33.11.040",
+    "districtCode": "040",
+    "regencyCode": "33.11",
+    "provinceCode": "33",
+    "name": "Kecamatan Sukoharjo",
+    "alias": "Sukoharjo"
+  },
+  {
+    "code": "33.11.050",
+    "districtCode": "050",
+    "regencyCode": "33.11",
+    "provinceCode": "33",
+    "name": "Kecamatan Nguter",
+    "alias": "Nguter"
+  },
+  {
+    "code": "33.11.060",
+    "districtCode": "060",
+    "regencyCode": "33.11",
+    "provinceCode": "33",
+    "name": "Kecamatan Bendosari",
+    "alias": "Bendosari"
+  },
+  {
+    "code": "33.11.070",
+    "districtCode": "070",
+    "regencyCode": "33.11",
+    "provinceCode": "33",
+    "name": "Kecamatan Polokarto",
+    "alias": "Polokarto"
+  },
+  {
+    "code": "33.11.080",
+    "districtCode": "080",
+    "regencyCode": "33.11",
+    "provinceCode": "33",
+    "name": "Kecamatan Mojolaban",
+    "alias": "Mojolaban"
+  },
+  {
+    "code": "33.11.090",
+    "districtCode": "090",
+    "regencyCode": "33.11",
+    "provinceCode": "33",
+    "name": "Kecamatan Grogol",
+    "alias": "Grogol"
+  },
+  {
+    "code": "33.11.100",
+    "districtCode": "100",
+    "regencyCode": "33.11",
+    "provinceCode": "33",
+    "name": "Kecamatan Baki",
+    "alias": "Baki"
+  },
+  {
+    "code": "33.11.110",
+    "districtCode": "110",
+    "regencyCode": "33.11",
+    "provinceCode": "33",
+    "name": "Kecamatan Gatak",
+    "alias": "Gatak"
+  },
+  {
+    "code": "33.11.120",
+    "districtCode": "120",
+    "regencyCode": "33.11",
+    "provinceCode": "33",
+    "name": "Kecamatan Kartasura",
+    "alias": "Kartasura"
+  }
+]

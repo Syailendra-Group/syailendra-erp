@@ -1,0 +1,51 @@
+[
+  {
+    "code": "92.04.130.001",
+    "villageCode": "001",
+    "districtCode": "92.04.130",
+    "name": "Isnum",
+    "alias": "Isnum"
+  },
+  {
+    "code": "92.04.130.002",
+    "villageCode": "002",
+    "districtCode": "92.04.130",
+    "name": "Arus",
+    "alias": "Arus"
+  },
+  {
+    "code": "92.04.130.003",
+    "villageCode": "003",
+    "districtCode": "92.04.130",
+    "name": "Kofait",
+    "alias": "Kofait"
+  },
+  {
+    "code": "92.04.130.004",
+    "villageCode": "004",
+    "districtCode": "92.04.130",
+    "name": "Fait Nggre",
+    "alias": "Fait Nggre"
+  },
+  {
+    "code": "92.04.130.005",
+    "villageCode": "005",
+    "districtCode": "92.04.130",
+    "name": "Faitsimar",
+    "alias": "Faitsimar"
+  },
+  {
+    "code": "92.04.130.006",
+    "villageCode": "006",
+    "districtCode": "92.04.130",
+    "name": "Sufu",
+    "alias": "Sufu"
+  },
+  {
+    "code": "92.04.130.007",
+    "villageCode": "007",
+    "districtCode": "92.04.130",
+    "name": "Asses",
+    "alias": "Asses"
+  }
+]

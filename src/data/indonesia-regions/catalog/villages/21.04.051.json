@@ -1,0 +1,58 @@
+[
+  {
+    "code": "21.04.051.001",
+    "villageCode": "001",
+    "districtCode": "21.04.051",
+    "name": "Batu Belubang",
+    "alias": "Batu Belubang"
+  },
+  {
+    "code": "21.04.051.002",
+    "villageCode": "002",
+    "districtCode": "21.04.051",
+    "name": "Cempa",
+    "alias": "Cempa"
+  },
+  {
+    "code": "21.04.051.003",
+    "villageCode": "003",
+    "districtCode": "21.04.051",
+    "name": "Tanjung Kelit",
+    "alias": "Tanjung Kelit"
+  },
+  {
+    "code": "21.04.051.004",
+    "villageCode": "004",
+    "districtCode": "21.04.051",
+    "name": "Pasir Panjang",
+    "alias": "Pasir Panjang"
+  },
+  {
+    "code": "21.04.051.005",
+    "villageCode": "005",
+    "districtCode": "21.04.051",
+    "name": "Tanjung Lipat",
+    "alias": "Tanjung Lipat"
+  },
+  {
+    "code": "21.04.051.006",
+    "villageCode": "006",
+    "districtCode": "21.04.051",
+    "name": "Rejai",
+    "alias": "Rejai"
+  },
+  {
+    "code": "21.04.051.007",
+    "villageCode": "007",
+    "districtCode": "21.04.051",
+    "name": "Desa Persiapan Berjung",
+    "alias": "Desa Persiapan Berjung"
+  },
+  {
+    "code": "21.04.051.008",
+    "villageCode": "008",
+    "districtCode": "21.04.051",
+    "name": "Desa Persiapan Buyu",
+    "alias": "Desa Persiapan Buyu"
+  }
+]

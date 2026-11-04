@@ -1,0 +1,30 @@
+[
+  {
+    "code": "92.71.020.001",
+    "villageCode": "001",
+    "districtCode": "92.71.020",
+    "name": "Sawagumu",
+    "alias": "Sawagumu"
+  },
+  {
+    "code": "92.71.020.002",
+    "villageCode": "002",
+    "districtCode": "92.71.020",
+    "name": "Matalamagi",
+    "alias": "Matalamagi"
+  },
+  {
+    "code": "92.71.020.003",
+    "villageCode": "003",
+    "districtCode": "92.71.020",
+    "name": "Malasilen",
+    "alias": "Malasilen"
+  },
+  {
+    "code": "92.71.020.004",
+    "villageCode": "004",
+    "districtCode": "92.71.020",
+    "name": "Malanu",
+    "alias": "Malanu"
+  }
+]

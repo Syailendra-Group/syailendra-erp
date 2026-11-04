@@ -1,0 +1,93 @@
+[
+  {
+    "code": "18.04.092.001",
+    "villageCode": "001",
+    "districtCode": "18.04.092",
+    "name": "Gunung Tiga",
+    "alias": "Gunung Tiga"
+  },
+  {
+    "code": "18.04.092.002",
+    "villageCode": "002",
+    "districtCode": "18.04.092",
+    "name": "Sukacari",
+    "alias": "Sukacari"
+  },
+  {
+    "code": "18.04.092.003",
+    "villageCode": "003",
+    "districtCode": "18.04.092",
+    "name": "Negara Ratu",
+    "alias": "Negara Ratu"
+  },
+  {
+    "code": "18.04.092.004",
+    "villageCode": "004",
+    "districtCode": "18.04.092",
+    "name": "Bumi Jawa",
+    "alias": "Bumi Jawa"
+  },
+  {
+    "code": "18.04.092.005",
+    "villageCode": "005",
+    "districtCode": "18.04.092",
+    "name": "Gedung Dalem",
+    "alias": "Gedung Dalem"
+  },
+  {
+    "code": "18.04.092.006",
+    "villageCode": "006",
+    "districtCode": "18.04.092",
+    "name": "Sukaraja Nuban",
+    "alias": "Sukaraja Nuban"
+  },
+  {
+    "code": "18.04.092.007",
+    "villageCode": "007",
+    "districtCode": "18.04.092",
+    "name": "Trisno Mulyo",
+    "alias": "Trisno Mulyo"
+  },
+  {
+    "code": "18.04.092.008",
+    "villageCode": "008",
+    "districtCode": "18.04.092",
+    "name": "Cempaka Nuban",
+    "alias": "Cempaka Nuban"
+  },
+  {
+    "code": "18.04.092.009",
+    "villageCode": "009",
+    "districtCode": "18.04.092",
+    "name": "Kedaton Ii (Dua)",
+    "alias": "Kedaton Ii (Dua)"
+  },
+  {
+    "code": "18.04.092.010",
+    "villageCode": "010",
+    "districtCode": "18.04.092",
+    "name": "Kedaton Induk",
+    "alias": "Kedaton Induk"
+  },
+  {
+    "code": "18.04.092.011",
+    "villageCode": "011",
+    "districtCode": "18.04.092",
+    "name": "Kedaton I (Satu)",
+    "alias": "Kedaton I (Satu)"
+  },
+  {
+    "code": "18.04.092.012",
+    "villageCode": "012",
+    "districtCode": "18.04.092",
+    "name": "Tulung Balak",
+    "alias": "Tulung Balak"
+  },
+  {
+    "code": "18.04.092.013",
+    "villageCode": "013",
+    "districtCode": "18.04.092",
+    "name": "Purwosari",
+    "alias": "Purwosari"
+  }
+]

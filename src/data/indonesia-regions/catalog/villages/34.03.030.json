@@ -1,0 +1,51 @@
+[
+  {
+    "code": "34.03.030.001",
+    "villageCode": "001",
+    "districtCode": "34.03.030",
+    "name": "Krambilsawit",
+    "alias": "Krambilsawit"
+  },
+  {
+    "code": "34.03.030.002",
+    "villageCode": "002",
+    "districtCode": "34.03.030",
+    "name": "Kanigoro",
+    "alias": "Kanigoro"
+  },
+  {
+    "code": "34.03.030.003",
+    "villageCode": "003",
+    "districtCode": "34.03.030",
+    "name": "Planjan",
+    "alias": "Planjan"
+  },
+  {
+    "code": "34.03.030.004",
+    "villageCode": "004",
+    "districtCode": "34.03.030",
+    "name": "Monggol",
+    "alias": "Monggol"
+  },
+  {
+    "code": "34.03.030.005",
+    "villageCode": "005",
+    "districtCode": "34.03.030",
+    "name": "Kepek",
+    "alias": "Kepek"
+  },
+  {
+    "code": "34.03.030.006",
+    "villageCode": "006",
+    "districtCode": "34.03.030",
+    "name": "Nglora",
+    "alias": "Nglora"
+  },
+  {
+    "code": "34.03.030.007",
+    "villageCode": "007",
+    "districtCode": "34.03.030",
+    "name": "Jetis",
+    "alias": "Jetis"
+  }
+]

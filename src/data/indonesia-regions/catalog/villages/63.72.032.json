@@ -1,0 +1,30 @@
+[
+  {
+    "code": "63.72.032.001",
+    "villageCode": "001",
+    "districtCode": "63.72.032",
+    "name": "Loktabat Selatan",
+    "alias": "Loktabat Selatan"
+  },
+  {
+    "code": "63.72.032.002",
+    "villageCode": "002",
+    "districtCode": "63.72.032",
+    "name": "Kemuning",
+    "alias": "Kemuning"
+  },
+  {
+    "code": "63.72.032.003",
+    "villageCode": "003",
+    "districtCode": "63.72.032",
+    "name": "Guntung Paikat",
+    "alias": "Guntung Paikat"
+  },
+  {
+    "code": "63.72.032.004",
+    "villageCode": "004",
+    "districtCode": "63.72.032",
+    "name": "Sungai Besar",
+    "alias": "Sungai Besar"
+  }
+]

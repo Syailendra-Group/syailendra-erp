@@ -1,0 +1,366 @@
+[
+  {
+    "code": "11.09.190.001",
+    "villageCode": "001",
+    "districtCode": "11.09.190",
+    "name": "Raya Paya",
+    "alias": "Raya Paya"
+  },
+  {
+    "code": "11.09.190.002",
+    "villageCode": "002",
+    "districtCode": "11.09.190",
+    "name": "Mesjid Bungie",
+    "alias": "Mesjid Bungie"
+  },
+  {
+    "code": "11.09.190.003",
+    "villageCode": "003",
+    "districtCode": "11.09.190",
+    "name": "Liliep",
+    "alias": "Liliep"
+  },
+  {
+    "code": "11.09.190.004",
+    "villageCode": "004",
+    "districtCode": "11.09.190",
+    "name": "Ujong Baroh",
+    "alias": "Ujong Baroh"
+  },
+  {
+    "code": "11.09.190.005",
+    "villageCode": "005",
+    "districtCode": "11.09.190",
+    "name": "Seuk Cukok",
+    "alias": "Seuk Cukok"
+  },
+  {
+    "code": "11.09.190.006",
+    "villageCode": "006",
+    "districtCode": "11.09.190",
+    "name": "Pulo Tu",
+    "alias": "Pulo Tu"
+  },
+  {
+    "code": "11.09.190.007",
+    "villageCode": "007",
+    "districtCode": "11.09.190",
+    "name": "Paloh Tok Due",
+    "alias": "Paloh Tok Due"
+  },
+  {
+    "code": "11.09.190.008",
+    "villageCode": "008",
+    "districtCode": "11.09.190",
+    "name": "Meunasah Juerong",
+    "alias": "Meunasah Juerong"
+  },
+  {
+    "code": "11.09.190.009",
+    "villageCode": "009",
+    "districtCode": "11.09.190",
+    "name": "Kampung Blang",
+    "alias": "Kampung Blang"
+  },
+  {
+    "code": "11.09.190.010",
+    "villageCode": "010",
+    "districtCode": "11.09.190",
+    "name": "Kulam Baro",
+    "alias": "Kulam Baro"
+  },
+  {
+    "code": "11.09.190.011",
+    "villageCode": "011",
+    "districtCode": "11.09.190",
+    "name": "Linggong Sagoe",
+    "alias": "Linggong Sagoe"
+  },
+  {
+    "code": "11.09.190.012",
+    "villageCode": "012",
+    "districtCode": "11.09.190",
+    "name": "Blang Leuen",
+    "alias": "Blang Leuen"
+  },
+  {
+    "code": "11.09.190.013",
+    "villageCode": "013",
+    "districtCode": "11.09.190",
+    "name": "Mesjid Tungue",
+    "alias": "Mesjid Tungue"
+  },
+  {
+    "code": "11.09.190.014",
+    "villageCode": "014",
+    "districtCode": "11.09.190",
+    "name": "Ulee Barat",
+    "alias": "Ulee Barat"
+  },
+  {
+    "code": "11.09.190.015",
+    "villageCode": "015",
+    "districtCode": "11.09.190",
+    "name": "Empeh",
+    "alias": "Empeh"
+  },
+  {
+    "code": "11.09.190.016",
+    "villageCode": "016",
+    "districtCode": "11.09.190",
+    "name": "Padang",
+    "alias": "Padang"
+  },
+  {
+    "code": "11.09.190.017",
+    "villageCode": "017",
+    "districtCode": "11.09.190",
+    "name": "Dayah Blang",
+    "alias": "Dayah Blang"
+  },
+  {
+    "code": "11.09.190.018",
+    "villageCode": "018",
+    "districtCode": "11.09.190",
+    "name": "Teungoh Mangki",
+    "alias": "Teungoh Mangki"
+  },
+  {
+    "code": "11.09.190.019",
+    "villageCode": "019",
+    "districtCode": "11.09.190",
+    "name": "Dayah Blang Cut",
+    "alias": "Dayah Blang Cut"
+  },
+  {
+    "code": "11.09.190.020",
+    "villageCode": "020",
+    "districtCode": "11.09.190",
+    "name": "Nien",
+    "alias": "Nien"
+  },
+  {
+    "code": "11.09.190.021",
+    "villageCode": "021",
+    "districtCode": "11.09.190",
+    "name": "Curucok Timur",
+    "alias": "Curucok Timur"
+  },
+  {
+    "code": "11.09.190.022",
+    "villageCode": "022",
+    "districtCode": "11.09.190",
+    "name": "Jaja Tunong",
+    "alias": "Jaja Tunong"
+  },
+  {
+    "code": "11.09.190.023",
+    "villageCode": "023",
+    "districtCode": "11.09.190",
+    "name": "Ujong Gampong",
+    "alias": "Ujong Gampong"
+  },
+  {
+    "code": "11.09.190.024",
+    "villageCode": "024",
+    "districtCode": "11.09.190",
+    "name": "Lheue",
+    "alias": "Lheue"
+  },
+  {
+    "code": "11.09.190.025",
+    "villageCode": "025",
+    "districtCode": "11.09.190",
+    "name": "Jaja Baroh",
+    "alias": "Jaja Baroh"
+  },
+  {
+    "code": "11.09.190.026",
+    "villageCode": "026",
+    "districtCode": "11.09.190",
+    "name": "Pulo Raya",
+    "alias": "Pulo Raya"
+  },
+  {
+    "code": "11.09.190.027",
+    "villageCode": "027",
+    "districtCode": "11.09.190",
+    "name": "Curucok Barat",
+    "alias": "Curucok Barat"
+  },
+  {
+    "code": "11.09.190.028",
+    "villageCode": "028",
+    "districtCode": "11.09.190",
+    "name": "Curucok Sagoe",
+    "alias": "Curucok Sagoe"
+  },
+  {
+    "code": "11.09.190.029",
+    "villageCode": "029",
+    "districtCode": "11.09.190",
+    "name": "Cot Ara",
+    "alias": "Cot Ara"
+  },
+  {
+    "code": "11.09.190.030",
+    "villageCode": "030",
+    "districtCode": "11.09.190",
+    "name": "Madika",
+    "alias": "Madika"
+  },
+  {
+    "code": "11.09.190.031",
+    "villageCode": "031",
+    "districtCode": "11.09.190",
+    "name": "Sagoe",
+    "alias": "Sagoe"
+  },
+  {
+    "code": "11.09.190.032",
+    "villageCode": "032",
+    "districtCode": "11.09.190",
+    "name": "Bunien",
+    "alias": "Bunien"
+  },
+  {
+    "code": "11.09.190.033",
+    "villageCode": "033",
+    "districtCode": "11.09.190",
+    "name": "Cot Paleue",
+    "alias": "Cot Paleue"
+  },
+  {
+    "code": "11.09.190.034",
+    "villageCode": "034",
+    "districtCode": "11.09.190",
+    "name": "Raya Paleue",
+    "alias": "Raya Paleue"
+  },
+  {
+    "code": "11.09.190.035",
+    "villageCode": "035",
+    "districtCode": "11.09.190",
+    "name": "Pante",
+    "alias": "Pante"
+  },
+  {
+    "code": "11.09.190.036",
+    "villageCode": "036",
+    "districtCode": "11.09.190",
+    "name": "Pulo Blang",
+    "alias": "Pulo Blang"
+  },
+  {
+    "code": "11.09.190.037",
+    "villageCode": "037",
+    "districtCode": "11.09.190",
+    "name": "Gong",
+    "alias": "Gong"
+  },
+  {
+    "code": "11.09.190.038",
+    "villageCode": "038",
+    "districtCode": "11.09.190",
+    "name": "Mesjid Gigieng",
+    "alias": "Mesjid Gigieng"
+  },
+  {
+    "code": "11.09.190.039",
+    "villageCode": "039",
+    "districtCode": "11.09.190",
+    "name": "Cot Jaja",
+    "alias": "Cot Jaja"
+  },
+  {
+    "code": "11.09.190.040",
+    "villageCode": "040",
+    "districtCode": "11.09.190",
+    "name": "Peukan Tuha",
+    "alias": "Peukan Tuha"
+  },
+  {
+    "code": "11.09.190.041",
+    "villageCode": "041",
+    "districtCode": "11.09.190",
+    "name": "Pulo Gajah Mate",
+    "alias": "Pulo Gajah Mate"
+  },
+  {
+    "code": "11.09.190.042",
+    "villageCode": "042",
+    "districtCode": "11.09.190",
+    "name": "Meunasah Blang",
+    "alias": "Meunasah Blang"
+  },
+  {
+    "code": "11.09.190.043",
+    "villageCode": "043",
+    "districtCode": "11.09.190",
+    "name": "Mamplam",
+    "alias": "Mamplam"
+  },
+  {
+    "code": "11.09.190.044",
+    "villageCode": "044",
+    "districtCode": "11.09.190",
+    "name": "Lambideng",
+    "alias": "Lambideng"
+  },
+  {
+    "code": "11.09.190.045",
+    "villageCode": "045",
+    "districtCode": "11.09.190",
+    "name": "Seukee",
+    "alias": "Seukee"
+  },
+  {
+    "code": "11.09.190.046",
+    "villageCode": "046",
+    "districtCode": "11.09.190",
+    "name": "Meunasah Lhee",
+    "alias": "Meunasah Lhee"
+  },
+  {
+    "code": "11.09.190.047",
+    "villageCode": "047",
+    "districtCode": "11.09.190",
+    "name": "Mantak Raya",
+    "alias": "Mantak Raya"
+  },
+  {
+    "code": "11.09.190.048",
+    "villageCode": "048",
+    "districtCode": "11.09.190",
+    "name": "Dayah Lampoh Awe",
+    "alias": "Dayah Lampoh Awe"
+  },
+  {
+    "code": "11.09.190.049",
+    "villageCode": "049",
+    "districtCode": "11.09.190",
+    "name": "Kupula",
+    "alias": "Kupula"
+  },
+  {
+    "code": "11.09.190.050",
+    "villageCode": "050",
+    "districtCode": "11.09.190",
+    "name": "Sukon",
+    "alias": "Sukon"
+  },
+  {
+    "code": "11.09.190.051",
+    "villageCode": "051",
+    "districtCode": "11.09.190",
+    "name": "Cebrek",
+    "alias": "Cebrek"
+  },
+  {
+    "code": "11.09.190.052",
+    "villageCode": "052",
+    "districtCode": "11.09.190",
+    "name": "Peukan Soet",
+    "alias": "Peukan Soet"
+  }
+]

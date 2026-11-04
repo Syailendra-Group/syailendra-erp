@@ -1,0 +1,86 @@
+[
+  {
+    "code": "71.05.070.002",
+    "villageCode": "002",
+    "districtCode": "71.05.070",
+    "name": "Poopo",
+    "alias": "Poopo"
+  },
+  {
+    "code": "71.05.070.003",
+    "villageCode": "003",
+    "districtCode": "71.05.070",
+    "name": "Ranoiapo",
+    "alias": "Ranoiapo"
+  },
+  {
+    "code": "71.05.070.004",
+    "villageCode": "004",
+    "districtCode": "71.05.070",
+    "name": "Pontak",
+    "alias": "Pontak"
+  },
+  {
+    "code": "71.05.070.005",
+    "villageCode": "005",
+    "districtCode": "71.05.070",
+    "name": "Mopolo",
+    "alias": "Mopolo"
+  },
+  {
+    "code": "71.05.070.006",
+    "villageCode": "006",
+    "districtCode": "71.05.070",
+    "name": "Powalutan",
+    "alias": "Powalutan"
+  },
+  {
+    "code": "71.05.070.007",
+    "villageCode": "007",
+    "districtCode": "71.05.070",
+    "name": "Beringin",
+    "alias": "Beringin"
+  },
+  {
+    "code": "71.05.070.009",
+    "villageCode": "009",
+    "districtCode": "71.05.070",
+    "name": "Lompad",
+    "alias": "Lompad"
+  },
+  {
+    "code": "71.05.070.010",
+    "villageCode": "010",
+    "districtCode": "71.05.070",
+    "name": "Lompad Baru",
+    "alias": "Lompad Baru"
+  },
+  {
+    "code": "71.05.070.011",
+    "villageCode": "011",
+    "districtCode": "71.05.070",
+    "name": "Pontak Satu",
+    "alias": "Pontak Satu"
+  },
+  {
+    "code": "71.05.070.012",
+    "villageCode": "012",
+    "districtCode": "71.05.070",
+    "name": "Poopo Barat",
+    "alias": "Poopo Barat"
+  },
+  {
+    "code": "71.05.070.013",
+    "villageCode": "013",
+    "districtCode": "71.05.070",
+    "name": "Poopo Utara",
+    "alias": "Poopo Utara"
+  },
+  {
+    "code": "71.05.070.014",
+    "villageCode": "014",
+    "districtCode": "71.05.070",
+    "name": "Mopolo Esa",
+    "alias": "Mopolo Esa"
+  }
+]

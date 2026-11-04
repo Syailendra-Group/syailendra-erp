@@ -1,0 +1,37 @@
+[
+  {
+    "code": "21.02.052.001",
+    "villageCode": "001",
+    "districtCode": "21.02.052",
+    "name": "Kuala Sempang",
+    "alias": "Kuala Sempang"
+  },
+  {
+    "code": "21.02.052.002",
+    "villageCode": "002",
+    "districtCode": "21.02.052",
+    "name": "Busung",
+    "alias": "Busung"
+  },
+  {
+    "code": "21.02.052.003",
+    "villageCode": "003",
+    "districtCode": "21.02.052",
+    "name": "Teluk Sasah",
+    "alias": "Teluk Sasah"
+  },
+  {
+    "code": "21.02.052.004",
+    "villageCode": "004",
+    "districtCode": "21.02.052",
+    "name": "Teluk Lobam",
+    "alias": "Teluk Lobam"
+  },
+  {
+    "code": "21.02.052.005",
+    "villageCode": "005",
+    "districtCode": "21.02.052",
+    "name": "Tanjung Permai",
+    "alias": "Tanjung Permai"
+  }
+]

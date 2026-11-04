@@ -1,0 +1,194 @@
+[
+  {
+    "code": "35.13.010",
+    "districtCode": "010",
+    "regencyCode": "35.13",
+    "provinceCode": "35",
+    "name": "Kecamatan Sukapura",
+    "alias": "Sukapura"
+  },
+  {
+    "code": "35.13.020",
+    "districtCode": "020",
+    "regencyCode": "35.13",
+    "provinceCode": "35",
+    "name": "Kecamatan Sumber",
+    "alias": "Sumber"
+  },
+  {
+    "code": "35.13.030",
+    "districtCode": "030",
+    "regencyCode": "35.13",
+    "provinceCode": "35",
+    "name": "Kecamatan Kuripan",
+    "alias": "Kuripan"
+  },
+  {
+    "code": "35.13.040",
+    "districtCode": "040",
+    "regencyCode": "35.13",
+    "provinceCode": "35",
+    "name": "Kecamatan Bantaran",
+    "alias": "Bantaran"
+  },
+  {
+    "code": "35.13.050",
+    "districtCode": "050",
+    "regencyCode": "35.13",
+    "provinceCode": "35",
+    "name": "Kecamatan Leces",
+    "alias": "Leces"
+  },
+  {
+    "code": "35.13.060",
+    "districtCode": "060",
+    "regencyCode": "35.13",
+    "provinceCode": "35",
+    "name": "Kecamatan Tegalsiwalan",
+    "alias": "Tegalsiwalan"
+  },
+  {
+    "code": "35.13.070",
+    "districtCode": "070",
+    "regencyCode": "35.13",
+    "provinceCode": "35",
+    "name": "Kecamatan Banyuanyar",
+    "alias": "Banyuanyar"
+  },
+  {
+    "code": "35.13.080",
+    "districtCode": "080",
+    "regencyCode": "35.13",
+    "provinceCode": "35",
+    "name": "Kecamatan Tiris",
+    "alias": "Tiris"
+  },
+  {
+    "code": "35.13.090",
+    "districtCode": "090",
+    "regencyCode": "35.13",
+    "provinceCode": "35",
+    "name": "Kecamatan Krucil",
+    "alias": "Krucil"
+  },
+  {
+    "code": "35.13.100",
+    "districtCode": "100",
+    "regencyCode": "35.13",
+    "provinceCode": "35",
+    "name": "Kecamatan Gading",
+    "alias": "Gading"
+  },
+  {
+    "code": "35.13.110",
+    "districtCode": "110",
+    "regencyCode": "35.13",
+    "provinceCode": "35",
+    "name": "Kecamatan Pakuniran",
+    "alias": "Pakuniran"
+  },
+  {
+    "code": "35.13.120",
+    "districtCode": "120",
+    "regencyCode": "35.13",
+    "provinceCode": "35",
+    "name": "Kecamatan Kotaanyar",
+    "alias": "Kotaanyar"
+  },
+  {
+    "code": "35.13.130",
+    "districtCode": "130",
+    "regencyCode": "35.13",
+    "provinceCode": "35",
+    "name": "Kecamatan Paiton",
+    "alias": "Paiton"
+  },
+  {
+    "code": "35.13.140",
+    "districtCode": "140",
+    "regencyCode": "35.13",
+    "provinceCode": "35",
+    "name": "Kecamatan Besuk",
+    "alias": "Besuk"
+  },
+  {
+    "code": "35.13.150",
+    "districtCode": "150",
+    "regencyCode": "35.13",
+    "provinceCode": "35",
+    "name": "Kecamatan Kraksaan",
+    "alias": "Kraksaan"
+  },
+  {
+    "code": "35.13.160",
+    "districtCode": "160",
+    "regencyCode": "35.13",
+    "provinceCode": "35",
+    "name": "Kecamatan Krejengan",
+    "alias": "Krejengan"
+  },
+  {
+    "code": "35.13.170",
+    "districtCode": "170",
+    "regencyCode": "35.13",
+    "provinceCode": "35",
+    "name": "Kecamatan Pajarakan",
+    "alias": "Pajarakan"
+  },
+  {
+    "code": "35.13.180",
+    "districtCode": "180",
+    "regencyCode": "35.13",
+    "provinceCode": "35",
+    "name": "Kecamatan Maron",
+    "alias": "Maron"
+  },
+  {
+    "code": "35.13.190",
+    "districtCode": "190",
+    "regencyCode": "35.13",
+    "provinceCode": "35",
+    "name": "Kecamatan Gending",
+    "alias": "Gending"
+  },
+  {
+    "code": "35.13.200",
+    "districtCode": "200",
+    "regencyCode": "35.13",
+    "provinceCode": "35",
+    "name": "Kecamatan Dringu",
+    "alias": "Dringu"
+  },
+  {
+    "code": "35.13.210",
+    "districtCode": "210",
+    "regencyCode": "35.13",
+    "provinceCode": "35",
+    "name": "Kecamatan Wonomerto",
+    "alias": "Wonomerto"
+  },
+  {
+    "code": "35.13.220",
+    "districtCode": "220",
+    "regencyCode": "35.13",
+    "provinceCode": "35",
+    "name": "Kecamatan Lumbang",
+    "alias": "Lumbang"
+  },
+  {
+    "code": "35.13.230",
+    "districtCode": "230",
+    "regencyCode": "35.13",
+    "provinceCode": "35",
+    "name": "Kecamatan Tongas",
+    "alias": "Tongas"
+  },
+  {
+    "code": "35.13.240",
+    "districtCode": "240",
+    "regencyCode": "35.13",
+    "provinceCode": "35",
+    "name": "Kecamatan Sumberasih",
+    "alias": "Sumberasih"
+  }
+]

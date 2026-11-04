@@ -1,0 +1,86 @@
+[
+  {
+    "code": "12.12.010.001",
+    "villageCode": "001",
+    "districtCode": "12.12.010",
+    "name": "Kuta Bayu",
+    "alias": "Kuta Bayu"
+  },
+  {
+    "code": "12.12.010.002",
+    "villageCode": "002",
+    "districtCode": "12.12.010",
+    "name": "Gunung Sinembah",
+    "alias": "Gunung Sinembah"
+  },
+  {
+    "code": "12.12.010.003",
+    "villageCode": "003",
+    "districtCode": "12.12.010",
+    "name": "Gunung Paribuan",
+    "alias": "Gunung Paribuan"
+  },
+  {
+    "code": "12.12.010.004",
+    "villageCode": "004",
+    "districtCode": "12.12.010",
+    "name": "Simempar",
+    "alias": "Simempar"
+  },
+  {
+    "code": "12.12.010.005",
+    "villageCode": "005",
+    "districtCode": "12.12.010",
+    "name": "Gunung Seribu",
+    "alias": "Gunung Seribu"
+  },
+  {
+    "code": "12.12.010.006",
+    "villageCode": "006",
+    "districtCode": "12.12.010",
+    "name": "Kuta Tengah",
+    "alias": "Kuta Tengah"
+  },
+  {
+    "code": "12.12.010.007",
+    "villageCode": "007",
+    "districtCode": "12.12.010",
+    "name": "Pekan Gunung Meriah",
+    "alias": "Pekan Gunung Meriah"
+  },
+  {
+    "code": "12.12.010.008",
+    "villageCode": "008",
+    "districtCode": "12.12.010",
+    "name": "Gunung Meriah",
+    "alias": "Gunung Meriah"
+  },
+  {
+    "code": "12.12.010.009",
+    "villageCode": "009",
+    "districtCode": "12.12.010",
+    "name": "Bintang Meriah",
+    "alias": "Bintang Meriah"
+  },
+  {
+    "code": "12.12.010.010",
+    "villageCode": "010",
+    "districtCode": "12.12.010",
+    "name": "Ujung Meriah",
+    "alias": "Ujung Meriah"
+  },
+  {
+    "code": "12.12.010.011",
+    "villageCode": "011",
+    "districtCode": "12.12.010",
+    "name": "Marjanji Pematang",
+    "alias": "Marjanji Pematang"
+  },
+  {
+    "code": "12.12.010.012",
+    "villageCode": "012",
+    "districtCode": "12.12.010",
+    "name": "Marjanji Tongah",
+    "alias": "Marjanji Tongah"
+  }
+]

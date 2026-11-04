@@ -1,0 +1,58 @@
+[
+  {
+    "code": "35.06.110.001",
+    "villageCode": "001",
+    "districtCode": "35.06.110",
+    "name": "Satak",
+    "alias": "Satak"
+  },
+  {
+    "code": "35.06.110.002",
+    "villageCode": "002",
+    "districtCode": "35.06.110",
+    "name": "Puncu",
+    "alias": "Puncu"
+  },
+  {
+    "code": "35.06.110.003",
+    "villageCode": "003",
+    "districtCode": "35.06.110",
+    "name": "Asmorobangun",
+    "alias": "Asmorobangun"
+  },
+  {
+    "code": "35.06.110.004",
+    "villageCode": "004",
+    "districtCode": "35.06.110",
+    "name": "Wonorejo",
+    "alias": "Wonorejo"
+  },
+  {
+    "code": "35.06.110.005",
+    "villageCode": "005",
+    "districtCode": "35.06.110",
+    "name": "Manggis",
+    "alias": "Manggis"
+  },
+  {
+    "code": "35.06.110.006",
+    "villageCode": "006",
+    "districtCode": "35.06.110",
+    "name": "Sidomulyo",
+    "alias": "Sidomulyo"
+  },
+  {
+    "code": "35.06.110.007",
+    "villageCode": "007",
+    "districtCode": "35.06.110",
+    "name": "Watugede",
+    "alias": "Watugede"
+  },
+  {
+    "code": "35.06.110.008",
+    "villageCode": "008",
+    "districtCode": "35.06.110",
+    "name": "Gadungan",
+    "alias": "Gadungan"
+  }
+]

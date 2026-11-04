@@ -1,0 +1,50 @@
+[
+  {
+    "code": "12.72.010",
+    "districtCode": "010",
+    "regencyCode": "12.72",
+    "provinceCode": "12",
+    "name": "Kecamatan Datuk Bandar",
+    "alias": "Datuk Bandar"
+  },
+  {
+    "code": "12.72.011",
+    "districtCode": "011",
+    "regencyCode": "12.72",
+    "provinceCode": "12",
+    "name": "Kecamatan Datuk Bandar Timur",
+    "alias": "Datuk Bandar Timur"
+  },
+  {
+    "code": "12.72.020",
+    "districtCode": "020",
+    "regencyCode": "12.72",
+    "provinceCode": "12",
+    "name": "Kecamatan Tanjung Balai Selatan",
+    "alias": "Tanjung Balai Selatan"
+  },
+  {
+    "code": "12.72.030",
+    "districtCode": "030",
+    "regencyCode": "12.72",
+    "provinceCode": "12",
+    "name": "Kecamatan Tanjung Balai Utara",
+    "alias": "Tanjung Balai Utara"
+  },
+  {
+    "code": "12.72.040",
+    "districtCode": "040",
+    "regencyCode": "12.72",
+    "provinceCode": "12",
+    "name": "Kecamatan Sei Tualang Raso",
+    "alias": "Sei Tualang Raso"
+  },
+  {
+    "code": "12.72.050",
+    "districtCode": "050",
+    "regencyCode": "12.72",
+    "provinceCode": "12",
+    "name": "Kecamatan Teluk Nibung",
+    "alias": "Teluk Nibung"
+  }
+]

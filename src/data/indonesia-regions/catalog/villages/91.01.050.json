@@ -1,0 +1,44 @@
+[
+  {
+    "code": "91.01.050.006",
+    "villageCode": "006",
+    "districtCode": "91.01.050",
+    "name": "Tunas Gain",
+    "alias": "Tunas Gain"
+  },
+  {
+    "code": "91.01.050.007",
+    "villageCode": "007",
+    "districtCode": "91.01.050",
+    "name": "Urat",
+    "alias": "Urat"
+  },
+  {
+    "code": "91.01.050.008",
+    "villageCode": "008",
+    "districtCode": "91.01.050",
+    "name": "Sanggram",
+    "alias": "Sanggram"
+  },
+  {
+    "code": "91.01.050.016",
+    "villageCode": "016",
+    "districtCode": "91.01.050",
+    "name": "Weri",
+    "alias": "Weri"
+  },
+  {
+    "code": "91.01.050.017",
+    "villageCode": "017",
+    "districtCode": "91.01.050",
+    "name": "Kiria Bisa",
+    "alias": "Kiria Bisa"
+  },
+  {
+    "code": "91.01.050.018",
+    "villageCode": "018",
+    "districtCode": "91.01.050",
+    "name": "Saharei",
+    "alias": "Saharei"
+  }
+]

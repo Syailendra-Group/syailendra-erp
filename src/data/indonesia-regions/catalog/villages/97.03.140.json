@@ -1,0 +1,65 @@
+[
+  {
+    "code": "97.03.140.001",
+    "villageCode": "001",
+    "districtCode": "97.03.140",
+    "name": "Mokoni",
+    "alias": "Mokoni"
+  },
+  {
+    "code": "97.03.140.002",
+    "villageCode": "002",
+    "districtCode": "97.03.140",
+    "name": "Guninggame",
+    "alias": "Guninggame"
+  },
+  {
+    "code": "97.03.140.003",
+    "villageCode": "003",
+    "districtCode": "97.03.140",
+    "name": "Name",
+    "alias": "Name"
+  },
+  {
+    "code": "97.03.140.004",
+    "villageCode": "004",
+    "districtCode": "97.03.140",
+    "name": "Bigipura",
+    "alias": "Bigipura"
+  },
+  {
+    "code": "97.03.140.005",
+    "villageCode": "005",
+    "districtCode": "97.03.140",
+    "name": "Wakumalo",
+    "alias": "Wakumalo"
+  },
+  {
+    "code": "97.03.140.006",
+    "villageCode": "006",
+    "districtCode": "97.03.140",
+    "name": "Yanggelome",
+    "alias": "Yanggelome"
+  },
+  {
+    "code": "97.03.140.007",
+    "villageCode": "007",
+    "districtCode": "97.03.140",
+    "name": "Bumalome",
+    "alias": "Bumalome"
+  },
+  {
+    "code": "97.03.140.008",
+    "villageCode": "008",
+    "districtCode": "97.03.140",
+    "name": "Popome",
+    "alias": "Popome"
+  },
+  {
+    "code": "97.03.140.009",
+    "villageCode": "009",
+    "districtCode": "97.03.140",
+    "name": "Wuyumbur",
+    "alias": "Wuyumbur"
+  }
+]

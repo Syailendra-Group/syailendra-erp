@@ -1,0 +1,146 @@
+[
+  {
+    "code": "15.01.010",
+    "districtCode": "010",
+    "regencyCode": "15.01",
+    "provinceCode": "15",
+    "name": "Kecamatan Gunung Raya",
+    "alias": "Gunung Raya"
+  },
+  {
+    "code": "15.01.011",
+    "districtCode": "011",
+    "regencyCode": "15.01",
+    "provinceCode": "15",
+    "name": "Kecamatan Bukit Kerman",
+    "alias": "Bukit Kerman"
+  },
+  {
+    "code": "15.01.020",
+    "districtCode": "020",
+    "regencyCode": "15.01",
+    "provinceCode": "15",
+    "name": "Kecamatan Batang Merangin",
+    "alias": "Batang Merangin"
+  },
+  {
+    "code": "15.01.030",
+    "districtCode": "030",
+    "regencyCode": "15.01",
+    "provinceCode": "15",
+    "name": "Kecamatan Keliling Danau",
+    "alias": "Keliling Danau"
+  },
+  {
+    "code": "15.01.031",
+    "districtCode": "031",
+    "regencyCode": "15.01",
+    "provinceCode": "15",
+    "name": "Kecamatan Danau Kerinci Barat",
+    "alias": "Danau Kerinci Barat"
+  },
+  {
+    "code": "15.01.040",
+    "districtCode": "040",
+    "regencyCode": "15.01",
+    "provinceCode": "15",
+    "name": "Kecamatan Danau Kerinci",
+    "alias": "Danau Kerinci"
+  },
+  {
+    "code": "15.01.041",
+    "districtCode": "041",
+    "regencyCode": "15.01",
+    "provinceCode": "15",
+    "name": "Kecamatan Tanah Cogok",
+    "alias": "Tanah Cogok"
+  },
+  {
+    "code": "15.01.050",
+    "districtCode": "050",
+    "regencyCode": "15.01",
+    "provinceCode": "15",
+    "name": "Kecamatan Sitinjau Laut",
+    "alias": "Sitinjau Laut"
+  },
+  {
+    "code": "15.01.070",
+    "districtCode": "070",
+    "regencyCode": "15.01",
+    "provinceCode": "15",
+    "name": "Kecamatan Air Hangat",
+    "alias": "Air Hangat"
+  },
+  {
+    "code": "15.01.071",
+    "districtCode": "071",
+    "regencyCode": "15.01",
+    "provinceCode": "15",
+    "name": "Kecamatan Air Hangat Timur",
+    "alias": "Air Hangat Timur"
+  },
+  {
+    "code": "15.01.072",
+    "districtCode": "072",
+    "regencyCode": "15.01",
+    "provinceCode": "15",
+    "name": "Kecamatan Depati Vii",
+    "alias": "Depati Vii"
+  },
+  {
+    "code": "15.01.073",
+    "districtCode": "073",
+    "regencyCode": "15.01",
+    "provinceCode": "15",
+    "name": "Kecamatan Air Hangat Barat",
+    "alias": "Air Hangat Barat"
+  },
+  {
+    "code": "15.01.080",
+    "districtCode": "080",
+    "regencyCode": "15.01",
+    "provinceCode": "15",
+    "name": "Kecamatan Gunung Kerinci",
+    "alias": "Gunung Kerinci"
+  },
+  {
+    "code": "15.01.081",
+    "districtCode": "081",
+    "regencyCode": "15.01",
+    "provinceCode": "15",
+    "name": "Kecamatan Siulak",
+    "alias": "Siulak"
+  },
+  {
+    "code": "15.01.082",
+    "districtCode": "082",
+    "regencyCode": "15.01",
+    "provinceCode": "15",
+    "name": "Kecamatan Siulak Mukai",
+    "alias": "Siulak Mukai"
+  },
+  {
+    "code": "15.01.090",
+    "districtCode": "090",
+    "regencyCode": "15.01",
+    "provinceCode": "15",
+    "name": "Kecamatan Kayu Aro",
+    "alias": "Kayu Aro"
+  },
+  {
+    "code": "15.01.091",
+    "districtCode": "091",
+    "regencyCode": "15.01",
+    "provinceCode": "15",
+    "name": "Kecamatan Gunung Tujuh",
+    "alias": "Gunung Tujuh"
+  },
+  {
+    "code": "15.01.092",
+    "districtCode": "092",
+    "regencyCode": "15.01",
+    "provinceCode": "15",
+    "name": "Kecamatan Kayu Aro Barat",
+    "alias": "Kayu Aro Barat"
+  }
+]

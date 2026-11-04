@@ -1,0 +1,44 @@
+[
+  {
+    "code": "32.06.261.001",
+    "villageCode": "001",
+    "districtCode": "32.06.261",
+    "name": "Pamoyanan",
+    "alias": "Pamoyanan"
+  },
+  {
+    "code": "32.06.261.002",
+    "villageCode": "002",
+    "districtCode": "32.06.261",
+    "name": "Buniasih",
+    "alias": "Buniasih"
+  },
+  {
+    "code": "32.06.261.003",
+    "villageCode": "003",
+    "districtCode": "32.06.261",
+    "name": "Mekarsari",
+    "alias": "Mekarsari"
+  },
+  {
+    "code": "32.06.261.004",
+    "villageCode": "004",
+    "districtCode": "32.06.261",
+    "name": "Dirgahayu",
+    "alias": "Dirgahayu"
+  },
+  {
+    "code": "32.06.261.005",
+    "villageCode": "005",
+    "districtCode": "32.06.261",
+    "name": "Cibahayu",
+    "alias": "Cibahayu"
+  },
+  {
+    "code": "32.06.261.006",
+    "villageCode": "006",
+    "districtCode": "32.06.261",
+    "name": "Kadipaten",
+    "alias": "Kadipaten"
+  }
+]

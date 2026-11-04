@@ -1,0 +1,79 @@
+[
+  {
+    "code": "11.74.021.001",
+    "villageCode": "001",
+    "districtCode": "11.74.021",
+    "name": "Cot Trieng",
+    "alias": "Cot Trieng"
+  },
+  {
+    "code": "11.74.021.002",
+    "villageCode": "002",
+    "districtCode": "11.74.021",
+    "name": "Paloh Punti",
+    "alias": "Paloh Punti"
+  },
+  {
+    "code": "11.74.021.003",
+    "villageCode": "003",
+    "districtCode": "11.74.021",
+    "name": "Meunasah Dayah",
+    "alias": "Meunasah Dayah"
+  },
+  {
+    "code": "11.74.021.004",
+    "villageCode": "004",
+    "districtCode": "11.74.021",
+    "name": "Blang Panyang",
+    "alias": "Blang Panyang"
+  },
+  {
+    "code": "11.74.021.005",
+    "villageCode": "005",
+    "districtCode": "11.74.021",
+    "name": "Meuria Paloh",
+    "alias": "Meuria Paloh"
+  },
+  {
+    "code": "11.74.021.006",
+    "villageCode": "006",
+    "districtCode": "11.74.021",
+    "name": "Blang Pulo",
+    "alias": "Blang Pulo"
+  },
+  {
+    "code": "11.74.021.007",
+    "villageCode": "007",
+    "districtCode": "11.74.021",
+    "name": "Batuphat Timur",
+    "alias": "Batuphat Timur"
+  },
+  {
+    "code": "11.74.021.008",
+    "villageCode": "008",
+    "districtCode": "11.74.021",
+    "name": "Padang Sakti",
+    "alias": "Padang Sakti"
+  },
+  {
+    "code": "11.74.021.009",
+    "villageCode": "009",
+    "districtCode": "11.74.021",
+    "name": "Ujong Pacu",
+    "alias": "Ujong Pacu"
+  },
+  {
+    "code": "11.74.021.010",
+    "villageCode": "010",
+    "districtCode": "11.74.021",
+    "name": "Blang Naleung Mameh",
+    "alias": "Blang Naleung Mameh"
+  },
+  {
+    "code": "11.74.021.011",
+    "villageCode": "011",
+    "districtCode": "11.74.021",
+    "name": "Batuphat Barat",
+    "alias": "Batuphat Barat"
+  }
+]

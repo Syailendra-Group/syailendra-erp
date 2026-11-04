@@ -1,0 +1,51 @@
+[
+  {
+    "code": "32.02.082.001",
+    "villageCode": "001",
+    "districtCode": "32.02.082",
+    "name": "Cimenteng",
+    "alias": "Cimenteng"
+  },
+  {
+    "code": "32.02.082.002",
+    "villageCode": "002",
+    "districtCode": "32.02.082",
+    "name": "Curugkembar",
+    "alias": "Curugkembar"
+  },
+  {
+    "code": "32.02.082.003",
+    "villageCode": "003",
+    "districtCode": "32.02.082",
+    "name": "Tanjungsari",
+    "alias": "Tanjungsari"
+  },
+  {
+    "code": "32.02.082.004",
+    "villageCode": "004",
+    "districtCode": "32.02.082",
+    "name": "Sindangraja",
+    "alias": "Sindangraja"
+  },
+  {
+    "code": "32.02.082.005",
+    "villageCode": "005",
+    "districtCode": "32.02.082",
+    "name": "Mekartanjung",
+    "alias": "Mekartanjung"
+  },
+  {
+    "code": "32.02.082.006",
+    "villageCode": "006",
+    "districtCode": "32.02.082",
+    "name": "Bojong Tugu",
+    "alias": "Bojong Tugu"
+  },
+  {
+    "code": "32.02.082.007",
+    "villageCode": "007",
+    "districtCode": "32.02.082",
+    "name": "Nagrakjaya",
+    "alias": "Nagrakjaya"
+  }
+]

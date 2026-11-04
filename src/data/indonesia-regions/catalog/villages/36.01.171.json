@@ -1,0 +1,72 @@
+[
+  {
+    "code": "36.01.171.001",
+    "villageCode": "001",
+    "districtCode": "36.01.171",
+    "name": "Banjarsari",
+    "alias": "Banjarsari"
+  },
+  {
+    "code": "36.01.171.002",
+    "villageCode": "002",
+    "districtCode": "36.01.171",
+    "name": "Sukamanah",
+    "alias": "Sukamanah"
+  },
+  {
+    "code": "36.01.171.003",
+    "villageCode": "003",
+    "districtCode": "36.01.171",
+    "name": "Palurahan",
+    "alias": "Palurahan"
+  },
+  {
+    "code": "36.01.171.004",
+    "villageCode": "004",
+    "districtCode": "36.01.171",
+    "name": "Kadugemblo",
+    "alias": "Kadugemblo"
+  },
+  {
+    "code": "36.01.171.005",
+    "villageCode": "005",
+    "districtCode": "36.01.171",
+    "name": "Sukasari",
+    "alias": "Sukasari"
+  },
+  {
+    "code": "36.01.171.006",
+    "villageCode": "006",
+    "districtCode": "36.01.171",
+    "name": "Mandalasari",
+    "alias": "Mandalasari"
+  },
+  {
+    "code": "36.01.171.007",
+    "villageCode": "007",
+    "districtCode": "36.01.171",
+    "name": "Saninten",
+    "alias": "Saninten"
+  },
+  {
+    "code": "36.01.171.008",
+    "villageCode": "008",
+    "districtCode": "36.01.171",
+    "name": "Bayumundu",
+    "alias": "Bayumundu"
+  },
+  {
+    "code": "36.01.171.009",
+    "villageCode": "009",
+    "districtCode": "36.01.171",
+    "name": "Campaka",
+    "alias": "Campaka"
+  },
+  {
+    "code": "36.01.171.010",
+    "villageCode": "010",
+    "districtCode": "36.01.171",
+    "name": "Ciputri",
+    "alias": "Ciputri"
+  }
+]

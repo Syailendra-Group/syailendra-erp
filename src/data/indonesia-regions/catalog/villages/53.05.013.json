@@ -1,0 +1,30 @@
+[
+  {
+    "code": "53.05.013.001",
+    "villageCode": "001",
+    "districtCode": "53.05.013",
+    "name": "Tasinifu",
+    "alias": "Tasinifu"
+  },
+  {
+    "code": "53.05.013.002",
+    "villageCode": "002",
+    "districtCode": "53.05.013",
+    "name": "Naekake A",
+    "alias": "Naekake A"
+  },
+  {
+    "code": "53.05.013.003",
+    "villageCode": "003",
+    "districtCode": "53.05.013",
+    "name": "Naekake B",
+    "alias": "Naekake B"
+  },
+  {
+    "code": "53.05.013.004",
+    "villageCode": "004",
+    "districtCode": "53.05.013",
+    "name": "Noelelo",
+    "alias": "Noelelo"
+  }
+]

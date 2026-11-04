@@ -1,0 +1,65 @@
+[
+  {
+    "code": "19.01.092.001",
+    "villageCode": "001",
+    "districtCode": "19.01.092",
+    "name": "Maras Senang",
+    "alias": "Maras Senang"
+  },
+  {
+    "code": "19.01.092.002",
+    "villageCode": "002",
+    "districtCode": "19.01.092",
+    "name": "Kapuk",
+    "alias": "Kapuk"
+  },
+  {
+    "code": "19.01.092.003",
+    "villageCode": "003",
+    "districtCode": "19.01.092",
+    "name": "Neknang",
+    "alias": "Neknang"
+  },
+  {
+    "code": "19.01.092.004",
+    "villageCode": "004",
+    "districtCode": "19.01.092",
+    "name": "Tiang Tarah",
+    "alias": "Tiang Tarah"
+  },
+  {
+    "code": "19.01.092.005",
+    "villageCode": "005",
+    "districtCode": "19.01.092",
+    "name": "Dalil",
+    "alias": "Dalil"
+  },
+  {
+    "code": "19.01.092.006",
+    "villageCode": "006",
+    "districtCode": "19.01.092",
+    "name": "Bakam",
+    "alias": "Bakam"
+  },
+  {
+    "code": "19.01.092.007",
+    "villageCode": "007",
+    "districtCode": "19.01.092",
+    "name": "Mangka",
+    "alias": "Mangka"
+  },
+  {
+    "code": "19.01.092.008",
+    "villageCode": "008",
+    "districtCode": "19.01.092",
+    "name": "Mabat",
+    "alias": "Mabat"
+  },
+  {
+    "code": "19.01.092.009",
+    "villageCode": "009",
+    "districtCode": "19.01.092",
+    "name": "Bukit Layang",
+    "alias": "Bukit Layang"
+  }
+]

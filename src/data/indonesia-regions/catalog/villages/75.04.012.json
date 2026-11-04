@@ -1,0 +1,72 @@
+[
+  {
+    "code": "75.04.012.001",
+    "villageCode": "001",
+    "districtCode": "75.04.012",
+    "name": "Ayula Selatan",
+    "alias": "Ayula Selatan"
+  },
+  {
+    "code": "75.04.012.002",
+    "villageCode": "002",
+    "districtCode": "75.04.012",
+    "name": "Huntu Selatan",
+    "alias": "Huntu Selatan"
+  },
+  {
+    "code": "75.04.012.003",
+    "villageCode": "003",
+    "districtCode": "75.04.012",
+    "name": "Huntu Utara",
+    "alias": "Huntu Utara"
+  },
+  {
+    "code": "75.04.012.004",
+    "villageCode": "004",
+    "districtCode": "75.04.012",
+    "name": "Ayula Utara",
+    "alias": "Ayula Utara"
+  },
+  {
+    "code": "75.04.012.005",
+    "villageCode": "005",
+    "districtCode": "75.04.012",
+    "name": "Ayula Tilango",
+    "alias": "Ayula Tilango"
+  },
+  {
+    "code": "75.04.012.006",
+    "villageCode": "006",
+    "districtCode": "75.04.012",
+    "name": "Lamahu",
+    "alias": "Lamahu"
+  },
+  {
+    "code": "75.04.012.007",
+    "villageCode": "007",
+    "districtCode": "75.04.012",
+    "name": "Huntu Barat",
+    "alias": "Huntu Barat"
+  },
+  {
+    "code": "75.04.012.008",
+    "villageCode": "008",
+    "districtCode": "75.04.012",
+    "name": "Ayula Timur",
+    "alias": "Ayula Timur"
+  },
+  {
+    "code": "75.04.012.009",
+    "villageCode": "009",
+    "districtCode": "75.04.012",
+    "name": "Sejahtera",
+    "alias": "Sejahtera"
+  },
+  {
+    "code": "75.04.012.010",
+    "villageCode": "010",
+    "districtCode": "75.04.012",
+    "name": "Tinelo Ayula",
+    "alias": "Tinelo Ayula"
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "code": "15.09.010.001",
+    "villageCode": "001",
+    "districtCode": "15.09.010",
+    "name": "Batu Kerbau",
+    "alias": "Batu Kerbau"
+  },
+  {
+    "code": "15.09.010.003",
+    "villageCode": "003",
+    "districtCode": "15.09.010",
+    "name": "Baru Pelepat",
+    "alias": "Baru Pelepat"
+  },
+  {
+    "code": "15.09.010.004",
+    "villageCode": "004",
+    "districtCode": "15.09.010",
+    "name": "Rantel",
+    "alias": "Rantel"
+  },
+  {
+    "code": "15.09.010.005",
+    "villageCode": "005",
+    "districtCode": "15.09.010",
+    "name": "Balai Jaya",
+    "alias": "Balai Jaya"
+  },
+  {
+    "code": "15.09.010.006",
+    "villageCode": "006",
+    "districtCode": "15.09.010",
+    "name": "Sungai Beringin",
+    "alias": "Sungai Beringin"
+  },
+  {
+    "code": "15.09.010.007",
+    "villageCode": "007",
+    "districtCode": "15.09.010",
+    "name": "Rantau Keloyang",
+    "alias": "Rantau Keloyang"
+  },
+  {
+    "code": "15.09.010.008",
+    "villageCode": "008",
+    "districtCode": "15.09.010",
+    "name": "Dwi Karya Bakti",
+    "alias": "Dwi Karya Bakti"
+  },
+  {
+    "code": "15.09.010.009",
+    "villageCode": "009",
+    "districtCode": "15.09.010",
+    "name": "Mulia Jaya",
+    "alias": "Mulia Jaya"
+  },
+  {
+    "code": "15.09.010.010",
+    "villageCode": "010",
+    "districtCode": "15.09.010",
+    "name": "Gapura Suci",
+    "alias": "Gapura Suci"
+  },
+  {
+    "code": "15.09.010.011",
+    "villageCode": "011",
+    "districtCode": "15.09.010",
+    "name": "Mulia Bakti",
+    "alias": "Mulia Bakti"
+  },
+  {
+    "code": "15.09.010.012",
+    "villageCode": "012",
+    "districtCode": "15.09.010",
+    "name": "Cilodang",
+    "alias": "Cilodang"
+  },
+  {
+    "code": "15.09.010.029",
+    "villageCode": "029",
+    "districtCode": "15.09.010",
+    "name": "Sungai Gurun",
+    "alias": "Sungai Gurun"
+  },
+  {
+    "code": "15.09.010.030",
+    "villageCode": "030",
+    "districtCode": "15.09.010",
+    "name": "Senamat",
+    "alias": "Senamat"
+  },
+  {
+    "code": "15.09.010.031",
+    "villageCode": "031",
+    "districtCode": "15.09.010",
+    "name": "Sekampil",
+    "alias": "Sekampil"
+  },
+  {
+    "code": "15.09.010.032",
+    "villageCode": "032",
+    "districtCode": "15.09.010",
+    "name": "Bukit Telago",
+    "alias": "Bukit Telago"
+  }
+]

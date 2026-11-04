@@ -1,0 +1,44 @@
+[
+  {
+    "code": "32.06.060.001",
+    "villageCode": "001",
+    "districtCode": "32.06.060",
+    "name": "Eureunpalay",
+    "alias": "Eureunpalay"
+  },
+  {
+    "code": "32.06.060.002",
+    "villageCode": "002",
+    "districtCode": "32.06.060",
+    "name": "Setiawaras",
+    "alias": "Setiawaras"
+  },
+  {
+    "code": "32.06.060.003",
+    "villageCode": "003",
+    "districtCode": "32.06.060",
+    "name": "Cisempur",
+    "alias": "Cisempur"
+  },
+  {
+    "code": "32.06.060.004",
+    "villageCode": "004",
+    "districtCode": "32.06.060",
+    "name": "Parung",
+    "alias": "Parung"
+  },
+  {
+    "code": "32.06.060.005",
+    "villageCode": "005",
+    "districtCode": "32.06.060",
+    "name": "Cibalong",
+    "alias": "Cibalong"
+  },
+  {
+    "code": "32.06.060.014",
+    "villageCode": "014",
+    "districtCode": "32.06.060",
+    "name": "Singajaya",
+    "alias": "Singajaya"
+  }
+]

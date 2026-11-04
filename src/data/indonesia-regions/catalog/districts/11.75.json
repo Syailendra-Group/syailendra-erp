@@ -1,0 +1,42 @@
+[
+  {
+    "code": "11.75.010",
+    "districtCode": "010",
+    "regencyCode": "11.75",
+    "provinceCode": "11",
+    "name": "Kecamatan Simpang Kiri",
+    "alias": "Simpang Kiri"
+  },
+  {
+    "code": "11.75.020",
+    "districtCode": "020",
+    "regencyCode": "11.75",
+    "provinceCode": "11",
+    "name": "Kecamatan Penanggalan",
+    "alias": "Penanggalan"
+  },
+  {
+    "code": "11.75.030",
+    "districtCode": "030",
+    "regencyCode": "11.75",
+    "provinceCode": "11",
+    "name": "Kecamatan Rundeng",
+    "alias": "Rundeng"
+  },
+  {
+    "code": "11.75.040",
+    "districtCode": "040",
+    "regencyCode": "11.75",
+    "provinceCode": "11",
+    "name": "Kecamatan Sultan Daulat",
+    "alias": "Sultan Daulat"
+  },
+  {
+    "code": "11.75.050",
+    "districtCode": "050",
+    "regencyCode": "11.75",
+    "provinceCode": "11",
+    "name": "Kecamatan Longkib",
+    "alias": "Longkib"
+  }
+]

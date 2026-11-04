@@ -1,0 +1,72 @@
+[
+  {
+    "code": "64.05.020.003",
+    "villageCode": "003",
+    "districtCode": "64.05.020",
+    "name": "Campur Sari",
+    "alias": "Campur Sari"
+  },
+  {
+    "code": "64.05.020.004",
+    "villageCode": "004",
+    "districtCode": "64.05.020",
+    "name": "Bumi Jaya",
+    "alias": "Bumi Jaya"
+  },
+  {
+    "code": "64.05.020.006",
+    "villageCode": "006",
+    "districtCode": "64.05.020",
+    "name": "Tunggal Bumi",
+    "alias": "Tunggal Bumi"
+  },
+  {
+    "code": "64.05.020.007",
+    "villageCode": "007",
+    "districtCode": "64.05.020",
+    "name": "Dumaring",
+    "alias": "Dumaring"
+  },
+  {
+    "code": "64.05.020.008",
+    "villageCode": "008",
+    "districtCode": "64.05.020",
+    "name": "Suka Murya",
+    "alias": "Suka Murya"
+  },
+  {
+    "code": "64.05.020.009",
+    "villageCode": "009",
+    "districtCode": "64.05.020",
+    "name": "Purna Sari Jaya",
+    "alias": "Purna Sari Jaya"
+  },
+  {
+    "code": "64.05.020.010",
+    "villageCode": "010",
+    "districtCode": "64.05.020",
+    "name": "Sumber Mulia",
+    "alias": "Sumber Mulia"
+  },
+  {
+    "code": "64.05.020.011",
+    "villageCode": "011",
+    "districtCode": "64.05.020",
+    "name": "Eka Sapta",
+    "alias": "Eka Sapta"
+  },
+  {
+    "code": "64.05.020.012",
+    "villageCode": "012",
+    "districtCode": "64.05.020",
+    "name": "Talisayan",
+    "alias": "Talisayan"
+  },
+  {
+    "code": "64.05.020.013",
+    "villageCode": "013",
+    "districtCode": "64.05.020",
+    "name": "Capuak",
+    "alias": "Capuak"
+  }
+]

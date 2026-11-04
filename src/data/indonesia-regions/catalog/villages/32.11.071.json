@@ -1,0 +1,72 @@
+[
+  {
+    "code": "32.11.071.001",
+    "villageCode": "001",
+    "districtCode": "32.11.071",
+    "name": "Sundamekar",
+    "alias": "Sundamekar"
+  },
+  {
+    "code": "32.11.071.002",
+    "villageCode": "002",
+    "districtCode": "32.11.071",
+    "name": "Cimarga",
+    "alias": "Cimarga"
+  },
+  {
+    "code": "32.11.071.003",
+    "villageCode": "003",
+    "districtCode": "32.11.071",
+    "name": "Cinangsi",
+    "alias": "Cinangsi"
+  },
+  {
+    "code": "32.11.071.004",
+    "villageCode": "004",
+    "districtCode": "32.11.071",
+    "name": "Linggajaya",
+    "alias": "Linggajaya"
+  },
+  {
+    "code": "32.11.071.005",
+    "villageCode": "005",
+    "districtCode": "32.11.071",
+    "name": "Situmekar",
+    "alias": "Situmekar"
+  },
+  {
+    "code": "32.11.071.006",
+    "villageCode": "006",
+    "districtCode": "32.11.071",
+    "name": "Cisitu",
+    "alias": "Cisitu"
+  },
+  {
+    "code": "32.11.071.007",
+    "villageCode": "007",
+    "districtCode": "32.11.071",
+    "name": "Cigintung",
+    "alias": "Cigintung"
+  },
+  {
+    "code": "32.11.071.008",
+    "villageCode": "008",
+    "districtCode": "32.11.071",
+    "name": "Ranjeng",
+    "alias": "Ranjeng"
+  },
+  {
+    "code": "32.11.071.009",
+    "villageCode": "009",
+    "districtCode": "32.11.071",
+    "name": "Cilopang",
+    "alias": "Cilopang"
+  },
+  {
+    "code": "32.11.071.010",
+    "villageCode": "010",
+    "districtCode": "32.11.071",
+    "name": "Pajagan",
+    "alias": "Pajagan"
+  }
+]

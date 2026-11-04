@@ -1,0 +1,72 @@
+[
+  {
+    "code": "63.10.042.001",
+    "villageCode": "001",
+    "districtCode": "63.10.042",
+    "name": "Tibarau Panjang",
+    "alias": "Tibarau Panjang"
+  },
+  {
+    "code": "63.10.042.002",
+    "villageCode": "002",
+    "districtCode": "63.10.042",
+    "name": "Tapus",
+    "alias": "Tapus"
+  },
+  {
+    "code": "63.10.042.003",
+    "villageCode": "003",
+    "districtCode": "63.10.042",
+    "name": "Darasan Binjai",
+    "alias": "Darasan Binjai"
+  },
+  {
+    "code": "63.10.042.004",
+    "villageCode": "004",
+    "districtCode": "63.10.042",
+    "name": "Guntung",
+    "alias": "Guntung"
+  },
+  {
+    "code": "63.10.042.005",
+    "villageCode": "005",
+    "districtCode": "63.10.042",
+    "name": "Teluk Kepayang",
+    "alias": "Teluk Kepayang"
+  },
+  {
+    "code": "63.10.042.006",
+    "villageCode": "006",
+    "districtCode": "63.10.042",
+    "name": "Hati If",
+    "alias": "Hati If"
+  },
+  {
+    "code": "63.10.042.007",
+    "villageCode": "007",
+    "districtCode": "63.10.042",
+    "name": "Mangkalapi",
+    "alias": "Mangkalapi"
+  },
+  {
+    "code": "63.10.042.008",
+    "villageCode": "008",
+    "districtCode": "63.10.042",
+    "name": "Tamunih",
+    "alias": "Tamunih"
+  },
+  {
+    "code": "63.10.042.009",
+    "villageCode": "009",
+    "districtCode": "63.10.042",
+    "name": "Batu Bulan",
+    "alias": "Batu Bulan"
+  },
+  {
+    "code": "63.10.042.010",
+    "villageCode": "010",
+    "districtCode": "63.10.042",
+    "name": "Dadap Kusan Raya",
+    "alias": "Dadap Kusan Raya"
+  }
+]

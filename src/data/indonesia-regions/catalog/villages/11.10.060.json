@@ -1,0 +1,296 @@
+[
+  {
+    "code": "11.10.060.001",
+    "villageCode": "001",
+    "districtCode": "11.10.060",
+    "name": "Abeuk Usong",
+    "alias": "Abeuk Usong"
+  },
+  {
+    "code": "11.10.060.002",
+    "villageCode": "002",
+    "districtCode": "11.10.060",
+    "name": "Blang Seupeng",
+    "alias": "Blang Seupeng"
+  },
+  {
+    "code": "11.10.060.003",
+    "villageCode": "003",
+    "districtCode": "11.10.060",
+    "name": "Cot Iboeh",
+    "alias": "Cot Iboeh"
+  },
+  {
+    "code": "11.10.060.004",
+    "villageCode": "004",
+    "districtCode": "11.10.060",
+    "name": "Seuneubok Lhong",
+    "alias": "Seuneubok Lhong"
+  },
+  {
+    "code": "11.10.060.005",
+    "villageCode": "005",
+    "districtCode": "11.10.060",
+    "name": "Paloh Panyang",
+    "alias": "Paloh Panyang"
+  },
+  {
+    "code": "11.10.060.006",
+    "villageCode": "006",
+    "districtCode": "11.10.060",
+    "name": "Blang Rheum",
+    "alias": "Blang Rheum"
+  },
+  {
+    "code": "11.10.060.007",
+    "villageCode": "007",
+    "districtCode": "11.10.060",
+    "name": "Cot Ulim",
+    "alias": "Cot Ulim"
+  },
+  {
+    "code": "11.10.060.008",
+    "villageCode": "008",
+    "districtCode": "11.10.060",
+    "name": "Cot Leusong",
+    "alias": "Cot Leusong"
+  },
+  {
+    "code": "11.10.060.009",
+    "villageCode": "009",
+    "districtCode": "11.10.060",
+    "name": "Blang Seunong",
+    "alias": "Blang Seunong"
+  },
+  {
+    "code": "11.10.060.010",
+    "villageCode": "010",
+    "districtCode": "11.10.060",
+    "name": "Cot Keutapang",
+    "alias": "Cot Keutapang"
+  },
+  {
+    "code": "11.10.060.027",
+    "villageCode": "027",
+    "districtCode": "11.10.060",
+    "name": "Cot Tarom Tunong",
+    "alias": "Cot Tarom Tunong"
+  },
+  {
+    "code": "11.10.060.028",
+    "villageCode": "028",
+    "districtCode": "11.10.060",
+    "name": "Blang Cot Tunong",
+    "alias": "Blang Cot Tunong"
+  },
+  {
+    "code": "11.10.060.029",
+    "villageCode": "029",
+    "districtCode": "11.10.060",
+    "name": "Seuleumbah",
+    "alias": "Seuleumbah"
+  },
+  {
+    "code": "11.10.060.030",
+    "villageCode": "030",
+    "districtCode": "11.10.060",
+    "name": "Abeuk Tingkeum",
+    "alias": "Abeuk Tingkeum"
+  },
+  {
+    "code": "11.10.060.031",
+    "villageCode": "031",
+    "districtCode": "11.10.060",
+    "name": "Blang Me",
+    "alias": "Blang Me"
+  },
+  {
+    "code": "11.10.060.032",
+    "villageCode": "032",
+    "districtCode": "11.10.060",
+    "name": "Pulo Lawang",
+    "alias": "Pulo Lawang"
+  },
+  {
+    "code": "11.10.060.033",
+    "villageCode": "033",
+    "districtCode": "11.10.060",
+    "name": "Paloh Seulimeng",
+    "alias": "Paloh Seulimeng"
+  },
+  {
+    "code": "11.10.060.034",
+    "villageCode": "034",
+    "districtCode": "11.10.060",
+    "name": "Teupok Tunong",
+    "alias": "Teupok Tunong"
+  },
+  {
+    "code": "11.10.060.035",
+    "villageCode": "035",
+    "districtCode": "11.10.060",
+    "name": "Teupok Baroh",
+    "alias": "Teupok Baroh"
+  },
+  {
+    "code": "11.10.060.036",
+    "villageCode": "036",
+    "districtCode": "11.10.060",
+    "name": "Cot Bada",
+    "alias": "Cot Bada"
+  },
+  {
+    "code": "11.10.060.037",
+    "villageCode": "037",
+    "districtCode": "11.10.060",
+    "name": "Cot Gadong",
+    "alias": "Cot Gadong"
+  },
+  {
+    "code": "11.10.060.038",
+    "villageCode": "038",
+    "districtCode": "11.10.060",
+    "name": "Kuala Jeumpa",
+    "alias": "Kuala Jeumpa"
+  },
+  {
+    "code": "11.10.060.039",
+    "villageCode": "039",
+    "districtCode": "11.10.060",
+    "name": "Blang Dalam",
+    "alias": "Blang Dalam"
+  },
+  {
+    "code": "11.10.060.040",
+    "villageCode": "040",
+    "districtCode": "11.10.060",
+    "name": "Blang Bladeh",
+    "alias": "Blang Bladeh"
+  },
+  {
+    "code": "11.10.060.041",
+    "villageCode": "041",
+    "districtCode": "11.10.060",
+    "name": "Geulumpang Payong",
+    "alias": "Geulumpang Payong"
+  },
+  {
+    "code": "11.10.060.042",
+    "villageCode": "042",
+    "districtCode": "11.10.060",
+    "name": "Blang Cot Baroh",
+    "alias": "Blang Cot Baroh"
+  },
+  {
+    "code": "11.10.060.043",
+    "villageCode": "043",
+    "districtCode": "11.10.060",
+    "name": "Cot Tarom Baroh",
+    "alias": "Cot Tarom Baroh"
+  },
+  {
+    "code": "11.10.060.044",
+    "villageCode": "044",
+    "districtCode": "11.10.060",
+    "name": "Geudong Tampu",
+    "alias": "Geudong Tampu"
+  },
+  {
+    "code": "11.10.060.061",
+    "villageCode": "061",
+    "districtCode": "11.10.060",
+    "name": "Lipah Cut",
+    "alias": "Lipah Cut"
+  },
+  {
+    "code": "11.10.060.062",
+    "villageCode": "062",
+    "districtCode": "11.10.060",
+    "name": "Lipah Rayeuk",
+    "alias": "Lipah Rayeuk"
+  },
+  {
+    "code": "11.10.060.063",
+    "villageCode": "063",
+    "districtCode": "11.10.060",
+    "name": "Mon Jambee",
+    "alias": "Mon Jambee"
+  },
+  {
+    "code": "11.10.060.064",
+    "villageCode": "064",
+    "districtCode": "11.10.060",
+    "name": "Batee Timoh",
+    "alias": "Batee Timoh"
+  },
+  {
+    "code": "11.10.060.065",
+    "villageCode": "065",
+    "districtCode": "11.10.060",
+    "name": "Cot Geurundong",
+    "alias": "Cot Geurundong"
+  },
+  {
+    "code": "11.10.060.066",
+    "villageCode": "066",
+    "districtCode": "11.10.060",
+    "name": "Beurawang",
+    "alias": "Beurawang"
+  },
+  {
+    "code": "11.10.060.073",
+    "villageCode": "073",
+    "districtCode": "11.10.060",
+    "name": "Blang Gandai",
+    "alias": "Blang Gandai"
+  },
+  {
+    "code": "11.10.060.075",
+    "villageCode": "075",
+    "districtCode": "11.10.060",
+    "name": "Salah Sirong Jaya",
+    "alias": "Salah Sirong Jaya"
+  },
+  {
+    "code": "11.10.060.076",
+    "villageCode": "076",
+    "districtCode": "11.10.060",
+    "name": "Mon Mane",
+    "alias": "Mon Mane"
+  },
+  {
+    "code": "11.10.060.077",
+    "villageCode": "077",
+    "districtCode": "11.10.060",
+    "name": "Alue Limeng",
+    "alias": "Alue Limeng"
+  },
+  {
+    "code": "11.10.060.078",
+    "villageCode": "078",
+    "districtCode": "11.10.060",
+    "name": "Cot Meugoe",
+    "alias": "Cot Meugoe"
+  },
+  {
+    "code": "11.10.060.079",
+    "villageCode": "079",
+    "districtCode": "11.10.060",
+    "name": "Cot Iboeh Timu",
+    "alias": "Cot Iboeh Timu"
+  },
+  {
+    "code": "11.10.060.080",
+    "villageCode": "080",
+    "districtCode": "11.10.060",
+    "name": "Kuta Meuligoe",
+    "alias": "Kuta Meuligoe"
+  },
+  {
+    "code": "11.10.060.081",
+    "villageCode": "081",
+    "districtCode": "11.10.060",
+    "name": "Lhaksmana",
+    "alias": "Lhaksmana"
+  }
+]

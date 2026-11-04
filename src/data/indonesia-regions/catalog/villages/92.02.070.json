@@ -1,0 +1,79 @@
+[
+  {
+    "code": "92.02.070.001",
+    "villageCode": "001",
+    "districtCode": "92.02.070",
+    "name": "Arar",
+    "alias": "Arar"
+  },
+  {
+    "code": "92.02.070.002",
+    "villageCode": "002",
+    "districtCode": "92.02.070",
+    "name": "Yeflio",
+    "alias": "Yeflio"
+  },
+  {
+    "code": "92.02.070.003",
+    "villageCode": "003",
+    "districtCode": "92.02.070",
+    "name": "Makotyamsa",
+    "alias": "Makotyamsa"
+  },
+  {
+    "code": "92.02.070.004",
+    "villageCode": "004",
+    "districtCode": "92.02.070",
+    "name": "Makbalim",
+    "alias": "Makbalim"
+  },
+  {
+    "code": "92.02.070.005",
+    "villageCode": "005",
+    "districtCode": "92.02.070",
+    "name": "Wen",
+    "alias": "Wen"
+  },
+  {
+    "code": "92.02.070.006",
+    "villageCode": "006",
+    "districtCode": "92.02.070",
+    "name": "Asjitba",
+    "alias": "Asjitba"
+  },
+  {
+    "code": "92.02.070.007",
+    "villageCode": "007",
+    "districtCode": "92.02.070",
+    "name": "Warmon Kokoda",
+    "alias": "Warmon Kokoda"
+  },
+  {
+    "code": "92.02.070.008",
+    "villageCode": "008",
+    "districtCode": "92.02.070",
+    "name": "Makbusun",
+    "alias": "Makbusun"
+  },
+  {
+    "code": "92.02.070.009",
+    "villageCode": "009",
+    "districtCode": "92.02.070",
+    "name": "Klasmelek",
+    "alias": "Klasmelek"
+  },
+  {
+    "code": "92.02.070.010",
+    "villageCode": "010",
+    "districtCode": "92.02.070",
+    "name": "Klain",
+    "alias": "Klain"
+  },
+  {
+    "code": "92.02.070.011",
+    "villageCode": "011",
+    "districtCode": "92.02.070",
+    "name": "Malamay",
+    "alias": "Malamay"
+  }
+]

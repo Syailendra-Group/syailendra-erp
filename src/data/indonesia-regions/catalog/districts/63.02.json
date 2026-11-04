@@ -1,0 +1,178 @@
+[
+  {
+    "code": "63.02.010",
+    "districtCode": "010",
+    "regencyCode": "63.02",
+    "provinceCode": "63",
+    "name": "Kecamatan Pulau Sembilan",
+    "alias": "Pulau Sembilan"
+  },
+  {
+    "code": "63.02.020",
+    "districtCode": "020",
+    "regencyCode": "63.02",
+    "provinceCode": "63",
+    "name": "Kecamatan Pulau Laut Barat",
+    "alias": "Pulau Laut Barat"
+  },
+  {
+    "code": "63.02.021",
+    "districtCode": "021",
+    "regencyCode": "63.02",
+    "provinceCode": "63",
+    "name": "Kecamatan Pulau Laut Tanjung Selayar",
+    "alias": "Pulau Laut Tanjung Selayar"
+  },
+  {
+    "code": "63.02.030",
+    "districtCode": "030",
+    "regencyCode": "63.02",
+    "provinceCode": "63",
+    "name": "Kecamatan Pulau Laut Selatan",
+    "alias": "Pulau Laut Selatan"
+  },
+  {
+    "code": "63.02.031",
+    "districtCode": "031",
+    "regencyCode": "63.02",
+    "provinceCode": "63",
+    "name": "Kecamatan Pulau Laut Kepulauan",
+    "alias": "Pulau Laut Kepulauan"
+  },
+  {
+    "code": "63.02.040",
+    "districtCode": "040",
+    "regencyCode": "63.02",
+    "provinceCode": "63",
+    "name": "Kecamatan Pulau Laut Timur",
+    "alias": "Pulau Laut Timur"
+  },
+  {
+    "code": "63.02.050",
+    "districtCode": "050",
+    "regencyCode": "63.02",
+    "provinceCode": "63",
+    "name": "Kecamatan Pulau Sebuku",
+    "alias": "Pulau Sebuku"
+  },
+  {
+    "code": "63.02.060",
+    "districtCode": "060",
+    "regencyCode": "63.02",
+    "provinceCode": "63",
+    "name": "Kecamatan Pulau Laut Utara",
+    "alias": "Pulau Laut Utara"
+  },
+  {
+    "code": "63.02.061",
+    "districtCode": "061",
+    "regencyCode": "63.02",
+    "provinceCode": "63",
+    "name": "Kecamatan Pulau Laut Tengah",
+    "alias": "Pulau Laut Tengah"
+  },
+  {
+    "code": "63.02.062",
+    "districtCode": "062",
+    "regencyCode": "63.02",
+    "provinceCode": "63",
+    "name": "Kecamatan Pulau Laut Sigam",
+    "alias": "Pulau Laut Sigam"
+  },
+  {
+    "code": "63.02.120",
+    "districtCode": "120",
+    "regencyCode": "63.02",
+    "provinceCode": "63",
+    "name": "Kecamatan Kelumpang Selatan",
+    "alias": "Kelumpang Selatan"
+  },
+  {
+    "code": "63.02.121",
+    "districtCode": "121",
+    "regencyCode": "63.02",
+    "provinceCode": "63",
+    "name": "Kecamatan Kelumpang Hilir",
+    "alias": "Kelumpang Hilir"
+  },
+  {
+    "code": "63.02.130",
+    "districtCode": "130",
+    "regencyCode": "63.02",
+    "provinceCode": "63",
+    "name": "Kecamatan Kelumpang Hulu",
+    "alias": "Kelumpang Hulu"
+  },
+  {
+    "code": "63.02.140",
+    "districtCode": "140",
+    "regencyCode": "63.02",
+    "provinceCode": "63",
+    "name": "Kecamatan Hampang",
+    "alias": "Hampang"
+  },
+  {
+    "code": "63.02.150",
+    "districtCode": "150",
+    "regencyCode": "63.02",
+    "provinceCode": "63",
+    "name": "Kecamatan Sungai Durian",
+    "alias": "Sungai Durian"
+  },
+  {
+    "code": "63.02.160",
+    "districtCode": "160",
+    "regencyCode": "63.02",
+    "provinceCode": "63",
+    "name": "Kecamatan Kelumpang Tengah",
+    "alias": "Kelumpang Tengah"
+  },
+  {
+    "code": "63.02.161",
+    "districtCode": "161",
+    "regencyCode": "63.02",
+    "provinceCode": "63",
+    "name": "Kecamatan Kelumpang Barat",
+    "alias": "Kelumpang Barat"
+  },
+  {
+    "code": "63.02.170",
+    "districtCode": "170",
+    "regencyCode": "63.02",
+    "provinceCode": "63",
+    "name": "Kecamatan Kelumpang Utara",
+    "alias": "Kelumpang Utara"
+  },
+  {
+    "code": "63.02.180",
+    "districtCode": "180",
+    "regencyCode": "63.02",
+    "provinceCode": "63",
+    "name": "Kecamatan Pamukan Selatan",
+    "alias": "Pamukan Selatan"
+  },
+  {
+    "code": "63.02.190",
+    "districtCode": "190",
+    "regencyCode": "63.02",
+    "provinceCode": "63",
+    "name": "Kecamatan Sampanahan",
+    "alias": "Sampanahan"
+  },
+  {
+    "code": "63.02.200",
+    "districtCode": "200",
+    "regencyCode": "63.02",
+    "provinceCode": "63",
+    "name": "Kecamatan Pamukan Utara",
+    "alias": "Pamukan Utara"
+  },
+  {
+    "code": "63.02.201",
+    "districtCode": "201",
+    "regencyCode": "63.02",
+    "provinceCode": "63",
+    "name": "Kecamatan Pamukan Barat",
+    "alias": "Pamukan Barat"
+  }
+]

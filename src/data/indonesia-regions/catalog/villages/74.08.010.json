@@ -1,0 +1,51 @@
+[
+  {
+    "code": "74.08.010.005",
+    "villageCode": "005",
+    "districtCode": "74.08.010",
+    "name": "Rante Baru",
+    "alias": "Rante Baru"
+  },
+  {
+    "code": "74.08.010.006",
+    "villageCode": "006",
+    "districtCode": "74.08.010",
+    "name": "Ranteangin",
+    "alias": "Ranteangin"
+  },
+  {
+    "code": "74.08.010.007",
+    "villageCode": "007",
+    "districtCode": "74.08.010",
+    "name": "Pohu",
+    "alias": "Pohu"
+  },
+  {
+    "code": "74.08.010.008",
+    "villageCode": "008",
+    "districtCode": "74.08.010",
+    "name": "Torotuo",
+    "alias": "Torotuo"
+  },
+  {
+    "code": "74.08.010.016",
+    "villageCode": "016",
+    "districtCode": "74.08.010",
+    "name": "Lawekara",
+    "alias": "Lawekara"
+  },
+  {
+    "code": "74.08.010.017",
+    "villageCode": "017",
+    "districtCode": "74.08.010",
+    "name": "Landolia",
+    "alias": "Landolia"
+  },
+  {
+    "code": "74.08.010.018",
+    "villageCode": "018",
+    "districtCode": "74.08.010",
+    "name": "Maroko",
+    "alias": "Maroko"
+  }
+]

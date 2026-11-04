@@ -1,0 +1,44 @@
+[
+  {
+    "code": "33.75.030.005",
+    "villageCode": "005",
+    "districtCode": "33.75.030",
+    "name": "Jenggot",
+    "alias": "Jenggot"
+  },
+  {
+    "code": "33.75.030.012",
+    "villageCode": "012",
+    "districtCode": "33.75.030",
+    "name": "Banyurip",
+    "alias": "Banyurip"
+  },
+  {
+    "code": "33.75.030.013",
+    "villageCode": "013",
+    "districtCode": "33.75.030",
+    "name": "Buaran Kradenan",
+    "alias": "Buaran Kradenan"
+  },
+  {
+    "code": "33.75.030.014",
+    "villageCode": "014",
+    "districtCode": "33.75.030",
+    "name": "Kuripan Kertoharjo",
+    "alias": "Kuripan Kertoharjo"
+  },
+  {
+    "code": "33.75.030.015",
+    "villageCode": "015",
+    "districtCode": "33.75.030",
+    "name": "Kuripan Yosorejo",
+    "alias": "Kuripan Yosorejo"
+  },
+  {
+    "code": "33.75.030.016",
+    "villageCode": "016",
+    "districtCode": "33.75.030",
+    "name": "Sokoduwet",
+    "alias": "Sokoduwet"
+  }
+]

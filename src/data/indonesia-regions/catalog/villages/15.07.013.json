@@ -1,0 +1,72 @@
+[
+  {
+    "code": "15.07.013.001",
+    "villageCode": "001",
+    "districtCode": "15.07.013",
+    "name": "Purwodadi",
+    "alias": "Purwodadi"
+  },
+  {
+    "code": "15.07.013.002",
+    "villageCode": "002",
+    "districtCode": "15.07.013",
+    "name": "Sukadamai",
+    "alias": "Sukadamai"
+  },
+  {
+    "code": "15.07.013.003",
+    "villageCode": "003",
+    "districtCode": "15.07.013",
+    "name": "Adi Jaya",
+    "alias": "Adi Jaya"
+  },
+  {
+    "code": "15.07.013.004",
+    "villageCode": "004",
+    "districtCode": "15.07.013",
+    "name": "Tebing Tinggi",
+    "alias": "Tebing Tinggi"
+  },
+  {
+    "code": "15.07.013.005",
+    "villageCode": "005",
+    "districtCode": "15.07.013",
+    "name": "Kelagian",
+    "alias": "Kelagian"
+  },
+  {
+    "code": "15.07.013.006",
+    "villageCode": "006",
+    "districtCode": "15.07.013",
+    "name": "Sungai Keruh",
+    "alias": "Sungai Keruh"
+  },
+  {
+    "code": "15.07.013.007",
+    "villageCode": "007",
+    "districtCode": "15.07.013",
+    "name": "Dataran Kempas",
+    "alias": "Dataran Kempas"
+  },
+  {
+    "code": "15.07.013.008",
+    "villageCode": "008",
+    "districtCode": "15.07.013",
+    "name": "Delima",
+    "alias": "Delima"
+  },
+  {
+    "code": "15.07.013.009",
+    "villageCode": "009",
+    "districtCode": "15.07.013",
+    "name": "Talang Makmur",
+    "alias": "Talang Makmur"
+  },
+  {
+    "code": "15.07.013.010",
+    "villageCode": "010",
+    "districtCode": "15.07.013",
+    "name": "Teluk Pengkah",
+    "alias": "Teluk Pengkah"
+  }
+]

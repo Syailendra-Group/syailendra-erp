@@ -1,0 +1,72 @@
+[
+  {
+    "code": "96.07.040.001",
+    "villageCode": "001",
+    "districtCode": "96.07.040",
+    "name": "Upaga",
+    "alias": "Upaga"
+  },
+  {
+    "code": "96.07.040.002",
+    "villageCode": "002",
+    "districtCode": "96.07.040",
+    "name": "Misimaga",
+    "alias": "Misimaga"
+  },
+  {
+    "code": "96.07.040.003",
+    "villageCode": "003",
+    "districtCode": "96.07.040",
+    "name": "Gome",
+    "alias": "Gome"
+  },
+  {
+    "code": "96.07.040.004",
+    "villageCode": "004",
+    "districtCode": "96.07.040",
+    "name": "Agiyome",
+    "alias": "Agiyome"
+  },
+  {
+    "code": "96.07.040.005",
+    "villageCode": "005",
+    "districtCode": "96.07.040",
+    "name": "Jenggernok",
+    "alias": "Jenggernok"
+  },
+  {
+    "code": "96.07.040.006",
+    "villageCode": "006",
+    "districtCode": "96.07.040",
+    "name": "Wako",
+    "alias": "Wako"
+  },
+  {
+    "code": "96.07.040.007",
+    "villageCode": "007",
+    "districtCode": "96.07.040",
+    "name": "Tegelobak",
+    "alias": "Tegelobak"
+  },
+  {
+    "code": "96.07.040.008",
+    "villageCode": "008",
+    "districtCode": "96.07.040",
+    "name": "Ninggabuma",
+    "alias": "Ninggabuma"
+  },
+  {
+    "code": "96.07.040.009",
+    "villageCode": "009",
+    "districtCode": "96.07.040",
+    "name": "Kelanungin",
+    "alias": "Kelanungin"
+  },
+  {
+    "code": "96.07.040.010",
+    "villageCode": "010",
+    "districtCode": "96.07.040",
+    "name": "Yoggolawi",
+    "alias": "Yoggolawi"
+  }
+]

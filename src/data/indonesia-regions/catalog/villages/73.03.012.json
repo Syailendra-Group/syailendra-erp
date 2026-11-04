@@ -1,0 +1,44 @@
+[
+  {
+    "code": "73.03.012.001",
+    "villageCode": "001",
+    "districtCode": "73.03.012",
+    "name": "Bonto Matene",
+    "alias": "Bonto Matene"
+  },
+  {
+    "code": "73.03.012.002",
+    "villageCode": "002",
+    "districtCode": "73.03.012",
+    "name": "Bonto Tiro",
+    "alias": "Bonto Tiro"
+  },
+  {
+    "code": "73.03.012.003",
+    "villageCode": "003",
+    "districtCode": "73.03.012",
+    "name": "Bonto Majannang",
+    "alias": "Bonto Majannang"
+  },
+  {
+    "code": "73.03.012.004",
+    "villageCode": "004",
+    "districtCode": "73.03.012",
+    "name": "Bonto Karaeng",
+    "alias": "Bonto Karaeng"
+  },
+  {
+    "code": "73.03.012.005",
+    "villageCode": "005",
+    "districtCode": "73.03.012",
+    "name": "Bonto Maccini",
+    "alias": "Bonto Maccini"
+  },
+  {
+    "code": "73.03.012.006",
+    "villageCode": "006",
+    "districtCode": "73.03.012",
+    "name": "Bonto Bulaeng",
+    "alias": "Bonto Bulaeng"
+  }
+]

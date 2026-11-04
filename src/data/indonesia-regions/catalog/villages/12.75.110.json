@@ -1,0 +1,44 @@
+[
+  {
+    "code": "12.75.110.001",
+    "villageCode": "001",
+    "districtCode": "12.75.110",
+    "name": "Sunggal",
+    "alias": "Sunggal"
+  },
+  {
+    "code": "12.75.110.002",
+    "villageCode": "002",
+    "districtCode": "12.75.110",
+    "name": "Tanjung Rejo",
+    "alias": "Tanjung Rejo"
+  },
+  {
+    "code": "12.75.110.003",
+    "villageCode": "003",
+    "districtCode": "12.75.110",
+    "name": "Babura",
+    "alias": "Babura"
+  },
+  {
+    "code": "12.75.110.004",
+    "villageCode": "004",
+    "districtCode": "12.75.110",
+    "name": "Simpang Tanjung",
+    "alias": "Simpang Tanjung"
+  },
+  {
+    "code": "12.75.110.005",
+    "villageCode": "005",
+    "districtCode": "12.75.110",
+    "name": "Sei Sikambing B",
+    "alias": "Sei Sikambing B"
+  },
+  {
+    "code": "12.75.110.006",
+    "villageCode": "006",
+    "districtCode": "12.75.110",
+    "name": "Lalang",
+    "alias": "Lalang"
+  }
+]

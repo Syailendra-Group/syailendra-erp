@@ -1,0 +1,44 @@
+[
+  {
+    "code": "32.05.261.001",
+    "villageCode": "001",
+    "districtCode": "32.05.261",
+    "name": "Sukamaju",
+    "alias": "Sukamaju"
+  },
+  {
+    "code": "32.05.261.002",
+    "villageCode": "002",
+    "districtCode": "32.05.261",
+    "name": "Girijaya",
+    "alias": "Girijaya"
+  },
+  {
+    "code": "32.05.261.003",
+    "villageCode": "003",
+    "districtCode": "32.05.261",
+    "name": "Kersamanah",
+    "alias": "Kersamanah"
+  },
+  {
+    "code": "32.05.261.004",
+    "villageCode": "004",
+    "districtCode": "32.05.261",
+    "name": "Nanjungjaya",
+    "alias": "Nanjungjaya"
+  },
+  {
+    "code": "32.05.261.005",
+    "villageCode": "005",
+    "districtCode": "32.05.261",
+    "name": "Sukamerang",
+    "alias": "Sukamerang"
+  },
+  {
+    "code": "32.05.261.006",
+    "villageCode": "006",
+    "districtCode": "32.05.261",
+    "name": "Mekarraya",
+    "alias": "Mekarraya"
+  }
+]

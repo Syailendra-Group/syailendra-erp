@@ -1,0 +1,72 @@
+[
+  {
+    "code": "32.02.140.001",
+    "villageCode": "001",
+    "districtCode": "32.02.140",
+    "name": "Sukamaju",
+    "alias": "Sukamaju"
+  },
+  {
+    "code": "32.02.140.002",
+    "villageCode": "002",
+    "districtCode": "32.02.140",
+    "name": "Cibatu",
+    "alias": "Cibatu"
+  },
+  {
+    "code": "32.02.140.003",
+    "villageCode": "003",
+    "districtCode": "32.02.140",
+    "name": "Parakanlima",
+    "alias": "Parakanlima"
+  },
+  {
+    "code": "32.02.140.004",
+    "villageCode": "004",
+    "districtCode": "32.02.140",
+    "name": "Kertaraharja",
+    "alias": "Kertaraharja"
+  },
+  {
+    "code": "32.02.140.005",
+    "villageCode": "005",
+    "districtCode": "32.02.140",
+    "name": "Bojong",
+    "alias": "Bojong"
+  },
+  {
+    "code": "32.02.140.006",
+    "villageCode": "006",
+    "districtCode": "32.02.140",
+    "name": "Bojongkembar",
+    "alias": "Bojongkembar"
+  },
+  {
+    "code": "32.02.140.007",
+    "villageCode": "007",
+    "districtCode": "32.02.140",
+    "name": "Cikembar",
+    "alias": "Cikembar"
+  },
+  {
+    "code": "32.02.140.008",
+    "villageCode": "008",
+    "districtCode": "32.02.140",
+    "name": "Cimanggu",
+    "alias": "Cimanggu"
+  },
+  {
+    "code": "32.02.140.009",
+    "villageCode": "009",
+    "districtCode": "32.02.140",
+    "name": "Sukamulya",
+    "alias": "Sukamulya"
+  },
+  {
+    "code": "32.02.140.010",
+    "villageCode": "010",
+    "districtCode": "32.02.140",
+    "name": "Bojongraharja",
+    "alias": "Bojongraharja"
+  }
+]

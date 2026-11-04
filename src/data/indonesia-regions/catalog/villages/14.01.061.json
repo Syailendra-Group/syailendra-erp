@@ -1,0 +1,100 @@
+[
+  {
+    "code": "14.01.061.001",
+    "villageCode": "001",
+    "districtCode": "14.01.061",
+    "name": "Pulau Panjang Hulu",
+    "alias": "Pulau Panjang Hulu"
+  },
+  {
+    "code": "14.01.061.002",
+    "villageCode": "002",
+    "districtCode": "14.01.061",
+    "name": "Pulau  Panjang Hilir",
+    "alias": "Pulau  Panjang Hilir"
+  },
+  {
+    "code": "14.01.061.003",
+    "villageCode": "003",
+    "districtCode": "14.01.061",
+    "name": "Bedeng Sikuran",
+    "alias": "Bedeng Sikuran"
+  },
+  {
+    "code": "14.01.061.004",
+    "villageCode": "004",
+    "districtCode": "14.01.061",
+    "name": "Banjar Nantigo",
+    "alias": "Banjar Nantigo"
+  },
+  {
+    "code": "14.01.061.005",
+    "villageCode": "005",
+    "districtCode": "14.01.061",
+    "name": "Pasar Inuman",
+    "alias": "Pasar Inuman"
+  },
+  {
+    "code": "14.01.061.006",
+    "villageCode": "006",
+    "districtCode": "14.01.061",
+    "name": "Pulau Sipan",
+    "alias": "Pulau Sipan"
+  },
+  {
+    "code": "14.01.061.007",
+    "villageCode": "007",
+    "districtCode": "14.01.061",
+    "name": "Pulau Busuk",
+    "alias": "Pulau Busuk"
+  },
+  {
+    "code": "14.01.061.008",
+    "villageCode": "008",
+    "districtCode": "14.01.061",
+    "name": "Koto Inuman",
+    "alias": "Koto Inuman"
+  },
+  {
+    "code": "14.01.061.009",
+    "villageCode": "009",
+    "districtCode": "14.01.061",
+    "name": "Sigaruntang",
+    "alias": "Sigaruntang"
+  },
+  {
+    "code": "14.01.061.010",
+    "villageCode": "010",
+    "districtCode": "14.01.061",
+    "name": "Pulau Busuk Jaya",
+    "alias": "Pulau Busuk Jaya"
+  },
+  {
+    "code": "14.01.061.011",
+    "villageCode": "011",
+    "districtCode": "14.01.061",
+    "name": "Seberang Pulau Busuk",
+    "alias": "Seberang Pulau Busuk"
+  },
+  {
+    "code": "14.01.061.012",
+    "villageCode": "012",
+    "districtCode": "14.01.061",
+    "name": "Ketaping Jaya",
+    "alias": "Ketaping Jaya"
+  },
+  {
+    "code": "14.01.061.013",
+    "villageCode": "013",
+    "districtCode": "14.01.061",
+    "name": "Lebuh Lurus",
+    "alias": "Lebuh Lurus"
+  },
+  {
+    "code": "14.01.061.014",
+    "villageCode": "014",
+    "districtCode": "14.01.061",
+    "name": "Kampung Baru Koto",
+    "alias": "Kampung Baru Koto"
+  }
+]

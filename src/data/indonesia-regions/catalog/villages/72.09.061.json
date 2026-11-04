@@ -1,0 +1,65 @@
+[
+  {
+    "code": "72.09.061.001",
+    "villageCode": "001",
+    "districtCode": "72.09.061",
+    "name": "Kulingkinari",
+    "alias": "Kulingkinari"
+  },
+  {
+    "code": "72.09.061.002",
+    "villageCode": "002",
+    "districtCode": "72.09.061",
+    "name": "Molowagu",
+    "alias": "Molowagu"
+  },
+  {
+    "code": "72.09.061.003",
+    "villageCode": "003",
+    "districtCode": "72.09.061",
+    "name": "Bomba",
+    "alias": "Bomba"
+  },
+  {
+    "code": "72.09.061.004",
+    "villageCode": "004",
+    "districtCode": "72.09.061",
+    "name": "Tumbulawa",
+    "alias": "Tumbulawa"
+  },
+  {
+    "code": "72.09.061.009",
+    "villageCode": "009",
+    "districtCode": "72.09.061",
+    "name": "Patoyan",
+    "alias": "Patoyan"
+  },
+  {
+    "code": "72.09.061.011",
+    "villageCode": "011",
+    "districtCode": "72.09.061",
+    "name": "Malino",
+    "alias": "Malino"
+  },
+  {
+    "code": "72.09.061.012",
+    "villageCode": "012",
+    "districtCode": "72.09.061",
+    "name": "Siatu",
+    "alias": "Siatu"
+  },
+  {
+    "code": "72.09.061.013",
+    "villageCode": "013",
+    "districtCode": "72.09.061",
+    "name": "Kambutu",
+    "alias": "Kambutu"
+  },
+  {
+    "code": "72.09.061.014",
+    "villageCode": "014",
+    "districtCode": "72.09.061",
+    "name": "Lindo",
+    "alias": "Lindo"
+  }
+]

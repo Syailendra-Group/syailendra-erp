@@ -1,0 +1,79 @@
+[
+  {
+    "code": "16.11.051.001",
+    "villageCode": "001",
+    "districtCode": "16.11.051",
+    "name": "Puntang",
+    "alias": "Puntang"
+  },
+  {
+    "code": "16.11.051.002",
+    "villageCode": "002",
+    "districtCode": "16.11.051",
+    "name": "Bandar Aji",
+    "alias": "Bandar Aji"
+  },
+  {
+    "code": "16.11.051.003",
+    "villageCode": "003",
+    "districtCode": "16.11.051",
+    "name": "Paduraksa",
+    "alias": "Paduraksa"
+  },
+  {
+    "code": "16.11.051.004",
+    "villageCode": "004",
+    "districtCode": "16.11.051",
+    "name": "Karang Gede",
+    "alias": "Karang Gede"
+  },
+  {
+    "code": "16.11.051.005",
+    "villageCode": "005",
+    "districtCode": "16.11.051",
+    "name": "Karang Dapo Baru",
+    "alias": "Karang Dapo Baru"
+  },
+  {
+    "code": "16.11.051.006",
+    "villageCode": "006",
+    "districtCode": "16.11.051",
+    "name": "Karang Dapo Lama",
+    "alias": "Karang Dapo Lama"
+  },
+  {
+    "code": "16.11.051.007",
+    "villageCode": "007",
+    "districtCode": "16.11.051",
+    "name": "Tangga Rasa",
+    "alias": "Tangga Rasa"
+  },
+  {
+    "code": "16.11.051.008",
+    "villageCode": "008",
+    "districtCode": "16.11.051",
+    "name": "Tapa Lama",
+    "alias": "Tapa Lama"
+  },
+  {
+    "code": "16.11.051.009",
+    "villageCode": "009",
+    "districtCode": "16.11.051",
+    "name": "Tapa Baru",
+    "alias": "Tapa Baru"
+  },
+  {
+    "code": "16.11.051.010",
+    "villageCode": "010",
+    "districtCode": "16.11.051",
+    "name": "Marta Pura",
+    "alias": "Marta Pura"
+  },
+  {
+    "code": "16.11.051.011",
+    "villageCode": "011",
+    "districtCode": "16.11.051",
+    "name": "Karang Anyar",
+    "alias": "Karang Anyar"
+  }
+]

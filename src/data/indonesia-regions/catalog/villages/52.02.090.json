@@ -1,0 +1,79 @@
+[
+  {
+    "code": "52.02.090.001",
+    "villageCode": "001",
+    "districtCode": "52.02.090",
+    "name": "Beber",
+    "alias": "Beber"
+  },
+  {
+    "code": "52.02.090.002",
+    "villageCode": "002",
+    "districtCode": "52.02.090",
+    "name": "Pagutan",
+    "alias": "Pagutan"
+  },
+  {
+    "code": "52.02.090.003",
+    "villageCode": "003",
+    "districtCode": "52.02.090",
+    "name": "Barabali",
+    "alias": "Barabali"
+  },
+  {
+    "code": "52.02.090.004",
+    "villageCode": "004",
+    "districtCode": "52.02.090",
+    "name": "Bujak",
+    "alias": "Bujak"
+  },
+  {
+    "code": "52.02.090.005",
+    "villageCode": "005",
+    "districtCode": "52.02.090",
+    "name": "Peresak",
+    "alias": "Peresak"
+  },
+  {
+    "code": "52.02.090.006",
+    "villageCode": "006",
+    "districtCode": "52.02.090",
+    "name": "Mantang",
+    "alias": "Mantang"
+  },
+  {
+    "code": "52.02.090.007",
+    "villageCode": "007",
+    "districtCode": "52.02.090",
+    "name": "Aik Dareq",
+    "alias": "Aik Dareq"
+  },
+  {
+    "code": "52.02.090.008",
+    "villageCode": "008",
+    "districtCode": "52.02.090",
+    "name": "Selebung",
+    "alias": "Selebung"
+  },
+  {
+    "code": "52.02.090.009",
+    "villageCode": "009",
+    "districtCode": "52.02.090",
+    "name": "Tampak Siring",
+    "alias": "Tampak Siring"
+  },
+  {
+    "code": "52.02.090.010",
+    "villageCode": "010",
+    "districtCode": "52.02.090",
+    "name": "Mekar Bersatu",
+    "alias": "Mekar Bersatu"
+  },
+  {
+    "code": "52.02.090.011",
+    "villageCode": "011",
+    "districtCode": "52.02.090",
+    "name": "Lendang Tampel",
+    "alias": "Lendang Tampel"
+  }
+]

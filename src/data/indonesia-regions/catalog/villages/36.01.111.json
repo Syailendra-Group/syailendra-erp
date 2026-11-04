@@ -1,0 +1,72 @@
+[
+  {
+    "code": "36.01.111.008",
+    "villageCode": "008",
+    "districtCode": "36.01.111",
+    "name": "Turus",
+    "alias": "Turus"
+  },
+  {
+    "code": "36.01.111.009",
+    "villageCode": "009",
+    "districtCode": "36.01.111",
+    "name": "Pasirgadung",
+    "alias": "Pasirgadung"
+  },
+  {
+    "code": "36.01.111.010",
+    "villageCode": "010",
+    "districtCode": "36.01.111",
+    "name": "Patia",
+    "alias": "Patia"
+  },
+  {
+    "code": "36.01.111.011",
+    "villageCode": "011",
+    "districtCode": "36.01.111",
+    "name": "Babakankeusik",
+    "alias": "Babakankeusik"
+  },
+  {
+    "code": "36.01.111.012",
+    "villageCode": "012",
+    "districtCode": "36.01.111",
+    "name": "Cimoyan",
+    "alias": "Cimoyan"
+  },
+  {
+    "code": "36.01.111.013",
+    "villageCode": "013",
+    "districtCode": "36.01.111",
+    "name": "Idaman",
+    "alias": "Idaman"
+  },
+  {
+    "code": "36.01.111.014",
+    "villageCode": "014",
+    "districtCode": "36.01.111",
+    "name": "Ciawi",
+    "alias": "Ciawi"
+  },
+  {
+    "code": "36.01.111.015",
+    "villageCode": "015",
+    "districtCode": "36.01.111",
+    "name": "Surianeun",
+    "alias": "Surianeun"
+  },
+  {
+    "code": "36.01.111.016",
+    "villageCode": "016",
+    "districtCode": "36.01.111",
+    "name": "Rahayu",
+    "alias": "Rahayu"
+  },
+  {
+    "code": "36.01.111.017",
+    "villageCode": "017",
+    "districtCode": "36.01.111",
+    "name": "Simpangtiga",
+    "alias": "Simpangtiga"
+  }
+]

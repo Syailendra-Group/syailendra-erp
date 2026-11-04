@@ -1,0 +1,30 @@
+[
+  {
+    "code": "96.04.050.001",
+    "villageCode": "001",
+    "districtCode": "96.04.050",
+    "name": "Masipawa",
+    "alias": "Masipawa"
+  },
+  {
+    "code": "96.04.050.002",
+    "villageCode": "002",
+    "districtCode": "96.04.050",
+    "name": "Napan",
+    "alias": "Napan"
+  },
+  {
+    "code": "96.04.050.003",
+    "villageCode": "003",
+    "districtCode": "96.04.050",
+    "name": "Mosan",
+    "alias": "Mosan"
+  },
+  {
+    "code": "96.04.050.004",
+    "villageCode": "004",
+    "districtCode": "96.04.050",
+    "name": "Weinami",
+    "alias": "Weinami"
+  }
+]

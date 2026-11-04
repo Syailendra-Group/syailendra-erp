@@ -1,0 +1,30 @@
+[
+  {
+    "code": "32.75.040.005",
+    "villageCode": "005",
+    "districtCode": "32.75.040",
+    "name": "Margahayu",
+    "alias": "Margahayu"
+  },
+  {
+    "code": "32.75.040.006",
+    "villageCode": "006",
+    "districtCode": "32.75.040",
+    "name": "Bekasi Jaya",
+    "alias": "Bekasi Jaya"
+  },
+  {
+    "code": "32.75.040.007",
+    "villageCode": "007",
+    "districtCode": "32.75.040",
+    "name": "Duren Jaya",
+    "alias": "Duren Jaya"
+  },
+  {
+    "code": "32.75.040.008",
+    "villageCode": "008",
+    "districtCode": "32.75.040",
+    "name": "Aren Jaya",
+    "alias": "Aren Jaya"
+  }
+]

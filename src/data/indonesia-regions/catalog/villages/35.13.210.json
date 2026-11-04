@@ -1,0 +1,79 @@
+[
+  {
+    "code": "35.13.210.001",
+    "villageCode": "001",
+    "districtCode": "35.13.210",
+    "name": "Patalan",
+    "alias": "Patalan"
+  },
+  {
+    "code": "35.13.210.002",
+    "villageCode": "002",
+    "districtCode": "35.13.210",
+    "name": "Jrebeng",
+    "alias": "Jrebeng"
+  },
+  {
+    "code": "35.13.210.003",
+    "villageCode": "003",
+    "districtCode": "35.13.210",
+    "name": "Wonorejo",
+    "alias": "Wonorejo"
+  },
+  {
+    "code": "35.13.210.004",
+    "villageCode": "004",
+    "districtCode": "35.13.210",
+    "name": "Tunggakcerme",
+    "alias": "Tunggakcerme"
+  },
+  {
+    "code": "35.13.210.005",
+    "villageCode": "005",
+    "districtCode": "35.13.210",
+    "name": "Pohsangit Tengah",
+    "alias": "Pohsangit Tengah"
+  },
+  {
+    "code": "35.13.210.006",
+    "villageCode": "006",
+    "districtCode": "35.13.210",
+    "name": "Kareng Kidul",
+    "alias": "Kareng Kidul"
+  },
+  {
+    "code": "35.13.210.007",
+    "villageCode": "007",
+    "districtCode": "35.13.210",
+    "name": "Kedungsupit",
+    "alias": "Kedungsupit"
+  },
+  {
+    "code": "35.13.210.008",
+    "villageCode": "008",
+    "districtCode": "35.13.210",
+    "name": "Pohsangit Lor",
+    "alias": "Pohsangit Lor"
+  },
+  {
+    "code": "35.13.210.009",
+    "villageCode": "009",
+    "districtCode": "35.13.210",
+    "name": "Pohsangit Ngisor",
+    "alias": "Pohsangit Ngisor"
+  },
+  {
+    "code": "35.13.210.010",
+    "villageCode": "010",
+    "districtCode": "35.13.210",
+    "name": "Sepuhgempol",
+    "alias": "Sepuhgempol"
+  },
+  {
+    "code": "35.13.210.011",
+    "villageCode": "011",
+    "districtCode": "35.13.210",
+    "name": "Sumberkare",
+    "alias": "Sumberkare"
+  }
+]

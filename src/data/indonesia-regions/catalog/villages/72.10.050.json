@@ -1,0 +1,37 @@
+[
+  {
+    "code": "72.10.050.001",
+    "villageCode": "001",
+    "districtCode": "72.10.050",
+    "name": "Kamarora B",
+    "alias": "Kamarora B"
+  },
+  {
+    "code": "72.10.050.002",
+    "villageCode": "002",
+    "districtCode": "72.10.050",
+    "name": "Kamarora A",
+    "alias": "Kamarora A"
+  },
+  {
+    "code": "72.10.050.003",
+    "villageCode": "003",
+    "districtCode": "72.10.050",
+    "name": "Kadidia",
+    "alias": "Kadidia"
+  },
+  {
+    "code": "72.10.050.004",
+    "villageCode": "004",
+    "districtCode": "72.10.050",
+    "name": "Sopu",
+    "alias": "Sopu"
+  },
+  {
+    "code": "72.10.050.005",
+    "villageCode": "005",
+    "districtCode": "72.10.050",
+    "name": "Bulili",
+    "alias": "Bulili"
+  }
+]

@@ -1,0 +1,219 @@
+[
+  {
+    "code": "11.14.070.013",
+    "villageCode": "013",
+    "districtCode": "11.14.070",
+    "name": "Tanjung Karang",
+    "alias": "Tanjung Karang"
+  },
+  {
+    "code": "11.14.070.015",
+    "villageCode": "015",
+    "districtCode": "11.14.070",
+    "name": "Menang Gini",
+    "alias": "Menang Gini"
+  },
+  {
+    "code": "11.14.070.016",
+    "villageCode": "016",
+    "districtCode": "11.14.070",
+    "name": "Kesehatan",
+    "alias": "Kesehatan"
+  },
+  {
+    "code": "11.14.070.017",
+    "villageCode": "017",
+    "districtCode": "11.14.070",
+    "name": "Gampong Sukajadi",
+    "alias": "Gampong Sukajadi"
+  },
+  {
+    "code": "11.14.070.018",
+    "villageCode": "018",
+    "districtCode": "11.14.070",
+    "name": "Dalam",
+    "alias": "Dalam"
+  },
+  {
+    "code": "11.14.070.019",
+    "villageCode": "019",
+    "districtCode": "11.14.070",
+    "name": "Gampong Bundar",
+    "alias": "Gampong Bundar"
+  },
+  {
+    "code": "11.14.070.021",
+    "villageCode": "021",
+    "districtCode": "11.14.070",
+    "name": "Kebun Tanah Terban",
+    "alias": "Kebun Tanah Terban"
+  },
+  {
+    "code": "11.14.070.022",
+    "villageCode": "022",
+    "districtCode": "11.14.070",
+    "name": "Tanah Terban",
+    "alias": "Tanah Terban"
+  },
+  {
+    "code": "11.14.070.023",
+    "villageCode": "023",
+    "districtCode": "11.14.070",
+    "name": "Gampong Air Tenang",
+    "alias": "Gampong Air Tenang"
+  },
+  {
+    "code": "11.14.070.024",
+    "villageCode": "024",
+    "districtCode": "11.14.070",
+    "name": "Gampong Johar",
+    "alias": "Gampong Johar"
+  },
+  {
+    "code": "11.14.070.025",
+    "villageCode": "025",
+    "districtCode": "11.14.070",
+    "name": "Gampong Tupah",
+    "alias": "Gampong Tupah"
+  },
+  {
+    "code": "11.14.070.026",
+    "villageCode": "026",
+    "districtCode": "11.14.070",
+    "name": "Banai",
+    "alias": "Banai"
+  },
+  {
+    "code": "11.14.070.027",
+    "villageCode": "027",
+    "districtCode": "11.14.070",
+    "name": "Rantau Panjang",
+    "alias": "Rantau Panjang"
+  },
+  {
+    "code": "11.14.070.028",
+    "villageCode": "028",
+    "districtCode": "11.14.070",
+    "name": "Pahlawan",
+    "alias": "Pahlawan"
+  },
+  {
+    "code": "11.14.070.029",
+    "villageCode": "029",
+    "districtCode": "11.14.070",
+    "name": "Medang Ara",
+    "alias": "Medang Ara"
+  },
+  {
+    "code": "11.14.070.030",
+    "villageCode": "030",
+    "districtCode": "11.14.070",
+    "name": "Kebun Medang Ara",
+    "alias": "Kebun Medang Ara"
+  },
+  {
+    "code": "11.14.070.031",
+    "villageCode": "031",
+    "districtCode": "11.14.070",
+    "name": "Kebun Seleleh",
+    "alias": "Kebun Seleleh"
+  },
+  {
+    "code": "11.14.070.032",
+    "villageCode": "032",
+    "districtCode": "11.14.070",
+    "name": "Alur Selalas",
+    "alias": "Alur Selalas"
+  },
+  {
+    "code": "11.14.070.033",
+    "villageCode": "033",
+    "districtCode": "11.14.070",
+    "name": "Alur Baung",
+    "alias": "Alur Baung"
+  },
+  {
+    "code": "11.14.070.034",
+    "villageCode": "034",
+    "districtCode": "11.14.070",
+    "name": "Payameta",
+    "alias": "Payameta"
+  },
+  {
+    "code": "11.14.070.035",
+    "villageCode": "035",
+    "districtCode": "11.14.070",
+    "name": "Alur Bemban",
+    "alias": "Alur Bemban"
+  },
+  {
+    "code": "11.14.070.036",
+    "villageCode": "036",
+    "districtCode": "11.14.070",
+    "name": "Tanjung Seumantoh",
+    "alias": "Tanjung Seumantoh"
+  },
+  {
+    "code": "11.14.070.037",
+    "villageCode": "037",
+    "districtCode": "11.14.070",
+    "name": "Kebun Tanjung Seumantoh",
+    "alias": "Kebun Tanjung Seumantoh"
+  },
+  {
+    "code": "11.14.070.038",
+    "villageCode": "038",
+    "districtCode": "11.14.070",
+    "name": "Paya Tampah",
+    "alias": "Paya Tampah"
+  },
+  {
+    "code": "11.14.070.039",
+    "villageCode": "039",
+    "districtCode": "11.14.070",
+    "name": "Alur Lhok",
+    "alias": "Alur Lhok"
+  },
+  {
+    "code": "11.14.070.040",
+    "villageCode": "040",
+    "districtCode": "11.14.070",
+    "name": "Buket Panjang",
+    "alias": "Buket Panjang"
+  },
+  {
+    "code": "11.14.070.041",
+    "villageCode": "041",
+    "districtCode": "11.14.070",
+    "name": "Sukajadi Paya Bujuk",
+    "alias": "Sukajadi Paya Bujuk"
+  },
+  {
+    "code": "11.14.070.042",
+    "villageCode": "042",
+    "districtCode": "11.14.070",
+    "name": "Simpang Empat",
+    "alias": "Simpang Empat"
+  },
+  {
+    "code": "11.14.070.043",
+    "villageCode": "043",
+    "districtCode": "11.14.070",
+    "name": "Paya Awe",
+    "alias": "Paya Awe"
+  },
+  {
+    "code": "11.14.070.044",
+    "villageCode": "044",
+    "districtCode": "11.14.070",
+    "name": "Paya Kulbi",
+    "alias": "Paya Kulbi"
+  },
+  {
+    "code": "11.14.070.045",
+    "villageCode": "045",
+    "districtCode": "11.14.070",
+    "name": "Buket Keranji",
+    "alias": "Buket Keranji"
+  }
+]

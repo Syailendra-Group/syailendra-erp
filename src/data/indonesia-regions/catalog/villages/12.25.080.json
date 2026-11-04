@@ -1,0 +1,72 @@
+[
+  {
+    "code": "12.25.080.001",
+    "villageCode": "001",
+    "districtCode": "12.25.080",
+    "name": "Onozalukhu You",
+    "alias": "Onozalukhu You"
+  },
+  {
+    "code": "12.25.080.002",
+    "villageCode": "002",
+    "districtCode": "12.25.080",
+    "name": "Siduahili",
+    "alias": "Siduahili"
+  },
+  {
+    "code": "12.25.080.003",
+    "villageCode": "003",
+    "districtCode": "12.25.080",
+    "name": "Hilisoromi",
+    "alias": "Hilisoromi"
+  },
+  {
+    "code": "12.25.080.004",
+    "villageCode": "004",
+    "districtCode": "12.25.080",
+    "name": "Gunung Baru",
+    "alias": "Gunung Baru"
+  },
+  {
+    "code": "12.25.080.005",
+    "villageCode": "005",
+    "districtCode": "12.25.080",
+    "name": "Hiliwaloo Ii",
+    "alias": "Hiliwaloo Ii"
+  },
+  {
+    "code": "12.25.080.006",
+    "villageCode": "006",
+    "districtCode": "12.25.080",
+    "name": "Hilifadolo",
+    "alias": "Hilifadolo"
+  },
+  {
+    "code": "12.25.080.007",
+    "villageCode": "007",
+    "districtCode": "12.25.080",
+    "name": "Sitolu Ewali",
+    "alias": "Sitolu Ewali"
+  },
+  {
+    "code": "12.25.080.008",
+    "villageCode": "008",
+    "districtCode": "12.25.080",
+    "name": "Hili Waele",
+    "alias": "Hili Waele"
+  },
+  {
+    "code": "12.25.080.009",
+    "villageCode": "009",
+    "districtCode": "12.25.080",
+    "name": "Lasara Bahili",
+    "alias": "Lasara Bahili"
+  },
+  {
+    "code": "12.25.080.010",
+    "villageCode": "010",
+    "districtCode": "12.25.080",
+    "name": "Sitolubanua Fadoro",
+    "alias": "Sitolubanua Fadoro"
+  }
+]

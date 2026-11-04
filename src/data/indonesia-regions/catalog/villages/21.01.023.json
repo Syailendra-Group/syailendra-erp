@@ -1,0 +1,30 @@
+[
+  {
+    "code": "21.01.023.003",
+    "villageCode": "003",
+    "districtCode": "21.01.023",
+    "name": "Alai",
+    "alias": "Alai"
+  },
+  {
+    "code": "21.01.023.007",
+    "villageCode": "007",
+    "districtCode": "21.01.023",
+    "name": "Batu Limau",
+    "alias": "Batu Limau"
+  },
+  {
+    "code": "21.01.023.008",
+    "villageCode": "008",
+    "districtCode": "21.01.023",
+    "name": "Ngal",
+    "alias": "Ngal"
+  },
+  {
+    "code": "21.01.023.010",
+    "villageCode": "010",
+    "districtCode": "21.01.023",
+    "name": "Sungai Buluh",
+    "alias": "Sungai Buluh"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "code": "35.18.130.001",
+    "villageCode": "001",
+    "districtCode": "35.18.130",
+    "name": "Sumengko",
+    "alias": "Sumengko"
+  },
+  {
+    "code": "35.18.130.002",
+    "villageCode": "002",
+    "districtCode": "35.18.130",
+    "name": "Kapas",
+    "alias": "Kapas"
+  },
+  {
+    "code": "35.18.130.003",
+    "villageCode": "003",
+    "districtCode": "35.18.130",
+    "name": "Blitaran",
+    "alias": "Blitaran"
+  },
+  {
+    "code": "35.18.130.004",
+    "villageCode": "004",
+    "districtCode": "35.18.130",
+    "name": "Kedung Soko",
+    "alias": "Kedung Soko"
+  },
+  {
+    "code": "35.18.130.005",
+    "villageCode": "005",
+    "districtCode": "35.18.130",
+    "name": "Nglundo",
+    "alias": "Nglundo"
+  },
+  {
+    "code": "35.18.130.006",
+    "villageCode": "006",
+    "districtCode": "35.18.130",
+    "name": "Bungur",
+    "alias": "Bungur"
+  },
+  {
+    "code": "35.18.130.007",
+    "villageCode": "007",
+    "districtCode": "35.18.130",
+    "name": "Sukomoro",
+    "alias": "Sukomoro"
+  },
+  {
+    "code": "35.18.130.008",
+    "villageCode": "008",
+    "districtCode": "35.18.130",
+    "name": "Pehserut",
+    "alias": "Pehserut"
+  },
+  {
+    "code": "35.18.130.009",
+    "villageCode": "009",
+    "districtCode": "35.18.130",
+    "name": "Ngrami",
+    "alias": "Ngrami"
+  },
+  {
+    "code": "35.18.130.010",
+    "villageCode": "010",
+    "districtCode": "35.18.130",
+    "name": "Bagor Wetan",
+    "alias": "Bagor Wetan"
+  },
+  {
+    "code": "35.18.130.011",
+    "villageCode": "011",
+    "districtCode": "35.18.130",
+    "name": "Putren",
+    "alias": "Putren"
+  },
+  {
+    "code": "35.18.130.012",
+    "villageCode": "012",
+    "districtCode": "35.18.130",
+    "name": "Ngrengket",
+    "alias": "Ngrengket"
+  }
+]

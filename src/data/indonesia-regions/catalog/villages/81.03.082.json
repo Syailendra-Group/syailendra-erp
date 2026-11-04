@@ -1,0 +1,72 @@
+[
+  {
+    "code": "81.03.082.001",
+    "villageCode": "001",
+    "districtCode": "81.03.082",
+    "name": "Ouw",
+    "alias": "Ouw"
+  },
+  {
+    "code": "81.03.082.002",
+    "villageCode": "002",
+    "districtCode": "81.03.082",
+    "name": "Ullath",
+    "alias": "Ullath"
+  },
+  {
+    "code": "81.03.082.003",
+    "villageCode": "003",
+    "districtCode": "81.03.082",
+    "name": "Siri Sori",
+    "alias": "Siri Sori"
+  },
+  {
+    "code": "81.03.082.004",
+    "villageCode": "004",
+    "districtCode": "81.03.082",
+    "name": "Siri-Sori Amalatu",
+    "alias": "Siri-Sori Amalatu"
+  },
+  {
+    "code": "81.03.082.005",
+    "villageCode": "005",
+    "districtCode": "81.03.082",
+    "name": "Tuhaha",
+    "alias": "Tuhaha"
+  },
+  {
+    "code": "81.03.082.006",
+    "villageCode": "006",
+    "districtCode": "81.03.082",
+    "name": "Ihamahu",
+    "alias": "Ihamahu"
+  },
+  {
+    "code": "81.03.082.007",
+    "villageCode": "007",
+    "districtCode": "81.03.082",
+    "name": "Iha",
+    "alias": "Iha"
+  },
+  {
+    "code": "81.03.082.008",
+    "villageCode": "008",
+    "districtCode": "81.03.082",
+    "name": "Nolloth",
+    "alias": "Nolloth"
+  },
+  {
+    "code": "81.03.082.009",
+    "villageCode": "009",
+    "districtCode": "81.03.082",
+    "name": "Itawaka",
+    "alias": "Itawaka"
+  },
+  {
+    "code": "81.03.082.010",
+    "villageCode": "010",
+    "districtCode": "81.03.082",
+    "name": "Mahu",
+    "alias": "Mahu"
+  }
+]

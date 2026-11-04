@@ -1,0 +1,65 @@
+[
+  {
+    "code": "32.13.171.001",
+    "villageCode": "001",
+    "districtCode": "32.13.171",
+    "name": "Tanjungrasa",
+    "alias": "Tanjungrasa"
+  },
+  {
+    "code": "32.13.171.002",
+    "villageCode": "002",
+    "districtCode": "32.13.171",
+    "name": "Wanajaya",
+    "alias": "Wanajaya"
+  },
+  {
+    "code": "32.13.171.003",
+    "villageCode": "003",
+    "districtCode": "32.13.171",
+    "name": "Gardumukti",
+    "alias": "Gardumukti"
+  },
+  {
+    "code": "32.13.171.004",
+    "villageCode": "004",
+    "districtCode": "32.13.171",
+    "name": "Mariuk",
+    "alias": "Mariuk"
+  },
+  {
+    "code": "32.13.171.005",
+    "villageCode": "005",
+    "districtCode": "32.13.171",
+    "name": "Kertajaya",
+    "alias": "Kertajaya"
+  },
+  {
+    "code": "32.13.171.006",
+    "villageCode": "006",
+    "districtCode": "32.13.171",
+    "name": "Tambakdahan",
+    "alias": "Tambakdahan"
+  },
+  {
+    "code": "32.13.171.007",
+    "villageCode": "007",
+    "districtCode": "32.13.171",
+    "name": "Bojongkeding",
+    "alias": "Bojongkeding"
+  },
+  {
+    "code": "32.13.171.008",
+    "villageCode": "008",
+    "districtCode": "32.13.171",
+    "name": "Bojonegara",
+    "alias": "Bojonegara"
+  },
+  {
+    "code": "32.13.171.009",
+    "villageCode": "009",
+    "districtCode": "32.13.171",
+    "name": "Rancaudik",
+    "alias": "Rancaudik"
+  }
+]

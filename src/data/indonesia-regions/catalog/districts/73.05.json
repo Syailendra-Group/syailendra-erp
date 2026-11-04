@@ -1,0 +1,82 @@
+[
+  {
+    "code": "73.05.010",
+    "districtCode": "010",
+    "regencyCode": "73.05",
+    "provinceCode": "73",
+    "name": "Kecamatan Mangara Bombang",
+    "alias": "Mangara Bombang"
+  },
+  {
+    "code": "73.05.020",
+    "districtCode": "020",
+    "regencyCode": "73.05",
+    "provinceCode": "73",
+    "name": "Kecamatan Mappakasunggu",
+    "alias": "Mappakasunggu"
+  },
+  {
+    "code": "73.05.021",
+    "districtCode": "021",
+    "regencyCode": "73.05",
+    "provinceCode": "73",
+    "name": "Kecamatan Sanrobone",
+    "alias": "Sanrobone"
+  },
+  {
+    "code": "73.05.022",
+    "districtCode": "022",
+    "regencyCode": "73.05",
+    "provinceCode": "73",
+    "name": "Kecamatan Kepulauan Tanakeke",
+    "alias": "Kepulauan Tanakeke"
+  },
+  {
+    "code": "73.05.030",
+    "districtCode": "030",
+    "regencyCode": "73.05",
+    "provinceCode": "73",
+    "name": "Kecamatan Polombangkeng Selatan",
+    "alias": "Polombangkeng Selatan"
+  },
+  {
+    "code": "73.05.031",
+    "districtCode": "031",
+    "regencyCode": "73.05",
+    "provinceCode": "73",
+    "name": "Kecamatan Pattallassang",
+    "alias": "Pattallassang"
+  },
+  {
+    "code": "73.05.040",
+    "districtCode": "040",
+    "regencyCode": "73.05",
+    "provinceCode": "73",
+    "name": "Kecamatan Polombangkeng Utara",
+    "alias": "Polombangkeng Utara"
+  },
+  {
+    "code": "73.05.050",
+    "districtCode": "050",
+    "regencyCode": "73.05",
+    "provinceCode": "73",
+    "name": "Kecamatan Galesong Selatan",
+    "alias": "Galesong Selatan"
+  },
+  {
+    "code": "73.05.051",
+    "districtCode": "051",
+    "regencyCode": "73.05",
+    "provinceCode": "73",
+    "name": "Kecamatan Galesong",
+    "alias": "Galesong"
+  },
+  {
+    "code": "73.05.060",
+    "districtCode": "060",
+    "regencyCode": "73.05",
+    "provinceCode": "73",
+    "name": "Kecamatan Galesong Utara",
+    "alias": "Galesong Utara"
+  }
+]

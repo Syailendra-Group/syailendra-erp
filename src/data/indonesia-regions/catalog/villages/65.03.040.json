@@ -1,0 +1,58 @@
+[
+  {
+    "code": "65.03.040.001",
+    "villageCode": "001",
+    "districtCode": "65.03.040",
+    "name": "Seludau",
+    "alias": "Seludau"
+  },
+  {
+    "code": "65.03.040.002",
+    "villageCode": "002",
+    "districtCode": "65.03.040",
+    "name": "Sesayap",
+    "alias": "Sesayap"
+  },
+  {
+    "code": "65.03.040.003",
+    "villageCode": "003",
+    "districtCode": "65.03.040",
+    "name": "Sepala Dalung",
+    "alias": "Sepala Dalung"
+  },
+  {
+    "code": "65.03.040.004",
+    "villageCode": "004",
+    "districtCode": "65.03.040",
+    "name": "Bandan Bikis",
+    "alias": "Bandan Bikis"
+  },
+  {
+    "code": "65.03.040.005",
+    "villageCode": "005",
+    "districtCode": "65.03.040",
+    "name": "Bebatu",
+    "alias": "Bebatu"
+  },
+  {
+    "code": "65.03.040.006",
+    "villageCode": "006",
+    "districtCode": "65.03.040",
+    "name": "Sengkong",
+    "alias": "Sengkong"
+  },
+  {
+    "code": "65.03.040.007",
+    "villageCode": "007",
+    "districtCode": "65.03.040",
+    "name": "Menjelutung",
+    "alias": "Menjelutung"
+  },
+  {
+    "code": "65.03.040.008",
+    "villageCode": "008",
+    "districtCode": "65.03.040",
+    "name": "Sesayap Selor",
+    "alias": "Sesayap Selor"
+  }
+]

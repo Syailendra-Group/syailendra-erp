@@ -1,0 +1,51 @@
+[
+  {
+    "code": "17.04.042.001",
+    "villageCode": "001",
+    "districtCode": "17.04.042",
+    "name": "Bukit Makmur",
+    "alias": "Bukit Makmur"
+  },
+  {
+    "code": "17.04.042.002",
+    "villageCode": "002",
+    "districtCode": "17.04.042",
+    "name": "Ulak Bandung",
+    "alias": "Ulak Bandung"
+  },
+  {
+    "code": "17.04.042.003",
+    "villageCode": "003",
+    "districtCode": "17.04.042",
+    "name": "Sumber Makmur",
+    "alias": "Sumber Makmur"
+  },
+  {
+    "code": "17.04.042.004",
+    "villageCode": "004",
+    "districtCode": "17.04.042",
+    "name": "Tri Tunggal Bhakti",
+    "alias": "Tri Tunggal Bhakti"
+  },
+  {
+    "code": "17.04.042.005",
+    "villageCode": "005",
+    "districtCode": "17.04.042",
+    "name": "Muara Sahung",
+    "alias": "Muara Sahung"
+  },
+  {
+    "code": "17.04.042.006",
+    "villageCode": "006",
+    "districtCode": "17.04.042",
+    "name": "Ulak Lebar",
+    "alias": "Ulak Lebar"
+  },
+  {
+    "code": "17.04.042.007",
+    "villageCode": "007",
+    "districtCode": "17.04.042",
+    "name": "Cinta Makmur",
+    "alias": "Cinta Makmur"
+  }
+]

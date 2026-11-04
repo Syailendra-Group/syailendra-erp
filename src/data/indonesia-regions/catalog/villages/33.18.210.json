@@ -1,0 +1,86 @@
+[
+  {
+    "code": "33.18.210.001",
+    "villageCode": "001",
+    "districtCode": "33.18.210",
+    "name": "Wedusan",
+    "alias": "Wedusan"
+  },
+  {
+    "code": "33.18.210.002",
+    "villageCode": "002",
+    "districtCode": "33.18.210",
+    "name": "Grogolan",
+    "alias": "Grogolan"
+  },
+  {
+    "code": "33.18.210.003",
+    "villageCode": "003",
+    "districtCode": "33.18.210",
+    "name": "Dumpil",
+    "alias": "Dumpil"
+  },
+  {
+    "code": "33.18.210.004",
+    "villageCode": "004",
+    "districtCode": "33.18.210",
+    "name": "Bakalan",
+    "alias": "Bakalan"
+  },
+  {
+    "code": "33.18.210.005",
+    "villageCode": "005",
+    "districtCode": "33.18.210",
+    "name": "Ngagel",
+    "alias": "Ngagel"
+  },
+  {
+    "code": "33.18.210.006",
+    "villageCode": "006",
+    "districtCode": "33.18.210",
+    "name": "Kenanti",
+    "alias": "Kenanti"
+  },
+  {
+    "code": "33.18.210.007",
+    "villageCode": "007",
+    "districtCode": "33.18.210",
+    "name": "Alasdowo",
+    "alias": "Alasdowo"
+  },
+  {
+    "code": "33.18.210.008",
+    "villageCode": "008",
+    "districtCode": "33.18.210",
+    "name": "Banyutowo",
+    "alias": "Banyutowo"
+  },
+  {
+    "code": "33.18.210.009",
+    "villageCode": "009",
+    "districtCode": "33.18.210",
+    "name": "Dukuhseti",
+    "alias": "Dukuhseti"
+  },
+  {
+    "code": "33.18.210.010",
+    "villageCode": "010",
+    "districtCode": "33.18.210",
+    "name": "Kembang",
+    "alias": "Kembang"
+  },
+  {
+    "code": "33.18.210.011",
+    "villageCode": "011",
+    "districtCode": "33.18.210",
+    "name": "Tegalombo",
+    "alias": "Tegalombo"
+  },
+  {
+    "code": "33.18.210.012",
+    "villageCode": "012",
+    "districtCode": "33.18.210",
+    "name": "Puncel",
+    "alias": "Puncel"
+  }
+]

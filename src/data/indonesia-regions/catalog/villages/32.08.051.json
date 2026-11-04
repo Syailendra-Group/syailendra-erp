@@ -1,0 +1,51 @@
+[
+  {
+    "code": "32.08.051.001",
+    "villageCode": "001",
+    "districtCode": "32.08.051",
+    "name": "Mandapajaya",
+    "alias": "Mandapajaya"
+  },
+  {
+    "code": "32.08.051.002",
+    "villageCode": "002",
+    "districtCode": "32.08.051",
+    "name": "Legokherang",
+    "alias": "Legokherang"
+  },
+  {
+    "code": "32.08.051.003",
+    "villageCode": "003",
+    "districtCode": "32.08.051",
+    "name": "Bungurberes",
+    "alias": "Bungurberes"
+  },
+  {
+    "code": "32.08.051.004",
+    "villageCode": "004",
+    "districtCode": "32.08.051",
+    "name": "Cilebak",
+    "alias": "Cilebak"
+  },
+  {
+    "code": "32.08.051.005",
+    "villageCode": "005",
+    "districtCode": "32.08.051",
+    "name": "Jalatrang",
+    "alias": "Jalatrang"
+  },
+  {
+    "code": "32.08.051.006",
+    "villageCode": "006",
+    "districtCode": "32.08.051",
+    "name": "Patala",
+    "alias": "Patala"
+  },
+  {
+    "code": "32.08.051.007",
+    "villageCode": "007",
+    "districtCode": "32.08.051",
+    "name": "Cilimusari",
+    "alias": "Cilimusari"
+  }
+]

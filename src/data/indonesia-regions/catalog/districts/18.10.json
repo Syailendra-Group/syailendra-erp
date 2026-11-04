@@ -1,0 +1,74 @@
+[
+  {
+    "code": "18.10.010",
+    "districtCode": "010",
+    "regencyCode": "18.10",
+    "provinceCode": "18",
+    "name": "Kecamatan Pardasuka",
+    "alias": "Pardasuka"
+  },
+  {
+    "code": "18.10.020",
+    "districtCode": "020",
+    "regencyCode": "18.10",
+    "provinceCode": "18",
+    "name": "Kecamatan Ambarawa",
+    "alias": "Ambarawa"
+  },
+  {
+    "code": "18.10.030",
+    "districtCode": "030",
+    "regencyCode": "18.10",
+    "provinceCode": "18",
+    "name": "Kecamatan Pagelaran",
+    "alias": "Pagelaran"
+  },
+  {
+    "code": "18.10.031",
+    "districtCode": "031",
+    "regencyCode": "18.10",
+    "provinceCode": "18",
+    "name": "Kecamatan Pagelaran Utara",
+    "alias": "Pagelaran Utara"
+  },
+  {
+    "code": "18.10.040",
+    "districtCode": "040",
+    "regencyCode": "18.10",
+    "provinceCode": "18",
+    "name": "Kecamatan Pringsewu",
+    "alias": "Pringsewu"
+  },
+  {
+    "code": "18.10.050",
+    "districtCode": "050",
+    "regencyCode": "18.10",
+    "provinceCode": "18",
+    "name": "Kecamatan Gading Rejo",
+    "alias": "Gading Rejo"
+  },
+  {
+    "code": "18.10.060",
+    "districtCode": "060",
+    "regencyCode": "18.10",
+    "provinceCode": "18",
+    "name": "Kecamatan Sukoharjo",
+    "alias": "Sukoharjo"
+  },
+  {
+    "code": "18.10.070",
+    "districtCode": "070",
+    "regencyCode": "18.10",
+    "provinceCode": "18",
+    "name": "Kecamatan Banyumas",
+    "alias": "Banyumas"
+  },
+  {
+    "code": "18.10.080",
+    "districtCode": "080",
+    "regencyCode": "18.10",
+    "provinceCode": "18",
+    "name": "Kecamatan Adi Luwih",
+    "alias": "Adi Luwih"
+  }
+]

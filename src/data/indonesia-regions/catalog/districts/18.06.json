@@ -1,0 +1,186 @@
+[
+  {
+    "code": "18.06.010",
+    "districtCode": "010",
+    "regencyCode": "18.06",
+    "provinceCode": "18",
+    "name": "Kecamatan Bukit Kemuning",
+    "alias": "Bukit Kemuning"
+  },
+  {
+    "code": "18.06.011",
+    "districtCode": "011",
+    "regencyCode": "18.06",
+    "provinceCode": "18",
+    "name": "Kecamatan Abung Tinggi",
+    "alias": "Abung Tinggi"
+  },
+  {
+    "code": "18.06.020",
+    "districtCode": "020",
+    "regencyCode": "18.06",
+    "provinceCode": "18",
+    "name": "Kecamatan Tanjung Raja",
+    "alias": "Tanjung Raja"
+  },
+  {
+    "code": "18.06.030",
+    "districtCode": "030",
+    "regencyCode": "18.06",
+    "provinceCode": "18",
+    "name": "Kecamatan Abung Barat",
+    "alias": "Abung Barat"
+  },
+  {
+    "code": "18.06.031",
+    "districtCode": "031",
+    "regencyCode": "18.06",
+    "provinceCode": "18",
+    "name": "Kecamatan Abung Tengah",
+    "alias": "Abung Tengah"
+  },
+  {
+    "code": "18.06.032",
+    "districtCode": "032",
+    "regencyCode": "18.06",
+    "provinceCode": "18",
+    "name": "Kecamatan Abung  Kunang",
+    "alias": "Abung  Kunang"
+  },
+  {
+    "code": "18.06.033",
+    "districtCode": "033",
+    "regencyCode": "18.06",
+    "provinceCode": "18",
+    "name": "Kecamatan Abung Pekurun",
+    "alias": "Abung Pekurun"
+  },
+  {
+    "code": "18.06.040",
+    "districtCode": "040",
+    "regencyCode": "18.06",
+    "provinceCode": "18",
+    "name": "Kecamatan Kotabumi",
+    "alias": "Kotabumi"
+  },
+  {
+    "code": "18.06.041",
+    "districtCode": "041",
+    "regencyCode": "18.06",
+    "provinceCode": "18",
+    "name": "Kecamatan Kotabumi Utara",
+    "alias": "Kotabumi Utara"
+  },
+  {
+    "code": "18.06.042",
+    "districtCode": "042",
+    "regencyCode": "18.06",
+    "provinceCode": "18",
+    "name": "Kecamatan Kotabumi Selatan",
+    "alias": "Kotabumi Selatan"
+  },
+  {
+    "code": "18.06.050",
+    "districtCode": "050",
+    "regencyCode": "18.06",
+    "provinceCode": "18",
+    "name": "Kecamatan Abung Selatan",
+    "alias": "Abung Selatan"
+  },
+  {
+    "code": "18.06.051",
+    "districtCode": "051",
+    "regencyCode": "18.06",
+    "provinceCode": "18",
+    "name": "Kecamatan Abung Semuli",
+    "alias": "Abung Semuli"
+  },
+  {
+    "code": "18.06.052",
+    "districtCode": "052",
+    "regencyCode": "18.06",
+    "provinceCode": "18",
+    "name": "Kecamatan Blambangan Pagar",
+    "alias": "Blambangan Pagar"
+  },
+  {
+    "code": "18.06.060",
+    "districtCode": "060",
+    "regencyCode": "18.06",
+    "provinceCode": "18",
+    "name": "Kecamatan Abung Timur",
+    "alias": "Abung Timur"
+  },
+  {
+    "code": "18.06.061",
+    "districtCode": "061",
+    "regencyCode": "18.06",
+    "provinceCode": "18",
+    "name": "Kecamatan Abung Surakarta",
+    "alias": "Abung Surakarta"
+  },
+  {
+    "code": "18.06.070",
+    "districtCode": "070",
+    "regencyCode": "18.06",
+    "provinceCode": "18",
+    "name": "Kecamatan Sungkai Selatan",
+    "alias": "Sungkai Selatan"
+  },
+  {
+    "code": "18.06.071",
+    "districtCode": "071",
+    "regencyCode": "18.06",
+    "provinceCode": "18",
+    "name": "Kecamatan Muara Sungkai",
+    "alias": "Muara Sungkai"
+  },
+  {
+    "code": "18.06.072",
+    "districtCode": "072",
+    "regencyCode": "18.06",
+    "provinceCode": "18",
+    "name": "Kecamatan Bunga Mayang",
+    "alias": "Bunga Mayang"
+  },
+  {
+    "code": "18.06.073",
+    "districtCode": "073",
+    "regencyCode": "18.06",
+    "provinceCode": "18",
+    "name": "Kecamatan Sungkai  Barat",
+    "alias": "Sungkai  Barat"
+  },
+  {
+    "code": "18.06.074",
+    "districtCode": "074",
+    "regencyCode": "18.06",
+    "provinceCode": "18",
+    "name": "Kecamatan Sungkai Jaya",
+    "alias": "Sungkai Jaya"
+  },
+  {
+    "code": "18.06.080",
+    "districtCode": "080",
+    "regencyCode": "18.06",
+    "provinceCode": "18",
+    "name": "Kecamatan Sungkai Utara",
+    "alias": "Sungkai Utara"
+  },
+  {
+    "code": "18.06.081",
+    "districtCode": "081",
+    "regencyCode": "18.06",
+    "provinceCode": "18",
+    "name": "Kecamatan Hulusungkai",
+    "alias": "Hulusungkai"
+  },
+  {
+    "code": "18.06.082",
+    "districtCode": "082",
+    "regencyCode": "18.06",
+    "provinceCode": "18",
+    "name": "Kecamatan Sungkai Tengah",
+    "alias": "Sungkai Tengah"
+  }
+]

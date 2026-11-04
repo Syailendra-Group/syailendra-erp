@@ -1,0 +1,65 @@
+[
+  {
+    "code": "76.02.050.001",
+    "villageCode": "001",
+    "districtCode": "76.02.050",
+    "name": "Darma",
+    "alias": "Darma"
+  },
+  {
+    "code": "76.02.050.002",
+    "villageCode": "002",
+    "districtCode": "76.02.050",
+    "name": "Manding",
+    "alias": "Manding"
+  },
+  {
+    "code": "76.02.050.003",
+    "villageCode": "003",
+    "districtCode": "76.02.050",
+    "name": "Madatte",
+    "alias": "Madatte"
+  },
+  {
+    "code": "76.02.050.004",
+    "villageCode": "004",
+    "districtCode": "76.02.050",
+    "name": "Pekkabata",
+    "alias": "Pekkabata"
+  },
+  {
+    "code": "76.02.050.005",
+    "villageCode": "005",
+    "districtCode": "76.02.050",
+    "name": "Takatidung",
+    "alias": "Takatidung"
+  },
+  {
+    "code": "76.02.050.006",
+    "villageCode": "006",
+    "districtCode": "76.02.050",
+    "name": "Lantora",
+    "alias": "Lantora"
+  },
+  {
+    "code": "76.02.050.007",
+    "villageCode": "007",
+    "districtCode": "76.02.050",
+    "name": "Sulewatang",
+    "alias": "Sulewatang"
+  },
+  {
+    "code": "76.02.050.008",
+    "villageCode": "008",
+    "districtCode": "76.02.050",
+    "name": "Wattang",
+    "alias": "Wattang"
+  },
+  {
+    "code": "76.02.050.009",
+    "villageCode": "009",
+    "districtCode": "76.02.050",
+    "name": "Polewali",
+    "alias": "Polewali"
+  }
+]

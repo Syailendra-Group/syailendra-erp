@@ -1,0 +1,93 @@
+[
+  {
+    "code": "73.07.050.001",
+    "villageCode": "001",
+    "districtCode": "73.07.050",
+    "name": "Biroro",
+    "alias": "Biroro"
+  },
+  {
+    "code": "73.07.050.002",
+    "villageCode": "002",
+    "districtCode": "73.07.050",
+    "name": "Lasiai",
+    "alias": "Lasiai"
+  },
+  {
+    "code": "73.07.050.003",
+    "villageCode": "003",
+    "districtCode": "73.07.050",
+    "name": "Sanjai",
+    "alias": "Sanjai"
+  },
+  {
+    "code": "73.07.050.004",
+    "villageCode": "004",
+    "districtCode": "73.07.050",
+    "name": "Pasimarannu",
+    "alias": "Pasimarannu"
+  },
+  {
+    "code": "73.07.050.005",
+    "villageCode": "005",
+    "districtCode": "73.07.050",
+    "name": "Pattalassang",
+    "alias": "Pattalassang"
+  },
+  {
+    "code": "73.07.050.006",
+    "villageCode": "006",
+    "districtCode": "73.07.050",
+    "name": "Panaikang",
+    "alias": "Panaikang"
+  },
+  {
+    "code": "73.07.050.007",
+    "villageCode": "007",
+    "districtCode": "73.07.050",
+    "name": "Samataring",
+    "alias": "Samataring"
+  },
+  {
+    "code": "73.07.050.008",
+    "villageCode": "008",
+    "districtCode": "73.07.050",
+    "name": "Kaloling",
+    "alias": "Kaloling"
+  },
+  {
+    "code": "73.07.050.009",
+    "villageCode": "009",
+    "districtCode": "73.07.050",
+    "name": "Saukang",
+    "alias": "Saukang"
+  },
+  {
+    "code": "73.07.050.010",
+    "villageCode": "010",
+    "districtCode": "73.07.050",
+    "name": "Kampala",
+    "alias": "Kampala"
+  },
+  {
+    "code": "73.07.050.011",
+    "villageCode": "011",
+    "districtCode": "73.07.050",
+    "name": "Tongke-Tongke",
+    "alias": "Tongke-Tongke"
+  },
+  {
+    "code": "73.07.050.012",
+    "villageCode": "012",
+    "districtCode": "73.07.050",
+    "name": "Salohe",
+    "alias": "Salohe"
+  },
+  {
+    "code": "73.07.050.013",
+    "villageCode": "013",
+    "districtCode": "73.07.050",
+    "name": "Bongki Lengkese",
+    "alias": "Bongki Lengkese"
+  }
+]

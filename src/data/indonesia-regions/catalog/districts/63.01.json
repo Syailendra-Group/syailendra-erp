@@ -1,0 +1,90 @@
+[
+  {
+    "code": "63.01.010",
+    "districtCode": "010",
+    "regencyCode": "63.01",
+    "provinceCode": "63",
+    "name": "Kecamatan Panyipatan",
+    "alias": "Panyipatan"
+  },
+  {
+    "code": "63.01.020",
+    "districtCode": "020",
+    "regencyCode": "63.01",
+    "provinceCode": "63",
+    "name": "Kecamatan Takisung",
+    "alias": "Takisung"
+  },
+  {
+    "code": "63.01.030",
+    "districtCode": "030",
+    "regencyCode": "63.01",
+    "provinceCode": "63",
+    "name": "Kecamatan Kurau",
+    "alias": "Kurau"
+  },
+  {
+    "code": "63.01.031",
+    "districtCode": "031",
+    "regencyCode": "63.01",
+    "provinceCode": "63",
+    "name": "Kecamatan Bumi Makmur",
+    "alias": "Bumi Makmur"
+  },
+  {
+    "code": "63.01.040",
+    "districtCode": "040",
+    "regencyCode": "63.01",
+    "provinceCode": "63",
+    "name": "Kecamatan Bati-Bati",
+    "alias": "Bati-Bati"
+  },
+  {
+    "code": "63.01.050",
+    "districtCode": "050",
+    "regencyCode": "63.01",
+    "provinceCode": "63",
+    "name": "Kecamatan Tambang Ulang",
+    "alias": "Tambang Ulang"
+  },
+  {
+    "code": "63.01.060",
+    "districtCode": "060",
+    "regencyCode": "63.01",
+    "provinceCode": "63",
+    "name": "Kecamatan Pelaihari",
+    "alias": "Pelaihari"
+  },
+  {
+    "code": "63.01.061",
+    "districtCode": "061",
+    "regencyCode": "63.01",
+    "provinceCode": "63",
+    "name": "Kecamatan Bajuin",
+    "alias": "Bajuin"
+  },
+  {
+    "code": "63.01.070",
+    "districtCode": "070",
+    "regencyCode": "63.01",
+    "provinceCode": "63",
+    "name": "Kecamatan Batu Ampar",
+    "alias": "Batu Ampar"
+  },
+  {
+    "code": "63.01.080",
+    "districtCode": "080",
+    "regencyCode": "63.01",
+    "provinceCode": "63",
+    "name": "Kecamatan Jorong",
+    "alias": "Jorong"
+  },
+  {
+    "code": "63.01.090",
+    "districtCode": "090",
+    "regencyCode": "63.01",
+    "provinceCode": "63",
+    "name": "Kecamatan Kintap",
+    "alias": "Kintap"
+  }
+]

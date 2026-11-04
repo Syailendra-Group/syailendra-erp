@@ -1,0 +1,82 @@
+[
+  {
+    "code": "21.02.040",
+    "districtCode": "040",
+    "regencyCode": "21.02",
+    "provinceCode": "21",
+    "name": "Kecamatan Teluk Bintan",
+    "alias": "Teluk Bintan"
+  },
+  {
+    "code": "21.02.050",
+    "districtCode": "050",
+    "regencyCode": "21.02",
+    "provinceCode": "21",
+    "name": "Kecamatan Bintan Utara",
+    "alias": "Bintan Utara"
+  },
+  {
+    "code": "21.02.051",
+    "districtCode": "051",
+    "regencyCode": "21.02",
+    "provinceCode": "21",
+    "name": "Kecamatan Teluk Sebong",
+    "alias": "Teluk Sebong"
+  },
+  {
+    "code": "21.02.052",
+    "districtCode": "052",
+    "regencyCode": "21.02",
+    "provinceCode": "21",
+    "name": "Kecamatan Seri Kuala Lobam",
+    "alias": "Seri Kuala Lobam"
+  },
+  {
+    "code": "21.02.060",
+    "districtCode": "060",
+    "regencyCode": "21.02",
+    "provinceCode": "21",
+    "name": "Kecamatan Bintan Timur",
+    "alias": "Bintan Timur"
+  },
+  {
+    "code": "21.02.061",
+    "districtCode": "061",
+    "regencyCode": "21.02",
+    "provinceCode": "21",
+    "name": "Kecamatan Gunung Kijang",
+    "alias": "Gunung Kijang"
+  },
+  {
+    "code": "21.02.062",
+    "districtCode": "062",
+    "regencyCode": "21.02",
+    "provinceCode": "21",
+    "name": "Kecamatan Mantang",
+    "alias": "Mantang"
+  },
+  {
+    "code": "21.02.063",
+    "districtCode": "063",
+    "regencyCode": "21.02",
+    "provinceCode": "21",
+    "name": "Kecamatan Bintan Pesisir",
+    "alias": "Bintan Pesisir"
+  },
+  {
+    "code": "21.02.064",
+    "districtCode": "064",
+    "regencyCode": "21.02",
+    "provinceCode": "21",
+    "name": "Kecamatan Toapaya",
+    "alias": "Toapaya"
+  },
+  {
+    "code": "21.02.070",
+    "districtCode": "070",
+    "regencyCode": "21.02",
+    "provinceCode": "21",
+    "name": "Kecamatan Tambelan",
+    "alias": "Tambelan"
+  }
+]

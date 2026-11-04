@@ -1,0 +1,170 @@
+[
+  {
+    "code": "11.04.041.001",
+    "villageCode": "001",
+    "districtCode": "11.04.041",
+    "name": "Pasir Penjengakan",
+    "alias": "Pasir Penjengakan"
+  },
+  {
+    "code": "11.04.041.002",
+    "villageCode": "002",
+    "districtCode": "11.04.041",
+    "name": "Kutambaru",
+    "alias": "Kutambaru"
+  },
+  {
+    "code": "11.04.041.003",
+    "villageCode": "003",
+    "districtCode": "11.04.041",
+    "name": "Pasir Gala",
+    "alias": "Pasir Gala"
+  },
+  {
+    "code": "11.04.041.004",
+    "villageCode": "004",
+    "districtCode": "11.04.041",
+    "name": "Lawe Rutung",
+    "alias": "Lawe Rutung"
+  },
+  {
+    "code": "11.04.041.005",
+    "villageCode": "005",
+    "districtCode": "11.04.041",
+    "name": "Kuta Bantil",
+    "alias": "Kuta Bantil"
+  },
+  {
+    "code": "11.04.041.006",
+    "villageCode": "006",
+    "districtCode": "11.04.041",
+    "name": "Lawe Kulok",
+    "alias": "Lawe Kulok"
+  },
+  {
+    "code": "11.04.041.007",
+    "villageCode": "007",
+    "districtCode": "11.04.041",
+    "name": "Lawe Sagu Hulu",
+    "alias": "Lawe Sagu Hulu"
+  },
+  {
+    "code": "11.04.041.012",
+    "villageCode": "012",
+    "districtCode": "11.04.041",
+    "name": "Tenembak Juhar",
+    "alias": "Tenembak Juhar"
+  },
+  {
+    "code": "11.04.041.013",
+    "villageCode": "013",
+    "districtCode": "11.04.041",
+    "name": "Lawe Sagu Hilir",
+    "alias": "Lawe Sagu Hilir"
+  },
+  {
+    "code": "11.04.041.014",
+    "villageCode": "014",
+    "districtCode": "11.04.041",
+    "name": "Kp Nangka Gab",
+    "alias": "Kp Nangka Gab"
+  },
+  {
+    "code": "11.04.041.016",
+    "villageCode": "016",
+    "districtCode": "11.04.041",
+    "name": "Telaga Mekar",
+    "alias": "Telaga Mekar"
+  },
+  {
+    "code": "11.04.041.018",
+    "villageCode": "018",
+    "districtCode": "11.04.041",
+    "name": "Kute Buluh Botong",
+    "alias": "Kute Buluh Botong"
+  },
+  {
+    "code": "11.04.041.019",
+    "villageCode": "019",
+    "districtCode": "11.04.041",
+    "name": "Kute Mbaru Bencawan",
+    "alias": "Kute Mbaru Bencawan"
+  },
+  {
+    "code": "11.04.041.020",
+    "villageCode": "020",
+    "districtCode": "11.04.041",
+    "name": "Pulonas Baru",
+    "alias": "Pulonas Baru"
+  },
+  {
+    "code": "11.04.041.021",
+    "villageCode": "021",
+    "districtCode": "11.04.041",
+    "name": "Simpang Empat",
+    "alias": "Simpang Empat"
+  },
+  {
+    "code": "11.04.041.022",
+    "villageCode": "022",
+    "districtCode": "11.04.041",
+    "name": "Kandang Belang Mandiri",
+    "alias": "Kandang Belang Mandiri"
+  },
+  {
+    "code": "11.04.041.023",
+    "villageCode": "023",
+    "districtCode": "11.04.041",
+    "name": "Mbacang Racun",
+    "alias": "Mbacang Racun"
+  },
+  {
+    "code": "11.04.041.024",
+    "villageCode": "024",
+    "districtCode": "11.04.041",
+    "name": "Lawe Kinge",
+    "alias": "Lawe Kinge"
+  },
+  {
+    "code": "11.04.041.025",
+    "villageCode": "025",
+    "districtCode": "11.04.041",
+    "name": "Perapat Timur",
+    "alias": "Perapat Timur"
+  },
+  {
+    "code": "11.04.041.026",
+    "villageCode": "026",
+    "districtCode": "11.04.041",
+    "name": "Bahagia",
+    "alias": "Bahagia"
+  },
+  {
+    "code": "11.04.041.027",
+    "villageCode": "027",
+    "districtCode": "11.04.041",
+    "name": "Kuta Galuh",
+    "alias": "Kuta Galuh"
+  },
+  {
+    "code": "11.04.041.028",
+    "villageCode": "028",
+    "districtCode": "11.04.041",
+    "name": "Kute Genting",
+    "alias": "Kute Genting"
+  },
+  {
+    "code": "11.04.041.029",
+    "villageCode": "029",
+    "districtCode": "11.04.041",
+    "name": "Lawe Sagu",
+    "alias": "Lawe Sagu"
+  },
+  {
+    "code": "11.04.041.030",
+    "villageCode": "030",
+    "districtCode": "11.04.041",
+    "name": "Kute Pangguh",
+    "alias": "Kute Pangguh"
+  }
+]

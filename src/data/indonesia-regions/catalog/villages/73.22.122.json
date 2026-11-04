@@ -1,0 +1,44 @@
+[
+  {
+    "code": "73.22.122.001",
+    "villageCode": "001",
+    "districtCode": "73.22.122",
+    "name": "Tedeboe",
+    "alias": "Tedeboe"
+  },
+  {
+    "code": "73.22.122.002",
+    "villageCode": "002",
+    "districtCode": "73.22.122",
+    "name": "Rampi",
+    "alias": "Rampi"
+  },
+  {
+    "code": "73.22.122.003",
+    "villageCode": "003",
+    "districtCode": "73.22.122",
+    "name": "Dodolo",
+    "alias": "Dodolo"
+  },
+  {
+    "code": "73.22.122.004",
+    "villageCode": "004",
+    "districtCode": "73.22.122",
+    "name": "Onondowa",
+    "alias": "Onondowa"
+  },
+  {
+    "code": "73.22.122.005",
+    "villageCode": "005",
+    "districtCode": "73.22.122",
+    "name": "Sulaku",
+    "alias": "Sulaku"
+  },
+  {
+    "code": "73.22.122.006",
+    "villageCode": "006",
+    "districtCode": "73.22.122",
+    "name": "Leboni",
+    "alias": "Leboni"
+  }
+]

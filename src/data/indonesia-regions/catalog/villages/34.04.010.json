@@ -1,0 +1,30 @@
+[
+  {
+    "code": "34.04.010.001",
+    "villageCode": "001",
+    "districtCode": "34.04.010",
+    "name": "Sumberrahayu",
+    "alias": "Sumberrahayu"
+  },
+  {
+    "code": "34.04.010.002",
+    "villageCode": "002",
+    "districtCode": "34.04.010",
+    "name": "Sumbersari",
+    "alias": "Sumbersari"
+  },
+  {
+    "code": "34.04.010.003",
+    "villageCode": "003",
+    "districtCode": "34.04.010",
+    "name": "Sumber Agung",
+    "alias": "Sumber Agung"
+  },
+  {
+    "code": "34.04.010.004",
+    "villageCode": "004",
+    "districtCode": "34.04.010",
+    "name": "Sumberarum",
+    "alias": "Sumberarum"
+  }
+]

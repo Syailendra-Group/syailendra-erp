@@ -1,0 +1,79 @@
+[
+  {
+    "code": "96.08.230.001",
+    "villageCode": "001",
+    "districtCode": "96.08.230",
+    "name": "Nioga",
+    "alias": "Nioga"
+  },
+  {
+    "code": "96.08.230.002",
+    "villageCode": "002",
+    "districtCode": "96.08.230",
+    "name": "Wonggi",
+    "alias": "Wonggi"
+  },
+  {
+    "code": "96.08.230.003",
+    "villageCode": "003",
+    "districtCode": "96.08.230",
+    "name": "Yonggi",
+    "alias": "Yonggi"
+  },
+  {
+    "code": "96.08.230.004",
+    "villageCode": "004",
+    "districtCode": "96.08.230",
+    "name": "Muruwi",
+    "alias": "Muruwi"
+  },
+  {
+    "code": "96.08.230.005",
+    "villageCode": "005",
+    "districtCode": "96.08.230",
+    "name": "Wambagalo",
+    "alias": "Wambagalo"
+  },
+  {
+    "code": "96.08.230.006",
+    "villageCode": "006",
+    "districtCode": "96.08.230",
+    "name": "Gibaga",
+    "alias": "Gibaga"
+  },
+  {
+    "code": "96.08.230.007",
+    "villageCode": "007",
+    "districtCode": "96.08.230",
+    "name": "Wutikme",
+    "alias": "Wutikme"
+  },
+  {
+    "code": "96.08.230.008",
+    "villageCode": "008",
+    "districtCode": "96.08.230",
+    "name": "Wanduri",
+    "alias": "Wanduri"
+  },
+  {
+    "code": "96.08.230.009",
+    "villageCode": "009",
+    "districtCode": "96.08.230",
+    "name": "Jigonikme",
+    "alias": "Jigonikme"
+  },
+  {
+    "code": "96.08.230.010",
+    "villageCode": "010",
+    "districtCode": "96.08.230",
+    "name": "Papak",
+    "alias": "Papak"
+  },
+  {
+    "code": "96.08.230.011",
+    "villageCode": "011",
+    "districtCode": "96.08.230",
+    "name": "Walom",
+    "alias": "Walom"
+  }
+]

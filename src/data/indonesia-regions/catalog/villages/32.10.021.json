@@ -1,0 +1,79 @@
+[
+  {
+    "code": "32.10.021.001",
+    "villageCode": "001",
+    "districtCode": "32.10.021",
+    "name": "Buninagara",
+    "alias": "Buninagara"
+  },
+  {
+    "code": "32.10.021.002",
+    "villageCode": "002",
+    "districtCode": "32.10.021",
+    "name": "Werasari",
+    "alias": "Werasari"
+  },
+  {
+    "code": "32.10.021.003",
+    "villageCode": "003",
+    "districtCode": "32.10.021",
+    "name": "Malausma",
+    "alias": "Malausma"
+  },
+  {
+    "code": "32.10.021.004",
+    "villageCode": "004",
+    "districtCode": "32.10.021",
+    "name": "Banyusari",
+    "alias": "Banyusari"
+  },
+  {
+    "code": "32.10.021.005",
+    "villageCode": "005",
+    "districtCode": "32.10.021",
+    "name": "Jagamulya",
+    "alias": "Jagamulya"
+  },
+  {
+    "code": "32.10.021.006",
+    "villageCode": "006",
+    "districtCode": "32.10.021",
+    "name": "Cimuncang",
+    "alias": "Cimuncang"
+  },
+  {
+    "code": "32.10.021.007",
+    "villageCode": "007",
+    "districtCode": "32.10.021",
+    "name": "Ciranca",
+    "alias": "Ciranca"
+  },
+  {
+    "code": "32.10.021.008",
+    "villageCode": "008",
+    "districtCode": "32.10.021",
+    "name": "Lebakwangi",
+    "alias": "Lebakwangi"
+  },
+  {
+    "code": "32.10.021.009",
+    "villageCode": "009",
+    "districtCode": "32.10.021",
+    "name": "Sukadana",
+    "alias": "Sukadana"
+  },
+  {
+    "code": "32.10.021.010",
+    "villageCode": "010",
+    "districtCode": "32.10.021",
+    "name": "Girimukti",
+    "alias": "Girimukti"
+  },
+  {
+    "code": "32.10.021.011",
+    "villageCode": "011",
+    "districtCode": "32.10.021",
+    "name": "Kramatjaya",
+    "alias": "Kramatjaya"
+  }
+]

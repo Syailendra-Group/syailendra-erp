@@ -1,0 +1,72 @@
+[
+  {
+    "code": "73.04.050.001",
+    "villageCode": "001",
+    "districtCode": "73.04.050",
+    "name": "Tolo",
+    "alias": "Tolo"
+  },
+  {
+    "code": "73.04.050.002",
+    "villageCode": "002",
+    "districtCode": "73.04.050",
+    "name": "Tolo Barat",
+    "alias": "Tolo Barat"
+  },
+  {
+    "code": "73.04.050.003",
+    "villageCode": "003",
+    "districtCode": "73.04.050",
+    "name": "Tolo Selatan",
+    "alias": "Tolo Selatan"
+  },
+  {
+    "code": "73.04.050.004",
+    "villageCode": "004",
+    "districtCode": "73.04.050",
+    "name": "Bontolebang",
+    "alias": "Bontolebang"
+  },
+  {
+    "code": "73.04.050.005",
+    "villageCode": "005",
+    "districtCode": "73.04.050",
+    "name": "Samataring",
+    "alias": "Samataring"
+  },
+  {
+    "code": "73.04.050.006",
+    "villageCode": "006",
+    "districtCode": "73.04.050",
+    "name": "Bonto Nompo",
+    "alias": "Bonto Nompo"
+  },
+  {
+    "code": "73.04.050.007",
+    "villageCode": "007",
+    "districtCode": "73.04.050",
+    "name": "Gantarang",
+    "alias": "Gantarang"
+  },
+  {
+    "code": "73.04.050.008",
+    "villageCode": "008",
+    "districtCode": "73.04.050",
+    "name": "Tombolo",
+    "alias": "Tombolo"
+  },
+  {
+    "code": "73.04.050.009",
+    "villageCode": "009",
+    "districtCode": "73.04.050",
+    "name": "Tolo Timur",
+    "alias": "Tolo Timur"
+  },
+  {
+    "code": "73.04.050.010",
+    "villageCode": "010",
+    "districtCode": "73.04.050",
+    "name": "Tolo Utara",
+    "alias": "Tolo Utara"
+  }
+]

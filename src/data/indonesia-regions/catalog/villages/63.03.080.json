@@ -1,0 +1,86 @@
+[
+  {
+    "code": "63.03.080.001",
+    "villageCode": "001",
+    "districtCode": "63.03.080",
+    "name": "Belangian",
+    "alias": "Belangian"
+  },
+  {
+    "code": "63.03.080.002",
+    "villageCode": "002",
+    "districtCode": "63.03.080",
+    "name": "Pa'Au",
+    "alias": "Pa'Au"
+  },
+  {
+    "code": "63.03.080.003",
+    "villageCode": "003",
+    "districtCode": "63.03.080",
+    "name": "Kalaan",
+    "alias": "Kalaan"
+  },
+  {
+    "code": "63.03.080.004",
+    "villageCode": "004",
+    "districtCode": "63.03.080",
+    "name": "Tiwingan Baru",
+    "alias": "Tiwingan Baru"
+  },
+  {
+    "code": "63.03.080.005",
+    "villageCode": "005",
+    "districtCode": "63.03.080",
+    "name": "Aranio",
+    "alias": "Aranio"
+  },
+  {
+    "code": "63.03.080.006",
+    "villageCode": "006",
+    "districtCode": "63.03.080",
+    "name": "Tiwingan Lama",
+    "alias": "Tiwingan Lama"
+  },
+  {
+    "code": "63.03.080.007",
+    "villageCode": "007",
+    "districtCode": "63.03.080",
+    "name": "Benua Riam",
+    "alias": "Benua Riam"
+  },
+  {
+    "code": "63.03.080.008",
+    "villageCode": "008",
+    "districtCode": "63.03.080",
+    "name": "Artain",
+    "alias": "Artain"
+  },
+  {
+    "code": "63.03.080.009",
+    "villageCode": "009",
+    "districtCode": "63.03.080",
+    "name": "Bunglai",
+    "alias": "Bunglai"
+  },
+  {
+    "code": "63.03.080.010",
+    "villageCode": "010",
+    "districtCode": "63.03.080",
+    "name": "Apuai",
+    "alias": "Apuai"
+  },
+  {
+    "code": "63.03.080.011",
+    "villageCode": "011",
+    "districtCode": "63.03.080",
+    "name": "Rantau Bujur",
+    "alias": "Rantau Bujur"
+  },
+  {
+    "code": "63.03.080.012",
+    "villageCode": "012",
+    "districtCode": "63.03.080",
+    "name": "Rantau Balai",
+    "alias": "Rantau Balai"
+  }
+]

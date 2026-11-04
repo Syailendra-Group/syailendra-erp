@@ -1,0 +1,98 @@
+[
+  {
+    "code": "82.03.010",
+    "districtCode": "010",
+    "regencyCode": "82.03",
+    "provinceCode": "82",
+    "name": "Kecamatan Sula Besi Barat",
+    "alias": "Sula Besi Barat"
+  },
+  {
+    "code": "82.03.011",
+    "districtCode": "011",
+    "regencyCode": "82.03",
+    "provinceCode": "82",
+    "name": "Kecamatan Sulabesi Selatan",
+    "alias": "Sulabesi Selatan"
+  },
+  {
+    "code": "82.03.020",
+    "districtCode": "020",
+    "regencyCode": "82.03",
+    "provinceCode": "82",
+    "name": "Kecamatan Sanana",
+    "alias": "Sanana"
+  },
+  {
+    "code": "82.03.021",
+    "districtCode": "021",
+    "regencyCode": "82.03",
+    "provinceCode": "82",
+    "name": "Kecamatan Sula Besi Tengah",
+    "alias": "Sula Besi Tengah"
+  },
+  {
+    "code": "82.03.022",
+    "districtCode": "022",
+    "regencyCode": "82.03",
+    "provinceCode": "82",
+    "name": "Kecamatan Sulabesi Timur",
+    "alias": "Sulabesi Timur"
+  },
+  {
+    "code": "82.03.023",
+    "districtCode": "023",
+    "regencyCode": "82.03",
+    "provinceCode": "82",
+    "name": "Kecamatan Sanana Utara",
+    "alias": "Sanana Utara"
+  },
+  {
+    "code": "82.03.030",
+    "districtCode": "030",
+    "regencyCode": "82.03",
+    "provinceCode": "82",
+    "name": "Kecamatan Mangoli Timur",
+    "alias": "Mangoli Timur"
+  },
+  {
+    "code": "82.03.031",
+    "districtCode": "031",
+    "regencyCode": "82.03",
+    "provinceCode": "82",
+    "name": "Kecamatan Mangoli Tengah",
+    "alias": "Mangoli Tengah"
+  },
+  {
+    "code": "82.03.032",
+    "districtCode": "032",
+    "regencyCode": "82.03",
+    "provinceCode": "82",
+    "name": "Kecamatan Mangoli Utara Timur",
+    "alias": "Mangoli Utara Timur"
+  },
+  {
+    "code": "82.03.040",
+    "districtCode": "040",
+    "regencyCode": "82.03",
+    "provinceCode": "82",
+    "name": "Kecamatan Mangoli Barat",
+    "alias": "Mangoli Barat"
+  },
+  {
+    "code": "82.03.041",
+    "districtCode": "041",
+    "regencyCode": "82.03",
+    "provinceCode": "82",
+    "name": "Kecamatan Mangoli Utara",
+    "alias": "Mangoli Utara"
+  },
+  {
+    "code": "82.03.042",
+    "districtCode": "042",
+    "regencyCode": "82.03",
+    "provinceCode": "82",
+    "name": "Kecamatan Mangoli Selatan",
+    "alias": "Mangoli Selatan"
+  }
+]

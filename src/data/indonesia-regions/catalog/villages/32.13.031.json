@@ -1,0 +1,58 @@
+[
+  {
+    "code": "32.13.031.001",
+    "villageCode": "001",
+    "districtCode": "32.13.031",
+    "name": "Pasanggrahan",
+    "alias": "Pasanggrahan"
+  },
+  {
+    "code": "32.13.031.002",
+    "villageCode": "002",
+    "districtCode": "32.13.031",
+    "name": "Sindangsari",
+    "alias": "Sindangsari"
+  },
+  {
+    "code": "32.13.031.003",
+    "villageCode": "003",
+    "districtCode": "32.13.031",
+    "name": "Bojongloa",
+    "alias": "Bojongloa"
+  },
+  {
+    "code": "32.13.031.004",
+    "villageCode": "004",
+    "districtCode": "32.13.031",
+    "name": "Tenjolaya",
+    "alias": "Tenjolaya"
+  },
+  {
+    "code": "32.13.031.005",
+    "villageCode": "005",
+    "districtCode": "32.13.031",
+    "name": "Sukamelang",
+    "alias": "Sukamelang"
+  },
+  {
+    "code": "32.13.031.006",
+    "villageCode": "006",
+    "districtCode": "32.13.031",
+    "name": "Kasomalang Wetan",
+    "alias": "Kasomalang Wetan"
+  },
+  {
+    "code": "32.13.031.007",
+    "villageCode": "007",
+    "districtCode": "32.13.031",
+    "name": "Kasomalang Kulon",
+    "alias": "Kasomalang Kulon"
+  },
+  {
+    "code": "32.13.031.008",
+    "villageCode": "008",
+    "districtCode": "32.13.031",
+    "name": "Cimanglid",
+    "alias": "Cimanglid"
+  }
+]

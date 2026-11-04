@@ -1,0 +1,51 @@
+[
+  {
+    "code": "53.02.031.001",
+    "villageCode": "001",
+    "districtCode": "53.02.031",
+    "name": "Prai Salura",
+    "alias": "Prai Salura"
+  },
+  {
+    "code": "53.02.031.002",
+    "villageCode": "002",
+    "districtCode": "53.02.031",
+    "name": "Praimadita",
+    "alias": "Praimadita"
+  },
+  {
+    "code": "53.02.031.003",
+    "villageCode": "003",
+    "districtCode": "53.02.031",
+    "name": "Nggongi",
+    "alias": "Nggongi"
+  },
+  {
+    "code": "53.02.031.004",
+    "villageCode": "004",
+    "districtCode": "53.02.031",
+    "name": "Tandula Jangga",
+    "alias": "Tandula Jangga"
+  },
+  {
+    "code": "53.02.031.005",
+    "villageCode": "005",
+    "districtCode": "53.02.031",
+    "name": "Nangga",
+    "alias": "Nangga"
+  },
+  {
+    "code": "53.02.031.010",
+    "villageCode": "010",
+    "districtCode": "53.02.031",
+    "name": "Jangga Mangu",
+    "alias": "Jangga Mangu"
+  },
+  {
+    "code": "53.02.031.012",
+    "villageCode": "012",
+    "districtCode": "53.02.031",
+    "name": "Ananjaki",
+    "alias": "Ananjaki"
+  }
+]

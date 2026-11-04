@@ -1,0 +1,30 @@
+[
+  {
+    "code": "32.73.090.001",
+    "villageCode": "001",
+    "districtCode": "32.73.090",
+    "name": "Cijaura",
+    "alias": "Cijaura"
+  },
+  {
+    "code": "32.73.090.002",
+    "villageCode": "002",
+    "districtCode": "32.73.090",
+    "name": "Margasari",
+    "alias": "Margasari"
+  },
+  {
+    "code": "32.73.090.003",
+    "villageCode": "003",
+    "districtCode": "32.73.090",
+    "name": "Sekejati",
+    "alias": "Sekejati"
+  },
+  {
+    "code": "32.73.090.004",
+    "villageCode": "004",
+    "districtCode": "32.73.090",
+    "name": "Jati Sari",
+    "alias": "Jati Sari"
+  }
+]

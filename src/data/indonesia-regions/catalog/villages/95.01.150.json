@@ -1,0 +1,72 @@
+[
+  {
+    "code": "95.01.150.001",
+    "villageCode": "001",
+    "districtCode": "95.01.150",
+    "name": "Urumb",
+    "alias": "Urumb"
+  },
+  {
+    "code": "95.01.150.002",
+    "villageCode": "002",
+    "districtCode": "95.01.150",
+    "name": "Sidomulyo",
+    "alias": "Sidomulyo"
+  },
+  {
+    "code": "95.01.150.003",
+    "villageCode": "003",
+    "districtCode": "95.01.150",
+    "name": "Kuprik",
+    "alias": "Kuprik"
+  },
+  {
+    "code": "95.01.150.004",
+    "villageCode": "004",
+    "districtCode": "95.01.150",
+    "name": "Kuper",
+    "alias": "Kuper"
+  },
+  {
+    "code": "95.01.150.005",
+    "villageCode": "005",
+    "districtCode": "95.01.150",
+    "name": "Semangga Jaya",
+    "alias": "Semangga Jaya"
+  },
+  {
+    "code": "95.01.150.006",
+    "villageCode": "006",
+    "districtCode": "95.01.150",
+    "name": "Marga Mulya",
+    "alias": "Marga Mulya"
+  },
+  {
+    "code": "95.01.150.007",
+    "villageCode": "007",
+    "districtCode": "95.01.150",
+    "name": "Waninggap Nanggo",
+    "alias": "Waninggap Nanggo"
+  },
+  {
+    "code": "95.01.150.008",
+    "villageCode": "008",
+    "districtCode": "95.01.150",
+    "name": "Matara",
+    "alias": "Matara"
+  },
+  {
+    "code": "95.01.150.009",
+    "villageCode": "009",
+    "districtCode": "95.01.150",
+    "name": "Muram Sari",
+    "alias": "Muram Sari"
+  },
+  {
+    "code": "95.01.150.010",
+    "villageCode": "010",
+    "districtCode": "95.01.150",
+    "name": "Waninggap Kai",
+    "alias": "Waninggap Kai"
+  }
+]

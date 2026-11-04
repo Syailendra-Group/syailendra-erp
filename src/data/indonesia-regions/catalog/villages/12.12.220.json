@@ -1,0 +1,44 @@
+[
+  {
+    "code": "12.12.220.001",
+    "villageCode": "001",
+    "districtCode": "12.12.220",
+    "name": "Deli Tua Barat",
+    "alias": "Deli Tua Barat"
+  },
+  {
+    "code": "12.12.220.002",
+    "villageCode": "002",
+    "districtCode": "12.12.220",
+    "name": "Deli Tua Timur",
+    "alias": "Deli Tua Timur"
+  },
+  {
+    "code": "12.12.220.003",
+    "villageCode": "003",
+    "districtCode": "12.12.220",
+    "name": "Deli Tua",
+    "alias": "Deli Tua"
+  },
+  {
+    "code": "12.12.220.004",
+    "villageCode": "004",
+    "districtCode": "12.12.220",
+    "name": "Mekar Sari",
+    "alias": "Mekar Sari"
+  },
+  {
+    "code": "12.12.220.005",
+    "villageCode": "005",
+    "districtCode": "12.12.220",
+    "name": "Kedai Durian",
+    "alias": "Kedai Durian"
+  },
+  {
+    "code": "12.12.220.006",
+    "villageCode": "006",
+    "districtCode": "12.12.220",
+    "name": "Suka Makmur",
+    "alias": "Suka Makmur"
+  }
+]

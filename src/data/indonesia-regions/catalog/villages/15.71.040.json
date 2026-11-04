@@ -1,0 +1,30 @@
+[
+  {
+    "code": "15.71.040.001",
+    "villageCode": "001",
+    "districtCode": "15.71.040",
+    "name": "Beringin",
+    "alias": "Beringin"
+  },
+  {
+    "code": "15.71.040.002",
+    "villageCode": "002",
+    "districtCode": "15.71.040",
+    "name": "Sungai Asam",
+    "alias": "Sungai Asam"
+  },
+  {
+    "code": "15.71.040.003",
+    "villageCode": "003",
+    "districtCode": "15.71.040",
+    "name": "Orang Kayo Hitam",
+    "alias": "Orang Kayo Hitam"
+  },
+  {
+    "code": "15.71.040.004",
+    "villageCode": "004",
+    "districtCode": "15.71.040",
+    "name": "Pasar Jambi",
+    "alias": "Pasar Jambi"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "code": "35.14.180.001",
+    "villageCode": "001",
+    "districtCode": "35.14.180",
+    "name": "Susukan Rejo",
+    "alias": "Susukan Rejo"
+  },
+  {
+    "code": "35.14.180.002",
+    "villageCode": "002",
+    "districtCode": "35.14.180",
+    "name": "Warung Dowo",
+    "alias": "Warung Dowo"
+  },
+  {
+    "code": "35.14.180.003",
+    "villageCode": "003",
+    "districtCode": "35.14.180",
+    "name": "Pleret",
+    "alias": "Pleret"
+  },
+  {
+    "code": "35.14.180.004",
+    "villageCode": "004",
+    "districtCode": "35.14.180",
+    "name": "Paras Rejo",
+    "alias": "Paras Rejo"
+  },
+  {
+    "code": "35.14.180.005",
+    "villageCode": "005",
+    "districtCode": "35.14.180",
+    "name": "Logowok",
+    "alias": "Logowok"
+  },
+  {
+    "code": "35.14.180.006",
+    "villageCode": "006",
+    "districtCode": "35.14.180",
+    "name": "Tidu",
+    "alias": "Tidu"
+  },
+  {
+    "code": "35.14.180.007",
+    "villageCode": "007",
+    "districtCode": "35.14.180",
+    "name": "Sungi Wetan",
+    "alias": "Sungi Wetan"
+  },
+  {
+    "code": "35.14.180.008",
+    "villageCode": "008",
+    "districtCode": "35.14.180",
+    "name": "Sungi Kulon",
+    "alias": "Sungi Kulon"
+  },
+  {
+    "code": "35.14.180.009",
+    "villageCode": "009",
+    "districtCode": "35.14.180",
+    "name": "Sukorejo",
+    "alias": "Sukorejo"
+  }
+]

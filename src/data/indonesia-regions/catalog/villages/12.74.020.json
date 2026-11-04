@@ -1,0 +1,51 @@
+[
+  {
+    "code": "12.74.020.005",
+    "villageCode": "005",
+    "districtCode": "12.74.020",
+    "name": "Rantau Laban",
+    "alias": "Rantau Laban"
+  },
+  {
+    "code": "12.74.020.008",
+    "villageCode": "008",
+    "districtCode": "12.74.020",
+    "name": "Sri Padang",
+    "alias": "Sri Padang"
+  },
+  {
+    "code": "12.74.020.009",
+    "villageCode": "009",
+    "districtCode": "12.74.020",
+    "name": "Karya Jaya",
+    "alias": "Karya Jaya"
+  },
+  {
+    "code": "12.74.020.010",
+    "villageCode": "010",
+    "districtCode": "12.74.020",
+    "name": "Lalang",
+    "alias": "Lalang"
+  },
+  {
+    "code": "12.74.020.011",
+    "villageCode": "011",
+    "districtCode": "12.74.020",
+    "name": "Tanjung Marulak",
+    "alias": "Tanjung Marulak"
+  },
+  {
+    "code": "12.74.020.012",
+    "villageCode": "012",
+    "districtCode": "12.74.020",
+    "name": "Tanjung Marulak Hilir",
+    "alias": "Tanjung Marulak Hilir"
+  },
+  {
+    "code": "12.74.020.013",
+    "villageCode": "013",
+    "districtCode": "12.74.020",
+    "name": "Mekar Sentosa",
+    "alias": "Mekar Sentosa"
+  }
+]

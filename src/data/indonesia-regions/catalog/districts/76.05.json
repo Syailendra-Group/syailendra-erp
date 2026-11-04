@@ -1,0 +1,98 @@
+[
+  {
+    "code": "76.05.010",
+    "districtCode": "010",
+    "regencyCode": "76.05",
+    "provinceCode": "76",
+    "name": "Kecamatan Sarudu",
+    "alias": "Sarudu"
+  },
+  {
+    "code": "76.05.011",
+    "districtCode": "011",
+    "regencyCode": "76.05",
+    "provinceCode": "76",
+    "name": "Kecamatan Dapurang",
+    "alias": "Dapurang"
+  },
+  {
+    "code": "76.05.012",
+    "districtCode": "012",
+    "regencyCode": "76.05",
+    "provinceCode": "76",
+    "name": "Kecamatan Duripoku",
+    "alias": "Duripoku"
+  },
+  {
+    "code": "76.05.020",
+    "districtCode": "020",
+    "regencyCode": "76.05",
+    "provinceCode": "76",
+    "name": "Kecamatan Baras",
+    "alias": "Baras"
+  },
+  {
+    "code": "76.05.021",
+    "districtCode": "021",
+    "regencyCode": "76.05",
+    "provinceCode": "76",
+    "name": "Kecamatan Bulu Taba",
+    "alias": "Bulu Taba"
+  },
+  {
+    "code": "76.05.022",
+    "districtCode": "022",
+    "regencyCode": "76.05",
+    "provinceCode": "76",
+    "name": "Kecamatan Lariang",
+    "alias": "Lariang"
+  },
+  {
+    "code": "76.05.030",
+    "districtCode": "030",
+    "regencyCode": "76.05",
+    "provinceCode": "76",
+    "name": "Kecamatan Pasangkayu",
+    "alias": "Pasangkayu"
+  },
+  {
+    "code": "76.05.031",
+    "districtCode": "031",
+    "regencyCode": "76.05",
+    "provinceCode": "76",
+    "name": "Kecamatan Tikke Raya",
+    "alias": "Tikke Raya"
+  },
+  {
+    "code": "76.05.032",
+    "districtCode": "032",
+    "regencyCode": "76.05",
+    "provinceCode": "76",
+    "name": "Kecamatan Pedongga",
+    "alias": "Pedongga"
+  },
+  {
+    "code": "76.05.040",
+    "districtCode": "040",
+    "regencyCode": "76.05",
+    "provinceCode": "76",
+    "name": "Kecamatan Bambalamotu",
+    "alias": "Bambalamotu"
+  },
+  {
+    "code": "76.05.041",
+    "districtCode": "041",
+    "regencyCode": "76.05",
+    "provinceCode": "76",
+    "name": "Kecamatan Bambaira",
+    "alias": "Bambaira"
+  },
+  {
+    "code": "76.05.042",
+    "districtCode": "042",
+    "regencyCode": "76.05",
+    "provinceCode": "76",
+    "name": "Kecamatan Sarjo",
+    "alias": "Sarjo"
+  }
+]

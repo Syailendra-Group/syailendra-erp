@@ -1,0 +1,30 @@
+[
+  {
+    "code": "19.05.050.001",
+    "villageCode": "001",
+    "districtCode": "19.05.050",
+    "name": "Penutuk",
+    "alias": "Penutuk"
+  },
+  {
+    "code": "19.05.050.002",
+    "villageCode": "002",
+    "districtCode": "19.05.050",
+    "name": "Tanjunglabu",
+    "alias": "Tanjunglabu"
+  },
+  {
+    "code": "19.05.050.004",
+    "villageCode": "004",
+    "districtCode": "19.05.050",
+    "name": "Tanjung Sangkar",
+    "alias": "Tanjung Sangkar"
+  },
+  {
+    "code": "19.05.050.005",
+    "villageCode": "005",
+    "districtCode": "19.05.050",
+    "name": "Kumbung",
+    "alias": "Kumbung"
+  }
+]

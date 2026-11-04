@@ -1,0 +1,72 @@
+[
+  {
+    "code": "35.21.090.001",
+    "villageCode": "001",
+    "districtCode": "35.21.090",
+    "name": "Lego Wetan",
+    "alias": "Lego Wetan"
+  },
+  {
+    "code": "35.21.090.002",
+    "villageCode": "002",
+    "districtCode": "35.21.090",
+    "name": "Dero",
+    "alias": "Dero"
+  },
+  {
+    "code": "35.21.090.003",
+    "villageCode": "003",
+    "districtCode": "35.21.090",
+    "name": "Krompol",
+    "alias": "Krompol"
+  },
+  {
+    "code": "35.21.090.004",
+    "villageCode": "004",
+    "districtCode": "35.21.090",
+    "name": "Mojo",
+    "alias": "Mojo"
+  },
+  {
+    "code": "35.21.090.005",
+    "villageCode": "005",
+    "districtCode": "35.21.090",
+    "name": "Sumber Bening",
+    "alias": "Sumber Bening"
+  },
+  {
+    "code": "35.21.090.006",
+    "villageCode": "006",
+    "districtCode": "35.21.090",
+    "name": "Bringin",
+    "alias": "Bringin"
+  },
+  {
+    "code": "35.21.090.007",
+    "villageCode": "007",
+    "districtCode": "35.21.090",
+    "name": "Dampit",
+    "alias": "Dampit"
+  },
+  {
+    "code": "35.21.090.008",
+    "villageCode": "008",
+    "districtCode": "35.21.090",
+    "name": "Suruh",
+    "alias": "Suruh"
+  },
+  {
+    "code": "35.21.090.009",
+    "villageCode": "009",
+    "districtCode": "35.21.090",
+    "name": "Gandong",
+    "alias": "Gandong"
+  },
+  {
+    "code": "35.21.090.010",
+    "villageCode": "010",
+    "districtCode": "35.21.090",
+    "name": "Kenongorejo",
+    "alias": "Kenongorejo"
+  }
+]

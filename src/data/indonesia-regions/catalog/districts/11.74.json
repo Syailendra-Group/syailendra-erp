@@ -1,0 +1,34 @@
+[
+  {
+    "code": "11.74.010",
+    "districtCode": "010",
+    "regencyCode": "11.74",
+    "provinceCode": "11",
+    "name": "Kecamatan Blang Mangat",
+    "alias": "Blang Mangat"
+  },
+  {
+    "code": "11.74.020",
+    "districtCode": "020",
+    "regencyCode": "11.74",
+    "provinceCode": "11",
+    "name": "Kecamatan Muara Dua",
+    "alias": "Muara Dua"
+  },
+  {
+    "code": "11.74.021",
+    "districtCode": "021",
+    "regencyCode": "11.74",
+    "provinceCode": "11",
+    "name": "Kecamatan Muara Satu",
+    "alias": "Muara Satu"
+  },
+  {
+    "code": "11.74.030",
+    "districtCode": "030",
+    "regencyCode": "11.74",
+    "provinceCode": "11",
+    "name": "Kecamatan Banda Sakti",
+    "alias": "Banda Sakti"
+  }
+]

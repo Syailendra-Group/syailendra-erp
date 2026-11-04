@@ -1,0 +1,65 @@
+[
+  {
+    "code": "97.03.220.001",
+    "villageCode": "001",
+    "districtCode": "97.03.220",
+    "name": "Bruyugu",
+    "alias": "Bruyugu"
+  },
+  {
+    "code": "97.03.220.002",
+    "villageCode": "002",
+    "districtCode": "97.03.220",
+    "name": "Wame",
+    "alias": "Wame"
+  },
+  {
+    "code": "97.03.220.003",
+    "villageCode": "003",
+    "districtCode": "97.03.220",
+    "name": "Ekaba",
+    "alias": "Ekaba"
+  },
+  {
+    "code": "97.03.220.004",
+    "villageCode": "004",
+    "districtCode": "97.03.220",
+    "name": "Ogodome",
+    "alias": "Ogodome"
+  },
+  {
+    "code": "97.03.220.005",
+    "villageCode": "005",
+    "districtCode": "97.03.220",
+    "name": "Longgapura",
+    "alias": "Longgapura"
+  },
+  {
+    "code": "97.03.220.006",
+    "villageCode": "006",
+    "districtCode": "97.03.220",
+    "name": "Wumbugi",
+    "alias": "Wumbugi"
+  },
+  {
+    "code": "97.03.220.007",
+    "villageCode": "007",
+    "districtCode": "97.03.220",
+    "name": "Tikuluk",
+    "alias": "Tikuluk"
+  },
+  {
+    "code": "97.03.220.008",
+    "villageCode": "008",
+    "districtCode": "97.03.220",
+    "name": "Birik",
+    "alias": "Birik"
+  },
+  {
+    "code": "97.03.220.009",
+    "villageCode": "009",
+    "districtCode": "97.03.220",
+    "name": "Yalogu",
+    "alias": "Yalogu"
+  }
+]

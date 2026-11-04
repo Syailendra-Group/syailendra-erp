@@ -1,0 +1,65 @@
+[
+  {
+    "code": "15.06.060.001",
+    "villageCode": "001",
+    "districtCode": "15.06.060",
+    "name": "Sungai Benuh",
+    "alias": "Sungai Benuh"
+  },
+  {
+    "code": "15.06.060.002",
+    "villageCode": "002",
+    "districtCode": "15.06.060",
+    "name": "Labuhan Pering",
+    "alias": "Labuhan Pering"
+  },
+  {
+    "code": "15.06.060.003",
+    "villageCode": "003",
+    "districtCode": "15.06.060",
+    "name": "Sungai Cemara",
+    "alias": "Sungai Cemara"
+  },
+  {
+    "code": "15.06.060.004",
+    "villageCode": "004",
+    "districtCode": "15.06.060",
+    "name": "Air Hitam Laut",
+    "alias": "Air Hitam Laut"
+  },
+  {
+    "code": "15.06.060.005",
+    "villageCode": "005",
+    "districtCode": "15.06.060",
+    "name": "Remau Baku Tuo",
+    "alias": "Remau Baku Tuo"
+  },
+  {
+    "code": "15.06.060.006",
+    "villageCode": "006",
+    "districtCode": "15.06.060",
+    "name": "Sungai Sayang",
+    "alias": "Sungai Sayang"
+  },
+  {
+    "code": "15.06.060.007",
+    "villageCode": "007",
+    "districtCode": "15.06.060",
+    "name": "Sungai Jambat",
+    "alias": "Sungai Jambat"
+  },
+  {
+    "code": "15.06.060.008",
+    "villageCode": "008",
+    "districtCode": "15.06.060",
+    "name": "Sungai Lokan",
+    "alias": "Sungai Lokan"
+  },
+  {
+    "code": "15.06.060.009",
+    "villageCode": "009",
+    "districtCode": "15.06.060",
+    "name": "Sungai Itik",
+    "alias": "Sungai Itik"
+  }
+]

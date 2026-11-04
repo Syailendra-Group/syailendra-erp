@@ -35,6 +35,7 @@ export function DataTableColumnHeader<TData, TValue>({ column, title, className 
             )}
           </Button>
         </DropdownMenuTrigger>
+
         <DropdownMenuContent align="start">
           <DropdownMenuItem onClick={() => column.toggleSorting(false)} className="cursor-pointer text-xs">
             <ArrowUp className="text-muted-foreground/70 mr-2 h-3.5 w-3.5" />
@@ -48,7 +49,9 @@ export function DataTableColumnHeader<TData, TValue>({ column, title, className 
             <RotateCcw className="text-muted-foreground/70 mr-2 h-3.5 w-3.5" />
             {tTable('default')}
           </DropdownMenuItem>
+
           <DropdownMenuSeparator />
+
           <DropdownMenuItem onClick={() => column.toggleVisibility(false)} className="cursor-pointer text-xs">
             <EyeOff className="text-muted-foreground/70 mr-2 h-3.5 w-3.5" />
             {tTable('hide')}

@@ -1,0 +1,65 @@
+[
+  {
+    "code": "92.04.230.001",
+    "villageCode": "001",
+    "districtCode": "92.04.230",
+    "name": "Fase",
+    "alias": "Fase"
+  },
+  {
+    "code": "92.04.230.002",
+    "villageCode": "002",
+    "districtCode": "92.04.230",
+    "name": "Sidi",
+    "alias": "Sidi"
+  },
+  {
+    "code": "92.04.230.003",
+    "villageCode": "003",
+    "districtCode": "92.04.230",
+    "name": "Seni",
+    "alias": "Seni"
+  },
+  {
+    "code": "92.04.230.004",
+    "villageCode": "004",
+    "districtCode": "92.04.230",
+    "name": "Osom",
+    "alias": "Osom"
+  },
+  {
+    "code": "92.04.230.005",
+    "villageCode": "005",
+    "districtCode": "92.04.230",
+    "name": "Kuraso",
+    "alias": "Kuraso"
+  },
+  {
+    "code": "92.04.230.006",
+    "villageCode": "006",
+    "districtCode": "92.04.230",
+    "name": "Sire Timur",
+    "alias": "Sire Timur"
+  },
+  {
+    "code": "92.04.230.007",
+    "villageCode": "007",
+    "districtCode": "92.04.230",
+    "name": "Sire",
+    "alias": "Sire"
+  },
+  {
+    "code": "92.04.230.008",
+    "villageCode": "008",
+    "districtCode": "92.04.230",
+    "name": "Renis",
+    "alias": "Renis"
+  },
+  {
+    "code": "92.04.230.009",
+    "villageCode": "009",
+    "districtCode": "92.04.230",
+    "name": "Sabes",
+    "alias": "Sabes"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "code": "63.06.091.001",
+    "villageCode": "001",
+    "districtCode": "63.06.091",
+    "name": "Bajayau Lama",
+    "alias": "Bajayau Lama"
+  },
+  {
+    "code": "63.06.091.002",
+    "villageCode": "002",
+    "districtCode": "63.06.091",
+    "name": "Tanjung Selor",
+    "alias": "Tanjung Selor"
+  },
+  {
+    "code": "63.06.091.003",
+    "villageCode": "003",
+    "districtCode": "63.06.091",
+    "name": "Badaun",
+    "alias": "Badaun"
+  },
+  {
+    "code": "63.06.091.004",
+    "villageCode": "004",
+    "districtCode": "63.06.091",
+    "name": "Bajayau Tengah",
+    "alias": "Bajayau Tengah"
+  },
+  {
+    "code": "63.06.091.005",
+    "villageCode": "005",
+    "districtCode": "63.06.091",
+    "name": "Bajayau",
+    "alias": "Bajayau"
+  },
+  {
+    "code": "63.06.091.006",
+    "villageCode": "006",
+    "districtCode": "63.06.091",
+    "name": "Baru",
+    "alias": "Baru"
+  },
+  {
+    "code": "63.06.091.007",
+    "villageCode": "007",
+    "districtCode": "63.06.091",
+    "name": "Siang Gantung",
+    "alias": "Siang Gantung"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "code": "19.03.050.001",
+    "villageCode": "001",
+    "districtCode": "19.03.050",
+    "name": "Jebus",
+    "alias": "Jebus"
+  },
+  {
+    "code": "19.03.050.002",
+    "villageCode": "002",
+    "districtCode": "19.03.050",
+    "name": "Tumbak Petar",
+    "alias": "Tumbak Petar"
+  },
+  {
+    "code": "19.03.050.003",
+    "villageCode": "003",
+    "districtCode": "19.03.050",
+    "name": "Limbung",
+    "alias": "Limbung"
+  },
+  {
+    "code": "19.03.050.004",
+    "villageCode": "004",
+    "districtCode": "19.03.050",
+    "name": "Rukam",
+    "alias": "Rukam"
+  },
+  {
+    "code": "19.03.050.009",
+    "villageCode": "009",
+    "districtCode": "19.03.050",
+    "name": "Ranggi Asam",
+    "alias": "Ranggi Asam"
+  },
+  {
+    "code": "19.03.050.010",
+    "villageCode": "010",
+    "districtCode": "19.03.050",
+    "name": "Sungai Buluh",
+    "alias": "Sungai Buluh"
+  },
+  {
+    "code": "19.03.050.011",
+    "villageCode": "011",
+    "districtCode": "19.03.050",
+    "name": "Ketap",
+    "alias": "Ketap"
+  },
+  {
+    "code": "19.03.050.018",
+    "villageCode": "018",
+    "districtCode": "19.03.050",
+    "name": "Mislak",
+    "alias": "Mislak"
+  },
+  {
+    "code": "19.03.050.019",
+    "villageCode": "019",
+    "districtCode": "19.03.050",
+    "name": "Air Kuang",
+    "alias": "Air Kuang"
+  },
+  {
+    "code": "19.03.050.020",
+    "villageCode": "020",
+    "districtCode": "19.03.050",
+    "name": "Pebuar",
+    "alias": "Pebuar"
+  },
+  {
+    "code": "19.03.050.021",
+    "villageCode": "021",
+    "districtCode": "19.03.050",
+    "name": "Sinar Manik",
+    "alias": "Sinar Manik"
+  }
+]

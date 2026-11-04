@@ -1,0 +1,72 @@
+[
+  {
+    "code": "33.01.070.001",
+    "villageCode": "001",
+    "districtCode": "33.01.070",
+    "name": "Tegalsari",
+    "alias": "Tegalsari"
+  },
+  {
+    "code": "33.01.070.002",
+    "villageCode": "002",
+    "districtCode": "33.01.070",
+    "name": "Margasari",
+    "alias": "Margasari"
+  },
+  {
+    "code": "33.01.070.003",
+    "villageCode": "003",
+    "districtCode": "33.01.070",
+    "name": "Tinggarjaya",
+    "alias": "Tinggarjaya"
+  },
+  {
+    "code": "33.01.070.004",
+    "villageCode": "004",
+    "districtCode": "33.01.070",
+    "name": "Gunungreja",
+    "alias": "Gunungreja"
+  },
+  {
+    "code": "33.01.070.005",
+    "villageCode": "005",
+    "districtCode": "33.01.070",
+    "name": "Sidareja",
+    "alias": "Sidareja"
+  },
+  {
+    "code": "33.01.070.006",
+    "villageCode": "006",
+    "districtCode": "33.01.070",
+    "name": "Sidamulya",
+    "alias": "Sidamulya"
+  },
+  {
+    "code": "33.01.070.007",
+    "villageCode": "007",
+    "districtCode": "33.01.070",
+    "name": "Sudagaran",
+    "alias": "Sudagaran"
+  },
+  {
+    "code": "33.01.070.008",
+    "villageCode": "008",
+    "districtCode": "33.01.070",
+    "name": "Kunci",
+    "alias": "Kunci"
+  },
+  {
+    "code": "33.01.070.009",
+    "villageCode": "009",
+    "districtCode": "33.01.070",
+    "name": "Karanggedang",
+    "alias": "Karanggedang"
+  },
+  {
+    "code": "33.01.070.010",
+    "villageCode": "010",
+    "districtCode": "33.01.070",
+    "name": "Penyarang",
+    "alias": "Penyarang"
+  }
+]

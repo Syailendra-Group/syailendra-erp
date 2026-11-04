@@ -1,0 +1,121 @@
+[
+  {
+    "code": "53.02.020.001",
+    "villageCode": "001",
+    "districtCode": "53.02.020",
+    "name": "Tarimbang",
+    "alias": "Tarimbang"
+  },
+  {
+    "code": "53.02.020.002",
+    "villageCode": "002",
+    "districtCode": "53.02.020",
+    "name": "Tapil",
+    "alias": "Tapil"
+  },
+  {
+    "code": "53.02.020.003",
+    "villageCode": "003",
+    "districtCode": "53.02.020",
+    "name": "Billa",
+    "alias": "Billa"
+  },
+  {
+    "code": "53.02.020.004",
+    "villageCode": "004",
+    "districtCode": "53.02.020",
+    "name": "Praing Kareha",
+    "alias": "Praing Kareha"
+  },
+  {
+    "code": "53.02.020.010",
+    "villageCode": "010",
+    "districtCode": "53.02.020",
+    "name": "Waikanabu",
+    "alias": "Waikanabu"
+  },
+  {
+    "code": "53.02.020.011",
+    "villageCode": "011",
+    "districtCode": "53.02.020",
+    "name": "Karita",
+    "alias": "Karita"
+  },
+  {
+    "code": "53.02.020.013",
+    "villageCode": "013",
+    "districtCode": "53.02.020",
+    "name": "Wudi Pandak",
+    "alias": "Wudi Pandak"
+  },
+  {
+    "code": "53.02.020.014",
+    "villageCode": "014",
+    "districtCode": "53.02.020",
+    "name": "Pindu Hurani",
+    "alias": "Pindu Hurani"
+  },
+  {
+    "code": "53.02.020.015",
+    "villageCode": "015",
+    "districtCode": "53.02.020",
+    "name": "Kuki Talu",
+    "alias": "Kuki Talu"
+  },
+  {
+    "code": "53.02.020.016",
+    "villageCode": "016",
+    "districtCode": "53.02.020",
+    "name": "Bangga Watu",
+    "alias": "Bangga Watu"
+  },
+  {
+    "code": "53.02.020.017",
+    "villageCode": "017",
+    "districtCode": "53.02.020",
+    "name": "Desa Persiapan Marada Bokul",
+    "alias": "Desa Persiapan Marada Bokul"
+  },
+  {
+    "code": "53.02.020.018",
+    "villageCode": "018",
+    "districtCode": "53.02.020",
+    "name": "Desa Persiapan Uimanu",
+    "alias": "Desa Persiapan Uimanu"
+  },
+  {
+    "code": "53.02.020.019",
+    "villageCode": "019",
+    "districtCode": "53.02.020",
+    "name": "Desa Persiapan Primundi",
+    "alias": "Desa Persiapan Primundi"
+  },
+  {
+    "code": "53.02.020.020",
+    "villageCode": "020",
+    "districtCode": "53.02.020",
+    "name": "Desa Persiapan Watu Bokul",
+    "alias": "Desa Persiapan Watu Bokul"
+  },
+  {
+    "code": "53.02.020.021",
+    "villageCode": "021",
+    "districtCode": "53.02.020",
+    "name": "Desa Persiapan Prakomba",
+    "alias": "Desa Persiapan Prakomba"
+  },
+  {
+    "code": "53.02.020.022",
+    "villageCode": "022",
+    "districtCode": "53.02.020",
+    "name": "Desa Persiapan Taralodu",
+    "alias": "Desa Persiapan Taralodu"
+  },
+  {
+    "code": "53.02.020.023",
+    "villageCode": "023",
+    "districtCode": "53.02.020",
+    "name": "Desa Persiapan Laputi",
+    "alias": "Desa Persiapan Laputi"
+  }
+]

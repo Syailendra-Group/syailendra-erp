@@ -1,0 +1,72 @@
+[
+  {
+    "code": "74.04.031.001",
+    "villageCode": "001",
+    "districtCode": "74.04.031",
+    "name": "Longori",
+    "alias": "Longori"
+  },
+  {
+    "code": "74.04.031.002",
+    "villageCode": "002",
+    "districtCode": "74.04.031",
+    "name": "Puundoho",
+    "alias": "Puundoho"
+  },
+  {
+    "code": "74.04.031.003",
+    "villageCode": "003",
+    "districtCode": "74.04.031",
+    "name": "Puulemo",
+    "alias": "Puulemo"
+  },
+  {
+    "code": "74.04.031.004",
+    "villageCode": "004",
+    "districtCode": "74.04.031",
+    "name": "Baula",
+    "alias": "Baula"
+  },
+  {
+    "code": "74.04.031.005",
+    "villageCode": "005",
+    "districtCode": "74.04.031",
+    "name": "Puubenua",
+    "alias": "Puubenua"
+  },
+  {
+    "code": "74.04.031.006",
+    "villageCode": "006",
+    "districtCode": "74.04.031",
+    "name": "Puubunga",
+    "alias": "Puubunga"
+  },
+  {
+    "code": "74.04.031.007",
+    "villageCode": "007",
+    "districtCode": "74.04.031",
+    "name": "Puuroda",
+    "alias": "Puuroda"
+  },
+  {
+    "code": "74.04.031.008",
+    "villageCode": "008",
+    "districtCode": "74.04.031",
+    "name": "Pewutaa",
+    "alias": "Pewutaa"
+  },
+  {
+    "code": "74.04.031.009",
+    "villageCode": "009",
+    "districtCode": "74.04.031",
+    "name": "Watalara",
+    "alias": "Watalara"
+  },
+  {
+    "code": "74.04.031.010",
+    "villageCode": "010",
+    "districtCode": "74.04.031",
+    "name": "Ulu Baula",
+    "alias": "Ulu Baula"
+  }
+]

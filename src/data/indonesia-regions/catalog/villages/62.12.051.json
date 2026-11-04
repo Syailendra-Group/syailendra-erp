@@ -1,0 +1,65 @@
+[
+  {
+    "code": "62.12.051.001",
+    "villageCode": "001",
+    "districtCode": "62.12.051",
+    "name": "Unsum",
+    "alias": "Unsum"
+  },
+  {
+    "code": "62.12.051.002",
+    "villageCode": "002",
+    "districtCode": "62.12.051",
+    "name": "Baruyan",
+    "alias": "Baruyan"
+  },
+  {
+    "code": "62.12.051.003",
+    "villageCode": "003",
+    "districtCode": "62.12.051",
+    "name": "Lenggang",
+    "alias": "Lenggang"
+  },
+  {
+    "code": "62.12.051.004",
+    "villageCode": "004",
+    "districtCode": "62.12.051",
+    "name": "Puri",
+    "alias": "Puri"
+  },
+  {
+    "code": "62.12.051.005",
+    "villageCode": "005",
+    "districtCode": "62.12.051",
+    "name": "Batuah",
+    "alias": "Batuah"
+  },
+  {
+    "code": "62.12.051.006",
+    "villageCode": "006",
+    "districtCode": "62.12.051",
+    "name": "Turan Amis",
+    "alias": "Turan Amis"
+  },
+  {
+    "code": "62.12.051.007",
+    "villageCode": "007",
+    "districtCode": "62.12.051",
+    "name": "Tangkum",
+    "alias": "Tangkum"
+  },
+  {
+    "code": "62.12.051.008",
+    "villageCode": "008",
+    "districtCode": "62.12.051",
+    "name": "Sibung",
+    "alias": "Sibung"
+  },
+  {
+    "code": "62.12.051.009",
+    "villageCode": "009",
+    "districtCode": "62.12.051",
+    "name": "Malintut",
+    "alias": "Malintut"
+  }
+]

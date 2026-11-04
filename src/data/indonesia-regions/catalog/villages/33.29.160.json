@@ -1,0 +1,156 @@
+[
+  {
+    "code": "33.29.160.001",
+    "villageCode": "001",
+    "districtCode": "33.29.160",
+    "name": "Kebogadung",
+    "alias": "Kebogadung"
+  },
+  {
+    "code": "33.29.160.002",
+    "villageCode": "002",
+    "districtCode": "33.29.160",
+    "name": "Kebonagung",
+    "alias": "Kebonagung"
+  },
+  {
+    "code": "33.29.160.003",
+    "villageCode": "003",
+    "districtCode": "33.29.160",
+    "name": "Klampis",
+    "alias": "Klampis"
+  },
+  {
+    "code": "33.29.160.004",
+    "villageCode": "004",
+    "districtCode": "33.29.160",
+    "name": "Kemiriamba",
+    "alias": "Kemiriamba"
+  },
+  {
+    "code": "33.29.160.005",
+    "villageCode": "005",
+    "districtCode": "33.29.160",
+    "name": "Jatibarang Kidul",
+    "alias": "Jatibarang Kidul"
+  },
+  {
+    "code": "33.29.160.006",
+    "villageCode": "006",
+    "districtCode": "33.29.160",
+    "name": "Karanglo",
+    "alias": "Karanglo"
+  },
+  {
+    "code": "33.29.160.007",
+    "villageCode": "007",
+    "districtCode": "33.29.160",
+    "name": "Tegalwulung",
+    "alias": "Tegalwulung"
+  },
+  {
+    "code": "33.29.160.008",
+    "villageCode": "008",
+    "districtCode": "33.29.160",
+    "name": "Jatibarang Lor",
+    "alias": "Jatibarang Lor"
+  },
+  {
+    "code": "33.29.160.009",
+    "villageCode": "009",
+    "districtCode": "33.29.160",
+    "name": "Pamengger",
+    "alias": "Pamengger"
+  },
+  {
+    "code": "33.29.160.010",
+    "villageCode": "010",
+    "districtCode": "33.29.160",
+    "name": "Kertasinduyasa",
+    "alias": "Kertasinduyasa"
+  },
+  {
+    "code": "33.29.160.011",
+    "villageCode": "011",
+    "districtCode": "33.29.160",
+    "name": "Janegara",
+    "alias": "Janegara"
+  },
+  {
+    "code": "33.29.160.012",
+    "villageCode": "012",
+    "districtCode": "33.29.160",
+    "name": "Kendawa",
+    "alias": "Kendawa"
+  },
+  {
+    "code": "33.29.160.013",
+    "villageCode": "013",
+    "districtCode": "33.29.160",
+    "name": "Klikiran",
+    "alias": "Klikiran"
+  },
+  {
+    "code": "33.29.160.014",
+    "villageCode": "014",
+    "districtCode": "33.29.160",
+    "name": "Bojong",
+    "alias": "Bojong"
+  },
+  {
+    "code": "33.29.160.015",
+    "villageCode": "015",
+    "districtCode": "33.29.160",
+    "name": "Buaran",
+    "alias": "Buaran"
+  },
+  {
+    "code": "33.29.160.016",
+    "villageCode": "016",
+    "districtCode": "33.29.160",
+    "name": "Kedungtukang",
+    "alias": "Kedungtukang"
+  },
+  {
+    "code": "33.29.160.017",
+    "villageCode": "017",
+    "districtCode": "33.29.160",
+    "name": "Rengasbandung",
+    "alias": "Rengasbandung"
+  },
+  {
+    "code": "33.29.160.018",
+    "villageCode": "018",
+    "districtCode": "33.29.160",
+    "name": "Tembelang",
+    "alias": "Tembelang"
+  },
+  {
+    "code": "33.29.160.019",
+    "villageCode": "019",
+    "districtCode": "33.29.160",
+    "name": "Pedeslohor",
+    "alias": "Pedeslohor"
+  },
+  {
+    "code": "33.29.160.020",
+    "villageCode": "020",
+    "districtCode": "33.29.160",
+    "name": "Kramat",
+    "alias": "Kramat"
+  },
+  {
+    "code": "33.29.160.021",
+    "villageCode": "021",
+    "districtCode": "33.29.160",
+    "name": "Kalipucang",
+    "alias": "Kalipucang"
+  },
+  {
+    "code": "33.29.160.022",
+    "villageCode": "022",
+    "districtCode": "33.29.160",
+    "name": "Kalialang",
+    "alias": "Kalialang"
+  }
+]

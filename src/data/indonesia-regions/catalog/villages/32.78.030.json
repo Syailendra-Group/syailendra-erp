@@ -1,0 +1,65 @@
+[
+  {
+    "code": "32.78.030.001",
+    "villageCode": "001",
+    "districtCode": "32.78.030",
+    "name": "Ciherang",
+    "alias": "Ciherang"
+  },
+  {
+    "code": "32.78.030.002",
+    "villageCode": "002",
+    "districtCode": "32.78.030",
+    "name": "Ciakar",
+    "alias": "Ciakar"
+  },
+  {
+    "code": "32.78.030.003",
+    "villageCode": "003",
+    "districtCode": "32.78.030",
+    "name": "Margabakti",
+    "alias": "Margabakti"
+  },
+  {
+    "code": "32.78.030.004",
+    "villageCode": "004",
+    "districtCode": "32.78.030",
+    "name": "Awipari",
+    "alias": "Awipari"
+  },
+  {
+    "code": "32.78.030.005",
+    "villageCode": "005",
+    "districtCode": "32.78.030",
+    "name": "Kotabaru",
+    "alias": "Kotabaru"
+  },
+  {
+    "code": "32.78.030.006",
+    "villageCode": "006",
+    "districtCode": "32.78.030",
+    "name": "Kersanagara",
+    "alias": "Kersanagara"
+  },
+  {
+    "code": "32.78.030.007",
+    "villageCode": "007",
+    "districtCode": "32.78.030",
+    "name": "Setiajaya",
+    "alias": "Setiajaya"
+  },
+  {
+    "code": "32.78.030.008",
+    "villageCode": "008",
+    "districtCode": "32.78.030",
+    "name": "Setiaratu",
+    "alias": "Setiaratu"
+  },
+  {
+    "code": "32.78.030.009",
+    "villageCode": "009",
+    "districtCode": "32.78.030",
+    "name": "Setianagara",
+    "alias": "Setianagara"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "code": "33.25.091.001",
+    "villageCode": "001",
+    "districtCode": "33.25.091",
+    "name": "Pretek",
+    "alias": "Pretek"
+  },
+  {
+    "code": "33.25.091.002",
+    "villageCode": "002",
+    "districtCode": "33.25.091",
+    "name": "Siguci",
+    "alias": "Siguci"
+  },
+  {
+    "code": "33.25.091.003",
+    "villageCode": "003",
+    "districtCode": "33.25.091",
+    "name": "Selokarto",
+    "alias": "Selokarto"
+  },
+  {
+    "code": "33.25.091.004",
+    "villageCode": "004",
+    "districtCode": "33.25.091",
+    "name": "Gemuh",
+    "alias": "Gemuh"
+  },
+  {
+    "code": "33.25.091.005",
+    "villageCode": "005",
+    "districtCode": "33.25.091",
+    "name": "Gumawang",
+    "alias": "Gumawang"
+  },
+  {
+    "code": "33.25.091.006",
+    "villageCode": "006",
+    "districtCode": "33.25.091",
+    "name": "Keniten",
+    "alias": "Keniten"
+  },
+  {
+    "code": "33.25.091.007",
+    "villageCode": "007",
+    "districtCode": "33.25.091",
+    "name": "Randu",
+    "alias": "Randu"
+  },
+  {
+    "code": "33.25.091.008",
+    "villageCode": "008",
+    "districtCode": "33.25.091",
+    "name": "Gombong",
+    "alias": "Gombong"
+  },
+  {
+    "code": "33.25.091.009",
+    "villageCode": "009",
+    "districtCode": "33.25.091",
+    "name": "Pecalungan",
+    "alias": "Pecalungan"
+  },
+  {
+    "code": "33.25.091.010",
+    "villageCode": "010",
+    "districtCode": "33.25.091",
+    "name": "Bandung",
+    "alias": "Bandung"
+  }
+]

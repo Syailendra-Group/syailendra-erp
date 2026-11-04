@@ -1,0 +1,72 @@
+[
+  {
+    "code": "73.01.042.001",
+    "villageCode": "001",
+    "districtCode": "73.01.042",
+    "name": "Parak",
+    "alias": "Parak"
+  },
+  {
+    "code": "73.01.042.002",
+    "villageCode": "002",
+    "districtCode": "73.01.042",
+    "name": "Jambuiya",
+    "alias": "Jambuiya"
+  },
+  {
+    "code": "73.01.042.003",
+    "villageCode": "003",
+    "districtCode": "73.01.042",
+    "name": "Bontomarannu",
+    "alias": "Bontomarannu"
+  },
+  {
+    "code": "73.01.042.004",
+    "villageCode": "004",
+    "districtCode": "73.01.042",
+    "name": "Bonea Timur",
+    "alias": "Bonea Timur"
+  },
+  {
+    "code": "73.01.042.005",
+    "villageCode": "005",
+    "districtCode": "73.01.042",
+    "name": "Mare Mare",
+    "alias": "Mare Mare"
+  },
+  {
+    "code": "73.01.042.006",
+    "villageCode": "006",
+    "districtCode": "73.01.042",
+    "name": "Barugaiya",
+    "alias": "Barugaiya"
+  },
+  {
+    "code": "73.01.042.007",
+    "villageCode": "007",
+    "districtCode": "73.01.042",
+    "name": "Polebungin",
+    "alias": "Polebungin"
+  },
+  {
+    "code": "73.01.042.008",
+    "villageCode": "008",
+    "districtCode": "73.01.042",
+    "name": "Bonea Makmur",
+    "alias": "Bonea Makmur"
+  },
+  {
+    "code": "73.01.042.009",
+    "villageCode": "009",
+    "districtCode": "73.01.042",
+    "name": "Bontokoraang",
+    "alias": "Bontokoraang"
+  },
+  {
+    "code": "73.01.042.010",
+    "villageCode": "010",
+    "districtCode": "73.01.042",
+    "name": "Kaburu",
+    "alias": "Kaburu"
+  }
+]

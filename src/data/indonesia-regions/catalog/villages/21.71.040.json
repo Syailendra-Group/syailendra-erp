@@ -1,0 +1,30 @@
+[
+  {
+    "code": "21.71.040.003",
+    "villageCode": "003",
+    "districtCode": "21.71.040",
+    "name": "Tanjung Piayu",
+    "alias": "Tanjung Piayu"
+  },
+  {
+    "code": "21.71.040.004",
+    "villageCode": "004",
+    "districtCode": "21.71.040",
+    "name": "Muka Kuning",
+    "alias": "Muka Kuning"
+  },
+  {
+    "code": "21.71.040.005",
+    "villageCode": "005",
+    "districtCode": "21.71.040",
+    "name": "Duriangkang",
+    "alias": "Duriangkang"
+  },
+  {
+    "code": "21.71.040.006",
+    "villageCode": "006",
+    "districtCode": "21.71.040",
+    "name": "Mangsang",
+    "alias": "Mangsang"
+  }
+]

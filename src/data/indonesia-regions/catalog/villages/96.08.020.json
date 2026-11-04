@@ -1,0 +1,72 @@
+[
+  {
+    "code": "96.08.020.001",
+    "villageCode": "001",
+    "districtCode": "96.08.020",
+    "name": "Guweri",
+    "alias": "Guweri"
+  },
+  {
+    "code": "96.08.020.002",
+    "villageCode": "002",
+    "districtCode": "96.08.020",
+    "name": "Dagai",
+    "alias": "Dagai"
+  },
+  {
+    "code": "96.08.020.003",
+    "villageCode": "003",
+    "districtCode": "96.08.020",
+    "name": "Mbomban",
+    "alias": "Mbomban"
+  },
+  {
+    "code": "96.08.020.004",
+    "villageCode": "004",
+    "districtCode": "96.08.020",
+    "name": "Yeihineri",
+    "alias": "Yeihineri"
+  },
+  {
+    "code": "96.08.020.005",
+    "villageCode": "005",
+    "districtCode": "96.08.020",
+    "name": "Mandaralani",
+    "alias": "Mandaralani"
+  },
+  {
+    "code": "96.08.020.006",
+    "villageCode": "006",
+    "districtCode": "96.08.020",
+    "name": "Debite",
+    "alias": "Debite"
+  },
+  {
+    "code": "96.08.020.007",
+    "villageCode": "007",
+    "districtCode": "96.08.020",
+    "name": "Dagai 2",
+    "alias": "Dagai 2"
+  },
+  {
+    "code": "96.08.020.008",
+    "villageCode": "008",
+    "districtCode": "96.08.020",
+    "name": "Deide",
+    "alias": "Deide"
+  },
+  {
+    "code": "96.08.020.009",
+    "villageCode": "009",
+    "districtCode": "96.08.020",
+    "name": "Faride",
+    "alias": "Faride"
+  },
+  {
+    "code": "96.08.020.010",
+    "villageCode": "010",
+    "districtCode": "96.08.020",
+    "name": "Soi",
+    "alias": "Soi"
+  }
+]

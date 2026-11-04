@@ -1,0 +1,65 @@
+[
+  {
+    "code": "64.01.010.009",
+    "villageCode": "009",
+    "districtCode": "64.01.010",
+    "name": "Samurangau",
+    "alias": "Samurangau"
+  },
+  {
+    "code": "64.01.010.010",
+    "villageCode": "010",
+    "districtCode": "64.01.010",
+    "name": "Busui",
+    "alias": "Busui"
+  },
+  {
+    "code": "64.01.010.011",
+    "villageCode": "011",
+    "districtCode": "64.01.010",
+    "name": "Batu Kajang",
+    "alias": "Batu Kajang"
+  },
+  {
+    "code": "64.01.010.012",
+    "villageCode": "012",
+    "districtCode": "64.01.010",
+    "name": "Legai",
+    "alias": "Legai"
+  },
+  {
+    "code": "64.01.010.013",
+    "villageCode": "013",
+    "districtCode": "64.01.010",
+    "name": "Sungai Terik",
+    "alias": "Sungai Terik"
+  },
+  {
+    "code": "64.01.010.014",
+    "villageCode": "014",
+    "districtCode": "64.01.010",
+    "name": "Kasungai",
+    "alias": "Kasungai"
+  },
+  {
+    "code": "64.01.010.015",
+    "villageCode": "015",
+    "districtCode": "64.01.010",
+    "name": "Rantau Buta",
+    "alias": "Rantau Buta"
+  },
+  {
+    "code": "64.01.010.016",
+    "villageCode": "016",
+    "districtCode": "64.01.010",
+    "name": "Rantau Layung",
+    "alias": "Rantau Layung"
+  },
+  {
+    "code": "64.01.010.017",
+    "villageCode": "017",
+    "districtCode": "64.01.010",
+    "name": "Songka",
+    "alias": "Songka"
+  }
+]

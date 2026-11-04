@@ -1,0 +1,42 @@
+[
+  {
+    "code": "32.74.010",
+    "districtCode": "010",
+    "regencyCode": "32.74",
+    "provinceCode": "32",
+    "name": "Kecamatan Harjamukti",
+    "alias": "Harjamukti"
+  },
+  {
+    "code": "32.74.020",
+    "districtCode": "020",
+    "regencyCode": "32.74",
+    "provinceCode": "32",
+    "name": "Kecamatan Lemahwungkuk",
+    "alias": "Lemahwungkuk"
+  },
+  {
+    "code": "32.74.030",
+    "districtCode": "030",
+    "regencyCode": "32.74",
+    "provinceCode": "32",
+    "name": "Kecamatan Pekalipan",
+    "alias": "Pekalipan"
+  },
+  {
+    "code": "32.74.040",
+    "districtCode": "040",
+    "regencyCode": "32.74",
+    "provinceCode": "32",
+    "name": "Kecamatan Kesambi",
+    "alias": "Kesambi"
+  },
+  {
+    "code": "32.74.050",
+    "districtCode": "050",
+    "regencyCode": "32.74",
+    "provinceCode": "32",
+    "name": "Kecamatan Kejaksan",
+    "alias": "Kejaksan"
+  }
+]

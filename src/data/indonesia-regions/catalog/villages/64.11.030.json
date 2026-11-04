@@ -1,0 +1,79 @@
+[
+  {
+    "code": "64.11.030.001",
+    "villageCode": "001",
+    "districtCode": "64.11.030",
+    "name": "Long Hurai",
+    "alias": "Long Hurai"
+  },
+  {
+    "code": "64.11.030.002",
+    "villageCode": "002",
+    "districtCode": "64.11.030",
+    "name": "Rukun Damai",
+    "alias": "Rukun Damai"
+  },
+  {
+    "code": "64.11.030.003",
+    "villageCode": "003",
+    "districtCode": "64.11.030",
+    "name": "Long Merah",
+    "alias": "Long Merah"
+  },
+  {
+    "code": "64.11.030.004",
+    "villageCode": "004",
+    "districtCode": "64.11.030",
+    "name": "Mamahak Ilir",
+    "alias": "Mamahak Ilir"
+  },
+  {
+    "code": "64.11.030.005",
+    "villageCode": "005",
+    "districtCode": "64.11.030",
+    "name": "Mamahak Ulu",
+    "alias": "Mamahak Ulu"
+  },
+  {
+    "code": "64.11.030.006",
+    "villageCode": "006",
+    "districtCode": "64.11.030",
+    "name": "Long Melaham",
+    "alias": "Long Melaham"
+  },
+  {
+    "code": "64.11.030.007",
+    "villageCode": "007",
+    "districtCode": "64.11.030",
+    "name": "Ujoh Bilang",
+    "alias": "Ujoh Bilang"
+  },
+  {
+    "code": "64.11.030.008",
+    "villageCode": "008",
+    "districtCode": "64.11.030",
+    "name": "Batu Majang",
+    "alias": "Batu Majang"
+  },
+  {
+    "code": "64.11.030.009",
+    "villageCode": "009",
+    "districtCode": "64.11.030",
+    "name": "Batoq Kelo",
+    "alias": "Batoq Kelo"
+  },
+  {
+    "code": "64.11.030.010",
+    "villageCode": "010",
+    "districtCode": "64.11.030",
+    "name": "Long Bagun Ulu",
+    "alias": "Long Bagun Ulu"
+  },
+  {
+    "code": "64.11.030.011",
+    "villageCode": "011",
+    "districtCode": "64.11.030",
+    "name": "Long Bagun Ilir",
+    "alias": "Long Bagun Ilir"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "code": "96.05.150.001",
+    "villageCode": "001",
+    "districtCode": "96.05.150",
+    "name": "Okago",
+    "alias": "Okago"
+  },
+  {
+    "code": "96.05.150.002",
+    "villageCode": "002",
+    "districtCode": "96.05.150",
+    "name": "Ukawuwo",
+    "alias": "Ukawuwo"
+  },
+  {
+    "code": "96.05.150.003",
+    "villageCode": "003",
+    "districtCode": "96.05.150",
+    "name": "Wage",
+    "alias": "Wage"
+  },
+  {
+    "code": "96.05.150.004",
+    "villageCode": "004",
+    "districtCode": "96.05.150",
+    "name": "Giwo",
+    "alias": "Giwo"
+  },
+  {
+    "code": "96.05.150.005",
+    "villageCode": "005",
+    "districtCode": "96.05.150",
+    "name": "Biyadide",
+    "alias": "Biyadide"
+  },
+  {
+    "code": "96.05.150.006",
+    "villageCode": "006",
+    "districtCode": "96.05.150",
+    "name": "Pekege",
+    "alias": "Pekege"
+  },
+  {
+    "code": "96.05.150.007",
+    "villageCode": "007",
+    "districtCode": "96.05.150",
+    "name": "Waipa",
+    "alias": "Waipa"
+  },
+  {
+    "code": "96.05.150.008",
+    "villageCode": "008",
+    "districtCode": "96.05.150",
+    "name": "Totiyo",
+    "alias": "Totiyo"
+  }
+]

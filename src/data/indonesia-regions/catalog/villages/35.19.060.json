@@ -1,0 +1,58 @@
+[
+  {
+    "code": "35.19.060.001",
+    "villageCode": "001",
+    "districtCode": "35.19.060",
+    "name": "Bodag",
+    "alias": "Bodag"
+  },
+  {
+    "code": "35.19.060.002",
+    "villageCode": "002",
+    "districtCode": "35.19.060",
+    "name": "Kepel",
+    "alias": "Kepel"
+  },
+  {
+    "code": "35.19.060.003",
+    "villageCode": "003",
+    "districtCode": "35.19.060",
+    "name": "Kare",
+    "alias": "Kare"
+  },
+  {
+    "code": "35.19.060.004",
+    "villageCode": "004",
+    "districtCode": "35.19.060",
+    "name": "Bolo",
+    "alias": "Bolo"
+  },
+  {
+    "code": "35.19.060.005",
+    "villageCode": "005",
+    "districtCode": "35.19.060",
+    "name": "Kuwiran",
+    "alias": "Kuwiran"
+  },
+  {
+    "code": "35.19.060.006",
+    "villageCode": "006",
+    "districtCode": "35.19.060",
+    "name": "Randualas",
+    "alias": "Randualas"
+  },
+  {
+    "code": "35.19.060.007",
+    "villageCode": "007",
+    "districtCode": "35.19.060",
+    "name": "Cermo",
+    "alias": "Cermo"
+  },
+  {
+    "code": "35.19.060.008",
+    "villageCode": "008",
+    "districtCode": "35.19.060",
+    "name": "Morang",
+    "alias": "Morang"
+  }
+]

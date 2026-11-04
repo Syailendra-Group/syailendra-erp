@@ -1,0 +1,86 @@
+[
+  {
+    "code": "33.24.100.001",
+    "villageCode": "001",
+    "districtCode": "33.24.100",
+    "name": "Pekuncen",
+    "alias": "Pekuncen"
+  },
+  {
+    "code": "33.24.100.002",
+    "villageCode": "002",
+    "districtCode": "33.24.100",
+    "name": "Puguh",
+    "alias": "Puguh"
+  },
+  {
+    "code": "33.24.100.003",
+    "villageCode": "003",
+    "districtCode": "33.24.100",
+    "name": "Wonosari",
+    "alias": "Wonosari"
+  },
+  {
+    "code": "33.24.100.008",
+    "villageCode": "008",
+    "districtCode": "33.24.100",
+    "name": "Dawungsari",
+    "alias": "Dawungsari"
+  },
+  {
+    "code": "33.24.100.009",
+    "villageCode": "009",
+    "districtCode": "33.24.100",
+    "name": "Margomulyo",
+    "alias": "Margomulyo"
+  },
+  {
+    "code": "33.24.100.010",
+    "villageCode": "010",
+    "districtCode": "33.24.100",
+    "name": "Tegorejo",
+    "alias": "Tegorejo"
+  },
+  {
+    "code": "33.24.100.011",
+    "villageCode": "011",
+    "districtCode": "33.24.100",
+    "name": "Pesawahan",
+    "alias": "Pesawahan"
+  },
+  {
+    "code": "33.24.100.012",
+    "villageCode": "012",
+    "districtCode": "33.24.100",
+    "name": "Karangmulyo",
+    "alias": "Karangmulyo"
+  },
+  {
+    "code": "33.24.100.021",
+    "villageCode": "021",
+    "districtCode": "33.24.100",
+    "name": "Pucang Rejo",
+    "alias": "Pucang Rejo"
+  },
+  {
+    "code": "33.24.100.022",
+    "villageCode": "022",
+    "districtCode": "33.24.100",
+    "name": "Gubugsari",
+    "alias": "Gubugsari"
+  },
+  {
+    "code": "33.24.100.023",
+    "villageCode": "023",
+    "districtCode": "33.24.100",
+    "name": "Pegandon",
+    "alias": "Pegandon"
+  },
+  {
+    "code": "33.24.100.024",
+    "villageCode": "024",
+    "districtCode": "33.24.100",
+    "name": "Penanggulan",
+    "alias": "Penanggulan"
+  }
+]

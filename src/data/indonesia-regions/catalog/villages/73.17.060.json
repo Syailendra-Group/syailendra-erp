@@ -1,0 +1,72 @@
+[
+  {
+    "code": "73.17.060.001",
+    "villageCode": "001",
+    "districtCode": "73.17.060",
+    "name": "Balutan",
+    "alias": "Balutan"
+  },
+  {
+    "code": "73.17.060.002",
+    "villageCode": "002",
+    "districtCode": "73.17.060",
+    "name": "Padang Tuju",
+    "alias": "Padang Tuju"
+  },
+  {
+    "code": "73.17.060.003",
+    "villageCode": "003",
+    "districtCode": "73.17.060",
+    "name": "Noling",
+    "alias": "Noling"
+  },
+  {
+    "code": "73.17.060.004",
+    "villageCode": "004",
+    "districtCode": "73.17.060",
+    "name": "Padang Kamburi",
+    "alias": "Padang Kamburi"
+  },
+  {
+    "code": "73.17.060.013",
+    "villageCode": "013",
+    "districtCode": "73.17.060",
+    "name": "Buntu Batu",
+    "alias": "Buntu Batu"
+  },
+  {
+    "code": "73.17.060.021",
+    "villageCode": "021",
+    "districtCode": "73.17.060",
+    "name": "Tanjong",
+    "alias": "Tanjong"
+  },
+  {
+    "code": "73.17.060.022",
+    "villageCode": "022",
+    "districtCode": "73.17.060",
+    "name": "Padang Ma Bud",
+    "alias": "Padang Ma Bud"
+  },
+  {
+    "code": "73.17.060.023",
+    "villageCode": "023",
+    "districtCode": "73.17.060",
+    "name": "Malenggang",
+    "alias": "Malenggang"
+  },
+  {
+    "code": "73.17.060.024",
+    "villageCode": "024",
+    "districtCode": "73.17.060",
+    "name": "Tampumia",
+    "alias": "Tampumia"
+  },
+  {
+    "code": "73.17.060.025",
+    "villageCode": "025",
+    "districtCode": "73.17.060",
+    "name": "Salu Induk",
+    "alias": "Salu Induk"
+  }
+]

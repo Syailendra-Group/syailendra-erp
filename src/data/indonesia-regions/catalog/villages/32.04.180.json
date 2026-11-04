@@ -1,0 +1,51 @@
+[
+  {
+    "code": "32.04.180.004",
+    "villageCode": "004",
+    "districtCode": "32.04.180",
+    "name": "Gandasari",
+    "alias": "Gandasari"
+  },
+  {
+    "code": "32.04.180.005",
+    "villageCode": "005",
+    "districtCode": "32.04.180",
+    "name": "Katapang",
+    "alias": "Katapang"
+  },
+  {
+    "code": "32.04.180.006",
+    "villageCode": "006",
+    "districtCode": "32.04.180",
+    "name": "Cilampeni",
+    "alias": "Cilampeni"
+  },
+  {
+    "code": "32.04.180.007",
+    "villageCode": "007",
+    "districtCode": "32.04.180",
+    "name": "Pangauban",
+    "alias": "Pangauban"
+  },
+  {
+    "code": "32.04.180.008",
+    "villageCode": "008",
+    "districtCode": "32.04.180",
+    "name": "Banyusari",
+    "alias": "Banyusari"
+  },
+  {
+    "code": "32.04.180.009",
+    "villageCode": "009",
+    "districtCode": "32.04.180",
+    "name": "Sangkanhurip",
+    "alias": "Sangkanhurip"
+  },
+  {
+    "code": "32.04.180.010",
+    "villageCode": "010",
+    "districtCode": "32.04.180",
+    "name": "Sukamukti",
+    "alias": "Sukamukti"
+  }
+]

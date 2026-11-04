@@ -1,0 +1,72 @@
+[
+  {
+    "code": "53.04.080.004",
+    "villageCode": "004",
+    "districtCode": "53.04.080",
+    "name": "Mauleum",
+    "alias": "Mauleum"
+  },
+  {
+    "code": "53.04.080.005",
+    "villageCode": "005",
+    "districtCode": "53.04.080",
+    "name": "Oelet",
+    "alias": "Oelet"
+  },
+  {
+    "code": "53.04.080.006",
+    "villageCode": "006",
+    "districtCode": "53.04.080",
+    "name": "Oe Ekam",
+    "alias": "Oe Ekam"
+  },
+  {
+    "code": "53.04.080.007",
+    "villageCode": "007",
+    "districtCode": "53.04.080",
+    "name": "Pisan",
+    "alias": "Pisan"
+  },
+  {
+    "code": "53.04.080.008",
+    "villageCode": "008",
+    "districtCode": "53.04.080",
+    "name": "Mnelaanen",
+    "alias": "Mnelaanen"
+  },
+  {
+    "code": "53.04.080.009",
+    "villageCode": "009",
+    "districtCode": "53.04.080",
+    "name": "Teluk",
+    "alias": "Teluk"
+  },
+  {
+    "code": "53.04.080.010",
+    "villageCode": "010",
+    "districtCode": "53.04.080",
+    "name": "Nifukiu",
+    "alias": "Nifukiu"
+  },
+  {
+    "code": "53.04.080.012",
+    "villageCode": "012",
+    "districtCode": "53.04.080",
+    "name": "Billa",
+    "alias": "Billa"
+  },
+  {
+    "code": "53.04.080.016",
+    "villageCode": "016",
+    "districtCode": "53.04.080",
+    "name": "Sini",
+    "alias": "Sini"
+  },
+  {
+    "code": "53.04.080.018",
+    "villageCode": "018",
+    "districtCode": "53.04.080",
+    "name": "Tliu",
+    "alias": "Tliu"
+  }
+]

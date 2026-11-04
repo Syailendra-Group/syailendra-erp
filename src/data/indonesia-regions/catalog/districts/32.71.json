@@ -1,0 +1,50 @@
+[
+  {
+    "code": "32.71.010",
+    "districtCode": "010",
+    "regencyCode": "32.71",
+    "provinceCode": "32",
+    "name": "Kecamatan Bogor Selatan",
+    "alias": "Bogor Selatan"
+  },
+  {
+    "code": "32.71.020",
+    "districtCode": "020",
+    "regencyCode": "32.71",
+    "provinceCode": "32",
+    "name": "Kecamatan Bogor Timur",
+    "alias": "Bogor Timur"
+  },
+  {
+    "code": "32.71.030",
+    "districtCode": "030",
+    "regencyCode": "32.71",
+    "provinceCode": "32",
+    "name": "Kecamatan Bogor Utara",
+    "alias": "Bogor Utara"
+  },
+  {
+    "code": "32.71.040",
+    "districtCode": "040",
+    "regencyCode": "32.71",
+    "provinceCode": "32",
+    "name": "Kecamatan Bogor Tengah",
+    "alias": "Bogor Tengah"
+  },
+  {
+    "code": "32.71.050",
+    "districtCode": "050",
+    "regencyCode": "32.71",
+    "provinceCode": "32",
+    "name": "Kecamatan Bogor Barat",
+    "alias": "Bogor Barat"
+  },
+  {
+    "code": "32.71.060",
+    "districtCode": "060",
+    "regencyCode": "32.71",
+    "provinceCode": "32",
+    "name": "Kecamatan Tanah Sareal",
+    "alias": "Tanah Sareal"
+  }
+]

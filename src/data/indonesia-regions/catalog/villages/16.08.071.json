@@ -1,0 +1,65 @@
+[
+  {
+    "code": "16.08.071.001",
+    "villageCode": "001",
+    "districtCode": "16.08.071",
+    "name": "Penanggungan",
+    "alias": "Penanggungan"
+  },
+  {
+    "code": "16.08.071.002",
+    "villageCode": "002",
+    "districtCode": "16.08.071",
+    "name": "Tanjung Kurung",
+    "alias": "Tanjung Kurung"
+  },
+  {
+    "code": "16.08.071.003",
+    "villageCode": "003",
+    "districtCode": "16.08.071",
+    "name": "Bumi Genap",
+    "alias": "Bumi Genap"
+  },
+  {
+    "code": "16.08.071.004",
+    "villageCode": "004",
+    "districtCode": "16.08.071",
+    "name": "Gedung Nyawa",
+    "alias": "Gedung Nyawa"
+  },
+  {
+    "code": "16.08.071.005",
+    "villageCode": "005",
+    "districtCode": "16.08.071",
+    "name": "Gedung Wani",
+    "alias": "Gedung Wani"
+  },
+  {
+    "code": "16.08.071.006",
+    "villageCode": "006",
+    "districtCode": "16.08.071",
+    "name": "Sura",
+    "alias": "Sura"
+  },
+  {
+    "code": "16.08.071.007",
+    "villageCode": "007",
+    "districtCode": "16.08.071",
+    "name": "Merpang",
+    "alias": "Merpang"
+  },
+  {
+    "code": "16.08.071.008",
+    "villageCode": "008",
+    "districtCode": "16.08.071",
+    "name": "Karang Endah",
+    "alias": "Karang Endah"
+  },
+  {
+    "code": "16.08.071.009",
+    "villageCode": "009",
+    "districtCode": "16.08.071",
+    "name": "Air Baru",
+    "alias": "Air Baru"
+  }
+]

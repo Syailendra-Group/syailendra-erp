@@ -1,0 +1,130 @@
+[
+  {
+    "code": "33.16.010",
+    "districtCode": "010",
+    "regencyCode": "33.16",
+    "provinceCode": "33",
+    "name": "Kecamatan Jati",
+    "alias": "Jati"
+  },
+  {
+    "code": "33.16.020",
+    "districtCode": "020",
+    "regencyCode": "33.16",
+    "provinceCode": "33",
+    "name": "Kecamatan Randublatung",
+    "alias": "Randublatung"
+  },
+  {
+    "code": "33.16.030",
+    "districtCode": "030",
+    "regencyCode": "33.16",
+    "provinceCode": "33",
+    "name": "Kecamatan Kradenan",
+    "alias": "Kradenan"
+  },
+  {
+    "code": "33.16.040",
+    "districtCode": "040",
+    "regencyCode": "33.16",
+    "provinceCode": "33",
+    "name": "Kecamatan Kedungtuban",
+    "alias": "Kedungtuban"
+  },
+  {
+    "code": "33.16.050",
+    "districtCode": "050",
+    "regencyCode": "33.16",
+    "provinceCode": "33",
+    "name": "Kecamatan Cepu",
+    "alias": "Cepu"
+  },
+  {
+    "code": "33.16.060",
+    "districtCode": "060",
+    "regencyCode": "33.16",
+    "provinceCode": "33",
+    "name": "Kecamatan Sambong",
+    "alias": "Sambong"
+  },
+  {
+    "code": "33.16.070",
+    "districtCode": "070",
+    "regencyCode": "33.16",
+    "provinceCode": "33",
+    "name": "Kecamatan Jiken",
+    "alias": "Jiken"
+  },
+  {
+    "code": "33.16.080",
+    "districtCode": "080",
+    "regencyCode": "33.16",
+    "provinceCode": "33",
+    "name": "Kecamatan Bogorejo",
+    "alias": "Bogorejo"
+  },
+  {
+    "code": "33.16.090",
+    "districtCode": "090",
+    "regencyCode": "33.16",
+    "provinceCode": "33",
+    "name": "Kecamatan Jepon",
+    "alias": "Jepon"
+  },
+  {
+    "code": "33.16.100",
+    "districtCode": "100",
+    "regencyCode": "33.16",
+    "provinceCode": "33",
+    "name": "Kecamatan Kota Blora",
+    "alias": "Kota Blora"
+  },
+  {
+    "code": "33.16.110",
+    "districtCode": "110",
+    "regencyCode": "33.16",
+    "provinceCode": "33",
+    "name": "Kecamatan Banjarejo",
+    "alias": "Banjarejo"
+  },
+  {
+    "code": "33.16.120",
+    "districtCode": "120",
+    "regencyCode": "33.16",
+    "provinceCode": "33",
+    "name": "Kecamatan Tunjungan",
+    "alias": "Tunjungan"
+  },
+  {
+    "code": "33.16.130",
+    "districtCode": "130",
+    "regencyCode": "33.16",
+    "provinceCode": "33",
+    "name": "Kecamatan Japah",
+    "alias": "Japah"
+  },
+  {
+    "code": "33.16.140",
+    "districtCode": "140",
+    "regencyCode": "33.16",
+    "provinceCode": "33",
+    "name": "Kecamatan Ngawen",
+    "alias": "Ngawen"
+  },
+  {
+    "code": "33.16.150",
+    "districtCode": "150",
+    "regencyCode": "33.16",
+    "provinceCode": "33",
+    "name": "Kecamatan Kunduran",
+    "alias": "Kunduran"
+  },
+  {
+    "code": "33.16.160",
+    "districtCode": "160",
+    "regencyCode": "33.16",
+    "provinceCode": "33",
+    "name": "Kecamatan Todanan",
+    "alias": "Todanan"
+  }
+]

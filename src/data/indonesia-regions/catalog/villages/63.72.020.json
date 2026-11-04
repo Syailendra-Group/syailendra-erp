@@ -1,0 +1,30 @@
+[
+  {
+    "code": "63.72.020.001",
+    "villageCode": "001",
+    "districtCode": "63.72.020",
+    "name": "Palam",
+    "alias": "Palam"
+  },
+  {
+    "code": "63.72.020.002",
+    "villageCode": "002",
+    "districtCode": "63.72.020",
+    "name": "Bangkal",
+    "alias": "Bangkal"
+  },
+  {
+    "code": "63.72.020.003",
+    "villageCode": "003",
+    "districtCode": "63.72.020",
+    "name": "Sungai Tiung",
+    "alias": "Sungai Tiung"
+  },
+  {
+    "code": "63.72.020.004",
+    "villageCode": "004",
+    "districtCode": "63.72.020",
+    "name": "Cempaka",
+    "alias": "Cempaka"
+  }
+]

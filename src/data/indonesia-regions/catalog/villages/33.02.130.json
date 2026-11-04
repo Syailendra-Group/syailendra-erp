@@ -1,0 +1,72 @@
+[
+  {
+    "code": "33.02.130.001",
+    "villageCode": "001",
+    "districtCode": "33.02.130",
+    "name": "Gerduren",
+    "alias": "Gerduren"
+  },
+  {
+    "code": "33.02.130.002",
+    "villageCode": "002",
+    "districtCode": "33.02.130",
+    "name": "Karangtalun Kidul",
+    "alias": "Karangtalun Kidul"
+  },
+  {
+    "code": "33.02.130.003",
+    "villageCode": "003",
+    "districtCode": "33.02.130",
+    "name": "Kaliurip",
+    "alias": "Kaliurip"
+  },
+  {
+    "code": "33.02.130.004",
+    "villageCode": "004",
+    "districtCode": "33.02.130",
+    "name": "Karangtalun Lor",
+    "alias": "Karangtalun Lor"
+  },
+  {
+    "code": "33.02.130.005",
+    "villageCode": "005",
+    "districtCode": "33.02.130",
+    "name": "Purwojati",
+    "alias": "Purwojati"
+  },
+  {
+    "code": "33.02.130.006",
+    "villageCode": "006",
+    "districtCode": "33.02.130",
+    "name": "Klapasawit",
+    "alias": "Klapasawit"
+  },
+  {
+    "code": "33.02.130.007",
+    "villageCode": "007",
+    "districtCode": "33.02.130",
+    "name": "Karangmangu",
+    "alias": "Karangmangu"
+  },
+  {
+    "code": "33.02.130.008",
+    "villageCode": "008",
+    "districtCode": "33.02.130",
+    "name": "Kaliputih",
+    "alias": "Kaliputih"
+  },
+  {
+    "code": "33.02.130.009",
+    "villageCode": "009",
+    "districtCode": "33.02.130",
+    "name": "Kaliwangi",
+    "alias": "Kaliwangi"
+  },
+  {
+    "code": "33.02.130.010",
+    "villageCode": "010",
+    "districtCode": "33.02.130",
+    "name": "Kalitapen",
+    "alias": "Kalitapen"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "code": "73.14.061.001",
+    "villageCode": "001",
+    "districtCode": "73.14.061",
+    "name": "Kanyuara",
+    "alias": "Kanyuara"
+  },
+  {
+    "code": "73.14.061.002",
+    "villageCode": "002",
+    "districtCode": "73.14.061",
+    "name": "Sidenreng",
+    "alias": "Sidenreng"
+  },
+  {
+    "code": "73.14.061.003",
+    "villageCode": "003",
+    "districtCode": "73.14.061",
+    "name": "Empagae",
+    "alias": "Empagae"
+  },
+  {
+    "code": "73.14.061.004",
+    "villageCode": "004",
+    "districtCode": "73.14.061",
+    "name": "Mojong",
+    "alias": "Mojong"
+  },
+  {
+    "code": "73.14.061.005",
+    "villageCode": "005",
+    "districtCode": "73.14.061",
+    "name": "Talumae",
+    "alias": "Talumae"
+  },
+  {
+    "code": "73.14.061.006",
+    "villageCode": "006",
+    "districtCode": "73.14.061",
+    "name": "Aka-Akae",
+    "alias": "Aka-Akae"
+  },
+  {
+    "code": "73.14.061.007",
+    "villageCode": "007",
+    "districtCode": "73.14.061",
+    "name": "Damai",
+    "alias": "Damai"
+  },
+  {
+    "code": "73.14.061.008",
+    "villageCode": "008",
+    "districtCode": "73.14.061",
+    "name": "Talawe",
+    "alias": "Talawe"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "code": "73.08.023.001",
+    "villageCode": "001",
+    "districtCode": "73.08.023",
+    "name": "Allepolea",
+    "alias": "Allepolea"
+  },
+  {
+    "code": "73.08.023.002",
+    "villageCode": "002",
+    "districtCode": "73.08.023",
+    "name": "Soreang",
+    "alias": "Soreang"
+  },
+  {
+    "code": "73.08.023.003",
+    "villageCode": "003",
+    "districtCode": "73.08.023",
+    "name": "Marrannu",
+    "alias": "Marrannu"
+  },
+  {
+    "code": "73.08.023.004",
+    "villageCode": "004",
+    "districtCode": "73.08.023",
+    "name": "Bonto Marannu",
+    "alias": "Bonto Marannu"
+  },
+  {
+    "code": "73.08.023.005",
+    "villageCode": "005",
+    "districtCode": "73.08.023",
+    "name": "Maccini Baji",
+    "alias": "Maccini Baji"
+  },
+  {
+    "code": "73.08.023.006",
+    "villageCode": "006",
+    "districtCode": "73.08.023",
+    "name": "Mattiro Deceng",
+    "alias": "Mattiro Deceng"
+  }
+]

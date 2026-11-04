@@ -1,0 +1,128 @@
+[
+  {
+    "code": "61.12.080.001",
+    "villageCode": "001",
+    "districtCode": "61.12.080",
+    "name": "Durian",
+    "alias": "Durian"
+  },
+  {
+    "code": "61.12.080.002",
+    "villageCode": "002",
+    "districtCode": "61.12.080",
+    "name": "Simpang Kanan",
+    "alias": "Simpang Kanan"
+  },
+  {
+    "code": "61.12.080.003",
+    "villageCode": "003",
+    "districtCode": "61.12.080",
+    "name": "Puguk",
+    "alias": "Puguk"
+  },
+  {
+    "code": "61.12.080.004",
+    "villageCode": "004",
+    "districtCode": "61.12.080",
+    "name": "Bengkarek",
+    "alias": "Bengkarek"
+  },
+  {
+    "code": "61.12.080.005",
+    "villageCode": "005",
+    "districtCode": "61.12.080",
+    "name": "Pasak Piang",
+    "alias": "Pasak Piang"
+  },
+  {
+    "code": "61.12.080.006",
+    "villageCode": "006",
+    "districtCode": "61.12.080",
+    "name": "Pasak",
+    "alias": "Pasak"
+  },
+  {
+    "code": "61.12.080.007",
+    "villageCode": "007",
+    "districtCode": "61.12.080",
+    "name": "Panca Roba",
+    "alias": "Panca Roba"
+  },
+  {
+    "code": "61.12.080.008",
+    "villageCode": "008",
+    "districtCode": "61.12.080",
+    "name": "Lingga",
+    "alias": "Lingga"
+  },
+  {
+    "code": "61.12.080.009",
+    "villageCode": "009",
+    "districtCode": "61.12.080",
+    "name": "Korek",
+    "alias": "Korek"
+  },
+  {
+    "code": "61.12.080.010",
+    "villageCode": "010",
+    "districtCode": "61.12.080",
+    "name": "Jawa Tengah",
+    "alias": "Jawa Tengah"
+  },
+  {
+    "code": "61.12.080.011",
+    "villageCode": "011",
+    "districtCode": "61.12.080",
+    "name": "Sungai Ambawang Kuala",
+    "alias": "Sungai Ambawang Kuala"
+  },
+  {
+    "code": "61.12.080.012",
+    "villageCode": "012",
+    "districtCode": "61.12.080",
+    "name": "Mega Timur",
+    "alias": "Mega Timur"
+  },
+  {
+    "code": "61.12.080.013",
+    "villageCode": "013",
+    "districtCode": "61.12.080",
+    "name": "Teluk Bakung",
+    "alias": "Teluk Bakung"
+  },
+  {
+    "code": "61.12.080.014",
+    "villageCode": "014",
+    "districtCode": "61.12.080",
+    "name": "Ampera Raya",
+    "alias": "Ampera Raya"
+  },
+  {
+    "code": "61.12.080.015",
+    "villageCode": "015",
+    "districtCode": "61.12.080",
+    "name": "Sungai Malaya",
+    "alias": "Sungai Malaya"
+  },
+  {
+    "code": "61.12.080.016",
+    "villageCode": "016",
+    "districtCode": "61.12.080",
+    "name": "Desa Persiapan Simpang Raya",
+    "alias": "Desa Persiapan Simpang Raya"
+  },
+  {
+    "code": "61.12.080.017",
+    "villageCode": "017",
+    "districtCode": "61.12.080",
+    "name": "Desa Persiapan Kuala Bakung",
+    "alias": "Desa Persiapan Kuala Bakung"
+  },
+  {
+    "code": "61.12.080.018",
+    "villageCode": "018",
+    "districtCode": "61.12.080",
+    "name": "Desa Persiapan Lintang Batang",
+    "alias": "Desa Persiapan Lintang Batang"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "code": "19.03.030.001",
+    "villageCode": "001",
+    "districtCode": "19.03.030",
+    "name": "Belo Laut",
+    "alias": "Belo Laut"
+  },
+  {
+    "code": "19.03.030.004",
+    "villageCode": "004",
+    "districtCode": "19.03.030",
+    "name": "Air Belo",
+    "alias": "Air Belo"
+  },
+  {
+    "code": "19.03.030.005",
+    "villageCode": "005",
+    "districtCode": "19.03.030",
+    "name": "Sungai Baru",
+    "alias": "Sungai Baru"
+  },
+  {
+    "code": "19.03.030.006",
+    "villageCode": "006",
+    "districtCode": "19.03.030",
+    "name": "Sungai Daeng",
+    "alias": "Sungai Daeng"
+  },
+  {
+    "code": "19.03.030.007",
+    "villageCode": "007",
+    "districtCode": "19.03.030",
+    "name": "Tanjung",
+    "alias": "Tanjung"
+  },
+  {
+    "code": "19.03.030.008",
+    "villageCode": "008",
+    "districtCode": "19.03.030",
+    "name": "Air Putih",
+    "alias": "Air Putih"
+  },
+  {
+    "code": "19.03.030.009",
+    "villageCode": "009",
+    "districtCode": "19.03.030",
+    "name": "Air Limau",
+    "alias": "Air Limau"
+  },
+  {
+    "code": "19.03.030.010",
+    "villageCode": "010",
+    "districtCode": "19.03.030",
+    "name": "Keranggan",
+    "alias": "Keranggan"
+  },
+  {
+    "code": "19.03.030.011",
+    "villageCode": "011",
+    "districtCode": "19.03.030",
+    "name": "Menjelang",
+    "alias": "Menjelang"
+  }
+]

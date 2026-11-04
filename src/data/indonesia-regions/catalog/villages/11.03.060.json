@@ -1,0 +1,198 @@
+[
+  {
+    "code": "11.03.060.001",
+    "villageCode": "001",
+    "districtCode": "11.03.060",
+    "name": "Ujung Tanah",
+    "alias": "Ujung Tanah"
+  },
+  {
+    "code": "11.03.060.002",
+    "villageCode": "002",
+    "districtCode": "11.03.060",
+    "name": "Payonan Gadang",
+    "alias": "Payonan Gadang"
+  },
+  {
+    "code": "11.03.060.003",
+    "villageCode": "003",
+    "districtCode": "11.03.060",
+    "name": "Lubuk Layu",
+    "alias": "Lubuk Layu"
+  },
+  {
+    "code": "11.03.060.004",
+    "villageCode": "004",
+    "districtCode": "11.03.060",
+    "name": "Suaq Hulu",
+    "alias": "Suaq Hulu"
+  },
+  {
+    "code": "11.03.060.005",
+    "villageCode": "005",
+    "districtCode": "11.03.060",
+    "name": "Luar",
+    "alias": "Luar"
+  },
+  {
+    "code": "11.03.060.006",
+    "villageCode": "006",
+    "districtCode": "11.03.060",
+    "name": "Ujung Kampung",
+    "alias": "Ujung Kampung"
+  },
+  {
+    "code": "11.03.060.007",
+    "villageCode": "007",
+    "districtCode": "11.03.060",
+    "name": "Tampang",
+    "alias": "Tampang"
+  },
+  {
+    "code": "11.03.060.008",
+    "villageCode": "008",
+    "districtCode": "11.03.060",
+    "name": "Jilatang",
+    "alias": "Jilatang"
+  },
+  {
+    "code": "11.03.060.009",
+    "villageCode": "009",
+    "districtCode": "11.03.060",
+    "name": "Air Sialang Hulu",
+    "alias": "Air Sialang Hulu"
+  },
+  {
+    "code": "11.03.060.010",
+    "villageCode": "010",
+    "districtCode": "11.03.060",
+    "name": "Air Sialang Tengah",
+    "alias": "Air Sialang Tengah"
+  },
+  {
+    "code": "11.03.060.011",
+    "villageCode": "011",
+    "districtCode": "11.03.060",
+    "name": "Air Sialang Hilir",
+    "alias": "Air Sialang Hilir"
+  },
+  {
+    "code": "11.03.060.012",
+    "villageCode": "012",
+    "districtCode": "11.03.060",
+    "name": "Subarang",
+    "alias": "Subarang"
+  },
+  {
+    "code": "11.03.060.013",
+    "villageCode": "013",
+    "districtCode": "11.03.060",
+    "name": "Gunung Ketek",
+    "alias": "Gunung Ketek"
+  },
+  {
+    "code": "11.03.060.014",
+    "villageCode": "014",
+    "districtCode": "11.03.060",
+    "name": "Kota Baru",
+    "alias": "Kota Baru"
+  },
+  {
+    "code": "11.03.060.015",
+    "villageCode": "015",
+    "districtCode": "11.03.060",
+    "name": "Madat",
+    "alias": "Madat"
+  },
+  {
+    "code": "11.03.060.016",
+    "villageCode": "016",
+    "districtCode": "11.03.060",
+    "name": "Dalam",
+    "alias": "Dalam"
+  },
+  {
+    "code": "11.03.060.017",
+    "villageCode": "017",
+    "districtCode": "11.03.060",
+    "name": "Tengah",
+    "alias": "Tengah"
+  },
+  {
+    "code": "11.03.060.018",
+    "villageCode": "018",
+    "districtCode": "11.03.060",
+    "name": "Balai",
+    "alias": "Balai"
+  },
+  {
+    "code": "11.03.060.019",
+    "villageCode": "019",
+    "districtCode": "11.03.060",
+    "name": "Baru",
+    "alias": "Baru"
+  },
+  {
+    "code": "11.03.060.020",
+    "villageCode": "020",
+    "districtCode": "11.03.060",
+    "name": "Gadang",
+    "alias": "Gadang"
+  },
+  {
+    "code": "11.03.060.021",
+    "villageCode": "021",
+    "districtCode": "11.03.060",
+    "name": "Ladang Kasik Putih",
+    "alias": "Ladang Kasik Putih"
+  },
+  {
+    "code": "11.03.060.022",
+    "villageCode": "022",
+    "districtCode": "11.03.060",
+    "name": "Ladang Panton Luas",
+    "alias": "Ladang Panton Luas"
+  },
+  {
+    "code": "11.03.060.023",
+    "villageCode": "023",
+    "districtCode": "11.03.060",
+    "name": "Alur Simerah",
+    "alias": "Alur Simerah"
+  },
+  {
+    "code": "11.03.060.024",
+    "villageCode": "024",
+    "districtCode": "11.03.060",
+    "name": "Alur Pinang",
+    "alias": "Alur Pinang"
+  },
+  {
+    "code": "11.03.060.025",
+    "villageCode": "025",
+    "districtCode": "11.03.060",
+    "name": "Gunung Cut",
+    "alias": "Gunung Cut"
+  },
+  {
+    "code": "11.03.060.026",
+    "villageCode": "026",
+    "districtCode": "11.03.060",
+    "name": "Kuta Blang",
+    "alias": "Kuta Blang"
+  },
+  {
+    "code": "11.03.060.027",
+    "villageCode": "027",
+    "districtCode": "11.03.060",
+    "name": "Batee Tunggai",
+    "alias": "Batee Tunggai"
+  },
+  {
+    "code": "11.03.060.028",
+    "villageCode": "028",
+    "districtCode": "11.03.060",
+    "name": "Arafah",
+    "alias": "Arafah"
+  }
+]

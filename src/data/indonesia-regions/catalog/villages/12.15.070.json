@@ -1,0 +1,51 @@
+[
+  {
+    "code": "12.15.070.001",
+    "villageCode": "001",
+    "districtCode": "12.15.070",
+    "name": "Tipang",
+    "alias": "Tipang"
+  },
+  {
+    "code": "12.15.070.002",
+    "villageCode": "002",
+    "districtCode": "12.15.070",
+    "name": "Marbun Toruan",
+    "alias": "Marbun Toruan"
+  },
+  {
+    "code": "12.15.070.003",
+    "villageCode": "003",
+    "districtCode": "12.15.070",
+    "name": "Siunong Unong Julu",
+    "alias": "Siunong Unong Julu"
+  },
+  {
+    "code": "12.15.070.004",
+    "villageCode": "004",
+    "districtCode": "12.15.070",
+    "name": "Simamora",
+    "alias": "Simamora"
+  },
+  {
+    "code": "12.15.070.005",
+    "villageCode": "005",
+    "districtCode": "12.15.070",
+    "name": "Sinambela",
+    "alias": "Sinambela"
+  },
+  {
+    "code": "12.15.070.006",
+    "villageCode": "006",
+    "districtCode": "12.15.070",
+    "name": "Simangulampe",
+    "alias": "Simangulampe"
+  },
+  {
+    "code": "12.15.070.007",
+    "villageCode": "007",
+    "districtCode": "12.15.070",
+    "name": "Marbun Tonga Marbun Dolok",
+    "alias": "Marbun Tonga Marbun Dolok"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "code": "74.10.020.001",
+    "villageCode": "001",
+    "districtCode": "74.10.020",
+    "name": "Tongalino",
+    "alias": "Tongalino"
+  },
+  {
+    "code": "74.10.020.002",
+    "villageCode": "002",
+    "districtCode": "74.10.020",
+    "name": "Taipa",
+    "alias": "Taipa"
+  },
+  {
+    "code": "74.10.020.003",
+    "villageCode": "003",
+    "districtCode": "74.10.020",
+    "name": "Puusiambu",
+    "alias": "Puusiambu"
+  },
+  {
+    "code": "74.10.020.004",
+    "villageCode": "004",
+    "districtCode": "74.10.020",
+    "name": "Bungguosu",
+    "alias": "Bungguosu"
+  },
+  {
+    "code": "74.10.020.005",
+    "villageCode": "005",
+    "districtCode": "74.10.020",
+    "name": "Lembo",
+    "alias": "Lembo"
+  },
+  {
+    "code": "74.10.020.006",
+    "villageCode": "006",
+    "districtCode": "74.10.020",
+    "name": "Pasir Putih",
+    "alias": "Pasir Putih"
+  },
+  {
+    "code": "74.10.020.007",
+    "villageCode": "007",
+    "districtCode": "74.10.020",
+    "name": "Padaleu",
+    "alias": "Padaleu"
+  },
+  {
+    "code": "74.10.020.008",
+    "villageCode": "008",
+    "districtCode": "74.10.020",
+    "name": "Puulemo",
+    "alias": "Puulemo"
+  },
+  {
+    "code": "74.10.020.009",
+    "villageCode": "009",
+    "districtCode": "74.10.020",
+    "name": "Alo-Alo",
+    "alias": "Alo-Alo"
+  },
+  {
+    "code": "74.10.020.010",
+    "villageCode": "010",
+    "districtCode": "74.10.020",
+    "name": "Lapulu",
+    "alias": "Lapulu"
+  },
+  {
+    "code": "74.10.020.011",
+    "villageCode": "011",
+    "districtCode": "74.10.020",
+    "name": "Laramo",
+    "alias": "Laramo"
+  },
+  {
+    "code": "74.10.020.012",
+    "villageCode": "012",
+    "districtCode": "74.10.020",
+    "name": "Watu Wulaa",
+    "alias": "Watu Wulaa"
+  }
+]

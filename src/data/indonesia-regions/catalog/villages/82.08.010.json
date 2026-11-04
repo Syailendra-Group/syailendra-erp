@@ -1,0 +1,93 @@
+[
+  {
+    "code": "82.08.010.001",
+    "villageCode": "001",
+    "districtCode": "82.08.010",
+    "name": "Pancoran",
+    "alias": "Pancoran"
+  },
+  {
+    "code": "82.08.010.002",
+    "villageCode": "002",
+    "districtCode": "82.08.010",
+    "name": "Tallo",
+    "alias": "Tallo"
+  },
+  {
+    "code": "82.08.010.003",
+    "villageCode": "003",
+    "districtCode": "82.08.010",
+    "name": "Ratahaya",
+    "alias": "Ratahaya"
+  },
+  {
+    "code": "82.08.010.004",
+    "villageCode": "004",
+    "districtCode": "82.08.010",
+    "name": "Wayo",
+    "alias": "Wayo"
+  },
+  {
+    "code": "82.08.010.006",
+    "villageCode": "006",
+    "districtCode": "82.08.010",
+    "name": "Bobong",
+    "alias": "Bobong"
+  },
+  {
+    "code": "82.08.010.007",
+    "villageCode": "007",
+    "districtCode": "82.08.010",
+    "name": "Maranti Jaya",
+    "alias": "Maranti Jaya"
+  },
+  {
+    "code": "82.08.010.008",
+    "villageCode": "008",
+    "districtCode": "82.08.010",
+    "name": "Kilong",
+    "alias": "Kilong"
+  },
+  {
+    "code": "82.08.010.009",
+    "villageCode": "009",
+    "districtCode": "82.08.010",
+    "name": "Karamat",
+    "alias": "Karamat"
+  },
+  {
+    "code": "82.08.010.010",
+    "villageCode": "010",
+    "districtCode": "82.08.010",
+    "name": "Holbota",
+    "alias": "Holbota"
+  },
+  {
+    "code": "82.08.010.011",
+    "villageCode": "011",
+    "districtCode": "82.08.010",
+    "name": "Kawalo",
+    "alias": "Kawalo"
+  },
+  {
+    "code": "82.08.010.012",
+    "villageCode": "012",
+    "districtCode": "82.08.010",
+    "name": "Woyo",
+    "alias": "Woyo"
+  },
+  {
+    "code": "82.08.010.013",
+    "villageCode": "013",
+    "districtCode": "82.08.010",
+    "name": "Lohobuba",
+    "alias": "Lohobuba"
+  },
+  {
+    "code": "82.08.010.014",
+    "villageCode": "014",
+    "districtCode": "82.08.010",
+    "name": "Limbo",
+    "alias": "Limbo"
+  }
+]

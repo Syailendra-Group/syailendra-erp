@@ -1,0 +1,93 @@
+[
+  {
+    "code": "62.10.010.001",
+    "villageCode": "001",
+    "districtCode": "62.10.010",
+    "name": "Cemantan",
+    "alias": "Cemantan"
+  },
+  {
+    "code": "62.10.010.002",
+    "villageCode": "002",
+    "districtCode": "62.10.010",
+    "name": "Papuyu Iii Sei Pudak",
+    "alias": "Papuyu Iii Sei Pudak"
+  },
+  {
+    "code": "62.10.010.003",
+    "villageCode": "003",
+    "districtCode": "62.10.010",
+    "name": "Kiapak",
+    "alias": "Kiapak"
+  },
+  {
+    "code": "62.10.010.004",
+    "villageCode": "004",
+    "districtCode": "62.10.010",
+    "name": "Papuyu Ii Sei Barunai",
+    "alias": "Papuyu Ii Sei Barunai"
+  },
+  {
+    "code": "62.10.010.005",
+    "villageCode": "005",
+    "districtCode": "62.10.010",
+    "name": "Papuyu I Sei Pasanan",
+    "alias": "Papuyu I Sei Pasanan"
+  },
+  {
+    "code": "62.10.010.006",
+    "villageCode": "006",
+    "districtCode": "62.10.010",
+    "name": "Sei Rungun",
+    "alias": "Sei Rungun"
+  },
+  {
+    "code": "62.10.010.007",
+    "villageCode": "007",
+    "districtCode": "62.10.010",
+    "name": "Bahaur Hilir",
+    "alias": "Bahaur Hilir"
+  },
+  {
+    "code": "62.10.010.008",
+    "villageCode": "008",
+    "districtCode": "62.10.010",
+    "name": "Bahaur Tengah",
+    "alias": "Bahaur Tengah"
+  },
+  {
+    "code": "62.10.010.009",
+    "villageCode": "009",
+    "districtCode": "62.10.010",
+    "name": "Bahaur Hulu",
+    "alias": "Bahaur Hulu"
+  },
+  {
+    "code": "62.10.010.010",
+    "villageCode": "010",
+    "districtCode": "62.10.010",
+    "name": "Tanjung Perawan",
+    "alias": "Tanjung Perawan"
+  },
+  {
+    "code": "62.10.010.011",
+    "villageCode": "011",
+    "districtCode": "62.10.010",
+    "name": "Bahaur Batu Raya",
+    "alias": "Bahaur Batu Raya"
+  },
+  {
+    "code": "62.10.010.012",
+    "villageCode": "012",
+    "districtCode": "62.10.010",
+    "name": "Bahaur Hulu Permai",
+    "alias": "Bahaur Hulu Permai"
+  },
+  {
+    "code": "62.10.010.013",
+    "villageCode": "013",
+    "districtCode": "62.10.010",
+    "name": "Bahaur Basantan",
+    "alias": "Bahaur Basantan"
+  }
+]

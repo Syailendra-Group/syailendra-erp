@@ -1,0 +1,42 @@
+[
+  {
+    "code": "16.73.010",
+    "districtCode": "010",
+    "regencyCode": "16.73",
+    "provinceCode": "16",
+    "name": "Kecamatan Dempo Selatan",
+    "alias": "Dempo Selatan"
+  },
+  {
+    "code": "16.73.011",
+    "districtCode": "011",
+    "regencyCode": "16.73",
+    "provinceCode": "16",
+    "name": "Kecamatan Dempo Tengah",
+    "alias": "Dempo Tengah"
+  },
+  {
+    "code": "16.73.020",
+    "districtCode": "020",
+    "regencyCode": "16.73",
+    "provinceCode": "16",
+    "name": "Kecamatan Dempo Utara",
+    "alias": "Dempo Utara"
+  },
+  {
+    "code": "16.73.030",
+    "districtCode": "030",
+    "regencyCode": "16.73",
+    "provinceCode": "16",
+    "name": "Kecamatan Pagar Alam Selatan",
+    "alias": "Pagar Alam Selatan"
+  },
+  {
+    "code": "16.73.040",
+    "districtCode": "040",
+    "regencyCode": "16.73",
+    "provinceCode": "16",
+    "name": "Kecamatan Pagar Alam Utara",
+    "alias": "Pagar Alam Utara"
+  }
+]

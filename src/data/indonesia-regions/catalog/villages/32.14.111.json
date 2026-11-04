@@ -1,0 +1,72 @@
+[
+  {
+    "code": "32.14.111.001",
+    "villageCode": "001",
+    "districtCode": "32.14.111",
+    "name": "Wanawali",
+    "alias": "Wanawali"
+  },
+  {
+    "code": "32.14.111.002",
+    "villageCode": "002",
+    "districtCode": "32.14.111",
+    "name": "Cikadu",
+    "alias": "Cikadu"
+  },
+  {
+    "code": "32.14.111.003",
+    "villageCode": "003",
+    "districtCode": "32.14.111",
+    "name": "Cibukamanah",
+    "alias": "Cibukamanah"
+  },
+  {
+    "code": "32.14.111.004",
+    "villageCode": "004",
+    "districtCode": "32.14.111",
+    "name": "Cirangkong",
+    "alias": "Cirangkong"
+  },
+  {
+    "code": "32.14.111.005",
+    "villageCode": "005",
+    "districtCode": "32.14.111",
+    "name": "Cipancur",
+    "alias": "Cipancur"
+  },
+  {
+    "code": "32.14.111.006",
+    "villageCode": "006",
+    "districtCode": "32.14.111",
+    "name": "Cipinang",
+    "alias": "Cipinang"
+  },
+  {
+    "code": "32.14.111.007",
+    "villageCode": "007",
+    "districtCode": "32.14.111",
+    "name": "Ciparungsari",
+    "alias": "Ciparungsari"
+  },
+  {
+    "code": "32.14.111.008",
+    "villageCode": "008",
+    "districtCode": "32.14.111",
+    "name": "Karyamekar",
+    "alias": "Karyamekar"
+  },
+  {
+    "code": "32.14.111.009",
+    "villageCode": "009",
+    "districtCode": "32.14.111",
+    "name": "Cibatu",
+    "alias": "Cibatu"
+  },
+  {
+    "code": "32.14.111.010",
+    "villageCode": "010",
+    "districtCode": "32.14.111",
+    "name": "Cilandak",
+    "alias": "Cilandak"
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "code": "16.07.060.017",
+    "villageCode": "017",
+    "districtCode": "16.07.060",
+    "name": "Sungai Rebo",
+    "alias": "Sungai Rebo"
+  },
+  {
+    "code": "16.07.060.018",
+    "villageCode": "018",
+    "districtCode": "16.07.060",
+    "name": "Sungai Gerong",
+    "alias": "Sungai Gerong"
+  },
+  {
+    "code": "16.07.060.019",
+    "villageCode": "019",
+    "districtCode": "16.07.060",
+    "name": "Mariana",
+    "alias": "Mariana"
+  },
+  {
+    "code": "16.07.060.026",
+    "villageCode": "026",
+    "districtCode": "16.07.060",
+    "name": "Tirto Sari",
+    "alias": "Tirto Sari"
+  },
+  {
+    "code": "16.07.060.027",
+    "villageCode": "027",
+    "districtCode": "16.07.060",
+    "name": "Pematang Palas",
+    "alias": "Pematang Palas"
+  },
+  {
+    "code": "16.07.060.028",
+    "villageCode": "028",
+    "districtCode": "16.07.060",
+    "name": "Perajen",
+    "alias": "Perajen"
+  },
+  {
+    "code": "16.07.060.029",
+    "villageCode": "029",
+    "districtCode": "16.07.060",
+    "name": "Pulau Borang",
+    "alias": "Pulau Borang"
+  },
+  {
+    "code": "16.07.060.030",
+    "villageCode": "030",
+    "districtCode": "16.07.060",
+    "name": "Merah Mata",
+    "alias": "Merah Mata"
+  },
+  {
+    "code": "16.07.060.031",
+    "villageCode": "031",
+    "districtCode": "16.07.060",
+    "name": "Cinta Manis Lama",
+    "alias": "Cinta Manis Lama"
+  },
+  {
+    "code": "16.07.060.032",
+    "villageCode": "032",
+    "districtCode": "16.07.060",
+    "name": "Perambahan",
+    "alias": "Perambahan"
+  },
+  {
+    "code": "16.07.060.044",
+    "villageCode": "044",
+    "districtCode": "16.07.060",
+    "name": "Mariana Ilir",
+    "alias": "Mariana Ilir"
+  },
+  {
+    "code": "16.07.060.045",
+    "villageCode": "045",
+    "districtCode": "16.07.060",
+    "name": "Duren Ijo",
+    "alias": "Duren Ijo"
+  },
+  {
+    "code": "16.07.060.051",
+    "villageCode": "051",
+    "districtCode": "16.07.060",
+    "name": "Perambahan Baru",
+    "alias": "Perambahan Baru"
+  }
+]

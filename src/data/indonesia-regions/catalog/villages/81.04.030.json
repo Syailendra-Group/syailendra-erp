@@ -1,0 +1,72 @@
+[
+  {
+    "code": "81.04.030.001",
+    "villageCode": "001",
+    "districtCode": "81.04.030",
+    "name": "Bara",
+    "alias": "Bara"
+  },
+  {
+    "code": "81.04.030.002",
+    "villageCode": "002",
+    "districtCode": "81.04.030",
+    "name": "Tanjung Karang",
+    "alias": "Tanjung Karang"
+  },
+  {
+    "code": "81.04.030.003",
+    "villageCode": "003",
+    "districtCode": "81.04.030",
+    "name": "Air Buaya",
+    "alias": "Air Buaya"
+  },
+  {
+    "code": "81.04.030.004",
+    "villageCode": "004",
+    "districtCode": "81.04.030",
+    "name": "Waemangit",
+    "alias": "Waemangit"
+  },
+  {
+    "code": "81.04.030.005",
+    "villageCode": "005",
+    "districtCode": "81.04.030",
+    "name": "Waepure",
+    "alias": "Waepure"
+  },
+  {
+    "code": "81.04.030.009",
+    "villageCode": "009",
+    "districtCode": "81.04.030",
+    "name": "Selwadu",
+    "alias": "Selwadu"
+  },
+  {
+    "code": "81.04.030.019",
+    "villageCode": "019",
+    "districtCode": "81.04.030",
+    "name": "Kampung Baru",
+    "alias": "Kampung Baru"
+  },
+  {
+    "code": "81.04.030.020",
+    "villageCode": "020",
+    "districtCode": "81.04.030",
+    "name": "Wasbaka",
+    "alias": "Wasbaka"
+  },
+  {
+    "code": "81.04.030.021",
+    "villageCode": "021",
+    "districtCode": "81.04.030",
+    "name": "Batlale",
+    "alias": "Batlale"
+  },
+  {
+    "code": "81.04.030.022",
+    "villageCode": "022",
+    "districtCode": "81.04.030",
+    "name": "Awilinan",
+    "alias": "Awilinan"
+  }
+]

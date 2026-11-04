@@ -1,0 +1,338 @@
+[
+  {
+    "code": "11.09.170.001",
+    "villageCode": "001",
+    "districtCode": "11.09.170",
+    "name": "Bluek Arab",
+    "alias": "Bluek Arab"
+  },
+  {
+    "code": "11.09.170.002",
+    "villageCode": "002",
+    "districtCode": "11.09.170",
+    "name": "Sialet Alet",
+    "alias": "Sialet Alet"
+  },
+  {
+    "code": "11.09.170.003",
+    "villageCode": "003",
+    "districtCode": "11.09.170",
+    "name": "Mee Tanoh",
+    "alias": "Mee Tanoh"
+  },
+  {
+    "code": "11.09.170.004",
+    "villageCode": "004",
+    "districtCode": "11.09.170",
+    "name": "Puuk",
+    "alias": "Puuk"
+  },
+  {
+    "code": "11.09.170.005",
+    "villageCode": "005",
+    "districtCode": "11.09.170",
+    "name": "Balee",
+    "alias": "Balee"
+  },
+  {
+    "code": "11.09.170.006",
+    "villageCode": "006",
+    "districtCode": "11.09.170",
+    "name": "Meunjee Mesjid",
+    "alias": "Meunjee Mesjid"
+  },
+  {
+    "code": "11.09.170.007",
+    "villageCode": "007",
+    "districtCode": "11.09.170",
+    "name": "Sumboe Buga",
+    "alias": "Sumboe Buga"
+  },
+  {
+    "code": "11.09.170.008",
+    "villageCode": "008",
+    "districtCode": "11.09.170",
+    "name": "Rambayan Kupula",
+    "alias": "Rambayan Kupula"
+  },
+  {
+    "code": "11.09.170.009",
+    "villageCode": "009",
+    "districtCode": "11.09.170",
+    "name": "Rambayan Lueng",
+    "alias": "Rambayan Lueng"
+  },
+  {
+    "code": "11.09.170.010",
+    "villageCode": "010",
+    "districtCode": "11.09.170",
+    "name": "Dayah Bubue",
+    "alias": "Dayah Bubue"
+  },
+  {
+    "code": "11.09.170.011",
+    "villageCode": "011",
+    "districtCode": "11.09.170",
+    "name": "Tanjong Hagu",
+    "alias": "Tanjong Hagu"
+  },
+  {
+    "code": "11.09.170.012",
+    "villageCode": "012",
+    "districtCode": "11.09.170",
+    "name": "Dua Paya",
+    "alias": "Dua Paya"
+  },
+  {
+    "code": "11.09.170.013",
+    "villageCode": "013",
+    "districtCode": "11.09.170",
+    "name": "Mee Lampoih Saka",
+    "alias": "Mee Lampoih Saka"
+  },
+  {
+    "code": "11.09.170.014",
+    "villageCode": "014",
+    "districtCode": "11.09.170",
+    "name": "Lueng Guci Rumpong",
+    "alias": "Lueng Guci Rumpong"
+  },
+  {
+    "code": "11.09.170.015",
+    "villageCode": "015",
+    "districtCode": "11.09.170",
+    "name": "Cot Mulu",
+    "alias": "Cot Mulu"
+  },
+  {
+    "code": "11.09.170.016",
+    "villageCode": "016",
+    "districtCode": "11.09.170",
+    "name": "Kumbang Waido",
+    "alias": "Kumbang Waido"
+  },
+  {
+    "code": "11.09.170.017",
+    "villageCode": "017",
+    "districtCode": "11.09.170",
+    "name": "Waido",
+    "alias": "Waido"
+  },
+  {
+    "code": "11.09.170.018",
+    "villageCode": "018",
+    "districtCode": "11.09.170",
+    "name": "Dayah Seumiden",
+    "alias": "Dayah Seumiden"
+  },
+  {
+    "code": "11.09.170.019",
+    "villageCode": "019",
+    "districtCode": "11.09.170",
+    "name": "Blang Seupeng",
+    "alias": "Blang Seupeng"
+  },
+  {
+    "code": "11.09.170.020",
+    "villageCode": "020",
+    "districtCode": "11.09.170",
+    "name": "Dayah Muara",
+    "alias": "Dayah Muara"
+  },
+  {
+    "code": "11.09.170.021",
+    "villageCode": "021",
+    "districtCode": "11.09.170",
+    "name": "Meuleuweuk",
+    "alias": "Meuleuweuk"
+  },
+  {
+    "code": "11.09.170.022",
+    "villageCode": "022",
+    "districtCode": "11.09.170",
+    "name": "Jim",
+    "alias": "Jim"
+  },
+  {
+    "code": "11.09.170.023",
+    "villageCode": "023",
+    "districtCode": "11.09.170",
+    "name": "Kabat",
+    "alias": "Kabat"
+  },
+  {
+    "code": "11.09.170.024",
+    "villageCode": "024",
+    "districtCode": "11.09.170",
+    "name": "Leuhob",
+    "alias": "Leuhob"
+  },
+  {
+    "code": "11.09.170.025",
+    "villageCode": "025",
+    "districtCode": "11.09.170",
+    "name": "Peunayong",
+    "alias": "Peunayong"
+  },
+  {
+    "code": "11.09.170.026",
+    "villageCode": "026",
+    "districtCode": "11.09.170",
+    "name": "Mesjid Guci Rumpong",
+    "alias": "Mesjid Guci Rumpong"
+  },
+  {
+    "code": "11.09.170.027",
+    "villageCode": "027",
+    "districtCode": "11.09.170",
+    "name": "Mee Krukon",
+    "alias": "Mee Krukon"
+  },
+  {
+    "code": "11.09.170.028",
+    "villageCode": "028",
+    "districtCode": "11.09.170",
+    "name": "Reuba Waido",
+    "alias": "Reuba Waido"
+  },
+  {
+    "code": "11.09.170.029",
+    "villageCode": "029",
+    "districtCode": "11.09.170",
+    "name": "Cempala Kuneng",
+    "alias": "Cempala Kuneng"
+  },
+  {
+    "code": "11.09.170.030",
+    "villageCode": "030",
+    "districtCode": "11.09.170",
+    "name": "Ulee Cot Seupeng",
+    "alias": "Ulee Cot Seupeng"
+  },
+  {
+    "code": "11.09.170.031",
+    "villageCode": "031",
+    "districtCode": "11.09.170",
+    "name": "Sawiet",
+    "alias": "Sawiet"
+  },
+  {
+    "code": "11.09.170.032",
+    "villageCode": "032",
+    "districtCode": "11.09.170",
+    "name": "Ulee Tutue",
+    "alias": "Ulee Tutue"
+  },
+  {
+    "code": "11.09.170.033",
+    "villageCode": "033",
+    "districtCode": "11.09.170",
+    "name": "Keutapang",
+    "alias": "Keutapang"
+  },
+  {
+    "code": "11.09.170.034",
+    "villageCode": "034",
+    "districtCode": "11.09.170",
+    "name": "Jurong",
+    "alias": "Jurong"
+  },
+  {
+    "code": "11.09.170.035",
+    "villageCode": "035",
+    "districtCode": "11.09.170",
+    "name": "Raya Krueng Seumiden",
+    "alias": "Raya Krueng Seumiden"
+  },
+  {
+    "code": "11.09.170.036",
+    "villageCode": "036",
+    "districtCode": "11.09.170",
+    "name": "Krueng Seumiden",
+    "alias": "Krueng Seumiden"
+  },
+  {
+    "code": "11.09.170.037",
+    "villageCode": "037",
+    "districtCode": "11.09.170",
+    "name": "Sukon Krueng Seumiden",
+    "alias": "Sukon Krueng Seumiden"
+  },
+  {
+    "code": "11.09.170.038",
+    "villageCode": "038",
+    "districtCode": "11.09.170",
+    "name": "Blang Krueng Seumiden",
+    "alias": "Blang Krueng Seumiden"
+  },
+  {
+    "code": "11.09.170.039",
+    "villageCode": "039",
+    "districtCode": "11.09.170",
+    "name": "Keureumbok",
+    "alias": "Keureumbok"
+  },
+  {
+    "code": "11.09.170.040",
+    "villageCode": "040",
+    "districtCode": "11.09.170",
+    "name": "Mee Krueng Seumiden",
+    "alias": "Mee Krueng Seumiden"
+  },
+  {
+    "code": "11.09.170.041",
+    "villageCode": "041",
+    "districtCode": "11.09.170",
+    "name": "Blang Raya",
+    "alias": "Blang Raya"
+  },
+  {
+    "code": "11.09.170.042",
+    "villageCode": "042",
+    "districtCode": "11.09.170",
+    "name": "Dayah Teungku",
+    "alias": "Dayah Teungku"
+  },
+  {
+    "code": "11.09.170.043",
+    "villageCode": "043",
+    "districtCode": "11.09.170",
+    "name": "Jurong Raya",
+    "alias": "Jurong Raya"
+  },
+  {
+    "code": "11.09.170.044",
+    "villageCode": "044",
+    "districtCode": "11.09.170",
+    "name": "Balee Rastong",
+    "alias": "Balee Rastong"
+  },
+  {
+    "code": "11.09.170.045",
+    "villageCode": "045",
+    "districtCode": "11.09.170",
+    "name": "Lueng Mesjid",
+    "alias": "Lueng Mesjid"
+  },
+  {
+    "code": "11.09.170.046",
+    "villageCode": "046",
+    "districtCode": "11.09.170",
+    "name": "Teungoh Baroh",
+    "alias": "Teungoh Baroh"
+  },
+  {
+    "code": "11.09.170.047",
+    "villageCode": "047",
+    "districtCode": "11.09.170",
+    "name": "Mee Hagu",
+    "alias": "Mee Hagu"
+  },
+  {
+    "code": "11.09.170.048",
+    "villageCode": "048",
+    "districtCode": "11.09.170",
+    "name": "Dayah Sukon",
+    "alias": "Dayah Sukon"
+  }
+]

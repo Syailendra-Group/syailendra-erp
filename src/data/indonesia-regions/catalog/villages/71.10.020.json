@@ -1,0 +1,121 @@
+[
+  {
+    "code": "71.10.020.008",
+    "villageCode": "008",
+    "districtCode": "71.10.020",
+    "name": "Tangagah",
+    "alias": "Tangagah"
+  },
+  {
+    "code": "71.10.020.009",
+    "villageCode": "009",
+    "districtCode": "71.10.020",
+    "name": "Dudepo",
+    "alias": "Dudepo"
+  },
+  {
+    "code": "71.10.020.010",
+    "villageCode": "010",
+    "districtCode": "71.10.020",
+    "name": "Pinolantungan",
+    "alias": "Pinolantungan"
+  },
+  {
+    "code": "71.10.020.011",
+    "villageCode": "011",
+    "districtCode": "71.10.020",
+    "name": "Salongo",
+    "alias": "Salongo"
+  },
+  {
+    "code": "71.10.020.012",
+    "villageCode": "012",
+    "districtCode": "71.10.020",
+    "name": "Soguo",
+    "alias": "Soguo"
+  },
+  {
+    "code": "71.10.020.013",
+    "villageCode": "013",
+    "districtCode": "71.10.020",
+    "name": "Toluaya",
+    "alias": "Toluaya"
+  },
+  {
+    "code": "71.10.020.014",
+    "villageCode": "014",
+    "districtCode": "71.10.020",
+    "name": "Molibagu",
+    "alias": "Molibagu"
+  },
+  {
+    "code": "71.10.020.015",
+    "villageCode": "015",
+    "districtCode": "71.10.020",
+    "name": "Popodu",
+    "alias": "Popodu"
+  },
+  {
+    "code": "71.10.020.016",
+    "villageCode": "016",
+    "districtCode": "71.10.020",
+    "name": "Sondana",
+    "alias": "Sondana"
+  },
+  {
+    "code": "71.10.020.017",
+    "villageCode": "017",
+    "districtCode": "71.10.020",
+    "name": "Tolondadu Ii",
+    "alias": "Tolondadu Ii"
+  },
+  {
+    "code": "71.10.020.018",
+    "villageCode": "018",
+    "districtCode": "71.10.020",
+    "name": "Tolondadu I",
+    "alias": "Tolondadu I"
+  },
+  {
+    "code": "71.10.020.019",
+    "villageCode": "019",
+    "districtCode": "71.10.020",
+    "name": "Tolondadu",
+    "alias": "Tolondadu"
+  },
+  {
+    "code": "71.10.020.020",
+    "villageCode": "020",
+    "districtCode": "71.10.020",
+    "name": "Tabilaa",
+    "alias": "Tabilaa"
+  },
+  {
+    "code": "71.10.020.022",
+    "villageCode": "022",
+    "districtCode": "71.10.020",
+    "name": "Pintadia",
+    "alias": "Pintadia"
+  },
+  {
+    "code": "71.10.020.023",
+    "villageCode": "023",
+    "districtCode": "71.10.020",
+    "name": "Salongo Timur",
+    "alias": "Salongo Timur"
+  },
+  {
+    "code": "71.10.020.025",
+    "villageCode": "025",
+    "districtCode": "71.10.020",
+    "name": "Salongo Barat",
+    "alias": "Salongo Barat"
+  },
+  {
+    "code": "71.10.020.028",
+    "villageCode": "028",
+    "districtCode": "71.10.020",
+    "name": "Dudepo Barat",
+    "alias": "Dudepo Barat"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "code": "32.71.020.001",
+    "villageCode": "001",
+    "districtCode": "32.71.020",
+    "name": "Sindangsari",
+    "alias": "Sindangsari"
+  },
+  {
+    "code": "32.71.020.002",
+    "villageCode": "002",
+    "districtCode": "32.71.020",
+    "name": "Sindangrasa",
+    "alias": "Sindangrasa"
+  },
+  {
+    "code": "32.71.020.003",
+    "villageCode": "003",
+    "districtCode": "32.71.020",
+    "name": "Tajur",
+    "alias": "Tajur"
+  },
+  {
+    "code": "32.71.020.004",
+    "villageCode": "004",
+    "districtCode": "32.71.020",
+    "name": "Katulampa",
+    "alias": "Katulampa"
+  },
+  {
+    "code": "32.71.020.005",
+    "villageCode": "005",
+    "districtCode": "32.71.020",
+    "name": "Baranangsiang",
+    "alias": "Baranangsiang"
+  },
+  {
+    "code": "32.71.020.006",
+    "villageCode": "006",
+    "districtCode": "32.71.020",
+    "name": "Sukasari",
+    "alias": "Sukasari"
+  }
+]

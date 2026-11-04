@@ -1,0 +1,58 @@
+[
+  {
+    "code": "64.03.040.001",
+    "villageCode": "001",
+    "districtCode": "64.03.040",
+    "name": "Batuah",
+    "alias": "Batuah"
+  },
+  {
+    "code": "64.03.040.002",
+    "villageCode": "002",
+    "districtCode": "64.03.040",
+    "name": "Tani Bakti",
+    "alias": "Tani Bakti"
+  },
+  {
+    "code": "64.03.040.003",
+    "villageCode": "003",
+    "districtCode": "64.03.040",
+    "name": "Purwajaya",
+    "alias": "Purwajaya"
+  },
+  {
+    "code": "64.03.040.004",
+    "villageCode": "004",
+    "districtCode": "64.03.040",
+    "name": "Loa Janan Ulu",
+    "alias": "Loa Janan Ulu"
+  },
+  {
+    "code": "64.03.040.005",
+    "villageCode": "005",
+    "districtCode": "64.03.040",
+    "name": "Loa Duri Ulu",
+    "alias": "Loa Duri Ulu"
+  },
+  {
+    "code": "64.03.040.006",
+    "villageCode": "006",
+    "districtCode": "64.03.040",
+    "name": "Bakungan",
+    "alias": "Bakungan"
+  },
+  {
+    "code": "64.03.040.007",
+    "villageCode": "007",
+    "districtCode": "64.03.040",
+    "name": "Loa Duri Ilir",
+    "alias": "Loa Duri Ilir"
+  },
+  {
+    "code": "64.03.040.008",
+    "villageCode": "008",
+    "districtCode": "64.03.040",
+    "name": "Tani Harapan",
+    "alias": "Tani Harapan"
+  }
+]

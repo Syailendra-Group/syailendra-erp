@@ -1,0 +1,58 @@
+[
+  {
+    "code": "94.08.080.001",
+    "villageCode": "001",
+    "districtCode": "94.08.080",
+    "name": "Poom I",
+    "alias": "Poom I"
+  },
+  {
+    "code": "94.08.080.002",
+    "villageCode": "002",
+    "districtCode": "94.08.080",
+    "name": "Poom Ii",
+    "alias": "Poom Ii"
+  },
+  {
+    "code": "94.08.080.003",
+    "villageCode": "003",
+    "districtCode": "94.08.080",
+    "name": "Serewen",
+    "alias": "Serewen"
+  },
+  {
+    "code": "94.08.080.004",
+    "villageCode": "004",
+    "districtCode": "94.08.080",
+    "name": "Rarisi",
+    "alias": "Rarisi"
+  },
+  {
+    "code": "94.08.080.005",
+    "villageCode": "005",
+    "districtCode": "94.08.080",
+    "name": "Makiroan",
+    "alias": "Makiroan"
+  },
+  {
+    "code": "94.08.080.006",
+    "villageCode": "006",
+    "districtCode": "94.08.080",
+    "name": "Worioi",
+    "alias": "Worioi"
+  },
+  {
+    "code": "94.08.080.007",
+    "villageCode": "007",
+    "districtCode": "94.08.080",
+    "name": "Humbe Awai",
+    "alias": "Humbe Awai"
+  },
+  {
+    "code": "94.08.080.008",
+    "villageCode": "008",
+    "districtCode": "94.08.080",
+    "name": "Nurawi",
+    "alias": "Nurawi"
+  }
+]

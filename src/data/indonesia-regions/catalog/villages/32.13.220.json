@@ -1,0 +1,65 @@
+[
+  {
+    "code": "32.13.220.001",
+    "villageCode": "001",
+    "districtCode": "32.13.220",
+    "name": "Cilamaya Hilir",
+    "alias": "Cilamaya Hilir"
+  },
+  {
+    "code": "32.13.220.002",
+    "villageCode": "002",
+    "districtCode": "32.13.220",
+    "name": "Cilamaya Girang",
+    "alias": "Cilamaya Girang"
+  },
+  {
+    "code": "32.13.220.003",
+    "villageCode": "003",
+    "districtCode": "32.13.220",
+    "name": "Rawamekar",
+    "alias": "Rawamekar"
+  },
+  {
+    "code": "32.13.220.004",
+    "villageCode": "004",
+    "districtCode": "32.13.220",
+    "name": "Rawameneng",
+    "alias": "Rawameneng"
+  },
+  {
+    "code": "32.13.220.005",
+    "villageCode": "005",
+    "districtCode": "32.13.220",
+    "name": "Jayamukti",
+    "alias": "Jayamukti"
+  },
+  {
+    "code": "32.13.220.006",
+    "villageCode": "006",
+    "districtCode": "32.13.220",
+    "name": "Blanakan",
+    "alias": "Blanakan"
+  },
+  {
+    "code": "32.13.220.007",
+    "villageCode": "007",
+    "districtCode": "32.13.220",
+    "name": "Langensari",
+    "alias": "Langensari"
+  },
+  {
+    "code": "32.13.220.008",
+    "villageCode": "008",
+    "districtCode": "32.13.220",
+    "name": "Muara",
+    "alias": "Muara"
+  },
+  {
+    "code": "32.13.220.009",
+    "villageCode": "009",
+    "districtCode": "32.13.220",
+    "name": "Tanjungtiga",
+    "alias": "Tanjungtiga"
+  }
+]

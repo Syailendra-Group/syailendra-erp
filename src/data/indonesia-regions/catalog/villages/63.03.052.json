@@ -1,0 +1,93 @@
+[
+  {
+    "code": "63.03.052.001",
+    "villageCode": "001",
+    "districtCode": "63.03.052",
+    "name": "Penggalaman",
+    "alias": "Penggalaman"
+  },
+  {
+    "code": "63.03.052.002",
+    "villageCode": "002",
+    "districtCode": "63.03.052",
+    "name": "Sungai Batang",
+    "alias": "Sungai Batang"
+  },
+  {
+    "code": "63.03.052.003",
+    "villageCode": "003",
+    "districtCode": "63.03.052",
+    "name": "Teluk Selong Ulu",
+    "alias": "Teluk Selong Ulu"
+  },
+  {
+    "code": "63.03.052.004",
+    "villageCode": "004",
+    "districtCode": "63.03.052",
+    "name": "Teluk Selong",
+    "alias": "Teluk Selong"
+  },
+  {
+    "code": "63.03.052.005",
+    "villageCode": "005",
+    "districtCode": "63.03.052",
+    "name": "Tangkas",
+    "alias": "Tangkas"
+  },
+  {
+    "code": "63.03.052.006",
+    "villageCode": "006",
+    "districtCode": "63.03.052",
+    "name": "Sungai Batang Ilir",
+    "alias": "Sungai Batang Ilir"
+  },
+  {
+    "code": "63.03.052.007",
+    "villageCode": "007",
+    "districtCode": "63.03.052",
+    "name": "Sungai Rangas Ulu",
+    "alias": "Sungai Rangas Ulu"
+  },
+  {
+    "code": "63.03.052.008",
+    "villageCode": "008",
+    "districtCode": "63.03.052",
+    "name": "Sungai Rangas Hambuku",
+    "alias": "Sungai Rangas Hambuku"
+  },
+  {
+    "code": "63.03.052.009",
+    "villageCode": "009",
+    "districtCode": "63.03.052",
+    "name": "Sungai Rangas Tengah",
+    "alias": "Sungai Rangas Tengah"
+  },
+  {
+    "code": "63.03.052.010",
+    "villageCode": "010",
+    "districtCode": "63.03.052",
+    "name": "Sungai Rangas",
+    "alias": "Sungai Rangas"
+  },
+  {
+    "code": "63.03.052.011",
+    "villageCode": "011",
+    "districtCode": "63.03.052",
+    "name": "Keliling Benteng Ulu",
+    "alias": "Keliling Benteng Ulu"
+  },
+  {
+    "code": "63.03.052.012",
+    "villageCode": "012",
+    "districtCode": "63.03.052",
+    "name": "Keliling Benteng Tengah",
+    "alias": "Keliling Benteng Tengah"
+  },
+  {
+    "code": "63.03.052.013",
+    "villageCode": "013",
+    "districtCode": "63.03.052",
+    "name": "Antasan Sutun",
+    "alias": "Antasan Sutun"
+  }
+]

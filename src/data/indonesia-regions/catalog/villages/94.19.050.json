@@ -1,0 +1,65 @@
+[
+  {
+    "code": "94.19.050.004",
+    "villageCode": "004",
+    "districtCode": "94.19.050",
+    "name": "Sarmo",
+    "alias": "Sarmo"
+  },
+  {
+    "code": "94.19.050.005",
+    "villageCode": "005",
+    "districtCode": "94.19.050",
+    "name": "Sarmi",
+    "alias": "Sarmi"
+  },
+  {
+    "code": "94.19.050.006",
+    "villageCode": "006",
+    "districtCode": "94.19.050",
+    "name": "Mararena",
+    "alias": "Mararena"
+  },
+  {
+    "code": "94.19.050.007",
+    "villageCode": "007",
+    "districtCode": "94.19.050",
+    "name": "Sawar",
+    "alias": "Sawar"
+  },
+  {
+    "code": "94.19.050.011",
+    "villageCode": "011",
+    "districtCode": "94.19.050",
+    "name": "Liki",
+    "alias": "Liki"
+  },
+  {
+    "code": "94.19.050.012",
+    "villageCode": "012",
+    "districtCode": "94.19.050",
+    "name": "Armo",
+    "alias": "Armo"
+  },
+  {
+    "code": "94.19.050.013",
+    "villageCode": "013",
+    "districtCode": "94.19.050",
+    "name": "Tafarewar",
+    "alias": "Tafarewar"
+  },
+  {
+    "code": "94.19.050.014",
+    "villageCode": "014",
+    "districtCode": "94.19.050",
+    "name": "Lembah Neidam",
+    "alias": "Lembah Neidam"
+  },
+  {
+    "code": "94.19.050.015",
+    "villageCode": "015",
+    "districtCode": "94.19.050",
+    "name": "Armo Pesisir",
+    "alias": "Armo Pesisir"
+  }
+]

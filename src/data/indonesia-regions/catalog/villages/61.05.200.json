@@ -1,0 +1,37 @@
+[
+  {
+    "code": "61.05.200.001",
+    "villageCode": "001",
+    "districtCode": "61.05.200",
+    "name": "Empoto",
+    "alias": "Empoto"
+  },
+  {
+    "code": "61.05.200.002",
+    "villageCode": "002",
+    "districtCode": "61.05.200",
+    "name": "Idas",
+    "alias": "Idas"
+  },
+  {
+    "code": "61.05.200.003",
+    "villageCode": "003",
+    "districtCode": "61.05.200",
+    "name": "Sungai Dangin",
+    "alias": "Sungai Dangin"
+  },
+  {
+    "code": "61.05.200.004",
+    "villageCode": "004",
+    "districtCode": "61.05.200",
+    "name": "Semongan",
+    "alias": "Semongan"
+  },
+  {
+    "code": "61.05.200.005",
+    "villageCode": "005",
+    "districtCode": "61.05.200",
+    "name": "Noyan",
+    "alias": "Noyan"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "code": "95.02.040.001",
+    "villageCode": "001",
+    "districtCode": "95.02.040",
+    "name": "Hello",
+    "alias": "Hello"
+  },
+  {
+    "code": "95.02.040.002",
+    "villageCode": "002",
+    "districtCode": "95.02.040",
+    "name": "Hamkhu",
+    "alias": "Hamkhu"
+  },
+  {
+    "code": "95.02.040.003",
+    "villageCode": "003",
+    "districtCode": "95.02.040",
+    "name": "Bangun",
+    "alias": "Bangun"
+  },
+  {
+    "code": "95.02.040.004",
+    "villageCode": "004",
+    "districtCode": "95.02.040",
+    "name": "Domo",
+    "alias": "Domo"
+  },
+  {
+    "code": "95.02.040.005",
+    "villageCode": "005",
+    "districtCode": "95.02.040",
+    "name": "Sadar",
+    "alias": "Sadar"
+  },
+  {
+    "code": "95.02.040.006",
+    "villageCode": "006",
+    "districtCode": "95.02.040",
+    "name": "Navini",
+    "alias": "Navini"
+  },
+  {
+    "code": "95.02.040.007",
+    "villageCode": "007",
+    "districtCode": "95.02.040",
+    "name": "Makmur",
+    "alias": "Makmur"
+  },
+  {
+    "code": "95.02.040.008",
+    "villageCode": "008",
+    "districtCode": "95.02.040",
+    "name": "Sohokanggo",
+    "alias": "Sohokanggo"
+  }
+]

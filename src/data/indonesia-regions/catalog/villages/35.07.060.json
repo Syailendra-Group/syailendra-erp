@@ -1,0 +1,107 @@
+[
+  {
+    "code": "35.07.060.001",
+    "villageCode": "001",
+    "districtCode": "35.07.060",
+    "name": "Sitiarjo",
+    "alias": "Sitiarjo"
+  },
+  {
+    "code": "35.07.060.002",
+    "villageCode": "002",
+    "districtCode": "35.07.060",
+    "name": "Tambakrejo",
+    "alias": "Tambakrejo"
+  },
+  {
+    "code": "35.07.060.003",
+    "villageCode": "003",
+    "districtCode": "35.07.060",
+    "name": "Kedungbanteng",
+    "alias": "Kedungbanteng"
+  },
+  {
+    "code": "35.07.060.004",
+    "villageCode": "004",
+    "districtCode": "35.07.060",
+    "name": "Tambakasri",
+    "alias": "Tambakasri"
+  },
+  {
+    "code": "35.07.060.005",
+    "villageCode": "005",
+    "districtCode": "35.07.060",
+    "name": "Tegalrejo",
+    "alias": "Tegalrejo"
+  },
+  {
+    "code": "35.07.060.006",
+    "villageCode": "006",
+    "districtCode": "35.07.060",
+    "name": "Ringinkembar",
+    "alias": "Ringinkembar"
+  },
+  {
+    "code": "35.07.060.007",
+    "villageCode": "007",
+    "districtCode": "35.07.060",
+    "name": "Sumberagung",
+    "alias": "Sumberagung"
+  },
+  {
+    "code": "35.07.060.008",
+    "villageCode": "008",
+    "districtCode": "35.07.060",
+    "name": "Harjokuncaran",
+    "alias": "Harjokuncaran"
+  },
+  {
+    "code": "35.07.060.009",
+    "villageCode": "009",
+    "districtCode": "35.07.060",
+    "name": "Argotirto",
+    "alias": "Argotirto"
+  },
+  {
+    "code": "35.07.060.010",
+    "villageCode": "010",
+    "districtCode": "35.07.060",
+    "name": "Ringinsari",
+    "alias": "Ringinsari"
+  },
+  {
+    "code": "35.07.060.011",
+    "villageCode": "011",
+    "districtCode": "35.07.060",
+    "name": "Druju",
+    "alias": "Druju"
+  },
+  {
+    "code": "35.07.060.012",
+    "villageCode": "012",
+    "districtCode": "35.07.060",
+    "name": "Sumbermanjing Wetan",
+    "alias": "Sumbermanjing Wetan"
+  },
+  {
+    "code": "35.07.060.013",
+    "villageCode": "013",
+    "districtCode": "35.07.060",
+    "name": "Klepu",
+    "alias": "Klepu"
+  },
+  {
+    "code": "35.07.060.014",
+    "villageCode": "014",
+    "districtCode": "35.07.060",
+    "name": "Sekarbanyu",
+    "alias": "Sekarbanyu"
+  },
+  {
+    "code": "35.07.060.015",
+    "villageCode": "015",
+    "districtCode": "35.07.060",
+    "name": "Sidoasri",
+    "alias": "Sidoasri"
+  }
+]

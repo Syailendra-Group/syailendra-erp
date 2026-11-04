@@ -1,0 +1,170 @@
+[
+  {
+    "code": "71.03.100.001",
+    "villageCode": "001",
+    "districtCode": "71.03.100",
+    "name": "Lenganeng",
+    "alias": "Lenganeng"
+  },
+  {
+    "code": "71.03.100.002",
+    "villageCode": "002",
+    "districtCode": "71.03.100",
+    "name": "Tarolang",
+    "alias": "Tarolang"
+  },
+  {
+    "code": "71.03.100.003",
+    "villageCode": "003",
+    "districtCode": "71.03.100",
+    "name": "Tola",
+    "alias": "Tola"
+  },
+  {
+    "code": "71.03.100.004",
+    "villageCode": "004",
+    "districtCode": "71.03.100",
+    "name": "Bowongkulu",
+    "alias": "Bowongkulu"
+  },
+  {
+    "code": "71.03.100.005",
+    "villageCode": "005",
+    "districtCode": "71.03.100",
+    "name": "Petta",
+    "alias": "Petta"
+  },
+  {
+    "code": "71.03.100.006",
+    "villageCode": "006",
+    "districtCode": "71.03.100",
+    "name": "Bengketang",
+    "alias": "Bengketang"
+  },
+  {
+    "code": "71.03.100.007",
+    "villageCode": "007",
+    "districtCode": "71.03.100",
+    "name": "Kalurae",
+    "alias": "Kalurae"
+  },
+  {
+    "code": "71.03.100.008",
+    "villageCode": "008",
+    "districtCode": "71.03.100",
+    "name": "Utaurano",
+    "alias": "Utaurano"
+  },
+  {
+    "code": "71.03.100.009",
+    "villageCode": "009",
+    "districtCode": "71.03.100",
+    "name": "Nahasahabe",
+    "alias": "Nahasahabe"
+  },
+  {
+    "code": "71.03.100.010",
+    "villageCode": "010",
+    "districtCode": "71.03.100",
+    "name": "Beha",
+    "alias": "Beha"
+  },
+  {
+    "code": "71.03.100.011",
+    "villageCode": "011",
+    "districtCode": "71.03.100",
+    "name": "Kalekube",
+    "alias": "Kalekube"
+  },
+  {
+    "code": "71.03.100.012",
+    "villageCode": "012",
+    "districtCode": "71.03.100",
+    "name": "Mala",
+    "alias": "Mala"
+  },
+  {
+    "code": "71.03.100.013",
+    "villageCode": "013",
+    "districtCode": "71.03.100",
+    "name": "Bahu",
+    "alias": "Bahu"
+  },
+  {
+    "code": "71.03.100.014",
+    "villageCode": "014",
+    "districtCode": "71.03.100",
+    "name": "Kalasuge",
+    "alias": "Kalasuge"
+  },
+  {
+    "code": "71.03.100.019",
+    "villageCode": "019",
+    "districtCode": "71.03.100",
+    "name": "Pusunge",
+    "alias": "Pusunge"
+  },
+  {
+    "code": "71.03.100.020",
+    "villageCode": "020",
+    "districtCode": "71.03.100",
+    "name": "Moade",
+    "alias": "Moade"
+  },
+  {
+    "code": "71.03.100.021",
+    "villageCode": "021",
+    "districtCode": "71.03.100",
+    "name": "Petta Timur",
+    "alias": "Petta Timur"
+  },
+  {
+    "code": "71.03.100.022",
+    "villageCode": "022",
+    "districtCode": "71.03.100",
+    "name": "Petta Selatan",
+    "alias": "Petta Selatan"
+  },
+  {
+    "code": "71.03.100.023",
+    "villageCode": "023",
+    "districtCode": "71.03.100",
+    "name": "Petta Barat",
+    "alias": "Petta Barat"
+  },
+  {
+    "code": "71.03.100.024",
+    "villageCode": "024",
+    "districtCode": "71.03.100",
+    "name": "Likuang",
+    "alias": "Likuang"
+  },
+  {
+    "code": "71.03.100.025",
+    "villageCode": "025",
+    "districtCode": "71.03.100",
+    "name": "Raku",
+    "alias": "Raku"
+  },
+  {
+    "code": "71.03.100.026",
+    "villageCode": "026",
+    "districtCode": "71.03.100",
+    "name": "Kalekube I",
+    "alias": "Kalekube I"
+  },
+  {
+    "code": "71.03.100.027",
+    "villageCode": "027",
+    "districtCode": "71.03.100",
+    "name": "Bowongkulu I",
+    "alias": "Bowongkulu I"
+  },
+  {
+    "code": "71.03.100.028",
+    "villageCode": "028",
+    "districtCode": "71.03.100",
+    "name": "Naha I",
+    "alias": "Naha I"
+  }
+]

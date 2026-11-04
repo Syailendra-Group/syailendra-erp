@@ -1,0 +1,37 @@
+[
+  {
+    "code": "72.04.042.001",
+    "villageCode": "001",
+    "districtCode": "72.04.042",
+    "name": "Tamadue",
+    "alias": "Tamadue"
+  },
+  {
+    "code": "72.04.042.002",
+    "villageCode": "002",
+    "districtCode": "72.04.042",
+    "name": "Maholo",
+    "alias": "Maholo"
+  },
+  {
+    "code": "72.04.042.003",
+    "villageCode": "003",
+    "districtCode": "72.04.042",
+    "name": "Winowanga",
+    "alias": "Winowanga"
+  },
+  {
+    "code": "72.04.042.004",
+    "villageCode": "004",
+    "districtCode": "72.04.042",
+    "name": "Mekar Sari",
+    "alias": "Mekar Sari"
+  },
+  {
+    "code": "72.04.042.005",
+    "villageCode": "005",
+    "districtCode": "72.04.042",
+    "name": "Kalemago",
+    "alias": "Kalemago"
+  }
+]

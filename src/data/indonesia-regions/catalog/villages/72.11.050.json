@@ -1,0 +1,58 @@
+[
+  {
+    "code": "72.11.050.001",
+    "villageCode": "001",
+    "districtCode": "72.11.050",
+    "name": "Monsongan",
+    "alias": "Monsongan"
+  },
+  {
+    "code": "72.11.050.002",
+    "villageCode": "002",
+    "districtCode": "72.11.050",
+    "name": "Pososlalongo",
+    "alias": "Pososlalongo"
+  },
+  {
+    "code": "72.11.050.003",
+    "villageCode": "003",
+    "districtCode": "72.11.050",
+    "name": "Badumpayan",
+    "alias": "Badumpayan"
+  },
+  {
+    "code": "72.11.050.004",
+    "villageCode": "004",
+    "districtCode": "72.11.050",
+    "name": "Tintingo",
+    "alias": "Tintingo"
+  },
+  {
+    "code": "72.11.050.005",
+    "villageCode": "005",
+    "districtCode": "72.11.050",
+    "name": "Adean",
+    "alias": "Adean"
+  },
+  {
+    "code": "72.11.050.006",
+    "villageCode": "006",
+    "districtCode": "72.11.050",
+    "name": "Mominit",
+    "alias": "Mominit"
+  },
+  {
+    "code": "72.11.050.007",
+    "villageCode": "007",
+    "districtCode": "72.11.050",
+    "name": "Timbong",
+    "alias": "Timbong"
+  },
+  {
+    "code": "72.11.050.008",
+    "villageCode": "008",
+    "districtCode": "72.11.050",
+    "name": "Gong-Gong",
+    "alias": "Gong-Gong"
+  }
+]

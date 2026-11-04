@@ -1,0 +1,30 @@
+[
+  {
+    "code": "35.29.250.001",
+    "villageCode": "001",
+    "districtCode": "35.29.250",
+    "name": "Massalima",
+    "alias": "Massalima"
+  },
+  {
+    "code": "35.29.250.002",
+    "villageCode": "002",
+    "districtCode": "35.29.250",
+    "name": "Sukajeruk",
+    "alias": "Sukajeruk"
+  },
+  {
+    "code": "35.29.250.003",
+    "villageCode": "003",
+    "districtCode": "35.29.250",
+    "name": "Karamian",
+    "alias": "Karamian"
+  },
+  {
+    "code": "35.29.250.004",
+    "villageCode": "004",
+    "districtCode": "35.29.250",
+    "name": "Masakambing",
+    "alias": "Masakambing"
+  }
+]

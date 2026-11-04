@@ -1,0 +1,65 @@
+[
+  {
+    "code": "53.02.030.010",
+    "villageCode": "010",
+    "districtCode": "53.02.030",
+    "name": "Kananggar",
+    "alias": "Kananggar"
+  },
+  {
+    "code": "53.02.030.011",
+    "villageCode": "011",
+    "districtCode": "53.02.030",
+    "name": "Karera Jangga",
+    "alias": "Karera Jangga"
+  },
+  {
+    "code": "53.02.030.018",
+    "villageCode": "018",
+    "districtCode": "53.02.030",
+    "name": "Mehang Mata",
+    "alias": "Mehang Mata"
+  },
+  {
+    "code": "53.02.030.020",
+    "villageCode": "020",
+    "districtCode": "53.02.030",
+    "name": "Prai Mbana",
+    "alias": "Prai Mbana"
+  },
+  {
+    "code": "53.02.030.021",
+    "villageCode": "021",
+    "districtCode": "53.02.030",
+    "name": "Pabera Manera",
+    "alias": "Pabera Manera"
+  },
+  {
+    "code": "53.02.030.025",
+    "villageCode": "025",
+    "districtCode": "53.02.030",
+    "name": "Winu Muru",
+    "alias": "Winu Muru"
+  },
+  {
+    "code": "53.02.030.026",
+    "villageCode": "026",
+    "districtCode": "53.02.030",
+    "name": "Lai Taku",
+    "alias": "Lai Taku"
+  },
+  {
+    "code": "53.02.030.027",
+    "villageCode": "027",
+    "districtCode": "53.02.030",
+    "name": "Desa Persiapan Nara",
+    "alias": "Desa Persiapan Nara"
+  },
+  {
+    "code": "53.02.030.028",
+    "villageCode": "028",
+    "districtCode": "53.02.030",
+    "name": "Desa Persiapan Laihobu",
+    "alias": "Desa Persiapan Laihobu"
+  }
+]

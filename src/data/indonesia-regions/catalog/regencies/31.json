@@ -1,0 +1,50 @@
+[
+  {
+    "code": "31.01",
+    "regencyCode": "01",
+    "provinceCode": "31",
+    "provinceName": "DKI Jakarta",
+    "name": "Kabupaten Adm. Kep. Seribu",
+    "alias": "Adm. Kep. Seribu"
+  },
+  {
+    "code": "31.71",
+    "regencyCode": "71",
+    "provinceCode": "31",
+    "provinceName": "DKI Jakarta",
+    "name": "Kota Adm. Jakarta Selatan",
+    "alias": "Adm. Jakarta Selatan"
+  },
+  {
+    "code": "31.72",
+    "regencyCode": "72",
+    "provinceCode": "31",
+    "provinceName": "DKI Jakarta",
+    "name": "Kota Adm. Jakarta Timur",
+    "alias": "Adm. Jakarta Timur"
+  },
+  {
+    "code": "31.73",
+    "regencyCode": "73",
+    "provinceCode": "31",
+    "provinceName": "DKI Jakarta",
+    "name": "Kota Adm. Jakarta Pusat",
+    "alias": "Adm. Jakarta Pusat"
+  },
+  {
+    "code": "31.74",
+    "regencyCode": "74",
+    "provinceCode": "31",
+    "provinceName": "DKI Jakarta",
+    "name": "Kota Adm. Jakarta Barat",
+    "alias": "Adm. Jakarta Barat"
+  },
+  {
+    "code": "31.75",
+    "regencyCode": "75",
+    "provinceCode": "31",
+    "provinceName": "DKI Jakarta",
+    "name": "Kota Adm. Jakarta Utara",
+    "alias": "Adm. Jakarta Utara"
+  }
+]

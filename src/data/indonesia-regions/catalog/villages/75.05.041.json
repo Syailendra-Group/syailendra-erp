@@ -1,0 +1,79 @@
+[
+  {
+    "code": "75.05.041.001",
+    "villageCode": "001",
+    "districtCode": "75.05.041",
+    "name": "Wubudu",
+    "alias": "Wubudu"
+  },
+  {
+    "code": "75.05.041.002",
+    "villageCode": "002",
+    "districtCode": "75.05.041",
+    "name": "Buladu",
+    "alias": "Buladu"
+  },
+  {
+    "code": "75.05.041.003",
+    "villageCode": "003",
+    "districtCode": "75.05.041",
+    "name": "Deme Ii",
+    "alias": "Deme Ii"
+  },
+  {
+    "code": "75.05.041.004",
+    "villageCode": "004",
+    "districtCode": "75.05.041",
+    "name": "Deme I",
+    "alias": "Deme I"
+  },
+  {
+    "code": "75.05.041.005",
+    "villageCode": "005",
+    "districtCode": "75.05.041",
+    "name": "Dulukapa",
+    "alias": "Dulukapa"
+  },
+  {
+    "code": "75.05.041.006",
+    "villageCode": "006",
+    "districtCode": "75.05.041",
+    "name": "Bubalango",
+    "alias": "Bubalango"
+  },
+  {
+    "code": "75.05.041.007",
+    "villageCode": "007",
+    "districtCode": "75.05.041",
+    "name": "Hulawa",
+    "alias": "Hulawa"
+  },
+  {
+    "code": "75.05.041.008",
+    "villageCode": "008",
+    "districtCode": "75.05.041",
+    "name": "Koluwoka",
+    "alias": "Koluwoka"
+  },
+  {
+    "code": "75.05.041.009",
+    "villageCode": "009",
+    "districtCode": "75.05.041",
+    "name": "Buluwatu",
+    "alias": "Buluwatu"
+  },
+  {
+    "code": "75.05.041.010",
+    "villageCode": "010",
+    "districtCode": "75.05.041",
+    "name": "Motihelumo",
+    "alias": "Motihelumo"
+  },
+  {
+    "code": "75.05.041.011",
+    "villageCode": "011",
+    "districtCode": "75.05.041",
+    "name": "Upt Motihelumo",
+    "alias": "Upt Motihelumo"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "code": "18.01.061.001",
+    "villageCode": "001",
+    "districtCode": "18.01.061",
+    "name": "Tambak Jaya",
+    "alias": "Tambak Jaya"
+  },
+  {
+    "code": "18.01.061.002",
+    "villageCode": "002",
+    "districtCode": "18.01.061",
+    "name": "Padang Tambak",
+    "alias": "Padang Tambak"
+  },
+  {
+    "code": "18.01.061.003",
+    "villageCode": "003",
+    "districtCode": "18.01.061",
+    "name": "Sukaraja",
+    "alias": "Sukaraja"
+  },
+  {
+    "code": "18.01.061.004",
+    "villageCode": "004",
+    "districtCode": "18.01.061",
+    "name": "Sukananti",
+    "alias": "Sukananti"
+  },
+  {
+    "code": "18.01.061.007",
+    "villageCode": "007",
+    "districtCode": "18.01.061",
+    "name": "Tanjung Raya",
+    "alias": "Tanjung Raya"
+  },
+  {
+    "code": "18.01.061.011",
+    "villageCode": "011",
+    "districtCode": "18.01.061",
+    "name": "Mutar Alam",
+    "alias": "Mutar Alam"
+  },
+  {
+    "code": "18.01.061.012",
+    "villageCode": "012",
+    "districtCode": "18.01.061",
+    "name": "Karang Agung",
+    "alias": "Karang Agung"
+  },
+  {
+    "code": "18.01.061.013",
+    "villageCode": "013",
+    "districtCode": "18.01.061",
+    "name": "Pura Laksana",
+    "alias": "Pura Laksana"
+  },
+  {
+    "code": "18.01.061.014",
+    "villageCode": "014",
+    "districtCode": "18.01.061",
+    "name": "Fajar Bulan",
+    "alias": "Fajar Bulan"
+  }
+]

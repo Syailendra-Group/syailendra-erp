@@ -1,0 +1,107 @@
+[
+  {
+    "code": "11.09.151.001",
+    "villageCode": "001",
+    "districtCode": "11.09.151",
+    "name": "Beureuleung",
+    "alias": "Beureuleung"
+  },
+  {
+    "code": "11.09.151.002",
+    "villageCode": "002",
+    "districtCode": "11.09.151",
+    "name": "Pangge/Pilok",
+    "alias": "Pangge/Pilok"
+  },
+  {
+    "code": "11.09.151.003",
+    "villageCode": "003",
+    "districtCode": "11.09.151",
+    "name": "Nicah",
+    "alias": "Nicah"
+  },
+  {
+    "code": "11.09.151.004",
+    "villageCode": "004",
+    "districtCode": "11.09.151",
+    "name": "Mesjid Memeuaneuk",
+    "alias": "Mesjid Memeuaneuk"
+  },
+  {
+    "code": "11.09.151.005",
+    "villageCode": "005",
+    "districtCode": "11.09.151",
+    "name": "Sentosa",
+    "alias": "Sentosa"
+  },
+  {
+    "code": "11.09.151.006",
+    "villageCode": "006",
+    "districtCode": "11.09.151",
+    "name": "Sukon",
+    "alias": "Sukon"
+  },
+  {
+    "code": "11.09.151.007",
+    "villageCode": "007",
+    "districtCode": "11.09.151",
+    "name": "Daka",
+    "alias": "Daka"
+  },
+  {
+    "code": "11.09.151.008",
+    "villageCode": "008",
+    "districtCode": "11.09.151",
+    "name": "Baroh Beureuleung",
+    "alias": "Baroh Beureuleung"
+  },
+  {
+    "code": "11.09.151.009",
+    "villageCode": "009",
+    "districtCode": "11.09.151",
+    "name": "Teungoh Beureuleung",
+    "alias": "Teungoh Beureuleung"
+  },
+  {
+    "code": "11.09.151.010",
+    "villageCode": "010",
+    "districtCode": "11.09.151",
+    "name": "Mesjid Beureuleung",
+    "alias": "Mesjid Beureuleung"
+  },
+  {
+    "code": "11.09.151.011",
+    "villageCode": "011",
+    "districtCode": "11.09.151",
+    "name": "Mee Beureuleung",
+    "alias": "Mee Beureuleung"
+  },
+  {
+    "code": "11.09.151.012",
+    "villageCode": "012",
+    "districtCode": "11.09.151",
+    "name": "Paya",
+    "alias": "Paya"
+  },
+  {
+    "code": "11.09.151.013",
+    "villageCode": "013",
+    "districtCode": "11.09.151",
+    "name": "Gintong",
+    "alias": "Gintong"
+  },
+  {
+    "code": "11.09.151.014",
+    "villageCode": "014",
+    "districtCode": "11.09.151",
+    "name": "Karieng",
+    "alias": "Karieng"
+  },
+  {
+    "code": "11.09.151.015",
+    "villageCode": "015",
+    "districtCode": "11.09.151",
+    "name": "Grong Grong",
+    "alias": "Grong Grong"
+  }
+]

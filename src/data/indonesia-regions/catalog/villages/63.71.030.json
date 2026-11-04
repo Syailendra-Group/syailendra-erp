@@ -1,0 +1,65 @@
+[
+  {
+    "code": "63.71.030.001",
+    "villageCode": "001",
+    "districtCode": "63.71.030",
+    "name": "Teluk Tiram",
+    "alias": "Teluk Tiram"
+  },
+  {
+    "code": "63.71.030.002",
+    "villageCode": "002",
+    "districtCode": "63.71.030",
+    "name": "Telawang",
+    "alias": "Telawang"
+  },
+  {
+    "code": "63.71.030.008",
+    "villageCode": "008",
+    "districtCode": "63.71.030",
+    "name": "Telaga Biru",
+    "alias": "Telaga Biru"
+  },
+  {
+    "code": "63.71.030.009",
+    "villageCode": "009",
+    "districtCode": "63.71.030",
+    "name": "Pelambuan",
+    "alias": "Pelambuan"
+  },
+  {
+    "code": "63.71.030.010",
+    "villageCode": "010",
+    "districtCode": "63.71.030",
+    "name": "Belitung Selatan",
+    "alias": "Belitung Selatan"
+  },
+  {
+    "code": "63.71.030.011",
+    "villageCode": "011",
+    "districtCode": "63.71.030",
+    "name": "Belitung Utara",
+    "alias": "Belitung Utara"
+  },
+  {
+    "code": "63.71.030.013",
+    "villageCode": "013",
+    "districtCode": "63.71.030",
+    "name": "Basirih",
+    "alias": "Basirih"
+  },
+  {
+    "code": "63.71.030.014",
+    "villageCode": "014",
+    "districtCode": "63.71.030",
+    "name": "Kuin Cerucuk",
+    "alias": "Kuin Cerucuk"
+  },
+  {
+    "code": "63.71.030.015",
+    "villageCode": "015",
+    "districtCode": "63.71.030",
+    "name": "Kuin Selatan",
+    "alias": "Kuin Selatan"
+  }
+]

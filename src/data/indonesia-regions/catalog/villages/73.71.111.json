@@ -1,0 +1,58 @@
+[
+  {
+    "code": "73.71.111.001",
+    "villageCode": "001",
+    "districtCode": "73.71.111",
+    "name": "Tamalanrea Indah",
+    "alias": "Tamalanrea Indah"
+  },
+  {
+    "code": "73.71.111.002",
+    "villageCode": "002",
+    "districtCode": "73.71.111",
+    "name": "Tamalanrea Jaya",
+    "alias": "Tamalanrea Jaya"
+  },
+  {
+    "code": "73.71.111.003",
+    "villageCode": "003",
+    "districtCode": "73.71.111",
+    "name": "Tamalanrea",
+    "alias": "Tamalanrea"
+  },
+  {
+    "code": "73.71.111.004",
+    "villageCode": "004",
+    "districtCode": "73.71.111",
+    "name": "Kapasa",
+    "alias": "Kapasa"
+  },
+  {
+    "code": "73.71.111.005",
+    "villageCode": "005",
+    "districtCode": "73.71.111",
+    "name": "Parang Loe",
+    "alias": "Parang Loe"
+  },
+  {
+    "code": "73.71.111.006",
+    "villageCode": "006",
+    "districtCode": "73.71.111",
+    "name": "Bira",
+    "alias": "Bira"
+  },
+  {
+    "code": "73.71.111.007",
+    "villageCode": "007",
+    "districtCode": "73.71.111",
+    "name": "Buntusu",
+    "alias": "Buntusu"
+  },
+  {
+    "code": "73.71.111.008",
+    "villageCode": "008",
+    "districtCode": "73.71.111",
+    "name": "Kapasa Raya",
+    "alias": "Kapasa Raya"
+  }
+]

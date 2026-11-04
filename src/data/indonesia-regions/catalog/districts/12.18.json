@@ -1,0 +1,138 @@
+[
+  {
+    "code": "12.18.010",
+    "districtCode": "010",
+    "regencyCode": "12.18",
+    "provinceCode": "12",
+    "name": "Kecamatan Kotarih",
+    "alias": "Kotarih"
+  },
+  {
+    "code": "12.18.011",
+    "districtCode": "011",
+    "regencyCode": "12.18",
+    "provinceCode": "12",
+    "name": "Kecamatan Silinda",
+    "alias": "Silinda"
+  },
+  {
+    "code": "12.18.012",
+    "districtCode": "012",
+    "regencyCode": "12.18",
+    "provinceCode": "12",
+    "name": "Kecamatan Bintang Bayu",
+    "alias": "Bintang Bayu"
+  },
+  {
+    "code": "12.18.020",
+    "districtCode": "020",
+    "regencyCode": "12.18",
+    "provinceCode": "12",
+    "name": "Kecamatan Dolok Masihul",
+    "alias": "Dolok Masihul"
+  },
+  {
+    "code": "12.18.021",
+    "districtCode": "021",
+    "regencyCode": "12.18",
+    "provinceCode": "12",
+    "name": "Kecamatan Serbajadi",
+    "alias": "Serbajadi"
+  },
+  {
+    "code": "12.18.030",
+    "districtCode": "030",
+    "regencyCode": "12.18",
+    "provinceCode": "12",
+    "name": "Kecamatan Sipispis",
+    "alias": "Sipispis"
+  },
+  {
+    "code": "12.18.040",
+    "districtCode": "040",
+    "regencyCode": "12.18",
+    "provinceCode": "12",
+    "name": "Kecamatan Dolok Merawan",
+    "alias": "Dolok Merawan"
+  },
+  {
+    "code": "12.18.050",
+    "districtCode": "050",
+    "regencyCode": "12.18",
+    "provinceCode": "12",
+    "name": "Kecamatan Tebingtinggi",
+    "alias": "Tebingtinggi"
+  },
+  {
+    "code": "12.18.051",
+    "districtCode": "051",
+    "regencyCode": "12.18",
+    "provinceCode": "12",
+    "name": "Kecamatan Tebing Syahbandar",
+    "alias": "Tebing Syahbandar"
+  },
+  {
+    "code": "12.18.060",
+    "districtCode": "060",
+    "regencyCode": "12.18",
+    "provinceCode": "12",
+    "name": "Kecamatan Bandar Khalipah",
+    "alias": "Bandar Khalipah"
+  },
+  {
+    "code": "12.18.070",
+    "districtCode": "070",
+    "regencyCode": "12.18",
+    "provinceCode": "12",
+    "name": "Kecamatan Tanjung Beringin",
+    "alias": "Tanjung Beringin"
+  },
+  {
+    "code": "12.18.080",
+    "districtCode": "080",
+    "regencyCode": "12.18",
+    "provinceCode": "12",
+    "name": "Kecamatan Sei Rampah",
+    "alias": "Sei Rampah"
+  },
+  {
+    "code": "12.18.081",
+    "districtCode": "081",
+    "regencyCode": "12.18",
+    "provinceCode": "12",
+    "name": "Kecamatan Sei Bamban",
+    "alias": "Sei Bamban"
+  },
+  {
+    "code": "12.18.090",
+    "districtCode": "090",
+    "regencyCode": "12.18",
+    "provinceCode": "12",
+    "name": "Kecamatan Teluk Mengkudu",
+    "alias": "Teluk Mengkudu"
+  },
+  {
+    "code": "12.18.100",
+    "districtCode": "100",
+    "regencyCode": "12.18",
+    "provinceCode": "12",
+    "name": "Kecamatan Perbaungan",
+    "alias": "Perbaungan"
+  },
+  {
+    "code": "12.18.101",
+    "districtCode": "101",
+    "regencyCode": "12.18",
+    "provinceCode": "12",
+    "name": "Kecamatan Pegajahan",
+    "alias": "Pegajahan"
+  },
+  {
+    "code": "12.18.110",
+    "districtCode": "110",
+    "regencyCode": "12.18",
+    "provinceCode": "12",
+    "name": "Kecamatan Pantai Cermin",
+    "alias": "Pantai Cermin"
+  }
+]

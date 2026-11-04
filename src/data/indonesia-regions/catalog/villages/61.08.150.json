@@ -1,0 +1,79 @@
+[
+  {
+    "code": "61.08.150.001",
+    "villageCode": "001",
+    "districtCode": "61.08.150",
+    "name": "Jongkong Hulu",
+    "alias": "Jongkong Hulu"
+  },
+  {
+    "code": "61.08.150.002",
+    "villageCode": "002",
+    "districtCode": "61.08.150",
+    "name": "Kerengas",
+    "alias": "Kerengas"
+  },
+  {
+    "code": "61.08.150.003",
+    "villageCode": "003",
+    "districtCode": "61.08.150",
+    "name": "Mensusai",
+    "alias": "Mensusai"
+  },
+  {
+    "code": "61.08.150.004",
+    "villageCode": "004",
+    "districtCode": "61.08.150",
+    "name": "Mantan",
+    "alias": "Mantan"
+  },
+  {
+    "code": "61.08.150.005",
+    "villageCode": "005",
+    "districtCode": "61.08.150",
+    "name": "Nanga Suhaid",
+    "alias": "Nanga Suhaid"
+  },
+  {
+    "code": "61.08.150.006",
+    "villageCode": "006",
+    "districtCode": "61.08.150",
+    "name": "Madang Permai",
+    "alias": "Madang Permai"
+  },
+  {
+    "code": "61.08.150.007",
+    "villageCode": "007",
+    "districtCode": "61.08.150",
+    "name": "Tanjung",
+    "alias": "Tanjung"
+  },
+  {
+    "code": "61.08.150.008",
+    "villageCode": "008",
+    "districtCode": "61.08.150",
+    "name": "Laut Tawang",
+    "alias": "Laut Tawang"
+  },
+  {
+    "code": "61.08.150.010",
+    "villageCode": "010",
+    "districtCode": "61.08.150",
+    "name": "Menapar",
+    "alias": "Menapar"
+  },
+  {
+    "code": "61.08.150.011",
+    "villageCode": "011",
+    "districtCode": "61.08.150",
+    "name": "Lubuk Pengail",
+    "alias": "Lubuk Pengail"
+  },
+  {
+    "code": "61.08.150.012",
+    "villageCode": "012",
+    "districtCode": "61.08.150",
+    "name": "Tanjung Harapan",
+    "alias": "Tanjung Harapan"
+  }
+]

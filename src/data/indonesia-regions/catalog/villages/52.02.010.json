@@ -1,0 +1,72 @@
+[
+  {
+    "code": "52.02.010.002",
+    "villageCode": "002",
+    "districtCode": "52.02.010",
+    "name": "Selong Belanak",
+    "alias": "Selong Belanak"
+  },
+  {
+    "code": "52.02.010.003",
+    "villageCode": "003",
+    "districtCode": "52.02.010",
+    "name": "Mekar Sari",
+    "alias": "Mekar Sari"
+  },
+  {
+    "code": "52.02.010.004",
+    "villageCode": "004",
+    "districtCode": "52.02.010",
+    "name": "Banyu Urip",
+    "alias": "Banyu Urip"
+  },
+  {
+    "code": "52.02.010.005",
+    "villageCode": "005",
+    "districtCode": "52.02.010",
+    "name": "Kateng",
+    "alias": "Kateng"
+  },
+  {
+    "code": "52.02.010.006",
+    "villageCode": "006",
+    "districtCode": "52.02.010",
+    "name": "Mangkung",
+    "alias": "Mangkung"
+  },
+  {
+    "code": "52.02.010.007",
+    "villageCode": "007",
+    "districtCode": "52.02.010",
+    "name": "Bondir",
+    "alias": "Bondir"
+  },
+  {
+    "code": "52.02.010.013",
+    "villageCode": "013",
+    "districtCode": "52.02.010",
+    "name": "Setanggor",
+    "alias": "Setanggor"
+  },
+  {
+    "code": "52.02.010.014",
+    "villageCode": "014",
+    "districtCode": "52.02.010",
+    "name": "Penujak",
+    "alias": "Penujak"
+  },
+  {
+    "code": "52.02.010.015",
+    "villageCode": "015",
+    "districtCode": "52.02.010",
+    "name": "Batujai",
+    "alias": "Batujai"
+  },
+  {
+    "code": "52.02.010.016",
+    "villageCode": "016",
+    "districtCode": "52.02.010",
+    "name": "Tanak Rarang",
+    "alias": "Tanak Rarang"
+  }
+]

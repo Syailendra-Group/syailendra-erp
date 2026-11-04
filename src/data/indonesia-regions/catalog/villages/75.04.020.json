@@ -1,0 +1,86 @@
+[
+  {
+    "code": "75.04.020.006",
+    "villageCode": "006",
+    "districtCode": "75.04.020",
+    "name": "Dutohe",
+    "alias": "Dutohe"
+  },
+  {
+    "code": "75.04.020.007",
+    "villageCode": "007",
+    "districtCode": "75.04.020",
+    "name": "Tanggilingo",
+    "alias": "Tanggilingo"
+  },
+  {
+    "code": "75.04.020.008",
+    "villageCode": "008",
+    "districtCode": "75.04.020",
+    "name": "Padengo",
+    "alias": "Padengo"
+  },
+  {
+    "code": "75.04.020.009",
+    "villageCode": "009",
+    "districtCode": "75.04.020",
+    "name": "Oluhuta",
+    "alias": "Oluhuta"
+  },
+  {
+    "code": "75.04.020.010",
+    "villageCode": "010",
+    "districtCode": "75.04.020",
+    "name": "Tumbihe",
+    "alias": "Tumbihe"
+  },
+  {
+    "code": "75.04.020.011",
+    "villageCode": "011",
+    "districtCode": "75.04.020",
+    "name": "Pauwo",
+    "alias": "Pauwo"
+  },
+  {
+    "code": "75.04.020.012",
+    "villageCode": "012",
+    "districtCode": "75.04.020",
+    "name": "Toto Selatan",
+    "alias": "Toto Selatan"
+  },
+  {
+    "code": "75.04.020.016",
+    "villageCode": "016",
+    "districtCode": "75.04.020",
+    "name": "Poowo",
+    "alias": "Poowo"
+  },
+  {
+    "code": "75.04.020.017",
+    "villageCode": "017",
+    "districtCode": "75.04.020",
+    "name": "Talango",
+    "alias": "Talango"
+  },
+  {
+    "code": "75.04.020.018",
+    "villageCode": "018",
+    "districtCode": "75.04.020",
+    "name": "Poowo Barat",
+    "alias": "Poowo Barat"
+  },
+  {
+    "code": "75.04.020.019",
+    "villageCode": "019",
+    "districtCode": "75.04.020",
+    "name": "Dutohe Barat",
+    "alias": "Dutohe Barat"
+  },
+  {
+    "code": "75.04.020.020",
+    "villageCode": "020",
+    "districtCode": "75.04.020",
+    "name": "Oluhuta Utara",
+    "alias": "Oluhuta Utara"
+  }
+]

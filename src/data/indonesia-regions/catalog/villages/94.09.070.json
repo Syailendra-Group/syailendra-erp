@@ -1,0 +1,135 @@
+[
+  {
+    "code": "94.09.070.001",
+    "villageCode": "001",
+    "districtCode": "94.09.070",
+    "name": "Waroi",
+    "alias": "Waroi"
+  },
+  {
+    "code": "94.09.070.002",
+    "villageCode": "002",
+    "districtCode": "94.09.070",
+    "name": "Samber",
+    "alias": "Samber"
+  },
+  {
+    "code": "94.09.070.003",
+    "villageCode": "003",
+    "districtCode": "94.09.070",
+    "name": "Sunyar",
+    "alias": "Sunyar"
+  },
+  {
+    "code": "94.09.070.004",
+    "villageCode": "004",
+    "districtCode": "94.09.070",
+    "name": "Urfu",
+    "alias": "Urfu"
+  },
+  {
+    "code": "94.09.070.005",
+    "villageCode": "005",
+    "districtCode": "94.09.070",
+    "name": "Adoki",
+    "alias": "Adoki"
+  },
+  {
+    "code": "94.09.070.006",
+    "villageCode": "006",
+    "districtCode": "94.09.070",
+    "name": "Yendidori",
+    "alias": "Yendidori"
+  },
+  {
+    "code": "94.09.070.007",
+    "villageCode": "007",
+    "districtCode": "94.09.070",
+    "name": "Moibaken",
+    "alias": "Moibaken"
+  },
+  {
+    "code": "94.09.070.008",
+    "villageCode": "008",
+    "districtCode": "94.09.070",
+    "name": "Wirmaker",
+    "alias": "Wirmaker"
+  },
+  {
+    "code": "94.09.070.009",
+    "villageCode": "009",
+    "districtCode": "94.09.070",
+    "name": "Syabes",
+    "alias": "Syabes"
+  },
+  {
+    "code": "94.09.070.010",
+    "villageCode": "010",
+    "districtCode": "94.09.070",
+    "name": "Samber Sup",
+    "alias": "Samber Sup"
+  },
+  {
+    "code": "94.09.070.011",
+    "villageCode": "011",
+    "districtCode": "94.09.070",
+    "name": "Kabidon",
+    "alias": "Kabidon"
+  },
+  {
+    "code": "94.09.070.012",
+    "villageCode": "012",
+    "districtCode": "94.09.070",
+    "name": "Rarmpimbo",
+    "alias": "Rarmpimbo"
+  },
+  {
+    "code": "94.09.070.013",
+    "villageCode": "013",
+    "districtCode": "94.09.070",
+    "name": "Padwa",
+    "alias": "Padwa"
+  },
+  {
+    "code": "94.09.070.014",
+    "villageCode": "014",
+    "districtCode": "94.09.070",
+    "name": "Suneri",
+    "alias": "Suneri"
+  },
+  {
+    "code": "94.09.070.015",
+    "villageCode": "015",
+    "districtCode": "94.09.070",
+    "name": "Binyeri",
+    "alias": "Binyeri"
+  },
+  {
+    "code": "94.09.070.016",
+    "villageCode": "016",
+    "districtCode": "94.09.070",
+    "name": "Amyabenram",
+    "alias": "Amyabenram"
+  },
+  {
+    "code": "94.09.070.017",
+    "villageCode": "017",
+    "districtCode": "94.09.070",
+    "name": "Inpendi",
+    "alias": "Inpendi"
+  },
+  {
+    "code": "94.09.070.018",
+    "villageCode": "018",
+    "districtCode": "94.09.070",
+    "name": "Birubi",
+    "alias": "Birubi"
+  },
+  {
+    "code": "94.09.070.019",
+    "villageCode": "019",
+    "districtCode": "94.09.070",
+    "name": "Padwa Pantai",
+    "alias": "Padwa Pantai"
+  }
+]

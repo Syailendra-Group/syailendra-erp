@@ -1,0 +1,86 @@
+[
+  {
+    "code": "15.08.020.001",
+    "villageCode": "001",
+    "districtCode": "15.08.020",
+    "name": "Aburan Batang Tebo",
+    "alias": "Aburan Batang Tebo"
+  },
+  {
+    "code": "15.08.020.002",
+    "villageCode": "002",
+    "districtCode": "15.08.020",
+    "name": "Muara Tebo",
+    "alias": "Muara Tebo"
+  },
+  {
+    "code": "15.08.020.003",
+    "villageCode": "003",
+    "districtCode": "15.08.020",
+    "name": "Mangun Jayo",
+    "alias": "Mangun Jayo"
+  },
+  {
+    "code": "15.08.020.004",
+    "villageCode": "004",
+    "districtCode": "15.08.020",
+    "name": "Tengah Ulu",
+    "alias": "Tengah Ulu"
+  },
+  {
+    "code": "15.08.020.005",
+    "villageCode": "005",
+    "districtCode": "15.08.020",
+    "name": "Teluk Pandak",
+    "alias": "Teluk Pandak"
+  },
+  {
+    "code": "15.08.020.006",
+    "villageCode": "006",
+    "districtCode": "15.08.020",
+    "name": "Semabu",
+    "alias": "Semabu"
+  },
+  {
+    "code": "15.08.020.007",
+    "villageCode": "007",
+    "districtCode": "15.08.020",
+    "name": "Kandang",
+    "alias": "Kandang"
+  },
+  {
+    "code": "15.08.020.010",
+    "villageCode": "010",
+    "districtCode": "15.08.020",
+    "name": "Bedaro Rampak",
+    "alias": "Bedaro Rampak"
+  },
+  {
+    "code": "15.08.020.011",
+    "villageCode": "011",
+    "districtCode": "15.08.020",
+    "name": "Tebing Tinggi",
+    "alias": "Tebing Tinggi"
+  },
+  {
+    "code": "15.08.020.012",
+    "villageCode": "012",
+    "districtCode": "15.08.020",
+    "name": "Sungai Alai",
+    "alias": "Sungai Alai"
+  },
+  {
+    "code": "15.08.020.019",
+    "villageCode": "019",
+    "districtCode": "15.08.020",
+    "name": "Pelayang",
+    "alias": "Pelayang"
+  },
+  {
+    "code": "15.08.020.020",
+    "villageCode": "020",
+    "districtCode": "15.08.020",
+    "name": "Sungai Keruh",
+    "alias": "Sungai Keruh"
+  }
+]

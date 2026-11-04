@@ -1,0 +1,66 @@
+[
+  {
+    "code": "16.74.011",
+    "districtCode": "011",
+    "regencyCode": "16.74",
+    "provinceCode": "16",
+    "name": "Kecamatan Lubuk Linggau Barat I",
+    "alias": "Lubuk Linggau Barat I"
+  },
+  {
+    "code": "16.74.012",
+    "districtCode": "012",
+    "regencyCode": "16.74",
+    "provinceCode": "16",
+    "name": "Kecamatan Lubuk Linggau Barat Ii",
+    "alias": "Lubuk Linggau Barat Ii"
+  },
+  {
+    "code": "16.74.021",
+    "districtCode": "021",
+    "regencyCode": "16.74",
+    "provinceCode": "16",
+    "name": "Kecamatan Lubuk Linggau Selatan I",
+    "alias": "Lubuk Linggau Selatan I"
+  },
+  {
+    "code": "16.74.022",
+    "districtCode": "022",
+    "regencyCode": "16.74",
+    "provinceCode": "16",
+    "name": "Kecamatan Lubuk Linggau Selatan Ii",
+    "alias": "Lubuk Linggau Selatan Ii"
+  },
+  {
+    "code": "16.74.031",
+    "districtCode": "031",
+    "regencyCode": "16.74",
+    "provinceCode": "16",
+    "name": "Kecamatan Lubuk Linggau Timur I",
+    "alias": "Lubuk Linggau Timur I"
+  },
+  {
+    "code": "16.74.032",
+    "districtCode": "032",
+    "regencyCode": "16.74",
+    "provinceCode": "16",
+    "name": "Kecamatan Lubuk Linggau Timur Ii",
+    "alias": "Lubuk Linggau Timur Ii"
+  },
+  {
+    "code": "16.74.041",
+    "districtCode": "041",
+    "regencyCode": "16.74",
+    "provinceCode": "16",
+    "name": "Kecamatan Lubuk Linggau Utara I",
+    "alias": "Lubuk Linggau Utara I"
+  },
+  {
+    "code": "16.74.042",
+    "districtCode": "042",
+    "regencyCode": "16.74",
+    "provinceCode": "16",
+    "name": "Kecamatan Lubuk Linggau Utara Ii",
+    "alias": "Lubuk Linggau Utara Ii"
+  }
+]

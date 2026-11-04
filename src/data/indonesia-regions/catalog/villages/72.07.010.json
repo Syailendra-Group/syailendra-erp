@@ -1,0 +1,51 @@
+[
+  {
+    "code": "72.07.010.009",
+    "villageCode": "009",
+    "districtCode": "72.07.010",
+    "name": "Tuinan",
+    "alias": "Tuinan"
+  },
+  {
+    "code": "72.07.010.010",
+    "villageCode": "010",
+    "districtCode": "72.07.010",
+    "name": "Lakea Ii",
+    "alias": "Lakea Ii"
+  },
+  {
+    "code": "72.07.010.011",
+    "villageCode": "011",
+    "districtCode": "72.07.010",
+    "name": "Lakea 1",
+    "alias": "Lakea 1"
+  },
+  {
+    "code": "72.07.010.012",
+    "villageCode": "012",
+    "districtCode": "72.07.010",
+    "name": "Lakuan Buol",
+    "alias": "Lakuan Buol"
+  },
+  {
+    "code": "72.07.010.017",
+    "villageCode": "017",
+    "districtCode": "72.07.010",
+    "name": "Bukaan",
+    "alias": "Bukaan"
+  },
+  {
+    "code": "72.07.010.018",
+    "villageCode": "018",
+    "districtCode": "72.07.010",
+    "name": "Ilambe",
+    "alias": "Ilambe"
+  },
+  {
+    "code": "72.07.010.019",
+    "villageCode": "019",
+    "districtCode": "72.07.010",
+    "name": "Ngune",
+    "alias": "Ngune"
+  }
+]

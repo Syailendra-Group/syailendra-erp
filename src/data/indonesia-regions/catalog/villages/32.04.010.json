@@ -1,0 +1,51 @@
+[
+  {
+    "code": "32.04.010.001",
+    "villageCode": "001",
+    "districtCode": "32.04.010",
+    "name": "Panundaan",
+    "alias": "Panundaan"
+  },
+  {
+    "code": "32.04.010.002",
+    "villageCode": "002",
+    "districtCode": "32.04.010",
+    "name": "Ciwidey",
+    "alias": "Ciwidey"
+  },
+  {
+    "code": "32.04.010.003",
+    "villageCode": "003",
+    "districtCode": "32.04.010",
+    "name": "Panyocokan",
+    "alias": "Panyocokan"
+  },
+  {
+    "code": "32.04.010.004",
+    "villageCode": "004",
+    "districtCode": "32.04.010",
+    "name": "Lebakmuncang",
+    "alias": "Lebakmuncang"
+  },
+  {
+    "code": "32.04.010.005",
+    "villageCode": "005",
+    "districtCode": "32.04.010",
+    "name": "Rawabogo",
+    "alias": "Rawabogo"
+  },
+  {
+    "code": "32.04.010.006",
+    "villageCode": "006",
+    "districtCode": "32.04.010",
+    "name": "Nengkelan",
+    "alias": "Nengkelan"
+  },
+  {
+    "code": "32.04.010.007",
+    "villageCode": "007",
+    "districtCode": "32.04.010",
+    "name": "Sukawening",
+    "alias": "Sukawening"
+  }
+]

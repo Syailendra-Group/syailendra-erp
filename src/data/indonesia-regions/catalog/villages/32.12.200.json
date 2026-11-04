@@ -1,0 +1,58 @@
+[
+  {
+    "code": "32.12.200.001",
+    "villageCode": "001",
+    "districtCode": "32.12.200",
+    "name": "Cipedang",
+    "alias": "Cipedang"
+  },
+  {
+    "code": "32.12.200.002",
+    "villageCode": "002",
+    "districtCode": "32.12.200",
+    "name": "Sidamulya",
+    "alias": "Sidamulya"
+  },
+  {
+    "code": "32.12.200.003",
+    "villageCode": "003",
+    "districtCode": "32.12.200",
+    "name": "Margamulya",
+    "alias": "Margamulya"
+  },
+  {
+    "code": "32.12.200.004",
+    "villageCode": "004",
+    "districtCode": "32.12.200",
+    "name": "Kertajaya",
+    "alias": "Kertajaya"
+  },
+  {
+    "code": "32.12.200.005",
+    "villageCode": "005",
+    "districtCode": "32.12.200",
+    "name": "Bongas",
+    "alias": "Bongas"
+  },
+  {
+    "code": "32.12.200.006",
+    "villageCode": "006",
+    "districtCode": "32.12.200",
+    "name": "Cipaat",
+    "alias": "Cipaat"
+  },
+  {
+    "code": "32.12.200.007",
+    "villageCode": "007",
+    "districtCode": "32.12.200",
+    "name": "Kertamulya",
+    "alias": "Kertamulya"
+  },
+  {
+    "code": "32.12.200.008",
+    "villageCode": "008",
+    "districtCode": "32.12.200",
+    "name": "Plawangan",
+    "alias": "Plawangan"
+  }
+]

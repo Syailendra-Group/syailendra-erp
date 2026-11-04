@@ -1,0 +1,58 @@
+[
+  {
+    "code": "97.02.370.001",
+    "villageCode": "001",
+    "districtCode": "97.02.370",
+    "name": "Kama",
+    "alias": "Kama"
+  },
+  {
+    "code": "97.02.370.002",
+    "villageCode": "002",
+    "districtCode": "97.02.370",
+    "name": "Wesaganya",
+    "alias": "Wesaganya"
+  },
+  {
+    "code": "97.02.370.003",
+    "villageCode": "003",
+    "districtCode": "97.02.370",
+    "name": "Mawampi",
+    "alias": "Mawampi"
+  },
+  {
+    "code": "97.02.370.004",
+    "villageCode": "004",
+    "districtCode": "97.02.370",
+    "name": "Silumarek",
+    "alias": "Silumarek"
+  },
+  {
+    "code": "97.02.370.005",
+    "villageCode": "005",
+    "districtCode": "97.02.370",
+    "name": "Yaloaput",
+    "alias": "Yaloaput"
+  },
+  {
+    "code": "97.02.370.006",
+    "villageCode": "006",
+    "districtCode": "97.02.370",
+    "name": "Parema",
+    "alias": "Parema"
+  },
+  {
+    "code": "97.02.370.007",
+    "villageCode": "007",
+    "districtCode": "97.02.370",
+    "name": "Agamoa",
+    "alias": "Agamoa"
+  },
+  {
+    "code": "97.02.370.008",
+    "villageCode": "008",
+    "districtCode": "97.02.370",
+    "name": "Ilokama",
+    "alias": "Ilokama"
+  }
+]

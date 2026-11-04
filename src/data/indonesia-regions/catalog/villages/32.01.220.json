@@ -1,0 +1,65 @@
+[
+  {
+    "code": "32.01.220.002",
+    "villageCode": "002",
+    "districtCode": "32.01.220",
+    "name": "Cimanggis",
+    "alias": "Cimanggis"
+  },
+  {
+    "code": "32.01.220.003",
+    "villageCode": "003",
+    "districtCode": "32.01.220",
+    "name": "Waringin Jaya",
+    "alias": "Waringin Jaya"
+  },
+  {
+    "code": "32.01.220.004",
+    "villageCode": "004",
+    "districtCode": "32.01.220",
+    "name": "Kedung Waringin",
+    "alias": "Kedung Waringin"
+  },
+  {
+    "code": "32.01.220.005",
+    "villageCode": "005",
+    "districtCode": "32.01.220",
+    "name": "Bojong Gede",
+    "alias": "Bojong Gede"
+  },
+  {
+    "code": "32.01.220.011",
+    "villageCode": "011",
+    "districtCode": "32.01.220",
+    "name": "Susukan",
+    "alias": "Susukan"
+  },
+  {
+    "code": "32.01.220.012",
+    "villageCode": "012",
+    "districtCode": "32.01.220",
+    "name": "Bojong Baru",
+    "alias": "Bojong Baru"
+  },
+  {
+    "code": "32.01.220.013",
+    "villageCode": "013",
+    "districtCode": "32.01.220",
+    "name": "Rawa Panjang",
+    "alias": "Rawa Panjang"
+  },
+  {
+    "code": "32.01.220.014",
+    "villageCode": "014",
+    "districtCode": "32.01.220",
+    "name": "Pabuaran",
+    "alias": "Pabuaran"
+  },
+  {
+    "code": "32.01.220.015",
+    "villageCode": "015",
+    "districtCode": "32.01.220",
+    "name": "Ragajaya",
+    "alias": "Ragajaya"
+  }
+]

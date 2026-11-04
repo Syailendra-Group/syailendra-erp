@@ -1,0 +1,72 @@
+[
+  {
+    "code": "71.09.052.001",
+    "villageCode": "001",
+    "districtCode": "71.09.052",
+    "name": "Kuyanga",
+    "alias": "Kuyanga"
+  },
+  {
+    "code": "71.09.052.002",
+    "villageCode": "002",
+    "districtCode": "71.09.052",
+    "name": "Kuyanga Satu",
+    "alias": "Kuyanga Satu"
+  },
+  {
+    "code": "71.09.052.003",
+    "villageCode": "003",
+    "districtCode": "71.09.052",
+    "name": "Tombatu Dua",
+    "alias": "Tombatu Dua"
+  },
+  {
+    "code": "71.09.052.004",
+    "villageCode": "004",
+    "districtCode": "71.09.052",
+    "name": "Tombatu Dua Utara",
+    "alias": "Tombatu Dua Utara"
+  },
+  {
+    "code": "71.09.052.005",
+    "villageCode": "005",
+    "districtCode": "71.09.052",
+    "name": "Tombatu Dua Barat",
+    "alias": "Tombatu Dua Barat"
+  },
+  {
+    "code": "71.09.052.006",
+    "villageCode": "006",
+    "districtCode": "71.09.052",
+    "name": "Tombatu Dua Tengah",
+    "alias": "Tombatu Dua Tengah"
+  },
+  {
+    "code": "71.09.052.007",
+    "villageCode": "007",
+    "districtCode": "71.09.052",
+    "name": "Tombatu Tiga",
+    "alias": "Tombatu Tiga"
+  },
+  {
+    "code": "71.09.052.008",
+    "villageCode": "008",
+    "districtCode": "71.09.052",
+    "name": "Tombatu Tiga Tengah",
+    "alias": "Tombatu Tiga Tengah"
+  },
+  {
+    "code": "71.09.052.009",
+    "villageCode": "009",
+    "districtCode": "71.09.052",
+    "name": "Winorangian",
+    "alias": "Winorangian"
+  },
+  {
+    "code": "71.09.052.010",
+    "villageCode": "010",
+    "districtCode": "71.09.052",
+    "name": "Winorangian Satu",
+    "alias": "Winorangian Satu"
+  }
+]

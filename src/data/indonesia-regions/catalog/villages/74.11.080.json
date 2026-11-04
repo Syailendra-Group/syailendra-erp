@@ -1,0 +1,37 @@
+[
+  {
+    "code": "74.11.080.001",
+    "villageCode": "001",
+    "districtCode": "74.11.080",
+    "name": "Wesalo",
+    "alias": "Wesalo"
+  },
+  {
+    "code": "74.11.080.002",
+    "villageCode": "002",
+    "districtCode": "74.11.080",
+    "name": "Lalolae",
+    "alias": "Lalolae"
+  },
+  {
+    "code": "74.11.080.003",
+    "villageCode": "003",
+    "districtCode": "74.11.080",
+    "name": "Keisio",
+    "alias": "Keisio"
+  },
+  {
+    "code": "74.11.080.004",
+    "villageCode": "004",
+    "districtCode": "74.11.080",
+    "name": "Lalosingi",
+    "alias": "Lalosingi"
+  },
+  {
+    "code": "74.11.080.005",
+    "villageCode": "005",
+    "districtCode": "74.11.080",
+    "name": "Talodo",
+    "alias": "Talodo"
+  }
+]

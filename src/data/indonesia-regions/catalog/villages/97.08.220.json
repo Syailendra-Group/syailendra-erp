@@ -1,0 +1,86 @@
+[
+  {
+    "code": "97.08.220.001",
+    "villageCode": "001",
+    "districtCode": "97.08.220",
+    "name": "Tupoplyom",
+    "alias": "Tupoplyom"
+  },
+  {
+    "code": "97.08.220.002",
+    "villageCode": "002",
+    "districtCode": "97.08.220",
+    "name": "Sabin",
+    "alias": "Sabin"
+  },
+  {
+    "code": "97.08.220.003",
+    "villageCode": "003",
+    "districtCode": "97.08.220",
+    "name": "Borban",
+    "alias": "Borban"
+  },
+  {
+    "code": "97.08.220.004",
+    "villageCode": "004",
+    "districtCode": "97.08.220",
+    "name": "Maksum",
+    "alias": "Maksum"
+  },
+  {
+    "code": "97.08.220.005",
+    "villageCode": "005",
+    "districtCode": "97.08.220",
+    "name": "Yapil",
+    "alias": "Yapil"
+  },
+  {
+    "code": "97.08.220.006",
+    "villageCode": "006",
+    "districtCode": "97.08.220",
+    "name": "Kirimu",
+    "alias": "Kirimu"
+  },
+  {
+    "code": "97.08.220.007",
+    "villageCode": "007",
+    "districtCode": "97.08.220",
+    "name": "Dumpasik",
+    "alias": "Dumpasik"
+  },
+  {
+    "code": "97.08.220.008",
+    "villageCode": "008",
+    "districtCode": "97.08.220",
+    "name": "Pedam",
+    "alias": "Pedam"
+  },
+  {
+    "code": "97.08.220.009",
+    "villageCode": "009",
+    "districtCode": "97.08.220",
+    "name": "Atembabol",
+    "alias": "Atembabol"
+  },
+  {
+    "code": "97.08.220.010",
+    "villageCode": "010",
+    "districtCode": "97.08.220",
+    "name": "Markom",
+    "alias": "Markom"
+  },
+  {
+    "code": "97.08.220.011",
+    "villageCode": "011",
+    "districtCode": "97.08.220",
+    "name": "Peneli",
+    "alias": "Peneli"
+  },
+  {
+    "code": "97.08.220.012",
+    "villageCode": "012",
+    "districtCode": "97.08.220",
+    "name": "Omlyom",
+    "alias": "Omlyom"
+  }
+]

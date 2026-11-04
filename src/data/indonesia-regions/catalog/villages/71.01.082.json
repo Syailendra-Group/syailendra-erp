@@ -1,0 +1,93 @@
+[
+  {
+    "code": "71.01.082.003",
+    "villageCode": "003",
+    "districtCode": "71.01.082",
+    "name": "Pangian",
+    "alias": "Pangian"
+  },
+  {
+    "code": "71.01.082.004",
+    "villageCode": "004",
+    "districtCode": "71.01.082",
+    "name": "Poopo",
+    "alias": "Poopo"
+  },
+  {
+    "code": "71.01.082.006",
+    "villageCode": "006",
+    "districtCode": "71.01.082",
+    "name": "Manembo",
+    "alias": "Manembo"
+  },
+  {
+    "code": "71.01.082.007",
+    "villageCode": "007",
+    "districtCode": "71.01.082",
+    "name": "Sinsingon",
+    "alias": "Sinsingon"
+  },
+  {
+    "code": "71.01.082.008",
+    "villageCode": "008",
+    "districtCode": "71.01.082",
+    "name": "Mobuya",
+    "alias": "Mobuya"
+  },
+  {
+    "code": "71.01.082.009",
+    "villageCode": "009",
+    "districtCode": "71.01.082",
+    "name": "Insil",
+    "alias": "Insil"
+  },
+  {
+    "code": "71.01.082.010",
+    "villageCode": "010",
+    "districtCode": "71.01.082",
+    "name": "Insil Baru",
+    "alias": "Insil Baru"
+  },
+  {
+    "code": "71.01.082.011",
+    "villageCode": "011",
+    "districtCode": "71.01.082",
+    "name": "Pangian Tengah",
+    "alias": "Pangian Tengah"
+  },
+  {
+    "code": "71.01.082.012",
+    "villageCode": "012",
+    "districtCode": "71.01.082",
+    "name": "Pangian Barat",
+    "alias": "Pangian Barat"
+  },
+  {
+    "code": "71.01.082.013",
+    "villageCode": "013",
+    "districtCode": "71.01.082",
+    "name": "Poopo Barat",
+    "alias": "Poopo Barat"
+  },
+  {
+    "code": "71.01.082.014",
+    "villageCode": "014",
+    "districtCode": "71.01.082",
+    "name": "Poopo Selatan",
+    "alias": "Poopo Selatan"
+  },
+  {
+    "code": "71.01.082.015",
+    "villageCode": "015",
+    "districtCode": "71.01.082",
+    "name": "Sinsingon Barat",
+    "alias": "Sinsingon Barat"
+  },
+  {
+    "code": "71.01.082.016",
+    "villageCode": "016",
+    "districtCode": "71.01.082",
+    "name": "Sinsingon Timur",
+    "alias": "Sinsingon Timur"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "code": "11.15.010",
+    "districtCode": "010",
+    "regencyCode": "11.15",
+    "provinceCode": "11",
+    "name": "Kecamatan Darul Makmur",
+    "alias": "Darul Makmur"
+  },
+  {
+    "code": "11.15.011",
+    "districtCode": "011",
+    "regencyCode": "11.15",
+    "provinceCode": "11",
+    "name": "Kecamatan Tripa Makmur",
+    "alias": "Tripa Makmur"
+  },
+  {
+    "code": "11.15.020",
+    "districtCode": "020",
+    "regencyCode": "11.15",
+    "provinceCode": "11",
+    "name": "Kecamatan Kuala",
+    "alias": "Kuala"
+  },
+  {
+    "code": "11.15.021",
+    "districtCode": "021",
+    "regencyCode": "11.15",
+    "provinceCode": "11",
+    "name": "Kecamatan Kuala Pesisir",
+    "alias": "Kuala Pesisir"
+  },
+  {
+    "code": "11.15.022",
+    "districtCode": "022",
+    "regencyCode": "11.15",
+    "provinceCode": "11",
+    "name": "Kecamatan Tadu Raya",
+    "alias": "Tadu Raya"
+  },
+  {
+    "code": "11.15.030",
+    "districtCode": "030",
+    "regencyCode": "11.15",
+    "provinceCode": "11",
+    "name": "Kecamatan Beutong",
+    "alias": "Beutong"
+  },
+  {
+    "code": "11.15.031",
+    "districtCode": "031",
+    "regencyCode": "11.15",
+    "provinceCode": "11",
+    "name": "Kecamatan Beutong Ateuh Banggalang",
+    "alias": "Beutong Ateuh Banggalang"
+  },
+  {
+    "code": "11.15.040",
+    "districtCode": "040",
+    "regencyCode": "11.15",
+    "provinceCode": "11",
+    "name": "Kecamatan Seunagan",
+    "alias": "Seunagan"
+  },
+  {
+    "code": "11.15.041",
+    "districtCode": "041",
+    "regencyCode": "11.15",
+    "provinceCode": "11",
+    "name": "Kecamatan Suka Makmue",
+    "alias": "Suka Makmue"
+  },
+  {
+    "code": "11.15.050",
+    "districtCode": "050",
+    "regencyCode": "11.15",
+    "provinceCode": "11",
+    "name": "Kecamatan Seunagan Timur",
+    "alias": "Seunagan Timur"
+  }
+]

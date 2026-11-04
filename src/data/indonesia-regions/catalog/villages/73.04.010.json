@@ -1,0 +1,100 @@
+[
+  {
+    "code": "73.04.010.001",
+    "villageCode": "001",
+    "districtCode": "73.04.010",
+    "name": "Mallasoro",
+    "alias": "Mallasoro"
+  },
+  {
+    "code": "73.04.010.002",
+    "villageCode": "002",
+    "districtCode": "73.04.010",
+    "name": "Punagaya",
+    "alias": "Punagaya"
+  },
+  {
+    "code": "73.04.010.003",
+    "villageCode": "003",
+    "districtCode": "73.04.010",
+    "name": "Bontorannu",
+    "alias": "Bontorannu"
+  },
+  {
+    "code": "73.04.010.004",
+    "villageCode": "004",
+    "districtCode": "73.04.010",
+    "name": "Pantai Bahari",
+    "alias": "Pantai Bahari"
+  },
+  {
+    "code": "73.04.010.005",
+    "villageCode": "005",
+    "districtCode": "73.04.010",
+    "name": "Pallengu",
+    "alias": "Pallengu"
+  },
+  {
+    "code": "73.04.010.006",
+    "villageCode": "006",
+    "districtCode": "73.04.010",
+    "name": "Tombo-Tombolo",
+    "alias": "Tombo-Tombolo"
+  },
+  {
+    "code": "73.04.010.007",
+    "villageCode": "007",
+    "districtCode": "73.04.010",
+    "name": "Jenetallasa",
+    "alias": "Jenetallasa"
+  },
+  {
+    "code": "73.04.010.008",
+    "villageCode": "008",
+    "districtCode": "73.04.010",
+    "name": "Kalimporo",
+    "alias": "Kalimporo"
+  },
+  {
+    "code": "73.04.010.009",
+    "villageCode": "009",
+    "districtCode": "73.04.010",
+    "name": "Benteng",
+    "alias": "Benteng"
+  },
+  {
+    "code": "73.04.010.015",
+    "villageCode": "015",
+    "districtCode": "73.04.010",
+    "name": "Pallantikang",
+    "alias": "Pallantikang"
+  },
+  {
+    "code": "73.04.010.016",
+    "villageCode": "016",
+    "districtCode": "73.04.010",
+    "name": "Gunung Silanu",
+    "alias": "Gunung Silanu"
+  },
+  {
+    "code": "73.04.010.017",
+    "villageCode": "017",
+    "districtCode": "73.04.010",
+    "name": "Kapita",
+    "alias": "Kapita"
+  },
+  {
+    "code": "73.04.010.018",
+    "villageCode": "018",
+    "districtCode": "73.04.010",
+    "name": "Marayoka",
+    "alias": "Marayoka"
+  },
+  {
+    "code": "73.04.010.019",
+    "villageCode": "019",
+    "districtCode": "73.04.010",
+    "name": "Bontomanai",
+    "alias": "Bontomanai"
+  }
+]

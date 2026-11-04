@@ -1,0 +1,86 @@
+[
+  {
+    "code": "33.24.090.001",
+    "villageCode": "001",
+    "districtCode": "33.24.090",
+    "name": "Tunggulsari",
+    "alias": "Tunggulsari"
+  },
+  {
+    "code": "33.24.090.002",
+    "villageCode": "002",
+    "districtCode": "33.24.090",
+    "name": "Sumur",
+    "alias": "Sumur"
+  },
+  {
+    "code": "33.24.090.003",
+    "villageCode": "003",
+    "districtCode": "33.24.090",
+    "name": "Penjalin",
+    "alias": "Penjalin"
+  },
+  {
+    "code": "33.24.090.004",
+    "villageCode": "004",
+    "districtCode": "33.24.090",
+    "name": "Kertomulyo",
+    "alias": "Kertomulyo"
+  },
+  {
+    "code": "33.24.090.005",
+    "villageCode": "005",
+    "districtCode": "33.24.090",
+    "name": "Blorok",
+    "alias": "Blorok"
+  },
+  {
+    "code": "33.24.090.006",
+    "villageCode": "006",
+    "districtCode": "33.24.090",
+    "name": "Sidorejo",
+    "alias": "Sidorejo"
+  },
+  {
+    "code": "33.24.090.007",
+    "villageCode": "007",
+    "districtCode": "33.24.090",
+    "name": "Tosari",
+    "alias": "Tosari"
+  },
+  {
+    "code": "33.24.090.008",
+    "villageCode": "008",
+    "districtCode": "33.24.090",
+    "name": "Rejosari",
+    "alias": "Rejosari"
+  },
+  {
+    "code": "33.24.090.009",
+    "villageCode": "009",
+    "districtCode": "33.24.090",
+    "name": "Turunrejo",
+    "alias": "Turunrejo"
+  },
+  {
+    "code": "33.24.090.010",
+    "villageCode": "010",
+    "districtCode": "33.24.090",
+    "name": "Purwokerto",
+    "alias": "Purwokerto"
+  },
+  {
+    "code": "33.24.090.011",
+    "villageCode": "011",
+    "districtCode": "33.24.090",
+    "name": "Brangsong",
+    "alias": "Brangsong"
+  },
+  {
+    "code": "33.24.090.012",
+    "villageCode": "012",
+    "districtCode": "33.24.090",
+    "name": "Kebon Adem",
+    "alias": "Kebon Adem"
+  }
+]

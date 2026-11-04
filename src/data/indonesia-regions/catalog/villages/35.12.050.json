@@ -1,0 +1,58 @@
+[
+  {
+    "code": "35.12.050.001",
+    "villageCode": "001",
+    "districtCode": "35.12.050",
+    "name": "Cemara",
+    "alias": "Cemara"
+  },
+  {
+    "code": "35.12.050.002",
+    "villageCode": "002",
+    "districtCode": "35.12.050",
+    "name": "Mojo Dungkol",
+    "alias": "Mojo Dungkol"
+  },
+  {
+    "code": "35.12.050.003",
+    "villageCode": "003",
+    "districtCode": "35.12.050",
+    "name": "Gunung Putri",
+    "alias": "Gunung Putri"
+  },
+  {
+    "code": "35.12.050.004",
+    "villageCode": "004",
+    "districtCode": "35.12.050",
+    "name": "Gunung Malang",
+    "alias": "Gunung Malang"
+  },
+  {
+    "code": "35.12.050.005",
+    "villageCode": "005",
+    "districtCode": "35.12.050",
+    "name": "Dawuan",
+    "alias": "Dawuan"
+  },
+  {
+    "code": "35.12.050.006",
+    "villageCode": "006",
+    "districtCode": "35.12.050",
+    "name": "Suboh",
+    "alias": "Suboh"
+  },
+  {
+    "code": "35.12.050.007",
+    "villageCode": "007",
+    "districtCode": "35.12.050",
+    "name": "Buduan",
+    "alias": "Buduan"
+  },
+  {
+    "code": "35.12.050.008",
+    "villageCode": "008",
+    "districtCode": "35.12.050",
+    "name": "Ketah",
+    "alias": "Ketah"
+  }
+]

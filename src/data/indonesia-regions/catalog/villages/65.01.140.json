@@ -1,0 +1,65 @@
+[
+  {
+    "code": "65.01.140.001",
+    "villageCode": "001",
+    "districtCode": "65.01.140",
+    "name": "Punan Bengalun",
+    "alias": "Punan Bengalun"
+  },
+  {
+    "code": "65.01.140.002",
+    "villageCode": "002",
+    "districtCode": "65.01.140",
+    "name": "Sesua",
+    "alias": "Sesua"
+  },
+  {
+    "code": "65.01.140.003",
+    "villageCode": "003",
+    "districtCode": "65.01.140",
+    "name": "Sempayang",
+    "alias": "Sempayang"
+  },
+  {
+    "code": "65.01.140.004",
+    "villageCode": "004",
+    "districtCode": "65.01.140",
+    "name": "Kuala Lapang",
+    "alias": "Kuala Lapang"
+  },
+  {
+    "code": "65.01.140.005",
+    "villageCode": "005",
+    "districtCode": "65.01.140",
+    "name": "Tanjung Lapang",
+    "alias": "Tanjung Lapang"
+  },
+  {
+    "code": "65.01.140.006",
+    "villageCode": "006",
+    "districtCode": "65.01.140",
+    "name": "Taras",
+    "alias": "Taras"
+  },
+  {
+    "code": "65.01.140.007",
+    "villageCode": "007",
+    "districtCode": "65.01.140",
+    "name": "Long Kenipe",
+    "alias": "Long Kenipe"
+  },
+  {
+    "code": "65.01.140.008",
+    "villageCode": "008",
+    "districtCode": "65.01.140",
+    "name": "Sentaban",
+    "alias": "Sentaban"
+  },
+  {
+    "code": "65.01.140.009",
+    "villageCode": "009",
+    "districtCode": "65.01.140",
+    "name": "Long Bila",
+    "alias": "Long Bila"
+  }
+]

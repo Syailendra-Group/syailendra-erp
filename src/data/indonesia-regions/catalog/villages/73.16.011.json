@@ -1,0 +1,44 @@
+[
+  {
+    "code": "73.16.011.002",
+    "villageCode": "002",
+    "districtCode": "73.16.011",
+    "name": "Tallang Rilau",
+    "alias": "Tallang Rilau"
+  },
+  {
+    "code": "73.16.011.005",
+    "villageCode": "005",
+    "districtCode": "73.16.011",
+    "name": "Bulo",
+    "alias": "Bulo"
+  },
+  {
+    "code": "73.16.011.006",
+    "villageCode": "006",
+    "districtCode": "73.16.011",
+    "name": "Baruka",
+    "alias": "Baruka"
+  },
+  {
+    "code": "73.16.011.007",
+    "villageCode": "007",
+    "districtCode": "73.16.011",
+    "name": "Bungin",
+    "alias": "Bungin"
+  },
+  {
+    "code": "73.16.011.008",
+    "villageCode": "008",
+    "districtCode": "73.16.011",
+    "name": "Sawito",
+    "alias": "Sawito"
+  },
+  {
+    "code": "73.16.011.009",
+    "villageCode": "009",
+    "districtCode": "73.16.011",
+    "name": "Banua",
+    "alias": "Banua"
+  }
+]

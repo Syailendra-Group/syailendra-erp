@@ -1,0 +1,198 @@
+[
+  {
+    "code": "11.04.051.001",
+    "villageCode": "001",
+    "districtCode": "11.04.051",
+    "name": "Gulo",
+    "alias": "Gulo"
+  },
+  {
+    "code": "11.04.051.002",
+    "villageCode": "002",
+    "districtCode": "11.04.051",
+    "name": "Lawe Stul",
+    "alias": "Lawe Stul"
+  },
+  {
+    "code": "11.04.051.003",
+    "villageCode": "003",
+    "districtCode": "11.04.051",
+    "name": "Kite Meranggun",
+    "alias": "Kite Meranggun"
+  },
+  {
+    "code": "11.04.051.004",
+    "villageCode": "004",
+    "districtCode": "11.04.051",
+    "name": "Pulo Piku",
+    "alias": "Pulo Piku"
+  },
+  {
+    "code": "11.04.051.005",
+    "villageCode": "005",
+    "districtCode": "11.04.051",
+    "name": "Terutung Kute",
+    "alias": "Terutung Kute"
+  },
+  {
+    "code": "11.04.051.006",
+    "villageCode": "006",
+    "districtCode": "11.04.051",
+    "name": "Kuta Ujung",
+    "alias": "Kuta Ujung"
+  },
+  {
+    "code": "11.04.051.007",
+    "villageCode": "007",
+    "districtCode": "11.04.051",
+    "name": "Mamas",
+    "alias": "Mamas"
+  },
+  {
+    "code": "11.04.051.008",
+    "villageCode": "008",
+    "districtCode": "11.04.051",
+    "name": "Tanjung Lama",
+    "alias": "Tanjung Lama"
+  },
+  {
+    "code": "11.04.051.009",
+    "villageCode": "009",
+    "districtCode": "11.04.051",
+    "name": "Tanjung Muda",
+    "alias": "Tanjung Muda"
+  },
+  {
+    "code": "11.04.051.010",
+    "villageCode": "010",
+    "districtCode": "11.04.051",
+    "name": "Tanjung Aman",
+    "alias": "Tanjung Aman"
+  },
+  {
+    "code": "11.04.051.011",
+    "villageCode": "011",
+    "districtCode": "11.04.051",
+    "name": "Rambung Teldak",
+    "alias": "Rambung Teldak"
+  },
+  {
+    "code": "11.04.051.012",
+    "villageCode": "012",
+    "districtCode": "11.04.051",
+    "name": "Serimuda",
+    "alias": "Serimuda"
+  },
+  {
+    "code": "11.04.051.013",
+    "villageCode": "013",
+    "districtCode": "11.04.051",
+    "name": "Darul Makmur",
+    "alias": "Darul Makmur"
+  },
+  {
+    "code": "11.04.051.014",
+    "villageCode": "014",
+    "districtCode": "11.04.051",
+    "name": "Kute Rambe",
+    "alias": "Kute Rambe"
+  },
+  {
+    "code": "11.04.051.015",
+    "villageCode": "015",
+    "districtCode": "11.04.051",
+    "name": "Ujung Baru",
+    "alias": "Ujung Baru"
+  },
+  {
+    "code": "11.04.051.016",
+    "villageCode": "016",
+    "districtCode": "11.04.051",
+    "name": "Mamas Baru",
+    "alias": "Mamas Baru"
+  },
+  {
+    "code": "11.04.051.017",
+    "villageCode": "017",
+    "districtCode": "11.04.051",
+    "name": "Rambung Jaya",
+    "alias": "Rambung Jaya"
+  },
+  {
+    "code": "11.04.051.018",
+    "villageCode": "018",
+    "districtCode": "11.04.051",
+    "name": "Makmur Jaya",
+    "alias": "Makmur Jaya"
+  },
+  {
+    "code": "11.04.051.019",
+    "villageCode": "019",
+    "districtCode": "11.04.051",
+    "name": "Pulo Gadung",
+    "alias": "Pulo Gadung"
+  },
+  {
+    "code": "11.04.051.020",
+    "villageCode": "020",
+    "districtCode": "11.04.051",
+    "name": "Istiqomah",
+    "alias": "Istiqomah"
+  },
+  {
+    "code": "11.04.051.021",
+    "villageCode": "021",
+    "districtCode": "11.04.051",
+    "name": "Khotan Jaya",
+    "alias": "Khotan Jaya"
+  },
+  {
+    "code": "11.04.051.022",
+    "villageCode": "022",
+    "districtCode": "11.04.051",
+    "name": "Lawe Mamas Indah",
+    "alias": "Lawe Mamas Indah"
+  },
+  {
+    "code": "11.04.051.023",
+    "villageCode": "023",
+    "districtCode": "11.04.051",
+    "name": "Tanjung Baru",
+    "alias": "Tanjung Baru"
+  },
+  {
+    "code": "11.04.051.024",
+    "villageCode": "024",
+    "districtCode": "11.04.051",
+    "name": "Simpang Iv Tanjung",
+    "alias": "Simpang Iv Tanjung"
+  },
+  {
+    "code": "11.04.051.025",
+    "villageCode": "025",
+    "districtCode": "11.04.051",
+    "name": "Tanjung Leuser",
+    "alias": "Tanjung Leuser"
+  },
+  {
+    "code": "11.04.051.026",
+    "villageCode": "026",
+    "districtCode": "11.04.051",
+    "name": "Lawe Pinis",
+    "alias": "Lawe Pinis"
+  },
+  {
+    "code": "11.04.051.027",
+    "villageCode": "027",
+    "districtCode": "11.04.051",
+    "name": "Kuning Abadi",
+    "alias": "Kuning Abadi"
+  },
+  {
+    "code": "11.04.051.028",
+    "villageCode": "028",
+    "districtCode": "11.04.051",
+    "name": "Buntul Kendawi",
+    "alias": "Buntul Kendawi"
+  }
+]

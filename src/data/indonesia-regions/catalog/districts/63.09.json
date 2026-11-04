@@ -1,0 +1,98 @@
+[
+  {
+    "code": "63.09.010",
+    "districtCode": "010",
+    "regencyCode": "63.09",
+    "provinceCode": "63",
+    "name": "Kecamatan Banua Lawas",
+    "alias": "Banua Lawas"
+  },
+  {
+    "code": "63.09.020",
+    "districtCode": "020",
+    "regencyCode": "63.09",
+    "provinceCode": "63",
+    "name": "Kecamatan Pugaan",
+    "alias": "Pugaan"
+  },
+  {
+    "code": "63.09.030",
+    "districtCode": "030",
+    "regencyCode": "63.09",
+    "provinceCode": "63",
+    "name": "Kecamatan Kelua",
+    "alias": "Kelua"
+  },
+  {
+    "code": "63.09.040",
+    "districtCode": "040",
+    "regencyCode": "63.09",
+    "provinceCode": "63",
+    "name": "Kecamatan Muara Harus",
+    "alias": "Muara Harus"
+  },
+  {
+    "code": "63.09.050",
+    "districtCode": "050",
+    "regencyCode": "63.09",
+    "provinceCode": "63",
+    "name": "Kecamatan Tanta",
+    "alias": "Tanta"
+  },
+  {
+    "code": "63.09.060",
+    "districtCode": "060",
+    "regencyCode": "63.09",
+    "provinceCode": "63",
+    "name": "Kecamatan Tanjung",
+    "alias": "Tanjung"
+  },
+  {
+    "code": "63.09.070",
+    "districtCode": "070",
+    "regencyCode": "63.09",
+    "provinceCode": "63",
+    "name": "Kecamatan Murung Pudak",
+    "alias": "Murung Pudak"
+  },
+  {
+    "code": "63.09.080",
+    "districtCode": "080",
+    "regencyCode": "63.09",
+    "provinceCode": "63",
+    "name": "Kecamatan Haruai",
+    "alias": "Haruai"
+  },
+  {
+    "code": "63.09.081",
+    "districtCode": "081",
+    "regencyCode": "63.09",
+    "provinceCode": "63",
+    "name": "Kecamatan Bintang Ara",
+    "alias": "Bintang Ara"
+  },
+  {
+    "code": "63.09.090",
+    "districtCode": "090",
+    "regencyCode": "63.09",
+    "provinceCode": "63",
+    "name": "Kecamatan Upau",
+    "alias": "Upau"
+  },
+  {
+    "code": "63.09.100",
+    "districtCode": "100",
+    "regencyCode": "63.09",
+    "provinceCode": "63",
+    "name": "Kecamatan Muara Uya",
+    "alias": "Muara Uya"
+  },
+  {
+    "code": "63.09.110",
+    "districtCode": "110",
+    "regencyCode": "63.09",
+    "provinceCode": "63",
+    "name": "Kecamatan Jaro",
+    "alias": "Jaro"
+  }
+]

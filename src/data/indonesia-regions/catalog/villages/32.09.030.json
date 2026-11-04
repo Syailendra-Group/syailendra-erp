@@ -1,0 +1,72 @@
+[
+  {
+    "code": "32.09.030.009",
+    "villageCode": "009",
+    "districtCode": "32.09.030",
+    "name": "Astanalanggar",
+    "alias": "Astanalanggar"
+  },
+  {
+    "code": "32.09.030.010",
+    "villageCode": "010",
+    "districtCode": "32.09.030",
+    "name": "Barisan",
+    "alias": "Barisan"
+  },
+  {
+    "code": "32.09.030.011",
+    "villageCode": "011",
+    "districtCode": "32.09.030",
+    "name": "Losari Kidul",
+    "alias": "Losari Kidul"
+  },
+  {
+    "code": "32.09.030.012",
+    "villageCode": "012",
+    "districtCode": "32.09.030",
+    "name": "Panggangsari",
+    "alias": "Panggangsari"
+  },
+  {
+    "code": "32.09.030.013",
+    "villageCode": "013",
+    "districtCode": "32.09.030",
+    "name": "Losari Lor",
+    "alias": "Losari Lor"
+  },
+  {
+    "code": "32.09.030.014",
+    "villageCode": "014",
+    "districtCode": "32.09.030",
+    "name": "Mulyasari",
+    "alias": "Mulyasari"
+  },
+  {
+    "code": "32.09.030.015",
+    "villageCode": "015",
+    "districtCode": "32.09.030",
+    "name": "Kalirahayu",
+    "alias": "Kalirahayu"
+  },
+  {
+    "code": "32.09.030.016",
+    "villageCode": "016",
+    "districtCode": "32.09.030",
+    "name": "Kalisari",
+    "alias": "Kalisari"
+  },
+  {
+    "code": "32.09.030.017",
+    "villageCode": "017",
+    "districtCode": "32.09.030",
+    "name": "Ambulu",
+    "alias": "Ambulu"
+  },
+  {
+    "code": "32.09.030.018",
+    "villageCode": "018",
+    "districtCode": "32.09.030",
+    "name": "Tawangsari",
+    "alias": "Tawangsari"
+  }
+]

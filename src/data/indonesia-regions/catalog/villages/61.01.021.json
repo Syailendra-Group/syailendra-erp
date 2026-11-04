@@ -1,0 +1,37 @@
+[
+  {
+    "code": "61.01.021.001",
+    "villageCode": "001",
+    "districtCode": "61.01.021",
+    "name": "Seburing",
+    "alias": "Seburing"
+  },
+  {
+    "code": "61.01.021.002",
+    "villageCode": "002",
+    "districtCode": "61.01.021",
+    "name": "Sepadu",
+    "alias": "Sepadu"
+  },
+  {
+    "code": "61.01.021.003",
+    "villageCode": "003",
+    "districtCode": "61.01.021",
+    "name": "Sepinggan",
+    "alias": "Sepinggan"
+  },
+  {
+    "code": "61.01.021.004",
+    "villageCode": "004",
+    "districtCode": "61.01.021",
+    "name": "Semparuk",
+    "alias": "Semparuk"
+  },
+  {
+    "code": "61.01.021.005",
+    "villageCode": "005",
+    "districtCode": "61.01.021",
+    "name": "Singaraya",
+    "alias": "Singaraya"
+  }
+]

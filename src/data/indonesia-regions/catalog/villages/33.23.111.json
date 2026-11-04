@@ -1,0 +1,72 @@
+[
+  {
+    "code": "33.23.111.001",
+    "villageCode": "001",
+    "districtCode": "33.23.111",
+    "name": "Jambon",
+    "alias": "Jambon"
+  },
+  {
+    "code": "33.23.111.002",
+    "villageCode": "002",
+    "districtCode": "33.23.111",
+    "name": "Kalibanger",
+    "alias": "Kalibanger"
+  },
+  {
+    "code": "33.23.111.003",
+    "villageCode": "003",
+    "districtCode": "33.23.111",
+    "name": "Ngadisepi",
+    "alias": "Ngadisepi"
+  },
+  {
+    "code": "33.23.111.004",
+    "villageCode": "004",
+    "districtCode": "33.23.111",
+    "name": "Kemiriombo",
+    "alias": "Kemiriombo"
+  },
+  {
+    "code": "33.23.111.005",
+    "villageCode": "005",
+    "districtCode": "33.23.111",
+    "name": "Gemawang",
+    "alias": "Gemawang"
+  },
+  {
+    "code": "33.23.111.006",
+    "villageCode": "006",
+    "districtCode": "33.23.111",
+    "name": "Banaran",
+    "alias": "Banaran"
+  },
+  {
+    "code": "33.23.111.007",
+    "villageCode": "007",
+    "districtCode": "33.23.111",
+    "name": "Krempong",
+    "alias": "Krempong"
+  },
+  {
+    "code": "33.23.111.008",
+    "villageCode": "008",
+    "districtCode": "33.23.111",
+    "name": "Muncar",
+    "alias": "Muncar"
+  },
+  {
+    "code": "33.23.111.009",
+    "villageCode": "009",
+    "districtCode": "33.23.111",
+    "name": "Sucen",
+    "alias": "Sucen"
+  },
+  {
+    "code": "33.23.111.010",
+    "villageCode": "010",
+    "districtCode": "33.23.111",
+    "name": "Karangseneng",
+    "alias": "Karangseneng"
+  }
+]

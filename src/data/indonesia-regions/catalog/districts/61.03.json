@@ -1,0 +1,106 @@
+[
+  {
+    "code": "61.03.020",
+    "districtCode": "020",
+    "regencyCode": "61.03",
+    "provinceCode": "61",
+    "name": "Kecamatan Sebangki",
+    "alias": "Sebangki"
+  },
+  {
+    "code": "61.03.030",
+    "districtCode": "030",
+    "regencyCode": "61.03",
+    "provinceCode": "61",
+    "name": "Kecamatan Ngabang",
+    "alias": "Ngabang"
+  },
+  {
+    "code": "61.03.031",
+    "districtCode": "031",
+    "regencyCode": "61.03",
+    "provinceCode": "61",
+    "name": "Kecamatan Jelimpo",
+    "alias": "Jelimpo"
+  },
+  {
+    "code": "61.03.040",
+    "districtCode": "040",
+    "regencyCode": "61.03",
+    "provinceCode": "61",
+    "name": "Kecamatan Sengah Temila",
+    "alias": "Sengah Temila"
+  },
+  {
+    "code": "61.03.050",
+    "districtCode": "050",
+    "regencyCode": "61.03",
+    "provinceCode": "61",
+    "name": "Kecamatan Mandor",
+    "alias": "Mandor"
+  },
+  {
+    "code": "61.03.060",
+    "districtCode": "060",
+    "regencyCode": "61.03",
+    "provinceCode": "61",
+    "name": "Kecamatan Menjalin",
+    "alias": "Menjalin"
+  },
+  {
+    "code": "61.03.070",
+    "districtCode": "070",
+    "regencyCode": "61.03",
+    "provinceCode": "61",
+    "name": "Kecamatan Mempawah Hulu",
+    "alias": "Mempawah Hulu"
+  },
+  {
+    "code": "61.03.071",
+    "districtCode": "071",
+    "regencyCode": "61.03",
+    "provinceCode": "61",
+    "name": "Kecamatan Sompak",
+    "alias": "Sompak"
+  },
+  {
+    "code": "61.03.080",
+    "districtCode": "080",
+    "regencyCode": "61.03",
+    "provinceCode": "61",
+    "name": "Kecamatan Menyuke",
+    "alias": "Menyuke"
+  },
+  {
+    "code": "61.03.081",
+    "districtCode": "081",
+    "regencyCode": "61.03",
+    "provinceCode": "61",
+    "name": "Kecamatan Banyuke Hulu",
+    "alias": "Banyuke Hulu"
+  },
+  {
+    "code": "61.03.090",
+    "districtCode": "090",
+    "regencyCode": "61.03",
+    "provinceCode": "61",
+    "name": "Kecamatan Meranti",
+    "alias": "Meranti"
+  },
+  {
+    "code": "61.03.100",
+    "districtCode": "100",
+    "regencyCode": "61.03",
+    "provinceCode": "61",
+    "name": "Kecamatan Kuala Behe",
+    "alias": "Kuala Behe"
+  },
+  {
+    "code": "61.03.110",
+    "districtCode": "110",
+    "regencyCode": "61.03",
+    "provinceCode": "61",
+    "name": "Kecamatan Air Besar",
+    "alias": "Air Besar"
+  }
+]

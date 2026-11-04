@@ -1,0 +1,72 @@
+[
+  {
+    "code": "17.02.044.001",
+    "villageCode": "001",
+    "districtCode": "17.02.044",
+    "name": "Kepala Siring",
+    "alias": "Kepala Siring"
+  },
+  {
+    "code": "17.02.044.002",
+    "villageCode": "002",
+    "districtCode": "17.02.044",
+    "name": "Talang Rimbo Baru",
+    "alias": "Talang Rimbo Baru"
+  },
+  {
+    "code": "17.02.044.003",
+    "villageCode": "003",
+    "districtCode": "17.02.044",
+    "name": "Talang Rimbo Lama",
+    "alias": "Talang Rimbo Lama"
+  },
+  {
+    "code": "17.02.044.004",
+    "villageCode": "004",
+    "districtCode": "17.02.044",
+    "name": "Banyumas",
+    "alias": "Banyumas"
+  },
+  {
+    "code": "17.02.044.005",
+    "villageCode": "005",
+    "districtCode": "17.02.044",
+    "name": "Pelabuhan Baru",
+    "alias": "Pelabuhan Baru"
+  },
+  {
+    "code": "17.02.044.006",
+    "villageCode": "006",
+    "districtCode": "17.02.044",
+    "name": "Kampung Jawa",
+    "alias": "Kampung Jawa"
+  },
+  {
+    "code": "17.02.044.007",
+    "villageCode": "007",
+    "districtCode": "17.02.044",
+    "name": "Sidorejo",
+    "alias": "Sidorejo"
+  },
+  {
+    "code": "17.02.044.008",
+    "villageCode": "008",
+    "districtCode": "17.02.044",
+    "name": "Air Bang",
+    "alias": "Air Bang"
+  },
+  {
+    "code": "17.02.044.009",
+    "villageCode": "009",
+    "districtCode": "17.02.044",
+    "name": "Air Merah",
+    "alias": "Air Merah"
+  },
+  {
+    "code": "17.02.044.010",
+    "villageCode": "010",
+    "districtCode": "17.02.044",
+    "name": "Batu Galing",
+    "alias": "Batu Galing"
+  }
+]

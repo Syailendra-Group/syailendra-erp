@@ -1,0 +1,162 @@
+[
+  {
+    "code": "61.06.010",
+    "districtCode": "010",
+    "regencyCode": "61.06",
+    "provinceCode": "61",
+    "name": "Kecamatan Kendawangan",
+    "alias": "Kendawangan"
+  },
+  {
+    "code": "61.06.020",
+    "districtCode": "020",
+    "regencyCode": "61.06",
+    "provinceCode": "61",
+    "name": "Kecamatan Manis Mata",
+    "alias": "Manis Mata"
+  },
+  {
+    "code": "61.06.030",
+    "districtCode": "030",
+    "regencyCode": "61.06",
+    "provinceCode": "61",
+    "name": "Kecamatan Marau",
+    "alias": "Marau"
+  },
+  {
+    "code": "61.06.031",
+    "districtCode": "031",
+    "regencyCode": "61.06",
+    "provinceCode": "61",
+    "name": "Kecamatan Singkup",
+    "alias": "Singkup"
+  },
+  {
+    "code": "61.06.032",
+    "districtCode": "032",
+    "regencyCode": "61.06",
+    "provinceCode": "61",
+    "name": "Kecamatan Air Upas",
+    "alias": "Air Upas"
+  },
+  {
+    "code": "61.06.040",
+    "districtCode": "040",
+    "regencyCode": "61.06",
+    "provinceCode": "61",
+    "name": "Kecamatan Jelai Hulu",
+    "alias": "Jelai Hulu"
+  },
+  {
+    "code": "61.06.050",
+    "districtCode": "050",
+    "regencyCode": "61.06",
+    "provinceCode": "61",
+    "name": "Kecamatan Tumbang Titi",
+    "alias": "Tumbang Titi"
+  },
+  {
+    "code": "61.06.051",
+    "districtCode": "051",
+    "regencyCode": "61.06",
+    "provinceCode": "61",
+    "name": "Kecamatan Pemahan",
+    "alias": "Pemahan"
+  },
+  {
+    "code": "61.06.052",
+    "districtCode": "052",
+    "regencyCode": "61.06",
+    "provinceCode": "61",
+    "name": "Kecamatan Sungai Melayu Rayak",
+    "alias": "Sungai Melayu Rayak"
+  },
+  {
+    "code": "61.06.060",
+    "districtCode": "060",
+    "regencyCode": "61.06",
+    "provinceCode": "61",
+    "name": "Kecamatan Matan Hilir Selatan",
+    "alias": "Matan Hilir Selatan"
+  },
+  {
+    "code": "61.06.061",
+    "districtCode": "061",
+    "regencyCode": "61.06",
+    "provinceCode": "61",
+    "name": "Kecamatan Benua Kayong",
+    "alias": "Benua Kayong"
+  },
+  {
+    "code": "61.06.070",
+    "districtCode": "070",
+    "regencyCode": "61.06",
+    "provinceCode": "61",
+    "name": "Kecamatan Matan Hilir Utara",
+    "alias": "Matan Hilir Utara"
+  },
+  {
+    "code": "61.06.071",
+    "districtCode": "071",
+    "regencyCode": "61.06",
+    "provinceCode": "61",
+    "name": "Kecamatan Delta Pawan",
+    "alias": "Delta Pawan"
+  },
+  {
+    "code": "61.06.072",
+    "districtCode": "072",
+    "regencyCode": "61.06",
+    "provinceCode": "61",
+    "name": "Kecamatan Muara Pawan",
+    "alias": "Muara Pawan"
+  },
+  {
+    "code": "61.06.090",
+    "districtCode": "090",
+    "regencyCode": "61.06",
+    "provinceCode": "61",
+    "name": "Kecamatan Nanga Tayap",
+    "alias": "Nanga Tayap"
+  },
+  {
+    "code": "61.06.100",
+    "districtCode": "100",
+    "regencyCode": "61.06",
+    "provinceCode": "61",
+    "name": "Kecamatan Sandai",
+    "alias": "Sandai"
+  },
+  {
+    "code": "61.06.101",
+    "districtCode": "101",
+    "regencyCode": "61.06",
+    "provinceCode": "61",
+    "name": "Kecamatan Hulu Sungai",
+    "alias": "Hulu Sungai"
+  },
+  {
+    "code": "61.06.110",
+    "districtCode": "110",
+    "regencyCode": "61.06",
+    "provinceCode": "61",
+    "name": "Kecamatan Sungai Laur",
+    "alias": "Sungai Laur"
+  },
+  {
+    "code": "61.06.120",
+    "districtCode": "120",
+    "regencyCode": "61.06",
+    "provinceCode": "61",
+    "name": "Kecamatan Simpang Hulu",
+    "alias": "Simpang Hulu"
+  },
+  {
+    "code": "61.06.121",
+    "districtCode": "121",
+    "regencyCode": "61.06",
+    "provinceCode": "61",
+    "name": "Kecamatan Simpang Dua",
+    "alias": "Simpang Dua"
+  }
+]

@@ -1,0 +1,186 @@
+[
+  {
+    "code": "72.02.010",
+    "districtCode": "010",
+    "regencyCode": "72.02",
+    "provinceCode": "72",
+    "name": "Kecamatan Toili",
+    "alias": "Toili"
+  },
+  {
+    "code": "72.02.011",
+    "districtCode": "011",
+    "regencyCode": "72.02",
+    "provinceCode": "72",
+    "name": "Kecamatan Toili Barat",
+    "alias": "Toili Barat"
+  },
+  {
+    "code": "72.02.012",
+    "districtCode": "012",
+    "regencyCode": "72.02",
+    "provinceCode": "72",
+    "name": "Kecamatan Moilong",
+    "alias": "Moilong"
+  },
+  {
+    "code": "72.02.020",
+    "districtCode": "020",
+    "regencyCode": "72.02",
+    "provinceCode": "72",
+    "name": "Kecamatan Batui",
+    "alias": "Batui"
+  },
+  {
+    "code": "72.02.021",
+    "districtCode": "021",
+    "regencyCode": "72.02",
+    "provinceCode": "72",
+    "name": "Kecamatan Batui Selatan",
+    "alias": "Batui Selatan"
+  },
+  {
+    "code": "72.02.030",
+    "districtCode": "030",
+    "regencyCode": "72.02",
+    "provinceCode": "72",
+    "name": "Kecamatan Bunta",
+    "alias": "Bunta"
+  },
+  {
+    "code": "72.02.031",
+    "districtCode": "031",
+    "regencyCode": "72.02",
+    "provinceCode": "72",
+    "name": "Kecamatan Nuhon",
+    "alias": "Nuhon"
+  },
+  {
+    "code": "72.02.032",
+    "districtCode": "032",
+    "regencyCode": "72.02",
+    "provinceCode": "72",
+    "name": "Kecamatan Simpang Raya",
+    "alias": "Simpang Raya"
+  },
+  {
+    "code": "72.02.040",
+    "districtCode": "040",
+    "regencyCode": "72.02",
+    "provinceCode": "72",
+    "name": "Kecamatan Kintom",
+    "alias": "Kintom"
+  },
+  {
+    "code": "72.02.050",
+    "districtCode": "050",
+    "regencyCode": "72.02",
+    "provinceCode": "72",
+    "name": "Kecamatan Luwuk",
+    "alias": "Luwuk"
+  },
+  {
+    "code": "72.02.051",
+    "districtCode": "051",
+    "regencyCode": "72.02",
+    "provinceCode": "72",
+    "name": "Kecamatan Luwuk Timur",
+    "alias": "Luwuk Timur"
+  },
+  {
+    "code": "72.02.052",
+    "districtCode": "052",
+    "regencyCode": "72.02",
+    "provinceCode": "72",
+    "name": "Kecamatan Luwuk Utara",
+    "alias": "Luwuk Utara"
+  },
+  {
+    "code": "72.02.053",
+    "districtCode": "053",
+    "regencyCode": "72.02",
+    "provinceCode": "72",
+    "name": "Kecamatan Luwuk Selatan",
+    "alias": "Luwuk Selatan"
+  },
+  {
+    "code": "72.02.054",
+    "districtCode": "054",
+    "regencyCode": "72.02",
+    "provinceCode": "72",
+    "name": "Kecamatan Nambo",
+    "alias": "Nambo"
+  },
+  {
+    "code": "72.02.060",
+    "districtCode": "060",
+    "regencyCode": "72.02",
+    "provinceCode": "72",
+    "name": "Kecamatan Pagimana",
+    "alias": "Pagimana"
+  },
+  {
+    "code": "72.02.061",
+    "districtCode": "061",
+    "regencyCode": "72.02",
+    "provinceCode": "72",
+    "name": "Kecamatan Bualemo",
+    "alias": "Bualemo"
+  },
+  {
+    "code": "72.02.062",
+    "districtCode": "062",
+    "regencyCode": "72.02",
+    "provinceCode": "72",
+    "name": "Kecamatan Lobu",
+    "alias": "Lobu"
+  },
+  {
+    "code": "72.02.070",
+    "districtCode": "070",
+    "regencyCode": "72.02",
+    "provinceCode": "72",
+    "name": "Kecamatan Lamala",
+    "alias": "Lamala"
+  },
+  {
+    "code": "72.02.071",
+    "districtCode": "071",
+    "regencyCode": "72.02",
+    "provinceCode": "72",
+    "name": "Kecamatan Masama",
+    "alias": "Masama"
+  },
+  {
+    "code": "72.02.072",
+    "districtCode": "072",
+    "regencyCode": "72.02",
+    "provinceCode": "72",
+    "name": "Kecamatan Mantoh",
+    "alias": "Mantoh"
+  },
+  {
+    "code": "72.02.080",
+    "districtCode": "080",
+    "regencyCode": "72.02",
+    "provinceCode": "72",
+    "name": "Kecamatan Balantak",
+    "alias": "Balantak"
+  },
+  {
+    "code": "72.02.081",
+    "districtCode": "081",
+    "regencyCode": "72.02",
+    "provinceCode": "72",
+    "name": "Kecamatan Balantak Selatan",
+    "alias": "Balantak Selatan"
+  },
+  {
+    "code": "72.02.082",
+    "districtCode": "082",
+    "regencyCode": "72.02",
+    "provinceCode": "72",
+    "name": "Kecamatan Balantak Utara",
+    "alias": "Balantak Utara"
+  }
+]

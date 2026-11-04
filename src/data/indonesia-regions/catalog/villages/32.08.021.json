@@ -1,0 +1,58 @@
+[
+  {
+    "code": "32.08.021.001",
+    "villageCode": "001",
+    "districtCode": "32.08.021",
+    "name": "Haurkuning",
+    "alias": "Haurkuning"
+  },
+  {
+    "code": "32.08.021.002",
+    "villageCode": "002",
+    "districtCode": "32.08.021",
+    "name": "Kertayuga",
+    "alias": "Kertayuga"
+  },
+  {
+    "code": "32.08.021.003",
+    "villageCode": "003",
+    "districtCode": "32.08.021",
+    "name": "Windusari",
+    "alias": "Windusari"
+  },
+  {
+    "code": "32.08.021.004",
+    "villageCode": "004",
+    "districtCode": "32.08.021",
+    "name": "Nusaherang",
+    "alias": "Nusaherang"
+  },
+  {
+    "code": "32.08.021.005",
+    "villageCode": "005",
+    "districtCode": "32.08.021",
+    "name": "Kertawirama",
+    "alias": "Kertawirama"
+  },
+  {
+    "code": "32.08.021.006",
+    "villageCode": "006",
+    "districtCode": "32.08.021",
+    "name": "Cikadu",
+    "alias": "Cikadu"
+  },
+  {
+    "code": "32.08.021.007",
+    "villageCode": "007",
+    "districtCode": "32.08.021",
+    "name": "Jambar",
+    "alias": "Jambar"
+  },
+  {
+    "code": "32.08.021.008",
+    "villageCode": "008",
+    "districtCode": "32.08.021",
+    "name": "Ciasih",
+    "alias": "Ciasih"
+  }
+]

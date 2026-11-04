@@ -1,0 +1,65 @@
+[
+  {
+    "code": "12.75.010.001",
+    "villageCode": "001",
+    "districtCode": "12.75.010",
+    "name": "Baru Ladang Bambu",
+    "alias": "Baru Ladang Bambu"
+  },
+  {
+    "code": "12.75.010.002",
+    "villageCode": "002",
+    "districtCode": "12.75.010",
+    "name": "Sidomulyo",
+    "alias": "Sidomulyo"
+  },
+  {
+    "code": "12.75.010.003",
+    "villageCode": "003",
+    "districtCode": "12.75.010",
+    "name": "Lau Cih",
+    "alias": "Lau Cih"
+  },
+  {
+    "code": "12.75.010.004",
+    "villageCode": "004",
+    "districtCode": "12.75.010",
+    "name": "Namu Gajah",
+    "alias": "Namu Gajah"
+  },
+  {
+    "code": "12.75.010.005",
+    "villageCode": "005",
+    "districtCode": "12.75.010",
+    "name": "Kemenangan Tani",
+    "alias": "Kemenangan Tani"
+  },
+  {
+    "code": "12.75.010.006",
+    "villageCode": "006",
+    "districtCode": "12.75.010",
+    "name": "Simalingkar B",
+    "alias": "Simalingkar B"
+  },
+  {
+    "code": "12.75.010.007",
+    "villageCode": "007",
+    "districtCode": "12.75.010",
+    "name": "Simpang Selayang",
+    "alias": "Simpang Selayang"
+  },
+  {
+    "code": "12.75.010.008",
+    "villageCode": "008",
+    "districtCode": "12.75.010",
+    "name": "Tanjung Selamat",
+    "alias": "Tanjung Selamat"
+  },
+  {
+    "code": "12.75.010.009",
+    "villageCode": "009",
+    "districtCode": "12.75.010",
+    "name": "M A N G G A",
+    "alias": "M A N G G A"
+  }
+]

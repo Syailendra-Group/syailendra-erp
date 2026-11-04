@@ -1,0 +1,65 @@
+[
+  {
+    "code": "72.04.012.001",
+    "villageCode": "001",
+    "districtCode": "72.04.012",
+    "name": "Barati",
+    "alias": "Barati"
+  },
+  {
+    "code": "72.04.012.002",
+    "villageCode": "002",
+    "districtCode": "72.04.012",
+    "name": "Salindu",
+    "alias": "Salindu"
+  },
+  {
+    "code": "72.04.012.003",
+    "villageCode": "003",
+    "districtCode": "72.04.012",
+    "name": "Singkona",
+    "alias": "Singkona"
+  },
+  {
+    "code": "72.04.012.004",
+    "villageCode": "004",
+    "districtCode": "72.04.012",
+    "name": "Tolambo",
+    "alias": "Tolambo"
+  },
+  {
+    "code": "72.04.012.005",
+    "villageCode": "005",
+    "districtCode": "72.04.012",
+    "name": "Tindoli",
+    "alias": "Tindoli"
+  },
+  {
+    "code": "72.04.012.006",
+    "villageCode": "006",
+    "districtCode": "72.04.012",
+    "name": "Tokilo",
+    "alias": "Tokilo"
+  },
+  {
+    "code": "72.04.012.007",
+    "villageCode": "007",
+    "districtCode": "72.04.012",
+    "name": "Korobono",
+    "alias": "Korobono"
+  },
+  {
+    "code": "72.04.012.008",
+    "villageCode": "008",
+    "districtCode": "72.04.012",
+    "name": "Amporiwo",
+    "alias": "Amporiwo"
+  },
+  {
+    "code": "72.04.012.009",
+    "villageCode": "009",
+    "districtCode": "72.04.012",
+    "name": "Wayura",
+    "alias": "Wayura"
+  }
+]

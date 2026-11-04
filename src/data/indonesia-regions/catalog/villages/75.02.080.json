@@ -1,0 +1,65 @@
+[
+  {
+    "code": "75.02.080.011",
+    "villageCode": "011",
+    "districtCode": "75.02.080",
+    "name": "Bulila",
+    "alias": "Bulila"
+  },
+  {
+    "code": "75.02.080.014",
+    "villageCode": "014",
+    "districtCode": "75.02.080",
+    "name": "Mongolato",
+    "alias": "Mongolato"
+  },
+  {
+    "code": "75.02.080.015",
+    "villageCode": "015",
+    "districtCode": "75.02.080",
+    "name": "Luhu",
+    "alias": "Luhu"
+  },
+  {
+    "code": "75.02.080.016",
+    "villageCode": "016",
+    "districtCode": "75.02.080",
+    "name": "Hulawa",
+    "alias": "Hulawa"
+  },
+  {
+    "code": "75.02.080.017",
+    "villageCode": "017",
+    "districtCode": "75.02.080",
+    "name": "Pilohayanga",
+    "alias": "Pilohayanga"
+  },
+  {
+    "code": "75.02.080.027",
+    "villageCode": "027",
+    "districtCode": "75.02.080",
+    "name": "Dulamayo Selatan",
+    "alias": "Dulamayo Selatan"
+  },
+  {
+    "code": "75.02.080.028",
+    "villageCode": "028",
+    "districtCode": "75.02.080",
+    "name": "Dulamayo Barat",
+    "alias": "Dulamayo Barat"
+  },
+  {
+    "code": "75.02.080.029",
+    "villageCode": "029",
+    "districtCode": "75.02.080",
+    "name": "Pilohayanga Barat",
+    "alias": "Pilohayanga Barat"
+  },
+  {
+    "code": "75.02.080.030",
+    "villageCode": "030",
+    "districtCode": "75.02.080",
+    "name": "Doluhupa",
+    "alias": "Doluhupa"
+  }
+]

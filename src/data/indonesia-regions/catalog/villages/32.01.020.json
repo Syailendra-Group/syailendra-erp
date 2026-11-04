@@ -1,0 +1,79 @@
+[
+  {
+    "code": "32.01.020.001",
+    "villageCode": "001",
+    "districtCode": "32.01.020",
+    "name": "Purasari",
+    "alias": "Purasari"
+  },
+  {
+    "code": "32.01.020.002",
+    "villageCode": "002",
+    "districtCode": "32.01.020",
+    "name": "Puraseda",
+    "alias": "Puraseda"
+  },
+  {
+    "code": "32.01.020.003",
+    "villageCode": "003",
+    "districtCode": "32.01.020",
+    "name": "Karyasari",
+    "alias": "Karyasari"
+  },
+  {
+    "code": "32.01.020.004",
+    "villageCode": "004",
+    "districtCode": "32.01.020",
+    "name": "Pabangbon",
+    "alias": "Pabangbon"
+  },
+  {
+    "code": "32.01.020.005",
+    "villageCode": "005",
+    "districtCode": "32.01.020",
+    "name": "Karacak",
+    "alias": "Karacak"
+  },
+  {
+    "code": "32.01.020.006",
+    "villageCode": "006",
+    "districtCode": "32.01.020",
+    "name": "Barengkok",
+    "alias": "Barengkok"
+  },
+  {
+    "code": "32.01.020.007",
+    "villageCode": "007",
+    "districtCode": "32.01.020",
+    "name": "Cibeber Ii",
+    "alias": "Cibeber Ii"
+  },
+  {
+    "code": "32.01.020.016",
+    "villageCode": "016",
+    "districtCode": "32.01.020",
+    "name": "Cibeber I",
+    "alias": "Cibeber I"
+  },
+  {
+    "code": "32.01.020.017",
+    "villageCode": "017",
+    "districtCode": "32.01.020",
+    "name": "Leuwimekar",
+    "alias": "Leuwimekar"
+  },
+  {
+    "code": "32.01.020.018",
+    "villageCode": "018",
+    "districtCode": "32.01.020",
+    "name": "Leuwiliang",
+    "alias": "Leuwiliang"
+  },
+  {
+    "code": "32.01.020.019",
+    "villageCode": "019",
+    "districtCode": "32.01.020",
+    "name": "Karehkel",
+    "alias": "Karehkel"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "code": "19.02.063.001",
+    "villageCode": "001",
+    "districtCode": "19.02.063",
+    "name": "Suak Gual",
+    "alias": "Suak Gual"
+  },
+  {
+    "code": "19.02.063.002",
+    "villageCode": "002",
+    "districtCode": "19.02.063",
+    "name": "Petaling",
+    "alias": "Petaling"
+  },
+  {
+    "code": "19.02.063.003",
+    "villageCode": "003",
+    "districtCode": "19.02.063",
+    "name": "Selat Nasik",
+    "alias": "Selat Nasik"
+  },
+  {
+    "code": "19.02.063.004",
+    "villageCode": "004",
+    "districtCode": "19.02.063",
+    "name": "Pulau Gersik",
+    "alias": "Pulau Gersik"
+  }
+]

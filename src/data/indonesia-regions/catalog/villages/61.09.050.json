@@ -1,0 +1,79 @@
+[
+  {
+    "code": "61.09.050.001",
+    "villageCode": "001",
+    "districtCode": "61.09.050",
+    "name": "Sungai Ayak I",
+    "alias": "Sungai Ayak I"
+  },
+  {
+    "code": "61.09.050.002",
+    "villageCode": "002",
+    "districtCode": "61.09.050",
+    "name": "Sungai Ayak Dua",
+    "alias": "Sungai Ayak Dua"
+  },
+  {
+    "code": "61.09.050.003",
+    "villageCode": "003",
+    "districtCode": "61.09.050",
+    "name": "Entabuk",
+    "alias": "Entabuk"
+  },
+  {
+    "code": "61.09.050.004",
+    "villageCode": "004",
+    "districtCode": "61.09.050",
+    "name": "Tapang Pulau",
+    "alias": "Tapang Pulau"
+  },
+  {
+    "code": "61.09.050.005",
+    "villageCode": "005",
+    "districtCode": "61.09.050",
+    "name": "Merbang",
+    "alias": "Merbang"
+  },
+  {
+    "code": "61.09.050.006",
+    "villageCode": "006",
+    "districtCode": "61.09.050",
+    "name": "Kumpang Bis",
+    "alias": "Kumpang Bis"
+  },
+  {
+    "code": "61.09.050.007",
+    "villageCode": "007",
+    "districtCode": "61.09.050",
+    "name": "Menawai Tekam",
+    "alias": "Menawai Tekam"
+  },
+  {
+    "code": "61.09.050.008",
+    "villageCode": "008",
+    "districtCode": "61.09.050",
+    "name": "Semadu",
+    "alias": "Semadu"
+  },
+  {
+    "code": "61.09.050.009",
+    "villageCode": "009",
+    "districtCode": "61.09.050",
+    "name": "Empajak",
+    "alias": "Empajak"
+  },
+  {
+    "code": "61.09.050.010",
+    "villageCode": "010",
+    "districtCode": "61.09.050",
+    "name": "Sepantak",
+    "alias": "Sepantak"
+  },
+  {
+    "code": "61.09.050.011",
+    "villageCode": "011",
+    "districtCode": "61.09.050",
+    "name": "Melanjan Raya",
+    "alias": "Melanjan Raya"
+  }
+]

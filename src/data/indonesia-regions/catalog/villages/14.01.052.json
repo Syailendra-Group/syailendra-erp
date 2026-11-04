@@ -1,0 +1,107 @@
+[
+  {
+    "code": "14.01.052.001",
+    "villageCode": "001",
+    "districtCode": "14.01.052",
+    "name": "Sikijang",
+    "alias": "Sikijang"
+  },
+  {
+    "code": "14.01.052.002",
+    "villageCode": "002",
+    "districtCode": "14.01.052",
+    "name": "Teratak Rendah",
+    "alias": "Teratak Rendah"
+  },
+  {
+    "code": "14.01.052.003",
+    "villageCode": "003",
+    "districtCode": "14.01.052",
+    "name": "Perhentian Luas",
+    "alias": "Perhentian Luas"
+  },
+  {
+    "code": "14.01.052.004",
+    "villageCode": "004",
+    "districtCode": "14.01.052",
+    "name": "Logas",
+    "alias": "Logas"
+  },
+  {
+    "code": "14.01.052.005",
+    "villageCode": "005",
+    "districtCode": "14.01.052",
+    "name": "Sungai Rambai",
+    "alias": "Sungai Rambai"
+  },
+  {
+    "code": "14.01.052.006",
+    "villageCode": "006",
+    "districtCode": "14.01.052",
+    "name": "Rambahan",
+    "alias": "Rambahan"
+  },
+  {
+    "code": "14.01.052.007",
+    "villageCode": "007",
+    "districtCode": "14.01.052",
+    "name": "Lubuk Kebun",
+    "alias": "Lubuk Kebun"
+  },
+  {
+    "code": "14.01.052.008",
+    "villageCode": "008",
+    "districtCode": "14.01.052",
+    "name": "Situgal",
+    "alias": "Situgal"
+  },
+  {
+    "code": "14.01.052.009",
+    "villageCode": "009",
+    "districtCode": "14.01.052",
+    "name": "Hulu Teso",
+    "alias": "Hulu Teso"
+  },
+  {
+    "code": "14.01.052.010",
+    "villageCode": "010",
+    "districtCode": "14.01.052",
+    "name": "Sukaraja",
+    "alias": "Sukaraja"
+  },
+  {
+    "code": "14.01.052.011",
+    "villageCode": "011",
+    "districtCode": "14.01.052",
+    "name": "Sako Margasari",
+    "alias": "Sako Margasari"
+  },
+  {
+    "code": "14.01.052.012",
+    "villageCode": "012",
+    "districtCode": "14.01.052",
+    "name": "Giri Sako",
+    "alias": "Giri Sako"
+  },
+  {
+    "code": "14.01.052.013",
+    "villageCode": "013",
+    "districtCode": "14.01.052",
+    "name": "Kuantan Sako",
+    "alias": "Kuantan Sako"
+  },
+  {
+    "code": "14.01.052.014",
+    "villageCode": "014",
+    "districtCode": "14.01.052",
+    "name": "Sidodadi",
+    "alias": "Sidodadi"
+  },
+  {
+    "code": "14.01.052.015",
+    "villageCode": "015",
+    "districtCode": "14.01.052",
+    "name": "Bumi Mulya",
+    "alias": "Bumi Mulya"
+  }
+]

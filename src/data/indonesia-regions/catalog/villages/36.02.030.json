@@ -1,0 +1,79 @@
+[
+  {
+    "code": "36.02.030.001",
+    "villageCode": "001",
+    "districtCode": "36.02.030",
+    "name": "Bayah Barat",
+    "alias": "Bayah Barat"
+  },
+  {
+    "code": "36.02.030.002",
+    "villageCode": "002",
+    "districtCode": "36.02.030",
+    "name": "Darmasari",
+    "alias": "Darmasari"
+  },
+  {
+    "code": "36.02.030.003",
+    "villageCode": "003",
+    "districtCode": "36.02.030",
+    "name": "Sawarna",
+    "alias": "Sawarna"
+  },
+  {
+    "code": "36.02.030.011",
+    "villageCode": "011",
+    "districtCode": "36.02.030",
+    "name": "Cidikit",
+    "alias": "Cidikit"
+  },
+  {
+    "code": "36.02.030.012",
+    "villageCode": "012",
+    "districtCode": "36.02.030",
+    "name": "Bayah Timur",
+    "alias": "Bayah Timur"
+  },
+  {
+    "code": "36.02.030.013",
+    "villageCode": "013",
+    "districtCode": "36.02.030",
+    "name": "Cimancak",
+    "alias": "Cimancak"
+  },
+  {
+    "code": "36.02.030.014",
+    "villageCode": "014",
+    "districtCode": "36.02.030",
+    "name": "Suwakan",
+    "alias": "Suwakan"
+  },
+  {
+    "code": "36.02.030.015",
+    "villageCode": "015",
+    "districtCode": "36.02.030",
+    "name": "Pasirgombong",
+    "alias": "Pasirgombong"
+  },
+  {
+    "code": "36.02.030.016",
+    "villageCode": "016",
+    "districtCode": "36.02.030",
+    "name": "Cisuren",
+    "alias": "Cisuren"
+  },
+  {
+    "code": "36.02.030.017",
+    "villageCode": "017",
+    "districtCode": "36.02.030",
+    "name": "Pamubulan",
+    "alias": "Pamubulan"
+  },
+  {
+    "code": "36.02.030.018",
+    "villageCode": "018",
+    "districtCode": "36.02.030",
+    "name": "Sawarna Timur",
+    "alias": "Sawarna Timur"
+  }
+]

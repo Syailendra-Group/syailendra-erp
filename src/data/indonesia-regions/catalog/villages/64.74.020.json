@@ -1,0 +1,44 @@
+[
+  {
+    "code": "64.74.020.001",
+    "villageCode": "001",
+    "districtCode": "64.74.020",
+    "name": "Bontang Kuala",
+    "alias": "Bontang Kuala"
+  },
+  {
+    "code": "64.74.020.002",
+    "villageCode": "002",
+    "districtCode": "64.74.020",
+    "name": "Bontang Baru",
+    "alias": "Bontang Baru"
+  },
+  {
+    "code": "64.74.020.003",
+    "villageCode": "003",
+    "districtCode": "64.74.020",
+    "name": "Api-Api",
+    "alias": "Api-Api"
+  },
+  {
+    "code": "64.74.020.004",
+    "villageCode": "004",
+    "districtCode": "64.74.020",
+    "name": "Gunung Elai",
+    "alias": "Gunung Elai"
+  },
+  {
+    "code": "64.74.020.005",
+    "villageCode": "005",
+    "districtCode": "64.74.020",
+    "name": "Lok Tuan",
+    "alias": "Lok Tuan"
+  },
+  {
+    "code": "64.74.020.006",
+    "villageCode": "006",
+    "districtCode": "64.74.020",
+    "name": "Guntung",
+    "alias": "Guntung"
+  }
+]

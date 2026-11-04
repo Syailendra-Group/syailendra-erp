@@ -1,0 +1,86 @@
+[
+  {
+    "code": "32.04.080.001",
+    "villageCode": "001",
+    "districtCode": "32.04.080",
+    "name": "Loa",
+    "alias": "Loa"
+  },
+  {
+    "code": "32.04.080.002",
+    "villageCode": "002",
+    "districtCode": "32.04.080",
+    "name": "Drawati",
+    "alias": "Drawati"
+  },
+  {
+    "code": "32.04.080.003",
+    "villageCode": "003",
+    "districtCode": "32.04.080",
+    "name": "Cipaku",
+    "alias": "Cipaku"
+  },
+  {
+    "code": "32.04.080.004",
+    "villageCode": "004",
+    "districtCode": "32.04.080",
+    "name": "Sindangsari",
+    "alias": "Sindangsari"
+  },
+  {
+    "code": "32.04.080.005",
+    "villageCode": "005",
+    "districtCode": "32.04.080",
+    "name": "Sukamantri",
+    "alias": "Sukamantri"
+  },
+  {
+    "code": "32.04.080.006",
+    "villageCode": "006",
+    "districtCode": "32.04.080",
+    "name": "Sukamanah",
+    "alias": "Sukamanah"
+  },
+  {
+    "code": "32.04.080.007",
+    "villageCode": "007",
+    "districtCode": "32.04.080",
+    "name": "Mekarpawitan",
+    "alias": "Mekarpawitan"
+  },
+  {
+    "code": "32.04.080.008",
+    "villageCode": "008",
+    "districtCode": "32.04.080",
+    "name": "Cijagra",
+    "alias": "Cijagra"
+  },
+  {
+    "code": "32.04.080.009",
+    "villageCode": "009",
+    "districtCode": "32.04.080",
+    "name": "Tangsimekar",
+    "alias": "Tangsimekar"
+  },
+  {
+    "code": "32.04.080.010",
+    "villageCode": "010",
+    "districtCode": "32.04.080",
+    "name": "Cipedes",
+    "alias": "Cipedes"
+  },
+  {
+    "code": "32.04.080.011",
+    "villageCode": "011",
+    "districtCode": "32.04.080",
+    "name": "Karangtunggal",
+    "alias": "Karangtunggal"
+  },
+  {
+    "code": "32.04.080.012",
+    "villageCode": "012",
+    "districtCode": "32.04.080",
+    "name": "Cigentur",
+    "alias": "Cigentur"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "code": "17.01",
+    "regencyCode": "01",
+    "provinceCode": "17",
+    "provinceName": "Bengkulu",
+    "name": "Kabupaten Bengkulu Selatan",
+    "alias": "Bengkulu Selatan"
+  },
+  {
+    "code": "17.02",
+    "regencyCode": "02",
+    "provinceCode": "17",
+    "provinceName": "Bengkulu",
+    "name": "Kabupaten Rejang Lebong",
+    "alias": "Rejang Lebong"
+  },
+  {
+    "code": "17.03",
+    "regencyCode": "03",
+    "provinceCode": "17",
+    "provinceName": "Bengkulu",
+    "name": "Kabupaten Bengkulu Utara",
+    "alias": "Bengkulu Utara"
+  },
+  {
+    "code": "17.04",
+    "regencyCode": "04",
+    "provinceCode": "17",
+    "provinceName": "Bengkulu",
+    "name": "Kabupaten Kaur",
+    "alias": "Kaur"
+  },
+  {
+    "code": "17.05",
+    "regencyCode": "05",
+    "provinceCode": "17",
+    "provinceName": "Bengkulu",
+    "name": "Kabupaten Seluma",
+    "alias": "Seluma"
+  },
+  {
+    "code": "17.06",
+    "regencyCode": "06",
+    "provinceCode": "17",
+    "provinceName": "Bengkulu",
+    "name": "Kabupaten Muko Muko",
+    "alias": "Muko Muko"
+  },
+  {
+    "code": "17.07",
+    "regencyCode": "07",
+    "provinceCode": "17",
+    "provinceName": "Bengkulu",
+    "name": "Kabupaten Lebong",
+    "alias": "Lebong"
+  },
+  {
+    "code": "17.08",
+    "regencyCode": "08",
+    "provinceCode": "17",
+    "provinceName": "Bengkulu",
+    "name": "Kabupaten Kepahiang",
+    "alias": "Kepahiang"
+  },
+  {
+    "code": "17.09",
+    "regencyCode": "09",
+    "provinceCode": "17",
+    "provinceName": "Bengkulu",
+    "name": "Kabupaten Bengkulu Tengah",
+    "alias": "Bengkulu Tengah"
+  },
+  {
+    "code": "17.71",
+    "regencyCode": "71",
+    "provinceCode": "17",
+    "provinceName": "Bengkulu",
+    "name": "Kota Bengkulu",
+    "alias": "Bengkulu"
+  }
+]

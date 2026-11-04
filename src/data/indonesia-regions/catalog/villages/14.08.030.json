@@ -1,0 +1,114 @@
+[
+  {
+    "code": "14.08.030.001",
+    "villageCode": "001",
+    "districtCode": "14.08.030",
+    "name": "Tanjung Kapal",
+    "alias": "Tanjung Kapal"
+  },
+  {
+    "code": "14.08.030.002",
+    "villageCode": "002",
+    "districtCode": "14.08.030",
+    "name": "Batu Panjang",
+    "alias": "Batu Panjang"
+  },
+  {
+    "code": "14.08.030.003",
+    "villageCode": "003",
+    "districtCode": "14.08.030",
+    "name": "Terkul",
+    "alias": "Terkul"
+  },
+  {
+    "code": "14.08.030.004",
+    "villageCode": "004",
+    "districtCode": "14.08.030",
+    "name": "Pergam",
+    "alias": "Pergam"
+  },
+  {
+    "code": "14.08.030.005",
+    "villageCode": "005",
+    "districtCode": "14.08.030",
+    "name": "Teluk Lecah",
+    "alias": "Teluk Lecah"
+  },
+  {
+    "code": "14.08.030.006",
+    "villageCode": "006",
+    "districtCode": "14.08.030",
+    "name": "Sei Cingam",
+    "alias": "Sei Cingam"
+  },
+  {
+    "code": "14.08.030.007",
+    "villageCode": "007",
+    "districtCode": "14.08.030",
+    "name": "Pangkalan Nyirih",
+    "alias": "Pangkalan Nyirih"
+  },
+  {
+    "code": "14.08.030.008",
+    "villageCode": "008",
+    "districtCode": "14.08.030",
+    "name": "Hutan Panjang",
+    "alias": "Hutan Panjang"
+  },
+  {
+    "code": "14.08.030.014",
+    "villageCode": "014",
+    "districtCode": "14.08.030",
+    "name": "Makeruh",
+    "alias": "Makeruh"
+  },
+  {
+    "code": "14.08.030.015",
+    "villageCode": "015",
+    "districtCode": "14.08.030",
+    "name": "Sukarjo Mesim",
+    "alias": "Sukarjo Mesim"
+  },
+  {
+    "code": "14.08.030.016",
+    "villageCode": "016",
+    "districtCode": "14.08.030",
+    "name": "Parit Kebumen",
+    "alias": "Parit Kebumen"
+  },
+  {
+    "code": "14.08.030.017",
+    "villageCode": "017",
+    "districtCode": "14.08.030",
+    "name": "Darul Aman",
+    "alias": "Darul Aman"
+  },
+  {
+    "code": "14.08.030.018",
+    "villageCode": "018",
+    "districtCode": "14.08.030",
+    "name": "Sri Tanjung",
+    "alias": "Sri Tanjung"
+  },
+  {
+    "code": "14.08.030.019",
+    "villageCode": "019",
+    "districtCode": "14.08.030",
+    "name": "Pancur Jaya",
+    "alias": "Pancur Jaya"
+  },
+  {
+    "code": "14.08.030.020",
+    "villageCode": "020",
+    "districtCode": "14.08.030",
+    "name": "Pangkalan Pinang",
+    "alias": "Pangkalan Pinang"
+  },
+  {
+    "code": "14.08.030.021",
+    "villageCode": "021",
+    "districtCode": "14.08.030",
+    "name": "Dungun Baru",
+    "alias": "Dungun Baru"
+  }
+]

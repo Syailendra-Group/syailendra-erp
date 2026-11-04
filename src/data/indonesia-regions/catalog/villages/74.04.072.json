@@ -1,0 +1,72 @@
+[
+  {
+    "code": "74.04.072.001",
+    "villageCode": "001",
+    "districtCode": "74.04.072",
+    "name": "Ulu Kalo",
+    "alias": "Ulu Kalo"
+  },
+  {
+    "code": "74.04.072.002",
+    "villageCode": "002",
+    "districtCode": "74.04.072",
+    "name": "Iwoimendaa",
+    "alias": "Iwoimendaa"
+  },
+  {
+    "code": "74.04.072.003",
+    "villageCode": "003",
+    "districtCode": "74.04.072",
+    "name": "Lasiroku",
+    "alias": "Lasiroku"
+  },
+  {
+    "code": "74.04.072.004",
+    "villageCode": "004",
+    "districtCode": "74.04.072",
+    "name": "Ladahai",
+    "alias": "Ladahai"
+  },
+  {
+    "code": "74.04.072.005",
+    "villageCode": "005",
+    "districtCode": "74.04.072",
+    "name": "Tamborasi",
+    "alias": "Tamborasi"
+  },
+  {
+    "code": "74.04.072.006",
+    "villageCode": "006",
+    "districtCode": "74.04.072",
+    "name": "Lambopini",
+    "alias": "Lambopini"
+  },
+  {
+    "code": "74.04.072.007",
+    "villageCode": "007",
+    "districtCode": "74.04.072",
+    "name": "Wonua Laku",
+    "alias": "Wonua Laku"
+  },
+  {
+    "code": "74.04.072.008",
+    "villageCode": "008",
+    "districtCode": "74.04.072",
+    "name": "Landoula",
+    "alias": "Landoula"
+  },
+  {
+    "code": "74.04.072.009",
+    "villageCode": "009",
+    "districtCode": "74.04.072",
+    "name": "Watumelewe",
+    "alias": "Watumelewe"
+  },
+  {
+    "code": "74.04.072.010",
+    "villageCode": "010",
+    "districtCode": "74.04.072",
+    "name": "Lawolia",
+    "alias": "Lawolia"
+  }
+]

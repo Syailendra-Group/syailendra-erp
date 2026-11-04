@@ -1,0 +1,44 @@
+[
+  {
+    "code": "97.07.500.001",
+    "villageCode": "001",
+    "districtCode": "97.07.500",
+    "name": "Duram",
+    "alias": "Duram"
+  },
+  {
+    "code": "97.07.500.002",
+    "villageCode": "002",
+    "districtCode": "97.07.500",
+    "name": "Yaminikma",
+    "alias": "Yaminikma"
+  },
+  {
+    "code": "97.07.500.003",
+    "villageCode": "003",
+    "districtCode": "97.07.500",
+    "name": "Goak",
+    "alias": "Goak"
+  },
+  {
+    "code": "97.07.500.004",
+    "villageCode": "004",
+    "districtCode": "97.07.500",
+    "name": "Digitme",
+    "alias": "Digitme"
+  },
+  {
+    "code": "97.07.500.005",
+    "villageCode": "005",
+    "districtCode": "97.07.500",
+    "name": "Dengat",
+    "alias": "Dengat"
+  },
+  {
+    "code": "97.07.500.006",
+    "villageCode": "006",
+    "districtCode": "97.07.500",
+    "name": "Niniwi",
+    "alias": "Niniwi"
+  }
+]

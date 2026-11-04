@@ -1,0 +1,72 @@
+[
+  {
+    "code": "51.07.020.001",
+    "villageCode": "001",
+    "districtCode": "51.07.020",
+    "name": "Tangkup",
+    "alias": "Tangkup"
+  },
+  {
+    "code": "51.07.020.002",
+    "villageCode": "002",
+    "districtCode": "51.07.020",
+    "name": "Talibeng",
+    "alias": "Talibeng"
+  },
+  {
+    "code": "51.07.020.003",
+    "villageCode": "003",
+    "districtCode": "51.07.020",
+    "name": "Telagatawang",
+    "alias": "Telagatawang"
+  },
+  {
+    "code": "51.07.020.004",
+    "villageCode": "004",
+    "districtCode": "51.07.020",
+    "name": "Sidemen",
+    "alias": "Sidemen"
+  },
+  {
+    "code": "51.07.020.005",
+    "villageCode": "005",
+    "districtCode": "51.07.020",
+    "name": "Sindu Wati",
+    "alias": "Sindu Wati"
+  },
+  {
+    "code": "51.07.020.006",
+    "villageCode": "006",
+    "districtCode": "51.07.020",
+    "name": "Sangkan Gunung",
+    "alias": "Sangkan Gunung"
+  },
+  {
+    "code": "51.07.020.007",
+    "villageCode": "007",
+    "districtCode": "51.07.020",
+    "name": "Loka Sari",
+    "alias": "Loka Sari"
+  },
+  {
+    "code": "51.07.020.008",
+    "villageCode": "008",
+    "districtCode": "51.07.020",
+    "name": "Kertha Buana",
+    "alias": "Kertha Buana"
+  },
+  {
+    "code": "51.07.020.009",
+    "villageCode": "009",
+    "districtCode": "51.07.020",
+    "name": "Tri Eka Buana",
+    "alias": "Tri Eka Buana"
+  },
+  {
+    "code": "51.07.020.010",
+    "villageCode": "010",
+    "districtCode": "51.07.020",
+    "name": "Wisma Kerta",
+    "alias": "Wisma Kerta"
+  }
+]

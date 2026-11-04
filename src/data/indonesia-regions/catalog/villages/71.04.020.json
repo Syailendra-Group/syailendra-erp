@@ -1,0 +1,51 @@
+[
+  {
+    "code": "71.04.020.005",
+    "villageCode": "005",
+    "districtCode": "71.04.020",
+    "name": "Lirung",
+    "alias": "Lirung"
+  },
+  {
+    "code": "71.04.020.007",
+    "villageCode": "007",
+    "districtCode": "71.04.020",
+    "name": "Sereh",
+    "alias": "Sereh"
+  },
+  {
+    "code": "71.04.020.008",
+    "villageCode": "008",
+    "districtCode": "71.04.020",
+    "name": "Musi",
+    "alias": "Musi"
+  },
+  {
+    "code": "71.04.020.011",
+    "villageCode": "011",
+    "districtCode": "71.04.020",
+    "name": "Lirung I",
+    "alias": "Lirung I"
+  },
+  {
+    "code": "71.04.020.012",
+    "villageCode": "012",
+    "districtCode": "71.04.020",
+    "name": "Talolang",
+    "alias": "Talolang"
+  },
+  {
+    "code": "71.04.020.014",
+    "villageCode": "014",
+    "districtCode": "71.04.020",
+    "name": "Lirung Matane",
+    "alias": "Lirung Matane"
+  },
+  {
+    "code": "71.04.020.019",
+    "villageCode": "019",
+    "districtCode": "71.04.020",
+    "name": "Sereh I",
+    "alias": "Sereh I"
+  }
+]

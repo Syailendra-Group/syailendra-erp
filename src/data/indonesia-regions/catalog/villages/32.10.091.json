@@ -1,0 +1,51 @@
+[
+  {
+    "code": "32.10.091.001",
+    "villageCode": "001",
+    "districtCode": "32.10.091",
+    "name": "Pasirayu",
+    "alias": "Pasirayu"
+  },
+  {
+    "code": "32.10.091.002",
+    "villageCode": "002",
+    "districtCode": "32.10.091",
+    "name": "Garawastu",
+    "alias": "Garawastu"
+  },
+  {
+    "code": "32.10.091.003",
+    "villageCode": "003",
+    "districtCode": "32.10.091",
+    "name": "Sangkanhurip",
+    "alias": "Sangkanhurip"
+  },
+  {
+    "code": "32.10.091.004",
+    "villageCode": "004",
+    "districtCode": "32.10.091",
+    "name": "Indrakila",
+    "alias": "Indrakila"
+  },
+  {
+    "code": "32.10.091.005",
+    "villageCode": "005",
+    "districtCode": "32.10.091",
+    "name": "Sindang",
+    "alias": "Sindang"
+  },
+  {
+    "code": "32.10.091.006",
+    "villageCode": "006",
+    "districtCode": "32.10.091",
+    "name": "Gunung Kuning",
+    "alias": "Gunung Kuning"
+  },
+  {
+    "code": "32.10.091.007",
+    "villageCode": "007",
+    "districtCode": "32.10.091",
+    "name": "Bayureja",
+    "alias": "Bayureja"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "code": "51.04.010.001",
+    "villageCode": "001",
+    "districtCode": "51.04.010",
+    "name": "Batubulan",
+    "alias": "Batubulan"
+  },
+  {
+    "code": "51.04.010.002",
+    "villageCode": "002",
+    "districtCode": "51.04.010",
+    "name": "Batubulan Kangin",
+    "alias": "Batubulan Kangin"
+  },
+  {
+    "code": "51.04.010.003",
+    "villageCode": "003",
+    "districtCode": "51.04.010",
+    "name": "Ketewel",
+    "alias": "Ketewel"
+  },
+  {
+    "code": "51.04.010.004",
+    "villageCode": "004",
+    "districtCode": "51.04.010",
+    "name": "Guwang",
+    "alias": "Guwang"
+  },
+  {
+    "code": "51.04.010.005",
+    "villageCode": "005",
+    "districtCode": "51.04.010",
+    "name": "Sukawati",
+    "alias": "Sukawati"
+  },
+  {
+    "code": "51.04.010.006",
+    "villageCode": "006",
+    "districtCode": "51.04.010",
+    "name": "Celuk",
+    "alias": "Celuk"
+  },
+  {
+    "code": "51.04.010.007",
+    "villageCode": "007",
+    "districtCode": "51.04.010",
+    "name": "Singapadu",
+    "alias": "Singapadu"
+  },
+  {
+    "code": "51.04.010.008",
+    "villageCode": "008",
+    "districtCode": "51.04.010",
+    "name": "Singapadu Tengah",
+    "alias": "Singapadu Tengah"
+  },
+  {
+    "code": "51.04.010.009",
+    "villageCode": "009",
+    "districtCode": "51.04.010",
+    "name": "Singapadu Kaler",
+    "alias": "Singapadu Kaler"
+  },
+  {
+    "code": "51.04.010.010",
+    "villageCode": "010",
+    "districtCode": "51.04.010",
+    "name": "Batuan",
+    "alias": "Batuan"
+  },
+  {
+    "code": "51.04.010.011",
+    "villageCode": "011",
+    "districtCode": "51.04.010",
+    "name": "Batuan Kaler",
+    "alias": "Batuan Kaler"
+  },
+  {
+    "code": "51.04.010.012",
+    "villageCode": "012",
+    "districtCode": "51.04.010",
+    "name": "Kemenuh",
+    "alias": "Kemenuh"
+  }
+]

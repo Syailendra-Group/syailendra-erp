@@ -1,0 +1,65 @@
+[
+  {
+    "code": "32.06.140.003",
+    "villageCode": "003",
+    "districtCode": "32.06.140",
+    "name": "Mandalahayu",
+    "alias": "Mandalahayu"
+  },
+  {
+    "code": "32.06.140.004",
+    "villageCode": "004",
+    "districtCode": "32.06.140",
+    "name": "Karyamandala",
+    "alias": "Karyamandala"
+  },
+  {
+    "code": "32.06.140.005",
+    "villageCode": "005",
+    "districtCode": "32.06.140",
+    "name": "Mulyasari",
+    "alias": "Mulyasari"
+  },
+  {
+    "code": "32.06.140.006",
+    "villageCode": "006",
+    "districtCode": "32.06.140",
+    "name": "Tanjungsari",
+    "alias": "Tanjungsari"
+  },
+  {
+    "code": "32.06.140.007",
+    "villageCode": "007",
+    "districtCode": "32.06.140",
+    "name": "Mandalaguna",
+    "alias": "Mandalaguna"
+  },
+  {
+    "code": "32.06.140.008",
+    "villageCode": "008",
+    "districtCode": "32.06.140",
+    "name": "Kawitan",
+    "alias": "Kawitan"
+  },
+  {
+    "code": "32.06.140.009",
+    "villageCode": "009",
+    "districtCode": "32.06.140",
+    "name": "Mandalawangi",
+    "alias": "Mandalawangi"
+  },
+  {
+    "code": "32.06.140.010",
+    "villageCode": "010",
+    "districtCode": "32.06.140",
+    "name": "Banjarwaringin",
+    "alias": "Banjarwaringin"
+  },
+  {
+    "code": "32.06.140.018",
+    "villageCode": "018",
+    "districtCode": "32.06.140",
+    "name": "Karyawangi",
+    "alias": "Karyawangi"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "code": "72.04.030.002",
+    "villageCode": "002",
+    "districtCode": "72.04.030",
+    "name": "Tonusu",
+    "alias": "Tonusu"
+  },
+  {
+    "code": "72.04.030.003",
+    "villageCode": "003",
+    "districtCode": "72.04.030",
+    "name": "Mayakeli",
+    "alias": "Mayakeli"
+  },
+  {
+    "code": "72.04.030.004",
+    "villageCode": "004",
+    "districtCode": "72.04.030",
+    "name": "Buyumpondoli",
+    "alias": "Buyumpondoli"
+  },
+  {
+    "code": "72.04.030.005",
+    "villageCode": "005",
+    "districtCode": "72.04.030",
+    "name": "Pamona",
+    "alias": "Pamona"
+  },
+  {
+    "code": "72.04.030.008",
+    "villageCode": "008",
+    "districtCode": "72.04.030",
+    "name": "Tentena",
+    "alias": "Tentena"
+  },
+  {
+    "code": "72.04.030.009",
+    "villageCode": "009",
+    "districtCode": "72.04.030",
+    "name": "Sangele",
+    "alias": "Sangele"
+  },
+  {
+    "code": "72.04.030.010",
+    "villageCode": "010",
+    "districtCode": "72.04.030",
+    "name": "Peura",
+    "alias": "Peura"
+  },
+  {
+    "code": "72.04.030.011",
+    "villageCode": "011",
+    "districtCode": "72.04.030",
+    "name": "Dulumai",
+    "alias": "Dulumai"
+  },
+  {
+    "code": "72.04.030.030",
+    "villageCode": "030",
+    "districtCode": "72.04.030",
+    "name": "Leboni",
+    "alias": "Leboni"
+  },
+  {
+    "code": "72.04.030.031",
+    "villageCode": "031",
+    "districtCode": "72.04.030",
+    "name": "Soe",
+    "alias": "Soe"
+  },
+  {
+    "code": "72.04.030.032",
+    "villageCode": "032",
+    "districtCode": "72.04.030",
+    "name": "Wera",
+    "alias": "Wera"
+  }
+]

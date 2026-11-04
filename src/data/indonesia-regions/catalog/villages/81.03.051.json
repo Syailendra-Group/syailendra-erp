@@ -1,0 +1,37 @@
+[
+  {
+    "code": "81.03.051.001",
+    "villageCode": "001",
+    "districtCode": "81.03.051",
+    "name": "Letwaru",
+    "alias": "Letwaru"
+  },
+  {
+    "code": "81.03.051.002",
+    "villageCode": "002",
+    "districtCode": "81.03.051",
+    "name": "Lesane",
+    "alias": "Lesane"
+  },
+  {
+    "code": "81.03.051.003",
+    "villageCode": "003",
+    "districtCode": "81.03.051",
+    "name": "Ampera",
+    "alias": "Ampera"
+  },
+  {
+    "code": "81.03.051.004",
+    "villageCode": "004",
+    "districtCode": "81.03.051",
+    "name": "Namaelo",
+    "alias": "Namaelo"
+  },
+  {
+    "code": "81.03.051.005",
+    "villageCode": "005",
+    "districtCode": "81.03.051",
+    "name": "Namasina",
+    "alias": "Namasina"
+  }
+]

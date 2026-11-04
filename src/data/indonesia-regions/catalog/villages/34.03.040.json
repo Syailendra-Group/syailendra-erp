@@ -1,0 +1,37 @@
+[
+  {
+    "code": "34.03.040.005",
+    "villageCode": "005",
+    "districtCode": "34.03.040",
+    "name": "Sidoharjo",
+    "alias": "Sidoharjo"
+  },
+  {
+    "code": "34.03.040.006",
+    "villageCode": "006",
+    "districtCode": "34.03.040",
+    "name": "Tepus",
+    "alias": "Tepus"
+  },
+  {
+    "code": "34.03.040.007",
+    "villageCode": "007",
+    "districtCode": "34.03.040",
+    "name": "Purwodadi",
+    "alias": "Purwodadi"
+  },
+  {
+    "code": "34.03.040.008",
+    "villageCode": "008",
+    "districtCode": "34.03.040",
+    "name": "Giripanggung",
+    "alias": "Giripanggung"
+  },
+  {
+    "code": "34.03.040.009",
+    "villageCode": "009",
+    "districtCode": "34.03.040",
+    "name": "Sumberwungu",
+    "alias": "Sumberwungu"
+  }
+]

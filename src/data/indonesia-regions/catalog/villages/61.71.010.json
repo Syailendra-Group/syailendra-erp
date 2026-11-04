@@ -1,0 +1,37 @@
+[
+  {
+    "code": "61.71.010.002",
+    "villageCode": "002",
+    "districtCode": "61.71.010",
+    "name": "Benua Melayu Laut",
+    "alias": "Benua Melayu Laut"
+  },
+  {
+    "code": "61.71.010.003",
+    "villageCode": "003",
+    "districtCode": "61.71.010",
+    "name": "Benua Melayu Darat",
+    "alias": "Benua Melayu Darat"
+  },
+  {
+    "code": "61.71.010.004",
+    "villageCode": "004",
+    "districtCode": "61.71.010",
+    "name": "Parit Tokaya",
+    "alias": "Parit Tokaya"
+  },
+  {
+    "code": "61.71.010.005",
+    "villageCode": "005",
+    "districtCode": "61.71.010",
+    "name": "Akcaya",
+    "alias": "Akcaya"
+  },
+  {
+    "code": "61.71.010.006",
+    "villageCode": "006",
+    "districtCode": "61.71.010",
+    "name": "Kota Baru",
+    "alias": "Kota Baru"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "code": "71.02.172.001",
+    "villageCode": "001",
+    "districtCode": "71.02.172",
+    "name": "Agotey",
+    "alias": "Agotey"
+  },
+  {
+    "code": "71.02.172.002",
+    "villageCode": "002",
+    "districtCode": "71.02.172",
+    "name": "Koha",
+    "alias": "Koha"
+  },
+  {
+    "code": "71.02.172.003",
+    "villageCode": "003",
+    "districtCode": "71.02.172",
+    "name": "Tateli Weru",
+    "alias": "Tateli Weru"
+  },
+  {
+    "code": "71.02.172.004",
+    "villageCode": "004",
+    "districtCode": "71.02.172",
+    "name": "Tateli",
+    "alias": "Tateli"
+  },
+  {
+    "code": "71.02.172.005",
+    "villageCode": "005",
+    "districtCode": "71.02.172",
+    "name": "Kalasey Dua",
+    "alias": "Kalasey Dua"
+  },
+  {
+    "code": "71.02.172.006",
+    "villageCode": "006",
+    "districtCode": "71.02.172",
+    "name": "Kalasey Satu",
+    "alias": "Kalasey Satu"
+  },
+  {
+    "code": "71.02.172.007",
+    "villageCode": "007",
+    "districtCode": "71.02.172",
+    "name": "Tateli Satu",
+    "alias": "Tateli Satu"
+  },
+  {
+    "code": "71.02.172.008",
+    "villageCode": "008",
+    "districtCode": "71.02.172",
+    "name": "Tateli Dua",
+    "alias": "Tateli Dua"
+  },
+  {
+    "code": "71.02.172.009",
+    "villageCode": "009",
+    "districtCode": "71.02.172",
+    "name": "Tateli Tiga",
+    "alias": "Tateli Tiga"
+  },
+  {
+    "code": "71.02.172.010",
+    "villageCode": "010",
+    "districtCode": "71.02.172",
+    "name": "Koha Timur",
+    "alias": "Koha Timur"
+  },
+  {
+    "code": "71.02.172.011",
+    "villageCode": "011",
+    "districtCode": "71.02.172",
+    "name": "Koha Barat",
+    "alias": "Koha Barat"
+  },
+  {
+    "code": "71.02.172.012",
+    "villageCode": "012",
+    "districtCode": "71.02.172",
+    "name": "Koha Selatan",
+    "alias": "Koha Selatan"
+  }
+]

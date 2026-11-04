@@ -1,0 +1,107 @@
+[
+  {
+    "code": "71.04.070.001",
+    "villageCode": "001",
+    "districtCode": "71.04.070",
+    "name": "Mamahan",
+    "alias": "Mamahan"
+  },
+  {
+    "code": "71.04.070.002",
+    "villageCode": "002",
+    "districtCode": "71.04.070",
+    "name": "Bambung",
+    "alias": "Bambung"
+  },
+  {
+    "code": "71.04.070.003",
+    "villageCode": "003",
+    "districtCode": "71.04.070",
+    "name": "Taturan",
+    "alias": "Taturan"
+  },
+  {
+    "code": "71.04.070.004",
+    "villageCode": "004",
+    "districtCode": "71.04.070",
+    "name": "Gemeh",
+    "alias": "Gemeh"
+  },
+  {
+    "code": "71.04.070.005",
+    "villageCode": "005",
+    "districtCode": "71.04.070",
+    "name": "Arangkaa",
+    "alias": "Arangkaa"
+  },
+  {
+    "code": "71.04.070.006",
+    "villageCode": "006",
+    "districtCode": "71.04.070",
+    "name": "Malat",
+    "alias": "Malat"
+  },
+  {
+    "code": "71.04.070.007",
+    "villageCode": "007",
+    "districtCode": "71.04.070",
+    "name": "Apan",
+    "alias": "Apan"
+  },
+  {
+    "code": "71.04.070.008",
+    "villageCode": "008",
+    "districtCode": "71.04.070",
+    "name": "Taruan",
+    "alias": "Taruan"
+  },
+  {
+    "code": "71.04.070.009",
+    "villageCode": "009",
+    "districtCode": "71.04.070",
+    "name": "Bannada",
+    "alias": "Bannada"
+  },
+  {
+    "code": "71.04.070.010",
+    "villageCode": "010",
+    "districtCode": "71.04.070",
+    "name": "Lahu",
+    "alias": "Lahu"
+  },
+  {
+    "code": "71.04.070.011",
+    "villageCode": "011",
+    "districtCode": "71.04.070",
+    "name": "Mamahan Barat",
+    "alias": "Mamahan Barat"
+  },
+  {
+    "code": "71.04.070.012",
+    "villageCode": "012",
+    "districtCode": "71.04.070",
+    "name": "Bambung Timur",
+    "alias": "Bambung Timur"
+  },
+  {
+    "code": "71.04.070.013",
+    "villageCode": "013",
+    "districtCode": "71.04.070",
+    "name": "Gemeh Raamata",
+    "alias": "Gemeh Raamata"
+  },
+  {
+    "code": "71.04.070.014",
+    "villageCode": "014",
+    "districtCode": "71.04.070",
+    "name": "Gemeh Wantane",
+    "alias": "Gemeh Wantane"
+  },
+  {
+    "code": "71.04.070.015",
+    "villageCode": "015",
+    "districtCode": "71.04.070",
+    "name": "Malat Utara",
+    "alias": "Malat Utara"
+  }
+]

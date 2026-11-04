@@ -1,0 +1,44 @@
+[
+  {
+    "code": "81.08.020.001",
+    "villageCode": "001",
+    "districtCode": "81.08.020",
+    "name": "Lekloor",
+    "alias": "Lekloor"
+  },
+  {
+    "code": "81.08.020.002",
+    "villageCode": "002",
+    "districtCode": "81.08.020",
+    "name": "Oirata Barat",
+    "alias": "Oirata Barat"
+  },
+  {
+    "code": "81.08.020.003",
+    "villageCode": "003",
+    "districtCode": "81.08.020",
+    "name": "Oirata Timur",
+    "alias": "Oirata Timur"
+  },
+  {
+    "code": "81.08.020.004",
+    "villageCode": "004",
+    "districtCode": "81.08.020",
+    "name": "Abusur",
+    "alias": "Abusur"
+  },
+  {
+    "code": "81.08.020.005",
+    "villageCode": "005",
+    "districtCode": "81.08.020",
+    "name": "Kotalama",
+    "alias": "Kotalama"
+  },
+  {
+    "code": "81.08.020.006",
+    "villageCode": "006",
+    "districtCode": "81.08.020",
+    "name": "Wonreli",
+    "alias": "Wonreli"
+  }
+]

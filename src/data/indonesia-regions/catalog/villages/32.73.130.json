@@ -1,0 +1,30 @@
+[
+  {
+    "code": "32.73.130.001",
+    "villageCode": "001",
+    "districtCode": "32.73.130",
+    "name": "Cisaranten Kulon",
+    "alias": "Cisaranten Kulon"
+  },
+  {
+    "code": "32.73.130.002",
+    "villageCode": "002",
+    "districtCode": "32.73.130",
+    "name": "Cisaranten Bina Harapan",
+    "alias": "Cisaranten Bina Harapan"
+  },
+  {
+    "code": "32.73.130.003",
+    "villageCode": "003",
+    "districtCode": "32.73.130",
+    "name": "Sukamiskin",
+    "alias": "Sukamiskin"
+  },
+  {
+    "code": "32.73.130.005",
+    "villageCode": "005",
+    "districtCode": "32.73.130",
+    "name": "Cisaranten Endah",
+    "alias": "Cisaranten Endah"
+  }
+]

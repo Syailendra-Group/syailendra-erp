@@ -1,0 +1,72 @@
+[
+  {
+    "code": "18.12.020.001",
+    "villageCode": "001",
+    "districtCode": "18.12.020",
+    "name": "Gunung Menanti",
+    "alias": "Gunung Menanti"
+  },
+  {
+    "code": "18.12.020.002",
+    "villageCode": "002",
+    "districtCode": "18.12.020",
+    "name": "Margo Dadi",
+    "alias": "Margo Dadi"
+  },
+  {
+    "code": "18.12.020.003",
+    "villageCode": "003",
+    "districtCode": "18.12.020",
+    "name": "Murni Jaya",
+    "alias": "Murni Jaya"
+  },
+  {
+    "code": "18.12.020.004",
+    "villageCode": "004",
+    "districtCode": "18.12.020",
+    "name": "Margo Mulyo",
+    "alias": "Margo Mulyo"
+  },
+  {
+    "code": "18.12.020.005",
+    "villageCode": "005",
+    "districtCode": "18.12.020",
+    "name": "Daya Asri",
+    "alias": "Daya Asri"
+  },
+  {
+    "code": "18.12.020.006",
+    "villageCode": "006",
+    "districtCode": "18.12.020",
+    "name": "Daya Murni",
+    "alias": "Daya Murni"
+  },
+  {
+    "code": "18.12.020.007",
+    "villageCode": "007",
+    "districtCode": "18.12.020",
+    "name": "Daya Sakti",
+    "alias": "Daya Sakti"
+  },
+  {
+    "code": "18.12.020.008",
+    "villageCode": "008",
+    "districtCode": "18.12.020",
+    "name": "Makarti",
+    "alias": "Makarti"
+  },
+  {
+    "code": "18.12.020.009",
+    "villageCode": "009",
+    "districtCode": "18.12.020",
+    "name": "Sumber Rejo",
+    "alias": "Sumber Rejo"
+  },
+  {
+    "code": "18.12.020.010",
+    "villageCode": "010",
+    "districtCode": "18.12.020",
+    "name": "Gunung Timbul",
+    "alias": "Gunung Timbul"
+  }
+]

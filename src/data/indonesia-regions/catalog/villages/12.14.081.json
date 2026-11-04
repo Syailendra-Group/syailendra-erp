@@ -1,0 +1,72 @@
+[
+  {
+    "code": "12.14.081.001",
+    "villageCode": "001",
+    "districtCode": "12.14.081",
+    "name": "Bawosaloo Dao Dao",
+    "alias": "Bawosaloo Dao Dao"
+  },
+  {
+    "code": "12.14.081.002",
+    "villageCode": "002",
+    "districtCode": "12.14.081",
+    "name": "Togizita",
+    "alias": "Togizita"
+  },
+  {
+    "code": "12.14.081.003",
+    "villageCode": "003",
+    "districtCode": "12.14.081",
+    "name": "Tuhoowo",
+    "alias": "Tuhoowo"
+  },
+  {
+    "code": "12.14.081.004",
+    "villageCode": "004",
+    "districtCode": "12.14.081",
+    "name": "Soledua",
+    "alias": "Soledua"
+  },
+  {
+    "code": "12.14.081.005",
+    "villageCode": "005",
+    "districtCode": "12.14.081",
+    "name": "Dao-Dao Sowo",
+    "alias": "Dao-Dao Sowo"
+  },
+  {
+    "code": "12.14.081.007",
+    "villageCode": "007",
+    "districtCode": "12.14.081",
+    "name": "Hilitoese",
+    "alias": "Hilitoese"
+  },
+  {
+    "code": "12.14.081.008",
+    "villageCode": "008",
+    "districtCode": "12.14.081",
+    "name": "Hiliadulo",
+    "alias": "Hiliadulo"
+  },
+  {
+    "code": "12.14.081.009",
+    "villageCode": "009",
+    "districtCode": "12.14.081",
+    "name": "Togizita I",
+    "alias": "Togizita I"
+  },
+  {
+    "code": "12.14.081.010",
+    "villageCode": "010",
+    "districtCode": "12.14.081",
+    "name": "Soledua I",
+    "alias": "Soledua I"
+  },
+  {
+    "code": "12.14.081.011",
+    "villageCode": "011",
+    "districtCode": "12.14.081",
+    "name": "Soledua Ii",
+    "alias": "Soledua Ii"
+  }
+]

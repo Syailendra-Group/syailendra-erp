@@ -1,0 +1,86 @@
+[
+  {
+    "code": "97.07.170.001",
+    "villageCode": "001",
+    "districtCode": "97.07.170",
+    "name": "Korupun",
+    "alias": "Korupun"
+  },
+  {
+    "code": "97.07.170.002",
+    "villageCode": "002",
+    "districtCode": "97.07.170",
+    "name": "Dagi",
+    "alias": "Dagi"
+  },
+  {
+    "code": "97.07.170.003",
+    "villageCode": "003",
+    "districtCode": "97.07.170",
+    "name": "Wemin",
+    "alias": "Wemin"
+  },
+  {
+    "code": "97.07.170.004",
+    "villageCode": "004",
+    "districtCode": "97.07.170",
+    "name": "Morome",
+    "alias": "Morome"
+  },
+  {
+    "code": "97.07.170.005",
+    "villageCode": "005",
+    "districtCode": "97.07.170",
+    "name": "Moo",
+    "alias": "Moo"
+  },
+  {
+    "code": "97.07.170.006",
+    "villageCode": "006",
+    "districtCode": "97.07.170",
+    "name": "Batkuk",
+    "alias": "Batkuk"
+  },
+  {
+    "code": "97.07.170.007",
+    "villageCode": "007",
+    "districtCode": "97.07.170",
+    "name": "Maldua",
+    "alias": "Maldua"
+  },
+  {
+    "code": "97.07.170.008",
+    "villageCode": "008",
+    "districtCode": "97.07.170",
+    "name": "Amdua",
+    "alias": "Amdua"
+  },
+  {
+    "code": "97.07.170.009",
+    "villageCode": "009",
+    "districtCode": "97.07.170",
+    "name": "Somsek",
+    "alias": "Somsek"
+  },
+  {
+    "code": "97.07.170.010",
+    "villageCode": "010",
+    "districtCode": "97.07.170",
+    "name": "Basal",
+    "alias": "Basal"
+  },
+  {
+    "code": "97.07.170.011",
+    "villageCode": "011",
+    "districtCode": "97.07.170",
+    "name": "Yamdua",
+    "alias": "Yamdua"
+  },
+  {
+    "code": "97.07.170.012",
+    "villageCode": "012",
+    "districtCode": "97.07.170",
+    "name": "Dildau",
+    "alias": "Dildau"
+  }
+]

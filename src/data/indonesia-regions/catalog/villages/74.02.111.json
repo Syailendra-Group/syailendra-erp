@@ -1,0 +1,44 @@
+[
+  {
+    "code": "74.02.111.004",
+    "villageCode": "004",
+    "districtCode": "74.02.111",
+    "name": "Pohorua",
+    "alias": "Pohorua"
+  },
+  {
+    "code": "74.02.111.005",
+    "villageCode": "005",
+    "districtCode": "74.02.111",
+    "name": "Lapole",
+    "alias": "Lapole"
+  },
+  {
+    "code": "74.02.111.006",
+    "villageCode": "006",
+    "districtCode": "74.02.111",
+    "name": "Maligano",
+    "alias": "Maligano"
+  },
+  {
+    "code": "74.02.111.007",
+    "villageCode": "007",
+    "districtCode": "74.02.111",
+    "name": "Raimuna",
+    "alias": "Raimuna"
+  },
+  {
+    "code": "74.02.111.008",
+    "villageCode": "008",
+    "districtCode": "74.02.111",
+    "name": "Latompa",
+    "alias": "Latompa"
+  },
+  {
+    "code": "74.02.111.009",
+    "villageCode": "009",
+    "districtCode": "74.02.111",
+    "name": "Langkoroni",
+    "alias": "Langkoroni"
+  }
+]

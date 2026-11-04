@@ -1,0 +1,100 @@
+[
+  {
+    "code": "12.10.100.001",
+    "villageCode": "001",
+    "districtCode": "12.10.100",
+    "name": "Sumbul Tengah",
+    "alias": "Sumbul Tengah"
+  },
+  {
+    "code": "12.10.100.002",
+    "villageCode": "002",
+    "districtCode": "12.10.100",
+    "name": "Ujung Teran",
+    "alias": "Ujung Teran"
+  },
+  {
+    "code": "12.10.100.003",
+    "villageCode": "003",
+    "districtCode": "12.10.100",
+    "name": "Juma Gerat",
+    "alias": "Juma Gerat"
+  },
+  {
+    "code": "12.10.100.004",
+    "villageCode": "004",
+    "districtCode": "12.10.100",
+    "name": "Sarintonu",
+    "alias": "Sarintonu"
+  },
+  {
+    "code": "12.10.100.005",
+    "villageCode": "005",
+    "districtCode": "12.10.100",
+    "name": "Palding",
+    "alias": "Palding"
+  },
+  {
+    "code": "12.10.100.006",
+    "villageCode": "006",
+    "districtCode": "12.10.100",
+    "name": "Bertungen Julu",
+    "alias": "Bertungen Julu"
+  },
+  {
+    "code": "12.10.100.007",
+    "villageCode": "007",
+    "districtCode": "12.10.100",
+    "name": "Sukandebi",
+    "alias": "Sukandebi"
+  },
+  {
+    "code": "12.10.100.008",
+    "villageCode": "008",
+    "districtCode": "12.10.100",
+    "name": "Lau Molgap",
+    "alias": "Lau Molgap"
+  },
+  {
+    "code": "12.10.100.009",
+    "villageCode": "009",
+    "districtCode": "12.10.100",
+    "name": "Lau Pakpak",
+    "alias": "Lau Pakpak"
+  },
+  {
+    "code": "12.10.100.011",
+    "villageCode": "011",
+    "districtCode": "12.10.100",
+    "name": "Lau Mil",
+    "alias": "Lau Mil"
+  },
+  {
+    "code": "12.10.100.012",
+    "villageCode": "012",
+    "districtCode": "12.10.100",
+    "name": "Lau Bagot",
+    "alias": "Lau Bagot"
+  },
+  {
+    "code": "12.10.100.013",
+    "villageCode": "013",
+    "districtCode": "12.10.100",
+    "name": "Tigalingga",
+    "alias": "Tigalingga"
+  },
+  {
+    "code": "12.10.100.014",
+    "villageCode": "014",
+    "districtCode": "12.10.100",
+    "name": "Lau Sireme",
+    "alias": "Lau Sireme"
+  },
+  {
+    "code": "12.10.100.019",
+    "villageCode": "019",
+    "districtCode": "12.10.100",
+    "name": "Palding Jaya",
+    "alias": "Palding Jaya"
+  }
+]

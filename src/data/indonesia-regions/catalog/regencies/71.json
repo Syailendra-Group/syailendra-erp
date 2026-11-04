@@ -1,0 +1,122 @@
+[
+  {
+    "code": "71.01",
+    "regencyCode": "01",
+    "provinceCode": "71",
+    "provinceName": "Sulawesi Utara",
+    "name": "Kabupaten Bolaang Mongondow",
+    "alias": "Bolaang Mongondow"
+  },
+  {
+    "code": "71.02",
+    "regencyCode": "02",
+    "provinceCode": "71",
+    "provinceName": "Sulawesi Utara",
+    "name": "Kabupaten Minahasa",
+    "alias": "Minahasa"
+  },
+  {
+    "code": "71.03",
+    "regencyCode": "03",
+    "provinceCode": "71",
+    "provinceName": "Sulawesi Utara",
+    "name": "Kabupaten Kepulauan Sangihe",
+    "alias": "Kepulauan Sangihe"
+  },
+  {
+    "code": "71.04",
+    "regencyCode": "04",
+    "provinceCode": "71",
+    "provinceName": "Sulawesi Utara",
+    "name": "Kabupaten Kepulauan Talaud",
+    "alias": "Kepulauan Talaud"
+  },
+  {
+    "code": "71.05",
+    "regencyCode": "05",
+    "provinceCode": "71",
+    "provinceName": "Sulawesi Utara",
+    "name": "Kabupaten Minahasa Selatan",
+    "alias": "Minahasa Selatan"
+  },
+  {
+    "code": "71.06",
+    "regencyCode": "06",
+    "provinceCode": "71",
+    "provinceName": "Sulawesi Utara",
+    "name": "Kabupaten Minahasa Utara",
+    "alias": "Minahasa Utara"
+  },
+  {
+    "code": "71.07",
+    "regencyCode": "07",
+    "provinceCode": "71",
+    "provinceName": "Sulawesi Utara",
+    "name": "Kabupaten Bolaang Mongondow Utara",
+    "alias": "Bolaang Mongondow Utara"
+  },
+  {
+    "code": "71.08",
+    "regencyCode": "08",
+    "provinceCode": "71",
+    "provinceName": "Sulawesi Utara",
+    "name": "Kabupaten Kep. Siau Tagulandang Biaro",
+    "alias": "Kep. Siau Tagulandang Biaro"
+  },
+  {
+    "code": "71.09",
+    "regencyCode": "09",
+    "provinceCode": "71",
+    "provinceName": "Sulawesi Utara",
+    "name": "Kabupaten Minahasa Tenggara",
+    "alias": "Minahasa Tenggara"
+  },
+  {
+    "code": "71.10",
+    "regencyCode": "10",
+    "provinceCode": "71",
+    "provinceName": "Sulawesi Utara",
+    "name": "Kabupaten Bolaang Mongondow Selatan",
+    "alias": "Bolaang Mongondow Selatan"
+  },
+  {
+    "code": "71.11",
+    "regencyCode": "11",
+    "provinceCode": "71",
+    "provinceName": "Sulawesi Utara",
+    "name": "Kabupaten Bolaang Mongondow Timur",
+    "alias": "Bolaang Mongondow Timur"
+  },
+  {
+    "code": "71.71",
+    "regencyCode": "71",
+    "provinceCode": "71",
+    "provinceName": "Sulawesi Utara",
+    "name": "Kota Manado",
+    "alias": "Manado"
+  },
+  {
+    "code": "71.72",
+    "regencyCode": "72",
+    "provinceCode": "71",
+    "provinceName": "Sulawesi Utara",
+    "name": "Kota Bitung",
+    "alias": "Bitung"
+  },
+  {
+    "code": "71.73",
+    "regencyCode": "73",
+    "provinceCode": "71",
+    "provinceName": "Sulawesi Utara",
+    "name": "Kota Tomohon",
+    "alias": "Tomohon"
+  },
+  {
+    "code": "71.74",
+    "regencyCode": "74",
+    "provinceCode": "71",
+    "provinceName": "Sulawesi Utara",
+    "name": "Kota Kotamobagu",
+    "alias": "Kotamobagu"
+  }
+]

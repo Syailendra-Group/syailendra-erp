@@ -1,0 +1,100 @@
+[
+  {
+    "code": "62.02.050.001",
+    "villageCode": "001",
+    "districtCode": "62.02.050",
+    "name": "Satiruk",
+    "alias": "Satiruk"
+  },
+  {
+    "code": "62.02.050.002",
+    "villageCode": "002",
+    "districtCode": "62.02.050",
+    "name": "Bapinang Hilir Laut",
+    "alias": "Bapinang Hilir Laut"
+  },
+  {
+    "code": "62.02.050.003",
+    "villageCode": "003",
+    "districtCode": "62.02.050",
+    "name": "Bapinang Hilir",
+    "alias": "Bapinang Hilir"
+  },
+  {
+    "code": "62.02.050.004",
+    "villageCode": "004",
+    "districtCode": "62.02.050",
+    "name": "Bapinang Hulu",
+    "alias": "Bapinang Hulu"
+  },
+  {
+    "code": "62.02.050.005",
+    "villageCode": "005",
+    "districtCode": "62.02.050",
+    "name": "Makarti Jaya",
+    "alias": "Makarti Jaya"
+  },
+  {
+    "code": "62.02.050.006",
+    "villageCode": "006",
+    "districtCode": "62.02.050",
+    "name": "Rawa Sari",
+    "alias": "Rawa Sari"
+  },
+  {
+    "code": "62.02.050.007",
+    "villageCode": "007",
+    "districtCode": "62.02.050",
+    "name": "Babirah",
+    "alias": "Babirah"
+  },
+  {
+    "code": "62.02.050.008",
+    "villageCode": "008",
+    "districtCode": "62.02.050",
+    "name": "Hanaut",
+    "alias": "Hanaut"
+  },
+  {
+    "code": "62.02.050.009",
+    "villageCode": "009",
+    "districtCode": "62.02.050",
+    "name": "Serambut",
+    "alias": "Serambut"
+  },
+  {
+    "code": "62.02.050.010",
+    "villageCode": "010",
+    "districtCode": "62.02.050",
+    "name": "Babaung",
+    "alias": "Babaung"
+  },
+  {
+    "code": "62.02.050.011",
+    "villageCode": "011",
+    "districtCode": "62.02.050",
+    "name": "Bantian",
+    "alias": "Bantian"
+  },
+  {
+    "code": "62.02.050.012",
+    "villageCode": "012",
+    "districtCode": "62.02.050",
+    "name": "Hantipan",
+    "alias": "Hantipan"
+  },
+  {
+    "code": "62.02.050.013",
+    "villageCode": "013",
+    "districtCode": "62.02.050",
+    "name": "Penyaguan",
+    "alias": "Penyaguan"
+  },
+  {
+    "code": "62.02.050.014",
+    "villageCode": "014",
+    "districtCode": "62.02.050",
+    "name": "Bamadu",
+    "alias": "Bamadu"
+  }
+]

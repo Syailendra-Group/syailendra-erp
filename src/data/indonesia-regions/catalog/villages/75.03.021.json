@@ -1,0 +1,51 @@
+[
+  {
+    "code": "75.03.021.001",
+    "villageCode": "001",
+    "districtCode": "75.03.021",
+    "name": "Wonggarasi Timur",
+    "alias": "Wonggarasi Timur"
+  },
+  {
+    "code": "75.03.021.002",
+    "villageCode": "002",
+    "districtCode": "75.03.021",
+    "name": "Bukit Harapan",
+    "alias": "Bukit Harapan"
+  },
+  {
+    "code": "75.03.021.003",
+    "villageCode": "003",
+    "districtCode": "75.03.021",
+    "name": "Bohusami",
+    "alias": "Bohusami"
+  },
+  {
+    "code": "75.03.021.004",
+    "villageCode": "004",
+    "districtCode": "75.03.021",
+    "name": "Lembah Permai",
+    "alias": "Lembah Permai"
+  },
+  {
+    "code": "75.03.021.005",
+    "villageCode": "005",
+    "districtCode": "75.03.021",
+    "name": "Limbula",
+    "alias": "Limbula"
+  },
+  {
+    "code": "75.03.021.006",
+    "villageCode": "006",
+    "districtCode": "75.03.021",
+    "name": "Tuweya",
+    "alias": "Tuweya"
+  },
+  {
+    "code": "75.03.021.007",
+    "villageCode": "007",
+    "districtCode": "75.03.021",
+    "name": "Yipilo",
+    "alias": "Yipilo"
+  }
+]

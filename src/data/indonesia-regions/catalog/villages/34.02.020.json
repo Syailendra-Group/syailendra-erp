@@ -1,0 +1,30 @@
+[
+  {
+    "code": "34.02.020.001",
+    "villageCode": "001",
+    "districtCode": "34.02.020",
+    "name": "Gadingsari",
+    "alias": "Gadingsari"
+  },
+  {
+    "code": "34.02.020.002",
+    "villageCode": "002",
+    "districtCode": "34.02.020",
+    "name": "Gadingharjo",
+    "alias": "Gadingharjo"
+  },
+  {
+    "code": "34.02.020.003",
+    "villageCode": "003",
+    "districtCode": "34.02.020",
+    "name": "Srigading",
+    "alias": "Srigading"
+  },
+  {
+    "code": "34.02.020.004",
+    "villageCode": "004",
+    "districtCode": "34.02.020",
+    "name": "Murtigading",
+    "alias": "Murtigading"
+  }
+]

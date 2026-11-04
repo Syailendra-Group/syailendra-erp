@@ -1,0 +1,65 @@
+[
+  {
+    "code": "32.07.111.001",
+    "villageCode": "001",
+    "districtCode": "32.07.111",
+    "name": "Kutawaringin",
+    "alias": "Kutawaringin"
+  },
+  {
+    "code": "32.07.111.002",
+    "villageCode": "002",
+    "districtCode": "32.07.111",
+    "name": "Bantardawa",
+    "alias": "Bantardawa"
+  },
+  {
+    "code": "32.07.111.003",
+    "villageCode": "003",
+    "districtCode": "32.07.111",
+    "name": "Pasirlawang",
+    "alias": "Pasirlawang"
+  },
+  {
+    "code": "32.07.111.004",
+    "villageCode": "004",
+    "districtCode": "32.07.111",
+    "name": "Purwadadi",
+    "alias": "Purwadadi"
+  },
+  {
+    "code": "32.07.111.005",
+    "villageCode": "005",
+    "districtCode": "32.07.111",
+    "name": "Purwajaya",
+    "alias": "Purwajaya"
+  },
+  {
+    "code": "32.07.111.006",
+    "villageCode": "006",
+    "districtCode": "32.07.111",
+    "name": "Sidarahayu",
+    "alias": "Sidarahayu"
+  },
+  {
+    "code": "32.07.111.007",
+    "villageCode": "007",
+    "districtCode": "32.07.111",
+    "name": "Karangpaningal",
+    "alias": "Karangpaningal"
+  },
+  {
+    "code": "32.07.111.008",
+    "villageCode": "008",
+    "districtCode": "32.07.111",
+    "name": "Sukamulya",
+    "alias": "Sukamulya"
+  },
+  {
+    "code": "32.07.111.009",
+    "villageCode": "009",
+    "districtCode": "32.07.111",
+    "name": "Padaringan",
+    "alias": "Padaringan"
+  }
+]

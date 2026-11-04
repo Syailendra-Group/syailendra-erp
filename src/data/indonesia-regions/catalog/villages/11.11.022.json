@@ -1,0 +1,65 @@
+[
+  {
+    "code": "11.11.022.001",
+    "villageCode": "001",
+    "districtCode": "11.11.022",
+    "name": "Jamuan",
+    "alias": "Jamuan"
+  },
+  {
+    "code": "11.11.022.002",
+    "villageCode": "002",
+    "districtCode": "11.11.022",
+    "name": "Alue Keureunyai",
+    "alias": "Alue Keureunyai"
+  },
+  {
+    "code": "11.11.022.003",
+    "villageCode": "003",
+    "districtCode": "11.11.022",
+    "name": "Blang Pala",
+    "alias": "Blang Pala"
+  },
+  {
+    "code": "11.11.022.004",
+    "villageCode": "004",
+    "districtCode": "11.11.022",
+    "name": "Sangkelan",
+    "alias": "Sangkelan"
+  },
+  {
+    "code": "11.11.022.005",
+    "villageCode": "005",
+    "districtCode": "11.11.022",
+    "name": "Ulee Nyeue",
+    "alias": "Ulee Nyeue"
+  },
+  {
+    "code": "11.11.022.006",
+    "villageCode": "006",
+    "districtCode": "11.11.022",
+    "name": "Paya Uleue",
+    "alias": "Paya Uleue"
+  },
+  {
+    "code": "11.11.022.007",
+    "villageCode": "007",
+    "districtCode": "11.11.022",
+    "name": "Cot Jabet",
+    "alias": "Cot Jabet"
+  },
+  {
+    "code": "11.11.022.008",
+    "villageCode": "008",
+    "districtCode": "11.11.022",
+    "name": "Paya Dua",
+    "alias": "Paya Dua"
+  },
+  {
+    "code": "11.11.022.009",
+    "villageCode": "009",
+    "districtCode": "11.11.022",
+    "name": "Paya Beunyot",
+    "alias": "Paya Beunyot"
+  }
+]

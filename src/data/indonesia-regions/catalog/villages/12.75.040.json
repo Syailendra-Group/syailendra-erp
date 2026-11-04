@@ -1,0 +1,44 @@
+[
+  {
+    "code": "12.75.040.001",
+    "villageCode": "001",
+    "districtCode": "12.75.040",
+    "name": "B I N J A I",
+    "alias": "B I N J A I"
+  },
+  {
+    "code": "12.75.040.002",
+    "villageCode": "002",
+    "districtCode": "12.75.040",
+    "name": "Medan Tenggara",
+    "alias": "Medan Tenggara"
+  },
+  {
+    "code": "12.75.040.003",
+    "villageCode": "003",
+    "districtCode": "12.75.040",
+    "name": "D E N A I",
+    "alias": "D E N A I"
+  },
+  {
+    "code": "12.75.040.004",
+    "villageCode": "004",
+    "districtCode": "12.75.040",
+    "name": "Tegal Sari Mandala Iii",
+    "alias": "Tegal Sari Mandala Iii"
+  },
+  {
+    "code": "12.75.040.005",
+    "villageCode": "005",
+    "districtCode": "12.75.040",
+    "name": "Tegal Sari Mandala Ii",
+    "alias": "Tegal Sari Mandala Ii"
+  },
+  {
+    "code": "12.75.040.006",
+    "villageCode": "006",
+    "districtCode": "12.75.040",
+    "name": "Tegal Sari Mandala I",
+    "alias": "Tegal Sari Mandala I"
+  }
+]

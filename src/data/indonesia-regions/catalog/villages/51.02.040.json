@@ -1,0 +1,107 @@
+[
+  {
+    "code": "51.02.040.001",
+    "villageCode": "001",
+    "districtCode": "51.02.040",
+    "name": "Pangkung Tibah",
+    "alias": "Pangkung Tibah"
+  },
+  {
+    "code": "51.02.040.002",
+    "villageCode": "002",
+    "districtCode": "51.02.040",
+    "name": "Belalang",
+    "alias": "Belalang"
+  },
+  {
+    "code": "51.02.040.003",
+    "villageCode": "003",
+    "districtCode": "51.02.040",
+    "name": "Beraban",
+    "alias": "Beraban"
+  },
+  {
+    "code": "51.02.040.004",
+    "villageCode": "004",
+    "districtCode": "51.02.040",
+    "name": "Buwit",
+    "alias": "Buwit"
+  },
+  {
+    "code": "51.02.040.005",
+    "villageCode": "005",
+    "districtCode": "51.02.040",
+    "name": "Cepaka",
+    "alias": "Cepaka"
+  },
+  {
+    "code": "51.02.040.006",
+    "villageCode": "006",
+    "districtCode": "51.02.040",
+    "name": "Kaba-Kaba",
+    "alias": "Kaba-Kaba"
+  },
+  {
+    "code": "51.02.040.007",
+    "villageCode": "007",
+    "districtCode": "51.02.040",
+    "name": "Pandak Gede",
+    "alias": "Pandak Gede"
+  },
+  {
+    "code": "51.02.040.008",
+    "villageCode": "008",
+    "districtCode": "51.02.040",
+    "name": "Bengkel",
+    "alias": "Bengkel"
+  },
+  {
+    "code": "51.02.040.009",
+    "villageCode": "009",
+    "districtCode": "51.02.040",
+    "name": "Pejaten",
+    "alias": "Pejaten"
+  },
+  {
+    "code": "51.02.040.010",
+    "villageCode": "010",
+    "districtCode": "51.02.040",
+    "name": "Nyitdah",
+    "alias": "Nyitdah"
+  },
+  {
+    "code": "51.02.040.011",
+    "villageCode": "011",
+    "districtCode": "51.02.040",
+    "name": "Pandak Bandung",
+    "alias": "Pandak Bandung"
+  },
+  {
+    "code": "51.02.040.012",
+    "villageCode": "012",
+    "districtCode": "51.02.040",
+    "name": "Nyambu",
+    "alias": "Nyambu"
+  },
+  {
+    "code": "51.02.040.013",
+    "villageCode": "013",
+    "districtCode": "51.02.040",
+    "name": "Kediri",
+    "alias": "Kediri"
+  },
+  {
+    "code": "51.02.040.014",
+    "villageCode": "014",
+    "districtCode": "51.02.040",
+    "name": "Abian Tuwung",
+    "alias": "Abian Tuwung"
+  },
+  {
+    "code": "51.02.040.015",
+    "villageCode": "015",
+    "districtCode": "51.02.040",
+    "name": "Banjar Anyar",
+    "alias": "Banjar Anyar"
+  }
+]

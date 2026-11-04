@@ -1,0 +1,106 @@
+[
+  {
+    "code": "62.09.010",
+    "districtCode": "010",
+    "regencyCode": "62.09",
+    "provinceCode": "62",
+    "name": "Kecamatan Katingan Kuala",
+    "alias": "Katingan Kuala"
+  },
+  {
+    "code": "62.09.020",
+    "districtCode": "020",
+    "regencyCode": "62.09",
+    "provinceCode": "62",
+    "name": "Kecamatan Mendawai",
+    "alias": "Mendawai"
+  },
+  {
+    "code": "62.09.030",
+    "districtCode": "030",
+    "regencyCode": "62.09",
+    "provinceCode": "62",
+    "name": "Kecamatan Kamipang",
+    "alias": "Kamipang"
+  },
+  {
+    "code": "62.09.040",
+    "districtCode": "040",
+    "regencyCode": "62.09",
+    "provinceCode": "62",
+    "name": "Kecamatan Tasik Payawan",
+    "alias": "Tasik Payawan"
+  },
+  {
+    "code": "62.09.050",
+    "districtCode": "050",
+    "regencyCode": "62.09",
+    "provinceCode": "62",
+    "name": "Kecamatan Katingan Hilir",
+    "alias": "Katingan Hilir"
+  },
+  {
+    "code": "62.09.060",
+    "districtCode": "060",
+    "regencyCode": "62.09",
+    "provinceCode": "62",
+    "name": "Kecamatan Tewang Sangalang Garing",
+    "alias": "Tewang Sangalang Garing"
+  },
+  {
+    "code": "62.09.070",
+    "districtCode": "070",
+    "regencyCode": "62.09",
+    "provinceCode": "62",
+    "name": "Kecamatan Pulau Malan",
+    "alias": "Pulau Malan"
+  },
+  {
+    "code": "62.09.080",
+    "districtCode": "080",
+    "regencyCode": "62.09",
+    "provinceCode": "62",
+    "name": "Kecamatan Katingan Tengah",
+    "alias": "Katingan Tengah"
+  },
+  {
+    "code": "62.09.090",
+    "districtCode": "090",
+    "regencyCode": "62.09",
+    "provinceCode": "62",
+    "name": "Kecamatan Sanaman Mantikei",
+    "alias": "Sanaman Mantikei"
+  },
+  {
+    "code": "62.09.091",
+    "districtCode": "091",
+    "regencyCode": "62.09",
+    "provinceCode": "62",
+    "name": "Kecamatan Petak Malai",
+    "alias": "Petak Malai"
+  },
+  {
+    "code": "62.09.100",
+    "districtCode": "100",
+    "regencyCode": "62.09",
+    "provinceCode": "62",
+    "name": "Kecamatan Marikit",
+    "alias": "Marikit"
+  },
+  {
+    "code": "62.09.110",
+    "districtCode": "110",
+    "regencyCode": "62.09",
+    "provinceCode": "62",
+    "name": "Kecamatan Katingan Hulu",
+    "alias": "Katingan Hulu"
+  },
+  {
+    "code": "62.09.111",
+    "districtCode": "111",
+    "regencyCode": "62.09",
+    "provinceCode": "62",
+    "name": "Kecamatan Bukit Raya",
+    "alias": "Bukit Raya"
+  }
+]

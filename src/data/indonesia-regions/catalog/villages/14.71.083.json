@@ -1,0 +1,37 @@
+[
+  {
+    "code": "14.71.083.001",
+    "villageCode": "001",
+    "districtCode": "14.71.083",
+    "name": "Limbungan",
+    "alias": "Limbungan"
+  },
+  {
+    "code": "14.71.083.002",
+    "villageCode": "002",
+    "districtCode": "14.71.083",
+    "name": "Lembah Sari",
+    "alias": "Lembah Sari"
+  },
+  {
+    "code": "14.71.083.003",
+    "villageCode": "003",
+    "districtCode": "14.71.083",
+    "name": "Tebing Tinggi Okura",
+    "alias": "Tebing Tinggi Okura"
+  },
+  {
+    "code": "14.71.083.004",
+    "villageCode": "004",
+    "districtCode": "14.71.083",
+    "name": "Sungai Ambang",
+    "alias": "Sungai Ambang"
+  },
+  {
+    "code": "14.71.083.005",
+    "villageCode": "005",
+    "districtCode": "14.71.083",
+    "name": "Sungai Ukai",
+    "alias": "Sungai Ukai"
+  }
+]

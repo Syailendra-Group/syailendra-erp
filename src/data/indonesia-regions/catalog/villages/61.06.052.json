@@ -1,0 +1,79 @@
+[
+  {
+    "code": "61.06.052.001",
+    "villageCode": "001",
+    "districtCode": "61.06.052",
+    "name": "Kepuluk",
+    "alias": "Kepuluk"
+  },
+  {
+    "code": "61.06.052.002",
+    "villageCode": "002",
+    "districtCode": "61.06.052",
+    "name": "Suka Mulya",
+    "alias": "Suka Mulya"
+  },
+  {
+    "code": "61.06.052.003",
+    "villageCode": "003",
+    "districtCode": "61.06.052",
+    "name": "Sungai Melayu Baru",
+    "alias": "Sungai Melayu Baru"
+  },
+  {
+    "code": "61.06.052.004",
+    "villageCode": "004",
+    "districtCode": "61.06.052",
+    "name": "Beringin Jaya",
+    "alias": "Beringin Jaya"
+  },
+  {
+    "code": "61.06.052.005",
+    "villageCode": "005",
+    "districtCode": "61.06.052",
+    "name": "Piansak",
+    "alias": "Piansak"
+  },
+  {
+    "code": "61.06.052.006",
+    "villageCode": "006",
+    "districtCode": "61.06.052",
+    "name": "Jairan Jaya",
+    "alias": "Jairan Jaya"
+  },
+  {
+    "code": "61.06.052.007",
+    "villageCode": "007",
+    "districtCode": "61.06.052",
+    "name": "Karya Mukti",
+    "alias": "Karya Mukti"
+  },
+  {
+    "code": "61.06.052.008",
+    "villageCode": "008",
+    "districtCode": "61.06.052",
+    "name": "Sungai Melayu Jaya",
+    "alias": "Sungai Melayu Jaya"
+  },
+  {
+    "code": "61.06.052.009",
+    "villageCode": "009",
+    "districtCode": "61.06.052",
+    "name": "Sei Melayu",
+    "alias": "Sei Melayu"
+  },
+  {
+    "code": "61.06.052.010",
+    "villageCode": "010",
+    "districtCode": "61.06.052",
+    "name": "Mekar Jaya",
+    "alias": "Mekar Jaya"
+  },
+  {
+    "code": "61.06.052.011",
+    "villageCode": "011",
+    "districtCode": "61.06.052",
+    "name": "Makmur Abadi",
+    "alias": "Makmur Abadi"
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "code": "32.09.031.001",
+    "villageCode": "001",
+    "districtCode": "32.09.031",
+    "name": "Babakan Losari",
+    "alias": "Babakan Losari"
+  },
+  {
+    "code": "32.09.031.002",
+    "villageCode": "002",
+    "districtCode": "32.09.031",
+    "name": "Sidaresmi",
+    "alias": "Sidaresmi"
+  },
+  {
+    "code": "32.09.031.003",
+    "villageCode": "003",
+    "districtCode": "32.09.031",
+    "name": "Kalibuntu",
+    "alias": "Kalibuntu"
+  },
+  {
+    "code": "32.09.031.004",
+    "villageCode": "004",
+    "districtCode": "32.09.031",
+    "name": "Dukuhwidara",
+    "alias": "Dukuhwidara"
+  },
+  {
+    "code": "32.09.031.005",
+    "villageCode": "005",
+    "districtCode": "32.09.031",
+    "name": "Pasuruan",
+    "alias": "Pasuruan"
+  },
+  {
+    "code": "32.09.031.006",
+    "villageCode": "006",
+    "districtCode": "32.09.031",
+    "name": "Kalimukti",
+    "alias": "Kalimukti"
+  },
+  {
+    "code": "32.09.031.007",
+    "villageCode": "007",
+    "districtCode": "32.09.031",
+    "name": "Pabedilan Kaler",
+    "alias": "Pabedilan Kaler"
+  },
+  {
+    "code": "32.09.031.008",
+    "villageCode": "008",
+    "districtCode": "32.09.031",
+    "name": "Babakan Losari Lor",
+    "alias": "Babakan Losari Lor"
+  },
+  {
+    "code": "32.09.031.009",
+    "villageCode": "009",
+    "districtCode": "32.09.031",
+    "name": "Pabedilan Kidul",
+    "alias": "Pabedilan Kidul"
+  },
+  {
+    "code": "32.09.031.010",
+    "villageCode": "010",
+    "districtCode": "32.09.031",
+    "name": "Pabedilan Kulon",
+    "alias": "Pabedilan Kulon"
+  },
+  {
+    "code": "32.09.031.011",
+    "villageCode": "011",
+    "districtCode": "32.09.031",
+    "name": "Pabedilan Wetan",
+    "alias": "Pabedilan Wetan"
+  },
+  {
+    "code": "32.09.031.012",
+    "villageCode": "012",
+    "districtCode": "32.09.031",
+    "name": "Tersana",
+    "alias": "Tersana"
+  },
+  {
+    "code": "32.09.031.013",
+    "villageCode": "013",
+    "districtCode": "32.09.031",
+    "name": "Silihasih",
+    "alias": "Silihasih"
+  }
+]

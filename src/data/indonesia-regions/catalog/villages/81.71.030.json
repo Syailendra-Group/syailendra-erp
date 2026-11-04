@@ -1,0 +1,51 @@
+[
+  {
+    "code": "81.71.030.009",
+    "villageCode": "009",
+    "districtCode": "81.71.030",
+    "name": "Waiheru",
+    "alias": "Waiheru"
+  },
+  {
+    "code": "81.71.030.010",
+    "villageCode": "010",
+    "districtCode": "81.71.030",
+    "name": "Nania",
+    "alias": "Nania"
+  },
+  {
+    "code": "81.71.030.011",
+    "villageCode": "011",
+    "districtCode": "81.71.030",
+    "name": "Negeri Lama",
+    "alias": "Negeri Lama"
+  },
+  {
+    "code": "81.71.030.012",
+    "villageCode": "012",
+    "districtCode": "81.71.030",
+    "name": "Passo",
+    "alias": "Passo"
+  },
+  {
+    "code": "81.71.030.013",
+    "villageCode": "013",
+    "districtCode": "81.71.030",
+    "name": "Lateri",
+    "alias": "Lateri"
+  },
+  {
+    "code": "81.71.030.014",
+    "villageCode": "014",
+    "districtCode": "81.71.030",
+    "name": "Halong",
+    "alias": "Halong"
+  },
+  {
+    "code": "81.71.030.015",
+    "villageCode": "015",
+    "districtCode": "81.71.030",
+    "name": "Latta",
+    "alias": "Latta"
+  }
+]

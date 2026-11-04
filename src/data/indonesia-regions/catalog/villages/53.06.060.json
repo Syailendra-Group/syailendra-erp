@@ -1,0 +1,30 @@
+[
+  {
+    "code": "53.06.060.005",
+    "villageCode": "005",
+    "districtCode": "53.06.060",
+    "name": "Fatubenao",
+    "alias": "Fatubenao"
+  },
+  {
+    "code": "53.06.060.006",
+    "villageCode": "006",
+    "districtCode": "53.06.060",
+    "name": "Atambua",
+    "alias": "Atambua"
+  },
+  {
+    "code": "53.06.060.011",
+    "villageCode": "011",
+    "districtCode": "53.06.060",
+    "name": "Manumutin",
+    "alias": "Manumutin"
+  },
+  {
+    "code": "53.06.060.012",
+    "villageCode": "012",
+    "districtCode": "53.06.060",
+    "name": "Tenukiik",
+    "alias": "Tenukiik"
+  }
+]

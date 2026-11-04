@@ -1,0 +1,79 @@
+[
+  {
+    "code": "53.03.111.001",
+    "villageCode": "001",
+    "districtCode": "53.03.111",
+    "name": "Bone",
+    "alias": "Bone"
+  },
+  {
+    "code": "53.03.111.002",
+    "villageCode": "002",
+    "districtCode": "53.03.111",
+    "name": "Taloetan",
+    "alias": "Taloetan"
+  },
+  {
+    "code": "53.03.111.003",
+    "villageCode": "003",
+    "districtCode": "53.03.111",
+    "name": "Usapisonbai",
+    "alias": "Usapisonbai"
+  },
+  {
+    "code": "53.03.111.004",
+    "villageCode": "004",
+    "districtCode": "53.03.111",
+    "name": "Oepaha",
+    "alias": "Oepaha"
+  },
+  {
+    "code": "53.03.111.005",
+    "villageCode": "005",
+    "districtCode": "53.03.111",
+    "name": "Tasikona",
+    "alias": "Tasikona"
+  },
+  {
+    "code": "53.03.111.006",
+    "villageCode": "006",
+    "districtCode": "53.03.111",
+    "name": "Oenif",
+    "alias": "Oenif"
+  },
+  {
+    "code": "53.03.111.007",
+    "villageCode": "007",
+    "districtCode": "53.03.111",
+    "name": "Oemasi",
+    "alias": "Oemasi"
+  },
+  {
+    "code": "53.03.111.008",
+    "villageCode": "008",
+    "districtCode": "53.03.111",
+    "name": "Oelomin",
+    "alias": "Oelomin"
+  },
+  {
+    "code": "53.03.111.009",
+    "villageCode": "009",
+    "districtCode": "53.03.111",
+    "name": "Tunfeu",
+    "alias": "Tunfeu"
+  },
+  {
+    "code": "53.03.111.010",
+    "villageCode": "010",
+    "districtCode": "53.03.111",
+    "name": "Oben",
+    "alias": "Oben"
+  },
+  {
+    "code": "53.03.111.011",
+    "villageCode": "011",
+    "districtCode": "53.03.111",
+    "name": "Besmarak",
+    "alias": "Besmarak"
+  }
+]

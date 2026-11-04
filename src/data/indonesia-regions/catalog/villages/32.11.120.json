@@ -1,0 +1,65 @@
+[
+  {
+    "code": "32.11.120.003",
+    "villageCode": "003",
+    "districtCode": "32.11.120",
+    "name": "Cipeles",
+    "alias": "Cipeles"
+  },
+  {
+    "code": "32.11.120.004",
+    "villageCode": "004",
+    "districtCode": "32.11.120",
+    "name": "Darmawangi",
+    "alias": "Darmawangi"
+  },
+  {
+    "code": "32.11.120.005",
+    "villageCode": "005",
+    "districtCode": "32.11.120",
+    "name": "Jembarwangi",
+    "alias": "Jembarwangi"
+  },
+  {
+    "code": "32.11.120.006",
+    "villageCode": "006",
+    "districtCode": "32.11.120",
+    "name": "Marongge",
+    "alias": "Marongge"
+  },
+  {
+    "code": "32.11.120.007",
+    "villageCode": "007",
+    "districtCode": "32.11.120",
+    "name": "Tolengas",
+    "alias": "Tolengas"
+  },
+  {
+    "code": "32.11.120.008",
+    "villageCode": "008",
+    "districtCode": "32.11.120",
+    "name": "Tomo",
+    "alias": "Tomo"
+  },
+  {
+    "code": "32.11.120.009",
+    "villageCode": "009",
+    "districtCode": "32.11.120",
+    "name": "Karyamukti",
+    "alias": "Karyamukti"
+  },
+  {
+    "code": "32.11.120.010",
+    "villageCode": "010",
+    "districtCode": "32.11.120",
+    "name": "Bugel",
+    "alias": "Bugel"
+  },
+  {
+    "code": "32.11.120.011",
+    "villageCode": "011",
+    "districtCode": "32.11.120",
+    "name": "Mekarwangi",
+    "alias": "Mekarwangi"
+  }
+]

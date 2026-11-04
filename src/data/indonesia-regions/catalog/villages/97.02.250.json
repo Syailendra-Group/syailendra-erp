@@ -1,0 +1,37 @@
+[
+  {
+    "code": "97.02.250.001",
+    "villageCode": "001",
+    "districtCode": "97.02.250",
+    "name": "Punakul",
+    "alias": "Punakul"
+  },
+  {
+    "code": "97.02.250.002",
+    "villageCode": "002",
+    "districtCode": "97.02.250",
+    "name": "Wenabubaga",
+    "alias": "Wenabubaga"
+  },
+  {
+    "code": "97.02.250.003",
+    "villageCode": "003",
+    "districtCode": "97.02.250",
+    "name": "Kilubaga",
+    "alias": "Kilubaga"
+  },
+  {
+    "code": "97.02.250.004",
+    "villageCode": "004",
+    "districtCode": "97.02.250",
+    "name": "Musalfak",
+    "alias": "Musalfak"
+  },
+  {
+    "code": "97.02.250.005",
+    "villageCode": "005",
+    "districtCode": "97.02.250",
+    "name": "Mulima",
+    "alias": "Mulima"
+  }
+]

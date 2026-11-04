@@ -8,12 +8,16 @@ import { toast } from 'sonner'
 
 import { FormFieldWrapper } from '@/components/form/form-field-wrapper'
 import { SelectForm } from '@/components/form/select-form'
-import { Form, FormControl, FormField, FormItem } from '@/components/ui/form'
+import { Form, FormField, FormItem } from '@/components/ui/form'
 import { Input } from '@/components/ui/input'
+import { Tabs, TabsList, TabsTrigger } from '@/components/ui/tabs'
 import { Textarea } from '@/components/ui/textarea'
-import { useSaveDistrictMutation } from '@/hooks/others/use-districts'
-import { useRegenciesQuery } from '@/hooks/others/use-regencies'
+import { useCheckDistrictExistsQuery, useCheckParentRegencyQuery, useSaveDistrictMutation } from '@/hooks/others/use-districts'
+import { useCatalogDistrictsQuery } from '@/hooks/shared/use-regional-catalog'
 import { districtFormSchema } from '@/schemas/others/district-schema'
+
+import { ForeignDistrictSection } from './foreign-section'
+import { DistrictParentAlert } from './parent-alert'
 
 import type { DistrictFormValues } from '@/schemas/others/district-schema'
 import type { DistrictRecord } from '@/types/others/district'
@@ -22,67 +26,106 @@ import type { ReactElement } from 'react'
 export interface DistrictFormProps {
   currentRow: DistrictRecord | null
   onSuccess: () => void
+  onValidationChange?: (canSubmit: boolean) => void
 }
 
-export function DistrictForm({ currentRow, onSuccess }: DistrictFormProps): ReactElement {
+function getInitialValues(row: DistrictRecord | null): DistrictFormValues {
+  return {
+    id: row?.id,
+    is_domestic: row?.country_id ? row.country_id[0] === 100 : true,
+    name: row?.name || '',
+    code: (row?.code as string) || '',
+    alias: (row?.alias as string) || '',
+    description: (row?.description as string) || '',
+    country_id: row?.country_id ? row.country_id[0] : 100,
+    state_id: row?.state_id ? row.state_id[0] : undefined,
+    city_id: row?.city_id ? row.city_id[0] : undefined,
+    regency_name_raw: '',
+    regency_code_raw: '',
+    province_name_raw: '',
+    province_code_raw: '',
+    auto_add_regency: true,
+    latitude: row?.latitude || 0,
+    longitude: row?.longitude || 0
+  }
+}
+
+export function DistrictForm({ currentRow, onSuccess, onValidationChange }: DistrictFormProps): ReactElement {
   const isEdit = !!currentRow
   const t = useTranslations('others.districts')
-  const { data: regencies = [] } = useRegenciesQuery()
+  const tReg = useTranslations('regional.common')
   const { mutateAsync: saveDistrict, isPending } = useSaveDistrictMutation()
-
-  const regencyOptions = useMemo(
-    () =>
-      regencies.map((r) => ({
-        label: r.name,
-        value: String(r.id)
-      })),
-    [regencies]
-  )
+  const { data: catalogDistricts = [], isLoading: isLoadingCatalog } = useCatalogDistrictsQuery()
 
   const form = useForm<DistrictFormValues>({
     resolver: zodResolver(districtFormSchema),
-    defaultValues: {
-      id: currentRow?.id,
-      name: currentRow?.name || '',
-      code: (currentRow?.code as string) || '',
-      alias: (currentRow?.alias as string) || '',
-      description: (currentRow?.description as string) || '',
-      city_id: currentRow?.city_id ? currentRow.city_id[0] : regencies[0]?.id || 1,
-      auto_add_regency: true,
-      latitude: currentRow?.latitude || -7.2,
-      longitude: currentRow?.longitude || 110.0
-    }
+    defaultValues: getInitialValues(currentRow)
   })
 
   useEffect(() => {
-    if (currentRow) {
-      form.reset({
-        id: currentRow.id,
-        name: currentRow.name,
-        code: (currentRow.code as string) || '',
-        alias: (currentRow.alias as string) || '',
-        description: (currentRow.description as string) || '',
-        city_id: currentRow.city_id ? currentRow.city_id[0] : regencies[0]?.id || 1,
-        auto_add_regency: true,
-        latitude: currentRow.latitude || -7.2,
-        longitude: currentRow.longitude || 110.0
-      })
-    } else {
-      form.reset({
-        id: undefined,
-        name: '',
-        code: '',
-        alias: '',
-        description: '',
-        city_id: regencies[0]?.id || 1,
-        auto_add_regency: true,
-        latitude: -7.2,
-        longitude: 110.0
-      })
+    form.reset(getInitialValues(currentRow))
+  }, [currentRow, form])
+
+  const isDomestic = form.watch('is_domestic')
+  const selectedRegName = form.watch('regency_name_raw') || ''
+  const selectedRegCode = form.watch('regency_code_raw') || ''
+  const autoAddRegency = form.watch('auto_add_regency')
+  const currentCode = form.watch('code')
+  const currentName = form.watch('name')
+
+  const { data: parentStatus, isLoading: isCheckingParent } = useCheckParentRegencyQuery(
+    selectedRegName,
+    selectedRegCode,
+    isDomestic && Boolean(selectedRegName)
+  )
+
+  const { data: districtExists } = useCheckDistrictExistsQuery(
+    { code: currentCode, name: currentName },
+    isDomestic && Boolean(currentCode) && !isEdit
+  )
+  const isDuplicate = isDomestic && !isEdit && Boolean(districtExists?.exists)
+
+  useEffect(() => {
+    if (isDomestic && parentStatus?.exists && parentStatus.id) {
+      form.setValue('city_id', parentStatus.id, { shouldValidate: true })
+    } else if (isDomestic && parentStatus && !parentStatus.exists) {
+      form.setValue('city_id', undefined)
     }
-  }, [currentRow, regencies, form])
+  }, [isDomestic, parentStatus, form])
+
+  const isParentMissing = isDomestic && Boolean(selectedRegName) && Boolean(parentStatus) && !parentStatus?.exists
+  const isSubmitDisabled = isPending || (isParentMissing && !autoAddRegency) || isDuplicate
+
+  useEffect(() => {
+    onValidationChange?.(!isSubmitDisabled)
+  }, [isSubmitDisabled, onValidationChange])
+
+  const handleSelectDomestic = (distCode: string) => {
+    const found = catalogDistricts.find((d) => d.code === distCode)
+    if (found) {
+      form.setValue('name', found.name, { shouldValidate: true })
+      form.setValue('code', found.code, { shouldValidate: true })
+      form.setValue('alias', found.alias, { shouldValidate: true })
+      form.setValue('regency_code_raw', found.regencyCode, { shouldValidate: true })
+      form.setValue('province_code_raw', found.provinceCode, { shouldValidate: true })
+      form.setValue('country_id', 100, { shouldValidate: true })
+    }
+  }
 
   const onSubmit = async (values: DistrictFormValues) => {
+    if (isDomestic && isDuplicate) {
+      toast.error('Kecamatan ini sudah terdaftar di sistem.')
+      return
+    }
+    if (isDomestic && isParentMissing && !values.auto_add_regency) {
+      toast.error('Kabupaten induk belum terdaftar di sistem. Harap aktifkan switch pendaftaran otomatis.')
+      return
+    }
+    if (!isDomestic && !values.city_id) {
+      toast.error('Harap pilih kabupaten / city luar negeri terlebih dahulu.')
+      return
+    }
+
     try {
       const res = await saveDistrict(values)
       if (res.success) {
@@ -97,62 +140,90 @@ export function DistrictForm({ currentRow, onSuccess }: DistrictFormProps): Reac
     }
   }
 
+  const catalogOptions = useMemo(() => catalogDistricts.map((d) => ({ label: `${d.name} (${d.code})`, value: d.code })), [catalogDistricts])
+
   return (
     <Form {...form}>
-      <form id="district-action-form" onSubmit={form.handleSubmit(onSubmit)} className="space-y-4 px-1">
-        <FormFieldWrapper id="dist-parent" label={t('form.parentLabel')} required>
-          <SelectForm
-            value={form.watch('city_id') ? String(form.watch('city_id')) : undefined}
-            onValueChange={(val) => form.setValue('city_id', Number(val), { shouldValidate: true })}
-            placeholder={t('form.parentPlaceholder')}
-            disabled={isPending}
-            items={regencyOptions}
-          />
-        </FormFieldWrapper>
-
-        <div className="grid grid-cols-1 gap-3.5 sm:grid-cols-2">
-          <FormField
-            control={form.control}
-            name="name"
-            render={({ field }) => (
-              <FormItem>
-                <FormFieldWrapper id="dist-name" label={t('table.name')} required error={form.formState.errors.name?.message}>
-                  <FormControl>
-                    <Input id="dist-name" placeholder={t('form.namePlaceholder')} disabled={isPending} {...field} />
-                  </FormControl>
-                </FormFieldWrapper>
-              </FormItem>
-            )}
-          />
-
-          <FormField
-            control={form.control}
-            name="alias"
-            render={({ field }) => (
-              <FormItem>
-                <FormFieldWrapper id="dist-alias" label={t('form.aliasLabel')} required error={form.formState.errors.alias?.message}>
-                  <FormControl>
-                    <Input id="dist-alias" placeholder={t('form.aliasPlaceholder')} disabled={isPending} {...field} />
-                  </FormControl>
-                </FormFieldWrapper>
-              </FormItem>
-            )}
-          />
+      <form
+        id="district-action-form"
+        onSubmit={form.handleSubmit(onSubmit, (errors) => {
+          const firstKey = Object.keys(errors)[0]
+          if (firstKey) {
+            toast.error(`Validasi gagal: ${errors[firstKey as keyof typeof errors]?.message || 'Periksa kembali isian form'}`)
+          }
+        })}
+        className="space-y-4 px-1"
+      >
+        <div className="border-border/60 flex items-center justify-between border-b pb-1">
+          <span className="text-foreground text-xs font-semibold">{tReg('category')}</span>
+          <Tabs
+            value={isDomestic ? 'domestic' : 'foreign'}
+            onValueChange={(val) => {
+              const dom = val === 'domestic'
+              form.setValue('is_domestic', dom)
+              if (dom) {
+                form.setValue('country_id', 100)
+              } else {
+                form.setValue('country_id', undefined)
+                form.setValue('state_id', undefined)
+                form.setValue('city_id', undefined)
+              }
+            }}
+          >
+            <TabsList className="h-7 text-xs">
+              <TabsTrigger value="domestic" className="px-2.5 text-xs">
+                {tReg('domesticCatalog')}
+              </TabsTrigger>
+              <TabsTrigger value="foreign" className="px-2.5 text-xs">
+                {tReg('foreignManual')}
+              </TabsTrigger>
+            </TabsList>
+          </Tabs>
         </div>
 
-        <FormField
-          control={form.control}
-          name="code"
-          render={({ field }) => (
-            <FormItem>
-              <FormFieldWrapper id="dist-code" label={t('table.code')} required error={form.formState.errors.code?.message}>
-                <FormControl>
-                  <Input id="dist-code" placeholder={t('form.codePlaceholder')} disabled={isPending} {...field} />
-                </FormControl>
-              </FormFieldWrapper>
-            </FormItem>
-          )}
-        />
+        {isDomestic ? (
+          <>
+            <FormFieldWrapper id="catalog-district" label={t('form.catalogLabel')} required>
+              <SelectForm
+                placeholder={isLoadingCatalog ? 'Memuat 7.288 kecamatan...' : t('form.catalogPlaceholder')}
+                disabled={isPending || isLoadingCatalog}
+                value={currentCode || undefined}
+                onValueChange={handleSelectDomestic}
+                items={catalogOptions}
+                onAddNewClick={() => {
+                  form.setValue('is_domestic', false)
+                  toast.info('Beralih ke mode input manual / luar negeri')
+                }}
+              />
+            </FormFieldWrapper>
+
+            <DistrictParentAlert
+              regencyName={selectedRegName}
+              isChecking={isCheckingParent}
+              exists={Boolean(parentStatus?.exists)}
+              autoAdd={autoAddRegency}
+              onAutoAddChange={(checked) => form.setValue('auto_add_regency', checked)}
+              isDuplicate={isDuplicate}
+              duplicateId={districtExists?.id}
+              currentName={currentName}
+              tReg={tReg}
+            />
+
+            <FormField
+              control={form.control}
+              name="alias"
+              render={({ field }) => (
+                <FormItem>
+                  <FormFieldWrapper id="dist-alias" label={t('form.aliasLabel')} required error={form.formState.errors.alias?.message}>
+                    <Input id="dist-alias" placeholder={t('form.aliasPlaceholder')} disabled={isPending} {...field} />
+                  </FormFieldWrapper>
+                </FormItem>
+              )}
+            />
+          </>
+        ) : (
+          <ForeignDistrictSection form={form} isPending={isPending} t={t} />
+        )}
 
         <FormField
           control={form.control}
@@ -160,9 +231,7 @@ export function DistrictForm({ currentRow, onSuccess }: DistrictFormProps): Reac
           render={({ field }) => (
             <FormItem>
               <FormFieldWrapper id="dist-desc" label={t('form.descLabel')} error={form.formState.errors.description?.message}>
-                <FormControl>
-                  <Textarea id="dist-desc" rows={3} placeholder={t('form.descPlaceholder')} disabled={isPending} {...field} />
-                </FormControl>
+                <Textarea id="dist-desc" rows={3} placeholder={t('form.descPlaceholder')} disabled={isPending} {...field} />
               </FormFieldWrapper>
             </FormItem>
           )}

@@ -1,0 +1,65 @@
+[
+  {
+    "code": "62.12.021.001",
+    "villageCode": "001",
+    "districtCode": "62.12.021",
+    "name": "Telang",
+    "alias": "Telang"
+  },
+  {
+    "code": "62.12.021.002",
+    "villageCode": "002",
+    "districtCode": "62.12.021",
+    "name": "Murutuwu",
+    "alias": "Murutuwu"
+  },
+  {
+    "code": "62.12.021.003",
+    "villageCode": "003",
+    "districtCode": "62.12.021",
+    "name": "Balawa",
+    "alias": "Balawa"
+  },
+  {
+    "code": "62.12.021.004",
+    "villageCode": "004",
+    "districtCode": "62.12.021",
+    "name": "Maipe",
+    "alias": "Maipe"
+  },
+  {
+    "code": "62.12.021.005",
+    "villageCode": "005",
+    "districtCode": "62.12.021",
+    "name": "Telang Baru",
+    "alias": "Telang Baru"
+  },
+  {
+    "code": "62.12.021.006",
+    "villageCode": "006",
+    "districtCode": "62.12.021",
+    "name": "Juru Banu",
+    "alias": "Juru Banu"
+  },
+  {
+    "code": "62.12.021.007",
+    "villageCode": "007",
+    "districtCode": "62.12.021",
+    "name": "Tampu Langit",
+    "alias": "Tampu Langit"
+  },
+  {
+    "code": "62.12.021.008",
+    "villageCode": "008",
+    "districtCode": "62.12.021",
+    "name": "Siong",
+    "alias": "Siong"
+  },
+  {
+    "code": "62.12.021.009",
+    "villageCode": "009",
+    "districtCode": "62.12.021",
+    "name": "Kalinapu",
+    "alias": "Kalinapu"
+  }
+]

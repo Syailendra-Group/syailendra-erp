@@ -1,0 +1,79 @@
+[
+  {
+    "code": "36.74.060.001",
+    "villageCode": "001",
+    "districtCode": "36.74.060",
+    "name": "Perigi Baru",
+    "alias": "Perigi Baru"
+  },
+  {
+    "code": "36.74.060.002",
+    "villageCode": "002",
+    "districtCode": "36.74.060",
+    "name": "Pondok Kacang Barat",
+    "alias": "Pondok Kacang Barat"
+  },
+  {
+    "code": "36.74.060.003",
+    "villageCode": "003",
+    "districtCode": "36.74.060",
+    "name": "Pondok Kacang Timur",
+    "alias": "Pondok Kacang Timur"
+  },
+  {
+    "code": "36.74.060.004",
+    "villageCode": "004",
+    "districtCode": "36.74.060",
+    "name": "Perigi",
+    "alias": "Perigi"
+  },
+  {
+    "code": "36.74.060.005",
+    "villageCode": "005",
+    "districtCode": "36.74.060",
+    "name": "Pondok Pucung",
+    "alias": "Pondok Pucung"
+  },
+  {
+    "code": "36.74.060.006",
+    "villageCode": "006",
+    "districtCode": "36.74.060",
+    "name": "Pondok Jaya",
+    "alias": "Pondok Jaya"
+  },
+  {
+    "code": "36.74.060.007",
+    "villageCode": "007",
+    "districtCode": "36.74.060",
+    "name": "Pondok Aren",
+    "alias": "Pondok Aren"
+  },
+  {
+    "code": "36.74.060.008",
+    "villageCode": "008",
+    "districtCode": "36.74.060",
+    "name": "Jurang Manggu Barat",
+    "alias": "Jurang Manggu Barat"
+  },
+  {
+    "code": "36.74.060.009",
+    "villageCode": "009",
+    "districtCode": "36.74.060",
+    "name": "Jurang Manggu Timur",
+    "alias": "Jurang Manggu Timur"
+  },
+  {
+    "code": "36.74.060.010",
+    "villageCode": "010",
+    "districtCode": "36.74.060",
+    "name": "Pondok Karya",
+    "alias": "Pondok Karya"
+  },
+  {
+    "code": "36.74.060.011",
+    "villageCode": "011",
+    "districtCode": "36.74.060",
+    "name": "Pondok Betung",
+    "alias": "Pondok Betung"
+  }
+]

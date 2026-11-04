@@ -1,0 +1,198 @@
+[
+  {
+    "code": "18.02.010.003",
+    "villageCode": "003",
+    "districtCode": "18.02.010",
+    "name": "Karang Anyar",
+    "alias": "Karang Anyar"
+  },
+  {
+    "code": "18.02.010.008",
+    "villageCode": "008",
+    "districtCode": "18.02.010",
+    "name": "Kalirejo",
+    "alias": "Kalirejo"
+  },
+  {
+    "code": "18.02.010.009",
+    "villageCode": "009",
+    "districtCode": "18.02.010",
+    "name": "Dadirejo",
+    "alias": "Dadirejo"
+  },
+  {
+    "code": "18.02.010.010",
+    "villageCode": "010",
+    "districtCode": "18.02.010",
+    "name": "Banyu Urip",
+    "alias": "Banyu Urip"
+  },
+  {
+    "code": "18.02.010.011",
+    "villageCode": "011",
+    "districtCode": "18.02.010",
+    "name": "Wonosobo",
+    "alias": "Wonosobo"
+  },
+  {
+    "code": "18.02.010.012",
+    "villageCode": "012",
+    "districtCode": "18.02.010",
+    "name": "Soponyono",
+    "alias": "Soponyono"
+  },
+  {
+    "code": "18.02.010.013",
+    "villageCode": "013",
+    "districtCode": "18.02.010",
+    "name": "Bandar Kejadian",
+    "alias": "Bandar Kejadian"
+  },
+  {
+    "code": "18.02.010.014",
+    "villageCode": "014",
+    "districtCode": "18.02.010",
+    "name": "Way Panas",
+    "alias": "Way Panas"
+  },
+  {
+    "code": "18.02.010.015",
+    "villageCode": "015",
+    "districtCode": "18.02.010",
+    "name": "Sinar Saudara",
+    "alias": "Sinar Saudara"
+  },
+  {
+    "code": "18.02.010.016",
+    "villageCode": "016",
+    "districtCode": "18.02.010",
+    "name": "Sridadi",
+    "alias": "Sridadi"
+  },
+  {
+    "code": "18.02.010.017",
+    "villageCode": "017",
+    "districtCode": "18.02.010",
+    "name": "Lakaran",
+    "alias": "Lakaran"
+  },
+  {
+    "code": "18.02.010.018",
+    "villageCode": "018",
+    "districtCode": "18.02.010",
+    "name": "Padang Ratu",
+    "alias": "Padang Ratu"
+  },
+  {
+    "code": "18.02.010.019",
+    "villageCode": "019",
+    "districtCode": "18.02.010",
+    "name": "Parda Suka",
+    "alias": "Parda Suka"
+  },
+  {
+    "code": "18.02.010.020",
+    "villageCode": "020",
+    "districtCode": "18.02.010",
+    "name": "Tanjung Kurung",
+    "alias": "Tanjung Kurung"
+  },
+  {
+    "code": "18.02.010.021",
+    "villageCode": "021",
+    "districtCode": "18.02.010",
+    "name": "Padang Manis",
+    "alias": "Padang Manis"
+  },
+  {
+    "code": "18.02.010.022",
+    "villageCode": "022",
+    "districtCode": "18.02.010",
+    "name": "Kejadian",
+    "alias": "Kejadian"
+  },
+  {
+    "code": "18.02.010.023",
+    "villageCode": "023",
+    "districtCode": "18.02.010",
+    "name": "Dadisari",
+    "alias": "Dadisari"
+  },
+  {
+    "code": "18.02.010.024",
+    "villageCode": "024",
+    "districtCode": "18.02.010",
+    "name": "Kalisari",
+    "alias": "Kalisari"
+  },
+  {
+    "code": "18.02.010.029",
+    "villageCode": "029",
+    "districtCode": "18.02.010",
+    "name": "Banjar Negoro",
+    "alias": "Banjar Negoro"
+  },
+  {
+    "code": "18.02.010.030",
+    "villageCode": "030",
+    "districtCode": "18.02.010",
+    "name": "Pekon Balak",
+    "alias": "Pekon Balak"
+  },
+  {
+    "code": "18.02.010.031",
+    "villageCode": "031",
+    "districtCode": "18.02.010",
+    "name": "Kunyayan",
+    "alias": "Kunyayan"
+  },
+  {
+    "code": "18.02.010.032",
+    "villageCode": "032",
+    "districtCode": "18.02.010",
+    "name": "Banjarsari",
+    "alias": "Banjarsari"
+  },
+  {
+    "code": "18.02.010.037",
+    "villageCode": "037",
+    "districtCode": "18.02.010",
+    "name": "Negeri Ngarip",
+    "alias": "Negeri Ngarip"
+  },
+  {
+    "code": "18.02.010.038",
+    "villageCode": "038",
+    "districtCode": "18.02.010",
+    "name": "Sampang Turus",
+    "alias": "Sampang Turus"
+  },
+  {
+    "code": "18.02.010.039",
+    "villageCode": "039",
+    "districtCode": "18.02.010",
+    "name": "Way Liwok",
+    "alias": "Way Liwok"
+  },
+  {
+    "code": "18.02.010.040",
+    "villageCode": "040",
+    "districtCode": "18.02.010",
+    "name": "Sumur Tujuh",
+    "alias": "Sumur Tujuh"
+  },
+  {
+    "code": "18.02.010.041",
+    "villageCode": "041",
+    "districtCode": "18.02.010",
+    "name": "Dadi Mulyo",
+    "alias": "Dadi Mulyo"
+  },
+  {
+    "code": "18.02.010.042",
+    "villageCode": "042",
+    "districtCode": "18.02.010",
+    "name": "Sri Melati",
+    "alias": "Sri Melati"
+  }
+]

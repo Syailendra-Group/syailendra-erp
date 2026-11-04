@@ -1,0 +1,58 @@
+[
+  {
+    "code": "13.03.080.001",
+    "villageCode": "001",
+    "districtCode": "13.03.080",
+    "name": "Cupak",
+    "alias": "Cupak"
+  },
+  {
+    "code": "13.03.080.002",
+    "villageCode": "002",
+    "districtCode": "13.03.080",
+    "name": "Talang",
+    "alias": "Talang"
+  },
+  {
+    "code": "13.03.080.003",
+    "villageCode": "003",
+    "districtCode": "13.03.080",
+    "name": "Sungai Janiah",
+    "alias": "Sungai Janiah"
+  },
+  {
+    "code": "13.03.080.004",
+    "villageCode": "004",
+    "districtCode": "13.03.080",
+    "name": "Koto Gadang Guguak",
+    "alias": "Koto Gadang Guguak"
+  },
+  {
+    "code": "13.03.080.005",
+    "villageCode": "005",
+    "districtCode": "13.03.080",
+    "name": "Koto Gaek Guguak",
+    "alias": "Koto Gaek Guguak"
+  },
+  {
+    "code": "13.03.080.006",
+    "villageCode": "006",
+    "districtCode": "13.03.080",
+    "name": "Jawi-Jawi Guguak",
+    "alias": "Jawi-Jawi Guguak"
+  },
+  {
+    "code": "13.03.080.007",
+    "villageCode": "007",
+    "districtCode": "13.03.080",
+    "name": "Batang Barus",
+    "alias": "Batang Barus"
+  },
+  {
+    "code": "13.03.080.008",
+    "villageCode": "008",
+    "districtCode": "13.03.080",
+    "name": "Aia Batumbuak",
+    "alias": "Aia Batumbuak"
+  }
+]

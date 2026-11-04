@@ -1,0 +1,65 @@
+[
+  {
+    "code": "32.16.090.001",
+    "villageCode": "001",
+    "districtCode": "32.16.090",
+    "name": "Bahagia",
+    "alias": "Bahagia"
+  },
+  {
+    "code": "32.16.090.002",
+    "villageCode": "002",
+    "districtCode": "32.16.090",
+    "name": "Kebalen",
+    "alias": "Kebalen"
+  },
+  {
+    "code": "32.16.090.003",
+    "villageCode": "003",
+    "districtCode": "32.16.090",
+    "name": "Babelan Kota",
+    "alias": "Babelan Kota"
+  },
+  {
+    "code": "32.16.090.004",
+    "villageCode": "004",
+    "districtCode": "32.16.090",
+    "name": "Kedungpengawas",
+    "alias": "Kedungpengawas"
+  },
+  {
+    "code": "32.16.090.005",
+    "villageCode": "005",
+    "districtCode": "32.16.090",
+    "name": "Kedungjaya",
+    "alias": "Kedungjaya"
+  },
+  {
+    "code": "32.16.090.006",
+    "villageCode": "006",
+    "districtCode": "32.16.090",
+    "name": "Bunibakti",
+    "alias": "Bunibakti"
+  },
+  {
+    "code": "32.16.090.007",
+    "villageCode": "007",
+    "districtCode": "32.16.090",
+    "name": "Muarabakti",
+    "alias": "Muarabakti"
+  },
+  {
+    "code": "32.16.090.008",
+    "villageCode": "008",
+    "districtCode": "32.16.090",
+    "name": "Pantai Hurip",
+    "alias": "Pantai Hurip"
+  },
+  {
+    "code": "32.16.090.009",
+    "villageCode": "009",
+    "districtCode": "32.16.090",
+    "name": "Huripjaya",
+    "alias": "Huripjaya"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "code": "21.05.020.001",
+    "villageCode": "001",
+    "districtCode": "21.05.020",
+    "name": "Ulu Maras",
+    "alias": "Ulu Maras"
+  },
+  {
+    "code": "21.05.020.002",
+    "villageCode": "002",
+    "districtCode": "21.05.020",
+    "name": "Kuala Maras",
+    "alias": "Kuala Maras"
+  },
+  {
+    "code": "21.05.020.003",
+    "villageCode": "003",
+    "districtCode": "21.05.020",
+    "name": "Bukit Padi",
+    "alias": "Bukit Padi"
+  },
+  {
+    "code": "21.05.020.004",
+    "villageCode": "004",
+    "districtCode": "21.05.020",
+    "name": "Genting Pulur",
+    "alias": "Genting Pulur"
+  }
+]

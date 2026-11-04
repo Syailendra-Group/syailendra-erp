@@ -1,0 +1,98 @@
+[
+  {
+    "code": "74.11.010",
+    "districtCode": "010",
+    "regencyCode": "74.11",
+    "provinceCode": "74",
+    "name": "Kecamatan Aere",
+    "alias": "Aere"
+  },
+  {
+    "code": "74.11.020",
+    "districtCode": "020",
+    "regencyCode": "74.11",
+    "provinceCode": "74",
+    "name": "Kecamatan Lambandia",
+    "alias": "Lambandia"
+  },
+  {
+    "code": "74.11.030",
+    "districtCode": "030",
+    "regencyCode": "74.11",
+    "provinceCode": "74",
+    "name": "Kecamatan Poli-Polia",
+    "alias": "Poli-Polia"
+  },
+  {
+    "code": "74.11.040",
+    "districtCode": "040",
+    "regencyCode": "74.11",
+    "provinceCode": "74",
+    "name": "Kecamatan Dangia",
+    "alias": "Dangia"
+  },
+  {
+    "code": "74.11.050",
+    "districtCode": "050",
+    "regencyCode": "74.11",
+    "provinceCode": "74",
+    "name": "Kecamatan Ladongi",
+    "alias": "Ladongi"
+  },
+  {
+    "code": "74.11.060",
+    "districtCode": "060",
+    "regencyCode": "74.11",
+    "provinceCode": "74",
+    "name": "Kecamatan Loea",
+    "alias": "Loea"
+  },
+  {
+    "code": "74.11.070",
+    "districtCode": "070",
+    "regencyCode": "74.11",
+    "provinceCode": "74",
+    "name": "Kecamatan Tirawuta",
+    "alias": "Tirawuta"
+  },
+  {
+    "code": "74.11.080",
+    "districtCode": "080",
+    "regencyCode": "74.11",
+    "provinceCode": "74",
+    "name": "Kecamatan Lalolae",
+    "alias": "Lalolae"
+  },
+  {
+    "code": "74.11.090",
+    "districtCode": "090",
+    "regencyCode": "74.11",
+    "provinceCode": "74",
+    "name": "Kecamatan Mowewe",
+    "alias": "Mowewe"
+  },
+  {
+    "code": "74.11.100",
+    "districtCode": "100",
+    "regencyCode": "74.11",
+    "provinceCode": "74",
+    "name": "Kecamatan Tinondo",
+    "alias": "Tinondo"
+  },
+  {
+    "code": "74.11.110",
+    "districtCode": "110",
+    "regencyCode": "74.11",
+    "provinceCode": "74",
+    "name": "Kecamatan Uluiwoi",
+    "alias": "Uluiwoi"
+  },
+  {
+    "code": "74.11.120",
+    "districtCode": "120",
+    "regencyCode": "74.11",
+    "provinceCode": "74",
+    "name": "Kecamatan Ueesi",
+    "alias": "Ueesi"
+  }
+]

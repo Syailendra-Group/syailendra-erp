@@ -1,0 +1,86 @@
+[
+  {
+    "code": "32.09.090.001",
+    "villageCode": "001",
+    "districtCode": "32.09.090",
+    "name": "Setupatok",
+    "alias": "Setupatok"
+  },
+  {
+    "code": "32.09.090.002",
+    "villageCode": "002",
+    "districtCode": "32.09.090",
+    "name": "Penpen",
+    "alias": "Penpen"
+  },
+  {
+    "code": "32.09.090.003",
+    "villageCode": "003",
+    "districtCode": "32.09.090",
+    "name": "Mundu Mesigit",
+    "alias": "Mundu Mesigit"
+  },
+  {
+    "code": "32.09.090.004",
+    "villageCode": "004",
+    "districtCode": "32.09.090",
+    "name": "Luwung",
+    "alias": "Luwung"
+  },
+  {
+    "code": "32.09.090.005",
+    "villageCode": "005",
+    "districtCode": "32.09.090",
+    "name": "Waruduwur",
+    "alias": "Waruduwur"
+  },
+  {
+    "code": "32.09.090.006",
+    "villageCode": "006",
+    "districtCode": "32.09.090",
+    "name": "Citemu",
+    "alias": "Citemu"
+  },
+  {
+    "code": "32.09.090.007",
+    "villageCode": "007",
+    "districtCode": "32.09.090",
+    "name": "Bandengan",
+    "alias": "Bandengan"
+  },
+  {
+    "code": "32.09.090.008",
+    "villageCode": "008",
+    "districtCode": "32.09.090",
+    "name": "Mundu Pesisir",
+    "alias": "Mundu Pesisir"
+  },
+  {
+    "code": "32.09.090.009",
+    "villageCode": "009",
+    "districtCode": "32.09.090",
+    "name": "Suci",
+    "alias": "Suci"
+  },
+  {
+    "code": "32.09.090.010",
+    "villageCode": "010",
+    "districtCode": "32.09.090",
+    "name": "Banjarwangunan",
+    "alias": "Banjarwangunan"
+  },
+  {
+    "code": "32.09.090.011",
+    "villageCode": "011",
+    "districtCode": "32.09.090",
+    "name": "Pamengkang",
+    "alias": "Pamengkang"
+  },
+  {
+    "code": "32.09.090.012",
+    "villageCode": "012",
+    "districtCode": "32.09.090",
+    "name": "Sinarancang",
+    "alias": "Sinarancang"
+  }
+]

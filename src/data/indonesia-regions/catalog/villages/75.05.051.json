@@ -1,0 +1,72 @@
+[
+  {
+    "code": "75.05.051.001",
+    "villageCode": "001",
+    "districtCode": "75.05.051",
+    "name": "Biau",
+    "alias": "Biau"
+  },
+  {
+    "code": "75.05.051.002",
+    "villageCode": "002",
+    "districtCode": "75.05.051",
+    "name": "Potanga",
+    "alias": "Potanga"
+  },
+  {
+    "code": "75.05.051.003",
+    "villageCode": "003",
+    "districtCode": "75.05.051",
+    "name": "Windu",
+    "alias": "Windu"
+  },
+  {
+    "code": "75.05.051.004",
+    "villageCode": "004",
+    "districtCode": "75.05.051",
+    "name": "Didingga",
+    "alias": "Didingga"
+  },
+  {
+    "code": "75.05.051.005",
+    "villageCode": "005",
+    "districtCode": "75.05.051",
+    "name": "Omuto",
+    "alias": "Omuto"
+  },
+  {
+    "code": "75.05.051.006",
+    "villageCode": "006",
+    "districtCode": "75.05.051",
+    "name": "Luhuto",
+    "alias": "Luhuto"
+  },
+  {
+    "code": "75.05.051.007",
+    "villageCode": "007",
+    "districtCode": "75.05.051",
+    "name": "Bohulo",
+    "alias": "Bohulo"
+  },
+  {
+    "code": "75.05.051.008",
+    "villageCode": "008",
+    "districtCode": "75.05.051",
+    "name": "Topi",
+    "alias": "Topi"
+  },
+  {
+    "code": "75.05.051.009",
+    "villageCode": "009",
+    "districtCode": "75.05.051",
+    "name": "Bualo",
+    "alias": "Bualo"
+  },
+  {
+    "code": "75.05.051.010",
+    "villageCode": "010",
+    "districtCode": "75.05.051",
+    "name": "Sembihingan",
+    "alias": "Sembihingan"
+  }
+]

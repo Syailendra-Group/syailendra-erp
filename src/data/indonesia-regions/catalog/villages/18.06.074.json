@@ -1,0 +1,65 @@
+[
+  {
+    "code": "18.06.074.001",
+    "villageCode": "001",
+    "districtCode": "18.06.074",
+    "name": "Lepang Tengah",
+    "alias": "Lepang Tengah"
+  },
+  {
+    "code": "18.06.074.002",
+    "villageCode": "002",
+    "districtCode": "18.06.074",
+    "name": "Sukajaya",
+    "alias": "Sukajaya"
+  },
+  {
+    "code": "18.06.074.003",
+    "villageCode": "003",
+    "districtCode": "18.06.074",
+    "name": "Negara Agung",
+    "alias": "Negara Agung"
+  },
+  {
+    "code": "18.06.074.004",
+    "villageCode": "004",
+    "districtCode": "18.06.074",
+    "name": "Sri Agung",
+    "alias": "Sri Agung"
+  },
+  {
+    "code": "18.06.074.005",
+    "villageCode": "005",
+    "districtCode": "18.06.074",
+    "name": "Cahaya Makmur",
+    "alias": "Cahaya Makmur"
+  },
+  {
+    "code": "18.06.074.006",
+    "villageCode": "006",
+    "districtCode": "18.06.074",
+    "name": "Sri Jaya",
+    "alias": "Sri Jaya"
+  },
+  {
+    "code": "18.06.074.007",
+    "villageCode": "007",
+    "districtCode": "18.06.074",
+    "name": "Cempaka Barat",
+    "alias": "Cempaka Barat"
+  },
+  {
+    "code": "18.06.074.008",
+    "villageCode": "008",
+    "districtCode": "18.06.074",
+    "name": "Cempaka",
+    "alias": "Cempaka"
+  },
+  {
+    "code": "18.06.074.009",
+    "villageCode": "009",
+    "districtCode": "18.06.074",
+    "name": "Cempaka Timur",
+    "alias": "Cempaka Timur"
+  }
+]

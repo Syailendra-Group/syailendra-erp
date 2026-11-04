@@ -1,0 +1,58 @@
+[
+  {
+    "code": "61.06.072.001",
+    "villageCode": "001",
+    "districtCode": "61.06.072",
+    "name": "Sungai Awan Kanan",
+    "alias": "Sungai Awan Kanan"
+  },
+  {
+    "code": "61.06.072.002",
+    "villageCode": "002",
+    "districtCode": "61.06.072",
+    "name": "Sungai Awan Kiri",
+    "alias": "Sungai Awan Kiri"
+  },
+  {
+    "code": "61.06.072.003",
+    "villageCode": "003",
+    "districtCode": "61.06.072",
+    "name": "Tempurukan",
+    "alias": "Tempurukan"
+  },
+  {
+    "code": "61.06.072.004",
+    "villageCode": "004",
+    "districtCode": "61.06.072",
+    "name": "Tanjung Pura",
+    "alias": "Tanjung Pura"
+  },
+  {
+    "code": "61.06.072.005",
+    "villageCode": "005",
+    "districtCode": "61.06.072",
+    "name": "Ulak Medang",
+    "alias": "Ulak Medang"
+  },
+  {
+    "code": "61.06.072.006",
+    "villageCode": "006",
+    "districtCode": "61.06.072",
+    "name": "Mayak",
+    "alias": "Mayak"
+  },
+  {
+    "code": "61.06.072.007",
+    "villageCode": "007",
+    "districtCode": "61.06.072",
+    "name": "Tanjung Pasar",
+    "alias": "Tanjung Pasar"
+  },
+  {
+    "code": "61.06.072.008",
+    "villageCode": "008",
+    "districtCode": "61.06.072",
+    "name": "Suka Maju",
+    "alias": "Suka Maju"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "code": "53.14.070.001",
+    "villageCode": "001",
+    "districtCode": "53.14.070",
+    "name": "Oenggaut",
+    "alias": "Oenggaut"
+  },
+  {
+    "code": "53.14.070.002",
+    "villageCode": "002",
+    "districtCode": "53.14.070",
+    "name": "Nemberala",
+    "alias": "Nemberala"
+  },
+  {
+    "code": "53.14.070.003",
+    "villageCode": "003",
+    "districtCode": "53.14.070",
+    "name": "Sedeoen",
+    "alias": "Sedeoen"
+  },
+  {
+    "code": "53.14.070.004",
+    "villageCode": "004",
+    "districtCode": "53.14.070",
+    "name": "Boa",
+    "alias": "Boa"
+  },
+  {
+    "code": "53.14.070.005",
+    "villageCode": "005",
+    "districtCode": "53.14.070",
+    "name": "Oenitas",
+    "alias": "Oenitas"
+  },
+  {
+    "code": "53.14.070.006",
+    "villageCode": "006",
+    "districtCode": "53.14.070",
+    "name": "Oelolot",
+    "alias": "Oelolot"
+  },
+  {
+    "code": "53.14.070.007",
+    "villageCode": "007",
+    "districtCode": "53.14.070",
+    "name": "Mbueain",
+    "alias": "Mbueain"
+  }
+]

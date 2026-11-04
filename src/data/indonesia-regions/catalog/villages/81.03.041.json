@@ -1,0 +1,72 @@
+[
+  {
+    "code": "81.03.041.001",
+    "villageCode": "001",
+    "districtCode": "81.03.041",
+    "name": "Wolu",
+    "alias": "Wolu"
+  },
+  {
+    "code": "81.03.041.002",
+    "villageCode": "002",
+    "districtCode": "81.03.041",
+    "name": "Lafa",
+    "alias": "Lafa"
+  },
+  {
+    "code": "81.03.041.003",
+    "villageCode": "003",
+    "districtCode": "81.03.041",
+    "name": "Tehua",
+    "alias": "Tehua"
+  },
+  {
+    "code": "81.03.041.004",
+    "villageCode": "004",
+    "districtCode": "81.03.041",
+    "name": "Maneoratu",
+    "alias": "Maneoratu"
+  },
+  {
+    "code": "81.03.041.005",
+    "villageCode": "005",
+    "districtCode": "81.03.041",
+    "name": "Laimu",
+    "alias": "Laimu"
+  },
+  {
+    "code": "81.03.041.006",
+    "villageCode": "006",
+    "districtCode": "81.03.041",
+    "name": "Hunisi",
+    "alias": "Hunisi"
+  },
+  {
+    "code": "81.03.041.007",
+    "villageCode": "007",
+    "districtCode": "81.03.041",
+    "name": "Yamalatu",
+    "alias": "Yamalatu"
+  },
+  {
+    "code": "81.03.041.008",
+    "villageCode": "008",
+    "districtCode": "81.03.041",
+    "name": "Laha",
+    "alias": "Laha"
+  },
+  {
+    "code": "81.03.041.009",
+    "villageCode": "009",
+    "districtCode": "81.03.041",
+    "name": "Laha Kaba",
+    "alias": "Laha Kaba"
+  },
+  {
+    "code": "81.03.041.010",
+    "villageCode": "010",
+    "districtCode": "81.03.041",
+    "name": "Ulahahan",
+    "alias": "Ulahahan"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "code": "52.08.010",
+    "districtCode": "010",
+    "regencyCode": "52.08",
+    "provinceCode": "52",
+    "name": "Kecamatan Pemenang",
+    "alias": "Pemenang"
+  },
+  {
+    "code": "52.08.020",
+    "districtCode": "020",
+    "regencyCode": "52.08",
+    "provinceCode": "52",
+    "name": "Kecamatan Tanjung",
+    "alias": "Tanjung"
+  },
+  {
+    "code": "52.08.030",
+    "districtCode": "030",
+    "regencyCode": "52.08",
+    "provinceCode": "52",
+    "name": "Kecamatan Gangga",
+    "alias": "Gangga"
+  },
+  {
+    "code": "52.08.040",
+    "districtCode": "040",
+    "regencyCode": "52.08",
+    "provinceCode": "52",
+    "name": "Kecamatan Kayangan",
+    "alias": "Kayangan"
+  },
+  {
+    "code": "52.08.050",
+    "districtCode": "050",
+    "regencyCode": "52.08",
+    "provinceCode": "52",
+    "name": "Kecamatan Bayan",
+    "alias": "Bayan"
+  }
+]

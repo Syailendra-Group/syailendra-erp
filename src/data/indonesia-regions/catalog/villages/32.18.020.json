@@ -1,0 +1,51 @@
+[
+  {
+    "code": "32.18.020.001",
+    "villageCode": "001",
+    "districtCode": "32.18.020",
+    "name": "Ciakar",
+    "alias": "Ciakar"
+  },
+  {
+    "code": "32.18.020.002",
+    "villageCode": "002",
+    "districtCode": "32.18.020",
+    "name": "Cibanten",
+    "alias": "Cibanten"
+  },
+  {
+    "code": "32.18.020.003",
+    "villageCode": "003",
+    "districtCode": "32.18.020",
+    "name": "Kertayasa",
+    "alias": "Kertayasa"
+  },
+  {
+    "code": "32.18.020.004",
+    "villageCode": "004",
+    "districtCode": "32.18.020",
+    "name": "Batukaras",
+    "alias": "Batukaras"
+  },
+  {
+    "code": "32.18.020.005",
+    "villageCode": "005",
+    "districtCode": "32.18.020",
+    "name": "Cijulang",
+    "alias": "Cijulang"
+  },
+  {
+    "code": "32.18.020.006",
+    "villageCode": "006",
+    "districtCode": "32.18.020",
+    "name": "Kondangjajar",
+    "alias": "Kondangjajar"
+  },
+  {
+    "code": "32.18.020.007",
+    "villageCode": "007",
+    "districtCode": "32.18.020",
+    "name": "Margacinta",
+    "alias": "Margacinta"
+  }
+]

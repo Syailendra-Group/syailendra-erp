@@ -1,0 +1,51 @@
+[
+  {
+    "code": "82.71.014.001",
+    "villageCode": "001",
+    "districtCode": "82.71.014",
+    "name": "Kulaba",
+    "alias": "Kulaba"
+  },
+  {
+    "code": "82.71.014.002",
+    "villageCode": "002",
+    "districtCode": "82.71.014",
+    "name": "Bula",
+    "alias": "Bula"
+  },
+  {
+    "code": "82.71.014.003",
+    "villageCode": "003",
+    "districtCode": "82.71.014",
+    "name": "Tobololo",
+    "alias": "Tobololo"
+  },
+  {
+    "code": "82.71.014.004",
+    "villageCode": "004",
+    "districtCode": "82.71.014",
+    "name": "Togafo",
+    "alias": "Togafo"
+  },
+  {
+    "code": "82.71.014.005",
+    "villageCode": "005",
+    "districtCode": "82.71.014",
+    "name": "Sulamadaha",
+    "alias": "Sulamadaha"
+  },
+  {
+    "code": "82.71.014.006",
+    "villageCode": "006",
+    "districtCode": "82.71.014",
+    "name": "Loto",
+    "alias": "Loto"
+  },
+  {
+    "code": "82.71.014.007",
+    "villageCode": "007",
+    "districtCode": "82.71.014",
+    "name": "Takome",
+    "alias": "Takome"
+  }
+]

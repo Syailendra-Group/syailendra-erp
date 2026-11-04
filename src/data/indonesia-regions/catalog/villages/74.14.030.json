@@ -1,0 +1,72 @@
+[
+  {
+    "code": "74.14.030.004",
+    "villageCode": "004",
+    "districtCode": "74.14.030",
+    "name": "Watorumbe",
+    "alias": "Watorumbe"
+  },
+  {
+    "code": "74.14.030.005",
+    "villageCode": "005",
+    "districtCode": "74.14.030",
+    "name": "Morikana",
+    "alias": "Morikana"
+  },
+  {
+    "code": "74.14.030.009",
+    "villageCode": "009",
+    "districtCode": "74.14.030",
+    "name": "Gundu Gundu",
+    "alias": "Gundu Gundu"
+  },
+  {
+    "code": "74.14.030.015",
+    "villageCode": "015",
+    "districtCode": "74.14.030",
+    "name": "Lantongau",
+    "alias": "Lantongau"
+  },
+  {
+    "code": "74.14.030.016",
+    "villageCode": "016",
+    "districtCode": "74.14.030",
+    "name": "Lakorua",
+    "alias": "Lakorua"
+  },
+  {
+    "code": "74.14.030.017",
+    "villageCode": "017",
+    "districtCode": "74.14.030",
+    "name": "Lanto",
+    "alias": "Lanto"
+  },
+  {
+    "code": "74.14.030.018",
+    "villageCode": "018",
+    "districtCode": "74.14.030",
+    "name": "Lalibo",
+    "alias": "Lalibo"
+  },
+  {
+    "code": "74.14.030.026",
+    "villageCode": "026",
+    "districtCode": "74.14.030",
+    "name": "Langkomu",
+    "alias": "Langkomu"
+  },
+  {
+    "code": "74.14.030.027",
+    "villageCode": "027",
+    "districtCode": "74.14.030",
+    "name": "Watorumbe Bata",
+    "alias": "Watorumbe Bata"
+  },
+  {
+    "code": "74.14.030.028",
+    "villageCode": "028",
+    "districtCode": "74.14.030",
+    "name": "Katukobari",
+    "alias": "Katukobari"
+  }
+]

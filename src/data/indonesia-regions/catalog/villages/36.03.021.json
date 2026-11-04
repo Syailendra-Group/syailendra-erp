@@ -1,0 +1,72 @@
+[
+  {
+    "code": "36.03.021.001",
+    "villageCode": "001",
+    "districtCode": "36.03.021",
+    "name": "Mekarsari",
+    "alias": "Mekarsari"
+  },
+  {
+    "code": "36.03.021.002",
+    "villageCode": "002",
+    "districtCode": "36.03.021",
+    "name": "Daru",
+    "alias": "Daru"
+  },
+  {
+    "code": "36.03.021.003",
+    "villageCode": "003",
+    "districtCode": "36.03.021",
+    "name": "Suka Manah",
+    "alias": "Suka Manah"
+  },
+  {
+    "code": "36.03.021.004",
+    "villageCode": "004",
+    "districtCode": "36.03.021",
+    "name": "Taban",
+    "alias": "Taban"
+  },
+  {
+    "code": "36.03.021.005",
+    "villageCode": "005",
+    "districtCode": "36.03.021",
+    "name": "Ancol Pasir",
+    "alias": "Ancol Pasir"
+  },
+  {
+    "code": "36.03.021.006",
+    "villageCode": "006",
+    "districtCode": "36.03.021",
+    "name": "Rancabuaya",
+    "alias": "Rancabuaya"
+  },
+  {
+    "code": "36.03.021.007",
+    "villageCode": "007",
+    "districtCode": "36.03.021",
+    "name": "Tiparraya",
+    "alias": "Tiparraya"
+  },
+  {
+    "code": "36.03.021.008",
+    "villageCode": "008",
+    "districtCode": "36.03.021",
+    "name": "Jambe",
+    "alias": "Jambe"
+  },
+  {
+    "code": "36.03.021.009",
+    "villageCode": "009",
+    "districtCode": "36.03.021",
+    "name": "Kutruk",
+    "alias": "Kutruk"
+  },
+  {
+    "code": "36.03.021.010",
+    "villageCode": "010",
+    "districtCode": "36.03.021",
+    "name": "Pasir Barat",
+    "alias": "Pasir Barat"
+  }
+]

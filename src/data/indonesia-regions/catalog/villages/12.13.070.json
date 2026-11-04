@@ -1,0 +1,86 @@
+[
+  {
+    "code": "12.13.070.001",
+    "villageCode": "001",
+    "districtCode": "12.13.070",
+    "name": "Banyumas",
+    "alias": "Banyumas"
+  },
+  {
+    "code": "12.13.070.002",
+    "villageCode": "002",
+    "districtCode": "12.13.070",
+    "name": "Kwala Bingai",
+    "alias": "Kwala Bingai"
+  },
+  {
+    "code": "12.13.070.003",
+    "villageCode": "003",
+    "districtCode": "12.13.070",
+    "name": "Sidomulyo",
+    "alias": "Sidomulyo"
+  },
+  {
+    "code": "12.13.070.004",
+    "villageCode": "004",
+    "districtCode": "12.13.070",
+    "name": "Pantai Gemi",
+    "alias": "Pantai Gemi"
+  },
+  {
+    "code": "12.13.070.005",
+    "villageCode": "005",
+    "districtCode": "12.13.070",
+    "name": "Perdamaian",
+    "alias": "Perdamaian"
+  },
+  {
+    "code": "12.13.070.006",
+    "villageCode": "006",
+    "districtCode": "12.13.070",
+    "name": "Stabat Baru",
+    "alias": "Stabat Baru"
+  },
+  {
+    "code": "12.13.070.007",
+    "villageCode": "007",
+    "districtCode": "12.13.070",
+    "name": "Ara Condong",
+    "alias": "Ara Condong"
+  },
+  {
+    "code": "12.13.070.008",
+    "villageCode": "008",
+    "districtCode": "12.13.070",
+    "name": "Kwala Begumit",
+    "alias": "Kwala Begumit"
+  },
+  {
+    "code": "12.13.070.009",
+    "villageCode": "009",
+    "districtCode": "12.13.070",
+    "name": "Mangga",
+    "alias": "Mangga"
+  },
+  {
+    "code": "12.13.070.010",
+    "villageCode": "010",
+    "districtCode": "12.13.070",
+    "name": "Karangrejo",
+    "alias": "Karangrejo"
+  },
+  {
+    "code": "12.13.070.011",
+    "villageCode": "011",
+    "districtCode": "12.13.070",
+    "name": "Dendang",
+    "alias": "Dendang"
+  },
+  {
+    "code": "12.13.070.012",
+    "villageCode": "012",
+    "districtCode": "12.13.070",
+    "name": "Paya Mabar",
+    "alias": "Paya Mabar"
+  }
+]

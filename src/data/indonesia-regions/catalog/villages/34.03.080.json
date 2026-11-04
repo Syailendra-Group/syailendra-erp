@@ -1,0 +1,65 @@
+[
+  {
+    "code": "34.03.080.001",
+    "villageCode": "001",
+    "districtCode": "34.03.080",
+    "name": "Bendungan",
+    "alias": "Bendungan"
+  },
+  {
+    "code": "34.03.080.002",
+    "villageCode": "002",
+    "districtCode": "34.03.080",
+    "name": "Bejiharjo",
+    "alias": "Bejiharjo"
+  },
+  {
+    "code": "34.03.080.003",
+    "villageCode": "003",
+    "districtCode": "34.03.080",
+    "name": "Wiladeg",
+    "alias": "Wiladeg"
+  },
+  {
+    "code": "34.03.080.004",
+    "villageCode": "004",
+    "districtCode": "34.03.080",
+    "name": "Kelor",
+    "alias": "Kelor"
+  },
+  {
+    "code": "34.03.080.005",
+    "villageCode": "005",
+    "districtCode": "34.03.080",
+    "name": "Ngipak",
+    "alias": "Ngipak"
+  },
+  {
+    "code": "34.03.080.006",
+    "villageCode": "006",
+    "districtCode": "34.03.080",
+    "name": "Karangmojo",
+    "alias": "Karangmojo"
+  },
+  {
+    "code": "34.03.080.007",
+    "villageCode": "007",
+    "districtCode": "34.03.080",
+    "name": "Gedangrejo",
+    "alias": "Gedangrejo"
+  },
+  {
+    "code": "34.03.080.008",
+    "villageCode": "008",
+    "districtCode": "34.03.080",
+    "name": "Ngawis",
+    "alias": "Ngawis"
+  },
+  {
+    "code": "34.03.080.009",
+    "villageCode": "009",
+    "districtCode": "34.03.080",
+    "name": "Jati Ayu",
+    "alias": "Jati Ayu"
+  }
+]

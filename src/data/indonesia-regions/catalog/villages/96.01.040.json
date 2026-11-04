@@ -1,0 +1,44 @@
+[
+  {
+    "code": "96.01.040.001",
+    "villageCode": "001",
+    "districtCode": "96.01.040",
+    "name": "Ipiri",
+    "alias": "Ipiri"
+  },
+  {
+    "code": "96.01.040.002",
+    "villageCode": "002",
+    "districtCode": "96.01.040",
+    "name": "Paripi",
+    "alias": "Paripi"
+  },
+  {
+    "code": "96.01.040.003",
+    "villageCode": "003",
+    "districtCode": "96.01.040",
+    "name": "Yaraya",
+    "alias": "Yaraya"
+  },
+  {
+    "code": "96.01.040.004",
+    "villageCode": "004",
+    "districtCode": "96.01.040",
+    "name": "Amar",
+    "alias": "Amar"
+  },
+  {
+    "code": "96.01.040.005",
+    "villageCode": "005",
+    "districtCode": "96.01.040",
+    "name": "Kawar",
+    "alias": "Kawar"
+  },
+  {
+    "code": "96.01.040.006",
+    "villageCode": "006",
+    "districtCode": "96.01.040",
+    "name": "Manuare",
+    "alias": "Manuare"
+  }
+]

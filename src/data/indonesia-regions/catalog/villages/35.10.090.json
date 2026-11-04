@@ -1,0 +1,44 @@
+[
+  {
+    "code": "35.10.090.001",
+    "villageCode": "001",
+    "districtCode": "35.10.090",
+    "name": "Kebonrejo",
+    "alias": "Kebonrejo"
+  },
+  {
+    "code": "35.10.090.002",
+    "villageCode": "002",
+    "districtCode": "35.10.090",
+    "name": "Kalibaru Manis",
+    "alias": "Kalibaru Manis"
+  },
+  {
+    "code": "35.10.090.003",
+    "villageCode": "003",
+    "districtCode": "35.10.090",
+    "name": "Banyuanyar",
+    "alias": "Banyuanyar"
+  },
+  {
+    "code": "35.10.090.004",
+    "villageCode": "004",
+    "districtCode": "35.10.090",
+    "name": "Kalibaru Kulon",
+    "alias": "Kalibaru Kulon"
+  },
+  {
+    "code": "35.10.090.005",
+    "villageCode": "005",
+    "districtCode": "35.10.090",
+    "name": "Kalibaru Wetan",
+    "alias": "Kalibaru Wetan"
+  },
+  {
+    "code": "35.10.090.006",
+    "villageCode": "006",
+    "districtCode": "35.10.090",
+    "name": "Kajarharjo",
+    "alias": "Kajarharjo"
+  }
+]

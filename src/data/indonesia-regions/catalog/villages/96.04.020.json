@@ -1,0 +1,51 @@
+[
+  {
+    "code": "96.04.020.001",
+    "villageCode": "001",
+    "districtCode": "96.04.020",
+    "name": "Jainoa",
+    "alias": "Jainoa"
+  },
+  {
+    "code": "96.04.020.002",
+    "villageCode": "002",
+    "districtCode": "96.04.020",
+    "name": "Jigikebo",
+    "alias": "Jigikebo"
+  },
+  {
+    "code": "96.04.020.003",
+    "villageCode": "003",
+    "districtCode": "96.04.020",
+    "name": "Dikiya",
+    "alias": "Dikiya"
+  },
+  {
+    "code": "96.04.020.004",
+    "villageCode": "004",
+    "districtCode": "96.04.020",
+    "name": "Tagauto",
+    "alias": "Tagauto"
+  },
+  {
+    "code": "96.04.020.005",
+    "villageCode": "005",
+    "districtCode": "96.04.020",
+    "name": "Epouwa",
+    "alias": "Epouwa"
+  },
+  {
+    "code": "96.04.020.006",
+    "villageCode": "006",
+    "districtCode": "96.04.020",
+    "name": "Pitowage",
+    "alias": "Pitowage"
+  },
+  {
+    "code": "96.04.020.007",
+    "villageCode": "007",
+    "districtCode": "96.04.020",
+    "name": "Pagauti",
+    "alias": "Pagauti"
+  }
+]

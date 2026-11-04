@@ -1,0 +1,23 @@
+[
+  {
+    "code": "21.03.042.001",
+    "villageCode": "001",
+    "districtCode": "21.03.042",
+    "name": "Air Payang",
+    "alias": "Air Payang"
+  },
+  {
+    "code": "21.03.042.002",
+    "villageCode": "002",
+    "districtCode": "21.03.042",
+    "name": "Tanjung Pala",
+    "alias": "Tanjung Pala"
+  },
+  {
+    "code": "21.03.042.003",
+    "villageCode": "003",
+    "districtCode": "21.03.042",
+    "name": "Kadur",
+    "alias": "Kadur"
+  }
+]

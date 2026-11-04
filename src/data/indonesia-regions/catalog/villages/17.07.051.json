@@ -1,0 +1,72 @@
+[
+  {
+    "code": "17.07.051.001",
+    "villageCode": "001",
+    "districtCode": "17.07.051",
+    "name": "Nangai Tayau",
+    "alias": "Nangai Tayau"
+  },
+  {
+    "code": "17.07.051.002",
+    "villageCode": "002",
+    "districtCode": "17.07.051",
+    "name": "Nangai Tayau I",
+    "alias": "Nangai Tayau I"
+  },
+  {
+    "code": "17.07.051.003",
+    "villageCode": "003",
+    "districtCode": "17.07.051",
+    "name": "Pyang Mbik",
+    "alias": "Pyang Mbik"
+  },
+  {
+    "code": "17.07.051.004",
+    "villageCode": "004",
+    "districtCode": "17.07.051",
+    "name": "Sukau Mergo",
+    "alias": "Sukau Mergo"
+  },
+  {
+    "code": "17.07.051.005",
+    "villageCode": "005",
+    "districtCode": "17.07.051",
+    "name": "Sukau Rajo",
+    "alias": "Sukau Rajo"
+  },
+  {
+    "code": "17.07.051.006",
+    "villageCode": "006",
+    "districtCode": "17.07.051",
+    "name": "Talang Bunut",
+    "alias": "Talang Bunut"
+  },
+  {
+    "code": "17.07.051.007",
+    "villageCode": "007",
+    "districtCode": "17.07.051",
+    "name": "Selebar Jaya",
+    "alias": "Selebar Jaya"
+  },
+  {
+    "code": "17.07.051.008",
+    "villageCode": "008",
+    "districtCode": "17.07.051",
+    "name": "Garut",
+    "alias": "Garut"
+  },
+  {
+    "code": "17.07.051.009",
+    "villageCode": "009",
+    "districtCode": "17.07.051",
+    "name": "Amen",
+    "alias": "Amen"
+  },
+  {
+    "code": "17.07.051.010",
+    "villageCode": "010",
+    "districtCode": "17.07.051",
+    "name": "Sungai Gerong",
+    "alias": "Sungai Gerong"
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "code": "71.05.100.011",
+    "villageCode": "011",
+    "districtCode": "71.05.100",
+    "name": "Boyong Atas",
+    "alias": "Boyong Atas"
+  },
+  {
+    "code": "71.05.100.012",
+    "villageCode": "012",
+    "districtCode": "71.05.100",
+    "name": "Pakuure Iii",
+    "alias": "Pakuure Iii"
+  },
+  {
+    "code": "71.05.100.013",
+    "villageCode": "013",
+    "districtCode": "71.05.100",
+    "name": "Pakuure Ii",
+    "alias": "Pakuure Ii"
+  },
+  {
+    "code": "71.05.100.014",
+    "villageCode": "014",
+    "districtCode": "71.05.100",
+    "name": "Pakuure I",
+    "alias": "Pakuure I"
+  },
+  {
+    "code": "71.05.100.015",
+    "villageCode": "015",
+    "districtCode": "71.05.100",
+    "name": "Sapa",
+    "alias": "Sapa"
+  },
+  {
+    "code": "71.05.100.016",
+    "villageCode": "016",
+    "districtCode": "71.05.100",
+    "name": "Pakuweru",
+    "alias": "Pakuweru"
+  },
+  {
+    "code": "71.05.100.017",
+    "villageCode": "017",
+    "districtCode": "71.05.100",
+    "name": "Tenga",
+    "alias": "Tenga"
+  },
+  {
+    "code": "71.05.100.018",
+    "villageCode": "018",
+    "districtCode": "71.05.100",
+    "name": "Radey",
+    "alias": "Radey"
+  },
+  {
+    "code": "71.05.100.019",
+    "villageCode": "019",
+    "districtCode": "71.05.100",
+    "name": "Tawaang",
+    "alias": "Tawaang"
+  },
+  {
+    "code": "71.05.100.024",
+    "villageCode": "024",
+    "districtCode": "71.05.100",
+    "name": "Molinow",
+    "alias": "Molinow"
+  },
+  {
+    "code": "71.05.100.025",
+    "villageCode": "025",
+    "districtCode": "71.05.100",
+    "name": "Pakuure Tinanian",
+    "alias": "Pakuure Tinanian"
+  },
+  {
+    "code": "71.05.100.026",
+    "villageCode": "026",
+    "districtCode": "71.05.100",
+    "name": "Pakuure Kinamang",
+    "alias": "Pakuure Kinamang"
+  },
+  {
+    "code": "71.05.100.027",
+    "villageCode": "027",
+    "districtCode": "71.05.100",
+    "name": "Pakuure",
+    "alias": "Pakuure"
+  },
+  {
+    "code": "71.05.100.028",
+    "villageCode": "028",
+    "districtCode": "71.05.100",
+    "name": "Pakuweru Utara",
+    "alias": "Pakuweru Utara"
+  },
+  {
+    "code": "71.05.100.029",
+    "villageCode": "029",
+    "districtCode": "71.05.100",
+    "name": "Sapa Barat",
+    "alias": "Sapa Barat"
+  },
+  {
+    "code": "71.05.100.030",
+    "villageCode": "030",
+    "districtCode": "71.05.100",
+    "name": "Sapa Timur",
+    "alias": "Sapa Timur"
+  },
+  {
+    "code": "71.05.100.031",
+    "villageCode": "031",
+    "districtCode": "71.05.100",
+    "name": "Tawaang Timur",
+    "alias": "Tawaang Timur"
+  },
+  {
+    "code": "71.05.100.032",
+    "villageCode": "032",
+    "districtCode": "71.05.100",
+    "name": "Tawaang Barat",
+    "alias": "Tawaang Barat"
+  }
+]

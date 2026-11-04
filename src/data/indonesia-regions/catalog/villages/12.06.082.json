@@ -1,0 +1,72 @@
+[
+  {
+    "code": "12.06.082.001",
+    "villageCode": "001",
+    "districtCode": "12.06.082",
+    "name": "Sirungkungon",
+    "alias": "Sirungkungon"
+  },
+  {
+    "code": "12.06.082.002",
+    "villageCode": "002",
+    "districtCode": "12.06.082",
+    "name": "Parsaoran Sibisa",
+    "alias": "Parsaoran Sibisa"
+  },
+  {
+    "code": "12.06.082.003",
+    "villageCode": "003",
+    "districtCode": "12.06.082",
+    "name": "Pardamean Sibisa",
+    "alias": "Pardamean Sibisa"
+  },
+  {
+    "code": "12.06.082.004",
+    "villageCode": "004",
+    "districtCode": "12.06.082",
+    "name": "Sigapiton",
+    "alias": "Sigapiton"
+  },
+  {
+    "code": "12.06.082.005",
+    "villageCode": "005",
+    "districtCode": "12.06.082",
+    "name": "Horsik",
+    "alias": "Horsik"
+  },
+  {
+    "code": "12.06.082.006",
+    "villageCode": "006",
+    "districtCode": "12.06.082",
+    "name": "Motung",
+    "alias": "Motung"
+  },
+  {
+    "code": "12.06.082.007",
+    "villageCode": "007",
+    "districtCode": "12.06.082",
+    "name": "Parsaoran Ajibata",
+    "alias": "Parsaoran Ajibata"
+  },
+  {
+    "code": "12.06.082.008",
+    "villageCode": "008",
+    "districtCode": "12.06.082",
+    "name": "Pardomuan Ajibata",
+    "alias": "Pardomuan Ajibata"
+  },
+  {
+    "code": "12.06.082.009",
+    "villageCode": "009",
+    "districtCode": "12.06.082",
+    "name": "Pardamean Ajibata",
+    "alias": "Pardamean Ajibata"
+  },
+  {
+    "code": "12.06.082.010",
+    "villageCode": "010",
+    "districtCode": "12.06.082",
+    "name": "Pardomuan Motung",
+    "alias": "Pardomuan Motung"
+  }
+]

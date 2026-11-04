@@ -1,0 +1,122 @@
+[
+  {
+    "code": "13.02.011",
+    "districtCode": "011",
+    "regencyCode": "13.02",
+    "provinceCode": "13",
+    "name": "Kecamatan Silaut",
+    "alias": "Silaut"
+  },
+  {
+    "code": "13.02.012",
+    "districtCode": "012",
+    "regencyCode": "13.02",
+    "provinceCode": "13",
+    "name": "Kecamatan Lunang",
+    "alias": "Lunang"
+  },
+  {
+    "code": "13.02.020",
+    "districtCode": "020",
+    "regencyCode": "13.02",
+    "provinceCode": "13",
+    "name": "Kecamatan Basa Ampek Balai Tapan",
+    "alias": "Basa Ampek Balai Tapan"
+  },
+  {
+    "code": "13.02.021",
+    "districtCode": "021",
+    "regencyCode": "13.02",
+    "provinceCode": "13",
+    "name": "Kecamatan Ranah Ampek Hulu Tapan",
+    "alias": "Ranah Ampek Hulu Tapan"
+  },
+  {
+    "code": "13.02.030",
+    "districtCode": "030",
+    "regencyCode": "13.02",
+    "provinceCode": "13",
+    "name": "Kecamatan Pancung Soal",
+    "alias": "Pancung Soal"
+  },
+  {
+    "code": "13.02.031",
+    "districtCode": "031",
+    "regencyCode": "13.02",
+    "provinceCode": "13",
+    "name": "Kecamatan Airpura",
+    "alias": "Airpura"
+  },
+  {
+    "code": "13.02.040",
+    "districtCode": "040",
+    "regencyCode": "13.02",
+    "provinceCode": "13",
+    "name": "Kecamatan Linggo Sari Baganti",
+    "alias": "Linggo Sari Baganti"
+  },
+  {
+    "code": "13.02.050",
+    "districtCode": "050",
+    "regencyCode": "13.02",
+    "provinceCode": "13",
+    "name": "Kecamatan Ranah Pesisir",
+    "alias": "Ranah Pesisir"
+  },
+  {
+    "code": "13.02.060",
+    "districtCode": "060",
+    "regencyCode": "13.02",
+    "provinceCode": "13",
+    "name": "Kecamatan Lengayang",
+    "alias": "Lengayang"
+  },
+  {
+    "code": "13.02.070",
+    "districtCode": "070",
+    "regencyCode": "13.02",
+    "provinceCode": "13",
+    "name": "Kecamatan Sutera",
+    "alias": "Sutera"
+  },
+  {
+    "code": "13.02.080",
+    "districtCode": "080",
+    "regencyCode": "13.02",
+    "provinceCode": "13",
+    "name": "Kecamatan Batang Kapas",
+    "alias": "Batang Kapas"
+  },
+  {
+    "code": "13.02.090",
+    "districtCode": "090",
+    "regencyCode": "13.02",
+    "provinceCode": "13",
+    "name": "Kecamatan Iv Jurai",
+    "alias": "Iv Jurai"
+  },
+  {
+    "code": "13.02.100",
+    "districtCode": "100",
+    "regencyCode": "13.02",
+    "provinceCode": "13",
+    "name": "Kecamatan Bayang",
+    "alias": "Bayang"
+  },
+  {
+    "code": "13.02.101",
+    "districtCode": "101",
+    "regencyCode": "13.02",
+    "provinceCode": "13",
+    "name": "Kecamatan Iv  Nagari Bayang Utara",
+    "alias": "Iv  Nagari Bayang Utara"
+  },
+  {
+    "code": "13.02.110",
+    "districtCode": "110",
+    "regencyCode": "13.02",
+    "provinceCode": "13",
+    "name": "Kecamatan Koto Xi Tarusan",
+    "alias": "Koto Xi Tarusan"
+  }
+]

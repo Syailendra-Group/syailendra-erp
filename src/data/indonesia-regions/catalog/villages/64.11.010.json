@@ -1,0 +1,37 @@
+[
+  {
+    "code": "64.11.010.001",
+    "villageCode": "001",
+    "districtCode": "64.11.010",
+    "name": "Nyaribungan",
+    "alias": "Nyaribungan"
+  },
+  {
+    "code": "64.11.010.002",
+    "villageCode": "002",
+    "districtCode": "64.11.010",
+    "name": "Long Gelawang",
+    "alias": "Long Gelawang"
+  },
+  {
+    "code": "64.11.010.003",
+    "villageCode": "003",
+    "districtCode": "64.11.010",
+    "name": "Danum Paroi",
+    "alias": "Danum Paroi"
+  },
+  {
+    "code": "64.11.010.004",
+    "villageCode": "004",
+    "districtCode": "64.11.010",
+    "name": "Muara Ratah",
+    "alias": "Muara Ratah"
+  },
+  {
+    "code": "64.11.010.005",
+    "villageCode": "005",
+    "districtCode": "64.11.010",
+    "name": "Laham",
+    "alias": "Laham"
+  }
+]

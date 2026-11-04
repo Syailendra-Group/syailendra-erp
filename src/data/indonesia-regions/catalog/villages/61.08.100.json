@@ -1,0 +1,79 @@
+[
+  {
+    "code": "61.08.100.002",
+    "villageCode": "002",
+    "districtCode": "61.08.100",
+    "name": "Nanga Tuan",
+    "alias": "Nanga Tuan"
+  },
+  {
+    "code": "61.08.100.003",
+    "villageCode": "003",
+    "districtCode": "61.08.100",
+    "name": "Bunut Hulu",
+    "alias": "Bunut Hulu"
+  },
+  {
+    "code": "61.08.100.004",
+    "villageCode": "004",
+    "districtCode": "61.08.100",
+    "name": "Bunut Hilir",
+    "alias": "Bunut Hilir"
+  },
+  {
+    "code": "61.08.100.005",
+    "villageCode": "005",
+    "districtCode": "61.08.100",
+    "name": "Teluk Aur",
+    "alias": "Teluk Aur"
+  },
+  {
+    "code": "61.08.100.006",
+    "villageCode": "006",
+    "districtCode": "61.08.100",
+    "name": "Ujung Pandang",
+    "alias": "Ujung Pandang"
+  },
+  {
+    "code": "61.08.100.007",
+    "villageCode": "007",
+    "districtCode": "61.08.100",
+    "name": "Empangau",
+    "alias": "Empangau"
+  },
+  {
+    "code": "61.08.100.008",
+    "villageCode": "008",
+    "districtCode": "61.08.100",
+    "name": "Tembang",
+    "alias": "Tembang"
+  },
+  {
+    "code": "61.08.100.009",
+    "villageCode": "009",
+    "districtCode": "61.08.100",
+    "name": "Bunut Tengah",
+    "alias": "Bunut Tengah"
+  },
+  {
+    "code": "61.08.100.010",
+    "villageCode": "010",
+    "districtCode": "61.08.100",
+    "name": "Entibab",
+    "alias": "Entibab"
+  },
+  {
+    "code": "61.08.100.011",
+    "villageCode": "011",
+    "districtCode": "61.08.100",
+    "name": "Kapuas Raya",
+    "alias": "Kapuas Raya"
+  },
+  {
+    "code": "61.08.100.012",
+    "villageCode": "012",
+    "districtCode": "61.08.100",
+    "name": "Empangau Hilir",
+    "alias": "Empangau Hilir"
+  }
+]

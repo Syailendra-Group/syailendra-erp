@@ -1,0 +1,74 @@
+[
+  {
+    "code": "14.10.010",
+    "districtCode": "010",
+    "regencyCode": "14.10",
+    "provinceCode": "14",
+    "name": "Kecamatan Tebing Tinggi Barat",
+    "alias": "Tebing Tinggi Barat"
+  },
+  {
+    "code": "14.10.020",
+    "districtCode": "020",
+    "regencyCode": "14.10",
+    "provinceCode": "14",
+    "name": "Kecamatan Tebing Tinggi",
+    "alias": "Tebing Tinggi"
+  },
+  {
+    "code": "14.10.021",
+    "districtCode": "021",
+    "regencyCode": "14.10",
+    "provinceCode": "14",
+    "name": "Kecamatan Tebing Tinggi Timur",
+    "alias": "Tebing Tinggi Timur"
+  },
+  {
+    "code": "14.10.030",
+    "districtCode": "030",
+    "regencyCode": "14.10",
+    "provinceCode": "14",
+    "name": "Kecamatan Rangsang",
+    "alias": "Rangsang"
+  },
+  {
+    "code": "14.10.031",
+    "districtCode": "031",
+    "regencyCode": "14.10",
+    "provinceCode": "14",
+    "name": "Kecamatan Rangsang Pesisir",
+    "alias": "Rangsang Pesisir"
+  },
+  {
+    "code": "14.10.040",
+    "districtCode": "040",
+    "regencyCode": "14.10",
+    "provinceCode": "14",
+    "name": "Kecamatan Rangsang Barat",
+    "alias": "Rangsang Barat"
+  },
+  {
+    "code": "14.10.050",
+    "districtCode": "050",
+    "regencyCode": "14.10",
+    "provinceCode": "14",
+    "name": "Kecamatan Merbau",
+    "alias": "Merbau"
+  },
+  {
+    "code": "14.10.051",
+    "districtCode": "051",
+    "regencyCode": "14.10",
+    "provinceCode": "14",
+    "name": "Kecamatan Pulau Merbau",
+    "alias": "Pulau Merbau"
+  },
+  {
+    "code": "14.10.052",
+    "districtCode": "052",
+    "regencyCode": "14.10",
+    "provinceCode": "14",
+    "name": "Kecamatan Tasik Putri Puyu",
+    "alias": "Tasik Putri Puyu"
+  }
+]

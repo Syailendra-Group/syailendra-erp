@@ -1,7 +1,10 @@
 import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
 
 import {
+  checkDistrictExistsAction,
+  checkParentRegencyAction,
   getDistrictByIdAction,
+  getDistrictFilterOptionsAction,
   getDistrictsAction,
   getDistrictsPaginatedAction,
   saveDistrictAction,
@@ -17,7 +20,10 @@ export const districtKeys = {
   lists: () => [...districtKeys.all, 'list'] as const,
   byCity: (cityId?: number) => [...districtKeys.lists(), { cityId }] as const,
   paginated: (params: FetchDistrictsParams) => [...districtKeys.all, 'paginated', params] as const,
-  detail: (id: number) => [...districtKeys.all, 'detail', id] as const
+  detail: (id: number) => [...districtKeys.all, 'detail', id] as const,
+  checkParent: (name: string, code?: string) => ['parent-check', 'regency', name, code] as const,
+  checkExists: (params: { code?: string; name?: string }) => ['district-exists', params] as const,
+  filterOptions: () => [...districtKeys.all, 'filter-options'] as const
 }
 
 export function useDistrictsQuery(cityId?: number) {
@@ -52,12 +58,45 @@ export function useDistrictDetailQuery(id: number) {
   })
 }
 
+export function useCheckParentRegencyQuery(name: string, code?: string, enabled = true) {
+  return useQuery({
+    queryKey: districtKeys.checkParent(name, code),
+    queryFn: async () => {
+      return await checkParentRegencyAction(name, code)
+    },
+    enabled: Boolean(name) && enabled,
+    staleTime: 10 * 1000
+  })
+}
+
+export function useCheckDistrictExistsQuery(params: { code?: string; name?: string }, enabled = true) {
+  return useQuery({
+    queryKey: districtKeys.checkExists(params),
+    queryFn: async () => {
+      return await checkDistrictExistsAction(params)
+    },
+    enabled: enabled && Boolean(params.code || params.name),
+    staleTime: 10 * 1000
+  })
+}
+
+export function useDistrictFilterOptionsQuery() {
+  return useQuery({
+    queryKey: districtKeys.filterOptions(),
+    queryFn: async () => {
+      return await getDistrictFilterOptionsAction()
+    },
+    staleTime: 60 * 1000
+  })
+}
+
 export function useSaveDistrictMutation() {
   const queryClient = useQueryClient()
   return useMutation({
     mutationFn: (values: DistrictFormValues) => saveDistrictAction(values),
     onSuccess: () => {
       queryClient.invalidateQueries({ queryKey: districtKeys.all })
+      queryClient.invalidateQueries({ queryKey: ['regencies'] })
     }
   })
 }

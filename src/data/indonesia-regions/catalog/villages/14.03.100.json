@@ -1,0 +1,114 @@
+[
+  {
+    "code": "14.03.100.001",
+    "villageCode": "001",
+    "districtCode": "14.03.100",
+    "name": "Teluk Kabung",
+    "alias": "Teluk Kabung"
+  },
+  {
+    "code": "14.03.100.002",
+    "villageCode": "002",
+    "districtCode": "14.03.100",
+    "name": "Simpang Gaung",
+    "alias": "Simpang Gaung"
+  },
+  {
+    "code": "14.03.100.003",
+    "villageCode": "003",
+    "districtCode": "14.03.100",
+    "name": "Pungkat",
+    "alias": "Pungkat"
+  },
+  {
+    "code": "14.03.100.004",
+    "villageCode": "004",
+    "districtCode": "14.03.100",
+    "name": "Belantaraya",
+    "alias": "Belantaraya"
+  },
+  {
+    "code": "14.03.100.005",
+    "villageCode": "005",
+    "districtCode": "14.03.100",
+    "name": "Jerambang",
+    "alias": "Jerambang"
+  },
+  {
+    "code": "14.03.100.006",
+    "villageCode": "006",
+    "districtCode": "14.03.100",
+    "name": "Sungai Baru",
+    "alias": "Sungai Baru"
+  },
+  {
+    "code": "14.03.100.007",
+    "villageCode": "007",
+    "districtCode": "14.03.100",
+    "name": "Lahang Baru",
+    "alias": "Lahang Baru"
+  },
+  {
+    "code": "14.03.100.008",
+    "villageCode": "008",
+    "districtCode": "14.03.100",
+    "name": "Kuala Lahang",
+    "alias": "Kuala Lahang"
+  },
+  {
+    "code": "14.03.100.009",
+    "villageCode": "009",
+    "districtCode": "14.03.100",
+    "name": "Lahang Tengah",
+    "alias": "Lahang Tengah"
+  },
+  {
+    "code": "14.03.100.010",
+    "villageCode": "010",
+    "districtCode": "14.03.100",
+    "name": "Lahang Hulu",
+    "alias": "Lahang Hulu"
+  },
+  {
+    "code": "14.03.100.011",
+    "villageCode": "011",
+    "districtCode": "14.03.100",
+    "name": "Terusan Kempas",
+    "alias": "Terusan Kempas"
+  },
+  {
+    "code": "14.03.100.012",
+    "villageCode": "012",
+    "districtCode": "14.03.100",
+    "name": "Gembira",
+    "alias": "Gembira"
+  },
+  {
+    "code": "14.03.100.013",
+    "villageCode": "013",
+    "districtCode": "14.03.100",
+    "name": "Semambu Kuning",
+    "alias": "Semambu Kuning"
+  },
+  {
+    "code": "14.03.100.014",
+    "villageCode": "014",
+    "districtCode": "14.03.100",
+    "name": "Pintasan",
+    "alias": "Pintasan"
+  },
+  {
+    "code": "14.03.100.015",
+    "villageCode": "015",
+    "districtCode": "14.03.100",
+    "name": "Soren",
+    "alias": "Soren"
+  },
+  {
+    "code": "14.03.100.016",
+    "villageCode": "016",
+    "districtCode": "14.03.100",
+    "name": "Teluk Merbau",
+    "alias": "Teluk Merbau"
+  }
+]

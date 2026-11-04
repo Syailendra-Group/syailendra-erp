@@ -1,0 +1,44 @@
+[
+  {
+    "code": "33.02.730.001",
+    "villageCode": "001",
+    "districtCode": "33.02.730",
+    "name": "Sokanegara",
+    "alias": "Sokanegara"
+  },
+  {
+    "code": "33.02.730.002",
+    "villageCode": "002",
+    "districtCode": "33.02.730",
+    "name": "Kranji",
+    "alias": "Kranji"
+  },
+  {
+    "code": "33.02.730.003",
+    "villageCode": "003",
+    "districtCode": "33.02.730",
+    "name": "Purwokerto Lor",
+    "alias": "Purwokerto Lor"
+  },
+  {
+    "code": "33.02.730.004",
+    "villageCode": "004",
+    "districtCode": "33.02.730",
+    "name": "Purwokerto Wetan",
+    "alias": "Purwokerto Wetan"
+  },
+  {
+    "code": "33.02.730.005",
+    "villageCode": "005",
+    "districtCode": "33.02.730",
+    "name": "Mersi",
+    "alias": "Mersi"
+  },
+  {
+    "code": "33.02.730.006",
+    "villageCode": "006",
+    "districtCode": "33.02.730",
+    "name": "Arcawinangun",
+    "alias": "Arcawinangun"
+  }
+]

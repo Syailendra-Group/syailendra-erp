@@ -1,0 +1,86 @@
+[
+  {
+    "code": "14.09.032.001",
+    "villageCode": "001",
+    "districtCode": "14.09.032",
+    "name": "Teluk Nilap",
+    "alias": "Teluk Nilap"
+  },
+  {
+    "code": "14.09.032.002",
+    "villageCode": "002",
+    "districtCode": "14.09.032",
+    "name": "Sungai Majo",
+    "alias": "Sungai Majo"
+  },
+  {
+    "code": "14.09.032.003",
+    "villageCode": "003",
+    "districtCode": "14.09.032",
+    "name": "Sungai Pinang",
+    "alias": "Sungai Pinang"
+  },
+  {
+    "code": "14.09.032.004",
+    "villageCode": "004",
+    "districtCode": "14.09.032",
+    "name": "Rantau Panjang Kiri",
+    "alias": "Rantau Panjang Kiri"
+  },
+  {
+    "code": "14.09.032.005",
+    "villageCode": "005",
+    "districtCode": "14.09.032",
+    "name": "Rantau Panjang Kiri Hilir",
+    "alias": "Rantau Panjang Kiri Hilir"
+  },
+  {
+    "code": "14.09.032.006",
+    "villageCode": "006",
+    "districtCode": "14.09.032",
+    "name": "Jojol",
+    "alias": "Jojol"
+  },
+  {
+    "code": "14.09.032.007",
+    "villageCode": "007",
+    "districtCode": "14.09.032",
+    "name": "Sungai Panji Panji",
+    "alias": "Sungai Panji Panji"
+  },
+  {
+    "code": "14.09.032.008",
+    "villageCode": "008",
+    "districtCode": "14.09.032",
+    "name": "Pulau Halang Belakang",
+    "alias": "Pulau Halang Belakang"
+  },
+  {
+    "code": "14.09.032.009",
+    "villageCode": "009",
+    "districtCode": "14.09.032",
+    "name": "Pulau Halang Muka",
+    "alias": "Pulau Halang Muka"
+  },
+  {
+    "code": "14.09.032.010",
+    "villageCode": "010",
+    "districtCode": "14.09.032",
+    "name": "Sungai Majo Pusako",
+    "alias": "Sungai Majo Pusako"
+  },
+  {
+    "code": "14.09.032.011",
+    "villageCode": "011",
+    "districtCode": "14.09.032",
+    "name": "Pulau Halang Hulu",
+    "alias": "Pulau Halang Hulu"
+  },
+  {
+    "code": "14.09.032.012",
+    "villageCode": "012",
+    "districtCode": "14.09.032",
+    "name": "Teluk Nilap Jaya",
+    "alias": "Teluk Nilap Jaya"
+  }
+]

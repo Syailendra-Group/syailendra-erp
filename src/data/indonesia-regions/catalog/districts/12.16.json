@@ -1,0 +1,66 @@
+[
+  {
+    "code": "12.16.010",
+    "districtCode": "010",
+    "regencyCode": "12.16",
+    "provinceCode": "12",
+    "name": "Kecamatan Salak",
+    "alias": "Salak"
+  },
+  {
+    "code": "12.16.011",
+    "districtCode": "011",
+    "regencyCode": "12.16",
+    "provinceCode": "12",
+    "name": "Kecamatan Sitellu Tali Urang Jehe",
+    "alias": "Sitellu Tali Urang Jehe"
+  },
+  {
+    "code": "12.16.012",
+    "districtCode": "012",
+    "regencyCode": "12.16",
+    "provinceCode": "12",
+    "name": "Kecamatan Pagindar",
+    "alias": "Pagindar"
+  },
+  {
+    "code": "12.16.013",
+    "districtCode": "013",
+    "regencyCode": "12.16",
+    "provinceCode": "12",
+    "name": "Kecamatan Sitellu Tali Urang Julu",
+    "alias": "Sitellu Tali Urang Julu"
+  },
+  {
+    "code": "12.16.014",
+    "districtCode": "014",
+    "regencyCode": "12.16",
+    "provinceCode": "12",
+    "name": "Kecamatan Pergetteng-Getteng Sengkut",
+    "alias": "Pergetteng-Getteng Sengkut"
+  },
+  {
+    "code": "12.16.020",
+    "districtCode": "020",
+    "regencyCode": "12.16",
+    "provinceCode": "12",
+    "name": "Kecamatan Kerajaan",
+    "alias": "Kerajaan"
+  },
+  {
+    "code": "12.16.021",
+    "districtCode": "021",
+    "regencyCode": "12.16",
+    "provinceCode": "12",
+    "name": "Kecamatan Tinada",
+    "alias": "Tinada"
+  },
+  {
+    "code": "12.16.022",
+    "districtCode": "022",
+    "regencyCode": "12.16",
+    "provinceCode": "12",
+    "name": "Kecamatan Siempat Rube",
+    "alias": "Siempat Rube"
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "code": "63.07.060.002",
+    "villageCode": "002",
+    "districtCode": "63.07.060",
+    "name": "Panggang Marak",
+    "alias": "Panggang Marak"
+  },
+  {
+    "code": "63.07.060.004",
+    "villageCode": "004",
+    "districtCode": "63.07.060",
+    "name": "Mundar",
+    "alias": "Mundar"
+  },
+  {
+    "code": "63.07.060.007",
+    "villageCode": "007",
+    "districtCode": "63.07.060",
+    "name": "Tabudarat Hilir",
+    "alias": "Tabudarat Hilir"
+  },
+  {
+    "code": "63.07.060.008",
+    "villageCode": "008",
+    "districtCode": "63.07.060",
+    "name": "Baru",
+    "alias": "Baru"
+  },
+  {
+    "code": "63.07.060.010",
+    "villageCode": "010",
+    "districtCode": "63.07.060",
+    "name": "Jamil",
+    "alias": "Jamil"
+  },
+  {
+    "code": "63.07.060.011",
+    "villageCode": "011",
+    "districtCode": "63.07.060",
+    "name": "Tabudarat Hulu",
+    "alias": "Tabudarat Hulu"
+  },
+  {
+    "code": "63.07.060.013",
+    "villageCode": "013",
+    "districtCode": "63.07.060",
+    "name": "Pantai Hambawang Barat",
+    "alias": "Pantai Hambawang Barat"
+  },
+  {
+    "code": "63.07.060.014",
+    "villageCode": "014",
+    "districtCode": "63.07.060",
+    "name": "Pantai Hambawang Timur",
+    "alias": "Pantai Hambawang Timur"
+  },
+  {
+    "code": "63.07.060.017",
+    "villageCode": "017",
+    "districtCode": "63.07.060",
+    "name": "Benua Kepayang",
+    "alias": "Benua Kepayang"
+  },
+  {
+    "code": "63.07.060.019",
+    "villageCode": "019",
+    "districtCode": "63.07.060",
+    "name": "Sungai Jaranih",
+    "alias": "Sungai Jaranih"
+  },
+  {
+    "code": "63.07.060.021",
+    "villageCode": "021",
+    "districtCode": "63.07.060",
+    "name": "Batang Bahalang",
+    "alias": "Batang Bahalang"
+  },
+  {
+    "code": "63.07.060.022",
+    "villageCode": "022",
+    "districtCode": "63.07.060",
+    "name": "Taal",
+    "alias": "Taal"
+  },
+  {
+    "code": "63.07.060.024",
+    "villageCode": "024",
+    "districtCode": "63.07.060",
+    "name": "Murung Taal",
+    "alias": "Murung Taal"
+  },
+  {
+    "code": "63.07.060.027",
+    "villageCode": "027",
+    "districtCode": "63.07.060",
+    "name": "Sungai Rangas",
+    "alias": "Sungai Rangas"
+  },
+  {
+    "code": "63.07.060.029",
+    "villageCode": "029",
+    "districtCode": "63.07.060",
+    "name": "Durian Gantang",
+    "alias": "Durian Gantang"
+  },
+  {
+    "code": "63.07.060.032",
+    "villageCode": "032",
+    "districtCode": "63.07.060",
+    "name": "Guha",
+    "alias": "Guha"
+  },
+  {
+    "code": "63.07.060.033",
+    "villageCode": "033",
+    "districtCode": "63.07.060",
+    "name": "Bangkal",
+    "alias": "Bangkal"
+  },
+  {
+    "code": "63.07.060.035",
+    "villageCode": "035",
+    "districtCode": "63.07.060",
+    "name": "Taras Padang",
+    "alias": "Taras Padang"
+  }
+]

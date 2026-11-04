@@ -1,0 +1,37 @@
+[
+  {
+    "code": "61.01.080.001",
+    "villageCode": "001",
+    "districtCode": "61.01.080",
+    "name": "Sebunga",
+    "alias": "Sebunga"
+  },
+  {
+    "code": "61.01.080.002",
+    "villageCode": "002",
+    "districtCode": "61.01.080",
+    "name": "Kaliau",
+    "alias": "Kaliau"
+  },
+  {
+    "code": "61.01.080.003",
+    "villageCode": "003",
+    "districtCode": "61.01.080",
+    "name": "Sanatab",
+    "alias": "Sanatab"
+  },
+  {
+    "code": "61.01.080.004",
+    "villageCode": "004",
+    "districtCode": "61.01.080",
+    "name": "Santaban",
+    "alias": "Santaban"
+  },
+  {
+    "code": "61.01.080.005",
+    "villageCode": "005",
+    "districtCode": "61.01.080",
+    "name": "Sei Bening",
+    "alias": "Sei Bening"
+  }
+]

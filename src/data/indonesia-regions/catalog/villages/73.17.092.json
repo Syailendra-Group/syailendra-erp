@@ -1,0 +1,44 @@
+[
+  {
+    "code": "73.17.092.001",
+    "villageCode": "001",
+    "districtCode": "73.17.092",
+    "name": "Ilan Batu",
+    "alias": "Ilan Batu"
+  },
+  {
+    "code": "73.17.092.002",
+    "villageCode": "002",
+    "districtCode": "73.17.092",
+    "name": "Ilan Batu Uru",
+    "alias": "Ilan Batu Uru"
+  },
+  {
+    "code": "73.17.092.003",
+    "villageCode": "003",
+    "districtCode": "73.17.092",
+    "name": "Lempe",
+    "alias": "Lempe"
+  },
+  {
+    "code": "73.17.092.004",
+    "villageCode": "004",
+    "districtCode": "73.17.092",
+    "name": "Lempe Pasang",
+    "alias": "Lempe Pasang"
+  },
+  {
+    "code": "73.17.092.005",
+    "villageCode": "005",
+    "districtCode": "73.17.092",
+    "name": "Lamasi Hulu",
+    "alias": "Lamasi Hulu"
+  },
+  {
+    "code": "73.17.092.006",
+    "villageCode": "006",
+    "districtCode": "73.17.092",
+    "name": "Lewandi",
+    "alias": "Lewandi"
+  }
+]

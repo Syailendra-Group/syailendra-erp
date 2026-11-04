@@ -1,0 +1,37 @@
+[
+  {
+    "code": "97.08.090.001",
+    "villageCode": "001",
+    "districtCode": "97.08.090",
+    "name": "Dabolding",
+    "alias": "Dabolding"
+  },
+  {
+    "code": "97.08.090.002",
+    "villageCode": "002",
+    "districtCode": "97.08.090",
+    "name": "Kalomdol",
+    "alias": "Kalomdol"
+  },
+  {
+    "code": "97.08.090.003",
+    "villageCode": "003",
+    "districtCode": "97.08.090",
+    "name": "Tulo",
+    "alias": "Tulo"
+  },
+  {
+    "code": "97.08.090.004",
+    "villageCode": "004",
+    "districtCode": "97.08.090",
+    "name": "Arinkop",
+    "alias": "Arinkop"
+  },
+  {
+    "code": "97.08.090.005",
+    "villageCode": "005",
+    "districtCode": "97.08.090",
+    "name": "Imik",
+    "alias": "Imik"
+  }
+]

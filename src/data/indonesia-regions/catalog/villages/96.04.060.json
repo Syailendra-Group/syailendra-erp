@@ -1,0 +1,44 @@
+[
+  {
+    "code": "96.04.060.001",
+    "villageCode": "001",
+    "districtCode": "96.04.060",
+    "name": "Nifasi",
+    "alias": "Nifasi"
+  },
+  {
+    "code": "96.04.060.002",
+    "villageCode": "002",
+    "districtCode": "96.04.060",
+    "name": "Makimi",
+    "alias": "Makimi"
+  },
+  {
+    "code": "96.04.060.003",
+    "villageCode": "003",
+    "districtCode": "96.04.060",
+    "name": "Legari Jaya",
+    "alias": "Legari Jaya"
+  },
+  {
+    "code": "96.04.060.004",
+    "villageCode": "004",
+    "districtCode": "96.04.060",
+    "name": "Biha",
+    "alias": "Biha"
+  },
+  {
+    "code": "96.04.060.005",
+    "villageCode": "005",
+    "districtCode": "96.04.060",
+    "name": "Maidei",
+    "alias": "Maidei"
+  },
+  {
+    "code": "96.04.060.006",
+    "villageCode": "006",
+    "districtCode": "96.04.060",
+    "name": "Manunggal Jaya",
+    "alias": "Manunggal Jaya"
+  }
+]

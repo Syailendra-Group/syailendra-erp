@@ -1,0 +1,58 @@
+[
+  {
+    "code": "32.07.290.001",
+    "villageCode": "001",
+    "districtCode": "32.07.290",
+    "name": "Mandalare",
+    "alias": "Mandalare"
+  },
+  {
+    "code": "32.07.290.002",
+    "villageCode": "002",
+    "districtCode": "32.07.290",
+    "name": "Kertamandala",
+    "alias": "Kertamandala"
+  },
+  {
+    "code": "32.07.290.003",
+    "villageCode": "003",
+    "districtCode": "32.07.290",
+    "name": "Ciomas",
+    "alias": "Ciomas"
+  },
+  {
+    "code": "32.07.290.004",
+    "villageCode": "004",
+    "districtCode": "32.07.290",
+    "name": "Sandingtaman",
+    "alias": "Sandingtaman"
+  },
+  {
+    "code": "32.07.290.005",
+    "villageCode": "005",
+    "districtCode": "32.07.290",
+    "name": "Maparah",
+    "alias": "Maparah"
+  },
+  {
+    "code": "32.07.290.006",
+    "villageCode": "006",
+    "districtCode": "32.07.290",
+    "name": "Panjalu",
+    "alias": "Panjalu"
+  },
+  {
+    "code": "32.07.290.007",
+    "villageCode": "007",
+    "districtCode": "32.07.290",
+    "name": "Bahara",
+    "alias": "Bahara"
+  },
+  {
+    "code": "32.07.290.008",
+    "villageCode": "008",
+    "districtCode": "32.07.290",
+    "name": "Hujungtiwu",
+    "alias": "Hujungtiwu"
+  }
+]

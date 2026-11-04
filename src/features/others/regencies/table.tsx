@@ -7,7 +7,7 @@ import { useTranslations } from 'next-intl'
 import { DataTablePagination, DataTableSkeleton, DataTableToolbar } from '@/components/data-table'
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '@/components/ui/table'
 import { useRegency } from '@/contexts/others/regency.context'
-import { useRegenciesPaginatedQuery } from '@/hooks/others/use-regencies'
+import { useRegenciesPaginatedQuery, useRegencyFilterOptionsQuery } from '@/hooks/others/use-regencies'
 import { useDataTableUrlState } from '@/hooks/use-data-table-url-state'
 import { cn } from '@/lib/utils'
 
@@ -17,12 +17,12 @@ import type { RegencyRecord } from '@/types/others/regency'
 import type { ReactElement } from 'react'
 
 export interface RegenciesTableProps {
-  onArchive: (item: RegencyRecord) => void
+  onArchive?: (item: RegencyRecord) => void
 }
 
-const FILTER_KEYS = ['active']
+const FILTER_KEYS = ['scope', 'country', 'province']
 
-export function RegenciesTable({ onArchive }: RegenciesTableProps): ReactElement {
+export function RegenciesTable(): ReactElement {
   const t = useTranslations('regional.regencies')
   const tCommon = useTranslations('common')
   const { setOpen, setCurrentRow } = useRegency()
@@ -48,8 +48,14 @@ export function RegenciesTable({ onArchive }: RegenciesTableProps): ReactElement
     filterKeys: FILTER_KEYS
   })
 
-  // 2. Fetch paginated data from Odoo
-  const statusList = getArrayFilter('status')
+  // 2. Fetch system filter options (countries and provinces that have regencies in Odoo)
+  const { data: filterOptions } = useRegencyFilterOptionsQuery()
+
+  const scopeFilter = getArrayFilter('scope')
+  const countryFilter = getArrayFilter('country')
+  const provinceFilter = getArrayFilter('province')
+
+  // 3. Fetch paginated data from Odoo
   const {
     data: result,
     isLoading,
@@ -58,7 +64,9 @@ export function RegenciesTable({ onArchive }: RegenciesTableProps): ReactElement
     page,
     perPage,
     search,
-    status: statusList.length > 0 ? statusList : undefined,
+    scope: scopeFilter.length > 0 ? scopeFilter : undefined,
+    countryId: countryFilter.length > 0 ? countryFilter : undefined,
+    stateId: provinceFilter.length > 0 ? provinceFilter : undefined,
     order: orderOdoo
   })
 
@@ -77,13 +85,12 @@ export function RegenciesTable({ onArchive }: RegenciesTableProps): ReactElement
         onEdit: (item: RegencyRecord) => {
           setCurrentRow(item)
           setOpen('edit')
-        },
-        onArchive
+        }
       }),
-    [t, tCommon, onArchive, setCurrentRow, setOpen]
+    [t, tCommon, setCurrentRow, setOpen]
   )
 
-  // 3. TanStack Table Instance
+  // 4. TanStack Table Instance
   const table = useReactTable({
     data: records,
     columns,
@@ -104,12 +111,30 @@ export function RegenciesTable({ onArchive }: RegenciesTableProps): ReactElement
     getCoreRowModel: getCoreRowModel()
   })
 
-  const statusFilterOptions = useMemo(
+  const scopeOptions = useMemo(
     () => [
-      { label: tCommon('status.active'), value: 'true' },
-      { label: tCommon('status.archived'), value: 'false' }
+      { label: 'Indonesia (Domestik)', value: 'domestic' },
+      { label: 'Luar Negeri (Internasional)', value: 'foreign' }
     ],
-    [tCommon]
+    []
+  )
+
+  const countryFilterOptions = useMemo(
+    () =>
+      (filterOptions?.countries || []).map((c) => ({
+        label: c.name,
+        value: String(c.id)
+      })),
+    [filterOptions?.countries]
+  )
+
+  const provinceFilterOptions = useMemo(
+    () =>
+      (filterOptions?.states || []).map((s) => ({
+        label: s.name,
+        value: String(s.id)
+      })),
+    [filterOptions?.states]
   )
 
   const showSkeleton = isLoading || (isFetching && records.length === 0)
@@ -123,10 +148,28 @@ export function RegenciesTable({ onArchive }: RegenciesTableProps): ReactElement
         onReset={resetFilters}
         filters={[
           {
-            columnId: 'active',
-            title: tCommon('status.title') || 'Status',
-            options: statusFilterOptions
-          }
+            columnId: 'scope',
+            title: 'Cakupan Wilayah',
+            options: scopeOptions
+          },
+          ...(countryFilterOptions.length > 0
+            ? [
+                {
+                  columnId: 'country',
+                  title: 'Negara',
+                  options: countryFilterOptions
+                }
+              ]
+            : []),
+          ...(provinceFilterOptions.length > 0
+            ? [
+                {
+                  columnId: 'province',
+                  title: 'Provinsi',
+                  options: provinceFilterOptions
+                }
+              ]
+            : [])
         ]}
       />
 

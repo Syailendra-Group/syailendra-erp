@@ -1,0 +1,65 @@
+[
+  {
+    "code": "32.09.051.001",
+    "villageCode": "001",
+    "districtCode": "32.09.051",
+    "name": "Seuseupan",
+    "alias": "Seuseupan"
+  },
+  {
+    "code": "32.09.051.002",
+    "villageCode": "002",
+    "districtCode": "32.09.051",
+    "name": "Sumurkondang",
+    "alias": "Sumurkondang"
+  },
+  {
+    "code": "32.09.051.003",
+    "villageCode": "003",
+    "districtCode": "32.09.051",
+    "name": "Jatipiring",
+    "alias": "Jatipiring"
+  },
+  {
+    "code": "32.09.051.004",
+    "villageCode": "004",
+    "districtCode": "32.09.051",
+    "name": "Kubangdeleg",
+    "alias": "Kubangdeleg"
+  },
+  {
+    "code": "32.09.051.005",
+    "villageCode": "005",
+    "districtCode": "32.09.051",
+    "name": "Karanganyar",
+    "alias": "Karanganyar"
+  },
+  {
+    "code": "32.09.051.006",
+    "villageCode": "006",
+    "districtCode": "32.09.051",
+    "name": "Karangwangi",
+    "alias": "Karangwangi"
+  },
+  {
+    "code": "32.09.051.007",
+    "villageCode": "007",
+    "districtCode": "32.09.051",
+    "name": "Blender",
+    "alias": "Blender"
+  },
+  {
+    "code": "32.09.051.008",
+    "villageCode": "008",
+    "districtCode": "32.09.051",
+    "name": "Karangwareng",
+    "alias": "Karangwareng"
+  },
+  {
+    "code": "32.09.051.009",
+    "villageCode": "009",
+    "districtCode": "32.09.051",
+    "name": "Karangasem",
+    "alias": "Karangasem"
+  }
+]

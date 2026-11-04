@@ -1,0 +1,51 @@
+[
+  {
+    "code": "82.03.040.001",
+    "villageCode": "001",
+    "districtCode": "82.03.040",
+    "name": "Pas Ipa",
+    "alias": "Pas Ipa"
+  },
+  {
+    "code": "82.03.040.002",
+    "villageCode": "002",
+    "districtCode": "82.03.040",
+    "name": "Dofa",
+    "alias": "Dofa"
+  },
+  {
+    "code": "82.03.040.003",
+    "villageCode": "003",
+    "districtCode": "82.03.040",
+    "name": "Leko Kadai",
+    "alias": "Leko Kadai"
+  },
+  {
+    "code": "82.03.040.004",
+    "villageCode": "004",
+    "districtCode": "82.03.040",
+    "name": "Lekosula",
+    "alias": "Lekosula"
+  },
+  {
+    "code": "82.03.040.015",
+    "villageCode": "015",
+    "districtCode": "82.03.040",
+    "name": "Pelita",
+    "alias": "Pelita"
+  },
+  {
+    "code": "82.03.040.016",
+    "villageCode": "016",
+    "districtCode": "82.03.040",
+    "name": "Johor",
+    "alias": "Johor"
+  },
+  {
+    "code": "82.03.040.017",
+    "villageCode": "017",
+    "districtCode": "82.03.040",
+    "name": "Lelyaba",
+    "alias": "Lelyaba"
+  }
+]

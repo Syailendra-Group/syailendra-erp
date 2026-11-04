@@ -1,0 +1,44 @@
+[
+  {
+    "code": "32.04.270.001",
+    "villageCode": "001",
+    "districtCode": "32.04.270",
+    "name": "Cangkuang Kulon",
+    "alias": "Cangkuang Kulon"
+  },
+  {
+    "code": "32.04.270.002",
+    "villageCode": "002",
+    "districtCode": "32.04.270",
+    "name": "Cangkuang Wetan",
+    "alias": "Cangkuang Wetan"
+  },
+  {
+    "code": "32.04.270.003",
+    "villageCode": "003",
+    "districtCode": "32.04.270",
+    "name": "Pasawahan",
+    "alias": "Pasawahan"
+  },
+  {
+    "code": "32.04.270.004",
+    "villageCode": "004",
+    "districtCode": "32.04.270",
+    "name": "Dayeuhkolot",
+    "alias": "Dayeuhkolot"
+  },
+  {
+    "code": "32.04.270.005",
+    "villageCode": "005",
+    "districtCode": "32.04.270",
+    "name": "Citeureup",
+    "alias": "Citeureup"
+  },
+  {
+    "code": "32.04.270.006",
+    "villageCode": "006",
+    "districtCode": "32.04.270",
+    "name": "Sukapura",
+    "alias": "Sukapura"
+  }
+]

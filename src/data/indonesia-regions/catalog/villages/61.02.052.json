@@ -1,0 +1,37 @@
+[
+  {
+    "code": "61.02.052.001",
+    "villageCode": "001",
+    "districtCode": "61.02.052",
+    "name": "Seren Selimbau",
+    "alias": "Seren Selimbau"
+  },
+  {
+    "code": "61.02.052.002",
+    "villageCode": "002",
+    "districtCode": "61.02.052",
+    "name": "Tiga Berkat",
+    "alias": "Tiga Berkat"
+  },
+  {
+    "code": "61.02.052.003",
+    "villageCode": "003",
+    "districtCode": "61.02.052",
+    "name": "Magmagan Karya",
+    "alias": "Magmagan Karya"
+  },
+  {
+    "code": "61.02.052.004",
+    "villageCode": "004",
+    "districtCode": "61.02.052",
+    "name": "Belimbing",
+    "alias": "Belimbing"
+  },
+  {
+    "code": "61.02.052.005",
+    "villageCode": "005",
+    "districtCode": "61.02.052",
+    "name": "Lamolda",
+    "alias": "Lamolda"
+  }
+]

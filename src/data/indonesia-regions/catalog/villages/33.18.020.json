@@ -1,0 +1,121 @@
+[
+  {
+    "code": "33.18.020.001",
+    "villageCode": "001",
+    "districtCode": "33.18.020",
+    "name": "Jimbaran",
+    "alias": "Jimbaran"
+  },
+  {
+    "code": "33.18.020.002",
+    "villageCode": "002",
+    "districtCode": "33.18.020",
+    "name": "Durensawit",
+    "alias": "Durensawit"
+  },
+  {
+    "code": "33.18.020.003",
+    "villageCode": "003",
+    "districtCode": "33.18.020",
+    "name": "Slungkep",
+    "alias": "Slungkep"
+  },
+  {
+    "code": "33.18.020.004",
+    "villageCode": "004",
+    "districtCode": "33.18.020",
+    "name": "Beketel",
+    "alias": "Beketel"
+  },
+  {
+    "code": "33.18.020.005",
+    "villageCode": "005",
+    "districtCode": "33.18.020",
+    "name": "Purwokerto",
+    "alias": "Purwokerto"
+  },
+  {
+    "code": "33.18.020.006",
+    "villageCode": "006",
+    "districtCode": "33.18.020",
+    "name": "Sumbersari",
+    "alias": "Sumbersari"
+  },
+  {
+    "code": "33.18.020.007",
+    "villageCode": "007",
+    "districtCode": "33.18.020",
+    "name": "Brati",
+    "alias": "Brati"
+  },
+  {
+    "code": "33.18.020.008",
+    "villageCode": "008",
+    "districtCode": "33.18.020",
+    "name": "Jatiroto",
+    "alias": "Jatiroto"
+  },
+  {
+    "code": "33.18.020.009",
+    "villageCode": "009",
+    "districtCode": "33.18.020",
+    "name": "Kayen",
+    "alias": "Kayen"
+  },
+  {
+    "code": "33.18.020.010",
+    "villageCode": "010",
+    "districtCode": "33.18.020",
+    "name": "Trimulyo",
+    "alias": "Trimulyo"
+  },
+  {
+    "code": "33.18.020.011",
+    "villageCode": "011",
+    "districtCode": "33.18.020",
+    "name": "Srikaton",
+    "alias": "Srikaton"
+  },
+  {
+    "code": "33.18.020.012",
+    "villageCode": "012",
+    "districtCode": "33.18.020",
+    "name": "Pasuruhan",
+    "alias": "Pasuruhan"
+  },
+  {
+    "code": "33.18.020.013",
+    "villageCode": "013",
+    "districtCode": "33.18.020",
+    "name": "Pesagi",
+    "alias": "Pesagi"
+  },
+  {
+    "code": "33.18.020.014",
+    "villageCode": "014",
+    "districtCode": "33.18.020",
+    "name": "Rogomulyo",
+    "alias": "Rogomulyo"
+  },
+  {
+    "code": "33.18.020.015",
+    "villageCode": "015",
+    "districtCode": "33.18.020",
+    "name": "Talun",
+    "alias": "Talun"
+  },
+  {
+    "code": "33.18.020.016",
+    "villageCode": "016",
+    "districtCode": "33.18.020",
+    "name": "Boloagung",
+    "alias": "Boloagung"
+  },
+  {
+    "code": "33.18.020.017",
+    "villageCode": "017",
+    "districtCode": "33.18.020",
+    "name": "Sundoluhur",
+    "alias": "Sundoluhur"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "code": "34.04.080.001",
+    "villageCode": "001",
+    "districtCode": "34.04.080",
+    "name": "Sendang Tirto",
+    "alias": "Sendang Tirto"
+  },
+  {
+    "code": "34.04.080.002",
+    "villageCode": "002",
+    "districtCode": "34.04.080",
+    "name": "Tegal Tirto",
+    "alias": "Tegal Tirto"
+  },
+  {
+    "code": "34.04.080.003",
+    "villageCode": "003",
+    "districtCode": "34.04.080",
+    "name": "Jogo Tirto",
+    "alias": "Jogo Tirto"
+  },
+  {
+    "code": "34.04.080.004",
+    "villageCode": "004",
+    "districtCode": "34.04.080",
+    "name": "Kali Tirto",
+    "alias": "Kali Tirto"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "code": "71.71.031.001",
+    "villageCode": "001",
+    "districtCode": "71.71.031",
+    "name": "Banjer",
+    "alias": "Banjer"
+  },
+  {
+    "code": "71.71.031.002",
+    "villageCode": "002",
+    "districtCode": "71.71.031",
+    "name": "Tikala Baru",
+    "alias": "Tikala Baru"
+  },
+  {
+    "code": "71.71.031.003",
+    "villageCode": "003",
+    "districtCode": "71.71.031",
+    "name": "Paal Iv",
+    "alias": "Paal Iv"
+  },
+  {
+    "code": "71.71.031.004",
+    "villageCode": "004",
+    "districtCode": "71.71.031",
+    "name": "Taas",
+    "alias": "Taas"
+  },
+  {
+    "code": "71.71.031.009",
+    "villageCode": "009",
+    "districtCode": "71.71.031",
+    "name": "Tikala Ares",
+    "alias": "Tikala Ares"
+  }
+]

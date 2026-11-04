@@ -1,0 +1,79 @@
+[
+  {
+    "code": "14.05.025.001",
+    "villageCode": "001",
+    "districtCode": "14.05.025",
+    "name": "Kuala Gasib",
+    "alias": "Kuala Gasib"
+  },
+  {
+    "code": "14.05.025.002",
+    "villageCode": "002",
+    "districtCode": "14.05.025",
+    "name": "Teluk Rimba",
+    "alias": "Teluk Rimba"
+  },
+  {
+    "code": "14.05.025.003",
+    "villageCode": "003",
+    "districtCode": "14.05.025",
+    "name": "Pangkalan Pisang",
+    "alias": "Pangkalan Pisang"
+  },
+  {
+    "code": "14.05.025.004",
+    "villageCode": "004",
+    "districtCode": "14.05.025",
+    "name": "Keranji Guguh",
+    "alias": "Keranji Guguh"
+  },
+  {
+    "code": "14.05.025.005",
+    "villageCode": "005",
+    "districtCode": "14.05.025",
+    "name": "Empang Pandan",
+    "alias": "Empang Pandan"
+  },
+  {
+    "code": "14.05.025.006",
+    "villageCode": "006",
+    "districtCode": "14.05.025",
+    "name": "Sengkemang",
+    "alias": "Sengkemang"
+  },
+  {
+    "code": "14.05.025.007",
+    "villageCode": "007",
+    "districtCode": "14.05.025",
+    "name": "Rantau Panjang",
+    "alias": "Rantau Panjang"
+  },
+  {
+    "code": "14.05.025.008",
+    "villageCode": "008",
+    "districtCode": "14.05.025",
+    "name": "Buatan Ii",
+    "alias": "Buatan Ii"
+  },
+  {
+    "code": "14.05.025.009",
+    "villageCode": "009",
+    "districtCode": "14.05.025",
+    "name": "Buatan I",
+    "alias": "Buatan I"
+  },
+  {
+    "code": "14.05.025.010",
+    "villageCode": "010",
+    "districtCode": "14.05.025",
+    "name": "Sri Gemilang",
+    "alias": "Sri Gemilang"
+  },
+  {
+    "code": "14.05.025.011",
+    "villageCode": "011",
+    "districtCode": "14.05.025",
+    "name": "Tasik Seminai",
+    "alias": "Tasik Seminai"
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "code": "53.07.010",
+    "districtCode": "010",
+    "regencyCode": "53.07",
+    "provinceCode": "53",
+    "name": "Kecamatan Pantar",
+    "alias": "Pantar"
+  },
+  {
+    "code": "53.07.011",
+    "districtCode": "011",
+    "regencyCode": "53.07",
+    "provinceCode": "53",
+    "name": "Kecamatan Pantar Barat",
+    "alias": "Pantar Barat"
+  },
+  {
+    "code": "53.07.012",
+    "districtCode": "012",
+    "regencyCode": "53.07",
+    "provinceCode": "53",
+    "name": "Kecamatan Pantar Timur",
+    "alias": "Pantar Timur"
+  },
+  {
+    "code": "53.07.013",
+    "districtCode": "013",
+    "regencyCode": "53.07",
+    "provinceCode": "53",
+    "name": "Kecamatan Pantar Barat Laut",
+    "alias": "Pantar Barat Laut"
+  },
+  {
+    "code": "53.07.014",
+    "districtCode": "014",
+    "regencyCode": "53.07",
+    "provinceCode": "53",
+    "name": "Kecamatan Pantar Tengah",
+    "alias": "Pantar Tengah"
+  },
+  {
+    "code": "53.07.020",
+    "districtCode": "020",
+    "regencyCode": "53.07",
+    "provinceCode": "53",
+    "name": "Kecamatan Alor Barat Daya",
+    "alias": "Alor Barat Daya"
+  },
+  {
+    "code": "53.07.021",
+    "districtCode": "021",
+    "regencyCode": "53.07",
+    "provinceCode": "53",
+    "name": "Kecamatan Mataru",
+    "alias": "Mataru"
+  },
+  {
+    "code": "53.07.022",
+    "districtCode": "022",
+    "regencyCode": "53.07",
+    "provinceCode": "53",
+    "name": "Kecamatan Abad Selatan",
+    "alias": "Abad Selatan"
+  },
+  {
+    "code": "53.07.030",
+    "districtCode": "030",
+    "regencyCode": "53.07",
+    "provinceCode": "53",
+    "name": "Kecamatan Alor Selatan",
+    "alias": "Alor Selatan"
+  },
+  {
+    "code": "53.07.040",
+    "districtCode": "040",
+    "regencyCode": "53.07",
+    "provinceCode": "53",
+    "name": "Kecamatan Alor Timur",
+    "alias": "Alor Timur"
+  },
+  {
+    "code": "53.07.041",
+    "districtCode": "041",
+    "regencyCode": "53.07",
+    "provinceCode": "53",
+    "name": "Kecamatan Alor Timur Laut",
+    "alias": "Alor Timur Laut"
+  },
+  {
+    "code": "53.07.042",
+    "districtCode": "042",
+    "regencyCode": "53.07",
+    "provinceCode": "53",
+    "name": "Kecamatan Pureman",
+    "alias": "Pureman"
+  },
+  {
+    "code": "53.07.050",
+    "districtCode": "050",
+    "regencyCode": "53.07",
+    "provinceCode": "53",
+    "name": "Kecamatan Teluk Mutiara",
+    "alias": "Teluk Mutiara"
+  },
+  {
+    "code": "53.07.051",
+    "districtCode": "051",
+    "regencyCode": "53.07",
+    "provinceCode": "53",
+    "name": "Kecamatan Kabola",
+    "alias": "Kabola"
+  },
+  {
+    "code": "53.07.060",
+    "districtCode": "060",
+    "regencyCode": "53.07",
+    "provinceCode": "53",
+    "name": "Kecamatan Alor Barat Laut",
+    "alias": "Alor Barat Laut"
+  },
+  {
+    "code": "53.07.061",
+    "districtCode": "061",
+    "regencyCode": "53.07",
+    "provinceCode": "53",
+    "name": "Kecamatan Alor Tengah Utara",
+    "alias": "Alor Tengah Utara"
+  },
+  {
+    "code": "53.07.062",
+    "districtCode": "062",
+    "regencyCode": "53.07",
+    "provinceCode": "53",
+    "name": "Kecamatan Pulau Pura",
+    "alias": "Pulau Pura"
+  },
+  {
+    "code": "53.07.063",
+    "districtCode": "063",
+    "regencyCode": "53.07",
+    "provinceCode": "53",
+    "name": "Kecamatan Lembur",
+    "alias": "Lembur"
+  }
+]

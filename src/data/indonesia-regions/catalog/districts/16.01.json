@@ -1,0 +1,106 @@
+[
+  {
+    "code": "16.01.052",
+    "districtCode": "052",
+    "regencyCode": "16.01",
+    "provinceCode": "16",
+    "name": "Kecamatan Lengkiti",
+    "alias": "Lengkiti"
+  },
+  {
+    "code": "16.01.070",
+    "districtCode": "070",
+    "regencyCode": "16.01",
+    "provinceCode": "16",
+    "name": "Kecamatan Sosoh Buay Rayap",
+    "alias": "Sosoh Buay Rayap"
+  },
+  {
+    "code": "16.01.080",
+    "districtCode": "080",
+    "regencyCode": "16.01",
+    "provinceCode": "16",
+    "name": "Kecamatan Pengandonan",
+    "alias": "Pengandonan"
+  },
+  {
+    "code": "16.01.081",
+    "districtCode": "081",
+    "regencyCode": "16.01",
+    "provinceCode": "16",
+    "name": "Kecamatan Semidang Aji",
+    "alias": "Semidang Aji"
+  },
+  {
+    "code": "16.01.082",
+    "districtCode": "082",
+    "regencyCode": "16.01",
+    "provinceCode": "16",
+    "name": "Kecamatan Ulu Ogan",
+    "alias": "Ulu Ogan"
+  },
+  {
+    "code": "16.01.083",
+    "districtCode": "083",
+    "regencyCode": "16.01",
+    "provinceCode": "16",
+    "name": "Kecamatan Muara Jaya",
+    "alias": "Muara Jaya"
+  },
+  {
+    "code": "16.01.090",
+    "districtCode": "090",
+    "regencyCode": "16.01",
+    "provinceCode": "16",
+    "name": "Kecamatan Peninjauan",
+    "alias": "Peninjauan"
+  },
+  {
+    "code": "16.01.091",
+    "districtCode": "091",
+    "regencyCode": "16.01",
+    "provinceCode": "16",
+    "name": "Kecamatan Lubuk Batang",
+    "alias": "Lubuk Batang"
+  },
+  {
+    "code": "16.01.092",
+    "districtCode": "092",
+    "regencyCode": "16.01",
+    "provinceCode": "16",
+    "name": "Kecamatan Sinar Peninjauan",
+    "alias": "Sinar Peninjauan"
+  },
+  {
+    "code": "16.01.093",
+    "districtCode": "093",
+    "regencyCode": "16.01",
+    "provinceCode": "16",
+    "name": "Kecamatan Kedaton Peninjauan Raya",
+    "alias": "Kedaton Peninjauan Raya"
+  },
+  {
+    "code": "16.01.130",
+    "districtCode": "130",
+    "regencyCode": "16.01",
+    "provinceCode": "16",
+    "name": "Kecamatan Batu Raja Timur",
+    "alias": "Batu Raja Timur"
+  },
+  {
+    "code": "16.01.131",
+    "districtCode": "131",
+    "regencyCode": "16.01",
+    "provinceCode": "16",
+    "name": "Kecamatan Lubuk Raja",
+    "alias": "Lubuk Raja"
+  },
+  {
+    "code": "16.01.140",
+    "districtCode": "140",
+    "regencyCode": "16.01",
+    "provinceCode": "16",
+    "name": "Kecamatan Batu Raja Barat",
+    "alias": "Batu Raja Barat"
+  }
+]

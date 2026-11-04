@@ -1,0 +1,51 @@
+[
+  {
+    "code": "12.09.010.002",
+    "villageCode": "002",
+    "districtCode": "12.09.010",
+    "name": "Sibangun Meriah",
+    "alias": "Sibangun Meriah"
+  },
+  {
+    "code": "12.09.010.004",
+    "villageCode": "004",
+    "districtCode": "12.09.010",
+    "name": "Saribu Dolok",
+    "alias": "Saribu Dolok"
+  },
+  {
+    "code": "12.09.010.005",
+    "villageCode": "005",
+    "districtCode": "12.09.010",
+    "name": "Purba Sinombah",
+    "alias": "Purba Sinombah"
+  },
+  {
+    "code": "12.09.010.006",
+    "villageCode": "006",
+    "districtCode": "12.09.010",
+    "name": "Purba Tua",
+    "alias": "Purba Tua"
+  },
+  {
+    "code": "12.09.010.011",
+    "villageCode": "011",
+    "districtCode": "12.09.010",
+    "name": "Purba Tua Baru",
+    "alias": "Purba Tua Baru"
+  },
+  {
+    "code": "12.09.010.014",
+    "villageCode": "014",
+    "districtCode": "12.09.010",
+    "name": "Sinar Baru",
+    "alias": "Sinar Baru"
+  },
+  {
+    "code": "12.09.010.015",
+    "villageCode": "015",
+    "districtCode": "12.09.010",
+    "name": "Purba Tua Etek",
+    "alias": "Purba Tua Etek"
+  }
+]

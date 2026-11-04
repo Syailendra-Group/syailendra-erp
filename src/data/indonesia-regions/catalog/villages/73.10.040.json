@@ -1,0 +1,51 @@
+[
+  {
+    "code": "73.10.040.005",
+    "villageCode": "005",
+    "districtCode": "73.10.040",
+    "name": "Ajakkang",
+    "alias": "Ajakkang"
+  },
+  {
+    "code": "73.10.040.006",
+    "villageCode": "006",
+    "districtCode": "73.10.040",
+    "name": "Paccekke",
+    "alias": "Paccekke"
+  },
+  {
+    "code": "73.10.040.007",
+    "villageCode": "007",
+    "districtCode": "73.10.040",
+    "name": "Kiru-Kiru",
+    "alias": "Kiru-Kiru"
+  },
+  {
+    "code": "73.10.040.008",
+    "villageCode": "008",
+    "districtCode": "73.10.040",
+    "name": "Mangkoso",
+    "alias": "Mangkoso"
+  },
+  {
+    "code": "73.10.040.009",
+    "villageCode": "009",
+    "districtCode": "73.10.040",
+    "name": "Lawallu",
+    "alias": "Lawallu"
+  },
+  {
+    "code": "73.10.040.010",
+    "villageCode": "010",
+    "districtCode": "73.10.040",
+    "name": "Siddo",
+    "alias": "Siddo"
+  },
+  {
+    "code": "73.10.040.011",
+    "villageCode": "011",
+    "districtCode": "73.10.040",
+    "name": "Batupute",
+    "alias": "Batupute"
+  }
+]

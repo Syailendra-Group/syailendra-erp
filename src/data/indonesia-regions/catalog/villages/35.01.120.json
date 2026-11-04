@@ -1,0 +1,72 @@
+[
+  {
+    "code": "35.01.120.001",
+    "villageCode": "001",
+    "districtCode": "35.01.120",
+    "name": "Pager Kidul",
+    "alias": "Pager Kidul"
+  },
+  {
+    "code": "35.01.120.002",
+    "villageCode": "002",
+    "districtCode": "35.01.120",
+    "name": "Pager Lor",
+    "alias": "Pager Lor"
+  },
+  {
+    "code": "35.01.120.003",
+    "villageCode": "003",
+    "districtCode": "35.01.120",
+    "name": "Sukorejo",
+    "alias": "Sukorejo"
+  },
+  {
+    "code": "35.01.120.004",
+    "villageCode": "004",
+    "districtCode": "35.01.120",
+    "name": "Sudimoro",
+    "alias": "Sudimoro"
+  },
+  {
+    "code": "35.01.120.005",
+    "villageCode": "005",
+    "districtCode": "35.01.120",
+    "name": "Ketanggung",
+    "alias": "Ketanggung"
+  },
+  {
+    "code": "35.01.120.006",
+    "villageCode": "006",
+    "districtCode": "35.01.120",
+    "name": "Klepu",
+    "alias": "Klepu"
+  },
+  {
+    "code": "35.01.120.007",
+    "villageCode": "007",
+    "districtCode": "35.01.120",
+    "name": "Sembowo",
+    "alias": "Sembowo"
+  },
+  {
+    "code": "35.01.120.008",
+    "villageCode": "008",
+    "districtCode": "35.01.120",
+    "name": "Karang Mulyo",
+    "alias": "Karang Mulyo"
+  },
+  {
+    "code": "35.01.120.009",
+    "villageCode": "009",
+    "districtCode": "35.01.120",
+    "name": "Gunung Rejo",
+    "alias": "Gunung Rejo"
+  },
+  {
+    "code": "35.01.120.010",
+    "villageCode": "010",
+    "districtCode": "35.01.120",
+    "name": "Sumber Rejo",
+    "alias": "Sumber Rejo"
+  }
+]

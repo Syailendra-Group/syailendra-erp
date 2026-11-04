@@ -1,0 +1,51 @@
+[
+  {
+    "code": "74.02.072.001",
+    "villageCode": "001",
+    "districtCode": "74.02.072",
+    "name": "Banggai",
+    "alias": "Banggai"
+  },
+  {
+    "code": "74.02.072.002",
+    "villageCode": "002",
+    "districtCode": "74.02.072",
+    "name": "Lasunapa",
+    "alias": "Lasunapa"
+  },
+  {
+    "code": "74.02.072.003",
+    "villageCode": "003",
+    "districtCode": "74.02.072",
+    "name": "Ghonsume",
+    "alias": "Ghonsume"
+  },
+  {
+    "code": "74.02.072.004",
+    "villageCode": "004",
+    "districtCode": "74.02.072",
+    "name": "Wapunto",
+    "alias": "Wapunto"
+  },
+  {
+    "code": "74.02.072.005",
+    "villageCode": "005",
+    "districtCode": "74.02.072",
+    "name": "Ghone Bhalano",
+    "alias": "Ghone Bhalano"
+  },
+  {
+    "code": "74.02.072.006",
+    "villageCode": "006",
+    "districtCode": "74.02.072",
+    "name": "Lagasa",
+    "alias": "Lagasa"
+  },
+  {
+    "code": "74.02.072.007",
+    "villageCode": "007",
+    "districtCode": "74.02.072",
+    "name": "Palangga",
+    "alias": "Palangga"
+  }
+]

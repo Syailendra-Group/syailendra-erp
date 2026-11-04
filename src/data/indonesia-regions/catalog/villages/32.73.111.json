@@ -1,0 +1,30 @@
+[
+  {
+    "code": "32.73.111.001",
+    "villageCode": "001",
+    "districtCode": "32.73.111",
+    "name": "Mekar Mulya",
+    "alias": "Mekar Mulya"
+  },
+  {
+    "code": "32.73.111.002",
+    "villageCode": "002",
+    "districtCode": "32.73.111",
+    "name": "Cipadung Kidul",
+    "alias": "Cipadung Kidul"
+  },
+  {
+    "code": "32.73.111.003",
+    "villageCode": "003",
+    "districtCode": "32.73.111",
+    "name": "Cipadung Wetan",
+    "alias": "Cipadung Wetan"
+  },
+  {
+    "code": "32.73.111.004",
+    "villageCode": "004",
+    "districtCode": "32.73.111",
+    "name": "Cipadung Kulon",
+    "alias": "Cipadung Kulon"
+  }
+]

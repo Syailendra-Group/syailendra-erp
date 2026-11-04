@@ -1,0 +1,51 @@
+[
+  {
+    "code": "82.02.030.006",
+    "villageCode": "006",
+    "districtCode": "82.02.030",
+    "name": "Nusliko",
+    "alias": "Nusliko"
+  },
+  {
+    "code": "82.02.030.007",
+    "villageCode": "007",
+    "districtCode": "82.02.030",
+    "name": "Were",
+    "alias": "Were"
+  },
+  {
+    "code": "82.02.030.019",
+    "villageCode": "019",
+    "districtCode": "82.02.030",
+    "name": "Nurweda",
+    "alias": "Nurweda"
+  },
+  {
+    "code": "82.02.030.020",
+    "villageCode": "020",
+    "districtCode": "82.02.030",
+    "name": "Fidi Jaya",
+    "alias": "Fidi Jaya"
+  },
+  {
+    "code": "82.02.030.021",
+    "villageCode": "021",
+    "districtCode": "82.02.030",
+    "name": "Sidanga",
+    "alias": "Sidanga"
+  },
+  {
+    "code": "82.02.030.022",
+    "villageCode": "022",
+    "districtCode": "82.02.030",
+    "name": "Wedana",
+    "alias": "Wedana"
+  },
+  {
+    "code": "82.02.030.023",
+    "villageCode": "023",
+    "districtCode": "82.02.030",
+    "name": "Goeng",
+    "alias": "Goeng"
+  }
+]

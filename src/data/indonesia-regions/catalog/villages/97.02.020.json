@@ -1,0 +1,65 @@
+[
+  {
+    "code": "97.02.020.001",
+    "villageCode": "001",
+    "districtCode": "97.02.020",
+    "name": "Asotapo",
+    "alias": "Asotapo"
+  },
+  {
+    "code": "97.02.020.002",
+    "villageCode": "002",
+    "districtCode": "97.02.020",
+    "name": "Ninabua",
+    "alias": "Ninabua"
+  },
+  {
+    "code": "97.02.020.003",
+    "villageCode": "003",
+    "districtCode": "97.02.020",
+    "name": "Hesatom",
+    "alias": "Hesatom"
+  },
+  {
+    "code": "97.02.020.004",
+    "villageCode": "004",
+    "districtCode": "97.02.020",
+    "name": "Asolokobal",
+    "alias": "Asolokobal"
+  },
+  {
+    "code": "97.02.020.005",
+    "villageCode": "005",
+    "districtCode": "97.02.020",
+    "name": "Wiaima",
+    "alias": "Wiaima"
+  },
+  {
+    "code": "97.02.020.006",
+    "villageCode": "006",
+    "districtCode": "97.02.020",
+    "name": "Sinata",
+    "alias": "Sinata"
+  },
+  {
+    "code": "97.02.020.007",
+    "villageCode": "007",
+    "districtCode": "97.02.020",
+    "name": "Helaluwa",
+    "alias": "Helaluwa"
+  },
+  {
+    "code": "97.02.020.008",
+    "villageCode": "008",
+    "districtCode": "97.02.020",
+    "name": "Mulinekama",
+    "alias": "Mulinekama"
+  },
+  {
+    "code": "97.02.020.009",
+    "villageCode": "009",
+    "districtCode": "97.02.020",
+    "name": "Yapema",
+    "alias": "Yapema"
+  }
+]

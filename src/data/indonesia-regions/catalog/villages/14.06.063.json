@@ -1,0 +1,58 @@
+[
+  {
+    "code": "14.06.063.001",
+    "villageCode": "001",
+    "districtCode": "14.06.063",
+    "name": "Kampung Panjang",
+    "alias": "Kampung Panjang"
+  },
+  {
+    "code": "14.06.063.002",
+    "villageCode": "002",
+    "districtCode": "14.06.063",
+    "name": "Sawah",
+    "alias": "Sawah"
+  },
+  {
+    "code": "14.06.063.003",
+    "villageCode": "003",
+    "districtCode": "14.06.063",
+    "name": "Kayu Aro",
+    "alias": "Kayu Aro"
+  },
+  {
+    "code": "14.06.063.004",
+    "villageCode": "004",
+    "districtCode": "14.06.063",
+    "name": "Muara Jalai",
+    "alias": "Muara Jalai"
+  },
+  {
+    "code": "14.06.063.005",
+    "villageCode": "005",
+    "districtCode": "14.06.063",
+    "name": "Sungai Tonang",
+    "alias": "Sungai Tonang"
+  },
+  {
+    "code": "14.06.063.006",
+    "villageCode": "006",
+    "districtCode": "14.06.063",
+    "name": "Sungai Jalau",
+    "alias": "Sungai Jalau"
+  },
+  {
+    "code": "14.06.063.007",
+    "villageCode": "007",
+    "districtCode": "14.06.063",
+    "name": "Sendayan",
+    "alias": "Sendayan"
+  },
+  {
+    "code": "14.06.063.008",
+    "villageCode": "008",
+    "districtCode": "14.06.063",
+    "name": "Naga Beralih",
+    "alias": "Naga Beralih"
+  }
+]

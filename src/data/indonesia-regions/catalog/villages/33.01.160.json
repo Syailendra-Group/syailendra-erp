@@ -1,0 +1,72 @@
+[
+  {
+    "code": "33.01.160.001",
+    "villageCode": "001",
+    "districtCode": "33.01.160",
+    "name": "Karangkemiri",
+    "alias": "Karangkemiri"
+  },
+  {
+    "code": "33.01.160.002",
+    "villageCode": "002",
+    "districtCode": "33.01.160",
+    "name": "Karangreja",
+    "alias": "Karangreja"
+  },
+  {
+    "code": "33.01.160.003",
+    "villageCode": "003",
+    "districtCode": "33.01.160",
+    "name": "Klapagada",
+    "alias": "Klapagada"
+  },
+  {
+    "code": "33.01.160.004",
+    "villageCode": "004",
+    "districtCode": "33.01.160",
+    "name": "Karangrena",
+    "alias": "Karangrena"
+  },
+  {
+    "code": "33.01.160.005",
+    "villageCode": "005",
+    "districtCode": "33.01.160",
+    "name": "Maos Kidul",
+    "alias": "Maos Kidul"
+  },
+  {
+    "code": "33.01.160.006",
+    "villageCode": "006",
+    "districtCode": "33.01.160",
+    "name": "Maos Lor",
+    "alias": "Maos Lor"
+  },
+  {
+    "code": "33.01.160.007",
+    "villageCode": "007",
+    "districtCode": "33.01.160",
+    "name": "Kalijaran",
+    "alias": "Kalijaran"
+  },
+  {
+    "code": "33.01.160.008",
+    "villageCode": "008",
+    "districtCode": "33.01.160",
+    "name": "Mernek",
+    "alias": "Mernek"
+  },
+  {
+    "code": "33.01.160.009",
+    "villageCode": "009",
+    "districtCode": "33.01.160",
+    "name": "Penisihan",
+    "alias": "Penisihan"
+  },
+  {
+    "code": "33.01.160.010",
+    "villageCode": "010",
+    "districtCode": "33.01.160",
+    "name": "Glempang",
+    "alias": "Glempang"
+  }
+]

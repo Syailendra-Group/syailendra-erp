@@ -1,0 +1,98 @@
+[
+  {
+    "code": "15.08.010",
+    "districtCode": "010",
+    "regencyCode": "15.08",
+    "provinceCode": "15",
+    "name": "Kecamatan Tebo Ilir",
+    "alias": "Tebo Ilir"
+  },
+  {
+    "code": "15.08.011",
+    "districtCode": "011",
+    "regencyCode": "15.08",
+    "provinceCode": "15",
+    "name": "Kecamatan Muara Tabir",
+    "alias": "Muara Tabir"
+  },
+  {
+    "code": "15.08.020",
+    "districtCode": "020",
+    "regencyCode": "15.08",
+    "provinceCode": "15",
+    "name": "Kecamatan Tebo Tengah",
+    "alias": "Tebo Tengah"
+  },
+  {
+    "code": "15.08.021",
+    "districtCode": "021",
+    "regencyCode": "15.08",
+    "provinceCode": "15",
+    "name": "Kecamatan Sumay",
+    "alias": "Sumay"
+  },
+  {
+    "code": "15.08.022",
+    "districtCode": "022",
+    "regencyCode": "15.08",
+    "provinceCode": "15",
+    "name": "Kecamatan Tengah Ilir",
+    "alias": "Tengah Ilir"
+  },
+  {
+    "code": "15.08.030",
+    "districtCode": "030",
+    "regencyCode": "15.08",
+    "provinceCode": "15",
+    "name": "Kecamatan Rimbo Bujang",
+    "alias": "Rimbo Bujang"
+  },
+  {
+    "code": "15.08.031",
+    "districtCode": "031",
+    "regencyCode": "15.08",
+    "provinceCode": "15",
+    "name": "Kecamatan Rimbo Ulu",
+    "alias": "Rimbo Ulu"
+  },
+  {
+    "code": "15.08.032",
+    "districtCode": "032",
+    "regencyCode": "15.08",
+    "provinceCode": "15",
+    "name": "Kecamatan Rimbo Ilir",
+    "alias": "Rimbo Ilir"
+  },
+  {
+    "code": "15.08.040",
+    "districtCode": "040",
+    "regencyCode": "15.08",
+    "provinceCode": "15",
+    "name": "Kecamatan Tebo Ulu",
+    "alias": "Tebo Ulu"
+  },
+  {
+    "code": "15.08.041",
+    "districtCode": "041",
+    "regencyCode": "15.08",
+    "provinceCode": "15",
+    "name": "Kecamatan Vii Koto",
+    "alias": "Vii Koto"
+  },
+  {
+    "code": "15.08.042",
+    "districtCode": "042",
+    "regencyCode": "15.08",
+    "provinceCode": "15",
+    "name": "Kecamatan Serai Serumpun",
+    "alias": "Serai Serumpun"
+  },
+  {
+    "code": "15.08.043",
+    "districtCode": "043",
+    "regencyCode": "15.08",
+    "provinceCode": "15",
+    "name": "Kecamatan Vii Koto Ilir",
+    "alias": "Vii Koto Ilir"
+  }
+]

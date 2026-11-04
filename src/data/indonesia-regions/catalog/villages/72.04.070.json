@@ -1,0 +1,51 @@
+[
+  {
+    "code": "72.04.070.006",
+    "villageCode": "006",
+    "districtCode": "72.04.070",
+    "name": "Gebang Rejo",
+    "alias": "Gebang Rejo"
+  },
+  {
+    "code": "72.04.070.007",
+    "villageCode": "007",
+    "districtCode": "72.04.070",
+    "name": "Moengko",
+    "alias": "Moengko"
+  },
+  {
+    "code": "72.04.070.008",
+    "villageCode": "008",
+    "districtCode": "72.04.070",
+    "name": "Moengko Baru",
+    "alias": "Moengko Baru"
+  },
+  {
+    "code": "72.04.070.009",
+    "villageCode": "009",
+    "districtCode": "72.04.070",
+    "name": "Kayamanya",
+    "alias": "Kayamanya"
+  },
+  {
+    "code": "72.04.070.010",
+    "villageCode": "010",
+    "districtCode": "72.04.070",
+    "name": "Gebangrejo Timur",
+    "alias": "Gebangrejo Timur"
+  },
+  {
+    "code": "72.04.070.011",
+    "villageCode": "011",
+    "districtCode": "72.04.070",
+    "name": "Gebangrejo Barat",
+    "alias": "Gebangrejo Barat"
+  },
+  {
+    "code": "72.04.070.012",
+    "villageCode": "012",
+    "districtCode": "72.04.070",
+    "name": "Kayamanya Sentral",
+    "alias": "Kayamanya Sentral"
+  }
+]

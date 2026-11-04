@@ -1,0 +1,51 @@
+[
+  {
+    "code": "97.08.020.001",
+    "villageCode": "001",
+    "districtCode": "97.08.020",
+    "name": "Tarngop",
+    "alias": "Tarngop"
+  },
+  {
+    "code": "97.08.020.002",
+    "villageCode": "002",
+    "districtCode": "97.08.020",
+    "name": "Arintap",
+    "alias": "Arintap"
+  },
+  {
+    "code": "97.08.020.003",
+    "villageCode": "003",
+    "districtCode": "97.08.020",
+    "name": "Sakup",
+    "alias": "Sakup"
+  },
+  {
+    "code": "97.08.020.004",
+    "villageCode": "004",
+    "districtCode": "97.08.020",
+    "name": "Nanum",
+    "alias": "Nanum"
+  },
+  {
+    "code": "97.08.020.005",
+    "villageCode": "005",
+    "districtCode": "97.08.020",
+    "name": "Kawor",
+    "alias": "Kawor"
+  },
+  {
+    "code": "97.08.020.006",
+    "villageCode": "006",
+    "districtCode": "97.08.020",
+    "name": "Ater",
+    "alias": "Ater"
+  },
+  {
+    "code": "97.08.020.007",
+    "villageCode": "007",
+    "districtCode": "97.08.020",
+    "name": "Umding",
+    "alias": "Umding"
+  }
+]

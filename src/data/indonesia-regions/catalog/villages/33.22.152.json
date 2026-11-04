@@ -1,0 +1,72 @@
+[
+  {
+    "code": "33.22.152.001",
+    "villageCode": "001",
+    "districtCode": "33.22.152",
+    "name": "Beji",
+    "alias": "Beji"
+  },
+  {
+    "code": "33.22.152.002",
+    "villageCode": "002",
+    "districtCode": "33.22.152",
+    "name": "Leyangan",
+    "alias": "Leyangan"
+  },
+  {
+    "code": "33.22.152.003",
+    "villageCode": "003",
+    "districtCode": "33.22.152",
+    "name": "Kalongan",
+    "alias": "Kalongan"
+  },
+  {
+    "code": "33.22.152.004",
+    "villageCode": "004",
+    "districtCode": "33.22.152",
+    "name": "Kawengen",
+    "alias": "Kawengen"
+  },
+  {
+    "code": "33.22.152.005",
+    "villageCode": "005",
+    "districtCode": "33.22.152",
+    "name": "Kalikayen",
+    "alias": "Kalikayen"
+  },
+  {
+    "code": "33.22.152.006",
+    "villageCode": "006",
+    "districtCode": "33.22.152",
+    "name": "Mluweh",
+    "alias": "Mluweh"
+  },
+  {
+    "code": "33.22.152.007",
+    "villageCode": "007",
+    "districtCode": "33.22.152",
+    "name": "Susukan",
+    "alias": "Susukan"
+  },
+  {
+    "code": "33.22.152.008",
+    "villageCode": "008",
+    "districtCode": "33.22.152",
+    "name": "Kalirejo",
+    "alias": "Kalirejo"
+  },
+  {
+    "code": "33.22.152.009",
+    "villageCode": "009",
+    "districtCode": "33.22.152",
+    "name": "Sidomulyo",
+    "alias": "Sidomulyo"
+  },
+  {
+    "code": "33.22.152.010",
+    "villageCode": "010",
+    "districtCode": "33.22.152",
+    "name": "Gedanganak",
+    "alias": "Gedanganak"
+  }
+]

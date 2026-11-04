@@ -1,0 +1,37 @@
+[
+  {
+    "code": "13.07.091.001",
+    "villageCode": "001",
+    "districtCode": "13.07.091",
+    "name": "Magek",
+    "alias": "Magek"
+  },
+  {
+    "code": "13.07.091.002",
+    "villageCode": "002",
+    "districtCode": "13.07.091",
+    "name": "Kamang Hilia",
+    "alias": "Kamang Hilia"
+  },
+  {
+    "code": "13.07.091.003",
+    "villageCode": "003",
+    "districtCode": "13.07.091",
+    "name": "Kamang Mudiak",
+    "alias": "Kamang Mudiak"
+  },
+  {
+    "code": "13.07.091.004",
+    "villageCode": "004",
+    "districtCode": "13.07.091",
+    "name": "Nagari Persiapan Kamang Tangah Anam Suku",
+    "alias": "Nagari Persiapan Kamang Tangah Anam Suku"
+  },
+  {
+    "code": "13.07.091.005",
+    "villageCode": "005",
+    "districtCode": "13.07.091",
+    "name": "Nagari Persiapan Pauh Kamang Mudiak",
+    "alias": "Nagari Persiapan Pauh Kamang Mudiak"
+  }
+]

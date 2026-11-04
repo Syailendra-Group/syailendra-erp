@@ -1,0 +1,72 @@
+[
+  {
+    "code": "17.02.031.001",
+    "villageCode": "001",
+    "districtCode": "17.02.031",
+    "name": "Sindang Jaya",
+    "alias": "Sindang Jaya"
+  },
+  {
+    "code": "17.02.031.006",
+    "villageCode": "006",
+    "districtCode": "17.02.031",
+    "name": "Sindang Jati",
+    "alias": "Sindang Jati"
+  },
+  {
+    "code": "17.02.031.007",
+    "villageCode": "007",
+    "districtCode": "17.02.031",
+    "name": "Air Dingin",
+    "alias": "Air Dingin"
+  },
+  {
+    "code": "17.02.031.008",
+    "villageCode": "008",
+    "districtCode": "17.02.031",
+    "name": "Kayu Manis",
+    "alias": "Kayu Manis"
+  },
+  {
+    "code": "17.02.031.011",
+    "villageCode": "011",
+    "districtCode": "17.02.031",
+    "name": "Beringin Tiga",
+    "alias": "Beringin Tiga"
+  },
+  {
+    "code": "17.02.031.012",
+    "villageCode": "012",
+    "districtCode": "17.02.031",
+    "name": "Pelalo",
+    "alias": "Pelalo"
+  },
+  {
+    "code": "17.02.031.013",
+    "villageCode": "013",
+    "districtCode": "17.02.031",
+    "name": "Belitar Muka",
+    "alias": "Belitar Muka"
+  },
+  {
+    "code": "17.02.031.014",
+    "villageCode": "014",
+    "districtCode": "17.02.031",
+    "name": "Belitar Seberang",
+    "alias": "Belitar Seberang"
+  },
+  {
+    "code": "17.02.031.015",
+    "villageCode": "015",
+    "districtCode": "17.02.031",
+    "name": "Tanjung Aur",
+    "alias": "Tanjung Aur"
+  },
+  {
+    "code": "17.02.031.016",
+    "villageCode": "016",
+    "districtCode": "17.02.031",
+    "name": "Cahaya Negeri",
+    "alias": "Cahaya Negeri"
+  }
+]

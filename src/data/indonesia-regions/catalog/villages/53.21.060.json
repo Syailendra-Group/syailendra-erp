@@ -1,0 +1,65 @@
+[
+  {
+    "code": "53.21.060.001",
+    "villageCode": "001",
+    "districtCode": "53.21.060",
+    "name": "Manumutin Silole",
+    "alias": "Manumutin Silole"
+  },
+  {
+    "code": "53.21.060.002",
+    "villageCode": "002",
+    "districtCode": "53.21.060",
+    "name": "Fatuaruin",
+    "alias": "Fatuaruin"
+  },
+  {
+    "code": "53.21.060.003",
+    "villageCode": "003",
+    "districtCode": "53.21.060",
+    "name": "Builaran",
+    "alias": "Builaran"
+  },
+  {
+    "code": "53.21.060.004",
+    "villageCode": "004",
+    "districtCode": "53.21.060",
+    "name": "Naibone",
+    "alias": "Naibone"
+  },
+  {
+    "code": "53.21.060.005",
+    "villageCode": "005",
+    "districtCode": "53.21.060",
+    "name": "Beaneno",
+    "alias": "Beaneno"
+  },
+  {
+    "code": "53.21.060.006",
+    "villageCode": "006",
+    "districtCode": "53.21.060",
+    "name": "Manulea",
+    "alias": "Manulea"
+  },
+  {
+    "code": "53.21.060.007",
+    "villageCode": "007",
+    "districtCode": "53.21.060",
+    "name": "Umutnana",
+    "alias": "Umutnana"
+  },
+  {
+    "code": "53.21.060.008",
+    "villageCode": "008",
+    "districtCode": "53.21.060",
+    "name": "As Manulea",
+    "alias": "As Manulea"
+  },
+  {
+    "code": "53.21.060.009",
+    "villageCode": "009",
+    "districtCode": "53.21.060",
+    "name": "Naisau",
+    "alias": "Naisau"
+  }
+]

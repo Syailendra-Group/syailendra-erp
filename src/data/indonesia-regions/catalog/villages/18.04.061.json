@@ -1,0 +1,58 @@
+[
+  {
+    "code": "18.04.061.001",
+    "villageCode": "001",
+    "districtCode": "18.04.061",
+    "name": "Sumur Kucing",
+    "alias": "Sumur Kucing"
+  },
+  {
+    "code": "18.04.061.002",
+    "villageCode": "002",
+    "districtCode": "18.04.061",
+    "name": "Labuhan Ratu",
+    "alias": "Labuhan Ratu"
+  },
+  {
+    "code": "18.04.061.003",
+    "villageCode": "003",
+    "districtCode": "18.04.061",
+    "name": "Kedung Ringin",
+    "alias": "Kedung Ringin"
+  },
+  {
+    "code": "18.04.061.004",
+    "villageCode": "004",
+    "districtCode": "18.04.061",
+    "name": "Rejo Mulyo",
+    "alias": "Rejo Mulyo"
+  },
+  {
+    "code": "18.04.061.005",
+    "villageCode": "005",
+    "districtCode": "18.04.061",
+    "name": "Purworejo",
+    "alias": "Purworejo"
+  },
+  {
+    "code": "18.04.061.006",
+    "villageCode": "006",
+    "districtCode": "18.04.061",
+    "name": "Mulyo Sari",
+    "alias": "Mulyo Sari"
+  },
+  {
+    "code": "18.04.061.007",
+    "villageCode": "007",
+    "districtCode": "18.04.061",
+    "name": "Pasir Sakti",
+    "alias": "Pasir Sakti"
+  },
+  {
+    "code": "18.04.061.008",
+    "villageCode": "008",
+    "districtCode": "18.04.061",
+    "name": "Mekar Sari",
+    "alias": "Mekar Sari"
+  }
+]

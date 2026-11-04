@@ -1,0 +1,72 @@
+[
+  {
+    "code": "14.08.011.001",
+    "villageCode": "001",
+    "districtCode": "14.08.011",
+    "name": "Pinggir",
+    "alias": "Pinggir"
+  },
+  {
+    "code": "14.08.011.002",
+    "villageCode": "002",
+    "districtCode": "14.08.011",
+    "name": "Semunai",
+    "alias": "Semunai"
+  },
+  {
+    "code": "14.08.011.003",
+    "villageCode": "003",
+    "districtCode": "14.08.011",
+    "name": "Tengganau",
+    "alias": "Tengganau"
+  },
+  {
+    "code": "14.08.011.004",
+    "villageCode": "004",
+    "districtCode": "14.08.011",
+    "name": "Balai Pungut",
+    "alias": "Balai Pungut"
+  },
+  {
+    "code": "14.08.011.005",
+    "villageCode": "005",
+    "districtCode": "14.08.011",
+    "name": "Muara Basung",
+    "alias": "Muara Basung"
+  },
+  {
+    "code": "14.08.011.011",
+    "villageCode": "011",
+    "districtCode": "14.08.011",
+    "name": "Titian Antui",
+    "alias": "Titian Antui"
+  },
+  {
+    "code": "14.08.011.012",
+    "villageCode": "012",
+    "districtCode": "14.08.011",
+    "name": "Balai Raja",
+    "alias": "Balai Raja"
+  },
+  {
+    "code": "14.08.011.014",
+    "villageCode": "014",
+    "districtCode": "14.08.011",
+    "name": "Sungai Meranti",
+    "alias": "Sungai Meranti"
+  },
+  {
+    "code": "14.08.011.015",
+    "villageCode": "015",
+    "districtCode": "14.08.011",
+    "name": "Pangkalan Libut",
+    "alias": "Pangkalan Libut"
+  },
+  {
+    "code": "14.08.011.016",
+    "villageCode": "016",
+    "districtCode": "14.08.011",
+    "name": "Buluh Apo",
+    "alias": "Buluh Apo"
+  }
+]

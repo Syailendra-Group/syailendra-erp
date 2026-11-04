@@ -1,0 +1,72 @@
+[
+  {
+    "code": "18.13.050.001",
+    "villageCode": "001",
+    "districtCode": "18.13.050",
+    "name": "Bumiwaras",
+    "alias": "Bumiwaras"
+  },
+  {
+    "code": "18.13.050.002",
+    "villageCode": "002",
+    "districtCode": "18.13.050",
+    "name": "Pajar Bulan",
+    "alias": "Pajar Bulan"
+  },
+  {
+    "code": "18.13.050.003",
+    "villageCode": "003",
+    "districtCode": "18.13.050",
+    "name": "Penggawa Lima",
+    "alias": "Penggawa Lima"
+  },
+  {
+    "code": "18.13.050.004",
+    "villageCode": "004",
+    "districtCode": "18.13.050",
+    "name": "Penggawa Lima Ilir",
+    "alias": "Penggawa Lima Ilir"
+  },
+  {
+    "code": "18.13.050.005",
+    "villageCode": "005",
+    "districtCode": "18.13.050",
+    "name": "Banjar Agung",
+    "alias": "Banjar Agung"
+  },
+  {
+    "code": "18.13.050.006",
+    "villageCode": "006",
+    "districtCode": "18.13.050",
+    "name": "Suka Baru",
+    "alias": "Suka Baru"
+  },
+  {
+    "code": "18.13.050.007",
+    "villageCode": "007",
+    "districtCode": "18.13.050",
+    "name": "Ulu Krui",
+    "alias": "Ulu Krui"
+  },
+  {
+    "code": "18.13.050.008",
+    "villageCode": "008",
+    "districtCode": "18.13.050",
+    "name": "Gunung Kemala",
+    "alias": "Gunung Kemala"
+  },
+  {
+    "code": "18.13.050.009",
+    "villageCode": "009",
+    "districtCode": "18.13.050",
+    "name": "Labuhan Mandi",
+    "alias": "Labuhan Mandi"
+  },
+  {
+    "code": "18.13.050.010",
+    "villageCode": "010",
+    "districtCode": "18.13.050",
+    "name": "Gunung Kemala Timur",
+    "alias": "Gunung Kemala Timur"
+  }
+]

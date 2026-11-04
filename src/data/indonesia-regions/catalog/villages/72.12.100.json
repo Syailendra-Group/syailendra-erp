@@ -1,0 +1,100 @@
+[
+  {
+    "code": "72.12.100.001",
+    "villageCode": "001",
+    "districtCode": "72.12.100",
+    "name": "Kolo Atas",
+    "alias": "Kolo Atas"
+  },
+  {
+    "code": "72.12.100.002",
+    "villageCode": "002",
+    "districtCode": "72.12.100",
+    "name": "Kolo Bawah",
+    "alias": "Kolo Bawah"
+  },
+  {
+    "code": "72.12.100.003",
+    "villageCode": "003",
+    "districtCode": "72.12.100",
+    "name": "Momo",
+    "alias": "Momo"
+  },
+  {
+    "code": "72.12.100.004",
+    "villageCode": "004",
+    "districtCode": "72.12.100",
+    "name": "Giri Mulya",
+    "alias": "Giri Mulya"
+  },
+  {
+    "code": "72.12.100.005",
+    "villageCode": "005",
+    "districtCode": "72.12.100",
+    "name": "Tananagaya",
+    "alias": "Tananagaya"
+  },
+  {
+    "code": "72.12.100.006",
+    "villageCode": "006",
+    "districtCode": "72.12.100",
+    "name": "Tana Sumpu",
+    "alias": "Tana Sumpu"
+  },
+  {
+    "code": "72.12.100.007",
+    "villageCode": "007",
+    "districtCode": "72.12.100",
+    "name": "Pandauke",
+    "alias": "Pandauke"
+  },
+  {
+    "code": "72.12.100.008",
+    "villageCode": "008",
+    "districtCode": "72.12.100",
+    "name": "Tambale",
+    "alias": "Tambale"
+  },
+  {
+    "code": "72.12.100.009",
+    "villageCode": "009",
+    "districtCode": "72.12.100",
+    "name": "Winangabino",
+    "alias": "Winangabino"
+  },
+  {
+    "code": "72.12.100.010",
+    "villageCode": "010",
+    "districtCode": "72.12.100",
+    "name": "Sea",
+    "alias": "Sea"
+  },
+  {
+    "code": "72.12.100.011",
+    "villageCode": "011",
+    "districtCode": "72.12.100",
+    "name": "Uepakatu",
+    "alias": "Uepakatu"
+  },
+  {
+    "code": "72.12.100.012",
+    "villageCode": "012",
+    "districtCode": "72.12.100",
+    "name": "Parangisi",
+    "alias": "Parangisi"
+  },
+  {
+    "code": "72.12.100.013",
+    "villageCode": "013",
+    "districtCode": "72.12.100",
+    "name": "Lijo",
+    "alias": "Lijo"
+  },
+  {
+    "code": "72.12.100.014",
+    "villageCode": "014",
+    "districtCode": "72.12.100",
+    "name": "Menyo E",
+    "alias": "Menyo E"
+  }
+]

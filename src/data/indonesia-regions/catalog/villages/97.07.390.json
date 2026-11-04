@@ -1,0 +1,65 @@
+[
+  {
+    "code": "97.07.390.001",
+    "villageCode": "001",
+    "districtCode": "97.07.390",
+    "name": "Seradala",
+    "alias": "Seradala"
+  },
+  {
+    "code": "97.07.390.002",
+    "villageCode": "002",
+    "districtCode": "97.07.390",
+    "name": "Moruf",
+    "alias": "Moruf"
+  },
+  {
+    "code": "97.07.390.003",
+    "villageCode": "003",
+    "districtCode": "97.07.390",
+    "name": "Koper",
+    "alias": "Koper"
+  },
+  {
+    "code": "97.07.390.004",
+    "villageCode": "004",
+    "districtCode": "97.07.390",
+    "name": "Teret",
+    "alias": "Teret"
+  },
+  {
+    "code": "97.07.390.005",
+    "villageCode": "005",
+    "districtCode": "97.07.390",
+    "name": "Tokuni",
+    "alias": "Tokuni"
+  },
+  {
+    "code": "97.07.390.006",
+    "villageCode": "006",
+    "districtCode": "97.07.390",
+    "name": "Burupmakot",
+    "alias": "Burupmakot"
+  },
+  {
+    "code": "97.07.390.007",
+    "villageCode": "007",
+    "districtCode": "97.07.390",
+    "name": "Yasip",
+    "alias": "Yasip"
+  },
+  {
+    "code": "97.07.390.008",
+    "villageCode": "008",
+    "districtCode": "97.07.390",
+    "name": "Masomduba",
+    "alias": "Masomduba"
+  },
+  {
+    "code": "97.07.390.009",
+    "villageCode": "009",
+    "districtCode": "97.07.390",
+    "name": "Samboga",
+    "alias": "Samboga"
+  }
+]

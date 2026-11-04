@@ -1,0 +1,72 @@
+[
+  {
+    "code": "81.01.054.001",
+    "villageCode": "001",
+    "districtCode": "81.01.054",
+    "name": "Lorwembun",
+    "alias": "Lorwembun"
+  },
+  {
+    "code": "81.01.054.002",
+    "villageCode": "002",
+    "districtCode": "81.01.054",
+    "name": "Alusi Batjas",
+    "alias": "Alusi Batjas"
+  },
+  {
+    "code": "81.01.054.003",
+    "villageCode": "003",
+    "districtCode": "81.01.054",
+    "name": "Alusi Tamrian",
+    "alias": "Alusi Tamrian"
+  },
+  {
+    "code": "81.01.054.004",
+    "villageCode": "004",
+    "districtCode": "81.01.054",
+    "name": "Alusi Buuk Jalin",
+    "alias": "Alusi Buuk Jalin"
+  },
+  {
+    "code": "81.01.054.005",
+    "villageCode": "005",
+    "districtCode": "81.01.054",
+    "name": "Alusi Kelaan",
+    "alias": "Alusi Kelaan"
+  },
+  {
+    "code": "81.01.054.006",
+    "villageCode": "006",
+    "districtCode": "81.01.054",
+    "name": "Alusi Krawain",
+    "alias": "Alusi Krawain"
+  },
+  {
+    "code": "81.01.054.008",
+    "villageCode": "008",
+    "districtCode": "81.01.054",
+    "name": "Kilmasa",
+    "alias": "Kilmasa"
+  },
+  {
+    "code": "81.01.054.009",
+    "villageCode": "009",
+    "districtCode": "81.01.054",
+    "name": "Lumasebu",
+    "alias": "Lumasebu"
+  },
+  {
+    "code": "81.01.054.010",
+    "villageCode": "010",
+    "districtCode": "81.01.054",
+    "name": "Meyano Bab",
+    "alias": "Meyano Bab"
+  },
+  {
+    "code": "81.01.054.011",
+    "villageCode": "011",
+    "districtCode": "81.01.054",
+    "name": "Meyano Das",
+    "alias": "Meyano Das"
+  }
+]

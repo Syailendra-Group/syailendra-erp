@@ -1,0 +1,58 @@
+[
+  {
+    "code": "73.71.060.001",
+    "villageCode": "001",
+    "districtCode": "73.71.060",
+    "name": "Pattunuang",
+    "alias": "Pattunuang"
+  },
+  {
+    "code": "73.71.060.002",
+    "villageCode": "002",
+    "districtCode": "73.71.060",
+    "name": "Ende",
+    "alias": "Ende"
+  },
+  {
+    "code": "73.71.060.003",
+    "villageCode": "003",
+    "districtCode": "73.71.060",
+    "name": "Melayu Baru",
+    "alias": "Melayu Baru"
+  },
+  {
+    "code": "73.71.060.004",
+    "villageCode": "004",
+    "districtCode": "73.71.060",
+    "name": "Melayu",
+    "alias": "Melayu"
+  },
+  {
+    "code": "73.71.060.005",
+    "villageCode": "005",
+    "districtCode": "73.71.060",
+    "name": "Butung",
+    "alias": "Butung"
+  },
+  {
+    "code": "73.71.060.006",
+    "villageCode": "006",
+    "districtCode": "73.71.060",
+    "name": "Mampu",
+    "alias": "Mampu"
+  },
+  {
+    "code": "73.71.060.007",
+    "villageCode": "007",
+    "districtCode": "73.71.060",
+    "name": "Malimongan",
+    "alias": "Malimongan"
+  },
+  {
+    "code": "73.71.060.008",
+    "villageCode": "008",
+    "districtCode": "73.71.060",
+    "name": "Malimongan Tua",
+    "alias": "Malimongan Tua"
+  }
+]

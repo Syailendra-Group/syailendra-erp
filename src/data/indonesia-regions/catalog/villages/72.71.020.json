@@ -1,0 +1,37 @@
+[
+  {
+    "code": "72.71.020.004",
+    "villageCode": "004",
+    "districtCode": "72.71.020",
+    "name": "Birobuli Selatan",
+    "alias": "Birobuli Selatan"
+  },
+  {
+    "code": "72.71.020.005",
+    "villageCode": "005",
+    "districtCode": "72.71.020",
+    "name": "Petobo",
+    "alias": "Petobo"
+  },
+  {
+    "code": "72.71.020.007",
+    "villageCode": "007",
+    "districtCode": "72.71.020",
+    "name": "Birobuli Utara",
+    "alias": "Birobuli Utara"
+  },
+  {
+    "code": "72.71.020.008",
+    "villageCode": "008",
+    "districtCode": "72.71.020",
+    "name": "Tatura Utara",
+    "alias": "Tatura Utara"
+  },
+  {
+    "code": "72.71.020.009",
+    "villageCode": "009",
+    "districtCode": "72.71.020",
+    "name": "Tatura Selatan",
+    "alias": "Tatura Selatan"
+  }
+]

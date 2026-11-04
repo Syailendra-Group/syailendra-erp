@@ -1,0 +1,100 @@
+[
+  {
+    "code": "61.08.020.001",
+    "villageCode": "001",
+    "districtCode": "61.08.020",
+    "name": "Nanga Ngeri",
+    "alias": "Nanga Ngeri"
+  },
+  {
+    "code": "61.08.020.002",
+    "villageCode": "002",
+    "districtCode": "61.08.020",
+    "name": "Landau Badai",
+    "alias": "Landau Badai"
+  },
+  {
+    "code": "61.08.020.003",
+    "villageCode": "003",
+    "districtCode": "61.08.020",
+    "name": "Nanga Lungu",
+    "alias": "Nanga Lungu"
+  },
+  {
+    "code": "61.08.020.004",
+    "villageCode": "004",
+    "districtCode": "61.08.020",
+    "name": "Nanga Luan",
+    "alias": "Nanga Luan"
+  },
+  {
+    "code": "61.08.020.005",
+    "villageCode": "005",
+    "districtCode": "61.08.020",
+    "name": "Belimbing",
+    "alias": "Belimbing"
+  },
+  {
+    "code": "61.08.020.006",
+    "villageCode": "006",
+    "districtCode": "61.08.020",
+    "name": "Nanga Dangkan",
+    "alias": "Nanga Dangkan"
+  },
+  {
+    "code": "61.08.020.007",
+    "villageCode": "007",
+    "districtCode": "61.08.020",
+    "name": "Riam Tapang",
+    "alias": "Riam Tapang"
+  },
+  {
+    "code": "61.08.020.008",
+    "villageCode": "008",
+    "districtCode": "61.08.020",
+    "name": "Dangkan Kota",
+    "alias": "Dangkan Kota"
+  },
+  {
+    "code": "61.08.020.009",
+    "villageCode": "009",
+    "districtCode": "61.08.020",
+    "name": "Lebak Najah",
+    "alias": "Lebak Najah"
+  },
+  {
+    "code": "61.08.020.010",
+    "villageCode": "010",
+    "districtCode": "61.08.020",
+    "name": "Perejuk",
+    "alias": "Perejuk"
+  },
+  {
+    "code": "61.08.020.011",
+    "villageCode": "011",
+    "districtCode": "61.08.020",
+    "name": "Landau Rantau",
+    "alias": "Landau Rantau"
+  },
+  {
+    "code": "61.08.020.012",
+    "villageCode": "012",
+    "districtCode": "61.08.020",
+    "name": "Entebi",
+    "alias": "Entebi"
+  },
+  {
+    "code": "61.08.020.013",
+    "villageCode": "013",
+    "districtCode": "61.08.020",
+    "name": "Selangkai",
+    "alias": "Selangkai"
+  },
+  {
+    "code": "61.08.020.014",
+    "villageCode": "014",
+    "districtCode": "61.08.020",
+    "name": "Selimu",
+    "alias": "Selimu"
+  }
+]

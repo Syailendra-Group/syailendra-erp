@@ -1,0 +1,72 @@
+[
+  {
+    "code": "97.04.020.001",
+    "villageCode": "001",
+    "districtCode": "97.04.020",
+    "name": "Jigonime",
+    "alias": "Jigonime"
+  },
+  {
+    "code": "97.04.020.002",
+    "villageCode": "002",
+    "districtCode": "97.04.020",
+    "name": "Pagona",
+    "alias": "Pagona"
+  },
+  {
+    "code": "97.04.020.003",
+    "villageCode": "003",
+    "districtCode": "97.04.020",
+    "name": "Mome",
+    "alias": "Mome"
+  },
+  {
+    "code": "97.04.020.004",
+    "villageCode": "004",
+    "districtCode": "97.04.020",
+    "name": "Bogum",
+    "alias": "Bogum"
+  },
+  {
+    "code": "97.04.020.005",
+    "villageCode": "005",
+    "districtCode": "97.04.020",
+    "name": "Yaliwak",
+    "alias": "Yaliwak"
+  },
+  {
+    "code": "97.04.020.006",
+    "villageCode": "006",
+    "districtCode": "97.04.020",
+    "name": "Lugwi",
+    "alias": "Lugwi"
+  },
+  {
+    "code": "97.04.020.007",
+    "villageCode": "007",
+    "districtCode": "97.04.020",
+    "name": "Teropme",
+    "alias": "Teropme"
+  },
+  {
+    "code": "97.04.020.008",
+    "villageCode": "008",
+    "districtCode": "97.04.020",
+    "name": "Wonabu",
+    "alias": "Wonabu"
+  },
+  {
+    "code": "97.04.020.009",
+    "villageCode": "009",
+    "districtCode": "97.04.020",
+    "name": "Wilileme",
+    "alias": "Wilileme"
+  },
+  {
+    "code": "97.04.020.010",
+    "villageCode": "010",
+    "districtCode": "97.04.020",
+    "name": "Yangguni",
+    "alias": "Yangguni"
+  }
+]

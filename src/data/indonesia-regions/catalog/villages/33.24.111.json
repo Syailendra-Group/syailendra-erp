@@ -1,0 +1,86 @@
+[
+  {
+    "code": "33.24.111.001",
+    "villageCode": "001",
+    "districtCode": "33.24.111",
+    "name": "Ngerjo",
+    "alias": "Ngerjo"
+  },
+  {
+    "code": "33.24.111.002",
+    "villageCode": "002",
+    "districtCode": "33.24.111",
+    "name": "Kedungasri",
+    "alias": "Kedungasri"
+  },
+  {
+    "code": "33.24.111.003",
+    "villageCode": "003",
+    "districtCode": "33.24.111",
+    "name": "Kedunggading",
+    "alias": "Kedunggading"
+  },
+  {
+    "code": "33.24.111.004",
+    "villageCode": "004",
+    "districtCode": "33.24.111",
+    "name": "Ringinarum",
+    "alias": "Ringinarum"
+  },
+  {
+    "code": "33.24.111.005",
+    "villageCode": "005",
+    "districtCode": "33.24.111",
+    "name": "Tejorejo",
+    "alias": "Tejorejo"
+  },
+  {
+    "code": "33.24.111.006",
+    "villageCode": "006",
+    "districtCode": "33.24.111",
+    "name": "Ngawensari",
+    "alias": "Ngawensari"
+  },
+  {
+    "code": "33.24.111.007",
+    "villageCode": "007",
+    "districtCode": "33.24.111",
+    "name": "Wungurejo",
+    "alias": "Wungurejo"
+  },
+  {
+    "code": "33.24.111.008",
+    "villageCode": "008",
+    "districtCode": "33.24.111",
+    "name": "Rowobranten",
+    "alias": "Rowobranten"
+  },
+  {
+    "code": "33.24.111.009",
+    "villageCode": "009",
+    "districtCode": "33.24.111",
+    "name": "Mojo",
+    "alias": "Mojo"
+  },
+  {
+    "code": "33.24.111.010",
+    "villageCode": "010",
+    "districtCode": "33.24.111",
+    "name": "Purworejo",
+    "alias": "Purworejo"
+  },
+  {
+    "code": "33.24.111.011",
+    "villageCode": "011",
+    "districtCode": "33.24.111",
+    "name": "Pagerdawung",
+    "alias": "Pagerdawung"
+  },
+  {
+    "code": "33.24.111.012",
+    "villageCode": "012",
+    "districtCode": "33.24.111",
+    "name": "Caruban",
+    "alias": "Caruban"
+  }
+]

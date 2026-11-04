@@ -1,0 +1,51 @@
+[
+  {
+    "code": "53.07.021.001",
+    "villageCode": "001",
+    "districtCode": "53.07.021",
+    "name": "Lakatuli",
+    "alias": "Lakatuli"
+  },
+  {
+    "code": "53.07.021.002",
+    "villageCode": "002",
+    "districtCode": "53.07.021",
+    "name": "Mataru Selatan",
+    "alias": "Mataru Selatan"
+  },
+  {
+    "code": "53.07.021.003",
+    "villageCode": "003",
+    "districtCode": "53.07.021",
+    "name": "Kamaifui",
+    "alias": "Kamaifui"
+  },
+  {
+    "code": "53.07.021.004",
+    "villageCode": "004",
+    "districtCode": "53.07.021",
+    "name": "Taman Mataru",
+    "alias": "Taman Mataru"
+  },
+  {
+    "code": "53.07.021.005",
+    "villageCode": "005",
+    "districtCode": "53.07.021",
+    "name": "Mataru Timur",
+    "alias": "Mataru Timur"
+  },
+  {
+    "code": "53.07.021.006",
+    "villageCode": "006",
+    "districtCode": "53.07.021",
+    "name": "Mataru Utara",
+    "alias": "Mataru Utara"
+  },
+  {
+    "code": "53.07.021.007",
+    "villageCode": "007",
+    "districtCode": "53.07.021",
+    "name": "Mataru Barat",
+    "alias": "Mataru Barat"
+  }
+]

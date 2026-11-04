@@ -1,0 +1,30 @@
+[
+  {
+    "code": "32.74.050.001",
+    "villageCode": "001",
+    "districtCode": "32.74.050",
+    "name": "Kejaksan",
+    "alias": "Kejaksan"
+  },
+  {
+    "code": "32.74.050.002",
+    "villageCode": "002",
+    "districtCode": "32.74.050",
+    "name": "Kebonbaru",
+    "alias": "Kebonbaru"
+  },
+  {
+    "code": "32.74.050.003",
+    "villageCode": "003",
+    "districtCode": "32.74.050",
+    "name": "Sukapura",
+    "alias": "Sukapura"
+  },
+  {
+    "code": "32.74.050.004",
+    "villageCode": "004",
+    "districtCode": "32.74.050",
+    "name": "Kesenden",
+    "alias": "Kesenden"
+  }
+]

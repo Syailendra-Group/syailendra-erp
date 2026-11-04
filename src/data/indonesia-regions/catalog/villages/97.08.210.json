@@ -1,0 +1,51 @@
+[
+  {
+    "code": "97.08.210.001",
+    "villageCode": "001",
+    "districtCode": "97.08.210",
+    "name": "Aboy",
+    "alias": "Aboy"
+  },
+  {
+    "code": "97.08.210.002",
+    "villageCode": "002",
+    "districtCode": "97.08.210",
+    "name": "Luban",
+    "alias": "Luban"
+  },
+  {
+    "code": "97.08.210.003",
+    "villageCode": "003",
+    "districtCode": "97.08.210",
+    "name": "Lulis Wil",
+    "alias": "Lulis Wil"
+  },
+  {
+    "code": "97.08.210.004",
+    "villageCode": "004",
+    "districtCode": "97.08.210",
+    "name": "Pipal",
+    "alias": "Pipal"
+  },
+  {
+    "code": "97.08.210.005",
+    "villageCode": "005",
+    "districtCode": "97.08.210",
+    "name": "Woro",
+    "alias": "Woro"
+  },
+  {
+    "code": "97.08.210.006",
+    "villageCode": "006",
+    "districtCode": "97.08.210",
+    "name": "Armise",
+    "alias": "Armise"
+  },
+  {
+    "code": "97.08.210.007",
+    "villageCode": "007",
+    "districtCode": "97.08.210",
+    "name": "Jubly",
+    "alias": "Jubly"
+  }
+]

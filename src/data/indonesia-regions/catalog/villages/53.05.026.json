@@ -1,0 +1,30 @@
+[
+  {
+    "code": "53.05.026.001",
+    "villageCode": "001",
+    "districtCode": "53.05.026",
+    "name": "Sunsea",
+    "alias": "Sunsea"
+  },
+  {
+    "code": "53.05.026.002",
+    "villageCode": "002",
+    "districtCode": "53.05.026",
+    "name": "Bakitolas",
+    "alias": "Bakitolas"
+  },
+  {
+    "code": "53.05.026.003",
+    "villageCode": "003",
+    "districtCode": "53.05.026",
+    "name": "Benus",
+    "alias": "Benus"
+  },
+  {
+    "code": "53.05.026.004",
+    "villageCode": "004",
+    "districtCode": "53.05.026",
+    "name": "Manamas",
+    "alias": "Manamas"
+  }
+]

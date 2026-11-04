@@ -1,0 +1,44 @@
+[
+  {
+    "code": "14.09.012.001",
+    "villageCode": "001",
+    "districtCode": "14.09.012",
+    "name": "Melayu Besar",
+    "alias": "Melayu Besar"
+  },
+  {
+    "code": "14.09.012.002",
+    "villageCode": "002",
+    "districtCode": "14.09.012",
+    "name": "Melayu Tengah",
+    "alias": "Melayu Tengah"
+  },
+  {
+    "code": "14.09.012.003",
+    "villageCode": "003",
+    "districtCode": "14.09.012",
+    "name": "Batu Hampar",
+    "alias": "Batu Hampar"
+  },
+  {
+    "code": "14.09.012.004",
+    "villageCode": "004",
+    "districtCode": "14.09.012",
+    "name": "Mesah",
+    "alias": "Mesah"
+  },
+  {
+    "code": "14.09.012.005",
+    "villageCode": "005",
+    "districtCode": "14.09.012",
+    "name": "Labuhan Papan",
+    "alias": "Labuhan Papan"
+  },
+  {
+    "code": "14.09.012.006",
+    "villageCode": "006",
+    "districtCode": "14.09.012",
+    "name": "Melayu Besar Kota",
+    "alias": "Melayu Besar Kota"
+  }
+]

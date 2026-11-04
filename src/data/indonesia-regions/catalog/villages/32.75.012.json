@@ -1,0 +1,30 @@
+[
+  {
+    "code": "32.75.012.001",
+    "villageCode": "001",
+    "districtCode": "32.75.012",
+    "name": "Jatimurni",
+    "alias": "Jatimurni"
+  },
+  {
+    "code": "32.75.012.002",
+    "villageCode": "002",
+    "districtCode": "32.75.012",
+    "name": "Jatimelati",
+    "alias": "Jatimelati"
+  },
+  {
+    "code": "32.75.012.003",
+    "villageCode": "003",
+    "districtCode": "32.75.012",
+    "name": "Jatiwarna",
+    "alias": "Jatiwarna"
+  },
+  {
+    "code": "32.75.012.004",
+    "villageCode": "004",
+    "districtCode": "32.75.012",
+    "name": "Jatirahayu",
+    "alias": "Jatirahayu"
+  }
+]

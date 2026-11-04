@@ -1,0 +1,65 @@
+[
+  {
+    "code": "33.15.140.001",
+    "villageCode": "001",
+    "districtCode": "33.15.140",
+    "name": "Menduran",
+    "alias": "Menduran"
+  },
+  {
+    "code": "33.15.140.002",
+    "villageCode": "002",
+    "districtCode": "33.15.140",
+    "name": "Jangkungharjo",
+    "alias": "Jangkungharjo"
+  },
+  {
+    "code": "33.15.140.003",
+    "villageCode": "003",
+    "districtCode": "33.15.140",
+    "name": "Temon",
+    "alias": "Temon"
+  },
+  {
+    "code": "33.15.140.004",
+    "villageCode": "004",
+    "districtCode": "33.15.140",
+    "name": "Lemahputih",
+    "alias": "Lemahputih"
+  },
+  {
+    "code": "33.15.140.005",
+    "villageCode": "005",
+    "districtCode": "33.15.140",
+    "name": "Tirem",
+    "alias": "Tirem"
+  },
+  {
+    "code": "33.15.140.006",
+    "villageCode": "006",
+    "districtCode": "33.15.140",
+    "name": "Karangsari",
+    "alias": "Karangsari"
+  },
+  {
+    "code": "33.15.140.007",
+    "villageCode": "007",
+    "districtCode": "33.15.140",
+    "name": "Kronggen",
+    "alias": "Kronggen"
+  },
+  {
+    "code": "33.15.140.008",
+    "villageCode": "008",
+    "districtCode": "33.15.140",
+    "name": "Katekan",
+    "alias": "Katekan"
+  },
+  {
+    "code": "33.15.140.009",
+    "villageCode": "009",
+    "districtCode": "33.15.140",
+    "name": "Tegalsumur",
+    "alias": "Tegalsumur"
+  }
+]

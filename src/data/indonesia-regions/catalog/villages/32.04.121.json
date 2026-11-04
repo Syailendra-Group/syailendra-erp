@@ -1,0 +1,51 @@
+[
+  {
+    "code": "32.04.121.001",
+    "villageCode": "001",
+    "districtCode": "32.04.121",
+    "name": "Panyadap",
+    "alias": "Panyadap"
+  },
+  {
+    "code": "32.04.121.002",
+    "villageCode": "002",
+    "districtCode": "32.04.121",
+    "name": "Padamukti",
+    "alias": "Padamukti"
+  },
+  {
+    "code": "32.04.121.003",
+    "villageCode": "003",
+    "districtCode": "32.04.121",
+    "name": "Cibodas",
+    "alias": "Cibodas"
+  },
+  {
+    "code": "32.04.121.004",
+    "villageCode": "004",
+    "districtCode": "32.04.121",
+    "name": "Langensari",
+    "alias": "Langensari"
+  },
+  {
+    "code": "32.04.121.005",
+    "villageCode": "005",
+    "districtCode": "32.04.121",
+    "name": "Solokanjeruk",
+    "alias": "Solokanjeruk"
+  },
+  {
+    "code": "32.04.121.006",
+    "villageCode": "006",
+    "districtCode": "32.04.121",
+    "name": "Rancakasumba",
+    "alias": "Rancakasumba"
+  },
+  {
+    "code": "32.04.121.007",
+    "villageCode": "007",
+    "districtCode": "32.04.121",
+    "name": "Bojongemas",
+    "alias": "Bojongemas"
+  }
+]

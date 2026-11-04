@@ -1,0 +1,37 @@
+[
+  {
+    "code": "32.73.240.001",
+    "villageCode": "001",
+    "districtCode": "32.73.240",
+    "name": "Sukawarna",
+    "alias": "Sukawarna"
+  },
+  {
+    "code": "32.73.240.002",
+    "villageCode": "002",
+    "districtCode": "32.73.240",
+    "name": "Sukagalih",
+    "alias": "Sukagalih"
+  },
+  {
+    "code": "32.73.240.003",
+    "villageCode": "003",
+    "districtCode": "32.73.240",
+    "name": "Sukabungah",
+    "alias": "Sukabungah"
+  },
+  {
+    "code": "32.73.240.004",
+    "villageCode": "004",
+    "districtCode": "32.73.240",
+    "name": "Cipedes",
+    "alias": "Cipedes"
+  },
+  {
+    "code": "32.73.240.005",
+    "villageCode": "005",
+    "districtCode": "32.73.240",
+    "name": "Pasteur",
+    "alias": "Pasteur"
+  }
+]

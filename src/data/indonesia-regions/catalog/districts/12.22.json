@@ -1,0 +1,42 @@
+[
+  {
+    "code": "12.22.010",
+    "districtCode": "010",
+    "regencyCode": "12.22",
+    "provinceCode": "12",
+    "name": "Kecamatan Sungai Kanan",
+    "alias": "Sungai Kanan"
+  },
+  {
+    "code": "12.22.020",
+    "districtCode": "020",
+    "regencyCode": "12.22",
+    "provinceCode": "12",
+    "name": "Kecamatan Torgamba",
+    "alias": "Torgamba"
+  },
+  {
+    "code": "12.22.030",
+    "districtCode": "030",
+    "regencyCode": "12.22",
+    "provinceCode": "12",
+    "name": "Kecamatan Kota Pinang",
+    "alias": "Kota Pinang"
+  },
+  {
+    "code": "12.22.040",
+    "districtCode": "040",
+    "regencyCode": "12.22",
+    "provinceCode": "12",
+    "name": "Kecamatan Silangkitang",
+    "alias": "Silangkitang"
+  },
+  {
+    "code": "12.22.050",
+    "districtCode": "050",
+    "regencyCode": "12.22",
+    "provinceCode": "12",
+    "name": "Kecamatan Kampung Rakyat",
+    "alias": "Kampung Rakyat"
+  }
+]

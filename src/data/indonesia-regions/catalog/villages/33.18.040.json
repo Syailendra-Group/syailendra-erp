@@ -1,0 +1,212 @@
+[
+  {
+    "code": "33.18.040.001",
+    "villageCode": "001",
+    "districtCode": "33.18.040",
+    "name": "Pohgading",
+    "alias": "Pohgading"
+  },
+  {
+    "code": "33.18.040.002",
+    "villageCode": "002",
+    "districtCode": "33.18.040",
+    "name": "Gunungpanti",
+    "alias": "Gunungpanti"
+  },
+  {
+    "code": "33.18.040.003",
+    "villageCode": "003",
+    "districtCode": "33.18.040",
+    "name": "Godo",
+    "alias": "Godo"
+  },
+  {
+    "code": "33.18.040.004",
+    "villageCode": "004",
+    "districtCode": "33.18.040",
+    "name": "Kropak",
+    "alias": "Kropak"
+  },
+  {
+    "code": "33.18.040.005",
+    "villageCode": "005",
+    "districtCode": "33.18.040",
+    "name": "Karangsumber",
+    "alias": "Karangsumber"
+  },
+  {
+    "code": "33.18.040.006",
+    "villageCode": "006",
+    "districtCode": "33.18.040",
+    "name": "Guyangan",
+    "alias": "Guyangan"
+  },
+  {
+    "code": "33.18.040.007",
+    "villageCode": "007",
+    "districtCode": "33.18.040",
+    "name": "Sugihan",
+    "alias": "Sugihan"
+  },
+  {
+    "code": "33.18.040.008",
+    "villageCode": "008",
+    "districtCode": "33.18.040",
+    "name": "Kebolampang",
+    "alias": "Kebolampang"
+  },
+  {
+    "code": "33.18.040.009",
+    "villageCode": "009",
+    "districtCode": "33.18.040",
+    "name": "Tlogorejo",
+    "alias": "Tlogorejo"
+  },
+  {
+    "code": "33.18.040.010",
+    "villageCode": "010",
+    "districtCode": "33.18.040",
+    "name": "Pagendisan",
+    "alias": "Pagendisan"
+  },
+  {
+    "code": "33.18.040.011",
+    "villageCode": "011",
+    "districtCode": "33.18.040",
+    "name": "Pekalongan",
+    "alias": "Pekalongan"
+  },
+  {
+    "code": "33.18.040.012",
+    "villageCode": "012",
+    "districtCode": "33.18.040",
+    "name": "Danyangmulyo",
+    "alias": "Danyangmulyo"
+  },
+  {
+    "code": "33.18.040.013",
+    "villageCode": "013",
+    "districtCode": "33.18.040",
+    "name": "Kudur",
+    "alias": "Kudur"
+  },
+  {
+    "code": "33.18.040.014",
+    "villageCode": "014",
+    "districtCode": "33.18.040",
+    "name": "Padangan",
+    "alias": "Padangan"
+  },
+  {
+    "code": "33.18.040.015",
+    "villageCode": "015",
+    "districtCode": "33.18.040",
+    "name": "Blingijati",
+    "alias": "Blingijati"
+  },
+  {
+    "code": "33.18.040.016",
+    "villageCode": "016",
+    "districtCode": "33.18.040",
+    "name": "Mintorahayu",
+    "alias": "Mintorahayu"
+  },
+  {
+    "code": "33.18.040.017",
+    "villageCode": "017",
+    "districtCode": "33.18.040",
+    "name": "Kebowan",
+    "alias": "Kebowan"
+  },
+  {
+    "code": "33.18.040.018",
+    "villageCode": "018",
+    "districtCode": "33.18.040",
+    "name": "Winong",
+    "alias": "Winong"
+  },
+  {
+    "code": "33.18.040.019",
+    "villageCode": "019",
+    "districtCode": "33.18.040",
+    "name": "Klecoregonang",
+    "alias": "Klecoregonang"
+  },
+  {
+    "code": "33.18.040.020",
+    "villageCode": "020",
+    "districtCode": "33.18.040",
+    "name": "Bumiharjo",
+    "alias": "Bumiharjo"
+  },
+  {
+    "code": "33.18.040.021",
+    "villageCode": "021",
+    "districtCode": "33.18.040",
+    "name": "Tawangrejo",
+    "alias": "Tawangrejo"
+  },
+  {
+    "code": "33.18.040.022",
+    "villageCode": "022",
+    "districtCode": "33.18.040",
+    "name": "Bringinwareng",
+    "alias": "Bringinwareng"
+  },
+  {
+    "code": "33.18.040.023",
+    "villageCode": "023",
+    "districtCode": "33.18.040",
+    "name": "Sumbermulyo",
+    "alias": "Sumbermulyo"
+  },
+  {
+    "code": "33.18.040.024",
+    "villageCode": "024",
+    "districtCode": "33.18.040",
+    "name": "Degan",
+    "alias": "Degan"
+  },
+  {
+    "code": "33.18.040.025",
+    "villageCode": "025",
+    "districtCode": "33.18.040",
+    "name": "Serutsadang",
+    "alias": "Serutsadang"
+  },
+  {
+    "code": "33.18.040.026",
+    "villageCode": "026",
+    "districtCode": "33.18.040",
+    "name": "Pulorejo",
+    "alias": "Pulorejo"
+  },
+  {
+    "code": "33.18.040.027",
+    "villageCode": "027",
+    "districtCode": "33.18.040",
+    "name": "Karangkonang",
+    "alias": "Karangkonang"
+  },
+  {
+    "code": "33.18.040.028",
+    "villageCode": "028",
+    "districtCode": "33.18.040",
+    "name": "Tanggel",
+    "alias": "Tanggel"
+  },
+  {
+    "code": "33.18.040.029",
+    "villageCode": "029",
+    "districtCode": "33.18.040",
+    "name": "Wirun",
+    "alias": "Wirun"
+  },
+  {
+    "code": "33.18.040.030",
+    "villageCode": "030",
+    "districtCode": "33.18.040",
+    "name": "Sarimulyo",
+    "alias": "Sarimulyo"
+  }
+]

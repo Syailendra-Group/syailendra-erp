@@ -1,0 +1,65 @@
+[
+  {
+    "code": "75.04.044.001",
+    "villageCode": "001",
+    "districtCode": "75.04.044",
+    "name": "Kaidundu",
+    "alias": "Kaidundu"
+  },
+  {
+    "code": "75.04.044.002",
+    "villageCode": "002",
+    "districtCode": "75.04.044",
+    "name": "Mamungaa",
+    "alias": "Mamungaa"
+  },
+  {
+    "code": "75.04.044.003",
+    "villageCode": "003",
+    "districtCode": "75.04.044",
+    "name": "Kaidundu Barat",
+    "alias": "Kaidundu Barat"
+  },
+  {
+    "code": "75.04.044.004",
+    "villageCode": "004",
+    "districtCode": "75.04.044",
+    "name": "Mopuya",
+    "alias": "Mopuya"
+  },
+  {
+    "code": "75.04.044.005",
+    "villageCode": "005",
+    "districtCode": "75.04.044",
+    "name": "Pinomontiga",
+    "alias": "Pinomontiga"
+  },
+  {
+    "code": "75.04.044.006",
+    "villageCode": "006",
+    "districtCode": "75.04.044",
+    "name": "Dunggilata",
+    "alias": "Dunggilata"
+  },
+  {
+    "code": "75.04.044.007",
+    "villageCode": "007",
+    "districtCode": "75.04.044",
+    "name": "Mamungaa Timur",
+    "alias": "Mamungaa Timur"
+  },
+  {
+    "code": "75.04.044.008",
+    "villageCode": "008",
+    "districtCode": "75.04.044",
+    "name": "Bukit Hijau",
+    "alias": "Bukit Hijau"
+  },
+  {
+    "code": "75.04.044.009",
+    "villageCode": "009",
+    "districtCode": "75.04.044",
+    "name": "Patoa",
+    "alias": "Patoa"
+  }
+]

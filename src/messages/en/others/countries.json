@@ -1,33 +1,30 @@
 {
-  "title": "Countries Master Register",
-  "subtitle": "Catalog of export destinations and raw material origins",
+  "title": "Country Master Data",
+  "subtitle": "Catalog of export destination and raw material origin countries",
   "primaryAction": "Add Country",
   "table": {
     "name": "Country Name",
     "code": "ISO Code",
-    "phoneCode": "Phone Code",
-    "currency": "Currency"
+    "phoneCode": "Phone Code"
   },
   "form": {
     "name": "Official Country Name",
     "namePlaceholder": "e.g. Indonesia, Singapore, Japan",
-    "code": "Country Code (ISO 2-Letter)",
+    "code": "Country Code (2-Letter ISO)",
     "codePlaceholder": "e.g. ID, SG, JP",
-    "phoneCode": "International Dialing Code",
+    "phoneCode": "Phone Calling Code",
     "phoneCodePlaceholder": "e.g. 62, 65, 81",
-    "currency": "Official System Currency",
-    "currencyPlaceholder": "Select currency...",
     "description": "Description / Jurisdiction Notes (Optional)",
-    "descriptionPlaceholder": "Export-import regulatory notes, compliance jurisdiction, or agronomic remarks..."
+    "descriptionPlaceholder": "Export-import regulations, compliance jurisdiction, or agronomic notes..."
   },
   "dialog": {
     "addTitle": "Register New Country",
-    "addDesc": "Register export destination country or raw material origin.",
+    "addDesc": "Register an export destination or commodity origin country entity.",
     "editTitle": "Edit Country Data",
-    "editDesc": "Update name, ISO code, dialing code, or official currency.",
-    "viewTitle": "Country Data Details",
-    "viewDesc": "Full ISO specifications and registered official currency.",
-    "deleteTitle": "Delete Country Data",
+    "editDesc": "Update country name, ISO code, phone code, or description.",
+    "viewTitle": "Country Details",
+    "viewDesc": "Complete official ISO and phone code information for the country.",
+    "deleteTitle": "Delete Country",
     "deleteConfirm": "Delete Country"
   }
 }

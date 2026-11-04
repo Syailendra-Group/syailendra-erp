@@ -1,0 +1,37 @@
+[
+  {
+    "code": "51.03.020.001",
+    "villageCode": "001",
+    "districtCode": "51.03.020",
+    "name": "Kedonganan",
+    "alias": "Kedonganan"
+  },
+  {
+    "code": "51.03.020.002",
+    "villageCode": "002",
+    "districtCode": "51.03.020",
+    "name": "Tuban",
+    "alias": "Tuban"
+  },
+  {
+    "code": "51.03.020.003",
+    "villageCode": "003",
+    "districtCode": "51.03.020",
+    "name": "Kuta",
+    "alias": "Kuta"
+  },
+  {
+    "code": "51.03.020.004",
+    "villageCode": "004",
+    "districtCode": "51.03.020",
+    "name": "Legian",
+    "alias": "Legian"
+  },
+  {
+    "code": "51.03.020.005",
+    "villageCode": "005",
+    "districtCode": "51.03.020",
+    "name": "Seminyak",
+    "alias": "Seminyak"
+  }
+]

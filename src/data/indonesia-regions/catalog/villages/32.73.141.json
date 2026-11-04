@@ -1,0 +1,30 @@
+[
+  {
+    "code": "32.73.141.001",
+    "villageCode": "001",
+    "districtCode": "32.73.141",
+    "name": "Antapani Kidul",
+    "alias": "Antapani Kidul"
+  },
+  {
+    "code": "32.73.141.002",
+    "villageCode": "002",
+    "districtCode": "32.73.141",
+    "name": "Antapani Tengah",
+    "alias": "Antapani Tengah"
+  },
+  {
+    "code": "32.73.141.003",
+    "villageCode": "003",
+    "districtCode": "32.73.141",
+    "name": "Antapani Wetan",
+    "alias": "Antapani Wetan"
+  },
+  {
+    "code": "32.73.141.004",
+    "villageCode": "004",
+    "districtCode": "32.73.141",
+    "name": "Antapani Kulon",
+    "alias": "Antapani Kulon"
+  }
+]

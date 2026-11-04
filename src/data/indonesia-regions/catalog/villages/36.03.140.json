@@ -1,0 +1,65 @@
+[
+  {
+    "code": "36.03.140.001",
+    "villageCode": "001",
+    "districtCode": "36.03.140",
+    "name": "Koper",
+    "alias": "Koper"
+  },
+  {
+    "code": "36.03.140.002",
+    "villageCode": "002",
+    "districtCode": "36.03.140",
+    "name": "Pasir Ampo",
+    "alias": "Pasir Ampo"
+  },
+  {
+    "code": "36.03.140.003",
+    "villageCode": "003",
+    "districtCode": "36.03.140",
+    "name": "Patra Sana",
+    "alias": "Patra Sana"
+  },
+  {
+    "code": "36.03.140.004",
+    "villageCode": "004",
+    "districtCode": "36.03.140",
+    "name": "Renged",
+    "alias": "Renged"
+  },
+  {
+    "code": "36.03.140.005",
+    "villageCode": "005",
+    "districtCode": "36.03.140",
+    "name": "Talok",
+    "alias": "Talok"
+  },
+  {
+    "code": "36.03.140.006",
+    "villageCode": "006",
+    "districtCode": "36.03.140",
+    "name": "Jengkol",
+    "alias": "Jengkol"
+  },
+  {
+    "code": "36.03.140.007",
+    "villageCode": "007",
+    "districtCode": "36.03.140",
+    "name": "Kemuning",
+    "alias": "Kemuning"
+  },
+  {
+    "code": "36.03.140.008",
+    "villageCode": "008",
+    "districtCode": "36.03.140",
+    "name": "Ranca Ilat",
+    "alias": "Ranca Ilat"
+  },
+  {
+    "code": "36.03.140.011",
+    "villageCode": "011",
+    "districtCode": "36.03.140",
+    "name": "Kresek",
+    "alias": "Kresek"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "code": "15.72.050.001",
+    "villageCode": "001",
+    "districtCode": "15.72.050",
+    "name": "Koto Renah",
+    "alias": "Koto Renah"
+  },
+  {
+    "code": "15.72.050.002",
+    "villageCode": "002",
+    "districtCode": "15.72.050",
+    "name": "Koto Keras",
+    "alias": "Koto Keras"
+  },
+  {
+    "code": "15.72.050.007",
+    "villageCode": "007",
+    "districtCode": "15.72.050",
+    "name": "Koto Bento",
+    "alias": "Koto Bento"
+  },
+  {
+    "code": "15.72.050.008",
+    "villageCode": "008",
+    "districtCode": "15.72.050",
+    "name": "Koto Tengah",
+    "alias": "Koto Tengah"
+  },
+  {
+    "code": "15.72.050.009",
+    "villageCode": "009",
+    "districtCode": "15.72.050",
+    "name": "Koto Lolo",
+    "alias": "Koto Lolo"
+  },
+  {
+    "code": "15.72.050.010",
+    "villageCode": "010",
+    "districtCode": "15.72.050",
+    "name": "Koto Dua",
+    "alias": "Koto Dua"
+  },
+  {
+    "code": "15.72.050.011",
+    "villageCode": "011",
+    "districtCode": "15.72.050",
+    "name": "Seberang",
+    "alias": "Seberang"
+  },
+  {
+    "code": "15.72.050.012",
+    "villageCode": "012",
+    "districtCode": "15.72.050",
+    "name": "Sumur Gedang",
+    "alias": "Sumur Gedang"
+  },
+  {
+    "code": "15.72.050.013",
+    "villageCode": "013",
+    "districtCode": "15.72.050",
+    "name": "Sungai Liuk",
+    "alias": "Sungai Liuk"
+  }
+]

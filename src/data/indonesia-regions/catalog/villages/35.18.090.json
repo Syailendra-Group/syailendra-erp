@@ -1,0 +1,100 @@
+[
+  {
+    "code": "35.18.090.001",
+    "villageCode": "001",
+    "districtCode": "35.18.090",
+    "name": "Drenges",
+    "alias": "Drenges"
+  },
+  {
+    "code": "35.18.090.002",
+    "villageCode": "002",
+    "districtCode": "35.18.090",
+    "name": "Juwono",
+    "alias": "Juwono"
+  },
+  {
+    "code": "35.18.090.003",
+    "villageCode": "003",
+    "districtCode": "35.18.090",
+    "name": "Bangsri",
+    "alias": "Bangsri"
+  },
+  {
+    "code": "35.18.090.004",
+    "villageCode": "004",
+    "districtCode": "35.18.090",
+    "name": "Kalianyar",
+    "alias": "Kalianyar"
+  },
+  {
+    "code": "35.18.090.005",
+    "villageCode": "005",
+    "districtCode": "35.18.090",
+    "name": "Tanjung",
+    "alias": "Tanjung"
+  },
+  {
+    "code": "35.18.090.006",
+    "villageCode": "006",
+    "districtCode": "35.18.090",
+    "name": "Nglawak",
+    "alias": "Nglawak"
+  },
+  {
+    "code": "35.18.090.007",
+    "villageCode": "007",
+    "districtCode": "35.18.090",
+    "name": "Kepuh",
+    "alias": "Kepuh"
+  },
+  {
+    "code": "35.18.090.008",
+    "villageCode": "008",
+    "districtCode": "35.18.090",
+    "name": "Tembarak",
+    "alias": "Tembarak"
+  },
+  {
+    "code": "35.18.090.009",
+    "villageCode": "009",
+    "districtCode": "35.18.090",
+    "name": "Pelem",
+    "alias": "Pelem"
+  },
+  {
+    "code": "35.18.090.010",
+    "villageCode": "010",
+    "districtCode": "35.18.090",
+    "name": "Kutorejo",
+    "alias": "Kutorejo"
+  },
+  {
+    "code": "35.18.090.011",
+    "villageCode": "011",
+    "districtCode": "35.18.090",
+    "name": "Banaran",
+    "alias": "Banaran"
+  },
+  {
+    "code": "35.18.090.012",
+    "villageCode": "012",
+    "districtCode": "35.18.090",
+    "name": "Lambang Kuning",
+    "alias": "Lambang Kuning"
+  },
+  {
+    "code": "35.18.090.013",
+    "villageCode": "013",
+    "districtCode": "35.18.090",
+    "name": "Pandan Toyo",
+    "alias": "Pandan Toyo"
+  },
+  {
+    "code": "35.18.090.014",
+    "villageCode": "014",
+    "districtCode": "35.18.090",
+    "name": "Kudu",
+    "alias": "Kudu"
+  }
+]

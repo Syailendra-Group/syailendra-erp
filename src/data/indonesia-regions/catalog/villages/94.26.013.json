@@ -1,0 +1,58 @@
+[
+  {
+    "code": "94.26.013.001",
+    "villageCode": "001",
+    "districtCode": "94.26.013",
+    "name": "Sowiwa",
+    "alias": "Sowiwa"
+  },
+  {
+    "code": "94.26.013.002",
+    "villageCode": "002",
+    "districtCode": "94.26.013",
+    "name": "Ruambak Jaya Sp Vii",
+    "alias": "Ruambak Jaya Sp Vii"
+  },
+  {
+    "code": "94.26.013.003",
+    "villageCode": "003",
+    "districtCode": "94.26.013",
+    "name": "Baino Jaya Sp Iv",
+    "alias": "Baino Jaya Sp Iv"
+  },
+  {
+    "code": "94.26.013.004",
+    "villageCode": "004",
+    "districtCode": "94.26.013",
+    "name": "Botawa",
+    "alias": "Botawa"
+  },
+  {
+    "code": "94.26.013.005",
+    "villageCode": "005",
+    "districtCode": "94.26.013",
+    "name": "Aiboa/Epawa",
+    "alias": "Aiboa/Epawa"
+  },
+  {
+    "code": "94.26.013.006",
+    "villageCode": "006",
+    "districtCode": "94.26.013",
+    "name": "Rasawa",
+    "alias": "Rasawa"
+  },
+  {
+    "code": "94.26.013.007",
+    "villageCode": "007",
+    "districtCode": "94.26.013",
+    "name": "Morowa",
+    "alias": "Morowa"
+  },
+  {
+    "code": "94.26.013.008",
+    "villageCode": "008",
+    "districtCode": "94.26.013",
+    "name": "Nau",
+    "alias": "Nau"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "code": "32.13.141.001",
+    "villageCode": "001",
+    "districtCode": "32.13.141",
+    "name": "Balingbing",
+    "alias": "Balingbing"
+  },
+  {
+    "code": "32.13.141.002",
+    "villageCode": "002",
+    "districtCode": "32.13.141",
+    "name": "Cidadap",
+    "alias": "Cidadap"
+  },
+  {
+    "code": "32.13.141.003",
+    "villageCode": "003",
+    "districtCode": "32.13.141",
+    "name": "Cidahu",
+    "alias": "Cidahu"
+  },
+  {
+    "code": "32.13.141.004",
+    "villageCode": "004",
+    "districtCode": "32.13.141",
+    "name": "Pangsor",
+    "alias": "Pangsor"
+  },
+  {
+    "code": "32.13.141.005",
+    "villageCode": "005",
+    "districtCode": "32.13.141",
+    "name": "Munjul",
+    "alias": "Munjul"
+  },
+  {
+    "code": "32.13.141.006",
+    "villageCode": "006",
+    "districtCode": "32.13.141",
+    "name": "Margahayu",
+    "alias": "Margahayu"
+  },
+  {
+    "code": "32.13.141.007",
+    "villageCode": "007",
+    "districtCode": "32.13.141",
+    "name": "Bendungan",
+    "alias": "Bendungan"
+  },
+  {
+    "code": "32.13.141.008",
+    "villageCode": "008",
+    "districtCode": "32.13.141",
+    "name": "Mekarwangi",
+    "alias": "Mekarwangi"
+  },
+  {
+    "code": "32.13.141.009",
+    "villageCode": "009",
+    "districtCode": "32.13.141",
+    "name": "Sumurgintung",
+    "alias": "Sumurgintung"
+  }
+]

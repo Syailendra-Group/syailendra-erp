@@ -1,0 +1,37 @@
+[
+  {
+    "code": "14.71.023.001",
+    "villageCode": "001",
+    "districtCode": "14.71.023",
+    "name": "Pebatuan",
+    "alias": "Pebatuan"
+  },
+  {
+    "code": "14.71.023.002",
+    "villageCode": "002",
+    "districtCode": "14.71.023",
+    "name": "Sialang Rampai",
+    "alias": "Sialang Rampai"
+  },
+  {
+    "code": "14.71.023.003",
+    "villageCode": "003",
+    "districtCode": "14.71.023",
+    "name": "Mentangor",
+    "alias": "Mentangor"
+  },
+  {
+    "code": "14.71.023.004",
+    "villageCode": "004",
+    "districtCode": "14.71.023",
+    "name": "Pematang Kapau",
+    "alias": "Pematang Kapau"
+  },
+  {
+    "code": "14.71.023.005",
+    "villageCode": "005",
+    "districtCode": "14.71.023",
+    "name": "Kulim",
+    "alias": "Kulim"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "code": "97.02.090.001",
+    "villageCode": "001",
+    "districtCode": "97.02.090",
+    "name": "Putagaima",
+    "alias": "Putagaima"
+  },
+  {
+    "code": "97.02.090.002",
+    "villageCode": "002",
+    "districtCode": "97.02.090",
+    "name": "Sogokmo",
+    "alias": "Sogokmo"
+  },
+  {
+    "code": "97.02.090.003",
+    "villageCode": "003",
+    "districtCode": "97.02.090",
+    "name": "Asotipo",
+    "alias": "Asotipo"
+  },
+  {
+    "code": "97.02.090.004",
+    "villageCode": "004",
+    "districtCode": "97.02.090",
+    "name": "Heberima",
+    "alias": "Heberima"
+  },
+  {
+    "code": "97.02.090.005",
+    "villageCode": "005",
+    "districtCode": "97.02.090",
+    "name": "Iwigima",
+    "alias": "Iwigima"
+  },
+  {
+    "code": "97.02.090.006",
+    "villageCode": "006",
+    "districtCode": "97.02.090",
+    "name": "Pobiatma",
+    "alias": "Pobiatma"
+  },
+  {
+    "code": "97.02.090.007",
+    "villageCode": "007",
+    "districtCode": "97.02.090",
+    "name": "Hitigima",
+    "alias": "Hitigima"
+  },
+  {
+    "code": "97.02.090.008",
+    "villageCode": "008",
+    "districtCode": "97.02.090",
+    "name": "Kuantapo",
+    "alias": "Kuantapo"
+  },
+  {
+    "code": "97.02.090.009",
+    "villageCode": "009",
+    "districtCode": "97.02.090",
+    "name": "Air Garam",
+    "alias": "Air Garam"
+  },
+  {
+    "code": "97.02.090.010",
+    "villageCode": "010",
+    "districtCode": "97.02.090",
+    "name": "Hukulimo",
+    "alias": "Hukulimo"
+  }
+]

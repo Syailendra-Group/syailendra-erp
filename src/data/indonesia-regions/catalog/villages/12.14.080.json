@@ -1,0 +1,100 @@
+[
+  {
+    "code": "12.14.080.001",
+    "villageCode": "001",
+    "districtCode": "12.14.080",
+    "name": "Tuhegafoa",
+    "alias": "Tuhegafoa"
+  },
+  {
+    "code": "12.14.080.002",
+    "villageCode": "002",
+    "districtCode": "12.14.080",
+    "name": "Sisarahili Ekholo",
+    "alias": "Sisarahili Ekholo"
+  },
+  {
+    "code": "12.14.080.003",
+    "villageCode": "003",
+    "districtCode": "12.14.080",
+    "name": "Amuri",
+    "alias": "Amuri"
+  },
+  {
+    "code": "12.14.080.010",
+    "villageCode": "010",
+    "districtCode": "12.14.080",
+    "name": "Lolohowa",
+    "alias": "Lolohowa"
+  },
+  {
+    "code": "12.14.080.011",
+    "villageCode": "011",
+    "districtCode": "12.14.080",
+    "name": "Lolowau",
+    "alias": "Lolowau"
+  },
+  {
+    "code": "12.14.080.012",
+    "villageCode": "012",
+    "districtCode": "12.14.080",
+    "name": "Hilifadolo",
+    "alias": "Hilifadolo"
+  },
+  {
+    "code": "12.14.080.015",
+    "villageCode": "015",
+    "districtCode": "12.14.080",
+    "name": "Lolomoyo",
+    "alias": "Lolomoyo"
+  },
+  {
+    "code": "12.14.080.016",
+    "villageCode": "016",
+    "districtCode": "12.14.080",
+    "name": "Lolofaoso",
+    "alias": "Lolofaoso"
+  },
+  {
+    "code": "12.14.080.017",
+    "villageCode": "017",
+    "districtCode": "12.14.080",
+    "name": "Bawosaloo Siwalawa",
+    "alias": "Bawosaloo Siwalawa"
+  },
+  {
+    "code": "12.14.080.038",
+    "villageCode": "038",
+    "districtCode": "12.14.080",
+    "name": "Botohili",
+    "alias": "Botohili"
+  },
+  {
+    "code": "12.14.080.039",
+    "villageCode": "039",
+    "districtCode": "12.14.080",
+    "name": "Samiri",
+    "alias": "Samiri"
+  },
+  {
+    "code": "12.14.080.040",
+    "villageCode": "040",
+    "districtCode": "12.14.080",
+    "name": "Hilimbowo Siwalawa",
+    "alias": "Hilimbowo Siwalawa"
+  },
+  {
+    "code": "12.14.080.041",
+    "villageCode": "041",
+    "districtCode": "12.14.080",
+    "name": "Nituwuboho",
+    "alias": "Nituwuboho"
+  },
+  {
+    "code": "12.14.080.042",
+    "villageCode": "042",
+    "districtCode": "12.14.080",
+    "name": "Hilikara",
+    "alias": "Hilikara"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "code": "32.01.021.001",
+    "villageCode": "001",
+    "districtCode": "32.01.021",
+    "name": "Wangun Jaya",
+    "alias": "Wangun Jaya"
+  },
+  {
+    "code": "32.01.021.002",
+    "villageCode": "002",
+    "districtCode": "32.01.021",
+    "name": "Sadengkolot",
+    "alias": "Sadengkolot"
+  },
+  {
+    "code": "32.01.021.003",
+    "villageCode": "003",
+    "districtCode": "32.01.021",
+    "name": "Leuwisadeng",
+    "alias": "Leuwisadeng"
+  },
+  {
+    "code": "32.01.021.004",
+    "villageCode": "004",
+    "districtCode": "32.01.021",
+    "name": "Sibanteng",
+    "alias": "Sibanteng"
+  },
+  {
+    "code": "32.01.021.005",
+    "villageCode": "005",
+    "districtCode": "32.01.021",
+    "name": "Babakan Sadeng",
+    "alias": "Babakan Sadeng"
+  },
+  {
+    "code": "32.01.021.006",
+    "villageCode": "006",
+    "districtCode": "32.01.021",
+    "name": "Sadeng",
+    "alias": "Sadeng"
+  },
+  {
+    "code": "32.01.021.007",
+    "villageCode": "007",
+    "districtCode": "32.01.021",
+    "name": "Kalong Ii",
+    "alias": "Kalong Ii"
+  },
+  {
+    "code": "32.01.021.008",
+    "villageCode": "008",
+    "districtCode": "32.01.021",
+    "name": "Kalong I",
+    "alias": "Kalong I"
+  }
+]

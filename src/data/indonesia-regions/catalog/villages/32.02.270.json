@@ -1,0 +1,51 @@
+[
+  {
+    "code": "32.02.270.001",
+    "villageCode": "001",
+    "districtCode": "32.02.270",
+    "name": "Walangsari",
+    "alias": "Walangsari"
+  },
+  {
+    "code": "32.02.270.002",
+    "villageCode": "002",
+    "districtCode": "32.02.270",
+    "name": "Palasari Girang",
+    "alias": "Palasari Girang"
+  },
+  {
+    "code": "32.02.270.003",
+    "villageCode": "003",
+    "districtCode": "32.02.270",
+    "name": "Kalapanunggal",
+    "alias": "Kalapanunggal"
+  },
+  {
+    "code": "32.02.270.004",
+    "villageCode": "004",
+    "districtCode": "32.02.270",
+    "name": "Kadununggal",
+    "alias": "Kadununggal"
+  },
+  {
+    "code": "32.02.270.005",
+    "villageCode": "005",
+    "districtCode": "32.02.270",
+    "name": "Makasari",
+    "alias": "Makasari"
+  },
+  {
+    "code": "32.02.270.006",
+    "villageCode": "006",
+    "districtCode": "32.02.270",
+    "name": "Gunung Endut",
+    "alias": "Gunung Endut"
+  },
+  {
+    "code": "32.02.270.007",
+    "villageCode": "007",
+    "districtCode": "32.02.270",
+    "name": "Pulosari",
+    "alias": "Pulosari"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "code": "62.02.110.005",
+    "villageCode": "005",
+    "districtCode": "62.02.110",
+    "name": "Palangan",
+    "alias": "Palangan"
+  },
+  {
+    "code": "62.02.110.006",
+    "villageCode": "006",
+    "districtCode": "62.02.110",
+    "name": "Hanjalipan",
+    "alias": "Hanjalipan"
+  },
+  {
+    "code": "62.02.110.007",
+    "villageCode": "007",
+    "districtCode": "62.02.110",
+    "name": "Simpur",
+    "alias": "Simpur"
+  },
+  {
+    "code": "62.02.110.008",
+    "villageCode": "008",
+    "districtCode": "62.02.110",
+    "name": "Pamalian",
+    "alias": "Pamalian"
+  },
+  {
+    "code": "62.02.110.009",
+    "villageCode": "009",
+    "districtCode": "62.02.110",
+    "name": "Camba",
+    "alias": "Camba"
+  },
+  {
+    "code": "62.02.110.010",
+    "villageCode": "010",
+    "districtCode": "62.02.110",
+    "name": "Kandan",
+    "alias": "Kandan"
+  },
+  {
+    "code": "62.02.110.011",
+    "villageCode": "011",
+    "districtCode": "62.02.110",
+    "name": "Kota Besi Hulu",
+    "alias": "Kota Besi Hulu"
+  },
+  {
+    "code": "62.02.110.012",
+    "villageCode": "012",
+    "districtCode": "62.02.110",
+    "name": "Kota Besi Hilir",
+    "alias": "Kota Besi Hilir"
+  },
+  {
+    "code": "62.02.110.014",
+    "villageCode": "014",
+    "districtCode": "62.02.110",
+    "name": "Bajarum",
+    "alias": "Bajarum"
+  },
+  {
+    "code": "62.02.110.015",
+    "villageCode": "015",
+    "districtCode": "62.02.110",
+    "name": "Rasau Tumbuh",
+    "alias": "Rasau Tumbuh"
+  },
+  {
+    "code": "62.02.110.016",
+    "villageCode": "016",
+    "districtCode": "62.02.110",
+    "name": "Soren",
+    "alias": "Soren"
+  }
+]

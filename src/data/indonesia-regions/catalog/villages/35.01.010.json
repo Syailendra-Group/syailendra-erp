@@ -1,0 +1,86 @@
+[
+  {
+    "code": "35.01.010.001",
+    "villageCode": "001",
+    "districtCode": "35.01.010",
+    "name": "Widoro",
+    "alias": "Widoro"
+  },
+  {
+    "code": "35.01.010.002",
+    "villageCode": "002",
+    "districtCode": "35.01.010",
+    "name": "Sawahan",
+    "alias": "Sawahan"
+  },
+  {
+    "code": "35.01.010.003",
+    "villageCode": "003",
+    "districtCode": "35.01.010",
+    "name": "Kalak",
+    "alias": "Kalak"
+  },
+  {
+    "code": "35.01.010.004",
+    "villageCode": "004",
+    "districtCode": "35.01.010",
+    "name": "Sendang",
+    "alias": "Sendang"
+  },
+  {
+    "code": "35.01.010.005",
+    "villageCode": "005",
+    "districtCode": "35.01.010",
+    "name": "Klepu",
+    "alias": "Klepu"
+  },
+  {
+    "code": "35.01.010.006",
+    "villageCode": "006",
+    "districtCode": "35.01.010",
+    "name": "Gedompol",
+    "alias": "Gedompol"
+  },
+  {
+    "code": "35.01.010.007",
+    "villageCode": "007",
+    "districtCode": "35.01.010",
+    "name": "Cemeng",
+    "alias": "Cemeng"
+  },
+  {
+    "code": "35.01.010.008",
+    "villageCode": "008",
+    "districtCode": "35.01.010",
+    "name": "Gendaran",
+    "alias": "Gendaran"
+  },
+  {
+    "code": "35.01.010.009",
+    "villageCode": "009",
+    "districtCode": "35.01.010",
+    "name": "Sukodono",
+    "alias": "Sukodono"
+  },
+  {
+    "code": "35.01.010.010",
+    "villageCode": "010",
+    "districtCode": "35.01.010",
+    "name": "Sekar",
+    "alias": "Sekar"
+  },
+  {
+    "code": "35.01.010.011",
+    "villageCode": "011",
+    "districtCode": "35.01.010",
+    "name": "Donorojo",
+    "alias": "Donorojo"
+  },
+  {
+    "code": "35.01.010.012",
+    "villageCode": "012",
+    "districtCode": "35.01.010",
+    "name": "Belah",
+    "alias": "Belah"
+  }
+]

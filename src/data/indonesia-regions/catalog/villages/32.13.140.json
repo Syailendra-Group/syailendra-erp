@@ -1,0 +1,72 @@
+[
+  {
+    "code": "32.13.140.004",
+    "villageCode": "004",
+    "districtCode": "32.13.140",
+    "name": "Gunungsembung",
+    "alias": "Gunungsembung"
+  },
+  {
+    "code": "32.13.140.005",
+    "villageCode": "005",
+    "districtCode": "32.13.140",
+    "name": "Gembor",
+    "alias": "Gembor"
+  },
+  {
+    "code": "32.13.140.006",
+    "villageCode": "006",
+    "districtCode": "32.13.140",
+    "name": "Gunungsari",
+    "alias": "Gunungsari"
+  },
+  {
+    "code": "32.13.140.007",
+    "villageCode": "007",
+    "districtCode": "32.13.140",
+    "name": "Sukamulya",
+    "alias": "Sukamulya"
+  },
+  {
+    "code": "32.13.140.013",
+    "villageCode": "013",
+    "districtCode": "32.13.140",
+    "name": "Sumbersari",
+    "alias": "Sumbersari"
+  },
+  {
+    "code": "32.13.140.014",
+    "villageCode": "014",
+    "districtCode": "32.13.140",
+    "name": "Gambarsari",
+    "alias": "Gambarsari"
+  },
+  {
+    "code": "32.13.140.015",
+    "villageCode": "015",
+    "districtCode": "32.13.140",
+    "name": "Neglasari",
+    "alias": "Neglasari"
+  },
+  {
+    "code": "32.13.140.016",
+    "villageCode": "016",
+    "districtCode": "32.13.140",
+    "name": "Pagaden",
+    "alias": "Pagaden"
+  },
+  {
+    "code": "32.13.140.017",
+    "villageCode": "017",
+    "districtCode": "32.13.140",
+    "name": "Kamarung",
+    "alias": "Kamarung"
+  },
+  {
+    "code": "32.13.140.018",
+    "villageCode": "018",
+    "districtCode": "32.13.140",
+    "name": "Jabong",
+    "alias": "Jabong"
+  }
+]

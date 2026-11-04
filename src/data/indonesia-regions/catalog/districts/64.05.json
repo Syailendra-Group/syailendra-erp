@@ -1,0 +1,106 @@
+[
+  {
+    "code": "64.05.010",
+    "districtCode": "010",
+    "regencyCode": "64.05",
+    "provinceCode": "64",
+    "name": "Kecamatan Kelay",
+    "alias": "Kelay"
+  },
+  {
+    "code": "64.05.020",
+    "districtCode": "020",
+    "regencyCode": "64.05",
+    "provinceCode": "64",
+    "name": "Kecamatan Talisayan",
+    "alias": "Talisayan"
+  },
+  {
+    "code": "64.05.021",
+    "districtCode": "021",
+    "regencyCode": "64.05",
+    "provinceCode": "64",
+    "name": "Kecamatan Tabalar",
+    "alias": "Tabalar"
+  },
+  {
+    "code": "64.05.030",
+    "districtCode": "030",
+    "regencyCode": "64.05",
+    "provinceCode": "64",
+    "name": "Kecamatan Biduk Biduk",
+    "alias": "Biduk Biduk"
+  },
+  {
+    "code": "64.05.040",
+    "districtCode": "040",
+    "regencyCode": "64.05",
+    "provinceCode": "64",
+    "name": "Kecamatan Pulau Derawan",
+    "alias": "Pulau Derawan"
+  },
+  {
+    "code": "64.05.041",
+    "districtCode": "041",
+    "regencyCode": "64.05",
+    "provinceCode": "64",
+    "name": "Kecamatan Maratua",
+    "alias": "Maratua"
+  },
+  {
+    "code": "64.05.050",
+    "districtCode": "050",
+    "regencyCode": "64.05",
+    "provinceCode": "64",
+    "name": "Kecamatan Sambaliung",
+    "alias": "Sambaliung"
+  },
+  {
+    "code": "64.05.060",
+    "districtCode": "060",
+    "regencyCode": "64.05",
+    "provinceCode": "64",
+    "name": "Kecamatan Tanjung Redeb",
+    "alias": "Tanjung Redeb"
+  },
+  {
+    "code": "64.05.070",
+    "districtCode": "070",
+    "regencyCode": "64.05",
+    "provinceCode": "64",
+    "name": "Kecamatan Gunung Tabur",
+    "alias": "Gunung Tabur"
+  },
+  {
+    "code": "64.05.080",
+    "districtCode": "080",
+    "regencyCode": "64.05",
+    "provinceCode": "64",
+    "name": "Kecamatan Segah",
+    "alias": "Segah"
+  },
+  {
+    "code": "64.05.090",
+    "districtCode": "090",
+    "regencyCode": "64.05",
+    "provinceCode": "64",
+    "name": "Kecamatan Teluk Bayur",
+    "alias": "Teluk Bayur"
+  },
+  {
+    "code": "64.05.100",
+    "districtCode": "100",
+    "regencyCode": "64.05",
+    "provinceCode": "64",
+    "name": "Kecamatan Batu Putih",
+    "alias": "Batu Putih"
+  },
+  {
+    "code": "64.05.110",
+    "districtCode": "110",
+    "regencyCode": "64.05",
+    "provinceCode": "64",
+    "name": "Kecamatan Biatan",
+    "alias": "Biatan"
+  }
+]

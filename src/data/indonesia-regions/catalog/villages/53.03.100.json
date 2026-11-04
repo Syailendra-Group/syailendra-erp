@@ -1,0 +1,58 @@
+[
+  {
+    "code": "53.03.100.005",
+    "villageCode": "005",
+    "districtCode": "53.03.100",
+    "name": "Bokonusan",
+    "alias": "Bokonusan"
+  },
+  {
+    "code": "53.03.100.006",
+    "villageCode": "006",
+    "districtCode": "53.03.100",
+    "name": "Otan",
+    "alias": "Otan"
+  },
+  {
+    "code": "53.03.100.007",
+    "villageCode": "007",
+    "districtCode": "53.03.100",
+    "name": "Uitao",
+    "alias": "Uitao"
+  },
+  {
+    "code": "53.03.100.008",
+    "villageCode": "008",
+    "districtCode": "53.03.100",
+    "name": "Huilelot",
+    "alias": "Huilelot"
+  },
+  {
+    "code": "53.03.100.009",
+    "villageCode": "009",
+    "districtCode": "53.03.100",
+    "name": "Uiasa",
+    "alias": "Uiasa"
+  },
+  {
+    "code": "53.03.100.010",
+    "villageCode": "010",
+    "districtCode": "53.03.100",
+    "name": "Hansisi",
+    "alias": "Hansisi"
+  },
+  {
+    "code": "53.03.100.011",
+    "villageCode": "011",
+    "districtCode": "53.03.100",
+    "name": "Batuinan",
+    "alias": "Batuinan"
+  },
+  {
+    "code": "53.03.100.012",
+    "villageCode": "012",
+    "districtCode": "53.03.100",
+    "name": "Letbaun",
+    "alias": "Letbaun"
+  }
+]

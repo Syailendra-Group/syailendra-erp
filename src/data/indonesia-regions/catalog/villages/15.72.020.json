@@ -1,0 +1,65 @@
+[
+  {
+    "code": "15.72.020.001",
+    "villageCode": "001",
+    "districtCode": "15.72.020",
+    "name": "Renah Kayu Embun",
+    "alias": "Renah Kayu Embun"
+  },
+  {
+    "code": "15.72.020.002",
+    "villageCode": "002",
+    "districtCode": "15.72.020",
+    "name": "Air Teluh",
+    "alias": "Air Teluh"
+  },
+  {
+    "code": "15.72.020.003",
+    "villageCode": "003",
+    "districtCode": "15.72.020",
+    "name": "Kumun Mudik",
+    "alias": "Kumun Mudik"
+  },
+  {
+    "code": "15.72.020.004",
+    "villageCode": "004",
+    "districtCode": "15.72.020",
+    "name": "Muara Jaya",
+    "alias": "Muara Jaya"
+  },
+  {
+    "code": "15.72.020.005",
+    "villageCode": "005",
+    "districtCode": "15.72.020",
+    "name": "Kumun Hilir",
+    "alias": "Kumun Hilir"
+  },
+  {
+    "code": "15.72.020.006",
+    "villageCode": "006",
+    "districtCode": "15.72.020",
+    "name": "Ulu Air",
+    "alias": "Ulu Air"
+  },
+  {
+    "code": "15.72.020.007",
+    "villageCode": "007",
+    "districtCode": "15.72.020",
+    "name": "Sandaran Galeh",
+    "alias": "Sandaran Galeh"
+  },
+  {
+    "code": "15.72.020.008",
+    "villageCode": "008",
+    "districtCode": "15.72.020",
+    "name": "Pinggir Air",
+    "alias": "Pinggir Air"
+  },
+  {
+    "code": "15.72.020.009",
+    "villageCode": "009",
+    "districtCode": "15.72.020",
+    "name": "Debai",
+    "alias": "Debai"
+  }
+]

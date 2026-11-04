@@ -1,0 +1,205 @@
+[
+  {
+    "code": "11.08.060.001",
+    "villageCode": "001",
+    "districtCode": "11.08.060",
+    "name": "Lampuja",
+    "alias": "Lampuja"
+  },
+  {
+    "code": "11.08.060.002",
+    "villageCode": "002",
+    "districtCode": "11.08.060",
+    "name": "Lam Ujong",
+    "alias": "Lam Ujong"
+  },
+  {
+    "code": "11.08.060.003",
+    "villageCode": "003",
+    "districtCode": "11.08.060",
+    "name": "Lam Gawee",
+    "alias": "Lam Gawee"
+  },
+  {
+    "code": "11.08.060.004",
+    "villageCode": "004",
+    "districtCode": "11.08.060",
+    "name": "Lam Asan",
+    "alias": "Lam Asan"
+  },
+  {
+    "code": "11.08.060.005",
+    "villageCode": "005",
+    "districtCode": "11.08.060",
+    "name": "Lam Reh",
+    "alias": "Lam Reh"
+  },
+  {
+    "code": "11.08.060.006",
+    "villageCode": "006",
+    "districtCode": "11.08.060",
+    "name": "Siem",
+    "alias": "Siem"
+  },
+  {
+    "code": "11.08.060.007",
+    "villageCode": "007",
+    "districtCode": "11.08.060",
+    "name": "Krueng Kalee",
+    "alias": "Krueng Kalee"
+  },
+  {
+    "code": "11.08.060.008",
+    "villageCode": "008",
+    "districtCode": "11.08.060",
+    "name": "Lambaro Sukon",
+    "alias": "Lambaro Sukon"
+  },
+  {
+    "code": "11.08.060.009",
+    "villageCode": "009",
+    "districtCode": "11.08.060",
+    "name": "Lambiheu Lambaro Angan",
+    "alias": "Lambiheu Lambaro Angan"
+  },
+  {
+    "code": "11.08.060.010",
+    "villageCode": "010",
+    "districtCode": "11.08.060",
+    "name": "Lambiheu Siem",
+    "alias": "Lambiheu Siem"
+  },
+  {
+    "code": "11.08.060.011",
+    "villageCode": "011",
+    "districtCode": "11.08.060",
+    "name": "Lam Klat",
+    "alias": "Lam Klat"
+  },
+  {
+    "code": "11.08.060.012",
+    "villageCode": "012",
+    "districtCode": "11.08.060",
+    "name": "Lamkeuneung",
+    "alias": "Lamkeuneung"
+  },
+  {
+    "code": "11.08.060.013",
+    "villageCode": "013",
+    "districtCode": "11.08.060",
+    "name": "Lampuuk",
+    "alias": "Lampuuk"
+  },
+  {
+    "code": "11.08.060.014",
+    "villageCode": "014",
+    "districtCode": "11.08.060",
+    "name": "Lamtimpeung",
+    "alias": "Lamtimpeung"
+  },
+  {
+    "code": "11.08.060.015",
+    "villageCode": "015",
+    "districtCode": "11.08.060",
+    "name": "Limpok",
+    "alias": "Limpok"
+  },
+  {
+    "code": "11.08.060.016",
+    "villageCode": "016",
+    "districtCode": "11.08.060",
+    "name": "Barabung",
+    "alias": "Barabung"
+  },
+  {
+    "code": "11.08.060.017",
+    "villageCode": "017",
+    "districtCode": "11.08.060",
+    "name": "Tungkob",
+    "alias": "Tungkob"
+  },
+  {
+    "code": "11.08.060.018",
+    "villageCode": "018",
+    "districtCode": "11.08.060",
+    "name": "Lam Duro",
+    "alias": "Lam Duro"
+  },
+  {
+    "code": "11.08.060.019",
+    "villageCode": "019",
+    "districtCode": "11.08.060",
+    "name": "Lambitra",
+    "alias": "Lambitra"
+  },
+  {
+    "code": "11.08.060.020",
+    "villageCode": "020",
+    "districtCode": "11.08.060",
+    "name": "Lieue",
+    "alias": "Lieue"
+  },
+  {
+    "code": "11.08.060.021",
+    "villageCode": "021",
+    "districtCode": "11.08.060",
+    "name": "Lambada Peukan",
+    "alias": "Lambada Peukan"
+  },
+  {
+    "code": "11.08.060.022",
+    "villageCode": "022",
+    "districtCode": "11.08.060",
+    "name": "Blang",
+    "alias": "Blang"
+  },
+  {
+    "code": "11.08.060.023",
+    "villageCode": "023",
+    "districtCode": "11.08.060",
+    "name": "Cot",
+    "alias": "Cot"
+  },
+  {
+    "code": "11.08.060.024",
+    "villageCode": "024",
+    "districtCode": "11.08.060",
+    "name": "Angan",
+    "alias": "Angan"
+  },
+  {
+    "code": "11.08.060.026",
+    "villageCode": "026",
+    "districtCode": "11.08.060",
+    "name": "Miruek Taman",
+    "alias": "Miruek Taman"
+  },
+  {
+    "code": "11.08.060.027",
+    "villageCode": "027",
+    "districtCode": "11.08.060",
+    "name": "Lampeudaya",
+    "alias": "Lampeudaya"
+  },
+  {
+    "code": "11.08.060.028",
+    "villageCode": "028",
+    "districtCode": "11.08.060",
+    "name": "Suleue",
+    "alias": "Suleue"
+  },
+  {
+    "code": "11.08.060.029",
+    "villageCode": "029",
+    "districtCode": "11.08.060",
+    "name": "Tanjong Deah",
+    "alias": "Tanjong Deah"
+  },
+  {
+    "code": "11.08.060.030",
+    "villageCode": "030",
+    "districtCode": "11.08.060",
+    "name": "Tanjung Selamat",
+    "alias": "Tanjung Selamat"
+  }
+]

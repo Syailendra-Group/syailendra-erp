@@ -1,0 +1,58 @@
+[
+  {
+    "code": "71.04.060.006",
+    "villageCode": "006",
+    "districtCode": "71.04.060",
+    "name": "Essang",
+    "alias": "Essang"
+  },
+  {
+    "code": "71.04.060.007",
+    "villageCode": "007",
+    "districtCode": "71.04.060",
+    "name": "Lalue",
+    "alias": "Lalue"
+  },
+  {
+    "code": "71.04.060.008",
+    "villageCode": "008",
+    "districtCode": "71.04.060",
+    "name": "Bulude",
+    "alias": "Bulude"
+  },
+  {
+    "code": "71.04.060.009",
+    "villageCode": "009",
+    "districtCode": "71.04.060",
+    "name": "Essang Selatan",
+    "alias": "Essang Selatan"
+  },
+  {
+    "code": "71.04.060.010",
+    "villageCode": "010",
+    "districtCode": "71.04.060",
+    "name": "Lalue Tengah",
+    "alias": "Lalue Tengah"
+  },
+  {
+    "code": "71.04.060.011",
+    "villageCode": "011",
+    "districtCode": "71.04.060",
+    "name": "Lalue Utara",
+    "alias": "Lalue Utara"
+  },
+  {
+    "code": "71.04.060.012",
+    "villageCode": "012",
+    "districtCode": "71.04.060",
+    "name": "Bulude Selatan",
+    "alias": "Bulude Selatan"
+  },
+  {
+    "code": "71.04.060.016",
+    "villageCode": "016",
+    "districtCode": "71.04.060",
+    "name": "Maririk",
+    "alias": "Maririk"
+  }
+]

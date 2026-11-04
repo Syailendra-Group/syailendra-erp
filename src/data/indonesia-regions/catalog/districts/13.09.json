@@ -1,0 +1,98 @@
+[
+  {
+    "code": "13.09.070",
+    "districtCode": "070",
+    "regencyCode": "13.09",
+    "provinceCode": "13",
+    "name": "Kecamatan Bonjol",
+    "alias": "Bonjol"
+  },
+  {
+    "code": "13.09.071",
+    "districtCode": "071",
+    "regencyCode": "13.09",
+    "provinceCode": "13",
+    "name": "Kecamatan Tigo Nagari",
+    "alias": "Tigo Nagari"
+  },
+  {
+    "code": "13.09.072",
+    "districtCode": "072",
+    "regencyCode": "13.09",
+    "provinceCode": "13",
+    "name": "Kecamatan Simpang Alahan Mati",
+    "alias": "Simpang Alahan Mati"
+  },
+  {
+    "code": "13.09.080",
+    "districtCode": "080",
+    "regencyCode": "13.09",
+    "provinceCode": "13",
+    "name": "Kecamatan Lubuk Sikaping",
+    "alias": "Lubuk Sikaping"
+  },
+  {
+    "code": "13.09.100",
+    "districtCode": "100",
+    "regencyCode": "13.09",
+    "provinceCode": "13",
+    "name": "Kecamatan Dua Koto",
+    "alias": "Dua Koto"
+  },
+  {
+    "code": "13.09.110",
+    "districtCode": "110",
+    "regencyCode": "13.09",
+    "provinceCode": "13",
+    "name": "Kecamatan Panti",
+    "alias": "Panti"
+  },
+  {
+    "code": "13.09.111",
+    "districtCode": "111",
+    "regencyCode": "13.09",
+    "provinceCode": "13",
+    "name": "Kecamatan Padang Gelugur",
+    "alias": "Padang Gelugur"
+  },
+  {
+    "code": "13.09.121",
+    "districtCode": "121",
+    "regencyCode": "13.09",
+    "provinceCode": "13",
+    "name": "Kecamatan Rao",
+    "alias": "Rao"
+  },
+  {
+    "code": "13.09.122",
+    "districtCode": "122",
+    "regencyCode": "13.09",
+    "provinceCode": "13",
+    "name": "Kecamatan Mapat Tunggul",
+    "alias": "Mapat Tunggul"
+  },
+  {
+    "code": "13.09.123",
+    "districtCode": "123",
+    "regencyCode": "13.09",
+    "provinceCode": "13",
+    "name": "Kecamatan Mapat Tunggul Selatan",
+    "alias": "Mapat Tunggul Selatan"
+  },
+  {
+    "code": "13.09.124",
+    "districtCode": "124",
+    "regencyCode": "13.09",
+    "provinceCode": "13",
+    "name": "Kecamatan Rao Selatan",
+    "alias": "Rao Selatan"
+  },
+  {
+    "code": "13.09.125",
+    "districtCode": "125",
+    "regencyCode": "13.09",
+    "provinceCode": "13",
+    "name": "Kecamatan Rao Utara",
+    "alias": "Rao Utara"
+  }
+]

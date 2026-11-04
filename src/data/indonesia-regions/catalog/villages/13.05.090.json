@@ -1,0 +1,37 @@
+[
+  {
+    "code": "13.05.090.001",
+    "villageCode": "001",
+    "districtCode": "13.05.090",
+    "name": "Minangkabau",
+    "alias": "Minangkabau"
+  },
+  {
+    "code": "13.05.090.002",
+    "villageCode": "002",
+    "districtCode": "13.05.090",
+    "name": "Andaleh Baruh Bukik",
+    "alias": "Andaleh Baruh Bukik"
+  },
+  {
+    "code": "13.05.090.003",
+    "villageCode": "003",
+    "districtCode": "13.05.090",
+    "name": "Sungayang",
+    "alias": "Sungayang"
+  },
+  {
+    "code": "13.05.090.004",
+    "villageCode": "004",
+    "districtCode": "13.05.090",
+    "name": "Tanjung",
+    "alias": "Tanjung"
+  },
+  {
+    "code": "13.05.090.005",
+    "villageCode": "005",
+    "districtCode": "13.05.090",
+    "name": "Sungai Patai",
+    "alias": "Sungai Patai"
+  }
+]

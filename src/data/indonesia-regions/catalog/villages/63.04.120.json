@@ -1,0 +1,58 @@
+[
+  {
+    "code": "63.04.120.001",
+    "villageCode": "001",
+    "districtCode": "63.04.120",
+    "name": "Sungai Rasau",
+    "alias": "Sungai Rasau"
+  },
+  {
+    "code": "63.04.120.002",
+    "villageCode": "002",
+    "districtCode": "63.04.120",
+    "name": "Sungai Tunjang",
+    "alias": "Sungai Tunjang"
+  },
+  {
+    "code": "63.04.120.003",
+    "villageCode": "003",
+    "districtCode": "63.04.120",
+    "name": "Simpang Nungki",
+    "alias": "Simpang Nungki"
+  },
+  {
+    "code": "63.04.120.004",
+    "villageCode": "004",
+    "districtCode": "63.04.120",
+    "name": "Sawahan",
+    "alias": "Sawahan"
+  },
+  {
+    "code": "63.04.120.005",
+    "villageCode": "005",
+    "districtCode": "63.04.120",
+    "name": "Bantuil",
+    "alias": "Bantuil"
+  },
+  {
+    "code": "63.04.120.006",
+    "villageCode": "006",
+    "districtCode": "63.04.120",
+    "name": "Badandan",
+    "alias": "Badandan"
+  },
+  {
+    "code": "63.04.120.007",
+    "villageCode": "007",
+    "districtCode": "63.04.120",
+    "name": "Sungai Raya",
+    "alias": "Sungai Raya"
+  },
+  {
+    "code": "63.04.120.008",
+    "villageCode": "008",
+    "districtCode": "63.04.120",
+    "name": "Sungai Kambat",
+    "alias": "Sungai Kambat"
+  }
+]

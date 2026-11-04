@@ -1,0 +1,37 @@
+[
+  {
+    "code": "96.04.100.001",
+    "villageCode": "001",
+    "districtCode": "96.04.100",
+    "name": "Bumi Raya",
+    "alias": "Bumi Raya"
+  },
+  {
+    "code": "96.04.100.002",
+    "villageCode": "002",
+    "districtCode": "96.04.100",
+    "name": "Wadio",
+    "alias": "Wadio"
+  },
+  {
+    "code": "96.04.100.003",
+    "villageCode": "003",
+    "districtCode": "96.04.100",
+    "name": "Gerbang Sadu",
+    "alias": "Gerbang Sadu"
+  },
+  {
+    "code": "96.04.100.004",
+    "villageCode": "004",
+    "districtCode": "96.04.100",
+    "name": "Kali Semen",
+    "alias": "Kali Semen"
+  },
+  {
+    "code": "96.04.100.005",
+    "villageCode": "005",
+    "districtCode": "96.04.100",
+    "name": "Waroki",
+    "alias": "Waroki"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "code": "35.03.060.001",
+    "villageCode": "001",
+    "districtCode": "35.03.060",
+    "name": "Sidomulyo",
+    "alias": "Sidomulyo"
+  },
+  {
+    "code": "35.03.060.002",
+    "villageCode": "002",
+    "districtCode": "35.03.060",
+    "name": "Puyung",
+    "alias": "Puyung"
+  },
+  {
+    "code": "35.03.060.003",
+    "villageCode": "003",
+    "districtCode": "35.03.060",
+    "name": "Joho",
+    "alias": "Joho"
+  },
+  {
+    "code": "35.03.060.004",
+    "villageCode": "004",
+    "districtCode": "35.03.060",
+    "name": "Kembangan",
+    "alias": "Kembangan"
+  },
+  {
+    "code": "35.03.060.005",
+    "villageCode": "005",
+    "districtCode": "35.03.060",
+    "name": "Pakel",
+    "alias": "Pakel"
+  },
+  {
+    "code": "35.03.060.006",
+    "villageCode": "006",
+    "districtCode": "35.03.060",
+    "name": "Pule",
+    "alias": "Pule"
+  },
+  {
+    "code": "35.03.060.007",
+    "villageCode": "007",
+    "districtCode": "35.03.060",
+    "name": "Jombok",
+    "alias": "Jombok"
+  },
+  {
+    "code": "35.03.060.008",
+    "villageCode": "008",
+    "districtCode": "35.03.060",
+    "name": "Tanggaran",
+    "alias": "Tanggaran"
+  },
+  {
+    "code": "35.03.060.009",
+    "villageCode": "009",
+    "districtCode": "35.03.060",
+    "name": "Karanganyar",
+    "alias": "Karanganyar"
+  },
+  {
+    "code": "35.03.060.010",
+    "villageCode": "010",
+    "districtCode": "35.03.060",
+    "name": "Sukokidul",
+    "alias": "Sukokidul"
+  }
+]

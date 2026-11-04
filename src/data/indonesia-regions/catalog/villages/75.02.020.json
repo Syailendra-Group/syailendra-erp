@@ -1,0 +1,58 @@
+[
+  {
+    "code": "75.02.020.019",
+    "villageCode": "019",
+    "districtCode": "75.02.020",
+    "name": "Payunga",
+    "alias": "Payunga"
+  },
+  {
+    "code": "75.02.020.020",
+    "villageCode": "020",
+    "districtCode": "75.02.020",
+    "name": "Huntu",
+    "alias": "Huntu"
+  },
+  {
+    "code": "75.02.020.021",
+    "villageCode": "021",
+    "districtCode": "75.02.020",
+    "name": "Bua",
+    "alias": "Bua"
+  },
+  {
+    "code": "75.02.020.022",
+    "villageCode": "022",
+    "districtCode": "75.02.020",
+    "name": "Iluta",
+    "alias": "Iluta"
+  },
+  {
+    "code": "75.02.020.025",
+    "villageCode": "025",
+    "districtCode": "75.02.020",
+    "name": "Barakati",
+    "alias": "Barakati"
+  },
+  {
+    "code": "75.02.020.026",
+    "villageCode": "026",
+    "districtCode": "75.02.020",
+    "name": "Dunggala",
+    "alias": "Dunggala"
+  },
+  {
+    "code": "75.02.020.027",
+    "villageCode": "027",
+    "districtCode": "75.02.020",
+    "name": "Ilohungayo",
+    "alias": "Ilohungayo"
+  },
+  {
+    "code": "75.02.020.028",
+    "villageCode": "028",
+    "districtCode": "75.02.020",
+    "name": "Pilobuhuta",
+    "alias": "Pilobuhuta"
+  }
+]

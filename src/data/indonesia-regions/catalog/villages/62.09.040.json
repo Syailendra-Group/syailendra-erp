@@ -1,0 +1,58 @@
+[
+  {
+    "code": "62.09.040.001",
+    "villageCode": "001",
+    "districtCode": "62.09.040",
+    "name": "Talingke",
+    "alias": "Talingke"
+  },
+  {
+    "code": "62.09.040.002",
+    "villageCode": "002",
+    "districtCode": "62.09.040",
+    "name": "Hiyang Bana",
+    "alias": "Hiyang Bana"
+  },
+  {
+    "code": "62.09.040.003",
+    "villageCode": "003",
+    "districtCode": "62.09.040",
+    "name": "Petak Bahandang",
+    "alias": "Petak Bahandang"
+  },
+  {
+    "code": "62.09.040.004",
+    "villageCode": "004",
+    "districtCode": "62.09.040",
+    "name": "Handiwung",
+    "alias": "Handiwung"
+  },
+  {
+    "code": "62.09.040.005",
+    "villageCode": "005",
+    "districtCode": "62.09.040",
+    "name": "Tumbang Panggo",
+    "alias": "Tumbang Panggo"
+  },
+  {
+    "code": "62.09.040.006",
+    "villageCode": "006",
+    "districtCode": "62.09.040",
+    "name": "Tewang Tampang",
+    "alias": "Tewang Tampang"
+  },
+  {
+    "code": "62.09.040.007",
+    "villageCode": "007",
+    "districtCode": "62.09.040",
+    "name": "Luwuk Kanan",
+    "alias": "Luwuk Kanan"
+  },
+  {
+    "code": "62.09.040.008",
+    "villageCode": "008",
+    "districtCode": "62.09.040",
+    "name": "Luwuk Kiri",
+    "alias": "Luwuk Kiri"
+  }
+]

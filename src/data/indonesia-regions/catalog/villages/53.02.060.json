@@ -1,0 +1,65 @@
+[
+  {
+    "code": "53.02.060.005",
+    "villageCode": "005",
+    "districtCode": "53.02.060",
+    "name": "Kambata Tana",
+    "alias": "Kambata Tana"
+  },
+  {
+    "code": "53.02.060.007",
+    "villageCode": "007",
+    "districtCode": "53.02.060",
+    "name": "Mau Bokul",
+    "alias": "Mau Bokul"
+  },
+  {
+    "code": "53.02.060.009",
+    "villageCode": "009",
+    "districtCode": "53.02.060",
+    "name": "Kadumbul",
+    "alias": "Kadumbul"
+  },
+  {
+    "code": "53.02.060.010",
+    "villageCode": "010",
+    "districtCode": "53.02.060",
+    "name": "Palakahembi",
+    "alias": "Palakahembi"
+  },
+  {
+    "code": "53.02.060.011",
+    "villageCode": "011",
+    "districtCode": "53.02.060",
+    "name": "Watumbaka",
+    "alias": "Watumbaka"
+  },
+  {
+    "code": "53.02.060.012",
+    "villageCode": "012",
+    "districtCode": "53.02.060",
+    "name": "Kawangu",
+    "alias": "Kawangu"
+  },
+  {
+    "code": "53.02.060.015",
+    "villageCode": "015",
+    "districtCode": "53.02.060",
+    "name": "Laindeha",
+    "alias": "Laindeha"
+  },
+  {
+    "code": "53.02.060.016",
+    "villageCode": "016",
+    "districtCode": "53.02.060",
+    "name": "Desa Persiapan Prai Kilimbatu",
+    "alias": "Desa Persiapan Prai Kilimbatu"
+  },
+  {
+    "code": "53.02.060.017",
+    "villageCode": "017",
+    "districtCode": "53.02.060",
+    "name": "Desa Persiapan Walatungga",
+    "alias": "Desa Persiapan Walatungga"
+  }
+]

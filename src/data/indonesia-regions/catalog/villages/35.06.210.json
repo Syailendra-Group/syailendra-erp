@@ -1,0 +1,65 @@
+[
+  {
+    "code": "35.06.210.001",
+    "villageCode": "001",
+    "districtCode": "35.06.210",
+    "name": "Parang",
+    "alias": "Parang"
+  },
+  {
+    "code": "35.06.210.002",
+    "villageCode": "002",
+    "districtCode": "35.06.210",
+    "name": "Tiron",
+    "alias": "Tiron"
+  },
+  {
+    "code": "35.06.210.003",
+    "villageCode": "003",
+    "districtCode": "35.06.210",
+    "name": "Manyaran",
+    "alias": "Manyaran"
+  },
+  {
+    "code": "35.06.210.004",
+    "villageCode": "004",
+    "districtCode": "35.06.210",
+    "name": "Jatirejo",
+    "alias": "Jatirejo"
+  },
+  {
+    "code": "35.06.210.005",
+    "villageCode": "005",
+    "districtCode": "35.06.210",
+    "name": "Banyakan",
+    "alias": "Banyakan"
+  },
+  {
+    "code": "35.06.210.006",
+    "villageCode": "006",
+    "districtCode": "35.06.210",
+    "name": "Maron",
+    "alias": "Maron"
+  },
+  {
+    "code": "35.06.210.007",
+    "villageCode": "007",
+    "districtCode": "35.06.210",
+    "name": "Jabon",
+    "alias": "Jabon"
+  },
+  {
+    "code": "35.06.210.008",
+    "villageCode": "008",
+    "districtCode": "35.06.210",
+    "name": "Ngablak",
+    "alias": "Ngablak"
+  },
+  {
+    "code": "35.06.210.009",
+    "villageCode": "009",
+    "districtCode": "35.06.210",
+    "name": "Sendang",
+    "alias": "Sendang"
+  }
+]

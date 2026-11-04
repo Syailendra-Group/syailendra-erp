@@ -1,0 +1,135 @@
+[
+  {
+    "code": "33.10.030.001",
+    "villageCode": "001",
+    "districtCode": "33.10.030",
+    "name": "Pesu",
+    "alias": "Pesu"
+  },
+  {
+    "code": "33.10.030.002",
+    "villageCode": "002",
+    "districtCode": "33.10.030",
+    "name": "Dengkeng",
+    "alias": "Dengkeng"
+  },
+  {
+    "code": "33.10.030.003",
+    "villageCode": "003",
+    "districtCode": "33.10.030",
+    "name": "Tanjungan",
+    "alias": "Tanjungan"
+  },
+  {
+    "code": "33.10.030.004",
+    "villageCode": "004",
+    "districtCode": "33.10.030",
+    "name": "Pasung",
+    "alias": "Pasung"
+  },
+  {
+    "code": "33.10.030.005",
+    "villageCode": "005",
+    "districtCode": "33.10.030",
+    "name": "Brangkal",
+    "alias": "Brangkal"
+  },
+  {
+    "code": "33.10.030.006",
+    "villageCode": "006",
+    "districtCode": "33.10.030",
+    "name": "Pacing",
+    "alias": "Pacing"
+  },
+  {
+    "code": "33.10.030.007",
+    "villageCode": "007",
+    "districtCode": "33.10.030",
+    "name": "Kadilanggon",
+    "alias": "Kadilanggon"
+  },
+  {
+    "code": "33.10.030.008",
+    "villageCode": "008",
+    "districtCode": "33.10.030",
+    "name": "Kaligayam",
+    "alias": "Kaligayam"
+  },
+  {
+    "code": "33.10.030.009",
+    "villageCode": "009",
+    "districtCode": "33.10.030",
+    "name": "Melikan",
+    "alias": "Melikan"
+  },
+  {
+    "code": "33.10.030.010",
+    "villageCode": "010",
+    "districtCode": "33.10.030",
+    "name": "Jiwo Wetan",
+    "alias": "Jiwo Wetan"
+  },
+  {
+    "code": "33.10.030.011",
+    "villageCode": "011",
+    "districtCode": "33.10.030",
+    "name": "Kadibolo",
+    "alias": "Kadibolo"
+  },
+  {
+    "code": "33.10.030.012",
+    "villageCode": "012",
+    "districtCode": "33.10.030",
+    "name": "Trotok",
+    "alias": "Trotok"
+  },
+  {
+    "code": "33.10.030.013",
+    "villageCode": "013",
+    "districtCode": "33.10.030",
+    "name": "Sembung",
+    "alias": "Sembung"
+  },
+  {
+    "code": "33.10.030.014",
+    "villageCode": "014",
+    "districtCode": "33.10.030",
+    "name": "Sukorejo",
+    "alias": "Sukorejo"
+  },
+  {
+    "code": "33.10.030.015",
+    "villageCode": "015",
+    "districtCode": "33.10.030",
+    "name": "Birit",
+    "alias": "Birit"
+  },
+  {
+    "code": "33.10.030.016",
+    "villageCode": "016",
+    "districtCode": "33.10.030",
+    "name": "Pandes",
+    "alias": "Pandes"
+  },
+  {
+    "code": "33.10.030.017",
+    "villageCode": "017",
+    "districtCode": "33.10.030",
+    "name": "Gadungan",
+    "alias": "Gadungan"
+  },
+  {
+    "code": "33.10.030.018",
+    "villageCode": "018",
+    "districtCode": "33.10.030",
+    "name": "Canan",
+    "alias": "Canan"
+  },
+  {
+    "code": "33.10.030.019",
+    "villageCode": "019",
+    "districtCode": "33.10.030",
+    "name": "Kalitengah",
+    "alias": "Kalitengah"
+  }
+]

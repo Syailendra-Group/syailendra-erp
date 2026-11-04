@@ -1,0 +1,44 @@
+[
+  {
+    "code": "76.05.030.023",
+    "villageCode": "023",
+    "districtCode": "76.05.030",
+    "name": "Pasangkayu",
+    "alias": "Pasangkayu"
+  },
+  {
+    "code": "76.05.030.024",
+    "villageCode": "024",
+    "districtCode": "76.05.030",
+    "name": "Martajaya",
+    "alias": "Martajaya"
+  },
+  {
+    "code": "76.05.030.031",
+    "villageCode": "031",
+    "districtCode": "76.05.030",
+    "name": "Pakawa",
+    "alias": "Pakawa"
+  },
+  {
+    "code": "76.05.030.037",
+    "villageCode": "037",
+    "districtCode": "76.05.030",
+    "name": "Karya Bersama",
+    "alias": "Karya Bersama"
+  },
+  {
+    "code": "76.05.030.038",
+    "villageCode": "038",
+    "districtCode": "76.05.030",
+    "name": "Ako",
+    "alias": "Ako"
+  },
+  {
+    "code": "76.05.030.039",
+    "villageCode": "039",
+    "districtCode": "76.05.030",
+    "name": "Gunung Sari",
+    "alias": "Gunung Sari"
+  }
+]

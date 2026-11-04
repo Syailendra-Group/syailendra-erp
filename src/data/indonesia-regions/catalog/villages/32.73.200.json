@@ -1,0 +1,23 @@
+[
+  {
+    "code": "32.73.200.001",
+    "villageCode": "001",
+    "districtCode": "32.73.200",
+    "name": "Taman Sari",
+    "alias": "Taman Sari"
+  },
+  {
+    "code": "32.73.200.002",
+    "villageCode": "002",
+    "districtCode": "32.73.200",
+    "name": "Citarum",
+    "alias": "Citarum"
+  },
+  {
+    "code": "32.73.200.003",
+    "villageCode": "003",
+    "districtCode": "32.73.200",
+    "name": "Cihapit",
+    "alias": "Cihapit"
+  }
+]

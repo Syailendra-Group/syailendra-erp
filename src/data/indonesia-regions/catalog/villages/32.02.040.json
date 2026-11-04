@@ -1,0 +1,79 @@
+[
+  {
+    "code": "32.02.040.001",
+    "villageCode": "001",
+    "districtCode": "32.02.040",
+    "name": "Ciparay",
+    "alias": "Ciparay"
+  },
+  {
+    "code": "32.02.040.002",
+    "villageCode": "002",
+    "districtCode": "32.02.040",
+    "name": "Bojong Genteng",
+    "alias": "Bojong Genteng"
+  },
+  {
+    "code": "32.02.040.003",
+    "villageCode": "003",
+    "districtCode": "32.02.040",
+    "name": "Bojongsari",
+    "alias": "Bojongsari"
+  },
+  {
+    "code": "32.02.040.004",
+    "villageCode": "004",
+    "districtCode": "32.02.040",
+    "name": "Mekarjaya",
+    "alias": "Mekarjaya"
+  },
+  {
+    "code": "32.02.040.005",
+    "villageCode": "005",
+    "districtCode": "32.02.040",
+    "name": "Nagraksari",
+    "alias": "Nagraksari"
+  },
+  {
+    "code": "32.02.040.006",
+    "villageCode": "006",
+    "districtCode": "32.02.040",
+    "name": "Jampang Kulon",
+    "alias": "Jampang Kulon"
+  },
+  {
+    "code": "32.02.040.007",
+    "villageCode": "007",
+    "districtCode": "32.02.040",
+    "name": "Tanjung",
+    "alias": "Tanjung"
+  },
+  {
+    "code": "32.02.040.008",
+    "villageCode": "008",
+    "districtCode": "32.02.040",
+    "name": "Padajaya",
+    "alias": "Padajaya"
+  },
+  {
+    "code": "32.02.040.013",
+    "villageCode": "013",
+    "districtCode": "32.02.040",
+    "name": "Cikarang",
+    "alias": "Cikarang"
+  },
+  {
+    "code": "32.02.040.014",
+    "villageCode": "014",
+    "districtCode": "32.02.040",
+    "name": "Karanganyar",
+    "alias": "Karanganyar"
+  },
+  {
+    "code": "32.02.040.015",
+    "villageCode": "015",
+    "districtCode": "32.02.040",
+    "name": "Cikaranggeusan",
+    "alias": "Cikaranggeusan"
+  }
+]

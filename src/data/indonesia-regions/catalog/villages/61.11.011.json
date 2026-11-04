@@ -1,0 +1,23 @@
+[
+  {
+    "code": "61.11.011.001",
+    "villageCode": "001",
+    "districtCode": "61.11.011",
+    "name": "Betok Jaya",
+    "alias": "Betok Jaya"
+  },
+  {
+    "code": "61.11.011.002",
+    "villageCode": "002",
+    "districtCode": "61.11.011",
+    "name": "Padang",
+    "alias": "Padang"
+  },
+  {
+    "code": "61.11.011.003",
+    "villageCode": "003",
+    "districtCode": "61.11.011",
+    "name": "Pelapis",
+    "alias": "Pelapis"
+  }
+]

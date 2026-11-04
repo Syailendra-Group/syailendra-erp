@@ -1,0 +1,58 @@
+[
+  {
+    "code": "95.03.150.001",
+    "villageCode": "001",
+    "districtCode": "95.03.150",
+    "name": "Sagis",
+    "alias": "Sagis"
+  },
+  {
+    "code": "95.03.150.002",
+    "villageCode": "002",
+    "districtCode": "95.03.150",
+    "name": "Kumaban",
+    "alias": "Kumaban"
+  },
+  {
+    "code": "95.03.150.003",
+    "villageCode": "003",
+    "districtCode": "95.03.150",
+    "name": "Tugumau",
+    "alias": "Tugumau"
+  },
+  {
+    "code": "95.03.150.004",
+    "villageCode": "004",
+    "districtCode": "95.03.150",
+    "name": "Basman",
+    "alias": "Basman"
+  },
+  {
+    "code": "95.03.150.005",
+    "villageCode": "005",
+    "districtCode": "95.03.150",
+    "name": "Merokima",
+    "alias": "Merokima"
+  },
+  {
+    "code": "95.03.150.006",
+    "villageCode": "006",
+    "districtCode": "95.03.150",
+    "name": "Mu",
+    "alias": "Mu"
+  },
+  {
+    "code": "95.03.150.007",
+    "villageCode": "007",
+    "districtCode": "95.03.150",
+    "name": "Pier",
+    "alias": "Pier"
+  },
+  {
+    "code": "95.03.150.008",
+    "villageCode": "008",
+    "districtCode": "95.03.150",
+    "name": "Tarwa",
+    "alias": "Tarwa"
+  }
+]

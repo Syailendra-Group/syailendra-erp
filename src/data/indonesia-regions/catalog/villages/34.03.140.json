@@ -1,0 +1,44 @@
+[
+  {
+    "code": "34.03.140.001",
+    "villageCode": "001",
+    "districtCode": "34.03.140",
+    "name": "Watusigar",
+    "alias": "Watusigar"
+  },
+  {
+    "code": "34.03.140.002",
+    "villageCode": "002",
+    "districtCode": "34.03.140",
+    "name": "Beji",
+    "alias": "Beji"
+  },
+  {
+    "code": "34.03.140.003",
+    "villageCode": "003",
+    "districtCode": "34.03.140",
+    "name": "Kampung",
+    "alias": "Kampung"
+  },
+  {
+    "code": "34.03.140.004",
+    "villageCode": "004",
+    "districtCode": "34.03.140",
+    "name": "Jurangjero",
+    "alias": "Jurangjero"
+  },
+  {
+    "code": "34.03.140.005",
+    "villageCode": "005",
+    "districtCode": "34.03.140",
+    "name": "Sambirejo",
+    "alias": "Sambirejo"
+  },
+  {
+    "code": "34.03.140.006",
+    "villageCode": "006",
+    "districtCode": "34.03.140",
+    "name": "Tancep",
+    "alias": "Tancep"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "code": "73.26.140.001",
+    "villageCode": "001",
+    "districtCode": "73.26.140",
+    "name": "Lembang Toyasa Akung",
+    "alias": "Lembang Toyasa Akung"
+  },
+  {
+    "code": "73.26.140.002",
+    "villageCode": "002",
+    "districtCode": "73.26.140",
+    "name": "Lembang Batu Limbong",
+    "alias": "Lembang Batu Limbong"
+  },
+  {
+    "code": "73.26.140.003",
+    "villageCode": "003",
+    "districtCode": "73.26.140",
+    "name": "Lembang Bangkele Kila",
+    "alias": "Lembang Bangkele Kila"
+  },
+  {
+    "code": "73.26.140.004",
+    "villageCode": "004",
+    "districtCode": "73.26.140",
+    "name": "Lembang Tampan Bonga",
+    "alias": "Lembang Tampan Bonga"
+  }
+]

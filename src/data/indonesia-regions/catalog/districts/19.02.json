@@ -1,0 +1,42 @@
+[
+  {
+    "code": "19.02.010",
+    "districtCode": "010",
+    "regencyCode": "19.02",
+    "provinceCode": "19",
+    "name": "Kecamatan Membalong",
+    "alias": "Membalong"
+  },
+  {
+    "code": "19.02.060",
+    "districtCode": "060",
+    "regencyCode": "19.02",
+    "provinceCode": "19",
+    "name": "Kecamatan Tanjungpandan",
+    "alias": "Tanjungpandan"
+  },
+  {
+    "code": "19.02.061",
+    "districtCode": "061",
+    "regencyCode": "19.02",
+    "provinceCode": "19",
+    "name": "Kecamatan Badau",
+    "alias": "Badau"
+  },
+  {
+    "code": "19.02.062",
+    "districtCode": "062",
+    "regencyCode": "19.02",
+    "provinceCode": "19",
+    "name": "Kecamatan Sijuk",
+    "alias": "Sijuk"
+  },
+  {
+    "code": "19.02.063",
+    "districtCode": "063",
+    "regencyCode": "19.02",
+    "provinceCode": "19",
+    "name": "Kecamatan Selat Nasik",
+    "alias": "Selat Nasik"
+  }
+]

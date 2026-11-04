@@ -1,0 +1,72 @@
+[
+  {
+    "code": "33.28.080.001",
+    "villageCode": "001",
+    "districtCode": "33.28.080",
+    "name": "Penujah",
+    "alias": "Penujah"
+  },
+  {
+    "code": "33.28.080.002",
+    "villageCode": "002",
+    "districtCode": "33.28.080",
+    "name": "Karanganyar",
+    "alias": "Karanganyar"
+  },
+  {
+    "code": "33.28.080.003",
+    "villageCode": "003",
+    "districtCode": "33.28.080",
+    "name": "Tonggara",
+    "alias": "Tonggara"
+  },
+  {
+    "code": "33.28.080.004",
+    "villageCode": "004",
+    "districtCode": "33.28.080",
+    "name": "Kedungbanteng",
+    "alias": "Kedungbanteng"
+  },
+  {
+    "code": "33.28.080.005",
+    "villageCode": "005",
+    "districtCode": "33.28.080",
+    "name": "Dukuhjati Wetan",
+    "alias": "Dukuhjati Wetan"
+  },
+  {
+    "code": "33.28.080.006",
+    "villageCode": "006",
+    "districtCode": "33.28.080",
+    "name": "Sumingkir",
+    "alias": "Sumingkir"
+  },
+  {
+    "code": "33.28.080.007",
+    "villageCode": "007",
+    "districtCode": "33.28.080",
+    "name": "Margamulya",
+    "alias": "Margamulya"
+  },
+  {
+    "code": "33.28.080.008",
+    "villageCode": "008",
+    "districtCode": "33.28.080",
+    "name": "Kebandingan",
+    "alias": "Kebandingan"
+  },
+  {
+    "code": "33.28.080.009",
+    "villageCode": "009",
+    "districtCode": "33.28.080",
+    "name": "Karangmalang",
+    "alias": "Karangmalang"
+  },
+  {
+    "code": "33.28.080.010",
+    "villageCode": "010",
+    "districtCode": "33.28.080",
+    "name": "Semedo",
+    "alias": "Semedo"
+  }
+]

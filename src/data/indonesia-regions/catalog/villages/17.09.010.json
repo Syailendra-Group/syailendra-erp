@@ -1,0 +1,72 @@
+[
+  {
+    "code": "17.09.010.001",
+    "villageCode": "001",
+    "districtCode": "17.09.010",
+    "name": "Air Sebakul",
+    "alias": "Air Sebakul"
+  },
+  {
+    "code": "17.09.010.006",
+    "villageCode": "006",
+    "districtCode": "17.09.010",
+    "name": "Pulau Panggung",
+    "alias": "Pulau Panggung"
+  },
+  {
+    "code": "17.09.010.007",
+    "villageCode": "007",
+    "districtCode": "17.09.010",
+    "name": "Jayakarta",
+    "alias": "Jayakarta"
+  },
+  {
+    "code": "17.09.010.008",
+    "villageCode": "008",
+    "districtCode": "17.09.010",
+    "name": "Tengah Padang",
+    "alias": "Tengah Padang"
+  },
+  {
+    "code": "17.09.010.009",
+    "villageCode": "009",
+    "districtCode": "17.09.010",
+    "name": "Kembang Seri",
+    "alias": "Kembang Seri"
+  },
+  {
+    "code": "17.09.010.010",
+    "villageCode": "010",
+    "districtCode": "17.09.010",
+    "name": "Taba Pasemah",
+    "alias": "Taba Pasemah"
+  },
+  {
+    "code": "17.09.010.011",
+    "villageCode": "011",
+    "districtCode": "17.09.010",
+    "name": "Nakau",
+    "alias": "Nakau"
+  },
+  {
+    "code": "17.09.010.012",
+    "villageCode": "012",
+    "districtCode": "17.09.010",
+    "name": "Padang Ulak Tanjung",
+    "alias": "Padang Ulak Tanjung"
+  },
+  {
+    "code": "17.09.010.014",
+    "villageCode": "014",
+    "districtCode": "17.09.010",
+    "name": "Jumat",
+    "alias": "Jumat"
+  },
+  {
+    "code": "17.09.010.015",
+    "villageCode": "015",
+    "districtCode": "17.09.010",
+    "name": "Air Putih",
+    "alias": "Air Putih"
+  }
+]

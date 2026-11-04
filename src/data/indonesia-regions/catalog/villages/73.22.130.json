@@ -1,0 +1,51 @@
+[
+  {
+    "code": "73.22.130.001",
+    "villageCode": "001",
+    "districtCode": "73.22.130",
+    "name": "Marampa",
+    "alias": "Marampa"
+  },
+  {
+    "code": "73.22.130.002",
+    "villageCode": "002",
+    "districtCode": "73.22.130",
+    "name": "Limbong",
+    "alias": "Limbong"
+  },
+  {
+    "code": "73.22.130.003",
+    "villageCode": "003",
+    "districtCode": "73.22.130",
+    "name": "Pengkendekan",
+    "alias": "Pengkendekan"
+  },
+  {
+    "code": "73.22.130.004",
+    "villageCode": "004",
+    "districtCode": "73.22.130",
+    "name": "Komba",
+    "alias": "Komba"
+  },
+  {
+    "code": "73.22.130.005",
+    "villageCode": "005",
+    "districtCode": "73.22.130",
+    "name": "Kanandede",
+    "alias": "Kanandede"
+  },
+  {
+    "code": "73.22.130.006",
+    "villageCode": "006",
+    "districtCode": "73.22.130",
+    "name": "Minanga",
+    "alias": "Minanga"
+  },
+  {
+    "code": "73.22.130.007",
+    "villageCode": "007",
+    "districtCode": "73.22.130",
+    "name": "Rinding Allo",
+    "alias": "Rinding Allo"
+  }
+]

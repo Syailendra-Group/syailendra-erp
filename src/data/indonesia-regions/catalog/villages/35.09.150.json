@@ -1,0 +1,44 @@
+[
+  {
+    "code": "35.09.150.001",
+    "villageCode": "001",
+    "districtCode": "35.09.150",
+    "name": "Rejo Agung",
+    "alias": "Rejo Agung"
+  },
+  {
+    "code": "35.09.150.002",
+    "villageCode": "002",
+    "districtCode": "35.09.150",
+    "name": "Semboro",
+    "alias": "Semboro"
+  },
+  {
+    "code": "35.09.150.003",
+    "villageCode": "003",
+    "districtCode": "35.09.150",
+    "name": "Sidomekar",
+    "alias": "Sidomekar"
+  },
+  {
+    "code": "35.09.150.004",
+    "villageCode": "004",
+    "districtCode": "35.09.150",
+    "name": "Sidomulyo",
+    "alias": "Sidomulyo"
+  },
+  {
+    "code": "35.09.150.005",
+    "villageCode": "005",
+    "districtCode": "35.09.150",
+    "name": "Pondok Joyo",
+    "alias": "Pondok Joyo"
+  },
+  {
+    "code": "35.09.150.006",
+    "villageCode": "006",
+    "districtCode": "35.09.150",
+    "name": "Pondok Dalem",
+    "alias": "Pondok Dalem"
+  }
+]

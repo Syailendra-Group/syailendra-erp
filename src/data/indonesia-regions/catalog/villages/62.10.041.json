@@ -1,0 +1,58 @@
+[
+  {
+    "code": "62.10.041.001",
+    "villageCode": "001",
+    "districtCode": "62.10.041",
+    "name": "Garung",
+    "alias": "Garung"
+  },
+  {
+    "code": "62.10.041.002",
+    "villageCode": "002",
+    "districtCode": "62.10.041",
+    "name": "Henda",
+    "alias": "Henda"
+  },
+  {
+    "code": "62.10.041.003",
+    "villageCode": "003",
+    "districtCode": "62.10.041",
+    "name": "Simpur",
+    "alias": "Simpur"
+  },
+  {
+    "code": "62.10.041.004",
+    "villageCode": "004",
+    "districtCode": "62.10.041",
+    "name": "Sakakajang",
+    "alias": "Sakakajang"
+  },
+  {
+    "code": "62.10.041.005",
+    "villageCode": "005",
+    "districtCode": "62.10.041",
+    "name": "Jabiren",
+    "alias": "Jabiren"
+  },
+  {
+    "code": "62.10.041.006",
+    "villageCode": "006",
+    "districtCode": "62.10.041",
+    "name": "Pilang",
+    "alias": "Pilang"
+  },
+  {
+    "code": "62.10.041.007",
+    "villageCode": "007",
+    "districtCode": "62.10.041",
+    "name": "Tumbang Nusa",
+    "alias": "Tumbang Nusa"
+  },
+  {
+    "code": "62.10.041.008",
+    "villageCode": "008",
+    "districtCode": "62.10.041",
+    "name": "Tanjung Taruna",
+    "alias": "Tanjung Taruna"
+  }
+]

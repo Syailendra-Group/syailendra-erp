@@ -1,0 +1,37 @@
+[
+  {
+    "code": "35.74.030.005",
+    "villageCode": "005",
+    "districtCode": "35.74.030",
+    "name": "Wiroborang",
+    "alias": "Wiroborang"
+  },
+  {
+    "code": "35.74.030.006",
+    "villageCode": "006",
+    "districtCode": "35.74.030",
+    "name": "Jati",
+    "alias": "Jati"
+  },
+  {
+    "code": "35.74.030.009",
+    "villageCode": "009",
+    "districtCode": "35.74.030",
+    "name": "Sukabumi",
+    "alias": "Sukabumi"
+  },
+  {
+    "code": "35.74.030.010",
+    "villageCode": "010",
+    "districtCode": "35.74.030",
+    "name": "Mangunharjo",
+    "alias": "Mangunharjo"
+  },
+  {
+    "code": "35.74.030.011",
+    "villageCode": "011",
+    "districtCode": "35.74.030",
+    "name": "Mayangan",
+    "alias": "Mayangan"
+  }
+]

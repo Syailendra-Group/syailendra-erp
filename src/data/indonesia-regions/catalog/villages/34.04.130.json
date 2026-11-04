@@ -1,0 +1,37 @@
+[
+  {
+    "code": "34.04.130.001",
+    "villageCode": "001",
+    "districtCode": "34.04.130",
+    "name": "Catur Harjo",
+    "alias": "Catur Harjo"
+  },
+  {
+    "code": "34.04.130.002",
+    "villageCode": "002",
+    "districtCode": "34.04.130",
+    "name": "Triharjo",
+    "alias": "Triharjo"
+  },
+  {
+    "code": "34.04.130.003",
+    "villageCode": "003",
+    "districtCode": "34.04.130",
+    "name": "Tridadi",
+    "alias": "Tridadi"
+  },
+  {
+    "code": "34.04.130.004",
+    "villageCode": "004",
+    "districtCode": "34.04.130",
+    "name": "Pandowo Harjo",
+    "alias": "Pandowo Harjo"
+  },
+  {
+    "code": "34.04.130.005",
+    "villageCode": "005",
+    "districtCode": "34.04.130",
+    "name": "Tri Mulyo",
+    "alias": "Tri Mulyo"
+  }
+]

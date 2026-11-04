@@ -1,0 +1,72 @@
+[
+  {
+    "code": "12.18.051.001",
+    "villageCode": "001",
+    "districtCode": "12.18.051",
+    "name": "Sibulan",
+    "alias": "Sibulan"
+  },
+  {
+    "code": "12.18.051.002",
+    "villageCode": "002",
+    "districtCode": "12.18.051",
+    "name": "Bahilang",
+    "alias": "Bahilang"
+  },
+  {
+    "code": "12.18.051.003",
+    "villageCode": "003",
+    "districtCode": "12.18.051",
+    "name": "Penggalian",
+    "alias": "Penggalian"
+  },
+  {
+    "code": "12.18.051.004",
+    "villageCode": "004",
+    "districtCode": "12.18.051",
+    "name": "Paya Pinang",
+    "alias": "Paya Pinang"
+  },
+  {
+    "code": "12.18.051.005",
+    "villageCode": "005",
+    "districtCode": "12.18.051",
+    "name": "Laut Tador",
+    "alias": "Laut Tador"
+  },
+  {
+    "code": "12.18.051.006",
+    "villageCode": "006",
+    "districtCode": "12.18.051",
+    "name": "Kuta Pinang",
+    "alias": "Kuta Pinang"
+  },
+  {
+    "code": "12.18.051.007",
+    "villageCode": "007",
+    "districtCode": "12.18.051",
+    "name": "Tanah Besih",
+    "alias": "Tanah Besih"
+  },
+  {
+    "code": "12.18.051.008",
+    "villageCode": "008",
+    "districtCode": "12.18.051",
+    "name": "Paya Pasir",
+    "alias": "Paya Pasir"
+  },
+  {
+    "code": "12.18.051.009",
+    "villageCode": "009",
+    "districtCode": "12.18.051",
+    "name": "Binjai",
+    "alias": "Binjai"
+  },
+  {
+    "code": "12.18.051.010",
+    "villageCode": "010",
+    "districtCode": "12.18.051",
+    "name": "Penggalangan",
+    "alias": "Penggalangan"
+  }
+]

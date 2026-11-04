@@ -1,0 +1,100 @@
+[
+  {
+    "code": "53.13.122.001",
+    "villageCode": "001",
+    "districtCode": "53.13.122",
+    "name": "Urang",
+    "alias": "Urang"
+  },
+  {
+    "code": "53.13.122.002",
+    "villageCode": "002",
+    "districtCode": "53.13.122",
+    "name": "Ketang",
+    "alias": "Ketang"
+  },
+  {
+    "code": "53.13.122.003",
+    "villageCode": "003",
+    "districtCode": "53.13.122",
+    "name": "Bangka Lelak",
+    "alias": "Bangka Lelak"
+  },
+  {
+    "code": "53.13.122.004",
+    "villageCode": "004",
+    "districtCode": "53.13.122",
+    "name": "Gelong",
+    "alias": "Gelong"
+  },
+  {
+    "code": "53.13.122.005",
+    "villageCode": "005",
+    "districtCode": "53.13.122",
+    "name": "Pong Umpu",
+    "alias": "Pong Umpu"
+  },
+  {
+    "code": "53.13.122.006",
+    "villageCode": "006",
+    "districtCode": "53.13.122",
+    "name": "Ndiwar",
+    "alias": "Ndiwar"
+  },
+  {
+    "code": "53.13.122.007",
+    "villageCode": "007",
+    "districtCode": "53.13.122",
+    "name": "Nati",
+    "alias": "Nati"
+  },
+  {
+    "code": "53.13.122.008",
+    "villageCode": "008",
+    "districtCode": "53.13.122",
+    "name": "Bangka Dese",
+    "alias": "Bangka Dese"
+  },
+  {
+    "code": "53.13.122.009",
+    "villageCode": "009",
+    "districtCode": "53.13.122",
+    "name": "Lentang",
+    "alias": "Lentang"
+  },
+  {
+    "code": "53.13.122.010",
+    "villageCode": "010",
+    "districtCode": "53.13.122",
+    "name": "Bangka Tonggur",
+    "alias": "Bangka Tonggur"
+  },
+  {
+    "code": "53.13.122.011",
+    "villageCode": "011",
+    "districtCode": "53.13.122",
+    "name": "Desa Persiapan Redo",
+    "alias": "Desa Persiapan Redo"
+  },
+  {
+    "code": "53.13.122.012",
+    "villageCode": "012",
+    "districtCode": "53.13.122",
+    "name": "Desa Persiapan Wae Nanga",
+    "alias": "Desa Persiapan Wae Nanga"
+  },
+  {
+    "code": "53.13.122.013",
+    "villageCode": "013",
+    "districtCode": "53.13.122",
+    "name": "Desa Persiapan Rong",
+    "alias": "Desa Persiapan Rong"
+  },
+  {
+    "code": "53.13.122.014",
+    "villageCode": "014",
+    "districtCode": "53.13.122",
+    "name": "Desa Persiapan Watu Weri",
+    "alias": "Desa Persiapan Watu Weri"
+  }
+]

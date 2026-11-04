@@ -1,0 +1,72 @@
+[
+  {
+    "code": "81.07.040.005",
+    "villageCode": "005",
+    "districtCode": "81.07.040",
+    "name": "Salas",
+    "alias": "Salas"
+  },
+  {
+    "code": "81.07.040.006",
+    "villageCode": "006",
+    "districtCode": "81.07.040",
+    "name": "Bula",
+    "alias": "Bula"
+  },
+  {
+    "code": "81.07.040.017",
+    "villageCode": "017",
+    "districtCode": "81.07.040",
+    "name": "Bula Air Fattolo",
+    "alias": "Bula Air Fattolo"
+  },
+  {
+    "code": "81.07.040.018",
+    "villageCode": "018",
+    "districtCode": "81.07.040",
+    "name": "Sesar",
+    "alias": "Sesar"
+  },
+  {
+    "code": "81.07.040.019",
+    "villageCode": "019",
+    "districtCode": "81.07.040",
+    "name": "Englas",
+    "alias": "Englas"
+  },
+  {
+    "code": "81.07.040.024",
+    "villageCode": "024",
+    "districtCode": "81.07.040",
+    "name": "Lemumir",
+    "alias": "Lemumir"
+  },
+  {
+    "code": "81.07.040.025",
+    "villageCode": "025",
+    "districtCode": "81.07.040",
+    "name": "Fattolo",
+    "alias": "Fattolo"
+  },
+  {
+    "code": "81.07.040.026",
+    "villageCode": "026",
+    "districtCode": "81.07.040",
+    "name": "Tansi Ambon",
+    "alias": "Tansi Ambon"
+  },
+  {
+    "code": "81.07.040.027",
+    "villageCode": "027",
+    "districtCode": "81.07.040",
+    "name": "Kampung Wailola",
+    "alias": "Kampung Wailola"
+  },
+  {
+    "code": "81.07.040.028",
+    "villageCode": "028",
+    "districtCode": "81.07.040",
+    "name": "Kampung Gorom",
+    "alias": "Kampung Gorom"
+  }
+]

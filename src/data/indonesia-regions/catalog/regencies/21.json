@@ -1,0 +1,58 @@
+[
+  {
+    "code": "21.01",
+    "regencyCode": "01",
+    "provinceCode": "21",
+    "provinceName": "Kepulauan Riau",
+    "name": "Kabupaten Karimun",
+    "alias": "Karimun"
+  },
+  {
+    "code": "21.02",
+    "regencyCode": "02",
+    "provinceCode": "21",
+    "provinceName": "Kepulauan Riau",
+    "name": "Kabupaten Bintan",
+    "alias": "Bintan"
+  },
+  {
+    "code": "21.03",
+    "regencyCode": "03",
+    "provinceCode": "21",
+    "provinceName": "Kepulauan Riau",
+    "name": "Kabupaten Natuna",
+    "alias": "Natuna"
+  },
+  {
+    "code": "21.04",
+    "regencyCode": "04",
+    "provinceCode": "21",
+    "provinceName": "Kepulauan Riau",
+    "name": "Kabupaten Lingga",
+    "alias": "Lingga"
+  },
+  {
+    "code": "21.05",
+    "regencyCode": "05",
+    "provinceCode": "21",
+    "provinceName": "Kepulauan Riau",
+    "name": "Kabupaten Kepulauan Anambas",
+    "alias": "Kepulauan Anambas"
+  },
+  {
+    "code": "21.71",
+    "regencyCode": "71",
+    "provinceCode": "21",
+    "provinceName": "Kepulauan Riau",
+    "name": "Kota Batam",
+    "alias": "Batam"
+  },
+  {
+    "code": "21.72",
+    "regencyCode": "72",
+    "provinceCode": "21",
+    "provinceName": "Kepulauan Riau",
+    "name": "Kota Tanjung Pinang",
+    "alias": "Tanjung Pinang"
+  }
+]

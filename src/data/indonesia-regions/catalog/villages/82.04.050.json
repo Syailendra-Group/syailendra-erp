@@ -1,0 +1,51 @@
+[
+  {
+    "code": "82.04.050.001",
+    "villageCode": "001",
+    "districtCode": "82.04.050",
+    "name": "Wiring Yoyok",
+    "alias": "Wiring Yoyok"
+  },
+  {
+    "code": "82.04.050.002",
+    "villageCode": "002",
+    "districtCode": "82.04.050",
+    "name": "Tawabi",
+    "alias": "Tawabi"
+  },
+  {
+    "code": "82.04.050.016",
+    "villageCode": "016",
+    "districtCode": "82.04.050",
+    "name": "Nondang",
+    "alias": "Nondang"
+  },
+  {
+    "code": "82.04.050.017",
+    "villageCode": "017",
+    "districtCode": "82.04.050",
+    "name": "Indari",
+    "alias": "Indari"
+  },
+  {
+    "code": "82.04.050.018",
+    "villageCode": "018",
+    "districtCode": "82.04.050",
+    "name": "Kusubibi",
+    "alias": "Kusubibi"
+  },
+  {
+    "code": "82.04.050.019",
+    "villageCode": "019",
+    "districtCode": "82.04.050",
+    "name": "Kokotu",
+    "alias": "Kokotu"
+  },
+  {
+    "code": "82.04.050.028",
+    "villageCode": "028",
+    "districtCode": "82.04.050",
+    "name": "Kotunang",
+    "alias": "Kotunang"
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "code": "35.14.140.001",
+    "villageCode": "001",
+    "districtCode": "35.14.140",
+    "name": "Baujeng",
+    "alias": "Baujeng"
+  },
+  {
+    "code": "35.14.140.002",
+    "villageCode": "002",
+    "districtCode": "35.14.140",
+    "name": "Ngembe",
+    "alias": "Ngembe"
+  },
+  {
+    "code": "35.14.140.003",
+    "villageCode": "003",
+    "districtCode": "35.14.140",
+    "name": "Kenep",
+    "alias": "Kenep"
+  },
+  {
+    "code": "35.14.140.004",
+    "villageCode": "004",
+    "districtCode": "35.14.140",
+    "name": "Sidowayah",
+    "alias": "Sidowayah"
+  },
+  {
+    "code": "35.14.140.005",
+    "villageCode": "005",
+    "districtCode": "35.14.140",
+    "name": "Gajahbendo",
+    "alias": "Gajahbendo"
+  },
+  {
+    "code": "35.14.140.006",
+    "villageCode": "006",
+    "districtCode": "35.14.140",
+    "name": "Beji",
+    "alias": "Beji"
+  },
+  {
+    "code": "35.14.140.007",
+    "villageCode": "007",
+    "districtCode": "35.14.140",
+    "name": "Gunung Sari",
+    "alias": "Gunung Sari"
+  },
+  {
+    "code": "35.14.140.008",
+    "villageCode": "008",
+    "districtCode": "35.14.140",
+    "name": "Wonokoyo",
+    "alias": "Wonokoyo"
+  },
+  {
+    "code": "35.14.140.009",
+    "villageCode": "009",
+    "districtCode": "35.14.140",
+    "name": "Gunung Gangsir",
+    "alias": "Gunung Gangsir"
+  },
+  {
+    "code": "35.14.140.010",
+    "villageCode": "010",
+    "districtCode": "35.14.140",
+    "name": "Cangkring Malang",
+    "alias": "Cangkring Malang"
+  },
+  {
+    "code": "35.14.140.011",
+    "villageCode": "011",
+    "districtCode": "35.14.140",
+    "name": "Kedung Ringin",
+    "alias": "Kedung Ringin"
+  },
+  {
+    "code": "35.14.140.012",
+    "villageCode": "012",
+    "districtCode": "35.14.140",
+    "name": "Pagak",
+    "alias": "Pagak"
+  },
+  {
+    "code": "35.14.140.013",
+    "villageCode": "013",
+    "districtCode": "35.14.140",
+    "name": "Kedung Boto",
+    "alias": "Kedung Boto"
+  },
+  {
+    "code": "35.14.140.014",
+    "villageCode": "014",
+    "districtCode": "35.14.140",
+    "name": "Glanggang",
+    "alias": "Glanggang"
+  }
+]

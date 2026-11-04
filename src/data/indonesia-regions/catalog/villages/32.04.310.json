@@ -1,0 +1,65 @@
+[
+  {
+    "code": "32.04.310.001",
+    "villageCode": "001",
+    "districtCode": "32.04.310",
+    "name": "Cibeunying",
+    "alias": "Cibeunying"
+  },
+  {
+    "code": "32.04.310.002",
+    "villageCode": "002",
+    "districtCode": "32.04.310",
+    "name": "Padasuka",
+    "alias": "Padasuka"
+  },
+  {
+    "code": "32.04.310.003",
+    "villageCode": "003",
+    "districtCode": "32.04.310",
+    "name": "Mandalamekar",
+    "alias": "Mandalamekar"
+  },
+  {
+    "code": "32.04.310.004",
+    "villageCode": "004",
+    "districtCode": "32.04.310",
+    "name": "Cikadut",
+    "alias": "Cikadut"
+  },
+  {
+    "code": "32.04.310.005",
+    "villageCode": "005",
+    "districtCode": "32.04.310",
+    "name": "Sindanglaya",
+    "alias": "Sindanglaya"
+  },
+  {
+    "code": "32.04.310.006",
+    "villageCode": "006",
+    "districtCode": "32.04.310",
+    "name": "Mekarmanik",
+    "alias": "Mekarmanik"
+  },
+  {
+    "code": "32.04.310.007",
+    "villageCode": "007",
+    "districtCode": "32.04.310",
+    "name": "Cimenyan",
+    "alias": "Cimenyan"
+  },
+  {
+    "code": "32.04.310.008",
+    "villageCode": "008",
+    "districtCode": "32.04.310",
+    "name": "Mekarsaluyu",
+    "alias": "Mekarsaluyu"
+  },
+  {
+    "code": "32.04.310.009",
+    "villageCode": "009",
+    "districtCode": "32.04.310",
+    "name": "Ciburial",
+    "alias": "Ciburial"
+  }
+]

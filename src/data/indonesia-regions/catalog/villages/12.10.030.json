@@ -1,0 +1,79 @@
+[
+  {
+    "code": "12.10.030.002",
+    "villageCode": "002",
+    "districtCode": "12.10.030",
+    "name": "Sidiangkat",
+    "alias": "Sidiangkat"
+  },
+  {
+    "code": "12.10.030.003",
+    "villageCode": "003",
+    "districtCode": "12.10.030",
+    "name": "Batang Beruh",
+    "alias": "Batang Beruh"
+  },
+  {
+    "code": "12.10.030.004",
+    "villageCode": "004",
+    "districtCode": "12.10.030",
+    "name": "Bintang Hulu",
+    "alias": "Bintang Hulu"
+  },
+  {
+    "code": "12.10.030.005",
+    "villageCode": "005",
+    "districtCode": "12.10.030",
+    "name": "Kalang Simbara",
+    "alias": "Kalang Simbara"
+  },
+  {
+    "code": "12.10.030.006",
+    "villageCode": "006",
+    "districtCode": "12.10.030",
+    "name": "Bintang",
+    "alias": "Bintang"
+  },
+  {
+    "code": "12.10.030.007",
+    "villageCode": "007",
+    "districtCode": "12.10.030",
+    "name": "Kalang",
+    "alias": "Kalang"
+  },
+  {
+    "code": "12.10.030.008",
+    "villageCode": "008",
+    "districtCode": "12.10.030",
+    "name": "Kota Sidikalang",
+    "alias": "Kota Sidikalang"
+  },
+  {
+    "code": "12.10.030.009",
+    "villageCode": "009",
+    "districtCode": "12.10.030",
+    "name": "Belang Malum",
+    "alias": "Belang Malum"
+  },
+  {
+    "code": "12.10.030.010",
+    "villageCode": "010",
+    "districtCode": "12.10.030",
+    "name": "Kuta Gambir",
+    "alias": "Kuta Gambir"
+  },
+  {
+    "code": "12.10.030.011",
+    "villageCode": "011",
+    "districtCode": "12.10.030",
+    "name": "Huta Rakjat",
+    "alias": "Huta Rakjat"
+  },
+  {
+    "code": "12.10.030.012",
+    "villageCode": "012",
+    "districtCode": "12.10.030",
+    "name": "Bintang Mersada",
+    "alias": "Bintang Mersada"
+  }
+]

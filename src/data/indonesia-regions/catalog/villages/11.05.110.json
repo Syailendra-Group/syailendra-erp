@@ -1,0 +1,268 @@
+[
+  {
+    "code": "11.05.110.008",
+    "villageCode": "008",
+    "districtCode": "11.05.110",
+    "name": "Cek Mbon",
+    "alias": "Cek Mbon"
+  },
+  {
+    "code": "11.05.110.018",
+    "villageCode": "018",
+    "districtCode": "11.05.110",
+    "name": "Seuneubok Pidie",
+    "alias": "Seuneubok Pidie"
+  },
+  {
+    "code": "11.05.110.019",
+    "villageCode": "019",
+    "districtCode": "11.05.110",
+    "name": "Kuala Leuge",
+    "alias": "Kuala Leuge"
+  },
+  {
+    "code": "11.05.110.020",
+    "villageCode": "020",
+    "districtCode": "11.05.110",
+    "name": "Seuneubok Peusangan",
+    "alias": "Seuneubok Peusangan"
+  },
+  {
+    "code": "11.05.110.023",
+    "villageCode": "023",
+    "districtCode": "11.05.110",
+    "name": "Leubuk Pempeng",
+    "alias": "Leubuk Pempeng"
+  },
+  {
+    "code": "11.05.110.024",
+    "villageCode": "024",
+    "districtCode": "11.05.110",
+    "name": "Dama Tutong",
+    "alias": "Dama Tutong"
+  },
+  {
+    "code": "11.05.110.025",
+    "villageCode": "025",
+    "districtCode": "11.05.110",
+    "name": "Bale Buya",
+    "alias": "Bale Buya"
+  },
+  {
+    "code": "11.05.110.026",
+    "villageCode": "026",
+    "districtCode": "11.05.110",
+    "name": "Matang Gleum",
+    "alias": "Matang Gleum"
+  },
+  {
+    "code": "11.05.110.027",
+    "villageCode": "027",
+    "districtCode": "11.05.110",
+    "name": "Alue Nibong",
+    "alias": "Alue Nibong"
+  },
+  {
+    "code": "11.05.110.028",
+    "villageCode": "028",
+    "districtCode": "11.05.110",
+    "name": "Buket Pala",
+    "alias": "Buket Pala"
+  },
+  {
+    "code": "11.05.110.029",
+    "villageCode": "029",
+    "districtCode": "11.05.110",
+    "name": "Blang Simpo",
+    "alias": "Blang Simpo"
+  },
+  {
+    "code": "11.05.110.030",
+    "villageCode": "030",
+    "districtCode": "11.05.110",
+    "name": "Paya Kalut",
+    "alias": "Paya Kalut"
+  },
+  {
+    "code": "11.05.110.031",
+    "villageCode": "031",
+    "districtCode": "11.05.110",
+    "name": "Alue Dua Paya Gajah",
+    "alias": "Alue Dua Paya Gajah"
+  },
+  {
+    "code": "11.05.110.032",
+    "villageCode": "032",
+    "districtCode": "11.05.110",
+    "name": "Seuneubok Aceh",
+    "alias": "Seuneubok Aceh"
+  },
+  {
+    "code": "11.05.110.033",
+    "villageCode": "033",
+    "districtCode": "11.05.110",
+    "name": "Uteun Dama",
+    "alias": "Uteun Dama"
+  },
+  {
+    "code": "11.05.110.034",
+    "villageCode": "034",
+    "districtCode": "11.05.110",
+    "name": "Paya Meuligo",
+    "alias": "Paya Meuligo"
+  },
+  {
+    "code": "11.05.110.035",
+    "villageCode": "035",
+    "districtCode": "11.05.110",
+    "name": "Punti",
+    "alias": "Punti"
+  },
+  {
+    "code": "11.05.110.036",
+    "villageCode": "036",
+    "districtCode": "11.05.110",
+    "name": "Keumuneng",
+    "alias": "Keumuneng"
+  },
+  {
+    "code": "11.05.110.037",
+    "villageCode": "037",
+    "districtCode": "11.05.110",
+    "name": "Bangka Rimueng",
+    "alias": "Bangka Rimueng"
+  },
+  {
+    "code": "11.05.110.038",
+    "villageCode": "038",
+    "districtCode": "11.05.110",
+    "name": "Leuge",
+    "alias": "Leuge"
+  },
+  {
+    "code": "11.05.110.039",
+    "villageCode": "039",
+    "districtCode": "11.05.110",
+    "name": "Lhok Dalam",
+    "alias": "Lhok Dalam"
+  },
+  {
+    "code": "11.05.110.040",
+    "villageCode": "040",
+    "districtCode": "11.05.110",
+    "name": "Bandrong",
+    "alias": "Bandrong"
+  },
+  {
+    "code": "11.05.110.042",
+    "villageCode": "042",
+    "districtCode": "11.05.110",
+    "name": "Tanah Rata",
+    "alias": "Tanah Rata"
+  },
+  {
+    "code": "11.05.110.043",
+    "villageCode": "043",
+    "districtCode": "11.05.110",
+    "name": "Tualang",
+    "alias": "Tualang"
+  },
+  {
+    "code": "11.05.110.044",
+    "villageCode": "044",
+    "districtCode": "11.05.110",
+    "name": "Keude Peureulak",
+    "alias": "Keude Peureulak"
+  },
+  {
+    "code": "11.05.110.045",
+    "villageCode": "045",
+    "districtCode": "11.05.110",
+    "name": "Cot Muda Itam",
+    "alias": "Cot Muda Itam"
+  },
+  {
+    "code": "11.05.110.046",
+    "villageCode": "046",
+    "districtCode": "11.05.110",
+    "name": "Pasir Putih",
+    "alias": "Pasir Putih"
+  },
+  {
+    "code": "11.05.110.047",
+    "villageCode": "047",
+    "districtCode": "11.05.110",
+    "name": "Blang Betra",
+    "alias": "Blang Betra"
+  },
+  {
+    "code": "11.05.110.055",
+    "villageCode": "055",
+    "districtCode": "11.05.110",
+    "name": "Beusa Meuranou",
+    "alias": "Beusa Meuranou"
+  },
+  {
+    "code": "11.05.110.056",
+    "villageCode": "056",
+    "districtCode": "11.05.110",
+    "name": "Seumatang Muda Itam",
+    "alias": "Seumatang Muda Itam"
+  },
+  {
+    "code": "11.05.110.057",
+    "villageCode": "057",
+    "districtCode": "11.05.110",
+    "name": "Blang Balok",
+    "alias": "Blang Balok"
+  },
+  {
+    "code": "11.05.110.058",
+    "villageCode": "058",
+    "districtCode": "11.05.110",
+    "name": "Kuala Bugak",
+    "alias": "Kuala Bugak"
+  },
+  {
+    "code": "11.05.110.059",
+    "villageCode": "059",
+    "districtCode": "11.05.110",
+    "name": "Paya Lipah",
+    "alias": "Paya Lipah"
+  },
+  {
+    "code": "11.05.110.060",
+    "villageCode": "060",
+    "districtCode": "11.05.110",
+    "name": "Cot Geulumpang",
+    "alias": "Cot Geulumpang"
+  },
+  {
+    "code": "11.05.110.062",
+    "villageCode": "062",
+    "districtCode": "11.05.110",
+    "name": "Cot Keh",
+    "alias": "Cot Keh"
+  },
+  {
+    "code": "11.05.110.063",
+    "villageCode": "063",
+    "districtCode": "11.05.110",
+    "name": "Blang Batee",
+    "alias": "Blang Batee"
+  },
+  {
+    "code": "11.05.110.064",
+    "villageCode": "064",
+    "districtCode": "11.05.110",
+    "name": "Alue Rambong",
+    "alias": "Alue Rambong"
+  },
+  {
+    "code": "11.05.110.065",
+    "villageCode": "065",
+    "districtCode": "11.05.110",
+    "name": "Matang Peulawi",
+    "alias": "Matang Peulawi"
+  }
+]

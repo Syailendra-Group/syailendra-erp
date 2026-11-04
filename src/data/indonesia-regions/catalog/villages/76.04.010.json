@@ -1,0 +1,72 @@
+[
+  {
+    "code": "76.04.010.001",
+    "villageCode": "001",
+    "districtCode": "76.04.010",
+    "name": "Kasambang",
+    "alias": "Kasambang"
+  },
+  {
+    "code": "76.04.010.002",
+    "villageCode": "002",
+    "districtCode": "76.04.010",
+    "name": "Bela",
+    "alias": "Bela"
+  },
+  {
+    "code": "76.04.010.003",
+    "villageCode": "003",
+    "districtCode": "76.04.010",
+    "name": "Galung",
+    "alias": "Galung"
+  },
+  {
+    "code": "76.04.010.004",
+    "villageCode": "004",
+    "districtCode": "76.04.010",
+    "name": "Orobatu",
+    "alias": "Orobatu"
+  },
+  {
+    "code": "76.04.010.005",
+    "villageCode": "005",
+    "districtCode": "76.04.010",
+    "name": "Takandeang",
+    "alias": "Takandeang"
+  },
+  {
+    "code": "76.04.010.006",
+    "villageCode": "006",
+    "districtCode": "76.04.010",
+    "name": "Taan",
+    "alias": "Taan"
+  },
+  {
+    "code": "76.04.010.007",
+    "villageCode": "007",
+    "districtCode": "76.04.010",
+    "name": "Kopeang",
+    "alias": "Kopeang"
+  },
+  {
+    "code": "76.04.010.008",
+    "villageCode": "008",
+    "districtCode": "76.04.010",
+    "name": "Rantedoda",
+    "alias": "Rantedoda"
+  },
+  {
+    "code": "76.04.010.009",
+    "villageCode": "009",
+    "districtCode": "76.04.010",
+    "name": "Tampalang",
+    "alias": "Tampalang"
+  },
+  {
+    "code": "76.04.010.010",
+    "villageCode": "010",
+    "districtCode": "76.04.010",
+    "name": "Dayanginna",
+    "alias": "Dayanginna"
+  }
+]

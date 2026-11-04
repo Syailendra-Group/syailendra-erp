@@ -1,0 +1,100 @@
+[
+  {
+    "code": "61.08.130.001",
+    "villageCode": "001",
+    "districtCode": "61.08.130",
+    "name": "Temenang",
+    "alias": "Temenang"
+  },
+  {
+    "code": "61.08.130.002",
+    "villageCode": "002",
+    "districtCode": "61.08.130",
+    "name": "Jongkong Kanan",
+    "alias": "Jongkong Kanan"
+  },
+  {
+    "code": "61.08.130.003",
+    "villageCode": "003",
+    "districtCode": "61.08.130",
+    "name": "Jongkong Pasar",
+    "alias": "Jongkong Pasar"
+  },
+  {
+    "code": "61.08.130.004",
+    "villageCode": "004",
+    "districtCode": "61.08.130",
+    "name": "Jongkong Kiri Hilir",
+    "alias": "Jongkong Kiri Hilir"
+  },
+  {
+    "code": "61.08.130.005",
+    "villageCode": "005",
+    "districtCode": "61.08.130",
+    "name": "Jongkong Kiri Hulu",
+    "alias": "Jongkong Kiri Hulu"
+  },
+  {
+    "code": "61.08.130.006",
+    "villageCode": "006",
+    "districtCode": "61.08.130",
+    "name": "Ujung Said",
+    "alias": "Ujung Said"
+  },
+  {
+    "code": "61.08.130.007",
+    "villageCode": "007",
+    "districtCode": "61.08.130",
+    "name": "Ujung Jambu",
+    "alias": "Ujung Jambu"
+  },
+  {
+    "code": "61.08.130.008",
+    "villageCode": "008",
+    "districtCode": "61.08.130",
+    "name": "Bontai",
+    "alias": "Bontai"
+  },
+  {
+    "code": "61.08.130.009",
+    "villageCode": "009",
+    "districtCode": "61.08.130",
+    "name": "Jongkong Kiri Tengah",
+    "alias": "Jongkong Kiri Tengah"
+  },
+  {
+    "code": "61.08.130.010",
+    "villageCode": "010",
+    "districtCode": "61.08.130",
+    "name": "Jongkong Tanjung",
+    "alias": "Jongkong Tanjung"
+  },
+  {
+    "code": "61.08.130.011",
+    "villageCode": "011",
+    "districtCode": "61.08.130",
+    "name": "Kandung Suli",
+    "alias": "Kandung Suli"
+  },
+  {
+    "code": "61.08.130.012",
+    "villageCode": "012",
+    "districtCode": "61.08.130",
+    "name": "Penepian Raya",
+    "alias": "Penepian Raya"
+  },
+  {
+    "code": "61.08.130.013",
+    "villageCode": "013",
+    "districtCode": "61.08.130",
+    "name": "Karya Baru",
+    "alias": "Karya Baru"
+  },
+  {
+    "code": "61.08.130.014",
+    "villageCode": "014",
+    "districtCode": "61.08.130",
+    "name": "Nanga Serian",
+    "alias": "Nanga Serian"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "code": "36.03.040.001",
+    "villageCode": "001",
+    "districtCode": "36.03.040",
+    "name": "Ranca Iyuh",
+    "alias": "Ranca Iyuh"
+  },
+  {
+    "code": "36.03.040.002",
+    "villageCode": "002",
+    "districtCode": "36.03.040",
+    "name": "Mekar Jaya",
+    "alias": "Mekar Jaya"
+  },
+  {
+    "code": "36.03.040.003",
+    "villageCode": "003",
+    "districtCode": "36.03.040",
+    "name": "Ranca Kalapa",
+    "alias": "Ranca Kalapa"
+  },
+  {
+    "code": "36.03.040.004",
+    "villageCode": "004",
+    "districtCode": "36.03.040",
+    "name": "Panongan",
+    "alias": "Panongan"
+  },
+  {
+    "code": "36.03.040.005",
+    "villageCode": "005",
+    "districtCode": "36.03.040",
+    "name": "Serdang Kulon",
+    "alias": "Serdang Kulon"
+  },
+  {
+    "code": "36.03.040.006",
+    "villageCode": "006",
+    "districtCode": "36.03.040",
+    "name": "Ciakar",
+    "alias": "Ciakar"
+  },
+  {
+    "code": "36.03.040.007",
+    "villageCode": "007",
+    "districtCode": "36.03.040",
+    "name": "Mekar Bakti",
+    "alias": "Mekar Bakti"
+  },
+  {
+    "code": "36.03.040.008",
+    "villageCode": "008",
+    "districtCode": "36.03.040",
+    "name": "Peusar",
+    "alias": "Peusar"
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "code": "15.07.020.005",
+    "villageCode": "005",
+    "districtCode": "15.07.020",
+    "name": "Teluk Nilau",
+    "alias": "Teluk Nilau"
+  },
+  {
+    "code": "15.07.020.006",
+    "villageCode": "006",
+    "districtCode": "15.07.020",
+    "name": "Sungai Serindit",
+    "alias": "Sungai Serindit"
+  },
+  {
+    "code": "15.07.020.007",
+    "villageCode": "007",
+    "districtCode": "15.07.020",
+    "name": "Parit Pudin",
+    "alias": "Parit Pudin"
+  },
+  {
+    "code": "15.07.020.008",
+    "villageCode": "008",
+    "districtCode": "15.07.020",
+    "name": "Mekar Jati",
+    "alias": "Mekar Jati"
+  },
+  {
+    "code": "15.07.020.010",
+    "villageCode": "010",
+    "districtCode": "15.07.020",
+    "name": "Parit Bilal",
+    "alias": "Parit Bilal"
+  },
+  {
+    "code": "15.07.020.011",
+    "villageCode": "011",
+    "districtCode": "15.07.020",
+    "name": "Suak Samin",
+    "alias": "Suak Samin"
+  },
+  {
+    "code": "15.07.020.012",
+    "villageCode": "012",
+    "districtCode": "15.07.020",
+    "name": "Parit Sidang",
+    "alias": "Parit Sidang"
+  },
+  {
+    "code": "15.07.020.013",
+    "villageCode": "013",
+    "districtCode": "15.07.020",
+    "name": "Sungai Pampang",
+    "alias": "Sungai Pampang"
+  },
+  {
+    "code": "15.07.020.014",
+    "villageCode": "014",
+    "districtCode": "15.07.020",
+    "name": "Sungai Jering",
+    "alias": "Sungai Jering"
+  },
+  {
+    "code": "15.07.020.015",
+    "villageCode": "015",
+    "districtCode": "15.07.020",
+    "name": "Sungai Raya",
+    "alias": "Sungai Raya"
+  },
+  {
+    "code": "15.07.020.016",
+    "villageCode": "016",
+    "districtCode": "15.07.020",
+    "name": "Sungai Baung",
+    "alias": "Sungai Baung"
+  },
+  {
+    "code": "15.07.020.017",
+    "villageCode": "017",
+    "districtCode": "15.07.020",
+    "name": "Karya Maju",
+    "alias": "Karya Maju"
+  },
+  {
+    "code": "15.07.020.018",
+    "villageCode": "018",
+    "districtCode": "15.07.020",
+    "name": "Pasar Senin",
+    "alias": "Pasar Senin"
+  }
+]

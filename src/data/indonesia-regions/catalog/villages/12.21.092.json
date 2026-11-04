@@ -1,0 +1,93 @@
+[
+  {
+    "code": "12.21.092.001",
+    "villageCode": "001",
+    "districtCode": "12.21.092",
+    "name": "Gulangan",
+    "alias": "Gulangan"
+  },
+  {
+    "code": "12.21.092.002",
+    "villageCode": "002",
+    "districtCode": "12.21.092",
+    "name": "Aek Goti",
+    "alias": "Aek Goti"
+  },
+  {
+    "code": "12.21.092.003",
+    "villageCode": "003",
+    "districtCode": "12.21.092",
+    "name": "Sitada Tada",
+    "alias": "Sitada Tada"
+  },
+  {
+    "code": "12.21.092.004",
+    "villageCode": "004",
+    "districtCode": "12.21.092",
+    "name": "Lubuk Gonting",
+    "alias": "Lubuk Gonting"
+  },
+  {
+    "code": "12.21.092.005",
+    "villageCode": "005",
+    "districtCode": "12.21.092",
+    "name": "Padang Hasior Dolok",
+    "alias": "Padang Hasior Dolok"
+  },
+  {
+    "code": "12.21.092.006",
+    "villageCode": "006",
+    "districtCode": "12.21.092",
+    "name": "Padang Hasior Lombang",
+    "alias": "Padang Hasior Lombang"
+  },
+  {
+    "code": "12.21.092.007",
+    "villageCode": "007",
+    "districtCode": "12.21.092",
+    "name": "Paran Dolok",
+    "alias": "Paran Dolok"
+  },
+  {
+    "code": "12.21.092.008",
+    "villageCode": "008",
+    "districtCode": "12.21.092",
+    "name": "Ujung Gading",
+    "alias": "Ujung Gading"
+  },
+  {
+    "code": "12.21.092.009",
+    "villageCode": "009",
+    "districtCode": "12.21.092",
+    "name": "Simaninggir",
+    "alias": "Simaninggir"
+  },
+  {
+    "code": "12.21.092.010",
+    "villageCode": "010",
+    "districtCode": "12.21.092",
+    "name": "Tanjung Morang",
+    "alias": "Tanjung Morang"
+  },
+  {
+    "code": "12.21.092.011",
+    "villageCode": "011",
+    "districtCode": "12.21.092",
+    "name": "Silenjeng",
+    "alias": "Silenjeng"
+  },
+  {
+    "code": "12.21.092.012",
+    "villageCode": "012",
+    "districtCode": "12.21.092",
+    "name": "Balangka",
+    "alias": "Balangka"
+  },
+  {
+    "code": "12.21.092.013",
+    "villageCode": "013",
+    "districtCode": "12.21.092",
+    "name": "Ujung Padang",
+    "alias": "Ujung Padang"
+  }
+]

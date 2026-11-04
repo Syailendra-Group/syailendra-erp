@@ -1,0 +1,50 @@
+[
+  {
+    "code": "12.78.010",
+    "districtCode": "010",
+    "regencyCode": "12.78",
+    "provinceCode": "12",
+    "name": "Kecamatan Gunungsitoli Idanoi",
+    "alias": "Gunungsitoli Idanoi"
+  },
+  {
+    "code": "12.78.020",
+    "districtCode": "020",
+    "regencyCode": "12.78",
+    "provinceCode": "12",
+    "name": "Kecamatan Gunungsitoli Selatan",
+    "alias": "Gunungsitoli Selatan"
+  },
+  {
+    "code": "12.78.030",
+    "districtCode": "030",
+    "regencyCode": "12.78",
+    "provinceCode": "12",
+    "name": "Kecamatan Gunungsitoli Barat",
+    "alias": "Gunungsitoli Barat"
+  },
+  {
+    "code": "12.78.040",
+    "districtCode": "040",
+    "regencyCode": "12.78",
+    "provinceCode": "12",
+    "name": "Kecamatan Gunung Sitoli",
+    "alias": "Gunung Sitoli"
+  },
+  {
+    "code": "12.78.050",
+    "districtCode": "050",
+    "regencyCode": "12.78",
+    "provinceCode": "12",
+    "name": "Kecamatan Gunungsitoli Alo Oa",
+    "alias": "Gunungsitoli Alo Oa"
+  },
+  {
+    "code": "12.78.060",
+    "districtCode": "060",
+    "regencyCode": "12.78",
+    "provinceCode": "12",
+    "name": "Kecamatan Gunungsitoli Utara",
+    "alias": "Gunungsitoli Utara"
+  }
+]

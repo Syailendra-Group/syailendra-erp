@@ -1,0 +1,79 @@
+[
+  {
+    "code": "73.08.070.001",
+    "villageCode": "001",
+    "districtCode": "73.08.070",
+    "name": "Padaelo",
+    "alias": "Padaelo"
+  },
+  {
+    "code": "73.08.070.002",
+    "villageCode": "002",
+    "districtCode": "73.08.070",
+    "name": "Barugae",
+    "alias": "Barugae"
+  },
+  {
+    "code": "73.08.070.003",
+    "villageCode": "003",
+    "districtCode": "73.08.070",
+    "name": "Bentenge",
+    "alias": "Bentenge"
+  },
+  {
+    "code": "73.08.070.004",
+    "villageCode": "004",
+    "districtCode": "73.08.070",
+    "name": "Tellumpanuae",
+    "alias": "Tellumpanuae"
+  },
+  {
+    "code": "73.08.070.005",
+    "villageCode": "005",
+    "districtCode": "73.08.070",
+    "name": "Sabila",
+    "alias": "Sabila"
+  },
+  {
+    "code": "73.08.070.006",
+    "villageCode": "006",
+    "districtCode": "73.08.070",
+    "name": "Mattampapole",
+    "alias": "Mattampapole"
+  },
+  {
+    "code": "73.08.070.007",
+    "villageCode": "007",
+    "districtCode": "73.08.070",
+    "name": "Batu Putih",
+    "alias": "Batu Putih"
+  },
+  {
+    "code": "73.08.070.008",
+    "villageCode": "008",
+    "districtCode": "73.08.070",
+    "name": "Uludaya",
+    "alias": "Uludaya"
+  },
+  {
+    "code": "73.08.070.009",
+    "villageCode": "009",
+    "districtCode": "73.08.070",
+    "name": "Samaenre",
+    "alias": "Samaenre"
+  },
+  {
+    "code": "73.08.070.010",
+    "villageCode": "010",
+    "districtCode": "73.08.070",
+    "name": "Gattareng Matinggi",
+    "alias": "Gattareng Matinggi"
+  },
+  {
+    "code": "73.08.070.011",
+    "villageCode": "011",
+    "districtCode": "73.08.070",
+    "name": "Wanua Waru",
+    "alias": "Wanua Waru"
+  }
+]

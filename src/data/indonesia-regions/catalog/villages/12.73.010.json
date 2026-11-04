@@ -1,0 +1,51 @@
+[
+  {
+    "code": "12.73.010.004",
+    "villageCode": "004",
+    "districtCode": "12.73.010",
+    "name": "Sukamakmur",
+    "alias": "Sukamakmur"
+  },
+  {
+    "code": "12.73.010.005",
+    "villageCode": "005",
+    "districtCode": "12.73.010",
+    "name": "Pardamean",
+    "alias": "Pardamean"
+  },
+  {
+    "code": "12.73.010.006",
+    "villageCode": "006",
+    "districtCode": "12.73.010",
+    "name": "Sukaraja",
+    "alias": "Sukaraja"
+  },
+  {
+    "code": "12.73.010.007",
+    "villageCode": "007",
+    "districtCode": "12.73.010",
+    "name": "Bp Nauli",
+    "alias": "Bp Nauli"
+  },
+  {
+    "code": "12.73.010.008",
+    "villageCode": "008",
+    "districtCode": "12.73.010",
+    "name": "Sukamaju",
+    "alias": "Sukamaju"
+  },
+  {
+    "code": "12.73.010.009",
+    "villageCode": "009",
+    "districtCode": "12.73.010",
+    "name": "Parhorasan Nauli",
+    "alias": "Parhorasan Nauli"
+  },
+  {
+    "code": "12.73.010.010",
+    "villageCode": "010",
+    "districtCode": "12.73.010",
+    "name": "Mekar Nauli",
+    "alias": "Mekar Nauli"
+  }
+]

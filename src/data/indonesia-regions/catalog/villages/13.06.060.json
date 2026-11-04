@@ -1,0 +1,86 @@
+[
+  {
+    "code": "13.06.060.001",
+    "villageCode": "001",
+    "districtCode": "13.06.060",
+    "name": "Balah Aie",
+    "alias": "Balah Aie"
+  },
+  {
+    "code": "13.06.060.002",
+    "villageCode": "002",
+    "districtCode": "13.06.060",
+    "name": "Lareh Nan Panjang",
+    "alias": "Lareh Nan Panjang"
+  },
+  {
+    "code": "13.06.060.003",
+    "villageCode": "003",
+    "districtCode": "13.06.060",
+    "name": "Lurah Ampalu",
+    "alias": "Lurah Ampalu"
+  },
+  {
+    "code": "13.06.060.004",
+    "villageCode": "004",
+    "districtCode": "13.06.060",
+    "name": "Sungai Sariak",
+    "alias": "Sungai Sariak"
+  },
+  {
+    "code": "13.06.060.005",
+    "villageCode": "005",
+    "districtCode": "13.06.060",
+    "name": "Balah Aie Timur",
+    "alias": "Balah Aie Timur"
+  },
+  {
+    "code": "13.06.060.006",
+    "villageCode": "006",
+    "districtCode": "13.06.060",
+    "name": "Balah Aie Utara",
+    "alias": "Balah Aie Utara"
+  },
+  {
+    "code": "13.06.060.007",
+    "villageCode": "007",
+    "districtCode": "13.06.060",
+    "name": "Lareh Nan Panjang Selatan",
+    "alias": "Lareh Nan Panjang Selatan"
+  },
+  {
+    "code": "13.06.060.008",
+    "villageCode": "008",
+    "districtCode": "13.06.060",
+    "name": "Lareh Nan Panjang Barat",
+    "alias": "Lareh Nan Panjang Barat"
+  },
+  {
+    "code": "13.06.060.009",
+    "villageCode": "009",
+    "districtCode": "13.06.060",
+    "name": "Limpato Sungai Sariak",
+    "alias": "Limpato Sungai Sariak"
+  },
+  {
+    "code": "13.06.060.010",
+    "villageCode": "010",
+    "districtCode": "13.06.060",
+    "name": "Bisati Sungai Sariak",
+    "alias": "Bisati Sungai Sariak"
+  },
+  {
+    "code": "13.06.060.011",
+    "villageCode": "011",
+    "districtCode": "13.06.060",
+    "name": "Lareh Nan Panjang Sungai Sariak",
+    "alias": "Lareh Nan Panjang Sungai Sariak"
+  },
+  {
+    "code": "13.06.060.012",
+    "villageCode": "012",
+    "districtCode": "13.06.060",
+    "name": "Ambuang Kapua Sungai Sariak",
+    "alias": "Ambuang Kapua Sungai Sariak"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "code": "36.01.180.003",
+    "villageCode": "003",
+    "districtCode": "36.01.180",
+    "name": "Kadomas",
+    "alias": "Kadomas"
+  },
+  {
+    "code": "36.01.180.004",
+    "villageCode": "004",
+    "districtCode": "36.01.180",
+    "name": "Babakan Kalanganyar",
+    "alias": "Babakan Kalanganyar"
+  },
+  {
+    "code": "36.01.180.005",
+    "villageCode": "005",
+    "districtCode": "36.01.180",
+    "name": "Kabayan",
+    "alias": "Kabayan"
+  },
+  {
+    "code": "36.01.180.006",
+    "villageCode": "006",
+    "districtCode": "36.01.180",
+    "name": "Pandeglang",
+    "alias": "Pandeglang"
+  }
+]

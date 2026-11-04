@@ -1,0 +1,338 @@
+[
+  {
+    "code": "32.05.010",
+    "districtCode": "010",
+    "regencyCode": "32.05",
+    "provinceCode": "32",
+    "name": "Kecamatan Cisewu",
+    "alias": "Cisewu"
+  },
+  {
+    "code": "32.05.011",
+    "districtCode": "011",
+    "regencyCode": "32.05",
+    "provinceCode": "32",
+    "name": "Kecamatan Caringin",
+    "alias": "Caringin"
+  },
+  {
+    "code": "32.05.020",
+    "districtCode": "020",
+    "regencyCode": "32.05",
+    "provinceCode": "32",
+    "name": "Kecamatan Talegong",
+    "alias": "Talegong"
+  },
+  {
+    "code": "32.05.030",
+    "districtCode": "030",
+    "regencyCode": "32.05",
+    "provinceCode": "32",
+    "name": "Kecamatan Bungbulang",
+    "alias": "Bungbulang"
+  },
+  {
+    "code": "32.05.031",
+    "districtCode": "031",
+    "regencyCode": "32.05",
+    "provinceCode": "32",
+    "name": "Kecamatan Mekarmukti",
+    "alias": "Mekarmukti"
+  },
+  {
+    "code": "32.05.040",
+    "districtCode": "040",
+    "regencyCode": "32.05",
+    "provinceCode": "32",
+    "name": "Kecamatan Pamulihan",
+    "alias": "Pamulihan"
+  },
+  {
+    "code": "32.05.050",
+    "districtCode": "050",
+    "regencyCode": "32.05",
+    "provinceCode": "32",
+    "name": "Kecamatan Pakenjeng",
+    "alias": "Pakenjeng"
+  },
+  {
+    "code": "32.05.060",
+    "districtCode": "060",
+    "regencyCode": "32.05",
+    "provinceCode": "32",
+    "name": "Kecamatan Cikelet",
+    "alias": "Cikelet"
+  },
+  {
+    "code": "32.05.070",
+    "districtCode": "070",
+    "regencyCode": "32.05",
+    "provinceCode": "32",
+    "name": "Kecamatan Pameungpeuk",
+    "alias": "Pameungpeuk"
+  },
+  {
+    "code": "32.05.080",
+    "districtCode": "080",
+    "regencyCode": "32.05",
+    "provinceCode": "32",
+    "name": "Kecamatan Cibalong",
+    "alias": "Cibalong"
+  },
+  {
+    "code": "32.05.090",
+    "districtCode": "090",
+    "regencyCode": "32.05",
+    "provinceCode": "32",
+    "name": "Kecamatan Cisompet",
+    "alias": "Cisompet"
+  },
+  {
+    "code": "32.05.100",
+    "districtCode": "100",
+    "regencyCode": "32.05",
+    "provinceCode": "32",
+    "name": "Kecamatan Peundeuy",
+    "alias": "Peundeuy"
+  },
+  {
+    "code": "32.05.110",
+    "districtCode": "110",
+    "regencyCode": "32.05",
+    "provinceCode": "32",
+    "name": "Kecamatan Singajaya",
+    "alias": "Singajaya"
+  },
+  {
+    "code": "32.05.111",
+    "districtCode": "111",
+    "regencyCode": "32.05",
+    "provinceCode": "32",
+    "name": "Kecamatan Cihurip",
+    "alias": "Cihurip"
+  },
+  {
+    "code": "32.05.120",
+    "districtCode": "120",
+    "regencyCode": "32.05",
+    "provinceCode": "32",
+    "name": "Kecamatan Cikajang",
+    "alias": "Cikajang"
+  },
+  {
+    "code": "32.05.130",
+    "districtCode": "130",
+    "regencyCode": "32.05",
+    "provinceCode": "32",
+    "name": "Kecamatan Banjarwangi",
+    "alias": "Banjarwangi"
+  },
+  {
+    "code": "32.05.140",
+    "districtCode": "140",
+    "regencyCode": "32.05",
+    "provinceCode": "32",
+    "name": "Kecamatan Cilawu",
+    "alias": "Cilawu"
+  },
+  {
+    "code": "32.05.150",
+    "districtCode": "150",
+    "regencyCode": "32.05",
+    "provinceCode": "32",
+    "name": "Kecamatan Bayongbong",
+    "alias": "Bayongbong"
+  },
+  {
+    "code": "32.05.151",
+    "districtCode": "151",
+    "regencyCode": "32.05",
+    "provinceCode": "32",
+    "name": "Kecamatan Cigedug",
+    "alias": "Cigedug"
+  },
+  {
+    "code": "32.05.160",
+    "districtCode": "160",
+    "regencyCode": "32.05",
+    "provinceCode": "32",
+    "name": "Kecamatan Cisurupan",
+    "alias": "Cisurupan"
+  },
+  {
+    "code": "32.05.161",
+    "districtCode": "161",
+    "regencyCode": "32.05",
+    "provinceCode": "32",
+    "name": "Kecamatan Sukaresmi",
+    "alias": "Sukaresmi"
+  },
+  {
+    "code": "32.05.170",
+    "districtCode": "170",
+    "regencyCode": "32.05",
+    "provinceCode": "32",
+    "name": "Kecamatan Samarang",
+    "alias": "Samarang"
+  },
+  {
+    "code": "32.05.171",
+    "districtCode": "171",
+    "regencyCode": "32.05",
+    "provinceCode": "32",
+    "name": "Kecamatan Pasirwangi",
+    "alias": "Pasirwangi"
+  },
+  {
+    "code": "32.05.181",
+    "districtCode": "181",
+    "regencyCode": "32.05",
+    "provinceCode": "32",
+    "name": "Kecamatan Tarogong Kidul",
+    "alias": "Tarogong Kidul"
+  },
+  {
+    "code": "32.05.182",
+    "districtCode": "182",
+    "regencyCode": "32.05",
+    "provinceCode": "32",
+    "name": "Kecamatan Tarogong Kaler",
+    "alias": "Tarogong Kaler"
+  },
+  {
+    "code": "32.05.190",
+    "districtCode": "190",
+    "regencyCode": "32.05",
+    "provinceCode": "32",
+    "name": "Kecamatan Garut Kota",
+    "alias": "Garut Kota"
+  },
+  {
+    "code": "32.05.200",
+    "districtCode": "200",
+    "regencyCode": "32.05",
+    "provinceCode": "32",
+    "name": "Kecamatan Karangpawitan",
+    "alias": "Karangpawitan"
+  },
+  {
+    "code": "32.05.210",
+    "districtCode": "210",
+    "regencyCode": "32.05",
+    "provinceCode": "32",
+    "name": "Kecamatan Wanaraja",
+    "alias": "Wanaraja"
+  },
+  {
+    "code": "32.05.211",
+    "districtCode": "211",
+    "regencyCode": "32.05",
+    "provinceCode": "32",
+    "name": "Kecamatan Sucinaraja",
+    "alias": "Sucinaraja"
+  },
+  {
+    "code": "32.05.212",
+    "districtCode": "212",
+    "regencyCode": "32.05",
+    "provinceCode": "32",
+    "name": "Kecamatan Pangatikan",
+    "alias": "Pangatikan"
+  },
+  {
+    "code": "32.05.220",
+    "districtCode": "220",
+    "regencyCode": "32.05",
+    "provinceCode": "32",
+    "name": "Kecamatan Sukawening",
+    "alias": "Sukawening"
+  },
+  {
+    "code": "32.05.221",
+    "districtCode": "221",
+    "regencyCode": "32.05",
+    "provinceCode": "32",
+    "name": "Kecamatan Karangtengah",
+    "alias": "Karangtengah"
+  },
+  {
+    "code": "32.05.230",
+    "districtCode": "230",
+    "regencyCode": "32.05",
+    "provinceCode": "32",
+    "name": "Kecamatan Banyuresmi",
+    "alias": "Banyuresmi"
+  },
+  {
+    "code": "32.05.240",
+    "districtCode": "240",
+    "regencyCode": "32.05",
+    "provinceCode": "32",
+    "name": "Kecamatan Leles",
+    "alias": "Leles"
+  },
+  {
+    "code": "32.05.250",
+    "districtCode": "250",
+    "regencyCode": "32.05",
+    "provinceCode": "32",
+    "name": "Kecamatan Leuwigoong",
+    "alias": "Leuwigoong"
+  },
+  {
+    "code": "32.05.260",
+    "districtCode": "260",
+    "regencyCode": "32.05",
+    "provinceCode": "32",
+    "name": "Kecamatan Cibatu",
+    "alias": "Cibatu"
+  },
+  {
+    "code": "32.05.261",
+    "districtCode": "261",
+    "regencyCode": "32.05",
+    "provinceCode": "32",
+    "name": "Kecamatan Kersamanah",
+    "alias": "Kersamanah"
+  },
+  {
+    "code": "32.05.270",
+    "districtCode": "270",
+    "regencyCode": "32.05",
+    "provinceCode": "32",
+    "name": "Kecamatan Cibiuk",
+    "alias": "Cibiuk"
+  },
+  {
+    "code": "32.05.280",
+    "districtCode": "280",
+    "regencyCode": "32.05",
+    "provinceCode": "32",
+    "name": "Kecamatan Kadungora",
+    "alias": "Kadungora"
+  },
+  {
+    "code": "32.05.290",
+    "districtCode": "290",
+    "regencyCode": "32.05",
+    "provinceCode": "32",
+    "name": "Kecamatan Blubur Limbangan",
+    "alias": "Blubur Limbangan"
+  },
+  {
+    "code": "32.05.300",
+    "districtCode": "300",
+    "regencyCode": "32.05",
+    "provinceCode": "32",
+    "name": "Kecamatan Selaawi",
+    "alias": "Selaawi"
+  },
+  {
+    "code": "32.05.310",
+    "districtCode": "310",
+    "regencyCode": "32.05",
+    "provinceCode": "32",
+    "name": "Kecamatan Malangbong",
+    "alias": "Malangbong"
+  }
+]

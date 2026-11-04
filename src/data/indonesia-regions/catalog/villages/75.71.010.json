@@ -1,0 +1,51 @@
+[
+  {
+    "code": "75.71.010.001",
+    "villageCode": "001",
+    "districtCode": "75.71.010",
+    "name": "Dembe I",
+    "alias": "Dembe I"
+  },
+  {
+    "code": "75.71.010.002",
+    "villageCode": "002",
+    "districtCode": "75.71.010",
+    "name": "Lekobalo",
+    "alias": "Lekobalo"
+  },
+  {
+    "code": "75.71.010.003",
+    "villageCode": "003",
+    "districtCode": "75.71.010",
+    "name": "Pilolodaa",
+    "alias": "Pilolodaa"
+  },
+  {
+    "code": "75.71.010.004",
+    "villageCode": "004",
+    "districtCode": "75.71.010",
+    "name": "Buliide",
+    "alias": "Buliide"
+  },
+  {
+    "code": "75.71.010.005",
+    "villageCode": "005",
+    "districtCode": "75.71.010",
+    "name": "Tenilo",
+    "alias": "Tenilo"
+  },
+  {
+    "code": "75.71.010.006",
+    "villageCode": "006",
+    "districtCode": "75.71.010",
+    "name": "Molosipat W",
+    "alias": "Molosipat W"
+  },
+  {
+    "code": "75.71.010.008",
+    "villageCode": "008",
+    "districtCode": "75.71.010",
+    "name": "Buladu",
+    "alias": "Buladu"
+  }
+]

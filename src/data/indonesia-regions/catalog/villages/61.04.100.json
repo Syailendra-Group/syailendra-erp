@@ -1,0 +1,58 @@
+[
+  {
+    "code": "61.04.100.001",
+    "villageCode": "001",
+    "districtCode": "61.04.100",
+    "name": "Tanjung",
+    "alias": "Tanjung"
+  },
+  {
+    "code": "61.04.100.002",
+    "villageCode": "002",
+    "districtCode": "61.04.100",
+    "name": "Kuala Secapah",
+    "alias": "Kuala Secapah"
+  },
+  {
+    "code": "61.04.100.007",
+    "villageCode": "007",
+    "districtCode": "61.04.100",
+    "name": "Tengah",
+    "alias": "Tengah"
+  },
+  {
+    "code": "61.04.100.008",
+    "villageCode": "008",
+    "districtCode": "61.04.100",
+    "name": "Terusan",
+    "alias": "Terusan"
+  },
+  {
+    "code": "61.04.100.012",
+    "villageCode": "012",
+    "districtCode": "61.04.100",
+    "name": "Pasir",
+    "alias": "Pasir"
+  },
+  {
+    "code": "61.04.100.013",
+    "villageCode": "013",
+    "districtCode": "61.04.100",
+    "name": "Penibung",
+    "alias": "Penibung"
+  },
+  {
+    "code": "61.04.100.014",
+    "villageCode": "014",
+    "districtCode": "61.04.100",
+    "name": "Sengkubang",
+    "alias": "Sengkubang"
+  },
+  {
+    "code": "61.04.100.015",
+    "villageCode": "015",
+    "districtCode": "61.04.100",
+    "name": "Malikian",
+    "alias": "Malikian"
+  }
+]

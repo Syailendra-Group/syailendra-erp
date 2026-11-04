@@ -1,0 +1,250 @@
+[
+  {
+    "code": "32.04.010",
+    "districtCode": "010",
+    "regencyCode": "32.04",
+    "provinceCode": "32",
+    "name": "Kecamatan Ciwidey",
+    "alias": "Ciwidey"
+  },
+  {
+    "code": "32.04.011",
+    "districtCode": "011",
+    "regencyCode": "32.04",
+    "provinceCode": "32",
+    "name": "Kecamatan Rancabali",
+    "alias": "Rancabali"
+  },
+  {
+    "code": "32.04.020",
+    "districtCode": "020",
+    "regencyCode": "32.04",
+    "provinceCode": "32",
+    "name": "Kecamatan Pasirjambu",
+    "alias": "Pasirjambu"
+  },
+  {
+    "code": "32.04.030",
+    "districtCode": "030",
+    "regencyCode": "32.04",
+    "provinceCode": "32",
+    "name": "Kecamatan Cimaung",
+    "alias": "Cimaung"
+  },
+  {
+    "code": "32.04.040",
+    "districtCode": "040",
+    "regencyCode": "32.04",
+    "provinceCode": "32",
+    "name": "Kecamatan Pangalengan",
+    "alias": "Pangalengan"
+  },
+  {
+    "code": "32.04.050",
+    "districtCode": "050",
+    "regencyCode": "32.04",
+    "provinceCode": "32",
+    "name": "Kecamatan Kertasari",
+    "alias": "Kertasari"
+  },
+  {
+    "code": "32.04.060",
+    "districtCode": "060",
+    "regencyCode": "32.04",
+    "provinceCode": "32",
+    "name": "Kecamatan Pacet",
+    "alias": "Pacet"
+  },
+  {
+    "code": "32.04.070",
+    "districtCode": "070",
+    "regencyCode": "32.04",
+    "provinceCode": "32",
+    "name": "Kecamatan Ibun",
+    "alias": "Ibun"
+  },
+  {
+    "code": "32.04.080",
+    "districtCode": "080",
+    "regencyCode": "32.04",
+    "provinceCode": "32",
+    "name": "Kecamatan Paseh",
+    "alias": "Paseh"
+  },
+  {
+    "code": "32.04.090",
+    "districtCode": "090",
+    "regencyCode": "32.04",
+    "provinceCode": "32",
+    "name": "Kecamatan Cikancung",
+    "alias": "Cikancung"
+  },
+  {
+    "code": "32.04.100",
+    "districtCode": "100",
+    "regencyCode": "32.04",
+    "provinceCode": "32",
+    "name": "Kecamatan Cicalengka",
+    "alias": "Cicalengka"
+  },
+  {
+    "code": "32.04.101",
+    "districtCode": "101",
+    "regencyCode": "32.04",
+    "provinceCode": "32",
+    "name": "Kecamatan Nagreg",
+    "alias": "Nagreg"
+  },
+  {
+    "code": "32.04.110",
+    "districtCode": "110",
+    "regencyCode": "32.04",
+    "provinceCode": "32",
+    "name": "Kecamatan Rancaekek",
+    "alias": "Rancaekek"
+  },
+  {
+    "code": "32.04.120",
+    "districtCode": "120",
+    "regencyCode": "32.04",
+    "provinceCode": "32",
+    "name": "Kecamatan Majalaya",
+    "alias": "Majalaya"
+  },
+  {
+    "code": "32.04.121",
+    "districtCode": "121",
+    "regencyCode": "32.04",
+    "provinceCode": "32",
+    "name": "Kecamatan Solokan Jeruk",
+    "alias": "Solokan Jeruk"
+  },
+  {
+    "code": "32.04.130",
+    "districtCode": "130",
+    "regencyCode": "32.04",
+    "provinceCode": "32",
+    "name": "Kecamatan Ciparay",
+    "alias": "Ciparay"
+  },
+  {
+    "code": "32.04.140",
+    "districtCode": "140",
+    "regencyCode": "32.04",
+    "provinceCode": "32",
+    "name": "Kecamatan Baleendah",
+    "alias": "Baleendah"
+  },
+  {
+    "code": "32.04.150",
+    "districtCode": "150",
+    "regencyCode": "32.04",
+    "provinceCode": "32",
+    "name": "Kecamatan Arjasari",
+    "alias": "Arjasari"
+  },
+  {
+    "code": "32.04.160",
+    "districtCode": "160",
+    "regencyCode": "32.04",
+    "provinceCode": "32",
+    "name": "Kecamatan Banjaran",
+    "alias": "Banjaran"
+  },
+  {
+    "code": "32.04.161",
+    "districtCode": "161",
+    "regencyCode": "32.04",
+    "provinceCode": "32",
+    "name": "Kecamatan Cangkuang",
+    "alias": "Cangkuang"
+  },
+  {
+    "code": "32.04.170",
+    "districtCode": "170",
+    "regencyCode": "32.04",
+    "provinceCode": "32",
+    "name": "Kecamatan Pameungpeuk",
+    "alias": "Pameungpeuk"
+  },
+  {
+    "code": "32.04.180",
+    "districtCode": "180",
+    "regencyCode": "32.04",
+    "provinceCode": "32",
+    "name": "Kecamatan Katapang",
+    "alias": "Katapang"
+  },
+  {
+    "code": "32.04.190",
+    "districtCode": "190",
+    "regencyCode": "32.04",
+    "provinceCode": "32",
+    "name": "Kecamatan Soreang",
+    "alias": "Soreang"
+  },
+  {
+    "code": "32.04.191",
+    "districtCode": "191",
+    "regencyCode": "32.04",
+    "provinceCode": "32",
+    "name": "Kecamatan Kutawaringin",
+    "alias": "Kutawaringin"
+  },
+  {
+    "code": "32.04.250",
+    "districtCode": "250",
+    "regencyCode": "32.04",
+    "provinceCode": "32",
+    "name": "Kecamatan Margaasih",
+    "alias": "Margaasih"
+  },
+  {
+    "code": "32.04.260",
+    "districtCode": "260",
+    "regencyCode": "32.04",
+    "provinceCode": "32",
+    "name": "Kecamatan Margahayu",
+    "alias": "Margahayu"
+  },
+  {
+    "code": "32.04.270",
+    "districtCode": "270",
+    "regencyCode": "32.04",
+    "provinceCode": "32",
+    "name": "Kecamatan Dayeuhkolot",
+    "alias": "Dayeuhkolot"
+  },
+  {
+    "code": "32.04.280",
+    "districtCode": "280",
+    "regencyCode": "32.04",
+    "provinceCode": "32",
+    "name": "Kecamatan Bojongsoang",
+    "alias": "Bojongsoang"
+  },
+  {
+    "code": "32.04.290",
+    "districtCode": "290",
+    "regencyCode": "32.04",
+    "provinceCode": "32",
+    "name": "Kecamatan Cileunyi",
+    "alias": "Cileunyi"
+  },
+  {
+    "code": "32.04.300",
+    "districtCode": "300",
+    "regencyCode": "32.04",
+    "provinceCode": "32",
+    "name": "Kecamatan Cilengkrang",
+    "alias": "Cilengkrang"
+  },
+  {
+    "code": "32.04.310",
+    "districtCode": "310",
+    "regencyCode": "32.04",
+    "provinceCode": "32",
+    "name": "Kecamatan Cimenyan",
+    "alias": "Cimenyan"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "code": "95.04.050.005",
+    "villageCode": "005",
+    "districtCode": "95.04.050",
+    "name": "Ayam / Akat",
+    "alias": "Ayam / Akat"
+  },
+  {
+    "code": "95.04.050.013",
+    "villageCode": "013",
+    "districtCode": "95.04.050",
+    "name": "Waw Cesaw",
+    "alias": "Waw Cesaw"
+  },
+  {
+    "code": "95.04.050.014",
+    "villageCode": "014",
+    "districtCode": "95.04.050",
+    "name": "Bayiw Pinam",
+    "alias": "Bayiw Pinam"
+  },
+  {
+    "code": "95.04.050.015",
+    "villageCode": "015",
+    "districtCode": "95.04.050",
+    "name": "Cumnew",
+    "alias": "Cumnew"
+  },
+  {
+    "code": "95.04.050.016",
+    "villageCode": "016",
+    "districtCode": "95.04.050",
+    "name": "Jewes Doar",
+    "alias": "Jewes Doar"
+  }
+]

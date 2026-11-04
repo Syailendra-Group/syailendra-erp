@@ -1,0 +1,30 @@
+[
+  {
+    "code": "11.15.031.001",
+    "villageCode": "001",
+    "districtCode": "11.15.031",
+    "name": "Blang Meurandeh",
+    "alias": "Blang Meurandeh"
+  },
+  {
+    "code": "11.15.031.002",
+    "villageCode": "002",
+    "districtCode": "11.15.031",
+    "name": "Blang Puuk",
+    "alias": "Blang Puuk"
+  },
+  {
+    "code": "11.15.031.003",
+    "villageCode": "003",
+    "districtCode": "11.15.031",
+    "name": "Kuta Teungoh",
+    "alias": "Kuta Teungoh"
+  },
+  {
+    "code": "11.15.031.004",
+    "villageCode": "004",
+    "districtCode": "11.15.031",
+    "name": "Babah Suak",
+    "alias": "Babah Suak"
+  }
+]

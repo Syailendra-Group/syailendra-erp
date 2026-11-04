@@ -1,0 +1,58 @@
+[
+  {
+    "code": "12.76.010.001",
+    "villageCode": "001",
+    "districtCode": "12.76.010",
+    "name": "Tanah Merah",
+    "alias": "Tanah Merah"
+  },
+  {
+    "code": "12.76.010.002",
+    "villageCode": "002",
+    "districtCode": "12.76.010",
+    "name": "Bhakti Karya",
+    "alias": "Bhakti Karya"
+  },
+  {
+    "code": "12.76.010.003",
+    "villageCode": "003",
+    "districtCode": "12.76.010",
+    "name": "Tanah Seribu",
+    "alias": "Tanah Seribu"
+  },
+  {
+    "code": "12.76.010.004",
+    "villageCode": "004",
+    "districtCode": "12.76.010",
+    "name": "Puji Dadi",
+    "alias": "Puji Dadi"
+  },
+  {
+    "code": "12.76.010.005",
+    "villageCode": "005",
+    "districtCode": "12.76.010",
+    "name": "Binjai Estate",
+    "alias": "Binjai Estate"
+  },
+  {
+    "code": "12.76.010.006",
+    "villageCode": "006",
+    "districtCode": "12.76.010",
+    "name": "Rambung Barat",
+    "alias": "Rambung Barat"
+  },
+  {
+    "code": "12.76.010.007",
+    "villageCode": "007",
+    "districtCode": "12.76.010",
+    "name": "Rambung Dalam",
+    "alias": "Rambung Dalam"
+  },
+  {
+    "code": "12.76.010.008",
+    "villageCode": "008",
+    "districtCode": "12.76.010",
+    "name": "Rambung Timur",
+    "alias": "Rambung Timur"
+  }
+]

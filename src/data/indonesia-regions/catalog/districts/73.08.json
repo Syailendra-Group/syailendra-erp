@@ -1,0 +1,114 @@
+[
+  {
+    "code": "73.08.010",
+    "districtCode": "010",
+    "regencyCode": "73.08",
+    "provinceCode": "73",
+    "name": "Kecamatan Mandai",
+    "alias": "Mandai"
+  },
+  {
+    "code": "73.08.011",
+    "districtCode": "011",
+    "regencyCode": "73.08",
+    "provinceCode": "73",
+    "name": "Kecamatan Moncongloe",
+    "alias": "Moncongloe"
+  },
+  {
+    "code": "73.08.020",
+    "districtCode": "020",
+    "regencyCode": "73.08",
+    "provinceCode": "73",
+    "name": "Kecamatan Maros Baru",
+    "alias": "Maros Baru"
+  },
+  {
+    "code": "73.08.021",
+    "districtCode": "021",
+    "regencyCode": "73.08",
+    "provinceCode": "73",
+    "name": "Kecamatan Marusu",
+    "alias": "Marusu"
+  },
+  {
+    "code": "73.08.022",
+    "districtCode": "022",
+    "regencyCode": "73.08",
+    "provinceCode": "73",
+    "name": "Kecamatan Turikale",
+    "alias": "Turikale"
+  },
+  {
+    "code": "73.08.023",
+    "districtCode": "023",
+    "regencyCode": "73.08",
+    "provinceCode": "73",
+    "name": "Kecamatan Lau",
+    "alias": "Lau"
+  },
+  {
+    "code": "73.08.030",
+    "districtCode": "030",
+    "regencyCode": "73.08",
+    "provinceCode": "73",
+    "name": "Kecamatan Bontoa",
+    "alias": "Bontoa"
+  },
+  {
+    "code": "73.08.040",
+    "districtCode": "040",
+    "regencyCode": "73.08",
+    "provinceCode": "73",
+    "name": "Kecamatan Bantimurung",
+    "alias": "Bantimurung"
+  },
+  {
+    "code": "73.08.041",
+    "districtCode": "041",
+    "regencyCode": "73.08",
+    "provinceCode": "73",
+    "name": "Kecamatan Simbang",
+    "alias": "Simbang"
+  },
+  {
+    "code": "73.08.050",
+    "districtCode": "050",
+    "regencyCode": "73.08",
+    "provinceCode": "73",
+    "name": "Kecamatan Tanralili",
+    "alias": "Tanralili"
+  },
+  {
+    "code": "73.08.051",
+    "districtCode": "051",
+    "regencyCode": "73.08",
+    "provinceCode": "73",
+    "name": "Kecamatan Tompu Bulu",
+    "alias": "Tompu Bulu"
+  },
+  {
+    "code": "73.08.060",
+    "districtCode": "060",
+    "regencyCode": "73.08",
+    "provinceCode": "73",
+    "name": "Kecamatan Camba",
+    "alias": "Camba"
+  },
+  {
+    "code": "73.08.061",
+    "districtCode": "061",
+    "regencyCode": "73.08",
+    "provinceCode": "73",
+    "name": "Kecamatan Cenrana",
+    "alias": "Cenrana"
+  },
+  {
+    "code": "73.08.070",
+    "districtCode": "070",
+    "regencyCode": "73.08",
+    "provinceCode": "73",
+    "name": "Kecamatan Mallawa",
+    "alias": "Mallawa"
+  }
+]

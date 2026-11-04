@@ -1,0 +1,72 @@
+[
+  {
+    "code": "97.04.450.001",
+    "villageCode": "001",
+    "districtCode": "97.04.450",
+    "name": "Gelok",
+    "alias": "Gelok"
+  },
+  {
+    "code": "97.04.450.002",
+    "villageCode": "002",
+    "districtCode": "97.04.450",
+    "name": "Yinuwanu",
+    "alias": "Yinuwanu"
+  },
+  {
+    "code": "97.04.450.003",
+    "villageCode": "003",
+    "districtCode": "97.04.450",
+    "name": "Makido",
+    "alias": "Makido"
+  },
+  {
+    "code": "97.04.450.004",
+    "villageCode": "004",
+    "districtCode": "97.04.450",
+    "name": "Kwa",
+    "alias": "Kwa"
+  },
+  {
+    "code": "97.04.450.005",
+    "villageCode": "005",
+    "districtCode": "97.04.450",
+    "name": "Geka",
+    "alias": "Geka"
+  },
+  {
+    "code": "97.04.450.006",
+    "villageCode": "006",
+    "districtCode": "97.04.450",
+    "name": "Dimbara",
+    "alias": "Dimbara"
+  },
+  {
+    "code": "97.04.450.007",
+    "villageCode": "007",
+    "districtCode": "97.04.450",
+    "name": "Wanuwi",
+    "alias": "Wanuwi"
+  },
+  {
+    "code": "97.04.450.008",
+    "villageCode": "008",
+    "districtCode": "97.04.450",
+    "name": "Wenigi",
+    "alias": "Wenigi"
+  },
+  {
+    "code": "97.04.450.009",
+    "villageCode": "009",
+    "districtCode": "97.04.450",
+    "name": "Tabunakme",
+    "alias": "Tabunakme"
+  },
+  {
+    "code": "97.04.450.010",
+    "villageCode": "010",
+    "districtCode": "97.04.450",
+    "name": "Membramonggen",
+    "alias": "Membramonggen"
+  }
+]

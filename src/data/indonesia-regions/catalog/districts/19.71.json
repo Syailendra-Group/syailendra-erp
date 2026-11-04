@@ -1,0 +1,58 @@
+[
+  {
+    "code": "19.71.010",
+    "districtCode": "010",
+    "regencyCode": "19.71",
+    "provinceCode": "19",
+    "name": "Kecamatan Rangkui",
+    "alias": "Rangkui"
+  },
+  {
+    "code": "19.71.020",
+    "districtCode": "020",
+    "regencyCode": "19.71",
+    "provinceCode": "19",
+    "name": "Kecamatan Bukit Intan",
+    "alias": "Bukit Intan"
+  },
+  {
+    "code": "19.71.021",
+    "districtCode": "021",
+    "regencyCode": "19.71",
+    "provinceCode": "19",
+    "name": "Kecamatan Girimaya",
+    "alias": "Girimaya"
+  },
+  {
+    "code": "19.71.030",
+    "districtCode": "030",
+    "regencyCode": "19.71",
+    "provinceCode": "19",
+    "name": "Kecamatan Pangkal Balam",
+    "alias": "Pangkal Balam"
+  },
+  {
+    "code": "19.71.031",
+    "districtCode": "031",
+    "regencyCode": "19.71",
+    "provinceCode": "19",
+    "name": "Kecamatan Gabek",
+    "alias": "Gabek"
+  },
+  {
+    "code": "19.71.040",
+    "districtCode": "040",
+    "regencyCode": "19.71",
+    "provinceCode": "19",
+    "name": "Kecamatan Taman Sari",
+    "alias": "Taman Sari"
+  },
+  {
+    "code": "19.71.041",
+    "districtCode": "041",
+    "regencyCode": "19.71",
+    "provinceCode": "19",
+    "name": "Kecamatan Gerunggang",
+    "alias": "Gerunggang"
+  }
+]

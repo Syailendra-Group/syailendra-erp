@@ -1,0 +1,44 @@
+[
+  {
+    "code": "94.28.032.002",
+    "villageCode": "002",
+    "districtCode": "94.28.032",
+    "name": "Sorabi",
+    "alias": "Sorabi"
+  },
+  {
+    "code": "94.28.032.003",
+    "villageCode": "003",
+    "districtCode": "94.28.032",
+    "name": "Poiwai",
+    "alias": "Poiwai"
+  },
+  {
+    "code": "94.28.032.004",
+    "villageCode": "004",
+    "districtCode": "94.28.032",
+    "name": "Rapamarei",
+    "alias": "Rapamarei"
+  },
+  {
+    "code": "94.28.032.005",
+    "villageCode": "005",
+    "districtCode": "94.28.032",
+    "name": "Anasi",
+    "alias": "Anasi"
+  },
+  {
+    "code": "94.28.032.006",
+    "villageCode": "006",
+    "districtCode": "94.28.032",
+    "name": "Bonoi",
+    "alias": "Bonoi"
+  },
+  {
+    "code": "94.28.032.007",
+    "villageCode": "007",
+    "districtCode": "94.28.032",
+    "name": "Tamakuri",
+    "alias": "Tamakuri"
+  }
+]

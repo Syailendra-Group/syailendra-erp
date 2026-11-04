@@ -1,0 +1,44 @@
+[
+  {
+    "code": "64.05.090.001",
+    "villageCode": "001",
+    "districtCode": "64.05.090",
+    "name": "Teluk Bayur",
+    "alias": "Teluk Bayur"
+  },
+  {
+    "code": "64.05.090.002",
+    "villageCode": "002",
+    "districtCode": "64.05.090",
+    "name": "Rinding",
+    "alias": "Rinding"
+  },
+  {
+    "code": "64.05.090.003",
+    "villageCode": "003",
+    "districtCode": "64.05.090",
+    "name": "Labanan Makarti",
+    "alias": "Labanan Makarti"
+  },
+  {
+    "code": "64.05.090.004",
+    "villageCode": "004",
+    "districtCode": "64.05.090",
+    "name": "Labanan Makmur",
+    "alias": "Labanan Makmur"
+  },
+  {
+    "code": "64.05.090.005",
+    "villageCode": "005",
+    "districtCode": "64.05.090",
+    "name": "Labanan Jaya",
+    "alias": "Labanan Jaya"
+  },
+  {
+    "code": "64.05.090.006",
+    "villageCode": "006",
+    "districtCode": "64.05.090",
+    "name": "Tumbit Melayu",
+    "alias": "Tumbit Melayu"
+  }
+]

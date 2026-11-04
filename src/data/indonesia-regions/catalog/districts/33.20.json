@@ -1,0 +1,130 @@
+[
+  {
+    "code": "33.20.010",
+    "districtCode": "010",
+    "regencyCode": "33.20",
+    "provinceCode": "33",
+    "name": "Kecamatan Kedung",
+    "alias": "Kedung"
+  },
+  {
+    "code": "33.20.020",
+    "districtCode": "020",
+    "regencyCode": "33.20",
+    "provinceCode": "33",
+    "name": "Kecamatan Pecangaan",
+    "alias": "Pecangaan"
+  },
+  {
+    "code": "33.20.021",
+    "districtCode": "021",
+    "regencyCode": "33.20",
+    "provinceCode": "33",
+    "name": "Kecamatan Kalinyamatan",
+    "alias": "Kalinyamatan"
+  },
+  {
+    "code": "33.20.030",
+    "districtCode": "030",
+    "regencyCode": "33.20",
+    "provinceCode": "33",
+    "name": "Kecamatan Welahan",
+    "alias": "Welahan"
+  },
+  {
+    "code": "33.20.040",
+    "districtCode": "040",
+    "regencyCode": "33.20",
+    "provinceCode": "33",
+    "name": "Kecamatan Mayong",
+    "alias": "Mayong"
+  },
+  {
+    "code": "33.20.050",
+    "districtCode": "050",
+    "regencyCode": "33.20",
+    "provinceCode": "33",
+    "name": "Kecamatan Nalumsari",
+    "alias": "Nalumsari"
+  },
+  {
+    "code": "33.20.060",
+    "districtCode": "060",
+    "regencyCode": "33.20",
+    "provinceCode": "33",
+    "name": "Kecamatan Batealit",
+    "alias": "Batealit"
+  },
+  {
+    "code": "33.20.070",
+    "districtCode": "070",
+    "regencyCode": "33.20",
+    "provinceCode": "33",
+    "name": "Kecamatan Tahunan",
+    "alias": "Tahunan"
+  },
+  {
+    "code": "33.20.080",
+    "districtCode": "080",
+    "regencyCode": "33.20",
+    "provinceCode": "33",
+    "name": "Kecamatan Jepara",
+    "alias": "Jepara"
+  },
+  {
+    "code": "33.20.090",
+    "districtCode": "090",
+    "regencyCode": "33.20",
+    "provinceCode": "33",
+    "name": "Kecamatan Mlonggo",
+    "alias": "Mlonggo"
+  },
+  {
+    "code": "33.20.091",
+    "districtCode": "091",
+    "regencyCode": "33.20",
+    "provinceCode": "33",
+    "name": "Kecamatan Pakis Aji",
+    "alias": "Pakis Aji"
+  },
+  {
+    "code": "33.20.100",
+    "districtCode": "100",
+    "regencyCode": "33.20",
+    "provinceCode": "33",
+    "name": "Kecamatan Bangsri",
+    "alias": "Bangsri"
+  },
+  {
+    "code": "33.20.101",
+    "districtCode": "101",
+    "regencyCode": "33.20",
+    "provinceCode": "33",
+    "name": "Kecamatan Kembang",
+    "alias": "Kembang"
+  },
+  {
+    "code": "33.20.110",
+    "districtCode": "110",
+    "regencyCode": "33.20",
+    "provinceCode": "33",
+    "name": "Kecamatan Keling",
+    "alias": "Keling"
+  },
+  {
+    "code": "33.20.111",
+    "districtCode": "111",
+    "regencyCode": "33.20",
+    "provinceCode": "33",
+    "name": "Kecamatan Donorojo",
+    "alias": "Donorojo"
+  },
+  {
+    "code": "33.20.120",
+    "districtCode": "120",
+    "regencyCode": "33.20",
+    "provinceCode": "33",
+    "name": "Kecamatan Karimunjawa",
+    "alias": "Karimunjawa"
+  }
+]

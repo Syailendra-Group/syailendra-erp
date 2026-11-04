@@ -1,0 +1,86 @@
+[
+  {
+    "code": "65.04.080.001",
+    "villageCode": "001",
+    "districtCode": "65.04.080",
+    "name": "Balatikon",
+    "alias": "Balatikon"
+  },
+  {
+    "code": "65.04.080.002",
+    "villageCode": "002",
+    "districtCode": "65.04.080",
+    "name": "Naputi",
+    "alias": "Naputi"
+  },
+  {
+    "code": "65.04.080.003",
+    "villageCode": "003",
+    "districtCode": "65.04.080",
+    "name": "Tau Baru",
+    "alias": "Tau Baru"
+  },
+  {
+    "code": "65.04.080.004",
+    "villageCode": "004",
+    "districtCode": "65.04.080",
+    "name": "Tinampak Ii",
+    "alias": "Tinampak Ii"
+  },
+  {
+    "code": "65.04.080.005",
+    "villageCode": "005",
+    "districtCode": "65.04.080",
+    "name": "Tinampak I",
+    "alias": "Tinampak I"
+  },
+  {
+    "code": "65.04.080.006",
+    "villageCode": "006",
+    "districtCode": "65.04.080",
+    "name": "Salang",
+    "alias": "Salang"
+  },
+  {
+    "code": "65.04.080.007",
+    "villageCode": "007",
+    "districtCode": "65.04.080",
+    "name": "Tembalang",
+    "alias": "Tembalang"
+  },
+  {
+    "code": "65.04.080.008",
+    "villageCode": "008",
+    "districtCode": "65.04.080",
+    "name": "Kalunsayan",
+    "alias": "Kalunsayan"
+  },
+  {
+    "code": "65.04.080.009",
+    "villageCode": "009",
+    "districtCode": "65.04.080",
+    "name": "Sekikilan",
+    "alias": "Sekikilan"
+  },
+  {
+    "code": "65.04.080.010",
+    "villageCode": "010",
+    "districtCode": "65.04.080",
+    "name": "Semunad",
+    "alias": "Semunad"
+  },
+  {
+    "code": "65.04.080.011",
+    "villageCode": "011",
+    "districtCode": "65.04.080",
+    "name": "Sanur",
+    "alias": "Sanur"
+  },
+  {
+    "code": "65.04.080.012",
+    "villageCode": "012",
+    "districtCode": "65.04.080",
+    "name": "Makmur",
+    "alias": "Makmur"
+  }
+]

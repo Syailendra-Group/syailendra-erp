@@ -1,0 +1,93 @@
+[
+  {
+    "code": "32.01.130.001",
+    "villageCode": "001",
+    "districtCode": "32.01.130",
+    "name": "Cibanon",
+    "alias": "Cibanon"
+  },
+  {
+    "code": "32.01.130.002",
+    "villageCode": "002",
+    "districtCode": "32.01.130",
+    "name": "Gunung Geulis",
+    "alias": "Gunung Geulis"
+  },
+  {
+    "code": "32.01.130.003",
+    "villageCode": "003",
+    "districtCode": "32.01.130",
+    "name": "Nagrak",
+    "alias": "Nagrak"
+  },
+  {
+    "code": "32.01.130.004",
+    "villageCode": "004",
+    "districtCode": "32.01.130",
+    "name": "Sukatani",
+    "alias": "Sukatani"
+  },
+  {
+    "code": "32.01.130.005",
+    "villageCode": "005",
+    "districtCode": "32.01.130",
+    "name": "Sukaraja",
+    "alias": "Sukaraja"
+  },
+  {
+    "code": "32.01.130.006",
+    "villageCode": "006",
+    "districtCode": "32.01.130",
+    "name": "Cikeas",
+    "alias": "Cikeas"
+  },
+  {
+    "code": "32.01.130.007",
+    "villageCode": "007",
+    "districtCode": "32.01.130",
+    "name": "Cadas Ngampar",
+    "alias": "Cadas Ngampar"
+  },
+  {
+    "code": "32.01.130.008",
+    "villageCode": "008",
+    "districtCode": "32.01.130",
+    "name": "Pasirlaja",
+    "alias": "Pasirlaja"
+  },
+  {
+    "code": "32.01.130.009",
+    "villageCode": "009",
+    "districtCode": "32.01.130",
+    "name": "Cijujung",
+    "alias": "Cijujung"
+  },
+  {
+    "code": "32.01.130.010",
+    "villageCode": "010",
+    "districtCode": "32.01.130",
+    "name": "Cimandala",
+    "alias": "Cimandala"
+  },
+  {
+    "code": "32.01.130.011",
+    "villageCode": "011",
+    "districtCode": "32.01.130",
+    "name": "Pasir Jambu",
+    "alias": "Pasir Jambu"
+  },
+  {
+    "code": "32.01.130.012",
+    "villageCode": "012",
+    "districtCode": "32.01.130",
+    "name": "Cilebut Timur",
+    "alias": "Cilebut Timur"
+  },
+  {
+    "code": "32.01.130.013",
+    "villageCode": "013",
+    "districtCode": "32.01.130",
+    "name": "Cilebut Barat",
+    "alias": "Cilebut Barat"
+  }
+]

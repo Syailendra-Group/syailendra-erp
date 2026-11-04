@@ -1,0 +1,65 @@
+[
+  {
+    "code": "35.24.020.001",
+    "villageCode": "001",
+    "districtCode": "35.24.020",
+    "name": "Banjargondang",
+    "alias": "Banjargondang"
+  },
+  {
+    "code": "35.24.020.002",
+    "villageCode": "002",
+    "districtCode": "35.24.020",
+    "name": "Cangkring",
+    "alias": "Cangkring"
+  },
+  {
+    "code": "35.24.020.003",
+    "villageCode": "003",
+    "districtCode": "35.24.020",
+    "name": "Kuwurejo",
+    "alias": "Kuwurejo"
+  },
+  {
+    "code": "35.24.020.004",
+    "villageCode": "004",
+    "districtCode": "35.24.020",
+    "name": "Songowareng",
+    "alias": "Songowareng"
+  },
+  {
+    "code": "35.24.020.005",
+    "villageCode": "005",
+    "districtCode": "35.24.020",
+    "name": "Sumberbanjar",
+    "alias": "Sumberbanjar"
+  },
+  {
+    "code": "35.24.020.006",
+    "villageCode": "006",
+    "districtCode": "35.24.020",
+    "name": "Primpen",
+    "alias": "Primpen"
+  },
+  {
+    "code": "35.24.020.007",
+    "villageCode": "007",
+    "districtCode": "35.24.020",
+    "name": "Bronjong",
+    "alias": "Bronjong"
+  },
+  {
+    "code": "35.24.020.008",
+    "villageCode": "008",
+    "districtCode": "35.24.020",
+    "name": "Bluluk",
+    "alias": "Bluluk"
+  },
+  {
+    "code": "35.24.020.009",
+    "villageCode": "009",
+    "districtCode": "35.24.020",
+    "name": "Talunrejo",
+    "alias": "Talunrejo"
+  }
+]

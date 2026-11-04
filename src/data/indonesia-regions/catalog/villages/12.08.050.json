@@ -1,0 +1,58 @@
+[
+  {
+    "code": "12.08.050.001",
+    "villageCode": "001",
+    "districtCode": "12.08.050",
+    "name": "Kapias Batu Viii",
+    "alias": "Kapias Batu Viii"
+  },
+  {
+    "code": "12.08.050.002",
+    "villageCode": "002",
+    "districtCode": "12.08.050",
+    "name": "Pematang Sungai Baru",
+    "alias": "Pematang Sungai Baru"
+  },
+  {
+    "code": "12.08.050.003",
+    "villageCode": "003",
+    "districtCode": "12.08.050",
+    "name": "Sei Apung Jaya",
+    "alias": "Sei Apung Jaya"
+  },
+  {
+    "code": "12.08.050.004",
+    "villageCode": "004",
+    "districtCode": "12.08.050",
+    "name": "Sungai Apung",
+    "alias": "Sungai Apung"
+  },
+  {
+    "code": "12.08.050.005",
+    "villageCode": "005",
+    "districtCode": "12.08.050",
+    "name": "Asahan Mati",
+    "alias": "Asahan Mati"
+  },
+  {
+    "code": "12.08.050.006",
+    "villageCode": "006",
+    "districtCode": "12.08.050",
+    "name": "Bagan Asahan Baru",
+    "alias": "Bagan Asahan Baru"
+  },
+  {
+    "code": "12.08.050.007",
+    "villageCode": "007",
+    "districtCode": "12.08.050",
+    "name": "Bagan Asahan Pekan",
+    "alias": "Bagan Asahan Pekan"
+  },
+  {
+    "code": "12.08.050.008",
+    "villageCode": "008",
+    "districtCode": "12.08.050",
+    "name": "Bagan Asahan",
+    "alias": "Bagan Asahan"
+  }
+]

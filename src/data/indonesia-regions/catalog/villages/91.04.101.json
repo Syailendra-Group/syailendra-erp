@@ -1,0 +1,86 @@
+[
+  {
+    "code": "91.04.101.001",
+    "villageCode": "001",
+    "districtCode": "91.04.101",
+    "name": "Igomu",
+    "alias": "Igomu"
+  },
+  {
+    "code": "91.04.101.002",
+    "villageCode": "002",
+    "districtCode": "91.04.101",
+    "name": "Mesna",
+    "alias": "Mesna"
+  },
+  {
+    "code": "91.04.101.003",
+    "villageCode": "003",
+    "districtCode": "91.04.101",
+    "name": "Sumui",
+    "alias": "Sumui"
+  },
+  {
+    "code": "91.04.101.004",
+    "villageCode": "004",
+    "districtCode": "91.04.101",
+    "name": "Mesua / Meyera",
+    "alias": "Mesua / Meyera"
+  },
+  {
+    "code": "91.04.101.005",
+    "villageCode": "005",
+    "districtCode": "91.04.101",
+    "name": "Injisni",
+    "alias": "Injisni"
+  },
+  {
+    "code": "91.04.101.006",
+    "villageCode": "006",
+    "districtCode": "91.04.101",
+    "name": "Mesimer / Mesoimen",
+    "alias": "Mesimer / Mesoimen"
+  },
+  {
+    "code": "91.04.101.007",
+    "villageCode": "007",
+    "districtCode": "91.04.101",
+    "name": "Injeif",
+    "alias": "Injeif"
+  },
+  {
+    "code": "91.04.101.008",
+    "villageCode": "008",
+    "districtCode": "91.04.101",
+    "name": "Isurkohmey",
+    "alias": "Isurkohmey"
+  },
+  {
+    "code": "91.04.101.009",
+    "villageCode": "009",
+    "districtCode": "91.04.101",
+    "name": "Meyej",
+    "alias": "Meyej"
+  },
+  {
+    "code": "91.04.101.010",
+    "villageCode": "010",
+    "districtCode": "91.04.101",
+    "name": "Mesrey",
+    "alias": "Mesrey"
+  },
+  {
+    "code": "91.04.101.011",
+    "villageCode": "011",
+    "districtCode": "91.04.101",
+    "name": "Merenefa",
+    "alias": "Merenefa"
+  },
+  {
+    "code": "91.04.101.012",
+    "villageCode": "012",
+    "districtCode": "91.04.101",
+    "name": "Kaibur",
+    "alias": "Kaibur"
+  }
+]

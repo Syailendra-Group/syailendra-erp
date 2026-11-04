@@ -1,0 +1,100 @@
+[
+  {
+    "code": "12.05.030.001",
+    "villageCode": "001",
+    "districtCode": "12.05.030",
+    "name": "Manalu Purba",
+    "alias": "Manalu Purba"
+  },
+  {
+    "code": "12.05.030.002",
+    "villageCode": "002",
+    "districtCode": "12.05.030",
+    "name": "Manalu Dolok",
+    "alias": "Manalu Dolok"
+  },
+  {
+    "code": "12.05.030.003",
+    "villageCode": "003",
+    "districtCode": "12.05.030",
+    "name": "Manalu",
+    "alias": "Manalu"
+  },
+  {
+    "code": "12.05.030.004",
+    "villageCode": "004",
+    "districtCode": "12.05.030",
+    "name": "Huta Julu",
+    "alias": "Huta Julu"
+  },
+  {
+    "code": "12.05.030.005",
+    "villageCode": "005",
+    "districtCode": "12.05.030",
+    "name": "Aek Raja",
+    "alias": "Aek Raja"
+  },
+  {
+    "code": "12.05.030.006",
+    "villageCode": "006",
+    "districtCode": "12.05.030",
+    "name": "Huta Tinggi",
+    "alias": "Huta Tinggi"
+  },
+  {
+    "code": "12.05.030.007",
+    "villageCode": "007",
+    "districtCode": "12.05.030",
+    "name": "Lobu Sunut",
+    "alias": "Lobu Sunut"
+  },
+  {
+    "code": "12.05.030.008",
+    "villageCode": "008",
+    "districtCode": "12.05.030",
+    "name": "Sisordak",
+    "alias": "Sisordak"
+  },
+  {
+    "code": "12.05.030.009",
+    "villageCode": "009",
+    "districtCode": "12.05.030",
+    "name": "Hutatua",
+    "alias": "Hutatua"
+  },
+  {
+    "code": "12.05.030.010",
+    "villageCode": "010",
+    "districtCode": "12.05.030",
+    "name": "Pertengahan",
+    "alias": "Pertengahan"
+  },
+  {
+    "code": "12.05.030.011",
+    "villageCode": "011",
+    "districtCode": "12.05.030",
+    "name": "Hutajulu Parbalik",
+    "alias": "Hutajulu Parbalik"
+  },
+  {
+    "code": "12.05.030.012",
+    "villageCode": "012",
+    "districtCode": "12.05.030",
+    "name": "Horisan Ranggitgit",
+    "alias": "Horisan Ranggitgit"
+  },
+  {
+    "code": "12.05.030.013",
+    "villageCode": "013",
+    "districtCode": "12.05.030",
+    "name": "Purba Dolok",
+    "alias": "Purba Dolok"
+  },
+  {
+    "code": "12.05.030.014",
+    "villageCode": "014",
+    "districtCode": "12.05.030",
+    "name": "Batuarimo",
+    "alias": "Batuarimo"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "code": "74.03.185.001",
+    "villageCode": "001",
+    "districtCode": "74.03.185",
+    "name": "Andalambe",
+    "alias": "Andalambe"
+  },
+  {
+    "code": "74.03.185.002",
+    "villageCode": "002",
+    "districtCode": "74.03.185",
+    "name": "Waworoda Jaya",
+    "alias": "Waworoda Jaya"
+  },
+  {
+    "code": "74.03.185.003",
+    "villageCode": "003",
+    "districtCode": "74.03.185",
+    "name": "Sanuanggamo",
+    "alias": "Sanuanggamo"
+  },
+  {
+    "code": "74.03.185.004",
+    "villageCode": "004",
+    "districtCode": "74.03.185",
+    "name": "Olo Onua",
+    "alias": "Olo Onua"
+  },
+  {
+    "code": "74.03.185.005",
+    "villageCode": "005",
+    "districtCode": "74.03.185",
+    "name": "Puundombi",
+    "alias": "Puundombi"
+  },
+  {
+    "code": "74.03.185.006",
+    "villageCode": "006",
+    "districtCode": "74.03.185",
+    "name": "Oluaao",
+    "alias": "Oluaao"
+  },
+  {
+    "code": "74.03.185.007",
+    "villageCode": "007",
+    "districtCode": "74.03.185",
+    "name": "Anggohu",
+    "alias": "Anggohu"
+  },
+  {
+    "code": "74.03.185.008",
+    "villageCode": "008",
+    "districtCode": "74.03.185",
+    "name": "Ambopi",
+    "alias": "Ambopi"
+  },
+  {
+    "code": "74.03.185.009",
+    "villageCode": "009",
+    "districtCode": "74.03.185",
+    "name": "Barowila",
+    "alias": "Barowila"
+  },
+  {
+    "code": "74.03.185.010",
+    "villageCode": "010",
+    "districtCode": "74.03.185",
+    "name": "Nambeaboru",
+    "alias": "Nambeaboru"
+  }
+]

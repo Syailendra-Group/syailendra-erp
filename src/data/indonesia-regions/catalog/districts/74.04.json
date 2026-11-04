@@ -1,0 +1,98 @@
+[
+  {
+    "code": "74.04.010",
+    "districtCode": "010",
+    "regencyCode": "74.04",
+    "provinceCode": "74",
+    "name": "Kecamatan Watubangga",
+    "alias": "Watubangga"
+  },
+  {
+    "code": "74.04.011",
+    "districtCode": "011",
+    "regencyCode": "74.04",
+    "provinceCode": "74",
+    "name": "Kecamatan Tanggetada",
+    "alias": "Tanggetada"
+  },
+  {
+    "code": "74.04.012",
+    "districtCode": "012",
+    "regencyCode": "74.04",
+    "provinceCode": "74",
+    "name": "Kecamatan Toari",
+    "alias": "Toari"
+  },
+  {
+    "code": "74.04.013",
+    "districtCode": "013",
+    "regencyCode": "74.04",
+    "provinceCode": "74",
+    "name": "Kecamatan Polinggona",
+    "alias": "Polinggona"
+  },
+  {
+    "code": "74.04.020",
+    "districtCode": "020",
+    "regencyCode": "74.04",
+    "provinceCode": "74",
+    "name": "Kecamatan Pomalaa",
+    "alias": "Pomalaa"
+  },
+  {
+    "code": "74.04.030",
+    "districtCode": "030",
+    "regencyCode": "74.04",
+    "provinceCode": "74",
+    "name": "Kecamatan Wundulako",
+    "alias": "Wundulako"
+  },
+  {
+    "code": "74.04.031",
+    "districtCode": "031",
+    "regencyCode": "74.04",
+    "provinceCode": "74",
+    "name": "Kecamatan Baula",
+    "alias": "Baula"
+  },
+  {
+    "code": "74.04.060",
+    "districtCode": "060",
+    "regencyCode": "74.04",
+    "provinceCode": "74",
+    "name": "Kecamatan Kolaka",
+    "alias": "Kolaka"
+  },
+  {
+    "code": "74.04.061",
+    "districtCode": "061",
+    "regencyCode": "74.04",
+    "provinceCode": "74",
+    "name": "Kecamatan Latambaga",
+    "alias": "Latambaga"
+  },
+  {
+    "code": "74.04.070",
+    "districtCode": "070",
+    "regencyCode": "74.04",
+    "provinceCode": "74",
+    "name": "Kecamatan Wolo",
+    "alias": "Wolo"
+  },
+  {
+    "code": "74.04.071",
+    "districtCode": "071",
+    "regencyCode": "74.04",
+    "provinceCode": "74",
+    "name": "Kecamatan Samaturu",
+    "alias": "Samaturu"
+  },
+  {
+    "code": "74.04.072",
+    "districtCode": "072",
+    "regencyCode": "74.04",
+    "provinceCode": "74",
+    "name": "Kecamatan Iwoimendaa",
+    "alias": "Iwoimendaa"
+  }
+]

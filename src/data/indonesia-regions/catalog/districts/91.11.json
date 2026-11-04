@@ -1,0 +1,50 @@
+[
+  {
+    "code": "91.11.010",
+    "districtCode": "010",
+    "regencyCode": "91.11",
+    "provinceCode": "91",
+    "name": "Kecamatan Tahota",
+    "alias": "Tahota"
+  },
+  {
+    "code": "91.11.020",
+    "districtCode": "020",
+    "regencyCode": "91.11",
+    "provinceCode": "91",
+    "name": "Kecamatan Dataran Isim",
+    "alias": "Dataran Isim"
+  },
+  {
+    "code": "91.11.030",
+    "districtCode": "030",
+    "regencyCode": "91.11",
+    "provinceCode": "91",
+    "name": "Kecamatan Neney",
+    "alias": "Neney"
+  },
+  {
+    "code": "91.11.040",
+    "districtCode": "040",
+    "regencyCode": "91.11",
+    "provinceCode": "91",
+    "name": "Kecamatan Momi Waren",
+    "alias": "Momi Waren"
+  },
+  {
+    "code": "91.11.050",
+    "districtCode": "050",
+    "regencyCode": "91.11",
+    "provinceCode": "91",
+    "name": "Kecamatan Ransiki",
+    "alias": "Ransiki"
+  },
+  {
+    "code": "91.11.060",
+    "districtCode": "060",
+    "regencyCode": "91.11",
+    "provinceCode": "91",
+    "name": "Kecamatan Oransbari",
+    "alias": "Oransbari"
+  }
+]

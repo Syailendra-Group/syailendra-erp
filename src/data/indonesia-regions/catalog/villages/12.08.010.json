@@ -1,0 +1,65 @@
+[
+  {
+    "code": "12.08.010.001",
+    "villageCode": "001",
+    "districtCode": "12.08.010",
+    "name": "Huta Padang",
+    "alias": "Huta Padang"
+  },
+  {
+    "code": "12.08.010.002",
+    "villageCode": "002",
+    "districtCode": "12.08.010",
+    "name": "Huta Bagasan",
+    "alias": "Huta Bagasan"
+  },
+  {
+    "code": "12.08.010.003",
+    "villageCode": "003",
+    "districtCode": "12.08.010",
+    "name": "Bandar Pasir Mandoge",
+    "alias": "Bandar Pasir Mandoge"
+  },
+  {
+    "code": "12.08.010.004",
+    "villageCode": "004",
+    "districtCode": "12.08.010",
+    "name": "Suka Makmur",
+    "alias": "Suka Makmur"
+  },
+  {
+    "code": "12.08.010.005",
+    "villageCode": "005",
+    "districtCode": "12.08.010",
+    "name": "Sei Kopas",
+    "alias": "Sei Kopas"
+  },
+  {
+    "code": "12.08.010.006",
+    "villageCode": "006",
+    "districtCode": "12.08.010",
+    "name": "Silau Jawa",
+    "alias": "Silau Jawa"
+  },
+  {
+    "code": "12.08.010.007",
+    "villageCode": "007",
+    "districtCode": "12.08.010",
+    "name": "Sei Nadoras",
+    "alias": "Sei Nadoras"
+  },
+  {
+    "code": "12.08.010.008",
+    "villageCode": "008",
+    "districtCode": "12.08.010",
+    "name": "Tomuan Holbung",
+    "alias": "Tomuan Holbung"
+  },
+  {
+    "code": "12.08.010.009",
+    "villageCode": "009",
+    "districtCode": "12.08.010",
+    "name": "Gotting Sidodadi",
+    "alias": "Gotting Sidodadi"
+  }
+]

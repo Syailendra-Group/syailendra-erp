@@ -1,0 +1,79 @@
+[
+  {
+    "code": "53.19.020.001",
+    "villageCode": "001",
+    "districtCode": "53.19.020",
+    "name": "Tanah Rata",
+    "alias": "Tanah Rata"
+  },
+  {
+    "code": "53.19.020.002",
+    "villageCode": "002",
+    "districtCode": "53.19.020",
+    "name": "Bamo",
+    "alias": "Bamo"
+  },
+  {
+    "code": "53.19.020.003",
+    "villageCode": "003",
+    "districtCode": "53.19.020",
+    "name": "Rongga Koe",
+    "alias": "Rongga Koe"
+  },
+  {
+    "code": "53.19.020.004",
+    "villageCode": "004",
+    "districtCode": "53.19.020",
+    "name": "Komba",
+    "alias": "Komba"
+  },
+  {
+    "code": "53.19.020.005",
+    "villageCode": "005",
+    "districtCode": "53.19.020",
+    "name": "Watu Nggene",
+    "alias": "Watu Nggene"
+  },
+  {
+    "code": "53.19.020.006",
+    "villageCode": "006",
+    "districtCode": "53.19.020",
+    "name": "Gunung Mute",
+    "alias": "Gunung Mute"
+  },
+  {
+    "code": "53.19.020.007",
+    "villageCode": "007",
+    "districtCode": "53.19.020",
+    "name": "Rana Kolong",
+    "alias": "Rana Kolong"
+  },
+  {
+    "code": "53.19.020.008",
+    "villageCode": "008",
+    "districtCode": "53.19.020",
+    "name": "Mbengan",
+    "alias": "Mbengan"
+  },
+  {
+    "code": "53.19.020.009",
+    "villageCode": "009",
+    "districtCode": "53.19.020",
+    "name": "Lembur",
+    "alias": "Lembur"
+  },
+  {
+    "code": "53.19.020.010",
+    "villageCode": "010",
+    "districtCode": "53.19.020",
+    "name": "Ruan",
+    "alias": "Ruan"
+  },
+  {
+    "code": "53.19.020.011",
+    "villageCode": "011",
+    "districtCode": "53.19.020",
+    "name": "Pong Ruan",
+    "alias": "Pong Ruan"
+  }
+]

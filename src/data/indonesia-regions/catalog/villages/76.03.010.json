@@ -1,0 +1,72 @@
+[
+  {
+    "code": "76.03.010.001",
+    "villageCode": "001",
+    "districtCode": "76.03.010",
+    "name": "Sibanawa",
+    "alias": "Sibanawa"
+  },
+  {
+    "code": "76.03.010.002",
+    "villageCode": "002",
+    "districtCode": "76.03.010",
+    "name": "Batanguru",
+    "alias": "Batanguru"
+  },
+  {
+    "code": "76.03.010.003",
+    "villageCode": "003",
+    "districtCode": "76.03.010",
+    "name": "Tabone",
+    "alias": "Tabone"
+  },
+  {
+    "code": "76.03.010.004",
+    "villageCode": "004",
+    "districtCode": "76.03.010",
+    "name": "Tadisi",
+    "alias": "Tadisi"
+  },
+  {
+    "code": "76.03.010.005",
+    "villageCode": "005",
+    "districtCode": "76.03.010",
+    "name": "Sasakan",
+    "alias": "Sasakan"
+  },
+  {
+    "code": "76.03.010.006",
+    "villageCode": "006",
+    "districtCode": "76.03.010",
+    "name": "Sumarorong",
+    "alias": "Sumarorong"
+  },
+  {
+    "code": "76.03.010.007",
+    "villageCode": "007",
+    "districtCode": "76.03.010",
+    "name": "Banea",
+    "alias": "Banea"
+  },
+  {
+    "code": "76.03.010.008",
+    "villageCode": "008",
+    "districtCode": "76.03.010",
+    "name": "Salubalo",
+    "alias": "Salubalo"
+  },
+  {
+    "code": "76.03.010.009",
+    "villageCode": "009",
+    "districtCode": "76.03.010",
+    "name": "Batanguru Timur",
+    "alias": "Batanguru Timur"
+  },
+  {
+    "code": "76.03.010.010",
+    "villageCode": "010",
+    "districtCode": "76.03.010",
+    "name": "Rante Kamase",
+    "alias": "Rante Kamase"
+  }
+]

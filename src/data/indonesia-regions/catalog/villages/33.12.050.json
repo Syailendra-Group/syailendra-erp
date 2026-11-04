@@ -1,0 +1,58 @@
+[
+  {
+    "code": "33.12.050.001",
+    "villageCode": "001",
+    "districtCode": "33.12.050",
+    "name": "Selopuro",
+    "alias": "Selopuro"
+  },
+  {
+    "code": "33.12.050.002",
+    "villageCode": "002",
+    "districtCode": "33.12.050",
+    "name": "Sendangsari",
+    "alias": "Sendangsari"
+  },
+  {
+    "code": "33.12.050.003",
+    "villageCode": "003",
+    "districtCode": "33.12.050",
+    "name": "Tegiri",
+    "alias": "Tegiri"
+  },
+  {
+    "code": "33.12.050.004",
+    "villageCode": "004",
+    "districtCode": "33.12.050",
+    "name": "Batuwarno",
+    "alias": "Batuwarno"
+  },
+  {
+    "code": "33.12.050.005",
+    "villageCode": "005",
+    "districtCode": "33.12.050",
+    "name": "Sumberejo",
+    "alias": "Sumberejo"
+  },
+  {
+    "code": "33.12.050.006",
+    "villageCode": "006",
+    "districtCode": "33.12.050",
+    "name": "Ronggojati",
+    "alias": "Ronggojati"
+  },
+  {
+    "code": "33.12.050.007",
+    "villageCode": "007",
+    "districtCode": "33.12.050",
+    "name": "Sumberagung",
+    "alias": "Sumberagung"
+  },
+  {
+    "code": "33.12.050.008",
+    "villageCode": "008",
+    "districtCode": "33.12.050",
+    "name": "Kudi",
+    "alias": "Kudi"
+  }
+]

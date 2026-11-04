@@ -1,0 +1,100 @@
+[
+  {
+    "code": "15.03.050.001",
+    "villageCode": "001",
+    "districtCode": "15.03.050",
+    "name": "Seko Besar",
+    "alias": "Seko Besar"
+  },
+  {
+    "code": "15.03.050.002",
+    "villageCode": "002",
+    "districtCode": "15.03.050",
+    "name": "Taman Bandung",
+    "alias": "Taman Bandung"
+  },
+  {
+    "code": "15.03.050.003",
+    "villageCode": "003",
+    "districtCode": "15.03.050",
+    "name": "Sepintun",
+    "alias": "Sepintun"
+  },
+  {
+    "code": "15.03.050.004",
+    "villageCode": "004",
+    "districtCode": "15.03.050",
+    "name": "Lamban Sigatal",
+    "alias": "Lamban Sigatal"
+  },
+  {
+    "code": "15.03.050.005",
+    "villageCode": "005",
+    "districtCode": "15.03.050",
+    "name": "Lubuk Napal",
+    "alias": "Lubuk Napal"
+  },
+  {
+    "code": "15.03.050.006",
+    "villageCode": "006",
+    "districtCode": "15.03.050",
+    "name": "Pangedaran",
+    "alias": "Pangedaran"
+  },
+  {
+    "code": "15.03.050.007",
+    "villageCode": "007",
+    "districtCode": "15.03.050",
+    "name": "Karang Mendapo",
+    "alias": "Karang Mendapo"
+  },
+  {
+    "code": "15.03.050.008",
+    "villageCode": "008",
+    "districtCode": "15.03.050",
+    "name": "Batu Ampar",
+    "alias": "Batu Ampar"
+  },
+  {
+    "code": "15.03.050.009",
+    "villageCode": "009",
+    "districtCode": "15.03.050",
+    "name": "Batu Kucing",
+    "alias": "Batu Kucing"
+  },
+  {
+    "code": "15.03.050.010",
+    "villageCode": "010",
+    "districtCode": "15.03.050",
+    "name": "Pauh",
+    "alias": "Pauh"
+  },
+  {
+    "code": "15.03.050.011",
+    "villageCode": "011",
+    "districtCode": "15.03.050",
+    "name": "Semaran",
+    "alias": "Semaran"
+  },
+  {
+    "code": "15.03.050.013",
+    "villageCode": "013",
+    "districtCode": "15.03.050",
+    "name": "Kasang Melintang",
+    "alias": "Kasang Melintang"
+  },
+  {
+    "code": "15.03.050.014",
+    "villageCode": "014",
+    "districtCode": "15.03.050",
+    "name": "Pangkal Bulian",
+    "alias": "Pangkal Bulian"
+  },
+  {
+    "code": "15.03.050.015",
+    "villageCode": "015",
+    "districtCode": "15.03.050",
+    "name": "Danau Serdang",
+    "alias": "Danau Serdang"
+  }
+]

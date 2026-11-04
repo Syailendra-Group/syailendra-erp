@@ -1,0 +1,107 @@
+[
+  {
+    "code": "64.09.040.001",
+    "villageCode": "001",
+    "districtCode": "64.09.040",
+    "name": "Maridan",
+    "alias": "Maridan"
+  },
+  {
+    "code": "64.09.040.002",
+    "villageCode": "002",
+    "districtCode": "64.09.040",
+    "name": "Mentawir",
+    "alias": "Mentawir"
+  },
+  {
+    "code": "64.09.040.003",
+    "villageCode": "003",
+    "districtCode": "64.09.040",
+    "name": "Pemaluan",
+    "alias": "Pemaluan"
+  },
+  {
+    "code": "64.09.040.004",
+    "villageCode": "004",
+    "districtCode": "64.09.040",
+    "name": "Bumi Harapan",
+    "alias": "Bumi Harapan"
+  },
+  {
+    "code": "64.09.040.005",
+    "villageCode": "005",
+    "districtCode": "64.09.040",
+    "name": "Wono Sari",
+    "alias": "Wono Sari"
+  },
+  {
+    "code": "64.09.040.006",
+    "villageCode": "006",
+    "districtCode": "64.09.040",
+    "name": "Semoi Dua",
+    "alias": "Semoi Dua"
+  },
+  {
+    "code": "64.09.040.007",
+    "villageCode": "007",
+    "districtCode": "64.09.040",
+    "name": "Argo Mulyo",
+    "alias": "Argo Mulyo"
+  },
+  {
+    "code": "64.09.040.008",
+    "villageCode": "008",
+    "districtCode": "64.09.040",
+    "name": "Suko Mulyo",
+    "alias": "Suko Mulyo"
+  },
+  {
+    "code": "64.09.040.009",
+    "villageCode": "009",
+    "districtCode": "64.09.040",
+    "name": "Tengin Baru",
+    "alias": "Tengin Baru"
+  },
+  {
+    "code": "64.09.040.010",
+    "villageCode": "010",
+    "districtCode": "64.09.040",
+    "name": "Suka Raja",
+    "alias": "Suka Raja"
+  },
+  {
+    "code": "64.09.040.011",
+    "villageCode": "011",
+    "districtCode": "64.09.040",
+    "name": "Bukit Raya",
+    "alias": "Bukit Raya"
+  },
+  {
+    "code": "64.09.040.012",
+    "villageCode": "012",
+    "districtCode": "64.09.040",
+    "name": "Sepaku",
+    "alias": "Sepaku"
+  },
+  {
+    "code": "64.09.040.013",
+    "villageCode": "013",
+    "districtCode": "64.09.040",
+    "name": "Karang Jinawi",
+    "alias": "Karang Jinawi"
+  },
+  {
+    "code": "64.09.040.014",
+    "villageCode": "014",
+    "districtCode": "64.09.040",
+    "name": "Telemow",
+    "alias": "Telemow"
+  },
+  {
+    "code": "64.09.040.015",
+    "villageCode": "015",
+    "districtCode": "64.09.040",
+    "name": "Binuang",
+    "alias": "Binuang"
+  }
+]

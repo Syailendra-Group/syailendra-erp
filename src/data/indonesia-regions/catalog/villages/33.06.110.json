@@ -1,0 +1,345 @@
+[
+  {
+    "code": "33.06.110.001",
+    "villageCode": "001",
+    "districtCode": "33.06.110",
+    "name": "Sumber",
+    "alias": "Sumber"
+  },
+  {
+    "code": "33.06.110.002",
+    "villageCode": "002",
+    "districtCode": "33.06.110",
+    "name": "Pangkalan",
+    "alias": "Pangkalan"
+  },
+  {
+    "code": "33.06.110.003",
+    "villageCode": "003",
+    "districtCode": "33.06.110",
+    "name": "Wonoyoso",
+    "alias": "Wonoyoso"
+  },
+  {
+    "code": "33.06.110.004",
+    "villageCode": "004",
+    "districtCode": "33.06.110",
+    "name": "Tasikmadu",
+    "alias": "Tasikmadu"
+  },
+  {
+    "code": "33.06.110.005",
+    "villageCode": "005",
+    "districtCode": "33.06.110",
+    "name": "Tapen",
+    "alias": "Tapen"
+  },
+  {
+    "code": "33.06.110.006",
+    "villageCode": "006",
+    "districtCode": "33.06.110",
+    "name": "Tersidi Kidul",
+    "alias": "Tersidi Kidul"
+  },
+  {
+    "code": "33.06.110.007",
+    "villageCode": "007",
+    "districtCode": "33.06.110",
+    "name": "Tersidi Lor",
+    "alias": "Tersidi Lor"
+  },
+  {
+    "code": "33.06.110.008",
+    "villageCode": "008",
+    "districtCode": "33.06.110",
+    "name": "Sekartejo",
+    "alias": "Sekartejo"
+  },
+  {
+    "code": "33.06.110.009",
+    "villageCode": "009",
+    "districtCode": "33.06.110",
+    "name": "Pepe",
+    "alias": "Pepe"
+  },
+  {
+    "code": "33.06.110.010",
+    "villageCode": "010",
+    "districtCode": "33.06.110",
+    "name": "Kalimati",
+    "alias": "Kalimati"
+  },
+  {
+    "code": "33.06.110.011",
+    "villageCode": "011",
+    "districtCode": "33.06.110",
+    "name": "Kendalrejo",
+    "alias": "Kendalrejo"
+  },
+  {
+    "code": "33.06.110.012",
+    "villageCode": "012",
+    "districtCode": "33.06.110",
+    "name": "Ngampel",
+    "alias": "Ngampel"
+  },
+  {
+    "code": "33.06.110.013",
+    "villageCode": "013",
+    "districtCode": "33.06.110",
+    "name": "Sikambang",
+    "alias": "Sikambang"
+  },
+  {
+    "code": "33.06.110.014",
+    "villageCode": "014",
+    "districtCode": "33.06.110",
+    "name": "Tunjungtejo",
+    "alias": "Tunjungtejo"
+  },
+  {
+    "code": "33.06.110.015",
+    "villageCode": "015",
+    "districtCode": "33.06.110",
+    "name": "Dlisen Wetan",
+    "alias": "Dlisen Wetan"
+  },
+  {
+    "code": "33.06.110.016",
+    "villageCode": "016",
+    "districtCode": "33.06.110",
+    "name": "Dlisen Kulon",
+    "alias": "Dlisen Kulon"
+  },
+  {
+    "code": "33.06.110.017",
+    "villageCode": "017",
+    "districtCode": "33.06.110",
+    "name": "Blekatuk",
+    "alias": "Blekatuk"
+  },
+  {
+    "code": "33.06.110.018",
+    "villageCode": "018",
+    "districtCode": "33.06.110",
+    "name": "Waru",
+    "alias": "Waru"
+  },
+  {
+    "code": "33.06.110.019",
+    "villageCode": "019",
+    "districtCode": "33.06.110",
+    "name": "Keburusan",
+    "alias": "Keburusan"
+  },
+  {
+    "code": "33.06.110.020",
+    "villageCode": "020",
+    "districtCode": "33.06.110",
+    "name": "Semampir",
+    "alias": "Semampir"
+  },
+  {
+    "code": "33.06.110.021",
+    "villageCode": "021",
+    "districtCode": "33.06.110",
+    "name": "Gumawangrejo",
+    "alias": "Gumawangrejo"
+  },
+  {
+    "code": "33.06.110.022",
+    "villageCode": "022",
+    "districtCode": "33.06.110",
+    "name": "Petuguran",
+    "alias": "Petuguran"
+  },
+  {
+    "code": "33.06.110.023",
+    "villageCode": "023",
+    "districtCode": "33.06.110",
+    "name": "Pekacangan",
+    "alias": "Pekacangan"
+  },
+  {
+    "code": "33.06.110.024",
+    "villageCode": "024",
+    "districtCode": "33.06.110",
+    "name": "Karanggetas",
+    "alias": "Karanggetas"
+  },
+  {
+    "code": "33.06.110.025",
+    "villageCode": "025",
+    "districtCode": "33.06.110",
+    "name": "Luweng Lor",
+    "alias": "Luweng Lor"
+  },
+  {
+    "code": "33.06.110.026",
+    "villageCode": "026",
+    "districtCode": "33.06.110",
+    "name": "Luweng Kidul",
+    "alias": "Luweng Kidul"
+  },
+  {
+    "code": "33.06.110.027",
+    "villageCode": "027",
+    "districtCode": "33.06.110",
+    "name": "Sambeng",
+    "alias": "Sambeng"
+  },
+  {
+    "code": "33.06.110.028",
+    "villageCode": "028",
+    "districtCode": "33.06.110",
+    "name": "Megulung Kidul",
+    "alias": "Megulung Kidul"
+  },
+  {
+    "code": "33.06.110.029",
+    "villageCode": "029",
+    "districtCode": "33.06.110",
+    "name": "Pituruh",
+    "alias": "Pituruh"
+  },
+  {
+    "code": "33.06.110.030",
+    "villageCode": "030",
+    "districtCode": "33.06.110",
+    "name": "Prigelan",
+    "alias": "Prigelan"
+  },
+  {
+    "code": "33.06.110.031",
+    "villageCode": "031",
+    "districtCode": "33.06.110",
+    "name": "Karanganyar",
+    "alias": "Karanganyar"
+  },
+  {
+    "code": "33.06.110.032",
+    "villageCode": "032",
+    "districtCode": "33.06.110",
+    "name": "Megulung Lor",
+    "alias": "Megulung Lor"
+  },
+  {
+    "code": "33.06.110.033",
+    "villageCode": "033",
+    "districtCode": "33.06.110",
+    "name": "Prapag Kidul",
+    "alias": "Prapag Kidul"
+  },
+  {
+    "code": "33.06.110.034",
+    "villageCode": "034",
+    "districtCode": "33.06.110",
+    "name": "Kembangkuning",
+    "alias": "Kembangkuning"
+  },
+  {
+    "code": "33.06.110.035",
+    "villageCode": "035",
+    "districtCode": "33.06.110",
+    "name": "Brengkol",
+    "alias": "Brengkol"
+  },
+  {
+    "code": "33.06.110.036",
+    "villageCode": "036",
+    "districtCode": "33.06.110",
+    "name": "Girigondo",
+    "alias": "Girigondo"
+  },
+  {
+    "code": "33.06.110.037",
+    "villageCode": "037",
+    "districtCode": "33.06.110",
+    "name": "Prapag Lor",
+    "alias": "Prapag Lor"
+  },
+  {
+    "code": "33.06.110.038",
+    "villageCode": "038",
+    "districtCode": "33.06.110",
+    "name": "Kalikotes",
+    "alias": "Kalikotes"
+  },
+  {
+    "code": "33.06.110.039",
+    "villageCode": "039",
+    "districtCode": "33.06.110",
+    "name": "Ngandagan",
+    "alias": "Ngandagan"
+  },
+  {
+    "code": "33.06.110.040",
+    "villageCode": "040",
+    "districtCode": "33.06.110",
+    "name": "Kesawen",
+    "alias": "Kesawen"
+  },
+  {
+    "code": "33.06.110.041",
+    "villageCode": "041",
+    "districtCode": "33.06.110",
+    "name": "Kedung Batur",
+    "alias": "Kedung Batur"
+  },
+  {
+    "code": "33.06.110.042",
+    "villageCode": "042",
+    "districtCode": "33.06.110",
+    "name": "Polowangi",
+    "alias": "Polowangi"
+  },
+  {
+    "code": "33.06.110.043",
+    "villageCode": "043",
+    "districtCode": "33.06.110",
+    "name": "Kalijering",
+    "alias": "Kalijering"
+  },
+  {
+    "code": "33.06.110.044",
+    "villageCode": "044",
+    "districtCode": "33.06.110",
+    "name": "Somogede",
+    "alias": "Somogede"
+  },
+  {
+    "code": "33.06.110.045",
+    "villageCode": "045",
+    "districtCode": "33.06.110",
+    "name": "Kaligondang",
+    "alias": "Kaligondang"
+  },
+  {
+    "code": "33.06.110.046",
+    "villageCode": "046",
+    "districtCode": "33.06.110",
+    "name": "Kaligintung",
+    "alias": "Kaligintung"
+  },
+  {
+    "code": "33.06.110.047",
+    "villageCode": "047",
+    "districtCode": "33.06.110",
+    "name": "Sawangan",
+    "alias": "Sawangan"
+  },
+  {
+    "code": "33.06.110.048",
+    "villageCode": "048",
+    "districtCode": "33.06.110",
+    "name": "Wonosido",
+    "alias": "Wonosido"
+  },
+  {
+    "code": "33.06.110.049",
+    "villageCode": "049",
+    "districtCode": "33.06.110",
+    "name": "Pamriyan",
+    "alias": "Pamriyan"
+  }
+]

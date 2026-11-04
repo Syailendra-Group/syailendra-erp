@@ -1,0 +1,65 @@
+[
+  {
+    "code": "94.03.082.001",
+    "villageCode": "001",
+    "districtCode": "94.03.082",
+    "name": "Tabbeyan",
+    "alias": "Tabbeyan"
+  },
+  {
+    "code": "94.03.082.002",
+    "villageCode": "002",
+    "districtCode": "94.03.082",
+    "name": "Ongan Jaya",
+    "alias": "Ongan Jaya"
+  },
+  {
+    "code": "94.03.082.003",
+    "villageCode": "003",
+    "districtCode": "94.03.082",
+    "name": "Kwarja",
+    "alias": "Kwarja"
+  },
+  {
+    "code": "94.03.082.004",
+    "villageCode": "004",
+    "districtCode": "94.03.082",
+    "name": "Bumi Sahaja",
+    "alias": "Bumi Sahaja"
+  },
+  {
+    "code": "94.03.082.005",
+    "villageCode": "005",
+    "districtCode": "94.03.082",
+    "name": "Nawa Mulya",
+    "alias": "Nawa Mulya"
+  },
+  {
+    "code": "94.03.082.006",
+    "villageCode": "006",
+    "districtCode": "94.03.082",
+    "name": "Nawa Mukti",
+    "alias": "Nawa Mukti"
+  },
+  {
+    "code": "94.03.082.007",
+    "villageCode": "007",
+    "districtCode": "94.03.082",
+    "name": "Takwa Bangun",
+    "alias": "Takwa Bangun"
+  },
+  {
+    "code": "94.03.082.008",
+    "villageCode": "008",
+    "districtCode": "94.03.082",
+    "name": "Purnawa Jati",
+    "alias": "Purnawa Jati"
+  },
+  {
+    "code": "94.03.082.009",
+    "villageCode": "009",
+    "districtCode": "94.03.082",
+    "name": "Bundru",
+    "alias": "Bundru"
+  }
+]

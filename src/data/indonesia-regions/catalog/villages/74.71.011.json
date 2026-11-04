@@ -1,0 +1,30 @@
+[
+  {
+    "code": "74.71.011.001",
+    "villageCode": "001",
+    "districtCode": "74.71.011",
+    "name": "Baruga",
+    "alias": "Baruga"
+  },
+  {
+    "code": "74.71.011.002",
+    "villageCode": "002",
+    "districtCode": "74.71.011",
+    "name": "Lepo-Lepo",
+    "alias": "Lepo-Lepo"
+  },
+  {
+    "code": "74.71.011.007",
+    "villageCode": "007",
+    "districtCode": "74.71.011",
+    "name": "Watubangga",
+    "alias": "Watubangga"
+  },
+  {
+    "code": "74.71.011.013",
+    "villageCode": "013",
+    "districtCode": "74.71.011",
+    "name": "Wundudopi",
+    "alias": "Wundudopi"
+  }
+]

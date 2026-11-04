@@ -1,0 +1,65 @@
+[
+  {
+    "code": "64.01.011.001",
+    "villageCode": "001",
+    "districtCode": "64.01.011",
+    "name": "Tanjung Pinang",
+    "alias": "Tanjung Pinang"
+  },
+  {
+    "code": "64.01.011.002",
+    "villageCode": "002",
+    "districtCode": "64.01.011",
+    "name": "Rantau Atas",
+    "alias": "Rantau Atas"
+  },
+  {
+    "code": "64.01.011.003",
+    "villageCode": "003",
+    "districtCode": "64.01.011",
+    "name": "Libur Dinding",
+    "alias": "Libur Dinding"
+  },
+  {
+    "code": "64.01.011.004",
+    "villageCode": "004",
+    "districtCode": "64.01.011",
+    "name": "Luan/Dilibinti",
+    "alias": "Luan/Dilibinti"
+  },
+  {
+    "code": "64.01.011.005",
+    "villageCode": "005",
+    "districtCode": "64.01.011",
+    "name": "Suweto",
+    "alias": "Suweto"
+  },
+  {
+    "code": "64.01.011.006",
+    "villageCode": "006",
+    "districtCode": "64.01.011",
+    "name": "Muser",
+    "alias": "Muser"
+  },
+  {
+    "code": "64.01.011.007",
+    "villageCode": "007",
+    "districtCode": "64.01.011",
+    "name": "Biu",
+    "alias": "Biu"
+  },
+  {
+    "code": "64.01.011.008",
+    "villageCode": "008",
+    "districtCode": "64.01.011",
+    "name": "Rantau Bintungan",
+    "alias": "Rantau Bintungan"
+  },
+  {
+    "code": "64.01.011.009",
+    "villageCode": "009",
+    "districtCode": "64.01.011",
+    "name": "Muara Andeh",
+    "alias": "Muara Andeh"
+  }
+]

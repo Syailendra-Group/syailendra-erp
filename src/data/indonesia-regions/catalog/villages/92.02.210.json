@@ -1,0 +1,30 @@
+[
+  {
+    "code": "92.02.210.001",
+    "villageCode": "001",
+    "districtCode": "92.02.210",
+    "name": "Mamsit",
+    "alias": "Mamsit"
+  },
+  {
+    "code": "92.02.210.002",
+    "villageCode": "002",
+    "districtCode": "92.02.210",
+    "name": "Sabake",
+    "alias": "Sabake"
+  },
+  {
+    "code": "92.02.210.003",
+    "villageCode": "003",
+    "districtCode": "92.02.210",
+    "name": "Klayastani",
+    "alias": "Klayastani"
+  },
+  {
+    "code": "92.02.210.004",
+    "villageCode": "004",
+    "districtCode": "92.02.210",
+    "name": "Klafluk",
+    "alias": "Klafluk"
+  }
+]

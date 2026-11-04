@@ -1,0 +1,66 @@
+[
+  {
+    "code": "63.11.010",
+    "districtCode": "010",
+    "regencyCode": "63.11",
+    "provinceCode": "63",
+    "name": "Kecamatan Lampihong",
+    "alias": "Lampihong"
+  },
+  {
+    "code": "63.11.020",
+    "districtCode": "020",
+    "regencyCode": "63.11",
+    "provinceCode": "63",
+    "name": "Kecamatan Batu Mandi",
+    "alias": "Batu Mandi"
+  },
+  {
+    "code": "63.11.030",
+    "districtCode": "030",
+    "regencyCode": "63.11",
+    "provinceCode": "63",
+    "name": "Kecamatan Awayan",
+    "alias": "Awayan"
+  },
+  {
+    "code": "63.11.031",
+    "districtCode": "031",
+    "regencyCode": "63.11",
+    "provinceCode": "63",
+    "name": "Kecamatan Tebing Tinggi",
+    "alias": "Tebing Tinggi"
+  },
+  {
+    "code": "63.11.040",
+    "districtCode": "040",
+    "regencyCode": "63.11",
+    "provinceCode": "63",
+    "name": "Kecamatan Paringin",
+    "alias": "Paringin"
+  },
+  {
+    "code": "63.11.041",
+    "districtCode": "041",
+    "regencyCode": "63.11",
+    "provinceCode": "63",
+    "name": "Kecamatan Paringin Selatan",
+    "alias": "Paringin Selatan"
+  },
+  {
+    "code": "63.11.050",
+    "districtCode": "050",
+    "regencyCode": "63.11",
+    "provinceCode": "63",
+    "name": "Kecamatan Juai",
+    "alias": "Juai"
+  },
+  {
+    "code": "63.11.060",
+    "districtCode": "060",
+    "regencyCode": "63.11",
+    "provinceCode": "63",
+    "name": "Kecamatan Halong",
+    "alias": "Halong"
+  }
+]

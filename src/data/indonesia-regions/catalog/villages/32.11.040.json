@@ -1,0 +1,72 @@
+[
+  {
+    "code": "32.11.040.002",
+    "villageCode": "002",
+    "districtCode": "32.11.040",
+    "name": "Sukasirnarasa",
+    "alias": "Sukasirnarasa"
+  },
+  {
+    "code": "32.11.040.006",
+    "villageCode": "006",
+    "districtCode": "32.11.040",
+    "name": "Pasir Biru",
+    "alias": "Pasir Biru"
+  },
+  {
+    "code": "32.11.040.007",
+    "villageCode": "007",
+    "districtCode": "32.11.040",
+    "name": "Rancakalong",
+    "alias": "Rancakalong"
+  },
+  {
+    "code": "32.11.040.008",
+    "villageCode": "008",
+    "districtCode": "32.11.040",
+    "name": "Pamekaran",
+    "alias": "Pamekaran"
+  },
+  {
+    "code": "32.11.040.009",
+    "villageCode": "009",
+    "districtCode": "32.11.040",
+    "name": "Sukamaju",
+    "alias": "Sukamaju"
+  },
+  {
+    "code": "32.11.040.010",
+    "villageCode": "010",
+    "districtCode": "32.11.040",
+    "name": "Sukahayu",
+    "alias": "Sukahayu"
+  },
+  {
+    "code": "32.11.040.011",
+    "villageCode": "011",
+    "districtCode": "32.11.040",
+    "name": "Nagarawangi",
+    "alias": "Nagarawangi"
+  },
+  {
+    "code": "32.11.040.012",
+    "villageCode": "012",
+    "districtCode": "32.11.040",
+    "name": "Cibunar",
+    "alias": "Cibunar"
+  },
+  {
+    "code": "32.11.040.013",
+    "villageCode": "013",
+    "districtCode": "32.11.040",
+    "name": "Pangadegan",
+    "alias": "Pangadegan"
+  },
+  {
+    "code": "32.11.040.014",
+    "villageCode": "014",
+    "districtCode": "32.11.040",
+    "name": "Cibungur",
+    "alias": "Cibungur"
+  }
+]

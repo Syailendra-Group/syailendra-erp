@@ -1,0 +1,72 @@
+[
+  {
+    "code": "53.10.012.009",
+    "villageCode": "009",
+    "districtCode": "53.10.012",
+    "name": "Bu Selatan",
+    "alias": "Bu Selatan"
+  },
+  {
+    "code": "53.10.012.010",
+    "villageCode": "010",
+    "districtCode": "53.10.012",
+    "name": "Detubinga",
+    "alias": "Detubinga"
+  },
+  {
+    "code": "53.10.012.011",
+    "villageCode": "011",
+    "districtCode": "53.10.012",
+    "name": "Bu Utara",
+    "alias": "Bu Utara"
+  },
+  {
+    "code": "53.10.012.012",
+    "villageCode": "012",
+    "districtCode": "53.10.012",
+    "name": "Bu Watuweti",
+    "alias": "Bu Watuweti"
+  },
+  {
+    "code": "53.10.012.013",
+    "villageCode": "013",
+    "districtCode": "53.10.012",
+    "name": "Loke",
+    "alias": "Loke"
+  },
+  {
+    "code": "53.10.012.014",
+    "villageCode": "014",
+    "districtCode": "53.10.012",
+    "name": "Renggarasi",
+    "alias": "Renggarasi"
+  },
+  {
+    "code": "53.10.012.018",
+    "villageCode": "018",
+    "districtCode": "53.10.012",
+    "name": "Poma",
+    "alias": "Poma"
+  },
+  {
+    "code": "53.10.012.021",
+    "villageCode": "021",
+    "districtCode": "53.10.012",
+    "name": "Tuwa",
+    "alias": "Tuwa"
+  },
+  {
+    "code": "53.10.012.022",
+    "villageCode": "022",
+    "districtCode": "53.10.012",
+    "name": "Bu Barat",
+    "alias": "Bu Barat"
+  },
+  {
+    "code": "53.10.012.023",
+    "villageCode": "023",
+    "districtCode": "53.10.012",
+    "name": "Bu Nuapu'U",
+    "alias": "Bu Nuapu'U"
+  }
+]

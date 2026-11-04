@@ -1,0 +1,37 @@
+[
+  {
+    "code": "15.08.022.001",
+    "villageCode": "001",
+    "districtCode": "15.08.022",
+    "name": "Penapalan",
+    "alias": "Penapalan"
+  },
+  {
+    "code": "15.08.022.002",
+    "villageCode": "002",
+    "districtCode": "15.08.022",
+    "name": "Muara Kilis",
+    "alias": "Muara Kilis"
+  },
+  {
+    "code": "15.08.022.003",
+    "villageCode": "003",
+    "districtCode": "15.08.022",
+    "name": "Mengupeh",
+    "alias": "Mengupeh"
+  },
+  {
+    "code": "15.08.022.004",
+    "villageCode": "004",
+    "districtCode": "15.08.022",
+    "name": "Rantau Api",
+    "alias": "Rantau Api"
+  },
+  {
+    "code": "15.08.022.005",
+    "villageCode": "005",
+    "districtCode": "15.08.022",
+    "name": "Lubuk Mandarsah",
+    "alias": "Lubuk Mandarsah"
+  }
+]

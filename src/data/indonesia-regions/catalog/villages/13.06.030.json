@@ -1,0 +1,58 @@
+[
+  {
+    "code": "13.06.030.001",
+    "villageCode": "001",
+    "districtCode": "13.06.030",
+    "name": "Tapakih",
+    "alias": "Tapakih"
+  },
+  {
+    "code": "13.06.030.002",
+    "villageCode": "002",
+    "districtCode": "13.06.030",
+    "name": "Ulakan",
+    "alias": "Ulakan"
+  },
+  {
+    "code": "13.06.030.003",
+    "villageCode": "003",
+    "districtCode": "13.06.030",
+    "name": "Seulayat Ulakan",
+    "alias": "Seulayat Ulakan"
+  },
+  {
+    "code": "13.06.030.004",
+    "villageCode": "004",
+    "districtCode": "13.06.030",
+    "name": "Sungai Gimba Ulakan",
+    "alias": "Sungai Gimba Ulakan"
+  },
+  {
+    "code": "13.06.030.005",
+    "villageCode": "005",
+    "districtCode": "13.06.030",
+    "name": "Manggopoh Palak Gadang Ulakan",
+    "alias": "Manggopoh Palak Gadang Ulakan"
+  },
+  {
+    "code": "13.06.030.006",
+    "villageCode": "006",
+    "districtCode": "13.06.030",
+    "name": "Sandi Ulakan",
+    "alias": "Sandi Ulakan"
+  },
+  {
+    "code": "13.06.030.007",
+    "villageCode": "007",
+    "districtCode": "13.06.030",
+    "name": "Kampuang Galapuang Ulakan",
+    "alias": "Kampuang Galapuang Ulakan"
+  },
+  {
+    "code": "13.06.030.008",
+    "villageCode": "008",
+    "districtCode": "13.06.030",
+    "name": "Padang Toboh Ulakan",
+    "alias": "Padang Toboh Ulakan"
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "code": "32.06.030.001",
+    "villageCode": "001",
+    "districtCode": "32.06.030",
+    "name": "Mandalajaya",
+    "alias": "Mandalajaya"
+  },
+  {
+    "code": "32.06.030.002",
+    "villageCode": "002",
+    "districtCode": "32.06.030",
+    "name": "Cikalong",
+    "alias": "Cikalong"
+  },
+  {
+    "code": "32.06.030.003",
+    "villageCode": "003",
+    "districtCode": "32.06.030",
+    "name": "Cikancra",
+    "alias": "Cikancra"
+  },
+  {
+    "code": "32.06.030.004",
+    "villageCode": "004",
+    "districtCode": "32.06.030",
+    "name": "Tonjongsari",
+    "alias": "Tonjongsari"
+  },
+  {
+    "code": "32.06.030.005",
+    "villageCode": "005",
+    "districtCode": "32.06.030",
+    "name": "Singkir",
+    "alias": "Singkir"
+  },
+  {
+    "code": "32.06.030.006",
+    "villageCode": "006",
+    "districtCode": "32.06.030",
+    "name": "Panyiaran",
+    "alias": "Panyiaran"
+  },
+  {
+    "code": "32.06.030.007",
+    "villageCode": "007",
+    "districtCode": "32.06.030",
+    "name": "Cibeber",
+    "alias": "Cibeber"
+  },
+  {
+    "code": "32.06.030.008",
+    "villageCode": "008",
+    "districtCode": "32.06.030",
+    "name": "Cidadali",
+    "alias": "Cidadali"
+  },
+  {
+    "code": "32.06.030.009",
+    "villageCode": "009",
+    "districtCode": "32.06.030",
+    "name": "Kubangsari",
+    "alias": "Kubangsari"
+  },
+  {
+    "code": "32.06.030.010",
+    "villageCode": "010",
+    "districtCode": "32.06.030",
+    "name": "Cikadu",
+    "alias": "Cikadu"
+  },
+  {
+    "code": "32.06.030.011",
+    "villageCode": "011",
+    "districtCode": "32.06.030",
+    "name": "Sindangjaya",
+    "alias": "Sindangjaya"
+  },
+  {
+    "code": "32.06.030.012",
+    "villageCode": "012",
+    "districtCode": "32.06.030",
+    "name": "Kalapagenep",
+    "alias": "Kalapagenep"
+  },
+  {
+    "code": "32.06.030.013",
+    "villageCode": "013",
+    "districtCode": "32.06.030",
+    "name": "Cimanuk",
+    "alias": "Cimanuk"
+  }
+]

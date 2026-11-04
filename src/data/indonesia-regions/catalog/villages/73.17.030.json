@@ -1,0 +1,65 @@
+[
+  {
+    "code": "73.17.030.001",
+    "villageCode": "001",
+    "districtCode": "73.17.030",
+    "name": "Balubu",
+    "alias": "Balubu"
+  },
+  {
+    "code": "73.17.030.002",
+    "villageCode": "002",
+    "districtCode": "73.17.030",
+    "name": "Pasamai",
+    "alias": "Pasamai"
+  },
+  {
+    "code": "73.17.030.003",
+    "villageCode": "003",
+    "districtCode": "73.17.030",
+    "name": "Senga Selatan",
+    "alias": "Senga Selatan"
+  },
+  {
+    "code": "73.17.030.004",
+    "villageCode": "004",
+    "districtCode": "73.17.030",
+    "name": "Senga",
+    "alias": "Senga"
+  },
+  {
+    "code": "73.17.030.005",
+    "villageCode": "005",
+    "districtCode": "73.17.030",
+    "name": "Belopa",
+    "alias": "Belopa"
+  },
+  {
+    "code": "73.17.030.006",
+    "villageCode": "006",
+    "districtCode": "73.17.030",
+    "name": "Balo- Balo",
+    "alias": "Balo- Balo"
+  },
+  {
+    "code": "73.17.030.007",
+    "villageCode": "007",
+    "districtCode": "73.17.030",
+    "name": "Kurrusumanga",
+    "alias": "Kurrusumanga"
+  },
+  {
+    "code": "73.17.030.019",
+    "villageCode": "019",
+    "districtCode": "73.17.030",
+    "name": "Tanamanai",
+    "alias": "Tanamanai"
+  },
+  {
+    "code": "73.17.030.020",
+    "villageCode": "020",
+    "districtCode": "73.17.030",
+    "name": "Tampumia Radda",
+    "alias": "Tampumia Radda"
+  }
+]

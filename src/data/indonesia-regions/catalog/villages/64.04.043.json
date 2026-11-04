@@ -1,0 +1,37 @@
+[
+  {
+    "code": "64.04.043.001",
+    "villageCode": "001",
+    "districtCode": "64.04.043",
+    "name": "Sangkima",
+    "alias": "Sangkima"
+  },
+  {
+    "code": "64.04.043.002",
+    "villageCode": "002",
+    "districtCode": "64.04.043",
+    "name": "Sangatta Selatan",
+    "alias": "Sangatta Selatan"
+  },
+  {
+    "code": "64.04.043.003",
+    "villageCode": "003",
+    "districtCode": "64.04.043",
+    "name": "Singa Geweh",
+    "alias": "Singa Geweh"
+  },
+  {
+    "code": "64.04.043.004",
+    "villageCode": "004",
+    "districtCode": "64.04.043",
+    "name": "Teluk Singkama",
+    "alias": "Teluk Singkama"
+  },
+  {
+    "code": "64.04.043.005",
+    "villageCode": "005",
+    "districtCode": "64.04.043",
+    "name": "Desa Persiapan Pinang Raya",
+    "alias": "Desa Persiapan Pinang Raya"
+  }
+]

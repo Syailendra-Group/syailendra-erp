@@ -1,0 +1,30 @@
+[
+  {
+    "code": "73.26.210.001",
+    "villageCode": "001",
+    "districtCode": "73.26.210",
+    "name": "Kelurahan Baruppu Selatan",
+    "alias": "Kelurahan Baruppu Selatan"
+  },
+  {
+    "code": "73.26.210.002",
+    "villageCode": "002",
+    "districtCode": "73.26.210",
+    "name": "Lembang Baruppu Benteng Batu",
+    "alias": "Lembang Baruppu Benteng Batu"
+  },
+  {
+    "code": "73.26.210.003",
+    "villageCode": "003",
+    "districtCode": "73.26.210",
+    "name": "Lembang Baruppu Utara",
+    "alias": "Lembang Baruppu Utara"
+  },
+  {
+    "code": "73.26.210.004",
+    "villageCode": "004",
+    "districtCode": "73.26.210",
+    "name": "Lembang Baruppu Parodo",
+    "alias": "Lembang Baruppu Parodo"
+  }
+]

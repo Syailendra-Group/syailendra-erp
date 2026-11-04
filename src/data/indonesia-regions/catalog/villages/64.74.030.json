@@ -1,0 +1,23 @@
+[
+  {
+    "code": "64.74.030.001",
+    "villageCode": "001",
+    "districtCode": "64.74.030",
+    "name": "Kanaan",
+    "alias": "Kanaan"
+  },
+  {
+    "code": "64.74.030.002",
+    "villageCode": "002",
+    "districtCode": "64.74.030",
+    "name": "Gunung Telihan",
+    "alias": "Gunung Telihan"
+  },
+  {
+    "code": "64.74.030.003",
+    "villageCode": "003",
+    "districtCode": "64.74.030",
+    "name": "Belimbing",
+    "alias": "Belimbing"
+  }
+]

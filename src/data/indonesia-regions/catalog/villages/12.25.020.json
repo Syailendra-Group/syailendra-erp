@@ -1,0 +1,79 @@
+[
+  {
+    "code": "12.25.020.001",
+    "villageCode": "001",
+    "districtCode": "12.25.020",
+    "name": "Sisobaoho",
+    "alias": "Sisobaoho"
+  },
+  {
+    "code": "12.25.020.002",
+    "villageCode": "002",
+    "districtCode": "12.25.020",
+    "name": "Bawozamaiwo",
+    "alias": "Bawozamaiwo"
+  },
+  {
+    "code": "12.25.020.003",
+    "villageCode": "003",
+    "districtCode": "12.25.020",
+    "name": "Sitolubanua",
+    "alias": "Sitolubanua"
+  },
+  {
+    "code": "12.25.020.004",
+    "villageCode": "004",
+    "districtCode": "12.25.020",
+    "name": "Iraonogaila",
+    "alias": "Iraonogaila"
+  },
+  {
+    "code": "12.25.020.005",
+    "villageCode": "005",
+    "districtCode": "12.25.020",
+    "name": "Lologundre",
+    "alias": "Lologundre"
+  },
+  {
+    "code": "12.25.020.006",
+    "villageCode": "006",
+    "districtCode": "12.25.020",
+    "name": "Lolowau",
+    "alias": "Lolowau"
+  },
+  {
+    "code": "12.25.020.007",
+    "villageCode": "007",
+    "districtCode": "12.25.020",
+    "name": "Sisobambowo",
+    "alias": "Sisobambowo"
+  },
+  {
+    "code": "12.25.020.008",
+    "villageCode": "008",
+    "districtCode": "12.25.020",
+    "name": "Hiliadulo",
+    "alias": "Hiliadulo"
+  },
+  {
+    "code": "12.25.020.009",
+    "villageCode": "009",
+    "districtCode": "12.25.020",
+    "name": "Onolimbu",
+    "alias": "Onolimbu"
+  },
+  {
+    "code": "12.25.020.010",
+    "villageCode": "010",
+    "districtCode": "12.25.020",
+    "name": "Onowaembo",
+    "alias": "Onowaembo"
+  },
+  {
+    "code": "12.25.020.011",
+    "villageCode": "011",
+    "districtCode": "12.25.020",
+    "name": "Tiga Serangkai",
+    "alias": "Tiga Serangkai"
+  }
+]

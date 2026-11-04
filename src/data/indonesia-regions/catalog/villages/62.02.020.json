@@ -1,0 +1,72 @@
+[
+  {
+    "code": "62.02.020.005",
+    "villageCode": "005",
+    "districtCode": "62.02.020",
+    "name": "Sabamban",
+    "alias": "Sabamban"
+  },
+  {
+    "code": "62.02.020.006",
+    "villageCode": "006",
+    "districtCode": "62.02.020",
+    "name": "Samuda Besar",
+    "alias": "Samuda Besar"
+  },
+  {
+    "code": "62.02.020.007",
+    "villageCode": "007",
+    "districtCode": "62.02.020",
+    "name": "Samuda Kecil",
+    "alias": "Samuda Kecil"
+  },
+  {
+    "code": "62.02.020.008",
+    "villageCode": "008",
+    "districtCode": "62.02.020",
+    "name": "Samuda Kota",
+    "alias": "Samuda Kota"
+  },
+  {
+    "code": "62.02.020.009",
+    "villageCode": "009",
+    "districtCode": "62.02.020",
+    "name": "Basirih Hilir",
+    "alias": "Basirih Hilir"
+  },
+  {
+    "code": "62.02.020.010",
+    "villageCode": "010",
+    "districtCode": "62.02.020",
+    "name": "Jaya Kelapa",
+    "alias": "Jaya Kelapa"
+  },
+  {
+    "code": "62.02.020.011",
+    "villageCode": "011",
+    "districtCode": "62.02.020",
+    "name": "Basirih Hulu",
+    "alias": "Basirih Hulu"
+  },
+  {
+    "code": "62.02.020.012",
+    "villageCode": "012",
+    "districtCode": "62.02.020",
+    "name": "Jaya Karet",
+    "alias": "Jaya Karet"
+  },
+  {
+    "code": "62.02.020.013",
+    "villageCode": "013",
+    "districtCode": "62.02.020",
+    "name": "Sei Ijum Raya",
+    "alias": "Sei Ijum Raya"
+  },
+  {
+    "code": "62.02.020.014",
+    "villageCode": "014",
+    "districtCode": "62.02.020",
+    "name": "Handil Sohor",
+    "alias": "Handil Sohor"
+  }
+]

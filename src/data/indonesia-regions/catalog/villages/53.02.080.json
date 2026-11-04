@@ -1,0 +1,65 @@
+[
+  {
+    "code": "53.02.080.007",
+    "villageCode": "007",
+    "districtCode": "53.02.080",
+    "name": "Rambangaru",
+    "alias": "Rambangaru"
+  },
+  {
+    "code": "53.02.080.008",
+    "villageCode": "008",
+    "districtCode": "53.02.080",
+    "name": "Prai Bakul",
+    "alias": "Prai Bakul"
+  },
+  {
+    "code": "53.02.080.009",
+    "villageCode": "009",
+    "districtCode": "53.02.080",
+    "name": "Mbatapuhu",
+    "alias": "Mbatapuhu"
+  },
+  {
+    "code": "53.02.080.010",
+    "villageCode": "010",
+    "districtCode": "53.02.080",
+    "name": "Wunga",
+    "alias": "Wunga"
+  },
+  {
+    "code": "53.02.080.011",
+    "villageCode": "011",
+    "districtCode": "53.02.080",
+    "name": "N A P U",
+    "alias": "N A P U"
+  },
+  {
+    "code": "53.02.080.012",
+    "villageCode": "012",
+    "districtCode": "53.02.080",
+    "name": "Kadahang",
+    "alias": "Kadahang"
+  },
+  {
+    "code": "53.02.080.013",
+    "villageCode": "013",
+    "districtCode": "53.02.080",
+    "name": "Kalamba",
+    "alias": "Kalamba"
+  },
+  {
+    "code": "53.02.080.014",
+    "villageCode": "014",
+    "districtCode": "53.02.080",
+    "name": "Desa Persiapan Matawai Padangu",
+    "alias": "Desa Persiapan Matawai Padangu"
+  },
+  {
+    "code": "53.02.080.015",
+    "villageCode": "015",
+    "districtCode": "53.02.080",
+    "name": "Desa Persiapan Prailangiwa",
+    "alias": "Desa Persiapan Prailangiwa"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "code": "32.09.021.001",
+    "villageCode": "001",
+    "districtCode": "32.09.021",
+    "name": "Sukadana",
+    "alias": "Sukadana"
+  },
+  {
+    "code": "32.09.021.002",
+    "villageCode": "002",
+    "districtCode": "32.09.021",
+    "name": "Pabuaran Kidul",
+    "alias": "Pabuaran Kidul"
+  },
+  {
+    "code": "32.09.021.003",
+    "villageCode": "003",
+    "districtCode": "32.09.021",
+    "name": "Pabuaran Wetan",
+    "alias": "Pabuaran Wetan"
+  },
+  {
+    "code": "32.09.021.004",
+    "villageCode": "004",
+    "districtCode": "32.09.021",
+    "name": "Pabuaran Lor",
+    "alias": "Pabuaran Lor"
+  },
+  {
+    "code": "32.09.021.005",
+    "villageCode": "005",
+    "districtCode": "32.09.021",
+    "name": "Jatirenggang",
+    "alias": "Jatirenggang"
+  },
+  {
+    "code": "32.09.021.006",
+    "villageCode": "006",
+    "districtCode": "32.09.021",
+    "name": "Hulubanteng",
+    "alias": "Hulubanteng"
+  },
+  {
+    "code": "32.09.021.007",
+    "villageCode": "007",
+    "districtCode": "32.09.021",
+    "name": "Hulubanteng Lor",
+    "alias": "Hulubanteng Lor"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "code": "32.77.020.001",
+    "villageCode": "001",
+    "districtCode": "32.77.020",
+    "name": "Baros",
+    "alias": "Baros"
+  },
+  {
+    "code": "32.77.020.002",
+    "villageCode": "002",
+    "districtCode": "32.77.020",
+    "name": "Cigugur Tengah",
+    "alias": "Cigugur Tengah"
+  },
+  {
+    "code": "32.77.020.003",
+    "villageCode": "003",
+    "districtCode": "32.77.020",
+    "name": "Karangmekar",
+    "alias": "Karangmekar"
+  },
+  {
+    "code": "32.77.020.004",
+    "villageCode": "004",
+    "districtCode": "32.77.020",
+    "name": "Setiamanah",
+    "alias": "Setiamanah"
+  },
+  {
+    "code": "32.77.020.005",
+    "villageCode": "005",
+    "districtCode": "32.77.020",
+    "name": "Padasuka",
+    "alias": "Padasuka"
+  },
+  {
+    "code": "32.77.020.006",
+    "villageCode": "006",
+    "districtCode": "32.77.020",
+    "name": "Cimahi",
+    "alias": "Cimahi"
+  }
+]

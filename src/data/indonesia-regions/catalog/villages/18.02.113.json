@@ -1,0 +1,44 @@
+[
+  {
+    "code": "18.02.113.001",
+    "villageCode": "001",
+    "districtCode": "18.02.113",
+    "name": "Sidoharjo",
+    "alias": "Sidoharjo"
+  },
+  {
+    "code": "18.02.113.002",
+    "villageCode": "002",
+    "districtCode": "18.02.113",
+    "name": "Lengkukai",
+    "alias": "Lengkukai"
+  },
+  {
+    "code": "18.02.113.003",
+    "villageCode": "003",
+    "districtCode": "18.02.113",
+    "name": "Merbau",
+    "alias": "Merbau"
+  },
+  {
+    "code": "18.02.113.004",
+    "villageCode": "004",
+    "districtCode": "18.02.113",
+    "name": "Batu Patah",
+    "alias": "Batu Patah"
+  },
+  {
+    "code": "18.02.113.005",
+    "villageCode": "005",
+    "districtCode": "18.02.113",
+    "name": "Purwosari",
+    "alias": "Purwosari"
+  },
+  {
+    "code": "18.02.113.006",
+    "villageCode": "006",
+    "districtCode": "18.02.113",
+    "name": "Margamulya",
+    "alias": "Margamulya"
+  }
+]

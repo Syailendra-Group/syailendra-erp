@@ -1,0 +1,107 @@
+[
+  {
+    "code": "52.03.011.001",
+    "villageCode": "001",
+    "districtCode": "52.03.011",
+    "name": "Batunampar",
+    "alias": "Batunampar"
+  },
+  {
+    "code": "52.03.011.002",
+    "villageCode": "002",
+    "districtCode": "52.03.011",
+    "name": "Sukaraja",
+    "alias": "Sukaraja"
+  },
+  {
+    "code": "52.03.011.003",
+    "villageCode": "003",
+    "districtCode": "52.03.011",
+    "name": "Jerowaru",
+    "alias": "Jerowaru"
+  },
+  {
+    "code": "52.03.011.004",
+    "villageCode": "004",
+    "districtCode": "52.03.011",
+    "name": "Pemongkong",
+    "alias": "Pemongkong"
+  },
+  {
+    "code": "52.03.011.005",
+    "villageCode": "005",
+    "districtCode": "52.03.011",
+    "name": "Pandan Wangi",
+    "alias": "Pandan Wangi"
+  },
+  {
+    "code": "52.03.011.006",
+    "villageCode": "006",
+    "districtCode": "52.03.011",
+    "name": "Sekaroh",
+    "alias": "Sekaroh"
+  },
+  {
+    "code": "52.03.011.007",
+    "villageCode": "007",
+    "districtCode": "52.03.011",
+    "name": "Wakan",
+    "alias": "Wakan"
+  },
+  {
+    "code": "52.03.011.008",
+    "villageCode": "008",
+    "districtCode": "52.03.011",
+    "name": "Ekas Buana",
+    "alias": "Ekas Buana"
+  },
+  {
+    "code": "52.03.011.009",
+    "villageCode": "009",
+    "districtCode": "52.03.011",
+    "name": "Kwang Rundun",
+    "alias": "Kwang Rundun"
+  },
+  {
+    "code": "52.03.011.010",
+    "villageCode": "010",
+    "districtCode": "52.03.011",
+    "name": "Batu Nampar Selatan",
+    "alias": "Batu Nampar Selatan"
+  },
+  {
+    "code": "52.03.011.011",
+    "villageCode": "011",
+    "districtCode": "52.03.011",
+    "name": "Pene",
+    "alias": "Pene"
+  },
+  {
+    "code": "52.03.011.012",
+    "villageCode": "012",
+    "districtCode": "52.03.011",
+    "name": "Sukadamai",
+    "alias": "Sukadamai"
+  },
+  {
+    "code": "52.03.011.013",
+    "villageCode": "013",
+    "districtCode": "52.03.011",
+    "name": "Sepapan",
+    "alias": "Sepapan"
+  },
+  {
+    "code": "52.03.011.014",
+    "villageCode": "014",
+    "districtCode": "52.03.011",
+    "name": "Seriwe",
+    "alias": "Seriwe"
+  },
+  {
+    "code": "52.03.011.015",
+    "villageCode": "015",
+    "districtCode": "52.03.011",
+    "name": "Paremas",
+    "alias": "Paremas"
+  }
+]

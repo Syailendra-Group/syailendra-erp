@@ -1,0 +1,79 @@
+[
+  {
+    "code": "71.01.100.001",
+    "villageCode": "001",
+    "districtCode": "71.01.100",
+    "name": "Komangaan",
+    "alias": "Komangaan"
+  },
+  {
+    "code": "71.01.100.002",
+    "villageCode": "002",
+    "districtCode": "71.01.100",
+    "name": "Solimandungan Dua",
+    "alias": "Solimandungan Dua"
+  },
+  {
+    "code": "71.01.100.003",
+    "villageCode": "003",
+    "districtCode": "71.01.100",
+    "name": "Solimandungan Satu",
+    "alias": "Solimandungan Satu"
+  },
+  {
+    "code": "71.01.100.004",
+    "villageCode": "004",
+    "districtCode": "71.01.100",
+    "name": "Bangomolunow",
+    "alias": "Bangomolunow"
+  },
+  {
+    "code": "71.01.100.005",
+    "villageCode": "005",
+    "districtCode": "71.01.100",
+    "name": "Langagon",
+    "alias": "Langagon"
+  },
+  {
+    "code": "71.01.100.006",
+    "villageCode": "006",
+    "districtCode": "71.01.100",
+    "name": "Inobonto Satu",
+    "alias": "Inobonto Satu"
+  },
+  {
+    "code": "71.01.100.007",
+    "villageCode": "007",
+    "districtCode": "71.01.100",
+    "name": "Inobonto Dua",
+    "alias": "Inobonto Dua"
+  },
+  {
+    "code": "71.01.100.008",
+    "villageCode": "008",
+    "districtCode": "71.01.100",
+    "name": "Inobonto",
+    "alias": "Inobonto"
+  },
+  {
+    "code": "71.01.100.009",
+    "villageCode": "009",
+    "districtCode": "71.01.100",
+    "name": "Solimandungan Baru",
+    "alias": "Solimandungan Baru"
+  },
+  {
+    "code": "71.01.100.010",
+    "villageCode": "010",
+    "districtCode": "71.01.100",
+    "name": "Langagon Ii",
+    "alias": "Langagon Ii"
+  },
+  {
+    "code": "71.01.100.011",
+    "villageCode": "011",
+    "districtCode": "71.01.100",
+    "name": "Langagon I",
+    "alias": "Langagon I"
+  }
+]

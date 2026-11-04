@@ -1,0 +1,65 @@
+[
+  {
+    "code": "32.15.150.001",
+    "villageCode": "001",
+    "districtCode": "32.15.150",
+    "name": "Kalangsari",
+    "alias": "Kalangsari"
+  },
+  {
+    "code": "32.15.150.002",
+    "villageCode": "002",
+    "districtCode": "32.15.150",
+    "name": "Kalangsuria",
+    "alias": "Kalangsuria"
+  },
+  {
+    "code": "32.15.150.003",
+    "villageCode": "003",
+    "districtCode": "32.15.150",
+    "name": "Karyasari",
+    "alias": "Karyasari"
+  },
+  {
+    "code": "32.15.150.004",
+    "villageCode": "004",
+    "districtCode": "32.15.150",
+    "name": "Dukuhkarya",
+    "alias": "Dukuhkarya"
+  },
+  {
+    "code": "32.15.150.005",
+    "villageCode": "005",
+    "districtCode": "32.15.150",
+    "name": "Amansari",
+    "alias": "Amansari"
+  },
+  {
+    "code": "32.15.150.006",
+    "villageCode": "006",
+    "districtCode": "32.15.150",
+    "name": "Rengasdengklok Selatan",
+    "alias": "Rengasdengklok Selatan"
+  },
+  {
+    "code": "32.15.150.007",
+    "villageCode": "007",
+    "districtCode": "32.15.150",
+    "name": "Rengasdengklok Utara",
+    "alias": "Rengasdengklok Utara"
+  },
+  {
+    "code": "32.15.150.008",
+    "villageCode": "008",
+    "districtCode": "32.15.150",
+    "name": "Kertasari",
+    "alias": "Kertasari"
+  },
+  {
+    "code": "32.15.150.009",
+    "villageCode": "009",
+    "districtCode": "32.15.150",
+    "name": "Dewisari",
+    "alias": "Dewisari"
+  }
+]

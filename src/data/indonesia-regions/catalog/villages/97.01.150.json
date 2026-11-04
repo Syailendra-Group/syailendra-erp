@@ -1,0 +1,44 @@
+[
+  {
+    "code": "97.01.150.001",
+    "villageCode": "001",
+    "districtCode": "97.01.150",
+    "name": "Kroptak",
+    "alias": "Kroptak"
+  },
+  {
+    "code": "97.01.150.002",
+    "villageCode": "002",
+    "districtCode": "97.01.150",
+    "name": "Gol",
+    "alias": "Gol"
+  },
+  {
+    "code": "97.01.150.003",
+    "villageCode": "003",
+    "districtCode": "97.01.150",
+    "name": "Miniem",
+    "alias": "Miniem"
+  },
+  {
+    "code": "97.01.150.004",
+    "villageCode": "004",
+    "districtCode": "97.01.150",
+    "name": "Golparek",
+    "alias": "Golparek"
+  },
+  {
+    "code": "97.01.150.005",
+    "villageCode": "005",
+    "districtCode": "97.01.150",
+    "name": "Pesat",
+    "alias": "Pesat"
+  },
+  {
+    "code": "97.01.150.006",
+    "villageCode": "006",
+    "districtCode": "97.01.150",
+    "name": "Komoroam",
+    "alias": "Komoroam"
+  }
+]

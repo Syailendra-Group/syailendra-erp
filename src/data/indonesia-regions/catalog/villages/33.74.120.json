@@ -1,0 +1,65 @@
+[
+  {
+    "code": "33.74.120.001",
+    "villageCode": "001",
+    "districtCode": "33.74.120",
+    "name": "Bulu Lor",
+    "alias": "Bulu Lor"
+  },
+  {
+    "code": "33.74.120.002",
+    "villageCode": "002",
+    "districtCode": "33.74.120",
+    "name": "Plombokan",
+    "alias": "Plombokan"
+  },
+  {
+    "code": "33.74.120.003",
+    "villageCode": "003",
+    "districtCode": "33.74.120",
+    "name": "Panggung Kidul",
+    "alias": "Panggung Kidul"
+  },
+  {
+    "code": "33.74.120.004",
+    "villageCode": "004",
+    "districtCode": "33.74.120",
+    "name": "Panggung Lor",
+    "alias": "Panggung Lor"
+  },
+  {
+    "code": "33.74.120.005",
+    "villageCode": "005",
+    "districtCode": "33.74.120",
+    "name": "Kuningan",
+    "alias": "Kuningan"
+  },
+  {
+    "code": "33.74.120.006",
+    "villageCode": "006",
+    "districtCode": "33.74.120",
+    "name": "Purwosari",
+    "alias": "Purwosari"
+  },
+  {
+    "code": "33.74.120.007",
+    "villageCode": "007",
+    "districtCode": "33.74.120",
+    "name": "Dadapsari",
+    "alias": "Dadapsari"
+  },
+  {
+    "code": "33.74.120.008",
+    "villageCode": "008",
+    "districtCode": "33.74.120",
+    "name": "Bandarharjo",
+    "alias": "Bandarharjo"
+  },
+  {
+    "code": "33.74.120.009",
+    "villageCode": "009",
+    "districtCode": "33.74.120",
+    "name": "Tanjungmas",
+    "alias": "Tanjungmas"
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "code": "35.26.020.001",
+    "villageCode": "001",
+    "districtCode": "35.26.020",
+    "name": "Kesek",
+    "alias": "Kesek"
+  },
+  {
+    "code": "35.26.020.002",
+    "villageCode": "002",
+    "districtCode": "35.26.020",
+    "name": "Pangpong",
+    "alias": "Pangpong"
+  },
+  {
+    "code": "35.26.020.003",
+    "villageCode": "003",
+    "districtCode": "35.26.020",
+    "name": "Sukolilo Barat",
+    "alias": "Sukolilo Barat"
+  },
+  {
+    "code": "35.26.020.004",
+    "villageCode": "004",
+    "districtCode": "35.26.020",
+    "name": "Sukolilo Timur",
+    "alias": "Sukolilo Timur"
+  },
+  {
+    "code": "35.26.020.005",
+    "villageCode": "005",
+    "districtCode": "35.26.020",
+    "name": "Bunajih",
+    "alias": "Bunajih"
+  },
+  {
+    "code": "35.26.020.006",
+    "villageCode": "006",
+    "districtCode": "35.26.020",
+    "name": "Bringin",
+    "alias": "Bringin"
+  },
+  {
+    "code": "35.26.020.007",
+    "villageCode": "007",
+    "districtCode": "35.26.020",
+    "name": "Ba Engas",
+    "alias": "Ba Engas"
+  },
+  {
+    "code": "35.26.020.008",
+    "villageCode": "008",
+    "districtCode": "35.26.020",
+    "name": "Morkepek",
+    "alias": "Morkepek"
+  },
+  {
+    "code": "35.26.020.009",
+    "villageCode": "009",
+    "districtCode": "35.26.020",
+    "name": "Labang",
+    "alias": "Labang"
+  },
+  {
+    "code": "35.26.020.010",
+    "villageCode": "010",
+    "districtCode": "35.26.020",
+    "name": "Jukong",
+    "alias": "Jukong"
+  },
+  {
+    "code": "35.26.020.011",
+    "villageCode": "011",
+    "districtCode": "35.26.020",
+    "name": "Sendang Laok",
+    "alias": "Sendang Laok"
+  },
+  {
+    "code": "35.26.020.012",
+    "villageCode": "012",
+    "districtCode": "35.26.020",
+    "name": "Sendang Dajah",
+    "alias": "Sendang Dajah"
+  },
+  {
+    "code": "35.26.020.013",
+    "villageCode": "013",
+    "districtCode": "35.26.020",
+    "name": "Petapan",
+    "alias": "Petapan"
+  }
+]

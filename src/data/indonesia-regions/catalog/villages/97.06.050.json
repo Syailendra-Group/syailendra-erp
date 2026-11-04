@@ -1,0 +1,261 @@
+[
+  {
+    "code": "97.06.050.001",
+    "villageCode": "001",
+    "districtCode": "97.06.050",
+    "name": "Gilika",
+    "alias": "Gilika"
+  },
+  {
+    "code": "97.06.050.002",
+    "villageCode": "002",
+    "districtCode": "97.06.050",
+    "name": "Trikora",
+    "alias": "Trikora"
+  },
+  {
+    "code": "97.06.050.003",
+    "villageCode": "003",
+    "districtCode": "97.06.050",
+    "name": "Ampera",
+    "alias": "Ampera"
+  },
+  {
+    "code": "97.06.050.004",
+    "villageCode": "004",
+    "districtCode": "97.06.050",
+    "name": "Pepera",
+    "alias": "Pepera"
+  },
+  {
+    "code": "97.06.050.005",
+    "villageCode": "005",
+    "districtCode": "97.06.050",
+    "name": "Lulum",
+    "alias": "Lulum"
+  },
+  {
+    "code": "97.06.050.006",
+    "villageCode": "006",
+    "districtCode": "97.06.050",
+    "name": "Pensale",
+    "alias": "Pensale"
+  },
+  {
+    "code": "97.06.050.007",
+    "villageCode": "007",
+    "districtCode": "97.06.050",
+    "name": "Iyap",
+    "alias": "Iyap"
+  },
+  {
+    "code": "97.06.050.008",
+    "villageCode": "008",
+    "districtCode": "97.06.050",
+    "name": "Wibi",
+    "alias": "Wibi"
+  },
+  {
+    "code": "97.06.050.009",
+    "villageCode": "009",
+    "districtCode": "97.06.050",
+    "name": "Konobun",
+    "alias": "Konobun"
+  },
+  {
+    "code": "97.06.050.010",
+    "villageCode": "010",
+    "districtCode": "97.06.050",
+    "name": "Wirsa",
+    "alias": "Wirsa"
+  },
+  {
+    "code": "97.06.050.011",
+    "villageCode": "011",
+    "districtCode": "97.06.050",
+    "name": "Karamina",
+    "alias": "Karamina"
+  },
+  {
+    "code": "97.06.050.012",
+    "villageCode": "012",
+    "districtCode": "97.06.050",
+    "name": "Dukunaksi",
+    "alias": "Dukunaksi"
+  },
+  {
+    "code": "97.06.050.013",
+    "villageCode": "013",
+    "districtCode": "97.06.050",
+    "name": "Thamaksi",
+    "alias": "Thamaksi"
+  },
+  {
+    "code": "97.06.050.014",
+    "villageCode": "014",
+    "districtCode": "97.06.050",
+    "name": "Ikon",
+    "alias": "Ikon"
+  },
+  {
+    "code": "97.06.050.015",
+    "villageCode": "015",
+    "districtCode": "97.06.050",
+    "name": "Key",
+    "alias": "Key"
+  },
+  {
+    "code": "97.06.050.016",
+    "villageCode": "016",
+    "districtCode": "97.06.050",
+    "name": "Lawe",
+    "alias": "Lawe"
+  },
+  {
+    "code": "97.06.050.017",
+    "villageCode": "017",
+    "districtCode": "97.06.050",
+    "name": "Kukdomol",
+    "alias": "Kukdomol"
+  },
+  {
+    "code": "97.06.050.018",
+    "villageCode": "018",
+    "districtCode": "97.06.050",
+    "name": "Weni / Nuorok",
+    "alias": "Weni / Nuorok"
+  },
+  {
+    "code": "97.06.050.019",
+    "villageCode": "019",
+    "districtCode": "97.06.050",
+    "name": "Mulia / Neigase",
+    "alias": "Mulia / Neigase"
+  },
+  {
+    "code": "97.06.050.020",
+    "villageCode": "020",
+    "districtCode": "97.06.050",
+    "name": "Naira",
+    "alias": "Naira"
+  },
+  {
+    "code": "97.06.050.021",
+    "villageCode": "021",
+    "districtCode": "97.06.050",
+    "name": "Siwa",
+    "alias": "Siwa"
+  },
+  {
+    "code": "97.06.050.022",
+    "villageCode": "022",
+    "districtCode": "97.06.050",
+    "name": "Tiwayi",
+    "alias": "Tiwayi"
+  },
+  {
+    "code": "97.06.050.023",
+    "villageCode": "023",
+    "districtCode": "97.06.050",
+    "name": "Kutakuruk",
+    "alias": "Kutakuruk"
+  },
+  {
+    "code": "97.06.050.024",
+    "villageCode": "024",
+    "districtCode": "97.06.050",
+    "name": "Narau",
+    "alias": "Narau"
+  },
+  {
+    "code": "97.06.050.025",
+    "villageCode": "025",
+    "districtCode": "97.06.050",
+    "name": "Wermas",
+    "alias": "Wermas"
+  },
+  {
+    "code": "97.06.050.026",
+    "villageCode": "026",
+    "districtCode": "97.06.050",
+    "name": "Martaru",
+    "alias": "Martaru"
+  },
+  {
+    "code": "97.06.050.027",
+    "villageCode": "027",
+    "districtCode": "97.06.050",
+    "name": "Himi",
+    "alias": "Himi"
+  },
+  {
+    "code": "97.06.050.028",
+    "villageCode": "028",
+    "districtCode": "97.06.050",
+    "name": "Nungkere",
+    "alias": "Nungkere"
+  },
+  {
+    "code": "97.06.050.029",
+    "villageCode": "029",
+    "districtCode": "97.06.050",
+    "name": "Puruku",
+    "alias": "Puruku"
+  },
+  {
+    "code": "97.06.050.030",
+    "villageCode": "030",
+    "districtCode": "97.06.050",
+    "name": "Paluke",
+    "alias": "Paluke"
+  },
+  {
+    "code": "97.06.050.031",
+    "villageCode": "031",
+    "districtCode": "97.06.050",
+    "name": "Kamika",
+    "alias": "Kamika"
+  },
+  {
+    "code": "97.06.050.032",
+    "villageCode": "032",
+    "districtCode": "97.06.050",
+    "name": "Welap / Uramburu",
+    "alias": "Welap / Uramburu"
+  },
+  {
+    "code": "97.06.050.033",
+    "villageCode": "033",
+    "districtCode": "97.06.050",
+    "name": "Kapawa",
+    "alias": "Kapawa"
+  },
+  {
+    "code": "97.06.050.034",
+    "villageCode": "034",
+    "districtCode": "97.06.050",
+    "name": "Niyawi",
+    "alias": "Niyawi"
+  },
+  {
+    "code": "97.06.050.035",
+    "villageCode": "035",
+    "districtCode": "97.06.050",
+    "name": "Yakwa",
+    "alias": "Yakwa"
+  },
+  {
+    "code": "97.06.050.036",
+    "villageCode": "036",
+    "districtCode": "97.06.050",
+    "name": "Niho",
+    "alias": "Niho"
+  },
+  {
+    "code": "97.06.050.037",
+    "villageCode": "037",
+    "districtCode": "97.06.050",
+    "name": "Makrip",
+    "alias": "Makrip"
+  }
+]

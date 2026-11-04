@@ -1,0 +1,51 @@
+[
+  {
+    "code": "74.08.012.001",
+    "villageCode": "001",
+    "districtCode": "74.08.012",
+    "name": "Walasiho",
+    "alias": "Walasiho"
+  },
+  {
+    "code": "74.08.012.002",
+    "villageCode": "002",
+    "districtCode": "74.08.012",
+    "name": "Wawo",
+    "alias": "Wawo"
+  },
+  {
+    "code": "74.08.012.003",
+    "villageCode": "003",
+    "districtCode": "74.08.012",
+    "name": "Puumbolo",
+    "alias": "Puumbolo"
+  },
+  {
+    "code": "74.08.012.004",
+    "villageCode": "004",
+    "districtCode": "74.08.012",
+    "name": "Tinukari",
+    "alias": "Tinukari"
+  },
+  {
+    "code": "74.08.012.005",
+    "villageCode": "005",
+    "districtCode": "74.08.012",
+    "name": "Salurengko",
+    "alias": "Salurengko"
+  },
+  {
+    "code": "74.08.012.006",
+    "villageCode": "006",
+    "districtCode": "74.08.012",
+    "name": "Uluwawo",
+    "alias": "Uluwawo"
+  },
+  {
+    "code": "74.08.012.007",
+    "villageCode": "007",
+    "districtCode": "74.08.012",
+    "name": "Latawe",
+    "alias": "Latawe"
+  }
+]

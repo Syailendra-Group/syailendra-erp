@@ -1,0 +1,58 @@
+[
+  {
+    "code": "32.16.082.001",
+    "villageCode": "001",
+    "districtCode": "32.16.082",
+    "name": "Karangsatria",
+    "alias": "Karangsatria"
+  },
+  {
+    "code": "32.16.082.002",
+    "villageCode": "002",
+    "districtCode": "32.16.082",
+    "name": "Satriajaya",
+    "alias": "Satriajaya"
+  },
+  {
+    "code": "32.16.082.003",
+    "villageCode": "003",
+    "districtCode": "32.16.082",
+    "name": "Jejalenjaya",
+    "alias": "Jejalenjaya"
+  },
+  {
+    "code": "32.16.082.004",
+    "villageCode": "004",
+    "districtCode": "32.16.082",
+    "name": "Satriamekar",
+    "alias": "Satriamekar"
+  },
+  {
+    "code": "32.16.082.005",
+    "villageCode": "005",
+    "districtCode": "32.16.082",
+    "name": "Sriamur",
+    "alias": "Sriamur"
+  },
+  {
+    "code": "32.16.082.006",
+    "villageCode": "006",
+    "districtCode": "32.16.082",
+    "name": "Srimukti",
+    "alias": "Srimukti"
+  },
+  {
+    "code": "32.16.082.007",
+    "villageCode": "007",
+    "districtCode": "32.16.082",
+    "name": "Srijaya",
+    "alias": "Srijaya"
+  },
+  {
+    "code": "32.16.082.008",
+    "villageCode": "008",
+    "districtCode": "32.16.082",
+    "name": "Srimahi",
+    "alias": "Srimahi"
+  }
+]

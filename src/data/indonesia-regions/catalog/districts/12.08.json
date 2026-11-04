@@ -1,0 +1,202 @@
+[
+  {
+    "code": "12.08.010",
+    "districtCode": "010",
+    "regencyCode": "12.08",
+    "provinceCode": "12",
+    "name": "Kecamatan Bandar Pasir Mandoge",
+    "alias": "Bandar Pasir Mandoge"
+  },
+  {
+    "code": "12.08.020",
+    "districtCode": "020",
+    "regencyCode": "12.08",
+    "provinceCode": "12",
+    "name": "Kecamatan Bandar Pulau",
+    "alias": "Bandar Pulau"
+  },
+  {
+    "code": "12.08.021",
+    "districtCode": "021",
+    "regencyCode": "12.08",
+    "provinceCode": "12",
+    "name": "Kecamatan Aek Songsongan",
+    "alias": "Aek Songsongan"
+  },
+  {
+    "code": "12.08.022",
+    "districtCode": "022",
+    "regencyCode": "12.08",
+    "provinceCode": "12",
+    "name": "Kecamatan Rahuning",
+    "alias": "Rahuning"
+  },
+  {
+    "code": "12.08.030",
+    "districtCode": "030",
+    "regencyCode": "12.08",
+    "provinceCode": "12",
+    "name": "Kecamatan Pulau Rakyat",
+    "alias": "Pulau Rakyat"
+  },
+  {
+    "code": "12.08.031",
+    "districtCode": "031",
+    "regencyCode": "12.08",
+    "provinceCode": "12",
+    "name": "Kecamatan Aek Kuasan",
+    "alias": "Aek Kuasan"
+  },
+  {
+    "code": "12.08.032",
+    "districtCode": "032",
+    "regencyCode": "12.08",
+    "provinceCode": "12",
+    "name": "Kecamatan Aek Ledong",
+    "alias": "Aek Ledong"
+  },
+  {
+    "code": "12.08.040",
+    "districtCode": "040",
+    "regencyCode": "12.08",
+    "provinceCode": "12",
+    "name": "Kecamatan Sei Kepayang",
+    "alias": "Sei Kepayang"
+  },
+  {
+    "code": "12.08.041",
+    "districtCode": "041",
+    "regencyCode": "12.08",
+    "provinceCode": "12",
+    "name": "Kecamatan Sei Kepayang Barat",
+    "alias": "Sei Kepayang Barat"
+  },
+  {
+    "code": "12.08.042",
+    "districtCode": "042",
+    "regencyCode": "12.08",
+    "provinceCode": "12",
+    "name": "Kecamatan Sei Kepayang Timur",
+    "alias": "Sei Kepayang Timur"
+  },
+  {
+    "code": "12.08.050",
+    "districtCode": "050",
+    "regencyCode": "12.08",
+    "provinceCode": "12",
+    "name": "Kecamatan Tanjung Balai",
+    "alias": "Tanjung Balai"
+  },
+  {
+    "code": "12.08.060",
+    "districtCode": "060",
+    "regencyCode": "12.08",
+    "provinceCode": "12",
+    "name": "Kecamatan Simpang Empat",
+    "alias": "Simpang Empat"
+  },
+  {
+    "code": "12.08.061",
+    "districtCode": "061",
+    "regencyCode": "12.08",
+    "provinceCode": "12",
+    "name": "Kecamatan Teluk Dalam",
+    "alias": "Teluk Dalam"
+  },
+  {
+    "code": "12.08.070",
+    "districtCode": "070",
+    "regencyCode": "12.08",
+    "provinceCode": "12",
+    "name": "Kecamatan Air Batu",
+    "alias": "Air Batu"
+  },
+  {
+    "code": "12.08.071",
+    "districtCode": "071",
+    "regencyCode": "12.08",
+    "provinceCode": "12",
+    "name": "Kecamatan Sei Dadap",
+    "alias": "Sei Dadap"
+  },
+  {
+    "code": "12.08.080",
+    "districtCode": "080",
+    "regencyCode": "12.08",
+    "provinceCode": "12",
+    "name": "Kecamatan Buntu Pane",
+    "alias": "Buntu Pane"
+  },
+  {
+    "code": "12.08.081",
+    "districtCode": "081",
+    "regencyCode": "12.08",
+    "provinceCode": "12",
+    "name": "Kecamatan Tinggi Raja",
+    "alias": "Tinggi Raja"
+  },
+  {
+    "code": "12.08.082",
+    "districtCode": "082",
+    "regencyCode": "12.08",
+    "provinceCode": "12",
+    "name": "Kecamatan Setia Janji",
+    "alias": "Setia Janji"
+  },
+  {
+    "code": "12.08.090",
+    "districtCode": "090",
+    "regencyCode": "12.08",
+    "provinceCode": "12",
+    "name": "Kecamatan Meranti",
+    "alias": "Meranti"
+  },
+  {
+    "code": "12.08.091",
+    "districtCode": "091",
+    "regencyCode": "12.08",
+    "provinceCode": "12",
+    "name": "Kecamatan Pulo Bandring",
+    "alias": "Pulo Bandring"
+  },
+  {
+    "code": "12.08.092",
+    "districtCode": "092",
+    "regencyCode": "12.08",
+    "provinceCode": "12",
+    "name": "Kecamatan Rawang Panca Arga",
+    "alias": "Rawang Panca Arga"
+  },
+  {
+    "code": "12.08.100",
+    "districtCode": "100",
+    "regencyCode": "12.08",
+    "provinceCode": "12",
+    "name": "Kecamatan Air Joman",
+    "alias": "Air Joman"
+  },
+  {
+    "code": "12.08.101",
+    "districtCode": "101",
+    "regencyCode": "12.08",
+    "provinceCode": "12",
+    "name": "Kecamatan Silau Laut",
+    "alias": "Silau Laut"
+  },
+  {
+    "code": "12.08.160",
+    "districtCode": "160",
+    "regencyCode": "12.08",
+    "provinceCode": "12",
+    "name": "Kecamatan Kisaran Barat",
+    "alias": "Kisaran Barat"
+  },
+  {
+    "code": "12.08.170",
+    "districtCode": "170",
+    "regencyCode": "12.08",
+    "provinceCode": "12",
+    "name": "Kecamatan Kisaran Timur",
+    "alias": "Kisaran Timur"
+  }
+]

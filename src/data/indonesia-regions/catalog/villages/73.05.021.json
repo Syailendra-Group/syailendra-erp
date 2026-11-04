@@ -1,0 +1,44 @@
+[
+  {
+    "code": "73.05.021.001",
+    "villageCode": "001",
+    "districtCode": "73.05.021",
+    "name": "Laguruda",
+    "alias": "Laguruda"
+  },
+  {
+    "code": "73.05.021.002",
+    "villageCode": "002",
+    "districtCode": "73.05.021",
+    "name": "Sanrobone",
+    "alias": "Sanrobone"
+  },
+  {
+    "code": "73.05.021.003",
+    "villageCode": "003",
+    "districtCode": "73.05.021",
+    "name": "Banyuanyara",
+    "alias": "Banyuanyara"
+  },
+  {
+    "code": "73.05.021.004",
+    "villageCode": "004",
+    "districtCode": "73.05.021",
+    "name": "Paddinging",
+    "alias": "Paddinging"
+  },
+  {
+    "code": "73.05.021.005",
+    "villageCode": "005",
+    "districtCode": "73.05.021",
+    "name": "Ujung Baji",
+    "alias": "Ujung Baji"
+  },
+  {
+    "code": "73.05.021.006",
+    "villageCode": "006",
+    "districtCode": "73.05.021",
+    "name": "Tonasa",
+    "alias": "Tonasa"
+  }
+]

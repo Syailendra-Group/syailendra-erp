@@ -1,0 +1,37 @@
+[
+  {
+    "code": "65.71.020.001",
+    "villageCode": "001",
+    "districtCode": "65.71.020",
+    "name": "Selumit Pantai",
+    "alias": "Selumit Pantai"
+  },
+  {
+    "code": "65.71.020.002",
+    "villageCode": "002",
+    "districtCode": "65.71.020",
+    "name": "Selumit",
+    "alias": "Selumit"
+  },
+  {
+    "code": "65.71.020.003",
+    "villageCode": "003",
+    "districtCode": "65.71.020",
+    "name": "Sebengkok",
+    "alias": "Sebengkok"
+  },
+  {
+    "code": "65.71.020.004",
+    "villageCode": "004",
+    "districtCode": "65.71.020",
+    "name": "Pamusian",
+    "alias": "Pamusian"
+  },
+  {
+    "code": "65.71.020.005",
+    "villageCode": "005",
+    "districtCode": "65.71.020",
+    "name": "Kampung Satu Skip",
+    "alias": "Kampung Satu Skip"
+  }
+]

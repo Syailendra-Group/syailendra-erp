@@ -1,0 +1,72 @@
+[
+  {
+    "code": "35.12.160.001",
+    "villageCode": "001",
+    "districtCode": "35.12.160",
+    "name": "Mojosari",
+    "alias": "Mojosari"
+  },
+  {
+    "code": "35.12.160.002",
+    "villageCode": "002",
+    "districtCode": "35.12.160",
+    "name": "Kertosari",
+    "alias": "Kertosari"
+  },
+  {
+    "code": "35.12.160.003",
+    "villageCode": "003",
+    "districtCode": "35.12.160",
+    "name": "Kedonglo",
+    "alias": "Kedonglo"
+  },
+  {
+    "code": "35.12.160.004",
+    "villageCode": "004",
+    "districtCode": "35.12.160",
+    "name": "Bantal",
+    "alias": "Bantal"
+  },
+  {
+    "code": "35.12.160.005",
+    "villageCode": "005",
+    "districtCode": "35.12.160",
+    "name": "Awar-Awar",
+    "alias": "Awar-Awar"
+  },
+  {
+    "code": "35.12.160.006",
+    "villageCode": "006",
+    "districtCode": "35.12.160",
+    "name": "Perante",
+    "alias": "Perante"
+  },
+  {
+    "code": "35.12.160.007",
+    "villageCode": "007",
+    "districtCode": "35.12.160",
+    "name": "Trigonco",
+    "alias": "Trigonco"
+  },
+  {
+    "code": "35.12.160.008",
+    "villageCode": "008",
+    "districtCode": "35.12.160",
+    "name": "Asembagus",
+    "alias": "Asembagus"
+  },
+  {
+    "code": "35.12.160.009",
+    "villageCode": "009",
+    "districtCode": "35.12.160",
+    "name": "Gudang",
+    "alias": "Gudang"
+  },
+  {
+    "code": "35.12.160.010",
+    "villageCode": "010",
+    "districtCode": "35.12.160",
+    "name": "Wringin Anom",
+    "alias": "Wringin Anom"
+  }
+]

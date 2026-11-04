@@ -1,0 +1,51 @@
+[
+  {
+    "code": "33.75.020.007",
+    "villageCode": "007",
+    "districtCode": "33.75.020",
+    "name": "Kauman",
+    "alias": "Kauman"
+  },
+  {
+    "code": "33.75.020.010",
+    "villageCode": "010",
+    "districtCode": "33.75.020",
+    "name": "Poncol",
+    "alias": "Poncol"
+  },
+  {
+    "code": "33.75.020.011",
+    "villageCode": "011",
+    "districtCode": "33.75.020",
+    "name": "Klego",
+    "alias": "Klego"
+  },
+  {
+    "code": "33.75.020.013",
+    "villageCode": "013",
+    "districtCode": "33.75.020",
+    "name": "Gamer",
+    "alias": "Gamer"
+  },
+  {
+    "code": "33.75.020.014",
+    "villageCode": "014",
+    "districtCode": "33.75.020",
+    "name": "Noyontaansari",
+    "alias": "Noyontaansari"
+  },
+  {
+    "code": "33.75.020.015",
+    "villageCode": "015",
+    "districtCode": "33.75.020",
+    "name": "Setono",
+    "alias": "Setono"
+  },
+  {
+    "code": "33.75.020.016",
+    "villageCode": "016",
+    "districtCode": "33.75.020",
+    "name": "Kali Baros",
+    "alias": "Kali Baros"
+  }
+]

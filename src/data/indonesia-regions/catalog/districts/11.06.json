@@ -1,0 +1,114 @@
+[
+  {
+    "code": "11.06.010",
+    "districtCode": "010",
+    "regencyCode": "11.06",
+    "provinceCode": "11",
+    "name": "Kecamatan Linge",
+    "alias": "Linge"
+  },
+  {
+    "code": "11.06.011",
+    "districtCode": "011",
+    "regencyCode": "11.06",
+    "provinceCode": "11",
+    "name": "Kecamatan Atu Lintang",
+    "alias": "Atu Lintang"
+  },
+  {
+    "code": "11.06.012",
+    "districtCode": "012",
+    "regencyCode": "11.06",
+    "provinceCode": "11",
+    "name": "Kecamatan Jagong Jeget",
+    "alias": "Jagong Jeget"
+  },
+  {
+    "code": "11.06.020",
+    "districtCode": "020",
+    "regencyCode": "11.06",
+    "provinceCode": "11",
+    "name": "Kecamatan Bintang",
+    "alias": "Bintang"
+  },
+  {
+    "code": "11.06.031",
+    "districtCode": "031",
+    "regencyCode": "11.06",
+    "provinceCode": "11",
+    "name": "Kecamatan Lut Tawar",
+    "alias": "Lut Tawar"
+  },
+  {
+    "code": "11.06.032",
+    "districtCode": "032",
+    "regencyCode": "11.06",
+    "provinceCode": "11",
+    "name": "Kecamatan Kebayakan",
+    "alias": "Kebayakan"
+  },
+  {
+    "code": "11.06.040",
+    "districtCode": "040",
+    "regencyCode": "11.06",
+    "provinceCode": "11",
+    "name": "Kecamatan Pegasing",
+    "alias": "Pegasing"
+  },
+  {
+    "code": "11.06.041",
+    "districtCode": "041",
+    "regencyCode": "11.06",
+    "provinceCode": "11",
+    "name": "Kecamatan Bies",
+    "alias": "Bies"
+  },
+  {
+    "code": "11.06.050",
+    "districtCode": "050",
+    "regencyCode": "11.06",
+    "provinceCode": "11",
+    "name": "Kecamatan Bebesen",
+    "alias": "Bebesen"
+  },
+  {
+    "code": "11.06.051",
+    "districtCode": "051",
+    "regencyCode": "11.06",
+    "provinceCode": "11",
+    "name": "Kecamatan Kute Panang",
+    "alias": "Kute Panang"
+  },
+  {
+    "code": "11.06.060",
+    "districtCode": "060",
+    "regencyCode": "11.06",
+    "provinceCode": "11",
+    "name": "Kecamatan Silih Nara",
+    "alias": "Silih Nara"
+  },
+  {
+    "code": "11.06.061",
+    "districtCode": "061",
+    "regencyCode": "11.06",
+    "provinceCode": "11",
+    "name": "Kecamatan Ketol",
+    "alias": "Ketol"
+  },
+  {
+    "code": "11.06.062",
+    "districtCode": "062",
+    "regencyCode": "11.06",
+    "provinceCode": "11",
+    "name": "Kecamatan Celala",
+    "alias": "Celala"
+  },
+  {
+    "code": "11.06.063",
+    "districtCode": "063",
+    "regencyCode": "11.06",
+    "provinceCode": "11",
+    "name": "Kecamatan Rusip Antara",
+    "alias": "Rusip Antara"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "code": "18.02.042.001",
+    "villageCode": "001",
+    "districtCode": "18.02.042",
+    "name": "Gisting Atas",
+    "alias": "Gisting Atas"
+  },
+  {
+    "code": "18.02.042.002",
+    "villageCode": "002",
+    "districtCode": "18.02.042",
+    "name": "Gisting Bawah",
+    "alias": "Gisting Bawah"
+  },
+  {
+    "code": "18.02.042.003",
+    "villageCode": "003",
+    "districtCode": "18.02.042",
+    "name": "Purwodadi",
+    "alias": "Purwodadi"
+  },
+  {
+    "code": "18.02.042.004",
+    "villageCode": "004",
+    "districtCode": "18.02.042",
+    "name": "Kuta Dalom",
+    "alias": "Kuta Dalom"
+  },
+  {
+    "code": "18.02.042.005",
+    "villageCode": "005",
+    "districtCode": "18.02.042",
+    "name": "Banjarmanis",
+    "alias": "Banjarmanis"
+  },
+  {
+    "code": "18.02.042.006",
+    "villageCode": "006",
+    "districtCode": "18.02.042",
+    "name": "Campang",
+    "alias": "Campang"
+  },
+  {
+    "code": "18.02.042.007",
+    "villageCode": "007",
+    "districtCode": "18.02.042",
+    "name": "Sidokaton",
+    "alias": "Sidokaton"
+  },
+  {
+    "code": "18.02.042.008",
+    "villageCode": "008",
+    "districtCode": "18.02.042",
+    "name": "Lanbauw",
+    "alias": "Lanbauw"
+  },
+  {
+    "code": "18.02.042.009",
+    "villageCode": "009",
+    "districtCode": "18.02.042",
+    "name": "Gisting Permai",
+    "alias": "Gisting Permai"
+  }
+]

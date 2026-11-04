@@ -1,0 +1,30 @@
+[
+  {
+    "code": "92.01.100.001",
+    "villageCode": "001",
+    "districtCode": "92.01.100",
+    "name": "Wailebet",
+    "alias": "Wailebet"
+  },
+  {
+    "code": "92.01.100.002",
+    "villageCode": "002",
+    "districtCode": "92.01.100",
+    "name": "Waiman",
+    "alias": "Waiman"
+  },
+  {
+    "code": "92.01.100.003",
+    "villageCode": "003",
+    "districtCode": "92.01.100",
+    "name": "Yenanas",
+    "alias": "Yenanas"
+  },
+  {
+    "code": "92.01.100.004",
+    "villageCode": "004",
+    "districtCode": "92.01.100",
+    "name": "Amdui",
+    "alias": "Amdui"
+  }
+]

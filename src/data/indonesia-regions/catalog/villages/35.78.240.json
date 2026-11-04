@@ -1,0 +1,30 @@
+[
+  {
+    "code": "35.78.240.001",
+    "villageCode": "001",
+    "districtCode": "35.78.240",
+    "name": "Bongkaran",
+    "alias": "Bongkaran"
+  },
+  {
+    "code": "35.78.240.002",
+    "villageCode": "002",
+    "districtCode": "35.78.240",
+    "name": "Nyamplungan",
+    "alias": "Nyamplungan"
+  },
+  {
+    "code": "35.78.240.003",
+    "villageCode": "003",
+    "districtCode": "35.78.240",
+    "name": "Krembangan Utara",
+    "alias": "Krembangan Utara"
+  },
+  {
+    "code": "35.78.240.006",
+    "villageCode": "006",
+    "districtCode": "35.78.240",
+    "name": "Tanjung Perak",
+    "alias": "Tanjung Perak"
+  }
+]

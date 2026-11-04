@@ -1,0 +1,65 @@
+[
+  {
+    "code": "53.11.011.001",
+    "villageCode": "001",
+    "districtCode": "53.11.011",
+    "name": "Ndoriwoy",
+    "alias": "Ndoriwoy"
+  },
+  {
+    "code": "53.11.011.002",
+    "villageCode": "002",
+    "districtCode": "53.11.011",
+    "name": "Rendoraterua",
+    "alias": "Rendoraterua"
+  },
+  {
+    "code": "53.11.011.003",
+    "villageCode": "003",
+    "districtCode": "53.11.011",
+    "name": "Paderape",
+    "alias": "Paderape"
+  },
+  {
+    "code": "53.11.011.004",
+    "villageCode": "004",
+    "districtCode": "53.11.011",
+    "name": "Aejeti",
+    "alias": "Aejeti"
+  },
+  {
+    "code": "53.11.011.005",
+    "villageCode": "005",
+    "districtCode": "53.11.011",
+    "name": "Puutara",
+    "alias": "Puutara"
+  },
+  {
+    "code": "53.11.011.006",
+    "villageCode": "006",
+    "districtCode": "53.11.011",
+    "name": "Rorurangga",
+    "alias": "Rorurangga"
+  },
+  {
+    "code": "53.11.011.007",
+    "villageCode": "007",
+    "districtCode": "53.11.011",
+    "name": "Redorori",
+    "alias": "Redorori"
+  },
+  {
+    "code": "53.11.011.008",
+    "villageCode": "008",
+    "districtCode": "53.11.011",
+    "name": "Kazo Kapo",
+    "alias": "Kazo Kapo"
+  },
+  {
+    "code": "53.11.011.009",
+    "villageCode": "009",
+    "districtCode": "53.11.011",
+    "name": "Renga Menge",
+    "alias": "Renga Menge"
+  }
+]

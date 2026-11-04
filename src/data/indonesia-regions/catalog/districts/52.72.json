@@ -1,0 +1,42 @@
+[
+  {
+    "code": "52.72.010",
+    "districtCode": "010",
+    "regencyCode": "52.72",
+    "provinceCode": "52",
+    "name": "Kecamatan Rasanae Barat",
+    "alias": "Rasanae Barat"
+  },
+  {
+    "code": "52.72.011",
+    "districtCode": "011",
+    "regencyCode": "52.72",
+    "provinceCode": "52",
+    "name": "Kecamatan Mpunda",
+    "alias": "Mpunda"
+  },
+  {
+    "code": "52.72.020",
+    "districtCode": "020",
+    "regencyCode": "52.72",
+    "provinceCode": "52",
+    "name": "Kecamatan Rasanae Timur",
+    "alias": "Rasanae Timur"
+  },
+  {
+    "code": "52.72.021",
+    "districtCode": "021",
+    "regencyCode": "52.72",
+    "provinceCode": "52",
+    "name": "Kecamatan Raba",
+    "alias": "Raba"
+  },
+  {
+    "code": "52.72.030",
+    "districtCode": "030",
+    "regencyCode": "52.72",
+    "provinceCode": "52",
+    "name": "Kecamatan Asakota",
+    "alias": "Asakota"
+  }
+]

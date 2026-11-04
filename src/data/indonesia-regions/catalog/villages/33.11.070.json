@@ -1,0 +1,121 @@
+[
+  {
+    "code": "33.11.070.001",
+    "villageCode": "001",
+    "districtCode": "33.11.070",
+    "name": "Pranan",
+    "alias": "Pranan"
+  },
+  {
+    "code": "33.11.070.002",
+    "villageCode": "002",
+    "districtCode": "33.11.070",
+    "name": "Bugel",
+    "alias": "Bugel"
+  },
+  {
+    "code": "33.11.070.003",
+    "villageCode": "003",
+    "districtCode": "33.11.070",
+    "name": "Karangwuni",
+    "alias": "Karangwuni"
+  },
+  {
+    "code": "33.11.070.004",
+    "villageCode": "004",
+    "districtCode": "33.11.070",
+    "name": "Ngombakan",
+    "alias": "Ngombakan"
+  },
+  {
+    "code": "33.11.070.005",
+    "villageCode": "005",
+    "districtCode": "33.11.070",
+    "name": "Bakalan",
+    "alias": "Bakalan"
+  },
+  {
+    "code": "33.11.070.006",
+    "villageCode": "006",
+    "districtCode": "33.11.070",
+    "name": "Godog",
+    "alias": "Godog"
+  },
+  {
+    "code": "33.11.070.007",
+    "villageCode": "007",
+    "districtCode": "33.11.070",
+    "name": "Kemasan",
+    "alias": "Kemasan"
+  },
+  {
+    "code": "33.11.070.008",
+    "villageCode": "008",
+    "districtCode": "33.11.070",
+    "name": "Kenokorejo",
+    "alias": "Kenokorejo"
+  },
+  {
+    "code": "33.11.070.009",
+    "villageCode": "009",
+    "districtCode": "33.11.070",
+    "name": "Tepisari",
+    "alias": "Tepisari"
+  },
+  {
+    "code": "33.11.070.010",
+    "villageCode": "010",
+    "districtCode": "33.11.070",
+    "name": "Bulu",
+    "alias": "Bulu"
+  },
+  {
+    "code": "33.11.070.011",
+    "villageCode": "011",
+    "districtCode": "33.11.070",
+    "name": "Rejosari",
+    "alias": "Rejosari"
+  },
+  {
+    "code": "33.11.070.012",
+    "villageCode": "012",
+    "districtCode": "33.11.070",
+    "name": "Polokarto",
+    "alias": "Polokarto"
+  },
+  {
+    "code": "33.11.070.013",
+    "villageCode": "013",
+    "districtCode": "33.11.070",
+    "name": "Mranggen",
+    "alias": "Mranggen"
+  },
+  {
+    "code": "33.11.070.014",
+    "villageCode": "014",
+    "districtCode": "33.11.070",
+    "name": "Wonorejo",
+    "alias": "Wonorejo"
+  },
+  {
+    "code": "33.11.070.015",
+    "villageCode": "015",
+    "districtCode": "33.11.070",
+    "name": "Jatisobo",
+    "alias": "Jatisobo"
+  },
+  {
+    "code": "33.11.070.016",
+    "villageCode": "016",
+    "districtCode": "33.11.070",
+    "name": "Kayuapak",
+    "alias": "Kayuapak"
+  },
+  {
+    "code": "33.11.070.017",
+    "villageCode": "017",
+    "districtCode": "33.11.070",
+    "name": "Genengsari",
+    "alias": "Genengsari"
+  }
+]

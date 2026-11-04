@@ -1,0 +1,58 @@
+[
+  {
+    "code": "32.05.070.001",
+    "villageCode": "001",
+    "districtCode": "32.05.070",
+    "name": "Mancagahar",
+    "alias": "Mancagahar"
+  },
+  {
+    "code": "32.05.070.002",
+    "villageCode": "002",
+    "districtCode": "32.05.070",
+    "name": "Pameungpeuk",
+    "alias": "Pameungpeuk"
+  },
+  {
+    "code": "32.05.070.003",
+    "villageCode": "003",
+    "districtCode": "32.05.070",
+    "name": "Mandalakasih",
+    "alias": "Mandalakasih"
+  },
+  {
+    "code": "32.05.070.004",
+    "villageCode": "004",
+    "districtCode": "32.05.070",
+    "name": "Sirnabakti",
+    "alias": "Sirnabakti"
+  },
+  {
+    "code": "32.05.070.005",
+    "villageCode": "005",
+    "districtCode": "32.05.070",
+    "name": "Paas",
+    "alias": "Paas"
+  },
+  {
+    "code": "32.05.070.006",
+    "villageCode": "006",
+    "districtCode": "32.05.070",
+    "name": "Bojong",
+    "alias": "Bojong"
+  },
+  {
+    "code": "32.05.070.007",
+    "villageCode": "007",
+    "districtCode": "32.05.070",
+    "name": "Jatimulya",
+    "alias": "Jatimulya"
+  },
+  {
+    "code": "32.05.070.008",
+    "villageCode": "008",
+    "districtCode": "32.05.070",
+    "name": "Bojongkidul",
+    "alias": "Bojongkidul"
+  }
+]

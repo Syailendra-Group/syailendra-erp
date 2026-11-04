@@ -1,0 +1,58 @@
+[
+  {
+    "code": "32.02.211.001",
+    "villageCode": "001",
+    "districtCode": "32.02.211",
+    "name": "Hegarmanah",
+    "alias": "Hegarmanah"
+  },
+  {
+    "code": "32.02.211.002",
+    "villageCode": "002",
+    "districtCode": "32.02.211",
+    "name": "Cicantayan",
+    "alias": "Cicantayan"
+  },
+  {
+    "code": "32.02.211.003",
+    "villageCode": "003",
+    "districtCode": "32.02.211",
+    "name": "Cimahi",
+    "alias": "Cimahi"
+  },
+  {
+    "code": "32.02.211.004",
+    "villageCode": "004",
+    "districtCode": "32.02.211",
+    "name": "Cisande",
+    "alias": "Cisande"
+  },
+  {
+    "code": "32.02.211.005",
+    "villageCode": "005",
+    "districtCode": "32.02.211",
+    "name": "Cijalingan",
+    "alias": "Cijalingan"
+  },
+  {
+    "code": "32.02.211.006",
+    "villageCode": "006",
+    "districtCode": "32.02.211",
+    "name": "Lembursawah",
+    "alias": "Lembursawah"
+  },
+  {
+    "code": "32.02.211.007",
+    "villageCode": "007",
+    "districtCode": "32.02.211",
+    "name": "Sukadamai",
+    "alias": "Sukadamai"
+  },
+  {
+    "code": "32.02.211.008",
+    "villageCode": "008",
+    "districtCode": "32.02.211",
+    "name": "Cimanggis",
+    "alias": "Cimanggis"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "code": "32.16.150.001",
+    "villageCode": "001",
+    "districtCode": "32.16.150",
+    "name": "Pantai Harapanjaya",
+    "alias": "Pantai Harapanjaya"
+  },
+  {
+    "code": "32.16.150.002",
+    "villageCode": "002",
+    "districtCode": "32.16.150",
+    "name": "Pantaimekar",
+    "alias": "Pantaimekar"
+  },
+  {
+    "code": "32.16.150.003",
+    "villageCode": "003",
+    "districtCode": "32.16.150",
+    "name": "Pantai Sederhana",
+    "alias": "Pantai Sederhana"
+  },
+  {
+    "code": "32.16.150.004",
+    "villageCode": "004",
+    "districtCode": "32.16.150",
+    "name": "Pantaibakti",
+    "alias": "Pantaibakti"
+  },
+  {
+    "code": "32.16.150.005",
+    "villageCode": "005",
+    "districtCode": "32.16.150",
+    "name": "Pantaibahagia",
+    "alias": "Pantaibahagia"
+  },
+  {
+    "code": "32.16.150.006",
+    "villageCode": "006",
+    "districtCode": "32.16.150",
+    "name": "Jayasakti",
+    "alias": "Jayasakti"
+  }
+]

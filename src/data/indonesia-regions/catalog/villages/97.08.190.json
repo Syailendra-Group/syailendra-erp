@@ -1,0 +1,51 @@
+[
+  {
+    "code": "97.08.190.001",
+    "villageCode": "001",
+    "districtCode": "97.08.190",
+    "name": "Karye",
+    "alias": "Karye"
+  },
+  {
+    "code": "97.08.190.002",
+    "villageCode": "002",
+    "districtCode": "97.08.190",
+    "name": "Batani",
+    "alias": "Batani"
+  },
+  {
+    "code": "97.08.190.003",
+    "villageCode": "003",
+    "districtCode": "97.08.190",
+    "name": "Segame",
+    "alias": "Segame"
+  },
+  {
+    "code": "97.08.190.004",
+    "villageCode": "004",
+    "districtCode": "97.08.190",
+    "name": "Palur Satu",
+    "alias": "Palur Satu"
+  },
+  {
+    "code": "97.08.190.005",
+    "villageCode": "005",
+    "districtCode": "97.08.190",
+    "name": "Palur Dua",
+    "alias": "Palur Dua"
+  },
+  {
+    "code": "97.08.190.006",
+    "villageCode": "006",
+    "districtCode": "97.08.190",
+    "name": "Sople",
+    "alias": "Sople"
+  },
+  {
+    "code": "97.08.190.007",
+    "villageCode": "007",
+    "districtCode": "97.08.190",
+    "name": "Bakata",
+    "alias": "Bakata"
+  }
+]

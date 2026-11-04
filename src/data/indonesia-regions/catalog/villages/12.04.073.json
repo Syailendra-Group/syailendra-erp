@@ -1,0 +1,44 @@
+[
+  {
+    "code": "12.04.073.001",
+    "villageCode": "001",
+    "districtCode": "12.04.073",
+    "name": "Pananggahan",
+    "alias": "Pananggahan"
+  },
+  {
+    "code": "12.04.073.002",
+    "villageCode": "002",
+    "districtCode": "12.04.073",
+    "name": "Purba Tua",
+    "alias": "Purba Tua"
+  },
+  {
+    "code": "12.04.073.003",
+    "villageCode": "003",
+    "districtCode": "12.04.073",
+    "name": "Hutaginjang",
+    "alias": "Hutaginjang"
+  },
+  {
+    "code": "12.04.073.004",
+    "villageCode": "004",
+    "districtCode": "12.04.073",
+    "name": "Sihorbo",
+    "alias": "Sihorbo"
+  },
+  {
+    "code": "12.04.073.005",
+    "villageCode": "005",
+    "districtCode": "12.04.073",
+    "name": "Parik Sinomba",
+    "alias": "Parik Sinomba"
+  },
+  {
+    "code": "12.04.073.008",
+    "villageCode": "008",
+    "districtCode": "12.04.073",
+    "name": "Siharbangan",
+    "alias": "Siharbangan"
+  }
+]

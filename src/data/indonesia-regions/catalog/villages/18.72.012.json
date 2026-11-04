@@ -1,0 +1,30 @@
+[
+  {
+    "code": "18.72.012.001",
+    "villageCode": "001",
+    "districtCode": "18.72.012",
+    "name": "Mulyojati",
+    "alias": "Mulyojati"
+  },
+  {
+    "code": "18.72.012.002",
+    "villageCode": "002",
+    "districtCode": "18.72.012",
+    "name": "Mulyosari",
+    "alias": "Mulyosari"
+  },
+  {
+    "code": "18.72.012.003",
+    "villageCode": "003",
+    "districtCode": "18.72.012",
+    "name": "Ganjaragung",
+    "alias": "Ganjaragung"
+  },
+  {
+    "code": "18.72.012.004",
+    "villageCode": "004",
+    "districtCode": "18.72.012",
+    "name": "Ganjarasri",
+    "alias": "Ganjarasri"
+  }
+]

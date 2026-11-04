@@ -1,0 +1,79 @@
+[
+  {
+    "code": "62.07.020.001",
+    "villageCode": "001",
+    "districtCode": "62.07.020",
+    "name": "Cuhai",
+    "alias": "Cuhai"
+  },
+  {
+    "code": "62.07.020.002",
+    "villageCode": "002",
+    "districtCode": "62.07.020",
+    "name": "Kawa",
+    "alias": "Kawa"
+  },
+  {
+    "code": "62.07.020.003",
+    "villageCode": "003",
+    "districtCode": "62.07.020",
+    "name": "Panopa",
+    "alias": "Panopa"
+  },
+  {
+    "code": "62.07.020.004",
+    "villageCode": "004",
+    "districtCode": "62.07.020",
+    "name": "Suja",
+    "alias": "Suja"
+  },
+  {
+    "code": "62.07.020.005",
+    "villageCode": "005",
+    "districtCode": "62.07.020",
+    "name": "Sekoban",
+    "alias": "Sekoban"
+  },
+  {
+    "code": "62.07.020.006",
+    "villageCode": "006",
+    "districtCode": "62.07.020",
+    "name": "Bakonsu",
+    "alias": "Bakonsu"
+  },
+  {
+    "code": "62.07.020.010",
+    "villageCode": "010",
+    "districtCode": "62.07.020",
+    "name": "Tapin Bini",
+    "alias": "Tapin Bini"
+  },
+  {
+    "code": "62.07.020.011",
+    "villageCode": "011",
+    "districtCode": "62.07.020",
+    "name": "Karang Taba",
+    "alias": "Karang Taba"
+  },
+  {
+    "code": "62.07.020.012",
+    "villageCode": "012",
+    "districtCode": "62.07.020",
+    "name": "Tanjung Beringin",
+    "alias": "Tanjung Beringin"
+  },
+  {
+    "code": "62.07.020.013",
+    "villageCode": "013",
+    "districtCode": "62.07.020",
+    "name": "Sungai Tuat",
+    "alias": "Sungai Tuat"
+  },
+  {
+    "code": "62.07.020.014",
+    "villageCode": "014",
+    "districtCode": "62.07.020",
+    "name": "Samu Jaya",
+    "alias": "Samu Jaya"
+  }
+]

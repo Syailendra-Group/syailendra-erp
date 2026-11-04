@@ -1,0 +1,72 @@
+[
+  {
+    "code": "63.04.140.001",
+    "villageCode": "001",
+    "districtCode": "63.04.140",
+    "name": "Bagus",
+    "alias": "Bagus"
+  },
+  {
+    "code": "63.04.140.002",
+    "villageCode": "002",
+    "districtCode": "63.04.140",
+    "name": "Baliuk",
+    "alias": "Baliuk"
+  },
+  {
+    "code": "63.04.140.003",
+    "villageCode": "003",
+    "districtCode": "63.04.140",
+    "name": "Penghulu",
+    "alias": "Penghulu"
+  },
+  {
+    "code": "63.04.140.004",
+    "villageCode": "004",
+    "districtCode": "63.04.140",
+    "name": "Marabahan Kota",
+    "alias": "Marabahan Kota"
+  },
+  {
+    "code": "63.04.140.005",
+    "villageCode": "005",
+    "districtCode": "63.04.140",
+    "name": "Ulu Benteng",
+    "alias": "Ulu Benteng"
+  },
+  {
+    "code": "63.04.140.006",
+    "villageCode": "006",
+    "districtCode": "63.04.140",
+    "name": "Antar Baru",
+    "alias": "Antar Baru"
+  },
+  {
+    "code": "63.04.140.007",
+    "villageCode": "007",
+    "districtCode": "63.04.140",
+    "name": "Antar Raya",
+    "alias": "Antar Raya"
+  },
+  {
+    "code": "63.04.140.008",
+    "villageCode": "008",
+    "districtCode": "63.04.140",
+    "name": "Antar Jaya",
+    "alias": "Antar Jaya"
+  },
+  {
+    "code": "63.04.140.009",
+    "villageCode": "009",
+    "districtCode": "63.04.140",
+    "name": "Sido Makmur",
+    "alias": "Sido Makmur"
+  },
+  {
+    "code": "63.04.140.010",
+    "villageCode": "010",
+    "districtCode": "63.04.140",
+    "name": "Karya Maju",
+    "alias": "Karya Maju"
+  }
+]

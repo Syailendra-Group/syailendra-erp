@@ -1,0 +1,44 @@
+[
+  {
+    "code": "15.02.041.001",
+    "villageCode": "001",
+    "districtCode": "15.02.041",
+    "name": "Bedeng Rejo",
+    "alias": "Bedeng Rejo"
+  },
+  {
+    "code": "15.02.041.002",
+    "villageCode": "002",
+    "districtCode": "15.02.041",
+    "name": "Bukit Beringin",
+    "alias": "Bukit Beringin"
+  },
+  {
+    "code": "15.02.041.003",
+    "villageCode": "003",
+    "districtCode": "15.02.041",
+    "name": "Sungai Putih",
+    "alias": "Sungai Putih"
+  },
+  {
+    "code": "15.02.041.004",
+    "villageCode": "004",
+    "districtCode": "15.02.041",
+    "name": "Pulau Rengas",
+    "alias": "Pulau Rengas"
+  },
+  {
+    "code": "15.02.041.005",
+    "villageCode": "005",
+    "districtCode": "15.02.041",
+    "name": "Biuku Tanjung",
+    "alias": "Biuku Tanjung"
+  },
+  {
+    "code": "15.02.041.006",
+    "villageCode": "006",
+    "districtCode": "15.02.041",
+    "name": "Pulau Rengas Ulu",
+    "alias": "Pulau Rengas Ulu"
+  }
+]

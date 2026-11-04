@@ -1,0 +1,72 @@
+[
+  {
+    "code": "74.11.110.001",
+    "villageCode": "001",
+    "districtCode": "74.11.110",
+    "name": "Aukora",
+    "alias": "Aukora"
+  },
+  {
+    "code": "74.11.110.002",
+    "villageCode": "002",
+    "districtCode": "74.11.110",
+    "name": "Uete",
+    "alias": "Uete"
+  },
+  {
+    "code": "74.11.110.003",
+    "villageCode": "003",
+    "districtCode": "74.11.110",
+    "name": "Tondowatu",
+    "alias": "Tondowatu"
+  },
+  {
+    "code": "74.11.110.004",
+    "villageCode": "004",
+    "districtCode": "74.11.110",
+    "name": "Sanggona",
+    "alias": "Sanggona"
+  },
+  {
+    "code": "74.11.110.005",
+    "villageCode": "005",
+    "districtCode": "74.11.110",
+    "name": "Lalombai",
+    "alias": "Lalombai"
+  },
+  {
+    "code": "74.11.110.006",
+    "villageCode": "006",
+    "districtCode": "74.11.110",
+    "name": "Undolo",
+    "alias": "Undolo"
+  },
+  {
+    "code": "74.11.110.007",
+    "villageCode": "007",
+    "districtCode": "74.11.110",
+    "name": "Tawanga",
+    "alias": "Tawanga"
+  },
+  {
+    "code": "74.11.110.008",
+    "villageCode": "008",
+    "districtCode": "74.11.110",
+    "name": "Amololu",
+    "alias": "Amololu"
+  },
+  {
+    "code": "74.11.110.009",
+    "villageCode": "009",
+    "districtCode": "74.11.110",
+    "name": "Amokuni",
+    "alias": "Amokuni"
+  },
+  {
+    "code": "74.11.110.010",
+    "villageCode": "010",
+    "districtCode": "74.11.110",
+    "name": "Pehanggo",
+    "alias": "Pehanggo"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "code": "71.02.191.001",
+    "villageCode": "001",
+    "districtCode": "71.02.191",
+    "name": "Urongo",
+    "alias": "Urongo"
+  },
+  {
+    "code": "71.02.191.002",
+    "villageCode": "002",
+    "districtCode": "71.02.191",
+    "name": "Peleloan",
+    "alias": "Peleloan"
+  },
+  {
+    "code": "71.02.191.003",
+    "villageCode": "003",
+    "districtCode": "71.02.191",
+    "name": "Tounsaru",
+    "alias": "Tounsaru"
+  },
+  {
+    "code": "71.02.191.004",
+    "villageCode": "004",
+    "districtCode": "71.02.191",
+    "name": "Koya",
+    "alias": "Koya"
+  },
+  {
+    "code": "71.02.191.005",
+    "villageCode": "005",
+    "districtCode": "71.02.191",
+    "name": "Tataaran Satu",
+    "alias": "Tataaran Satu"
+  },
+  {
+    "code": "71.02.191.006",
+    "villageCode": "006",
+    "districtCode": "71.02.191",
+    "name": "Tataaran Patar",
+    "alias": "Tataaran Patar"
+  },
+  {
+    "code": "71.02.191.007",
+    "villageCode": "007",
+    "districtCode": "71.02.191",
+    "name": "Tataaran Dua",
+    "alias": "Tataaran Dua"
+  },
+  {
+    "code": "71.02.191.008",
+    "villageCode": "008",
+    "districtCode": "71.02.191",
+    "name": "Maesa Unima",
+    "alias": "Maesa Unima"
+  }
+]

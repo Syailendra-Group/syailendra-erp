@@ -1,0 +1,266 @@
+[
+  {
+    "code": "12.01",
+    "regencyCode": "01",
+    "provinceCode": "12",
+    "provinceName": "Sumatera Utara",
+    "name": "Kabupaten Nias",
+    "alias": "Nias"
+  },
+  {
+    "code": "12.02",
+    "regencyCode": "02",
+    "provinceCode": "12",
+    "provinceName": "Sumatera Utara",
+    "name": "Kabupaten Mandailing Natal",
+    "alias": "Mandailing Natal"
+  },
+  {
+    "code": "12.03",
+    "regencyCode": "03",
+    "provinceCode": "12",
+    "provinceName": "Sumatera Utara",
+    "name": "Kabupaten Tapanuli Selatan",
+    "alias": "Tapanuli Selatan"
+  },
+  {
+    "code": "12.04",
+    "regencyCode": "04",
+    "provinceCode": "12",
+    "provinceName": "Sumatera Utara",
+    "name": "Kabupaten Tapanuli Tengah",
+    "alias": "Tapanuli Tengah"
+  },
+  {
+    "code": "12.05",
+    "regencyCode": "05",
+    "provinceCode": "12",
+    "provinceName": "Sumatera Utara",
+    "name": "Kabupaten Tapanuli Utara",
+    "alias": "Tapanuli Utara"
+  },
+  {
+    "code": "12.06",
+    "regencyCode": "06",
+    "provinceCode": "12",
+    "provinceName": "Sumatera Utara",
+    "name": "Kabupaten Toba",
+    "alias": "Toba"
+  },
+  {
+    "code": "12.07",
+    "regencyCode": "07",
+    "provinceCode": "12",
+    "provinceName": "Sumatera Utara",
+    "name": "Kabupaten Labuhanbatu",
+    "alias": "Labuhanbatu"
+  },
+  {
+    "code": "12.08",
+    "regencyCode": "08",
+    "provinceCode": "12",
+    "provinceName": "Sumatera Utara",
+    "name": "Kabupaten Asahan",
+    "alias": "Asahan"
+  },
+  {
+    "code": "12.09",
+    "regencyCode": "09",
+    "provinceCode": "12",
+    "provinceName": "Sumatera Utara",
+    "name": "Kabupaten Simalungun",
+    "alias": "Simalungun"
+  },
+  {
+    "code": "12.10",
+    "regencyCode": "10",
+    "provinceCode": "12",
+    "provinceName": "Sumatera Utara",
+    "name": "Kabupaten Dairi",
+    "alias": "Dairi"
+  },
+  {
+    "code": "12.11",
+    "regencyCode": "11",
+    "provinceCode": "12",
+    "provinceName": "Sumatera Utara",
+    "name": "Kabupaten Karo",
+    "alias": "Karo"
+  },
+  {
+    "code": "12.12",
+    "regencyCode": "12",
+    "provinceCode": "12",
+    "provinceName": "Sumatera Utara",
+    "name": "Kabupaten Deli Serdang",
+    "alias": "Deli Serdang"
+  },
+  {
+    "code": "12.13",
+    "regencyCode": "13",
+    "provinceCode": "12",
+    "provinceName": "Sumatera Utara",
+    "name": "Kabupaten Langkat",
+    "alias": "Langkat"
+  },
+  {
+    "code": "12.14",
+    "regencyCode": "14",
+    "provinceCode": "12",
+    "provinceName": "Sumatera Utara",
+    "name": "Kabupaten Nias Selatan",
+    "alias": "Nias Selatan"
+  },
+  {
+    "code": "12.15",
+    "regencyCode": "15",
+    "provinceCode": "12",
+    "provinceName": "Sumatera Utara",
+    "name": "Kabupaten Humbang Hasundutan",
+    "alias": "Humbang Hasundutan"
+  },
+  {
+    "code": "12.16",
+    "regencyCode": "16",
+    "provinceCode": "12",
+    "provinceName": "Sumatera Utara",
+    "name": "Kabupaten Pakpak Bharat",
+    "alias": "Pakpak Bharat"
+  },
+  {
+    "code": "12.17",
+    "regencyCode": "17",
+    "provinceCode": "12",
+    "provinceName": "Sumatera Utara",
+    "name": "Kabupaten Samosir",
+    "alias": "Samosir"
+  },
+  {
+    "code": "12.18",
+    "regencyCode": "18",
+    "provinceCode": "12",
+    "provinceName": "Sumatera Utara",
+    "name": "Kabupaten Serdang Bedagai",
+    "alias": "Serdang Bedagai"
+  },
+  {
+    "code": "12.19",
+    "regencyCode": "19",
+    "provinceCode": "12",
+    "provinceName": "Sumatera Utara",
+    "name": "Kabupaten Batu Bara",
+    "alias": "Batu Bara"
+  },
+  {
+    "code": "12.20",
+    "regencyCode": "20",
+    "provinceCode": "12",
+    "provinceName": "Sumatera Utara",
+    "name": "Kabupaten Padang Lawas Utara",
+    "alias": "Padang Lawas Utara"
+  },
+  {
+    "code": "12.21",
+    "regencyCode": "21",
+    "provinceCode": "12",
+    "provinceName": "Sumatera Utara",
+    "name": "Kabupaten Padang Lawas",
+    "alias": "Padang Lawas"
+  },
+  {
+    "code": "12.22",
+    "regencyCode": "22",
+    "provinceCode": "12",
+    "provinceName": "Sumatera Utara",
+    "name": "Kabupaten Labuhanbatu Selatan",
+    "alias": "Labuhanbatu Selatan"
+  },
+  {
+    "code": "12.23",
+    "regencyCode": "23",
+    "provinceCode": "12",
+    "provinceName": "Sumatera Utara",
+    "name": "Kabupaten Labuhanbatu Utara",
+    "alias": "Labuhanbatu Utara"
+  },
+  {
+    "code": "12.24",
+    "regencyCode": "24",
+    "provinceCode": "12",
+    "provinceName": "Sumatera Utara",
+    "name": "Kabupaten Nias Utara",
+    "alias": "Nias Utara"
+  },
+  {
+    "code": "12.25",
+    "regencyCode": "25",
+    "provinceCode": "12",
+    "provinceName": "Sumatera Utara",
+    "name": "Kabupaten Nias Barat",
+    "alias": "Nias Barat"
+  },
+  {
+    "code": "12.71",
+    "regencyCode": "71",
+    "provinceCode": "12",
+    "provinceName": "Sumatera Utara",
+    "name": "Kota Sibolga",
+    "alias": "Sibolga"
+  },
+  {
+    "code": "12.72",
+    "regencyCode": "72",
+    "provinceCode": "12",
+    "provinceName": "Sumatera Utara",
+    "name": "Kota Tanjung Balai",
+    "alias": "Tanjung Balai"
+  },
+  {
+    "code": "12.73",
+    "regencyCode": "73",
+    "provinceCode": "12",
+    "provinceName": "Sumatera Utara",
+    "name": "Kota Pematangsiantar",
+    "alias": "Pematangsiantar"
+  },
+  {
+    "code": "12.74",
+    "regencyCode": "74",
+    "provinceCode": "12",
+    "provinceName": "Sumatera Utara",
+    "name": "Kota Tebing Tinggi",
+    "alias": "Tebing Tinggi"
+  },
+  {
+    "code": "12.75",
+    "regencyCode": "75",
+    "provinceCode": "12",
+    "provinceName": "Sumatera Utara",
+    "name": "Kota Medan",
+    "alias": "Medan"
+  },
+  {
+    "code": "12.76",
+    "regencyCode": "76",
+    "provinceCode": "12",
+    "provinceName": "Sumatera Utara",
+    "name": "Kota Binjai",
+    "alias": "Binjai"
+  },
+  {
+    "code": "12.77",
+    "regencyCode": "77",
+    "provinceCode": "12",
+    "provinceName": "Sumatera Utara",
+    "name": "Kota Padang Sidempuan",
+    "alias": "Padang Sidempuan"
+  },
+  {
+    "code": "12.78",
+    "regencyCode": "78",
+    "provinceCode": "12",
+    "provinceName": "Sumatera Utara",
+    "name": "Kota Gunungsitoli",
+    "alias": "Gunungsitoli"
+  }
+]

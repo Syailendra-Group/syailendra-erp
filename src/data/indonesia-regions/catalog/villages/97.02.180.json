@@ -1,0 +1,58 @@
+[
+  {
+    "code": "97.02.180.001",
+    "villageCode": "001",
+    "districtCode": "97.02.180",
+    "name": "Wogi",
+    "alias": "Wogi"
+  },
+  {
+    "code": "97.02.180.002",
+    "villageCode": "002",
+    "districtCode": "97.02.180",
+    "name": "Holasili",
+    "alias": "Holasili"
+  },
+  {
+    "code": "97.02.180.003",
+    "villageCode": "003",
+    "districtCode": "97.02.180",
+    "name": "Elaboge",
+    "alias": "Elaboge"
+  },
+  {
+    "code": "97.02.180.004",
+    "villageCode": "004",
+    "districtCode": "97.02.180",
+    "name": "Yerega",
+    "alias": "Yerega"
+  },
+  {
+    "code": "97.02.180.005",
+    "villageCode": "005",
+    "districtCode": "97.02.180",
+    "name": "Apnae",
+    "alias": "Apnae"
+  },
+  {
+    "code": "97.02.180.006",
+    "villageCode": "006",
+    "districtCode": "97.02.180",
+    "name": "Olagi",
+    "alias": "Olagi"
+  },
+  {
+    "code": "97.02.180.007",
+    "villageCode": "007",
+    "districtCode": "97.02.180",
+    "name": "Gigilobo",
+    "alias": "Gigilobo"
+  },
+  {
+    "code": "97.02.180.008",
+    "villageCode": "008",
+    "districtCode": "97.02.180",
+    "name": "Wenenggulik",
+    "alias": "Wenenggulik"
+  }
+]

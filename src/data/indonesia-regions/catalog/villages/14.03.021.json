@@ -1,0 +1,58 @@
+[
+  {
+    "code": "14.03.021.001",
+    "villageCode": "001",
+    "districtCode": "14.03.021",
+    "name": "Kuala Patah Parang",
+    "alias": "Kuala Patah Parang"
+  },
+  {
+    "code": "14.03.021.002",
+    "villageCode": "002",
+    "districtCode": "14.03.021",
+    "name": "Kuala Sungai Batang",
+    "alias": "Kuala Sungai Batang"
+  },
+  {
+    "code": "14.03.021.003",
+    "villageCode": "003",
+    "districtCode": "14.03.021",
+    "name": "Pasenggerahan",
+    "alias": "Pasenggerahan"
+  },
+  {
+    "code": "14.03.021.004",
+    "villageCode": "004",
+    "districtCode": "14.03.021",
+    "name": "Benteng",
+    "alias": "Benteng"
+  },
+  {
+    "code": "14.03.021.005",
+    "villageCode": "005",
+    "districtCode": "14.03.021",
+    "name": "Benteng Barat",
+    "alias": "Benteng Barat"
+  },
+  {
+    "code": "14.03.021.006",
+    "villageCode": "006",
+    "districtCode": "14.03.021",
+    "name": "Benteng Utara",
+    "alias": "Benteng Utara"
+  },
+  {
+    "code": "14.03.021.007",
+    "villageCode": "007",
+    "districtCode": "14.03.021",
+    "name": "Pandan Sari",
+    "alias": "Pandan Sari"
+  },
+  {
+    "code": "14.03.021.008",
+    "villageCode": "008",
+    "districtCode": "14.03.021",
+    "name": "Mugo Mulyo",
+    "alias": "Mugo Mulyo"
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "code": "12.02.022.001",
+    "villageCode": "001",
+    "districtCode": "12.02.022",
+    "name": "Sampuran",
+    "alias": "Sampuran"
+  },
+  {
+    "code": "12.02.022.002",
+    "villageCode": "002",
+    "districtCode": "12.02.022",
+    "name": "Tandikek",
+    "alias": "Tandikek"
+  },
+  {
+    "code": "12.02.022.003",
+    "villageCode": "003",
+    "districtCode": "12.02.022",
+    "name": "Gonting",
+    "alias": "Gonting"
+  },
+  {
+    "code": "12.02.022.004",
+    "villageCode": "004",
+    "districtCode": "12.02.022",
+    "name": "Bangun Saroha",
+    "alias": "Bangun Saroha"
+  },
+  {
+    "code": "12.02.022.005",
+    "villageCode": "005",
+    "districtCode": "12.02.022",
+    "name": "Simaninggir",
+    "alias": "Simaninggir"
+  },
+  {
+    "code": "12.02.022.006",
+    "villageCode": "006",
+    "districtCode": "12.02.022",
+    "name": "Banjar Maga",
+    "alias": "Banjar Maga"
+  },
+  {
+    "code": "12.02.022.007",
+    "villageCode": "007",
+    "districtCode": "12.02.022",
+    "name": "Ranto Nalinjang",
+    "alias": "Ranto Nalinjang"
+  },
+  {
+    "code": "12.02.022.008",
+    "villageCode": "008",
+    "districtCode": "12.02.022",
+    "name": "Simpang Talap",
+    "alias": "Simpang Talap"
+  },
+  {
+    "code": "12.02.022.009",
+    "villageCode": "009",
+    "districtCode": "12.02.022",
+    "name": "Manisak",
+    "alias": "Manisak"
+  },
+  {
+    "code": "12.02.022.010",
+    "villageCode": "010",
+    "districtCode": "12.02.022",
+    "name": "Huta Raja",
+    "alias": "Huta Raja"
+  },
+  {
+    "code": "12.02.022.011",
+    "villageCode": "011",
+    "districtCode": "12.02.022",
+    "name": "Muara Bangko",
+    "alias": "Muara Bangko"
+  },
+  {
+    "code": "12.02.022.012",
+    "villageCode": "012",
+    "districtCode": "12.02.022",
+    "name": "Huta Baringin",
+    "alias": "Huta Baringin"
+  },
+  {
+    "code": "12.02.022.013",
+    "villageCode": "013",
+    "districtCode": "12.02.022",
+    "name": "Ranto Panjang",
+    "alias": "Ranto Panjang"
+  },
+  {
+    "code": "12.02.022.014",
+    "villageCode": "014",
+    "districtCode": "12.02.022",
+    "name": "Dua Sepakat",
+    "alias": "Dua Sepakat"
+  },
+  {
+    "code": "12.02.022.015",
+    "villageCode": "015",
+    "districtCode": "12.02.022",
+    "name": "Huta Nauli",
+    "alias": "Huta Nauli"
+  },
+  {
+    "code": "12.02.022.016",
+    "villageCode": "016",
+    "districtCode": "12.02.022",
+    "name": "Padangsilojongan",
+    "alias": "Padangsilojongan"
+  },
+  {
+    "code": "12.02.022.017",
+    "villageCode": "017",
+    "districtCode": "12.02.022",
+    "name": "Lubuk Kancah",
+    "alias": "Lubuk Kancah"
+  },
+  {
+    "code": "12.02.022.018",
+    "villageCode": "018",
+    "districtCode": "12.02.022",
+    "name": "Gunung Godang",
+    "alias": "Gunung Godang"
+  }
+]

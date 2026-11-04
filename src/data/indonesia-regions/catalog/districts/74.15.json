@@ -1,0 +1,58 @@
+[
+  {
+    "code": "74.15.010",
+    "districtCode": "010",
+    "regencyCode": "74.15",
+    "provinceCode": "74",
+    "name": "Kecamatan Batu Atas",
+    "alias": "Batu Atas"
+  },
+  {
+    "code": "74.15.020",
+    "districtCode": "020",
+    "regencyCode": "74.15",
+    "provinceCode": "74",
+    "name": "Kecamatan Lapandewa",
+    "alias": "Lapandewa"
+  },
+  {
+    "code": "74.15.030",
+    "districtCode": "030",
+    "regencyCode": "74.15",
+    "provinceCode": "74",
+    "name": "Kecamatan Sampolawa",
+    "alias": "Sampolawa"
+  },
+  {
+    "code": "74.15.040",
+    "districtCode": "040",
+    "regencyCode": "74.15",
+    "provinceCode": "74",
+    "name": "Kecamatan Batauga",
+    "alias": "Batauga"
+  },
+  {
+    "code": "74.15.050",
+    "districtCode": "050",
+    "regencyCode": "74.15",
+    "provinceCode": "74",
+    "name": "Kecamatan Siompu Barat",
+    "alias": "Siompu Barat"
+  },
+  {
+    "code": "74.15.060",
+    "districtCode": "060",
+    "regencyCode": "74.15",
+    "provinceCode": "74",
+    "name": "Kecamatan Siompu",
+    "alias": "Siompu"
+  },
+  {
+    "code": "74.15.070",
+    "districtCode": "070",
+    "regencyCode": "74.15",
+    "provinceCode": "74",
+    "name": "Kecamatan Kadatua",
+    "alias": "Kadatua"
+  }
+]

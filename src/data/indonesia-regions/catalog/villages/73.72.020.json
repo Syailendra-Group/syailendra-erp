@@ -1,0 +1,37 @@
+[
+  {
+    "code": "73.72.020.001",
+    "villageCode": "001",
+    "districtCode": "73.72.020",
+    "name": "Labukkang",
+    "alias": "Labukkang"
+  },
+  {
+    "code": "73.72.020.002",
+    "villageCode": "002",
+    "districtCode": "73.72.020",
+    "name": "Mallusetasi",
+    "alias": "Mallusetasi"
+  },
+  {
+    "code": "73.72.020.003",
+    "villageCode": "003",
+    "districtCode": "73.72.020",
+    "name": "Ujung Sabbang",
+    "alias": "Ujung Sabbang"
+  },
+  {
+    "code": "73.72.020.004",
+    "villageCode": "004",
+    "districtCode": "73.72.020",
+    "name": "Ujung Bulu",
+    "alias": "Ujung Bulu"
+  },
+  {
+    "code": "73.72.020.005",
+    "villageCode": "005",
+    "districtCode": "73.72.020",
+    "name": "Lapadde",
+    "alias": "Lapadde"
+  }
+]

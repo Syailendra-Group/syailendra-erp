@@ -1,0 +1,79 @@
+[
+  {
+    "code": "61.06.060.001",
+    "villageCode": "001",
+    "districtCode": "61.06.060",
+    "name": "Sungai Nanjung",
+    "alias": "Sungai Nanjung"
+  },
+  {
+    "code": "61.06.060.002",
+    "villageCode": "002",
+    "districtCode": "61.06.060",
+    "name": "Pesaguan Kanan",
+    "alias": "Pesaguan Kanan"
+  },
+  {
+    "code": "61.06.060.003",
+    "villageCode": "003",
+    "districtCode": "61.06.060",
+    "name": "Pesaguan Kiri",
+    "alias": "Pesaguan Kiri"
+  },
+  {
+    "code": "61.06.060.004",
+    "villageCode": "004",
+    "districtCode": "61.06.060",
+    "name": "Sungai Bakau",
+    "alias": "Sungai Bakau"
+  },
+  {
+    "code": "61.06.060.005",
+    "villageCode": "005",
+    "districtCode": "61.06.060",
+    "name": "Pematang Gadung",
+    "alias": "Pematang Gadung"
+  },
+  {
+    "code": "61.06.060.006",
+    "villageCode": "006",
+    "districtCode": "61.06.060",
+    "name": "Sungai Besar",
+    "alias": "Sungai Besar"
+  },
+  {
+    "code": "61.06.060.007",
+    "villageCode": "007",
+    "districtCode": "61.06.060",
+    "name": "Sungai Pelang",
+    "alias": "Sungai Pelang"
+  },
+  {
+    "code": "61.06.060.008",
+    "villageCode": "008",
+    "districtCode": "61.06.060",
+    "name": "Sungai Jawi",
+    "alias": "Sungai Jawi"
+  },
+  {
+    "code": "61.06.060.009",
+    "villageCode": "009",
+    "districtCode": "61.06.060",
+    "name": "Kemuning Biutak",
+    "alias": "Kemuning Biutak"
+  },
+  {
+    "code": "61.06.060.010",
+    "villageCode": "010",
+    "districtCode": "61.06.060",
+    "name": "Harapan Baru",
+    "alias": "Harapan Baru"
+  },
+  {
+    "code": "61.06.060.011",
+    "villageCode": "011",
+    "districtCode": "61.06.060",
+    "name": "Pagar Mentimun",
+    "alias": "Pagar Mentimun"
+  }
+]

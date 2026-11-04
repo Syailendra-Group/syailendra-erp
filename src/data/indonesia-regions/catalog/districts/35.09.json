@@ -1,0 +1,250 @@
+[
+  {
+    "code": "35.09.010",
+    "districtCode": "010",
+    "regencyCode": "35.09",
+    "provinceCode": "35",
+    "name": "Kecamatan Kencong",
+    "alias": "Kencong"
+  },
+  {
+    "code": "35.09.020",
+    "districtCode": "020",
+    "regencyCode": "35.09",
+    "provinceCode": "35",
+    "name": "Kecamatan Gumuk Mas",
+    "alias": "Gumuk Mas"
+  },
+  {
+    "code": "35.09.030",
+    "districtCode": "030",
+    "regencyCode": "35.09",
+    "provinceCode": "35",
+    "name": "Kecamatan Puger",
+    "alias": "Puger"
+  },
+  {
+    "code": "35.09.040",
+    "districtCode": "040",
+    "regencyCode": "35.09",
+    "provinceCode": "35",
+    "name": "Kecamatan Wuluhan",
+    "alias": "Wuluhan"
+  },
+  {
+    "code": "35.09.050",
+    "districtCode": "050",
+    "regencyCode": "35.09",
+    "provinceCode": "35",
+    "name": "Kecamatan Ambulu",
+    "alias": "Ambulu"
+  },
+  {
+    "code": "35.09.060",
+    "districtCode": "060",
+    "regencyCode": "35.09",
+    "provinceCode": "35",
+    "name": "Kecamatan Tempurejo",
+    "alias": "Tempurejo"
+  },
+  {
+    "code": "35.09.070",
+    "districtCode": "070",
+    "regencyCode": "35.09",
+    "provinceCode": "35",
+    "name": "Kecamatan Silo",
+    "alias": "Silo"
+  },
+  {
+    "code": "35.09.080",
+    "districtCode": "080",
+    "regencyCode": "35.09",
+    "provinceCode": "35",
+    "name": "Kecamatan Mayang",
+    "alias": "Mayang"
+  },
+  {
+    "code": "35.09.090",
+    "districtCode": "090",
+    "regencyCode": "35.09",
+    "provinceCode": "35",
+    "name": "Kecamatan Mumbulsari",
+    "alias": "Mumbulsari"
+  },
+  {
+    "code": "35.09.100",
+    "districtCode": "100",
+    "regencyCode": "35.09",
+    "provinceCode": "35",
+    "name": "Kecamatan Jenggawah",
+    "alias": "Jenggawah"
+  },
+  {
+    "code": "35.09.110",
+    "districtCode": "110",
+    "regencyCode": "35.09",
+    "provinceCode": "35",
+    "name": "Kecamatan Ajung",
+    "alias": "Ajung"
+  },
+  {
+    "code": "35.09.120",
+    "districtCode": "120",
+    "regencyCode": "35.09",
+    "provinceCode": "35",
+    "name": "Kecamatan Rambipuji",
+    "alias": "Rambipuji"
+  },
+  {
+    "code": "35.09.130",
+    "districtCode": "130",
+    "regencyCode": "35.09",
+    "provinceCode": "35",
+    "name": "Kecamatan Balung",
+    "alias": "Balung"
+  },
+  {
+    "code": "35.09.140",
+    "districtCode": "140",
+    "regencyCode": "35.09",
+    "provinceCode": "35",
+    "name": "Kecamatan Umbulsari",
+    "alias": "Umbulsari"
+  },
+  {
+    "code": "35.09.150",
+    "districtCode": "150",
+    "regencyCode": "35.09",
+    "provinceCode": "35",
+    "name": "Kecamatan Semboro",
+    "alias": "Semboro"
+  },
+  {
+    "code": "35.09.160",
+    "districtCode": "160",
+    "regencyCode": "35.09",
+    "provinceCode": "35",
+    "name": "Kecamatan Jombang",
+    "alias": "Jombang"
+  },
+  {
+    "code": "35.09.170",
+    "districtCode": "170",
+    "regencyCode": "35.09",
+    "provinceCode": "35",
+    "name": "Kecamatan Sumber Baru",
+    "alias": "Sumber Baru"
+  },
+  {
+    "code": "35.09.180",
+    "districtCode": "180",
+    "regencyCode": "35.09",
+    "provinceCode": "35",
+    "name": "Kecamatan Tanggul",
+    "alias": "Tanggul"
+  },
+  {
+    "code": "35.09.190",
+    "districtCode": "190",
+    "regencyCode": "35.09",
+    "provinceCode": "35",
+    "name": "Kecamatan Bangsalsari",
+    "alias": "Bangsalsari"
+  },
+  {
+    "code": "35.09.200",
+    "districtCode": "200",
+    "regencyCode": "35.09",
+    "provinceCode": "35",
+    "name": "Kecamatan Panti",
+    "alias": "Panti"
+  },
+  {
+    "code": "35.09.210",
+    "districtCode": "210",
+    "regencyCode": "35.09",
+    "provinceCode": "35",
+    "name": "Kecamatan Sukorambi",
+    "alias": "Sukorambi"
+  },
+  {
+    "code": "35.09.220",
+    "districtCode": "220",
+    "regencyCode": "35.09",
+    "provinceCode": "35",
+    "name": "Kecamatan Arjasa",
+    "alias": "Arjasa"
+  },
+  {
+    "code": "35.09.230",
+    "districtCode": "230",
+    "regencyCode": "35.09",
+    "provinceCode": "35",
+    "name": "Kecamatan Pakusari",
+    "alias": "Pakusari"
+  },
+  {
+    "code": "35.09.240",
+    "districtCode": "240",
+    "regencyCode": "35.09",
+    "provinceCode": "35",
+    "name": "Kecamatan Kalisat",
+    "alias": "Kalisat"
+  },
+  {
+    "code": "35.09.250",
+    "districtCode": "250",
+    "regencyCode": "35.09",
+    "provinceCode": "35",
+    "name": "Kecamatan Ledokombo",
+    "alias": "Ledokombo"
+  },
+  {
+    "code": "35.09.260",
+    "districtCode": "260",
+    "regencyCode": "35.09",
+    "provinceCode": "35",
+    "name": "Kecamatan Sumberjambe",
+    "alias": "Sumberjambe"
+  },
+  {
+    "code": "35.09.270",
+    "districtCode": "270",
+    "regencyCode": "35.09",
+    "provinceCode": "35",
+    "name": "Kecamatan Sukowono",
+    "alias": "Sukowono"
+  },
+  {
+    "code": "35.09.280",
+    "districtCode": "280",
+    "regencyCode": "35.09",
+    "provinceCode": "35",
+    "name": "Kecamatan Jelbuk",
+    "alias": "Jelbuk"
+  },
+  {
+    "code": "35.09.710",
+    "districtCode": "710",
+    "regencyCode": "35.09",
+    "provinceCode": "35",
+    "name": "Kecamatan Kaliwates",
+    "alias": "Kaliwates"
+  },
+  {
+    "code": "35.09.720",
+    "districtCode": "720",
+    "regencyCode": "35.09",
+    "provinceCode": "35",
+    "name": "Kecamatan Sumbersari",
+    "alias": "Sumbersari"
+  },
+  {
+    "code": "35.09.730",
+    "districtCode": "730",
+    "regencyCode": "35.09",
+    "provinceCode": "35",
+    "name": "Kecamatan Patrang",
+    "alias": "Patrang"
+  }
+]

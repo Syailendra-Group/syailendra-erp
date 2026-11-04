@@ -1,0 +1,100 @@
+[
+  {
+    "code": "16.10.010.004",
+    "villageCode": "004",
+    "districtCode": "16.10.010",
+    "name": "Munggu",
+    "alias": "Munggu"
+  },
+  {
+    "code": "16.10.010.005",
+    "villageCode": "005",
+    "districtCode": "16.10.010",
+    "name": "Seri Menanti",
+    "alias": "Seri Menanti"
+  },
+  {
+    "code": "16.10.010.006",
+    "villageCode": "006",
+    "districtCode": "16.10.010",
+    "name": "Rantau Sialang",
+    "alias": "Rantau Sialang"
+  },
+  {
+    "code": "16.10.010.007",
+    "villageCode": "007",
+    "districtCode": "16.10.010",
+    "name": "Kuang Anyar",
+    "alias": "Kuang Anyar"
+  },
+  {
+    "code": "16.10.010.009",
+    "villageCode": "009",
+    "districtCode": "16.10.010",
+    "name": "Kasah",
+    "alias": "Kasah"
+  },
+  {
+    "code": "16.10.010.011",
+    "villageCode": "011",
+    "districtCode": "16.10.010",
+    "name": "Muara Kuang",
+    "alias": "Muara Kuang"
+  },
+  {
+    "code": "16.10.010.012",
+    "villageCode": "012",
+    "districtCode": "16.10.010",
+    "name": "Tanabang Ilir",
+    "alias": "Tanabang Ilir"
+  },
+  {
+    "code": "16.10.010.013",
+    "villageCode": "013",
+    "districtCode": "16.10.010",
+    "name": "Seri Kembang",
+    "alias": "Seri Kembang"
+  },
+  {
+    "code": "16.10.010.014",
+    "villageCode": "014",
+    "districtCode": "16.10.010",
+    "name": "Naga Sari",
+    "alias": "Naga Sari"
+  },
+  {
+    "code": "16.10.010.015",
+    "villageCode": "015",
+    "districtCode": "16.10.010",
+    "name": "Suka Cinta",
+    "alias": "Suka Cinta"
+  },
+  {
+    "code": "16.10.010.016",
+    "villageCode": "016",
+    "districtCode": "16.10.010",
+    "name": "Kelampadu",
+    "alias": "Kelampadu"
+  },
+  {
+    "code": "16.10.010.017",
+    "villageCode": "017",
+    "districtCode": "16.10.010",
+    "name": "Sukajadi",
+    "alias": "Sukajadi"
+  },
+  {
+    "code": "16.10.010.018",
+    "villageCode": "018",
+    "districtCode": "16.10.010",
+    "name": "Rama Kasih",
+    "alias": "Rama Kasih"
+  },
+  {
+    "code": "16.10.010.019",
+    "villageCode": "019",
+    "districtCode": "16.10.010",
+    "name": "Tanabang Ulu",
+    "alias": "Tanabang Ulu"
+  }
+]

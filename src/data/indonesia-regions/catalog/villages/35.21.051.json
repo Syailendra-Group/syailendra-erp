@@ -1,0 +1,37 @@
+[
+  {
+    "code": "35.21.051.001",
+    "villageCode": "001",
+    "districtCode": "35.21.051",
+    "name": "Randusongo",
+    "alias": "Randusongo"
+  },
+  {
+    "code": "35.21.051.002",
+    "villageCode": "002",
+    "districtCode": "35.21.051",
+    "name": "Widodaren",
+    "alias": "Widodaren"
+  },
+  {
+    "code": "35.21.051.003",
+    "villageCode": "003",
+    "districtCode": "35.21.051",
+    "name": "Gerih",
+    "alias": "Gerih"
+  },
+  {
+    "code": "35.21.051.004",
+    "villageCode": "004",
+    "districtCode": "35.21.051",
+    "name": "Keras Kulon",
+    "alias": "Keras Kulon"
+  },
+  {
+    "code": "35.21.051.005",
+    "villageCode": "005",
+    "districtCode": "35.21.051",
+    "name": "Guyung",
+    "alias": "Guyung"
+  }
+]

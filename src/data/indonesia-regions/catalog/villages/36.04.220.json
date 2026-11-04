@@ -1,0 +1,107 @@
+[
+  {
+    "code": "36.04.220.001",
+    "villageCode": "001",
+    "districtCode": "36.04.220",
+    "name": "Lebakwana",
+    "alias": "Lebakwana"
+  },
+  {
+    "code": "36.04.220.002",
+    "villageCode": "002",
+    "districtCode": "36.04.220",
+    "name": "Pelamunan",
+    "alias": "Pelamunan"
+  },
+  {
+    "code": "36.04.220.003",
+    "villageCode": "003",
+    "districtCode": "36.04.220",
+    "name": "Margasana",
+    "alias": "Margasana"
+  },
+  {
+    "code": "36.04.220.004",
+    "villageCode": "004",
+    "districtCode": "36.04.220",
+    "name": "Kramatwatu",
+    "alias": "Kramatwatu"
+  },
+  {
+    "code": "36.04.220.005",
+    "villageCode": "005",
+    "districtCode": "36.04.220",
+    "name": "Pejaten",
+    "alias": "Pejaten"
+  },
+  {
+    "code": "36.04.220.006",
+    "villageCode": "006",
+    "districtCode": "36.04.220",
+    "name": "Wanayasa",
+    "alias": "Wanayasa"
+  },
+  {
+    "code": "36.04.220.007",
+    "villageCode": "007",
+    "districtCode": "36.04.220",
+    "name": "Harjatani",
+    "alias": "Harjatani"
+  },
+  {
+    "code": "36.04.220.008",
+    "villageCode": "008",
+    "districtCode": "36.04.220",
+    "name": "Serdang",
+    "alias": "Serdang"
+  },
+  {
+    "code": "36.04.220.009",
+    "villageCode": "009",
+    "districtCode": "36.04.220",
+    "name": "Toyomerto",
+    "alias": "Toyomerto"
+  },
+  {
+    "code": "36.04.220.010",
+    "villageCode": "010",
+    "districtCode": "36.04.220",
+    "name": "Pegadingan",
+    "alias": "Pegadingan"
+  },
+  {
+    "code": "36.04.220.011",
+    "villageCode": "011",
+    "districtCode": "36.04.220",
+    "name": "Pamengkang",
+    "alias": "Pamengkang"
+  },
+  {
+    "code": "36.04.220.012",
+    "villageCode": "012",
+    "districtCode": "36.04.220",
+    "name": "Tonjong",
+    "alias": "Tonjong"
+  },
+  {
+    "code": "36.04.220.013",
+    "villageCode": "013",
+    "districtCode": "36.04.220",
+    "name": "Terate",
+    "alias": "Terate"
+  },
+  {
+    "code": "36.04.220.014",
+    "villageCode": "014",
+    "districtCode": "36.04.220",
+    "name": "Teluk Terate",
+    "alias": "Teluk Terate"
+  },
+  {
+    "code": "36.04.220.015",
+    "villageCode": "015",
+    "districtCode": "36.04.220",
+    "name": "Margatani",
+    "alias": "Margatani"
+  }
+]

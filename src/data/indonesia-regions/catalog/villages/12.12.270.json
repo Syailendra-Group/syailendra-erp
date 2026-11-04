@@ -1,0 +1,79 @@
+[
+  {
+    "code": "12.12.270.001",
+    "villageCode": "001",
+    "districtCode": "12.12.270",
+    "name": "Sena",
+    "alias": "Sena"
+  },
+  {
+    "code": "12.12.270.002",
+    "villageCode": "002",
+    "districtCode": "12.12.270",
+    "name": "Tumpatan Nibung",
+    "alias": "Tumpatan Nibung"
+  },
+  {
+    "code": "12.12.270.003",
+    "villageCode": "003",
+    "districtCode": "12.12.270",
+    "name": "Baru",
+    "alias": "Baru"
+  },
+  {
+    "code": "12.12.270.004",
+    "villageCode": "004",
+    "districtCode": "12.12.270",
+    "name": "Tanjung Sari",
+    "alias": "Tanjung Sari"
+  },
+  {
+    "code": "12.12.270.005",
+    "villageCode": "005",
+    "districtCode": "12.12.270",
+    "name": "Bakaran Batu",
+    "alias": "Bakaran Batu"
+  },
+  {
+    "code": "12.12.270.006",
+    "villageCode": "006",
+    "districtCode": "12.12.270",
+    "name": "Bintang Meriah",
+    "alias": "Bintang Meriah"
+  },
+  {
+    "code": "12.12.270.007",
+    "villageCode": "007",
+    "districtCode": "12.12.270",
+    "name": "Batang Kuis Pekan",
+    "alias": "Batang Kuis Pekan"
+  },
+  {
+    "code": "12.12.270.008",
+    "villageCode": "008",
+    "districtCode": "12.12.270",
+    "name": "Paya Gambar",
+    "alias": "Paya Gambar"
+  },
+  {
+    "code": "12.12.270.009",
+    "villageCode": "009",
+    "districtCode": "12.12.270",
+    "name": "Sidodadi",
+    "alias": "Sidodadi"
+  },
+  {
+    "code": "12.12.270.010",
+    "villageCode": "010",
+    "districtCode": "12.12.270",
+    "name": "Sugiharjo",
+    "alias": "Sugiharjo"
+  },
+  {
+    "code": "12.12.270.011",
+    "villageCode": "011",
+    "districtCode": "12.12.270",
+    "name": "Mesjid",
+    "alias": "Mesjid"
+  }
+]

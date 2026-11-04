@@ -1,0 +1,114 @@
+[
+  {
+    "code": "33.21.010",
+    "districtCode": "010",
+    "regencyCode": "33.21",
+    "provinceCode": "33",
+    "name": "Kecamatan Mranggen",
+    "alias": "Mranggen"
+  },
+  {
+    "code": "33.21.020",
+    "districtCode": "020",
+    "regencyCode": "33.21",
+    "provinceCode": "33",
+    "name": "Kecamatan Karangawen",
+    "alias": "Karangawen"
+  },
+  {
+    "code": "33.21.030",
+    "districtCode": "030",
+    "regencyCode": "33.21",
+    "provinceCode": "33",
+    "name": "Kecamatan Guntur",
+    "alias": "Guntur"
+  },
+  {
+    "code": "33.21.040",
+    "districtCode": "040",
+    "regencyCode": "33.21",
+    "provinceCode": "33",
+    "name": "Kecamatan Sayung",
+    "alias": "Sayung"
+  },
+  {
+    "code": "33.21.050",
+    "districtCode": "050",
+    "regencyCode": "33.21",
+    "provinceCode": "33",
+    "name": "Kecamatan Karang Tengah",
+    "alias": "Karang Tengah"
+  },
+  {
+    "code": "33.21.060",
+    "districtCode": "060",
+    "regencyCode": "33.21",
+    "provinceCode": "33",
+    "name": "Kecamatan Bonang",
+    "alias": "Bonang"
+  },
+  {
+    "code": "33.21.070",
+    "districtCode": "070",
+    "regencyCode": "33.21",
+    "provinceCode": "33",
+    "name": "Kecamatan Demak",
+    "alias": "Demak"
+  },
+  {
+    "code": "33.21.080",
+    "districtCode": "080",
+    "regencyCode": "33.21",
+    "provinceCode": "33",
+    "name": "Kecamatan Wonosalam",
+    "alias": "Wonosalam"
+  },
+  {
+    "code": "33.21.090",
+    "districtCode": "090",
+    "regencyCode": "33.21",
+    "provinceCode": "33",
+    "name": "Kecamatan Dempet",
+    "alias": "Dempet"
+  },
+  {
+    "code": "33.21.091",
+    "districtCode": "091",
+    "regencyCode": "33.21",
+    "provinceCode": "33",
+    "name": "Kecamatan Kebonagung",
+    "alias": "Kebonagung"
+  },
+  {
+    "code": "33.21.100",
+    "districtCode": "100",
+    "regencyCode": "33.21",
+    "provinceCode": "33",
+    "name": "Kecamatan Gajah",
+    "alias": "Gajah"
+  },
+  {
+    "code": "33.21.110",
+    "districtCode": "110",
+    "regencyCode": "33.21",
+    "provinceCode": "33",
+    "name": "Kecamatan Karanganyar",
+    "alias": "Karanganyar"
+  },
+  {
+    "code": "33.21.120",
+    "districtCode": "120",
+    "regencyCode": "33.21",
+    "provinceCode": "33",
+    "name": "Kecamatan Mijen",
+    "alias": "Mijen"
+  },
+  {
+    "code": "33.21.130",
+    "districtCode": "130",
+    "regencyCode": "33.21",
+    "provinceCode": "33",
+    "name": "Kecamatan Wedung",
+    "alias": "Wedung"
+  }
+]

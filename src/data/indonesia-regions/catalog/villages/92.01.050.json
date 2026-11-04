@@ -1,0 +1,30 @@
+[
+  {
+    "code": "92.01.050.001",
+    "villageCode": "001",
+    "districtCode": "92.01.050",
+    "name": "Pulau Tikus",
+    "alias": "Pulau Tikus"
+  },
+  {
+    "code": "92.01.050.002",
+    "villageCode": "002",
+    "districtCode": "92.01.050",
+    "name": "Wejim Barat",
+    "alias": "Wejim Barat"
+  },
+  {
+    "code": "92.01.050.003",
+    "villageCode": "003",
+    "districtCode": "92.01.050",
+    "name": "Wejim Timur",
+    "alias": "Wejim Timur"
+  },
+  {
+    "code": "92.01.050.004",
+    "villageCode": "004",
+    "districtCode": "92.01.050",
+    "name": "Satukurano",
+    "alias": "Satukurano"
+  }
+]

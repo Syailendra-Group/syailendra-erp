@@ -1,0 +1,72 @@
+[
+  {
+    "code": "97.03.170.001",
+    "villageCode": "001",
+    "districtCode": "97.03.170",
+    "name": "Kumuluk",
+    "alias": "Kumuluk"
+  },
+  {
+    "code": "97.03.170.002",
+    "villageCode": "002",
+    "districtCode": "97.03.170",
+    "name": "Pindoak",
+    "alias": "Pindoak"
+  },
+  {
+    "code": "97.03.170.003",
+    "villageCode": "003",
+    "districtCode": "97.03.170",
+    "name": "Nobo",
+    "alias": "Nobo"
+  },
+  {
+    "code": "97.03.170.004",
+    "villageCode": "004",
+    "districtCode": "97.03.170",
+    "name": "Wayuleme",
+    "alias": "Wayuleme"
+  },
+  {
+    "code": "97.03.170.005",
+    "villageCode": "005",
+    "districtCode": "97.03.170",
+    "name": "Bogomamun",
+    "alias": "Bogomamun"
+  },
+  {
+    "code": "97.03.170.006",
+    "villageCode": "006",
+    "districtCode": "97.03.170",
+    "name": "Bonanip",
+    "alias": "Bonanip"
+  },
+  {
+    "code": "97.03.170.007",
+    "villageCode": "007",
+    "districtCode": "97.03.170",
+    "name": "Lambui",
+    "alias": "Lambui"
+  },
+  {
+    "code": "97.03.170.008",
+    "villageCode": "008",
+    "districtCode": "97.03.170",
+    "name": "Kukepake",
+    "alias": "Kukepake"
+  },
+  {
+    "code": "97.03.170.009",
+    "villageCode": "009",
+    "districtCode": "97.03.170",
+    "name": "Giari",
+    "alias": "Giari"
+  },
+  {
+    "code": "97.03.170.010",
+    "villageCode": "010",
+    "districtCode": "97.03.170",
+    "name": "Kotorambur",
+    "alias": "Kotorambur"
+  }
+]

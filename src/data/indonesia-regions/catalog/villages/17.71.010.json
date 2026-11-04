@@ -1,0 +1,44 @@
+[
+  {
+    "code": "17.71.010.003",
+    "villageCode": "003",
+    "districtCode": "17.71.010",
+    "name": "Betungan",
+    "alias": "Betungan"
+  },
+  {
+    "code": "17.71.010.004",
+    "villageCode": "004",
+    "districtCode": "17.71.010",
+    "name": "Pekan Sabtu",
+    "alias": "Pekan Sabtu"
+  },
+  {
+    "code": "17.71.010.005",
+    "villageCode": "005",
+    "districtCode": "17.71.010",
+    "name": "Suka Rami",
+    "alias": "Suka Rami"
+  },
+  {
+    "code": "17.71.010.006",
+    "villageCode": "006",
+    "districtCode": "17.71.010",
+    "name": "Pagar Dewa",
+    "alias": "Pagar Dewa"
+  },
+  {
+    "code": "17.71.010.007",
+    "villageCode": "007",
+    "districtCode": "17.71.010",
+    "name": "Bumiayu",
+    "alias": "Bumiayu"
+  },
+  {
+    "code": "17.71.010.008",
+    "villageCode": "008",
+    "districtCode": "17.71.010",
+    "name": "Sumur Dewa",
+    "alias": "Sumur Dewa"
+  }
+]

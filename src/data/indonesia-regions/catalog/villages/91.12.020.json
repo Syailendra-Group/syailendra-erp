@@ -1,0 +1,86 @@
+[
+  {
+    "code": "91.12.020.001",
+    "villageCode": "001",
+    "districtCode": "91.12.020",
+    "name": "Inyaub",
+    "alias": "Inyaub"
+  },
+  {
+    "code": "91.12.020.002",
+    "villageCode": "002",
+    "districtCode": "91.12.020",
+    "name": "Dugahani",
+    "alias": "Dugahani"
+  },
+  {
+    "code": "91.12.020.003",
+    "villageCode": "003",
+    "districtCode": "91.12.020",
+    "name": "Kopo",
+    "alias": "Kopo"
+  },
+  {
+    "code": "91.12.020.004",
+    "villageCode": "004",
+    "districtCode": "91.12.020",
+    "name": "Kobrey",
+    "alias": "Kobrey"
+  },
+  {
+    "code": "91.12.020.005",
+    "villageCode": "005",
+    "districtCode": "91.12.020",
+    "name": "Kostera",
+    "alias": "Kostera"
+  },
+  {
+    "code": "91.12.020.006",
+    "villageCode": "006",
+    "districtCode": "91.12.020",
+    "name": "Sururey",
+    "alias": "Sururey"
+  },
+  {
+    "code": "91.12.020.007",
+    "villageCode": "007",
+    "districtCode": "91.12.020",
+    "name": "Saugemeba",
+    "alias": "Saugemeba"
+  },
+  {
+    "code": "91.12.020.008",
+    "villageCode": "008",
+    "districtCode": "91.12.020",
+    "name": "Menesrij",
+    "alias": "Menesrij"
+  },
+  {
+    "code": "91.12.020.009",
+    "villageCode": "009",
+    "districtCode": "91.12.020",
+    "name": "Tuhubea",
+    "alias": "Tuhubea"
+  },
+  {
+    "code": "91.12.020.010",
+    "villageCode": "010",
+    "districtCode": "91.12.020",
+    "name": "Sungudes",
+    "alias": "Sungudes"
+  },
+  {
+    "code": "91.12.020.011",
+    "villageCode": "011",
+    "districtCode": "91.12.020",
+    "name": "Anuk",
+    "alias": "Anuk"
+  },
+  {
+    "code": "91.12.020.012",
+    "villageCode": "012",
+    "districtCode": "91.12.020",
+    "name": "Tomstera",
+    "alias": "Tomstera"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "code": "73.02.030.001",
+    "villageCode": "001",
+    "districtCode": "73.02.030",
+    "name": "B I R A",
+    "alias": "B I R A"
+  },
+  {
+    "code": "73.02.030.002",
+    "villageCode": "002",
+    "districtCode": "73.02.030",
+    "name": "Darubiah",
+    "alias": "Darubiah"
+  },
+  {
+    "code": "73.02.030.003",
+    "villageCode": "003",
+    "districtCode": "73.02.030",
+    "name": "Tanah Lemo",
+    "alias": "Tanah Lemo"
+  },
+  {
+    "code": "73.02.030.004",
+    "villageCode": "004",
+    "districtCode": "73.02.030",
+    "name": "A R A",
+    "alias": "A R A"
+  },
+  {
+    "code": "73.02.030.005",
+    "villageCode": "005",
+    "districtCode": "73.02.030",
+    "name": "Lembanna",
+    "alias": "Lembanna"
+  },
+  {
+    "code": "73.02.030.006",
+    "villageCode": "006",
+    "districtCode": "73.02.030",
+    "name": "Tanah Beru",
+    "alias": "Tanah Beru"
+  },
+  {
+    "code": "73.02.030.007",
+    "villageCode": "007",
+    "districtCode": "73.02.030",
+    "name": "Sapolohe",
+    "alias": "Sapolohe"
+  },
+  {
+    "code": "73.02.030.008",
+    "villageCode": "008",
+    "districtCode": "73.02.030",
+    "name": "Benjala",
+    "alias": "Benjala"
+  }
+]

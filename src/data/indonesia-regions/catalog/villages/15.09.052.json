@@ -1,0 +1,37 @@
+[
+  {
+    "code": "15.09.052.001",
+    "villageCode": "001",
+    "districtCode": "15.09.052",
+    "name": "Pulau Kerakap",
+    "alias": "Pulau Kerakap"
+  },
+  {
+    "code": "15.09.052.002",
+    "villageCode": "002",
+    "districtCode": "15.09.052",
+    "name": "Peninjau",
+    "alias": "Peninjau"
+  },
+  {
+    "code": "15.09.052.003",
+    "villageCode": "003",
+    "districtCode": "15.09.052",
+    "name": "Pelayang",
+    "alias": "Pelayang"
+  },
+  {
+    "code": "15.09.052.004",
+    "villageCode": "004",
+    "districtCode": "15.09.052",
+    "name": "Talang Silungko",
+    "alias": "Talang Silungko"
+  },
+  {
+    "code": "15.09.052.005",
+    "villageCode": "005",
+    "districtCode": "15.09.052",
+    "name": "Seberang Jaya",
+    "alias": "Seberang Jaya"
+  }
+]

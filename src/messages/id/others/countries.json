@@ -5,8 +5,7 @@
   "table": {
     "name": "Nama Negara",
     "code": "Kode ISO",
-    "phoneCode": "Kode Telepon",
-    "currency": "Mata Uang"
+    "phoneCode": "Kode Telepon"
   },
   "form": {
     "name": "Nama Resmi Negara",
@@ -15,8 +14,6 @@
     "codePlaceholder": "Contoh: ID, SG, JP",
     "phoneCode": "Kode Telepon Panggilan",
     "phoneCodePlaceholder": "Contoh: 62, 65, 81",
-    "currency": "Mata Uang Resmi (Currency)",
-    "currencyPlaceholder": "Pilih mata uang...",
     "description": "Deskripsi / Catatan Yurisdiksi (Opsional)",
     "descriptionPlaceholder": "Catatan regulasi ekspor-impor, yurisdiksi kepatuhan, atau catatan agronomis..."
   },
@@ -24,9 +21,9 @@
     "addTitle": "Registrasi Negara Baru",
     "addDesc": "Daftarkan entitas negara tujuan ekspor atau asal bahan baku.",
     "editTitle": "Ubah Data Negara",
-    "editDesc": "Perbarui nama, kode ISO, kode telepon, atau mata uang resmi.",
+    "editDesc": "Perbarui nama, kode ISO, kode telepon, atau deskripsi.",
     "viewTitle": "Rincian Data Negara",
-    "viewDesc": "Informasi lengkap kode ISO dan mata uang resmi negara.",
+    "viewDesc": "Informasi lengkap kode ISO dan kode telepon resmi negara.",
     "deleteTitle": "Hapus Data Negara",
     "deleteConfirm": "Hapus Negara"
   }

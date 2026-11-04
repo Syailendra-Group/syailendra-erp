@@ -1,0 +1,65 @@
+[
+  {
+    "code": "52.71.021.001",
+    "villageCode": "001",
+    "districtCode": "52.71.021",
+    "name": "Dasan Agung Baru",
+    "alias": "Dasan Agung Baru"
+  },
+  {
+    "code": "52.71.021.002",
+    "villageCode": "002",
+    "districtCode": "52.71.021",
+    "name": "Gomong",
+    "alias": "Gomong"
+  },
+  {
+    "code": "52.71.021.003",
+    "villageCode": "003",
+    "districtCode": "52.71.021",
+    "name": "Dasan Agung",
+    "alias": "Dasan Agung"
+  },
+  {
+    "code": "52.71.021.004",
+    "villageCode": "004",
+    "districtCode": "52.71.021",
+    "name": "Mataram Barat",
+    "alias": "Mataram Barat"
+  },
+  {
+    "code": "52.71.021.005",
+    "villageCode": "005",
+    "districtCode": "52.71.021",
+    "name": "Monjok Barat",
+    "alias": "Monjok Barat"
+  },
+  {
+    "code": "52.71.021.006",
+    "villageCode": "006",
+    "districtCode": "52.71.021",
+    "name": "Karang Baru",
+    "alias": "Karang Baru"
+  },
+  {
+    "code": "52.71.021.007",
+    "villageCode": "007",
+    "districtCode": "52.71.021",
+    "name": "Rembiga",
+    "alias": "Rembiga"
+  },
+  {
+    "code": "52.71.021.008",
+    "villageCode": "008",
+    "districtCode": "52.71.021",
+    "name": "Monjok Timur",
+    "alias": "Monjok Timur"
+  },
+  {
+    "code": "52.71.021.009",
+    "villageCode": "009",
+    "districtCode": "52.71.021",
+    "name": "Monjok",
+    "alias": "Monjok"
+  }
+]

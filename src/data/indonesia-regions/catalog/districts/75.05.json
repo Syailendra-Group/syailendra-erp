@@ -1,0 +1,90 @@
+[
+  {
+    "code": "75.05.010",
+    "districtCode": "010",
+    "regencyCode": "75.05",
+    "provinceCode": "75",
+    "name": "Kecamatan Atinggola",
+    "alias": "Atinggola"
+  },
+  {
+    "code": "75.05.011",
+    "districtCode": "011",
+    "regencyCode": "75.05",
+    "provinceCode": "75",
+    "name": "Kecamatan Gentuma Raya",
+    "alias": "Gentuma Raya"
+  },
+  {
+    "code": "75.05.020",
+    "districtCode": "020",
+    "regencyCode": "75.05",
+    "provinceCode": "75",
+    "name": "Kecamatan Kwandang",
+    "alias": "Kwandang"
+  },
+  {
+    "code": "75.05.021",
+    "districtCode": "021",
+    "regencyCode": "75.05",
+    "provinceCode": "75",
+    "name": "Kecamatan Tomilito",
+    "alias": "Tomilito"
+  },
+  {
+    "code": "75.05.022",
+    "districtCode": "022",
+    "regencyCode": "75.05",
+    "provinceCode": "75",
+    "name": "Kecamatan Ponelo Kepulauan",
+    "alias": "Ponelo Kepulauan"
+  },
+  {
+    "code": "75.05.030",
+    "districtCode": "030",
+    "regencyCode": "75.05",
+    "provinceCode": "75",
+    "name": "Kecamatan Anggrek",
+    "alias": "Anggrek"
+  },
+  {
+    "code": "75.05.031",
+    "districtCode": "031",
+    "regencyCode": "75.05",
+    "provinceCode": "75",
+    "name": "Kecamatan Monano",
+    "alias": "Monano"
+  },
+  {
+    "code": "75.05.040",
+    "districtCode": "040",
+    "regencyCode": "75.05",
+    "provinceCode": "75",
+    "name": "Kecamatan Sumalata",
+    "alias": "Sumalata"
+  },
+  {
+    "code": "75.05.041",
+    "districtCode": "041",
+    "regencyCode": "75.05",
+    "provinceCode": "75",
+    "name": "Kecamatan Sumalata Timur",
+    "alias": "Sumalata Timur"
+  },
+  {
+    "code": "75.05.050",
+    "districtCode": "050",
+    "regencyCode": "75.05",
+    "provinceCode": "75",
+    "name": "Kecamatan Tolinggula",
+    "alias": "Tolinggula"
+  },
+  {
+    "code": "75.05.051",
+    "districtCode": "051",
+    "regencyCode": "75.05",
+    "provinceCode": "75",
+    "name": "Kecamatan Biau",
+    "alias": "Biau"
+  }
+]

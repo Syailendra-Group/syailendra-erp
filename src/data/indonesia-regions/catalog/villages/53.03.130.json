@@ -1,0 +1,65 @@
+[
+  {
+    "code": "53.03.130.012",
+    "villageCode": "012",
+    "districtCode": "53.03.130",
+    "name": "Oesena",
+    "alias": "Oesena"
+  },
+  {
+    "code": "53.03.130.013",
+    "villageCode": "013",
+    "districtCode": "53.03.130",
+    "name": "Nonbes",
+    "alias": "Nonbes"
+  },
+  {
+    "code": "53.03.130.014",
+    "villageCode": "014",
+    "districtCode": "53.03.130",
+    "name": "Kotabes",
+    "alias": "Kotabes"
+  },
+  {
+    "code": "53.03.130.015",
+    "villageCode": "015",
+    "districtCode": "53.03.130",
+    "name": "Ponain",
+    "alias": "Ponain"
+  },
+  {
+    "code": "53.03.130.016",
+    "villageCode": "016",
+    "districtCode": "53.03.130",
+    "name": "Tesbatan",
+    "alias": "Tesbatan"
+  },
+  {
+    "code": "53.03.130.019",
+    "villageCode": "019",
+    "districtCode": "53.03.130",
+    "name": "Apren",
+    "alias": "Apren"
+  },
+  {
+    "code": "53.03.130.020",
+    "villageCode": "020",
+    "districtCode": "53.03.130",
+    "name": "Oenoni",
+    "alias": "Oenoni"
+  },
+  {
+    "code": "53.03.130.021",
+    "villageCode": "021",
+    "districtCode": "53.03.130",
+    "name": "Tesbatan Ii",
+    "alias": "Tesbatan Ii"
+  },
+  {
+    "code": "53.03.130.022",
+    "villageCode": "022",
+    "districtCode": "53.03.130",
+    "name": "Oenoni Ii",
+    "alias": "Oenoni Ii"
+  }
+]

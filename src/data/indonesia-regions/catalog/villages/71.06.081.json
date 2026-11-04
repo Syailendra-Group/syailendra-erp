@@ -1,0 +1,51 @@
+[
+  {
+    "code": "71.06.081.001",
+    "villageCode": "001",
+    "districtCode": "71.06.081",
+    "name": "Wangurer",
+    "alias": "Wangurer"
+  },
+  {
+    "code": "71.06.081.002",
+    "villageCode": "002",
+    "districtCode": "71.06.081",
+    "name": "Kaweruan",
+    "alias": "Kaweruan"
+  },
+  {
+    "code": "71.06.081.003",
+    "villageCode": "003",
+    "districtCode": "71.06.081",
+    "name": "Kokoleh Dua",
+    "alias": "Kokoleh Dua"
+  },
+  {
+    "code": "71.06.081.004",
+    "villageCode": "004",
+    "districtCode": "71.06.081",
+    "name": "Kokoleh Satu",
+    "alias": "Kokoleh Satu"
+  },
+  {
+    "code": "71.06.081.005",
+    "villageCode": "005",
+    "districtCode": "71.06.081",
+    "name": "Paslaten",
+    "alias": "Paslaten"
+  },
+  {
+    "code": "71.06.081.006",
+    "villageCode": "006",
+    "districtCode": "71.06.081",
+    "name": "Batu",
+    "alias": "Batu"
+  },
+  {
+    "code": "71.06.081.007",
+    "villageCode": "007",
+    "districtCode": "71.06.081",
+    "name": "Werot",
+    "alias": "Werot"
+  }
+]

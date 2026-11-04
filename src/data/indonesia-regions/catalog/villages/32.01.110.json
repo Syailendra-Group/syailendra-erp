@@ -1,0 +1,72 @@
+[
+  {
+    "code": "32.01.110.001",
+    "villageCode": "001",
+    "districtCode": "32.01.110",
+    "name": "Citeko",
+    "alias": "Citeko"
+  },
+  {
+    "code": "32.01.110.002",
+    "villageCode": "002",
+    "districtCode": "32.01.110",
+    "name": "Cibeureum",
+    "alias": "Cibeureum"
+  },
+  {
+    "code": "32.01.110.003",
+    "villageCode": "003",
+    "districtCode": "32.01.110",
+    "name": "Tugu Selatan",
+    "alias": "Tugu Selatan"
+  },
+  {
+    "code": "32.01.110.004",
+    "villageCode": "004",
+    "districtCode": "32.01.110",
+    "name": "Tugu Utara",
+    "alias": "Tugu Utara"
+  },
+  {
+    "code": "32.01.110.005",
+    "villageCode": "005",
+    "districtCode": "32.01.110",
+    "name": "Batu Layang",
+    "alias": "Batu Layang"
+  },
+  {
+    "code": "32.01.110.006",
+    "villageCode": "006",
+    "districtCode": "32.01.110",
+    "name": "Cisarua",
+    "alias": "Cisarua"
+  },
+  {
+    "code": "32.01.110.007",
+    "villageCode": "007",
+    "districtCode": "32.01.110",
+    "name": "Kopo",
+    "alias": "Kopo"
+  },
+  {
+    "code": "32.01.110.008",
+    "villageCode": "008",
+    "districtCode": "32.01.110",
+    "name": "Leuwimalang",
+    "alias": "Leuwimalang"
+  },
+  {
+    "code": "32.01.110.009",
+    "villageCode": "009",
+    "districtCode": "32.01.110",
+    "name": "Jogjogan",
+    "alias": "Jogjogan"
+  },
+  {
+    "code": "32.01.110.010",
+    "villageCode": "010",
+    "districtCode": "32.01.110",
+    "name": "Cilember",
+    "alias": "Cilember"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "code": "32.04.300.001",
+    "villageCode": "001",
+    "districtCode": "32.04.300",
+    "name": "Girimekar",
+    "alias": "Girimekar"
+  },
+  {
+    "code": "32.04.300.002",
+    "villageCode": "002",
+    "districtCode": "32.04.300",
+    "name": "Jatiendah",
+    "alias": "Jatiendah"
+  },
+  {
+    "code": "32.04.300.003",
+    "villageCode": "003",
+    "districtCode": "32.04.300",
+    "name": "Melatiwangi",
+    "alias": "Melatiwangi"
+  },
+  {
+    "code": "32.04.300.004",
+    "villageCode": "004",
+    "districtCode": "32.04.300",
+    "name": "Cipanjalu",
+    "alias": "Cipanjalu"
+  },
+  {
+    "code": "32.04.300.005",
+    "villageCode": "005",
+    "districtCode": "32.04.300",
+    "name": "Ciporeat",
+    "alias": "Ciporeat"
+  },
+  {
+    "code": "32.04.300.006",
+    "villageCode": "006",
+    "districtCode": "32.04.300",
+    "name": "Cilengkrang",
+    "alias": "Cilengkrang"
+  }
+]

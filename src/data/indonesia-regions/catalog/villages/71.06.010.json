@@ -1,0 +1,72 @@
+[
+  {
+    "code": "71.06.010.001",
+    "villageCode": "001",
+    "districtCode": "71.06.010",
+    "name": "Makalisung",
+    "alias": "Makalisung"
+  },
+  {
+    "code": "71.06.010.002",
+    "villageCode": "002",
+    "districtCode": "71.06.010",
+    "name": "Waleo",
+    "alias": "Waleo"
+  },
+  {
+    "code": "71.06.010.003",
+    "villageCode": "003",
+    "districtCode": "71.06.010",
+    "name": "Lilang",
+    "alias": "Lilang"
+  },
+  {
+    "code": "71.06.010.004",
+    "villageCode": "004",
+    "districtCode": "71.06.010",
+    "name": "Lansot",
+    "alias": "Lansot"
+  },
+  {
+    "code": "71.06.010.005",
+    "villageCode": "005",
+    "districtCode": "71.06.010",
+    "name": "Kema Iii",
+    "alias": "Kema Iii"
+  },
+  {
+    "code": "71.06.010.006",
+    "villageCode": "006",
+    "districtCode": "71.06.010",
+    "name": "Kema Ii",
+    "alias": "Kema Ii"
+  },
+  {
+    "code": "71.06.010.007",
+    "villageCode": "007",
+    "districtCode": "71.06.010",
+    "name": "Kema I",
+    "alias": "Kema I"
+  },
+  {
+    "code": "71.06.010.008",
+    "villageCode": "008",
+    "districtCode": "71.06.010",
+    "name": "Tontalete",
+    "alias": "Tontalete"
+  },
+  {
+    "code": "71.06.010.009",
+    "villageCode": "009",
+    "districtCode": "71.06.010",
+    "name": "Tontelete Rok Rok",
+    "alias": "Tontelete Rok Rok"
+  },
+  {
+    "code": "71.06.010.010",
+    "villageCode": "010",
+    "districtCode": "71.06.010",
+    "name": "Waleo Dua",
+    "alias": "Waleo Dua"
+  }
+]

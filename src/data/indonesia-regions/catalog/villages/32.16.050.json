@@ -1,0 +1,51 @@
+[
+  {
+    "code": "32.16.050.002",
+    "villageCode": "002",
+    "districtCode": "32.16.050",
+    "name": "Bojongsari",
+    "alias": "Bojongsari"
+  },
+  {
+    "code": "32.16.050.003",
+    "villageCode": "003",
+    "districtCode": "32.16.050",
+    "name": "Kedungwaringin",
+    "alias": "Kedungwaringin"
+  },
+  {
+    "code": "32.16.050.004",
+    "villageCode": "004",
+    "districtCode": "32.16.050",
+    "name": "Waringinjaya",
+    "alias": "Waringinjaya"
+  },
+  {
+    "code": "32.16.050.005",
+    "villageCode": "005",
+    "districtCode": "32.16.050",
+    "name": "Karangsambung",
+    "alias": "Karangsambung"
+  },
+  {
+    "code": "32.16.050.007",
+    "villageCode": "007",
+    "districtCode": "32.16.050",
+    "name": "Karangharum",
+    "alias": "Karangharum"
+  },
+  {
+    "code": "32.16.050.008",
+    "villageCode": "008",
+    "districtCode": "32.16.050",
+    "name": "Mekarjaya",
+    "alias": "Mekarjaya"
+  },
+  {
+    "code": "32.16.050.009",
+    "villageCode": "009",
+    "districtCode": "32.16.050",
+    "name": "Karangmekar",
+    "alias": "Karangmekar"
+  }
+]

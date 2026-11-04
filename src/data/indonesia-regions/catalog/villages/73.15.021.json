@@ -1,0 +1,51 @@
+[
+  {
+    "code": "73.15.021.001",
+    "villageCode": "001",
+    "districtCode": "73.15.021",
+    "name": "Lanrisang",
+    "alias": "Lanrisang"
+  },
+  {
+    "code": "73.15.021.002",
+    "villageCode": "002",
+    "districtCode": "73.15.021",
+    "name": "Lerang",
+    "alias": "Lerang"
+  },
+  {
+    "code": "73.15.021.003",
+    "villageCode": "003",
+    "districtCode": "73.15.021",
+    "name": "Samaulue",
+    "alias": "Samaulue"
+  },
+  {
+    "code": "73.15.021.004",
+    "villageCode": "004",
+    "districtCode": "73.15.021",
+    "name": "Mallongi Longi",
+    "alias": "Mallongi Longi"
+  },
+  {
+    "code": "73.15.021.005",
+    "villageCode": "005",
+    "districtCode": "73.15.021",
+    "name": "Amassangang",
+    "alias": "Amassangang"
+  },
+  {
+    "code": "73.15.021.006",
+    "villageCode": "006",
+    "districtCode": "73.15.021",
+    "name": "Barang Palie",
+    "alias": "Barang Palie"
+  },
+  {
+    "code": "73.15.021.007",
+    "villageCode": "007",
+    "districtCode": "73.15.021",
+    "name": "Wae Tuwoe",
+    "alias": "Wae Tuwoe"
+  }
+]

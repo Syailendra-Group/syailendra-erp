@@ -1,0 +1,121 @@
+[
+  {
+    "code": "35.23.130.001",
+    "villageCode": "001",
+    "districtCode": "35.23.130",
+    "name": "Sumurgung",
+    "alias": "Sumurgung"
+  },
+  {
+    "code": "35.23.130.002",
+    "villageCode": "002",
+    "districtCode": "35.23.130",
+    "name": "Sugiharjo",
+    "alias": "Sugiharjo"
+  },
+  {
+    "code": "35.23.130.003",
+    "villageCode": "003",
+    "districtCode": "35.23.130",
+    "name": "Kembangbilo",
+    "alias": "Kembangbilo"
+  },
+  {
+    "code": "35.23.130.004",
+    "villageCode": "004",
+    "districtCode": "35.23.130",
+    "name": "Mondokan",
+    "alias": "Mondokan"
+  },
+  {
+    "code": "35.23.130.005",
+    "villageCode": "005",
+    "districtCode": "35.23.130",
+    "name": "Perbon",
+    "alias": "Perbon"
+  },
+  {
+    "code": "35.23.130.006",
+    "villageCode": "006",
+    "districtCode": "35.23.130",
+    "name": "Latsari",
+    "alias": "Latsari"
+  },
+  {
+    "code": "35.23.130.007",
+    "villageCode": "007",
+    "districtCode": "35.23.130",
+    "name": "Sidorejo",
+    "alias": "Sidorejo"
+  },
+  {
+    "code": "35.23.130.008",
+    "villageCode": "008",
+    "districtCode": "35.23.130",
+    "name": "Doromukti",
+    "alias": "Doromukti"
+  },
+  {
+    "code": "35.23.130.009",
+    "villageCode": "009",
+    "districtCode": "35.23.130",
+    "name": "Kebonsari",
+    "alias": "Kebonsari"
+  },
+  {
+    "code": "35.23.130.010",
+    "villageCode": "010",
+    "districtCode": "35.23.130",
+    "name": "Sukolilo",
+    "alias": "Sukolilo"
+  },
+  {
+    "code": "35.23.130.011",
+    "villageCode": "011",
+    "districtCode": "35.23.130",
+    "name": "Baturetno",
+    "alias": "Baturetno"
+  },
+  {
+    "code": "35.23.130.012",
+    "villageCode": "012",
+    "districtCode": "35.23.130",
+    "name": "Sendangharjo",
+    "alias": "Sendangharjo"
+  },
+  {
+    "code": "35.23.130.013",
+    "villageCode": "013",
+    "districtCode": "35.23.130",
+    "name": "Kutorejo",
+    "alias": "Kutorejo"
+  },
+  {
+    "code": "35.23.130.014",
+    "villageCode": "014",
+    "districtCode": "35.23.130",
+    "name": "Sidomulyo",
+    "alias": "Sidomulyo"
+  },
+  {
+    "code": "35.23.130.015",
+    "villageCode": "015",
+    "districtCode": "35.23.130",
+    "name": "Ronggomulyo",
+    "alias": "Ronggomulyo"
+  },
+  {
+    "code": "35.23.130.016",
+    "villageCode": "016",
+    "districtCode": "35.23.130",
+    "name": "Kingking",
+    "alias": "Kingking"
+  },
+  {
+    "code": "35.23.130.017",
+    "villageCode": "017",
+    "districtCode": "35.23.130",
+    "name": "Karangsari",
+    "alias": "Karangsari"
+  }
+]

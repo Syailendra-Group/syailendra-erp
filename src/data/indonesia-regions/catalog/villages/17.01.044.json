@@ -1,0 +1,65 @@
+[
+  {
+    "code": "17.01.044.001",
+    "villageCode": "001",
+    "districtCode": "17.01.044",
+    "name": "Pasar Bawah",
+    "alias": "Pasar Bawah"
+  },
+  {
+    "code": "17.01.044.002",
+    "villageCode": "002",
+    "districtCode": "17.01.044",
+    "name": "Gunung Mesir",
+    "alias": "Gunung Mesir"
+  },
+  {
+    "code": "17.01.044.003",
+    "villageCode": "003",
+    "districtCode": "17.01.044",
+    "name": "Ketapang Besar",
+    "alias": "Ketapang Besar"
+  },
+  {
+    "code": "17.01.044.004",
+    "villageCode": "004",
+    "districtCode": "17.01.044",
+    "name": "Padang Sialang",
+    "alias": "Padang Sialang"
+  },
+  {
+    "code": "17.01.044.005",
+    "villageCode": "005",
+    "districtCode": "17.01.044",
+    "name": "Belakang Gedung",
+    "alias": "Belakang Gedung"
+  },
+  {
+    "code": "17.01.044.006",
+    "villageCode": "006",
+    "districtCode": "17.01.044",
+    "name": "Pasar Mulia",
+    "alias": "Pasar Mulia"
+  },
+  {
+    "code": "17.01.044.007",
+    "villageCode": "007",
+    "districtCode": "17.01.044",
+    "name": "Batu Lambang",
+    "alias": "Batu Lambang"
+  },
+  {
+    "code": "17.01.044.008",
+    "villageCode": "008",
+    "districtCode": "17.01.044",
+    "name": "Batu Kuning",
+    "alias": "Batu Kuning"
+  },
+  {
+    "code": "17.01.044.009",
+    "villageCode": "009",
+    "districtCode": "17.01.044",
+    "name": "Tanjung Mulia",
+    "alias": "Tanjung Mulia"
+  }
+]

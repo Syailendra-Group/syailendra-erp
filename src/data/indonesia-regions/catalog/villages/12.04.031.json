@@ -1,0 +1,65 @@
+[
+  {
+    "code": "12.04.031.001",
+    "villageCode": "001",
+    "districtCode": "12.04.031",
+    "name": "Sipange",
+    "alias": "Sipange"
+  },
+  {
+    "code": "12.04.031.002",
+    "villageCode": "002",
+    "districtCode": "12.04.031",
+    "name": "Hutanabolon",
+    "alias": "Hutanabolon"
+  },
+  {
+    "code": "12.04.031.003",
+    "villageCode": "003",
+    "districtCode": "12.04.031",
+    "name": "Sigiring Giring",
+    "alias": "Sigiring Giring"
+  },
+  {
+    "code": "12.04.031.004",
+    "villageCode": "004",
+    "districtCode": "12.04.031",
+    "name": "Sait Kalangan Ii",
+    "alias": "Sait Kalangan Ii"
+  },
+  {
+    "code": "12.04.031.005",
+    "villageCode": "005",
+    "districtCode": "12.04.031",
+    "name": "Aek Bontar",
+    "alias": "Aek Bontar"
+  },
+  {
+    "code": "12.04.031.006",
+    "villageCode": "006",
+    "districtCode": "12.04.031",
+    "name": "Tapian Nauli/Saurmanggita",
+    "alias": "Tapian Nauli/Saurmanggita"
+  },
+  {
+    "code": "12.04.031.007",
+    "villageCode": "007",
+    "districtCode": "12.04.031",
+    "name": "Bonalumban",
+    "alias": "Bonalumban"
+  },
+  {
+    "code": "12.04.031.008",
+    "villageCode": "008",
+    "districtCode": "12.04.031",
+    "name": "Tukka",
+    "alias": "Tukka"
+  },
+  {
+    "code": "12.04.031.009",
+    "villageCode": "009",
+    "districtCode": "12.04.031",
+    "name": "Aek Tolang Induk",
+    "alias": "Aek Tolang Induk"
+  }
+]

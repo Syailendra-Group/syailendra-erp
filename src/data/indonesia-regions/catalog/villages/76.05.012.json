@@ -1,0 +1,30 @@
+[
+  {
+    "code": "76.05.012.001",
+    "villageCode": "001",
+    "districtCode": "76.05.012",
+    "name": "Tammarunang",
+    "alias": "Tammarunang"
+  },
+  {
+    "code": "76.05.012.002",
+    "villageCode": "002",
+    "districtCode": "76.05.012",
+    "name": "Saptanajaya",
+    "alias": "Saptanajaya"
+  },
+  {
+    "code": "76.05.012.003",
+    "villageCode": "003",
+    "districtCode": "76.05.012",
+    "name": "Taranggi",
+    "alias": "Taranggi"
+  },
+  {
+    "code": "76.05.012.004",
+    "villageCode": "004",
+    "districtCode": "76.05.012",
+    "name": "Sipakainga",
+    "alias": "Sipakainga"
+  }
+]

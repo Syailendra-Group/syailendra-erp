@@ -1,0 +1,30 @@
+[
+  {
+    "code": "19.06.011.001",
+    "villageCode": "001",
+    "districtCode": "19.06.011",
+    "name": "Tanjung Kelumpang",
+    "alias": "Tanjung Kelumpang"
+  },
+  {
+    "code": "19.06.011.002",
+    "villageCode": "002",
+    "districtCode": "19.06.011",
+    "name": "Tanjung Batu Itam",
+    "alias": "Tanjung Batu Itam"
+  },
+  {
+    "code": "19.06.011.003",
+    "villageCode": "003",
+    "districtCode": "19.06.011",
+    "name": "Dukong",
+    "alias": "Dukong"
+  },
+  {
+    "code": "19.06.011.004",
+    "villageCode": "004",
+    "districtCode": "19.06.011",
+    "name": "Simpang Pesak",
+    "alias": "Simpang Pesak"
+  }
+]

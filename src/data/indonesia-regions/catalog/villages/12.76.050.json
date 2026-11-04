@@ -1,0 +1,44 @@
+[
+  {
+    "code": "12.76.050.001",
+    "villageCode": "001",
+    "districtCode": "12.76.050",
+    "name": "Bandar Senembah",
+    "alias": "Bandar Senembah"
+  },
+  {
+    "code": "12.76.050.002",
+    "villageCode": "002",
+    "districtCode": "12.76.050",
+    "name": "Limau Mungkur",
+    "alias": "Limau Mungkur"
+  },
+  {
+    "code": "12.76.050.003",
+    "villageCode": "003",
+    "districtCode": "12.76.050",
+    "name": "Limau Sundai",
+    "alias": "Limau Sundai"
+  },
+  {
+    "code": "12.76.050.004",
+    "villageCode": "004",
+    "districtCode": "12.76.050",
+    "name": "Paya Roba",
+    "alias": "Paya Roba"
+  },
+  {
+    "code": "12.76.050.005",
+    "villageCode": "005",
+    "districtCode": "12.76.050",
+    "name": "Suka Maju",
+    "alias": "Suka Maju"
+  },
+  {
+    "code": "12.76.050.006",
+    "villageCode": "006",
+    "districtCode": "12.76.050",
+    "name": "Suka Ramai",
+    "alias": "Suka Ramai"
+  }
+]

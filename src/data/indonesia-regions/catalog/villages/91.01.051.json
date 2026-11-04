@@ -1,0 +1,51 @@
+[
+  {
+    "code": "91.01.051.001",
+    "villageCode": "001",
+    "districtCode": "91.01.051",
+    "name": "Antalisa",
+    "alias": "Antalisa"
+  },
+  {
+    "code": "91.01.051.002",
+    "villageCode": "002",
+    "districtCode": "91.01.051",
+    "name": "Mas",
+    "alias": "Mas"
+  },
+  {
+    "code": "91.01.051.003",
+    "villageCode": "003",
+    "districtCode": "91.01.051",
+    "name": "Tubirwasak",
+    "alias": "Tubirwasak"
+  },
+  {
+    "code": "91.01.051.004",
+    "villageCode": "004",
+    "districtCode": "91.01.051",
+    "name": "Tarak",
+    "alias": "Tarak"
+  },
+  {
+    "code": "91.01.051.005",
+    "villageCode": "005",
+    "districtCode": "91.01.051",
+    "name": "Faur",
+    "alias": "Faur"
+  },
+  {
+    "code": "91.01.051.006",
+    "villageCode": "006",
+    "districtCode": "91.01.051",
+    "name": "Malakuli",
+    "alias": "Malakuli"
+  },
+  {
+    "code": "91.01.051.007",
+    "villageCode": "007",
+    "districtCode": "91.01.051",
+    "name": "Kiaba",
+    "alias": "Kiaba"
+  }
+]

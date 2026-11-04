@@ -1,0 +1,50 @@
+[
+  {
+    "code": "76.01",
+    "regencyCode": "01",
+    "provinceCode": "76",
+    "provinceName": "Sulawesi Barat",
+    "name": "Kabupaten Majene",
+    "alias": "Majene"
+  },
+  {
+    "code": "76.02",
+    "regencyCode": "02",
+    "provinceCode": "76",
+    "provinceName": "Sulawesi Barat",
+    "name": "Kabupaten Polewali Mandar",
+    "alias": "Polewali Mandar"
+  },
+  {
+    "code": "76.03",
+    "regencyCode": "03",
+    "provinceCode": "76",
+    "provinceName": "Sulawesi Barat",
+    "name": "Kabupaten Mamasa",
+    "alias": "Mamasa"
+  },
+  {
+    "code": "76.04",
+    "regencyCode": "04",
+    "provinceCode": "76",
+    "provinceName": "Sulawesi Barat",
+    "name": "Kabupaten Mamuju",
+    "alias": "Mamuju"
+  },
+  {
+    "code": "76.05",
+    "regencyCode": "05",
+    "provinceCode": "76",
+    "provinceName": "Sulawesi Barat",
+    "name": "Kabupaten Pasangkayu",
+    "alias": "Pasangkayu"
+  },
+  {
+    "code": "76.06",
+    "regencyCode": "06",
+    "provinceCode": "76",
+    "provinceName": "Sulawesi Barat",
+    "name": "Kabupaten Mamuju Tengah",
+    "alias": "Mamuju Tengah"
+  }
+]

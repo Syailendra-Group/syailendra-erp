@@ -1,0 +1,86 @@
+[
+  {
+    "code": "33.20.020.001",
+    "villageCode": "001",
+    "districtCode": "33.20.020",
+    "name": "Gerdu",
+    "alias": "Gerdu"
+  },
+  {
+    "code": "33.20.020.013",
+    "villageCode": "013",
+    "districtCode": "33.20.020",
+    "name": "Krasak",
+    "alias": "Krasak"
+  },
+  {
+    "code": "33.20.020.014",
+    "villageCode": "014",
+    "districtCode": "33.20.020",
+    "name": "Karangrandu",
+    "alias": "Karangrandu"
+  },
+  {
+    "code": "33.20.020.015",
+    "villageCode": "015",
+    "districtCode": "33.20.020",
+    "name": "Kaliombo",
+    "alias": "Kaliombo"
+  },
+  {
+    "code": "33.20.020.016",
+    "villageCode": "016",
+    "districtCode": "33.20.020",
+    "name": "Ngeling",
+    "alias": "Ngeling"
+  },
+  {
+    "code": "33.20.020.017",
+    "villageCode": "017",
+    "districtCode": "33.20.020",
+    "name": "Troso",
+    "alias": "Troso"
+  },
+  {
+    "code": "33.20.020.018",
+    "villageCode": "018",
+    "districtCode": "33.20.020",
+    "name": "Pecangaan Kulon",
+    "alias": "Pecangaan Kulon"
+  },
+  {
+    "code": "33.20.020.019",
+    "villageCode": "019",
+    "districtCode": "33.20.020",
+    "name": "Pecangaan Wetan",
+    "alias": "Pecangaan Wetan"
+  },
+  {
+    "code": "33.20.020.020",
+    "villageCode": "020",
+    "districtCode": "33.20.020",
+    "name": "Lebuawu",
+    "alias": "Lebuawu"
+  },
+  {
+    "code": "33.20.020.021",
+    "villageCode": "021",
+    "districtCode": "33.20.020",
+    "name": "Pulodarat",
+    "alias": "Pulodarat"
+  },
+  {
+    "code": "33.20.020.022",
+    "villageCode": "022",
+    "districtCode": "33.20.020",
+    "name": "Gemulung",
+    "alias": "Gemulung"
+  },
+  {
+    "code": "33.20.020.024",
+    "villageCode": "024",
+    "districtCode": "33.20.020",
+    "name": "Rengging",
+    "alias": "Rengging"
+  }
+]

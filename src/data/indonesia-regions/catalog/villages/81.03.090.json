@@ -1,0 +1,79 @@
+[
+  {
+    "code": "81.03.090.001",
+    "villageCode": "001",
+    "districtCode": "81.03.090",
+    "name": "Haruku",
+    "alias": "Haruku"
+  },
+  {
+    "code": "81.03.090.002",
+    "villageCode": "002",
+    "districtCode": "81.03.090",
+    "name": "Oma",
+    "alias": "Oma"
+  },
+  {
+    "code": "81.03.090.003",
+    "villageCode": "003",
+    "districtCode": "81.03.090",
+    "name": "Wassu",
+    "alias": "Wassu"
+  },
+  {
+    "code": "81.03.090.004",
+    "villageCode": "004",
+    "districtCode": "81.03.090",
+    "name": "Aboru",
+    "alias": "Aboru"
+  },
+  {
+    "code": "81.03.090.005",
+    "villageCode": "005",
+    "districtCode": "81.03.090",
+    "name": "Hulaliu",
+    "alias": "Hulaliu"
+  },
+  {
+    "code": "81.03.090.006",
+    "villageCode": "006",
+    "districtCode": "81.03.090",
+    "name": "Kariu",
+    "alias": "Kariu"
+  },
+  {
+    "code": "81.03.090.007",
+    "villageCode": "007",
+    "districtCode": "81.03.090",
+    "name": "Pelauw",
+    "alias": "Pelauw"
+  },
+  {
+    "code": "81.03.090.008",
+    "villageCode": "008",
+    "districtCode": "81.03.090",
+    "name": "Kailolo",
+    "alias": "Kailolo"
+  },
+  {
+    "code": "81.03.090.009",
+    "villageCode": "009",
+    "districtCode": "81.03.090",
+    "name": "Kabauw",
+    "alias": "Kabauw"
+  },
+  {
+    "code": "81.03.090.010",
+    "villageCode": "010",
+    "districtCode": "81.03.090",
+    "name": "Rohomoni",
+    "alias": "Rohomoni"
+  },
+  {
+    "code": "81.03.090.011",
+    "villageCode": "011",
+    "districtCode": "81.03.090",
+    "name": "Sameth",
+    "alias": "Sameth"
+  }
+]

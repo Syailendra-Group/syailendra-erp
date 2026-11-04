@@ -1,0 +1,58 @@
+[
+  {
+    "code": "74.13.030.001",
+    "villageCode": "001",
+    "districtCode": "74.13.030",
+    "name": "Wanseriwu",
+    "alias": "Wanseriwu"
+  },
+  {
+    "code": "74.13.030.002",
+    "villageCode": "002",
+    "districtCode": "74.13.030",
+    "name": "Langku-Langku",
+    "alias": "Langku-Langku"
+  },
+  {
+    "code": "74.13.030.003",
+    "villageCode": "003",
+    "districtCode": "74.13.030",
+    "name": "Mekar Jaya",
+    "alias": "Mekar Jaya"
+  },
+  {
+    "code": "74.13.030.004",
+    "villageCode": "004",
+    "districtCode": "74.13.030",
+    "name": "Wapae",
+    "alias": "Wapae"
+  },
+  {
+    "code": "74.13.030.005",
+    "villageCode": "005",
+    "districtCode": "74.13.030",
+    "name": "Labokolo",
+    "alias": "Labokolo"
+  },
+  {
+    "code": "74.13.030.011",
+    "villageCode": "011",
+    "districtCode": "74.13.030",
+    "name": "Lakabu",
+    "alias": "Lakabu"
+  },
+  {
+    "code": "74.13.030.012",
+    "villageCode": "012",
+    "districtCode": "74.13.030",
+    "name": "Momuntu",
+    "alias": "Momuntu"
+  },
+  {
+    "code": "74.13.030.024",
+    "villageCode": "024",
+    "districtCode": "74.13.030",
+    "name": "Suka Damai",
+    "alias": "Suka Damai"
+  }
+]

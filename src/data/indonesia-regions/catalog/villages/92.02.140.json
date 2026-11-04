@@ -1,0 +1,44 @@
+[
+  {
+    "code": "92.02.140.001",
+    "villageCode": "001",
+    "districtCode": "92.02.140",
+    "name": "Sambatie",
+    "alias": "Sambatie"
+  },
+  {
+    "code": "92.02.140.002",
+    "villageCode": "002",
+    "districtCode": "92.02.140",
+    "name": "Klagele",
+    "alias": "Klagele"
+  },
+  {
+    "code": "92.02.140.003",
+    "villageCode": "003",
+    "districtCode": "92.02.140",
+    "name": "Selekobo",
+    "alias": "Selekobo"
+  },
+  {
+    "code": "92.02.140.004",
+    "villageCode": "004",
+    "districtCode": "92.02.140",
+    "name": "Klamede",
+    "alias": "Klamede"
+  },
+  {
+    "code": "92.02.140.005",
+    "villageCode": "005",
+    "districtCode": "92.02.140",
+    "name": "Saengkeduk",
+    "alias": "Saengkeduk"
+  },
+  {
+    "code": "92.02.140.006",
+    "villageCode": "006",
+    "districtCode": "92.02.140",
+    "name": "Suye",
+    "alias": "Suye"
+  }
+]

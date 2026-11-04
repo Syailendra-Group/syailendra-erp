@@ -1,0 +1,107 @@
+[
+  {
+    "code": "64.04.041.001",
+    "villageCode": "001",
+    "districtCode": "64.04.041",
+    "name": "Sepaso",
+    "alias": "Sepaso"
+  },
+  {
+    "code": "64.04.041.002",
+    "villageCode": "002",
+    "districtCode": "64.04.041",
+    "name": "Tepian Langsat",
+    "alias": "Tepian Langsat"
+  },
+  {
+    "code": "64.04.041.003",
+    "villageCode": "003",
+    "districtCode": "64.04.041",
+    "name": "Tebangan Lembak",
+    "alias": "Tebangan Lembak"
+  },
+  {
+    "code": "64.04.041.004",
+    "villageCode": "004",
+    "districtCode": "64.04.041",
+    "name": "Keraitan",
+    "alias": "Keraitan"
+  },
+  {
+    "code": "64.04.041.005",
+    "villageCode": "005",
+    "districtCode": "64.04.041",
+    "name": "Sekerat",
+    "alias": "Sekerat"
+  },
+  {
+    "code": "64.04.041.006",
+    "villageCode": "006",
+    "districtCode": "64.04.041",
+    "name": "Muara Bengalon",
+    "alias": "Muara Bengalon"
+  },
+  {
+    "code": "64.04.041.007",
+    "villageCode": "007",
+    "districtCode": "64.04.041",
+    "name": "Sepaso Timur",
+    "alias": "Sepaso Timur"
+  },
+  {
+    "code": "64.04.041.008",
+    "villageCode": "008",
+    "districtCode": "64.04.041",
+    "name": "Sepaso Selatan",
+    "alias": "Sepaso Selatan"
+  },
+  {
+    "code": "64.04.041.009",
+    "villageCode": "009",
+    "districtCode": "64.04.041",
+    "name": "Tepian Baru",
+    "alias": "Tepian Baru"
+  },
+  {
+    "code": "64.04.041.010",
+    "villageCode": "010",
+    "districtCode": "64.04.041",
+    "name": "Tepian Indah",
+    "alias": "Tepian Indah"
+  },
+  {
+    "code": "64.04.041.011",
+    "villageCode": "011",
+    "districtCode": "64.04.041",
+    "name": "Sepaso Barat",
+    "alias": "Sepaso Barat"
+  },
+  {
+    "code": "64.04.041.012",
+    "villageCode": "012",
+    "districtCode": "64.04.041",
+    "name": "Desa Persiapan Tepian Budaya",
+    "alias": "Desa Persiapan Tepian Budaya"
+  },
+  {
+    "code": "64.04.041.013",
+    "villageCode": "013",
+    "districtCode": "64.04.041",
+    "name": "Desa Persiapan Sekurau Atas",
+    "alias": "Desa Persiapan Sekurau Atas"
+  },
+  {
+    "code": "64.04.041.014",
+    "villageCode": "014",
+    "districtCode": "64.04.041",
+    "name": "Desa Persiapan Tepian Madani",
+    "alias": "Desa Persiapan Tepian Madani"
+  },
+  {
+    "code": "64.04.041.015",
+    "villageCode": "015",
+    "districtCode": "64.04.041",
+    "name": "Desa Persiapan Tepian Raya",
+    "alias": "Desa Persiapan Tepian Raya"
+  }
+]

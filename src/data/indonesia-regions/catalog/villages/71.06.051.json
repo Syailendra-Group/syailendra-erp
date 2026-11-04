@@ -1,0 +1,86 @@
+[
+  {
+    "code": "71.06.051.001",
+    "villageCode": "001",
+    "districtCode": "71.06.051",
+    "name": "Talawaan",
+    "alias": "Talawaan"
+  },
+  {
+    "code": "71.06.051.002",
+    "villageCode": "002",
+    "districtCode": "71.06.051",
+    "name": "Tumbohon",
+    "alias": "Tumbohon"
+  },
+  {
+    "code": "71.06.051.003",
+    "villageCode": "003",
+    "districtCode": "71.06.051",
+    "name": "Kolongan",
+    "alias": "Kolongan"
+  },
+  {
+    "code": "71.06.051.004",
+    "villageCode": "004",
+    "districtCode": "71.06.051",
+    "name": "Mapanget",
+    "alias": "Mapanget"
+  },
+  {
+    "code": "71.06.051.005",
+    "villageCode": "005",
+    "districtCode": "71.06.051",
+    "name": "Winetin",
+    "alias": "Winetin"
+  },
+  {
+    "code": "71.06.051.006",
+    "villageCode": "006",
+    "districtCode": "71.06.051",
+    "name": "Patokaan",
+    "alias": "Patokaan"
+  },
+  {
+    "code": "71.06.051.007",
+    "villageCode": "007",
+    "districtCode": "71.06.051",
+    "name": "Wusa",
+    "alias": "Wusa"
+  },
+  {
+    "code": "71.06.051.008",
+    "villageCode": "008",
+    "districtCode": "71.06.051",
+    "name": "Warisa",
+    "alias": "Warisa"
+  },
+  {
+    "code": "71.06.051.009",
+    "villageCode": "009",
+    "districtCode": "71.06.051",
+    "name": "Teep Warisa",
+    "alias": "Teep Warisa"
+  },
+  {
+    "code": "71.06.051.010",
+    "villageCode": "010",
+    "districtCode": "71.06.051",
+    "name": "Paniki Atas",
+    "alias": "Paniki Atas"
+  },
+  {
+    "code": "71.06.051.011",
+    "villageCode": "011",
+    "districtCode": "71.06.051",
+    "name": "Warisa Kampung Baru",
+    "alias": "Warisa Kampung Baru"
+  },
+  {
+    "code": "71.06.051.012",
+    "villageCode": "012",
+    "districtCode": "71.06.051",
+    "name": "Paniki Baru",
+    "alias": "Paniki Baru"
+  }
+]

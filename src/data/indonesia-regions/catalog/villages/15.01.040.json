@@ -1,0 +1,93 @@
+[
+  {
+    "code": "15.01.040.001",
+    "villageCode": "001",
+    "districtCode": "15.01.040",
+    "name": "Sanggaran Agung",
+    "alias": "Sanggaran Agung"
+  },
+  {
+    "code": "15.01.040.002",
+    "villageCode": "002",
+    "districtCode": "15.01.040",
+    "name": "Talang Kemulun",
+    "alias": "Talang Kemulun"
+  },
+  {
+    "code": "15.01.040.003",
+    "villageCode": "003",
+    "districtCode": "15.01.040",
+    "name": "Kotobaru Sanggaran Agung",
+    "alias": "Kotobaru Sanggaran Agung"
+  },
+  {
+    "code": "15.01.040.004",
+    "villageCode": "004",
+    "districtCode": "15.01.040",
+    "name": "Pendung Talang Genting",
+    "alias": "Pendung Talang Genting"
+  },
+  {
+    "code": "15.01.040.005",
+    "villageCode": "005",
+    "districtCode": "15.01.040",
+    "name": "Koto Tengah",
+    "alias": "Koto Tengah"
+  },
+  {
+    "code": "15.01.040.006",
+    "villageCode": "006",
+    "districtCode": "15.01.040",
+    "name": "Seleman",
+    "alias": "Seleman"
+  },
+  {
+    "code": "15.01.040.007",
+    "villageCode": "007",
+    "districtCode": "15.01.040",
+    "name": "Tebing Tinggi",
+    "alias": "Tebing Tinggi"
+  },
+  {
+    "code": "15.01.040.008",
+    "villageCode": "008",
+    "districtCode": "15.01.040",
+    "name": "Tanjung Tanah",
+    "alias": "Tanjung Tanah"
+  },
+  {
+    "code": "15.01.040.011",
+    "villageCode": "011",
+    "districtCode": "15.01.040",
+    "name": "Simpang Empat",
+    "alias": "Simpang Empat"
+  },
+  {
+    "code": "15.01.040.012",
+    "villageCode": "012",
+    "districtCode": "15.01.040",
+    "name": "Cupak",
+    "alias": "Cupak"
+  },
+  {
+    "code": "15.01.040.015",
+    "villageCode": "015",
+    "districtCode": "15.01.040",
+    "name": "Pasar Sore Seleman",
+    "alias": "Pasar Sore Seleman"
+  },
+  {
+    "code": "15.01.040.016",
+    "villageCode": "016",
+    "districtCode": "15.01.040",
+    "name": "Dusun Baru Tanjung Tanah",
+    "alias": "Dusun Baru Tanjung Tanah"
+  },
+  {
+    "code": "15.01.040.017",
+    "villageCode": "017",
+    "districtCode": "15.01.040",
+    "name": "Tanjung Harapan",
+    "alias": "Tanjung Harapan"
+  }
+]

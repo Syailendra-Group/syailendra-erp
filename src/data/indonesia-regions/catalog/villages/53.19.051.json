@@ -1,0 +1,128 @@
+[
+  {
+    "code": "53.19.051.001",
+    "villageCode": "001",
+    "districtCode": "53.19.051",
+    "name": "Rende Nao",
+    "alias": "Rende Nao"
+  },
+  {
+    "code": "53.19.051.002",
+    "villageCode": "002",
+    "districtCode": "53.19.051",
+    "name": "Ulu Wae",
+    "alias": "Ulu Wae"
+  },
+  {
+    "code": "53.19.051.003",
+    "villageCode": "003",
+    "districtCode": "53.19.051",
+    "name": "Ngkiong Dora",
+    "alias": "Ngkiong Dora"
+  },
+  {
+    "code": "53.19.051.004",
+    "villageCode": "004",
+    "districtCode": "53.19.051",
+    "name": "Wangkar Weli",
+    "alias": "Wangkar Weli"
+  },
+  {
+    "code": "53.19.051.005",
+    "villageCode": "005",
+    "districtCode": "53.19.051",
+    "name": "Rengkam",
+    "alias": "Rengkam"
+  },
+  {
+    "code": "53.19.051.006",
+    "villageCode": "006",
+    "districtCode": "53.19.051",
+    "name": "Golo Lero",
+    "alias": "Golo Lero"
+  },
+  {
+    "code": "53.19.051.007",
+    "villageCode": "007",
+    "districtCode": "53.19.051",
+    "name": "Tango Molas",
+    "alias": "Tango Molas"
+  },
+  {
+    "code": "53.19.051.008",
+    "villageCode": "008",
+    "districtCode": "53.19.051",
+    "name": "Arus",
+    "alias": "Arus"
+  },
+  {
+    "code": "53.19.051.009",
+    "villageCode": "009",
+    "districtCode": "53.19.051",
+    "name": "Watu Arus",
+    "alias": "Watu Arus"
+  },
+  {
+    "code": "53.19.051.010",
+    "villageCode": "010",
+    "districtCode": "53.19.051",
+    "name": "Benteng Rampas",
+    "alias": "Benteng Rampas"
+  },
+  {
+    "code": "53.19.051.011",
+    "villageCode": "011",
+    "districtCode": "53.19.051",
+    "name": "Compang Wunis",
+    "alias": "Compang Wunis"
+  },
+  {
+    "code": "53.19.051.012",
+    "villageCode": "012",
+    "districtCode": "53.19.051",
+    "name": "Wejang Mali",
+    "alias": "Wejang Mali"
+  },
+  {
+    "code": "53.19.051.013",
+    "villageCode": "013",
+    "districtCode": "53.19.051",
+    "name": "Colol",
+    "alias": "Colol"
+  },
+  {
+    "code": "53.19.051.014",
+    "villageCode": "014",
+    "districtCode": "53.19.051",
+    "name": "Urung Dora",
+    "alias": "Urung Dora"
+  },
+  {
+    "code": "53.19.051.015",
+    "villageCode": "015",
+    "districtCode": "53.19.051",
+    "name": "Compang Raci",
+    "alias": "Compang Raci"
+  },
+  {
+    "code": "53.19.051.016",
+    "villageCode": "016",
+    "districtCode": "53.19.051",
+    "name": "Bangka Arus",
+    "alias": "Bangka Arus"
+  },
+  {
+    "code": "53.19.051.017",
+    "villageCode": "017",
+    "districtCode": "53.19.051",
+    "name": "Benteng Wunis",
+    "alias": "Benteng Wunis"
+  },
+  {
+    "code": "53.19.051.018",
+    "villageCode": "018",
+    "districtCode": "53.19.051",
+    "name": "Wejang Mawe",
+    "alias": "Wejang Mawe"
+  }
+]

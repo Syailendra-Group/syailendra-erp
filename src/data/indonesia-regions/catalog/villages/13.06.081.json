@@ -1,0 +1,23 @@
+[
+  {
+    "code": "13.06.081.001",
+    "villageCode": "001",
+    "districtCode": "13.06.081",
+    "name": "Gasan Gadang",
+    "alias": "Gasan Gadang"
+  },
+  {
+    "code": "13.06.081.002",
+    "villageCode": "002",
+    "districtCode": "13.06.081",
+    "name": "Malai V Suku",
+    "alias": "Malai V Suku"
+  },
+  {
+    "code": "13.06.081.003",
+    "villageCode": "003",
+    "districtCode": "13.06.081",
+    "name": "Malai V Suku Timur",
+    "alias": "Malai V Suku Timur"
+  }
+]

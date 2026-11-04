@@ -1,0 +1,51 @@
+[
+  {
+    "code": "96.02.050.001",
+    "villageCode": "001",
+    "districtCode": "96.02.050",
+    "name": "Abaimaida",
+    "alias": "Abaimaida"
+  },
+  {
+    "code": "96.02.050.002",
+    "villageCode": "002",
+    "districtCode": "96.02.050",
+    "name": "Bomomani",
+    "alias": "Bomomani"
+  },
+  {
+    "code": "96.02.050.003",
+    "villageCode": "003",
+    "districtCode": "96.02.050",
+    "name": "Gapoya",
+    "alias": "Gapoya"
+  },
+  {
+    "code": "96.02.050.004",
+    "villageCode": "004",
+    "districtCode": "96.02.050",
+    "name": "Diyoudimi",
+    "alias": "Diyoudimi"
+  },
+  {
+    "code": "96.02.050.005",
+    "villageCode": "005",
+    "districtCode": "96.02.050",
+    "name": "Obaikagopa",
+    "alias": "Obaikagopa"
+  },
+  {
+    "code": "96.02.050.006",
+    "villageCode": "006",
+    "districtCode": "96.02.050",
+    "name": "Magode",
+    "alias": "Magode"
+  },
+  {
+    "code": "96.02.050.007",
+    "villageCode": "007",
+    "districtCode": "96.02.050",
+    "name": "Dawaikunu",
+    "alias": "Dawaikunu"
+  }
+]

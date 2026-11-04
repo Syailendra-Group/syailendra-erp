@@ -1,0 +1,37 @@
+[
+  {
+    "code": "71.73.021.001",
+    "villageCode": "001",
+    "districtCode": "71.73.021",
+    "name": "Paslaten Dua",
+    "alias": "Paslaten Dua"
+  },
+  {
+    "code": "71.73.021.002",
+    "villageCode": "002",
+    "districtCode": "71.73.021",
+    "name": "Paslaten Satu",
+    "alias": "Paslaten Satu"
+  },
+  {
+    "code": "71.73.021.003",
+    "villageCode": "003",
+    "districtCode": "71.73.021",
+    "name": "Rurukan",
+    "alias": "Rurukan"
+  },
+  {
+    "code": "71.73.021.004",
+    "villageCode": "004",
+    "districtCode": "71.73.021",
+    "name": "Rurukan Satu",
+    "alias": "Rurukan Satu"
+  },
+  {
+    "code": "71.73.021.005",
+    "villageCode": "005",
+    "districtCode": "71.73.021",
+    "name": "Kumelembuai",
+    "alias": "Kumelembuai"
+  }
+]

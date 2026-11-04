@@ -1,0 +1,58 @@
+[
+  {
+    "code": "13.03.130.001",
+    "villageCode": "001",
+    "districtCode": "13.03.130",
+    "name": "Kacang",
+    "alias": "Kacang"
+  },
+  {
+    "code": "13.03.130.002",
+    "villageCode": "002",
+    "districtCode": "13.03.130",
+    "name": "Tikalak",
+    "alias": "Tikalak"
+  },
+  {
+    "code": "13.03.130.003",
+    "villageCode": "003",
+    "districtCode": "13.03.130",
+    "name": "Singkarak",
+    "alias": "Singkarak"
+  },
+  {
+    "code": "13.03.130.004",
+    "villageCode": "004",
+    "districtCode": "13.03.130",
+    "name": "Sumani",
+    "alias": "Sumani"
+  },
+  {
+    "code": "13.03.130.005",
+    "villageCode": "005",
+    "districtCode": "13.03.130",
+    "name": "Saniang Baka",
+    "alias": "Saniang Baka"
+  },
+  {
+    "code": "13.03.130.006",
+    "villageCode": "006",
+    "districtCode": "13.03.130",
+    "name": "Koto Sani",
+    "alias": "Koto Sani"
+  },
+  {
+    "code": "13.03.130.007",
+    "villageCode": "007",
+    "districtCode": "13.03.130",
+    "name": "Tanjuang Alai",
+    "alias": "Tanjuang Alai"
+  },
+  {
+    "code": "13.03.130.008",
+    "villageCode": "008",
+    "districtCode": "13.03.130",
+    "name": "Aripan",
+    "alias": "Aripan"
+  }
+]

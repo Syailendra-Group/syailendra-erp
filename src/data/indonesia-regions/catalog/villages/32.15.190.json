@@ -1,0 +1,72 @@
+[
+  {
+    "code": "32.15.190.001",
+    "villageCode": "001",
+    "districtCode": "32.15.190",
+    "name": "Kutaampel",
+    "alias": "Kutaampel"
+  },
+  {
+    "code": "32.15.190.002",
+    "villageCode": "002",
+    "districtCode": "32.15.190",
+    "name": "Karyamakmur",
+    "alias": "Karyamakmur"
+  },
+  {
+    "code": "32.15.190.003",
+    "villageCode": "003",
+    "districtCode": "32.15.190",
+    "name": "Karyamulya",
+    "alias": "Karyamulya"
+  },
+  {
+    "code": "32.15.190.004",
+    "villageCode": "004",
+    "districtCode": "32.15.190",
+    "name": "Telukbango",
+    "alias": "Telukbango"
+  },
+  {
+    "code": "32.15.190.005",
+    "villageCode": "005",
+    "districtCode": "32.15.190",
+    "name": "Telukambulu",
+    "alias": "Telukambulu"
+  },
+  {
+    "code": "32.15.190.006",
+    "villageCode": "006",
+    "districtCode": "32.15.190",
+    "name": "Karyabhakti",
+    "alias": "Karyabhakti"
+  },
+  {
+    "code": "32.15.190.007",
+    "villageCode": "007",
+    "districtCode": "32.15.190",
+    "name": "Baturaden",
+    "alias": "Baturaden"
+  },
+  {
+    "code": "32.15.190.008",
+    "villageCode": "008",
+    "districtCode": "32.15.190",
+    "name": "Batujaya",
+    "alias": "Batujaya"
+  },
+  {
+    "code": "32.15.190.009",
+    "villageCode": "009",
+    "districtCode": "32.15.190",
+    "name": "Segaran",
+    "alias": "Segaran"
+  },
+  {
+    "code": "32.15.190.010",
+    "villageCode": "010",
+    "districtCode": "32.15.190",
+    "name": "Segarjaya",
+    "alias": "Segarjaya"
+  }
+]

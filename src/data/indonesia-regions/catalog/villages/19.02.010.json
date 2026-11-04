@@ -1,0 +1,86 @@
+[
+  {
+    "code": "19.02.010.001",
+    "villageCode": "001",
+    "districtCode": "19.02.010",
+    "name": "Pulau Seliu",
+    "alias": "Pulau Seliu"
+  },
+  {
+    "code": "19.02.010.002",
+    "villageCode": "002",
+    "districtCode": "19.02.010",
+    "name": "Membalong",
+    "alias": "Membalong"
+  },
+  {
+    "code": "19.02.010.003",
+    "villageCode": "003",
+    "districtCode": "19.02.010",
+    "name": "Mentigi",
+    "alias": "Mentigi"
+  },
+  {
+    "code": "19.02.010.004",
+    "villageCode": "004",
+    "districtCode": "19.02.010",
+    "name": "Tanjung Rusa",
+    "alias": "Tanjung Rusa"
+  },
+  {
+    "code": "19.02.010.005",
+    "villageCode": "005",
+    "districtCode": "19.02.010",
+    "name": "Kembiri",
+    "alias": "Kembiri"
+  },
+  {
+    "code": "19.02.010.006",
+    "villageCode": "006",
+    "districtCode": "19.02.010",
+    "name": "Perpat",
+    "alias": "Perpat"
+  },
+  {
+    "code": "19.02.010.007",
+    "villageCode": "007",
+    "districtCode": "19.02.010",
+    "name": "Lassar",
+    "alias": "Lassar"
+  },
+  {
+    "code": "19.02.010.008",
+    "villageCode": "008",
+    "districtCode": "19.02.010",
+    "name": "Simpang Rusa",
+    "alias": "Simpang Rusa"
+  },
+  {
+    "code": "19.02.010.009",
+    "villageCode": "009",
+    "districtCode": "19.02.010",
+    "name": "Bantan",
+    "alias": "Bantan"
+  },
+  {
+    "code": "19.02.010.010",
+    "villageCode": "010",
+    "districtCode": "19.02.010",
+    "name": "Pulau Sumedang",
+    "alias": "Pulau Sumedang"
+  },
+  {
+    "code": "19.02.010.011",
+    "villageCode": "011",
+    "districtCode": "19.02.010",
+    "name": "Gunung Riting",
+    "alias": "Gunung Riting"
+  },
+  {
+    "code": "19.02.010.012",
+    "villageCode": "012",
+    "districtCode": "19.02.010",
+    "name": "Padang Kandis",
+    "alias": "Padang Kandis"
+  }
+]

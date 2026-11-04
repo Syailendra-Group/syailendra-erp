@@ -1,0 +1,107 @@
+[
+  {
+    "code": "15.01.011.001",
+    "villageCode": "001",
+    "districtCode": "15.01.011",
+    "name": "Pasar Kerman",
+    "alias": "Pasar Kerman"
+  },
+  {
+    "code": "15.01.011.002",
+    "villageCode": "002",
+    "districtCode": "15.01.011",
+    "name": "Lolo Hilir",
+    "alias": "Lolo Hilir"
+  },
+  {
+    "code": "15.01.011.003",
+    "villageCode": "003",
+    "districtCode": "15.01.011",
+    "name": "Lolo Gedang",
+    "alias": "Lolo Gedang"
+  },
+  {
+    "code": "15.01.011.004",
+    "villageCode": "004",
+    "districtCode": "15.01.011",
+    "name": "Lolo Kecil",
+    "alias": "Lolo Kecil"
+  },
+  {
+    "code": "15.01.011.005",
+    "villageCode": "005",
+    "districtCode": "15.01.011",
+    "name": "Talang Kemuning",
+    "alias": "Talang Kemuning"
+  },
+  {
+    "code": "15.01.011.006",
+    "villageCode": "006",
+    "districtCode": "15.01.011",
+    "name": "Tanjung Syam",
+    "alias": "Tanjung Syam"
+  },
+  {
+    "code": "15.01.011.007",
+    "villageCode": "007",
+    "districtCode": "15.01.011",
+    "name": "Bintang Marak",
+    "alias": "Bintang Marak"
+  },
+  {
+    "code": "15.01.011.008",
+    "villageCode": "008",
+    "districtCode": "15.01.011",
+    "name": "Pulau Sangkar",
+    "alias": "Pulau Sangkar"
+  },
+  {
+    "code": "15.01.011.009",
+    "villageCode": "009",
+    "districtCode": "15.01.011",
+    "name": "Pondok",
+    "alias": "Pondok"
+  },
+  {
+    "code": "15.01.011.010",
+    "villageCode": "010",
+    "districtCode": "15.01.011",
+    "name": "Muak",
+    "alias": "Muak"
+  },
+  {
+    "code": "15.01.011.011",
+    "villageCode": "011",
+    "districtCode": "15.01.011",
+    "name": "Pulau Pandan",
+    "alias": "Pulau Pandan"
+  },
+  {
+    "code": "15.01.011.012",
+    "villageCode": "012",
+    "districtCode": "15.01.011",
+    "name": "Pengasi Lama",
+    "alias": "Pengasi Lama"
+  },
+  {
+    "code": "15.01.011.013",
+    "villageCode": "013",
+    "districtCode": "15.01.011",
+    "name": "Karang Pandan",
+    "alias": "Karang Pandan"
+  },
+  {
+    "code": "15.01.011.014",
+    "villageCode": "014",
+    "districtCode": "15.01.011",
+    "name": "Pengasi Baru",
+    "alias": "Pengasi Baru"
+  },
+  {
+    "code": "15.01.011.015",
+    "villageCode": "015",
+    "districtCode": "15.01.011",
+    "name": "Muaro Lulo",
+    "alias": "Muaro Lulo"
+  }
+]

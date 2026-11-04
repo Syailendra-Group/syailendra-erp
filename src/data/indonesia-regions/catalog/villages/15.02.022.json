@@ -1,0 +1,44 @@
+[
+  {
+    "code": "15.02.022.001",
+    "villageCode": "001",
+    "districtCode": "15.02.022",
+    "name": "Sekancing",
+    "alias": "Sekancing"
+  },
+  {
+    "code": "15.02.022.002",
+    "villageCode": "002",
+    "districtCode": "15.02.022",
+    "name": "Beringin Sanggul",
+    "alias": "Beringin Sanggul"
+  },
+  {
+    "code": "15.02.022.003",
+    "villageCode": "003",
+    "districtCode": "15.02.022",
+    "name": "Rantau Limau Kapas",
+    "alias": "Rantau Limau Kapas"
+  },
+  {
+    "code": "15.02.022.004",
+    "villageCode": "004",
+    "districtCode": "15.02.022",
+    "name": "Sekancing Ilir",
+    "alias": "Sekancing Ilir"
+  },
+  {
+    "code": "15.02.022.005",
+    "villageCode": "005",
+    "districtCode": "15.02.022",
+    "name": "Baru Bukit Punjung",
+    "alias": "Baru Bukit Punjung"
+  },
+  {
+    "code": "15.02.022.006",
+    "villageCode": "006",
+    "districtCode": "15.02.022",
+    "name": "Baru Sungai Sakai",
+    "alias": "Baru Sungai Sakai"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "code": "33.01.121.001",
+    "villageCode": "001",
+    "districtCode": "33.01.121",
+    "name": "Ujunggagak",
+    "alias": "Ujunggagak"
+  },
+  {
+    "code": "33.01.121.002",
+    "villageCode": "002",
+    "districtCode": "33.01.121",
+    "name": "Klaces",
+    "alias": "Klaces"
+  },
+  {
+    "code": "33.01.121.003",
+    "villageCode": "003",
+    "districtCode": "33.01.121",
+    "name": "Ujungalang",
+    "alias": "Ujungalang"
+  },
+  {
+    "code": "33.01.121.004",
+    "villageCode": "004",
+    "districtCode": "33.01.121",
+    "name": "Panikel",
+    "alias": "Panikel"
+  }
+]

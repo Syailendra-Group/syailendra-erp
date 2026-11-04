@@ -1,0 +1,107 @@
+[
+  {
+    "code": "64.04.050.001",
+    "villageCode": "001",
+    "districtCode": "64.04.050",
+    "name": "Kerayaan",
+    "alias": "Kerayaan"
+  },
+  {
+    "code": "64.04.050.002",
+    "villageCode": "002",
+    "districtCode": "64.04.050",
+    "name": "Benua Baru Ilir",
+    "alias": "Benua Baru Ilir"
+  },
+  {
+    "code": "64.04.050.003",
+    "villageCode": "003",
+    "districtCode": "64.04.050",
+    "name": "Sempayau",
+    "alias": "Sempayau"
+  },
+  {
+    "code": "64.04.050.004",
+    "villageCode": "004",
+    "districtCode": "64.04.050",
+    "name": "Tepian Terap",
+    "alias": "Tepian Terap"
+  },
+  {
+    "code": "64.04.050.005",
+    "villageCode": "005",
+    "districtCode": "64.04.050",
+    "name": "Pelawan",
+    "alias": "Pelawan"
+  },
+  {
+    "code": "64.04.050.006",
+    "villageCode": "006",
+    "districtCode": "64.04.050",
+    "name": "Mandu Dalam",
+    "alias": "Mandu Dalam"
+  },
+  {
+    "code": "64.04.050.007",
+    "villageCode": "007",
+    "districtCode": "64.04.050",
+    "name": "Saka",
+    "alias": "Saka"
+  },
+  {
+    "code": "64.04.050.008",
+    "villageCode": "008",
+    "districtCode": "64.04.050",
+    "name": "Peridan",
+    "alias": "Peridan"
+  },
+  {
+    "code": "64.04.050.009",
+    "villageCode": "009",
+    "districtCode": "64.04.050",
+    "name": "Tanjung Manis",
+    "alias": "Tanjung Manis"
+  },
+  {
+    "code": "64.04.050.010",
+    "villageCode": "010",
+    "districtCode": "64.04.050",
+    "name": "Maloy",
+    "alias": "Maloy"
+  },
+  {
+    "code": "64.04.050.011",
+    "villageCode": "011",
+    "districtCode": "64.04.050",
+    "name": "Benua Baru Ulu",
+    "alias": "Benua Baru Ulu"
+  },
+  {
+    "code": "64.04.050.012",
+    "villageCode": "012",
+    "districtCode": "64.04.050",
+    "name": "Kolek",
+    "alias": "Kolek"
+  },
+  {
+    "code": "64.04.050.013",
+    "villageCode": "013",
+    "districtCode": "64.04.050",
+    "name": "Pulau Miang",
+    "alias": "Pulau Miang"
+  },
+  {
+    "code": "64.04.050.014",
+    "villageCode": "014",
+    "districtCode": "64.04.050",
+    "name": "Perupuk",
+    "alias": "Perupuk"
+  },
+  {
+    "code": "64.04.050.015",
+    "villageCode": "015",
+    "districtCode": "64.04.050",
+    "name": "Mandu Pantai Sejahtera",
+    "alias": "Mandu Pantai Sejahtera"
+  }
+]

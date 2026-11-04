@@ -1,0 +1,90 @@
+[
+  {
+    "code": "11.13.010",
+    "districtCode": "010",
+    "regencyCode": "11.13",
+    "provinceCode": "11",
+    "name": "Kecamatan Kuta Panjang",
+    "alias": "Kuta Panjang"
+  },
+  {
+    "code": "11.13.011",
+    "districtCode": "011",
+    "regencyCode": "11.13",
+    "provinceCode": "11",
+    "name": "Kecamatan Blang Jerango",
+    "alias": "Blang Jerango"
+  },
+  {
+    "code": "11.13.020",
+    "districtCode": "020",
+    "regencyCode": "11.13",
+    "provinceCode": "11",
+    "name": "Kecamatan Blangkejeren",
+    "alias": "Blangkejeren"
+  },
+  {
+    "code": "11.13.021",
+    "districtCode": "021",
+    "regencyCode": "11.13",
+    "provinceCode": "11",
+    "name": "Kecamatan Putri Betung",
+    "alias": "Putri Betung"
+  },
+  {
+    "code": "11.13.022",
+    "districtCode": "022",
+    "regencyCode": "11.13",
+    "provinceCode": "11",
+    "name": "Kecamatan Dabun Gelang",
+    "alias": "Dabun Gelang"
+  },
+  {
+    "code": "11.13.023",
+    "districtCode": "023",
+    "regencyCode": "11.13",
+    "provinceCode": "11",
+    "name": "Kecamatan Blang Pegayon",
+    "alias": "Blang Pegayon"
+  },
+  {
+    "code": "11.13.030",
+    "districtCode": "030",
+    "regencyCode": "11.13",
+    "provinceCode": "11",
+    "name": "Kecamatan Pining",
+    "alias": "Pining"
+  },
+  {
+    "code": "11.13.040",
+    "districtCode": "040",
+    "regencyCode": "11.13",
+    "provinceCode": "11",
+    "name": "Kecamatan Rikit Gaib",
+    "alias": "Rikit Gaib"
+  },
+  {
+    "code": "11.13.041",
+    "districtCode": "041",
+    "regencyCode": "11.13",
+    "provinceCode": "11",
+    "name": "Kecamatan Pantan Cuaca",
+    "alias": "Pantan Cuaca"
+  },
+  {
+    "code": "11.13.050",
+    "districtCode": "050",
+    "regencyCode": "11.13",
+    "provinceCode": "11",
+    "name": "Kecamatan Terangun",
+    "alias": "Terangun"
+  },
+  {
+    "code": "11.13.051",
+    "districtCode": "051",
+    "regencyCode": "11.13",
+    "provinceCode": "11",
+    "name": "Kecamatan Tripe Jaya",
+    "alias": "Tripe Jaya"
+  }
+]

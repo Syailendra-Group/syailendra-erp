@@ -1,0 +1,72 @@
+[
+  {
+    "code": "32.04.190.002",
+    "villageCode": "002",
+    "districtCode": "32.04.190",
+    "name": "Sadu",
+    "alias": "Sadu"
+  },
+  {
+    "code": "32.04.190.003",
+    "villageCode": "003",
+    "districtCode": "32.04.190",
+    "name": "Sukajadi",
+    "alias": "Sukajadi"
+  },
+  {
+    "code": "32.04.190.004",
+    "villageCode": "004",
+    "districtCode": "32.04.190",
+    "name": "Sukanagara",
+    "alias": "Sukanagara"
+  },
+  {
+    "code": "32.04.190.005",
+    "villageCode": "005",
+    "districtCode": "32.04.190",
+    "name": "Panyirapan",
+    "alias": "Panyirapan"
+  },
+  {
+    "code": "32.04.190.006",
+    "villageCode": "006",
+    "districtCode": "32.04.190",
+    "name": "Karamatmulya",
+    "alias": "Karamatmulya"
+  },
+  {
+    "code": "32.04.190.007",
+    "villageCode": "007",
+    "districtCode": "32.04.190",
+    "name": "Soreang",
+    "alias": "Soreang"
+  },
+  {
+    "code": "32.04.190.008",
+    "villageCode": "008",
+    "districtCode": "32.04.190",
+    "name": "Pamekaran",
+    "alias": "Pamekaran"
+  },
+  {
+    "code": "32.04.190.019",
+    "villageCode": "019",
+    "districtCode": "32.04.190",
+    "name": "Parungserab",
+    "alias": "Parungserab"
+  },
+  {
+    "code": "32.04.190.020",
+    "villageCode": "020",
+    "districtCode": "32.04.190",
+    "name": "Sekarwangi",
+    "alias": "Sekarwangi"
+  },
+  {
+    "code": "32.04.190.021",
+    "villageCode": "021",
+    "districtCode": "32.04.190",
+    "name": "Cingcin",
+    "alias": "Cingcin"
+  }
+]

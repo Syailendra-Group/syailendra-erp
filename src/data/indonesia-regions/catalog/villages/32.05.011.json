@@ -1,0 +1,44 @@
+[
+  {
+    "code": "32.05.011.001",
+    "villageCode": "001",
+    "districtCode": "32.05.011",
+    "name": "Cimahi",
+    "alias": "Cimahi"
+  },
+  {
+    "code": "32.05.011.002",
+    "villageCode": "002",
+    "districtCode": "32.05.011",
+    "name": "Indralayang",
+    "alias": "Indralayang"
+  },
+  {
+    "code": "32.05.011.003",
+    "villageCode": "003",
+    "districtCode": "32.05.011",
+    "name": "Purbayani",
+    "alias": "Purbayani"
+  },
+  {
+    "code": "32.05.011.004",
+    "villageCode": "004",
+    "districtCode": "32.05.011",
+    "name": "Caringin",
+    "alias": "Caringin"
+  },
+  {
+    "code": "32.05.011.005",
+    "villageCode": "005",
+    "districtCode": "32.05.011",
+    "name": "Sukarame",
+    "alias": "Sukarame"
+  },
+  {
+    "code": "32.05.011.006",
+    "villageCode": "006",
+    "districtCode": "32.05.011",
+    "name": "Samudrajaya",
+    "alias": "Samudrajaya"
+  }
+]

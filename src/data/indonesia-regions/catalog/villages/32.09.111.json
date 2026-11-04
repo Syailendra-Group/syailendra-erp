@@ -1,0 +1,79 @@
+[
+  {
+    "code": "32.09.111.001",
+    "villageCode": "001",
+    "districtCode": "32.09.111",
+    "name": "Sampiran",
+    "alias": "Sampiran"
+  },
+  {
+    "code": "32.09.111.002",
+    "villageCode": "002",
+    "districtCode": "32.09.111",
+    "name": "Ciperna",
+    "alias": "Ciperna"
+  },
+  {
+    "code": "32.09.111.003",
+    "villageCode": "003",
+    "districtCode": "32.09.111",
+    "name": "Kecomberan",
+    "alias": "Kecomberan"
+  },
+  {
+    "code": "32.09.111.004",
+    "villageCode": "004",
+    "districtCode": "32.09.111",
+    "name": "Cirebon Girang",
+    "alias": "Cirebon Girang"
+  },
+  {
+    "code": "32.09.111.005",
+    "villageCode": "005",
+    "districtCode": "32.09.111",
+    "name": "Kerandon",
+    "alias": "Kerandon"
+  },
+  {
+    "code": "32.09.111.006",
+    "villageCode": "006",
+    "districtCode": "32.09.111",
+    "name": "Wanasaba Kidul",
+    "alias": "Wanasaba Kidul"
+  },
+  {
+    "code": "32.09.111.007",
+    "villageCode": "007",
+    "districtCode": "32.09.111",
+    "name": "Wanasaba Lor",
+    "alias": "Wanasaba Lor"
+  },
+  {
+    "code": "32.09.111.012",
+    "villageCode": "012",
+    "districtCode": "32.09.111",
+    "name": "Cempaka",
+    "alias": "Cempaka"
+  },
+  {
+    "code": "32.09.111.013",
+    "villageCode": "013",
+    "districtCode": "32.09.111",
+    "name": "Kepongpongan",
+    "alias": "Kepongpongan"
+  },
+  {
+    "code": "32.09.111.014",
+    "villageCode": "014",
+    "districtCode": "32.09.111",
+    "name": "Kubang",
+    "alias": "Kubang"
+  },
+  {
+    "code": "32.09.111.015",
+    "villageCode": "015",
+    "districtCode": "32.09.111",
+    "name": "Sarwadadi",
+    "alias": "Sarwadadi"
+  }
+]

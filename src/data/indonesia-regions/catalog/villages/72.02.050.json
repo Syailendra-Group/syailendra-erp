@@ -1,0 +1,72 @@
+[
+  {
+    "code": "72.02.050.008",
+    "villageCode": "008",
+    "districtCode": "72.02.050",
+    "name": "Tontouan",
+    "alias": "Tontouan"
+  },
+  {
+    "code": "72.02.050.009",
+    "villageCode": "009",
+    "districtCode": "72.02.050",
+    "name": "Luwuk",
+    "alias": "Luwuk"
+  },
+  {
+    "code": "72.02.050.010",
+    "villageCode": "010",
+    "districtCode": "72.02.050",
+    "name": "Baru",
+    "alias": "Baru"
+  },
+  {
+    "code": "72.02.050.011",
+    "villageCode": "011",
+    "districtCode": "72.02.050",
+    "name": "Soho",
+    "alias": "Soho"
+  },
+  {
+    "code": "72.02.050.012",
+    "villageCode": "012",
+    "districtCode": "72.02.050",
+    "name": "Bungin",
+    "alias": "Bungin"
+  },
+  {
+    "code": "72.02.050.013",
+    "villageCode": "013",
+    "districtCode": "72.02.050",
+    "name": "Lumpoknyo",
+    "alias": "Lumpoknyo"
+  },
+  {
+    "code": "72.02.050.023",
+    "villageCode": "023",
+    "districtCode": "72.02.050",
+    "name": "Karaton",
+    "alias": "Karaton"
+  },
+  {
+    "code": "72.02.050.025",
+    "villageCode": "025",
+    "districtCode": "72.02.050",
+    "name": "Keleke",
+    "alias": "Keleke"
+  },
+  {
+    "code": "72.02.050.026",
+    "villageCode": "026",
+    "districtCode": "72.02.050",
+    "name": "Bungin Timur",
+    "alias": "Bungin Timur"
+  },
+  {
+    "code": "72.02.050.027",
+    "villageCode": "027",
+    "districtCode": "72.02.050",
+    "name": "Mangkio Baru",
+    "alias": "Mangkio Baru"
+  }
+]

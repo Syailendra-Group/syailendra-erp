@@ -1,0 +1,121 @@
+[
+  {
+    "code": "35.15.140.001",
+    "villageCode": "001",
+    "districtCode": "35.15.140",
+    "name": "Medaeng",
+    "alias": "Medaeng"
+  },
+  {
+    "code": "35.15.140.002",
+    "villageCode": "002",
+    "districtCode": "35.15.140",
+    "name": "Pepelegi",
+    "alias": "Pepelegi"
+  },
+  {
+    "code": "35.15.140.003",
+    "villageCode": "003",
+    "districtCode": "35.15.140",
+    "name": "Waru",
+    "alias": "Waru"
+  },
+  {
+    "code": "35.15.140.004",
+    "villageCode": "004",
+    "districtCode": "35.15.140",
+    "name": "Kureksari",
+    "alias": "Kureksari"
+  },
+  {
+    "code": "35.15.140.005",
+    "villageCode": "005",
+    "districtCode": "35.15.140",
+    "name": "Ngingas",
+    "alias": "Ngingas"
+  },
+  {
+    "code": "35.15.140.006",
+    "villageCode": "006",
+    "districtCode": "35.15.140",
+    "name": "Tropodo",
+    "alias": "Tropodo"
+  },
+  {
+    "code": "35.15.140.007",
+    "villageCode": "007",
+    "districtCode": "35.15.140",
+    "name": "Tambak Sawah",
+    "alias": "Tambak Sawah"
+  },
+  {
+    "code": "35.15.140.008",
+    "villageCode": "008",
+    "districtCode": "35.15.140",
+    "name": "Tambak Rejo",
+    "alias": "Tambak Rejo"
+  },
+  {
+    "code": "35.15.140.009",
+    "villageCode": "009",
+    "districtCode": "35.15.140",
+    "name": "Tambak Oso",
+    "alias": "Tambak Oso"
+  },
+  {
+    "code": "35.15.140.010",
+    "villageCode": "010",
+    "districtCode": "35.15.140",
+    "name": "Tambak Sumur",
+    "alias": "Tambak Sumur"
+  },
+  {
+    "code": "35.15.140.011",
+    "villageCode": "011",
+    "districtCode": "35.15.140",
+    "name": "Wadungasri",
+    "alias": "Wadungasri"
+  },
+  {
+    "code": "35.15.140.012",
+    "villageCode": "012",
+    "districtCode": "35.15.140",
+    "name": "Berbek",
+    "alias": "Berbek"
+  },
+  {
+    "code": "35.15.140.013",
+    "villageCode": "013",
+    "districtCode": "35.15.140",
+    "name": "Kepuh Kiriman",
+    "alias": "Kepuh Kiriman"
+  },
+  {
+    "code": "35.15.140.014",
+    "villageCode": "014",
+    "districtCode": "35.15.140",
+    "name": "Wedoro",
+    "alias": "Wedoro"
+  },
+  {
+    "code": "35.15.140.015",
+    "villageCode": "015",
+    "districtCode": "35.15.140",
+    "name": "Janti",
+    "alias": "Janti"
+  },
+  {
+    "code": "35.15.140.016",
+    "villageCode": "016",
+    "districtCode": "35.15.140",
+    "name": "Kedungrejo",
+    "alias": "Kedungrejo"
+  },
+  {
+    "code": "35.15.140.017",
+    "villageCode": "017",
+    "districtCode": "35.15.140",
+    "name": "Bungurasih",
+    "alias": "Bungurasih"
+  }
+]

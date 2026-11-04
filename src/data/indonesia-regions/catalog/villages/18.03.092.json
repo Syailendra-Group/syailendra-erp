@@ -1,0 +1,58 @@
+[
+  {
+    "code": "18.03.092.001",
+    "villageCode": "001",
+    "districtCode": "18.03.092",
+    "name": "Pemulihan",
+    "alias": "Pemulihan"
+  },
+  {
+    "code": "18.03.092.002",
+    "villageCode": "002",
+    "districtCode": "18.03.092",
+    "name": "Purwodadi",
+    "alias": "Purwodadi"
+  },
+  {
+    "code": "18.03.092.003",
+    "villageCode": "003",
+    "districtCode": "18.03.092",
+    "name": "Sukamaju",
+    "alias": "Sukamaju"
+  },
+  {
+    "code": "18.03.092.004",
+    "villageCode": "004",
+    "districtCode": "18.03.092",
+    "name": "Banjarsari",
+    "alias": "Banjarsari"
+  },
+  {
+    "code": "18.03.092.005",
+    "villageCode": "005",
+    "districtCode": "18.03.092",
+    "name": "Karang Pucung",
+    "alias": "Karang Pucung"
+  },
+  {
+    "code": "18.03.092.006",
+    "villageCode": "006",
+    "districtCode": "18.03.092",
+    "name": "Talang Way Sulan",
+    "alias": "Talang Way Sulan"
+  },
+  {
+    "code": "18.03.092.007",
+    "villageCode": "007",
+    "districtCode": "18.03.092",
+    "name": "Sumberagung",
+    "alias": "Sumberagung"
+  },
+  {
+    "code": "18.03.092.008",
+    "villageCode": "008",
+    "districtCode": "18.03.092",
+    "name": "Mekarsari",
+    "alias": "Mekarsari"
+  }
+]

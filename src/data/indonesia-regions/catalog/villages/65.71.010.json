@@ -1,0 +1,51 @@
+[
+  {
+    "code": "65.71.010.001",
+    "villageCode": "001",
+    "districtCode": "65.71.010",
+    "name": "Mamburungan",
+    "alias": "Mamburungan"
+  },
+  {
+    "code": "65.71.010.002",
+    "villageCode": "002",
+    "districtCode": "65.71.010",
+    "name": "Mamburungan Timur",
+    "alias": "Mamburungan Timur"
+  },
+  {
+    "code": "65.71.010.003",
+    "villageCode": "003",
+    "districtCode": "65.71.010",
+    "name": "Pantai Amal",
+    "alias": "Pantai Amal"
+  },
+  {
+    "code": "65.71.010.004",
+    "villageCode": "004",
+    "districtCode": "65.71.010",
+    "name": "Kampung Enam",
+    "alias": "Kampung Enam"
+  },
+  {
+    "code": "65.71.010.005",
+    "villageCode": "005",
+    "districtCode": "65.71.010",
+    "name": "Kampung Empat",
+    "alias": "Kampung Empat"
+  },
+  {
+    "code": "65.71.010.006",
+    "villageCode": "006",
+    "districtCode": "65.71.010",
+    "name": "Gunung Lingkas",
+    "alias": "Gunung Lingkas"
+  },
+  {
+    "code": "65.71.010.007",
+    "villageCode": "007",
+    "districtCode": "65.71.010",
+    "name": "Lingkas Ujung",
+    "alias": "Lingkas Ujung"
+  }
+]

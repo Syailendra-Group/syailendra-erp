@@ -1,0 +1,37 @@
+[
+  {
+    "code": "36.72.031.001",
+    "villageCode": "001",
+    "districtCode": "36.72.031",
+    "name": "Jombang Wetan",
+    "alias": "Jombang Wetan"
+  },
+  {
+    "code": "36.72.031.002",
+    "villageCode": "002",
+    "districtCode": "36.72.031",
+    "name": "Masigit",
+    "alias": "Masigit"
+  },
+  {
+    "code": "36.72.031.003",
+    "villageCode": "003",
+    "districtCode": "36.72.031",
+    "name": "Panggung Rawi",
+    "alias": "Panggung Rawi"
+  },
+  {
+    "code": "36.72.031.004",
+    "villageCode": "004",
+    "districtCode": "36.72.031",
+    "name": "Gedong Dalem",
+    "alias": "Gedong Dalem"
+  },
+  {
+    "code": "36.72.031.005",
+    "villageCode": "005",
+    "districtCode": "36.72.031",
+    "name": "Sukmajaya",
+    "alias": "Sukmajaya"
+  }
+]

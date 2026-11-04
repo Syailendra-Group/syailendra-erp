@@ -1,0 +1,51 @@
+[
+  {
+    "code": "16.73.020.001",
+    "villageCode": "001",
+    "districtCode": "16.73.020",
+    "name": "Burung Dinang",
+    "alias": "Burung Dinang"
+  },
+  {
+    "code": "16.73.020.002",
+    "villageCode": "002",
+    "districtCode": "16.73.020",
+    "name": "Muara Siban",
+    "alias": "Muara Siban"
+  },
+  {
+    "code": "16.73.020.003",
+    "villageCode": "003",
+    "districtCode": "16.73.020",
+    "name": "Reba Tinggi",
+    "alias": "Reba Tinggi"
+  },
+  {
+    "code": "16.73.020.004",
+    "villageCode": "004",
+    "districtCode": "16.73.020",
+    "name": "Jangkar Mas",
+    "alias": "Jangkar Mas"
+  },
+  {
+    "code": "16.73.020.005",
+    "villageCode": "005",
+    "districtCode": "16.73.020",
+    "name": "Pagar Wangi",
+    "alias": "Pagar Wangi"
+  },
+  {
+    "code": "16.73.020.006",
+    "villageCode": "006",
+    "districtCode": "16.73.020",
+    "name": "Bumi Agung",
+    "alias": "Bumi Agung"
+  },
+  {
+    "code": "16.73.020.007",
+    "villageCode": "007",
+    "districtCode": "16.73.020",
+    "name": "Agung Lawangan",
+    "alias": "Agung Lawangan"
+  }
+]

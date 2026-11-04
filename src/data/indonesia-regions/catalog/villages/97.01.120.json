@@ -1,0 +1,30 @@
+[
+  {
+    "code": "97.01.120.001",
+    "villageCode": "001",
+    "districtCode": "97.01.120",
+    "name": "Gin",
+    "alias": "Gin"
+  },
+  {
+    "code": "97.01.120.002",
+    "villageCode": "002",
+    "districtCode": "97.01.120",
+    "name": "Alama",
+    "alias": "Alama"
+  },
+  {
+    "code": "97.01.120.003",
+    "villageCode": "003",
+    "districtCode": "97.01.120",
+    "name": "Nolit",
+    "alias": "Nolit"
+  },
+  {
+    "code": "97.01.120.004",
+    "villageCode": "004",
+    "districtCode": "97.01.120",
+    "name": "Kulesa",
+    "alias": "Kulesa"
+  }
+]

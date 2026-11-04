@@ -1,0 +1,149 @@
+[
+  {
+    "code": "15.01.090.003",
+    "villageCode": "003",
+    "districtCode": "15.01.090",
+    "name": "Sungai Dalam",
+    "alias": "Sungai Dalam"
+  },
+  {
+    "code": "15.01.090.004",
+    "villageCode": "004",
+    "districtCode": "15.01.090",
+    "name": "Koto Tuo",
+    "alias": "Koto Tuo"
+  },
+  {
+    "code": "15.01.090.005",
+    "villageCode": "005",
+    "districtCode": "15.01.090",
+    "name": "Koto Baru",
+    "alias": "Koto Baru"
+  },
+  {
+    "code": "15.01.090.014",
+    "villageCode": "014",
+    "districtCode": "15.01.090",
+    "name": "Bedeng Baru",
+    "alias": "Bedeng Baru"
+  },
+  {
+    "code": "15.01.090.015",
+    "villageCode": "015",
+    "districtCode": "15.01.090",
+    "name": "Sungai Tanduk",
+    "alias": "Sungai Tanduk"
+  },
+  {
+    "code": "15.01.090.016",
+    "villageCode": "016",
+    "districtCode": "15.01.090",
+    "name": "Koto Panjang",
+    "alias": "Koto Panjang"
+  },
+  {
+    "code": "15.01.090.017",
+    "villageCode": "017",
+    "districtCode": "15.01.090",
+    "name": "Sungai Sampun",
+    "alias": "Sungai Sampun"
+  },
+  {
+    "code": "15.01.090.018",
+    "villageCode": "018",
+    "districtCode": "15.01.090",
+    "name": "Koto Tengah",
+    "alias": "Koto Tengah"
+  },
+  {
+    "code": "15.01.090.019",
+    "villageCode": "019",
+    "districtCode": "15.01.090",
+    "name": "Sungai Bendung Air",
+    "alias": "Sungai Bendung Air"
+  },
+  {
+    "code": "15.01.090.023",
+    "villageCode": "023",
+    "districtCode": "15.01.090",
+    "name": "Sangir",
+    "alias": "Sangir"
+  },
+  {
+    "code": "15.01.090.024",
+    "villageCode": "024",
+    "districtCode": "15.01.090",
+    "name": "Batang Sangir",
+    "alias": "Batang Sangir"
+  },
+  {
+    "code": "15.01.090.025",
+    "villageCode": "025",
+    "districtCode": "15.01.090",
+    "name": "Kersik Tuo",
+    "alias": "Kersik Tuo"
+  },
+  {
+    "code": "15.01.090.036",
+    "villageCode": "036",
+    "districtCode": "15.01.090",
+    "name": "Koto Periang",
+    "alias": "Koto Periang"
+  },
+  {
+    "code": "15.01.090.037",
+    "villageCode": "037",
+    "districtCode": "15.01.090",
+    "name": "Lindung Jaya",
+    "alias": "Lindung Jaya"
+  },
+  {
+    "code": "15.01.090.039",
+    "villageCode": "039",
+    "districtCode": "15.01.090",
+    "name": "Pasar Sungai Tanduk",
+    "alias": "Pasar Sungai Tanduk"
+  },
+  {
+    "code": "15.01.090.040",
+    "villageCode": "040",
+    "districtCode": "15.01.090",
+    "name": "Mekar Sari",
+    "alias": "Mekar Sari"
+  },
+  {
+    "code": "15.01.090.041",
+    "villageCode": "041",
+    "districtCode": "15.01.090",
+    "name": "Renah Kasah",
+    "alias": "Renah Kasah"
+  },
+  {
+    "code": "15.01.090.043",
+    "villageCode": "043",
+    "districtCode": "15.01.090",
+    "name": "Mekar Jaya",
+    "alias": "Mekar Jaya"
+  },
+  {
+    "code": "15.01.090.044",
+    "villageCode": "044",
+    "districtCode": "15.01.090",
+    "name": "Sangir Tengah",
+    "alias": "Sangir Tengah"
+  },
+  {
+    "code": "15.01.090.045",
+    "villageCode": "045",
+    "districtCode": "15.01.090",
+    "name": "Bendung Air Timur",
+    "alias": "Bendung Air Timur"
+  },
+  {
+    "code": "15.01.090.046",
+    "villageCode": "046",
+    "districtCode": "15.01.090",
+    "name": "Tanjung Bungo",
+    "alias": "Tanjung Bungo"
+  }
+]

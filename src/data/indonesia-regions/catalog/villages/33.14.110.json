@@ -1,0 +1,86 @@
+[
+  {
+    "code": "33.14.110.001",
+    "villageCode": "001",
+    "districtCode": "33.14.110",
+    "name": "Bentak",
+    "alias": "Bentak"
+  },
+  {
+    "code": "33.14.110.002",
+    "villageCode": "002",
+    "districtCode": "33.14.110",
+    "name": "Purwosuman",
+    "alias": "Purwosuman"
+  },
+  {
+    "code": "33.14.110.003",
+    "villageCode": "003",
+    "districtCode": "33.14.110",
+    "name": "Patihan",
+    "alias": "Patihan"
+  },
+  {
+    "code": "33.14.110.004",
+    "villageCode": "004",
+    "districtCode": "33.14.110",
+    "name": "Duyungan",
+    "alias": "Duyungan"
+  },
+  {
+    "code": "33.14.110.005",
+    "villageCode": "005",
+    "districtCode": "33.14.110",
+    "name": "Jetak",
+    "alias": "Jetak"
+  },
+  {
+    "code": "33.14.110.006",
+    "villageCode": "006",
+    "districtCode": "33.14.110",
+    "name": "Sidoharjo",
+    "alias": "Sidoharjo"
+  },
+  {
+    "code": "33.14.110.007",
+    "villageCode": "007",
+    "districtCode": "33.14.110",
+    "name": "Singopadu",
+    "alias": "Singopadu"
+  },
+  {
+    "code": "33.14.110.008",
+    "villageCode": "008",
+    "districtCode": "33.14.110",
+    "name": "Jambanan",
+    "alias": "Jambanan"
+  },
+  {
+    "code": "33.14.110.009",
+    "villageCode": "009",
+    "districtCode": "33.14.110",
+    "name": "Taraman",
+    "alias": "Taraman"
+  },
+  {
+    "code": "33.14.110.010",
+    "villageCode": "010",
+    "districtCode": "33.14.110",
+    "name": "Tenggak",
+    "alias": "Tenggak"
+  },
+  {
+    "code": "33.14.110.011",
+    "villageCode": "011",
+    "districtCode": "33.14.110",
+    "name": "Sribit",
+    "alias": "Sribit"
+  },
+  {
+    "code": "33.14.110.012",
+    "villageCode": "012",
+    "districtCode": "33.14.110",
+    "name": "Pandak",
+    "alias": "Pandak"
+  }
+]

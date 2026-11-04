@@ -1,0 +1,44 @@
+[
+  {
+    "code": "61.08.190.002",
+    "villageCode": "002",
+    "districtCode": "61.08.190",
+    "name": "Sungai Antu",
+    "alias": "Sungai Antu"
+  },
+  {
+    "code": "61.08.190.003",
+    "villageCode": "003",
+    "districtCode": "61.08.190",
+    "name": "Merakai Panjang",
+    "alias": "Merakai Panjang"
+  },
+  {
+    "code": "61.08.190.004",
+    "villageCode": "004",
+    "districtCode": "61.08.190",
+    "name": "Kantuk Asam",
+    "alias": "Kantuk Asam"
+  },
+  {
+    "code": "61.08.190.005",
+    "villageCode": "005",
+    "districtCode": "61.08.190",
+    "name": "Kantuk Bunut",
+    "alias": "Kantuk Bunut"
+  },
+  {
+    "code": "61.08.190.006",
+    "villageCode": "006",
+    "districtCode": "61.08.190",
+    "name": "Sungai Mawang",
+    "alias": "Sungai Mawang"
+  },
+  {
+    "code": "61.08.190.007",
+    "villageCode": "007",
+    "districtCode": "61.08.190",
+    "name": "Langau",
+    "alias": "Langau"
+  }
+]

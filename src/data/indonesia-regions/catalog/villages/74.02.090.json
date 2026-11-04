@@ -1,0 +1,37 @@
+[
+  {
+    "code": "74.02.090.009",
+    "villageCode": "009",
+    "districtCode": "74.02.090",
+    "name": "Wakorumba",
+    "alias": "Wakorumba"
+  },
+  {
+    "code": "74.02.090.010",
+    "villageCode": "010",
+    "districtCode": "74.02.090",
+    "name": "Pure",
+    "alias": "Pure"
+  },
+  {
+    "code": "74.02.090.011",
+    "villageCode": "011",
+    "districtCode": "74.02.090",
+    "name": "Bakealu",
+    "alias": "Bakealu"
+  },
+  {
+    "code": "74.02.090.012",
+    "villageCode": "012",
+    "districtCode": "74.02.090",
+    "name": "Labunia(Pure)",
+    "alias": "Labunia(Pure)"
+  },
+  {
+    "code": "74.02.090.013",
+    "villageCode": "013",
+    "districtCode": "74.02.090",
+    "name": "Wambona",
+    "alias": "Wambona"
+  }
+]

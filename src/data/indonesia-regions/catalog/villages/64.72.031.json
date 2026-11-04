@@ -1,0 +1,37 @@
+[
+  {
+    "code": "64.72.031.001",
+    "villageCode": "001",
+    "districtCode": "64.72.031",
+    "name": "Sengkotek",
+    "alias": "Sengkotek"
+  },
+  {
+    "code": "64.72.031.002",
+    "villageCode": "002",
+    "districtCode": "64.72.031",
+    "name": "Simpang Tiga",
+    "alias": "Simpang Tiga"
+  },
+  {
+    "code": "64.72.031.003",
+    "villageCode": "003",
+    "districtCode": "64.72.031",
+    "name": "Tani Aman",
+    "alias": "Tani Aman"
+  },
+  {
+    "code": "64.72.031.004",
+    "villageCode": "004",
+    "districtCode": "64.72.031",
+    "name": "Harapan Baru",
+    "alias": "Harapan Baru"
+  },
+  {
+    "code": "64.72.031.005",
+    "villageCode": "005",
+    "districtCode": "64.72.031",
+    "name": "Rapak Dalam",
+    "alias": "Rapak Dalam"
+  }
+]

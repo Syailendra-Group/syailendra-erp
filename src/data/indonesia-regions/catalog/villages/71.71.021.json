@@ -1,0 +1,65 @@
+[
+  {
+    "code": "71.71.021.001",
+    "villageCode": "001",
+    "districtCode": "71.71.021",
+    "name": "Karombasan Utara",
+    "alias": "Karombasan Utara"
+  },
+  {
+    "code": "71.71.021.002",
+    "villageCode": "002",
+    "districtCode": "71.71.021",
+    "name": "Karombasan Selatan",
+    "alias": "Karombasan Selatan"
+  },
+  {
+    "code": "71.71.021.003",
+    "villageCode": "003",
+    "districtCode": "71.71.021",
+    "name": "Ranotana Weru",
+    "alias": "Ranotana Weru"
+  },
+  {
+    "code": "71.71.021.004",
+    "villageCode": "004",
+    "districtCode": "71.71.021",
+    "name": "Pakowa",
+    "alias": "Pakowa"
+  },
+  {
+    "code": "71.71.021.005",
+    "villageCode": "005",
+    "districtCode": "71.71.021",
+    "name": "Bumi Nyiur",
+    "alias": "Bumi Nyiur"
+  },
+  {
+    "code": "71.71.021.006",
+    "villageCode": "006",
+    "districtCode": "71.71.021",
+    "name": "Teling Atas",
+    "alias": "Teling Atas"
+  },
+  {
+    "code": "71.71.021.007",
+    "villageCode": "007",
+    "districtCode": "71.71.021",
+    "name": "Wanea",
+    "alias": "Wanea"
+  },
+  {
+    "code": "71.71.021.008",
+    "villageCode": "008",
+    "districtCode": "71.71.021",
+    "name": "Tanjung Batu",
+    "alias": "Tanjung Batu"
+  },
+  {
+    "code": "71.71.021.009",
+    "villageCode": "009",
+    "districtCode": "71.71.021",
+    "name": "Tingkulu",
+    "alias": "Tingkulu"
+  }
+]

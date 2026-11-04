@@ -1,0 +1,34 @@
+[
+  {
+    "code": "32.79.010",
+    "districtCode": "010",
+    "regencyCode": "32.79",
+    "provinceCode": "32",
+    "name": "Kecamatan Banjar",
+    "alias": "Banjar"
+  },
+  {
+    "code": "32.79.020",
+    "districtCode": "020",
+    "regencyCode": "32.79",
+    "provinceCode": "32",
+    "name": "Kecamatan Purwaharja",
+    "alias": "Purwaharja"
+  },
+  {
+    "code": "32.79.030",
+    "districtCode": "030",
+    "regencyCode": "32.79",
+    "provinceCode": "32",
+    "name": "Kecamatan Pataruman",
+    "alias": "Pataruman"
+  },
+  {
+    "code": "32.79.040",
+    "districtCode": "040",
+    "regencyCode": "32.79",
+    "provinceCode": "32",
+    "name": "Kecamatan Langensari",
+    "alias": "Langensari"
+  }
+]

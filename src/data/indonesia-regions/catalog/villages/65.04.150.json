@@ -1,0 +1,30 @@
+[
+  {
+    "code": "65.04.150.001",
+    "villageCode": "001",
+    "districtCode": "65.04.150",
+    "name": "Sungai Limau",
+    "alias": "Sungai Limau"
+  },
+  {
+    "code": "65.04.150.002",
+    "villageCode": "002",
+    "districtCode": "65.04.150",
+    "name": "Maspul",
+    "alias": "Maspul"
+  },
+  {
+    "code": "65.04.150.003",
+    "villageCode": "003",
+    "districtCode": "65.04.150",
+    "name": "Aji Kuning",
+    "alias": "Aji Kuning"
+  },
+  {
+    "code": "65.04.150.004",
+    "villageCode": "004",
+    "districtCode": "65.04.150",
+    "name": "Bukit Harapan",
+    "alias": "Bukit Harapan"
+  }
+]

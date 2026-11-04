@@ -1,0 +1,65 @@
+[
+  {
+    "code": "19.05.010.005",
+    "villageCode": "005",
+    "districtCode": "19.05.010",
+    "name": "Bedengung",
+    "alias": "Bedengung"
+  },
+  {
+    "code": "19.05.010.006",
+    "villageCode": "006",
+    "districtCode": "19.05.010",
+    "name": "Irat",
+    "alias": "Irat"
+  },
+  {
+    "code": "19.05.010.007",
+    "villageCode": "007",
+    "districtCode": "19.05.010",
+    "name": "Sengir",
+    "alias": "Sengir"
+  },
+  {
+    "code": "19.05.010.008",
+    "villageCode": "008",
+    "districtCode": "19.05.010",
+    "name": "Payung",
+    "alias": "Payung"
+  },
+  {
+    "code": "19.05.010.009",
+    "villageCode": "009",
+    "districtCode": "19.05.010",
+    "name": "Nadung",
+    "alias": "Nadung"
+  },
+  {
+    "code": "19.05.010.010",
+    "villageCode": "010",
+    "districtCode": "19.05.010",
+    "name": "Ranggung",
+    "alias": "Ranggung"
+  },
+  {
+    "code": "19.05.010.017",
+    "villageCode": "017",
+    "districtCode": "19.05.010",
+    "name": "Pangkalbuluh",
+    "alias": "Pangkalbuluh"
+  },
+  {
+    "code": "19.05.010.018",
+    "villageCode": "018",
+    "districtCode": "19.05.010",
+    "name": "Malik",
+    "alias": "Malik"
+  },
+  {
+    "code": "19.05.010.020",
+    "villageCode": "020",
+    "districtCode": "19.05.010",
+    "name": "Paku",
+    "alias": "Paku"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "code": "14.03.010",
+    "districtCode": "010",
+    "regencyCode": "14.03",
+    "provinceCode": "14",
+    "name": "Kecamatan Keritang",
+    "alias": "Keritang"
+  },
+  {
+    "code": "14.03.011",
+    "districtCode": "011",
+    "regencyCode": "14.03",
+    "provinceCode": "14",
+    "name": "Kecamatan Kemuning",
+    "alias": "Kemuning"
+  },
+  {
+    "code": "14.03.020",
+    "districtCode": "020",
+    "regencyCode": "14.03",
+    "provinceCode": "14",
+    "name": "Kecamatan Reteh",
+    "alias": "Reteh"
+  },
+  {
+    "code": "14.03.021",
+    "districtCode": "021",
+    "regencyCode": "14.03",
+    "provinceCode": "14",
+    "name": "Kecamatan Sungai Batang",
+    "alias": "Sungai Batang"
+  },
+  {
+    "code": "14.03.030",
+    "districtCode": "030",
+    "regencyCode": "14.03",
+    "provinceCode": "14",
+    "name": "Kecamatan Enok",
+    "alias": "Enok"
+  },
+  {
+    "code": "14.03.040",
+    "districtCode": "040",
+    "regencyCode": "14.03",
+    "provinceCode": "14",
+    "name": "Kecamatan Tanah Merah",
+    "alias": "Tanah Merah"
+  },
+  {
+    "code": "14.03.050",
+    "districtCode": "050",
+    "regencyCode": "14.03",
+    "provinceCode": "14",
+    "name": "Kecamatan Kuala Indragiri",
+    "alias": "Kuala Indragiri"
+  },
+  {
+    "code": "14.03.051",
+    "districtCode": "051",
+    "regencyCode": "14.03",
+    "provinceCode": "14",
+    "name": "Kecamatan Concong",
+    "alias": "Concong"
+  },
+  {
+    "code": "14.03.060",
+    "districtCode": "060",
+    "regencyCode": "14.03",
+    "provinceCode": "14",
+    "name": "Kecamatan Tembilahan",
+    "alias": "Tembilahan"
+  },
+  {
+    "code": "14.03.061",
+    "districtCode": "061",
+    "regencyCode": "14.03",
+    "provinceCode": "14",
+    "name": "Kecamatan Tembilahan Hulu",
+    "alias": "Tembilahan Hulu"
+  },
+  {
+    "code": "14.03.070",
+    "districtCode": "070",
+    "regencyCode": "14.03",
+    "provinceCode": "14",
+    "name": "Kecamatan Tempuling",
+    "alias": "Tempuling"
+  },
+  {
+    "code": "14.03.071",
+    "districtCode": "071",
+    "regencyCode": "14.03",
+    "provinceCode": "14",
+    "name": "Kecamatan Kempas",
+    "alias": "Kempas"
+  },
+  {
+    "code": "14.03.080",
+    "districtCode": "080",
+    "regencyCode": "14.03",
+    "provinceCode": "14",
+    "name": "Kecamatan Batang Tuaka",
+    "alias": "Batang Tuaka"
+  },
+  {
+    "code": "14.03.090",
+    "districtCode": "090",
+    "regencyCode": "14.03",
+    "provinceCode": "14",
+    "name": "Kecamatan Gaung Anak Serka",
+    "alias": "Gaung Anak Serka"
+  },
+  {
+    "code": "14.03.100",
+    "districtCode": "100",
+    "regencyCode": "14.03",
+    "provinceCode": "14",
+    "name": "Kecamatan Gaung",
+    "alias": "Gaung"
+  },
+  {
+    "code": "14.03.110",
+    "districtCode": "110",
+    "regencyCode": "14.03",
+    "provinceCode": "14",
+    "name": "Kecamatan Mandah",
+    "alias": "Mandah"
+  },
+  {
+    "code": "14.03.120",
+    "districtCode": "120",
+    "regencyCode": "14.03",
+    "provinceCode": "14",
+    "name": "Kecamatan Kateman",
+    "alias": "Kateman"
+  },
+  {
+    "code": "14.03.121",
+    "districtCode": "121",
+    "regencyCode": "14.03",
+    "provinceCode": "14",
+    "name": "Kecamatan Pelangiran",
+    "alias": "Pelangiran"
+  },
+  {
+    "code": "14.03.122",
+    "districtCode": "122",
+    "regencyCode": "14.03",
+    "provinceCode": "14",
+    "name": "Kecamatan Teluk Belengkong",
+    "alias": "Teluk Belengkong"
+  },
+  {
+    "code": "14.03.123",
+    "districtCode": "123",
+    "regencyCode": "14.03",
+    "provinceCode": "14",
+    "name": "Kecamatan Pulau Burung",
+    "alias": "Pulau Burung"
+  }
+]

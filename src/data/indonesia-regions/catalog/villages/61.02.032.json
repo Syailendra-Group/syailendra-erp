@@ -1,0 +1,58 @@
+[
+  {
+    "code": "61.02.032.001",
+    "villageCode": "001",
+    "districtCode": "61.02.032",
+    "name": "Godang Damar",
+    "alias": "Godang Damar"
+  },
+  {
+    "code": "61.02.032.002",
+    "villageCode": "002",
+    "districtCode": "61.02.032",
+    "name": "Kinande",
+    "alias": "Kinande"
+  },
+  {
+    "code": "61.02.032.003",
+    "villageCode": "003",
+    "districtCode": "61.02.032",
+    "name": "Tempapan",
+    "alias": "Tempapan"
+  },
+  {
+    "code": "61.02.032.004",
+    "villageCode": "004",
+    "districtCode": "61.02.032",
+    "name": "Papan Uduk",
+    "alias": "Papan Uduk"
+  },
+  {
+    "code": "61.02.032.005",
+    "villageCode": "005",
+    "districtCode": "61.02.032",
+    "name": "Papan Tembawang",
+    "alias": "Papan Tembawang"
+  },
+  {
+    "code": "61.02.032.006",
+    "villageCode": "006",
+    "districtCode": "61.02.032",
+    "name": "Lembah Bawang",
+    "alias": "Lembah Bawang"
+  },
+  {
+    "code": "61.02.032.007",
+    "villageCode": "007",
+    "districtCode": "61.02.032",
+    "name": "Sakataru",
+    "alias": "Sakataru"
+  },
+  {
+    "code": "61.02.032.008",
+    "villageCode": "008",
+    "districtCode": "61.02.032",
+    "name": "Janyat",
+    "alias": "Janyat"
+  }
+]

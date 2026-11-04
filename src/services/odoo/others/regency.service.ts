@@ -4,7 +4,6 @@
  */
 
 import { odoo } from '@/lib/odoo'
-import { buildStatusDomain } from '@/utils'
 
 import type { OdooDomain, OdooFieldValue } from '@/lib/odoo/types'
 import type { RegencyFormValues } from '@/schemas/others/regency-schema'
@@ -15,7 +14,9 @@ export interface FetchRegenciesParams {
   perPage?: number
   search?: string
   status?: string | string[]
-  stateId?: number
+  stateId?: number | string | string[]
+  countryId?: number | string | string[]
+  scope?: string | string[]
   order?: string
 }
 
@@ -48,23 +49,38 @@ export async function fetchRegencies(stateId?: number): Promise<RegencyRecord[]>
   const domain: OdooDomain = stateId ? [['state_id', '=', stateId]] : []
   const records = await odoo.client.searchRead<Record<string, OdooFieldValue>>('res.country.city', domain, REGENCY_READ_FIELDS, {
     order: 'name asc',
-    limit: 600
+    limit: 1000
   })
   return records.map(mapCityToRegency)
 }
 
 export async function fetchRegenciesPaginated(params: FetchRegenciesParams = {}): Promise<PaginatedRegenciesResult> {
-  const { page = 1, perPage = 20, search = '', status, stateId, order = 'name asc' } = params
+  const { page = 1, perPage = 20, search = '', stateId, countryId, scope, order = 'name asc' } = params
 
   const domain: OdooDomain = []
 
-  if (stateId) {
-    domain.push(['state_id', '=', stateId])
+  if (scope) {
+    const scopeArr = Array.isArray(scope) ? scope : [scope]
+    if (scopeArr.includes('domestic') && !scopeArr.includes('foreign')) {
+      domain.push(['country_id', '=', 100])
+    } else if (scopeArr.includes('foreign') && !scopeArr.includes('domestic')) {
+      domain.push(['country_id', '!=', 100])
+    }
   }
 
-  // Apply clean status domain via shared helper
-  const statusTuples = buildStatusDomain(status)
-  statusTuples.forEach((t) => domain.push(t))
+  if (countryId) {
+    const cid = Array.isArray(countryId) ? Number(countryId[0]) : Number(countryId)
+    if (!isNaN(cid) && cid > 0) {
+      domain.push(['country_id', '=', cid])
+    }
+  }
+
+  if (stateId) {
+    const sid = Array.isArray(stateId) ? Number(stateId[0]) : Number(stateId)
+    if (!isNaN(sid) && sid > 0) {
+      domain.push(['state_id', '=', sid])
+    }
+  }
 
   if (search.trim()) {
     const term = `%${search.trim()}%`
@@ -106,6 +122,66 @@ export async function checkProvinceExistsByNameOrCode(name: string, code?: strin
     return { exists: true, id: records[0].id, name: records[0].name }
   }
   return { exists: false }
+}
+
+export async function checkRegencyExistsInOdoo(params: {
+  code?: string
+  name?: string
+}): Promise<{ exists: boolean; id?: number; name?: string; code?: string }> {
+  const { code, name } = params
+  if (!code && !name) return { exists: false }
+
+  const domain: OdooDomain = []
+  if (code && name) {
+    domain.push('|', ['code', '=', code], ['name', 'ilike', name])
+  } else if (code) {
+    domain.push(['code', '=', code])
+  } else if (name) {
+    domain.push(['name', 'ilike', name])
+  }
+
+  const records = await odoo.client.searchRead<{ id: number; name: string; code: string | false }>(
+    'res.country.city',
+    domain,
+    ['id', 'name', 'code'],
+    { limit: 1 }
+  )
+  if (records.length > 0 && records[0]) {
+    return {
+      exists: true,
+      id: records[0].id,
+      name: records[0].name,
+      code: records[0].code || undefined
+    }
+  }
+  return { exists: false }
+}
+
+export async function fetchRegencyFilterOptions(): Promise<{
+  countries: { id: number; name: string }[]
+  states: { id: number; name: string; countryId: number }[]
+}> {
+  const regencies = await odoo.client.searchRead<Record<string, OdooFieldValue>>('res.country.city', [], ['country_id', 'state_id'], { limit: 1000 })
+  const countryMap = new Map<number, string>()
+  const stateMap = new Map<number, { id: number; name: string; countryId: number }>()
+
+  regencies.forEach((r) => {
+    if (r.country_id && Array.isArray(r.country_id)) {
+      countryMap.set(r.country_id[0] as number, r.country_id[1] as string)
+    }
+    if (r.state_id && Array.isArray(r.state_id) && r.country_id && Array.isArray(r.country_id)) {
+      stateMap.set(r.state_id[0] as number, {
+        id: r.state_id[0] as number,
+        name: r.state_id[1] as string,
+        countryId: r.country_id[0] as number
+      })
+    }
+  })
+
+  return {
+    countries: Array.from(countryMap.entries()).map(([id, name]) => ({ id, name })),
+    states: Array.from(stateMap.values())
+  }
 }
 
 export async function persistRegency(values: RegencyFormValues): Promise<number> {

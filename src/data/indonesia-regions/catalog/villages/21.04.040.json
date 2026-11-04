@@ -1,0 +1,86 @@
+[
+  {
+    "code": "21.04.040.001",
+    "villageCode": "001",
+    "districtCode": "21.04.040",
+    "name": "Sekanah",
+    "alias": "Sekanah"
+  },
+  {
+    "code": "21.04.040.002",
+    "villageCode": "002",
+    "districtCode": "21.04.040",
+    "name": "Duara",
+    "alias": "Duara"
+  },
+  {
+    "code": "21.04.040.003",
+    "villageCode": "003",
+    "districtCode": "21.04.040",
+    "name": "Resun",
+    "alias": "Resun"
+  },
+  {
+    "code": "21.04.040.004",
+    "villageCode": "004",
+    "districtCode": "21.04.040",
+    "name": "Limbung",
+    "alias": "Limbung"
+  },
+  {
+    "code": "21.04.040.005",
+    "villageCode": "005",
+    "districtCode": "21.04.040",
+    "name": "Bukit Harapan",
+    "alias": "Bukit Harapan"
+  },
+  {
+    "code": "21.04.040.007",
+    "villageCode": "007",
+    "districtCode": "21.04.040",
+    "name": "Linau",
+    "alias": "Linau"
+  },
+  {
+    "code": "21.04.040.008",
+    "villageCode": "008",
+    "districtCode": "21.04.040",
+    "name": "Pancur",
+    "alias": "Pancur"
+  },
+  {
+    "code": "21.04.040.009",
+    "villageCode": "009",
+    "districtCode": "21.04.040",
+    "name": "Rantau Panjang",
+    "alias": "Rantau Panjang"
+  },
+  {
+    "code": "21.04.040.010",
+    "villageCode": "010",
+    "districtCode": "21.04.040",
+    "name": "Sungai Besar",
+    "alias": "Sungai Besar"
+  },
+  {
+    "code": "21.04.040.011",
+    "villageCode": "011",
+    "districtCode": "21.04.040",
+    "name": "Resun Pesisir",
+    "alias": "Resun Pesisir"
+  },
+  {
+    "code": "21.04.040.012",
+    "villageCode": "012",
+    "districtCode": "21.04.040",
+    "name": "Desa Persiapan Pasir Lulun",
+    "alias": "Desa Persiapan Pasir Lulun"
+  },
+  {
+    "code": "21.04.040.013",
+    "villageCode": "013",
+    "districtCode": "21.04.040",
+    "name": "Desa Persiapan Senempek",
+    "alias": "Desa Persiapan Senempek"
+  }
+]

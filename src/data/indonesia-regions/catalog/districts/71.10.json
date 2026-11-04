@@ -1,0 +1,58 @@
+[
+  {
+    "code": "71.10.010",
+    "districtCode": "010",
+    "regencyCode": "71.10",
+    "provinceCode": "71",
+    "name": "Kecamatan Posigadan",
+    "alias": "Posigadan"
+  },
+  {
+    "code": "71.10.011",
+    "districtCode": "011",
+    "regencyCode": "71.10",
+    "provinceCode": "71",
+    "name": "Kecamatan Tomini",
+    "alias": "Tomini"
+  },
+  {
+    "code": "71.10.020",
+    "districtCode": "020",
+    "regencyCode": "71.10",
+    "provinceCode": "71",
+    "name": "Kecamatan Bolaang Uki",
+    "alias": "Bolaang Uki"
+  },
+  {
+    "code": "71.10.021",
+    "districtCode": "021",
+    "regencyCode": "71.10",
+    "provinceCode": "71",
+    "name": "Kecamatan Helumo",
+    "alias": "Helumo"
+  },
+  {
+    "code": "71.10.030",
+    "districtCode": "030",
+    "regencyCode": "71.10",
+    "provinceCode": "71",
+    "name": "Kecamatan Pinolosian",
+    "alias": "Pinolosian"
+  },
+  {
+    "code": "71.10.040",
+    "districtCode": "040",
+    "regencyCode": "71.10",
+    "provinceCode": "71",
+    "name": "Kecamatan Pinolosian Tengah",
+    "alias": "Pinolosian Tengah"
+  },
+  {
+    "code": "71.10.050",
+    "districtCode": "050",
+    "regencyCode": "71.10",
+    "provinceCode": "71",
+    "name": "Kecamatan Pinolosian Timur",
+    "alias": "Pinolosian Timur"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "code": "14.73.010",
+    "districtCode": "010",
+    "regencyCode": "14.73",
+    "provinceCode": "14",
+    "name": "Kecamatan Bukit Kapur",
+    "alias": "Bukit Kapur"
+  },
+  {
+    "code": "14.73.011",
+    "districtCode": "011",
+    "regencyCode": "14.73",
+    "provinceCode": "14",
+    "name": "Kecamatan Medang Kampai",
+    "alias": "Medang Kampai"
+  },
+  {
+    "code": "14.73.012",
+    "districtCode": "012",
+    "regencyCode": "14.73",
+    "provinceCode": "14",
+    "name": "Kecamatan Sungai Sembilan",
+    "alias": "Sungai Sembilan"
+  },
+  {
+    "code": "14.73.020",
+    "districtCode": "020",
+    "regencyCode": "14.73",
+    "provinceCode": "14",
+    "name": "Kecamatan Dumai Barat",
+    "alias": "Dumai Barat"
+  },
+  {
+    "code": "14.73.021",
+    "districtCode": "021",
+    "regencyCode": "14.73",
+    "provinceCode": "14",
+    "name": "Kecamatan Dumai Selatan",
+    "alias": "Dumai Selatan"
+  },
+  {
+    "code": "14.73.030",
+    "districtCode": "030",
+    "regencyCode": "14.73",
+    "provinceCode": "14",
+    "name": "Kecamatan Dumai Timur",
+    "alias": "Dumai Timur"
+  },
+  {
+    "code": "14.73.031",
+    "districtCode": "031",
+    "regencyCode": "14.73",
+    "provinceCode": "14",
+    "name": "Kecamatan Dumai Kota",
+    "alias": "Dumai Kota"
+  }
+]

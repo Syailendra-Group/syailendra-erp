@@ -1,0 +1,44 @@
+[
+  {
+    "code": "73.03.011.001",
+    "villageCode": "001",
+    "districtCode": "73.03.011",
+    "name": "Bonto Rannu",
+    "alias": "Bonto Rannu"
+  },
+  {
+    "code": "73.03.011.007",
+    "villageCode": "007",
+    "districtCode": "73.03.011",
+    "name": "Bonto Tallasa",
+    "alias": "Bonto Tallasa"
+  },
+  {
+    "code": "73.03.011.008",
+    "villageCode": "008",
+    "districtCode": "73.03.011",
+    "name": "Bonto Daeng",
+    "alias": "Bonto Daeng"
+  },
+  {
+    "code": "73.03.011.009",
+    "villageCode": "009",
+    "districtCode": "73.03.011",
+    "name": "Bonto Tangnga",
+    "alias": "Bonto Tangnga"
+  },
+  {
+    "code": "73.03.011.010",
+    "villageCode": "010",
+    "districtCode": "73.03.011",
+    "name": "Bonto Marannu",
+    "alias": "Bonto Marannu"
+  },
+  {
+    "code": "73.03.011.011",
+    "villageCode": "011",
+    "districtCode": "73.03.011",
+    "name": "Bonto Lojong",
+    "alias": "Bonto Lojong"
+  }
+]

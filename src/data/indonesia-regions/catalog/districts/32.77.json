@@ -1,0 +1,26 @@
+[
+  {
+    "code": "32.77.010",
+    "districtCode": "010",
+    "regencyCode": "32.77",
+    "provinceCode": "32",
+    "name": "Kecamatan Cimahi Selatan",
+    "alias": "Cimahi Selatan"
+  },
+  {
+    "code": "32.77.020",
+    "districtCode": "020",
+    "regencyCode": "32.77",
+    "provinceCode": "32",
+    "name": "Kecamatan Cimahi Tengah",
+    "alias": "Cimahi Tengah"
+  },
+  {
+    "code": "32.77.030",
+    "districtCode": "030",
+    "regencyCode": "32.77",
+    "provinceCode": "32",
+    "name": "Kecamatan Cimahi Utara",
+    "alias": "Cimahi Utara"
+  }
+]

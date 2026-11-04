@@ -1,0 +1,72 @@
+[
+  {
+    "code": "32.06.190.007",
+    "villageCode": "007",
+    "districtCode": "32.06.190",
+    "name": "Sukaasih",
+    "alias": "Sukaasih"
+  },
+  {
+    "code": "32.06.190.008",
+    "villageCode": "008",
+    "districtCode": "32.06.190",
+    "name": "Cikunten",
+    "alias": "Cikunten"
+  },
+  {
+    "code": "32.06.190.009",
+    "villageCode": "009",
+    "districtCode": "32.06.190",
+    "name": "Sukaherang",
+    "alias": "Sukaherang"
+  },
+  {
+    "code": "32.06.190.010",
+    "villageCode": "010",
+    "districtCode": "32.06.190",
+    "name": "Singasari",
+    "alias": "Singasari"
+  },
+  {
+    "code": "32.06.190.011",
+    "villageCode": "011",
+    "districtCode": "32.06.190",
+    "name": "Singaparna",
+    "alias": "Singaparna"
+  },
+  {
+    "code": "32.06.190.012",
+    "villageCode": "012",
+    "districtCode": "32.06.190",
+    "name": "Sukamulya",
+    "alias": "Sukamulya"
+  },
+  {
+    "code": "32.06.190.013",
+    "villageCode": "013",
+    "districtCode": "32.06.190",
+    "name": "Cipakat",
+    "alias": "Cipakat"
+  },
+  {
+    "code": "32.06.190.020",
+    "villageCode": "020",
+    "districtCode": "32.06.190",
+    "name": "Cintaraja",
+    "alias": "Cintaraja"
+  },
+  {
+    "code": "32.06.190.021",
+    "villageCode": "021",
+    "districtCode": "32.06.190",
+    "name": "Cikunir",
+    "alias": "Cikunir"
+  },
+  {
+    "code": "32.06.190.022",
+    "villageCode": "022",
+    "districtCode": "32.06.190",
+    "name": "Cikadongdong",
+    "alias": "Cikadongdong"
+  }
+]

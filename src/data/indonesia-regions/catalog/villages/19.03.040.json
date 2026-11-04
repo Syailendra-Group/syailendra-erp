@@ -1,0 +1,93 @@
+[
+  {
+    "code": "19.03.040.001",
+    "villageCode": "001",
+    "districtCode": "19.03.040",
+    "name": "Kundi",
+    "alias": "Kundi"
+  },
+  {
+    "code": "19.03.040.002",
+    "villageCode": "002",
+    "districtCode": "19.03.040",
+    "name": "Simpang Tiga",
+    "alias": "Simpang Tiga"
+  },
+  {
+    "code": "19.03.040.003",
+    "villageCode": "003",
+    "districtCode": "19.03.040",
+    "name": "Mayang",
+    "alias": "Mayang"
+  },
+  {
+    "code": "19.03.040.004",
+    "villageCode": "004",
+    "districtCode": "19.03.040",
+    "name": "Rambat",
+    "alias": "Rambat"
+  },
+  {
+    "code": "19.03.040.005",
+    "villageCode": "005",
+    "districtCode": "19.03.040",
+    "name": "Simpang Gong",
+    "alias": "Simpang Gong"
+  },
+  {
+    "code": "19.03.040.006",
+    "villageCode": "006",
+    "districtCode": "19.03.040",
+    "name": "Pelangas",
+    "alias": "Pelangas"
+  },
+  {
+    "code": "19.03.040.007",
+    "villageCode": "007",
+    "districtCode": "19.03.040",
+    "name": "Berang",
+    "alias": "Berang"
+  },
+  {
+    "code": "19.03.040.008",
+    "villageCode": "008",
+    "districtCode": "19.03.040",
+    "name": "Ibul",
+    "alias": "Ibul"
+  },
+  {
+    "code": "19.03.040.009",
+    "villageCode": "009",
+    "districtCode": "19.03.040",
+    "name": "Peradong",
+    "alias": "Peradong"
+  },
+  {
+    "code": "19.03.040.010",
+    "villageCode": "010",
+    "districtCode": "19.03.040",
+    "name": "Air Nyatoh",
+    "alias": "Air Nyatoh"
+  },
+  {
+    "code": "19.03.040.011",
+    "villageCode": "011",
+    "districtCode": "19.03.040",
+    "name": "Pangek",
+    "alias": "Pangek"
+  },
+  {
+    "code": "19.03.040.012",
+    "villageCode": "012",
+    "districtCode": "19.03.040",
+    "name": "Air Menduyung",
+    "alias": "Air Menduyung"
+  },
+  {
+    "code": "19.03.040.013",
+    "villageCode": "013",
+    "districtCode": "19.03.040",
+    "name": "Bukit Terak",
+    "alias": "Bukit Terak"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "code": "13.11.010.005",
+    "villageCode": "005",
+    "districtCode": "13.11.010",
+    "name": "Sungai Rumbai",
+    "alias": "Sungai Rumbai"
+  },
+  {
+    "code": "13.11.010.006",
+    "villageCode": "006",
+    "districtCode": "13.11.010",
+    "name": "Kurnia Koto Salak",
+    "alias": "Kurnia Koto Salak"
+  },
+  {
+    "code": "13.11.010.007",
+    "villageCode": "007",
+    "districtCode": "13.11.010",
+    "name": "Sungai Rumbai Timur",
+    "alias": "Sungai Rumbai Timur"
+  },
+  {
+    "code": "13.11.010.008",
+    "villageCode": "008",
+    "districtCode": "13.11.010",
+    "name": "Kurnia Selatan",
+    "alias": "Kurnia Selatan"
+  }
+]

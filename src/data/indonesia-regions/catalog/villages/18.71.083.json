@@ -1,0 +1,44 @@
+[
+  {
+    "code": "18.71.083.006",
+    "villageCode": "006",
+    "districtCode": "18.71.083",
+    "name": "Labuhan Ratu",
+    "alias": "Labuhan Ratu"
+  },
+  {
+    "code": "18.71.083.009",
+    "villageCode": "009",
+    "districtCode": "18.71.083",
+    "name": "Kampung Baru",
+    "alias": "Kampung Baru"
+  },
+  {
+    "code": "18.71.083.013",
+    "villageCode": "013",
+    "districtCode": "18.71.083",
+    "name": "Sepang Jaya",
+    "alias": "Sepang Jaya"
+  },
+  {
+    "code": "18.71.083.014",
+    "villageCode": "014",
+    "districtCode": "18.71.083",
+    "name": "Labuhan Ratu Raya",
+    "alias": "Labuhan Ratu Raya"
+  },
+  {
+    "code": "18.71.083.015",
+    "villageCode": "015",
+    "districtCode": "18.71.083",
+    "name": "Kota Sepang",
+    "alias": "Kota Sepang"
+  },
+  {
+    "code": "18.71.083.017",
+    "villageCode": "017",
+    "districtCode": "18.71.083",
+    "name": "Kampung Baru Raya",
+    "alias": "Kampung Baru Raya"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "code": "33.03.141.001",
+    "villageCode": "001",
+    "districtCode": "33.03.141",
+    "name": "Mergasana",
+    "alias": "Mergasana"
+  },
+  {
+    "code": "33.03.141.002",
+    "villageCode": "002",
+    "districtCode": "33.03.141",
+    "name": "Kertanegara",
+    "alias": "Kertanegara"
+  },
+  {
+    "code": "33.03.141.003",
+    "villageCode": "003",
+    "districtCode": "33.03.141",
+    "name": "Kasih",
+    "alias": "Kasih"
+  },
+  {
+    "code": "33.03.141.004",
+    "villageCode": "004",
+    "districtCode": "33.03.141",
+    "name": "Karang Tengah",
+    "alias": "Karang Tengah"
+  },
+  {
+    "code": "33.03.141.005",
+    "villageCode": "005",
+    "districtCode": "33.03.141",
+    "name": "Condong",
+    "alias": "Condong"
+  },
+  {
+    "code": "33.03.141.006",
+    "villageCode": "006",
+    "districtCode": "33.03.141",
+    "name": "Karangpucung",
+    "alias": "Karangpucung"
+  },
+  {
+    "code": "33.03.141.007",
+    "villageCode": "007",
+    "districtCode": "33.03.141",
+    "name": "Karangasem",
+    "alias": "Karangasem"
+  },
+  {
+    "code": "33.03.141.008",
+    "villageCode": "008",
+    "districtCode": "33.03.141",
+    "name": "Adiarsa",
+    "alias": "Adiarsa"
+  },
+  {
+    "code": "33.03.141.009",
+    "villageCode": "009",
+    "districtCode": "33.03.141",
+    "name": "Langkap",
+    "alias": "Langkap"
+  },
+  {
+    "code": "33.03.141.010",
+    "villageCode": "010",
+    "districtCode": "33.03.141",
+    "name": "Darma",
+    "alias": "Darma"
+  },
+  {
+    "code": "33.03.141.011",
+    "villageCode": "011",
+    "districtCode": "33.03.141",
+    "name": "Krangean",
+    "alias": "Krangean"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "code": "97.04.010.001",
+    "villageCode": "001",
+    "districtCode": "97.04.010",
+    "name": "Logon",
+    "alias": "Logon"
+  },
+  {
+    "code": "97.04.010.002",
+    "villageCode": "002",
+    "districtCode": "97.04.010",
+    "name": "Marlo",
+    "alias": "Marlo"
+  },
+  {
+    "code": "97.04.010.003",
+    "villageCode": "003",
+    "districtCode": "97.04.010",
+    "name": "Dundu",
+    "alias": "Dundu"
+  },
+  {
+    "code": "97.04.010.004",
+    "villageCode": "004",
+    "districtCode": "97.04.010",
+    "name": "Ligimbak",
+    "alias": "Ligimbak"
+  },
+  {
+    "code": "97.04.010.005",
+    "villageCode": "005",
+    "districtCode": "97.04.010",
+    "name": "Kugimaluk",
+    "alias": "Kugimaluk"
+  },
+  {
+    "code": "97.04.010.006",
+    "villageCode": "006",
+    "districtCode": "97.04.010",
+    "name": "Purugi",
+    "alias": "Purugi"
+  },
+  {
+    "code": "97.04.010.007",
+    "villageCode": "007",
+    "districtCode": "97.04.010",
+    "name": "Kerena",
+    "alias": "Kerena"
+  },
+  {
+    "code": "97.04.010.008",
+    "villageCode": "008",
+    "districtCode": "97.04.010",
+    "name": "Lawor",
+    "alias": "Lawor"
+  },
+  {
+    "code": "97.04.010.009",
+    "villageCode": "009",
+    "districtCode": "97.04.010",
+    "name": "Aulani",
+    "alias": "Aulani"
+  },
+  {
+    "code": "97.04.010.010",
+    "villageCode": "010",
+    "districtCode": "97.04.010",
+    "name": "Kanggime",
+    "alias": "Kanggime"
+  }
+]

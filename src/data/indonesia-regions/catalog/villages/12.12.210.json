@@ -1,0 +1,58 @@
+[
+  {
+    "code": "12.12.210.001",
+    "villageCode": "001",
+    "districtCode": "12.12.210",
+    "name": "Patumbak Satu",
+    "alias": "Patumbak Satu"
+  },
+  {
+    "code": "12.12.210.002",
+    "villageCode": "002",
+    "districtCode": "12.12.210",
+    "name": "Lantasan Baru",
+    "alias": "Lantasan Baru"
+  },
+  {
+    "code": "12.12.210.003",
+    "villageCode": "003",
+    "districtCode": "12.12.210",
+    "name": "Lantasan Lama",
+    "alias": "Lantasan Lama"
+  },
+  {
+    "code": "12.12.210.004",
+    "villageCode": "004",
+    "districtCode": "12.12.210",
+    "name": "Patumbak Dua",
+    "alias": "Patumbak Dua"
+  },
+  {
+    "code": "12.12.210.005",
+    "villageCode": "005",
+    "districtCode": "12.12.210",
+    "name": "Sigara Gara",
+    "alias": "Sigara Gara"
+  },
+  {
+    "code": "12.12.210.006",
+    "villageCode": "006",
+    "districtCode": "12.12.210",
+    "name": "Marindal Satu",
+    "alias": "Marindal Satu"
+  },
+  {
+    "code": "12.12.210.007",
+    "villageCode": "007",
+    "districtCode": "12.12.210",
+    "name": "Patumbak Kampung",
+    "alias": "Patumbak Kampung"
+  },
+  {
+    "code": "12.12.210.008",
+    "villageCode": "008",
+    "districtCode": "12.12.210",
+    "name": "Marindal Dua",
+    "alias": "Marindal Dua"
+  }
+]

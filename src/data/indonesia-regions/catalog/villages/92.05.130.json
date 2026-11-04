@@ -1,0 +1,72 @@
+[
+  {
+    "code": "92.05.130.001",
+    "villageCode": "001",
+    "districtCode": "92.05.130",
+    "name": "Werwaf",
+    "alias": "Werwaf"
+  },
+  {
+    "code": "92.05.130.002",
+    "villageCode": "002",
+    "districtCode": "92.05.130",
+    "name": "Bukit",
+    "alias": "Bukit"
+  },
+  {
+    "code": "92.05.130.003",
+    "villageCode": "003",
+    "districtCode": "92.05.130",
+    "name": "Wertam",
+    "alias": "Wertam"
+  },
+  {
+    "code": "92.05.130.004",
+    "villageCode": "004",
+    "districtCode": "92.05.130",
+    "name": "Werur",
+    "alias": "Werur"
+  },
+  {
+    "code": "92.05.130.005",
+    "villageCode": "005",
+    "districtCode": "92.05.130",
+    "name": "Suyam",
+    "alias": "Suyam"
+  },
+  {
+    "code": "92.05.130.006",
+    "villageCode": "006",
+    "districtCode": "92.05.130",
+    "name": "Wertim",
+    "alias": "Wertim"
+  },
+  {
+    "code": "92.05.130.007",
+    "villageCode": "007",
+    "districtCode": "92.05.130",
+    "name": "Werur Besar",
+    "alias": "Werur Besar"
+  },
+  {
+    "code": "92.05.130.008",
+    "villageCode": "008",
+    "districtCode": "92.05.130",
+    "name": "Nombrak",
+    "alias": "Nombrak"
+  },
+  {
+    "code": "92.05.130.009",
+    "villageCode": "009",
+    "districtCode": "92.05.130",
+    "name": "Bikar",
+    "alias": "Bikar"
+  },
+  {
+    "code": "92.05.130.010",
+    "villageCode": "010",
+    "districtCode": "92.05.130",
+    "name": "Syunai",
+    "alias": "Syunai"
+  }
+]

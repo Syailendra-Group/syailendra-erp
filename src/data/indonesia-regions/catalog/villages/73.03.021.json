@@ -1,0 +1,65 @@
+[
+  {
+    "code": "73.03.021.001",
+    "villageCode": "001",
+    "districtCode": "73.03.021",
+    "name": "Ulugalung",
+    "alias": "Ulugalung"
+  },
+  {
+    "code": "73.03.021.002",
+    "villageCode": "002",
+    "districtCode": "73.03.021",
+    "name": "Mamampang",
+    "alias": "Mamampang"
+  },
+  {
+    "code": "73.03.021.003",
+    "villageCode": "003",
+    "districtCode": "73.03.021",
+    "name": "Mappilawing",
+    "alias": "Mappilawing"
+  },
+  {
+    "code": "73.03.021.004",
+    "villageCode": "004",
+    "districtCode": "73.03.021",
+    "name": "Lonrong",
+    "alias": "Lonrong"
+  },
+  {
+    "code": "73.03.021.005",
+    "villageCode": "005",
+    "districtCode": "73.03.021",
+    "name": "Barua",
+    "alias": "Barua"
+  },
+  {
+    "code": "73.03.021.006",
+    "villageCode": "006",
+    "districtCode": "73.03.021",
+    "name": "Kampala",
+    "alias": "Kampala"
+  },
+  {
+    "code": "73.03.021.007",
+    "villageCode": "007",
+    "districtCode": "73.03.021",
+    "name": "Pa Bentengan",
+    "alias": "Pa Bentengan"
+  },
+  {
+    "code": "73.03.021.008",
+    "villageCode": "008",
+    "districtCode": "73.03.021",
+    "name": "Parangloe",
+    "alias": "Parangloe"
+  },
+  {
+    "code": "73.03.021.009",
+    "villageCode": "009",
+    "districtCode": "73.03.021",
+    "name": "Pa Bumbungan",
+    "alias": "Pa Bumbungan"
+  }
+]

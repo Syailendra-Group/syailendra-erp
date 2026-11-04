@@ -1,0 +1,93 @@
+[
+  {
+    "code": "64.01.070.001",
+    "villageCode": "001",
+    "districtCode": "64.01.070",
+    "name": "Muara Langon",
+    "alias": "Muara Langon"
+  },
+  {
+    "code": "64.01.070.002",
+    "villageCode": "002",
+    "districtCode": "64.01.070",
+    "name": "Muara Komam",
+    "alias": "Muara Komam"
+  },
+  {
+    "code": "64.01.070.003",
+    "villageCode": "003",
+    "districtCode": "64.01.070",
+    "name": "Batu Butok",
+    "alias": "Batu Butok"
+  },
+  {
+    "code": "64.01.070.004",
+    "villageCode": "004",
+    "districtCode": "64.01.070",
+    "name": "Uko",
+    "alias": "Uko"
+  },
+  {
+    "code": "64.01.070.005",
+    "villageCode": "005",
+    "districtCode": "64.01.070",
+    "name": "Muara Kuaro",
+    "alias": "Muara Kuaro"
+  },
+  {
+    "code": "64.01.070.006",
+    "villageCode": "006",
+    "districtCode": "64.01.070",
+    "name": "Prayon",
+    "alias": "Prayon"
+  },
+  {
+    "code": "64.01.070.007",
+    "villageCode": "007",
+    "districtCode": "64.01.070",
+    "name": "Binangon",
+    "alias": "Binangon"
+  },
+  {
+    "code": "64.01.070.008",
+    "villageCode": "008",
+    "districtCode": "64.01.070",
+    "name": "Lusan",
+    "alias": "Lusan"
+  },
+  {
+    "code": "64.01.070.009",
+    "villageCode": "009",
+    "districtCode": "64.01.070",
+    "name": "Muara Payang",
+    "alias": "Muara Payang"
+  },
+  {
+    "code": "64.01.070.010",
+    "villageCode": "010",
+    "districtCode": "64.01.070",
+    "name": "Long Sayo",
+    "alias": "Long Sayo"
+  },
+  {
+    "code": "64.01.070.011",
+    "villageCode": "011",
+    "districtCode": "64.01.070",
+    "name": "Swan Slutung",
+    "alias": "Swan Slutung"
+  },
+  {
+    "code": "64.01.070.012",
+    "villageCode": "012",
+    "districtCode": "64.01.070",
+    "name": "Sekuan Makmur",
+    "alias": "Sekuan Makmur"
+  },
+  {
+    "code": "64.01.070.013",
+    "villageCode": "013",
+    "districtCode": "64.01.070",
+    "name": "Selerong",
+    "alias": "Selerong"
+  }
+]

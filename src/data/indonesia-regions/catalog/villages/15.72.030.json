@@ -1,0 +1,37 @@
+[
+  {
+    "code": "15.72.030.006",
+    "villageCode": "006",
+    "districtCode": "15.72.030",
+    "name": "Gedang",
+    "alias": "Gedang"
+  },
+  {
+    "code": "15.72.030.007",
+    "villageCode": "007",
+    "districtCode": "15.72.030",
+    "name": "Pasar Baru",
+    "alias": "Pasar Baru"
+  },
+  {
+    "code": "15.72.030.008",
+    "villageCode": "008",
+    "districtCode": "15.72.030",
+    "name": "Sungai Penuh",
+    "alias": "Sungai Penuh"
+  },
+  {
+    "code": "15.72.030.010",
+    "villageCode": "010",
+    "districtCode": "15.72.030",
+    "name": "Pasar Sungai Penuh",
+    "alias": "Pasar Sungai Penuh"
+  },
+  {
+    "code": "15.72.030.013",
+    "villageCode": "013",
+    "districtCode": "15.72.030",
+    "name": "Amar Sakti",
+    "alias": "Amar Sakti"
+  }
+]

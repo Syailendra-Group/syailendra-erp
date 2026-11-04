@@ -1,0 +1,79 @@
+[
+  {
+    "code": "11.15.011.001",
+    "villageCode": "001",
+    "districtCode": "11.15.011",
+    "name": "Kuala Teripa",
+    "alias": "Kuala Teripa"
+  },
+  {
+    "code": "11.15.011.002",
+    "villageCode": "002",
+    "districtCode": "11.15.011",
+    "name": "Drien Tujoh",
+    "alias": "Drien Tujoh"
+  },
+  {
+    "code": "11.15.011.003",
+    "villageCode": "003",
+    "districtCode": "11.15.011",
+    "name": "Lueng Keubeu Jagat",
+    "alias": "Lueng Keubeu Jagat"
+  },
+  {
+    "code": "11.15.011.004",
+    "villageCode": "004",
+    "districtCode": "11.15.011",
+    "name": "Kabu",
+    "alias": "Kabu"
+  },
+  {
+    "code": "11.15.011.005",
+    "villageCode": "005",
+    "districtCode": "11.15.011",
+    "name": "Babah Lueng",
+    "alias": "Babah Lueng"
+  },
+  {
+    "code": "11.15.011.006",
+    "villageCode": "006",
+    "districtCode": "11.15.011",
+    "name": "Pasi Keubeu Dom",
+    "alias": "Pasi Keubeu Dom"
+  },
+  {
+    "code": "11.15.011.007",
+    "villageCode": "007",
+    "districtCode": "11.15.011",
+    "name": "Neubok Yee Pk",
+    "alias": "Neubok Yee Pk"
+  },
+  {
+    "code": "11.15.011.008",
+    "villageCode": "008",
+    "districtCode": "11.15.011",
+    "name": "Neubok Yee Pp",
+    "alias": "Neubok Yee Pp"
+  },
+  {
+    "code": "11.15.011.009",
+    "villageCode": "009",
+    "districtCode": "11.15.011",
+    "name": "Mon Dua",
+    "alias": "Mon Dua"
+  },
+  {
+    "code": "11.15.011.010",
+    "villageCode": "010",
+    "districtCode": "11.15.011",
+    "name": "Panton Pange",
+    "alias": "Panton Pange"
+  },
+  {
+    "code": "11.15.011.011",
+    "villageCode": "011",
+    "districtCode": "11.15.011",
+    "name": "Ujong Krueng",
+    "alias": "Ujong Krueng"
+  }
+]

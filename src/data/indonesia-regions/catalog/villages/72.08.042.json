@@ -1,0 +1,79 @@
+[
+  {
+    "code": "72.08.042.001",
+    "villageCode": "001",
+    "districtCode": "72.08.042",
+    "name": "Lado",
+    "alias": "Lado"
+  },
+  {
+    "code": "72.08.042.002",
+    "villageCode": "002",
+    "districtCode": "72.08.042",
+    "name": "Sipayo",
+    "alias": "Sipayo"
+  },
+  {
+    "code": "72.08.042.003",
+    "villageCode": "003",
+    "districtCode": "72.08.042",
+    "name": "Bondoyong",
+    "alias": "Bondoyong"
+  },
+  {
+    "code": "72.08.042.004",
+    "villageCode": "004",
+    "districtCode": "72.08.042",
+    "name": "Sidoan Selatan",
+    "alias": "Sidoan Selatan"
+  },
+  {
+    "code": "72.08.042.005",
+    "villageCode": "005",
+    "districtCode": "72.08.042",
+    "name": "Sidoan Timur",
+    "alias": "Sidoan Timur"
+  },
+  {
+    "code": "72.08.042.006",
+    "villageCode": "006",
+    "districtCode": "72.08.042",
+    "name": "Sidoan",
+    "alias": "Sidoan"
+  },
+  {
+    "code": "72.08.042.007",
+    "villageCode": "007",
+    "districtCode": "72.08.042",
+    "name": "Sidoan Barat",
+    "alias": "Sidoan Barat"
+  },
+  {
+    "code": "72.08.042.008",
+    "villageCode": "008",
+    "districtCode": "72.08.042",
+    "name": "Ogobagis",
+    "alias": "Ogobagis"
+  },
+  {
+    "code": "72.08.042.009",
+    "villageCode": "009",
+    "districtCode": "72.08.042",
+    "name": "Muara Jaya",
+    "alias": "Muara Jaya"
+  },
+  {
+    "code": "72.08.042.010",
+    "villageCode": "010",
+    "districtCode": "72.08.042",
+    "name": "Bainaa Selatan",
+    "alias": "Bainaa Selatan"
+  },
+  {
+    "code": "72.08.042.011",
+    "villageCode": "011",
+    "districtCode": "72.08.042",
+    "name": "Sintuwu Raya",
+    "alias": "Sintuwu Raya"
+  }
+]

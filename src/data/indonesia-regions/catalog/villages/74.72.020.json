@@ -1,0 +1,51 @@
+[
+  {
+    "code": "74.72.020.001",
+    "villageCode": "001",
+    "districtCode": "74.72.020",
+    "name": "Bataraguru",
+    "alias": "Bataraguru"
+  },
+  {
+    "code": "74.72.020.002",
+    "villageCode": "002",
+    "districtCode": "74.72.020",
+    "name": "Tomba",
+    "alias": "Tomba"
+  },
+  {
+    "code": "74.72.020.003",
+    "villageCode": "003",
+    "districtCode": "74.72.020",
+    "name": "Wale",
+    "alias": "Wale"
+  },
+  {
+    "code": "74.72.020.004",
+    "villageCode": "004",
+    "districtCode": "74.72.020",
+    "name": "Batulo",
+    "alias": "Batulo"
+  },
+  {
+    "code": "74.72.020.005",
+    "villageCode": "005",
+    "districtCode": "74.72.020",
+    "name": "Wangkanapi",
+    "alias": "Wangkanapi"
+  },
+  {
+    "code": "74.72.020.007",
+    "villageCode": "007",
+    "districtCode": "74.72.020",
+    "name": "Bukit Wolio Indah",
+    "alias": "Bukit Wolio Indah"
+  },
+  {
+    "code": "74.72.020.008",
+    "villageCode": "008",
+    "districtCode": "74.72.020",
+    "name": "Kadolo Katapi",
+    "alias": "Kadolo Katapi"
+  }
+]

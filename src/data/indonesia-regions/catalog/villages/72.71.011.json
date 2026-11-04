@@ -1,0 +1,44 @@
+[
+  {
+    "code": "72.71.011.001",
+    "villageCode": "001",
+    "districtCode": "72.71.011",
+    "name": "Duyu",
+    "alias": "Duyu"
+  },
+  {
+    "code": "72.71.011.002",
+    "villageCode": "002",
+    "districtCode": "72.71.011",
+    "name": "Pengawu",
+    "alias": "Pengawu"
+  },
+  {
+    "code": "72.71.011.003",
+    "villageCode": "003",
+    "districtCode": "72.71.011",
+    "name": "Palupi",
+    "alias": "Palupi"
+  },
+  {
+    "code": "72.71.011.004",
+    "villageCode": "004",
+    "districtCode": "72.71.011",
+    "name": "Tawanjuka",
+    "alias": "Tawanjuka"
+  },
+  {
+    "code": "72.71.011.005",
+    "villageCode": "005",
+    "districtCode": "72.71.011",
+    "name": "Boyaoge",
+    "alias": "Boyaoge"
+  },
+  {
+    "code": "72.71.011.006",
+    "villageCode": "006",
+    "districtCode": "72.71.011",
+    "name": "Nunu",
+    "alias": "Nunu"
+  }
+]

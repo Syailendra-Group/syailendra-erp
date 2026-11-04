@@ -1,0 +1,72 @@
+[
+  {
+    "code": "35.10.050.001",
+    "villageCode": "001",
+    "districtCode": "35.10.050",
+    "name": "Sumberberas",
+    "alias": "Sumberberas"
+  },
+  {
+    "code": "35.10.050.002",
+    "villageCode": "002",
+    "districtCode": "35.10.050",
+    "name": "Wringin Putih",
+    "alias": "Wringin Putih"
+  },
+  {
+    "code": "35.10.050.003",
+    "villageCode": "003",
+    "districtCode": "35.10.050",
+    "name": "Kedungringin",
+    "alias": "Kedungringin"
+  },
+  {
+    "code": "35.10.050.004",
+    "villageCode": "004",
+    "districtCode": "35.10.050",
+    "name": "Tambakrejo",
+    "alias": "Tambakrejo"
+  },
+  {
+    "code": "35.10.050.005",
+    "villageCode": "005",
+    "districtCode": "35.10.050",
+    "name": "Tapanrejo",
+    "alias": "Tapanrejo"
+  },
+  {
+    "code": "35.10.050.006",
+    "villageCode": "006",
+    "districtCode": "35.10.050",
+    "name": "Blambangan",
+    "alias": "Blambangan"
+  },
+  {
+    "code": "35.10.050.007",
+    "villageCode": "007",
+    "districtCode": "35.10.050",
+    "name": "Kedungrejo",
+    "alias": "Kedungrejo"
+  },
+  {
+    "code": "35.10.050.008",
+    "villageCode": "008",
+    "districtCode": "35.10.050",
+    "name": "Tembokrejo",
+    "alias": "Tembokrejo"
+  },
+  {
+    "code": "35.10.050.009",
+    "villageCode": "009",
+    "districtCode": "35.10.050",
+    "name": "Sumbersewu",
+    "alias": "Sumbersewu"
+  },
+  {
+    "code": "35.10.050.010",
+    "villageCode": "010",
+    "districtCode": "35.10.050",
+    "name": "Kumendung",
+    "alias": "Kumendung"
+  }
+]

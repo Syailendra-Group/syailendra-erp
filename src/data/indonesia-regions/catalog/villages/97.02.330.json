@@ -1,0 +1,65 @@
+[
+  {
+    "code": "97.02.330.001",
+    "villageCode": "001",
+    "districtCode": "97.02.330",
+    "name": "Tagineri",
+    "alias": "Tagineri"
+  },
+  {
+    "code": "97.02.330.002",
+    "villageCode": "002",
+    "districtCode": "97.02.330",
+    "name": "Binibaga",
+    "alias": "Binibaga"
+  },
+  {
+    "code": "97.02.330.003",
+    "villageCode": "003",
+    "districtCode": "97.02.330",
+    "name": "Injuta",
+    "alias": "Injuta"
+  },
+  {
+    "code": "97.02.330.004",
+    "villageCode": "004",
+    "districtCode": "97.02.330",
+    "name": "Tamokilu",
+    "alias": "Tamokilu"
+  },
+  {
+    "code": "97.02.330.005",
+    "villageCode": "005",
+    "districtCode": "97.02.330",
+    "name": "Wilaloma",
+    "alias": "Wilaloma"
+  },
+  {
+    "code": "97.02.330.006",
+    "villageCode": "006",
+    "districtCode": "97.02.330",
+    "name": "Galelema",
+    "alias": "Galelema"
+  },
+  {
+    "code": "97.02.330.007",
+    "villageCode": "007",
+    "districtCode": "97.02.330",
+    "name": "Melemei",
+    "alias": "Melemei"
+  },
+  {
+    "code": "97.02.330.008",
+    "villageCode": "008",
+    "districtCode": "97.02.330",
+    "name": "Pagaluk",
+    "alias": "Pagaluk"
+  },
+  {
+    "code": "97.02.330.009",
+    "villageCode": "009",
+    "districtCode": "97.02.330",
+    "name": "Wuragukme",
+    "alias": "Wuragukme"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "code": "73.26.060.001",
+    "villageCode": "001",
+    "districtCode": "73.26.060",
+    "name": "Lembang Rante",
+    "alias": "Lembang Rante"
+  },
+  {
+    "code": "73.26.060.002",
+    "villageCode": "002",
+    "districtCode": "73.26.060",
+    "name": "Lembang Karre Penannian",
+    "alias": "Lembang Karre Penannian"
+  },
+  {
+    "code": "73.26.060.003",
+    "villageCode": "003",
+    "districtCode": "73.26.060",
+    "name": "Lembang Karre Limbong",
+    "alias": "Lembang Karre Limbong"
+  },
+  {
+    "code": "73.26.060.004",
+    "villageCode": "004",
+    "districtCode": "73.26.060",
+    "name": "Lembang Nanna Nanggala",
+    "alias": "Lembang Nanna Nanggala"
+  },
+  {
+    "code": "73.26.060.005",
+    "villageCode": "005",
+    "districtCode": "73.26.060",
+    "name": "Lembang Basokan",
+    "alias": "Lembang Basokan"
+  },
+  {
+    "code": "73.26.060.006",
+    "villageCode": "006",
+    "districtCode": "73.26.060",
+    "name": "Lembang Nanggala",
+    "alias": "Lembang Nanggala"
+  },
+  {
+    "code": "73.26.060.007",
+    "villageCode": "007",
+    "districtCode": "73.26.060",
+    "name": "Kelurahan Nanggala Sangpiak Salu",
+    "alias": "Kelurahan Nanggala Sangpiak Salu"
+  },
+  {
+    "code": "73.26.060.008",
+    "villageCode": "008",
+    "districtCode": "73.26.060",
+    "name": "Lembang Tandung Nanggala",
+    "alias": "Lembang Tandung Nanggala"
+  },
+  {
+    "code": "73.26.060.009",
+    "villageCode": "009",
+    "districtCode": "73.26.060",
+    "name": "Lembang Lilikira",
+    "alias": "Lembang Lilikira"
+  }
+]

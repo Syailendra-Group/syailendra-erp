@@ -1,0 +1,79 @@
+[
+  {
+    "code": "35.03.080.001",
+    "villageCode": "001",
+    "districtCode": "35.03.080",
+    "name": "Ngrayung",
+    "alias": "Ngrayung"
+  },
+  {
+    "code": "35.03.080.002",
+    "villageCode": "002",
+    "districtCode": "35.03.080",
+    "name": "Jajar",
+    "alias": "Jajar"
+  },
+  {
+    "code": "35.03.080.003",
+    "villageCode": "003",
+    "districtCode": "35.03.080",
+    "name": "Wonorejo",
+    "alias": "Wonorejo"
+  },
+  {
+    "code": "35.03.080.004",
+    "villageCode": "004",
+    "districtCode": "35.03.080",
+    "name": "Sukorejo",
+    "alias": "Sukorejo"
+  },
+  {
+    "code": "35.03.080.005",
+    "villageCode": "005",
+    "districtCode": "35.03.080",
+    "name": "Gandusari",
+    "alias": "Gandusari"
+  },
+  {
+    "code": "35.03.080.006",
+    "villageCode": "006",
+    "districtCode": "35.03.080",
+    "name": "Wonoanti",
+    "alias": "Wonoanti"
+  },
+  {
+    "code": "35.03.080.007",
+    "villageCode": "007",
+    "districtCode": "35.03.080",
+    "name": "Widoro",
+    "alias": "Widoro"
+  },
+  {
+    "code": "35.03.080.008",
+    "villageCode": "008",
+    "districtCode": "35.03.080",
+    "name": "Karanganyar",
+    "alias": "Karanganyar"
+  },
+  {
+    "code": "35.03.080.009",
+    "villageCode": "009",
+    "districtCode": "35.03.080",
+    "name": "Melis",
+    "alias": "Melis"
+  },
+  {
+    "code": "35.03.080.010",
+    "villageCode": "010",
+    "districtCode": "35.03.080",
+    "name": "Krandegan",
+    "alias": "Krandegan"
+  },
+  {
+    "code": "35.03.080.011",
+    "villageCode": "011",
+    "districtCode": "35.03.080",
+    "name": "Sukorame",
+    "alias": "Sukorame"
+  }
+]

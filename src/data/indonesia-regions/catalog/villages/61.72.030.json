@@ -1,0 +1,51 @@
+[
+  {
+    "code": "61.72.030.001",
+    "villageCode": "001",
+    "districtCode": "61.72.030",
+    "name": "Sei Garam Hilir",
+    "alias": "Sei Garam Hilir"
+  },
+  {
+    "code": "61.72.030.002",
+    "villageCode": "002",
+    "districtCode": "61.72.030",
+    "name": "Naram",
+    "alias": "Naram"
+  },
+  {
+    "code": "61.72.030.003",
+    "villageCode": "003",
+    "districtCode": "61.72.030",
+    "name": "Sei Bulan",
+    "alias": "Sei Bulan"
+  },
+  {
+    "code": "61.72.030.004",
+    "villageCode": "004",
+    "districtCode": "61.72.030",
+    "name": "Sei Rasau",
+    "alias": "Sei Rasau"
+  },
+  {
+    "code": "61.72.030.005",
+    "villageCode": "005",
+    "districtCode": "61.72.030",
+    "name": "Setapuk Kecil",
+    "alias": "Setapuk Kecil"
+  },
+  {
+    "code": "61.72.030.006",
+    "villageCode": "006",
+    "districtCode": "61.72.030",
+    "name": "Setapuk Besar",
+    "alias": "Setapuk Besar"
+  },
+  {
+    "code": "61.72.030.007",
+    "villageCode": "007",
+    "districtCode": "61.72.030",
+    "name": "Semelagi Kecil",
+    "alias": "Semelagi Kecil"
+  }
+]

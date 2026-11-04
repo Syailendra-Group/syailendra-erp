@@ -1,0 +1,93 @@
+[
+  {
+    "code": "32.04.060.001",
+    "villageCode": "001",
+    "districtCode": "32.04.060",
+    "name": "Cikitu",
+    "alias": "Cikitu"
+  },
+  {
+    "code": "32.04.060.002",
+    "villageCode": "002",
+    "districtCode": "32.04.060",
+    "name": "Girimulya",
+    "alias": "Girimulya"
+  },
+  {
+    "code": "32.04.060.003",
+    "villageCode": "003",
+    "districtCode": "32.04.060",
+    "name": "Sukarame",
+    "alias": "Sukarame"
+  },
+  {
+    "code": "32.04.060.004",
+    "villageCode": "004",
+    "districtCode": "32.04.060",
+    "name": "Cikawao",
+    "alias": "Cikawao"
+  },
+  {
+    "code": "32.04.060.005",
+    "villageCode": "005",
+    "districtCode": "32.04.060",
+    "name": "Nagrak",
+    "alias": "Nagrak"
+  },
+  {
+    "code": "32.04.060.006",
+    "villageCode": "006",
+    "districtCode": "32.04.060",
+    "name": "Mandalahaji",
+    "alias": "Mandalahaji"
+  },
+  {
+    "code": "32.04.060.007",
+    "villageCode": "007",
+    "districtCode": "32.04.060",
+    "name": "Maruyung",
+    "alias": "Maruyung"
+  },
+  {
+    "code": "32.04.060.008",
+    "villageCode": "008",
+    "districtCode": "32.04.060",
+    "name": "Pangauban",
+    "alias": "Pangauban"
+  },
+  {
+    "code": "32.04.060.009",
+    "villageCode": "009",
+    "districtCode": "32.04.060",
+    "name": "Cinanggela",
+    "alias": "Cinanggela"
+  },
+  {
+    "code": "32.04.060.010",
+    "villageCode": "010",
+    "districtCode": "32.04.060",
+    "name": "Mekarjaya",
+    "alias": "Mekarjaya"
+  },
+  {
+    "code": "32.04.060.011",
+    "villageCode": "011",
+    "districtCode": "32.04.060",
+    "name": "Mekarsari",
+    "alias": "Mekarsari"
+  },
+  {
+    "code": "32.04.060.012",
+    "villageCode": "012",
+    "districtCode": "32.04.060",
+    "name": "Cipeujeuh",
+    "alias": "Cipeujeuh"
+  },
+  {
+    "code": "32.04.060.013",
+    "villageCode": "013",
+    "districtCode": "32.04.060",
+    "name": "Tanjungwangi",
+    "alias": "Tanjungwangi"
+  }
+]

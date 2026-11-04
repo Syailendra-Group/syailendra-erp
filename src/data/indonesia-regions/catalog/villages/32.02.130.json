@@ -1,0 +1,79 @@
+[
+  {
+    "code": "32.02.130.001",
+    "villageCode": "001",
+    "districtCode": "32.02.130",
+    "name": "Bantarpanjang",
+    "alias": "Bantarpanjang"
+  },
+  {
+    "code": "32.02.130.009",
+    "villageCode": "009",
+    "districtCode": "32.02.130",
+    "name": "Bojongtipar",
+    "alias": "Bojongtipar"
+  },
+  {
+    "code": "32.02.130.010",
+    "villageCode": "010",
+    "districtCode": "32.02.130",
+    "name": "Cijulang",
+    "alias": "Cijulang"
+  },
+  {
+    "code": "32.02.130.011",
+    "villageCode": "011",
+    "districtCode": "32.02.130",
+    "name": "Nangerang",
+    "alias": "Nangerang"
+  },
+  {
+    "code": "32.02.130.012",
+    "villageCode": "012",
+    "districtCode": "32.02.130",
+    "name": "Bojong Jengkol",
+    "alias": "Bojong Jengkol"
+  },
+  {
+    "code": "32.02.130.013",
+    "villageCode": "013",
+    "districtCode": "32.02.130",
+    "name": "Bantar Agung",
+    "alias": "Bantar Agung"
+  },
+  {
+    "code": "32.02.130.014",
+    "villageCode": "014",
+    "districtCode": "32.02.130",
+    "name": "Jampang Tengah",
+    "alias": "Jampang Tengah"
+  },
+  {
+    "code": "32.02.130.015",
+    "villageCode": "015",
+    "districtCode": "32.02.130",
+    "name": "Panumbangan",
+    "alias": "Panumbangan"
+  },
+  {
+    "code": "32.02.130.016",
+    "villageCode": "016",
+    "districtCode": "32.02.130",
+    "name": "Sindangresmi",
+    "alias": "Sindangresmi"
+  },
+  {
+    "code": "32.02.130.017",
+    "villageCode": "017",
+    "districtCode": "32.02.130",
+    "name": "Tanjungsari",
+    "alias": "Tanjungsari"
+  },
+  {
+    "code": "32.02.130.018",
+    "villageCode": "018",
+    "districtCode": "32.02.130",
+    "name": "Padabeunghar",
+    "alias": "Padabeunghar"
+  }
+]

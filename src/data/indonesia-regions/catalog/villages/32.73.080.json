@@ -1,0 +1,30 @@
+[
+  {
+    "code": "32.73.080.001",
+    "villageCode": "001",
+    "districtCode": "32.73.080",
+    "name": "Wates",
+    "alias": "Wates"
+  },
+  {
+    "code": "32.73.080.002",
+    "villageCode": "002",
+    "districtCode": "32.73.080",
+    "name": "Mengger",
+    "alias": "Mengger"
+  },
+  {
+    "code": "32.73.080.003",
+    "villageCode": "003",
+    "districtCode": "32.73.080",
+    "name": "Batununggal",
+    "alias": "Batununggal"
+  },
+  {
+    "code": "32.73.080.004",
+    "villageCode": "004",
+    "districtCode": "32.73.080",
+    "name": "Kujangsari",
+    "alias": "Kujangsari"
+  }
+]

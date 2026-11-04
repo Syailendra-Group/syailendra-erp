@@ -1,0 +1,107 @@
+[
+  {
+    "code": "34.01.010.001",
+    "villageCode": "001",
+    "districtCode": "34.01.010",
+    "name": "Jangkaran",
+    "alias": "Jangkaran"
+  },
+  {
+    "code": "34.01.010.002",
+    "villageCode": "002",
+    "districtCode": "34.01.010",
+    "name": "Sindutan",
+    "alias": "Sindutan"
+  },
+  {
+    "code": "34.01.010.003",
+    "villageCode": "003",
+    "districtCode": "34.01.010",
+    "name": "Palihan",
+    "alias": "Palihan"
+  },
+  {
+    "code": "34.01.010.004",
+    "villageCode": "004",
+    "districtCode": "34.01.010",
+    "name": "Glagah",
+    "alias": "Glagah"
+  },
+  {
+    "code": "34.01.010.005",
+    "villageCode": "005",
+    "districtCode": "34.01.010",
+    "name": "Kali Dengen",
+    "alias": "Kali Dengen"
+  },
+  {
+    "code": "34.01.010.006",
+    "villageCode": "006",
+    "districtCode": "34.01.010",
+    "name": "Plumbon",
+    "alias": "Plumbon"
+  },
+  {
+    "code": "34.01.010.007",
+    "villageCode": "007",
+    "districtCode": "34.01.010",
+    "name": "Kedundang",
+    "alias": "Kedundang"
+  },
+  {
+    "code": "34.01.010.008",
+    "villageCode": "008",
+    "districtCode": "34.01.010",
+    "name": "Demen",
+    "alias": "Demen"
+  },
+  {
+    "code": "34.01.010.009",
+    "villageCode": "009",
+    "districtCode": "34.01.010",
+    "name": "Kulur",
+    "alias": "Kulur"
+  },
+  {
+    "code": "34.01.010.010",
+    "villageCode": "010",
+    "districtCode": "34.01.010",
+    "name": "Kaligintung",
+    "alias": "Kaligintung"
+  },
+  {
+    "code": "34.01.010.011",
+    "villageCode": "011",
+    "districtCode": "34.01.010",
+    "name": "Temon Wetan",
+    "alias": "Temon Wetan"
+  },
+  {
+    "code": "34.01.010.012",
+    "villageCode": "012",
+    "districtCode": "34.01.010",
+    "name": "Temon Kulon",
+    "alias": "Temon Kulon"
+  },
+  {
+    "code": "34.01.010.013",
+    "villageCode": "013",
+    "districtCode": "34.01.010",
+    "name": "Kebonrejo",
+    "alias": "Kebonrejo"
+  },
+  {
+    "code": "34.01.010.014",
+    "villageCode": "014",
+    "districtCode": "34.01.010",
+    "name": "Janten",
+    "alias": "Janten"
+  },
+  {
+    "code": "34.01.010.015",
+    "villageCode": "015",
+    "districtCode": "34.01.010",
+    "name": "Karang Wuluh",
+    "alias": "Karang Wuluh"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "code": "64.74.010",
+    "districtCode": "010",
+    "regencyCode": "64.74",
+    "provinceCode": "64",
+    "name": "Kecamatan Bontang Selatan",
+    "alias": "Bontang Selatan"
+  },
+  {
+    "code": "64.74.020",
+    "districtCode": "020",
+    "regencyCode": "64.74",
+    "provinceCode": "64",
+    "name": "Kecamatan Bontang Utara",
+    "alias": "Bontang Utara"
+  },
+  {
+    "code": "64.74.030",
+    "districtCode": "030",
+    "regencyCode": "64.74",
+    "provinceCode": "64",
+    "name": "Kecamatan Bontang Barat",
+    "alias": "Bontang Barat"
+  }
+]

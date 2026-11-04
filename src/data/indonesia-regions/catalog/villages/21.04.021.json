@@ -1,0 +1,23 @@
+[
+  {
+    "code": "21.04.021.001",
+    "villageCode": "001",
+    "districtCode": "21.04.021",
+    "name": "Berhala",
+    "alias": "Berhala"
+  },
+  {
+    "code": "21.04.021.002",
+    "villageCode": "002",
+    "districtCode": "21.04.021",
+    "name": "Marok Kecil",
+    "alias": "Marok Kecil"
+  },
+  {
+    "code": "21.04.021.003",
+    "villageCode": "003",
+    "districtCode": "21.04.021",
+    "name": "Resang",
+    "alias": "Resang"
+  }
+]

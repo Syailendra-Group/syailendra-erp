@@ -1,0 +1,93 @@
+[
+  {
+    "code": "32.15.120.001",
+    "villageCode": "001",
+    "districtCode": "32.15.120",
+    "name": "Pasirkaliki",
+    "alias": "Pasirkaliki"
+  },
+  {
+    "code": "32.15.120.002",
+    "villageCode": "002",
+    "districtCode": "32.15.120",
+    "name": "Kutawargi",
+    "alias": "Kutawargi"
+  },
+  {
+    "code": "32.15.120.003",
+    "villageCode": "003",
+    "districtCode": "32.15.120",
+    "name": "Cibadak",
+    "alias": "Cibadak"
+  },
+  {
+    "code": "32.15.120.004",
+    "villageCode": "004",
+    "districtCode": "32.15.120",
+    "name": "Sukamerta",
+    "alias": "Sukamerta"
+  },
+  {
+    "code": "32.15.120.005",
+    "villageCode": "005",
+    "districtCode": "32.15.120",
+    "name": "Pasirawi",
+    "alias": "Pasirawi"
+  },
+  {
+    "code": "32.15.120.006",
+    "villageCode": "006",
+    "districtCode": "32.15.120",
+    "name": "Balongsari",
+    "alias": "Balongsari"
+  },
+  {
+    "code": "32.15.120.007",
+    "villageCode": "007",
+    "districtCode": "32.15.120",
+    "name": "Purwamekar",
+    "alias": "Purwamekar"
+  },
+  {
+    "code": "32.15.120.008",
+    "villageCode": "008",
+    "districtCode": "32.15.120",
+    "name": "Mekarjaya",
+    "alias": "Mekarjaya"
+  },
+  {
+    "code": "32.15.120.009",
+    "villageCode": "009",
+    "districtCode": "32.15.120",
+    "name": "Sekarwangi",
+    "alias": "Sekarwangi"
+  },
+  {
+    "code": "32.15.120.010",
+    "villageCode": "010",
+    "districtCode": "32.15.120",
+    "name": "Panyingkiran",
+    "alias": "Panyingkiran"
+  },
+  {
+    "code": "32.15.120.011",
+    "villageCode": "011",
+    "districtCode": "32.15.120",
+    "name": "Sukapura",
+    "alias": "Sukapura"
+  },
+  {
+    "code": "32.15.120.012",
+    "villageCode": "012",
+    "districtCode": "32.15.120",
+    "name": "Gombongsari",
+    "alias": "Gombongsari"
+  },
+  {
+    "code": "32.15.120.013",
+    "villageCode": "013",
+    "districtCode": "32.15.120",
+    "name": "Sukaraja",
+    "alias": "Sukaraja"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "code": "35.10.010",
+    "districtCode": "010",
+    "regencyCode": "35.10",
+    "provinceCode": "35",
+    "name": "Kecamatan Pesanggaran",
+    "alias": "Pesanggaran"
+  },
+  {
+    "code": "35.10.011",
+    "districtCode": "011",
+    "regencyCode": "35.10",
+    "provinceCode": "35",
+    "name": "Kecamatan Siliragung",
+    "alias": "Siliragung"
+  },
+  {
+    "code": "35.10.020",
+    "districtCode": "020",
+    "regencyCode": "35.10",
+    "provinceCode": "35",
+    "name": "Kecamatan Bangorejo",
+    "alias": "Bangorejo"
+  },
+  {
+    "code": "35.10.030",
+    "districtCode": "030",
+    "regencyCode": "35.10",
+    "provinceCode": "35",
+    "name": "Kecamatan Purwoharjo",
+    "alias": "Purwoharjo"
+  },
+  {
+    "code": "35.10.040",
+    "districtCode": "040",
+    "regencyCode": "35.10",
+    "provinceCode": "35",
+    "name": "Kecamatan Tegaldlimo",
+    "alias": "Tegaldlimo"
+  },
+  {
+    "code": "35.10.050",
+    "districtCode": "050",
+    "regencyCode": "35.10",
+    "provinceCode": "35",
+    "name": "Kecamatan Muncar",
+    "alias": "Muncar"
+  },
+  {
+    "code": "35.10.060",
+    "districtCode": "060",
+    "regencyCode": "35.10",
+    "provinceCode": "35",
+    "name": "Kecamatan Cluring",
+    "alias": "Cluring"
+  },
+  {
+    "code": "35.10.070",
+    "districtCode": "070",
+    "regencyCode": "35.10",
+    "provinceCode": "35",
+    "name": "Kecamatan Gambiran",
+    "alias": "Gambiran"
+  },
+  {
+    "code": "35.10.071",
+    "districtCode": "071",
+    "regencyCode": "35.10",
+    "provinceCode": "35",
+    "name": "Kecamatan Tegalsari",
+    "alias": "Tegalsari"
+  },
+  {
+    "code": "35.10.080",
+    "districtCode": "080",
+    "regencyCode": "35.10",
+    "provinceCode": "35",
+    "name": "Kecamatan Glenmore",
+    "alias": "Glenmore"
+  },
+  {
+    "code": "35.10.090",
+    "districtCode": "090",
+    "regencyCode": "35.10",
+    "provinceCode": "35",
+    "name": "Kecamatan Kalibaru",
+    "alias": "Kalibaru"
+  },
+  {
+    "code": "35.10.100",
+    "districtCode": "100",
+    "regencyCode": "35.10",
+    "provinceCode": "35",
+    "name": "Kecamatan Genteng",
+    "alias": "Genteng"
+  },
+  {
+    "code": "35.10.110",
+    "districtCode": "110",
+    "regencyCode": "35.10",
+    "provinceCode": "35",
+    "name": "Kecamatan Srono",
+    "alias": "Srono"
+  },
+  {
+    "code": "35.10.120",
+    "districtCode": "120",
+    "regencyCode": "35.10",
+    "provinceCode": "35",
+    "name": "Kecamatan Rogojampi",
+    "alias": "Rogojampi"
+  },
+  {
+    "code": "35.10.121",
+    "districtCode": "121",
+    "regencyCode": "35.10",
+    "provinceCode": "35",
+    "name": "Kecamatan Blimbingsari",
+    "alias": "Blimbingsari"
+  },
+  {
+    "code": "35.10.130",
+    "districtCode": "130",
+    "regencyCode": "35.10",
+    "provinceCode": "35",
+    "name": "Kecamatan Kabat",
+    "alias": "Kabat"
+  },
+  {
+    "code": "35.10.140",
+    "districtCode": "140",
+    "regencyCode": "35.10",
+    "provinceCode": "35",
+    "name": "Kecamatan Singojuruh",
+    "alias": "Singojuruh"
+  },
+  {
+    "code": "35.10.150",
+    "districtCode": "150",
+    "regencyCode": "35.10",
+    "provinceCode": "35",
+    "name": "Kecamatan Sempu",
+    "alias": "Sempu"
+  },
+  {
+    "code": "35.10.160",
+    "districtCode": "160",
+    "regencyCode": "35.10",
+    "provinceCode": "35",
+    "name": "Kecamatan Songgon",
+    "alias": "Songgon"
+  },
+  {
+    "code": "35.10.170",
+    "districtCode": "170",
+    "regencyCode": "35.10",
+    "provinceCode": "35",
+    "name": "Kecamatan Glagah",
+    "alias": "Glagah"
+  },
+  {
+    "code": "35.10.171",
+    "districtCode": "171",
+    "regencyCode": "35.10",
+    "provinceCode": "35",
+    "name": "Kecamatan Licin",
+    "alias": "Licin"
+  },
+  {
+    "code": "35.10.180",
+    "districtCode": "180",
+    "regencyCode": "35.10",
+    "provinceCode": "35",
+    "name": "Kecamatan Banyuwangi",
+    "alias": "Banyuwangi"
+  },
+  {
+    "code": "35.10.190",
+    "districtCode": "190",
+    "regencyCode": "35.10",
+    "provinceCode": "35",
+    "name": "Kecamatan Giri",
+    "alias": "Giri"
+  },
+  {
+    "code": "35.10.200",
+    "districtCode": "200",
+    "regencyCode": "35.10",
+    "provinceCode": "35",
+    "name": "Kecamatan Kalipuro",
+    "alias": "Kalipuro"
+  },
+  {
+    "code": "35.10.210",
+    "districtCode": "210",
+    "regencyCode": "35.10",
+    "provinceCode": "35",
+    "name": "Kecamatan Wongsorejo",
+    "alias": "Wongsorejo"
+  }
+]

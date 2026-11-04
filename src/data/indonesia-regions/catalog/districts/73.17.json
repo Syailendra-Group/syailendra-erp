@@ -1,0 +1,178 @@
+[
+  {
+    "code": "73.17.010",
+    "districtCode": "010",
+    "regencyCode": "73.17",
+    "provinceCode": "73",
+    "name": "Kecamatan Larompong",
+    "alias": "Larompong"
+  },
+  {
+    "code": "73.17.011",
+    "districtCode": "011",
+    "regencyCode": "73.17",
+    "provinceCode": "73",
+    "name": "Kecamatan Larompong Selatan",
+    "alias": "Larompong Selatan"
+  },
+  {
+    "code": "73.17.020",
+    "districtCode": "020",
+    "regencyCode": "73.17",
+    "provinceCode": "73",
+    "name": "Kecamatan Suli",
+    "alias": "Suli"
+  },
+  {
+    "code": "73.17.021",
+    "districtCode": "021",
+    "regencyCode": "73.17",
+    "provinceCode": "73",
+    "name": "Kecamatan Suli Barat",
+    "alias": "Suli Barat"
+  },
+  {
+    "code": "73.17.030",
+    "districtCode": "030",
+    "regencyCode": "73.17",
+    "provinceCode": "73",
+    "name": "Kecamatan Belopa",
+    "alias": "Belopa"
+  },
+  {
+    "code": "73.17.031",
+    "districtCode": "031",
+    "regencyCode": "73.17",
+    "provinceCode": "73",
+    "name": "Kecamatan Kamanre",
+    "alias": "Kamanre"
+  },
+  {
+    "code": "73.17.032",
+    "districtCode": "032",
+    "regencyCode": "73.17",
+    "provinceCode": "73",
+    "name": "Kecamatan Belopa Utara",
+    "alias": "Belopa Utara"
+  },
+  {
+    "code": "73.17.040",
+    "districtCode": "040",
+    "regencyCode": "73.17",
+    "provinceCode": "73",
+    "name": "Kecamatan Bajo",
+    "alias": "Bajo"
+  },
+  {
+    "code": "73.17.041",
+    "districtCode": "041",
+    "regencyCode": "73.17",
+    "provinceCode": "73",
+    "name": "Kecamatan Bajo Barat",
+    "alias": "Bajo Barat"
+  },
+  {
+    "code": "73.17.050",
+    "districtCode": "050",
+    "regencyCode": "73.17",
+    "provinceCode": "73",
+    "name": "Kecamatan Bassesangtempe",
+    "alias": "Bassesangtempe"
+  },
+  {
+    "code": "73.17.051",
+    "districtCode": "051",
+    "regencyCode": "73.17",
+    "provinceCode": "73",
+    "name": "Kecamatan Latimojong",
+    "alias": "Latimojong"
+  },
+  {
+    "code": "73.17.052",
+    "districtCode": "052",
+    "regencyCode": "73.17",
+    "provinceCode": "73",
+    "name": "Kecamatan Bassesangtempe Utara",
+    "alias": "Bassesangtempe Utara"
+  },
+  {
+    "code": "73.17.060",
+    "districtCode": "060",
+    "regencyCode": "73.17",
+    "provinceCode": "73",
+    "name": "Kecamatan Bupon",
+    "alias": "Bupon"
+  },
+  {
+    "code": "73.17.061",
+    "districtCode": "061",
+    "regencyCode": "73.17",
+    "provinceCode": "73",
+    "name": "Kecamatan Ponrang",
+    "alias": "Ponrang"
+  },
+  {
+    "code": "73.17.062",
+    "districtCode": "062",
+    "regencyCode": "73.17",
+    "provinceCode": "73",
+    "name": "Kecamatan Ponrang Selatan",
+    "alias": "Ponrang Selatan"
+  },
+  {
+    "code": "73.17.070",
+    "districtCode": "070",
+    "regencyCode": "73.17",
+    "provinceCode": "73",
+    "name": "Kecamatan Bua",
+    "alias": "Bua"
+  },
+  {
+    "code": "73.17.080",
+    "districtCode": "080",
+    "regencyCode": "73.17",
+    "provinceCode": "73",
+    "name": "Kecamatan Walenrang",
+    "alias": "Walenrang"
+  },
+  {
+    "code": "73.17.081",
+    "districtCode": "081",
+    "regencyCode": "73.17",
+    "provinceCode": "73",
+    "name": "Kecamatan Walenrang Timur",
+    "alias": "Walenrang Timur"
+  },
+  {
+    "code": "73.17.090",
+    "districtCode": "090",
+    "regencyCode": "73.17",
+    "provinceCode": "73",
+    "name": "Kecamatan Lamasi",
+    "alias": "Lamasi"
+  },
+  {
+    "code": "73.17.091",
+    "districtCode": "091",
+    "regencyCode": "73.17",
+    "provinceCode": "73",
+    "name": "Kecamatan Walenrang Utara",
+    "alias": "Walenrang Utara"
+  },
+  {
+    "code": "73.17.092",
+    "districtCode": "092",
+    "regencyCode": "73.17",
+    "provinceCode": "73",
+    "name": "Kecamatan Walenrang Barat",
+    "alias": "Walenrang Barat"
+  },
+  {
+    "code": "73.17.093",
+    "districtCode": "093",
+    "regencyCode": "73.17",
+    "provinceCode": "73",
+    "name": "Kecamatan Lamasi Timur",
+    "alias": "Lamasi Timur"
+  }
+]

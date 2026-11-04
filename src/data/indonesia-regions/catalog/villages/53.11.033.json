@@ -1,0 +1,72 @@
+[
+  {
+    "code": "53.11.033.001",
+    "villageCode": "001",
+    "districtCode": "53.11.033",
+    "name": "Kel. Kotaraja",
+    "alias": "Kel. Kotaraja"
+  },
+  {
+    "code": "53.11.033.002",
+    "villageCode": "002",
+    "districtCode": "53.11.033",
+    "name": "Kel. Kotaratu",
+    "alias": "Kel. Kotaratu"
+  },
+  {
+    "code": "53.11.033.003",
+    "villageCode": "003",
+    "districtCode": "53.11.033",
+    "name": "Kel. Roworena",
+    "alias": "Kel. Roworena"
+  },
+  {
+    "code": "53.11.033.004",
+    "villageCode": "004",
+    "districtCode": "53.11.033",
+    "name": "Gheoghoma",
+    "alias": "Gheoghoma"
+  },
+  {
+    "code": "53.11.033.005",
+    "villageCode": "005",
+    "districtCode": "53.11.033",
+    "name": "Borokanda",
+    "alias": "Borokanda"
+  },
+  {
+    "code": "53.11.033.006",
+    "villageCode": "006",
+    "districtCode": "53.11.033",
+    "name": "Watusipi",
+    "alias": "Watusipi"
+  },
+  {
+    "code": "53.11.033.007",
+    "villageCode": "007",
+    "districtCode": "53.11.033",
+    "name": "Kel. Roworena Barat",
+    "alias": "Kel. Roworena Barat"
+  },
+  {
+    "code": "53.11.033.008",
+    "villageCode": "008",
+    "districtCode": "53.11.033",
+    "name": "Mbomba",
+    "alias": "Mbomba"
+  },
+  {
+    "code": "53.11.033.009",
+    "villageCode": "009",
+    "districtCode": "53.11.033",
+    "name": "Embundoa",
+    "alias": "Embundoa"
+  },
+  {
+    "code": "53.11.033.010",
+    "villageCode": "010",
+    "districtCode": "53.11.033",
+    "name": "Raterua",
+    "alias": "Raterua"
+  }
+]

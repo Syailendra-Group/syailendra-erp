@@ -1,0 +1,79 @@
+[
+  {
+    "code": "62.05.030.001",
+    "villageCode": "001",
+    "districtCode": "62.05.030",
+    "name": "Muara Mea",
+    "alias": "Muara Mea"
+  },
+  {
+    "code": "62.05.030.002",
+    "villageCode": "002",
+    "districtCode": "62.05.030",
+    "name": "Lawarang",
+    "alias": "Lawarang"
+  },
+  {
+    "code": "62.05.030.003",
+    "villageCode": "003",
+    "districtCode": "62.05.030",
+    "name": "Lampeong Ii",
+    "alias": "Lampeong Ii"
+  },
+  {
+    "code": "62.05.030.004",
+    "villageCode": "004",
+    "districtCode": "62.05.030",
+    "name": "Lampeong I",
+    "alias": "Lampeong I"
+  },
+  {
+    "code": "62.05.030.005",
+    "villageCode": "005",
+    "districtCode": "62.05.030",
+    "name": "Berong",
+    "alias": "Berong"
+  },
+  {
+    "code": "62.05.030.006",
+    "villageCode": "006",
+    "districtCode": "62.05.030",
+    "name": "Baok",
+    "alias": "Baok"
+  },
+  {
+    "code": "62.05.030.007",
+    "villageCode": "007",
+    "districtCode": "62.05.030",
+    "name": "Payang",
+    "alias": "Payang"
+  },
+  {
+    "code": "62.05.030.008",
+    "villageCode": "008",
+    "districtCode": "62.05.030",
+    "name": "Linon Besi Ii",
+    "alias": "Linon Besi Ii"
+  },
+  {
+    "code": "62.05.030.009",
+    "villageCode": "009",
+    "districtCode": "62.05.030",
+    "name": "Tanjung Harapan",
+    "alias": "Tanjung Harapan"
+  },
+  {
+    "code": "62.05.030.010",
+    "villageCode": "010",
+    "districtCode": "62.05.030",
+    "name": "Linon Besi I",
+    "alias": "Linon Besi I"
+  },
+  {
+    "code": "62.05.030.011",
+    "villageCode": "011",
+    "districtCode": "62.05.030",
+    "name": "Tambaba",
+    "alias": "Tambaba"
+  }
+]

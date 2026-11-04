@@ -1,0 +1,86 @@
+[
+  {
+    "code": "73.71.070.001",
+    "villageCode": "001",
+    "districtCode": "73.71.070",
+    "name": "Gaddong",
+    "alias": "Gaddong"
+  },
+  {
+    "code": "73.71.070.002",
+    "villageCode": "002",
+    "districtCode": "73.71.070",
+    "name": "Wajo Baru",
+    "alias": "Wajo Baru"
+  },
+  {
+    "code": "73.71.070.003",
+    "villageCode": "003",
+    "districtCode": "73.71.070",
+    "name": "Tompo Balang",
+    "alias": "Tompo Balang"
+  },
+  {
+    "code": "73.71.070.004",
+    "villageCode": "004",
+    "districtCode": "73.71.070",
+    "name": "Malimongan Baru",
+    "alias": "Malimongan Baru"
+  },
+  {
+    "code": "73.71.070.005",
+    "villageCode": "005",
+    "districtCode": "73.71.070",
+    "name": "Timungan Lompoa",
+    "alias": "Timungan Lompoa"
+  },
+  {
+    "code": "73.71.070.006",
+    "villageCode": "006",
+    "districtCode": "73.71.070",
+    "name": "Baraya",
+    "alias": "Baraya"
+  },
+  {
+    "code": "73.71.070.007",
+    "villageCode": "007",
+    "districtCode": "73.71.070",
+    "name": "Bontoala",
+    "alias": "Bontoala"
+  },
+  {
+    "code": "73.71.070.008",
+    "villageCode": "008",
+    "districtCode": "73.71.070",
+    "name": "Bontoala Parang",
+    "alias": "Bontoala Parang"
+  },
+  {
+    "code": "73.71.070.009",
+    "villageCode": "009",
+    "districtCode": "73.71.070",
+    "name": "Bontoala Tua",
+    "alias": "Bontoala Tua"
+  },
+  {
+    "code": "73.71.070.010",
+    "villageCode": "010",
+    "districtCode": "73.71.070",
+    "name": "Bunga Ejaya",
+    "alias": "Bunga Ejaya"
+  },
+  {
+    "code": "73.71.070.011",
+    "villageCode": "011",
+    "districtCode": "73.71.070",
+    "name": "Layang",
+    "alias": "Layang"
+  },
+  {
+    "code": "73.71.070.012",
+    "villageCode": "012",
+    "districtCode": "73.71.070",
+    "name": "Parang Layang",
+    "alias": "Parang Layang"
+  }
+]

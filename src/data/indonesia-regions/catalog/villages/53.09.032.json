@@ -1,0 +1,51 @@
+[
+  {
+    "code": "53.09.032.001",
+    "villageCode": "001",
+    "districtCode": "53.09.032",
+    "name": "Lamika",
+    "alias": "Lamika"
+  },
+  {
+    "code": "53.09.032.002",
+    "villageCode": "002",
+    "districtCode": "53.09.032",
+    "name": "Kawalelo",
+    "alias": "Kawalelo"
+  },
+  {
+    "code": "53.09.032.003",
+    "villageCode": "003",
+    "districtCode": "53.09.032",
+    "name": "Watotika Ile",
+    "alias": "Watotika Ile"
+  },
+  {
+    "code": "53.09.032.004",
+    "villageCode": "004",
+    "districtCode": "53.09.032",
+    "name": "Lewokluok",
+    "alias": "Lewokluok"
+  },
+  {
+    "code": "53.09.032.005",
+    "villageCode": "005",
+    "districtCode": "53.09.032",
+    "name": "Blepanawa",
+    "alias": "Blepanawa"
+  },
+  {
+    "code": "53.09.032.006",
+    "villageCode": "006",
+    "districtCode": "53.09.032",
+    "name": "Bama",
+    "alias": "Bama"
+  },
+  {
+    "code": "53.09.032.007",
+    "villageCode": "007",
+    "districtCode": "53.09.032",
+    "name": "Lewomuda",
+    "alias": "Lewomuda"
+  }
+]

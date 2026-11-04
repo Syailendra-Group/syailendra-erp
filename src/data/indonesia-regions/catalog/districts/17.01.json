@@ -1,0 +1,90 @@
+[
+  {
+    "code": "17.01.040",
+    "districtCode": "040",
+    "regencyCode": "17.01",
+    "provinceCode": "17",
+    "name": "Kecamatan Manna",
+    "alias": "Manna"
+  },
+  {
+    "code": "17.01.041",
+    "districtCode": "041",
+    "regencyCode": "17.01",
+    "provinceCode": "17",
+    "name": "Kecamatan Kota Manna",
+    "alias": "Kota Manna"
+  },
+  {
+    "code": "17.01.042",
+    "districtCode": "042",
+    "regencyCode": "17.01",
+    "provinceCode": "17",
+    "name": "Kecamatan Kedurang",
+    "alias": "Kedurang"
+  },
+  {
+    "code": "17.01.043",
+    "districtCode": "043",
+    "regencyCode": "17.01",
+    "provinceCode": "17",
+    "name": "Kecamatan Bunga Mas",
+    "alias": "Bunga Mas"
+  },
+  {
+    "code": "17.01.044",
+    "districtCode": "044",
+    "regencyCode": "17.01",
+    "provinceCode": "17",
+    "name": "Kecamatan Pasar Manna",
+    "alias": "Pasar Manna"
+  },
+  {
+    "code": "17.01.045",
+    "districtCode": "045",
+    "regencyCode": "17.01",
+    "provinceCode": "17",
+    "name": "Kecamatan Kedurang Ilir",
+    "alias": "Kedurang Ilir"
+  },
+  {
+    "code": "17.01.050",
+    "districtCode": "050",
+    "regencyCode": "17.01",
+    "provinceCode": "17",
+    "name": "Kecamatan Seginim",
+    "alias": "Seginim"
+  },
+  {
+    "code": "17.01.051",
+    "districtCode": "051",
+    "regencyCode": "17.01",
+    "provinceCode": "17",
+    "name": "Kecamatan Air Nipis",
+    "alias": "Air Nipis"
+  },
+  {
+    "code": "17.01.060",
+    "districtCode": "060",
+    "regencyCode": "17.01",
+    "provinceCode": "17",
+    "name": "Kecamatan Pino",
+    "alias": "Pino"
+  },
+  {
+    "code": "17.01.061",
+    "districtCode": "061",
+    "regencyCode": "17.01",
+    "provinceCode": "17",
+    "name": "Kecamatan Pinoraya",
+    "alias": "Pinoraya"
+  },
+  {
+    "code": "17.01.062",
+    "districtCode": "062",
+    "regencyCode": "17.01",
+    "provinceCode": "17",
+    "name": "Kecamatan Ulu Manna",
+    "alias": "Ulu Manna"
+  }
+]

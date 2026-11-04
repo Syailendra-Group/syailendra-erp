@@ -1,0 +1,58 @@
+[
+  {
+    "code": "71.72.010.008",
+    "villageCode": "008",
+    "districtCode": "71.72.010",
+    "name": "Paceda",
+    "alias": "Paceda"
+  },
+  {
+    "code": "71.72.010.009",
+    "villageCode": "009",
+    "districtCode": "71.72.010",
+    "name": "Madidir Unet",
+    "alias": "Madidir Unet"
+  },
+  {
+    "code": "71.72.010.010",
+    "villageCode": "010",
+    "districtCode": "71.72.010",
+    "name": "Madidir Ure",
+    "alias": "Madidir Ure"
+  },
+  {
+    "code": "71.72.010.011",
+    "villageCode": "011",
+    "districtCode": "71.72.010",
+    "name": "Madidir Weru",
+    "alias": "Madidir Weru"
+  },
+  {
+    "code": "71.72.010.012",
+    "villageCode": "012",
+    "districtCode": "71.72.010",
+    "name": "Kadoodan",
+    "alias": "Kadoodan"
+  },
+  {
+    "code": "71.72.010.015",
+    "villageCode": "015",
+    "districtCode": "71.72.010",
+    "name": "Wangurer Barat",
+    "alias": "Wangurer Barat"
+  },
+  {
+    "code": "71.72.010.016",
+    "villageCode": "016",
+    "districtCode": "71.72.010",
+    "name": "Wangurer Timur",
+    "alias": "Wangurer Timur"
+  },
+  {
+    "code": "71.72.010.017",
+    "villageCode": "017",
+    "districtCode": "71.72.010",
+    "name": "Wangurer Utara",
+    "alias": "Wangurer Utara"
+  }
+]

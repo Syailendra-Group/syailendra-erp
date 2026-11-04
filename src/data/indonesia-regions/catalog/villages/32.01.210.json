@@ -1,0 +1,93 @@
+[
+  {
+    "code": "32.01.210.001",
+    "villageCode": "001",
+    "districtCode": "32.01.210",
+    "name": "Karadenan",
+    "alias": "Karadenan"
+  },
+  {
+    "code": "32.01.210.002",
+    "villageCode": "002",
+    "districtCode": "32.01.210",
+    "name": "Nanggewer",
+    "alias": "Nanggewer"
+  },
+  {
+    "code": "32.01.210.003",
+    "villageCode": "003",
+    "districtCode": "32.01.210",
+    "name": "Nanggewer Mekar",
+    "alias": "Nanggewer Mekar"
+  },
+  {
+    "code": "32.01.210.004",
+    "villageCode": "004",
+    "districtCode": "32.01.210",
+    "name": "Cibinong",
+    "alias": "Cibinong"
+  },
+  {
+    "code": "32.01.210.005",
+    "villageCode": "005",
+    "districtCode": "32.01.210",
+    "name": "Pakansari",
+    "alias": "Pakansari"
+  },
+  {
+    "code": "32.01.210.006",
+    "villageCode": "006",
+    "districtCode": "32.01.210",
+    "name": "Sukahati",
+    "alias": "Sukahati"
+  },
+  {
+    "code": "32.01.210.007",
+    "villageCode": "007",
+    "districtCode": "32.01.210",
+    "name": "Tengah",
+    "alias": "Tengah"
+  },
+  {
+    "code": "32.01.210.008",
+    "villageCode": "008",
+    "districtCode": "32.01.210",
+    "name": "Pondok Rajeg",
+    "alias": "Pondok Rajeg"
+  },
+  {
+    "code": "32.01.210.009",
+    "villageCode": "009",
+    "districtCode": "32.01.210",
+    "name": "Harapan Jaya",
+    "alias": "Harapan Jaya"
+  },
+  {
+    "code": "32.01.210.010",
+    "villageCode": "010",
+    "districtCode": "32.01.210",
+    "name": "Pabuaran",
+    "alias": "Pabuaran"
+  },
+  {
+    "code": "32.01.210.011",
+    "villageCode": "011",
+    "districtCode": "32.01.210",
+    "name": "Cirimekar",
+    "alias": "Cirimekar"
+  },
+  {
+    "code": "32.01.210.012",
+    "villageCode": "012",
+    "districtCode": "32.01.210",
+    "name": "Ciriung",
+    "alias": "Ciriung"
+  },
+  {
+    "code": "32.01.210.013",
+    "villageCode": "013",
+    "districtCode": "32.01.210",
+    "name": "Pabuaran Mekar",
+    "alias": "Pabuaran Mekar"
+  }
+]

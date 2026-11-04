@@ -1,0 +1,100 @@
+[
+  {
+    "code": "53.13.042.001",
+    "villageCode": "001",
+    "districtCode": "53.13.042",
+    "name": "Renda",
+    "alias": "Renda"
+  },
+  {
+    "code": "53.13.042.002",
+    "villageCode": "002",
+    "districtCode": "53.13.042",
+    "name": "Todo",
+    "alias": "Todo"
+  },
+  {
+    "code": "53.13.042.003",
+    "villageCode": "003",
+    "districtCode": "53.13.042",
+    "name": "Gulung",
+    "alias": "Gulung"
+  },
+  {
+    "code": "53.13.042.004",
+    "villageCode": "004",
+    "districtCode": "53.13.042",
+    "name": "Popo",
+    "alias": "Popo"
+  },
+  {
+    "code": "53.13.042.005",
+    "villageCode": "005",
+    "districtCode": "53.13.042",
+    "name": "Lia",
+    "alias": "Lia"
+  },
+  {
+    "code": "53.13.042.006",
+    "villageCode": "006",
+    "districtCode": "53.13.042",
+    "name": "Kole",
+    "alias": "Kole"
+  },
+  {
+    "code": "53.13.042.007",
+    "villageCode": "007",
+    "districtCode": "53.13.042",
+    "name": "Ling",
+    "alias": "Ling"
+  },
+  {
+    "code": "53.13.042.008",
+    "villageCode": "008",
+    "districtCode": "53.13.042",
+    "name": "Nao",
+    "alias": "Nao"
+  },
+  {
+    "code": "53.13.042.009",
+    "villageCode": "009",
+    "districtCode": "53.13.042",
+    "name": "Cireng",
+    "alias": "Cireng"
+  },
+  {
+    "code": "53.13.042.010",
+    "villageCode": "010",
+    "districtCode": "53.13.042",
+    "name": "Ruang",
+    "alias": "Ruang"
+  },
+  {
+    "code": "53.13.042.011",
+    "villageCode": "011",
+    "districtCode": "53.13.042",
+    "name": "Mata Wae",
+    "alias": "Mata Wae"
+  },
+  {
+    "code": "53.13.042.012",
+    "villageCode": "012",
+    "districtCode": "53.13.042",
+    "name": "Desa Persiapan Compang Repok",
+    "alias": "Desa Persiapan Compang Repok"
+  },
+  {
+    "code": "53.13.042.013",
+    "villageCode": "013",
+    "districtCode": "53.13.042",
+    "name": "Desa Persiapan Ndajang",
+    "alias": "Desa Persiapan Ndajang"
+  },
+  {
+    "code": "53.13.042.014",
+    "villageCode": "014",
+    "districtCode": "53.13.042",
+    "name": "Desa Persiapan Compang Wotol",
+    "alias": "Desa Persiapan Compang Wotol"
+  }
+]

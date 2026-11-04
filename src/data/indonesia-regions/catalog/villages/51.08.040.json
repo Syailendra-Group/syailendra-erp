@@ -1,0 +1,121 @@
+[
+  {
+    "code": "51.08.040.001",
+    "villageCode": "001",
+    "districtCode": "51.08.040",
+    "name": "Banyuatis",
+    "alias": "Banyuatis"
+  },
+  {
+    "code": "51.08.040.002",
+    "villageCode": "002",
+    "districtCode": "51.08.040",
+    "name": "Gesing",
+    "alias": "Gesing"
+  },
+  {
+    "code": "51.08.040.003",
+    "villageCode": "003",
+    "districtCode": "51.08.040",
+    "name": "Munduk",
+    "alias": "Munduk"
+  },
+  {
+    "code": "51.08.040.004",
+    "villageCode": "004",
+    "districtCode": "51.08.040",
+    "name": "Gobleg",
+    "alias": "Gobleg"
+  },
+  {
+    "code": "51.08.040.005",
+    "villageCode": "005",
+    "districtCode": "51.08.040",
+    "name": "Kayuputih",
+    "alias": "Kayuputih"
+  },
+  {
+    "code": "51.08.040.006",
+    "villageCode": "006",
+    "districtCode": "51.08.040",
+    "name": "Tirtasari",
+    "alias": "Tirtasari"
+  },
+  {
+    "code": "51.08.040.007",
+    "villageCode": "007",
+    "districtCode": "51.08.040",
+    "name": "Banyusri",
+    "alias": "Banyusri"
+  },
+  {
+    "code": "51.08.040.008",
+    "villageCode": "008",
+    "districtCode": "51.08.040",
+    "name": "Pedawa",
+    "alias": "Pedawa"
+  },
+  {
+    "code": "51.08.040.009",
+    "villageCode": "009",
+    "districtCode": "51.08.040",
+    "name": "Tigawasa",
+    "alias": "Tigawasa"
+  },
+  {
+    "code": "51.08.040.010",
+    "villageCode": "010",
+    "districtCode": "51.08.040",
+    "name": "Cempaga",
+    "alias": "Cempaga"
+  },
+  {
+    "code": "51.08.040.011",
+    "villageCode": "011",
+    "districtCode": "51.08.040",
+    "name": "Sidetapa",
+    "alias": "Sidetapa"
+  },
+  {
+    "code": "51.08.040.012",
+    "villageCode": "012",
+    "districtCode": "51.08.040",
+    "name": "Tampekan",
+    "alias": "Tampekan"
+  },
+  {
+    "code": "51.08.040.013",
+    "villageCode": "013",
+    "districtCode": "51.08.040",
+    "name": "Banjar Tegeha",
+    "alias": "Banjar Tegeha"
+  },
+  {
+    "code": "51.08.040.014",
+    "villageCode": "014",
+    "districtCode": "51.08.040",
+    "name": "Banjar",
+    "alias": "Banjar"
+  },
+  {
+    "code": "51.08.040.015",
+    "villageCode": "015",
+    "districtCode": "51.08.040",
+    "name": "Dencarik",
+    "alias": "Dencarik"
+  },
+  {
+    "code": "51.08.040.016",
+    "villageCode": "016",
+    "districtCode": "51.08.040",
+    "name": "Temukus",
+    "alias": "Temukus"
+  },
+  {
+    "code": "51.08.040.017",
+    "villageCode": "017",
+    "districtCode": "51.08.040",
+    "name": "Kaliasem",
+    "alias": "Kaliasem"
+  }
+]

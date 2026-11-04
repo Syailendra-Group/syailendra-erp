@@ -1,0 +1,44 @@
+[
+  {
+    "code": "73.18.011.004",
+    "villageCode": "004",
+    "districtCode": "73.18.011",
+    "name": "Lembang Simbuang",
+    "alias": "Lembang Simbuang"
+  },
+  {
+    "code": "73.18.011.005",
+    "villageCode": "005",
+    "districtCode": "73.18.011",
+    "name": "Kelurahan Sima",
+    "alias": "Kelurahan Sima"
+  },
+  {
+    "code": "73.18.011.006",
+    "villageCode": "006",
+    "districtCode": "73.18.011",
+    "name": "Lembang Pongbembe",
+    "alias": "Lembang Pongbembe"
+  },
+  {
+    "code": "73.18.011.010",
+    "villageCode": "010",
+    "districtCode": "73.18.011",
+    "name": "Lembang Simbuang Batutallu",
+    "alias": "Lembang Simbuang Batutallu"
+  },
+  {
+    "code": "73.18.011.011",
+    "villageCode": "011",
+    "districtCode": "73.18.011",
+    "name": "Lembang Makkodo",
+    "alias": "Lembang Makkodo"
+  },
+  {
+    "code": "73.18.011.012",
+    "villageCode": "012",
+    "districtCode": "73.18.011",
+    "name": "Lembang Puang Bembe Mesakada",
+    "alias": "Lembang Puang Bembe Mesakada"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "code": "53.04.012.001",
+    "villageCode": "001",
+    "districtCode": "53.04.012",
+    "name": "Tobu",
+    "alias": "Tobu"
+  },
+  {
+    "code": "53.04.012.002",
+    "villageCode": "002",
+    "districtCode": "53.04.012",
+    "name": "Tutem",
+    "alias": "Tutem"
+  },
+  {
+    "code": "53.04.012.003",
+    "villageCode": "003",
+    "districtCode": "53.04.012",
+    "name": "Tune",
+    "alias": "Tune"
+  },
+  {
+    "code": "53.04.012.004",
+    "villageCode": "004",
+    "districtCode": "53.04.012",
+    "name": "Bonleu",
+    "alias": "Bonleu"
+  },
+  {
+    "code": "53.04.012.005",
+    "villageCode": "005",
+    "districtCode": "53.04.012",
+    "name": "Huetalan",
+    "alias": "Huetalan"
+  },
+  {
+    "code": "53.04.012.006",
+    "villageCode": "006",
+    "districtCode": "53.04.012",
+    "name": "Pubasu",
+    "alias": "Pubasu"
+  },
+  {
+    "code": "53.04.012.007",
+    "villageCode": "007",
+    "districtCode": "53.04.012",
+    "name": "Bestobe",
+    "alias": "Bestobe"
+  },
+  {
+    "code": "53.04.012.008",
+    "villageCode": "008",
+    "districtCode": "53.04.012",
+    "name": "Saubalan",
+    "alias": "Saubalan"
+  }
+]

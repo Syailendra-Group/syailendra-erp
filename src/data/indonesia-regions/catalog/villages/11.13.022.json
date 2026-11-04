@@ -1,0 +1,79 @@
+[
+  {
+    "code": "11.13.022.001",
+    "villageCode": "001",
+    "districtCode": "11.13.022",
+    "name": "Sangir",
+    "alias": "Sangir"
+  },
+  {
+    "code": "11.13.022.002",
+    "villageCode": "002",
+    "districtCode": "11.13.022",
+    "name": "Panglima Linting",
+    "alias": "Panglima Linting"
+  },
+  {
+    "code": "11.13.022.003",
+    "villageCode": "003",
+    "districtCode": "11.13.022",
+    "name": "Pangur",
+    "alias": "Pangur"
+  },
+  {
+    "code": "11.13.022.004",
+    "villageCode": "004",
+    "districtCode": "11.13.022",
+    "name": "Badak",
+    "alias": "Badak"
+  },
+  {
+    "code": "11.13.022.005",
+    "villageCode": "005",
+    "districtCode": "11.13.022",
+    "name": "Blangtemung",
+    "alias": "Blangtemung"
+  },
+  {
+    "code": "11.13.022.006",
+    "villageCode": "006",
+    "districtCode": "11.13.022",
+    "name": "Kendawi",
+    "alias": "Kendawi"
+  },
+  {
+    "code": "11.13.022.007",
+    "villageCode": "007",
+    "districtCode": "11.13.022",
+    "name": "Pepalan",
+    "alias": "Pepalan"
+  },
+  {
+    "code": "11.13.022.008",
+    "villageCode": "008",
+    "districtCode": "11.13.022",
+    "name": "Uning Sepakat",
+    "alias": "Uning Sepakat"
+  },
+  {
+    "code": "11.13.022.009",
+    "villageCode": "009",
+    "districtCode": "11.13.022",
+    "name": "Uning Gelung",
+    "alias": "Uning Gelung"
+  },
+  {
+    "code": "11.13.022.010",
+    "villageCode": "010",
+    "districtCode": "11.13.022",
+    "name": "Rerebe",
+    "alias": "Rerebe"
+  },
+  {
+    "code": "11.13.022.011",
+    "villageCode": "011",
+    "districtCode": "11.13.022",
+    "name": "Rigeb",
+    "alias": "Rigeb"
+  }
+]

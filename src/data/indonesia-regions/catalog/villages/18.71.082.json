@@ -1,0 +1,37 @@
+[
+  {
+    "code": "18.71.082.001",
+    "villageCode": "001",
+    "districtCode": "18.71.082",
+    "name": "Labuhan Dalam",
+    "alias": "Labuhan Dalam"
+  },
+  {
+    "code": "18.71.082.002",
+    "villageCode": "002",
+    "districtCode": "18.71.082",
+    "name": "Tanjung Senang",
+    "alias": "Tanjung Senang"
+  },
+  {
+    "code": "18.71.082.003",
+    "villageCode": "003",
+    "districtCode": "18.71.082",
+    "name": "Way Kandis",
+    "alias": "Way Kandis"
+  },
+  {
+    "code": "18.71.082.004",
+    "villageCode": "004",
+    "districtCode": "18.71.082",
+    "name": "Perumnas Way Kandis",
+    "alias": "Perumnas Way Kandis"
+  },
+  {
+    "code": "18.71.082.005",
+    "villageCode": "005",
+    "districtCode": "18.71.082",
+    "name": "Pematang Wangi",
+    "alias": "Pematang Wangi"
+  }
+]

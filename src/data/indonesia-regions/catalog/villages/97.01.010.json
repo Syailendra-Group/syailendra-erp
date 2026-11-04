@@ -1,0 +1,37 @@
+[
+  {
+    "code": "97.01.010.001",
+    "villageCode": "001",
+    "districtCode": "97.01.010",
+    "name": "Bambisik",
+    "alias": "Bambisik"
+  },
+  {
+    "code": "97.01.010.002",
+    "villageCode": "002",
+    "districtCode": "97.01.010",
+    "name": "Ndugwa",
+    "alias": "Ndugwa"
+  },
+  {
+    "code": "97.01.010.003",
+    "villageCode": "003",
+    "districtCode": "97.01.010",
+    "name": "Biala",
+    "alias": "Biala"
+  },
+  {
+    "code": "97.01.010.004",
+    "villageCode": "004",
+    "districtCode": "97.01.010",
+    "name": "Pilini",
+    "alias": "Pilini"
+  },
+  {
+    "code": "97.01.010.005",
+    "villageCode": "005",
+    "districtCode": "97.01.010",
+    "name": "Sitpogol",
+    "alias": "Sitpogol"
+  }
+]

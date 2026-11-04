@@ -1,0 +1,37 @@
+[
+  {
+    "code": "13.09.071.001",
+    "villageCode": "001",
+    "districtCode": "13.09.071",
+    "name": "Binjai",
+    "alias": "Binjai"
+  },
+  {
+    "code": "13.09.071.002",
+    "villageCode": "002",
+    "districtCode": "13.09.071",
+    "name": "Ladang Panjang",
+    "alias": "Ladang Panjang"
+  },
+  {
+    "code": "13.09.071.003",
+    "villageCode": "003",
+    "districtCode": "13.09.071",
+    "name": "Malampah",
+    "alias": "Malampah"
+  },
+  {
+    "code": "13.09.071.004",
+    "villageCode": "004",
+    "districtCode": "13.09.071",
+    "name": "Nagari Ladang Panjang Barat",
+    "alias": "Nagari Ladang Panjang Barat"
+  },
+  {
+    "code": "13.09.071.005",
+    "villageCode": "005",
+    "districtCode": "13.09.071",
+    "name": "Nagari Malampah Barat",
+    "alias": "Nagari Malampah Barat"
+  }
+]

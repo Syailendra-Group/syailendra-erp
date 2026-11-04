@@ -1,0 +1,86 @@
+[
+  {
+    "code": "52.03.070.001",
+    "villageCode": "001",
+    "districtCode": "52.03.070",
+    "name": "Denggen",
+    "alias": "Denggen"
+  },
+  {
+    "code": "52.03.070.005",
+    "villageCode": "005",
+    "districtCode": "52.03.070",
+    "name": "Kelayu Jorong",
+    "alias": "Kelayu Jorong"
+  },
+  {
+    "code": "52.03.070.006",
+    "villageCode": "006",
+    "districtCode": "52.03.070",
+    "name": "Kembang Sari",
+    "alias": "Kembang Sari"
+  },
+  {
+    "code": "52.03.070.007",
+    "villageCode": "007",
+    "districtCode": "52.03.070",
+    "name": "Majidi",
+    "alias": "Majidi"
+  },
+  {
+    "code": "52.03.070.008",
+    "villageCode": "008",
+    "districtCode": "52.03.070",
+    "name": "Rakam",
+    "alias": "Rakam"
+  },
+  {
+    "code": "52.03.070.009",
+    "villageCode": "009",
+    "districtCode": "52.03.070",
+    "name": "Pancor",
+    "alias": "Pancor"
+  },
+  {
+    "code": "52.03.070.010",
+    "villageCode": "010",
+    "districtCode": "52.03.070",
+    "name": "Sekarteja",
+    "alias": "Sekarteja"
+  },
+  {
+    "code": "52.03.070.011",
+    "villageCode": "011",
+    "districtCode": "52.03.070",
+    "name": "Sandubaya",
+    "alias": "Sandubaya"
+  },
+  {
+    "code": "52.03.070.012",
+    "villageCode": "012",
+    "districtCode": "52.03.070",
+    "name": "Khusus Kota Selong",
+    "alias": "Khusus Kota Selong"
+  },
+  {
+    "code": "52.03.070.013",
+    "villageCode": "013",
+    "districtCode": "52.03.070",
+    "name": "Kelayu Selatan",
+    "alias": "Kelayu Selatan"
+  },
+  {
+    "code": "52.03.070.014",
+    "villageCode": "014",
+    "districtCode": "52.03.070",
+    "name": "Kelayu Utara",
+    "alias": "Kelayu Utara"
+  },
+  {
+    "code": "52.03.070.015",
+    "villageCode": "015",
+    "districtCode": "52.03.070",
+    "name": "Denggen Timur",
+    "alias": "Denggen Timur"
+  }
+]

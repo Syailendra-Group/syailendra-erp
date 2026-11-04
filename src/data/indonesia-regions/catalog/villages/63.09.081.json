@@ -1,0 +1,65 @@
+[
+  {
+    "code": "63.09.081.001",
+    "villageCode": "001",
+    "districtCode": "63.09.081",
+    "name": "Waling",
+    "alias": "Waling"
+  },
+  {
+    "code": "63.09.081.002",
+    "villageCode": "002",
+    "districtCode": "63.09.081",
+    "name": "Usih",
+    "alias": "Usih"
+  },
+  {
+    "code": "63.09.081.003",
+    "villageCode": "003",
+    "districtCode": "63.09.081",
+    "name": "Bintang Ara",
+    "alias": "Bintang Ara"
+  },
+  {
+    "code": "63.09.081.004",
+    "villageCode": "004",
+    "districtCode": "63.09.081",
+    "name": "Argo Mulyo",
+    "alias": "Argo Mulyo"
+  },
+  {
+    "code": "63.09.081.005",
+    "villageCode": "005",
+    "districtCode": "63.09.081",
+    "name": "Burum",
+    "alias": "Burum"
+  },
+  {
+    "code": "63.09.081.006",
+    "villageCode": "006",
+    "districtCode": "63.09.081",
+    "name": "Panaan",
+    "alias": "Panaan"
+  },
+  {
+    "code": "63.09.081.007",
+    "villageCode": "007",
+    "districtCode": "63.09.081",
+    "name": "Hegar Manah",
+    "alias": "Hegar Manah"
+  },
+  {
+    "code": "63.09.081.008",
+    "villageCode": "008",
+    "districtCode": "63.09.081",
+    "name": "Dambung Raya",
+    "alias": "Dambung Raya"
+  },
+  {
+    "code": "63.09.081.009",
+    "villageCode": "009",
+    "districtCode": "63.09.081",
+    "name": "Bumi Makmur",
+    "alias": "Bumi Makmur"
+  }
+]

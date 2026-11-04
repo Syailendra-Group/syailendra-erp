@@ -1,0 +1,44 @@
+[
+  {
+    "code": "32.76.040.007",
+    "villageCode": "007",
+    "districtCode": "32.76.040",
+    "name": "Curug",
+    "alias": "Curug"
+  },
+  {
+    "code": "32.76.040.009",
+    "villageCode": "009",
+    "districtCode": "32.76.040",
+    "name": "Harjamukti",
+    "alias": "Harjamukti"
+  },
+  {
+    "code": "32.76.040.010",
+    "villageCode": "010",
+    "districtCode": "32.76.040",
+    "name": "Cisalak Pasar",
+    "alias": "Cisalak Pasar"
+  },
+  {
+    "code": "32.76.040.011",
+    "villageCode": "011",
+    "districtCode": "32.76.040",
+    "name": "Mekarsari",
+    "alias": "Mekarsari"
+  },
+  {
+    "code": "32.76.040.012",
+    "villageCode": "012",
+    "districtCode": "32.76.040",
+    "name": "Tugu",
+    "alias": "Tugu"
+  },
+  {
+    "code": "32.76.040.013",
+    "villageCode": "013",
+    "districtCode": "32.76.040",
+    "name": "Pasir Gunung Selatan",
+    "alias": "Pasir Gunung Selatan"
+  }
+]

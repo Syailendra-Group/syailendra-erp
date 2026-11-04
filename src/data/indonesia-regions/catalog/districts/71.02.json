@@ -1,0 +1,202 @@
+[
+  {
+    "code": "71.02.091",
+    "districtCode": "091",
+    "regencyCode": "71.02",
+    "provinceCode": "71",
+    "name": "Kecamatan Langowan Timur",
+    "alias": "Langowan Timur"
+  },
+  {
+    "code": "71.02.092",
+    "districtCode": "092",
+    "regencyCode": "71.02",
+    "provinceCode": "71",
+    "name": "Kecamatan Langowan Barat",
+    "alias": "Langowan Barat"
+  },
+  {
+    "code": "71.02.093",
+    "districtCode": "093",
+    "regencyCode": "71.02",
+    "provinceCode": "71",
+    "name": "Kecamatan Langowan Selatan",
+    "alias": "Langowan Selatan"
+  },
+  {
+    "code": "71.02.094",
+    "districtCode": "094",
+    "regencyCode": "71.02",
+    "provinceCode": "71",
+    "name": "Kecamatan Langowan Utara",
+    "alias": "Langowan Utara"
+  },
+  {
+    "code": "71.02.110",
+    "districtCode": "110",
+    "regencyCode": "71.02",
+    "provinceCode": "71",
+    "name": "Kecamatan Tompaso",
+    "alias": "Tompaso"
+  },
+  {
+    "code": "71.02.111",
+    "districtCode": "111",
+    "regencyCode": "71.02",
+    "provinceCode": "71",
+    "name": "Kecamatan Tompaso Barat",
+    "alias": "Tompaso Barat"
+  },
+  {
+    "code": "71.02.120",
+    "districtCode": "120",
+    "regencyCode": "71.02",
+    "provinceCode": "71",
+    "name": "Kecamatan Kawangkoan",
+    "alias": "Kawangkoan"
+  },
+  {
+    "code": "71.02.121",
+    "districtCode": "121",
+    "regencyCode": "71.02",
+    "provinceCode": "71",
+    "name": "Kecamatan Kawangkoan Barat",
+    "alias": "Kawangkoan Barat"
+  },
+  {
+    "code": "71.02.122",
+    "districtCode": "122",
+    "regencyCode": "71.02",
+    "provinceCode": "71",
+    "name": "Kecamatan Kawangkoan Utara",
+    "alias": "Kawangkoan Utara"
+  },
+  {
+    "code": "71.02.130",
+    "districtCode": "130",
+    "regencyCode": "71.02",
+    "provinceCode": "71",
+    "name": "Kecamatan Sonder",
+    "alias": "Sonder"
+  },
+  {
+    "code": "71.02.160",
+    "districtCode": "160",
+    "regencyCode": "71.02",
+    "provinceCode": "71",
+    "name": "Kecamatan Tombariri",
+    "alias": "Tombariri"
+  },
+  {
+    "code": "71.02.161",
+    "districtCode": "161",
+    "regencyCode": "71.02",
+    "provinceCode": "71",
+    "name": "Kecamatan Tombariri Timur",
+    "alias": "Tombariri Timur"
+  },
+  {
+    "code": "71.02.170",
+    "districtCode": "170",
+    "regencyCode": "71.02",
+    "provinceCode": "71",
+    "name": "Kecamatan Pineleng",
+    "alias": "Pineleng"
+  },
+  {
+    "code": "71.02.171",
+    "districtCode": "171",
+    "regencyCode": "71.02",
+    "provinceCode": "71",
+    "name": "Kecamatan Tombulu",
+    "alias": "Tombulu"
+  },
+  {
+    "code": "71.02.172",
+    "districtCode": "172",
+    "regencyCode": "71.02",
+    "provinceCode": "71",
+    "name": "Kecamatan Mandolang",
+    "alias": "Mandolang"
+  },
+  {
+    "code": "71.02.190",
+    "districtCode": "190",
+    "regencyCode": "71.02",
+    "provinceCode": "71",
+    "name": "Kecamatan Tondano Barat",
+    "alias": "Tondano Barat"
+  },
+  {
+    "code": "71.02.191",
+    "districtCode": "191",
+    "regencyCode": "71.02",
+    "provinceCode": "71",
+    "name": "Kecamatan Tondano Selatan",
+    "alias": "Tondano Selatan"
+  },
+  {
+    "code": "71.02.200",
+    "districtCode": "200",
+    "regencyCode": "71.02",
+    "provinceCode": "71",
+    "name": "Kecamatan Remboken",
+    "alias": "Remboken"
+  },
+  {
+    "code": "71.02.210",
+    "districtCode": "210",
+    "regencyCode": "71.02",
+    "provinceCode": "71",
+    "name": "Kecamatan Kakas",
+    "alias": "Kakas"
+  },
+  {
+    "code": "71.02.211",
+    "districtCode": "211",
+    "regencyCode": "71.02",
+    "provinceCode": "71",
+    "name": "Kecamatan Kakas Barat",
+    "alias": "Kakas Barat"
+  },
+  {
+    "code": "71.02.220",
+    "districtCode": "220",
+    "regencyCode": "71.02",
+    "provinceCode": "71",
+    "name": "Kecamatan Lembean Timur",
+    "alias": "Lembean Timur"
+  },
+  {
+    "code": "71.02.230",
+    "districtCode": "230",
+    "regencyCode": "71.02",
+    "provinceCode": "71",
+    "name": "Kecamatan Eris",
+    "alias": "Eris"
+  },
+  {
+    "code": "71.02.240",
+    "districtCode": "240",
+    "regencyCode": "71.02",
+    "provinceCode": "71",
+    "name": "Kecamatan Kombi",
+    "alias": "Kombi"
+  },
+  {
+    "code": "71.02.250",
+    "districtCode": "250",
+    "regencyCode": "71.02",
+    "provinceCode": "71",
+    "name": "Kecamatan Tondano Timur",
+    "alias": "Tondano Timur"
+  },
+  {
+    "code": "71.02.251",
+    "districtCode": "251",
+    "regencyCode": "71.02",
+    "provinceCode": "71",
+    "name": "Kecamatan Tondano Utara",
+    "alias": "Tondano Utara"
+  }
+]

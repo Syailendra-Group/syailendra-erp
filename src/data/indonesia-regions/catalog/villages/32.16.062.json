@@ -1,0 +1,58 @@
+[
+  {
+    "code": "32.16.062.001",
+    "villageCode": "001",
+    "districtCode": "32.16.062",
+    "name": "Sukaraya",
+    "alias": "Sukaraya"
+  },
+  {
+    "code": "32.16.062.002",
+    "villageCode": "002",
+    "districtCode": "32.16.062",
+    "name": "Karangrahayu",
+    "alias": "Karangrahayu"
+  },
+  {
+    "code": "32.16.062.003",
+    "villageCode": "003",
+    "districtCode": "32.16.062",
+    "name": "Karangsetia",
+    "alias": "Karangsetia"
+  },
+  {
+    "code": "32.16.062.004",
+    "villageCode": "004",
+    "districtCode": "32.16.062",
+    "name": "Karangsatu",
+    "alias": "Karangsatu"
+  },
+  {
+    "code": "32.16.062.005",
+    "villageCode": "005",
+    "districtCode": "32.16.062",
+    "name": "Karangmukti",
+    "alias": "Karangmukti"
+  },
+  {
+    "code": "32.16.062.006",
+    "villageCode": "006",
+    "districtCode": "32.16.062",
+    "name": "Karanganyar",
+    "alias": "Karanganyar"
+  },
+  {
+    "code": "32.16.062.007",
+    "villageCode": "007",
+    "districtCode": "32.16.062",
+    "name": "Karangbahagia",
+    "alias": "Karangbahagia"
+  },
+  {
+    "code": "32.16.062.008",
+    "villageCode": "008",
+    "districtCode": "32.16.062",
+    "name": "Karangsentosa",
+    "alias": "Karangsentosa"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "code": "91.04.020.002",
+    "villageCode": "002",
+    "districtCode": "91.04.020",
+    "name": "Amutu",
+    "alias": "Amutu"
+  },
+  {
+    "code": "91.04.020.003",
+    "villageCode": "003",
+    "districtCode": "91.04.020",
+    "name": "Nusei",
+    "alias": "Nusei"
+  },
+  {
+    "code": "91.04.020.004",
+    "villageCode": "004",
+    "districtCode": "91.04.020",
+    "name": "Kasira",
+    "alias": "Kasira"
+  },
+  {
+    "code": "91.04.020.009",
+    "villageCode": "009",
+    "districtCode": "91.04.020",
+    "name": "Irarutu Iii / Babo",
+    "alias": "Irarutu Iii / Babo"
+  },
+  {
+    "code": "91.04.020.010",
+    "villageCode": "010",
+    "districtCode": "91.04.020",
+    "name": "Modan Fisaura",
+    "alias": "Modan Fisaura"
+  },
+  {
+    "code": "91.04.020.011",
+    "villageCode": "011",
+    "districtCode": "91.04.020",
+    "name": "Kanaisi",
+    "alias": "Kanaisi"
+  }
+]

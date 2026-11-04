@@ -1,0 +1,65 @@
+[
+  {
+    "code": "73.15.030.001",
+    "villageCode": "001",
+    "districtCode": "73.15.030",
+    "name": "Makkawaru",
+    "alias": "Makkawaru"
+  },
+  {
+    "code": "73.15.030.002",
+    "villageCode": "002",
+    "districtCode": "73.15.030",
+    "name": "Alitta",
+    "alias": "Alitta"
+  },
+  {
+    "code": "73.15.030.003",
+    "villageCode": "003",
+    "districtCode": "73.15.030",
+    "name": "Pannanrang",
+    "alias": "Pannanrang"
+  },
+  {
+    "code": "73.15.030.004",
+    "villageCode": "004",
+    "districtCode": "73.15.030",
+    "name": "Padaidi",
+    "alias": "Padaidi"
+  },
+  {
+    "code": "73.15.030.005",
+    "villageCode": "005",
+    "districtCode": "73.15.030",
+    "name": "Manarang",
+    "alias": "Manarang"
+  },
+  {
+    "code": "73.15.030.006",
+    "villageCode": "006",
+    "districtCode": "73.15.030",
+    "name": "Padaelo",
+    "alias": "Padaelo"
+  },
+  {
+    "code": "73.15.030.007",
+    "villageCode": "007",
+    "districtCode": "73.15.030",
+    "name": "Padakkalawa",
+    "alias": "Padakkalawa"
+  },
+  {
+    "code": "73.15.030.008",
+    "villageCode": "008",
+    "districtCode": "73.15.030",
+    "name": "Marannu",
+    "alias": "Marannu"
+  },
+  {
+    "code": "73.15.030.009",
+    "villageCode": "009",
+    "districtCode": "73.15.030",
+    "name": "Bunga",
+    "alias": "Bunga"
+  }
+]

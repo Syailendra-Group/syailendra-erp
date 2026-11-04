@@ -1,0 +1,93 @@
+[
+  {
+    "code": "33.09.060.001",
+    "villageCode": "001",
+    "districtCode": "33.09.060",
+    "name": "Singosari",
+    "alias": "Singosari"
+  },
+  {
+    "code": "33.09.060.002",
+    "villageCode": "002",
+    "districtCode": "33.09.060",
+    "name": "Tambak",
+    "alias": "Tambak"
+  },
+  {
+    "code": "33.09.060.003",
+    "villageCode": "003",
+    "districtCode": "33.09.060",
+    "name": "Manggis",
+    "alias": "Manggis"
+  },
+  {
+    "code": "33.09.060.004",
+    "villageCode": "004",
+    "districtCode": "33.09.060",
+    "name": "Jurug",
+    "alias": "Jurug"
+  },
+  {
+    "code": "33.09.060.005",
+    "villageCode": "005",
+    "districtCode": "33.09.060",
+    "name": "Karangnongko",
+    "alias": "Karangnongko"
+  },
+  {
+    "code": "33.09.060.006",
+    "villageCode": "006",
+    "districtCode": "33.09.060",
+    "name": "Madu",
+    "alias": "Madu"
+  },
+  {
+    "code": "33.09.060.007",
+    "villageCode": "007",
+    "districtCode": "33.09.060",
+    "name": "Kemiri",
+    "alias": "Kemiri"
+  },
+  {
+    "code": "33.09.060.008",
+    "villageCode": "008",
+    "districtCode": "33.09.060",
+    "name": "Butuh",
+    "alias": "Butuh"
+  },
+  {
+    "code": "33.09.060.009",
+    "villageCode": "009",
+    "districtCode": "33.09.060",
+    "name": "Mojosongo",
+    "alias": "Mojosongo"
+  },
+  {
+    "code": "33.09.060.010",
+    "villageCode": "010",
+    "districtCode": "33.09.060",
+    "name": "Kragilan",
+    "alias": "Kragilan"
+  },
+  {
+    "code": "33.09.060.011",
+    "villageCode": "011",
+    "districtCode": "33.09.060",
+    "name": "Brajan",
+    "alias": "Brajan"
+  },
+  {
+    "code": "33.09.060.012",
+    "villageCode": "012",
+    "districtCode": "33.09.060",
+    "name": "Metuk",
+    "alias": "Metuk"
+  },
+  {
+    "code": "33.09.060.013",
+    "villageCode": "013",
+    "districtCode": "33.09.060",
+    "name": "Dlingo",
+    "alias": "Dlingo"
+  }
+]

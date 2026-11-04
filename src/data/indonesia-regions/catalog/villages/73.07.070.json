@@ -1,0 +1,44 @@
+[
+  {
+    "code": "73.07.070.001",
+    "villageCode": "001",
+    "districtCode": "73.07.070",
+    "name": "Alewanuae",
+    "alias": "Alewanuae"
+  },
+  {
+    "code": "73.07.070.002",
+    "villageCode": "002",
+    "districtCode": "73.07.070",
+    "name": "Biringere",
+    "alias": "Biringere"
+  },
+  {
+    "code": "73.07.070.003",
+    "villageCode": "003",
+    "districtCode": "73.07.070",
+    "name": "Lamatti Rilau",
+    "alias": "Lamatti Rilau"
+  },
+  {
+    "code": "73.07.070.004",
+    "villageCode": "004",
+    "districtCode": "73.07.070",
+    "name": "Bongki",
+    "alias": "Bongki"
+  },
+  {
+    "code": "73.07.070.005",
+    "villageCode": "005",
+    "districtCode": "73.07.070",
+    "name": "Balangnipa",
+    "alias": "Balangnipa"
+  },
+  {
+    "code": "73.07.070.006",
+    "villageCode": "006",
+    "districtCode": "73.07.070",
+    "name": "Lappa",
+    "alias": "Lappa"
+  }
+]

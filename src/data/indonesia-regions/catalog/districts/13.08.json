@@ -1,0 +1,106 @@
+[
+  {
+    "code": "13.08.010",
+    "districtCode": "010",
+    "regencyCode": "13.08",
+    "provinceCode": "13",
+    "name": "Kecamatan Payakumbuh",
+    "alias": "Payakumbuh"
+  },
+  {
+    "code": "13.08.011",
+    "districtCode": "011",
+    "regencyCode": "13.08",
+    "provinceCode": "13",
+    "name": "Kecamatan Akabiluru",
+    "alias": "Akabiluru"
+  },
+  {
+    "code": "13.08.020",
+    "districtCode": "020",
+    "regencyCode": "13.08",
+    "provinceCode": "13",
+    "name": "Kecamatan Luak",
+    "alias": "Luak"
+  },
+  {
+    "code": "13.08.021",
+    "districtCode": "021",
+    "regencyCode": "13.08",
+    "provinceCode": "13",
+    "name": "Kecamatan Lareh Sago Halaban",
+    "alias": "Lareh Sago Halaban"
+  },
+  {
+    "code": "13.08.022",
+    "districtCode": "022",
+    "regencyCode": "13.08",
+    "provinceCode": "13",
+    "name": "Kecamatan Situjuah Limo Nagari",
+    "alias": "Situjuah Limo Nagari"
+  },
+  {
+    "code": "13.08.030",
+    "districtCode": "030",
+    "regencyCode": "13.08",
+    "provinceCode": "13",
+    "name": "Kecamatan Harau",
+    "alias": "Harau"
+  },
+  {
+    "code": "13.08.040",
+    "districtCode": "040",
+    "regencyCode": "13.08",
+    "provinceCode": "13",
+    "name": "Kecamatan Guguak",
+    "alias": "Guguak"
+  },
+  {
+    "code": "13.08.041",
+    "districtCode": "041",
+    "regencyCode": "13.08",
+    "provinceCode": "13",
+    "name": "Kecamatan Mungka",
+    "alias": "Mungka"
+  },
+  {
+    "code": "13.08.050",
+    "districtCode": "050",
+    "regencyCode": "13.08",
+    "provinceCode": "13",
+    "name": "Kecamatan Suliki",
+    "alias": "Suliki"
+  },
+  {
+    "code": "13.08.051",
+    "districtCode": "051",
+    "regencyCode": "13.08",
+    "provinceCode": "13",
+    "name": "Kecamatan Bukik Barisan",
+    "alias": "Bukik Barisan"
+  },
+  {
+    "code": "13.08.060",
+    "districtCode": "060",
+    "regencyCode": "13.08",
+    "provinceCode": "13",
+    "name": "Kecamatan Gunuang Omeh",
+    "alias": "Gunuang Omeh"
+  },
+  {
+    "code": "13.08.070",
+    "districtCode": "070",
+    "regencyCode": "13.08",
+    "provinceCode": "13",
+    "name": "Kecamatan Kapur Ix",
+    "alias": "Kapur Ix"
+  },
+  {
+    "code": "13.08.080",
+    "districtCode": "080",
+    "regencyCode": "13.08",
+    "provinceCode": "13",
+    "name": "Kecamatan Pangkalan Koto Baru",
+    "alias": "Pangkalan Koto Baru"
+  }
+]

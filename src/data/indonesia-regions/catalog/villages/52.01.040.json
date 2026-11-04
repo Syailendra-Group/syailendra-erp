@@ -1,0 +1,72 @@
+[
+  {
+    "code": "52.01.040.005",
+    "villageCode": "005",
+    "districtCode": "52.01.040",
+    "name": "Jagaraga Indah",
+    "alias": "Jagaraga Indah"
+  },
+  {
+    "code": "52.01.040.006",
+    "villageCode": "006",
+    "districtCode": "52.01.040",
+    "name": "Montong Are",
+    "alias": "Montong Are"
+  },
+  {
+    "code": "52.01.040.007",
+    "villageCode": "007",
+    "districtCode": "52.01.040",
+    "name": "Kediri",
+    "alias": "Kediri"
+  },
+  {
+    "code": "52.01.040.008",
+    "villageCode": "008",
+    "districtCode": "52.01.040",
+    "name": "Gelogor",
+    "alias": "Gelogor"
+  },
+  {
+    "code": "52.01.040.009",
+    "villageCode": "009",
+    "districtCode": "52.01.040",
+    "name": "Rumak",
+    "alias": "Rumak"
+  },
+  {
+    "code": "52.01.040.010",
+    "villageCode": "010",
+    "districtCode": "52.01.040",
+    "name": "Banyumulek",
+    "alias": "Banyumulek"
+  },
+  {
+    "code": "52.01.040.011",
+    "villageCode": "011",
+    "districtCode": "52.01.040",
+    "name": "Ombe Baru",
+    "alias": "Ombe Baru"
+  },
+  {
+    "code": "52.01.040.012",
+    "villageCode": "012",
+    "districtCode": "52.01.040",
+    "name": "Dasan Baru",
+    "alias": "Dasan Baru"
+  },
+  {
+    "code": "52.01.040.013",
+    "villageCode": "013",
+    "districtCode": "52.01.040",
+    "name": "Kediri Selatan",
+    "alias": "Kediri Selatan"
+  },
+  {
+    "code": "52.01.040.014",
+    "villageCode": "014",
+    "districtCode": "52.01.040",
+    "name": "Lelede",
+    "alias": "Lelede"
+  }
+]

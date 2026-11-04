@@ -1,0 +1,142 @@
+[
+  {
+    "code": "61.09.040.001",
+    "villageCode": "001",
+    "districtCode": "61.09.040",
+    "name": "Peniti",
+    "alias": "Peniti"
+  },
+  {
+    "code": "61.09.040.002",
+    "villageCode": "002",
+    "districtCode": "61.09.040",
+    "name": "Sungai Ringin",
+    "alias": "Sungai Ringin"
+  },
+  {
+    "code": "61.09.040.003",
+    "villageCode": "003",
+    "districtCode": "61.09.040",
+    "name": "Mungguk",
+    "alias": "Mungguk"
+  },
+  {
+    "code": "61.09.040.004",
+    "villageCode": "004",
+    "districtCode": "61.09.040",
+    "name": "Gonis Tekam",
+    "alias": "Gonis Tekam"
+  },
+  {
+    "code": "61.09.040.005",
+    "villageCode": "005",
+    "districtCode": "61.09.040",
+    "name": "Engkersik",
+    "alias": "Engkersik"
+  },
+  {
+    "code": "61.09.040.006",
+    "villageCode": "006",
+    "districtCode": "61.09.040",
+    "name": "Tapang Semadak",
+    "alias": "Tapang Semadak"
+  },
+  {
+    "code": "61.09.040.007",
+    "villageCode": "007",
+    "districtCode": "61.09.040",
+    "name": "Seraras",
+    "alias": "Seraras"
+  },
+  {
+    "code": "61.09.040.008",
+    "villageCode": "008",
+    "districtCode": "61.09.040",
+    "name": "Merapi",
+    "alias": "Merapi"
+  },
+  {
+    "code": "61.09.040.009",
+    "villageCode": "009",
+    "districtCode": "61.09.040",
+    "name": "Tanjung",
+    "alias": "Tanjung"
+  },
+  {
+    "code": "61.09.040.010",
+    "villageCode": "010",
+    "districtCode": "61.09.040",
+    "name": "Seberang Kapuas",
+    "alias": "Seberang Kapuas"
+  },
+  {
+    "code": "61.09.040.011",
+    "villageCode": "011",
+    "districtCode": "61.09.040",
+    "name": "Sungai Kunyit",
+    "alias": "Sungai Kunyit"
+  },
+  {
+    "code": "61.09.040.012",
+    "villageCode": "012",
+    "districtCode": "61.09.040",
+    "name": "Semabi",
+    "alias": "Semabi"
+  },
+  {
+    "code": "61.09.040.013",
+    "villageCode": "013",
+    "districtCode": "61.09.040",
+    "name": "Landau Kodah",
+    "alias": "Landau Kodah"
+  },
+  {
+    "code": "61.09.040.014",
+    "villageCode": "014",
+    "districtCode": "61.09.040",
+    "name": "Timpuk",
+    "alias": "Timpuk"
+  },
+  {
+    "code": "61.09.040.015",
+    "villageCode": "015",
+    "districtCode": "61.09.040",
+    "name": "Ensalang",
+    "alias": "Ensalang"
+  },
+  {
+    "code": "61.09.040.016",
+    "villageCode": "016",
+    "districtCode": "61.09.040",
+    "name": "Selalong",
+    "alias": "Selalong"
+  },
+  {
+    "code": "61.09.040.017",
+    "villageCode": "017",
+    "districtCode": "61.09.040",
+    "name": "Bokak Sebumbun",
+    "alias": "Bokak Sebumbun"
+  },
+  {
+    "code": "61.09.040.018",
+    "villageCode": "018",
+    "districtCode": "61.09.040",
+    "name": "Sempulau Indah",
+    "alias": "Sempulau Indah"
+  },
+  {
+    "code": "61.09.040.019",
+    "villageCode": "019",
+    "districtCode": "61.09.040",
+    "name": "Tigur Jaya",
+    "alias": "Tigur Jaya"
+  },
+  {
+    "code": "61.09.040.020",
+    "villageCode": "020",
+    "districtCode": "61.09.040",
+    "name": "Beringkai Raya",
+    "alias": "Beringkai Raya"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "code": "62.05.010.001",
+    "villageCode": "001",
+    "districtCode": "62.05.010",
+    "name": "Pepas",
+    "alias": "Pepas"
+  },
+  {
+    "code": "62.05.010.002",
+    "villageCode": "002",
+    "districtCode": "62.05.010",
+    "name": "Tumpung Laung Ii",
+    "alias": "Tumpung Laung Ii"
+  },
+  {
+    "code": "62.05.010.003",
+    "villageCode": "003",
+    "districtCode": "62.05.010",
+    "name": "Tumpung Laung I",
+    "alias": "Tumpung Laung I"
+  },
+  {
+    "code": "62.05.010.004",
+    "villageCode": "004",
+    "districtCode": "62.05.010",
+    "name": "Montallat I",
+    "alias": "Montallat I"
+  },
+  {
+    "code": "62.05.010.005",
+    "villageCode": "005",
+    "districtCode": "62.05.010",
+    "name": "Montallat Ii",
+    "alias": "Montallat Ii"
+  },
+  {
+    "code": "62.05.010.006",
+    "villageCode": "006",
+    "districtCode": "62.05.010",
+    "name": "Sikan",
+    "alias": "Sikan"
+  },
+  {
+    "code": "62.05.010.007",
+    "villageCode": "007",
+    "districtCode": "62.05.010",
+    "name": "Rubei",
+    "alias": "Rubei"
+  },
+  {
+    "code": "62.05.010.008",
+    "villageCode": "008",
+    "districtCode": "62.05.010",
+    "name": "Ruji",
+    "alias": "Ruji"
+  },
+  {
+    "code": "62.05.010.009",
+    "villageCode": "009",
+    "districtCode": "62.05.010",
+    "name": "Paring Lahung",
+    "alias": "Paring Lahung"
+  },
+  {
+    "code": "62.05.010.010",
+    "villageCode": "010",
+    "districtCode": "62.05.010",
+    "name": "Kamawen",
+    "alias": "Kamawen"
+  }
+]

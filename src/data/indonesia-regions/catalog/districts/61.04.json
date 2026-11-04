@@ -1,0 +1,74 @@
+[
+  {
+    "code": "61.04.080",
+    "districtCode": "080",
+    "regencyCode": "61.04",
+    "provinceCode": "61",
+    "name": "Kecamatan Jongkat",
+    "alias": "Jongkat"
+  },
+  {
+    "code": "61.04.081",
+    "districtCode": "081",
+    "regencyCode": "61.04",
+    "provinceCode": "61",
+    "name": "Kecamatan Segedong",
+    "alias": "Segedong"
+  },
+  {
+    "code": "61.04.090",
+    "districtCode": "090",
+    "regencyCode": "61.04",
+    "provinceCode": "61",
+    "name": "Kecamatan Sungai Pinyuh",
+    "alias": "Sungai Pinyuh"
+  },
+  {
+    "code": "61.04.091",
+    "districtCode": "091",
+    "regencyCode": "61.04",
+    "provinceCode": "61",
+    "name": "Kecamatan Anjongan",
+    "alias": "Anjongan"
+  },
+  {
+    "code": "61.04.100",
+    "districtCode": "100",
+    "regencyCode": "61.04",
+    "provinceCode": "61",
+    "name": "Kecamatan Mempawah Hilir",
+    "alias": "Mempawah Hilir"
+  },
+  {
+    "code": "61.04.101",
+    "districtCode": "101",
+    "regencyCode": "61.04",
+    "provinceCode": "61",
+    "name": "Kecamatan Mempawah Timur",
+    "alias": "Mempawah Timur"
+  },
+  {
+    "code": "61.04.110",
+    "districtCode": "110",
+    "regencyCode": "61.04",
+    "provinceCode": "61",
+    "name": "Kecamatan Sungai Kunyit",
+    "alias": "Sungai Kunyit"
+  },
+  {
+    "code": "61.04.120",
+    "districtCode": "120",
+    "regencyCode": "61.04",
+    "provinceCode": "61",
+    "name": "Kecamatan Toho",
+    "alias": "Toho"
+  },
+  {
+    "code": "61.04.121",
+    "districtCode": "121",
+    "regencyCode": "61.04",
+    "provinceCode": "61",
+    "name": "Kecamatan Sadaniang",
+    "alias": "Sadaniang"
+  }
+]

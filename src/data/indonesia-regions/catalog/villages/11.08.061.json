@@ -1,0 +1,93 @@
+[
+  {
+    "code": "11.08.061.001",
+    "villageCode": "001",
+    "districtCode": "11.08.061",
+    "name": "Blang Krueng",
+    "alias": "Blang Krueng"
+  },
+  {
+    "code": "11.08.061.002",
+    "villageCode": "002",
+    "districtCode": "11.08.061",
+    "name": "Baet",
+    "alias": "Baet"
+  },
+  {
+    "code": "11.08.061.003",
+    "villageCode": "003",
+    "districtCode": "11.08.061",
+    "name": "Cadek",
+    "alias": "Cadek"
+  },
+  {
+    "code": "11.08.061.004",
+    "villageCode": "004",
+    "districtCode": "11.08.061",
+    "name": "Kajhu",
+    "alias": "Kajhu"
+  },
+  {
+    "code": "11.08.061.005",
+    "villageCode": "005",
+    "districtCode": "11.08.061",
+    "name": "Cot Paya",
+    "alias": "Cot Paya"
+  },
+  {
+    "code": "11.08.061.006",
+    "villageCode": "006",
+    "districtCode": "11.08.061",
+    "name": "Lambada Lhok",
+    "alias": "Lambada Lhok"
+  },
+  {
+    "code": "11.08.061.007",
+    "villageCode": "007",
+    "districtCode": "11.08.061",
+    "name": "Klieng Cot Aron",
+    "alias": "Klieng Cot Aron"
+  },
+  {
+    "code": "11.08.061.008",
+    "villageCode": "008",
+    "districtCode": "11.08.061",
+    "name": "Miruek Lamreudeup",
+    "alias": "Miruek Lamreudeup"
+  },
+  {
+    "code": "11.08.061.009",
+    "villageCode": "009",
+    "districtCode": "11.08.061",
+    "name": "Klieng Meuria",
+    "alias": "Klieng Meuria"
+  },
+  {
+    "code": "11.08.061.010",
+    "villageCode": "010",
+    "districtCode": "11.08.061",
+    "name": "Lampineung",
+    "alias": "Lampineung"
+  },
+  {
+    "code": "11.08.061.011",
+    "villageCode": "011",
+    "districtCode": "11.08.061",
+    "name": "Lam Asan",
+    "alias": "Lam Asan"
+  },
+  {
+    "code": "11.08.061.012",
+    "villageCode": "012",
+    "districtCode": "11.08.061",
+    "name": "Labuy",
+    "alias": "Labuy"
+  },
+  {
+    "code": "11.08.061.013",
+    "villageCode": "013",
+    "districtCode": "11.08.061",
+    "name": "Lam Ujong",
+    "alias": "Lam Ujong"
+  }
+]

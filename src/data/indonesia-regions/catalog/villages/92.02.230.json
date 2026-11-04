@@ -1,0 +1,51 @@
+[
+  {
+    "code": "92.02.230.001",
+    "villageCode": "001",
+    "districtCode": "92.02.230",
+    "name": "Dais",
+    "alias": "Dais"
+  },
+  {
+    "code": "92.02.230.002",
+    "villageCode": "002",
+    "districtCode": "92.02.230",
+    "name": "Hobard",
+    "alias": "Hobard"
+  },
+  {
+    "code": "92.02.230.003",
+    "villageCode": "003",
+    "districtCode": "92.02.230",
+    "name": "Floyi",
+    "alias": "Floyi"
+  },
+  {
+    "code": "92.02.230.004",
+    "villageCode": "004",
+    "districtCode": "92.02.230",
+    "name": "Sfadon",
+    "alias": "Sfadon"
+  },
+  {
+    "code": "92.02.230.005",
+    "villageCode": "005",
+    "districtCode": "92.02.230",
+    "name": "Brianlo",
+    "alias": "Brianlo"
+  },
+  {
+    "code": "92.02.230.006",
+    "villageCode": "006",
+    "districtCode": "92.02.230",
+    "name": "Selol",
+    "alias": "Selol"
+  },
+  {
+    "code": "92.02.230.007",
+    "villageCode": "007",
+    "districtCode": "92.02.230",
+    "name": "Klaselt",
+    "alias": "Klaselt"
+  }
+]

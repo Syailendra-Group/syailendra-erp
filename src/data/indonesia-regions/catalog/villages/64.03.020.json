@@ -1,0 +1,58 @@
+[
+  {
+    "code": "64.03.020.001",
+    "villageCode": "001",
+    "districtCode": "64.03.020",
+    "name": "Teluk Dalam",
+    "alias": "Teluk Dalam"
+  },
+  {
+    "code": "64.03.020.002",
+    "villageCode": "002",
+    "districtCode": "64.03.020",
+    "name": "Muara Jawa Ilir",
+    "alias": "Muara Jawa Ilir"
+  },
+  {
+    "code": "64.03.020.003",
+    "villageCode": "003",
+    "districtCode": "64.03.020",
+    "name": "Muara Jawa Tengah",
+    "alias": "Muara Jawa Tengah"
+  },
+  {
+    "code": "64.03.020.004",
+    "villageCode": "004",
+    "districtCode": "64.03.020",
+    "name": "Muara Jawa Ulu",
+    "alias": "Muara Jawa Ulu"
+  },
+  {
+    "code": "64.03.020.005",
+    "villageCode": "005",
+    "districtCode": "64.03.020",
+    "name": "Dondang",
+    "alias": "Dondang"
+  },
+  {
+    "code": "64.03.020.006",
+    "villageCode": "006",
+    "districtCode": "64.03.020",
+    "name": "Tama Pole",
+    "alias": "Tama Pole"
+  },
+  {
+    "code": "64.03.020.007",
+    "villageCode": "007",
+    "districtCode": "64.03.020",
+    "name": "Muara Kembang",
+    "alias": "Muara Kembang"
+  },
+  {
+    "code": "64.03.020.008",
+    "villageCode": "008",
+    "districtCode": "64.03.020",
+    "name": "Muara Jawa Pesisir",
+    "alias": "Muara Jawa Pesisir"
+  }
+]

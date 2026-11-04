@@ -1,0 +1,58 @@
+[
+  {
+    "code": "33.12.110.001",
+    "villageCode": "001",
+    "districtCode": "33.12.110",
+    "name": "Genukharjo",
+    "alias": "Genukharjo"
+  },
+  {
+    "code": "33.12.110.002",
+    "villageCode": "002",
+    "districtCode": "33.12.110",
+    "name": "Sumberejo",
+    "alias": "Sumberejo"
+  },
+  {
+    "code": "33.12.110.003",
+    "villageCode": "003",
+    "districtCode": "33.12.110",
+    "name": "Mojopuro",
+    "alias": "Mojopuro"
+  },
+  {
+    "code": "33.12.110.004",
+    "villageCode": "004",
+    "districtCode": "33.12.110",
+    "name": "Wuryantoro",
+    "alias": "Wuryantoro"
+  },
+  {
+    "code": "33.12.110.005",
+    "villageCode": "005",
+    "districtCode": "33.12.110",
+    "name": "Mlopoharjo",
+    "alias": "Mlopoharjo"
+  },
+  {
+    "code": "33.12.110.006",
+    "villageCode": "006",
+    "districtCode": "33.12.110",
+    "name": "Pulutankulon",
+    "alias": "Pulutankulon"
+  },
+  {
+    "code": "33.12.110.007",
+    "villageCode": "007",
+    "districtCode": "33.12.110",
+    "name": "Pulutanwetan",
+    "alias": "Pulutanwetan"
+  },
+  {
+    "code": "33.12.110.008",
+    "villageCode": "008",
+    "districtCode": "33.12.110",
+    "name": "Gumiwanglor",
+    "alias": "Gumiwanglor"
+  }
+]

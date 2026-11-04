@@ -1,0 +1,100 @@
+[
+  {
+    "code": "14.10.010.001",
+    "villageCode": "001",
+    "districtCode": "14.10.010",
+    "name": "Tanjung Peranap",
+    "alias": "Tanjung Peranap"
+  },
+  {
+    "code": "14.10.010.002",
+    "villageCode": "002",
+    "districtCode": "14.10.010",
+    "name": "Tanjung",
+    "alias": "Tanjung"
+  },
+  {
+    "code": "14.10.010.003",
+    "villageCode": "003",
+    "districtCode": "14.10.010",
+    "name": "Insit",
+    "alias": "Insit"
+  },
+  {
+    "code": "14.10.010.004",
+    "villageCode": "004",
+    "districtCode": "14.10.010",
+    "name": "Tenan",
+    "alias": "Tenan"
+  },
+  {
+    "code": "14.10.010.005",
+    "villageCode": "005",
+    "districtCode": "14.10.010",
+    "name": "Kundur",
+    "alias": "Kundur"
+  },
+  {
+    "code": "14.10.010.006",
+    "villageCode": "006",
+    "districtCode": "14.10.010",
+    "name": "Batang Malas",
+    "alias": "Batang Malas"
+  },
+  {
+    "code": "14.10.010.007",
+    "villageCode": "007",
+    "districtCode": "14.10.010",
+    "name": "Alai",
+    "alias": "Alai"
+  },
+  {
+    "code": "14.10.010.008",
+    "villageCode": "008",
+    "districtCode": "14.10.010",
+    "name": "Mekong",
+    "alias": "Mekong"
+  },
+  {
+    "code": "14.10.010.009",
+    "villageCode": "009",
+    "districtCode": "14.10.010",
+    "name": "Mantiasa",
+    "alias": "Mantiasa"
+  },
+  {
+    "code": "14.10.010.010",
+    "villageCode": "010",
+    "districtCode": "14.10.010",
+    "name": "Gogok Darussalam",
+    "alias": "Gogok Darussalam"
+  },
+  {
+    "code": "14.10.010.011",
+    "villageCode": "011",
+    "districtCode": "14.10.010",
+    "name": "Maini Darul Aman",
+    "alias": "Maini Darul Aman"
+  },
+  {
+    "code": "14.10.010.012",
+    "villageCode": "012",
+    "districtCode": "14.10.010",
+    "name": "Mengkikip",
+    "alias": "Mengkikip"
+  },
+  {
+    "code": "14.10.010.013",
+    "villageCode": "013",
+    "districtCode": "14.10.010",
+    "name": "Alai Selatan",
+    "alias": "Alai Selatan"
+  },
+  {
+    "code": "14.10.010.014",
+    "villageCode": "014",
+    "districtCode": "14.10.010",
+    "name": "Tanjung Darul Takzim",
+    "alias": "Tanjung Darul Takzim"
+  }
+]

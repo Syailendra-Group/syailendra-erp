@@ -1,28 +1,29 @@
 {
-  "title": "Provinces & States",
-  "subtitle": "Directory of 38 Indonesian provinces and foreign jurisdictions",
+  "title": "Provinces & States Master",
+  "subtitle": "List of 38 provinces in Indonesia and international jurisdictions",
   "primaryAction": "Add Province",
   "table": {
-    "name": "Province / State Name",
+    "name": "Province Name",
     "code": "Code",
+    "alias": "Alias",
     "country": "Country",
     "status": "Status"
   },
   "form": {
-    "category": "Province Category",
-    "catalogLabel": "Official 38 Provinces Catalog (BPS)",
-    "catalogPlaceholder": "Select 38 Official Provinces...",
-    "foreignCountry": "Destination Country",
+    "category": "Region Category",
+    "catalogLabel": "Official BPS 38 Provinces Catalog",
+    "catalogPlaceholder": "Select from 38 Official Provinces...",
+    "foreignCountry": "Country / State Jurisdiction",
     "foreignCountryPlaceholder": "Select country...",
-    "namePlaceholder": "e.g. Central Java, Sabah, Victoria",
+    "namePlaceholder": "e.g. Jawa Tengah, Sabah, Victoria",
     "codePlaceholder": "e.g. JT / 33 / VIC"
   },
   "dialog": {
     "addTitle": "Register New Province",
-    "addDesc": "Register a new province or state in the master catalog.",
+    "addDesc": "Register a new province into the system regional catalog.",
     "editTitle": "Edit Province Data",
-    "editDesc": "Update official province code and parameters.",
-    "viewTitle": "Province Data Details",
-    "viewDesc": "Official province information and parent country relation."
+    "editDesc": "Update official code, alias name, or province description.",
+    "viewTitle": "Province Details",
+    "viewDesc": "Official regional data, alias name, and parent country information."
   }
 }

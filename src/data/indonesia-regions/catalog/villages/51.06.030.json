@@ -1,0 +1,51 @@
+[
+  {
+    "code": "51.06.030.001",
+    "villageCode": "001",
+    "districtCode": "51.06.030",
+    "name": "Jehem",
+    "alias": "Jehem"
+  },
+  {
+    "code": "51.06.030.002",
+    "villageCode": "002",
+    "districtCode": "51.06.030",
+    "name": "Tembuku",
+    "alias": "Tembuku"
+  },
+  {
+    "code": "51.06.030.003",
+    "villageCode": "003",
+    "districtCode": "51.06.030",
+    "name": "Yangapi",
+    "alias": "Yangapi"
+  },
+  {
+    "code": "51.06.030.004",
+    "villageCode": "004",
+    "districtCode": "51.06.030",
+    "name": "Undisan",
+    "alias": "Undisan"
+  },
+  {
+    "code": "51.06.030.005",
+    "villageCode": "005",
+    "districtCode": "51.06.030",
+    "name": "Bangbang",
+    "alias": "Bangbang"
+  },
+  {
+    "code": "51.06.030.006",
+    "villageCode": "006",
+    "districtCode": "51.06.030",
+    "name": "Peninjoan",
+    "alias": "Peninjoan"
+  },
+  {
+    "code": "51.06.030.007",
+    "villageCode": "007",
+    "districtCode": "51.06.030",
+    "name": "Pulesari",
+    "alias": "Pulesari"
+  }
+]

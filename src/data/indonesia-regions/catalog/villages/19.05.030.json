@@ -1,0 +1,79 @@
+[
+  {
+    "code": "19.05.030.001",
+    "villageCode": "001",
+    "districtCode": "19.05.030",
+    "name": "Rias",
+    "alias": "Rias"
+  },
+  {
+    "code": "19.05.030.002",
+    "villageCode": "002",
+    "districtCode": "19.05.030",
+    "name": "Teladan",
+    "alias": "Teladan"
+  },
+  {
+    "code": "19.05.030.003",
+    "villageCode": "003",
+    "districtCode": "19.05.030",
+    "name": "Tanjung Ketapang",
+    "alias": "Tanjung Ketapang"
+  },
+  {
+    "code": "19.05.030.004",
+    "villageCode": "004",
+    "districtCode": "19.05.030",
+    "name": "Toboali",
+    "alias": "Toboali"
+  },
+  {
+    "code": "19.05.030.008",
+    "villageCode": "008",
+    "districtCode": "19.05.030",
+    "name": "Kaposang",
+    "alias": "Kaposang"
+  },
+  {
+    "code": "19.05.030.009",
+    "villageCode": "009",
+    "districtCode": "19.05.030",
+    "name": "Gadung",
+    "alias": "Gadung"
+  },
+  {
+    "code": "19.05.030.010",
+    "villageCode": "010",
+    "districtCode": "19.05.030",
+    "name": "Bikang",
+    "alias": "Bikang"
+  },
+  {
+    "code": "19.05.030.011",
+    "villageCode": "011",
+    "districtCode": "19.05.030",
+    "name": "Jeriji",
+    "alias": "Jeriji"
+  },
+  {
+    "code": "19.05.030.012",
+    "villageCode": "012",
+    "districtCode": "19.05.030",
+    "name": "Serdang",
+    "alias": "Serdang"
+  },
+  {
+    "code": "19.05.030.013",
+    "villageCode": "013",
+    "districtCode": "19.05.030",
+    "name": "Rindik",
+    "alias": "Rindik"
+  },
+  {
+    "code": "19.05.030.014",
+    "villageCode": "014",
+    "districtCode": "19.05.030",
+    "name": "Kepoh",
+    "alias": "Kepoh"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "code": "53.20.060.001",
+    "villageCode": "001",
+    "districtCode": "53.20.060",
+    "name": "Huwaga",
+    "alias": "Huwaga"
+  },
+  {
+    "code": "53.20.060.002",
+    "villageCode": "002",
+    "districtCode": "53.20.060",
+    "name": "Lobodei",
+    "alias": "Lobodei"
+  },
+  {
+    "code": "53.20.060.003",
+    "villageCode": "003",
+    "districtCode": "53.20.060",
+    "name": "Eiada",
+    "alias": "Eiada"
+  },
+  {
+    "code": "53.20.060.004",
+    "villageCode": "004",
+    "districtCode": "53.20.060",
+    "name": "Keduru",
+    "alias": "Keduru"
+  },
+  {
+    "code": "53.20.060.005",
+    "villageCode": "005",
+    "districtCode": "53.20.060",
+    "name": "Bolou",
+    "alias": "Bolou"
+  },
+  {
+    "code": "53.20.060.006",
+    "villageCode": "006",
+    "districtCode": "53.20.060",
+    "name": "Limaggu",
+    "alias": "Limaggu"
+  },
+  {
+    "code": "53.20.060.007",
+    "villageCode": "007",
+    "districtCode": "53.20.060",
+    "name": "Loborai",
+    "alias": "Loborai"
+  },
+  {
+    "code": "53.20.060.008",
+    "villageCode": "008",
+    "districtCode": "53.20.060",
+    "name": "Bodae",
+    "alias": "Bodae"
+  },
+  {
+    "code": "53.20.060.009",
+    "villageCode": "009",
+    "districtCode": "53.20.060",
+    "name": "Kujiratu",
+    "alias": "Kujiratu"
+  },
+  {
+    "code": "53.20.060.010",
+    "villageCode": "010",
+    "districtCode": "53.20.060",
+    "name": "Keliha",
+    "alias": "Keliha"
+  }
+]

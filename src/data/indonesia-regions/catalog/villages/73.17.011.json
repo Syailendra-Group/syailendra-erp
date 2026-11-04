@@ -1,0 +1,72 @@
+[
+  {
+    "code": "73.17.011.001",
+    "villageCode": "001",
+    "districtCode": "73.17.011",
+    "name": "La Loa",
+    "alias": "La Loa"
+  },
+  {
+    "code": "73.17.011.002",
+    "villageCode": "002",
+    "districtCode": "73.17.011",
+    "name": "Batu Lappa",
+    "alias": "Batu Lappa"
+  },
+  {
+    "code": "73.17.011.003",
+    "villageCode": "003",
+    "districtCode": "73.17.011",
+    "name": "Bonepute",
+    "alias": "Bonepute"
+  },
+  {
+    "code": "73.17.011.004",
+    "villageCode": "004",
+    "districtCode": "73.17.011",
+    "name": "Tembo E",
+    "alias": "Tembo E"
+  },
+  {
+    "code": "73.17.011.005",
+    "villageCode": "005",
+    "districtCode": "73.17.011",
+    "name": "Salusana",
+    "alias": "Salusana"
+  },
+  {
+    "code": "73.17.011.006",
+    "villageCode": "006",
+    "districtCode": "73.17.011",
+    "name": "Dadeko",
+    "alias": "Dadeko"
+  },
+  {
+    "code": "73.17.011.007",
+    "villageCode": "007",
+    "districtCode": "73.17.011",
+    "name": "Sampano",
+    "alias": "Sampano"
+  },
+  {
+    "code": "73.17.011.008",
+    "villageCode": "008",
+    "districtCode": "73.17.011",
+    "name": "Malewong",
+    "alias": "Malewong"
+  },
+  {
+    "code": "73.17.011.009",
+    "villageCode": "009",
+    "districtCode": "73.17.011",
+    "name": "Babang",
+    "alias": "Babang"
+  },
+  {
+    "code": "73.17.011.010",
+    "villageCode": "010",
+    "districtCode": "73.17.011",
+    "name": "Gandang Batu",
+    "alias": "Gandang Batu"
+  }
+]

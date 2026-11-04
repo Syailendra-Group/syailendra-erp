@@ -1,0 +1,72 @@
+[
+  {
+    "code": "71.11.020.001",
+    "villageCode": "001",
+    "districtCode": "71.11.020",
+    "name": "Dodap",
+    "alias": "Dodap"
+  },
+  {
+    "code": "71.11.020.002",
+    "villageCode": "002",
+    "districtCode": "71.11.020",
+    "name": "Dodap Pantai",
+    "alias": "Dodap Pantai"
+  },
+  {
+    "code": "71.11.020.003",
+    "villageCode": "003",
+    "districtCode": "71.11.020",
+    "name": "Togid",
+    "alias": "Togid"
+  },
+  {
+    "code": "71.11.020.004",
+    "villageCode": "004",
+    "districtCode": "71.11.020",
+    "name": "Tutuyan Ii",
+    "alias": "Tutuyan Ii"
+  },
+  {
+    "code": "71.11.020.005",
+    "villageCode": "005",
+    "districtCode": "71.11.020",
+    "name": "Tutuyan",
+    "alias": "Tutuyan"
+  },
+  {
+    "code": "71.11.020.006",
+    "villageCode": "006",
+    "districtCode": "71.11.020",
+    "name": "Tutuyan Iii",
+    "alias": "Tutuyan Iii"
+  },
+  {
+    "code": "71.11.020.007",
+    "villageCode": "007",
+    "districtCode": "71.11.020",
+    "name": "Tombolikat Selatan",
+    "alias": "Tombolikat Selatan"
+  },
+  {
+    "code": "71.11.020.008",
+    "villageCode": "008",
+    "districtCode": "71.11.020",
+    "name": "Tombolikat",
+    "alias": "Tombolikat"
+  },
+  {
+    "code": "71.11.020.009",
+    "villageCode": "009",
+    "districtCode": "71.11.020",
+    "name": "Kayumoyondi",
+    "alias": "Kayumoyondi"
+  },
+  {
+    "code": "71.11.020.010",
+    "villageCode": "010",
+    "districtCode": "71.11.020",
+    "name": "Dodap Mikasa",
+    "alias": "Dodap Mikasa"
+  }
+]

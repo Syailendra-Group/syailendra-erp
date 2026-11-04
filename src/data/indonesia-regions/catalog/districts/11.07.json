@@ -1,0 +1,98 @@
+[
+  {
+    "code": "11.07.050",
+    "districtCode": "050",
+    "regencyCode": "11.07",
+    "provinceCode": "11",
+    "name": "Kecamatan Johan Pahlawan",
+    "alias": "Johan Pahlawan"
+  },
+  {
+    "code": "11.07.060",
+    "districtCode": "060",
+    "regencyCode": "11.07",
+    "provinceCode": "11",
+    "name": "Kecamatan Samatiga",
+    "alias": "Samatiga"
+  },
+  {
+    "code": "11.07.061",
+    "districtCode": "061",
+    "regencyCode": "11.07",
+    "provinceCode": "11",
+    "name": "Kecamatan Bubon",
+    "alias": "Bubon"
+  },
+  {
+    "code": "11.07.062",
+    "districtCode": "062",
+    "regencyCode": "11.07",
+    "provinceCode": "11",
+    "name": "Kecamatan Arongan Lambalek",
+    "alias": "Arongan Lambalek"
+  },
+  {
+    "code": "11.07.070",
+    "districtCode": "070",
+    "regencyCode": "11.07",
+    "provinceCode": "11",
+    "name": "Kecamatan Woyla",
+    "alias": "Woyla"
+  },
+  {
+    "code": "11.07.071",
+    "districtCode": "071",
+    "regencyCode": "11.07",
+    "provinceCode": "11",
+    "name": "Kecamatan Woyla Barat",
+    "alias": "Woyla Barat"
+  },
+  {
+    "code": "11.07.072",
+    "districtCode": "072",
+    "regencyCode": "11.07",
+    "provinceCode": "11",
+    "name": "Kecamatan Woyla Timur",
+    "alias": "Woyla Timur"
+  },
+  {
+    "code": "11.07.080",
+    "districtCode": "080",
+    "regencyCode": "11.07",
+    "provinceCode": "11",
+    "name": "Kecamatan Kaway Xvi",
+    "alias": "Kaway Xvi"
+  },
+  {
+    "code": "11.07.081",
+    "districtCode": "081",
+    "regencyCode": "11.07",
+    "provinceCode": "11",
+    "name": "Kecamatan Meureubo",
+    "alias": "Meureubo"
+  },
+  {
+    "code": "11.07.082",
+    "districtCode": "082",
+    "regencyCode": "11.07",
+    "provinceCode": "11",
+    "name": "Kecamatan Pante Ceureumen",
+    "alias": "Pante Ceureumen"
+  },
+  {
+    "code": "11.07.083",
+    "districtCode": "083",
+    "regencyCode": "11.07",
+    "provinceCode": "11",
+    "name": "Kecamatan Panton Reu",
+    "alias": "Panton Reu"
+  },
+  {
+    "code": "11.07.090",
+    "districtCode": "090",
+    "regencyCode": "11.07",
+    "provinceCode": "11",
+    "name": "Kecamatan Sungai Mas",
+    "alias": "Sungai Mas"
+  }
+]

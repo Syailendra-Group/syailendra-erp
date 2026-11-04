@@ -1,0 +1,65 @@
+[
+  {
+    "code": "75.04.021.001",
+    "villageCode": "001",
+    "districtCode": "75.04.021",
+    "name": "Buata",
+    "alias": "Buata"
+  },
+  {
+    "code": "75.04.021.002",
+    "villageCode": "002",
+    "districtCode": "75.04.021",
+    "name": "Luwohu",
+    "alias": "Luwohu"
+  },
+  {
+    "code": "75.04.021.003",
+    "villageCode": "003",
+    "districtCode": "75.04.021",
+    "name": "Timbuolo",
+    "alias": "Timbuolo"
+  },
+  {
+    "code": "75.04.021.004",
+    "villageCode": "004",
+    "districtCode": "75.04.021",
+    "name": "Panggulo",
+    "alias": "Panggulo"
+  },
+  {
+    "code": "75.04.021.006",
+    "villageCode": "006",
+    "districtCode": "75.04.021",
+    "name": "Timbuolo Timur",
+    "alias": "Timbuolo Timur"
+  },
+  {
+    "code": "75.04.021.007",
+    "villageCode": "007",
+    "districtCode": "75.04.021",
+    "name": "Tanah Putih",
+    "alias": "Tanah Putih"
+  },
+  {
+    "code": "75.04.021.008",
+    "villageCode": "008",
+    "districtCode": "75.04.021",
+    "name": "Timbuolo Tengah",
+    "alias": "Timbuolo Tengah"
+  },
+  {
+    "code": "75.04.021.009",
+    "villageCode": "009",
+    "districtCode": "75.04.021",
+    "name": "Panggulo Barat",
+    "alias": "Panggulo Barat"
+  },
+  {
+    "code": "75.04.021.010",
+    "villageCode": "010",
+    "districtCode": "75.04.021",
+    "name": "Sukma",
+    "alias": "Sukma"
+  }
+]

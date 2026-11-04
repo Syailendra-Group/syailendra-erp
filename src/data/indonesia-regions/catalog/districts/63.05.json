@@ -1,0 +1,98 @@
+[
+  {
+    "code": "63.05.010",
+    "districtCode": "010",
+    "regencyCode": "63.05",
+    "provinceCode": "63",
+    "name": "Kecamatan Binuang",
+    "alias": "Binuang"
+  },
+  {
+    "code": "63.05.011",
+    "districtCode": "011",
+    "regencyCode": "63.05",
+    "provinceCode": "63",
+    "name": "Kecamatan Hatungun",
+    "alias": "Hatungun"
+  },
+  {
+    "code": "63.05.020",
+    "districtCode": "020",
+    "regencyCode": "63.05",
+    "provinceCode": "63",
+    "name": "Kecamatan Tapin Selatan",
+    "alias": "Tapin Selatan"
+  },
+  {
+    "code": "63.05.021",
+    "districtCode": "021",
+    "regencyCode": "63.05",
+    "provinceCode": "63",
+    "name": "Kecamatan Salam Babaris",
+    "alias": "Salam Babaris"
+  },
+  {
+    "code": "63.05.030",
+    "districtCode": "030",
+    "regencyCode": "63.05",
+    "provinceCode": "63",
+    "name": "Kecamatan Tapin Tengah",
+    "alias": "Tapin Tengah"
+  },
+  {
+    "code": "63.05.040",
+    "districtCode": "040",
+    "regencyCode": "63.05",
+    "provinceCode": "63",
+    "name": "Kecamatan Bungur",
+    "alias": "Bungur"
+  },
+  {
+    "code": "63.05.050",
+    "districtCode": "050",
+    "regencyCode": "63.05",
+    "provinceCode": "63",
+    "name": "Kecamatan Piani",
+    "alias": "Piani"
+  },
+  {
+    "code": "63.05.060",
+    "districtCode": "060",
+    "regencyCode": "63.05",
+    "provinceCode": "63",
+    "name": "Kecamatan Lokpaikat",
+    "alias": "Lokpaikat"
+  },
+  {
+    "code": "63.05.070",
+    "districtCode": "070",
+    "regencyCode": "63.05",
+    "provinceCode": "63",
+    "name": "Kecamatan Tapin Utara",
+    "alias": "Tapin Utara"
+  },
+  {
+    "code": "63.05.080",
+    "districtCode": "080",
+    "regencyCode": "63.05",
+    "provinceCode": "63",
+    "name": "Kecamatan Bakarangan",
+    "alias": "Bakarangan"
+  },
+  {
+    "code": "63.05.090",
+    "districtCode": "090",
+    "regencyCode": "63.05",
+    "provinceCode": "63",
+    "name": "Kecamatan Candi Laras Selatan",
+    "alias": "Candi Laras Selatan"
+  },
+  {
+    "code": "63.05.100",
+    "districtCode": "100",
+    "regencyCode": "63.05",
+    "provinceCode": "63",
+    "name": "Kecamatan Candi Laras Utara",
+    "alias": "Candi Laras Utara"
+  }
+]

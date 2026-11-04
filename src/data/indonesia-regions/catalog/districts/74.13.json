@@ -1,0 +1,90 @@
+[
+  {
+    "code": "74.13.010",
+    "districtCode": "010",
+    "regencyCode": "74.13",
+    "provinceCode": "74",
+    "name": "Kecamatan Tiworo Kepulauan",
+    "alias": "Tiworo Kepulauan"
+  },
+  {
+    "code": "74.13.020",
+    "districtCode": "020",
+    "regencyCode": "74.13",
+    "provinceCode": "74",
+    "name": "Kecamatan Maginti",
+    "alias": "Maginti"
+  },
+  {
+    "code": "74.13.030",
+    "districtCode": "030",
+    "regencyCode": "74.13",
+    "provinceCode": "74",
+    "name": "Kecamatan Tiworo Tengah",
+    "alias": "Tiworo Tengah"
+  },
+  {
+    "code": "74.13.040",
+    "districtCode": "040",
+    "regencyCode": "74.13",
+    "provinceCode": "74",
+    "name": "Kecamatan Tiworo Selatan",
+    "alias": "Tiworo Selatan"
+  },
+  {
+    "code": "74.13.050",
+    "districtCode": "050",
+    "regencyCode": "74.13",
+    "provinceCode": "74",
+    "name": "Kecamatan Tiworo Utara",
+    "alias": "Tiworo Utara"
+  },
+  {
+    "code": "74.13.060",
+    "districtCode": "060",
+    "regencyCode": "74.13",
+    "provinceCode": "74",
+    "name": "Kecamatan Lawa",
+    "alias": "Lawa"
+  },
+  {
+    "code": "74.13.070",
+    "districtCode": "070",
+    "regencyCode": "74.13",
+    "provinceCode": "74",
+    "name": "Kecamatan Sawerigadi",
+    "alias": "Sawerigadi"
+  },
+  {
+    "code": "74.13.080",
+    "districtCode": "080",
+    "regencyCode": "74.13",
+    "provinceCode": "74",
+    "name": "Kecamatan Barangka",
+    "alias": "Barangka"
+  },
+  {
+    "code": "74.13.090",
+    "districtCode": "090",
+    "regencyCode": "74.13",
+    "provinceCode": "74",
+    "name": "Kecamatan Wa Daga",
+    "alias": "Wa Daga"
+  },
+  {
+    "code": "74.13.100",
+    "districtCode": "100",
+    "regencyCode": "74.13",
+    "provinceCode": "74",
+    "name": "Kecamatan Kusambi",
+    "alias": "Kusambi"
+  },
+  {
+    "code": "74.13.110",
+    "districtCode": "110",
+    "regencyCode": "74.13",
+    "provinceCode": "74",
+    "name": "Kecamatan Napano Kusambi",
+    "alias": "Napano Kusambi"
+  }
+]

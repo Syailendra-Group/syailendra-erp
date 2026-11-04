@@ -1,0 +1,72 @@
+[
+  {
+    "code": "53.02.071.001",
+    "villageCode": "001",
+    "districtCode": "53.02.071",
+    "name": "Kiritana",
+    "alias": "Kiritana"
+  },
+  {
+    "code": "53.02.071.002",
+    "villageCode": "002",
+    "districtCode": "53.02.071",
+    "name": "Malumbi",
+    "alias": "Malumbi"
+  },
+  {
+    "code": "53.02.071.003",
+    "villageCode": "003",
+    "districtCode": "53.02.071",
+    "name": "Lambanapu",
+    "alias": "Lambanapu"
+  },
+  {
+    "code": "53.02.071.004",
+    "villageCode": "004",
+    "districtCode": "53.02.071",
+    "name": "Mauliru",
+    "alias": "Mauliru"
+  },
+  {
+    "code": "53.02.071.005",
+    "villageCode": "005",
+    "districtCode": "53.02.071",
+    "name": "Mau Hau",
+    "alias": "Mau Hau"
+  },
+  {
+    "code": "53.02.071.006",
+    "villageCode": "006",
+    "districtCode": "53.02.071",
+    "name": "Kambaniru",
+    "alias": "Kambaniru"
+  },
+  {
+    "code": "53.02.071.007",
+    "villageCode": "007",
+    "districtCode": "53.02.071",
+    "name": "Prailiu",
+    "alias": "Prailiu"
+  },
+  {
+    "code": "53.02.071.008",
+    "villageCode": "008",
+    "districtCode": "53.02.071",
+    "name": "Wangga",
+    "alias": "Wangga"
+  },
+  {
+    "code": "53.02.071.009",
+    "villageCode": "009",
+    "districtCode": "53.02.071",
+    "name": "Desa Persiapan Tanau",
+    "alias": "Desa Persiapan Tanau"
+  },
+  {
+    "code": "53.02.071.010",
+    "villageCode": "010",
+    "districtCode": "53.02.071",
+    "name": "Desa Persiapan Wuku Kalara",
+    "alias": "Desa Persiapan Wuku Kalara"
+  }
+]

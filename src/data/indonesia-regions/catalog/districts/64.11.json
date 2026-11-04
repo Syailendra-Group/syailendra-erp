@@ -1,0 +1,42 @@
+[
+  {
+    "code": "64.11.010",
+    "districtCode": "010",
+    "regencyCode": "64.11",
+    "provinceCode": "64",
+    "name": "Kecamatan Laham",
+    "alias": "Laham"
+  },
+  {
+    "code": "64.11.020",
+    "districtCode": "020",
+    "regencyCode": "64.11",
+    "provinceCode": "64",
+    "name": "Kecamatan Long Hubung",
+    "alias": "Long Hubung"
+  },
+  {
+    "code": "64.11.030",
+    "districtCode": "030",
+    "regencyCode": "64.11",
+    "provinceCode": "64",
+    "name": "Kecamatan Long Bagun",
+    "alias": "Long Bagun"
+  },
+  {
+    "code": "64.11.040",
+    "districtCode": "040",
+    "regencyCode": "64.11",
+    "provinceCode": "64",
+    "name": "Kecamatan Long Pahangai",
+    "alias": "Long Pahangai"
+  },
+  {
+    "code": "64.11.050",
+    "districtCode": "050",
+    "regencyCode": "64.11",
+    "provinceCode": "64",
+    "name": "Kecamatan Long Apari",
+    "alias": "Long Apari"
+  }
+]

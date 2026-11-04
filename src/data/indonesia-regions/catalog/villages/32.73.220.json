@@ -1,0 +1,30 @@
+[
+  {
+    "code": "32.73.220.001",
+    "villageCode": "001",
+    "districtCode": "32.73.220",
+    "name": "Cihaurgeulis",
+    "alias": "Cihaurgeulis"
+  },
+  {
+    "code": "32.73.220.002",
+    "villageCode": "002",
+    "districtCode": "32.73.220",
+    "name": "Sukaluyu",
+    "alias": "Sukaluyu"
+  },
+  {
+    "code": "32.73.220.003",
+    "villageCode": "003",
+    "districtCode": "32.73.220",
+    "name": "Neglasari",
+    "alias": "Neglasari"
+  },
+  {
+    "code": "32.73.220.004",
+    "villageCode": "004",
+    "districtCode": "32.73.220",
+    "name": "Cigadung",
+    "alias": "Cigadung"
+  }
+]

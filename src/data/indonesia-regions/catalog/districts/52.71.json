@@ -1,0 +1,50 @@
+[
+  {
+    "code": "52.71.010",
+    "districtCode": "010",
+    "regencyCode": "52.71",
+    "provinceCode": "52",
+    "name": "Kecamatan Ampenan",
+    "alias": "Ampenan"
+  },
+  {
+    "code": "52.71.011",
+    "districtCode": "011",
+    "regencyCode": "52.71",
+    "provinceCode": "52",
+    "name": "Kecamatan Sekarbela",
+    "alias": "Sekarbela"
+  },
+  {
+    "code": "52.71.020",
+    "districtCode": "020",
+    "regencyCode": "52.71",
+    "provinceCode": "52",
+    "name": "Kecamatan Mataram",
+    "alias": "Mataram"
+  },
+  {
+    "code": "52.71.021",
+    "districtCode": "021",
+    "regencyCode": "52.71",
+    "provinceCode": "52",
+    "name": "Kecamatan Selaparang",
+    "alias": "Selaparang"
+  },
+  {
+    "code": "52.71.030",
+    "districtCode": "030",
+    "regencyCode": "52.71",
+    "provinceCode": "52",
+    "name": "Kecamatan Cakranegara",
+    "alias": "Cakranegara"
+  },
+  {
+    "code": "52.71.031",
+    "districtCode": "031",
+    "regencyCode": "52.71",
+    "provinceCode": "52",
+    "name": "Kecamatan Sandubaya",
+    "alias": "Sandubaya"
+  }
+]

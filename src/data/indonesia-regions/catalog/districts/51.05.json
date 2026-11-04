@@ -1,0 +1,34 @@
+[
+  {
+    "code": "51.05.010",
+    "districtCode": "010",
+    "regencyCode": "51.05",
+    "provinceCode": "51",
+    "name": "Kecamatan Nusapenida",
+    "alias": "Nusapenida"
+  },
+  {
+    "code": "51.05.020",
+    "districtCode": "020",
+    "regencyCode": "51.05",
+    "provinceCode": "51",
+    "name": "Kecamatan Banjarangkan",
+    "alias": "Banjarangkan"
+  },
+  {
+    "code": "51.05.030",
+    "districtCode": "030",
+    "regencyCode": "51.05",
+    "provinceCode": "51",
+    "name": "Kecamatan Klungkung",
+    "alias": "Klungkung"
+  },
+  {
+    "code": "51.05.040",
+    "districtCode": "040",
+    "regencyCode": "51.05",
+    "provinceCode": "51",
+    "name": "Kecamatan Dawan",
+    "alias": "Dawan"
+  }
+]

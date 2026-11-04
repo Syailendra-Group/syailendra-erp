@@ -1,0 +1,58 @@
+[
+  {
+    "code": "16.03.093.001",
+    "villageCode": "001",
+    "districtCode": "16.03.093",
+    "name": "Harapan Mulia",
+    "alias": "Harapan Mulia"
+  },
+  {
+    "code": "16.03.093.002",
+    "villageCode": "002",
+    "districtCode": "16.03.093",
+    "name": "Arisan Musi",
+    "alias": "Arisan Musi"
+  },
+  {
+    "code": "16.03.093.003",
+    "villageCode": "003",
+    "districtCode": "16.03.093",
+    "name": "Gedung Buruk",
+    "alias": "Gedung Buruk"
+  },
+  {
+    "code": "16.03.093.004",
+    "villageCode": "004",
+    "districtCode": "16.03.093",
+    "name": "Kayu Ara Batu",
+    "alias": "Kayu Ara Batu"
+  },
+  {
+    "code": "16.03.093.005",
+    "villageCode": "005",
+    "districtCode": "16.03.093",
+    "name": "Arisan Musi Timur",
+    "alias": "Arisan Musi Timur"
+  },
+  {
+    "code": "16.03.093.006",
+    "villageCode": "006",
+    "districtCode": "16.03.093",
+    "name": "Patra Tani",
+    "alias": "Patra Tani"
+  },
+  {
+    "code": "16.03.093.007",
+    "villageCode": "007",
+    "districtCode": "16.03.093",
+    "name": "Tanjung Baru",
+    "alias": "Tanjung Baru"
+  },
+  {
+    "code": "16.03.093.008",
+    "villageCode": "008",
+    "districtCode": "16.03.093",
+    "name": "Mulia Abadi",
+    "alias": "Mulia Abadi"
+  }
+]

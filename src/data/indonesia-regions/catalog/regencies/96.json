@@ -1,0 +1,66 @@
+[
+  {
+    "code": "96.01",
+    "regencyCode": "01",
+    "provinceCode": "96",
+    "provinceName": "Papua Tengah",
+    "name": "Kabupaten Mimika",
+    "alias": "Mimika"
+  },
+  {
+    "code": "96.02",
+    "regencyCode": "02",
+    "provinceCode": "96",
+    "provinceName": "Papua Tengah",
+    "name": "Kabupaten Dogiyai",
+    "alias": "Dogiyai"
+  },
+  {
+    "code": "96.03",
+    "regencyCode": "03",
+    "provinceCode": "96",
+    "provinceName": "Papua Tengah",
+    "name": "Kabupaten Deiyai",
+    "alias": "Deiyai"
+  },
+  {
+    "code": "96.04",
+    "regencyCode": "04",
+    "provinceCode": "96",
+    "provinceName": "Papua Tengah",
+    "name": "Kabupaten Nabire",
+    "alias": "Nabire"
+  },
+  {
+    "code": "96.05",
+    "regencyCode": "05",
+    "provinceCode": "96",
+    "provinceName": "Papua Tengah",
+    "name": "Kabupaten Paniai",
+    "alias": "Paniai"
+  },
+  {
+    "code": "96.06",
+    "regencyCode": "06",
+    "provinceCode": "96",
+    "provinceName": "Papua Tengah",
+    "name": "Kabupaten Intan Jaya",
+    "alias": "Intan Jaya"
+  },
+  {
+    "code": "96.07",
+    "regencyCode": "07",
+    "provinceCode": "96",
+    "provinceName": "Papua Tengah",
+    "name": "Kabupaten Puncak",
+    "alias": "Puncak"
+  },
+  {
+    "code": "96.08",
+    "regencyCode": "08",
+    "provinceCode": "96",
+    "provinceName": "Papua Tengah",
+    "name": "Kabupaten Puncak Jaya",
+    "alias": "Puncak Jaya"
+  }
+]

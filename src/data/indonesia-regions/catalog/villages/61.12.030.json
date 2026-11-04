@@ -1,0 +1,149 @@
+[
+  {
+    "code": "61.12.030.001",
+    "villageCode": "001",
+    "districtCode": "61.12.030",
+    "name": "Dabong",
+    "alias": "Dabong"
+  },
+  {
+    "code": "61.12.030.002",
+    "villageCode": "002",
+    "districtCode": "61.12.030",
+    "name": "Kubu",
+    "alias": "Kubu"
+  },
+  {
+    "code": "61.12.030.003",
+    "villageCode": "003",
+    "districtCode": "61.12.030",
+    "name": "Sungai Terus",
+    "alias": "Sungai Terus"
+  },
+  {
+    "code": "61.12.030.004",
+    "villageCode": "004",
+    "districtCode": "61.12.030",
+    "name": "Teluk Nangka",
+    "alias": "Teluk Nangka"
+  },
+  {
+    "code": "61.12.030.005",
+    "villageCode": "005",
+    "districtCode": "61.12.030",
+    "name": "Jangkang Satu",
+    "alias": "Jangkang Satu"
+  },
+  {
+    "code": "61.12.030.006",
+    "villageCode": "006",
+    "districtCode": "61.12.030",
+    "name": "Jangkang Dua",
+    "alias": "Jangkang Dua"
+  },
+  {
+    "code": "61.12.030.007",
+    "villageCode": "007",
+    "districtCode": "61.12.030",
+    "name": "Pinang Dalam",
+    "alias": "Pinang Dalam"
+  },
+  {
+    "code": "61.12.030.008",
+    "villageCode": "008",
+    "districtCode": "61.12.030",
+    "name": "Kampung Baru",
+    "alias": "Kampung Baru"
+  },
+  {
+    "code": "61.12.030.009",
+    "villageCode": "009",
+    "districtCode": "61.12.030",
+    "name": "Olak Olak Kubu",
+    "alias": "Olak Olak Kubu"
+  },
+  {
+    "code": "61.12.030.010",
+    "villageCode": "010",
+    "districtCode": "61.12.030",
+    "name": "Pelita Jaya",
+    "alias": "Pelita Jaya"
+  },
+  {
+    "code": "61.12.030.011",
+    "villageCode": "011",
+    "districtCode": "61.12.030",
+    "name": "Seruat Tiga",
+    "alias": "Seruat Tiga"
+  },
+  {
+    "code": "61.12.030.012",
+    "villageCode": "012",
+    "districtCode": "61.12.030",
+    "name": "Seruat Dua",
+    "alias": "Seruat Dua"
+  },
+  {
+    "code": "61.12.030.013",
+    "villageCode": "013",
+    "districtCode": "61.12.030",
+    "name": "Sungai Selamat",
+    "alias": "Sungai Selamat"
+  },
+  {
+    "code": "61.12.030.014",
+    "villageCode": "014",
+    "districtCode": "61.12.030",
+    "name": "Ambawang",
+    "alias": "Ambawang"
+  },
+  {
+    "code": "61.12.030.015",
+    "villageCode": "015",
+    "districtCode": "61.12.030",
+    "name": "Air Putih",
+    "alias": "Air Putih"
+  },
+  {
+    "code": "61.12.030.016",
+    "villageCode": "016",
+    "districtCode": "61.12.030",
+    "name": "Pinang Luar",
+    "alias": "Pinang Luar"
+  },
+  {
+    "code": "61.12.030.017",
+    "villageCode": "017",
+    "districtCode": "61.12.030",
+    "name": "Sungai Bemban",
+    "alias": "Sungai Bemban"
+  },
+  {
+    "code": "61.12.030.018",
+    "villageCode": "018",
+    "districtCode": "61.12.030",
+    "name": "Sepakat Baru",
+    "alias": "Sepakat Baru"
+  },
+  {
+    "code": "61.12.030.019",
+    "villageCode": "019",
+    "districtCode": "61.12.030",
+    "name": "Mengkalang",
+    "alias": "Mengkalang"
+  },
+  {
+    "code": "61.12.030.020",
+    "villageCode": "020",
+    "districtCode": "61.12.030",
+    "name": "Mengkalang Jambu",
+    "alias": "Mengkalang Jambu"
+  },
+  {
+    "code": "61.12.030.021",
+    "villageCode": "021",
+    "districtCode": "61.12.030",
+    "name": "Desa Persiapan Bemban Timur",
+    "alias": "Desa Persiapan Bemban Timur"
+  }
+]

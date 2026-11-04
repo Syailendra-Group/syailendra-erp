@@ -1,0 +1,44 @@
+[
+  {
+    "code": "75.71.021.006",
+    "villageCode": "006",
+    "districtCode": "75.71.021",
+    "name": "Padebuolo",
+    "alias": "Padebuolo"
+  },
+  {
+    "code": "75.71.021.007",
+    "villageCode": "007",
+    "districtCode": "75.71.021",
+    "name": "Ipilo",
+    "alias": "Ipilo"
+  },
+  {
+    "code": "75.71.021.008",
+    "villageCode": "008",
+    "districtCode": "75.71.021",
+    "name": "Tamalate",
+    "alias": "Tamalate"
+  },
+  {
+    "code": "75.71.021.009",
+    "villageCode": "009",
+    "districtCode": "75.71.021",
+    "name": "Moodu",
+    "alias": "Moodu"
+  },
+  {
+    "code": "75.71.021.010",
+    "villageCode": "010",
+    "districtCode": "75.71.021",
+    "name": "Heledulaa Selatan",
+    "alias": "Heledulaa Selatan"
+  },
+  {
+    "code": "75.71.021.011",
+    "villageCode": "011",
+    "districtCode": "75.71.021",
+    "name": "Heledulaa",
+    "alias": "Heledulaa"
+  }
+]

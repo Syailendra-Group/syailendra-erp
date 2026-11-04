@@ -1,0 +1,79 @@
+[
+  {
+    "code": "63.05.010.001",
+    "villageCode": "001",
+    "districtCode": "63.05.010",
+    "name": "Tungkap",
+    "alias": "Tungkap"
+  },
+  {
+    "code": "63.05.010.002",
+    "villageCode": "002",
+    "districtCode": "63.05.010",
+    "name": "A Yani Pura",
+    "alias": "A Yani Pura"
+  },
+  {
+    "code": "63.05.010.003",
+    "villageCode": "003",
+    "districtCode": "63.05.010",
+    "name": "Gunung Batu",
+    "alias": "Gunung Batu"
+  },
+  {
+    "code": "63.05.010.012",
+    "villageCode": "012",
+    "districtCode": "63.05.010",
+    "name": "Padang Sari",
+    "alias": "Padang Sari"
+  },
+  {
+    "code": "63.05.010.013",
+    "villageCode": "013",
+    "districtCode": "63.05.010",
+    "name": "Pualam Sari",
+    "alias": "Pualam Sari"
+  },
+  {
+    "code": "63.05.010.014",
+    "villageCode": "014",
+    "districtCode": "63.05.010",
+    "name": "Binuang",
+    "alias": "Binuang"
+  },
+  {
+    "code": "63.05.010.015",
+    "villageCode": "015",
+    "districtCode": "63.05.010",
+    "name": "Pulau Pinang",
+    "alias": "Pulau Pinang"
+  },
+  {
+    "code": "63.05.010.016",
+    "villageCode": "016",
+    "districtCode": "63.05.010",
+    "name": "Pulau Pinang Utara",
+    "alias": "Pulau Pinang Utara"
+  },
+  {
+    "code": "63.05.010.017",
+    "villageCode": "017",
+    "districtCode": "63.05.010",
+    "name": "Raya Belanti",
+    "alias": "Raya Belanti"
+  },
+  {
+    "code": "63.05.010.018",
+    "villageCode": "018",
+    "districtCode": "63.05.010",
+    "name": "Karangan Putih",
+    "alias": "Karangan Putih"
+  },
+  {
+    "code": "63.05.010.019",
+    "villageCode": "019",
+    "districtCode": "63.05.010",
+    "name": "Mekar Sari",
+    "alias": "Mekar Sari"
+  }
+]

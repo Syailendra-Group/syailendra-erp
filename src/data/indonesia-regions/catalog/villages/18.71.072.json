@@ -1,0 +1,37 @@
+[
+  {
+    "code": "18.71.072.001",
+    "villageCode": "001",
+    "districtCode": "18.71.072",
+    "name": "Bilabong Jaya",
+    "alias": "Bilabong Jaya"
+  },
+  {
+    "code": "18.71.072.002",
+    "villageCode": "002",
+    "districtCode": "18.71.072",
+    "name": "Langkapura",
+    "alias": "Langkapura"
+  },
+  {
+    "code": "18.71.072.003",
+    "villageCode": "003",
+    "districtCode": "18.71.072",
+    "name": "Langkapura Baru",
+    "alias": "Langkapura Baru"
+  },
+  {
+    "code": "18.71.072.004",
+    "villageCode": "004",
+    "districtCode": "18.71.072",
+    "name": "Gunung Terang",
+    "alias": "Gunung Terang"
+  },
+  {
+    "code": "18.71.072.005",
+    "villageCode": "005",
+    "districtCode": "18.71.072",
+    "name": "Gunung Agung",
+    "alias": "Gunung Agung"
+  }
+]

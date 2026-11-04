@@ -1,0 +1,44 @@
+[
+  {
+    "code": "35.78.160.001",
+    "villageCode": "001",
+    "districtCode": "35.78.160",
+    "name": "Putat Gede",
+    "alias": "Putat Gede"
+  },
+  {
+    "code": "35.78.160.002",
+    "villageCode": "002",
+    "districtCode": "35.78.160",
+    "name": "Sono Kwijenan",
+    "alias": "Sono Kwijenan"
+  },
+  {
+    "code": "35.78.160.003",
+    "villageCode": "003",
+    "districtCode": "35.78.160",
+    "name": "Simomulyo",
+    "alias": "Simomulyo"
+  },
+  {
+    "code": "35.78.160.004",
+    "villageCode": "004",
+    "districtCode": "35.78.160",
+    "name": "Suko Manunggal",
+    "alias": "Suko Manunggal"
+  },
+  {
+    "code": "35.78.160.005",
+    "villageCode": "005",
+    "districtCode": "35.78.160",
+    "name": "Tanjungsari",
+    "alias": "Tanjungsari"
+  },
+  {
+    "code": "35.78.160.006",
+    "villageCode": "006",
+    "districtCode": "35.78.160",
+    "name": "Simomulyo Baru",
+    "alias": "Simomulyo Baru"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "code": "12.18.090.001",
+    "villageCode": "001",
+    "districtCode": "12.18.090",
+    "name": "Sei Buluh",
+    "alias": "Sei Buluh"
+  },
+  {
+    "code": "12.18.090.002",
+    "villageCode": "002",
+    "districtCode": "12.18.090",
+    "name": "Liberia",
+    "alias": "Liberia"
+  },
+  {
+    "code": "12.18.090.003",
+    "villageCode": "003",
+    "districtCode": "12.18.090",
+    "name": "Pematang Seterak",
+    "alias": "Pematang Seterak"
+  },
+  {
+    "code": "12.18.090.004",
+    "villageCode": "004",
+    "districtCode": "12.18.090",
+    "name": "Matapao",
+    "alias": "Matapao"
+  },
+  {
+    "code": "12.18.090.005",
+    "villageCode": "005",
+    "districtCode": "12.18.090",
+    "name": "Makmur",
+    "alias": "Makmur"
+  },
+  {
+    "code": "12.18.090.006",
+    "villageCode": "006",
+    "districtCode": "12.18.090",
+    "name": "Pasar Baru",
+    "alias": "Pasar Baru"
+  },
+  {
+    "code": "12.18.090.007",
+    "villageCode": "007",
+    "districtCode": "12.18.090",
+    "name": "Pekan Sialang Buah",
+    "alias": "Pekan Sialang Buah"
+  },
+  {
+    "code": "12.18.090.008",
+    "villageCode": "008",
+    "districtCode": "12.18.090",
+    "name": "Sialang Buah",
+    "alias": "Sialang Buah"
+  },
+  {
+    "code": "12.18.090.009",
+    "villageCode": "009",
+    "districtCode": "12.18.090",
+    "name": "Pematang Guntung",
+    "alias": "Pematang Guntung"
+  },
+  {
+    "code": "12.18.090.010",
+    "villageCode": "010",
+    "districtCode": "12.18.090",
+    "name": "Sentang",
+    "alias": "Sentang"
+  },
+  {
+    "code": "12.18.090.011",
+    "villageCode": "011",
+    "districtCode": "12.18.090",
+    "name": "Bogak Besar",
+    "alias": "Bogak Besar"
+  },
+  {
+    "code": "12.18.090.012",
+    "villageCode": "012",
+    "districtCode": "12.18.090",
+    "name": "Pematang Kuala",
+    "alias": "Pematang Kuala"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "code": "73.04.010",
+    "districtCode": "010",
+    "regencyCode": "73.04",
+    "provinceCode": "73",
+    "name": "Kecamatan Bangkala",
+    "alias": "Bangkala"
+  },
+  {
+    "code": "73.04.011",
+    "districtCode": "011",
+    "regencyCode": "73.04",
+    "provinceCode": "73",
+    "name": "Kecamatan Bangkala Barat",
+    "alias": "Bangkala Barat"
+  },
+  {
+    "code": "73.04.020",
+    "districtCode": "020",
+    "regencyCode": "73.04",
+    "provinceCode": "73",
+    "name": "Kecamatan Tamalatea",
+    "alias": "Tamalatea"
+  },
+  {
+    "code": "73.04.021",
+    "districtCode": "021",
+    "regencyCode": "73.04",
+    "provinceCode": "73",
+    "name": "Kecamatan Bontoramba",
+    "alias": "Bontoramba"
+  },
+  {
+    "code": "73.04.030",
+    "districtCode": "030",
+    "regencyCode": "73.04",
+    "provinceCode": "73",
+    "name": "Kecamatan Binamu",
+    "alias": "Binamu"
+  },
+  {
+    "code": "73.04.031",
+    "districtCode": "031",
+    "regencyCode": "73.04",
+    "provinceCode": "73",
+    "name": "Kecamatan Turatea",
+    "alias": "Turatea"
+  },
+  {
+    "code": "73.04.040",
+    "districtCode": "040",
+    "regencyCode": "73.04",
+    "provinceCode": "73",
+    "name": "Kecamatan Batang",
+    "alias": "Batang"
+  },
+  {
+    "code": "73.04.041",
+    "districtCode": "041",
+    "regencyCode": "73.04",
+    "provinceCode": "73",
+    "name": "Kecamatan Arungkeke",
+    "alias": "Arungkeke"
+  },
+  {
+    "code": "73.04.042",
+    "districtCode": "042",
+    "regencyCode": "73.04",
+    "provinceCode": "73",
+    "name": "Kecamatan Tarowang",
+    "alias": "Tarowang"
+  },
+  {
+    "code": "73.04.050",
+    "districtCode": "050",
+    "regencyCode": "73.04",
+    "provinceCode": "73",
+    "name": "Kecamatan Kelara",
+    "alias": "Kelara"
+  },
+  {
+    "code": "73.04.051",
+    "districtCode": "051",
+    "regencyCode": "73.04",
+    "provinceCode": "73",
+    "name": "Kecamatan Rumbia",
+    "alias": "Rumbia"
+  }
+]

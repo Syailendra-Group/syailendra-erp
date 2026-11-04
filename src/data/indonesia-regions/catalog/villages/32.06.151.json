@@ -1,0 +1,30 @@
+[
+  {
+    "code": "32.06.151.001",
+    "villageCode": "001",
+    "districtCode": "32.06.151",
+    "name": "Citalahab",
+    "alias": "Citalahab"
+  },
+  {
+    "code": "32.06.151.002",
+    "villageCode": "002",
+    "districtCode": "32.06.151",
+    "name": "Sirnajaya",
+    "alias": "Sirnajaya"
+  },
+  {
+    "code": "32.06.151.003",
+    "villageCode": "003",
+    "districtCode": "32.06.151",
+    "name": "Karangjaya",
+    "alias": "Karangjaya"
+  },
+  {
+    "code": "32.06.151.004",
+    "villageCode": "004",
+    "districtCode": "32.06.151",
+    "name": "Karanglayung",
+    "alias": "Karanglayung"
+  }
+]

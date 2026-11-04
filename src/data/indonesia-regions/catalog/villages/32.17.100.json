@@ -1,0 +1,79 @@
+[
+  {
+    "code": "32.17.100.001",
+    "villageCode": "001",
+    "districtCode": "32.17.100",
+    "name": "Cimareme",
+    "alias": "Cimareme"
+  },
+  {
+    "code": "32.17.100.002",
+    "villageCode": "002",
+    "districtCode": "32.17.100",
+    "name": "Gadobangkong",
+    "alias": "Gadobangkong"
+  },
+  {
+    "code": "32.17.100.003",
+    "villageCode": "003",
+    "districtCode": "32.17.100",
+    "name": "Tanimulya",
+    "alias": "Tanimulya"
+  },
+  {
+    "code": "32.17.100.004",
+    "villageCode": "004",
+    "districtCode": "32.17.100",
+    "name": "Pakuhaji",
+    "alias": "Pakuhaji"
+  },
+  {
+    "code": "32.17.100.005",
+    "villageCode": "005",
+    "districtCode": "32.17.100",
+    "name": "Cilame",
+    "alias": "Cilame"
+  },
+  {
+    "code": "32.17.100.006",
+    "villageCode": "006",
+    "districtCode": "32.17.100",
+    "name": "Margajaya",
+    "alias": "Margajaya"
+  },
+  {
+    "code": "32.17.100.007",
+    "villageCode": "007",
+    "districtCode": "32.17.100",
+    "name": "Mekarsari",
+    "alias": "Mekarsari"
+  },
+  {
+    "code": "32.17.100.008",
+    "villageCode": "008",
+    "districtCode": "32.17.100",
+    "name": "Ngamprah",
+    "alias": "Ngamprah"
+  },
+  {
+    "code": "32.17.100.009",
+    "villageCode": "009",
+    "districtCode": "32.17.100",
+    "name": "Sukatani",
+    "alias": "Sukatani"
+  },
+  {
+    "code": "32.17.100.010",
+    "villageCode": "010",
+    "districtCode": "32.17.100",
+    "name": "Cimanggu",
+    "alias": "Cimanggu"
+  },
+  {
+    "code": "32.17.100.011",
+    "villageCode": "011",
+    "districtCode": "32.17.100",
+    "name": "Bojongkoneng",
+    "alias": "Bojongkoneng"
+  }
+]

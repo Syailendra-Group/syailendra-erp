@@ -1,0 +1,114 @@
+[
+  {
+    "code": "63.04.020.001",
+    "villageCode": "001",
+    "districtCode": "63.04.020",
+    "name": "Sekata Baru",
+    "alias": "Sekata Baru"
+  },
+  {
+    "code": "63.04.020.002",
+    "villageCode": "002",
+    "districtCode": "63.04.020",
+    "name": "Damsari",
+    "alias": "Damsari"
+  },
+  {
+    "code": "63.04.020.003",
+    "villageCode": "003",
+    "districtCode": "63.04.020",
+    "name": "Purwosari Ii",
+    "alias": "Purwosari Ii"
+  },
+  {
+    "code": "63.04.020.004",
+    "villageCode": "004",
+    "districtCode": "63.04.020",
+    "name": "Sidorejo",
+    "alias": "Sidorejo"
+  },
+  {
+    "code": "63.04.020.005",
+    "villageCode": "005",
+    "districtCode": "63.04.020",
+    "name": "Koanda",
+    "alias": "Koanda"
+  },
+  {
+    "code": "63.04.020.006",
+    "villageCode": "006",
+    "districtCode": "63.04.020",
+    "name": "Purwosari Baru",
+    "alias": "Purwosari Baru"
+  },
+  {
+    "code": "63.04.020.007",
+    "villageCode": "007",
+    "districtCode": "63.04.020",
+    "name": "Tamban Sari Baru",
+    "alias": "Tamban Sari Baru"
+  },
+  {
+    "code": "63.04.020.008",
+    "villageCode": "008",
+    "districtCode": "63.04.020",
+    "name": "Purwosari I",
+    "alias": "Purwosari I"
+  },
+  {
+    "code": "63.04.020.009",
+    "villageCode": "009",
+    "districtCode": "63.04.020",
+    "name": "Tamban Bangun",
+    "alias": "Tamban Bangun"
+  },
+  {
+    "code": "63.04.020.010",
+    "villageCode": "010",
+    "districtCode": "63.04.020",
+    "name": "Tamban Bangun Baru",
+    "alias": "Tamban Bangun Baru"
+  },
+  {
+    "code": "63.04.020.011",
+    "villageCode": "011",
+    "districtCode": "63.04.020",
+    "name": "Tamban Muara Baru",
+    "alias": "Tamban Muara Baru"
+  },
+  {
+    "code": "63.04.020.012",
+    "villageCode": "012",
+    "districtCode": "63.04.020",
+    "name": "Tamban Muara",
+    "alias": "Tamban Muara"
+  },
+  {
+    "code": "63.04.020.013",
+    "villageCode": "013",
+    "districtCode": "63.04.020",
+    "name": "Tamban Kecil",
+    "alias": "Tamban Kecil"
+  },
+  {
+    "code": "63.04.020.014",
+    "villageCode": "014",
+    "districtCode": "63.04.020",
+    "name": "Tinggiran Ii Luar",
+    "alias": "Tinggiran Ii Luar"
+  },
+  {
+    "code": "63.04.020.015",
+    "villageCode": "015",
+    "districtCode": "63.04.020",
+    "name": "Jelapat I",
+    "alias": "Jelapat I"
+  },
+  {
+    "code": "63.04.020.016",
+    "villageCode": "016",
+    "districtCode": "63.04.020",
+    "name": "Jelapat Baru",
+    "alias": "Jelapat Baru"
+  }
+]

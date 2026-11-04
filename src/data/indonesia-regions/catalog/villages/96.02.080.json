@@ -1,0 +1,58 @@
+[
+  {
+    "code": "96.02.080.001",
+    "villageCode": "001",
+    "districtCode": "96.02.080",
+    "name": "Ikebo",
+    "alias": "Ikebo"
+  },
+  {
+    "code": "96.02.080.002",
+    "villageCode": "002",
+    "districtCode": "96.02.080",
+    "name": "Bukapa",
+    "alias": "Bukapa"
+  },
+  {
+    "code": "96.02.080.003",
+    "villageCode": "003",
+    "districtCode": "96.02.080",
+    "name": "Mauwa",
+    "alias": "Mauwa"
+  },
+  {
+    "code": "96.02.080.004",
+    "villageCode": "004",
+    "districtCode": "96.02.080",
+    "name": "Ekemanida",
+    "alias": "Ekemanida"
+  },
+  {
+    "code": "96.02.080.005",
+    "villageCode": "005",
+    "districtCode": "96.02.080",
+    "name": "Kimupugi",
+    "alias": "Kimupugi"
+  },
+  {
+    "code": "96.02.080.006",
+    "villageCode": "006",
+    "districtCode": "96.02.080",
+    "name": "Putapa",
+    "alias": "Putapa"
+  },
+  {
+    "code": "96.02.080.007",
+    "villageCode": "007",
+    "districtCode": "96.02.080",
+    "name": "Dikiyoua",
+    "alias": "Dikiyoua"
+  },
+  {
+    "code": "96.02.080.008",
+    "villageCode": "008",
+    "districtCode": "96.02.080",
+    "name": "Idakotu",
+    "alias": "Idakotu"
+  }
+]

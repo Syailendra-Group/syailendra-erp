@@ -1,0 +1,107 @@
+[
+  {
+    "code": "61.12.050.001",
+    "villageCode": "001",
+    "districtCode": "61.12.050",
+    "name": "Sepuk Laut",
+    "alias": "Sepuk Laut"
+  },
+  {
+    "code": "61.12.050.002",
+    "villageCode": "002",
+    "districtCode": "61.12.050",
+    "name": "Punggur Besar",
+    "alias": "Punggur Besar"
+  },
+  {
+    "code": "61.12.050.003",
+    "villageCode": "003",
+    "districtCode": "61.12.050",
+    "name": "Punggur Kecil",
+    "alias": "Punggur Kecil"
+  },
+  {
+    "code": "61.12.050.004",
+    "villageCode": "004",
+    "districtCode": "61.12.050",
+    "name": "Kalimas",
+    "alias": "Kalimas"
+  },
+  {
+    "code": "61.12.050.005",
+    "villageCode": "005",
+    "districtCode": "61.12.050",
+    "name": "Tanjung Saleh",
+    "alias": "Tanjung Saleh"
+  },
+  {
+    "code": "61.12.050.006",
+    "villageCode": "006",
+    "districtCode": "61.12.050",
+    "name": "Sungai Belidak",
+    "alias": "Sungai Belidak"
+  },
+  {
+    "code": "61.12.050.007",
+    "villageCode": "007",
+    "districtCode": "61.12.050",
+    "name": "Sungai Kakap",
+    "alias": "Sungai Kakap"
+  },
+  {
+    "code": "61.12.050.008",
+    "villageCode": "008",
+    "districtCode": "61.12.050",
+    "name": "Sungai Itik",
+    "alias": "Sungai Itik"
+  },
+  {
+    "code": "61.12.050.009",
+    "villageCode": "009",
+    "districtCode": "61.12.050",
+    "name": "Pal Sembilan",
+    "alias": "Pal Sembilan"
+  },
+  {
+    "code": "61.12.050.010",
+    "villageCode": "010",
+    "districtCode": "61.12.050",
+    "name": "Sungai Rengas",
+    "alias": "Sungai Rengas"
+  },
+  {
+    "code": "61.12.050.011",
+    "villageCode": "011",
+    "districtCode": "61.12.050",
+    "name": "Jeruju Besar",
+    "alias": "Jeruju Besar"
+  },
+  {
+    "code": "61.12.050.012",
+    "villageCode": "012",
+    "districtCode": "61.12.050",
+    "name": "Sungai Kupah",
+    "alias": "Sungai Kupah"
+  },
+  {
+    "code": "61.12.050.013",
+    "villageCode": "013",
+    "districtCode": "61.12.050",
+    "name": "Punggur Kapuas",
+    "alias": "Punggur Kapuas"
+  },
+  {
+    "code": "61.12.050.014",
+    "villageCode": "014",
+    "districtCode": "61.12.050",
+    "name": "Parit Keladi",
+    "alias": "Parit Keladi"
+  },
+  {
+    "code": "61.12.050.015",
+    "villageCode": "015",
+    "districtCode": "61.12.050",
+    "name": "Rengas Kapuas",
+    "alias": "Rengas Kapuas"
+  }
+]

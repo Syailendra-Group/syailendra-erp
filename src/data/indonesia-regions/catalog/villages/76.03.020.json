@@ -1,0 +1,65 @@
+[
+  {
+    "code": "76.03.020.001",
+    "villageCode": "001",
+    "districtCode": "76.03.020",
+    "name": "Messawa",
+    "alias": "Messawa"
+  },
+  {
+    "code": "76.03.020.002",
+    "villageCode": "002",
+    "districtCode": "76.03.020",
+    "name": "Rippung",
+    "alias": "Rippung"
+  },
+  {
+    "code": "76.03.020.003",
+    "villageCode": "003",
+    "districtCode": "76.03.020",
+    "name": "Makuang",
+    "alias": "Makuang"
+  },
+  {
+    "code": "76.03.020.004",
+    "villageCode": "004",
+    "districtCode": "76.03.020",
+    "name": "Sepang",
+    "alias": "Sepang"
+  },
+  {
+    "code": "76.03.020.005",
+    "villageCode": "005",
+    "districtCode": "76.03.020",
+    "name": "Malimbong",
+    "alias": "Malimbong"
+  },
+  {
+    "code": "76.03.020.006",
+    "villageCode": "006",
+    "districtCode": "76.03.020",
+    "name": "Matande",
+    "alias": "Matande"
+  },
+  {
+    "code": "76.03.020.007",
+    "villageCode": "007",
+    "districtCode": "76.03.020",
+    "name": "Sipai",
+    "alias": "Sipai"
+  },
+  {
+    "code": "76.03.020.008",
+    "villageCode": "008",
+    "districtCode": "76.03.020",
+    "name": "Pasapa  Mambu",
+    "alias": "Pasapa  Mambu"
+  },
+  {
+    "code": "76.03.020.009",
+    "villageCode": "009",
+    "districtCode": "76.03.020",
+    "name": "Tanete Batu",
+    "alias": "Tanete Batu"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "code": "18.08.056.001",
+    "villageCode": "001",
+    "districtCode": "18.08.056",
+    "name": "Batu Ampar",
+    "alias": "Batu Ampar"
+  },
+  {
+    "code": "18.08.056.002",
+    "villageCode": "002",
+    "districtCode": "18.08.056",
+    "name": "Suka Bhakti",
+    "alias": "Suka Bhakti"
+  },
+  {
+    "code": "18.08.056.003",
+    "villageCode": "003",
+    "districtCode": "18.08.056",
+    "name": "Sido Mukti",
+    "alias": "Sido Mukti"
+  },
+  {
+    "code": "18.08.056.004",
+    "villageCode": "004",
+    "districtCode": "18.08.056",
+    "name": "Makarti Tama",
+    "alias": "Makarti Tama"
+  },
+  {
+    "code": "18.08.056.005",
+    "villageCode": "005",
+    "districtCode": "18.08.056",
+    "name": "Setia Tama",
+    "alias": "Setia Tama"
+  },
+  {
+    "code": "18.08.056.006",
+    "villageCode": "006",
+    "districtCode": "18.08.056",
+    "name": "Mesir Dwi Jaya",
+    "alias": "Mesir Dwi Jaya"
+  },
+  {
+    "code": "18.08.056.007",
+    "villageCode": "007",
+    "districtCode": "18.08.056",
+    "name": "Sumber Jaya",
+    "alias": "Sumber Jaya"
+  },
+  {
+    "code": "18.08.056.008",
+    "villageCode": "008",
+    "districtCode": "18.08.056",
+    "name": "Mekar Asri",
+    "alias": "Mekar Asri"
+  },
+  {
+    "code": "18.08.056.009",
+    "villageCode": "009",
+    "districtCode": "18.08.056",
+    "name": "Sidomekar",
+    "alias": "Sidomekar"
+  }
+]

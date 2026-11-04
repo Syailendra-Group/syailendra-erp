@@ -1,0 +1,100 @@
+[
+  {
+    "code": "14.07.040.002",
+    "villageCode": "002",
+    "districtCode": "14.07.040",
+    "name": "Menaming",
+    "alias": "Menaming"
+  },
+  {
+    "code": "14.07.040.003",
+    "villageCode": "003",
+    "districtCode": "14.07.040",
+    "name": "Rambah Tengah Hulu",
+    "alias": "Rambah Tengah Hulu"
+  },
+  {
+    "code": "14.07.040.004",
+    "villageCode": "004",
+    "districtCode": "14.07.040",
+    "name": "Rambah Tengah Barat",
+    "alias": "Rambah Tengah Barat"
+  },
+  {
+    "code": "14.07.040.005",
+    "villageCode": "005",
+    "districtCode": "14.07.040",
+    "name": "Pasir Pengaraian",
+    "alias": "Pasir Pengaraian"
+  },
+  {
+    "code": "14.07.040.006",
+    "villageCode": "006",
+    "districtCode": "14.07.040",
+    "name": "Rambah Tengah Utara",
+    "alias": "Rambah Tengah Utara"
+  },
+  {
+    "code": "14.07.040.012",
+    "villageCode": "012",
+    "districtCode": "14.07.040",
+    "name": "Rambah Tengah Hilir",
+    "alias": "Rambah Tengah Hilir"
+  },
+  {
+    "code": "14.07.040.013",
+    "villageCode": "013",
+    "districtCode": "14.07.040",
+    "name": "Pasir Baru",
+    "alias": "Pasir Baru"
+  },
+  {
+    "code": "14.07.040.014",
+    "villageCode": "014",
+    "districtCode": "14.07.040",
+    "name": "Tanjung Belit",
+    "alias": "Tanjung Belit"
+  },
+  {
+    "code": "14.07.040.015",
+    "villageCode": "015",
+    "districtCode": "14.07.040",
+    "name": "Sialang Jaya",
+    "alias": "Sialang Jaya"
+  },
+  {
+    "code": "14.07.040.016",
+    "villageCode": "016",
+    "districtCode": "14.07.040",
+    "name": "Koto Tinggi",
+    "alias": "Koto Tinggi"
+  },
+  {
+    "code": "14.07.040.017",
+    "villageCode": "017",
+    "districtCode": "14.07.040",
+    "name": "Suka Maju",
+    "alias": "Suka Maju"
+  },
+  {
+    "code": "14.07.040.018",
+    "villageCode": "018",
+    "districtCode": "14.07.040",
+    "name": "Pematang Berangan",
+    "alias": "Pematang Berangan"
+  },
+  {
+    "code": "14.07.040.019",
+    "villageCode": "019",
+    "districtCode": "14.07.040",
+    "name": "Babussalam",
+    "alias": "Babussalam"
+  },
+  {
+    "code": "14.07.040.020",
+    "villageCode": "020",
+    "districtCode": "14.07.040",
+    "name": "Pasir Maju",
+    "alias": "Pasir Maju"
+  }
+]

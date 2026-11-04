@@ -1,0 +1,130 @@
+[
+  {
+    "code": "72.10.010",
+    "districtCode": "010",
+    "regencyCode": "72.10",
+    "provinceCode": "72",
+    "name": "Kecamatan Pipikoro",
+    "alias": "Pipikoro"
+  },
+  {
+    "code": "72.10.020",
+    "districtCode": "020",
+    "regencyCode": "72.10",
+    "provinceCode": "72",
+    "name": "Kecamatan Kulawi Selatan",
+    "alias": "Kulawi Selatan"
+  },
+  {
+    "code": "72.10.030",
+    "districtCode": "030",
+    "regencyCode": "72.10",
+    "provinceCode": "72",
+    "name": "Kecamatan Kulawi",
+    "alias": "Kulawi"
+  },
+  {
+    "code": "72.10.040",
+    "districtCode": "040",
+    "regencyCode": "72.10",
+    "provinceCode": "72",
+    "name": "Kecamatan Lindu",
+    "alias": "Lindu"
+  },
+  {
+    "code": "72.10.050",
+    "districtCode": "050",
+    "regencyCode": "72.10",
+    "provinceCode": "72",
+    "name": "Kecamatan Nokilalaki",
+    "alias": "Nokilalaki"
+  },
+  {
+    "code": "72.10.060",
+    "districtCode": "060",
+    "regencyCode": "72.10",
+    "provinceCode": "72",
+    "name": "Kecamatan Palolo",
+    "alias": "Palolo"
+  },
+  {
+    "code": "72.10.070",
+    "districtCode": "070",
+    "regencyCode": "72.10",
+    "provinceCode": "72",
+    "name": "Kecamatan Gumbasa",
+    "alias": "Gumbasa"
+  },
+  {
+    "code": "72.10.080",
+    "districtCode": "080",
+    "regencyCode": "72.10",
+    "provinceCode": "72",
+    "name": "Kecamatan Dolo Selatan",
+    "alias": "Dolo Selatan"
+  },
+  {
+    "code": "72.10.090",
+    "districtCode": "090",
+    "regencyCode": "72.10",
+    "provinceCode": "72",
+    "name": "Kecamatan Dolo Barat",
+    "alias": "Dolo Barat"
+  },
+  {
+    "code": "72.10.100",
+    "districtCode": "100",
+    "regencyCode": "72.10",
+    "provinceCode": "72",
+    "name": "Kecamatan Tanambulava",
+    "alias": "Tanambulava"
+  },
+  {
+    "code": "72.10.110",
+    "districtCode": "110",
+    "regencyCode": "72.10",
+    "provinceCode": "72",
+    "name": "Kecamatan Dolo",
+    "alias": "Dolo"
+  },
+  {
+    "code": "72.10.120",
+    "districtCode": "120",
+    "regencyCode": "72.10",
+    "provinceCode": "72",
+    "name": "Kecamatan Sigi Biromaru",
+    "alias": "Sigi Biromaru"
+  },
+  {
+    "code": "72.10.121",
+    "districtCode": "121",
+    "regencyCode": "72.10",
+    "provinceCode": "72",
+    "name": "Kecamatan Sigi Kota",
+    "alias": "Sigi Kota"
+  },
+  {
+    "code": "72.10.130",
+    "districtCode": "130",
+    "regencyCode": "72.10",
+    "provinceCode": "72",
+    "name": "Kecamatan Marawola",
+    "alias": "Marawola"
+  },
+  {
+    "code": "72.10.140",
+    "districtCode": "140",
+    "regencyCode": "72.10",
+    "provinceCode": "72",
+    "name": "Kecamatan Marawola Barat",
+    "alias": "Marawola Barat"
+  },
+  {
+    "code": "72.10.150",
+    "districtCode": "150",
+    "regencyCode": "72.10",
+    "provinceCode": "72",
+    "name": "Kecamatan Kinovaro",
+    "alias": "Kinovaro"
+  }
+]

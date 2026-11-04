@@ -1,0 +1,65 @@
+[
+  {
+    "code": "14.02.043.001",
+    "villageCode": "001",
+    "districtCode": "14.02.043",
+    "name": "Sei Beras-Beras",
+    "alias": "Sei Beras-Beras"
+  },
+  {
+    "code": "14.02.043.002",
+    "villageCode": "002",
+    "districtCode": "14.02.043",
+    "name": "Sei Beberas Hilir",
+    "alias": "Sei Beberas Hilir"
+  },
+  {
+    "code": "14.02.043.003",
+    "villageCode": "003",
+    "districtCode": "14.02.043",
+    "name": "Pondok Gelugur",
+    "alias": "Pondok Gelugur"
+  },
+  {
+    "code": "14.02.043.004",
+    "villageCode": "004",
+    "districtCode": "14.02.043",
+    "name": "Rimpian",
+    "alias": "Rimpian"
+  },
+  {
+    "code": "14.02.043.005",
+    "villageCode": "005",
+    "districtCode": "14.02.043",
+    "name": "Lubuk Batu Tinggal",
+    "alias": "Lubuk Batu Tinggal"
+  },
+  {
+    "code": "14.02.043.027",
+    "villageCode": "027",
+    "districtCode": "14.02.043",
+    "name": "Kulim Jaya",
+    "alias": "Kulim Jaya"
+  },
+  {
+    "code": "14.02.043.029",
+    "villageCode": "029",
+    "districtCode": "14.02.043",
+    "name": "Tasik Juang",
+    "alias": "Tasik Juang"
+  },
+  {
+    "code": "14.02.043.030",
+    "villageCode": "030",
+    "districtCode": "14.02.043",
+    "name": "Pontian Mekar",
+    "alias": "Pontian Mekar"
+  },
+  {
+    "code": "14.02.043.031",
+    "villageCode": "031",
+    "districtCode": "14.02.043",
+    "name": "Air Putih",
+    "alias": "Air Putih"
+  }
+]

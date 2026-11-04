@@ -1,0 +1,79 @@
+[
+  {
+    "code": "35.20.121.001",
+    "villageCode": "001",
+    "districtCode": "35.20.121",
+    "name": "Botok",
+    "alias": "Botok"
+  },
+  {
+    "code": "35.20.121.002",
+    "villageCode": "002",
+    "districtCode": "35.20.121",
+    "name": "Ginuk",
+    "alias": "Ginuk"
+  },
+  {
+    "code": "35.20.121.003",
+    "villageCode": "003",
+    "districtCode": "35.20.121",
+    "name": "Taji",
+    "alias": "Taji"
+  },
+  {
+    "code": "35.20.121.004",
+    "villageCode": "004",
+    "districtCode": "35.20.121",
+    "name": "Temboro",
+    "alias": "Temboro"
+  },
+  {
+    "code": "35.20.121.005",
+    "villageCode": "005",
+    "districtCode": "35.20.121",
+    "name": "Temenggungan",
+    "alias": "Temenggungan"
+  },
+  {
+    "code": "35.20.121.006",
+    "villageCode": "006",
+    "districtCode": "35.20.121",
+    "name": "Jungke",
+    "alias": "Jungke"
+  },
+  {
+    "code": "35.20.121.007",
+    "villageCode": "007",
+    "districtCode": "35.20.121",
+    "name": "Geplak",
+    "alias": "Geplak"
+  },
+  {
+    "code": "35.20.121.008",
+    "villageCode": "008",
+    "districtCode": "35.20.121",
+    "name": "Karas",
+    "alias": "Karas"
+  },
+  {
+    "code": "35.20.121.009",
+    "villageCode": "009",
+    "districtCode": "35.20.121",
+    "name": "Kuwon",
+    "alias": "Kuwon"
+  },
+  {
+    "code": "35.20.121.010",
+    "villageCode": "010",
+    "districtCode": "35.20.121",
+    "name": "Sobontoro",
+    "alias": "Sobontoro"
+  },
+  {
+    "code": "35.20.121.011",
+    "villageCode": "011",
+    "districtCode": "35.20.121",
+    "name": "Sumursongo",
+    "alias": "Sumursongo"
+  }
+]

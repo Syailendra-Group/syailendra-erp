@@ -1,0 +1,37 @@
+[
+  {
+    "code": "75.04.034.001",
+    "villageCode": "001",
+    "districtCode": "75.04.034",
+    "name": "Bangio",
+    "alias": "Bangio"
+  },
+  {
+    "code": "75.04.034.002",
+    "villageCode": "002",
+    "districtCode": "75.04.034",
+    "name": "Pinogu Permai",
+    "alias": "Pinogu Permai"
+  },
+  {
+    "code": "75.04.034.003",
+    "villageCode": "003",
+    "districtCode": "75.04.034",
+    "name": "Tilonggibila",
+    "alias": "Tilonggibila"
+  },
+  {
+    "code": "75.04.034.004",
+    "villageCode": "004",
+    "districtCode": "75.04.034",
+    "name": "Pinogu",
+    "alias": "Pinogu"
+  },
+  {
+    "code": "75.04.034.005",
+    "villageCode": "005",
+    "districtCode": "75.04.034",
+    "name": "Dataran Hijau",
+    "alias": "Dataran Hijau"
+  }
+]

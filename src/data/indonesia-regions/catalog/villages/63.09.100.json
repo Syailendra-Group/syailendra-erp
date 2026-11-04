@@ -1,0 +1,100 @@
+[
+  {
+    "code": "63.09.100.001",
+    "villageCode": "001",
+    "districtCode": "63.09.100",
+    "name": "Ribang",
+    "alias": "Ribang"
+  },
+  {
+    "code": "63.09.100.002",
+    "villageCode": "002",
+    "districtCode": "63.09.100",
+    "name": "Kupang Nunding",
+    "alias": "Kupang Nunding"
+  },
+  {
+    "code": "63.09.100.003",
+    "villageCode": "003",
+    "districtCode": "63.09.100",
+    "name": "Mangkupum",
+    "alias": "Mangkupum"
+  },
+  {
+    "code": "63.09.100.004",
+    "villageCode": "004",
+    "districtCode": "63.09.100",
+    "name": "Kampung Baru",
+    "alias": "Kampung Baru"
+  },
+  {
+    "code": "63.09.100.005",
+    "villageCode": "005",
+    "districtCode": "63.09.100",
+    "name": "Pelapi",
+    "alias": "Pelapi"
+  },
+  {
+    "code": "63.09.100.006",
+    "villageCode": "006",
+    "districtCode": "63.09.100",
+    "name": "Pasar Batu",
+    "alias": "Pasar Batu"
+  },
+  {
+    "code": "63.09.100.007",
+    "villageCode": "007",
+    "districtCode": "63.09.100",
+    "name": "Simpung Layung",
+    "alias": "Simpung Layung"
+  },
+  {
+    "code": "63.09.100.008",
+    "villageCode": "008",
+    "districtCode": "63.09.100",
+    "name": "Uwie",
+    "alias": "Uwie"
+  },
+  {
+    "code": "63.09.100.010",
+    "villageCode": "010",
+    "districtCode": "63.09.100",
+    "name": "Muara Uya",
+    "alias": "Muara Uya"
+  },
+  {
+    "code": "63.09.100.011",
+    "villageCode": "011",
+    "districtCode": "63.09.100",
+    "name": "Lumbang",
+    "alias": "Lumbang"
+  },
+  {
+    "code": "63.09.100.014",
+    "villageCode": "014",
+    "districtCode": "63.09.100",
+    "name": "Santuun",
+    "alias": "Santuun"
+  },
+  {
+    "code": "63.09.100.015",
+    "villageCode": "015",
+    "districtCode": "63.09.100",
+    "name": "Binjai",
+    "alias": "Binjai"
+  },
+  {
+    "code": "63.09.100.016",
+    "villageCode": "016",
+    "districtCode": "63.09.100",
+    "name": "Salikung",
+    "alias": "Salikung"
+  },
+  {
+    "code": "63.09.100.017",
+    "villageCode": "017",
+    "districtCode": "63.09.100",
+    "name": "Sungai Kumap",
+    "alias": "Sungai Kumap"
+  }
+]

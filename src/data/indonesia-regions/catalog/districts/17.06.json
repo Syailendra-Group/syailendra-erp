@@ -1,0 +1,122 @@
+[
+  {
+    "code": "17.06.010",
+    "districtCode": "010",
+    "regencyCode": "17.06",
+    "provinceCode": "17",
+    "name": "Kecamatan Ipuh",
+    "alias": "Ipuh"
+  },
+  {
+    "code": "17.06.011",
+    "districtCode": "011",
+    "regencyCode": "17.06",
+    "provinceCode": "17",
+    "name": "Kecamatan Air Rami",
+    "alias": "Air Rami"
+  },
+  {
+    "code": "17.06.012",
+    "districtCode": "012",
+    "regencyCode": "17.06",
+    "provinceCode": "17",
+    "name": "Kecamatan Malin Deman",
+    "alias": "Malin Deman"
+  },
+  {
+    "code": "17.06.020",
+    "districtCode": "020",
+    "regencyCode": "17.06",
+    "provinceCode": "17",
+    "name": "Kecamatan Pondok Suguh",
+    "alias": "Pondok Suguh"
+  },
+  {
+    "code": "17.06.021",
+    "districtCode": "021",
+    "regencyCode": "17.06",
+    "provinceCode": "17",
+    "name": "Kecamatan Sungai Rumbai",
+    "alias": "Sungai Rumbai"
+  },
+  {
+    "code": "17.06.022",
+    "districtCode": "022",
+    "regencyCode": "17.06",
+    "provinceCode": "17",
+    "name": "Kecamatan Teramang Jaya",
+    "alias": "Teramang Jaya"
+  },
+  {
+    "code": "17.06.030",
+    "districtCode": "030",
+    "regencyCode": "17.06",
+    "provinceCode": "17",
+    "name": "Kecamatan Teras Terunjam",
+    "alias": "Teras Terunjam"
+  },
+  {
+    "code": "17.06.031",
+    "districtCode": "031",
+    "regencyCode": "17.06",
+    "provinceCode": "17",
+    "name": "Kecamatan Penarik",
+    "alias": "Penarik"
+  },
+  {
+    "code": "17.06.032",
+    "districtCode": "032",
+    "regencyCode": "17.06",
+    "provinceCode": "17",
+    "name": "Kecamatan Selagan Raya",
+    "alias": "Selagan Raya"
+  },
+  {
+    "code": "17.06.040",
+    "districtCode": "040",
+    "regencyCode": "17.06",
+    "provinceCode": "17",
+    "name": "Kecamatan Kota Mukomuko",
+    "alias": "Kota Mukomuko"
+  },
+  {
+    "code": "17.06.041",
+    "districtCode": "041",
+    "regencyCode": "17.06",
+    "provinceCode": "17",
+    "name": "Kecamatan Air Dikit",
+    "alias": "Air Dikit"
+  },
+  {
+    "code": "17.06.042",
+    "districtCode": "042",
+    "regencyCode": "17.06",
+    "provinceCode": "17",
+    "name": "Kecamatan Xiv Koto",
+    "alias": "Xiv Koto"
+  },
+  {
+    "code": "17.06.050",
+    "districtCode": "050",
+    "regencyCode": "17.06",
+    "provinceCode": "17",
+    "name": "Kecamatan Lubuk Pinang",
+    "alias": "Lubuk Pinang"
+  },
+  {
+    "code": "17.06.051",
+    "districtCode": "051",
+    "regencyCode": "17.06",
+    "provinceCode": "17",
+    "name": "Kecamatan Air Manjunto",
+    "alias": "Air Manjunto"
+  },
+  {
+    "code": "17.06.052",
+    "districtCode": "052",
+    "regencyCode": "17.06",
+    "provinceCode": "17",
+    "name": "Kecamatan V Koto",
+    "alias": "V Koto"
+  }
+]

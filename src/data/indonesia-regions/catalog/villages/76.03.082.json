@@ -1,0 +1,58 @@
+[
+  {
+    "code": "76.03.082.001",
+    "villageCode": "001",
+    "districtCode": "76.03.082",
+    "name": "Salumokanan",
+    "alias": "Salumokanan"
+  },
+  {
+    "code": "76.03.082.002",
+    "villageCode": "002",
+    "districtCode": "76.03.082",
+    "name": "Leko",
+    "alias": "Leko"
+  },
+  {
+    "code": "76.03.082.003",
+    "villageCode": "003",
+    "districtCode": "76.03.082",
+    "name": "Buangin",
+    "alias": "Buangin"
+  },
+  {
+    "code": "76.03.082.004",
+    "villageCode": "004",
+    "districtCode": "76.03.082",
+    "name": "Salumokanan Barat",
+    "alias": "Salumokanan Barat"
+  },
+  {
+    "code": "76.03.082.005",
+    "villageCode": "005",
+    "districtCode": "76.03.082",
+    "name": "Salumokanan Utara",
+    "alias": "Salumokanan Utara"
+  },
+  {
+    "code": "76.03.082.006",
+    "villageCode": "006",
+    "districtCode": "76.03.082",
+    "name": "Bambang Buda",
+    "alias": "Bambang Buda"
+  },
+  {
+    "code": "76.03.082.007",
+    "villageCode": "007",
+    "districtCode": "76.03.082",
+    "name": "Kirak",
+    "alias": "Kirak"
+  },
+  {
+    "code": "76.03.082.008",
+    "villageCode": "008",
+    "districtCode": "76.03.082",
+    "name": "Sampale",
+    "alias": "Sampale"
+  }
+]

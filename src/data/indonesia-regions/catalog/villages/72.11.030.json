@@ -1,0 +1,44 @@
+[
+  {
+    "code": "72.11.030.001",
+    "villageCode": "001",
+    "districtCode": "72.11.030",
+    "name": "Kendek",
+    "alias": "Kendek"
+  },
+  {
+    "code": "72.11.030.002",
+    "villageCode": "002",
+    "districtCode": "72.11.030",
+    "name": "Bone Baru",
+    "alias": "Bone Baru"
+  },
+  {
+    "code": "72.11.030.003",
+    "villageCode": "003",
+    "districtCode": "72.11.030",
+    "name": "Tolise Tubono",
+    "alias": "Tolise Tubono"
+  },
+  {
+    "code": "72.11.030.004",
+    "villageCode": "004",
+    "districtCode": "72.11.030",
+    "name": "Lokotoy",
+    "alias": "Lokotoy"
+  },
+  {
+    "code": "72.11.030.005",
+    "villageCode": "005",
+    "districtCode": "72.11.030",
+    "name": "Popisi",
+    "alias": "Popisi"
+  },
+  {
+    "code": "72.11.030.006",
+    "villageCode": "006",
+    "districtCode": "72.11.030",
+    "name": "Paisumosoni",
+    "alias": "Paisumosoni"
+  }
+]

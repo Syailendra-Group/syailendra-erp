@@ -1,0 +1,72 @@
+[
+  {
+    "code": "32.06.270.007",
+    "villageCode": "007",
+    "districtCode": "32.06.270",
+    "name": "Cipacing",
+    "alias": "Cipacing"
+  },
+  {
+    "code": "32.06.270.010",
+    "villageCode": "010",
+    "districtCode": "32.06.270",
+    "name": "Sukamaju",
+    "alias": "Sukamaju"
+  },
+  {
+    "code": "32.06.270.011",
+    "villageCode": "011",
+    "districtCode": "32.06.270",
+    "name": "Pagersari",
+    "alias": "Pagersari"
+  },
+  {
+    "code": "32.06.270.012",
+    "villageCode": "012",
+    "districtCode": "32.06.270",
+    "name": "Pagerageung",
+    "alias": "Pagerageung"
+  },
+  {
+    "code": "32.06.270.013",
+    "villageCode": "013",
+    "districtCode": "32.06.270",
+    "name": "Sukadana",
+    "alias": "Sukadana"
+  },
+  {
+    "code": "32.06.270.014",
+    "villageCode": "014",
+    "districtCode": "32.06.270",
+    "name": "Puteran",
+    "alias": "Puteran"
+  },
+  {
+    "code": "32.06.270.015",
+    "villageCode": "015",
+    "districtCode": "32.06.270",
+    "name": "Tanjungkerta",
+    "alias": "Tanjungkerta"
+  },
+  {
+    "code": "32.06.270.016",
+    "villageCode": "016",
+    "districtCode": "32.06.270",
+    "name": "Guranteng",
+    "alias": "Guranteng"
+  },
+  {
+    "code": "32.06.270.017",
+    "villageCode": "017",
+    "districtCode": "32.06.270",
+    "name": "Nanggewer",
+    "alias": "Nanggewer"
+  },
+  {
+    "code": "32.06.270.018",
+    "villageCode": "018",
+    "districtCode": "32.06.270",
+    "name": "Sukapada",
+    "alias": "Sukapada"
+  }
+]

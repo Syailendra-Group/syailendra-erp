@@ -1,0 +1,90 @@
+[
+  {
+    "code": "15.05.010",
+    "districtCode": "010",
+    "regencyCode": "15.05",
+    "provinceCode": "15",
+    "name": "Kecamatan Mestong",
+    "alias": "Mestong"
+  },
+  {
+    "code": "15.05.011",
+    "districtCode": "011",
+    "regencyCode": "15.05",
+    "provinceCode": "15",
+    "name": "Kecamatan Sungai Bahar",
+    "alias": "Sungai Bahar"
+  },
+  {
+    "code": "15.05.012",
+    "districtCode": "012",
+    "regencyCode": "15.05",
+    "provinceCode": "15",
+    "name": "Kecamatan Bahar Selatan",
+    "alias": "Bahar Selatan"
+  },
+  {
+    "code": "15.05.013",
+    "districtCode": "013",
+    "regencyCode": "15.05",
+    "provinceCode": "15",
+    "name": "Kecamatan Bahar Utara",
+    "alias": "Bahar Utara"
+  },
+  {
+    "code": "15.05.020",
+    "districtCode": "020",
+    "regencyCode": "15.05",
+    "provinceCode": "15",
+    "name": "Kecamatan Kumpeh Ulu",
+    "alias": "Kumpeh Ulu"
+  },
+  {
+    "code": "15.05.021",
+    "districtCode": "021",
+    "regencyCode": "15.05",
+    "provinceCode": "15",
+    "name": "Kecamatan Sungai Gelam",
+    "alias": "Sungai Gelam"
+  },
+  {
+    "code": "15.05.030",
+    "districtCode": "030",
+    "regencyCode": "15.05",
+    "provinceCode": "15",
+    "name": "Kecamatan Kumpeh",
+    "alias": "Kumpeh"
+  },
+  {
+    "code": "15.05.040",
+    "districtCode": "040",
+    "regencyCode": "15.05",
+    "provinceCode": "15",
+    "name": "Kecamatan Maro Sebo",
+    "alias": "Maro Sebo"
+  },
+  {
+    "code": "15.05.041",
+    "districtCode": "041",
+    "regencyCode": "15.05",
+    "provinceCode": "15",
+    "name": "Kecamatan Taman Rajo",
+    "alias": "Taman Rajo"
+  },
+  {
+    "code": "15.05.050",
+    "districtCode": "050",
+    "regencyCode": "15.05",
+    "provinceCode": "15",
+    "name": "Kecamatan Jambi Luar Kota",
+    "alias": "Jambi Luar Kota"
+  },
+  {
+    "code": "15.05.060",
+    "districtCode": "060",
+    "regencyCode": "15.05",
+    "provinceCode": "15",
+    "name": "Kecamatan Sekernan",
+    "alias": "Sekernan"
+  }
+]

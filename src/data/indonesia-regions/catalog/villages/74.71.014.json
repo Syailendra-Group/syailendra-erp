@@ -1,0 +1,30 @@
+[
+  {
+    "code": "74.71.014.003",
+    "villageCode": "003",
+    "districtCode": "74.71.014",
+    "name": "Bonggoeya",
+    "alias": "Bonggoeya"
+  },
+  {
+    "code": "74.71.014.004",
+    "villageCode": "004",
+    "districtCode": "74.71.014",
+    "name": "Wua-Wua",
+    "alias": "Wua-Wua"
+  },
+  {
+    "code": "74.71.014.008",
+    "villageCode": "008",
+    "districtCode": "74.71.014",
+    "name": "Mataiwoi",
+    "alias": "Mataiwoi"
+  },
+  {
+    "code": "74.71.014.011",
+    "villageCode": "011",
+    "districtCode": "74.71.014",
+    "name": "Anawai",
+    "alias": "Anawai"
+  }
+]

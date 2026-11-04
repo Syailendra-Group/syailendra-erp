@@ -1,0 +1,72 @@
+[
+  {
+    "code": "53.03.141.001",
+    "villageCode": "001",
+    "districtCode": "53.03.141",
+    "name": "Pathau",
+    "alias": "Pathau"
+  },
+  {
+    "code": "53.03.141.002",
+    "villageCode": "002",
+    "districtCode": "53.03.141",
+    "name": "Muke",
+    "alias": "Muke"
+  },
+  {
+    "code": "53.03.141.003",
+    "villageCode": "003",
+    "districtCode": "53.03.141",
+    "name": "Oemolo",
+    "alias": "Oemolo"
+  },
+  {
+    "code": "53.03.141.004",
+    "villageCode": "004",
+    "districtCode": "53.03.141",
+    "name": "Oemofa",
+    "alias": "Oemofa"
+  },
+  {
+    "code": "53.03.141.005",
+    "villageCode": "005",
+    "districtCode": "53.03.141",
+    "name": "Seki",
+    "alias": "Seki"
+  },
+  {
+    "code": "53.03.141.006",
+    "villageCode": "006",
+    "districtCode": "53.03.141",
+    "name": "Nunmafo",
+    "alias": "Nunmafo"
+  },
+  {
+    "code": "53.03.141.007",
+    "villageCode": "007",
+    "districtCode": "53.03.141",
+    "name": "Oenunutono",
+    "alias": "Oenunutono"
+  },
+  {
+    "code": "53.03.141.008",
+    "villageCode": "008",
+    "districtCode": "53.03.141",
+    "name": "Oeniko",
+    "alias": "Oeniko"
+  },
+  {
+    "code": "53.03.141.009",
+    "villageCode": "009",
+    "districtCode": "53.03.141",
+    "name": "Enolanan",
+    "alias": "Enolanan"
+  },
+  {
+    "code": "53.03.141.010",
+    "villageCode": "010",
+    "districtCode": "53.03.141",
+    "name": "Oenaunu",
+    "alias": "Oenaunu"
+  }
+]

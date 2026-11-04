@@ -1,0 +1,79 @@
+[
+  {
+    "code": "63.01.080.001",
+    "villageCode": "001",
+    "districtCode": "63.01.080",
+    "name": "Sabuhur",
+    "alias": "Sabuhur"
+  },
+  {
+    "code": "63.01.080.002",
+    "villageCode": "002",
+    "districtCode": "63.01.080",
+    "name": "Swarangan",
+    "alias": "Swarangan"
+  },
+  {
+    "code": "63.01.080.003",
+    "villageCode": "003",
+    "districtCode": "63.01.080",
+    "name": "Alur",
+    "alias": "Alur"
+  },
+  {
+    "code": "63.01.080.004",
+    "villageCode": "004",
+    "districtCode": "63.01.080",
+    "name": "Jorong",
+    "alias": "Jorong"
+  },
+  {
+    "code": "63.01.080.005",
+    "villageCode": "005",
+    "districtCode": "63.01.080",
+    "name": "Karang Rejo",
+    "alias": "Karang Rejo"
+  },
+  {
+    "code": "63.01.080.006",
+    "villageCode": "006",
+    "districtCode": "63.01.080",
+    "name": "Muara Asam-Asam",
+    "alias": "Muara Asam-Asam"
+  },
+  {
+    "code": "63.01.080.007",
+    "villageCode": "007",
+    "districtCode": "63.01.080",
+    "name": "Asam Jaya",
+    "alias": "Asam Jaya"
+  },
+  {
+    "code": "63.01.080.008",
+    "villageCode": "008",
+    "districtCode": "63.01.080",
+    "name": "Asri Mulya",
+    "alias": "Asri Mulya"
+  },
+  {
+    "code": "63.01.080.009",
+    "villageCode": "009",
+    "districtCode": "63.01.080",
+    "name": "Asam-Asam",
+    "alias": "Asam-Asam"
+  },
+  {
+    "code": "63.01.080.010",
+    "villageCode": "010",
+    "districtCode": "63.01.080",
+    "name": "Batalang",
+    "alias": "Batalang"
+  },
+  {
+    "code": "63.01.080.011",
+    "villageCode": "011",
+    "districtCode": "63.01.080",
+    "name": "Simpang Empat Sungai Baru",
+    "alias": "Simpang Empat Sungai Baru"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "code": "16.03.061.001",
+    "villageCode": "001",
+    "districtCode": "16.03.061",
+    "name": "Padang Bindu",
+    "alias": "Padang Bindu"
+  },
+  {
+    "code": "16.03.061.002",
+    "villageCode": "002",
+    "districtCode": "16.03.061",
+    "name": "Pagar Dewa",
+    "alias": "Pagar Dewa"
+  },
+  {
+    "code": "16.03.061.003",
+    "villageCode": "003",
+    "districtCode": "16.03.061",
+    "name": "Pagar Jati",
+    "alias": "Pagar Jati"
+  },
+  {
+    "code": "16.03.061.004",
+    "villageCode": "004",
+    "districtCode": "16.03.061",
+    "name": "Betung",
+    "alias": "Betung"
+  },
+  {
+    "code": "16.03.061.005",
+    "villageCode": "005",
+    "districtCode": "16.03.061",
+    "name": "Hidup Baru",
+    "alias": "Hidup Baru"
+  },
+  {
+    "code": "16.03.061.006",
+    "villageCode": "006",
+    "districtCode": "16.03.061",
+    "name": "Rami Pasai",
+    "alias": "Rami Pasai"
+  }
+]

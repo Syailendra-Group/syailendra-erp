@@ -1,0 +1,37 @@
+[
+  {
+    "code": "61.02.010.001",
+    "villageCode": "001",
+    "districtCode": "61.02.010",
+    "name": "Sungai Duri",
+    "alias": "Sungai Duri"
+  },
+  {
+    "code": "61.02.010.002",
+    "villageCode": "002",
+    "districtCode": "61.02.010",
+    "name": "Sungai Jaga A",
+    "alias": "Sungai Jaga A"
+  },
+  {
+    "code": "61.02.010.003",
+    "villageCode": "003",
+    "districtCode": "61.02.010",
+    "name": "Sungai Jaga B",
+    "alias": "Sungai Jaga B"
+  },
+  {
+    "code": "61.02.010.006",
+    "villageCode": "006",
+    "districtCode": "61.02.010",
+    "name": "Sungai Pangkalan I",
+    "alias": "Sungai Pangkalan I"
+  },
+  {
+    "code": "61.02.010.007",
+    "villageCode": "007",
+    "districtCode": "61.02.010",
+    "name": "Sungai Pangkalan Ii",
+    "alias": "Sungai Pangkalan Ii"
+  }
+]

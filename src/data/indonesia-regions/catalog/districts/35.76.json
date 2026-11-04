@@ -1,0 +1,26 @@
+[
+  {
+    "code": "35.76.010",
+    "districtCode": "010",
+    "regencyCode": "35.76",
+    "provinceCode": "35",
+    "name": "Kecamatan Prajurit Kulon",
+    "alias": "Prajurit Kulon"
+  },
+  {
+    "code": "35.76.020",
+    "districtCode": "020",
+    "regencyCode": "35.76",
+    "provinceCode": "35",
+    "name": "Kecamatan Magersari",
+    "alias": "Magersari"
+  },
+  {
+    "code": "35.76.021",
+    "districtCode": "021",
+    "regencyCode": "35.76",
+    "provinceCode": "35",
+    "name": "Kecamatan Kranggan",
+    "alias": "Kranggan"
+  }
+]

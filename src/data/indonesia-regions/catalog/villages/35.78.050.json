@@ -1,0 +1,30 @@
+[
+  {
+    "code": "35.78.050.001",
+    "villageCode": "001",
+    "districtCode": "35.78.050",
+    "name": "Kutisari",
+    "alias": "Kutisari"
+  },
+  {
+    "code": "35.78.050.002",
+    "villageCode": "002",
+    "districtCode": "35.78.050",
+    "name": "Kendangsari",
+    "alias": "Kendangsari"
+  },
+  {
+    "code": "35.78.050.003",
+    "villageCode": "003",
+    "districtCode": "35.78.050",
+    "name": "Tenggilis Mejoyo",
+    "alias": "Tenggilis Mejoyo"
+  },
+  {
+    "code": "35.78.050.005",
+    "villageCode": "005",
+    "districtCode": "35.78.050",
+    "name": "Panjang Jiwo",
+    "alias": "Panjang Jiwo"
+  }
+]

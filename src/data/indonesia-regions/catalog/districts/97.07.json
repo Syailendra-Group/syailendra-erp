@@ -1,0 +1,410 @@
+[
+  {
+    "code": "97.07.010",
+    "districtCode": "010",
+    "regencyCode": "97.07",
+    "provinceCode": "97",
+    "name": "Kecamatan Kurima",
+    "alias": "Kurima"
+  },
+  {
+    "code": "97.07.020",
+    "districtCode": "020",
+    "regencyCode": "97.07",
+    "provinceCode": "97",
+    "name": "Kecamatan Musaik",
+    "alias": "Musaik"
+  },
+  {
+    "code": "97.07.030",
+    "districtCode": "030",
+    "regencyCode": "97.07",
+    "provinceCode": "97",
+    "name": "Kecamatan Dekai",
+    "alias": "Dekai"
+  },
+  {
+    "code": "97.07.040",
+    "districtCode": "040",
+    "regencyCode": "97.07",
+    "provinceCode": "97",
+    "name": "Kecamatan Obio",
+    "alias": "Obio"
+  },
+  {
+    "code": "97.07.050",
+    "districtCode": "050",
+    "regencyCode": "97.07",
+    "provinceCode": "97",
+    "name": "Kecamatan Pasema",
+    "alias": "Pasema"
+  },
+  {
+    "code": "97.07.060",
+    "districtCode": "060",
+    "regencyCode": "97.07",
+    "provinceCode": "97",
+    "name": "Kecamatan Amuma",
+    "alias": "Amuma"
+  },
+  {
+    "code": "97.07.070",
+    "districtCode": "070",
+    "regencyCode": "97.07",
+    "provinceCode": "97",
+    "name": "Kecamatan Suru-Suru",
+    "alias": "Suru-Suru"
+  },
+  {
+    "code": "97.07.080",
+    "districtCode": "080",
+    "regencyCode": "97.07",
+    "provinceCode": "97",
+    "name": "Kecamatan Wusama",
+    "alias": "Wusama"
+  },
+  {
+    "code": "97.07.090",
+    "districtCode": "090",
+    "regencyCode": "97.07",
+    "provinceCode": "97",
+    "name": "Kecamatan Silimo",
+    "alias": "Silimo"
+  },
+  {
+    "code": "97.07.100",
+    "districtCode": "100",
+    "regencyCode": "97.07",
+    "provinceCode": "97",
+    "name": "Kecamatan Ninia",
+    "alias": "Ninia"
+  },
+  {
+    "code": "97.07.110",
+    "districtCode": "110",
+    "regencyCode": "97.07",
+    "provinceCode": "97",
+    "name": "Kecamatan Holuwon",
+    "alias": "Holuwon"
+  },
+  {
+    "code": "97.07.120",
+    "districtCode": "120",
+    "regencyCode": "97.07",
+    "provinceCode": "97",
+    "name": "Kecamatan Lolat",
+    "alias": "Lolat"
+  },
+  {
+    "code": "97.07.130",
+    "districtCode": "130",
+    "regencyCode": "97.07",
+    "provinceCode": "97",
+    "name": "Kecamatan Langda",
+    "alias": "Langda"
+  },
+  {
+    "code": "97.07.140",
+    "districtCode": "140",
+    "regencyCode": "97.07",
+    "provinceCode": "97",
+    "name": "Kecamatan Bomela",
+    "alias": "Bomela"
+  },
+  {
+    "code": "97.07.150",
+    "districtCode": "150",
+    "regencyCode": "97.07",
+    "provinceCode": "97",
+    "name": "Kecamatan Suntamon",
+    "alias": "Suntamon"
+  },
+  {
+    "code": "97.07.160",
+    "districtCode": "160",
+    "regencyCode": "97.07",
+    "provinceCode": "97",
+    "name": "Kecamatan Sobaham",
+    "alias": "Sobaham"
+  },
+  {
+    "code": "97.07.170",
+    "districtCode": "170",
+    "regencyCode": "97.07",
+    "provinceCode": "97",
+    "name": "Kecamatan Korupun",
+    "alias": "Korupun"
+  },
+  {
+    "code": "97.07.180",
+    "districtCode": "180",
+    "regencyCode": "97.07",
+    "provinceCode": "97",
+    "name": "Kecamatan Sela",
+    "alias": "Sela"
+  },
+  {
+    "code": "97.07.190",
+    "districtCode": "190",
+    "regencyCode": "97.07",
+    "provinceCode": "97",
+    "name": "Kecamatan Kwelamdua",
+    "alias": "Kwelamdua"
+  },
+  {
+    "code": "97.07.200",
+    "districtCode": "200",
+    "regencyCode": "97.07",
+    "provinceCode": "97",
+    "name": "Kecamatan Anggruk",
+    "alias": "Anggruk"
+  },
+  {
+    "code": "97.07.210",
+    "districtCode": "210",
+    "regencyCode": "97.07",
+    "provinceCode": "97",
+    "name": "Kecamatan Panggema",
+    "alias": "Panggema"
+  },
+  {
+    "code": "97.07.220",
+    "districtCode": "220",
+    "regencyCode": "97.07",
+    "provinceCode": "97",
+    "name": "Kecamatan Walma",
+    "alias": "Walma"
+  },
+  {
+    "code": "97.07.230",
+    "districtCode": "230",
+    "regencyCode": "97.07",
+    "provinceCode": "97",
+    "name": "Kecamatan Kosarek",
+    "alias": "Kosarek"
+  },
+  {
+    "code": "97.07.240",
+    "districtCode": "240",
+    "regencyCode": "97.07",
+    "provinceCode": "97",
+    "name": "Kecamatan Ubahak",
+    "alias": "Ubahak"
+  },
+  {
+    "code": "97.07.250",
+    "districtCode": "250",
+    "regencyCode": "97.07",
+    "provinceCode": "97",
+    "name": "Kecamatan Nalca",
+    "alias": "Nalca"
+  },
+  {
+    "code": "97.07.260",
+    "districtCode": "260",
+    "regencyCode": "97.07",
+    "provinceCode": "97",
+    "name": "Kecamatan Puldama",
+    "alias": "Puldama"
+  },
+  {
+    "code": "97.07.270",
+    "districtCode": "270",
+    "regencyCode": "97.07",
+    "provinceCode": "97",
+    "name": "Kecamatan Nipsan",
+    "alias": "Nipsan"
+  },
+  {
+    "code": "97.07.280",
+    "districtCode": "280",
+    "regencyCode": "97.07",
+    "provinceCode": "97",
+    "name": "Kecamatan Samenage",
+    "alias": "Samenage"
+  },
+  {
+    "code": "97.07.290",
+    "districtCode": "290",
+    "regencyCode": "97.07",
+    "provinceCode": "97",
+    "name": "Kecamatan Tangma",
+    "alias": "Tangma"
+  },
+  {
+    "code": "97.07.300",
+    "districtCode": "300",
+    "regencyCode": "97.07",
+    "provinceCode": "97",
+    "name": "Kecamatan Soba",
+    "alias": "Soba"
+  },
+  {
+    "code": "97.07.310",
+    "districtCode": "310",
+    "regencyCode": "97.07",
+    "provinceCode": "97",
+    "name": "Kecamatan Mugi",
+    "alias": "Mugi"
+  },
+  {
+    "code": "97.07.320",
+    "districtCode": "320",
+    "regencyCode": "97.07",
+    "provinceCode": "97",
+    "name": "Kecamatan Yogosem",
+    "alias": "Yogosem"
+  },
+  {
+    "code": "97.07.330",
+    "districtCode": "330",
+    "regencyCode": "97.07",
+    "provinceCode": "97",
+    "name": "Kecamatan Kayo",
+    "alias": "Kayo"
+  },
+  {
+    "code": "97.07.340",
+    "districtCode": "340",
+    "regencyCode": "97.07",
+    "provinceCode": "97",
+    "name": "Kecamatan Sumo",
+    "alias": "Sumo"
+  },
+  {
+    "code": "97.07.350",
+    "districtCode": "350",
+    "regencyCode": "97.07",
+    "provinceCode": "97",
+    "name": "Kecamatan Hogio",
+    "alias": "Hogio"
+  },
+  {
+    "code": "97.07.360",
+    "districtCode": "360",
+    "regencyCode": "97.07",
+    "provinceCode": "97",
+    "name": "Kecamatan Ukha",
+    "alias": "Ukha"
+  },
+  {
+    "code": "97.07.370",
+    "districtCode": "370",
+    "regencyCode": "97.07",
+    "provinceCode": "97",
+    "name": "Kecamatan Werima",
+    "alias": "Werima"
+  },
+  {
+    "code": "97.07.380",
+    "districtCode": "380",
+    "regencyCode": "97.07",
+    "provinceCode": "97",
+    "name": "Kecamatan Soloikma",
+    "alias": "Soloikma"
+  },
+  {
+    "code": "97.07.390",
+    "districtCode": "390",
+    "regencyCode": "97.07",
+    "provinceCode": "97",
+    "name": "Kecamatan Seradala",
+    "alias": "Seradala"
+  },
+  {
+    "code": "97.07.400",
+    "districtCode": "400",
+    "regencyCode": "97.07",
+    "provinceCode": "97",
+    "name": "Kecamatan Kabianggama",
+    "alias": "Kabianggama"
+  },
+  {
+    "code": "97.07.410",
+    "districtCode": "410",
+    "regencyCode": "97.07",
+    "provinceCode": "97",
+    "name": "Kecamatan Kwikma",
+    "alias": "Kwikma"
+  },
+  {
+    "code": "97.07.420",
+    "districtCode": "420",
+    "regencyCode": "97.07",
+    "provinceCode": "97",
+    "name": "Kecamatan Hilipuk",
+    "alias": "Hilipuk"
+  },
+  {
+    "code": "97.07.430",
+    "districtCode": "430",
+    "regencyCode": "97.07",
+    "provinceCode": "97",
+    "name": "Kecamatan Yahuliambut",
+    "alias": "Yahuliambut"
+  },
+  {
+    "code": "97.07.440",
+    "districtCode": "440",
+    "regencyCode": "97.07",
+    "provinceCode": "97",
+    "name": "Kecamatan Hereapini",
+    "alias": "Hereapini"
+  },
+  {
+    "code": "97.07.450",
+    "districtCode": "450",
+    "regencyCode": "97.07",
+    "provinceCode": "97",
+    "name": "Kecamatan Ubalihi",
+    "alias": "Ubalihi"
+  },
+  {
+    "code": "97.07.460",
+    "districtCode": "460",
+    "regencyCode": "97.07",
+    "provinceCode": "97",
+    "name": "Kecamatan Talambo",
+    "alias": "Talambo"
+  },
+  {
+    "code": "97.07.470",
+    "districtCode": "470",
+    "regencyCode": "97.07",
+    "provinceCode": "97",
+    "name": "Kecamatan Pronggoli",
+    "alias": "Pronggoli"
+  },
+  {
+    "code": "97.07.480",
+    "districtCode": "480",
+    "regencyCode": "97.07",
+    "provinceCode": "97",
+    "name": "Kecamatan Endomen",
+    "alias": "Endomen"
+  },
+  {
+    "code": "97.07.490",
+    "districtCode": "490",
+    "regencyCode": "97.07",
+    "provinceCode": "97",
+    "name": "Kecamatan Kona",
+    "alias": "Kona"
+  },
+  {
+    "code": "97.07.500",
+    "districtCode": "500",
+    "regencyCode": "97.07",
+    "provinceCode": "97",
+    "name": "Kecamatan Duram",
+    "alias": "Duram"
+  },
+  {
+    "code": "97.07.510",
+    "districtCode": "510",
+    "regencyCode": "97.07",
+    "provinceCode": "97",
+    "name": "Kecamatan Dirwemna",
+    "alias": "Dirwemna"
+  }
+]

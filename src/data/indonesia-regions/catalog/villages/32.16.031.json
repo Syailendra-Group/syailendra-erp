@@ -1,0 +1,44 @@
+[
+  {
+    "code": "32.16.031.001",
+    "villageCode": "001",
+    "districtCode": "32.16.031",
+    "name": "Karangindah",
+    "alias": "Karangindah"
+  },
+  {
+    "code": "32.16.031.002",
+    "villageCode": "002",
+    "districtCode": "32.16.031",
+    "name": "Karangmulya",
+    "alias": "Karangmulya"
+  },
+  {
+    "code": "32.16.031.003",
+    "villageCode": "003",
+    "districtCode": "32.16.031",
+    "name": "Bojongmangu",
+    "alias": "Bojongmangu"
+  },
+  {
+    "code": "32.16.031.004",
+    "villageCode": "004",
+    "districtCode": "32.16.031",
+    "name": "Medalkrisna",
+    "alias": "Medalkrisna"
+  },
+  {
+    "code": "32.16.031.005",
+    "villageCode": "005",
+    "districtCode": "32.16.031",
+    "name": "Sukamukti",
+    "alias": "Sukamukti"
+  },
+  {
+    "code": "32.16.031.006",
+    "villageCode": "006",
+    "districtCode": "32.16.031",
+    "name": "Sukabungah",
+    "alias": "Sukabungah"
+  }
+]

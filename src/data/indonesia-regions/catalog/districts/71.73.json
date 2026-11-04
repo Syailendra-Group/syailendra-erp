@@ -1,0 +1,42 @@
+[
+  {
+    "code": "71.73.010",
+    "districtCode": "010",
+    "regencyCode": "71.73",
+    "provinceCode": "71",
+    "name": "Kecamatan Tomohon Selatan",
+    "alias": "Tomohon Selatan"
+  },
+  {
+    "code": "71.73.020",
+    "districtCode": "020",
+    "regencyCode": "71.73",
+    "provinceCode": "71",
+    "name": "Kecamatan Tomohon Tengah",
+    "alias": "Tomohon Tengah"
+  },
+  {
+    "code": "71.73.021",
+    "districtCode": "021",
+    "regencyCode": "71.73",
+    "provinceCode": "71",
+    "name": "Kecamatan Tomohon Timur",
+    "alias": "Tomohon Timur"
+  },
+  {
+    "code": "71.73.022",
+    "districtCode": "022",
+    "regencyCode": "71.73",
+    "provinceCode": "71",
+    "name": "Kecamatan Tomohon Barat",
+    "alias": "Tomohon Barat"
+  },
+  {
+    "code": "71.73.030",
+    "districtCode": "030",
+    "regencyCode": "71.73",
+    "provinceCode": "71",
+    "name": "Kecamatan Tomohon Utara",
+    "alias": "Tomohon Utara"
+  }
+]

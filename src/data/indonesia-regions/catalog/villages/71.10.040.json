@@ -1,0 +1,58 @@
+[
+  {
+    "code": "71.10.040.001",
+    "villageCode": "001",
+    "districtCode": "71.10.040",
+    "name": "Mataindo",
+    "alias": "Mataindo"
+  },
+  {
+    "code": "71.10.040.002",
+    "villageCode": "002",
+    "districtCode": "71.10.040",
+    "name": "Torosik",
+    "alias": "Torosik"
+  },
+  {
+    "code": "71.10.040.003",
+    "villageCode": "003",
+    "districtCode": "71.10.040",
+    "name": "Adow Selatan",
+    "alias": "Adow Selatan"
+  },
+  {
+    "code": "71.10.040.004",
+    "villageCode": "004",
+    "districtCode": "71.10.040",
+    "name": "Adow",
+    "alias": "Adow"
+  },
+  {
+    "code": "71.10.040.005",
+    "villageCode": "005",
+    "districtCode": "71.10.040",
+    "name": "Tobayagan",
+    "alias": "Tobayagan"
+  },
+  {
+    "code": "71.10.040.006",
+    "villageCode": "006",
+    "districtCode": "71.10.040",
+    "name": "Deaga",
+    "alias": "Deaga"
+  },
+  {
+    "code": "71.10.040.007",
+    "villageCode": "007",
+    "districtCode": "71.10.040",
+    "name": "Tobayagan Selatan",
+    "alias": "Tobayagan Selatan"
+  },
+  {
+    "code": "71.10.040.008",
+    "villageCode": "008",
+    "districtCode": "71.10.040",
+    "name": "Mataindo Utara",
+    "alias": "Mataindo Utara"
+  }
+]

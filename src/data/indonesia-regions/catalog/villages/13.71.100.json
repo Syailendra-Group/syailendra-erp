@@ -1,0 +1,65 @@
+[
+  {
+    "code": "13.71.100.001",
+    "villageCode": "001",
+    "districtCode": "13.71.100",
+    "name": "Pisang",
+    "alias": "Pisang"
+  },
+  {
+    "code": "13.71.100.002",
+    "villageCode": "002",
+    "districtCode": "13.71.100",
+    "name": "Binuang Kampung Dalam",
+    "alias": "Binuang Kampung Dalam"
+  },
+  {
+    "code": "13.71.100.003",
+    "villageCode": "003",
+    "districtCode": "13.71.100",
+    "name": "Piai Tangah",
+    "alias": "Piai Tangah"
+  },
+  {
+    "code": "13.71.100.004",
+    "villageCode": "004",
+    "districtCode": "13.71.100",
+    "name": "Cupak Tangah",
+    "alias": "Cupak Tangah"
+  },
+  {
+    "code": "13.71.100.005",
+    "villageCode": "005",
+    "districtCode": "13.71.100",
+    "name": "Kapala Koto",
+    "alias": "Kapala Koto"
+  },
+  {
+    "code": "13.71.100.008",
+    "villageCode": "008",
+    "districtCode": "13.71.100",
+    "name": "Koto Luar",
+    "alias": "Koto Luar"
+  },
+  {
+    "code": "13.71.100.013",
+    "villageCode": "013",
+    "districtCode": "13.71.100",
+    "name": "Lambung Bukit",
+    "alias": "Lambung Bukit"
+  },
+  {
+    "code": "13.71.100.014",
+    "villageCode": "014",
+    "districtCode": "13.71.100",
+    "name": "Limau Manis Selatan",
+    "alias": "Limau Manis Selatan"
+  },
+  {
+    "code": "13.71.100.015",
+    "villageCode": "015",
+    "districtCode": "13.71.100",
+    "name": "Limau Manis",
+    "alias": "Limau Manis"
+  }
+]

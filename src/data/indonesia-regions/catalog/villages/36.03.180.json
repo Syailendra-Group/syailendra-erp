@@ -1,0 +1,58 @@
+[
+  {
+    "code": "36.03.180.001",
+    "villageCode": "001",
+    "districtCode": "36.03.180",
+    "name": "Mekar Jaya",
+    "alias": "Mekar Jaya"
+  },
+  {
+    "code": "36.03.180.002",
+    "villageCode": "002",
+    "districtCode": "36.03.180",
+    "name": "Karet",
+    "alias": "Karet"
+  },
+  {
+    "code": "36.03.180.007",
+    "villageCode": "007",
+    "districtCode": "36.03.180",
+    "name": "Pondok Jaya",
+    "alias": "Pondok Jaya"
+  },
+  {
+    "code": "36.03.180.008",
+    "villageCode": "008",
+    "districtCode": "36.03.180",
+    "name": "Sepatan",
+    "alias": "Sepatan"
+  },
+  {
+    "code": "36.03.180.009",
+    "villageCode": "009",
+    "districtCode": "36.03.180",
+    "name": "Pisangan Jaya",
+    "alias": "Pisangan Jaya"
+  },
+  {
+    "code": "36.03.180.010",
+    "villageCode": "010",
+    "districtCode": "36.03.180",
+    "name": "Sarakan",
+    "alias": "Sarakan"
+  },
+  {
+    "code": "36.03.180.011",
+    "villageCode": "011",
+    "districtCode": "36.03.180",
+    "name": "Kayu Bongkok",
+    "alias": "Kayu Bongkok"
+  },
+  {
+    "code": "36.03.180.012",
+    "villageCode": "012",
+    "districtCode": "36.03.180",
+    "name": "Kayu Agung",
+    "alias": "Kayu Agung"
+  }
+]

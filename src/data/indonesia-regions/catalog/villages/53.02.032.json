@@ -1,0 +1,58 @@
+[
+  {
+    "code": "53.02.032.001",
+    "villageCode": "001",
+    "districtCode": "53.02.032",
+    "name": "Karipi",
+    "alias": "Karipi"
+  },
+  {
+    "code": "53.02.032.002",
+    "villageCode": "002",
+    "districtCode": "53.02.032",
+    "name": "Wanggameti",
+    "alias": "Wanggameti"
+  },
+  {
+    "code": "53.02.032.003",
+    "villageCode": "003",
+    "districtCode": "53.02.032",
+    "name": "Katikuwai",
+    "alias": "Katikuwai"
+  },
+  {
+    "code": "53.02.032.004",
+    "villageCode": "004",
+    "districtCode": "53.02.032",
+    "name": "Katikutana",
+    "alias": "Katikutana"
+  },
+  {
+    "code": "53.02.032.005",
+    "villageCode": "005",
+    "districtCode": "53.02.032",
+    "name": "Prai Bokul",
+    "alias": "Prai Bokul"
+  },
+  {
+    "code": "53.02.032.006",
+    "villageCode": "006",
+    "districtCode": "53.02.032",
+    "name": "Katiku Luku",
+    "alias": "Katiku Luku"
+  },
+  {
+    "code": "53.02.032.007",
+    "villageCode": "007",
+    "districtCode": "53.02.032",
+    "name": "Desa Persiapan Hawurut",
+    "alias": "Desa Persiapan Hawurut"
+  },
+  {
+    "code": "53.02.032.008",
+    "villageCode": "008",
+    "districtCode": "53.02.032",
+    "name": "Desa Persiapan Wai Kalimbung",
+    "alias": "Desa Persiapan Wai Kalimbung"
+  }
+]

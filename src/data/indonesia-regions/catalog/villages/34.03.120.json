@@ -1,0 +1,51 @@
+[
+  {
+    "code": "34.03.120.001",
+    "villageCode": "001",
+    "districtCode": "34.03.120",
+    "name": "Ngalang",
+    "alias": "Ngalang"
+  },
+  {
+    "code": "34.03.120.002",
+    "villageCode": "002",
+    "districtCode": "34.03.120",
+    "name": "Hargomulyo",
+    "alias": "Hargomulyo"
+  },
+  {
+    "code": "34.03.120.003",
+    "villageCode": "003",
+    "districtCode": "34.03.120",
+    "name": "Mertelu",
+    "alias": "Mertelu"
+  },
+  {
+    "code": "34.03.120.004",
+    "villageCode": "004",
+    "districtCode": "34.03.120",
+    "name": "Tegalrejo",
+    "alias": "Tegalrejo"
+  },
+  {
+    "code": "34.03.120.005",
+    "villageCode": "005",
+    "districtCode": "34.03.120",
+    "name": "Watugajah",
+    "alias": "Watugajah"
+  },
+  {
+    "code": "34.03.120.006",
+    "villageCode": "006",
+    "districtCode": "34.03.120",
+    "name": "Sampang",
+    "alias": "Sampang"
+  },
+  {
+    "code": "34.03.120.007",
+    "villageCode": "007",
+    "districtCode": "34.03.120",
+    "name": "Serut",
+    "alias": "Serut"
+  }
+]

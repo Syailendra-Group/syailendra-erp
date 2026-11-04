@@ -1,0 +1,58 @@
+[
+  {
+    "code": "32.02.260.002",
+    "villageCode": "002",
+    "districtCode": "32.02.260",
+    "name": "Palasari Hilir",
+    "alias": "Palasari Hilir"
+  },
+  {
+    "code": "32.02.260.003",
+    "villageCode": "003",
+    "districtCode": "32.02.260",
+    "name": "Sundawenang",
+    "alias": "Sundawenang"
+  },
+  {
+    "code": "32.02.260.004",
+    "villageCode": "004",
+    "districtCode": "32.02.260",
+    "name": "Parungkuda",
+    "alias": "Parungkuda"
+  },
+  {
+    "code": "32.02.260.008",
+    "villageCode": "008",
+    "districtCode": "32.02.260",
+    "name": "Langensari",
+    "alias": "Langensari"
+  },
+  {
+    "code": "32.02.260.009",
+    "villageCode": "009",
+    "districtCode": "32.02.260",
+    "name": "Bojong Kokosan",
+    "alias": "Bojong Kokosan"
+  },
+  {
+    "code": "32.02.260.010",
+    "villageCode": "010",
+    "districtCode": "32.02.260",
+    "name": "Kompa",
+    "alias": "Kompa"
+  },
+  {
+    "code": "32.02.260.011",
+    "villageCode": "011",
+    "districtCode": "32.02.260",
+    "name": "Pondok Kaso Landeuh",
+    "alias": "Pondok Kaso Landeuh"
+  },
+  {
+    "code": "32.02.260.012",
+    "villageCode": "012",
+    "districtCode": "32.02.260",
+    "name": "Babakanjaya",
+    "alias": "Babakanjaya"
+  }
+]

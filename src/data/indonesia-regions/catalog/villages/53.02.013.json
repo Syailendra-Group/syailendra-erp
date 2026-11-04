@@ -1,0 +1,37 @@
+[
+  {
+    "code": "53.02.013.001",
+    "villageCode": "001",
+    "districtCode": "53.02.013",
+    "name": "Prai Bakul",
+    "alias": "Prai Bakul"
+  },
+  {
+    "code": "53.02.013.002",
+    "villageCode": "002",
+    "districtCode": "53.02.013",
+    "name": "Lai Lara",
+    "alias": "Lai Lara"
+  },
+  {
+    "code": "53.02.013.003",
+    "villageCode": "003",
+    "districtCode": "53.02.013",
+    "name": "Kombapari",
+    "alias": "Kombapari"
+  },
+  {
+    "code": "53.02.013.004",
+    "villageCode": "004",
+    "districtCode": "53.02.013",
+    "name": "Mandahu",
+    "alias": "Mandahu"
+  },
+  {
+    "code": "53.02.013.005",
+    "villageCode": "005",
+    "districtCode": "53.02.013",
+    "name": "Matawai Amahu",
+    "alias": "Matawai Amahu"
+  }
+]

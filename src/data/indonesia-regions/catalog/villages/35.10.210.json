@@ -1,0 +1,86 @@
+[
+  {
+    "code": "35.10.210.001",
+    "villageCode": "001",
+    "districtCode": "35.10.210",
+    "name": "Bangsring",
+    "alias": "Bangsring"
+  },
+  {
+    "code": "35.10.210.002",
+    "villageCode": "002",
+    "districtCode": "35.10.210",
+    "name": "Bengkak",
+    "alias": "Bengkak"
+  },
+  {
+    "code": "35.10.210.003",
+    "villageCode": "003",
+    "districtCode": "35.10.210",
+    "name": "Alasbulu",
+    "alias": "Alasbulu"
+  },
+  {
+    "code": "35.10.210.004",
+    "villageCode": "004",
+    "districtCode": "35.10.210",
+    "name": "Wongsorejo",
+    "alias": "Wongsorejo"
+  },
+  {
+    "code": "35.10.210.005",
+    "villageCode": "005",
+    "districtCode": "35.10.210",
+    "name": "Alasrejo",
+    "alias": "Alasrejo"
+  },
+  {
+    "code": "35.10.210.006",
+    "villageCode": "006",
+    "districtCode": "35.10.210",
+    "name": "Sumberkencono",
+    "alias": "Sumberkencono"
+  },
+  {
+    "code": "35.10.210.007",
+    "villageCode": "007",
+    "districtCode": "35.10.210",
+    "name": "Sidowangi",
+    "alias": "Sidowangi"
+  },
+  {
+    "code": "35.10.210.008",
+    "villageCode": "008",
+    "districtCode": "35.10.210",
+    "name": "Sidodadi",
+    "alias": "Sidodadi"
+  },
+  {
+    "code": "35.10.210.009",
+    "villageCode": "009",
+    "districtCode": "35.10.210",
+    "name": "Bajulmati",
+    "alias": "Bajulmati"
+  },
+  {
+    "code": "35.10.210.010",
+    "villageCode": "010",
+    "districtCode": "35.10.210",
+    "name": "Watukebo",
+    "alias": "Watukebo"
+  },
+  {
+    "code": "35.10.210.011",
+    "villageCode": "011",
+    "districtCode": "35.10.210",
+    "name": "Sumberanyar",
+    "alias": "Sumberanyar"
+  },
+  {
+    "code": "35.10.210.012",
+    "villageCode": "012",
+    "districtCode": "35.10.210",
+    "name": "Bimorejo",
+    "alias": "Bimorejo"
+  }
+]

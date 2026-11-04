@@ -1,0 +1,93 @@
+[
+  {
+    "code": "76.04.040.001",
+    "villageCode": "001",
+    "districtCode": "76.04.040",
+    "name": "Kalumpang",
+    "alias": "Kalumpang"
+  },
+  {
+    "code": "76.04.040.002",
+    "villageCode": "002",
+    "districtCode": "76.04.040",
+    "name": "Karataun",
+    "alias": "Karataun"
+  },
+  {
+    "code": "76.04.040.003",
+    "villageCode": "003",
+    "districtCode": "76.04.040",
+    "name": "Siraun",
+    "alias": "Siraun"
+  },
+  {
+    "code": "76.04.040.004",
+    "villageCode": "004",
+    "districtCode": "76.04.040",
+    "name": "Karama",
+    "alias": "Karama"
+  },
+  {
+    "code": "76.04.040.005",
+    "villageCode": "005",
+    "districtCode": "76.04.040",
+    "name": "Tumonga",
+    "alias": "Tumonga"
+  },
+  {
+    "code": "76.04.040.007",
+    "villageCode": "007",
+    "districtCode": "76.04.040",
+    "name": "Salumakki",
+    "alias": "Salumakki"
+  },
+  {
+    "code": "76.04.040.008",
+    "villageCode": "008",
+    "districtCode": "76.04.040",
+    "name": "Polio",
+    "alias": "Polio"
+  },
+  {
+    "code": "76.04.040.009",
+    "villageCode": "009",
+    "districtCode": "76.04.040",
+    "name": "Limbong",
+    "alias": "Limbong"
+  },
+  {
+    "code": "76.04.040.010",
+    "villageCode": "010",
+    "districtCode": "76.04.040",
+    "name": "Sandapang",
+    "alias": "Sandapang"
+  },
+  {
+    "code": "76.04.040.011",
+    "villageCode": "011",
+    "districtCode": "76.04.040",
+    "name": "Kondo Bulo",
+    "alias": "Kondo Bulo"
+  },
+  {
+    "code": "76.04.040.012",
+    "villageCode": "012",
+    "districtCode": "76.04.040",
+    "name": "Makkaliki",
+    "alias": "Makkaliki"
+  },
+  {
+    "code": "76.04.040.013",
+    "villageCode": "013",
+    "districtCode": "76.04.040",
+    "name": "Lasa",
+    "alias": "Lasa"
+  },
+  {
+    "code": "76.04.040.014",
+    "villageCode": "014",
+    "districtCode": "76.04.040",
+    "name": "Batu Makkada",
+    "alias": "Batu Makkada"
+  }
+]

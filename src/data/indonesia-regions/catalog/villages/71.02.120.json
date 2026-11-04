@@ -1,0 +1,72 @@
+[
+  {
+    "code": "71.02.120.010",
+    "villageCode": "010",
+    "districtCode": "71.02.120",
+    "name": "Sendangan Tengah",
+    "alias": "Sendangan Tengah"
+  },
+  {
+    "code": "71.02.120.012",
+    "villageCode": "012",
+    "districtCode": "71.02.120",
+    "name": "Kinali",
+    "alias": "Kinali"
+  },
+  {
+    "code": "71.02.120.013",
+    "villageCode": "013",
+    "districtCode": "71.02.120",
+    "name": "Tondegesan",
+    "alias": "Tondegesan"
+  },
+  {
+    "code": "71.02.120.015",
+    "villageCode": "015",
+    "districtCode": "71.02.120",
+    "name": "Kanonang Tiga",
+    "alias": "Kanonang Tiga"
+  },
+  {
+    "code": "71.02.120.025",
+    "villageCode": "025",
+    "districtCode": "71.02.120",
+    "name": "Sendangan Selatan",
+    "alias": "Sendangan Selatan"
+  },
+  {
+    "code": "71.02.120.026",
+    "villageCode": "026",
+    "districtCode": "71.02.120",
+    "name": "Sendangan",
+    "alias": "Sendangan"
+  },
+  {
+    "code": "71.02.120.027",
+    "villageCode": "027",
+    "districtCode": "71.02.120",
+    "name": "Uner Satu",
+    "alias": "Uner Satu"
+  },
+  {
+    "code": "71.02.120.028",
+    "villageCode": "028",
+    "districtCode": "71.02.120",
+    "name": "Kinali Satu",
+    "alias": "Kinali Satu"
+  },
+  {
+    "code": "71.02.120.029",
+    "villageCode": "029",
+    "districtCode": "71.02.120",
+    "name": "Tondegesan Satu",
+    "alias": "Tondegesan Satu"
+  },
+  {
+    "code": "71.02.120.030",
+    "villageCode": "030",
+    "districtCode": "71.02.120",
+    "name": "Tondegesan Dua",
+    "alias": "Tondegesan Dua"
+  }
+]

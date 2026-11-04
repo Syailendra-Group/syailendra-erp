@@ -1,0 +1,37 @@
+[
+  {
+    "code": "13.08.040.001",
+    "villageCode": "001",
+    "districtCode": "13.08.040",
+    "name": "Kubang",
+    "alias": "Kubang"
+  },
+  {
+    "code": "13.08.040.002",
+    "villageCode": "002",
+    "districtCode": "13.08.040",
+    "name": "Simpang Sugiran",
+    "alias": "Simpang Sugiran"
+  },
+  {
+    "code": "13.08.040.003",
+    "villageCode": "003",
+    "districtCode": "13.08.040",
+    "name": "Sungai Talang",
+    "alias": "Sungai Talang"
+  },
+  {
+    "code": "13.08.040.004",
+    "villageCode": "004",
+    "districtCode": "13.08.040",
+    "name": "Guguak Viii Koto",
+    "alias": "Guguak Viii Koto"
+  },
+  {
+    "code": "13.08.040.005",
+    "villageCode": "005",
+    "districtCode": "13.08.040",
+    "name": "Tujuah Koto Talago",
+    "alias": "Tujuah Koto Talago"
+  }
+]

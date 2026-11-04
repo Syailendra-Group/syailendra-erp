@@ -1,0 +1,79 @@
+[
+  {
+    "code": "35.04.180.001",
+    "villageCode": "001",
+    "districtCode": "35.04.180",
+    "name": "Wonorejo",
+    "alias": "Wonorejo"
+  },
+  {
+    "code": "35.04.180.002",
+    "villageCode": "002",
+    "districtCode": "35.04.180",
+    "name": "Kedungcangkring",
+    "alias": "Kedungcangkring"
+  },
+  {
+    "code": "35.04.180.003",
+    "villageCode": "003",
+    "districtCode": "35.04.180",
+    "name": "Mulyosari",
+    "alias": "Mulyosari"
+  },
+  {
+    "code": "35.04.180.004",
+    "villageCode": "004",
+    "districtCode": "35.04.180",
+    "name": "Segawe",
+    "alias": "Segawe"
+  },
+  {
+    "code": "35.04.180.005",
+    "villageCode": "005",
+    "districtCode": "35.04.180",
+    "name": "Penjor",
+    "alias": "Penjor"
+  },
+  {
+    "code": "35.04.180.006",
+    "villageCode": "006",
+    "districtCode": "35.04.180",
+    "name": "Samar",
+    "alias": "Samar"
+  },
+  {
+    "code": "35.04.180.007",
+    "villageCode": "007",
+    "districtCode": "35.04.180",
+    "name": "Sidomulyo",
+    "alias": "Sidomulyo"
+  },
+  {
+    "code": "35.04.180.008",
+    "villageCode": "008",
+    "districtCode": "35.04.180",
+    "name": "Kradinan",
+    "alias": "Kradinan"
+  },
+  {
+    "code": "35.04.180.009",
+    "villageCode": "009",
+    "districtCode": "35.04.180",
+    "name": "Pagerwojo",
+    "alias": "Pagerwojo"
+  },
+  {
+    "code": "35.04.180.010",
+    "villageCode": "010",
+    "districtCode": "35.04.180",
+    "name": "Gondanggunung",
+    "alias": "Gondanggunung"
+  },
+  {
+    "code": "35.04.180.011",
+    "villageCode": "011",
+    "districtCode": "35.04.180",
+    "name": "Gambiran",
+    "alias": "Gambiran"
+  }
+]

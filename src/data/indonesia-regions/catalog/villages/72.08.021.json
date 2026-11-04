@@ -1,0 +1,72 @@
+[
+  {
+    "code": "72.08.021.001",
+    "villageCode": "001",
+    "districtCode": "72.08.021",
+    "name": "Tindaki",
+    "alias": "Tindaki"
+  },
+  {
+    "code": "72.08.021.002",
+    "villageCode": "002",
+    "districtCode": "72.08.021",
+    "name": "Nambaru",
+    "alias": "Nambaru"
+  },
+  {
+    "code": "72.08.021.003",
+    "villageCode": "003",
+    "districtCode": "72.08.021",
+    "name": "Sumbersari",
+    "alias": "Sumbersari"
+  },
+  {
+    "code": "72.08.021.004",
+    "villageCode": "004",
+    "districtCode": "72.08.021",
+    "name": "Masari",
+    "alias": "Masari"
+  },
+  {
+    "code": "72.08.021.005",
+    "villageCode": "005",
+    "districtCode": "72.08.021",
+    "name": "Dolago",
+    "alias": "Dolago"
+  },
+  {
+    "code": "72.08.021.006",
+    "villageCode": "006",
+    "districtCode": "72.08.021",
+    "name": "Lemusa",
+    "alias": "Lemusa"
+  },
+  {
+    "code": "72.08.021.007",
+    "villageCode": "007",
+    "districtCode": "72.08.021",
+    "name": "Boyantongo",
+    "alias": "Boyantongo"
+  },
+  {
+    "code": "72.08.021.008",
+    "villageCode": "008",
+    "districtCode": "72.08.021",
+    "name": "Olobaru",
+    "alias": "Olobaru"
+  },
+  {
+    "code": "72.08.021.009",
+    "villageCode": "009",
+    "districtCode": "72.08.021",
+    "name": "Gangga",
+    "alias": "Gangga"
+  },
+  {
+    "code": "72.08.021.010",
+    "villageCode": "010",
+    "districtCode": "72.08.021",
+    "name": "Dolago Padang",
+    "alias": "Dolago Padang"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "code": "62.03.080.001",
+    "villageCode": "001",
+    "districtCode": "62.03.080",
+    "name": "Mambulau",
+    "alias": "Mambulau"
+  },
+  {
+    "code": "62.03.080.002",
+    "villageCode": "002",
+    "districtCode": "62.03.080",
+    "name": "Hampatung",
+    "alias": "Hampatung"
+  },
+  {
+    "code": "62.03.080.003",
+    "villageCode": "003",
+    "districtCode": "62.03.080",
+    "name": "Dahirang",
+    "alias": "Dahirang"
+  },
+  {
+    "code": "62.03.080.004",
+    "villageCode": "004",
+    "districtCode": "62.03.080",
+    "name": "Barimba",
+    "alias": "Barimba"
+  },
+  {
+    "code": "62.03.080.005",
+    "villageCode": "005",
+    "districtCode": "62.03.080",
+    "name": "Sei Pasah",
+    "alias": "Sei Pasah"
+  },
+  {
+    "code": "62.03.080.006",
+    "villageCode": "006",
+    "districtCode": "62.03.080",
+    "name": "Bakungin",
+    "alias": "Bakungin"
+  },
+  {
+    "code": "62.03.080.007",
+    "villageCode": "007",
+    "districtCode": "62.03.080",
+    "name": "Sei Asam",
+    "alias": "Sei Asam"
+  },
+  {
+    "code": "62.03.080.008",
+    "villageCode": "008",
+    "districtCode": "62.03.080",
+    "name": "Saka Batur",
+    "alias": "Saka Batur"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "code": "74.08.060.001",
+    "villageCode": "001",
+    "districtCode": "74.08.060",
+    "name": "Latowu",
+    "alias": "Latowu"
+  },
+  {
+    "code": "74.08.060.002",
+    "villageCode": "002",
+    "districtCode": "74.08.060",
+    "name": "Batu Api",
+    "alias": "Batu Api"
+  },
+  {
+    "code": "74.08.060.003",
+    "villageCode": "003",
+    "districtCode": "74.08.060",
+    "name": "Bukit Tinggi",
+    "alias": "Bukit Tinggi"
+  },
+  {
+    "code": "74.08.060.004",
+    "villageCode": "004",
+    "districtCode": "74.08.060",
+    "name": "Batu Putih",
+    "alias": "Batu Putih"
+  },
+  {
+    "code": "74.08.060.006",
+    "villageCode": "006",
+    "districtCode": "74.08.060",
+    "name": "Mosiku",
+    "alias": "Mosiku"
+  },
+  {
+    "code": "74.08.060.007",
+    "villageCode": "007",
+    "districtCode": "74.08.060",
+    "name": "Lelewawo",
+    "alias": "Lelewawo"
+  },
+  {
+    "code": "74.08.060.015",
+    "villageCode": "015",
+    "districtCode": "74.08.060",
+    "name": "Parung Lampe",
+    "alias": "Parung Lampe"
+  },
+  {
+    "code": "74.08.060.016",
+    "villageCode": "016",
+    "districtCode": "74.08.060",
+    "name": "Bukit Baru",
+    "alias": "Bukit Baru"
+  },
+  {
+    "code": "74.08.060.017",
+    "villageCode": "017",
+    "districtCode": "74.08.060",
+    "name": "Puncak Harapan",
+    "alias": "Puncak Harapan"
+  },
+  {
+    "code": "74.08.060.018",
+    "villageCode": "018",
+    "districtCode": "74.08.060",
+    "name": "Makkuaseng",
+    "alias": "Makkuaseng"
+  },
+  {
+    "code": "74.08.060.019",
+    "villageCode": "019",
+    "districtCode": "74.08.060",
+    "name": "Tetebawo",
+    "alias": "Tetebawo"
+  }
+]

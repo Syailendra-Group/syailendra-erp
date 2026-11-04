@@ -1,0 +1,65 @@
+[
+  {
+    "code": "13.06.040.001",
+    "villageCode": "001",
+    "districtCode": "13.06.040",
+    "name": "Sunua",
+    "alias": "Sunua"
+  },
+  {
+    "code": "13.06.040.002",
+    "villageCode": "002",
+    "districtCode": "13.06.040",
+    "name": "Padang Bintungan",
+    "alias": "Padang Bintungan"
+  },
+  {
+    "code": "13.06.040.003",
+    "villageCode": "003",
+    "districtCode": "13.06.040",
+    "name": "Pauah Kamba",
+    "alias": "Pauah Kamba"
+  },
+  {
+    "code": "13.06.040.004",
+    "villageCode": "004",
+    "districtCode": "13.06.040",
+    "name": "Kapalo Koto",
+    "alias": "Kapalo Koto"
+  },
+  {
+    "code": "13.06.040.005",
+    "villageCode": "005",
+    "districtCode": "13.06.040",
+    "name": "Kurai Taji",
+    "alias": "Kurai Taji"
+  },
+  {
+    "code": "13.06.040.006",
+    "villageCode": "006",
+    "districtCode": "13.06.040",
+    "name": "Sunua Barat",
+    "alias": "Sunua Barat"
+  },
+  {
+    "code": "13.06.040.007",
+    "villageCode": "007",
+    "districtCode": "13.06.040",
+    "name": "Sunua Tengah",
+    "alias": "Sunua Tengah"
+  },
+  {
+    "code": "13.06.040.008",
+    "villageCode": "008",
+    "districtCode": "13.06.040",
+    "name": "Padang Kandang Pulau Aie Padang Bintungan",
+    "alias": "Padang Kandang Pulau Aie Padang Bintungan"
+  },
+  {
+    "code": "13.06.040.009",
+    "villageCode": "009",
+    "districtCode": "13.06.040",
+    "name": "Kurai Taji Timur",
+    "alias": "Kurai Taji Timur"
+  }
+]

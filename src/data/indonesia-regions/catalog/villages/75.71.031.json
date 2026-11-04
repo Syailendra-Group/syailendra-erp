@@ -1,0 +1,44 @@
+[
+  {
+    "code": "75.71.031.001",
+    "villageCode": "001",
+    "districtCode": "75.71.031",
+    "name": "Wumialo",
+    "alias": "Wumialo"
+  },
+  {
+    "code": "75.71.031.002",
+    "villageCode": "002",
+    "districtCode": "75.71.031",
+    "name": "Dulalowo",
+    "alias": "Dulalowo"
+  },
+  {
+    "code": "75.71.031.003",
+    "villageCode": "003",
+    "districtCode": "75.71.031",
+    "name": "Liluwo",
+    "alias": "Liluwo"
+  },
+  {
+    "code": "75.71.031.004",
+    "villageCode": "004",
+    "districtCode": "75.71.031",
+    "name": "Pulubala",
+    "alias": "Pulubala"
+  },
+  {
+    "code": "75.71.031.005",
+    "villageCode": "005",
+    "districtCode": "75.71.031",
+    "name": "Paguyaman",
+    "alias": "Paguyaman"
+  },
+  {
+    "code": "75.71.031.006",
+    "villageCode": "006",
+    "districtCode": "75.71.031",
+    "name": "Dulalowo Timur",
+    "alias": "Dulalowo Timur"
+  }
+]

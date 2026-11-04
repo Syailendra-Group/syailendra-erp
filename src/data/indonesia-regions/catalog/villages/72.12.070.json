@@ -1,0 +1,58 @@
+[
+  {
+    "code": "72.12.070.001",
+    "villageCode": "001",
+    "districtCode": "72.12.070",
+    "name": "Tiwaa",
+    "alias": "Tiwaa"
+  },
+  {
+    "code": "72.12.070.002",
+    "villageCode": "002",
+    "districtCode": "72.12.070",
+    "name": "Tabarano",
+    "alias": "Tabarano"
+  },
+  {
+    "code": "72.12.070.003",
+    "villageCode": "003",
+    "districtCode": "72.12.070",
+    "name": "Wawondula",
+    "alias": "Wawondula"
+  },
+  {
+    "code": "72.12.070.004",
+    "villageCode": "004",
+    "districtCode": "72.12.070",
+    "name": "Lembontonara",
+    "alias": "Lembontonara"
+  },
+  {
+    "code": "72.12.070.005",
+    "villageCode": "005",
+    "districtCode": "72.12.070",
+    "name": "Tamonjengi",
+    "alias": "Tamonjengi"
+  },
+  {
+    "code": "72.12.070.006",
+    "villageCode": "006",
+    "districtCode": "72.12.070",
+    "name": "Mayumba",
+    "alias": "Mayumba"
+  },
+  {
+    "code": "72.12.070.007",
+    "villageCode": "007",
+    "districtCode": "72.12.070",
+    "name": "Peleru",
+    "alias": "Peleru"
+  },
+  {
+    "code": "72.12.070.008",
+    "villageCode": "008",
+    "districtCode": "72.12.070",
+    "name": "Era",
+    "alias": "Era"
+  }
+]

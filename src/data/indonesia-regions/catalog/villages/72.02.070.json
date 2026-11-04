@@ -1,0 +1,86 @@
+[
+  {
+    "code": "72.02.070.009",
+    "villageCode": "009",
+    "districtCode": "72.02.070",
+    "name": "Nipa",
+    "alias": "Nipa"
+  },
+  {
+    "code": "72.02.070.010",
+    "villageCode": "010",
+    "districtCode": "72.02.070",
+    "name": "Kagitakan",
+    "alias": "Kagitakan"
+  },
+  {
+    "code": "72.02.070.011",
+    "villageCode": "011",
+    "districtCode": "72.02.070",
+    "name": "Sirom",
+    "alias": "Sirom"
+  },
+  {
+    "code": "72.02.070.012",
+    "villageCode": "012",
+    "districtCode": "72.02.070",
+    "name": "Poroan",
+    "alias": "Poroan"
+  },
+  {
+    "code": "72.02.070.013",
+    "villageCode": "013",
+    "districtCode": "72.02.070",
+    "name": "Bonebobakal",
+    "alias": "Bonebobakal"
+  },
+  {
+    "code": "72.02.070.014",
+    "villageCode": "014",
+    "districtCode": "72.02.070",
+    "name": "Lomba",
+    "alias": "Lomba"
+  },
+  {
+    "code": "72.02.070.016",
+    "villageCode": "016",
+    "districtCode": "72.02.070",
+    "name": "Baruga",
+    "alias": "Baruga"
+  },
+  {
+    "code": "72.02.070.017",
+    "villageCode": "017",
+    "districtCode": "72.02.070",
+    "name": "Kota Baru",
+    "alias": "Kota Baru"
+  },
+  {
+    "code": "72.02.070.020",
+    "villageCode": "020",
+    "districtCode": "72.02.070",
+    "name": "Tinonda",
+    "alias": "Tinonda"
+  },
+  {
+    "code": "72.02.070.021",
+    "villageCode": "021",
+    "districtCode": "72.02.070",
+    "name": "Labotan",
+    "alias": "Labotan"
+  },
+  {
+    "code": "72.02.070.023",
+    "villageCode": "023",
+    "districtCode": "72.02.070",
+    "name": "Bahari Makmur",
+    "alias": "Bahari Makmur"
+  },
+  {
+    "code": "72.02.070.024",
+    "villageCode": "024",
+    "districtCode": "72.02.070",
+    "name": "Kota Raya",
+    "alias": "Kota Raya"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "code": "32.73.142.001",
+    "villageCode": "001",
+    "districtCode": "32.73.142",
+    "name": "Jatihandap",
+    "alias": "Jatihandap"
+  },
+  {
+    "code": "32.73.142.002",
+    "villageCode": "002",
+    "districtCode": "32.73.142",
+    "name": "Karang Pamulang",
+    "alias": "Karang Pamulang"
+  },
+  {
+    "code": "32.73.142.003",
+    "villageCode": "003",
+    "districtCode": "32.73.142",
+    "name": "Sindang Jaya",
+    "alias": "Sindang Jaya"
+  },
+  {
+    "code": "32.73.142.004",
+    "villageCode": "004",
+    "districtCode": "32.73.142",
+    "name": "Pasir Impun",
+    "alias": "Pasir Impun"
+  }
+]

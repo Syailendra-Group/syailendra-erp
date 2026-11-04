@@ -1,0 +1,65 @@
+[
+  {
+    "code": "74.10.040.001",
+    "villageCode": "001",
+    "districtCode": "74.10.040",
+    "name": "Mataiwoi",
+    "alias": "Mataiwoi"
+  },
+  {
+    "code": "74.10.040.002",
+    "villageCode": "002",
+    "districtCode": "74.10.040",
+    "name": "Bandaeha",
+    "alias": "Bandaeha"
+  },
+  {
+    "code": "74.10.040.003",
+    "villageCode": "003",
+    "districtCode": "74.10.040",
+    "name": "Molawe",
+    "alias": "Molawe"
+  },
+  {
+    "code": "74.10.040.004",
+    "villageCode": "004",
+    "districtCode": "74.10.040",
+    "name": "Awila",
+    "alias": "Awila"
+  },
+  {
+    "code": "74.10.040.005",
+    "villageCode": "005",
+    "districtCode": "74.10.040",
+    "name": "Mowundo",
+    "alias": "Mowundo"
+  },
+  {
+    "code": "74.10.040.006",
+    "villageCode": "006",
+    "districtCode": "74.10.040",
+    "name": "Mandiodo",
+    "alias": "Mandiodo"
+  },
+  {
+    "code": "74.10.040.007",
+    "villageCode": "007",
+    "districtCode": "74.10.040",
+    "name": "Tapunggaya",
+    "alias": "Tapunggaya"
+  },
+  {
+    "code": "74.10.040.008",
+    "villageCode": "008",
+    "districtCode": "74.10.040",
+    "name": "Awila Puncak",
+    "alias": "Awila Puncak"
+  },
+  {
+    "code": "74.10.040.009",
+    "villageCode": "009",
+    "districtCode": "74.10.040",
+    "name": "Tapuemea",
+    "alias": "Tapuemea"
+  }
+]

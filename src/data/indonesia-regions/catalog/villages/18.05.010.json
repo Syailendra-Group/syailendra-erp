@@ -1,0 +1,107 @@
+[
+  {
+    "code": "18.05.010.006",
+    "villageCode": "006",
+    "districtCode": "18.05.010",
+    "name": "Purwosari",
+    "alias": "Purwosari"
+  },
+  {
+    "code": "18.05.010.008",
+    "villageCode": "008",
+    "districtCode": "18.05.010",
+    "name": "Mojokerto",
+    "alias": "Mojokerto"
+  },
+  {
+    "code": "18.05.010.009",
+    "villageCode": "009",
+    "districtCode": "18.05.010",
+    "name": "Sendang Ayu",
+    "alias": "Sendang Ayu"
+  },
+  {
+    "code": "18.05.010.010",
+    "villageCode": "010",
+    "districtCode": "18.05.010",
+    "name": "Surabaya",
+    "alias": "Surabaya"
+  },
+  {
+    "code": "18.05.010.011",
+    "villageCode": "011",
+    "districtCode": "18.05.010",
+    "name": "Bandarsari",
+    "alias": "Bandarsari"
+  },
+  {
+    "code": "18.05.010.012",
+    "villageCode": "012",
+    "districtCode": "18.05.010",
+    "name": "Sri Agung",
+    "alias": "Sri Agung"
+  },
+  {
+    "code": "18.05.010.013",
+    "villageCode": "013",
+    "districtCode": "18.05.010",
+    "name": "Kota Baru",
+    "alias": "Kota Baru"
+  },
+  {
+    "code": "18.05.010.014",
+    "villageCode": "014",
+    "districtCode": "18.05.010",
+    "name": "Margorejo",
+    "alias": "Margorejo"
+  },
+  {
+    "code": "18.05.010.015",
+    "villageCode": "015",
+    "districtCode": "18.05.010",
+    "name": "Karang Tanjung",
+    "alias": "Karang Tanjung"
+  },
+  {
+    "code": "18.05.010.028",
+    "villageCode": "028",
+    "districtCode": "18.05.010",
+    "name": "Kuripan",
+    "alias": "Kuripan"
+  },
+  {
+    "code": "18.05.010.029",
+    "villageCode": "029",
+    "districtCode": "18.05.010",
+    "name": "Haduyang Ratu",
+    "alias": "Haduyang Ratu"
+  },
+  {
+    "code": "18.05.010.030",
+    "villageCode": "030",
+    "districtCode": "18.05.010",
+    "name": "Padang Ratu",
+    "alias": "Padang Ratu"
+  },
+  {
+    "code": "18.05.010.051",
+    "villageCode": "051",
+    "districtCode": "18.05.010",
+    "name": "Karang Sari",
+    "alias": "Karang Sari"
+  },
+  {
+    "code": "18.05.010.061",
+    "villageCode": "061",
+    "districtCode": "18.05.010",
+    "name": "Sumbersari",
+    "alias": "Sumbersari"
+  },
+  {
+    "code": "18.05.010.062",
+    "villageCode": "062",
+    "districtCode": "18.05.010",
+    "name": "Purworejo",
+    "alias": "Purworejo"
+  }
+]

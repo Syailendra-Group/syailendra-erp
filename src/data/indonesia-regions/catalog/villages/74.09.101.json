@@ -1,0 +1,79 @@
+[
+  {
+    "code": "74.09.101.001",
+    "villageCode": "001",
+    "districtCode": "74.09.101",
+    "name": "M A T A",
+    "alias": "M A T A"
+  },
+  {
+    "code": "74.09.101.002",
+    "villageCode": "002",
+    "districtCode": "74.09.101",
+    "name": "Konde",
+    "alias": "Konde"
+  },
+  {
+    "code": "74.09.101.003",
+    "villageCode": "003",
+    "districtCode": "74.09.101",
+    "name": "Lagundi",
+    "alias": "Lagundi"
+  },
+  {
+    "code": "74.09.101.004",
+    "villageCode": "004",
+    "districtCode": "74.09.101",
+    "name": "Pongkowulu",
+    "alias": "Pongkowulu"
+  },
+  {
+    "code": "74.09.101.005",
+    "villageCode": "005",
+    "districtCode": "74.09.101",
+    "name": "Kambowa",
+    "alias": "Kambowa"
+  },
+  {
+    "code": "74.09.101.006",
+    "villageCode": "006",
+    "districtCode": "74.09.101",
+    "name": "Morindino",
+    "alias": "Morindino"
+  },
+  {
+    "code": "74.09.101.007",
+    "villageCode": "007",
+    "districtCode": "74.09.101",
+    "name": "Lahumoko(Tri Mulya)",
+    "alias": "Lahumoko(Tri Mulya)"
+  },
+  {
+    "code": "74.09.101.008",
+    "villageCode": "008",
+    "districtCode": "74.09.101",
+    "name": "Bubu",
+    "alias": "Bubu"
+  },
+  {
+    "code": "74.09.101.009",
+    "villageCode": "009",
+    "districtCode": "74.09.101",
+    "name": "Bente",
+    "alias": "Bente"
+  },
+  {
+    "code": "74.09.101.010",
+    "villageCode": "010",
+    "districtCode": "74.09.101",
+    "name": "Baluara",
+    "alias": "Baluara"
+  },
+  {
+    "code": "74.09.101.011",
+    "villageCode": "011",
+    "districtCode": "74.09.101",
+    "name": "Bubu Barat",
+    "alias": "Bubu Barat"
+  }
+]

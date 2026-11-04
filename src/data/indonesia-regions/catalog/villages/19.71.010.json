@@ -1,0 +1,58 @@
+[
+  {
+    "code": "19.71.010.001",
+    "villageCode": "001",
+    "districtCode": "19.71.010",
+    "name": "Asam",
+    "alias": "Asam"
+  },
+  {
+    "code": "19.71.010.002",
+    "villageCode": "002",
+    "districtCode": "19.71.010",
+    "name": "Parit Lalang",
+    "alias": "Parit Lalang"
+  },
+  {
+    "code": "19.71.010.004",
+    "villageCode": "004",
+    "districtCode": "19.71.010",
+    "name": "Bintang",
+    "alias": "Bintang"
+  },
+  {
+    "code": "19.71.010.009",
+    "villageCode": "009",
+    "districtCode": "19.71.010",
+    "name": "Melintang",
+    "alias": "Melintang"
+  },
+  {
+    "code": "19.71.010.010",
+    "villageCode": "010",
+    "districtCode": "19.71.010",
+    "name": "Keramat",
+    "alias": "Keramat"
+  },
+  {
+    "code": "19.71.010.013",
+    "villageCode": "013",
+    "districtCode": "19.71.010",
+    "name": "Masjid Jamik",
+    "alias": "Masjid Jamik"
+  },
+  {
+    "code": "19.71.010.015",
+    "villageCode": "015",
+    "districtCode": "19.71.010",
+    "name": "Pintu Air",
+    "alias": "Pintu Air"
+  },
+  {
+    "code": "19.71.010.016",
+    "villageCode": "016",
+    "districtCode": "19.71.010",
+    "name": "Gajah Mada",
+    "alias": "Gajah Mada"
+  }
+]

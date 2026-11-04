@@ -1,0 +1,51 @@
+[
+  {
+    "code": "21.71.060.002",
+    "villageCode": "002",
+    "districtCode": "21.71.060",
+    "name": "Tanjung Riau",
+    "alias": "Tanjung Riau"
+  },
+  {
+    "code": "21.71.060.003",
+    "villageCode": "003",
+    "districtCode": "21.71.060",
+    "name": "Tiban Baru",
+    "alias": "Tiban Baru"
+  },
+  {
+    "code": "21.71.060.004",
+    "villageCode": "004",
+    "districtCode": "21.71.060",
+    "name": "Tiban Lama",
+    "alias": "Tiban Lama"
+  },
+  {
+    "code": "21.71.060.005",
+    "villageCode": "005",
+    "districtCode": "21.71.060",
+    "name": "Tiban Indah",
+    "alias": "Tiban Indah"
+  },
+  {
+    "code": "21.71.060.006",
+    "villageCode": "006",
+    "districtCode": "21.71.060",
+    "name": "Patam Lestari",
+    "alias": "Patam Lestari"
+  },
+  {
+    "code": "21.71.060.007",
+    "villageCode": "007",
+    "districtCode": "21.71.060",
+    "name": "Sungai Harapan",
+    "alias": "Sungai Harapan"
+  },
+  {
+    "code": "21.71.060.008",
+    "villageCode": "008",
+    "districtCode": "21.71.060",
+    "name": "Tanjung Pinggir",
+    "alias": "Tanjung Pinggir"
+  }
+]

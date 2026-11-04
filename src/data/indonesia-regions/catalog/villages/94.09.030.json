@@ -1,0 +1,79 @@
+[
+  {
+    "code": "94.09.030.001",
+    "villageCode": "001",
+    "districtCode": "94.09.030",
+    "name": "Auki",
+    "alias": "Auki"
+  },
+  {
+    "code": "94.09.030.002",
+    "villageCode": "002",
+    "districtCode": "94.09.030",
+    "name": "Wundi",
+    "alias": "Wundi"
+  },
+  {
+    "code": "94.09.030.003",
+    "villageCode": "003",
+    "districtCode": "94.09.030",
+    "name": "Nusi Babaruk",
+    "alias": "Nusi Babaruk"
+  },
+  {
+    "code": "94.09.030.004",
+    "villageCode": "004",
+    "districtCode": "94.09.030",
+    "name": "Nusi",
+    "alias": "Nusi"
+  },
+  {
+    "code": "94.09.030.005",
+    "villageCode": "005",
+    "districtCode": "94.09.030",
+    "name": "Pai",
+    "alias": "Pai"
+  },
+  {
+    "code": "94.09.030.014",
+    "villageCode": "014",
+    "districtCode": "94.09.030",
+    "name": "Sandidori",
+    "alias": "Sandidori"
+  },
+  {
+    "code": "94.09.030.015",
+    "villageCode": "015",
+    "districtCode": "94.09.030",
+    "name": "Sorina",
+    "alias": "Sorina"
+  },
+  {
+    "code": "94.09.030.016",
+    "villageCode": "016",
+    "districtCode": "94.09.030",
+    "name": "Inbeyomi",
+    "alias": "Inbeyomi"
+  },
+  {
+    "code": "94.09.030.017",
+    "villageCode": "017",
+    "districtCode": "94.09.030",
+    "name": "Kanai",
+    "alias": "Kanai"
+  },
+  {
+    "code": "94.09.030.018",
+    "villageCode": "018",
+    "districtCode": "94.09.030",
+    "name": "Sokani",
+    "alias": "Sokani"
+  },
+  {
+    "code": "94.09.030.019",
+    "villageCode": "019",
+    "districtCode": "94.09.030",
+    "name": "Paidori",
+    "alias": "Paidori"
+  }
+]

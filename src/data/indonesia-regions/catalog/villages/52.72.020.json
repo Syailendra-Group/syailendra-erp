@@ -1,0 +1,58 @@
+[
+  {
+    "code": "52.72.020.001",
+    "villageCode": "001",
+    "districtCode": "52.72.020",
+    "name": "Lampe",
+    "alias": "Lampe"
+  },
+  {
+    "code": "52.72.020.002",
+    "villageCode": "002",
+    "districtCode": "52.72.020",
+    "name": "Dodu",
+    "alias": "Dodu"
+  },
+  {
+    "code": "52.72.020.003",
+    "villageCode": "003",
+    "districtCode": "52.72.020",
+    "name": "Nungga",
+    "alias": "Nungga"
+  },
+  {
+    "code": "52.72.020.004",
+    "villageCode": "004",
+    "districtCode": "52.72.020",
+    "name": "Kumbe",
+    "alias": "Kumbe"
+  },
+  {
+    "code": "52.72.020.014",
+    "villageCode": "014",
+    "districtCode": "52.72.020",
+    "name": "Oi Fo O",
+    "alias": "Oi Fo O"
+  },
+  {
+    "code": "52.72.020.015",
+    "villageCode": "015",
+    "districtCode": "52.72.020",
+    "name": "Kodo",
+    "alias": "Kodo"
+  },
+  {
+    "code": "52.72.020.016",
+    "villageCode": "016",
+    "districtCode": "52.72.020",
+    "name": "Lelamase",
+    "alias": "Lelamase"
+  },
+  {
+    "code": "52.72.020.017",
+    "villageCode": "017",
+    "districtCode": "52.72.020",
+    "name": "Oimbo",
+    "alias": "Oimbo"
+  }
+]

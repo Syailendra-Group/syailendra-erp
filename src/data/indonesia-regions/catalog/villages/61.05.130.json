@@ -1,0 +1,72 @@
+[
+  {
+    "code": "61.05.130.001",
+    "villageCode": "001",
+    "districtCode": "61.05.130",
+    "name": "Upe",
+    "alias": "Upe"
+  },
+  {
+    "code": "61.05.130.002",
+    "villageCode": "002",
+    "districtCode": "61.05.130",
+    "name": "Bahta",
+    "alias": "Bahta"
+  },
+  {
+    "code": "61.05.130.003",
+    "villageCode": "003",
+    "districtCode": "61.05.130",
+    "name": "Tunggul Boyok",
+    "alias": "Tunggul Boyok"
+  },
+  {
+    "code": "61.05.130.004",
+    "villageCode": "004",
+    "districtCode": "61.05.130",
+    "name": "Sami",
+    "alias": "Sami"
+  },
+  {
+    "code": "61.05.130.005",
+    "villageCode": "005",
+    "districtCode": "61.05.130",
+    "name": "Empodis",
+    "alias": "Empodis"
+  },
+  {
+    "code": "61.05.130.006",
+    "villageCode": "006",
+    "districtCode": "61.05.130",
+    "name": "Bonti",
+    "alias": "Bonti"
+  },
+  {
+    "code": "61.05.130.007",
+    "villageCode": "007",
+    "districtCode": "61.05.130",
+    "name": "Kampuh",
+    "alias": "Kampuh"
+  },
+  {
+    "code": "61.05.130.008",
+    "villageCode": "008",
+    "districtCode": "61.05.130",
+    "name": "Bantai",
+    "alias": "Bantai"
+  },
+  {
+    "code": "61.05.130.009",
+    "villageCode": "009",
+    "districtCode": "61.05.130",
+    "name": "Majel",
+    "alias": "Majel"
+  },
+  {
+    "code": "61.05.130.010",
+    "villageCode": "010",
+    "districtCode": "61.05.130",
+    "name": "Desa Persiapan Darok",
+    "alias": "Desa Persiapan Darok"
+  }
+]

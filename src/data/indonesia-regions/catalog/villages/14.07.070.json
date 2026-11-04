@@ -1,0 +1,72 @@
+[
+  {
+    "code": "14.07.070.002",
+    "villageCode": "002",
+    "districtCode": "14.07.070",
+    "name": "Kota Intan",
+    "alias": "Kota Intan"
+  },
+  {
+    "code": "14.07.070.003",
+    "villageCode": "003",
+    "districtCode": "14.07.070",
+    "name": "Kota Lama",
+    "alias": "Kota Lama"
+  },
+  {
+    "code": "14.07.070.006",
+    "villageCode": "006",
+    "districtCode": "14.07.070",
+    "name": "Bukit Intan Makmur",
+    "alias": "Bukit Intan Makmur"
+  },
+  {
+    "code": "14.07.070.008",
+    "villageCode": "008",
+    "districtCode": "14.07.070",
+    "name": "Bagan Tujuh",
+    "alias": "Bagan Tujuh"
+  },
+  {
+    "code": "14.07.070.011",
+    "villageCode": "011",
+    "districtCode": "14.07.070",
+    "name": "Kota Raya",
+    "alias": "Kota Raya"
+  },
+  {
+    "code": "14.07.070.012",
+    "villageCode": "012",
+    "districtCode": "14.07.070",
+    "name": "Kota Baru",
+    "alias": "Kota Baru"
+  },
+  {
+    "code": "14.07.070.013",
+    "villageCode": "013",
+    "districtCode": "14.07.070",
+    "name": "Sungai Kuti",
+    "alias": "Sungai Kuti"
+  },
+  {
+    "code": "14.07.070.014",
+    "villageCode": "014",
+    "districtCode": "14.07.070",
+    "name": "Pasir Indah",
+    "alias": "Pasir Indah"
+  },
+  {
+    "code": "14.07.070.015",
+    "villageCode": "015",
+    "districtCode": "14.07.070",
+    "name": "Muara Dilam",
+    "alias": "Muara Dilam"
+  },
+  {
+    "code": "14.07.070.016",
+    "villageCode": "016",
+    "districtCode": "14.07.070",
+    "name": "Pasir Luhur",
+    "alias": "Pasir Luhur"
+  }
+]

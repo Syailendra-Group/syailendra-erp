@@ -1,0 +1,42 @@
+[
+  {
+    "code": "12.74.010",
+    "districtCode": "010",
+    "regencyCode": "12.74",
+    "provinceCode": "12",
+    "name": "Kecamatan Padang Hulu",
+    "alias": "Padang Hulu"
+  },
+  {
+    "code": "12.74.011",
+    "districtCode": "011",
+    "regencyCode": "12.74",
+    "provinceCode": "12",
+    "name": "Kecamatan Tebing Tinggi Kota",
+    "alias": "Tebing Tinggi Kota"
+  },
+  {
+    "code": "12.74.020",
+    "districtCode": "020",
+    "regencyCode": "12.74",
+    "provinceCode": "12",
+    "name": "Kecamatan Rambutan",
+    "alias": "Rambutan"
+  },
+  {
+    "code": "12.74.021",
+    "districtCode": "021",
+    "regencyCode": "12.74",
+    "provinceCode": "12",
+    "name": "Kecamatan Bajenis",
+    "alias": "Bajenis"
+  },
+  {
+    "code": "12.74.030",
+    "districtCode": "030",
+    "regencyCode": "12.74",
+    "provinceCode": "12",
+    "name": "Kecamatan Padang Hilir",
+    "alias": "Padang Hilir"
+  }
+]

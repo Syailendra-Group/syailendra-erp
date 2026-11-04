@@ -1,0 +1,107 @@
+[
+  {
+    "code": "81.05.010.006",
+    "villageCode": "006",
+    "districtCode": "81.05.010",
+    "name": "Popjetur",
+    "alias": "Popjetur"
+  },
+  {
+    "code": "81.05.010.008",
+    "villageCode": "008",
+    "districtCode": "81.05.010",
+    "name": "Ngaibor",
+    "alias": "Ngaibor"
+  },
+  {
+    "code": "81.05.010.009",
+    "villageCode": "009",
+    "districtCode": "81.05.010",
+    "name": "Fatural",
+    "alias": "Fatural"
+  },
+  {
+    "code": "81.05.010.010",
+    "villageCode": "010",
+    "districtCode": "81.05.010",
+    "name": "Gaimar",
+    "alias": "Gaimar"
+  },
+  {
+    "code": "81.05.010.011",
+    "villageCode": "011",
+    "districtCode": "81.05.010",
+    "name": "Jelia",
+    "alias": "Jelia"
+  },
+  {
+    "code": "81.05.010.015",
+    "villageCode": "015",
+    "districtCode": "81.05.010",
+    "name": "Doka Barat",
+    "alias": "Doka Barat"
+  },
+  {
+    "code": "81.05.010.016",
+    "villageCode": "016",
+    "districtCode": "81.05.010",
+    "name": "Doka Timur",
+    "alias": "Doka Timur"
+  },
+  {
+    "code": "81.05.010.017",
+    "villageCode": "017",
+    "districtCode": "81.05.010",
+    "name": "Laininir",
+    "alias": "Laininir"
+  },
+  {
+    "code": "81.05.010.018",
+    "villageCode": "018",
+    "districtCode": "81.05.010",
+    "name": "Marafenfen",
+    "alias": "Marafenfen"
+  },
+  {
+    "code": "81.05.010.019",
+    "villageCode": "019",
+    "districtCode": "81.05.010",
+    "name": "Ngaiguli",
+    "alias": "Ngaiguli"
+  },
+  {
+    "code": "81.05.010.020",
+    "villageCode": "020",
+    "districtCode": "81.05.010",
+    "name": "Feruni",
+    "alias": "Feruni"
+  },
+  {
+    "code": "81.05.010.021",
+    "villageCode": "021",
+    "districtCode": "81.05.010",
+    "name": "Kalar Kalar",
+    "alias": "Kalar Kalar"
+  },
+  {
+    "code": "81.05.010.022",
+    "villageCode": "022",
+    "districtCode": "81.05.010",
+    "name": "Kabalukin",
+    "alias": "Kabalukin"
+  },
+  {
+    "code": "81.05.010.023",
+    "villageCode": "023",
+    "districtCode": "81.05.010",
+    "name": "Jerol",
+    "alias": "Jerol"
+  },
+  {
+    "code": "81.05.010.024",
+    "villageCode": "024",
+    "districtCode": "81.05.010",
+    "name": "Lor Lor",
+    "alias": "Lor Lor"
+  }
+]

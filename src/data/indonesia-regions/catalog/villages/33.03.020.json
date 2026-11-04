@@ -1,0 +1,100 @@
+[
+  {
+    "code": "33.03.020.001",
+    "villageCode": "001",
+    "districtCode": "33.03.020",
+    "name": "Tidu",
+    "alias": "Tidu"
+  },
+  {
+    "code": "33.03.020.002",
+    "villageCode": "002",
+    "districtCode": "33.03.020",
+    "name": "Wirasaba",
+    "alias": "Wirasaba"
+  },
+  {
+    "code": "33.03.020.003",
+    "villageCode": "003",
+    "districtCode": "33.03.020",
+    "name": "Kembangan",
+    "alias": "Kembangan"
+  },
+  {
+    "code": "33.03.020.004",
+    "villageCode": "004",
+    "districtCode": "33.03.020",
+    "name": "Cipawon",
+    "alias": "Cipawon"
+  },
+  {
+    "code": "33.03.020.005",
+    "villageCode": "005",
+    "districtCode": "33.03.020",
+    "name": "Karangcengis",
+    "alias": "Karangcengis"
+  },
+  {
+    "code": "33.03.020.006",
+    "villageCode": "006",
+    "districtCode": "33.03.020",
+    "name": "Karanggedang",
+    "alias": "Karanggedang"
+  },
+  {
+    "code": "33.03.020.007",
+    "villageCode": "007",
+    "districtCode": "33.03.020",
+    "name": "Karangnangka",
+    "alias": "Karangnangka"
+  },
+  {
+    "code": "33.03.020.008",
+    "villageCode": "008",
+    "districtCode": "33.03.020",
+    "name": "Kutawis",
+    "alias": "Kutawis"
+  },
+  {
+    "code": "33.03.020.009",
+    "villageCode": "009",
+    "districtCode": "33.03.020",
+    "name": "Kebutuh",
+    "alias": "Kebutuh"
+  },
+  {
+    "code": "33.03.020.010",
+    "villageCode": "010",
+    "districtCode": "33.03.020",
+    "name": "Penaruban",
+    "alias": "Penaruban"
+  },
+  {
+    "code": "33.03.020.011",
+    "villageCode": "011",
+    "districtCode": "33.03.020",
+    "name": "Kedungjati",
+    "alias": "Kedungjati"
+  },
+  {
+    "code": "33.03.020.012",
+    "villageCode": "012",
+    "districtCode": "33.03.020",
+    "name": "Bukateja",
+    "alias": "Bukateja"
+  },
+  {
+    "code": "33.03.020.013",
+    "villageCode": "013",
+    "districtCode": "33.03.020",
+    "name": "Majasari",
+    "alias": "Majasari"
+  },
+  {
+    "code": "33.03.020.014",
+    "villageCode": "014",
+    "districtCode": "33.03.020",
+    "name": "Bajong",
+    "alias": "Bajong"
+  }
+]

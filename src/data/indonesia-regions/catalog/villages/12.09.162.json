@@ -1,0 +1,65 @@
+[
+  {
+    "code": "12.09.162.001",
+    "villageCode": "001",
+    "districtCode": "12.09.162",
+    "name": "Karang Sari",
+    "alias": "Karang Sari"
+  },
+  {
+    "code": "12.09.162.002",
+    "villageCode": "002",
+    "districtCode": "12.09.162",
+    "name": "Karang Rejo",
+    "alias": "Karang Rejo"
+  },
+  {
+    "code": "12.09.162.003",
+    "villageCode": "003",
+    "districtCode": "12.09.162",
+    "name": "Karang Anyer",
+    "alias": "Karang Anyer"
+  },
+  {
+    "code": "12.09.162.004",
+    "villageCode": "004",
+    "districtCode": "12.09.162",
+    "name": "Silau Bayu",
+    "alias": "Silau Bayu"
+  },
+  {
+    "code": "12.09.162.005",
+    "villageCode": "005",
+    "districtCode": "12.09.162",
+    "name": "Huta Dipar",
+    "alias": "Huta Dipar"
+  },
+  {
+    "code": "12.09.162.006",
+    "villageCode": "006",
+    "districtCode": "12.09.162",
+    "name": "Tumorang",
+    "alias": "Tumorang"
+  },
+  {
+    "code": "12.09.162.007",
+    "villageCode": "007",
+    "districtCode": "12.09.162",
+    "name": "Rabuhit",
+    "alias": "Rabuhit"
+  },
+  {
+    "code": "12.09.162.008",
+    "villageCode": "008",
+    "districtCode": "12.09.162",
+    "name": "Bandar Malela",
+    "alias": "Bandar Malela"
+  },
+  {
+    "code": "12.09.162.009",
+    "villageCode": "009",
+    "districtCode": "12.09.162",
+    "name": "Gajing",
+    "alias": "Gajing"
+  }
+]

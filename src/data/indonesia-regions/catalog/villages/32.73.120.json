@@ -1,0 +1,37 @@
+[
+  {
+    "code": "32.73.120.003",
+    "villageCode": "003",
+    "districtCode": "32.73.120",
+    "name": "Pasanggrahan",
+    "alias": "Pasanggrahan"
+  },
+  {
+    "code": "32.73.120.004",
+    "villageCode": "004",
+    "districtCode": "32.73.120",
+    "name": "Pasirjati",
+    "alias": "Pasirjati"
+  },
+  {
+    "code": "32.73.120.005",
+    "villageCode": "005",
+    "districtCode": "32.73.120",
+    "name": "Pasir Wangi",
+    "alias": "Pasir Wangi"
+  },
+  {
+    "code": "32.73.120.006",
+    "villageCode": "006",
+    "districtCode": "32.73.120",
+    "name": "Cigending",
+    "alias": "Cigending"
+  },
+  {
+    "code": "32.73.120.007",
+    "villageCode": "007",
+    "districtCode": "32.73.120",
+    "name": "Pasir Endah",
+    "alias": "Pasir Endah"
+  }
+]

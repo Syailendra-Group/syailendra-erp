@@ -1,0 +1,79 @@
+[
+  {
+    "code": "63.04.100.001",
+    "villageCode": "001",
+    "districtCode": "63.04.100",
+    "name": "Handil Barabai",
+    "alias": "Handil Barabai"
+  },
+  {
+    "code": "63.04.100.002",
+    "villageCode": "002",
+    "districtCode": "63.04.100",
+    "name": "Sungai Kali",
+    "alias": "Sungai Kali"
+  },
+  {
+    "code": "63.04.100.003",
+    "villageCode": "003",
+    "districtCode": "63.04.100",
+    "name": "Bagagap",
+    "alias": "Bagagap"
+  },
+  {
+    "code": "63.04.100.004",
+    "villageCode": "004",
+    "districtCode": "63.04.100",
+    "name": "Barambai",
+    "alias": "Barambai"
+  },
+  {
+    "code": "63.04.100.005",
+    "villageCode": "005",
+    "districtCode": "63.04.100",
+    "name": "Karya Baru",
+    "alias": "Karya Baru"
+  },
+  {
+    "code": "63.04.100.006",
+    "villageCode": "006",
+    "districtCode": "63.04.100",
+    "name": "Karya Tani",
+    "alias": "Karya Tani"
+  },
+  {
+    "code": "63.04.100.007",
+    "villageCode": "007",
+    "districtCode": "63.04.100",
+    "name": "Barambai Kolam Kiri",
+    "alias": "Barambai Kolam Kiri"
+  },
+  {
+    "code": "63.04.100.008",
+    "villageCode": "008",
+    "districtCode": "63.04.100",
+    "name": "Barambai Kolam Kanan",
+    "alias": "Barambai Kolam Kanan"
+  },
+  {
+    "code": "63.04.100.009",
+    "villageCode": "009",
+    "districtCode": "63.04.100",
+    "name": "Pendalaman",
+    "alias": "Pendalaman"
+  },
+  {
+    "code": "63.04.100.010",
+    "villageCode": "010",
+    "districtCode": "63.04.100",
+    "name": "Pendalaman Baru",
+    "alias": "Pendalaman Baru"
+  },
+  {
+    "code": "63.04.100.011",
+    "villageCode": "011",
+    "districtCode": "63.04.100",
+    "name": "Kolam Kiri Dalam",
+    "alias": "Kolam Kiri Dalam"
+  }
+]

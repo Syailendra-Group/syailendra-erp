@@ -1,0 +1,58 @@
+[
+  {
+    "code": "94.71.010.001",
+    "villageCode": "001",
+    "districtCode": "94.71.010",
+    "name": "Koya Barat",
+    "alias": "Koya Barat"
+  },
+  {
+    "code": "94.71.010.002",
+    "villageCode": "002",
+    "districtCode": "94.71.010",
+    "name": "Holtekam",
+    "alias": "Holtekam"
+  },
+  {
+    "code": "94.71.010.003",
+    "villageCode": "003",
+    "districtCode": "94.71.010",
+    "name": "Skow Yambe",
+    "alias": "Skow Yambe"
+  },
+  {
+    "code": "94.71.010.004",
+    "villageCode": "004",
+    "districtCode": "94.71.010",
+    "name": "Koya Timur",
+    "alias": "Koya Timur"
+  },
+  {
+    "code": "94.71.010.005",
+    "villageCode": "005",
+    "districtCode": "94.71.010",
+    "name": "Skow Mabo",
+    "alias": "Skow Mabo"
+  },
+  {
+    "code": "94.71.010.006",
+    "villageCode": "006",
+    "districtCode": "94.71.010",
+    "name": "Skow Sae",
+    "alias": "Skow Sae"
+  },
+  {
+    "code": "94.71.010.007",
+    "villageCode": "007",
+    "districtCode": "94.71.010",
+    "name": "Koya Tengah",
+    "alias": "Koya Tengah"
+  },
+  {
+    "code": "94.71.010.008",
+    "villageCode": "008",
+    "districtCode": "94.71.010",
+    "name": "Kampung Mosso",
+    "alias": "Kampung Mosso"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "code": "17.03.092.001",
+    "villageCode": "001",
+    "districtCode": "17.03.092",
+    "name": "Pagar Din",
+    "alias": "Pagar Din"
+  },
+  {
+    "code": "17.03.092.002",
+    "villageCode": "002",
+    "districtCode": "17.03.092",
+    "name": "Tanjung Dalam",
+    "alias": "Tanjung Dalam"
+  },
+  {
+    "code": "17.03.092.003",
+    "villageCode": "003",
+    "districtCode": "17.03.092",
+    "name": "Air Lelangi",
+    "alias": "Air Lelangi"
+  },
+  {
+    "code": "17.03.092.004",
+    "villageCode": "004",
+    "districtCode": "17.03.092",
+    "name": "Pondok Bakil",
+    "alias": "Pondok Bakil"
+  },
+  {
+    "code": "17.03.092.005",
+    "villageCode": "005",
+    "districtCode": "17.03.092",
+    "name": "Talang Berantai",
+    "alias": "Talang Berantai"
+  },
+  {
+    "code": "17.03.092.006",
+    "villageCode": "006",
+    "districtCode": "17.03.092",
+    "name": "Bukit Berlian",
+    "alias": "Bukit Berlian"
+  },
+  {
+    "code": "17.03.092.007",
+    "villageCode": "007",
+    "districtCode": "17.03.092",
+    "name": "Tanjung Harapan",
+    "alias": "Tanjung Harapan"
+  },
+  {
+    "code": "17.03.092.008",
+    "villageCode": "008",
+    "districtCode": "17.03.092",
+    "name": "Tanjung Sari",
+    "alias": "Tanjung Sari"
+  },
+  {
+    "code": "17.03.092.009",
+    "villageCode": "009",
+    "districtCode": "17.03.092",
+    "name": "Sp 7 Bangun Karya",
+    "alias": "Sp 7 Bangun Karya"
+  },
+  {
+    "code": "17.03.092.010",
+    "villageCode": "010",
+    "districtCode": "17.03.092",
+    "name": "Bukit  Sari",
+    "alias": "Bukit  Sari"
+  }
+]

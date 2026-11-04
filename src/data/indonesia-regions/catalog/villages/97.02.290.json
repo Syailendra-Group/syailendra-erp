@@ -1,0 +1,58 @@
+[
+  {
+    "code": "97.02.290.001",
+    "villageCode": "001",
+    "districtCode": "97.02.290",
+    "name": "Wollo",
+    "alias": "Wollo"
+  },
+  {
+    "code": "97.02.290.002",
+    "villageCode": "002",
+    "districtCode": "97.02.290",
+    "name": "Pirambot",
+    "alias": "Pirambot"
+  },
+  {
+    "code": "97.02.290.003",
+    "villageCode": "003",
+    "districtCode": "97.02.290",
+    "name": "Kukurima",
+    "alias": "Kukurima"
+  },
+  {
+    "code": "97.02.290.004",
+    "villageCode": "004",
+    "districtCode": "97.02.290",
+    "name": "Wollo Timur",
+    "alias": "Wollo Timur"
+  },
+  {
+    "code": "97.02.290.005",
+    "villageCode": "005",
+    "districtCode": "97.02.290",
+    "name": "Tegabaga",
+    "alias": "Tegabaga"
+  },
+  {
+    "code": "97.02.290.006",
+    "villageCode": "006",
+    "districtCode": "97.02.290",
+    "name": "Alugi",
+    "alias": "Alugi"
+  },
+  {
+    "code": "97.02.290.007",
+    "villageCode": "007",
+    "districtCode": "97.02.290",
+    "name": "Wodlama",
+    "alias": "Wodlama"
+  },
+  {
+    "code": "97.02.290.008",
+    "villageCode": "008",
+    "districtCode": "97.02.290",
+    "name": "Wunan",
+    "alias": "Wunan"
+  }
+]

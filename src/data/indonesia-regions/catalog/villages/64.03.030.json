@@ -1,0 +1,37 @@
+[
+  {
+    "code": "64.03.030.001",
+    "villageCode": "001",
+    "districtCode": "64.03.030",
+    "name": "Jawa",
+    "alias": "Jawa"
+  },
+  {
+    "code": "64.03.030.002",
+    "villageCode": "002",
+    "districtCode": "64.03.030",
+    "name": "Sanga-Sanga Dalam",
+    "alias": "Sanga-Sanga Dalam"
+  },
+  {
+    "code": "64.03.030.003",
+    "villageCode": "003",
+    "districtCode": "64.03.030",
+    "name": "Pendingin",
+    "alias": "Pendingin"
+  },
+  {
+    "code": "64.03.030.004",
+    "villageCode": "004",
+    "districtCode": "64.03.030",
+    "name": "Sarijaya",
+    "alias": "Sarijaya"
+  },
+  {
+    "code": "64.03.030.005",
+    "villageCode": "005",
+    "districtCode": "64.03.030",
+    "name": "Sanga-Sanga Muara",
+    "alias": "Sanga-Sanga Muara"
+  }
+]

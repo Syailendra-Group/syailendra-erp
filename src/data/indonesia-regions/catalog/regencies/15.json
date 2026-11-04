@@ -1,0 +1,90 @@
+[
+  {
+    "code": "15.01",
+    "regencyCode": "01",
+    "provinceCode": "15",
+    "provinceName": "Jambi",
+    "name": "Kabupaten Kerinci",
+    "alias": "Kerinci"
+  },
+  {
+    "code": "15.02",
+    "regencyCode": "02",
+    "provinceCode": "15",
+    "provinceName": "Jambi",
+    "name": "Kabupaten Merangin",
+    "alias": "Merangin"
+  },
+  {
+    "code": "15.03",
+    "regencyCode": "03",
+    "provinceCode": "15",
+    "provinceName": "Jambi",
+    "name": "Kabupaten Sarolangun",
+    "alias": "Sarolangun"
+  },
+  {
+    "code": "15.04",
+    "regencyCode": "04",
+    "provinceCode": "15",
+    "provinceName": "Jambi",
+    "name": "Kabupaten Batanghari",
+    "alias": "Batanghari"
+  },
+  {
+    "code": "15.05",
+    "regencyCode": "05",
+    "provinceCode": "15",
+    "provinceName": "Jambi",
+    "name": "Kabupaten Muaro Jambi",
+    "alias": "Muaro Jambi"
+  },
+  {
+    "code": "15.06",
+    "regencyCode": "06",
+    "provinceCode": "15",
+    "provinceName": "Jambi",
+    "name": "Kabupaten Tanjung Jabung Timur",
+    "alias": "Tanjung Jabung Timur"
+  },
+  {
+    "code": "15.07",
+    "regencyCode": "07",
+    "provinceCode": "15",
+    "provinceName": "Jambi",
+    "name": "Kabupaten Tanjung Jabung Barat",
+    "alias": "Tanjung Jabung Barat"
+  },
+  {
+    "code": "15.08",
+    "regencyCode": "08",
+    "provinceCode": "15",
+    "provinceName": "Jambi",
+    "name": "Kabupaten Tebo",
+    "alias": "Tebo"
+  },
+  {
+    "code": "15.09",
+    "regencyCode": "09",
+    "provinceCode": "15",
+    "provinceName": "Jambi",
+    "name": "Kabupaten Bungo",
+    "alias": "Bungo"
+  },
+  {
+    "code": "15.71",
+    "regencyCode": "71",
+    "provinceCode": "15",
+    "provinceName": "Jambi",
+    "name": "Kota Jambi",
+    "alias": "Jambi"
+  },
+  {
+    "code": "15.72",
+    "regencyCode": "72",
+    "provinceCode": "15",
+    "provinceName": "Jambi",
+    "name": "Kota Sungai Penuh",
+    "alias": "Sungai Penuh"
+  }
+]

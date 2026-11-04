@@ -1,0 +1,30 @@
+[
+  {
+    "code": "63.72.011.001",
+    "villageCode": "001",
+    "districtCode": "63.72.011",
+    "name": "Landasan Ulin Tengah",
+    "alias": "Landasan Ulin Tengah"
+  },
+  {
+    "code": "63.72.011.002",
+    "villageCode": "002",
+    "districtCode": "63.72.011",
+    "name": "Landasan Ulin Utara",
+    "alias": "Landasan Ulin Utara"
+  },
+  {
+    "code": "63.72.011.003",
+    "villageCode": "003",
+    "districtCode": "63.72.011",
+    "name": "Landasan Ulin Barat",
+    "alias": "Landasan Ulin Barat"
+  },
+  {
+    "code": "63.72.011.004",
+    "villageCode": "004",
+    "districtCode": "63.72.011",
+    "name": "Landasan Ulin Selatan",
+    "alias": "Landasan Ulin Selatan"
+  }
+]

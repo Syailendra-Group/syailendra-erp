@@ -1,0 +1,44 @@
+[
+  {
+    "code": "53.05.044.001",
+    "villageCode": "001",
+    "districtCode": "53.05.044",
+    "name": "Oenain",
+    "alias": "Oenain"
+  },
+  {
+    "code": "53.05.044.002",
+    "villageCode": "002",
+    "districtCode": "53.05.044",
+    "name": "Fafinesu B",
+    "alias": "Fafinesu B"
+  },
+  {
+    "code": "53.05.044.003",
+    "villageCode": "003",
+    "districtCode": "53.05.044",
+    "name": "Fafinesu A",
+    "alias": "Fafinesu A"
+  },
+  {
+    "code": "53.05.044.004",
+    "villageCode": "004",
+    "districtCode": "53.05.044",
+    "name": "Fafinesu C",
+    "alias": "Fafinesu C"
+  },
+  {
+    "code": "53.05.044.005",
+    "villageCode": "005",
+    "districtCode": "53.05.044",
+    "name": "Banuan",
+    "alias": "Banuan"
+  },
+  {
+    "code": "53.05.044.006",
+    "villageCode": "006",
+    "districtCode": "53.05.044",
+    "name": "Fafinesu",
+    "alias": "Fafinesu"
+  }
+]

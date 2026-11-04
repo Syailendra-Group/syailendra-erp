@@ -1,0 +1,86 @@
+[
+  {
+    "code": "51.01.020.001",
+    "villageCode": "001",
+    "districtCode": "51.01.020",
+    "name": "Cupel",
+    "alias": "Cupel"
+  },
+  {
+    "code": "51.01.020.002",
+    "villageCode": "002",
+    "districtCode": "51.01.020",
+    "name": "Tegal Badeng Barat",
+    "alias": "Tegal Badeng Barat"
+  },
+  {
+    "code": "51.01.020.003",
+    "villageCode": "003",
+    "districtCode": "51.01.020",
+    "name": "Tegal Badeng Timur",
+    "alias": "Tegal Badeng Timur"
+  },
+  {
+    "code": "51.01.020.004",
+    "villageCode": "004",
+    "districtCode": "51.01.020",
+    "name": "Pengambengan",
+    "alias": "Pengambengan"
+  },
+  {
+    "code": "51.01.020.012",
+    "villageCode": "012",
+    "districtCode": "51.01.020",
+    "name": "Loloan Barat",
+    "alias": "Loloan Barat"
+  },
+  {
+    "code": "51.01.020.013",
+    "villageCode": "013",
+    "districtCode": "51.01.020",
+    "name": "Lelateng",
+    "alias": "Lelateng"
+  },
+  {
+    "code": "51.01.020.014",
+    "villageCode": "014",
+    "districtCode": "51.01.020",
+    "name": "Banjar Tengah",
+    "alias": "Banjar Tengah"
+  },
+  {
+    "code": "51.01.020.015",
+    "villageCode": "015",
+    "districtCode": "51.01.020",
+    "name": "Baluk",
+    "alias": "Baluk"
+  },
+  {
+    "code": "51.01.020.016",
+    "villageCode": "016",
+    "districtCode": "51.01.020",
+    "name": "Banyubiru",
+    "alias": "Banyubiru"
+  },
+  {
+    "code": "51.01.020.017",
+    "villageCode": "017",
+    "districtCode": "51.01.020",
+    "name": "Kaliakah",
+    "alias": "Kaliakah"
+  },
+  {
+    "code": "51.01.020.018",
+    "villageCode": "018",
+    "districtCode": "51.01.020",
+    "name": "Berangbang",
+    "alias": "Berangbang"
+  },
+  {
+    "code": "51.01.020.019",
+    "villageCode": "019",
+    "districtCode": "51.01.020",
+    "name": "Baler Bale Agung",
+    "alias": "Baler Bale Agung"
+  }
+]

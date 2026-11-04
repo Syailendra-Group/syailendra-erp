@@ -1,0 +1,98 @@
+[
+  {
+    "code": "53.12.010",
+    "districtCode": "010",
+    "regencyCode": "53.12",
+    "provinceCode": "53",
+    "name": "Kecamatan Aimere",
+    "alias": "Aimere"
+  },
+  {
+    "code": "53.12.011",
+    "districtCode": "011",
+    "regencyCode": "53.12",
+    "provinceCode": "53",
+    "name": "Kecamatan Jerebuu",
+    "alias": "Jerebuu"
+  },
+  {
+    "code": "53.12.012",
+    "districtCode": "012",
+    "regencyCode": "53.12",
+    "provinceCode": "53",
+    "name": "Kecamatan Inerie",
+    "alias": "Inerie"
+  },
+  {
+    "code": "53.12.020",
+    "districtCode": "020",
+    "regencyCode": "53.12",
+    "provinceCode": "53",
+    "name": "Kecamatan Bajawa",
+    "alias": "Bajawa"
+  },
+  {
+    "code": "53.12.030",
+    "districtCode": "030",
+    "regencyCode": "53.12",
+    "provinceCode": "53",
+    "name": "Kecamatan Golewa",
+    "alias": "Golewa"
+  },
+  {
+    "code": "53.12.031",
+    "districtCode": "031",
+    "regencyCode": "53.12",
+    "provinceCode": "53",
+    "name": "Kecamatan Golewa Selatan",
+    "alias": "Golewa Selatan"
+  },
+  {
+    "code": "53.12.032",
+    "districtCode": "032",
+    "regencyCode": "53.12",
+    "provinceCode": "53",
+    "name": "Kecamatan Golewa Barat",
+    "alias": "Golewa Barat"
+  },
+  {
+    "code": "53.12.070",
+    "districtCode": "070",
+    "regencyCode": "53.12",
+    "provinceCode": "53",
+    "name": "Kecamatan Bajawa Utara",
+    "alias": "Bajawa Utara"
+  },
+  {
+    "code": "53.12.071",
+    "districtCode": "071",
+    "regencyCode": "53.12",
+    "provinceCode": "53",
+    "name": "Kecamatan Soa",
+    "alias": "Soa"
+  },
+  {
+    "code": "53.12.080",
+    "districtCode": "080",
+    "regencyCode": "53.12",
+    "provinceCode": "53",
+    "name": "Kecamatan Riung",
+    "alias": "Riung"
+  },
+  {
+    "code": "53.12.081",
+    "districtCode": "081",
+    "regencyCode": "53.12",
+    "provinceCode": "53",
+    "name": "Kecamatan Riung Barat",
+    "alias": "Riung Barat"
+  },
+  {
+    "code": "53.12.082",
+    "districtCode": "082",
+    "regencyCode": "53.12",
+    "provinceCode": "53",
+    "name": "Kecamatan Wolomeze",
+    "alias": "Wolomeze"
+  }
+]

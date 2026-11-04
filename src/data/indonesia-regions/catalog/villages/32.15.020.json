@@ -1,0 +1,51 @@
+[
+  {
+    "code": "32.15.020.001",
+    "villageCode": "001",
+    "districtCode": "32.15.020",
+    "name": "Tegallega",
+    "alias": "Tegallega"
+  },
+  {
+    "code": "32.15.020.002",
+    "villageCode": "002",
+    "districtCode": "32.15.020",
+    "name": "Mulyasejati",
+    "alias": "Mulyasejati"
+  },
+  {
+    "code": "32.15.020.003",
+    "villageCode": "003",
+    "districtCode": "32.15.020",
+    "name": "Mulyasari",
+    "alias": "Mulyasari"
+  },
+  {
+    "code": "32.15.020.004",
+    "villageCode": "004",
+    "districtCode": "32.15.020",
+    "name": "Kutanegara",
+    "alias": "Kutanegara"
+  },
+  {
+    "code": "32.15.020.005",
+    "villageCode": "005",
+    "districtCode": "32.15.020",
+    "name": "Kutapohaci",
+    "alias": "Kutapohaci"
+  },
+  {
+    "code": "32.15.020.006",
+    "villageCode": "006",
+    "districtCode": "32.15.020",
+    "name": "Kutamekar",
+    "alias": "Kutamekar"
+  },
+  {
+    "code": "32.15.020.007",
+    "villageCode": "007",
+    "districtCode": "32.15.020",
+    "name": "Parungmulya",
+    "alias": "Parungmulya"
+  }
+]

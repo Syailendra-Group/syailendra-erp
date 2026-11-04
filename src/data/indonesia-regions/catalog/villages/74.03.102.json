@@ -1,0 +1,121 @@
+[
+  {
+    "code": "74.03.102.001",
+    "villageCode": "001",
+    "districtCode": "74.03.102",
+    "name": "Ulu Pohara",
+    "alias": "Ulu Pohara"
+  },
+  {
+    "code": "74.03.102.002",
+    "villageCode": "002",
+    "districtCode": "74.03.102",
+    "name": "Amosilu",
+    "alias": "Amosilu"
+  },
+  {
+    "code": "74.03.102.003",
+    "villageCode": "003",
+    "districtCode": "74.03.102",
+    "name": "Ranomolua",
+    "alias": "Ranomolua"
+  },
+  {
+    "code": "74.03.102.004",
+    "villageCode": "004",
+    "districtCode": "74.03.102",
+    "name": "Lawonua",
+    "alias": "Lawonua"
+  },
+  {
+    "code": "74.03.102.005",
+    "villageCode": "005",
+    "districtCode": "74.03.102",
+    "name": "Asunde",
+    "alias": "Asunde"
+  },
+  {
+    "code": "74.03.102.006",
+    "villageCode": "006",
+    "districtCode": "74.03.102",
+    "name": "Andomesinggo",
+    "alias": "Andomesinggo"
+  },
+  {
+    "code": "74.03.102.007",
+    "villageCode": "007",
+    "districtCode": "74.03.102",
+    "name": "Besulutu",
+    "alias": "Besulutu"
+  },
+  {
+    "code": "74.03.102.008",
+    "villageCode": "008",
+    "districtCode": "74.03.102",
+    "name": "Onembute",
+    "alias": "Onembute"
+  },
+  {
+    "code": "74.03.102.009",
+    "villageCode": "009",
+    "districtCode": "74.03.102",
+    "name": "Labela",
+    "alias": "Labela"
+  },
+  {
+    "code": "74.03.102.010",
+    "villageCode": "010",
+    "districtCode": "74.03.102",
+    "name": "Silea",
+    "alias": "Silea"
+  },
+  {
+    "code": "74.03.102.011",
+    "villageCode": "011",
+    "districtCode": "74.03.102",
+    "name": "Laloumera",
+    "alias": "Laloumera"
+  },
+  {
+    "code": "74.03.102.012",
+    "villageCode": "012",
+    "districtCode": "74.03.102",
+    "name": "Puulowaru",
+    "alias": "Puulowaru"
+  },
+  {
+    "code": "74.03.102.013",
+    "villageCode": "013",
+    "districtCode": "74.03.102",
+    "name": "Puundoho",
+    "alias": "Puundoho"
+  },
+  {
+    "code": "74.03.102.014",
+    "villageCode": "014",
+    "districtCode": "74.03.102",
+    "name": "Punggaluku",
+    "alias": "Punggaluku"
+  },
+  {
+    "code": "74.03.102.015",
+    "villageCode": "015",
+    "districtCode": "74.03.102",
+    "name": "Waworaha",
+    "alias": "Waworaha"
+  },
+  {
+    "code": "74.03.102.016",
+    "villageCode": "016",
+    "districtCode": "74.03.102",
+    "name": "Watumolomba",
+    "alias": "Watumolomba"
+  },
+  {
+    "code": "74.03.102.017",
+    "villageCode": "017",
+    "districtCode": "74.03.102",
+    "name": "Lalowulo",
+    "alias": "Lalowulo"
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "code": "62.04.040.001",
+    "villageCode": "001",
+    "districtCode": "62.04.040",
+    "name": "Muara Talang",
+    "alias": "Muara Talang"
+  },
+  {
+    "code": "62.04.040.002",
+    "villageCode": "002",
+    "districtCode": "62.04.040",
+    "name": "Teluk Telaga",
+    "alias": "Teluk Telaga"
+  },
+  {
+    "code": "62.04.040.003",
+    "villageCode": "003",
+    "districtCode": "62.04.040",
+    "name": "Baru",
+    "alias": "Baru"
+  },
+  {
+    "code": "62.04.040.004",
+    "villageCode": "004",
+    "districtCode": "62.04.040",
+    "name": "Danau Sadar",
+    "alias": "Danau Sadar"
+  },
+  {
+    "code": "62.04.040.005",
+    "villageCode": "005",
+    "districtCode": "62.04.040",
+    "name": "Jelapat",
+    "alias": "Jelapat"
+  },
+  {
+    "code": "62.04.040.006",
+    "villageCode": "006",
+    "districtCode": "62.04.040",
+    "name": "Hilir Sper",
+    "alias": "Hilir Sper"
+  },
+  {
+    "code": "62.04.040.007",
+    "villageCode": "007",
+    "districtCode": "62.04.040",
+    "name": "Danau Ganting",
+    "alias": "Danau Ganting"
+  },
+  {
+    "code": "62.04.040.008",
+    "villageCode": "008",
+    "districtCode": "62.04.040",
+    "name": "Mangaris",
+    "alias": "Mangaris"
+  },
+  {
+    "code": "62.04.040.009",
+    "villageCode": "009",
+    "districtCode": "62.04.040",
+    "name": "Dangka",
+    "alias": "Dangka"
+  },
+  {
+    "code": "62.04.040.010",
+    "villageCode": "010",
+    "districtCode": "62.04.040",
+    "name": "Tetei Lanan",
+    "alias": "Tetei Lanan"
+  },
+  {
+    "code": "62.04.040.011",
+    "villageCode": "011",
+    "districtCode": "62.04.040",
+    "name": "Pamangka",
+    "alias": "Pamangka"
+  },
+  {
+    "code": "62.04.040.012",
+    "villageCode": "012",
+    "districtCode": "62.04.040",
+    "name": "Sababilah",
+    "alias": "Sababilah"
+  },
+  {
+    "code": "62.04.040.013",
+    "villageCode": "013",
+    "districtCode": "62.04.040",
+    "name": "Pamait",
+    "alias": "Pamait"
+  },
+  {
+    "code": "62.04.040.014",
+    "villageCode": "014",
+    "districtCode": "62.04.040",
+    "name": "Buntok Kota",
+    "alias": "Buntok Kota"
+  },
+  {
+    "code": "62.04.040.015",
+    "villageCode": "015",
+    "districtCode": "62.04.040",
+    "name": "Muara Ripung",
+    "alias": "Muara Ripung"
+  },
+  {
+    "code": "62.04.040.016",
+    "villageCode": "016",
+    "districtCode": "62.04.040",
+    "name": "Mabuan",
+    "alias": "Mabuan"
+  },
+  {
+    "code": "62.04.040.017",
+    "villageCode": "017",
+    "districtCode": "62.04.040",
+    "name": "Murung Paken",
+    "alias": "Murung Paken"
+  },
+  {
+    "code": "62.04.040.018",
+    "villageCode": "018",
+    "districtCode": "62.04.040",
+    "name": "Madara",
+    "alias": "Madara"
+  },
+  {
+    "code": "62.04.040.019",
+    "villageCode": "019",
+    "districtCode": "62.04.040",
+    "name": "Kalahien",
+    "alias": "Kalahien"
+  },
+  {
+    "code": "62.04.040.020",
+    "villageCode": "020",
+    "districtCode": "62.04.040",
+    "name": "Lembeng",
+    "alias": "Lembeng"
+  },
+  {
+    "code": "62.04.040.021",
+    "villageCode": "021",
+    "districtCode": "62.04.040",
+    "name": "Sanggu",
+    "alias": "Sanggu"
+  },
+  {
+    "code": "62.04.040.022",
+    "villageCode": "022",
+    "districtCode": "62.04.040",
+    "name": "Telang Andrau",
+    "alias": "Telang Andrau"
+  },
+  {
+    "code": "62.04.040.023",
+    "villageCode": "023",
+    "districtCode": "62.04.040",
+    "name": "Penda Asam",
+    "alias": "Penda Asam"
+  },
+  {
+    "code": "62.04.040.024",
+    "villageCode": "024",
+    "districtCode": "62.04.040",
+    "name": "Pararapak",
+    "alias": "Pararapak"
+  },
+  {
+    "code": "62.04.040.025",
+    "villageCode": "025",
+    "districtCode": "62.04.040",
+    "name": "Teluk Mampun",
+    "alias": "Teluk Mampun"
+  },
+  {
+    "code": "62.04.040.026",
+    "villageCode": "026",
+    "districtCode": "62.04.040",
+    "name": "Tanjung Jawa",
+    "alias": "Tanjung Jawa"
+  },
+  {
+    "code": "62.04.040.027",
+    "villageCode": "027",
+    "districtCode": "62.04.040",
+    "name": "Danau Masura",
+    "alias": "Danau Masura"
+  }
+]

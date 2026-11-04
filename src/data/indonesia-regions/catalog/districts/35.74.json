@@ -1,0 +1,42 @@
+[
+  {
+    "code": "35.74.010",
+    "districtCode": "010",
+    "regencyCode": "35.74",
+    "provinceCode": "35",
+    "name": "Kecamatan Kademangan",
+    "alias": "Kademangan"
+  },
+  {
+    "code": "35.74.011",
+    "districtCode": "011",
+    "regencyCode": "35.74",
+    "provinceCode": "35",
+    "name": "Kecamatan Kedopok",
+    "alias": "Kedopok"
+  },
+  {
+    "code": "35.74.020",
+    "districtCode": "020",
+    "regencyCode": "35.74",
+    "provinceCode": "35",
+    "name": "Kecamatan Wonoasih",
+    "alias": "Wonoasih"
+  },
+  {
+    "code": "35.74.030",
+    "districtCode": "030",
+    "regencyCode": "35.74",
+    "provinceCode": "35",
+    "name": "Kecamatan Mayangan",
+    "alias": "Mayangan"
+  },
+  {
+    "code": "35.74.031",
+    "districtCode": "031",
+    "regencyCode": "35.74",
+    "provinceCode": "35",
+    "name": "Kecamatan Kanigaran",
+    "alias": "Kanigaran"
+  }
+]

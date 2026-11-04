@@ -1,0 +1,51 @@
+[
+  {
+    "code": "15.02.063.001",
+    "villageCode": "001",
+    "districtCode": "15.02.063",
+    "name": "Ulak Makam",
+    "alias": "Ulak Makam"
+  },
+  {
+    "code": "15.02.063.002",
+    "villageCode": "002",
+    "districtCode": "15.02.063",
+    "name": "Air Batu",
+    "alias": "Air Batu"
+  },
+  {
+    "code": "15.02.063.003",
+    "villageCode": "003",
+    "districtCode": "15.02.063",
+    "name": "Rejo Sari",
+    "alias": "Rejo Sari"
+  },
+  {
+    "code": "15.02.063.004",
+    "villageCode": "004",
+    "districtCode": "15.02.063",
+    "name": "Kota Raja",
+    "alias": "Kota Raja"
+  },
+  {
+    "code": "15.02.063.005",
+    "villageCode": "005",
+    "districtCode": "15.02.063",
+    "name": "Rantau Limau Manis",
+    "alias": "Rantau Limau Manis"
+  },
+  {
+    "code": "15.02.063.006",
+    "villageCode": "006",
+    "districtCode": "15.02.063",
+    "name": "Tunggul Bulin",
+    "alias": "Tunggul Bulin"
+  },
+  {
+    "code": "15.02.063.007",
+    "villageCode": "007",
+    "districtCode": "15.02.063",
+    "name": "Mekar Limau Manis",
+    "alias": "Mekar Limau Manis"
+  }
+]

@@ -1,0 +1,186 @@
+[
+  {
+    "code": "12.13.010",
+    "districtCode": "010",
+    "regencyCode": "12.13",
+    "provinceCode": "12",
+    "name": "Kecamatan Bohorok",
+    "alias": "Bohorok"
+  },
+  {
+    "code": "12.13.011",
+    "districtCode": "011",
+    "regencyCode": "12.13",
+    "provinceCode": "12",
+    "name": "Kecamatan Sirapit",
+    "alias": "Sirapit"
+  },
+  {
+    "code": "12.13.020",
+    "districtCode": "020",
+    "regencyCode": "12.13",
+    "provinceCode": "12",
+    "name": "Kecamatan Salapian",
+    "alias": "Salapian"
+  },
+  {
+    "code": "12.13.021",
+    "districtCode": "021",
+    "regencyCode": "12.13",
+    "provinceCode": "12",
+    "name": "Kecamatan Kutambaru",
+    "alias": "Kutambaru"
+  },
+  {
+    "code": "12.13.030",
+    "districtCode": "030",
+    "regencyCode": "12.13",
+    "provinceCode": "12",
+    "name": "Kecamatan Sei Bingai",
+    "alias": "Sei Bingai"
+  },
+  {
+    "code": "12.13.040",
+    "districtCode": "040",
+    "regencyCode": "12.13",
+    "provinceCode": "12",
+    "name": "Kecamatan Kuala",
+    "alias": "Kuala"
+  },
+  {
+    "code": "12.13.050",
+    "districtCode": "050",
+    "regencyCode": "12.13",
+    "provinceCode": "12",
+    "name": "Kecamatan Selesai",
+    "alias": "Selesai"
+  },
+  {
+    "code": "12.13.060",
+    "districtCode": "060",
+    "regencyCode": "12.13",
+    "provinceCode": "12",
+    "name": "Kecamatan Binjai",
+    "alias": "Binjai"
+  },
+  {
+    "code": "12.13.070",
+    "districtCode": "070",
+    "regencyCode": "12.13",
+    "provinceCode": "12",
+    "name": "Kecamatan Stabat",
+    "alias": "Stabat"
+  },
+  {
+    "code": "12.13.080",
+    "districtCode": "080",
+    "regencyCode": "12.13",
+    "provinceCode": "12",
+    "name": "Kecamatan Wampu",
+    "alias": "Wampu"
+  },
+  {
+    "code": "12.13.090",
+    "districtCode": "090",
+    "regencyCode": "12.13",
+    "provinceCode": "12",
+    "name": "Kecamatan Batang Serangan",
+    "alias": "Batang Serangan"
+  },
+  {
+    "code": "12.13.100",
+    "districtCode": "100",
+    "regencyCode": "12.13",
+    "provinceCode": "12",
+    "name": "Kecamatan Sawit Seberang",
+    "alias": "Sawit Seberang"
+  },
+  {
+    "code": "12.13.110",
+    "districtCode": "110",
+    "regencyCode": "12.13",
+    "provinceCode": "12",
+    "name": "Kecamatan Padang Tualang",
+    "alias": "Padang Tualang"
+  },
+  {
+    "code": "12.13.120",
+    "districtCode": "120",
+    "regencyCode": "12.13",
+    "provinceCode": "12",
+    "name": "Kecamatan Hinai",
+    "alias": "Hinai"
+  },
+  {
+    "code": "12.13.130",
+    "districtCode": "130",
+    "regencyCode": "12.13",
+    "provinceCode": "12",
+    "name": "Kecamatan Secanggang",
+    "alias": "Secanggang"
+  },
+  {
+    "code": "12.13.140",
+    "districtCode": "140",
+    "regencyCode": "12.13",
+    "provinceCode": "12",
+    "name": "Kecamatan Tanjung Pura",
+    "alias": "Tanjung Pura"
+  },
+  {
+    "code": "12.13.150",
+    "districtCode": "150",
+    "regencyCode": "12.13",
+    "provinceCode": "12",
+    "name": "Kecamatan Gebang",
+    "alias": "Gebang"
+  },
+  {
+    "code": "12.13.160",
+    "districtCode": "160",
+    "regencyCode": "12.13",
+    "provinceCode": "12",
+    "name": "Kecamatan Babalan",
+    "alias": "Babalan"
+  },
+  {
+    "code": "12.13.170",
+    "districtCode": "170",
+    "regencyCode": "12.13",
+    "provinceCode": "12",
+    "name": "Kecamatan Sei Lepan",
+    "alias": "Sei Lepan"
+  },
+  {
+    "code": "12.13.180",
+    "districtCode": "180",
+    "regencyCode": "12.13",
+    "provinceCode": "12",
+    "name": "Kecamatan Brandan Barat",
+    "alias": "Brandan Barat"
+  },
+  {
+    "code": "12.13.190",
+    "districtCode": "190",
+    "regencyCode": "12.13",
+    "provinceCode": "12",
+    "name": "Kecamatan Besitang",
+    "alias": "Besitang"
+  },
+  {
+    "code": "12.13.200",
+    "districtCode": "200",
+    "regencyCode": "12.13",
+    "provinceCode": "12",
+    "name": "Kecamatan Pangkalan Susu",
+    "alias": "Pangkalan Susu"
+  },
+  {
+    "code": "12.13.201",
+    "districtCode": "201",
+    "regencyCode": "12.13",
+    "provinceCode": "12",
+    "name": "Kecamatan Pematang Jaya",
+    "alias": "Pematang Jaya"
+  }
+]

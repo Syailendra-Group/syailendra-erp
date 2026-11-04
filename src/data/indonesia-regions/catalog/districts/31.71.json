@@ -1,0 +1,82 @@
+[
+  {
+    "code": "31.71.010",
+    "districtCode": "010",
+    "regencyCode": "31.71",
+    "provinceCode": "31",
+    "name": "Kecamatan Jagakarsa",
+    "alias": "Jagakarsa"
+  },
+  {
+    "code": "31.71.020",
+    "districtCode": "020",
+    "regencyCode": "31.71",
+    "provinceCode": "31",
+    "name": "Kecamatan Pasar Minggu",
+    "alias": "Pasar Minggu"
+  },
+  {
+    "code": "31.71.030",
+    "districtCode": "030",
+    "regencyCode": "31.71",
+    "provinceCode": "31",
+    "name": "Kecamatan Cilandak",
+    "alias": "Cilandak"
+  },
+  {
+    "code": "31.71.040",
+    "districtCode": "040",
+    "regencyCode": "31.71",
+    "provinceCode": "31",
+    "name": "Kecamatan Pesanggrahan",
+    "alias": "Pesanggrahan"
+  },
+  {
+    "code": "31.71.050",
+    "districtCode": "050",
+    "regencyCode": "31.71",
+    "provinceCode": "31",
+    "name": "Kecamatan Kebayoran Lama",
+    "alias": "Kebayoran Lama"
+  },
+  {
+    "code": "31.71.060",
+    "districtCode": "060",
+    "regencyCode": "31.71",
+    "provinceCode": "31",
+    "name": "Kecamatan Kebayoran Baru",
+    "alias": "Kebayoran Baru"
+  },
+  {
+    "code": "31.71.070",
+    "districtCode": "070",
+    "regencyCode": "31.71",
+    "provinceCode": "31",
+    "name": "Kecamatan Mampang Prapatan",
+    "alias": "Mampang Prapatan"
+  },
+  {
+    "code": "31.71.080",
+    "districtCode": "080",
+    "regencyCode": "31.71",
+    "provinceCode": "31",
+    "name": "Kecamatan Pancoran",
+    "alias": "Pancoran"
+  },
+  {
+    "code": "31.71.090",
+    "districtCode": "090",
+    "regencyCode": "31.71",
+    "provinceCode": "31",
+    "name": "Kecamatan Tebet",
+    "alias": "Tebet"
+  },
+  {
+    "code": "31.71.100",
+    "districtCode": "100",
+    "regencyCode": "31.71",
+    "provinceCode": "31",
+    "name": "Kecamatan Setia Budi",
+    "alias": "Setia Budi"
+  }
+]

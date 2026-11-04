@@ -1,0 +1,65 @@
+[
+  {
+    "code": "12.10.061.001",
+    "villageCode": "001",
+    "districtCode": "12.10.061",
+    "name": "Sumbul",
+    "alias": "Sumbul"
+  },
+  {
+    "code": "12.10.061.002",
+    "villageCode": "002",
+    "districtCode": "12.10.061",
+    "name": "Kentara",
+    "alias": "Kentara"
+  },
+  {
+    "code": "12.10.061.003",
+    "villageCode": "003",
+    "districtCode": "12.10.061",
+    "name": "Lae Parira",
+    "alias": "Lae Parira"
+  },
+  {
+    "code": "12.10.061.004",
+    "villageCode": "004",
+    "districtCode": "12.10.061",
+    "name": "Bulu Duri",
+    "alias": "Bulu Duri"
+  },
+  {
+    "code": "12.10.061.005",
+    "villageCode": "005",
+    "districtCode": "12.10.061",
+    "name": "Sempung Polling",
+    "alias": "Sempung Polling"
+  },
+  {
+    "code": "12.10.061.006",
+    "villageCode": "006",
+    "districtCode": "12.10.061",
+    "name": "Pandiangan",
+    "alias": "Pandiangan"
+  },
+  {
+    "code": "12.10.061.007",
+    "villageCode": "007",
+    "districtCode": "12.10.061",
+    "name": "Lumban Sihite",
+    "alias": "Lumban Sihite"
+  },
+  {
+    "code": "12.10.061.008",
+    "villageCode": "008",
+    "districtCode": "12.10.061",
+    "name": "Lumban Toruan",
+    "alias": "Lumban Toruan"
+  },
+  {
+    "code": "12.10.061.009",
+    "villageCode": "009",
+    "districtCode": "12.10.061",
+    "name": "Kaban Julu",
+    "alias": "Kaban Julu"
+  }
+]

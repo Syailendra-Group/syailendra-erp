@@ -1,0 +1,51 @@
+[
+  {
+    "code": "33.14.200.001",
+    "villageCode": "001",
+    "districtCode": "33.14.200",
+    "name": "Japoh",
+    "alias": "Japoh"
+  },
+  {
+    "code": "33.14.200.002",
+    "villageCode": "002",
+    "districtCode": "33.14.200",
+    "name": "Ngepringan",
+    "alias": "Ngepringan"
+  },
+  {
+    "code": "33.14.200.003",
+    "villageCode": "003",
+    "districtCode": "33.14.200",
+    "name": "Mlale",
+    "alias": "Mlale"
+  },
+  {
+    "code": "33.14.200.004",
+    "villageCode": "004",
+    "districtCode": "33.14.200",
+    "name": "Dawung",
+    "alias": "Dawung"
+  },
+  {
+    "code": "33.14.200.005",
+    "villageCode": "005",
+    "districtCode": "33.14.200",
+    "name": "Kandang Sapi",
+    "alias": "Kandang Sapi"
+  },
+  {
+    "code": "33.14.200.006",
+    "villageCode": "006",
+    "districtCode": "33.14.200",
+    "name": "Jenar",
+    "alias": "Jenar"
+  },
+  {
+    "code": "33.14.200.007",
+    "villageCode": "007",
+    "districtCode": "33.14.200",
+    "name": "Banyuurip",
+    "alias": "Banyuurip"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "code": "94.20.041.001",
+    "villageCode": "001",
+    "districtCode": "94.20.041",
+    "name": "Yetty",
+    "alias": "Yetty"
+  },
+  {
+    "code": "94.20.041.002",
+    "villageCode": "002",
+    "districtCode": "94.20.041",
+    "name": "Kriku",
+    "alias": "Kriku"
+  },
+  {
+    "code": "94.20.041.003",
+    "villageCode": "003",
+    "districtCode": "94.20.041",
+    "name": "Kibay",
+    "alias": "Kibay"
+  },
+  {
+    "code": "94.20.041.004",
+    "villageCode": "004",
+    "districtCode": "94.20.041",
+    "name": "Sangke",
+    "alias": "Sangke"
+  },
+  {
+    "code": "94.20.041.005",
+    "villageCode": "005",
+    "districtCode": "94.20.041",
+    "name": "Skofro",
+    "alias": "Skofro"
+  },
+  {
+    "code": "94.20.041.009",
+    "villageCode": "009",
+    "districtCode": "94.20.041",
+    "name": "Suskun",
+    "alias": "Suskun"
+  },
+  {
+    "code": "94.20.041.012",
+    "villageCode": "012",
+    "districtCode": "94.20.041",
+    "name": "Pikere",
+    "alias": "Pikere"
+  },
+  {
+    "code": "94.20.041.013",
+    "villageCode": "013",
+    "districtCode": "94.20.041",
+    "name": "Petewi",
+    "alias": "Petewi"
+  },
+  {
+    "code": "94.20.041.014",
+    "villageCode": "014",
+    "districtCode": "94.20.041",
+    "name": "Amyu",
+    "alias": "Amyu"
+  }
+]

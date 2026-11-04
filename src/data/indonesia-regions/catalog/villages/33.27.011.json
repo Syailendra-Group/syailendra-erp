@@ -1,0 +1,44 @@
+[
+  {
+    "code": "33.27.011.001",
+    "villageCode": "001",
+    "districtCode": "33.27.011",
+    "name": "Pakembaran",
+    "alias": "Pakembaran"
+  },
+  {
+    "code": "33.27.011.002",
+    "villageCode": "002",
+    "districtCode": "33.27.011",
+    "name": "Warungpring",
+    "alias": "Warungpring"
+  },
+  {
+    "code": "33.27.011.003",
+    "villageCode": "003",
+    "districtCode": "33.27.011",
+    "name": "Karangdawa",
+    "alias": "Karangdawa"
+  },
+  {
+    "code": "33.27.011.004",
+    "villageCode": "004",
+    "districtCode": "33.27.011",
+    "name": "Datar",
+    "alias": "Datar"
+  },
+  {
+    "code": "33.27.011.005",
+    "villageCode": "005",
+    "districtCode": "33.27.011",
+    "name": "Cibuyur",
+    "alias": "Cibuyur"
+  },
+  {
+    "code": "33.27.011.006",
+    "villageCode": "006",
+    "districtCode": "33.27.011",
+    "name": "Mereng",
+    "alias": "Mereng"
+  }
+]

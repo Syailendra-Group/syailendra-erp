@@ -1,0 +1,58 @@
+[
+  {
+    "code": "73.07.020.001",
+    "villageCode": "001",
+    "districtCode": "73.07.020",
+    "name": "Batu Belerang",
+    "alias": "Batu Belerang"
+  },
+  {
+    "code": "73.07.020.002",
+    "villageCode": "002",
+    "districtCode": "73.07.020",
+    "name": "Kassi Buleng",
+    "alias": "Kassi Buleng"
+  },
+  {
+    "code": "73.07.020.003",
+    "villageCode": "003",
+    "districtCode": "73.07.020",
+    "name": "Pasir Putih",
+    "alias": "Pasir Putih"
+  },
+  {
+    "code": "73.07.020.004",
+    "villageCode": "004",
+    "districtCode": "73.07.020",
+    "name": "Bonto Sinala",
+    "alias": "Bonto Sinala"
+  },
+  {
+    "code": "73.07.020.005",
+    "villageCode": "005",
+    "districtCode": "73.07.020",
+    "name": "Biji Nangka",
+    "alias": "Biji Nangka"
+  },
+  {
+    "code": "73.07.020.006",
+    "villageCode": "006",
+    "districtCode": "73.07.020",
+    "name": "Barambang",
+    "alias": "Barambang"
+  },
+  {
+    "code": "73.07.020.007",
+    "villageCode": "007",
+    "districtCode": "73.07.020",
+    "name": "Bonto Katute",
+    "alias": "Bonto Katute"
+  },
+  {
+    "code": "73.07.020.008",
+    "villageCode": "008",
+    "districtCode": "73.07.020",
+    "name": "Bonto Tengnga",
+    "alias": "Bonto Tengnga"
+  }
+]

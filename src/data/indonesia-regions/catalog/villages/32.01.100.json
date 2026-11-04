@@ -1,0 +1,93 @@
+[
+  {
+    "code": "32.01.100.001",
+    "villageCode": "001",
+    "districtCode": "32.01.100",
+    "name": "Cileungsi",
+    "alias": "Cileungsi"
+  },
+  {
+    "code": "32.01.100.002",
+    "villageCode": "002",
+    "districtCode": "32.01.100",
+    "name": "Citapen",
+    "alias": "Citapen"
+  },
+  {
+    "code": "32.01.100.003",
+    "villageCode": "003",
+    "districtCode": "32.01.100",
+    "name": "Cibedug",
+    "alias": "Cibedug"
+  },
+  {
+    "code": "32.01.100.004",
+    "villageCode": "004",
+    "districtCode": "32.01.100",
+    "name": "Bojong Murni",
+    "alias": "Bojong Murni"
+  },
+  {
+    "code": "32.01.100.005",
+    "villageCode": "005",
+    "districtCode": "32.01.100",
+    "name": "Jambu Luwuk",
+    "alias": "Jambu Luwuk"
+  },
+  {
+    "code": "32.01.100.006",
+    "villageCode": "006",
+    "districtCode": "32.01.100",
+    "name": "Banjar Sari",
+    "alias": "Banjar Sari"
+  },
+  {
+    "code": "32.01.100.007",
+    "villageCode": "007",
+    "districtCode": "32.01.100",
+    "name": "Banjar Wangi",
+    "alias": "Banjar Wangi"
+  },
+  {
+    "code": "32.01.100.008",
+    "villageCode": "008",
+    "districtCode": "32.01.100",
+    "name": "Bitung Sari",
+    "alias": "Bitung Sari"
+  },
+  {
+    "code": "32.01.100.009",
+    "villageCode": "009",
+    "districtCode": "32.01.100",
+    "name": "Teluk Pinang",
+    "alias": "Teluk Pinang"
+  },
+  {
+    "code": "32.01.100.010",
+    "villageCode": "010",
+    "districtCode": "32.01.100",
+    "name": "Banjar Waru",
+    "alias": "Banjar Waru"
+  },
+  {
+    "code": "32.01.100.011",
+    "villageCode": "011",
+    "districtCode": "32.01.100",
+    "name": "Ciawi",
+    "alias": "Ciawi"
+  },
+  {
+    "code": "32.01.100.012",
+    "villageCode": "012",
+    "districtCode": "32.01.100",
+    "name": "Bendungan",
+    "alias": "Bendungan"
+  },
+  {
+    "code": "32.01.100.013",
+    "villageCode": "013",
+    "districtCode": "32.01.100",
+    "name": "Pandansari",
+    "alias": "Pandansari"
+  }
+]

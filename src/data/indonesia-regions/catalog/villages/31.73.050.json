@@ -1,0 +1,23 @@
+[
+  {
+    "code": "31.73.050.001",
+    "villageCode": "001",
+    "districtCode": "31.73.050",
+    "name": "Rawa Sari",
+    "alias": "Rawa Sari"
+  },
+  {
+    "code": "31.73.050.002",
+    "villageCode": "002",
+    "districtCode": "31.73.050",
+    "name": "Cempaka Putih Timur",
+    "alias": "Cempaka Putih Timur"
+  },
+  {
+    "code": "31.73.050.003",
+    "villageCode": "003",
+    "districtCode": "31.73.050",
+    "name": "Cempaka Putih Barat",
+    "alias": "Cempaka Putih Barat"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "code": "32.05.212.001",
+    "villageCode": "001",
+    "districtCode": "32.05.212",
+    "name": "Sukahurip",
+    "alias": "Sukahurip"
+  },
+  {
+    "code": "32.05.212.002",
+    "villageCode": "002",
+    "districtCode": "32.05.212",
+    "name": "Babakanloa",
+    "alias": "Babakanloa"
+  },
+  {
+    "code": "32.05.212.003",
+    "villageCode": "003",
+    "districtCode": "32.05.212",
+    "name": "Sukarasa",
+    "alias": "Sukarasa"
+  },
+  {
+    "code": "32.05.212.004",
+    "villageCode": "004",
+    "districtCode": "32.05.212",
+    "name": "Cimaragas",
+    "alias": "Cimaragas"
+  },
+  {
+    "code": "32.05.212.005",
+    "villageCode": "005",
+    "districtCode": "32.05.212",
+    "name": "Cihuni",
+    "alias": "Cihuni"
+  },
+  {
+    "code": "32.05.212.006",
+    "villageCode": "006",
+    "districtCode": "32.05.212",
+    "name": "Citangtu",
+    "alias": "Citangtu"
+  },
+  {
+    "code": "32.05.212.007",
+    "villageCode": "007",
+    "districtCode": "32.05.212",
+    "name": "Karangsari",
+    "alias": "Karangsari"
+  },
+  {
+    "code": "32.05.212.008",
+    "villageCode": "008",
+    "districtCode": "32.05.212",
+    "name": "Sukamulya",
+    "alias": "Sukamulya"
+  }
+]

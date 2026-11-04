@@ -1,0 +1,65 @@
+[
+  {
+    "code": "71.71.051.001",
+    "villageCode": "001",
+    "districtCode": "71.71.051",
+    "name": "Karame",
+    "alias": "Karame"
+  },
+  {
+    "code": "71.71.051.002",
+    "villageCode": "002",
+    "districtCode": "71.71.051",
+    "name": "Ketang Baru",
+    "alias": "Ketang Baru"
+  },
+  {
+    "code": "71.71.051.003",
+    "villageCode": "003",
+    "districtCode": "71.71.051",
+    "name": "Wawonasa",
+    "alias": "Wawonasa"
+  },
+  {
+    "code": "71.71.051.004",
+    "villageCode": "004",
+    "districtCode": "71.71.051",
+    "name": "Ternate Baru",
+    "alias": "Ternate Baru"
+  },
+  {
+    "code": "71.71.051.005",
+    "villageCode": "005",
+    "districtCode": "71.71.051",
+    "name": "Ternate Tanjung",
+    "alias": "Ternate Tanjung"
+  },
+  {
+    "code": "71.71.051.006",
+    "villageCode": "006",
+    "districtCode": "71.71.051",
+    "name": "Kombos Barat",
+    "alias": "Kombos Barat"
+  },
+  {
+    "code": "71.71.051.007",
+    "villageCode": "007",
+    "districtCode": "71.71.051",
+    "name": "Kombos Timur",
+    "alias": "Kombos Timur"
+  },
+  {
+    "code": "71.71.051.008",
+    "villageCode": "008",
+    "districtCode": "71.71.051",
+    "name": "Singkil Satu",
+    "alias": "Singkil Satu"
+  },
+  {
+    "code": "71.71.051.009",
+    "villageCode": "009",
+    "districtCode": "71.71.051",
+    "name": "Singkil Dua",
+    "alias": "Singkil Dua"
+  }
+]

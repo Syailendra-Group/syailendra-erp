@@ -1,0 +1,72 @@
+[
+  {
+    "code": "97.04.350.001",
+    "villageCode": "001",
+    "districtCode": "97.04.350",
+    "name": "Numba",
+    "alias": "Numba"
+  },
+  {
+    "code": "97.04.350.002",
+    "villageCode": "002",
+    "districtCode": "97.04.350",
+    "name": "Yiragame",
+    "alias": "Yiragame"
+  },
+  {
+    "code": "97.04.350.003",
+    "villageCode": "003",
+    "districtCode": "97.04.350",
+    "name": "Tingwineri",
+    "alias": "Tingwineri"
+  },
+  {
+    "code": "97.04.350.004",
+    "villageCode": "004",
+    "districtCode": "97.04.350",
+    "name": "Guniki",
+    "alias": "Guniki"
+  },
+  {
+    "code": "97.04.350.005",
+    "villageCode": "005",
+    "districtCode": "97.04.350",
+    "name": "Baliminggi",
+    "alias": "Baliminggi"
+  },
+  {
+    "code": "97.04.350.006",
+    "villageCode": "006",
+    "districtCode": "97.04.350",
+    "name": "Kuma",
+    "alias": "Kuma"
+  },
+  {
+    "code": "97.04.350.007",
+    "villageCode": "007",
+    "districtCode": "97.04.350",
+    "name": "Yugumena",
+    "alias": "Yugumena"
+  },
+  {
+    "code": "97.04.350.008",
+    "villageCode": "008",
+    "districtCode": "97.04.350",
+    "name": "Keragigelok",
+    "alias": "Keragigelok"
+  },
+  {
+    "code": "97.04.350.009",
+    "villageCode": "009",
+    "districtCode": "97.04.350",
+    "name": "Yalogo",
+    "alias": "Yalogo"
+  },
+  {
+    "code": "97.04.350.010",
+    "villageCode": "010",
+    "districtCode": "97.04.350",
+    "name": "Jinuwanu",
+    "alias": "Jinuwanu"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "code": "32.02.212.001",
+    "villageCode": "001",
+    "districtCode": "32.02.212",
+    "name": "Cijengkol",
+    "alias": "Cijengkol"
+  },
+  {
+    "code": "32.02.212.002",
+    "villageCode": "002",
+    "districtCode": "32.02.212",
+    "name": "Mekarjaya",
+    "alias": "Mekarjaya"
+  },
+  {
+    "code": "32.02.212.003",
+    "villageCode": "003",
+    "districtCode": "32.02.212",
+    "name": "Talaga",
+    "alias": "Talaga"
+  },
+  {
+    "code": "32.02.212.004",
+    "villageCode": "004",
+    "districtCode": "32.02.212",
+    "name": "Caringin Kulon",
+    "alias": "Caringin Kulon"
+  },
+  {
+    "code": "32.02.212.005",
+    "villageCode": "005",
+    "districtCode": "32.02.212",
+    "name": "Caringin Wetan",
+    "alias": "Caringin Wetan"
+  },
+  {
+    "code": "32.02.212.006",
+    "villageCode": "006",
+    "districtCode": "32.02.212",
+    "name": "Seuseupan",
+    "alias": "Seuseupan"
+  },
+  {
+    "code": "32.02.212.007",
+    "villageCode": "007",
+    "districtCode": "32.02.212",
+    "name": "Sukamulya",
+    "alias": "Sukamulya"
+  },
+  {
+    "code": "32.02.212.008",
+    "villageCode": "008",
+    "districtCode": "32.02.212",
+    "name": "Cikembang",
+    "alias": "Cikembang"
+  },
+  {
+    "code": "32.02.212.009",
+    "villageCode": "009",
+    "districtCode": "32.02.212",
+    "name": "Pasirdatar Indah",
+    "alias": "Pasirdatar Indah"
+  }
+]

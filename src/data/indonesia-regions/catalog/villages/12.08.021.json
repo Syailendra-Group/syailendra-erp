@@ -1,0 +1,65 @@
+[
+  {
+    "code": "12.08.021.001",
+    "villageCode": "001",
+    "districtCode": "12.08.021",
+    "name": "Tangga",
+    "alias": "Tangga"
+  },
+  {
+    "code": "12.08.021.002",
+    "villageCode": "002",
+    "districtCode": "12.08.021",
+    "name": "Lobu Rappa",
+    "alias": "Lobu Rappa"
+  },
+  {
+    "code": "12.08.021.003",
+    "villageCode": "003",
+    "districtCode": "12.08.021",
+    "name": "Marjanji Aceh",
+    "alias": "Marjanji Aceh"
+  },
+  {
+    "code": "12.08.021.004",
+    "villageCode": "004",
+    "districtCode": "12.08.021",
+    "name": "Aek Bamban",
+    "alias": "Aek Bamban"
+  },
+  {
+    "code": "12.08.021.005",
+    "villageCode": "005",
+    "districtCode": "12.08.021",
+    "name": "Perkebunan Bandar Pulau",
+    "alias": "Perkebunan Bandar Pulau"
+  },
+  {
+    "code": "12.08.021.006",
+    "villageCode": "006",
+    "districtCode": "12.08.021",
+    "name": "Aek Songsongan",
+    "alias": "Aek Songsongan"
+  },
+  {
+    "code": "12.08.021.007",
+    "villageCode": "007",
+    "districtCode": "12.08.021",
+    "name": "Perkebunan Bandar Selamat",
+    "alias": "Perkebunan Bandar Selamat"
+  },
+  {
+    "code": "12.08.021.008",
+    "villageCode": "008",
+    "districtCode": "12.08.021",
+    "name": "Mekar Marjanji",
+    "alias": "Mekar Marjanji"
+  },
+  {
+    "code": "12.08.021.009",
+    "villageCode": "009",
+    "districtCode": "12.08.021",
+    "name": "Situnjak",
+    "alias": "Situnjak"
+  }
+]

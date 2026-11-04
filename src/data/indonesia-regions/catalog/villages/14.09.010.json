@@ -1,0 +1,128 @@
+[
+  {
+    "code": "14.09.010.006",
+    "villageCode": "006",
+    "districtCode": "14.09.010",
+    "name": "Putat",
+    "alias": "Putat"
+  },
+  {
+    "code": "14.09.010.009",
+    "villageCode": "009",
+    "districtCode": "14.09.010",
+    "name": "Sekeladi",
+    "alias": "Sekeladi"
+  },
+  {
+    "code": "14.09.010.010",
+    "villageCode": "010",
+    "districtCode": "14.09.010",
+    "name": "Sintong",
+    "alias": "Sintong"
+  },
+  {
+    "code": "14.09.010.011",
+    "villageCode": "011",
+    "districtCode": "14.09.010",
+    "name": "Teluk Mega",
+    "alias": "Teluk Mega"
+  },
+  {
+    "code": "14.09.010.012",
+    "villageCode": "012",
+    "districtCode": "14.09.010",
+    "name": "Sedinginan",
+    "alias": "Sedinginan"
+  },
+  {
+    "code": "14.09.010.013",
+    "villageCode": "013",
+    "districtCode": "14.09.010",
+    "name": "Banjar Xii",
+    "alias": "Banjar Xii"
+  },
+  {
+    "code": "14.09.010.014",
+    "villageCode": "014",
+    "districtCode": "14.09.010",
+    "name": "Rantau Bais",
+    "alias": "Rantau Bais"
+  },
+  {
+    "code": "14.09.010.015",
+    "villageCode": "015",
+    "districtCode": "14.09.010",
+    "name": "Ujung Tanjung",
+    "alias": "Ujung Tanjung"
+  },
+  {
+    "code": "14.09.010.016",
+    "villageCode": "016",
+    "districtCode": "14.09.010",
+    "name": "Mumugo",
+    "alias": "Mumugo"
+  },
+  {
+    "code": "14.09.010.017",
+    "villageCode": "017",
+    "districtCode": "14.09.010",
+    "name": "Teluk Berembun",
+    "alias": "Teluk Berembun"
+  },
+  {
+    "code": "14.09.010.018",
+    "villageCode": "018",
+    "districtCode": "14.09.010",
+    "name": "Menggala Sakti",
+    "alias": "Menggala Sakti"
+  },
+  {
+    "code": "14.09.010.019",
+    "villageCode": "019",
+    "districtCode": "14.09.010",
+    "name": "Menggala Sempurna",
+    "alias": "Menggala Sempurna"
+  },
+  {
+    "code": "14.09.010.020",
+    "villageCode": "020",
+    "districtCode": "14.09.010",
+    "name": "Sekeladi Hilir",
+    "alias": "Sekeladi Hilir"
+  },
+  {
+    "code": "14.09.010.021",
+    "villageCode": "021",
+    "districtCode": "14.09.010",
+    "name": "Sintong Makmur",
+    "alias": "Sintong Makmur"
+  },
+  {
+    "code": "14.09.010.022",
+    "villageCode": "022",
+    "districtCode": "14.09.010",
+    "name": "Sintong Bakti",
+    "alias": "Sintong Bakti"
+  },
+  {
+    "code": "14.09.010.023",
+    "villageCode": "023",
+    "districtCode": "14.09.010",
+    "name": "Sintong Pusaka",
+    "alias": "Sintong Pusaka"
+  },
+  {
+    "code": "14.09.010.024",
+    "villageCode": "024",
+    "districtCode": "14.09.010",
+    "name": "Menggala Teladan",
+    "alias": "Menggala Teladan"
+  },
+  {
+    "code": "14.09.010.025",
+    "villageCode": "025",
+    "districtCode": "14.09.010",
+    "name": "Cempedak Rahuk",
+    "alias": "Cempedak Rahuk"
+  }
+]

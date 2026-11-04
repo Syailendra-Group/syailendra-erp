@@ -1,0 +1,51 @@
+[
+  {
+    "code": "92.05.230.001",
+    "villageCode": "001",
+    "districtCode": "92.05.230",
+    "name": "Atafrumek",
+    "alias": "Atafrumek"
+  },
+  {
+    "code": "92.05.230.002",
+    "villageCode": "002",
+    "districtCode": "92.05.230",
+    "name": "Ifiam",
+    "alias": "Ifiam"
+  },
+  {
+    "code": "92.05.230.003",
+    "villageCode": "003",
+    "districtCode": "92.05.230",
+    "name": "Aifamas",
+    "alias": "Aifamas"
+  },
+  {
+    "code": "92.05.230.004",
+    "villageCode": "004",
+    "districtCode": "92.05.230",
+    "name": "Wufmana",
+    "alias": "Wufmana"
+  },
+  {
+    "code": "92.05.230.005",
+    "villageCode": "005",
+    "districtCode": "92.05.230",
+    "name": "Miri",
+    "alias": "Miri"
+  },
+  {
+    "code": "92.05.230.006",
+    "villageCode": "006",
+    "districtCode": "92.05.230",
+    "name": "Meinad",
+    "alias": "Meinad"
+  },
+  {
+    "code": "92.05.230.007",
+    "villageCode": "007",
+    "districtCode": "92.05.230",
+    "name": "Meis",
+    "alias": "Meis"
+  }
+]

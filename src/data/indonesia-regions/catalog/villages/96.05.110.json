@@ -1,0 +1,79 @@
+[
+  {
+    "code": "96.05.110.001",
+    "villageCode": "001",
+    "districtCode": "96.05.110",
+    "name": "Miyokepi",
+    "alias": "Miyokepi"
+  },
+  {
+    "code": "96.05.110.002",
+    "villageCode": "002",
+    "districtCode": "96.05.110",
+    "name": "Wiyaugi",
+    "alias": "Wiyaugi"
+  },
+  {
+    "code": "96.05.110.003",
+    "villageCode": "003",
+    "districtCode": "96.05.110",
+    "name": "Obaya Dimi",
+    "alias": "Obaya Dimi"
+  },
+  {
+    "code": "96.05.110.004",
+    "villageCode": "004",
+    "districtCode": "96.05.110",
+    "name": "Eyapouda",
+    "alias": "Eyapouda"
+  },
+  {
+    "code": "96.05.110.005",
+    "villageCode": "005",
+    "districtCode": "96.05.110",
+    "name": "Jigitopa Timur",
+    "alias": "Jigitopa Timur"
+  },
+  {
+    "code": "96.05.110.006",
+    "villageCode": "006",
+    "districtCode": "96.05.110",
+    "name": "Wegema",
+    "alias": "Wegema"
+  },
+  {
+    "code": "96.05.110.007",
+    "villageCode": "007",
+    "districtCode": "96.05.110",
+    "name": "Dokoneida",
+    "alias": "Dokoneida"
+  },
+  {
+    "code": "96.05.110.008",
+    "villageCode": "008",
+    "districtCode": "96.05.110",
+    "name": "Ndeotadi",
+    "alias": "Ndeotadi"
+  },
+  {
+    "code": "96.05.110.009",
+    "villageCode": "009",
+    "districtCode": "96.05.110",
+    "name": "Bayabiru",
+    "alias": "Bayabiru"
+  },
+  {
+    "code": "96.05.110.010",
+    "villageCode": "010",
+    "districtCode": "96.05.110",
+    "name": "Dauwodide",
+    "alias": "Dauwodide"
+  },
+  {
+    "code": "96.05.110.011",
+    "villageCode": "011",
+    "districtCode": "96.05.110",
+    "name": "Nomouwodide",
+    "alias": "Nomouwodide"
+  }
+]

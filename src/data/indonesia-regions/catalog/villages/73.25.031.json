@@ -1,0 +1,58 @@
+[
+  {
+    "code": "73.25.031.003",
+    "villageCode": "003",
+    "districtCode": "73.25.031",
+    "name": "Manunggal",
+    "alias": "Manunggal"
+  },
+  {
+    "code": "73.25.031.004",
+    "villageCode": "004",
+    "districtCode": "73.25.031",
+    "name": "Alam Buana",
+    "alias": "Alam Buana"
+  },
+  {
+    "code": "73.25.031.005",
+    "villageCode": "005",
+    "districtCode": "73.25.031",
+    "name": "Cendana Hitam",
+    "alias": "Cendana Hitam"
+  },
+  {
+    "code": "73.25.031.006",
+    "villageCode": "006",
+    "districtCode": "73.25.031",
+    "name": "Kertaraharjo",
+    "alias": "Kertaraharjo"
+  },
+  {
+    "code": "73.25.031.007",
+    "villageCode": "007",
+    "districtCode": "73.25.031",
+    "name": "Margomulyo",
+    "alias": "Margomulyo"
+  },
+  {
+    "code": "73.25.031.018",
+    "villageCode": "018",
+    "districtCode": "73.25.031",
+    "name": "Purwosari",
+    "alias": "Purwosari"
+  },
+  {
+    "code": "73.25.031.019",
+    "villageCode": "019",
+    "districtCode": "73.25.031",
+    "name": "Patengko",
+    "alias": "Patengko"
+  },
+  {
+    "code": "73.25.031.020",
+    "villageCode": "020",
+    "districtCode": "73.25.031",
+    "name": "Cendana Hitam Timur",
+    "alias": "Cendana Hitam Timur"
+  }
+]

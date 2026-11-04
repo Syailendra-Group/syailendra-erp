@@ -1,0 +1,79 @@
+[
+  {
+    "code": "33.20.060.001",
+    "villageCode": "001",
+    "districtCode": "33.20.060",
+    "name": "Ngasem",
+    "alias": "Ngasem"
+  },
+  {
+    "code": "33.20.060.002",
+    "villageCode": "002",
+    "districtCode": "33.20.060",
+    "name": "Geneng",
+    "alias": "Geneng"
+  },
+  {
+    "code": "33.20.060.003",
+    "villageCode": "003",
+    "districtCode": "33.20.060",
+    "name": "Raguklampitan",
+    "alias": "Raguklampitan"
+  },
+  {
+    "code": "33.20.060.004",
+    "villageCode": "004",
+    "districtCode": "33.20.060",
+    "name": "Mindahan Kidul",
+    "alias": "Mindahan Kidul"
+  },
+  {
+    "code": "33.20.060.005",
+    "villageCode": "005",
+    "districtCode": "33.20.060",
+    "name": "Mindahan",
+    "alias": "Mindahan"
+  },
+  {
+    "code": "33.20.060.006",
+    "villageCode": "006",
+    "districtCode": "33.20.060",
+    "name": "Somosari",
+    "alias": "Somosari"
+  },
+  {
+    "code": "33.20.060.007",
+    "villageCode": "007",
+    "districtCode": "33.20.060",
+    "name": "Batealit",
+    "alias": "Batealit"
+  },
+  {
+    "code": "33.20.060.008",
+    "villageCode": "008",
+    "districtCode": "33.20.060",
+    "name": "Bringin",
+    "alias": "Bringin"
+  },
+  {
+    "code": "33.20.060.009",
+    "villageCode": "009",
+    "districtCode": "33.20.060",
+    "name": "Bantrung",
+    "alias": "Bantrung"
+  },
+  {
+    "code": "33.20.060.010",
+    "villageCode": "010",
+    "districtCode": "33.20.060",
+    "name": "Bawu",
+    "alias": "Bawu"
+  },
+  {
+    "code": "33.20.060.011",
+    "villageCode": "011",
+    "districtCode": "33.20.060",
+    "name": "Pekalongan",
+    "alias": "Pekalongan"
+  }
+]

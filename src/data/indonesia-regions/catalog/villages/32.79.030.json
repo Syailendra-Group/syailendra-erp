@@ -1,0 +1,58 @@
+[
+  {
+    "code": "32.79.030.001",
+    "villageCode": "001",
+    "districtCode": "32.79.030",
+    "name": "Binangun",
+    "alias": "Binangun"
+  },
+  {
+    "code": "32.79.030.002",
+    "villageCode": "002",
+    "districtCode": "32.79.030",
+    "name": "Batulawang",
+    "alias": "Batulawang"
+  },
+  {
+    "code": "32.79.030.003",
+    "villageCode": "003",
+    "districtCode": "32.79.030",
+    "name": "Karyamukti",
+    "alias": "Karyamukti"
+  },
+  {
+    "code": "32.79.030.004",
+    "villageCode": "004",
+    "districtCode": "32.79.030",
+    "name": "Mulyasari",
+    "alias": "Mulyasari"
+  },
+  {
+    "code": "32.79.030.005",
+    "villageCode": "005",
+    "districtCode": "32.79.030",
+    "name": "Pataruman",
+    "alias": "Pataruman"
+  },
+  {
+    "code": "32.79.030.006",
+    "villageCode": "006",
+    "districtCode": "32.79.030",
+    "name": "Hegarsari",
+    "alias": "Hegarsari"
+  },
+  {
+    "code": "32.79.030.007",
+    "villageCode": "007",
+    "districtCode": "32.79.030",
+    "name": "Sukamukti",
+    "alias": "Sukamukti"
+  },
+  {
+    "code": "32.79.030.008",
+    "villageCode": "008",
+    "districtCode": "32.79.030",
+    "name": "Sinartanjung",
+    "alias": "Sinartanjung"
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "code": "96.08.250.001",
+    "villageCode": "001",
+    "districtCode": "96.08.250",
+    "name": "Yawor",
+    "alias": "Yawor"
+  },
+  {
+    "code": "96.08.250.002",
+    "villageCode": "002",
+    "districtCode": "96.08.250",
+    "name": "Mepar",
+    "alias": "Mepar"
+  },
+  {
+    "code": "96.08.250.003",
+    "villageCode": "003",
+    "districtCode": "96.08.250",
+    "name": "Oum",
+    "alias": "Oum"
+  },
+  {
+    "code": "96.08.250.004",
+    "villageCode": "004",
+    "districtCode": "96.08.250",
+    "name": "Nume",
+    "alias": "Nume"
+  },
+  {
+    "code": "96.08.250.005",
+    "villageCode": "005",
+    "districtCode": "96.08.250",
+    "name": "Woraluk",
+    "alias": "Woraluk"
+  },
+  {
+    "code": "96.08.250.006",
+    "villageCode": "006",
+    "districtCode": "96.08.250",
+    "name": "Wurina",
+    "alias": "Wurina"
+  },
+  {
+    "code": "96.08.250.007",
+    "villageCode": "007",
+    "districtCode": "96.08.250",
+    "name": "Anebalui",
+    "alias": "Anebalui"
+  },
+  {
+    "code": "96.08.250.008",
+    "villageCode": "008",
+    "districtCode": "96.08.250",
+    "name": "Pagolome",
+    "alias": "Pagolome"
+  },
+  {
+    "code": "96.08.250.009",
+    "villageCode": "009",
+    "districtCode": "96.08.250",
+    "name": "Tombok",
+    "alias": "Tombok"
+  },
+  {
+    "code": "96.08.250.010",
+    "villageCode": "010",
+    "districtCode": "96.08.250",
+    "name": "Kering",
+    "alias": "Kering"
+  },
+  {
+    "code": "96.08.250.011",
+    "villageCode": "011",
+    "districtCode": "96.08.250",
+    "name": "Mayongga",
+    "alias": "Mayongga"
+  },
+  {
+    "code": "96.08.250.012",
+    "villageCode": "012",
+    "districtCode": "96.08.250",
+    "name": "Akwipaga",
+    "alias": "Akwipaga"
+  },
+  {
+    "code": "96.08.250.013",
+    "villageCode": "013",
+    "districtCode": "96.08.250",
+    "name": "Onendu",
+    "alias": "Onendu"
+  }
+]

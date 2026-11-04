@@ -1,0 +1,98 @@
+[
+  {
+    "code": "12.20.010",
+    "districtCode": "010",
+    "regencyCode": "12.20",
+    "provinceCode": "12",
+    "name": "Kecamatan Batang Onang",
+    "alias": "Batang Onang"
+  },
+  {
+    "code": "12.20.020",
+    "districtCode": "020",
+    "regencyCode": "12.20",
+    "provinceCode": "12",
+    "name": "Kecamatan Padang Bolak Julu",
+    "alias": "Padang Bolak Julu"
+  },
+  {
+    "code": "12.20.030",
+    "districtCode": "030",
+    "regencyCode": "12.20",
+    "provinceCode": "12",
+    "name": "Kecamatan Portibi",
+    "alias": "Portibi"
+  },
+  {
+    "code": "12.20.040",
+    "districtCode": "040",
+    "regencyCode": "12.20",
+    "provinceCode": "12",
+    "name": "Kecamatan Padang Bolak",
+    "alias": "Padang Bolak"
+  },
+  {
+    "code": "12.20.041",
+    "districtCode": "041",
+    "regencyCode": "12.20",
+    "provinceCode": "12",
+    "name": "Kecamatan Padang Bolak Tenggara",
+    "alias": "Padang Bolak Tenggara"
+  },
+  {
+    "code": "12.20.050",
+    "districtCode": "050",
+    "regencyCode": "12.20",
+    "provinceCode": "12",
+    "name": "Kecamatan Simangambat",
+    "alias": "Simangambat"
+  },
+  {
+    "code": "12.20.051",
+    "districtCode": "051",
+    "regencyCode": "12.20",
+    "provinceCode": "12",
+    "name": "Kecamatan Ujung Batu",
+    "alias": "Ujung Batu"
+  },
+  {
+    "code": "12.20.060",
+    "districtCode": "060",
+    "regencyCode": "12.20",
+    "provinceCode": "12",
+    "name": "Kecamatan Halongonan",
+    "alias": "Halongonan"
+  },
+  {
+    "code": "12.20.061",
+    "districtCode": "061",
+    "regencyCode": "12.20",
+    "provinceCode": "12",
+    "name": "Kecamatan Halongonan Timur",
+    "alias": "Halongonan Timur"
+  },
+  {
+    "code": "12.20.070",
+    "districtCode": "070",
+    "regencyCode": "12.20",
+    "provinceCode": "12",
+    "name": "Kecamatan Dolok",
+    "alias": "Dolok"
+  },
+  {
+    "code": "12.20.080",
+    "districtCode": "080",
+    "regencyCode": "12.20",
+    "provinceCode": "12",
+    "name": "Kecamatan Dolok Sigompulon",
+    "alias": "Dolok Sigompulon"
+  },
+  {
+    "code": "12.20.090",
+    "districtCode": "090",
+    "regencyCode": "12.20",
+    "provinceCode": "12",
+    "name": "Kecamatan Hulu Sihapas",
+    "alias": "Hulu Sihapas"
+  }
+]

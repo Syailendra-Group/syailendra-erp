@@ -1,0 +1,191 @@
+[
+  {
+    "code": "11.05.090.001",
+    "villageCode": "001",
+    "districtCode": "11.05.090",
+    "name": "Buket Tiga",
+    "alias": "Buket Tiga"
+  },
+  {
+    "code": "11.05.090.002",
+    "villageCode": "002",
+    "districtCode": "11.05.090",
+    "name": "Benteng",
+    "alias": "Benteng"
+  },
+  {
+    "code": "11.05.090.003",
+    "villageCode": "003",
+    "districtCode": "11.05.090",
+    "name": "Afd.Ii Buket",
+    "alias": "Afd.Ii Buket"
+  },
+  {
+    "code": "11.05.090.004",
+    "villageCode": "004",
+    "districtCode": "11.05.090",
+    "name": "Alue Drien",
+    "alias": "Alue Drien"
+  },
+  {
+    "code": "11.05.090.005",
+    "villageCode": "005",
+    "districtCode": "11.05.090",
+    "name": "Alue Canang",
+    "alias": "Alue Canang"
+  },
+  {
+    "code": "11.05.090.006",
+    "villageCode": "006",
+    "districtCode": "11.05.090",
+    "name": "Jambur Labu",
+    "alias": "Jambur Labu"
+  },
+  {
+    "code": "11.05.090.007",
+    "villageCode": "007",
+    "districtCode": "11.05.090",
+    "name": "Alue Buloh",
+    "alias": "Alue Buloh"
+  },
+  {
+    "code": "11.05.090.008",
+    "villageCode": "008",
+    "districtCode": "11.05.090",
+    "name": "Peutow",
+    "alias": "Peutow"
+  },
+  {
+    "code": "11.05.090.009",
+    "villageCode": "009",
+    "districtCode": "11.05.090",
+    "name": "Kemuning Hulu",
+    "alias": "Kemuning Hulu"
+  },
+  {
+    "code": "11.05.090.010",
+    "villageCode": "010",
+    "districtCode": "11.05.090",
+    "name": "Alue Teh",
+    "alias": "Alue Teh"
+  },
+  {
+    "code": "11.05.090.011",
+    "villageCode": "011",
+    "districtCode": "11.05.090",
+    "name": "Paya Tampah",
+    "alias": "Paya Tampah"
+  },
+  {
+    "code": "11.05.090.012",
+    "villageCode": "012",
+    "districtCode": "11.05.090",
+    "name": "Paya Bili Ii",
+    "alias": "Paya Bili Ii"
+  },
+  {
+    "code": "11.05.090.013",
+    "villageCode": "013",
+    "districtCode": "11.05.090",
+    "name": "Paya Rambong",
+    "alias": "Paya Rambong"
+  },
+  {
+    "code": "11.05.090.014",
+    "villageCode": "014",
+    "districtCode": "11.05.090",
+    "name": "Alue Gadeng Satu",
+    "alias": "Alue Gadeng Satu"
+  },
+  {
+    "code": "11.05.090.015",
+    "villageCode": "015",
+    "districtCode": "11.05.090",
+    "name": "Birem Rayeuk",
+    "alias": "Birem Rayeuk"
+  },
+  {
+    "code": "11.05.090.016",
+    "villageCode": "016",
+    "districtCode": "11.05.090",
+    "name": "Keude Birem",
+    "alias": "Keude Birem"
+  },
+  {
+    "code": "11.05.090.017",
+    "villageCode": "017",
+    "districtCode": "11.05.090",
+    "name": "Aramiyah",
+    "alias": "Aramiyah"
+  },
+  {
+    "code": "11.05.090.018",
+    "villageCode": "018",
+    "districtCode": "11.05.090",
+    "name": "Paya Bili I",
+    "alias": "Paya Bili I"
+  },
+  {
+    "code": "11.05.090.019",
+    "villageCode": "019",
+    "districtCode": "11.05.090",
+    "name": "Merbau Ii",
+    "alias": "Merbau Ii"
+  },
+  {
+    "code": "11.05.090.020",
+    "villageCode": "020",
+    "districtCode": "11.05.090",
+    "name": "Paya Peulawi",
+    "alias": "Paya Peulawi"
+  },
+  {
+    "code": "11.05.090.021",
+    "villageCode": "021",
+    "districtCode": "11.05.090",
+    "name": "Bayeun",
+    "alias": "Bayeun"
+  },
+  {
+    "code": "11.05.090.022",
+    "villageCode": "022",
+    "districtCode": "11.05.090",
+    "name": "Alue Gadeng",
+    "alias": "Alue Gadeng"
+  },
+  {
+    "code": "11.05.090.023",
+    "villageCode": "023",
+    "districtCode": "11.05.090",
+    "name": "Perk. Alue Gadeng Dua",
+    "alias": "Perk. Alue Gadeng Dua"
+  },
+  {
+    "code": "11.05.090.024",
+    "villageCode": "024",
+    "districtCode": "11.05.090",
+    "name": "Bukit Seulemak",
+    "alias": "Bukit Seulemak"
+  },
+  {
+    "code": "11.05.090.025",
+    "villageCode": "025",
+    "districtCode": "11.05.090",
+    "name": "Blang Tualang",
+    "alias": "Blang Tualang"
+  },
+  {
+    "code": "11.05.090.026",
+    "villageCode": "026",
+    "districtCode": "11.05.090",
+    "name": "Alue Sentang",
+    "alias": "Alue Sentang"
+  },
+  {
+    "code": "11.05.090.027",
+    "villageCode": "027",
+    "districtCode": "11.05.090",
+    "name": "Alue Nyamuk",
+    "alias": "Alue Nyamuk"
+  }
+]

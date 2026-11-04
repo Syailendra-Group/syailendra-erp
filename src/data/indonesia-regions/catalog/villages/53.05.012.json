@@ -1,0 +1,44 @@
+[
+  {
+    "code": "53.05.012.001",
+    "villageCode": "001",
+    "districtCode": "53.05.012",
+    "name": "Oelneke",
+    "alias": "Oelneke"
+  },
+  {
+    "code": "53.05.012.002",
+    "villageCode": "002",
+    "districtCode": "53.05.012",
+    "name": "Oetulu",
+    "alias": "Oetulu"
+  },
+  {
+    "code": "53.05.012.003",
+    "villageCode": "003",
+    "districtCode": "53.05.012",
+    "name": "Ainan",
+    "alias": "Ainan"
+  },
+  {
+    "code": "53.05.012.004",
+    "villageCode": "004",
+    "districtCode": "53.05.012",
+    "name": "Oeolo",
+    "alias": "Oeolo"
+  },
+  {
+    "code": "53.05.012.005",
+    "villageCode": "005",
+    "districtCode": "53.05.012",
+    "name": "Bisafe",
+    "alias": "Bisafe"
+  },
+  {
+    "code": "53.05.012.006",
+    "villageCode": "006",
+    "districtCode": "53.05.012",
+    "name": "Batnes",
+    "alias": "Batnes"
+  }
+]

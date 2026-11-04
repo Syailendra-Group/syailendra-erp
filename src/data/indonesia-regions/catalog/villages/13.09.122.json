@@ -1,0 +1,30 @@
+[
+  {
+    "code": "13.09.122.001",
+    "villageCode": "001",
+    "districtCode": "13.09.122",
+    "name": "Lubuak Gadang",
+    "alias": "Lubuak Gadang"
+  },
+  {
+    "code": "13.09.122.002",
+    "villageCode": "002",
+    "districtCode": "13.09.122",
+    "name": "Pintu Padang",
+    "alias": "Pintu Padang"
+  },
+  {
+    "code": "13.09.122.003",
+    "villageCode": "003",
+    "districtCode": "13.09.122",
+    "name": "Muaro Tais",
+    "alias": "Muaro Tais"
+  },
+  {
+    "code": "13.09.122.004",
+    "villageCode": "004",
+    "districtCode": "13.09.122",
+    "name": "Nagari Muaro Tais Koto Gadang",
+    "alias": "Nagari Muaro Tais Koto Gadang"
+  }
+]

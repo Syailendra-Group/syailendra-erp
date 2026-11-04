@@ -1,0 +1,65 @@
+[
+  {
+    "code": "92.02.050.001",
+    "villageCode": "001",
+    "districtCode": "92.02.050",
+    "name": "Ninjimor",
+    "alias": "Ninjimor"
+  },
+  {
+    "code": "92.02.050.002",
+    "villageCode": "002",
+    "districtCode": "92.02.050",
+    "name": "Sakamirin",
+    "alias": "Sakamirin"
+  },
+  {
+    "code": "92.02.050.003",
+    "villageCode": "003",
+    "districtCode": "92.02.050",
+    "name": "Wonosobo",
+    "alias": "Wonosobo"
+  },
+  {
+    "code": "92.02.050.004",
+    "villageCode": "004",
+    "districtCode": "92.02.050",
+    "name": "Klasari",
+    "alias": "Klasari"
+  },
+  {
+    "code": "92.02.050.005",
+    "villageCode": "005",
+    "districtCode": "92.02.050",
+    "name": "Klasof",
+    "alias": "Klasof"
+  },
+  {
+    "code": "92.02.050.006",
+    "villageCode": "006",
+    "districtCode": "92.02.050",
+    "name": "Klawoton",
+    "alias": "Klawoton"
+  },
+  {
+    "code": "92.02.050.007",
+    "villageCode": "007",
+    "districtCode": "92.02.050",
+    "name": "Klafdalim",
+    "alias": "Klafdalim"
+  },
+  {
+    "code": "92.02.050.008",
+    "villageCode": "008",
+    "districtCode": "92.02.050",
+    "name": "Klaforo",
+    "alias": "Klaforo"
+  },
+  {
+    "code": "92.02.050.009",
+    "villageCode": "009",
+    "districtCode": "92.02.050",
+    "name": "Masmili",
+    "alias": "Masmili"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "code": "97.08.160.001",
+    "villageCode": "001",
+    "districtCode": "97.08.160",
+    "name": "Weime",
+    "alias": "Weime"
+  },
+  {
+    "code": "97.08.160.002",
+    "villageCode": "002",
+    "districtCode": "97.08.160",
+    "name": "Taramlu",
+    "alias": "Taramlu"
+  },
+  {
+    "code": "97.08.160.003",
+    "villageCode": "003",
+    "districtCode": "97.08.160",
+    "name": "Merpasikne",
+    "alias": "Merpasikne"
+  },
+  {
+    "code": "97.08.160.004",
+    "villageCode": "004",
+    "districtCode": "97.08.160",
+    "name": "Daluban",
+    "alias": "Daluban"
+  },
+  {
+    "code": "97.08.160.005",
+    "villageCode": "005",
+    "districtCode": "97.08.160",
+    "name": "Nomteren",
+    "alias": "Nomteren"
+  },
+  {
+    "code": "97.08.160.006",
+    "villageCode": "006",
+    "districtCode": "97.08.160",
+    "name": "Mekdamgon",
+    "alias": "Mekdamgon"
+  },
+  {
+    "code": "97.08.160.007",
+    "villageCode": "007",
+    "districtCode": "97.08.160",
+    "name": "Youlban",
+    "alias": "Youlban"
+  },
+  {
+    "code": "97.08.160.008",
+    "villageCode": "008",
+    "districtCode": "97.08.160",
+    "name": "Meryang",
+    "alias": "Meryang"
+  },
+  {
+    "code": "97.08.160.009",
+    "villageCode": "009",
+    "districtCode": "97.08.160",
+    "name": "Limrepasikme",
+    "alias": "Limrepasikme"
+  }
+]

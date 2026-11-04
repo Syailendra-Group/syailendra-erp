@@ -1,0 +1,65 @@
+[
+  {
+    "code": "32.05.110.005",
+    "villageCode": "005",
+    "districtCode": "32.05.110",
+    "name": "Singajaya",
+    "alias": "Singajaya"
+  },
+  {
+    "code": "32.05.110.006",
+    "villageCode": "006",
+    "districtCode": "32.05.110",
+    "name": "Karangagung",
+    "alias": "Karangagung"
+  },
+  {
+    "code": "32.05.110.007",
+    "villageCode": "007",
+    "districtCode": "32.05.110",
+    "name": "Mekartani",
+    "alias": "Mekartani"
+  },
+  {
+    "code": "32.05.110.008",
+    "villageCode": "008",
+    "districtCode": "32.05.110",
+    "name": "Cigintung",
+    "alias": "Cigintung"
+  },
+  {
+    "code": "32.05.110.009",
+    "villageCode": "009",
+    "districtCode": "32.05.110",
+    "name": "Sukawangi",
+    "alias": "Sukawangi"
+  },
+  {
+    "code": "32.05.110.010",
+    "villageCode": "010",
+    "districtCode": "32.05.110",
+    "name": "Pancasura",
+    "alias": "Pancasura"
+  },
+  {
+    "code": "32.05.110.011",
+    "villageCode": "011",
+    "districtCode": "32.05.110",
+    "name": "Sukamulya",
+    "alias": "Sukamulya"
+  },
+  {
+    "code": "32.05.110.012",
+    "villageCode": "012",
+    "districtCode": "32.05.110",
+    "name": "Girimukti",
+    "alias": "Girimukti"
+  },
+  {
+    "code": "32.05.110.013",
+    "villageCode": "013",
+    "districtCode": "32.05.110",
+    "name": "Ciudian",
+    "alias": "Ciudian"
+  }
+]

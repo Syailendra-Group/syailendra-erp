@@ -1,0 +1,58 @@
+[
+  {
+    "code": "91.04.021.001",
+    "villageCode": "001",
+    "districtCode": "91.04.021",
+    "name": "Tofoi",
+    "alias": "Tofoi"
+  },
+  {
+    "code": "91.04.021.002",
+    "villageCode": "002",
+    "districtCode": "91.04.021",
+    "name": "Saengga",
+    "alias": "Saengga"
+  },
+  {
+    "code": "91.04.021.003",
+    "villageCode": "003",
+    "districtCode": "91.04.021",
+    "name": "Tanah Merah",
+    "alias": "Tanah Merah"
+  },
+  {
+    "code": "91.04.021.004",
+    "villageCode": "004",
+    "districtCode": "91.04.021",
+    "name": "Materabu Jaya",
+    "alias": "Materabu Jaya"
+  },
+  {
+    "code": "91.04.021.005",
+    "villageCode": "005",
+    "districtCode": "91.04.021",
+    "name": "Forada",
+    "alias": "Forada"
+  },
+  {
+    "code": "91.04.021.006",
+    "villageCode": "006",
+    "districtCode": "91.04.021",
+    "name": "Agoda",
+    "alias": "Agoda"
+  },
+  {
+    "code": "91.04.021.007",
+    "villageCode": "007",
+    "districtCode": "91.04.021",
+    "name": "Onar Lama",
+    "alias": "Onar Lama"
+  },
+  {
+    "code": "91.04.021.008",
+    "villageCode": "008",
+    "districtCode": "91.04.021",
+    "name": "Onar Baru",
+    "alias": "Onar Baru"
+  }
+]

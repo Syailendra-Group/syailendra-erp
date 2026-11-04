@@ -1,0 +1,37 @@
+[
+  {
+    "code": "73.25.070.014",
+    "villageCode": "014",
+    "districtCode": "73.25.070",
+    "name": "Soroako",
+    "alias": "Soroako"
+  },
+  {
+    "code": "73.25.070.015",
+    "villageCode": "015",
+    "districtCode": "73.25.070",
+    "name": "Nikkel",
+    "alias": "Nikkel"
+  },
+  {
+    "code": "73.25.070.016",
+    "villageCode": "016",
+    "districtCode": "73.25.070",
+    "name": "Magani",
+    "alias": "Magani"
+  },
+  {
+    "code": "73.25.070.021",
+    "villageCode": "021",
+    "districtCode": "73.25.070",
+    "name": "Matano",
+    "alias": "Matano"
+  },
+  {
+    "code": "73.25.070.022",
+    "villageCode": "022",
+    "districtCode": "73.25.070",
+    "name": "Nuha",
+    "alias": "Nuha"
+  }
+]

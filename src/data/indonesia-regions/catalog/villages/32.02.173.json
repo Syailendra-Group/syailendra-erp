@@ -1,0 +1,44 @@
+[
+  {
+    "code": "32.02.173.001",
+    "villageCode": "001",
+    "districtCode": "32.02.173",
+    "name": "Semplak",
+    "alias": "Semplak"
+  },
+  {
+    "code": "32.02.173.002",
+    "villageCode": "002",
+    "districtCode": "32.02.173",
+    "name": "Prianganjaya",
+    "alias": "Prianganjaya"
+  },
+  {
+    "code": "32.02.173.003",
+    "villageCode": "003",
+    "districtCode": "32.02.173",
+    "name": "Titisan",
+    "alias": "Titisan"
+  },
+  {
+    "code": "32.02.173.004",
+    "villageCode": "004",
+    "districtCode": "32.02.173",
+    "name": "Cimangkok",
+    "alias": "Cimangkok"
+  },
+  {
+    "code": "32.02.173.005",
+    "villageCode": "005",
+    "districtCode": "32.02.173",
+    "name": "Sukalarang",
+    "alias": "Sukalarang"
+  },
+  {
+    "code": "32.02.173.006",
+    "villageCode": "006",
+    "districtCode": "32.02.173",
+    "name": "Sukamaju",
+    "alias": "Sukamaju"
+  }
+]

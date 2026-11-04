@@ -1,0 +1,121 @@
+[
+  {
+    "code": "15.04.020.001",
+    "villageCode": "001",
+    "districtCode": "15.04.020",
+    "name": "Jelutih",
+    "alias": "Jelutih"
+  },
+  {
+    "code": "15.04.020.002",
+    "villageCode": "002",
+    "districtCode": "15.04.020",
+    "name": "Olak Besar",
+    "alias": "Olak Besar"
+  },
+  {
+    "code": "15.04.020.003",
+    "villageCode": "003",
+    "districtCode": "15.04.020",
+    "name": "Durian Luncuk",
+    "alias": "Durian Luncuk"
+  },
+  {
+    "code": "15.04.020.004",
+    "villageCode": "004",
+    "districtCode": "15.04.020",
+    "name": "Aur Gading",
+    "alias": "Aur Gading"
+  },
+  {
+    "code": "15.04.020.005",
+    "villageCode": "005",
+    "districtCode": "15.04.020",
+    "name": "Hajran",
+    "alias": "Hajran"
+  },
+  {
+    "code": "15.04.020.006",
+    "villageCode": "006",
+    "districtCode": "15.04.020",
+    "name": "Paku Aji",
+    "alias": "Paku Aji"
+  },
+  {
+    "code": "15.04.020.007",
+    "villageCode": "007",
+    "districtCode": "15.04.020",
+    "name": "Muara Jangga",
+    "alias": "Muara Jangga"
+  },
+  {
+    "code": "15.04.020.008",
+    "villageCode": "008",
+    "districtCode": "15.04.020",
+    "name": "Mata Gual",
+    "alias": "Mata Gual"
+  },
+  {
+    "code": "15.04.020.009",
+    "villageCode": "009",
+    "districtCode": "15.04.020",
+    "name": "Koto Boyo",
+    "alias": "Koto Boyo"
+  },
+  {
+    "code": "15.04.020.010",
+    "villageCode": "010",
+    "districtCode": "15.04.020",
+    "name": "Karmeo",
+    "alias": "Karmeo"
+  },
+  {
+    "code": "15.04.020.011",
+    "villageCode": "011",
+    "districtCode": "15.04.020",
+    "name": "Simpang Karmeo",
+    "alias": "Simpang Karmeo"
+  },
+  {
+    "code": "15.04.020.012",
+    "villageCode": "012",
+    "districtCode": "15.04.020",
+    "name": "Jangga",
+    "alias": "Jangga"
+  },
+  {
+    "code": "15.04.020.013",
+    "villageCode": "013",
+    "districtCode": "15.04.020",
+    "name": "Terentang Baru",
+    "alias": "Terentang Baru"
+  },
+  {
+    "code": "15.04.020.014",
+    "villageCode": "014",
+    "districtCode": "15.04.020",
+    "name": "Jangga Baru",
+    "alias": "Jangga Baru"
+  },
+  {
+    "code": "15.04.020.015",
+    "villageCode": "015",
+    "districtCode": "15.04.020",
+    "name": "Bulian Baru",
+    "alias": "Bulian Baru"
+  },
+  {
+    "code": "15.04.020.016",
+    "villageCode": "016",
+    "districtCode": "15.04.020",
+    "name": "Simpang Jelutih",
+    "alias": "Simpang Jelutih"
+  },
+  {
+    "code": "15.04.020.017",
+    "villageCode": "017",
+    "districtCode": "15.04.020",
+    "name": "Simpang Aur Gading",
+    "alias": "Simpang Aur Gading"
+  }
+]

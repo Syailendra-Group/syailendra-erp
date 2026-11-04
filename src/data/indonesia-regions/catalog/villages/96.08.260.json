@@ -1,0 +1,72 @@
+[
+  {
+    "code": "96.08.260.001",
+    "villageCode": "001",
+    "districtCode": "96.08.260",
+    "name": "Andugir",
+    "alias": "Andugir"
+  },
+  {
+    "code": "96.08.260.002",
+    "villageCode": "002",
+    "districtCode": "96.08.260",
+    "name": "Muara Miguni",
+    "alias": "Muara Miguni"
+  },
+  {
+    "code": "96.08.260.003",
+    "villageCode": "003",
+    "districtCode": "96.08.260",
+    "name": "Guna",
+    "alias": "Guna"
+  },
+  {
+    "code": "96.08.260.004",
+    "villageCode": "004",
+    "districtCode": "96.08.260",
+    "name": "Mandura",
+    "alias": "Mandura"
+  },
+  {
+    "code": "96.08.260.005",
+    "villageCode": "005",
+    "districtCode": "96.08.260",
+    "name": "Wumbiri",
+    "alias": "Wumbiri"
+  },
+  {
+    "code": "96.08.260.006",
+    "villageCode": "006",
+    "districtCode": "96.08.260",
+    "name": "Pereya",
+    "alias": "Pereya"
+  },
+  {
+    "code": "96.08.260.007",
+    "villageCode": "007",
+    "districtCode": "96.08.260",
+    "name": "Ginimanggen",
+    "alias": "Ginimanggen"
+  },
+  {
+    "code": "96.08.260.008",
+    "villageCode": "008",
+    "districtCode": "96.08.260",
+    "name": "Laworage",
+    "alias": "Laworage"
+  },
+  {
+    "code": "96.08.260.009",
+    "villageCode": "009",
+    "districtCode": "96.08.260",
+    "name": "Abili",
+    "alias": "Abili"
+  },
+  {
+    "code": "96.08.260.010",
+    "villageCode": "010",
+    "districtCode": "96.08.260",
+    "name": "Lugubago",
+    "alias": "Lugubago"
+  }
+]

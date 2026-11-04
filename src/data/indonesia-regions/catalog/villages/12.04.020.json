@@ -1,0 +1,51 @@
+[
+  {
+    "code": "12.04.020.004",
+    "villageCode": "004",
+    "districtCode": "12.04.020",
+    "name": "Mombang Boru",
+    "alias": "Mombang Boru"
+  },
+  {
+    "code": "12.04.020.005",
+    "villageCode": "005",
+    "districtCode": "12.04.020",
+    "name": "Anggoli",
+    "alias": "Anggoli"
+  },
+  {
+    "code": "12.04.020.006",
+    "villageCode": "006",
+    "districtCode": "12.04.020",
+    "name": "Sibabangun",
+    "alias": "Sibabangun"
+  },
+  {
+    "code": "12.04.020.009",
+    "villageCode": "009",
+    "districtCode": "12.04.020",
+    "name": "Simanosor",
+    "alias": "Simanosor"
+  },
+  {
+    "code": "12.04.020.010",
+    "villageCode": "010",
+    "districtCode": "12.04.020",
+    "name": "Muara Sibuntuon",
+    "alias": "Muara Sibuntuon"
+  },
+  {
+    "code": "12.04.020.011",
+    "villageCode": "011",
+    "districtCode": "12.04.020",
+    "name": "Sibio Bio",
+    "alias": "Sibio Bio"
+  },
+  {
+    "code": "12.04.020.012",
+    "villageCode": "012",
+    "districtCode": "12.04.020",
+    "name": "Hutagurgur",
+    "alias": "Hutagurgur"
+  }
+]

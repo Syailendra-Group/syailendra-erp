@@ -1,0 +1,30 @@
+[
+  {
+    "code": "63.03.091.001",
+    "villageCode": "001",
+    "districtCode": "63.03.091",
+    "name": "Angkipih",
+    "alias": "Angkipih"
+  },
+  {
+    "code": "63.03.091.002",
+    "villageCode": "002",
+    "districtCode": "63.03.091",
+    "name": "Remo",
+    "alias": "Remo"
+  },
+  {
+    "code": "63.03.091.003",
+    "villageCode": "003",
+    "districtCode": "63.03.091",
+    "name": "Paramasan Bawah",
+    "alias": "Paramasan Bawah"
+  },
+  {
+    "code": "63.03.091.004",
+    "villageCode": "004",
+    "districtCode": "63.03.091",
+    "name": "Paramasan Atas",
+    "alias": "Paramasan Atas"
+  }
+]

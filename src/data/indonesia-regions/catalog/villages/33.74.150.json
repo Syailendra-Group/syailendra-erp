@@ -1,0 +1,51 @@
+[
+  {
+    "code": "33.74.150.001",
+    "villageCode": "001",
+    "districtCode": "33.74.150",
+    "name": "Jerakah",
+    "alias": "Jerakah"
+  },
+  {
+    "code": "33.74.150.002",
+    "villageCode": "002",
+    "districtCode": "33.74.150",
+    "name": "Tugurejo",
+    "alias": "Tugurejo"
+  },
+  {
+    "code": "33.74.150.003",
+    "villageCode": "003",
+    "districtCode": "33.74.150",
+    "name": "Karanganyar",
+    "alias": "Karanganyar"
+  },
+  {
+    "code": "33.74.150.004",
+    "villageCode": "004",
+    "districtCode": "33.74.150",
+    "name": "Randu Garut",
+    "alias": "Randu Garut"
+  },
+  {
+    "code": "33.74.150.005",
+    "villageCode": "005",
+    "districtCode": "33.74.150",
+    "name": "Mangkang Wetan",
+    "alias": "Mangkang Wetan"
+  },
+  {
+    "code": "33.74.150.006",
+    "villageCode": "006",
+    "districtCode": "33.74.150",
+    "name": "Mangunharjo",
+    "alias": "Mangunharjo"
+  },
+  {
+    "code": "33.74.150.007",
+    "villageCode": "007",
+    "districtCode": "33.74.150",
+    "name": "Mangkang Kulon",
+    "alias": "Mangkang Kulon"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "code": "92.01.120.001",
+    "villageCode": "001",
+    "districtCode": "92.01.120",
+    "name": "Pam",
+    "alias": "Pam"
+  },
+  {
+    "code": "92.01.120.002",
+    "villageCode": "002",
+    "districtCode": "92.01.120",
+    "name": "Saupapir",
+    "alias": "Saupapir"
+  },
+  {
+    "code": "92.01.120.003",
+    "villageCode": "003",
+    "districtCode": "92.01.120",
+    "name": "Saukabu",
+    "alias": "Saukabu"
+  },
+  {
+    "code": "92.01.120.004",
+    "villageCode": "004",
+    "districtCode": "92.01.120",
+    "name": "Meosmanggara",
+    "alias": "Meosmanggara"
+  },
+  {
+    "code": "92.01.120.005",
+    "villageCode": "005",
+    "districtCode": "92.01.120",
+    "name": "Manyaifun",
+    "alias": "Manyaifun"
+  },
+  {
+    "code": "92.01.120.006",
+    "villageCode": "006",
+    "districtCode": "92.01.120",
+    "name": "Gag",
+    "alias": "Gag"
+  }
+]

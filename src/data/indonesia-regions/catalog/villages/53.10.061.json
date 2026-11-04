@@ -1,0 +1,58 @@
+[
+  {
+    "code": "53.10.061.001",
+    "villageCode": "001",
+    "districtCode": "53.10.061",
+    "name": "Nitunglea",
+    "alias": "Nitunglea"
+  },
+  {
+    "code": "53.10.061.002",
+    "villageCode": "002",
+    "districtCode": "53.10.061",
+    "name": "Lidi",
+    "alias": "Lidi"
+  },
+  {
+    "code": "53.10.061.003",
+    "villageCode": "003",
+    "districtCode": "53.10.061",
+    "name": "Reruwairere",
+    "alias": "Reruwairere"
+  },
+  {
+    "code": "53.10.061.004",
+    "villageCode": "004",
+    "districtCode": "53.10.061",
+    "name": "Maluriwu",
+    "alias": "Maluriwu"
+  },
+  {
+    "code": "53.10.061.005",
+    "villageCode": "005",
+    "districtCode": "53.10.061",
+    "name": "Kesokoja",
+    "alias": "Kesokoja"
+  },
+  {
+    "code": "53.10.061.006",
+    "villageCode": "006",
+    "districtCode": "53.10.061",
+    "name": "Ladolaka",
+    "alias": "Ladolaka"
+  },
+  {
+    "code": "53.10.061.007",
+    "villageCode": "007",
+    "districtCode": "53.10.061",
+    "name": "Tuanggeo",
+    "alias": "Tuanggeo"
+  },
+  {
+    "code": "53.10.061.008",
+    "villageCode": "008",
+    "districtCode": "53.10.061",
+    "name": "Rokirole",
+    "alias": "Rokirole"
+  }
+]

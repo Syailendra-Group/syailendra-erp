@@ -1,0 +1,107 @@
+[
+  {
+    "code": "35.20.110.001",
+    "villageCode": "001",
+    "districtCode": "35.20.110",
+    "name": "Sugihwaras",
+    "alias": "Sugihwaras"
+  },
+  {
+    "code": "35.20.110.002",
+    "villageCode": "002",
+    "districtCode": "35.20.110",
+    "name": "Tanjungsepreh",
+    "alias": "Tanjungsepreh"
+  },
+  {
+    "code": "35.20.110.003",
+    "villageCode": "003",
+    "districtCode": "35.20.110",
+    "name": "Gulun",
+    "alias": "Gulun"
+  },
+  {
+    "code": "35.20.110.004",
+    "villageCode": "004",
+    "districtCode": "35.20.110",
+    "name": "Malang",
+    "alias": "Malang"
+  },
+  {
+    "code": "35.20.110.005",
+    "villageCode": "005",
+    "districtCode": "35.20.110",
+    "name": "Maospati",
+    "alias": "Maospati"
+  },
+  {
+    "code": "35.20.110.006",
+    "villageCode": "006",
+    "districtCode": "35.20.110",
+    "name": "Klagen Gambiran",
+    "alias": "Klagen Gambiran"
+  },
+  {
+    "code": "35.20.110.007",
+    "villageCode": "007",
+    "districtCode": "35.20.110",
+    "name": "Pandeyan",
+    "alias": "Pandeyan"
+  },
+  {
+    "code": "35.20.110.008",
+    "villageCode": "008",
+    "districtCode": "35.20.110",
+    "name": "Suratmajan",
+    "alias": "Suratmajan"
+  },
+  {
+    "code": "35.20.110.009",
+    "villageCode": "009",
+    "districtCode": "35.20.110",
+    "name": "Ronowijayan",
+    "alias": "Ronowijayan"
+  },
+  {
+    "code": "35.20.110.010",
+    "villageCode": "010",
+    "districtCode": "35.20.110",
+    "name": "Ngujung",
+    "alias": "Ngujung"
+  },
+  {
+    "code": "35.20.110.011",
+    "villageCode": "011",
+    "districtCode": "35.20.110",
+    "name": "Sumberejo",
+    "alias": "Sumberejo"
+  },
+  {
+    "code": "35.20.110.012",
+    "villageCode": "012",
+    "districtCode": "35.20.110",
+    "name": "Pesu",
+    "alias": "Pesu"
+  },
+  {
+    "code": "35.20.110.013",
+    "villageCode": "013",
+    "districtCode": "35.20.110",
+    "name": "Kraton",
+    "alias": "Kraton"
+  },
+  {
+    "code": "35.20.110.014",
+    "villageCode": "014",
+    "districtCode": "35.20.110",
+    "name": "Mranggen",
+    "alias": "Mranggen"
+  },
+  {
+    "code": "35.20.110.015",
+    "villageCode": "015",
+    "districtCode": "35.20.110",
+    "name": "Sempol",
+    "alias": "Sempol"
+  }
+]

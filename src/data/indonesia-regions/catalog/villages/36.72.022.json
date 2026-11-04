@@ -1,0 +1,30 @@
+[
+  {
+    "code": "36.72.022.007",
+    "villageCode": "007",
+    "districtCode": "36.72.022",
+    "name": "Kotasari",
+    "alias": "Kotasari"
+  },
+  {
+    "code": "36.72.022.008",
+    "villageCode": "008",
+    "districtCode": "36.72.022",
+    "name": "Grogol",
+    "alias": "Grogol"
+  },
+  {
+    "code": "36.72.022.009",
+    "villageCode": "009",
+    "districtCode": "36.72.022",
+    "name": "Rawa Arum",
+    "alias": "Rawa Arum"
+  },
+  {
+    "code": "36.72.022.010",
+    "villageCode": "010",
+    "districtCode": "36.72.022",
+    "name": "Gerem",
+    "alias": "Gerem"
+  }
+]

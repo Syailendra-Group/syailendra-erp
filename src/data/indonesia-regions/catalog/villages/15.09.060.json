@@ -1,0 +1,72 @@
+[
+  {
+    "code": "15.09.060.001",
+    "villageCode": "001",
+    "districtCode": "15.09.060",
+    "name": "Tanjung Belit",
+    "alias": "Tanjung Belit"
+  },
+  {
+    "code": "15.09.060.002",
+    "villageCode": "002",
+    "districtCode": "15.09.060",
+    "name": "Pulau Jelmu",
+    "alias": "Pulau Jelmu"
+  },
+  {
+    "code": "15.09.060.003",
+    "villageCode": "003",
+    "districtCode": "15.09.060",
+    "name": "Rantau Ikil",
+    "alias": "Rantau Ikil"
+  },
+  {
+    "code": "15.09.060.004",
+    "villageCode": "004",
+    "districtCode": "15.09.060",
+    "name": "Ujung Tanjung",
+    "alias": "Ujung Tanjung"
+  },
+  {
+    "code": "15.09.060.005",
+    "villageCode": "005",
+    "districtCode": "15.09.060",
+    "name": "Sirih Sekapur",
+    "alias": "Sirih Sekapur"
+  },
+  {
+    "code": "15.09.060.006",
+    "villageCode": "006",
+    "districtCode": "15.09.060",
+    "name": "Talang Pemesun",
+    "alias": "Talang Pemesun"
+  },
+  {
+    "code": "15.09.060.007",
+    "villageCode": "007",
+    "districtCode": "15.09.060",
+    "name": "Rantau Panjang",
+    "alias": "Rantau Panjang"
+  },
+  {
+    "code": "15.09.060.008",
+    "villageCode": "008",
+    "districtCode": "15.09.060",
+    "name": "Jumbak",
+    "alias": "Jumbak"
+  },
+  {
+    "code": "15.09.060.009",
+    "villageCode": "009",
+    "districtCode": "15.09.060",
+    "name": "Baru Balai Panjang",
+    "alias": "Baru Balai Panjang"
+  },
+  {
+    "code": "15.09.060.010",
+    "villageCode": "010",
+    "districtCode": "15.09.060",
+    "name": "Sirih Sekapur Perkembangan",
+    "alias": "Sirih Sekapur Perkembangan"
+  }
+]

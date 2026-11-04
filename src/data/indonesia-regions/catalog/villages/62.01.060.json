@@ -1,0 +1,128 @@
+[
+  {
+    "code": "62.01.060.001",
+    "villageCode": "001",
+    "districtCode": "62.01.060",
+    "name": "Sungai Cabang",
+    "alias": "Sungai Cabang"
+  },
+  {
+    "code": "62.01.060.002",
+    "villageCode": "002",
+    "districtCode": "62.01.060",
+    "name": "Teluk Pulai",
+    "alias": "Teluk Pulai"
+  },
+  {
+    "code": "62.01.060.003",
+    "villageCode": "003",
+    "districtCode": "62.01.060",
+    "name": "Sungai Sekonyer",
+    "alias": "Sungai Sekonyer"
+  },
+  {
+    "code": "62.01.060.004",
+    "villageCode": "004",
+    "districtCode": "62.01.060",
+    "name": "Kubu",
+    "alias": "Kubu"
+  },
+  {
+    "code": "62.01.060.005",
+    "villageCode": "005",
+    "districtCode": "62.01.060",
+    "name": "Sungai Bakau",
+    "alias": "Sungai Bakau"
+  },
+  {
+    "code": "62.01.060.006",
+    "villageCode": "006",
+    "districtCode": "62.01.060",
+    "name": "Teluk Bogam",
+    "alias": "Teluk Bogam"
+  },
+  {
+    "code": "62.01.060.007",
+    "villageCode": "007",
+    "districtCode": "62.01.060",
+    "name": "Keraya",
+    "alias": "Keraya"
+  },
+  {
+    "code": "62.01.060.008",
+    "villageCode": "008",
+    "districtCode": "62.01.060",
+    "name": "Sebuai",
+    "alias": "Sebuai"
+  },
+  {
+    "code": "62.01.060.009",
+    "villageCode": "009",
+    "districtCode": "62.01.060",
+    "name": "Sungai Kapitan",
+    "alias": "Sungai Kapitan"
+  },
+  {
+    "code": "62.01.060.010",
+    "villageCode": "010",
+    "districtCode": "62.01.060",
+    "name": "Kumai Hilir",
+    "alias": "Kumai Hilir"
+  },
+  {
+    "code": "62.01.060.011",
+    "villageCode": "011",
+    "districtCode": "62.01.060",
+    "name": "Batu Belaman",
+    "alias": "Batu Belaman"
+  },
+  {
+    "code": "62.01.060.012",
+    "villageCode": "012",
+    "districtCode": "62.01.060",
+    "name": "Sungai Tendang",
+    "alias": "Sungai Tendang"
+  },
+  {
+    "code": "62.01.060.013",
+    "villageCode": "013",
+    "districtCode": "62.01.060",
+    "name": "Candi",
+    "alias": "Candi"
+  },
+  {
+    "code": "62.01.060.014",
+    "villageCode": "014",
+    "districtCode": "62.01.060",
+    "name": "Kumai Hulu",
+    "alias": "Kumai Hulu"
+  },
+  {
+    "code": "62.01.060.015",
+    "villageCode": "015",
+    "districtCode": "62.01.060",
+    "name": "Sungai Bedaun",
+    "alias": "Sungai Bedaun"
+  },
+  {
+    "code": "62.01.060.016",
+    "villageCode": "016",
+    "districtCode": "62.01.060",
+    "name": "Sabuai Timur",
+    "alias": "Sabuai Timur"
+  },
+  {
+    "code": "62.01.060.031",
+    "villageCode": "031",
+    "districtCode": "62.01.060",
+    "name": "Bumi Harjo",
+    "alias": "Bumi Harjo"
+  },
+  {
+    "code": "62.01.060.032",
+    "villageCode": "032",
+    "districtCode": "62.01.060",
+    "name": "Pangkalan Satu",
+    "alias": "Pangkalan Satu"
+  }
+]

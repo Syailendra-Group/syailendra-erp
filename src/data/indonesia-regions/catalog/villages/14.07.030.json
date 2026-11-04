@@ -1,0 +1,100 @@
+[
+  {
+    "code": "14.07.030.001",
+    "villageCode": "001",
+    "districtCode": "14.07.030",
+    "name": "Rambah Samo Barat",
+    "alias": "Rambah Samo Barat"
+  },
+  {
+    "code": "14.07.030.002",
+    "villageCode": "002",
+    "districtCode": "14.07.030",
+    "name": "Marga Mulya",
+    "alias": "Marga Mulya"
+  },
+  {
+    "code": "14.07.030.003",
+    "villageCode": "003",
+    "districtCode": "14.07.030",
+    "name": "Rambah Samo",
+    "alias": "Rambah Samo"
+  },
+  {
+    "code": "14.07.030.004",
+    "villageCode": "004",
+    "districtCode": "14.07.030",
+    "name": "Karya Mulya",
+    "alias": "Karya Mulya"
+  },
+  {
+    "code": "14.07.030.005",
+    "villageCode": "005",
+    "districtCode": "14.07.030",
+    "name": "Rambah Baru",
+    "alias": "Rambah Baru"
+  },
+  {
+    "code": "14.07.030.006",
+    "villageCode": "006",
+    "districtCode": "14.07.030",
+    "name": "Rambah Utama",
+    "alias": "Rambah Utama"
+  },
+  {
+    "code": "14.07.030.007",
+    "villageCode": "007",
+    "districtCode": "14.07.030",
+    "name": "Pasir Makmur",
+    "alias": "Pasir Makmur"
+  },
+  {
+    "code": "14.07.030.008",
+    "villageCode": "008",
+    "districtCode": "14.07.030",
+    "name": "Masda Makmur",
+    "alias": "Masda Makmur"
+  },
+  {
+    "code": "14.07.030.009",
+    "villageCode": "009",
+    "districtCode": "14.07.030",
+    "name": "Langkitin",
+    "alias": "Langkitin"
+  },
+  {
+    "code": "14.07.030.010",
+    "villageCode": "010",
+    "districtCode": "14.07.030",
+    "name": "Lubuk Napal",
+    "alias": "Lubuk Napal"
+  },
+  {
+    "code": "14.07.030.011",
+    "villageCode": "011",
+    "districtCode": "14.07.030",
+    "name": "Sungai Salak",
+    "alias": "Sungai Salak"
+  },
+  {
+    "code": "14.07.030.012",
+    "villageCode": "012",
+    "districtCode": "14.07.030",
+    "name": "Teluk Aur",
+    "alias": "Teluk Aur"
+  },
+  {
+    "code": "14.07.030.013",
+    "villageCode": "013",
+    "districtCode": "14.07.030",
+    "name": "Lubuk Bilang",
+    "alias": "Lubuk Bilang"
+  },
+  {
+    "code": "14.07.030.014",
+    "villageCode": "014",
+    "districtCode": "14.07.030",
+    "name": "Sungai Kuning",
+    "alias": "Sungai Kuning"
+  }
+]

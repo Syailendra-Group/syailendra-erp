@@ -1,0 +1,79 @@
+[
+  {
+    "code": "13.04.110.001",
+    "villageCode": "001",
+    "districtCode": "13.04.110",
+    "name": "Kumanis",
+    "alias": "Kumanis"
+  },
+  {
+    "code": "13.04.110.002",
+    "villageCode": "002",
+    "districtCode": "13.04.110",
+    "name": "Tanjung Bonai Aur",
+    "alias": "Tanjung Bonai Aur"
+  },
+  {
+    "code": "13.04.110.003",
+    "villageCode": "003",
+    "districtCode": "13.04.110",
+    "name": "Sisawah",
+    "alias": "Sisawah"
+  },
+  {
+    "code": "13.04.110.004",
+    "villageCode": "004",
+    "districtCode": "13.04.110",
+    "name": "Tamparungo",
+    "alias": "Tamparungo"
+  },
+  {
+    "code": "13.04.110.005",
+    "villageCode": "005",
+    "districtCode": "13.04.110",
+    "name": "Sumpur Kudus",
+    "alias": "Sumpur Kudus"
+  },
+  {
+    "code": "13.04.110.006",
+    "villageCode": "006",
+    "districtCode": "13.04.110",
+    "name": "Mengganti",
+    "alias": "Mengganti"
+  },
+  {
+    "code": "13.04.110.007",
+    "villageCode": "007",
+    "districtCode": "13.04.110",
+    "name": "Sepakat Silantai",
+    "alias": "Sepakat Silantai"
+  },
+  {
+    "code": "13.04.110.008",
+    "villageCode": "008",
+    "districtCode": "13.04.110",
+    "name": "Unggan",
+    "alias": "Unggan"
+  },
+  {
+    "code": "13.04.110.009",
+    "villageCode": "009",
+    "districtCode": "13.04.110",
+    "name": "Tanjung Bonai Aur Selatan",
+    "alias": "Tanjung Bonai Aur Selatan"
+  },
+  {
+    "code": "13.04.110.010",
+    "villageCode": "010",
+    "districtCode": "13.04.110",
+    "name": "Tanjuang Labuah",
+    "alias": "Tanjuang Labuah"
+  },
+  {
+    "code": "13.04.110.011",
+    "villageCode": "011",
+    "districtCode": "13.04.110",
+    "name": "Sumpur Kudus Selatan",
+    "alias": "Sumpur Kudus Selatan"
+  }
+]

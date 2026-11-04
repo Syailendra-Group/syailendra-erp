@@ -1,0 +1,74 @@
+[
+  {
+    "code": "12.07.050",
+    "districtCode": "050",
+    "regencyCode": "12.07",
+    "provinceCode": "12",
+    "name": "Kecamatan Bilah Hulu",
+    "alias": "Bilah Hulu"
+  },
+  {
+    "code": "12.07.070",
+    "districtCode": "070",
+    "regencyCode": "12.07",
+    "provinceCode": "12",
+    "name": "Kecamatan Pangkatan",
+    "alias": "Pangkatan"
+  },
+  {
+    "code": "12.07.080",
+    "districtCode": "080",
+    "regencyCode": "12.07",
+    "provinceCode": "12",
+    "name": "Kecamatan Bilah Barat",
+    "alias": "Bilah Barat"
+  },
+  {
+    "code": "12.07.130",
+    "districtCode": "130",
+    "regencyCode": "12.07",
+    "provinceCode": "12",
+    "name": "Kecamatan Bilah Hilir",
+    "alias": "Bilah Hilir"
+  },
+  {
+    "code": "12.07.140",
+    "districtCode": "140",
+    "regencyCode": "12.07",
+    "provinceCode": "12",
+    "name": "Kecamatan Panai Hulu",
+    "alias": "Panai Hulu"
+  },
+  {
+    "code": "12.07.150",
+    "districtCode": "150",
+    "regencyCode": "12.07",
+    "provinceCode": "12",
+    "name": "Kecamatan Panai Tengah",
+    "alias": "Panai Tengah"
+  },
+  {
+    "code": "12.07.160",
+    "districtCode": "160",
+    "regencyCode": "12.07",
+    "provinceCode": "12",
+    "name": "Kecamatan Panai Hilir",
+    "alias": "Panai Hilir"
+  },
+  {
+    "code": "12.07.210",
+    "districtCode": "210",
+    "regencyCode": "12.07",
+    "provinceCode": "12",
+    "name": "Kecamatan Rantau Selatan",
+    "alias": "Rantau Selatan"
+  },
+  {
+    "code": "12.07.220",
+    "districtCode": "220",
+    "regencyCode": "12.07",
+    "provinceCode": "12",
+    "name": "Kecamatan Rantau Utara",
+    "alias": "Rantau Utara"
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "code": "71.04.030.001",
+    "villageCode": "001",
+    "districtCode": "71.04.030",
+    "name": "Melonguane",
+    "alias": "Melonguane"
+  },
+  {
+    "code": "71.04.030.002",
+    "villageCode": "002",
+    "districtCode": "71.04.030",
+    "name": "Mala",
+    "alias": "Mala"
+  },
+  {
+    "code": "71.04.030.003",
+    "villageCode": "003",
+    "districtCode": "71.04.030",
+    "name": "Sawang",
+    "alias": "Sawang"
+  },
+  {
+    "code": "71.04.030.004",
+    "villageCode": "004",
+    "districtCode": "71.04.030",
+    "name": "Tarun",
+    "alias": "Tarun"
+  },
+  {
+    "code": "71.04.030.005",
+    "villageCode": "005",
+    "districtCode": "71.04.030",
+    "name": "Kiama",
+    "alias": "Kiama"
+  },
+  {
+    "code": "71.04.030.008",
+    "villageCode": "008",
+    "districtCode": "71.04.030",
+    "name": "Ambela",
+    "alias": "Ambela"
+  },
+  {
+    "code": "71.04.030.010",
+    "villageCode": "010",
+    "districtCode": "71.04.030",
+    "name": "Melonguane Barat",
+    "alias": "Melonguane Barat"
+  },
+  {
+    "code": "71.04.030.011",
+    "villageCode": "011",
+    "districtCode": "71.04.030",
+    "name": "Melonguane Timur",
+    "alias": "Melonguane Timur"
+  },
+  {
+    "code": "71.04.030.012",
+    "villageCode": "012",
+    "districtCode": "71.04.030",
+    "name": "Kiama Barat",
+    "alias": "Kiama Barat"
+  },
+  {
+    "code": "71.04.030.013",
+    "villageCode": "013",
+    "districtCode": "71.04.030",
+    "name": "Tarun Selatan",
+    "alias": "Tarun Selatan"
+  },
+  {
+    "code": "71.04.030.015",
+    "villageCode": "015",
+    "districtCode": "71.04.030",
+    "name": "Mala Timur",
+    "alias": "Mala Timur"
+  },
+  {
+    "code": "71.04.030.016",
+    "villageCode": "016",
+    "districtCode": "71.04.030",
+    "name": "Sawang Utara",
+    "alias": "Sawang Utara"
+  },
+  {
+    "code": "71.04.030.017",
+    "villageCode": "017",
+    "districtCode": "71.04.030",
+    "name": "Maredaren Kiama",
+    "alias": "Maredaren Kiama"
+  }
+]

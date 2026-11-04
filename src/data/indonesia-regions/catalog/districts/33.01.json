@@ -1,0 +1,194 @@
+[
+  {
+    "code": "33.01.010",
+    "districtCode": "010",
+    "regencyCode": "33.01",
+    "provinceCode": "33",
+    "name": "Kecamatan Dayeuhluhur",
+    "alias": "Dayeuhluhur"
+  },
+  {
+    "code": "33.01.020",
+    "districtCode": "020",
+    "regencyCode": "33.01",
+    "provinceCode": "33",
+    "name": "Kecamatan Wanareja",
+    "alias": "Wanareja"
+  },
+  {
+    "code": "33.01.030",
+    "districtCode": "030",
+    "regencyCode": "33.01",
+    "provinceCode": "33",
+    "name": "Kecamatan Majenang",
+    "alias": "Majenang"
+  },
+  {
+    "code": "33.01.040",
+    "districtCode": "040",
+    "regencyCode": "33.01",
+    "provinceCode": "33",
+    "name": "Kecamatan Cimanggu",
+    "alias": "Cimanggu"
+  },
+  {
+    "code": "33.01.050",
+    "districtCode": "050",
+    "regencyCode": "33.01",
+    "provinceCode": "33",
+    "name": "Kecamatan Karangpucung",
+    "alias": "Karangpucung"
+  },
+  {
+    "code": "33.01.060",
+    "districtCode": "060",
+    "regencyCode": "33.01",
+    "provinceCode": "33",
+    "name": "Kecamatan Cipari",
+    "alias": "Cipari"
+  },
+  {
+    "code": "33.01.070",
+    "districtCode": "070",
+    "regencyCode": "33.01",
+    "provinceCode": "33",
+    "name": "Kecamatan Sidareja",
+    "alias": "Sidareja"
+  },
+  {
+    "code": "33.01.080",
+    "districtCode": "080",
+    "regencyCode": "33.01",
+    "provinceCode": "33",
+    "name": "Kecamatan Kedungreja",
+    "alias": "Kedungreja"
+  },
+  {
+    "code": "33.01.090",
+    "districtCode": "090",
+    "regencyCode": "33.01",
+    "provinceCode": "33",
+    "name": "Kecamatan Patimuan",
+    "alias": "Patimuan"
+  },
+  {
+    "code": "33.01.100",
+    "districtCode": "100",
+    "regencyCode": "33.01",
+    "provinceCode": "33",
+    "name": "Kecamatan Gandrungmangu",
+    "alias": "Gandrungmangu"
+  },
+  {
+    "code": "33.01.110",
+    "districtCode": "110",
+    "regencyCode": "33.01",
+    "provinceCode": "33",
+    "name": "Kecamatan Bantarsari",
+    "alias": "Bantarsari"
+  },
+  {
+    "code": "33.01.120",
+    "districtCode": "120",
+    "regencyCode": "33.01",
+    "provinceCode": "33",
+    "name": "Kecamatan Kawunganten",
+    "alias": "Kawunganten"
+  },
+  {
+    "code": "33.01.121",
+    "districtCode": "121",
+    "regencyCode": "33.01",
+    "provinceCode": "33",
+    "name": "Kecamatan Kampung Laut",
+    "alias": "Kampung Laut"
+  },
+  {
+    "code": "33.01.130",
+    "districtCode": "130",
+    "regencyCode": "33.01",
+    "provinceCode": "33",
+    "name": "Kecamatan Jeruklegi",
+    "alias": "Jeruklegi"
+  },
+  {
+    "code": "33.01.140",
+    "districtCode": "140",
+    "regencyCode": "33.01",
+    "provinceCode": "33",
+    "name": "Kecamatan Kesugihan",
+    "alias": "Kesugihan"
+  },
+  {
+    "code": "33.01.150",
+    "districtCode": "150",
+    "regencyCode": "33.01",
+    "provinceCode": "33",
+    "name": "Kecamatan Adipala",
+    "alias": "Adipala"
+  },
+  {
+    "code": "33.01.160",
+    "districtCode": "160",
+    "regencyCode": "33.01",
+    "provinceCode": "33",
+    "name": "Kecamatan Maos",
+    "alias": "Maos"
+  },
+  {
+    "code": "33.01.170",
+    "districtCode": "170",
+    "regencyCode": "33.01",
+    "provinceCode": "33",
+    "name": "Kecamatan Sampang",
+    "alias": "Sampang"
+  },
+  {
+    "code": "33.01.180",
+    "districtCode": "180",
+    "regencyCode": "33.01",
+    "provinceCode": "33",
+    "name": "Kecamatan Kroya",
+    "alias": "Kroya"
+  },
+  {
+    "code": "33.01.190",
+    "districtCode": "190",
+    "regencyCode": "33.01",
+    "provinceCode": "33",
+    "name": "Kecamatan Binangun",
+    "alias": "Binangun"
+  },
+  {
+    "code": "33.01.200",
+    "districtCode": "200",
+    "regencyCode": "33.01",
+    "provinceCode": "33",
+    "name": "Kecamatan Nusawungu",
+    "alias": "Nusawungu"
+  },
+  {
+    "code": "33.01.710",
+    "districtCode": "710",
+    "regencyCode": "33.01",
+    "provinceCode": "33",
+    "name": "Kecamatan Cilacap Selatan",
+    "alias": "Cilacap Selatan"
+  },
+  {
+    "code": "33.01.720",
+    "districtCode": "720",
+    "regencyCode": "33.01",
+    "provinceCode": "33",
+    "name": "Kecamatan Cilacap Tengah",
+    "alias": "Cilacap Tengah"
+  },
+  {
+    "code": "33.01.730",
+    "districtCode": "730",
+    "regencyCode": "33.01",
+    "provinceCode": "33",
+    "name": "Kecamatan Cilacap Utara",
+    "alias": "Cilacap Utara"
+  }
+]

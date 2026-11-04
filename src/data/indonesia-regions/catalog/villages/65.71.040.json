@@ -1,0 +1,23 @@
+[
+  {
+    "code": "65.71.040.001",
+    "villageCode": "001",
+    "districtCode": "65.71.040",
+    "name": "Juata Permai",
+    "alias": "Juata Permai"
+  },
+  {
+    "code": "65.71.040.002",
+    "villageCode": "002",
+    "districtCode": "65.71.040",
+    "name": "Juata Kerikil",
+    "alias": "Juata Kerikil"
+  },
+  {
+    "code": "65.71.040.003",
+    "villageCode": "003",
+    "districtCode": "65.71.040",
+    "name": "Juata Laut",
+    "alias": "Juata Laut"
+  }
+]

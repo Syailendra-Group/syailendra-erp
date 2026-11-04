@@ -1,0 +1,51 @@
+[
+  {
+    "code": "91.04.022.001",
+    "villageCode": "001",
+    "districtCode": "91.04.022",
+    "name": "Aroba",
+    "alias": "Aroba"
+  },
+  {
+    "code": "91.04.022.002",
+    "villageCode": "002",
+    "districtCode": "91.04.022",
+    "name": "Yaru",
+    "alias": "Yaru"
+  },
+  {
+    "code": "91.04.022.003",
+    "villageCode": "003",
+    "districtCode": "91.04.022",
+    "name": "Sido Makmur",
+    "alias": "Sido Makmur"
+  },
+  {
+    "code": "91.04.022.004",
+    "villageCode": "004",
+    "districtCode": "91.04.022",
+    "name": "Wimbro",
+    "alias": "Wimbro"
+  },
+  {
+    "code": "91.04.022.005",
+    "villageCode": "005",
+    "districtCode": "91.04.022",
+    "name": "Sangguar",
+    "alias": "Sangguar"
+  },
+  {
+    "code": "91.04.022.006",
+    "villageCode": "006",
+    "districtCode": "91.04.022",
+    "name": "Disyaga Air Terjun",
+    "alias": "Disyaga Air Terjun"
+  },
+  {
+    "code": "91.04.022.007",
+    "villageCode": "007",
+    "districtCode": "91.04.022",
+    "name": "Wamme",
+    "alias": "Wamme"
+  }
+]

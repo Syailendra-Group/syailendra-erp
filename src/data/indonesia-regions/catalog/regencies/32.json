@@ -1,0 +1,218 @@
+[
+  {
+    "code": "32.01",
+    "regencyCode": "01",
+    "provinceCode": "32",
+    "provinceName": "Jawa Barat",
+    "name": "Kabupaten Bogor",
+    "alias": "Bogor"
+  },
+  {
+    "code": "32.02",
+    "regencyCode": "02",
+    "provinceCode": "32",
+    "provinceName": "Jawa Barat",
+    "name": "Kabupaten Sukabumi",
+    "alias": "Sukabumi"
+  },
+  {
+    "code": "32.03",
+    "regencyCode": "03",
+    "provinceCode": "32",
+    "provinceName": "Jawa Barat",
+    "name": "Kabupaten Cianjur",
+    "alias": "Cianjur"
+  },
+  {
+    "code": "32.04",
+    "regencyCode": "04",
+    "provinceCode": "32",
+    "provinceName": "Jawa Barat",
+    "name": "Kabupaten Bandung",
+    "alias": "Bandung"
+  },
+  {
+    "code": "32.05",
+    "regencyCode": "05",
+    "provinceCode": "32",
+    "provinceName": "Jawa Barat",
+    "name": "Kabupaten Garut",
+    "alias": "Garut"
+  },
+  {
+    "code": "32.06",
+    "regencyCode": "06",
+    "provinceCode": "32",
+    "provinceName": "Jawa Barat",
+    "name": "Kabupaten Tasikmalaya",
+    "alias": "Tasikmalaya"
+  },
+  {
+    "code": "32.07",
+    "regencyCode": "07",
+    "provinceCode": "32",
+    "provinceName": "Jawa Barat",
+    "name": "Kabupaten Ciamis",
+    "alias": "Ciamis"
+  },
+  {
+    "code": "32.08",
+    "regencyCode": "08",
+    "provinceCode": "32",
+    "provinceName": "Jawa Barat",
+    "name": "Kabupaten Kuningan",
+    "alias": "Kuningan"
+  },
+  {
+    "code": "32.09",
+    "regencyCode": "09",
+    "provinceCode": "32",
+    "provinceName": "Jawa Barat",
+    "name": "Kabupaten Cirebon",
+    "alias": "Cirebon"
+  },
+  {
+    "code": "32.10",
+    "regencyCode": "10",
+    "provinceCode": "32",
+    "provinceName": "Jawa Barat",
+    "name": "Kabupaten Majalengka",
+    "alias": "Majalengka"
+  },
+  {
+    "code": "32.11",
+    "regencyCode": "11",
+    "provinceCode": "32",
+    "provinceName": "Jawa Barat",
+    "name": "Kabupaten Sumedang",
+    "alias": "Sumedang"
+  },
+  {
+    "code": "32.12",
+    "regencyCode": "12",
+    "provinceCode": "32",
+    "provinceName": "Jawa Barat",
+    "name": "Kabupaten Indramayu",
+    "alias": "Indramayu"
+  },
+  {
+    "code": "32.13",
+    "regencyCode": "13",
+    "provinceCode": "32",
+    "provinceName": "Jawa Barat",
+    "name": "Kabupaten Subang",
+    "alias": "Subang"
+  },
+  {
+    "code": "32.14",
+    "regencyCode": "14",
+    "provinceCode": "32",
+    "provinceName": "Jawa Barat",
+    "name": "Kabupaten Purwakarta",
+    "alias": "Purwakarta"
+  },
+  {
+    "code": "32.15",
+    "regencyCode": "15",
+    "provinceCode": "32",
+    "provinceName": "Jawa Barat",
+    "name": "Kabupaten Karawang",
+    "alias": "Karawang"
+  },
+  {
+    "code": "32.16",
+    "regencyCode": "16",
+    "provinceCode": "32",
+    "provinceName": "Jawa Barat",
+    "name": "Kabupaten Bekasi",
+    "alias": "Bekasi"
+  },
+  {
+    "code": "32.17",
+    "regencyCode": "17",
+    "provinceCode": "32",
+    "provinceName": "Jawa Barat",
+    "name": "Kabupaten Bandung Barat",
+    "alias": "Bandung Barat"
+  },
+  {
+    "code": "32.18",
+    "regencyCode": "18",
+    "provinceCode": "32",
+    "provinceName": "Jawa Barat",
+    "name": "Kabupaten Pangandaran",
+    "alias": "Pangandaran"
+  },
+  {
+    "code": "32.71",
+    "regencyCode": "71",
+    "provinceCode": "32",
+    "provinceName": "Jawa Barat",
+    "name": "Kota Bogor",
+    "alias": "Bogor"
+  },
+  {
+    "code": "32.72",
+    "regencyCode": "72",
+    "provinceCode": "32",
+    "provinceName": "Jawa Barat",
+    "name": "Kota Sukabumi",
+    "alias": "Sukabumi"
+  },
+  {
+    "code": "32.73",
+    "regencyCode": "73",
+    "provinceCode": "32",
+    "provinceName": "Jawa Barat",
+    "name": "Kota Bandung",
+    "alias": "Bandung"
+  },
+  {
+    "code": "32.74",
+    "regencyCode": "74",
+    "provinceCode": "32",
+    "provinceName": "Jawa Barat",
+    "name": "Kota Cirebon",
+    "alias": "Cirebon"
+  },
+  {
+    "code": "32.75",
+    "regencyCode": "75",
+    "provinceCode": "32",
+    "provinceName": "Jawa Barat",
+    "name": "Kota Bekasi",
+    "alias": "Bekasi"
+  },
+  {
+    "code": "32.76",
+    "regencyCode": "76",
+    "provinceCode": "32",
+    "provinceName": "Jawa Barat",
+    "name": "Kota Depok",
+    "alias": "Depok"
+  },
+  {
+    "code": "32.77",
+    "regencyCode": "77",
+    "provinceCode": "32",
+    "provinceName": "Jawa Barat",
+    "name": "Kota Cimahi",
+    "alias": "Cimahi"
+  },
+  {
+    "code": "32.78",
+    "regencyCode": "78",
+    "provinceCode": "32",
+    "provinceName": "Jawa Barat",
+    "name": "Kota Tasikmalaya",
+    "alias": "Tasikmalaya"
+  },
+  {
+    "code": "32.79",
+    "regencyCode": "79",
+    "provinceCode": "32",
+    "provinceName": "Jawa Barat",
+    "name": "Kota Banjar",
+    "alias": "Banjar"
+  }
+]

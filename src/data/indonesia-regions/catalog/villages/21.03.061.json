@@ -1,0 +1,44 @@
+[
+  {
+    "code": "21.03.061.002",
+    "villageCode": "002",
+    "districtCode": "21.03.061",
+    "name": "Subi Besar",
+    "alias": "Subi Besar"
+  },
+  {
+    "code": "21.03.061.003",
+    "villageCode": "003",
+    "districtCode": "21.03.061",
+    "name": "Subi",
+    "alias": "Subi"
+  },
+  {
+    "code": "21.03.061.004",
+    "villageCode": "004",
+    "districtCode": "21.03.061",
+    "name": "Meliah",
+    "alias": "Meliah"
+  },
+  {
+    "code": "21.03.061.005",
+    "villageCode": "005",
+    "districtCode": "21.03.061",
+    "name": "Terayak",
+    "alias": "Terayak"
+  },
+  {
+    "code": "21.03.061.007",
+    "villageCode": "007",
+    "districtCode": "21.03.061",
+    "name": "Subi Besar Timur",
+    "alias": "Subi Besar Timur"
+  },
+  {
+    "code": "21.03.061.008",
+    "villageCode": "008",
+    "districtCode": "21.03.061",
+    "name": "Meliah Selatan",
+    "alias": "Meliah Selatan"
+  }
+]

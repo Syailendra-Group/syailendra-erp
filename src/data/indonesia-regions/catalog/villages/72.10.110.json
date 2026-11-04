@@ -1,0 +1,65 @@
+[
+  {
+    "code": "72.10.110.003",
+    "villageCode": "003",
+    "districtCode": "72.10.110",
+    "name": "Tulo",
+    "alias": "Tulo"
+  },
+  {
+    "code": "72.10.110.004",
+    "villageCode": "004",
+    "districtCode": "72.10.110",
+    "name": "Soulowe",
+    "alias": "Soulowe"
+  },
+  {
+    "code": "72.10.110.005",
+    "villageCode": "005",
+    "districtCode": "72.10.110",
+    "name": "Karawana",
+    "alias": "Karawana"
+  },
+  {
+    "code": "72.10.110.006",
+    "villageCode": "006",
+    "districtCode": "72.10.110",
+    "name": "Kota Pulu",
+    "alias": "Kota Pulu"
+  },
+  {
+    "code": "72.10.110.007",
+    "villageCode": "007",
+    "districtCode": "72.10.110",
+    "name": "Langaleso",
+    "alias": "Langaleso"
+  },
+  {
+    "code": "72.10.110.008",
+    "villageCode": "008",
+    "districtCode": "72.10.110",
+    "name": "Kotarindau",
+    "alias": "Kotarindau"
+  },
+  {
+    "code": "72.10.110.009",
+    "villageCode": "009",
+    "districtCode": "72.10.110",
+    "name": "Maku",
+    "alias": "Maku"
+  },
+  {
+    "code": "72.10.110.010",
+    "villageCode": "010",
+    "districtCode": "72.10.110",
+    "name": "Potoya",
+    "alias": "Potoya"
+  },
+  {
+    "code": "72.10.110.011",
+    "villageCode": "011",
+    "districtCode": "72.10.110",
+    "name": "Kabobona",
+    "alias": "Kabobona"
+  }
+]

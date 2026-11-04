@@ -1,0 +1,258 @@
+[
+  {
+    "code": "97.01.010",
+    "districtCode": "010",
+    "regencyCode": "97.01",
+    "provinceCode": "97",
+    "name": "Kecamatan Wosak",
+    "alias": "Wosak"
+  },
+  {
+    "code": "97.01.020",
+    "districtCode": "020",
+    "regencyCode": "97.01",
+    "provinceCode": "97",
+    "name": "Kecamatan Moba",
+    "alias": "Moba"
+  },
+  {
+    "code": "97.01.030",
+    "districtCode": "030",
+    "regencyCode": "97.01",
+    "provinceCode": "97",
+    "name": "Kecamatan Pija",
+    "alias": "Pija"
+  },
+  {
+    "code": "97.01.040",
+    "districtCode": "040",
+    "regencyCode": "97.01",
+    "provinceCode": "97",
+    "name": "Kecamatan Kora",
+    "alias": "Kora"
+  },
+  {
+    "code": "97.01.050",
+    "districtCode": "050",
+    "regencyCode": "97.01",
+    "provinceCode": "97",
+    "name": "Kecamatan Kenyam",
+    "alias": "Kenyam"
+  },
+  {
+    "code": "97.01.060",
+    "districtCode": "060",
+    "regencyCode": "97.01",
+    "provinceCode": "97",
+    "name": "Kecamatan Mbuwa Tengah",
+    "alias": "Mbuwa Tengah"
+  },
+  {
+    "code": "97.01.070",
+    "districtCode": "070",
+    "regencyCode": "97.01",
+    "provinceCode": "97",
+    "name": "Kecamatan Krepkuri",
+    "alias": "Krepkuri"
+  },
+  {
+    "code": "97.01.080",
+    "districtCode": "080",
+    "regencyCode": "97.01",
+    "provinceCode": "97",
+    "name": "Kecamatan Embetpem",
+    "alias": "Embetpem"
+  },
+  {
+    "code": "97.01.090",
+    "districtCode": "090",
+    "regencyCode": "97.01",
+    "provinceCode": "97",
+    "name": "Kecamatan Geselma",
+    "alias": "Geselma"
+  },
+  {
+    "code": "97.01.100",
+    "districtCode": "100",
+    "regencyCode": "97.01",
+    "provinceCode": "97",
+    "name": "Kecamatan Kilmid",
+    "alias": "Kilmid"
+  },
+  {
+    "code": "97.01.110",
+    "districtCode": "110",
+    "regencyCode": "97.01",
+    "provinceCode": "97",
+    "name": "Kecamatan Yenggelo",
+    "alias": "Yenggelo"
+  },
+  {
+    "code": "97.01.120",
+    "districtCode": "120",
+    "regencyCode": "97.01",
+    "provinceCode": "97",
+    "name": "Kecamatan Alama",
+    "alias": "Alama"
+  },
+  {
+    "code": "97.01.130",
+    "districtCode": "130",
+    "regencyCode": "97.01",
+    "provinceCode": "97",
+    "name": "Kecamatan Meborok",
+    "alias": "Meborok"
+  },
+  {
+    "code": "97.01.140",
+    "districtCode": "140",
+    "regencyCode": "97.01",
+    "provinceCode": "97",
+    "name": "Kecamatan Mapenduma",
+    "alias": "Mapenduma"
+  },
+  {
+    "code": "97.01.150",
+    "districtCode": "150",
+    "regencyCode": "97.01",
+    "provinceCode": "97",
+    "name": "Kecamatan Kroptak",
+    "alias": "Kroptak"
+  },
+  {
+    "code": "97.01.160",
+    "districtCode": "160",
+    "regencyCode": "97.01",
+    "provinceCode": "97",
+    "name": "Kecamatan Paro",
+    "alias": "Paro"
+  },
+  {
+    "code": "97.01.170",
+    "districtCode": "170",
+    "regencyCode": "97.01",
+    "provinceCode": "97",
+    "name": "Kecamatan Kegayem",
+    "alias": "Kegayem"
+  },
+  {
+    "code": "97.01.180",
+    "districtCode": "180",
+    "regencyCode": "97.01",
+    "provinceCode": "97",
+    "name": "Kecamatan Mugi",
+    "alias": "Mugi"
+  },
+  {
+    "code": "97.01.190",
+    "districtCode": "190",
+    "regencyCode": "97.01",
+    "provinceCode": "97",
+    "name": "Kecamatan Yal",
+    "alias": "Yal"
+  },
+  {
+    "code": "97.01.200",
+    "districtCode": "200",
+    "regencyCode": "97.01",
+    "provinceCode": "97",
+    "name": "Kecamatan Mam",
+    "alias": "Mam"
+  },
+  {
+    "code": "97.01.210",
+    "districtCode": "210",
+    "regencyCode": "97.01",
+    "provinceCode": "97",
+    "name": "Kecamatan Yigi",
+    "alias": "Yigi"
+  },
+  {
+    "code": "97.01.220",
+    "districtCode": "220",
+    "regencyCode": "97.01",
+    "provinceCode": "97",
+    "name": "Kecamatan Dal",
+    "alias": "Dal"
+  },
+  {
+    "code": "97.01.230",
+    "districtCode": "230",
+    "regencyCode": "97.01",
+    "provinceCode": "97",
+    "name": "Kecamatan Nirkuri",
+    "alias": "Nirkuri"
+  },
+  {
+    "code": "97.01.240",
+    "districtCode": "240",
+    "regencyCode": "97.01",
+    "provinceCode": "97",
+    "name": "Kecamatan Inikgal",
+    "alias": "Inikgal"
+  },
+  {
+    "code": "97.01.250",
+    "districtCode": "250",
+    "regencyCode": "97.01",
+    "provinceCode": "97",
+    "name": "Kecamatan Mbuwa",
+    "alias": "Mbuwa"
+  },
+  {
+    "code": "97.01.260",
+    "districtCode": "260",
+    "regencyCode": "97.01",
+    "provinceCode": "97",
+    "name": "Kecamatan Iniye",
+    "alias": "Iniye"
+  },
+  {
+    "code": "97.01.270",
+    "districtCode": "270",
+    "regencyCode": "97.01",
+    "provinceCode": "97",
+    "name": "Kecamatan Wutpaga",
+    "alias": "Wutpaga"
+  },
+  {
+    "code": "97.01.280",
+    "districtCode": "280",
+    "regencyCode": "97.01",
+    "provinceCode": "97",
+    "name": "Kecamatan Nenggeangin",
+    "alias": "Nenggeangin"
+  },
+  {
+    "code": "97.01.290",
+    "districtCode": "290",
+    "regencyCode": "97.01",
+    "provinceCode": "97",
+    "name": "Kecamatan Mbulmu Yalma",
+    "alias": "Mbulmu Yalma"
+  },
+  {
+    "code": "97.01.300",
+    "districtCode": "300",
+    "regencyCode": "97.01",
+    "provinceCode": "97",
+    "name": "Kecamatan Gearek",
+    "alias": "Gearek"
+  },
+  {
+    "code": "97.01.310",
+    "districtCode": "310",
+    "regencyCode": "97.01",
+    "provinceCode": "97",
+    "name": "Kecamatan Pasir Putih",
+    "alias": "Pasir Putih"
+  },
+  {
+    "code": "97.01.320",
+    "districtCode": "320",
+    "regencyCode": "97.01",
+    "provinceCode": "97",
+    "name": "Kecamatan Wusi",
+    "alias": "Wusi"
+  }
+]

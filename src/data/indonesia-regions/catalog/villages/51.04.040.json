@@ -1,0 +1,58 @@
+[
+  {
+    "code": "51.04.040.001",
+    "villageCode": "001",
+    "districtCode": "51.04.040",
+    "name": "Pejeng Kawan",
+    "alias": "Pejeng Kawan"
+  },
+  {
+    "code": "51.04.040.002",
+    "villageCode": "002",
+    "districtCode": "51.04.040",
+    "name": "Pejeng",
+    "alias": "Pejeng"
+  },
+  {
+    "code": "51.04.040.003",
+    "villageCode": "003",
+    "districtCode": "51.04.040",
+    "name": "Pejeng Kelod",
+    "alias": "Pejeng Kelod"
+  },
+  {
+    "code": "51.04.040.004",
+    "villageCode": "004",
+    "districtCode": "51.04.040",
+    "name": "Pejeng Kangin",
+    "alias": "Pejeng Kangin"
+  },
+  {
+    "code": "51.04.040.005",
+    "villageCode": "005",
+    "districtCode": "51.04.040",
+    "name": "Pejeng Kaja",
+    "alias": "Pejeng Kaja"
+  },
+  {
+    "code": "51.04.040.006",
+    "villageCode": "006",
+    "districtCode": "51.04.040",
+    "name": "Sanding",
+    "alias": "Sanding"
+  },
+  {
+    "code": "51.04.040.007",
+    "villageCode": "007",
+    "districtCode": "51.04.040",
+    "name": "Tampaksiring",
+    "alias": "Tampaksiring"
+  },
+  {
+    "code": "51.04.040.008",
+    "villageCode": "008",
+    "districtCode": "51.04.040",
+    "name": "Manukaya",
+    "alias": "Manukaya"
+  }
+]

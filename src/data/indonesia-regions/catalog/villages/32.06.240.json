@@ -1,0 +1,58 @@
+[
+  {
+    "code": "32.06.240.001",
+    "villageCode": "001",
+    "districtCode": "32.06.240",
+    "name": "Rajamandala",
+    "alias": "Rajamandala"
+  },
+  {
+    "code": "32.06.240.002",
+    "villageCode": "002",
+    "districtCode": "32.06.240",
+    "name": "Dawagung",
+    "alias": "Dawagung"
+  },
+  {
+    "code": "32.06.240.003",
+    "villageCode": "003",
+    "districtCode": "32.06.240",
+    "name": "Rajapolah",
+    "alias": "Rajapolah"
+  },
+  {
+    "code": "32.06.240.004",
+    "villageCode": "004",
+    "districtCode": "32.06.240",
+    "name": "Manggungjaya",
+    "alias": "Manggungjaya"
+  },
+  {
+    "code": "32.06.240.005",
+    "villageCode": "005",
+    "districtCode": "32.06.240",
+    "name": "Sukanagalih",
+    "alias": "Sukanagalih"
+  },
+  {
+    "code": "32.06.240.006",
+    "villageCode": "006",
+    "districtCode": "32.06.240",
+    "name": "Sukaraja",
+    "alias": "Sukaraja"
+  },
+  {
+    "code": "32.06.240.007",
+    "villageCode": "007",
+    "districtCode": "32.06.240",
+    "name": "Manggungsari",
+    "alias": "Manggungsari"
+  },
+  {
+    "code": "32.06.240.008",
+    "villageCode": "008",
+    "districtCode": "32.06.240",
+    "name": "Tanjungpura",
+    "alias": "Tanjungpura"
+  }
+]

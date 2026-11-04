@@ -1,0 +1,79 @@
+[
+  {
+    "code": "32.11.111.002",
+    "villageCode": "002",
+    "districtCode": "32.11.111",
+    "name": "Mekarasih",
+    "alias": "Mekarasih"
+  },
+  {
+    "code": "32.11.111.003",
+    "villageCode": "003",
+    "districtCode": "32.11.111",
+    "name": "Ciranggem",
+    "alias": "Ciranggem"
+  },
+  {
+    "code": "32.11.111.004",
+    "villageCode": "004",
+    "districtCode": "32.11.111",
+    "name": "Cisampih",
+    "alias": "Cisampih"
+  },
+  {
+    "code": "32.11.111.006",
+    "villageCode": "006",
+    "districtCode": "32.11.111",
+    "name": "Kadu",
+    "alias": "Kadu"
+  },
+  {
+    "code": "32.11.111.007",
+    "villageCode": "007",
+    "districtCode": "32.11.111",
+    "name": "Lebaksiuh",
+    "alias": "Lebaksiuh"
+  },
+  {
+    "code": "32.11.111.008",
+    "villageCode": "008",
+    "districtCode": "32.11.111",
+    "name": "Cintajaya",
+    "alias": "Cintajaya"
+  },
+  {
+    "code": "32.11.111.009",
+    "villageCode": "009",
+    "districtCode": "32.11.111",
+    "name": "Cipicung",
+    "alias": "Cipicung"
+  },
+  {
+    "code": "32.11.111.010",
+    "villageCode": "010",
+    "districtCode": "32.11.111",
+    "name": "Jemah",
+    "alias": "Jemah"
+  },
+  {
+    "code": "32.11.111.011",
+    "villageCode": "011",
+    "districtCode": "32.11.111",
+    "name": "Cijeungjing",
+    "alias": "Cijeungjing"
+  },
+  {
+    "code": "32.11.111.012",
+    "villageCode": "012",
+    "districtCode": "32.11.111",
+    "name": "Kadujaya",
+    "alias": "Kadujaya"
+  },
+  {
+    "code": "32.11.111.013",
+    "villageCode": "013",
+    "districtCode": "32.11.111",
+    "name": "Karedok",
+    "alias": "Karedok"
+  }
+]

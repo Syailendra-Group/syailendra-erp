@@ -1,0 +1,72 @@
+[
+  {
+    "code": "82.04.040.012",
+    "villageCode": "012",
+    "districtCode": "82.04.040",
+    "name": "Babang",
+    "alias": "Babang"
+  },
+  {
+    "code": "82.04.040.013",
+    "villageCode": "013",
+    "districtCode": "82.04.040",
+    "name": "Bori",
+    "alias": "Bori"
+  },
+  {
+    "code": "82.04.040.014",
+    "villageCode": "014",
+    "districtCode": "82.04.040",
+    "name": "Nyonyifi",
+    "alias": "Nyonyifi"
+  },
+  {
+    "code": "82.04.040.015",
+    "villageCode": "015",
+    "districtCode": "82.04.040",
+    "name": "Sabatang",
+    "alias": "Sabatang"
+  },
+  {
+    "code": "82.04.040.016",
+    "villageCode": "016",
+    "districtCode": "82.04.040",
+    "name": "Goro Goro",
+    "alias": "Goro Goro"
+  },
+  {
+    "code": "82.04.040.017",
+    "villageCode": "017",
+    "districtCode": "82.04.040",
+    "name": "Timlonga",
+    "alias": "Timlonga"
+  },
+  {
+    "code": "82.04.040.018",
+    "villageCode": "018",
+    "districtCode": "82.04.040",
+    "name": "Sali Kecil",
+    "alias": "Sali Kecil"
+  },
+  {
+    "code": "82.04.040.021",
+    "villageCode": "021",
+    "districtCode": "82.04.040",
+    "name": "Wayamiga",
+    "alias": "Wayamiga"
+  },
+  {
+    "code": "82.04.040.022",
+    "villageCode": "022",
+    "districtCode": "82.04.040",
+    "name": "Sayoang",
+    "alias": "Sayoang"
+  },
+  {
+    "code": "82.04.040.023",
+    "villageCode": "023",
+    "districtCode": "82.04.040",
+    "name": "Kaireu",
+    "alias": "Kaireu"
+  }
+]

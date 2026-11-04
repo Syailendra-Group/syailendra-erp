@@ -1,0 +1,30 @@
+[
+  {
+    "code": "33.20.120.001",
+    "villageCode": "001",
+    "districtCode": "33.20.120",
+    "name": "Karimunjawa",
+    "alias": "Karimunjawa"
+  },
+  {
+    "code": "33.20.120.002",
+    "villageCode": "002",
+    "districtCode": "33.20.120",
+    "name": "Kemujan",
+    "alias": "Kemujan"
+  },
+  {
+    "code": "33.20.120.003",
+    "villageCode": "003",
+    "districtCode": "33.20.120",
+    "name": "Parang",
+    "alias": "Parang"
+  },
+  {
+    "code": "33.20.120.004",
+    "villageCode": "004",
+    "districtCode": "33.20.120",
+    "name": "Nyamuk",
+    "alias": "Nyamuk"
+  }
+]

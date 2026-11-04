@@ -1,0 +1,65 @@
+[
+  {
+    "code": "36.01.070.003",
+    "villageCode": "003",
+    "districtCode": "36.01.070",
+    "name": "Lebak",
+    "alias": "Lebak"
+  },
+  {
+    "code": "36.01.070.004",
+    "villageCode": "004",
+    "districtCode": "36.01.070",
+    "name": "Gunungbatu",
+    "alias": "Gunungbatu"
+  },
+  {
+    "code": "36.01.070.005",
+    "villageCode": "005",
+    "districtCode": "36.01.070",
+    "name": "Panacaran",
+    "alias": "Panacaran"
+  },
+  {
+    "code": "36.01.070.006",
+    "villageCode": "006",
+    "districtCode": "36.01.070",
+    "name": "Curuglanglang",
+    "alias": "Curuglanglang"
+  },
+  {
+    "code": "36.01.070.007",
+    "villageCode": "007",
+    "districtCode": "36.01.070",
+    "name": "Munjul",
+    "alias": "Munjul"
+  },
+  {
+    "code": "36.01.070.008",
+    "villageCode": "008",
+    "districtCode": "36.01.070",
+    "name": "Cibitung",
+    "alias": "Cibitung"
+  },
+  {
+    "code": "36.01.070.018",
+    "villageCode": "018",
+    "districtCode": "36.01.070",
+    "name": "Kotadukuh",
+    "alias": "Kotadukuh"
+  },
+  {
+    "code": "36.01.070.019",
+    "villageCode": "019",
+    "districtCode": "36.01.070",
+    "name": "Pasanggrahan",
+    "alias": "Pasanggrahan"
+  },
+  {
+    "code": "36.01.070.020",
+    "villageCode": "020",
+    "districtCode": "36.01.070",
+    "name": "Sukasaba",
+    "alias": "Sukasaba"
+  }
+]

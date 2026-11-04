@@ -1,0 +1,100 @@
+[
+  {
+    "code": "33.11.090.001",
+    "villageCode": "001",
+    "districtCode": "33.11.090",
+    "name": "Pondok",
+    "alias": "Pondok"
+  },
+  {
+    "code": "33.11.090.002",
+    "villageCode": "002",
+    "districtCode": "33.11.090",
+    "name": "Parangjoro",
+    "alias": "Parangjoro"
+  },
+  {
+    "code": "33.11.090.003",
+    "villageCode": "003",
+    "districtCode": "33.11.090",
+    "name": "Pandeyan",
+    "alias": "Pandeyan"
+  },
+  {
+    "code": "33.11.090.004",
+    "villageCode": "004",
+    "districtCode": "33.11.090",
+    "name": "Telukan",
+    "alias": "Telukan"
+  },
+  {
+    "code": "33.11.090.005",
+    "villageCode": "005",
+    "districtCode": "33.11.090",
+    "name": "Kadokan",
+    "alias": "Kadokan"
+  },
+  {
+    "code": "33.11.090.006",
+    "villageCode": "006",
+    "districtCode": "33.11.090",
+    "name": "Grogol",
+    "alias": "Grogol"
+  },
+  {
+    "code": "33.11.090.007",
+    "villageCode": "007",
+    "districtCode": "33.11.090",
+    "name": "Madegondo",
+    "alias": "Madegondo"
+  },
+  {
+    "code": "33.11.090.008",
+    "villageCode": "008",
+    "districtCode": "33.11.090",
+    "name": "Langenharjo",
+    "alias": "Langenharjo"
+  },
+  {
+    "code": "33.11.090.009",
+    "villageCode": "009",
+    "districtCode": "33.11.090",
+    "name": "Gedangan",
+    "alias": "Gedangan"
+  },
+  {
+    "code": "33.11.090.010",
+    "villageCode": "010",
+    "districtCode": "33.11.090",
+    "name": "Kwarasan",
+    "alias": "Kwarasan"
+  },
+  {
+    "code": "33.11.090.011",
+    "villageCode": "011",
+    "districtCode": "33.11.090",
+    "name": "Sanggrahan",
+    "alias": "Sanggrahan"
+  },
+  {
+    "code": "33.11.090.012",
+    "villageCode": "012",
+    "districtCode": "33.11.090",
+    "name": "Manang",
+    "alias": "Manang"
+  },
+  {
+    "code": "33.11.090.013",
+    "villageCode": "013",
+    "districtCode": "33.11.090",
+    "name": "Banaran",
+    "alias": "Banaran"
+  },
+  {
+    "code": "33.11.090.014",
+    "villageCode": "014",
+    "districtCode": "33.11.090",
+    "name": "Cemani",
+    "alias": "Cemani"
+  }
+]

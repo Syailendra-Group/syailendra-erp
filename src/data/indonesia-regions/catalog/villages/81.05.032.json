@@ -1,0 +1,65 @@
+[
+  {
+    "code": "81.05.032.001",
+    "villageCode": "001",
+    "districtCode": "81.05.032",
+    "name": "Batuley",
+    "alias": "Batuley"
+  },
+  {
+    "code": "81.05.032.002",
+    "villageCode": "002",
+    "districtCode": "81.05.032",
+    "name": "Kabalsiang",
+    "alias": "Kabalsiang"
+  },
+  {
+    "code": "81.05.032.003",
+    "villageCode": "003",
+    "districtCode": "81.05.032",
+    "name": "Benjuring",
+    "alias": "Benjuring"
+  },
+  {
+    "code": "81.05.032.004",
+    "villageCode": "004",
+    "districtCode": "81.05.032",
+    "name": "Kumul",
+    "alias": "Kumul"
+  },
+  {
+    "code": "81.05.032.005",
+    "villageCode": "005",
+    "districtCode": "81.05.032",
+    "name": "Waria",
+    "alias": "Waria"
+  },
+  {
+    "code": "81.05.032.006",
+    "villageCode": "006",
+    "districtCode": "81.05.032",
+    "name": "Sewer",
+    "alias": "Sewer"
+  },
+  {
+    "code": "81.05.032.007",
+    "villageCode": "007",
+    "districtCode": "81.05.032",
+    "name": "Jursiang",
+    "alias": "Jursiang"
+  },
+  {
+    "code": "81.05.032.008",
+    "villageCode": "008",
+    "districtCode": "81.05.032",
+    "name": "Kompane",
+    "alias": "Kompane"
+  },
+  {
+    "code": "81.05.032.009",
+    "villageCode": "009",
+    "districtCode": "81.05.032",
+    "name": "Kobamar",
+    "alias": "Kobamar"
+  }
+]

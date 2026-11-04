@@ -1,0 +1,289 @@
+[
+  {
+    "code": "11.10.101.001",
+    "villageCode": "001",
+    "districtCode": "11.10.101",
+    "name": "Parang Sikureung",
+    "alias": "Parang Sikureung"
+  },
+  {
+    "code": "11.10.101.002",
+    "villageCode": "002",
+    "districtCode": "11.10.101",
+    "name": "Tanjong Siron",
+    "alias": "Tanjong Siron"
+  },
+  {
+    "code": "11.10.101.003",
+    "villageCode": "003",
+    "districtCode": "11.10.101",
+    "name": "Paloh Raya",
+    "alias": "Paloh Raya"
+  },
+  {
+    "code": "11.10.101.004",
+    "villageCode": "004",
+    "districtCode": "11.10.101",
+    "name": "Paloh Peuradi",
+    "alias": "Paloh Peuradi"
+  },
+  {
+    "code": "11.10.101.005",
+    "villageCode": "005",
+    "districtCode": "11.10.101",
+    "name": "Crueng Kumbang",
+    "alias": "Crueng Kumbang"
+  },
+  {
+    "code": "11.10.101.006",
+    "villageCode": "006",
+    "districtCode": "11.10.101",
+    "name": "Paloh Dama",
+    "alias": "Paloh Dama"
+  },
+  {
+    "code": "11.10.101.007",
+    "villageCode": "007",
+    "districtCode": "11.10.101",
+    "name": "Buket Dalam",
+    "alias": "Buket Dalam"
+  },
+  {
+    "code": "11.10.101.008",
+    "villageCode": "008",
+    "districtCode": "11.10.101",
+    "name": "Glee Putoh",
+    "alias": "Glee Putoh"
+  },
+  {
+    "code": "11.10.101.009",
+    "villageCode": "009",
+    "districtCode": "11.10.101",
+    "name": "Balee Mee",
+    "alias": "Balee Mee"
+  },
+  {
+    "code": "11.10.101.010",
+    "villageCode": "010",
+    "districtCode": "11.10.101",
+    "name": "Kulu",
+    "alias": "Kulu"
+  },
+  {
+    "code": "11.10.101.011",
+    "villageCode": "011",
+    "districtCode": "11.10.101",
+    "name": "Blang Mee",
+    "alias": "Blang Mee"
+  },
+  {
+    "code": "11.10.101.012",
+    "villageCode": "012",
+    "districtCode": "11.10.101",
+    "name": "Blang Panjoe",
+    "alias": "Blang Panjoe"
+  },
+  {
+    "code": "11.10.101.013",
+    "villageCode": "013",
+    "districtCode": "11.10.101",
+    "name": "Lhok Nga",
+    "alias": "Lhok Nga"
+  },
+  {
+    "code": "11.10.101.014",
+    "villageCode": "014",
+    "districtCode": "11.10.101",
+    "name": "Meuse",
+    "alias": "Meuse"
+  },
+  {
+    "code": "11.10.101.015",
+    "villageCode": "015",
+    "districtCode": "11.10.101",
+    "name": "Babah Jurong",
+    "alias": "Babah Jurong"
+  },
+  {
+    "code": "11.10.101.016",
+    "villageCode": "016",
+    "districtCode": "11.10.101",
+    "name": "Dayah Panjoe",
+    "alias": "Dayah Panjoe"
+  },
+  {
+    "code": "11.10.101.017",
+    "villageCode": "017",
+    "districtCode": "11.10.101",
+    "name": "Im Budee",
+    "alias": "Im Budee"
+  },
+  {
+    "code": "11.10.101.018",
+    "villageCode": "018",
+    "districtCode": "11.10.101",
+    "name": "Tingkeum Baro",
+    "alias": "Tingkeum Baro"
+  },
+  {
+    "code": "11.10.101.019",
+    "villageCode": "019",
+    "districtCode": "11.10.101",
+    "name": "Pulo Reudeup",
+    "alias": "Pulo Reudeup"
+  },
+  {
+    "code": "11.10.101.020",
+    "villageCode": "020",
+    "districtCode": "11.10.101",
+    "name": "Tingkeum Manyang",
+    "alias": "Tingkeum Manyang"
+  },
+  {
+    "code": "11.10.101.021",
+    "villageCode": "021",
+    "districtCode": "11.10.101",
+    "name": "Ulee Pusong",
+    "alias": "Ulee Pusong"
+  },
+  {
+    "code": "11.10.101.022",
+    "villageCode": "022",
+    "districtCode": "11.10.101",
+    "name": "Paya Rangkuluh",
+    "alias": "Paya Rangkuluh"
+  },
+  {
+    "code": "11.10.101.023",
+    "villageCode": "023",
+    "districtCode": "11.10.101",
+    "name": "Cot Baroh",
+    "alias": "Cot Baroh"
+  },
+  {
+    "code": "11.10.101.024",
+    "villageCode": "024",
+    "districtCode": "11.10.101",
+    "name": "Babah Suak",
+    "alias": "Babah Suak"
+  },
+  {
+    "code": "11.10.101.025",
+    "villageCode": "025",
+    "districtCode": "11.10.101",
+    "name": "Geulanggang Rayeuk",
+    "alias": "Geulanggang Rayeuk"
+  },
+  {
+    "code": "11.10.101.026",
+    "villageCode": "026",
+    "districtCode": "11.10.101",
+    "name": "Geulanggang Meunjee",
+    "alias": "Geulanggang Meunjee"
+  },
+  {
+    "code": "11.10.101.027",
+    "villageCode": "027",
+    "districtCode": "11.10.101",
+    "name": "Geulanggang Panah",
+    "alias": "Geulanggang Panah"
+  },
+  {
+    "code": "11.10.101.028",
+    "villageCode": "028",
+    "districtCode": "11.10.101",
+    "name": "Pulo Blang",
+    "alias": "Pulo Blang"
+  },
+  {
+    "code": "11.10.101.029",
+    "villageCode": "029",
+    "districtCode": "11.10.101",
+    "name": "Pulo Siron",
+    "alias": "Pulo Siron"
+  },
+  {
+    "code": "11.10.101.030",
+    "villageCode": "030",
+    "districtCode": "11.10.101",
+    "name": "Jarom Mahme",
+    "alias": "Jarom Mahme"
+  },
+  {
+    "code": "11.10.101.031",
+    "villageCode": "031",
+    "districtCode": "11.10.101",
+    "name": "Dayah Mesjid",
+    "alias": "Dayah Mesjid"
+  },
+  {
+    "code": "11.10.101.032",
+    "villageCode": "032",
+    "districtCode": "11.10.101",
+    "name": "Ujong Blang",
+    "alias": "Ujong Blang"
+  },
+  {
+    "code": "11.10.101.033",
+    "villageCode": "033",
+    "districtCode": "11.10.101",
+    "name": "Keurumbok",
+    "alias": "Keurumbok"
+  },
+  {
+    "code": "11.10.101.034",
+    "villageCode": "034",
+    "districtCode": "11.10.101",
+    "name": "Jaromah Baroh",
+    "alias": "Jaromah Baroh"
+  },
+  {
+    "code": "11.10.101.035",
+    "villageCode": "035",
+    "districtCode": "11.10.101",
+    "name": "Cot Ara",
+    "alias": "Cot Ara"
+  },
+  {
+    "code": "11.10.101.036",
+    "villageCode": "036",
+    "districtCode": "11.10.101",
+    "name": "Rancong",
+    "alias": "Rancong"
+  },
+  {
+    "code": "11.10.101.037",
+    "villageCode": "037",
+    "districtCode": "11.10.101",
+    "name": "Pulo Nga",
+    "alias": "Pulo Nga"
+  },
+  {
+    "code": "11.10.101.038",
+    "villageCode": "038",
+    "districtCode": "11.10.101",
+    "name": "Cot Mee",
+    "alias": "Cot Mee"
+  },
+  {
+    "code": "11.10.101.039",
+    "villageCode": "039",
+    "districtCode": "11.10.101",
+    "name": "Jambo Kajeung",
+    "alias": "Jambo Kajeung"
+  },
+  {
+    "code": "11.10.101.040",
+    "villageCode": "040",
+    "districtCode": "11.10.101",
+    "name": "Kulu Kuta",
+    "alias": "Kulu Kuta"
+  },
+  {
+    "code": "11.10.101.041",
+    "villageCode": "041",
+    "districtCode": "11.10.101",
+    "name": "Pulo Awe",
+    "alias": "Pulo Awe"
+  }
+]

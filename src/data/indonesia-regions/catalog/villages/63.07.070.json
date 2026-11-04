@@ -1,0 +1,114 @@
+[
+  {
+    "code": "63.07.070.001",
+    "villageCode": "001",
+    "districtCode": "63.07.070",
+    "name": "Pahalatan",
+    "alias": "Pahalatan"
+  },
+  {
+    "code": "63.07.070.003",
+    "villageCode": "003",
+    "districtCode": "63.07.070",
+    "name": "Perumahan",
+    "alias": "Perumahan"
+  },
+  {
+    "code": "63.07.070.004",
+    "villageCode": "004",
+    "districtCode": "63.07.070",
+    "name": "Kadundung",
+    "alias": "Kadundung"
+  },
+  {
+    "code": "63.07.070.006",
+    "villageCode": "006",
+    "districtCode": "63.07.070",
+    "name": "Kasarangan",
+    "alias": "Kasarangan"
+  },
+  {
+    "code": "63.07.070.007",
+    "villageCode": "007",
+    "districtCode": "63.07.070",
+    "name": "Pemangkih Seberang",
+    "alias": "Pemangkih Seberang"
+  },
+  {
+    "code": "63.07.070.010",
+    "villageCode": "010",
+    "districtCode": "63.07.070",
+    "name": "Tabat",
+    "alias": "Tabat"
+  },
+  {
+    "code": "63.07.070.013",
+    "villageCode": "013",
+    "districtCode": "63.07.070",
+    "name": "Mantaas",
+    "alias": "Mantaas"
+  },
+  {
+    "code": "63.07.070.015",
+    "villageCode": "015",
+    "districtCode": "63.07.070",
+    "name": "Rantau Bujur",
+    "alias": "Rantau Bujur"
+  },
+  {
+    "code": "63.07.070.017",
+    "villageCode": "017",
+    "districtCode": "63.07.070",
+    "name": "Binjai Pirua",
+    "alias": "Binjai Pirua"
+  },
+  {
+    "code": "63.07.070.019",
+    "villageCode": "019",
+    "districtCode": "63.07.070",
+    "name": "Binjai Pemangkih",
+    "alias": "Binjai Pemangkih"
+  },
+  {
+    "code": "63.07.070.021",
+    "villageCode": "021",
+    "districtCode": "63.07.070",
+    "name": "Tungkup",
+    "alias": "Tungkup"
+  },
+  {
+    "code": "63.07.070.023",
+    "villageCode": "023",
+    "districtCode": "63.07.070",
+    "name": "Pemangkih",
+    "alias": "Pemangkih"
+  },
+  {
+    "code": "63.07.070.026",
+    "villageCode": "026",
+    "districtCode": "63.07.070",
+    "name": "Rantau Keminting",
+    "alias": "Rantau Keminting"
+  },
+  {
+    "code": "63.07.070.027",
+    "villageCode": "027",
+    "districtCode": "63.07.070",
+    "name": "Banua Kupang",
+    "alias": "Banua Kupang"
+  },
+  {
+    "code": "63.07.070.031",
+    "villageCode": "031",
+    "districtCode": "63.07.070",
+    "name": "Sungai Buluh",
+    "alias": "Sungai Buluh"
+  },
+  {
+    "code": "63.07.070.033",
+    "villageCode": "033",
+    "districtCode": "63.07.070",
+    "name": "Samhurang",
+    "alias": "Samhurang"
+  }
+]

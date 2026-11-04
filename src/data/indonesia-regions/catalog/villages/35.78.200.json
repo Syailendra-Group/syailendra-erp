@@ -1,0 +1,58 @@
+[
+  {
+    "code": "35.78.200.001",
+    "villageCode": "001",
+    "districtCode": "35.78.200",
+    "name": "Pacar Keling",
+    "alias": "Pacar Keling"
+  },
+  {
+    "code": "35.78.200.002",
+    "villageCode": "002",
+    "districtCode": "35.78.200",
+    "name": "Pacar Kembang",
+    "alias": "Pacar Kembang"
+  },
+  {
+    "code": "35.78.200.003",
+    "villageCode": "003",
+    "districtCode": "35.78.200",
+    "name": "Ploso",
+    "alias": "Ploso"
+  },
+  {
+    "code": "35.78.200.004",
+    "villageCode": "004",
+    "districtCode": "35.78.200",
+    "name": "Tambaksari",
+    "alias": "Tambaksari"
+  },
+  {
+    "code": "35.78.200.005",
+    "villageCode": "005",
+    "districtCode": "35.78.200",
+    "name": "Rangkah",
+    "alias": "Rangkah"
+  },
+  {
+    "code": "35.78.200.006",
+    "villageCode": "006",
+    "districtCode": "35.78.200",
+    "name": "Gading",
+    "alias": "Gading"
+  },
+  {
+    "code": "35.78.200.007",
+    "villageCode": "007",
+    "districtCode": "35.78.200",
+    "name": "Kapasmadya Baru",
+    "alias": "Kapasmadya Baru"
+  },
+  {
+    "code": "35.78.200.008",
+    "villageCode": "008",
+    "districtCode": "35.78.200",
+    "name": "Dukuh Setro",
+    "alias": "Dukuh Setro"
+  }
+]

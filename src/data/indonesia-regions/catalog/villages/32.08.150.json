@@ -1,0 +1,100 @@
+[
+  {
+    "code": "32.08.150.001",
+    "villageCode": "001",
+    "districtCode": "32.08.150",
+    "name": "Pajambon",
+    "alias": "Pajambon"
+  },
+  {
+    "code": "32.08.150.002",
+    "villageCode": "002",
+    "districtCode": "32.08.150",
+    "name": "Ragawacana",
+    "alias": "Ragawacana"
+  },
+  {
+    "code": "32.08.150.003",
+    "villageCode": "003",
+    "districtCode": "32.08.150",
+    "name": "Cilowa",
+    "alias": "Cilowa"
+  },
+  {
+    "code": "32.08.150.005",
+    "villageCode": "005",
+    "districtCode": "32.08.150",
+    "name": "Gereba",
+    "alias": "Gereba"
+  },
+  {
+    "code": "32.08.150.007",
+    "villageCode": "007",
+    "districtCode": "32.08.150",
+    "name": "Cikubangsari",
+    "alias": "Cikubangsari"
+  },
+  {
+    "code": "32.08.150.008",
+    "villageCode": "008",
+    "districtCode": "32.08.150",
+    "name": "Widarasari",
+    "alias": "Widarasari"
+  },
+  {
+    "code": "32.08.150.009",
+    "villageCode": "009",
+    "districtCode": "32.08.150",
+    "name": "Cilaja",
+    "alias": "Cilaja"
+  },
+  {
+    "code": "32.08.150.010",
+    "villageCode": "010",
+    "districtCode": "32.08.150",
+    "name": "Bojong",
+    "alias": "Bojong"
+  },
+  {
+    "code": "32.08.150.011",
+    "villageCode": "011",
+    "districtCode": "32.08.150",
+    "name": "Cikaso",
+    "alias": "Cikaso"
+  },
+  {
+    "code": "32.08.150.012",
+    "villageCode": "012",
+    "districtCode": "32.08.150",
+    "name": "Kramatmulya",
+    "alias": "Kramatmulya"
+  },
+  {
+    "code": "32.08.150.013",
+    "villageCode": "013",
+    "districtCode": "32.08.150",
+    "name": "Cibentang",
+    "alias": "Cibentang"
+  },
+  {
+    "code": "32.08.150.014",
+    "villageCode": "014",
+    "districtCode": "32.08.150",
+    "name": "Gandasoli",
+    "alias": "Gandasoli"
+  },
+  {
+    "code": "32.08.150.015",
+    "villageCode": "015",
+    "districtCode": "32.08.150",
+    "name": "Kalapagunung",
+    "alias": "Kalapagunung"
+  },
+  {
+    "code": "32.08.150.017",
+    "villageCode": "017",
+    "districtCode": "32.08.150",
+    "name": "Karangmangu",
+    "alias": "Karangmangu"
+  }
+]

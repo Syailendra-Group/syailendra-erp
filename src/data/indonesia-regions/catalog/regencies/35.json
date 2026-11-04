@@ -1,0 +1,306 @@
+[
+  {
+    "code": "35.01",
+    "regencyCode": "01",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kabupaten Pacitan",
+    "alias": "Pacitan"
+  },
+  {
+    "code": "35.02",
+    "regencyCode": "02",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kabupaten Ponorogo",
+    "alias": "Ponorogo"
+  },
+  {
+    "code": "35.03",
+    "regencyCode": "03",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kabupaten Trenggalek",
+    "alias": "Trenggalek"
+  },
+  {
+    "code": "35.04",
+    "regencyCode": "04",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kabupaten Tulungagung",
+    "alias": "Tulungagung"
+  },
+  {
+    "code": "35.05",
+    "regencyCode": "05",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kabupaten Blitar",
+    "alias": "Blitar"
+  },
+  {
+    "code": "35.06",
+    "regencyCode": "06",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kabupaten Kediri",
+    "alias": "Kediri"
+  },
+  {
+    "code": "35.07",
+    "regencyCode": "07",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kabupaten Malang",
+    "alias": "Malang"
+  },
+  {
+    "code": "35.08",
+    "regencyCode": "08",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kabupaten Lumajang",
+    "alias": "Lumajang"
+  },
+  {
+    "code": "35.09",
+    "regencyCode": "09",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kabupaten Jember",
+    "alias": "Jember"
+  },
+  {
+    "code": "35.10",
+    "regencyCode": "10",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kabupaten Banyuwangi",
+    "alias": "Banyuwangi"
+  },
+  {
+    "code": "35.11",
+    "regencyCode": "11",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kabupaten Bondowoso",
+    "alias": "Bondowoso"
+  },
+  {
+    "code": "35.12",
+    "regencyCode": "12",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kabupaten Situbondo",
+    "alias": "Situbondo"
+  },
+  {
+    "code": "35.13",
+    "regencyCode": "13",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kabupaten Probolinggo",
+    "alias": "Probolinggo"
+  },
+  {
+    "code": "35.14",
+    "regencyCode": "14",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kabupaten Pasuruan",
+    "alias": "Pasuruan"
+  },
+  {
+    "code": "35.15",
+    "regencyCode": "15",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kabupaten Sidoarjo",
+    "alias": "Sidoarjo"
+  },
+  {
+    "code": "35.16",
+    "regencyCode": "16",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kabupaten Mojokerto",
+    "alias": "Mojokerto"
+  },
+  {
+    "code": "35.17",
+    "regencyCode": "17",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kabupaten Jombang",
+    "alias": "Jombang"
+  },
+  {
+    "code": "35.18",
+    "regencyCode": "18",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kabupaten Nganjuk",
+    "alias": "Nganjuk"
+  },
+  {
+    "code": "35.19",
+    "regencyCode": "19",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kabupaten Madiun",
+    "alias": "Madiun"
+  },
+  {
+    "code": "35.20",
+    "regencyCode": "20",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kabupaten Magetan",
+    "alias": "Magetan"
+  },
+  {
+    "code": "35.21",
+    "regencyCode": "21",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kabupaten Ngawi",
+    "alias": "Ngawi"
+  },
+  {
+    "code": "35.22",
+    "regencyCode": "22",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kabupaten Bojonegoro",
+    "alias": "Bojonegoro"
+  },
+  {
+    "code": "35.23",
+    "regencyCode": "23",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kabupaten Tuban",
+    "alias": "Tuban"
+  },
+  {
+    "code": "35.24",
+    "regencyCode": "24",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kabupaten Lamongan",
+    "alias": "Lamongan"
+  },
+  {
+    "code": "35.25",
+    "regencyCode": "25",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kabupaten Gresik",
+    "alias": "Gresik"
+  },
+  {
+    "code": "35.26",
+    "regencyCode": "26",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kabupaten Bangkalan",
+    "alias": "Bangkalan"
+  },
+  {
+    "code": "35.27",
+    "regencyCode": "27",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kabupaten Sampang",
+    "alias": "Sampang"
+  },
+  {
+    "code": "35.28",
+    "regencyCode": "28",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kabupaten Pamekasan",
+    "alias": "Pamekasan"
+  },
+  {
+    "code": "35.29",
+    "regencyCode": "29",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kabupaten Sumenep",
+    "alias": "Sumenep"
+  },
+  {
+    "code": "35.71",
+    "regencyCode": "71",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kota Kediri",
+    "alias": "Kediri"
+  },
+  {
+    "code": "35.72",
+    "regencyCode": "72",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kota Blitar",
+    "alias": "Blitar"
+  },
+  {
+    "code": "35.73",
+    "regencyCode": "73",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kota Malang",
+    "alias": "Malang"
+  },
+  {
+    "code": "35.74",
+    "regencyCode": "74",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kota Probolinggo",
+    "alias": "Probolinggo"
+  },
+  {
+    "code": "35.75",
+    "regencyCode": "75",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kota Pasuruan",
+    "alias": "Pasuruan"
+  },
+  {
+    "code": "35.76",
+    "regencyCode": "76",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kota Mojokerto",
+    "alias": "Mojokerto"
+  },
+  {
+    "code": "35.77",
+    "regencyCode": "77",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kota Madiun",
+    "alias": "Madiun"
+  },
+  {
+    "code": "35.78",
+    "regencyCode": "78",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kota Surabaya",
+    "alias": "Surabaya"
+  },
+  {
+    "code": "35.79",
+    "regencyCode": "79",
+    "provinceCode": "35",
+    "provinceName": "Jawa Timur",
+    "name": "Kota Batu",
+    "alias": "Batu"
+  }
+]

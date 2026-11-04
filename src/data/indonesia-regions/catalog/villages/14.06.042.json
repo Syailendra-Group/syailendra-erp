@@ -1,0 +1,114 @@
+[
+  {
+    "code": "14.06.042.001",
+    "villageCode": "001",
+    "districtCode": "14.06.042",
+    "name": "Sekijang",
+    "alias": "Sekijang"
+  },
+  {
+    "code": "14.06.042.002",
+    "villageCode": "002",
+    "districtCode": "14.06.042",
+    "name": "Tebing Lestari",
+    "alias": "Tebing Lestari"
+  },
+  {
+    "code": "14.06.042.003",
+    "villageCode": "003",
+    "districtCode": "14.06.042",
+    "name": "Kijang Jaya",
+    "alias": "Kijang Jaya"
+  },
+  {
+    "code": "14.06.042.004",
+    "villageCode": "004",
+    "districtCode": "14.06.042",
+    "name": "Tanah Tinggi",
+    "alias": "Tanah Tinggi"
+  },
+  {
+    "code": "14.06.042.005",
+    "villageCode": "005",
+    "districtCode": "14.06.042",
+    "name": "Tapung Makmur",
+    "alias": "Tapung Makmur"
+  },
+  {
+    "code": "14.06.042.006",
+    "villageCode": "006",
+    "districtCode": "14.06.042",
+    "name": "Tapung Lestari",
+    "alias": "Tapung Lestari"
+  },
+  {
+    "code": "14.06.042.007",
+    "villageCode": "007",
+    "districtCode": "14.06.042",
+    "name": "Kota Garo",
+    "alias": "Kota Garo"
+  },
+  {
+    "code": "14.06.042.008",
+    "villageCode": "008",
+    "districtCode": "14.06.042",
+    "name": "Suka Maju",
+    "alias": "Suka Maju"
+  },
+  {
+    "code": "14.06.042.009",
+    "villageCode": "009",
+    "districtCode": "14.06.042",
+    "name": "Kota Baru",
+    "alias": "Kota Baru"
+  },
+  {
+    "code": "14.06.042.010",
+    "villageCode": "010",
+    "districtCode": "14.06.042",
+    "name": "Koto Bangun",
+    "alias": "Koto Bangun"
+  },
+  {
+    "code": "14.06.042.011",
+    "villageCode": "011",
+    "districtCode": "14.06.042",
+    "name": "Cinta Damai",
+    "alias": "Cinta Damai"
+  },
+  {
+    "code": "14.06.042.012",
+    "villageCode": "012",
+    "districtCode": "14.06.042",
+    "name": "Beringin Lestari",
+    "alias": "Beringin Lestari"
+  },
+  {
+    "code": "14.06.042.013",
+    "villageCode": "013",
+    "districtCode": "14.06.042",
+    "name": "Tandan Sari",
+    "alias": "Tandan Sari"
+  },
+  {
+    "code": "14.06.042.015",
+    "villageCode": "015",
+    "districtCode": "14.06.042",
+    "name": "Kijang Makmur",
+    "alias": "Kijang Makmur"
+  },
+  {
+    "code": "14.06.042.016",
+    "villageCode": "016",
+    "districtCode": "14.06.042",
+    "name": "Koto Aman",
+    "alias": "Koto Aman"
+  },
+  {
+    "code": "14.06.042.017",
+    "villageCode": "017",
+    "districtCode": "14.06.042",
+    "name": "Gerbang Sari",
+    "alias": "Gerbang Sari"
+  }
+]

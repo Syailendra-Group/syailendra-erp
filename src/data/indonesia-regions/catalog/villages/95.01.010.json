@@ -1,0 +1,93 @@
+[
+  {
+    "code": "95.01.010.001",
+    "villageCode": "001",
+    "districtCode": "95.01.010",
+    "name": "Komolom",
+    "alias": "Komolom"
+  },
+  {
+    "code": "95.01.010.002",
+    "villageCode": "002",
+    "districtCode": "95.01.010",
+    "name": "Webu",
+    "alias": "Webu"
+  },
+  {
+    "code": "95.01.010.003",
+    "villageCode": "003",
+    "districtCode": "95.01.010",
+    "name": "Turiram",
+    "alias": "Turiram"
+  },
+  {
+    "code": "95.01.010.004",
+    "villageCode": "004",
+    "districtCode": "95.01.010",
+    "name": "Kumbis",
+    "alias": "Kumbis"
+  },
+  {
+    "code": "95.01.010.005",
+    "villageCode": "005",
+    "districtCode": "95.01.010",
+    "name": "Umanderu",
+    "alias": "Umanderu"
+  },
+  {
+    "code": "95.01.010.006",
+    "villageCode": "006",
+    "districtCode": "95.01.010",
+    "name": "Kalilam",
+    "alias": "Kalilam"
+  },
+  {
+    "code": "95.01.010.007",
+    "villageCode": "007",
+    "districtCode": "95.01.010",
+    "name": "Mambum",
+    "alias": "Mambum"
+  },
+  {
+    "code": "95.01.010.008",
+    "villageCode": "008",
+    "districtCode": "95.01.010",
+    "name": "Deka",
+    "alias": "Deka"
+  },
+  {
+    "code": "95.01.010.009",
+    "villageCode": "009",
+    "districtCode": "95.01.010",
+    "name": "Woner",
+    "alias": "Woner"
+  },
+  {
+    "code": "95.01.010.010",
+    "villageCode": "010",
+    "districtCode": "95.01.010",
+    "name": "Kiworo",
+    "alias": "Kiworo"
+  },
+  {
+    "code": "95.01.010.011",
+    "villageCode": "011",
+    "districtCode": "95.01.010",
+    "name": "Kimaam",
+    "alias": "Kimaam"
+  },
+  {
+    "code": "95.01.010.012",
+    "villageCode": "012",
+    "districtCode": "95.01.010",
+    "name": "Purawanderu",
+    "alias": "Purawanderu"
+  },
+  {
+    "code": "95.01.010.013",
+    "villageCode": "013",
+    "districtCode": "95.01.010",
+    "name": "Teri",
+    "alias": "Teri"
+  }
+]

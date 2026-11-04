@@ -1,0 +1,44 @@
+[
+  {
+    "code": "35.09.220.001",
+    "villageCode": "001",
+    "districtCode": "35.09.220",
+    "name": "Kemuningllor",
+    "alias": "Kemuningllor"
+  },
+  {
+    "code": "35.09.220.002",
+    "villageCode": "002",
+    "districtCode": "35.09.220",
+    "name": "Darsono",
+    "alias": "Darsono"
+  },
+  {
+    "code": "35.09.220.003",
+    "villageCode": "003",
+    "districtCode": "35.09.220",
+    "name": "Arjasa",
+    "alias": "Arjasa"
+  },
+  {
+    "code": "35.09.220.004",
+    "villageCode": "004",
+    "districtCode": "35.09.220",
+    "name": "Biting",
+    "alias": "Biting"
+  },
+  {
+    "code": "35.09.220.005",
+    "villageCode": "005",
+    "districtCode": "35.09.220",
+    "name": "Candijati",
+    "alias": "Candijati"
+  },
+  {
+    "code": "35.09.220.006",
+    "villageCode": "006",
+    "districtCode": "35.09.220",
+    "name": "Kamal",
+    "alias": "Kamal"
+  }
+]

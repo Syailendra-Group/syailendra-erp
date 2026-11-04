@@ -1,0 +1,50 @@
+[
+  {
+    "code": "74.09.100",
+    "districtCode": "100",
+    "regencyCode": "74.09",
+    "provinceCode": "74",
+    "name": "Kecamatan Bonegunu",
+    "alias": "Bonegunu"
+  },
+  {
+    "code": "74.09.101",
+    "districtCode": "101",
+    "regencyCode": "74.09",
+    "provinceCode": "74",
+    "name": "Kecamatan Kambowa",
+    "alias": "Kambowa"
+  },
+  {
+    "code": "74.09.110",
+    "districtCode": "110",
+    "regencyCode": "74.09",
+    "provinceCode": "74",
+    "name": "Kecamatan Wakorumba",
+    "alias": "Wakorumba"
+  },
+  {
+    "code": "74.09.120",
+    "districtCode": "120",
+    "regencyCode": "74.09",
+    "provinceCode": "74",
+    "name": "Kecamatan Kulisusu",
+    "alias": "Kulisusu"
+  },
+  {
+    "code": "74.09.121",
+    "districtCode": "121",
+    "regencyCode": "74.09",
+    "provinceCode": "74",
+    "name": "Kecamatan Kulisusu Barat",
+    "alias": "Kulisusu Barat"
+  },
+  {
+    "code": "74.09.122",
+    "districtCode": "122",
+    "regencyCode": "74.09",
+    "provinceCode": "74",
+    "name": "Kecamatan Kulisusu Utara",
+    "alias": "Kulisusu Utara"
+  }
+]

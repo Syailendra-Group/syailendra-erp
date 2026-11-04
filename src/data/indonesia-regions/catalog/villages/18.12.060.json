@@ -1,0 +1,72 @@
+[
+  {
+    "code": "18.12.060.002",
+    "villageCode": "002",
+    "districtCode": "18.12.060",
+    "name": "Gunung Terang",
+    "alias": "Gunung Terang"
+  },
+  {
+    "code": "18.12.060.003",
+    "villageCode": "003",
+    "districtCode": "18.12.060",
+    "name": "Gunung Agung",
+    "alias": "Gunung Agung"
+  },
+  {
+    "code": "18.12.060.008",
+    "villageCode": "008",
+    "districtCode": "18.12.060",
+    "name": "Toto Mulyo",
+    "alias": "Toto Mulyo"
+  },
+  {
+    "code": "18.12.060.009",
+    "villageCode": "009",
+    "districtCode": "18.12.060",
+    "name": "Setia Bumi",
+    "alias": "Setia Bumi"
+  },
+  {
+    "code": "18.12.060.012",
+    "villageCode": "012",
+    "districtCode": "18.12.060",
+    "name": "Kagungan Jaya",
+    "alias": "Kagungan Jaya"
+  },
+  {
+    "code": "18.12.060.013",
+    "villageCode": "013",
+    "districtCode": "18.12.060",
+    "name": "Terang Mulya",
+    "alias": "Terang Mulya"
+  },
+  {
+    "code": "18.12.060.014",
+    "villageCode": "014",
+    "districtCode": "18.12.060",
+    "name": "Terang Bumi Agung",
+    "alias": "Terang Bumi Agung"
+  },
+  {
+    "code": "18.12.060.016",
+    "villageCode": "016",
+    "districtCode": "18.12.060",
+    "name": "Setia Agung",
+    "alias": "Setia Agung"
+  },
+  {
+    "code": "18.12.060.018",
+    "villageCode": "018",
+    "districtCode": "18.12.060",
+    "name": "Mulyo Jadi",
+    "alias": "Mulyo Jadi"
+  },
+  {
+    "code": "18.12.060.021",
+    "villageCode": "021",
+    "districtCode": "18.12.060",
+    "name": "Terang Makmur",
+    "alias": "Terang Makmur"
+  }
+]

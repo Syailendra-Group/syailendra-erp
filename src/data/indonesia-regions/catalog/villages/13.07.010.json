@@ -1,0 +1,30 @@
+[
+  {
+    "code": "13.07.010.001",
+    "villageCode": "001",
+    "districtCode": "13.07.010",
+    "name": "Tiku Selatan",
+    "alias": "Tiku Selatan"
+  },
+  {
+    "code": "13.07.010.002",
+    "villageCode": "002",
+    "districtCode": "13.07.010",
+    "name": "Tiku Utara",
+    "alias": "Tiku Utara"
+  },
+  {
+    "code": "13.07.010.003",
+    "villageCode": "003",
+    "districtCode": "13.07.010",
+    "name": "Tiku Limo Jorong",
+    "alias": "Tiku Limo Jorong"
+  },
+  {
+    "code": "13.07.010.004",
+    "villageCode": "004",
+    "districtCode": "13.07.010",
+    "name": "Nagari Persiapan Durian Kapeh Darussalam",
+    "alias": "Nagari Persiapan Durian Kapeh Darussalam"
+  }
+]

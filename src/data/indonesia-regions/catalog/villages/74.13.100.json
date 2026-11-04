@@ -1,0 +1,72 @@
+[
+  {
+    "code": "74.13.100.014",
+    "villageCode": "014",
+    "districtCode": "74.13.100",
+    "name": "Kusambi",
+    "alias": "Kusambi"
+  },
+  {
+    "code": "74.13.100.015",
+    "villageCode": "015",
+    "districtCode": "74.13.100",
+    "name": "Konawe",
+    "alias": "Konawe"
+  },
+  {
+    "code": "74.13.100.016",
+    "villageCode": "016",
+    "districtCode": "74.13.100",
+    "name": "Guali",
+    "alias": "Guali"
+  },
+  {
+    "code": "74.13.100.017",
+    "villageCode": "017",
+    "districtCode": "74.13.100",
+    "name": "Lapokainse",
+    "alias": "Lapokainse"
+  },
+  {
+    "code": "74.13.100.018",
+    "villageCode": "018",
+    "districtCode": "74.13.100",
+    "name": "Lemoambo",
+    "alias": "Lemoambo"
+  },
+  {
+    "code": "74.13.100.019",
+    "villageCode": "019",
+    "districtCode": "74.13.100",
+    "name": "Kasakamu",
+    "alias": "Kasakamu"
+  },
+  {
+    "code": "74.13.100.020",
+    "villageCode": "020",
+    "districtCode": "74.13.100",
+    "name": "Lakawoghe",
+    "alias": "Lakawoghe"
+  },
+  {
+    "code": "74.13.100.021",
+    "villageCode": "021",
+    "districtCode": "74.13.100",
+    "name": "Bakeramba",
+    "alias": "Bakeramba"
+  },
+  {
+    "code": "74.13.100.022",
+    "villageCode": "022",
+    "districtCode": "74.13.100",
+    "name": "Tanjung Pinang",
+    "alias": "Tanjung Pinang"
+  },
+  {
+    "code": "74.13.100.023",
+    "villageCode": "023",
+    "districtCode": "74.13.100",
+    "name": "Sida Mangura",
+    "alias": "Sida Mangura"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "code": "51.02.011.001",
+    "villageCode": "001",
+    "districtCode": "51.02.011",
+    "name": "Tegal Mengkeb",
+    "alias": "Tegal Mengkeb"
+  },
+  {
+    "code": "51.02.011.002",
+    "villageCode": "002",
+    "districtCode": "51.02.011",
+    "name": "Beraban",
+    "alias": "Beraban"
+  },
+  {
+    "code": "51.02.011.003",
+    "villageCode": "003",
+    "districtCode": "51.02.011",
+    "name": "Tangguntiti",
+    "alias": "Tangguntiti"
+  },
+  {
+    "code": "51.02.011.004",
+    "villageCode": "004",
+    "districtCode": "51.02.011",
+    "name": "Mambang",
+    "alias": "Mambang"
+  },
+  {
+    "code": "51.02.011.005",
+    "villageCode": "005",
+    "districtCode": "51.02.011",
+    "name": "Bantas",
+    "alias": "Bantas"
+  },
+  {
+    "code": "51.02.011.006",
+    "villageCode": "006",
+    "districtCode": "51.02.011",
+    "name": "Megati",
+    "alias": "Megati"
+  },
+  {
+    "code": "51.02.011.007",
+    "villageCode": "007",
+    "districtCode": "51.02.011",
+    "name": "Gadungan",
+    "alias": "Gadungan"
+  },
+  {
+    "code": "51.02.011.008",
+    "villageCode": "008",
+    "districtCode": "51.02.011",
+    "name": "Gunung Salak",
+    "alias": "Gunung Salak"
+  },
+  {
+    "code": "51.02.011.009",
+    "villageCode": "009",
+    "districtCode": "51.02.011",
+    "name": "Dalang",
+    "alias": "Dalang"
+  },
+  {
+    "code": "51.02.011.010",
+    "villageCode": "010",
+    "districtCode": "51.02.011",
+    "name": "Gadung Sari",
+    "alias": "Gadung Sari"
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "code": "12.05.110.001",
+    "villageCode": "001",
+    "districtCode": "12.05.110",
+    "name": "Onan Runggu I",
+    "alias": "Onan Runggu I"
+  },
+  {
+    "code": "12.05.110.002",
+    "villageCode": "002",
+    "districtCode": "12.05.110",
+    "name": "Sipahutar Iii",
+    "alias": "Sipahutar Iii"
+  },
+  {
+    "code": "12.05.110.003",
+    "villageCode": "003",
+    "districtCode": "12.05.110",
+    "name": "Siabal Abal I",
+    "alias": "Siabal Abal I"
+  },
+  {
+    "code": "12.05.110.004",
+    "villageCode": "004",
+    "districtCode": "12.05.110",
+    "name": "Siabal Abal Ii",
+    "alias": "Siabal Abal Ii"
+  },
+  {
+    "code": "12.05.110.005",
+    "villageCode": "005",
+    "districtCode": "12.05.110",
+    "name": "Aek Nauli Ii",
+    "alias": "Aek Nauli Ii"
+  },
+  {
+    "code": "12.05.110.006",
+    "villageCode": "006",
+    "districtCode": "12.05.110",
+    "name": "Aek Nauli Iii",
+    "alias": "Aek Nauli Iii"
+  },
+  {
+    "code": "12.05.110.007",
+    "villageCode": "007",
+    "districtCode": "12.05.110",
+    "name": "Aek Nauli I",
+    "alias": "Aek Nauli I"
+  },
+  {
+    "code": "12.05.110.008",
+    "villageCode": "008",
+    "districtCode": "12.05.110",
+    "name": "Sabungan Nihuta V",
+    "alias": "Sabungan Nihuta V"
+  },
+  {
+    "code": "12.05.110.009",
+    "villageCode": "009",
+    "districtCode": "12.05.110",
+    "name": "Siabal Abal Iii",
+    "alias": "Siabal Abal Iii"
+  },
+  {
+    "code": "12.05.110.010",
+    "villageCode": "010",
+    "districtCode": "12.05.110",
+    "name": "Sipahutar Ii",
+    "alias": "Sipahutar Ii"
+  },
+  {
+    "code": "12.05.110.011",
+    "villageCode": "011",
+    "districtCode": "12.05.110",
+    "name": "Sipahutar I",
+    "alias": "Sipahutar I"
+  },
+  {
+    "code": "12.05.110.012",
+    "villageCode": "012",
+    "districtCode": "12.05.110",
+    "name": "Onan Runggu Iii",
+    "alias": "Onan Runggu Iii"
+  },
+  {
+    "code": "12.05.110.013",
+    "villageCode": "013",
+    "districtCode": "12.05.110",
+    "name": "Onan Runggu Ii",
+    "alias": "Onan Runggu Ii"
+  },
+  {
+    "code": "12.05.110.014",
+    "villageCode": "014",
+    "districtCode": "12.05.110",
+    "name": "Onan Runggu Iv",
+    "alias": "Onan Runggu Iv"
+  },
+  {
+    "code": "12.05.110.015",
+    "villageCode": "015",
+    "districtCode": "12.05.110",
+    "name": "Sabungan Nihuta I",
+    "alias": "Sabungan Nihuta I"
+  },
+  {
+    "code": "12.05.110.016",
+    "villageCode": "016",
+    "districtCode": "12.05.110",
+    "name": "Sabungan Nihuta Ii",
+    "alias": "Sabungan Nihuta Ii"
+  },
+  {
+    "code": "12.05.110.017",
+    "villageCode": "017",
+    "districtCode": "12.05.110",
+    "name": "Sabungan Nihuta Iii",
+    "alias": "Sabungan Nihuta Iii"
+  },
+  {
+    "code": "12.05.110.018",
+    "villageCode": "018",
+    "districtCode": "12.05.110",
+    "name": "Sabungan Nihuta Iv",
+    "alias": "Sabungan Nihuta Iv"
+  },
+  {
+    "code": "12.05.110.019",
+    "villageCode": "019",
+    "districtCode": "12.05.110",
+    "name": "Tapian Nauli Ii",
+    "alias": "Tapian Nauli Ii"
+  },
+  {
+    "code": "12.05.110.020",
+    "villageCode": "020",
+    "districtCode": "12.05.110",
+    "name": "Tapian Nauli Iii",
+    "alias": "Tapian Nauli Iii"
+  },
+  {
+    "code": "12.05.110.021",
+    "villageCode": "021",
+    "districtCode": "12.05.110",
+    "name": "Tapian Nauli I",
+    "alias": "Tapian Nauli I"
+  },
+  {
+    "code": "12.05.110.022",
+    "villageCode": "022",
+    "districtCode": "12.05.110",
+    "name": "Siabal Abal Iv",
+    "alias": "Siabal Abal Iv"
+  },
+  {
+    "code": "12.05.110.023",
+    "villageCode": "023",
+    "districtCode": "12.05.110",
+    "name": "Aek Nauli Iv",
+    "alias": "Aek Nauli Iv"
+  },
+  {
+    "code": "12.05.110.024",
+    "villageCode": "024",
+    "districtCode": "12.05.110",
+    "name": "Siabal-Abal Vi",
+    "alias": "Siabal-Abal Vi"
+  },
+  {
+    "code": "12.05.110.025",
+    "villageCode": "025",
+    "districtCode": "12.05.110",
+    "name": "Siabal-Abal V",
+    "alias": "Siabal-Abal V"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "code": "92.04.220.001",
+    "villageCode": "001",
+    "districtCode": "92.04.220",
+    "name": "Suwiam",
+    "alias": "Suwiam"
+  },
+  {
+    "code": "92.04.220.002",
+    "villageCode": "002",
+    "districtCode": "92.04.220",
+    "name": "Mapura",
+    "alias": "Mapura"
+  },
+  {
+    "code": "92.04.220.003",
+    "villageCode": "003",
+    "districtCode": "92.04.220",
+    "name": "Karfa",
+    "alias": "Karfa"
+  },
+  {
+    "code": "92.04.220.004",
+    "villageCode": "004",
+    "districtCode": "92.04.220",
+    "name": "Tomase",
+    "alias": "Tomase"
+  },
+  {
+    "code": "92.04.220.005",
+    "villageCode": "005",
+    "districtCode": "92.04.220",
+    "name": "Fraboh",
+    "alias": "Fraboh"
+  },
+  {
+    "code": "92.04.220.006",
+    "villageCode": "006",
+    "districtCode": "92.04.220",
+    "name": "Kona",
+    "alias": "Kona"
+  },
+  {
+    "code": "92.04.220.007",
+    "villageCode": "007",
+    "districtCode": "92.04.220",
+    "name": "Kosah",
+    "alias": "Kosah"
+  },
+  {
+    "code": "92.04.220.008",
+    "villageCode": "008",
+    "districtCode": "92.04.220",
+    "name": "Nauwita",
+    "alias": "Nauwita"
+  }
+]

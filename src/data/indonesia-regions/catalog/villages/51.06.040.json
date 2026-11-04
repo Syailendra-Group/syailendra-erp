@@ -1,0 +1,338 @@
+[
+  {
+    "code": "51.06.040.001",
+    "villageCode": "001",
+    "districtCode": "51.06.040",
+    "name": "Mengani",
+    "alias": "Mengani"
+  },
+  {
+    "code": "51.06.040.002",
+    "villageCode": "002",
+    "districtCode": "51.06.040",
+    "name": "Binyan",
+    "alias": "Binyan"
+  },
+  {
+    "code": "51.06.040.003",
+    "villageCode": "003",
+    "districtCode": "51.06.040",
+    "name": "Ulian",
+    "alias": "Ulian"
+  },
+  {
+    "code": "51.06.040.004",
+    "villageCode": "004",
+    "districtCode": "51.06.040",
+    "name": "Bunutin",
+    "alias": "Bunutin"
+  },
+  {
+    "code": "51.06.040.005",
+    "villageCode": "005",
+    "districtCode": "51.06.040",
+    "name": "Langgahan",
+    "alias": "Langgahan"
+  },
+  {
+    "code": "51.06.040.006",
+    "villageCode": "006",
+    "districtCode": "51.06.040",
+    "name": "Lembean",
+    "alias": "Lembean"
+  },
+  {
+    "code": "51.06.040.007",
+    "villageCode": "007",
+    "districtCode": "51.06.040",
+    "name": "Bayungcerik",
+    "alias": "Bayungcerik"
+  },
+  {
+    "code": "51.06.040.008",
+    "villageCode": "008",
+    "districtCode": "51.06.040",
+    "name": "Mangguh",
+    "alias": "Mangguh"
+  },
+  {
+    "code": "51.06.040.009",
+    "villageCode": "009",
+    "districtCode": "51.06.040",
+    "name": "Belancan",
+    "alias": "Belancan"
+  },
+  {
+    "code": "51.06.040.010",
+    "villageCode": "010",
+    "districtCode": "51.06.040",
+    "name": "Katung",
+    "alias": "Katung"
+  },
+  {
+    "code": "51.06.040.011",
+    "villageCode": "011",
+    "districtCode": "51.06.040",
+    "name": "Banua",
+    "alias": "Banua"
+  },
+  {
+    "code": "51.06.040.012",
+    "villageCode": "012",
+    "districtCode": "51.06.040",
+    "name": "Abuan",
+    "alias": "Abuan"
+  },
+  {
+    "code": "51.06.040.013",
+    "villageCode": "013",
+    "districtCode": "51.06.040",
+    "name": "Bonyoh",
+    "alias": "Bonyoh"
+  },
+  {
+    "code": "51.06.040.014",
+    "villageCode": "014",
+    "districtCode": "51.06.040",
+    "name": "Sekaan",
+    "alias": "Sekaan"
+  },
+  {
+    "code": "51.06.040.015",
+    "villageCode": "015",
+    "districtCode": "51.06.040",
+    "name": "Bayung Gede",
+    "alias": "Bayung Gede"
+  },
+  {
+    "code": "51.06.040.016",
+    "villageCode": "016",
+    "districtCode": "51.06.040",
+    "name": "Sekardadi",
+    "alias": "Sekardadi"
+  },
+  {
+    "code": "51.06.040.017",
+    "villageCode": "017",
+    "districtCode": "51.06.040",
+    "name": "Kedisan",
+    "alias": "Kedisan"
+  },
+  {
+    "code": "51.06.040.018",
+    "villageCode": "018",
+    "districtCode": "51.06.040",
+    "name": "Buahan",
+    "alias": "Buahan"
+  },
+  {
+    "code": "51.06.040.019",
+    "villageCode": "019",
+    "districtCode": "51.06.040",
+    "name": "Suter",
+    "alias": "Suter"
+  },
+  {
+    "code": "51.06.040.020",
+    "villageCode": "020",
+    "districtCode": "51.06.040",
+    "name": "Abang Batu Dinding",
+    "alias": "Abang Batu Dinding"
+  },
+  {
+    "code": "51.06.040.021",
+    "villageCode": "021",
+    "districtCode": "51.06.040",
+    "name": "Abang Songan",
+    "alias": "Abang Songan"
+  },
+  {
+    "code": "51.06.040.022",
+    "villageCode": "022",
+    "districtCode": "51.06.040",
+    "name": "Terunyan",
+    "alias": "Terunyan"
+  },
+  {
+    "code": "51.06.040.023",
+    "villageCode": "023",
+    "districtCode": "51.06.040",
+    "name": "Songan B",
+    "alias": "Songan B"
+  },
+  {
+    "code": "51.06.040.024",
+    "villageCode": "024",
+    "districtCode": "51.06.040",
+    "name": "Songan A",
+    "alias": "Songan A"
+  },
+  {
+    "code": "51.06.040.025",
+    "villageCode": "025",
+    "districtCode": "51.06.040",
+    "name": "Batur Selatan",
+    "alias": "Batur Selatan"
+  },
+  {
+    "code": "51.06.040.026",
+    "villageCode": "026",
+    "districtCode": "51.06.040",
+    "name": "Batur Tengah",
+    "alias": "Batur Tengah"
+  },
+  {
+    "code": "51.06.040.027",
+    "villageCode": "027",
+    "districtCode": "51.06.040",
+    "name": "Batur Utara",
+    "alias": "Batur Utara"
+  },
+  {
+    "code": "51.06.040.028",
+    "villageCode": "028",
+    "districtCode": "51.06.040",
+    "name": "Kintamani",
+    "alias": "Kintamani"
+  },
+  {
+    "code": "51.06.040.029",
+    "villageCode": "029",
+    "districtCode": "51.06.040",
+    "name": "Serahi",
+    "alias": "Serahi"
+  },
+  {
+    "code": "51.06.040.030",
+    "villageCode": "030",
+    "districtCode": "51.06.040",
+    "name": "Manikliyu",
+    "alias": "Manikliyu"
+  },
+  {
+    "code": "51.06.040.031",
+    "villageCode": "031",
+    "districtCode": "51.06.040",
+    "name": "Awan",
+    "alias": "Awan"
+  },
+  {
+    "code": "51.06.040.032",
+    "villageCode": "032",
+    "districtCode": "51.06.040",
+    "name": "Belantih",
+    "alias": "Belantih"
+  },
+  {
+    "code": "51.06.040.033",
+    "villageCode": "033",
+    "districtCode": "51.06.040",
+    "name": "Gunungbau",
+    "alias": "Gunungbau"
+  },
+  {
+    "code": "51.06.040.034",
+    "villageCode": "034",
+    "districtCode": "51.06.040",
+    "name": "Belanga",
+    "alias": "Belanga"
+  },
+  {
+    "code": "51.06.040.035",
+    "villageCode": "035",
+    "districtCode": "51.06.040",
+    "name": "Batukaang",
+    "alias": "Batukaang"
+  },
+  {
+    "code": "51.06.040.036",
+    "villageCode": "036",
+    "districtCode": "51.06.040",
+    "name": "Catur",
+    "alias": "Catur"
+  },
+  {
+    "code": "51.06.040.037",
+    "villageCode": "037",
+    "districtCode": "51.06.040",
+    "name": "Pengejaran",
+    "alias": "Pengejaran"
+  },
+  {
+    "code": "51.06.040.038",
+    "villageCode": "038",
+    "districtCode": "51.06.040",
+    "name": "Satra",
+    "alias": "Satra"
+  },
+  {
+    "code": "51.06.040.039",
+    "villageCode": "039",
+    "districtCode": "51.06.040",
+    "name": "Selulung",
+    "alias": "Selulung"
+  },
+  {
+    "code": "51.06.040.040",
+    "villageCode": "040",
+    "districtCode": "51.06.040",
+    "name": "Dausa",
+    "alias": "Dausa"
+  },
+  {
+    "code": "51.06.040.041",
+    "villageCode": "041",
+    "districtCode": "51.06.040",
+    "name": "Daup",
+    "alias": "Daup"
+  },
+  {
+    "code": "51.06.040.042",
+    "villageCode": "042",
+    "districtCode": "51.06.040",
+    "name": "Bantang",
+    "alias": "Bantang"
+  },
+  {
+    "code": "51.06.040.043",
+    "villageCode": "043",
+    "districtCode": "51.06.040",
+    "name": "Kutuh",
+    "alias": "Kutuh"
+  },
+  {
+    "code": "51.06.040.044",
+    "villageCode": "044",
+    "districtCode": "51.06.040",
+    "name": "Sukawana",
+    "alias": "Sukawana"
+  },
+  {
+    "code": "51.06.040.045",
+    "villageCode": "045",
+    "districtCode": "51.06.040",
+    "name": "Subaya",
+    "alias": "Subaya"
+  },
+  {
+    "code": "51.06.040.046",
+    "villageCode": "046",
+    "districtCode": "51.06.040",
+    "name": "Siyakin",
+    "alias": "Siyakin"
+  },
+  {
+    "code": "51.06.040.047",
+    "villageCode": "047",
+    "districtCode": "51.06.040",
+    "name": "Pinggan",
+    "alias": "Pinggan"
+  },
+  {
+    "code": "51.06.040.048",
+    "villageCode": "048",
+    "districtCode": "51.06.040",
+    "name": "Belandingan",
+    "alias": "Belandingan"
+  }
+]

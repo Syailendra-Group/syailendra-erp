@@ -1,0 +1,37 @@
+[
+  {
+    "code": "53.03.192.001",
+    "villageCode": "001",
+    "districtCode": "53.03.192",
+    "name": "Nunuanah",
+    "alias": "Nunuanah"
+  },
+  {
+    "code": "53.03.192.002",
+    "villageCode": "002",
+    "districtCode": "53.03.192",
+    "name": "Kifu",
+    "alias": "Kifu"
+  },
+  {
+    "code": "53.03.192.003",
+    "villageCode": "003",
+    "districtCode": "53.03.192",
+    "name": "Netemnanu Selatan",
+    "alias": "Netemnanu Selatan"
+  },
+  {
+    "code": "53.03.192.004",
+    "villageCode": "004",
+    "districtCode": "53.03.192",
+    "name": "Netemnanu Utara",
+    "alias": "Netemnanu Utara"
+  },
+  {
+    "code": "53.03.192.005",
+    "villageCode": "005",
+    "districtCode": "53.03.192",
+    "name": "Netemnanu",
+    "alias": "Netemnanu"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "code": "72.10.040.001",
+    "villageCode": "001",
+    "districtCode": "72.10.040",
+    "name": "Puro O",
+    "alias": "Puro O"
+  },
+  {
+    "code": "72.10.040.002",
+    "villageCode": "002",
+    "districtCode": "72.10.040",
+    "name": "Langko",
+    "alias": "Langko"
+  },
+  {
+    "code": "72.10.040.003",
+    "villageCode": "003",
+    "districtCode": "72.10.040",
+    "name": "Tomado",
+    "alias": "Tomado"
+  },
+  {
+    "code": "72.10.040.004",
+    "villageCode": "004",
+    "districtCode": "72.10.040",
+    "name": "Anca",
+    "alias": "Anca"
+  },
+  {
+    "code": "72.10.040.005",
+    "villageCode": "005",
+    "districtCode": "72.10.040",
+    "name": "Olu",
+    "alias": "Olu"
+  }
+]

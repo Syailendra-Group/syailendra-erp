@@ -1,0 +1,30 @@
+[
+  {
+    "code": "71.71.054.001",
+    "villageCode": "001",
+    "districtCode": "71.71.054",
+    "name": "Bunaken",
+    "alias": "Bunaken"
+  },
+  {
+    "code": "71.71.054.002",
+    "villageCode": "002",
+    "districtCode": "71.71.054",
+    "name": "Alung Banua",
+    "alias": "Alung Banua"
+  },
+  {
+    "code": "71.71.054.003",
+    "villageCode": "003",
+    "districtCode": "71.71.054",
+    "name": "Manado Tua Satu",
+    "alias": "Manado Tua Satu"
+  },
+  {
+    "code": "71.71.054.004",
+    "villageCode": "004",
+    "districtCode": "71.71.054",
+    "name": "Manado Tua Dua",
+    "alias": "Manado Tua Dua"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "code": "33.07.031.001",
+    "villageCode": "001",
+    "districtCode": "33.07.031",
+    "name": "Mergolangu",
+    "alias": "Mergolangu"
+  },
+  {
+    "code": "33.07.031.002",
+    "villageCode": "002",
+    "districtCode": "33.07.031",
+    "name": "Dempel",
+    "alias": "Dempel"
+  },
+  {
+    "code": "33.07.031.003",
+    "villageCode": "003",
+    "districtCode": "33.07.031",
+    "name": "Pengarengan",
+    "alias": "Pengarengan"
+  },
+  {
+    "code": "33.07.031.004",
+    "villageCode": "004",
+    "districtCode": "33.07.031",
+    "name": "Kalikarung",
+    "alias": "Kalikarung"
+  },
+  {
+    "code": "33.07.031.005",
+    "villageCode": "005",
+    "districtCode": "33.07.031",
+    "name": "Karangsambung",
+    "alias": "Karangsambung"
+  },
+  {
+    "code": "33.07.031.006",
+    "villageCode": "006",
+    "districtCode": "33.07.031",
+    "name": "Depok",
+    "alias": "Depok"
+  },
+  {
+    "code": "33.07.031.007",
+    "villageCode": "007",
+    "districtCode": "33.07.031",
+    "name": "Kalialang",
+    "alias": "Kalialang"
+  },
+  {
+    "code": "33.07.031.008",
+    "villageCode": "008",
+    "districtCode": "33.07.031",
+    "name": "Tempurejo",
+    "alias": "Tempurejo"
+  }
+]

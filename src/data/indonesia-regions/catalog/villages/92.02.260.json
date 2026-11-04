@@ -1,0 +1,44 @@
+[
+  {
+    "code": "92.02.260.001",
+    "villageCode": "001",
+    "districtCode": "92.02.260",
+    "name": "Samusa",
+    "alias": "Samusa"
+  },
+  {
+    "code": "92.02.260.002",
+    "villageCode": "002",
+    "districtCode": "92.02.260",
+    "name": "Maladofok",
+    "alias": "Maladofok"
+  },
+  {
+    "code": "92.02.260.003",
+    "villageCode": "003",
+    "districtCode": "92.02.260",
+    "name": "Klamintu",
+    "alias": "Klamintu"
+  },
+  {
+    "code": "92.02.260.004",
+    "villageCode": "004",
+    "districtCode": "92.02.260",
+    "name": "Klain",
+    "alias": "Klain"
+  },
+  {
+    "code": "92.02.260.005",
+    "villageCode": "005",
+    "districtCode": "92.02.260",
+    "name": "Yorbes",
+    "alias": "Yorbes"
+  },
+  {
+    "code": "92.02.260.006",
+    "villageCode": "006",
+    "districtCode": "92.02.260",
+    "name": "Sayosa",
+    "alias": "Sayosa"
+  }
+]

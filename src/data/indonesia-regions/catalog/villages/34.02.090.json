@@ -1,0 +1,58 @@
+[
+  {
+    "code": "34.02.090.001",
+    "villageCode": "001",
+    "districtCode": "34.02.090",
+    "name": "Selopamioro",
+    "alias": "Selopamioro"
+  },
+  {
+    "code": "34.02.090.002",
+    "villageCode": "002",
+    "districtCode": "34.02.090",
+    "name": "Sriharjo",
+    "alias": "Sriharjo"
+  },
+  {
+    "code": "34.02.090.003",
+    "villageCode": "003",
+    "districtCode": "34.02.090",
+    "name": "Kebon Agung",
+    "alias": "Kebon Agung"
+  },
+  {
+    "code": "34.02.090.004",
+    "villageCode": "004",
+    "districtCode": "34.02.090",
+    "name": "Karang Tengah",
+    "alias": "Karang Tengah"
+  },
+  {
+    "code": "34.02.090.005",
+    "villageCode": "005",
+    "districtCode": "34.02.090",
+    "name": "Girirejo",
+    "alias": "Girirejo"
+  },
+  {
+    "code": "34.02.090.006",
+    "villageCode": "006",
+    "districtCode": "34.02.090",
+    "name": "Karangtalun",
+    "alias": "Karangtalun"
+  },
+  {
+    "code": "34.02.090.007",
+    "villageCode": "007",
+    "districtCode": "34.02.090",
+    "name": "Imogiri",
+    "alias": "Imogiri"
+  },
+  {
+    "code": "34.02.090.008",
+    "villageCode": "008",
+    "districtCode": "34.02.090",
+    "name": "Wukirsari",
+    "alias": "Wukirsari"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "code": "52.06.080.001",
+    "villageCode": "001",
+    "districtCode": "52.06.080",
+    "name": "Rora",
+    "alias": "Rora"
+  },
+  {
+    "code": "52.06.080.002",
+    "villageCode": "002",
+    "districtCode": "52.06.080",
+    "name": "Palama",
+    "alias": "Palama"
+  },
+  {
+    "code": "52.06.080.003",
+    "villageCode": "003",
+    "districtCode": "52.06.080",
+    "name": "Mbawa",
+    "alias": "Mbawa"
+  },
+  {
+    "code": "52.06.080.004",
+    "villageCode": "004",
+    "districtCode": "52.06.080",
+    "name": "O O",
+    "alias": "O O"
+  },
+  {
+    "code": "52.06.080.005",
+    "villageCode": "005",
+    "districtCode": "52.06.080",
+    "name": "Doridungga",
+    "alias": "Doridungga"
+  },
+  {
+    "code": "52.06.080.008",
+    "villageCode": "008",
+    "districtCode": "52.06.080",
+    "name": "Kala",
+    "alias": "Kala"
+  },
+  {
+    "code": "52.06.080.012",
+    "villageCode": "012",
+    "districtCode": "52.06.080",
+    "name": "Bumi Pajo",
+    "alias": "Bumi Pajo"
+  },
+  {
+    "code": "52.06.080.013",
+    "villageCode": "013",
+    "districtCode": "52.06.080",
+    "name": "Mpili",
+    "alias": "Mpili"
+  },
+  {
+    "code": "52.06.080.014",
+    "villageCode": "014",
+    "districtCode": "52.06.080",
+    "name": "Ndano Nae",
+    "alias": "Ndano Nae"
+  }
+]

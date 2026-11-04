@@ -1,0 +1,44 @@
+[
+  {
+    "code": "12.08.061.001",
+    "villageCode": "001",
+    "districtCode": "12.08.061",
+    "name": "Pulau Maria",
+    "alias": "Pulau Maria"
+  },
+  {
+    "code": "12.08.061.002",
+    "villageCode": "002",
+    "districtCode": "12.08.061",
+    "name": "Pulau Tanjung",
+    "alias": "Pulau Tanjung"
+  },
+  {
+    "code": "12.08.061.003",
+    "villageCode": "003",
+    "districtCode": "12.08.061",
+    "name": "Teluk Dalam",
+    "alias": "Teluk Dalam"
+  },
+  {
+    "code": "12.08.061.004",
+    "villageCode": "004",
+    "districtCode": "12.08.061",
+    "name": "Perkebunan Teluk Dalam",
+    "alias": "Perkebunan Teluk Dalam"
+  },
+  {
+    "code": "12.08.061.005",
+    "villageCode": "005",
+    "districtCode": "12.08.061",
+    "name": "Aek Teluk Kiri",
+    "alias": "Aek Teluk Kiri"
+  },
+  {
+    "code": "12.08.061.006",
+    "villageCode": "006",
+    "districtCode": "12.08.061",
+    "name": "Mekar Tanjung",
+    "alias": "Mekar Tanjung"
+  }
+]

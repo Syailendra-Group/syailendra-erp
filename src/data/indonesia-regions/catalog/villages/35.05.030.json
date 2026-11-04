@@ -1,0 +1,72 @@
+[
+  {
+    "code": "35.05.030.001",
+    "villageCode": "001",
+    "districtCode": "35.05.030",
+    "name": "Serang",
+    "alias": "Serang"
+  },
+  {
+    "code": "35.05.030.002",
+    "villageCode": "002",
+    "districtCode": "35.05.030",
+    "name": "Sumbersih",
+    "alias": "Sumbersih"
+  },
+  {
+    "code": "35.05.030.003",
+    "villageCode": "003",
+    "districtCode": "35.05.030",
+    "name": "Kali Gambir",
+    "alias": "Kali Gambir"
+  },
+  {
+    "code": "35.05.030.004",
+    "villageCode": "004",
+    "districtCode": "35.05.030",
+    "name": "Bale Rejo",
+    "alias": "Bale Rejo"
+  },
+  {
+    "code": "35.05.030.005",
+    "villageCode": "005",
+    "districtCode": "35.05.030",
+    "name": "Sumber Agung",
+    "alias": "Sumber Agung"
+  },
+  {
+    "code": "35.05.030.006",
+    "villageCode": "006",
+    "districtCode": "35.05.030",
+    "name": "Panggung Rejo",
+    "alias": "Panggung Rejo"
+  },
+  {
+    "code": "35.05.030.007",
+    "villageCode": "007",
+    "districtCode": "35.05.030",
+    "name": "Kalitengah",
+    "alias": "Kalitengah"
+  },
+  {
+    "code": "35.05.030.008",
+    "villageCode": "008",
+    "districtCode": "35.05.030",
+    "name": "Margo Mulyo",
+    "alias": "Margo Mulyo"
+  },
+  {
+    "code": "35.05.030.009",
+    "villageCode": "009",
+    "districtCode": "35.05.030",
+    "name": "Bumiayu",
+    "alias": "Bumiayu"
+  },
+  {
+    "code": "35.05.030.010",
+    "villageCode": "010",
+    "districtCode": "35.05.030",
+    "name": "Panggung Asri",
+    "alias": "Panggung Asri"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "code": "35.10.200.001",
+    "villageCode": "001",
+    "districtCode": "35.10.200",
+    "name": "Bulusari",
+    "alias": "Bulusari"
+  },
+  {
+    "code": "35.10.200.002",
+    "villageCode": "002",
+    "districtCode": "35.10.200",
+    "name": "Pesucen",
+    "alias": "Pesucen"
+  },
+  {
+    "code": "35.10.200.003",
+    "villageCode": "003",
+    "districtCode": "35.10.200",
+    "name": "Telemung",
+    "alias": "Telemung"
+  },
+  {
+    "code": "35.10.200.004",
+    "villageCode": "004",
+    "districtCode": "35.10.200",
+    "name": "Kelir",
+    "alias": "Kelir"
+  },
+  {
+    "code": "35.10.200.005",
+    "villageCode": "005",
+    "districtCode": "35.10.200",
+    "name": "Kalipuro",
+    "alias": "Kalipuro"
+  },
+  {
+    "code": "35.10.200.006",
+    "villageCode": "006",
+    "districtCode": "35.10.200",
+    "name": "Klatak",
+    "alias": "Klatak"
+  },
+  {
+    "code": "35.10.200.007",
+    "villageCode": "007",
+    "districtCode": "35.10.200",
+    "name": "Ketapang",
+    "alias": "Ketapang"
+  },
+  {
+    "code": "35.10.200.008",
+    "villageCode": "008",
+    "districtCode": "35.10.200",
+    "name": "Gombeng Sari",
+    "alias": "Gombeng Sari"
+  },
+  {
+    "code": "35.10.200.009",
+    "villageCode": "009",
+    "districtCode": "35.10.200",
+    "name": "Bulusan",
+    "alias": "Bulusan"
+  }
+]

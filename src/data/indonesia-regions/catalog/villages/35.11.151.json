@@ -1,0 +1,44 @@
+[
+  {
+    "code": "35.11.151.001",
+    "villageCode": "001",
+    "districtCode": "35.11.151",
+    "name": "Sempol",
+    "alias": "Sempol"
+  },
+  {
+    "code": "35.11.151.002",
+    "villageCode": "002",
+    "districtCode": "35.11.151",
+    "name": "Kalianyar",
+    "alias": "Kalianyar"
+  },
+  {
+    "code": "35.11.151.003",
+    "villageCode": "003",
+    "districtCode": "35.11.151",
+    "name": "Kalisat",
+    "alias": "Kalisat"
+  },
+  {
+    "code": "35.11.151.004",
+    "villageCode": "004",
+    "districtCode": "35.11.151",
+    "name": "Jampit",
+    "alias": "Jampit"
+  },
+  {
+    "code": "35.11.151.005",
+    "villageCode": "005",
+    "districtCode": "35.11.151",
+    "name": "Sumber Rejo",
+    "alias": "Sumber Rejo"
+  },
+  {
+    "code": "35.11.151.006",
+    "villageCode": "006",
+    "districtCode": "35.11.151",
+    "name": "Kaligedang",
+    "alias": "Kaligedang"
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "code": "91.04.051.001",
+    "villageCode": "001",
+    "districtCode": "91.04.051",
+    "name": "Bumi Saniari (Sp Iii)",
+    "alias": "Bumi Saniari (Sp Iii)"
+  },
+  {
+    "code": "91.04.051.002",
+    "villageCode": "002",
+    "districtCode": "91.04.051",
+    "name": "Banjar Ausoy (Sp Iv)",
+    "alias": "Banjar Ausoy (Sp Iv)"
+  },
+  {
+    "code": "91.04.051.003",
+    "villageCode": "003",
+    "districtCode": "91.04.051",
+    "name": "Waraitama (Spi)",
+    "alias": "Waraitama (Spi)"
+  },
+  {
+    "code": "91.04.051.004",
+    "villageCode": "004",
+    "districtCode": "91.04.051",
+    "name": "Atibo / Manimery",
+    "alias": "Atibo / Manimery"
+  },
+  {
+    "code": "91.04.051.005",
+    "villageCode": "005",
+    "districtCode": "91.04.051",
+    "name": "Pasamai",
+    "alias": "Pasamai"
+  },
+  {
+    "code": "91.04.051.006",
+    "villageCode": "006",
+    "districtCode": "91.04.051",
+    "name": "Korano Jaya (Sp Ii)",
+    "alias": "Korano Jaya (Sp Ii)"
+  },
+  {
+    "code": "91.04.051.007",
+    "villageCode": "007",
+    "districtCode": "91.04.051",
+    "name": "Horna Baru",
+    "alias": "Horna Baru"
+  },
+  {
+    "code": "91.04.051.008",
+    "villageCode": "008",
+    "districtCode": "91.04.051",
+    "name": "Tinanteri / Manado",
+    "alias": "Tinanteri / Manado"
+  },
+  {
+    "code": "91.04.051.009",
+    "villageCode": "009",
+    "districtCode": "91.04.051",
+    "name": "Idut",
+    "alias": "Idut"
+  },
+  {
+    "code": "91.04.051.010",
+    "villageCode": "010",
+    "districtCode": "91.04.051",
+    "name": "Muturi",
+    "alias": "Muturi"
+  },
+  {
+    "code": "91.04.051.011",
+    "villageCode": "011",
+    "districtCode": "91.04.051",
+    "name": "Tihibo",
+    "alias": "Tihibo"
+  },
+  {
+    "code": "91.04.051.012",
+    "villageCode": "012",
+    "districtCode": "91.04.051",
+    "name": "Tirasai",
+    "alias": "Tirasai"
+  },
+  {
+    "code": "91.04.051.013",
+    "villageCode": "013",
+    "districtCode": "91.04.051",
+    "name": "Botai",
+    "alias": "Botai"
+  },
+  {
+    "code": "91.04.051.014",
+    "villageCode": "014",
+    "districtCode": "91.04.051",
+    "name": "Rubobo",
+    "alias": "Rubobo"
+  }
+]

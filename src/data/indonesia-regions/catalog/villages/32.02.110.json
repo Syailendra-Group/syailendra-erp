@@ -1,0 +1,72 @@
+[
+  {
+    "code": "32.02.110.005",
+    "villageCode": "005",
+    "districtCode": "32.02.110",
+    "name": "Citarik",
+    "alias": "Citarik"
+  },
+  {
+    "code": "32.02.110.006",
+    "villageCode": "006",
+    "districtCode": "32.02.110",
+    "name": "Palabuhanratu",
+    "alias": "Palabuhanratu"
+  },
+  {
+    "code": "32.02.110.007",
+    "villageCode": "007",
+    "districtCode": "32.02.110",
+    "name": "Citepus",
+    "alias": "Citepus"
+  },
+  {
+    "code": "32.02.110.008",
+    "villageCode": "008",
+    "districtCode": "32.02.110",
+    "name": "Cibodas",
+    "alias": "Cibodas"
+  },
+  {
+    "code": "32.02.110.009",
+    "villageCode": "009",
+    "districtCode": "32.02.110",
+    "name": "Buniwangi",
+    "alias": "Buniwangi"
+  },
+  {
+    "code": "32.02.110.010",
+    "villageCode": "010",
+    "districtCode": "32.02.110",
+    "name": "Cikadu",
+    "alias": "Cikadu"
+  },
+  {
+    "code": "32.02.110.011",
+    "villageCode": "011",
+    "districtCode": "32.02.110",
+    "name": "Pasirsuren",
+    "alias": "Pasirsuren"
+  },
+  {
+    "code": "32.02.110.012",
+    "villageCode": "012",
+    "districtCode": "32.02.110",
+    "name": "Tonjong",
+    "alias": "Tonjong"
+  },
+  {
+    "code": "32.02.110.013",
+    "villageCode": "013",
+    "districtCode": "32.02.110",
+    "name": "Jayanti",
+    "alias": "Jayanti"
+  },
+  {
+    "code": "32.02.110.014",
+    "villageCode": "014",
+    "districtCode": "32.02.110",
+    "name": "Cimanggu",
+    "alias": "Cimanggu"
+  }
+]

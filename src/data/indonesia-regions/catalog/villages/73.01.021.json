@@ -1,0 +1,65 @@
+[
+  {
+    "code": "73.01.021.001",
+    "villageCode": "001",
+    "districtCode": "73.01.021",
+    "name": "Tambuna",
+    "alias": "Tambuna"
+  },
+  {
+    "code": "73.01.021.002",
+    "villageCode": "002",
+    "districtCode": "73.01.021",
+    "name": "Kayuadi",
+    "alias": "Kayuadi"
+  },
+  {
+    "code": "73.01.021.003",
+    "villageCode": "003",
+    "districtCode": "73.01.021",
+    "name": "Batang",
+    "alias": "Batang"
+  },
+  {
+    "code": "73.01.021.004",
+    "villageCode": "004",
+    "districtCode": "73.01.021",
+    "name": "Nyiur Indah",
+    "alias": "Nyiur Indah"
+  },
+  {
+    "code": "73.01.021.005",
+    "villageCode": "005",
+    "districtCode": "73.01.021",
+    "name": "Jinato",
+    "alias": "Jinato"
+  },
+  {
+    "code": "73.01.021.006",
+    "villageCode": "006",
+    "districtCode": "73.01.021",
+    "name": "Rajuni",
+    "alias": "Rajuni"
+  },
+  {
+    "code": "73.01.021.007",
+    "villageCode": "007",
+    "districtCode": "73.01.021",
+    "name": "Latondu",
+    "alias": "Latondu"
+  },
+  {
+    "code": "73.01.021.008",
+    "villageCode": "008",
+    "districtCode": "73.01.021",
+    "name": "Tarupa",
+    "alias": "Tarupa"
+  },
+  {
+    "code": "73.01.021.009",
+    "villageCode": "009",
+    "districtCode": "73.01.021",
+    "name": "Khusus Pasitallu",
+    "alias": "Khusus Pasitallu"
+  }
+]

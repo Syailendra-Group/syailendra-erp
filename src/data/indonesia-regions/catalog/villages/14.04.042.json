@@ -1,0 +1,65 @@
+[
+  {
+    "code": "14.04.042.001",
+    "villageCode": "001",
+    "districtCode": "14.04.042",
+    "name": "Kuala Panduk",
+    "alias": "Kuala Panduk"
+  },
+  {
+    "code": "14.04.042.002",
+    "villageCode": "002",
+    "districtCode": "14.04.042",
+    "name": "Petodaan",
+    "alias": "Petodaan"
+  },
+  {
+    "code": "14.04.042.003",
+    "villageCode": "003",
+    "districtCode": "14.04.042",
+    "name": "Teluk Meranti",
+    "alias": "Teluk Meranti"
+  },
+  {
+    "code": "14.04.042.004",
+    "villageCode": "004",
+    "districtCode": "14.04.042",
+    "name": "Pulau Muda",
+    "alias": "Pulau Muda"
+  },
+  {
+    "code": "14.04.042.005",
+    "villageCode": "005",
+    "districtCode": "14.04.042",
+    "name": "Pangkalan Terap",
+    "alias": "Pangkalan Terap"
+  },
+  {
+    "code": "14.04.042.006",
+    "villageCode": "006",
+    "districtCode": "14.04.042",
+    "name": "Teluk Binjai",
+    "alias": "Teluk Binjai"
+  },
+  {
+    "code": "14.04.042.007",
+    "villageCode": "007",
+    "districtCode": "14.04.042",
+    "name": "Gambut Mutiara",
+    "alias": "Gambut Mutiara"
+  },
+  {
+    "code": "14.04.042.008",
+    "villageCode": "008",
+    "districtCode": "14.04.042",
+    "name": "Labuhan Bilik",
+    "alias": "Labuhan Bilik"
+  },
+  {
+    "code": "14.04.042.009",
+    "villageCode": "009",
+    "districtCode": "14.04.042",
+    "name": "Segamai",
+    "alias": "Segamai"
+  }
+]

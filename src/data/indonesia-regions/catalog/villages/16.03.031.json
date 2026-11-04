@@ -1,0 +1,93 @@
+[
+  {
+    "code": "16.03.031.001",
+    "villageCode": "001",
+    "districtCode": "16.03.031",
+    "name": "Marga Mulia",
+    "alias": "Marga Mulia"
+  },
+  {
+    "code": "16.03.031.002",
+    "villageCode": "002",
+    "districtCode": "16.03.031",
+    "name": "Sumber Rahayu",
+    "alias": "Sumber Rahayu"
+  },
+  {
+    "code": "16.03.031.003",
+    "villageCode": "003",
+    "districtCode": "16.03.031",
+    "name": "Kencana Mulia",
+    "alias": "Kencana Mulia"
+  },
+  {
+    "code": "16.03.031.004",
+    "villageCode": "004",
+    "districtCode": "16.03.031",
+    "name": "Sugih Waras",
+    "alias": "Sugih Waras"
+  },
+  {
+    "code": "16.03.031.005",
+    "villageCode": "005",
+    "districtCode": "16.03.031",
+    "name": "Pagar Agung",
+    "alias": "Pagar Agung"
+  },
+  {
+    "code": "16.03.031.006",
+    "villageCode": "006",
+    "districtCode": "16.03.031",
+    "name": "Tanjung Raya",
+    "alias": "Tanjung Raya"
+  },
+  {
+    "code": "16.03.031.007",
+    "villageCode": "007",
+    "districtCode": "16.03.031",
+    "name": "Tanjung Dalam",
+    "alias": "Tanjung Dalam"
+  },
+  {
+    "code": "16.03.031.008",
+    "villageCode": "008",
+    "districtCode": "16.03.031",
+    "name": "Sukarami",
+    "alias": "Sukarami"
+  },
+  {
+    "code": "16.03.031.009",
+    "villageCode": "009",
+    "districtCode": "16.03.031",
+    "name": "Sugihan",
+    "alias": "Sugihan"
+  },
+  {
+    "code": "16.03.031.010",
+    "villageCode": "010",
+    "districtCode": "16.03.031",
+    "name": "Negeri Agung",
+    "alias": "Negeri Agung"
+  },
+  {
+    "code": "16.03.031.011",
+    "villageCode": "011",
+    "districtCode": "16.03.031",
+    "name": "Baru Rambang",
+    "alias": "Baru Rambang"
+  },
+  {
+    "code": "16.03.031.012",
+    "villageCode": "012",
+    "districtCode": "16.03.031",
+    "name": "Air Keruh",
+    "alias": "Air Keruh"
+  },
+  {
+    "code": "16.03.031.013",
+    "villageCode": "013",
+    "districtCode": "16.03.031",
+    "name": "Sugih Waras Barat",
+    "alias": "Sugih Waras Barat"
+  }
+]

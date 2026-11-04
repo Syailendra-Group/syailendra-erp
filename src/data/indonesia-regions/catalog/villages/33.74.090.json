@@ -1,0 +1,93 @@
+[
+  {
+    "code": "33.74.090.001",
+    "villageCode": "001",
+    "districtCode": "33.74.090",
+    "name": "Muktiharjo Lor",
+    "alias": "Muktiharjo Lor"
+  },
+  {
+    "code": "33.74.090.002",
+    "villageCode": "002",
+    "districtCode": "33.74.090",
+    "name": "Gebangsari",
+    "alias": "Gebangsari"
+  },
+  {
+    "code": "33.74.090.003",
+    "villageCode": "003",
+    "districtCode": "33.74.090",
+    "name": "Genuksari",
+    "alias": "Genuksari"
+  },
+  {
+    "code": "33.74.090.004",
+    "villageCode": "004",
+    "districtCode": "33.74.090",
+    "name": "Bangetayu Kulon",
+    "alias": "Bangetayu Kulon"
+  },
+  {
+    "code": "33.74.090.005",
+    "villageCode": "005",
+    "districtCode": "33.74.090",
+    "name": "Bangetayu Wetan",
+    "alias": "Bangetayu Wetan"
+  },
+  {
+    "code": "33.74.090.006",
+    "villageCode": "006",
+    "districtCode": "33.74.090",
+    "name": "Sembungharjo",
+    "alias": "Sembungharjo"
+  },
+  {
+    "code": "33.74.090.007",
+    "villageCode": "007",
+    "districtCode": "33.74.090",
+    "name": "Penggaron Lor",
+    "alias": "Penggaron Lor"
+  },
+  {
+    "code": "33.74.090.008",
+    "villageCode": "008",
+    "districtCode": "33.74.090",
+    "name": "Kudu",
+    "alias": "Kudu"
+  },
+  {
+    "code": "33.74.090.009",
+    "villageCode": "009",
+    "districtCode": "33.74.090",
+    "name": "Karangroto",
+    "alias": "Karangroto"
+  },
+  {
+    "code": "33.74.090.010",
+    "villageCode": "010",
+    "districtCode": "33.74.090",
+    "name": "Banjardowo",
+    "alias": "Banjardowo"
+  },
+  {
+    "code": "33.74.090.011",
+    "villageCode": "011",
+    "districtCode": "33.74.090",
+    "name": "Trimulyo",
+    "alias": "Trimulyo"
+  },
+  {
+    "code": "33.74.090.012",
+    "villageCode": "012",
+    "districtCode": "33.74.090",
+    "name": "Terboyo Wetan",
+    "alias": "Terboyo Wetan"
+  },
+  {
+    "code": "33.74.090.013",
+    "villageCode": "013",
+    "districtCode": "33.74.090",
+    "name": "Terboyo Kulon",
+    "alias": "Terboyo Kulon"
+  }
+]

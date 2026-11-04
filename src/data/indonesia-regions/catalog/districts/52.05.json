@@ -1,0 +1,66 @@
+[
+  {
+    "code": "52.05.010",
+    "districtCode": "010",
+    "regencyCode": "52.05",
+    "provinceCode": "52",
+    "name": "Kecamatan Hu'U",
+    "alias": "Hu'U"
+  },
+  {
+    "code": "52.05.011",
+    "districtCode": "011",
+    "regencyCode": "52.05",
+    "provinceCode": "52",
+    "name": "Kecamatan Pajo",
+    "alias": "Pajo"
+  },
+  {
+    "code": "52.05.020",
+    "districtCode": "020",
+    "regencyCode": "52.05",
+    "provinceCode": "52",
+    "name": "Kecamatan Dompu",
+    "alias": "Dompu"
+  },
+  {
+    "code": "52.05.030",
+    "districtCode": "030",
+    "regencyCode": "52.05",
+    "provinceCode": "52",
+    "name": "Kecamatan Woja",
+    "alias": "Woja"
+  },
+  {
+    "code": "52.05.040",
+    "districtCode": "040",
+    "regencyCode": "52.05",
+    "provinceCode": "52",
+    "name": "Kecamatan Kilo",
+    "alias": "Kilo"
+  },
+  {
+    "code": "52.05.050",
+    "districtCode": "050",
+    "regencyCode": "52.05",
+    "provinceCode": "52",
+    "name": "Kecamatan Kempo",
+    "alias": "Kempo"
+  },
+  {
+    "code": "52.05.051",
+    "districtCode": "051",
+    "regencyCode": "52.05",
+    "provinceCode": "52",
+    "name": "Kecamatan Manggalewa",
+    "alias": "Manggalewa"
+  },
+  {
+    "code": "52.05.060",
+    "districtCode": "060",
+    "regencyCode": "52.05",
+    "provinceCode": "52",
+    "name": "Kecamatan Pekat",
+    "alias": "Pekat"
+  }
+]

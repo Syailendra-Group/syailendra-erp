@@ -1,0 +1,34 @@
+[
+  {
+    "code": "65.71.010",
+    "districtCode": "010",
+    "regencyCode": "65.71",
+    "provinceCode": "65",
+    "name": "Kecamatan Tarakan Timur",
+    "alias": "Tarakan Timur"
+  },
+  {
+    "code": "65.71.020",
+    "districtCode": "020",
+    "regencyCode": "65.71",
+    "provinceCode": "65",
+    "name": "Kecamatan Tarakan Tengah",
+    "alias": "Tarakan Tengah"
+  },
+  {
+    "code": "65.71.030",
+    "districtCode": "030",
+    "regencyCode": "65.71",
+    "provinceCode": "65",
+    "name": "Kecamatan Tarakan Barat",
+    "alias": "Tarakan Barat"
+  },
+  {
+    "code": "65.71.040",
+    "districtCode": "040",
+    "regencyCode": "65.71",
+    "provinceCode": "65",
+    "name": "Kecamatan Tarakan Utara",
+    "alias": "Tarakan Utara"
+  }
+]

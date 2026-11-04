@@ -1,0 +1,86 @@
+[
+  {
+    "code": "33.24.101.001",
+    "villageCode": "001",
+    "districtCode": "33.24.101",
+    "name": "Winong",
+    "alias": "Winong"
+  },
+  {
+    "code": "33.24.101.002",
+    "villageCode": "002",
+    "districtCode": "33.24.101",
+    "name": "Jatirejo",
+    "alias": "Jatirejo"
+  },
+  {
+    "code": "33.24.101.003",
+    "villageCode": "003",
+    "districtCode": "33.24.101",
+    "name": "Rejosari",
+    "alias": "Rejosari"
+  },
+  {
+    "code": "33.24.101.004",
+    "villageCode": "004",
+    "districtCode": "33.24.101",
+    "name": "Sumbersari",
+    "alias": "Sumbersari"
+  },
+  {
+    "code": "33.24.101.005",
+    "villageCode": "005",
+    "districtCode": "33.24.101",
+    "name": "Kebonagung",
+    "alias": "Kebonagung"
+  },
+  {
+    "code": "33.24.101.006",
+    "villageCode": "006",
+    "districtCode": "33.24.101",
+    "name": "Ngampel Kulon",
+    "alias": "Ngampel Kulon"
+  },
+  {
+    "code": "33.24.101.007",
+    "villageCode": "007",
+    "districtCode": "33.24.101",
+    "name": "Ngampel Wetan",
+    "alias": "Ngampel Wetan"
+  },
+  {
+    "code": "33.24.101.008",
+    "villageCode": "008",
+    "districtCode": "33.24.101",
+    "name": "Sudipayung",
+    "alias": "Sudipayung"
+  },
+  {
+    "code": "33.24.101.009",
+    "villageCode": "009",
+    "districtCode": "33.24.101",
+    "name": "Dempelrejo",
+    "alias": "Dempelrejo"
+  },
+  {
+    "code": "33.24.101.010",
+    "villageCode": "010",
+    "districtCode": "33.24.101",
+    "name": "Banyuurip",
+    "alias": "Banyuurip"
+  },
+  {
+    "code": "33.24.101.011",
+    "villageCode": "011",
+    "districtCode": "33.24.101",
+    "name": "Bojonggede",
+    "alias": "Bojonggede"
+  },
+  {
+    "code": "33.24.101.012",
+    "villageCode": "012",
+    "districtCode": "33.24.101",
+    "name": "Putatgede",
+    "alias": "Putatgede"
+  }
+]

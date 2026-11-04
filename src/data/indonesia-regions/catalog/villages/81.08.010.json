@@ -1,0 +1,44 @@
+[
+  {
+    "code": "81.08.010.001",
+    "villageCode": "001",
+    "districtCode": "81.08.010",
+    "name": "Arnau",
+    "alias": "Arnau"
+  },
+  {
+    "code": "81.08.010.002",
+    "villageCode": "002",
+    "districtCode": "81.08.010",
+    "name": "Hiay",
+    "alias": "Hiay"
+  },
+  {
+    "code": "81.08.010.003",
+    "villageCode": "003",
+    "districtCode": "81.08.010",
+    "name": "Ilwaki",
+    "alias": "Ilwaki"
+  },
+  {
+    "code": "81.08.010.004",
+    "villageCode": "004",
+    "districtCode": "81.08.010",
+    "name": "Ilputih",
+    "alias": "Ilputih"
+  },
+  {
+    "code": "81.08.010.005",
+    "villageCode": "005",
+    "districtCode": "81.08.010",
+    "name": "Mahuan",
+    "alias": "Mahuan"
+  },
+  {
+    "code": "81.08.010.006",
+    "villageCode": "006",
+    "districtCode": "81.08.010",
+    "name": "Masapun",
+    "alias": "Masapun"
+  }
+]

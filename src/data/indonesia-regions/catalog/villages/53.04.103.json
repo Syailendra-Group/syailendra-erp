@@ -1,0 +1,37 @@
+[
+  {
+    "code": "53.04.103.001",
+    "villageCode": "001",
+    "districtCode": "53.04.103",
+    "name": "Suni",
+    "alias": "Suni"
+  },
+  {
+    "code": "53.04.103.002",
+    "villageCode": "002",
+    "districtCode": "53.04.103",
+    "name": "Noebana",
+    "alias": "Noebana"
+  },
+  {
+    "code": "53.04.103.003",
+    "villageCode": "003",
+    "districtCode": "53.04.103",
+    "name": "Fatumnasi",
+    "alias": "Fatumnasi"
+  },
+  {
+    "code": "53.04.103.004",
+    "villageCode": "004",
+    "districtCode": "53.04.103",
+    "name": "Mella",
+    "alias": "Mella"
+  },
+  {
+    "code": "53.04.103.005",
+    "villageCode": "005",
+    "districtCode": "53.04.103",
+    "name": "Mnela Petu",
+    "alias": "Mnela Petu"
+  }
+]

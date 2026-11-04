@@ -1,0 +1,30 @@
+[
+  {
+    "code": "12.71.020.001",
+    "villageCode": "001",
+    "districtCode": "12.71.020",
+    "name": "Kota Beringin",
+    "alias": "Kota Beringin"
+  },
+  {
+    "code": "12.71.020.002",
+    "villageCode": "002",
+    "districtCode": "12.71.020",
+    "name": "Pasar Baru",
+    "alias": "Pasar Baru"
+  },
+  {
+    "code": "12.71.020.003",
+    "villageCode": "003",
+    "districtCode": "12.71.020",
+    "name": "Pasar Belakang",
+    "alias": "Pasar Belakang"
+  },
+  {
+    "code": "12.71.020.004",
+    "villageCode": "004",
+    "districtCode": "12.71.020",
+    "name": "Pancuran Gerobak",
+    "alias": "Pancuran Gerobak"
+  }
+]

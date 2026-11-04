@@ -1,0 +1,44 @@
+[
+  {
+    "code": "95.04.075.001",
+    "villageCode": "001",
+    "districtCode": "95.04.075",
+    "name": "Jifak",
+    "alias": "Jifak"
+  },
+  {
+    "code": "95.04.075.002",
+    "villageCode": "002",
+    "districtCode": "95.04.075",
+    "name": "Tii",
+    "alias": "Tii"
+  },
+  {
+    "code": "95.04.075.003",
+    "villageCode": "003",
+    "districtCode": "95.04.075",
+    "name": "Sagapu",
+    "alias": "Sagapu"
+  },
+  {
+    "code": "95.04.075.004",
+    "villageCode": "004",
+    "districtCode": "95.04.075",
+    "name": "Jesenko",
+    "alias": "Jesenko"
+  },
+  {
+    "code": "95.04.075.005",
+    "villageCode": "005",
+    "districtCode": "95.04.075",
+    "name": "Koba",
+    "alias": "Koba"
+  },
+  {
+    "code": "95.04.075.006",
+    "villageCode": "006",
+    "districtCode": "95.04.075",
+    "name": "Tomor",
+    "alias": "Tomor"
+  }
+]

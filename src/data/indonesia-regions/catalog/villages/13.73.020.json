@@ -1,0 +1,79 @@
+[
+  {
+    "code": "13.73.020.001",
+    "villageCode": "001",
+    "districtCode": "13.73.020",
+    "name": "Lunto Barat",
+    "alias": "Lunto Barat"
+  },
+  {
+    "code": "13.73.020.002",
+    "villageCode": "002",
+    "districtCode": "13.73.020",
+    "name": "Lunto Timur",
+    "alias": "Lunto Timur"
+  },
+  {
+    "code": "13.73.020.003",
+    "villageCode": "003",
+    "districtCode": "13.73.020",
+    "name": "Pasa Kubang",
+    "alias": "Pasa Kubang"
+  },
+  {
+    "code": "13.73.020.004",
+    "villageCode": "004",
+    "districtCode": "13.73.020",
+    "name": "Kubang Tangah",
+    "alias": "Kubang Tangah"
+  },
+  {
+    "code": "13.73.020.005",
+    "villageCode": "005",
+    "districtCode": "13.73.020",
+    "name": "Kubang Utara Sikabu",
+    "alias": "Kubang Utara Sikabu"
+  },
+  {
+    "code": "13.73.020.006",
+    "villageCode": "006",
+    "districtCode": "13.73.020",
+    "name": "Pasar",
+    "alias": "Pasar"
+  },
+  {
+    "code": "13.73.020.007",
+    "villageCode": "007",
+    "districtCode": "13.73.020",
+    "name": "Kubang Sirakuk Utara",
+    "alias": "Kubang Sirakuk Utara"
+  },
+  {
+    "code": "13.73.020.008",
+    "villageCode": "008",
+    "districtCode": "13.73.020",
+    "name": "Kubang Sirakuk Selatan",
+    "alias": "Kubang Sirakuk Selatan"
+  },
+  {
+    "code": "13.73.020.009",
+    "villageCode": "009",
+    "districtCode": "13.73.020",
+    "name": "Aur Mulyo",
+    "alias": "Aur Mulyo"
+  },
+  {
+    "code": "13.73.020.010",
+    "villageCode": "010",
+    "districtCode": "13.73.020",
+    "name": "Tanah Lapang",
+    "alias": "Tanah Lapang"
+  },
+  {
+    "code": "13.73.020.011",
+    "villageCode": "011",
+    "districtCode": "13.73.020",
+    "name": "Aia Dingin",
+    "alias": "Aia Dingin"
+  }
+]

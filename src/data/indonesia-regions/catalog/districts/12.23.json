@@ -1,0 +1,66 @@
+[
+  {
+    "code": "12.23.010",
+    "districtCode": "010",
+    "regencyCode": "12.23",
+    "provinceCode": "12",
+    "name": "Kecamatan Na Ix-X",
+    "alias": "Na Ix-X"
+  },
+  {
+    "code": "12.23.020",
+    "districtCode": "020",
+    "regencyCode": "12.23",
+    "provinceCode": "12",
+    "name": "Kecamatan Marbau",
+    "alias": "Marbau"
+  },
+  {
+    "code": "12.23.030",
+    "districtCode": "030",
+    "regencyCode": "12.23",
+    "provinceCode": "12",
+    "name": "Kecamatan Aek Kuo",
+    "alias": "Aek Kuo"
+  },
+  {
+    "code": "12.23.040",
+    "districtCode": "040",
+    "regencyCode": "12.23",
+    "provinceCode": "12",
+    "name": "Kecamatan Aek Natas",
+    "alias": "Aek Natas"
+  },
+  {
+    "code": "12.23.050",
+    "districtCode": "050",
+    "regencyCode": "12.23",
+    "provinceCode": "12",
+    "name": "Kecamatan Kualuh Selatan",
+    "alias": "Kualuh Selatan"
+  },
+  {
+    "code": "12.23.060",
+    "districtCode": "060",
+    "regencyCode": "12.23",
+    "provinceCode": "12",
+    "name": "Kecamatan Kualuh Hilir",
+    "alias": "Kualuh Hilir"
+  },
+  {
+    "code": "12.23.070",
+    "districtCode": "070",
+    "regencyCode": "12.23",
+    "provinceCode": "12",
+    "name": "Kecamatan Kualuh Hulu",
+    "alias": "Kualuh Hulu"
+  },
+  {
+    "code": "12.23.080",
+    "districtCode": "080",
+    "regencyCode": "12.23",
+    "provinceCode": "12",
+    "name": "Kecamatan Kualuh Leidong",
+    "alias": "Kualuh Leidong"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "code": "36.01.161.001",
+    "villageCode": "001",
+    "districtCode": "36.01.161",
+    "name": "Cikadueun",
+    "alias": "Cikadueun"
+  },
+  {
+    "code": "36.01.161.002",
+    "villageCode": "002",
+    "districtCode": "36.01.161",
+    "name": "Koncang",
+    "alias": "Koncang"
+  },
+  {
+    "code": "36.01.161.003",
+    "villageCode": "003",
+    "districtCode": "36.01.161",
+    "name": "Pasirmae",
+    "alias": "Pasirmae"
+  },
+  {
+    "code": "36.01.161.004",
+    "villageCode": "004",
+    "districtCode": "36.01.161",
+    "name": "Parumasan",
+    "alias": "Parumasan"
+  },
+  {
+    "code": "36.01.161.005",
+    "villageCode": "005",
+    "districtCode": "36.01.161",
+    "name": "Kadugadung",
+    "alias": "Kadugadung"
+  },
+  {
+    "code": "36.01.161.006",
+    "villageCode": "006",
+    "districtCode": "36.01.161",
+    "name": "Palanyar",
+    "alias": "Palanyar"
+  },
+  {
+    "code": "36.01.161.007",
+    "villageCode": "007",
+    "districtCode": "36.01.161",
+    "name": "Baturanjang",
+    "alias": "Baturanjang"
+  },
+  {
+    "code": "36.01.161.008",
+    "villageCode": "008",
+    "districtCode": "36.01.161",
+    "name": "Kalanggunung",
+    "alias": "Kalanggunung"
+  },
+  {
+    "code": "36.01.161.009",
+    "villageCode": "009",
+    "districtCode": "36.01.161",
+    "name": "Curugbarang",
+    "alias": "Curugbarang"
+  },
+  {
+    "code": "36.01.161.010",
+    "villageCode": "010",
+    "districtCode": "36.01.161",
+    "name": "Pasireurih",
+    "alias": "Pasireurih"
+  }
+]

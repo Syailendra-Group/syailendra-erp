@@ -1,0 +1,72 @@
+[
+  {
+    "code": "32.11.100.001",
+    "villageCode": "001",
+    "districtCode": "32.11.100",
+    "name": "Cilengkrang",
+    "alias": "Cilengkrang"
+  },
+  {
+    "code": "32.11.100.002",
+    "villageCode": "002",
+    "districtCode": "32.11.100",
+    "name": "Sukajadi",
+    "alias": "Sukajadi"
+  },
+  {
+    "code": "32.11.100.003",
+    "villageCode": "003",
+    "districtCode": "32.11.100",
+    "name": "Ganjaresik",
+    "alias": "Ganjaresik"
+  },
+  {
+    "code": "32.11.100.004",
+    "villageCode": "004",
+    "districtCode": "32.11.100",
+    "name": "Cimungkal",
+    "alias": "Cimungkal"
+  },
+  {
+    "code": "32.11.100.011",
+    "villageCode": "011",
+    "districtCode": "32.11.100",
+    "name": "Mulyajaya",
+    "alias": "Mulyajaya"
+  },
+  {
+    "code": "32.11.100.012",
+    "villageCode": "012",
+    "districtCode": "32.11.100",
+    "name": "Cikareo Selatan",
+    "alias": "Cikareo Selatan"
+  },
+  {
+    "code": "32.11.100.013",
+    "villageCode": "013",
+    "districtCode": "32.11.100",
+    "name": "Cikareo Utara",
+    "alias": "Cikareo Utara"
+  },
+  {
+    "code": "32.11.100.014",
+    "villageCode": "014",
+    "districtCode": "32.11.100",
+    "name": "Wado",
+    "alias": "Wado"
+  },
+  {
+    "code": "32.11.100.016",
+    "villageCode": "016",
+    "districtCode": "32.11.100",
+    "name": "Sukapura",
+    "alias": "Sukapura"
+  },
+  {
+    "code": "32.11.100.017",
+    "villageCode": "017",
+    "districtCode": "32.11.100",
+    "name": "Cisurat",
+    "alias": "Cisurat"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "code": "33.03.130.001",
+    "villageCode": "001",
+    "districtCode": "33.03.130",
+    "name": "Serang",
+    "alias": "Serang"
+  },
+  {
+    "code": "33.03.130.002",
+    "villageCode": "002",
+    "districtCode": "33.03.130",
+    "name": "Kutabawa",
+    "alias": "Kutabawa"
+  },
+  {
+    "code": "33.03.130.003",
+    "villageCode": "003",
+    "districtCode": "33.03.130",
+    "name": "Siwarak",
+    "alias": "Siwarak"
+  },
+  {
+    "code": "33.03.130.004",
+    "villageCode": "004",
+    "districtCode": "33.03.130",
+    "name": "Tlahab Lor",
+    "alias": "Tlahab Lor"
+  },
+  {
+    "code": "33.03.130.005",
+    "villageCode": "005",
+    "districtCode": "33.03.130",
+    "name": "Tlahab Kidul",
+    "alias": "Tlahab Kidul"
+  },
+  {
+    "code": "33.03.130.006",
+    "villageCode": "006",
+    "districtCode": "33.03.130",
+    "name": "Karangreja",
+    "alias": "Karangreja"
+  },
+  {
+    "code": "33.03.130.007",
+    "villageCode": "007",
+    "districtCode": "33.03.130",
+    "name": "Gondang",
+    "alias": "Gondang"
+  }
+]

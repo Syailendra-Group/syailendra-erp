@@ -1,0 +1,79 @@
+[
+  {
+    "code": "16.01.070.001",
+    "villageCode": "001",
+    "districtCode": "16.01.070",
+    "name": "Negeri Sindang",
+    "alias": "Negeri Sindang"
+  },
+  {
+    "code": "16.01.070.002",
+    "villageCode": "002",
+    "districtCode": "16.01.070",
+    "name": "Rantau Kumpai",
+    "alias": "Rantau Kumpai"
+  },
+  {
+    "code": "16.01.070.003",
+    "villageCode": "003",
+    "districtCode": "16.01.070",
+    "name": "Tungku Jaya",
+    "alias": "Tungku Jaya"
+  },
+  {
+    "code": "16.01.070.004",
+    "villageCode": "004",
+    "districtCode": "16.01.070",
+    "name": "Lubuk Baru",
+    "alias": "Lubuk Baru"
+  },
+  {
+    "code": "16.01.070.005",
+    "villageCode": "005",
+    "districtCode": "16.01.070",
+    "name": "Bandar",
+    "alias": "Bandar"
+  },
+  {
+    "code": "16.01.070.006",
+    "villageCode": "006",
+    "districtCode": "16.01.070",
+    "name": "Lubuk Leban",
+    "alias": "Lubuk Leban"
+  },
+  {
+    "code": "16.01.070.007",
+    "villageCode": "007",
+    "districtCode": "16.01.070",
+    "name": "Penyandingan",
+    "alias": "Penyandingan"
+  },
+  {
+    "code": "16.01.070.008",
+    "villageCode": "008",
+    "districtCode": "16.01.070",
+    "name": "Kungkilan",
+    "alias": "Kungkilan"
+  },
+  {
+    "code": "16.01.070.009",
+    "villageCode": "009",
+    "districtCode": "16.01.070",
+    "name": "Mekar Jaya",
+    "alias": "Mekar Jaya"
+  },
+  {
+    "code": "16.01.070.010",
+    "villageCode": "010",
+    "districtCode": "16.01.070",
+    "name": "Penantian",
+    "alias": "Penantian"
+  },
+  {
+    "code": "16.01.070.011",
+    "villageCode": "011",
+    "districtCode": "16.01.070",
+    "name": "Mekar Sari",
+    "alias": "Mekar Sari"
+  }
+]

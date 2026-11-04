@@ -1,0 +1,98 @@
+[
+  {
+    "code": "53.15.010",
+    "districtCode": "010",
+    "regencyCode": "53.15",
+    "provinceCode": "53",
+    "name": "Kecamatan Komodo",
+    "alias": "Komodo"
+  },
+  {
+    "code": "53.15.011",
+    "districtCode": "011",
+    "regencyCode": "53.15",
+    "provinceCode": "53",
+    "name": "Kecamatan Boleng",
+    "alias": "Boleng"
+  },
+  {
+    "code": "53.15.020",
+    "districtCode": "020",
+    "regencyCode": "53.15",
+    "provinceCode": "53",
+    "name": "Kecamatan Sano Nggoang",
+    "alias": "Sano Nggoang"
+  },
+  {
+    "code": "53.15.021",
+    "districtCode": "021",
+    "regencyCode": "53.15",
+    "provinceCode": "53",
+    "name": "Kecamatan Mbeliling",
+    "alias": "Mbeliling"
+  },
+  {
+    "code": "53.15.030",
+    "districtCode": "030",
+    "regencyCode": "53.15",
+    "provinceCode": "53",
+    "name": "Kecamatan Lembor",
+    "alias": "Lembor"
+  },
+  {
+    "code": "53.15.031",
+    "districtCode": "031",
+    "regencyCode": "53.15",
+    "provinceCode": "53",
+    "name": "Kecamatan Welak",
+    "alias": "Welak"
+  },
+  {
+    "code": "53.15.032",
+    "districtCode": "032",
+    "regencyCode": "53.15",
+    "provinceCode": "53",
+    "name": "Kecamatan Lembor Selatan",
+    "alias": "Lembor Selatan"
+  },
+  {
+    "code": "53.15.040",
+    "districtCode": "040",
+    "regencyCode": "53.15",
+    "provinceCode": "53",
+    "name": "Kecamatan Kuwus",
+    "alias": "Kuwus"
+  },
+  {
+    "code": "53.15.041",
+    "districtCode": "041",
+    "regencyCode": "53.15",
+    "provinceCode": "53",
+    "name": "Kecamatan Ndoso",
+    "alias": "Ndoso"
+  },
+  {
+    "code": "53.15.042",
+    "districtCode": "042",
+    "regencyCode": "53.15",
+    "provinceCode": "53",
+    "name": "Kecamatan Kuwus Barat",
+    "alias": "Kuwus Barat"
+  },
+  {
+    "code": "53.15.050",
+    "districtCode": "050",
+    "regencyCode": "53.15",
+    "provinceCode": "53",
+    "name": "Kecamatan Macang Pacar",
+    "alias": "Macang Pacar"
+  },
+  {
+    "code": "53.15.051",
+    "districtCode": "051",
+    "regencyCode": "53.15",
+    "provinceCode": "53",
+    "name": "Kecamatan Pacar",
+    "alias": "Pacar"
+  }
+]

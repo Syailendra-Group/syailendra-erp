@@ -1,0 +1,58 @@
+[
+  {
+    "code": "32.12.171.001",
+    "villageCode": "001",
+    "districtCode": "32.12.171",
+    "name": "Sukasari",
+    "alias": "Sukasari"
+  },
+  {
+    "code": "32.12.171.002",
+    "villageCode": "002",
+    "districtCode": "32.12.171",
+    "name": "Arahan Kidul",
+    "alias": "Arahan Kidul"
+  },
+  {
+    "code": "32.12.171.003",
+    "villageCode": "003",
+    "districtCode": "32.12.171",
+    "name": "Arahan Lor",
+    "alias": "Arahan Lor"
+  },
+  {
+    "code": "32.12.171.004",
+    "villageCode": "004",
+    "districtCode": "32.12.171",
+    "name": "Linggajati",
+    "alias": "Linggajati"
+  },
+  {
+    "code": "32.12.171.005",
+    "villageCode": "005",
+    "districtCode": "32.12.171",
+    "name": "Tawangsari",
+    "alias": "Tawangsari"
+  },
+  {
+    "code": "32.12.171.006",
+    "villageCode": "006",
+    "districtCode": "32.12.171",
+    "name": "Sukadadi",
+    "alias": "Sukadadi"
+  },
+  {
+    "code": "32.12.171.007",
+    "villageCode": "007",
+    "districtCode": "32.12.171",
+    "name": "Pranggong",
+    "alias": "Pranggong"
+  },
+  {
+    "code": "32.12.171.008",
+    "villageCode": "008",
+    "districtCode": "32.12.171",
+    "name": "Cidempet",
+    "alias": "Cidempet"
+  }
+]

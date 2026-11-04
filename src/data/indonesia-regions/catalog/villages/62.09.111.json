@@ -1,0 +1,79 @@
+[
+  {
+    "code": "62.09.111.001",
+    "villageCode": "001",
+    "districtCode": "62.09.111",
+    "name": "Tumbang Kataei",
+    "alias": "Tumbang Kataei"
+  },
+  {
+    "code": "62.09.111.002",
+    "villageCode": "002",
+    "districtCode": "62.09.111",
+    "name": "Tumbang Dahuei",
+    "alias": "Tumbang Dahuei"
+  },
+  {
+    "code": "62.09.111.003",
+    "villageCode": "003",
+    "districtCode": "62.09.111",
+    "name": "Rantau Pandan",
+    "alias": "Rantau Pandan"
+  },
+  {
+    "code": "62.09.111.004",
+    "villageCode": "004",
+    "districtCode": "62.09.111",
+    "name": "Tumbang Gaei",
+    "alias": "Tumbang Gaei"
+  },
+  {
+    "code": "62.09.111.005",
+    "villageCode": "005",
+    "districtCode": "62.09.111",
+    "name": "Penda Nange",
+    "alias": "Penda Nange"
+  },
+  {
+    "code": "62.09.111.006",
+    "villageCode": "006",
+    "districtCode": "62.09.111",
+    "name": "Rangan Rondan",
+    "alias": "Rangan Rondan"
+  },
+  {
+    "code": "62.09.111.007",
+    "villageCode": "007",
+    "districtCode": "62.09.111",
+    "name": "Rangan Bahekang",
+    "alias": "Rangan Bahekang"
+  },
+  {
+    "code": "62.09.111.008",
+    "villageCode": "008",
+    "districtCode": "62.09.111",
+    "name": "Tumbang Kajamei",
+    "alias": "Tumbang Kajamei"
+  },
+  {
+    "code": "62.09.111.009",
+    "villageCode": "009",
+    "districtCode": "62.09.111",
+    "name": "Tumbang Karuei",
+    "alias": "Tumbang Karuei"
+  },
+  {
+    "code": "62.09.111.010",
+    "villageCode": "010",
+    "districtCode": "62.09.111",
+    "name": "Tanjung Batik",
+    "alias": "Tanjung Batik"
+  },
+  {
+    "code": "62.09.111.011",
+    "villageCode": "011",
+    "districtCode": "62.09.111",
+    "name": "Tumbang Kaburai",
+    "alias": "Tumbang Kaburai"
+  }
+]

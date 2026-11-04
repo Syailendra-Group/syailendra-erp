@@ -1,0 +1,44 @@
+[
+  {
+    "code": "72.71.012.001",
+    "villageCode": "001",
+    "districtCode": "72.71.012",
+    "name": "Donggala Kodi",
+    "alias": "Donggala Kodi"
+  },
+  {
+    "code": "72.71.012.002",
+    "villageCode": "002",
+    "districtCode": "72.71.012",
+    "name": "Kabonena",
+    "alias": "Kabonena"
+  },
+  {
+    "code": "72.71.012.003",
+    "villageCode": "003",
+    "districtCode": "72.71.012",
+    "name": "Silae",
+    "alias": "Silae"
+  },
+  {
+    "code": "72.71.012.004",
+    "villageCode": "004",
+    "districtCode": "72.71.012",
+    "name": "Tipo",
+    "alias": "Tipo"
+  },
+  {
+    "code": "72.71.012.005",
+    "villageCode": "005",
+    "districtCode": "72.71.012",
+    "name": "Buluri",
+    "alias": "Buluri"
+  },
+  {
+    "code": "72.71.012.006",
+    "villageCode": "006",
+    "districtCode": "72.71.012",
+    "name": "Watusampu",
+    "alias": "Watusampu"
+  }
+]

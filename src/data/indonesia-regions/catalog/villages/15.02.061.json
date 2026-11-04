@@ -1,0 +1,44 @@
+[
+  {
+    "code": "15.02.061.009",
+    "villageCode": "009",
+    "districtCode": "15.02.061",
+    "name": "Muara Jernih",
+    "alias": "Muara Jernih"
+  },
+  {
+    "code": "15.02.061.010",
+    "villageCode": "010",
+    "districtCode": "15.02.061",
+    "name": "Pulau Aro",
+    "alias": "Pulau Aro"
+  },
+  {
+    "code": "15.02.061.011",
+    "villageCode": "011",
+    "districtCode": "15.02.061",
+    "name": "Kapuk",
+    "alias": "Kapuk"
+  },
+  {
+    "code": "15.02.061.012",
+    "villageCode": "012",
+    "districtCode": "15.02.061",
+    "name": "Rantau Ngarau",
+    "alias": "Rantau Ngarau"
+  },
+  {
+    "code": "15.02.061.013",
+    "villageCode": "013",
+    "districtCode": "15.02.061",
+    "name": "Muara Seketuk",
+    "alias": "Muara Seketuk"
+  },
+  {
+    "code": "15.02.061.014",
+    "villageCode": "014",
+    "districtCode": "15.02.061",
+    "name": "Medan Baru",
+    "alias": "Medan Baru"
+  }
+]

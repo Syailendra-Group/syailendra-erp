@@ -1,0 +1,65 @@
+[
+  {
+    "code": "92.04.040.001",
+    "villageCode": "001",
+    "districtCode": "92.04.040",
+    "name": "Buohsa",
+    "alias": "Buohsa"
+  },
+  {
+    "code": "92.04.040.002",
+    "villageCode": "002",
+    "districtCode": "92.04.040",
+    "name": "Sawin",
+    "alias": "Sawin"
+  },
+  {
+    "code": "92.04.040.003",
+    "villageCode": "003",
+    "districtCode": "92.04.040",
+    "name": "Aitrem",
+    "alias": "Aitrem"
+  },
+  {
+    "code": "92.04.040.004",
+    "villageCode": "004",
+    "districtCode": "92.04.040",
+    "name": "Aikrer",
+    "alias": "Aikrer"
+  },
+  {
+    "code": "92.04.040.005",
+    "villageCode": "005",
+    "districtCode": "92.04.040",
+    "name": "Sanem",
+    "alias": "Sanem"
+  },
+  {
+    "code": "92.04.040.006",
+    "villageCode": "006",
+    "districtCode": "92.04.040",
+    "name": "Wakom",
+    "alias": "Wakom"
+  },
+  {
+    "code": "92.04.040.007",
+    "villageCode": "007",
+    "districtCode": "92.04.040",
+    "name": "Sahbuku",
+    "alias": "Sahbuku"
+  },
+  {
+    "code": "92.04.040.008",
+    "villageCode": "008",
+    "districtCode": "92.04.040",
+    "name": "Aisa",
+    "alias": "Aisa"
+  },
+  {
+    "code": "92.04.040.009",
+    "villageCode": "009",
+    "districtCode": "92.04.040",
+    "name": "Sasior Frabuku",
+    "alias": "Sasior Frabuku"
+  }
+]

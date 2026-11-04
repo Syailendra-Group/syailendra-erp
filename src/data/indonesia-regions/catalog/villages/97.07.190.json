@@ -1,0 +1,72 @@
+[
+  {
+    "code": "97.07.190.001",
+    "villageCode": "001",
+    "districtCode": "97.07.190",
+    "name": "Debula",
+    "alias": "Debula"
+  },
+  {
+    "code": "97.07.190.002",
+    "villageCode": "002",
+    "districtCode": "97.07.190",
+    "name": "Kubuk Dua",
+    "alias": "Kubuk Dua"
+  },
+  {
+    "code": "97.07.190.003",
+    "villageCode": "003",
+    "districtCode": "97.07.190",
+    "name": "Baluk",
+    "alias": "Baluk"
+  },
+  {
+    "code": "97.07.190.004",
+    "villageCode": "004",
+    "districtCode": "97.07.190",
+    "name": "Kemligin",
+    "alias": "Kemligin"
+  },
+  {
+    "code": "97.07.190.005",
+    "villageCode": "005",
+    "districtCode": "97.07.190",
+    "name": "Kwelamdua",
+    "alias": "Kwelamdua"
+  },
+  {
+    "code": "97.07.190.006",
+    "villageCode": "006",
+    "districtCode": "97.07.190",
+    "name": "Senayom",
+    "alias": "Senayom"
+  },
+  {
+    "code": "97.07.190.007",
+    "villageCode": "007",
+    "districtCode": "97.07.190",
+    "name": "Sesepne",
+    "alias": "Sesepne"
+  },
+  {
+    "code": "97.07.190.008",
+    "villageCode": "008",
+    "districtCode": "97.07.190",
+    "name": "Obis",
+    "alias": "Obis"
+  },
+  {
+    "code": "97.07.190.009",
+    "villageCode": "009",
+    "districtCode": "97.07.190",
+    "name": "Yalidomon",
+    "alias": "Yalidomon"
+  },
+  {
+    "code": "97.07.190.010",
+    "villageCode": "010",
+    "districtCode": "97.07.190",
+    "name": "Kabulan",
+    "alias": "Kabulan"
+  }
+]

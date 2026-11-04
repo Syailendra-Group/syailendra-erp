@@ -1,0 +1,58 @@
+[
+  {
+    "code": "35.09.120.001",
+    "villageCode": "001",
+    "districtCode": "35.09.120",
+    "name": "Curahmalang",
+    "alias": "Curahmalang"
+  },
+  {
+    "code": "35.09.120.002",
+    "villageCode": "002",
+    "districtCode": "35.09.120",
+    "name": "Nogosari",
+    "alias": "Nogosari"
+  },
+  {
+    "code": "35.09.120.003",
+    "villageCode": "003",
+    "districtCode": "35.09.120",
+    "name": "Rowotamtu",
+    "alias": "Rowotamtu"
+  },
+  {
+    "code": "35.09.120.004",
+    "villageCode": "004",
+    "districtCode": "35.09.120",
+    "name": "Pecoro",
+    "alias": "Pecoro"
+  },
+  {
+    "code": "35.09.120.005",
+    "villageCode": "005",
+    "districtCode": "35.09.120",
+    "name": "Rambipuji",
+    "alias": "Rambipuji"
+  },
+  {
+    "code": "35.09.120.006",
+    "villageCode": "006",
+    "districtCode": "35.09.120",
+    "name": "Kaliwining",
+    "alias": "Kaliwining"
+  },
+  {
+    "code": "35.09.120.007",
+    "villageCode": "007",
+    "districtCode": "35.09.120",
+    "name": "Rambigundam",
+    "alias": "Rambigundam"
+  },
+  {
+    "code": "35.09.120.008",
+    "villageCode": "008",
+    "districtCode": "35.09.120",
+    "name": "Gugut",
+    "alias": "Gugut"
+  }
+]

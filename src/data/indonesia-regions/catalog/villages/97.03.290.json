@@ -1,0 +1,65 @@
+[
+  {
+    "code": "97.03.290.001",
+    "villageCode": "001",
+    "districtCode": "97.03.290",
+    "name": "Ponuma",
+    "alias": "Ponuma"
+  },
+  {
+    "code": "97.03.290.002",
+    "villageCode": "002",
+    "districtCode": "97.03.290",
+    "name": "Arungwi",
+    "alias": "Arungwi"
+  },
+  {
+    "code": "97.03.290.003",
+    "villageCode": "003",
+    "districtCode": "97.03.290",
+    "name": "Muleme",
+    "alias": "Muleme"
+  },
+  {
+    "code": "97.03.290.004",
+    "villageCode": "004",
+    "districtCode": "97.03.290",
+    "name": "Gubulela",
+    "alias": "Gubulela"
+  },
+  {
+    "code": "97.03.290.005",
+    "villageCode": "005",
+    "districtCode": "97.03.290",
+    "name": "Kolari",
+    "alias": "Kolari"
+  },
+  {
+    "code": "97.03.290.006",
+    "villageCode": "006",
+    "districtCode": "97.03.290",
+    "name": "Argeneri",
+    "alias": "Argeneri"
+  },
+  {
+    "code": "97.03.290.007",
+    "villageCode": "007",
+    "districtCode": "97.03.290",
+    "name": "Kuabaga",
+    "alias": "Kuabaga"
+  },
+  {
+    "code": "97.03.290.008",
+    "villageCode": "008",
+    "districtCode": "97.03.290",
+    "name": "Milinggame",
+    "alias": "Milinggame"
+  },
+  {
+    "code": "97.03.290.009",
+    "villageCode": "009",
+    "districtCode": "97.03.290",
+    "name": "Gubo",
+    "alias": "Gubo"
+  }
+]

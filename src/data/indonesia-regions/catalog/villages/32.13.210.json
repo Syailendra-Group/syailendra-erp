@@ -1,0 +1,51 @@
+[
+  {
+    "code": "32.13.210.002",
+    "villageCode": "002",
+    "districtCode": "32.13.210",
+    "name": "Tegalurung",
+    "alias": "Tegalurung"
+  },
+  {
+    "code": "32.13.210.003",
+    "villageCode": "003",
+    "districtCode": "32.13.210",
+    "name": "Mayangan",
+    "alias": "Mayangan"
+  },
+  {
+    "code": "32.13.210.004",
+    "villageCode": "004",
+    "districtCode": "32.13.210",
+    "name": "Legonwetan",
+    "alias": "Legonwetan"
+  },
+  {
+    "code": "32.13.210.005",
+    "villageCode": "005",
+    "districtCode": "32.13.210",
+    "name": "Legonkulon",
+    "alias": "Legonkulon"
+  },
+  {
+    "code": "32.13.210.006",
+    "villageCode": "006",
+    "districtCode": "32.13.210",
+    "name": "Pangarengan",
+    "alias": "Pangarengan"
+  },
+  {
+    "code": "32.13.210.007",
+    "villageCode": "007",
+    "districtCode": "32.13.210",
+    "name": "Bobos",
+    "alias": "Bobos"
+  },
+  {
+    "code": "32.13.210.008",
+    "villageCode": "008",
+    "districtCode": "32.13.210",
+    "name": "Karangmulya",
+    "alias": "Karangmulya"
+  }
+]

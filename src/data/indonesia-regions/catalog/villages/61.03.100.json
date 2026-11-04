@@ -1,0 +1,79 @@
+[
+  {
+    "code": "61.03.100.001",
+    "villageCode": "001",
+    "districtCode": "61.03.100",
+    "name": "Sehe Lusur",
+    "alias": "Sehe Lusur"
+  },
+  {
+    "code": "61.03.100.002",
+    "villageCode": "002",
+    "districtCode": "61.03.100",
+    "name": "Kedama",
+    "alias": "Kedama"
+  },
+  {
+    "code": "61.03.100.003",
+    "villageCode": "003",
+    "districtCode": "61.03.100",
+    "name": "Tanjung Balai",
+    "alias": "Tanjung Balai"
+  },
+  {
+    "code": "61.03.100.004",
+    "villageCode": "004",
+    "districtCode": "61.03.100",
+    "name": "Kuala Behe",
+    "alias": "Kuala Behe"
+  },
+  {
+    "code": "61.03.100.005",
+    "villageCode": "005",
+    "districtCode": "61.03.100",
+    "name": "Paku Raya",
+    "alias": "Paku Raya"
+  },
+  {
+    "code": "61.03.100.006",
+    "villageCode": "006",
+    "districtCode": "61.03.100",
+    "name": "Nyayum",
+    "alias": "Nyayum"
+  },
+  {
+    "code": "61.03.100.007",
+    "villageCode": "007",
+    "districtCode": "61.03.100",
+    "name": "Semedang",
+    "alias": "Semedang"
+  },
+  {
+    "code": "61.03.100.009",
+    "villageCode": "009",
+    "districtCode": "61.03.100",
+    "name": "Permiit",
+    "alias": "Permiit"
+  },
+  {
+    "code": "61.03.100.010",
+    "villageCode": "010",
+    "districtCode": "61.03.100",
+    "name": "Angkanyar",
+    "alias": "Angkanyar"
+  },
+  {
+    "code": "61.03.100.011",
+    "villageCode": "011",
+    "districtCode": "61.03.100",
+    "name": "Bengawan Ampar",
+    "alias": "Bengawan Ampar"
+  },
+  {
+    "code": "61.03.100.012",
+    "villageCode": "012",
+    "districtCode": "61.03.100",
+    "name": "Sejowet",
+    "alias": "Sejowet"
+  }
+]

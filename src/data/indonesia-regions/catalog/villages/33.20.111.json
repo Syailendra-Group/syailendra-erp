@@ -1,0 +1,58 @@
+[
+  {
+    "code": "33.20.111.001",
+    "villageCode": "001",
+    "districtCode": "33.20.111",
+    "name": "Sumber Rejo",
+    "alias": "Sumber Rejo"
+  },
+  {
+    "code": "33.20.111.002",
+    "villageCode": "002",
+    "districtCode": "33.20.111",
+    "name": "Clering",
+    "alias": "Clering"
+  },
+  {
+    "code": "33.20.111.003",
+    "villageCode": "003",
+    "districtCode": "33.20.111",
+    "name": "Ujungwatu",
+    "alias": "Ujungwatu"
+  },
+  {
+    "code": "33.20.111.004",
+    "villageCode": "004",
+    "districtCode": "33.20.111",
+    "name": "Banyumanis",
+    "alias": "Banyumanis"
+  },
+  {
+    "code": "33.20.111.005",
+    "villageCode": "005",
+    "districtCode": "33.20.111",
+    "name": "Tulakan",
+    "alias": "Tulakan"
+  },
+  {
+    "code": "33.20.111.006",
+    "villageCode": "006",
+    "districtCode": "33.20.111",
+    "name": "Bandungharjo",
+    "alias": "Bandungharjo"
+  },
+  {
+    "code": "33.20.111.007",
+    "villageCode": "007",
+    "districtCode": "33.20.111",
+    "name": "Blingoh",
+    "alias": "Blingoh"
+  },
+  {
+    "code": "33.20.111.008",
+    "villageCode": "008",
+    "districtCode": "33.20.111",
+    "name": "Jugo",
+    "alias": "Jugo"
+  }
+]

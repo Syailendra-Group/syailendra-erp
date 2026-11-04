@@ -1,0 +1,44 @@
+[
+  {
+    "code": "17.07.040.001",
+    "villageCode": "001",
+    "districtCode": "17.07.040",
+    "name": "Tik Tebing",
+    "alias": "Tik Tebing"
+  },
+  {
+    "code": "17.07.040.002",
+    "villageCode": "002",
+    "districtCode": "17.07.040",
+    "name": "Tabeak Blau",
+    "alias": "Tabeak Blau"
+  },
+  {
+    "code": "17.07.040.005",
+    "villageCode": "005",
+    "districtCode": "17.07.040",
+    "name": "Blau",
+    "alias": "Blau"
+  },
+  {
+    "code": "17.07.040.006",
+    "villageCode": "006",
+    "districtCode": "17.07.040",
+    "name": "Sukau Kayo",
+    "alias": "Sukau Kayo"
+  },
+  {
+    "code": "17.07.040.007",
+    "villageCode": "007",
+    "districtCode": "17.07.040",
+    "name": "Tabeak Blau I",
+    "alias": "Tabeak Blau I"
+  },
+  {
+    "code": "17.07.040.008",
+    "villageCode": "008",
+    "districtCode": "17.07.040",
+    "name": "Daneu",
+    "alias": "Daneu"
+  }
+]

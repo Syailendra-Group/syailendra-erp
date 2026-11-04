@@ -1,0 +1,58 @@
+[
+  {
+    "code": "12.02.041.001",
+    "villageCode": "001",
+    "districtCode": "12.02.041",
+    "name": "Huta Julu",
+    "alias": "Huta Julu"
+  },
+  {
+    "code": "12.02.041.002",
+    "villageCode": "002",
+    "districtCode": "12.02.041",
+    "name": "Huta Padang",
+    "alias": "Huta Padang"
+  },
+  {
+    "code": "12.02.041.003",
+    "villageCode": "003",
+    "districtCode": "12.02.041",
+    "name": "Huta Toras",
+    "alias": "Huta Toras"
+  },
+  {
+    "code": "12.02.041.004",
+    "villageCode": "004",
+    "districtCode": "12.02.041",
+    "name": "Pakantan Lombang",
+    "alias": "Pakantan Lombang"
+  },
+  {
+    "code": "12.02.041.005",
+    "villageCode": "005",
+    "districtCode": "12.02.041",
+    "name": "Huta Lancat",
+    "alias": "Huta Lancat"
+  },
+  {
+    "code": "12.02.041.006",
+    "villageCode": "006",
+    "districtCode": "12.02.041",
+    "name": "Pakantan Dolok",
+    "alias": "Pakantan Dolok"
+  },
+  {
+    "code": "12.02.041.007",
+    "villageCode": "007",
+    "districtCode": "12.02.041",
+    "name": "Silogun",
+    "alias": "Silogun"
+  },
+  {
+    "code": "12.02.041.008",
+    "villageCode": "008",
+    "districtCode": "12.02.041",
+    "name": "Huta Gambir",
+    "alias": "Huta Gambir"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "code": "35.03.020.001",
+    "villageCode": "001",
+    "districtCode": "35.03.020",
+    "name": "Ngulungwetan",
+    "alias": "Ngulungwetan"
+  },
+  {
+    "code": "35.03.020.002",
+    "villageCode": "002",
+    "districtCode": "35.03.020",
+    "name": "Ngulungkulon",
+    "alias": "Ngulungkulon"
+  },
+  {
+    "code": "35.03.020.003",
+    "villageCode": "003",
+    "districtCode": "35.03.020",
+    "name": "Sobo",
+    "alias": "Sobo"
+  },
+  {
+    "code": "35.03.020.004",
+    "villageCode": "004",
+    "districtCode": "35.03.020",
+    "name": "Craken",
+    "alias": "Craken"
+  },
+  {
+    "code": "35.03.020.005",
+    "villageCode": "005",
+    "districtCode": "35.03.020",
+    "name": "Masaran",
+    "alias": "Masaran"
+  },
+  {
+    "code": "35.03.020.006",
+    "villageCode": "006",
+    "districtCode": "35.03.020",
+    "name": "Munjungan",
+    "alias": "Munjungan"
+  },
+  {
+    "code": "35.03.020.007",
+    "villageCode": "007",
+    "districtCode": "35.03.020",
+    "name": "Tawing",
+    "alias": "Tawing"
+  },
+  {
+    "code": "35.03.020.008",
+    "villageCode": "008",
+    "districtCode": "35.03.020",
+    "name": "Bendoroto",
+    "alias": "Bendoroto"
+  },
+  {
+    "code": "35.03.020.009",
+    "villageCode": "009",
+    "districtCode": "35.03.020",
+    "name": "Bangun",
+    "alias": "Bangun"
+  },
+  {
+    "code": "35.03.020.010",
+    "villageCode": "010",
+    "districtCode": "35.03.020",
+    "name": "Karangturi",
+    "alias": "Karangturi"
+  },
+  {
+    "code": "35.03.020.011",
+    "villageCode": "011",
+    "districtCode": "35.03.020",
+    "name": "Besuki",
+    "alias": "Besuki"
+  }
+]

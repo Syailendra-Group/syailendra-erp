@@ -1,0 +1,58 @@
+[
+  {
+    "code": "36.01.061.001",
+    "villageCode": "001",
+    "districtCode": "36.01.061",
+    "name": "Cimanis",
+    "alias": "Cimanis"
+  },
+  {
+    "code": "36.01.061.002",
+    "villageCode": "002",
+    "districtCode": "36.01.061",
+    "name": "Pangkalan",
+    "alias": "Pangkalan"
+  },
+  {
+    "code": "36.01.061.003",
+    "villageCode": "003",
+    "districtCode": "36.01.061",
+    "name": "Sobang",
+    "alias": "Sobang"
+  },
+  {
+    "code": "36.01.061.004",
+    "villageCode": "004",
+    "districtCode": "36.01.061",
+    "name": "Kutamekar",
+    "alias": "Kutamekar"
+  },
+  {
+    "code": "36.01.061.005",
+    "villageCode": "005",
+    "districtCode": "36.01.061",
+    "name": "Bojen",
+    "alias": "Bojen"
+  },
+  {
+    "code": "36.01.061.006",
+    "villageCode": "006",
+    "districtCode": "36.01.061",
+    "name": "Kertaraharja",
+    "alias": "Kertaraharja"
+  },
+  {
+    "code": "36.01.061.007",
+    "villageCode": "007",
+    "districtCode": "36.01.061",
+    "name": "Teluklada",
+    "alias": "Teluklada"
+  },
+  {
+    "code": "36.01.061.008",
+    "villageCode": "008",
+    "districtCode": "36.01.061",
+    "name": "Bojenwetan",
+    "alias": "Bojenwetan"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "code": "72.04.032.001",
+    "villageCode": "001",
+    "districtCode": "72.04.032",
+    "name": "Petirodongi",
+    "alias": "Petirodongi"
+  },
+  {
+    "code": "72.04.032.002",
+    "villageCode": "002",
+    "districtCode": "72.04.032",
+    "name": "Tendeadongi",
+    "alias": "Tendeadongi"
+  },
+  {
+    "code": "72.04.032.003",
+    "villageCode": "003",
+    "districtCode": "72.04.032",
+    "name": "Sawidago",
+    "alias": "Sawidago"
+  },
+  {
+    "code": "72.04.032.004",
+    "villageCode": "004",
+    "districtCode": "72.04.032",
+    "name": "Saojo",
+    "alias": "Saojo"
+  },
+  {
+    "code": "72.04.032.005",
+    "villageCode": "005",
+    "districtCode": "72.04.032",
+    "name": "Uelincu",
+    "alias": "Uelincu"
+  },
+  {
+    "code": "72.04.032.006",
+    "villageCode": "006",
+    "districtCode": "72.04.032",
+    "name": "Sulewana",
+    "alias": "Sulewana"
+  },
+  {
+    "code": "72.04.032.007",
+    "villageCode": "007",
+    "districtCode": "72.04.032",
+    "name": "Lena",
+    "alias": "Lena"
+  },
+  {
+    "code": "72.04.032.008",
+    "villageCode": "008",
+    "districtCode": "72.04.032",
+    "name": "Sangira",
+    "alias": "Sangira"
+  },
+  {
+    "code": "72.04.032.009",
+    "villageCode": "009",
+    "districtCode": "72.04.032",
+    "name": "Kuku",
+    "alias": "Kuku"
+  },
+  {
+    "code": "72.04.032.010",
+    "villageCode": "010",
+    "districtCode": "72.04.032",
+    "name": "Panjoka",
+    "alias": "Panjoka"
+  }
+]

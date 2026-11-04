@@ -1,0 +1,23 @@
+[
+  {
+    "code": "81.08.022.001",
+    "villageCode": "001",
+    "districtCode": "81.08.022",
+    "name": "Jerusu",
+    "alias": "Jerusu"
+  },
+  {
+    "code": "81.08.022.002",
+    "villageCode": "002",
+    "districtCode": "81.08.022",
+    "name": "Hila",
+    "alias": "Hila"
+  },
+  {
+    "code": "81.08.022.003",
+    "villageCode": "003",
+    "districtCode": "81.08.022",
+    "name": "Solath",
+    "alias": "Solath"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "code": "14.71.070.001",
+    "villageCode": "001",
+    "districtCode": "14.71.070",
+    "name": "Padang Bulan",
+    "alias": "Padang Bulan"
+  },
+  {
+    "code": "14.71.070.002",
+    "villageCode": "002",
+    "districtCode": "14.71.070",
+    "name": "Padang Terubuk",
+    "alias": "Padang Terubuk"
+  },
+  {
+    "code": "14.71.070.003",
+    "villageCode": "003",
+    "districtCode": "14.71.070",
+    "name": "Sago",
+    "alias": "Sago"
+  },
+  {
+    "code": "14.71.070.004",
+    "villageCode": "004",
+    "districtCode": "14.71.070",
+    "name": "Kampung Dalam",
+    "alias": "Kampung Dalam"
+  },
+  {
+    "code": "14.71.070.005",
+    "villageCode": "005",
+    "districtCode": "14.71.070",
+    "name": "Kampung Bandar",
+    "alias": "Kampung Bandar"
+  },
+  {
+    "code": "14.71.070.006",
+    "villageCode": "006",
+    "districtCode": "14.71.070",
+    "name": "Kampung Baru",
+    "alias": "Kampung Baru"
+  }
+]

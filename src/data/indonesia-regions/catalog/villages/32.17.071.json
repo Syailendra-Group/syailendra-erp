@@ -1,0 +1,44 @@
+[
+  {
+    "code": "32.17.071.001",
+    "villageCode": "001",
+    "districtCode": "32.17.071",
+    "name": "Bojonghaleuang",
+    "alias": "Bojonghaleuang"
+  },
+  {
+    "code": "32.17.071.002",
+    "villageCode": "002",
+    "districtCode": "32.17.071",
+    "name": "Cikande",
+    "alias": "Cikande"
+  },
+  {
+    "code": "32.17.071.003",
+    "villageCode": "003",
+    "districtCode": "32.17.071",
+    "name": "Girimukti",
+    "alias": "Girimukti"
+  },
+  {
+    "code": "32.17.071.004",
+    "villageCode": "004",
+    "districtCode": "32.17.071",
+    "name": "Cipangeran",
+    "alias": "Cipangeran"
+  },
+  {
+    "code": "32.17.071.005",
+    "villageCode": "005",
+    "districtCode": "32.17.071",
+    "name": "Jati",
+    "alias": "Jati"
+  },
+  {
+    "code": "32.17.071.006",
+    "villageCode": "006",
+    "districtCode": "32.17.071",
+    "name": "Saguling",
+    "alias": "Saguling"
+  }
+]

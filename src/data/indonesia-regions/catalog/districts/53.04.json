@@ -1,0 +1,258 @@
+[
+  {
+    "code": "53.04.010",
+    "districtCode": "010",
+    "regencyCode": "53.04",
+    "provinceCode": "53",
+    "name": "Kecamatan Mollo Utara",
+    "alias": "Mollo Utara"
+  },
+  {
+    "code": "53.04.011",
+    "districtCode": "011",
+    "regencyCode": "53.04",
+    "provinceCode": "53",
+    "name": "Kecamatan Fatumnasi",
+    "alias": "Fatumnasi"
+  },
+  {
+    "code": "53.04.012",
+    "districtCode": "012",
+    "regencyCode": "53.04",
+    "provinceCode": "53",
+    "name": "Kecamatan Tobu",
+    "alias": "Tobu"
+  },
+  {
+    "code": "53.04.013",
+    "districtCode": "013",
+    "regencyCode": "53.04",
+    "provinceCode": "53",
+    "name": "Kecamatan Nunbena",
+    "alias": "Nunbena"
+  },
+  {
+    "code": "53.04.020",
+    "districtCode": "020",
+    "regencyCode": "53.04",
+    "provinceCode": "53",
+    "name": "Kecamatan Mollo Selatan",
+    "alias": "Mollo Selatan"
+  },
+  {
+    "code": "53.04.021",
+    "districtCode": "021",
+    "regencyCode": "53.04",
+    "provinceCode": "53",
+    "name": "Kecamatan Polen",
+    "alias": "Polen"
+  },
+  {
+    "code": "53.04.022",
+    "districtCode": "022",
+    "regencyCode": "53.04",
+    "provinceCode": "53",
+    "name": "Kecamatan Mollo Barat",
+    "alias": "Mollo Barat"
+  },
+  {
+    "code": "53.04.023",
+    "districtCode": "023",
+    "regencyCode": "53.04",
+    "provinceCode": "53",
+    "name": "Kecamatan Mollo Tengah",
+    "alias": "Mollo Tengah"
+  },
+  {
+    "code": "53.04.030",
+    "districtCode": "030",
+    "regencyCode": "53.04",
+    "provinceCode": "53",
+    "name": "Kecamatan Kota Soe",
+    "alias": "Kota Soe"
+  },
+  {
+    "code": "53.04.040",
+    "districtCode": "040",
+    "regencyCode": "53.04",
+    "provinceCode": "53",
+    "name": "Kecamatan Amanuban Barat",
+    "alias": "Amanuban Barat"
+  },
+  {
+    "code": "53.04.041",
+    "districtCode": "041",
+    "regencyCode": "53.04",
+    "provinceCode": "53",
+    "name": "Kecamatan Batu Putih",
+    "alias": "Batu Putih"
+  },
+  {
+    "code": "53.04.042",
+    "districtCode": "042",
+    "regencyCode": "53.04",
+    "provinceCode": "53",
+    "name": "Kecamatan Kuatnana",
+    "alias": "Kuatnana"
+  },
+  {
+    "code": "53.04.050",
+    "districtCode": "050",
+    "regencyCode": "53.04",
+    "provinceCode": "53",
+    "name": "Kecamatan Amanuban Selatan",
+    "alias": "Amanuban Selatan"
+  },
+  {
+    "code": "53.04.051",
+    "districtCode": "051",
+    "regencyCode": "53.04",
+    "provinceCode": "53",
+    "name": "Kecamatan Noebeba",
+    "alias": "Noebeba"
+  },
+  {
+    "code": "53.04.060",
+    "districtCode": "060",
+    "regencyCode": "53.04",
+    "provinceCode": "53",
+    "name": "Kecamatan Kuan Fatu",
+    "alias": "Kuan Fatu"
+  },
+  {
+    "code": "53.04.061",
+    "districtCode": "061",
+    "regencyCode": "53.04",
+    "provinceCode": "53",
+    "name": "Kecamatan Kualin",
+    "alias": "Kualin"
+  },
+  {
+    "code": "53.04.070",
+    "districtCode": "070",
+    "regencyCode": "53.04",
+    "provinceCode": "53",
+    "name": "Kecamatan Amanuban Tengah",
+    "alias": "Amanuban Tengah"
+  },
+  {
+    "code": "53.04.071",
+    "districtCode": "071",
+    "regencyCode": "53.04",
+    "provinceCode": "53",
+    "name": "Kecamatan Kolbano",
+    "alias": "Kolbano"
+  },
+  {
+    "code": "53.04.072",
+    "districtCode": "072",
+    "regencyCode": "53.04",
+    "provinceCode": "53",
+    "name": "Kecamatan Oenino",
+    "alias": "Oenino"
+  },
+  {
+    "code": "53.04.080",
+    "districtCode": "080",
+    "regencyCode": "53.04",
+    "provinceCode": "53",
+    "name": "Kecamatan Amanuban Timur",
+    "alias": "Amanuban Timur"
+  },
+  {
+    "code": "53.04.081",
+    "districtCode": "081",
+    "regencyCode": "53.04",
+    "provinceCode": "53",
+    "name": "Kecamatan Fautmolo",
+    "alias": "Fautmolo"
+  },
+  {
+    "code": "53.04.082",
+    "districtCode": "082",
+    "regencyCode": "53.04",
+    "provinceCode": "53",
+    "name": "Kecamatan Fatukopa",
+    "alias": "Fatukopa"
+  },
+  {
+    "code": "53.04.090",
+    "districtCode": "090",
+    "regencyCode": "53.04",
+    "provinceCode": "53",
+    "name": "Kecamatan Kie",
+    "alias": "Kie"
+  },
+  {
+    "code": "53.04.091",
+    "districtCode": "091",
+    "regencyCode": "53.04",
+    "provinceCode": "53",
+    "name": "Kecamatan Kot'Olin",
+    "alias": "Kot'Olin"
+  },
+  {
+    "code": "53.04.100",
+    "districtCode": "100",
+    "regencyCode": "53.04",
+    "provinceCode": "53",
+    "name": "Kecamatan Amanatun Selatan",
+    "alias": "Amanatun Selatan"
+  },
+  {
+    "code": "53.04.101",
+    "districtCode": "101",
+    "regencyCode": "53.04",
+    "provinceCode": "53",
+    "name": "Kecamatan Boking",
+    "alias": "Boking"
+  },
+  {
+    "code": "53.04.102",
+    "districtCode": "102",
+    "regencyCode": "53.04",
+    "provinceCode": "53",
+    "name": "Kecamatan Nunkolo",
+    "alias": "Nunkolo"
+  },
+  {
+    "code": "53.04.103",
+    "districtCode": "103",
+    "regencyCode": "53.04",
+    "provinceCode": "53",
+    "name": "Kecamatan Noebana",
+    "alias": "Noebana"
+  },
+  {
+    "code": "53.04.104",
+    "districtCode": "104",
+    "regencyCode": "53.04",
+    "provinceCode": "53",
+    "name": "Kecamatan Santian",
+    "alias": "Santian"
+  },
+  {
+    "code": "53.04.110",
+    "districtCode": "110",
+    "regencyCode": "53.04",
+    "provinceCode": "53",
+    "name": "Kecamatan Amanatun Utara",
+    "alias": "Amanatun Utara"
+  },
+  {
+    "code": "53.04.111",
+    "districtCode": "111",
+    "regencyCode": "53.04",
+    "provinceCode": "53",
+    "name": "Kecamatan Toianas",
+    "alias": "Toianas"
+  },
+  {
+    "code": "53.04.112",
+    "districtCode": "112",
+    "regencyCode": "53.04",
+    "provinceCode": "53",
+    "name": "Kecamatan Kokbaun",
+    "alias": "Kokbaun"
+  }
+]

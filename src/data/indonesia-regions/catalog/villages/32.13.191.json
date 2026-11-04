@@ -1,0 +1,51 @@
+[
+  {
+    "code": "32.13.191.001",
+    "villageCode": "001",
+    "districtCode": "32.13.191",
+    "name": "Mandalawangi",
+    "alias": "Mandalawangi"
+  },
+  {
+    "code": "32.13.191.002",
+    "villageCode": "002",
+    "districtCode": "32.13.191",
+    "name": "Curugreja",
+    "alias": "Curugreja"
+  },
+  {
+    "code": "32.13.191.003",
+    "villageCode": "003",
+    "districtCode": "32.13.191",
+    "name": "Batangsari",
+    "alias": "Batangsari"
+  },
+  {
+    "code": "32.13.191.004",
+    "villageCode": "004",
+    "districtCode": "32.13.191",
+    "name": "Sukasari",
+    "alias": "Sukasari"
+  },
+  {
+    "code": "32.13.191.005",
+    "villageCode": "005",
+    "districtCode": "32.13.191",
+    "name": "Sukareja",
+    "alias": "Sukareja"
+  },
+  {
+    "code": "32.13.191.006",
+    "villageCode": "006",
+    "districtCode": "32.13.191",
+    "name": "Anggasari",
+    "alias": "Anggasari"
+  },
+  {
+    "code": "32.13.191.007",
+    "villageCode": "007",
+    "districtCode": "32.13.191",
+    "name": "Sukamaju",
+    "alias": "Sukamaju"
+  }
+]

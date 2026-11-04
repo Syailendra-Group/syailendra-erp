@@ -1,0 +1,86 @@
+[
+  {
+    "code": "52.04.100.001",
+    "villageCode": "001",
+    "districtCode": "52.04.100",
+    "name": "Sempe",
+    "alias": "Sempe"
+  },
+  {
+    "code": "52.04.100.002",
+    "villageCode": "002",
+    "districtCode": "52.04.100",
+    "name": "Semamung",
+    "alias": "Semamung"
+  },
+  {
+    "code": "52.04.100.003",
+    "villageCode": "003",
+    "districtCode": "52.04.100",
+    "name": "Sebasang",
+    "alias": "Sebasang"
+  },
+  {
+    "code": "52.04.100.004",
+    "villageCode": "004",
+    "districtCode": "52.04.100",
+    "name": "Batu Tering",
+    "alias": "Batu Tering"
+  },
+  {
+    "code": "52.04.100.005",
+    "villageCode": "005",
+    "districtCode": "52.04.100",
+    "name": "Batu Bulan",
+    "alias": "Batu Bulan"
+  },
+  {
+    "code": "52.04.100.006",
+    "villageCode": "006",
+    "districtCode": "52.04.100",
+    "name": "Mokong",
+    "alias": "Mokong"
+  },
+  {
+    "code": "52.04.100.007",
+    "villageCode": "007",
+    "districtCode": "52.04.100",
+    "name": "Pernek",
+    "alias": "Pernek"
+  },
+  {
+    "code": "52.04.100.008",
+    "villageCode": "008",
+    "districtCode": "52.04.100",
+    "name": "Leseng",
+    "alias": "Leseng"
+  },
+  {
+    "code": "52.04.100.009",
+    "villageCode": "009",
+    "districtCode": "52.04.100",
+    "name": "Lito",
+    "alias": "Lito"
+  },
+  {
+    "code": "52.04.100.010",
+    "villageCode": "010",
+    "districtCode": "52.04.100",
+    "name": "Marga Karya",
+    "alias": "Marga Karya"
+  },
+  {
+    "code": "52.04.100.011",
+    "villageCode": "011",
+    "districtCode": "52.04.100",
+    "name": "Brang Rea",
+    "alias": "Brang Rea"
+  },
+  {
+    "code": "52.04.100.012",
+    "villageCode": "012",
+    "districtCode": "52.04.100",
+    "name": "Maman",
+    "alias": "Maman"
+  }
+]

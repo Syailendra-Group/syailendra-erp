@@ -1,0 +1,93 @@
+[
+  {
+    "code": "53.15.051.001",
+    "villageCode": "001",
+    "districtCode": "53.15.051",
+    "name": "Loha",
+    "alias": "Loha"
+  },
+  {
+    "code": "53.15.051.002",
+    "villageCode": "002",
+    "districtCode": "53.15.051",
+    "name": "Compang",
+    "alias": "Compang"
+  },
+  {
+    "code": "53.15.051.003",
+    "villageCode": "003",
+    "districtCode": "53.15.051",
+    "name": "Pong Kolong",
+    "alias": "Pong Kolong"
+  },
+  {
+    "code": "53.15.051.004",
+    "villageCode": "004",
+    "districtCode": "53.15.051",
+    "name": "Waka",
+    "alias": "Waka"
+  },
+  {
+    "code": "53.15.051.005",
+    "villageCode": "005",
+    "districtCode": "53.15.051",
+    "name": "Golo Lajang Barat",
+    "alias": "Golo Lajang Barat"
+  },
+  {
+    "code": "53.15.051.006",
+    "villageCode": "006",
+    "districtCode": "53.15.051",
+    "name": "Golo Lajang",
+    "alias": "Golo Lajang"
+  },
+  {
+    "code": "53.15.051.007",
+    "villageCode": "007",
+    "districtCode": "53.15.051",
+    "name": "Manong",
+    "alias": "Manong"
+  },
+  {
+    "code": "53.15.051.008",
+    "villageCode": "008",
+    "districtCode": "53.15.051",
+    "name": "Benteng Ndope",
+    "alias": "Benteng Ndope"
+  },
+  {
+    "code": "53.15.051.009",
+    "villageCode": "009",
+    "districtCode": "53.15.051",
+    "name": "Romang",
+    "alias": "Romang"
+  },
+  {
+    "code": "53.15.051.010",
+    "villageCode": "010",
+    "districtCode": "53.15.051",
+    "name": "Pacar",
+    "alias": "Pacar"
+  },
+  {
+    "code": "53.15.051.011",
+    "villageCode": "011",
+    "districtCode": "53.15.051",
+    "name": "Kombo Selatan",
+    "alias": "Kombo Selatan"
+  },
+  {
+    "code": "53.15.051.012",
+    "villageCode": "012",
+    "districtCode": "53.15.051",
+    "name": "Kombo Tengah",
+    "alias": "Kombo Tengah"
+  },
+  {
+    "code": "53.15.051.013",
+    "villageCode": "013",
+    "districtCode": "53.15.051",
+    "name": "Kombo",
+    "alias": "Kombo"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "code": "73.06.061.001",
+    "villageCode": "001",
+    "districtCode": "73.06.061",
+    "name": "Pattallikang",
+    "alias": "Pattallikang"
+  },
+  {
+    "code": "73.06.061.002",
+    "villageCode": "002",
+    "districtCode": "73.06.061",
+    "name": "Moncongloe",
+    "alias": "Moncongloe"
+  },
+  {
+    "code": "73.06.061.003",
+    "villageCode": "003",
+    "districtCode": "73.06.061",
+    "name": "Manuju",
+    "alias": "Manuju"
+  },
+  {
+    "code": "73.06.061.004",
+    "villageCode": "004",
+    "districtCode": "73.06.061",
+    "name": "Tamalatea",
+    "alias": "Tamalatea"
+  },
+  {
+    "code": "73.06.061.010",
+    "villageCode": "010",
+    "districtCode": "73.06.061",
+    "name": "Bilalang",
+    "alias": "Bilalang"
+  },
+  {
+    "code": "73.06.061.011",
+    "villageCode": "011",
+    "districtCode": "73.06.061",
+    "name": "Tassese",
+    "alias": "Tassese"
+  },
+  {
+    "code": "73.06.061.012",
+    "villageCode": "012",
+    "districtCode": "73.06.061",
+    "name": "Tana Karaeng",
+    "alias": "Tana Karaeng"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "code": "32.75.031.001",
+    "villageCode": "001",
+    "districtCode": "32.75.031",
+    "name": "Padurenan",
+    "alias": "Padurenan"
+  },
+  {
+    "code": "32.75.031.002",
+    "villageCode": "002",
+    "districtCode": "32.75.031",
+    "name": "Cimuning",
+    "alias": "Cimuning"
+  },
+  {
+    "code": "32.75.031.003",
+    "villageCode": "003",
+    "districtCode": "32.75.031",
+    "name": "Mustika Jaya",
+    "alias": "Mustika Jaya"
+  },
+  {
+    "code": "32.75.031.004",
+    "villageCode": "004",
+    "districtCode": "32.75.031",
+    "name": "Mustika Sari",
+    "alias": "Mustika Sari"
+  }
+]

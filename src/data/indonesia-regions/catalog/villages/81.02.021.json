@@ -1,0 +1,212 @@
+[
+  {
+    "code": "81.02.021.001",
+    "villageCode": "001",
+    "districtCode": "81.02.021",
+    "name": "Kilwair",
+    "alias": "Kilwair"
+  },
+  {
+    "code": "81.02.021.002",
+    "villageCode": "002",
+    "districtCode": "81.02.021",
+    "name": "Hollat",
+    "alias": "Hollat"
+  },
+  {
+    "code": "81.02.021.003",
+    "villageCode": "003",
+    "districtCode": "81.02.021",
+    "name": "Ohoifau",
+    "alias": "Ohoifau"
+  },
+  {
+    "code": "81.02.021.004",
+    "villageCode": "004",
+    "districtCode": "81.02.021",
+    "name": "Watlar",
+    "alias": "Watlar"
+  },
+  {
+    "code": "81.02.021.005",
+    "villageCode": "005",
+    "districtCode": "81.02.021",
+    "name": "Banda Eli",
+    "alias": "Banda Eli"
+  },
+  {
+    "code": "81.02.021.006",
+    "villageCode": "006",
+    "districtCode": "81.02.021",
+    "name": "Renfaan",
+    "alias": "Renfaan"
+  },
+  {
+    "code": "81.02.021.007",
+    "villageCode": "007",
+    "districtCode": "81.02.021",
+    "name": "Langgiar Haar",
+    "alias": "Langgiar Haar"
+  },
+  {
+    "code": "81.02.021.008",
+    "villageCode": "008",
+    "districtCode": "81.02.021",
+    "name": "Haar Ohoimel",
+    "alias": "Haar Ohoimel"
+  },
+  {
+    "code": "81.02.021.009",
+    "villageCode": "009",
+    "districtCode": "81.02.021",
+    "name": "Ohoiraut",
+    "alias": "Ohoiraut"
+  },
+  {
+    "code": "81.02.021.010",
+    "villageCode": "010",
+    "districtCode": "81.02.021",
+    "name": "Ohoiwirin",
+    "alias": "Ohoiwirin"
+  },
+  {
+    "code": "81.02.021.011",
+    "villageCode": "011",
+    "districtCode": "81.02.021",
+    "name": "Tuburngil",
+    "alias": "Tuburngil"
+  },
+  {
+    "code": "81.02.021.012",
+    "villageCode": "012",
+    "districtCode": "81.02.021",
+    "name": "Yamtimur",
+    "alias": "Yamtimur"
+  },
+  {
+    "code": "81.02.021.013",
+    "villageCode": "013",
+    "districtCode": "81.02.021",
+    "name": "Hollat Solair",
+    "alias": "Hollat Solair"
+  },
+  {
+    "code": "81.02.021.014",
+    "villageCode": "014",
+    "districtCode": "81.02.021",
+    "name": "Hoko",
+    "alias": "Hoko"
+  },
+  {
+    "code": "81.02.021.015",
+    "villageCode": "015",
+    "districtCode": "81.02.021",
+    "name": "Hollay",
+    "alias": "Hollay"
+  },
+  {
+    "code": "81.02.021.016",
+    "villageCode": "016",
+    "districtCode": "81.02.021",
+    "name": "Ohoifaruan",
+    "alias": "Ohoifaruan"
+  },
+  {
+    "code": "81.02.021.017",
+    "villageCode": "017",
+    "districtCode": "81.02.021",
+    "name": "Banda Efruan",
+    "alias": "Banda Efruan"
+  },
+  {
+    "code": "81.02.021.018",
+    "villageCode": "018",
+    "districtCode": "81.02.021",
+    "name": "Banda Suku Tiga Puluh",
+    "alias": "Banda Suku Tiga Puluh"
+  },
+  {
+    "code": "81.02.021.019",
+    "villageCode": "019",
+    "districtCode": "81.02.021",
+    "name": "Tuburlay",
+    "alias": "Tuburlay"
+  },
+  {
+    "code": "81.02.021.020",
+    "villageCode": "020",
+    "districtCode": "81.02.021",
+    "name": "Renfaan Islam",
+    "alias": "Renfaan Islam"
+  },
+  {
+    "code": "81.02.021.021",
+    "villageCode": "021",
+    "districtCode": "81.02.021",
+    "name": "Renfaan Gpm",
+    "alias": "Renfaan Gpm"
+  },
+  {
+    "code": "81.02.021.022",
+    "villageCode": "022",
+    "districtCode": "81.02.021",
+    "name": "Fanwav",
+    "alias": "Fanwav"
+  },
+  {
+    "code": "81.02.021.023",
+    "villageCode": "023",
+    "districtCode": "81.02.021",
+    "name": "Ur",
+    "alias": "Ur"
+  },
+  {
+    "code": "81.02.021.024",
+    "villageCode": "024",
+    "districtCode": "81.02.021",
+    "name": "Ohoimajang",
+    "alias": "Ohoimajang"
+  },
+  {
+    "code": "81.02.021.025",
+    "villageCode": "025",
+    "districtCode": "81.02.021",
+    "name": "Haar Renrahantel",
+    "alias": "Haar Renrahantel"
+  },
+  {
+    "code": "81.02.021.026",
+    "villageCode": "026",
+    "districtCode": "81.02.021",
+    "name": "Haar Ohoimur Gpm",
+    "alias": "Haar Ohoimur Gpm"
+  },
+  {
+    "code": "81.02.021.027",
+    "villageCode": "027",
+    "districtCode": "81.02.021",
+    "name": "Haar Ohoimur Rk",
+    "alias": "Haar Ohoimur Rk"
+  },
+  {
+    "code": "81.02.021.028",
+    "villageCode": "028",
+    "districtCode": "81.02.021",
+    "name": "Haar Ohoiwait",
+    "alias": "Haar Ohoiwait"
+  },
+  {
+    "code": "81.02.021.029",
+    "villageCode": "029",
+    "districtCode": "81.02.021",
+    "name": "Haar Wassar",
+    "alias": "Haar Wassar"
+  },
+  {
+    "code": "81.02.021.030",
+    "villageCode": "030",
+    "districtCode": "81.02.021",
+    "name": "Soin",
+    "alias": "Soin"
+  }
+]

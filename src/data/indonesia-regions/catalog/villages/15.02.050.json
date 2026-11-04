@@ -1,0 +1,72 @@
+[
+  {
+    "code": "15.02.050.009",
+    "villageCode": "009",
+    "districtCode": "15.02.050",
+    "name": "Bukit Batu",
+    "alias": "Bukit Batu"
+  },
+  {
+    "code": "15.02.050.010",
+    "villageCode": "010",
+    "districtCode": "15.02.050",
+    "name": "Sungai Nilau",
+    "alias": "Sungai Nilau"
+  },
+  {
+    "code": "15.02.050.011",
+    "villageCode": "011",
+    "districtCode": "15.02.050",
+    "name": "Sungai Pinang",
+    "alias": "Sungai Pinang"
+  },
+  {
+    "code": "15.02.050.012",
+    "villageCode": "012",
+    "districtCode": "15.02.050",
+    "name": "Palipan",
+    "alias": "Palipan"
+  },
+  {
+    "code": "15.02.050.013",
+    "villageCode": "013",
+    "districtCode": "15.02.050",
+    "name": "Seringat",
+    "alias": "Seringat"
+  },
+  {
+    "code": "15.02.050.014",
+    "villageCode": "014",
+    "districtCode": "15.02.050",
+    "name": "Tiangko",
+    "alias": "Tiangko"
+  },
+  {
+    "code": "15.02.050.015",
+    "villageCode": "015",
+    "districtCode": "15.02.050",
+    "name": "Sungai Manau",
+    "alias": "Sungai Manau"
+  },
+  {
+    "code": "15.02.050.016",
+    "villageCode": "016",
+    "districtCode": "15.02.050",
+    "name": "Durian Lecah",
+    "alias": "Durian Lecah"
+  },
+  {
+    "code": "15.02.050.017",
+    "villageCode": "017",
+    "districtCode": "15.02.050",
+    "name": "Benteng",
+    "alias": "Benteng"
+  },
+  {
+    "code": "15.02.050.018",
+    "villageCode": "018",
+    "districtCode": "15.02.050",
+    "name": "Gelanggang",
+    "alias": "Gelanggang"
+  }
+]

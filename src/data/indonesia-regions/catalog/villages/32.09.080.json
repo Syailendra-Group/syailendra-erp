@@ -1,0 +1,79 @@
+[
+  {
+    "code": "32.09.080.004",
+    "villageCode": "004",
+    "districtCode": "32.09.080",
+    "name": "Munjul",
+    "alias": "Munjul"
+  },
+  {
+    "code": "32.09.080.005",
+    "villageCode": "005",
+    "districtCode": "32.09.080",
+    "name": "Sidamulya",
+    "alias": "Sidamulya"
+  },
+  {
+    "code": "32.09.080.006",
+    "villageCode": "006",
+    "districtCode": "32.09.080",
+    "name": "Mertapada Kulon",
+    "alias": "Mertapada Kulon"
+  },
+  {
+    "code": "32.09.080.007",
+    "villageCode": "007",
+    "districtCode": "32.09.080",
+    "name": "Mertapada Wetan",
+    "alias": "Mertapada Wetan"
+  },
+  {
+    "code": "32.09.080.008",
+    "villageCode": "008",
+    "districtCode": "32.09.080",
+    "name": "Buntet",
+    "alias": "Buntet"
+  },
+  {
+    "code": "32.09.080.009",
+    "villageCode": "009",
+    "districtCode": "32.09.080",
+    "name": "Kanci Kulon",
+    "alias": "Kanci Kulon"
+  },
+  {
+    "code": "32.09.080.010",
+    "villageCode": "010",
+    "districtCode": "32.09.080",
+    "name": "Kanci",
+    "alias": "Kanci"
+  },
+  {
+    "code": "32.09.080.011",
+    "villageCode": "011",
+    "districtCode": "32.09.080",
+    "name": "Astanajapura",
+    "alias": "Astanajapura"
+  },
+  {
+    "code": "32.09.080.015",
+    "villageCode": "015",
+    "districtCode": "32.09.080",
+    "name": "Kendal",
+    "alias": "Kendal"
+  },
+  {
+    "code": "32.09.080.016",
+    "villageCode": "016",
+    "districtCode": "32.09.080",
+    "name": "Japura Kidul",
+    "alias": "Japura Kidul"
+  },
+  {
+    "code": "32.09.080.017",
+    "villageCode": "017",
+    "districtCode": "32.09.080",
+    "name": "Japurabakti",
+    "alias": "Japurabakti"
+  }
+]

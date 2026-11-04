@@ -1,0 +1,44 @@
+[
+  {
+    "code": "32.04.290.001",
+    "villageCode": "001",
+    "districtCode": "32.04.290",
+    "name": "Cibiru Hilir",
+    "alias": "Cibiru Hilir"
+  },
+  {
+    "code": "32.04.290.002",
+    "villageCode": "002",
+    "districtCode": "32.04.290",
+    "name": "Cinunuk",
+    "alias": "Cinunuk"
+  },
+  {
+    "code": "32.04.290.003",
+    "villageCode": "003",
+    "districtCode": "32.04.290",
+    "name": "Cimekar",
+    "alias": "Cimekar"
+  },
+  {
+    "code": "32.04.290.004",
+    "villageCode": "004",
+    "districtCode": "32.04.290",
+    "name": "Cileunyi Kulon",
+    "alias": "Cileunyi Kulon"
+  },
+  {
+    "code": "32.04.290.005",
+    "villageCode": "005",
+    "districtCode": "32.04.290",
+    "name": "Cileunyi Wetan",
+    "alias": "Cileunyi Wetan"
+  },
+  {
+    "code": "32.04.290.006",
+    "villageCode": "006",
+    "districtCode": "32.04.290",
+    "name": "Cibiru Wetan",
+    "alias": "Cibiru Wetan"
+  }
+]

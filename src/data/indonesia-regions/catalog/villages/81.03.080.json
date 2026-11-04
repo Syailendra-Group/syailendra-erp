@@ -1,0 +1,51 @@
+[
+  {
+    "code": "81.03.080.012",
+    "villageCode": "012",
+    "districtCode": "81.03.080",
+    "name": "Saparua",
+    "alias": "Saparua"
+  },
+  {
+    "code": "81.03.080.013",
+    "villageCode": "013",
+    "districtCode": "81.03.080",
+    "name": "Tiouw",
+    "alias": "Tiouw"
+  },
+  {
+    "code": "81.03.080.014",
+    "villageCode": "014",
+    "districtCode": "81.03.080",
+    "name": "Paperu",
+    "alias": "Paperu"
+  },
+  {
+    "code": "81.03.080.015",
+    "villageCode": "015",
+    "districtCode": "81.03.080",
+    "name": "Booi",
+    "alias": "Booi"
+  },
+  {
+    "code": "81.03.080.016",
+    "villageCode": "016",
+    "districtCode": "81.03.080",
+    "name": "Haria",
+    "alias": "Haria"
+  },
+  {
+    "code": "81.03.080.017",
+    "villageCode": "017",
+    "districtCode": "81.03.080",
+    "name": "Porto",
+    "alias": "Porto"
+  },
+  {
+    "code": "81.03.080.018",
+    "villageCode": "018",
+    "districtCode": "81.03.080",
+    "name": "Kulur",
+    "alias": "Kulur"
+  }
+]

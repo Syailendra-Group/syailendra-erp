@@ -1,0 +1,86 @@
+[
+  {
+    "code": "61.04.110.001",
+    "villageCode": "001",
+    "districtCode": "61.04.110",
+    "name": "Semudun",
+    "alias": "Semudun"
+  },
+  {
+    "code": "61.04.110.002",
+    "villageCode": "002",
+    "districtCode": "61.04.110",
+    "name": "Semparong Parit Raden",
+    "alias": "Semparong Parit Raden"
+  },
+  {
+    "code": "61.04.110.003",
+    "villageCode": "003",
+    "districtCode": "61.04.110",
+    "name": "Mendalok",
+    "alias": "Mendalok"
+  },
+  {
+    "code": "61.04.110.004",
+    "villageCode": "004",
+    "districtCode": "61.04.110",
+    "name": "Sungai Dungun",
+    "alias": "Sungai Dungun"
+  },
+  {
+    "code": "61.04.110.005",
+    "villageCode": "005",
+    "districtCode": "61.04.110",
+    "name": "Sungai Limau",
+    "alias": "Sungai Limau"
+  },
+  {
+    "code": "61.04.110.006",
+    "villageCode": "006",
+    "districtCode": "61.04.110",
+    "name": "Sungai Kunyit Laut",
+    "alias": "Sungai Kunyit Laut"
+  },
+  {
+    "code": "61.04.110.007",
+    "villageCode": "007",
+    "districtCode": "61.04.110",
+    "name": "Sungai Kunyit Dalam",
+    "alias": "Sungai Kunyit Dalam"
+  },
+  {
+    "code": "61.04.110.008",
+    "villageCode": "008",
+    "districtCode": "61.04.110",
+    "name": "Sungai Kunyit Hulu",
+    "alias": "Sungai Kunyit Hulu"
+  },
+  {
+    "code": "61.04.110.009",
+    "villageCode": "009",
+    "districtCode": "61.04.110",
+    "name": "Bukit Batu",
+    "alias": "Bukit Batu"
+  },
+  {
+    "code": "61.04.110.010",
+    "villageCode": "010",
+    "districtCode": "61.04.110",
+    "name": "Sungai Bundung Laut",
+    "alias": "Sungai Bundung Laut"
+  },
+  {
+    "code": "61.04.110.011",
+    "villageCode": "011",
+    "districtCode": "61.04.110",
+    "name": "Sungai Duri I",
+    "alias": "Sungai Duri I"
+  },
+  {
+    "code": "61.04.110.012",
+    "villageCode": "012",
+    "districtCode": "61.04.110",
+    "name": "Sungai Duri Ii",
+    "alias": "Sungai Duri Ii"
+  }
+]

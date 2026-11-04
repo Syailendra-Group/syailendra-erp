@@ -1,0 +1,37 @@
+[
+  {
+    "code": "61.06.070.012",
+    "villageCode": "012",
+    "districtCode": "61.06.070",
+    "name": "Sungai Putri",
+    "alias": "Sungai Putri"
+  },
+  {
+    "code": "61.06.070.014",
+    "villageCode": "014",
+    "districtCode": "61.06.070",
+    "name": "Tanjung Baik Budi",
+    "alias": "Tanjung Baik Budi"
+  },
+  {
+    "code": "61.06.070.015",
+    "villageCode": "015",
+    "districtCode": "61.06.070",
+    "name": "Kuala Tolak",
+    "alias": "Kuala Tolak"
+  },
+  {
+    "code": "61.06.070.016",
+    "villageCode": "016",
+    "districtCode": "61.06.070",
+    "name": "Kuala Satong",
+    "alias": "Kuala Satong"
+  },
+  {
+    "code": "61.06.070.017",
+    "villageCode": "017",
+    "districtCode": "61.06.070",
+    "name": "Laman Satong",
+    "alias": "Laman Satong"
+  }
+]

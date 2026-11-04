@@ -6,6 +6,8 @@ export interface VillageRecord {
   description?: string | false
   district_id: [number, string]
   city_id?: [number, string]
+  state_id?: [number, string]
+  country_id?: [number, string]
   zip_code?: string | false
   latitude?: number
   longitude?: number

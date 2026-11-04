@@ -1,0 +1,72 @@
+[
+  {
+    "code": "13.07.030.001",
+    "villageCode": "001",
+    "districtCode": "13.07.030",
+    "name": "Tanjung Sani",
+    "alias": "Tanjung Sani"
+  },
+  {
+    "code": "13.07.030.002",
+    "villageCode": "002",
+    "districtCode": "13.07.030",
+    "name": "Sungai Batang",
+    "alias": "Sungai Batang"
+  },
+  {
+    "code": "13.07.030.003",
+    "villageCode": "003",
+    "districtCode": "13.07.030",
+    "name": "Maninjau",
+    "alias": "Maninjau"
+  },
+  {
+    "code": "13.07.030.004",
+    "villageCode": "004",
+    "districtCode": "13.07.030",
+    "name": "Bayua",
+    "alias": "Bayua"
+  },
+  {
+    "code": "13.07.030.005",
+    "villageCode": "005",
+    "districtCode": "13.07.030",
+    "name": "Duo Koto",
+    "alias": "Duo Koto"
+  },
+  {
+    "code": "13.07.030.006",
+    "villageCode": "006",
+    "districtCode": "13.07.030",
+    "name": "Paninjauan",
+    "alias": "Paninjauan"
+  },
+  {
+    "code": "13.07.030.007",
+    "villageCode": "007",
+    "districtCode": "13.07.030",
+    "name": "Koto Kaciak",
+    "alias": "Koto Kaciak"
+  },
+  {
+    "code": "13.07.030.008",
+    "villageCode": "008",
+    "districtCode": "13.07.030",
+    "name": "Koto Gadang Anam Koto",
+    "alias": "Koto Gadang Anam Koto"
+  },
+  {
+    "code": "13.07.030.009",
+    "villageCode": "009",
+    "districtCode": "13.07.030",
+    "name": "Koto Malintang",
+    "alias": "Koto Malintang"
+  },
+  {
+    "code": "13.07.030.010",
+    "villageCode": "010",
+    "districtCode": "13.07.030",
+    "name": "Nagari Persiapan Dalko",
+    "alias": "Nagari Persiapan Dalko"
+  }
+]

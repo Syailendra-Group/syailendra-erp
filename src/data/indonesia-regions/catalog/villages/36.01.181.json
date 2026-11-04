@@ -1,0 +1,37 @@
+[
+  {
+    "code": "36.01.181.001",
+    "villageCode": "001",
+    "districtCode": "36.01.181",
+    "name": "Sukaratu",
+    "alias": "Sukaratu"
+  },
+  {
+    "code": "36.01.181.002",
+    "villageCode": "002",
+    "districtCode": "36.01.181",
+    "name": "Karaton",
+    "alias": "Karaton"
+  },
+  {
+    "code": "36.01.181.003",
+    "villageCode": "003",
+    "districtCode": "36.01.181",
+    "name": "Cilaja",
+    "alias": "Cilaja"
+  },
+  {
+    "code": "36.01.181.004",
+    "villageCode": "004",
+    "districtCode": "36.01.181",
+    "name": "Saruni",
+    "alias": "Saruni"
+  },
+  {
+    "code": "36.01.181.005",
+    "villageCode": "005",
+    "districtCode": "36.01.181",
+    "name": "Pagerbatu",
+    "alias": "Pagerbatu"
+  }
+]

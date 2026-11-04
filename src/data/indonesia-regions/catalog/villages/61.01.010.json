@@ -1,0 +1,79 @@
+[
+  {
+    "code": "61.01.010.001",
+    "villageCode": "001",
+    "districtCode": "61.01.010",
+    "name": "Semelagi Besar",
+    "alias": "Semelagi Besar"
+  },
+  {
+    "code": "61.01.010.002",
+    "villageCode": "002",
+    "districtCode": "61.01.010",
+    "name": "Sungai Daun",
+    "alias": "Sungai Daun"
+  },
+  {
+    "code": "61.01.010.003",
+    "villageCode": "003",
+    "districtCode": "61.01.010",
+    "name": "Sungai Rusa",
+    "alias": "Sungai Rusa"
+  },
+  {
+    "code": "61.01.010.004",
+    "villageCode": "004",
+    "districtCode": "61.01.010",
+    "name": "Pangkalan Bemban",
+    "alias": "Pangkalan Bemban"
+  },
+  {
+    "code": "61.01.010.005",
+    "villageCode": "005",
+    "districtCode": "61.01.010",
+    "name": "Sungai Nyirih",
+    "alias": "Sungai Nyirih"
+  },
+  {
+    "code": "61.01.010.006",
+    "villageCode": "006",
+    "districtCode": "61.01.010",
+    "name": "Kuala",
+    "alias": "Kuala"
+  },
+  {
+    "code": "61.01.010.007",
+    "villageCode": "007",
+    "districtCode": "61.01.010",
+    "name": "Parit Baru",
+    "alias": "Parit Baru"
+  },
+  {
+    "code": "61.01.010.008",
+    "villageCode": "008",
+    "districtCode": "61.01.010",
+    "name": "Twi Mentibar",
+    "alias": "Twi Mentibar"
+  },
+  {
+    "code": "61.01.010.009",
+    "villageCode": "009",
+    "districtCode": "61.01.010",
+    "name": "Bentunai",
+    "alias": "Bentunai"
+  },
+  {
+    "code": "61.01.010.010",
+    "villageCode": "010",
+    "districtCode": "61.01.010",
+    "name": "Parit Kongsi",
+    "alias": "Parit Kongsi"
+  },
+  {
+    "code": "61.01.010.011",
+    "villageCode": "011",
+    "districtCode": "61.01.010",
+    "name": "Gayung Bersambut",
+    "alias": "Gayung Bersambut"
+  }
+]

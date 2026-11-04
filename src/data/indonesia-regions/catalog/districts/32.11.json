@@ -1,0 +1,210 @@
+[
+  {
+    "code": "32.11.010",
+    "districtCode": "010",
+    "regencyCode": "32.11",
+    "provinceCode": "32",
+    "name": "Kecamatan Jatinangor",
+    "alias": "Jatinangor"
+  },
+  {
+    "code": "32.11.020",
+    "districtCode": "020",
+    "regencyCode": "32.11",
+    "provinceCode": "32",
+    "name": "Kecamatan Cimanggung",
+    "alias": "Cimanggung"
+  },
+  {
+    "code": "32.11.030",
+    "districtCode": "030",
+    "regencyCode": "32.11",
+    "provinceCode": "32",
+    "name": "Kecamatan Tanjungsari",
+    "alias": "Tanjungsari"
+  },
+  {
+    "code": "32.11.031",
+    "districtCode": "031",
+    "regencyCode": "32.11",
+    "provinceCode": "32",
+    "name": "Kecamatan Sukasari",
+    "alias": "Sukasari"
+  },
+  {
+    "code": "32.11.032",
+    "districtCode": "032",
+    "regencyCode": "32.11",
+    "provinceCode": "32",
+    "name": "Kecamatan Pamulihan",
+    "alias": "Pamulihan"
+  },
+  {
+    "code": "32.11.040",
+    "districtCode": "040",
+    "regencyCode": "32.11",
+    "provinceCode": "32",
+    "name": "Kecamatan Rancakalong",
+    "alias": "Rancakalong"
+  },
+  {
+    "code": "32.11.050",
+    "districtCode": "050",
+    "regencyCode": "32.11",
+    "provinceCode": "32",
+    "name": "Kecamatan Sumedang Selatan",
+    "alias": "Sumedang Selatan"
+  },
+  {
+    "code": "32.11.060",
+    "districtCode": "060",
+    "regencyCode": "32.11",
+    "provinceCode": "32",
+    "name": "Kecamatan Sumedang Utara",
+    "alias": "Sumedang Utara"
+  },
+  {
+    "code": "32.11.061",
+    "districtCode": "061",
+    "regencyCode": "32.11",
+    "provinceCode": "32",
+    "name": "Kecamatan Ganeas",
+    "alias": "Ganeas"
+  },
+  {
+    "code": "32.11.070",
+    "districtCode": "070",
+    "regencyCode": "32.11",
+    "provinceCode": "32",
+    "name": "Kecamatan Situraja",
+    "alias": "Situraja"
+  },
+  {
+    "code": "32.11.071",
+    "districtCode": "071",
+    "regencyCode": "32.11",
+    "provinceCode": "32",
+    "name": "Kecamatan Cisitu",
+    "alias": "Cisitu"
+  },
+  {
+    "code": "32.11.080",
+    "districtCode": "080",
+    "regencyCode": "32.11",
+    "provinceCode": "32",
+    "name": "Kecamatan Darmaraja",
+    "alias": "Darmaraja"
+  },
+  {
+    "code": "32.11.090",
+    "districtCode": "090",
+    "regencyCode": "32.11",
+    "provinceCode": "32",
+    "name": "Kecamatan Cibugel",
+    "alias": "Cibugel"
+  },
+  {
+    "code": "32.11.100",
+    "districtCode": "100",
+    "regencyCode": "32.11",
+    "provinceCode": "32",
+    "name": "Kecamatan Wado",
+    "alias": "Wado"
+  },
+  {
+    "code": "32.11.101",
+    "districtCode": "101",
+    "regencyCode": "32.11",
+    "provinceCode": "32",
+    "name": "Kecamatan Jatinunggal",
+    "alias": "Jatinunggal"
+  },
+  {
+    "code": "32.11.111",
+    "districtCode": "111",
+    "regencyCode": "32.11",
+    "provinceCode": "32",
+    "name": "Kecamatan Jatigede",
+    "alias": "Jatigede"
+  },
+  {
+    "code": "32.11.120",
+    "districtCode": "120",
+    "regencyCode": "32.11",
+    "provinceCode": "32",
+    "name": "Kecamatan Tomo",
+    "alias": "Tomo"
+  },
+  {
+    "code": "32.11.130",
+    "districtCode": "130",
+    "regencyCode": "32.11",
+    "provinceCode": "32",
+    "name": "Kecamatan Ujung Jaya",
+    "alias": "Ujung Jaya"
+  },
+  {
+    "code": "32.11.140",
+    "districtCode": "140",
+    "regencyCode": "32.11",
+    "provinceCode": "32",
+    "name": "Kecamatan Conggeang",
+    "alias": "Conggeang"
+  },
+  {
+    "code": "32.11.150",
+    "districtCode": "150",
+    "regencyCode": "32.11",
+    "provinceCode": "32",
+    "name": "Kecamatan Paseh",
+    "alias": "Paseh"
+  },
+  {
+    "code": "32.11.160",
+    "districtCode": "160",
+    "regencyCode": "32.11",
+    "provinceCode": "32",
+    "name": "Kecamatan Cimalaka",
+    "alias": "Cimalaka"
+  },
+  {
+    "code": "32.11.161",
+    "districtCode": "161",
+    "regencyCode": "32.11",
+    "provinceCode": "32",
+    "name": "Kecamatan Cisarua",
+    "alias": "Cisarua"
+  },
+  {
+    "code": "32.11.170",
+    "districtCode": "170",
+    "regencyCode": "32.11",
+    "provinceCode": "32",
+    "name": "Kecamatan Tanjungkerta",
+    "alias": "Tanjungkerta"
+  },
+  {
+    "code": "32.11.171",
+    "districtCode": "171",
+    "regencyCode": "32.11",
+    "provinceCode": "32",
+    "name": "Kecamatan Tanjungmedar",
+    "alias": "Tanjungmedar"
+  },
+  {
+    "code": "32.11.180",
+    "districtCode": "180",
+    "regencyCode": "32.11",
+    "provinceCode": "32",
+    "name": "Kecamatan Buahdua",
+    "alias": "Buahdua"
+  },
+  {
+    "code": "32.11.181",
+    "districtCode": "181",
+    "regencyCode": "32.11",
+    "provinceCode": "32",
+    "name": "Kecamatan Surian",
+    "alias": "Surian"
+  }
+]

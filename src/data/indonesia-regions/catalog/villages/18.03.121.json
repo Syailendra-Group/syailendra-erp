@@ -1,0 +1,72 @@
+[
+  {
+    "code": "18.03.121.001",
+    "villageCode": "001",
+    "districtCode": "18.03.121",
+    "name": "Bakti Rasa",
+    "alias": "Bakti Rasa"
+  },
+  {
+    "code": "18.03.121.002",
+    "villageCode": "002",
+    "districtCode": "18.03.121",
+    "name": "Sukapura",
+    "alias": "Sukapura"
+  },
+  {
+    "code": "18.03.121.003",
+    "villageCode": "003",
+    "districtCode": "18.03.121",
+    "name": "Mandalasari",
+    "alias": "Mandalasari"
+  },
+  {
+    "code": "18.03.121.004",
+    "villageCode": "004",
+    "districtCode": "18.03.121",
+    "name": "Sumber Sari",
+    "alias": "Sumber Sari"
+  },
+  {
+    "code": "18.03.121.005",
+    "villageCode": "005",
+    "districtCode": "18.03.121",
+    "name": "Margajasa",
+    "alias": "Margajasa"
+  },
+  {
+    "code": "18.03.121.006",
+    "villageCode": "006",
+    "districtCode": "18.03.121",
+    "name": "Kedaung",
+    "alias": "Kedaung"
+  },
+  {
+    "code": "18.03.121.007",
+    "villageCode": "007",
+    "districtCode": "18.03.121",
+    "name": "Sumber Agung",
+    "alias": "Sumber Agung"
+  },
+  {
+    "code": "18.03.121.008",
+    "villageCode": "008",
+    "districtCode": "18.03.121",
+    "name": "Kuala Sekampung",
+    "alias": "Kuala Sekampung"
+  },
+  {
+    "code": "18.03.121.009",
+    "villageCode": "009",
+    "districtCode": "18.03.121",
+    "name": "Bandar Agung",
+    "alias": "Bandar Agung"
+  },
+  {
+    "code": "18.03.121.010",
+    "villageCode": "010",
+    "districtCode": "18.03.121",
+    "name": "Margasari",
+    "alias": "Margasari"
+  }
+]

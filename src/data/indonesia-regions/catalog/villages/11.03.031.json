@@ -1,0 +1,65 @@
+[
+  {
+    "code": "11.03.031.001",
+    "villageCode": "001",
+    "districtCode": "11.03.031",
+    "name": "Sapik",
+    "alias": "Sapik"
+  },
+  {
+    "code": "11.03.031.002",
+    "villageCode": "002",
+    "districtCode": "11.03.031",
+    "name": "Durian Kawan",
+    "alias": "Durian Kawan"
+  },
+  {
+    "code": "11.03.031.003",
+    "villageCode": "003",
+    "districtCode": "11.03.031",
+    "name": "Alai",
+    "alias": "Alai"
+  },
+  {
+    "code": "11.03.031.004",
+    "villageCode": "004",
+    "districtCode": "11.03.031",
+    "name": "Paya Dapur",
+    "alias": "Paya Dapur"
+  },
+  {
+    "code": "11.03.031.005",
+    "villageCode": "005",
+    "districtCode": "11.03.031",
+    "name": "Pucuk Lembang",
+    "alias": "Pucuk Lembang"
+  },
+  {
+    "code": "11.03.031.006",
+    "villageCode": "006",
+    "districtCode": "11.03.031",
+    "name": "Lawe Buluh Didi",
+    "alias": "Lawe Buluh Didi"
+  },
+  {
+    "code": "11.03.031.007",
+    "villageCode": "007",
+    "districtCode": "11.03.031",
+    "name": "Lawe Sawah",
+    "alias": "Lawe Sawah"
+  },
+  {
+    "code": "11.03.031.008",
+    "villageCode": "008",
+    "districtCode": "11.03.031",
+    "name": "Paya Laba",
+    "alias": "Paya Laba"
+  },
+  {
+    "code": "11.03.031.009",
+    "villageCode": "009",
+    "districtCode": "11.03.031",
+    "name": "Lawe Cimanok",
+    "alias": "Lawe Cimanok"
+  }
+]

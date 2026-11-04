@@ -1,0 +1,37 @@
+[
+  {
+    "code": "33.01.720.001",
+    "villageCode": "001",
+    "districtCode": "33.01.720",
+    "name": "Kutawaru",
+    "alias": "Kutawaru"
+  },
+  {
+    "code": "33.01.720.002",
+    "villageCode": "002",
+    "districtCode": "33.01.720",
+    "name": "Lomanis",
+    "alias": "Lomanis"
+  },
+  {
+    "code": "33.01.720.003",
+    "villageCode": "003",
+    "districtCode": "33.01.720",
+    "name": "Donan",
+    "alias": "Donan"
+  },
+  {
+    "code": "33.01.720.004",
+    "villageCode": "004",
+    "districtCode": "33.01.720",
+    "name": "Sidanegara",
+    "alias": "Sidanegara"
+  },
+  {
+    "code": "33.01.720.005",
+    "villageCode": "005",
+    "districtCode": "33.01.720",
+    "name": "Gunungsimping",
+    "alias": "Gunungsimping"
+  }
+]

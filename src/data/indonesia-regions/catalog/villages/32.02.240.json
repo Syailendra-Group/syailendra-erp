@@ -1,0 +1,58 @@
+[
+  {
+    "code": "32.02.240.001",
+    "villageCode": "001",
+    "districtCode": "32.02.240",
+    "name": "Pondok Kaso Tengah",
+    "alias": "Pondok Kaso Tengah"
+  },
+  {
+    "code": "32.02.240.002",
+    "villageCode": "002",
+    "districtCode": "32.02.240",
+    "name": "Pasirdoton",
+    "alias": "Pasirdoton"
+  },
+  {
+    "code": "32.02.240.003",
+    "villageCode": "003",
+    "districtCode": "32.02.240",
+    "name": "Pondok Kaso Tonggoh",
+    "alias": "Pondok Kaso Tonggoh"
+  },
+  {
+    "code": "32.02.240.004",
+    "villageCode": "004",
+    "districtCode": "32.02.240",
+    "name": "Babakan Pari",
+    "alias": "Babakan Pari"
+  },
+  {
+    "code": "32.02.240.005",
+    "villageCode": "005",
+    "districtCode": "32.02.240",
+    "name": "Tangkil",
+    "alias": "Tangkil"
+  },
+  {
+    "code": "32.02.240.006",
+    "villageCode": "006",
+    "districtCode": "32.02.240",
+    "name": "Jayabakti",
+    "alias": "Jayabakti"
+  },
+  {
+    "code": "32.02.240.007",
+    "villageCode": "007",
+    "districtCode": "32.02.240",
+    "name": "Cidahu",
+    "alias": "Cidahu"
+  },
+  {
+    "code": "32.02.240.008",
+    "villageCode": "008",
+    "districtCode": "32.02.240",
+    "name": "Girijaya",
+    "alias": "Girijaya"
+  }
+]

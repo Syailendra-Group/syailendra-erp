@@ -1,0 +1,79 @@
+[
+  {
+    "code": "12.18.010.001",
+    "villageCode": "001",
+    "districtCode": "12.18.010",
+    "name": "Huta Galuh",
+    "alias": "Huta Galuh"
+  },
+  {
+    "code": "12.18.010.002",
+    "villageCode": "002",
+    "districtCode": "12.18.010",
+    "name": "Rubun Dunia",
+    "alias": "Rubun Dunia"
+  },
+  {
+    "code": "12.18.010.003",
+    "villageCode": "003",
+    "districtCode": "12.18.010",
+    "name": "Sialtong",
+    "alias": "Sialtong"
+  },
+  {
+    "code": "12.18.010.004",
+    "villageCode": "004",
+    "districtCode": "12.18.010",
+    "name": "Bandar Bayu",
+    "alias": "Bandar Bayu"
+  },
+  {
+    "code": "12.18.010.005",
+    "villageCode": "005",
+    "districtCode": "12.18.010",
+    "name": "Kotarih Baru",
+    "alias": "Kotarih Baru"
+  },
+  {
+    "code": "12.18.010.006",
+    "villageCode": "006",
+    "districtCode": "12.18.010",
+    "name": "Durian Kondot",
+    "alias": "Durian Kondot"
+  },
+  {
+    "code": "12.18.010.007",
+    "villageCode": "007",
+    "districtCode": "12.18.010",
+    "name": "Kotarih Pekan",
+    "alias": "Kotarih Pekan"
+  },
+  {
+    "code": "12.18.010.008",
+    "villageCode": "008",
+    "districtCode": "12.18.010",
+    "name": "Perbahingan",
+    "alias": "Perbahingan"
+  },
+  {
+    "code": "12.18.010.009",
+    "villageCode": "009",
+    "districtCode": "12.18.010",
+    "name": "Sei Karih",
+    "alias": "Sei Karih"
+  },
+  {
+    "code": "12.18.010.010",
+    "villageCode": "010",
+    "districtCode": "12.18.010",
+    "name": "Banjaran Godang",
+    "alias": "Banjaran Godang"
+  },
+  {
+    "code": "12.18.010.011",
+    "villageCode": "011",
+    "districtCode": "12.18.010",
+    "name": "Sei Ujan-Ujan",
+    "alias": "Sei Ujan-Ujan"
+  }
+]

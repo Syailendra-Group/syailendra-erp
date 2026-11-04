@@ -1,0 +1,37 @@
+[
+  {
+    "code": "75.04.013.001",
+    "villageCode": "001",
+    "districtCode": "75.04.013",
+    "name": "Bulotalangi",
+    "alias": "Bulotalangi"
+  },
+  {
+    "code": "75.04.013.002",
+    "villageCode": "002",
+    "districtCode": "75.04.013",
+    "name": "Bulotalangi Barat",
+    "alias": "Bulotalangi Barat"
+  },
+  {
+    "code": "75.04.013.003",
+    "villageCode": "003",
+    "districtCode": "75.04.013",
+    "name": "Bulotalangi Timur",
+    "alias": "Bulotalangi Timur"
+  },
+  {
+    "code": "75.04.013.004",
+    "villageCode": "004",
+    "districtCode": "75.04.013",
+    "name": "Toluwaya",
+    "alias": "Toluwaya"
+  },
+  {
+    "code": "75.04.013.005",
+    "villageCode": "005",
+    "districtCode": "75.04.013",
+    "name": "Popodu",
+    "alias": "Popodu"
+  }
+]

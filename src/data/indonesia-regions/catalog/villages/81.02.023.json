@@ -1,0 +1,177 @@
+[
+  {
+    "code": "81.02.023.001",
+    "villageCode": "001",
+    "districtCode": "81.02.023",
+    "name": "Weer Ohoinam",
+    "alias": "Weer Ohoinam"
+  },
+  {
+    "code": "81.02.023.002",
+    "villageCode": "002",
+    "districtCode": "81.02.023",
+    "name": "Weer Ohoiker",
+    "alias": "Weer Ohoiker"
+  },
+  {
+    "code": "81.02.023.003",
+    "villageCode": "003",
+    "districtCode": "81.02.023",
+    "name": "Weer Frawav",
+    "alias": "Weer Frawav"
+  },
+  {
+    "code": "81.02.023.004",
+    "villageCode": "004",
+    "districtCode": "81.02.023",
+    "name": "Faa",
+    "alias": "Faa"
+  },
+  {
+    "code": "81.02.023.005",
+    "villageCode": "005",
+    "districtCode": "81.02.023",
+    "name": "Dangarat",
+    "alias": "Dangarat"
+  },
+  {
+    "code": "81.02.023.006",
+    "villageCode": "006",
+    "districtCode": "81.02.023",
+    "name": "Ohoituf",
+    "alias": "Ohoituf"
+  },
+  {
+    "code": "81.02.023.007",
+    "villageCode": "007",
+    "districtCode": "81.02.023",
+    "name": "Hangur",
+    "alias": "Hangur"
+  },
+  {
+    "code": "81.02.023.008",
+    "villageCode": "008",
+    "districtCode": "81.02.023",
+    "name": "Ngurwalek",
+    "alias": "Ngurwalek"
+  },
+  {
+    "code": "81.02.023.009",
+    "villageCode": "009",
+    "districtCode": "81.02.023",
+    "name": "Uwat",
+    "alias": "Uwat"
+  },
+  {
+    "code": "81.02.023.010",
+    "villageCode": "010",
+    "districtCode": "81.02.023",
+    "name": "Uwat Wear",
+    "alias": "Uwat Wear"
+  },
+  {
+    "code": "81.02.023.011",
+    "villageCode": "011",
+    "districtCode": "81.02.023",
+    "name": "Uwat Reyaan",
+    "alias": "Uwat Reyaan"
+  },
+  {
+    "code": "81.02.023.012",
+    "villageCode": "012",
+    "districtCode": "81.02.023",
+    "name": "Mun Ohoitadium",
+    "alias": "Mun Ohoitadium"
+  },
+  {
+    "code": "81.02.023.013",
+    "villageCode": "013",
+    "districtCode": "81.02.023",
+    "name": "Mun Werfan",
+    "alias": "Mun Werfan"
+  },
+  {
+    "code": "81.02.023.014",
+    "villageCode": "014",
+    "districtCode": "81.02.023",
+    "name": "Mun Ohoiir",
+    "alias": "Mun Ohoiir"
+  },
+  {
+    "code": "81.02.023.015",
+    "villageCode": "015",
+    "districtCode": "81.02.023",
+    "name": "Mun Esoy",
+    "alias": "Mun Esoy"
+  },
+  {
+    "code": "81.02.023.016",
+    "villageCode": "016",
+    "districtCode": "81.02.023",
+    "name": "Mun Kahar",
+    "alias": "Mun Kahar"
+  },
+  {
+    "code": "81.02.023.017",
+    "villageCode": "017",
+    "districtCode": "81.02.023",
+    "name": "Mun Ngurditwain",
+    "alias": "Mun Ngurditwain"
+  },
+  {
+    "code": "81.02.023.018",
+    "villageCode": "018",
+    "districtCode": "81.02.023",
+    "name": "Ad Wearaur",
+    "alias": "Ad Wearaur"
+  },
+  {
+    "code": "81.02.023.019",
+    "villageCode": "019",
+    "districtCode": "81.02.023",
+    "name": "Ad Ngurwul",
+    "alias": "Ad Ngurwul"
+  },
+  {
+    "code": "81.02.023.020",
+    "villageCode": "020",
+    "districtCode": "81.02.023",
+    "name": "Ad Ohoiwaf",
+    "alias": "Ad Ohoiwaf"
+  },
+  {
+    "code": "81.02.023.021",
+    "villageCode": "021",
+    "districtCode": "81.02.023",
+    "name": "Lar",
+    "alias": "Lar"
+  },
+  {
+    "code": "81.02.023.022",
+    "villageCode": "022",
+    "districtCode": "81.02.023",
+    "name": "Hoor Islam",
+    "alias": "Hoor Islam"
+  },
+  {
+    "code": "81.02.023.023",
+    "villageCode": "023",
+    "districtCode": "81.02.023",
+    "name": "Hoor Kristen",
+    "alias": "Hoor Kristen"
+  },
+  {
+    "code": "81.02.023.024",
+    "villageCode": "024",
+    "districtCode": "81.02.023",
+    "name": "Waer",
+    "alias": "Waer"
+  },
+  {
+    "code": "81.02.023.025",
+    "villageCode": "025",
+    "districtCode": "81.02.023",
+    "name": "Waerat",
+    "alias": "Waerat"
+  }
+]

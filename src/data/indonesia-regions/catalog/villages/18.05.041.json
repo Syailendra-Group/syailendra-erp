@@ -1,0 +1,58 @@
+[
+  {
+    "code": "18.05.041.001",
+    "villageCode": "001",
+    "districtCode": "18.05.041",
+    "name": "Kedatuan",
+    "alias": "Kedatuan"
+  },
+  {
+    "code": "18.05.041.002",
+    "villageCode": "002",
+    "districtCode": "18.05.041",
+    "name": "Binjai Agung",
+    "alias": "Binjai Agung"
+  },
+  {
+    "code": "18.05.041.003",
+    "villageCode": "003",
+    "districtCode": "18.05.041",
+    "name": "Rengas",
+    "alias": "Rengas"
+  },
+  {
+    "code": "18.05.041.004",
+    "villageCode": "004",
+    "districtCode": "18.05.041",
+    "name": "Kesumadadi",
+    "alias": "Kesumadadi"
+  },
+  {
+    "code": "18.05.041.005",
+    "villageCode": "005",
+    "districtCode": "18.05.041",
+    "name": "Goras Jaya",
+    "alias": "Goras Jaya"
+  },
+  {
+    "code": "18.05.041.006",
+    "villageCode": "006",
+    "districtCode": "18.05.041",
+    "name": "Sinar Banten/Bekri",
+    "alias": "Sinar Banten/Bekri"
+  },
+  {
+    "code": "18.05.041.007",
+    "villageCode": "007",
+    "districtCode": "18.05.041",
+    "name": "Kesuma Jaya",
+    "alias": "Kesuma Jaya"
+  },
+  {
+    "code": "18.05.041.008",
+    "villageCode": "008",
+    "districtCode": "18.05.041",
+    "name": "Bangunsari",
+    "alias": "Bangunsari"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "code": "72.09.082.001",
+    "villageCode": "001",
+    "districtCode": "72.09.082",
+    "name": "Kabalutan",
+    "alias": "Kabalutan"
+  },
+  {
+    "code": "72.09.082.002",
+    "villageCode": "002",
+    "districtCode": "72.09.082",
+    "name": "Pautu",
+    "alias": "Pautu"
+  },
+  {
+    "code": "72.09.082.003",
+    "villageCode": "003",
+    "districtCode": "72.09.082",
+    "name": "Kalia",
+    "alias": "Kalia"
+  },
+  {
+    "code": "72.09.082.004",
+    "villageCode": "004",
+    "districtCode": "72.09.082",
+    "name": "Tumotok",
+    "alias": "Tumotok"
+  },
+  {
+    "code": "72.09.082.005",
+    "villageCode": "005",
+    "districtCode": "72.09.082",
+    "name": "Malenge",
+    "alias": "Malenge"
+  },
+  {
+    "code": "72.09.082.014",
+    "villageCode": "014",
+    "districtCode": "72.09.082",
+    "name": "Kadoda",
+    "alias": "Kadoda"
+  }
+]

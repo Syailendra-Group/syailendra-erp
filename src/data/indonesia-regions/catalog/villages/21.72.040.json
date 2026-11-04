@@ -1,0 +1,30 @@
+[
+  {
+    "code": "21.72.040.001",
+    "villageCode": "001",
+    "districtCode": "21.72.040",
+    "name": "Tanjungpinang Barat",
+    "alias": "Tanjungpinang Barat"
+  },
+  {
+    "code": "21.72.040.002",
+    "villageCode": "002",
+    "districtCode": "21.72.040",
+    "name": "Kemboja",
+    "alias": "Kemboja"
+  },
+  {
+    "code": "21.72.040.003",
+    "villageCode": "003",
+    "districtCode": "21.72.040",
+    "name": "Kampung Baru",
+    "alias": "Kampung Baru"
+  },
+  {
+    "code": "21.72.040.004",
+    "villageCode": "004",
+    "districtCode": "21.72.040",
+    "name": "Bukit Cermin",
+    "alias": "Bukit Cermin"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "code": "18.06.061.001",
+    "villageCode": "001",
+    "districtCode": "18.06.061",
+    "name": "Bandar Abung",
+    "alias": "Bandar Abung"
+  },
+  {
+    "code": "18.06.061.002",
+    "villageCode": "002",
+    "districtCode": "18.06.061",
+    "name": "Bangun Sari",
+    "alias": "Bangun Sari"
+  },
+  {
+    "code": "18.06.061.003",
+    "villageCode": "003",
+    "districtCode": "18.06.061",
+    "name": "Tata Karya",
+    "alias": "Tata Karya"
+  },
+  {
+    "code": "18.06.061.004",
+    "villageCode": "004",
+    "districtCode": "18.06.061",
+    "name": "Sukoharjo",
+    "alias": "Sukoharjo"
+  },
+  {
+    "code": "18.06.061.005",
+    "villageCode": "005",
+    "districtCode": "18.06.061",
+    "name": "Bumi Restu",
+    "alias": "Bumi Restu"
+  },
+  {
+    "code": "18.06.061.006",
+    "villageCode": "006",
+    "districtCode": "18.06.061",
+    "name": "Bumi Raharja",
+    "alias": "Bumi Raharja"
+  },
+  {
+    "code": "18.06.061.007",
+    "villageCode": "007",
+    "districtCode": "18.06.061",
+    "name": "Purba Sakti",
+    "alias": "Purba Sakti"
+  },
+  {
+    "code": "18.06.061.008",
+    "villageCode": "008",
+    "districtCode": "18.06.061",
+    "name": "Bandar Sakti",
+    "alias": "Bandar Sakti"
+  },
+  {
+    "code": "18.06.061.009",
+    "villageCode": "009",
+    "districtCode": "18.06.061",
+    "name": "Karya Sakti",
+    "alias": "Karya Sakti"
+  }
+]

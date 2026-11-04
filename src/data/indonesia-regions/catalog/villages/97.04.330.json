@@ -1,0 +1,86 @@
+[
+  {
+    "code": "97.04.330.001",
+    "villageCode": "001",
+    "districtCode": "97.04.330",
+    "name": "Timori",
+    "alias": "Timori"
+  },
+  {
+    "code": "97.04.330.002",
+    "villageCode": "002",
+    "districtCode": "97.04.330",
+    "name": "Weyambi",
+    "alias": "Weyambi"
+  },
+  {
+    "code": "97.04.330.003",
+    "villageCode": "003",
+    "districtCode": "97.04.330",
+    "name": "Geya",
+    "alias": "Geya"
+  },
+  {
+    "code": "97.04.330.004",
+    "villageCode": "004",
+    "districtCode": "97.04.330",
+    "name": "Alobaga",
+    "alias": "Alobaga"
+  },
+  {
+    "code": "97.04.330.005",
+    "villageCode": "005",
+    "districtCode": "97.04.330",
+    "name": "Nawu",
+    "alias": "Nawu"
+  },
+  {
+    "code": "97.04.330.006",
+    "villageCode": "006",
+    "districtCode": "97.04.330",
+    "name": "Tinagoga",
+    "alias": "Tinagoga"
+  },
+  {
+    "code": "97.04.330.007",
+    "villageCode": "007",
+    "districtCode": "97.04.330",
+    "name": "Witipur",
+    "alias": "Witipur"
+  },
+  {
+    "code": "97.04.330.008",
+    "villageCode": "008",
+    "districtCode": "97.04.330",
+    "name": "Jelepele",
+    "alias": "Jelepele"
+  },
+  {
+    "code": "97.04.330.009",
+    "villageCode": "009",
+    "districtCode": "97.04.330",
+    "name": "Winalo",
+    "alias": "Winalo"
+  },
+  {
+    "code": "97.04.330.010",
+    "villageCode": "010",
+    "districtCode": "97.04.330",
+    "name": "Dimbara",
+    "alias": "Dimbara"
+  },
+  {
+    "code": "97.04.330.011",
+    "villageCode": "011",
+    "districtCode": "97.04.330",
+    "name": "Kibu",
+    "alias": "Kibu"
+  },
+  {
+    "code": "97.04.330.012",
+    "villageCode": "012",
+    "districtCode": "97.04.330",
+    "name": "Wunggilipur",
+    "alias": "Wunggilipur"
+  }
+]

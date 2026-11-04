@@ -1,0 +1,79 @@
+[
+  {
+    "code": "14.10.031.001",
+    "villageCode": "001",
+    "districtCode": "14.10.031",
+    "name": "Beting",
+    "alias": "Beting"
+  },
+  {
+    "code": "14.10.031.002",
+    "villageCode": "002",
+    "districtCode": "14.10.031",
+    "name": "Sokop",
+    "alias": "Sokop"
+  },
+  {
+    "code": "14.10.031.003",
+    "villageCode": "003",
+    "districtCode": "14.10.031",
+    "name": "Bungur",
+    "alias": "Bungur"
+  },
+  {
+    "code": "14.10.031.004",
+    "villageCode": "004",
+    "districtCode": "14.10.031",
+    "name": "Tanjung Kedabu",
+    "alias": "Tanjung Kedabu"
+  },
+  {
+    "code": "14.10.031.005",
+    "villageCode": "005",
+    "districtCode": "14.10.031",
+    "name": "Telesung",
+    "alias": "Telesung"
+  },
+  {
+    "code": "14.10.031.006",
+    "villageCode": "006",
+    "districtCode": "14.10.031",
+    "name": "Tenggayun Raya",
+    "alias": "Tenggayun Raya"
+  },
+  {
+    "code": "14.10.031.007",
+    "villageCode": "007",
+    "districtCode": "14.10.031",
+    "name": "Sonde",
+    "alias": "Sonde"
+  },
+  {
+    "code": "14.10.031.008",
+    "villageCode": "008",
+    "districtCode": "14.10.031",
+    "name": "Kayu Ara",
+    "alias": "Kayu Ara"
+  },
+  {
+    "code": "14.10.031.009",
+    "villageCode": "009",
+    "districtCode": "14.10.031",
+    "name": "Tanah Merah",
+    "alias": "Tanah Merah"
+  },
+  {
+    "code": "14.10.031.010",
+    "villageCode": "010",
+    "districtCode": "14.10.031",
+    "name": "Kedabu Rapat",
+    "alias": "Kedabu Rapat"
+  },
+  {
+    "code": "14.10.031.011",
+    "villageCode": "011",
+    "districtCode": "14.10.031",
+    "name": "Sendaur",
+    "alias": "Sendaur"
+  }
+]

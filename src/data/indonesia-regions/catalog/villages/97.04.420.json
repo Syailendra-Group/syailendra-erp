@@ -1,0 +1,72 @@
+[
+  {
+    "code": "97.04.420.001",
+    "villageCode": "001",
+    "districtCode": "97.04.420",
+    "name": "Milipaa",
+    "alias": "Milipaa"
+  },
+  {
+    "code": "97.04.420.002",
+    "villageCode": "002",
+    "districtCode": "97.04.420",
+    "name": "Wania",
+    "alias": "Wania"
+  },
+  {
+    "code": "97.04.420.003",
+    "villageCode": "003",
+    "districtCode": "97.04.420",
+    "name": "Niagale",
+    "alias": "Niagale"
+  },
+  {
+    "code": "97.04.420.004",
+    "villageCode": "004",
+    "districtCode": "97.04.420",
+    "name": "Tarawi",
+    "alias": "Tarawi"
+  },
+  {
+    "code": "97.04.420.005",
+    "villageCode": "005",
+    "districtCode": "97.04.420",
+    "name": "Bumbu",
+    "alias": "Bumbu"
+  },
+  {
+    "code": "97.04.420.006",
+    "villageCode": "006",
+    "districtCode": "97.04.420",
+    "name": "Ambena",
+    "alias": "Ambena"
+  },
+  {
+    "code": "97.04.420.007",
+    "villageCode": "007",
+    "districtCode": "97.04.420",
+    "name": "Gunombo",
+    "alias": "Gunombo"
+  },
+  {
+    "code": "97.04.420.008",
+    "villageCode": "008",
+    "districtCode": "97.04.420",
+    "name": "Mawi",
+    "alias": "Mawi"
+  },
+  {
+    "code": "97.04.420.009",
+    "villageCode": "009",
+    "districtCode": "97.04.420",
+    "name": "Ripa",
+    "alias": "Ripa"
+  },
+  {
+    "code": "97.04.420.010",
+    "villageCode": "010",
+    "districtCode": "97.04.420",
+    "name": "Delegari",
+    "alias": "Delegari"
+  }
+]

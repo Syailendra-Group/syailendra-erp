@@ -1,0 +1,128 @@
+[
+  {
+    "code": "35.01.110.001",
+    "villageCode": "001",
+    "districtCode": "35.01.110",
+    "name": "Sidomulyo",
+    "alias": "Sidomulyo"
+  },
+  {
+    "code": "35.01.110.002",
+    "villageCode": "002",
+    "districtCode": "35.01.110",
+    "name": "Hadiwarno",
+    "alias": "Hadiwarno"
+  },
+  {
+    "code": "35.01.110.003",
+    "villageCode": "003",
+    "districtCode": "35.01.110",
+    "name": "Tanjungpuro",
+    "alias": "Tanjungpuro"
+  },
+  {
+    "code": "35.01.110.004",
+    "villageCode": "004",
+    "districtCode": "35.01.110",
+    "name": "Hadiluwih",
+    "alias": "Hadiluwih"
+  },
+  {
+    "code": "35.01.110.005",
+    "villageCode": "005",
+    "districtCode": "35.01.110",
+    "name": "Pagerejo",
+    "alias": "Pagerejo"
+  },
+  {
+    "code": "35.01.110.006",
+    "villageCode": "006",
+    "districtCode": "35.01.110",
+    "name": "Wiyoro",
+    "alias": "Wiyoro"
+  },
+  {
+    "code": "35.01.110.007",
+    "villageCode": "007",
+    "districtCode": "35.01.110",
+    "name": "Ngadirojo",
+    "alias": "Ngadirojo"
+  },
+  {
+    "code": "35.01.110.008",
+    "villageCode": "008",
+    "districtCode": "35.01.110",
+    "name": "Bogoharjo",
+    "alias": "Bogoharjo"
+  },
+  {
+    "code": "35.01.110.009",
+    "villageCode": "009",
+    "districtCode": "35.01.110",
+    "name": "Cokrokembang",
+    "alias": "Cokrokembang"
+  },
+  {
+    "code": "35.01.110.010",
+    "villageCode": "010",
+    "districtCode": "35.01.110",
+    "name": "Bodag",
+    "alias": "Bodag"
+  },
+  {
+    "code": "35.01.110.011",
+    "villageCode": "011",
+    "districtCode": "35.01.110",
+    "name": "Tanjunglor",
+    "alias": "Tanjunglor"
+  },
+  {
+    "code": "35.01.110.012",
+    "villageCode": "012",
+    "districtCode": "35.01.110",
+    "name": "Nogosari",
+    "alias": "Nogosari"
+  },
+  {
+    "code": "35.01.110.013",
+    "villageCode": "013",
+    "districtCode": "35.01.110",
+    "name": "Cangkring",
+    "alias": "Cangkring"
+  },
+  {
+    "code": "35.01.110.014",
+    "villageCode": "014",
+    "districtCode": "35.01.110",
+    "name": "Wonodadi Kulon",
+    "alias": "Wonodadi Kulon"
+  },
+  {
+    "code": "35.01.110.015",
+    "villageCode": "015",
+    "districtCode": "35.01.110",
+    "name": "Wonodadi Wetan",
+    "alias": "Wonodadi Wetan"
+  },
+  {
+    "code": "35.01.110.016",
+    "villageCode": "016",
+    "districtCode": "35.01.110",
+    "name": "Wonokarto",
+    "alias": "Wonokarto"
+  },
+  {
+    "code": "35.01.110.017",
+    "villageCode": "017",
+    "districtCode": "35.01.110",
+    "name": "Wonosobo",
+    "alias": "Wonosobo"
+  },
+  {
+    "code": "35.01.110.018",
+    "villageCode": "018",
+    "districtCode": "35.01.110",
+    "name": "Wonoasri",
+    "alias": "Wonoasri"
+  }
+]

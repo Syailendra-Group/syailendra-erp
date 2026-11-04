@@ -1,0 +1,65 @@
+[
+  {
+    "code": "95.02.190.001",
+    "villageCode": "001",
+    "districtCode": "95.02.190",
+    "name": "Kanggewot",
+    "alias": "Kanggewot"
+  },
+  {
+    "code": "95.02.190.002",
+    "villageCode": "002",
+    "districtCode": "95.02.190",
+    "name": "Winiktit",
+    "alias": "Winiktit"
+  },
+  {
+    "code": "95.02.190.003",
+    "villageCode": "003",
+    "districtCode": "95.02.190",
+    "name": "Upyetetko",
+    "alias": "Upyetetko"
+  },
+  {
+    "code": "95.02.190.004",
+    "villageCode": "004",
+    "districtCode": "95.02.190",
+    "name": "Waropko",
+    "alias": "Waropko"
+  },
+  {
+    "code": "95.02.190.005",
+    "villageCode": "005",
+    "districtCode": "95.02.190",
+    "name": "Wombon",
+    "alias": "Wombon"
+  },
+  {
+    "code": "95.02.190.006",
+    "villageCode": "006",
+    "districtCode": "95.02.190",
+    "name": "Upkim",
+    "alias": "Upkim"
+  },
+  {
+    "code": "95.02.190.007",
+    "villageCode": "007",
+    "districtCode": "95.02.190",
+    "name": "Inggembit",
+    "alias": "Inggembit"
+  },
+  {
+    "code": "95.02.190.008",
+    "villageCode": "008",
+    "districtCode": "95.02.190",
+    "name": "Wametkapa",
+    "alias": "Wametkapa"
+  },
+  {
+    "code": "95.02.190.009",
+    "villageCode": "009",
+    "districtCode": "95.02.190",
+    "name": "Ikcan",
+    "alias": "Ikcan"
+  }
+]

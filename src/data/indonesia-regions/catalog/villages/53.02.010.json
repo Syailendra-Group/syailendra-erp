@@ -1,0 +1,86 @@
+[
+  {
+    "code": "53.02.010.009",
+    "villageCode": "009",
+    "districtCode": "53.02.010",
+    "name": "Kondamara",
+    "alias": "Kondamara"
+  },
+  {
+    "code": "53.02.010.010",
+    "villageCode": "010",
+    "districtCode": "53.02.010",
+    "name": "Lewapaku",
+    "alias": "Lewapaku"
+  },
+  {
+    "code": "53.02.010.011",
+    "villageCode": "011",
+    "districtCode": "53.02.010",
+    "name": "Tanarara",
+    "alias": "Tanarara"
+  },
+  {
+    "code": "53.02.010.014",
+    "villageCode": "014",
+    "districtCode": "53.02.010",
+    "name": "Kambata Wundut",
+    "alias": "Kambata Wundut"
+  },
+  {
+    "code": "53.02.010.015",
+    "villageCode": "015",
+    "districtCode": "53.02.010",
+    "name": "Rakawatu",
+    "alias": "Rakawatu"
+  },
+  {
+    "code": "53.02.010.017",
+    "villageCode": "017",
+    "districtCode": "53.02.010",
+    "name": "Kambu Hapang",
+    "alias": "Kambu Hapang"
+  },
+  {
+    "code": "53.02.010.018",
+    "villageCode": "018",
+    "districtCode": "53.02.010",
+    "name": "Matawai Pawali",
+    "alias": "Matawai Pawali"
+  },
+  {
+    "code": "53.02.010.019",
+    "villageCode": "019",
+    "districtCode": "53.02.010",
+    "name": "Bidi Hunga",
+    "alias": "Bidi Hunga"
+  },
+  {
+    "code": "53.02.010.020",
+    "villageCode": "020",
+    "districtCode": "53.02.010",
+    "name": "Desa Persiapan Pada Njara Hamu",
+    "alias": "Desa Persiapan Pada Njara Hamu"
+  },
+  {
+    "code": "53.02.010.021",
+    "villageCode": "021",
+    "districtCode": "53.02.010",
+    "name": "Desa Persiapan Pindu Wangga Wundut",
+    "alias": "Desa Persiapan Pindu Wangga Wundut"
+  },
+  {
+    "code": "53.02.010.022",
+    "villageCode": "022",
+    "districtCode": "53.02.010",
+    "name": "Desa Persiapan Tana Nuwa",
+    "alias": "Desa Persiapan Tana Nuwa"
+  },
+  {
+    "code": "53.02.010.023",
+    "villageCode": "023",
+    "districtCode": "53.02.010",
+    "name": "Desa Persiapan Uta Pambapang",
+    "alias": "Desa Persiapan Uta Pambapang"
+  }
+]

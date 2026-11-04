@@ -1,0 +1,205 @@
+[
+  {
+    "code": "91.12.070.001",
+    "villageCode": "001",
+    "districtCode": "91.12.070",
+    "name": "Manggot",
+    "alias": "Manggot"
+  },
+  {
+    "code": "91.12.070.002",
+    "villageCode": "002",
+    "districtCode": "91.12.070",
+    "name": "Penibut",
+    "alias": "Penibut"
+  },
+  {
+    "code": "91.12.070.003",
+    "villageCode": "003",
+    "districtCode": "91.12.070",
+    "name": "Monut",
+    "alias": "Monut"
+  },
+  {
+    "code": "91.12.070.004",
+    "villageCode": "004",
+    "districtCode": "91.12.070",
+    "name": "Sopnyai",
+    "alias": "Sopnyai"
+  },
+  {
+    "code": "91.12.070.005",
+    "villageCode": "005",
+    "districtCode": "91.12.070",
+    "name": "Nungkimor",
+    "alias": "Nungkimor"
+  },
+  {
+    "code": "91.12.070.006",
+    "villageCode": "006",
+    "districtCode": "91.12.070",
+    "name": "Ngimoubri",
+    "alias": "Ngimoubri"
+  },
+  {
+    "code": "91.12.070.007",
+    "villageCode": "007",
+    "districtCode": "91.12.070",
+    "name": "Kisap",
+    "alias": "Kisap"
+  },
+  {
+    "code": "91.12.070.008",
+    "villageCode": "008",
+    "districtCode": "91.12.070",
+    "name": "Liehak",
+    "alias": "Liehak"
+  },
+  {
+    "code": "91.12.070.009",
+    "villageCode": "009",
+    "districtCode": "91.12.070",
+    "name": "Mbegau",
+    "alias": "Mbegau"
+  },
+  {
+    "code": "91.12.070.010",
+    "villageCode": "010",
+    "districtCode": "91.12.070",
+    "name": "Minyeimemud",
+    "alias": "Minyeimemud"
+  },
+  {
+    "code": "91.12.070.011",
+    "villageCode": "011",
+    "districtCode": "91.12.070",
+    "name": "Demunti",
+    "alias": "Demunti"
+  },
+  {
+    "code": "91.12.070.012",
+    "villageCode": "012",
+    "districtCode": "91.12.070",
+    "name": "Cangoisi",
+    "alias": "Cangoisi"
+  },
+  {
+    "code": "91.12.070.013",
+    "villageCode": "013",
+    "districtCode": "91.12.070",
+    "name": "Umcep",
+    "alias": "Umcep"
+  },
+  {
+    "code": "91.12.070.014",
+    "villageCode": "014",
+    "districtCode": "91.12.070",
+    "name": "Tumbeibehei",
+    "alias": "Tumbeibehei"
+  },
+  {
+    "code": "91.12.070.015",
+    "villageCode": "015",
+    "districtCode": "91.12.070",
+    "name": "Tingwoikiou",
+    "alias": "Tingwoikiou"
+  },
+  {
+    "code": "91.12.070.016",
+    "villageCode": "016",
+    "districtCode": "91.12.070",
+    "name": "Mbrande",
+    "alias": "Mbrande"
+  },
+  {
+    "code": "91.12.070.017",
+    "villageCode": "017",
+    "districtCode": "91.12.070",
+    "name": "Guwei Uti",
+    "alias": "Guwei Uti"
+  },
+  {
+    "code": "91.12.070.018",
+    "villageCode": "018",
+    "districtCode": "91.12.070",
+    "name": "Humeisi",
+    "alias": "Humeisi"
+  },
+  {
+    "code": "91.12.070.019",
+    "villageCode": "019",
+    "districtCode": "91.12.070",
+    "name": "Kwaiyehep",
+    "alias": "Kwaiyehep"
+  },
+  {
+    "code": "91.12.070.020",
+    "villageCode": "020",
+    "districtCode": "91.12.070",
+    "name": "Ikimabou",
+    "alias": "Ikimabou"
+  },
+  {
+    "code": "91.12.070.021",
+    "villageCode": "021",
+    "districtCode": "91.12.070",
+    "name": "Ntap",
+    "alias": "Ntap"
+  },
+  {
+    "code": "91.12.070.022",
+    "villageCode": "022",
+    "districtCode": "91.12.070",
+    "name": "Haktiebou",
+    "alias": "Haktiebou"
+  },
+  {
+    "code": "91.12.070.023",
+    "villageCode": "023",
+    "districtCode": "91.12.070",
+    "name": "Aryon",
+    "alias": "Aryon"
+  },
+  {
+    "code": "91.12.070.024",
+    "villageCode": "024",
+    "districtCode": "91.12.070",
+    "name": "Punggug",
+    "alias": "Punggug"
+  },
+  {
+    "code": "91.12.070.025",
+    "villageCode": "025",
+    "districtCode": "91.12.070",
+    "name": "Kwok Satu",
+    "alias": "Kwok Satu"
+  },
+  {
+    "code": "91.12.070.026",
+    "villageCode": "026",
+    "districtCode": "91.12.070",
+    "name": "Kwok Dua",
+    "alias": "Kwok Dua"
+  },
+  {
+    "code": "91.12.070.027",
+    "villageCode": "027",
+    "districtCode": "91.12.070",
+    "name": "Tigaucomti",
+    "alias": "Tigaucomti"
+  },
+  {
+    "code": "91.12.070.028",
+    "villageCode": "028",
+    "districtCode": "91.12.070",
+    "name": "Gueipimbai",
+    "alias": "Gueipimbai"
+  },
+  {
+    "code": "91.12.070.029",
+    "villageCode": "029",
+    "districtCode": "91.12.070",
+    "name": "Urwong",
+    "alias": "Urwong"
+  }
+]

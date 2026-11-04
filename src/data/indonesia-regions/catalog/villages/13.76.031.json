@@ -1,0 +1,44 @@
+[
+  {
+    "code": "13.76.031.001",
+    "villageCode": "001",
+    "districtCode": "13.76.031",
+    "name": "Koto Panjang Padang",
+    "alias": "Koto Panjang Padang"
+  },
+  {
+    "code": "13.76.031.002",
+    "villageCode": "002",
+    "districtCode": "13.76.031",
+    "name": "Koto Panjang Dalam",
+    "alias": "Koto Panjang Dalam"
+  },
+  {
+    "code": "13.76.031.003",
+    "villageCode": "003",
+    "districtCode": "13.76.031",
+    "name": "Parambahan",
+    "alias": "Parambahan"
+  },
+  {
+    "code": "13.76.031.004",
+    "villageCode": "004",
+    "districtCode": "13.76.031",
+    "name": "Padang Sikabu",
+    "alias": "Padang Sikabu"
+  },
+  {
+    "code": "13.76.031.005",
+    "villageCode": "005",
+    "districtCode": "13.76.031",
+    "name": "Parit Muko Aie",
+    "alias": "Parit Muko Aie"
+  },
+  {
+    "code": "13.76.031.006",
+    "villageCode": "006",
+    "districtCode": "13.76.031",
+    "name": "Sungai Durian",
+    "alias": "Sungai Durian"
+  }
+]

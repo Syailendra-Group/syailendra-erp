@@ -1,0 +1,37 @@
+[
+  {
+    "code": "97.02.240.001",
+    "villageCode": "001",
+    "districtCode": "97.02.240",
+    "name": "Tulem",
+    "alias": "Tulem"
+  },
+  {
+    "code": "97.02.240.002",
+    "villageCode": "002",
+    "districtCode": "97.02.240",
+    "name": "Korma",
+    "alias": "Korma"
+  },
+  {
+    "code": "97.02.240.003",
+    "villageCode": "003",
+    "districtCode": "97.02.240",
+    "name": "Alula",
+    "alias": "Alula"
+  },
+  {
+    "code": "97.02.240.004",
+    "villageCode": "004",
+    "districtCode": "97.02.240",
+    "name": "Alolik",
+    "alias": "Alolik"
+  },
+  {
+    "code": "97.02.240.005",
+    "villageCode": "005",
+    "districtCode": "97.02.240",
+    "name": "Wiligima",
+    "alias": "Wiligima"
+  }
+]

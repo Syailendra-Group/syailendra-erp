@@ -1,0 +1,37 @@
+[
+  {
+    "code": "12.72.011.001",
+    "villageCode": "001",
+    "districtCode": "12.72.011",
+    "name": "Bunga Tanjung",
+    "alias": "Bunga Tanjung"
+  },
+  {
+    "code": "12.72.011.002",
+    "villageCode": "002",
+    "districtCode": "12.72.011",
+    "name": "Selat Lancang",
+    "alias": "Selat Lancang"
+  },
+  {
+    "code": "12.72.011.003",
+    "villageCode": "003",
+    "districtCode": "12.72.011",
+    "name": "Selat Tanjung Medan",
+    "alias": "Selat Tanjung Medan"
+  },
+  {
+    "code": "12.72.011.004",
+    "villageCode": "004",
+    "districtCode": "12.72.011",
+    "name": "Semula Jadi",
+    "alias": "Semula Jadi"
+  },
+  {
+    "code": "12.72.011.005",
+    "villageCode": "005",
+    "districtCode": "12.72.011",
+    "name": "Pulau Simardan",
+    "alias": "Pulau Simardan"
+  }
+]

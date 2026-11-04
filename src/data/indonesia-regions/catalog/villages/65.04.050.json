@@ -1,0 +1,72 @@
+[
+  {
+    "code": "65.04.050.001",
+    "villageCode": "001",
+    "districtCode": "65.04.050",
+    "name": "Liuk Bulu",
+    "alias": "Liuk Bulu"
+  },
+  {
+    "code": "65.04.050.002",
+    "villageCode": "002",
+    "districtCode": "65.04.050",
+    "name": "Binanun",
+    "alias": "Binanun"
+  },
+  {
+    "code": "65.04.050.003",
+    "villageCode": "003",
+    "districtCode": "65.04.050",
+    "name": "Pulau Keras",
+    "alias": "Pulau Keras"
+  },
+  {
+    "code": "65.04.050.004",
+    "villageCode": "004",
+    "districtCode": "65.04.050",
+    "name": "Sabuluan",
+    "alias": "Sabuluan"
+  },
+  {
+    "code": "65.04.050.005",
+    "villageCode": "005",
+    "districtCode": "65.04.050",
+    "name": "Tulang",
+    "alias": "Tulang"
+  },
+  {
+    "code": "65.04.050.006",
+    "villageCode": "006",
+    "districtCode": "65.04.050",
+    "name": "Saduman",
+    "alias": "Saduman"
+  },
+  {
+    "code": "65.04.050.007",
+    "villageCode": "007",
+    "districtCode": "65.04.050",
+    "name": "Pagaluyon",
+    "alias": "Pagaluyon"
+  },
+  {
+    "code": "65.04.050.008",
+    "villageCode": "008",
+    "districtCode": "65.04.050",
+    "name": "Mambulu",
+    "alias": "Mambulu"
+  },
+  {
+    "code": "65.04.050.009",
+    "villageCode": "009",
+    "districtCode": "65.04.050",
+    "name": "Katul",
+    "alias": "Katul"
+  },
+  {
+    "code": "65.04.050.010",
+    "villageCode": "010",
+    "districtCode": "65.04.050",
+    "name": "Lubok Buat",
+    "alias": "Lubok Buat"
+  }
+]

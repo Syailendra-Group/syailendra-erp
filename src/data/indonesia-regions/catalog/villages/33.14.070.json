@@ -1,0 +1,65 @@
+[
+  {
+    "code": "33.14.070.001",
+    "villageCode": "001",
+    "districtCode": "33.14.070",
+    "name": "Karanganyar",
+    "alias": "Karanganyar"
+  },
+  {
+    "code": "33.14.070.002",
+    "villageCode": "002",
+    "districtCode": "33.14.070",
+    "name": "Toyogo",
+    "alias": "Toyogo"
+  },
+  {
+    "code": "33.14.070.003",
+    "villageCode": "003",
+    "districtCode": "33.14.070",
+    "name": "Banyuurip",
+    "alias": "Banyuurip"
+  },
+  {
+    "code": "33.14.070.004",
+    "villageCode": "004",
+    "districtCode": "33.14.070",
+    "name": "Gringging",
+    "alias": "Gringging"
+  },
+  {
+    "code": "33.14.070.005",
+    "villageCode": "005",
+    "districtCode": "33.14.070",
+    "name": "Banaran",
+    "alias": "Banaran"
+  },
+  {
+    "code": "33.14.070.006",
+    "villageCode": "006",
+    "districtCode": "33.14.070",
+    "name": "Sambungmacan",
+    "alias": "Sambungmacan"
+  },
+  {
+    "code": "33.14.070.007",
+    "villageCode": "007",
+    "districtCode": "33.14.070",
+    "name": "Bedoro",
+    "alias": "Bedoro"
+  },
+  {
+    "code": "33.14.070.008",
+    "villageCode": "008",
+    "districtCode": "33.14.070",
+    "name": "Plumbon",
+    "alias": "Plumbon"
+  },
+  {
+    "code": "33.14.070.009",
+    "villageCode": "009",
+    "districtCode": "33.14.070",
+    "name": "Cemeng",
+    "alias": "Cemeng"
+  }
+]

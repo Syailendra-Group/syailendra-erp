@@ -1,0 +1,72 @@
+[
+  {
+    "code": "52.03.050.001",
+    "villageCode": "001",
+    "districtCode": "52.03.050",
+    "name": "Kesik",
+    "alias": "Kesik"
+  },
+  {
+    "code": "52.03.050.002",
+    "villageCode": "002",
+    "districtCode": "52.03.050",
+    "name": "Paok Motong",
+    "alias": "Paok Motong"
+  },
+  {
+    "code": "52.03.050.003",
+    "villageCode": "003",
+    "districtCode": "52.03.050",
+    "name": "Masbagik Selatan",
+    "alias": "Masbagik Selatan"
+  },
+  {
+    "code": "52.03.050.004",
+    "villageCode": "004",
+    "districtCode": "52.03.050",
+    "name": "Masbagik Timur",
+    "alias": "Masbagik Timur"
+  },
+  {
+    "code": "52.03.050.007",
+    "villageCode": "007",
+    "districtCode": "52.03.050",
+    "name": "Masbagik Utara",
+    "alias": "Masbagik Utara"
+  },
+  {
+    "code": "52.03.050.008",
+    "villageCode": "008",
+    "districtCode": "52.03.050",
+    "name": "Danger",
+    "alias": "Danger"
+  },
+  {
+    "code": "52.03.050.009",
+    "villageCode": "009",
+    "districtCode": "52.03.050",
+    "name": "Lendang Nangka",
+    "alias": "Lendang Nangka"
+  },
+  {
+    "code": "52.03.050.010",
+    "villageCode": "010",
+    "districtCode": "52.03.050",
+    "name": "Masbagik Utara Baru",
+    "alias": "Masbagik Utara Baru"
+  },
+  {
+    "code": "52.03.050.011",
+    "villageCode": "011",
+    "districtCode": "52.03.050",
+    "name": "Lendang Nangka Utara",
+    "alias": "Lendang Nangka Utara"
+  },
+  {
+    "code": "52.03.050.012",
+    "villageCode": "012",
+    "districtCode": "52.03.050",
+    "name": "Kumbang",
+    "alias": "Kumbang"
+  }
+]

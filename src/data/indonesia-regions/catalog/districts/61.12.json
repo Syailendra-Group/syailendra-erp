@@ -1,0 +1,74 @@
+[
+  {
+    "code": "61.12.010",
+    "districtCode": "010",
+    "regencyCode": "61.12",
+    "provinceCode": "61",
+    "name": "Kecamatan Batu Ampar",
+    "alias": "Batu Ampar"
+  },
+  {
+    "code": "61.12.020",
+    "districtCode": "020",
+    "regencyCode": "61.12",
+    "provinceCode": "61",
+    "name": "Kecamatan Terentang",
+    "alias": "Terentang"
+  },
+  {
+    "code": "61.12.030",
+    "districtCode": "030",
+    "regencyCode": "61.12",
+    "provinceCode": "61",
+    "name": "Kecamatan Kubu",
+    "alias": "Kubu"
+  },
+  {
+    "code": "61.12.040",
+    "districtCode": "040",
+    "regencyCode": "61.12",
+    "provinceCode": "61",
+    "name": "Kecamatan Teluk Pakedai",
+    "alias": "Teluk Pakedai"
+  },
+  {
+    "code": "61.12.050",
+    "districtCode": "050",
+    "regencyCode": "61.12",
+    "provinceCode": "61",
+    "name": "Kecamatan Sungai Kakap",
+    "alias": "Sungai Kakap"
+  },
+  {
+    "code": "61.12.060",
+    "districtCode": "060",
+    "regencyCode": "61.12",
+    "provinceCode": "61",
+    "name": "Kecamatan Rasau Jaya",
+    "alias": "Rasau Jaya"
+  },
+  {
+    "code": "61.12.070",
+    "districtCode": "070",
+    "regencyCode": "61.12",
+    "provinceCode": "61",
+    "name": "Kecamatan Sungai Raya",
+    "alias": "Sungai Raya"
+  },
+  {
+    "code": "61.12.080",
+    "districtCode": "080",
+    "regencyCode": "61.12",
+    "provinceCode": "61",
+    "name": "Kecamatan Sungai Ambawang",
+    "alias": "Sungai Ambawang"
+  },
+  {
+    "code": "61.12.090",
+    "districtCode": "090",
+    "regencyCode": "61.12",
+    "provinceCode": "61",
+    "name": "Kecamatan Kuala Mandor B",
+    "alias": "Kuala Mandor B"
+  }
+]

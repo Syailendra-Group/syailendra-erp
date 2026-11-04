@@ -1,0 +1,79 @@
+[
+  {
+    "code": "32.01.300.001",
+    "villageCode": "001",
+    "districtCode": "32.01.300",
+    "name": "Jagabaya",
+    "alias": "Jagabaya"
+  },
+  {
+    "code": "32.01.300.002",
+    "villageCode": "002",
+    "districtCode": "32.01.300",
+    "name": "Gorowong",
+    "alias": "Gorowong"
+  },
+  {
+    "code": "32.01.300.003",
+    "villageCode": "003",
+    "districtCode": "32.01.300",
+    "name": "Dago",
+    "alias": "Dago"
+  },
+  {
+    "code": "32.01.300.004",
+    "villageCode": "004",
+    "districtCode": "32.01.300",
+    "name": "Cikuda",
+    "alias": "Cikuda"
+  },
+  {
+    "code": "32.01.300.005",
+    "villageCode": "005",
+    "districtCode": "32.01.300",
+    "name": "Pingku",
+    "alias": "Pingku"
+  },
+  {
+    "code": "32.01.300.006",
+    "villageCode": "006",
+    "districtCode": "32.01.300",
+    "name": "Lumpang",
+    "alias": "Lumpang"
+  },
+  {
+    "code": "32.01.300.007",
+    "villageCode": "007",
+    "districtCode": "32.01.300",
+    "name": "Gintung Cilejet",
+    "alias": "Gintung Cilejet"
+  },
+  {
+    "code": "32.01.300.008",
+    "villageCode": "008",
+    "districtCode": "32.01.300",
+    "name": "Jagabita",
+    "alias": "Jagabita"
+  },
+  {
+    "code": "32.01.300.009",
+    "villageCode": "009",
+    "districtCode": "32.01.300",
+    "name": "Cibunar",
+    "alias": "Cibunar"
+  },
+  {
+    "code": "32.01.300.010",
+    "villageCode": "010",
+    "districtCode": "32.01.300",
+    "name": "Parung Panjang",
+    "alias": "Parung Panjang"
+  },
+  {
+    "code": "32.01.300.011",
+    "villageCode": "011",
+    "districtCode": "32.01.300",
+    "name": "Kabasiran",
+    "alias": "Kabasiran"
+  }
+]

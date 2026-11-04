@@ -1,0 +1,100 @@
+[
+  {
+    "code": "52.03.090.004",
+    "villageCode": "004",
+    "districtCode": "52.03.090",
+    "name": "Kalijaga",
+    "alias": "Kalijaga"
+  },
+  {
+    "code": "52.03.090.008",
+    "villageCode": "008",
+    "districtCode": "52.03.090",
+    "name": "Kembang Kerang",
+    "alias": "Kembang Kerang"
+  },
+  {
+    "code": "52.03.090.009",
+    "villageCode": "009",
+    "districtCode": "52.03.090",
+    "name": "Aikmel",
+    "alias": "Aikmel"
+  },
+  {
+    "code": "52.03.090.010",
+    "villageCode": "010",
+    "districtCode": "52.03.090",
+    "name": "Aikmel Utara",
+    "alias": "Aikmel Utara"
+  },
+  {
+    "code": "52.03.090.011",
+    "villageCode": "011",
+    "districtCode": "52.03.090",
+    "name": "Kalijaga Selatan",
+    "alias": "Kalijaga Selatan"
+  },
+  {
+    "code": "52.03.090.012",
+    "villageCode": "012",
+    "districtCode": "52.03.090",
+    "name": "Kalijaga Timur",
+    "alias": "Kalijaga Timur"
+  },
+  {
+    "code": "52.03.090.014",
+    "villageCode": "014",
+    "districtCode": "52.03.090",
+    "name": "Kembang Kerang Daya",
+    "alias": "Kembang Kerang Daya"
+  },
+  {
+    "code": "52.03.090.015",
+    "villageCode": "015",
+    "districtCode": "52.03.090",
+    "name": "Aikmel Barat",
+    "alias": "Aikmel Barat"
+  },
+  {
+    "code": "52.03.090.017",
+    "villageCode": "017",
+    "districtCode": "52.03.090",
+    "name": "Toya",
+    "alias": "Toya"
+  },
+  {
+    "code": "52.03.090.020",
+    "villageCode": "020",
+    "districtCode": "52.03.090",
+    "name": "Kalijaga Tengah",
+    "alias": "Kalijaga Tengah"
+  },
+  {
+    "code": "52.03.090.021",
+    "villageCode": "021",
+    "districtCode": "52.03.090",
+    "name": "Bagik Nyaka Santri",
+    "alias": "Bagik Nyaka Santri"
+  },
+  {
+    "code": "52.03.090.022",
+    "villageCode": "022",
+    "districtCode": "52.03.090",
+    "name": "Aik Prapa",
+    "alias": "Aik Prapa"
+  },
+  {
+    "code": "52.03.090.026",
+    "villageCode": "026",
+    "districtCode": "52.03.090",
+    "name": "Keroya",
+    "alias": "Keroya"
+  },
+  {
+    "code": "52.03.090.027",
+    "villageCode": "027",
+    "districtCode": "52.03.090",
+    "name": "Aikmel Timur",
+    "alias": "Aikmel Timur"
+  }
+]

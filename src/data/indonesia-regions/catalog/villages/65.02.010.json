@@ -1,0 +1,72 @@
+[
+  {
+    "code": "65.02.010.001",
+    "villageCode": "001",
+    "districtCode": "65.02.010",
+    "name": "Long Lejuh",
+    "alias": "Long Lejuh"
+  },
+  {
+    "code": "65.02.010.002",
+    "villageCode": "002",
+    "districtCode": "65.02.010",
+    "name": "Long Peleban",
+    "alias": "Long Peleban"
+  },
+  {
+    "code": "65.02.010.003",
+    "villageCode": "003",
+    "districtCode": "65.02.010",
+    "name": "Long Yiin/Pelaah",
+    "alias": "Long Yiin/Pelaah"
+  },
+  {
+    "code": "65.02.010.004",
+    "villageCode": "004",
+    "districtCode": "65.02.010",
+    "name": "Long Buang",
+    "alias": "Long Buang"
+  },
+  {
+    "code": "65.02.010.005",
+    "villageCode": "005",
+    "districtCode": "65.02.010",
+    "name": "Long Lian",
+    "alias": "Long Lian"
+  },
+  {
+    "code": "65.02.010.006",
+    "villageCode": "006",
+    "districtCode": "65.02.010",
+    "name": "Muara Pengean",
+    "alias": "Muara Pengean"
+  },
+  {
+    "code": "65.02.010.007",
+    "villageCode": "007",
+    "districtCode": "65.02.010",
+    "name": "Long Peso",
+    "alias": "Long Peso"
+  },
+  {
+    "code": "65.02.010.008",
+    "villageCode": "008",
+    "districtCode": "65.02.010",
+    "name": "Long Bia",
+    "alias": "Long Bia"
+  },
+  {
+    "code": "65.02.010.009",
+    "villageCode": "009",
+    "districtCode": "65.02.010",
+    "name": "Lepak Aru",
+    "alias": "Lepak Aru"
+  },
+  {
+    "code": "65.02.010.010",
+    "villageCode": "010",
+    "districtCode": "65.02.010",
+    "name": "Long Lasan",
+    "alias": "Long Lasan"
+  }
+]

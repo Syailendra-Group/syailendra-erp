@@ -1,0 +1,37 @@
+[
+  {
+    "code": "14.09.042.001",
+    "villageCode": "001",
+    "districtCode": "14.09.042",
+    "name": "Bantayan",
+    "alias": "Bantayan"
+  },
+  {
+    "code": "14.09.042.002",
+    "villageCode": "002",
+    "districtCode": "14.09.042",
+    "name": "Bantayan Baru",
+    "alias": "Bantayan Baru"
+  },
+  {
+    "code": "14.09.042.003",
+    "villageCode": "003",
+    "districtCode": "14.09.042",
+    "name": "Bantayan Hilir",
+    "alias": "Bantayan Hilir"
+  },
+  {
+    "code": "14.09.042.004",
+    "villageCode": "004",
+    "districtCode": "14.09.042",
+    "name": "Sungai Sialang Hulu",
+    "alias": "Sungai Sialang Hulu"
+  },
+  {
+    "code": "14.09.042.005",
+    "villageCode": "005",
+    "districtCode": "14.09.042",
+    "name": "Sungai Sialang",
+    "alias": "Sungai Sialang"
+  }
+]

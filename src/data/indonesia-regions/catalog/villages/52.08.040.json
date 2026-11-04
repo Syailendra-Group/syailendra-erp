@@ -1,0 +1,72 @@
+[
+  {
+    "code": "52.08.040.001",
+    "villageCode": "001",
+    "districtCode": "52.08.040",
+    "name": "Santong",
+    "alias": "Santong"
+  },
+  {
+    "code": "52.08.040.002",
+    "villageCode": "002",
+    "districtCode": "52.08.040",
+    "name": "Pendua",
+    "alias": "Pendua"
+  },
+  {
+    "code": "52.08.040.003",
+    "villageCode": "003",
+    "districtCode": "52.08.040",
+    "name": "Kayangan",
+    "alias": "Kayangan"
+  },
+  {
+    "code": "52.08.040.004",
+    "villageCode": "004",
+    "districtCode": "52.08.040",
+    "name": "Dangiang",
+    "alias": "Dangiang"
+  },
+  {
+    "code": "52.08.040.005",
+    "villageCode": "005",
+    "districtCode": "52.08.040",
+    "name": "Sesait",
+    "alias": "Sesait"
+  },
+  {
+    "code": "52.08.040.006",
+    "villageCode": "006",
+    "districtCode": "52.08.040",
+    "name": "Gumantar",
+    "alias": "Gumantar"
+  },
+  {
+    "code": "52.08.040.007",
+    "villageCode": "007",
+    "districtCode": "52.08.040",
+    "name": "Selengen",
+    "alias": "Selengen"
+  },
+  {
+    "code": "52.08.040.008",
+    "villageCode": "008",
+    "districtCode": "52.08.040",
+    "name": "Salut",
+    "alias": "Salut"
+  },
+  {
+    "code": "52.08.040.009",
+    "villageCode": "009",
+    "districtCode": "52.08.040",
+    "name": "Santong Mulia",
+    "alias": "Santong Mulia"
+  },
+  {
+    "code": "52.08.040.010",
+    "villageCode": "010",
+    "districtCode": "52.08.040",
+    "name": "Pansor",
+    "alias": "Pansor"
+  }
+]

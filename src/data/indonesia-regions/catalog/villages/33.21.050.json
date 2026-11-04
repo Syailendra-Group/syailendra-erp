@@ -1,0 +1,121 @@
+[
+  {
+    "code": "33.21.050.001",
+    "villageCode": "001",
+    "districtCode": "33.21.050",
+    "name": "Sampang",
+    "alias": "Sampang"
+  },
+  {
+    "code": "33.21.050.002",
+    "villageCode": "002",
+    "districtCode": "33.21.050",
+    "name": "Klitih",
+    "alias": "Klitih"
+  },
+  {
+    "code": "33.21.050.003",
+    "villageCode": "003",
+    "districtCode": "33.21.050",
+    "name": "Pidodo",
+    "alias": "Pidodo"
+  },
+  {
+    "code": "33.21.050.004",
+    "villageCode": "004",
+    "districtCode": "33.21.050",
+    "name": "Donorejo",
+    "alias": "Donorejo"
+  },
+  {
+    "code": "33.21.050.005",
+    "villageCode": "005",
+    "districtCode": "33.21.050",
+    "name": "Grogol",
+    "alias": "Grogol"
+  },
+  {
+    "code": "33.21.050.006",
+    "villageCode": "006",
+    "districtCode": "33.21.050",
+    "name": "Ploso",
+    "alias": "Ploso"
+  },
+  {
+    "code": "33.21.050.007",
+    "villageCode": "007",
+    "districtCode": "33.21.050",
+    "name": "Pulosari",
+    "alias": "Pulosari"
+  },
+  {
+    "code": "33.21.050.008",
+    "villageCode": "008",
+    "districtCode": "33.21.050",
+    "name": "Karangsari",
+    "alias": "Karangsari"
+  },
+  {
+    "code": "33.21.050.009",
+    "villageCode": "009",
+    "districtCode": "33.21.050",
+    "name": "Karangtowo",
+    "alias": "Karangtowo"
+  },
+  {
+    "code": "33.21.050.010",
+    "villageCode": "010",
+    "districtCode": "33.21.050",
+    "name": "Dukun",
+    "alias": "Dukun"
+  },
+  {
+    "code": "33.21.050.011",
+    "villageCode": "011",
+    "districtCode": "33.21.050",
+    "name": "Kedunguter",
+    "alias": "Kedunguter"
+  },
+  {
+    "code": "33.21.050.012",
+    "villageCode": "012",
+    "districtCode": "33.21.050",
+    "name": "Batu",
+    "alias": "Batu"
+  },
+  {
+    "code": "33.21.050.013",
+    "villageCode": "013",
+    "districtCode": "33.21.050",
+    "name": "Wonokerto",
+    "alias": "Wonokerto"
+  },
+  {
+    "code": "33.21.050.014",
+    "villageCode": "014",
+    "districtCode": "33.21.050",
+    "name": "Wonowoso",
+    "alias": "Wonowoso"
+  },
+  {
+    "code": "33.21.050.015",
+    "villageCode": "015",
+    "districtCode": "33.21.050",
+    "name": "Rejosari",
+    "alias": "Rejosari"
+  },
+  {
+    "code": "33.21.050.016",
+    "villageCode": "016",
+    "districtCode": "33.21.050",
+    "name": "Wonoagung",
+    "alias": "Wonoagung"
+  },
+  {
+    "code": "33.21.050.017",
+    "villageCode": "017",
+    "districtCode": "33.21.050",
+    "name": "Tambakbulusan",
+    "alias": "Tambakbulusan"
+  }
+]

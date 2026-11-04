@@ -1,0 +1,106 @@
+[
+  {
+    "code": "74.10.010",
+    "districtCode": "010",
+    "regencyCode": "74.10",
+    "provinceCode": "74",
+    "name": "Kecamatan Sawa",
+    "alias": "Sawa"
+  },
+  {
+    "code": "74.10.011",
+    "districtCode": "011",
+    "regencyCode": "74.10",
+    "provinceCode": "74",
+    "name": "Kecamatan Motui",
+    "alias": "Motui"
+  },
+  {
+    "code": "74.10.020",
+    "districtCode": "020",
+    "regencyCode": "74.10",
+    "provinceCode": "74",
+    "name": "Kecamatan Lembo",
+    "alias": "Lembo"
+  },
+  {
+    "code": "74.10.030",
+    "districtCode": "030",
+    "regencyCode": "74.10",
+    "provinceCode": "74",
+    "name": "Kecamatan Lasolo",
+    "alias": "Lasolo"
+  },
+  {
+    "code": "74.10.031",
+    "districtCode": "031",
+    "regencyCode": "74.10",
+    "provinceCode": "74",
+    "name": "Kecamatan Wawolesea",
+    "alias": "Wawolesea"
+  },
+  {
+    "code": "74.10.032",
+    "districtCode": "032",
+    "regencyCode": "74.10",
+    "provinceCode": "74",
+    "name": "Kecamatan Lasolo Kepulauan",
+    "alias": "Lasolo Kepulauan"
+  },
+  {
+    "code": "74.10.040",
+    "districtCode": "040",
+    "regencyCode": "74.10",
+    "provinceCode": "74",
+    "name": "Kecamatan Molawe",
+    "alias": "Molawe"
+  },
+  {
+    "code": "74.10.050",
+    "districtCode": "050",
+    "regencyCode": "74.10",
+    "provinceCode": "74",
+    "name": "Kecamatan Asera",
+    "alias": "Asera"
+  },
+  {
+    "code": "74.10.051",
+    "districtCode": "051",
+    "regencyCode": "74.10",
+    "provinceCode": "74",
+    "name": "Kecamatan Andowia",
+    "alias": "Andowia"
+  },
+  {
+    "code": "74.10.052",
+    "districtCode": "052",
+    "regencyCode": "74.10",
+    "provinceCode": "74",
+    "name": "Kecamatan Oheo",
+    "alias": "Oheo"
+  },
+  {
+    "code": "74.10.060",
+    "districtCode": "060",
+    "regencyCode": "74.10",
+    "provinceCode": "74",
+    "name": "Kecamatan Langgikima",
+    "alias": "Langgikima"
+  },
+  {
+    "code": "74.10.070",
+    "districtCode": "070",
+    "regencyCode": "74.10",
+    "provinceCode": "74",
+    "name": "Kecamatan Wiwirano",
+    "alias": "Wiwirano"
+  },
+  {
+    "code": "74.10.071",
+    "districtCode": "071",
+    "regencyCode": "74.10",
+    "provinceCode": "74",
+    "name": "Kecamatan Landawe",
+    "alias": "Landawe"
+  }
+]

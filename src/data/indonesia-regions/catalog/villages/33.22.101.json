@@ -1,0 +1,72 @@
+[
+  {
+    "code": "33.22.101.001",
+    "villageCode": "001",
+    "districtCode": "33.22.101",
+    "name": "Mlilir",
+    "alias": "Mlilir"
+  },
+  {
+    "code": "33.22.101.002",
+    "villageCode": "002",
+    "districtCode": "33.22.101",
+    "name": "Duren",
+    "alias": "Duren"
+  },
+  {
+    "code": "33.22.101.003",
+    "villageCode": "003",
+    "districtCode": "33.22.101",
+    "name": "Jetis",
+    "alias": "Jetis"
+  },
+  {
+    "code": "33.22.101.004",
+    "villageCode": "004",
+    "districtCode": "33.22.101",
+    "name": "Bandungan",
+    "alias": "Bandungan"
+  },
+  {
+    "code": "33.22.101.005",
+    "villageCode": "005",
+    "districtCode": "33.22.101",
+    "name": "Kenteng",
+    "alias": "Kenteng"
+  },
+  {
+    "code": "33.22.101.006",
+    "villageCode": "006",
+    "districtCode": "33.22.101",
+    "name": "Candi",
+    "alias": "Candi"
+  },
+  {
+    "code": "33.22.101.007",
+    "villageCode": "007",
+    "districtCode": "33.22.101",
+    "name": "Banyukuning",
+    "alias": "Banyukuning"
+  },
+  {
+    "code": "33.22.101.008",
+    "villageCode": "008",
+    "districtCode": "33.22.101",
+    "name": "Jimbaran",
+    "alias": "Jimbaran"
+  },
+  {
+    "code": "33.22.101.009",
+    "villageCode": "009",
+    "districtCode": "33.22.101",
+    "name": "Pakopen",
+    "alias": "Pakopen"
+  },
+  {
+    "code": "33.22.101.010",
+    "villageCode": "010",
+    "districtCode": "33.22.101",
+    "name": "Sidomukti",
+    "alias": "Sidomukti"
+  }
+]

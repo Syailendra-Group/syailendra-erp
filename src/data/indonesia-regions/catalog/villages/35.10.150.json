@@ -1,0 +1,51 @@
+[
+  {
+    "code": "35.10.150.001",
+    "villageCode": "001",
+    "districtCode": "35.10.150",
+    "name": "Sempu",
+    "alias": "Sempu"
+  },
+  {
+    "code": "35.10.150.002",
+    "villageCode": "002",
+    "districtCode": "35.10.150",
+    "name": "Tegalarum",
+    "alias": "Tegalarum"
+  },
+  {
+    "code": "35.10.150.003",
+    "villageCode": "003",
+    "districtCode": "35.10.150",
+    "name": "Jambewangi",
+    "alias": "Jambewangi"
+  },
+  {
+    "code": "35.10.150.004",
+    "villageCode": "004",
+    "districtCode": "35.10.150",
+    "name": "Temuasri",
+    "alias": "Temuasri"
+  },
+  {
+    "code": "35.10.150.005",
+    "villageCode": "005",
+    "districtCode": "35.10.150",
+    "name": "Karangsari",
+    "alias": "Karangsari"
+  },
+  {
+    "code": "35.10.150.006",
+    "villageCode": "006",
+    "districtCode": "35.10.150",
+    "name": "Temuguruh",
+    "alias": "Temuguruh"
+  },
+  {
+    "code": "35.10.150.007",
+    "villageCode": "007",
+    "districtCode": "35.10.150",
+    "name": "Gendoh",
+    "alias": "Gendoh"
+  }
+]

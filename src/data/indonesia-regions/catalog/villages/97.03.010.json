@@ -1,0 +1,58 @@
+[
+  {
+    "code": "97.03.010.001",
+    "villageCode": "001",
+    "districtCode": "97.03.010",
+    "name": "Mamiri",
+    "alias": "Mamiri"
+  },
+  {
+    "code": "97.03.010.002",
+    "villageCode": "002",
+    "districtCode": "97.03.010",
+    "name": "Kotorambur",
+    "alias": "Kotorambur"
+  },
+  {
+    "code": "97.03.010.003",
+    "villageCode": "003",
+    "districtCode": "97.03.010",
+    "name": "Kemiri",
+    "alias": "Kemiri"
+  },
+  {
+    "code": "97.03.010.004",
+    "villageCode": "004",
+    "districtCode": "97.03.010",
+    "name": "Yorenime",
+    "alias": "Yorenime"
+  },
+  {
+    "code": "97.03.010.005",
+    "villageCode": "005",
+    "districtCode": "97.03.010",
+    "name": "Waganenga",
+    "alias": "Waganenga"
+  },
+  {
+    "code": "97.03.010.006",
+    "villageCode": "006",
+    "districtCode": "97.03.010",
+    "name": "Gembilani",
+    "alias": "Gembilani"
+  },
+  {
+    "code": "97.03.010.007",
+    "villageCode": "007",
+    "districtCode": "97.03.010",
+    "name": "Nambume",
+    "alias": "Nambume"
+  },
+  {
+    "code": "97.03.010.008",
+    "villageCode": "008",
+    "districtCode": "97.03.010",
+    "name": "Tengenawi",
+    "alias": "Tengenawi"
+  }
+]

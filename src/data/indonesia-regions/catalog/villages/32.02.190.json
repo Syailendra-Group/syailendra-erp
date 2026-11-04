@@ -1,0 +1,65 @@
+[
+  {
+    "code": "32.02.190.001",
+    "villageCode": "001",
+    "districtCode": "32.02.190",
+    "name": "Muaradua",
+    "alias": "Muaradua"
+  },
+  {
+    "code": "32.02.190.002",
+    "villageCode": "002",
+    "districtCode": "32.02.190",
+    "name": "Citamiang",
+    "alias": "Citamiang"
+  },
+  {
+    "code": "32.02.190.003",
+    "villageCode": "003",
+    "districtCode": "32.02.190",
+    "name": "Cikahuripan",
+    "alias": "Cikahuripan"
+  },
+  {
+    "code": "32.02.190.004",
+    "villageCode": "004",
+    "districtCode": "32.02.190",
+    "name": "Sukamanis",
+    "alias": "Sukamanis"
+  },
+  {
+    "code": "32.02.190.005",
+    "villageCode": "005",
+    "districtCode": "32.02.190",
+    "name": "Kadudampit",
+    "alias": "Kadudampit"
+  },
+  {
+    "code": "32.02.190.006",
+    "villageCode": "006",
+    "districtCode": "32.02.190",
+    "name": "Gede Pangrango",
+    "alias": "Gede Pangrango"
+  },
+  {
+    "code": "32.02.190.007",
+    "villageCode": "007",
+    "districtCode": "32.02.190",
+    "name": "Sukamaju",
+    "alias": "Sukamaju"
+  },
+  {
+    "code": "32.02.190.008",
+    "villageCode": "008",
+    "districtCode": "32.02.190",
+    "name": "Cipetir",
+    "alias": "Cipetir"
+  },
+  {
+    "code": "32.02.190.009",
+    "villageCode": "009",
+    "districtCode": "32.02.190",
+    "name": "Undrus Binangun",
+    "alias": "Undrus Binangun"
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "code": "61.08.030.001",
+    "villageCode": "001",
+    "districtCode": "61.08.030",
+    "name": "Parang",
+    "alias": "Parang"
+  },
+  {
+    "code": "61.08.030.002",
+    "villageCode": "002",
+    "districtCode": "61.08.030",
+    "name": "Lubuk Antuk",
+    "alias": "Lubuk Antuk"
+  },
+  {
+    "code": "61.08.030.003",
+    "villageCode": "003",
+    "districtCode": "61.08.030",
+    "name": "Nanga Tepuai",
+    "alias": "Nanga Tepuai"
+  },
+  {
+    "code": "61.08.030.004",
+    "villageCode": "004",
+    "districtCode": "61.08.030",
+    "name": "Landau Kumpang",
+    "alias": "Landau Kumpang"
+  },
+  {
+    "code": "61.08.030.005",
+    "villageCode": "005",
+    "districtCode": "61.08.030",
+    "name": "Nanga Yen",
+    "alias": "Nanga Yen"
+  },
+  {
+    "code": "61.08.030.006",
+    "villageCode": "006",
+    "districtCode": "61.08.030",
+    "name": "Kelakar",
+    "alias": "Kelakar"
+  },
+  {
+    "code": "61.08.030.007",
+    "villageCode": "007",
+    "districtCode": "61.08.030",
+    "name": "Bugang",
+    "alias": "Bugang"
+  },
+  {
+    "code": "61.08.030.008",
+    "villageCode": "008",
+    "districtCode": "61.08.030",
+    "name": "Mentawit",
+    "alias": "Mentawit"
+  },
+  {
+    "code": "61.08.030.009",
+    "villageCode": "009",
+    "districtCode": "61.08.030",
+    "name": "Tani Makmur",
+    "alias": "Tani Makmur"
+  },
+  {
+    "code": "61.08.030.010",
+    "villageCode": "010",
+    "districtCode": "61.08.030",
+    "name": "Simpang Senara",
+    "alias": "Simpang Senara"
+  },
+  {
+    "code": "61.08.030.011",
+    "villageCode": "011",
+    "districtCode": "61.08.030",
+    "name": "Beringin",
+    "alias": "Beringin"
+  },
+  {
+    "code": "61.08.030.012",
+    "villageCode": "012",
+    "districtCode": "61.08.030",
+    "name": "Sejahtera Mandiri",
+    "alias": "Sejahtera Mandiri"
+  },
+  {
+    "code": "61.08.030.013",
+    "villageCode": "013",
+    "districtCode": "61.08.030",
+    "name": "Mubung",
+    "alias": "Mubung"
+  },
+  {
+    "code": "61.08.030.014",
+    "villageCode": "014",
+    "districtCode": "61.08.030",
+    "name": "Tunas Muda",
+    "alias": "Tunas Muda"
+  },
+  {
+    "code": "61.08.030.015",
+    "villageCode": "015",
+    "districtCode": "61.08.030",
+    "name": "Karya Mandiri",
+    "alias": "Karya Mandiri"
+  }
+]

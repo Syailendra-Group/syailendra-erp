@@ -1,0 +1,51 @@
+[
+  {
+    "code": "35.12.070.001",
+    "villageCode": "001",
+    "districtCode": "35.12.070",
+    "name": "Selowogo",
+    "alias": "Selowogo"
+  },
+  {
+    "code": "35.12.070.002",
+    "villageCode": "002",
+    "districtCode": "35.12.070",
+    "name": "Sumbertengah",
+    "alias": "Sumbertengah"
+  },
+  {
+    "code": "35.12.070.003",
+    "villageCode": "003",
+    "districtCode": "35.12.070",
+    "name": "Patemon",
+    "alias": "Patemon"
+  },
+  {
+    "code": "35.12.070.004",
+    "villageCode": "004",
+    "districtCode": "35.12.070",
+    "name": "Pasir Putih",
+    "alias": "Pasir Putih"
+  },
+  {
+    "code": "35.12.070.005",
+    "villageCode": "005",
+    "districtCode": "35.12.070",
+    "name": "Bungatan",
+    "alias": "Bungatan"
+  },
+  {
+    "code": "35.12.070.006",
+    "villageCode": "006",
+    "districtCode": "35.12.070",
+    "name": "Bletok",
+    "alias": "Bletok"
+  },
+  {
+    "code": "35.12.070.007",
+    "villageCode": "007",
+    "districtCode": "35.12.070",
+    "name": "Mlandingan Wetan",
+    "alias": "Mlandingan Wetan"
+  }
+]

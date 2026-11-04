@@ -1,0 +1,37 @@
+[
+  {
+    "code": "61.02.060.005",
+    "villageCode": "005",
+    "districtCode": "61.02.060",
+    "name": "Bange",
+    "alias": "Bange"
+  },
+  {
+    "code": "61.02.060.006",
+    "villageCode": "006",
+    "districtCode": "61.02.060",
+    "name": "Lembang",
+    "alias": "Lembang"
+  },
+  {
+    "code": "61.02.060.007",
+    "villageCode": "007",
+    "districtCode": "61.02.060",
+    "name": "Sango",
+    "alias": "Sango"
+  },
+  {
+    "code": "61.02.060.008",
+    "villageCode": "008",
+    "districtCode": "61.02.060",
+    "name": "Gua",
+    "alias": "Gua"
+  },
+  {
+    "code": "61.02.060.009",
+    "villageCode": "009",
+    "districtCode": "61.02.060",
+    "name": "Danti",
+    "alias": "Danti"
+  }
+]

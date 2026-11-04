@@ -1,0 +1,37 @@
+[
+  {
+    "code": "74.02.021.006",
+    "villageCode": "006",
+    "districtCode": "74.02.021",
+    "name": "Bone Tondo",
+    "alias": "Bone Tondo"
+  },
+  {
+    "code": "74.02.021.007",
+    "villageCode": "007",
+    "districtCode": "74.02.021",
+    "name": "Bone Lolibu",
+    "alias": "Bone Lolibu"
+  },
+  {
+    "code": "74.02.021.008",
+    "villageCode": "008",
+    "districtCode": "74.02.021",
+    "name": "Bhone Kainsetala",
+    "alias": "Bhone Kainsetala"
+  },
+  {
+    "code": "74.02.021.011",
+    "villageCode": "011",
+    "districtCode": "74.02.021",
+    "name": "Matombura",
+    "alias": "Matombura"
+  },
+  {
+    "code": "74.02.021.012",
+    "villageCode": "012",
+    "districtCode": "74.02.021",
+    "name": "Oelongko",
+    "alias": "Oelongko"
+  }
+]

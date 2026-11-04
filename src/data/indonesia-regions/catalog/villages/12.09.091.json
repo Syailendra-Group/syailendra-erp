@@ -1,0 +1,79 @@
+[
+  {
+    "code": "12.09.091.001",
+    "villageCode": "001",
+    "districtCode": "12.09.091",
+    "name": "Simpang Pane",
+    "alias": "Simpang Pane"
+  },
+  {
+    "code": "12.09.091.002",
+    "villageCode": "002",
+    "districtCode": "12.09.091",
+    "name": "Marjandi",
+    "alias": "Marjandi"
+  },
+  {
+    "code": "12.09.091.003",
+    "villageCode": "003",
+    "districtCode": "12.09.091",
+    "name": "Panombean",
+    "alias": "Panombean"
+  },
+  {
+    "code": "12.09.091.004",
+    "villageCode": "004",
+    "districtCode": "12.09.091",
+    "name": "Nagori Bosar",
+    "alias": "Nagori Bosar"
+  },
+  {
+    "code": "12.09.091.005",
+    "villageCode": "005",
+    "districtCode": "12.09.091",
+    "name": "Talun Kondot",
+    "alias": "Talun Kondot"
+  },
+  {
+    "code": "12.09.091.006",
+    "villageCode": "006",
+    "districtCode": "12.09.091",
+    "name": "Pematang Panombean",
+    "alias": "Pematang Panombean"
+  },
+  {
+    "code": "12.09.091.007",
+    "villageCode": "007",
+    "districtCode": "12.09.091",
+    "name": "Simbolon Tengkoh",
+    "alias": "Simbolon Tengkoh"
+  },
+  {
+    "code": "12.09.091.008",
+    "villageCode": "008",
+    "districtCode": "12.09.091",
+    "name": "Pematang Pane",
+    "alias": "Pematang Pane"
+  },
+  {
+    "code": "12.09.091.009",
+    "villageCode": "009",
+    "districtCode": "12.09.091",
+    "name": "Marjandi Pisang",
+    "alias": "Marjandi Pisang"
+  },
+  {
+    "code": "12.09.091.010",
+    "villageCode": "010",
+    "districtCode": "12.09.091",
+    "name": "Banuh Raya",
+    "alias": "Banuh Raya"
+  },
+  {
+    "code": "12.09.091.011",
+    "villageCode": "011",
+    "districtCode": "12.09.091",
+    "name": "Rukun Mulyo",
+    "alias": "Rukun Mulyo"
+  }
+]

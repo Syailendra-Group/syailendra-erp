@@ -1,0 +1,72 @@
+[
+  {
+    "code": "12.09.011.001",
+    "villageCode": "001",
+    "districtCode": "12.09.011",
+    "name": "Ujung Saribu",
+    "alias": "Ujung Saribu"
+  },
+  {
+    "code": "12.09.011.002",
+    "villageCode": "002",
+    "districtCode": "12.09.011",
+    "name": "Silimakuta Barat",
+    "alias": "Silimakuta Barat"
+  },
+  {
+    "code": "12.09.011.003",
+    "villageCode": "003",
+    "districtCode": "12.09.011",
+    "name": "Siboras",
+    "alias": "Siboras"
+  },
+  {
+    "code": "12.09.011.004",
+    "villageCode": "004",
+    "districtCode": "12.09.011",
+    "name": "Ujung Mariah",
+    "alias": "Ujung Mariah"
+  },
+  {
+    "code": "12.09.011.005",
+    "villageCode": "005",
+    "districtCode": "12.09.011",
+    "name": "Mardinding",
+    "alias": "Mardinding"
+  },
+  {
+    "code": "12.09.011.006",
+    "villageCode": "006",
+    "districtCode": "12.09.011",
+    "name": "Naga Saribu",
+    "alias": "Naga Saribu"
+  },
+  {
+    "code": "12.09.011.007",
+    "villageCode": "007",
+    "districtCode": "12.09.011",
+    "name": "Saribujandi",
+    "alias": "Saribujandi"
+  },
+  {
+    "code": "12.09.011.008",
+    "villageCode": "008",
+    "districtCode": "12.09.011",
+    "name": "Naga Mariah",
+    "alias": "Naga Mariah"
+  },
+  {
+    "code": "12.09.011.009",
+    "villageCode": "009",
+    "districtCode": "12.09.011",
+    "name": "Bandar Saribu",
+    "alias": "Bandar Saribu"
+  },
+  {
+    "code": "12.09.011.010",
+    "villageCode": "010",
+    "districtCode": "12.09.011",
+    "name": "Naga Bosar",
+    "alias": "Naga Bosar"
+  }
+]

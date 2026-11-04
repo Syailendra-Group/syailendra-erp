@@ -1,0 +1,106 @@
+[
+  {
+    "code": "72.01",
+    "regencyCode": "01",
+    "provinceCode": "72",
+    "provinceName": "Sulawesi Tengah",
+    "name": "Kabupaten Banggai Kepulauan",
+    "alias": "Banggai Kepulauan"
+  },
+  {
+    "code": "72.02",
+    "regencyCode": "02",
+    "provinceCode": "72",
+    "provinceName": "Sulawesi Tengah",
+    "name": "Kabupaten Banggai",
+    "alias": "Banggai"
+  },
+  {
+    "code": "72.03",
+    "regencyCode": "03",
+    "provinceCode": "72",
+    "provinceName": "Sulawesi Tengah",
+    "name": "Kabupaten Morowali",
+    "alias": "Morowali"
+  },
+  {
+    "code": "72.04",
+    "regencyCode": "04",
+    "provinceCode": "72",
+    "provinceName": "Sulawesi Tengah",
+    "name": "Kabupaten Poso",
+    "alias": "Poso"
+  },
+  {
+    "code": "72.05",
+    "regencyCode": "05",
+    "provinceCode": "72",
+    "provinceName": "Sulawesi Tengah",
+    "name": "Kabupaten Donggala",
+    "alias": "Donggala"
+  },
+  {
+    "code": "72.06",
+    "regencyCode": "06",
+    "provinceCode": "72",
+    "provinceName": "Sulawesi Tengah",
+    "name": "Kabupaten Toli Toli",
+    "alias": "Toli Toli"
+  },
+  {
+    "code": "72.07",
+    "regencyCode": "07",
+    "provinceCode": "72",
+    "provinceName": "Sulawesi Tengah",
+    "name": "Kabupaten Buol",
+    "alias": "Buol"
+  },
+  {
+    "code": "72.08",
+    "regencyCode": "08",
+    "provinceCode": "72",
+    "provinceName": "Sulawesi Tengah",
+    "name": "Kabupaten Parigi Moutong",
+    "alias": "Parigi Moutong"
+  },
+  {
+    "code": "72.09",
+    "regencyCode": "09",
+    "provinceCode": "72",
+    "provinceName": "Sulawesi Tengah",
+    "name": "Kabupaten Tojo Una Una",
+    "alias": "Tojo Una Una"
+  },
+  {
+    "code": "72.10",
+    "regencyCode": "10",
+    "provinceCode": "72",
+    "provinceName": "Sulawesi Tengah",
+    "name": "Kabupaten Sigi",
+    "alias": "Sigi"
+  },
+  {
+    "code": "72.11",
+    "regencyCode": "11",
+    "provinceCode": "72",
+    "provinceName": "Sulawesi Tengah",
+    "name": "Kabupaten Banggai Laut",
+    "alias": "Banggai Laut"
+  },
+  {
+    "code": "72.12",
+    "regencyCode": "12",
+    "provinceCode": "72",
+    "provinceName": "Sulawesi Tengah",
+    "name": "Kabupaten Morowali Utara",
+    "alias": "Morowali Utara"
+  },
+  {
+    "code": "72.71",
+    "regencyCode": "71",
+    "provinceCode": "72",
+    "provinceName": "Sulawesi Tengah",
+    "name": "Kota Palu",
+    "alias": "Palu"
+  }
+]

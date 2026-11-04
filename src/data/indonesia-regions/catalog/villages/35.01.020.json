@@ -1,0 +1,93 @@
+[
+  {
+    "code": "35.01.020.001",
+    "villageCode": "001",
+    "districtCode": "35.01.020",
+    "name": "Bomo",
+    "alias": "Bomo"
+  },
+  {
+    "code": "35.01.020.002",
+    "villageCode": "002",
+    "districtCode": "35.01.020",
+    "name": "Sooka",
+    "alias": "Sooka"
+  },
+  {
+    "code": "35.01.020.003",
+    "villageCode": "003",
+    "districtCode": "35.01.020",
+    "name": "Punung",
+    "alias": "Punung"
+  },
+  {
+    "code": "35.01.020.004",
+    "villageCode": "004",
+    "districtCode": "35.01.020",
+    "name": "Mendolo Kidul",
+    "alias": "Mendolo Kidul"
+  },
+  {
+    "code": "35.01.020.005",
+    "villageCode": "005",
+    "districtCode": "35.01.020",
+    "name": "Mendolo Lor",
+    "alias": "Mendolo Lor"
+  },
+  {
+    "code": "35.01.020.006",
+    "villageCode": "006",
+    "districtCode": "35.01.020",
+    "name": "Kendal",
+    "alias": "Kendal"
+  },
+  {
+    "code": "35.01.020.007",
+    "villageCode": "007",
+    "districtCode": "35.01.020",
+    "name": "Piton",
+    "alias": "Piton"
+  },
+  {
+    "code": "35.01.020.008",
+    "villageCode": "008",
+    "districtCode": "35.01.020",
+    "name": "Wareng",
+    "alias": "Wareng"
+  },
+  {
+    "code": "35.01.020.009",
+    "villageCode": "009",
+    "districtCode": "35.01.020",
+    "name": "Mantren",
+    "alias": "Mantren"
+  },
+  {
+    "code": "35.01.020.010",
+    "villageCode": "010",
+    "districtCode": "35.01.020",
+    "name": "Ploso",
+    "alias": "Ploso"
+  },
+  {
+    "code": "35.01.020.011",
+    "villageCode": "011",
+    "districtCode": "35.01.020",
+    "name": "Gondosari",
+    "alias": "Gondosari"
+  },
+  {
+    "code": "35.01.020.012",
+    "villageCode": "012",
+    "districtCode": "35.01.020",
+    "name": "Tinatar",
+    "alias": "Tinatar"
+  },
+  {
+    "code": "35.01.020.013",
+    "villageCode": "013",
+    "districtCode": "35.01.020",
+    "name": "Kebonsari",
+    "alias": "Kebonsari"
+  }
+]

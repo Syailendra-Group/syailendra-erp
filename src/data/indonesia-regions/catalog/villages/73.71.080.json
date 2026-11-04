@@ -1,0 +1,65 @@
+[
+  {
+    "code": "73.71.080.004",
+    "villageCode": "004",
+    "districtCode": "73.71.080",
+    "name": "Ujung Tanah",
+    "alias": "Ujung Tanah"
+  },
+  {
+    "code": "73.71.080.005",
+    "villageCode": "005",
+    "districtCode": "73.71.080",
+    "name": "Tamalabba",
+    "alias": "Tamalabba"
+  },
+  {
+    "code": "73.71.080.006",
+    "villageCode": "006",
+    "districtCode": "73.71.080",
+    "name": "Tabaringan",
+    "alias": "Tabaringan"
+  },
+  {
+    "code": "73.71.080.007",
+    "villageCode": "007",
+    "districtCode": "73.71.080",
+    "name": "Totaka",
+    "alias": "Totaka"
+  },
+  {
+    "code": "73.71.080.008",
+    "villageCode": "008",
+    "districtCode": "73.71.080",
+    "name": "Pattingalloang",
+    "alias": "Pattingalloang"
+  },
+  {
+    "code": "73.71.080.009",
+    "villageCode": "009",
+    "districtCode": "73.71.080",
+    "name": "Gusung",
+    "alias": "Gusung"
+  },
+  {
+    "code": "73.71.080.010",
+    "villageCode": "010",
+    "districtCode": "73.71.080",
+    "name": "Pattingalloang Baru",
+    "alias": "Pattingalloang Baru"
+  },
+  {
+    "code": "73.71.080.011",
+    "villageCode": "011",
+    "districtCode": "73.71.080",
+    "name": "Camba Berua",
+    "alias": "Camba Berua"
+  },
+  {
+    "code": "73.71.080.012",
+    "villageCode": "012",
+    "districtCode": "73.71.080",
+    "name": "Cambaya",
+    "alias": "Cambaya"
+  }
+]

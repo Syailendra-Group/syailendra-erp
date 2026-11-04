@@ -1,0 +1,79 @@
+[
+  {
+    "code": "73.71.030.001",
+    "villageCode": "001",
+    "districtCode": "73.71.030",
+    "name": "Barombong",
+    "alias": "Barombong"
+  },
+  {
+    "code": "73.71.030.002",
+    "villageCode": "002",
+    "districtCode": "73.71.030",
+    "name": "Tanjung Merdeka",
+    "alias": "Tanjung Merdeka"
+  },
+  {
+    "code": "73.71.030.003",
+    "villageCode": "003",
+    "districtCode": "73.71.030",
+    "name": "Maccini Sombala",
+    "alias": "Maccini Sombala"
+  },
+  {
+    "code": "73.71.030.004",
+    "villageCode": "004",
+    "districtCode": "73.71.030",
+    "name": "Balang Baru",
+    "alias": "Balang Baru"
+  },
+  {
+    "code": "73.71.030.005",
+    "villageCode": "005",
+    "districtCode": "73.71.030",
+    "name": "Jongaya",
+    "alias": "Jongaya"
+  },
+  {
+    "code": "73.71.030.006",
+    "villageCode": "006",
+    "districtCode": "73.71.030",
+    "name": "Bongaya",
+    "alias": "Bongaya"
+  },
+  {
+    "code": "73.71.030.007",
+    "villageCode": "007",
+    "districtCode": "73.71.030",
+    "name": "Pa Baeng-Baeng",
+    "alias": "Pa Baeng-Baeng"
+  },
+  {
+    "code": "73.71.030.008",
+    "villageCode": "008",
+    "districtCode": "73.71.030",
+    "name": "Mannuruki",
+    "alias": "Mannuruki"
+  },
+  {
+    "code": "73.71.030.009",
+    "villageCode": "009",
+    "districtCode": "73.71.030",
+    "name": "Parang Tambung",
+    "alias": "Parang Tambung"
+  },
+  {
+    "code": "73.71.030.010",
+    "villageCode": "010",
+    "districtCode": "73.71.030",
+    "name": "Mangasa",
+    "alias": "Mangasa"
+  },
+  {
+    "code": "73.71.030.011",
+    "villageCode": "011",
+    "districtCode": "73.71.030",
+    "name": "Bonto Duri",
+    "alias": "Bonto Duri"
+  }
+]

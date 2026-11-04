@@ -1,0 +1,65 @@
+[
+  {
+    "code": "53.10.050.005",
+    "villageCode": "005",
+    "districtCode": "53.10.050",
+    "name": "Umagera",
+    "alias": "Umagera"
+  },
+  {
+    "code": "53.10.050.006",
+    "villageCode": "006",
+    "districtCode": "53.10.050",
+    "name": "Ian Tena",
+    "alias": "Ian Tena"
+  },
+  {
+    "code": "53.10.050.007",
+    "villageCode": "007",
+    "districtCode": "53.10.050",
+    "name": "Kopong",
+    "alias": "Kopong"
+  },
+  {
+    "code": "53.10.050.008",
+    "villageCode": "008",
+    "districtCode": "53.10.050",
+    "name": "Seusina",
+    "alias": "Seusina"
+  },
+  {
+    "code": "53.10.050.014",
+    "villageCode": "014",
+    "districtCode": "53.10.050",
+    "name": "Namangkewa",
+    "alias": "Namangkewa"
+  },
+  {
+    "code": "53.10.050.022",
+    "villageCode": "022",
+    "districtCode": "53.10.050",
+    "name": "Waiara",
+    "alias": "Waiara"
+  },
+  {
+    "code": "53.10.050.023",
+    "villageCode": "023",
+    "districtCode": "53.10.050",
+    "name": "Geliting",
+    "alias": "Geliting"
+  },
+  {
+    "code": "53.10.050.024",
+    "villageCode": "024",
+    "districtCode": "53.10.050",
+    "name": "Wairkoja",
+    "alias": "Wairkoja"
+  },
+  {
+    "code": "53.10.050.025",
+    "villageCode": "025",
+    "districtCode": "53.10.050",
+    "name": "Watukobu",
+    "alias": "Watukobu"
+  }
+]

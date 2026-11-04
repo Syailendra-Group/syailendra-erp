@@ -1,0 +1,51 @@
+[
+  {
+    "code": "16.71.080.002",
+    "villageCode": "002",
+    "districtCode": "16.71.080",
+    "name": "Sukabangun",
+    "alias": "Sukabangun"
+  },
+  {
+    "code": "16.71.080.003",
+    "villageCode": "003",
+    "districtCode": "16.71.080",
+    "name": "Sukajaya",
+    "alias": "Sukajaya"
+  },
+  {
+    "code": "16.71.080.004",
+    "villageCode": "004",
+    "districtCode": "16.71.080",
+    "name": "Sukarami",
+    "alias": "Sukarami"
+  },
+  {
+    "code": "16.71.080.008",
+    "villageCode": "008",
+    "districtCode": "16.71.080",
+    "name": "Kebunbunga",
+    "alias": "Kebunbunga"
+  },
+  {
+    "code": "16.71.080.009",
+    "villageCode": "009",
+    "districtCode": "16.71.080",
+    "name": "Talangbetutu",
+    "alias": "Talangbetutu"
+  },
+  {
+    "code": "16.71.080.010",
+    "villageCode": "010",
+    "districtCode": "16.71.080",
+    "name": "Sukodadi",
+    "alias": "Sukodadi"
+  },
+  {
+    "code": "16.71.080.011",
+    "villageCode": "011",
+    "districtCode": "16.71.080",
+    "name": "Talangjambe",
+    "alias": "Talangjambe"
+  }
+]

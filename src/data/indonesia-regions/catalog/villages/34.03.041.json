@@ -1,0 +1,37 @@
+[
+  {
+    "code": "34.03.041.001",
+    "villageCode": "001",
+    "districtCode": "34.03.041",
+    "name": "Kemadang",
+    "alias": "Kemadang"
+  },
+  {
+    "code": "34.03.041.002",
+    "villageCode": "002",
+    "districtCode": "34.03.041",
+    "name": "Kemiri",
+    "alias": "Kemiri"
+  },
+  {
+    "code": "34.03.041.003",
+    "villageCode": "003",
+    "districtCode": "34.03.041",
+    "name": "Banjarejo",
+    "alias": "Banjarejo"
+  },
+  {
+    "code": "34.03.041.004",
+    "villageCode": "004",
+    "districtCode": "34.03.041",
+    "name": "Ngestirejo",
+    "alias": "Ngestirejo"
+  },
+  {
+    "code": "34.03.041.005",
+    "villageCode": "005",
+    "districtCode": "34.03.041",
+    "name": "Hargosari",
+    "alias": "Hargosari"
+  }
+]

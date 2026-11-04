@@ -1,0 +1,44 @@
+[
+  {
+    "code": "36.01.060.007",
+    "villageCode": "007",
+    "districtCode": "36.01.060",
+    "name": "Mekarjaya",
+    "alias": "Mekarjaya"
+  },
+  {
+    "code": "36.01.060.008",
+    "villageCode": "008",
+    "districtCode": "36.01.060",
+    "name": "Gombong",
+    "alias": "Gombong"
+  },
+  {
+    "code": "36.01.060.009",
+    "villageCode": "009",
+    "districtCode": "36.01.060",
+    "name": "Panimbangjaya",
+    "alias": "Panimbangjaya"
+  },
+  {
+    "code": "36.01.060.010",
+    "villageCode": "010",
+    "districtCode": "36.01.060",
+    "name": "Mekarsari",
+    "alias": "Mekarsari"
+  },
+  {
+    "code": "36.01.060.011",
+    "villageCode": "011",
+    "districtCode": "36.01.060",
+    "name": "Citeureup",
+    "alias": "Citeureup"
+  },
+  {
+    "code": "36.01.060.012",
+    "villageCode": "012",
+    "districtCode": "36.01.060",
+    "name": "Tanjungjaya",
+    "alias": "Tanjungjaya"
+  }
+]

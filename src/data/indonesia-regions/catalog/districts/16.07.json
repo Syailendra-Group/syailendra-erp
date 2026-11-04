@@ -1,0 +1,170 @@
+[
+  {
+    "code": "16.07.010",
+    "districtCode": "010",
+    "regencyCode": "16.07",
+    "provinceCode": "16",
+    "name": "Kecamatan Rantau Bayur",
+    "alias": "Rantau Bayur"
+  },
+  {
+    "code": "16.07.020",
+    "districtCode": "020",
+    "regencyCode": "16.07",
+    "provinceCode": "16",
+    "name": "Kecamatan Betung",
+    "alias": "Betung"
+  },
+  {
+    "code": "16.07.021",
+    "districtCode": "021",
+    "regencyCode": "16.07",
+    "provinceCode": "16",
+    "name": "Kecamatan Suak Tapeh",
+    "alias": "Suak Tapeh"
+  },
+  {
+    "code": "16.07.030",
+    "districtCode": "030",
+    "regencyCode": "16.07",
+    "provinceCode": "16",
+    "name": "Kecamatan Pulau Rimau",
+    "alias": "Pulau Rimau"
+  },
+  {
+    "code": "16.07.031",
+    "districtCode": "031",
+    "regencyCode": "16.07",
+    "provinceCode": "16",
+    "name": "Kecamatan Tungkal Ilir",
+    "alias": "Tungkal Ilir"
+  },
+  {
+    "code": "16.07.032",
+    "districtCode": "032",
+    "regencyCode": "16.07",
+    "provinceCode": "16",
+    "name": "Kecamatan Selat Penuguan",
+    "alias": "Selat Penuguan"
+  },
+  {
+    "code": "16.07.040",
+    "districtCode": "040",
+    "regencyCode": "16.07",
+    "provinceCode": "16",
+    "name": "Kecamatan Banyuasin Iii",
+    "alias": "Banyuasin Iii"
+  },
+  {
+    "code": "16.07.041",
+    "districtCode": "041",
+    "regencyCode": "16.07",
+    "provinceCode": "16",
+    "name": "Kecamatan Sembawa",
+    "alias": "Sembawa"
+  },
+  {
+    "code": "16.07.050",
+    "districtCode": "050",
+    "regencyCode": "16.07",
+    "provinceCode": "16",
+    "name": "Kecamatan Talang Kelapa",
+    "alias": "Talang Kelapa"
+  },
+  {
+    "code": "16.07.051",
+    "districtCode": "051",
+    "regencyCode": "16.07",
+    "provinceCode": "16",
+    "name": "Kecamatan Tanjung Lago",
+    "alias": "Tanjung Lago"
+  },
+  {
+    "code": "16.07.060",
+    "districtCode": "060",
+    "regencyCode": "16.07",
+    "provinceCode": "16",
+    "name": "Kecamatan Banyuasin I",
+    "alias": "Banyuasin I"
+  },
+  {
+    "code": "16.07.061",
+    "districtCode": "061",
+    "regencyCode": "16.07",
+    "provinceCode": "16",
+    "name": "Kecamatan Air Kumbang",
+    "alias": "Air Kumbang"
+  },
+  {
+    "code": "16.07.070",
+    "districtCode": "070",
+    "regencyCode": "16.07",
+    "provinceCode": "16",
+    "name": "Kecamatan Rambutan",
+    "alias": "Rambutan"
+  },
+  {
+    "code": "16.07.080",
+    "districtCode": "080",
+    "regencyCode": "16.07",
+    "provinceCode": "16",
+    "name": "Kecamatan Muara Padang",
+    "alias": "Muara Padang"
+  },
+  {
+    "code": "16.07.081",
+    "districtCode": "081",
+    "regencyCode": "16.07",
+    "provinceCode": "16",
+    "name": "Kecamatan Muara Sugihan",
+    "alias": "Muara Sugihan"
+  },
+  {
+    "code": "16.07.090",
+    "districtCode": "090",
+    "regencyCode": "16.07",
+    "provinceCode": "16",
+    "name": "Kecamatan Makarti Jaya",
+    "alias": "Makarti Jaya"
+  },
+  {
+    "code": "16.07.091",
+    "districtCode": "091",
+    "regencyCode": "16.07",
+    "provinceCode": "16",
+    "name": "Kecamatan Air Salek",
+    "alias": "Air Salek"
+  },
+  {
+    "code": "16.07.100",
+    "districtCode": "100",
+    "regencyCode": "16.07",
+    "provinceCode": "16",
+    "name": "Kecamatan Banyuasin Ii",
+    "alias": "Banyuasin Ii"
+  },
+  {
+    "code": "16.07.101",
+    "districtCode": "101",
+    "regencyCode": "16.07",
+    "provinceCode": "16",
+    "name": "Kecamatan Karang Agung Ilir",
+    "alias": "Karang Agung Ilir"
+  },
+  {
+    "code": "16.07.110",
+    "districtCode": "110",
+    "regencyCode": "16.07",
+    "provinceCode": "16",
+    "name": "Kecamatan Muara Telang",
+    "alias": "Muara Telang"
+  },
+  {
+    "code": "16.07.111",
+    "districtCode": "111",
+    "regencyCode": "16.07",
+    "provinceCode": "16",
+    "name": "Kecamatan Sumber Marga Telang",
+    "alias": "Sumber Marga Telang"
+  }
+]

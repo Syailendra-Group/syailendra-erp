@@ -1,0 +1,93 @@
+[
+  {
+    "code": "12.13.120.001",
+    "villageCode": "001",
+    "districtCode": "12.13.120",
+    "name": "Perkebunan Tanjung Beringin",
+    "alias": "Perkebunan Tanjung Beringin"
+  },
+  {
+    "code": "12.13.120.002",
+    "villageCode": "002",
+    "districtCode": "12.13.120",
+    "name": "Sukajadi",
+    "alias": "Sukajadi"
+  },
+  {
+    "code": "12.13.120.003",
+    "villageCode": "003",
+    "districtCode": "12.13.120",
+    "name": "Baru Pasar 8",
+    "alias": "Baru Pasar 8"
+  },
+  {
+    "code": "12.13.120.004",
+    "villageCode": "004",
+    "districtCode": "12.13.120",
+    "name": "Paya Rengas",
+    "alias": "Paya Rengas"
+  },
+  {
+    "code": "12.13.120.005",
+    "villageCode": "005",
+    "districtCode": "12.13.120",
+    "name": "Hinai Kanan",
+    "alias": "Hinai Kanan"
+  },
+  {
+    "code": "12.13.120.006",
+    "villageCode": "006",
+    "districtCode": "12.13.120",
+    "name": "Sukadamai",
+    "alias": "Sukadamai"
+  },
+  {
+    "code": "12.13.120.007",
+    "villageCode": "007",
+    "districtCode": "12.13.120",
+    "name": "Kebun Lada",
+    "alias": "Kebun Lada"
+  },
+  {
+    "code": "12.13.120.008",
+    "villageCode": "008",
+    "districtCode": "12.13.120",
+    "name": "Tanjung Mulia",
+    "alias": "Tanjung Mulia"
+  },
+  {
+    "code": "12.13.120.009",
+    "villageCode": "009",
+    "districtCode": "12.13.120",
+    "name": "Muka Paya",
+    "alias": "Muka Paya"
+  },
+  {
+    "code": "12.13.120.010",
+    "villageCode": "010",
+    "districtCode": "12.13.120",
+    "name": "Cempa",
+    "alias": "Cempa"
+  },
+  {
+    "code": "12.13.120.011",
+    "villageCode": "011",
+    "districtCode": "12.13.120",
+    "name": "Batu Malenggang",
+    "alias": "Batu Malenggang"
+  },
+  {
+    "code": "12.13.120.012",
+    "villageCode": "012",
+    "districtCode": "12.13.120",
+    "name": "Tamaran",
+    "alias": "Tamaran"
+  },
+  {
+    "code": "12.13.120.013",
+    "villageCode": "013",
+    "districtCode": "12.13.120",
+    "name": "Suka Damai Timur",
+    "alias": "Suka Damai Timur"
+  }
+]

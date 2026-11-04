@@ -1,0 +1,58 @@
+[
+  {
+    "code": "53.06.050.001",
+    "villageCode": "001",
+    "districtCode": "53.06.050",
+    "name": "Rinbesihat",
+    "alias": "Rinbesihat"
+  },
+  {
+    "code": "53.06.050.002",
+    "villageCode": "002",
+    "districtCode": "53.06.050",
+    "name": "Naitimu",
+    "alias": "Naitimu"
+  },
+  {
+    "code": "53.06.050.004",
+    "villageCode": "004",
+    "districtCode": "53.06.050",
+    "name": "Lawalutolus",
+    "alias": "Lawalutolus"
+  },
+  {
+    "code": "53.06.050.008",
+    "villageCode": "008",
+    "districtCode": "53.06.050",
+    "name": "Lookeu",
+    "alias": "Lookeu"
+  },
+  {
+    "code": "53.06.050.009",
+    "villageCode": "009",
+    "districtCode": "53.06.050",
+    "name": "Derok Faturene",
+    "alias": "Derok Faturene"
+  },
+  {
+    "code": "53.06.050.010",
+    "villageCode": "010",
+    "districtCode": "53.06.050",
+    "name": "Bakustulama",
+    "alias": "Bakustulama"
+  },
+  {
+    "code": "53.06.050.011",
+    "villageCode": "011",
+    "districtCode": "53.06.050",
+    "name": "Naekasa",
+    "alias": "Naekasa"
+  },
+  {
+    "code": "53.06.050.012",
+    "villageCode": "012",
+    "districtCode": "53.06.050",
+    "name": "Tukuneno",
+    "alias": "Tukuneno"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "code": "31.74.070.001",
+    "villageCode": "001",
+    "districtCode": "31.74.070",
+    "name": "Duri Kosambi",
+    "alias": "Duri Kosambi"
+  },
+  {
+    "code": "31.74.070.002",
+    "villageCode": "002",
+    "districtCode": "31.74.070",
+    "name": "Rawa Buaya",
+    "alias": "Rawa Buaya"
+  },
+  {
+    "code": "31.74.070.003",
+    "villageCode": "003",
+    "districtCode": "31.74.070",
+    "name": "Kedaung Kali Angke",
+    "alias": "Kedaung Kali Angke"
+  },
+  {
+    "code": "31.74.070.004",
+    "villageCode": "004",
+    "districtCode": "31.74.070",
+    "name": "Kapuk",
+    "alias": "Kapuk"
+  },
+  {
+    "code": "31.74.070.005",
+    "villageCode": "005",
+    "districtCode": "31.74.070",
+    "name": "Cengkareng Timur",
+    "alias": "Cengkareng Timur"
+  },
+  {
+    "code": "31.74.070.006",
+    "villageCode": "006",
+    "districtCode": "31.74.070",
+    "name": "Cengkareng Barat",
+    "alias": "Cengkareng Barat"
+  }
+]

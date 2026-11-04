@@ -1,0 +1,23 @@
+[
+  {
+    "code": "34.02.040.001",
+    "villageCode": "001",
+    "districtCode": "34.02.040",
+    "name": "Seloharjo",
+    "alias": "Seloharjo"
+  },
+  {
+    "code": "34.02.040.002",
+    "villageCode": "002",
+    "districtCode": "34.02.040",
+    "name": "Panjangrejo",
+    "alias": "Panjangrejo"
+  },
+  {
+    "code": "34.02.040.003",
+    "villageCode": "003",
+    "districtCode": "34.02.040",
+    "name": "Srihardono",
+    "alias": "Srihardono"
+  }
+]

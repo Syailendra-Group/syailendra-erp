@@ -1,0 +1,65 @@
+[
+  {
+    "code": "36.04.061.001",
+    "villageCode": "001",
+    "districtCode": "36.04.061",
+    "name": "Panunggulan",
+    "alias": "Panunggulan"
+  },
+  {
+    "code": "36.04.061.002",
+    "villageCode": "002",
+    "districtCode": "36.04.061",
+    "name": "Sukasari",
+    "alias": "Sukasari"
+  },
+  {
+    "code": "36.04.061.003",
+    "villageCode": "003",
+    "districtCode": "36.04.061",
+    "name": "Bojong Menteng",
+    "alias": "Bojong Menteng"
+  },
+  {
+    "code": "36.04.061.004",
+    "villageCode": "004",
+    "districtCode": "36.04.061",
+    "name": "Kamuning",
+    "alias": "Kamuning"
+  },
+  {
+    "code": "36.04.061.005",
+    "villageCode": "005",
+    "districtCode": "36.04.061",
+    "name": "Bojong Pandan",
+    "alias": "Bojong Pandan"
+  },
+  {
+    "code": "36.04.061.006",
+    "villageCode": "006",
+    "districtCode": "36.04.061",
+    "name": "Bojong Catang",
+    "alias": "Bojong Catang"
+  },
+  {
+    "code": "36.04.061.007",
+    "villageCode": "007",
+    "districtCode": "36.04.061",
+    "name": "Malanggah",
+    "alias": "Malanggah"
+  },
+  {
+    "code": "36.04.061.008",
+    "villageCode": "008",
+    "districtCode": "36.04.061",
+    "name": "Tunjung Jaya",
+    "alias": "Tunjung Jaya"
+  },
+  {
+    "code": "36.04.061.009",
+    "villageCode": "009",
+    "districtCode": "36.04.061",
+    "name": "Pancaregang",
+    "alias": "Pancaregang"
+  }
+]

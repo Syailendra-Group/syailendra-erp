@@ -1,0 +1,86 @@
+[
+  {
+    "code": "82.04.082.001",
+    "villageCode": "001",
+    "districtCode": "82.04.082",
+    "name": "Boso",
+    "alias": "Boso"
+  },
+  {
+    "code": "82.04.082.002",
+    "villageCode": "002",
+    "districtCode": "82.04.082",
+    "name": "Jikolamo",
+    "alias": "Jikolamo"
+  },
+  {
+    "code": "82.04.082.003",
+    "villageCode": "003",
+    "districtCode": "82.04.082",
+    "name": "Dolik",
+    "alias": "Dolik"
+  },
+  {
+    "code": "82.04.082.004",
+    "villageCode": "004",
+    "districtCode": "82.04.082",
+    "name": "Suka Damai",
+    "alias": "Suka Damai"
+  },
+  {
+    "code": "82.04.082.005",
+    "villageCode": "005",
+    "districtCode": "82.04.082",
+    "name": "Tokaka",
+    "alias": "Tokaka"
+  },
+  {
+    "code": "82.04.082.006",
+    "villageCode": "006",
+    "districtCode": "82.04.082",
+    "name": "Nurjihat",
+    "alias": "Nurjihat"
+  },
+  {
+    "code": "82.04.082.007",
+    "villageCode": "007",
+    "districtCode": "82.04.082",
+    "name": "Moloku",
+    "alias": "Moloku"
+  },
+  {
+    "code": "82.04.082.008",
+    "villageCode": "008",
+    "districtCode": "82.04.082",
+    "name": "Samo",
+    "alias": "Samo"
+  },
+  {
+    "code": "82.04.082.009",
+    "villageCode": "009",
+    "districtCode": "82.04.082",
+    "name": "Samat",
+    "alias": "Samat"
+  },
+  {
+    "code": "82.04.082.010",
+    "villageCode": "010",
+    "districtCode": "82.04.082",
+    "name": "Posi Posi",
+    "alias": "Posi Posi"
+  },
+  {
+    "code": "82.04.082.011",
+    "villageCode": "011",
+    "districtCode": "82.04.082",
+    "name": "Gumira",
+    "alias": "Gumira"
+  },
+  {
+    "code": "82.04.082.012",
+    "villageCode": "012",
+    "districtCode": "82.04.082",
+    "name": "Batulak",
+    "alias": "Batulak"
+  }
+]

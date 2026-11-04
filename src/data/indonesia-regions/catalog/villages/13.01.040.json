@@ -1,0 +1,44 @@
+[
+  {
+    "code": "13.01.040.003",
+    "villageCode": "003",
+    "districtCode": "13.01.040",
+    "name": "Sirilogui",
+    "alias": "Sirilogui"
+  },
+  {
+    "code": "13.01.040.004",
+    "villageCode": "004",
+    "districtCode": "13.01.040",
+    "name": "Muara Sikabaluan",
+    "alias": "Muara Sikabaluan"
+  },
+  {
+    "code": "13.01.040.005",
+    "villageCode": "005",
+    "districtCode": "13.01.040",
+    "name": "Mongan Poula",
+    "alias": "Mongan Poula"
+  },
+  {
+    "code": "13.01.040.006",
+    "villageCode": "006",
+    "districtCode": "13.01.040",
+    "name": "Sotboyak",
+    "alias": "Sotboyak"
+  },
+  {
+    "code": "13.01.040.007",
+    "villageCode": "007",
+    "districtCode": "13.01.040",
+    "name": "Bojakan",
+    "alias": "Bojakan"
+  },
+  {
+    "code": "13.01.040.009",
+    "villageCode": "009",
+    "districtCode": "13.01.040",
+    "name": "Malancan",
+    "alias": "Malancan"
+  }
+]

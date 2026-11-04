@@ -1,0 +1,72 @@
+[
+  {
+    "code": "17.03.054.001",
+    "villageCode": "001",
+    "districtCode": "17.03.054",
+    "name": "Lubuk Sematung",
+    "alias": "Lubuk Sematung"
+  },
+  {
+    "code": "17.03.054.002",
+    "villageCode": "002",
+    "districtCode": "17.03.054",
+    "name": "Ketapi",
+    "alias": "Ketapi"
+  },
+  {
+    "code": "17.03.054.003",
+    "villageCode": "003",
+    "districtCode": "17.03.054",
+    "name": "Sawang Lebar",
+    "alias": "Sawang Lebar"
+  },
+  {
+    "code": "17.03.054.004",
+    "villageCode": "004",
+    "districtCode": "17.03.054",
+    "name": "Lubuk Gading",
+    "alias": "Lubuk Gading"
+  },
+  {
+    "code": "17.03.054.005",
+    "villageCode": "005",
+    "districtCode": "17.03.054",
+    "name": "Sawang Lebar Ilir",
+    "alias": "Sawang Lebar Ilir"
+  },
+  {
+    "code": "17.03.054.006",
+    "villageCode": "006",
+    "districtCode": "17.03.054",
+    "name": "Lubuk Pendam",
+    "alias": "Lubuk Pendam"
+  },
+  {
+    "code": "17.03.054.007",
+    "villageCode": "007",
+    "districtCode": "17.03.054",
+    "name": "Alunddua",
+    "alias": "Alunddua"
+  },
+  {
+    "code": "17.03.054.008",
+    "villageCode": "008",
+    "districtCode": "17.03.054",
+    "name": "Sengkuang",
+    "alias": "Sengkuang"
+  },
+  {
+    "code": "17.03.054.009",
+    "villageCode": "009",
+    "districtCode": "17.03.054",
+    "name": "Tanjung Agung",
+    "alias": "Tanjung Agung"
+  },
+  {
+    "code": "17.03.054.010",
+    "villageCode": "010",
+    "districtCode": "17.03.054",
+    "name": "Padang Sepan",
+    "alias": "Padang Sepan"
+  }
+]

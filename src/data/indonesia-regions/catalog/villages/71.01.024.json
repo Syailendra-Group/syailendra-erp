@@ -1,0 +1,72 @@
+[
+  {
+    "code": "71.01.024.001",
+    "villageCode": "001",
+    "districtCode": "71.01.024",
+    "name": "Kosio",
+    "alias": "Kosio"
+  },
+  {
+    "code": "71.01.024.002",
+    "villageCode": "002",
+    "districtCode": "71.01.024",
+    "name": "Kinomaligan",
+    "alias": "Kinomaligan"
+  },
+  {
+    "code": "71.01.024.003",
+    "villageCode": "003",
+    "districtCode": "71.01.024",
+    "name": "Ibolian",
+    "alias": "Ibolian"
+  },
+  {
+    "code": "71.01.024.004",
+    "villageCode": "004",
+    "districtCode": "71.01.024",
+    "name": "Ibolian I",
+    "alias": "Ibolian I"
+  },
+  {
+    "code": "71.01.024.005",
+    "villageCode": "005",
+    "districtCode": "71.01.024",
+    "name": "Werdhi Agung",
+    "alias": "Werdhi Agung"
+  },
+  {
+    "code": "71.01.024.006",
+    "villageCode": "006",
+    "districtCode": "71.01.024",
+    "name": "Werdhi Agung Timur",
+    "alias": "Werdhi Agung Timur"
+  },
+  {
+    "code": "71.01.024.007",
+    "villageCode": "007",
+    "districtCode": "71.01.024",
+    "name": "Werdhi Agung Utara",
+    "alias": "Werdhi Agung Utara"
+  },
+  {
+    "code": "71.01.024.008",
+    "villageCode": "008",
+    "districtCode": "71.01.024",
+    "name": "Werdhi Agung Selatan",
+    "alias": "Werdhi Agung Selatan"
+  },
+  {
+    "code": "71.01.024.009",
+    "villageCode": "009",
+    "districtCode": "71.01.024",
+    "name": "Kosio Timur",
+    "alias": "Kosio Timur"
+  },
+  {
+    "code": "71.01.024.010",
+    "villageCode": "010",
+    "districtCode": "71.01.024",
+    "name": "Kosio Barat",
+    "alias": "Kosio Barat"
+  }
+]

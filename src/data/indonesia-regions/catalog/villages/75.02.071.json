@@ -1,0 +1,72 @@
+[
+  {
+    "code": "75.02.071.001",
+    "villageCode": "001",
+    "districtCode": "75.02.071",
+    "name": "Padengo",
+    "alias": "Padengo"
+  },
+  {
+    "code": "75.02.071.002",
+    "villageCode": "002",
+    "districtCode": "75.02.071",
+    "name": "Hutabohu",
+    "alias": "Hutabohu"
+  },
+  {
+    "code": "75.02.071.003",
+    "villageCode": "003",
+    "districtCode": "75.02.071",
+    "name": "Yoosonegoro",
+    "alias": "Yoosonegoro"
+  },
+  {
+    "code": "75.02.071.004",
+    "villageCode": "004",
+    "districtCode": "75.02.071",
+    "name": "Tunggulo",
+    "alias": "Tunggulo"
+  },
+  {
+    "code": "75.02.071.005",
+    "villageCode": "005",
+    "districtCode": "75.02.071",
+    "name": "Pone",
+    "alias": "Pone"
+  },
+  {
+    "code": "75.02.071.006",
+    "villageCode": "006",
+    "districtCode": "75.02.071",
+    "name": "Huidu",
+    "alias": "Huidu"
+  },
+  {
+    "code": "75.02.071.007",
+    "villageCode": "007",
+    "districtCode": "75.02.071",
+    "name": "Ombulo",
+    "alias": "Ombulo"
+  },
+  {
+    "code": "75.02.071.008",
+    "villageCode": "008",
+    "districtCode": "75.02.071",
+    "name": "Daenaa",
+    "alias": "Daenaa"
+  },
+  {
+    "code": "75.02.071.009",
+    "villageCode": "009",
+    "districtCode": "75.02.071",
+    "name": "Huidu Utara",
+    "alias": "Huidu Utara"
+  },
+  {
+    "code": "75.02.071.010",
+    "villageCode": "010",
+    "districtCode": "75.02.071",
+    "name": "Haya-Haya",
+    "alias": "Haya-Haya"
+  }
+]

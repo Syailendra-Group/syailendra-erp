@@ -1,0 +1,51 @@
+[
+  {
+    "code": "34.03.020.001",
+    "villageCode": "001",
+    "districtCode": "34.03.020",
+    "name": "Karangduwet",
+    "alias": "Karangduwet"
+  },
+  {
+    "code": "34.03.020.002",
+    "villageCode": "002",
+    "districtCode": "34.03.020",
+    "name": "Karangasem",
+    "alias": "Karangasem"
+  },
+  {
+    "code": "34.03.020.003",
+    "villageCode": "003",
+    "districtCode": "34.03.020",
+    "name": "Mulusan",
+    "alias": "Mulusan"
+  },
+  {
+    "code": "34.03.020.004",
+    "villageCode": "004",
+    "districtCode": "34.03.020",
+    "name": "Giring",
+    "alias": "Giring"
+  },
+  {
+    "code": "34.03.020.005",
+    "villageCode": "005",
+    "districtCode": "34.03.020",
+    "name": "Sodo",
+    "alias": "Sodo"
+  },
+  {
+    "code": "34.03.020.006",
+    "villageCode": "006",
+    "districtCode": "34.03.020",
+    "name": "Pampang",
+    "alias": "Pampang"
+  },
+  {
+    "code": "34.03.020.007",
+    "villageCode": "007",
+    "districtCode": "34.03.020",
+    "name": "Grogol",
+    "alias": "Grogol"
+  }
+]

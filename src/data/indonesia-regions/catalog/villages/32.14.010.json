@@ -1,0 +1,72 @@
+[
+  {
+    "code": "32.14.010.006",
+    "villageCode": "006",
+    "districtCode": "32.14.010",
+    "name": "Jatimekar",
+    "alias": "Jatimekar"
+  },
+  {
+    "code": "32.14.010.007",
+    "villageCode": "007",
+    "districtCode": "32.14.010",
+    "name": "Cikaobandung",
+    "alias": "Cikaobandung"
+  },
+  {
+    "code": "32.14.010.008",
+    "villageCode": "008",
+    "districtCode": "32.14.010",
+    "name": "Jatiluhur",
+    "alias": "Jatiluhur"
+  },
+  {
+    "code": "32.14.010.009",
+    "villageCode": "009",
+    "districtCode": "32.14.010",
+    "name": "Cilegong",
+    "alias": "Cilegong"
+  },
+  {
+    "code": "32.14.010.010",
+    "villageCode": "010",
+    "districtCode": "32.14.010",
+    "name": "Kembangkuning",
+    "alias": "Kembangkuning"
+  },
+  {
+    "code": "32.14.010.011",
+    "villageCode": "011",
+    "districtCode": "32.14.010",
+    "name": "Cibinong",
+    "alias": "Cibinong"
+  },
+  {
+    "code": "32.14.010.015",
+    "villageCode": "015",
+    "districtCode": "32.14.010",
+    "name": "Parakanlima",
+    "alias": "Parakanlima"
+  },
+  {
+    "code": "32.14.010.016",
+    "villageCode": "016",
+    "districtCode": "32.14.010",
+    "name": "Cisalada",
+    "alias": "Cisalada"
+  },
+  {
+    "code": "32.14.010.017",
+    "villageCode": "017",
+    "districtCode": "32.14.010",
+    "name": "Mekargalih",
+    "alias": "Mekargalih"
+  },
+  {
+    "code": "32.14.010.018",
+    "villageCode": "018",
+    "districtCode": "32.14.010",
+    "name": "Bunder",
+    "alias": "Bunder"
+  }
+]

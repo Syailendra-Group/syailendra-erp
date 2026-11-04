@@ -1,0 +1,51 @@
+[
+  {
+    "code": "81.06.010.008",
+    "villageCode": "008",
+    "districtCode": "81.06.010",
+    "name": "Tahalupu",
+    "alias": "Tahalupu"
+  },
+  {
+    "code": "81.06.010.009",
+    "villageCode": "009",
+    "districtCode": "81.06.010",
+    "name": "Sole",
+    "alias": "Sole"
+  },
+  {
+    "code": "81.06.010.010",
+    "villageCode": "010",
+    "districtCode": "81.06.010",
+    "name": "Waesala",
+    "alias": "Waesala"
+  },
+  {
+    "code": "81.06.010.011",
+    "villageCode": "011",
+    "districtCode": "81.06.010",
+    "name": "Buano Selatan",
+    "alias": "Buano Selatan"
+  },
+  {
+    "code": "81.06.010.012",
+    "villageCode": "012",
+    "districtCode": "81.06.010",
+    "name": "Buano Utara",
+    "alias": "Buano Utara"
+  },
+  {
+    "code": "81.06.010.013",
+    "villageCode": "013",
+    "districtCode": "81.06.010",
+    "name": "Tonu Jaya",
+    "alias": "Tonu Jaya"
+  },
+  {
+    "code": "81.06.010.014",
+    "villageCode": "014",
+    "districtCode": "81.06.010",
+    "name": "Allang Asaude",
+    "alias": "Allang Asaude"
+  }
+]

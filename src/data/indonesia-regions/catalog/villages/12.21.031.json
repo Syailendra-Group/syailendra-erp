@@ -1,0 +1,79 @@
+[
+  {
+    "code": "12.21.031.001",
+    "villageCode": "001",
+    "districtCode": "12.21.031",
+    "name": "Panarian",
+    "alias": "Panarian"
+  },
+  {
+    "code": "12.21.031.002",
+    "villageCode": "002",
+    "districtCode": "12.21.031",
+    "name": "Sayur Mahincat",
+    "alias": "Sayur Mahincat"
+  },
+  {
+    "code": "12.21.031.003",
+    "villageCode": "003",
+    "districtCode": "12.21.031",
+    "name": "Gunung Barani",
+    "alias": "Gunung Barani"
+  },
+  {
+    "code": "12.21.031.004",
+    "villageCode": "004",
+    "districtCode": "12.21.031",
+    "name": "Gunung Intan",
+    "alias": "Gunung Intan"
+  },
+  {
+    "code": "12.21.031.005",
+    "villageCode": "005",
+    "districtCode": "12.21.031",
+    "name": "Banua Tonga",
+    "alias": "Banua Tonga"
+  },
+  {
+    "code": "12.21.031.006",
+    "villageCode": "006",
+    "districtCode": "12.21.031",
+    "name": "Batang Bulu Lama",
+    "alias": "Batang Bulu Lama"
+  },
+  {
+    "code": "12.21.031.007",
+    "villageCode": "007",
+    "districtCode": "12.21.031",
+    "name": "Batang Bulu Baru",
+    "alias": "Batang Bulu Baru"
+  },
+  {
+    "code": "12.21.031.008",
+    "villageCode": "008",
+    "districtCode": "12.21.031",
+    "name": "Tanjung Baringin Simarula",
+    "alias": "Tanjung Baringin Simarula"
+  },
+  {
+    "code": "12.21.031.009",
+    "villageCode": "009",
+    "districtCode": "12.21.031",
+    "name": "Pagur Satio",
+    "alias": "Pagur Satio"
+  },
+  {
+    "code": "12.21.031.010",
+    "villageCode": "010",
+    "districtCode": "12.21.031",
+    "name": "Sidomulio",
+    "alias": "Sidomulio"
+  },
+  {
+    "code": "12.21.031.011",
+    "villageCode": "011",
+    "districtCode": "12.21.031",
+    "name": "Tanjung Purbatua",
+    "alias": "Tanjung Purbatua"
+  }
+]

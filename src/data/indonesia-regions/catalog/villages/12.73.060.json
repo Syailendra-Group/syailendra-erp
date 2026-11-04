@@ -1,0 +1,51 @@
+[
+  {
+    "code": "12.73.060.005",
+    "villageCode": "005",
+    "districtCode": "12.73.060",
+    "name": "Sumber Jaya",
+    "alias": "Sumber Jaya"
+  },
+  {
+    "code": "12.73.060.006",
+    "villageCode": "006",
+    "districtCode": "12.73.060",
+    "name": "Naga Pita.",
+    "alias": "Naga Pita."
+  },
+  {
+    "code": "12.73.060.007",
+    "villageCode": "007",
+    "districtCode": "12.73.060",
+    "name": "Pondok Sayur",
+    "alias": "Pondok Sayur"
+  },
+  {
+    "code": "12.73.060.008",
+    "villageCode": "008",
+    "districtCode": "12.73.060",
+    "name": "Tambun Nabolon",
+    "alias": "Tambun Nabolon"
+  },
+  {
+    "code": "12.73.060.009",
+    "villageCode": "009",
+    "districtCode": "12.73.060",
+    "name": "Nagapitu",
+    "alias": "Nagapitu"
+  },
+  {
+    "code": "12.73.060.010",
+    "villageCode": "010",
+    "districtCode": "12.73.060",
+    "name": "Tanjung Pinggir",
+    "alias": "Tanjung Pinggir"
+  },
+  {
+    "code": "12.73.060.011",
+    "villageCode": "011",
+    "districtCode": "12.73.060",
+    "name": "Tanjung Tongah",
+    "alias": "Tanjung Tongah"
+  }
+]

@@ -1,0 +1,450 @@
+[
+  {
+    "code": "11.09.140.001",
+    "villageCode": "001",
+    "districtCode": "11.09.140",
+    "name": "Seunadeu Kunyet",
+    "alias": "Seunadeu Kunyet"
+  },
+  {
+    "code": "11.09.140.002",
+    "villageCode": "002",
+    "districtCode": "11.09.140",
+    "name": "Blang Gunci Kunyet",
+    "alias": "Blang Gunci Kunyet"
+  },
+  {
+    "code": "11.09.140.003",
+    "villageCode": "003",
+    "districtCode": "11.09.140",
+    "name": "Kambuek Nicah",
+    "alias": "Kambuek Nicah"
+  },
+  {
+    "code": "11.09.140.004",
+    "villageCode": "004",
+    "districtCode": "11.09.140",
+    "name": "Kambuek Payapi Kunyet",
+    "alias": "Kambuek Payapi Kunyet"
+  },
+  {
+    "code": "11.09.140.005",
+    "villageCode": "005",
+    "districtCode": "11.09.140",
+    "name": "Baro Kunyet",
+    "alias": "Baro Kunyet"
+  },
+  {
+    "code": "11.09.140.006",
+    "villageCode": "006",
+    "districtCode": "11.09.140",
+    "name": "Hagu Kunyet",
+    "alias": "Hagu Kunyet"
+  },
+  {
+    "code": "11.09.140.007",
+    "villageCode": "007",
+    "districtCode": "11.09.140",
+    "name": "Piala Kunyet",
+    "alias": "Piala Kunyet"
+  },
+  {
+    "code": "11.09.140.008",
+    "villageCode": "008",
+    "districtCode": "11.09.140",
+    "name": "Mesjid Kunyet",
+    "alias": "Mesjid Kunyet"
+  },
+  {
+    "code": "11.09.140.009",
+    "villageCode": "009",
+    "districtCode": "11.09.140",
+    "name": "Dayah Tanoh Kunyet",
+    "alias": "Dayah Tanoh Kunyet"
+  },
+  {
+    "code": "11.09.140.010",
+    "villageCode": "010",
+    "districtCode": "11.09.140",
+    "name": "Cot Kunyet",
+    "alias": "Cot Kunyet"
+  },
+  {
+    "code": "11.09.140.011",
+    "villageCode": "011",
+    "districtCode": "11.09.140",
+    "name": "Blang Geuleudieng",
+    "alias": "Blang Geuleudieng"
+  },
+  {
+    "code": "11.09.140.012",
+    "villageCode": "012",
+    "districtCode": "11.09.140",
+    "name": "Mesjid Geuleudieng",
+    "alias": "Mesjid Geuleudieng"
+  },
+  {
+    "code": "11.09.140.013",
+    "villageCode": "013",
+    "districtCode": "11.09.140",
+    "name": "Perlak Peudaya",
+    "alias": "Perlak Peudaya"
+  },
+  {
+    "code": "11.09.140.014",
+    "villageCode": "014",
+    "districtCode": "11.09.140",
+    "name": "Dayah Baroh Kunyet",
+    "alias": "Dayah Baroh Kunyet"
+  },
+  {
+    "code": "11.09.140.015",
+    "villageCode": "015",
+    "districtCode": "11.09.140",
+    "name": "Buni Reuling Peudaya",
+    "alias": "Buni Reuling Peudaya"
+  },
+  {
+    "code": "11.09.140.016",
+    "villageCode": "016",
+    "districtCode": "11.09.140",
+    "name": "Buloh Peudaya",
+    "alias": "Buloh Peudaya"
+  },
+  {
+    "code": "11.09.140.017",
+    "villageCode": "017",
+    "districtCode": "11.09.140",
+    "name": "Mesjid Peudaya",
+    "alias": "Mesjid Peudaya"
+  },
+  {
+    "code": "11.09.140.018",
+    "villageCode": "018",
+    "districtCode": "11.09.140",
+    "name": "Cut Peudaya",
+    "alias": "Cut Peudaya"
+  },
+  {
+    "code": "11.09.140.019",
+    "villageCode": "019",
+    "districtCode": "11.09.140",
+    "name": "Tunong Peudaya",
+    "alias": "Tunong Peudaya"
+  },
+  {
+    "code": "11.09.140.020",
+    "villageCode": "020",
+    "districtCode": "11.09.140",
+    "name": "Seukeun Peudaya",
+    "alias": "Seukeun Peudaya"
+  },
+  {
+    "code": "11.09.140.021",
+    "villageCode": "021",
+    "districtCode": "11.09.140",
+    "name": "Tuha Peudaya",
+    "alias": "Tuha Peudaya"
+  },
+  {
+    "code": "11.09.140.022",
+    "villageCode": "022",
+    "districtCode": "11.09.140",
+    "name": "Geulumpang Gld",
+    "alias": "Geulumpang Gld"
+  },
+  {
+    "code": "11.09.140.023",
+    "villageCode": "023",
+    "districtCode": "11.09.140",
+    "name": "Kreet Paloh",
+    "alias": "Kreet Paloh"
+  },
+  {
+    "code": "11.09.140.024",
+    "villageCode": "024",
+    "districtCode": "11.09.140",
+    "name": "Capa Paloh",
+    "alias": "Capa Paloh"
+  },
+  {
+    "code": "11.09.140.025",
+    "villageCode": "025",
+    "districtCode": "11.09.140",
+    "name": "Jurong Anoe",
+    "alias": "Jurong Anoe"
+  },
+  {
+    "code": "11.09.140.026",
+    "villageCode": "026",
+    "districtCode": "11.09.140",
+    "name": "Teugoh Peudaya",
+    "alias": "Teugoh Peudaya"
+  },
+  {
+    "code": "11.09.140.027",
+    "villageCode": "027",
+    "districtCode": "11.09.140",
+    "name": "Dayah Peudaya",
+    "alias": "Dayah Peudaya"
+  },
+  {
+    "code": "11.09.140.028",
+    "villageCode": "028",
+    "districtCode": "11.09.140",
+    "name": "Cut Paloh",
+    "alias": "Cut Paloh"
+  },
+  {
+    "code": "11.09.140.029",
+    "villageCode": "029",
+    "districtCode": "11.09.140",
+    "name": "Pante Cermen",
+    "alias": "Pante Cermen"
+  },
+  {
+    "code": "11.09.140.030",
+    "villageCode": "030",
+    "districtCode": "11.09.140",
+    "name": "Meuke Gogo",
+    "alias": "Meuke Gogo"
+  },
+  {
+    "code": "11.09.140.031",
+    "villageCode": "031",
+    "districtCode": "11.09.140",
+    "name": "Raya Gogo",
+    "alias": "Raya Gogo"
+  },
+  {
+    "code": "11.09.140.032",
+    "villageCode": "032",
+    "districtCode": "11.09.140",
+    "name": "Buloh Gogo",
+    "alias": "Buloh Gogo"
+  },
+  {
+    "code": "11.09.140.033",
+    "villageCode": "033",
+    "districtCode": "11.09.140",
+    "name": "Kumbang Gogo",
+    "alias": "Kumbang Gogo"
+  },
+  {
+    "code": "11.09.140.034",
+    "villageCode": "034",
+    "districtCode": "11.09.140",
+    "name": "Tuha Gogo",
+    "alias": "Tuha Gogo"
+  },
+  {
+    "code": "11.09.140.035",
+    "villageCode": "035",
+    "districtCode": "11.09.140",
+    "name": "Glee Gogo",
+    "alias": "Glee Gogo"
+  },
+  {
+    "code": "11.09.140.036",
+    "villageCode": "036",
+    "districtCode": "11.09.140",
+    "name": "Paloh Jeurat Beurabo",
+    "alias": "Paloh Jeurat Beurabo"
+  },
+  {
+    "code": "11.09.140.037",
+    "villageCode": "037",
+    "districtCode": "11.09.140",
+    "name": "Adang Beurabo",
+    "alias": "Adang Beurabo"
+  },
+  {
+    "code": "11.09.140.038",
+    "villageCode": "038",
+    "districtCode": "11.09.140",
+    "name": "Seuleungging Beurabo",
+    "alias": "Seuleungging Beurabo"
+  },
+  {
+    "code": "11.09.140.039",
+    "villageCode": "039",
+    "districtCode": "11.09.140",
+    "name": "Meuke Beurabo",
+    "alias": "Meuke Beurabo"
+  },
+  {
+    "code": "11.09.140.040",
+    "villageCode": "040",
+    "districtCode": "11.09.140",
+    "name": "Mesjid Beurabo",
+    "alias": "Mesjid Beurabo"
+  },
+  {
+    "code": "11.09.140.041",
+    "villageCode": "041",
+    "districtCode": "11.09.140",
+    "name": "Mesjid Gogo",
+    "alias": "Mesjid Gogo"
+  },
+  {
+    "code": "11.09.140.042",
+    "villageCode": "042",
+    "districtCode": "11.09.140",
+    "name": "Aron Bunot Gogo",
+    "alias": "Aron Bunot Gogo"
+  },
+  {
+    "code": "11.09.140.043",
+    "villageCode": "043",
+    "districtCode": "11.09.140",
+    "name": "Teungoh Drien Gogo",
+    "alias": "Teungoh Drien Gogo"
+  },
+  {
+    "code": "11.09.140.044",
+    "villageCode": "044",
+    "districtCode": "11.09.140",
+    "name": "Pasar Paloh",
+    "alias": "Pasar Paloh"
+  },
+  {
+    "code": "11.09.140.045",
+    "villageCode": "045",
+    "districtCode": "11.09.140",
+    "name": "Siron Paloh",
+    "alias": "Siron Paloh"
+  },
+  {
+    "code": "11.09.140.046",
+    "villageCode": "046",
+    "districtCode": "11.09.140",
+    "name": "Balee  Paloh",
+    "alias": "Balee  Paloh"
+  },
+  {
+    "code": "11.09.140.047",
+    "villageCode": "047",
+    "districtCode": "11.09.140",
+    "name": "Suyo Paloh",
+    "alias": "Suyo Paloh"
+  },
+  {
+    "code": "11.09.140.048",
+    "villageCode": "048",
+    "districtCode": "11.09.140",
+    "name": "Gampong Cot Paloh",
+    "alias": "Gampong Cot Paloh"
+  },
+  {
+    "code": "11.09.140.049",
+    "villageCode": "049",
+    "districtCode": "11.09.140",
+    "name": "Pulo Hagu Tanjung",
+    "alias": "Pulo Hagu Tanjung"
+  },
+  {
+    "code": "11.09.140.050",
+    "villageCode": "050",
+    "districtCode": "11.09.140",
+    "name": "Trieng Paloh",
+    "alias": "Trieng Paloh"
+  },
+  {
+    "code": "11.09.140.051",
+    "villageCode": "051",
+    "districtCode": "11.09.140",
+    "name": "Leuhob Paloh",
+    "alias": "Leuhob Paloh"
+  },
+  {
+    "code": "11.09.140.052",
+    "villageCode": "052",
+    "districtCode": "11.09.140",
+    "name": "Pante Crung Tanjong",
+    "alias": "Pante Crung Tanjong"
+  },
+  {
+    "code": "11.09.140.053",
+    "villageCode": "053",
+    "districtCode": "11.09.140",
+    "name": "Grong Grong Gogo",
+    "alias": "Grong Grong Gogo"
+  },
+  {
+    "code": "11.09.140.054",
+    "villageCode": "054",
+    "districtCode": "11.09.140",
+    "name": "Seukeum Brok  Beurabo",
+    "alias": "Seukeum Brok  Beurabo"
+  },
+  {
+    "code": "11.09.140.055",
+    "villageCode": "055",
+    "districtCode": "11.09.140",
+    "name": "Baro Beurabo",
+    "alias": "Baro Beurabo"
+  },
+  {
+    "code": "11.09.140.056",
+    "villageCode": "056",
+    "districtCode": "11.09.140",
+    "name": "Meuriya Tanjong",
+    "alias": "Meuriya Tanjong"
+  },
+  {
+    "code": "11.09.140.057",
+    "villageCode": "057",
+    "districtCode": "11.09.140",
+    "name": "Khang Tanjong",
+    "alias": "Khang Tanjong"
+  },
+  {
+    "code": "11.09.140.058",
+    "villageCode": "058",
+    "districtCode": "11.09.140",
+    "name": "Leun Tanjong",
+    "alias": "Leun Tanjong"
+  },
+  {
+    "code": "11.09.140.059",
+    "villageCode": "059",
+    "districtCode": "11.09.140",
+    "name": "Cot Ketapang Tanjong",
+    "alias": "Cot Ketapang Tanjong"
+  },
+  {
+    "code": "11.09.140.060",
+    "villageCode": "060",
+    "districtCode": "11.09.140",
+    "name": "Siron Tanjong",
+    "alias": "Siron Tanjong"
+  },
+  {
+    "code": "11.09.140.061",
+    "villageCode": "061",
+    "districtCode": "11.09.140",
+    "name": "Mesjid Tanjong",
+    "alias": "Mesjid Tanjong"
+  },
+  {
+    "code": "11.09.140.062",
+    "villageCode": "062",
+    "districtCode": "11.09.140",
+    "name": "Keupula Tanjong",
+    "alias": "Keupula Tanjong"
+  },
+  {
+    "code": "11.09.140.063",
+    "villageCode": "063",
+    "districtCode": "11.09.140",
+    "name": "Jok Tanjong",
+    "alias": "Jok Tanjong"
+  },
+  {
+    "code": "11.09.140.064",
+    "villageCode": "064",
+    "districtCode": "11.09.140",
+    "name": "Tunong Tanjong",
+    "alias": "Tunong Tanjong"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "code": "74.06.040.001",
+    "villageCode": "001",
+    "districtCode": "74.06.040",
+    "name": "Rau-Rau",
+    "alias": "Rau-Rau"
+  },
+  {
+    "code": "74.06.040.002",
+    "villageCode": "002",
+    "districtCode": "74.06.040",
+    "name": "Pangkuri",
+    "alias": "Pangkuri"
+  },
+  {
+    "code": "74.06.040.003",
+    "villageCode": "003",
+    "districtCode": "74.06.040",
+    "name": "Lakomea",
+    "alias": "Lakomea"
+  },
+  {
+    "code": "74.06.040.004",
+    "villageCode": "004",
+    "districtCode": "74.06.040",
+    "name": "Taubonto",
+    "alias": "Taubonto"
+  },
+  {
+    "code": "74.06.040.005",
+    "villageCode": "005",
+    "districtCode": "74.06.040",
+    "name": "Rarowatu",
+    "alias": "Rarowatu"
+  },
+  {
+    "code": "74.06.040.006",
+    "villageCode": "006",
+    "districtCode": "74.06.040",
+    "name": "Ladumpi",
+    "alias": "Ladumpi"
+  },
+  {
+    "code": "74.06.040.007",
+    "villageCode": "007",
+    "districtCode": "74.06.040",
+    "name": "Lampeantani",
+    "alias": "Lampeantani"
+  },
+  {
+    "code": "74.06.040.008",
+    "villageCode": "008",
+    "districtCode": "74.06.040",
+    "name": "Watu Kalangkari",
+    "alias": "Watu Kalangkari"
+  },
+  {
+    "code": "74.06.040.009",
+    "villageCode": "009",
+    "districtCode": "74.06.040",
+    "name": "Tahi Ite",
+    "alias": "Tahi Ite"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "code": "63.02.140.001",
+    "villageCode": "001",
+    "districtCode": "63.02.140",
+    "name": "Cantung Kiri Hulu",
+    "alias": "Cantung Kiri Hulu"
+  },
+  {
+    "code": "63.02.140.002",
+    "villageCode": "002",
+    "districtCode": "63.02.140",
+    "name": "Lalapin",
+    "alias": "Lalapin"
+  },
+  {
+    "code": "63.02.140.003",
+    "villageCode": "003",
+    "districtCode": "63.02.140",
+    "name": "Hampang",
+    "alias": "Hampang"
+  },
+  {
+    "code": "63.02.140.004",
+    "villageCode": "004",
+    "districtCode": "63.02.140",
+    "name": "Cantung Kanan",
+    "alias": "Cantung Kanan"
+  },
+  {
+    "code": "63.02.140.005",
+    "villageCode": "005",
+    "districtCode": "63.02.140",
+    "name": "Limbur",
+    "alias": "Limbur"
+  },
+  {
+    "code": "63.02.140.006",
+    "villageCode": "006",
+    "districtCode": "63.02.140",
+    "name": "Peramasan 2X9",
+    "alias": "Peramasan 2X9"
+  },
+  {
+    "code": "63.02.140.007",
+    "villageCode": "007",
+    "districtCode": "63.02.140",
+    "name": "Muara Urie",
+    "alias": "Muara Urie"
+  },
+  {
+    "code": "63.02.140.008",
+    "villageCode": "008",
+    "districtCode": "63.02.140",
+    "name": "Hulu Sampanahan",
+    "alias": "Hulu Sampanahan"
+  },
+  {
+    "code": "63.02.140.009",
+    "villageCode": "009",
+    "districtCode": "63.02.140",
+    "name": "Limbungan",
+    "alias": "Limbungan"
+  }
+]

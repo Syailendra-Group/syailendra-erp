@@ -1,0 +1,79 @@
+[
+  {
+    "code": "97.07.340.001",
+    "villageCode": "001",
+    "districtCode": "97.07.340",
+    "name": "Sumo",
+    "alias": "Sumo"
+  },
+  {
+    "code": "97.07.340.002",
+    "villageCode": "002",
+    "districtCode": "97.07.340",
+    "name": "Uam",
+    "alias": "Uam"
+  },
+  {
+    "code": "97.07.340.003",
+    "villageCode": "003",
+    "districtCode": "97.07.340",
+    "name": "Maku",
+    "alias": "Maku"
+  },
+  {
+    "code": "97.07.340.004",
+    "villageCode": "004",
+    "districtCode": "97.07.340",
+    "name": "Obokain",
+    "alias": "Obokain"
+  },
+  {
+    "code": "97.07.340.005",
+    "villageCode": "005",
+    "districtCode": "97.07.340",
+    "name": "Jibuk",
+    "alias": "Jibuk"
+  },
+  {
+    "code": "97.07.340.006",
+    "villageCode": "006",
+    "districtCode": "97.07.340",
+    "name": "Wenapong",
+    "alias": "Wenapong"
+  },
+  {
+    "code": "97.07.340.007",
+    "villageCode": "007",
+    "districtCode": "97.07.340",
+    "name": "Muara Balim",
+    "alias": "Muara Balim"
+  },
+  {
+    "code": "97.07.340.008",
+    "villageCode": "008",
+    "districtCode": "97.07.340",
+    "name": "Hunisi",
+    "alias": "Hunisi"
+  },
+  {
+    "code": "97.07.340.009",
+    "villageCode": "009",
+    "districtCode": "97.07.340",
+    "name": "Boor",
+    "alias": "Boor"
+  },
+  {
+    "code": "97.07.340.010",
+    "villageCode": "010",
+    "districtCode": "97.07.340",
+    "name": "Wirilu",
+    "alias": "Wirilu"
+  },
+  {
+    "code": "97.07.340.011",
+    "villageCode": "011",
+    "districtCode": "97.07.340",
+    "name": "Kwiriside",
+    "alias": "Kwiriside"
+  }
+]

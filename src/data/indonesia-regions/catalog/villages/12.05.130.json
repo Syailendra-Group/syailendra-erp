@@ -1,0 +1,100 @@
+[
+  {
+    "code": "12.05.130.001",
+    "villageCode": "001",
+    "districtCode": "12.05.130",
+    "name": "Sibaragas",
+    "alias": "Sibaragas"
+  },
+  {
+    "code": "12.05.130.002",
+    "villageCode": "002",
+    "districtCode": "12.05.130",
+    "name": "Lumban Motung",
+    "alias": "Lumban Motung"
+  },
+  {
+    "code": "12.05.130.003",
+    "villageCode": "003",
+    "districtCode": "12.05.130",
+    "name": "Banua Luhu",
+    "alias": "Banua Luhu"
+  },
+  {
+    "code": "12.05.130.004",
+    "villageCode": "004",
+    "districtCode": "12.05.130",
+    "name": "Lumban Julu",
+    "alias": "Lumban Julu"
+  },
+  {
+    "code": "12.05.130.005",
+    "villageCode": "005",
+    "districtCode": "12.05.130",
+    "name": "Lubis",
+    "alias": "Lubis"
+  },
+  {
+    "code": "12.05.130.006",
+    "villageCode": "006",
+    "districtCode": "12.05.130",
+    "name": "Lumban Ina Ina",
+    "alias": "Lumban Ina Ina"
+  },
+  {
+    "code": "12.05.130.007",
+    "villageCode": "007",
+    "districtCode": "12.05.130",
+    "name": "Pagaran",
+    "alias": "Pagaran"
+  },
+  {
+    "code": "12.05.130.008",
+    "villageCode": "008",
+    "districtCode": "12.05.130",
+    "name": "Parhorboan",
+    "alias": "Parhorboan"
+  },
+  {
+    "code": "12.05.130.009",
+    "villageCode": "009",
+    "districtCode": "12.05.130",
+    "name": "Sipultak",
+    "alias": "Sipultak"
+  },
+  {
+    "code": "12.05.130.010",
+    "villageCode": "010",
+    "districtCode": "12.05.130",
+    "name": "Dolok Saribu",
+    "alias": "Dolok Saribu"
+  },
+  {
+    "code": "12.05.130.011",
+    "villageCode": "011",
+    "districtCode": "12.05.130",
+    "name": "Lumban Silintong",
+    "alias": "Lumban Silintong"
+  },
+  {
+    "code": "12.05.130.012",
+    "villageCode": "012",
+    "districtCode": "12.05.130",
+    "name": "Simamora Hasibuan",
+    "alias": "Simamora Hasibuan"
+  },
+  {
+    "code": "12.05.130.013",
+    "villageCode": "013",
+    "districtCode": "12.05.130",
+    "name": "Sipultak  Dolok",
+    "alias": "Sipultak  Dolok"
+  },
+  {
+    "code": "12.05.130.014",
+    "villageCode": "014",
+    "districtCode": "12.05.130",
+    "name": "Hasibuan",
+    "alias": "Hasibuan"
+  }
+]

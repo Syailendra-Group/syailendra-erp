@@ -1,0 +1,51 @@
+[
+  {
+    "code": "97.03.150.001",
+    "villageCode": "001",
+    "districtCode": "97.03.150",
+    "name": "Wulundia",
+    "alias": "Wulundia"
+  },
+  {
+    "code": "97.03.150.002",
+    "villageCode": "002",
+    "districtCode": "97.03.150",
+    "name": "Dugume",
+    "alias": "Dugume"
+  },
+  {
+    "code": "97.03.150.003",
+    "villageCode": "003",
+    "districtCode": "97.03.150",
+    "name": "Molobok",
+    "alias": "Molobok"
+  },
+  {
+    "code": "97.03.150.004",
+    "villageCode": "004",
+    "districtCode": "97.03.150",
+    "name": "Tugunakwi",
+    "alias": "Tugunakwi"
+  },
+  {
+    "code": "97.03.150.005",
+    "villageCode": "005",
+    "districtCode": "97.03.150",
+    "name": "Yanuru",
+    "alias": "Yanuru"
+  },
+  {
+    "code": "97.03.150.006",
+    "villageCode": "006",
+    "districtCode": "97.03.150",
+    "name": "Dapogi",
+    "alias": "Dapogi"
+  },
+  {
+    "code": "97.03.150.007",
+    "villageCode": "007",
+    "districtCode": "97.03.150",
+    "name": "Kulumburu",
+    "alias": "Kulumburu"
+  }
+]

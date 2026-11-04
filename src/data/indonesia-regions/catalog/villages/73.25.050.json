@@ -1,0 +1,107 @@
+[
+  {
+    "code": "73.25.050.001",
+    "villageCode": "001",
+    "districtCode": "73.25.050",
+    "name": "Harapan",
+    "alias": "Harapan"
+  },
+  {
+    "code": "73.25.050.002",
+    "villageCode": "002",
+    "districtCode": "73.25.050",
+    "name": "Pongkeru",
+    "alias": "Pongkeru"
+  },
+  {
+    "code": "73.25.050.003",
+    "villageCode": "003",
+    "districtCode": "73.25.050",
+    "name": "Laskap",
+    "alias": "Laskap"
+  },
+  {
+    "code": "73.25.050.004",
+    "villageCode": "004",
+    "districtCode": "73.25.050",
+    "name": "Puncak Indah",
+    "alias": "Puncak Indah"
+  },
+  {
+    "code": "73.25.050.006",
+    "villageCode": "006",
+    "districtCode": "73.25.050",
+    "name": "Malili",
+    "alias": "Malili"
+  },
+  {
+    "code": "73.25.050.007",
+    "villageCode": "007",
+    "districtCode": "73.25.050",
+    "name": "Wewangriu",
+    "alias": "Wewangriu"
+  },
+  {
+    "code": "73.25.050.008",
+    "villageCode": "008",
+    "districtCode": "73.25.050",
+    "name": "Balantang",
+    "alias": "Balantang"
+  },
+  {
+    "code": "73.25.050.009",
+    "villageCode": "009",
+    "districtCode": "73.25.050",
+    "name": "Baruga",
+    "alias": "Baruga"
+  },
+  {
+    "code": "73.25.050.010",
+    "villageCode": "010",
+    "districtCode": "73.25.050",
+    "name": "Ussu",
+    "alias": "Ussu"
+  },
+  {
+    "code": "73.25.050.011",
+    "villageCode": "011",
+    "districtCode": "73.25.050",
+    "name": "Atue",
+    "alias": "Atue"
+  },
+  {
+    "code": "73.25.050.012",
+    "villageCode": "012",
+    "districtCode": "73.25.050",
+    "name": "Manurung",
+    "alias": "Manurung"
+  },
+  {
+    "code": "73.25.050.013",
+    "villageCode": "013",
+    "districtCode": "73.25.050",
+    "name": "Lakawali",
+    "alias": "Lakawali"
+  },
+  {
+    "code": "73.25.050.018",
+    "villageCode": "018",
+    "districtCode": "73.25.050",
+    "name": "Tarabbi",
+    "alias": "Tarabbi"
+  },
+  {
+    "code": "73.25.050.020",
+    "villageCode": "020",
+    "districtCode": "73.25.050",
+    "name": "Pasi Pasi",
+    "alias": "Pasi Pasi"
+  },
+  {
+    "code": "73.25.050.021",
+    "villageCode": "021",
+    "districtCode": "73.25.050",
+    "name": "Lakawali Pantai",
+    "alias": "Lakawali Pantai"
+  }
+]

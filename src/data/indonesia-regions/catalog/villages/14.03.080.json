@@ -1,0 +1,93 @@
+[
+  {
+    "code": "14.03.080.001",
+    "villageCode": "001",
+    "districtCode": "14.03.080",
+    "name": "Kuala Sebatu",
+    "alias": "Kuala Sebatu"
+  },
+  {
+    "code": "14.03.080.002",
+    "villageCode": "002",
+    "districtCode": "14.03.080",
+    "name": "Sungai Raya",
+    "alias": "Sungai Raya"
+  },
+  {
+    "code": "14.03.080.003",
+    "villageCode": "003",
+    "districtCode": "14.03.080",
+    "name": "Sungai Junjangan",
+    "alias": "Sungai Junjangan"
+  },
+  {
+    "code": "14.03.080.004",
+    "villageCode": "004",
+    "districtCode": "14.03.080",
+    "name": "Sungai Luar",
+    "alias": "Sungai Luar"
+  },
+  {
+    "code": "14.03.080.005",
+    "villageCode": "005",
+    "districtCode": "14.03.080",
+    "name": "Sungai Dusun",
+    "alias": "Sungai Dusun"
+  },
+  {
+    "code": "14.03.080.006",
+    "villageCode": "006",
+    "districtCode": "14.03.080",
+    "name": "Sungai Piring",
+    "alias": "Sungai Piring"
+  },
+  {
+    "code": "14.03.080.007",
+    "villageCode": "007",
+    "districtCode": "14.03.080",
+    "name": "Tanjung Siantar",
+    "alias": "Tanjung Siantar"
+  },
+  {
+    "code": "14.03.080.008",
+    "villageCode": "008",
+    "districtCode": "14.03.080",
+    "name": "Sungai Rawa",
+    "alias": "Sungai Rawa"
+  },
+  {
+    "code": "14.03.080.009",
+    "villageCode": "009",
+    "districtCode": "14.03.080",
+    "name": "Sialang Jaya",
+    "alias": "Sialang Jaya"
+  },
+  {
+    "code": "14.03.080.010",
+    "villageCode": "010",
+    "districtCode": "14.03.080",
+    "name": "Gemilang Jaya",
+    "alias": "Gemilang Jaya"
+  },
+  {
+    "code": "14.03.080.011",
+    "villageCode": "011",
+    "districtCode": "14.03.080",
+    "name": "Tasik Raya",
+    "alias": "Tasik Raya"
+  },
+  {
+    "code": "14.03.080.012",
+    "villageCode": "012",
+    "districtCode": "14.03.080",
+    "name": "Pasir Emas",
+    "alias": "Pasir Emas"
+  },
+  {
+    "code": "14.03.080.013",
+    "villageCode": "013",
+    "districtCode": "14.03.080",
+    "name": "Simpang Jaya",
+    "alias": "Simpang Jaya"
+  }
+]

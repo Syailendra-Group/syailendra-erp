@@ -1,0 +1,86 @@
+[
+  {
+    "code": "15.05.040.001",
+    "villageCode": "001",
+    "districtCode": "15.05.040",
+    "name": "Setiris",
+    "alias": "Setiris"
+  },
+  {
+    "code": "15.05.040.002",
+    "villageCode": "002",
+    "districtCode": "15.05.040",
+    "name": "Mudung Darat",
+    "alias": "Mudung Darat"
+  },
+  {
+    "code": "15.05.040.003",
+    "villageCode": "003",
+    "districtCode": "15.05.040",
+    "name": "Danau Kedap",
+    "alias": "Danau Kedap"
+  },
+  {
+    "code": "15.05.040.004",
+    "villageCode": "004",
+    "districtCode": "15.05.040",
+    "name": "Bakung",
+    "alias": "Bakung"
+  },
+  {
+    "code": "15.05.040.005",
+    "villageCode": "005",
+    "districtCode": "15.05.040",
+    "name": "Niaso",
+    "alias": "Niaso"
+  },
+  {
+    "code": "15.05.040.014",
+    "villageCode": "014",
+    "districtCode": "15.05.040",
+    "name": "Muaro Jambi",
+    "alias": "Muaro Jambi"
+  },
+  {
+    "code": "15.05.040.015",
+    "villageCode": "015",
+    "districtCode": "15.05.040",
+    "name": "Danau Lamo",
+    "alias": "Danau Lamo"
+  },
+  {
+    "code": "15.05.040.016",
+    "villageCode": "016",
+    "districtCode": "15.05.040",
+    "name": "Baru",
+    "alias": "Baru"
+  },
+  {
+    "code": "15.05.040.017",
+    "villageCode": "017",
+    "districtCode": "15.05.040",
+    "name": "Jambi Tulo",
+    "alias": "Jambi Tulo"
+  },
+  {
+    "code": "15.05.040.018",
+    "villageCode": "018",
+    "districtCode": "15.05.040",
+    "name": "Jambi Kecil",
+    "alias": "Jambi Kecil"
+  },
+  {
+    "code": "15.05.040.019",
+    "villageCode": "019",
+    "districtCode": "15.05.040",
+    "name": "Tanjung Katung",
+    "alias": "Tanjung Katung"
+  },
+  {
+    "code": "15.05.040.020",
+    "villageCode": "020",
+    "districtCode": "15.05.040",
+    "name": "Lubuk Raman",
+    "alias": "Lubuk Raman"
+  }
+]

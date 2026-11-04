@@ -1,0 +1,58 @@
+[
+  {
+    "code": "71.74.040.001",
+    "villageCode": "001",
+    "districtCode": "71.74.040",
+    "name": "Upai",
+    "alias": "Upai"
+  },
+  {
+    "code": "71.74.040.002",
+    "villageCode": "002",
+    "districtCode": "71.74.040",
+    "name": "Genggulang",
+    "alias": "Genggulang"
+  },
+  {
+    "code": "71.74.040.003",
+    "villageCode": "003",
+    "districtCode": "71.74.040",
+    "name": "Biga",
+    "alias": "Biga"
+  },
+  {
+    "code": "71.74.040.004",
+    "villageCode": "004",
+    "districtCode": "71.74.040",
+    "name": "Sia",
+    "alias": "Sia"
+  },
+  {
+    "code": "71.74.040.005",
+    "villageCode": "005",
+    "districtCode": "71.74.040",
+    "name": "Pontodon",
+    "alias": "Pontodon"
+  },
+  {
+    "code": "71.74.040.006",
+    "villageCode": "006",
+    "districtCode": "71.74.040",
+    "name": "Bilalang Ii",
+    "alias": "Bilalang Ii"
+  },
+  {
+    "code": "71.74.040.007",
+    "villageCode": "007",
+    "districtCode": "71.74.040",
+    "name": "Bilalang I",
+    "alias": "Bilalang I"
+  },
+  {
+    "code": "71.74.040.008",
+    "villageCode": "008",
+    "districtCode": "71.74.040",
+    "name": "Pontodon Timur",
+    "alias": "Pontodon Timur"
+  }
+]

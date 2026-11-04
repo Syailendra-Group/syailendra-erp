@@ -1,0 +1,58 @@
+[
+  {
+    "code": "12.07.160.001",
+    "villageCode": "001",
+    "districtCode": "12.07.160",
+    "name": "Sei Penggantungan",
+    "alias": "Sei Penggantungan"
+  },
+  {
+    "code": "12.07.160.002",
+    "villageCode": "002",
+    "districtCode": "12.07.160",
+    "name": "Sei Lumut",
+    "alias": "Sei Lumut"
+  },
+  {
+    "code": "12.07.160.003",
+    "villageCode": "003",
+    "districtCode": "12.07.160",
+    "name": "Sei Tawar",
+    "alias": "Sei Tawar"
+  },
+  {
+    "code": "12.07.160.004",
+    "villageCode": "004",
+    "districtCode": "12.07.160",
+    "name": "Sei Sanggul",
+    "alias": "Sei Sanggul"
+  },
+  {
+    "code": "12.07.160.005",
+    "villageCode": "005",
+    "districtCode": "12.07.160",
+    "name": "Sei Berombang",
+    "alias": "Sei Berombang"
+  },
+  {
+    "code": "12.07.160.006",
+    "villageCode": "006",
+    "districtCode": "12.07.160",
+    "name": "Sei Sakat",
+    "alias": "Sei Sakat"
+  },
+  {
+    "code": "12.07.160.007",
+    "villageCode": "007",
+    "districtCode": "12.07.160",
+    "name": "Sei Baru",
+    "alias": "Sei Baru"
+  },
+  {
+    "code": "12.07.160.008",
+    "villageCode": "008",
+    "districtCode": "12.07.160",
+    "name": "Wonosari",
+    "alias": "Wonosari"
+  }
+]

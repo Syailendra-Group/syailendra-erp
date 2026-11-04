@@ -1,0 +1,44 @@
+[
+  {
+    "code": "12.73.011.001",
+    "villageCode": "001",
+    "districtCode": "12.73.011",
+    "name": "Simarimbun",
+    "alias": "Simarimbun"
+  },
+  {
+    "code": "12.73.011.002",
+    "villageCode": "002",
+    "districtCode": "12.73.011",
+    "name": "Naga Huta",
+    "alias": "Naga Huta"
+  },
+  {
+    "code": "12.73.011.003",
+    "villageCode": "003",
+    "districtCode": "12.73.011",
+    "name": "Pematang Marihat",
+    "alias": "Pematang Marihat"
+  },
+  {
+    "code": "12.73.011.004",
+    "villageCode": "004",
+    "districtCode": "12.73.011",
+    "name": "Tong Marimbun",
+    "alias": "Tong Marimbun"
+  },
+  {
+    "code": "12.73.011.005",
+    "villageCode": "005",
+    "districtCode": "12.73.011",
+    "name": "Nagahuta Timur",
+    "alias": "Nagahuta Timur"
+  },
+  {
+    "code": "12.73.011.006",
+    "villageCode": "006",
+    "districtCode": "12.73.011",
+    "name": "Marihat Jaya",
+    "alias": "Marihat Jaya"
+  }
+]

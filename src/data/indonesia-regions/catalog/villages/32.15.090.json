@@ -1,0 +1,79 @@
+[
+  {
+    "code": "32.15.090.001",
+    "villageCode": "001",
+    "districtCode": "32.15.090",
+    "name": "Ciwaringin",
+    "alias": "Ciwaringin"
+  },
+  {
+    "code": "32.15.090.002",
+    "villageCode": "002",
+    "districtCode": "32.15.090",
+    "name": "Waringinkarya",
+    "alias": "Waringinkarya"
+  },
+  {
+    "code": "32.15.090.003",
+    "villageCode": "003",
+    "districtCode": "32.15.090",
+    "name": "Pasirtanjung",
+    "alias": "Pasirtanjung"
+  },
+  {
+    "code": "32.15.090.004",
+    "villageCode": "004",
+    "districtCode": "32.15.090",
+    "name": "Karangtanjung",
+    "alias": "Karangtanjung"
+  },
+  {
+    "code": "32.15.090.005",
+    "villageCode": "005",
+    "districtCode": "32.15.090",
+    "name": "Kedawung",
+    "alias": "Kedawung"
+  },
+  {
+    "code": "32.15.090.006",
+    "villageCode": "006",
+    "districtCode": "32.15.090",
+    "name": "Lemahabang",
+    "alias": "Lemahabang"
+  },
+  {
+    "code": "32.15.090.007",
+    "villageCode": "007",
+    "districtCode": "32.15.090",
+    "name": "Karyamukti",
+    "alias": "Karyamukti"
+  },
+  {
+    "code": "32.15.090.008",
+    "villageCode": "008",
+    "districtCode": "32.15.090",
+    "name": "Pulojaya",
+    "alias": "Pulojaya"
+  },
+  {
+    "code": "32.15.090.009",
+    "villageCode": "009",
+    "districtCode": "32.15.090",
+    "name": "Pulokalapa",
+    "alias": "Pulokalapa"
+  },
+  {
+    "code": "32.15.090.010",
+    "villageCode": "010",
+    "districtCode": "32.15.090",
+    "name": "Lemahmukti",
+    "alias": "Lemahmukti"
+  },
+  {
+    "code": "32.15.090.011",
+    "villageCode": "011",
+    "districtCode": "32.15.090",
+    "name": "Pulomulya",
+    "alias": "Pulomulya"
+  }
+]

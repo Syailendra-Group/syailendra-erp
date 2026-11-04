@@ -1,0 +1,23 @@
+[
+  {
+    "code": "31.01.010.001",
+    "villageCode": "001",
+    "districtCode": "31.01.010",
+    "name": "Pulau Tidung",
+    "alias": "Pulau Tidung"
+  },
+  {
+    "code": "31.01.010.002",
+    "villageCode": "002",
+    "districtCode": "31.01.010",
+    "name": "Pulau Pari",
+    "alias": "Pulau Pari"
+  },
+  {
+    "code": "31.01.010.003",
+    "villageCode": "003",
+    "districtCode": "31.01.010",
+    "name": "Pulau Untung Jawa",
+    "alias": "Pulau Untung Jawa"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "code": "61.01.051.001",
+    "villageCode": "001",
+    "districtCode": "61.01.051",
+    "name": "Jawai Laut",
+    "alias": "Jawai Laut"
+  },
+  {
+    "code": "61.01.051.002",
+    "villageCode": "002",
+    "districtCode": "61.01.051",
+    "name": "Jelu Air",
+    "alias": "Jelu Air"
+  },
+  {
+    "code": "61.01.051.003",
+    "villageCode": "003",
+    "districtCode": "61.01.051",
+    "name": "Sarilaba B",
+    "alias": "Sarilaba B"
+  },
+  {
+    "code": "61.01.051.004",
+    "villageCode": "004",
+    "districtCode": "61.01.051",
+    "name": "Semperiuk B",
+    "alias": "Semperiuk B"
+  },
+  {
+    "code": "61.01.051.005",
+    "villageCode": "005",
+    "districtCode": "61.01.051",
+    "name": "Sabaran",
+    "alias": "Sabaran"
+  },
+  {
+    "code": "61.01.051.006",
+    "villageCode": "006",
+    "districtCode": "61.01.051",
+    "name": "Semperiuk A",
+    "alias": "Semperiuk A"
+  },
+  {
+    "code": "61.01.051.007",
+    "villageCode": "007",
+    "districtCode": "61.01.051",
+    "name": "Sarilaba A",
+    "alias": "Sarilaba A"
+  },
+  {
+    "code": "61.01.051.008",
+    "villageCode": "008",
+    "districtCode": "61.01.051",
+    "name": "Matang Terap",
+    "alias": "Matang Terap"
+  },
+  {
+    "code": "61.01.051.009",
+    "villageCode": "009",
+    "districtCode": "61.01.051",
+    "name": "Suah Api",
+    "alias": "Suah Api"
+  }
+]

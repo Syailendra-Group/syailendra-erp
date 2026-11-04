@@ -1,0 +1,90 @@
+[
+  {
+    "code": "18.13.010",
+    "districtCode": "010",
+    "regencyCode": "18.13",
+    "provinceCode": "18",
+    "name": "Kecamatan Lemong",
+    "alias": "Lemong"
+  },
+  {
+    "code": "18.13.020",
+    "districtCode": "020",
+    "regencyCode": "18.13",
+    "provinceCode": "18",
+    "name": "Kecamatan Pesisir Utara",
+    "alias": "Pesisir Utara"
+  },
+  {
+    "code": "18.13.030",
+    "districtCode": "030",
+    "regencyCode": "18.13",
+    "provinceCode": "18",
+    "name": "Kecamatan Pulau Pisang",
+    "alias": "Pulau Pisang"
+  },
+  {
+    "code": "18.13.040",
+    "districtCode": "040",
+    "regencyCode": "18.13",
+    "provinceCode": "18",
+    "name": "Kecamatan Karya Penggawa",
+    "alias": "Karya Penggawa"
+  },
+  {
+    "code": "18.13.050",
+    "districtCode": "050",
+    "regencyCode": "18.13",
+    "provinceCode": "18",
+    "name": "Kecamatan Way Krui",
+    "alias": "Way Krui"
+  },
+  {
+    "code": "18.13.060",
+    "districtCode": "060",
+    "regencyCode": "18.13",
+    "provinceCode": "18",
+    "name": "Kecamatan Pesisir Tengah",
+    "alias": "Pesisir Tengah"
+  },
+  {
+    "code": "18.13.070",
+    "districtCode": "070",
+    "regencyCode": "18.13",
+    "provinceCode": "18",
+    "name": "Kecamatan Krui Selatan",
+    "alias": "Krui Selatan"
+  },
+  {
+    "code": "18.13.080",
+    "districtCode": "080",
+    "regencyCode": "18.13",
+    "provinceCode": "18",
+    "name": "Kecamatan Pesisir Selatan",
+    "alias": "Pesisir Selatan"
+  },
+  {
+    "code": "18.13.090",
+    "districtCode": "090",
+    "regencyCode": "18.13",
+    "provinceCode": "18",
+    "name": "Kecamatan Ngambur",
+    "alias": "Ngambur"
+  },
+  {
+    "code": "18.13.100",
+    "districtCode": "100",
+    "regencyCode": "18.13",
+    "provinceCode": "18",
+    "name": "Kecamatan Ngaras",
+    "alias": "Ngaras"
+  },
+  {
+    "code": "18.13.110",
+    "districtCode": "110",
+    "regencyCode": "18.13",
+    "provinceCode": "18",
+    "name": "Kecamatan Bangkunat",
+    "alias": "Bangkunat"
+  }
+]

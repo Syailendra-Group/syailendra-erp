@@ -1,0 +1,58 @@
+[
+  {
+    "code": "14.05.020.042",
+    "villageCode": "042",
+    "districtCode": "14.05.020",
+    "name": "Langkai",
+    "alias": "Langkai"
+  },
+  {
+    "code": "14.05.020.043",
+    "villageCode": "043",
+    "districtCode": "14.05.020",
+    "name": "Kampung Dalam",
+    "alias": "Kampung Dalam"
+  },
+  {
+    "code": "14.05.020.046",
+    "villageCode": "046",
+    "districtCode": "14.05.020",
+    "name": "Kampung Rempak",
+    "alias": "Kampung Rempak"
+  },
+  {
+    "code": "14.05.020.047",
+    "villageCode": "047",
+    "districtCode": "14.05.020",
+    "name": "Tumang",
+    "alias": "Tumang"
+  },
+  {
+    "code": "14.05.020.049",
+    "villageCode": "049",
+    "districtCode": "14.05.020",
+    "name": "Merempan Hulu",
+    "alias": "Merempan Hulu"
+  },
+  {
+    "code": "14.05.020.050",
+    "villageCode": "050",
+    "districtCode": "14.05.020",
+    "name": "Rawang Air Putih",
+    "alias": "Rawang Air Putih"
+  },
+  {
+    "code": "14.05.020.051",
+    "villageCode": "051",
+    "districtCode": "14.05.020",
+    "name": "Suak Lanjut",
+    "alias": "Suak Lanjut"
+  },
+  {
+    "code": "14.05.020.052",
+    "villageCode": "052",
+    "districtCode": "14.05.020",
+    "name": "Buantan Besar",
+    "alias": "Buantan Besar"
+  }
+]

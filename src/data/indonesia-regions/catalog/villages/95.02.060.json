@@ -1,0 +1,37 @@
+[
+  {
+    "code": "95.02.060.001",
+    "villageCode": "001",
+    "districtCode": "95.02.060",
+    "name": "Sesnuk",
+    "alias": "Sesnuk"
+  },
+  {
+    "code": "95.02.060.002",
+    "villageCode": "002",
+    "districtCode": "95.02.060",
+    "name": "Kanggup",
+    "alias": "Kanggup"
+  },
+  {
+    "code": "95.02.060.003",
+    "villageCode": "003",
+    "districtCode": "95.02.060",
+    "name": "Amboran",
+    "alias": "Amboran"
+  },
+  {
+    "code": "95.02.060.004",
+    "villageCode": "004",
+    "districtCode": "95.02.060",
+    "name": "Anggamburan",
+    "alias": "Anggamburan"
+  },
+  {
+    "code": "95.02.060.005",
+    "villageCode": "005",
+    "districtCode": "95.02.060",
+    "name": "Yomkondo",
+    "alias": "Yomkondo"
+  }
+]

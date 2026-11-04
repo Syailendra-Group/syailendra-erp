@@ -1,0 +1,86 @@
+[
+  {
+    "code": "12.19.040.001",
+    "villageCode": "001",
+    "districtCode": "12.19.040",
+    "name": "Mangkai Baru",
+    "alias": "Mangkai Baru"
+  },
+  {
+    "code": "12.19.040.002",
+    "villageCode": "002",
+    "districtCode": "12.19.040",
+    "name": "Mangkai Lama",
+    "alias": "Mangkai Lama"
+  },
+  {
+    "code": "12.19.040.003",
+    "villageCode": "003",
+    "districtCode": "12.19.040",
+    "name": "Lima Puluh Kota",
+    "alias": "Lima Puluh Kota"
+  },
+  {
+    "code": "12.19.040.004",
+    "villageCode": "004",
+    "districtCode": "12.19.040",
+    "name": "Perkebunan Dolok",
+    "alias": "Perkebunan Dolok"
+  },
+  {
+    "code": "12.19.040.005",
+    "villageCode": "005",
+    "districtCode": "12.19.040",
+    "name": "Sumber Padi",
+    "alias": "Sumber Padi"
+  },
+  {
+    "code": "12.19.040.006",
+    "villageCode": "006",
+    "districtCode": "12.19.040",
+    "name": "Perkebunan Limau Manis",
+    "alias": "Perkebunan Limau Manis"
+  },
+  {
+    "code": "12.19.040.007",
+    "villageCode": "007",
+    "districtCode": "12.19.040",
+    "name": "Antara",
+    "alias": "Antara"
+  },
+  {
+    "code": "12.19.040.008",
+    "villageCode": "008",
+    "districtCode": "12.19.040",
+    "name": "Perkebunan Kwala Gunung",
+    "alias": "Perkebunan Kwala Gunung"
+  },
+  {
+    "code": "12.19.040.013",
+    "villageCode": "013",
+    "districtCode": "12.19.040",
+    "name": "Perkebunan Lima Puluh",
+    "alias": "Perkebunan Lima Puluh"
+  },
+  {
+    "code": "12.19.040.014",
+    "villageCode": "014",
+    "districtCode": "12.19.040",
+    "name": "Sumber Makmur",
+    "alias": "Sumber Makmur"
+  },
+  {
+    "code": "12.19.040.015",
+    "villageCode": "015",
+    "districtCode": "12.19.040",
+    "name": "Perkebunan Tanah Gambus",
+    "alias": "Perkebunan Tanah Gambus"
+  },
+  {
+    "code": "12.19.040.027",
+    "villageCode": "027",
+    "districtCode": "12.19.040",
+    "name": "Simpang Gambus",
+    "alias": "Simpang Gambus"
+  }
+]

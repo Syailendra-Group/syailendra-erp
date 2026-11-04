@@ -1,0 +1,93 @@
+[
+  {
+    "code": "95.02.120.001",
+    "villageCode": "001",
+    "districtCode": "95.02.120",
+    "name": "Tinggam",
+    "alias": "Tinggam"
+  },
+  {
+    "code": "95.02.120.002",
+    "villageCode": "002",
+    "districtCode": "95.02.120",
+    "name": "Osso",
+    "alias": "Osso"
+  },
+  {
+    "code": "95.02.120.003",
+    "villageCode": "003",
+    "districtCode": "95.02.120",
+    "name": "Mindiptana",
+    "alias": "Mindiptana"
+  },
+  {
+    "code": "95.02.120.004",
+    "villageCode": "004",
+    "districtCode": "95.02.120",
+    "name": "Epsembit",
+    "alias": "Epsembit"
+  },
+  {
+    "code": "95.02.120.005",
+    "villageCode": "005",
+    "districtCode": "95.02.120",
+    "name": "Andopbit",
+    "alias": "Andopbit"
+  },
+  {
+    "code": "95.02.120.006",
+    "villageCode": "006",
+    "districtCode": "95.02.120",
+    "name": "Niyimbang",
+    "alias": "Niyimbang"
+  },
+  {
+    "code": "95.02.120.007",
+    "villageCode": "007",
+    "districtCode": "95.02.120",
+    "name": "Anggumbit",
+    "alias": "Anggumbit"
+  },
+  {
+    "code": "95.02.120.008",
+    "villageCode": "008",
+    "districtCode": "95.02.120",
+    "name": "Awayanka",
+    "alias": "Awayanka"
+  },
+  {
+    "code": "95.02.120.009",
+    "villageCode": "009",
+    "districtCode": "95.02.120",
+    "name": "Imko",
+    "alias": "Imko"
+  },
+  {
+    "code": "95.02.120.010",
+    "villageCode": "010",
+    "districtCode": "95.02.120",
+    "name": "Umap",
+    "alias": "Umap"
+  },
+  {
+    "code": "95.02.120.011",
+    "villageCode": "011",
+    "districtCode": "95.02.120",
+    "name": "Kamka",
+    "alias": "Kamka"
+  },
+  {
+    "code": "95.02.120.012",
+    "villageCode": "012",
+    "districtCode": "95.02.120",
+    "name": "Kakuna",
+    "alias": "Kakuna"
+  },
+  {
+    "code": "95.02.120.013",
+    "villageCode": "013",
+    "districtCode": "95.02.120",
+    "name": "Wanggatkibi",
+    "alias": "Wanggatkibi"
+  }
+]

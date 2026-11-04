@@ -1,0 +1,51 @@
+[
+  {
+    "code": "11.72.010.004",
+    "villageCode": "004",
+    "districtCode": "11.72.010",
+    "name": "Jaboi",
+    "alias": "Jaboi"
+  },
+  {
+    "code": "11.72.010.005",
+    "villageCode": "005",
+    "districtCode": "11.72.010",
+    "name": "Balohan",
+    "alias": "Balohan"
+  },
+  {
+    "code": "11.72.010.006",
+    "villageCode": "006",
+    "districtCode": "11.72.010",
+    "name": "Cot Abeuk",
+    "alias": "Cot Abeuk"
+  },
+  {
+    "code": "11.72.010.007",
+    "villageCode": "007",
+    "districtCode": "11.72.010",
+    "name": "Cot Ba U",
+    "alias": "Cot Ba U"
+  },
+  {
+    "code": "11.72.010.008",
+    "villageCode": "008",
+    "districtCode": "11.72.010",
+    "name": "Anoe Itam",
+    "alias": "Anoe Itam"
+  },
+  {
+    "code": "11.72.010.009",
+    "villageCode": "009",
+    "districtCode": "11.72.010",
+    "name": "Ujong Kareung",
+    "alias": "Ujong Kareung"
+  },
+  {
+    "code": "11.72.010.010",
+    "villageCode": "010",
+    "districtCode": "11.72.010",
+    "name": "Ie Meulee",
+    "alias": "Ie Meulee"
+  }
+]

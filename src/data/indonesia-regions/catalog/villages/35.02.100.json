@@ -1,0 +1,100 @@
+[
+  {
+    "code": "35.02.100.001",
+    "villageCode": "001",
+    "districtCode": "35.02.100",
+    "name": "Ngasinan",
+    "alias": "Ngasinan"
+  },
+  {
+    "code": "35.02.100.002",
+    "villageCode": "002",
+    "districtCode": "35.02.100",
+    "name": "Kutukulon",
+    "alias": "Kutukulon"
+  },
+  {
+    "code": "35.02.100.003",
+    "villageCode": "003",
+    "districtCode": "35.02.100",
+    "name": "Kutuwetan",
+    "alias": "Kutuwetan"
+  },
+  {
+    "code": "35.02.100.004",
+    "villageCode": "004",
+    "districtCode": "35.02.100",
+    "name": "Kradenan",
+    "alias": "Kradenan"
+  },
+  {
+    "code": "35.02.100.005",
+    "villageCode": "005",
+    "districtCode": "35.02.100",
+    "name": "Mojomati",
+    "alias": "Mojomati"
+  },
+  {
+    "code": "35.02.100.006",
+    "villageCode": "006",
+    "districtCode": "35.02.100",
+    "name": "Coper",
+    "alias": "Coper"
+  },
+  {
+    "code": "35.02.100.007",
+    "villageCode": "007",
+    "districtCode": "35.02.100",
+    "name": "Mojorejo",
+    "alias": "Mojorejo"
+  },
+  {
+    "code": "35.02.100.008",
+    "villageCode": "008",
+    "districtCode": "35.02.100",
+    "name": "Karanggebang",
+    "alias": "Karanggebang"
+  },
+  {
+    "code": "35.02.100.009",
+    "villageCode": "009",
+    "districtCode": "35.02.100",
+    "name": "Jetis",
+    "alias": "Jetis"
+  },
+  {
+    "code": "35.02.100.010",
+    "villageCode": "010",
+    "districtCode": "35.02.100",
+    "name": "Tegalsari",
+    "alias": "Tegalsari"
+  },
+  {
+    "code": "35.02.100.011",
+    "villageCode": "011",
+    "districtCode": "35.02.100",
+    "name": "Wonoketro",
+    "alias": "Wonoketro"
+  },
+  {
+    "code": "35.02.100.012",
+    "villageCode": "012",
+    "districtCode": "35.02.100",
+    "name": "Josari",
+    "alias": "Josari"
+  },
+  {
+    "code": "35.02.100.013",
+    "villageCode": "013",
+    "districtCode": "35.02.100",
+    "name": "Turi",
+    "alias": "Turi"
+  },
+  {
+    "code": "35.02.100.014",
+    "villageCode": "014",
+    "districtCode": "35.02.100",
+    "name": "Winong",
+    "alias": "Winong"
+  }
+]

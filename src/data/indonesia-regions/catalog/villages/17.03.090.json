@@ -1,0 +1,79 @@
+[
+  {
+    "code": "17.03.090.001",
+    "villageCode": "001",
+    "districtCode": "17.03.090",
+    "name": "Urai",
+    "alias": "Urai"
+  },
+  {
+    "code": "17.03.090.007",
+    "villageCode": "007",
+    "districtCode": "17.03.090",
+    "name": "Pasar Ketahun",
+    "alias": "Pasar Ketahun"
+  },
+  {
+    "code": "17.03.090.008",
+    "villageCode": "008",
+    "districtCode": "17.03.090",
+    "name": "Giri Kencana",
+    "alias": "Giri Kencana"
+  },
+  {
+    "code": "17.03.090.011",
+    "villageCode": "011",
+    "districtCode": "17.03.090",
+    "name": "Kuala Lelangi",
+    "alias": "Kuala Lelangi"
+  },
+  {
+    "code": "17.03.090.012",
+    "villageCode": "012",
+    "districtCode": "17.03.090",
+    "name": "Talang Baru",
+    "alias": "Talang Baru"
+  },
+  {
+    "code": "17.03.090.013",
+    "villageCode": "013",
+    "districtCode": "17.03.090",
+    "name": "Dusun Raja",
+    "alias": "Dusun Raja"
+  },
+  {
+    "code": "17.03.090.014",
+    "villageCode": "014",
+    "districtCode": "17.03.090",
+    "name": "Fajar Baru",
+    "alias": "Fajar Baru"
+  },
+  {
+    "code": "17.03.090.015",
+    "villageCode": "015",
+    "districtCode": "17.03.090",
+    "name": "Lubuk Mindai",
+    "alias": "Lubuk Mindai"
+  },
+  {
+    "code": "17.03.090.024",
+    "villageCode": "024",
+    "districtCode": "17.03.090",
+    "name": "Melati Harjo",
+    "alias": "Melati Harjo"
+  },
+  {
+    "code": "17.03.090.025",
+    "villageCode": "025",
+    "districtCode": "17.03.090",
+    "name": "Bukit Indah",
+    "alias": "Bukit Indah"
+  },
+  {
+    "code": "17.03.090.026",
+    "villageCode": "026",
+    "districtCode": "17.03.090",
+    "name": "Bukit Tinggi",
+    "alias": "Bukit Tinggi"
+  }
+]

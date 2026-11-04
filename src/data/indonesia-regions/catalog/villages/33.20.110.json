@@ -1,0 +1,86 @@
+[
+  {
+    "code": "33.20.110.001",
+    "villageCode": "001",
+    "districtCode": "33.20.110",
+    "name": "Tempur",
+    "alias": "Tempur"
+  },
+  {
+    "code": "33.20.110.002",
+    "villageCode": "002",
+    "districtCode": "33.20.110",
+    "name": "Damarwulan",
+    "alias": "Damarwulan"
+  },
+  {
+    "code": "33.20.110.003",
+    "villageCode": "003",
+    "districtCode": "33.20.110",
+    "name": "Kunir",
+    "alias": "Kunir"
+  },
+  {
+    "code": "33.20.110.004",
+    "villageCode": "004",
+    "districtCode": "33.20.110",
+    "name": "Watuaji",
+    "alias": "Watuaji"
+  },
+  {
+    "code": "33.20.110.005",
+    "villageCode": "005",
+    "districtCode": "33.20.110",
+    "name": "Klepu",
+    "alias": "Klepu"
+  },
+  {
+    "code": "33.20.110.006",
+    "villageCode": "006",
+    "districtCode": "33.20.110",
+    "name": "Tunahan",
+    "alias": "Tunahan"
+  },
+  {
+    "code": "33.20.110.007",
+    "villageCode": "007",
+    "districtCode": "33.20.110",
+    "name": "Kaligarang",
+    "alias": "Kaligarang"
+  },
+  {
+    "code": "33.20.110.008",
+    "villageCode": "008",
+    "districtCode": "33.20.110",
+    "name": "Keling",
+    "alias": "Keling"
+  },
+  {
+    "code": "33.20.110.009",
+    "villageCode": "009",
+    "districtCode": "33.20.110",
+    "name": "Gelang",
+    "alias": "Gelang"
+  },
+  {
+    "code": "33.20.110.010",
+    "villageCode": "010",
+    "districtCode": "33.20.110",
+    "name": "Jlegong",
+    "alias": "Jlegong"
+  },
+  {
+    "code": "33.20.110.011",
+    "villageCode": "011",
+    "districtCode": "33.20.110",
+    "name": "Kelet",
+    "alias": "Kelet"
+  },
+  {
+    "code": "33.20.110.019",
+    "villageCode": "019",
+    "districtCode": "33.20.110",
+    "name": "Bumiharjo",
+    "alias": "Bumiharjo"
+  }
+]

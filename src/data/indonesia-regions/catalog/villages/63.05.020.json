@@ -1,0 +1,79 @@
+[
+  {
+    "code": "63.05.020.001",
+    "villageCode": "001",
+    "districtCode": "63.05.020",
+    "name": "Tatakan",
+    "alias": "Tatakan"
+  },
+  {
+    "code": "63.05.020.005",
+    "villageCode": "005",
+    "districtCode": "63.05.020",
+    "name": "Suato Tatakan",
+    "alias": "Suato Tatakan"
+  },
+  {
+    "code": "63.05.020.006",
+    "villageCode": "006",
+    "districtCode": "63.05.020",
+    "name": "Tandui",
+    "alias": "Tandui"
+  },
+  {
+    "code": "63.05.020.007",
+    "villageCode": "007",
+    "districtCode": "63.05.020",
+    "name": "Lawahan",
+    "alias": "Lawahan"
+  },
+  {
+    "code": "63.05.020.008",
+    "villageCode": "008",
+    "districtCode": "63.05.020",
+    "name": "Rumintin",
+    "alias": "Rumintin"
+  },
+  {
+    "code": "63.05.020.012",
+    "villageCode": "012",
+    "districtCode": "63.05.020",
+    "name": "Sawang",
+    "alias": "Sawang"
+  },
+  {
+    "code": "63.05.020.013",
+    "villageCode": "013",
+    "districtCode": "63.05.020",
+    "name": "Tambarangan",
+    "alias": "Tambarangan"
+  },
+  {
+    "code": "63.05.020.014",
+    "villageCode": "014",
+    "districtCode": "63.05.020",
+    "name": "Cempaka",
+    "alias": "Cempaka"
+  },
+  {
+    "code": "63.05.020.015",
+    "villageCode": "015",
+    "districtCode": "63.05.020",
+    "name": "Timbaan",
+    "alias": "Timbaan"
+  },
+  {
+    "code": "63.05.020.016",
+    "villageCode": "016",
+    "districtCode": "63.05.020",
+    "name": "Harapan Masa",
+    "alias": "Harapan Masa"
+  },
+  {
+    "code": "63.05.020.017",
+    "villageCode": "017",
+    "districtCode": "63.05.020",
+    "name": "Hatiwin",
+    "alias": "Hatiwin"
+  }
+]

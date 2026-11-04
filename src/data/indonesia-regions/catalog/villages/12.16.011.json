@@ -1,0 +1,72 @@
+[
+  {
+    "code": "12.16.011.001",
+    "villageCode": "001",
+    "districtCode": "12.16.011",
+    "name": "Kaban Tengah",
+    "alias": "Kaban Tengah"
+  },
+  {
+    "code": "12.16.011.002",
+    "villageCode": "002",
+    "districtCode": "12.16.011",
+    "name": "Bandar Baru",
+    "alias": "Bandar Baru"
+  },
+  {
+    "code": "12.16.011.003",
+    "villageCode": "003",
+    "districtCode": "12.16.011",
+    "name": "Tanjung Meriah",
+    "alias": "Tanjung Meriah"
+  },
+  {
+    "code": "12.16.011.004",
+    "villageCode": "004",
+    "districtCode": "12.16.011",
+    "name": "Tanjung Mulia",
+    "alias": "Tanjung Mulia"
+  },
+  {
+    "code": "12.16.011.005",
+    "villageCode": "005",
+    "districtCode": "12.16.011",
+    "name": "Simberuna",
+    "alias": "Simberuna"
+  },
+  {
+    "code": "12.16.011.006",
+    "villageCode": "006",
+    "districtCode": "12.16.011",
+    "name": "Perolihen",
+    "alias": "Perolihen"
+  },
+  {
+    "code": "12.16.011.007",
+    "villageCode": "007",
+    "districtCode": "12.16.011",
+    "name": "Maholida",
+    "alias": "Maholida"
+  },
+  {
+    "code": "12.16.011.008",
+    "villageCode": "008",
+    "districtCode": "12.16.011",
+    "name": "Perjaga",
+    "alias": "Perjaga"
+  },
+  {
+    "code": "12.16.011.009",
+    "villageCode": "009",
+    "districtCode": "12.16.011",
+    "name": "Malum",
+    "alias": "Malum"
+  },
+  {
+    "code": "12.16.011.010",
+    "villageCode": "010",
+    "districtCode": "12.16.011",
+    "name": "Mbinalun",
+    "alias": "Mbinalun"
+  }
+]

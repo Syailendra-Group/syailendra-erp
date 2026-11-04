@@ -1,0 +1,72 @@
+[
+  {
+    "code": "53.05.060.004",
+    "villageCode": "004",
+    "districtCode": "53.05.060",
+    "name": "Sapaen",
+    "alias": "Sapaen"
+  },
+  {
+    "code": "53.05.060.005",
+    "villageCode": "005",
+    "districtCode": "53.05.060",
+    "name": "Taunbaen",
+    "alias": "Taunbaen"
+  },
+  {
+    "code": "53.05.060.006",
+    "villageCode": "006",
+    "districtCode": "53.05.060",
+    "name": "Tualene",
+    "alias": "Tualene"
+  },
+  {
+    "code": "53.05.060.007",
+    "villageCode": "007",
+    "districtCode": "53.05.060",
+    "name": "Biloe",
+    "alias": "Biloe"
+  },
+  {
+    "code": "53.05.060.008",
+    "villageCode": "008",
+    "districtCode": "53.05.060",
+    "name": "Hauteas",
+    "alias": "Hauteas"
+  },
+  {
+    "code": "53.05.060.009",
+    "villageCode": "009",
+    "districtCode": "53.05.060",
+    "name": "Boronubaen",
+    "alias": "Boronubaen"
+  },
+  {
+    "code": "53.05.060.010",
+    "villageCode": "010",
+    "districtCode": "53.05.060",
+    "name": "Lokomea",
+    "alias": "Lokomea"
+  },
+  {
+    "code": "53.05.060.011",
+    "villageCode": "011",
+    "districtCode": "53.05.060",
+    "name": "Taunbaen Timur",
+    "alias": "Taunbaen Timur"
+  },
+  {
+    "code": "53.05.060.012",
+    "villageCode": "012",
+    "districtCode": "53.05.060",
+    "name": "Hauteas Barat",
+    "alias": "Hauteas Barat"
+  },
+  {
+    "code": "53.05.060.013",
+    "villageCode": "013",
+    "districtCode": "53.05.060",
+    "name": "Boronubaen Timur",
+    "alias": "Boronubaen Timur"
+  }
+]

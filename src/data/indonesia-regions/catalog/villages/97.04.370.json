@@ -1,0 +1,72 @@
+[
+  {
+    "code": "97.04.370.001",
+    "villageCode": "001",
+    "districtCode": "97.04.370",
+    "name": "Kurupu",
+    "alias": "Kurupu"
+  },
+  {
+    "code": "97.04.370.002",
+    "villageCode": "002",
+    "districtCode": "97.04.370",
+    "name": "Bimo",
+    "alias": "Bimo"
+  },
+  {
+    "code": "97.04.370.003",
+    "villageCode": "003",
+    "districtCode": "97.04.370",
+    "name": "Kembu",
+    "alias": "Kembu"
+  },
+  {
+    "code": "97.04.370.004",
+    "villageCode": "004",
+    "districtCode": "97.04.370",
+    "name": "Nugini",
+    "alias": "Nugini"
+  },
+  {
+    "code": "97.04.370.005",
+    "villageCode": "005",
+    "districtCode": "97.04.370",
+    "name": "Dundu",
+    "alias": "Dundu"
+  },
+  {
+    "code": "97.04.370.006",
+    "villageCode": "006",
+    "districtCode": "97.04.370",
+    "name": "Yiku",
+    "alias": "Yiku"
+  },
+  {
+    "code": "97.04.370.007",
+    "villageCode": "007",
+    "districtCode": "97.04.370",
+    "name": "Nilogabu",
+    "alias": "Nilogabu"
+  },
+  {
+    "code": "97.04.370.008",
+    "villageCode": "008",
+    "districtCode": "97.04.370",
+    "name": "Nakwi",
+    "alias": "Nakwi"
+  },
+  {
+    "code": "97.04.370.009",
+    "villageCode": "009",
+    "districtCode": "97.04.370",
+    "name": "Nini",
+    "alias": "Nini"
+  },
+  {
+    "code": "97.04.370.010",
+    "villageCode": "010",
+    "districtCode": "97.04.370",
+    "name": "Dugunagep",
+    "alias": "Dugunagep"
+  }
+]

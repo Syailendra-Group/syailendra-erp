@@ -1,0 +1,121 @@
+[
+  {
+    "code": "13.77.030.001",
+    "villageCode": "001",
+    "districtCode": "13.77.030",
+    "name": "Ampalu",
+    "alias": "Ampalu"
+  },
+  {
+    "code": "13.77.030.006",
+    "villageCode": "006",
+    "districtCode": "13.77.030",
+    "name": "Tanjung Sabar",
+    "alias": "Tanjung Sabar"
+  },
+  {
+    "code": "13.77.030.007",
+    "villageCode": "007",
+    "districtCode": "13.77.030",
+    "name": "Apar",
+    "alias": "Apar"
+  },
+  {
+    "code": "13.77.030.008",
+    "villageCode": "008",
+    "districtCode": "13.77.030",
+    "name": "Manggung",
+    "alias": "Manggung"
+  },
+  {
+    "code": "13.77.030.009",
+    "villageCode": "009",
+    "districtCode": "13.77.030",
+    "name": "Cubadak Air",
+    "alias": "Cubadak Air"
+  },
+  {
+    "code": "13.77.030.010",
+    "villageCode": "010",
+    "districtCode": "13.77.030",
+    "name": "Cubadak Air Selatan",
+    "alias": "Cubadak Air Selatan"
+  },
+  {
+    "code": "13.77.030.011",
+    "villageCode": "011",
+    "districtCode": "13.77.030",
+    "name": "Sikapak Timur",
+    "alias": "Sikapak Timur"
+  },
+  {
+    "code": "13.77.030.012",
+    "villageCode": "012",
+    "districtCode": "13.77.030",
+    "name": "Sikapak Barat",
+    "alias": "Sikapak Barat"
+  },
+  {
+    "code": "13.77.030.013",
+    "villageCode": "013",
+    "districtCode": "13.77.030",
+    "name": "Tungkal Selatan",
+    "alias": "Tungkal Selatan"
+  },
+  {
+    "code": "13.77.030.014",
+    "villageCode": "014",
+    "districtCode": "13.77.030",
+    "name": "Tungkal Utara",
+    "alias": "Tungkal Utara"
+  },
+  {
+    "code": "13.77.030.015",
+    "villageCode": "015",
+    "districtCode": "13.77.030",
+    "name": "Cubadak Air Utara",
+    "alias": "Cubadak Air Utara"
+  },
+  {
+    "code": "13.77.030.016",
+    "villageCode": "016",
+    "districtCode": "13.77.030",
+    "name": "Naras Hilir",
+    "alias": "Naras Hilir"
+  },
+  {
+    "code": "13.77.030.017",
+    "villageCode": "017",
+    "districtCode": "13.77.030",
+    "name": "Naras I",
+    "alias": "Naras I"
+  },
+  {
+    "code": "13.77.030.018",
+    "villageCode": "018",
+    "districtCode": "13.77.030",
+    "name": "Balai Naras",
+    "alias": "Balai Naras"
+  },
+  {
+    "code": "13.77.030.019",
+    "villageCode": "019",
+    "districtCode": "13.77.030",
+    "name": "Padang Birik-Birik",
+    "alias": "Padang Birik-Birik"
+  },
+  {
+    "code": "13.77.030.020",
+    "villageCode": "020",
+    "districtCode": "13.77.030",
+    "name": "Sintuk",
+    "alias": "Sintuk"
+  },
+  {
+    "code": "13.77.030.021",
+    "villageCode": "021",
+    "districtCode": "13.77.030",
+    "name": "Sungai Rambai",
+    "alias": "Sungai Rambai"
+  }
+]

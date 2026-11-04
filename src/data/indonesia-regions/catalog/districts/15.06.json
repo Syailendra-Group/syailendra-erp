@@ -1,0 +1,90 @@
+[
+  {
+    "code": "15.06.010",
+    "districtCode": "010",
+    "regencyCode": "15.06",
+    "provinceCode": "15",
+    "name": "Kecamatan Mendahara",
+    "alias": "Mendahara"
+  },
+  {
+    "code": "15.06.011",
+    "districtCode": "011",
+    "regencyCode": "15.06",
+    "provinceCode": "15",
+    "name": "Kecamatan Mendahara Ulu",
+    "alias": "Mendahara Ulu"
+  },
+  {
+    "code": "15.06.012",
+    "districtCode": "012",
+    "regencyCode": "15.06",
+    "provinceCode": "15",
+    "name": "Kecamatan Geragai",
+    "alias": "Geragai"
+  },
+  {
+    "code": "15.06.020",
+    "districtCode": "020",
+    "regencyCode": "15.06",
+    "provinceCode": "15",
+    "name": "Kecamatan Dendang",
+    "alias": "Dendang"
+  },
+  {
+    "code": "15.06.031",
+    "districtCode": "031",
+    "regencyCode": "15.06",
+    "provinceCode": "15",
+    "name": "Kecamatan Muara Sabak Barat",
+    "alias": "Muara Sabak Barat"
+  },
+  {
+    "code": "15.06.032",
+    "districtCode": "032",
+    "regencyCode": "15.06",
+    "provinceCode": "15",
+    "name": "Kecamatan Muara Sabak Timur",
+    "alias": "Muara Sabak Timur"
+  },
+  {
+    "code": "15.06.033",
+    "districtCode": "033",
+    "regencyCode": "15.06",
+    "provinceCode": "15",
+    "name": "Kecamatan Kuala Jambi",
+    "alias": "Kuala Jambi"
+  },
+  {
+    "code": "15.06.040",
+    "districtCode": "040",
+    "regencyCode": "15.06",
+    "provinceCode": "15",
+    "name": "Kecamatan Rantau Rasau",
+    "alias": "Rantau Rasau"
+  },
+  {
+    "code": "15.06.041",
+    "districtCode": "041",
+    "regencyCode": "15.06",
+    "provinceCode": "15",
+    "name": "Kecamatan Berbak",
+    "alias": "Berbak"
+  },
+  {
+    "code": "15.06.050",
+    "districtCode": "050",
+    "regencyCode": "15.06",
+    "provinceCode": "15",
+    "name": "Kecamatan Nipah Panjang",
+    "alias": "Nipah Panjang"
+  },
+  {
+    "code": "15.06.060",
+    "districtCode": "060",
+    "regencyCode": "15.06",
+    "provinceCode": "15",
+    "name": "Kecamatan Sadu",
+    "alias": "Sadu"
+  }
+]

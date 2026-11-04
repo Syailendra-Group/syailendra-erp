@@ -1,0 +1,86 @@
+[
+  {
+    "code": "12.77.020.001",
+    "villageCode": "001",
+    "districtCode": "12.77.020",
+    "name": "Hanopan",
+    "alias": "Hanopan"
+  },
+  {
+    "code": "12.77.020.002",
+    "villageCode": "002",
+    "districtCode": "12.77.020",
+    "name": "Sidangkal",
+    "alias": "Sidangkal"
+  },
+  {
+    "code": "12.77.020.003",
+    "villageCode": "003",
+    "districtCode": "12.77.020",
+    "name": "Wek Vi",
+    "alias": "Wek Vi"
+  },
+  {
+    "code": "12.77.020.004",
+    "villageCode": "004",
+    "districtCode": "12.77.020",
+    "name": "Ujung Padang",
+    "alias": "Ujung Padang"
+  },
+  {
+    "code": "12.77.020.005",
+    "villageCode": "005",
+    "districtCode": "12.77.020",
+    "name": "Aek Tampang",
+    "alias": "Aek Tampang"
+  },
+  {
+    "code": "12.77.020.006",
+    "villageCode": "006",
+    "districtCode": "12.77.020",
+    "name": "Padang Matinggi",
+    "alias": "Padang Matinggi"
+  },
+  {
+    "code": "12.77.020.007",
+    "villageCode": "007",
+    "districtCode": "12.77.020",
+    "name": "Silandit",
+    "alias": "Silandit"
+  },
+  {
+    "code": "12.77.020.008",
+    "villageCode": "008",
+    "districtCode": "12.77.020",
+    "name": "Wek V",
+    "alias": "Wek V"
+  },
+  {
+    "code": "12.77.020.009",
+    "villageCode": "009",
+    "districtCode": "12.77.020",
+    "name": "Sitamiang",
+    "alias": "Sitamiang"
+  },
+  {
+    "code": "12.77.020.010",
+    "villageCode": "010",
+    "districtCode": "12.77.020",
+    "name": "Losung",
+    "alias": "Losung"
+  },
+  {
+    "code": "12.77.020.011",
+    "villageCode": "011",
+    "districtCode": "12.77.020",
+    "name": "Padang Matinggi Lestari",
+    "alias": "Padang Matinggi Lestari"
+  },
+  {
+    "code": "12.77.020.012",
+    "villageCode": "012",
+    "districtCode": "12.77.020",
+    "name": "Sitamiang Baru",
+    "alias": "Sitamiang Baru"
+  }
+]

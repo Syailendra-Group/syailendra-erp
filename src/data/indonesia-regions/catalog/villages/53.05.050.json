@@ -1,0 +1,58 @@
+[
+  {
+    "code": "53.05.050.001",
+    "villageCode": "001",
+    "districtCode": "53.05.050",
+    "name": "Pantae",
+    "alias": "Pantae"
+  },
+  {
+    "code": "53.05.050.002",
+    "villageCode": "002",
+    "districtCode": "53.05.050",
+    "name": "Oenaem",
+    "alias": "Oenaem"
+  },
+  {
+    "code": "53.05.050.003",
+    "villageCode": "003",
+    "districtCode": "53.05.050",
+    "name": "Upfaon",
+    "alias": "Upfaon"
+  },
+  {
+    "code": "53.05.050.007",
+    "villageCode": "007",
+    "districtCode": "53.05.050",
+    "name": "Tautpah",
+    "alias": "Tautpah"
+  },
+  {
+    "code": "53.05.050.010",
+    "villageCode": "010",
+    "districtCode": "53.05.050",
+    "name": "Tokbesi",
+    "alias": "Tokbesi"
+  },
+  {
+    "code": "53.05.050.011",
+    "villageCode": "011",
+    "districtCode": "53.05.050",
+    "name": "Supun",
+    "alias": "Supun"
+  },
+  {
+    "code": "53.05.050.012",
+    "villageCode": "012",
+    "districtCode": "53.05.050",
+    "name": "Sainiup",
+    "alias": "Sainiup"
+  },
+  {
+    "code": "53.05.050.013",
+    "villageCode": "013",
+    "districtCode": "53.05.050",
+    "name": "Tunbaen",
+    "alias": "Tunbaen"
+  }
+]

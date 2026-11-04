@@ -1,0 +1,58 @@
+[
+  {
+    "code": "97.07.470.001",
+    "villageCode": "001",
+    "districtCode": "97.07.470",
+    "name": "Siwiikma",
+    "alias": "Siwiikma"
+  },
+  {
+    "code": "97.07.470.002",
+    "villageCode": "002",
+    "districtCode": "97.07.470",
+    "name": "Piliam",
+    "alias": "Piliam"
+  },
+  {
+    "code": "97.07.470.003",
+    "villageCode": "003",
+    "districtCode": "97.07.470",
+    "name": "Pontenpilik",
+    "alias": "Pontenpilik"
+  },
+  {
+    "code": "97.07.470.004",
+    "villageCode": "004",
+    "districtCode": "97.07.470",
+    "name": "Hiklahin",
+    "alias": "Hiklahin"
+  },
+  {
+    "code": "97.07.470.005",
+    "villageCode": "005",
+    "districtCode": "97.07.470",
+    "name": "Helapilik",
+    "alias": "Helapilik"
+  },
+  {
+    "code": "97.07.470.006",
+    "villageCode": "006",
+    "districtCode": "97.07.470",
+    "name": "Pronggoli",
+    "alias": "Pronggoli"
+  },
+  {
+    "code": "97.07.470.007",
+    "villageCode": "007",
+    "districtCode": "97.07.470",
+    "name": "Lirutek",
+    "alias": "Lirutek"
+  },
+  {
+    "code": "97.07.470.008",
+    "villageCode": "008",
+    "districtCode": "97.07.470",
+    "name": "Huhulpunu",
+    "alias": "Huhulpunu"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "code": "33.13.070.001",
+    "villageCode": "001",
+    "districtCode": "33.13.070",
+    "name": "Puntukrejo",
+    "alias": "Puntukrejo"
+  },
+  {
+    "code": "33.13.070.002",
+    "villageCode": "002",
+    "districtCode": "33.13.070",
+    "name": "Berjo",
+    "alias": "Berjo"
+  },
+  {
+    "code": "33.13.070.003",
+    "villageCode": "003",
+    "districtCode": "33.13.070",
+    "name": "Girimulyo",
+    "alias": "Girimulyo"
+  },
+  {
+    "code": "33.13.070.004",
+    "villageCode": "004",
+    "districtCode": "33.13.070",
+    "name": "Segorogunung",
+    "alias": "Segorogunung"
+  },
+  {
+    "code": "33.13.070.005",
+    "villageCode": "005",
+    "districtCode": "33.13.070",
+    "name": "Kemuning",
+    "alias": "Kemuning"
+  },
+  {
+    "code": "33.13.070.006",
+    "villageCode": "006",
+    "districtCode": "33.13.070",
+    "name": "Nglegok",
+    "alias": "Nglegok"
+  },
+  {
+    "code": "33.13.070.007",
+    "villageCode": "007",
+    "districtCode": "33.13.070",
+    "name": "Dukuh",
+    "alias": "Dukuh"
+  },
+  {
+    "code": "33.13.070.008",
+    "villageCode": "008",
+    "districtCode": "33.13.070",
+    "name": "Jatirejo",
+    "alias": "Jatirejo"
+  },
+  {
+    "code": "33.13.070.009",
+    "villageCode": "009",
+    "districtCode": "33.13.070",
+    "name": "Ngargoyoso",
+    "alias": "Ngargoyoso"
+  }
+]

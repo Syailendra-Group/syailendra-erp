@@ -1,0 +1,79 @@
+[
+  {
+    "code": "63.04.150.001",
+    "villageCode": "001",
+    "districtCode": "63.04.150",
+    "name": "Pantang Baru",
+    "alias": "Pantang Baru"
+  },
+  {
+    "code": "63.04.150.002",
+    "villageCode": "002",
+    "districtCode": "63.04.150",
+    "name": "Pantang Raya",
+    "alias": "Pantang Raya"
+  },
+  {
+    "code": "63.04.150.003",
+    "villageCode": "003",
+    "districtCode": "63.04.150",
+    "name": "Bandar Karya",
+    "alias": "Bandar Karya"
+  },
+  {
+    "code": "63.04.150.004",
+    "villageCode": "004",
+    "districtCode": "63.04.150",
+    "name": "Tabukan Raya",
+    "alias": "Tabukan Raya"
+  },
+  {
+    "code": "63.04.150.005",
+    "villageCode": "005",
+    "districtCode": "63.04.150",
+    "name": "Karya Indah",
+    "alias": "Karya Indah"
+  },
+  {
+    "code": "63.04.150.006",
+    "villageCode": "006",
+    "districtCode": "63.04.150",
+    "name": "Karya Jadi",
+    "alias": "Karya Jadi"
+  },
+  {
+    "code": "63.04.150.007",
+    "villageCode": "007",
+    "districtCode": "63.04.150",
+    "name": "Karya Makmur",
+    "alias": "Karya Makmur"
+  },
+  {
+    "code": "63.04.150.008",
+    "villageCode": "008",
+    "districtCode": "63.04.150",
+    "name": "Teluk Tamba",
+    "alias": "Teluk Tamba"
+  },
+  {
+    "code": "63.04.150.009",
+    "villageCode": "009",
+    "districtCode": "63.04.150",
+    "name": "Tamba Jaya",
+    "alias": "Tamba Jaya"
+  },
+  {
+    "code": "63.04.150.010",
+    "villageCode": "010",
+    "districtCode": "63.04.150",
+    "name": "Rantau Bamban",
+    "alias": "Rantau Bamban"
+  },
+  {
+    "code": "63.04.150.011",
+    "villageCode": "011",
+    "districtCode": "63.04.150",
+    "name": "Muara Pulau",
+    "alias": "Muara Pulau"
+  }
+]

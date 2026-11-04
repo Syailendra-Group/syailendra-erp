@@ -1,0 +1,30 @@
+[
+  {
+    "code": "91.03.060.001",
+    "villageCode": "001",
+    "districtCode": "91.03.060",
+    "name": "Sabubar",
+    "alias": "Sabubar"
+  },
+  {
+    "code": "91.03.060.004",
+    "villageCode": "004",
+    "districtCode": "91.03.060",
+    "name": "Karuan",
+    "alias": "Karuan"
+  },
+  {
+    "code": "91.03.060.005",
+    "villageCode": "005",
+    "districtCode": "91.03.060",
+    "name": "Ambuar",
+    "alias": "Ambuar"
+  },
+  {
+    "code": "91.03.060.006",
+    "villageCode": "006",
+    "districtCode": "91.03.060",
+    "name": "Yarpate",
+    "alias": "Yarpate"
+  }
+]

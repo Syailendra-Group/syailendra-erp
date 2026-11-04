@@ -1,0 +1,50 @@
+[
+  {
+    "code": "16.72.010",
+    "districtCode": "010",
+    "regencyCode": "16.72",
+    "provinceCode": "16",
+    "name": "Kecamatan Rambang Kapak Tengah",
+    "alias": "Rambang Kapak Tengah"
+  },
+  {
+    "code": "16.72.020",
+    "districtCode": "020",
+    "regencyCode": "16.72",
+    "provinceCode": "16",
+    "name": "Kecamatan Prabumulih Timur",
+    "alias": "Prabumulih Timur"
+  },
+  {
+    "code": "16.72.021",
+    "districtCode": "021",
+    "regencyCode": "16.72",
+    "provinceCode": "16",
+    "name": "Kecamatan Prabumulih Selatan",
+    "alias": "Prabumulih Selatan"
+  },
+  {
+    "code": "16.72.030",
+    "districtCode": "030",
+    "regencyCode": "16.72",
+    "provinceCode": "16",
+    "name": "Kecamatan Prabumulih Barat",
+    "alias": "Prabumulih Barat"
+  },
+  {
+    "code": "16.72.031",
+    "districtCode": "031",
+    "regencyCode": "16.72",
+    "provinceCode": "16",
+    "name": "Kecamatan Prabumulih Utara",
+    "alias": "Prabumulih Utara"
+  },
+  {
+    "code": "16.72.040",
+    "districtCode": "040",
+    "regencyCode": "16.72",
+    "provinceCode": "16",
+    "name": "Kecamatan Cambai",
+    "alias": "Cambai"
+  }
+]

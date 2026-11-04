@@ -1,0 +1,100 @@
+[
+  {
+    "code": "72.02.040.001",
+    "villageCode": "001",
+    "districtCode": "72.02.040",
+    "name": "Babang Buyangge",
+    "alias": "Babang Buyangge"
+  },
+  {
+    "code": "72.02.040.002",
+    "villageCode": "002",
+    "districtCode": "72.02.040",
+    "name": "Kalolos",
+    "alias": "Kalolos"
+  },
+  {
+    "code": "72.02.040.003",
+    "villageCode": "003",
+    "districtCode": "72.02.040",
+    "name": "Tangkiang",
+    "alias": "Tangkiang"
+  },
+  {
+    "code": "72.02.040.004",
+    "villageCode": "004",
+    "districtCode": "72.02.040",
+    "name": "Padang",
+    "alias": "Padang"
+  },
+  {
+    "code": "72.02.040.005",
+    "villageCode": "005",
+    "districtCode": "72.02.040",
+    "name": "Manyula",
+    "alias": "Manyula"
+  },
+  {
+    "code": "72.02.040.006",
+    "villageCode": "006",
+    "districtCode": "72.02.040",
+    "name": "Uling",
+    "alias": "Uling"
+  },
+  {
+    "code": "72.02.040.007",
+    "villageCode": "007",
+    "districtCode": "72.02.040",
+    "name": "Kintom",
+    "alias": "Kintom"
+  },
+  {
+    "code": "72.02.040.008",
+    "villageCode": "008",
+    "districtCode": "72.02.040",
+    "name": "Samadoya",
+    "alias": "Samadoya"
+  },
+  {
+    "code": "72.02.040.009",
+    "villageCode": "009",
+    "districtCode": "72.02.040",
+    "name": "Dimpalon",
+    "alias": "Dimpalon"
+  },
+  {
+    "code": "72.02.040.010",
+    "villageCode": "010",
+    "districtCode": "72.02.040",
+    "name": "Solan",
+    "alias": "Solan"
+  },
+  {
+    "code": "72.02.040.011",
+    "villageCode": "011",
+    "districtCode": "72.02.040",
+    "name": "Mendono",
+    "alias": "Mendono"
+  },
+  {
+    "code": "72.02.040.015",
+    "villageCode": "015",
+    "districtCode": "72.02.040",
+    "name": "Solan Baru",
+    "alias": "Solan Baru"
+  },
+  {
+    "code": "72.02.040.017",
+    "villageCode": "017",
+    "districtCode": "72.02.040",
+    "name": "Mondonun",
+    "alias": "Mondonun"
+  },
+  {
+    "code": "72.02.040.019",
+    "villageCode": "019",
+    "districtCode": "72.02.040",
+    "name": "Dimpalon Baru",
+    "alias": "Dimpalon Baru"
+  }
+]

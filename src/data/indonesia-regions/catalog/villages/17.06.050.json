@@ -1,0 +1,51 @@
+[
+  {
+    "code": "17.06.050.001",
+    "villageCode": "001",
+    "districtCode": "17.06.050",
+    "name": "Sumber Makmur",
+    "alias": "Sumber Makmur"
+  },
+  {
+    "code": "17.06.050.002",
+    "villageCode": "002",
+    "districtCode": "17.06.050",
+    "name": "Tanjung Alai",
+    "alias": "Tanjung Alai"
+  },
+  {
+    "code": "17.06.050.003",
+    "villageCode": "003",
+    "districtCode": "17.06.050",
+    "name": "Lubuk Gedang",
+    "alias": "Lubuk Gedang"
+  },
+  {
+    "code": "17.06.050.010",
+    "villageCode": "010",
+    "districtCode": "17.06.050",
+    "name": "Arah Tiga",
+    "alias": "Arah Tiga"
+  },
+  {
+    "code": "17.06.050.011",
+    "villageCode": "011",
+    "districtCode": "17.06.050",
+    "name": "Lubuk Pinang",
+    "alias": "Lubuk Pinang"
+  },
+  {
+    "code": "17.06.050.012",
+    "villageCode": "012",
+    "districtCode": "17.06.050",
+    "name": "Suka Pindah",
+    "alias": "Suka Pindah"
+  },
+  {
+    "code": "17.06.050.018",
+    "villageCode": "018",
+    "districtCode": "17.06.050",
+    "name": "Ranah Karya",
+    "alias": "Ranah Karya"
+  }
+]

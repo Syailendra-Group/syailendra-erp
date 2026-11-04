@@ -1,0 +1,44 @@
+[
+  {
+    "code": "32.07.200.001",
+    "villageCode": "001",
+    "districtCode": "32.07.200",
+    "name": "Ciparigi",
+    "alias": "Ciparigi"
+  },
+  {
+    "code": "32.07.200.002",
+    "villageCode": "002",
+    "districtCode": "32.07.200",
+    "name": "Bunter",
+    "alias": "Bunter"
+  },
+  {
+    "code": "32.07.200.003",
+    "villageCode": "003",
+    "districtCode": "32.07.200",
+    "name": "Margaharja",
+    "alias": "Margaharja"
+  },
+  {
+    "code": "32.07.200.004",
+    "villageCode": "004",
+    "districtCode": "32.07.200",
+    "name": "Margajaya",
+    "alias": "Margajaya"
+  },
+  {
+    "code": "32.07.200.005",
+    "villageCode": "005",
+    "districtCode": "32.07.200",
+    "name": "Sukadana",
+    "alias": "Sukadana"
+  },
+  {
+    "code": "32.07.200.006",
+    "villageCode": "006",
+    "districtCode": "32.07.200",
+    "name": "Salakaria",
+    "alias": "Salakaria"
+  }
+]

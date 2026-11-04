@@ -1,0 +1,23 @@
+[
+  {
+    "code": "21.03.031.001",
+    "villageCode": "001",
+    "districtCode": "21.03.031",
+    "name": "Batu Belanak",
+    "alias": "Batu Belanak"
+  },
+  {
+    "code": "21.03.031.002",
+    "villageCode": "002",
+    "districtCode": "21.03.031",
+    "name": "Gunung Jambat",
+    "alias": "Gunung Jambat"
+  },
+  {
+    "code": "21.03.031.003",
+    "villageCode": "003",
+    "districtCode": "21.03.031",
+    "name": "Air Kumpai",
+    "alias": "Air Kumpai"
+  }
+]

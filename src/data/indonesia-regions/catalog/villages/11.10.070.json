@@ -1,0 +1,324 @@
+[
+  {
+    "code": "11.10.070.001",
+    "villageCode": "001",
+    "districtCode": "11.10.070",
+    "name": "Pulo U",
+    "alias": "Pulo U"
+  },
+  {
+    "code": "11.10.070.002",
+    "villageCode": "002",
+    "districtCode": "11.10.070",
+    "name": "Abeuk Jaloh",
+    "alias": "Abeuk Jaloh"
+  },
+  {
+    "code": "11.10.070.003",
+    "villageCode": "003",
+    "districtCode": "11.10.070",
+    "name": "Pulo Seuna",
+    "alias": "Pulo Seuna"
+  },
+  {
+    "code": "11.10.070.004",
+    "villageCode": "004",
+    "districtCode": "11.10.070",
+    "name": "Pulo Blang",
+    "alias": "Pulo Blang"
+  },
+  {
+    "code": "11.10.070.005",
+    "villageCode": "005",
+    "districtCode": "11.10.070",
+    "name": "Pulo Iboih",
+    "alias": "Pulo Iboih"
+  },
+  {
+    "code": "11.10.070.006",
+    "villageCode": "006",
+    "districtCode": "11.10.070",
+    "name": "Pulo Reudeup",
+    "alias": "Pulo Reudeup"
+  },
+  {
+    "code": "11.10.070.007",
+    "villageCode": "007",
+    "districtCode": "11.10.070",
+    "name": "Gampong Meulinteung",
+    "alias": "Gampong Meulinteung"
+  },
+  {
+    "code": "11.10.070.008",
+    "villageCode": "008",
+    "districtCode": "11.10.070",
+    "name": "Lamkuta",
+    "alias": "Lamkuta"
+  },
+  {
+    "code": "11.10.070.009",
+    "villageCode": "009",
+    "districtCode": "11.10.070",
+    "name": "Ruseb Ara",
+    "alias": "Ruseb Ara"
+  },
+  {
+    "code": "11.10.070.010",
+    "villageCode": "010",
+    "districtCode": "11.10.070",
+    "name": "Lueng",
+    "alias": "Lueng"
+  },
+  {
+    "code": "11.10.070.011",
+    "villageCode": "011",
+    "districtCode": "11.10.070",
+    "name": "Ruseb Dayah",
+    "alias": "Ruseb Dayah"
+  },
+  {
+    "code": "11.10.070.012",
+    "villageCode": "012",
+    "districtCode": "11.10.070",
+    "name": "Kambuek",
+    "alias": "Kambuek"
+  },
+  {
+    "code": "11.10.070.013",
+    "villageCode": "013",
+    "districtCode": "11.10.070",
+    "name": "Bada Timu",
+    "alias": "Bada Timu"
+  },
+  {
+    "code": "11.10.070.014",
+    "villageCode": "014",
+    "districtCode": "11.10.070",
+    "name": "Bada Barat",
+    "alias": "Bada Barat"
+  },
+  {
+    "code": "11.10.070.015",
+    "villageCode": "015",
+    "districtCode": "11.10.070",
+    "name": "Barat Lanyan",
+    "alias": "Barat Lanyan"
+  },
+  {
+    "code": "11.10.070.016",
+    "villageCode": "016",
+    "districtCode": "11.10.070",
+    "name": "Geundot",
+    "alias": "Geundot"
+  },
+  {
+    "code": "11.10.070.017",
+    "villageCode": "017",
+    "districtCode": "11.10.070",
+    "name": "Meunasah Krueng",
+    "alias": "Meunasah Krueng"
+  },
+  {
+    "code": "11.10.070.018",
+    "villageCode": "018",
+    "districtCode": "11.10.070",
+    "name": "Paya Bieng",
+    "alias": "Paya Bieng"
+  },
+  {
+    "code": "11.10.070.019",
+    "villageCode": "019",
+    "districtCode": "11.10.070",
+    "name": "Jangka Alue",
+    "alias": "Jangka Alue"
+  },
+  {
+    "code": "11.10.070.020",
+    "villageCode": "020",
+    "districtCode": "11.10.070",
+    "name": "Jangka Keutapang",
+    "alias": "Jangka Keutapang"
+  },
+  {
+    "code": "11.10.070.021",
+    "villageCode": "021",
+    "districtCode": "11.10.070",
+    "name": "Lampoh Rayeuk",
+    "alias": "Lampoh Rayeuk"
+  },
+  {
+    "code": "11.10.070.022",
+    "villageCode": "022",
+    "districtCode": "11.10.070",
+    "name": "Lhok Bugeng",
+    "alias": "Lhok Bugeng"
+  },
+  {
+    "code": "11.10.070.023",
+    "villageCode": "023",
+    "districtCode": "11.10.070",
+    "name": "Linggong",
+    "alias": "Linggong"
+  },
+  {
+    "code": "11.10.070.024",
+    "villageCode": "024",
+    "districtCode": "11.10.070",
+    "name": "Alue Buya",
+    "alias": "Alue Buya"
+  },
+  {
+    "code": "11.10.070.025",
+    "villageCode": "025",
+    "districtCode": "11.10.070",
+    "name": "Tanoh Anoe",
+    "alias": "Tanoh Anoe"
+  },
+  {
+    "code": "11.10.070.026",
+    "villageCode": "026",
+    "districtCode": "11.10.070",
+    "name": "Tanjongan",
+    "alias": "Tanjongan"
+  },
+  {
+    "code": "11.10.070.027",
+    "villageCode": "027",
+    "districtCode": "11.10.070",
+    "name": "Jangka Alue Bie",
+    "alias": "Jangka Alue Bie"
+  },
+  {
+    "code": "11.10.070.028",
+    "villageCode": "028",
+    "districtCode": "11.10.070",
+    "name": "Jangka Mesjid",
+    "alias": "Jangka Mesjid"
+  },
+  {
+    "code": "11.10.070.029",
+    "villageCode": "029",
+    "districtCode": "11.10.070",
+    "name": "Jangka Alue U",
+    "alias": "Jangka Alue U"
+  },
+  {
+    "code": "11.10.070.030",
+    "villageCode": "030",
+    "districtCode": "11.10.070",
+    "name": "Pante Peusangan",
+    "alias": "Pante Peusangan"
+  },
+  {
+    "code": "11.10.070.031",
+    "villageCode": "031",
+    "districtCode": "11.10.070",
+    "name": "Bugak Krueng",
+    "alias": "Bugak Krueng"
+  },
+  {
+    "code": "11.10.070.032",
+    "villageCode": "032",
+    "districtCode": "11.10.070",
+    "name": "Bugak Mesjid",
+    "alias": "Bugak Mesjid"
+  },
+  {
+    "code": "11.10.070.033",
+    "villageCode": "033",
+    "districtCode": "11.10.070",
+    "name": "Bugak Krueng Mate",
+    "alias": "Bugak Krueng Mate"
+  },
+  {
+    "code": "11.10.070.034",
+    "villageCode": "034",
+    "districtCode": "11.10.070",
+    "name": "Bugeng",
+    "alias": "Bugeng"
+  },
+  {
+    "code": "11.10.070.035",
+    "villageCode": "035",
+    "districtCode": "11.10.070",
+    "name": "Kuala Ceurape",
+    "alias": "Kuala Ceurape"
+  },
+  {
+    "code": "11.10.070.036",
+    "villageCode": "036",
+    "districtCode": "11.10.070",
+    "name": "Alue Bayeu Utang",
+    "alias": "Alue Bayeu Utang"
+  },
+  {
+    "code": "11.10.070.037",
+    "villageCode": "037",
+    "districtCode": "11.10.070",
+    "name": "Ulee Ceue",
+    "alias": "Ulee Ceue"
+  },
+  {
+    "code": "11.10.070.038",
+    "villageCode": "038",
+    "districtCode": "11.10.070",
+    "name": "Alue Kuta",
+    "alias": "Alue Kuta"
+  },
+  {
+    "code": "11.10.070.039",
+    "villageCode": "039",
+    "districtCode": "11.10.070",
+    "name": "Punjot",
+    "alias": "Punjot"
+  },
+  {
+    "code": "11.10.070.040",
+    "villageCode": "040",
+    "districtCode": "11.10.070",
+    "name": "Pulo Pineung Mns Ii",
+    "alias": "Pulo Pineung Mns Ii"
+  },
+  {
+    "code": "11.10.070.041",
+    "villageCode": "041",
+    "districtCode": "11.10.070",
+    "name": "Bugak Blang",
+    "alias": "Bugak Blang"
+  },
+  {
+    "code": "11.10.070.042",
+    "villageCode": "042",
+    "districtCode": "11.10.070",
+    "name": "Pante Sukon",
+    "alias": "Pante Sukon"
+  },
+  {
+    "code": "11.10.070.043",
+    "villageCode": "043",
+    "districtCode": "11.10.070",
+    "name": "Pante Paku",
+    "alias": "Pante Paku"
+  },
+  {
+    "code": "11.10.070.044",
+    "villageCode": "044",
+    "districtCode": "11.10.070",
+    "name": "Pante Ranub",
+    "alias": "Pante Ranub"
+  },
+  {
+    "code": "11.10.070.045",
+    "villageCode": "045",
+    "districtCode": "11.10.070",
+    "name": "Alue Buya Pasi",
+    "alias": "Alue Buya Pasi"
+  },
+  {
+    "code": "11.10.070.046",
+    "villageCode": "046",
+    "districtCode": "11.10.070",
+    "name": "Alue Bie Pusong",
+    "alias": "Alue Bie Pusong"
+  }
+]

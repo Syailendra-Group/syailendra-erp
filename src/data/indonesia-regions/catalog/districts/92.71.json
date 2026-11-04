@@ -1,0 +1,82 @@
+[
+  {
+    "code": "92.71.010",
+    "districtCode": "010",
+    "regencyCode": "92.71",
+    "provinceCode": "92",
+    "name": "Kecamatan Klaurung",
+    "alias": "Klaurung"
+  },
+  {
+    "code": "92.71.020",
+    "districtCode": "020",
+    "regencyCode": "92.71",
+    "provinceCode": "92",
+    "name": "Kecamatan Sorong Utara",
+    "alias": "Sorong Utara"
+  },
+  {
+    "code": "92.71.030",
+    "districtCode": "030",
+    "regencyCode": "92.71",
+    "provinceCode": "92",
+    "name": "Kecamatan Sorong Timur",
+    "alias": "Sorong Timur"
+  },
+  {
+    "code": "92.71.040",
+    "districtCode": "040",
+    "regencyCode": "92.71",
+    "provinceCode": "92",
+    "name": "Kecamatan Sorong Manoi",
+    "alias": "Sorong Manoi"
+  },
+  {
+    "code": "92.71.050",
+    "districtCode": "050",
+    "regencyCode": "92.71",
+    "provinceCode": "92",
+    "name": "Kecamatan Malaimsimsa",
+    "alias": "Malaimsimsa"
+  },
+  {
+    "code": "92.71.060",
+    "districtCode": "060",
+    "regencyCode": "92.71",
+    "provinceCode": "92",
+    "name": "Kecamatan Sorong",
+    "alias": "Sorong"
+  },
+  {
+    "code": "92.71.070",
+    "districtCode": "070",
+    "regencyCode": "92.71",
+    "provinceCode": "92",
+    "name": "Kecamatan Sorong Kota",
+    "alias": "Sorong Kota"
+  },
+  {
+    "code": "92.71.080",
+    "districtCode": "080",
+    "regencyCode": "92.71",
+    "provinceCode": "92",
+    "name": "Kecamatan Sorong Kepulauan",
+    "alias": "Sorong Kepulauan"
+  },
+  {
+    "code": "92.71.090",
+    "districtCode": "090",
+    "regencyCode": "92.71",
+    "provinceCode": "92",
+    "name": "Kecamatan Sorong Barat",
+    "alias": "Sorong Barat"
+  },
+  {
+    "code": "92.71.100",
+    "districtCode": "100",
+    "regencyCode": "92.71",
+    "provinceCode": "92",
+    "name": "Kecamatan Maladum Mes",
+    "alias": "Maladum Mes"
+  }
+]

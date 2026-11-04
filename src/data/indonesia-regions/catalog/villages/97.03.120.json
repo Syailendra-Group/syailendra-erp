@@ -1,0 +1,79 @@
+[
+  {
+    "code": "97.03.120.001",
+    "villageCode": "001",
+    "districtCode": "97.03.120",
+    "name": "Dura",
+    "alias": "Dura"
+  },
+  {
+    "code": "97.03.120.002",
+    "villageCode": "002",
+    "districtCode": "97.03.120",
+    "name": "Oyi",
+    "alias": "Oyi"
+  },
+  {
+    "code": "97.03.120.003",
+    "villageCode": "003",
+    "districtCode": "97.03.120",
+    "name": "Olume",
+    "alias": "Olume"
+  },
+  {
+    "code": "97.03.120.004",
+    "villageCode": "004",
+    "districtCode": "97.03.120",
+    "name": "Longgalo",
+    "alias": "Longgalo"
+  },
+  {
+    "code": "97.03.120.005",
+    "villageCode": "005",
+    "districtCode": "97.03.120",
+    "name": "Palunggame",
+    "alias": "Palunggame"
+  },
+  {
+    "code": "97.03.120.006",
+    "villageCode": "006",
+    "districtCode": "97.03.120",
+    "name": "Yilondum",
+    "alias": "Yilondum"
+  },
+  {
+    "code": "97.03.120.007",
+    "villageCode": "007",
+    "districtCode": "97.03.120",
+    "name": "Gurika",
+    "alias": "Gurika"
+  },
+  {
+    "code": "97.03.120.008",
+    "villageCode": "008",
+    "districtCode": "97.03.120",
+    "name": "Bokon",
+    "alias": "Bokon"
+  },
+  {
+    "code": "97.03.120.009",
+    "villageCode": "009",
+    "districtCode": "97.03.120",
+    "name": "Kuapur",
+    "alias": "Kuapur"
+  },
+  {
+    "code": "97.03.120.010",
+    "villageCode": "010",
+    "districtCode": "97.03.120",
+    "name": "Wandinalome",
+    "alias": "Wandinalome"
+  },
+  {
+    "code": "97.03.120.011",
+    "villageCode": "011",
+    "districtCode": "97.03.120",
+    "name": "Ginime",
+    "alias": "Ginime"
+  }
+]

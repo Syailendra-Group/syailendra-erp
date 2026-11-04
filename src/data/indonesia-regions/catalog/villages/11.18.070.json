@@ -1,0 +1,72 @@
+[
+  {
+    "code": "11.18.070.001",
+    "villageCode": "001",
+    "districtCode": "11.18.070",
+    "name": "Lhok Pu Uk",
+    "alias": "Lhok Pu Uk"
+  },
+  {
+    "code": "11.18.070.002",
+    "villageCode": "002",
+    "districtCode": "11.18.070",
+    "name": "Tunong",
+    "alias": "Tunong"
+  },
+  {
+    "code": "11.18.070.003",
+    "villageCode": "003",
+    "districtCode": "11.18.070",
+    "name": "Teungoh",
+    "alias": "Teungoh"
+  },
+  {
+    "code": "11.18.070.004",
+    "villageCode": "004",
+    "districtCode": "11.18.070",
+    "name": "Peurade",
+    "alias": "Peurade"
+  },
+  {
+    "code": "11.18.070.005",
+    "villageCode": "005",
+    "districtCode": "11.18.070",
+    "name": "Reudeup",
+    "alias": "Reudeup"
+  },
+  {
+    "code": "11.18.070.006",
+    "villageCode": "006",
+    "districtCode": "11.18.070",
+    "name": "Mesjid",
+    "alias": "Mesjid"
+  },
+  {
+    "code": "11.18.070.007",
+    "villageCode": "007",
+    "districtCode": "11.18.070",
+    "name": "Muka Blang",
+    "alias": "Muka Blang"
+  },
+  {
+    "code": "11.18.070.008",
+    "villageCode": "008",
+    "districtCode": "11.18.070",
+    "name": "Hagu",
+    "alias": "Hagu"
+  },
+  {
+    "code": "11.18.070.009",
+    "villageCode": "009",
+    "districtCode": "11.18.070",
+    "name": "Tu Pantee Raja",
+    "alias": "Tu Pantee Raja"
+  },
+  {
+    "code": "11.18.070.010",
+    "villageCode": "010",
+    "districtCode": "11.18.070",
+    "name": "Keude",
+    "alias": "Keude"
+  }
+]

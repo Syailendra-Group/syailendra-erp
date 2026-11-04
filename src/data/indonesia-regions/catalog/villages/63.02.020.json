@@ -1,0 +1,79 @@
+[
+  {
+    "code": "63.02.020.008",
+    "villageCode": "008",
+    "districtCode": "63.02.020",
+    "name": "Lontar Selatan",
+    "alias": "Lontar Selatan"
+  },
+  {
+    "code": "63.02.020.009",
+    "villageCode": "009",
+    "districtCode": "63.02.020",
+    "name": "Lontar Utara",
+    "alias": "Lontar Utara"
+  },
+  {
+    "code": "63.02.020.010",
+    "villageCode": "010",
+    "districtCode": "63.02.020",
+    "name": "Gemuruh",
+    "alias": "Gemuruh"
+  },
+  {
+    "code": "63.02.020.012",
+    "villageCode": "012",
+    "districtCode": "63.02.020",
+    "name": "Lontar Timur",
+    "alias": "Lontar Timur"
+  },
+  {
+    "code": "63.02.020.014",
+    "villageCode": "014",
+    "districtCode": "63.02.020",
+    "name": "Tapian Balai",
+    "alias": "Tapian Balai"
+  },
+  {
+    "code": "63.02.020.015",
+    "villageCode": "015",
+    "districtCode": "63.02.020",
+    "name": "Sebanti",
+    "alias": "Sebanti"
+  },
+  {
+    "code": "63.02.020.017",
+    "villageCode": "017",
+    "districtCode": "63.02.020",
+    "name": "Sepagar",
+    "alias": "Sepagar"
+  },
+  {
+    "code": "63.02.020.018",
+    "villageCode": "018",
+    "districtCode": "63.02.020",
+    "name": "Sumber Sari ( Upt. Sepagar I)",
+    "alias": "Sumber Sari ( Upt. Sepagar I)"
+  },
+  {
+    "code": "63.02.020.019",
+    "villageCode": "019",
+    "districtCode": "63.02.020",
+    "name": "Subur Makmur (Upt. Sepagar Ii)",
+    "alias": "Subur Makmur (Upt. Sepagar Ii)"
+  },
+  {
+    "code": "63.02.020.020",
+    "villageCode": "020",
+    "districtCode": "63.02.020",
+    "name": "Terangkih",
+    "alias": "Terangkih"
+  },
+  {
+    "code": "63.02.020.021",
+    "villageCode": "021",
+    "districtCode": "63.02.020",
+    "name": "Semaras",
+    "alias": "Semaras"
+  }
+]

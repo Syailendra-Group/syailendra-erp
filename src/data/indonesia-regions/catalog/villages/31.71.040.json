@@ -1,0 +1,37 @@
+[
+  {
+    "code": "31.71.040.001",
+    "villageCode": "001",
+    "districtCode": "31.71.040",
+    "name": "Bintaro",
+    "alias": "Bintaro"
+  },
+  {
+    "code": "31.71.040.002",
+    "villageCode": "002",
+    "districtCode": "31.71.040",
+    "name": "Pesanggrahan",
+    "alias": "Pesanggrahan"
+  },
+  {
+    "code": "31.71.040.003",
+    "villageCode": "003",
+    "districtCode": "31.71.040",
+    "name": "Ulujami",
+    "alias": "Ulujami"
+  },
+  {
+    "code": "31.71.040.004",
+    "villageCode": "004",
+    "districtCode": "31.71.040",
+    "name": "Petukangan Selatan",
+    "alias": "Petukangan Selatan"
+  },
+  {
+    "code": "31.71.040.005",
+    "villageCode": "005",
+    "districtCode": "31.71.040",
+    "name": "Petukangan Utara",
+    "alias": "Petukangan Utara"
+  }
+]

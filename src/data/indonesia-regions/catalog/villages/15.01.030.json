@@ -1,0 +1,128 @@
+[
+  {
+    "code": "15.01.030.001",
+    "villageCode": "001",
+    "districtCode": "15.01.030",
+    "name": "Tanjung Batu",
+    "alias": "Tanjung Batu"
+  },
+  {
+    "code": "15.01.030.002",
+    "villageCode": "002",
+    "districtCode": "15.01.030",
+    "name": "Pidung",
+    "alias": "Pidung"
+  },
+  {
+    "code": "15.01.030.003",
+    "villageCode": "003",
+    "districtCode": "15.01.030",
+    "name": "Keluru",
+    "alias": "Keluru"
+  },
+  {
+    "code": "15.01.030.004",
+    "villageCode": "004",
+    "districtCode": "15.01.030",
+    "name": "Talang Lindung",
+    "alias": "Talang Lindung"
+  },
+  {
+    "code": "15.01.030.005",
+    "villageCode": "005",
+    "districtCode": "15.01.030",
+    "name": "Koto Agung",
+    "alias": "Koto Agung"
+  },
+  {
+    "code": "15.01.030.006",
+    "villageCode": "006",
+    "districtCode": "15.01.030",
+    "name": "Jujun",
+    "alias": "Jujun"
+  },
+  {
+    "code": "15.01.030.007",
+    "villageCode": "007",
+    "districtCode": "15.01.030",
+    "name": "Benik",
+    "alias": "Benik"
+  },
+  {
+    "code": "15.01.030.008",
+    "villageCode": "008",
+    "districtCode": "15.01.030",
+    "name": "Koto Dian",
+    "alias": "Koto Dian"
+  },
+  {
+    "code": "15.01.030.009",
+    "villageCode": "009",
+    "districtCode": "15.01.030",
+    "name": "Telago",
+    "alias": "Telago"
+  },
+  {
+    "code": "15.01.030.010",
+    "villageCode": "010",
+    "districtCode": "15.01.030",
+    "name": "Koto Tuo Pulo Tengah",
+    "alias": "Koto Tuo Pulo Tengah"
+  },
+  {
+    "code": "15.01.030.011",
+    "villageCode": "011",
+    "districtCode": "15.01.030",
+    "name": "Dusun Baru Pulau Tengah",
+    "alias": "Dusun Baru Pulau Tengah"
+  },
+  {
+    "code": "15.01.030.012",
+    "villageCode": "012",
+    "districtCode": "15.01.030",
+    "name": "Lempur Danau",
+    "alias": "Lempur Danau"
+  },
+  {
+    "code": "15.01.030.021",
+    "villageCode": "021",
+    "districtCode": "15.01.030",
+    "name": "Koto Baru",
+    "alias": "Koto Baru"
+  },
+  {
+    "code": "15.01.030.022",
+    "villageCode": "022",
+    "districtCode": "15.01.030",
+    "name": "Pulau Tengah",
+    "alias": "Pulau Tengah"
+  },
+  {
+    "code": "15.01.030.025",
+    "villageCode": "025",
+    "districtCode": "15.01.030",
+    "name": "Pasar Jujun",
+    "alias": "Pasar Jujun"
+  },
+  {
+    "code": "15.01.030.026",
+    "villageCode": "026",
+    "districtCode": "15.01.030",
+    "name": "Limok Manaih Pulau Tengah",
+    "alias": "Limok Manaih Pulau Tengah"
+  },
+  {
+    "code": "15.01.030.027",
+    "villageCode": "027",
+    "districtCode": "15.01.030",
+    "name": "Jembatan Merah Pulau Tengah",
+    "alias": "Jembatan Merah Pulau Tengah"
+  },
+  {
+    "code": "15.01.030.028",
+    "villageCode": "028",
+    "districtCode": "15.01.030",
+    "name": "Pancuran Bangko",
+    "alias": "Pancuran Bangko"
+  }
+]

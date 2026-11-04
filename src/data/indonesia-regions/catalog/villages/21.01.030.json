@@ -1,0 +1,44 @@
+[
+  {
+    "code": "21.01.030.006",
+    "villageCode": "006",
+    "districtCode": "21.01.030",
+    "name": "Tanjung Balai",
+    "alias": "Tanjung Balai"
+  },
+  {
+    "code": "21.01.030.007",
+    "villageCode": "007",
+    "districtCode": "21.01.030",
+    "name": "Teluk Air",
+    "alias": "Teluk Air"
+  },
+  {
+    "code": "21.01.030.008",
+    "villageCode": "008",
+    "districtCode": "21.01.030",
+    "name": "Sungai Lakam Timur",
+    "alias": "Sungai Lakam Timur"
+  },
+  {
+    "code": "21.01.030.009",
+    "villageCode": "009",
+    "districtCode": "21.01.030",
+    "name": "Lubuk Semut",
+    "alias": "Lubuk Semut"
+  },
+  {
+    "code": "21.01.030.011",
+    "villageCode": "011",
+    "districtCode": "21.01.030",
+    "name": "Tanjung Balai Kota",
+    "alias": "Tanjung Balai Kota"
+  },
+  {
+    "code": "21.01.030.012",
+    "villageCode": "012",
+    "districtCode": "21.01.030",
+    "name": "Sungai Lakam Barat",
+    "alias": "Sungai Lakam Barat"
+  }
+]

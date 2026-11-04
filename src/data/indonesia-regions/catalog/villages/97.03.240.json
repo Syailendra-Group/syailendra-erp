@@ -1,0 +1,51 @@
+[
+  {
+    "code": "97.03.240.001",
+    "villageCode": "001",
+    "districtCode": "97.03.240",
+    "name": "Balimneri",
+    "alias": "Balimneri"
+  },
+  {
+    "code": "97.03.240.002",
+    "villageCode": "002",
+    "districtCode": "97.03.240",
+    "name": "Ilim",
+    "alias": "Ilim"
+  },
+  {
+    "code": "97.03.240.003",
+    "villageCode": "003",
+    "districtCode": "97.03.240",
+    "name": "Dinuwi",
+    "alias": "Dinuwi"
+  },
+  {
+    "code": "97.03.240.004",
+    "villageCode": "004",
+    "districtCode": "97.03.240",
+    "name": "Wamitu",
+    "alias": "Wamitu"
+  },
+  {
+    "code": "97.03.240.005",
+    "villageCode": "005",
+    "districtCode": "97.03.240",
+    "name": "Timotani",
+    "alias": "Timotani"
+  },
+  {
+    "code": "97.03.240.006",
+    "villageCode": "006",
+    "districtCode": "97.03.240",
+    "name": "Gwilonik",
+    "alias": "Gwilonik"
+  },
+  {
+    "code": "97.03.240.007",
+    "villageCode": "007",
+    "districtCode": "97.03.240",
+    "name": "Kungganeri",
+    "alias": "Kungganeri"
+  }
+]

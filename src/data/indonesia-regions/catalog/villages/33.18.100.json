@@ -1,0 +1,205 @@
+[
+  {
+    "code": "33.18.100.001",
+    "villageCode": "001",
+    "districtCode": "33.18.100",
+    "name": "Panjunan",
+    "alias": "Panjunan"
+  },
+  {
+    "code": "33.18.100.002",
+    "villageCode": "002",
+    "districtCode": "33.18.100",
+    "name": "Gajahmati",
+    "alias": "Gajahmati"
+  },
+  {
+    "code": "33.18.100.003",
+    "villageCode": "003",
+    "districtCode": "33.18.100",
+    "name": "Mustokoharjo",
+    "alias": "Mustokoharjo"
+  },
+  {
+    "code": "33.18.100.004",
+    "villageCode": "004",
+    "districtCode": "33.18.100",
+    "name": "Semampir",
+    "alias": "Semampir"
+  },
+  {
+    "code": "33.18.100.005",
+    "villageCode": "005",
+    "districtCode": "33.18.100",
+    "name": "Pati Wetan",
+    "alias": "Pati Wetan"
+  },
+  {
+    "code": "33.18.100.006",
+    "villageCode": "006",
+    "districtCode": "33.18.100",
+    "name": "Blaru",
+    "alias": "Blaru"
+  },
+  {
+    "code": "33.18.100.007",
+    "villageCode": "007",
+    "districtCode": "33.18.100",
+    "name": "Pati Kidul",
+    "alias": "Pati Kidul"
+  },
+  {
+    "code": "33.18.100.008",
+    "villageCode": "008",
+    "districtCode": "33.18.100",
+    "name": "Plangitan",
+    "alias": "Plangitan"
+  },
+  {
+    "code": "33.18.100.009",
+    "villageCode": "009",
+    "districtCode": "33.18.100",
+    "name": "Puri",
+    "alias": "Puri"
+  },
+  {
+    "code": "33.18.100.010",
+    "villageCode": "010",
+    "districtCode": "33.18.100",
+    "name": "Winong",
+    "alias": "Winong"
+  },
+  {
+    "code": "33.18.100.011",
+    "villageCode": "011",
+    "districtCode": "33.18.100",
+    "name": "Ngarus",
+    "alias": "Ngarus"
+  },
+  {
+    "code": "33.18.100.012",
+    "villageCode": "012",
+    "districtCode": "33.18.100",
+    "name": "Pati Lor",
+    "alias": "Pati Lor"
+  },
+  {
+    "code": "33.18.100.013",
+    "villageCode": "013",
+    "districtCode": "33.18.100",
+    "name": "Parenggan",
+    "alias": "Parenggan"
+  },
+  {
+    "code": "33.18.100.014",
+    "villageCode": "014",
+    "districtCode": "33.18.100",
+    "name": "Sidoharjo",
+    "alias": "Sidoharjo"
+  },
+  {
+    "code": "33.18.100.015",
+    "villageCode": "015",
+    "districtCode": "33.18.100",
+    "name": "Kalidoro",
+    "alias": "Kalidoro"
+  },
+  {
+    "code": "33.18.100.016",
+    "villageCode": "016",
+    "districtCode": "33.18.100",
+    "name": "Sarirejo",
+    "alias": "Sarirejo"
+  },
+  {
+    "code": "33.18.100.017",
+    "villageCode": "017",
+    "districtCode": "33.18.100",
+    "name": "Geritan",
+    "alias": "Geritan"
+  },
+  {
+    "code": "33.18.100.018",
+    "villageCode": "018",
+    "districtCode": "33.18.100",
+    "name": "Dengkek",
+    "alias": "Dengkek"
+  },
+  {
+    "code": "33.18.100.019",
+    "villageCode": "019",
+    "districtCode": "33.18.100",
+    "name": "Sugiharjo",
+    "alias": "Sugiharjo"
+  },
+  {
+    "code": "33.18.100.020",
+    "villageCode": "020",
+    "districtCode": "33.18.100",
+    "name": "Widorokandang",
+    "alias": "Widorokandang"
+  },
+  {
+    "code": "33.18.100.021",
+    "villageCode": "021",
+    "districtCode": "33.18.100",
+    "name": "Payang",
+    "alias": "Payang"
+  },
+  {
+    "code": "33.18.100.022",
+    "villageCode": "022",
+    "districtCode": "33.18.100",
+    "name": "Kutoharjo",
+    "alias": "Kutoharjo"
+  },
+  {
+    "code": "33.18.100.023",
+    "villageCode": "023",
+    "districtCode": "33.18.100",
+    "name": "Sidokerto",
+    "alias": "Sidokerto"
+  },
+  {
+    "code": "33.18.100.024",
+    "villageCode": "024",
+    "districtCode": "33.18.100",
+    "name": "Mulyoharjo",
+    "alias": "Mulyoharjo"
+  },
+  {
+    "code": "33.18.100.025",
+    "villageCode": "025",
+    "districtCode": "33.18.100",
+    "name": "Tambaharjo",
+    "alias": "Tambaharjo"
+  },
+  {
+    "code": "33.18.100.026",
+    "villageCode": "026",
+    "districtCode": "33.18.100",
+    "name": "Tambahsari",
+    "alias": "Tambahsari"
+  },
+  {
+    "code": "33.18.100.027",
+    "villageCode": "027",
+    "districtCode": "33.18.100",
+    "name": "Ngepungrojo",
+    "alias": "Ngepungrojo"
+  },
+  {
+    "code": "33.18.100.028",
+    "villageCode": "028",
+    "districtCode": "33.18.100",
+    "name": "Purworejo",
+    "alias": "Purworejo"
+  },
+  {
+    "code": "33.18.100.029",
+    "villageCode": "029",
+    "districtCode": "33.18.100",
+    "name": "Sinoman",
+    "alias": "Sinoman"
+  }
+]

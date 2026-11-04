@@ -1,0 +1,100 @@
+[
+  {
+    "code": "14.03.123.001",
+    "villageCode": "001",
+    "districtCode": "14.03.123",
+    "name": "Pulau Burung",
+    "alias": "Pulau Burung"
+  },
+  {
+    "code": "14.03.123.002",
+    "villageCode": "002",
+    "districtCode": "14.03.123",
+    "name": "Bangun Harjo Jaya",
+    "alias": "Bangun Harjo Jaya"
+  },
+  {
+    "code": "14.03.123.003",
+    "villageCode": "003",
+    "districtCode": "14.03.123",
+    "name": "Ringin Jaya",
+    "alias": "Ringin Jaya"
+  },
+  {
+    "code": "14.03.123.004",
+    "villageCode": "004",
+    "districtCode": "14.03.123",
+    "name": "Mayang Sari Jaya",
+    "alias": "Mayang Sari Jaya"
+  },
+  {
+    "code": "14.03.123.005",
+    "villageCode": "005",
+    "districtCode": "14.03.123",
+    "name": "Bukit Sari Intan Jaya",
+    "alias": "Bukit Sari Intan Jaya"
+  },
+  {
+    "code": "14.03.123.006",
+    "villageCode": "006",
+    "districtCode": "14.03.123",
+    "name": "Manunggal Jaya",
+    "alias": "Manunggal Jaya"
+  },
+  {
+    "code": "14.03.123.007",
+    "villageCode": "007",
+    "districtCode": "14.03.123",
+    "name": "Teluk Nibung",
+    "alias": "Teluk Nibung"
+  },
+  {
+    "code": "14.03.123.008",
+    "villageCode": "008",
+    "districtCode": "14.03.123",
+    "name": "Sungai Danai",
+    "alias": "Sungai Danai"
+  },
+  {
+    "code": "14.03.123.009",
+    "villageCode": "009",
+    "districtCode": "14.03.123",
+    "name": "Sri Danai",
+    "alias": "Sri Danai"
+  },
+  {
+    "code": "14.03.123.010",
+    "villageCode": "010",
+    "districtCode": "14.03.123",
+    "name": "Sapta Jaya",
+    "alias": "Sapta Jaya"
+  },
+  {
+    "code": "14.03.123.011",
+    "villageCode": "011",
+    "districtCode": "14.03.123",
+    "name": "Keramat Jaya",
+    "alias": "Keramat Jaya"
+  },
+  {
+    "code": "14.03.123.012",
+    "villageCode": "012",
+    "districtCode": "14.03.123",
+    "name": "Suka Jaya",
+    "alias": "Suka Jaya"
+  },
+  {
+    "code": "14.03.123.014",
+    "villageCode": "014",
+    "districtCode": "14.03.123",
+    "name": "Binangun Jaya",
+    "alias": "Binangun Jaya"
+  },
+  {
+    "code": "14.03.123.015",
+    "villageCode": "015",
+    "districtCode": "14.03.123",
+    "name": "Sukoharjo Jaya",
+    "alias": "Sukoharjo Jaya"
+  }
+]

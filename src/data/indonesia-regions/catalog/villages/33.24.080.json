@@ -1,0 +1,65 @@
+[
+  {
+    "code": "33.24.080.007",
+    "villageCode": "007",
+    "districtCode": "33.24.080",
+    "name": "Kumpul Rejo",
+    "alias": "Kumpul Rejo"
+  },
+  {
+    "code": "33.24.080.008",
+    "villageCode": "008",
+    "districtCode": "33.24.080",
+    "name": "Karangtengah",
+    "alias": "Karangtengah"
+  },
+  {
+    "code": "33.24.080.009",
+    "villageCode": "009",
+    "districtCode": "33.24.080",
+    "name": "Sarirejo",
+    "alias": "Sarirejo"
+  },
+  {
+    "code": "33.24.080.010",
+    "villageCode": "010",
+    "districtCode": "33.24.080",
+    "name": "Krajan Kulon",
+    "alias": "Krajan Kulon"
+  },
+  {
+    "code": "33.24.080.011",
+    "villageCode": "011",
+    "districtCode": "33.24.080",
+    "name": "Kutoharjo",
+    "alias": "Kutoharjo"
+  },
+  {
+    "code": "33.24.080.012",
+    "villageCode": "012",
+    "districtCode": "33.24.080",
+    "name": "Nolokerto",
+    "alias": "Nolokerto"
+  },
+  {
+    "code": "33.24.080.013",
+    "villageCode": "013",
+    "districtCode": "33.24.080",
+    "name": "Sumberejo",
+    "alias": "Sumberejo"
+  },
+  {
+    "code": "33.24.080.014",
+    "villageCode": "014",
+    "districtCode": "33.24.080",
+    "name": "Mororejo",
+    "alias": "Mororejo"
+  },
+  {
+    "code": "33.24.080.015",
+    "villageCode": "015",
+    "districtCode": "33.24.080",
+    "name": "Wonorejo",
+    "alias": "Wonorejo"
+  }
+]

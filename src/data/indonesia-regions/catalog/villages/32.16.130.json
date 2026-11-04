@@ -1,0 +1,93 @@
+[
+  {
+    "code": "32.16.130.001",
+    "villageCode": "001",
+    "districtCode": "32.16.130",
+    "name": "Bantarsari",
+    "alias": "Bantarsari"
+  },
+  {
+    "code": "32.16.130.002",
+    "villageCode": "002",
+    "districtCode": "32.16.130",
+    "name": "Bantarjaya",
+    "alias": "Bantarjaya"
+  },
+  {
+    "code": "32.16.130.003",
+    "villageCode": "003",
+    "districtCode": "32.16.130",
+    "name": "Kertasari",
+    "alias": "Kertasari"
+  },
+  {
+    "code": "32.16.130.004",
+    "villageCode": "004",
+    "districtCode": "32.16.130",
+    "name": "Kertajaya",
+    "alias": "Kertajaya"
+  },
+  {
+    "code": "32.16.130.005",
+    "villageCode": "005",
+    "districtCode": "32.16.130",
+    "name": "Karanghaur",
+    "alias": "Karanghaur"
+  },
+  {
+    "code": "32.16.130.006",
+    "villageCode": "006",
+    "districtCode": "32.16.130",
+    "name": "Karangpatri",
+    "alias": "Karangpatri"
+  },
+  {
+    "code": "32.16.130.007",
+    "villageCode": "007",
+    "districtCode": "32.16.130",
+    "name": "Karangreja",
+    "alias": "Karangreja"
+  },
+  {
+    "code": "32.16.130.008",
+    "villageCode": "008",
+    "districtCode": "32.16.130",
+    "name": "Karangjaya",
+    "alias": "Karangjaya"
+  },
+  {
+    "code": "32.16.130.009",
+    "villageCode": "009",
+    "districtCode": "32.16.130",
+    "name": "Sumbersari",
+    "alias": "Sumbersari"
+  },
+  {
+    "code": "32.16.130.010",
+    "villageCode": "010",
+    "districtCode": "32.16.130",
+    "name": "Sumberreja",
+    "alias": "Sumberreja"
+  },
+  {
+    "code": "32.16.130.011",
+    "villageCode": "011",
+    "districtCode": "32.16.130",
+    "name": "Sumberurip",
+    "alias": "Sumberurip"
+  },
+  {
+    "code": "32.16.130.012",
+    "villageCode": "012",
+    "districtCode": "32.16.130",
+    "name": "Karangsegar",
+    "alias": "Karangsegar"
+  },
+  {
+    "code": "32.16.130.013",
+    "villageCode": "013",
+    "districtCode": "32.16.130",
+    "name": "Karangharja",
+    "alias": "Karangharja"
+  }
+]

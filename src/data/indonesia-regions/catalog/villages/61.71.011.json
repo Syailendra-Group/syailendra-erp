@@ -1,0 +1,30 @@
+[
+  {
+    "code": "61.71.011.001",
+    "villageCode": "001",
+    "districtCode": "61.71.011",
+    "name": "Bangka Belitung Laut",
+    "alias": "Bangka Belitung Laut"
+  },
+  {
+    "code": "61.71.011.002",
+    "villageCode": "002",
+    "districtCode": "61.71.011",
+    "name": "Bangka Belitung Darat",
+    "alias": "Bangka Belitung Darat"
+  },
+  {
+    "code": "61.71.011.003",
+    "villageCode": "003",
+    "districtCode": "61.71.011",
+    "name": "Bansir Laut",
+    "alias": "Bansir Laut"
+  },
+  {
+    "code": "61.71.011.004",
+    "villageCode": "004",
+    "districtCode": "61.71.011",
+    "name": "Bansir Darat",
+    "alias": "Bansir Darat"
+  }
+]

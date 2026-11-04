@@ -1,0 +1,527 @@
+[
+  {
+    "code": "11.11.110.001",
+    "villageCode": "001",
+    "districtCode": "11.11.110",
+    "name": "Geulumpang",
+    "alias": "Geulumpang"
+  },
+  {
+    "code": "11.11.110.002",
+    "villageCode": "002",
+    "districtCode": "11.11.110",
+    "name": "Mns Buloh Lt",
+    "alias": "Mns Buloh Lt"
+  },
+  {
+    "code": "11.11.110.003",
+    "villageCode": "003",
+    "districtCode": "11.11.110",
+    "name": "Alue Abee",
+    "alias": "Alue Abee"
+  },
+  {
+    "code": "11.11.110.004",
+    "villageCode": "004",
+    "districtCode": "11.11.110",
+    "name": "Alue Eumpok",
+    "alias": "Alue Eumpok"
+  },
+  {
+    "code": "11.11.110.005",
+    "villageCode": "005",
+    "districtCode": "11.11.110",
+    "name": "Alue Itam Reudeup",
+    "alias": "Alue Itam Reudeup"
+  },
+  {
+    "code": "11.11.110.006",
+    "villageCode": "006",
+    "districtCode": "11.11.110",
+    "name": "Buket Krueng",
+    "alias": "Buket Krueng"
+  },
+  {
+    "code": "11.11.110.007",
+    "villageCode": "007",
+    "districtCode": "11.11.110",
+    "name": "Meunasah Teungoh Lb",
+    "alias": "Meunasah Teungoh Lb"
+  },
+  {
+    "code": "11.11.110.008",
+    "villageCode": "008",
+    "districtCode": "11.11.110",
+    "name": "Kumbang Lt",
+    "alias": "Kumbang Lt"
+  },
+  {
+    "code": "11.11.110.009",
+    "villageCode": "009",
+    "districtCode": "11.11.110",
+    "name": "Alue Itam Baroh",
+    "alias": "Alue Itam Baroh"
+  },
+  {
+    "code": "11.11.110.010",
+    "villageCode": "010",
+    "districtCode": "11.11.110",
+    "name": "Mns Meuria",
+    "alias": "Mns Meuria"
+  },
+  {
+    "code": "11.11.110.011",
+    "villageCode": "011",
+    "districtCode": "11.11.110",
+    "name": "Arongan Lt",
+    "alias": "Arongan Lt"
+  },
+  {
+    "code": "11.11.110.012",
+    "villageCode": "012",
+    "districtCode": "11.11.110",
+    "name": "Buket Me Lt",
+    "alias": "Buket Me Lt"
+  },
+  {
+    "code": "11.11.110.013",
+    "villageCode": "013",
+    "districtCode": "11.11.110",
+    "name": "Mns Dayah Lt",
+    "alias": "Mns Dayah Lt"
+  },
+  {
+    "code": "11.11.110.014",
+    "villageCode": "014",
+    "districtCode": "11.11.110",
+    "name": "Mns Krueng Lt",
+    "alias": "Mns Krueng Lt"
+  },
+  {
+    "code": "11.11.110.015",
+    "villageCode": "015",
+    "districtCode": "11.11.110",
+    "name": "Mns Tuha",
+    "alias": "Mns Tuha"
+  },
+  {
+    "code": "11.11.110.016",
+    "villageCode": "016",
+    "districtCode": "11.11.110",
+    "name": "Meunasah Rayeuk Lb",
+    "alias": "Meunasah Rayeuk Lb"
+  },
+  {
+    "code": "11.11.110.017",
+    "villageCode": "017",
+    "districtCode": "11.11.110",
+    "name": "Meucat",
+    "alias": "Meucat"
+  },
+  {
+    "code": "11.11.110.018",
+    "villageCode": "018",
+    "districtCode": "11.11.110",
+    "name": "Mns Asan Lb",
+    "alias": "Mns Asan Lb"
+  },
+  {
+    "code": "11.11.110.019",
+    "villageCode": "019",
+    "districtCode": "11.11.110",
+    "name": "Rawa",
+    "alias": "Rawa"
+  },
+  {
+    "code": "11.11.110.020",
+    "villageCode": "020",
+    "districtCode": "11.11.110",
+    "name": "Babah Geudubang",
+    "alias": "Babah Geudubang"
+  },
+  {
+    "code": "11.11.110.021",
+    "villageCode": "021",
+    "districtCode": "11.11.110",
+    "name": "Meunasah Meurebo",
+    "alias": "Meunasah Meurebo"
+  },
+  {
+    "code": "11.11.110.022",
+    "villageCode": "022",
+    "districtCode": "11.11.110",
+    "name": "Ulee Gunong",
+    "alias": "Ulee Gunong"
+  },
+  {
+    "code": "11.11.110.023",
+    "villageCode": "023",
+    "districtCode": "11.11.110",
+    "name": "Teupin Keubeu",
+    "alias": "Teupin Keubeu"
+  },
+  {
+    "code": "11.11.110.024",
+    "villageCode": "024",
+    "districtCode": "11.11.110",
+    "name": "Seuneubok Dalam",
+    "alias": "Seuneubok Dalam"
+  },
+  {
+    "code": "11.11.110.025",
+    "villageCode": "025",
+    "districtCode": "11.11.110",
+    "name": "Grong Grong",
+    "alias": "Grong Grong"
+  },
+  {
+    "code": "11.11.110.026",
+    "villageCode": "026",
+    "districtCode": "11.11.110",
+    "name": "Lhok Kareung",
+    "alias": "Lhok Kareung"
+  },
+  {
+    "code": "11.11.110.027",
+    "villageCode": "027",
+    "districtCode": "11.11.110",
+    "name": "Cot Asan",
+    "alias": "Cot Asan"
+  },
+  {
+    "code": "11.11.110.028",
+    "villageCode": "028",
+    "districtCode": "11.11.110",
+    "name": "Buket Hagu",
+    "alias": "Buket Hagu"
+  },
+  {
+    "code": "11.11.110.030",
+    "villageCode": "030",
+    "districtCode": "11.11.110",
+    "name": "Mata Ie",
+    "alias": "Mata Ie"
+  },
+  {
+    "code": "11.11.110.031",
+    "villageCode": "031",
+    "districtCode": "11.11.110",
+    "name": "Mata U",
+    "alias": "Mata U"
+  },
+  {
+    "code": "11.11.110.032",
+    "villageCode": "032",
+    "districtCode": "11.11.110",
+    "name": "Lhok Seuntang",
+    "alias": "Lhok Seuntang"
+  },
+  {
+    "code": "11.11.110.033",
+    "villageCode": "033",
+    "districtCode": "11.11.110",
+    "name": "Ulee Tanoh",
+    "alias": "Ulee Tanoh"
+  },
+  {
+    "code": "11.11.110.034",
+    "villageCode": "034",
+    "districtCode": "11.11.110",
+    "name": "Nga Lt",
+    "alias": "Nga Lt"
+  },
+  {
+    "code": "11.11.110.035",
+    "villageCode": "035",
+    "districtCode": "11.11.110",
+    "name": "Meunasah Jok",
+    "alias": "Meunasah Jok"
+  },
+  {
+    "code": "11.11.110.036",
+    "villageCode": "036",
+    "districtCode": "11.11.110",
+    "name": "Meunasah Nga Lb",
+    "alias": "Meunasah Nga Lb"
+  },
+  {
+    "code": "11.11.110.037",
+    "villageCode": "037",
+    "districtCode": "11.11.110",
+    "name": "Matang Meunye",
+    "alias": "Matang Meunye"
+  },
+  {
+    "code": "11.11.110.038",
+    "villageCode": "038",
+    "districtCode": "11.11.110",
+    "name": "Beringin Lb",
+    "alias": "Beringin Lb"
+  },
+  {
+    "code": "11.11.110.039",
+    "villageCode": "039",
+    "districtCode": "11.11.110",
+    "name": "Manyang",
+    "alias": "Manyang"
+  },
+  {
+    "code": "11.11.110.040",
+    "villageCode": "040",
+    "districtCode": "11.11.110",
+    "name": "Mns Blang",
+    "alias": "Mns Blang"
+  },
+  {
+    "code": "11.11.110.041",
+    "villageCode": "041",
+    "districtCode": "11.11.110",
+    "name": "Ceubrek",
+    "alias": "Ceubrek"
+  },
+  {
+    "code": "11.11.110.042",
+    "villageCode": "042",
+    "districtCode": "11.11.110",
+    "name": "Kuta Lhoksukon",
+    "alias": "Kuta Lhoksukon"
+  },
+  {
+    "code": "11.11.110.043",
+    "villageCode": "043",
+    "districtCode": "11.11.110",
+    "name": "Dayah Lb",
+    "alias": "Dayah Lb"
+  },
+  {
+    "code": "11.11.110.044",
+    "villageCode": "044",
+    "districtCode": "11.11.110",
+    "name": "Mns Teungoh Lt",
+    "alias": "Mns Teungoh Lt"
+  },
+  {
+    "code": "11.11.110.045",
+    "villageCode": "045",
+    "districtCode": "11.11.110",
+    "name": "Meunasah Geulinggang",
+    "alias": "Meunasah Geulinggang"
+  },
+  {
+    "code": "11.11.110.046",
+    "villageCode": "046",
+    "districtCode": "11.11.110",
+    "name": "Mns Ulee Barat",
+    "alias": "Mns Ulee Barat"
+  },
+  {
+    "code": "11.11.110.047",
+    "villageCode": "047",
+    "districtCode": "11.11.110",
+    "name": "Pulo Dulang",
+    "alias": "Pulo Dulang"
+  },
+  {
+    "code": "11.11.110.048",
+    "villageCode": "048",
+    "districtCode": "11.11.110",
+    "name": "Meunasah Tutong",
+    "alias": "Meunasah Tutong"
+  },
+  {
+    "code": "11.11.110.049",
+    "villageCode": "049",
+    "districtCode": "11.11.110",
+    "name": "Meunasah Geumata",
+    "alias": "Meunasah Geumata"
+  },
+  {
+    "code": "11.11.110.050",
+    "villageCode": "050",
+    "districtCode": "11.11.110",
+    "name": "Pante",
+    "alias": "Pante"
+  },
+  {
+    "code": "11.11.110.051",
+    "villageCode": "051",
+    "districtCode": "11.11.110",
+    "name": "Trieng Matang Ubi",
+    "alias": "Trieng Matang Ubi"
+  },
+  {
+    "code": "11.11.110.052",
+    "villageCode": "052",
+    "districtCode": "11.11.110",
+    "name": "Meunye Matang Ubi",
+    "alias": "Meunye Matang Ubi"
+  },
+  {
+    "code": "11.11.110.053",
+    "villageCode": "053",
+    "districtCode": "11.11.110",
+    "name": "Blang Rubek",
+    "alias": "Blang Rubek"
+  },
+  {
+    "code": "11.11.110.054",
+    "villageCode": "054",
+    "districtCode": "11.11.110",
+    "name": "Alue Buket",
+    "alias": "Alue Buket"
+  },
+  {
+    "code": "11.11.110.055",
+    "villageCode": "055",
+    "districtCode": "11.11.110",
+    "name": "Mns Reudeup",
+    "alias": "Mns Reudeup"
+  },
+  {
+    "code": "11.11.110.056",
+    "villageCode": "056",
+    "districtCode": "11.11.110",
+    "name": "Nga Matang Ubi",
+    "alias": "Nga Matang Ubi"
+  },
+  {
+    "code": "11.11.110.057",
+    "villageCode": "057",
+    "districtCode": "11.11.110",
+    "name": "Buket Sentang",
+    "alias": "Buket Sentang"
+  },
+  {
+    "code": "11.11.110.058",
+    "villageCode": "058",
+    "districtCode": "11.11.110",
+    "name": "Blang Aman",
+    "alias": "Blang Aman"
+  },
+  {
+    "code": "11.11.110.059",
+    "villageCode": "059",
+    "districtCode": "11.11.110",
+    "name": "Cot U Sibak",
+    "alias": "Cot U Sibak"
+  },
+  {
+    "code": "11.11.110.060",
+    "villageCode": "060",
+    "districtCode": "11.11.110",
+    "name": "Bintang Hu",
+    "alias": "Bintang Hu"
+  },
+  {
+    "code": "11.11.110.061",
+    "villageCode": "061",
+    "districtCode": "11.11.110",
+    "name": "Cot Ara",
+    "alias": "Cot Ara"
+  },
+  {
+    "code": "11.11.110.062",
+    "villageCode": "062",
+    "districtCode": "11.11.110",
+    "name": "Cot Geulumpang Ab",
+    "alias": "Cot Geulumpang Ab"
+  },
+  {
+    "code": "11.11.110.063",
+    "villageCode": "063",
+    "districtCode": "11.11.110",
+    "name": "Abeuk Leupen",
+    "alias": "Abeuk Leupen"
+  },
+  {
+    "code": "11.11.110.064",
+    "villageCode": "064",
+    "districtCode": "11.11.110",
+    "name": "Matang Pupanji Ab",
+    "alias": "Matang Pupanji Ab"
+  },
+  {
+    "code": "11.11.110.065",
+    "villageCode": "065",
+    "districtCode": "11.11.110",
+    "name": "Matang Teungoh Ab",
+    "alias": "Matang Teungoh Ab"
+  },
+  {
+    "code": "11.11.110.066",
+    "villageCode": "066",
+    "districtCode": "11.11.110",
+    "name": "Meunasah Asan Ab",
+    "alias": "Meunasah Asan Ab"
+  },
+  {
+    "code": "11.11.110.067",
+    "villageCode": "067",
+    "districtCode": "11.11.110",
+    "name": "Mns Ranto",
+    "alias": "Mns Ranto"
+  },
+  {
+    "code": "11.11.110.068",
+    "villageCode": "068",
+    "districtCode": "11.11.110",
+    "name": "Keutapang",
+    "alias": "Keutapang"
+  },
+  {
+    "code": "11.11.110.069",
+    "villageCode": "069",
+    "districtCode": "11.11.110",
+    "name": "Alue Mudem",
+    "alias": "Alue Mudem"
+  },
+  {
+    "code": "11.11.110.070",
+    "villageCode": "070",
+    "districtCode": "11.11.110",
+    "name": "R A M B O T",
+    "alias": "R A M B O T"
+  },
+  {
+    "code": "11.11.110.071",
+    "villageCode": "071",
+    "districtCode": "11.11.110",
+    "name": "Ara Ab",
+    "alias": "Ara Ab"
+  },
+  {
+    "code": "11.11.110.072",
+    "villageCode": "072",
+    "districtCode": "11.11.110",
+    "name": "Meunasah Alue Drien Lb",
+    "alias": "Meunasah Alue Drien Lb"
+  },
+  {
+    "code": "11.11.110.073",
+    "villageCode": "073",
+    "districtCode": "11.11.110",
+    "name": "Mancang",
+    "alias": "Mancang"
+  },
+  {
+    "code": "11.11.110.074",
+    "villageCode": "074",
+    "districtCode": "11.11.110",
+    "name": "Mns Leubok Ab",
+    "alias": "Mns Leubok Ab"
+  },
+  {
+    "code": "11.11.110.075",
+    "villageCode": "075",
+    "districtCode": "11.11.110",
+    "name": "Trieng Pantang",
+    "alias": "Trieng Pantang"
+  },
+  {
+    "code": "11.11.110.076",
+    "villageCode": "076",
+    "districtCode": "11.11.110",
+    "name": "Meunasah Arongan Ab",
+    "alias": "Meunasah Arongan Ab"
+  }
+]

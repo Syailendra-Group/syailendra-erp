@@ -1,0 +1,93 @@
+[
+  {
+    "code": "35.08.050.001",
+    "villageCode": "001",
+    "districtCode": "35.08.050",
+    "name": "Pandanarum",
+    "alias": "Pandanarum"
+  },
+  {
+    "code": "35.08.050.002",
+    "villageCode": "002",
+    "districtCode": "35.08.050",
+    "name": "Pandanwangi",
+    "alias": "Pandanwangi"
+  },
+  {
+    "code": "35.08.050.003",
+    "villageCode": "003",
+    "districtCode": "35.08.050",
+    "name": "Sumberjati",
+    "alias": "Sumberjati"
+  },
+  {
+    "code": "35.08.050.004",
+    "villageCode": "004",
+    "districtCode": "35.08.050",
+    "name": "Tempeh Kidul",
+    "alias": "Tempeh Kidul"
+  },
+  {
+    "code": "35.08.050.005",
+    "villageCode": "005",
+    "districtCode": "35.08.050",
+    "name": "Lempeni",
+    "alias": "Lempeni"
+  },
+  {
+    "code": "35.08.050.006",
+    "villageCode": "006",
+    "districtCode": "35.08.050",
+    "name": "Tempeh Tengah",
+    "alias": "Tempeh Tengah"
+  },
+  {
+    "code": "35.08.050.007",
+    "villageCode": "007",
+    "districtCode": "35.08.050",
+    "name": "Kaliwungu",
+    "alias": "Kaliwungu"
+  },
+  {
+    "code": "35.08.050.008",
+    "villageCode": "008",
+    "districtCode": "35.08.050",
+    "name": "Tempeh Lor",
+    "alias": "Tempeh Lor"
+  },
+  {
+    "code": "35.08.050.009",
+    "villageCode": "009",
+    "districtCode": "35.08.050",
+    "name": "Besuk",
+    "alias": "Besuk"
+  },
+  {
+    "code": "35.08.050.010",
+    "villageCode": "010",
+    "districtCode": "35.08.050",
+    "name": "Jatisari",
+    "alias": "Jatisari"
+  },
+  {
+    "code": "35.08.050.011",
+    "villageCode": "011",
+    "districtCode": "35.08.050",
+    "name": "Pulo",
+    "alias": "Pulo"
+  },
+  {
+    "code": "35.08.050.012",
+    "villageCode": "012",
+    "districtCode": "35.08.050",
+    "name": "Gesang",
+    "alias": "Gesang"
+  },
+  {
+    "code": "35.08.050.013",
+    "villageCode": "013",
+    "districtCode": "35.08.050",
+    "name": "Jokarto",
+    "alias": "Jokarto"
+  }
+]

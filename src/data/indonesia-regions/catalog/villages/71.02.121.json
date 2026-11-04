@@ -1,0 +1,72 @@
+[
+  {
+    "code": "71.02.121.001",
+    "villageCode": "001",
+    "districtCode": "71.02.121",
+    "name": "Ranolambot",
+    "alias": "Ranolambot"
+  },
+  {
+    "code": "71.02.121.002",
+    "villageCode": "002",
+    "districtCode": "71.02.121",
+    "name": "Tombasian Atas",
+    "alias": "Tombasian Atas"
+  },
+  {
+    "code": "71.02.121.003",
+    "villageCode": "003",
+    "districtCode": "71.02.121",
+    "name": "Kanonang Dua",
+    "alias": "Kanonang Dua"
+  },
+  {
+    "code": "71.02.121.004",
+    "villageCode": "004",
+    "districtCode": "71.02.121",
+    "name": "Kanonang Empat",
+    "alias": "Kanonang Empat"
+  },
+  {
+    "code": "71.02.121.005",
+    "villageCode": "005",
+    "districtCode": "71.02.121",
+    "name": "Kanonang Lima",
+    "alias": "Kanonang Lima"
+  },
+  {
+    "code": "71.02.121.006",
+    "villageCode": "006",
+    "districtCode": "71.02.121",
+    "name": "Kanonang Satu",
+    "alias": "Kanonang Satu"
+  },
+  {
+    "code": "71.02.121.007",
+    "villageCode": "007",
+    "districtCode": "71.02.121",
+    "name": "Tombasian Atas Satu",
+    "alias": "Tombasian Atas Satu"
+  },
+  {
+    "code": "71.02.121.008",
+    "villageCode": "008",
+    "districtCode": "71.02.121",
+    "name": "Tombasian Bawah",
+    "alias": "Tombasian Bawah"
+  },
+  {
+    "code": "71.02.121.009",
+    "villageCode": "009",
+    "districtCode": "71.02.121",
+    "name": "Kayuuwi Satu",
+    "alias": "Kayuuwi Satu"
+  },
+  {
+    "code": "71.02.121.010",
+    "villageCode": "010",
+    "districtCode": "71.02.121",
+    "name": "Kayuuwi",
+    "alias": "Kayuuwi"
+  }
+]

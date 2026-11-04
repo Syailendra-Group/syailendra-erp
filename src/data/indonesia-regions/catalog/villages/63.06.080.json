@@ -1,0 +1,65 @@
+[
+  {
+    "code": "63.06.080.001",
+    "villageCode": "001",
+    "districtCode": "63.06.080",
+    "name": "Balimau",
+    "alias": "Balimau"
+  },
+  {
+    "code": "63.06.080.002",
+    "villageCode": "002",
+    "districtCode": "63.06.080",
+    "name": "Karang Paci",
+    "alias": "Karang Paci"
+  },
+  {
+    "code": "63.06.080.003",
+    "villageCode": "003",
+    "districtCode": "63.06.080",
+    "name": "Bago Tanggul",
+    "alias": "Bago Tanggul"
+  },
+  {
+    "code": "63.06.080.004",
+    "villageCode": "004",
+    "districtCode": "63.06.080",
+    "name": "Karang Bulan",
+    "alias": "Karang Bulan"
+  },
+  {
+    "code": "63.06.080.005",
+    "villageCode": "005",
+    "districtCode": "63.06.080",
+    "name": "Balanti",
+    "alias": "Balanti"
+  },
+  {
+    "code": "63.06.080.006",
+    "villageCode": "006",
+    "districtCode": "63.06.080",
+    "name": "Kalumpang",
+    "alias": "Kalumpang"
+  },
+  {
+    "code": "63.06.080.008",
+    "villageCode": "008",
+    "districtCode": "63.06.080",
+    "name": "Tambingkar",
+    "alias": "Tambingkar"
+  },
+  {
+    "code": "63.06.080.009",
+    "villageCode": "009",
+    "districtCode": "63.06.080",
+    "name": "Sirih",
+    "alias": "Sirih"
+  },
+  {
+    "code": "63.06.080.010",
+    "villageCode": "010",
+    "districtCode": "63.06.080",
+    "name": "Sirih Hulu",
+    "alias": "Sirih Hulu"
+  }
+]

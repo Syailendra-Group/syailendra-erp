@@ -1,0 +1,30 @@
+[
+  {
+    "code": "32.72.040.001",
+    "villageCode": "001",
+    "districtCode": "32.72.040",
+    "name": "Karang Tengah",
+    "alias": "Karang Tengah"
+  },
+  {
+    "code": "32.72.040.002",
+    "villageCode": "002",
+    "districtCode": "32.72.040",
+    "name": "Gunung Puyuh",
+    "alias": "Gunung Puyuh"
+  },
+  {
+    "code": "32.72.040.003",
+    "villageCode": "003",
+    "districtCode": "32.72.040",
+    "name": "Sriwidari",
+    "alias": "Sriwidari"
+  },
+  {
+    "code": "32.72.040.004",
+    "villageCode": "004",
+    "districtCode": "32.72.040",
+    "name": "Karamat",
+    "alias": "Karamat"
+  }
+]

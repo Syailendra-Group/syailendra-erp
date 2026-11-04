@@ -1,0 +1,72 @@
+[
+  {
+    "code": "35.03.050.001",
+    "villageCode": "001",
+    "districtCode": "35.03.050",
+    "name": "Watuagung",
+    "alias": "Watuagung"
+  },
+  {
+    "code": "35.03.050.002",
+    "villageCode": "002",
+    "districtCode": "35.03.050",
+    "name": "Pandean",
+    "alias": "Pandean"
+  },
+  {
+    "code": "35.03.050.003",
+    "villageCode": "003",
+    "districtCode": "35.03.050",
+    "name": "Salamwates",
+    "alias": "Salamwates"
+  },
+  {
+    "code": "35.03.050.004",
+    "villageCode": "004",
+    "districtCode": "35.03.050",
+    "name": "Ngerdani",
+    "alias": "Ngerdani"
+  },
+  {
+    "code": "35.03.050.005",
+    "villageCode": "005",
+    "districtCode": "35.03.050",
+    "name": "Petung",
+    "alias": "Petung"
+  },
+  {
+    "code": "35.03.050.006",
+    "villageCode": "006",
+    "districtCode": "35.03.050",
+    "name": "Cakul",
+    "alias": "Cakul"
+  },
+  {
+    "code": "35.03.050.007",
+    "villageCode": "007",
+    "districtCode": "35.03.050",
+    "name": "Siki",
+    "alias": "Siki"
+  },
+  {
+    "code": "35.03.050.008",
+    "villageCode": "008",
+    "districtCode": "35.03.050",
+    "name": "Dongko",
+    "alias": "Dongko"
+  },
+  {
+    "code": "35.03.050.009",
+    "villageCode": "009",
+    "districtCode": "35.03.050",
+    "name": "Sumberbening",
+    "alias": "Sumberbening"
+  },
+  {
+    "code": "35.03.050.010",
+    "villageCode": "010",
+    "districtCode": "35.03.050",
+    "name": "Pringapus",
+    "alias": "Pringapus"
+  }
+]

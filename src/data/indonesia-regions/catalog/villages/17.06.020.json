@@ -1,0 +1,79 @@
+[
+  {
+    "code": "17.06.020.005",
+    "villageCode": "005",
+    "districtCode": "17.06.020",
+    "name": "Air Hitam",
+    "alias": "Air Hitam"
+  },
+  {
+    "code": "17.06.020.006",
+    "villageCode": "006",
+    "districtCode": "17.06.020",
+    "name": "Tunggang",
+    "alias": "Tunggang"
+  },
+  {
+    "code": "17.06.020.007",
+    "villageCode": "007",
+    "districtCode": "17.06.020",
+    "name": "Air Berau",
+    "alias": "Air Berau"
+  },
+  {
+    "code": "17.06.020.008",
+    "villageCode": "008",
+    "districtCode": "17.06.020",
+    "name": "Pondok Suguh",
+    "alias": "Pondok Suguh"
+  },
+  {
+    "code": "17.06.020.010",
+    "villageCode": "010",
+    "districtCode": "17.06.020",
+    "name": "Air Bikuk",
+    "alias": "Air Bikuk"
+  },
+  {
+    "code": "17.06.020.011",
+    "villageCode": "011",
+    "districtCode": "17.06.020",
+    "name": "Sinar Laut",
+    "alias": "Sinar Laut"
+  },
+  {
+    "code": "17.06.020.013",
+    "villageCode": "013",
+    "districtCode": "17.06.020",
+    "name": "Lubuk Bento",
+    "alias": "Lubuk Bento"
+  },
+  {
+    "code": "17.06.020.014",
+    "villageCode": "014",
+    "districtCode": "17.06.020",
+    "name": "Pondok Kandang",
+    "alias": "Pondok Kandang"
+  },
+  {
+    "code": "17.06.020.022",
+    "villageCode": "022",
+    "districtCode": "17.06.020",
+    "name": "Bumi Mekar Jaya",
+    "alias": "Bumi Mekar Jaya"
+  },
+  {
+    "code": "17.06.020.023",
+    "villageCode": "023",
+    "districtCode": "17.06.020",
+    "name": "Karya Mulya",
+    "alias": "Karya Mulya"
+  },
+  {
+    "code": "17.06.020.024",
+    "villageCode": "024",
+    "districtCode": "17.06.020",
+    "name": "Teluk Bakung",
+    "alias": "Teluk Bakung"
+  }
+]

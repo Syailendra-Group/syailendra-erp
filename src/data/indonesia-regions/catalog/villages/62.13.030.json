@@ -1,0 +1,184 @@
+[
+  {
+    "code": "62.13.030.001",
+    "villageCode": "001",
+    "districtCode": "62.13.030",
+    "name": "Batu Tuhup",
+    "alias": "Batu Tuhup"
+  },
+  {
+    "code": "62.13.030.002",
+    "villageCode": "002",
+    "districtCode": "62.13.030",
+    "name": "Tumbang Bahan",
+    "alias": "Tumbang Bahan"
+  },
+  {
+    "code": "62.13.030.003",
+    "villageCode": "003",
+    "districtCode": "62.13.030",
+    "name": "Muara Laung I",
+    "alias": "Muara Laung I"
+  },
+  {
+    "code": "62.13.030.004",
+    "villageCode": "004",
+    "districtCode": "62.13.030",
+    "name": "Muara Laung Ii",
+    "alias": "Muara Laung Ii"
+  },
+  {
+    "code": "62.13.030.005",
+    "villageCode": "005",
+    "districtCode": "62.13.030",
+    "name": "Beras Belange",
+    "alias": "Beras Belange"
+  },
+  {
+    "code": "62.13.030.006",
+    "villageCode": "006",
+    "districtCode": "62.13.030",
+    "name": "Muara Tuhup",
+    "alias": "Muara Tuhup"
+  },
+  {
+    "code": "62.13.030.011",
+    "villageCode": "011",
+    "districtCode": "62.13.030",
+    "name": "Biha",
+    "alias": "Biha"
+  },
+  {
+    "code": "62.13.030.012",
+    "villageCode": "012",
+    "districtCode": "62.13.030",
+    "name": "Dirung Pundu",
+    "alias": "Dirung Pundu"
+  },
+  {
+    "code": "62.13.030.013",
+    "villageCode": "013",
+    "districtCode": "62.13.030",
+    "name": "Pelaci",
+    "alias": "Pelaci"
+  },
+  {
+    "code": "62.13.030.016",
+    "villageCode": "016",
+    "districtCode": "62.13.030",
+    "name": "Dirung Pinang",
+    "alias": "Dirung Pinang"
+  },
+  {
+    "code": "62.13.030.017",
+    "villageCode": "017",
+    "districtCode": "62.13.030",
+    "name": "Muara Tupuh",
+    "alias": "Muara Tupuh"
+  },
+  {
+    "code": "62.13.030.022",
+    "villageCode": "022",
+    "districtCode": "62.13.030",
+    "name": "Tawai Haui",
+    "alias": "Tawai Haui"
+  },
+  {
+    "code": "62.13.030.023",
+    "villageCode": "023",
+    "districtCode": "62.13.030",
+    "name": "Lakutan",
+    "alias": "Lakutan"
+  },
+  {
+    "code": "62.13.030.024",
+    "villageCode": "024",
+    "districtCode": "62.13.030",
+    "name": "Tumbang Bana",
+    "alias": "Tumbang Bana"
+  },
+  {
+    "code": "62.13.030.025",
+    "villageCode": "025",
+    "districtCode": "62.13.030",
+    "name": "Narui",
+    "alias": "Narui"
+  },
+  {
+    "code": "62.13.030.026",
+    "villageCode": "026",
+    "districtCode": "62.13.030",
+    "name": "Muara Maruwei I",
+    "alias": "Muara Maruwei I"
+  },
+  {
+    "code": "62.13.030.027",
+    "villageCode": "027",
+    "districtCode": "62.13.030",
+    "name": "Muara Maruwei Ii",
+    "alias": "Muara Maruwei Ii"
+  },
+  {
+    "code": "62.13.030.028",
+    "villageCode": "028",
+    "districtCode": "62.13.030",
+    "name": "Penda Siron",
+    "alias": "Penda Siron"
+  },
+  {
+    "code": "62.13.030.029",
+    "villageCode": "029",
+    "districtCode": "62.13.030",
+    "name": "Batu Bua Ii",
+    "alias": "Batu Bua Ii"
+  },
+  {
+    "code": "62.13.030.030",
+    "villageCode": "030",
+    "districtCode": "62.13.030",
+    "name": "Batu Bua I",
+    "alias": "Batu Bua I"
+  },
+  {
+    "code": "62.13.030.031",
+    "villageCode": "031",
+    "districtCode": "62.13.030",
+    "name": "Tahujan Laung",
+    "alias": "Tahujan Laung"
+  },
+  {
+    "code": "62.13.030.032",
+    "villageCode": "032",
+    "districtCode": "62.13.030",
+    "name": "Kalang Duhung",
+    "alias": "Kalang Duhung"
+  },
+  {
+    "code": "62.13.030.033",
+    "villageCode": "033",
+    "districtCode": "62.13.030",
+    "name": "Beralang",
+    "alias": "Beralang"
+  },
+  {
+    "code": "62.13.030.034",
+    "villageCode": "034",
+    "districtCode": "62.13.030",
+    "name": "Tumbang Bondang",
+    "alias": "Tumbang Bondang"
+  },
+  {
+    "code": "62.13.030.035",
+    "villageCode": "035",
+    "districtCode": "62.13.030",
+    "name": "Tumbang Tonduk",
+    "alias": "Tumbang Tonduk"
+  },
+  {
+    "code": "62.13.030.036",
+    "villageCode": "036",
+    "districtCode": "62.13.030",
+    "name": "Batu Karang",
+    "alias": "Batu Karang"
+  }
+]

@@ -1,0 +1,149 @@
+[
+  {
+    "code": "12.20.050.104",
+    "villageCode": "104",
+    "districtCode": "12.20.050",
+    "name": "Huta Pasir",
+    "alias": "Huta Pasir"
+  },
+  {
+    "code": "12.20.050.105",
+    "villageCode": "105",
+    "districtCode": "12.20.050",
+    "name": "Mandasip",
+    "alias": "Mandasip"
+  },
+  {
+    "code": "12.20.050.107",
+    "villageCode": "107",
+    "districtCode": "12.20.050",
+    "name": "Langkimat",
+    "alias": "Langkimat"
+  },
+  {
+    "code": "12.20.050.108",
+    "villageCode": "108",
+    "districtCode": "12.20.050",
+    "name": "Huta Baru",
+    "alias": "Huta Baru"
+  },
+  {
+    "code": "12.20.050.109",
+    "villageCode": "109",
+    "districtCode": "12.20.050",
+    "name": "Janji Matogu Sim",
+    "alias": "Janji Matogu Sim"
+  },
+  {
+    "code": "12.20.050.110",
+    "villageCode": "110",
+    "districtCode": "12.20.050",
+    "name": "Paran Padang",
+    "alias": "Paran Padang"
+  },
+  {
+    "code": "12.20.050.111",
+    "villageCode": "111",
+    "districtCode": "12.20.050",
+    "name": "Jabi-Jabi",
+    "alias": "Jabi-Jabi"
+  },
+  {
+    "code": "12.20.050.112",
+    "villageCode": "112",
+    "districtCode": "12.20.050",
+    "name": "Gunung Manaon Sim",
+    "alias": "Gunung Manaon Sim"
+  },
+  {
+    "code": "12.20.050.113",
+    "villageCode": "113",
+    "districtCode": "12.20.050",
+    "name": "Sionggoton",
+    "alias": "Sionggoton"
+  },
+  {
+    "code": "12.20.050.114",
+    "villageCode": "114",
+    "districtCode": "12.20.050",
+    "name": "Tanjung Botung",
+    "alias": "Tanjung Botung"
+  },
+  {
+    "code": "12.20.050.115",
+    "villageCode": "115",
+    "districtCode": "12.20.050",
+    "name": "Aek Raru",
+    "alias": "Aek Raru"
+  },
+  {
+    "code": "12.20.050.116",
+    "villageCode": "116",
+    "districtCode": "12.20.050",
+    "name": "Simangambat Julu",
+    "alias": "Simangambat Julu"
+  },
+  {
+    "code": "12.20.050.117",
+    "villageCode": "117",
+    "districtCode": "12.20.050",
+    "name": "Sigagan",
+    "alias": "Sigagan"
+  },
+  {
+    "code": "12.20.050.118",
+    "villageCode": "118",
+    "districtCode": "12.20.050",
+    "name": "Simangambat Jae",
+    "alias": "Simangambat Jae"
+  },
+  {
+    "code": "12.20.050.119",
+    "villageCode": "119",
+    "districtCode": "12.20.050",
+    "name": "Pagaran Tonga",
+    "alias": "Pagaran Tonga"
+  },
+  {
+    "code": "12.20.050.120",
+    "villageCode": "120",
+    "districtCode": "12.20.050",
+    "name": "Ujung Gading Julu",
+    "alias": "Ujung Gading Julu"
+  },
+  {
+    "code": "12.20.050.121",
+    "villageCode": "121",
+    "districtCode": "12.20.050",
+    "name": "Ulak Tano",
+    "alias": "Ulak Tano"
+  },
+  {
+    "code": "12.20.050.122",
+    "villageCode": "122",
+    "districtCode": "12.20.050",
+    "name": "Tanjung Maria",
+    "alias": "Tanjung Maria"
+  },
+  {
+    "code": "12.20.050.123",
+    "villageCode": "123",
+    "districtCode": "12.20.050",
+    "name": "Ujung Gading Jae",
+    "alias": "Ujung Gading Jae"
+  },
+  {
+    "code": "12.20.050.124",
+    "villageCode": "124",
+    "districtCode": "12.20.050",
+    "name": "Huta Baringin",
+    "alias": "Huta Baringin"
+  },
+  {
+    "code": "12.20.050.138",
+    "villageCode": "138",
+    "districtCode": "12.20.050",
+    "name": "Kosik Putih",
+    "alias": "Kosik Putih"
+  }
+]

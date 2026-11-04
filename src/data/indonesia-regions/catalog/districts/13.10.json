@@ -1,0 +1,58 @@
+[
+  {
+    "code": "13.10.010",
+    "districtCode": "010",
+    "regencyCode": "13.10",
+    "provinceCode": "13",
+    "name": "Kecamatan Sangir",
+    "alias": "Sangir"
+  },
+  {
+    "code": "13.10.020",
+    "districtCode": "020",
+    "regencyCode": "13.10",
+    "provinceCode": "13",
+    "name": "Kecamatan Sangir Jujuan",
+    "alias": "Sangir Jujuan"
+  },
+  {
+    "code": "13.10.021",
+    "districtCode": "021",
+    "regencyCode": "13.10",
+    "provinceCode": "13",
+    "name": "Kecamatan Sangir Balai Janggo",
+    "alias": "Sangir Balai Janggo"
+  },
+  {
+    "code": "13.10.030",
+    "districtCode": "030",
+    "regencyCode": "13.10",
+    "provinceCode": "13",
+    "name": "Kecamatan Sangir Batang Hari",
+    "alias": "Sangir Batang Hari"
+  },
+  {
+    "code": "13.10.040",
+    "districtCode": "040",
+    "regencyCode": "13.10",
+    "provinceCode": "13",
+    "name": "Kecamatan Sungai Pagu",
+    "alias": "Sungai Pagu"
+  },
+  {
+    "code": "13.10.041",
+    "districtCode": "041",
+    "regencyCode": "13.10",
+    "provinceCode": "13",
+    "name": "Kecamatan Pauah Duo",
+    "alias": "Pauah Duo"
+  },
+  {
+    "code": "13.10.050",
+    "districtCode": "050",
+    "regencyCode": "13.10",
+    "provinceCode": "13",
+    "name": "Kecamatan Koto Parik Gadang Diateh",
+    "alias": "Koto Parik Gadang Diateh"
+  }
+]

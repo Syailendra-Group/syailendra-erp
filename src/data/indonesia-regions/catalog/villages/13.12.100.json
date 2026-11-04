@@ -1,0 +1,30 @@
+[
+  {
+    "code": "13.12.100.001",
+    "villageCode": "001",
+    "districtCode": "13.12.100",
+    "name": "Sasak",
+    "alias": "Sasak"
+  },
+  {
+    "code": "13.12.100.002",
+    "villageCode": "002",
+    "districtCode": "13.12.100",
+    "name": "Padang Harapan",
+    "alias": "Padang Harapan"
+  },
+  {
+    "code": "13.12.100.003",
+    "villageCode": "003",
+    "districtCode": "13.12.100",
+    "name": "Ranah Pasisie",
+    "alias": "Ranah Pasisie"
+  },
+  {
+    "code": "13.12.100.004",
+    "villageCode": "004",
+    "districtCode": "13.12.100",
+    "name": "Maligi",
+    "alias": "Maligi"
+  }
+]

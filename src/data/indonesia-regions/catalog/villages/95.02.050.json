@@ -1,0 +1,37 @@
+[
+  {
+    "code": "95.02.050.001",
+    "villageCode": "001",
+    "districtCode": "95.02.050",
+    "name": "Ampera",
+    "alias": "Ampera"
+  },
+  {
+    "code": "95.02.050.002",
+    "villageCode": "002",
+    "districtCode": "95.02.050",
+    "name": "Persatuan",
+    "alias": "Persatuan"
+  },
+  {
+    "code": "95.02.050.003",
+    "villageCode": "003",
+    "districtCode": "95.02.050",
+    "name": "Sokanggo",
+    "alias": "Sokanggo"
+  },
+  {
+    "code": "95.02.050.004",
+    "villageCode": "004",
+    "districtCode": "95.02.050",
+    "name": "Mawan",
+    "alias": "Mawan"
+  },
+  {
+    "code": "95.02.050.005",
+    "villageCode": "005",
+    "districtCode": "95.02.050",
+    "name": "Mariam",
+    "alias": "Mariam"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "code": "32.17.050.009",
+    "villageCode": "009",
+    "districtCode": "32.17.050",
+    "name": "Singajaya",
+    "alias": "Singajaya"
+  },
+  {
+    "code": "32.17.050.011",
+    "villageCode": "011",
+    "districtCode": "32.17.050",
+    "name": "Tanjungwangi",
+    "alias": "Tanjungwangi"
+  },
+  {
+    "code": "32.17.050.012",
+    "villageCode": "012",
+    "districtCode": "32.17.050",
+    "name": "Situwangi",
+    "alias": "Situwangi"
+  },
+  {
+    "code": "32.17.050.013",
+    "villageCode": "013",
+    "districtCode": "32.17.050",
+    "name": "Pataruman",
+    "alias": "Pataruman"
+  },
+  {
+    "code": "32.17.050.014",
+    "villageCode": "014",
+    "districtCode": "32.17.050",
+    "name": "Cipatik",
+    "alias": "Cipatik"
+  },
+  {
+    "code": "32.17.050.015",
+    "villageCode": "015",
+    "districtCode": "32.17.050",
+    "name": "Citapen",
+    "alias": "Citapen"
+  },
+  {
+    "code": "32.17.050.016",
+    "villageCode": "016",
+    "districtCode": "32.17.050",
+    "name": "Cihampelas",
+    "alias": "Cihampelas"
+  },
+  {
+    "code": "32.17.050.017",
+    "villageCode": "017",
+    "districtCode": "32.17.050",
+    "name": "Mekarmukti",
+    "alias": "Mekarmukti"
+  },
+  {
+    "code": "32.17.050.020",
+    "villageCode": "020",
+    "districtCode": "32.17.050",
+    "name": "Tanjungjaya",
+    "alias": "Tanjungjaya"
+  },
+  {
+    "code": "32.17.050.021",
+    "villageCode": "021",
+    "districtCode": "32.17.050",
+    "name": "Mekarjaya",
+    "alias": "Mekarjaya"
+  }
+]

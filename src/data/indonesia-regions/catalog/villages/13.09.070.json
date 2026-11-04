@@ -1,0 +1,37 @@
+[
+  {
+    "code": "13.09.070.001",
+    "villageCode": "001",
+    "districtCode": "13.09.070",
+    "name": "Koto Kaciak",
+    "alias": "Koto Kaciak"
+  },
+  {
+    "code": "13.09.070.002",
+    "villageCode": "002",
+    "districtCode": "13.09.070",
+    "name": "Limo Koto",
+    "alias": "Limo Koto"
+  },
+  {
+    "code": "13.09.070.003",
+    "villageCode": "003",
+    "districtCode": "13.09.070",
+    "name": "Ganggo Hilia",
+    "alias": "Ganggo Hilia"
+  },
+  {
+    "code": "13.09.070.004",
+    "villageCode": "004",
+    "districtCode": "13.09.070",
+    "name": "Ganggo Mudiak",
+    "alias": "Ganggo Mudiak"
+  },
+  {
+    "code": "13.09.070.005",
+    "villageCode": "005",
+    "districtCode": "13.09.070",
+    "name": "Nagari Koto Kaciak Barat",
+    "alias": "Nagari Koto Kaciak Barat"
+  }
+]

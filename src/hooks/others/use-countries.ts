@@ -5,7 +5,6 @@ import {
   getCountriesAction,
   getCountriesPaginatedAction,
   getCountryByIdAction,
-  getCurrenciesAction,
   saveCountryAction
 } from '@/actions/others/country.action'
 
@@ -17,7 +16,6 @@ export const countryKeys = {
   all: ['countries'] as const,
   lists: () => [...countryKeys.all, 'list'] as const,
   paginated: (params: FetchCountriesParams) => [...countryKeys.all, 'paginated', params] as const,
-  currencies: () => [...countryKeys.all, 'currencies'] as const,
   detail: (id: number) => [...countryKeys.all, 'detail', id] as const
 }
 
@@ -29,16 +27,6 @@ export function useCountriesQuery() {
       return res.countries
     },
     staleTime: 60 * 1000
-  })
-}
-
-export function useCurrenciesQuery() {
-  return useQuery({
-    queryKey: countryKeys.currencies(),
-    queryFn: async () => {
-      return await getCurrenciesAction()
-    },
-    staleTime: 120 * 1000
   })
 }
 

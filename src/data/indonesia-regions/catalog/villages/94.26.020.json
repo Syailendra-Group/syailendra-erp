@@ -1,0 +1,72 @@
+[
+  {
+    "code": "94.26.020.010",
+    "villageCode": "010",
+    "districtCode": "94.26.020",
+    "name": "Sinonde",
+    "alias": "Sinonde"
+  },
+  {
+    "code": "94.26.020.012",
+    "villageCode": "012",
+    "districtCode": "94.26.020",
+    "name": "Sauri Sirami",
+    "alias": "Sauri Sirami"
+  },
+  {
+    "code": "94.26.020.013",
+    "villageCode": "013",
+    "districtCode": "94.26.020",
+    "name": "Koweda",
+    "alias": "Koweda"
+  },
+  {
+    "code": "94.26.020.014",
+    "villageCode": "014",
+    "districtCode": "94.26.020",
+    "name": "Kali Baru",
+    "alias": "Kali Baru"
+  },
+  {
+    "code": "94.26.020.015",
+    "villageCode": "015",
+    "districtCode": "94.26.020",
+    "name": "Sirami",
+    "alias": "Sirami"
+  },
+  {
+    "code": "94.26.020.016",
+    "villageCode": "016",
+    "districtCode": "94.26.020",
+    "name": "Bunggu",
+    "alias": "Bunggu"
+  },
+  {
+    "code": "94.26.020.017",
+    "villageCode": "017",
+    "districtCode": "94.26.020",
+    "name": "Obutai",
+    "alias": "Obutai"
+  },
+  {
+    "code": "94.26.020.018",
+    "villageCode": "018",
+    "districtCode": "94.26.020",
+    "name": "Wairo",
+    "alias": "Wairo"
+  },
+  {
+    "code": "94.26.020.019",
+    "villageCode": "019",
+    "districtCode": "94.26.020",
+    "name": "Kowogi",
+    "alias": "Kowogi"
+  },
+  {
+    "code": "94.26.020.020",
+    "villageCode": "020",
+    "districtCode": "94.26.020",
+    "name": "Emauri",
+    "alias": "Emauri"
+  }
+]

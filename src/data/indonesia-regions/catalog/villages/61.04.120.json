@@ -1,0 +1,58 @@
+[
+  {
+    "code": "61.04.120.002",
+    "villageCode": "002",
+    "districtCode": "61.04.120",
+    "name": "Sambora",
+    "alias": "Sambora"
+  },
+  {
+    "code": "61.04.120.003",
+    "villageCode": "003",
+    "districtCode": "61.04.120",
+    "name": "Benuang",
+    "alias": "Benuang"
+  },
+  {
+    "code": "61.04.120.004",
+    "villageCode": "004",
+    "districtCode": "61.04.120",
+    "name": "Pak Utan",
+    "alias": "Pak Utan"
+  },
+  {
+    "code": "61.04.120.005",
+    "villageCode": "005",
+    "districtCode": "61.04.120",
+    "name": "Sepang",
+    "alias": "Sepang"
+  },
+  {
+    "code": "61.04.120.006",
+    "villageCode": "006",
+    "districtCode": "61.04.120",
+    "name": "Pak Laheng",
+    "alias": "Pak Laheng"
+  },
+  {
+    "code": "61.04.120.007",
+    "villageCode": "007",
+    "districtCode": "61.04.120",
+    "name": "Terap",
+    "alias": "Terap"
+  },
+  {
+    "code": "61.04.120.008",
+    "villageCode": "008",
+    "districtCode": "61.04.120",
+    "name": "Kecurit",
+    "alias": "Kecurit"
+  },
+  {
+    "code": "61.04.120.009",
+    "villageCode": "009",
+    "districtCode": "61.04.120",
+    "name": "Toho Ilir",
+    "alias": "Toho Ilir"
+  }
+]

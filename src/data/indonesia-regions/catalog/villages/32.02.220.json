@@ -1,0 +1,72 @@
+[
+  {
+    "code": "32.02.220.001",
+    "villageCode": "001",
+    "districtCode": "32.02.220",
+    "name": "Cisarua",
+    "alias": "Cisarua"
+  },
+  {
+    "code": "32.02.220.002",
+    "villageCode": "002",
+    "districtCode": "32.02.220",
+    "name": "Balekambang",
+    "alias": "Balekambang"
+  },
+  {
+    "code": "32.02.220.003",
+    "villageCode": "003",
+    "districtCode": "32.02.220",
+    "name": "Nagrak Selatan",
+    "alias": "Nagrak Selatan"
+  },
+  {
+    "code": "32.02.220.004",
+    "villageCode": "004",
+    "districtCode": "32.02.220",
+    "name": "Nagrak Utara",
+    "alias": "Nagrak Utara"
+  },
+  {
+    "code": "32.02.220.005",
+    "villageCode": "005",
+    "districtCode": "32.02.220",
+    "name": "Kalaparea",
+    "alias": "Kalaparea"
+  },
+  {
+    "code": "32.02.220.006",
+    "villageCode": "006",
+    "districtCode": "32.02.220",
+    "name": "Darmareja",
+    "alias": "Darmareja"
+  },
+  {
+    "code": "32.02.220.007",
+    "villageCode": "007",
+    "districtCode": "32.02.220",
+    "name": "Girijaya",
+    "alias": "Girijaya"
+  },
+  {
+    "code": "32.02.220.008",
+    "villageCode": "008",
+    "districtCode": "32.02.220",
+    "name": "Babakan Panjang",
+    "alias": "Babakan Panjang"
+  },
+  {
+    "code": "32.02.220.009",
+    "villageCode": "009",
+    "districtCode": "32.02.220",
+    "name": "Pawenang",
+    "alias": "Pawenang"
+  },
+  {
+    "code": "32.02.220.010",
+    "villageCode": "010",
+    "districtCode": "32.02.220",
+    "name": "Cihanyawar",
+    "alias": "Cihanyawar"
+  }
+]

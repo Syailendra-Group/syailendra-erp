@@ -1,0 +1,65 @@
+[
+  {
+    "code": "35.10.060.001",
+    "villageCode": "001",
+    "districtCode": "35.10.060",
+    "name": "Sembulung",
+    "alias": "Sembulung"
+  },
+  {
+    "code": "35.10.060.002",
+    "villageCode": "002",
+    "districtCode": "35.10.060",
+    "name": "Tampo",
+    "alias": "Tampo"
+  },
+  {
+    "code": "35.10.060.003",
+    "villageCode": "003",
+    "districtCode": "35.10.060",
+    "name": "Plampangrejo",
+    "alias": "Plampangrejo"
+  },
+  {
+    "code": "35.10.060.004",
+    "villageCode": "004",
+    "districtCode": "35.10.060",
+    "name": "Kaliploso",
+    "alias": "Kaliploso"
+  },
+  {
+    "code": "35.10.060.005",
+    "villageCode": "005",
+    "districtCode": "35.10.060",
+    "name": "Benculuk",
+    "alias": "Benculuk"
+  },
+  {
+    "code": "35.10.060.006",
+    "villageCode": "006",
+    "districtCode": "35.10.060",
+    "name": "Cluring",
+    "alias": "Cluring"
+  },
+  {
+    "code": "35.10.060.007",
+    "villageCode": "007",
+    "districtCode": "35.10.060",
+    "name": "Tamanagung",
+    "alias": "Tamanagung"
+  },
+  {
+    "code": "35.10.060.008",
+    "villageCode": "008",
+    "districtCode": "35.10.060",
+    "name": "Sraten",
+    "alias": "Sraten"
+  },
+  {
+    "code": "35.10.060.009",
+    "villageCode": "009",
+    "districtCode": "35.10.060",
+    "name": "Sarimulyo",
+    "alias": "Sarimulyo"
+  }
+]

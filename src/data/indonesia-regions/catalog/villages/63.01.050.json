@@ -1,0 +1,65 @@
+[
+  {
+    "code": "63.01.050.001",
+    "villageCode": "001",
+    "districtCode": "63.01.050",
+    "name": "Bingkulu",
+    "alias": "Bingkulu"
+  },
+  {
+    "code": "63.01.050.002",
+    "villageCode": "002",
+    "districtCode": "63.01.050",
+    "name": "Kayu Abang",
+    "alias": "Kayu Abang"
+  },
+  {
+    "code": "63.01.050.004",
+    "villageCode": "004",
+    "districtCode": "63.01.050",
+    "name": "Gunung Raja",
+    "alias": "Gunung Raja"
+  },
+  {
+    "code": "63.01.050.005",
+    "villageCode": "005",
+    "districtCode": "63.01.050",
+    "name": "Pulau Sari",
+    "alias": "Pulau Sari"
+  },
+  {
+    "code": "63.01.050.006",
+    "villageCode": "006",
+    "districtCode": "63.01.050",
+    "name": "Tambang Ulang",
+    "alias": "Tambang Ulang"
+  },
+  {
+    "code": "63.01.050.007",
+    "villageCode": "007",
+    "districtCode": "63.01.050",
+    "name": "Sungai Jelai",
+    "alias": "Sungai Jelai"
+  },
+  {
+    "code": "63.01.050.008",
+    "villageCode": "008",
+    "districtCode": "63.01.050",
+    "name": "Sungai Pinang",
+    "alias": "Sungai Pinang"
+  },
+  {
+    "code": "63.01.050.009",
+    "villageCode": "009",
+    "districtCode": "63.01.050",
+    "name": "Martadah",
+    "alias": "Martadah"
+  },
+  {
+    "code": "63.01.050.010",
+    "villageCode": "010",
+    "districtCode": "63.01.050",
+    "name": "Martadah Baru",
+    "alias": "Martadah Baru"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "code": "74.72.012.001",
+    "villageCode": "001",
+    "districtCode": "74.72.012",
+    "name": "Bone-Bone",
+    "alias": "Bone-Bone"
+  },
+  {
+    "code": "74.72.012.002",
+    "villageCode": "002",
+    "districtCode": "74.72.012",
+    "name": "Tarafu",
+    "alias": "Tarafu"
+  },
+  {
+    "code": "74.72.012.003",
+    "villageCode": "003",
+    "districtCode": "74.72.012",
+    "name": "Wameo",
+    "alias": "Wameo"
+  },
+  {
+    "code": "74.72.012.004",
+    "villageCode": "004",
+    "districtCode": "74.72.012",
+    "name": "Kaobula",
+    "alias": "Kaobula"
+  },
+  {
+    "code": "74.72.012.005",
+    "villageCode": "005",
+    "districtCode": "74.72.012",
+    "name": "Lanto",
+    "alias": "Lanto"
+  },
+  {
+    "code": "74.72.012.006",
+    "villageCode": "006",
+    "districtCode": "74.72.012",
+    "name": "Nganganaumala",
+    "alias": "Nganganaumala"
+  }
+]

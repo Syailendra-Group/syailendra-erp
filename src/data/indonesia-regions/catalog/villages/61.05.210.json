@@ -1,0 +1,79 @@
+[
+  {
+    "code": "61.05.210.001",
+    "villageCode": "001",
+    "districtCode": "61.05.210",
+    "name": "Sotok",
+    "alias": "Sotok"
+  },
+  {
+    "code": "61.05.210.002",
+    "villageCode": "002",
+    "districtCode": "61.05.210",
+    "name": "Pengadang",
+    "alias": "Pengadang"
+  },
+  {
+    "code": "61.05.210.003",
+    "villageCode": "003",
+    "districtCode": "61.05.210",
+    "name": "Kenaman",
+    "alias": "Kenaman"
+  },
+  {
+    "code": "61.05.210.004",
+    "villageCode": "004",
+    "districtCode": "61.05.210",
+    "name": "Raut Muara",
+    "alias": "Raut Muara"
+  },
+  {
+    "code": "61.05.210.005",
+    "villageCode": "005",
+    "districtCode": "61.05.210",
+    "name": "Engkahan",
+    "alias": "Engkahan"
+  },
+  {
+    "code": "61.05.210.006",
+    "villageCode": "006",
+    "districtCode": "61.05.210",
+    "name": "Balai Karangan",
+    "alias": "Balai Karangan"
+  },
+  {
+    "code": "61.05.210.007",
+    "villageCode": "007",
+    "districtCode": "61.05.210",
+    "name": "Bungkang",
+    "alias": "Bungkang"
+  },
+  {
+    "code": "61.05.210.008",
+    "villageCode": "008",
+    "districtCode": "61.05.210",
+    "name": "Lubuk Sabuk",
+    "alias": "Lubuk Sabuk"
+  },
+  {
+    "code": "61.05.210.009",
+    "villageCode": "009",
+    "districtCode": "61.05.210",
+    "name": "Malenggang",
+    "alias": "Malenggang"
+  },
+  {
+    "code": "61.05.210.010",
+    "villageCode": "010",
+    "districtCode": "61.05.210",
+    "name": "Sei Tekam",
+    "alias": "Sei Tekam"
+  },
+  {
+    "code": "61.05.210.011",
+    "villageCode": "011",
+    "districtCode": "61.05.210",
+    "name": "Desa Persiapan Tapang Sebeluh",
+    "alias": "Desa Persiapan Tapang Sebeluh"
+  }
+]

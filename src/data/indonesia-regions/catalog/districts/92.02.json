@@ -1,0 +1,242 @@
+[
+  {
+    "code": "92.02.010",
+    "districtCode": "010",
+    "regencyCode": "92.02",
+    "provinceCode": "92",
+    "name": "Kecamatan Salawati Selatan",
+    "alias": "Salawati Selatan"
+  },
+  {
+    "code": "92.02.020",
+    "districtCode": "020",
+    "regencyCode": "92.02",
+    "provinceCode": "92",
+    "name": "Kecamatan Salawati Tengah",
+    "alias": "Salawati Tengah"
+  },
+  {
+    "code": "92.02.030",
+    "districtCode": "030",
+    "regencyCode": "92.02",
+    "provinceCode": "92",
+    "name": "Kecamatan Seget",
+    "alias": "Seget"
+  },
+  {
+    "code": "92.02.040",
+    "districtCode": "040",
+    "regencyCode": "92.02",
+    "provinceCode": "92",
+    "name": "Kecamatan Segun",
+    "alias": "Segun"
+  },
+  {
+    "code": "92.02.050",
+    "districtCode": "050",
+    "regencyCode": "92.02",
+    "provinceCode": "92",
+    "name": "Kecamatan Moisigin",
+    "alias": "Moisigin"
+  },
+  {
+    "code": "92.02.060",
+    "districtCode": "060",
+    "regencyCode": "92.02",
+    "provinceCode": "92",
+    "name": "Kecamatan Salawati",
+    "alias": "Salawati"
+  },
+  {
+    "code": "92.02.070",
+    "districtCode": "070",
+    "regencyCode": "92.02",
+    "provinceCode": "92",
+    "name": "Kecamatan Mayamuk",
+    "alias": "Mayamuk"
+  },
+  {
+    "code": "92.02.080",
+    "districtCode": "080",
+    "regencyCode": "92.02",
+    "provinceCode": "92",
+    "name": "Kecamatan Mariat",
+    "alias": "Mariat"
+  },
+  {
+    "code": "92.02.090",
+    "districtCode": "090",
+    "regencyCode": "92.02",
+    "provinceCode": "92",
+    "name": "Kecamatan Aimas",
+    "alias": "Aimas"
+  },
+  {
+    "code": "92.02.100",
+    "districtCode": "100",
+    "regencyCode": "92.02",
+    "provinceCode": "92",
+    "name": "Kecamatan Sorong",
+    "alias": "Sorong"
+  },
+  {
+    "code": "92.02.110",
+    "districtCode": "110",
+    "regencyCode": "92.02",
+    "provinceCode": "92",
+    "name": "Kecamatan Makbon",
+    "alias": "Makbon"
+  },
+  {
+    "code": "92.02.120",
+    "districtCode": "120",
+    "regencyCode": "92.02",
+    "provinceCode": "92",
+    "name": "Kecamatan Klayili",
+    "alias": "Klayili"
+  },
+  {
+    "code": "92.02.130",
+    "districtCode": "130",
+    "regencyCode": "92.02",
+    "provinceCode": "92",
+    "name": "Kecamatan Klaso",
+    "alias": "Klaso"
+  },
+  {
+    "code": "92.02.140",
+    "districtCode": "140",
+    "regencyCode": "92.02",
+    "provinceCode": "92",
+    "name": "Kecamatan Saengkeduk",
+    "alias": "Saengkeduk"
+  },
+  {
+    "code": "92.02.150",
+    "districtCode": "150",
+    "regencyCode": "92.02",
+    "provinceCode": "92",
+    "name": "Kecamatan Malabotom",
+    "alias": "Malabotom"
+  },
+  {
+    "code": "92.02.160",
+    "districtCode": "160",
+    "regencyCode": "92.02",
+    "provinceCode": "92",
+    "name": "Kecamatan Klamono",
+    "alias": "Klamono"
+  },
+  {
+    "code": "92.02.170",
+    "districtCode": "170",
+    "regencyCode": "92.02",
+    "provinceCode": "92",
+    "name": "Kecamatan Klasafet",
+    "alias": "Klasafet"
+  },
+  {
+    "code": "92.02.180",
+    "districtCode": "180",
+    "regencyCode": "92.02",
+    "provinceCode": "92",
+    "name": "Kecamatan Bagun",
+    "alias": "Bagun"
+  },
+  {
+    "code": "92.02.190",
+    "districtCode": "190",
+    "regencyCode": "92.02",
+    "provinceCode": "92",
+    "name": "Kecamatan Konhir",
+    "alias": "Konhir"
+  },
+  {
+    "code": "92.02.200",
+    "districtCode": "200",
+    "regencyCode": "92.02",
+    "provinceCode": "92",
+    "name": "Kecamatan Beraur",
+    "alias": "Beraur"
+  },
+  {
+    "code": "92.02.210",
+    "districtCode": "210",
+    "regencyCode": "92.02",
+    "provinceCode": "92",
+    "name": "Kecamatan Botain",
+    "alias": "Botain"
+  },
+  {
+    "code": "92.02.220",
+    "districtCode": "220",
+    "regencyCode": "92.02",
+    "provinceCode": "92",
+    "name": "Kecamatan Klawak",
+    "alias": "Klawak"
+  },
+  {
+    "code": "92.02.230",
+    "districtCode": "230",
+    "regencyCode": "92.02",
+    "provinceCode": "92",
+    "name": "Kecamatan Hobard",
+    "alias": "Hobard"
+  },
+  {
+    "code": "92.02.240",
+    "districtCode": "240",
+    "regencyCode": "92.02",
+    "provinceCode": "92",
+    "name": "Kecamatan Klabot",
+    "alias": "Klabot"
+  },
+  {
+    "code": "92.02.250",
+    "districtCode": "250",
+    "regencyCode": "92.02",
+    "provinceCode": "92",
+    "name": "Kecamatan Buk",
+    "alias": "Buk"
+  },
+  {
+    "code": "92.02.260",
+    "districtCode": "260",
+    "regencyCode": "92.02",
+    "provinceCode": "92",
+    "name": "Kecamatan Sayosa",
+    "alias": "Sayosa"
+  },
+  {
+    "code": "92.02.270",
+    "districtCode": "270",
+    "regencyCode": "92.02",
+    "provinceCode": "92",
+    "name": "Kecamatan Wemak",
+    "alias": "Wemak"
+  },
+  {
+    "code": "92.02.280",
+    "districtCode": "280",
+    "regencyCode": "92.02",
+    "provinceCode": "92",
+    "name": "Kecamatan Sayosa Timur",
+    "alias": "Sayosa Timur"
+  },
+  {
+    "code": "92.02.290",
+    "districtCode": "290",
+    "regencyCode": "92.02",
+    "provinceCode": "92",
+    "name": "Kecamatan Maudus",
+    "alias": "Maudus"
+  },
+  {
+    "code": "92.02.300",
+    "districtCode": "300",
+    "regencyCode": "92.02",
+    "provinceCode": "92",
+    "name": "Kecamatan Sunook",
+    "alias": "Sunook"
+  }
+]

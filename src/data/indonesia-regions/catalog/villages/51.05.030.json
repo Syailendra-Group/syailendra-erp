@@ -1,0 +1,128 @@
+[
+  {
+    "code": "51.05.030.001",
+    "villageCode": "001",
+    "districtCode": "51.05.030",
+    "name": "Satra",
+    "alias": "Satra"
+  },
+  {
+    "code": "51.05.030.002",
+    "villageCode": "002",
+    "districtCode": "51.05.030",
+    "name": "Tojan",
+    "alias": "Tojan"
+  },
+  {
+    "code": "51.05.030.003",
+    "villageCode": "003",
+    "districtCode": "51.05.030",
+    "name": "Gelgel",
+    "alias": "Gelgel"
+  },
+  {
+    "code": "51.05.030.004",
+    "villageCode": "004",
+    "districtCode": "51.05.030",
+    "name": "Kampung Gelgel",
+    "alias": "Kampung Gelgel"
+  },
+  {
+    "code": "51.05.030.005",
+    "villageCode": "005",
+    "districtCode": "51.05.030",
+    "name": "Jumpai",
+    "alias": "Jumpai"
+  },
+  {
+    "code": "51.05.030.006",
+    "villageCode": "006",
+    "districtCode": "51.05.030",
+    "name": "Tangkas",
+    "alias": "Tangkas"
+  },
+  {
+    "code": "51.05.030.007",
+    "villageCode": "007",
+    "districtCode": "51.05.030",
+    "name": "Kamasan",
+    "alias": "Kamasan"
+  },
+  {
+    "code": "51.05.030.008",
+    "villageCode": "008",
+    "districtCode": "51.05.030",
+    "name": "Semarapura Kelod",
+    "alias": "Semarapura Kelod"
+  },
+  {
+    "code": "51.05.030.009",
+    "villageCode": "009",
+    "districtCode": "51.05.030",
+    "name": "Semarapura Kelod Kangin",
+    "alias": "Semarapura Kelod Kangin"
+  },
+  {
+    "code": "51.05.030.010",
+    "villageCode": "010",
+    "districtCode": "51.05.030",
+    "name": "Semarapura Kangin",
+    "alias": "Semarapura Kangin"
+  },
+  {
+    "code": "51.05.030.011",
+    "villageCode": "011",
+    "districtCode": "51.05.030",
+    "name": "Semarapura Tengah",
+    "alias": "Semarapura Tengah"
+  },
+  {
+    "code": "51.05.030.012",
+    "villageCode": "012",
+    "districtCode": "51.05.030",
+    "name": "Semarapura Kauh",
+    "alias": "Semarapura Kauh"
+  },
+  {
+    "code": "51.05.030.013",
+    "villageCode": "013",
+    "districtCode": "51.05.030",
+    "name": "Semarapura Kaja",
+    "alias": "Semarapura Kaja"
+  },
+  {
+    "code": "51.05.030.014",
+    "villageCode": "014",
+    "districtCode": "51.05.030",
+    "name": "Akah",
+    "alias": "Akah"
+  },
+  {
+    "code": "51.05.030.015",
+    "villageCode": "015",
+    "districtCode": "51.05.030",
+    "name": "Manduang",
+    "alias": "Manduang"
+  },
+  {
+    "code": "51.05.030.016",
+    "villageCode": "016",
+    "districtCode": "51.05.030",
+    "name": "Selat",
+    "alias": "Selat"
+  },
+  {
+    "code": "51.05.030.017",
+    "villageCode": "017",
+    "districtCode": "51.05.030",
+    "name": "Tegak",
+    "alias": "Tegak"
+  },
+  {
+    "code": "51.05.030.018",
+    "villageCode": "018",
+    "districtCode": "51.05.030",
+    "name": "Selisihan",
+    "alias": "Selisihan"
+  }
+]

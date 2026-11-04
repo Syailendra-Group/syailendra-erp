@@ -1,0 +1,98 @@
+[
+  {
+    "code": "72.09.010",
+    "districtCode": "010",
+    "regencyCode": "72.09",
+    "provinceCode": "72",
+    "name": "Kecamatan Tojo Barat",
+    "alias": "Tojo Barat"
+  },
+  {
+    "code": "72.09.020",
+    "districtCode": "020",
+    "regencyCode": "72.09",
+    "provinceCode": "72",
+    "name": "Kecamatan Tojo",
+    "alias": "Tojo"
+  },
+  {
+    "code": "72.09.030",
+    "districtCode": "030",
+    "regencyCode": "72.09",
+    "provinceCode": "72",
+    "name": "Kecamatan Ulubongka",
+    "alias": "Ulubongka"
+  },
+  {
+    "code": "72.09.040",
+    "districtCode": "040",
+    "regencyCode": "72.09",
+    "provinceCode": "72",
+    "name": "Kecamatan Ampana Tete",
+    "alias": "Ampana Tete"
+  },
+  {
+    "code": "72.09.050",
+    "districtCode": "050",
+    "regencyCode": "72.09",
+    "provinceCode": "72",
+    "name": "Kecamatan Ampana Kota",
+    "alias": "Ampana Kota"
+  },
+  {
+    "code": "72.09.051",
+    "districtCode": "051",
+    "regencyCode": "72.09",
+    "provinceCode": "72",
+    "name": "Kecamatan Ratolindo",
+    "alias": "Ratolindo"
+  },
+  {
+    "code": "72.09.060",
+    "districtCode": "060",
+    "regencyCode": "72.09",
+    "provinceCode": "72",
+    "name": "Kecamatan Una - Una",
+    "alias": "Una - Una"
+  },
+  {
+    "code": "72.09.061",
+    "districtCode": "061",
+    "regencyCode": "72.09",
+    "provinceCode": "72",
+    "name": "Kecamatan Batudaka",
+    "alias": "Batudaka"
+  },
+  {
+    "code": "72.09.070",
+    "districtCode": "070",
+    "regencyCode": "72.09",
+    "provinceCode": "72",
+    "name": "Kecamatan Togean",
+    "alias": "Togean"
+  },
+  {
+    "code": "72.09.080",
+    "districtCode": "080",
+    "regencyCode": "72.09",
+    "provinceCode": "72",
+    "name": "Kecamatan Walea Kepulauan",
+    "alias": "Walea Kepulauan"
+  },
+  {
+    "code": "72.09.081",
+    "districtCode": "081",
+    "regencyCode": "72.09",
+    "provinceCode": "72",
+    "name": "Kecamatan Walea Besar",
+    "alias": "Walea Besar"
+  },
+  {
+    "code": "72.09.082",
+    "districtCode": "082",
+    "regencyCode": "72.09",
+    "provinceCode": "72",
+    "name": "Kecamatan Talatako",
+    "alias": "Talatako"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "code": "12.21.051.001",
+    "villageCode": "001",
+    "districtCode": "12.21.051",
+    "name": "Batu Gajah",
+    "alias": "Batu Gajah"
+  },
+  {
+    "code": "12.21.051.002",
+    "villageCode": "002",
+    "districtCode": "12.21.051",
+    "name": "Hapung",
+    "alias": "Hapung"
+  },
+  {
+    "code": "12.21.051.003",
+    "villageCode": "003",
+    "districtCode": "12.21.051",
+    "name": "Hapung Torop",
+    "alias": "Hapung Torop"
+  },
+  {
+    "code": "12.21.051.004",
+    "villageCode": "004",
+    "districtCode": "12.21.051",
+    "name": "Bonan Dolok",
+    "alias": "Bonan Dolok"
+  },
+  {
+    "code": "12.21.051.005",
+    "villageCode": "005",
+    "districtCode": "12.21.051",
+    "name": "Mandian",
+    "alias": "Mandian"
+  },
+  {
+    "code": "12.21.051.006",
+    "villageCode": "006",
+    "districtCode": "12.21.051",
+    "name": "Parapat",
+    "alias": "Parapat"
+  },
+  {
+    "code": "12.21.051.007",
+    "villageCode": "007",
+    "districtCode": "12.21.051",
+    "name": "Handio",
+    "alias": "Handio"
+  },
+  {
+    "code": "12.21.051.008",
+    "villageCode": "008",
+    "districtCode": "12.21.051",
+    "name": "Horuan",
+    "alias": "Horuan"
+  },
+  {
+    "code": "12.21.051.009",
+    "villageCode": "009",
+    "districtCode": "12.21.051",
+    "name": "Harang Jae",
+    "alias": "Harang Jae"
+  },
+  {
+    "code": "12.21.051.010",
+    "villageCode": "010",
+    "districtCode": "12.21.051",
+    "name": "Harang Julu",
+    "alias": "Harang Julu"
+  },
+  {
+    "code": "12.21.051.011",
+    "villageCode": "011",
+    "districtCode": "12.21.051",
+    "name": "Gunung Tua",
+    "alias": "Gunung Tua"
+  }
+]

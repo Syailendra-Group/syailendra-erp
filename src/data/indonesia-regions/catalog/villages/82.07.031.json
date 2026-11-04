@@ -1,0 +1,37 @@
+[
+  {
+    "code": "82.07.031.001",
+    "villageCode": "001",
+    "districtCode": "82.07.031",
+    "name": "Saminyamau",
+    "alias": "Saminyamau"
+  },
+  {
+    "code": "82.07.031.002",
+    "villageCode": "002",
+    "districtCode": "82.07.031",
+    "name": "Posi Posi Rao",
+    "alias": "Posi Posi Rao"
+  },
+  {
+    "code": "82.07.031.003",
+    "villageCode": "003",
+    "districtCode": "82.07.031",
+    "name": "Leo Leo",
+    "alias": "Leo Leo"
+  },
+  {
+    "code": "82.07.031.004",
+    "villageCode": "004",
+    "districtCode": "82.07.031",
+    "name": "Aru Burung",
+    "alias": "Aru Burung"
+  },
+  {
+    "code": "82.07.031.005",
+    "villageCode": "005",
+    "districtCode": "82.07.031",
+    "name": "Lou Madoro",
+    "alias": "Lou Madoro"
+  }
+]

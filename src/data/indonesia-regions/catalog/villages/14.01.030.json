@@ -1,0 +1,163 @@
+[
+  {
+    "code": "14.01.030.001",
+    "villageCode": "001",
+    "districtCode": "14.01.030",
+    "name": "Bandar Alai",
+    "alias": "Bandar Alai"
+  },
+  {
+    "code": "14.01.030.002",
+    "villageCode": "002",
+    "districtCode": "14.01.030",
+    "name": "Pulau Kedundung",
+    "alias": "Pulau Kedundung"
+  },
+  {
+    "code": "14.01.030.003",
+    "villageCode": "003",
+    "districtCode": "14.01.030",
+    "name": "Pulau Aro",
+    "alias": "Pulau Aro"
+  },
+  {
+    "code": "14.01.030.004",
+    "villageCode": "004",
+    "districtCode": "14.01.030",
+    "name": "Seberang Taluk",
+    "alias": "Seberang Taluk"
+  },
+  {
+    "code": "14.01.030.005",
+    "villageCode": "005",
+    "districtCode": "14.01.030",
+    "name": "Pulau Baru",
+    "alias": "Pulau Baru"
+  },
+  {
+    "code": "14.01.030.006",
+    "villageCode": "006",
+    "districtCode": "14.01.030",
+    "name": "Koto Tuo",
+    "alias": "Koto Tuo"
+  },
+  {
+    "code": "14.01.030.007",
+    "villageCode": "007",
+    "districtCode": "14.01.030",
+    "name": "Kopah",
+    "alias": "Kopah"
+  },
+  {
+    "code": "14.01.030.008",
+    "villageCode": "008",
+    "districtCode": "14.01.030",
+    "name": "Jaya",
+    "alias": "Jaya"
+  },
+  {
+    "code": "14.01.030.009",
+    "villageCode": "009",
+    "districtCode": "14.01.030",
+    "name": "Munsalo",
+    "alias": "Munsalo"
+  },
+  {
+    "code": "14.01.030.015",
+    "villageCode": "015",
+    "districtCode": "14.01.030",
+    "name": "Beringin Taluk",
+    "alias": "Beringin Taluk"
+  },
+  {
+    "code": "14.01.030.016",
+    "villageCode": "016",
+    "districtCode": "14.01.030",
+    "name": "Sawah",
+    "alias": "Sawah"
+  },
+  {
+    "code": "14.01.030.017",
+    "villageCode": "017",
+    "districtCode": "14.01.030",
+    "name": "Pasar Taluk",
+    "alias": "Pasar Taluk"
+  },
+  {
+    "code": "14.01.030.018",
+    "villageCode": "018",
+    "districtCode": "14.01.030",
+    "name": "Koto Taluk",
+    "alias": "Koto Taluk"
+  },
+  {
+    "code": "14.01.030.019",
+    "villageCode": "019",
+    "districtCode": "14.01.030",
+    "name": "Simpang Tiga",
+    "alias": "Simpang Tiga"
+  },
+  {
+    "code": "14.01.030.020",
+    "villageCode": "020",
+    "districtCode": "14.01.030",
+    "name": "Pulau Godang",
+    "alias": "Pulau Godang"
+  },
+  {
+    "code": "14.01.030.021",
+    "villageCode": "021",
+    "districtCode": "14.01.030",
+    "name": "Koto Kari",
+    "alias": "Koto Kari"
+  },
+  {
+    "code": "14.01.030.022",
+    "villageCode": "022",
+    "districtCode": "14.01.030",
+    "name": "Pintu Gobang",
+    "alias": "Pintu Gobang"
+  },
+  {
+    "code": "14.01.030.023",
+    "villageCode": "023",
+    "districtCode": "14.01.030",
+    "name": "Jake",
+    "alias": "Jake"
+  },
+  {
+    "code": "14.01.030.024",
+    "villageCode": "024",
+    "districtCode": "14.01.030",
+    "name": "Sitorajo",
+    "alias": "Sitorajo"
+  },
+  {
+    "code": "14.01.030.025",
+    "villageCode": "025",
+    "districtCode": "14.01.030",
+    "name": "Seberang Teluk Hilir",
+    "alias": "Seberang Teluk Hilir"
+  },
+  {
+    "code": "14.01.030.026",
+    "villageCode": "026",
+    "districtCode": "14.01.030",
+    "name": "Sungai Jering",
+    "alias": "Sungai Jering"
+  },
+  {
+    "code": "14.01.030.027",
+    "villageCode": "027",
+    "districtCode": "14.01.030",
+    "name": "Titian Modang Kopah",
+    "alias": "Titian Modang Kopah"
+  },
+  {
+    "code": "14.01.030.028",
+    "villageCode": "028",
+    "districtCode": "14.01.030",
+    "name": "Pulau Banjar Kari",
+    "alias": "Pulau Banjar Kari"
+  }
+]

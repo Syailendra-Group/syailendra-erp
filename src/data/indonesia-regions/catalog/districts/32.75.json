@@ -1,0 +1,98 @@
+[
+  {
+    "code": "32.75.010",
+    "districtCode": "010",
+    "regencyCode": "32.75",
+    "provinceCode": "32",
+    "name": "Kecamatan Pondokgede",
+    "alias": "Pondokgede"
+  },
+  {
+    "code": "32.75.011",
+    "districtCode": "011",
+    "regencyCode": "32.75",
+    "provinceCode": "32",
+    "name": "Kecamatan Jatisampurna",
+    "alias": "Jatisampurna"
+  },
+  {
+    "code": "32.75.012",
+    "districtCode": "012",
+    "regencyCode": "32.75",
+    "provinceCode": "32",
+    "name": "Kecamatan Pondokmelati",
+    "alias": "Pondokmelati"
+  },
+  {
+    "code": "32.75.020",
+    "districtCode": "020",
+    "regencyCode": "32.75",
+    "provinceCode": "32",
+    "name": "Kecamatan Jatiasih",
+    "alias": "Jatiasih"
+  },
+  {
+    "code": "32.75.030",
+    "districtCode": "030",
+    "regencyCode": "32.75",
+    "provinceCode": "32",
+    "name": "Kecamatan Bantargebang",
+    "alias": "Bantargebang"
+  },
+  {
+    "code": "32.75.031",
+    "districtCode": "031",
+    "regencyCode": "32.75",
+    "provinceCode": "32",
+    "name": "Kecamatan Mustikajaya",
+    "alias": "Mustikajaya"
+  },
+  {
+    "code": "32.75.040",
+    "districtCode": "040",
+    "regencyCode": "32.75",
+    "provinceCode": "32",
+    "name": "Kecamatan Bekasi Timur",
+    "alias": "Bekasi Timur"
+  },
+  {
+    "code": "32.75.041",
+    "districtCode": "041",
+    "regencyCode": "32.75",
+    "provinceCode": "32",
+    "name": "Kecamatan Rawalumbu",
+    "alias": "Rawalumbu"
+  },
+  {
+    "code": "32.75.050",
+    "districtCode": "050",
+    "regencyCode": "32.75",
+    "provinceCode": "32",
+    "name": "Kecamatan Bekasi Selatan",
+    "alias": "Bekasi Selatan"
+  },
+  {
+    "code": "32.75.060",
+    "districtCode": "060",
+    "regencyCode": "32.75",
+    "provinceCode": "32",
+    "name": "Kecamatan Bekasi Barat",
+    "alias": "Bekasi Barat"
+  },
+  {
+    "code": "32.75.061",
+    "districtCode": "061",
+    "regencyCode": "32.75",
+    "provinceCode": "32",
+    "name": "Kecamatan Medan Satria",
+    "alias": "Medan Satria"
+  },
+  {
+    "code": "32.75.070",
+    "districtCode": "070",
+    "regencyCode": "32.75",
+    "provinceCode": "32",
+    "name": "Kecamatan Bekasi Utara",
+    "alias": "Bekasi Utara"
+  }
+]

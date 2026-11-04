@@ -1,0 +1,51 @@
+[
+  {
+    "code": "73.06.031.001",
+    "villageCode": "001",
+    "districtCode": "73.06.031",
+    "name": "Biringngalla",
+    "alias": "Biringngalla"
+  },
+  {
+    "code": "73.06.031.002",
+    "villageCode": "002",
+    "districtCode": "73.06.031",
+    "name": "Moncobalang",
+    "alias": "Moncobalang"
+  },
+  {
+    "code": "73.06.031.003",
+    "villageCode": "003",
+    "districtCode": "73.06.031",
+    "name": "Tinggimae",
+    "alias": "Tinggimae"
+  },
+  {
+    "code": "73.06.031.004",
+    "villageCode": "004",
+    "districtCode": "73.06.031",
+    "name": "Lembangparang",
+    "alias": "Lembangparang"
+  },
+  {
+    "code": "73.06.031.005",
+    "villageCode": "005",
+    "districtCode": "73.06.031",
+    "name": "Kanjilo",
+    "alias": "Kanjilo"
+  },
+  {
+    "code": "73.06.031.006",
+    "villageCode": "006",
+    "districtCode": "73.06.031",
+    "name": "Tamanyeleng",
+    "alias": "Tamanyeleng"
+  },
+  {
+    "code": "73.06.031.007",
+    "villageCode": "007",
+    "districtCode": "73.06.031",
+    "name": "Benteng Somba Opu",
+    "alias": "Benteng Somba Opu"
+  }
+]

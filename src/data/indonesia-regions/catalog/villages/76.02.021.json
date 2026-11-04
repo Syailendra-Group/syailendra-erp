@@ -1,0 +1,58 @@
+[
+  {
+    "code": "76.02.021.001",
+    "villageCode": "001",
+    "districtCode": "76.02.021",
+    "name": "Saragian",
+    "alias": "Saragian"
+  },
+  {
+    "code": "76.02.021.002",
+    "villageCode": "002",
+    "districtCode": "76.02.021",
+    "name": "Mombi",
+    "alias": "Mombi"
+  },
+  {
+    "code": "76.02.021.003",
+    "villageCode": "003",
+    "districtCode": "76.02.021",
+    "name": "Petoosang",
+    "alias": "Petoosang"
+  },
+  {
+    "code": "76.02.021.004",
+    "villageCode": "004",
+    "districtCode": "76.02.021",
+    "name": "Kalumammang",
+    "alias": "Kalumammang"
+  },
+  {
+    "code": "76.02.021.005",
+    "villageCode": "005",
+    "districtCode": "76.02.021",
+    "name": "Pao Pao",
+    "alias": "Pao Pao"
+  },
+  {
+    "code": "76.02.021.006",
+    "villageCode": "006",
+    "districtCode": "76.02.021",
+    "name": "Pupuuring",
+    "alias": "Pupuuring"
+  },
+  {
+    "code": "76.02.021.007",
+    "villageCode": "007",
+    "districtCode": "76.02.021",
+    "name": "Sayoang",
+    "alias": "Sayoang"
+  },
+  {
+    "code": "76.02.021.008",
+    "villageCode": "008",
+    "districtCode": "76.02.021",
+    "name": "Alu",
+    "alias": "Alu"
+  }
+]

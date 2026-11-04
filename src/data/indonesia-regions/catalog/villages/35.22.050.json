@@ -1,0 +1,37 @@
+[
+  {
+    "code": "35.22.050.008",
+    "villageCode": "008",
+    "districtCode": "35.22.050",
+    "name": "Bubulan",
+    "alias": "Bubulan"
+  },
+  {
+    "code": "35.22.050.009",
+    "villageCode": "009",
+    "districtCode": "35.22.050",
+    "name": "Cancung",
+    "alias": "Cancung"
+  },
+  {
+    "code": "35.22.050.010",
+    "villageCode": "010",
+    "districtCode": "35.22.050",
+    "name": "Clebung",
+    "alias": "Clebung"
+  },
+  {
+    "code": "35.22.050.011",
+    "villageCode": "011",
+    "districtCode": "35.22.050",
+    "name": "Sumber Bendo",
+    "alias": "Sumber Bendo"
+  },
+  {
+    "code": "35.22.050.012",
+    "villageCode": "012",
+    "districtCode": "35.22.050",
+    "name": "Ngorogunung",
+    "alias": "Ngorogunung"
+  }
+]

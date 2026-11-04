@@ -1,0 +1,100 @@
+[
+  {
+    "code": "14.01.012.001",
+    "villageCode": "001",
+    "districtCode": "14.01.012",
+    "name": "Pulau Rumput",
+    "alias": "Pulau Rumput"
+  },
+  {
+    "code": "14.01.012.002",
+    "villageCode": "002",
+    "districtCode": "14.01.012",
+    "name": "Koto Gunung",
+    "alias": "Koto Gunung"
+  },
+  {
+    "code": "14.01.012.003",
+    "villageCode": "003",
+    "districtCode": "14.01.012",
+    "name": "Teluk Beringin",
+    "alias": "Teluk Beringin"
+  },
+  {
+    "code": "14.01.012.004",
+    "villageCode": "004",
+    "districtCode": "14.01.012",
+    "name": "Pulau Mungkur",
+    "alias": "Pulau Mungkur"
+  },
+  {
+    "code": "14.01.012.005",
+    "villageCode": "005",
+    "districtCode": "14.01.012",
+    "name": "Seberang Gunung",
+    "alias": "Seberang Gunung"
+  },
+  {
+    "code": "14.01.012.006",
+    "villageCode": "006",
+    "districtCode": "14.01.012",
+    "name": "Teberau Panjang",
+    "alias": "Teberau Panjang"
+  },
+  {
+    "code": "14.01.012.007",
+    "villageCode": "007",
+    "districtCode": "14.01.012",
+    "name": "Gunung",
+    "alias": "Gunung"
+  },
+  {
+    "code": "14.01.012.008",
+    "villageCode": "008",
+    "districtCode": "14.01.012",
+    "name": "Toar",
+    "alias": "Toar"
+  },
+  {
+    "code": "14.01.012.009",
+    "villageCode": "009",
+    "districtCode": "14.01.012",
+    "name": "Kampung Baru",
+    "alias": "Kampung Baru"
+  },
+  {
+    "code": "14.01.012.010",
+    "villageCode": "010",
+    "districtCode": "14.01.012",
+    "name": "Petapahan",
+    "alias": "Petapahan"
+  },
+  {
+    "code": "14.01.012.011",
+    "villageCode": "011",
+    "districtCode": "14.01.012",
+    "name": "Lubuk Terantang",
+    "alias": "Lubuk Terantang"
+  },
+  {
+    "code": "14.01.012.012",
+    "villageCode": "012",
+    "districtCode": "14.01.012",
+    "name": "Siberobah",
+    "alias": "Siberobah"
+  },
+  {
+    "code": "14.01.012.013",
+    "villageCode": "013",
+    "districtCode": "14.01.012",
+    "name": "Pisang Berebus",
+    "alias": "Pisang Berebus"
+  },
+  {
+    "code": "14.01.012.014",
+    "villageCode": "014",
+    "districtCode": "14.01.012",
+    "name": "Seberang Sungai",
+    "alias": "Seberang Sungai"
+  }
+]

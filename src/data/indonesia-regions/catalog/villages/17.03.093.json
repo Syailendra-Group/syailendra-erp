@@ -1,0 +1,72 @@
+[
+  {
+    "code": "17.03.093.001",
+    "villageCode": "001",
+    "districtCode": "17.03.093",
+    "name": "Air Simpang",
+    "alias": "Air Simpang"
+  },
+  {
+    "code": "17.03.093.002",
+    "villageCode": "002",
+    "districtCode": "17.03.093",
+    "name": "Air Sebayur",
+    "alias": "Air Sebayur"
+  },
+  {
+    "code": "17.03.093.003",
+    "villageCode": "003",
+    "districtCode": "17.03.093",
+    "name": "Air Sekamanak",
+    "alias": "Air Sekamanak"
+  },
+  {
+    "code": "17.03.093.004",
+    "villageCode": "004",
+    "districtCode": "17.03.093",
+    "name": "Marga Bakti",
+    "alias": "Marga Bakti"
+  },
+  {
+    "code": "17.03.093.005",
+    "villageCode": "005",
+    "districtCode": "17.03.093",
+    "name": "Bukit Makmur",
+    "alias": "Bukit Makmur"
+  },
+  {
+    "code": "17.03.093.006",
+    "villageCode": "006",
+    "districtCode": "17.03.093",
+    "name": "Bukit Harapan",
+    "alias": "Bukit Harapan"
+  },
+  {
+    "code": "17.03.093.007",
+    "villageCode": "007",
+    "districtCode": "17.03.093",
+    "name": "Gunung Payung",
+    "alias": "Gunung Payung"
+  },
+  {
+    "code": "17.03.093.008",
+    "villageCode": "008",
+    "districtCode": "17.03.093",
+    "name": "Tanjung Muara",
+    "alias": "Tanjung Muara"
+  },
+  {
+    "code": "17.03.093.010",
+    "villageCode": "010",
+    "districtCode": "17.03.093",
+    "name": "Sumber Mulya",
+    "alias": "Sumber Mulya"
+  },
+  {
+    "code": "17.03.093.011",
+    "villageCode": "011",
+    "districtCode": "17.03.093",
+    "name": "Bumi Harjo",
+    "alias": "Bumi Harjo"
+  }
+]

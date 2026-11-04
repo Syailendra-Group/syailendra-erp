@@ -1,0 +1,30 @@
+[
+  {
+    "code": "63.03.121.001",
+    "villageCode": "001",
+    "districtCode": "63.03.121",
+    "name": "Telaga Baru",
+    "alias": "Telaga Baru"
+  },
+  {
+    "code": "63.03.121.002",
+    "villageCode": "002",
+    "districtCode": "63.03.121",
+    "name": "Lok Tanah",
+    "alias": "Lok Tanah"
+  },
+  {
+    "code": "63.03.121.003",
+    "villageCode": "003",
+    "districtCode": "63.03.121",
+    "name": "Rantau Bujur",
+    "alias": "Rantau Bujur"
+  },
+  {
+    "code": "63.03.121.004",
+    "villageCode": "004",
+    "districtCode": "63.03.121",
+    "name": "Rampah",
+    "alias": "Rampah"
+  }
+]

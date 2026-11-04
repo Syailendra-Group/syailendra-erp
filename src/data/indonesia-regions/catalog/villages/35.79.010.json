@@ -1,0 +1,58 @@
+[
+  {
+    "code": "35.79.010.001",
+    "villageCode": "001",
+    "districtCode": "35.79.010",
+    "name": "Oro-Oro Ombo",
+    "alias": "Oro-Oro Ombo"
+  },
+  {
+    "code": "35.79.010.002",
+    "villageCode": "002",
+    "districtCode": "35.79.010",
+    "name": "Temas",
+    "alias": "Temas"
+  },
+  {
+    "code": "35.79.010.003",
+    "villageCode": "003",
+    "districtCode": "35.79.010",
+    "name": "Sisir",
+    "alias": "Sisir"
+  },
+  {
+    "code": "35.79.010.004",
+    "villageCode": "004",
+    "districtCode": "35.79.010",
+    "name": "Ngaglik",
+    "alias": "Ngaglik"
+  },
+  {
+    "code": "35.79.010.005",
+    "villageCode": "005",
+    "districtCode": "35.79.010",
+    "name": "Pesanggrahan",
+    "alias": "Pesanggrahan"
+  },
+  {
+    "code": "35.79.010.006",
+    "villageCode": "006",
+    "districtCode": "35.79.010",
+    "name": "Songgokerto",
+    "alias": "Songgokerto"
+  },
+  {
+    "code": "35.79.010.007",
+    "villageCode": "007",
+    "districtCode": "35.79.010",
+    "name": "Sumberejo",
+    "alias": "Sumberejo"
+  },
+  {
+    "code": "35.79.010.008",
+    "villageCode": "008",
+    "districtCode": "35.79.010",
+    "name": "Sidomulyo",
+    "alias": "Sidomulyo"
+  }
+]

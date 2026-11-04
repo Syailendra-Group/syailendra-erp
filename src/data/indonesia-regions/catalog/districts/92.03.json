@@ -1,0 +1,122 @@
+[
+  {
+    "code": "92.03.010",
+    "districtCode": "010",
+    "regencyCode": "92.03",
+    "provinceCode": "92",
+    "name": "Kecamatan Inanwatan",
+    "alias": "Inanwatan"
+  },
+  {
+    "code": "92.03.020",
+    "districtCode": "020",
+    "regencyCode": "92.03",
+    "provinceCode": "92",
+    "name": "Kecamatan Kokoda",
+    "alias": "Kokoda"
+  },
+  {
+    "code": "92.03.030",
+    "districtCode": "030",
+    "regencyCode": "92.03",
+    "provinceCode": "92",
+    "name": "Kecamatan Kokoda Utara",
+    "alias": "Kokoda Utara"
+  },
+  {
+    "code": "92.03.040",
+    "districtCode": "040",
+    "regencyCode": "92.03",
+    "provinceCode": "92",
+    "name": "Kecamatan Metemani",
+    "alias": "Metemani"
+  },
+  {
+    "code": "92.03.050",
+    "districtCode": "050",
+    "regencyCode": "92.03",
+    "provinceCode": "92",
+    "name": "Kecamatan Kais",
+    "alias": "Kais"
+  },
+  {
+    "code": "92.03.060",
+    "districtCode": "060",
+    "regencyCode": "92.03",
+    "provinceCode": "92",
+    "name": "Kecamatan Kais Darat",
+    "alias": "Kais Darat"
+  },
+  {
+    "code": "92.03.070",
+    "districtCode": "070",
+    "regencyCode": "92.03",
+    "provinceCode": "92",
+    "name": "Kecamatan Konda",
+    "alias": "Konda"
+  },
+  {
+    "code": "92.03.080",
+    "districtCode": "080",
+    "regencyCode": "92.03",
+    "provinceCode": "92",
+    "name": "Kecamatan Wayer",
+    "alias": "Wayer"
+  },
+  {
+    "code": "92.03.090",
+    "districtCode": "090",
+    "regencyCode": "92.03",
+    "provinceCode": "92",
+    "name": "Kecamatan Moswaren",
+    "alias": "Moswaren"
+  },
+  {
+    "code": "92.03.100",
+    "districtCode": "100",
+    "regencyCode": "92.03",
+    "provinceCode": "92",
+    "name": "Kecamatan Teminabuan",
+    "alias": "Teminabuan"
+  },
+  {
+    "code": "92.03.110",
+    "districtCode": "110",
+    "regencyCode": "92.03",
+    "provinceCode": "92",
+    "name": "Kecamatan Saifi",
+    "alias": "Saifi"
+  },
+  {
+    "code": "92.03.120",
+    "districtCode": "120",
+    "regencyCode": "92.03",
+    "provinceCode": "92",
+    "name": "Kecamatan Seremuk",
+    "alias": "Seremuk"
+  },
+  {
+    "code": "92.03.130",
+    "districtCode": "130",
+    "regencyCode": "92.03",
+    "provinceCode": "92",
+    "name": "Kecamatan Sawiat",
+    "alias": "Sawiat"
+  },
+  {
+    "code": "92.03.140",
+    "districtCode": "140",
+    "regencyCode": "92.03",
+    "provinceCode": "92",
+    "name": "Kecamatan Fokour",
+    "alias": "Fokour"
+  },
+  {
+    "code": "92.03.150",
+    "districtCode": "150",
+    "regencyCode": "92.03",
+    "provinceCode": "92",
+    "name": "Kecamatan Salkma",
+    "alias": "Salkma"
+  }
+]

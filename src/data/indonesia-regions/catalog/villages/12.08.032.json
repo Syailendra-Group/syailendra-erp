@@ -1,0 +1,51 @@
+[
+  {
+    "code": "12.08.032.001",
+    "villageCode": "001",
+    "districtCode": "12.08.032",
+    "name": "Aek Bange",
+    "alias": "Aek Bange"
+  },
+  {
+    "code": "12.08.032.002",
+    "villageCode": "002",
+    "districtCode": "12.08.032",
+    "name": "Ledong Barat",
+    "alias": "Ledong Barat"
+  },
+  {
+    "code": "12.08.032.003",
+    "villageCode": "003",
+    "districtCode": "12.08.032",
+    "name": "Ledong Timur",
+    "alias": "Ledong Timur"
+  },
+  {
+    "code": "12.08.032.004",
+    "villageCode": "004",
+    "districtCode": "12.08.032",
+    "name": "Aek Korsik",
+    "alias": "Aek Korsik"
+  },
+  {
+    "code": "12.08.032.005",
+    "villageCode": "005",
+    "districtCode": "12.08.032",
+    "name": "Aek Ledong",
+    "alias": "Aek Ledong"
+  },
+  {
+    "code": "12.08.032.006",
+    "villageCode": "006",
+    "districtCode": "12.08.032",
+    "name": "Aek Nabuntu",
+    "alias": "Aek Nabuntu"
+  },
+  {
+    "code": "12.08.032.007",
+    "villageCode": "007",
+    "districtCode": "12.08.032",
+    "name": "Padang Sipirok",
+    "alias": "Padang Sipirok"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "code": "73.18.012.001",
+    "villageCode": "001",
+    "districtCode": "73.18.012",
+    "name": "Lembang Rano",
+    "alias": "Lembang Rano"
+  },
+  {
+    "code": "73.18.012.002",
+    "villageCode": "002",
+    "districtCode": "73.18.012",
+    "name": "Lembang Rumandan",
+    "alias": "Lembang Rumandan"
+  },
+  {
+    "code": "73.18.012.003",
+    "villageCode": "003",
+    "districtCode": "73.18.012",
+    "name": "Lembang Rano Timur",
+    "alias": "Lembang Rano Timur"
+  },
+  {
+    "code": "73.18.012.004",
+    "villageCode": "004",
+    "districtCode": "73.18.012",
+    "name": "Lembang Rano Tengah",
+    "alias": "Lembang Rano Tengah"
+  },
+  {
+    "code": "73.18.012.005",
+    "villageCode": "005",
+    "districtCode": "73.18.012",
+    "name": "Lembang Rano Utara",
+    "alias": "Lembang Rano Utara"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "code": "53.11.054.001",
+    "villageCode": "001",
+    "districtCode": "53.11.054",
+    "name": "Serandori",
+    "alias": "Serandori"
+  },
+  {
+    "code": "53.11.054.002",
+    "villageCode": "002",
+    "districtCode": "53.11.054",
+    "name": "Maubasa",
+    "alias": "Maubasa"
+  },
+  {
+    "code": "53.11.054.003",
+    "villageCode": "003",
+    "districtCode": "53.11.054",
+    "name": "Maubasa Timur",
+    "alias": "Maubasa Timur"
+  },
+  {
+    "code": "53.11.054.004",
+    "villageCode": "004",
+    "districtCode": "53.11.054",
+    "name": "Wonda",
+    "alias": "Wonda"
+  },
+  {
+    "code": "53.11.054.005",
+    "villageCode": "005",
+    "districtCode": "53.11.054",
+    "name": "Kelisamba",
+    "alias": "Kelisamba"
+  },
+  {
+    "code": "53.11.054.006",
+    "villageCode": "006",
+    "districtCode": "53.11.054",
+    "name": "Maubasa Barat",
+    "alias": "Maubasa Barat"
+  },
+  {
+    "code": "53.11.054.007",
+    "villageCode": "007",
+    "districtCode": "53.11.054",
+    "name": "Lunggaria",
+    "alias": "Lunggaria"
+  },
+  {
+    "code": "53.11.054.008",
+    "villageCode": "008",
+    "districtCode": "53.11.054",
+    "name": "Aebara",
+    "alias": "Aebara"
+  },
+  {
+    "code": "53.11.054.009",
+    "villageCode": "009",
+    "districtCode": "53.11.054",
+    "name": "Ratemangga",
+    "alias": "Ratemangga"
+  },
+  {
+    "code": "53.11.054.010",
+    "villageCode": "010",
+    "districtCode": "53.11.054",
+    "name": "Mole",
+    "alias": "Mole"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "code": "33.71.010.002",
+    "villageCode": "002",
+    "districtCode": "33.71.010",
+    "name": "Magersari",
+    "alias": "Magersari"
+  },
+  {
+    "code": "33.71.010.004",
+    "villageCode": "004",
+    "districtCode": "33.71.010",
+    "name": "Rejowinangun Selatan",
+    "alias": "Rejowinangun Selatan"
+  },
+  {
+    "code": "33.71.010.005",
+    "villageCode": "005",
+    "districtCode": "33.71.010",
+    "name": "Jurangombo Utara",
+    "alias": "Jurangombo Utara"
+  },
+  {
+    "code": "33.71.010.006",
+    "villageCode": "006",
+    "districtCode": "33.71.010",
+    "name": "Jurangombo Selatan",
+    "alias": "Jurangombo Selatan"
+  },
+  {
+    "code": "33.71.010.007",
+    "villageCode": "007",
+    "districtCode": "33.71.010",
+    "name": "Tidar Utara",
+    "alias": "Tidar Utara"
+  },
+  {
+    "code": "33.71.010.008",
+    "villageCode": "008",
+    "districtCode": "33.71.010",
+    "name": "Tidar Selatan",
+    "alias": "Tidar Selatan"
+  }
+]

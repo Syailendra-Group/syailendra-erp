@@ -1,0 +1,79 @@
+[
+  {
+    "code": "16.08.051.002",
+    "villageCode": "002",
+    "districtCode": "16.08.051",
+    "name": "Pelawi",
+    "alias": "Pelawi"
+  },
+  {
+    "code": "16.08.051.003",
+    "villageCode": "003",
+    "districtCode": "16.08.051",
+    "name": "Bendi",
+    "alias": "Bendi"
+  },
+  {
+    "code": "16.08.051.004",
+    "villageCode": "004",
+    "districtCode": "16.08.051",
+    "name": "Gunung Cahya",
+    "alias": "Gunung Cahya"
+  },
+  {
+    "code": "16.08.051.005",
+    "villageCode": "005",
+    "districtCode": "16.08.051",
+    "name": "Ruos",
+    "alias": "Ruos"
+  },
+  {
+    "code": "16.08.051.006",
+    "villageCode": "006",
+    "districtCode": "16.08.051",
+    "name": "Bumi Jaya",
+    "alias": "Bumi Jaya"
+  },
+  {
+    "code": "16.08.051.007",
+    "villageCode": "007",
+    "districtCode": "16.08.051",
+    "name": "Banjar Agung",
+    "alias": "Banjar Agung"
+  },
+  {
+    "code": "16.08.051.008",
+    "villageCode": "008",
+    "districtCode": "16.08.051",
+    "name": "Sukajaya",
+    "alias": "Sukajaya"
+  },
+  {
+    "code": "16.08.051.009",
+    "villageCode": "009",
+    "districtCode": "16.08.051",
+    "name": "Rantau Panjang",
+    "alias": "Rantau Panjang"
+  },
+  {
+    "code": "16.08.051.010",
+    "villageCode": "010",
+    "districtCode": "16.08.051",
+    "name": "Pekuwolan",
+    "alias": "Pekuwolan"
+  },
+  {
+    "code": "16.08.051.011",
+    "villageCode": "011",
+    "districtCode": "16.08.051",
+    "name": "Majar",
+    "alias": "Majar"
+  },
+  {
+    "code": "16.08.051.012",
+    "villageCode": "012",
+    "districtCode": "16.08.051",
+    "name": "Bumi Agung Jaya",
+    "alias": "Bumi Agung Jaya"
+  }
+]

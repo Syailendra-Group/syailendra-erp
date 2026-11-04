@@ -1,0 +1,30 @@
+[
+  {
+    "code": "11.09.011.001",
+    "villageCode": "001",
+    "districtCode": "11.09.011",
+    "name": "Mane",
+    "alias": "Mane"
+  },
+  {
+    "code": "11.09.011.002",
+    "villageCode": "002",
+    "districtCode": "11.09.011",
+    "name": "Turue Cut",
+    "alias": "Turue Cut"
+  },
+  {
+    "code": "11.09.011.003",
+    "villageCode": "003",
+    "districtCode": "11.09.011",
+    "name": "Lutueng",
+    "alias": "Lutueng"
+  },
+  {
+    "code": "11.09.011.004",
+    "villageCode": "004",
+    "districtCode": "11.09.011",
+    "name": "Blang Dalam",
+    "alias": "Blang Dalam"
+  }
+]

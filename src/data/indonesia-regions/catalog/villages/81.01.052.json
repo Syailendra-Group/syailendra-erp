@@ -1,0 +1,93 @@
+[
+  {
+    "code": "81.01.052.001",
+    "villageCode": "001",
+    "districtCode": "81.01.052",
+    "name": "Kilon",
+    "alias": "Kilon"
+  },
+  {
+    "code": "81.01.052.002",
+    "villageCode": "002",
+    "districtCode": "81.01.052",
+    "name": "Abat",
+    "alias": "Abat"
+  },
+  {
+    "code": "81.01.052.003",
+    "villageCode": "003",
+    "districtCode": "81.01.052",
+    "name": "Labobar",
+    "alias": "Labobar"
+  },
+  {
+    "code": "81.01.052.004",
+    "villageCode": "004",
+    "districtCode": "81.01.052",
+    "name": "Wunlah",
+    "alias": "Wunlah"
+  },
+  {
+    "code": "81.01.052.005",
+    "villageCode": "005",
+    "districtCode": "81.01.052",
+    "name": "Karatat",
+    "alias": "Karatat"
+  },
+  {
+    "code": "81.01.052.006",
+    "villageCode": "006",
+    "districtCode": "81.01.052",
+    "name": "Awear Rumngeur",
+    "alias": "Awear Rumngeur"
+  },
+  {
+    "code": "81.01.052.007",
+    "villageCode": "007",
+    "districtCode": "81.01.052",
+    "name": "Watmasa",
+    "alias": "Watmasa"
+  },
+  {
+    "code": "81.01.052.013",
+    "villageCode": "013",
+    "districtCode": "81.01.052",
+    "name": "Lingada",
+    "alias": "Lingada"
+  },
+  {
+    "code": "81.01.052.014",
+    "villageCode": "014",
+    "districtCode": "81.01.052",
+    "name": "Teineman",
+    "alias": "Teineman"
+  },
+  {
+    "code": "81.01.052.015",
+    "villageCode": "015",
+    "districtCode": "81.01.052",
+    "name": "Wabar",
+    "alias": "Wabar"
+  },
+  {
+    "code": "81.01.052.016",
+    "villageCode": "016",
+    "districtCode": "81.01.052",
+    "name": "Romnus",
+    "alias": "Romnus"
+  },
+  {
+    "code": "81.01.052.017",
+    "villageCode": "017",
+    "districtCode": "81.01.052",
+    "name": "Namralan",
+    "alias": "Namralan"
+  },
+  {
+    "code": "81.01.052.018",
+    "villageCode": "018",
+    "districtCode": "81.01.052",
+    "name": "Mitak",
+    "alias": "Mitak"
+  }
+]

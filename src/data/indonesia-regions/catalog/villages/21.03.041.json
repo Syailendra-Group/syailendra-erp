@@ -1,0 +1,44 @@
+[
+  {
+    "code": "21.03.041.002",
+    "villageCode": "002",
+    "districtCode": "21.03.041",
+    "name": "Kelarik",
+    "alias": "Kelarik"
+  },
+  {
+    "code": "21.03.041.003",
+    "villageCode": "003",
+    "districtCode": "21.03.041",
+    "name": "Kelarik Utara",
+    "alias": "Kelarik Utara"
+  },
+  {
+    "code": "21.03.041.004",
+    "villageCode": "004",
+    "districtCode": "21.03.041",
+    "name": "Kelarik Air Mali",
+    "alias": "Kelarik Air Mali"
+  },
+  {
+    "code": "21.03.041.005",
+    "villageCode": "005",
+    "districtCode": "21.03.041",
+    "name": "Teluk Buton",
+    "alias": "Teluk Buton"
+  },
+  {
+    "code": "21.03.041.006",
+    "villageCode": "006",
+    "districtCode": "21.03.041",
+    "name": "Belakang Gunung",
+    "alias": "Belakang Gunung"
+  },
+  {
+    "code": "21.03.041.008",
+    "villageCode": "008",
+    "districtCode": "21.03.041",
+    "name": "Gunung Durian",
+    "alias": "Gunung Durian"
+  }
+]

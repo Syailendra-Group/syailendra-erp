@@ -1,0 +1,58 @@
+[
+  {
+    "code": "32.06.070.002",
+    "villageCode": "002",
+    "districtCode": "32.06.070",
+    "name": "Sirnagalih",
+    "alias": "Sirnagalih"
+  },
+  {
+    "code": "32.06.070.003",
+    "villageCode": "003",
+    "districtCode": "32.06.070",
+    "name": "Simpang",
+    "alias": "Simpang"
+  },
+  {
+    "code": "32.06.070.004",
+    "villageCode": "004",
+    "districtCode": "32.06.070",
+    "name": "Hegarwangi",
+    "alias": "Hegarwangi"
+  },
+  {
+    "code": "32.06.070.008",
+    "villageCode": "008",
+    "districtCode": "32.06.070",
+    "name": "Wangunsari",
+    "alias": "Wangunsari"
+  },
+  {
+    "code": "32.06.070.009",
+    "villageCode": "009",
+    "districtCode": "32.06.070",
+    "name": "Pamijahan",
+    "alias": "Pamijahan"
+  },
+  {
+    "code": "32.06.070.010",
+    "villageCode": "010",
+    "districtCode": "32.06.070",
+    "name": "Parakanhonje",
+    "alias": "Parakanhonje"
+  },
+  {
+    "code": "32.06.070.016",
+    "villageCode": "016",
+    "districtCode": "32.06.070",
+    "name": "Sukamaju",
+    "alias": "Sukamaju"
+  },
+  {
+    "code": "32.06.070.017",
+    "villageCode": "017",
+    "districtCode": "32.06.070",
+    "name": "Wakap",
+    "alias": "Wakap"
+  }
+]

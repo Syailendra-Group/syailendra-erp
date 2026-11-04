@@ -1,0 +1,485 @@
+[
+  {
+    "code": "11.10.080.023",
+    "villageCode": "023",
+    "districtCode": "11.10.080",
+    "name": "Alue Udeung",
+    "alias": "Alue Udeung"
+  },
+  {
+    "code": "11.10.080.024",
+    "villageCode": "024",
+    "districtCode": "11.10.080",
+    "name": "Alue Peuno",
+    "alias": "Alue Peuno"
+  },
+  {
+    "code": "11.10.080.038",
+    "villageCode": "038",
+    "districtCode": "11.10.080",
+    "name": "Kapa",
+    "alias": "Kapa"
+  },
+  {
+    "code": "11.10.080.039",
+    "villageCode": "039",
+    "districtCode": "11.10.080",
+    "name": "Blang Panjoe",
+    "alias": "Blang Panjoe"
+  },
+  {
+    "code": "11.10.080.040",
+    "villageCode": "040",
+    "districtCode": "11.10.080",
+    "name": "Pante Lhong",
+    "alias": "Pante Lhong"
+  },
+  {
+    "code": "11.10.080.041",
+    "villageCode": "041",
+    "districtCode": "11.10.080",
+    "name": "Paya Cut",
+    "alias": "Paya Cut"
+  },
+  {
+    "code": "11.10.080.042",
+    "villageCode": "042",
+    "districtCode": "11.10.080",
+    "name": "Seuneubok Aceh",
+    "alias": "Seuneubok Aceh"
+  },
+  {
+    "code": "11.10.080.043",
+    "villageCode": "043",
+    "districtCode": "11.10.080",
+    "name": "Paya Lipah",
+    "alias": "Paya Lipah"
+  },
+  {
+    "code": "11.10.080.044",
+    "villageCode": "044",
+    "districtCode": "11.10.080",
+    "name": "Seuneubok Rawa",
+    "alias": "Seuneubok Rawa"
+  },
+  {
+    "code": "11.10.080.045",
+    "villageCode": "045",
+    "districtCode": "11.10.080",
+    "name": "Blang Geulanggang",
+    "alias": "Blang Geulanggang"
+  },
+  {
+    "code": "11.10.080.046",
+    "villageCode": "046",
+    "districtCode": "11.10.080",
+    "name": "Uteun Bunta",
+    "alias": "Uteun Bunta"
+  },
+  {
+    "code": "11.10.080.047",
+    "villageCode": "047",
+    "districtCode": "11.10.080",
+    "name": "Paya Reuhat",
+    "alias": "Paya Reuhat"
+  },
+  {
+    "code": "11.10.080.048",
+    "villageCode": "048",
+    "districtCode": "11.10.080",
+    "name": "Paya Aboe",
+    "alias": "Paya Aboe"
+  },
+  {
+    "code": "11.10.080.049",
+    "villageCode": "049",
+    "districtCode": "11.10.080",
+    "name": "Paloh",
+    "alias": "Paloh"
+  },
+  {
+    "code": "11.10.080.050",
+    "villageCode": "050",
+    "districtCode": "11.10.080",
+    "name": "Paya Meuneng",
+    "alias": "Paya Meuneng"
+  },
+  {
+    "code": "11.10.080.051",
+    "villageCode": "051",
+    "districtCode": "11.10.080",
+    "name": "Matang Sagoe",
+    "alias": "Matang Sagoe"
+  },
+  {
+    "code": "11.10.080.052",
+    "villageCode": "052",
+    "districtCode": "11.10.080",
+    "name": "Panton Geulima",
+    "alias": "Panton Geulima"
+  },
+  {
+    "code": "11.10.080.053",
+    "villageCode": "053",
+    "districtCode": "11.10.080",
+    "name": "Neuheun",
+    "alias": "Neuheun"
+  },
+  {
+    "code": "11.10.080.054",
+    "villageCode": "054",
+    "districtCode": "11.10.080",
+    "name": "Keude Matangglumpangdua",
+    "alias": "Keude Matangglumpangdua"
+  },
+  {
+    "code": "11.10.080.055",
+    "villageCode": "055",
+    "districtCode": "11.10.080",
+    "name": "Pante Gajah",
+    "alias": "Pante Gajah"
+  },
+  {
+    "code": "11.10.080.056",
+    "villageCode": "056",
+    "districtCode": "11.10.080",
+    "name": "Blang Asan",
+    "alias": "Blang Asan"
+  },
+  {
+    "code": "11.10.080.057",
+    "villageCode": "057",
+    "districtCode": "11.10.080",
+    "name": "Gampong Raya Dagang",
+    "alias": "Gampong Raya Dagang"
+  },
+  {
+    "code": "11.10.080.058",
+    "villageCode": "058",
+    "districtCode": "11.10.080",
+    "name": "Gampong Raya Tambo",
+    "alias": "Gampong Raya Tambo"
+  },
+  {
+    "code": "11.10.080.059",
+    "villageCode": "059",
+    "districtCode": "11.10.080",
+    "name": "Keude Tanjong",
+    "alias": "Keude Tanjong"
+  },
+  {
+    "code": "11.10.080.060",
+    "villageCode": "060",
+    "districtCode": "11.10.080",
+    "name": "Pante Pisang",
+    "alias": "Pante Pisang"
+  },
+  {
+    "code": "11.10.080.061",
+    "villageCode": "061",
+    "districtCode": "11.10.080",
+    "name": "Blang Cut",
+    "alias": "Blang Cut"
+  },
+  {
+    "code": "11.10.080.062",
+    "villageCode": "062",
+    "districtCode": "11.10.080",
+    "name": "Pante Cut",
+    "alias": "Pante Cut"
+  },
+  {
+    "code": "11.10.080.063",
+    "villageCode": "063",
+    "districtCode": "11.10.080",
+    "name": "Meunasah Timu",
+    "alias": "Meunasah Timu"
+  },
+  {
+    "code": "11.10.080.064",
+    "villageCode": "064",
+    "districtCode": "11.10.080",
+    "name": "Matangglumpangdua Meunasah Dayah",
+    "alias": "Matangglumpangdua Meunasah Dayah"
+  },
+  {
+    "code": "11.10.080.065",
+    "villageCode": "065",
+    "districtCode": "11.10.080",
+    "name": "Matang Mesjid",
+    "alias": "Matang Mesjid"
+  },
+  {
+    "code": "11.10.080.066",
+    "villageCode": "066",
+    "districtCode": "11.10.080",
+    "name": "Cot Panjoe",
+    "alias": "Cot Panjoe"
+  },
+  {
+    "code": "11.10.080.067",
+    "villageCode": "067",
+    "districtCode": "11.10.080",
+    "name": "Cot Keuranji",
+    "alias": "Cot Keuranji"
+  },
+  {
+    "code": "11.10.080.068",
+    "villageCode": "068",
+    "districtCode": "11.10.080",
+    "name": "Gampong Baroo",
+    "alias": "Gampong Baroo"
+  },
+  {
+    "code": "11.10.080.069",
+    "villageCode": "069",
+    "districtCode": "11.10.080",
+    "name": "Blang Rambong",
+    "alias": "Blang Rambong"
+  },
+  {
+    "code": "11.10.080.070",
+    "villageCode": "070",
+    "districtCode": "11.10.080",
+    "name": "Tanoh Mirah",
+    "alias": "Tanoh Mirah"
+  },
+  {
+    "code": "11.10.080.071",
+    "villageCode": "071",
+    "districtCode": "11.10.080",
+    "name": "Cot Girek",
+    "alias": "Cot Girek"
+  },
+  {
+    "code": "11.10.080.072",
+    "villageCode": "072",
+    "districtCode": "11.10.080",
+    "name": "Sagoe",
+    "alias": "Sagoe"
+  },
+  {
+    "code": "11.10.080.073",
+    "villageCode": "073",
+    "districtCode": "11.10.080",
+    "name": "Cot Bada Barat",
+    "alias": "Cot Bada Barat"
+  },
+  {
+    "code": "11.10.080.074",
+    "villageCode": "074",
+    "districtCode": "11.10.080",
+    "name": "Cot Bada Tunong",
+    "alias": "Cot Bada Tunong"
+  },
+  {
+    "code": "11.10.080.075",
+    "villageCode": "075",
+    "districtCode": "11.10.080",
+    "name": "Cot Buket",
+    "alias": "Cot Buket"
+  },
+  {
+    "code": "11.10.080.076",
+    "villageCode": "076",
+    "districtCode": "11.10.080",
+    "name": "Cot Ijue",
+    "alias": "Cot Ijue"
+  },
+  {
+    "code": "11.10.080.077",
+    "villageCode": "077",
+    "districtCode": "11.10.080",
+    "name": "Nicah",
+    "alias": "Nicah"
+  },
+  {
+    "code": "11.10.080.078",
+    "villageCode": "078",
+    "districtCode": "11.10.080",
+    "name": "Cot Bada Baroh",
+    "alias": "Cot Bada Baroh"
+  },
+  {
+    "code": "11.10.080.079",
+    "villageCode": "079",
+    "districtCode": "11.10.080",
+    "name": "Cot Keumude",
+    "alias": "Cot Keumude"
+  },
+  {
+    "code": "11.10.080.081",
+    "villageCode": "081",
+    "districtCode": "11.10.080",
+    "name": "Pulo Naleung",
+    "alias": "Pulo Naleung"
+  },
+  {
+    "code": "11.10.080.082",
+    "villageCode": "082",
+    "districtCode": "11.10.080",
+    "name": "Cot Nga",
+    "alias": "Cot Nga"
+  },
+  {
+    "code": "11.10.080.083",
+    "villageCode": "083",
+    "districtCode": "11.10.080",
+    "name": "Karieng",
+    "alias": "Karieng"
+  },
+  {
+    "code": "11.10.080.084",
+    "villageCode": "084",
+    "districtCode": "11.10.080",
+    "name": "Mata Mamplam",
+    "alias": "Mata Mamplam"
+  },
+  {
+    "code": "11.10.080.085",
+    "villageCode": "085",
+    "districtCode": "11.10.080",
+    "name": "Alue Glumpang",
+    "alias": "Alue Glumpang"
+  },
+  {
+    "code": "11.10.080.086",
+    "villageCode": "086",
+    "districtCode": "11.10.080",
+    "name": "Cot Rabo Baroh",
+    "alias": "Cot Rabo Baroh"
+  },
+  {
+    "code": "11.10.080.087",
+    "villageCode": "087",
+    "districtCode": "11.10.080",
+    "name": "Cot Rabo Tunong",
+    "alias": "Cot Rabo Tunong"
+  },
+  {
+    "code": "11.10.080.088",
+    "villageCode": "088",
+    "districtCode": "11.10.080",
+    "name": "Krueng Dheu",
+    "alias": "Krueng Dheu"
+  },
+  {
+    "code": "11.10.080.089",
+    "villageCode": "089",
+    "districtCode": "11.10.080",
+    "name": "Matang Cot Paseh",
+    "alias": "Matang Cot Paseh"
+  },
+  {
+    "code": "11.10.080.090",
+    "villageCode": "090",
+    "districtCode": "11.10.080",
+    "name": "Krueng Baro Mesjid",
+    "alias": "Krueng Baro Mesjid"
+  },
+  {
+    "code": "11.10.080.091",
+    "villageCode": "091",
+    "districtCode": "11.10.080",
+    "name": "Gampong Putoh",
+    "alias": "Gampong Putoh"
+  },
+  {
+    "code": "11.10.080.092",
+    "villageCode": "092",
+    "districtCode": "11.10.080",
+    "name": "Pante Piyeu",
+    "alias": "Pante Piyeu"
+  },
+  {
+    "code": "11.10.080.093",
+    "villageCode": "093",
+    "districtCode": "11.10.080",
+    "name": "Tanjong Mesjid",
+    "alias": "Tanjong Mesjid"
+  },
+  {
+    "code": "11.10.080.094",
+    "villageCode": "094",
+    "districtCode": "11.10.080",
+    "name": "Tanjong Paya",
+    "alias": "Tanjong Paya"
+  },
+  {
+    "code": "11.10.080.095",
+    "villageCode": "095",
+    "districtCode": "11.10.080",
+    "name": "Tanjong Nie",
+    "alias": "Tanjong Nie"
+  },
+  {
+    "code": "11.10.080.096",
+    "villageCode": "096",
+    "districtCode": "11.10.080",
+    "name": "Bayu",
+    "alias": "Bayu"
+  },
+  {
+    "code": "11.10.080.097",
+    "villageCode": "097",
+    "districtCode": "11.10.080",
+    "name": "Krueng Baro Babah Krueng",
+    "alias": "Krueng Baro Babah Krueng"
+  },
+  {
+    "code": "11.10.080.098",
+    "villageCode": "098",
+    "districtCode": "11.10.080",
+    "name": "Meunasah Nibong",
+    "alias": "Meunasah Nibong"
+  },
+  {
+    "code": "11.10.080.099",
+    "villageCode": "099",
+    "districtCode": "11.10.080",
+    "name": "Pante Ara",
+    "alias": "Pante Ara"
+  },
+  {
+    "code": "11.10.080.100",
+    "villageCode": "100",
+    "districtCode": "11.10.080",
+    "name": "Meunasah Meucap",
+    "alias": "Meunasah Meucap"
+  },
+  {
+    "code": "11.10.080.101",
+    "villageCode": "101",
+    "districtCode": "11.10.080",
+    "name": "Asan Bideun",
+    "alias": "Asan Bideun"
+  },
+  {
+    "code": "11.10.080.102",
+    "villageCode": "102",
+    "districtCode": "11.10.080",
+    "name": "Pulo Pisang",
+    "alias": "Pulo Pisang"
+  },
+  {
+    "code": "11.10.080.104",
+    "villageCode": "104",
+    "districtCode": "11.10.080",
+    "name": "Cot Puuk",
+    "alias": "Cot Puuk"
+  },
+  {
+    "code": "11.10.080.105",
+    "villageCode": "105",
+    "districtCode": "11.10.080",
+    "name": "Blang Dalam",
+    "alias": "Blang Dalam"
+  },
+  {
+    "code": "11.10.080.106",
+    "villageCode": "106",
+    "districtCode": "11.10.080",
+    "name": "Pulo Ue Baro",
+    "alias": "Pulo Ue Baro"
+  }
+]

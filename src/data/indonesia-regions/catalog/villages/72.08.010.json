@@ -1,0 +1,72 @@
+[
+  {
+    "code": "72.08.010.001",
+    "villageCode": "001",
+    "districtCode": "72.08.010",
+    "name": "Maleali",
+    "alias": "Maleali"
+  },
+  {
+    "code": "72.08.010.002",
+    "villageCode": "002",
+    "districtCode": "72.08.010",
+    "name": "Sausu Peore",
+    "alias": "Sausu Peore"
+  },
+  {
+    "code": "72.08.010.003",
+    "villageCode": "003",
+    "districtCode": "72.08.010",
+    "name": "Sausu Torono",
+    "alias": "Sausu Torono"
+  },
+  {
+    "code": "72.08.010.004",
+    "villageCode": "004",
+    "districtCode": "72.08.010",
+    "name": "Sausu Trans",
+    "alias": "Sausu Trans"
+  },
+  {
+    "code": "72.08.010.013",
+    "villageCode": "013",
+    "districtCode": "72.08.010",
+    "name": "Sausu Pakareme",
+    "alias": "Sausu Pakareme"
+  },
+  {
+    "code": "72.08.010.014",
+    "villageCode": "014",
+    "districtCode": "72.08.010",
+    "name": "Sausu Gandasari",
+    "alias": "Sausu Gandasari"
+  },
+  {
+    "code": "72.08.010.016",
+    "villageCode": "016",
+    "districtCode": "72.08.010",
+    "name": "Sausu Salubanga",
+    "alias": "Sausu Salubanga"
+  },
+  {
+    "code": "72.08.010.017",
+    "villageCode": "017",
+    "districtCode": "72.08.010",
+    "name": "Taliabo",
+    "alias": "Taliabo"
+  },
+  {
+    "code": "72.08.010.018",
+    "villageCode": "018",
+    "districtCode": "72.08.010",
+    "name": "Sausu Tambu",
+    "alias": "Sausu Tambu"
+  },
+  {
+    "code": "72.08.010.019",
+    "villageCode": "019",
+    "districtCode": "72.08.010",
+    "name": "Sausu Auma",
+    "alias": "Sausu Auma"
+  }
+]

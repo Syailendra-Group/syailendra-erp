@@ -1,0 +1,100 @@
+[
+  {
+    "code": "33.07.050.001",
+    "villageCode": "001",
+    "districtCode": "33.07.050",
+    "name": "Sawangan",
+    "alias": "Sawangan"
+  },
+  {
+    "code": "33.07.050.002",
+    "villageCode": "002",
+    "districtCode": "33.07.050",
+    "name": "Lipursari",
+    "alias": "Lipursari"
+  },
+  {
+    "code": "33.07.050.003",
+    "villageCode": "003",
+    "districtCode": "33.07.050",
+    "name": "Selokromo",
+    "alias": "Selokromo"
+  },
+  {
+    "code": "33.07.050.004",
+    "villageCode": "004",
+    "districtCode": "33.07.050",
+    "name": "Sojokerto",
+    "alias": "Sojokerto"
+  },
+  {
+    "code": "33.07.050.005",
+    "villageCode": "005",
+    "districtCode": "33.07.050",
+    "name": "Besani",
+    "alias": "Besani"
+  },
+  {
+    "code": "33.07.050.006",
+    "villageCode": "006",
+    "districtCode": "33.07.050",
+    "name": "Leksono",
+    "alias": "Leksono"
+  },
+  {
+    "code": "33.07.050.007",
+    "villageCode": "007",
+    "districtCode": "33.07.050",
+    "name": "Jlamprang",
+    "alias": "Jlamprang"
+  },
+  {
+    "code": "33.07.050.008",
+    "villageCode": "008",
+    "districtCode": "33.07.050",
+    "name": "Wonokerto",
+    "alias": "Wonokerto"
+  },
+  {
+    "code": "33.07.050.019",
+    "villageCode": "019",
+    "districtCode": "33.07.050",
+    "name": "Jonggolsari",
+    "alias": "Jonggolsari"
+  },
+  {
+    "code": "33.07.050.020",
+    "villageCode": "020",
+    "districtCode": "33.07.050",
+    "name": "Timbang",
+    "alias": "Timbang"
+  },
+  {
+    "code": "33.07.050.021",
+    "villageCode": "021",
+    "districtCode": "33.07.050",
+    "name": "Kalimendong",
+    "alias": "Kalimendong"
+  },
+  {
+    "code": "33.07.050.029",
+    "villageCode": "029",
+    "districtCode": "33.07.050",
+    "name": "Manggis",
+    "alias": "Manggis"
+  },
+  {
+    "code": "33.07.050.030",
+    "villageCode": "030",
+    "districtCode": "33.07.050",
+    "name": "Durensawit",
+    "alias": "Durensawit"
+  },
+  {
+    "code": "33.07.050.031",
+    "villageCode": "031",
+    "districtCode": "33.07.050",
+    "name": "Pacarmulyo",
+    "alias": "Pacarmulyo"
+  }
+]

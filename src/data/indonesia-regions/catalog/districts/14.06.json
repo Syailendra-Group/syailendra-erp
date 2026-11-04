@@ -1,0 +1,170 @@
+[
+  {
+    "code": "14.06.010",
+    "districtCode": "010",
+    "regencyCode": "14.06",
+    "provinceCode": "14",
+    "name": "Kecamatan Kampar Kiri",
+    "alias": "Kampar Kiri"
+  },
+  {
+    "code": "14.06.011",
+    "districtCode": "011",
+    "regencyCode": "14.06",
+    "provinceCode": "14",
+    "name": "Kecamatan Kampar Kiri Hulu",
+    "alias": "Kampar Kiri Hulu"
+  },
+  {
+    "code": "14.06.012",
+    "districtCode": "012",
+    "regencyCode": "14.06",
+    "provinceCode": "14",
+    "name": "Kecamatan Kampar Kiri Hilir",
+    "alias": "Kampar Kiri Hilir"
+  },
+  {
+    "code": "14.06.013",
+    "districtCode": "013",
+    "regencyCode": "14.06",
+    "provinceCode": "14",
+    "name": "Kecamatan Gunung Sahilan",
+    "alias": "Gunung Sahilan"
+  },
+  {
+    "code": "14.06.014",
+    "districtCode": "014",
+    "regencyCode": "14.06",
+    "provinceCode": "14",
+    "name": "Kecamatan Kampar Kiri Tengah",
+    "alias": "Kampar Kiri Tengah"
+  },
+  {
+    "code": "14.06.020",
+    "districtCode": "020",
+    "regencyCode": "14.06",
+    "provinceCode": "14",
+    "name": "Kecamatan Xiii Koto Kampar",
+    "alias": "Xiii Koto Kampar"
+  },
+  {
+    "code": "14.06.021",
+    "districtCode": "021",
+    "regencyCode": "14.06",
+    "provinceCode": "14",
+    "name": "Kecamatan Koto Kampar Hulu",
+    "alias": "Koto Kampar Hulu"
+  },
+  {
+    "code": "14.06.030",
+    "districtCode": "030",
+    "regencyCode": "14.06",
+    "provinceCode": "14",
+    "name": "Kecamatan Kuok",
+    "alias": "Kuok"
+  },
+  {
+    "code": "14.06.031",
+    "districtCode": "031",
+    "regencyCode": "14.06",
+    "provinceCode": "14",
+    "name": "Kecamatan Salo",
+    "alias": "Salo"
+  },
+  {
+    "code": "14.06.040",
+    "districtCode": "040",
+    "regencyCode": "14.06",
+    "provinceCode": "14",
+    "name": "Kecamatan Tapung",
+    "alias": "Tapung"
+  },
+  {
+    "code": "14.06.041",
+    "districtCode": "041",
+    "regencyCode": "14.06",
+    "provinceCode": "14",
+    "name": "Kecamatan Tapung Hulu",
+    "alias": "Tapung Hulu"
+  },
+  {
+    "code": "14.06.042",
+    "districtCode": "042",
+    "regencyCode": "14.06",
+    "provinceCode": "14",
+    "name": "Kecamatan Tapung Hilir",
+    "alias": "Tapung Hilir"
+  },
+  {
+    "code": "14.06.050",
+    "districtCode": "050",
+    "regencyCode": "14.06",
+    "provinceCode": "14",
+    "name": "Kecamatan Bangkinang Kota",
+    "alias": "Bangkinang Kota"
+  },
+  {
+    "code": "14.06.051",
+    "districtCode": "051",
+    "regencyCode": "14.06",
+    "provinceCode": "14",
+    "name": "Kecamatan Bangkinang",
+    "alias": "Bangkinang"
+  },
+  {
+    "code": "14.06.060",
+    "districtCode": "060",
+    "regencyCode": "14.06",
+    "provinceCode": "14",
+    "name": "Kecamatan Kampar",
+    "alias": "Kampar"
+  },
+  {
+    "code": "14.06.061",
+    "districtCode": "061",
+    "regencyCode": "14.06",
+    "provinceCode": "14",
+    "name": "Kecamatan Kampa",
+    "alias": "Kampa"
+  },
+  {
+    "code": "14.06.062",
+    "districtCode": "062",
+    "regencyCode": "14.06",
+    "provinceCode": "14",
+    "name": "Kecamatan Rumbio Jaya",
+    "alias": "Rumbio Jaya"
+  },
+  {
+    "code": "14.06.063",
+    "districtCode": "063",
+    "regencyCode": "14.06",
+    "provinceCode": "14",
+    "name": "Kecamatan Kampar Utara",
+    "alias": "Kampar Utara"
+  },
+  {
+    "code": "14.06.070",
+    "districtCode": "070",
+    "regencyCode": "14.06",
+    "provinceCode": "14",
+    "name": "Kecamatan Tambang",
+    "alias": "Tambang"
+  },
+  {
+    "code": "14.06.080",
+    "districtCode": "080",
+    "regencyCode": "14.06",
+    "provinceCode": "14",
+    "name": "Kecamatan Siak Hulu",
+    "alias": "Siak Hulu"
+  },
+  {
+    "code": "14.06.081",
+    "districtCode": "081",
+    "regencyCode": "14.06",
+    "provinceCode": "14",
+    "name": "Kecamatan Perhentian Raja",
+    "alias": "Perhentian Raja"
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "code": "73.11.210.001",
+    "villageCode": "001",
+    "districtCode": "73.11.210",
+    "name": "Manciri",
+    "alias": "Manciri"
+  },
+  {
+    "code": "73.11.210.002",
+    "villageCode": "002",
+    "districtCode": "73.11.210",
+    "name": "Lebbae",
+    "alias": "Lebbae"
+  },
+  {
+    "code": "73.11.210.003",
+    "villageCode": "003",
+    "districtCode": "73.11.210",
+    "name": "Amessangeng",
+    "alias": "Amessangeng"
+  },
+  {
+    "code": "73.11.210.004",
+    "villageCode": "004",
+    "districtCode": "73.11.210",
+    "name": "Leppangeng",
+    "alias": "Leppangeng"
+  },
+  {
+    "code": "73.11.210.005",
+    "villageCode": "005",
+    "districtCode": "73.11.210",
+    "name": "Allamungeng Patue",
+    "alias": "Allamungeng Patue"
+  },
+  {
+    "code": "73.11.210.006",
+    "villageCode": "006",
+    "districtCode": "73.11.210",
+    "name": "Timurung",
+    "alias": "Timurung"
+  },
+  {
+    "code": "73.11.210.007",
+    "villageCode": "007",
+    "districtCode": "73.11.210",
+    "name": "Labissa",
+    "alias": "Labissa"
+  },
+  {
+    "code": "73.11.210.008",
+    "villageCode": "008",
+    "districtCode": "73.11.210",
+    "name": "Opo",
+    "alias": "Opo"
+  },
+  {
+    "code": "73.11.210.009",
+    "villageCode": "009",
+    "districtCode": "73.11.210",
+    "name": "Pinceng Pute",
+    "alias": "Pinceng Pute"
+  },
+  {
+    "code": "73.11.210.010",
+    "villageCode": "010",
+    "districtCode": "73.11.210",
+    "name": "Welado",
+    "alias": "Welado"
+  },
+  {
+    "code": "73.11.210.011",
+    "villageCode": "011",
+    "districtCode": "73.11.210",
+    "name": "Pompanua",
+    "alias": "Pompanua"
+  },
+  {
+    "code": "73.11.210.012",
+    "villageCode": "012",
+    "districtCode": "73.11.210",
+    "name": "Pompanua Riattang",
+    "alias": "Pompanua Riattang"
+  },
+  {
+    "code": "73.11.210.013",
+    "villageCode": "013",
+    "districtCode": "73.11.210",
+    "name": "Telle",
+    "alias": "Telle"
+  },
+  {
+    "code": "73.11.210.014",
+    "villageCode": "014",
+    "districtCode": "73.11.210",
+    "name": "Pacciro",
+    "alias": "Pacciro"
+  }
+]

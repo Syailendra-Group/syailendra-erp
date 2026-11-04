@@ -1,0 +1,226 @@
+[
+  {
+    "code": "18.05.010",
+    "districtCode": "010",
+    "regencyCode": "18.05",
+    "provinceCode": "18",
+    "name": "Kecamatan Padang Ratu",
+    "alias": "Padang Ratu"
+  },
+  {
+    "code": "18.05.011",
+    "districtCode": "011",
+    "regencyCode": "18.05",
+    "provinceCode": "18",
+    "name": "Kecamatan Selagai Lingga",
+    "alias": "Selagai Lingga"
+  },
+  {
+    "code": "18.05.012",
+    "districtCode": "012",
+    "regencyCode": "18.05",
+    "provinceCode": "18",
+    "name": "Kecamatan Pubian",
+    "alias": "Pubian"
+  },
+  {
+    "code": "18.05.013",
+    "districtCode": "013",
+    "regencyCode": "18.05",
+    "provinceCode": "18",
+    "name": "Kecamatan Anak Tuha",
+    "alias": "Anak Tuha"
+  },
+  {
+    "code": "18.05.014",
+    "districtCode": "014",
+    "regencyCode": "18.05",
+    "provinceCode": "18",
+    "name": "Kecamatan Anak Ratu Aji",
+    "alias": "Anak Ratu Aji"
+  },
+  {
+    "code": "18.05.020",
+    "districtCode": "020",
+    "regencyCode": "18.05",
+    "provinceCode": "18",
+    "name": "Kecamatan Kalirejo",
+    "alias": "Kalirejo"
+  },
+  {
+    "code": "18.05.021",
+    "districtCode": "021",
+    "regencyCode": "18.05",
+    "provinceCode": "18",
+    "name": "Kecamatan Sendang Agung",
+    "alias": "Sendang Agung"
+  },
+  {
+    "code": "18.05.030",
+    "districtCode": "030",
+    "regencyCode": "18.05",
+    "provinceCode": "18",
+    "name": "Kecamatan Bangunrejo",
+    "alias": "Bangunrejo"
+  },
+  {
+    "code": "18.05.040",
+    "districtCode": "040",
+    "regencyCode": "18.05",
+    "provinceCode": "18",
+    "name": "Kecamatan Gunung Sugih",
+    "alias": "Gunung Sugih"
+  },
+  {
+    "code": "18.05.041",
+    "districtCode": "041",
+    "regencyCode": "18.05",
+    "provinceCode": "18",
+    "name": "Kecamatan Bekri",
+    "alias": "Bekri"
+  },
+  {
+    "code": "18.05.042",
+    "districtCode": "042",
+    "regencyCode": "18.05",
+    "provinceCode": "18",
+    "name": "Kecamatan Bumi Ratu Nuban",
+    "alias": "Bumi Ratu Nuban"
+  },
+  {
+    "code": "18.05.050",
+    "districtCode": "050",
+    "regencyCode": "18.05",
+    "provinceCode": "18",
+    "name": "Kecamatan Trimurjo",
+    "alias": "Trimurjo"
+  },
+  {
+    "code": "18.05.060",
+    "districtCode": "060",
+    "regencyCode": "18.05",
+    "provinceCode": "18",
+    "name": "Kecamatan Punggur",
+    "alias": "Punggur"
+  },
+  {
+    "code": "18.05.061",
+    "districtCode": "061",
+    "regencyCode": "18.05",
+    "provinceCode": "18",
+    "name": "Kecamatan Kota Gajah",
+    "alias": "Kota Gajah"
+  },
+  {
+    "code": "18.05.070",
+    "districtCode": "070",
+    "regencyCode": "18.05",
+    "provinceCode": "18",
+    "name": "Kecamatan Seputih Raman",
+    "alias": "Seputih Raman"
+  },
+  {
+    "code": "18.05.080",
+    "districtCode": "080",
+    "regencyCode": "18.05",
+    "provinceCode": "18",
+    "name": "Kecamatan Terbanggi Besar",
+    "alias": "Terbanggi Besar"
+  },
+  {
+    "code": "18.05.081",
+    "districtCode": "081",
+    "regencyCode": "18.05",
+    "provinceCode": "18",
+    "name": "Kecamatan Seputih Agung",
+    "alias": "Seputih Agung"
+  },
+  {
+    "code": "18.05.082",
+    "districtCode": "082",
+    "regencyCode": "18.05",
+    "provinceCode": "18",
+    "name": "Kecamatan Way Pengubuan",
+    "alias": "Way Pengubuan"
+  },
+  {
+    "code": "18.05.090",
+    "districtCode": "090",
+    "regencyCode": "18.05",
+    "provinceCode": "18",
+    "name": "Kecamatan Terusan Nunyai",
+    "alias": "Terusan Nunyai"
+  },
+  {
+    "code": "18.05.100",
+    "districtCode": "100",
+    "regencyCode": "18.05",
+    "provinceCode": "18",
+    "name": "Kecamatan Seputih Mataram",
+    "alias": "Seputih Mataram"
+  },
+  {
+    "code": "18.05.101",
+    "districtCode": "101",
+    "regencyCode": "18.05",
+    "provinceCode": "18",
+    "name": "Kecamatan Bandar Mataram",
+    "alias": "Bandar Mataram"
+  },
+  {
+    "code": "18.05.110",
+    "districtCode": "110",
+    "regencyCode": "18.05",
+    "provinceCode": "18",
+    "name": "Kecamatan Seputih Banyak",
+    "alias": "Seputih Banyak"
+  },
+  {
+    "code": "18.05.111",
+    "districtCode": "111",
+    "regencyCode": "18.05",
+    "provinceCode": "18",
+    "name": "Kecamatan Way Seputih",
+    "alias": "Way Seputih"
+  },
+  {
+    "code": "18.05.120",
+    "districtCode": "120",
+    "regencyCode": "18.05",
+    "provinceCode": "18",
+    "name": "Kecamatan Rumbia",
+    "alias": "Rumbia"
+  },
+  {
+    "code": "18.05.121",
+    "districtCode": "121",
+    "regencyCode": "18.05",
+    "provinceCode": "18",
+    "name": "Kecamatan Bumi Nabung",
+    "alias": "Bumi Nabung"
+  },
+  {
+    "code": "18.05.122",
+    "districtCode": "122",
+    "regencyCode": "18.05",
+    "provinceCode": "18",
+    "name": "Kecamatan Putra Rumbia",
+    "alias": "Putra Rumbia"
+  },
+  {
+    "code": "18.05.130",
+    "districtCode": "130",
+    "regencyCode": "18.05",
+    "provinceCode": "18",
+    "name": "Kecamatan Seputih Surabaya",
+    "alias": "Seputih Surabaya"
+  },
+  {
+    "code": "18.05.131",
+    "districtCode": "131",
+    "regencyCode": "18.05",
+    "provinceCode": "18",
+    "name": "Kecamatan Bandar Surabaya",
+    "alias": "Bandar Surabaya"
+  }
+]

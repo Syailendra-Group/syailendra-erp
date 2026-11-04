@@ -1,0 +1,58 @@
+[
+  {
+    "code": "73.16.050.003",
+    "villageCode": "003",
+    "districtCode": "73.16.050",
+    "name": "Mata Allo",
+    "alias": "Mata Allo"
+  },
+  {
+    "code": "73.16.050.004",
+    "villageCode": "004",
+    "districtCode": "73.16.050",
+    "name": "Kalosi",
+    "alias": "Kalosi"
+  },
+  {
+    "code": "73.16.050.015",
+    "villageCode": "015",
+    "districtCode": "73.16.050",
+    "name": "Kambiolangi",
+    "alias": "Kambiolangi"
+  },
+  {
+    "code": "73.16.050.016",
+    "villageCode": "016",
+    "districtCode": "73.16.050",
+    "name": "Buntu Sugi",
+    "alias": "Buntu Sugi"
+  },
+  {
+    "code": "73.16.050.017",
+    "villageCode": "017",
+    "districtCode": "73.16.050",
+    "name": "Sumillan",
+    "alias": "Sumillan"
+  },
+  {
+    "code": "73.16.050.024",
+    "villageCode": "024",
+    "districtCode": "73.16.050",
+    "name": "Pana",
+    "alias": "Pana"
+  },
+  {
+    "code": "73.16.050.027",
+    "villageCode": "027",
+    "districtCode": "73.16.050",
+    "name": "Bolang",
+    "alias": "Bolang"
+  },
+  {
+    "code": "73.16.050.028",
+    "villageCode": "028",
+    "districtCode": "73.16.050",
+    "name": "Taulo",
+    "alias": "Taulo"
+  }
+]

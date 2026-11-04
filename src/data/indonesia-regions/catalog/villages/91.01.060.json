@@ -1,0 +1,37 @@
+[
+  {
+    "code": "91.01.060.008",
+    "villageCode": "008",
+    "districtCode": "91.01.060",
+    "name": "Fak Fak Selatan",
+    "alias": "Fak Fak Selatan"
+  },
+  {
+    "code": "91.01.060.009",
+    "villageCode": "009",
+    "districtCode": "91.01.060",
+    "name": "Fak Fak Utara",
+    "alias": "Fak Fak Utara"
+  },
+  {
+    "code": "91.01.060.010",
+    "villageCode": "010",
+    "districtCode": "91.01.060",
+    "name": "Gewerpe",
+    "alias": "Gewerpe"
+  },
+  {
+    "code": "91.01.060.013",
+    "villageCode": "013",
+    "districtCode": "91.01.060",
+    "name": "Wrikapal",
+    "alias": "Wrikapal"
+  },
+  {
+    "code": "91.01.060.021",
+    "villageCode": "021",
+    "districtCode": "91.01.060",
+    "name": "Lusi Peri",
+    "alias": "Lusi Peri"
+  }
+]

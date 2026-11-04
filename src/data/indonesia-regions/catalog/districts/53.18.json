@@ -1,0 +1,58 @@
+[
+  {
+    "code": "53.18.010",
+    "districtCode": "010",
+    "regencyCode": "53.18",
+    "provinceCode": "53",
+    "name": "Kecamatan Mauponggo",
+    "alias": "Mauponggo"
+  },
+  {
+    "code": "53.18.020",
+    "districtCode": "020",
+    "regencyCode": "53.18",
+    "provinceCode": "53",
+    "name": "Kecamatan Keo Tengah",
+    "alias": "Keo Tengah"
+  },
+  {
+    "code": "53.18.030",
+    "districtCode": "030",
+    "regencyCode": "53.18",
+    "provinceCode": "53",
+    "name": "Kecamatan Nangaroro",
+    "alias": "Nangaroro"
+  },
+  {
+    "code": "53.18.040",
+    "districtCode": "040",
+    "regencyCode": "53.18",
+    "provinceCode": "53",
+    "name": "Kecamatan Boawae",
+    "alias": "Boawae"
+  },
+  {
+    "code": "53.18.050",
+    "districtCode": "050",
+    "regencyCode": "53.18",
+    "provinceCode": "53",
+    "name": "Kecamatan Aesesa Selatan",
+    "alias": "Aesesa Selatan"
+  },
+  {
+    "code": "53.18.060",
+    "districtCode": "060",
+    "regencyCode": "53.18",
+    "provinceCode": "53",
+    "name": "Kecamatan Aesesa",
+    "alias": "Aesesa"
+  },
+  {
+    "code": "53.18.070",
+    "districtCode": "070",
+    "regencyCode": "53.18",
+    "provinceCode": "53",
+    "name": "Kecamatan Wolowae",
+    "alias": "Wolowae"
+  }
+]

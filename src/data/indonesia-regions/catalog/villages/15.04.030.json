@@ -1,0 +1,100 @@
+[
+  {
+    "code": "15.04.030.001",
+    "villageCode": "001",
+    "districtCode": "15.04.030",
+    "name": "Jebak",
+    "alias": "Jebak"
+  },
+  {
+    "code": "15.04.030.002",
+    "villageCode": "002",
+    "districtCode": "15.04.030",
+    "name": "Ampelu",
+    "alias": "Ampelu"
+  },
+  {
+    "code": "15.04.030.003",
+    "villageCode": "003",
+    "districtCode": "15.04.030",
+    "name": "Tanjung Marwo",
+    "alias": "Tanjung Marwo"
+  },
+  {
+    "code": "15.04.030.004",
+    "villageCode": "004",
+    "districtCode": "15.04.030",
+    "name": "Kampung Baru",
+    "alias": "Kampung Baru"
+  },
+  {
+    "code": "15.04.030.005",
+    "villageCode": "005",
+    "districtCode": "15.04.030",
+    "name": "Sukaramai",
+    "alias": "Sukaramai"
+  },
+  {
+    "code": "15.04.030.006",
+    "villageCode": "006",
+    "districtCode": "15.04.030",
+    "name": "Pasar Muara Tembesi",
+    "alias": "Pasar Muara Tembesi"
+  },
+  {
+    "code": "15.04.030.007",
+    "villageCode": "007",
+    "districtCode": "15.04.030",
+    "name": "Rambutan Masam",
+    "alias": "Rambutan Masam"
+  },
+  {
+    "code": "15.04.030.008",
+    "villageCode": "008",
+    "districtCode": "15.04.030",
+    "name": "Pulau",
+    "alias": "Pulau"
+  },
+  {
+    "code": "15.04.030.009",
+    "villageCode": "009",
+    "districtCode": "15.04.030",
+    "name": "Sungai Pulai",
+    "alias": "Sungai Pulai"
+  },
+  {
+    "code": "15.04.030.010",
+    "villageCode": "010",
+    "districtCode": "15.04.030",
+    "name": "Rantau Kapas Mudo",
+    "alias": "Rantau Kapas Mudo"
+  },
+  {
+    "code": "15.04.030.011",
+    "villageCode": "011",
+    "districtCode": "15.04.030",
+    "name": "Rantau Kapas Tuo",
+    "alias": "Rantau Kapas Tuo"
+  },
+  {
+    "code": "15.04.030.012",
+    "villageCode": "012",
+    "districtCode": "15.04.030",
+    "name": "Ampelu Mudo",
+    "alias": "Ampelu Mudo"
+  },
+  {
+    "code": "15.04.030.013",
+    "villageCode": "013",
+    "districtCode": "15.04.030",
+    "name": "Pelayangan",
+    "alias": "Pelayangan"
+  },
+  {
+    "code": "15.04.030.014",
+    "villageCode": "014",
+    "districtCode": "15.04.030",
+    "name": "Pematang Lima Suku",
+    "alias": "Pematang Lima Suku"
+  }
+]

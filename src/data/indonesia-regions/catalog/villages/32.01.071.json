@@ -1,0 +1,58 @@
+[
+  {
+    "code": "32.01.071.001",
+    "villageCode": "001",
+    "districtCode": "32.01.071",
+    "name": "Sukajadi",
+    "alias": "Sukajadi"
+  },
+  {
+    "code": "32.01.071.002",
+    "villageCode": "002",
+    "districtCode": "32.01.071",
+    "name": "Sukaluyu",
+    "alias": "Sukaluyu"
+  },
+  {
+    "code": "32.01.071.003",
+    "villageCode": "003",
+    "districtCode": "32.01.071",
+    "name": "Sukajaya",
+    "alias": "Sukajaya"
+  },
+  {
+    "code": "32.01.071.004",
+    "villageCode": "004",
+    "districtCode": "32.01.071",
+    "name": "Sukaresmi",
+    "alias": "Sukaresmi"
+  },
+  {
+    "code": "32.01.071.005",
+    "villageCode": "005",
+    "districtCode": "32.01.071",
+    "name": "Pasir Eurih",
+    "alias": "Pasir Eurih"
+  },
+  {
+    "code": "32.01.071.006",
+    "villageCode": "006",
+    "districtCode": "32.01.071",
+    "name": "Taman Sari",
+    "alias": "Taman Sari"
+  },
+  {
+    "code": "32.01.071.007",
+    "villageCode": "007",
+    "districtCode": "32.01.071",
+    "name": "Sukamantri",
+    "alias": "Sukamantri"
+  },
+  {
+    "code": "32.01.071.008",
+    "villageCode": "008",
+    "districtCode": "32.01.071",
+    "name": "Sirnagalih",
+    "alias": "Sirnagalih"
+  }
+]

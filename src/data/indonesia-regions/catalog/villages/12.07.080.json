@@ -1,0 +1,72 @@
+[
+  {
+    "code": "12.07.080.001",
+    "villageCode": "001",
+    "districtCode": "12.07.080",
+    "name": "Sibargot",
+    "alias": "Sibargot"
+  },
+  {
+    "code": "12.07.080.002",
+    "villageCode": "002",
+    "districtCode": "12.07.080",
+    "name": "Bandar Kumbul",
+    "alias": "Bandar Kumbul"
+  },
+  {
+    "code": "12.07.080.003",
+    "villageCode": "003",
+    "districtCode": "12.07.080",
+    "name": "Tanjung Medan",
+    "alias": "Tanjung Medan"
+  },
+  {
+    "code": "12.07.080.004",
+    "villageCode": "004",
+    "districtCode": "12.07.080",
+    "name": "Janji",
+    "alias": "Janji"
+  },
+  {
+    "code": "12.07.080.005",
+    "villageCode": "005",
+    "districtCode": "12.07.080",
+    "name": "Afdeling I Rantauprapat",
+    "alias": "Afdeling I Rantauprapat"
+  },
+  {
+    "code": "12.07.080.006",
+    "villageCode": "006",
+    "districtCode": "12.07.080",
+    "name": "Aek Buru Selatan",
+    "alias": "Aek Buru Selatan"
+  },
+  {
+    "code": "12.07.080.007",
+    "villageCode": "007",
+    "districtCode": "12.07.080",
+    "name": "Afdeling Ii Rantauprapat",
+    "alias": "Afdeling Ii Rantauprapat"
+  },
+  {
+    "code": "12.07.080.008",
+    "villageCode": "008",
+    "districtCode": "12.07.080",
+    "name": "Kampung Baru",
+    "alias": "Kampung Baru"
+  },
+  {
+    "code": "12.07.080.009",
+    "villageCode": "009",
+    "districtCode": "12.07.080",
+    "name": "Tebing Linggahara",
+    "alias": "Tebing Linggahara"
+  },
+  {
+    "code": "12.07.080.010",
+    "villageCode": "010",
+    "districtCode": "12.07.080",
+    "name": "Tebing Linggahara Baru",
+    "alias": "Tebing Linggahara Baru"
+  }
+]

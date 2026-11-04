@@ -1,0 +1,65 @@
+[
+  {
+    "code": "76.04.031.001",
+    "villageCode": "001",
+    "districtCode": "76.04.031",
+    "name": "Papalang",
+    "alias": "Papalang"
+  },
+  {
+    "code": "76.04.031.002",
+    "villageCode": "002",
+    "districtCode": "76.04.031",
+    "name": "Topore",
+    "alias": "Topore"
+  },
+  {
+    "code": "76.04.031.003",
+    "villageCode": "003",
+    "districtCode": "76.04.031",
+    "name": "Sukadamai",
+    "alias": "Sukadamai"
+  },
+  {
+    "code": "76.04.031.004",
+    "villageCode": "004",
+    "districtCode": "76.04.031",
+    "name": "Salukayu",
+    "alias": "Salukayu"
+  },
+  {
+    "code": "76.04.031.005",
+    "villageCode": "005",
+    "districtCode": "76.04.031",
+    "name": "Toabo",
+    "alias": "Toabo"
+  },
+  {
+    "code": "76.04.031.006",
+    "villageCode": "006",
+    "districtCode": "76.04.031",
+    "name": "Bonda",
+    "alias": "Bonda"
+  },
+  {
+    "code": "76.04.031.007",
+    "villageCode": "007",
+    "districtCode": "76.04.031",
+    "name": "Boda-Boda",
+    "alias": "Boda-Boda"
+  },
+  {
+    "code": "76.04.031.008",
+    "villageCode": "008",
+    "districtCode": "76.04.031",
+    "name": "Batu Ampa",
+    "alias": "Batu Ampa"
+  },
+  {
+    "code": "76.04.031.009",
+    "villageCode": "009",
+    "districtCode": "76.04.031",
+    "name": "Sisango",
+    "alias": "Sisango"
+  }
+]

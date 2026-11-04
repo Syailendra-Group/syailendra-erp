@@ -1,0 +1,65 @@
+[
+  {
+    "code": "35.28.130.001",
+    "villageCode": "001",
+    "districtCode": "35.28.130",
+    "name": "Sana Tengah",
+    "alias": "Sana Tengah"
+  },
+  {
+    "code": "35.28.130.002",
+    "villageCode": "002",
+    "districtCode": "35.28.130",
+    "name": "Sana Daja",
+    "alias": "Sana Daja"
+  },
+  {
+    "code": "35.28.130.003",
+    "villageCode": "003",
+    "districtCode": "35.28.130",
+    "name": "Dempo Barat",
+    "alias": "Dempo Barat"
+  },
+  {
+    "code": "35.28.130.004",
+    "villageCode": "004",
+    "districtCode": "35.28.130",
+    "name": "Dempo Timur",
+    "alias": "Dempo Timur"
+  },
+  {
+    "code": "35.28.130.005",
+    "villageCode": "005",
+    "districtCode": "35.28.130",
+    "name": "Bindang",
+    "alias": "Bindang"
+  },
+  {
+    "code": "35.28.130.006",
+    "villageCode": "006",
+    "districtCode": "35.28.130",
+    "name": "Batukerbuy",
+    "alias": "Batukerbuy"
+  },
+  {
+    "code": "35.28.130.007",
+    "villageCode": "007",
+    "districtCode": "35.28.130",
+    "name": "Tlontoraja",
+    "alias": "Tlontoraja"
+  },
+  {
+    "code": "35.28.130.008",
+    "villageCode": "008",
+    "districtCode": "35.28.130",
+    "name": "Tagangser Daja",
+    "alias": "Tagangser Daja"
+  },
+  {
+    "code": "35.28.130.009",
+    "villageCode": "009",
+    "districtCode": "35.28.130",
+    "name": "Sotabar",
+    "alias": "Sotabar"
+  }
+]

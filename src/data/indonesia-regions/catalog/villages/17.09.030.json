@@ -1,0 +1,93 @@
+[
+  {
+    "code": "17.09.030.002",
+    "villageCode": "002",
+    "districtCode": "17.09.030",
+    "name": "Tanjung Raman",
+    "alias": "Tanjung Raman"
+  },
+  {
+    "code": "17.09.030.003",
+    "villageCode": "003",
+    "districtCode": "17.09.030",
+    "name": "Sukarami",
+    "alias": "Sukarami"
+  },
+  {
+    "code": "17.09.030.004",
+    "villageCode": "004",
+    "districtCode": "17.09.030",
+    "name": "Karang Tengah",
+    "alias": "Karang Tengah"
+  },
+  {
+    "code": "17.09.030.005",
+    "villageCode": "005",
+    "districtCode": "17.09.030",
+    "name": "Lubuk Sini",
+    "alias": "Lubuk Sini"
+  },
+  {
+    "code": "17.09.030.006",
+    "villageCode": "006",
+    "districtCode": "17.09.030",
+    "name": "Bajak I",
+    "alias": "Bajak I"
+  },
+  {
+    "code": "17.09.030.007",
+    "villageCode": "007",
+    "districtCode": "17.09.030",
+    "name": "Surau",
+    "alias": "Surau"
+  },
+  {
+    "code": "17.09.030.008",
+    "villageCode": "008",
+    "districtCode": "17.09.030",
+    "name": "Rindu Hati",
+    "alias": "Rindu Hati"
+  },
+  {
+    "code": "17.09.030.009",
+    "villageCode": "009",
+    "districtCode": "17.09.030",
+    "name": "Tanjung Heran",
+    "alias": "Tanjung Heran"
+  },
+  {
+    "code": "17.09.030.010",
+    "villageCode": "010",
+    "districtCode": "17.09.030",
+    "name": "Taba Teret",
+    "alias": "Taba Teret"
+  },
+  {
+    "code": "17.09.030.011",
+    "villageCode": "011",
+    "districtCode": "17.09.030",
+    "name": "Taba Penanjung",
+    "alias": "Taba Penanjung"
+  },
+  {
+    "code": "17.09.030.012",
+    "villageCode": "012",
+    "districtCode": "17.09.030",
+    "name": "Datar Lebar",
+    "alias": "Datar Lebar"
+  },
+  {
+    "code": "17.09.030.019",
+    "villageCode": "019",
+    "districtCode": "17.09.030",
+    "name": "Penum",
+    "alias": "Penum"
+  },
+  {
+    "code": "17.09.030.020",
+    "villageCode": "020",
+    "districtCode": "17.09.030",
+    "name": "Taba Baru",
+    "alias": "Taba Baru"
+  }
+]

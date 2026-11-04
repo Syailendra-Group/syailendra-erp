@@ -1,0 +1,74 @@
+[
+  {
+    "code": "11.12.010",
+    "districtCode": "010",
+    "regencyCode": "11.12",
+    "provinceCode": "11",
+    "name": "Kecamatan Manggeng",
+    "alias": "Manggeng"
+  },
+  {
+    "code": "11.12.011",
+    "districtCode": "011",
+    "regencyCode": "11.12",
+    "provinceCode": "11",
+    "name": "Kecamatan Lembah Sabil",
+    "alias": "Lembah Sabil"
+  },
+  {
+    "code": "11.12.020",
+    "districtCode": "020",
+    "regencyCode": "11.12",
+    "provinceCode": "11",
+    "name": "Kecamatan Tangan-Tangan",
+    "alias": "Tangan-Tangan"
+  },
+  {
+    "code": "11.12.021",
+    "districtCode": "021",
+    "regencyCode": "11.12",
+    "provinceCode": "11",
+    "name": "Kecamatan Setia",
+    "alias": "Setia"
+  },
+  {
+    "code": "11.12.030",
+    "districtCode": "030",
+    "regencyCode": "11.12",
+    "provinceCode": "11",
+    "name": "Kecamatan Blang Pidie",
+    "alias": "Blang Pidie"
+  },
+  {
+    "code": "11.12.031",
+    "districtCode": "031",
+    "regencyCode": "11.12",
+    "provinceCode": "11",
+    "name": "Kecamatan Jeumpa",
+    "alias": "Jeumpa"
+  },
+  {
+    "code": "11.12.040",
+    "districtCode": "040",
+    "regencyCode": "11.12",
+    "provinceCode": "11",
+    "name": "Kecamatan Susoh",
+    "alias": "Susoh"
+  },
+  {
+    "code": "11.12.050",
+    "districtCode": "050",
+    "regencyCode": "11.12",
+    "provinceCode": "11",
+    "name": "Kecamatan Kuala Batee",
+    "alias": "Kuala Batee"
+  },
+  {
+    "code": "11.12.060",
+    "districtCode": "060",
+    "regencyCode": "11.12",
+    "provinceCode": "11",
+    "name": "Kecamatan Babah Rot",
+    "alias": "Babah Rot"
+  }
+]

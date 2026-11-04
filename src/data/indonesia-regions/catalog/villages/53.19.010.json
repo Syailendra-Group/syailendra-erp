@@ -1,0 +1,128 @@
+[
+  {
+    "code": "53.19.010.003",
+    "villageCode": "003",
+    "districtCode": "53.19.010",
+    "name": "Nanga Labang",
+    "alias": "Nanga Labang"
+  },
+  {
+    "code": "53.19.010.004",
+    "villageCode": "004",
+    "districtCode": "53.19.010",
+    "name": "Golo Kantar",
+    "alias": "Golo Kantar"
+  },
+  {
+    "code": "53.19.010.005",
+    "villageCode": "005",
+    "districtCode": "53.19.010",
+    "name": "Rana Loba",
+    "alias": "Rana Loba"
+  },
+  {
+    "code": "53.19.010.006",
+    "villageCode": "006",
+    "districtCode": "53.19.010",
+    "name": "Kota Ndora",
+    "alias": "Kota Ndora"
+  },
+  {
+    "code": "53.19.010.007",
+    "villageCode": "007",
+    "districtCode": "53.19.010",
+    "name": "Rana Masak",
+    "alias": "Rana Masak"
+  },
+  {
+    "code": "53.19.010.008",
+    "villageCode": "008",
+    "districtCode": "53.19.010",
+    "name": "Ngampang Mas",
+    "alias": "Ngampang Mas"
+  },
+  {
+    "code": "53.19.010.009",
+    "villageCode": "009",
+    "districtCode": "53.19.010",
+    "name": "Benteng Raja",
+    "alias": "Benteng Raja"
+  },
+  {
+    "code": "53.19.010.010",
+    "villageCode": "010",
+    "districtCode": "53.19.010",
+    "name": "Benteng Riwu",
+    "alias": "Benteng Riwu"
+  },
+  {
+    "code": "53.19.010.011",
+    "villageCode": "011",
+    "districtCode": "53.19.010",
+    "name": "Poco Rii",
+    "alias": "Poco Rii"
+  },
+  {
+    "code": "53.19.010.012",
+    "villageCode": "012",
+    "districtCode": "53.19.010",
+    "name": "Golo Lalong",
+    "alias": "Golo Lalong"
+  },
+  {
+    "code": "53.19.010.013",
+    "villageCode": "013",
+    "districtCode": "53.19.010",
+    "name": "Gurung Liwut",
+    "alias": "Gurung Liwut"
+  },
+  {
+    "code": "53.19.010.025",
+    "villageCode": "025",
+    "districtCode": "53.19.010",
+    "name": "Compang Ndejing",
+    "alias": "Compang Ndejing"
+  },
+  {
+    "code": "53.19.010.026",
+    "villageCode": "026",
+    "districtCode": "53.19.010",
+    "name": "Bangka Kantar",
+    "alias": "Bangka Kantar"
+  },
+  {
+    "code": "53.19.010.027",
+    "villageCode": "027",
+    "districtCode": "53.19.010",
+    "name": "Satar Peot",
+    "alias": "Satar Peot"
+  },
+  {
+    "code": "53.19.010.028",
+    "villageCode": "028",
+    "districtCode": "53.19.010",
+    "name": "Balus Permai",
+    "alias": "Balus Permai"
+  },
+  {
+    "code": "53.19.010.029",
+    "villageCode": "029",
+    "districtCode": "53.19.010",
+    "name": "Compang Tenda",
+    "alias": "Compang Tenda"
+  },
+  {
+    "code": "53.19.010.030",
+    "villageCode": "030",
+    "districtCode": "53.19.010",
+    "name": "Waling",
+    "alias": "Waling"
+  },
+  {
+    "code": "53.19.010.031",
+    "villageCode": "031",
+    "districtCode": "53.19.010",
+    "name": "Golo Leda",
+    "alias": "Golo Leda"
+  }
+]

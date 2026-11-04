@@ -1,0 +1,72 @@
+[
+  {
+    "code": "16.04.123.001",
+    "villageCode": "001",
+    "districtCode": "16.04.123",
+    "name": "Tanjung Payang",
+    "alias": "Tanjung Payang"
+  },
+  {
+    "code": "16.04.123.002",
+    "villageCode": "002",
+    "districtCode": "16.04.123",
+    "name": "Banjar Negara",
+    "alias": "Banjar Negara"
+  },
+  {
+    "code": "16.04.123.003",
+    "villageCode": "003",
+    "districtCode": "16.04.123",
+    "name": "Tanjung Tebat",
+    "alias": "Tanjung Tebat"
+  },
+  {
+    "code": "16.04.123.004",
+    "villageCode": "004",
+    "districtCode": "16.04.123",
+    "name": "Karang Anyar",
+    "alias": "Karang Anyar"
+  },
+  {
+    "code": "16.04.123.005",
+    "villageCode": "005",
+    "districtCode": "16.04.123",
+    "name": "Nantal",
+    "alias": "Nantal"
+  },
+  {
+    "code": "16.04.123.006",
+    "villageCode": "006",
+    "districtCode": "16.04.123",
+    "name": "Karang Baru",
+    "alias": "Karang Baru"
+  },
+  {
+    "code": "16.04.123.007",
+    "villageCode": "007",
+    "districtCode": "16.04.123",
+    "name": "Talang Sejemput",
+    "alias": "Talang Sejemput"
+  },
+  {
+    "code": "16.04.123.008",
+    "villageCode": "008",
+    "districtCode": "16.04.123",
+    "name": "Muara Cawang",
+    "alias": "Muara Cawang"
+  },
+  {
+    "code": "16.04.123.009",
+    "villageCode": "009",
+    "districtCode": "16.04.123",
+    "name": "Talang Sawah",
+    "alias": "Talang Sawah"
+  },
+  {
+    "code": "16.04.123.010",
+    "villageCode": "010",
+    "districtCode": "16.04.123",
+    "name": "Kerung",
+    "alias": "Kerung"
+  }
+]

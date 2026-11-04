@@ -1,0 +1,72 @@
+[
+  {
+    "code": "35.09.250.001",
+    "villageCode": "001",
+    "districtCode": "35.09.250",
+    "name": "Suren",
+    "alias": "Suren"
+  },
+  {
+    "code": "35.09.250.002",
+    "villageCode": "002",
+    "districtCode": "35.09.250",
+    "name": "Sumber Salak",
+    "alias": "Sumber Salak"
+  },
+  {
+    "code": "35.09.250.003",
+    "villageCode": "003",
+    "districtCode": "35.09.250",
+    "name": "Sumber Bulus",
+    "alias": "Sumber Bulus"
+  },
+  {
+    "code": "35.09.250.004",
+    "villageCode": "004",
+    "districtCode": "35.09.250",
+    "name": "Sumber Lesung",
+    "alias": "Sumber Lesung"
+  },
+  {
+    "code": "35.09.250.005",
+    "villageCode": "005",
+    "districtCode": "35.09.250",
+    "name": "Lembengan",
+    "alias": "Lembengan"
+  },
+  {
+    "code": "35.09.250.006",
+    "villageCode": "006",
+    "districtCode": "35.09.250",
+    "name": "Sumber Anget",
+    "alias": "Sumber Anget"
+  },
+  {
+    "code": "35.09.250.007",
+    "villageCode": "007",
+    "districtCode": "35.09.250",
+    "name": "Ledokombo",
+    "alias": "Ledokombo"
+  },
+  {
+    "code": "35.09.250.008",
+    "villageCode": "008",
+    "districtCode": "35.09.250",
+    "name": "Slateng",
+    "alias": "Slateng"
+  },
+  {
+    "code": "35.09.250.009",
+    "villageCode": "009",
+    "districtCode": "35.09.250",
+    "name": "Sukogidri",
+    "alias": "Sukogidri"
+  },
+  {
+    "code": "35.09.250.010",
+    "villageCode": "010",
+    "districtCode": "35.09.250",
+    "name": "Karang Paiton",
+    "alias": "Karang Paiton"
+  }
+]

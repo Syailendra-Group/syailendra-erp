@@ -1,0 +1,37 @@
+[
+  {
+    "code": "82.03.030.006",
+    "villageCode": "006",
+    "districtCode": "82.03.030",
+    "name": "Waitina",
+    "alias": "Waitina"
+  },
+  {
+    "code": "82.03.030.007",
+    "villageCode": "007",
+    "districtCode": "82.03.030",
+    "name": "Kow",
+    "alias": "Kow"
+  },
+  {
+    "code": "82.03.030.008",
+    "villageCode": "008",
+    "districtCode": "82.03.030",
+    "name": "Wai-Tamela",
+    "alias": "Wai-Tamela"
+  },
+  {
+    "code": "82.03.030.009",
+    "villageCode": "009",
+    "districtCode": "82.03.030",
+    "name": "Naflow",
+    "alias": "Naflow"
+  },
+  {
+    "code": "82.03.030.010",
+    "villageCode": "010",
+    "districtCode": "82.03.030",
+    "name": "Karamat Titdoy",
+    "alias": "Karamat Titdoy"
+  }
+]

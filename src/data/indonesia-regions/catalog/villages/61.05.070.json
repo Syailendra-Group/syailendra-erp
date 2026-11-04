@@ -1,0 +1,72 @@
+[
+  {
+    "code": "61.05.070.001",
+    "villageCode": "001",
+    "districtCode": "61.05.070",
+    "name": "Inggis",
+    "alias": "Inggis"
+  },
+  {
+    "code": "61.05.070.002",
+    "villageCode": "002",
+    "districtCode": "61.05.070",
+    "name": "Semanggis Raya",
+    "alias": "Semanggis Raya"
+  },
+  {
+    "code": "61.05.070.003",
+    "villageCode": "003",
+    "districtCode": "61.05.070",
+    "name": "Semuntai",
+    "alias": "Semuntai"
+  },
+  {
+    "code": "61.05.070.004",
+    "villageCode": "004",
+    "districtCode": "61.05.070",
+    "name": "Kedukul",
+    "alias": "Kedukul"
+  },
+  {
+    "code": "61.05.070.005",
+    "villageCode": "005",
+    "districtCode": "61.05.070",
+    "name": "Engkode",
+    "alias": "Engkode"
+  },
+  {
+    "code": "61.05.070.006",
+    "villageCode": "006",
+    "districtCode": "61.05.070",
+    "name": "Sungai Mawang",
+    "alias": "Sungai Mawang"
+  },
+  {
+    "code": "61.05.070.007",
+    "villageCode": "007",
+    "districtCode": "61.05.070",
+    "name": "Tri Mulya",
+    "alias": "Tri Mulya"
+  },
+  {
+    "code": "61.05.070.008",
+    "villageCode": "008",
+    "districtCode": "61.05.070",
+    "name": "Layak Omang",
+    "alias": "Layak Omang"
+  },
+  {
+    "code": "61.05.070.009",
+    "villageCode": "009",
+    "districtCode": "61.05.070",
+    "name": "Serambai Jaya",
+    "alias": "Serambai Jaya"
+  },
+  {
+    "code": "61.05.070.010",
+    "villageCode": "010",
+    "districtCode": "61.05.070",
+    "name": "Desa Persiapan Seguna",
+    "alias": "Desa Persiapan Seguna"
+  }
+]

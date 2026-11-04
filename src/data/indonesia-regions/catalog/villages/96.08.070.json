@@ -1,0 +1,58 @@
+[
+  {
+    "code": "96.08.070.001",
+    "villageCode": "001",
+    "districtCode": "96.08.070",
+    "name": "Tumbiwolu",
+    "alias": "Tumbiwolu"
+  },
+  {
+    "code": "96.08.070.002",
+    "villageCode": "002",
+    "districtCode": "96.08.070",
+    "name": "Kiyage",
+    "alias": "Kiyage"
+  },
+  {
+    "code": "96.08.070.003",
+    "villageCode": "003",
+    "districtCode": "96.08.070",
+    "name": "Kelandu",
+    "alias": "Kelandu"
+  },
+  {
+    "code": "96.08.070.004",
+    "villageCode": "004",
+    "districtCode": "96.08.070",
+    "name": "Atoli",
+    "alias": "Atoli"
+  },
+  {
+    "code": "96.08.070.005",
+    "villageCode": "005",
+    "districtCode": "96.08.070",
+    "name": "Amuringgik",
+    "alias": "Amuringgik"
+  },
+  {
+    "code": "96.08.070.006",
+    "villageCode": "006",
+    "districtCode": "96.08.070",
+    "name": "Wamggiba",
+    "alias": "Wamggiba"
+  },
+  {
+    "code": "96.08.070.007",
+    "villageCode": "007",
+    "districtCode": "96.08.070",
+    "name": "Tenggabangwi",
+    "alias": "Tenggabangwi"
+  },
+  {
+    "code": "96.08.070.008",
+    "villageCode": "008",
+    "districtCode": "96.08.070",
+    "name": "Ambo",
+    "alias": "Ambo"
+  }
+]

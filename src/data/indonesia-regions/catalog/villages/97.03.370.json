@@ -1,0 +1,51 @@
+[
+  {
+    "code": "97.03.370.001",
+    "villageCode": "001",
+    "districtCode": "97.03.370",
+    "name": "Gukop",
+    "alias": "Gukop"
+  },
+  {
+    "code": "97.03.370.002",
+    "villageCode": "002",
+    "districtCode": "97.03.370",
+    "name": "Piwugun",
+    "alias": "Piwugun"
+  },
+  {
+    "code": "97.03.370.003",
+    "villageCode": "003",
+    "districtCode": "97.03.370",
+    "name": "Kori",
+    "alias": "Kori"
+  },
+  {
+    "code": "97.03.370.004",
+    "villageCode": "004",
+    "districtCode": "97.03.370",
+    "name": "Keyagalo",
+    "alias": "Keyagalo"
+  },
+  {
+    "code": "97.03.370.005",
+    "villageCode": "005",
+    "districtCode": "97.03.370",
+    "name": "Guna",
+    "alias": "Guna"
+  },
+  {
+    "code": "97.03.370.006",
+    "villageCode": "006",
+    "districtCode": "97.03.370",
+    "name": "Nondinime",
+    "alias": "Nondinime"
+  },
+  {
+    "code": "97.03.370.007",
+    "villageCode": "007",
+    "districtCode": "97.03.370",
+    "name": "Wigume",
+    "alias": "Wigume"
+  }
+]

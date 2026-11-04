@@ -1,0 +1,42 @@
+[
+  {
+    "code": "61.72.010",
+    "districtCode": "010",
+    "regencyCode": "61.72",
+    "provinceCode": "61",
+    "name": "Kecamatan Singkawang Selatan",
+    "alias": "Singkawang Selatan"
+  },
+  {
+    "code": "61.72.020",
+    "districtCode": "020",
+    "regencyCode": "61.72",
+    "provinceCode": "61",
+    "name": "Kecamatan Singkawang Timur",
+    "alias": "Singkawang Timur"
+  },
+  {
+    "code": "61.72.030",
+    "districtCode": "030",
+    "regencyCode": "61.72",
+    "provinceCode": "61",
+    "name": "Kecamatan Singkawang Utara",
+    "alias": "Singkawang Utara"
+  },
+  {
+    "code": "61.72.040",
+    "districtCode": "040",
+    "regencyCode": "61.72",
+    "provinceCode": "61",
+    "name": "Kecamatan Singkawang Barat",
+    "alias": "Singkawang Barat"
+  },
+  {
+    "code": "61.72.050",
+    "districtCode": "050",
+    "regencyCode": "61.72",
+    "provinceCode": "61",
+    "name": "Kecamatan Singkawang Tengah",
+    "alias": "Singkawang Tengah"
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "code": "72.05.041",
+    "districtCode": "041",
+    "regencyCode": "72.05",
+    "provinceCode": "72",
+    "name": "Kecamatan Rio Pakava",
+    "alias": "Rio Pakava"
+  },
+  {
+    "code": "72.05.051",
+    "districtCode": "051",
+    "regencyCode": "72.05",
+    "provinceCode": "72",
+    "name": "Kecamatan Pinembani",
+    "alias": "Pinembani"
+  },
+  {
+    "code": "72.05.080",
+    "districtCode": "080",
+    "regencyCode": "72.05",
+    "provinceCode": "72",
+    "name": "Kecamatan Banawa",
+    "alias": "Banawa"
+  },
+  {
+    "code": "72.05.081",
+    "districtCode": "081",
+    "regencyCode": "72.05",
+    "provinceCode": "72",
+    "name": "Kecamatan Banawa Selatan",
+    "alias": "Banawa Selatan"
+  },
+  {
+    "code": "72.05.082",
+    "districtCode": "082",
+    "regencyCode": "72.05",
+    "provinceCode": "72",
+    "name": "Kecamatan Banawa Tengah",
+    "alias": "Banawa Tengah"
+  },
+  {
+    "code": "72.05.090",
+    "districtCode": "090",
+    "regencyCode": "72.05",
+    "provinceCode": "72",
+    "name": "Kecamatan Labuan",
+    "alias": "Labuan"
+  },
+  {
+    "code": "72.05.091",
+    "districtCode": "091",
+    "regencyCode": "72.05",
+    "provinceCode": "72",
+    "name": "Kecamatan Tanantovea",
+    "alias": "Tanantovea"
+  },
+  {
+    "code": "72.05.100",
+    "districtCode": "100",
+    "regencyCode": "72.05",
+    "provinceCode": "72",
+    "name": "Kecamatan Sindue",
+    "alias": "Sindue"
+  },
+  {
+    "code": "72.05.101",
+    "districtCode": "101",
+    "regencyCode": "72.05",
+    "provinceCode": "72",
+    "name": "Kecamatan Sindue Tombusabora",
+    "alias": "Sindue Tombusabora"
+  },
+  {
+    "code": "72.05.102",
+    "districtCode": "102",
+    "regencyCode": "72.05",
+    "provinceCode": "72",
+    "name": "Kecamatan Sindue Tobata",
+    "alias": "Sindue Tobata"
+  },
+  {
+    "code": "72.05.120",
+    "districtCode": "120",
+    "regencyCode": "72.05",
+    "provinceCode": "72",
+    "name": "Kecamatan Sirenja",
+    "alias": "Sirenja"
+  },
+  {
+    "code": "72.05.130",
+    "districtCode": "130",
+    "regencyCode": "72.05",
+    "provinceCode": "72",
+    "name": "Kecamatan Balaesang",
+    "alias": "Balaesang"
+  },
+  {
+    "code": "72.05.131",
+    "districtCode": "131",
+    "regencyCode": "72.05",
+    "provinceCode": "72",
+    "name": "Kecamatan Balaesang Tanjung",
+    "alias": "Balaesang Tanjung"
+  },
+  {
+    "code": "72.05.140",
+    "districtCode": "140",
+    "regencyCode": "72.05",
+    "provinceCode": "72",
+    "name": "Kecamatan Dampelas",
+    "alias": "Dampelas"
+  },
+  {
+    "code": "72.05.160",
+    "districtCode": "160",
+    "regencyCode": "72.05",
+    "provinceCode": "72",
+    "name": "Kecamatan Sojol",
+    "alias": "Sojol"
+  },
+  {
+    "code": "72.05.161",
+    "districtCode": "161",
+    "regencyCode": "72.05",
+    "provinceCode": "72",
+    "name": "Kecamatan Sojol Utara",
+    "alias": "Sojol Utara"
+  }
+]

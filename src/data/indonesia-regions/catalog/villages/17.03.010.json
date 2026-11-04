@@ -1,0 +1,44 @@
+[
+  {
+    "code": "17.03.010.001",
+    "villageCode": "001",
+    "districtCode": "17.03.010",
+    "name": "Banjar Sari",
+    "alias": "Banjar Sari"
+  },
+  {
+    "code": "17.03.010.002",
+    "villageCode": "002",
+    "districtCode": "17.03.010",
+    "name": "Meok",
+    "alias": "Meok"
+  },
+  {
+    "code": "17.03.010.003",
+    "villageCode": "003",
+    "districtCode": "17.03.010",
+    "name": "Apoho",
+    "alias": "Apoho"
+  },
+  {
+    "code": "17.03.010.004",
+    "villageCode": "004",
+    "districtCode": "17.03.010",
+    "name": "Malakoni",
+    "alias": "Malakoni"
+  },
+  {
+    "code": "17.03.010.005",
+    "villageCode": "005",
+    "districtCode": "17.03.010",
+    "name": "Kaana",
+    "alias": "Kaana"
+  },
+  {
+    "code": "17.03.010.006",
+    "villageCode": "006",
+    "districtCode": "17.03.010",
+    "name": "Kahyapu",
+    "alias": "Kahyapu"
+  }
+]

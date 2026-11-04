@@ -1,0 +1,65 @@
+[
+  {
+    "code": "94.09.022.001",
+    "villageCode": "001",
+    "districtCode": "94.09.022",
+    "name": "Bawei",
+    "alias": "Bawei"
+  },
+  {
+    "code": "94.09.022.002",
+    "villageCode": "002",
+    "districtCode": "94.09.022",
+    "name": "Manggari",
+    "alias": "Manggari"
+  },
+  {
+    "code": "94.09.022.003",
+    "villageCode": "003",
+    "districtCode": "94.09.022",
+    "name": "Sauribru",
+    "alias": "Sauribru"
+  },
+  {
+    "code": "94.09.022.004",
+    "villageCode": "004",
+    "districtCode": "94.09.022",
+    "name": "Syoribo",
+    "alias": "Syoribo"
+  },
+  {
+    "code": "94.09.022.005",
+    "villageCode": "005",
+    "districtCode": "94.09.022",
+    "name": "Andei",
+    "alias": "Andei"
+  },
+  {
+    "code": "94.09.022.006",
+    "villageCode": "006",
+    "districtCode": "94.09.022",
+    "name": "Sauri",
+    "alias": "Sauri"
+  },
+  {
+    "code": "94.09.022.007",
+    "villageCode": "007",
+    "districtCode": "94.09.022",
+    "name": "Serdori",
+    "alias": "Serdori"
+  },
+  {
+    "code": "94.09.022.008",
+    "villageCode": "008",
+    "districtCode": "94.09.022",
+    "name": "Koryakam",
+    "alias": "Koryakam"
+  },
+  {
+    "code": "94.09.022.009",
+    "villageCode": "009",
+    "districtCode": "94.09.022",
+    "name": "Andei Sup",
+    "alias": "Andei Sup"
+  }
+]

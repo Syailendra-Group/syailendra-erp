@@ -1,0 +1,58 @@
+[
+  {
+    "code": "32.09.162.001",
+    "villageCode": "001",
+    "districtCode": "32.09.162",
+    "name": "Kalikoa",
+    "alias": "Kalikoa"
+  },
+  {
+    "code": "32.09.162.002",
+    "villageCode": "002",
+    "districtCode": "32.09.162",
+    "name": "Kedungdawa",
+    "alias": "Kedungdawa"
+  },
+  {
+    "code": "32.09.162.003",
+    "villageCode": "003",
+    "districtCode": "32.09.162",
+    "name": "Tuk",
+    "alias": "Tuk"
+  },
+  {
+    "code": "32.09.162.004",
+    "villageCode": "004",
+    "districtCode": "32.09.162",
+    "name": "Kedungjaya",
+    "alias": "Kedungjaya"
+  },
+  {
+    "code": "32.09.162.005",
+    "villageCode": "005",
+    "districtCode": "32.09.162",
+    "name": "Kedawung",
+    "alias": "Kedawung"
+  },
+  {
+    "code": "32.09.162.006",
+    "villageCode": "006",
+    "districtCode": "32.09.162",
+    "name": "Kertawinangun",
+    "alias": "Kertawinangun"
+  },
+  {
+    "code": "32.09.162.007",
+    "villageCode": "007",
+    "districtCode": "32.09.162",
+    "name": "Sutawinangun",
+    "alias": "Sutawinangun"
+  },
+  {
+    "code": "32.09.162.008",
+    "villageCode": "008",
+    "districtCode": "32.09.162",
+    "name": "Pilangsari",
+    "alias": "Pilangsari"
+  }
+]

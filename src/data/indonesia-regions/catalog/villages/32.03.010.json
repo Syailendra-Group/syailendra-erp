@@ -1,0 +1,79 @@
+[
+  {
+    "code": "32.03.010.001",
+    "villageCode": "001",
+    "districtCode": "32.03.010",
+    "name": "Sinarlaut",
+    "alias": "Sinarlaut"
+  },
+  {
+    "code": "32.03.010.002",
+    "villageCode": "002",
+    "districtCode": "32.03.010",
+    "name": "Bojongkaso",
+    "alias": "Bojongkaso"
+  },
+  {
+    "code": "32.03.010.003",
+    "villageCode": "003",
+    "districtCode": "32.03.010",
+    "name": "Sukamanah",
+    "alias": "Sukamanah"
+  },
+  {
+    "code": "32.03.010.004",
+    "villageCode": "004",
+    "districtCode": "32.03.010",
+    "name": "Wanasari",
+    "alias": "Wanasari"
+  },
+  {
+    "code": "32.03.010.007",
+    "villageCode": "007",
+    "districtCode": "32.03.010",
+    "name": "Karangsari",
+    "alias": "Karangsari"
+  },
+  {
+    "code": "32.03.010.008",
+    "villageCode": "008",
+    "districtCode": "32.03.010",
+    "name": "Neglasari",
+    "alias": "Neglasari"
+  },
+  {
+    "code": "32.03.010.009",
+    "villageCode": "009",
+    "districtCode": "32.03.010",
+    "name": "Mulyasari",
+    "alias": "Mulyasari"
+  },
+  {
+    "code": "32.03.010.010",
+    "villageCode": "010",
+    "districtCode": "32.03.010",
+    "name": "Bunisari",
+    "alias": "Bunisari"
+  },
+  {
+    "code": "32.03.010.011",
+    "villageCode": "011",
+    "districtCode": "32.03.010",
+    "name": "Mekarsari",
+    "alias": "Mekarsari"
+  },
+  {
+    "code": "32.03.010.012",
+    "villageCode": "012",
+    "districtCode": "32.03.010",
+    "name": "Tanjungsari",
+    "alias": "Tanjungsari"
+  },
+  {
+    "code": "32.03.010.013",
+    "villageCode": "013",
+    "districtCode": "32.03.010",
+    "name": "Wangunjaya",
+    "alias": "Wangunjaya"
+  }
+]

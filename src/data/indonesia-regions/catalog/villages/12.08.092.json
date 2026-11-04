@@ -1,0 +1,51 @@
+[
+  {
+    "code": "12.08.092.001",
+    "villageCode": "001",
+    "districtCode": "12.08.092",
+    "name": "Pondok Bungur",
+    "alias": "Pondok Bungur"
+  },
+  {
+    "code": "12.08.092.002",
+    "villageCode": "002",
+    "districtCode": "12.08.092",
+    "name": "Rawang Baru",
+    "alias": "Rawang Baru"
+  },
+  {
+    "code": "12.08.092.003",
+    "villageCode": "003",
+    "districtCode": "12.08.092",
+    "name": "Rawang Pasar V",
+    "alias": "Rawang Pasar V"
+  },
+  {
+    "code": "12.08.092.004",
+    "villageCode": "004",
+    "districtCode": "12.08.092",
+    "name": "Rawang Pasar Iv",
+    "alias": "Rawang Pasar Iv"
+  },
+  {
+    "code": "12.08.092.005",
+    "villageCode": "005",
+    "districtCode": "12.08.092",
+    "name": "Rawang Lama",
+    "alias": "Rawang Lama"
+  },
+  {
+    "code": "12.08.092.006",
+    "villageCode": "006",
+    "districtCode": "12.08.092",
+    "name": "Panca Arga",
+    "alias": "Panca Arga"
+  },
+  {
+    "code": "12.08.092.007",
+    "villageCode": "007",
+    "districtCode": "12.08.092",
+    "name": "Rawang Pasar Vi",
+    "alias": "Rawang Pasar Vi"
+  }
+]

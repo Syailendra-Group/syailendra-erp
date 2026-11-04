@@ -1,0 +1,205 @@
+[
+  {
+    "code": "61.07.140.001",
+    "villageCode": "001",
+    "districtCode": "61.07.140",
+    "name": "Tertung",
+    "alias": "Tertung"
+  },
+  {
+    "code": "61.07.140.002",
+    "villageCode": "002",
+    "districtCode": "61.07.140",
+    "name": "Mungguk Bantok",
+    "alias": "Mungguk Bantok"
+  },
+  {
+    "code": "61.07.140.003",
+    "villageCode": "003",
+    "districtCode": "61.07.140",
+    "name": "Tanjung Puri",
+    "alias": "Tanjung Puri"
+  },
+  {
+    "code": "61.07.140.004",
+    "villageCode": "004",
+    "districtCode": "61.07.140",
+    "name": "Baning Kota",
+    "alias": "Baning Kota"
+  },
+  {
+    "code": "61.07.140.005",
+    "villageCode": "005",
+    "districtCode": "61.07.140",
+    "name": "Ladang",
+    "alias": "Ladang"
+  },
+  {
+    "code": "61.07.140.006",
+    "villageCode": "006",
+    "districtCode": "61.07.140",
+    "name": "Kapuas Kanan Hulu",
+    "alias": "Kapuas Kanan Hulu"
+  },
+  {
+    "code": "61.07.140.007",
+    "villageCode": "007",
+    "districtCode": "61.07.140",
+    "name": "Kapuas Kanan Hilir",
+    "alias": "Kapuas Kanan Hilir"
+  },
+  {
+    "code": "61.07.140.008",
+    "villageCode": "008",
+    "districtCode": "61.07.140",
+    "name": "Kapuas Kiri Hilir",
+    "alias": "Kapuas Kiri Hilir"
+  },
+  {
+    "code": "61.07.140.009",
+    "villageCode": "009",
+    "districtCode": "61.07.140",
+    "name": "Kapuas Kiri Hulu",
+    "alias": "Kapuas Kiri Hulu"
+  },
+  {
+    "code": "61.07.140.010",
+    "villageCode": "010",
+    "districtCode": "61.07.140",
+    "name": "Teluk Kelansam",
+    "alias": "Teluk Kelansam"
+  },
+  {
+    "code": "61.07.140.011",
+    "villageCode": "011",
+    "districtCode": "61.07.140",
+    "name": "Sungai Ana",
+    "alias": "Sungai Ana"
+  },
+  {
+    "code": "61.07.140.012",
+    "villageCode": "012",
+    "districtCode": "61.07.140",
+    "name": "Merti Guna",
+    "alias": "Merti Guna"
+  },
+  {
+    "code": "61.07.140.013",
+    "villageCode": "013",
+    "districtCode": "61.07.140",
+    "name": "Tanjung Kelansam",
+    "alias": "Tanjung Kelansam"
+  },
+  {
+    "code": "61.07.140.014",
+    "villageCode": "014",
+    "districtCode": "61.07.140",
+    "name": "Anggah Jaya",
+    "alias": "Anggah Jaya"
+  },
+  {
+    "code": "61.07.140.015",
+    "villageCode": "015",
+    "districtCode": "61.07.140",
+    "name": "Lalang Baru",
+    "alias": "Lalang Baru"
+  },
+  {
+    "code": "61.07.140.016",
+    "villageCode": "016",
+    "districtCode": "61.07.140",
+    "name": "Tebing Raya",
+    "alias": "Tebing Raya"
+  },
+  {
+    "code": "61.07.140.017",
+    "villageCode": "017",
+    "districtCode": "61.07.140",
+    "name": "Mail Jampong",
+    "alias": "Mail Jampong"
+  },
+  {
+    "code": "61.07.140.018",
+    "villageCode": "018",
+    "districtCode": "61.07.140",
+    "name": "Jerora Satu",
+    "alias": "Jerora Satu"
+  },
+  {
+    "code": "61.07.140.019",
+    "villageCode": "019",
+    "districtCode": "61.07.140",
+    "name": "Kebiau Baru",
+    "alias": "Kebiau Baru"
+  },
+  {
+    "code": "61.07.140.020",
+    "villageCode": "020",
+    "districtCode": "61.07.140",
+    "name": "Akcaya",
+    "alias": "Akcaya"
+  },
+  {
+    "code": "61.07.140.021",
+    "villageCode": "021",
+    "districtCode": "61.07.140",
+    "name": "Alai",
+    "alias": "Alai"
+  },
+  {
+    "code": "61.07.140.022",
+    "villageCode": "022",
+    "districtCode": "61.07.140",
+    "name": "Ulak Jaya",
+    "alias": "Ulak Jaya"
+  },
+  {
+    "code": "61.07.140.023",
+    "villageCode": "023",
+    "districtCode": "61.07.140",
+    "name": "Menyumbung Tengah",
+    "alias": "Menyumbung Tengah"
+  },
+  {
+    "code": "61.07.140.024",
+    "villageCode": "024",
+    "districtCode": "61.07.140",
+    "name": "Batu Lalau",
+    "alias": "Batu Lalau"
+  },
+  {
+    "code": "61.07.140.025",
+    "villageCode": "025",
+    "districtCode": "61.07.140",
+    "name": "Mekar Jaya",
+    "alias": "Mekar Jaya"
+  },
+  {
+    "code": "61.07.140.026",
+    "villageCode": "026",
+    "districtCode": "61.07.140",
+    "name": "Sengkuang",
+    "alias": "Sengkuang"
+  },
+  {
+    "code": "61.07.140.027",
+    "villageCode": "027",
+    "districtCode": "61.07.140",
+    "name": "Rawa Mambok",
+    "alias": "Rawa Mambok"
+  },
+  {
+    "code": "61.07.140.028",
+    "villageCode": "028",
+    "districtCode": "61.07.140",
+    "name": "Mengkurai",
+    "alias": "Mengkurai"
+  },
+  {
+    "code": "61.07.140.029",
+    "villageCode": "029",
+    "districtCode": "61.07.140",
+    "name": "Kedabang",
+    "alias": "Kedabang"
+  }
+]

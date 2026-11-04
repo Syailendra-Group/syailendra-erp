@@ -1,0 +1,37 @@
+[
+  {
+    "code": "32.75.050.001",
+    "villageCode": "001",
+    "districtCode": "32.75.050",
+    "name": "Jaka Mulya",
+    "alias": "Jaka Mulya"
+  },
+  {
+    "code": "32.75.050.002",
+    "villageCode": "002",
+    "districtCode": "32.75.050",
+    "name": "Jaka Setia",
+    "alias": "Jaka Setia"
+  },
+  {
+    "code": "32.75.050.003",
+    "villageCode": "003",
+    "districtCode": "32.75.050",
+    "name": "Pekayon Jaya",
+    "alias": "Pekayon Jaya"
+  },
+  {
+    "code": "32.75.050.004",
+    "villageCode": "004",
+    "districtCode": "32.75.050",
+    "name": "Marga Jaya",
+    "alias": "Marga Jaya"
+  },
+  {
+    "code": "32.75.050.007",
+    "villageCode": "007",
+    "districtCode": "32.75.050",
+    "name": "Kayuringin Jaya",
+    "alias": "Kayuringin Jaya"
+  }
+]

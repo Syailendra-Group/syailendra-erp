@@ -1,0 +1,65 @@
+[
+  {
+    "code": "15.71.080.001",
+    "villageCode": "001",
+    "districtCode": "15.71.080",
+    "name": "Sulan Jana",
+    "alias": "Sulan Jana"
+  },
+  {
+    "code": "15.71.080.002",
+    "villageCode": "002",
+    "districtCode": "15.71.080",
+    "name": "Budiman",
+    "alias": "Budiman"
+  },
+  {
+    "code": "15.71.080.003",
+    "villageCode": "003",
+    "districtCode": "15.71.080",
+    "name": "Talang Banjar",
+    "alias": "Talang Banjar"
+  },
+  {
+    "code": "15.71.080.005",
+    "villageCode": "005",
+    "districtCode": "15.71.080",
+    "name": "Tanjung Sari",
+    "alias": "Tanjung Sari"
+  },
+  {
+    "code": "15.71.080.006",
+    "villageCode": "006",
+    "districtCode": "15.71.080",
+    "name": "Tanjung Pinang",
+    "alias": "Tanjung Pinang"
+  },
+  {
+    "code": "15.71.080.007",
+    "villageCode": "007",
+    "districtCode": "15.71.080",
+    "name": "Rajawali",
+    "alias": "Rajawali"
+  },
+  {
+    "code": "15.71.080.008",
+    "villageCode": "008",
+    "districtCode": "15.71.080",
+    "name": "Kasang",
+    "alias": "Kasang"
+  },
+  {
+    "code": "15.71.080.009",
+    "villageCode": "009",
+    "districtCode": "15.71.080",
+    "name": "Kasang Jaya",
+    "alias": "Kasang Jaya"
+  },
+  {
+    "code": "15.71.080.010",
+    "villageCode": "010",
+    "districtCode": "15.71.080",
+    "name": "Sijenjang",
+    "alias": "Sijenjang"
+  }
+]

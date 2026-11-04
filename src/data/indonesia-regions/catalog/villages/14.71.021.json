@@ -1,0 +1,44 @@
+[
+  {
+    "code": "14.71.021.001",
+    "villageCode": "001",
+    "districtCode": "14.71.021",
+    "name": "Tengkerang Tengah",
+    "alias": "Tengkerang Tengah"
+  },
+  {
+    "code": "14.71.021.002",
+    "villageCode": "002",
+    "districtCode": "14.71.021",
+    "name": "Tengkerang Barat",
+    "alias": "Tengkerang Barat"
+  },
+  {
+    "code": "14.71.021.003",
+    "villageCode": "003",
+    "districtCode": "14.71.021",
+    "name": "Maharatu",
+    "alias": "Maharatu"
+  },
+  {
+    "code": "14.71.021.004",
+    "villageCode": "004",
+    "districtCode": "14.71.021",
+    "name": "Sidomulyo Timur",
+    "alias": "Sidomulyo Timur"
+  },
+  {
+    "code": "14.71.021.005",
+    "villageCode": "005",
+    "districtCode": "14.71.021",
+    "name": "Wonorejo",
+    "alias": "Wonorejo"
+  },
+  {
+    "code": "14.71.021.006",
+    "villageCode": "006",
+    "districtCode": "14.71.021",
+    "name": "Perhentian Marpoyan",
+    "alias": "Perhentian Marpoyan"
+  }
+]

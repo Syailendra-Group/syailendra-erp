@@ -1,0 +1,74 @@
+[
+  {
+    "code": "12.17.010",
+    "districtCode": "010",
+    "regencyCode": "12.17",
+    "provinceCode": "12",
+    "name": "Kecamatan Sianjur Mulamula",
+    "alias": "Sianjur Mulamula"
+  },
+  {
+    "code": "12.17.020",
+    "districtCode": "020",
+    "regencyCode": "12.17",
+    "provinceCode": "12",
+    "name": "Kecamatan Harian",
+    "alias": "Harian"
+  },
+  {
+    "code": "12.17.030",
+    "districtCode": "030",
+    "regencyCode": "12.17",
+    "provinceCode": "12",
+    "name": "Kecamatan Sitiotio",
+    "alias": "Sitiotio"
+  },
+  {
+    "code": "12.17.040",
+    "districtCode": "040",
+    "regencyCode": "12.17",
+    "provinceCode": "12",
+    "name": "Kecamatan Onan Runggu",
+    "alias": "Onan Runggu"
+  },
+  {
+    "code": "12.17.050",
+    "districtCode": "050",
+    "regencyCode": "12.17",
+    "provinceCode": "12",
+    "name": "Kecamatan Nainggolan",
+    "alias": "Nainggolan"
+  },
+  {
+    "code": "12.17.060",
+    "districtCode": "060",
+    "regencyCode": "12.17",
+    "provinceCode": "12",
+    "name": "Kecamatan Palipi",
+    "alias": "Palipi"
+  },
+  {
+    "code": "12.17.070",
+    "districtCode": "070",
+    "regencyCode": "12.17",
+    "provinceCode": "12",
+    "name": "Kecamatan Ronggur Nihuta",
+    "alias": "Ronggur Nihuta"
+  },
+  {
+    "code": "12.17.080",
+    "districtCode": "080",
+    "regencyCode": "12.17",
+    "provinceCode": "12",
+    "name": "Kecamatan Pangururan",
+    "alias": "Pangururan"
+  },
+  {
+    "code": "12.17.090",
+    "districtCode": "090",
+    "regencyCode": "12.17",
+    "provinceCode": "12",
+    "name": "Kecamatan Simanindo",
+    "alias": "Simanindo"
+  }
+]

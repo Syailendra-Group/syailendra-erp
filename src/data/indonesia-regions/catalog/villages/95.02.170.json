@@ -1,0 +1,44 @@
+[
+  {
+    "code": "95.02.170.001",
+    "villageCode": "001",
+    "districtCode": "95.02.170",
+    "name": "Mangga Tiga",
+    "alias": "Mangga Tiga"
+  },
+  {
+    "code": "95.02.170.002",
+    "villageCode": "002",
+    "districtCode": "95.02.170",
+    "name": "Kewam",
+    "alias": "Kewam"
+  },
+  {
+    "code": "95.02.170.003",
+    "villageCode": "003",
+    "districtCode": "95.02.170",
+    "name": "Gaguop",
+    "alias": "Gaguop"
+  },
+  {
+    "code": "95.02.170.004",
+    "villageCode": "004",
+    "districtCode": "95.02.170",
+    "name": "Manggelum",
+    "alias": "Manggelum"
+  },
+  {
+    "code": "95.02.170.005",
+    "villageCode": "005",
+    "districtCode": "95.02.170",
+    "name": "Burunggop",
+    "alias": "Burunggop"
+  },
+  {
+    "code": "95.02.170.006",
+    "villageCode": "006",
+    "districtCode": "95.02.170",
+    "name": "Bayanggop",
+    "alias": "Bayanggop"
+  }
+]

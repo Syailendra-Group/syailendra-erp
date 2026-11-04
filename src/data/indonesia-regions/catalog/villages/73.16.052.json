@@ -1,0 +1,44 @@
+[
+  {
+    "code": "73.16.052.001",
+    "villageCode": "001",
+    "districtCode": "73.16.052",
+    "name": "Buntu Sarong",
+    "alias": "Buntu Sarong"
+  },
+  {
+    "code": "73.16.052.002",
+    "villageCode": "002",
+    "districtCode": "73.16.052",
+    "name": "Masalle",
+    "alias": "Masalle"
+  },
+  {
+    "code": "73.16.052.018",
+    "villageCode": "018",
+    "districtCode": "73.16.052",
+    "name": "Rampunan",
+    "alias": "Rampunan"
+  },
+  {
+    "code": "73.16.052.019",
+    "villageCode": "019",
+    "districtCode": "73.16.052",
+    "name": "Mundan",
+    "alias": "Mundan"
+  },
+  {
+    "code": "73.16.052.020",
+    "villageCode": "020",
+    "districtCode": "73.16.052",
+    "name": "Tongkonan Basse",
+    "alias": "Tongkonan Basse"
+  },
+  {
+    "code": "73.16.052.021",
+    "villageCode": "021",
+    "districtCode": "73.16.052",
+    "name": "Batu Kede",
+    "alias": "Batu Kede"
+  }
+]

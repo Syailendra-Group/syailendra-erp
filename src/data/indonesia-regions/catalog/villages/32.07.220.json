@@ -1,0 +1,65 @@
+[
+  {
+    "code": "32.07.220.001",
+    "villageCode": "001",
+    "districtCode": "32.07.220",
+    "name": "Panaragan",
+    "alias": "Panaragan"
+  },
+  {
+    "code": "32.07.220.002",
+    "villageCode": "002",
+    "districtCode": "32.07.220",
+    "name": "Margaluyu",
+    "alias": "Margaluyu"
+  },
+  {
+    "code": "32.07.220.003",
+    "villageCode": "003",
+    "districtCode": "32.07.220",
+    "name": "Cikoneng",
+    "alias": "Cikoneng"
+  },
+  {
+    "code": "32.07.220.004",
+    "villageCode": "004",
+    "districtCode": "32.07.220",
+    "name": "Kujang",
+    "alias": "Kujang"
+  },
+  {
+    "code": "32.07.220.005",
+    "villageCode": "005",
+    "districtCode": "32.07.220",
+    "name": "Darmacaang",
+    "alias": "Darmacaang"
+  },
+  {
+    "code": "32.07.220.006",
+    "villageCode": "006",
+    "districtCode": "32.07.220",
+    "name": "Nasol",
+    "alias": "Nasol"
+  },
+  {
+    "code": "32.07.220.007",
+    "villageCode": "007",
+    "districtCode": "32.07.220",
+    "name": "Sindangsari",
+    "alias": "Sindangsari"
+  },
+  {
+    "code": "32.07.220.008",
+    "villageCode": "008",
+    "districtCode": "32.07.220",
+    "name": "Cimari",
+    "alias": "Cimari"
+  },
+  {
+    "code": "32.07.220.009",
+    "villageCode": "009",
+    "districtCode": "32.07.220",
+    "name": "Gegempalan",
+    "alias": "Gegempalan"
+  }
+]

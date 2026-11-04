@@ -1,0 +1,65 @@
+[
+  {
+    "code": "13.71.090.001",
+    "villageCode": "001",
+    "districtCode": "13.71.090",
+    "name": "Anduring",
+    "alias": "Anduring"
+  },
+  {
+    "code": "13.71.090.002",
+    "villageCode": "002",
+    "districtCode": "13.71.090",
+    "name": "Pasar Ambacang",
+    "alias": "Pasar Ambacang"
+  },
+  {
+    "code": "13.71.090.003",
+    "villageCode": "003",
+    "districtCode": "13.71.090",
+    "name": "Lubuk Lintah",
+    "alias": "Lubuk Lintah"
+  },
+  {
+    "code": "13.71.090.004",
+    "villageCode": "004",
+    "districtCode": "13.71.090",
+    "name": "Ampang",
+    "alias": "Ampang"
+  },
+  {
+    "code": "13.71.090.005",
+    "villageCode": "005",
+    "districtCode": "13.71.090",
+    "name": "Kalumbuk",
+    "alias": "Kalumbuk"
+  },
+  {
+    "code": "13.71.090.006",
+    "villageCode": "006",
+    "districtCode": "13.71.090",
+    "name": "Korong Gadang",
+    "alias": "Korong Gadang"
+  },
+  {
+    "code": "13.71.090.007",
+    "villageCode": "007",
+    "districtCode": "13.71.090",
+    "name": "Kuranji",
+    "alias": "Kuranji"
+  },
+  {
+    "code": "13.71.090.008",
+    "villageCode": "008",
+    "districtCode": "13.71.090",
+    "name": "Gunung Sarik",
+    "alias": "Gunung Sarik"
+  },
+  {
+    "code": "13.71.090.009",
+    "villageCode": "009",
+    "districtCode": "13.71.090",
+    "name": "Sungai Sapih",
+    "alias": "Sungai Sapih"
+  }
+]

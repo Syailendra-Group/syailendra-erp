@@ -1,0 +1,82 @@
+[
+  {
+    "code": "13.01.011",
+    "districtCode": "011",
+    "regencyCode": "13.01",
+    "provinceCode": "13",
+    "name": "Kecamatan Pagai Selatan",
+    "alias": "Pagai Selatan"
+  },
+  {
+    "code": "13.01.012",
+    "districtCode": "012",
+    "regencyCode": "13.01",
+    "provinceCode": "13",
+    "name": "Kecamatan Sikakap",
+    "alias": "Sikakap"
+  },
+  {
+    "code": "13.01.013",
+    "districtCode": "013",
+    "regencyCode": "13.01",
+    "provinceCode": "13",
+    "name": "Kecamatan Pagai Utara",
+    "alias": "Pagai Utara"
+  },
+  {
+    "code": "13.01.021",
+    "districtCode": "021",
+    "regencyCode": "13.01",
+    "provinceCode": "13",
+    "name": "Kecamatan Sipora Selatan",
+    "alias": "Sipora Selatan"
+  },
+  {
+    "code": "13.01.022",
+    "districtCode": "022",
+    "regencyCode": "13.01",
+    "provinceCode": "13",
+    "name": "Kecamatan Sipora Utara",
+    "alias": "Sipora Utara"
+  },
+  {
+    "code": "13.01.030",
+    "districtCode": "030",
+    "regencyCode": "13.01",
+    "provinceCode": "13",
+    "name": "Kecamatan Siberut Selatan",
+    "alias": "Siberut Selatan"
+  },
+  {
+    "code": "13.01.031",
+    "districtCode": "031",
+    "regencyCode": "13.01",
+    "provinceCode": "13",
+    "name": "Kecamatan Seberut Barat Daya",
+    "alias": "Seberut Barat Daya"
+  },
+  {
+    "code": "13.01.032",
+    "districtCode": "032",
+    "regencyCode": "13.01",
+    "provinceCode": "13",
+    "name": "Kecamatan Siberut Tengah",
+    "alias": "Siberut Tengah"
+  },
+  {
+    "code": "13.01.040",
+    "districtCode": "040",
+    "regencyCode": "13.01",
+    "provinceCode": "13",
+    "name": "Kecamatan Siberut Utara",
+    "alias": "Siberut Utara"
+  },
+  {
+    "code": "13.01.041",
+    "districtCode": "041",
+    "regencyCode": "13.01",
+    "provinceCode": "13",
+    "name": "Kecamatan Siberut Barat",
+    "alias": "Siberut Barat"
+  }
+]

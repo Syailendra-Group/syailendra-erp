@@ -1,0 +1,72 @@
+[
+  {
+    "code": "14.02.022.001",
+    "villageCode": "001",
+    "districtCode": "14.02.022",
+    "name": "Siambul",
+    "alias": "Siambul"
+  },
+  {
+    "code": "14.02.022.002",
+    "villageCode": "002",
+    "districtCode": "14.02.022",
+    "name": "Rantau Langsat",
+    "alias": "Rantau Langsat"
+  },
+  {
+    "code": "14.02.022.003",
+    "villageCode": "003",
+    "districtCode": "14.02.022",
+    "name": "Sungai Akar",
+    "alias": "Sungai Akar"
+  },
+  {
+    "code": "14.02.022.004",
+    "villageCode": "004",
+    "districtCode": "14.02.022",
+    "name": "Usul",
+    "alias": "Usul"
+  },
+  {
+    "code": "14.02.022.005",
+    "villageCode": "005",
+    "districtCode": "14.02.022",
+    "name": "Seberida",
+    "alias": "Seberida"
+  },
+  {
+    "code": "14.02.022.006",
+    "villageCode": "006",
+    "districtCode": "14.02.022",
+    "name": "Talang Lakat",
+    "alias": "Talang Lakat"
+  },
+  {
+    "code": "14.02.022.007",
+    "villageCode": "007",
+    "districtCode": "14.02.022",
+    "name": "Belimbing",
+    "alias": "Belimbing"
+  },
+  {
+    "code": "14.02.022.008",
+    "villageCode": "008",
+    "districtCode": "14.02.022",
+    "name": "Ringin",
+    "alias": "Ringin"
+  },
+  {
+    "code": "14.02.022.009",
+    "villageCode": "009",
+    "districtCode": "14.02.022",
+    "name": "Panyaguan",
+    "alias": "Panyaguan"
+  },
+  {
+    "code": "14.02.022.010",
+    "villageCode": "010",
+    "districtCode": "14.02.022",
+    "name": "Danau Rambai",
+    "alias": "Danau Rambai"
+  }
+]

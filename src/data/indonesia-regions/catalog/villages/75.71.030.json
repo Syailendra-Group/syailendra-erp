@@ -1,0 +1,44 @@
+[
+  {
+    "code": "75.71.030.003",
+    "villageCode": "003",
+    "districtCode": "75.71.030",
+    "name": "Dembe Ii",
+    "alias": "Dembe Ii"
+  },
+  {
+    "code": "75.71.030.004",
+    "villageCode": "004",
+    "districtCode": "75.71.030",
+    "name": "Wongkaditi",
+    "alias": "Wongkaditi"
+  },
+  {
+    "code": "75.71.030.005",
+    "villageCode": "005",
+    "districtCode": "75.71.030",
+    "name": "Wongkaditi Barat",
+    "alias": "Wongkaditi Barat"
+  },
+  {
+    "code": "75.71.030.011",
+    "villageCode": "011",
+    "districtCode": "75.71.030",
+    "name": "Dulomo Selatan",
+    "alias": "Dulomo Selatan"
+  },
+  {
+    "code": "75.71.030.012",
+    "villageCode": "012",
+    "districtCode": "75.71.030",
+    "name": "Dulomo",
+    "alias": "Dulomo"
+  },
+  {
+    "code": "75.71.030.015",
+    "villageCode": "015",
+    "districtCode": "75.71.030",
+    "name": "Dembe Jaya",
+    "alias": "Dembe Jaya"
+  }
+]

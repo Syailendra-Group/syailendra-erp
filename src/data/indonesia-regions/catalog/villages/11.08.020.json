@@ -1,0 +1,198 @@
+[
+  {
+    "code": "11.08.020.007",
+    "villageCode": "007",
+    "districtCode": "11.08.020",
+    "name": "Mon Ikeun",
+    "alias": "Mon Ikeun"
+  },
+  {
+    "code": "11.08.020.008",
+    "villageCode": "008",
+    "districtCode": "11.08.020",
+    "name": "Naga Umbang",
+    "alias": "Naga Umbang"
+  },
+  {
+    "code": "11.08.020.009",
+    "villageCode": "009",
+    "districtCode": "11.08.020",
+    "name": "Lambaro Kueh",
+    "alias": "Lambaro Kueh"
+  },
+  {
+    "code": "11.08.020.010",
+    "villageCode": "010",
+    "districtCode": "11.08.020",
+    "name": "Lam Ateuk",
+    "alias": "Lam Ateuk"
+  },
+  {
+    "code": "11.08.020.011",
+    "villageCode": "011",
+    "districtCode": "11.08.020",
+    "name": "Aneuk Paya",
+    "alias": "Aneuk Paya"
+  },
+  {
+    "code": "11.08.020.012",
+    "villageCode": "012",
+    "districtCode": "11.08.020",
+    "name": "Lampaya",
+    "alias": "Lampaya"
+  },
+  {
+    "code": "11.08.020.013",
+    "villageCode": "013",
+    "districtCode": "11.08.020",
+    "name": "Lamkruet",
+    "alias": "Lamkruet"
+  },
+  {
+    "code": "11.08.020.014",
+    "villageCode": "014",
+    "districtCode": "11.08.020",
+    "name": "Weuraya",
+    "alias": "Weuraya"
+  },
+  {
+    "code": "11.08.020.015",
+    "villageCode": "015",
+    "districtCode": "11.08.020",
+    "name": "Meunasah Lambaro",
+    "alias": "Meunasah Lambaro"
+  },
+  {
+    "code": "11.08.020.016",
+    "villageCode": "016",
+    "districtCode": "11.08.020",
+    "name": "Mon Cut",
+    "alias": "Mon Cut"
+  },
+  {
+    "code": "11.08.020.017",
+    "villageCode": "017",
+    "districtCode": "11.08.020",
+    "name": "Meunasah Manyang",
+    "alias": "Meunasah Manyang"
+  },
+  {
+    "code": "11.08.020.018",
+    "villageCode": "018",
+    "districtCode": "11.08.020",
+    "name": "Meunasah Karieng",
+    "alias": "Meunasah Karieng"
+  },
+  {
+    "code": "11.08.020.019",
+    "villageCode": "019",
+    "districtCode": "11.08.020",
+    "name": "Lamgaboh",
+    "alias": "Lamgaboh"
+  },
+  {
+    "code": "11.08.020.020",
+    "villageCode": "020",
+    "districtCode": "11.08.020",
+    "name": "Tanjong",
+    "alias": "Tanjong"
+  },
+  {
+    "code": "11.08.020.021",
+    "villageCode": "021",
+    "districtCode": "11.08.020",
+    "name": "Kueh",
+    "alias": "Kueh"
+  },
+  {
+    "code": "11.08.020.022",
+    "villageCode": "022",
+    "districtCode": "11.08.020",
+    "name": "Nusa",
+    "alias": "Nusa"
+  },
+  {
+    "code": "11.08.020.023",
+    "villageCode": "023",
+    "districtCode": "11.08.020",
+    "name": "Seubun Keutapang",
+    "alias": "Seubun Keutapang"
+  },
+  {
+    "code": "11.08.020.024",
+    "villageCode": "024",
+    "districtCode": "11.08.020",
+    "name": "Seubun Ayon",
+    "alias": "Seubun Ayon"
+  },
+  {
+    "code": "11.08.020.025",
+    "villageCode": "025",
+    "districtCode": "11.08.020",
+    "name": "Lambaro Seubun",
+    "alias": "Lambaro Seubun"
+  },
+  {
+    "code": "11.08.020.026",
+    "villageCode": "026",
+    "districtCode": "11.08.020",
+    "name": "Meunasah Mesjid Lamlhom",
+    "alias": "Meunasah Mesjid Lamlhom"
+  },
+  {
+    "code": "11.08.020.027",
+    "villageCode": "027",
+    "districtCode": "11.08.020",
+    "name": "Meunasah Baro",
+    "alias": "Meunasah Baro"
+  },
+  {
+    "code": "11.08.020.028",
+    "villageCode": "028",
+    "districtCode": "11.08.020",
+    "name": "Meunasah Mesjid Lampuuk",
+    "alias": "Meunasah Mesjid Lampuuk"
+  },
+  {
+    "code": "11.08.020.029",
+    "villageCode": "029",
+    "districtCode": "11.08.020",
+    "name": "Meunasah Balee",
+    "alias": "Meunasah Balee"
+  },
+  {
+    "code": "11.08.020.030",
+    "villageCode": "030",
+    "districtCode": "11.08.020",
+    "name": "Lamgirek",
+    "alias": "Lamgirek"
+  },
+  {
+    "code": "11.08.020.031",
+    "villageCode": "031",
+    "districtCode": "11.08.020",
+    "name": "Meunasah Beutong",
+    "alias": "Meunasah Beutong"
+  },
+  {
+    "code": "11.08.020.032",
+    "villageCode": "032",
+    "districtCode": "11.08.020",
+    "name": "Lamcok",
+    "alias": "Lamcok"
+  },
+  {
+    "code": "11.08.020.033",
+    "villageCode": "033",
+    "districtCode": "11.08.020",
+    "name": "Meunasah Blang",
+    "alias": "Meunasah Blang"
+  },
+  {
+    "code": "11.08.020.034",
+    "villageCode": "034",
+    "districtCode": "11.08.020",
+    "name": "Meunasah Cut",
+    "alias": "Meunasah Cut"
+  }
+]

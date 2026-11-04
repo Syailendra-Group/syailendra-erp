@@ -1,0 +1,128 @@
+[
+  {
+    "code": "14.06.060.001",
+    "villageCode": "001",
+    "districtCode": "14.06.060",
+    "name": "Batu Belah",
+    "alias": "Batu Belah"
+  },
+  {
+    "code": "14.06.060.002",
+    "villageCode": "002",
+    "districtCode": "14.06.060",
+    "name": "Tanjung Berulak",
+    "alias": "Tanjung Berulak"
+  },
+  {
+    "code": "14.06.060.003",
+    "villageCode": "003",
+    "districtCode": "14.06.060",
+    "name": "Air Tiris",
+    "alias": "Air Tiris"
+  },
+  {
+    "code": "14.06.060.004",
+    "villageCode": "004",
+    "districtCode": "14.06.060",
+    "name": "Ranah",
+    "alias": "Ranah"
+  },
+  {
+    "code": "14.06.060.005",
+    "villageCode": "005",
+    "districtCode": "14.06.060",
+    "name": "Penyasawan",
+    "alias": "Penyasawan"
+  },
+  {
+    "code": "14.06.060.006",
+    "villageCode": "006",
+    "districtCode": "14.06.060",
+    "name": "Rumbio",
+    "alias": "Rumbio"
+  },
+  {
+    "code": "14.06.060.007",
+    "villageCode": "007",
+    "districtCode": "14.06.060",
+    "name": "Padang Mutung",
+    "alias": "Padang Mutung"
+  },
+  {
+    "code": "14.06.060.025",
+    "villageCode": "025",
+    "districtCode": "14.06.060",
+    "name": "Simpang Kubu",
+    "alias": "Simpang Kubu"
+  },
+  {
+    "code": "14.06.060.026",
+    "villageCode": "026",
+    "districtCode": "14.06.060",
+    "name": "Tanjung Rambutan",
+    "alias": "Tanjung Rambutan"
+  },
+  {
+    "code": "14.06.060.028",
+    "villageCode": "028",
+    "districtCode": "14.06.060",
+    "name": "Pulau Jambu",
+    "alias": "Pulau Jambu"
+  },
+  {
+    "code": "14.06.060.029",
+    "villageCode": "029",
+    "districtCode": "14.06.060",
+    "name": "Limau Manis",
+    "alias": "Limau Manis"
+  },
+  {
+    "code": "14.06.060.030",
+    "villageCode": "030",
+    "districtCode": "14.06.060",
+    "name": "Naumbai",
+    "alias": "Naumbai"
+  },
+  {
+    "code": "14.06.060.031",
+    "villageCode": "031",
+    "districtCode": "14.06.060",
+    "name": "Ranah Singkuang",
+    "alias": "Ranah Singkuang"
+  },
+  {
+    "code": "14.06.060.032",
+    "villageCode": "032",
+    "districtCode": "14.06.060",
+    "name": "Pulau Tinggi",
+    "alias": "Pulau Tinggi"
+  },
+  {
+    "code": "14.06.060.033",
+    "villageCode": "033",
+    "districtCode": "14.06.060",
+    "name": "Koto Tibun",
+    "alias": "Koto Tibun"
+  },
+  {
+    "code": "14.06.060.034",
+    "villageCode": "034",
+    "districtCode": "14.06.060",
+    "name": "Bukit Ranah",
+    "alias": "Bukit Ranah"
+  },
+  {
+    "code": "14.06.060.035",
+    "villageCode": "035",
+    "districtCode": "14.06.060",
+    "name": "Ranah Baru",
+    "alias": "Ranah Baru"
+  },
+  {
+    "code": "14.06.060.036",
+    "villageCode": "036",
+    "districtCode": "14.06.060",
+    "name": "Pulau Sarak",
+    "alias": "Pulau Sarak"
+  }
+]

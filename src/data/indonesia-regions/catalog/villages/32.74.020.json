@@ -1,0 +1,30 @@
+[
+  {
+    "code": "32.74.020.001",
+    "villageCode": "001",
+    "districtCode": "32.74.020",
+    "name": "Pegambiran",
+    "alias": "Pegambiran"
+  },
+  {
+    "code": "32.74.020.002",
+    "villageCode": "002",
+    "districtCode": "32.74.020",
+    "name": "Kesepuhan",
+    "alias": "Kesepuhan"
+  },
+  {
+    "code": "32.74.020.003",
+    "villageCode": "003",
+    "districtCode": "32.74.020",
+    "name": "Lemahwungkuk",
+    "alias": "Lemahwungkuk"
+  },
+  {
+    "code": "32.74.020.004",
+    "villageCode": "004",
+    "districtCode": "32.74.020",
+    "name": "Panjunan",
+    "alias": "Panjunan"
+  }
+]

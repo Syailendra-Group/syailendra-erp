@@ -1,0 +1,44 @@
+[
+  {
+    "code": "35.22.041.001",
+    "villageCode": "001",
+    "districtCode": "35.22.041",
+    "name": "Miyono",
+    "alias": "Miyono"
+  },
+  {
+    "code": "35.22.041.002",
+    "villageCode": "002",
+    "districtCode": "35.22.041",
+    "name": "Sekar",
+    "alias": "Sekar"
+  },
+  {
+    "code": "35.22.041.003",
+    "villageCode": "003",
+    "districtCode": "35.22.041",
+    "name": "Klino",
+    "alias": "Klino"
+  },
+  {
+    "code": "35.22.041.004",
+    "villageCode": "004",
+    "districtCode": "35.22.041",
+    "name": "Deling",
+    "alias": "Deling"
+  },
+  {
+    "code": "35.22.041.005",
+    "villageCode": "005",
+    "districtCode": "35.22.041",
+    "name": "Bareng",
+    "alias": "Bareng"
+  },
+  {
+    "code": "35.22.041.006",
+    "villageCode": "006",
+    "districtCode": "35.22.041",
+    "name": "Bobol",
+    "alias": "Bobol"
+  }
+]

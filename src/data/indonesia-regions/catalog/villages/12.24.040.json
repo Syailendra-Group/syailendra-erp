@@ -1,0 +1,79 @@
+[
+  {
+    "code": "12.24.040.001",
+    "villageCode": "001",
+    "districtCode": "12.24.040",
+    "name": "Orahili",
+    "alias": "Orahili"
+  },
+  {
+    "code": "12.24.040.002",
+    "villageCode": "002",
+    "districtCode": "12.24.040",
+    "name": "Hilibanua",
+    "alias": "Hilibanua"
+  },
+  {
+    "code": "12.24.040.003",
+    "villageCode": "003",
+    "districtCode": "12.24.040",
+    "name": "Sisobahili",
+    "alias": "Sisobahili"
+  },
+  {
+    "code": "12.24.040.004",
+    "villageCode": "004",
+    "districtCode": "12.24.040",
+    "name": "Sisarahili",
+    "alias": "Sisarahili"
+  },
+  {
+    "code": "12.24.040.005",
+    "villageCode": "005",
+    "districtCode": "12.24.040",
+    "name": "Banua Sibohou",
+    "alias": "Banua Sibohou"
+  },
+  {
+    "code": "12.24.040.006",
+    "villageCode": "006",
+    "districtCode": "12.24.040",
+    "name": "Esiwa",
+    "alias": "Esiwa"
+  },
+  {
+    "code": "12.24.040.007",
+    "villageCode": "007",
+    "districtCode": "12.24.040",
+    "name": "Tuhenakhe I",
+    "alias": "Tuhenakhe I"
+  },
+  {
+    "code": "12.24.040.008",
+    "villageCode": "008",
+    "districtCode": "12.24.040",
+    "name": "Namohalu",
+    "alias": "Namohalu"
+  },
+  {
+    "code": "12.24.040.009",
+    "villageCode": "009",
+    "districtCode": "12.24.040",
+    "name": "Lasara",
+    "alias": "Lasara"
+  },
+  {
+    "code": "12.24.040.010",
+    "villageCode": "010",
+    "districtCode": "12.24.040",
+    "name": "Berua",
+    "alias": "Berua"
+  },
+  {
+    "code": "12.24.040.011",
+    "villageCode": "011",
+    "districtCode": "12.24.040",
+    "name": "Dahana Hiligodu",
+    "alias": "Dahana Hiligodu"
+  }
+]

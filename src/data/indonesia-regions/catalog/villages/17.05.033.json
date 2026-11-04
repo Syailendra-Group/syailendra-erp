@@ -1,0 +1,93 @@
+[
+  {
+    "code": "17.05.033.001",
+    "villageCode": "001",
+    "districtCode": "17.05.033",
+    "name": "Pagar",
+    "alias": "Pagar"
+  },
+  {
+    "code": "17.05.033.002",
+    "villageCode": "002",
+    "districtCode": "17.05.033",
+    "name": "Banyu Kencana",
+    "alias": "Banyu Kencana"
+  },
+  {
+    "code": "17.05.033.003",
+    "villageCode": "003",
+    "districtCode": "17.05.033",
+    "name": "Pagar Agung",
+    "alias": "Pagar Agung"
+  },
+  {
+    "code": "17.05.033.004",
+    "villageCode": "004",
+    "districtCode": "17.05.033",
+    "name": "Air Keruh",
+    "alias": "Air Keruh"
+  },
+  {
+    "code": "17.05.033.005",
+    "villageCode": "005",
+    "districtCode": "17.05.033",
+    "name": "Muara Simpur",
+    "alias": "Muara Simpur"
+  },
+  {
+    "code": "17.05.033.006",
+    "villageCode": "006",
+    "districtCode": "17.05.033",
+    "name": "Hargo Binangun",
+    "alias": "Hargo Binangun"
+  },
+  {
+    "code": "17.05.033.007",
+    "villageCode": "007",
+    "districtCode": "17.05.033",
+    "name": "Simpur Ijang",
+    "alias": "Simpur Ijang"
+  },
+  {
+    "code": "17.05.033.008",
+    "villageCode": "008",
+    "districtCode": "17.05.033",
+    "name": "Mekar Jaya",
+    "alias": "Mekar Jaya"
+  },
+  {
+    "code": "17.05.033.009",
+    "villageCode": "009",
+    "districtCode": "17.05.033",
+    "name": "Giri Nanto",
+    "alias": "Giri Nanto"
+  },
+  {
+    "code": "17.05.033.010",
+    "villageCode": "010",
+    "districtCode": "17.05.033",
+    "name": "Giri Mulya",
+    "alias": "Giri Mulya"
+  },
+  {
+    "code": "17.05.033.011",
+    "villageCode": "011",
+    "districtCode": "17.05.033",
+    "name": "Pagar Banyu",
+    "alias": "Pagar Banyu"
+  },
+  {
+    "code": "17.05.033.012",
+    "villageCode": "012",
+    "districtCode": "17.05.033",
+    "name": "Tanjung Agung",
+    "alias": "Tanjung Agung"
+  },
+  {
+    "code": "17.05.033.013",
+    "villageCode": "013",
+    "districtCode": "17.05.033",
+    "name": "Muara Nibung",
+    "alias": "Muara Nibung"
+  }
+]

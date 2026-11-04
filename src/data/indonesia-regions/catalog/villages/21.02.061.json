@@ -1,0 +1,30 @@
+[
+  {
+    "code": "21.02.061.001",
+    "villageCode": "001",
+    "districtCode": "21.02.061",
+    "name": "Gunung Kijang",
+    "alias": "Gunung Kijang"
+  },
+  {
+    "code": "21.02.061.003",
+    "villageCode": "003",
+    "districtCode": "21.02.061",
+    "name": "Kawal",
+    "alias": "Kawal"
+  },
+  {
+    "code": "21.02.061.004",
+    "villageCode": "004",
+    "districtCode": "21.02.061",
+    "name": "Teluk Bakau",
+    "alias": "Teluk Bakau"
+  },
+  {
+    "code": "21.02.061.005",
+    "villageCode": "005",
+    "districtCode": "21.02.061",
+    "name": "Malang Rapat",
+    "alias": "Malang Rapat"
+  }
+]

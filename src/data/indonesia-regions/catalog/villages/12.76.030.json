@@ -1,0 +1,51 @@
+[
+  {
+    "code": "12.76.030.001",
+    "villageCode": "001",
+    "districtCode": "12.76.030",
+    "name": "Mencirim",
+    "alias": "Mencirim"
+  },
+  {
+    "code": "12.76.030.002",
+    "villageCode": "002",
+    "districtCode": "12.76.030",
+    "name": "Tunggurono",
+    "alias": "Tunggurono"
+  },
+  {
+    "code": "12.76.030.003",
+    "villageCode": "003",
+    "districtCode": "12.76.030",
+    "name": "Dataran Tinggi",
+    "alias": "Dataran Tinggi"
+  },
+  {
+    "code": "12.76.030.004",
+    "villageCode": "004",
+    "districtCode": "12.76.030",
+    "name": "Timbang Langkat",
+    "alias": "Timbang Langkat"
+  },
+  {
+    "code": "12.76.030.005",
+    "villageCode": "005",
+    "districtCode": "12.76.030",
+    "name": "Tanah Tinggi",
+    "alias": "Tanah Tinggi"
+  },
+  {
+    "code": "12.76.030.006",
+    "villageCode": "006",
+    "districtCode": "12.76.030",
+    "name": "Sumber Mulyorejo",
+    "alias": "Sumber Mulyorejo"
+  },
+  {
+    "code": "12.76.030.007",
+    "villageCode": "007",
+    "districtCode": "12.76.030",
+    "name": "Sumber Karya",
+    "alias": "Sumber Karya"
+  }
+]

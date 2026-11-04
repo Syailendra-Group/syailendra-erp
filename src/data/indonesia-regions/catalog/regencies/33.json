@@ -1,0 +1,282 @@
+[
+  {
+    "code": "33.01",
+    "regencyCode": "01",
+    "provinceCode": "33",
+    "provinceName": "Jawa Tengah",
+    "name": "Kabupaten Cilacap",
+    "alias": "Cilacap"
+  },
+  {
+    "code": "33.02",
+    "regencyCode": "02",
+    "provinceCode": "33",
+    "provinceName": "Jawa Tengah",
+    "name": "Kabupaten Banyumas",
+    "alias": "Banyumas"
+  },
+  {
+    "code": "33.03",
+    "regencyCode": "03",
+    "provinceCode": "33",
+    "provinceName": "Jawa Tengah",
+    "name": "Kabupaten Purbalingga",
+    "alias": "Purbalingga"
+  },
+  {
+    "code": "33.04",
+    "regencyCode": "04",
+    "provinceCode": "33",
+    "provinceName": "Jawa Tengah",
+    "name": "Kabupaten Banjarnegara",
+    "alias": "Banjarnegara"
+  },
+  {
+    "code": "33.05",
+    "regencyCode": "05",
+    "provinceCode": "33",
+    "provinceName": "Jawa Tengah",
+    "name": "Kabupaten Kebumen",
+    "alias": "Kebumen"
+  },
+  {
+    "code": "33.06",
+    "regencyCode": "06",
+    "provinceCode": "33",
+    "provinceName": "Jawa Tengah",
+    "name": "Kabupaten Purworejo",
+    "alias": "Purworejo"
+  },
+  {
+    "code": "33.07",
+    "regencyCode": "07",
+    "provinceCode": "33",
+    "provinceName": "Jawa Tengah",
+    "name": "Kabupaten Wonosobo",
+    "alias": "Wonosobo"
+  },
+  {
+    "code": "33.08",
+    "regencyCode": "08",
+    "provinceCode": "33",
+    "provinceName": "Jawa Tengah",
+    "name": "Kabupaten Magelang",
+    "alias": "Magelang"
+  },
+  {
+    "code": "33.09",
+    "regencyCode": "09",
+    "provinceCode": "33",
+    "provinceName": "Jawa Tengah",
+    "name": "Kabupaten Boyolali",
+    "alias": "Boyolali"
+  },
+  {
+    "code": "33.10",
+    "regencyCode": "10",
+    "provinceCode": "33",
+    "provinceName": "Jawa Tengah",
+    "name": "Kabupaten Klaten",
+    "alias": "Klaten"
+  },
+  {
+    "code": "33.11",
+    "regencyCode": "11",
+    "provinceCode": "33",
+    "provinceName": "Jawa Tengah",
+    "name": "Kabupaten Sukoharjo",
+    "alias": "Sukoharjo"
+  },
+  {
+    "code": "33.12",
+    "regencyCode": "12",
+    "provinceCode": "33",
+    "provinceName": "Jawa Tengah",
+    "name": "Kabupaten Wonogiri",
+    "alias": "Wonogiri"
+  },
+  {
+    "code": "33.13",
+    "regencyCode": "13",
+    "provinceCode": "33",
+    "provinceName": "Jawa Tengah",
+    "name": "Kabupaten Karanganyar",
+    "alias": "Karanganyar"
+  },
+  {
+    "code": "33.14",
+    "regencyCode": "14",
+    "provinceCode": "33",
+    "provinceName": "Jawa Tengah",
+    "name": "Kabupaten Sragen",
+    "alias": "Sragen"
+  },
+  {
+    "code": "33.15",
+    "regencyCode": "15",
+    "provinceCode": "33",
+    "provinceName": "Jawa Tengah",
+    "name": "Kabupaten Grobogan",
+    "alias": "Grobogan"
+  },
+  {
+    "code": "33.16",
+    "regencyCode": "16",
+    "provinceCode": "33",
+    "provinceName": "Jawa Tengah",
+    "name": "Kabupaten Blora",
+    "alias": "Blora"
+  },
+  {
+    "code": "33.17",
+    "regencyCode": "17",
+    "provinceCode": "33",
+    "provinceName": "Jawa Tengah",
+    "name": "Kabupaten Rembang",
+    "alias": "Rembang"
+  },
+  {
+    "code": "33.18",
+    "regencyCode": "18",
+    "provinceCode": "33",
+    "provinceName": "Jawa Tengah",
+    "name": "Kabupaten Pati",
+    "alias": "Pati"
+  },
+  {
+    "code": "33.19",
+    "regencyCode": "19",
+    "provinceCode": "33",
+    "provinceName": "Jawa Tengah",
+    "name": "Kabupaten Kudus",
+    "alias": "Kudus"
+  },
+  {
+    "code": "33.20",
+    "regencyCode": "20",
+    "provinceCode": "33",
+    "provinceName": "Jawa Tengah",
+    "name": "Kabupaten Jepara",
+    "alias": "Jepara"
+  },
+  {
+    "code": "33.21",
+    "regencyCode": "21",
+    "provinceCode": "33",
+    "provinceName": "Jawa Tengah",
+    "name": "Kabupaten Demak",
+    "alias": "Demak"
+  },
+  {
+    "code": "33.22",
+    "regencyCode": "22",
+    "provinceCode": "33",
+    "provinceName": "Jawa Tengah",
+    "name": "Kabupaten Semarang",
+    "alias": "Semarang"
+  },
+  {
+    "code": "33.23",
+    "regencyCode": "23",
+    "provinceCode": "33",
+    "provinceName": "Jawa Tengah",
+    "name": "Kabupaten Temanggung",
+    "alias": "Temanggung"
+  },
+  {
+    "code": "33.24",
+    "regencyCode": "24",
+    "provinceCode": "33",
+    "provinceName": "Jawa Tengah",
+    "name": "Kabupaten Kendal",
+    "alias": "Kendal"
+  },
+  {
+    "code": "33.25",
+    "regencyCode": "25",
+    "provinceCode": "33",
+    "provinceName": "Jawa Tengah",
+    "name": "Kabupaten Batang",
+    "alias": "Batang"
+  },
+  {
+    "code": "33.26",
+    "regencyCode": "26",
+    "provinceCode": "33",
+    "provinceName": "Jawa Tengah",
+    "name": "Kabupaten Pekalongan",
+    "alias": "Pekalongan"
+  },
+  {
+    "code": "33.27",
+    "regencyCode": "27",
+    "provinceCode": "33",
+    "provinceName": "Jawa Tengah",
+    "name": "Kabupaten Pemalang",
+    "alias": "Pemalang"
+  },
+  {
+    "code": "33.28",
+    "regencyCode": "28",
+    "provinceCode": "33",
+    "provinceName": "Jawa Tengah",
+    "name": "Kabupaten Tegal",
+    "alias": "Tegal"
+  },
+  {
+    "code": "33.29",
+    "regencyCode": "29",
+    "provinceCode": "33",
+    "provinceName": "Jawa Tengah",
+    "name": "Kabupaten Brebes",
+    "alias": "Brebes"
+  },
+  {
+    "code": "33.71",
+    "regencyCode": "71",
+    "provinceCode": "33",
+    "provinceName": "Jawa Tengah",
+    "name": "Kota Magelang",
+    "alias": "Magelang"
+  },
+  {
+    "code": "33.72",
+    "regencyCode": "72",
+    "provinceCode": "33",
+    "provinceName": "Jawa Tengah",
+    "name": "Kota Surakarta",
+    "alias": "Surakarta"
+  },
+  {
+    "code": "33.73",
+    "regencyCode": "73",
+    "provinceCode": "33",
+    "provinceName": "Jawa Tengah",
+    "name": "Kota Salatiga",
+    "alias": "Salatiga"
+  },
+  {
+    "code": "33.74",
+    "regencyCode": "74",
+    "provinceCode": "33",
+    "provinceName": "Jawa Tengah",
+    "name": "Kota Semarang",
+    "alias": "Semarang"
+  },
+  {
+    "code": "33.75",
+    "regencyCode": "75",
+    "provinceCode": "33",
+    "provinceName": "Jawa Tengah",
+    "name": "Kota Pekalongan",
+    "alias": "Pekalongan"
+  },
+  {
+    "code": "33.76",
+    "regencyCode": "76",
+    "provinceCode": "33",
+    "provinceName": "Jawa Tengah",
+    "name": "Kota Tegal",
+    "alias": "Tegal"
+  }
+]

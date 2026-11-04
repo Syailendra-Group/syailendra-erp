@@ -1,0 +1,58 @@
+[
+  {
+    "code": "35.11.111.001",
+    "villageCode": "001",
+    "districtCode": "35.11.111",
+    "name": "Gadingsari",
+    "alias": "Gadingsari"
+  },
+  {
+    "code": "35.11.111.002",
+    "villageCode": "002",
+    "districtCode": "35.11.111",
+    "name": "Binakal",
+    "alias": "Binakal"
+  },
+  {
+    "code": "35.11.111.003",
+    "villageCode": "003",
+    "districtCode": "35.11.111",
+    "name": "Sumber Waru",
+    "alias": "Sumber Waru"
+  },
+  {
+    "code": "35.11.111.004",
+    "villageCode": "004",
+    "districtCode": "35.11.111",
+    "name": "Kembangan",
+    "alias": "Kembangan"
+  },
+  {
+    "code": "35.11.111.005",
+    "villageCode": "005",
+    "districtCode": "35.11.111",
+    "name": "Baratan",
+    "alias": "Baratan"
+  },
+  {
+    "code": "35.11.111.006",
+    "villageCode": "006",
+    "districtCode": "35.11.111",
+    "name": "Jeruk Soksok",
+    "alias": "Jeruk Soksok"
+  },
+  {
+    "code": "35.11.111.007",
+    "villageCode": "007",
+    "districtCode": "35.11.111",
+    "name": "Bendelan",
+    "alias": "Bendelan"
+  },
+  {
+    "code": "35.11.111.008",
+    "villageCode": "008",
+    "districtCode": "35.11.111",
+    "name": "Sumber Tengah",
+    "alias": "Sumber Tengah"
+  }
+]

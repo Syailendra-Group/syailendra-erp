@@ -1,0 +1,93 @@
+[
+  {
+    "code": "53.13.141.001",
+    "villageCode": "001",
+    "districtCode": "53.13.141",
+    "name": "Nggalak",
+    "alias": "Nggalak"
+  },
+  {
+    "code": "53.13.141.002",
+    "villageCode": "002",
+    "districtCode": "53.13.141",
+    "name": "Lante",
+    "alias": "Lante"
+  },
+  {
+    "code": "53.13.141.003",
+    "villageCode": "003",
+    "districtCode": "53.13.141",
+    "name": "Sambi",
+    "alias": "Sambi"
+  },
+  {
+    "code": "53.13.141.004",
+    "villageCode": "004",
+    "districtCode": "53.13.141",
+    "name": "Loce",
+    "alias": "Loce"
+  },
+  {
+    "code": "53.13.141.005",
+    "villageCode": "005",
+    "districtCode": "53.13.141",
+    "name": "Torong Koe",
+    "alias": "Torong Koe"
+  },
+  {
+    "code": "53.13.141.006",
+    "villageCode": "006",
+    "districtCode": "53.13.141",
+    "name": "Rura",
+    "alias": "Rura"
+  },
+  {
+    "code": "53.13.141.007",
+    "villageCode": "007",
+    "districtCode": "53.13.141",
+    "name": "Toe",
+    "alias": "Toe"
+  },
+  {
+    "code": "53.13.141.008",
+    "villageCode": "008",
+    "districtCode": "53.13.141",
+    "name": "Wae Kajong",
+    "alias": "Wae Kajong"
+  },
+  {
+    "code": "53.13.141.009",
+    "villageCode": "009",
+    "districtCode": "53.13.141",
+    "name": "Para Lando",
+    "alias": "Para Lando"
+  },
+  {
+    "code": "53.13.141.010",
+    "villageCode": "010",
+    "districtCode": "53.13.141",
+    "name": "Lemarang",
+    "alias": "Lemarang"
+  },
+  {
+    "code": "53.13.141.011",
+    "villageCode": "011",
+    "districtCode": "53.13.141",
+    "name": "Desa Persiapan Benteng Loce",
+    "alias": "Desa Persiapan Benteng Loce"
+  },
+  {
+    "code": "53.13.141.012",
+    "villageCode": "012",
+    "districtCode": "53.13.141",
+    "name": "Desa Persiapan Kajong Barat",
+    "alias": "Desa Persiapan Kajong Barat"
+  },
+  {
+    "code": "53.13.141.013",
+    "villageCode": "013",
+    "districtCode": "53.13.141",
+    "name": "Desa Persiapan Kajong Timur",
+    "alias": "Desa Persiapan Kajong Timur"
+  }
+]

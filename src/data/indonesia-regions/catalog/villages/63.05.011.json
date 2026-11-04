@@ -1,0 +1,58 @@
+[
+  {
+    "code": "63.05.011.001",
+    "villageCode": "001",
+    "districtCode": "63.05.011",
+    "name": "Matang Batas",
+    "alias": "Matang Batas"
+  },
+  {
+    "code": "63.05.011.002",
+    "villageCode": "002",
+    "districtCode": "63.05.011",
+    "name": "Burakai",
+    "alias": "Burakai"
+  },
+  {
+    "code": "63.05.011.003",
+    "villageCode": "003",
+    "districtCode": "63.05.011",
+    "name": "Hatungun",
+    "alias": "Hatungun"
+  },
+  {
+    "code": "63.05.011.004",
+    "villageCode": "004",
+    "districtCode": "63.05.011",
+    "name": "Tarungin",
+    "alias": "Tarungin"
+  },
+  {
+    "code": "63.05.011.005",
+    "villageCode": "005",
+    "districtCode": "63.05.011",
+    "name": "Bagak",
+    "alias": "Bagak"
+  },
+  {
+    "code": "63.05.011.006",
+    "villageCode": "006",
+    "districtCode": "63.05.011",
+    "name": "Asam Randah",
+    "alias": "Asam Randah"
+  },
+  {
+    "code": "63.05.011.007",
+    "villageCode": "007",
+    "districtCode": "63.05.011",
+    "name": "Batu Hapu",
+    "alias": "Batu Hapu"
+  },
+  {
+    "code": "63.05.011.008",
+    "villageCode": "008",
+    "districtCode": "63.05.011",
+    "name": "Kambang Kuning",
+    "alias": "Kambang Kuning"
+  }
+]

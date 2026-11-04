@@ -1,0 +1,58 @@
+[
+  {
+    "code": "73.09.060.001",
+    "villageCode": "001",
+    "districtCode": "73.09.060",
+    "name": "Boriappaka",
+    "alias": "Boriappaka"
+  },
+  {
+    "code": "73.09.060.002",
+    "villageCode": "002",
+    "districtCode": "73.09.060",
+    "name": "Bulu Cindea",
+    "alias": "Bulu Cindea"
+  },
+  {
+    "code": "73.09.060.003",
+    "villageCode": "003",
+    "districtCode": "73.09.060",
+    "name": "Bowong Cindea",
+    "alias": "Bowong Cindea"
+  },
+  {
+    "code": "73.09.060.004",
+    "villageCode": "004",
+    "districtCode": "73.09.060",
+    "name": "Samalewa",
+    "alias": "Samalewa"
+  },
+  {
+    "code": "73.09.060.005",
+    "villageCode": "005",
+    "districtCode": "73.09.060",
+    "name": "Sapanang",
+    "alias": "Sapanang"
+  },
+  {
+    "code": "73.09.060.006",
+    "villageCode": "006",
+    "districtCode": "73.09.060",
+    "name": "Biring Ere",
+    "alias": "Biring Ere"
+  },
+  {
+    "code": "73.09.060.007",
+    "villageCode": "007",
+    "districtCode": "73.09.060",
+    "name": "Mangilu",
+    "alias": "Mangilu"
+  },
+  {
+    "code": "73.09.060.009",
+    "villageCode": "009",
+    "districtCode": "73.09.060",
+    "name": "Tabo-Tabo",
+    "alias": "Tabo-Tabo"
+  }
+]

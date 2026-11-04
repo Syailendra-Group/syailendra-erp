@@ -1,0 +1,114 @@
+[
+  {
+    "code": "95.01.140.001",
+    "villageCode": "001",
+    "districtCode": "95.01.140",
+    "name": "Nasem",
+    "alias": "Nasem"
+  },
+  {
+    "code": "95.01.140.002",
+    "villageCode": "002",
+    "districtCode": "95.01.140",
+    "name": "Bokem",
+    "alias": "Bokem"
+  },
+  {
+    "code": "95.01.140.003",
+    "villageCode": "003",
+    "districtCode": "95.01.140",
+    "name": "Samkai",
+    "alias": "Samkai"
+  },
+  {
+    "code": "95.01.140.004",
+    "villageCode": "004",
+    "districtCode": "95.01.140",
+    "name": "Buti",
+    "alias": "Buti"
+  },
+  {
+    "code": "95.01.140.005",
+    "villageCode": "005",
+    "districtCode": "95.01.140",
+    "name": "Bambu Pemali",
+    "alias": "Bambu Pemali"
+  },
+  {
+    "code": "95.01.140.006",
+    "villageCode": "006",
+    "districtCode": "95.01.140",
+    "name": "Muli",
+    "alias": "Muli"
+  },
+  {
+    "code": "95.01.140.007",
+    "villageCode": "007",
+    "districtCode": "95.01.140",
+    "name": "Rimba Jaya",
+    "alias": "Rimba Jaya"
+  },
+  {
+    "code": "95.01.140.008",
+    "villageCode": "008",
+    "districtCode": "95.01.140",
+    "name": "Wasur",
+    "alias": "Wasur"
+  },
+  {
+    "code": "95.01.140.009",
+    "villageCode": "009",
+    "districtCode": "95.01.140",
+    "name": "Seringgu Jaya",
+    "alias": "Seringgu Jaya"
+  },
+  {
+    "code": "95.01.140.010",
+    "villageCode": "010",
+    "districtCode": "95.01.140",
+    "name": "Mandala",
+    "alias": "Mandala"
+  },
+  {
+    "code": "95.01.140.011",
+    "villageCode": "011",
+    "districtCode": "95.01.140",
+    "name": "Karang Indah",
+    "alias": "Karang Indah"
+  },
+  {
+    "code": "95.01.140.012",
+    "villageCode": "012",
+    "districtCode": "95.01.140",
+    "name": "Maro",
+    "alias": "Maro"
+  },
+  {
+    "code": "95.01.140.013",
+    "villageCode": "013",
+    "districtCode": "95.01.140",
+    "name": "Kamahedoga",
+    "alias": "Kamahedoga"
+  },
+  {
+    "code": "95.01.140.014",
+    "villageCode": "014",
+    "districtCode": "95.01.140",
+    "name": "Kelapa Lima",
+    "alias": "Kelapa Lima"
+  },
+  {
+    "code": "95.01.140.015",
+    "villageCode": "015",
+    "districtCode": "95.01.140",
+    "name": "Kamundu",
+    "alias": "Kamundu"
+  },
+  {
+    "code": "95.01.140.016",
+    "villageCode": "016",
+    "districtCode": "95.01.140",
+    "name": "Nggolar",
+    "alias": "Nggolar"
+  }
+]

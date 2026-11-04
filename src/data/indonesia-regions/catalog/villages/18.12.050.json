@@ -1,0 +1,72 @@
+[
+  {
+    "code": "18.12.050.001",
+    "villageCode": "001",
+    "districtCode": "18.12.050",
+    "name": "Lesung Bakti Jaya",
+    "alias": "Lesung Bakti Jaya"
+  },
+  {
+    "code": "18.12.050.002",
+    "villageCode": "002",
+    "districtCode": "18.12.050",
+    "name": "Mekar Sari Jaya",
+    "alias": "Mekar Sari Jaya"
+  },
+  {
+    "code": "18.12.050.003",
+    "villageCode": "003",
+    "districtCode": "18.12.050",
+    "name": "Pagar Jaya",
+    "alias": "Pagar Jaya"
+  },
+  {
+    "code": "18.12.050.004",
+    "villageCode": "004",
+    "districtCode": "18.12.050",
+    "name": "Sumber Rejo",
+    "alias": "Sumber Rejo"
+  },
+  {
+    "code": "18.12.050.005",
+    "villageCode": "005",
+    "districtCode": "18.12.050",
+    "name": "Gunung Sari",
+    "alias": "Gunung Sari"
+  },
+  {
+    "code": "18.12.050.006",
+    "villageCode": "006",
+    "districtCode": "18.12.050",
+    "name": "Kibang Budi Jaya",
+    "alias": "Kibang Budi Jaya"
+  },
+  {
+    "code": "18.12.050.007",
+    "villageCode": "007",
+    "districtCode": "18.12.050",
+    "name": "Kibang Yekti Jaya",
+    "alias": "Kibang Yekti Jaya"
+  },
+  {
+    "code": "18.12.050.008",
+    "villageCode": "008",
+    "districtCode": "18.12.050",
+    "name": "Kibang Tri Jaya",
+    "alias": "Kibang Tri Jaya"
+  },
+  {
+    "code": "18.12.050.009",
+    "villageCode": "009",
+    "districtCode": "18.12.050",
+    "name": "Gilang Tunggal Makarta",
+    "alias": "Gilang Tunggal Makarta"
+  },
+  {
+    "code": "18.12.050.010",
+    "villageCode": "010",
+    "districtCode": "18.12.050",
+    "name": "Kibang Mulya Jaya",
+    "alias": "Kibang Mulya Jaya"
+  }
+]

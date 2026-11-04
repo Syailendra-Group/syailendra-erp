@@ -1,0 +1,66 @@
+[
+  {
+    "code": "36.72.010",
+    "districtCode": "010",
+    "regencyCode": "36.72",
+    "provinceCode": "36",
+    "name": "Kecamatan Ciwandan",
+    "alias": "Ciwandan"
+  },
+  {
+    "code": "36.72.011",
+    "districtCode": "011",
+    "regencyCode": "36.72",
+    "provinceCode": "36",
+    "name": "Kecamatan Citangkil",
+    "alias": "Citangkil"
+  },
+  {
+    "code": "36.72.020",
+    "districtCode": "020",
+    "regencyCode": "36.72",
+    "provinceCode": "36",
+    "name": "Kecamatan Pulomerak",
+    "alias": "Pulomerak"
+  },
+  {
+    "code": "36.72.021",
+    "districtCode": "021",
+    "regencyCode": "36.72",
+    "provinceCode": "36",
+    "name": "Kecamatan Purwakarta",
+    "alias": "Purwakarta"
+  },
+  {
+    "code": "36.72.022",
+    "districtCode": "022",
+    "regencyCode": "36.72",
+    "provinceCode": "36",
+    "name": "Kecamatan Grogol",
+    "alias": "Grogol"
+  },
+  {
+    "code": "36.72.030",
+    "districtCode": "030",
+    "regencyCode": "36.72",
+    "provinceCode": "36",
+    "name": "Kecamatan Cilegon",
+    "alias": "Cilegon"
+  },
+  {
+    "code": "36.72.031",
+    "districtCode": "031",
+    "regencyCode": "36.72",
+    "provinceCode": "36",
+    "name": "Kecamatan Jombang",
+    "alias": "Jombang"
+  },
+  {
+    "code": "36.72.040",
+    "districtCode": "040",
+    "regencyCode": "36.72",
+    "provinceCode": "36",
+    "name": "Kecamatan Cibeber",
+    "alias": "Cibeber"
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "code": "18.04.050.001",
+    "villageCode": "001",
+    "districtCode": "18.04.050",
+    "name": "Gunung Agung",
+    "alias": "Gunung Agung"
+  },
+  {
+    "code": "18.04.050.002",
+    "villageCode": "002",
+    "districtCode": "18.04.050",
+    "name": "Gunung Pasir Jaya",
+    "alias": "Gunung Pasir Jaya"
+  },
+  {
+    "code": "18.04.050.003",
+    "villageCode": "003",
+    "districtCode": "18.04.050",
+    "name": "Gunung Sugih Besar",
+    "alias": "Gunung Sugih Besar"
+  },
+  {
+    "code": "18.04.050.004",
+    "villageCode": "004",
+    "districtCode": "18.04.050",
+    "name": "Bauh Gunung Sari",
+    "alias": "Bauh Gunung Sari"
+  },
+  {
+    "code": "18.04.050.005",
+    "villageCode": "005",
+    "districtCode": "18.04.050",
+    "name": "Brawijaya",
+    "alias": "Brawijaya"
+  },
+  {
+    "code": "18.04.050.006",
+    "villageCode": "006",
+    "districtCode": "18.04.050",
+    "name": "Sidorejo",
+    "alias": "Sidorejo"
+  },
+  {
+    "code": "18.04.050.007",
+    "villageCode": "007",
+    "districtCode": "18.04.050",
+    "name": "Pugung Raharjo",
+    "alias": "Pugung Raharjo"
+  },
+  {
+    "code": "18.04.050.008",
+    "villageCode": "008",
+    "districtCode": "18.04.050",
+    "name": "Bojong",
+    "alias": "Bojong"
+  },
+  {
+    "code": "18.04.050.009",
+    "villageCode": "009",
+    "districtCode": "18.04.050",
+    "name": "Banjar Agung",
+    "alias": "Banjar Agung"
+  },
+  {
+    "code": "18.04.050.010",
+    "villageCode": "010",
+    "districtCode": "18.04.050",
+    "name": "Toba",
+    "alias": "Toba"
+  },
+  {
+    "code": "18.04.050.011",
+    "villageCode": "011",
+    "districtCode": "18.04.050",
+    "name": "Mengandung Sari",
+    "alias": "Mengandung Sari"
+  },
+  {
+    "code": "18.04.050.012",
+    "villageCode": "012",
+    "districtCode": "18.04.050",
+    "name": "Sindang Anom",
+    "alias": "Sindang Anom"
+  },
+  {
+    "code": "18.04.050.013",
+    "villageCode": "013",
+    "districtCode": "18.04.050",
+    "name": "Bumi Mulyo",
+    "alias": "Bumi Mulyo"
+  },
+  {
+    "code": "18.04.050.014",
+    "villageCode": "014",
+    "districtCode": "18.04.050",
+    "name": "Gunung Mulyo",
+    "alias": "Gunung Mulyo"
+  },
+  {
+    "code": "18.04.050.015",
+    "villageCode": "015",
+    "districtCode": "18.04.050",
+    "name": "Purwo Kencono",
+    "alias": "Purwo Kencono"
+  }
+]

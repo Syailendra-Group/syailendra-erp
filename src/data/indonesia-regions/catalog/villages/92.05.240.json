@@ -1,0 +1,65 @@
+[
+  {
+    "code": "92.05.240.001",
+    "villageCode": "001",
+    "districtCode": "92.05.240",
+    "name": "Hobiah",
+    "alias": "Hobiah"
+  },
+  {
+    "code": "92.05.240.002",
+    "villageCode": "002",
+    "districtCode": "92.05.240",
+    "name": "Sumo",
+    "alias": "Sumo"
+  },
+  {
+    "code": "92.05.240.003",
+    "villageCode": "003",
+    "districtCode": "92.05.240",
+    "name": "Ifat Mitu",
+    "alias": "Ifat Mitu"
+  },
+  {
+    "code": "92.05.240.004",
+    "villageCode": "004",
+    "districtCode": "92.05.240",
+    "name": "Povokek Ania",
+    "alias": "Povokek Ania"
+  },
+  {
+    "code": "92.05.240.005",
+    "villageCode": "005",
+    "districtCode": "92.05.240",
+    "name": "Srurem",
+    "alias": "Srurem"
+  },
+  {
+    "code": "92.05.240.006",
+    "villageCode": "006",
+    "districtCode": "92.05.240",
+    "name": "Senopi",
+    "alias": "Senopi"
+  },
+  {
+    "code": "92.05.240.007",
+    "villageCode": "007",
+    "districtCode": "92.05.240",
+    "name": "Arapi",
+    "alias": "Arapi"
+  },
+  {
+    "code": "92.05.240.008",
+    "villageCode": "008",
+    "districtCode": "92.05.240",
+    "name": "Thomas",
+    "alias": "Thomas"
+  },
+  {
+    "code": "92.05.240.009",
+    "villageCode": "009",
+    "districtCode": "92.05.240",
+    "name": "Tintum Araw",
+    "alias": "Tintum Araw"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "code": "33.12.020.001",
+    "villageCode": "001",
+    "districtCode": "33.12.020",
+    "name": "Paranggupito",
+    "alias": "Paranggupito"
+  },
+  {
+    "code": "33.12.020.002",
+    "villageCode": "002",
+    "districtCode": "33.12.020",
+    "name": "Gudangharjo",
+    "alias": "Gudangharjo"
+  },
+  {
+    "code": "33.12.020.003",
+    "villageCode": "003",
+    "districtCode": "33.12.020",
+    "name": "Gunturharjo",
+    "alias": "Gunturharjo"
+  },
+  {
+    "code": "33.12.020.004",
+    "villageCode": "004",
+    "districtCode": "33.12.020",
+    "name": "Gendayakan",
+    "alias": "Gendayakan"
+  },
+  {
+    "code": "33.12.020.005",
+    "villageCode": "005",
+    "districtCode": "33.12.020",
+    "name": "Sambiharjo",
+    "alias": "Sambiharjo"
+  },
+  {
+    "code": "33.12.020.006",
+    "villageCode": "006",
+    "districtCode": "33.12.020",
+    "name": "Ketos",
+    "alias": "Ketos"
+  },
+  {
+    "code": "33.12.020.007",
+    "villageCode": "007",
+    "districtCode": "33.12.020",
+    "name": "Songbledeg",
+    "alias": "Songbledeg"
+  },
+  {
+    "code": "33.12.020.008",
+    "villageCode": "008",
+    "districtCode": "33.12.020",
+    "name": "Johunut",
+    "alias": "Johunut"
+  }
+]

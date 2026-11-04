@@ -1,0 +1,79 @@
+[
+  {
+    "code": "17.04.070.027",
+    "villageCode": "027",
+    "districtCode": "17.04.070",
+    "name": "Padang Manis",
+    "alias": "Padang Manis"
+  },
+  {
+    "code": "17.04.070.028",
+    "villageCode": "028",
+    "districtCode": "17.04.070",
+    "name": "Gunung Agung",
+    "alias": "Gunung Agung"
+  },
+  {
+    "code": "17.04.070.029",
+    "villageCode": "029",
+    "districtCode": "17.04.070",
+    "name": "Bandu Agung",
+    "alias": "Bandu Agung"
+  },
+  {
+    "code": "17.04.070.031",
+    "villageCode": "031",
+    "districtCode": "17.04.070",
+    "name": "Simpang Tiga",
+    "alias": "Simpang Tiga"
+  },
+  {
+    "code": "17.04.070.032",
+    "villageCode": "032",
+    "districtCode": "17.04.070",
+    "name": "Guru Agung I",
+    "alias": "Guru Agung I"
+  },
+  {
+    "code": "17.04.070.034",
+    "villageCode": "034",
+    "districtCode": "17.04.070",
+    "name": "Tanjung Betung I",
+    "alias": "Tanjung Betung I"
+  },
+  {
+    "code": "17.04.070.040",
+    "villageCode": "040",
+    "districtCode": "17.04.070",
+    "name": "Pancur Negara",
+    "alias": "Pancur Negara"
+  },
+  {
+    "code": "17.04.070.041",
+    "villageCode": "041",
+    "districtCode": "17.04.070",
+    "name": "Perugaian",
+    "alias": "Perugaian"
+  },
+  {
+    "code": "17.04.070.042",
+    "villageCode": "042",
+    "districtCode": "17.04.070",
+    "name": "Coko Enau",
+    "alias": "Coko Enau"
+  },
+  {
+    "code": "17.04.070.043",
+    "villageCode": "043",
+    "districtCode": "17.04.070",
+    "name": "Tanjung Betung Ii",
+    "alias": "Tanjung Betung Ii"
+  },
+  {
+    "code": "17.04.070.045",
+    "villageCode": "045",
+    "districtCode": "17.04.070",
+    "name": "Guru Agung Ii",
+    "alias": "Guru Agung Ii"
+  }
+]

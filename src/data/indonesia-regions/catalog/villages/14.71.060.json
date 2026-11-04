@@ -1,0 +1,51 @@
+[
+  {
+    "code": "14.71.060.002",
+    "villageCode": "002",
+    "districtCode": "14.71.060",
+    "name": "Jadirejo",
+    "alias": "Jadirejo"
+  },
+  {
+    "code": "14.71.060.003",
+    "villageCode": "003",
+    "districtCode": "14.71.060",
+    "name": "Kampung Tengah",
+    "alias": "Kampung Tengah"
+  },
+  {
+    "code": "14.71.060.004",
+    "villageCode": "004",
+    "districtCode": "14.71.060",
+    "name": "Kampung Melayu",
+    "alias": "Kampung Melayu"
+  },
+  {
+    "code": "14.71.060.005",
+    "villageCode": "005",
+    "districtCode": "14.71.060",
+    "name": "Kedungsari",
+    "alias": "Kedungsari"
+  },
+  {
+    "code": "14.71.060.006",
+    "villageCode": "006",
+    "districtCode": "14.71.060",
+    "name": "Harjosari",
+    "alias": "Harjosari"
+  },
+  {
+    "code": "14.71.060.007",
+    "villageCode": "007",
+    "districtCode": "14.71.060",
+    "name": "Sukajadi",
+    "alias": "Sukajadi"
+  },
+  {
+    "code": "14.71.060.008",
+    "villageCode": "008",
+    "districtCode": "14.71.060",
+    "name": "Pulau Karomah",
+    "alias": "Pulau Karomah"
+  }
+]

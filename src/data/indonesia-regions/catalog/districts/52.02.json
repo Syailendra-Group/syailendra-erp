@@ -1,0 +1,98 @@
+[
+  {
+    "code": "52.02.010",
+    "districtCode": "010",
+    "regencyCode": "52.02",
+    "provinceCode": "52",
+    "name": "Kecamatan Praya Barat",
+    "alias": "Praya Barat"
+  },
+  {
+    "code": "52.02.011",
+    "districtCode": "011",
+    "regencyCode": "52.02",
+    "provinceCode": "52",
+    "name": "Kecamatan Praya Barat Daya",
+    "alias": "Praya Barat Daya"
+  },
+  {
+    "code": "52.02.020",
+    "districtCode": "020",
+    "regencyCode": "52.02",
+    "provinceCode": "52",
+    "name": "Kecamatan Pujut",
+    "alias": "Pujut"
+  },
+  {
+    "code": "52.02.030",
+    "districtCode": "030",
+    "regencyCode": "52.02",
+    "provinceCode": "52",
+    "name": "Kecamatan Praya Timur",
+    "alias": "Praya Timur"
+  },
+  {
+    "code": "52.02.040",
+    "districtCode": "040",
+    "regencyCode": "52.02",
+    "provinceCode": "52",
+    "name": "Kecamatan Janapria",
+    "alias": "Janapria"
+  },
+  {
+    "code": "52.02.050",
+    "districtCode": "050",
+    "regencyCode": "52.02",
+    "provinceCode": "52",
+    "name": "Kecamatan Kopang",
+    "alias": "Kopang"
+  },
+  {
+    "code": "52.02.060",
+    "districtCode": "060",
+    "regencyCode": "52.02",
+    "provinceCode": "52",
+    "name": "Kecamatan Praya",
+    "alias": "Praya"
+  },
+  {
+    "code": "52.02.061",
+    "districtCode": "061",
+    "regencyCode": "52.02",
+    "provinceCode": "52",
+    "name": "Kecamatan Praya Tengah",
+    "alias": "Praya Tengah"
+  },
+  {
+    "code": "52.02.070",
+    "districtCode": "070",
+    "regencyCode": "52.02",
+    "provinceCode": "52",
+    "name": "Kecamatan Jonggat",
+    "alias": "Jonggat"
+  },
+  {
+    "code": "52.02.080",
+    "districtCode": "080",
+    "regencyCode": "52.02",
+    "provinceCode": "52",
+    "name": "Kecamatan Pringgarata",
+    "alias": "Pringgarata"
+  },
+  {
+    "code": "52.02.090",
+    "districtCode": "090",
+    "regencyCode": "52.02",
+    "provinceCode": "52",
+    "name": "Kecamatan Batukliang",
+    "alias": "Batukliang"
+  },
+  {
+    "code": "52.02.091",
+    "districtCode": "091",
+    "regencyCode": "52.02",
+    "provinceCode": "52",
+    "name": "Kecamatan Batukliang Utara",
+    "alias": "Batukliang Utara"
+  }
+]

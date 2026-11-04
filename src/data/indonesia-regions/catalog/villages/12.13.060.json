@@ -1,0 +1,51 @@
+[
+  {
+    "code": "12.13.060.001",
+    "villageCode": "001",
+    "districtCode": "12.13.060",
+    "name": "Tanjung Jati",
+    "alias": "Tanjung Jati"
+  },
+  {
+    "code": "12.13.060.002",
+    "villageCode": "002",
+    "districtCode": "12.13.060",
+    "name": "Sidomulyo",
+    "alias": "Sidomulyo"
+  },
+  {
+    "code": "12.13.060.003",
+    "villageCode": "003",
+    "districtCode": "12.13.060",
+    "name": "Sendang Rejo",
+    "alias": "Sendang Rejo"
+  },
+  {
+    "code": "12.13.060.004",
+    "villageCode": "004",
+    "districtCode": "12.13.060",
+    "name": "Sambirejo",
+    "alias": "Sambirejo"
+  },
+  {
+    "code": "12.13.060.005",
+    "villageCode": "005",
+    "districtCode": "12.13.060",
+    "name": "Kwala Begumit",
+    "alias": "Kwala Begumit"
+  },
+  {
+    "code": "12.13.060.006",
+    "villageCode": "006",
+    "districtCode": "12.13.060",
+    "name": "Perdamean",
+    "alias": "Perdamean"
+  },
+  {
+    "code": "12.13.060.007",
+    "villageCode": "007",
+    "districtCode": "12.13.060",
+    "name": "Sukamakmur",
+    "alias": "Sukamakmur"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "code": "72.10.080.001",
+    "villageCode": "001",
+    "districtCode": "72.10.080",
+    "name": "Bangga",
+    "alias": "Bangga"
+  },
+  {
+    "code": "72.10.080.002",
+    "villageCode": "002",
+    "districtCode": "72.10.080",
+    "name": "Walatana",
+    "alias": "Walatana"
+  },
+  {
+    "code": "72.10.080.003",
+    "villageCode": "003",
+    "districtCode": "72.10.080",
+    "name": "Bulubete",
+    "alias": "Bulubete"
+  },
+  {
+    "code": "72.10.080.004",
+    "villageCode": "004",
+    "districtCode": "72.10.080",
+    "name": "Baluase",
+    "alias": "Baluase"
+  },
+  {
+    "code": "72.10.080.005",
+    "villageCode": "005",
+    "districtCode": "72.10.080",
+    "name": "Rogo",
+    "alias": "Rogo"
+  },
+  {
+    "code": "72.10.080.006",
+    "villageCode": "006",
+    "districtCode": "72.10.080",
+    "name": "Pulu",
+    "alias": "Pulu"
+  },
+  {
+    "code": "72.10.080.007",
+    "villageCode": "007",
+    "districtCode": "72.10.080",
+    "name": "Balongga",
+    "alias": "Balongga"
+  },
+  {
+    "code": "72.10.080.008",
+    "villageCode": "008",
+    "districtCode": "72.10.080",
+    "name": "Wisolo",
+    "alias": "Wisolo"
+  },
+  {
+    "code": "72.10.080.009",
+    "villageCode": "009",
+    "districtCode": "72.10.080",
+    "name": "Sambo",
+    "alias": "Sambo"
+  },
+  {
+    "code": "72.10.080.010",
+    "villageCode": "010",
+    "districtCode": "72.10.080",
+    "name": "Jono",
+    "alias": "Jono"
+  },
+  {
+    "code": "72.10.080.011",
+    "villageCode": "011",
+    "districtCode": "72.10.080",
+    "name": "Poi",
+    "alias": "Poi"
+  },
+  {
+    "code": "72.10.080.012",
+    "villageCode": "012",
+    "districtCode": "72.10.080",
+    "name": "Ramba",
+    "alias": "Ramba"
+  }
+]

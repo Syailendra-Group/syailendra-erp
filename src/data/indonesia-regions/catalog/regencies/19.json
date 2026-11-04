@@ -1,0 +1,58 @@
+[
+  {
+    "code": "19.01",
+    "regencyCode": "01",
+    "provinceCode": "19",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "name": "Kabupaten Bangka",
+    "alias": "Bangka"
+  },
+  {
+    "code": "19.02",
+    "regencyCode": "02",
+    "provinceCode": "19",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "name": "Kabupaten Belitung",
+    "alias": "Belitung"
+  },
+  {
+    "code": "19.03",
+    "regencyCode": "03",
+    "provinceCode": "19",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "name": "Kabupaten Bangka Barat",
+    "alias": "Bangka Barat"
+  },
+  {
+    "code": "19.04",
+    "regencyCode": "04",
+    "provinceCode": "19",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "name": "Kabupaten Bangka Tengah",
+    "alias": "Bangka Tengah"
+  },
+  {
+    "code": "19.05",
+    "regencyCode": "05",
+    "provinceCode": "19",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "name": "Kabupaten Bangka Selatan",
+    "alias": "Bangka Selatan"
+  },
+  {
+    "code": "19.06",
+    "regencyCode": "06",
+    "provinceCode": "19",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "name": "Kabupaten Belitung Timur",
+    "alias": "Belitung Timur"
+  },
+  {
+    "code": "19.71",
+    "regencyCode": "71",
+    "provinceCode": "19",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "name": "Kota Pangkal Pinang",
+    "alias": "Pangkal Pinang"
+  }
+]

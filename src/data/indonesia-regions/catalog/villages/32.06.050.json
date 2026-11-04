@@ -1,0 +1,65 @@
+[
+  {
+    "code": "32.06.050.001",
+    "villageCode": "001",
+    "districtCode": "32.06.050",
+    "name": "Gunungsari",
+    "alias": "Gunungsari"
+  },
+  {
+    "code": "32.06.050.002",
+    "villageCode": "002",
+    "districtCode": "32.06.050",
+    "name": "Cilumba",
+    "alias": "Cilumba"
+  },
+  {
+    "code": "32.06.050.003",
+    "villageCode": "003",
+    "districtCode": "32.06.050",
+    "name": "Linggalaksana",
+    "alias": "Linggalaksana"
+  },
+  {
+    "code": "32.06.050.004",
+    "villageCode": "004",
+    "districtCode": "32.06.050",
+    "name": "Pakemitan",
+    "alias": "Pakemitan"
+  },
+  {
+    "code": "32.06.050.005",
+    "villageCode": "005",
+    "districtCode": "32.06.050",
+    "name": "Cogreg",
+    "alias": "Cogreg"
+  },
+  {
+    "code": "32.06.050.006",
+    "villageCode": "006",
+    "districtCode": "32.06.050",
+    "name": "Lengkongbarang",
+    "alias": "Lengkongbarang"
+  },
+  {
+    "code": "32.06.050.007",
+    "villageCode": "007",
+    "districtCode": "32.06.050",
+    "name": "Tanjungbarang",
+    "alias": "Tanjungbarang"
+  },
+  {
+    "code": "32.06.050.008",
+    "villageCode": "008",
+    "districtCode": "32.06.050",
+    "name": "Cayur",
+    "alias": "Cayur"
+  },
+  {
+    "code": "32.06.050.009",
+    "villageCode": "009",
+    "districtCode": "32.06.050",
+    "name": "Sindangasih",
+    "alias": "Sindangasih"
+  }
+]

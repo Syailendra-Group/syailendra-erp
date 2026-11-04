@@ -1,0 +1,58 @@
+[
+  {
+    "code": "17.08.010.001",
+    "villageCode": "001",
+    "districtCode": "17.08.010",
+    "name": "Limbur Baru",
+    "alias": "Limbur Baru"
+  },
+  {
+    "code": "17.08.010.002",
+    "villageCode": "002",
+    "districtCode": "17.08.010",
+    "name": "Batu Kalung",
+    "alias": "Batu Kalung"
+  },
+  {
+    "code": "17.08.010.003",
+    "villageCode": "003",
+    "districtCode": "17.08.010",
+    "name": "Sosokan Baru",
+    "alias": "Sosokan Baru"
+  },
+  {
+    "code": "17.08.010.004",
+    "villageCode": "004",
+    "districtCode": "17.08.010",
+    "name": "Sosokan Taba",
+    "alias": "Sosokan Taba"
+  },
+  {
+    "code": "17.08.010.005",
+    "villageCode": "005",
+    "districtCode": "17.08.010",
+    "name": "Batu Bandung",
+    "alias": "Batu Bandung"
+  },
+  {
+    "code": "17.08.010.006",
+    "villageCode": "006",
+    "districtCode": "17.08.010",
+    "name": "Talang Tige",
+    "alias": "Talang Tige"
+  },
+  {
+    "code": "17.08.010.007",
+    "villageCode": "007",
+    "districtCode": "17.08.010",
+    "name": "Renah Kurung",
+    "alias": "Renah Kurung"
+  },
+  {
+    "code": "17.08.010.008",
+    "villageCode": "008",
+    "districtCode": "17.08.010",
+    "name": "Warung Pojok",
+    "alias": "Warung Pojok"
+  }
+]

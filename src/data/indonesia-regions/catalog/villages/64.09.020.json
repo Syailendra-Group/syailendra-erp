@@ -1,0 +1,30 @@
+[
+  {
+    "code": "64.09.020.001",
+    "villageCode": "001",
+    "districtCode": "64.09.020",
+    "name": "Api-Api",
+    "alias": "Api-Api"
+  },
+  {
+    "code": "64.09.020.002",
+    "villageCode": "002",
+    "districtCode": "64.09.020",
+    "name": "Sesulu",
+    "alias": "Sesulu"
+  },
+  {
+    "code": "64.09.020.003",
+    "villageCode": "003",
+    "districtCode": "64.09.020",
+    "name": "Waru",
+    "alias": "Waru"
+  },
+  {
+    "code": "64.09.020.004",
+    "villageCode": "004",
+    "districtCode": "64.09.020",
+    "name": "Bangun Mulya",
+    "alias": "Bangun Mulya"
+  }
+]

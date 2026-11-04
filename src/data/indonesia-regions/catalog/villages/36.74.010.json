@@ -1,0 +1,44 @@
+[
+  {
+    "code": "36.74.010.001",
+    "villageCode": "001",
+    "districtCode": "36.74.010",
+    "name": "Kranggan",
+    "alias": "Kranggan"
+  },
+  {
+    "code": "36.74.010.002",
+    "villageCode": "002",
+    "districtCode": "36.74.010",
+    "name": "Muncul",
+    "alias": "Muncul"
+  },
+  {
+    "code": "36.74.010.003",
+    "villageCode": "003",
+    "districtCode": "36.74.010",
+    "name": "Kademangan",
+    "alias": "Kademangan"
+  },
+  {
+    "code": "36.74.010.004",
+    "villageCode": "004",
+    "districtCode": "36.74.010",
+    "name": "Setu",
+    "alias": "Setu"
+  },
+  {
+    "code": "36.74.010.005",
+    "villageCode": "005",
+    "districtCode": "36.74.010",
+    "name": "Babakan",
+    "alias": "Babakan"
+  },
+  {
+    "code": "36.74.010.006",
+    "villageCode": "006",
+    "districtCode": "36.74.010",
+    "name": "Bakti Jaya",
+    "alias": "Bakti Jaya"
+  }
+]

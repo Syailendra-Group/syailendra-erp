@@ -1,0 +1,79 @@
+[
+  {
+    "code": "64.11.020.001",
+    "villageCode": "001",
+    "districtCode": "64.11.020",
+    "name": "Lutan",
+    "alias": "Lutan"
+  },
+  {
+    "code": "64.11.020.002",
+    "villageCode": "002",
+    "districtCode": "64.11.020",
+    "name": "Memahak Teboq",
+    "alias": "Memahak Teboq"
+  },
+  {
+    "code": "64.11.020.003",
+    "villageCode": "003",
+    "districtCode": "64.11.020",
+    "name": "Sirau",
+    "alias": "Sirau"
+  },
+  {
+    "code": "64.11.020.004",
+    "villageCode": "004",
+    "districtCode": "64.11.020",
+    "name": "Mata Libaq",
+    "alias": "Mata Libaq"
+  },
+  {
+    "code": "64.11.020.005",
+    "villageCode": "005",
+    "districtCode": "64.11.020",
+    "name": "Datah Bilang Ilir",
+    "alias": "Datah Bilang Ilir"
+  },
+  {
+    "code": "64.11.020.006",
+    "villageCode": "006",
+    "districtCode": "64.11.020",
+    "name": "Datah Bilang Ulu",
+    "alias": "Datah Bilang Ulu"
+  },
+  {
+    "code": "64.11.020.007",
+    "villageCode": "007",
+    "districtCode": "64.11.020",
+    "name": "Datah Bilang Baru",
+    "alias": "Datah Bilang Baru"
+  },
+  {
+    "code": "64.11.020.008",
+    "villageCode": "008",
+    "districtCode": "64.11.020",
+    "name": "Long Hubung",
+    "alias": "Long Hubung"
+  },
+  {
+    "code": "64.11.020.009",
+    "villageCode": "009",
+    "districtCode": "64.11.020",
+    "name": "Wana Pariq",
+    "alias": "Wana Pariq"
+  },
+  {
+    "code": "64.11.020.010",
+    "villageCode": "010",
+    "districtCode": "64.11.020",
+    "name": "Tri Pariq Makmur",
+    "alias": "Tri Pariq Makmur"
+  },
+  {
+    "code": "64.11.020.011",
+    "villageCode": "011",
+    "districtCode": "64.11.020",
+    "name": "Long Hubung Ulu",
+    "alias": "Long Hubung Ulu"
+  }
+]

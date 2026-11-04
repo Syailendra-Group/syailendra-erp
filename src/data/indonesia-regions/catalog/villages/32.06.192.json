@@ -1,0 +1,44 @@
+[
+  {
+    "code": "32.06.192.001",
+    "villageCode": "001",
+    "districtCode": "32.06.192",
+    "name": "Pasirsalam",
+    "alias": "Pasirsalam"
+  },
+  {
+    "code": "32.06.192.002",
+    "villageCode": "002",
+    "districtCode": "32.06.192",
+    "name": "Sukaluyu",
+    "alias": "Sukaluyu"
+  },
+  {
+    "code": "32.06.192.003",
+    "villageCode": "003",
+    "districtCode": "32.06.192",
+    "name": "Sukasukur",
+    "alias": "Sukasukur"
+  },
+  {
+    "code": "32.06.192.004",
+    "villageCode": "004",
+    "districtCode": "32.06.192",
+    "name": "Salebu",
+    "alias": "Salebu"
+  },
+  {
+    "code": "32.06.192.005",
+    "villageCode": "005",
+    "districtCode": "32.06.192",
+    "name": "Mangunreja",
+    "alias": "Mangunreja"
+  },
+  {
+    "code": "32.06.192.006",
+    "villageCode": "006",
+    "districtCode": "32.06.192",
+    "name": "Margajaya",
+    "alias": "Margajaya"
+  }
+]

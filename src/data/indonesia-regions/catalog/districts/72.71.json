@@ -1,0 +1,66 @@
+[
+  {
+    "code": "72.71.010",
+    "districtCode": "010",
+    "regencyCode": "72.71",
+    "provinceCode": "72",
+    "name": "Kecamatan Palu Barat",
+    "alias": "Palu Barat"
+  },
+  {
+    "code": "72.71.011",
+    "districtCode": "011",
+    "regencyCode": "72.71",
+    "provinceCode": "72",
+    "name": "Kecamatan Tatanga",
+    "alias": "Tatanga"
+  },
+  {
+    "code": "72.71.012",
+    "districtCode": "012",
+    "regencyCode": "72.71",
+    "provinceCode": "72",
+    "name": "Kecamatan Ulujadi",
+    "alias": "Ulujadi"
+  },
+  {
+    "code": "72.71.020",
+    "districtCode": "020",
+    "regencyCode": "72.71",
+    "provinceCode": "72",
+    "name": "Kecamatan Palu Selatan",
+    "alias": "Palu Selatan"
+  },
+  {
+    "code": "72.71.030",
+    "districtCode": "030",
+    "regencyCode": "72.71",
+    "provinceCode": "72",
+    "name": "Kecamatan Palu Timur",
+    "alias": "Palu Timur"
+  },
+  {
+    "code": "72.71.031",
+    "districtCode": "031",
+    "regencyCode": "72.71",
+    "provinceCode": "72",
+    "name": "Kecamatan Mantikulore",
+    "alias": "Mantikulore"
+  },
+  {
+    "code": "72.71.040",
+    "districtCode": "040",
+    "regencyCode": "72.71",
+    "provinceCode": "72",
+    "name": "Kecamatan Palu Utara",
+    "alias": "Palu Utara"
+  },
+  {
+    "code": "72.71.041",
+    "districtCode": "041",
+    "regencyCode": "72.71",
+    "provinceCode": "72",
+    "name": "Kecamatan Tawaeli",
+    "alias": "Tawaeli"
+  }
+]

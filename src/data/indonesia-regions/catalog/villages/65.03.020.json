@@ -1,0 +1,51 @@
+[
+  {
+    "code": "65.03.020.001",
+    "villageCode": "001",
+    "districtCode": "65.03.020",
+    "name": "Sedulun",
+    "alias": "Sedulun"
+  },
+  {
+    "code": "65.03.020.002",
+    "villageCode": "002",
+    "districtCode": "65.03.020",
+    "name": "Limbu Sedulun",
+    "alias": "Limbu Sedulun"
+  },
+  {
+    "code": "65.03.020.003",
+    "villageCode": "003",
+    "districtCode": "65.03.020",
+    "name": "Gunawan",
+    "alias": "Gunawan"
+  },
+  {
+    "code": "65.03.020.004",
+    "villageCode": "004",
+    "districtCode": "65.03.020",
+    "name": "Tideng Pale",
+    "alias": "Tideng Pale"
+  },
+  {
+    "code": "65.03.020.005",
+    "villageCode": "005",
+    "districtCode": "65.03.020",
+    "name": "Tideng Pale Timur",
+    "alias": "Tideng Pale Timur"
+  },
+  {
+    "code": "65.03.020.006",
+    "villageCode": "006",
+    "districtCode": "65.03.020",
+    "name": "Sebidai",
+    "alias": "Sebidai"
+  },
+  {
+    "code": "65.03.020.007",
+    "villageCode": "007",
+    "districtCode": "65.03.020",
+    "name": "Sebawang",
+    "alias": "Sebawang"
+  }
+]

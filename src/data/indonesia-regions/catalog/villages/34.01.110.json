@@ -1,0 +1,30 @@
+[
+  {
+    "code": "34.01.110.001",
+    "villageCode": "001",
+    "districtCode": "34.01.110",
+    "name": "Banjararum",
+    "alias": "Banjararum"
+  },
+  {
+    "code": "34.01.110.002",
+    "villageCode": "002",
+    "districtCode": "34.01.110",
+    "name": "Banjarasri",
+    "alias": "Banjarasri"
+  },
+  {
+    "code": "34.01.110.003",
+    "villageCode": "003",
+    "districtCode": "34.01.110",
+    "name": "Banjarharjo",
+    "alias": "Banjarharjo"
+  },
+  {
+    "code": "34.01.110.004",
+    "villageCode": "004",
+    "districtCode": "34.01.110",
+    "name": "Banjaroyo",
+    "alias": "Banjaroyo"
+  }
+]

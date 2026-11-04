@@ -1,0 +1,130 @@
+[
+  {
+    "code": "16.10.010",
+    "districtCode": "010",
+    "regencyCode": "16.10",
+    "provinceCode": "16",
+    "name": "Kecamatan Muara Kuang",
+    "alias": "Muara Kuang"
+  },
+  {
+    "code": "16.10.011",
+    "districtCode": "011",
+    "regencyCode": "16.10",
+    "provinceCode": "16",
+    "name": "Kecamatan Rambang Kuang",
+    "alias": "Rambang Kuang"
+  },
+  {
+    "code": "16.10.012",
+    "districtCode": "012",
+    "regencyCode": "16.10",
+    "provinceCode": "16",
+    "name": "Kecamatan Lubuk Keliat",
+    "alias": "Lubuk Keliat"
+  },
+  {
+    "code": "16.10.020",
+    "districtCode": "020",
+    "regencyCode": "16.10",
+    "provinceCode": "16",
+    "name": "Kecamatan Tanjung Batu",
+    "alias": "Tanjung Batu"
+  },
+  {
+    "code": "16.10.021",
+    "districtCode": "021",
+    "regencyCode": "16.10",
+    "provinceCode": "16",
+    "name": "Kecamatan Payaraman",
+    "alias": "Payaraman"
+  },
+  {
+    "code": "16.10.030",
+    "districtCode": "030",
+    "regencyCode": "16.10",
+    "provinceCode": "16",
+    "name": "Kecamatan Rantau Alai",
+    "alias": "Rantau Alai"
+  },
+  {
+    "code": "16.10.031",
+    "districtCode": "031",
+    "regencyCode": "16.10",
+    "provinceCode": "16",
+    "name": "Kecamatan Kandis",
+    "alias": "Kandis"
+  },
+  {
+    "code": "16.10.040",
+    "districtCode": "040",
+    "regencyCode": "16.10",
+    "provinceCode": "16",
+    "name": "Kecamatan Tanjung Raja",
+    "alias": "Tanjung Raja"
+  },
+  {
+    "code": "16.10.041",
+    "districtCode": "041",
+    "regencyCode": "16.10",
+    "provinceCode": "16",
+    "name": "Kecamatan Rantau Panjang",
+    "alias": "Rantau Panjang"
+  },
+  {
+    "code": "16.10.042",
+    "districtCode": "042",
+    "regencyCode": "16.10",
+    "provinceCode": "16",
+    "name": "Kecamatan Sungai Pinang",
+    "alias": "Sungai Pinang"
+  },
+  {
+    "code": "16.10.050",
+    "districtCode": "050",
+    "regencyCode": "16.10",
+    "provinceCode": "16",
+    "name": "Kecamatan Pemulutan",
+    "alias": "Pemulutan"
+  },
+  {
+    "code": "16.10.051",
+    "districtCode": "051",
+    "regencyCode": "16.10",
+    "provinceCode": "16",
+    "name": "Kecamatan Pemulutan Selatan",
+    "alias": "Pemulutan Selatan"
+  },
+  {
+    "code": "16.10.052",
+    "districtCode": "052",
+    "regencyCode": "16.10",
+    "provinceCode": "16",
+    "name": "Kecamatan Pemulutan Barat",
+    "alias": "Pemulutan Barat"
+  },
+  {
+    "code": "16.10.060",
+    "districtCode": "060",
+    "regencyCode": "16.10",
+    "provinceCode": "16",
+    "name": "Kecamatan Indralaya",
+    "alias": "Indralaya"
+  },
+  {
+    "code": "16.10.061",
+    "districtCode": "061",
+    "regencyCode": "16.10",
+    "provinceCode": "16",
+    "name": "Kecamatan Indralaya Utara",
+    "alias": "Indralaya Utara"
+  },
+  {
+    "code": "16.10.062",
+    "districtCode": "062",
+    "regencyCode": "16.10",
+    "provinceCode": "16",
+    "name": "Kecamatan Indralaya Selatan",
+    "alias": "Indralaya Selatan"
+  }
+]

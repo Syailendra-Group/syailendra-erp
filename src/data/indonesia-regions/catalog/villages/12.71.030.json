@@ -1,0 +1,30 @@
+[
+  {
+    "code": "12.71.030.003",
+    "villageCode": "003",
+    "districtCode": "12.71.030",
+    "name": "Aek Habil",
+    "alias": "Aek Habil"
+  },
+  {
+    "code": "12.71.030.006",
+    "villageCode": "006",
+    "districtCode": "12.71.030",
+    "name": "Aek Manis",
+    "alias": "Aek Manis"
+  },
+  {
+    "code": "12.71.030.007",
+    "villageCode": "007",
+    "districtCode": "12.71.030",
+    "name": "Aek Parombunan",
+    "alias": "Aek Parombunan"
+  },
+  {
+    "code": "12.71.030.008",
+    "villageCode": "008",
+    "districtCode": "12.71.030",
+    "name": "Aek Muara Pinang",
+    "alias": "Aek Muara Pinang"
+  }
+]

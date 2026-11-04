@@ -1,0 +1,58 @@
+[
+  {
+    "code": "52.03.031.002",
+    "villageCode": "002",
+    "districtCode": "52.03.031",
+    "name": "Kilang",
+    "alias": "Kilang"
+  },
+  {
+    "code": "52.03.031.003",
+    "villageCode": "003",
+    "districtCode": "52.03.031",
+    "name": "Montong Betok",
+    "alias": "Montong Betok"
+  },
+  {
+    "code": "52.03.031.004",
+    "villageCode": "004",
+    "districtCode": "52.03.031",
+    "name": "Pringgajurang",
+    "alias": "Pringgajurang"
+  },
+  {
+    "code": "52.03.031.005",
+    "villageCode": "005",
+    "districtCode": "52.03.031",
+    "name": "Perian",
+    "alias": "Perian"
+  },
+  {
+    "code": "52.03.031.006",
+    "villageCode": "006",
+    "districtCode": "52.03.031",
+    "name": "Jenggik Utara",
+    "alias": "Jenggik Utara"
+  },
+  {
+    "code": "52.03.031.007",
+    "villageCode": "007",
+    "districtCode": "52.03.031",
+    "name": "Pesanggrahan",
+    "alias": "Pesanggrahan"
+  },
+  {
+    "code": "52.03.031.008",
+    "villageCode": "008",
+    "districtCode": "52.03.031",
+    "name": "Pringgajurang Utara",
+    "alias": "Pringgajurang Utara"
+  },
+  {
+    "code": "52.03.031.009",
+    "villageCode": "009",
+    "districtCode": "52.03.031",
+    "name": "Lendang Belo",
+    "alias": "Lendang Belo"
+  }
+]

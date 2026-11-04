@@ -1,0 +1,66 @@
+[
+  {
+    "code": "11.18.010",
+    "districtCode": "010",
+    "regencyCode": "11.18",
+    "provinceCode": "11",
+    "name": "Kecamatan Meureudu",
+    "alias": "Meureudu"
+  },
+  {
+    "code": "11.18.020",
+    "districtCode": "020",
+    "regencyCode": "11.18",
+    "provinceCode": "11",
+    "name": "Kecamatan Meurah Dua",
+    "alias": "Meurah Dua"
+  },
+  {
+    "code": "11.18.030",
+    "districtCode": "030",
+    "regencyCode": "11.18",
+    "provinceCode": "11",
+    "name": "Kecamatan Bandar Dua",
+    "alias": "Bandar Dua"
+  },
+  {
+    "code": "11.18.040",
+    "districtCode": "040",
+    "regencyCode": "11.18",
+    "provinceCode": "11",
+    "name": "Kecamatan Jangka Buya",
+    "alias": "Jangka Buya"
+  },
+  {
+    "code": "11.18.050",
+    "districtCode": "050",
+    "regencyCode": "11.18",
+    "provinceCode": "11",
+    "name": "Kecamatan Ulim",
+    "alias": "Ulim"
+  },
+  {
+    "code": "11.18.060",
+    "districtCode": "060",
+    "regencyCode": "11.18",
+    "provinceCode": "11",
+    "name": "Kecamatan Trienggadeng",
+    "alias": "Trienggadeng"
+  },
+  {
+    "code": "11.18.070",
+    "districtCode": "070",
+    "regencyCode": "11.18",
+    "provinceCode": "11",
+    "name": "Kecamatan Panteraja",
+    "alias": "Panteraja"
+  },
+  {
+    "code": "11.18.080",
+    "districtCode": "080",
+    "regencyCode": "11.18",
+    "provinceCode": "11",
+    "name": "Kecamatan Bandar Baru",
+    "alias": "Bandar Baru"
+  }
+]

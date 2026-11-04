@@ -1,0 +1,50 @@
+[
+  {
+    "code": "82.07.010",
+    "districtCode": "010",
+    "regencyCode": "82.07",
+    "provinceCode": "82",
+    "name": "Kecamatan Morotai Selatan",
+    "alias": "Morotai Selatan"
+  },
+  {
+    "code": "82.07.020",
+    "districtCode": "020",
+    "regencyCode": "82.07",
+    "provinceCode": "82",
+    "name": "Kecamatan Morotai Timur",
+    "alias": "Morotai Timur"
+  },
+  {
+    "code": "82.07.030",
+    "districtCode": "030",
+    "regencyCode": "82.07",
+    "provinceCode": "82",
+    "name": "Kecamatan Morotai Selatan Barat",
+    "alias": "Morotai Selatan Barat"
+  },
+  {
+    "code": "82.07.031",
+    "districtCode": "031",
+    "regencyCode": "82.07",
+    "provinceCode": "82",
+    "name": "Kecamatan Pulau Rao",
+    "alias": "Pulau Rao"
+  },
+  {
+    "code": "82.07.040",
+    "districtCode": "040",
+    "regencyCode": "82.07",
+    "provinceCode": "82",
+    "name": "Kecamatan Morotai Jaya",
+    "alias": "Morotai Jaya"
+  },
+  {
+    "code": "82.07.050",
+    "districtCode": "050",
+    "regencyCode": "82.07",
+    "provinceCode": "82",
+    "name": "Kecamatan Morotai Utara",
+    "alias": "Morotai Utara"
+  }
+]

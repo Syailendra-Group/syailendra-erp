@@ -1,0 +1,82 @@
+[
+  {
+    "code": "64.01",
+    "regencyCode": "01",
+    "provinceCode": "64",
+    "provinceName": "Kalimantan Timur",
+    "name": "Kabupaten Paser",
+    "alias": "Paser"
+  },
+  {
+    "code": "64.02",
+    "regencyCode": "02",
+    "provinceCode": "64",
+    "provinceName": "Kalimantan Timur",
+    "name": "Kabupaten Kutai Barat",
+    "alias": "Kutai Barat"
+  },
+  {
+    "code": "64.03",
+    "regencyCode": "03",
+    "provinceCode": "64",
+    "provinceName": "Kalimantan Timur",
+    "name": "Kabupaten Kutai Kartanegara",
+    "alias": "Kutai Kartanegara"
+  },
+  {
+    "code": "64.04",
+    "regencyCode": "04",
+    "provinceCode": "64",
+    "provinceName": "Kalimantan Timur",
+    "name": "Kabupaten Kutai Timur",
+    "alias": "Kutai Timur"
+  },
+  {
+    "code": "64.05",
+    "regencyCode": "05",
+    "provinceCode": "64",
+    "provinceName": "Kalimantan Timur",
+    "name": "Kabupaten Berau",
+    "alias": "Berau"
+  },
+  {
+    "code": "64.09",
+    "regencyCode": "09",
+    "provinceCode": "64",
+    "provinceName": "Kalimantan Timur",
+    "name": "Kabupaten Penajam Paser Utara",
+    "alias": "Penajam Paser Utara"
+  },
+  {
+    "code": "64.11",
+    "regencyCode": "11",
+    "provinceCode": "64",
+    "provinceName": "Kalimantan Timur",
+    "name": "Kabupaten Mahakam Ulu",
+    "alias": "Mahakam Ulu"
+  },
+  {
+    "code": "64.71",
+    "regencyCode": "71",
+    "provinceCode": "64",
+    "provinceName": "Kalimantan Timur",
+    "name": "Kota Balikpapan",
+    "alias": "Balikpapan"
+  },
+  {
+    "code": "64.72",
+    "regencyCode": "72",
+    "provinceCode": "64",
+    "provinceName": "Kalimantan Timur",
+    "name": "Kota Samarinda",
+    "alias": "Samarinda"
+  },
+  {
+    "code": "64.74",
+    "regencyCode": "74",
+    "provinceCode": "64",
+    "provinceName": "Kalimantan Timur",
+    "name": "Kota Bontang",
+    "alias": "Bontang"
+  }
+]

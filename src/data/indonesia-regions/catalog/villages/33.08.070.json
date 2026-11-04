@@ -1,0 +1,100 @@
+[
+  {
+    "code": "33.08.070.001",
+    "villageCode": "001",
+    "districtCode": "33.08.070",
+    "name": "Tanjung",
+    "alias": "Tanjung"
+  },
+  {
+    "code": "33.08.070.002",
+    "villageCode": "002",
+    "districtCode": "33.08.070",
+    "name": "Sokorini",
+    "alias": "Sokorini"
+  },
+  {
+    "code": "33.08.070.003",
+    "villageCode": "003",
+    "districtCode": "33.08.070",
+    "name": "Sriwedari",
+    "alias": "Sriwedari"
+  },
+  {
+    "code": "33.08.070.004",
+    "villageCode": "004",
+    "districtCode": "33.08.070",
+    "name": "Congkrang",
+    "alias": "Congkrang"
+  },
+  {
+    "code": "33.08.070.005",
+    "villageCode": "005",
+    "districtCode": "33.08.070",
+    "name": "Adikarto",
+    "alias": "Adikarto"
+  },
+  {
+    "code": "33.08.070.006",
+    "villageCode": "006",
+    "districtCode": "33.08.070",
+    "name": "Menayu",
+    "alias": "Menayu"
+  },
+  {
+    "code": "33.08.070.007",
+    "villageCode": "007",
+    "districtCode": "33.08.070",
+    "name": "Keji",
+    "alias": "Keji"
+  },
+  {
+    "code": "33.08.070.008",
+    "villageCode": "008",
+    "districtCode": "33.08.070",
+    "name": "Ngawen",
+    "alias": "Ngawen"
+  },
+  {
+    "code": "33.08.070.009",
+    "villageCode": "009",
+    "districtCode": "33.08.070",
+    "name": "Gunungpring",
+    "alias": "Gunungpring"
+  },
+  {
+    "code": "33.08.070.010",
+    "villageCode": "010",
+    "districtCode": "33.08.070",
+    "name": "Pucungrejo",
+    "alias": "Pucungrejo"
+  },
+  {
+    "code": "33.08.070.011",
+    "villageCode": "011",
+    "districtCode": "33.08.070",
+    "name": "Tamanagung",
+    "alias": "Tamanagung"
+  },
+  {
+    "code": "33.08.070.012",
+    "villageCode": "012",
+    "districtCode": "33.08.070",
+    "name": "Gondosuli",
+    "alias": "Gondosuli"
+  },
+  {
+    "code": "33.08.070.013",
+    "villageCode": "013",
+    "districtCode": "33.08.070",
+    "name": "Sedayu",
+    "alias": "Sedayu"
+  },
+  {
+    "code": "33.08.070.014",
+    "villageCode": "014",
+    "districtCode": "33.08.070",
+    "name": "Muntilan",
+    "alias": "Muntilan"
+  }
+]

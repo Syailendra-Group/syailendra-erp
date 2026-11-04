@@ -1,0 +1,30 @@
+[
+  {
+    "code": "91.03.040.001",
+    "villageCode": "001",
+    "districtCode": "91.03.040",
+    "name": "Sobei",
+    "alias": "Sobei"
+  },
+  {
+    "code": "91.03.040.002",
+    "villageCode": "002",
+    "districtCode": "91.03.040",
+    "name": "Aisandami",
+    "alias": "Aisandami"
+  },
+  {
+    "code": "91.03.040.003",
+    "villageCode": "003",
+    "districtCode": "91.03.040",
+    "name": "Yopenggar",
+    "alias": "Yopenggar"
+  },
+  {
+    "code": "91.03.040.007",
+    "villageCode": "007",
+    "districtCode": "91.03.040",
+    "name": "Sobey Indah",
+    "alias": "Sobey Indah"
+  }
+]

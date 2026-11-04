@@ -1,0 +1,79 @@
+[
+  {
+    "code": "13.04.050.001",
+    "villageCode": "001",
+    "districtCode": "13.04.050",
+    "name": "Sungai Lansek",
+    "alias": "Sungai Lansek"
+  },
+  {
+    "code": "13.04.050.002",
+    "villageCode": "002",
+    "districtCode": "13.04.050",
+    "name": "Muaro Takung",
+    "alias": "Muaro Takung"
+  },
+  {
+    "code": "13.04.050.003",
+    "villageCode": "003",
+    "districtCode": "13.04.050",
+    "name": "Kunangan Parit Rantang",
+    "alias": "Kunangan Parit Rantang"
+  },
+  {
+    "code": "13.04.050.004",
+    "villageCode": "004",
+    "districtCode": "13.04.050",
+    "name": "Kamang",
+    "alias": "Kamang"
+  },
+  {
+    "code": "13.04.050.005",
+    "villageCode": "005",
+    "districtCode": "13.04.050",
+    "name": "Air Amo",
+    "alias": "Air Amo"
+  },
+  {
+    "code": "13.04.050.006",
+    "villageCode": "006",
+    "districtCode": "13.04.050",
+    "name": "Sungai Batuang",
+    "alias": "Sungai Batuang"
+  },
+  {
+    "code": "13.04.050.007",
+    "villageCode": "007",
+    "districtCode": "13.04.050",
+    "name": "Siaur",
+    "alias": "Siaur"
+  },
+  {
+    "code": "13.04.050.008",
+    "villageCode": "008",
+    "districtCode": "13.04.050",
+    "name": "Lubuk Tarantang",
+    "alias": "Lubuk Tarantang"
+  },
+  {
+    "code": "13.04.050.009",
+    "villageCode": "009",
+    "districtCode": "13.04.050",
+    "name": "Maloro",
+    "alias": "Maloro"
+  },
+  {
+    "code": "13.04.050.010",
+    "villageCode": "010",
+    "districtCode": "13.04.050",
+    "name": "Tanjung Kaliang",
+    "alias": "Tanjung Kaliang"
+  },
+  {
+    "code": "13.04.050.011",
+    "villageCode": "011",
+    "districtCode": "13.04.050",
+    "name": "Padang Tarok",
+    "alias": "Padang Tarok"
+  }
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "code": "12.21.010",
+    "districtCode": "010",
+    "regencyCode": "12.21",
+    "provinceCode": "12",
+    "name": "Kecamatan Sosopan",
+    "alias": "Sosopan"
+  },
+  {
+    "code": "12.21.020",
+    "districtCode": "020",
+    "regencyCode": "12.21",
+    "provinceCode": "12",
+    "name": "Kecamatan Ulu Barumun",
+    "alias": "Ulu Barumun"
+  },
+  {
+    "code": "12.21.030",
+    "districtCode": "030",
+    "regencyCode": "12.21",
+    "provinceCode": "12",
+    "name": "Kecamatan Barumun",
+    "alias": "Barumun"
+  },
+  {
+    "code": "12.21.031",
+    "districtCode": "031",
+    "regencyCode": "12.21",
+    "provinceCode": "12",
+    "name": "Kecamatan Barumun Selatan",
+    "alias": "Barumun Selatan"
+  },
+  {
+    "code": "12.21.032",
+    "districtCode": "032",
+    "regencyCode": "12.21",
+    "provinceCode": "12",
+    "name": "Kecamatan Barumun Baru",
+    "alias": "Barumun Baru"
+  },
+  {
+    "code": "12.21.040",
+    "districtCode": "040",
+    "regencyCode": "12.21",
+    "provinceCode": "12",
+    "name": "Kecamatan Lubuk Barumun",
+    "alias": "Lubuk Barumun"
+  },
+  {
+    "code": "12.21.050",
+    "districtCode": "050",
+    "regencyCode": "12.21",
+    "provinceCode": "12",
+    "name": "Kecamatan Sosa",
+    "alias": "Sosa"
+  },
+  {
+    "code": "12.21.051",
+    "districtCode": "051",
+    "regencyCode": "12.21",
+    "provinceCode": "12",
+    "name": "Kecamatan Ulu Sosa",
+    "alias": "Ulu Sosa"
+  },
+  {
+    "code": "12.21.052",
+    "districtCode": "052",
+    "regencyCode": "12.21",
+    "provinceCode": "12",
+    "name": "Kecamatan Sosa Julu",
+    "alias": "Sosa Julu"
+  },
+  {
+    "code": "12.21.060",
+    "districtCode": "060",
+    "regencyCode": "12.21",
+    "provinceCode": "12",
+    "name": "Kecamatan Batang Lubu Sutam",
+    "alias": "Batang Lubu Sutam"
+  },
+  {
+    "code": "12.21.070",
+    "districtCode": "070",
+    "regencyCode": "12.21",
+    "provinceCode": "12",
+    "name": "Kecamatan Huta Raja Tinggi",
+    "alias": "Huta Raja Tinggi"
+  },
+  {
+    "code": "12.21.071",
+    "districtCode": "071",
+    "regencyCode": "12.21",
+    "provinceCode": "12",
+    "name": "Kecamatan Sosa Timur",
+    "alias": "Sosa Timur"
+  },
+  {
+    "code": "12.21.080",
+    "districtCode": "080",
+    "regencyCode": "12.21",
+    "provinceCode": "12",
+    "name": "Kecamatan Huristak",
+    "alias": "Huristak"
+  },
+  {
+    "code": "12.21.090",
+    "districtCode": "090",
+    "regencyCode": "12.21",
+    "provinceCode": "12",
+    "name": "Kecamatan Barumun Tengah",
+    "alias": "Barumun Tengah"
+  },
+  {
+    "code": "12.21.091",
+    "districtCode": "091",
+    "regencyCode": "12.21",
+    "provinceCode": "12",
+    "name": "Kecamatan Aek Nabara Barumun",
+    "alias": "Aek Nabara Barumun"
+  },
+  {
+    "code": "12.21.092",
+    "districtCode": "092",
+    "regencyCode": "12.21",
+    "provinceCode": "12",
+    "name": "Kecamatan Sihapas Barumun",
+    "alias": "Sihapas Barumun"
+  },
+  {
+    "code": "12.21.093",
+    "districtCode": "093",
+    "regencyCode": "12.21",
+    "provinceCode": "12",
+    "name": "Kecamatan Barumun Barat",
+    "alias": "Barumun Barat"
+  }
+]

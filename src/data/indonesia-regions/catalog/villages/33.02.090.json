@@ -1,0 +1,65 @@
+[
+  {
+    "code": "33.02.090.001",
+    "villageCode": "001",
+    "districtCode": "33.02.090",
+    "name": "Tanggeran",
+    "alias": "Tanggeran"
+  },
+  {
+    "code": "33.02.090.002",
+    "villageCode": "002",
+    "districtCode": "33.02.090",
+    "name": "Sokawera",
+    "alias": "Sokawera"
+  },
+  {
+    "code": "33.02.090.003",
+    "villageCode": "003",
+    "districtCode": "33.02.090",
+    "name": "Somagede",
+    "alias": "Somagede"
+  },
+  {
+    "code": "33.02.090.004",
+    "villageCode": "004",
+    "districtCode": "33.02.090",
+    "name": "Klinting",
+    "alias": "Klinting"
+  },
+  {
+    "code": "33.02.090.005",
+    "villageCode": "005",
+    "districtCode": "33.02.090",
+    "name": "Kemawi",
+    "alias": "Kemawi"
+  },
+  {
+    "code": "33.02.090.006",
+    "villageCode": "006",
+    "districtCode": "33.02.090",
+    "name": "Piasa Kulon",
+    "alias": "Piasa Kulon"
+  },
+  {
+    "code": "33.02.090.007",
+    "villageCode": "007",
+    "districtCode": "33.02.090",
+    "name": "Kanding",
+    "alias": "Kanding"
+  },
+  {
+    "code": "33.02.090.008",
+    "villageCode": "008",
+    "districtCode": "33.02.090",
+    "name": "Somakaton",
+    "alias": "Somakaton"
+  },
+  {
+    "code": "33.02.090.009",
+    "villageCode": "009",
+    "districtCode": "33.02.090",
+    "name": "Plana",
+    "alias": "Plana"
+  }
+]

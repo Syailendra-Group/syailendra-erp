@@ -1,0 +1,65 @@
+[
+  {
+    "code": "35.08.170.001",
+    "villageCode": "001",
+    "districtCode": "35.08.170",
+    "name": "Wonokerto",
+    "alias": "Wonokerto"
+  },
+  {
+    "code": "35.08.170.002",
+    "villageCode": "002",
+    "districtCode": "35.08.170",
+    "name": "Pakel",
+    "alias": "Pakel"
+  },
+  {
+    "code": "35.08.170.003",
+    "villageCode": "003",
+    "districtCode": "35.08.170",
+    "name": "Kenongo",
+    "alias": "Kenongo"
+  },
+  {
+    "code": "35.08.170.004",
+    "villageCode": "004",
+    "districtCode": "35.08.170",
+    "name": "Gucialit",
+    "alias": "Gucialit"
+  },
+  {
+    "code": "35.08.170.005",
+    "villageCode": "005",
+    "districtCode": "35.08.170",
+    "name": "Dadapan",
+    "alias": "Dadapan"
+  },
+  {
+    "code": "35.08.170.006",
+    "villageCode": "006",
+    "districtCode": "35.08.170",
+    "name": "Kertowono",
+    "alias": "Kertowono"
+  },
+  {
+    "code": "35.08.170.007",
+    "villageCode": "007",
+    "districtCode": "35.08.170",
+    "name": "Tunjung",
+    "alias": "Tunjung"
+  },
+  {
+    "code": "35.08.170.008",
+    "villageCode": "008",
+    "districtCode": "35.08.170",
+    "name": "Jeruk",
+    "alias": "Jeruk"
+  },
+  {
+    "code": "35.08.170.009",
+    "villageCode": "009",
+    "districtCode": "35.08.170",
+    "name": "Sombo",
+    "alias": "Sombo"
+  }
+]

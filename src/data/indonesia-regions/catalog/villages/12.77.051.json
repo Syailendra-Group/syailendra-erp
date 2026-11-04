@@ -1,0 +1,58 @@
+[
+  {
+    "code": "12.77.051.001",
+    "villageCode": "001",
+    "districtCode": "12.77.051",
+    "name": "Simatohir",
+    "alias": "Simatohir"
+  },
+  {
+    "code": "12.77.051.002",
+    "villageCode": "002",
+    "districtCode": "12.77.051",
+    "name": "Rimba Soping",
+    "alias": "Rimba Soping"
+  },
+  {
+    "code": "12.77.051.003",
+    "villageCode": "003",
+    "districtCode": "12.77.051",
+    "name": "Mompang",
+    "alias": "Mompang"
+  },
+  {
+    "code": "12.77.051.004",
+    "villageCode": "004",
+    "districtCode": "12.77.051",
+    "name": "Batu Layan",
+    "alias": "Batu Layan"
+  },
+  {
+    "code": "12.77.051.005",
+    "villageCode": "005",
+    "districtCode": "12.77.051",
+    "name": "Joring Lombang",
+    "alias": "Joring Lombang"
+  },
+  {
+    "code": "12.77.051.006",
+    "villageCode": "006",
+    "districtCode": "12.77.051",
+    "name": "Joring Natobang",
+    "alias": "Joring Natobang"
+  },
+  {
+    "code": "12.77.051.007",
+    "villageCode": "007",
+    "districtCode": "12.77.051",
+    "name": "Simasom",
+    "alias": "Simasom"
+  },
+  {
+    "code": "12.77.051.008",
+    "villageCode": "008",
+    "districtCode": "12.77.051",
+    "name": "Pintu Langit Jae",
+    "alias": "Pintu Langit Jae"
+  }
+]

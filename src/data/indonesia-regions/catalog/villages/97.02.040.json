@@ -1,0 +1,44 @@
+[
+  {
+    "code": "97.02.040.001",
+    "villageCode": "001",
+    "districtCode": "97.02.040",
+    "name": "Trikora",
+    "alias": "Trikora"
+  },
+  {
+    "code": "97.02.040.002",
+    "villageCode": "002",
+    "districtCode": "97.02.040",
+    "name": "Nanggo",
+    "alias": "Nanggo"
+  },
+  {
+    "code": "97.02.040.003",
+    "villageCode": "003",
+    "districtCode": "97.02.040",
+    "name": "Dinggilmo",
+    "alias": "Dinggilmo"
+  },
+  {
+    "code": "97.02.040.004",
+    "villageCode": "004",
+    "districtCode": "97.02.040",
+    "name": "Kora Jaya",
+    "alias": "Kora Jaya"
+  },
+  {
+    "code": "97.02.040.005",
+    "villageCode": "005",
+    "districtCode": "97.02.040",
+    "name": "Korambirik",
+    "alias": "Korambirik"
+  },
+  {
+    "code": "97.02.040.006",
+    "villageCode": "006",
+    "districtCode": "97.02.040",
+    "name": "Anggulpa",
+    "alias": "Anggulpa"
+  }
+]

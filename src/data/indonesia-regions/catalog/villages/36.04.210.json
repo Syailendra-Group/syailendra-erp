@@ -1,0 +1,79 @@
+[
+  {
+    "code": "36.04.210.001",
+    "villageCode": "001",
+    "districtCode": "36.04.210",
+    "name": "Wanakarta",
+    "alias": "Wanakarta"
+  },
+  {
+    "code": "36.04.210.002",
+    "villageCode": "002",
+    "districtCode": "36.04.210",
+    "name": "Kertasana",
+    "alias": "Kertasana"
+  },
+  {
+    "code": "36.04.210.003",
+    "villageCode": "003",
+    "districtCode": "36.04.210",
+    "name": "Mangkunegara",
+    "alias": "Mangkunegara"
+  },
+  {
+    "code": "36.04.210.004",
+    "villageCode": "004",
+    "districtCode": "36.04.210",
+    "name": "Karangkepuh",
+    "alias": "Karangkepuh"
+  },
+  {
+    "code": "36.04.210.005",
+    "villageCode": "005",
+    "districtCode": "36.04.210",
+    "name": "Lambangsari",
+    "alias": "Lambangsari"
+  },
+  {
+    "code": "36.04.210.006",
+    "villageCode": "006",
+    "districtCode": "36.04.210",
+    "name": "Bojonegara",
+    "alias": "Bojonegara"
+  },
+  {
+    "code": "36.04.210.007",
+    "villageCode": "007",
+    "districtCode": "36.04.210",
+    "name": "Margagiri",
+    "alias": "Margagiri"
+  },
+  {
+    "code": "36.04.210.008",
+    "villageCode": "008",
+    "districtCode": "36.04.210",
+    "name": "Ukirsari",
+    "alias": "Ukirsari"
+  },
+  {
+    "code": "36.04.210.009",
+    "villageCode": "009",
+    "districtCode": "36.04.210",
+    "name": "Pakuncen",
+    "alias": "Pakuncen"
+  },
+  {
+    "code": "36.04.210.010",
+    "villageCode": "010",
+    "districtCode": "36.04.210",
+    "name": "Pengarengan",
+    "alias": "Pengarengan"
+  },
+  {
+    "code": "36.04.210.011",
+    "villageCode": "011",
+    "districtCode": "36.04.210",
+    "name": "Mekar  Jaya",
+    "alias": "Mekar  Jaya"
+  }
+]

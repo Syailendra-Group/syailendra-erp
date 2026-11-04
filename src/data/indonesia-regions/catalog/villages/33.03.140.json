@@ -1,0 +1,93 @@
+[
+  {
+    "code": "33.03.140.001",
+    "villageCode": "001",
+    "districtCode": "33.03.140",
+    "name": "Kaliori",
+    "alias": "Kaliori"
+  },
+  {
+    "code": "33.03.140.005",
+    "villageCode": "005",
+    "districtCode": "33.03.140",
+    "name": "Kalijaran",
+    "alias": "Kalijaran"
+  },
+  {
+    "code": "33.03.140.006",
+    "villageCode": "006",
+    "districtCode": "33.03.140",
+    "name": "Karanganyar",
+    "alias": "Karanganyar"
+  },
+  {
+    "code": "33.03.140.007",
+    "villageCode": "007",
+    "districtCode": "33.03.140",
+    "name": "Banjarkerta",
+    "alias": "Banjarkerta"
+  },
+  {
+    "code": "33.03.140.008",
+    "villageCode": "008",
+    "districtCode": "33.03.140",
+    "name": "Karanggedang",
+    "alias": "Karanggedang"
+  },
+  {
+    "code": "33.03.140.009",
+    "villageCode": "009",
+    "districtCode": "33.03.140",
+    "name": "Kabunderan",
+    "alias": "Kabunderan"
+  },
+  {
+    "code": "33.03.140.010",
+    "villageCode": "010",
+    "districtCode": "33.03.140",
+    "name": "Jambudesa",
+    "alias": "Jambudesa"
+  },
+  {
+    "code": "33.03.140.016",
+    "villageCode": "016",
+    "districtCode": "33.03.140",
+    "name": "Maribaya",
+    "alias": "Maribaya"
+  },
+  {
+    "code": "33.03.140.017",
+    "villageCode": "017",
+    "districtCode": "33.03.140",
+    "name": "Bungkanel",
+    "alias": "Bungkanel"
+  },
+  {
+    "code": "33.03.140.018",
+    "villageCode": "018",
+    "districtCode": "33.03.140",
+    "name": "Lumpang",
+    "alias": "Lumpang"
+  },
+  {
+    "code": "33.03.140.019",
+    "villageCode": "019",
+    "districtCode": "33.03.140",
+    "name": "Buara",
+    "alias": "Buara"
+  },
+  {
+    "code": "33.03.140.020",
+    "villageCode": "020",
+    "districtCode": "33.03.140",
+    "name": "Brakas",
+    "alias": "Brakas"
+  },
+  {
+    "code": "33.03.140.021",
+    "villageCode": "021",
+    "districtCode": "33.03.140",
+    "name": "Ponjen",
+    "alias": "Ponjen"
+  }
+]

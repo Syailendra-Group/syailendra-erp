@@ -1,0 +1,79 @@
+[
+  {
+    "code": "71.09.051.001",
+    "villageCode": "001",
+    "districtCode": "71.09.051",
+    "name": "Molompar Satu",
+    "alias": "Molompar Satu"
+  },
+  {
+    "code": "71.09.051.002",
+    "villageCode": "002",
+    "districtCode": "71.09.051",
+    "name": "Molompar",
+    "alias": "Molompar"
+  },
+  {
+    "code": "71.09.051.003",
+    "villageCode": "003",
+    "districtCode": "71.09.051",
+    "name": "Molompar Atas",
+    "alias": "Molompar Atas"
+  },
+  {
+    "code": "71.09.051.004",
+    "villageCode": "004",
+    "districtCode": "71.09.051",
+    "name": "Molompar Dua",
+    "alias": "Molompar Dua"
+  },
+  {
+    "code": "71.09.051.005",
+    "villageCode": "005",
+    "districtCode": "71.09.051",
+    "name": "Molompar Dua Utara",
+    "alias": "Molompar Dua Utara"
+  },
+  {
+    "code": "71.09.051.006",
+    "villageCode": "006",
+    "districtCode": "71.09.051",
+    "name": "Molompar Dua Selatan",
+    "alias": "Molompar Dua Selatan"
+  },
+  {
+    "code": "71.09.051.007",
+    "villageCode": "007",
+    "districtCode": "71.09.051",
+    "name": "Esandom",
+    "alias": "Esandom"
+  },
+  {
+    "code": "71.09.051.008",
+    "villageCode": "008",
+    "districtCode": "71.09.051",
+    "name": "Esandom Satu",
+    "alias": "Esandom Satu"
+  },
+  {
+    "code": "71.09.051.009",
+    "villageCode": "009",
+    "districtCode": "71.09.051",
+    "name": "Esandom Dua",
+    "alias": "Esandom Dua"
+  },
+  {
+    "code": "71.09.051.010",
+    "villageCode": "010",
+    "districtCode": "71.09.051",
+    "name": "Mundung",
+    "alias": "Mundung"
+  },
+  {
+    "code": "71.09.051.011",
+    "villageCode": "011",
+    "districtCode": "71.09.051",
+    "name": "Mundung Satu",
+    "alias": "Mundung Satu"
+  }
+]

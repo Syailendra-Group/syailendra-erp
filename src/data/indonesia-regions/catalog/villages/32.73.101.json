@@ -1,0 +1,30 @@
+[
+  {
+    "code": "32.73.101.001",
+    "villageCode": "001",
+    "districtCode": "32.73.101",
+    "name": "Rancabolang",
+    "alias": "Rancabolang"
+  },
+  {
+    "code": "32.73.101.002",
+    "villageCode": "002",
+    "districtCode": "32.73.101",
+    "name": "Rancanumpang",
+    "alias": "Rancanumpang"
+  },
+  {
+    "code": "32.73.101.003",
+    "villageCode": "003",
+    "districtCode": "32.73.101",
+    "name": "Cisaranten Kidul",
+    "alias": "Cisaranten Kidul"
+  },
+  {
+    "code": "32.73.101.004",
+    "villageCode": "004",
+    "districtCode": "32.73.101",
+    "name": "Cimincrang",
+    "alias": "Cimincrang"
+  }
+]

@@ -1,0 +1,194 @@
+[
+  {
+    "code": "18.04.010",
+    "districtCode": "010",
+    "regencyCode": "18.04",
+    "provinceCode": "18",
+    "name": "Kecamatan Metro Kibang",
+    "alias": "Metro Kibang"
+  },
+  {
+    "code": "18.04.020",
+    "districtCode": "020",
+    "regencyCode": "18.04",
+    "provinceCode": "18",
+    "name": "Kecamatan Batanghari",
+    "alias": "Batanghari"
+  },
+  {
+    "code": "18.04.030",
+    "districtCode": "030",
+    "regencyCode": "18.04",
+    "provinceCode": "18",
+    "name": "Kecamatan Sekampung",
+    "alias": "Sekampung"
+  },
+  {
+    "code": "18.04.040",
+    "districtCode": "040",
+    "regencyCode": "18.04",
+    "provinceCode": "18",
+    "name": "Kecamatan Margatiga",
+    "alias": "Margatiga"
+  },
+  {
+    "code": "18.04.050",
+    "districtCode": "050",
+    "regencyCode": "18.04",
+    "provinceCode": "18",
+    "name": "Kecamatan Sekampung Udik",
+    "alias": "Sekampung Udik"
+  },
+  {
+    "code": "18.04.060",
+    "districtCode": "060",
+    "regencyCode": "18.04",
+    "provinceCode": "18",
+    "name": "Kecamatan Jabung",
+    "alias": "Jabung"
+  },
+  {
+    "code": "18.04.061",
+    "districtCode": "061",
+    "regencyCode": "18.04",
+    "provinceCode": "18",
+    "name": "Kecamatan Pasir Sakti",
+    "alias": "Pasir Sakti"
+  },
+  {
+    "code": "18.04.062",
+    "districtCode": "062",
+    "regencyCode": "18.04",
+    "provinceCode": "18",
+    "name": "Kecamatan Waway Karya",
+    "alias": "Waway Karya"
+  },
+  {
+    "code": "18.04.063",
+    "districtCode": "063",
+    "regencyCode": "18.04",
+    "provinceCode": "18",
+    "name": "Kecamatan Marga Sekampung",
+    "alias": "Marga Sekampung"
+  },
+  {
+    "code": "18.04.070",
+    "districtCode": "070",
+    "regencyCode": "18.04",
+    "provinceCode": "18",
+    "name": "Kecamatan Labuhan Maringgai",
+    "alias": "Labuhan Maringgai"
+  },
+  {
+    "code": "18.04.071",
+    "districtCode": "071",
+    "regencyCode": "18.04",
+    "provinceCode": "18",
+    "name": "Kecamatan Mataram Baru",
+    "alias": "Mataram Baru"
+  },
+  {
+    "code": "18.04.072",
+    "districtCode": "072",
+    "regencyCode": "18.04",
+    "provinceCode": "18",
+    "name": "Kecamatan Bandar Sribhawono",
+    "alias": "Bandar Sribhawono"
+  },
+  {
+    "code": "18.04.073",
+    "districtCode": "073",
+    "regencyCode": "18.04",
+    "provinceCode": "18",
+    "name": "Kecamatan Melinting",
+    "alias": "Melinting"
+  },
+  {
+    "code": "18.04.074",
+    "districtCode": "074",
+    "regencyCode": "18.04",
+    "provinceCode": "18",
+    "name": "Kecamatan Gunung Pelindung",
+    "alias": "Gunung Pelindung"
+  },
+  {
+    "code": "18.04.080",
+    "districtCode": "080",
+    "regencyCode": "18.04",
+    "provinceCode": "18",
+    "name": "Kecamatan Way Jepara",
+    "alias": "Way Jepara"
+  },
+  {
+    "code": "18.04.081",
+    "districtCode": "081",
+    "regencyCode": "18.04",
+    "provinceCode": "18",
+    "name": "Kecamatan Braja Slebah",
+    "alias": "Braja Slebah"
+  },
+  {
+    "code": "18.04.082",
+    "districtCode": "082",
+    "regencyCode": "18.04",
+    "provinceCode": "18",
+    "name": "Kecamatan Labuhan Ratu",
+    "alias": "Labuhan Ratu"
+  },
+  {
+    "code": "18.04.090",
+    "districtCode": "090",
+    "regencyCode": "18.04",
+    "provinceCode": "18",
+    "name": "Kecamatan Sukadana",
+    "alias": "Sukadana"
+  },
+  {
+    "code": "18.04.091",
+    "districtCode": "091",
+    "regencyCode": "18.04",
+    "provinceCode": "18",
+    "name": "Kecamatan Bumi Agung",
+    "alias": "Bumi Agung"
+  },
+  {
+    "code": "18.04.092",
+    "districtCode": "092",
+    "regencyCode": "18.04",
+    "provinceCode": "18",
+    "name": "Kecamatan Batanghari Nuban",
+    "alias": "Batanghari Nuban"
+  },
+  {
+    "code": "18.04.100",
+    "districtCode": "100",
+    "regencyCode": "18.04",
+    "provinceCode": "18",
+    "name": "Kecamatan Pekalongan",
+    "alias": "Pekalongan"
+  },
+  {
+    "code": "18.04.110",
+    "districtCode": "110",
+    "regencyCode": "18.04",
+    "provinceCode": "18",
+    "name": "Kecamatan Raman Utara",
+    "alias": "Raman Utara"
+  },
+  {
+    "code": "18.04.120",
+    "districtCode": "120",
+    "regencyCode": "18.04",
+    "provinceCode": "18",
+    "name": "Kecamatan Purbolinggo",
+    "alias": "Purbolinggo"
+  },
+  {
+    "code": "18.04.121",
+    "districtCode": "121",
+    "regencyCode": "18.04",
+    "provinceCode": "18",
+    "name": "Kecamatan Way Bungur",
+    "alias": "Way Bungur"
+  }
+]

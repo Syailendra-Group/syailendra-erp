@@ -1,0 +1,30 @@
+[
+  {
+    "code": "12.71.031.001",
+    "villageCode": "001",
+    "districtCode": "12.71.031",
+    "name": "Pancuran Pinang",
+    "alias": "Pancuran Pinang"
+  },
+  {
+    "code": "12.71.031.002",
+    "villageCode": "002",
+    "districtCode": "12.71.031",
+    "name": "Pancuran Kerambil",
+    "alias": "Pancuran Kerambil"
+  },
+  {
+    "code": "12.71.031.003",
+    "villageCode": "003",
+    "districtCode": "12.71.031",
+    "name": "Pancuran Dewa",
+    "alias": "Pancuran Dewa"
+  },
+  {
+    "code": "12.71.031.004",
+    "villageCode": "004",
+    "districtCode": "12.71.031",
+    "name": "Pancuran Bambu",
+    "alias": "Pancuran Bambu"
+  }
+]

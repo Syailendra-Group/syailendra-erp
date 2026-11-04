@@ -1,0 +1,72 @@
+[
+  {
+    "code": "97.08.010.001",
+    "villageCode": "001",
+    "districtCode": "97.08.010",
+    "name": "Ulkubi",
+    "alias": "Ulkubi"
+  },
+  {
+    "code": "97.08.010.002",
+    "villageCode": "002",
+    "districtCode": "97.08.010",
+    "name": "Walapkubun",
+    "alias": "Walapkubun"
+  },
+  {
+    "code": "97.08.010.003",
+    "villageCode": "003",
+    "districtCode": "97.08.010",
+    "name": "Iwur",
+    "alias": "Iwur"
+  },
+  {
+    "code": "97.08.010.004",
+    "villageCode": "004",
+    "districtCode": "97.08.010",
+    "name": "Kurumkin",
+    "alias": "Kurumkin"
+  },
+  {
+    "code": "97.08.010.005",
+    "villageCode": "005",
+    "districtCode": "97.08.010",
+    "name": "Dinmot Arim",
+    "alias": "Dinmot Arim"
+  },
+  {
+    "code": "97.08.010.006",
+    "villageCode": "006",
+    "districtCode": "97.08.010",
+    "name": "Ewenkatop",
+    "alias": "Ewenkatop"
+  },
+  {
+    "code": "97.08.010.007",
+    "villageCode": "007",
+    "districtCode": "97.08.010",
+    "name": "Namger",
+    "alias": "Namger"
+  },
+  {
+    "code": "97.08.010.008",
+    "villageCode": "008",
+    "districtCode": "97.08.010",
+    "name": "Kamyoim",
+    "alias": "Kamyoim"
+  },
+  {
+    "code": "97.08.010.009",
+    "villageCode": "009",
+    "districtCode": "97.08.010",
+    "name": "Dipol",
+    "alias": "Dipol"
+  },
+  {
+    "code": "97.08.010.010",
+    "villageCode": "010",
+    "districtCode": "97.08.010",
+    "name": "Nenginum",
+    "alias": "Nenginum"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "code": "36.02.091.001",
+    "villageCode": "001",
+    "districtCode": "36.02.091",
+    "name": "Parakanlima",
+    "alias": "Parakanlima"
+  },
+  {
+    "code": "36.02.091.002",
+    "villageCode": "002",
+    "districtCode": "36.02.091",
+    "name": "Kadudamas",
+    "alias": "Kadudamas"
+  },
+  {
+    "code": "36.02.091.003",
+    "villageCode": "003",
+    "districtCode": "36.02.091",
+    "name": "Datarcae",
+    "alias": "Datarcae"
+  },
+  {
+    "code": "36.02.091.004",
+    "villageCode": "004",
+    "districtCode": "36.02.091",
+    "name": "Karoya",
+    "alias": "Karoya"
+  },
+  {
+    "code": "36.02.091.005",
+    "villageCode": "005",
+    "districtCode": "36.02.091",
+    "name": "Nangerang",
+    "alias": "Nangerang"
+  },
+  {
+    "code": "36.02.091.006",
+    "villageCode": "006",
+    "districtCode": "36.02.091",
+    "name": "Cirinten",
+    "alias": "Cirinten"
+  },
+  {
+    "code": "36.02.091.007",
+    "villageCode": "007",
+    "districtCode": "36.02.091",
+    "name": "Karangnunggal",
+    "alias": "Karangnunggal"
+  },
+  {
+    "code": "36.02.091.008",
+    "villageCode": "008",
+    "districtCode": "36.02.091",
+    "name": "Cempaka",
+    "alias": "Cempaka"
+  },
+  {
+    "code": "36.02.091.009",
+    "villageCode": "009",
+    "districtCode": "36.02.091",
+    "name": "Badur",
+    "alias": "Badur"
+  },
+  {
+    "code": "36.02.091.010",
+    "villageCode": "010",
+    "districtCode": "36.02.091",
+    "name": "Cibarani",
+    "alias": "Cibarani"
+  }
+]

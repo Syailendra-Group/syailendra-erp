@@ -1,0 +1,93 @@
+[
+  {
+    "code": "71.01.081.001",
+    "villageCode": "001",
+    "districtCode": "71.01.081",
+    "name": "Muntoi",
+    "alias": "Muntoi"
+  },
+  {
+    "code": "71.01.081.002",
+    "villageCode": "002",
+    "districtCode": "71.01.081",
+    "name": "Inuai",
+    "alias": "Inuai"
+  },
+  {
+    "code": "71.01.081.003",
+    "villageCode": "003",
+    "districtCode": "71.01.081",
+    "name": "Poyuyanan",
+    "alias": "Poyuyanan"
+  },
+  {
+    "code": "71.01.081.004",
+    "villageCode": "004",
+    "districtCode": "71.01.081",
+    "name": "Lobong",
+    "alias": "Lobong"
+  },
+  {
+    "code": "71.01.081.005",
+    "villageCode": "005",
+    "districtCode": "71.01.081",
+    "name": "Passi",
+    "alias": "Passi"
+  },
+  {
+    "code": "71.01.081.006",
+    "villageCode": "006",
+    "districtCode": "71.01.081",
+    "name": "Wangga",
+    "alias": "Wangga"
+  },
+  {
+    "code": "71.01.081.007",
+    "villageCode": "007",
+    "districtCode": "71.01.081",
+    "name": "Otam",
+    "alias": "Otam"
+  },
+  {
+    "code": "71.01.081.008",
+    "villageCode": "008",
+    "districtCode": "71.01.081",
+    "name": "Bulud",
+    "alias": "Bulud"
+  },
+  {
+    "code": "71.01.081.009",
+    "villageCode": "009",
+    "districtCode": "71.01.081",
+    "name": "Bintau",
+    "alias": "Bintau"
+  },
+  {
+    "code": "71.01.081.010",
+    "villageCode": "010",
+    "districtCode": "71.01.081",
+    "name": "Passi Ii",
+    "alias": "Passi Ii"
+  },
+  {
+    "code": "71.01.081.011",
+    "villageCode": "011",
+    "districtCode": "71.01.081",
+    "name": "Muntoi Timur",
+    "alias": "Muntoi Timur"
+  },
+  {
+    "code": "71.01.081.012",
+    "villageCode": "012",
+    "districtCode": "71.01.081",
+    "name": "Wangga I",
+    "alias": "Wangga I"
+  },
+  {
+    "code": "71.01.081.013",
+    "villageCode": "013",
+    "districtCode": "71.01.081",
+    "name": "Otam Barat",
+    "alias": "Otam Barat"
+  }
+]

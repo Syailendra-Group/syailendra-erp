@@ -1,0 +1,58 @@
+[
+  {
+    "code": "15.08.042.001",
+    "villageCode": "001",
+    "districtCode": "15.08.042",
+    "name": "Pinang Belai",
+    "alias": "Pinang Belai"
+  },
+  {
+    "code": "15.08.042.002",
+    "villageCode": "002",
+    "districtCode": "15.08.042",
+    "name": "Sekutur Jaya",
+    "alias": "Sekutur Jaya"
+  },
+  {
+    "code": "15.08.042.003",
+    "villageCode": "003",
+    "districtCode": "15.08.042",
+    "name": "Bukit Pemuatan",
+    "alias": "Bukit Pemuatan"
+  },
+  {
+    "code": "15.08.042.004",
+    "villageCode": "004",
+    "districtCode": "15.08.042",
+    "name": "Napal Putih",
+    "alias": "Napal Putih"
+  },
+  {
+    "code": "15.08.042.005",
+    "villageCode": "005",
+    "districtCode": "15.08.042",
+    "name": "Sako Makmur",
+    "alias": "Sako Makmur"
+  },
+  {
+    "code": "15.08.042.006",
+    "villageCode": "006",
+    "districtCode": "15.08.042",
+    "name": "Pagar Puding Lamo",
+    "alias": "Pagar Puding Lamo"
+  },
+  {
+    "code": "15.08.042.007",
+    "villageCode": "007",
+    "districtCode": "15.08.042",
+    "name": "Tanjung Aur Seberang",
+    "alias": "Tanjung Aur Seberang"
+  },
+  {
+    "code": "15.08.042.008",
+    "villageCode": "008",
+    "districtCode": "15.08.042",
+    "name": "Teluk Melintang",
+    "alias": "Teluk Melintang"
+  }
+]

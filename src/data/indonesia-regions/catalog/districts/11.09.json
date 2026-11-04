@@ -1,0 +1,186 @@
+[
+  {
+    "code": "11.09.010",
+    "districtCode": "010",
+    "regencyCode": "11.09",
+    "provinceCode": "11",
+    "name": "Kecamatan Geumpang",
+    "alias": "Geumpang"
+  },
+  {
+    "code": "11.09.011",
+    "districtCode": "011",
+    "regencyCode": "11.09",
+    "provinceCode": "11",
+    "name": "Kecamatan Mane",
+    "alias": "Mane"
+  },
+  {
+    "code": "11.09.070",
+    "districtCode": "070",
+    "regencyCode": "11.09",
+    "provinceCode": "11",
+    "name": "Kecamatan Glumpang Tiga",
+    "alias": "Glumpang Tiga"
+  },
+  {
+    "code": "11.09.071",
+    "districtCode": "071",
+    "regencyCode": "11.09",
+    "provinceCode": "11",
+    "name": "Kecamatan Glumpang Baro",
+    "alias": "Glumpang Baro"
+  },
+  {
+    "code": "11.09.080",
+    "districtCode": "080",
+    "regencyCode": "11.09",
+    "provinceCode": "11",
+    "name": "Kecamatan Mutiara",
+    "alias": "Mutiara"
+  },
+  {
+    "code": "11.09.081",
+    "districtCode": "081",
+    "regencyCode": "11.09",
+    "provinceCode": "11",
+    "name": "Kecamatan Mutiara Timur",
+    "alias": "Mutiara Timur"
+  },
+  {
+    "code": "11.09.090",
+    "districtCode": "090",
+    "regencyCode": "11.09",
+    "provinceCode": "11",
+    "name": "Kecamatan Tiro/Truseb",
+    "alias": "Tiro/Truseb"
+  },
+  {
+    "code": "11.09.100",
+    "districtCode": "100",
+    "regencyCode": "11.09",
+    "provinceCode": "11",
+    "name": "Kecamatan Tangse",
+    "alias": "Tangse"
+  },
+  {
+    "code": "11.09.111",
+    "districtCode": "111",
+    "regencyCode": "11.09",
+    "provinceCode": "11",
+    "name": "Kecamatan Keumala",
+    "alias": "Keumala"
+  },
+  {
+    "code": "11.09.112",
+    "districtCode": "112",
+    "regencyCode": "11.09",
+    "provinceCode": "11",
+    "name": "Kecamatan Titeue",
+    "alias": "Titeue"
+  },
+  {
+    "code": "11.09.120",
+    "districtCode": "120",
+    "regencyCode": "11.09",
+    "provinceCode": "11",
+    "name": "Kecamatan Sakti",
+    "alias": "Sakti"
+  },
+  {
+    "code": "11.09.130",
+    "districtCode": "130",
+    "regencyCode": "11.09",
+    "provinceCode": "11",
+    "name": "Kecamatan Mila",
+    "alias": "Mila"
+  },
+  {
+    "code": "11.09.140",
+    "districtCode": "140",
+    "regencyCode": "11.09",
+    "provinceCode": "11",
+    "name": "Kecamatan Padang Tiji",
+    "alias": "Padang Tiji"
+  },
+  {
+    "code": "11.09.150",
+    "districtCode": "150",
+    "regencyCode": "11.09",
+    "provinceCode": "11",
+    "name": "Kecamatan Delima",
+    "alias": "Delima"
+  },
+  {
+    "code": "11.09.151",
+    "districtCode": "151",
+    "regencyCode": "11.09",
+    "provinceCode": "11",
+    "name": "Kecamatan Grong Grong",
+    "alias": "Grong Grong"
+  },
+  {
+    "code": "11.09.160",
+    "districtCode": "160",
+    "regencyCode": "11.09",
+    "provinceCode": "11",
+    "name": "Kecamatan Indrajaya",
+    "alias": "Indrajaya"
+  },
+  {
+    "code": "11.09.170",
+    "districtCode": "170",
+    "regencyCode": "11.09",
+    "provinceCode": "11",
+    "name": "Kecamatan Peukan Baro",
+    "alias": "Peukan Baro"
+  },
+  {
+    "code": "11.09.180",
+    "districtCode": "180",
+    "regencyCode": "11.09",
+    "provinceCode": "11",
+    "name": "Kecamatan Kembang Tanjong",
+    "alias": "Kembang Tanjong"
+  },
+  {
+    "code": "11.09.190",
+    "districtCode": "190",
+    "regencyCode": "11.09",
+    "provinceCode": "11",
+    "name": "Kecamatan Simpang Tiga",
+    "alias": "Simpang Tiga"
+  },
+  {
+    "code": "11.09.200",
+    "districtCode": "200",
+    "regencyCode": "11.09",
+    "provinceCode": "11",
+    "name": "Kecamatan Kota Sigli",
+    "alias": "Kota Sigli"
+  },
+  {
+    "code": "11.09.210",
+    "districtCode": "210",
+    "regencyCode": "11.09",
+    "provinceCode": "11",
+    "name": "Kecamatan Pidie",
+    "alias": "Pidie"
+  },
+  {
+    "code": "11.09.220",
+    "districtCode": "220",
+    "regencyCode": "11.09",
+    "provinceCode": "11",
+    "name": "Kecamatan Batee",
+    "alias": "Batee"
+  },
+  {
+    "code": "11.09.230",
+    "districtCode": "230",
+    "regencyCode": "11.09",
+    "provinceCode": "11",
+    "name": "Kecamatan Muara Tiga",
+    "alias": "Muara Tiga"
+  }
+]

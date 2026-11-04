@@ -1,0 +1,98 @@
+[
+  {
+    "code": "72.01.030",
+    "districtCode": "030",
+    "regencyCode": "72.01",
+    "provinceCode": "72",
+    "name": "Kecamatan Totikum",
+    "alias": "Totikum"
+  },
+  {
+    "code": "72.01.031",
+    "districtCode": "031",
+    "regencyCode": "72.01",
+    "provinceCode": "72",
+    "name": "Kecamatan Totikum Selatan",
+    "alias": "Totikum Selatan"
+  },
+  {
+    "code": "72.01.040",
+    "districtCode": "040",
+    "regencyCode": "72.01",
+    "provinceCode": "72",
+    "name": "Kecamatan Tinangkung",
+    "alias": "Tinangkung"
+  },
+  {
+    "code": "72.01.041",
+    "districtCode": "041",
+    "regencyCode": "72.01",
+    "provinceCode": "72",
+    "name": "Kecamatan Tinangkung Selatan",
+    "alias": "Tinangkung Selatan"
+  },
+  {
+    "code": "72.01.042",
+    "districtCode": "042",
+    "regencyCode": "72.01",
+    "provinceCode": "72",
+    "name": "Kecamatan Tinangkung Utara",
+    "alias": "Tinangkung Utara"
+  },
+  {
+    "code": "72.01.050",
+    "districtCode": "050",
+    "regencyCode": "72.01",
+    "provinceCode": "72",
+    "name": "Kecamatan Liang",
+    "alias": "Liang"
+  },
+  {
+    "code": "72.01.051",
+    "districtCode": "051",
+    "regencyCode": "72.01",
+    "provinceCode": "72",
+    "name": "Kecamatan Peling Tengah",
+    "alias": "Peling Tengah"
+  },
+  {
+    "code": "72.01.060",
+    "districtCode": "060",
+    "regencyCode": "72.01",
+    "provinceCode": "72",
+    "name": "Kecamatan Bulagi",
+    "alias": "Bulagi"
+  },
+  {
+    "code": "72.01.061",
+    "districtCode": "061",
+    "regencyCode": "72.01",
+    "provinceCode": "72",
+    "name": "Kecamatan Bulagi Selatan",
+    "alias": "Bulagi Selatan"
+  },
+  {
+    "code": "72.01.062",
+    "districtCode": "062",
+    "regencyCode": "72.01",
+    "provinceCode": "72",
+    "name": "Kecamatan Bulagi Utara",
+    "alias": "Bulagi Utara"
+  },
+  {
+    "code": "72.01.070",
+    "districtCode": "070",
+    "regencyCode": "72.01",
+    "provinceCode": "72",
+    "name": "Kecamatan Buko",
+    "alias": "Buko"
+  },
+  {
+    "code": "72.01.071",
+    "districtCode": "071",
+    "regencyCode": "72.01",
+    "provinceCode": "72",
+    "name": "Kecamatan Buko Selatan",
+    "alias": "Buko Selatan"
+  }
+]

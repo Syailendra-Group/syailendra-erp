@@ -1,0 +1,51 @@
+[
+  {
+    "code": "94.26.014.001",
+    "villageCode": "001",
+    "districtCode": "94.26.014",
+    "name": "Wapoga",
+    "alias": "Wapoga"
+  },
+  {
+    "code": "94.26.014.002",
+    "villageCode": "002",
+    "districtCode": "94.26.014",
+    "name": "Awera",
+    "alias": "Awera"
+  },
+  {
+    "code": "94.26.014.003",
+    "villageCode": "003",
+    "districtCode": "94.26.014",
+    "name": "Pirare",
+    "alias": "Pirare"
+  },
+  {
+    "code": "94.26.014.004",
+    "villageCode": "004",
+    "districtCode": "94.26.014",
+    "name": "Syewa/Mirare",
+    "alias": "Syewa/Mirare"
+  },
+  {
+    "code": "94.26.014.005",
+    "villageCode": "005",
+    "districtCode": "94.26.014",
+    "name": "Dokis",
+    "alias": "Dokis"
+  },
+  {
+    "code": "94.26.014.006",
+    "villageCode": "006",
+    "districtCode": "94.26.014",
+    "name": "Kamarisano",
+    "alias": "Kamarisano"
+  },
+  {
+    "code": "94.26.014.007",
+    "villageCode": "007",
+    "districtCode": "94.26.014",
+    "name": "Waweri",
+    "alias": "Waweri"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "code": "17.07.021.001",
+    "villageCode": "001",
+    "districtCode": "17.07.021",
+    "name": "Karang Dapo Atas",
+    "alias": "Karang Dapo Atas"
+  },
+  {
+    "code": "17.07.021.002",
+    "villageCode": "002",
+    "districtCode": "17.07.021",
+    "name": "Bukit Nibung",
+    "alias": "Bukit Nibung"
+  },
+  {
+    "code": "17.07.021.003",
+    "villageCode": "003",
+    "districtCode": "17.07.021",
+    "name": "Karang Dapo Bawah",
+    "alias": "Karang Dapo Bawah"
+  },
+  {
+    "code": "17.07.021.004",
+    "villageCode": "004",
+    "districtCode": "17.07.021",
+    "name": "Pungguk Pedaro",
+    "alias": "Pungguk Pedaro"
+  },
+  {
+    "code": "17.07.021.005",
+    "villageCode": "005",
+    "districtCode": "17.07.021",
+    "name": "Talang Kerinci",
+    "alias": "Talang Kerinci"
+  },
+  {
+    "code": "17.07.021.006",
+    "villageCode": "006",
+    "districtCode": "17.07.021",
+    "name": "Pelabuhan Talang Liak",
+    "alias": "Pelabuhan Talang Liak"
+  },
+  {
+    "code": "17.07.021.007",
+    "villageCode": "007",
+    "districtCode": "17.07.021",
+    "name": "Talang Liak I",
+    "alias": "Talang Liak I"
+  },
+  {
+    "code": "17.07.021.008",
+    "villageCode": "008",
+    "districtCode": "17.07.021",
+    "name": "Talang Liak Ii",
+    "alias": "Talang Liak Ii"
+  },
+  {
+    "code": "17.07.021.009",
+    "villageCode": "009",
+    "districtCode": "17.07.021",
+    "name": "Bungin",
+    "alias": "Bungin"
+  }
+]

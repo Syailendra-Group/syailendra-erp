@@ -1,0 +1,79 @@
+[
+  {
+    "code": "71.04.050.004",
+    "villageCode": "004",
+    "districtCode": "71.04.050",
+    "name": "Nunu",
+    "alias": "Nunu"
+  },
+  {
+    "code": "71.04.050.005",
+    "villageCode": "005",
+    "districtCode": "71.04.050",
+    "name": "Rainis",
+    "alias": "Rainis"
+  },
+  {
+    "code": "71.04.050.006",
+    "villageCode": "006",
+    "districtCode": "71.04.050",
+    "name": "Bantane",
+    "alias": "Bantane"
+  },
+  {
+    "code": "71.04.050.007",
+    "villageCode": "007",
+    "districtCode": "71.04.050",
+    "name": "Tabang",
+    "alias": "Tabang"
+  },
+  {
+    "code": "71.04.050.008",
+    "villageCode": "008",
+    "districtCode": "71.04.050",
+    "name": "Alo",
+    "alias": "Alo"
+  },
+  {
+    "code": "71.04.050.009",
+    "villageCode": "009",
+    "districtCode": "71.04.050",
+    "name": "Alo Utara",
+    "alias": "Alo Utara"
+  },
+  {
+    "code": "71.04.050.010",
+    "villageCode": "010",
+    "districtCode": "71.04.050",
+    "name": "Perangen",
+    "alias": "Perangen"
+  },
+  {
+    "code": "71.04.050.011",
+    "villageCode": "011",
+    "districtCode": "71.04.050",
+    "name": "Nunu Utara",
+    "alias": "Nunu Utara"
+  },
+  {
+    "code": "71.04.050.012",
+    "villageCode": "012",
+    "districtCode": "71.04.050",
+    "name": "Rainis Batu Penga",
+    "alias": "Rainis Batu Penga"
+  },
+  {
+    "code": "71.04.050.013",
+    "villageCode": "013",
+    "districtCode": "71.04.050",
+    "name": "Bantane Utara",
+    "alias": "Bantane Utara"
+  },
+  {
+    "code": "71.04.050.014",
+    "villageCode": "014",
+    "districtCode": "71.04.050",
+    "name": "Tabang Barat",
+    "alias": "Tabang Barat"
+  }
+]

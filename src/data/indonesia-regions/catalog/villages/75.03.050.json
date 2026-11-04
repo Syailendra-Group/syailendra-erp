@@ -1,0 +1,79 @@
+[
+  {
+    "code": "75.03.050.001",
+    "villageCode": "001",
+    "districtCode": "75.03.050",
+    "name": "Libuo",
+    "alias": "Libuo"
+  },
+  {
+    "code": "75.03.050.002",
+    "villageCode": "002",
+    "districtCode": "75.03.050",
+    "name": "Pentadu",
+    "alias": "Pentadu"
+  },
+  {
+    "code": "75.03.050.003",
+    "villageCode": "003",
+    "districtCode": "75.03.050",
+    "name": "Siduan",
+    "alias": "Siduan"
+  },
+  {
+    "code": "75.03.050.004",
+    "villageCode": "004",
+    "districtCode": "75.03.050",
+    "name": "Bunuyo",
+    "alias": "Bunuyo"
+  },
+  {
+    "code": "75.03.050.005",
+    "villageCode": "005",
+    "districtCode": "75.03.050",
+    "name": "Sipayo",
+    "alias": "Sipayo"
+  },
+  {
+    "code": "75.03.050.006",
+    "villageCode": "006",
+    "districtCode": "75.03.050",
+    "name": "Soginti",
+    "alias": "Soginti"
+  },
+  {
+    "code": "75.03.050.010",
+    "villageCode": "010",
+    "districtCode": "75.03.050",
+    "name": "Maleo",
+    "alias": "Maleo"
+  },
+  {
+    "code": "75.03.050.011",
+    "villageCode": "011",
+    "districtCode": "75.03.050",
+    "name": "Bumbulan",
+    "alias": "Bumbulan"
+  },
+  {
+    "code": "75.03.050.012",
+    "villageCode": "012",
+    "districtCode": "75.03.050",
+    "name": "Buhu Jaya",
+    "alias": "Buhu Jaya"
+  },
+  {
+    "code": "75.03.050.013",
+    "villageCode": "013",
+    "districtCode": "75.03.050",
+    "name": "Molamahu",
+    "alias": "Molamahu"
+  },
+  {
+    "code": "75.03.050.014",
+    "villageCode": "014",
+    "districtCode": "75.03.050",
+    "name": "Kemiri",
+    "alias": "Kemiri"
+  }
+]

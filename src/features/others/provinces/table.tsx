@@ -7,7 +7,7 @@ import { useTranslations } from 'next-intl'
 import { DataTablePagination, DataTableSkeleton, DataTableToolbar } from '@/components/data-table'
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '@/components/ui/table'
 import { useProvince } from '@/contexts/others/province.context'
-import { useProvincesPaginatedQuery } from '@/hooks/others/use-provinces'
+import { useProvinceFilterOptionsQuery, useProvincesPaginatedQuery } from '@/hooks/others/use-provinces'
 import { useDataTableUrlState } from '@/hooks/use-data-table-url-state'
 import { cn } from '@/lib/utils'
 
@@ -15,6 +15,8 @@ import { getColumns } from './columns'
 
 import type { ProvinceRecord } from '@/types/others/province'
 import type { ReactElement } from 'react'
+
+const FILTER_KEYS = ['scope', 'country']
 
 export function ProvincesTable(): ReactElement {
   const t = useTranslations('regional.provinces')
@@ -31,6 +33,7 @@ export function ProvincesTable(): ReactElement {
     sorting,
     columnFilters,
     isUpdating,
+    getArrayFilter,
     resetFilters,
     onPaginationChange,
     onSortingChange,
@@ -38,10 +41,16 @@ export function ProvincesTable(): ReactElement {
     createColumnFiltersHandler
   } = useDataTableUrlState({
     defaultSort: 'name.asc',
-    filterKeys: []
+    filterKeys: FILTER_KEYS
   })
 
-  // 2. Fetch paginated data from Odoo
+  // 2. Fetch filter options (system countries with registered provinces)
+  const { data: filterOptions } = useProvinceFilterOptionsQuery()
+
+  const scopeFilter = getArrayFilter('scope')
+  const countryFilter = getArrayFilter('country')
+
+  // 3. Fetch paginated data from Odoo
   const {
     data: result,
     isLoading,
@@ -50,6 +59,8 @@ export function ProvincesTable(): ReactElement {
     page,
     perPage,
     search,
+    scope: scopeFilter.length > 0 ? scopeFilter : undefined,
+    countryId: countryFilter.length > 0 ? countryFilter : undefined,
     order: orderOdoo
   })
 
@@ -73,7 +84,7 @@ export function ProvincesTable(): ReactElement {
     [t, tCommon, setCurrentRow, setOpen]
   )
 
-  // 3. TanStack Table Instance
+  // 4. TanStack Table Instance
   const table = useReactTable({
     data: provinces,
     columns,
@@ -90,16 +101,53 @@ export function ProvincesTable(): ReactElement {
     onPaginationChange,
     onSortingChange,
     onGlobalFilterChange,
-    onColumnFiltersChange: createColumnFiltersHandler([]),
+    onColumnFiltersChange: createColumnFiltersHandler(FILTER_KEYS),
     getCoreRowModel: getCoreRowModel()
   })
+
+  const scopeOptions = useMemo(
+    () => [
+      { label: 'Indonesia (Domestik)', value: 'domestic' },
+      { label: 'Luar Negeri (Internasional)', value: 'foreign' }
+    ],
+    []
+  )
+
+  const countryFilterOptions = useMemo(
+    () =>
+      (filterOptions?.countries || []).map((c) => ({
+        label: c.name,
+        value: String(c.id)
+      })),
+    [filterOptions?.countries]
+  )
 
   const showSkeleton = isLoading || (isFetching && provinces.length === 0)
   const isTableRefreshing = isFetching || isUpdating
 
   return (
     <div className="space-y-4">
-      <DataTableToolbar table={table} searchPlaceholder={tCommon('actions.search')} onReset={resetFilters} />
+      <DataTableToolbar
+        table={table}
+        searchPlaceholder={tCommon('actions.search')}
+        onReset={resetFilters}
+        filters={[
+          {
+            columnId: 'scope',
+            title: 'Cakupan Wilayah',
+            options: scopeOptions
+          },
+          ...(countryFilterOptions.length > 0
+            ? [
+                {
+                  columnId: 'country',
+                  title: 'Negara',
+                  options: countryFilterOptions
+                }
+              ]
+            : [])
+        ]}
+      />
 
       <div className="bg-card relative overflow-hidden rounded-md border-0 shadow-xs">
         {isTableRefreshing && !showSkeleton && (

@@ -1,0 +1,72 @@
+[
+  {
+    "code": "52.04.140.001",
+    "villageCode": "001",
+    "districtCode": "52.04.140",
+    "name": "Boal",
+    "alias": "Boal"
+  },
+  {
+    "code": "52.04.140.002",
+    "villageCode": "002",
+    "districtCode": "52.04.140",
+    "name": "Empang Atas",
+    "alias": "Empang Atas"
+  },
+  {
+    "code": "52.04.140.003",
+    "villageCode": "003",
+    "districtCode": "52.04.140",
+    "name": "Jotang",
+    "alias": "Jotang"
+  },
+  {
+    "code": "52.04.140.005",
+    "villageCode": "005",
+    "districtCode": "52.04.140",
+    "name": "Ongko",
+    "alias": "Ongko"
+  },
+  {
+    "code": "52.04.140.007",
+    "villageCode": "007",
+    "districtCode": "52.04.140",
+    "name": "Empang Bawa",
+    "alias": "Empang Bawa"
+  },
+  {
+    "code": "52.04.140.011",
+    "villageCode": "011",
+    "districtCode": "52.04.140",
+    "name": "Lamenta",
+    "alias": "Lamenta"
+  },
+  {
+    "code": "52.04.140.013",
+    "villageCode": "013",
+    "districtCode": "52.04.140",
+    "name": "Gapit",
+    "alias": "Gapit"
+  },
+  {
+    "code": "52.04.140.014",
+    "villageCode": "014",
+    "districtCode": "52.04.140",
+    "name": "Pamanto",
+    "alias": "Pamanto"
+  },
+  {
+    "code": "52.04.140.015",
+    "villageCode": "015",
+    "districtCode": "52.04.140",
+    "name": "Jotang Beru",
+    "alias": "Jotang Beru"
+  },
+  {
+    "code": "52.04.140.016",
+    "villageCode": "016",
+    "districtCode": "52.04.140",
+    "name": "Bunga Eja",
+    "alias": "Bunga Eja"
+  }
+]

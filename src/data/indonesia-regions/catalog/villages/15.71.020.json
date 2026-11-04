@@ -1,0 +1,37 @@
+[
+  {
+    "code": "15.71.020.003",
+    "villageCode": "003",
+    "districtCode": "15.71.020",
+    "name": "Pasir Putih",
+    "alias": "Pasir Putih"
+  },
+  {
+    "code": "15.71.020.004",
+    "villageCode": "004",
+    "districtCode": "15.71.020",
+    "name": "Wijaya Pura",
+    "alias": "Wijaya Pura"
+  },
+  {
+    "code": "15.71.020.005",
+    "villageCode": "005",
+    "districtCode": "15.71.020",
+    "name": "Pakuan Baru",
+    "alias": "Pakuan Baru"
+  },
+  {
+    "code": "15.71.020.006",
+    "villageCode": "006",
+    "districtCode": "15.71.020",
+    "name": "Tambak Sari",
+    "alias": "Tambak Sari"
+  },
+  {
+    "code": "15.71.020.007",
+    "villageCode": "007",
+    "districtCode": "15.71.020",
+    "name": "Thehok",
+    "alias": "Thehok"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "code": "32.13.200.009",
+    "villageCode": "009",
+    "districtCode": "32.13.200",
+    "name": "Pusakaratu",
+    "alias": "Pusakaratu"
+  },
+  {
+    "code": "32.13.200.010",
+    "villageCode": "010",
+    "districtCode": "32.13.200",
+    "name": "Gempol",
+    "alias": "Gempol"
+  },
+  {
+    "code": "32.13.200.011",
+    "villageCode": "011",
+    "districtCode": "32.13.200",
+    "name": "Kalentambo",
+    "alias": "Kalentambo"
+  },
+  {
+    "code": "32.13.200.012",
+    "villageCode": "012",
+    "districtCode": "32.13.200",
+    "name": "Kotasari",
+    "alias": "Kotasari"
+  },
+  {
+    "code": "32.13.200.013",
+    "villageCode": "013",
+    "districtCode": "32.13.200",
+    "name": "Rancadaka",
+    "alias": "Rancadaka"
+  },
+  {
+    "code": "32.13.200.014",
+    "villageCode": "014",
+    "districtCode": "32.13.200",
+    "name": "Patimban",
+    "alias": "Patimban"
+  },
+  {
+    "code": "32.13.200.015",
+    "villageCode": "015",
+    "districtCode": "32.13.200",
+    "name": "Mundusari",
+    "alias": "Mundusari"
+  }
+]

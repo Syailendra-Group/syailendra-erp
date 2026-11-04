@@ -1,0 +1,72 @@
+[
+  {
+    "code": "72.02.082.001",
+    "villageCode": "001",
+    "districtCode": "72.02.082",
+    "name": "Kampangar",
+    "alias": "Kampangar"
+  },
+  {
+    "code": "72.02.082.002",
+    "villageCode": "002",
+    "districtCode": "72.02.082",
+    "name": "Teku",
+    "alias": "Teku"
+  },
+  {
+    "code": "72.02.082.003",
+    "villageCode": "003",
+    "districtCode": "72.02.082",
+    "name": "Ondoliang",
+    "alias": "Ondoliang"
+  },
+  {
+    "code": "72.02.082.004",
+    "villageCode": "004",
+    "districtCode": "72.02.082",
+    "name": "Batusimpang",
+    "alias": "Batusimpang"
+  },
+  {
+    "code": "72.02.082.005",
+    "villageCode": "005",
+    "districtCode": "72.02.082",
+    "name": "Pangkalaseang",
+    "alias": "Pangkalaseang"
+  },
+  {
+    "code": "72.02.082.006",
+    "villageCode": "006",
+    "districtCode": "72.02.082",
+    "name": "Pangkalaseang Baru",
+    "alias": "Pangkalaseang Baru"
+  },
+  {
+    "code": "72.02.082.007",
+    "villageCode": "007",
+    "districtCode": "72.02.082",
+    "name": "Kuntang",
+    "alias": "Kuntang"
+  },
+  {
+    "code": "72.02.082.008",
+    "villageCode": "008",
+    "districtCode": "72.02.082",
+    "name": "Toweer",
+    "alias": "Toweer"
+  },
+  {
+    "code": "72.02.082.009",
+    "villageCode": "009",
+    "districtCode": "72.02.082",
+    "name": "Batu Mandi",
+    "alias": "Batu Mandi"
+  },
+  {
+    "code": "72.02.082.010",
+    "villageCode": "010",
+    "districtCode": "72.02.082",
+    "name": "Pulau Dua",
+    "alias": "Pulau Dua"
+  }
+]

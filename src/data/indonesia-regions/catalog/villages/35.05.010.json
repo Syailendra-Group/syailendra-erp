@@ -1,0 +1,79 @@
+[
+  {
+    "code": "35.05.010.001",
+    "villageCode": "001",
+    "districtCode": "35.05.010",
+    "name": "Plandirejo",
+    "alias": "Plandirejo"
+  },
+  {
+    "code": "35.05.010.002",
+    "villageCode": "002",
+    "districtCode": "35.05.010",
+    "name": "Tumpakoyot",
+    "alias": "Tumpakoyot"
+  },
+  {
+    "code": "35.05.010.003",
+    "villageCode": "003",
+    "districtCode": "35.05.010",
+    "name": "Bululawang",
+    "alias": "Bululawang"
+  },
+  {
+    "code": "35.05.010.004",
+    "villageCode": "004",
+    "districtCode": "35.05.010",
+    "name": "Sidomulyo",
+    "alias": "Sidomulyo"
+  },
+  {
+    "code": "35.05.010.005",
+    "villageCode": "005",
+    "districtCode": "35.05.010",
+    "name": "Tumpakkepuh",
+    "alias": "Tumpakkepuh"
+  },
+  {
+    "code": "35.05.010.006",
+    "villageCode": "006",
+    "districtCode": "35.05.010",
+    "name": "Lorejo",
+    "alias": "Lorejo"
+  },
+  {
+    "code": "35.05.010.007",
+    "villageCode": "007",
+    "districtCode": "35.05.010",
+    "name": "Kedungbanteng",
+    "alias": "Kedungbanteng"
+  },
+  {
+    "code": "35.05.010.008",
+    "villageCode": "008",
+    "districtCode": "35.05.010",
+    "name": "Bakung",
+    "alias": "Bakung"
+  },
+  {
+    "code": "35.05.010.009",
+    "villageCode": "009",
+    "districtCode": "35.05.010",
+    "name": "Sumberdadi",
+    "alias": "Sumberdadi"
+  },
+  {
+    "code": "35.05.010.010",
+    "villageCode": "010",
+    "districtCode": "35.05.010",
+    "name": "Pulerejo",
+    "alias": "Pulerejo"
+  },
+  {
+    "code": "35.05.010.011",
+    "villageCode": "011",
+    "districtCode": "35.05.010",
+    "name": "Ngrejo",
+    "alias": "Ngrejo"
+  }
+]

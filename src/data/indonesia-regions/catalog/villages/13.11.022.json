@@ -1,0 +1,30 @@
+[
+  {
+    "code": "13.11.022.001",
+    "villageCode": "001",
+    "districtCode": "13.11.022",
+    "name": "Koto Beringin",
+    "alias": "Koto Beringin"
+  },
+  {
+    "code": "13.11.022.002",
+    "villageCode": "002",
+    "districtCode": "13.11.022",
+    "name": "Sipangkur",
+    "alias": "Sipangkur"
+  },
+  {
+    "code": "13.11.022.003",
+    "villageCode": "003",
+    "districtCode": "13.11.022",
+    "name": "Sungai Langkok",
+    "alias": "Sungai Langkok"
+  },
+  {
+    "code": "13.11.022.004",
+    "villageCode": "004",
+    "districtCode": "13.11.022",
+    "name": "Tiumang",
+    "alias": "Tiumang"
+  }
+]

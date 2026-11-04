@@ -1,0 +1,178 @@
+[
+  {
+    "code": "74.06.010",
+    "districtCode": "010",
+    "regencyCode": "74.06",
+    "provinceCode": "74",
+    "name": "Kecamatan Kabaena",
+    "alias": "Kabaena"
+  },
+  {
+    "code": "74.06.011",
+    "districtCode": "011",
+    "regencyCode": "74.06",
+    "provinceCode": "74",
+    "name": "Kecamatan Kabaena Utara",
+    "alias": "Kabaena Utara"
+  },
+  {
+    "code": "74.06.012",
+    "districtCode": "012",
+    "regencyCode": "74.06",
+    "provinceCode": "74",
+    "name": "Kecamatan Kabaena Selatan",
+    "alias": "Kabaena Selatan"
+  },
+  {
+    "code": "74.06.013",
+    "districtCode": "013",
+    "regencyCode": "74.06",
+    "provinceCode": "74",
+    "name": "Kecamatan Kabaena Barat",
+    "alias": "Kabaena Barat"
+  },
+  {
+    "code": "74.06.020",
+    "districtCode": "020",
+    "regencyCode": "74.06",
+    "provinceCode": "74",
+    "name": "Kecamatan Kabaena Timur",
+    "alias": "Kabaena Timur"
+  },
+  {
+    "code": "74.06.021",
+    "districtCode": "021",
+    "regencyCode": "74.06",
+    "provinceCode": "74",
+    "name": "Kecamatan Kabaena Tengah",
+    "alias": "Kabaena Tengah"
+  },
+  {
+    "code": "74.06.030",
+    "districtCode": "030",
+    "regencyCode": "74.06",
+    "provinceCode": "74",
+    "name": "Kecamatan Rumbia",
+    "alias": "Rumbia"
+  },
+  {
+    "code": "74.06.031",
+    "districtCode": "031",
+    "regencyCode": "74.06",
+    "provinceCode": "74",
+    "name": "Kecamatan Mata Oleo",
+    "alias": "Mata Oleo"
+  },
+  {
+    "code": "74.06.032",
+    "districtCode": "032",
+    "regencyCode": "74.06",
+    "provinceCode": "74",
+    "name": "Kecamatan Kep. Masaloka Raya",
+    "alias": "Kep. Masaloka Raya"
+  },
+  {
+    "code": "74.06.033",
+    "districtCode": "033",
+    "regencyCode": "74.06",
+    "provinceCode": "74",
+    "name": "Kecamatan Rumbia Tengah",
+    "alias": "Rumbia Tengah"
+  },
+  {
+    "code": "74.06.040",
+    "districtCode": "040",
+    "regencyCode": "74.06",
+    "provinceCode": "74",
+    "name": "Kecamatan Rarowatu",
+    "alias": "Rarowatu"
+  },
+  {
+    "code": "74.06.041",
+    "districtCode": "041",
+    "regencyCode": "74.06",
+    "provinceCode": "74",
+    "name": "Kecamatan Rarowatu Utara",
+    "alias": "Rarowatu Utara"
+  },
+  {
+    "code": "74.06.042",
+    "districtCode": "042",
+    "regencyCode": "74.06",
+    "provinceCode": "74",
+    "name": "Kecamatan Mata Usu",
+    "alias": "Mata Usu"
+  },
+  {
+    "code": "74.06.043",
+    "districtCode": "043",
+    "regencyCode": "74.06",
+    "provinceCode": "74",
+    "name": "Kecamatan Lantari Jaya",
+    "alias": "Lantari Jaya"
+  },
+  {
+    "code": "74.06.050",
+    "districtCode": "050",
+    "regencyCode": "74.06",
+    "provinceCode": "74",
+    "name": "Kecamatan Poleang Timur",
+    "alias": "Poleang Timur"
+  },
+  {
+    "code": "74.06.051",
+    "districtCode": "051",
+    "regencyCode": "74.06",
+    "provinceCode": "74",
+    "name": "Kecamatan Poleang Utara",
+    "alias": "Poleang Utara"
+  },
+  {
+    "code": "74.06.052",
+    "districtCode": "052",
+    "regencyCode": "74.06",
+    "provinceCode": "74",
+    "name": "Kecamatan Poleang Selatan",
+    "alias": "Poleang Selatan"
+  },
+  {
+    "code": "74.06.053",
+    "districtCode": "053",
+    "regencyCode": "74.06",
+    "provinceCode": "74",
+    "name": "Kecamatan Poleang Tenggara",
+    "alias": "Poleang Tenggara"
+  },
+  {
+    "code": "74.06.060",
+    "districtCode": "060",
+    "regencyCode": "74.06",
+    "provinceCode": "74",
+    "name": "Kecamatan Poleang",
+    "alias": "Poleang"
+  },
+  {
+    "code": "74.06.061",
+    "districtCode": "061",
+    "regencyCode": "74.06",
+    "provinceCode": "74",
+    "name": "Kecamatan Poleang Barat",
+    "alias": "Poleang Barat"
+  },
+  {
+    "code": "74.06.062",
+    "districtCode": "062",
+    "regencyCode": "74.06",
+    "provinceCode": "74",
+    "name": "Kecamatan Tontonunu",
+    "alias": "Tontonunu"
+  },
+  {
+    "code": "74.06.063",
+    "districtCode": "063",
+    "regencyCode": "74.06",
+    "provinceCode": "74",
+    "name": "Kecamatan Poleang Tengah",
+    "alias": "Poleang Tengah"
+  }
+]

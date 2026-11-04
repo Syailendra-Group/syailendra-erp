@@ -1,0 +1,107 @@
+[
+  {
+    "code": "12.22.050.001",
+    "villageCode": "001",
+    "districtCode": "12.22.050",
+    "name": "Perlabian",
+    "alias": "Perlabian"
+  },
+  {
+    "code": "12.22.050.002",
+    "villageCode": "002",
+    "districtCode": "12.22.050",
+    "name": "Perkebunan Perlabian",
+    "alias": "Perkebunan Perlabian"
+  },
+  {
+    "code": "12.22.050.003",
+    "villageCode": "003",
+    "districtCode": "12.22.050",
+    "name": "Pekan Tolan",
+    "alias": "Pekan Tolan"
+  },
+  {
+    "code": "12.22.050.004",
+    "villageCode": "004",
+    "districtCode": "12.22.050",
+    "name": "Perkebunan Tolan I/Ii",
+    "alias": "Perkebunan Tolan I/Ii"
+  },
+  {
+    "code": "12.22.050.005",
+    "villageCode": "005",
+    "districtCode": "12.22.050",
+    "name": "Air Merah",
+    "alias": "Air Merah"
+  },
+  {
+    "code": "12.22.050.006",
+    "villageCode": "006",
+    "districtCode": "12.22.050",
+    "name": "Perkebunan Batang Seponggol",
+    "alias": "Perkebunan Batang Seponggol"
+  },
+  {
+    "code": "12.22.050.007",
+    "villageCode": "007",
+    "districtCode": "12.22.050",
+    "name": "Perkebunan Teluk Panji",
+    "alias": "Perkebunan Teluk Panji"
+  },
+  {
+    "code": "12.22.050.008",
+    "villageCode": "008",
+    "districtCode": "12.22.050",
+    "name": "Teluk Panji I",
+    "alias": "Teluk Panji I"
+  },
+  {
+    "code": "12.22.050.009",
+    "villageCode": "009",
+    "districtCode": "12.22.050",
+    "name": "Teluk Panji Ii",
+    "alias": "Teluk Panji Ii"
+  },
+  {
+    "code": "12.22.050.010",
+    "villageCode": "010",
+    "districtCode": "12.22.050",
+    "name": "Teluk Panji Iii",
+    "alias": "Teluk Panji Iii"
+  },
+  {
+    "code": "12.22.050.011",
+    "villageCode": "011",
+    "districtCode": "12.22.050",
+    "name": "Teluk Panji Iv",
+    "alias": "Teluk Panji Iv"
+  },
+  {
+    "code": "12.22.050.012",
+    "villageCode": "012",
+    "districtCode": "12.22.050",
+    "name": "Teluk Panji",
+    "alias": "Teluk Panji"
+  },
+  {
+    "code": "12.22.050.013",
+    "villageCode": "013",
+    "districtCode": "12.22.050",
+    "name": "Tanjung Medan",
+    "alias": "Tanjung Medan"
+  },
+  {
+    "code": "12.22.050.014",
+    "villageCode": "014",
+    "districtCode": "12.22.050",
+    "name": "Tanjung Selamat",
+    "alias": "Tanjung Selamat"
+  },
+  {
+    "code": "12.22.050.015",
+    "villageCode": "015",
+    "districtCode": "12.22.050",
+    "name": "Tanjung Mulia",
+    "alias": "Tanjung Mulia"
+  }
+]

@@ -1,0 +1,163 @@
+[
+  {
+    "code": "13.02.110.001",
+    "villageCode": "001",
+    "districtCode": "13.02.110",
+    "name": "Kapuh",
+    "alias": "Kapuh"
+  },
+  {
+    "code": "13.02.110.002",
+    "villageCode": "002",
+    "districtCode": "13.02.110",
+    "name": "Ampang Pulai",
+    "alias": "Ampang Pulai"
+  },
+  {
+    "code": "13.02.110.003",
+    "villageCode": "003",
+    "districtCode": "13.02.110",
+    "name": "Nanggalo",
+    "alias": "Nanggalo"
+  },
+  {
+    "code": "13.02.110.004",
+    "villageCode": "004",
+    "districtCode": "13.02.110",
+    "name": "Batu Hampar",
+    "alias": "Batu Hampar"
+  },
+  {
+    "code": "13.02.110.005",
+    "villageCode": "005",
+    "districtCode": "13.02.110",
+    "name": "Duku",
+    "alias": "Duku"
+  },
+  {
+    "code": "13.02.110.006",
+    "villageCode": "006",
+    "districtCode": "13.02.110",
+    "name": "Barung Barung Balantai",
+    "alias": "Barung Barung Balantai"
+  },
+  {
+    "code": "13.02.110.007",
+    "villageCode": "007",
+    "districtCode": "13.02.110",
+    "name": "Sungai Pinang",
+    "alias": "Sungai Pinang"
+  },
+  {
+    "code": "13.02.110.008",
+    "villageCode": "008",
+    "districtCode": "13.02.110",
+    "name": "Siguntur",
+    "alias": "Siguntur"
+  },
+  {
+    "code": "13.02.110.009",
+    "villageCode": "009",
+    "districtCode": "13.02.110",
+    "name": "Taratak Sungai Lundang",
+    "alias": "Taratak Sungai Lundang"
+  },
+  {
+    "code": "13.02.110.010",
+    "villageCode": "010",
+    "districtCode": "13.02.110",
+    "name": "Kapuh Utara",
+    "alias": "Kapuh Utara"
+  },
+  {
+    "code": "13.02.110.011",
+    "villageCode": "011",
+    "districtCode": "13.02.110",
+    "name": "Mandeh",
+    "alias": "Mandeh"
+  },
+  {
+    "code": "13.02.110.012",
+    "villageCode": "012",
+    "districtCode": "13.02.110",
+    "name": "Barung Barung Balantai Selatan",
+    "alias": "Barung Barung Balantai Selatan"
+  },
+  {
+    "code": "13.02.110.013",
+    "villageCode": "013",
+    "districtCode": "13.02.110",
+    "name": "Jinang Kampung Pansur Ampang Pulai",
+    "alias": "Jinang Kampung Pansur Ampang Pulai"
+  },
+  {
+    "code": "13.02.110.014",
+    "villageCode": "014",
+    "districtCode": "13.02.110",
+    "name": "Pulau Karam Ampang Pulai",
+    "alias": "Pulau Karam Ampang Pulai"
+  },
+  {
+    "code": "13.02.110.015",
+    "villageCode": "015",
+    "districtCode": "13.02.110",
+    "name": "Cerocok Anau Ampang Pulai",
+    "alias": "Cerocok Anau Ampang Pulai"
+  },
+  {
+    "code": "13.02.110.016",
+    "villageCode": "016",
+    "districtCode": "13.02.110",
+    "name": "Sungai Nyalo Mudiak Aie",
+    "alias": "Sungai Nyalo Mudiak Aie"
+  },
+  {
+    "code": "13.02.110.017",
+    "villageCode": "017",
+    "districtCode": "13.02.110",
+    "name": "Setara Nanggalo",
+    "alias": "Setara Nanggalo"
+  },
+  {
+    "code": "13.02.110.018",
+    "villageCode": "018",
+    "districtCode": "13.02.110",
+    "name": "Batu Hampar Selatan",
+    "alias": "Batu Hampar Selatan"
+  },
+  {
+    "code": "13.02.110.019",
+    "villageCode": "019",
+    "districtCode": "13.02.110",
+    "name": "Duku Utara",
+    "alias": "Duku Utara"
+  },
+  {
+    "code": "13.02.110.020",
+    "villageCode": "020",
+    "districtCode": "13.02.110",
+    "name": "Barung-Barung Balantai Timur",
+    "alias": "Barung-Barung Balantai Timur"
+  },
+  {
+    "code": "13.02.110.021",
+    "villageCode": "021",
+    "districtCode": "13.02.110",
+    "name": "Siguntur Tua",
+    "alias": "Siguntur Tua"
+  },
+  {
+    "code": "13.02.110.022",
+    "villageCode": "022",
+    "districtCode": "13.02.110",
+    "name": "Kampung Baru Korong Nan Ampek",
+    "alias": "Kampung Baru Korong Nan Ampek"
+  },
+  {
+    "code": "13.02.110.023",
+    "villageCode": "023",
+    "districtCode": "13.02.110",
+    "name": "Barung-Barung Balantai Tengah",
+    "alias": "Barung-Barung Balantai Tengah"
+  }
+]

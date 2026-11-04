@@ -1,0 +1,65 @@
+[
+  {
+    "code": "35.24.010.001",
+    "villageCode": "001",
+    "districtCode": "35.24.010",
+    "name": "Kedungkumpul",
+    "alias": "Kedungkumpul"
+  },
+  {
+    "code": "35.24.010.002",
+    "villageCode": "002",
+    "districtCode": "35.24.010",
+    "name": "Sembung",
+    "alias": "Sembung"
+  },
+  {
+    "code": "35.24.010.003",
+    "villageCode": "003",
+    "districtCode": "35.24.010",
+    "name": "Banggle",
+    "alias": "Banggle"
+  },
+  {
+    "code": "35.24.010.004",
+    "villageCode": "004",
+    "districtCode": "35.24.010",
+    "name": "Mragel",
+    "alias": "Mragel"
+  },
+  {
+    "code": "35.24.010.005",
+    "villageCode": "005",
+    "districtCode": "35.24.010",
+    "name": "Sukorame",
+    "alias": "Sukorame"
+  },
+  {
+    "code": "35.24.010.006",
+    "villageCode": "006",
+    "districtCode": "35.24.010",
+    "name": "Sewor",
+    "alias": "Sewor"
+  },
+  {
+    "code": "35.24.010.007",
+    "villageCode": "007",
+    "districtCode": "35.24.010",
+    "name": "Kedungrejo",
+    "alias": "Kedungrejo"
+  },
+  {
+    "code": "35.24.010.008",
+    "villageCode": "008",
+    "districtCode": "35.24.010",
+    "name": "Wedoro",
+    "alias": "Wedoro"
+  },
+  {
+    "code": "35.24.010.009",
+    "villageCode": "009",
+    "districtCode": "35.24.010",
+    "name": "Pendowokumpul",
+    "alias": "Pendowokumpul"
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "code": "35.19.130.001",
+    "villageCode": "001",
+    "districtCode": "35.19.130",
+    "name": "Dempelan",
+    "alias": "Dempelan"
+  },
+  {
+    "code": "35.19.130.002",
+    "villageCode": "002",
+    "districtCode": "35.19.130",
+    "name": "Betek",
+    "alias": "Betek"
+  },
+  {
+    "code": "35.19.130.003",
+    "villageCode": "003",
+    "districtCode": "35.19.130",
+    "name": "Sendangrejo",
+    "alias": "Sendangrejo"
+  },
+  {
+    "code": "35.19.130.004",
+    "villageCode": "004",
+    "districtCode": "35.19.130",
+    "name": "Sirapan",
+    "alias": "Sirapan"
+  },
+  {
+    "code": "35.19.130.005",
+    "villageCode": "005",
+    "districtCode": "35.19.130",
+    "name": "Dimong",
+    "alias": "Dimong"
+  },
+  {
+    "code": "35.19.130.006",
+    "villageCode": "006",
+    "districtCode": "35.19.130",
+    "name": "Tulungrejo",
+    "alias": "Tulungrejo"
+  },
+  {
+    "code": "35.19.130.007",
+    "villageCode": "007",
+    "districtCode": "35.19.130",
+    "name": "Sumberejo",
+    "alias": "Sumberejo"
+  },
+  {
+    "code": "35.19.130.008",
+    "villageCode": "008",
+    "districtCode": "35.19.130",
+    "name": "Tanjungrejo",
+    "alias": "Tanjungrejo"
+  },
+  {
+    "code": "35.19.130.009",
+    "villageCode": "009",
+    "districtCode": "35.19.130",
+    "name": "Banjarsari",
+    "alias": "Banjarsari"
+  },
+  {
+    "code": "35.19.130.010",
+    "villageCode": "010",
+    "districtCode": "35.19.130",
+    "name": "Nglames",
+    "alias": "Nglames"
+  },
+  {
+    "code": "35.19.130.011",
+    "villageCode": "011",
+    "districtCode": "35.19.130",
+    "name": "Tiron",
+    "alias": "Tiron"
+  },
+  {
+    "code": "35.19.130.012",
+    "villageCode": "012",
+    "districtCode": "35.19.130",
+    "name": "Gunungsari",
+    "alias": "Gunungsari"
+  },
+  {
+    "code": "35.19.130.013",
+    "villageCode": "013",
+    "districtCode": "35.19.130",
+    "name": "Bagi",
+    "alias": "Bagi"
+  }
+]

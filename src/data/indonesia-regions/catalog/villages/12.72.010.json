@@ -1,0 +1,37 @@
+[
+  {
+    "code": "12.72.010.001",
+    "villageCode": "001",
+    "districtCode": "12.72.010",
+    "name": "Sijambi",
+    "alias": "Sijambi"
+  },
+  {
+    "code": "12.72.010.002",
+    "villageCode": "002",
+    "districtCode": "12.72.010",
+    "name": "Pahang",
+    "alias": "Pahang"
+  },
+  {
+    "code": "12.72.010.003",
+    "villageCode": "003",
+    "districtCode": "12.72.010",
+    "name": "Gading",
+    "alias": "Gading"
+  },
+  {
+    "code": "12.72.010.009",
+    "villageCode": "009",
+    "districtCode": "12.72.010",
+    "name": "Sirantau",
+    "alias": "Sirantau"
+  },
+  {
+    "code": "12.72.010.010",
+    "villageCode": "010",
+    "districtCode": "12.72.010",
+    "name": "Pantai Johor",
+    "alias": "Pantai Johor"
+  }
+]

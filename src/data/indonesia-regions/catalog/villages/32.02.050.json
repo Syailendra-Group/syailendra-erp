@@ -1,0 +1,51 @@
+[
+  {
+    "code": "32.02.050.001",
+    "villageCode": "001",
+    "districtCode": "32.02.050",
+    "name": "Cimahpar",
+    "alias": "Cimahpar"
+  },
+  {
+    "code": "32.02.050.002",
+    "villageCode": "002",
+    "districtCode": "32.02.050",
+    "name": "Sekarsari",
+    "alias": "Sekarsari"
+  },
+  {
+    "code": "32.02.050.003",
+    "villageCode": "003",
+    "districtCode": "32.02.050",
+    "name": "Kalibunder",
+    "alias": "Kalibunder"
+  },
+  {
+    "code": "32.02.050.004",
+    "villageCode": "004",
+    "districtCode": "32.02.050",
+    "name": "Sukaluyu",
+    "alias": "Sukaluyu"
+  },
+  {
+    "code": "32.02.050.005",
+    "villageCode": "005",
+    "districtCode": "32.02.050",
+    "name": "Bojong",
+    "alias": "Bojong"
+  },
+  {
+    "code": "32.02.050.006",
+    "villageCode": "006",
+    "districtCode": "32.02.050",
+    "name": "Balekambang",
+    "alias": "Balekambang"
+  },
+  {
+    "code": "32.02.050.007",
+    "villageCode": "007",
+    "districtCode": "32.02.050",
+    "name": "Mekarwangi",
+    "alias": "Mekarwangi"
+  }
+]

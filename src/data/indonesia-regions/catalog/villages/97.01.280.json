@@ -1,0 +1,37 @@
+[
+  {
+    "code": "97.01.280.001",
+    "villageCode": "001",
+    "districtCode": "97.01.280",
+    "name": "Nenggeangin",
+    "alias": "Nenggeangin"
+  },
+  {
+    "code": "97.01.280.002",
+    "villageCode": "002",
+    "districtCode": "97.01.280",
+    "name": "Nenggea",
+    "alias": "Nenggea"
+  },
+  {
+    "code": "97.01.280.003",
+    "villageCode": "003",
+    "districtCode": "97.01.280",
+    "name": "Wulagume",
+    "alias": "Wulagume"
+  },
+  {
+    "code": "97.01.280.004",
+    "villageCode": "004",
+    "districtCode": "97.01.280",
+    "name": "Kombama",
+    "alias": "Kombama"
+  },
+  {
+    "code": "97.01.280.005",
+    "villageCode": "005",
+    "districtCode": "97.01.280",
+    "name": "Wenggenambut",
+    "alias": "Wenggenambut"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "code": "53.06.072.001",
+    "villageCode": "001",
+    "districtCode": "53.06.072",
+    "name": "Lasiolat",
+    "alias": "Lasiolat"
+  },
+  {
+    "code": "53.06.072.002",
+    "villageCode": "002",
+    "districtCode": "53.06.072",
+    "name": "Maneikun",
+    "alias": "Maneikun"
+  },
+  {
+    "code": "53.06.072.003",
+    "villageCode": "003",
+    "districtCode": "53.06.072",
+    "name": "Fatulotu",
+    "alias": "Fatulotu"
+  },
+  {
+    "code": "53.06.072.004",
+    "villageCode": "004",
+    "districtCode": "53.06.072",
+    "name": "Lakanmau",
+    "alias": "Lakanmau"
+  },
+  {
+    "code": "53.06.072.005",
+    "villageCode": "005",
+    "districtCode": "53.06.072",
+    "name": "Raiulun",
+    "alias": "Raiulun"
+  },
+  {
+    "code": "53.06.072.006",
+    "villageCode": "006",
+    "districtCode": "53.06.072",
+    "name": "Dualasi",
+    "alias": "Dualasi"
+  },
+  {
+    "code": "53.06.072.007",
+    "villageCode": "007",
+    "districtCode": "53.06.072",
+    "name": "Baudaok",
+    "alias": "Baudaok"
+  }
+]

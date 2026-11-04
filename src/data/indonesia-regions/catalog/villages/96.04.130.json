@@ -1,0 +1,30 @@
+[
+  {
+    "code": "96.04.130.001",
+    "villageCode": "001",
+    "districtCode": "96.04.130",
+    "name": "Wami Jaya",
+    "alias": "Wami Jaya"
+  },
+  {
+    "code": "96.04.130.002",
+    "villageCode": "002",
+    "districtCode": "96.04.130",
+    "name": "Sima",
+    "alias": "Sima"
+  },
+  {
+    "code": "96.04.130.003",
+    "villageCode": "003",
+    "districtCode": "96.04.130",
+    "name": "Akudiomi",
+    "alias": "Akudiomi"
+  },
+  {
+    "code": "96.04.130.004",
+    "villageCode": "004",
+    "districtCode": "96.04.130",
+    "name": "Yaur",
+    "alias": "Yaur"
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "code": "32.12.130.001",
+    "villageCode": "001",
+    "districtCode": "32.12.130",
+    "name": "Sukalila",
+    "alias": "Sukalila"
+  },
+  {
+    "code": "32.12.130.002",
+    "villageCode": "002",
+    "districtCode": "32.12.130",
+    "name": "Pilangsari",
+    "alias": "Pilangsari"
+  },
+  {
+    "code": "32.12.130.003",
+    "villageCode": "003",
+    "districtCode": "32.12.130",
+    "name": "Jatibarang Baru",
+    "alias": "Jatibarang Baru"
+  },
+  {
+    "code": "32.12.130.004",
+    "villageCode": "004",
+    "districtCode": "32.12.130",
+    "name": "Bulak",
+    "alias": "Bulak"
+  },
+  {
+    "code": "32.12.130.005",
+    "villageCode": "005",
+    "districtCode": "32.12.130",
+    "name": "Bulak Lor",
+    "alias": "Bulak Lor"
+  },
+  {
+    "code": "32.12.130.006",
+    "villageCode": "006",
+    "districtCode": "32.12.130",
+    "name": "Jatibarang",
+    "alias": "Jatibarang"
+  },
+  {
+    "code": "32.12.130.007",
+    "villageCode": "007",
+    "districtCode": "32.12.130",
+    "name": "Kebulen",
+    "alias": "Kebulen"
+  },
+  {
+    "code": "32.12.130.008",
+    "villageCode": "008",
+    "districtCode": "32.12.130",
+    "name": "Pawidean",
+    "alias": "Pawidean"
+  },
+  {
+    "code": "32.12.130.009",
+    "villageCode": "009",
+    "districtCode": "32.12.130",
+    "name": "Jatisawit",
+    "alias": "Jatisawit"
+  },
+  {
+    "code": "32.12.130.010",
+    "villageCode": "010",
+    "districtCode": "32.12.130",
+    "name": "Jatisawit Lor",
+    "alias": "Jatisawit Lor"
+  },
+  {
+    "code": "32.12.130.011",
+    "villageCode": "011",
+    "districtCode": "32.12.130",
+    "name": "Krasak",
+    "alias": "Krasak"
+  },
+  {
+    "code": "32.12.130.012",
+    "villageCode": "012",
+    "districtCode": "32.12.130",
+    "name": "Kalimati",
+    "alias": "Kalimati"
+  },
+  {
+    "code": "32.12.130.013",
+    "villageCode": "013",
+    "districtCode": "32.12.130",
+    "name": "Malangsemirang",
+    "alias": "Malangsemirang"
+  },
+  {
+    "code": "32.12.130.014",
+    "villageCode": "014",
+    "districtCode": "32.12.130",
+    "name": "Lobener",
+    "alias": "Lobener"
+  },
+  {
+    "code": "32.12.130.015",
+    "villageCode": "015",
+    "districtCode": "32.12.130",
+    "name": "Lobener Lor",
+    "alias": "Lobener Lor"
+  }
+]

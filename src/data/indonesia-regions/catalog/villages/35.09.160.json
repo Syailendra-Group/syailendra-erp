@@ -1,0 +1,44 @@
+[
+  {
+    "code": "35.09.160.001",
+    "villageCode": "001",
+    "districtCode": "35.09.160",
+    "name": "Keting",
+    "alias": "Keting"
+  },
+  {
+    "code": "35.09.160.002",
+    "villageCode": "002",
+    "districtCode": "35.09.160",
+    "name": "Jombang",
+    "alias": "Jombang"
+  },
+  {
+    "code": "35.09.160.003",
+    "villageCode": "003",
+    "districtCode": "35.09.160",
+    "name": "Padomasan",
+    "alias": "Padomasan"
+  },
+  {
+    "code": "35.09.160.004",
+    "villageCode": "004",
+    "districtCode": "35.09.160",
+    "name": "Ngampelrejo",
+    "alias": "Ngampelrejo"
+  },
+  {
+    "code": "35.09.160.005",
+    "villageCode": "005",
+    "districtCode": "35.09.160",
+    "name": "Wringin Agung",
+    "alias": "Wringin Agung"
+  },
+  {
+    "code": "35.09.160.006",
+    "villageCode": "006",
+    "districtCode": "35.09.160",
+    "name": "Sarimulyo",
+    "alias": "Sarimulyo"
+  }
+]

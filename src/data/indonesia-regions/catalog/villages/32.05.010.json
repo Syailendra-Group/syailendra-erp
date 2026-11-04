@@ -1,0 +1,65 @@
+[
+  {
+    "code": "32.05.010.006",
+    "villageCode": "006",
+    "districtCode": "32.05.010",
+    "name": "Sukajaya",
+    "alias": "Sukajaya"
+  },
+  {
+    "code": "32.05.010.007",
+    "villageCode": "007",
+    "districtCode": "32.05.010",
+    "name": "Cikarang",
+    "alias": "Cikarang"
+  },
+  {
+    "code": "32.05.010.008",
+    "villageCode": "008",
+    "districtCode": "32.05.010",
+    "name": "Pamalayan",
+    "alias": "Pamalayan"
+  },
+  {
+    "code": "32.05.010.009",
+    "villageCode": "009",
+    "districtCode": "32.05.010",
+    "name": "Cisewu",
+    "alias": "Cisewu"
+  },
+  {
+    "code": "32.05.010.010",
+    "villageCode": "010",
+    "districtCode": "32.05.010",
+    "name": "Girimukti",
+    "alias": "Girimukti"
+  },
+  {
+    "code": "32.05.010.011",
+    "villageCode": "011",
+    "districtCode": "32.05.010",
+    "name": "Nyalindung",
+    "alias": "Nyalindung"
+  },
+  {
+    "code": "32.05.010.012",
+    "villageCode": "012",
+    "districtCode": "32.05.010",
+    "name": "Karangsewu",
+    "alias": "Karangsewu"
+  },
+  {
+    "code": "32.05.010.013",
+    "villageCode": "013",
+    "districtCode": "32.05.010",
+    "name": "Mekarsewu",
+    "alias": "Mekarsewu"
+  },
+  {
+    "code": "32.05.010.014",
+    "villageCode": "014",
+    "districtCode": "32.05.010",
+    "name": "Panggalih",
+    "alias": "Panggalih"
+  }
+]

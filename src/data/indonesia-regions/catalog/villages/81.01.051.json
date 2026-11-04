@@ -1,0 +1,44 @@
+[
+  {
+    "code": "81.01.051.001",
+    "villageCode": "001",
+    "districtCode": "81.01.051",
+    "name": "Romean",
+    "alias": "Romean"
+  },
+  {
+    "code": "81.01.051.002",
+    "villageCode": "002",
+    "districtCode": "81.01.051",
+    "name": "Rumngeur",
+    "alias": "Rumngeur"
+  },
+  {
+    "code": "81.01.051.003",
+    "villageCode": "003",
+    "districtCode": "81.01.051",
+    "name": "Awear",
+    "alias": "Awear"
+  },
+  {
+    "code": "81.01.051.004",
+    "villageCode": "004",
+    "districtCode": "81.01.051",
+    "name": "Sofyanin",
+    "alias": "Sofyanin"
+  },
+  {
+    "code": "81.01.051.005",
+    "villageCode": "005",
+    "districtCode": "81.01.051",
+    "name": "Walerang",
+    "alias": "Walerang"
+  },
+  {
+    "code": "81.01.051.006",
+    "villageCode": "006",
+    "districtCode": "81.01.051",
+    "name": "Adodo Fordata",
+    "alias": "Adodo Fordata"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "code": "15.05.012.001",
+    "villageCode": "001",
+    "districtCode": "15.05.012",
+    "name": "Tanjung Sari",
+    "alias": "Tanjung Sari"
+  },
+  {
+    "code": "15.05.012.002",
+    "villageCode": "002",
+    "districtCode": "15.05.012",
+    "name": "Mekar Jaya",
+    "alias": "Mekar Jaya"
+  },
+  {
+    "code": "15.05.012.003",
+    "villageCode": "003",
+    "districtCode": "15.05.012",
+    "name": "Trijaya",
+    "alias": "Trijaya"
+  },
+  {
+    "code": "15.05.012.004",
+    "villageCode": "004",
+    "districtCode": "15.05.012",
+    "name": "Bukit Subur",
+    "alias": "Bukit Subur"
+  },
+  {
+    "code": "15.05.012.005",
+    "villageCode": "005",
+    "districtCode": "15.05.012",
+    "name": "Adipura Kencana",
+    "alias": "Adipura Kencana"
+  },
+  {
+    "code": "15.05.012.006",
+    "villageCode": "006",
+    "districtCode": "15.05.012",
+    "name": "Bukit Jaya",
+    "alias": "Bukit Jaya"
+  },
+  {
+    "code": "15.05.012.007",
+    "villageCode": "007",
+    "districtCode": "15.05.012",
+    "name": "Tanjung Mulya",
+    "alias": "Tanjung Mulya"
+  },
+  {
+    "code": "15.05.012.008",
+    "villageCode": "008",
+    "districtCode": "15.05.012",
+    "name": "Ujung Tanjung",
+    "alias": "Ujung Tanjung"
+  },
+  {
+    "code": "15.05.012.009",
+    "villageCode": "009",
+    "districtCode": "15.05.012",
+    "name": "Tanjung Baru",
+    "alias": "Tanjung Baru"
+  },
+  {
+    "code": "15.05.012.010",
+    "villageCode": "010",
+    "districtCode": "15.05.012",
+    "name": "Tanjung Lebar",
+    "alias": "Tanjung Lebar"
+  }
+]

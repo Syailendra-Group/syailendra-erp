@@ -1,0 +1,30 @@
+[
+  {
+    "code": "61.02.061.001",
+    "villageCode": "001",
+    "districtCode": "61.02.061",
+    "name": "Bengkilu",
+    "alias": "Bengkilu"
+  },
+  {
+    "code": "61.02.061.002",
+    "villageCode": "002",
+    "districtCode": "61.02.061",
+    "name": "Pisak",
+    "alias": "Pisak"
+  },
+  {
+    "code": "61.02.061.003",
+    "villageCode": "003",
+    "districtCode": "61.02.061",
+    "name": "Kamuh",
+    "alias": "Kamuh"
+  },
+  {
+    "code": "61.02.061.004",
+    "villageCode": "004",
+    "districtCode": "61.02.061",
+    "name": "Sinar Tebudak",
+    "alias": "Sinar Tebudak"
+  }
+]

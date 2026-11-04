@@ -1,0 +1,65 @@
+[
+  {
+    "code": "33.10.720.001",
+    "villageCode": "001",
+    "districtCode": "33.10.720",
+    "name": "Buntalan",
+    "alias": "Buntalan"
+  },
+  {
+    "code": "33.10.720.002",
+    "villageCode": "002",
+    "districtCode": "33.10.720",
+    "name": "Jomboran",
+    "alias": "Jomboran"
+  },
+  {
+    "code": "33.10.720.003",
+    "villageCode": "003",
+    "districtCode": "33.10.720",
+    "name": "Gumulan",
+    "alias": "Gumulan"
+  },
+  {
+    "code": "33.10.720.004",
+    "villageCode": "004",
+    "districtCode": "33.10.720",
+    "name": "Mojayan",
+    "alias": "Mojayan"
+  },
+  {
+    "code": "33.10.720.005",
+    "villageCode": "005",
+    "districtCode": "33.10.720",
+    "name": "Bareng",
+    "alias": "Bareng"
+  },
+  {
+    "code": "33.10.720.006",
+    "villageCode": "006",
+    "districtCode": "33.10.720",
+    "name": "Semangkak",
+    "alias": "Semangkak"
+  },
+  {
+    "code": "33.10.720.007",
+    "villageCode": "007",
+    "districtCode": "33.10.720",
+    "name": "Kabupaten",
+    "alias": "Kabupaten"
+  },
+  {
+    "code": "33.10.720.008",
+    "villageCode": "008",
+    "districtCode": "33.10.720",
+    "name": "Klaten",
+    "alias": "Klaten"
+  },
+  {
+    "code": "33.10.720.009",
+    "villageCode": "009",
+    "districtCode": "33.10.720",
+    "name": "Tonggalan",
+    "alias": "Tonggalan"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "code": "97.04.390.001",
+    "villageCode": "001",
+    "districtCode": "97.04.390",
+    "name": "Geneluk",
+    "alias": "Geneluk"
+  },
+  {
+    "code": "97.04.390.002",
+    "villageCode": "002",
+    "districtCode": "97.04.390",
+    "name": "Tirib",
+    "alias": "Tirib"
+  },
+  {
+    "code": "97.04.390.003",
+    "villageCode": "003",
+    "districtCode": "97.04.390",
+    "name": "Beremo",
+    "alias": "Beremo"
+  },
+  {
+    "code": "97.04.390.004",
+    "villageCode": "004",
+    "districtCode": "97.04.390",
+    "name": "Bolobur",
+    "alias": "Bolobur"
+  },
+  {
+    "code": "97.04.390.005",
+    "villageCode": "005",
+    "districtCode": "97.04.390",
+    "name": "Luki",
+    "alias": "Luki"
+  },
+  {
+    "code": "97.04.390.006",
+    "villageCode": "006",
+    "districtCode": "97.04.390",
+    "name": "Bawi",
+    "alias": "Bawi"
+  },
+  {
+    "code": "97.04.390.007",
+    "villageCode": "007",
+    "districtCode": "97.04.390",
+    "name": "Tioner",
+    "alias": "Tioner"
+  },
+  {
+    "code": "97.04.390.008",
+    "villageCode": "008",
+    "districtCode": "97.04.390",
+    "name": "Koinggambu",
+    "alias": "Koinggambu"
+  },
+  {
+    "code": "97.04.390.009",
+    "villageCode": "009",
+    "districtCode": "97.04.390",
+    "name": "Liwina",
+    "alias": "Liwina"
+  },
+  {
+    "code": "97.04.390.010",
+    "villageCode": "010",
+    "districtCode": "97.04.390",
+    "name": "Eragani",
+    "alias": "Eragani"
+  },
+  {
+    "code": "97.04.390.011",
+    "villageCode": "011",
+    "districtCode": "97.04.390",
+    "name": "Pirage",
+    "alias": "Pirage"
+  },
+  {
+    "code": "97.04.390.012",
+    "villageCode": "012",
+    "districtCode": "97.04.390",
+    "name": "Logulo",
+    "alias": "Logulo"
+  }
+]

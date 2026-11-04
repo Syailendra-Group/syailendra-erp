@@ -1,0 +1,107 @@
+[
+  {
+    "code": "32.14.080.001",
+    "villageCode": "001",
+    "districtCode": "32.14.080",
+    "name": "Nangerang",
+    "alias": "Nangerang"
+  },
+  {
+    "code": "32.14.080.002",
+    "villageCode": "002",
+    "districtCode": "32.14.080",
+    "name": "Simpang",
+    "alias": "Simpang"
+  },
+  {
+    "code": "32.14.080.003",
+    "villageCode": "003",
+    "districtCode": "32.14.080",
+    "name": "Sakambang",
+    "alias": "Sakambang"
+  },
+  {
+    "code": "32.14.080.004",
+    "villageCode": "004",
+    "districtCode": "32.14.080",
+    "name": "Nagrog",
+    "alias": "Nagrog"
+  },
+  {
+    "code": "32.14.080.005",
+    "villageCode": "005",
+    "districtCode": "32.14.080",
+    "name": "Cibuntu",
+    "alias": "Cibuntu"
+  },
+  {
+    "code": "32.14.080.006",
+    "villageCode": "006",
+    "districtCode": "32.14.080",
+    "name": "Sumurugul",
+    "alias": "Sumurugul"
+  },
+  {
+    "code": "32.14.080.007",
+    "villageCode": "007",
+    "districtCode": "32.14.080",
+    "name": "Raharja",
+    "alias": "Raharja"
+  },
+  {
+    "code": "32.14.080.008",
+    "villageCode": "008",
+    "districtCode": "32.14.080",
+    "name": "Wanayasa",
+    "alias": "Wanayasa"
+  },
+  {
+    "code": "32.14.080.009",
+    "villageCode": "009",
+    "districtCode": "32.14.080",
+    "name": "Babakan",
+    "alias": "Babakan"
+  },
+  {
+    "code": "32.14.080.016",
+    "villageCode": "016",
+    "districtCode": "32.14.080",
+    "name": "Wanasari",
+    "alias": "Wanasari"
+  },
+  {
+    "code": "32.14.080.017",
+    "villageCode": "017",
+    "districtCode": "32.14.080",
+    "name": "Legokhuni",
+    "alias": "Legokhuni"
+  },
+  {
+    "code": "32.14.080.018",
+    "villageCode": "018",
+    "districtCode": "32.14.080",
+    "name": "Ciawi",
+    "alias": "Ciawi"
+  },
+  {
+    "code": "32.14.080.019",
+    "villageCode": "019",
+    "districtCode": "32.14.080",
+    "name": "Sukadami",
+    "alias": "Sukadami"
+  },
+  {
+    "code": "32.14.080.020",
+    "villageCode": "020",
+    "districtCode": "32.14.080",
+    "name": "Taringgul Tonggoh",
+    "alias": "Taringgul Tonggoh"
+  },
+  {
+    "code": "32.14.080.021",
+    "villageCode": "021",
+    "districtCode": "32.14.080",
+    "name": "Taringgul Tengah",
+    "alias": "Taringgul Tengah"
+  }
+]

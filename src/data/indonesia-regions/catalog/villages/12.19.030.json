@@ -1,0 +1,72 @@
+[
+  {
+    "code": "12.19.030.008",
+    "villageCode": "008",
+    "districtCode": "12.19.030",
+    "name": "Panjang",
+    "alias": "Panjang"
+  },
+  {
+    "code": "12.19.030.009",
+    "villageCode": "009",
+    "districtCode": "12.19.030",
+    "name": "Pahang",
+    "alias": "Pahang"
+  },
+  {
+    "code": "12.19.030.010",
+    "villageCode": "010",
+    "districtCode": "12.19.030",
+    "name": "Padang Genting",
+    "alias": "Padang Genting"
+  },
+  {
+    "code": "12.19.030.011",
+    "villageCode": "011",
+    "districtCode": "12.19.030",
+    "name": "Labuhan Ruku",
+    "alias": "Labuhan Ruku"
+  },
+  {
+    "code": "12.19.030.012",
+    "villageCode": "012",
+    "districtCode": "12.19.030",
+    "name": "Mesjid Lama",
+    "alias": "Mesjid Lama"
+  },
+  {
+    "code": "12.19.030.013",
+    "villageCode": "013",
+    "districtCode": "12.19.030",
+    "name": "Dahari Selebar",
+    "alias": "Dahari Selebar"
+  },
+  {
+    "code": "12.19.030.017",
+    "villageCode": "017",
+    "districtCode": "12.19.030",
+    "name": "Gunung Rante",
+    "alias": "Gunung Rante"
+  },
+  {
+    "code": "12.19.030.018",
+    "villageCode": "018",
+    "districtCode": "12.19.030",
+    "name": "Benteng",
+    "alias": "Benteng"
+  },
+  {
+    "code": "12.19.030.019",
+    "villageCode": "019",
+    "districtCode": "12.19.030",
+    "name": "Indra Yaman",
+    "alias": "Indra Yaman"
+  },
+  {
+    "code": "12.19.030.020",
+    "villageCode": "020",
+    "districtCode": "12.19.030",
+    "name": "Dahari Indah",
+    "alias": "Dahari Indah"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "code": "35.06.130.001",
+    "villageCode": "001",
+    "districtCode": "35.06.130",
+    "name": "Klampisan",
+    "alias": "Klampisan"
+  },
+  {
+    "code": "35.06.130.002",
+    "villageCode": "002",
+    "districtCode": "35.06.130",
+    "name": "Kandangan",
+    "alias": "Kandangan"
+  },
+  {
+    "code": "35.06.130.003",
+    "villageCode": "003",
+    "districtCode": "35.06.130",
+    "name": "Mlancu",
+    "alias": "Mlancu"
+  },
+  {
+    "code": "35.06.130.004",
+    "villageCode": "004",
+    "districtCode": "35.06.130",
+    "name": "Medowo",
+    "alias": "Medowo"
+  },
+  {
+    "code": "35.06.130.005",
+    "villageCode": "005",
+    "districtCode": "35.06.130",
+    "name": "Banaran",
+    "alias": "Banaran"
+  },
+  {
+    "code": "35.06.130.006",
+    "villageCode": "006",
+    "districtCode": "35.06.130",
+    "name": "Bukur",
+    "alias": "Bukur"
+  },
+  {
+    "code": "35.06.130.007",
+    "villageCode": "007",
+    "districtCode": "35.06.130",
+    "name": "Kasreman",
+    "alias": "Kasreman"
+  },
+  {
+    "code": "35.06.130.008",
+    "villageCode": "008",
+    "districtCode": "35.06.130",
+    "name": "Kemiri",
+    "alias": "Kemiri"
+  },
+  {
+    "code": "35.06.130.009",
+    "villageCode": "009",
+    "districtCode": "35.06.130",
+    "name": "Karangtengah",
+    "alias": "Karangtengah"
+  },
+  {
+    "code": "35.06.130.010",
+    "villageCode": "010",
+    "districtCode": "35.06.130",
+    "name": "Jerukwangi",
+    "alias": "Jerukwangi"
+  },
+  {
+    "code": "35.06.130.011",
+    "villageCode": "011",
+    "districtCode": "35.06.130",
+    "name": "Jerukgulung",
+    "alias": "Jerukgulung"
+  },
+  {
+    "code": "35.06.130.012",
+    "villageCode": "012",
+    "districtCode": "35.06.130",
+    "name": "Jlumbang",
+    "alias": "Jlumbang"
+  }
+]

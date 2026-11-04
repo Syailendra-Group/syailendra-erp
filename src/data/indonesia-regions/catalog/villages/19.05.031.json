@@ -1,0 +1,37 @@
+[
+  {
+    "code": "19.05.031.001",
+    "villageCode": "001",
+    "districtCode": "19.05.031",
+    "name": "Sadai",
+    "alias": "Sadai"
+  },
+  {
+    "code": "19.05.031.002",
+    "villageCode": "002",
+    "districtCode": "19.05.031",
+    "name": "Pasir Putih",
+    "alias": "Pasir Putih"
+  },
+  {
+    "code": "19.05.031.003",
+    "villageCode": "003",
+    "districtCode": "19.05.031",
+    "name": "Tukak",
+    "alias": "Tukak"
+  },
+  {
+    "code": "19.05.031.004",
+    "villageCode": "004",
+    "districtCode": "19.05.031",
+    "name": "Tiram",
+    "alias": "Tiram"
+  },
+  {
+    "code": "19.05.031.005",
+    "villageCode": "005",
+    "districtCode": "19.05.031",
+    "name": "Bukit Terap",
+    "alias": "Bukit Terap"
+  }
+]

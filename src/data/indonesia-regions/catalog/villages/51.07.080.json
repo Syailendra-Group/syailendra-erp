@@ -1,0 +1,65 @@
+[
+  {
+    "code": "51.07.080.001",
+    "villageCode": "001",
+    "districtCode": "51.07.080",
+    "name": "Ban",
+    "alias": "Ban"
+  },
+  {
+    "code": "51.07.080.002",
+    "villageCode": "002",
+    "districtCode": "51.07.080",
+    "name": "Dukuh",
+    "alias": "Dukuh"
+  },
+  {
+    "code": "51.07.080.003",
+    "villageCode": "003",
+    "districtCode": "51.07.080",
+    "name": "Tulamben",
+    "alias": "Tulamben"
+  },
+  {
+    "code": "51.07.080.004",
+    "villageCode": "004",
+    "districtCode": "51.07.080",
+    "name": "Kubu",
+    "alias": "Kubu"
+  },
+  {
+    "code": "51.07.080.005",
+    "villageCode": "005",
+    "districtCode": "51.07.080",
+    "name": "Baturinggit",
+    "alias": "Baturinggit"
+  },
+  {
+    "code": "51.07.080.006",
+    "villageCode": "006",
+    "districtCode": "51.07.080",
+    "name": "Sukadana",
+    "alias": "Sukadana"
+  },
+  {
+    "code": "51.07.080.007",
+    "villageCode": "007",
+    "districtCode": "51.07.080",
+    "name": "Tianyar",
+    "alias": "Tianyar"
+  },
+  {
+    "code": "51.07.080.008",
+    "villageCode": "008",
+    "districtCode": "51.07.080",
+    "name": "Tianyar Tengah",
+    "alias": "Tianyar Tengah"
+  },
+  {
+    "code": "51.07.080.009",
+    "villageCode": "009",
+    "districtCode": "51.07.080",
+    "name": "Tianyar Barat",
+    "alias": "Tianyar Barat"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "code": "81.08.012.001",
+    "villageCode": "001",
+    "districtCode": "81.08.012",
+    "name": "Eray",
+    "alias": "Eray"
+  },
+  {
+    "code": "81.08.012.002",
+    "villageCode": "002",
+    "districtCode": "81.08.012",
+    "name": "Nabar",
+    "alias": "Nabar"
+  },
+  {
+    "code": "81.08.012.003",
+    "villageCode": "003",
+    "districtCode": "81.08.012",
+    "name": "Esulit",
+    "alias": "Esulit"
+  },
+  {
+    "code": "81.08.012.004",
+    "villageCode": "004",
+    "districtCode": "81.08.012",
+    "name": "Naumatang",
+    "alias": "Naumatang"
+  },
+  {
+    "code": "81.08.012.005",
+    "villageCode": "005",
+    "districtCode": "81.08.012",
+    "name": "Lurang",
+    "alias": "Lurang"
+  },
+  {
+    "code": "81.08.012.006",
+    "villageCode": "006",
+    "districtCode": "81.08.012",
+    "name": "Uhak",
+    "alias": "Uhak"
+  }
+]

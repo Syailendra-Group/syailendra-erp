@@ -1,0 +1,58 @@
+[
+  {
+    "code": "72.11.020.001",
+    "villageCode": "001",
+    "districtCode": "72.11.020",
+    "name": "Bontosi",
+    "alias": "Bontosi"
+  },
+  {
+    "code": "72.11.020.002",
+    "villageCode": "002",
+    "districtCode": "72.11.020",
+    "name": "Liputalas",
+    "alias": "Liputalas"
+  },
+  {
+    "code": "72.11.020.003",
+    "villageCode": "003",
+    "districtCode": "72.11.020",
+    "name": "Lipulalongo",
+    "alias": "Lipulalongo"
+  },
+  {
+    "code": "72.11.020.004",
+    "villageCode": "004",
+    "districtCode": "72.11.020",
+    "name": "Alasan",
+    "alias": "Alasan"
+  },
+  {
+    "code": "72.11.020.005",
+    "villageCode": "005",
+    "districtCode": "72.11.020",
+    "name": "Padingkian",
+    "alias": "Padingkian"
+  },
+  {
+    "code": "72.11.020.006",
+    "villageCode": "006",
+    "districtCode": "72.11.020",
+    "name": "Paisulamo",
+    "alias": "Paisulamo"
+  },
+  {
+    "code": "72.11.020.007",
+    "villageCode": "007",
+    "districtCode": "72.11.020",
+    "name": "Lalong",
+    "alias": "Lalong"
+  },
+  {
+    "code": "72.11.020.008",
+    "villageCode": "008",
+    "districtCode": "72.11.020",
+    "name": "Mansalean",
+    "alias": "Mansalean"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "code": "92.05.250.001",
+    "villageCode": "001",
+    "districtCode": "92.05.250",
+    "name": "Bisaud",
+    "alias": "Bisaud"
+  },
+  {
+    "code": "92.05.250.002",
+    "villageCode": "002",
+    "districtCode": "92.05.250",
+    "name": "Asiti",
+    "alias": "Asiti"
+  },
+  {
+    "code": "92.05.250.003",
+    "villageCode": "003",
+    "districtCode": "92.05.250",
+    "name": "Wausin",
+    "alias": "Wausin"
+  },
+  {
+    "code": "92.05.250.004",
+    "villageCode": "004",
+    "districtCode": "92.05.250",
+    "name": "Ajokwapi",
+    "alias": "Ajokwapi"
+  },
+  {
+    "code": "92.05.250.005",
+    "villageCode": "005",
+    "districtCode": "92.05.250",
+    "name": "Nisandauw",
+    "alias": "Nisandauw"
+  },
+  {
+    "code": "92.05.250.006",
+    "villageCode": "006",
+    "districtCode": "92.05.250",
+    "name": "Afrawi",
+    "alias": "Afrawi"
+  }
+]

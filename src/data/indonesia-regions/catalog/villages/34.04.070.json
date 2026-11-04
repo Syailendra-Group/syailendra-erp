@@ -1,0 +1,23 @@
+[
+  {
+    "code": "34.04.070.001",
+    "villageCode": "001",
+    "districtCode": "34.04.070",
+    "name": "Catur Tunggal",
+    "alias": "Catur Tunggal"
+  },
+  {
+    "code": "34.04.070.002",
+    "villageCode": "002",
+    "districtCode": "34.04.070",
+    "name": "Maguwoharjo",
+    "alias": "Maguwoharjo"
+  },
+  {
+    "code": "34.04.070.003",
+    "villageCode": "003",
+    "districtCode": "34.04.070",
+    "name": "Condong Catur",
+    "alias": "Condong Catur"
+  }
+]

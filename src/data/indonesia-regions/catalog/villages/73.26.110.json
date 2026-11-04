@@ -1,0 +1,65 @@
+[
+  {
+    "code": "73.26.110.001",
+    "villageCode": "001",
+    "districtCode": "73.26.110",
+    "name": "Lembang Buntu Lobo",
+    "alias": "Lembang Buntu Lobo"
+  },
+  {
+    "code": "73.26.110.002",
+    "villageCode": "002",
+    "districtCode": "73.26.110",
+    "name": "Lembang Parinding",
+    "alias": "Lembang Parinding"
+  },
+  {
+    "code": "73.26.110.003",
+    "villageCode": "003",
+    "districtCode": "73.26.110",
+    "name": "Kelurahan Deri",
+    "alias": "Kelurahan Deri"
+  },
+  {
+    "code": "73.26.110.004",
+    "villageCode": "004",
+    "districtCode": "73.26.110",
+    "name": "Lembang Bori Rantatelok",
+    "alias": "Lembang Bori Rantatelok"
+  },
+  {
+    "code": "73.26.110.005",
+    "villageCode": "005",
+    "districtCode": "73.26.110",
+    "name": "Kelurahan Bori",
+    "alias": "Kelurahan Bori"
+  },
+  {
+    "code": "73.26.110.006",
+    "villageCode": "006",
+    "districtCode": "73.26.110",
+    "name": "Lembang Bori Lombongan",
+    "alias": "Lembang Bori Lombongan"
+  },
+  {
+    "code": "73.26.110.007",
+    "villageCode": "007",
+    "districtCode": "73.26.110",
+    "name": "Kelurahan Pangli Selatan",
+    "alias": "Kelurahan Pangli Selatan"
+  },
+  {
+    "code": "73.26.110.008",
+    "villageCode": "008",
+    "districtCode": "73.26.110",
+    "name": "Kelurahan Pangli",
+    "alias": "Kelurahan Pangli"
+  },
+  {
+    "code": "73.26.110.009",
+    "villageCode": "009",
+    "districtCode": "73.26.110",
+    "name": "Kelurahan Palawa",
+    "alias": "Kelurahan Palawa"
+  }
+]

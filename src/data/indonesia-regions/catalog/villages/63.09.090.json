@@ -1,0 +1,44 @@
+[
+  {
+    "code": "63.09.090.001",
+    "villageCode": "001",
+    "districtCode": "63.09.090",
+    "name": "Masingai Ii",
+    "alias": "Masingai Ii"
+  },
+  {
+    "code": "63.09.090.002",
+    "villageCode": "002",
+    "districtCode": "63.09.090",
+    "name": "Masingai I",
+    "alias": "Masingai I"
+  },
+  {
+    "code": "63.09.090.003",
+    "villageCode": "003",
+    "districtCode": "63.09.090",
+    "name": "Bilas",
+    "alias": "Bilas"
+  },
+  {
+    "code": "63.09.090.005",
+    "villageCode": "005",
+    "districtCode": "63.09.090",
+    "name": "Kaong",
+    "alias": "Kaong"
+  },
+  {
+    "code": "63.09.090.007",
+    "villageCode": "007",
+    "districtCode": "63.09.090",
+    "name": "Pangelak",
+    "alias": "Pangelak"
+  },
+  {
+    "code": "63.09.090.010",
+    "villageCode": "010",
+    "districtCode": "63.09.090",
+    "name": "Kinarum",
+    "alias": "Kinarum"
+  }
+]

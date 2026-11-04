@@ -1,0 +1,79 @@
+[
+  {
+    "code": "12.15.060.001",
+    "villageCode": "001",
+    "districtCode": "12.15.060",
+    "name": "Lumban Sialaman",
+    "alias": "Lumban Sialaman"
+  },
+  {
+    "code": "12.15.060.002",
+    "villageCode": "002",
+    "districtCode": "12.15.060",
+    "name": "Paranginan Selatan",
+    "alias": "Paranginan Selatan"
+  },
+  {
+    "code": "12.15.060.003",
+    "villageCode": "003",
+    "districtCode": "12.15.060",
+    "name": "Lumban Barat",
+    "alias": "Lumban Barat"
+  },
+  {
+    "code": "12.15.060.004",
+    "villageCode": "004",
+    "districtCode": "12.15.060",
+    "name": "Lobu Tolong",
+    "alias": "Lobu Tolong"
+  },
+  {
+    "code": "12.15.060.005",
+    "villageCode": "005",
+    "districtCode": "12.15.060",
+    "name": "Sihonongan",
+    "alias": "Sihonongan"
+  },
+  {
+    "code": "12.15.060.006",
+    "villageCode": "006",
+    "districtCode": "12.15.060",
+    "name": "Paranginan Utara",
+    "alias": "Paranginan Utara"
+  },
+  {
+    "code": "12.15.060.007",
+    "villageCode": "007",
+    "districtCode": "12.15.060",
+    "name": "Pearung",
+    "alias": "Pearung"
+  },
+  {
+    "code": "12.15.060.008",
+    "villageCode": "008",
+    "districtCode": "12.15.060",
+    "name": "Siborutorup",
+    "alias": "Siborutorup"
+  },
+  {
+    "code": "12.15.060.009",
+    "villageCode": "009",
+    "districtCode": "12.15.060",
+    "name": "Lumban Sianturi",
+    "alias": "Lumban Sianturi"
+  },
+  {
+    "code": "12.15.060.010",
+    "villageCode": "010",
+    "districtCode": "12.15.060",
+    "name": "Lobutolong Habinsaran",
+    "alias": "Lobutolong Habinsaran"
+  },
+  {
+    "code": "12.15.060.011",
+    "villageCode": "011",
+    "districtCode": "12.15.060",
+    "name": "Pearung Silali",
+    "alias": "Pearung Silali"
+  }
+]

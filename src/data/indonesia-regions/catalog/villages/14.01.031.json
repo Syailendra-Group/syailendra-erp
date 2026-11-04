@@ -1,0 +1,107 @@
+[
+  {
+    "code": "14.01.031.001",
+    "villageCode": "001",
+    "districtCode": "14.01.031",
+    "name": "Pulau Kopung",
+    "alias": "Pulau Kopung"
+  },
+  {
+    "code": "14.01.031.002",
+    "villageCode": "002",
+    "districtCode": "14.01.031",
+    "name": "Kampung Baru Sentajo",
+    "alias": "Kampung Baru Sentajo"
+  },
+  {
+    "code": "14.01.031.003",
+    "villageCode": "003",
+    "districtCode": "14.01.031",
+    "name": "Koto Sentajo",
+    "alias": "Koto Sentajo"
+  },
+  {
+    "code": "14.01.031.004",
+    "villageCode": "004",
+    "districtCode": "14.01.031",
+    "name": "Muaro Sentajo",
+    "alias": "Muaro Sentajo"
+  },
+  {
+    "code": "14.01.031.005",
+    "villageCode": "005",
+    "districtCode": "14.01.031",
+    "name": "Pulau Komang",
+    "alias": "Pulau Komang"
+  },
+  {
+    "code": "14.01.031.006",
+    "villageCode": "006",
+    "districtCode": "14.01.031",
+    "name": "Beringin Jaya",
+    "alias": "Beringin Jaya"
+  },
+  {
+    "code": "14.01.031.007",
+    "villageCode": "007",
+    "districtCode": "14.01.031",
+    "name": "Jalur Patah",
+    "alias": "Jalur Patah"
+  },
+  {
+    "code": "14.01.031.008",
+    "villageCode": "008",
+    "districtCode": "14.01.031",
+    "name": "Teratak Air Hitam",
+    "alias": "Teratak Air Hitam"
+  },
+  {
+    "code": "14.01.031.009",
+    "villageCode": "009",
+    "districtCode": "14.01.031",
+    "name": "Parit Teratak Air Hitam",
+    "alias": "Parit Teratak Air Hitam"
+  },
+  {
+    "code": "14.01.031.010",
+    "villageCode": "010",
+    "districtCode": "14.01.031",
+    "name": "Seberang Teratak Air Hitam",
+    "alias": "Seberang Teratak Air Hitam"
+  },
+  {
+    "code": "14.01.031.011",
+    "villageCode": "011",
+    "districtCode": "14.01.031",
+    "name": "Geringging Baru",
+    "alias": "Geringging Baru"
+  },
+  {
+    "code": "14.01.031.012",
+    "villageCode": "012",
+    "districtCode": "14.01.031",
+    "name": "Marsawa",
+    "alias": "Marsawa"
+  },
+  {
+    "code": "14.01.031.013",
+    "villageCode": "013",
+    "districtCode": "14.01.031",
+    "name": "Langsat Hulu",
+    "alias": "Langsat Hulu"
+  },
+  {
+    "code": "14.01.031.014",
+    "villageCode": "014",
+    "districtCode": "14.01.031",
+    "name": "Muara Langsat",
+    "alias": "Muara Langsat"
+  },
+  {
+    "code": "14.01.031.015",
+    "villageCode": "015",
+    "districtCode": "14.01.031",
+    "name": "Geringging Jaya",
+    "alias": "Geringging Jaya"
+  }
+]

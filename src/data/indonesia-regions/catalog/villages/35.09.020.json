@@ -1,0 +1,58 @@
+[
+  {
+    "code": "35.09.020.001",
+    "villageCode": "001",
+    "districtCode": "35.09.020",
+    "name": "Kepanjen",
+    "alias": "Kepanjen"
+  },
+  {
+    "code": "35.09.020.002",
+    "villageCode": "002",
+    "districtCode": "35.09.020",
+    "name": "Mayangan",
+    "alias": "Mayangan"
+  },
+  {
+    "code": "35.09.020.003",
+    "villageCode": "003",
+    "districtCode": "35.09.020",
+    "name": "Menampu",
+    "alias": "Menampu"
+  },
+  {
+    "code": "35.09.020.004",
+    "villageCode": "004",
+    "districtCode": "35.09.020",
+    "name": "Bagorejo",
+    "alias": "Bagorejo"
+  },
+  {
+    "code": "35.09.020.005",
+    "villageCode": "005",
+    "districtCode": "35.09.020",
+    "name": "Gumukmas",
+    "alias": "Gumukmas"
+  },
+  {
+    "code": "35.09.020.006",
+    "villageCode": "006",
+    "districtCode": "35.09.020",
+    "name": "Purwoasri",
+    "alias": "Purwoasri"
+  },
+  {
+    "code": "35.09.020.007",
+    "villageCode": "007",
+    "districtCode": "35.09.020",
+    "name": "Tembokrejo",
+    "alias": "Tembokrejo"
+  },
+  {
+    "code": "35.09.020.008",
+    "villageCode": "008",
+    "districtCode": "35.09.020",
+    "name": "Karangrejo",
+    "alias": "Karangrejo"
+  }
+]

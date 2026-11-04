@@ -1,0 +1,30 @@
+[
+  {
+    "code": "76.05.042.001",
+    "villageCode": "001",
+    "districtCode": "76.05.042",
+    "name": "Maponu",
+    "alias": "Maponu"
+  },
+  {
+    "code": "76.05.042.002",
+    "villageCode": "002",
+    "districtCode": "76.05.042",
+    "name": "Letawa",
+    "alias": "Letawa"
+  },
+  {
+    "code": "76.05.042.003",
+    "villageCode": "003",
+    "districtCode": "76.05.042",
+    "name": "Sarjo",
+    "alias": "Sarjo"
+  },
+  {
+    "code": "76.05.042.004",
+    "villageCode": "004",
+    "districtCode": "76.05.042",
+    "name": "Sarude",
+    "alias": "Sarude"
+  }
+]

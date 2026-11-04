@@ -1,0 +1,205 @@
+[
+  {
+    "code": "53.11.010.001",
+    "villageCode": "001",
+    "districtCode": "53.11.010",
+    "name": "Ondorea",
+    "alias": "Ondorea"
+  },
+  {
+    "code": "53.11.010.002",
+    "villageCode": "002",
+    "districtCode": "53.11.010",
+    "name": "Kel. Ndorurea",
+    "alias": "Kel. Ndorurea"
+  },
+  {
+    "code": "53.11.010.003",
+    "villageCode": "003",
+    "districtCode": "53.11.010",
+    "name": "Zozozea",
+    "alias": "Zozozea"
+  },
+  {
+    "code": "53.11.010.004",
+    "villageCode": "004",
+    "districtCode": "53.11.010",
+    "name": "Nggorea",
+    "alias": "Nggorea"
+  },
+  {
+    "code": "53.11.010.005",
+    "villageCode": "005",
+    "districtCode": "53.11.010",
+    "name": "Raporendu",
+    "alias": "Raporendu"
+  },
+  {
+    "code": "53.11.010.006",
+    "villageCode": "006",
+    "districtCode": "53.11.010",
+    "name": "Rapowawo",
+    "alias": "Rapowawo"
+  },
+  {
+    "code": "53.11.010.007",
+    "villageCode": "007",
+    "districtCode": "53.11.010",
+    "name": "Bheramari",
+    "alias": "Bheramari"
+  },
+  {
+    "code": "53.11.010.008",
+    "villageCode": "008",
+    "districtCode": "53.11.010",
+    "name": "Kerirea",
+    "alias": "Kerirea"
+  },
+  {
+    "code": "53.11.010.009",
+    "villageCode": "009",
+    "districtCode": "53.11.010",
+    "name": "Tendarea",
+    "alias": "Tendarea"
+  },
+  {
+    "code": "53.11.010.010",
+    "villageCode": "010",
+    "districtCode": "53.11.010",
+    "name": "Watumite",
+    "alias": "Watumite"
+  },
+  {
+    "code": "53.11.010.011",
+    "villageCode": "011",
+    "districtCode": "53.11.010",
+    "name": "Tendambepa",
+    "alias": "Tendambepa"
+  },
+  {
+    "code": "53.11.010.012",
+    "villageCode": "012",
+    "districtCode": "53.11.010",
+    "name": "Ondorea Barat",
+    "alias": "Ondorea Barat"
+  },
+  {
+    "code": "53.11.010.013",
+    "villageCode": "013",
+    "districtCode": "53.11.010",
+    "name": "Tiwe Rea",
+    "alias": "Tiwe Rea"
+  },
+  {
+    "code": "53.11.010.014",
+    "villageCode": "014",
+    "districtCode": "53.11.010",
+    "name": "Ndorurea I",
+    "alias": "Ndorurea I"
+  },
+  {
+    "code": "53.11.010.015",
+    "villageCode": "015",
+    "districtCode": "53.11.010",
+    "name": "Ndeturea",
+    "alias": "Ndeturea"
+  },
+  {
+    "code": "53.11.010.016",
+    "villageCode": "016",
+    "districtCode": "53.11.010",
+    "name": "Sanggarhorho",
+    "alias": "Sanggarhorho"
+  },
+  {
+    "code": "53.11.010.017",
+    "villageCode": "017",
+    "districtCode": "53.11.010",
+    "name": "Penggajawa",
+    "alias": "Penggajawa"
+  },
+  {
+    "code": "53.11.010.018",
+    "villageCode": "018",
+    "districtCode": "53.11.010",
+    "name": "Jegharangga",
+    "alias": "Jegharangga"
+  },
+  {
+    "code": "53.11.010.019",
+    "villageCode": "019",
+    "districtCode": "53.11.010",
+    "name": "Uzu Zozo",
+    "alias": "Uzu Zozo"
+  },
+  {
+    "code": "53.11.010.020",
+    "villageCode": "020",
+    "districtCode": "53.11.010",
+    "name": "Embuzozo",
+    "alias": "Embuzozo"
+  },
+  {
+    "code": "53.11.010.021",
+    "villageCode": "021",
+    "districtCode": "53.11.010",
+    "name": "Anaraja",
+    "alias": "Anaraja"
+  },
+  {
+    "code": "53.11.010.022",
+    "villageCode": "022",
+    "districtCode": "53.11.010",
+    "name": "Kekandere",
+    "alias": "Kekandere"
+  },
+  {
+    "code": "53.11.010.023",
+    "villageCode": "023",
+    "districtCode": "53.11.010",
+    "name": "Tanazozo",
+    "alias": "Tanazozo"
+  },
+  {
+    "code": "53.11.010.024",
+    "villageCode": "024",
+    "districtCode": "53.11.010",
+    "name": "Jemburea",
+    "alias": "Jemburea"
+  },
+  {
+    "code": "53.11.010.025",
+    "villageCode": "025",
+    "districtCode": "53.11.010",
+    "name": "Timbazia",
+    "alias": "Timbazia"
+  },
+  {
+    "code": "53.11.010.026",
+    "villageCode": "026",
+    "districtCode": "53.11.010",
+    "name": "Romarea",
+    "alias": "Romarea"
+  },
+  {
+    "code": "53.11.010.027",
+    "villageCode": "027",
+    "districtCode": "53.11.010",
+    "name": "Mbobhenga",
+    "alias": "Mbobhenga"
+  },
+  {
+    "code": "53.11.010.028",
+    "villageCode": "028",
+    "districtCode": "53.11.010",
+    "name": "Malawaru",
+    "alias": "Malawaru"
+  },
+  {
+    "code": "53.11.010.029",
+    "villageCode": "029",
+    "districtCode": "53.11.010",
+    "name": "Tenda Ondo",
+    "alias": "Tenda Ondo"
+  }
+]

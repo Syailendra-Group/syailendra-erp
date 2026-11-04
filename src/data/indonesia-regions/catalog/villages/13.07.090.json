@@ -1,0 +1,72 @@
+[
+  {
+    "code": "13.07.090.001",
+    "villageCode": "001",
+    "districtCode": "13.07.090",
+    "name": "Gadut",
+    "alias": "Gadut"
+  },
+  {
+    "code": "13.07.090.002",
+    "villageCode": "002",
+    "districtCode": "13.07.090",
+    "name": "Kapau",
+    "alias": "Kapau"
+  },
+  {
+    "code": "13.07.090.003",
+    "villageCode": "003",
+    "districtCode": "13.07.090",
+    "name": "Koto Tangah",
+    "alias": "Koto Tangah"
+  },
+  {
+    "code": "13.07.090.004",
+    "villageCode": "004",
+    "districtCode": "13.07.090",
+    "name": "Nagari Persiapan Gadut Barat",
+    "alias": "Nagari Persiapan Gadut Barat"
+  },
+  {
+    "code": "13.07.090.005",
+    "villageCode": "005",
+    "districtCode": "13.07.090",
+    "name": "Nagari Persiapan Gadut Timur",
+    "alias": "Nagari Persiapan Gadut Timur"
+  },
+  {
+    "code": "13.07.090.006",
+    "villageCode": "006",
+    "districtCode": "13.07.090",
+    "name": "Nagari Persiapan Aro Kandikia",
+    "alias": "Nagari Persiapan Aro Kandikia"
+  },
+  {
+    "code": "13.07.090.007",
+    "villageCode": "007",
+    "districtCode": "13.07.090",
+    "name": "Nagari Persiapan Koto Tangah Sidang Koto Laweh",
+    "alias": "Nagari Persiapan Koto Tangah Sidang Koto Laweh"
+  },
+  {
+    "code": "13.07.090.008",
+    "villageCode": "008",
+    "districtCode": "13.07.090",
+    "name": "Nagari Persiapan Koto Tangah Koto Malintang",
+    "alias": "Nagari Persiapan Koto Tangah Koto Malintang"
+  },
+  {
+    "code": "13.07.090.009",
+    "villageCode": "009",
+    "districtCode": "13.07.090",
+    "name": "Nagari Persiapan Koto Tangah Tujuah Nagari",
+    "alias": "Nagari Persiapan Koto Tangah Tujuah Nagari"
+  },
+  {
+    "code": "13.07.090.010",
+    "villageCode": "010",
+    "districtCode": "13.07.090",
+    "name": "Nagari Persiapan Koto Tangah Lamo",
+    "alias": "Nagari Persiapan Koto Tangah Lamo"
+  }
+]

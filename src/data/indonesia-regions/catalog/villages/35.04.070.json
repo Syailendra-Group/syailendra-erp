@@ -1,0 +1,65 @@
+[
+  {
+    "code": "35.04.070.001",
+    "villageCode": "001",
+    "districtCode": "35.04.070",
+    "name": "Panggungkalak",
+    "alias": "Panggungkalak"
+  },
+  {
+    "code": "35.04.070.002",
+    "villageCode": "002",
+    "districtCode": "35.04.070",
+    "name": "Kalidawe",
+    "alias": "Kalidawe"
+  },
+  {
+    "code": "35.04.070.003",
+    "villageCode": "003",
+    "districtCode": "35.04.070",
+    "name": "Pucanglaban",
+    "alias": "Pucanglaban"
+  },
+  {
+    "code": "35.04.070.004",
+    "villageCode": "004",
+    "districtCode": "35.04.070",
+    "name": "Sumberbendo",
+    "alias": "Sumberbendo"
+  },
+  {
+    "code": "35.04.070.005",
+    "villageCode": "005",
+    "districtCode": "35.04.070",
+    "name": "Kaligentong",
+    "alias": "Kaligentong"
+  },
+  {
+    "code": "35.04.070.006",
+    "villageCode": "006",
+    "districtCode": "35.04.070",
+    "name": "Manding",
+    "alias": "Manding"
+  },
+  {
+    "code": "35.04.070.007",
+    "villageCode": "007",
+    "districtCode": "35.04.070",
+    "name": "Panggunguni",
+    "alias": "Panggunguni"
+  },
+  {
+    "code": "35.04.070.008",
+    "villageCode": "008",
+    "districtCode": "35.04.070",
+    "name": "Sumberdadap",
+    "alias": "Sumberdadap"
+  },
+  {
+    "code": "35.04.070.009",
+    "villageCode": "009",
+    "districtCode": "35.04.070",
+    "name": "Demuk",
+    "alias": "Demuk"
+  }
+]

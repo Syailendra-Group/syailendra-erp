@@ -1,0 +1,44 @@
+[
+  {
+    "code": "32.05.100.001",
+    "villageCode": "001",
+    "districtCode": "32.05.100",
+    "name": "Pangrumasan",
+    "alias": "Pangrumasan"
+  },
+  {
+    "code": "32.05.100.002",
+    "villageCode": "002",
+    "districtCode": "32.05.100",
+    "name": "Toblong",
+    "alias": "Toblong"
+  },
+  {
+    "code": "32.05.100.003",
+    "villageCode": "003",
+    "districtCode": "32.05.100",
+    "name": "Sukanagara",
+    "alias": "Sukanagara"
+  },
+  {
+    "code": "32.05.100.004",
+    "villageCode": "004",
+    "districtCode": "32.05.100",
+    "name": "Saribakti",
+    "alias": "Saribakti"
+  },
+  {
+    "code": "32.05.100.005",
+    "villageCode": "005",
+    "districtCode": "32.05.100",
+    "name": "Peundeuy",
+    "alias": "Peundeuy"
+  },
+  {
+    "code": "32.05.100.006",
+    "villageCode": "006",
+    "districtCode": "32.05.100",
+    "name": "Purwajaya",
+    "alias": "Purwajaya"
+  }
+]

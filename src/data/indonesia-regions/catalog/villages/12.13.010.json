@@ -1,0 +1,135 @@
+[
+  {
+    "code": "12.13.010.001",
+    "villageCode": "001",
+    "districtCode": "12.13.010",
+    "name": "Batu Jong Jong",
+    "alias": "Batu Jong Jong"
+  },
+  {
+    "code": "12.13.010.002",
+    "villageCode": "002",
+    "districtCode": "12.13.010",
+    "name": "Lau Damak",
+    "alias": "Lau Damak"
+  },
+  {
+    "code": "12.13.010.003",
+    "villageCode": "003",
+    "districtCode": "12.13.010",
+    "name": "Timbang Lawan",
+    "alias": "Timbang Lawan"
+  },
+  {
+    "code": "12.13.010.004",
+    "villageCode": "004",
+    "districtCode": "12.13.010",
+    "name": "Sampe Raya",
+    "alias": "Sampe Raya"
+  },
+  {
+    "code": "12.13.010.005",
+    "villageCode": "005",
+    "districtCode": "12.13.010",
+    "name": "Bukit Lawang",
+    "alias": "Bukit Lawang"
+  },
+  {
+    "code": "12.13.010.006",
+    "villageCode": "006",
+    "districtCode": "12.13.010",
+    "name": "Perkebunan Bungara",
+    "alias": "Perkebunan Bungara"
+  },
+  {
+    "code": "12.13.010.007",
+    "villageCode": "007",
+    "districtCode": "12.13.010",
+    "name": "Pekan Bahorok",
+    "alias": "Pekan Bahorok"
+  },
+  {
+    "code": "12.13.010.008",
+    "villageCode": "008",
+    "districtCode": "12.13.010",
+    "name": "Empus",
+    "alias": "Empus"
+  },
+  {
+    "code": "12.13.010.009",
+    "villageCode": "009",
+    "districtCode": "12.13.010",
+    "name": "Perkebunan Turangi",
+    "alias": "Perkebunan Turangi"
+  },
+  {
+    "code": "12.13.010.010",
+    "villageCode": "010",
+    "districtCode": "12.13.010",
+    "name": "Simpang Pulau Rambung",
+    "alias": "Simpang Pulau Rambung"
+  },
+  {
+    "code": "12.13.010.011",
+    "villageCode": "011",
+    "districtCode": "12.13.010",
+    "name": "Sematar",
+    "alias": "Sematar"
+  },
+  {
+    "code": "12.13.010.012",
+    "villageCode": "012",
+    "districtCode": "12.13.010",
+    "name": "Perkebunan Pulau Rambung",
+    "alias": "Perkebunan Pulau Rambung"
+  },
+  {
+    "code": "12.13.010.013",
+    "villageCode": "013",
+    "districtCode": "12.13.010",
+    "name": "Suka Rakyat",
+    "alias": "Suka Rakyat"
+  },
+  {
+    "code": "12.13.010.014",
+    "villageCode": "014",
+    "districtCode": "12.13.010",
+    "name": "Tanjung Lenggang",
+    "alias": "Tanjung Lenggang"
+  },
+  {
+    "code": "12.13.010.017",
+    "villageCode": "017",
+    "districtCode": "12.13.010",
+    "name": "Perkebunan Sei Musam",
+    "alias": "Perkebunan Sei Musam"
+  },
+  {
+    "code": "12.13.010.018",
+    "villageCode": "018",
+    "districtCode": "12.13.010",
+    "name": "Sei Musam Kendit",
+    "alias": "Sei Musam Kendit"
+  },
+  {
+    "code": "12.13.010.020",
+    "villageCode": "020",
+    "districtCode": "12.13.010",
+    "name": "Timbang Jaya",
+    "alias": "Timbang Jaya"
+  },
+  {
+    "code": "12.13.010.021",
+    "villageCode": "021",
+    "districtCode": "12.13.010",
+    "name": "Musam Pembangunan",
+    "alias": "Musam Pembangunan"
+  },
+  {
+    "code": "12.13.010.023",
+    "villageCode": "023",
+    "districtCode": "12.13.010",
+    "name": "Ujung Bandar",
+    "alias": "Ujung Bandar"
+  }
+]

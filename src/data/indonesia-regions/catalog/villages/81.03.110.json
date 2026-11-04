@@ -1,0 +1,79 @@
+[
+  {
+    "code": "81.03.110.004",
+    "villageCode": "004",
+    "districtCode": "81.03.110",
+    "name": "Assilulu",
+    "alias": "Assilulu"
+  },
+  {
+    "code": "81.03.110.005",
+    "villageCode": "005",
+    "districtCode": "81.03.110",
+    "name": "Ureng",
+    "alias": "Ureng"
+  },
+  {
+    "code": "81.03.110.008",
+    "villageCode": "008",
+    "districtCode": "81.03.110",
+    "name": "Negeri Lima",
+    "alias": "Negeri Lima"
+  },
+  {
+    "code": "81.03.110.009",
+    "villageCode": "009",
+    "districtCode": "81.03.110",
+    "name": "Seith",
+    "alias": "Seith"
+  },
+  {
+    "code": "81.03.110.010",
+    "villageCode": "010",
+    "districtCode": "81.03.110",
+    "name": "Kaitetu",
+    "alias": "Kaitetu"
+  },
+  {
+    "code": "81.03.110.011",
+    "villageCode": "011",
+    "districtCode": "81.03.110",
+    "name": "Hila",
+    "alias": "Hila"
+  },
+  {
+    "code": "81.03.110.012",
+    "villageCode": "012",
+    "districtCode": "81.03.110",
+    "name": "Wakal",
+    "alias": "Wakal"
+  },
+  {
+    "code": "81.03.110.013",
+    "villageCode": "013",
+    "districtCode": "81.03.110",
+    "name": "Hitulama",
+    "alias": "Hitulama"
+  },
+  {
+    "code": "81.03.110.014",
+    "villageCode": "014",
+    "districtCode": "81.03.110",
+    "name": "Hitumesing",
+    "alias": "Hitumesing"
+  },
+  {
+    "code": "81.03.110.015",
+    "villageCode": "015",
+    "districtCode": "81.03.110",
+    "name": "Mamala",
+    "alias": "Mamala"
+  },
+  {
+    "code": "81.03.110.016",
+    "villageCode": "016",
+    "districtCode": "81.03.110",
+    "name": "Morella",
+    "alias": "Morella"
+  }
+]

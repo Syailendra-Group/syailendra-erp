@@ -1,0 +1,51 @@
+[
+  {
+    "code": "52.04.122.001",
+    "villageCode": "001",
+    "districtCode": "52.04.122",
+    "name": "Pungkit",
+    "alias": "Pungkit"
+  },
+  {
+    "code": "52.04.122.002",
+    "villageCode": "002",
+    "districtCode": "52.04.122",
+    "name": "Lopok",
+    "alias": "Lopok"
+  },
+  {
+    "code": "52.04.122.003",
+    "villageCode": "003",
+    "districtCode": "52.04.122",
+    "name": "Lopok Beru",
+    "alias": "Lopok Beru"
+  },
+  {
+    "code": "52.04.122.004",
+    "villageCode": "004",
+    "districtCode": "52.04.122",
+    "name": "Langam",
+    "alias": "Langam"
+  },
+  {
+    "code": "52.04.122.005",
+    "villageCode": "005",
+    "districtCode": "52.04.122",
+    "name": "Berora",
+    "alias": "Berora"
+  },
+  {
+    "code": "52.04.122.006",
+    "villageCode": "006",
+    "districtCode": "52.04.122",
+    "name": "Mama",
+    "alias": "Mama"
+  },
+  {
+    "code": "52.04.122.007",
+    "villageCode": "007",
+    "districtCode": "52.04.122",
+    "name": "Tatede",
+    "alias": "Tatede"
+  }
+]

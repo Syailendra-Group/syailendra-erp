@@ -1,0 +1,178 @@
+[
+  {
+    "code": "16.03.010",
+    "districtCode": "010",
+    "regencyCode": "16.03",
+    "provinceCode": "16",
+    "name": "Kecamatan Semendo Darat Laut",
+    "alias": "Semendo Darat Laut"
+  },
+  {
+    "code": "16.03.011",
+    "districtCode": "011",
+    "regencyCode": "16.03",
+    "provinceCode": "16",
+    "name": "Kecamatan Semendo Darat Ulu",
+    "alias": "Semendo Darat Ulu"
+  },
+  {
+    "code": "16.03.012",
+    "districtCode": "012",
+    "regencyCode": "16.03",
+    "provinceCode": "16",
+    "name": "Kecamatan Semendo Darat Tengah",
+    "alias": "Semendo Darat Tengah"
+  },
+  {
+    "code": "16.03.020",
+    "districtCode": "020",
+    "regencyCode": "16.03",
+    "provinceCode": "16",
+    "name": "Kecamatan Tanjung Agung",
+    "alias": "Tanjung Agung"
+  },
+  {
+    "code": "16.03.021",
+    "districtCode": "021",
+    "regencyCode": "16.03",
+    "provinceCode": "16",
+    "name": "Kecamatan Panang Enim",
+    "alias": "Panang Enim"
+  },
+  {
+    "code": "16.03.031",
+    "districtCode": "031",
+    "regencyCode": "16.03",
+    "provinceCode": "16",
+    "name": "Kecamatan Rambang",
+    "alias": "Rambang"
+  },
+  {
+    "code": "16.03.032",
+    "districtCode": "032",
+    "regencyCode": "16.03",
+    "provinceCode": "16",
+    "name": "Kecamatan Lubai",
+    "alias": "Lubai"
+  },
+  {
+    "code": "16.03.033",
+    "districtCode": "033",
+    "regencyCode": "16.03",
+    "provinceCode": "16",
+    "name": "Kecamatan Lubai Ulu",
+    "alias": "Lubai Ulu"
+  },
+  {
+    "code": "16.03.040",
+    "districtCode": "040",
+    "regencyCode": "16.03",
+    "provinceCode": "16",
+    "name": "Kecamatan Lawang Kidul",
+    "alias": "Lawang Kidul"
+  },
+  {
+    "code": "16.03.050",
+    "districtCode": "050",
+    "regencyCode": "16.03",
+    "provinceCode": "16",
+    "name": "Kecamatan Muara Enim",
+    "alias": "Muara Enim"
+  },
+  {
+    "code": "16.03.051",
+    "districtCode": "051",
+    "regencyCode": "16.03",
+    "provinceCode": "16",
+    "name": "Kecamatan Ujan Mas",
+    "alias": "Ujan Mas"
+  },
+  {
+    "code": "16.03.060",
+    "districtCode": "060",
+    "regencyCode": "16.03",
+    "provinceCode": "16",
+    "name": "Kecamatan Gunung Megang",
+    "alias": "Gunung Megang"
+  },
+  {
+    "code": "16.03.061",
+    "districtCode": "061",
+    "regencyCode": "16.03",
+    "provinceCode": "16",
+    "name": "Kecamatan Benakat",
+    "alias": "Benakat"
+  },
+  {
+    "code": "16.03.062",
+    "districtCode": "062",
+    "regencyCode": "16.03",
+    "provinceCode": "16",
+    "name": "Kecamatan Belimbing",
+    "alias": "Belimbing"
+  },
+  {
+    "code": "16.03.070",
+    "districtCode": "070",
+    "regencyCode": "16.03",
+    "provinceCode": "16",
+    "name": "Kecamatan Rambang Niru",
+    "alias": "Rambang Niru"
+  },
+  {
+    "code": "16.03.071",
+    "districtCode": "071",
+    "regencyCode": "16.03",
+    "provinceCode": "16",
+    "name": "Kecamatan Empat Petulai Dangku",
+    "alias": "Empat Petulai Dangku"
+  },
+  {
+    "code": "16.03.090",
+    "districtCode": "090",
+    "regencyCode": "16.03",
+    "provinceCode": "16",
+    "name": "Kecamatan Gelumbang",
+    "alias": "Gelumbang"
+  },
+  {
+    "code": "16.03.091",
+    "districtCode": "091",
+    "regencyCode": "16.03",
+    "provinceCode": "16",
+    "name": "Kecamatan Lembak",
+    "alias": "Lembak"
+  },
+  {
+    "code": "16.03.092",
+    "districtCode": "092",
+    "regencyCode": "16.03",
+    "provinceCode": "16",
+    "name": "Kecamatan Sungai Rotan",
+    "alias": "Sungai Rotan"
+  },
+  {
+    "code": "16.03.093",
+    "districtCode": "093",
+    "regencyCode": "16.03",
+    "provinceCode": "16",
+    "name": "Kecamatan Muara Belida",
+    "alias": "Muara Belida"
+  },
+  {
+    "code": "16.03.094",
+    "districtCode": "094",
+    "regencyCode": "16.03",
+    "provinceCode": "16",
+    "name": "Kecamatan Kelekar",
+    "alias": "Kelekar"
+  },
+  {
+    "code": "16.03.095",
+    "districtCode": "095",
+    "regencyCode": "16.03",
+    "provinceCode": "16",
+    "name": "Kecamatan Belida Darat",
+    "alias": "Belida Darat"
+  }
+]

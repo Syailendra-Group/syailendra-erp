@@ -1,0 +1,30 @@
+[
+  {
+    "code": "76.03.071.001",
+    "villageCode": "001",
+    "districtCode": "76.03.071",
+    "name": "Tawalian Timur",
+    "alias": "Tawalian Timur"
+  },
+  {
+    "code": "76.03.071.002",
+    "villageCode": "002",
+    "districtCode": "76.03.071",
+    "name": "Kariango",
+    "alias": "Kariango"
+  },
+  {
+    "code": "76.03.071.003",
+    "villageCode": "003",
+    "districtCode": "76.03.071",
+    "name": "Tawalian",
+    "alias": "Tawalian"
+  },
+  {
+    "code": "76.03.071.004",
+    "villageCode": "004",
+    "districtCode": "76.03.071",
+    "name": "Rantetangnga",
+    "alias": "Rantetangnga"
+  }
+]

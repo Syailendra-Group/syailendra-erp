@@ -1,0 +1,58 @@
+[
+  {
+    "code": "21.71.030.001",
+    "villageCode": "001",
+    "districtCode": "21.71.030",
+    "name": "Pulau Abang",
+    "alias": "Pulau Abang"
+  },
+  {
+    "code": "21.71.030.002",
+    "villageCode": "002",
+    "districtCode": "21.71.030",
+    "name": "Karas",
+    "alias": "Karas"
+  },
+  {
+    "code": "21.71.030.003",
+    "villageCode": "003",
+    "districtCode": "21.71.030",
+    "name": "Sijantung",
+    "alias": "Sijantung"
+  },
+  {
+    "code": "21.71.030.004",
+    "villageCode": "004",
+    "districtCode": "21.71.030",
+    "name": "Sembulang",
+    "alias": "Sembulang"
+  },
+  {
+    "code": "21.71.030.005",
+    "villageCode": "005",
+    "districtCode": "21.71.030",
+    "name": "Rempang Cate",
+    "alias": "Rempang Cate"
+  },
+  {
+    "code": "21.71.030.006",
+    "villageCode": "006",
+    "districtCode": "21.71.030",
+    "name": "Subang Mas",
+    "alias": "Subang Mas"
+  },
+  {
+    "code": "21.71.030.007",
+    "villageCode": "007",
+    "districtCode": "21.71.030",
+    "name": "Galang Baru",
+    "alias": "Galang Baru"
+  },
+  {
+    "code": "21.71.030.008",
+    "villageCode": "008",
+    "districtCode": "21.71.030",
+    "name": "Air Raja",
+    "alias": "Air Raja"
+  }
+]

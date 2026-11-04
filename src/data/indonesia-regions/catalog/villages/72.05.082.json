@@ -1,0 +1,58 @@
+[
+  {
+    "code": "72.05.082.001",
+    "villageCode": "001",
+    "districtCode": "72.05.082",
+    "name": "Powelua",
+    "alias": "Powelua"
+  },
+  {
+    "code": "72.05.082.002",
+    "villageCode": "002",
+    "districtCode": "72.05.082",
+    "name": "Lumbudolo",
+    "alias": "Lumbudolo"
+  },
+  {
+    "code": "72.05.082.003",
+    "villageCode": "003",
+    "districtCode": "72.05.082",
+    "name": "Salubomba",
+    "alias": "Salubomba"
+  },
+  {
+    "code": "72.05.082.004",
+    "villageCode": "004",
+    "districtCode": "72.05.082",
+    "name": "Towale",
+    "alias": "Towale"
+  },
+  {
+    "code": "72.05.082.005",
+    "villageCode": "005",
+    "districtCode": "72.05.082",
+    "name": "Limboro",
+    "alias": "Limboro"
+  },
+  {
+    "code": "72.05.082.006",
+    "villageCode": "006",
+    "districtCode": "72.05.082",
+    "name": "Kola-Kola",
+    "alias": "Kola-Kola"
+  },
+  {
+    "code": "72.05.082.007",
+    "villageCode": "007",
+    "districtCode": "72.05.082",
+    "name": "Mekar Baru",
+    "alias": "Mekar Baru"
+  },
+  {
+    "code": "72.05.082.008",
+    "villageCode": "008",
+    "districtCode": "72.05.082",
+    "name": "Lampo",
+    "alias": "Lampo"
+  }
+]

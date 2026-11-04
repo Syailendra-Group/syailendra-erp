@@ -1,0 +1,86 @@
+[
+  {
+    "code": "74.14.060.001",
+    "villageCode": "001",
+    "districtCode": "74.14.060",
+    "name": "Wadiabero",
+    "alias": "Wadiabero"
+  },
+  {
+    "code": "74.14.060.002",
+    "villageCode": "002",
+    "districtCode": "74.14.060",
+    "name": "Kolowa",
+    "alias": "Kolowa"
+  },
+  {
+    "code": "74.14.060.008",
+    "villageCode": "008",
+    "districtCode": "74.14.060",
+    "name": "Rahia",
+    "alias": "Rahia"
+  },
+  {
+    "code": "74.14.060.009",
+    "villageCode": "009",
+    "districtCode": "74.14.060",
+    "name": "Wakea Kea",
+    "alias": "Wakea Kea"
+  },
+  {
+    "code": "74.14.060.010",
+    "villageCode": "010",
+    "districtCode": "74.14.060",
+    "name": "Waliko",
+    "alias": "Waliko"
+  },
+  {
+    "code": "74.14.060.011",
+    "villageCode": "011",
+    "districtCode": "74.14.060",
+    "name": "Bombonawulu",
+    "alias": "Bombonawulu"
+  },
+  {
+    "code": "74.14.060.012",
+    "villageCode": "012",
+    "districtCode": "74.14.060",
+    "name": "Walando",
+    "alias": "Walando"
+  },
+  {
+    "code": "74.14.060.013",
+    "villageCode": "013",
+    "districtCode": "74.14.060",
+    "name": "Watulea",
+    "alias": "Watulea"
+  },
+  {
+    "code": "74.14.060.014",
+    "villageCode": "014",
+    "districtCode": "74.14.060",
+    "name": "Lakapera",
+    "alias": "Lakapera"
+  },
+  {
+    "code": "74.14.060.015",
+    "villageCode": "015",
+    "districtCode": "74.14.060",
+    "name": "Bantea",
+    "alias": "Bantea"
+  },
+  {
+    "code": "74.14.060.016",
+    "villageCode": "016",
+    "districtCode": "74.14.060",
+    "name": "Kamama Mekar",
+    "alias": "Kamama Mekar"
+  },
+  {
+    "code": "74.14.060.017",
+    "villageCode": "017",
+    "districtCode": "74.14.060",
+    "name": "Lowu Lowu",
+    "alias": "Lowu Lowu"
+  }
+]

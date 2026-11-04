@@ -1,0 +1,30 @@
+[
+  {
+    "code": "32.73.170.001",
+    "villageCode": "001",
+    "districtCode": "32.73.170",
+    "name": "Braga",
+    "alias": "Braga"
+  },
+  {
+    "code": "32.73.170.002",
+    "villageCode": "002",
+    "districtCode": "32.73.170",
+    "name": "Kebon Pisang",
+    "alias": "Kebon Pisang"
+  },
+  {
+    "code": "32.73.170.003",
+    "villageCode": "003",
+    "districtCode": "32.73.170",
+    "name": "Merdeka",
+    "alias": "Merdeka"
+  },
+  {
+    "code": "32.73.170.004",
+    "villageCode": "004",
+    "districtCode": "32.73.170",
+    "name": "Babakan Ciamis",
+    "alias": "Babakan Ciamis"
+  }
+]

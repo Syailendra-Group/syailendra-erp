@@ -1,0 +1,79 @@
+[
+  {
+    "code": "32.15.180.001",
+    "villageCode": "001",
+    "districtCode": "32.15.180",
+    "name": "Medankarya",
+    "alias": "Medankarya"
+  },
+  {
+    "code": "32.15.180.002",
+    "villageCode": "002",
+    "districtCode": "32.15.180",
+    "name": "Pisangsambo",
+    "alias": "Pisangsambo"
+  },
+  {
+    "code": "32.15.180.003",
+    "villageCode": "003",
+    "districtCode": "32.15.180",
+    "name": "Sabajaya",
+    "alias": "Sabajaya"
+  },
+  {
+    "code": "32.15.180.004",
+    "villageCode": "004",
+    "districtCode": "32.15.180",
+    "name": "Gempolkarya",
+    "alias": "Gempolkarya"
+  },
+  {
+    "code": "32.15.180.005",
+    "villageCode": "005",
+    "districtCode": "32.15.180",
+    "name": "Srijaya",
+    "alias": "Srijaya"
+  },
+  {
+    "code": "32.15.180.006",
+    "villageCode": "006",
+    "districtCode": "32.15.180",
+    "name": "Kutamakmur",
+    "alias": "Kutamakmur"
+  },
+  {
+    "code": "32.15.180.007",
+    "villageCode": "007",
+    "districtCode": "32.15.180",
+    "name": "Bolang",
+    "alias": "Bolang"
+  },
+  {
+    "code": "32.15.180.008",
+    "villageCode": "008",
+    "districtCode": "32.15.180",
+    "name": "Srikamulyan",
+    "alias": "Srikamulyan"
+  },
+  {
+    "code": "32.15.180.009",
+    "villageCode": "009",
+    "districtCode": "32.15.180",
+    "name": "Sumurlaban",
+    "alias": "Sumurlaban"
+  },
+  {
+    "code": "32.15.180.010",
+    "villageCode": "010",
+    "districtCode": "32.15.180",
+    "name": "Tambaksumur",
+    "alias": "Tambaksumur"
+  },
+  {
+    "code": "32.15.180.011",
+    "villageCode": "011",
+    "districtCode": "32.15.180",
+    "name": "Tambaksari",
+    "alias": "Tambaksari"
+  }
+]

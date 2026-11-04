@@ -1,0 +1,30 @@
+[
+  {
+    "code": "62.06.011.001",
+    "villageCode": "001",
+    "districtCode": "62.06.011",
+    "name": "Sungai Damar",
+    "alias": "Sungai Damar"
+  },
+  {
+    "code": "62.06.011.002",
+    "villageCode": "002",
+    "districtCode": "62.06.011",
+    "name": "Sungai Tabuk",
+    "alias": "Sungai Tabuk"
+  },
+  {
+    "code": "62.06.011.003",
+    "villageCode": "003",
+    "districtCode": "62.06.011",
+    "name": "Sungai Cabang Barat",
+    "alias": "Sungai Cabang Barat"
+  },
+  {
+    "code": "62.06.011.004",
+    "villageCode": "004",
+    "districtCode": "62.06.011",
+    "name": "Sungai Pasir",
+    "alias": "Sungai Pasir"
+  }
+]

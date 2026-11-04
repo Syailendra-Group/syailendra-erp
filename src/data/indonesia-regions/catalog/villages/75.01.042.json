@@ -1,0 +1,65 @@
+[
+  {
+    "code": "75.01.042.001",
+    "villageCode": "001",
+    "districtCode": "75.01.042",
+    "name": "Bolihutuo",
+    "alias": "Bolihutuo"
+  },
+  {
+    "code": "75.01.042.002",
+    "villageCode": "002",
+    "districtCode": "75.01.042",
+    "name": "Tapadaa",
+    "alias": "Tapadaa"
+  },
+  {
+    "code": "75.01.042.003",
+    "villageCode": "003",
+    "districtCode": "75.01.042",
+    "name": "Rumbia",
+    "alias": "Rumbia"
+  },
+  {
+    "code": "75.01.042.004",
+    "villageCode": "004",
+    "districtCode": "75.01.042",
+    "name": "Hutamonu",
+    "alias": "Hutamonu"
+  },
+  {
+    "code": "75.01.042.005",
+    "villageCode": "005",
+    "districtCode": "75.01.042",
+    "name": "Botumoito",
+    "alias": "Botumoito"
+  },
+  {
+    "code": "75.01.042.006",
+    "villageCode": "006",
+    "districtCode": "75.01.042",
+    "name": "Tutulo",
+    "alias": "Tutulo"
+  },
+  {
+    "code": "75.01.042.007",
+    "villageCode": "007",
+    "districtCode": "75.01.042",
+    "name": "Patoameme",
+    "alias": "Patoameme"
+  },
+  {
+    "code": "75.01.042.008",
+    "villageCode": "008",
+    "districtCode": "75.01.042",
+    "name": "Potanga",
+    "alias": "Potanga"
+  },
+  {
+    "code": "75.01.042.009",
+    "villageCode": "009",
+    "districtCode": "75.01.042",
+    "name": "Dulangeya",
+    "alias": "Dulangeya"
+  }
+]

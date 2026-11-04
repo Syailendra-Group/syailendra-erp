@@ -1,0 +1,44 @@
+[
+  {
+    "code": "97.07.140.001",
+    "villageCode": "001",
+    "districtCode": "97.07.140",
+    "name": "Bomela",
+    "alias": "Bomela"
+  },
+  {
+    "code": "97.07.140.002",
+    "villageCode": "002",
+    "districtCode": "97.07.140",
+    "name": "Yalmabi",
+    "alias": "Yalmabi"
+  },
+  {
+    "code": "97.07.140.003",
+    "villageCode": "003",
+    "districtCode": "97.07.140",
+    "name": "Kitikni",
+    "alias": "Kitikni"
+  },
+  {
+    "code": "97.07.140.004",
+    "villageCode": "004",
+    "districtCode": "97.07.140",
+    "name": "Palamdua",
+    "alias": "Palamdua"
+  },
+  {
+    "code": "97.07.140.005",
+    "villageCode": "005",
+    "districtCode": "97.07.140",
+    "name": "Sombat",
+    "alias": "Sombat"
+  },
+  {
+    "code": "97.07.140.006",
+    "villageCode": "006",
+    "districtCode": "97.07.140",
+    "name": "Kubialat",
+    "alias": "Kubialat"
+  }
+]

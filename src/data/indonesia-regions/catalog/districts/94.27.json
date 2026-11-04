@@ -1,0 +1,42 @@
+[
+  {
+    "code": "94.27.010",
+    "districtCode": "010",
+    "regencyCode": "94.27",
+    "provinceCode": "94",
+    "name": "Kecamatan Supiori Selatan",
+    "alias": "Supiori Selatan"
+  },
+  {
+    "code": "94.27.011",
+    "districtCode": "011",
+    "regencyCode": "94.27",
+    "provinceCode": "94",
+    "name": "Kecamatan Kepulauan Aruri",
+    "alias": "Kepulauan Aruri"
+  },
+  {
+    "code": "94.27.020",
+    "districtCode": "020",
+    "regencyCode": "94.27",
+    "provinceCode": "94",
+    "name": "Kecamatan Supiori Utara",
+    "alias": "Supiori Utara"
+  },
+  {
+    "code": "94.27.021",
+    "districtCode": "021",
+    "regencyCode": "94.27",
+    "provinceCode": "94",
+    "name": "Kecamatan Supiori Barat",
+    "alias": "Supiori Barat"
+  },
+  {
+    "code": "94.27.030",
+    "districtCode": "030",
+    "regencyCode": "94.27",
+    "provinceCode": "94",
+    "name": "Kecamatan Supiori Timur",
+    "alias": "Supiori Timur"
+  }
+]

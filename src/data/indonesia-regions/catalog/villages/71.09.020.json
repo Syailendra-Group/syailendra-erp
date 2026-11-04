@@ -1,0 +1,107 @@
+[
+  {
+    "code": "71.09.020.001",
+    "villageCode": "001",
+    "districtCode": "71.09.020",
+    "name": "Minanga",
+    "alias": "Minanga"
+  },
+  {
+    "code": "71.09.020.002",
+    "villageCode": "002",
+    "districtCode": "71.09.020",
+    "name": "Minanga Satu",
+    "alias": "Minanga Satu"
+  },
+  {
+    "code": "71.09.020.003",
+    "villageCode": "003",
+    "districtCode": "71.09.020",
+    "name": "Makalu",
+    "alias": "Makalu"
+  },
+  {
+    "code": "71.09.020.004",
+    "villageCode": "004",
+    "districtCode": "71.09.020",
+    "name": "Tumbak",
+    "alias": "Tumbak"
+  },
+  {
+    "code": "71.09.020.005",
+    "villageCode": "005",
+    "districtCode": "71.09.020",
+    "name": "Tatengesan",
+    "alias": "Tatengesan"
+  },
+  {
+    "code": "71.09.020.006",
+    "villageCode": "006",
+    "districtCode": "71.09.020",
+    "name": "Bentenan",
+    "alias": "Bentenan"
+  },
+  {
+    "code": "71.09.020.007",
+    "villageCode": "007",
+    "districtCode": "71.09.020",
+    "name": "Wiau",
+    "alias": "Wiau"
+  },
+  {
+    "code": "71.09.020.008",
+    "villageCode": "008",
+    "districtCode": "71.09.020",
+    "name": "Bentenan Indah",
+    "alias": "Bentenan Indah"
+  },
+  {
+    "code": "71.09.020.009",
+    "villageCode": "009",
+    "districtCode": "71.09.020",
+    "name": "Minanga Timur",
+    "alias": "Minanga Timur"
+  },
+  {
+    "code": "71.09.020.010",
+    "villageCode": "010",
+    "districtCode": "71.09.020",
+    "name": "Minanga Dua",
+    "alias": "Minanga Dua"
+  },
+  {
+    "code": "71.09.020.011",
+    "villageCode": "011",
+    "districtCode": "71.09.020",
+    "name": "Minanga Tiga",
+    "alias": "Minanga Tiga"
+  },
+  {
+    "code": "71.09.020.012",
+    "villageCode": "012",
+    "districtCode": "71.09.020",
+    "name": "Makalu Selatan",
+    "alias": "Makalu Selatan"
+  },
+  {
+    "code": "71.09.020.013",
+    "villageCode": "013",
+    "districtCode": "71.09.020",
+    "name": "Tumbak Madani",
+    "alias": "Tumbak Madani"
+  },
+  {
+    "code": "71.09.020.014",
+    "villageCode": "014",
+    "districtCode": "71.09.020",
+    "name": "Tatengesan Satu",
+    "alias": "Tatengesan Satu"
+  },
+  {
+    "code": "71.09.020.015",
+    "villageCode": "015",
+    "districtCode": "71.09.020",
+    "name": "Bentenan Satu",
+    "alias": "Bentenan Satu"
+  }
+]

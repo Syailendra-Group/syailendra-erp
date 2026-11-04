@@ -1,0 +1,66 @@
+[
+  {
+    "code": "19.05.010",
+    "districtCode": "010",
+    "regencyCode": "19.05",
+    "provinceCode": "19",
+    "name": "Kecamatan Payung",
+    "alias": "Payung"
+  },
+  {
+    "code": "19.05.011",
+    "districtCode": "011",
+    "regencyCode": "19.05",
+    "provinceCode": "19",
+    "name": "Kecamatan Pulau Besar",
+    "alias": "Pulau Besar"
+  },
+  {
+    "code": "19.05.020",
+    "districtCode": "020",
+    "regencyCode": "19.05",
+    "provinceCode": "19",
+    "name": "Kecamatan Simpang Rimba",
+    "alias": "Simpang Rimba"
+  },
+  {
+    "code": "19.05.030",
+    "districtCode": "030",
+    "regencyCode": "19.05",
+    "provinceCode": "19",
+    "name": "Kecamatan Toboali",
+    "alias": "Toboali"
+  },
+  {
+    "code": "19.05.031",
+    "districtCode": "031",
+    "regencyCode": "19.05",
+    "provinceCode": "19",
+    "name": "Kecamatan Tukak Sadai",
+    "alias": "Tukak Sadai"
+  },
+  {
+    "code": "19.05.040",
+    "districtCode": "040",
+    "regencyCode": "19.05",
+    "provinceCode": "19",
+    "name": "Kecamatan Air Gegas",
+    "alias": "Air Gegas"
+  },
+  {
+    "code": "19.05.050",
+    "districtCode": "050",
+    "regencyCode": "19.05",
+    "provinceCode": "19",
+    "name": "Kecamatan Lepar Pongok",
+    "alias": "Lepar Pongok"
+  },
+  {
+    "code": "19.05.051",
+    "districtCode": "051",
+    "regencyCode": "19.05",
+    "provinceCode": "19",
+    "name": "Kecamatan Kepulauan Pongok",
+    "alias": "Kepulauan Pongok"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "code": "32.78.040.001",
+    "villageCode": "001",
+    "districtCode": "32.78.040",
+    "name": "Kahuripan",
+    "alias": "Kahuripan"
+  },
+  {
+    "code": "32.78.040.002",
+    "villageCode": "002",
+    "districtCode": "32.78.040",
+    "name": "Cikalang",
+    "alias": "Cikalang"
+  },
+  {
+    "code": "32.78.040.003",
+    "villageCode": "003",
+    "districtCode": "32.78.040",
+    "name": "Empangsari",
+    "alias": "Empangsari"
+  },
+  {
+    "code": "32.78.040.004",
+    "villageCode": "004",
+    "districtCode": "32.78.040",
+    "name": "Tawangsari",
+    "alias": "Tawangsari"
+  },
+  {
+    "code": "32.78.040.005",
+    "villageCode": "005",
+    "districtCode": "32.78.040",
+    "name": "Lengkongsari",
+    "alias": "Lengkongsari"
+  }
+]

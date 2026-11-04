@@ -1,0 +1,44 @@
+[
+  {
+    "code": "53.03.191.001",
+    "villageCode": "001",
+    "districtCode": "53.03.191",
+    "name": "Saukibe",
+    "alias": "Saukibe"
+  },
+  {
+    "code": "53.03.191.002",
+    "villageCode": "002",
+    "districtCode": "53.03.191",
+    "name": "Faumes",
+    "alias": "Faumes"
+  },
+  {
+    "code": "53.03.191.003",
+    "villageCode": "003",
+    "districtCode": "53.03.191",
+    "name": "Timau",
+    "alias": "Timau"
+  },
+  {
+    "code": "53.03.191.004",
+    "villageCode": "004",
+    "districtCode": "53.03.191",
+    "name": "Honuk",
+    "alias": "Honuk"
+  },
+  {
+    "code": "53.03.191.005",
+    "villageCode": "005",
+    "districtCode": "53.03.191",
+    "name": "Oelfatu",
+    "alias": "Oelfatu"
+  },
+  {
+    "code": "53.03.191.006",
+    "villageCode": "006",
+    "districtCode": "53.03.191",
+    "name": "Soliu",
+    "alias": "Soliu"
+  }
+]

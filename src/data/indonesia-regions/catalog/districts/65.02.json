@@ -1,0 +1,82 @@
+[
+  {
+    "code": "65.02.010",
+    "districtCode": "010",
+    "regencyCode": "65.02",
+    "provinceCode": "65",
+    "name": "Kecamatan Peso",
+    "alias": "Peso"
+  },
+  {
+    "code": "65.02.020",
+    "districtCode": "020",
+    "regencyCode": "65.02",
+    "provinceCode": "65",
+    "name": "Kecamatan Peso Hilir",
+    "alias": "Peso Hilir"
+  },
+  {
+    "code": "65.02.030",
+    "districtCode": "030",
+    "regencyCode": "65.02",
+    "provinceCode": "65",
+    "name": "Kecamatan Tanjung Palas Barat",
+    "alias": "Tanjung Palas Barat"
+  },
+  {
+    "code": "65.02.040",
+    "districtCode": "040",
+    "regencyCode": "65.02",
+    "provinceCode": "65",
+    "name": "Kecamatan Tanjung Palas",
+    "alias": "Tanjung Palas"
+  },
+  {
+    "code": "65.02.050",
+    "districtCode": "050",
+    "regencyCode": "65.02",
+    "provinceCode": "65",
+    "name": "Kecamatan Tanjung Selor",
+    "alias": "Tanjung Selor"
+  },
+  {
+    "code": "65.02.060",
+    "districtCode": "060",
+    "regencyCode": "65.02",
+    "provinceCode": "65",
+    "name": "Kecamatan Tanjung Palas Timur",
+    "alias": "Tanjung Palas Timur"
+  },
+  {
+    "code": "65.02.070",
+    "districtCode": "070",
+    "regencyCode": "65.02",
+    "provinceCode": "65",
+    "name": "Kecamatan Tanjung Palas Tengah",
+    "alias": "Tanjung Palas Tengah"
+  },
+  {
+    "code": "65.02.080",
+    "districtCode": "080",
+    "regencyCode": "65.02",
+    "provinceCode": "65",
+    "name": "Kecamatan Tanjung Palas Utara",
+    "alias": "Tanjung Palas Utara"
+  },
+  {
+    "code": "65.02.090",
+    "districtCode": "090",
+    "regencyCode": "65.02",
+    "provinceCode": "65",
+    "name": "Kecamatan Sekatak",
+    "alias": "Sekatak"
+  },
+  {
+    "code": "65.02.100",
+    "districtCode": "100",
+    "regencyCode": "65.02",
+    "provinceCode": "65",
+    "name": "Kecamatan Bunyu",
+    "alias": "Bunyu"
+  }
+]

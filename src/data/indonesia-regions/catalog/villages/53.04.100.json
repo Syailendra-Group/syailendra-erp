@@ -1,0 +1,93 @@
+[
+  {
+    "code": "53.04.100.001",
+    "villageCode": "001",
+    "districtCode": "53.04.100",
+    "name": "Oinlasi",
+    "alias": "Oinlasi"
+  },
+  {
+    "code": "53.04.100.002",
+    "villageCode": "002",
+    "districtCode": "53.04.100",
+    "name": "Kokoi",
+    "alias": "Kokoi"
+  },
+  {
+    "code": "53.04.100.003",
+    "villageCode": "003",
+    "districtCode": "53.04.100",
+    "name": "Fatulunu",
+    "alias": "Fatulunu"
+  },
+  {
+    "code": "53.04.100.004",
+    "villageCode": "004",
+    "districtCode": "53.04.100",
+    "name": "Nunleu",
+    "alias": "Nunleu"
+  },
+  {
+    "code": "53.04.100.012",
+    "villageCode": "012",
+    "districtCode": "53.04.100",
+    "name": "Kualeu",
+    "alias": "Kualeu"
+  },
+  {
+    "code": "53.04.100.013",
+    "villageCode": "013",
+    "districtCode": "53.04.100",
+    "name": "Fenun",
+    "alias": "Fenun"
+  },
+  {
+    "code": "53.04.100.014",
+    "villageCode": "014",
+    "districtCode": "53.04.100",
+    "name": "Anin",
+    "alias": "Anin"
+  },
+  {
+    "code": "53.04.100.015",
+    "villageCode": "015",
+    "districtCode": "53.04.100",
+    "name": "Toi",
+    "alias": "Toi"
+  },
+  {
+    "code": "53.04.100.016",
+    "villageCode": "016",
+    "districtCode": "53.04.100",
+    "name": "Sunu",
+    "alias": "Sunu"
+  },
+  {
+    "code": "53.04.100.017",
+    "villageCode": "017",
+    "districtCode": "53.04.100",
+    "name": "Lanu",
+    "alias": "Lanu"
+  },
+  {
+    "code": "53.04.100.025",
+    "villageCode": "025",
+    "districtCode": "53.04.100",
+    "name": "Nifuleo",
+    "alias": "Nifuleo"
+  },
+  {
+    "code": "53.04.100.032",
+    "villageCode": "032",
+    "districtCode": "53.04.100",
+    "name": "Fae",
+    "alias": "Fae"
+  },
+  {
+    "code": "53.04.100.033",
+    "villageCode": "033",
+    "districtCode": "53.04.100",
+    "name": "Netutnana",
+    "alias": "Netutnana"
+  }
+]

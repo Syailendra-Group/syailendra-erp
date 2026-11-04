@@ -1,0 +1,44 @@
+[
+  {
+    "code": "64.71.050.001",
+    "villageCode": "001",
+    "districtCode": "64.71.050",
+    "name": "Baru Tengah",
+    "alias": "Baru Tengah"
+  },
+  {
+    "code": "64.71.050.002",
+    "villageCode": "002",
+    "districtCode": "64.71.050",
+    "name": "Marga Sari",
+    "alias": "Marga Sari"
+  },
+  {
+    "code": "64.71.050.003",
+    "villageCode": "003",
+    "districtCode": "64.71.050",
+    "name": "Baru Ilir",
+    "alias": "Baru Ilir"
+  },
+  {
+    "code": "64.71.050.004",
+    "villageCode": "004",
+    "districtCode": "64.71.050",
+    "name": "Margo Mulyo",
+    "alias": "Margo Mulyo"
+  },
+  {
+    "code": "64.71.050.005",
+    "villageCode": "005",
+    "districtCode": "64.71.050",
+    "name": "Baru Ulu",
+    "alias": "Baru Ulu"
+  },
+  {
+    "code": "64.71.050.006",
+    "villageCode": "006",
+    "districtCode": "64.71.050",
+    "name": "Kariangau",
+    "alias": "Kariangau"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "code": "97.03.130.001",
+    "villageCode": "001",
+    "districtCode": "97.03.130",
+    "name": "Yakobak",
+    "alias": "Yakobak"
+  },
+  {
+    "code": "97.03.130.002",
+    "villageCode": "002",
+    "districtCode": "97.03.130",
+    "name": "Yirene",
+    "alias": "Yirene"
+  },
+  {
+    "code": "97.03.130.003",
+    "villageCode": "003",
+    "districtCode": "97.03.130",
+    "name": "Kwenukwe",
+    "alias": "Kwenukwe"
+  },
+  {
+    "code": "97.03.130.004",
+    "villageCode": "004",
+    "districtCode": "97.03.130",
+    "name": "Wimolome",
+    "alias": "Wimolome"
+  },
+  {
+    "code": "97.03.130.005",
+    "villageCode": "005",
+    "districtCode": "97.03.130",
+    "name": "Weneogun",
+    "alias": "Weneogun"
+  },
+  {
+    "code": "97.03.130.006",
+    "villageCode": "006",
+    "districtCode": "97.03.130",
+    "name": "Libungga",
+    "alias": "Libungga"
+  },
+  {
+    "code": "97.03.130.007",
+    "villageCode": "007",
+    "districtCode": "97.03.130",
+    "name": "Umom",
+    "alias": "Umom"
+  },
+  {
+    "code": "97.03.130.008",
+    "villageCode": "008",
+    "districtCode": "97.03.130",
+    "name": "Berangwi",
+    "alias": "Berangwi"
+  }
+]

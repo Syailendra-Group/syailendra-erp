@@ -1,0 +1,65 @@
+[
+  {
+    "code": "91.01.070.005",
+    "villageCode": "005",
+    "districtCode": "91.01.070",
+    "name": "Purwasak",
+    "alias": "Purwasak"
+  },
+  {
+    "code": "91.01.070.006",
+    "villageCode": "006",
+    "districtCode": "91.01.070",
+    "name": "Werba",
+    "alias": "Werba"
+  },
+  {
+    "code": "91.01.070.007",
+    "villageCode": "007",
+    "districtCode": "91.01.070",
+    "name": "Kiat",
+    "alias": "Kiat"
+  },
+  {
+    "code": "91.01.070.008",
+    "villageCode": "008",
+    "districtCode": "91.01.070",
+    "name": "Wurkendik",
+    "alias": "Wurkendik"
+  },
+  {
+    "code": "91.01.070.010",
+    "villageCode": "010",
+    "districtCode": "91.01.070",
+    "name": "Kwuhkendik",
+    "alias": "Kwuhkendik"
+  },
+  {
+    "code": "91.01.070.011",
+    "villageCode": "011",
+    "districtCode": "91.01.070",
+    "name": "Purwahab Tonggo",
+    "alias": "Purwahab Tonggo"
+  },
+  {
+    "code": "91.01.070.012",
+    "villageCode": "012",
+    "districtCode": "91.01.070",
+    "name": "Pahge Nkindik",
+    "alias": "Pahge Nkindik"
+  },
+  {
+    "code": "91.01.070.013",
+    "villageCode": "013",
+    "districtCode": "91.01.070",
+    "name": "Werba Utara",
+    "alias": "Werba Utara"
+  },
+  {
+    "code": "91.01.070.014",
+    "villageCode": "014",
+    "districtCode": "91.01.070",
+    "name": "Porum",
+    "alias": "Porum"
+  }
+]

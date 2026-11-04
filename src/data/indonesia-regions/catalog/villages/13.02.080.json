@@ -1,0 +1,65 @@
+[
+  {
+    "code": "13.02.080.001",
+    "villageCode": "001",
+    "districtCode": "13.02.080",
+    "name": "Iv Koto Hilie",
+    "alias": "Iv Koto Hilie"
+  },
+  {
+    "code": "13.02.080.002",
+    "villageCode": "002",
+    "districtCode": "13.02.080",
+    "name": "Iv Koto Mudiek",
+    "alias": "Iv Koto Mudiek"
+  },
+  {
+    "code": "13.02.080.003",
+    "villageCode": "003",
+    "districtCode": "13.02.080",
+    "name": "Taluk",
+    "alias": "Taluk"
+  },
+  {
+    "code": "13.02.080.004",
+    "villageCode": "004",
+    "districtCode": "13.02.080",
+    "name": "Koto Nan Tigo Iv Koto Hilie",
+    "alias": "Koto Nan Tigo Iv Koto Hilie"
+  },
+  {
+    "code": "13.02.080.005",
+    "villageCode": "005",
+    "districtCode": "13.02.080",
+    "name": "Koto Nan Duo Iv Koto Hilie",
+    "alias": "Koto Nan Duo Iv Koto Hilie"
+  },
+  {
+    "code": "13.02.080.006",
+    "villageCode": "006",
+    "districtCode": "13.02.080",
+    "name": "Sungai Nyalo Iv Koto Mudiek",
+    "alias": "Sungai Nyalo Iv Koto Mudiek"
+  },
+  {
+    "code": "13.02.080.007",
+    "villageCode": "007",
+    "districtCode": "13.02.080",
+    "name": "Tuik Iv Koto Mudiek",
+    "alias": "Tuik Iv Koto Mudiek"
+  },
+  {
+    "code": "13.02.080.008",
+    "villageCode": "008",
+    "districtCode": "13.02.080",
+    "name": "Taratak Tempatih Iv Koto Mudiek",
+    "alias": "Taratak Tempatih Iv Koto Mudiek"
+  },
+  {
+    "code": "13.02.080.009",
+    "villageCode": "009",
+    "districtCode": "13.02.080",
+    "name": "Taluk Tigo Sakato",
+    "alias": "Taluk Tigo Sakato"
+  }
+]

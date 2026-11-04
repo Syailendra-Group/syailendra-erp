@@ -1,0 +1,86 @@
+[
+  {
+    "code": "74.10.060.001",
+    "villageCode": "001",
+    "districtCode": "74.10.060",
+    "name": "Sarimukti",
+    "alias": "Sarimukti"
+  },
+  {
+    "code": "74.10.060.002",
+    "villageCode": "002",
+    "districtCode": "74.10.060",
+    "name": "Langgikima",
+    "alias": "Langgikima"
+  },
+  {
+    "code": "74.10.060.003",
+    "villageCode": "003",
+    "districtCode": "74.10.060",
+    "name": "Molore",
+    "alias": "Molore"
+  },
+  {
+    "code": "74.10.060.004",
+    "villageCode": "004",
+    "districtCode": "74.10.060",
+    "name": "Lameruru",
+    "alias": "Lameruru"
+  },
+  {
+    "code": "74.10.060.005",
+    "villageCode": "005",
+    "districtCode": "74.10.060",
+    "name": "Tobimeita",
+    "alias": "Tobimeita"
+  },
+  {
+    "code": "74.10.060.006",
+    "villageCode": "006",
+    "districtCode": "74.10.060",
+    "name": "Pariama",
+    "alias": "Pariama"
+  },
+  {
+    "code": "74.10.060.007",
+    "villageCode": "007",
+    "districtCode": "74.10.060",
+    "name": "Polora Indah",
+    "alias": "Polora Indah"
+  },
+  {
+    "code": "74.10.060.008",
+    "villageCode": "008",
+    "districtCode": "74.10.060",
+    "name": "Alenggo",
+    "alias": "Alenggo"
+  },
+  {
+    "code": "74.10.060.009",
+    "villageCode": "009",
+    "districtCode": "74.10.060",
+    "name": "Mekar Jaya",
+    "alias": "Mekar Jaya"
+  },
+  {
+    "code": "74.10.060.010",
+    "villageCode": "010",
+    "districtCode": "74.10.060",
+    "name": "Molore Pantai",
+    "alias": "Molore Pantai"
+  },
+  {
+    "code": "74.10.060.011",
+    "villageCode": "011",
+    "districtCode": "74.10.060",
+    "name": "Ngapainia",
+    "alias": "Ngapainia"
+  },
+  {
+    "code": "74.10.060.012",
+    "villageCode": "012",
+    "districtCode": "74.10.060",
+    "name": "Morombo Pantai",
+    "alias": "Morombo Pantai"
+  }
+]

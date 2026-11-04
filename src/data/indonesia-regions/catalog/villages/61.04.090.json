@@ -1,0 +1,65 @@
+[
+  {
+    "code": "61.04.090.001",
+    "villageCode": "001",
+    "districtCode": "61.04.090",
+    "name": "Sungai Purun Kecil",
+    "alias": "Sungai Purun Kecil"
+  },
+  {
+    "code": "61.04.090.003",
+    "villageCode": "003",
+    "districtCode": "61.04.090",
+    "name": "Peniraman",
+    "alias": "Peniraman"
+  },
+  {
+    "code": "61.04.090.004",
+    "villageCode": "004",
+    "districtCode": "61.04.090",
+    "name": "Nusapati",
+    "alias": "Nusapati"
+  },
+  {
+    "code": "61.04.090.005",
+    "villageCode": "005",
+    "districtCode": "61.04.090",
+    "name": "Galang",
+    "alias": "Galang"
+  },
+  {
+    "code": "61.04.090.008",
+    "villageCode": "008",
+    "districtCode": "61.04.090",
+    "name": "Sungai Rasau",
+    "alias": "Sungai Rasau"
+  },
+  {
+    "code": "61.04.090.009",
+    "villageCode": "009",
+    "districtCode": "61.04.090",
+    "name": "Sungai Pinyuh",
+    "alias": "Sungai Pinyuh"
+  },
+  {
+    "code": "61.04.090.010",
+    "villageCode": "010",
+    "districtCode": "61.04.090",
+    "name": "Sungai Batang",
+    "alias": "Sungai Batang"
+  },
+  {
+    "code": "61.04.090.011",
+    "villageCode": "011",
+    "districtCode": "61.04.090",
+    "name": "Sungai Bakau Besar Laut",
+    "alias": "Sungai Bakau Besar Laut"
+  },
+  {
+    "code": "61.04.090.012",
+    "villageCode": "012",
+    "districtCode": "61.04.090",
+    "name": "Sungai Bakau Besar Darat",
+    "alias": "Sungai Bakau Besar Darat"
+  }
+]

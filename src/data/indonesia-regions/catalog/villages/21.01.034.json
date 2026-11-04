@@ -1,0 +1,30 @@
+[
+  {
+    "code": "21.01.034.004",
+    "villageCode": "004",
+    "districtCode": "21.01.034",
+    "name": "Pasir Panjang",
+    "alias": "Pasir Panjang"
+  },
+  {
+    "code": "21.01.034.005",
+    "villageCode": "005",
+    "districtCode": "21.01.034",
+    "name": "Pangke",
+    "alias": "Pangke"
+  },
+  {
+    "code": "21.01.034.007",
+    "villageCode": "007",
+    "districtCode": "21.01.034",
+    "name": "Darusalam",
+    "alias": "Darusalam"
+  },
+  {
+    "code": "21.01.034.009",
+    "villageCode": "009",
+    "districtCode": "21.01.034",
+    "name": "Pangke Barat",
+    "alias": "Pangke Barat"
+  }
+]

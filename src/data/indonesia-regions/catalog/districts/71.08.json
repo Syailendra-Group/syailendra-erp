@@ -1,0 +1,82 @@
+[
+  {
+    "code": "71.08.010",
+    "districtCode": "010",
+    "regencyCode": "71.08",
+    "provinceCode": "71",
+    "name": "Kecamatan Biaro",
+    "alias": "Biaro"
+  },
+  {
+    "code": "71.08.020",
+    "districtCode": "020",
+    "regencyCode": "71.08",
+    "provinceCode": "71",
+    "name": "Kecamatan Tagulandang Selatan",
+    "alias": "Tagulandang Selatan"
+  },
+  {
+    "code": "71.08.030",
+    "districtCode": "030",
+    "regencyCode": "71.08",
+    "provinceCode": "71",
+    "name": "Kecamatan Tagulandang",
+    "alias": "Tagulandang"
+  },
+  {
+    "code": "71.08.040",
+    "districtCode": "040",
+    "regencyCode": "71.08",
+    "provinceCode": "71",
+    "name": "Kecamatan Tagulandang Utara",
+    "alias": "Tagulandang Utara"
+  },
+  {
+    "code": "71.08.050",
+    "districtCode": "050",
+    "regencyCode": "71.08",
+    "provinceCode": "71",
+    "name": "Kecamatan Siau Barat Selatan",
+    "alias": "Siau Barat Selatan"
+  },
+  {
+    "code": "71.08.060",
+    "districtCode": "060",
+    "regencyCode": "71.08",
+    "provinceCode": "71",
+    "name": "Kecamatan Siau Timur Selatan",
+    "alias": "Siau Timur Selatan"
+  },
+  {
+    "code": "71.08.070",
+    "districtCode": "070",
+    "regencyCode": "71.08",
+    "provinceCode": "71",
+    "name": "Kecamatan Siau Barat",
+    "alias": "Siau Barat"
+  },
+  {
+    "code": "71.08.080",
+    "districtCode": "080",
+    "regencyCode": "71.08",
+    "provinceCode": "71",
+    "name": "Kecamatan Siau Tengah",
+    "alias": "Siau Tengah"
+  },
+  {
+    "code": "71.08.090",
+    "districtCode": "090",
+    "regencyCode": "71.08",
+    "provinceCode": "71",
+    "name": "Kecamatan Siau Timur",
+    "alias": "Siau Timur"
+  },
+  {
+    "code": "71.08.100",
+    "districtCode": "100",
+    "regencyCode": "71.08",
+    "provinceCode": "71",
+    "name": "Kecamatan Siau Barat Utara",
+    "alias": "Siau Barat Utara"
+  }
+]

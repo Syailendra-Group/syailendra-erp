@@ -1,0 +1,65 @@
+[
+  {
+    "code": "15.03.051.001",
+    "villageCode": "001",
+    "districtCode": "15.03.051",
+    "name": "Lubuk Kepayang",
+    "alias": "Lubuk Kepayang"
+  },
+  {
+    "code": "15.03.051.002",
+    "villageCode": "002",
+    "districtCode": "15.03.051",
+    "name": "Desa Baru",
+    "alias": "Desa Baru"
+  },
+  {
+    "code": "15.03.051.003",
+    "villageCode": "003",
+    "districtCode": "15.03.051",
+    "name": "Semurung",
+    "alias": "Semurung"
+  },
+  {
+    "code": "15.03.051.004",
+    "villageCode": "004",
+    "districtCode": "15.03.051",
+    "name": "Jernih",
+    "alias": "Jernih"
+  },
+  {
+    "code": "15.03.051.005",
+    "villageCode": "005",
+    "districtCode": "15.03.051",
+    "name": "Lubuk Jering",
+    "alias": "Lubuk Jering"
+  },
+  {
+    "code": "15.03.051.006",
+    "villageCode": "006",
+    "districtCode": "15.03.051",
+    "name": "Mentawak Baru",
+    "alias": "Mentawak Baru"
+  },
+  {
+    "code": "15.03.051.007",
+    "villageCode": "007",
+    "districtCode": "15.03.051",
+    "name": "Pematang Kabau",
+    "alias": "Pematang Kabau"
+  },
+  {
+    "code": "15.03.051.008",
+    "villageCode": "008",
+    "districtCode": "15.03.051",
+    "name": "Bukit Suban",
+    "alias": "Bukit Suban"
+  },
+  {
+    "code": "15.03.051.015",
+    "villageCode": "015",
+    "districtCode": "15.03.051",
+    "name": "Mentawak Ulu",
+    "alias": "Mentawak Ulu"
+  }
+]

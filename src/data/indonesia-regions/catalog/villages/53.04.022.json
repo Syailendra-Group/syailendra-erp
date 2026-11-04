@@ -1,0 +1,37 @@
+[
+  {
+    "code": "53.04.022.001",
+    "villageCode": "001",
+    "districtCode": "53.04.022",
+    "name": "Besana",
+    "alias": "Besana"
+  },
+  {
+    "code": "53.04.022.002",
+    "villageCode": "002",
+    "districtCode": "53.04.022",
+    "name": "Fatukoko",
+    "alias": "Fatukoko"
+  },
+  {
+    "code": "53.04.022.003",
+    "villageCode": "003",
+    "districtCode": "53.04.022",
+    "name": "Koa",
+    "alias": "Koa"
+  },
+  {
+    "code": "53.04.022.004",
+    "villageCode": "004",
+    "districtCode": "53.04.022",
+    "name": "Salbait",
+    "alias": "Salbait"
+  },
+  {
+    "code": "53.04.022.005",
+    "villageCode": "005",
+    "districtCode": "53.04.022",
+    "name": "Oeuban",
+    "alias": "Oeuban"
+  }
+]

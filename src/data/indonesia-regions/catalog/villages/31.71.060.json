@@ -1,0 +1,72 @@
+[
+  {
+    "code": "31.71.060.001",
+    "villageCode": "001",
+    "districtCode": "31.71.060",
+    "name": "Gandaria Utara",
+    "alias": "Gandaria Utara"
+  },
+  {
+    "code": "31.71.060.002",
+    "villageCode": "002",
+    "districtCode": "31.71.060",
+    "name": "Cipete Utara",
+    "alias": "Cipete Utara"
+  },
+  {
+    "code": "31.71.060.003",
+    "villageCode": "003",
+    "districtCode": "31.71.060",
+    "name": "Pulo",
+    "alias": "Pulo"
+  },
+  {
+    "code": "31.71.060.004",
+    "villageCode": "004",
+    "districtCode": "31.71.060",
+    "name": "Petogogan",
+    "alias": "Petogogan"
+  },
+  {
+    "code": "31.71.060.005",
+    "villageCode": "005",
+    "districtCode": "31.71.060",
+    "name": "Melawai",
+    "alias": "Melawai"
+  },
+  {
+    "code": "31.71.060.006",
+    "villageCode": "006",
+    "districtCode": "31.71.060",
+    "name": "Kramat Pela",
+    "alias": "Kramat Pela"
+  },
+  {
+    "code": "31.71.060.007",
+    "villageCode": "007",
+    "districtCode": "31.71.060",
+    "name": "Gunung",
+    "alias": "Gunung"
+  },
+  {
+    "code": "31.71.060.008",
+    "villageCode": "008",
+    "districtCode": "31.71.060",
+    "name": "Selong",
+    "alias": "Selong"
+  },
+  {
+    "code": "31.71.060.009",
+    "villageCode": "009",
+    "districtCode": "31.71.060",
+    "name": "Rawa Barat",
+    "alias": "Rawa Barat"
+  },
+  {
+    "code": "31.71.060.010",
+    "villageCode": "010",
+    "districtCode": "31.71.060",
+    "name": "Senayan",
+    "alias": "Senayan"
+  }
+]

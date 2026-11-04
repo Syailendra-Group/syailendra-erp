@@ -1,0 +1,100 @@
+[
+  {
+    "code": "12.06.072.001",
+    "villageCode": "001",
+    "districtCode": "12.06.072",
+    "name": "Narumonda V",
+    "alias": "Narumonda V"
+  },
+  {
+    "code": "12.06.072.002",
+    "villageCode": "002",
+    "districtCode": "12.06.072",
+    "name": "Narumonda Vi",
+    "alias": "Narumonda Vi"
+  },
+  {
+    "code": "12.06.072.003",
+    "villageCode": "003",
+    "districtCode": "12.06.072",
+    "name": "Narumonda Vii",
+    "alias": "Narumonda Vii"
+  },
+  {
+    "code": "12.06.072.004",
+    "villageCode": "004",
+    "districtCode": "12.06.072",
+    "name": "Narumonda Viii",
+    "alias": "Narumonda Viii"
+  },
+  {
+    "code": "12.06.072.005",
+    "villageCode": "005",
+    "districtCode": "12.06.072",
+    "name": "Siantar Sitiotio",
+    "alias": "Siantar Sitiotio"
+  },
+  {
+    "code": "12.06.072.006",
+    "villageCode": "006",
+    "districtCode": "12.06.072",
+    "name": "Narumonda I",
+    "alias": "Narumonda I"
+  },
+  {
+    "code": "12.06.072.007",
+    "villageCode": "007",
+    "districtCode": "12.06.072",
+    "name": "Narumonda Ii",
+    "alias": "Narumonda Ii"
+  },
+  {
+    "code": "12.06.072.008",
+    "villageCode": "008",
+    "districtCode": "12.06.072",
+    "name": "Narumonda Iii",
+    "alias": "Narumonda Iii"
+  },
+  {
+    "code": "12.06.072.009",
+    "villageCode": "009",
+    "districtCode": "12.06.072",
+    "name": "Narumonda Iv",
+    "alias": "Narumonda Iv"
+  },
+  {
+    "code": "12.06.072.010",
+    "villageCode": "010",
+    "districtCode": "12.06.072",
+    "name": "Siantar Tonga Tonga Ii",
+    "alias": "Siantar Tonga Tonga Ii"
+  },
+  {
+    "code": "12.06.072.011",
+    "villageCode": "011",
+    "districtCode": "12.06.072",
+    "name": "Siantar Dangsina",
+    "alias": "Siantar Dangsina"
+  },
+  {
+    "code": "12.06.072.012",
+    "villageCode": "012",
+    "districtCode": "12.06.072",
+    "name": "Siantar Tonga Tonga I",
+    "alias": "Siantar Tonga Tonga I"
+  },
+  {
+    "code": "12.06.072.013",
+    "villageCode": "013",
+    "districtCode": "12.06.072",
+    "name": "Siantar Sigordang",
+    "alias": "Siantar Sigordang"
+  },
+  {
+    "code": "12.06.072.014",
+    "villageCode": "014",
+    "districtCode": "12.06.072",
+    "name": "Siantar Tonga Tonga Iii",
+    "alias": "Siantar Tonga Tonga Iii"
+  }
+]

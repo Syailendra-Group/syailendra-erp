@@ -1,0 +1,86 @@
+[
+  {
+    "code": "12.10.080.001",
+    "villageCode": "001",
+    "districtCode": "12.10.080",
+    "name": "Tambahan",
+    "alias": "Tambahan"
+  },
+  {
+    "code": "12.10.080.002",
+    "villageCode": "002",
+    "districtCode": "12.10.080",
+    "name": "Kuta Tengah",
+    "alias": "Kuta Tengah"
+  },
+  {
+    "code": "12.10.080.003",
+    "villageCode": "003",
+    "districtCode": "12.10.080",
+    "name": "Lae Nuaha",
+    "alias": "Lae Nuaha"
+  },
+  {
+    "code": "12.10.080.004",
+    "villageCode": "004",
+    "districtCode": "12.10.080",
+    "name": "Sungai Raya",
+    "alias": "Sungai Raya"
+  },
+  {
+    "code": "12.10.080.005",
+    "villageCode": "005",
+    "districtCode": "12.10.080",
+    "name": "Gunung Meriah",
+    "alias": "Gunung Meriah"
+  },
+  {
+    "code": "12.10.080.006",
+    "villageCode": "006",
+    "districtCode": "12.10.080",
+    "name": "Sigambir Gambir",
+    "alias": "Sigambir Gambir"
+  },
+  {
+    "code": "12.10.080.007",
+    "villageCode": "007",
+    "districtCode": "12.10.080",
+    "name": "Silumboyah",
+    "alias": "Silumboyah"
+  },
+  {
+    "code": "12.10.080.008",
+    "villageCode": "008",
+    "districtCode": "12.10.080",
+    "name": "Pangaribuan",
+    "alias": "Pangaribuan"
+  },
+  {
+    "code": "12.10.080.009",
+    "villageCode": "009",
+    "districtCode": "12.10.080",
+    "name": "Tualang",
+    "alias": "Tualang"
+  },
+  {
+    "code": "12.10.080.010",
+    "villageCode": "010",
+    "districtCode": "12.10.080",
+    "name": "Bakal Julu",
+    "alias": "Bakal Julu"
+  },
+  {
+    "code": "12.10.080.011",
+    "villageCode": "011",
+    "districtCode": "12.10.080",
+    "name": "Sipoltong",
+    "alias": "Sipoltong"
+  },
+  {
+    "code": "12.10.080.012",
+    "villageCode": "012",
+    "districtCode": "12.10.080",
+    "name": "P A N D A N",
+    "alias": "P A N D A N"
+  }
+]

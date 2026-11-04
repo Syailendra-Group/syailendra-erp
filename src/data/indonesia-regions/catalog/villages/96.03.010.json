@@ -1,0 +1,37 @@
+[
+  {
+    "code": "96.03.010.001",
+    "villageCode": "001",
+    "districtCode": "96.03.010",
+    "name": "Yamouwitina",
+    "alias": "Yamouwitina"
+  },
+  {
+    "code": "96.03.010.002",
+    "villageCode": "002",
+    "districtCode": "96.03.010",
+    "name": "Mogodagi",
+    "alias": "Mogodagi"
+  },
+  {
+    "code": "96.03.010.003",
+    "villageCode": "003",
+    "districtCode": "96.03.010",
+    "name": "Komauto",
+    "alias": "Komauto"
+  },
+  {
+    "code": "96.03.010.004",
+    "villageCode": "004",
+    "districtCode": "96.03.010",
+    "name": "Uwe Onagei",
+    "alias": "Uwe Onagei"
+  },
+  {
+    "code": "96.03.010.005",
+    "villageCode": "005",
+    "districtCode": "96.03.010",
+    "name": "Ideego",
+    "alias": "Ideego"
+  }
+]

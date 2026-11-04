@@ -1,0 +1,30 @@
+[
+  {
+    "code": "18.03.102.001",
+    "villageCode": "001",
+    "districtCode": "18.03.102",
+    "name": "Sidoharjo",
+    "alias": "Sidoharjo"
+  },
+  {
+    "code": "18.03.102.002",
+    "villageCode": "002",
+    "districtCode": "18.03.102",
+    "name": "Sidomakmur",
+    "alias": "Sidomakmur"
+  },
+  {
+    "code": "18.03.102.003",
+    "villageCode": "003",
+    "districtCode": "18.03.102",
+    "name": "Sidoreno",
+    "alias": "Sidoreno"
+  },
+  {
+    "code": "18.03.102.004",
+    "villageCode": "004",
+    "districtCode": "18.03.102",
+    "name": "Balinuraga",
+    "alias": "Balinuraga"
+  }
+]

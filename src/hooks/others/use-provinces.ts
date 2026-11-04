@@ -1,6 +1,13 @@
 import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
 
-import { getProvinceByIdAction, getProvincesAction, getProvincesPaginatedAction, saveProvinceAction } from '@/actions/others/province.action'
+import {
+  checkProvinceExistsAction,
+  getProvinceByIdAction,
+  getProvinceFilterOptionsAction,
+  getProvincesAction,
+  getProvincesPaginatedAction,
+  saveProvinceAction
+} from '@/actions/others/province.action'
 
 import type { ProvinceFormValues } from '@/schemas/others/province-schema'
 import type { FetchProvincesParams } from '@/services/odoo/others/province.service'
@@ -11,7 +18,9 @@ export const provinceKeys = {
   lists: () => [...provinceKeys.all, 'list'] as const,
   byCountry: (countryId?: number) => [...provinceKeys.lists(), { countryId }] as const,
   paginated: (params: FetchProvincesParams) => [...provinceKeys.all, 'paginated', params] as const,
-  detail: (id: number) => [...provinceKeys.all, 'detail', id] as const
+  detail: (id: number) => [...provinceKeys.all, 'detail', id] as const,
+  checkExists: (params: { code?: string; name?: string }) => ['province-exists', params] as const,
+  filterOptions: () => [...provinceKeys.all, 'filter-options'] as const
 }
 
 export function useProvincesQuery(countryId?: number) {
@@ -43,6 +52,27 @@ export function useProvinceDetailQuery(id: number) {
       return await getProvinceByIdAction(id)
     },
     enabled: Boolean(id)
+  })
+}
+
+export function useCheckProvinceExistsQuery(params: { code?: string; name?: string }, enabled = true) {
+  return useQuery({
+    queryKey: provinceKeys.checkExists(params),
+    queryFn: async () => {
+      return await checkProvinceExistsAction(params)
+    },
+    enabled: enabled && Boolean(params.code || params.name),
+    staleTime: 10 * 1000
+  })
+}
+
+export function useProvinceFilterOptionsQuery() {
+  return useQuery({
+    queryKey: provinceKeys.filterOptions(),
+    queryFn: async () => {
+      return await getProvinceFilterOptionsAction()
+    },
+    staleTime: 60 * 1000
   })
 }
 

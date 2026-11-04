@@ -1,0 +1,58 @@
+[
+  {
+    "code": "82.04.010.001",
+    "villageCode": "001",
+    "districtCode": "82.04.010",
+    "name": "Loleo",
+    "alias": "Loleo"
+  },
+  {
+    "code": "82.04.010.002",
+    "villageCode": "002",
+    "districtCode": "82.04.010",
+    "name": "Mano",
+    "alias": "Mano"
+  },
+  {
+    "code": "82.04.010.003",
+    "villageCode": "003",
+    "districtCode": "82.04.010",
+    "name": "Soligi",
+    "alias": "Soligi"
+  },
+  {
+    "code": "82.04.010.004",
+    "villageCode": "004",
+    "districtCode": "82.04.010",
+    "name": "Wayaloar",
+    "alias": "Wayaloar"
+  },
+  {
+    "code": "82.04.010.005",
+    "villageCode": "005",
+    "districtCode": "82.04.010",
+    "name": "Fluk",
+    "alias": "Fluk"
+  },
+  {
+    "code": "82.04.010.006",
+    "villageCode": "006",
+    "districtCode": "82.04.010",
+    "name": "Bobo",
+    "alias": "Bobo"
+  },
+  {
+    "code": "82.04.010.008",
+    "villageCode": "008",
+    "districtCode": "82.04.010",
+    "name": "Ocimaloleo",
+    "alias": "Ocimaloleo"
+  },
+  {
+    "code": "82.04.010.009",
+    "villageCode": "009",
+    "districtCode": "82.04.010",
+    "name": "Gambaru",
+    "alias": "Gambaru"
+  }
+]

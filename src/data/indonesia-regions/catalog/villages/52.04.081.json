@@ -1,0 +1,51 @@
+[
+  {
+    "code": "52.04.081.001",
+    "villageCode": "001",
+    "districtCode": "52.04.081",
+    "name": "Labuhan Badas",
+    "alias": "Labuhan Badas"
+  },
+  {
+    "code": "52.04.081.002",
+    "villageCode": "002",
+    "districtCode": "52.04.081",
+    "name": "Karang Dima",
+    "alias": "Karang Dima"
+  },
+  {
+    "code": "52.04.081.003",
+    "villageCode": "003",
+    "districtCode": "52.04.081",
+    "name": "Labuhan Sumbawa",
+    "alias": "Labuhan Sumbawa"
+  },
+  {
+    "code": "52.04.081.004",
+    "villageCode": "004",
+    "districtCode": "52.04.081",
+    "name": "Labuhan Aji",
+    "alias": "Labuhan Aji"
+  },
+  {
+    "code": "52.04.081.005",
+    "villageCode": "005",
+    "districtCode": "52.04.081",
+    "name": "Sebotok",
+    "alias": "Sebotok"
+  },
+  {
+    "code": "52.04.081.006",
+    "villageCode": "006",
+    "districtCode": "52.04.081",
+    "name": "Bajo Medang",
+    "alias": "Bajo Medang"
+  },
+  {
+    "code": "52.04.081.007",
+    "villageCode": "007",
+    "districtCode": "52.04.081",
+    "name": "Bugis Medang",
+    "alias": "Bugis Medang"
+  }
+]

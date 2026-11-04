@@ -1,0 +1,58 @@
+[
+  {
+    "code": "62.11.061.001",
+    "villageCode": "001",
+    "districtCode": "62.11.061",
+    "name": "Lawang Kanji",
+    "alias": "Lawang Kanji"
+  },
+  {
+    "code": "62.11.061.002",
+    "villageCode": "002",
+    "districtCode": "62.11.061",
+    "name": "Tumbang Maraya",
+    "alias": "Tumbang Maraya"
+  },
+  {
+    "code": "62.11.061.003",
+    "villageCode": "003",
+    "districtCode": "62.11.061",
+    "name": "Tumbang Posu",
+    "alias": "Tumbang Posu"
+  },
+  {
+    "code": "62.11.061.004",
+    "villageCode": "004",
+    "districtCode": "62.11.061",
+    "name": "Tumbang Marikoi",
+    "alias": "Tumbang Marikoi"
+  },
+  {
+    "code": "62.11.061.005",
+    "villageCode": "005",
+    "districtCode": "62.11.061",
+    "name": "Karetau Rambangun",
+    "alias": "Karetau Rambangun"
+  },
+  {
+    "code": "62.11.061.006",
+    "villageCode": "006",
+    "districtCode": "62.11.061",
+    "name": "Tumbang Anoi",
+    "alias": "Tumbang Anoi"
+  },
+  {
+    "code": "62.11.061.007",
+    "villageCode": "007",
+    "districtCode": "62.11.061",
+    "name": "Karetau Sarian",
+    "alias": "Karetau Sarian"
+  },
+  {
+    "code": "62.11.061.008",
+    "villageCode": "008",
+    "districtCode": "62.11.061",
+    "name": "Tumbang Mahuroi",
+    "alias": "Tumbang Mahuroi"
+  }
+]

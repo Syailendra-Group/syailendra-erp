@@ -1,0 +1,51 @@
+[
+  {
+    "code": "53.04.101.003",
+    "villageCode": "003",
+    "districtCode": "53.04.101",
+    "name": "Sabun",
+    "alias": "Sabun"
+  },
+  {
+    "code": "53.04.101.004",
+    "villageCode": "004",
+    "districtCode": "53.04.101",
+    "name": "Nano",
+    "alias": "Nano"
+  },
+  {
+    "code": "53.04.101.005",
+    "villageCode": "005",
+    "districtCode": "53.04.101",
+    "name": "Boking",
+    "alias": "Boking"
+  },
+  {
+    "code": "53.04.101.006",
+    "villageCode": "006",
+    "districtCode": "53.04.101",
+    "name": "Leonmeni",
+    "alias": "Leonmeni"
+  },
+  {
+    "code": "53.04.101.012",
+    "villageCode": "012",
+    "districtCode": "53.04.101",
+    "name": "Meusin",
+    "alias": "Meusin"
+  },
+  {
+    "code": "53.04.101.013",
+    "villageCode": "013",
+    "districtCode": "53.04.101",
+    "name": "Baus",
+    "alias": "Baus"
+  },
+  {
+    "code": "53.04.101.014",
+    "villageCode": "014",
+    "districtCode": "53.04.101",
+    "name": "Fatu Manufui",
+    "alias": "Fatu Manufui"
+  }
+]

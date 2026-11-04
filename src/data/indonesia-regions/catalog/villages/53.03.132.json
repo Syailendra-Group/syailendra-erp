@@ -1,0 +1,37 @@
+[
+  {
+    "code": "53.03.132.001",
+    "villageCode": "001",
+    "districtCode": "53.03.132",
+    "name": "Sahraen",
+    "alias": "Sahraen"
+  },
+  {
+    "code": "53.03.132.002",
+    "villageCode": "002",
+    "districtCode": "53.03.132",
+    "name": "Retraen",
+    "alias": "Retraen"
+  },
+  {
+    "code": "53.03.132.003",
+    "villageCode": "003",
+    "districtCode": "53.03.132",
+    "name": "Buraen",
+    "alias": "Buraen"
+  },
+  {
+    "code": "53.03.132.004",
+    "villageCode": "004",
+    "districtCode": "53.03.132",
+    "name": "Nekmese",
+    "alias": "Nekmese"
+  },
+  {
+    "code": "53.03.132.005",
+    "villageCode": "005",
+    "districtCode": "53.03.132",
+    "name": "Sonraen",
+    "alias": "Sonraen"
+  }
+]

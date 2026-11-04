@@ -1,0 +1,100 @@
+[
+  {
+    "code": "14.01.020.001",
+    "villageCode": "001",
+    "districtCode": "14.01.020",
+    "name": "Pangkalan Indarung",
+    "alias": "Pangkalan Indarung"
+  },
+  {
+    "code": "14.01.020.002",
+    "villageCode": "002",
+    "districtCode": "14.01.020",
+    "name": "Pulau Padang",
+    "alias": "Pulau Padang"
+  },
+  {
+    "code": "14.01.020.003",
+    "villageCode": "003",
+    "districtCode": "14.01.020",
+    "name": "Muara Lembu",
+    "alias": "Muara Lembu"
+  },
+  {
+    "code": "14.01.020.004",
+    "villageCode": "004",
+    "districtCode": "14.01.020",
+    "name": "Logas",
+    "alias": "Logas"
+  },
+  {
+    "code": "14.01.020.005",
+    "villageCode": "005",
+    "districtCode": "14.01.020",
+    "name": "Sungai Bawang",
+    "alias": "Sungai Bawang"
+  },
+  {
+    "code": "14.01.020.006",
+    "villageCode": "006",
+    "districtCode": "14.01.020",
+    "name": "Air Mas",
+    "alias": "Air Mas"
+  },
+  {
+    "code": "14.01.020.007",
+    "villageCode": "007",
+    "districtCode": "14.01.020",
+    "name": "Sumber Datar",
+    "alias": "Sumber Datar"
+  },
+  {
+    "code": "14.01.020.008",
+    "villageCode": "008",
+    "districtCode": "14.01.020",
+    "name": "Sungai Keranji",
+    "alias": "Sungai Keranji"
+  },
+  {
+    "code": "14.01.020.009",
+    "villageCode": "009",
+    "districtCode": "14.01.020",
+    "name": "Pasir Emas",
+    "alias": "Pasir Emas"
+  },
+  {
+    "code": "14.01.020.010",
+    "villageCode": "010",
+    "districtCode": "14.01.020",
+    "name": "Sungai Sirih",
+    "alias": "Sungai Sirih"
+  },
+  {
+    "code": "14.01.020.011",
+    "villageCode": "011",
+    "districtCode": "14.01.020",
+    "name": "Kebun Lado",
+    "alias": "Kebun Lado"
+  },
+  {
+    "code": "14.01.020.013",
+    "villageCode": "013",
+    "districtCode": "14.01.020",
+    "name": "Sungai Kuning",
+    "alias": "Sungai Kuning"
+  },
+  {
+    "code": "14.01.020.014",
+    "villageCode": "014",
+    "districtCode": "14.01.020",
+    "name": "Petai Baru",
+    "alias": "Petai Baru"
+  },
+  {
+    "code": "14.01.020.015",
+    "villageCode": "015",
+    "districtCode": "14.01.020",
+    "name": "Logas Hilir",
+    "alias": "Logas Hilir"
+  }
+]

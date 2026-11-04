@@ -1,0 +1,58 @@
+[
+  {
+    "code": "13.74.020.001",
+    "villageCode": "001",
+    "districtCode": "13.74.020",
+    "name": "Koto Panjang",
+    "alias": "Koto Panjang"
+  },
+  {
+    "code": "13.74.020.002",
+    "villageCode": "002",
+    "districtCode": "13.74.020",
+    "name": "Koto Katik",
+    "alias": "Koto Katik"
+  },
+  {
+    "code": "13.74.020.003",
+    "villageCode": "003",
+    "districtCode": "13.74.020",
+    "name": "Ngalau",
+    "alias": "Ngalau"
+  },
+  {
+    "code": "13.74.020.004",
+    "villageCode": "004",
+    "districtCode": "13.74.020",
+    "name": "Ekor Lubuk",
+    "alias": "Ekor Lubuk"
+  },
+  {
+    "code": "13.74.020.005",
+    "villageCode": "005",
+    "districtCode": "13.74.020",
+    "name": "Sigando",
+    "alias": "Sigando"
+  },
+  {
+    "code": "13.74.020.006",
+    "villageCode": "006",
+    "districtCode": "13.74.020",
+    "name": "Ganting",
+    "alias": "Ganting"
+  },
+  {
+    "code": "13.74.020.007",
+    "villageCode": "007",
+    "districtCode": "13.74.020",
+    "name": "Guguk  Malintang",
+    "alias": "Guguk  Malintang"
+  },
+  {
+    "code": "13.74.020.008",
+    "villageCode": "008",
+    "districtCode": "13.74.020",
+    "name": "Tanah  Pak Lambik",
+    "alias": "Tanah  Pak Lambik"
+  }
+]

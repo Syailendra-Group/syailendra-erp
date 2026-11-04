@@ -1,0 +1,72 @@
+[
+  {
+    "code": "71.02.093.001",
+    "villageCode": "001",
+    "districtCode": "71.02.093",
+    "name": "Rumbia",
+    "alias": "Rumbia"
+  },
+  {
+    "code": "71.02.093.002",
+    "villageCode": "002",
+    "districtCode": "71.02.093",
+    "name": "Temboan",
+    "alias": "Temboan"
+  },
+  {
+    "code": "71.02.093.003",
+    "villageCode": "003",
+    "districtCode": "71.02.093",
+    "name": "Palamba",
+    "alias": "Palamba"
+  },
+  {
+    "code": "71.02.093.004",
+    "villageCode": "004",
+    "districtCode": "71.02.093",
+    "name": "Atep",
+    "alias": "Atep"
+  },
+  {
+    "code": "71.02.093.005",
+    "villageCode": "005",
+    "districtCode": "71.02.093",
+    "name": "Manembo",
+    "alias": "Manembo"
+  },
+  {
+    "code": "71.02.093.006",
+    "villageCode": "006",
+    "districtCode": "71.02.093",
+    "name": "Winebetan",
+    "alias": "Winebetan"
+  },
+  {
+    "code": "71.02.093.007",
+    "villageCode": "007",
+    "districtCode": "71.02.093",
+    "name": "Kaayuran Atas",
+    "alias": "Kaayuran Atas"
+  },
+  {
+    "code": "71.02.093.008",
+    "villageCode": "008",
+    "districtCode": "71.02.093",
+    "name": "Kaayuran Bawah",
+    "alias": "Kaayuran Bawah"
+  },
+  {
+    "code": "71.02.093.009",
+    "villageCode": "009",
+    "districtCode": "71.02.093",
+    "name": "Kawatak",
+    "alias": "Kawatak"
+  },
+  {
+    "code": "71.02.093.010",
+    "villageCode": "010",
+    "districtCode": "71.02.093",
+    "name": "Atep Satu",
+    "alias": "Atep Satu"
+  }
+]

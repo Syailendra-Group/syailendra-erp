@@ -1,0 +1,90 @@
+[
+  {
+    "code": "53.17.010",
+    "districtCode": "010",
+    "regencyCode": "53.17",
+    "provinceCode": "53",
+    "name": "Kecamatan Kodi Bangedo",
+    "alias": "Kodi Bangedo"
+  },
+  {
+    "code": "53.17.011",
+    "districtCode": "011",
+    "regencyCode": "53.17",
+    "provinceCode": "53",
+    "name": "Kecamatan Kodi Balaghar",
+    "alias": "Kodi Balaghar"
+  },
+  {
+    "code": "53.17.020",
+    "districtCode": "020",
+    "regencyCode": "53.17",
+    "provinceCode": "53",
+    "name": "Kecamatan Kodi",
+    "alias": "Kodi"
+  },
+  {
+    "code": "53.17.030",
+    "districtCode": "030",
+    "regencyCode": "53.17",
+    "provinceCode": "53",
+    "name": "Kecamatan Kodi Utara",
+    "alias": "Kodi Utara"
+  },
+  {
+    "code": "53.17.040",
+    "districtCode": "040",
+    "regencyCode": "53.17",
+    "provinceCode": "53",
+    "name": "Kecamatan Wewewa Selatan",
+    "alias": "Wewewa Selatan"
+  },
+  {
+    "code": "53.17.050",
+    "districtCode": "050",
+    "regencyCode": "53.17",
+    "provinceCode": "53",
+    "name": "Kecamatan Wewewa Barat",
+    "alias": "Wewewa Barat"
+  },
+  {
+    "code": "53.17.060",
+    "districtCode": "060",
+    "regencyCode": "53.17",
+    "provinceCode": "53",
+    "name": "Kecamatan Wewewa Timur",
+    "alias": "Wewewa Timur"
+  },
+  {
+    "code": "53.17.061",
+    "districtCode": "061",
+    "regencyCode": "53.17",
+    "provinceCode": "53",
+    "name": "Kecamatan Wewewa Tengah",
+    "alias": "Wewewa Tengah"
+  },
+  {
+    "code": "53.17.070",
+    "districtCode": "070",
+    "regencyCode": "53.17",
+    "provinceCode": "53",
+    "name": "Kecamatan Wewewa Utara",
+    "alias": "Wewewa Utara"
+  },
+  {
+    "code": "53.17.080",
+    "districtCode": "080",
+    "regencyCode": "53.17",
+    "provinceCode": "53",
+    "name": "Kecamatan Loura",
+    "alias": "Loura"
+  },
+  {
+    "code": "53.17.081",
+    "districtCode": "081",
+    "regencyCode": "53.17",
+    "provinceCode": "53",
+    "name": "Kecamatan Kota Tambolaka",
+    "alias": "Kota Tambolaka"
+  }
+]

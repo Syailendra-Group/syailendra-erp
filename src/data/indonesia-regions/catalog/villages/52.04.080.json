@@ -1,0 +1,58 @@
+[
+  {
+    "code": "52.04.080.004",
+    "villageCode": "004",
+    "districtCode": "52.04.080",
+    "name": "Lempeh",
+    "alias": "Lempeh"
+  },
+  {
+    "code": "52.04.080.010",
+    "villageCode": "010",
+    "districtCode": "52.04.080",
+    "name": "Samapuin",
+    "alias": "Samapuin"
+  },
+  {
+    "code": "52.04.080.011",
+    "villageCode": "011",
+    "districtCode": "52.04.080",
+    "name": "Brang Bara",
+    "alias": "Brang Bara"
+  },
+  {
+    "code": "52.04.080.012",
+    "villageCode": "012",
+    "districtCode": "52.04.080",
+    "name": "Pekat",
+    "alias": "Pekat"
+  },
+  {
+    "code": "52.04.080.013",
+    "villageCode": "013",
+    "districtCode": "52.04.080",
+    "name": "Seketeng",
+    "alias": "Seketeng"
+  },
+  {
+    "code": "52.04.080.014",
+    "villageCode": "014",
+    "districtCode": "52.04.080",
+    "name": "Bugis",
+    "alias": "Bugis"
+  },
+  {
+    "code": "52.04.080.015",
+    "villageCode": "015",
+    "districtCode": "52.04.080",
+    "name": "Uma Sima",
+    "alias": "Uma Sima"
+  },
+  {
+    "code": "52.04.080.016",
+    "villageCode": "016",
+    "districtCode": "52.04.080",
+    "name": "Brang Biji",
+    "alias": "Brang Biji"
+  }
+]

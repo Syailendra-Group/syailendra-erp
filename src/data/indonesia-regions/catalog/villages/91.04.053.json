@@ -1,0 +1,51 @@
+[
+  {
+    "code": "91.04.053.001",
+    "villageCode": "001",
+    "districtCode": "91.04.053",
+    "name": "Horna",
+    "alias": "Horna"
+  },
+  {
+    "code": "91.04.053.002",
+    "villageCode": "002",
+    "districtCode": "91.04.053",
+    "name": "Cumnaji",
+    "alias": "Cumnaji"
+  },
+  {
+    "code": "91.04.053.003",
+    "villageCode": "003",
+    "districtCode": "91.04.053",
+    "name": "Menci",
+    "alias": "Menci"
+  },
+  {
+    "code": "91.04.053.004",
+    "villageCode": "004",
+    "districtCode": "91.04.053",
+    "name": "Sir",
+    "alias": "Sir"
+  },
+  {
+    "code": "91.04.053.005",
+    "villageCode": "005",
+    "districtCode": "91.04.053",
+    "name": "Huss",
+    "alias": "Huss"
+  },
+  {
+    "code": "91.04.053.006",
+    "villageCode": "006",
+    "districtCode": "91.04.053",
+    "name": "Ugdohop",
+    "alias": "Ugdohop"
+  },
+  {
+    "code": "91.04.053.007",
+    "villageCode": "007",
+    "districtCode": "91.04.053",
+    "name": "Ahaura",
+    "alias": "Ahaura"
+  }
+]

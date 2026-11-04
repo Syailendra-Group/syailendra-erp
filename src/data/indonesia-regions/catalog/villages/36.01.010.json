@@ -1,0 +1,51 @@
+[
+  {
+    "code": "36.01.010.001",
+    "villageCode": "001",
+    "districtCode": "36.01.010",
+    "name": "Ujungjaya",
+    "alias": "Ujungjaya"
+  },
+  {
+    "code": "36.01.010.002",
+    "villageCode": "002",
+    "districtCode": "36.01.010",
+    "name": "Tamanjaya",
+    "alias": "Tamanjaya"
+  },
+  {
+    "code": "36.01.010.003",
+    "villageCode": "003",
+    "districtCode": "36.01.010",
+    "name": "Cigorondong",
+    "alias": "Cigorondong"
+  },
+  {
+    "code": "36.01.010.004",
+    "villageCode": "004",
+    "districtCode": "36.01.010",
+    "name": "Tunggaljaya",
+    "alias": "Tunggaljaya"
+  },
+  {
+    "code": "36.01.010.005",
+    "villageCode": "005",
+    "districtCode": "36.01.010",
+    "name": "Kertamukti",
+    "alias": "Kertamukti"
+  },
+  {
+    "code": "36.01.010.006",
+    "villageCode": "006",
+    "districtCode": "36.01.010",
+    "name": "Kertajaya",
+    "alias": "Kertajaya"
+  },
+  {
+    "code": "36.01.010.007",
+    "villageCode": "007",
+    "districtCode": "36.01.010",
+    "name": "Sumberjaya",
+    "alias": "Sumberjaya"
+  }
+]

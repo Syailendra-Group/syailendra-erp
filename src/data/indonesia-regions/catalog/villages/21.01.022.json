@@ -1,0 +1,37 @@
+[
+  {
+    "code": "21.01.022.001",
+    "villageCode": "001",
+    "districtCode": "21.01.022",
+    "name": "Sawang",
+    "alias": "Sawang"
+  },
+  {
+    "code": "21.01.022.002",
+    "villageCode": "002",
+    "districtCode": "21.01.022",
+    "name": "Sawang Laut",
+    "alias": "Sawang Laut"
+  },
+  {
+    "code": "21.01.022.003",
+    "villageCode": "003",
+    "districtCode": "21.01.022",
+    "name": "Kundur",
+    "alias": "Kundur"
+  },
+  {
+    "code": "21.01.022.004",
+    "villageCode": "004",
+    "districtCode": "21.01.022",
+    "name": "Sawang Selatan",
+    "alias": "Sawang Selatan"
+  },
+  {
+    "code": "21.01.022.005",
+    "villageCode": "005",
+    "districtCode": "21.01.022",
+    "name": "Gemuruh",
+    "alias": "Gemuruh"
+  }
+]

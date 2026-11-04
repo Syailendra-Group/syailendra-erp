@@ -1,0 +1,44 @@
+[
+  {
+    "code": "14.71.080.001",
+    "villageCode": "001",
+    "districtCode": "14.71.080",
+    "name": "Umban Sari",
+    "alias": "Umban Sari"
+  },
+  {
+    "code": "14.71.080.008",
+    "villageCode": "008",
+    "districtCode": "14.71.080",
+    "name": "Palas",
+    "alias": "Palas"
+  },
+  {
+    "code": "14.71.080.009",
+    "villageCode": "009",
+    "districtCode": "14.71.080",
+    "name": "Sri Meranti",
+    "alias": "Sri Meranti"
+  },
+  {
+    "code": "14.71.080.014",
+    "villageCode": "014",
+    "districtCode": "14.71.080",
+    "name": "Meranti Pandak",
+    "alias": "Meranti Pandak"
+  },
+  {
+    "code": "14.71.080.015",
+    "villageCode": "015",
+    "districtCode": "14.71.080",
+    "name": "Lembah Damai",
+    "alias": "Lembah Damai"
+  },
+  {
+    "code": "14.71.080.016",
+    "villageCode": "016",
+    "districtCode": "14.71.080",
+    "name": "Limbungan Baru",
+    "alias": "Limbungan Baru"
+  }
+]

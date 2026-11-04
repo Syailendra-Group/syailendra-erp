@@ -1,0 +1,98 @@
+[
+  {
+    "code": "12.19.010",
+    "districtCode": "010",
+    "regencyCode": "12.19",
+    "provinceCode": "12",
+    "name": "Kecamatan Sei Balai",
+    "alias": "Sei Balai"
+  },
+  {
+    "code": "12.19.020",
+    "districtCode": "020",
+    "regencyCode": "12.19",
+    "provinceCode": "12",
+    "name": "Kecamatan Tanjung Tiram",
+    "alias": "Tanjung Tiram"
+  },
+  {
+    "code": "12.19.021",
+    "districtCode": "021",
+    "regencyCode": "12.19",
+    "provinceCode": "12",
+    "name": "Kecamatan Nibung Hangus",
+    "alias": "Nibung Hangus"
+  },
+  {
+    "code": "12.19.030",
+    "districtCode": "030",
+    "regencyCode": "12.19",
+    "provinceCode": "12",
+    "name": "Kecamatan Talawi",
+    "alias": "Talawi"
+  },
+  {
+    "code": "12.19.031",
+    "districtCode": "031",
+    "regencyCode": "12.19",
+    "provinceCode": "12",
+    "name": "Kecamatan Datuk Tanah Datar",
+    "alias": "Datuk Tanah Datar"
+  },
+  {
+    "code": "12.19.040",
+    "districtCode": "040",
+    "regencyCode": "12.19",
+    "provinceCode": "12",
+    "name": "Kecamatan Lima Puluh",
+    "alias": "Lima Puluh"
+  },
+  {
+    "code": "12.19.041",
+    "districtCode": "041",
+    "regencyCode": "12.19",
+    "provinceCode": "12",
+    "name": "Kecamatan Lima Puluh Pesisir",
+    "alias": "Lima Puluh Pesisir"
+  },
+  {
+    "code": "12.19.042",
+    "districtCode": "042",
+    "regencyCode": "12.19",
+    "provinceCode": "12",
+    "name": "Kecamatan Datuk Lima Puluh",
+    "alias": "Datuk Lima Puluh"
+  },
+  {
+    "code": "12.19.050",
+    "districtCode": "050",
+    "regencyCode": "12.19",
+    "provinceCode": "12",
+    "name": "Kecamatan Air Putih",
+    "alias": "Air Putih"
+  },
+  {
+    "code": "12.19.060",
+    "districtCode": "060",
+    "regencyCode": "12.19",
+    "provinceCode": "12",
+    "name": "Kecamatan Sei Suka",
+    "alias": "Sei Suka"
+  },
+  {
+    "code": "12.19.061",
+    "districtCode": "061",
+    "regencyCode": "12.19",
+    "provinceCode": "12",
+    "name": "Kecamatan Laut Tador",
+    "alias": "Laut Tador"
+  },
+  {
+    "code": "12.19.070",
+    "districtCode": "070",
+    "regencyCode": "12.19",
+    "provinceCode": "12",
+    "name": "Kecamatan Medang Deras",
+    "alias": "Medang Deras"
+  }
+]

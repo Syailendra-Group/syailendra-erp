@@ -1,0 +1,37 @@
+[
+  {
+    "code": "13.09.121.001",
+    "villageCode": "001",
+    "districtCode": "13.09.121",
+    "name": "Taruang-Taruang",
+    "alias": "Taruang-Taruang"
+  },
+  {
+    "code": "13.09.121.002",
+    "villageCode": "002",
+    "districtCode": "13.09.121",
+    "name": "Padang Mantinggi",
+    "alias": "Padang Mantinggi"
+  },
+  {
+    "code": "13.09.121.003",
+    "villageCode": "003",
+    "districtCode": "13.09.121",
+    "name": "Nagari Taruang Taruang Selatan",
+    "alias": "Nagari Taruang Taruang Selatan"
+  },
+  {
+    "code": "13.09.121.004",
+    "villageCode": "004",
+    "districtCode": "13.09.121",
+    "name": "Nagari Taruang Taruang Utara",
+    "alias": "Nagari Taruang Taruang Utara"
+  },
+  {
+    "code": "13.09.121.005",
+    "villageCode": "005",
+    "districtCode": "13.09.121",
+    "name": "Nagari Padang Mantinggi Utara",
+    "alias": "Nagari Padang Mantinggi Utara"
+  }
+]

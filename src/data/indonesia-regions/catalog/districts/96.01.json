@@ -1,0 +1,146 @@
+[
+  {
+    "code": "96.01.010",
+    "districtCode": "010",
+    "regencyCode": "96.01",
+    "provinceCode": "96",
+    "name": "Kecamatan Mimika Barat",
+    "alias": "Mimika Barat"
+  },
+  {
+    "code": "96.01.020",
+    "districtCode": "020",
+    "regencyCode": "96.01",
+    "provinceCode": "96",
+    "name": "Kecamatan Mimika Barat Jauh",
+    "alias": "Mimika Barat Jauh"
+  },
+  {
+    "code": "96.01.030",
+    "districtCode": "030",
+    "regencyCode": "96.01",
+    "provinceCode": "96",
+    "name": "Kecamatan Mimika Barat Tengah",
+    "alias": "Mimika Barat Tengah"
+  },
+  {
+    "code": "96.01.040",
+    "districtCode": "040",
+    "regencyCode": "96.01",
+    "provinceCode": "96",
+    "name": "Kecamatan Amar",
+    "alias": "Amar"
+  },
+  {
+    "code": "96.01.050",
+    "districtCode": "050",
+    "regencyCode": "96.01",
+    "provinceCode": "96",
+    "name": "Kecamatan Mimika Timur",
+    "alias": "Mimika Timur"
+  },
+  {
+    "code": "96.01.060",
+    "districtCode": "060",
+    "regencyCode": "96.01",
+    "provinceCode": "96",
+    "name": "Kecamatan Mimika Tengah",
+    "alias": "Mimika Tengah"
+  },
+  {
+    "code": "96.01.070",
+    "districtCode": "070",
+    "regencyCode": "96.01",
+    "provinceCode": "96",
+    "name": "Kecamatan Mimika Timur Jauh",
+    "alias": "Mimika Timur Jauh"
+  },
+  {
+    "code": "96.01.080",
+    "districtCode": "080",
+    "regencyCode": "96.01",
+    "provinceCode": "96",
+    "name": "Kecamatan Mimika Baru",
+    "alias": "Mimika Baru"
+  },
+  {
+    "code": "96.01.090",
+    "districtCode": "090",
+    "regencyCode": "96.01",
+    "provinceCode": "96",
+    "name": "Kecamatan Kuala Kencana",
+    "alias": "Kuala Kencana"
+  },
+  {
+    "code": "96.01.100",
+    "districtCode": "100",
+    "regencyCode": "96.01",
+    "provinceCode": "96",
+    "name": "Kecamatan Tembagapura",
+    "alias": "Tembagapura"
+  },
+  {
+    "code": "96.01.110",
+    "districtCode": "110",
+    "regencyCode": "96.01",
+    "provinceCode": "96",
+    "name": "Kecamatan Wania",
+    "alias": "Wania"
+  },
+  {
+    "code": "96.01.120",
+    "districtCode": "120",
+    "regencyCode": "96.01",
+    "provinceCode": "96",
+    "name": "Kecamatan Iwaka",
+    "alias": "Iwaka"
+  },
+  {
+    "code": "96.01.130",
+    "districtCode": "130",
+    "regencyCode": "96.01",
+    "provinceCode": "96",
+    "name": "Kecamatan Kwamki Narama",
+    "alias": "Kwamki Narama"
+  },
+  {
+    "code": "96.01.140",
+    "districtCode": "140",
+    "regencyCode": "96.01",
+    "provinceCode": "96",
+    "name": "Kecamatan Agimuga",
+    "alias": "Agimuga"
+  },
+  {
+    "code": "96.01.150",
+    "districtCode": "150",
+    "regencyCode": "96.01",
+    "provinceCode": "96",
+    "name": "Kecamatan Jila",
+    "alias": "Jila"
+  },
+  {
+    "code": "96.01.160",
+    "districtCode": "160",
+    "regencyCode": "96.01",
+    "provinceCode": "96",
+    "name": "Kecamatan Jita",
+    "alias": "Jita"
+  },
+  {
+    "code": "96.01.170",
+    "districtCode": "170",
+    "regencyCode": "96.01",
+    "provinceCode": "96",
+    "name": "Kecamatan Alama",
+    "alias": "Alama"
+  },
+  {
+    "code": "96.01.180",
+    "districtCode": "180",
+    "regencyCode": "96.01",
+    "provinceCode": "96",
+    "name": "Kecamatan Hoya",
+    "alias": "Hoya"
+  }
+]

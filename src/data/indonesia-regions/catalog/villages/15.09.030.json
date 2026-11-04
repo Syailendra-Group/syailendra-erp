@@ -1,0 +1,44 @@
+[
+  {
+    "code": "15.09.030.004",
+    "villageCode": "004",
+    "districtCode": "15.09.030",
+    "name": "Leban",
+    "alias": "Leban"
+  },
+  {
+    "code": "15.09.030.005",
+    "villageCode": "005",
+    "districtCode": "15.09.030",
+    "name": "Lubuk Kayu Aro",
+    "alias": "Lubuk Kayu Aro"
+  },
+  {
+    "code": "15.09.030.012",
+    "villageCode": "012",
+    "districtCode": "15.09.030",
+    "name": "Talang Sungai Bungo",
+    "alias": "Talang Sungai Bungo"
+  },
+  {
+    "code": "15.09.030.013",
+    "villageCode": "013",
+    "districtCode": "15.09.030",
+    "name": "Rantau Pandan",
+    "alias": "Rantau Pandan"
+  },
+  {
+    "code": "15.09.030.014",
+    "villageCode": "014",
+    "districtCode": "15.09.030",
+    "name": "Rantau Duku",
+    "alias": "Rantau Duku"
+  },
+  {
+    "code": "15.09.030.015",
+    "villageCode": "015",
+    "districtCode": "15.09.030",
+    "name": "Lubuk Mayan",
+    "alias": "Lubuk Mayan"
+  }
+]

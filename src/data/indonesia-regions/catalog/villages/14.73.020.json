@@ -1,0 +1,30 @@
+[
+  {
+    "code": "14.73.020.005",
+    "villageCode": "005",
+    "districtCode": "14.73.020",
+    "name": "Pangkalan Sesai",
+    "alias": "Pangkalan Sesai"
+  },
+  {
+    "code": "14.73.020.006",
+    "villageCode": "006",
+    "districtCode": "14.73.020",
+    "name": "Purnama",
+    "alias": "Purnama"
+  },
+  {
+    "code": "14.73.020.009",
+    "villageCode": "009",
+    "districtCode": "14.73.020",
+    "name": "Simpang Tetap Darul Ihsan",
+    "alias": "Simpang Tetap Darul Ihsan"
+  },
+  {
+    "code": "14.73.020.010",
+    "villageCode": "010",
+    "districtCode": "14.73.020",
+    "name": "Bagan Keladi",
+    "alias": "Bagan Keladi"
+  }
+]

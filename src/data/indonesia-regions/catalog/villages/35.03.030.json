@@ -1,0 +1,86 @@
+[
+  {
+    "code": "35.03.030.001",
+    "villageCode": "001",
+    "districtCode": "35.03.030",
+    "name": "Karanggandu",
+    "alias": "Karanggandu"
+  },
+  {
+    "code": "35.03.030.002",
+    "villageCode": "002",
+    "districtCode": "35.03.030",
+    "name": "Prigi",
+    "alias": "Prigi"
+  },
+  {
+    "code": "35.03.030.003",
+    "villageCode": "003",
+    "districtCode": "35.03.030",
+    "name": "Tasikmadu",
+    "alias": "Tasikmadu"
+  },
+  {
+    "code": "35.03.030.004",
+    "villageCode": "004",
+    "districtCode": "35.03.030",
+    "name": "Watulimo",
+    "alias": "Watulimo"
+  },
+  {
+    "code": "35.03.030.005",
+    "villageCode": "005",
+    "districtCode": "35.03.030",
+    "name": "Margomulyo",
+    "alias": "Margomulyo"
+  },
+  {
+    "code": "35.03.030.006",
+    "villageCode": "006",
+    "districtCode": "35.03.030",
+    "name": "Sawahan",
+    "alias": "Sawahan"
+  },
+  {
+    "code": "35.03.030.007",
+    "villageCode": "007",
+    "districtCode": "35.03.030",
+    "name": "Dukuh",
+    "alias": "Dukuh"
+  },
+  {
+    "code": "35.03.030.008",
+    "villageCode": "008",
+    "districtCode": "35.03.030",
+    "name": "Slawe",
+    "alias": "Slawe"
+  },
+  {
+    "code": "35.03.030.009",
+    "villageCode": "009",
+    "districtCode": "35.03.030",
+    "name": "Gemaharjo",
+    "alias": "Gemaharjo"
+  },
+  {
+    "code": "35.03.030.010",
+    "villageCode": "010",
+    "districtCode": "35.03.030",
+    "name": "Pakel",
+    "alias": "Pakel"
+  },
+  {
+    "code": "35.03.030.011",
+    "villageCode": "011",
+    "districtCode": "35.03.030",
+    "name": "Ngembel",
+    "alias": "Ngembel"
+  },
+  {
+    "code": "35.03.030.012",
+    "villageCode": "012",
+    "districtCode": "35.03.030",
+    "name": "Watuagung",
+    "alias": "Watuagung"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "code": "12.16.020.001",
+    "villageCode": "001",
+    "districtCode": "12.16.020",
+    "name": "Majanggut Ii",
+    "alias": "Majanggut Ii"
+  },
+  {
+    "code": "12.16.020.002",
+    "villageCode": "002",
+    "districtCode": "12.16.020",
+    "name": "Majanggut I",
+    "alias": "Majanggut I"
+  },
+  {
+    "code": "12.16.020.003",
+    "villageCode": "003",
+    "districtCode": "12.16.020",
+    "name": "Pardomuan",
+    "alias": "Pardomuan"
+  },
+  {
+    "code": "12.16.020.004",
+    "villageCode": "004",
+    "districtCode": "12.16.020",
+    "name": "Parpulungan",
+    "alias": "Parpulungan"
+  },
+  {
+    "code": "12.16.020.005",
+    "villageCode": "005",
+    "districtCode": "12.16.020",
+    "name": "Kutasaga",
+    "alias": "Kutasaga"
+  },
+  {
+    "code": "12.16.020.006",
+    "villageCode": "006",
+    "districtCode": "12.16.020",
+    "name": "Kutadame",
+    "alias": "Kutadame"
+  },
+  {
+    "code": "12.16.020.007",
+    "villageCode": "007",
+    "districtCode": "12.16.020",
+    "name": "Kuta Meriah",
+    "alias": "Kuta Meriah"
+  },
+  {
+    "code": "12.16.020.008",
+    "villageCode": "008",
+    "districtCode": "12.16.020",
+    "name": "Sukaramai",
+    "alias": "Sukaramai"
+  },
+  {
+    "code": "12.16.020.009",
+    "villageCode": "009",
+    "districtCode": "12.16.020",
+    "name": "Surung Mersada",
+    "alias": "Surung Mersada"
+  },
+  {
+    "code": "12.16.020.010",
+    "villageCode": "010",
+    "districtCode": "12.16.020",
+    "name": "Perduhapen",
+    "alias": "Perduhapen"
+  }
+]

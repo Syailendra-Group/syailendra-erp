@@ -1,0 +1,79 @@
+[
+  {
+    "code": "15.07.012.001",
+    "villageCode": "001",
+    "districtCode": "15.07.012",
+    "name": "Lubuk Bernai",
+    "alias": "Lubuk Bernai"
+  },
+  {
+    "code": "15.07.012.002",
+    "villageCode": "002",
+    "districtCode": "15.07.012",
+    "name": "Kampung Baru",
+    "alias": "Kampung Baru"
+  },
+  {
+    "code": "15.07.012.003",
+    "villageCode": "003",
+    "districtCode": "15.07.012",
+    "name": "Tanjung Bojo",
+    "alias": "Tanjung Bojo"
+  },
+  {
+    "code": "15.07.012.004",
+    "villageCode": "004",
+    "districtCode": "15.07.012",
+    "name": "Dusun Kebon",
+    "alias": "Dusun Kebon"
+  },
+  {
+    "code": "15.07.012.005",
+    "villageCode": "005",
+    "districtCode": "15.07.012",
+    "name": "Suban",
+    "alias": "Suban"
+  },
+  {
+    "code": "15.07.012.006",
+    "villageCode": "006",
+    "districtCode": "15.07.012",
+    "name": "Sri Agung",
+    "alias": "Sri Agung"
+  },
+  {
+    "code": "15.07.012.007",
+    "villageCode": "007",
+    "districtCode": "15.07.012",
+    "name": "Lubuk Lawas",
+    "alias": "Lubuk Lawas"
+  },
+  {
+    "code": "15.07.012.008",
+    "villageCode": "008",
+    "districtCode": "15.07.012",
+    "name": "Sungai Badar",
+    "alias": "Sungai Badar"
+  },
+  {
+    "code": "15.07.012.009",
+    "villageCode": "009",
+    "districtCode": "15.07.012",
+    "name": "Sungai Penoban",
+    "alias": "Sungai Penoban"
+  },
+  {
+    "code": "15.07.012.010",
+    "villageCode": "010",
+    "districtCode": "15.07.012",
+    "name": "Rawang Kempas",
+    "alias": "Rawang Kempas"
+  },
+  {
+    "code": "15.07.012.011",
+    "villageCode": "011",
+    "districtCode": "15.07.012",
+    "name": "Rawa Medang",
+    "alias": "Rawa Medang"
+  }
+]

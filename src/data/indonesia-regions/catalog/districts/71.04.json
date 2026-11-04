@@ -1,0 +1,154 @@
+[
+  {
+    "code": "71.04.010",
+    "districtCode": "010",
+    "regencyCode": "71.04",
+    "provinceCode": "71",
+    "name": "Kecamatan Kabaruan",
+    "alias": "Kabaruan"
+  },
+  {
+    "code": "71.04.011",
+    "districtCode": "011",
+    "regencyCode": "71.04",
+    "provinceCode": "71",
+    "name": "Kecamatan Damau",
+    "alias": "Damau"
+  },
+  {
+    "code": "71.04.020",
+    "districtCode": "020",
+    "regencyCode": "71.04",
+    "provinceCode": "71",
+    "name": "Kecamatan Lirung",
+    "alias": "Lirung"
+  },
+  {
+    "code": "71.04.021",
+    "districtCode": "021",
+    "regencyCode": "71.04",
+    "provinceCode": "71",
+    "name": "Kecamatan Salibabu",
+    "alias": "Salibabu"
+  },
+  {
+    "code": "71.04.022",
+    "districtCode": "022",
+    "regencyCode": "71.04",
+    "provinceCode": "71",
+    "name": "Kecamatan Kalongan",
+    "alias": "Kalongan"
+  },
+  {
+    "code": "71.04.023",
+    "districtCode": "023",
+    "regencyCode": "71.04",
+    "provinceCode": "71",
+    "name": "Kecamatan Moronge",
+    "alias": "Moronge"
+  },
+  {
+    "code": "71.04.030",
+    "districtCode": "030",
+    "regencyCode": "71.04",
+    "provinceCode": "71",
+    "name": "Kecamatan Melonguane",
+    "alias": "Melonguane"
+  },
+  {
+    "code": "71.04.031",
+    "districtCode": "031",
+    "regencyCode": "71.04",
+    "provinceCode": "71",
+    "name": "Kecamatan Melonguane Timur",
+    "alias": "Melonguane Timur"
+  },
+  {
+    "code": "71.04.040",
+    "districtCode": "040",
+    "regencyCode": "71.04",
+    "provinceCode": "71",
+    "name": "Kecamatan Beo",
+    "alias": "Beo"
+  },
+  {
+    "code": "71.04.041",
+    "districtCode": "041",
+    "regencyCode": "71.04",
+    "provinceCode": "71",
+    "name": "Kecamatan Beo Utara",
+    "alias": "Beo Utara"
+  },
+  {
+    "code": "71.04.042",
+    "districtCode": "042",
+    "regencyCode": "71.04",
+    "provinceCode": "71",
+    "name": "Kecamatan Beo Selatan",
+    "alias": "Beo Selatan"
+  },
+  {
+    "code": "71.04.050",
+    "districtCode": "050",
+    "regencyCode": "71.04",
+    "provinceCode": "71",
+    "name": "Kecamatan Rainis",
+    "alias": "Rainis"
+  },
+  {
+    "code": "71.04.051",
+    "districtCode": "051",
+    "regencyCode": "71.04",
+    "provinceCode": "71",
+    "name": "Kecamatan Tampan'Amma",
+    "alias": "Tampan'Amma"
+  },
+  {
+    "code": "71.04.052",
+    "districtCode": "052",
+    "regencyCode": "71.04",
+    "provinceCode": "71",
+    "name": "Kecamatan Pulutan",
+    "alias": "Pulutan"
+  },
+  {
+    "code": "71.04.060",
+    "districtCode": "060",
+    "regencyCode": "71.04",
+    "provinceCode": "71",
+    "name": "Kecamatan Essang",
+    "alias": "Essang"
+  },
+  {
+    "code": "71.04.061",
+    "districtCode": "061",
+    "regencyCode": "71.04",
+    "provinceCode": "71",
+    "name": "Kecamatan Essang Selatan",
+    "alias": "Essang Selatan"
+  },
+  {
+    "code": "71.04.070",
+    "districtCode": "070",
+    "regencyCode": "71.04",
+    "provinceCode": "71",
+    "name": "Kecamatan Gemeh",
+    "alias": "Gemeh"
+  },
+  {
+    "code": "71.04.080",
+    "districtCode": "080",
+    "regencyCode": "71.04",
+    "provinceCode": "71",
+    "name": "Kecamatan Nanusa",
+    "alias": "Nanusa"
+  },
+  {
+    "code": "71.04.081",
+    "districtCode": "081",
+    "regencyCode": "71.04",
+    "provinceCode": "71",
+    "name": "Kecamatan Miangas",
+    "alias": "Miangas"
+  }
+]

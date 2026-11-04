@@ -1,0 +1,65 @@
+[
+  {
+    "code": "32.01.230.006",
+    "villageCode": "006",
+    "districtCode": "32.01.230",
+    "name": "Semplak Barat",
+    "alias": "Semplak Barat"
+  },
+  {
+    "code": "32.01.230.007",
+    "villageCode": "007",
+    "districtCode": "32.01.230",
+    "name": "Atang Senjaya",
+    "alias": "Atang Senjaya"
+  },
+  {
+    "code": "32.01.230.008",
+    "villageCode": "008",
+    "districtCode": "32.01.230",
+    "name": "Parakan Jaya",
+    "alias": "Parakan Jaya"
+  },
+  {
+    "code": "32.01.230.009",
+    "villageCode": "009",
+    "districtCode": "32.01.230",
+    "name": "Bojong",
+    "alias": "Bojong"
+  },
+  {
+    "code": "32.01.230.010",
+    "villageCode": "010",
+    "districtCode": "32.01.230",
+    "name": "Kemang",
+    "alias": "Kemang"
+  },
+  {
+    "code": "32.01.230.011",
+    "villageCode": "011",
+    "districtCode": "32.01.230",
+    "name": "Pabuaran",
+    "alias": "Pabuaran"
+  },
+  {
+    "code": "32.01.230.013",
+    "villageCode": "013",
+    "districtCode": "32.01.230",
+    "name": "Tegal",
+    "alias": "Tegal"
+  },
+  {
+    "code": "32.01.230.014",
+    "villageCode": "014",
+    "districtCode": "32.01.230",
+    "name": "Pondok Udik",
+    "alias": "Pondok Udik"
+  },
+  {
+    "code": "32.01.230.015",
+    "villageCode": "015",
+    "districtCode": "32.01.230",
+    "name": "Jampang",
+    "alias": "Jampang"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "code": "64.72.030.001",
+    "villageCode": "001",
+    "districtCode": "64.72.030",
+    "name": "Mesjid",
+    "alias": "Mesjid"
+  },
+  {
+    "code": "64.72.030.002",
+    "villageCode": "002",
+    "districtCode": "64.72.030",
+    "name": "Baqa",
+    "alias": "Baqa"
+  },
+  {
+    "code": "64.72.030.005",
+    "villageCode": "005",
+    "districtCode": "64.72.030",
+    "name": "Sungai Keledang",
+    "alias": "Sungai Keledang"
+  },
+  {
+    "code": "64.72.030.006",
+    "villageCode": "006",
+    "districtCode": "64.72.030",
+    "name": "Mangkupalas",
+    "alias": "Mangkupalas"
+  },
+  {
+    "code": "64.72.030.007",
+    "villageCode": "007",
+    "districtCode": "64.72.030",
+    "name": "Tenun Samarinda",
+    "alias": "Tenun Samarinda"
+  },
+  {
+    "code": "64.72.030.008",
+    "villageCode": "008",
+    "districtCode": "64.72.030",
+    "name": "Gunung Panjang",
+    "alias": "Gunung Panjang"
+  }
+]

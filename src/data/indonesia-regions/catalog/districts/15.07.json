@@ -1,0 +1,106 @@
+[
+  {
+    "code": "15.07.010",
+    "districtCode": "010",
+    "regencyCode": "15.07",
+    "provinceCode": "15",
+    "name": "Kecamatan Tungkal Ulu",
+    "alias": "Tungkal Ulu"
+  },
+  {
+    "code": "15.07.011",
+    "districtCode": "011",
+    "regencyCode": "15.07",
+    "provinceCode": "15",
+    "name": "Kecamatan Merlung",
+    "alias": "Merlung"
+  },
+  {
+    "code": "15.07.012",
+    "districtCode": "012",
+    "regencyCode": "15.07",
+    "provinceCode": "15",
+    "name": "Kecamatan Batang Asam",
+    "alias": "Batang Asam"
+  },
+  {
+    "code": "15.07.013",
+    "districtCode": "013",
+    "regencyCode": "15.07",
+    "provinceCode": "15",
+    "name": "Kecamatan Tebing Tinggi",
+    "alias": "Tebing Tinggi"
+  },
+  {
+    "code": "15.07.014",
+    "districtCode": "014",
+    "regencyCode": "15.07",
+    "provinceCode": "15",
+    "name": "Kecamatan Renah Mendaluh",
+    "alias": "Renah Mendaluh"
+  },
+  {
+    "code": "15.07.015",
+    "districtCode": "015",
+    "regencyCode": "15.07",
+    "provinceCode": "15",
+    "name": "Kecamatan Muara Papalik",
+    "alias": "Muara Papalik"
+  },
+  {
+    "code": "15.07.020",
+    "districtCode": "020",
+    "regencyCode": "15.07",
+    "provinceCode": "15",
+    "name": "Kecamatan Pengabuan",
+    "alias": "Pengabuan"
+  },
+  {
+    "code": "15.07.021",
+    "districtCode": "021",
+    "regencyCode": "15.07",
+    "provinceCode": "15",
+    "name": "Kecamatan Senyerang",
+    "alias": "Senyerang"
+  },
+  {
+    "code": "15.07.030",
+    "districtCode": "030",
+    "regencyCode": "15.07",
+    "provinceCode": "15",
+    "name": "Kecamatan Tungkal Ilir",
+    "alias": "Tungkal Ilir"
+  },
+  {
+    "code": "15.07.031",
+    "districtCode": "031",
+    "regencyCode": "15.07",
+    "provinceCode": "15",
+    "name": "Kecamatan Bram Itam",
+    "alias": "Bram Itam"
+  },
+  {
+    "code": "15.07.032",
+    "districtCode": "032",
+    "regencyCode": "15.07",
+    "provinceCode": "15",
+    "name": "Kecamatan Seberang Kota",
+    "alias": "Seberang Kota"
+  },
+  {
+    "code": "15.07.040",
+    "districtCode": "040",
+    "regencyCode": "15.07",
+    "provinceCode": "15",
+    "name": "Kecamatan Betara",
+    "alias": "Betara"
+  },
+  {
+    "code": "15.07.041",
+    "districtCode": "041",
+    "regencyCode": "15.07",
+    "provinceCode": "15",
+    "name": "Kecamatan Kuala Betara",
+    "alias": "Kuala Betara"
+  }
+]

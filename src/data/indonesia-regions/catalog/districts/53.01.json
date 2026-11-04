@@ -1,0 +1,50 @@
+[
+  {
+    "code": "53.01.021",
+    "districtCode": "021",
+    "regencyCode": "53.01",
+    "provinceCode": "53",
+    "name": "Kecamatan Lamboya",
+    "alias": "Lamboya"
+  },
+  {
+    "code": "53.01.022",
+    "districtCode": "022",
+    "regencyCode": "53.01",
+    "provinceCode": "53",
+    "name": "Kecamatan Wanokaka",
+    "alias": "Wanokaka"
+  },
+  {
+    "code": "53.01.023",
+    "districtCode": "023",
+    "regencyCode": "53.01",
+    "provinceCode": "53",
+    "name": "Kecamatan Laboya Barat",
+    "alias": "Laboya Barat"
+  },
+  {
+    "code": "53.01.050",
+    "districtCode": "050",
+    "regencyCode": "53.01",
+    "provinceCode": "53",
+    "name": "Kecamatan Loli",
+    "alias": "Loli"
+  },
+  {
+    "code": "53.01.060",
+    "districtCode": "060",
+    "regencyCode": "53.01",
+    "provinceCode": "53",
+    "name": "Kecamatan Kota Waikabubak",
+    "alias": "Kota Waikabubak"
+  },
+  {
+    "code": "53.01.072",
+    "districtCode": "072",
+    "regencyCode": "53.01",
+    "provinceCode": "53",
+    "name": "Kecamatan Tana Righu",
+    "alias": "Tana Righu"
+  }
+]

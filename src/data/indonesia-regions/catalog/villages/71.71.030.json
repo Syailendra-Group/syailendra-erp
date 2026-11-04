@@ -1,0 +1,86 @@
+[
+  {
+    "code": "71.71.030.001",
+    "villageCode": "001",
+    "districtCode": "71.71.030",
+    "name": "Bumi Beringin",
+    "alias": "Bumi Beringin"
+  },
+  {
+    "code": "71.71.030.002",
+    "villageCode": "002",
+    "districtCode": "71.71.030",
+    "name": "Teling Bawah",
+    "alias": "Teling Bawah"
+  },
+  {
+    "code": "71.71.030.010",
+    "villageCode": "010",
+    "districtCode": "71.71.030",
+    "name": "Tikala Kumaraka",
+    "alias": "Tikala Kumaraka"
+  },
+  {
+    "code": "71.71.030.011",
+    "villageCode": "011",
+    "districtCode": "71.71.030",
+    "name": "Mahakeret Barat",
+    "alias": "Mahakeret Barat"
+  },
+  {
+    "code": "71.71.030.012",
+    "villageCode": "012",
+    "districtCode": "71.71.030",
+    "name": "Mahakeret Timur",
+    "alias": "Mahakeret Timur"
+  },
+  {
+    "code": "71.71.030.013",
+    "villageCode": "013",
+    "districtCode": "71.71.030",
+    "name": "Wenang Utara",
+    "alias": "Wenang Utara"
+  },
+  {
+    "code": "71.71.030.014",
+    "villageCode": "014",
+    "districtCode": "71.71.030",
+    "name": "Wenang Selatan",
+    "alias": "Wenang Selatan"
+  },
+  {
+    "code": "71.71.030.015",
+    "villageCode": "015",
+    "districtCode": "71.71.030",
+    "name": "Lawangirung",
+    "alias": "Lawangirung"
+  },
+  {
+    "code": "71.71.030.016",
+    "villageCode": "016",
+    "districtCode": "71.71.030",
+    "name": "Komo Luar",
+    "alias": "Komo Luar"
+  },
+  {
+    "code": "71.71.030.017",
+    "villageCode": "017",
+    "districtCode": "71.71.030",
+    "name": "Pinaesaan",
+    "alias": "Pinaesaan"
+  },
+  {
+    "code": "71.71.030.018",
+    "villageCode": "018",
+    "districtCode": "71.71.030",
+    "name": "Istiqlal",
+    "alias": "Istiqlal"
+  },
+  {
+    "code": "71.71.030.019",
+    "villageCode": "019",
+    "districtCode": "71.71.030",
+    "name": "Calaca",
+    "alias": "Calaca"
+  }
+]

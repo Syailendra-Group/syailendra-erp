@@ -1,0 +1,82 @@
+[
+  {
+    "code": "63.08.010",
+    "districtCode": "010",
+    "regencyCode": "63.08",
+    "provinceCode": "63",
+    "name": "Kecamatan Danau Panggang",
+    "alias": "Danau Panggang"
+  },
+  {
+    "code": "63.08.011",
+    "districtCode": "011",
+    "regencyCode": "63.08",
+    "provinceCode": "63",
+    "name": "Kecamatan Paminggir",
+    "alias": "Paminggir"
+  },
+  {
+    "code": "63.08.020",
+    "districtCode": "020",
+    "regencyCode": "63.08",
+    "provinceCode": "63",
+    "name": "Kecamatan Babirik",
+    "alias": "Babirik"
+  },
+  {
+    "code": "63.08.030",
+    "districtCode": "030",
+    "regencyCode": "63.08",
+    "provinceCode": "63",
+    "name": "Kecamatan Sungai Pandan",
+    "alias": "Sungai Pandan"
+  },
+  {
+    "code": "63.08.031",
+    "districtCode": "031",
+    "regencyCode": "63.08",
+    "provinceCode": "63",
+    "name": "Kecamatan Sungai Tabukan",
+    "alias": "Sungai Tabukan"
+  },
+  {
+    "code": "63.08.040",
+    "districtCode": "040",
+    "regencyCode": "63.08",
+    "provinceCode": "63",
+    "name": "Kecamatan Amuntai Selatan",
+    "alias": "Amuntai Selatan"
+  },
+  {
+    "code": "63.08.050",
+    "districtCode": "050",
+    "regencyCode": "63.08",
+    "provinceCode": "63",
+    "name": "Kecamatan Amuntai Tengah",
+    "alias": "Amuntai Tengah"
+  },
+  {
+    "code": "63.08.060",
+    "districtCode": "060",
+    "regencyCode": "63.08",
+    "provinceCode": "63",
+    "name": "Kecamatan Banjang",
+    "alias": "Banjang"
+  },
+  {
+    "code": "63.08.070",
+    "districtCode": "070",
+    "regencyCode": "63.08",
+    "provinceCode": "63",
+    "name": "Kecamatan Amuntai Utara",
+    "alias": "Amuntai Utara"
+  },
+  {
+    "code": "63.08.071",
+    "districtCode": "071",
+    "regencyCode": "63.08",
+    "provinceCode": "63",
+    "name": "Kecamatan Haur Gading",
+    "alias": "Haur Gading"
+  }
+]

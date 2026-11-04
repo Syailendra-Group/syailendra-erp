@@ -1,0 +1,51 @@
+[
+  {
+    "code": "33.75.040.004",
+    "villageCode": "004",
+    "districtCode": "33.75.040",
+    "name": "Bandengan",
+    "alias": "Bandengan"
+  },
+  {
+    "code": "33.75.040.005",
+    "villageCode": "005",
+    "districtCode": "33.75.040",
+    "name": "Kandangpanjang",
+    "alias": "Kandangpanjang"
+  },
+  {
+    "code": "33.75.040.006",
+    "villageCode": "006",
+    "districtCode": "33.75.040",
+    "name": "Panjang Wetan",
+    "alias": "Panjang Wetan"
+  },
+  {
+    "code": "33.75.040.009",
+    "villageCode": "009",
+    "districtCode": "33.75.040",
+    "name": "Degayu",
+    "alias": "Degayu"
+  },
+  {
+    "code": "33.75.040.010",
+    "villageCode": "010",
+    "districtCode": "33.75.040",
+    "name": "Panjang Baru",
+    "alias": "Panjang Baru"
+  },
+  {
+    "code": "33.75.040.011",
+    "villageCode": "011",
+    "districtCode": "33.75.040",
+    "name": "Krapyak",
+    "alias": "Krapyak"
+  },
+  {
+    "code": "33.75.040.012",
+    "villageCode": "012",
+    "districtCode": "33.75.040",
+    "name": "Padukuhan Kraton",
+    "alias": "Padukuhan Kraton"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "code": "17.71.010",
+    "districtCode": "010",
+    "regencyCode": "17.71",
+    "provinceCode": "17",
+    "name": "Kecamatan Selebar",
+    "alias": "Selebar"
+  },
+  {
+    "code": "17.71.011",
+    "districtCode": "011",
+    "regencyCode": "17.71",
+    "provinceCode": "17",
+    "name": "Kecamatan Kampung Melayu",
+    "alias": "Kampung Melayu"
+  },
+  {
+    "code": "17.71.020",
+    "districtCode": "020",
+    "regencyCode": "17.71",
+    "provinceCode": "17",
+    "name": "Kecamatan Gading Cempaka",
+    "alias": "Gading Cempaka"
+  },
+  {
+    "code": "17.71.021",
+    "districtCode": "021",
+    "regencyCode": "17.71",
+    "provinceCode": "17",
+    "name": "Kecamatan Ratu Agung",
+    "alias": "Ratu Agung"
+  },
+  {
+    "code": "17.71.022",
+    "districtCode": "022",
+    "regencyCode": "17.71",
+    "provinceCode": "17",
+    "name": "Kecamatan Ratu Samban",
+    "alias": "Ratu Samban"
+  },
+  {
+    "code": "17.71.023",
+    "districtCode": "023",
+    "regencyCode": "17.71",
+    "provinceCode": "17",
+    "name": "Kecamatan Singaran Pati",
+    "alias": "Singaran Pati"
+  },
+  {
+    "code": "17.71.030",
+    "districtCode": "030",
+    "regencyCode": "17.71",
+    "provinceCode": "17",
+    "name": "Kecamatan Teluk Segara",
+    "alias": "Teluk Segara"
+  },
+  {
+    "code": "17.71.031",
+    "districtCode": "031",
+    "regencyCode": "17.71",
+    "provinceCode": "17",
+    "name": "Kecamatan Sungai Serut",
+    "alias": "Sungai Serut"
+  },
+  {
+    "code": "17.71.040",
+    "districtCode": "040",
+    "regencyCode": "17.71",
+    "provinceCode": "17",
+    "name": "Kecamatan Muara Bangka Hulu",
+    "alias": "Muara Bangka Hulu"
+  }
+]

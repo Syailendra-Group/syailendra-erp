@@ -1,0 +1,37 @@
+[
+  {
+    "code": "74.06.013.001",
+    "villageCode": "001",
+    "districtCode": "74.06.013",
+    "name": "Sikeli",
+    "alias": "Sikeli"
+  },
+  {
+    "code": "74.06.013.002",
+    "villageCode": "002",
+    "districtCode": "74.06.013",
+    "name": "Baliara",
+    "alias": "Baliara"
+  },
+  {
+    "code": "74.06.013.003",
+    "villageCode": "003",
+    "districtCode": "74.06.013",
+    "name": "Rahantari",
+    "alias": "Rahantari"
+  },
+  {
+    "code": "74.06.013.004",
+    "villageCode": "004",
+    "districtCode": "74.06.013",
+    "name": "Baliara Kepulauan",
+    "alias": "Baliara Kepulauan"
+  },
+  {
+    "code": "74.06.013.005",
+    "villageCode": "005",
+    "districtCode": "74.06.013",
+    "name": "Baliara Selatan",
+    "alias": "Baliara Selatan"
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "code": "95.04.020.001",
+    "villageCode": "001",
+    "districtCode": "95.04.020",
+    "name": "Basim",
+    "alias": "Basim"
+  },
+  {
+    "code": "95.04.020.002",
+    "villageCode": "002",
+    "districtCode": "95.04.020",
+    "name": "Waras",
+    "alias": "Waras"
+  },
+  {
+    "code": "95.04.020.003",
+    "villageCode": "003",
+    "districtCode": "95.04.020",
+    "name": "Ocenep",
+    "alias": "Ocenep"
+  },
+  {
+    "code": "95.04.020.004",
+    "villageCode": "004",
+    "districtCode": "95.04.020",
+    "name": "Pirien",
+    "alias": "Pirien"
+  },
+  {
+    "code": "95.04.020.005",
+    "villageCode": "005",
+    "districtCode": "95.04.020",
+    "name": "Biopis",
+    "alias": "Biopis"
+  },
+  {
+    "code": "95.04.020.006",
+    "villageCode": "006",
+    "districtCode": "95.04.020",
+    "name": "Nanai (Nanay)",
+    "alias": "Nanai (Nanay)"
+  },
+  {
+    "code": "95.04.020.013",
+    "villageCode": "013",
+    "districtCode": "95.04.020",
+    "name": "Ais",
+    "alias": "Ais"
+  },
+  {
+    "code": "95.04.020.014",
+    "villageCode": "014",
+    "districtCode": "95.04.020",
+    "name": "Yawas",
+    "alias": "Yawas"
+  },
+  {
+    "code": "95.04.020.015",
+    "villageCode": "015",
+    "districtCode": "95.04.020",
+    "name": "Kayarpis",
+    "alias": "Kayarpis"
+  },
+  {
+    "code": "95.04.020.016",
+    "villageCode": "016",
+    "districtCode": "95.04.020",
+    "name": "Bakyor",
+    "alias": "Bakyor"
+  },
+  {
+    "code": "95.04.020.017",
+    "villageCode": "017",
+    "districtCode": "95.04.020",
+    "name": "Isar",
+    "alias": "Isar"
+  },
+  {
+    "code": "95.04.020.018",
+    "villageCode": "018",
+    "districtCode": "95.04.020",
+    "name": "Sayoa",
+    "alias": "Sayoa"
+  },
+  {
+    "code": "95.04.020.019",
+    "villageCode": "019",
+    "districtCode": "95.04.020",
+    "name": "Bora",
+    "alias": "Bora"
+  }
+]

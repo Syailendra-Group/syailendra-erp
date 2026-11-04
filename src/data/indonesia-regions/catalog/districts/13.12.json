@@ -1,0 +1,90 @@
+[
+  {
+    "code": "13.12.010",
+    "districtCode": "010",
+    "regencyCode": "13.12",
+    "provinceCode": "13",
+    "name": "Kecamatan Sungai Beremas",
+    "alias": "Sungai Beremas"
+  },
+  {
+    "code": "13.12.020",
+    "districtCode": "020",
+    "regencyCode": "13.12",
+    "provinceCode": "13",
+    "name": "Kecamatan Ranah Batahan",
+    "alias": "Ranah Batahan"
+  },
+  {
+    "code": "13.12.030",
+    "districtCode": "030",
+    "regencyCode": "13.12",
+    "provinceCode": "13",
+    "name": "Kecamatan Koto Balingka",
+    "alias": "Koto Balingka"
+  },
+  {
+    "code": "13.12.040",
+    "districtCode": "040",
+    "regencyCode": "13.12",
+    "provinceCode": "13",
+    "name": "Kecamatan Sungai Aur",
+    "alias": "Sungai Aur"
+  },
+  {
+    "code": "13.12.050",
+    "districtCode": "050",
+    "regencyCode": "13.12",
+    "provinceCode": "13",
+    "name": "Kecamatan Lembah Melintang",
+    "alias": "Lembah Melintang"
+  },
+  {
+    "code": "13.12.060",
+    "districtCode": "060",
+    "regencyCode": "13.12",
+    "provinceCode": "13",
+    "name": "Kecamatan Gunung Tuleh",
+    "alias": "Gunung Tuleh"
+  },
+  {
+    "code": "13.12.070",
+    "districtCode": "070",
+    "regencyCode": "13.12",
+    "provinceCode": "13",
+    "name": "Kecamatan Talamau",
+    "alias": "Talamau"
+  },
+  {
+    "code": "13.12.080",
+    "districtCode": "080",
+    "regencyCode": "13.12",
+    "provinceCode": "13",
+    "name": "Kecamatan Pasaman",
+    "alias": "Pasaman"
+  },
+  {
+    "code": "13.12.090",
+    "districtCode": "090",
+    "regencyCode": "13.12",
+    "provinceCode": "13",
+    "name": "Kecamatan Luhak Nan Duo",
+    "alias": "Luhak Nan Duo"
+  },
+  {
+    "code": "13.12.100",
+    "districtCode": "100",
+    "regencyCode": "13.12",
+    "provinceCode": "13",
+    "name": "Kecamatan Sasak Ranah Pasisie",
+    "alias": "Sasak Ranah Pasisie"
+  },
+  {
+    "code": "13.12.110",
+    "districtCode": "110",
+    "regencyCode": "13.12",
+    "provinceCode": "13",
+    "name": "Kecamatan Kinali",
+    "alias": "Kinali"
+  }
+]

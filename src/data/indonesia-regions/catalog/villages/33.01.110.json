@@ -1,0 +1,58 @@
+[
+  {
+    "code": "33.01.110.001",
+    "villageCode": "001",
+    "districtCode": "33.01.110",
+    "name": "Bantarsari",
+    "alias": "Bantarsari"
+  },
+  {
+    "code": "33.01.110.002",
+    "villageCode": "002",
+    "districtCode": "33.01.110",
+    "name": "Rawajaya",
+    "alias": "Rawajaya"
+  },
+  {
+    "code": "33.01.110.003",
+    "villageCode": "003",
+    "districtCode": "33.01.110",
+    "name": "Binangun",
+    "alias": "Binangun"
+  },
+  {
+    "code": "33.01.110.004",
+    "villageCode": "004",
+    "districtCode": "33.01.110",
+    "name": "Bulaksari",
+    "alias": "Bulaksari"
+  },
+  {
+    "code": "33.01.110.005",
+    "villageCode": "005",
+    "districtCode": "33.01.110",
+    "name": "Kamulyan",
+    "alias": "Kamulyan"
+  },
+  {
+    "code": "33.01.110.006",
+    "villageCode": "006",
+    "districtCode": "33.01.110",
+    "name": "Cikedondong",
+    "alias": "Cikedondong"
+  },
+  {
+    "code": "33.01.110.007",
+    "villageCode": "007",
+    "districtCode": "33.01.110",
+    "name": "Kedungwadas",
+    "alias": "Kedungwadas"
+  },
+  {
+    "code": "33.01.110.008",
+    "villageCode": "008",
+    "districtCode": "33.01.110",
+    "name": "Citembong",
+    "alias": "Citembong"
+  }
+]

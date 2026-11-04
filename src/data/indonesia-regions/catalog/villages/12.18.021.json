@@ -1,0 +1,72 @@
+[
+  {
+    "code": "12.18.021.001",
+    "villageCode": "001",
+    "districtCode": "12.18.021",
+    "name": "Kelapa Bajohom",
+    "alias": "Kelapa Bajohom"
+  },
+  {
+    "code": "12.18.021.002",
+    "villageCode": "002",
+    "districtCode": "12.18.021",
+    "name": "Kuala Bali",
+    "alias": "Kuala Bali"
+  },
+  {
+    "code": "12.18.021.003",
+    "villageCode": "003",
+    "districtCode": "12.18.021",
+    "name": "Karang Tengah",
+    "alias": "Karang Tengah"
+  },
+  {
+    "code": "12.18.021.004",
+    "villageCode": "004",
+    "districtCode": "12.18.021",
+    "name": "Tanjung Harap",
+    "alias": "Tanjung Harap"
+  },
+  {
+    "code": "12.18.021.005",
+    "villageCode": "005",
+    "districtCode": "12.18.021",
+    "name": "Manggis",
+    "alias": "Manggis"
+  },
+  {
+    "code": "12.18.021.006",
+    "villageCode": "006",
+    "districtCode": "12.18.021",
+    "name": "Serbajadi",
+    "alias": "Serbajadi"
+  },
+  {
+    "code": "12.18.021.007",
+    "villageCode": "007",
+    "districtCode": "12.18.021",
+    "name": "Bah Sidua Dua",
+    "alias": "Bah Sidua Dua"
+  },
+  {
+    "code": "12.18.021.008",
+    "villageCode": "008",
+    "districtCode": "12.18.021",
+    "name": "Tambak Cekur",
+    "alias": "Tambak Cekur"
+  },
+  {
+    "code": "12.18.021.009",
+    "villageCode": "009",
+    "districtCode": "12.18.021",
+    "name": "Pulau Tagor",
+    "alias": "Pulau Tagor"
+  },
+  {
+    "code": "12.18.021.010",
+    "villageCode": "010",
+    "districtCode": "12.18.021",
+    "name": "Pulau Gambar",
+    "alias": "Pulau Gambar"
+  }
+]

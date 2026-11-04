@@ -1,0 +1,121 @@
+[
+  {
+    "code": "33.12.220.001",
+    "villageCode": "001",
+    "districtCode": "33.12.220",
+    "name": "Tasikhargo",
+    "alias": "Tasikhargo"
+  },
+  {
+    "code": "33.12.220.002",
+    "villageCode": "002",
+    "districtCode": "33.12.220",
+    "name": "Sumberejo",
+    "alias": "Sumberejo"
+  },
+  {
+    "code": "33.12.220.003",
+    "villageCode": "003",
+    "districtCode": "33.12.220",
+    "name": "Rejosari",
+    "alias": "Rejosari"
+  },
+  {
+    "code": "33.12.220.004",
+    "villageCode": "004",
+    "districtCode": "33.12.220",
+    "name": "Gondangsari",
+    "alias": "Gondangsari"
+  },
+  {
+    "code": "33.12.220.005",
+    "villageCode": "005",
+    "districtCode": "33.12.220",
+    "name": "Sidorejo",
+    "alias": "Sidorejo"
+  },
+  {
+    "code": "33.12.220.006",
+    "villageCode": "006",
+    "districtCode": "33.12.220",
+    "name": "Ngrompak",
+    "alias": "Ngrompak"
+  },
+  {
+    "code": "33.12.220.007",
+    "villageCode": "007",
+    "districtCode": "33.12.220",
+    "name": "Semen",
+    "alias": "Semen"
+  },
+  {
+    "code": "33.12.220.008",
+    "villageCode": "008",
+    "districtCode": "33.12.220",
+    "name": "Pule",
+    "alias": "Pule"
+  },
+  {
+    "code": "33.12.220.009",
+    "villageCode": "009",
+    "districtCode": "33.12.220",
+    "name": "Pelem",
+    "alias": "Pelem"
+  },
+  {
+    "code": "33.12.220.010",
+    "villageCode": "010",
+    "districtCode": "33.12.220",
+    "name": "Sambirejo",
+    "alias": "Sambirejo"
+  },
+  {
+    "code": "33.12.220.011",
+    "villageCode": "011",
+    "districtCode": "33.12.220",
+    "name": "Gunungsari",
+    "alias": "Gunungsari"
+  },
+  {
+    "code": "33.12.220.012",
+    "villageCode": "012",
+    "districtCode": "33.12.220",
+    "name": "Jatisari",
+    "alias": "Jatisari"
+  },
+  {
+    "code": "33.12.220.013",
+    "villageCode": "013",
+    "districtCode": "33.12.220",
+    "name": "Pandeyan",
+    "alias": "Pandeyan"
+  },
+  {
+    "code": "33.12.220.014",
+    "villageCode": "014",
+    "districtCode": "33.12.220",
+    "name": "Watangsono",
+    "alias": "Watangsono"
+  },
+  {
+    "code": "33.12.220.015",
+    "villageCode": "015",
+    "districtCode": "33.12.220",
+    "name": "Jatisrono",
+    "alias": "Jatisrono"
+  },
+  {
+    "code": "33.12.220.016",
+    "villageCode": "016",
+    "districtCode": "33.12.220",
+    "name": "Tanjungsari",
+    "alias": "Tanjungsari"
+  },
+  {
+    "code": "33.12.220.017",
+    "villageCode": "017",
+    "districtCode": "33.12.220",
+    "name": "Tanggulangin",
+    "alias": "Tanggulangin"
+  }
+]

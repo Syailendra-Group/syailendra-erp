@@ -1,0 +1,44 @@
+[
+  {
+    "code": "12.75.020.001",
+    "villageCode": "001",
+    "districtCode": "12.75.020",
+    "name": "Kwala Bekala",
+    "alias": "Kwala Bekala"
+  },
+  {
+    "code": "12.75.020.002",
+    "villageCode": "002",
+    "districtCode": "12.75.020",
+    "name": "Gedung Johor",
+    "alias": "Gedung Johor"
+  },
+  {
+    "code": "12.75.020.003",
+    "villageCode": "003",
+    "districtCode": "12.75.020",
+    "name": "Kedai Durian",
+    "alias": "Kedai Durian"
+  },
+  {
+    "code": "12.75.020.004",
+    "villageCode": "004",
+    "districtCode": "12.75.020",
+    "name": "Suka Maju",
+    "alias": "Suka Maju"
+  },
+  {
+    "code": "12.75.020.005",
+    "villageCode": "005",
+    "districtCode": "12.75.020",
+    "name": "Titi Kuning",
+    "alias": "Titi Kuning"
+  },
+  {
+    "code": "12.75.020.006",
+    "villageCode": "006",
+    "districtCode": "12.75.020",
+    "name": "Pangkalan Masyhur",
+    "alias": "Pangkalan Masyhur"
+  }
+]

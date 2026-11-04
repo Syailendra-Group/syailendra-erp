@@ -1,0 +1,37 @@
+[
+  {
+    "code": "74.02.022.001",
+    "villageCode": "001",
+    "districtCode": "74.02.022",
+    "name": "Pasikuta",
+    "alias": "Pasikuta"
+  },
+  {
+    "code": "74.02.022.002",
+    "villageCode": "002",
+    "districtCode": "74.02.022",
+    "name": "Tapi-Tapi",
+    "alias": "Tapi-Tapi"
+  },
+  {
+    "code": "74.02.022.003",
+    "villageCode": "003",
+    "districtCode": "74.02.022",
+    "name": "Marobo",
+    "alias": "Marobo"
+  },
+  {
+    "code": "74.02.022.004",
+    "villageCode": "004",
+    "districtCode": "74.02.022",
+    "name": "Wadolao",
+    "alias": "Wadolao"
+  },
+  {
+    "code": "74.02.022.005",
+    "villageCode": "005",
+    "districtCode": "74.02.022",
+    "name": "Poaroha",
+    "alias": "Poaroha"
+  }
+]

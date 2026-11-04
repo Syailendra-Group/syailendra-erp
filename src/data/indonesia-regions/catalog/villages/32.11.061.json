@@ -1,0 +1,58 @@
+[
+  {
+    "code": "32.11.061.001",
+    "villageCode": "001",
+    "districtCode": "32.11.061",
+    "name": "Cikondang",
+    "alias": "Cikondang"
+  },
+  {
+    "code": "32.11.061.002",
+    "villageCode": "002",
+    "districtCode": "32.11.061",
+    "name": "Tanjunghurip",
+    "alias": "Tanjunghurip"
+  },
+  {
+    "code": "32.11.061.003",
+    "villageCode": "003",
+    "districtCode": "32.11.061",
+    "name": "Dayeuh Luhur",
+    "alias": "Dayeuh Luhur"
+  },
+  {
+    "code": "32.11.061.004",
+    "villageCode": "004",
+    "districtCode": "32.11.061",
+    "name": "Cikoneng",
+    "alias": "Cikoneng"
+  },
+  {
+    "code": "32.11.061.005",
+    "villageCode": "005",
+    "districtCode": "32.11.061",
+    "name": "Sukawening",
+    "alias": "Sukawening"
+  },
+  {
+    "code": "32.11.061.006",
+    "villageCode": "006",
+    "districtCode": "32.11.061",
+    "name": "Ganeas",
+    "alias": "Ganeas"
+  },
+  {
+    "code": "32.11.061.007",
+    "villageCode": "007",
+    "districtCode": "32.11.061",
+    "name": "Sukaluyu",
+    "alias": "Sukaluyu"
+  },
+  {
+    "code": "32.11.061.008",
+    "villageCode": "008",
+    "districtCode": "32.11.061",
+    "name": "Cikoneng Kulon",
+    "alias": "Cikoneng Kulon"
+  }
+]

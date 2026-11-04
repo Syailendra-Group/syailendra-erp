@@ -1,0 +1,37 @@
+[
+  {
+    "code": "18.04.074.001",
+    "villageCode": "001",
+    "districtCode": "18.04.074",
+    "name": "Negeri Agung",
+    "alias": "Negeri Agung"
+  },
+  {
+    "code": "18.04.074.002",
+    "villageCode": "002",
+    "districtCode": "18.04.074",
+    "name": "Pempen",
+    "alias": "Pempen"
+  },
+  {
+    "code": "18.04.074.003",
+    "villageCode": "003",
+    "districtCode": "18.04.074",
+    "name": "Pelindung Jaya",
+    "alias": "Pelindung Jaya"
+  },
+  {
+    "code": "18.04.074.004",
+    "villageCode": "004",
+    "districtCode": "18.04.074",
+    "name": "Way Mili",
+    "alias": "Way Mili"
+  },
+  {
+    "code": "18.04.074.005",
+    "villageCode": "005",
+    "districtCode": "18.04.074",
+    "name": "Nibung",
+    "alias": "Nibung"
+  }
+]

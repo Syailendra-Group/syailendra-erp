@@ -1,0 +1,205 @@
+[
+  {
+    "code": "61.07.200.001",
+    "villageCode": "001",
+    "districtCode": "61.07.200",
+    "name": "Bagelang Jaya",
+    "alias": "Bagelang Jaya"
+  },
+  {
+    "code": "61.07.200.002",
+    "villageCode": "002",
+    "districtCode": "61.07.200",
+    "name": "Sumber Sari",
+    "alias": "Sumber Sari"
+  },
+  {
+    "code": "61.07.200.003",
+    "villageCode": "003",
+    "districtCode": "61.07.200",
+    "name": "Panggi Agung",
+    "alias": "Panggi Agung"
+  },
+  {
+    "code": "61.07.200.004",
+    "villageCode": "004",
+    "districtCode": "61.07.200",
+    "name": "Kerta Sari",
+    "alias": "Kerta Sari"
+  },
+  {
+    "code": "61.07.200.005",
+    "villageCode": "005",
+    "districtCode": "61.07.200",
+    "name": "Argomulyo",
+    "alias": "Argomulyo"
+  },
+  {
+    "code": "61.07.200.006",
+    "villageCode": "006",
+    "districtCode": "61.07.200",
+    "name": "Tirta Karya",
+    "alias": "Tirta Karya"
+  },
+  {
+    "code": "61.07.200.007",
+    "villageCode": "007",
+    "districtCode": "61.07.200",
+    "name": "Panding Jaya",
+    "alias": "Panding Jaya"
+  },
+  {
+    "code": "61.07.200.008",
+    "villageCode": "008",
+    "districtCode": "61.07.200",
+    "name": "Tanjung Sari",
+    "alias": "Tanjung Sari"
+  },
+  {
+    "code": "61.07.200.009",
+    "villageCode": "009",
+    "districtCode": "61.07.200",
+    "name": "Wirayuda",
+    "alias": "Wirayuda"
+  },
+  {
+    "code": "61.07.200.010",
+    "villageCode": "010",
+    "districtCode": "61.07.200",
+    "name": "Swadaya",
+    "alias": "Swadaya"
+  },
+  {
+    "code": "61.07.200.011",
+    "villageCode": "011",
+    "districtCode": "61.07.200",
+    "name": "Margahayu",
+    "alias": "Margahayu"
+  },
+  {
+    "code": "61.07.200.012",
+    "villageCode": "012",
+    "districtCode": "61.07.200",
+    "name": "Gut Jaya Bakti",
+    "alias": "Gut Jaya Bakti"
+  },
+  {
+    "code": "61.07.200.013",
+    "villageCode": "013",
+    "districtCode": "61.07.200",
+    "name": "Wana Bakti",
+    "alias": "Wana Bakti"
+  },
+  {
+    "code": "61.07.200.014",
+    "villageCode": "014",
+    "districtCode": "61.07.200",
+    "name": "Landau Buaya",
+    "alias": "Landau Buaya"
+  },
+  {
+    "code": "61.07.200.015",
+    "villageCode": "015",
+    "districtCode": "61.07.200",
+    "name": "Kayu Dujung",
+    "alias": "Kayu Dujung"
+  },
+  {
+    "code": "61.07.200.016",
+    "villageCode": "016",
+    "districtCode": "61.07.200",
+    "name": "Senangan Kecil",
+    "alias": "Senangan Kecil"
+  },
+  {
+    "code": "61.07.200.017",
+    "villageCode": "017",
+    "districtCode": "61.07.200",
+    "name": "Sungai Areh",
+    "alias": "Sungai Areh"
+  },
+  {
+    "code": "61.07.200.018",
+    "villageCode": "018",
+    "districtCode": "61.07.200",
+    "name": "Mungguk Gelombang",
+    "alias": "Mungguk Gelombang"
+  },
+  {
+    "code": "61.07.200.019",
+    "villageCode": "019",
+    "districtCode": "61.07.200",
+    "name": "Mungguk Lawang",
+    "alias": "Mungguk Lawang"
+  },
+  {
+    "code": "61.07.200.020",
+    "villageCode": "020",
+    "districtCode": "61.07.200",
+    "name": "Nanga Kelapan",
+    "alias": "Nanga Kelapan"
+  },
+  {
+    "code": "61.07.200.021",
+    "villageCode": "021",
+    "districtCode": "61.07.200",
+    "name": "Panggi Ruguk",
+    "alias": "Panggi Ruguk"
+  },
+  {
+    "code": "61.07.200.022",
+    "villageCode": "022",
+    "districtCode": "61.07.200",
+    "name": "Bakti Senabung",
+    "alias": "Bakti Senabung"
+  },
+  {
+    "code": "61.07.200.023",
+    "villageCode": "023",
+    "districtCode": "61.07.200",
+    "name": "Engkitan",
+    "alias": "Engkitan"
+  },
+  {
+    "code": "61.07.200.024",
+    "villageCode": "024",
+    "districtCode": "61.07.200",
+    "name": "Landau Temiang",
+    "alias": "Landau Temiang"
+  },
+  {
+    "code": "61.07.200.025",
+    "villageCode": "025",
+    "districtCode": "61.07.200",
+    "name": "Padung Kumang",
+    "alias": "Padung Kumang"
+  },
+  {
+    "code": "61.07.200.026",
+    "villageCode": "026",
+    "districtCode": "61.07.200",
+    "name": "Radin Jaya",
+    "alias": "Radin Jaya"
+  },
+  {
+    "code": "61.07.200.027",
+    "villageCode": "027",
+    "districtCode": "61.07.200",
+    "name": "Senangan Jaya",
+    "alias": "Senangan Jaya"
+  },
+  {
+    "code": "61.07.200.028",
+    "villageCode": "028",
+    "districtCode": "61.07.200",
+    "name": "Kubu Berangan",
+    "alias": "Kubu Berangan"
+  },
+  {
+    "code": "61.07.200.029",
+    "villageCode": "029",
+    "districtCode": "61.07.200",
+    "name": "Semareh",
+    "alias": "Semareh"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "code": "51.07.070.001",
+    "villageCode": "001",
+    "districtCode": "51.07.070",
+    "name": "Muncan",
+    "alias": "Muncan"
+  },
+  {
+    "code": "51.07.070.002",
+    "villageCode": "002",
+    "districtCode": "51.07.070",
+    "name": "Pering Sari",
+    "alias": "Pering Sari"
+  },
+  {
+    "code": "51.07.070.003",
+    "villageCode": "003",
+    "districtCode": "51.07.070",
+    "name": "Selat",
+    "alias": "Selat"
+  },
+  {
+    "code": "51.07.070.004",
+    "villageCode": "004",
+    "districtCode": "51.07.070",
+    "name": "Duda",
+    "alias": "Duda"
+  },
+  {
+    "code": "51.07.070.005",
+    "villageCode": "005",
+    "districtCode": "51.07.070",
+    "name": "Duda Timur",
+    "alias": "Duda Timur"
+  },
+  {
+    "code": "51.07.070.006",
+    "villageCode": "006",
+    "districtCode": "51.07.070",
+    "name": "Duda Utara",
+    "alias": "Duda Utara"
+  },
+  {
+    "code": "51.07.070.007",
+    "villageCode": "007",
+    "districtCode": "51.07.070",
+    "name": "Sebudi",
+    "alias": "Sebudi"
+  },
+  {
+    "code": "51.07.070.008",
+    "villageCode": "008",
+    "districtCode": "51.07.070",
+    "name": "Amerta Bhuana",
+    "alias": "Amerta Bhuana"
+  }
+]

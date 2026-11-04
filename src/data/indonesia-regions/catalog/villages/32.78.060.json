@@ -1,0 +1,58 @@
+[
+  {
+    "code": "32.78.060.001",
+    "villageCode": "001",
+    "districtCode": "32.78.060",
+    "name": "Karikil",
+    "alias": "Karikil"
+  },
+  {
+    "code": "32.78.060.002",
+    "villageCode": "002",
+    "districtCode": "32.78.060",
+    "name": "Cigantang",
+    "alias": "Cigantang"
+  },
+  {
+    "code": "32.78.060.003",
+    "villageCode": "003",
+    "districtCode": "32.78.060",
+    "name": "Sambongjaya",
+    "alias": "Sambongjaya"
+  },
+  {
+    "code": "32.78.060.004",
+    "villageCode": "004",
+    "districtCode": "32.78.060",
+    "name": "Sambongpari",
+    "alias": "Sambongpari"
+  },
+  {
+    "code": "32.78.060.005",
+    "villageCode": "005",
+    "districtCode": "32.78.060",
+    "name": "Linggajaya",
+    "alias": "Linggajaya"
+  },
+  {
+    "code": "32.78.060.006",
+    "villageCode": "006",
+    "districtCode": "32.78.060",
+    "name": "Mangkubumi",
+    "alias": "Mangkubumi"
+  },
+  {
+    "code": "32.78.060.007",
+    "villageCode": "007",
+    "districtCode": "32.78.060",
+    "name": "Cipari",
+    "alias": "Cipari"
+  },
+  {
+    "code": "32.78.060.008",
+    "villageCode": "008",
+    "districtCode": "32.78.060",
+    "name": "Cipawitra",
+    "alias": "Cipawitra"
+  }
+]

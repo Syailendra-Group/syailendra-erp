@@ -1,0 +1,93 @@
+[
+  {
+    "code": "91.11.050.001",
+    "villageCode": "001",
+    "districtCode": "91.11.050",
+    "name": "Hamawi",
+    "alias": "Hamawi"
+  },
+  {
+    "code": "91.11.050.002",
+    "villageCode": "002",
+    "districtCode": "91.11.050",
+    "name": "Bamaha",
+    "alias": "Bamaha"
+  },
+  {
+    "code": "91.11.050.003",
+    "villageCode": "003",
+    "districtCode": "91.11.050",
+    "name": "Abreso",
+    "alias": "Abreso"
+  },
+  {
+    "code": "91.11.050.004",
+    "villageCode": "004",
+    "districtCode": "91.11.050",
+    "name": "Ransiki",
+    "alias": "Ransiki"
+  },
+  {
+    "code": "91.11.050.005",
+    "villageCode": "005",
+    "districtCode": "91.11.050",
+    "name": "Tobou",
+    "alias": "Tobou"
+  },
+  {
+    "code": "91.11.050.006",
+    "villageCode": "006",
+    "districtCode": "91.11.050",
+    "name": "Sabri",
+    "alias": "Sabri"
+  },
+  {
+    "code": "91.11.050.007",
+    "villageCode": "007",
+    "districtCode": "91.11.050",
+    "name": "Kobrey",
+    "alias": "Kobrey"
+  },
+  {
+    "code": "91.11.050.008",
+    "villageCode": "008",
+    "districtCode": "91.11.050",
+    "name": "Hamor",
+    "alias": "Hamor"
+  },
+  {
+    "code": "91.11.050.009",
+    "villageCode": "009",
+    "districtCode": "91.11.050",
+    "name": "Wamcei",
+    "alias": "Wamcei"
+  },
+  {
+    "code": "91.11.050.010",
+    "villageCode": "010",
+    "districtCode": "91.11.050",
+    "name": "Mambrema",
+    "alias": "Mambrema"
+  },
+  {
+    "code": "91.11.050.011",
+    "villageCode": "011",
+    "districtCode": "91.11.050",
+    "name": "Yamboi",
+    "alias": "Yamboi"
+  },
+  {
+    "code": "91.11.050.012",
+    "villageCode": "012",
+    "districtCode": "91.11.050",
+    "name": "Nuhuwei",
+    "alias": "Nuhuwei"
+  },
+  {
+    "code": "91.11.050.013",
+    "villageCode": "013",
+    "districtCode": "91.11.050",
+    "name": "Susmorof",
+    "alias": "Susmorof"
+  }
+]

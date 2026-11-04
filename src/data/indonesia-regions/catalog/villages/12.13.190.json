@@ -1,0 +1,65 @@
+[
+  {
+    "code": "12.13.190.001",
+    "villageCode": "001",
+    "districtCode": "12.13.190",
+    "name": "Pir Adb Besitang",
+    "alias": "Pir Adb Besitang"
+  },
+  {
+    "code": "12.13.190.002",
+    "villageCode": "002",
+    "districtCode": "12.13.190",
+    "name": "Sekoci",
+    "alias": "Sekoci"
+  },
+  {
+    "code": "12.13.190.003",
+    "villageCode": "003",
+    "districtCode": "12.13.190",
+    "name": "Bukit Mas",
+    "alias": "Bukit Mas"
+  },
+  {
+    "code": "12.13.190.004",
+    "villageCode": "004",
+    "districtCode": "12.13.190",
+    "name": "Halaban",
+    "alias": "Halaban"
+  },
+  {
+    "code": "12.13.190.005",
+    "villageCode": "005",
+    "districtCode": "12.13.190",
+    "name": "Bukit Selamat",
+    "alias": "Bukit Selamat"
+  },
+  {
+    "code": "12.13.190.006",
+    "villageCode": "006",
+    "districtCode": "12.13.190",
+    "name": "Pekan Besitang",
+    "alias": "Pekan Besitang"
+  },
+  {
+    "code": "12.13.190.007",
+    "villageCode": "007",
+    "districtCode": "12.13.190",
+    "name": "Kampung Lama",
+    "alias": "Kampung Lama"
+  },
+  {
+    "code": "12.13.190.008",
+    "villageCode": "008",
+    "districtCode": "12.13.190",
+    "name": "Bukit Kubu",
+    "alias": "Bukit Kubu"
+  },
+  {
+    "code": "12.13.190.009",
+    "villageCode": "009",
+    "districtCode": "12.13.190",
+    "name": "Suka Jaya",
+    "alias": "Suka Jaya"
+  }
+]

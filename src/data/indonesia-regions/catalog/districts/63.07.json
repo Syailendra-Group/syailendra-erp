@@ -1,0 +1,90 @@
+[
+  {
+    "code": "63.07.010",
+    "districtCode": "010",
+    "regencyCode": "63.07",
+    "provinceCode": "63",
+    "name": "Kecamatan Haruyan",
+    "alias": "Haruyan"
+  },
+  {
+    "code": "63.07.020",
+    "districtCode": "020",
+    "regencyCode": "63.07",
+    "provinceCode": "63",
+    "name": "Kecamatan Batu Benawa",
+    "alias": "Batu Benawa"
+  },
+  {
+    "code": "63.07.030",
+    "districtCode": "030",
+    "regencyCode": "63.07",
+    "provinceCode": "63",
+    "name": "Kecamatan Hantakan",
+    "alias": "Hantakan"
+  },
+  {
+    "code": "63.07.040",
+    "districtCode": "040",
+    "regencyCode": "63.07",
+    "provinceCode": "63",
+    "name": "Kecamatan Batang Alai Selatan",
+    "alias": "Batang Alai Selatan"
+  },
+  {
+    "code": "63.07.041",
+    "districtCode": "041",
+    "regencyCode": "63.07",
+    "provinceCode": "63",
+    "name": "Kecamatan Batang Alai Timur",
+    "alias": "Batang Alai Timur"
+  },
+  {
+    "code": "63.07.050",
+    "districtCode": "050",
+    "regencyCode": "63.07",
+    "provinceCode": "63",
+    "name": "Kecamatan Barabai",
+    "alias": "Barabai"
+  },
+  {
+    "code": "63.07.060",
+    "districtCode": "060",
+    "regencyCode": "63.07",
+    "provinceCode": "63",
+    "name": "Kecamatan Labuan Amas Selatan",
+    "alias": "Labuan Amas Selatan"
+  },
+  {
+    "code": "63.07.070",
+    "districtCode": "070",
+    "regencyCode": "63.07",
+    "provinceCode": "63",
+    "name": "Kecamatan Labuan Amas Utara",
+    "alias": "Labuan Amas Utara"
+  },
+  {
+    "code": "63.07.080",
+    "districtCode": "080",
+    "regencyCode": "63.07",
+    "provinceCode": "63",
+    "name": "Kecamatan Pandawan",
+    "alias": "Pandawan"
+  },
+  {
+    "code": "63.07.090",
+    "districtCode": "090",
+    "regencyCode": "63.07",
+    "provinceCode": "63",
+    "name": "Kecamatan Batang Alai Utara",
+    "alias": "Batang Alai Utara"
+  },
+  {
+    "code": "63.07.091",
+    "districtCode": "091",
+    "regencyCode": "63.07",
+    "provinceCode": "63",
+    "name": "Kecamatan Limpasu",
+    "alias": "Limpasu"
+  }
+]

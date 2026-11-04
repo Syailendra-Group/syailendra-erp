@@ -1,0 +1,90 @@
+[
+  {
+    "code": "72.07.010",
+    "districtCode": "010",
+    "regencyCode": "72.07",
+    "provinceCode": "72",
+    "name": "Kecamatan Lakea",
+    "alias": "Lakea"
+  },
+  {
+    "code": "72.07.011",
+    "districtCode": "011",
+    "regencyCode": "72.07",
+    "provinceCode": "72",
+    "name": "Kecamatan Biau",
+    "alias": "Biau"
+  },
+  {
+    "code": "72.07.012",
+    "districtCode": "012",
+    "regencyCode": "72.07",
+    "provinceCode": "72",
+    "name": "Kecamatan Karamat",
+    "alias": "Karamat"
+  },
+  {
+    "code": "72.07.020",
+    "districtCode": "020",
+    "regencyCode": "72.07",
+    "provinceCode": "72",
+    "name": "Kecamatan Momunu",
+    "alias": "Momunu"
+  },
+  {
+    "code": "72.07.021",
+    "districtCode": "021",
+    "regencyCode": "72.07",
+    "provinceCode": "72",
+    "name": "Kecamatan Tiloan",
+    "alias": "Tiloan"
+  },
+  {
+    "code": "72.07.030",
+    "districtCode": "030",
+    "regencyCode": "72.07",
+    "provinceCode": "72",
+    "name": "Kecamatan Bokat",
+    "alias": "Bokat"
+  },
+  {
+    "code": "72.07.031",
+    "districtCode": "031",
+    "regencyCode": "72.07",
+    "provinceCode": "72",
+    "name": "Kecamatan Bukal",
+    "alias": "Bukal"
+  },
+  {
+    "code": "72.07.040",
+    "districtCode": "040",
+    "regencyCode": "72.07",
+    "provinceCode": "72",
+    "name": "Kecamatan Bunobogu",
+    "alias": "Bunobogu"
+  },
+  {
+    "code": "72.07.041",
+    "districtCode": "041",
+    "regencyCode": "72.07",
+    "provinceCode": "72",
+    "name": "Kecamatan Gadung",
+    "alias": "Gadung"
+  },
+  {
+    "code": "72.07.050",
+    "districtCode": "050",
+    "regencyCode": "72.07",
+    "provinceCode": "72",
+    "name": "Kecamatan Paleleh",
+    "alias": "Paleleh"
+  },
+  {
+    "code": "72.07.051",
+    "districtCode": "051",
+    "regencyCode": "72.07",
+    "provinceCode": "72",
+    "name": "Kecamatan Paleleh Barat",
+    "alias": "Paleleh Barat"
+  }
+]

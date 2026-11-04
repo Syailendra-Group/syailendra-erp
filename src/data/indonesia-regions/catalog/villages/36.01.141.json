@@ -1,0 +1,65 @@
+[
+  {
+    "code": "36.01.141.001",
+    "villageCode": "001",
+    "districtCode": "36.01.141",
+    "name": "Banjarnegara",
+    "alias": "Banjarnegara"
+  },
+  {
+    "code": "36.01.141.002",
+    "villageCode": "002",
+    "districtCode": "36.01.141",
+    "name": "Kaduhejo",
+    "alias": "Kaduhejo"
+  },
+  {
+    "code": "36.01.141.003",
+    "villageCode": "003",
+    "districtCode": "36.01.141",
+    "name": "Koranji",
+    "alias": "Koranji"
+  },
+  {
+    "code": "36.01.141.004",
+    "villageCode": "004",
+    "districtCode": "36.01.141",
+    "name": "Sanghiangdengdek",
+    "alias": "Sanghiangdengdek"
+  },
+  {
+    "code": "36.01.141.005",
+    "villageCode": "005",
+    "districtCode": "36.01.141",
+    "name": "Cilentung",
+    "alias": "Cilentung"
+  },
+  {
+    "code": "36.01.141.006",
+    "villageCode": "006",
+    "districtCode": "36.01.141",
+    "name": "Karyawangi",
+    "alias": "Karyawangi"
+  },
+  {
+    "code": "36.01.141.007",
+    "villageCode": "007",
+    "districtCode": "36.01.141",
+    "name": "Banjarwangi",
+    "alias": "Banjarwangi"
+  },
+  {
+    "code": "36.01.141.008",
+    "villageCode": "008",
+    "districtCode": "36.01.141",
+    "name": "Sukasari",
+    "alias": "Sukasari"
+  },
+  {
+    "code": "36.01.141.009",
+    "villageCode": "009",
+    "districtCode": "36.01.141",
+    "name": "Sukaraja",
+    "alias": "Sukaraja"
+  }
+]

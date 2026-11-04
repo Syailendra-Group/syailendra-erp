@@ -1,0 +1,72 @@
+[
+  {
+    "code": "51.01.010.001",
+    "villageCode": "001",
+    "districtCode": "51.01.010",
+    "name": "Gilimanuk",
+    "alias": "Gilimanuk"
+  },
+  {
+    "code": "51.01.010.002",
+    "villageCode": "002",
+    "districtCode": "51.01.010",
+    "name": "Melaya",
+    "alias": "Melaya"
+  },
+  {
+    "code": "51.01.010.003",
+    "villageCode": "003",
+    "districtCode": "51.01.010",
+    "name": "Candikusuma",
+    "alias": "Candikusuma"
+  },
+  {
+    "code": "51.01.010.004",
+    "villageCode": "004",
+    "districtCode": "51.01.010",
+    "name": "Tuwed",
+    "alias": "Tuwed"
+  },
+  {
+    "code": "51.01.010.005",
+    "villageCode": "005",
+    "districtCode": "51.01.010",
+    "name": "Tukadaya",
+    "alias": "Tukadaya"
+  },
+  {
+    "code": "51.01.010.006",
+    "villageCode": "006",
+    "districtCode": "51.01.010",
+    "name": "Manistutu",
+    "alias": "Manistutu"
+  },
+  {
+    "code": "51.01.010.007",
+    "villageCode": "007",
+    "districtCode": "51.01.010",
+    "name": "Warnasari",
+    "alias": "Warnasari"
+  },
+  {
+    "code": "51.01.010.008",
+    "villageCode": "008",
+    "districtCode": "51.01.010",
+    "name": "Nusa Sari",
+    "alias": "Nusa Sari"
+  },
+  {
+    "code": "51.01.010.009",
+    "villageCode": "009",
+    "districtCode": "51.01.010",
+    "name": "Ekasari",
+    "alias": "Ekasari"
+  },
+  {
+    "code": "51.01.010.010",
+    "villageCode": "010",
+    "districtCode": "51.01.010",
+    "name": "Blimbingsari",
+    "alias": "Blimbingsari"
+  }
+]

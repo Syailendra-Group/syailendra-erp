@@ -1,0 +1,23 @@
+[
+  {
+    "code": "32.73.260.001",
+    "villageCode": "001",
+    "districtCode": "32.73.260",
+    "name": "Hegarmanah",
+    "alias": "Hegarmanah"
+  },
+  {
+    "code": "32.73.260.002",
+    "villageCode": "002",
+    "districtCode": "32.73.260",
+    "name": "Ciumbuleuit",
+    "alias": "Ciumbuleuit"
+  },
+  {
+    "code": "32.73.260.003",
+    "villageCode": "003",
+    "districtCode": "32.73.260",
+    "name": "Ledeng",
+    "alias": "Ledeng"
+  }
+]

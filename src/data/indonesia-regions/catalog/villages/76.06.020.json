@@ -1,0 +1,79 @@
+[
+  {
+    "code": "76.06.020.001",
+    "villageCode": "001",
+    "districtCode": "76.06.020",
+    "name": "Lumu",
+    "alias": "Lumu"
+  },
+  {
+    "code": "76.06.020.002",
+    "villageCode": "002",
+    "districtCode": "76.06.020",
+    "name": "Salumanurung",
+    "alias": "Salumanurung"
+  },
+  {
+    "code": "76.06.020.003",
+    "villageCode": "003",
+    "districtCode": "76.06.020",
+    "name": "Barakkang",
+    "alias": "Barakkang"
+  },
+  {
+    "code": "76.06.020.004",
+    "villageCode": "004",
+    "districtCode": "76.06.020",
+    "name": "Tinali",
+    "alias": "Tinali"
+  },
+  {
+    "code": "76.06.020.005",
+    "villageCode": "005",
+    "districtCode": "76.06.020",
+    "name": "Salogatta",
+    "alias": "Salogatta"
+  },
+  {
+    "code": "76.06.020.006",
+    "villageCode": "006",
+    "districtCode": "76.06.020",
+    "name": "Kire",
+    "alias": "Kire"
+  },
+  {
+    "code": "76.06.020.007",
+    "villageCode": "007",
+    "districtCode": "76.06.020",
+    "name": "Babana",
+    "alias": "Babana"
+  },
+  {
+    "code": "76.06.020.008",
+    "villageCode": "008",
+    "districtCode": "76.06.020",
+    "name": "Pontanakayang",
+    "alias": "Pontanakayang"
+  },
+  {
+    "code": "76.06.020.009",
+    "villageCode": "009",
+    "districtCode": "76.06.020",
+    "name": "Lembah Hada",
+    "alias": "Lembah Hada"
+  },
+  {
+    "code": "76.06.020.010",
+    "villageCode": "010",
+    "districtCode": "76.06.020",
+    "name": "Bojo",
+    "alias": "Bojo"
+  },
+  {
+    "code": "76.06.020.011",
+    "villageCode": "011",
+    "districtCode": "76.06.020",
+    "name": "Pasapa",
+    "alias": "Pasapa"
+  }
+]

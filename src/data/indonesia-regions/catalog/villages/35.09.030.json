@@ -1,0 +1,86 @@
+[
+  {
+    "code": "35.09.030.001",
+    "villageCode": "001",
+    "districtCode": "35.09.030",
+    "name": "Mojomulyo",
+    "alias": "Mojomulyo"
+  },
+  {
+    "code": "35.09.030.002",
+    "villageCode": "002",
+    "districtCode": "35.09.030",
+    "name": "Mojosari",
+    "alias": "Mojosari"
+  },
+  {
+    "code": "35.09.030.003",
+    "villageCode": "003",
+    "districtCode": "35.09.030",
+    "name": "Puger Kulon",
+    "alias": "Puger Kulon"
+  },
+  {
+    "code": "35.09.030.004",
+    "villageCode": "004",
+    "districtCode": "35.09.030",
+    "name": "Puger Wetan",
+    "alias": "Puger Wetan"
+  },
+  {
+    "code": "35.09.030.005",
+    "villageCode": "005",
+    "districtCode": "35.09.030",
+    "name": "Grenden",
+    "alias": "Grenden"
+  },
+  {
+    "code": "35.09.030.006",
+    "villageCode": "006",
+    "districtCode": "35.09.030",
+    "name": "Mlokorejo",
+    "alias": "Mlokorejo"
+  },
+  {
+    "code": "35.09.030.007",
+    "villageCode": "007",
+    "districtCode": "35.09.030",
+    "name": "Kasiyan",
+    "alias": "Kasiyan"
+  },
+  {
+    "code": "35.09.030.008",
+    "villageCode": "008",
+    "districtCode": "35.09.030",
+    "name": "Kasiyan Timur",
+    "alias": "Kasiyan Timur"
+  },
+  {
+    "code": "35.09.030.009",
+    "villageCode": "009",
+    "districtCode": "35.09.030",
+    "name": "Wonosari",
+    "alias": "Wonosari"
+  },
+  {
+    "code": "35.09.030.010",
+    "villageCode": "010",
+    "districtCode": "35.09.030",
+    "name": "Jambearum",
+    "alias": "Jambearum"
+  },
+  {
+    "code": "35.09.030.011",
+    "villageCode": "011",
+    "districtCode": "35.09.030",
+    "name": "Bagon",
+    "alias": "Bagon"
+  },
+  {
+    "code": "35.09.030.012",
+    "villageCode": "012",
+    "districtCode": "35.09.030",
+    "name": "Wringin Telu",
+    "alias": "Wringin Telu"
+  }
+]

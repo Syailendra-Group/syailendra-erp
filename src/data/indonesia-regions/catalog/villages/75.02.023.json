@@ -1,0 +1,72 @@
+[
+  {
+    "code": "75.02.023.001",
+    "villageCode": "001",
+    "districtCode": "75.02.023",
+    "name": "Momala",
+    "alias": "Momala"
+  },
+  {
+    "code": "75.02.023.002",
+    "villageCode": "002",
+    "districtCode": "75.02.023",
+    "name": "Ambara",
+    "alias": "Ambara"
+  },
+  {
+    "code": "75.02.023.003",
+    "villageCode": "003",
+    "districtCode": "75.02.023",
+    "name": "Ayuhula",
+    "alias": "Ayuhula"
+  },
+  {
+    "code": "75.02.023.004",
+    "villageCode": "004",
+    "districtCode": "75.02.023",
+    "name": "Botubulowe",
+    "alias": "Botubulowe"
+  },
+  {
+    "code": "75.02.023.005",
+    "villageCode": "005",
+    "districtCode": "75.02.023",
+    "name": "Dungaliyo",
+    "alias": "Dungaliyo"
+  },
+  {
+    "code": "75.02.023.006",
+    "villageCode": "006",
+    "districtCode": "75.02.023",
+    "name": "Pilolalenga",
+    "alias": "Pilolalenga"
+  },
+  {
+    "code": "75.02.023.007",
+    "villageCode": "007",
+    "districtCode": "75.02.023",
+    "name": "Kaliyoso",
+    "alias": "Kaliyoso"
+  },
+  {
+    "code": "75.02.023.008",
+    "villageCode": "008",
+    "districtCode": "75.02.023",
+    "name": "Pangadaa",
+    "alias": "Pangadaa"
+  },
+  {
+    "code": "75.02.023.009",
+    "villageCode": "009",
+    "districtCode": "75.02.023",
+    "name": "Bongomeme",
+    "alias": "Bongomeme"
+  },
+  {
+    "code": "75.02.023.010",
+    "villageCode": "010",
+    "districtCode": "75.02.023",
+    "name": "Duwanga",
+    "alias": "Duwanga"
+  }
+]

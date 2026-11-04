@@ -1,0 +1,51 @@
+[
+  {
+    "code": "95.03.040.001",
+    "villageCode": "001",
+    "districtCode": "95.03.040",
+    "name": "Yodom",
+    "alias": "Yodom"
+  },
+  {
+    "code": "95.03.040.002",
+    "villageCode": "002",
+    "districtCode": "95.03.040",
+    "name": "Banamepe",
+    "alias": "Banamepe"
+  },
+  {
+    "code": "95.03.040.003",
+    "villageCode": "003",
+    "districtCode": "95.03.040",
+    "name": "Bade",
+    "alias": "Bade"
+  },
+  {
+    "code": "95.03.040.004",
+    "villageCode": "004",
+    "districtCode": "95.03.040",
+    "name": "Isyaman",
+    "alias": "Isyaman"
+  },
+  {
+    "code": "95.03.040.005",
+    "villageCode": "005",
+    "districtCode": "95.03.040",
+    "name": "Geturki",
+    "alias": "Geturki"
+  },
+  {
+    "code": "95.03.040.006",
+    "villageCode": "006",
+    "districtCode": "95.03.040",
+    "name": "Mememu",
+    "alias": "Mememu"
+  },
+  {
+    "code": "95.03.040.007",
+    "villageCode": "007",
+    "districtCode": "95.03.040",
+    "name": "Gimikia",
+    "alias": "Gimikia"
+  }
+]

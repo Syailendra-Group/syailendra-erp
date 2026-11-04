@@ -1,0 +1,186 @@
+[
+  {
+    "code": "12.02.010",
+    "districtCode": "010",
+    "regencyCode": "12.02",
+    "provinceCode": "12",
+    "name": "Kecamatan Batahan",
+    "alias": "Batahan"
+  },
+  {
+    "code": "12.02.011",
+    "districtCode": "011",
+    "regencyCode": "12.02",
+    "provinceCode": "12",
+    "name": "Kecamatan Sinunukan",
+    "alias": "Sinunukan"
+  },
+  {
+    "code": "12.02.020",
+    "districtCode": "020",
+    "regencyCode": "12.02",
+    "provinceCode": "12",
+    "name": "Kecamatan Batang Natal",
+    "alias": "Batang Natal"
+  },
+  {
+    "code": "12.02.021",
+    "districtCode": "021",
+    "regencyCode": "12.02",
+    "provinceCode": "12",
+    "name": "Kecamatan Lingga Bayu",
+    "alias": "Lingga Bayu"
+  },
+  {
+    "code": "12.02.022",
+    "districtCode": "022",
+    "regencyCode": "12.02",
+    "provinceCode": "12",
+    "name": "Kecamatan Ranto Baek",
+    "alias": "Ranto Baek"
+  },
+  {
+    "code": "12.02.030",
+    "districtCode": "030",
+    "regencyCode": "12.02",
+    "provinceCode": "12",
+    "name": "Kecamatan Kotanopan",
+    "alias": "Kotanopan"
+  },
+  {
+    "code": "12.02.031",
+    "districtCode": "031",
+    "regencyCode": "12.02",
+    "provinceCode": "12",
+    "name": "Kecamatan Ulu Pungkut",
+    "alias": "Ulu Pungkut"
+  },
+  {
+    "code": "12.02.032",
+    "districtCode": "032",
+    "regencyCode": "12.02",
+    "provinceCode": "12",
+    "name": "Kecamatan Tambangan",
+    "alias": "Tambangan"
+  },
+  {
+    "code": "12.02.033",
+    "districtCode": "033",
+    "regencyCode": "12.02",
+    "provinceCode": "12",
+    "name": "Kecamatan Lembah Sorik Marapi",
+    "alias": "Lembah Sorik Marapi"
+  },
+  {
+    "code": "12.02.034",
+    "districtCode": "034",
+    "regencyCode": "12.02",
+    "provinceCode": "12",
+    "name": "Kecamatan Puncak Sorik Marapi",
+    "alias": "Puncak Sorik Marapi"
+  },
+  {
+    "code": "12.02.040",
+    "districtCode": "040",
+    "regencyCode": "12.02",
+    "provinceCode": "12",
+    "name": "Kecamatan Muara Sipongi",
+    "alias": "Muara Sipongi"
+  },
+  {
+    "code": "12.02.041",
+    "districtCode": "041",
+    "regencyCode": "12.02",
+    "provinceCode": "12",
+    "name": "Kecamatan Pakantan",
+    "alias": "Pakantan"
+  },
+  {
+    "code": "12.02.050",
+    "districtCode": "050",
+    "regencyCode": "12.02",
+    "provinceCode": "12",
+    "name": "Kecamatan Panyabungan",
+    "alias": "Panyabungan"
+  },
+  {
+    "code": "12.02.051",
+    "districtCode": "051",
+    "regencyCode": "12.02",
+    "provinceCode": "12",
+    "name": "Kecamatan Panyabungan Selatan",
+    "alias": "Panyabungan Selatan"
+  },
+  {
+    "code": "12.02.052",
+    "districtCode": "052",
+    "regencyCode": "12.02",
+    "provinceCode": "12",
+    "name": "Kecamatan Panyabungan Barat",
+    "alias": "Panyabungan Barat"
+  },
+  {
+    "code": "12.02.053",
+    "districtCode": "053",
+    "regencyCode": "12.02",
+    "provinceCode": "12",
+    "name": "Kecamatan Panyabungan Utara",
+    "alias": "Panyabungan Utara"
+  },
+  {
+    "code": "12.02.054",
+    "districtCode": "054",
+    "regencyCode": "12.02",
+    "provinceCode": "12",
+    "name": "Kecamatan Panyabungan Timur",
+    "alias": "Panyabungan Timur"
+  },
+  {
+    "code": "12.02.055",
+    "districtCode": "055",
+    "regencyCode": "12.02",
+    "provinceCode": "12",
+    "name": "Kecamatan Huta Bargot",
+    "alias": "Huta Bargot"
+  },
+  {
+    "code": "12.02.060",
+    "districtCode": "060",
+    "regencyCode": "12.02",
+    "provinceCode": "12",
+    "name": "Kecamatan Natal",
+    "alias": "Natal"
+  },
+  {
+    "code": "12.02.070",
+    "districtCode": "070",
+    "regencyCode": "12.02",
+    "provinceCode": "12",
+    "name": "Kecamatan Muara Batang Gadis",
+    "alias": "Muara Batang Gadis"
+  },
+  {
+    "code": "12.02.080",
+    "districtCode": "080",
+    "regencyCode": "12.02",
+    "provinceCode": "12",
+    "name": "Kecamatan Siabu",
+    "alias": "Siabu"
+  },
+  {
+    "code": "12.02.081",
+    "districtCode": "081",
+    "regencyCode": "12.02",
+    "provinceCode": "12",
+    "name": "Kecamatan Bukit Malintang",
+    "alias": "Bukit Malintang"
+  },
+  {
+    "code": "12.02.082",
+    "districtCode": "082",
+    "regencyCode": "12.02",
+    "provinceCode": "12",
+    "name": "Kecamatan Naga Juang",
+    "alias": "Naga Juang"
+  }
+]

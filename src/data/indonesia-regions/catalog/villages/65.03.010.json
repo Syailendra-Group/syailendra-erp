@@ -1,0 +1,44 @@
+[
+  {
+    "code": "65.03.010.001",
+    "villageCode": "001",
+    "districtCode": "65.03.010",
+    "name": "Balayan Ari",
+    "alias": "Balayan Ari"
+  },
+  {
+    "code": "65.03.010.002",
+    "villageCode": "002",
+    "districtCode": "65.03.010",
+    "name": "Seputuk",
+    "alias": "Seputuk"
+  },
+  {
+    "code": "65.03.010.003",
+    "villageCode": "003",
+    "districtCode": "65.03.010",
+    "name": "Rian",
+    "alias": "Rian"
+  },
+  {
+    "code": "65.03.010.004",
+    "villageCode": "004",
+    "districtCode": "65.03.010",
+    "name": "Kapuak",
+    "alias": "Kapuak"
+  },
+  {
+    "code": "65.03.010.005",
+    "villageCode": "005",
+    "districtCode": "65.03.010",
+    "name": "Rian Rayo",
+    "alias": "Rian Rayo"
+  },
+  {
+    "code": "65.03.010.006",
+    "villageCode": "006",
+    "districtCode": "65.03.010",
+    "name": "Sapari",
+    "alias": "Sapari"
+  }
+]

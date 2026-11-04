@@ -1,0 +1,30 @@
+[
+  {
+    "code": "13.06.052.001",
+    "villageCode": "001",
+    "districtCode": "13.06.052",
+    "name": "Kapalo Hilalang",
+    "alias": "Kapalo Hilalang"
+  },
+  {
+    "code": "13.06.052.002",
+    "villageCode": "002",
+    "districtCode": "13.06.052",
+    "name": "Kayu Tanam",
+    "alias": "Kayu Tanam"
+  },
+  {
+    "code": "13.06.052.003",
+    "villageCode": "003",
+    "districtCode": "13.06.052",
+    "name": "Guguak",
+    "alias": "Guguak"
+  },
+  {
+    "code": "13.06.052.004",
+    "villageCode": "004",
+    "districtCode": "13.06.052",
+    "name": "Anduriang",
+    "alias": "Anduriang"
+  }
+]

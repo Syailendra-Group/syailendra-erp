@@ -1,0 +1,72 @@
+[
+  {
+    "code": "75.04.030.011",
+    "villageCode": "011",
+    "districtCode": "75.04.030",
+    "name": "Tingkohubu",
+    "alias": "Tingkohubu"
+  },
+  {
+    "code": "75.04.030.012",
+    "villageCode": "012",
+    "districtCode": "75.04.030",
+    "name": "Boludawa",
+    "alias": "Boludawa"
+  },
+  {
+    "code": "75.04.030.013",
+    "villageCode": "013",
+    "districtCode": "75.04.030",
+    "name": "Bube",
+    "alias": "Bube"
+  },
+  {
+    "code": "75.04.030.014",
+    "villageCode": "014",
+    "districtCode": "75.04.030",
+    "name": "Huluduotamo",
+    "alias": "Huluduotamo"
+  },
+  {
+    "code": "75.04.030.019",
+    "villageCode": "019",
+    "districtCode": "75.04.030",
+    "name": "Bubeya",
+    "alias": "Bubeya"
+  },
+  {
+    "code": "75.04.030.020",
+    "villageCode": "020",
+    "districtCode": "75.04.030",
+    "name": "Bube Baru",
+    "alias": "Bube Baru"
+  },
+  {
+    "code": "75.04.030.022",
+    "villageCode": "022",
+    "districtCode": "75.04.030",
+    "name": "Tinelo",
+    "alias": "Tinelo"
+  },
+  {
+    "code": "75.04.030.023",
+    "villageCode": "023",
+    "districtCode": "75.04.030",
+    "name": "Ulanta",
+    "alias": "Ulanta"
+  },
+  {
+    "code": "75.04.030.024",
+    "villageCode": "024",
+    "districtCode": "75.04.030",
+    "name": "Tingkohubu Timur",
+    "alias": "Tingkohubu Timur"
+  },
+  {
+    "code": "75.04.030.025",
+    "villageCode": "025",
+    "districtCode": "75.04.030",
+    "name": "Helumo",
+    "alias": "Helumo"
+  }
+]

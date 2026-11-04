@@ -1,0 +1,58 @@
+[
+  {
+    "code": "96.01.140.001",
+    "villageCode": "001",
+    "districtCode": "96.01.140",
+    "name": "Faka Fuku",
+    "alias": "Faka Fuku"
+  },
+  {
+    "code": "96.01.140.002",
+    "villageCode": "002",
+    "districtCode": "96.01.140",
+    "name": "Kiliarma",
+    "alias": "Kiliarma"
+  },
+  {
+    "code": "96.01.140.003",
+    "villageCode": "003",
+    "districtCode": "96.01.140",
+    "name": "Amungun",
+    "alias": "Amungun"
+  },
+  {
+    "code": "96.01.140.004",
+    "villageCode": "004",
+    "districtCode": "96.01.140",
+    "name": "Aramsolki",
+    "alias": "Aramsolki"
+  },
+  {
+    "code": "96.01.140.005",
+    "villageCode": "005",
+    "districtCode": "96.01.140",
+    "name": "Hinat Untung",
+    "alias": "Hinat Untung"
+  },
+  {
+    "code": "96.01.140.006",
+    "villageCode": "006",
+    "districtCode": "96.01.140",
+    "name": "Masaimamo",
+    "alias": "Masaimamo"
+  },
+  {
+    "code": "96.01.140.007",
+    "villageCode": "007",
+    "districtCode": "96.01.140",
+    "name": "Emkoma Halama",
+    "alias": "Emkoma Halama"
+  },
+  {
+    "code": "96.01.140.008",
+    "villageCode": "008",
+    "districtCode": "96.01.140",
+    "name": "Emogora",
+    "alias": "Emogora"
+  }
+]

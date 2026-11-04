@@ -1,0 +1,58 @@
+[
+  {
+    "code": "73.01.010.001",
+    "villageCode": "001",
+    "districtCode": "73.01.010",
+    "name": "Komba-Komba",
+    "alias": "Komba-Komba"
+  },
+  {
+    "code": "73.01.010.002",
+    "villageCode": "002",
+    "districtCode": "73.01.010",
+    "name": "Lambego",
+    "alias": "Lambego"
+  },
+  {
+    "code": "73.01.010.003",
+    "villageCode": "003",
+    "districtCode": "73.01.010",
+    "name": "Bonerate",
+    "alias": "Bonerate"
+  },
+  {
+    "code": "73.01.010.004",
+    "villageCode": "004",
+    "districtCode": "73.01.010",
+    "name": "Majapahit",
+    "alias": "Majapahit"
+  },
+  {
+    "code": "73.01.010.005",
+    "villageCode": "005",
+    "districtCode": "73.01.010",
+    "name": "Batu Bingkung",
+    "alias": "Batu Bingkung"
+  },
+  {
+    "code": "73.01.010.006",
+    "villageCode": "006",
+    "districtCode": "73.01.010",
+    "name": "Bonea",
+    "alias": "Bonea"
+  },
+  {
+    "code": "73.01.010.007",
+    "villageCode": "007",
+    "districtCode": "73.01.010",
+    "name": "Sambali",
+    "alias": "Sambali"
+  },
+  {
+    "code": "73.01.010.008",
+    "villageCode": "008",
+    "districtCode": "73.01.010",
+    "name": "Lamantu",
+    "alias": "Lamantu"
+  }
+]

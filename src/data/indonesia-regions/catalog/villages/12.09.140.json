@@ -1,0 +1,79 @@
+[
+  {
+    "code": "12.09.140.001",
+    "villageCode": "001",
+    "districtCode": "12.09.140",
+    "name": "Dolok Maraja",
+    "alias": "Dolok Maraja"
+  },
+  {
+    "code": "12.09.140.002",
+    "villageCode": "002",
+    "districtCode": "12.09.140",
+    "name": "Sinaksak",
+    "alias": "Sinaksak"
+  },
+  {
+    "code": "12.09.140.003",
+    "villageCode": "003",
+    "districtCode": "12.09.140",
+    "name": "Batu Silangit",
+    "alias": "Batu Silangit"
+  },
+  {
+    "code": "12.09.140.004",
+    "villageCode": "004",
+    "districtCode": "12.09.140",
+    "name": "Dolok Ulu",
+    "alias": "Dolok Ulu"
+  },
+  {
+    "code": "12.09.140.005",
+    "villageCode": "005",
+    "districtCode": "12.09.140",
+    "name": "Nagur Usang",
+    "alias": "Nagur Usang"
+  },
+  {
+    "code": "12.09.140.006",
+    "villageCode": "006",
+    "districtCode": "12.09.140",
+    "name": "Naga Dolok",
+    "alias": "Naga Dolok"
+  },
+  {
+    "code": "12.09.140.007",
+    "villageCode": "007",
+    "districtCode": "12.09.140",
+    "name": "Dolok Kahean",
+    "alias": "Dolok Kahean"
+  },
+  {
+    "code": "12.09.140.008",
+    "villageCode": "008",
+    "districtCode": "12.09.140",
+    "name": "Purbasari",
+    "alias": "Purbasari"
+  },
+  {
+    "code": "12.09.140.009",
+    "villageCode": "009",
+    "districtCode": "12.09.140",
+    "name": "Pematang Dolok Kahean",
+    "alias": "Pematang Dolok Kahean"
+  },
+  {
+    "code": "12.09.140.010",
+    "villageCode": "010",
+    "districtCode": "12.09.140",
+    "name": "Negeri Bayu Muslimin",
+    "alias": "Negeri Bayu Muslimin"
+  },
+  {
+    "code": "12.09.140.011",
+    "villageCode": "011",
+    "districtCode": "12.09.140",
+    "name": "Dolok Simbolon",
+    "alias": "Dolok Simbolon"
+  }
+]

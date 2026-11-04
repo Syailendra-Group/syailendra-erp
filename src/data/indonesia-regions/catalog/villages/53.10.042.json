@@ -1,0 +1,51 @@
+[
+  {
+    "code": "53.10.042.011",
+    "villageCode": "011",
+    "districtCode": "53.10.042",
+    "name": "Natarmage",
+    "alias": "Natarmage"
+  },
+  {
+    "code": "53.10.042.012",
+    "villageCode": "012",
+    "districtCode": "53.10.042",
+    "name": "Pruda",
+    "alias": "Pruda"
+  },
+  {
+    "code": "53.10.042.013",
+    "villageCode": "013",
+    "districtCode": "53.10.042",
+    "name": "Werang",
+    "alias": "Werang"
+  },
+  {
+    "code": "53.10.042.014",
+    "villageCode": "014",
+    "districtCode": "53.10.042",
+    "name": "Tanarawa",
+    "alias": "Tanarawa"
+  },
+  {
+    "code": "53.10.042.024",
+    "villageCode": "024",
+    "districtCode": "53.10.042",
+    "name": "Ilinmedo",
+    "alias": "Ilinmedo"
+  },
+  {
+    "code": "53.10.042.025",
+    "villageCode": "025",
+    "districtCode": "53.10.042",
+    "name": "Tua Bao",
+    "alias": "Tua Bao"
+  },
+  {
+    "code": "53.10.042.026",
+    "villageCode": "026",
+    "districtCode": "53.10.042",
+    "name": "Watu Moning",
+    "alias": "Watu Moning"
+  }
+]

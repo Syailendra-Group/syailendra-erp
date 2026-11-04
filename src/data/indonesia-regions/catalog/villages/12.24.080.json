@@ -1,0 +1,93 @@
+[
+  {
+    "code": "12.24.080.001",
+    "villageCode": "001",
+    "districtCode": "12.24.080",
+    "name": "Baho",
+    "alias": "Baho"
+  },
+  {
+    "code": "12.24.080.002",
+    "villageCode": "002",
+    "districtCode": "12.24.080",
+    "name": "Maziaya",
+    "alias": "Maziaya"
+  },
+  {
+    "code": "12.24.080.003",
+    "villageCode": "003",
+    "districtCode": "12.24.080",
+    "name": "Fadoro Fulolo",
+    "alias": "Fadoro Fulolo"
+  },
+  {
+    "code": "12.24.080.004",
+    "villageCode": "004",
+    "districtCode": "12.24.080",
+    "name": "Hilidundra",
+    "alias": "Hilidundra"
+  },
+  {
+    "code": "12.24.080.005",
+    "villageCode": "005",
+    "districtCode": "12.24.080",
+    "name": "Lawira Satua",
+    "alias": "Lawira Satua"
+  },
+  {
+    "code": "12.24.080.006",
+    "villageCode": "006",
+    "districtCode": "12.24.080",
+    "name": "Hiligodu",
+    "alias": "Hiligodu"
+  },
+  {
+    "code": "12.24.080.007",
+    "villageCode": "007",
+    "districtCode": "12.24.080",
+    "name": "Lombuzaua",
+    "alias": "Lombuzaua"
+  },
+  {
+    "code": "12.24.080.008",
+    "villageCode": "008",
+    "districtCode": "12.24.080",
+    "name": "Lawira Ii",
+    "alias": "Lawira Ii"
+  },
+  {
+    "code": "12.24.080.009",
+    "villageCode": "009",
+    "districtCode": "12.24.080",
+    "name": "Lawira I",
+    "alias": "Lawira I"
+  },
+  {
+    "code": "12.24.080.010",
+    "villageCode": "010",
+    "districtCode": "12.24.080",
+    "name": "Lolofaoso",
+    "alias": "Lolofaoso"
+  },
+  {
+    "code": "12.24.080.011",
+    "villageCode": "011",
+    "districtCode": "12.24.080",
+    "name": "Lolomboli",
+    "alias": "Lolomboli"
+  },
+  {
+    "code": "12.24.080.012",
+    "villageCode": "012",
+    "districtCode": "12.24.080",
+    "name": "Dahadano",
+    "alias": "Dahadano"
+  },
+  {
+    "code": "12.24.080.013",
+    "villageCode": "013",
+    "districtCode": "12.24.080",
+    "name": "Hiligeo Afia",
+    "alias": "Hiligeo Afia"
+  }
+]

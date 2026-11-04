@@ -1,0 +1,58 @@
+[
+  {
+    "code": "62.06.030.001",
+    "villageCode": "001",
+    "districtCode": "62.06.030",
+    "name": "Jihing",
+    "alias": "Jihing"
+  },
+  {
+    "code": "62.06.030.002",
+    "villageCode": "002",
+    "districtCode": "62.06.030",
+    "name": "Air Dua",
+    "alias": "Air Dua"
+  },
+  {
+    "code": "62.06.030.003",
+    "villageCode": "003",
+    "districtCode": "62.06.030",
+    "name": "Bukit Sungkai",
+    "alias": "Bukit Sungkai"
+  },
+  {
+    "code": "62.06.030.004",
+    "villageCode": "004",
+    "districtCode": "62.06.030",
+    "name": "Lupu Peruca",
+    "alias": "Lupu Peruca"
+  },
+  {
+    "code": "62.06.030.005",
+    "villageCode": "005",
+    "districtCode": "62.06.030",
+    "name": "Sekuningan Baru",
+    "alias": "Sekuningan Baru"
+  },
+  {
+    "code": "62.06.030.006",
+    "villageCode": "006",
+    "districtCode": "62.06.030",
+    "name": "Balai Riam",
+    "alias": "Balai Riam"
+  },
+  {
+    "code": "62.06.030.007",
+    "villageCode": "007",
+    "districtCode": "62.06.030",
+    "name": "Bangun Jaya",
+    "alias": "Bangun Jaya"
+  },
+  {
+    "code": "62.06.030.009",
+    "villageCode": "009",
+    "districtCode": "62.06.030",
+    "name": "Pempaning",
+    "alias": "Pempaning"
+  }
+]

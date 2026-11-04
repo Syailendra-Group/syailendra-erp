@@ -1,0 +1,65 @@
+[
+  {
+    "code": "97.03.050.001",
+    "villageCode": "001",
+    "districtCode": "97.03.050",
+    "name": "Eyuni",
+    "alias": "Eyuni"
+  },
+  {
+    "code": "97.03.050.002",
+    "villageCode": "002",
+    "districtCode": "97.03.050",
+    "name": "Wuragabut",
+    "alias": "Wuragabut"
+  },
+  {
+    "code": "97.03.050.003",
+    "villageCode": "003",
+    "districtCode": "97.03.050",
+    "name": "Yugumia",
+    "alias": "Yugumia"
+  },
+  {
+    "code": "97.03.050.004",
+    "villageCode": "004",
+    "districtCode": "97.03.050",
+    "name": "Wumuak",
+    "alias": "Wumuak"
+  },
+  {
+    "code": "97.03.050.005",
+    "villageCode": "005",
+    "districtCode": "97.03.050",
+    "name": "Indawa",
+    "alias": "Indawa"
+  },
+  {
+    "code": "97.03.050.006",
+    "villageCode": "006",
+    "districtCode": "97.03.050",
+    "name": "Andiaput",
+    "alias": "Andiaput"
+  },
+  {
+    "code": "97.03.050.007",
+    "villageCode": "007",
+    "districtCode": "97.03.050",
+    "name": "Nambume",
+    "alias": "Nambume"
+  },
+  {
+    "code": "97.03.050.008",
+    "villageCode": "008",
+    "districtCode": "97.03.050",
+    "name": "Dolinggame",
+    "alias": "Dolinggame"
+  },
+  {
+    "code": "97.03.050.009",
+    "villageCode": "009",
+    "districtCode": "97.03.050",
+    "name": "Tinggira",
+    "alias": "Tinggira"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "code": "91.01",
+    "regencyCode": "01",
+    "provinceCode": "91",
+    "provinceName": "Papua Barat",
+    "name": "Kabupaten Fak Fak",
+    "alias": "Fak Fak"
+  },
+  {
+    "code": "91.02",
+    "regencyCode": "02",
+    "provinceCode": "91",
+    "provinceName": "Papua Barat",
+    "name": "Kabupaten Kaimana",
+    "alias": "Kaimana"
+  },
+  {
+    "code": "91.03",
+    "regencyCode": "03",
+    "provinceCode": "91",
+    "provinceName": "Papua Barat",
+    "name": "Kabupaten Teluk Wondama",
+    "alias": "Teluk Wondama"
+  },
+  {
+    "code": "91.04",
+    "regencyCode": "04",
+    "provinceCode": "91",
+    "provinceName": "Papua Barat",
+    "name": "Kabupaten Teluk Bintuni",
+    "alias": "Teluk Bintuni"
+  },
+  {
+    "code": "91.05",
+    "regencyCode": "05",
+    "provinceCode": "91",
+    "provinceName": "Papua Barat",
+    "name": "Kabupaten Manokwari",
+    "alias": "Manokwari"
+  },
+  {
+    "code": "91.11",
+    "regencyCode": "11",
+    "provinceCode": "91",
+    "provinceName": "Papua Barat",
+    "name": "Kabupaten Manokwari Selatan",
+    "alias": "Manokwari Selatan"
+  },
+  {
+    "code": "91.12",
+    "regencyCode": "12",
+    "provinceCode": "91",
+    "provinceName": "Papua Barat",
+    "name": "Kabupaten Pegunungan Arfak",
+    "alias": "Pegunungan Arfak"
+  }
+]

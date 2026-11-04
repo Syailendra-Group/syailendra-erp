@@ -1,0 +1,51 @@
+[
+  {
+    "code": "17.71.040.001",
+    "villageCode": "001",
+    "districtCode": "17.71.040",
+    "name": "Beringin Raya",
+    "alias": "Beringin Raya"
+  },
+  {
+    "code": "17.71.040.002",
+    "villageCode": "002",
+    "districtCode": "17.71.040",
+    "name": "Rawa Makmur",
+    "alias": "Rawa Makmur"
+  },
+  {
+    "code": "17.71.040.003",
+    "villageCode": "003",
+    "districtCode": "17.71.040",
+    "name": "Kandang Limun",
+    "alias": "Kandang Limun"
+  },
+  {
+    "code": "17.71.040.004",
+    "villageCode": "004",
+    "districtCode": "17.71.040",
+    "name": "Pematang Gubernur",
+    "alias": "Pematang Gubernur"
+  },
+  {
+    "code": "17.71.040.005",
+    "villageCode": "005",
+    "districtCode": "17.71.040",
+    "name": "Bentiring",
+    "alias": "Bentiring"
+  },
+  {
+    "code": "17.71.040.006",
+    "villageCode": "006",
+    "districtCode": "17.71.040",
+    "name": "Rawa Makmur Permai",
+    "alias": "Rawa Makmur Permai"
+  },
+  {
+    "code": "17.71.040.007",
+    "villageCode": "007",
+    "districtCode": "17.71.040",
+    "name": "Bentiring Permai",
+    "alias": "Bentiring Permai"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "code": "12.74.010.001",
+    "villageCode": "001",
+    "districtCode": "12.74.010",
+    "name": "Pabatu",
+    "alias": "Pabatu"
+  },
+  {
+    "code": "12.74.010.002",
+    "villageCode": "002",
+    "districtCode": "12.74.010",
+    "name": "Lubuk Baru",
+    "alias": "Lubuk Baru"
+  },
+  {
+    "code": "12.74.010.003",
+    "villageCode": "003",
+    "districtCode": "12.74.010",
+    "name": "Persiakan",
+    "alias": "Persiakan"
+  },
+  {
+    "code": "12.74.010.004",
+    "villageCode": "004",
+    "districtCode": "12.74.010",
+    "name": "Bandarsono",
+    "alias": "Bandarsono"
+  },
+  {
+    "code": "12.74.010.008",
+    "villageCode": "008",
+    "districtCode": "12.74.010",
+    "name": "Tualang",
+    "alias": "Tualang"
+  },
+  {
+    "code": "12.74.010.011",
+    "villageCode": "011",
+    "districtCode": "12.74.010",
+    "name": "Lubuk Raya",
+    "alias": "Lubuk Raya"
+  },
+  {
+    "code": "12.74.010.012",
+    "villageCode": "012",
+    "districtCode": "12.74.010",
+    "name": "Padang Merbau",
+    "alias": "Padang Merbau"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "code": "53.10.052.001",
+    "villageCode": "001",
+    "districtCode": "53.10.052",
+    "name": "Tekaiku",
+    "alias": "Tekaiku"
+  },
+  {
+    "code": "53.10.052.002",
+    "villageCode": "002",
+    "districtCode": "53.10.052",
+    "name": "Mekendetun",
+    "alias": "Mekendetun"
+  },
+  {
+    "code": "53.10.052.003",
+    "villageCode": "003",
+    "districtCode": "53.10.052",
+    "name": "Blatatatin",
+    "alias": "Blatatatin"
+  },
+  {
+    "code": "53.10.052.004",
+    "villageCode": "004",
+    "districtCode": "53.10.052",
+    "name": "Kokowahor",
+    "alias": "Kokowahor"
+  },
+  {
+    "code": "53.10.052.015",
+    "villageCode": "015",
+    "districtCode": "53.10.052",
+    "name": "Watumilok",
+    "alias": "Watumilok"
+  },
+  {
+    "code": "53.10.052.016",
+    "villageCode": "016",
+    "districtCode": "53.10.052",
+    "name": "Tanaduen",
+    "alias": "Tanaduen"
+  },
+  {
+    "code": "53.10.052.017",
+    "villageCode": "017",
+    "districtCode": "53.10.052",
+    "name": "Watuliwung",
+    "alias": "Watuliwung"
+  },
+  {
+    "code": "53.10.052.018",
+    "villageCode": "018",
+    "districtCode": "53.10.052",
+    "name": "Habi",
+    "alias": "Habi"
+  },
+  {
+    "code": "53.10.052.019",
+    "villageCode": "019",
+    "districtCode": "53.10.052",
+    "name": "Langir",
+    "alias": "Langir"
+  }
+]

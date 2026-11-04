@@ -1,0 +1,72 @@
+[
+  {
+    "code": "73.03.031.001",
+    "villageCode": "001",
+    "districtCode": "73.03.031",
+    "name": "Rappoa",
+    "alias": "Rappoa"
+  },
+  {
+    "code": "73.03.031.002",
+    "villageCode": "002",
+    "districtCode": "73.03.031",
+    "name": "Biangloe",
+    "alias": "Biangloe"
+  },
+  {
+    "code": "73.03.031.003",
+    "villageCode": "003",
+    "districtCode": "73.03.031",
+    "name": "Lumpangan",
+    "alias": "Lumpangan"
+  },
+  {
+    "code": "73.03.031.004",
+    "villageCode": "004",
+    "districtCode": "73.03.031",
+    "name": "Biangkeke",
+    "alias": "Biangkeke"
+  },
+  {
+    "code": "73.03.031.005",
+    "villageCode": "005",
+    "districtCode": "73.03.031",
+    "name": "Nipa-Nipa",
+    "alias": "Nipa-Nipa"
+  },
+  {
+    "code": "73.03.031.006",
+    "villageCode": "006",
+    "districtCode": "73.03.031",
+    "name": "Pa Jukukang",
+    "alias": "Pa Jukukang"
+  },
+  {
+    "code": "73.03.031.007",
+    "villageCode": "007",
+    "districtCode": "73.03.031",
+    "name": "Borongloe",
+    "alias": "Borongloe"
+  },
+  {
+    "code": "73.03.031.008",
+    "villageCode": "008",
+    "districtCode": "73.03.031",
+    "name": "Papanloe",
+    "alias": "Papanloe"
+  },
+  {
+    "code": "73.03.031.009",
+    "villageCode": "009",
+    "districtCode": "73.03.031",
+    "name": "Baruga",
+    "alias": "Baruga"
+  },
+  {
+    "code": "73.03.031.021",
+    "villageCode": "021",
+    "districtCode": "73.03.031",
+    "name": "Batukaraeng",
+    "alias": "Batukaraeng"
+  }
+]

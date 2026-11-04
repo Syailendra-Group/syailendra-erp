@@ -1,0 +1,72 @@
+[
+  {
+    "code": "74.05.031.001",
+    "villageCode": "001",
+    "districtCode": "74.05.031",
+    "name": "Lakara",
+    "alias": "Lakara"
+  },
+  {
+    "code": "74.05.031.002",
+    "villageCode": "002",
+    "districtCode": "74.05.031",
+    "name": "Ulu Lakara",
+    "alias": "Ulu Lakara"
+  },
+  {
+    "code": "74.05.031.003",
+    "villageCode": "003",
+    "districtCode": "74.05.031",
+    "name": "Waturapa",
+    "alias": "Waturapa"
+  },
+  {
+    "code": "74.05.031.004",
+    "villageCode": "004",
+    "districtCode": "74.05.031",
+    "name": "Lalowua",
+    "alias": "Lalowua"
+  },
+  {
+    "code": "74.05.031.005",
+    "villageCode": "005",
+    "districtCode": "74.05.031",
+    "name": "Koeono",
+    "alias": "Koeono"
+  },
+  {
+    "code": "74.05.031.006",
+    "villageCode": "006",
+    "districtCode": "74.05.031",
+    "name": "Amondo",
+    "alias": "Amondo"
+  },
+  {
+    "code": "74.05.031.007",
+    "villageCode": "007",
+    "districtCode": "74.05.031",
+    "name": "Watumbohoti",
+    "alias": "Watumbohoti"
+  },
+  {
+    "code": "74.05.031.008",
+    "villageCode": "008",
+    "districtCode": "74.05.031",
+    "name": "Parasi",
+    "alias": "Parasi"
+  },
+  {
+    "code": "74.05.031.009",
+    "villageCode": "009",
+    "districtCode": "74.05.031",
+    "name": "Mondoe",
+    "alias": "Mondoe"
+  },
+  {
+    "code": "74.05.031.010",
+    "villageCode": "010",
+    "districtCode": "74.05.031",
+    "name": "Wawo Wonua",
+    "alias": "Wawo Wonua"
+  }
+]

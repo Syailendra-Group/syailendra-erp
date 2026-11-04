@@ -1,0 +1,51 @@
+[
+  {
+    "code": "12.24.090.001",
+    "villageCode": "001",
+    "districtCode": "12.24.090",
+    "name": "Lukhulase",
+    "alias": "Lukhulase"
+  },
+  {
+    "code": "12.24.090.002",
+    "villageCode": "002",
+    "districtCode": "12.24.090",
+    "name": "Laowowaga",
+    "alias": "Laowowaga"
+  },
+  {
+    "code": "12.24.090.003",
+    "villageCode": "003",
+    "districtCode": "12.24.090",
+    "name": "Meafu",
+    "alias": "Meafu"
+  },
+  {
+    "code": "12.24.090.004",
+    "villageCode": "004",
+    "districtCode": "12.24.090",
+    "name": "Tetehosisorowi",
+    "alias": "Tetehosisorowi"
+  },
+  {
+    "code": "12.24.090.005",
+    "villageCode": "005",
+    "districtCode": "12.24.090",
+    "name": "Tugala Lauru",
+    "alias": "Tugala Lauru"
+  },
+  {
+    "code": "12.24.090.006",
+    "villageCode": "006",
+    "districtCode": "12.24.090",
+    "name": "Muzoi",
+    "alias": "Muzoi"
+  },
+  {
+    "code": "12.24.090.007",
+    "villageCode": "007",
+    "districtCode": "12.24.090",
+    "name": "Tefao",
+    "alias": "Tefao"
+  }
+]

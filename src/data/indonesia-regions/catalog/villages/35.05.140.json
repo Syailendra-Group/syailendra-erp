@@ -1,0 +1,65 @@
+[
+  {
+    "code": "35.05.140.001",
+    "villageCode": "001",
+    "districtCode": "35.05.140",
+    "name": "Klemunan",
+    "alias": "Klemunan"
+  },
+  {
+    "code": "35.05.140.002",
+    "villageCode": "002",
+    "districtCode": "35.05.140",
+    "name": "Wlingi",
+    "alias": "Wlingi"
+  },
+  {
+    "code": "35.05.140.003",
+    "villageCode": "003",
+    "districtCode": "35.05.140",
+    "name": "Tangkil",
+    "alias": "Tangkil"
+  },
+  {
+    "code": "35.05.140.004",
+    "villageCode": "004",
+    "districtCode": "35.05.140",
+    "name": "Beru",
+    "alias": "Beru"
+  },
+  {
+    "code": "35.05.140.005",
+    "villageCode": "005",
+    "districtCode": "35.05.140",
+    "name": "Babadan",
+    "alias": "Babadan"
+  },
+  {
+    "code": "35.05.140.006",
+    "villageCode": "006",
+    "districtCode": "35.05.140",
+    "name": "Tembalang",
+    "alias": "Tembalang"
+  },
+  {
+    "code": "35.05.140.007",
+    "villageCode": "007",
+    "districtCode": "35.05.140",
+    "name": "Ngadirenggo",
+    "alias": "Ngadirenggo"
+  },
+  {
+    "code": "35.05.140.008",
+    "villageCode": "008",
+    "districtCode": "35.05.140",
+    "name": "Tegalasri",
+    "alias": "Tegalasri"
+  },
+  {
+    "code": "35.05.140.009",
+    "villageCode": "009",
+    "districtCode": "35.05.140",
+    "name": "Balerejo",
+    "alias": "Balerejo"
+  }
+]

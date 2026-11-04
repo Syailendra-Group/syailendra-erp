@@ -1,0 +1,184 @@
+[
+  {
+    "code": "11.17.040.001",
+    "villageCode": "001",
+    "districtCode": "11.17.040",
+    "name": "Simpang Teritit",
+    "alias": "Simpang Teritit"
+  },
+  {
+    "code": "11.17.040.003",
+    "villageCode": "003",
+    "districtCode": "11.17.040",
+    "name": "Sukarame Atas",
+    "alias": "Sukarame Atas"
+  },
+  {
+    "code": "11.17.040.004",
+    "villageCode": "004",
+    "districtCode": "11.17.040",
+    "name": "Sukarame Bawah",
+    "alias": "Sukarame Bawah"
+  },
+  {
+    "code": "11.17.040.005",
+    "villageCode": "005",
+    "districtCode": "11.17.040",
+    "name": "Syura Jadi",
+    "alias": "Syura Jadi"
+  },
+  {
+    "code": "11.17.040.006",
+    "villageCode": "006",
+    "districtCode": "11.17.040",
+    "name": "Pante Raya",
+    "alias": "Pante Raya"
+  },
+  {
+    "code": "11.17.040.007",
+    "villageCode": "007",
+    "districtCode": "11.17.040",
+    "name": "Simpang Balek",
+    "alias": "Simpang Balek"
+  },
+  {
+    "code": "11.17.040.008",
+    "villageCode": "008",
+    "districtCode": "11.17.040",
+    "name": "Suka Jadi",
+    "alias": "Suka Jadi"
+  },
+  {
+    "code": "11.17.040.009",
+    "villageCode": "009",
+    "districtCode": "11.17.040",
+    "name": "Bener Ayu",
+    "alias": "Bener Ayu"
+  },
+  {
+    "code": "11.17.040.010",
+    "villageCode": "010",
+    "districtCode": "11.17.040",
+    "name": "Blang Paku",
+    "alias": "Blang Paku"
+  },
+  {
+    "code": "11.17.040.011",
+    "villageCode": "011",
+    "districtCode": "11.17.040",
+    "name": "Suka Makmur",
+    "alias": "Suka Makmur"
+  },
+  {
+    "code": "11.17.040.012",
+    "villageCode": "012",
+    "districtCode": "11.17.040",
+    "name": "Merie I",
+    "alias": "Merie I"
+  },
+  {
+    "code": "11.17.040.013",
+    "villageCode": "013",
+    "districtCode": "11.17.040",
+    "name": "Jamur Uluh",
+    "alias": "Jamur Uluh"
+  },
+  {
+    "code": "11.17.040.014",
+    "villageCode": "014",
+    "districtCode": "11.17.040",
+    "name": "Gegerung",
+    "alias": "Gegerung"
+  },
+  {
+    "code": "11.17.040.015",
+    "villageCode": "015",
+    "districtCode": "11.17.040",
+    "name": "Bukit Pepanyi",
+    "alias": "Bukit Pepanyi"
+  },
+  {
+    "code": "11.17.040.016",
+    "villageCode": "016",
+    "districtCode": "11.17.040",
+    "name": "Jamur Ujung",
+    "alias": "Jamur Ujung"
+  },
+  {
+    "code": "11.17.040.017",
+    "villageCode": "017",
+    "districtCode": "11.17.040",
+    "name": "Wonosobo",
+    "alias": "Wonosobo"
+  },
+  {
+    "code": "11.17.040.018",
+    "villageCode": "018",
+    "districtCode": "11.17.040",
+    "name": "Lut Kucak",
+    "alias": "Lut Kucak"
+  },
+  {
+    "code": "11.17.040.019",
+    "villageCode": "019",
+    "districtCode": "11.17.040",
+    "name": "Wih Pesam",
+    "alias": "Wih Pesam"
+  },
+  {
+    "code": "11.17.040.020",
+    "villageCode": "020",
+    "districtCode": "11.17.040",
+    "name": "Cinta Damai",
+    "alias": "Cinta Damai"
+  },
+  {
+    "code": "11.17.040.021",
+    "villageCode": "021",
+    "districtCode": "11.17.040",
+    "name": "Bener Mulie",
+    "alias": "Bener Mulie"
+  },
+  {
+    "code": "11.17.040.022",
+    "villageCode": "022",
+    "districtCode": "11.17.040",
+    "name": "Kebun Baru",
+    "alias": "Kebun Baru"
+  },
+  {
+    "code": "11.17.040.023",
+    "villageCode": "023",
+    "districtCode": "11.17.040",
+    "name": "Blang Kucak",
+    "alias": "Blang Kucak"
+  },
+  {
+    "code": "11.17.040.024",
+    "villageCode": "024",
+    "districtCode": "11.17.040",
+    "name": "Simpang Antara",
+    "alias": "Simpang Antara"
+  },
+  {
+    "code": "11.17.040.025",
+    "villageCode": "025",
+    "districtCode": "11.17.040",
+    "name": "Blang Benara",
+    "alias": "Blang Benara"
+  },
+  {
+    "code": "11.17.040.026",
+    "villageCode": "026",
+    "districtCode": "11.17.040",
+    "name": "Suka Makmur Timur",
+    "alias": "Suka Makmur Timur"
+  },
+  {
+    "code": "11.17.040.027",
+    "villageCode": "027",
+    "districtCode": "11.17.040",
+    "name": "Burni Telong",
+    "alias": "Burni Telong"
+  }
+]

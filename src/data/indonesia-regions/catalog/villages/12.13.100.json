@@ -1,0 +1,51 @@
+[
+  {
+    "code": "12.13.100.001",
+    "villageCode": "001",
+    "districtCode": "12.13.100",
+    "name": "Sei Litur Tasik",
+    "alias": "Sei Litur Tasik"
+  },
+  {
+    "code": "12.13.100.002",
+    "villageCode": "002",
+    "districtCode": "12.13.100",
+    "name": "Sawit Seberang",
+    "alias": "Sawit Seberang"
+  },
+  {
+    "code": "12.13.100.003",
+    "villageCode": "003",
+    "districtCode": "12.13.100",
+    "name": "Alur Gadung",
+    "alias": "Alur Gadung"
+  },
+  {
+    "code": "12.13.100.004",
+    "villageCode": "004",
+    "districtCode": "12.13.100",
+    "name": "Simpang 3 Sawit Seberang",
+    "alias": "Simpang 3 Sawit Seberang"
+  },
+  {
+    "code": "12.13.100.005",
+    "villageCode": "005",
+    "districtCode": "12.13.100",
+    "name": "Sawit Hulu",
+    "alias": "Sawit Hulu"
+  },
+  {
+    "code": "12.13.100.006",
+    "villageCode": "006",
+    "districtCode": "12.13.100",
+    "name": "Mekar Sawit",
+    "alias": "Mekar Sawit"
+  },
+  {
+    "code": "12.13.100.007",
+    "villageCode": "007",
+    "districtCode": "12.13.100",
+    "name": "Alur Melati",
+    "alias": "Alur Melati"
+  }
+]

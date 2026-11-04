@@ -1,0 +1,37 @@
+[
+  {
+    "code": "76.05.031.001",
+    "villageCode": "001",
+    "districtCode": "76.05.031",
+    "name": "Lariang",
+    "alias": "Lariang"
+  },
+  {
+    "code": "76.05.031.002",
+    "villageCode": "002",
+    "districtCode": "76.05.031",
+    "name": "Jengeng Raya",
+    "alias": "Jengeng Raya"
+  },
+  {
+    "code": "76.05.031.003",
+    "villageCode": "003",
+    "districtCode": "76.05.031",
+    "name": "Tikke",
+    "alias": "Tikke"
+  },
+  {
+    "code": "76.05.031.004",
+    "villageCode": "004",
+    "districtCode": "76.05.031",
+    "name": "Makmur Jaya",
+    "alias": "Makmur Jaya"
+  },
+  {
+    "code": "76.05.031.005",
+    "villageCode": "005",
+    "districtCode": "76.05.031",
+    "name": "Pajalele",
+    "alias": "Pajalele"
+  }
+]

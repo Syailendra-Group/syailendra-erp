@@ -1,0 +1,30 @@
+[
+  {
+    "code": "35.78.280.004",
+    "villageCode": "004",
+    "districtCode": "35.78.280",
+    "name": "Sememi",
+    "alias": "Sememi"
+  },
+  {
+    "code": "35.78.280.006",
+    "villageCode": "006",
+    "districtCode": "35.78.280",
+    "name": "Kandangan",
+    "alias": "Kandangan"
+  },
+  {
+    "code": "35.78.280.007",
+    "villageCode": "007",
+    "districtCode": "35.78.280",
+    "name": "Tambak Oso Wilangon",
+    "alias": "Tambak Oso Wilangon"
+  },
+  {
+    "code": "35.78.280.008",
+    "villageCode": "008",
+    "districtCode": "35.78.280",
+    "name": "Romokalisari",
+    "alias": "Romokalisari"
+  }
+]

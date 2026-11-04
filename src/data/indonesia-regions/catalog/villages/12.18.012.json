@@ -1,0 +1,135 @@
+[
+  {
+    "code": "12.18.012.001",
+    "villageCode": "001",
+    "districtCode": "12.18.012",
+    "name": "Damak Tolong Buho",
+    "alias": "Damak Tolong Buho"
+  },
+  {
+    "code": "12.18.012.002",
+    "villageCode": "002",
+    "districtCode": "12.18.012",
+    "name": "Gudang Garam",
+    "alias": "Gudang Garam"
+  },
+  {
+    "code": "12.18.012.003",
+    "villageCode": "003",
+    "districtCode": "12.18.012",
+    "name": "Dolok Masango",
+    "alias": "Dolok Masango"
+  },
+  {
+    "code": "12.18.012.004",
+    "villageCode": "004",
+    "districtCode": "12.18.012",
+    "name": "Sarang Giting Hulu",
+    "alias": "Sarang Giting Hulu"
+  },
+  {
+    "code": "12.18.012.005",
+    "villageCode": "005",
+    "districtCode": "12.18.012",
+    "name": "Pegajahan Hulu",
+    "alias": "Pegajahan Hulu"
+  },
+  {
+    "code": "12.18.012.006",
+    "villageCode": "006",
+    "districtCode": "12.18.012",
+    "name": "Bintang Bayu",
+    "alias": "Bintang Bayu"
+  },
+  {
+    "code": "12.18.012.007",
+    "villageCode": "007",
+    "districtCode": "12.18.012",
+    "name": "Pegajahan Kahan",
+    "alias": "Pegajahan Kahan"
+  },
+  {
+    "code": "12.18.012.008",
+    "villageCode": "008",
+    "districtCode": "12.18.012",
+    "name": "Siahap",
+    "alias": "Siahap"
+  },
+  {
+    "code": "12.18.012.009",
+    "villageCode": "009",
+    "districtCode": "12.18.012",
+    "name": "Bandar Magodang",
+    "alias": "Bandar Magodang"
+  },
+  {
+    "code": "12.18.012.010",
+    "villageCode": "010",
+    "districtCode": "12.18.012",
+    "name": "Sarang Giting Kahan",
+    "alias": "Sarang Giting Kahan"
+  },
+  {
+    "code": "12.18.012.011",
+    "villageCode": "011",
+    "districtCode": "12.18.012",
+    "name": "Kampung Kristen",
+    "alias": "Kampung Kristen"
+  },
+  {
+    "code": "12.18.012.012",
+    "villageCode": "012",
+    "districtCode": "12.18.012",
+    "name": "Ujung Negeri Hulu",
+    "alias": "Ujung Negeri Hulu"
+  },
+  {
+    "code": "12.18.012.013",
+    "villageCode": "013",
+    "districtCode": "12.18.012",
+    "name": "Ujung Negeri Kahan",
+    "alias": "Ujung Negeri Kahan"
+  },
+  {
+    "code": "12.18.012.014",
+    "villageCode": "014",
+    "districtCode": "12.18.012",
+    "name": "Bandar Negeri",
+    "alias": "Bandar Negeri"
+  },
+  {
+    "code": "12.18.012.015",
+    "villageCode": "015",
+    "districtCode": "12.18.012",
+    "name": "Marihat Dolok",
+    "alias": "Marihat Dolok"
+  },
+  {
+    "code": "12.18.012.016",
+    "villageCode": "016",
+    "districtCode": "12.18.012",
+    "name": "Huta Durian",
+    "alias": "Huta Durian"
+  },
+  {
+    "code": "12.18.012.017",
+    "villageCode": "017",
+    "districtCode": "12.18.012",
+    "name": "Bandar Pinang Kebun",
+    "alias": "Bandar Pinang Kebun"
+  },
+  {
+    "code": "12.18.012.018",
+    "villageCode": "018",
+    "districtCode": "12.18.012",
+    "name": "Bandar Pinang Rambe",
+    "alias": "Bandar Pinang Rambe"
+  },
+  {
+    "code": "12.18.012.019",
+    "villageCode": "019",
+    "districtCode": "12.18.012",
+    "name": "Panombean",
+    "alias": "Panombean"
+  }
+]

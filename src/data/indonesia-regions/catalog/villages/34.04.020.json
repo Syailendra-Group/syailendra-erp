@@ -1,0 +1,37 @@
+[
+  {
+    "code": "34.04.020.001",
+    "villageCode": "001",
+    "districtCode": "34.04.020",
+    "name": "Sendang Mulyo",
+    "alias": "Sendang Mulyo"
+  },
+  {
+    "code": "34.04.020.002",
+    "villageCode": "002",
+    "districtCode": "34.04.020",
+    "name": "Sendang Arum",
+    "alias": "Sendang Arum"
+  },
+  {
+    "code": "34.04.020.003",
+    "villageCode": "003",
+    "districtCode": "34.04.020",
+    "name": "Sendang Rejo",
+    "alias": "Sendang Rejo"
+  },
+  {
+    "code": "34.04.020.004",
+    "villageCode": "004",
+    "districtCode": "34.04.020",
+    "name": "Sendangsari",
+    "alias": "Sendangsari"
+  },
+  {
+    "code": "34.04.020.005",
+    "villageCode": "005",
+    "districtCode": "34.04.020",
+    "name": "Sendangagung",
+    "alias": "Sendangagung"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "code": "35.09.230.001",
+    "villageCode": "001",
+    "districtCode": "35.09.230",
+    "name": "Kertosari",
+    "alias": "Kertosari"
+  },
+  {
+    "code": "35.09.230.002",
+    "villageCode": "002",
+    "districtCode": "35.09.230",
+    "name": "Pakusari",
+    "alias": "Pakusari"
+  },
+  {
+    "code": "35.09.230.003",
+    "villageCode": "003",
+    "districtCode": "35.09.230",
+    "name": "Jatian",
+    "alias": "Jatian"
+  },
+  {
+    "code": "35.09.230.004",
+    "villageCode": "004",
+    "districtCode": "35.09.230",
+    "name": "Subo",
+    "alias": "Subo"
+  },
+  {
+    "code": "35.09.230.005",
+    "villageCode": "005",
+    "districtCode": "35.09.230",
+    "name": "Sumber Pinang",
+    "alias": "Sumber Pinang"
+  },
+  {
+    "code": "35.09.230.006",
+    "villageCode": "006",
+    "districtCode": "35.09.230",
+    "name": "Bedadung",
+    "alias": "Bedadung"
+  },
+  {
+    "code": "35.09.230.007",
+    "villageCode": "007",
+    "districtCode": "35.09.230",
+    "name": "Patemon",
+    "alias": "Patemon"
+  }
+]

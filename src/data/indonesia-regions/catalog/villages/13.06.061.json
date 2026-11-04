@@ -1,0 +1,44 @@
+[
+  {
+    "code": "13.06.061.001",
+    "villageCode": "001",
+    "districtCode": "13.06.061",
+    "name": "Sungai Durian",
+    "alias": "Sungai Durian"
+  },
+  {
+    "code": "13.06.061.002",
+    "villageCode": "002",
+    "districtCode": "13.06.061",
+    "name": "Tandikek",
+    "alias": "Tandikek"
+  },
+  {
+    "code": "13.06.061.003",
+    "villageCode": "003",
+    "districtCode": "13.06.061",
+    "name": "Tandikek Utara",
+    "alias": "Tandikek Utara"
+  },
+  {
+    "code": "13.06.061.004",
+    "villageCode": "004",
+    "districtCode": "13.06.061",
+    "name": "Kampuang Tanjuang Koto Mambang Sungai Durian",
+    "alias": "Kampuang Tanjuang Koto Mambang Sungai Durian"
+  },
+  {
+    "code": "13.06.061.005",
+    "villageCode": "005",
+    "districtCode": "13.06.061",
+    "name": "Tandikek Selatan",
+    "alias": "Tandikek Selatan"
+  },
+  {
+    "code": "13.06.061.006",
+    "villageCode": "006",
+    "districtCode": "13.06.061",
+    "name": "Tandikek Barat",
+    "alias": "Tandikek Barat"
+  }
+]

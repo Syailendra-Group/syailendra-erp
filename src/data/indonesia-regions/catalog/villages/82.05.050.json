@@ -1,0 +1,51 @@
+[
+  {
+    "code": "82.05.050.005",
+    "villageCode": "005",
+    "districtCode": "82.05.050",
+    "name": "Mamuya",
+    "alias": "Mamuya"
+  },
+  {
+    "code": "82.05.050.006",
+    "villageCode": "006",
+    "districtCode": "82.05.050",
+    "name": "Pune",
+    "alias": "Pune"
+  },
+  {
+    "code": "82.05.050.007",
+    "villageCode": "007",
+    "districtCode": "82.05.050",
+    "name": "Soa Sio",
+    "alias": "Soa Sio"
+  },
+  {
+    "code": "82.05.050.008",
+    "villageCode": "008",
+    "districtCode": "82.05.050",
+    "name": "Toweka",
+    "alias": "Toweka"
+  },
+  {
+    "code": "82.05.050.009",
+    "villageCode": "009",
+    "districtCode": "82.05.050",
+    "name": "Barataku",
+    "alias": "Barataku"
+  },
+  {
+    "code": "82.05.050.010",
+    "villageCode": "010",
+    "districtCode": "82.05.050",
+    "name": "Towara",
+    "alias": "Towara"
+  },
+  {
+    "code": "82.05.050.011",
+    "villageCode": "011",
+    "districtCode": "82.05.050",
+    "name": "Simau",
+    "alias": "Simau"
+  }
+]

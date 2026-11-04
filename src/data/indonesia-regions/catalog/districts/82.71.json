@@ -1,0 +1,66 @@
+[
+  {
+    "code": "82.71.010",
+    "districtCode": "010",
+    "regencyCode": "82.71",
+    "provinceCode": "82",
+    "name": "Kecamatan Pulau Ternate",
+    "alias": "Pulau Ternate"
+  },
+  {
+    "code": "82.71.011",
+    "districtCode": "011",
+    "regencyCode": "82.71",
+    "provinceCode": "82",
+    "name": "Kecamatan Moti",
+    "alias": "Moti"
+  },
+  {
+    "code": "82.71.012",
+    "districtCode": "012",
+    "regencyCode": "82.71",
+    "provinceCode": "82",
+    "name": "Kecamatan Pulau Batang Dua",
+    "alias": "Pulau Batang Dua"
+  },
+  {
+    "code": "82.71.013",
+    "districtCode": "013",
+    "regencyCode": "82.71",
+    "provinceCode": "82",
+    "name": "Kecamatan Pulau Hiri",
+    "alias": "Pulau Hiri"
+  },
+  {
+    "code": "82.71.014",
+    "districtCode": "014",
+    "regencyCode": "82.71",
+    "provinceCode": "82",
+    "name": "Kecamatan Ternate Barat",
+    "alias": "Ternate Barat"
+  },
+  {
+    "code": "82.71.020",
+    "districtCode": "020",
+    "regencyCode": "82.71",
+    "provinceCode": "82",
+    "name": "Kecamatan Ternate Selatan",
+    "alias": "Ternate Selatan"
+  },
+  {
+    "code": "82.71.021",
+    "districtCode": "021",
+    "regencyCode": "82.71",
+    "provinceCode": "82",
+    "name": "Kecamatan Ternate Tengah",
+    "alias": "Ternate Tengah"
+  },
+  {
+    "code": "82.71.030",
+    "districtCode": "030",
+    "regencyCode": "82.71",
+    "provinceCode": "82",
+    "name": "Kecamatan Ternate Utara",
+    "alias": "Ternate Utara"
+  }
+]

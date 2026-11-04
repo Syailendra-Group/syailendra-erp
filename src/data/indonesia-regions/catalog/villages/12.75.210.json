@@ -1,0 +1,44 @@
+[
+  {
+    "code": "12.75.210.001",
+    "villageCode": "001",
+    "districtCode": "12.75.210",
+    "name": "Belawan Pulau Sicanang",
+    "alias": "Belawan Pulau Sicanang"
+  },
+  {
+    "code": "12.75.210.002",
+    "villageCode": "002",
+    "districtCode": "12.75.210",
+    "name": "Belawan Bahagia",
+    "alias": "Belawan Bahagia"
+  },
+  {
+    "code": "12.75.210.003",
+    "villageCode": "003",
+    "districtCode": "12.75.210",
+    "name": "Belawan Bahari",
+    "alias": "Belawan Bahari"
+  },
+  {
+    "code": "12.75.210.004",
+    "villageCode": "004",
+    "districtCode": "12.75.210",
+    "name": "Belawan Ii",
+    "alias": "Belawan Ii"
+  },
+  {
+    "code": "12.75.210.005",
+    "villageCode": "005",
+    "districtCode": "12.75.210",
+    "name": "Bagan Deli",
+    "alias": "Bagan Deli"
+  },
+  {
+    "code": "12.75.210.006",
+    "villageCode": "006",
+    "districtCode": "12.75.210",
+    "name": "Belawan I",
+    "alias": "Belawan I"
+  }
+]

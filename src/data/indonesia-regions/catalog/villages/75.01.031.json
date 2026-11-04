@@ -1,0 +1,65 @@
+[
+  {
+    "code": "75.01.031.001",
+    "villageCode": "001",
+    "districtCode": "75.01.031",
+    "name": "Mananggu",
+    "alias": "Mananggu"
+  },
+  {
+    "code": "75.01.031.002",
+    "villageCode": "002",
+    "districtCode": "75.01.031",
+    "name": "Tabulo",
+    "alias": "Tabulo"
+  },
+  {
+    "code": "75.01.031.003",
+    "villageCode": "003",
+    "districtCode": "75.01.031",
+    "name": "Bendungan",
+    "alias": "Bendungan"
+  },
+  {
+    "code": "75.01.031.004",
+    "villageCode": "004",
+    "districtCode": "75.01.031",
+    "name": "Kaaruyan",
+    "alias": "Kaaruyan"
+  },
+  {
+    "code": "75.01.031.005",
+    "villageCode": "005",
+    "districtCode": "75.01.031",
+    "name": "Salilama",
+    "alias": "Salilama"
+  },
+  {
+    "code": "75.01.031.006",
+    "villageCode": "006",
+    "districtCode": "75.01.031",
+    "name": "Buti",
+    "alias": "Buti"
+  },
+  {
+    "code": "75.01.031.007",
+    "villageCode": "007",
+    "districtCode": "75.01.031",
+    "name": "Pontolo",
+    "alias": "Pontolo"
+  },
+  {
+    "code": "75.01.031.008",
+    "villageCode": "008",
+    "districtCode": "75.01.031",
+    "name": "Kramat",
+    "alias": "Kramat"
+  },
+  {
+    "code": "75.01.031.009",
+    "villageCode": "009",
+    "districtCode": "75.01.031",
+    "name": "Tabulo Selatan",
+    "alias": "Tabulo Selatan"
+  }
+]

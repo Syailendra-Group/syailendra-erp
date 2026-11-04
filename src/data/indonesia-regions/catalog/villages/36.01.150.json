@@ -1,0 +1,107 @@
+[
+  {
+    "code": "36.01.150.001",
+    "villageCode": "001",
+    "districtCode": "36.01.150",
+    "name": "Pandat",
+    "alias": "Pandat"
+  },
+  {
+    "code": "36.01.150.002",
+    "villageCode": "002",
+    "districtCode": "36.01.150",
+    "name": "Cikoneng",
+    "alias": "Cikoneng"
+  },
+  {
+    "code": "36.01.150.003",
+    "villageCode": "003",
+    "districtCode": "36.01.150",
+    "name": "Giripawana",
+    "alias": "Giripawana"
+  },
+  {
+    "code": "36.01.150.004",
+    "villageCode": "004",
+    "districtCode": "36.01.150",
+    "name": "Nembol",
+    "alias": "Nembol"
+  },
+  {
+    "code": "36.01.150.005",
+    "villageCode": "005",
+    "districtCode": "36.01.150",
+    "name": "Gunungsari",
+    "alias": "Gunungsari"
+  },
+  {
+    "code": "36.01.150.006",
+    "villageCode": "006",
+    "districtCode": "36.01.150",
+    "name": "Kurungkambing",
+    "alias": "Kurungkambing"
+  },
+  {
+    "code": "36.01.150.007",
+    "villageCode": "007",
+    "districtCode": "36.01.150",
+    "name": "Mandalasari",
+    "alias": "Mandalasari"
+  },
+  {
+    "code": "36.01.150.008",
+    "villageCode": "008",
+    "districtCode": "36.01.150",
+    "name": "Mandalawangi",
+    "alias": "Mandalawangi"
+  },
+  {
+    "code": "36.01.150.009",
+    "villageCode": "009",
+    "districtCode": "36.01.150",
+    "name": "Pari",
+    "alias": "Pari"
+  },
+  {
+    "code": "36.01.150.010",
+    "villageCode": "010",
+    "districtCode": "36.01.150",
+    "name": "Sinarjaya",
+    "alias": "Sinarjaya"
+  },
+  {
+    "code": "36.01.150.011",
+    "villageCode": "011",
+    "districtCode": "36.01.150",
+    "name": "Sirnagalih",
+    "alias": "Sirnagalih"
+  },
+  {
+    "code": "36.01.150.012",
+    "villageCode": "012",
+    "districtCode": "36.01.150",
+    "name": "Curuglemo",
+    "alias": "Curuglemo"
+  },
+  {
+    "code": "36.01.150.013",
+    "villageCode": "013",
+    "districtCode": "36.01.150",
+    "name": "Panjangjaya",
+    "alias": "Panjangjaya"
+  },
+  {
+    "code": "36.01.150.014",
+    "villageCode": "014",
+    "districtCode": "36.01.150",
+    "name": "Cikumbueun",
+    "alias": "Cikumbueun"
+  },
+  {
+    "code": "36.01.150.015",
+    "villageCode": "015",
+    "districtCode": "36.01.150",
+    "name": "Ramea",
+    "alias": "Ramea"
+  }
+]

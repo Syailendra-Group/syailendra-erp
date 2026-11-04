@@ -1,0 +1,58 @@
+[
+  {
+    "code": "31.74.060.001",
+    "villageCode": "001",
+    "districtCode": "31.74.060",
+    "name": "Krukut",
+    "alias": "Krukut"
+  },
+  {
+    "code": "31.74.060.002",
+    "villageCode": "002",
+    "districtCode": "31.74.060",
+    "name": "Maphar",
+    "alias": "Maphar"
+  },
+  {
+    "code": "31.74.060.003",
+    "villageCode": "003",
+    "districtCode": "31.74.060",
+    "name": "Taman Sari",
+    "alias": "Taman Sari"
+  },
+  {
+    "code": "31.74.060.004",
+    "villageCode": "004",
+    "districtCode": "31.74.060",
+    "name": "Tangki",
+    "alias": "Tangki"
+  },
+  {
+    "code": "31.74.060.005",
+    "villageCode": "005",
+    "districtCode": "31.74.060",
+    "name": "Mangga Besar",
+    "alias": "Mangga Besar"
+  },
+  {
+    "code": "31.74.060.006",
+    "villageCode": "006",
+    "districtCode": "31.74.060",
+    "name": "Keagungan",
+    "alias": "Keagungan"
+  },
+  {
+    "code": "31.74.060.007",
+    "villageCode": "007",
+    "districtCode": "31.74.060",
+    "name": "Glodok",
+    "alias": "Glodok"
+  },
+  {
+    "code": "31.74.060.008",
+    "villageCode": "008",
+    "districtCode": "31.74.060",
+    "name": "Pinangsia",
+    "alias": "Pinangsia"
+  }
+]

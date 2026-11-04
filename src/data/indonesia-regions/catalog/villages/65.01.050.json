@@ -1,0 +1,65 @@
+[
+  {
+    "code": "65.01.050.001",
+    "villageCode": "001",
+    "districtCode": "65.01.050",
+    "name": "Long Belaka Pitau",
+    "alias": "Long Belaka Pitau"
+  },
+  {
+    "code": "65.01.050.002",
+    "villageCode": "002",
+    "districtCode": "65.01.050",
+    "name": "Long Jelet",
+    "alias": "Long Jelet"
+  },
+  {
+    "code": "65.01.050.003",
+    "villageCode": "003",
+    "districtCode": "65.01.050",
+    "name": "Long Pua",
+    "alias": "Long Pua"
+  },
+  {
+    "code": "65.01.050.004",
+    "villageCode": "004",
+    "districtCode": "65.01.050",
+    "name": "Long Ketaman",
+    "alias": "Long Ketaman"
+  },
+  {
+    "code": "65.01.050.005",
+    "villageCode": "005",
+    "districtCode": "65.01.050",
+    "name": "Long Aran",
+    "alias": "Long Aran"
+  },
+  {
+    "code": "65.01.050.006",
+    "villageCode": "006",
+    "districtCode": "65.01.050",
+    "name": "Long Lame",
+    "alias": "Long Lame"
+  },
+  {
+    "code": "65.01.050.007",
+    "villageCode": "007",
+    "districtCode": "65.01.050",
+    "name": "Long Pujungan",
+    "alias": "Long Pujungan"
+  },
+  {
+    "code": "65.01.050.008",
+    "villageCode": "008",
+    "districtCode": "65.01.050",
+    "name": "Long Paliran",
+    "alias": "Long Paliran"
+  },
+  {
+    "code": "65.01.050.009",
+    "villageCode": "009",
+    "districtCode": "65.01.050",
+    "name": "Long Bena",
+    "alias": "Long Bena"
+  }
+]

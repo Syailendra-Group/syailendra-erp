@@ -1,0 +1,72 @@
+[
+  {
+    "code": "35.05.110.001",
+    "villageCode": "001",
+    "districtCode": "35.05.110",
+    "name": "Siraman",
+    "alias": "Siraman"
+  },
+  {
+    "code": "35.05.110.002",
+    "villageCode": "002",
+    "districtCode": "35.05.110",
+    "name": "Jugo",
+    "alias": "Jugo"
+  },
+  {
+    "code": "35.05.110.003",
+    "villageCode": "003",
+    "districtCode": "35.05.110",
+    "name": "Kesamben",
+    "alias": "Kesamben"
+  },
+  {
+    "code": "35.05.110.004",
+    "villageCode": "004",
+    "districtCode": "35.05.110",
+    "name": "Pagergunung",
+    "alias": "Pagergunung"
+  },
+  {
+    "code": "35.05.110.005",
+    "villageCode": "005",
+    "districtCode": "35.05.110",
+    "name": "Sukoanyar",
+    "alias": "Sukoanyar"
+  },
+  {
+    "code": "35.05.110.006",
+    "villageCode": "006",
+    "districtCode": "35.05.110",
+    "name": "Pagerwojo",
+    "alias": "Pagerwojo"
+  },
+  {
+    "code": "35.05.110.007",
+    "villageCode": "007",
+    "districtCode": "35.05.110",
+    "name": "Tapakrejo",
+    "alias": "Tapakrejo"
+  },
+  {
+    "code": "35.05.110.008",
+    "villageCode": "008",
+    "districtCode": "35.05.110",
+    "name": "Tepas",
+    "alias": "Tepas"
+  },
+  {
+    "code": "35.05.110.009",
+    "villageCode": "009",
+    "districtCode": "35.05.110",
+    "name": "Kemirigede",
+    "alias": "Kemirigede"
+  },
+  {
+    "code": "35.05.110.010",
+    "villageCode": "010",
+    "districtCode": "35.05.110",
+    "name": "Bumirejo",
+    "alias": "Bumirejo"
+  }
+]

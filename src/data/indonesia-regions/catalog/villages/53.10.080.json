@@ -1,0 +1,51 @@
+[
+  {
+    "code": "53.10.080.005",
+    "villageCode": "005",
+    "districtCode": "53.10.080",
+    "name": "Kota Uneng",
+    "alias": "Kota Uneng"
+  },
+  {
+    "code": "53.10.080.006",
+    "villageCode": "006",
+    "districtCode": "53.10.080",
+    "name": "Nangalimang",
+    "alias": "Nangalimang"
+  },
+  {
+    "code": "53.10.080.007",
+    "villageCode": "007",
+    "districtCode": "53.10.080",
+    "name": "Madawat",
+    "alias": "Madawat"
+  },
+  {
+    "code": "53.10.080.008",
+    "villageCode": "008",
+    "districtCode": "53.10.080",
+    "name": "Kabor",
+    "alias": "Kabor"
+  },
+  {
+    "code": "53.10.080.009",
+    "villageCode": "009",
+    "districtCode": "53.10.080",
+    "name": "Pemana",
+    "alias": "Pemana"
+  },
+  {
+    "code": "53.10.080.010",
+    "villageCode": "010",
+    "districtCode": "53.10.080",
+    "name": "Gunung Sari",
+    "alias": "Gunung Sari"
+  },
+  {
+    "code": "53.10.080.011",
+    "villageCode": "011",
+    "districtCode": "53.10.080",
+    "name": "Samparong",
+    "alias": "Samparong"
+  }
+]

@@ -2,9 +2,11 @@ import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
 
 import {
   checkParentProvinceAction,
+  checkRegencyExistsAction,
   getRegenciesAction,
   getRegenciesPaginatedAction,
   getRegencyByIdAction,
+  getRegencyFilterOptionsAction,
   saveRegencyAction,
   toggleRegencyStatusAction
 } from '@/actions/others/regency.action'
@@ -19,7 +21,9 @@ export const regencyKeys = {
   byState: (stateId?: number) => [...regencyKeys.lists(), { stateId }] as const,
   paginated: (params: FetchRegenciesParams) => [...regencyKeys.all, 'paginated', params] as const,
   detail: (id: number) => [...regencyKeys.all, 'detail', id] as const,
-  checkParent: (name: string, code?: string) => ['parent-check', 'province', name, code] as const
+  checkParent: (name: string, code?: string) => ['parent-check', 'province', name, code] as const,
+  checkExists: (params: { code?: string; name?: string }) => ['regency-exists', params] as const,
+  filterOptions: () => [...regencyKeys.all, 'filter-options'] as const
 }
 
 export function useRegenciesQuery(stateId?: number) {
@@ -62,6 +66,27 @@ export function useCheckParentProvinceQuery(name: string, code?: string, enabled
     },
     enabled: Boolean(name) && enabled,
     staleTime: 10 * 1000
+  })
+}
+
+export function useCheckRegencyExistsQuery(params: { code?: string; name?: string }, enabled = true) {
+  return useQuery({
+    queryKey: regencyKeys.checkExists(params),
+    queryFn: async () => {
+      return await checkRegencyExistsAction(params)
+    },
+    enabled: enabled && Boolean(params.code || params.name),
+    staleTime: 10 * 1000
+  })
+}
+
+export function useRegencyFilterOptionsQuery() {
+  return useQuery({
+    queryKey: regencyKeys.filterOptions(),
+    queryFn: async () => {
+      return await getRegencyFilterOptionsAction()
+    },
+    staleTime: 60 * 1000
   })
 }
 

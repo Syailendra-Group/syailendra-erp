@@ -1,0 +1,65 @@
+[
+  {
+    "code": "74.08.051.001",
+    "villageCode": "001",
+    "districtCode": "74.08.051",
+    "name": "Teposua",
+    "alias": "Teposua"
+  },
+  {
+    "code": "74.08.051.002",
+    "villageCode": "002",
+    "districtCode": "74.08.051",
+    "name": "Pakue",
+    "alias": "Pakue"
+  },
+  {
+    "code": "74.08.051.003",
+    "villageCode": "003",
+    "districtCode": "74.08.051",
+    "name": "Mataleuno",
+    "alias": "Mataleuno"
+  },
+  {
+    "code": "74.08.051.004",
+    "villageCode": "004",
+    "districtCode": "74.08.051",
+    "name": "Puundoho",
+    "alias": "Puundoho"
+  },
+  {
+    "code": "74.08.051.005",
+    "villageCode": "005",
+    "districtCode": "74.08.051",
+    "name": "Lawata",
+    "alias": "Lawata"
+  },
+  {
+    "code": "74.08.051.006",
+    "villageCode": "006",
+    "districtCode": "74.08.051",
+    "name": "Amowe",
+    "alias": "Amowe"
+  },
+  {
+    "code": "74.08.051.007",
+    "villageCode": "007",
+    "districtCode": "74.08.051",
+    "name": "Kalo",
+    "alias": "Kalo"
+  },
+  {
+    "code": "74.08.051.008",
+    "villageCode": "008",
+    "districtCode": "74.08.051",
+    "name": "Salu Dongka",
+    "alias": "Salu Dongka"
+  },
+  {
+    "code": "74.08.051.009",
+    "villageCode": "009",
+    "districtCode": "74.08.051",
+    "name": "Lengkong Batu",
+    "alias": "Lengkong Batu"
+  }
+]

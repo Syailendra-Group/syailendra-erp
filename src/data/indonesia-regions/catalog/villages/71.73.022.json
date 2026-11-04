@@ -1,0 +1,58 @@
+[
+  {
+    "code": "71.73.022.001",
+    "villageCode": "001",
+    "districtCode": "71.73.022",
+    "name": "Woloan Satu",
+    "alias": "Woloan Satu"
+  },
+  {
+    "code": "71.73.022.002",
+    "villageCode": "002",
+    "districtCode": "71.73.022",
+    "name": "Woloan Dua",
+    "alias": "Woloan Dua"
+  },
+  {
+    "code": "71.73.022.003",
+    "villageCode": "003",
+    "districtCode": "71.73.022",
+    "name": "Woloan Tiga",
+    "alias": "Woloan Tiga"
+  },
+  {
+    "code": "71.73.022.004",
+    "villageCode": "004",
+    "districtCode": "71.73.022",
+    "name": "Taratara Satu",
+    "alias": "Taratara Satu"
+  },
+  {
+    "code": "71.73.022.005",
+    "villageCode": "005",
+    "districtCode": "71.73.022",
+    "name": "Taratara Dua",
+    "alias": "Taratara Dua"
+  },
+  {
+    "code": "71.73.022.006",
+    "villageCode": "006",
+    "districtCode": "71.73.022",
+    "name": "Woloan Satu Utara",
+    "alias": "Woloan Satu Utara"
+  },
+  {
+    "code": "71.73.022.007",
+    "villageCode": "007",
+    "districtCode": "71.73.022",
+    "name": "Taratara",
+    "alias": "Taratara"
+  },
+  {
+    "code": "71.73.022.008",
+    "villageCode": "008",
+    "districtCode": "71.73.022",
+    "name": "Taratara Tiga",
+    "alias": "Taratara Tiga"
+  }
+]

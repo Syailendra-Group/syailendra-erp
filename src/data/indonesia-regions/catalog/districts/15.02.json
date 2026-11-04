@@ -1,0 +1,194 @@
+[
+  {
+    "code": "15.02.010",
+    "districtCode": "010",
+    "regencyCode": "15.02",
+    "provinceCode": "15",
+    "name": "Kecamatan Jangkat",
+    "alias": "Jangkat"
+  },
+  {
+    "code": "15.02.011",
+    "districtCode": "011",
+    "regencyCode": "15.02",
+    "provinceCode": "15",
+    "name": "Kecamatan Jangkat Timur",
+    "alias": "Jangkat Timur"
+  },
+  {
+    "code": "15.02.020",
+    "districtCode": "020",
+    "regencyCode": "15.02",
+    "provinceCode": "15",
+    "name": "Kecamatan Muara Siau",
+    "alias": "Muara Siau"
+  },
+  {
+    "code": "15.02.021",
+    "districtCode": "021",
+    "regencyCode": "15.02",
+    "provinceCode": "15",
+    "name": "Kecamatan Lembah Masurai",
+    "alias": "Lembah Masurai"
+  },
+  {
+    "code": "15.02.022",
+    "districtCode": "022",
+    "regencyCode": "15.02",
+    "provinceCode": "15",
+    "name": "Kecamatan Tiang Pumpung",
+    "alias": "Tiang Pumpung"
+  },
+  {
+    "code": "15.02.030",
+    "districtCode": "030",
+    "regencyCode": "15.02",
+    "provinceCode": "15",
+    "name": "Kecamatan Pamenang",
+    "alias": "Pamenang"
+  },
+  {
+    "code": "15.02.031",
+    "districtCode": "031",
+    "regencyCode": "15.02",
+    "provinceCode": "15",
+    "name": "Kecamatan Pamenang Barat",
+    "alias": "Pamenang Barat"
+  },
+  {
+    "code": "15.02.032",
+    "districtCode": "032",
+    "regencyCode": "15.02",
+    "provinceCode": "15",
+    "name": "Kecamatan Renah Pamenang",
+    "alias": "Renah Pamenang"
+  },
+  {
+    "code": "15.02.033",
+    "districtCode": "033",
+    "regencyCode": "15.02",
+    "provinceCode": "15",
+    "name": "Kecamatan Pamenang Selatan",
+    "alias": "Pamenang Selatan"
+  },
+  {
+    "code": "15.02.040",
+    "districtCode": "040",
+    "regencyCode": "15.02",
+    "provinceCode": "15",
+    "name": "Kecamatan Bangko",
+    "alias": "Bangko"
+  },
+  {
+    "code": "15.02.041",
+    "districtCode": "041",
+    "regencyCode": "15.02",
+    "provinceCode": "15",
+    "name": "Kecamatan Bangko Barat",
+    "alias": "Bangko Barat"
+  },
+  {
+    "code": "15.02.042",
+    "districtCode": "042",
+    "regencyCode": "15.02",
+    "provinceCode": "15",
+    "name": "Kecamatan Nalo Tantan",
+    "alias": "Nalo Tantan"
+  },
+  {
+    "code": "15.02.043",
+    "districtCode": "043",
+    "regencyCode": "15.02",
+    "provinceCode": "15",
+    "name": "Kecamatan Batang Masumai",
+    "alias": "Batang Masumai"
+  },
+  {
+    "code": "15.02.050",
+    "districtCode": "050",
+    "regencyCode": "15.02",
+    "provinceCode": "15",
+    "name": "Kecamatan Sungai Manau",
+    "alias": "Sungai Manau"
+  },
+  {
+    "code": "15.02.051",
+    "districtCode": "051",
+    "regencyCode": "15.02",
+    "provinceCode": "15",
+    "name": "Kecamatan Renah Pembarap",
+    "alias": "Renah Pembarap"
+  },
+  {
+    "code": "15.02.052",
+    "districtCode": "052",
+    "regencyCode": "15.02",
+    "provinceCode": "15",
+    "name": "Kecamatan Pangkalan Jambu",
+    "alias": "Pangkalan Jambu"
+  },
+  {
+    "code": "15.02.060",
+    "districtCode": "060",
+    "regencyCode": "15.02",
+    "provinceCode": "15",
+    "name": "Kecamatan Tabir",
+    "alias": "Tabir"
+  },
+  {
+    "code": "15.02.061",
+    "districtCode": "061",
+    "regencyCode": "15.02",
+    "provinceCode": "15",
+    "name": "Kecamatan Tabir Ulu",
+    "alias": "Tabir Ulu"
+  },
+  {
+    "code": "15.02.062",
+    "districtCode": "062",
+    "regencyCode": "15.02",
+    "provinceCode": "15",
+    "name": "Kecamatan Tabir Selatan",
+    "alias": "Tabir Selatan"
+  },
+  {
+    "code": "15.02.063",
+    "districtCode": "063",
+    "regencyCode": "15.02",
+    "provinceCode": "15",
+    "name": "Kecamatan Tabir Ilir",
+    "alias": "Tabir Ilir"
+  },
+  {
+    "code": "15.02.064",
+    "districtCode": "064",
+    "regencyCode": "15.02",
+    "provinceCode": "15",
+    "name": "Kecamatan Tabir Timur",
+    "alias": "Tabir Timur"
+  },
+  {
+    "code": "15.02.065",
+    "districtCode": "065",
+    "regencyCode": "15.02",
+    "provinceCode": "15",
+    "name": "Kecamatan Tabir Lintas",
+    "alias": "Tabir Lintas"
+  },
+  {
+    "code": "15.02.066",
+    "districtCode": "066",
+    "regencyCode": "15.02",
+    "provinceCode": "15",
+    "name": "Kecamatan Margo Tabir",
+    "alias": "Margo Tabir"
+  },
+  {
+    "code": "15.02.067",
+    "districtCode": "067",
+    "regencyCode": "15.02",
+    "provinceCode": "15",
+    "name": "Kecamatan Tabir Barat",
+    "alias": "Tabir Barat"
+  }
+]

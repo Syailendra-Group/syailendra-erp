@@ -1,0 +1,93 @@
+[
+  {
+    "code": "32.11.060.001",
+    "villageCode": "001",
+    "districtCode": "32.11.060",
+    "name": "Sirnamulya",
+    "alias": "Sirnamulya"
+  },
+  {
+    "code": "32.11.060.002",
+    "villageCode": "002",
+    "districtCode": "32.11.060",
+    "name": "Girimukti",
+    "alias": "Girimukti"
+  },
+  {
+    "code": "32.11.060.003",
+    "villageCode": "003",
+    "districtCode": "32.11.060",
+    "name": "Mulyasari",
+    "alias": "Mulyasari"
+  },
+  {
+    "code": "32.11.060.004",
+    "villageCode": "004",
+    "districtCode": "32.11.060",
+    "name": "Padasuka",
+    "alias": "Padasuka"
+  },
+  {
+    "code": "32.11.060.005",
+    "villageCode": "005",
+    "districtCode": "32.11.060",
+    "name": "Margamukti",
+    "alias": "Margamukti"
+  },
+  {
+    "code": "32.11.060.006",
+    "villageCode": "006",
+    "districtCode": "32.11.060",
+    "name": "Mekarjaya",
+    "alias": "Mekarjaya"
+  },
+  {
+    "code": "32.11.060.007",
+    "villageCode": "007",
+    "districtCode": "32.11.060",
+    "name": "Jatimulya",
+    "alias": "Jatimulya"
+  },
+  {
+    "code": "32.11.060.008",
+    "villageCode": "008",
+    "districtCode": "32.11.060",
+    "name": "Jatihurip",
+    "alias": "Jatihurip"
+  },
+  {
+    "code": "32.11.060.009",
+    "villageCode": "009",
+    "districtCode": "32.11.060",
+    "name": "Kebonjati",
+    "alias": "Kebonjati"
+  },
+  {
+    "code": "32.11.060.010",
+    "villageCode": "010",
+    "districtCode": "32.11.060",
+    "name": "Situ",
+    "alias": "Situ"
+  },
+  {
+    "code": "32.11.060.011",
+    "villageCode": "011",
+    "districtCode": "32.11.060",
+    "name": "Kotakaler",
+    "alias": "Kotakaler"
+  },
+  {
+    "code": "32.11.060.012",
+    "villageCode": "012",
+    "districtCode": "32.11.060",
+    "name": "Talun",
+    "alias": "Talun"
+  },
+  {
+    "code": "32.11.060.013",
+    "villageCode": "013",
+    "districtCode": "32.11.060",
+    "name": "Rancamulya",
+    "alias": "Rancamulya"
+  }
+]

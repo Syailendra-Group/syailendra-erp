@@ -1,0 +1,37 @@
+[
+  {
+    "code": "62.04.010.005",
+    "villageCode": "005",
+    "districtCode": "62.04.010",
+    "name": "Tampulang",
+    "alias": "Tampulang"
+  },
+  {
+    "code": "62.04.010.006",
+    "villageCode": "006",
+    "districtCode": "62.04.010",
+    "name": "Rantau Bahuang",
+    "alias": "Rantau Bahuang"
+  },
+  {
+    "code": "62.04.010.007",
+    "villageCode": "007",
+    "districtCode": "62.04.010",
+    "name": "Rantau Kujang",
+    "alias": "Rantau Kujang"
+  },
+  {
+    "code": "62.04.010.008",
+    "villageCode": "008",
+    "districtCode": "62.04.010",
+    "name": "Rangga Ilung",
+    "alias": "Rangga Ilung"
+  },
+  {
+    "code": "62.04.010.009",
+    "villageCode": "009",
+    "districtCode": "62.04.010",
+    "name": "Tabatan",
+    "alias": "Tabatan"
+  }
+]

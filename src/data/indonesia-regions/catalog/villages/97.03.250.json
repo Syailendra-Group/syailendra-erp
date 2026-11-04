@@ -1,0 +1,58 @@
+[
+  {
+    "code": "97.03.250.001",
+    "villageCode": "001",
+    "districtCode": "97.03.250",
+    "name": "Tunikele",
+    "alias": "Tunikele"
+  },
+  {
+    "code": "97.03.250.002",
+    "villageCode": "002",
+    "districtCode": "97.03.250",
+    "name": "Peko",
+    "alias": "Peko"
+  },
+  {
+    "code": "97.03.250.003",
+    "villageCode": "003",
+    "districtCode": "97.03.250",
+    "name": "Wupaga",
+    "alias": "Wupaga"
+  },
+  {
+    "code": "97.03.250.004",
+    "villageCode": "004",
+    "districtCode": "97.03.250",
+    "name": "Kuyawage",
+    "alias": "Kuyawage"
+  },
+  {
+    "code": "97.03.250.005",
+    "villageCode": "005",
+    "districtCode": "97.03.250",
+    "name": "Tumbupur",
+    "alias": "Tumbupur"
+  },
+  {
+    "code": "97.03.250.006",
+    "villageCode": "006",
+    "districtCode": "97.03.250",
+    "name": "Luaren",
+    "alias": "Luaren"
+  },
+  {
+    "code": "97.03.250.007",
+    "villageCode": "007",
+    "districtCode": "97.03.250",
+    "name": "Uwome",
+    "alias": "Uwome"
+  },
+  {
+    "code": "97.03.250.008",
+    "villageCode": "008",
+    "districtCode": "97.03.250",
+    "name": "Yugunomba",
+    "alias": "Yugunomba"
+  }
+]

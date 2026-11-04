@@ -1,0 +1,65 @@
+[
+  {
+    "code": "51.06.020.001",
+    "villageCode": "001",
+    "districtCode": "51.06.020",
+    "name": "Bunutin",
+    "alias": "Bunutin"
+  },
+  {
+    "code": "51.06.020.002",
+    "villageCode": "002",
+    "districtCode": "51.06.020",
+    "name": "Taman Bali",
+    "alias": "Taman Bali"
+  },
+  {
+    "code": "51.06.020.003",
+    "villageCode": "003",
+    "districtCode": "51.06.020",
+    "name": "Bebalang",
+    "alias": "Bebalang"
+  },
+  {
+    "code": "51.06.020.004",
+    "villageCode": "004",
+    "districtCode": "51.06.020",
+    "name": "Kawan",
+    "alias": "Kawan"
+  },
+  {
+    "code": "51.06.020.005",
+    "villageCode": "005",
+    "districtCode": "51.06.020",
+    "name": "Cempaga",
+    "alias": "Cempaga"
+  },
+  {
+    "code": "51.06.020.006",
+    "villageCode": "006",
+    "districtCode": "51.06.020",
+    "name": "Kubu",
+    "alias": "Kubu"
+  },
+  {
+    "code": "51.06.020.007",
+    "villageCode": "007",
+    "districtCode": "51.06.020",
+    "name": "Kayubihi",
+    "alias": "Kayubihi"
+  },
+  {
+    "code": "51.06.020.008",
+    "villageCode": "008",
+    "districtCode": "51.06.020",
+    "name": "Pengotan",
+    "alias": "Pengotan"
+  },
+  {
+    "code": "51.06.020.009",
+    "villageCode": "009",
+    "districtCode": "51.06.020",
+    "name": "Landih",
+    "alias": "Landih"
+  }
+]

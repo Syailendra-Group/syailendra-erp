@@ -1,0 +1,65 @@
+[
+  {
+    "code": "35.18.020.001",
+    "villageCode": "001",
+    "districtCode": "35.18.020",
+    "name": "Klodan",
+    "alias": "Klodan"
+  },
+  {
+    "code": "35.18.020.002",
+    "villageCode": "002",
+    "districtCode": "35.18.020",
+    "name": "Blongko",
+    "alias": "Blongko"
+  },
+  {
+    "code": "35.18.020.003",
+    "villageCode": "003",
+    "districtCode": "35.18.020",
+    "name": "Kepel",
+    "alias": "Kepel"
+  },
+  {
+    "code": "35.18.020.004",
+    "villageCode": "004",
+    "districtCode": "35.18.020",
+    "name": "Kweden",
+    "alias": "Kweden"
+  },
+  {
+    "code": "35.18.020.005",
+    "villageCode": "005",
+    "districtCode": "35.18.020",
+    "name": "Ngetos",
+    "alias": "Ngetos"
+  },
+  {
+    "code": "35.18.020.006",
+    "villageCode": "006",
+    "districtCode": "35.18.020",
+    "name": "Suru",
+    "alias": "Suru"
+  },
+  {
+    "code": "35.18.020.007",
+    "villageCode": "007",
+    "districtCode": "35.18.020",
+    "name": "Oro-Oro Ombo",
+    "alias": "Oro-Oro Ombo"
+  },
+  {
+    "code": "35.18.020.008",
+    "villageCode": "008",
+    "districtCode": "35.18.020",
+    "name": "Mojoduwur",
+    "alias": "Mojoduwur"
+  },
+  {
+    "code": "35.18.020.009",
+    "villageCode": "009",
+    "districtCode": "35.18.020",
+    "name": "Kuncir",
+    "alias": "Kuncir"
+  }
+]

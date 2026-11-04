@@ -1,0 +1,72 @@
+[
+  {
+    "code": "71.05.010.001",
+    "villageCode": "001",
+    "districtCode": "71.05.010",
+    "name": "Sinisir",
+    "alias": "Sinisir"
+  },
+  {
+    "code": "71.05.010.002",
+    "villageCode": "002",
+    "districtCode": "71.05.010",
+    "name": "Kakenturan",
+    "alias": "Kakenturan"
+  },
+  {
+    "code": "71.05.010.003",
+    "villageCode": "003",
+    "districtCode": "71.05.010",
+    "name": "Linelean",
+    "alias": "Linelean"
+  },
+  {
+    "code": "71.05.010.004",
+    "villageCode": "004",
+    "districtCode": "71.05.010",
+    "name": "Pinasungkulan",
+    "alias": "Pinasungkulan"
+  },
+  {
+    "code": "71.05.010.005",
+    "villageCode": "005",
+    "districtCode": "71.05.010",
+    "name": "Makaaruyen",
+    "alias": "Makaaruyen"
+  },
+  {
+    "code": "71.05.010.006",
+    "villageCode": "006",
+    "districtCode": "71.05.010",
+    "name": "Palelon",
+    "alias": "Palelon"
+  },
+  {
+    "code": "71.05.010.007",
+    "villageCode": "007",
+    "districtCode": "71.05.010",
+    "name": "Wulurmaatus",
+    "alias": "Wulurmaatus"
+  },
+  {
+    "code": "71.05.010.008",
+    "villageCode": "008",
+    "districtCode": "71.05.010",
+    "name": "Mokobang",
+    "alias": "Mokobang"
+  },
+  {
+    "code": "71.05.010.009",
+    "villageCode": "009",
+    "districtCode": "71.05.010",
+    "name": "Kakenturan Barat",
+    "alias": "Kakenturan Barat"
+  },
+  {
+    "code": "71.05.010.010",
+    "villageCode": "010",
+    "districtCode": "71.05.010",
+    "name": "Pinasungkulan Utara",
+    "alias": "Pinasungkulan Utara"
+  }
+]

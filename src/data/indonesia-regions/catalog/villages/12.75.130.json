@@ -1,0 +1,51 @@
+[
+  {
+    "code": "12.75.130.001",
+    "villageCode": "001",
+    "districtCode": "12.75.130",
+    "name": "Sei Sikambing D",
+    "alias": "Sei Sikambing D"
+  },
+  {
+    "code": "12.75.130.002",
+    "villageCode": "002",
+    "districtCode": "12.75.130",
+    "name": "Petisah Tengah",
+    "alias": "Petisah Tengah"
+  },
+  {
+    "code": "12.75.130.003",
+    "villageCode": "003",
+    "districtCode": "12.75.130",
+    "name": "S E K I P",
+    "alias": "S E K I P"
+  },
+  {
+    "code": "12.75.130.004",
+    "villageCode": "004",
+    "districtCode": "12.75.130",
+    "name": "Sei Putih Timur Ii",
+    "alias": "Sei Putih Timur Ii"
+  },
+  {
+    "code": "12.75.130.005",
+    "villageCode": "005",
+    "districtCode": "12.75.130",
+    "name": "Sei Putih Timur I",
+    "alias": "Sei Putih Timur I"
+  },
+  {
+    "code": "12.75.130.006",
+    "villageCode": "006",
+    "districtCode": "12.75.130",
+    "name": "Sei Putih Tengah",
+    "alias": "Sei Putih Tengah"
+  },
+  {
+    "code": "12.75.130.007",
+    "villageCode": "007",
+    "districtCode": "12.75.130",
+    "name": "Sei Putih Barat",
+    "alias": "Sei Putih Barat"
+  }
+]

@@ -1,0 +1,121 @@
+[
+  {
+    "code": "33.07.010.001",
+    "villageCode": "001",
+    "districtCode": "33.07.010",
+    "name": "Kaligowong",
+    "alias": "Kaligowong"
+  },
+  {
+    "code": "33.07.010.002",
+    "villageCode": "002",
+    "districtCode": "33.07.010",
+    "name": "Sumbersari",
+    "alias": "Sumbersari"
+  },
+  {
+    "code": "33.07.010.003",
+    "villageCode": "003",
+    "districtCode": "33.07.010",
+    "name": "Sumberejo",
+    "alias": "Sumberejo"
+  },
+  {
+    "code": "33.07.010.004",
+    "villageCode": "004",
+    "districtCode": "33.07.010",
+    "name": "Erorejo",
+    "alias": "Erorejo"
+  },
+  {
+    "code": "33.07.010.005",
+    "villageCode": "005",
+    "districtCode": "33.07.010",
+    "name": "Karang Anyar",
+    "alias": "Karang Anyar"
+  },
+  {
+    "code": "33.07.010.006",
+    "villageCode": "006",
+    "districtCode": "33.07.010",
+    "name": "Panerusan",
+    "alias": "Panerusan"
+  },
+  {
+    "code": "33.07.010.007",
+    "villageCode": "007",
+    "districtCode": "33.07.010",
+    "name": "Wadaslintang",
+    "alias": "Wadaslintang"
+  },
+  {
+    "code": "33.07.010.008",
+    "villageCode": "008",
+    "districtCode": "33.07.010",
+    "name": "Plunjaran",
+    "alias": "Plunjaran"
+  },
+  {
+    "code": "33.07.010.009",
+    "villageCode": "009",
+    "districtCode": "33.07.010",
+    "name": "Kumejing",
+    "alias": "Kumejing"
+  },
+  {
+    "code": "33.07.010.010",
+    "villageCode": "010",
+    "districtCode": "33.07.010",
+    "name": "Lancar",
+    "alias": "Lancar"
+  },
+  {
+    "code": "33.07.010.011",
+    "villageCode": "011",
+    "districtCode": "33.07.010",
+    "name": "Somogede",
+    "alias": "Somogede"
+  },
+  {
+    "code": "33.07.010.012",
+    "villageCode": "012",
+    "districtCode": "33.07.010",
+    "name": "Trimulyo",
+    "alias": "Trimulyo"
+  },
+  {
+    "code": "33.07.010.013",
+    "villageCode": "013",
+    "districtCode": "33.07.010",
+    "name": "Tirip",
+    "alias": "Tirip"
+  },
+  {
+    "code": "33.07.010.014",
+    "villageCode": "014",
+    "districtCode": "33.07.010",
+    "name": "Besuki",
+    "alias": "Besuki"
+  },
+  {
+    "code": "33.07.010.015",
+    "villageCode": "015",
+    "districtCode": "33.07.010",
+    "name": "Gumelar",
+    "alias": "Gumelar"
+  },
+  {
+    "code": "33.07.010.016",
+    "villageCode": "016",
+    "districtCode": "33.07.010",
+    "name": "Ngalian",
+    "alias": "Ngalian"
+  },
+  {
+    "code": "33.07.010.017",
+    "villageCode": "017",
+    "districtCode": "33.07.010",
+    "name": "Kalidadap",
+    "alias": "Kalidadap"
+  }
+]

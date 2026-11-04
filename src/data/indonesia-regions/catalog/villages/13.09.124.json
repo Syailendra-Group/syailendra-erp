@@ -1,0 +1,44 @@
+[
+  {
+    "code": "13.09.124.001",
+    "villageCode": "001",
+    "districtCode": "13.09.124",
+    "name": "Lansek Kadok",
+    "alias": "Lansek Kadok"
+  },
+  {
+    "code": "13.09.124.002",
+    "villageCode": "002",
+    "districtCode": "13.09.124",
+    "name": "Tanjung Betung",
+    "alias": "Tanjung Betung"
+  },
+  {
+    "code": "13.09.124.003",
+    "villageCode": "003",
+    "districtCode": "13.09.124",
+    "name": "Lubuak Layang",
+    "alias": "Lubuak Layang"
+  },
+  {
+    "code": "13.09.124.004",
+    "villageCode": "004",
+    "districtCode": "13.09.124",
+    "name": "Nagari Lansek Kadok Barat",
+    "alias": "Nagari Lansek Kadok Barat"
+  },
+  {
+    "code": "13.09.124.005",
+    "villageCode": "005",
+    "districtCode": "13.09.124",
+    "name": "Nagari Tanjung Betung Timur",
+    "alias": "Nagari Tanjung Betung Timur"
+  },
+  {
+    "code": "13.09.124.006",
+    "villageCode": "006",
+    "districtCode": "13.09.124",
+    "name": "Nagari Tanjung Betung Utara",
+    "alias": "Nagari Tanjung Betung Utara"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "code": "74.15.060.005",
+    "villageCode": "005",
+    "districtCode": "74.15.060",
+    "name": "Biwinapada",
+    "alias": "Biwinapada"
+  },
+  {
+    "code": "74.15.060.006",
+    "villageCode": "006",
+    "districtCode": "74.15.060",
+    "name": "Kaimbulawa",
+    "alias": "Kaimbulawa"
+  },
+  {
+    "code": "74.15.060.007",
+    "villageCode": "007",
+    "districtCode": "74.15.060",
+    "name": "Wakinamboro",
+    "alias": "Wakinamboro"
+  },
+  {
+    "code": "74.15.060.008",
+    "villageCode": "008",
+    "districtCode": "74.15.060",
+    "name": "Tongali",
+    "alias": "Tongali"
+  },
+  {
+    "code": "74.15.060.009",
+    "villageCode": "009",
+    "districtCode": "74.15.060",
+    "name": "Lontoi",
+    "alias": "Lontoi"
+  },
+  {
+    "code": "74.15.060.010",
+    "villageCode": "010",
+    "districtCode": "74.15.060",
+    "name": "Karae",
+    "alias": "Karae"
+  },
+  {
+    "code": "74.15.060.011",
+    "villageCode": "011",
+    "districtCode": "74.15.060",
+    "name": "Batuawu",
+    "alias": "Batuawu"
+  },
+  {
+    "code": "74.15.060.012",
+    "villageCode": "012",
+    "districtCode": "74.15.060",
+    "name": "Nggulanggula",
+    "alias": "Nggulanggula"
+  },
+  {
+    "code": "74.15.060.013",
+    "villageCode": "013",
+    "districtCode": "74.15.060",
+    "name": "Waindawula",
+    "alias": "Waindawula"
+  },
+  {
+    "code": "74.15.060.014",
+    "villageCode": "014",
+    "districtCode": "74.15.060",
+    "name": "Lapara",
+    "alias": "Lapara"
+  }
+]

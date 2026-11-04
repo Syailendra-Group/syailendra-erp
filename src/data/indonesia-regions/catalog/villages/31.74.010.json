@@ -1,0 +1,44 @@
+[
+  {
+    "code": "31.74.010.001",
+    "villageCode": "001",
+    "districtCode": "31.74.010",
+    "name": "Joglo",
+    "alias": "Joglo"
+  },
+  {
+    "code": "31.74.010.002",
+    "villageCode": "002",
+    "districtCode": "31.74.010",
+    "name": "Srengseng",
+    "alias": "Srengseng"
+  },
+  {
+    "code": "31.74.010.003",
+    "villageCode": "003",
+    "districtCode": "31.74.010",
+    "name": "Meruya Selatan",
+    "alias": "Meruya Selatan"
+  },
+  {
+    "code": "31.74.010.004",
+    "villageCode": "004",
+    "districtCode": "31.74.010",
+    "name": "Meruya Utara",
+    "alias": "Meruya Utara"
+  },
+  {
+    "code": "31.74.010.005",
+    "villageCode": "005",
+    "districtCode": "31.74.010",
+    "name": "Kembangan Selatan",
+    "alias": "Kembangan Selatan"
+  },
+  {
+    "code": "31.74.010.006",
+    "villageCode": "006",
+    "districtCode": "31.74.010",
+    "name": "Kembangan Utara",
+    "alias": "Kembangan Utara"
+  }
+]

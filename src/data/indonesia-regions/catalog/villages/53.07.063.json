@@ -1,0 +1,44 @@
+[
+  {
+    "code": "53.07.063.001",
+    "villageCode": "001",
+    "districtCode": "53.07.063",
+    "name": "Talwai",
+    "alias": "Talwai"
+  },
+  {
+    "code": "53.07.063.002",
+    "villageCode": "002",
+    "districtCode": "53.07.063",
+    "name": "Waimi",
+    "alias": "Waimi"
+  },
+  {
+    "code": "53.07.063.003",
+    "villageCode": "003",
+    "districtCode": "53.07.063",
+    "name": "T A S I",
+    "alias": "T A S I"
+  },
+  {
+    "code": "53.07.063.004",
+    "villageCode": "004",
+    "districtCode": "53.07.063",
+    "name": "Tulleng",
+    "alias": "Tulleng"
+  },
+  {
+    "code": "53.07.063.005",
+    "villageCode": "005",
+    "districtCode": "53.07.063",
+    "name": "Lembur Timur",
+    "alias": "Lembur Timur"
+  },
+  {
+    "code": "53.07.063.006",
+    "villageCode": "006",
+    "districtCode": "53.07.063",
+    "name": "Luba",
+    "alias": "Luba"
+  }
+]

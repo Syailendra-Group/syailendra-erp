@@ -1,0 +1,65 @@
+[
+  {
+    "code": "32.17.020.001",
+    "villageCode": "001",
+    "districtCode": "32.17.020",
+    "name": "Cilangari",
+    "alias": "Cilangari"
+  },
+  {
+    "code": "32.17.020.002",
+    "villageCode": "002",
+    "districtCode": "32.17.020",
+    "name": "Sindangjaya",
+    "alias": "Sindangjaya"
+  },
+  {
+    "code": "32.17.020.003",
+    "villageCode": "003",
+    "districtCode": "32.17.020",
+    "name": "Bunijaya",
+    "alias": "Bunijaya"
+  },
+  {
+    "code": "32.17.020.004",
+    "villageCode": "004",
+    "districtCode": "32.17.020",
+    "name": "Sirnajaya",
+    "alias": "Sirnajaya"
+  },
+  {
+    "code": "32.17.020.005",
+    "villageCode": "005",
+    "districtCode": "32.17.020",
+    "name": "Gununghalu",
+    "alias": "Gununghalu"
+  },
+  {
+    "code": "32.17.020.006",
+    "villageCode": "006",
+    "districtCode": "32.17.020",
+    "name": "Celak",
+    "alias": "Celak"
+  },
+  {
+    "code": "32.17.020.007",
+    "villageCode": "007",
+    "districtCode": "32.17.020",
+    "name": "Wargasaluyu",
+    "alias": "Wargasaluyu"
+  },
+  {
+    "code": "32.17.020.008",
+    "villageCode": "008",
+    "districtCode": "32.17.020",
+    "name": "Sukasari",
+    "alias": "Sukasari"
+  },
+  {
+    "code": "32.17.020.009",
+    "villageCode": "009",
+    "districtCode": "32.17.020",
+    "name": "Tamanjaya",
+    "alias": "Tamanjaya"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "code": "13.72.020.001",
+    "villageCode": "001",
+    "districtCode": "13.72.020",
+    "name": "Koto Panjang",
+    "alias": "Koto Panjang"
+  },
+  {
+    "code": "13.72.020.002",
+    "villageCode": "002",
+    "districtCode": "13.72.020",
+    "name": "Pasar Pandan Air Mati",
+    "alias": "Pasar Pandan Air Mati"
+  },
+  {
+    "code": "13.72.020.003",
+    "villageCode": "003",
+    "districtCode": "13.72.020",
+    "name": "Tanjung Paku",
+    "alias": "Tanjung Paku"
+  },
+  {
+    "code": "13.72.020.004",
+    "villageCode": "004",
+    "districtCode": "13.72.020",
+    "name": "Nan Balimo",
+    "alias": "Nan Balimo"
+  },
+  {
+    "code": "13.72.020.005",
+    "villageCode": "005",
+    "districtCode": "13.72.020",
+    "name": "Kampung Jawa",
+    "alias": "Kampung Jawa"
+  },
+  {
+    "code": "13.72.020.006",
+    "villageCode": "006",
+    "districtCode": "13.72.020",
+    "name": "Laing",
+    "alias": "Laing"
+  }
+]

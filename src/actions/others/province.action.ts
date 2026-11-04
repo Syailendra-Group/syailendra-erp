@@ -2,7 +2,14 @@
 
 import { revalidatePath } from 'next/cache'
 
-import { fetchProvinceById, fetchProvinces, fetchProvincesPaginated, persistProvince } from '@/services/odoo/others/province.service'
+import {
+  checkProvinceExistsInOdoo,
+  fetchProvinceById,
+  fetchProvinceFilterOptions,
+  fetchProvinces,
+  fetchProvincesPaginated,
+  persistProvince
+} from '@/services/odoo/others/province.service'
 
 import type { ProvinceFormValues } from '@/schemas/others/province-schema'
 import type { FetchProvincesParams, PaginatedProvincesResult } from '@/services/odoo/others/province.service'
@@ -39,6 +46,24 @@ export async function getProvinceByIdAction(id: number): Promise<ProvinceRecord 
   } catch (error) {
     console.error(`Failed to fetch province with ID ${id}:`, error)
     return null
+  }
+}
+
+export async function checkProvinceExistsAction(params: { code?: string; name?: string }): Promise<{ exists: boolean; id?: number; name?: string }> {
+  try {
+    return await checkProvinceExistsInOdoo(params)
+  } catch (error) {
+    console.error('Failed to check province exists:', error)
+    return { exists: false }
+  }
+}
+
+export async function getProvinceFilterOptionsAction(): Promise<{ countries: { id: number; name: string }[] }> {
+  try {
+    return await fetchProvinceFilterOptions()
+  } catch (error) {
+    console.error('Failed to fetch province filter options:', error)
+    return { countries: [] }
   }
 }
 

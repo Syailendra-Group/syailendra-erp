@@ -1,0 +1,72 @@
+[
+  {
+    "code": "35.04.010.001",
+    "villageCode": "001",
+    "districtCode": "35.04.010",
+    "name": "Sedayugunung",
+    "alias": "Sedayugunung"
+  },
+  {
+    "code": "35.04.010.002",
+    "villageCode": "002",
+    "districtCode": "35.04.010",
+    "name": "Keboireng",
+    "alias": "Keboireng"
+  },
+  {
+    "code": "35.04.010.003",
+    "villageCode": "003",
+    "districtCode": "35.04.010",
+    "name": "Besuki",
+    "alias": "Besuki"
+  },
+  {
+    "code": "35.04.010.004",
+    "villageCode": "004",
+    "districtCode": "35.04.010",
+    "name": "Besole",
+    "alias": "Besole"
+  },
+  {
+    "code": "35.04.010.005",
+    "villageCode": "005",
+    "districtCode": "35.04.010",
+    "name": "Tanggulwelahan",
+    "alias": "Tanggulwelahan"
+  },
+  {
+    "code": "35.04.010.006",
+    "villageCode": "006",
+    "districtCode": "35.04.010",
+    "name": "Tanggulturus",
+    "alias": "Tanggulturus"
+  },
+  {
+    "code": "35.04.010.007",
+    "villageCode": "007",
+    "districtCode": "35.04.010",
+    "name": "Tanggulkundung",
+    "alias": "Tanggulkundung"
+  },
+  {
+    "code": "35.04.010.008",
+    "villageCode": "008",
+    "districtCode": "35.04.010",
+    "name": "Wateskroyo",
+    "alias": "Wateskroyo"
+  },
+  {
+    "code": "35.04.010.009",
+    "villageCode": "009",
+    "districtCode": "35.04.010",
+    "name": "Siyotobagus",
+    "alias": "Siyotobagus"
+  },
+  {
+    "code": "35.04.010.010",
+    "villageCode": "010",
+    "districtCode": "35.04.010",
+    "name": "Tulungrejo",
+    "alias": "Tulungrejo"
+  }
+]

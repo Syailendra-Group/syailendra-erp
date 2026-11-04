@@ -1,0 +1,50 @@
+[
+  {
+    "code": "19.04.010",
+    "districtCode": "010",
+    "regencyCode": "19.04",
+    "provinceCode": "19",
+    "name": "Kecamatan Koba",
+    "alias": "Koba"
+  },
+  {
+    "code": "19.04.011",
+    "districtCode": "011",
+    "regencyCode": "19.04",
+    "provinceCode": "19",
+    "name": "Kecamatan Lubuk Besar",
+    "alias": "Lubuk Besar"
+  },
+  {
+    "code": "19.04.020",
+    "districtCode": "020",
+    "regencyCode": "19.04",
+    "provinceCode": "19",
+    "name": "Kecamatan Pangkalan Baru",
+    "alias": "Pangkalan Baru"
+  },
+  {
+    "code": "19.04.021",
+    "districtCode": "021",
+    "regencyCode": "19.04",
+    "provinceCode": "19",
+    "name": "Kecamatan Namang",
+    "alias": "Namang"
+  },
+  {
+    "code": "19.04.030",
+    "districtCode": "030",
+    "regencyCode": "19.04",
+    "provinceCode": "19",
+    "name": "Kecamatan Sungai Selan",
+    "alias": "Sungai Selan"
+  },
+  {
+    "code": "19.04.040",
+    "districtCode": "040",
+    "regencyCode": "19.04",
+    "provinceCode": "19",
+    "name": "Kecamatan Simpang Katis",
+    "alias": "Simpang Katis"
+  }
+]

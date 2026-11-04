@@ -1,0 +1,44 @@
+[
+  {
+    "code": "21.01.032.001",
+    "villageCode": "001",
+    "districtCode": "21.01.032",
+    "name": "Meral Kota",
+    "alias": "Meral Kota"
+  },
+  {
+    "code": "21.01.032.002",
+    "villageCode": "002",
+    "districtCode": "21.01.032",
+    "name": "Baran Barat",
+    "alias": "Baran Barat"
+  },
+  {
+    "code": "21.01.032.003",
+    "villageCode": "003",
+    "districtCode": "21.01.032",
+    "name": "Sungai Raya",
+    "alias": "Sungai Raya"
+  },
+  {
+    "code": "21.01.032.006",
+    "villageCode": "006",
+    "districtCode": "21.01.032",
+    "name": "Sungai Pasir",
+    "alias": "Sungai Pasir"
+  },
+  {
+    "code": "21.01.032.007",
+    "villageCode": "007",
+    "districtCode": "21.01.032",
+    "name": "Baran Timur",
+    "alias": "Baran Timur"
+  },
+  {
+    "code": "21.01.032.008",
+    "villageCode": "008",
+    "districtCode": "21.01.032",
+    "name": "Parit Benut",
+    "alias": "Parit Benut"
+  }
+]

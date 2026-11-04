@@ -1,0 +1,42 @@
+[
+  {
+    "code": "34.01",
+    "regencyCode": "01",
+    "provinceCode": "34",
+    "provinceName": "DI Yogyakarta",
+    "name": "Kabupaten Kulon Progo",
+    "alias": "Kulon Progo"
+  },
+  {
+    "code": "34.02",
+    "regencyCode": "02",
+    "provinceCode": "34",
+    "provinceName": "DI Yogyakarta",
+    "name": "Kabupaten Bantul",
+    "alias": "Bantul"
+  },
+  {
+    "code": "34.03",
+    "regencyCode": "03",
+    "provinceCode": "34",
+    "provinceName": "DI Yogyakarta",
+    "name": "Kabupaten Gunungkidul",
+    "alias": "Gunungkidul"
+  },
+  {
+    "code": "34.04",
+    "regencyCode": "04",
+    "provinceCode": "34",
+    "provinceName": "DI Yogyakarta",
+    "name": "Kabupaten Sleman",
+    "alias": "Sleman"
+  },
+  {
+    "code": "34.71",
+    "regencyCode": "71",
+    "provinceCode": "34",
+    "provinceName": "DI Yogyakarta",
+    "name": "Kota Yogyakarta",
+    "alias": "Yogyakarta"
+  }
+]

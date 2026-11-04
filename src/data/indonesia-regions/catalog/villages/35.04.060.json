@@ -1,0 +1,121 @@
+[
+  {
+    "code": "35.04.060.001",
+    "villageCode": "001",
+    "districtCode": "35.04.060",
+    "name": "Kalibatur",
+    "alias": "Kalibatur"
+  },
+  {
+    "code": "35.04.060.002",
+    "villageCode": "002",
+    "districtCode": "35.04.060",
+    "name": "Rejosari",
+    "alias": "Rejosari"
+  },
+  {
+    "code": "35.04.060.003",
+    "villageCode": "003",
+    "districtCode": "35.04.060",
+    "name": "Sukorejo Kulon",
+    "alias": "Sukorejo Kulon"
+  },
+  {
+    "code": "35.04.060.004",
+    "villageCode": "004",
+    "districtCode": "35.04.060",
+    "name": "Banyuurip",
+    "alias": "Banyuurip"
+  },
+  {
+    "code": "35.04.060.005",
+    "villageCode": "005",
+    "districtCode": "35.04.060",
+    "name": "Winong",
+    "alias": "Winong"
+  },
+  {
+    "code": "35.04.060.006",
+    "villageCode": "006",
+    "districtCode": "35.04.060",
+    "name": "Joho",
+    "alias": "Joho"
+  },
+  {
+    "code": "35.04.060.007",
+    "villageCode": "007",
+    "districtCode": "35.04.060",
+    "name": "Pakisaji",
+    "alias": "Pakisaji"
+  },
+  {
+    "code": "35.04.060.008",
+    "villageCode": "008",
+    "districtCode": "35.04.060",
+    "name": "Karangtalun",
+    "alias": "Karangtalun"
+  },
+  {
+    "code": "35.04.060.009",
+    "villageCode": "009",
+    "districtCode": "35.04.060",
+    "name": "Kalidawir",
+    "alias": "Kalidawir"
+  },
+  {
+    "code": "35.04.060.010",
+    "villageCode": "010",
+    "districtCode": "35.04.060",
+    "name": "Ngubalan",
+    "alias": "Ngubalan"
+  },
+  {
+    "code": "35.04.060.011",
+    "villageCode": "011",
+    "districtCode": "35.04.060",
+    "name": "Salak Kembang",
+    "alias": "Salak Kembang"
+  },
+  {
+    "code": "35.04.060.012",
+    "villageCode": "012",
+    "districtCode": "35.04.060",
+    "name": "Tunggangri",
+    "alias": "Tunggangri"
+  },
+  {
+    "code": "35.04.060.013",
+    "villageCode": "013",
+    "districtCode": "35.04.060",
+    "name": "Jabon",
+    "alias": "Jabon"
+  },
+  {
+    "code": "35.04.060.014",
+    "villageCode": "014",
+    "districtCode": "35.04.060",
+    "name": "Pagersari",
+    "alias": "Pagersari"
+  },
+  {
+    "code": "35.04.060.015",
+    "villageCode": "015",
+    "districtCode": "35.04.060",
+    "name": "Betak",
+    "alias": "Betak"
+  },
+  {
+    "code": "35.04.060.016",
+    "villageCode": "016",
+    "districtCode": "35.04.060",
+    "name": "Tanjung",
+    "alias": "Tanjung"
+  },
+  {
+    "code": "35.04.060.017",
+    "villageCode": "017",
+    "districtCode": "35.04.060",
+    "name": "Domasan",
+    "alias": "Domasan"
+  }
+]

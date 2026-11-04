@@ -1,0 +1,37 @@
+[
+  {
+    "code": "33.01.730.001",
+    "villageCode": "001",
+    "districtCode": "33.01.730",
+    "name": "Kebonmanis",
+    "alias": "Kebonmanis"
+  },
+  {
+    "code": "33.01.730.002",
+    "villageCode": "002",
+    "districtCode": "33.01.730",
+    "name": "Gumilir",
+    "alias": "Gumilir"
+  },
+  {
+    "code": "33.01.730.003",
+    "villageCode": "003",
+    "districtCode": "33.01.730",
+    "name": "Mertasinga",
+    "alias": "Mertasinga"
+  },
+  {
+    "code": "33.01.730.004",
+    "villageCode": "004",
+    "districtCode": "33.01.730",
+    "name": "Tritih Kulon",
+    "alias": "Tritih Kulon"
+  },
+  {
+    "code": "33.01.730.005",
+    "villageCode": "005",
+    "districtCode": "33.01.730",
+    "name": "Karangtalun",
+    "alias": "Karangtalun"
+  }
+]

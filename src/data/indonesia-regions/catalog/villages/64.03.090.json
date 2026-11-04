@@ -1,0 +1,100 @@
+[
+  {
+    "code": "64.03.090.001",
+    "villageCode": "001",
+    "districtCode": "64.03.090",
+    "name": "Jahab",
+    "alias": "Jahab"
+  },
+  {
+    "code": "64.03.090.002",
+    "villageCode": "002",
+    "districtCode": "64.03.090",
+    "name": "Bukit Biru",
+    "alias": "Bukit Biru"
+  },
+  {
+    "code": "64.03.090.003",
+    "villageCode": "003",
+    "districtCode": "64.03.090",
+    "name": "Timbau",
+    "alias": "Timbau"
+  },
+  {
+    "code": "64.03.090.004",
+    "villageCode": "004",
+    "districtCode": "64.03.090",
+    "name": "Melayu",
+    "alias": "Melayu"
+  },
+  {
+    "code": "64.03.090.005",
+    "villageCode": "005",
+    "districtCode": "64.03.090",
+    "name": "Loa Ipuh",
+    "alias": "Loa Ipuh"
+  },
+  {
+    "code": "64.03.090.006",
+    "villageCode": "006",
+    "districtCode": "64.03.090",
+    "name": "Maluhu",
+    "alias": "Maluhu"
+  },
+  {
+    "code": "64.03.090.007",
+    "villageCode": "007",
+    "districtCode": "64.03.090",
+    "name": "Panji",
+    "alias": "Panji"
+  },
+  {
+    "code": "64.03.090.008",
+    "villageCode": "008",
+    "districtCode": "64.03.090",
+    "name": "Sukarame",
+    "alias": "Sukarame"
+  },
+  {
+    "code": "64.03.090.009",
+    "villageCode": "009",
+    "districtCode": "64.03.090",
+    "name": "Baru",
+    "alias": "Baru"
+  },
+  {
+    "code": "64.03.090.010",
+    "villageCode": "010",
+    "districtCode": "64.03.090",
+    "name": "Mangkurawang",
+    "alias": "Mangkurawang"
+  },
+  {
+    "code": "64.03.090.011",
+    "villageCode": "011",
+    "districtCode": "64.03.090",
+    "name": "Loa Tebu",
+    "alias": "Loa Tebu"
+  },
+  {
+    "code": "64.03.090.012",
+    "villageCode": "012",
+    "districtCode": "64.03.090",
+    "name": "Rapak Lambur",
+    "alias": "Rapak Lambur"
+  },
+  {
+    "code": "64.03.090.013",
+    "villageCode": "013",
+    "districtCode": "64.03.090",
+    "name": "Loa Ipuh Darat",
+    "alias": "Loa Ipuh Darat"
+  },
+  {
+    "code": "64.03.090.014",
+    "villageCode": "014",
+    "districtCode": "64.03.090",
+    "name": "Bendang Raya",
+    "alias": "Bendang Raya"
+  }
+]

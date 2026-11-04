@@ -1,0 +1,65 @@
+[
+  {
+    "code": "13.04.070.001",
+    "villageCode": "001",
+    "districtCode": "13.04.070",
+    "name": "Muaro",
+    "alias": "Muaro"
+  },
+  {
+    "code": "13.04.070.002",
+    "villageCode": "002",
+    "districtCode": "13.04.070",
+    "name": "Kandang Baru",
+    "alias": "Kandang Baru"
+  },
+  {
+    "code": "13.04.070.003",
+    "villageCode": "003",
+    "districtCode": "13.04.070",
+    "name": "Pematang Panjang",
+    "alias": "Pematang Panjang"
+  },
+  {
+    "code": "13.04.070.004",
+    "villageCode": "004",
+    "districtCode": "13.04.070",
+    "name": "Sijunjung",
+    "alias": "Sijunjung"
+  },
+  {
+    "code": "13.04.070.005",
+    "villageCode": "005",
+    "districtCode": "13.04.070",
+    "name": "Aia Angek",
+    "alias": "Aia Angek"
+  },
+  {
+    "code": "13.04.070.006",
+    "villageCode": "006",
+    "districtCode": "13.04.070",
+    "name": "Solok Ambah",
+    "alias": "Solok Ambah"
+  },
+  {
+    "code": "13.04.070.007",
+    "villageCode": "007",
+    "districtCode": "13.04.070",
+    "name": "Paruh",
+    "alias": "Paruh"
+  },
+  {
+    "code": "13.04.070.008",
+    "villageCode": "008",
+    "districtCode": "13.04.070",
+    "name": "Muaro Silokek",
+    "alias": "Muaro Silokek"
+  },
+  {
+    "code": "13.04.070.009",
+    "villageCode": "009",
+    "districtCode": "13.04.070",
+    "name": "Durian Gadang",
+    "alias": "Durian Gadang"
+  }
+]

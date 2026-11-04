@@ -1,0 +1,37 @@
+[
+  {
+    "code": "18.71.040.002",
+    "villageCode": "002",
+    "districtCode": "18.71.040",
+    "name": "Kota Baru",
+    "alias": "Kota Baru"
+  },
+  {
+    "code": "18.71.040.003",
+    "villageCode": "003",
+    "districtCode": "18.71.040",
+    "name": "Tanjung Agung",
+    "alias": "Tanjung Agung"
+  },
+  {
+    "code": "18.71.040.004",
+    "villageCode": "004",
+    "districtCode": "18.71.040",
+    "name": "Kebon Jeruk",
+    "alias": "Kebon Jeruk"
+  },
+  {
+    "code": "18.71.040.005",
+    "villageCode": "005",
+    "districtCode": "18.71.040",
+    "name": "Sawah Lama",
+    "alias": "Sawah Lama"
+  },
+  {
+    "code": "18.71.040.006",
+    "villageCode": "006",
+    "districtCode": "18.71.040",
+    "name": "Sawah Brebes",
+    "alias": "Sawah Brebes"
+  }
+]

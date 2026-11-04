@@ -1,0 +1,37 @@
+[
+  {
+    "code": "32.03.111.001",
+    "villageCode": "001",
+    "districtCode": "32.03.111",
+    "name": "Campakawarna",
+    "alias": "Campakawarna"
+  },
+  {
+    "code": "32.03.111.002",
+    "villageCode": "002",
+    "districtCode": "32.03.111",
+    "name": "Campakamulya",
+    "alias": "Campakamulya"
+  },
+  {
+    "code": "32.03.111.003",
+    "villageCode": "003",
+    "districtCode": "32.03.111",
+    "name": "Sukabungah",
+    "alias": "Sukabungah"
+  },
+  {
+    "code": "32.03.111.004",
+    "villageCode": "004",
+    "districtCode": "32.03.111",
+    "name": "Cibanggala",
+    "alias": "Cibanggala"
+  },
+  {
+    "code": "32.03.111.005",
+    "villageCode": "005",
+    "districtCode": "32.03.111",
+    "name": "Sukasirna",
+    "alias": "Sukasirna"
+  }
+]

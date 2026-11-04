@@ -1,0 +1,93 @@
+[
+  {
+    "code": "18.07.043.001",
+    "villageCode": "001",
+    "districtCode": "18.07.043",
+    "name": "Rambang Jaya",
+    "alias": "Rambang Jaya"
+  },
+  {
+    "code": "18.07.043.002",
+    "villageCode": "002",
+    "districtCode": "18.07.043",
+    "name": "Gistang",
+    "alias": "Gistang"
+  },
+  {
+    "code": "18.07.043.003",
+    "villageCode": "003",
+    "districtCode": "18.07.043",
+    "name": "Negeri Batin",
+    "alias": "Negeri Batin"
+  },
+  {
+    "code": "18.07.043.004",
+    "villageCode": "004",
+    "districtCode": "18.07.043",
+    "name": "Negeri Baru",
+    "alias": "Negeri Baru"
+  },
+  {
+    "code": "18.07.043.005",
+    "villageCode": "005",
+    "districtCode": "18.07.043",
+    "name": "Bumi Ratu",
+    "alias": "Bumi Ratu"
+  },
+  {
+    "code": "18.07.043.006",
+    "villageCode": "006",
+    "districtCode": "18.07.043",
+    "name": "Sriwijaya",
+    "alias": "Sriwijaya"
+  },
+  {
+    "code": "18.07.043.007",
+    "villageCode": "007",
+    "districtCode": "18.07.043",
+    "name": "Sidoarjo",
+    "alias": "Sidoarjo"
+  },
+  {
+    "code": "18.07.043.008",
+    "villageCode": "008",
+    "districtCode": "18.07.043",
+    "name": "Bratayuda",
+    "alias": "Bratayuda"
+  },
+  {
+    "code": "18.07.043.009",
+    "villageCode": "009",
+    "districtCode": "18.07.043",
+    "name": "Gedung Batin",
+    "alias": "Gedung Batin"
+  },
+  {
+    "code": "18.07.043.048",
+    "villageCode": "048",
+    "districtCode": "18.07.043",
+    "name": "Negeri Bumi Putra",
+    "alias": "Negeri Bumi Putra"
+  },
+  {
+    "code": "18.07.043.049",
+    "villageCode": "049",
+    "districtCode": "18.07.043",
+    "name": "Panca Negeri",
+    "alias": "Panca Negeri"
+  },
+  {
+    "code": "18.07.043.050",
+    "villageCode": "050",
+    "districtCode": "18.07.043",
+    "name": "Gedung Riang",
+    "alias": "Gedung Riang"
+  },
+  {
+    "code": "18.07.043.051",
+    "villageCode": "051",
+    "districtCode": "18.07.043",
+    "name": "Ojolali",
+    "alias": "Ojolali"
+  }
+]

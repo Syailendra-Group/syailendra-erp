@@ -1,0 +1,154 @@
+[
+  {
+    "code": "61.01.010",
+    "districtCode": "010",
+    "regencyCode": "61.01",
+    "provinceCode": "61",
+    "name": "Kecamatan Selakau",
+    "alias": "Selakau"
+  },
+  {
+    "code": "61.01.011",
+    "districtCode": "011",
+    "regencyCode": "61.01",
+    "provinceCode": "61",
+    "name": "Kecamatan Selakau Timur",
+    "alias": "Selakau Timur"
+  },
+  {
+    "code": "61.01.020",
+    "districtCode": "020",
+    "regencyCode": "61.01",
+    "provinceCode": "61",
+    "name": "Kecamatan Pemangkat",
+    "alias": "Pemangkat"
+  },
+  {
+    "code": "61.01.021",
+    "districtCode": "021",
+    "regencyCode": "61.01",
+    "provinceCode": "61",
+    "name": "Kecamatan Semparuk",
+    "alias": "Semparuk"
+  },
+  {
+    "code": "61.01.022",
+    "districtCode": "022",
+    "regencyCode": "61.01",
+    "provinceCode": "61",
+    "name": "Kecamatan Salatiga",
+    "alias": "Salatiga"
+  },
+  {
+    "code": "61.01.030",
+    "districtCode": "030",
+    "regencyCode": "61.01",
+    "provinceCode": "61",
+    "name": "Kecamatan Tebas",
+    "alias": "Tebas"
+  },
+  {
+    "code": "61.01.031",
+    "districtCode": "031",
+    "regencyCode": "61.01",
+    "provinceCode": "61",
+    "name": "Kecamatan Tekarang",
+    "alias": "Tekarang"
+  },
+  {
+    "code": "61.01.040",
+    "districtCode": "040",
+    "regencyCode": "61.01",
+    "provinceCode": "61",
+    "name": "Kecamatan Sambas",
+    "alias": "Sambas"
+  },
+  {
+    "code": "61.01.041",
+    "districtCode": "041",
+    "regencyCode": "61.01",
+    "provinceCode": "61",
+    "name": "Kecamatan Subah",
+    "alias": "Subah"
+  },
+  {
+    "code": "61.01.042",
+    "districtCode": "042",
+    "regencyCode": "61.01",
+    "provinceCode": "61",
+    "name": "Kecamatan Sebawi",
+    "alias": "Sebawi"
+  },
+  {
+    "code": "61.01.043",
+    "districtCode": "043",
+    "regencyCode": "61.01",
+    "provinceCode": "61",
+    "name": "Kecamatan Sajad",
+    "alias": "Sajad"
+  },
+  {
+    "code": "61.01.050",
+    "districtCode": "050",
+    "regencyCode": "61.01",
+    "provinceCode": "61",
+    "name": "Kecamatan Jawai",
+    "alias": "Jawai"
+  },
+  {
+    "code": "61.01.051",
+    "districtCode": "051",
+    "regencyCode": "61.01",
+    "provinceCode": "61",
+    "name": "Kecamatan Jawai Selatan",
+    "alias": "Jawai Selatan"
+  },
+  {
+    "code": "61.01.060",
+    "districtCode": "060",
+    "regencyCode": "61.01",
+    "provinceCode": "61",
+    "name": "Kecamatan Teluk Keramat",
+    "alias": "Teluk Keramat"
+  },
+  {
+    "code": "61.01.061",
+    "districtCode": "061",
+    "regencyCode": "61.01",
+    "provinceCode": "61",
+    "name": "Kecamatan Galing",
+    "alias": "Galing"
+  },
+  {
+    "code": "61.01.062",
+    "districtCode": "062",
+    "regencyCode": "61.01",
+    "provinceCode": "61",
+    "name": "Kecamatan Tangaran",
+    "alias": "Tangaran"
+  },
+  {
+    "code": "61.01.070",
+    "districtCode": "070",
+    "regencyCode": "61.01",
+    "provinceCode": "61",
+    "name": "Kecamatan Sejangkung",
+    "alias": "Sejangkung"
+  },
+  {
+    "code": "61.01.080",
+    "districtCode": "080",
+    "regencyCode": "61.01",
+    "provinceCode": "61",
+    "name": "Kecamatan Sajingan Besar",
+    "alias": "Sajingan Besar"
+  },
+  {
+    "code": "61.01.090",
+    "districtCode": "090",
+    "regencyCode": "61.01",
+    "provinceCode": "61",
+    "name": "Kecamatan Paloh",
+    "alias": "Paloh"
+  }
+]

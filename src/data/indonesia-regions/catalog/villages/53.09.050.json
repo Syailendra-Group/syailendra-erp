@@ -1,0 +1,121 @@
+[
+  {
+    "code": "53.09.050.003",
+    "villageCode": "003",
+    "districtCode": "53.09.050",
+    "name": "Watanhura Ii",
+    "alias": "Watanhura Ii"
+  },
+  {
+    "code": "53.09.050.004",
+    "villageCode": "004",
+    "districtCode": "53.09.050",
+    "name": "Watanhura",
+    "alias": "Watanhura"
+  },
+  {
+    "code": "53.09.050.005",
+    "villageCode": "005",
+    "districtCode": "53.09.050",
+    "name": "Lebao",
+    "alias": "Lebao"
+  },
+  {
+    "code": "53.09.050.006",
+    "villageCode": "006",
+    "districtCode": "53.09.050",
+    "name": "Liwo",
+    "alias": "Liwo"
+  },
+  {
+    "code": "53.09.050.007",
+    "villageCode": "007",
+    "districtCode": "53.09.050",
+    "name": "Lamawai",
+    "alias": "Lamawai"
+  },
+  {
+    "code": "53.09.050.008",
+    "villageCode": "008",
+    "districtCode": "53.09.050",
+    "name": "Watohari",
+    "alias": "Watohari"
+  },
+  {
+    "code": "53.09.050.009",
+    "villageCode": "009",
+    "districtCode": "53.09.050",
+    "name": "Tanah Werang",
+    "alias": "Tanah Werang"
+  },
+  {
+    "code": "53.09.050.010",
+    "villageCode": "010",
+    "districtCode": "53.09.050",
+    "name": "Motonwutun",
+    "alias": "Motonwutun"
+  },
+  {
+    "code": "53.09.050.011",
+    "villageCode": "011",
+    "districtCode": "53.09.050",
+    "name": "Watobuku",
+    "alias": "Watobuku"
+  },
+  {
+    "code": "53.09.050.012",
+    "villageCode": "012",
+    "districtCode": "53.09.050",
+    "name": "Labelen",
+    "alias": "Labelen"
+  },
+  {
+    "code": "53.09.050.013",
+    "villageCode": "013",
+    "districtCode": "53.09.050",
+    "name": "Kawuta",
+    "alias": "Kawuta"
+  },
+  {
+    "code": "53.09.050.014",
+    "villageCode": "014",
+    "districtCode": "53.09.050",
+    "name": "Menanga",
+    "alias": "Menanga"
+  },
+  {
+    "code": "53.09.050.015",
+    "villageCode": "015",
+    "districtCode": "53.09.050",
+    "name": "Lewogeka",
+    "alias": "Lewogeka"
+  },
+  {
+    "code": "53.09.050.016",
+    "villageCode": "016",
+    "districtCode": "53.09.050",
+    "name": "Lohayong",
+    "alias": "Lohayong"
+  },
+  {
+    "code": "53.09.050.017",
+    "villageCode": "017",
+    "districtCode": "53.09.050",
+    "name": "Lohayong Ii",
+    "alias": "Lohayong Ii"
+  },
+  {
+    "code": "53.09.050.018",
+    "villageCode": "018",
+    "districtCode": "53.09.050",
+    "name": "Wulublolong",
+    "alias": "Wulublolong"
+  },
+  {
+    "code": "53.09.050.019",
+    "villageCode": "019",
+    "districtCode": "53.09.050",
+    "name": "Lewohedo",
+    "alias": "Lewohedo"
+  }
+]

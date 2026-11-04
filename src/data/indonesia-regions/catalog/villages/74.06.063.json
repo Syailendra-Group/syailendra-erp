@@ -1,0 +1,30 @@
+[
+  {
+    "code": "74.06.063.001",
+    "villageCode": "001",
+    "districtCode": "74.06.063",
+    "name": "Labo Ea",
+    "alias": "Labo Ea"
+  },
+  {
+    "code": "74.06.063.002",
+    "villageCode": "002",
+    "districtCode": "74.06.063",
+    "name": "Paria",
+    "alias": "Paria"
+  },
+  {
+    "code": "74.06.063.003",
+    "villageCode": "003",
+    "districtCode": "74.06.063",
+    "name": "Mulaeno",
+    "alias": "Mulaeno"
+  },
+  {
+    "code": "74.06.063.004",
+    "villageCode": "004",
+    "districtCode": "74.06.063",
+    "name": "Poleonro",
+    "alias": "Poleonro"
+  }
+]

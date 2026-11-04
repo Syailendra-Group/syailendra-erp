@@ -1,0 +1,51 @@
+[
+  {
+    "code": "75.03.032.001",
+    "villageCode": "001",
+    "districtCode": "75.03.032",
+    "name": "Buntulia Utara",
+    "alias": "Buntulia Utara"
+  },
+  {
+    "code": "75.03.032.002",
+    "villageCode": "002",
+    "districtCode": "75.03.032",
+    "name": "Taluduyunu",
+    "alias": "Taluduyunu"
+  },
+  {
+    "code": "75.03.032.003",
+    "villageCode": "003",
+    "districtCode": "75.03.032",
+    "name": "Hulawa",
+    "alias": "Hulawa"
+  },
+  {
+    "code": "75.03.032.004",
+    "villageCode": "004",
+    "districtCode": "75.03.032",
+    "name": "Buntulia Tengah",
+    "alias": "Buntulia Tengah"
+  },
+  {
+    "code": "75.03.032.005",
+    "villageCode": "005",
+    "districtCode": "75.03.032",
+    "name": "Karya Indah",
+    "alias": "Karya Indah"
+  },
+  {
+    "code": "75.03.032.006",
+    "villageCode": "006",
+    "districtCode": "75.03.032",
+    "name": "Sipatana",
+    "alias": "Sipatana"
+  },
+  {
+    "code": "75.03.032.007",
+    "villageCode": "007",
+    "districtCode": "75.03.032",
+    "name": "Taluduyunu Utara",
+    "alias": "Taluduyunu Utara"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "code": "11.73.010",
+    "districtCode": "010",
+    "regencyCode": "11.73",
+    "provinceCode": "11",
+    "name": "Kecamatan Langsa Timur",
+    "alias": "Langsa Timur"
+  },
+  {
+    "code": "11.73.011",
+    "districtCode": "011",
+    "regencyCode": "11.73",
+    "provinceCode": "11",
+    "name": "Kecamatan Langsa Lama",
+    "alias": "Langsa Lama"
+  },
+  {
+    "code": "11.73.020",
+    "districtCode": "020",
+    "regencyCode": "11.73",
+    "provinceCode": "11",
+    "name": "Kecamatan Langsa Barat",
+    "alias": "Langsa Barat"
+  },
+  {
+    "code": "11.73.021",
+    "districtCode": "021",
+    "regencyCode": "11.73",
+    "provinceCode": "11",
+    "name": "Kecamatan Langsa Baro",
+    "alias": "Langsa Baro"
+  },
+  {
+    "code": "11.73.030",
+    "districtCode": "030",
+    "regencyCode": "11.73",
+    "provinceCode": "11",
+    "name": "Kecamatan Langsa Kota",
+    "alias": "Langsa Kota"
+  }
+]

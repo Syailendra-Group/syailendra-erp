@@ -1,0 +1,107 @@
+[
+  {
+    "code": "33.20.070.001",
+    "villageCode": "001",
+    "districtCode": "33.20.070",
+    "name": "Telukawur",
+    "alias": "Telukawur"
+  },
+  {
+    "code": "33.20.070.002",
+    "villageCode": "002",
+    "districtCode": "33.20.070",
+    "name": "Semat",
+    "alias": "Semat"
+  },
+  {
+    "code": "33.20.070.003",
+    "villageCode": "003",
+    "districtCode": "33.20.070",
+    "name": "Platar",
+    "alias": "Platar"
+  },
+  {
+    "code": "33.20.070.004",
+    "villageCode": "004",
+    "districtCode": "33.20.070",
+    "name": "Mangunan",
+    "alias": "Mangunan"
+  },
+  {
+    "code": "33.20.070.005",
+    "villageCode": "005",
+    "districtCode": "33.20.070",
+    "name": "Petekeyan",
+    "alias": "Petekeyan"
+  },
+  {
+    "code": "33.20.070.006",
+    "villageCode": "006",
+    "districtCode": "33.20.070",
+    "name": "Sukodono",
+    "alias": "Sukodono"
+  },
+  {
+    "code": "33.20.070.007",
+    "villageCode": "007",
+    "districtCode": "33.20.070",
+    "name": "Langon",
+    "alias": "Langon"
+  },
+  {
+    "code": "33.20.070.008",
+    "villageCode": "008",
+    "districtCode": "33.20.070",
+    "name": "Ngabul",
+    "alias": "Ngabul"
+  },
+  {
+    "code": "33.20.070.009",
+    "villageCode": "009",
+    "districtCode": "33.20.070",
+    "name": "Tahunan",
+    "alias": "Tahunan"
+  },
+  {
+    "code": "33.20.070.010",
+    "villageCode": "010",
+    "districtCode": "33.20.070",
+    "name": "Mantingan",
+    "alias": "Mantingan"
+  },
+  {
+    "code": "33.20.070.011",
+    "villageCode": "011",
+    "districtCode": "33.20.070",
+    "name": "Demangan",
+    "alias": "Demangan"
+  },
+  {
+    "code": "33.20.070.012",
+    "villageCode": "012",
+    "districtCode": "33.20.070",
+    "name": "Tegalsambi",
+    "alias": "Tegalsambi"
+  },
+  {
+    "code": "33.20.070.013",
+    "villageCode": "013",
+    "districtCode": "33.20.070",
+    "name": "Krapyak",
+    "alias": "Krapyak"
+  },
+  {
+    "code": "33.20.070.014",
+    "villageCode": "014",
+    "districtCode": "33.20.070",
+    "name": "Senenan",
+    "alias": "Senenan"
+  },
+  {
+    "code": "33.20.070.015",
+    "villageCode": "015",
+    "districtCode": "33.20.070",
+    "name": "Kecapi",
+    "alias": "Kecapi"
+  }
+]

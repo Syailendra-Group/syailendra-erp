@@ -1,0 +1,51 @@
+[
+  {
+    "code": "13.08.070.001",
+    "villageCode": "001",
+    "districtCode": "13.08.070",
+    "name": "Koto Lamo",
+    "alias": "Koto Lamo"
+  },
+  {
+    "code": "13.08.070.002",
+    "villageCode": "002",
+    "districtCode": "13.08.070",
+    "name": "Lubuak Alai",
+    "alias": "Lubuak Alai"
+  },
+  {
+    "code": "13.08.070.003",
+    "villageCode": "003",
+    "districtCode": "13.08.070",
+    "name": "Muaro Paiti",
+    "alias": "Muaro Paiti"
+  },
+  {
+    "code": "13.08.070.004",
+    "villageCode": "004",
+    "districtCode": "13.08.070",
+    "name": "Koto Bangun",
+    "alias": "Koto Bangun"
+  },
+  {
+    "code": "13.08.070.005",
+    "villageCode": "005",
+    "districtCode": "13.08.070",
+    "name": "Durian Tinggi",
+    "alias": "Durian Tinggi"
+  },
+  {
+    "code": "13.08.070.006",
+    "villageCode": "006",
+    "districtCode": "13.08.070",
+    "name": "Sialang",
+    "alias": "Sialang"
+  },
+  {
+    "code": "13.08.070.007",
+    "villageCode": "007",
+    "districtCode": "13.08.070",
+    "name": "Galugua",
+    "alias": "Galugua"
+  }
+]

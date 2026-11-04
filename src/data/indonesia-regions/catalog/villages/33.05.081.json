@@ -1,0 +1,79 @@
+[
+  {
+    "code": "33.05.081.001",
+    "villageCode": "001",
+    "districtCode": "33.05.081",
+    "name": "Patukrejo",
+    "alias": "Patukrejo"
+  },
+  {
+    "code": "33.05.081.002",
+    "villageCode": "002",
+    "districtCode": "33.05.081",
+    "name": "Ngasinan",
+    "alias": "Ngasinan"
+  },
+  {
+    "code": "33.05.081.003",
+    "villageCode": "003",
+    "districtCode": "33.05.081",
+    "name": "Pujodadi",
+    "alias": "Pujodadi"
+  },
+  {
+    "code": "33.05.081.004",
+    "villageCode": "004",
+    "districtCode": "33.05.081",
+    "name": "Balorejo",
+    "alias": "Balorejo"
+  },
+  {
+    "code": "33.05.081.005",
+    "villageCode": "005",
+    "districtCode": "33.05.081",
+    "name": "Tlogorejo",
+    "alias": "Tlogorejo"
+  },
+  {
+    "code": "33.05.081.006",
+    "villageCode": "006",
+    "districtCode": "33.05.081",
+    "name": "Rowosari",
+    "alias": "Rowosari"
+  },
+  {
+    "code": "33.05.081.007",
+    "villageCode": "007",
+    "districtCode": "33.05.081",
+    "name": "Bonorowo",
+    "alias": "Bonorowo"
+  },
+  {
+    "code": "33.05.081.008",
+    "villageCode": "008",
+    "districtCode": "33.05.081",
+    "name": "Sirnoboyo",
+    "alias": "Sirnoboyo"
+  },
+  {
+    "code": "33.05.081.009",
+    "villageCode": "009",
+    "districtCode": "33.05.081",
+    "name": "Bonjokkidul",
+    "alias": "Bonjokkidul"
+  },
+  {
+    "code": "33.05.081.010",
+    "villageCode": "010",
+    "districtCode": "33.05.081",
+    "name": "Bonjoklor",
+    "alias": "Bonjoklor"
+  },
+  {
+    "code": "33.05.081.011",
+    "villageCode": "011",
+    "districtCode": "33.05.081",
+    "name": "Mrentul",
+    "alias": "Mrentul"
+  }
+]

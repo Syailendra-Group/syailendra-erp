@@ -1,0 +1,58 @@
+[
+  {
+    "code": "32.14.020.001",
+    "villageCode": "001",
+    "districtCode": "32.14.020",
+    "name": "Tegaldatar",
+    "alias": "Tegaldatar"
+  },
+  {
+    "code": "32.14.020.002",
+    "villageCode": "002",
+    "districtCode": "32.14.020",
+    "name": "Sinargalih",
+    "alias": "Sinargalih"
+  },
+  {
+    "code": "32.14.020.003",
+    "villageCode": "003",
+    "districtCode": "32.14.020",
+    "name": "Citamiang",
+    "alias": "Citamiang"
+  },
+  {
+    "code": "32.14.020.004",
+    "villageCode": "004",
+    "districtCode": "32.14.020",
+    "name": "Cijati",
+    "alias": "Cijati"
+  },
+  {
+    "code": "32.14.020.005",
+    "villageCode": "005",
+    "districtCode": "32.14.020",
+    "name": "Gunungkarung",
+    "alias": "Gunungkarung"
+  },
+  {
+    "code": "32.14.020.006",
+    "villageCode": "006",
+    "districtCode": "32.14.020",
+    "name": "Pasirjambu",
+    "alias": "Pasirjambu"
+  },
+  {
+    "code": "32.14.020.007",
+    "villageCode": "007",
+    "districtCode": "32.14.020",
+    "name": "Ciramahilir",
+    "alias": "Ciramahilir"
+  },
+  {
+    "code": "32.14.020.008",
+    "villageCode": "008",
+    "districtCode": "32.14.020",
+    "name": "Sukamukti",
+    "alias": "Sukamukti"
+  }
+]

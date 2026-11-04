@@ -1,0 +1,58 @@
+[
+  {
+    "code": "76.04.020.003",
+    "villageCode": "003",
+    "districtCode": "76.04.020",
+    "name": "Binanga",
+    "alias": "Binanga"
+  },
+  {
+    "code": "76.04.020.004",
+    "villageCode": "004",
+    "districtCode": "76.04.020",
+    "name": "Mamunyu",
+    "alias": "Mamunyu"
+  },
+  {
+    "code": "76.04.020.005",
+    "villageCode": "005",
+    "districtCode": "76.04.020",
+    "name": "Tadui",
+    "alias": "Tadui"
+  },
+  {
+    "code": "76.04.020.006",
+    "villageCode": "006",
+    "districtCode": "76.04.020",
+    "name": "Bambu",
+    "alias": "Bambu"
+  },
+  {
+    "code": "76.04.020.007",
+    "villageCode": "007",
+    "districtCode": "76.04.020",
+    "name": "Karampuang",
+    "alias": "Karampuang"
+  },
+  {
+    "code": "76.04.020.008",
+    "villageCode": "008",
+    "districtCode": "76.04.020",
+    "name": "Rimuku",
+    "alias": "Rimuku"
+  },
+  {
+    "code": "76.04.020.009",
+    "villageCode": "009",
+    "districtCode": "76.04.020",
+    "name": "Karema",
+    "alias": "Karema"
+  },
+  {
+    "code": "76.04.020.010",
+    "villageCode": "010",
+    "districtCode": "76.04.020",
+    "name": "Batu Pannu",
+    "alias": "Batu Pannu"
+  }
+]

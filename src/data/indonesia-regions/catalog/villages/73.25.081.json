@@ -1,0 +1,51 @@
+[
+  {
+    "code": "73.25.081.004",
+    "villageCode": "004",
+    "districtCode": "73.25.081",
+    "name": "Argomulyo",
+    "alias": "Argomulyo"
+  },
+  {
+    "code": "73.25.081.005",
+    "villageCode": "005",
+    "districtCode": "73.25.081",
+    "name": "Sumber Agung",
+    "alias": "Sumber Agung"
+  },
+  {
+    "code": "73.25.081.012",
+    "villageCode": "012",
+    "districtCode": "73.25.081",
+    "name": "Pertasi Kencana",
+    "alias": "Pertasi Kencana"
+  },
+  {
+    "code": "73.25.081.013",
+    "villageCode": "013",
+    "districtCode": "73.25.081",
+    "name": "Kalaena Kiri",
+    "alias": "Kalaena Kiri"
+  },
+  {
+    "code": "73.25.081.014",
+    "villageCode": "014",
+    "districtCode": "73.25.081",
+    "name": "Non Blok",
+    "alias": "Non Blok"
+  },
+  {
+    "code": "73.25.081.015",
+    "villageCode": "015",
+    "districtCode": "73.25.081",
+    "name": "Sumber Makmur",
+    "alias": "Sumber Makmur"
+  },
+  {
+    "code": "73.25.081.016",
+    "villageCode": "016",
+    "districtCode": "73.25.081",
+    "name": "Mekar Sari",
+    "alias": "Mekar Sari"
+  }
+]

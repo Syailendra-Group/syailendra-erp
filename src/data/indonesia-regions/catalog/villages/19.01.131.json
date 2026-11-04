@@ -1,0 +1,65 @@
+[
+  {
+    "code": "19.01.131.001",
+    "villageCode": "001",
+    "districtCode": "19.01.131",
+    "name": "Banyu Asin",
+    "alias": "Banyu Asin"
+  },
+  {
+    "code": "19.01.131.002",
+    "villageCode": "002",
+    "districtCode": "19.01.131",
+    "name": "Pangkal Niur",
+    "alias": "Pangkal Niur"
+  },
+  {
+    "code": "19.01.131.003",
+    "villageCode": "003",
+    "districtCode": "19.01.131",
+    "name": "Pugul",
+    "alias": "Pugul"
+  },
+  {
+    "code": "19.01.131.004",
+    "villageCode": "004",
+    "districtCode": "19.01.131",
+    "name": "Cit",
+    "alias": "Cit"
+  },
+  {
+    "code": "19.01.131.005",
+    "villageCode": "005",
+    "districtCode": "19.01.131",
+    "name": "Deniang",
+    "alias": "Deniang"
+  },
+  {
+    "code": "19.01.131.006",
+    "villageCode": "006",
+    "districtCode": "19.01.131",
+    "name": "Mapur",
+    "alias": "Mapur"
+  },
+  {
+    "code": "19.01.131.007",
+    "villageCode": "007",
+    "districtCode": "19.01.131",
+    "name": "Silip",
+    "alias": "Silip"
+  },
+  {
+    "code": "19.01.131.008",
+    "villageCode": "008",
+    "districtCode": "19.01.131",
+    "name": "Riau",
+    "alias": "Riau"
+  },
+  {
+    "code": "19.01.131.009",
+    "villageCode": "009",
+    "districtCode": "19.01.131",
+    "name": "Berbura",
+    "alias": "Berbura"
+  }
+]

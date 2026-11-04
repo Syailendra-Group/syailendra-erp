@@ -1,0 +1,30 @@
+[
+  {
+    "code": "31.73.040.001",
+    "villageCode": "001",
+    "districtCode": "31.73.040",
+    "name": "Johar Baru",
+    "alias": "Johar Baru"
+  },
+  {
+    "code": "31.73.040.002",
+    "villageCode": "002",
+    "districtCode": "31.73.040",
+    "name": "Kampung Rawa",
+    "alias": "Kampung Rawa"
+  },
+  {
+    "code": "31.73.040.003",
+    "villageCode": "003",
+    "districtCode": "31.73.040",
+    "name": "Tanah Tinggi",
+    "alias": "Tanah Tinggi"
+  },
+  {
+    "code": "31.73.040.004",
+    "villageCode": "004",
+    "districtCode": "31.73.040",
+    "name": "Galur",
+    "alias": "Galur"
+  }
+]

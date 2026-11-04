@@ -1,0 +1,72 @@
+[
+  {
+    "code": "52.71.010.004",
+    "villageCode": "004",
+    "districtCode": "52.71.010",
+    "name": "Ampenan Selatan",
+    "alias": "Ampenan Selatan"
+  },
+  {
+    "code": "52.71.010.005",
+    "villageCode": "005",
+    "districtCode": "52.71.010",
+    "name": "Ampenan Tengah",
+    "alias": "Ampenan Tengah"
+  },
+  {
+    "code": "52.71.010.006",
+    "villageCode": "006",
+    "districtCode": "52.71.010",
+    "name": "Pejeruk",
+    "alias": "Pejeruk"
+  },
+  {
+    "code": "52.71.010.007",
+    "villageCode": "007",
+    "districtCode": "52.71.010",
+    "name": "Ampenan Utara",
+    "alias": "Ampenan Utara"
+  },
+  {
+    "code": "52.71.010.008",
+    "villageCode": "008",
+    "districtCode": "52.71.010",
+    "name": "Banjar",
+    "alias": "Banjar"
+  },
+  {
+    "code": "52.71.010.009",
+    "villageCode": "009",
+    "districtCode": "52.71.010",
+    "name": "Taman Sari",
+    "alias": "Taman Sari"
+  },
+  {
+    "code": "52.71.010.010",
+    "villageCode": "010",
+    "districtCode": "52.71.010",
+    "name": "Kebon Sari",
+    "alias": "Kebon Sari"
+  },
+  {
+    "code": "52.71.010.011",
+    "villageCode": "011",
+    "districtCode": "52.71.010",
+    "name": "Pejarakan Karya",
+    "alias": "Pejarakan Karya"
+  },
+  {
+    "code": "52.71.010.012",
+    "villageCode": "012",
+    "districtCode": "52.71.010",
+    "name": "Bintaro",
+    "alias": "Bintaro"
+  },
+  {
+    "code": "52.71.010.013",
+    "villageCode": "013",
+    "districtCode": "52.71.010",
+    "name": "Dayan Peken",
+    "alias": "Dayan Peken"
+  }
+]

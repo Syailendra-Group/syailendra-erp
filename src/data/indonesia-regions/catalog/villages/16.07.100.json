@@ -1,0 +1,72 @@
+[
+  {
+    "code": "16.07.100.016",
+    "villageCode": "016",
+    "districtCode": "16.07.100",
+    "name": "Teluk Payo",
+    "alias": "Teluk Payo"
+  },
+  {
+    "code": "16.07.100.022",
+    "villageCode": "022",
+    "districtCode": "16.07.100",
+    "name": "Sungsang Iii",
+    "alias": "Sungsang Iii"
+  },
+  {
+    "code": "16.07.100.023",
+    "villageCode": "023",
+    "districtCode": "16.07.100",
+    "name": "Sungsang I",
+    "alias": "Sungsang I"
+  },
+  {
+    "code": "16.07.100.024",
+    "villageCode": "024",
+    "districtCode": "16.07.100",
+    "name": "Sungsang Ii",
+    "alias": "Sungsang Ii"
+  },
+  {
+    "code": "16.07.100.030",
+    "villageCode": "030",
+    "districtCode": "16.07.100",
+    "name": "Sungsang Iv",
+    "alias": "Sungsang Iv"
+  },
+  {
+    "code": "16.07.100.031",
+    "villageCode": "031",
+    "districtCode": "16.07.100",
+    "name": "Tanah Pilih",
+    "alias": "Tanah Pilih"
+  },
+  {
+    "code": "16.07.100.033",
+    "villageCode": "033",
+    "districtCode": "16.07.100",
+    "name": "Perajen Jaya",
+    "alias": "Perajen Jaya"
+  },
+  {
+    "code": "16.07.100.034",
+    "villageCode": "034",
+    "districtCode": "16.07.100",
+    "name": "Rimau Sungsang",
+    "alias": "Rimau Sungsang"
+  },
+  {
+    "code": "16.07.100.037",
+    "villageCode": "037",
+    "districtCode": "16.07.100",
+    "name": "Muara Sungsang",
+    "alias": "Muara Sungsang"
+  },
+  {
+    "code": "16.07.100.038",
+    "villageCode": "038",
+    "districtCode": "16.07.100",
+    "name": "Marga Sungsang",
+    "alias": "Marga Sungsang"
+  }
+]

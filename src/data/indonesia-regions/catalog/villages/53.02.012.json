@@ -1,0 +1,58 @@
+[
+  {
+    "code": "53.02.012.001",
+    "villageCode": "001",
+    "districtCode": "53.02.012",
+    "name": "Watumbelar",
+    "alias": "Watumbelar"
+  },
+  {
+    "code": "53.02.012.002",
+    "villageCode": "002",
+    "districtCode": "53.02.012",
+    "name": "Umamanu",
+    "alias": "Umamanu"
+  },
+  {
+    "code": "53.02.012.003",
+    "villageCode": "003",
+    "districtCode": "53.02.012",
+    "name": "Kangeli",
+    "alias": "Kangeli"
+  },
+  {
+    "code": "53.02.012.004",
+    "villageCode": "004",
+    "districtCode": "53.02.012",
+    "name": "Lai Hawu",
+    "alias": "Lai Hawu"
+  },
+  {
+    "code": "53.02.012.005",
+    "villageCode": "005",
+    "districtCode": "53.02.012",
+    "name": "Mondu Lambi",
+    "alias": "Mondu Lambi"
+  },
+  {
+    "code": "53.02.012.006",
+    "villageCode": "006",
+    "districtCode": "53.02.012",
+    "name": "Bidi Praing",
+    "alias": "Bidi Praing"
+  },
+  {
+    "code": "53.02.012.007",
+    "villageCode": "007",
+    "districtCode": "53.02.012",
+    "name": "Desa Persiapan Kambumoru",
+    "alias": "Desa Persiapan Kambumoru"
+  },
+  {
+    "code": "53.02.012.008",
+    "villageCode": "008",
+    "districtCode": "53.02.012",
+    "name": "Desa Persiapan Lata Lanyir",
+    "alias": "Desa Persiapan Lata Lanyir"
+  }
+]

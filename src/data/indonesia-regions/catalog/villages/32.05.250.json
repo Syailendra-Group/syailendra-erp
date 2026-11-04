@@ -1,0 +1,58 @@
+[
+  {
+    "code": "32.05.250.001",
+    "villageCode": "001",
+    "districtCode": "32.05.250",
+    "name": "Margahayu",
+    "alias": "Margahayu"
+  },
+  {
+    "code": "32.05.250.002",
+    "villageCode": "002",
+    "districtCode": "32.05.250",
+    "name": "Margacinta",
+    "alias": "Margacinta"
+  },
+  {
+    "code": "32.05.250.003",
+    "villageCode": "003",
+    "districtCode": "32.05.250",
+    "name": "Dungusiku",
+    "alias": "Dungusiku"
+  },
+  {
+    "code": "32.05.250.004",
+    "villageCode": "004",
+    "districtCode": "32.05.250",
+    "name": "Tambaksari",
+    "alias": "Tambaksari"
+  },
+  {
+    "code": "32.05.250.005",
+    "villageCode": "005",
+    "districtCode": "32.05.250",
+    "name": "Karangsari",
+    "alias": "Karangsari"
+  },
+  {
+    "code": "32.05.250.006",
+    "villageCode": "006",
+    "districtCode": "32.05.250",
+    "name": "Karanganyar",
+    "alias": "Karanganyar"
+  },
+  {
+    "code": "32.05.250.007",
+    "villageCode": "007",
+    "districtCode": "32.05.250",
+    "name": "Sindangsari",
+    "alias": "Sindangsari"
+  },
+  {
+    "code": "32.05.250.008",
+    "villageCode": "008",
+    "districtCode": "32.05.250",
+    "name": "Leuwigoong",
+    "alias": "Leuwigoong"
+  }
+]

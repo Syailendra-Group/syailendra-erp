@@ -1,0 +1,58 @@
+[
+  {
+    "code": "35.20.010.001",
+    "villageCode": "001",
+    "districtCode": "35.20.010",
+    "name": "Gonggang",
+    "alias": "Gonggang"
+  },
+  {
+    "code": "35.20.010.002",
+    "villageCode": "002",
+    "districtCode": "35.20.010",
+    "name": "Poncol",
+    "alias": "Poncol"
+  },
+  {
+    "code": "35.20.010.003",
+    "villageCode": "003",
+    "districtCode": "35.20.010",
+    "name": "Cileng",
+    "alias": "Cileng"
+  },
+  {
+    "code": "35.20.010.004",
+    "villageCode": "004",
+    "districtCode": "35.20.010",
+    "name": "Sombo",
+    "alias": "Sombo"
+  },
+  {
+    "code": "35.20.010.007",
+    "villageCode": "007",
+    "districtCode": "35.20.010",
+    "name": "Plangkrongan",
+    "alias": "Plangkrongan"
+  },
+  {
+    "code": "35.20.010.008",
+    "villageCode": "008",
+    "districtCode": "35.20.010",
+    "name": "Alastuwo",
+    "alias": "Alastuwo"
+  },
+  {
+    "code": "35.20.010.009",
+    "villageCode": "009",
+    "districtCode": "35.20.010",
+    "name": "Janggan",
+    "alias": "Janggan"
+  },
+  {
+    "code": "35.20.010.010",
+    "villageCode": "010",
+    "districtCode": "35.20.010",
+    "name": "Genilangit",
+    "alias": "Genilangit"
+  }
+]

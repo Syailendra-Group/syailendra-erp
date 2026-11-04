@@ -1,0 +1,58 @@
+[
+  {
+    "code": "32.17.130.001",
+    "villageCode": "001",
+    "districtCode": "32.17.130",
+    "name": "Pasirhalang",
+    "alias": "Pasirhalang"
+  },
+  {
+    "code": "32.17.130.002",
+    "villageCode": "002",
+    "districtCode": "32.17.130",
+    "name": "Jambudipa",
+    "alias": "Jambudipa"
+  },
+  {
+    "code": "32.17.130.003",
+    "villageCode": "003",
+    "districtCode": "32.17.130",
+    "name": "Padaasih",
+    "alias": "Padaasih"
+  },
+  {
+    "code": "32.17.130.004",
+    "villageCode": "004",
+    "districtCode": "32.17.130",
+    "name": "Kertawangi",
+    "alias": "Kertawangi"
+  },
+  {
+    "code": "32.17.130.005",
+    "villageCode": "005",
+    "districtCode": "32.17.130",
+    "name": "Tugumukti",
+    "alias": "Tugumukti"
+  },
+  {
+    "code": "32.17.130.006",
+    "villageCode": "006",
+    "districtCode": "32.17.130",
+    "name": "Pasirlangu",
+    "alias": "Pasirlangu"
+  },
+  {
+    "code": "32.17.130.007",
+    "villageCode": "007",
+    "districtCode": "32.17.130",
+    "name": "Cipada",
+    "alias": "Cipada"
+  },
+  {
+    "code": "32.17.130.008",
+    "villageCode": "008",
+    "districtCode": "32.17.130",
+    "name": "Sadangmekar",
+    "alias": "Sadangmekar"
+  }
+]

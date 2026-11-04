@@ -1,0 +1,26 @@
+[
+  {
+    "code": "35.71.010",
+    "districtCode": "010",
+    "regencyCode": "35.71",
+    "provinceCode": "35",
+    "name": "Kecamatan Mojoroto",
+    "alias": "Mojoroto"
+  },
+  {
+    "code": "35.71.020",
+    "districtCode": "020",
+    "regencyCode": "35.71",
+    "provinceCode": "35",
+    "name": "Kecamatan Kota Kediri",
+    "alias": "Kota Kediri"
+  },
+  {
+    "code": "35.71.030",
+    "districtCode": "030",
+    "regencyCode": "35.71",
+    "provinceCode": "35",
+    "name": "Kecamatan Pesantren",
+    "alias": "Pesantren"
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "code": "52.06.010",
+    "districtCode": "010",
+    "regencyCode": "52.06",
+    "provinceCode": "52",
+    "name": "Kecamatan Monta",
+    "alias": "Monta"
+  },
+  {
+    "code": "52.06.011",
+    "districtCode": "011",
+    "regencyCode": "52.06",
+    "provinceCode": "52",
+    "name": "Kecamatan Parado",
+    "alias": "Parado"
+  },
+  {
+    "code": "52.06.020",
+    "districtCode": "020",
+    "regencyCode": "52.06",
+    "provinceCode": "52",
+    "name": "Kecamatan Bolo",
+    "alias": "Bolo"
+  },
+  {
+    "code": "52.06.021",
+    "districtCode": "021",
+    "regencyCode": "52.06",
+    "provinceCode": "52",
+    "name": "Kecamatan Mada Pangga",
+    "alias": "Mada Pangga"
+  },
+  {
+    "code": "52.06.030",
+    "districtCode": "030",
+    "regencyCode": "52.06",
+    "provinceCode": "52",
+    "name": "Kecamatan Woha",
+    "alias": "Woha"
+  },
+  {
+    "code": "52.06.040",
+    "districtCode": "040",
+    "regencyCode": "52.06",
+    "provinceCode": "52",
+    "name": "Kecamatan Belo",
+    "alias": "Belo"
+  },
+  {
+    "code": "52.06.041",
+    "districtCode": "041",
+    "regencyCode": "52.06",
+    "provinceCode": "52",
+    "name": "Kecamatan Palibelo",
+    "alias": "Palibelo"
+  },
+  {
+    "code": "52.06.050",
+    "districtCode": "050",
+    "regencyCode": "52.06",
+    "provinceCode": "52",
+    "name": "Kecamatan Wawo",
+    "alias": "Wawo"
+  },
+  {
+    "code": "52.06.051",
+    "districtCode": "051",
+    "regencyCode": "52.06",
+    "provinceCode": "52",
+    "name": "Kecamatan Langgudu",
+    "alias": "Langgudu"
+  },
+  {
+    "code": "52.06.052",
+    "districtCode": "052",
+    "regencyCode": "52.06",
+    "provinceCode": "52",
+    "name": "Kecamatan Lambitu",
+    "alias": "Lambitu"
+  },
+  {
+    "code": "52.06.060",
+    "districtCode": "060",
+    "regencyCode": "52.06",
+    "provinceCode": "52",
+    "name": "Kecamatan Sape",
+    "alias": "Sape"
+  },
+  {
+    "code": "52.06.061",
+    "districtCode": "061",
+    "regencyCode": "52.06",
+    "provinceCode": "52",
+    "name": "Kecamatan Lambu",
+    "alias": "Lambu"
+  },
+  {
+    "code": "52.06.070",
+    "districtCode": "070",
+    "regencyCode": "52.06",
+    "provinceCode": "52",
+    "name": "Kecamatan Wera",
+    "alias": "Wera"
+  },
+  {
+    "code": "52.06.071",
+    "districtCode": "071",
+    "regencyCode": "52.06",
+    "provinceCode": "52",
+    "name": "Kecamatan Ambalawi",
+    "alias": "Ambalawi"
+  },
+  {
+    "code": "52.06.080",
+    "districtCode": "080",
+    "regencyCode": "52.06",
+    "provinceCode": "52",
+    "name": "Kecamatan Donggo",
+    "alias": "Donggo"
+  },
+  {
+    "code": "52.06.081",
+    "districtCode": "081",
+    "regencyCode": "52.06",
+    "provinceCode": "52",
+    "name": "Kecamatan Soromandi",
+    "alias": "Soromandi"
+  },
+  {
+    "code": "52.06.090",
+    "districtCode": "090",
+    "regencyCode": "52.06",
+    "provinceCode": "52",
+    "name": "Kecamatan Sanggar",
+    "alias": "Sanggar"
+  },
+  {
+    "code": "52.06.091",
+    "districtCode": "091",
+    "regencyCode": "52.06",
+    "provinceCode": "52",
+    "name": "Kecamatan Tambora",
+    "alias": "Tambora"
+  }
+]

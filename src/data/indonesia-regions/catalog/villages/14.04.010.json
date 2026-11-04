@@ -1,0 +1,58 @@
+[
+  {
+    "code": "14.04.010.001",
+    "villageCode": "001",
+    "districtCode": "14.04.010",
+    "name": "Segati",
+    "alias": "Segati"
+  },
+  {
+    "code": "14.04.010.002",
+    "villageCode": "002",
+    "districtCode": "14.04.010",
+    "name": "Sotol",
+    "alias": "Sotol"
+  },
+  {
+    "code": "14.04.010.003",
+    "villageCode": "003",
+    "districtCode": "14.04.010",
+    "name": "Tambak",
+    "alias": "Tambak"
+  },
+  {
+    "code": "14.04.010.004",
+    "villageCode": "004",
+    "districtCode": "14.04.010",
+    "name": "Langkan",
+    "alias": "Langkan"
+  },
+  {
+    "code": "14.04.010.005",
+    "villageCode": "005",
+    "districtCode": "14.04.010",
+    "name": "Pangkalan Gondai",
+    "alias": "Pangkalan Gondai"
+  },
+  {
+    "code": "14.04.010.006",
+    "villageCode": "006",
+    "districtCode": "14.04.010",
+    "name": "Penarikan",
+    "alias": "Penarikan"
+  },
+  {
+    "code": "14.04.010.007",
+    "villageCode": "007",
+    "districtCode": "14.04.010",
+    "name": "Langgam",
+    "alias": "Langgam"
+  },
+  {
+    "code": "14.04.010.008",
+    "villageCode": "008",
+    "districtCode": "14.04.010",
+    "name": "Padang Luas",
+    "alias": "Padang Luas"
+  }
+]

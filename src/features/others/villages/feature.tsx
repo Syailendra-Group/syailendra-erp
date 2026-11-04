@@ -31,17 +31,11 @@ function VillagesPrimaryButtons(): ReactElement {
 
 function VillagesContent(): ReactElement {
   const t = useTranslations('others.villages')
-  const { setOpen, setCurrentRow } = useVillage()
 
   return (
     <div className="space-y-4 sm:space-y-6">
       <PageHeader title={t('title')} description={t('subtitle')} icon={MapPin} actions={<VillagesPrimaryButtons />} />
-      <VillagesTable
-        onArchive={(item) => {
-          setCurrentRow(item)
-          setOpen('delete')
-        }}
-      />
+      <VillagesTable />
       <VillagesDialogs />
     </div>
   )

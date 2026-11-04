@@ -1,0 +1,79 @@
+[
+  {
+    "code": "33.18.130.001",
+    "villageCode": "001",
+    "districtCode": "33.18.130",
+    "name": "Bermi",
+    "alias": "Bermi"
+  },
+  {
+    "code": "33.18.130.002",
+    "villageCode": "002",
+    "districtCode": "33.18.130",
+    "name": "Kedungbulus",
+    "alias": "Kedungbulus"
+  },
+  {
+    "code": "33.18.130.003",
+    "villageCode": "003",
+    "districtCode": "33.18.130",
+    "name": "Semirejo",
+    "alias": "Semirejo"
+  },
+  {
+    "code": "33.18.130.004",
+    "villageCode": "004",
+    "districtCode": "33.18.130",
+    "name": "Wonosekar",
+    "alias": "Wonosekar"
+  },
+  {
+    "code": "33.18.130.005",
+    "villageCode": "005",
+    "districtCode": "33.18.130",
+    "name": "Gembong",
+    "alias": "Gembong"
+  },
+  {
+    "code": "33.18.130.006",
+    "villageCode": "006",
+    "districtCode": "33.18.130",
+    "name": "Plukaran",
+    "alias": "Plukaran"
+  },
+  {
+    "code": "33.18.130.007",
+    "villageCode": "007",
+    "districtCode": "33.18.130",
+    "name": "Bageng",
+    "alias": "Bageng"
+  },
+  {
+    "code": "33.18.130.008",
+    "villageCode": "008",
+    "districtCode": "33.18.130",
+    "name": "Pohgading",
+    "alias": "Pohgading"
+  },
+  {
+    "code": "33.18.130.009",
+    "villageCode": "009",
+    "districtCode": "33.18.130",
+    "name": "Klakah Kasian",
+    "alias": "Klakah Kasian"
+  },
+  {
+    "code": "33.18.130.010",
+    "villageCode": "010",
+    "districtCode": "33.18.130",
+    "name": "Ketanggan",
+    "alias": "Ketanggan"
+  },
+  {
+    "code": "33.18.130.011",
+    "villageCode": "011",
+    "districtCode": "33.18.130",
+    "name": "Sitiluhur",
+    "alias": "Sitiluhur"
+  }
+]

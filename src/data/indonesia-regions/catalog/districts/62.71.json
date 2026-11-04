@@ -1,0 +1,42 @@
+[
+  {
+    "code": "62.71.010",
+    "districtCode": "010",
+    "regencyCode": "62.71",
+    "provinceCode": "62",
+    "name": "Kecamatan Pahandut",
+    "alias": "Pahandut"
+  },
+  {
+    "code": "62.71.011",
+    "districtCode": "011",
+    "regencyCode": "62.71",
+    "provinceCode": "62",
+    "name": "Kecamatan Sabangau",
+    "alias": "Sabangau"
+  },
+  {
+    "code": "62.71.012",
+    "districtCode": "012",
+    "regencyCode": "62.71",
+    "provinceCode": "62",
+    "name": "Kecamatan Jekan Raya",
+    "alias": "Jekan Raya"
+  },
+  {
+    "code": "62.71.020",
+    "districtCode": "020",
+    "regencyCode": "62.71",
+    "provinceCode": "62",
+    "name": "Kecamatan Bukit Batu",
+    "alias": "Bukit Batu"
+  },
+  {
+    "code": "62.71.021",
+    "districtCode": "021",
+    "regencyCode": "62.71",
+    "provinceCode": "62",
+    "name": "Kecamatan Rakumpit",
+    "alias": "Rakumpit"
+  }
+]

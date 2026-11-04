@@ -1,0 +1,72 @@
+[
+  {
+    "code": "75.04.042.010",
+    "villageCode": "010",
+    "districtCode": "75.04.042",
+    "name": "Inomata",
+    "alias": "Inomata"
+  },
+  {
+    "code": "75.04.042.011",
+    "villageCode": "011",
+    "districtCode": "75.04.042",
+    "name": "Tombulilato",
+    "alias": "Tombulilato"
+  },
+  {
+    "code": "75.04.042.014",
+    "villageCode": "014",
+    "districtCode": "75.04.042",
+    "name": "Mootinelo",
+    "alias": "Mootinelo"
+  },
+  {
+    "code": "75.04.042.015",
+    "villageCode": "015",
+    "districtCode": "75.04.042",
+    "name": "Mootayu",
+    "alias": "Mootayu"
+  },
+  {
+    "code": "75.04.042.016",
+    "villageCode": "016",
+    "districtCode": "75.04.042",
+    "name": "Pelita Jaya",
+    "alias": "Pelita Jaya"
+  },
+  {
+    "code": "75.04.042.017",
+    "villageCode": "017",
+    "districtCode": "75.04.042",
+    "name": "Laut Biru",
+    "alias": "Laut Biru"
+  },
+  {
+    "code": "75.04.042.018",
+    "villageCode": "018",
+    "districtCode": "75.04.042",
+    "name": "Alo",
+    "alias": "Alo"
+  },
+  {
+    "code": "75.04.042.019",
+    "villageCode": "019",
+    "districtCode": "75.04.042",
+    "name": "Moopiya",
+    "alias": "Moopiya"
+  },
+  {
+    "code": "75.04.042.020",
+    "villageCode": "020",
+    "districtCode": "75.04.042",
+    "name": "Bunga",
+    "alias": "Bunga"
+  },
+  {
+    "code": "75.04.042.021",
+    "villageCode": "021",
+    "districtCode": "75.04.042",
+    "name": "Mootawa",
+    "alias": "Mootawa"
+  }
+]

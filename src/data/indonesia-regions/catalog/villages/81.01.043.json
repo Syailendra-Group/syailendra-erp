@@ -1,0 +1,51 @@
+[
+  {
+    "code": "81.01.043.001",
+    "villageCode": "001",
+    "districtCode": "81.01.043",
+    "name": "Werain",
+    "alias": "Werain"
+  },
+  {
+    "code": "81.01.043.002",
+    "villageCode": "002",
+    "districtCode": "81.01.043",
+    "name": "Fursui",
+    "alias": "Fursui"
+  },
+  {
+    "code": "81.01.043.003",
+    "villageCode": "003",
+    "districtCode": "81.01.043",
+    "name": "Lingat",
+    "alias": "Lingat"
+  },
+  {
+    "code": "81.01.043.004",
+    "villageCode": "004",
+    "districtCode": "81.01.043",
+    "name": "Kandar",
+    "alias": "Kandar"
+  },
+  {
+    "code": "81.01.043.005",
+    "villageCode": "005",
+    "districtCode": "81.01.043",
+    "name": "Namtabung",
+    "alias": "Namtabung"
+  },
+  {
+    "code": "81.01.043.006",
+    "villageCode": "006",
+    "districtCode": "81.01.043",
+    "name": "Adaut",
+    "alias": "Adaut"
+  },
+  {
+    "code": "81.01.043.007",
+    "villageCode": "007",
+    "districtCode": "81.01.043",
+    "name": "Eliasa",
+    "alias": "Eliasa"
+  }
+]

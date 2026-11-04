@@ -1,0 +1,79 @@
+[
+  {
+    "code": "53.10.041.001",
+    "villageCode": "001",
+    "districtCode": "53.10.041",
+    "name": "Pogon",
+    "alias": "Pogon"
+  },
+  {
+    "code": "53.10.041.002",
+    "villageCode": "002",
+    "districtCode": "53.10.041",
+    "name": "Aibura",
+    "alias": "Aibura"
+  },
+  {
+    "code": "53.10.041.003",
+    "villageCode": "003",
+    "districtCode": "53.10.041",
+    "name": "Wairbleler",
+    "alias": "Wairbleler"
+  },
+  {
+    "code": "53.10.041.004",
+    "villageCode": "004",
+    "districtCode": "53.10.041",
+    "name": "Hoder",
+    "alias": "Hoder"
+  },
+  {
+    "code": "53.10.041.005",
+    "villageCode": "005",
+    "districtCode": "53.10.041",
+    "name": "Egon",
+    "alias": "Egon"
+  },
+  {
+    "code": "53.10.041.006",
+    "villageCode": "006",
+    "districtCode": "53.10.041",
+    "name": "Nangatobong",
+    "alias": "Nangatobong"
+  },
+  {
+    "code": "53.10.041.007",
+    "villageCode": "007",
+    "districtCode": "53.10.041",
+    "name": "Wairterang",
+    "alias": "Wairterang"
+  },
+  {
+    "code": "53.10.041.008",
+    "villageCode": "008",
+    "districtCode": "53.10.041",
+    "name": "Watudiran",
+    "alias": "Watudiran"
+  },
+  {
+    "code": "53.10.041.009",
+    "villageCode": "009",
+    "districtCode": "53.10.041",
+    "name": "Runut",
+    "alias": "Runut"
+  },
+  {
+    "code": "53.10.041.010",
+    "villageCode": "010",
+    "districtCode": "53.10.041",
+    "name": "Mahe Kelan",
+    "alias": "Mahe Kelan"
+  },
+  {
+    "code": "53.10.041.011",
+    "villageCode": "011",
+    "districtCode": "53.10.041",
+    "name": "Egon Buluk",
+    "alias": "Egon Buluk"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "code": "65.01.110.001",
+    "villageCode": "001",
+    "districtCode": "65.01.110",
+    "name": "Harapan Maju",
+    "alias": "Harapan Maju"
+  },
+  {
+    "code": "65.01.110.002",
+    "villageCode": "002",
+    "districtCode": "65.01.110",
+    "name": "Paking",
+    "alias": "Paking"
+  },
+  {
+    "code": "65.01.110.004",
+    "villageCode": "004",
+    "districtCode": "65.01.110",
+    "name": "Mentarang Baru",
+    "alias": "Mentarang Baru"
+  },
+  {
+    "code": "65.01.110.005",
+    "villageCode": "005",
+    "districtCode": "65.01.110",
+    "name": "Long Bisai",
+    "alias": "Long Bisai"
+  },
+  {
+    "code": "65.01.110.008",
+    "villageCode": "008",
+    "districtCode": "65.01.110",
+    "name": "Lidung Kemenci",
+    "alias": "Lidung Kemenci"
+  },
+  {
+    "code": "65.01.110.009",
+    "villageCode": "009",
+    "districtCode": "65.01.110",
+    "name": "Pulau Sapi",
+    "alias": "Pulau Sapi"
+  }
+]

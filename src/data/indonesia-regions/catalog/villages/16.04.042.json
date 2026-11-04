@@ -1,0 +1,100 @@
+[
+  {
+    "code": "16.04.042.001",
+    "villageCode": "001",
+    "districtCode": "16.04.042",
+    "name": "Tanjung Nibung",
+    "alias": "Tanjung Nibung"
+  },
+  {
+    "code": "16.04.042.002",
+    "villageCode": "002",
+    "districtCode": "16.04.042",
+    "name": "Tanjung Bai",
+    "alias": "Tanjung Bai"
+  },
+  {
+    "code": "16.04.042.003",
+    "villageCode": "003",
+    "districtCode": "16.04.042",
+    "name": "Tanjung Baru",
+    "alias": "Tanjung Baru"
+  },
+  {
+    "code": "16.04.042.004",
+    "villageCode": "004",
+    "districtCode": "16.04.042",
+    "name": "Tanjung Kurung Ulu",
+    "alias": "Tanjung Kurung Ulu"
+  },
+  {
+    "code": "16.04.042.005",
+    "villageCode": "005",
+    "districtCode": "16.04.042",
+    "name": "Tanjung Kurung Ilir",
+    "alias": "Tanjung Kurung Ilir"
+  },
+  {
+    "code": "16.04.042.006",
+    "villageCode": "006",
+    "districtCode": "16.04.042",
+    "name": "Padang Perigi",
+    "alias": "Padang Perigi"
+  },
+  {
+    "code": "16.04.042.007",
+    "villageCode": "007",
+    "districtCode": "16.04.042",
+    "name": "Air Dingin Lama",
+    "alias": "Air Dingin Lama"
+  },
+  {
+    "code": "16.04.042.008",
+    "villageCode": "008",
+    "districtCode": "16.04.042",
+    "name": "Air Dingin Baru",
+    "alias": "Air Dingin Baru"
+  },
+  {
+    "code": "16.04.042.009",
+    "villageCode": "009",
+    "districtCode": "16.04.042",
+    "name": "Tanjung Tebat",
+    "alias": "Tanjung Tebat"
+  },
+  {
+    "code": "16.04.042.010",
+    "villageCode": "010",
+    "districtCode": "16.04.042",
+    "name": "Pandan Arang Ilir",
+    "alias": "Pandan Arang Ilir"
+  },
+  {
+    "code": "16.04.042.011",
+    "villageCode": "011",
+    "districtCode": "16.04.042",
+    "name": "Muara Danau",
+    "alias": "Muara Danau"
+  },
+  {
+    "code": "16.04.042.012",
+    "villageCode": "012",
+    "districtCode": "16.04.042",
+    "name": "Talang Jawa",
+    "alias": "Talang Jawa"
+  },
+  {
+    "code": "16.04.042.013",
+    "villageCode": "013",
+    "districtCode": "16.04.042",
+    "name": "Tanjung Raya",
+    "alias": "Tanjung Raya"
+  },
+  {
+    "code": "16.04.042.014",
+    "villageCode": "014",
+    "districtCode": "16.04.042",
+    "name": "Tanjung Menang",
+    "alias": "Tanjung Menang"
+  }
+]

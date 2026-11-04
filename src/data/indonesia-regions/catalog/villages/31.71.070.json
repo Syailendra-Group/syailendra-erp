@@ -1,0 +1,37 @@
+[
+  {
+    "code": "31.71.070.001",
+    "villageCode": "001",
+    "districtCode": "31.71.070",
+    "name": "Bangka",
+    "alias": "Bangka"
+  },
+  {
+    "code": "31.71.070.002",
+    "villageCode": "002",
+    "districtCode": "31.71.070",
+    "name": "Pela Mampang",
+    "alias": "Pela Mampang"
+  },
+  {
+    "code": "31.71.070.003",
+    "villageCode": "003",
+    "districtCode": "31.71.070",
+    "name": "Tegal Parang",
+    "alias": "Tegal Parang"
+  },
+  {
+    "code": "31.71.070.004",
+    "villageCode": "004",
+    "districtCode": "31.71.070",
+    "name": "Mampang Prapatan",
+    "alias": "Mampang Prapatan"
+  },
+  {
+    "code": "31.71.070.005",
+    "villageCode": "005",
+    "districtCode": "31.71.070",
+    "name": "Kuningan Barat",
+    "alias": "Kuningan Barat"
+  }
+]

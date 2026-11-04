@@ -1,0 +1,86 @@
+[
+  {
+    "code": "94.03.150.002",
+    "villageCode": "002",
+    "districtCode": "94.03.150",
+    "name": "Nembugresi",
+    "alias": "Nembugresi"
+  },
+  {
+    "code": "94.03.150.003",
+    "villageCode": "003",
+    "districtCode": "94.03.150",
+    "name": "Ibub",
+    "alias": "Ibub"
+  },
+  {
+    "code": "94.03.150.004",
+    "villageCode": "004",
+    "districtCode": "94.03.150",
+    "name": "Hatib",
+    "alias": "Hatib"
+  },
+  {
+    "code": "94.03.150.005",
+    "villageCode": "005",
+    "districtCode": "94.03.150",
+    "name": "Bring",
+    "alias": "Bring"
+  },
+  {
+    "code": "94.03.150.006",
+    "villageCode": "006",
+    "districtCode": "94.03.150",
+    "name": "Pupehabu",
+    "alias": "Pupehabu"
+  },
+  {
+    "code": "94.03.150.007",
+    "villageCode": "007",
+    "districtCode": "94.03.150",
+    "name": "Damoi Kati",
+    "alias": "Damoi Kati"
+  },
+  {
+    "code": "94.03.150.008",
+    "villageCode": "008",
+    "districtCode": "94.03.150",
+    "name": "Demetim",
+    "alias": "Demetim"
+  },
+  {
+    "code": "94.03.150.009",
+    "villageCode": "009",
+    "districtCode": "94.03.150",
+    "name": "Yanbra",
+    "alias": "Yanbra"
+  },
+  {
+    "code": "94.03.150.010",
+    "villageCode": "010",
+    "districtCode": "94.03.150",
+    "name": "Braso",
+    "alias": "Braso"
+  },
+  {
+    "code": "94.03.150.012",
+    "villageCode": "012",
+    "districtCode": "94.03.150",
+    "name": "Hyansip",
+    "alias": "Hyansip"
+  },
+  {
+    "code": "94.03.150.013",
+    "villageCode": "013",
+    "districtCode": "94.03.150",
+    "name": "Jagrang",
+    "alias": "Jagrang"
+  },
+  {
+    "code": "94.03.150.015",
+    "villageCode": "015",
+    "districtCode": "94.03.150",
+    "name": "Swentab",
+    "alias": "Swentab"
+  }
+]

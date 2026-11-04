@@ -1,0 +1,93 @@
+[
+  {
+    "code": "12.10.110.001",
+    "villageCode": "001",
+    "districtCode": "12.10.110",
+    "name": "Tanjung Saluksuk",
+    "alias": "Tanjung Saluksuk"
+  },
+  {
+    "code": "12.10.110.002",
+    "villageCode": "002",
+    "districtCode": "12.10.110",
+    "name": "Simanduma",
+    "alias": "Simanduma"
+  },
+  {
+    "code": "12.10.110.003",
+    "villageCode": "003",
+    "districtCode": "12.10.110",
+    "name": "Bandar Huta Usang",
+    "alias": "Bandar Huta Usang"
+  },
+  {
+    "code": "12.10.110.004",
+    "villageCode": "004",
+    "districtCode": "12.10.110",
+    "name": "Lingga Raja",
+    "alias": "Lingga Raja"
+  },
+  {
+    "code": "12.10.110.005",
+    "villageCode": "005",
+    "districtCode": "12.10.110",
+    "name": "Onan Lama",
+    "alias": "Onan Lama"
+  },
+  {
+    "code": "12.10.110.006",
+    "villageCode": "006",
+    "districtCode": "12.10.110",
+    "name": "Bukit Tinggi",
+    "alias": "Bukit Tinggi"
+  },
+  {
+    "code": "12.10.110.007",
+    "villageCode": "007",
+    "districtCode": "12.10.110",
+    "name": "Laksa",
+    "alias": "Laksa"
+  },
+  {
+    "code": "12.10.110.008",
+    "villageCode": "008",
+    "districtCode": "12.10.110",
+    "name": "Simartugan",
+    "alias": "Simartugan"
+  },
+  {
+    "code": "12.10.110.009",
+    "villageCode": "009",
+    "districtCode": "12.10.110",
+    "name": "Perik Mbue",
+    "alias": "Perik Mbue"
+  },
+  {
+    "code": "12.10.110.010",
+    "villageCode": "010",
+    "districtCode": "12.10.110",
+    "name": "Lingga Raja Ii",
+    "alias": "Lingga Raja Ii"
+  },
+  {
+    "code": "12.10.110.011",
+    "villageCode": "011",
+    "districtCode": "12.10.110",
+    "name": "Bukit Baru",
+    "alias": "Bukit Baru"
+  },
+  {
+    "code": "12.10.110.012",
+    "villageCode": "012",
+    "districtCode": "12.10.110",
+    "name": "Mbinanga",
+    "alias": "Mbinanga"
+  },
+  {
+    "code": "12.10.110.013",
+    "villageCode": "013",
+    "districtCode": "12.10.110",
+    "name": "Kuta Usang",
+    "alias": "Kuta Usang"
+  }
+]

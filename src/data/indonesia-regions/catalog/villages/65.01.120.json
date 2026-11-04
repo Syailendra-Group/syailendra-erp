@@ -1,0 +1,72 @@
+[
+  {
+    "code": "65.01.120.001",
+    "villageCode": "001",
+    "districtCode": "65.01.120",
+    "name": "Lung Semamu",
+    "alias": "Lung Semamu"
+  },
+  {
+    "code": "65.01.120.002",
+    "villageCode": "002",
+    "districtCode": "65.01.120",
+    "name": "Lung Barang",
+    "alias": "Lung Barang"
+  },
+  {
+    "code": "65.01.120.003",
+    "villageCode": "003",
+    "districtCode": "65.01.120",
+    "name": "Lung Simau",
+    "alias": "Lung Simau"
+  },
+  {
+    "code": "65.01.120.004",
+    "villageCode": "004",
+    "districtCode": "65.01.120",
+    "name": "Lung Fala",
+    "alias": "Lung Fala"
+  },
+  {
+    "code": "65.01.120.005",
+    "villageCode": "005",
+    "districtCode": "65.01.120",
+    "name": "Lung Mekatip",
+    "alias": "Lung Mekatip"
+  },
+  {
+    "code": "65.01.120.006",
+    "villageCode": "006",
+    "districtCode": "65.01.120",
+    "name": "Lung Kebinu",
+    "alias": "Lung Kebinu"
+  },
+  {
+    "code": "65.01.120.007",
+    "villageCode": "007",
+    "districtCode": "65.01.120",
+    "name": "Lung Sulit",
+    "alias": "Lung Sulit"
+  },
+  {
+    "code": "65.01.120.008",
+    "villageCode": "008",
+    "districtCode": "65.01.120",
+    "name": "Long Gafid",
+    "alias": "Long Gafid"
+  },
+  {
+    "code": "65.01.120.009",
+    "villageCode": "009",
+    "districtCode": "65.01.120",
+    "name": "Long Liku",
+    "alias": "Long Liku"
+  },
+  {
+    "code": "65.01.120.010",
+    "villageCode": "010",
+    "districtCode": "65.01.120",
+    "name": "Temalang",
+    "alias": "Temalang"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "code": "71.02.091.005",
+    "villageCode": "005",
+    "districtCode": "71.02.091",
+    "name": "Teep",
+    "alias": "Teep"
+  },
+  {
+    "code": "71.02.091.007",
+    "villageCode": "007",
+    "districtCode": "71.02.091",
+    "name": "Wolaang",
+    "alias": "Wolaang"
+  },
+  {
+    "code": "71.02.091.008",
+    "villageCode": "008",
+    "districtCode": "71.02.091",
+    "name": "Waleure",
+    "alias": "Waleure"
+  },
+  {
+    "code": "71.02.091.009",
+    "villageCode": "009",
+    "districtCode": "71.02.091",
+    "name": "Amongena Ii",
+    "alias": "Amongena Ii"
+  },
+  {
+    "code": "71.02.091.010",
+    "villageCode": "010",
+    "districtCode": "71.02.091",
+    "name": "Amongena I",
+    "alias": "Amongena I"
+  },
+  {
+    "code": "71.02.091.011",
+    "villageCode": "011",
+    "districtCode": "71.02.091",
+    "name": "Karondoran",
+    "alias": "Karondoran"
+  },
+  {
+    "code": "71.02.091.012",
+    "villageCode": "012",
+    "districtCode": "71.02.091",
+    "name": "Sumarayar",
+    "alias": "Sumarayar"
+  },
+  {
+    "code": "71.02.091.013",
+    "villageCode": "013",
+    "districtCode": "71.02.091",
+    "name": "Amongena Iii",
+    "alias": "Amongena Iii"
+  }
+]

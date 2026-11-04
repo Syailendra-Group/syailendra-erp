@@ -1,0 +1,65 @@
+[
+  {
+    "code": "17.06.021.001",
+    "villageCode": "001",
+    "districtCode": "17.06.021",
+    "name": "Padang Gading",
+    "alias": "Padang Gading"
+  },
+  {
+    "code": "17.06.021.002",
+    "villageCode": "002",
+    "districtCode": "17.06.021",
+    "name": "Retak Mudik",
+    "alias": "Retak Mudik"
+  },
+  {
+    "code": "17.06.021.003",
+    "villageCode": "003",
+    "districtCode": "17.06.021",
+    "name": "Mekar Sari",
+    "alias": "Mekar Sari"
+  },
+  {
+    "code": "17.06.021.004",
+    "villageCode": "004",
+    "districtCode": "17.06.021",
+    "name": "Gajah Mati",
+    "alias": "Gajah Mati"
+  },
+  {
+    "code": "17.06.021.005",
+    "villageCode": "005",
+    "districtCode": "17.06.021",
+    "name": "Sumber Makmur",
+    "alias": "Sumber Makmur"
+  },
+  {
+    "code": "17.06.021.006",
+    "villageCode": "006",
+    "districtCode": "17.06.021",
+    "name": "Talang Gading",
+    "alias": "Talang Gading"
+  },
+  {
+    "code": "17.06.021.007",
+    "villageCode": "007",
+    "districtCode": "17.06.021",
+    "name": "Sido Dadi",
+    "alias": "Sido Dadi"
+  },
+  {
+    "code": "17.06.021.008",
+    "villageCode": "008",
+    "districtCode": "17.06.021",
+    "name": "Gading Jaya",
+    "alias": "Gading Jaya"
+  },
+  {
+    "code": "17.06.021.009",
+    "villageCode": "009",
+    "districtCode": "17.06.021",
+    "name": "Banjar Sari",
+    "alias": "Banjar Sari"
+  }
+]

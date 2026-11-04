@@ -1,0 +1,72 @@
+[
+  {
+    "code": "73.10.020.001",
+    "villageCode": "001",
+    "districtCode": "73.10.020",
+    "name": "Lasitae",
+    "alias": "Lasitae"
+  },
+  {
+    "code": "73.10.020.002",
+    "villageCode": "002",
+    "districtCode": "73.10.020",
+    "name": "Pancana",
+    "alias": "Pancana"
+  },
+  {
+    "code": "73.10.020.003",
+    "villageCode": "003",
+    "districtCode": "73.10.020",
+    "name": "Lalabata",
+    "alias": "Lalabata"
+  },
+  {
+    "code": "73.10.020.004",
+    "villageCode": "004",
+    "districtCode": "73.10.020",
+    "name": "Corawali",
+    "alias": "Corawali"
+  },
+  {
+    "code": "73.10.020.005",
+    "villageCode": "005",
+    "districtCode": "73.10.020",
+    "name": "Pao-Pao",
+    "alias": "Pao-Pao"
+  },
+  {
+    "code": "73.10.020.006",
+    "villageCode": "006",
+    "districtCode": "73.10.020",
+    "name": "Tellumpanua",
+    "alias": "Tellumpanua"
+  },
+  {
+    "code": "73.10.020.007",
+    "villageCode": "007",
+    "districtCode": "73.10.020",
+    "name": "Lalolang",
+    "alias": "Lalolang"
+  },
+  {
+    "code": "73.10.020.008",
+    "villageCode": "008",
+    "districtCode": "73.10.020",
+    "name": "Tanete",
+    "alias": "Tanete"
+  },
+  {
+    "code": "73.10.020.009",
+    "villageCode": "009",
+    "districtCode": "73.10.020",
+    "name": "Lipukasi",
+    "alias": "Lipukasi"
+  },
+  {
+    "code": "73.10.020.010",
+    "villageCode": "010",
+    "districtCode": "73.10.020",
+    "name": "Garessi",
+    "alias": "Garessi"
+  }
+]

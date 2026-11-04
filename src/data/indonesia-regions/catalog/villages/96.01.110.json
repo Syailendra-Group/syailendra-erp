@@ -1,0 +1,51 @@
+[
+  {
+    "code": "96.01.110.001",
+    "villageCode": "001",
+    "districtCode": "96.01.110",
+    "name": "Kamoro Jaya",
+    "alias": "Kamoro Jaya"
+  },
+  {
+    "code": "96.01.110.002",
+    "villageCode": "002",
+    "districtCode": "96.01.110",
+    "name": "Monokau Jaya",
+    "alias": "Monokau Jaya"
+  },
+  {
+    "code": "96.01.110.003",
+    "villageCode": "003",
+    "districtCode": "96.01.110",
+    "name": "Wonosari Jaya",
+    "alias": "Wonosari Jaya"
+  },
+  {
+    "code": "96.01.110.004",
+    "villageCode": "004",
+    "districtCode": "96.01.110",
+    "name": "Mandiri Jaya",
+    "alias": "Mandiri Jaya"
+  },
+  {
+    "code": "96.01.110.005",
+    "villageCode": "005",
+    "districtCode": "96.01.110",
+    "name": "Inauga",
+    "alias": "Inauga"
+  },
+  {
+    "code": "96.01.110.006",
+    "villageCode": "006",
+    "districtCode": "96.01.110",
+    "name": "Nawaripi",
+    "alias": "Nawaripi"
+  },
+  {
+    "code": "96.01.110.007",
+    "villageCode": "007",
+    "districtCode": "96.01.110",
+    "name": "Kadun Jaya",
+    "alias": "Kadun Jaya"
+  }
+]

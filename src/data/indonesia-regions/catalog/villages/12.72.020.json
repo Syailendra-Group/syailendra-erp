@@ -1,0 +1,44 @@
+[
+  {
+    "code": "12.72.020.001",
+    "villageCode": "001",
+    "districtCode": "12.72.020",
+    "name": "Tanjung Balai Kota Ii",
+    "alias": "Tanjung Balai Kota Ii"
+  },
+  {
+    "code": "12.72.020.002",
+    "villageCode": "002",
+    "districtCode": "12.72.020",
+    "name": "Tanjung Balai Kota I",
+    "alias": "Tanjung Balai Kota I"
+  },
+  {
+    "code": "12.72.020.003",
+    "villageCode": "003",
+    "districtCode": "12.72.020",
+    "name": "Karya",
+    "alias": "Karya"
+  },
+  {
+    "code": "12.72.020.004",
+    "villageCode": "004",
+    "districtCode": "12.72.020",
+    "name": "Perwira",
+    "alias": "Perwira"
+  },
+  {
+    "code": "12.72.020.005",
+    "villageCode": "005",
+    "districtCode": "12.72.020",
+    "name": "Indra Sakti",
+    "alias": "Indra Sakti"
+  },
+  {
+    "code": "12.72.020.006",
+    "villageCode": "006",
+    "districtCode": "12.72.020",
+    "name": "Pantai Burung",
+    "alias": "Pantai Burung"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "code": "73.18.031.001",
+    "villageCode": "001",
+    "districtCode": "73.18.031",
+    "name": "Lembang Batualu Selatan",
+    "alias": "Lembang Batualu Selatan"
+  },
+  {
+    "code": "73.18.031.002",
+    "villageCode": "002",
+    "districtCode": "73.18.031",
+    "name": "Lembang Batualu",
+    "alias": "Lembang Batualu"
+  },
+  {
+    "code": "73.18.031.003",
+    "villageCode": "003",
+    "districtCode": "73.18.031",
+    "name": "Kelurahan Rante Alang",
+    "alias": "Kelurahan Rante Alang"
+  },
+  {
+    "code": "73.18.031.004",
+    "villageCode": "004",
+    "districtCode": "73.18.031",
+    "name": "Lembang Tokesan",
+    "alias": "Lembang Tokesan"
+  },
+  {
+    "code": "73.18.031.005",
+    "villageCode": "005",
+    "districtCode": "73.18.031",
+    "name": "Lembang Raru Sibunuan",
+    "alias": "Lembang Raru Sibunuan"
+  }
+]

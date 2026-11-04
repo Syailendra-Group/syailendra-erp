@@ -1,0 +1,72 @@
+[
+  {
+    "code": "32.09.101.001",
+    "villageCode": "001",
+    "districtCode": "32.09.101",
+    "name": "Gumulung Lebak",
+    "alias": "Gumulung Lebak"
+  },
+  {
+    "code": "32.09.101.002",
+    "villageCode": "002",
+    "districtCode": "32.09.101",
+    "name": "Lebak Mekar",
+    "alias": "Lebak Mekar"
+  },
+  {
+    "code": "32.09.101.003",
+    "villageCode": "003",
+    "districtCode": "32.09.101",
+    "name": "Gumulung Tonggoh",
+    "alias": "Gumulung Tonggoh"
+  },
+  {
+    "code": "32.09.101.005",
+    "villageCode": "005",
+    "districtCode": "32.09.101",
+    "name": "Kamarang",
+    "alias": "Kamarang"
+  },
+  {
+    "code": "32.09.101.006",
+    "villageCode": "006",
+    "districtCode": "32.09.101",
+    "name": "Greged",
+    "alias": "Greged"
+  },
+  {
+    "code": "32.09.101.007",
+    "villageCode": "007",
+    "districtCode": "32.09.101",
+    "name": "Kamarang Lebak",
+    "alias": "Kamarang Lebak"
+  },
+  {
+    "code": "32.09.101.014",
+    "villageCode": "014",
+    "districtCode": "32.09.101",
+    "name": "Durajaya",
+    "alias": "Durajaya"
+  },
+  {
+    "code": "32.09.101.015",
+    "villageCode": "015",
+    "districtCode": "32.09.101",
+    "name": "Jatipancur",
+    "alias": "Jatipancur"
+  },
+  {
+    "code": "32.09.101.016",
+    "villageCode": "016",
+    "districtCode": "32.09.101",
+    "name": "Sindang Kempeng",
+    "alias": "Sindang Kempeng"
+  },
+  {
+    "code": "32.09.101.017",
+    "villageCode": "017",
+    "districtCode": "32.09.101",
+    "name": "Nanggela",
+    "alias": "Nanggela"
+  }
+]

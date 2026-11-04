@@ -2,7 +2,6 @@
 
 import { ActionButton } from '@/components/button/action-button'
 import { DataTableColumnHeader } from '@/components/data-table/column-header'
-import { StatusBadge } from '@/components/shared/status-badge'
 
 import type { RegencyRecord } from '@/types/others/regency'
 import type { ColumnDef } from '@tanstack/react-table'
@@ -12,10 +11,9 @@ export interface GetColumnsOptions {
   tCommon: (key: string) => string
   onView: (item: RegencyRecord) => void
   onEdit: (regency: RegencyRecord) => void
-  onArchive: (regency: RegencyRecord) => void
 }
 
-export function getColumns({ t, tCommon, onEdit, onArchive }: GetColumnsOptions): ColumnDef<RegencyRecord>[] {
+export function getColumns({ t, tCommon, onView, onEdit }: GetColumnsOptions): ColumnDef<RegencyRecord>[] {
   return [
     {
       accessorKey: 'code',
@@ -30,19 +28,25 @@ export function getColumns({ t, tCommon, onEdit, onArchive }: GetColumnsOptions)
       enableSorting: true
     },
     {
+      accessorKey: 'alias',
+      header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.alias')} />,
+      cell: ({ row }) => <span className="text-muted-foreground text-xs">{row.original.alias || '-'}</span>,
+      enableSorting: true
+    },
+    {
       accessorKey: 'state_id',
-      header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.state')} />,
+      header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.province')} />,
       cell: ({ row }) => {
         const state = row.original.state_id
         return <span className="text-foreground text-xs font-medium">{state ? state[1] : '-'}</span>
       }
     },
     {
-      accessorKey: 'active',
-      header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.status')} />,
+      accessorKey: 'country_id',
+      header: ({ column }) => <DataTableColumnHeader column={column} title="Negara" />,
       cell: ({ row }) => {
-        const active = row.original.active
-        return <StatusBadge variant={active ? 'success' : 'neutral'}>{active ? tCommon('status.active') : tCommon('status.archived')}</StatusBadge>
+        const country = row.original.country_id
+        return <span className="text-foreground text-xs font-medium">{country ? country[1] : '-'}</span>
       }
     },
     {
@@ -52,13 +56,8 @@ export function getColumns({ t, tCommon, onEdit, onArchive }: GetColumnsOptions)
         const item = row.original
         return (
           <div className="flex items-center justify-center gap-1">
-            <ActionButton variant="view" label={tCommon('actions.view')} href={`/others/regencies/${item.id}`} />
+            <ActionButton variant="view" label={tCommon('actions.view')} onClick={() => onView(item)} />
             <ActionButton variant="edit" label={tCommon('actions.edit')} onClick={() => onEdit(item)} />
-            <ActionButton
-              variant={item.active ? 'archive' : 'restore'}
-              label={item.active ? tCommon('actions.archive') : tCommon('actions.restore')}
-              onClick={() => onArchive(item)}
-            />
           </div>
         )
       }

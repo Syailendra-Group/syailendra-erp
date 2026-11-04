@@ -1,0 +1,58 @@
+[
+  {
+    "code": "94.28.050.001",
+    "villageCode": "001",
+    "districtCode": "94.28.050",
+    "name": "Danau Bira",
+    "alias": "Danau Bira"
+  },
+  {
+    "code": "94.28.050.002",
+    "villageCode": "002",
+    "districtCode": "94.28.050",
+    "name": "Burmeso",
+    "alias": "Burmeso"
+  },
+  {
+    "code": "94.28.050.004",
+    "villageCode": "004",
+    "districtCode": "94.28.050",
+    "name": "Kasonaweja",
+    "alias": "Kasonaweja"
+  },
+  {
+    "code": "94.28.050.005",
+    "villageCode": "005",
+    "districtCode": "94.28.050",
+    "name": "Namunaweja",
+    "alias": "Namunaweja"
+  },
+  {
+    "code": "94.28.050.006",
+    "villageCode": "006",
+    "districtCode": "94.28.050",
+    "name": "Anggreso",
+    "alias": "Anggreso"
+  },
+  {
+    "code": "94.28.050.011",
+    "villageCode": "011",
+    "districtCode": "94.28.050",
+    "name": "Marine Valen",
+    "alias": "Marine Valen"
+  },
+  {
+    "code": "94.28.050.017",
+    "villageCode": "017",
+    "districtCode": "94.28.050",
+    "name": "Kwerba",
+    "alias": "Kwerba"
+  },
+  {
+    "code": "94.28.050.018",
+    "villageCode": "018",
+    "districtCode": "94.28.050",
+    "name": "Muaramarei",
+    "alias": "Muaramarei"
+  }
+]

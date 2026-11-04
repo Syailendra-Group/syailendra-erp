@@ -1,0 +1,44 @@
+[
+  {
+    "code": "73.73.020.003",
+    "villageCode": "003",
+    "districtCode": "73.73.020",
+    "name": "Amassangan",
+    "alias": "Amassangan"
+  },
+  {
+    "code": "73.73.020.004",
+    "villageCode": "004",
+    "districtCode": "73.73.020",
+    "name": "Tompotikka",
+    "alias": "Tompotikka"
+  },
+  {
+    "code": "73.73.020.005",
+    "villageCode": "005",
+    "districtCode": "73.73.020",
+    "name": "Lagaligo",
+    "alias": "Lagaligo"
+  },
+  {
+    "code": "73.73.020.006",
+    "villageCode": "006",
+    "districtCode": "73.73.020",
+    "name": "Boting",
+    "alias": "Boting"
+  },
+  {
+    "code": "73.73.020.007",
+    "villageCode": "007",
+    "districtCode": "73.73.020",
+    "name": "Dangerakko",
+    "alias": "Dangerakko"
+  },
+  {
+    "code": "73.73.020.008",
+    "villageCode": "008",
+    "districtCode": "73.73.020",
+    "name": "Pajalesang",
+    "alias": "Pajalesang"
+  }
+]

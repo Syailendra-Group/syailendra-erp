@@ -1,0 +1,72 @@
+[
+  {
+    "code": "33.28.110.001",
+    "villageCode": "001",
+    "districtCode": "33.28.110",
+    "name": "Slarang Lor",
+    "alias": "Slarang Lor"
+  },
+  {
+    "code": "33.28.110.002",
+    "villageCode": "002",
+    "districtCode": "33.28.110",
+    "name": "Selapura",
+    "alias": "Selapura"
+  },
+  {
+    "code": "33.28.110.003",
+    "villageCode": "003",
+    "districtCode": "33.28.110",
+    "name": "Blubuk",
+    "alias": "Blubuk"
+  },
+  {
+    "code": "33.28.110.004",
+    "villageCode": "004",
+    "districtCode": "33.28.110",
+    "name": "Dukuhwaru",
+    "alias": "Dukuhwaru"
+  },
+  {
+    "code": "33.28.110.005",
+    "villageCode": "005",
+    "districtCode": "33.28.110",
+    "name": "Gumayun",
+    "alias": "Gumayun"
+  },
+  {
+    "code": "33.28.110.006",
+    "villageCode": "006",
+    "districtCode": "33.28.110",
+    "name": "Kabunan",
+    "alias": "Kabunan"
+  },
+  {
+    "code": "33.28.110.007",
+    "villageCode": "007",
+    "districtCode": "33.28.110",
+    "name": "Pedagangan",
+    "alias": "Pedagangan"
+  },
+  {
+    "code": "33.28.110.008",
+    "villageCode": "008",
+    "districtCode": "33.28.110",
+    "name": "Kalisoka",
+    "alias": "Kalisoka"
+  },
+  {
+    "code": "33.28.110.009",
+    "villageCode": "009",
+    "districtCode": "33.28.110",
+    "name": "Sindang",
+    "alias": "Sindang"
+  },
+  {
+    "code": "33.28.110.010",
+    "villageCode": "010",
+    "districtCode": "33.28.110",
+    "name": "Bulakpacing",
+    "alias": "Bulakpacing"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "code": "36.01.020.001",
+    "villageCode": "001",
+    "districtCode": "36.01.020",
+    "name": "Rancapinang",
+    "alias": "Rancapinang"
+  },
+  {
+    "code": "36.01.020.002",
+    "villageCode": "002",
+    "districtCode": "36.01.020",
+    "name": "Cibadak",
+    "alias": "Cibadak"
+  },
+  {
+    "code": "36.01.020.003",
+    "villageCode": "003",
+    "districtCode": "36.01.020",
+    "name": "Batuhideung",
+    "alias": "Batuhideung"
+  },
+  {
+    "code": "36.01.020.004",
+    "villageCode": "004",
+    "districtCode": "36.01.020",
+    "name": "Tugu",
+    "alias": "Tugu"
+  },
+  {
+    "code": "36.01.020.005",
+    "villageCode": "005",
+    "districtCode": "36.01.020",
+    "name": "Kramatjaya",
+    "alias": "Kramatjaya"
+  },
+  {
+    "code": "36.01.020.006",
+    "villageCode": "006",
+    "districtCode": "36.01.020",
+    "name": "Mangkualam",
+    "alias": "Mangkualam"
+  },
+  {
+    "code": "36.01.020.007",
+    "villageCode": "007",
+    "districtCode": "36.01.020",
+    "name": "Padasuka",
+    "alias": "Padasuka"
+  },
+  {
+    "code": "36.01.020.008",
+    "villageCode": "008",
+    "districtCode": "36.01.020",
+    "name": "Ciburial",
+    "alias": "Ciburial"
+  },
+  {
+    "code": "36.01.020.009",
+    "villageCode": "009",
+    "districtCode": "36.01.020",
+    "name": "Waringinkurung",
+    "alias": "Waringinkurung"
+  },
+  {
+    "code": "36.01.020.010",
+    "villageCode": "010",
+    "districtCode": "36.01.020",
+    "name": "Cijaralang",
+    "alias": "Cijaralang"
+  },
+  {
+    "code": "36.01.020.011",
+    "villageCode": "011",
+    "districtCode": "36.01.020",
+    "name": "Cimanggu",
+    "alias": "Cimanggu"
+  },
+  {
+    "code": "36.01.020.012",
+    "villageCode": "012",
+    "districtCode": "36.01.020",
+    "name": "Tangkilsari",
+    "alias": "Tangkilsari"
+  }
+]

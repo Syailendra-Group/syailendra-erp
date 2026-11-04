@@ -1,0 +1,114 @@
+[
+  {
+    "code": "62.05.020.001",
+    "villageCode": "001",
+    "districtCode": "62.05.020",
+    "name": "Malungai",
+    "alias": "Malungai"
+  },
+  {
+    "code": "62.05.020.002",
+    "villageCode": "002",
+    "districtCode": "62.05.020",
+    "name": "Rarawa",
+    "alias": "Rarawa"
+  },
+  {
+    "code": "62.05.020.003",
+    "villageCode": "003",
+    "districtCode": "62.05.020",
+    "name": "Ketapang",
+    "alias": "Ketapang"
+  },
+  {
+    "code": "62.05.020.004",
+    "villageCode": "004",
+    "districtCode": "62.05.020",
+    "name": "Walur",
+    "alias": "Walur"
+  },
+  {
+    "code": "62.05.020.005",
+    "villageCode": "005",
+    "districtCode": "62.05.020",
+    "name": "Baliti",
+    "alias": "Baliti"
+  },
+  {
+    "code": "62.05.020.006",
+    "villageCode": "006",
+    "districtCode": "62.05.020",
+    "name": "Majangkan",
+    "alias": "Majangkan"
+  },
+  {
+    "code": "62.05.020.007",
+    "villageCode": "007",
+    "districtCode": "62.05.020",
+    "name": "Kandui",
+    "alias": "Kandui"
+  },
+  {
+    "code": "62.05.020.008",
+    "villageCode": "008",
+    "districtCode": "62.05.020",
+    "name": "Payang Ara",
+    "alias": "Payang Ara"
+  },
+  {
+    "code": "62.05.020.009",
+    "villageCode": "009",
+    "districtCode": "62.05.020",
+    "name": "Jaman",
+    "alias": "Jaman"
+  },
+  {
+    "code": "62.05.020.010",
+    "villageCode": "010",
+    "districtCode": "62.05.020",
+    "name": "Pelari",
+    "alias": "Pelari"
+  },
+  {
+    "code": "62.05.020.011",
+    "villageCode": "011",
+    "districtCode": "62.05.020",
+    "name": "Sangkurang",
+    "alias": "Sangkurang"
+  },
+  {
+    "code": "62.05.020.012",
+    "villageCode": "012",
+    "districtCode": "62.05.020",
+    "name": "Siwau",
+    "alias": "Siwau"
+  },
+  {
+    "code": "62.05.020.013",
+    "villageCode": "013",
+    "districtCode": "62.05.020",
+    "name": "Tongka",
+    "alias": "Tongka"
+  },
+  {
+    "code": "62.05.020.014",
+    "villageCode": "014",
+    "districtCode": "62.05.020",
+    "name": "Batu Raya I",
+    "alias": "Batu Raya I"
+  },
+  {
+    "code": "62.05.020.015",
+    "villageCode": "015",
+    "districtCode": "62.05.020",
+    "name": "Baturaya Ii",
+    "alias": "Baturaya Ii"
+  },
+  {
+    "code": "62.05.020.016",
+    "villageCode": "016",
+    "districtCode": "62.05.020",
+    "name": "Tapen Raya",
+    "alias": "Tapen Raya"
+  }
+]

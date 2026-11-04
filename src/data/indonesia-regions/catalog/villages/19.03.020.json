@@ -1,0 +1,65 @@
+[
+  {
+    "code": "19.03.020.001",
+    "villageCode": "001",
+    "districtCode": "19.03.020",
+    "name": "Tanjung Niur",
+    "alias": "Tanjung Niur"
+  },
+  {
+    "code": "19.03.020.002",
+    "villageCode": "002",
+    "districtCode": "19.03.020",
+    "name": "Benteng Kota",
+    "alias": "Benteng Kota"
+  },
+  {
+    "code": "19.03.020.003",
+    "villageCode": "003",
+    "districtCode": "19.03.020",
+    "name": "Air Lintang",
+    "alias": "Air Lintang"
+  },
+  {
+    "code": "19.03.020.004",
+    "villageCode": "004",
+    "districtCode": "19.03.020",
+    "name": "Sinar Surya",
+    "alias": "Sinar Surya"
+  },
+  {
+    "code": "19.03.020.005",
+    "villageCode": "005",
+    "districtCode": "19.03.020",
+    "name": "Tempilang",
+    "alias": "Tempilang"
+  },
+  {
+    "code": "19.03.020.006",
+    "villageCode": "006",
+    "districtCode": "19.03.020",
+    "name": "Buyan Kelumbi",
+    "alias": "Buyan Kelumbi"
+  },
+  {
+    "code": "19.03.020.007",
+    "villageCode": "007",
+    "districtCode": "19.03.020",
+    "name": "Sangku",
+    "alias": "Sangku"
+  },
+  {
+    "code": "19.03.020.008",
+    "villageCode": "008",
+    "districtCode": "19.03.020",
+    "name": "Penyampak",
+    "alias": "Penyampak"
+  },
+  {
+    "code": "19.03.020.009",
+    "villageCode": "009",
+    "districtCode": "19.03.020",
+    "name": "Simpang Yul",
+    "alias": "Simpang Yul"
+  }
+]

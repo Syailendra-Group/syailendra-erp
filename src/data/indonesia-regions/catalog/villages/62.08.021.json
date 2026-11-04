@@ -1,0 +1,37 @@
+[
+  {
+    "code": "62.08.021.001",
+    "villageCode": "001",
+    "districtCode": "62.08.021",
+    "name": "Tabiku",
+    "alias": "Tabiku"
+  },
+  {
+    "code": "62.08.021.002",
+    "villageCode": "002",
+    "districtCode": "62.08.021",
+    "name": "Bangkal",
+    "alias": "Bangkal"
+  },
+  {
+    "code": "62.08.021.003",
+    "villageCode": "003",
+    "districtCode": "62.08.021",
+    "name": "Lanpasa",
+    "alias": "Lanpasa"
+  },
+  {
+    "code": "62.08.021.004",
+    "villageCode": "004",
+    "districtCode": "62.08.021",
+    "name": "Terawan",
+    "alias": "Terawan"
+  },
+  {
+    "code": "62.08.021.005",
+    "villageCode": "005",
+    "districtCode": "62.08.021",
+    "name": "Selunuk",
+    "alias": "Selunuk"
+  }
+]

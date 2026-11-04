@@ -1,0 +1,72 @@
+[
+  {
+    "code": "11.13.011.001",
+    "villageCode": "001",
+    "districtCode": "11.13.011",
+    "name": "Penosan",
+    "alias": "Penosan"
+  },
+  {
+    "code": "11.13.011.002",
+    "villageCode": "002",
+    "districtCode": "11.13.011",
+    "name": "Penosan Sepakat",
+    "alias": "Penosan Sepakat"
+  },
+  {
+    "code": "11.13.011.003",
+    "villageCode": "003",
+    "districtCode": "11.13.011",
+    "name": "Gegarang",
+    "alias": "Gegarang"
+  },
+  {
+    "code": "11.13.011.004",
+    "villageCode": "004",
+    "districtCode": "11.13.011",
+    "name": "Peparik Gaib",
+    "alias": "Peparik Gaib"
+  },
+  {
+    "code": "11.13.011.005",
+    "villageCode": "005",
+    "districtCode": "11.13.011",
+    "name": "Tingkem",
+    "alias": "Tingkem"
+  },
+  {
+    "code": "11.13.011.006",
+    "villageCode": "006",
+    "districtCode": "11.13.011",
+    "name": "Sekuelen",
+    "alias": "Sekuelen"
+  },
+  {
+    "code": "11.13.011.007",
+    "villageCode": "007",
+    "districtCode": "11.13.011",
+    "name": "Akul",
+    "alias": "Akul"
+  },
+  {
+    "code": "11.13.011.008",
+    "villageCode": "008",
+    "districtCode": "11.13.011",
+    "name": "Ketukah",
+    "alias": "Ketukah"
+  },
+  {
+    "code": "11.13.011.009",
+    "villageCode": "009",
+    "districtCode": "11.13.011",
+    "name": "Blang Jerango",
+    "alias": "Blang Jerango"
+  },
+  {
+    "code": "11.13.011.010",
+    "villageCode": "010",
+    "districtCode": "11.13.011",
+    "name": "Peparik Dekat",
+    "alias": "Peparik Dekat"
+  }
+]

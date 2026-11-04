@@ -1,0 +1,65 @@
+[
+  {
+    "code": "13.05.010.001",
+    "villageCode": "001",
+    "districtCode": "13.05.010",
+    "name": "Tambangan",
+    "alias": "Tambangan"
+  },
+  {
+    "code": "13.05.010.002",
+    "villageCode": "002",
+    "districtCode": "13.05.010",
+    "name": "Jaho",
+    "alias": "Jaho"
+  },
+  {
+    "code": "13.05.010.003",
+    "villageCode": "003",
+    "districtCode": "13.05.010",
+    "name": "Paninjauan",
+    "alias": "Paninjauan"
+  },
+  {
+    "code": "13.05.010.004",
+    "villageCode": "004",
+    "districtCode": "13.05.010",
+    "name": "Panyalaian",
+    "alias": "Panyalaian"
+  },
+  {
+    "code": "13.05.010.005",
+    "villageCode": "005",
+    "districtCode": "13.05.010",
+    "name": "Aie Angek",
+    "alias": "Aie Angek"
+  },
+  {
+    "code": "13.05.010.006",
+    "villageCode": "006",
+    "districtCode": "13.05.010",
+    "name": "Koto Baru",
+    "alias": "Koto Baru"
+  },
+  {
+    "code": "13.05.010.007",
+    "villageCode": "007",
+    "districtCode": "13.05.010",
+    "name": "Pandai Sikek",
+    "alias": "Pandai Sikek"
+  },
+  {
+    "code": "13.05.010.008",
+    "villageCode": "008",
+    "districtCode": "13.05.010",
+    "name": "Singgalang",
+    "alias": "Singgalang"
+  },
+  {
+    "code": "13.05.010.009",
+    "villageCode": "009",
+    "districtCode": "13.05.010",
+    "name": "Koto Laweh",
+    "alias": "Koto Laweh"
+  }
+]

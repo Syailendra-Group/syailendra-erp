@@ -1,0 +1,79 @@
+[
+  {
+    "code": "81.08.081.001",
+    "villageCode": "001",
+    "districtCode": "81.08.081",
+    "name": "Babyotang",
+    "alias": "Babyotang"
+  },
+  {
+    "code": "81.08.081.002",
+    "villageCode": "002",
+    "districtCode": "81.08.081",
+    "name": "Iblatmuntah",
+    "alias": "Iblatmuntah"
+  },
+  {
+    "code": "81.08.081.003",
+    "villageCode": "003",
+    "districtCode": "81.08.081",
+    "name": "Lawawang",
+    "alias": "Lawawang"
+  },
+  {
+    "code": "81.08.081.004",
+    "villageCode": "004",
+    "districtCode": "81.08.081",
+    "name": "Telalora/Letoda",
+    "alias": "Telalora/Letoda"
+  },
+  {
+    "code": "81.08.081.005",
+    "villageCode": "005",
+    "districtCode": "81.08.081",
+    "name": "Ilbutung",
+    "alias": "Ilbutung"
+  },
+  {
+    "code": "81.08.081.006",
+    "villageCode": "006",
+    "districtCode": "81.08.081",
+    "name": "Nura",
+    "alias": "Nura"
+  },
+  {
+    "code": "81.08.081.007",
+    "villageCode": "007",
+    "districtCode": "81.08.081",
+    "name": "Latalola Besar",
+    "alias": "Latalola Besar"
+  },
+  {
+    "code": "81.08.081.008",
+    "villageCode": "008",
+    "districtCode": "81.08.081",
+    "name": "Marsela",
+    "alias": "Marsela"
+  },
+  {
+    "code": "81.08.081.009",
+    "villageCode": "009",
+    "districtCode": "81.08.081",
+    "name": "Serili",
+    "alias": "Serili"
+  },
+  {
+    "code": "81.08.081.010",
+    "villageCode": "010",
+    "districtCode": "81.08.081",
+    "name": "Latalola Kecil",
+    "alias": "Latalola Kecil"
+  },
+  {
+    "code": "81.08.081.011",
+    "villageCode": "011",
+    "districtCode": "81.08.081",
+    "name": "Bululora",
+    "alias": "Bululora"
+  }
+]

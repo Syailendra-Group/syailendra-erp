@@ -1,0 +1,72 @@
+[
+  {
+    "code": "15.06.050.001",
+    "villageCode": "001",
+    "districtCode": "15.06.050",
+    "name": "Sungai Raya",
+    "alias": "Sungai Raya"
+  },
+  {
+    "code": "15.06.050.002",
+    "villageCode": "002",
+    "districtCode": "15.06.050",
+    "name": "Teluk Kijing",
+    "alias": "Teluk Kijing"
+  },
+  {
+    "code": "15.06.050.003",
+    "villageCode": "003",
+    "districtCode": "15.06.050",
+    "name": "Pemusiran",
+    "alias": "Pemusiran"
+  },
+  {
+    "code": "15.06.050.004",
+    "villageCode": "004",
+    "districtCode": "15.06.050",
+    "name": "Nipah Panjang I",
+    "alias": "Nipah Panjang I"
+  },
+  {
+    "code": "15.06.050.005",
+    "villageCode": "005",
+    "districtCode": "15.06.050",
+    "name": "Nipah Panjang Ii",
+    "alias": "Nipah Panjang Ii"
+  },
+  {
+    "code": "15.06.050.006",
+    "villageCode": "006",
+    "districtCode": "15.06.050",
+    "name": "Simpang Datuk",
+    "alias": "Simpang Datuk"
+  },
+  {
+    "code": "15.06.050.007",
+    "villageCode": "007",
+    "districtCode": "15.06.050",
+    "name": "Simpang Jelita",
+    "alias": "Simpang Jelita"
+  },
+  {
+    "code": "15.06.050.008",
+    "villageCode": "008",
+    "districtCode": "15.06.050",
+    "name": "Bunga Tanjung",
+    "alias": "Bunga Tanjung"
+  },
+  {
+    "code": "15.06.050.009",
+    "villageCode": "009",
+    "districtCode": "15.06.050",
+    "name": "Sungai Tering",
+    "alias": "Sungai Tering"
+  },
+  {
+    "code": "15.06.050.010",
+    "villageCode": "010",
+    "districtCode": "15.06.050",
+    "name": "Sungai Jeruk",
+    "alias": "Sungai Jeruk"
+  }
+]

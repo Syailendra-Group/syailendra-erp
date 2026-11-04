@@ -1,0 +1,23 @@
+[
+  {
+    "code": "13.03.051.001",
+    "villageCode": "001",
+    "districtCode": "13.03.051",
+    "name": "Sungai Abu",
+    "alias": "Sungai Abu"
+  },
+  {
+    "code": "13.03.051.002",
+    "villageCode": "002",
+    "districtCode": "13.03.051",
+    "name": "Sariak Alahan Tigo",
+    "alias": "Sariak Alahan Tigo"
+  },
+  {
+    "code": "13.03.051.003",
+    "villageCode": "003",
+    "districtCode": "13.03.051",
+    "name": "Talang Babungo",
+    "alias": "Talang Babungo"
+  }
+]

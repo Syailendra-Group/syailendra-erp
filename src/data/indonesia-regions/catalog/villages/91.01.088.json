@@ -1,0 +1,65 @@
+[
+  {
+    "code": "91.01.088.001",
+    "villageCode": "001",
+    "districtCode": "91.01.088",
+    "name": "Otoweri",
+    "alias": "Otoweri"
+  },
+  {
+    "code": "91.01.088.002",
+    "villageCode": "002",
+    "districtCode": "91.01.088",
+    "name": "Mbima Jaya",
+    "alias": "Mbima Jaya"
+  },
+  {
+    "code": "91.01.088.003",
+    "villageCode": "003",
+    "districtCode": "91.01.088",
+    "name": "Warisa Mulia",
+    "alias": "Warisa Mulia"
+  },
+  {
+    "code": "91.01.088.004",
+    "villageCode": "004",
+    "districtCode": "91.01.088",
+    "name": "Bomberay Vii (Upt) / Wonodadi Mulya",
+    "alias": "Bomberay Vii (Upt) / Wonodadi Mulya"
+  },
+  {
+    "code": "91.01.088.005",
+    "villageCode": "005",
+    "districtCode": "91.01.088",
+    "name": "Tomage",
+    "alias": "Tomage"
+  },
+  {
+    "code": "91.01.088.006",
+    "villageCode": "006",
+    "districtCode": "91.01.088",
+    "name": "Wamosan",
+    "alias": "Wamosan"
+  },
+  {
+    "code": "91.01.088.007",
+    "villageCode": "007",
+    "districtCode": "91.01.088",
+    "name": "Wammar",
+    "alias": "Wammar"
+  },
+  {
+    "code": "91.01.088.008",
+    "villageCode": "008",
+    "districtCode": "91.01.088",
+    "name": "Wasa Mulya",
+    "alias": "Wasa Mulya"
+  },
+  {
+    "code": "91.01.088.009",
+    "villageCode": "009",
+    "districtCode": "91.01.088",
+    "name": "Syena Salawir",
+    "alias": "Syena Salawir"
+  }
+]

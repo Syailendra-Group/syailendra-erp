@@ -1,0 +1,93 @@
+[
+  {
+    "code": "11.13.040.004",
+    "villageCode": "004",
+    "districtCode": "11.13.040",
+    "name": "Kuning",
+    "alias": "Kuning"
+  },
+  {
+    "code": "11.13.040.005",
+    "villageCode": "005",
+    "districtCode": "11.13.040",
+    "name": "Padang Pasir",
+    "alias": "Padang Pasir"
+  },
+  {
+    "code": "11.13.040.006",
+    "villageCode": "006",
+    "districtCode": "11.13.040",
+    "name": "Mangang",
+    "alias": "Mangang"
+  },
+  {
+    "code": "11.13.040.007",
+    "villageCode": "007",
+    "districtCode": "11.13.040",
+    "name": "Rikit Gaib",
+    "alias": "Rikit Gaib"
+  },
+  {
+    "code": "11.13.040.008",
+    "villageCode": "008",
+    "districtCode": "11.13.040",
+    "name": "Ampa Kolak",
+    "alias": "Ampa Kolak"
+  },
+  {
+    "code": "11.13.040.009",
+    "villageCode": "009",
+    "districtCode": "11.13.040",
+    "name": "Cane Uken",
+    "alias": "Cane Uken"
+  },
+  {
+    "code": "11.13.040.010",
+    "villageCode": "010",
+    "districtCode": "11.13.040",
+    "name": "Tungel",
+    "alias": "Tungel"
+  },
+  {
+    "code": "11.13.040.011",
+    "villageCode": "011",
+    "districtCode": "11.13.040",
+    "name": "Pinang Rugup",
+    "alias": "Pinang Rugup"
+  },
+  {
+    "code": "11.13.040.012",
+    "villageCode": "012",
+    "districtCode": "11.13.040",
+    "name": "Rempelam",
+    "alias": "Rempelam"
+  },
+  {
+    "code": "11.13.040.013",
+    "villageCode": "013",
+    "districtCode": "11.13.040",
+    "name": "Cane Toa",
+    "alias": "Cane Toa"
+  },
+  {
+    "code": "11.13.040.014",
+    "villageCode": "014",
+    "districtCode": "11.13.040",
+    "name": "Tungel Baru",
+    "alias": "Tungel Baru"
+  },
+  {
+    "code": "11.13.040.015",
+    "villageCode": "015",
+    "districtCode": "11.13.040",
+    "name": "Lukup Baru",
+    "alias": "Lukup Baru"
+  },
+  {
+    "code": "11.13.040.016",
+    "villageCode": "016",
+    "districtCode": "11.13.040",
+    "name": "Penomon Jaya",
+    "alias": "Penomon Jaya"
+  }
+]

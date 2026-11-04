@@ -1,0 +1,114 @@
+[
+  {
+    "code": "15.03.020.001",
+    "villageCode": "001",
+    "districtCode": "15.03.020",
+    "name": "Mersip",
+    "alias": "Mersip"
+  },
+  {
+    "code": "15.03.020.002",
+    "villageCode": "002",
+    "districtCode": "15.03.020",
+    "name": "Berkun",
+    "alias": "Berkun"
+  },
+  {
+    "code": "15.03.020.003",
+    "villageCode": "003",
+    "districtCode": "15.03.020",
+    "name": "Lubuk Bedorong",
+    "alias": "Lubuk Bedorong"
+  },
+  {
+    "code": "15.03.020.004",
+    "villageCode": "004",
+    "districtCode": "15.03.020",
+    "name": "Meribung",
+    "alias": "Meribung"
+  },
+  {
+    "code": "15.03.020.005",
+    "villageCode": "005",
+    "districtCode": "15.03.020",
+    "name": "Napal Melintang",
+    "alias": "Napal Melintang"
+  },
+  {
+    "code": "15.03.020.007",
+    "villageCode": "007",
+    "districtCode": "15.03.020",
+    "name": "Panca Karya",
+    "alias": "Panca Karya"
+  },
+  {
+    "code": "15.03.020.008",
+    "villageCode": "008",
+    "districtCode": "15.03.020",
+    "name": "Ranggo",
+    "alias": "Ranggo"
+  },
+  {
+    "code": "15.03.020.009",
+    "villageCode": "009",
+    "districtCode": "15.03.020",
+    "name": "Tanjung Raden",
+    "alias": "Tanjung Raden"
+  },
+  {
+    "code": "15.03.020.010",
+    "villageCode": "010",
+    "districtCode": "15.03.020",
+    "name": "Temenggung",
+    "alias": "Temenggung"
+  },
+  {
+    "code": "15.03.020.011",
+    "villageCode": "011",
+    "districtCode": "15.03.020",
+    "name": "Pulau Pandan",
+    "alias": "Pulau Pandan"
+  },
+  {
+    "code": "15.03.020.015",
+    "villageCode": "015",
+    "districtCode": "15.03.020",
+    "name": "Demang",
+    "alias": "Demang"
+  },
+  {
+    "code": "15.03.020.016",
+    "villageCode": "016",
+    "districtCode": "15.03.020",
+    "name": "Muara Mansao",
+    "alias": "Muara Mansao"
+  },
+  {
+    "code": "15.03.020.017",
+    "villageCode": "017",
+    "districtCode": "15.03.020",
+    "name": "Moenti",
+    "alias": "Moenti"
+  },
+  {
+    "code": "15.03.020.018",
+    "villageCode": "018",
+    "districtCode": "15.03.020",
+    "name": "Muara Limun",
+    "alias": "Muara Limun"
+  },
+  {
+    "code": "15.03.020.019",
+    "villageCode": "019",
+    "districtCode": "15.03.020",
+    "name": "Suka Damai",
+    "alias": "Suka Damai"
+  },
+  {
+    "code": "15.03.020.020",
+    "villageCode": "020",
+    "districtCode": "15.03.020",
+    "name": "Temalang",
+    "alias": "Temalang"
+  }
+]

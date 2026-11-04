@@ -1,0 +1,162 @@
+[
+  {
+    "code": "12.04.010",
+    "districtCode": "010",
+    "regencyCode": "12.04",
+    "provinceCode": "12",
+    "name": "Kecamatan Pinang Sori",
+    "alias": "Pinang Sori"
+  },
+  {
+    "code": "12.04.011",
+    "districtCode": "011",
+    "regencyCode": "12.04",
+    "provinceCode": "12",
+    "name": "Kecamatan Badiri",
+    "alias": "Badiri"
+  },
+  {
+    "code": "12.04.020",
+    "districtCode": "020",
+    "regencyCode": "12.04",
+    "provinceCode": "12",
+    "name": "Kecamatan Sibabangun",
+    "alias": "Sibabangun"
+  },
+  {
+    "code": "12.04.021",
+    "districtCode": "021",
+    "regencyCode": "12.04",
+    "provinceCode": "12",
+    "name": "Kecamatan Lumut",
+    "alias": "Lumut"
+  },
+  {
+    "code": "12.04.022",
+    "districtCode": "022",
+    "regencyCode": "12.04",
+    "provinceCode": "12",
+    "name": "Kecamatan Sukabangun",
+    "alias": "Sukabangun"
+  },
+  {
+    "code": "12.04.030",
+    "districtCode": "030",
+    "regencyCode": "12.04",
+    "provinceCode": "12",
+    "name": "Kecamatan Pandan",
+    "alias": "Pandan"
+  },
+  {
+    "code": "12.04.031",
+    "districtCode": "031",
+    "regencyCode": "12.04",
+    "provinceCode": "12",
+    "name": "Kecamatan Tukka",
+    "alias": "Tukka"
+  },
+  {
+    "code": "12.04.032",
+    "districtCode": "032",
+    "regencyCode": "12.04",
+    "provinceCode": "12",
+    "name": "Kecamatan Sarudik",
+    "alias": "Sarudik"
+  },
+  {
+    "code": "12.04.040",
+    "districtCode": "040",
+    "regencyCode": "12.04",
+    "provinceCode": "12",
+    "name": "Kecamatan Tapian Nauli",
+    "alias": "Tapian Nauli"
+  },
+  {
+    "code": "12.04.041",
+    "districtCode": "041",
+    "regencyCode": "12.04",
+    "provinceCode": "12",
+    "name": "Kecamatan Sitahuis",
+    "alias": "Sitahuis"
+  },
+  {
+    "code": "12.04.050",
+    "districtCode": "050",
+    "regencyCode": "12.04",
+    "provinceCode": "12",
+    "name": "Kecamatan Kolang",
+    "alias": "Kolang"
+  },
+  {
+    "code": "12.04.060",
+    "districtCode": "060",
+    "regencyCode": "12.04",
+    "provinceCode": "12",
+    "name": "Kecamatan Sorkam",
+    "alias": "Sorkam"
+  },
+  {
+    "code": "12.04.061",
+    "districtCode": "061",
+    "regencyCode": "12.04",
+    "provinceCode": "12",
+    "name": "Kecamatan Sorkam Barat",
+    "alias": "Sorkam Barat"
+  },
+  {
+    "code": "12.04.062",
+    "districtCode": "062",
+    "regencyCode": "12.04",
+    "provinceCode": "12",
+    "name": "Kecamatan Pasaribu Tobing",
+    "alias": "Pasaribu Tobing"
+  },
+  {
+    "code": "12.04.070",
+    "districtCode": "070",
+    "regencyCode": "12.04",
+    "provinceCode": "12",
+    "name": "Kecamatan Barus",
+    "alias": "Barus"
+  },
+  {
+    "code": "12.04.071",
+    "districtCode": "071",
+    "regencyCode": "12.04",
+    "provinceCode": "12",
+    "name": "Kecamatan Sosor Gadong",
+    "alias": "Sosor Gadong"
+  },
+  {
+    "code": "12.04.072",
+    "districtCode": "072",
+    "regencyCode": "12.04",
+    "provinceCode": "12",
+    "name": "Kecamatan Andam Dewi",
+    "alias": "Andam Dewi"
+  },
+  {
+    "code": "12.04.073",
+    "districtCode": "073",
+    "regencyCode": "12.04",
+    "provinceCode": "12",
+    "name": "Kecamatan Barus Utara",
+    "alias": "Barus Utara"
+  },
+  {
+    "code": "12.04.080",
+    "districtCode": "080",
+    "regencyCode": "12.04",
+    "provinceCode": "12",
+    "name": "Kecamatan Manduamas",
+    "alias": "Manduamas"
+  },
+  {
+    "code": "12.04.081",
+    "districtCode": "081",
+    "regencyCode": "12.04",
+    "provinceCode": "12",
+    "name": "Kecamatan Sirandorung",
+    "alias": "Sirandorung"
+  }
+]

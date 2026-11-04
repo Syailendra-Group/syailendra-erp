@@ -1,0 +1,58 @@
+[
+  {
+    "code": "32.15.010.001",
+    "villageCode": "001",
+    "districtCode": "32.15.010",
+    "name": "Medalsari",
+    "alias": "Medalsari"
+  },
+  {
+    "code": "32.15.010.011",
+    "villageCode": "011",
+    "districtCode": "32.15.010",
+    "name": "Kertasari",
+    "alias": "Kertasari"
+  },
+  {
+    "code": "32.15.010.012",
+    "villageCode": "012",
+    "districtCode": "32.15.010",
+    "name": "Cintaasih",
+    "alias": "Cintaasih"
+  },
+  {
+    "code": "32.15.010.013",
+    "villageCode": "013",
+    "districtCode": "32.15.010",
+    "name": "Mulangsari",
+    "alias": "Mulangsari"
+  },
+  {
+    "code": "32.15.010.014",
+    "villageCode": "014",
+    "districtCode": "32.15.010",
+    "name": "Jatilaksana",
+    "alias": "Jatilaksana"
+  },
+  {
+    "code": "32.15.010.015",
+    "villageCode": "015",
+    "districtCode": "32.15.010",
+    "name": "Ciptasari",
+    "alias": "Ciptasari"
+  },
+  {
+    "code": "32.15.010.016",
+    "villageCode": "016",
+    "districtCode": "32.15.010",
+    "name": "Tamansari",
+    "alias": "Tamansari"
+  },
+  {
+    "code": "32.15.010.017",
+    "villageCode": "017",
+    "districtCode": "32.15.010",
+    "name": "Tamanmekar",
+    "alias": "Tamanmekar"
+  }
+]

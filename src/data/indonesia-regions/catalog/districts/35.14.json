@@ -1,0 +1,194 @@
+[
+  {
+    "code": "35.14.010",
+    "districtCode": "010",
+    "regencyCode": "35.14",
+    "provinceCode": "35",
+    "name": "Kecamatan Purwodadi",
+    "alias": "Purwodadi"
+  },
+  {
+    "code": "35.14.020",
+    "districtCode": "020",
+    "regencyCode": "35.14",
+    "provinceCode": "35",
+    "name": "Kecamatan Tutur",
+    "alias": "Tutur"
+  },
+  {
+    "code": "35.14.030",
+    "districtCode": "030",
+    "regencyCode": "35.14",
+    "provinceCode": "35",
+    "name": "Kecamatan Puspo",
+    "alias": "Puspo"
+  },
+  {
+    "code": "35.14.040",
+    "districtCode": "040",
+    "regencyCode": "35.14",
+    "provinceCode": "35",
+    "name": "Kecamatan Tosari",
+    "alias": "Tosari"
+  },
+  {
+    "code": "35.14.050",
+    "districtCode": "050",
+    "regencyCode": "35.14",
+    "provinceCode": "35",
+    "name": "Kecamatan Lumbang",
+    "alias": "Lumbang"
+  },
+  {
+    "code": "35.14.060",
+    "districtCode": "060",
+    "regencyCode": "35.14",
+    "provinceCode": "35",
+    "name": "Kecamatan Pasrepan",
+    "alias": "Pasrepan"
+  },
+  {
+    "code": "35.14.070",
+    "districtCode": "070",
+    "regencyCode": "35.14",
+    "provinceCode": "35",
+    "name": "Kecamatan Kejayan",
+    "alias": "Kejayan"
+  },
+  {
+    "code": "35.14.080",
+    "districtCode": "080",
+    "regencyCode": "35.14",
+    "provinceCode": "35",
+    "name": "Kecamatan Wonorejo",
+    "alias": "Wonorejo"
+  },
+  {
+    "code": "35.14.090",
+    "districtCode": "090",
+    "regencyCode": "35.14",
+    "provinceCode": "35",
+    "name": "Kecamatan Purwosari",
+    "alias": "Purwosari"
+  },
+  {
+    "code": "35.14.100",
+    "districtCode": "100",
+    "regencyCode": "35.14",
+    "provinceCode": "35",
+    "name": "Kecamatan Prigen",
+    "alias": "Prigen"
+  },
+  {
+    "code": "35.14.110",
+    "districtCode": "110",
+    "regencyCode": "35.14",
+    "provinceCode": "35",
+    "name": "Kecamatan Sukorejo",
+    "alias": "Sukorejo"
+  },
+  {
+    "code": "35.14.120",
+    "districtCode": "120",
+    "regencyCode": "35.14",
+    "provinceCode": "35",
+    "name": "Kecamatan Pandaan",
+    "alias": "Pandaan"
+  },
+  {
+    "code": "35.14.130",
+    "districtCode": "130",
+    "regencyCode": "35.14",
+    "provinceCode": "35",
+    "name": "Kecamatan Gempol",
+    "alias": "Gempol"
+  },
+  {
+    "code": "35.14.140",
+    "districtCode": "140",
+    "regencyCode": "35.14",
+    "provinceCode": "35",
+    "name": "Kecamatan Beji",
+    "alias": "Beji"
+  },
+  {
+    "code": "35.14.150",
+    "districtCode": "150",
+    "regencyCode": "35.14",
+    "provinceCode": "35",
+    "name": "Kecamatan Bangil",
+    "alias": "Bangil"
+  },
+  {
+    "code": "35.14.160",
+    "districtCode": "160",
+    "regencyCode": "35.14",
+    "provinceCode": "35",
+    "name": "Kecamatan Rembang",
+    "alias": "Rembang"
+  },
+  {
+    "code": "35.14.170",
+    "districtCode": "170",
+    "regencyCode": "35.14",
+    "provinceCode": "35",
+    "name": "Kecamatan Kraton",
+    "alias": "Kraton"
+  },
+  {
+    "code": "35.14.180",
+    "districtCode": "180",
+    "regencyCode": "35.14",
+    "provinceCode": "35",
+    "name": "Kecamatan Pohjentrek",
+    "alias": "Pohjentrek"
+  },
+  {
+    "code": "35.14.190",
+    "districtCode": "190",
+    "regencyCode": "35.14",
+    "provinceCode": "35",
+    "name": "Kecamatan Gondang Wetan",
+    "alias": "Gondang Wetan"
+  },
+  {
+    "code": "35.14.200",
+    "districtCode": "200",
+    "regencyCode": "35.14",
+    "provinceCode": "35",
+    "name": "Kecamatan Rejoso",
+    "alias": "Rejoso"
+  },
+  {
+    "code": "35.14.210",
+    "districtCode": "210",
+    "regencyCode": "35.14",
+    "provinceCode": "35",
+    "name": "Kecamatan Winongan",
+    "alias": "Winongan"
+  },
+  {
+    "code": "35.14.220",
+    "districtCode": "220",
+    "regencyCode": "35.14",
+    "provinceCode": "35",
+    "name": "Kecamatan Grati",
+    "alias": "Grati"
+  },
+  {
+    "code": "35.14.230",
+    "districtCode": "230",
+    "regencyCode": "35.14",
+    "provinceCode": "35",
+    "name": "Kecamatan Lekok",
+    "alias": "Lekok"
+  },
+  {
+    "code": "35.14.240",
+    "districtCode": "240",
+    "regencyCode": "35.14",
+    "provinceCode": "35",
+    "name": "Kecamatan Nguling",
+    "alias": "Nguling"
+  }
+]

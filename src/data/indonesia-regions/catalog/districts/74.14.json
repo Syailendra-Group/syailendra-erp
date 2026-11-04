@@ -1,0 +1,58 @@
+[
+  {
+    "code": "74.14.010",
+    "districtCode": "010",
+    "regencyCode": "74.14",
+    "provinceCode": "74",
+    "name": "Kecamatan Talaga Raya",
+    "alias": "Talaga Raya"
+  },
+  {
+    "code": "74.14.020",
+    "districtCode": "020",
+    "regencyCode": "74.14",
+    "provinceCode": "74",
+    "name": "Kecamatan Mawasangka",
+    "alias": "Mawasangka"
+  },
+  {
+    "code": "74.14.030",
+    "districtCode": "030",
+    "regencyCode": "74.14",
+    "provinceCode": "74",
+    "name": "Kecamatan Mawasangka Tengah",
+    "alias": "Mawasangka Tengah"
+  },
+  {
+    "code": "74.14.040",
+    "districtCode": "040",
+    "regencyCode": "74.14",
+    "provinceCode": "74",
+    "name": "Kecamatan Mawasangka Timur",
+    "alias": "Mawasangka Timur"
+  },
+  {
+    "code": "74.14.050",
+    "districtCode": "050",
+    "regencyCode": "74.14",
+    "provinceCode": "74",
+    "name": "Kecamatan Lakudo",
+    "alias": "Lakudo"
+  },
+  {
+    "code": "74.14.060",
+    "districtCode": "060",
+    "regencyCode": "74.14",
+    "provinceCode": "74",
+    "name": "Kecamatan Gu",
+    "alias": "Gu"
+  },
+  {
+    "code": "74.14.070",
+    "districtCode": "070",
+    "regencyCode": "74.14",
+    "provinceCode": "74",
+    "name": "Kecamatan Sangia Wambulu",
+    "alias": "Sangia Wambulu"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "code": "14.09.050.005",
+    "villageCode": "005",
+    "districtCode": "14.09.050",
+    "name": "Karya Mukti",
+    "alias": "Karya Mukti"
+  },
+  {
+    "code": "14.09.050.008",
+    "villageCode": "008",
+    "districtCode": "14.09.050",
+    "name": "Rimba Melintang",
+    "alias": "Rimba Melintang"
+  },
+  {
+    "code": "14.09.050.009",
+    "villageCode": "009",
+    "districtCode": "14.09.050",
+    "name": "Jumrah",
+    "alias": "Jumrah"
+  },
+  {
+    "code": "14.09.050.010",
+    "villageCode": "010",
+    "districtCode": "14.09.050",
+    "name": "Teluk Pulau Hulu",
+    "alias": "Teluk Pulau Hulu"
+  },
+  {
+    "code": "14.09.050.011",
+    "villageCode": "011",
+    "districtCode": "14.09.050",
+    "name": "Teluk Pulau Hilir",
+    "alias": "Teluk Pulau Hilir"
+  },
+  {
+    "code": "14.09.050.012",
+    "villageCode": "012",
+    "districtCode": "14.09.050",
+    "name": "Lenggadai Hulu",
+    "alias": "Lenggadai Hulu"
+  },
+  {
+    "code": "14.09.050.013",
+    "villageCode": "013",
+    "districtCode": "14.09.050",
+    "name": "Mukti Jaya",
+    "alias": "Mukti Jaya"
+  },
+  {
+    "code": "14.09.050.017",
+    "villageCode": "017",
+    "districtCode": "14.09.050",
+    "name": "Lenggadai Hilir",
+    "alias": "Lenggadai Hilir"
+  },
+  {
+    "code": "14.09.050.018",
+    "villageCode": "018",
+    "districtCode": "14.09.050",
+    "name": "Pematang Botam",
+    "alias": "Pematang Botam"
+  },
+  {
+    "code": "14.09.050.019",
+    "villageCode": "019",
+    "districtCode": "14.09.050",
+    "name": "Harapan Jaya",
+    "alias": "Harapan Jaya"
+  },
+  {
+    "code": "14.09.050.020",
+    "villageCode": "020",
+    "districtCode": "14.09.050",
+    "name": "Seremban Jaya",
+    "alias": "Seremban Jaya"
+  },
+  {
+    "code": "14.09.050.021",
+    "villageCode": "021",
+    "districtCode": "14.09.050",
+    "name": "Pematang Sikek",
+    "alias": "Pematang Sikek"
+  }
+]

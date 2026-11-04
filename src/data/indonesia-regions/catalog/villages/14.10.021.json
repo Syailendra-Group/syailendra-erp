@@ -1,0 +1,72 @@
+[
+  {
+    "code": "14.10.021.001",
+    "villageCode": "001",
+    "districtCode": "14.10.021",
+    "name": "Kepau Baru",
+    "alias": "Kepau Baru"
+  },
+  {
+    "code": "14.10.021.002",
+    "villageCode": "002",
+    "districtCode": "14.10.021",
+    "name": "Teluk Buntal",
+    "alias": "Teluk Buntal"
+  },
+  {
+    "code": "14.10.021.003",
+    "villageCode": "003",
+    "districtCode": "14.10.021",
+    "name": "Tanjung Gadai",
+    "alias": "Tanjung Gadai"
+  },
+  {
+    "code": "14.10.021.004",
+    "villageCode": "004",
+    "districtCode": "14.10.021",
+    "name": "Tanjung Sari",
+    "alias": "Tanjung Sari"
+  },
+  {
+    "code": "14.10.021.005",
+    "villageCode": "005",
+    "districtCode": "14.10.021",
+    "name": "Nipah Sendanu",
+    "alias": "Nipah Sendanu"
+  },
+  {
+    "code": "14.10.021.006",
+    "villageCode": "006",
+    "districtCode": "14.10.021",
+    "name": "Sungai Tohor",
+    "alias": "Sungai Tohor"
+  },
+  {
+    "code": "14.10.021.007",
+    "villageCode": "007",
+    "districtCode": "14.10.021",
+    "name": "Lukun",
+    "alias": "Lukun"
+  },
+  {
+    "code": "14.10.021.008",
+    "villageCode": "008",
+    "districtCode": "14.10.021",
+    "name": "Sungai Tohor Barat",
+    "alias": "Sungai Tohor Barat"
+  },
+  {
+    "code": "14.10.021.009",
+    "villageCode": "009",
+    "districtCode": "14.10.021",
+    "name": "Sendanu Darul Ihsan",
+    "alias": "Sendanu Darul Ihsan"
+  },
+  {
+    "code": "14.10.021.010",
+    "villageCode": "010",
+    "districtCode": "14.10.021",
+    "name": "Batin Suir",
+    "alias": "Batin Suir"
+  }
+]

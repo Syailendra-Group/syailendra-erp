@@ -1,0 +1,37 @@
+[
+  {
+    "code": "95.01.190.001",
+    "villageCode": "001",
+    "districtCode": "95.01.190",
+    "name": "Kuler",
+    "alias": "Kuler"
+  },
+  {
+    "code": "95.01.190.002",
+    "villageCode": "002",
+    "districtCode": "95.01.190",
+    "name": "Onggaya",
+    "alias": "Onggaya"
+  },
+  {
+    "code": "95.01.190.003",
+    "villageCode": "003",
+    "districtCode": "95.01.190",
+    "name": "Tomer",
+    "alias": "Tomer"
+  },
+  {
+    "code": "95.01.190.004",
+    "villageCode": "004",
+    "districtCode": "95.01.190",
+    "name": "Tomerau",
+    "alias": "Tomerau"
+  },
+  {
+    "code": "95.01.190.005",
+    "villageCode": "005",
+    "districtCode": "95.01.190",
+    "name": "Kondo",
+    "alias": "Kondo"
+  }
+]

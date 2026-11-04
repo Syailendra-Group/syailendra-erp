@@ -1,0 +1,65 @@
+[
+  {
+    "code": "35.11.070.001",
+    "villageCode": "001",
+    "districtCode": "35.11.070",
+    "name": "Wonokusumo",
+    "alias": "Wonokusumo"
+  },
+  {
+    "code": "35.11.070.002",
+    "villageCode": "002",
+    "districtCode": "35.11.070",
+    "name": "Mangli Wetan",
+    "alias": "Mangli Wetan"
+  },
+  {
+    "code": "35.11.070.003",
+    "villageCode": "003",
+    "districtCode": "35.11.070",
+    "name": "Gununganyar",
+    "alias": "Gununganyar"
+  },
+  {
+    "code": "35.11.070.004",
+    "villageCode": "004",
+    "districtCode": "35.11.070",
+    "name": "Jurangsapi",
+    "alias": "Jurangsapi"
+  },
+  {
+    "code": "35.11.070.005",
+    "villageCode": "005",
+    "districtCode": "35.11.070",
+    "name": "Cindogo",
+    "alias": "Cindogo"
+  },
+  {
+    "code": "35.11.070.006",
+    "villageCode": "006",
+    "districtCode": "35.11.070",
+    "name": "Kalitapen",
+    "alias": "Kalitapen"
+  },
+  {
+    "code": "35.11.070.007",
+    "villageCode": "007",
+    "districtCode": "35.11.070",
+    "name": "Mrawan",
+    "alias": "Mrawan"
+  },
+  {
+    "code": "35.11.070.008",
+    "villageCode": "008",
+    "districtCode": "35.11.070",
+    "name": "Taal",
+    "alias": "Taal"
+  },
+  {
+    "code": "35.11.070.009",
+    "villageCode": "009",
+    "districtCode": "35.11.070",
+    "name": "Tapen",
+    "alias": "Tapen"
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "code": "71.05.120.001",
+    "villageCode": "001",
+    "districtCode": "71.05.120",
+    "name": "Kaneyan",
+    "alias": "Kaneyan"
+  },
+  {
+    "code": "71.05.120.002",
+    "villageCode": "002",
+    "districtCode": "71.05.120",
+    "name": "Koreng",
+    "alias": "Koreng"
+  },
+  {
+    "code": "71.05.120.003",
+    "villageCode": "003",
+    "districtCode": "71.05.120",
+    "name": "Tumaluntung",
+    "alias": "Tumaluntung"
+  },
+  {
+    "code": "71.05.120.004",
+    "villageCode": "004",
+    "districtCode": "71.05.120",
+    "name": "Lansot",
+    "alias": "Lansot"
+  },
+  {
+    "code": "71.05.120.005",
+    "villageCode": "005",
+    "districtCode": "71.05.120",
+    "name": "Rumoong Atas",
+    "alias": "Rumoong Atas"
+  },
+  {
+    "code": "71.05.120.006",
+    "villageCode": "006",
+    "districtCode": "71.05.120",
+    "name": "Wuwuk",
+    "alias": "Wuwuk"
+  },
+  {
+    "code": "71.05.120.007",
+    "villageCode": "007",
+    "districtCode": "71.05.120",
+    "name": "Pinamorongan",
+    "alias": "Pinamorongan"
+  },
+  {
+    "code": "71.05.120.010",
+    "villageCode": "010",
+    "districtCode": "71.05.120",
+    "name": "Wiau Lapi",
+    "alias": "Wiau Lapi"
+  },
+  {
+    "code": "71.05.120.014",
+    "villageCode": "014",
+    "districtCode": "71.05.120",
+    "name": "Rumoong Atas Dua",
+    "alias": "Rumoong Atas Dua"
+  },
+  {
+    "code": "71.05.120.015",
+    "villageCode": "015",
+    "districtCode": "71.05.120",
+    "name": "Tumaluntung Satu",
+    "alias": "Tumaluntung Satu"
+  },
+  {
+    "code": "71.05.120.016",
+    "villageCode": "016",
+    "districtCode": "71.05.120",
+    "name": "Wuwuk Barat",
+    "alias": "Wuwuk Barat"
+  },
+  {
+    "code": "71.05.120.017",
+    "villageCode": "017",
+    "districtCode": "71.05.120",
+    "name": "Wiau Lapi Barat",
+    "alias": "Wiau Lapi Barat"
+  },
+  {
+    "code": "71.05.120.018",
+    "villageCode": "018",
+    "districtCode": "71.05.120",
+    "name": "Lansot Timur",
+    "alias": "Lansot Timur"
+  }
+]

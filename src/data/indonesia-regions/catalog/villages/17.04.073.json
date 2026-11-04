@@ -1,0 +1,79 @@
+[
+  {
+    "code": "17.04.073.001",
+    "villageCode": "001",
+    "districtCode": "17.04.073",
+    "name": "Pagar Gunung",
+    "alias": "Pagar Gunung"
+  },
+  {
+    "code": "17.04.073.002",
+    "villageCode": "002",
+    "districtCode": "17.04.073",
+    "name": "Cokoh Betung",
+    "alias": "Cokoh Betung"
+  },
+  {
+    "code": "17.04.073.003",
+    "villageCode": "003",
+    "districtCode": "17.04.073",
+    "name": "Pagar Alam",
+    "alias": "Pagar Alam"
+  },
+  {
+    "code": "17.04.073.004",
+    "villageCode": "004",
+    "districtCode": "17.04.073",
+    "name": "Manau Sembilan I",
+    "alias": "Manau Sembilan I"
+  },
+  {
+    "code": "17.04.073.005",
+    "villageCode": "005",
+    "districtCode": "17.04.073",
+    "name": "Manau Sembilan Ii",
+    "alias": "Manau Sembilan Ii"
+  },
+  {
+    "code": "17.04.073.006",
+    "villageCode": "006",
+    "districtCode": "17.04.073",
+    "name": "Bungin Tambun I",
+    "alias": "Bungin Tambun I"
+  },
+  {
+    "code": "17.04.073.007",
+    "villageCode": "007",
+    "districtCode": "17.04.073",
+    "name": "Bungin Tambun Ii",
+    "alias": "Bungin Tambun Ii"
+  },
+  {
+    "code": "17.04.073.008",
+    "villageCode": "008",
+    "districtCode": "17.04.073",
+    "name": "Bungin Tambun Iii",
+    "alias": "Bungin Tambun Iii"
+  },
+  {
+    "code": "17.04.073.009",
+    "villageCode": "009",
+    "districtCode": "17.04.073",
+    "name": "Naga Rantai",
+    "alias": "Naga Rantai"
+  },
+  {
+    "code": "17.04.073.010",
+    "villageCode": "010",
+    "districtCode": "17.04.073",
+    "name": "Margo Mulyo",
+    "alias": "Margo Mulyo"
+  },
+  {
+    "code": "17.04.073.011",
+    "villageCode": "011",
+    "districtCode": "17.04.073",
+    "name": "Jati Mulyo",
+    "alias": "Jati Mulyo"
+  }
+]

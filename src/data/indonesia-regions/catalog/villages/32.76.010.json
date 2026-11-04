@@ -1,0 +1,51 @@
+[
+  {
+    "code": "32.76.010.003",
+    "villageCode": "003",
+    "districtCode": "32.76.010",
+    "name": "Pengasinan",
+    "alias": "Pengasinan"
+  },
+  {
+    "code": "32.76.010.004",
+    "villageCode": "004",
+    "districtCode": "32.76.010",
+    "name": "Bedahan",
+    "alias": "Bedahan"
+  },
+  {
+    "code": "32.76.010.005",
+    "villageCode": "005",
+    "districtCode": "32.76.010",
+    "name": "Pasir Putih",
+    "alias": "Pasir Putih"
+  },
+  {
+    "code": "32.76.010.006",
+    "villageCode": "006",
+    "districtCode": "32.76.010",
+    "name": "Sawangan Baru",
+    "alias": "Sawangan Baru"
+  },
+  {
+    "code": "32.76.010.007",
+    "villageCode": "007",
+    "districtCode": "32.76.010",
+    "name": "Sawangan",
+    "alias": "Sawangan"
+  },
+  {
+    "code": "32.76.010.013",
+    "villageCode": "013",
+    "districtCode": "32.76.010",
+    "name": "Kedaung",
+    "alias": "Kedaung"
+  },
+  {
+    "code": "32.76.010.014",
+    "villageCode": "014",
+    "districtCode": "32.76.010",
+    "name": "Cinangka",
+    "alias": "Cinangka"
+  }
+]

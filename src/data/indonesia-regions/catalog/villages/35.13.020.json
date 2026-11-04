@@ -1,0 +1,65 @@
+[
+  {
+    "code": "35.13.020.001",
+    "villageCode": "001",
+    "districtCode": "35.13.020",
+    "name": "Ledokombo",
+    "alias": "Ledokombo"
+  },
+  {
+    "code": "35.13.020.002",
+    "villageCode": "002",
+    "districtCode": "35.13.020",
+    "name": "Pandansari",
+    "alias": "Pandansari"
+  },
+  {
+    "code": "35.13.020.003",
+    "villageCode": "003",
+    "districtCode": "35.13.020",
+    "name": "Sumberanom",
+    "alias": "Sumberanom"
+  },
+  {
+    "code": "35.13.020.004",
+    "villageCode": "004",
+    "districtCode": "35.13.020",
+    "name": "Wonokerso",
+    "alias": "Wonokerso"
+  },
+  {
+    "code": "35.13.020.005",
+    "villageCode": "005",
+    "districtCode": "35.13.020",
+    "name": "Gemito",
+    "alias": "Gemito"
+  },
+  {
+    "code": "35.13.020.006",
+    "villageCode": "006",
+    "districtCode": "35.13.020",
+    "name": "Tukul",
+    "alias": "Tukul"
+  },
+  {
+    "code": "35.13.020.007",
+    "villageCode": "007",
+    "districtCode": "35.13.020",
+    "name": "Sumber",
+    "alias": "Sumber"
+  },
+  {
+    "code": "35.13.020.008",
+    "villageCode": "008",
+    "districtCode": "35.13.020",
+    "name": "Cepoko",
+    "alias": "Cepoko"
+  },
+  {
+    "code": "35.13.020.009",
+    "villageCode": "009",
+    "districtCode": "35.13.020",
+    "name": "Rambaan",
+    "alias": "Rambaan"
+  }
+]

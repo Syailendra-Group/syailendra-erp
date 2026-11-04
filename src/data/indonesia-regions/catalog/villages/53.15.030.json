@@ -1,0 +1,107 @@
+[
+  {
+    "code": "53.15.030.011",
+    "villageCode": "011",
+    "districtCode": "53.15.030",
+    "name": "Tangge",
+    "alias": "Tangge"
+  },
+  {
+    "code": "53.15.030.012",
+    "villageCode": "012",
+    "districtCode": "53.15.030",
+    "name": "Siru",
+    "alias": "Siru"
+  },
+  {
+    "code": "53.15.030.013",
+    "villageCode": "013",
+    "districtCode": "53.15.030",
+    "name": "Wae Wako",
+    "alias": "Wae Wako"
+  },
+  {
+    "code": "53.15.030.014",
+    "villageCode": "014",
+    "districtCode": "53.15.030",
+    "name": "Poco Rutang",
+    "alias": "Poco Rutang"
+  },
+  {
+    "code": "53.15.030.015",
+    "villageCode": "015",
+    "districtCode": "53.15.030",
+    "name": "Daleng",
+    "alias": "Daleng"
+  },
+  {
+    "code": "53.15.030.016",
+    "villageCode": "016",
+    "districtCode": "53.15.030",
+    "name": "Pong Majok",
+    "alias": "Pong Majok"
+  },
+  {
+    "code": "53.15.030.017",
+    "villageCode": "017",
+    "districtCode": "53.15.030",
+    "name": "Ngancar",
+    "alias": "Ngancar"
+  },
+  {
+    "code": "53.15.030.018",
+    "villageCode": "018",
+    "districtCode": "53.15.030",
+    "name": "Ponto Ara",
+    "alias": "Ponto Ara"
+  },
+  {
+    "code": "53.15.030.019",
+    "villageCode": "019",
+    "districtCode": "53.15.030",
+    "name": "Wae Bangka",
+    "alias": "Wae Bangka"
+  },
+  {
+    "code": "53.15.030.020",
+    "villageCode": "020",
+    "districtCode": "53.15.030",
+    "name": "Wae Kanta",
+    "alias": "Wae Kanta"
+  },
+  {
+    "code": "53.15.030.021",
+    "villageCode": "021",
+    "districtCode": "53.15.030",
+    "name": "Pondo",
+    "alias": "Pondo"
+  },
+  {
+    "code": "53.15.030.022",
+    "villageCode": "022",
+    "districtCode": "53.15.030",
+    "name": "Poco Dedeng",
+    "alias": "Poco Dedeng"
+  },
+  {
+    "code": "53.15.030.023",
+    "villageCode": "023",
+    "districtCode": "53.15.030",
+    "name": "Golo Ndeweng",
+    "alias": "Golo Ndeweng"
+  },
+  {
+    "code": "53.15.030.024",
+    "villageCode": "024",
+    "districtCode": "53.15.030",
+    "name": "Liang Sola",
+    "alias": "Liang Sola"
+  },
+  {
+    "code": "53.15.030.025",
+    "villageCode": "025",
+    "districtCode": "53.15.030",
+    "name": "Wae Mowol",
+    "alias": "Wae Mowol"
+  }
+]

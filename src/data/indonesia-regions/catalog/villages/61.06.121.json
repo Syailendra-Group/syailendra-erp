@@ -1,0 +1,44 @@
+[
+  {
+    "code": "61.06.121.001",
+    "villageCode": "001",
+    "districtCode": "61.06.121",
+    "name": "Mekar Raya",
+    "alias": "Mekar Raya"
+  },
+  {
+    "code": "61.06.121.002",
+    "villageCode": "002",
+    "districtCode": "61.06.121",
+    "name": "Gema",
+    "alias": "Gema"
+  },
+  {
+    "code": "61.06.121.003",
+    "villageCode": "003",
+    "districtCode": "61.06.121",
+    "name": "Semandang Kanan",
+    "alias": "Semandang Kanan"
+  },
+  {
+    "code": "61.06.121.004",
+    "villageCode": "004",
+    "districtCode": "61.06.121",
+    "name": "Kampar Sebomban",
+    "alias": "Kampar Sebomban"
+  },
+  {
+    "code": "61.06.121.005",
+    "villageCode": "005",
+    "districtCode": "61.06.121",
+    "name": "Batu Daya",
+    "alias": "Batu Daya"
+  },
+  {
+    "code": "61.06.121.006",
+    "villageCode": "006",
+    "districtCode": "61.06.121",
+    "name": "Kamora",
+    "alias": "Kamora"
+  }
+]

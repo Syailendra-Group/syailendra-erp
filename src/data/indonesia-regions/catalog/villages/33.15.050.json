@@ -1,0 +1,93 @@
+[
+  {
+    "code": "33.15.050.001",
+    "villageCode": "001",
+    "districtCode": "33.15.050",
+    "name": "Rambat",
+    "alias": "Rambat"
+  },
+  {
+    "code": "33.15.050.002",
+    "villageCode": "002",
+    "districtCode": "33.15.050",
+    "name": "Kalangbancar",
+    "alias": "Kalangbancar"
+  },
+  {
+    "code": "33.15.050.003",
+    "villageCode": "003",
+    "districtCode": "33.15.050",
+    "name": "Juworo",
+    "alias": "Juworo"
+  },
+  {
+    "code": "33.15.050.004",
+    "villageCode": "004",
+    "districtCode": "33.15.050",
+    "name": "Monggot",
+    "alias": "Monggot"
+  },
+  {
+    "code": "33.15.050.005",
+    "villageCode": "005",
+    "districtCode": "33.15.050",
+    "name": "Ngrandu",
+    "alias": "Ngrandu"
+  },
+  {
+    "code": "33.15.050.006",
+    "villageCode": "006",
+    "districtCode": "33.15.050",
+    "name": "Bangsri",
+    "alias": "Bangsri"
+  },
+  {
+    "code": "33.15.050.007",
+    "villageCode": "007",
+    "districtCode": "33.15.050",
+    "name": "Karang Anyar",
+    "alias": "Karang Anyar"
+  },
+  {
+    "code": "33.15.050.008",
+    "villageCode": "008",
+    "districtCode": "33.15.050",
+    "name": "Asemrudung",
+    "alias": "Asemrudung"
+  },
+  {
+    "code": "33.15.050.009",
+    "villageCode": "009",
+    "districtCode": "33.15.050",
+    "name": "Jambangan",
+    "alias": "Jambangan"
+  },
+  {
+    "code": "33.15.050.010",
+    "villageCode": "010",
+    "districtCode": "33.15.050",
+    "name": "Geyer",
+    "alias": "Geyer"
+  },
+  {
+    "code": "33.15.050.011",
+    "villageCode": "011",
+    "districtCode": "33.15.050",
+    "name": "Ledokdawan",
+    "alias": "Ledokdawan"
+  },
+  {
+    "code": "33.15.050.012",
+    "villageCode": "012",
+    "districtCode": "33.15.050",
+    "name": "Sobo",
+    "alias": "Sobo"
+  },
+  {
+    "code": "33.15.050.013",
+    "villageCode": "013",
+    "districtCode": "33.15.050",
+    "name": "Suru",
+    "alias": "Suru"
+  }
+]

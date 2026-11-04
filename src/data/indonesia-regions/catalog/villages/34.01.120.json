@@ -1,0 +1,51 @@
+[
+  {
+    "code": "34.01.120.001",
+    "villageCode": "001",
+    "districtCode": "34.01.120",
+    "name": "Kebon Harjo",
+    "alias": "Kebon Harjo"
+  },
+  {
+    "code": "34.01.120.002",
+    "villageCode": "002",
+    "districtCode": "34.01.120",
+    "name": "Banjarsari",
+    "alias": "Banjarsari"
+  },
+  {
+    "code": "34.01.120.003",
+    "villageCode": "003",
+    "districtCode": "34.01.120",
+    "name": "Purwoharjo",
+    "alias": "Purwoharjo"
+  },
+  {
+    "code": "34.01.120.004",
+    "villageCode": "004",
+    "districtCode": "34.01.120",
+    "name": "Sidoharjo",
+    "alias": "Sidoharjo"
+  },
+  {
+    "code": "34.01.120.005",
+    "villageCode": "005",
+    "districtCode": "34.01.120",
+    "name": "Gerbosari",
+    "alias": "Gerbosari"
+  },
+  {
+    "code": "34.01.120.006",
+    "villageCode": "006",
+    "districtCode": "34.01.120",
+    "name": "Ngargosari",
+    "alias": "Ngargosari"
+  },
+  {
+    "code": "34.01.120.007",
+    "villageCode": "007",
+    "districtCode": "34.01.120",
+    "name": "Pagerharjo",
+    "alias": "Pagerharjo"
+  }
+]

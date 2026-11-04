@@ -1,0 +1,65 @@
+[
+  {
+    "code": "75.04.011.005",
+    "villageCode": "005",
+    "districtCode": "75.04.011",
+    "name": "Bandungan",
+    "alias": "Bandungan"
+  },
+  {
+    "code": "75.04.011.011",
+    "villageCode": "011",
+    "districtCode": "75.04.011",
+    "name": "Boidu",
+    "alias": "Boidu"
+  },
+  {
+    "code": "75.04.011.012",
+    "villageCode": "012",
+    "districtCode": "75.04.011",
+    "name": "Tupa",
+    "alias": "Tupa"
+  },
+  {
+    "code": "75.04.011.013",
+    "villageCode": "013",
+    "districtCode": "75.04.011",
+    "name": "Longalo",
+    "alias": "Longalo"
+  },
+  {
+    "code": "75.04.011.016",
+    "villageCode": "016",
+    "districtCode": "75.04.011",
+    "name": "Tuloa",
+    "alias": "Tuloa"
+  },
+  {
+    "code": "75.04.011.019",
+    "villageCode": "019",
+    "districtCode": "75.04.011",
+    "name": "Lomaya",
+    "alias": "Lomaya"
+  },
+  {
+    "code": "75.04.011.020",
+    "villageCode": "020",
+    "districtCode": "75.04.011",
+    "name": "Kopi",
+    "alias": "Kopi"
+  },
+  {
+    "code": "75.04.011.021",
+    "villageCode": "021",
+    "districtCode": "75.04.011",
+    "name": "Bunuo",
+    "alias": "Bunuo"
+  },
+  {
+    "code": "75.04.011.022",
+    "villageCode": "022",
+    "districtCode": "75.04.011",
+    "name": "Suka Damai",
+    "alias": "Suka Damai"
+  }
+]

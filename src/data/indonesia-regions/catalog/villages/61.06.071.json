@@ -1,0 +1,65 @@
+[
+  {
+    "code": "61.06.071.001",
+    "villageCode": "001",
+    "districtCode": "61.06.071",
+    "name": "Kantor",
+    "alias": "Kantor"
+  },
+  {
+    "code": "61.06.071.002",
+    "villageCode": "002",
+    "districtCode": "61.06.071",
+    "name": "Mulia Baru",
+    "alias": "Mulia Baru"
+  },
+  {
+    "code": "61.06.071.003",
+    "villageCode": "003",
+    "districtCode": "61.06.071",
+    "name": "Tengah",
+    "alias": "Tengah"
+  },
+  {
+    "code": "61.06.071.004",
+    "villageCode": "004",
+    "districtCode": "61.06.071",
+    "name": "Sampit",
+    "alias": "Sampit"
+  },
+  {
+    "code": "61.06.071.005",
+    "villageCode": "005",
+    "districtCode": "61.06.071",
+    "name": "Sukaharja",
+    "alias": "Sukaharja"
+  },
+  {
+    "code": "61.06.071.006",
+    "villageCode": "006",
+    "districtCode": "61.06.071",
+    "name": "Kali Nilam",
+    "alias": "Kali Nilam"
+  },
+  {
+    "code": "61.06.071.007",
+    "villageCode": "007",
+    "districtCode": "61.06.071",
+    "name": "Sukabangun",
+    "alias": "Sukabangun"
+  },
+  {
+    "code": "61.06.071.008",
+    "villageCode": "008",
+    "districtCode": "61.06.071",
+    "name": "Paya Kumang",
+    "alias": "Paya Kumang"
+  },
+  {
+    "code": "61.06.071.009",
+    "villageCode": "009",
+    "districtCode": "61.06.071",
+    "name": "Sukabangun Dalam",
+    "alias": "Sukabangun Dalam"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "code": "17.09.011.001",
+    "villageCode": "001",
+    "districtCode": "17.09.011",
+    "name": "Bukit",
+    "alias": "Bukit"
+  },
+  {
+    "code": "17.09.011.002",
+    "villageCode": "002",
+    "districtCode": "17.09.011",
+    "name": "Lagan Bungin",
+    "alias": "Lagan Bungin"
+  },
+  {
+    "code": "17.09.011.003",
+    "villageCode": "003",
+    "districtCode": "17.09.011",
+    "name": "Taba Lagan",
+    "alias": "Taba Lagan"
+  },
+  {
+    "code": "17.09.011.004",
+    "villageCode": "004",
+    "districtCode": "17.09.011",
+    "name": "Lagan",
+    "alias": "Lagan"
+  },
+  {
+    "code": "17.09.011.005",
+    "villageCode": "005",
+    "districtCode": "17.09.011",
+    "name": "Pagar Jati",
+    "alias": "Pagar Jati"
+  },
+  {
+    "code": "17.09.011.006",
+    "villageCode": "006",
+    "districtCode": "17.09.011",
+    "name": "Karang Nanding",
+    "alias": "Karang Nanding"
+  },
+  {
+    "code": "17.09.011.007",
+    "villageCode": "007",
+    "districtCode": "17.09.011",
+    "name": "Gajah Mati",
+    "alias": "Gajah Mati"
+  },
+  {
+    "code": "17.09.011.008",
+    "villageCode": "008",
+    "districtCode": "17.09.011",
+    "name": "Semidang",
+    "alias": "Semidang"
+  },
+  {
+    "code": "17.09.011.009",
+    "villageCode": "009",
+    "districtCode": "17.09.011",
+    "name": "Pagar Gunung",
+    "alias": "Pagar Gunung"
+  },
+  {
+    "code": "17.09.011.010",
+    "villageCode": "010",
+    "districtCode": "17.09.011",
+    "name": "Padang Siring",
+    "alias": "Padang Siring"
+  },
+  {
+    "code": "17.09.011.011",
+    "villageCode": "011",
+    "districtCode": "17.09.011",
+    "name": "Kota Niur",
+    "alias": "Kota Niur"
+  }
+]

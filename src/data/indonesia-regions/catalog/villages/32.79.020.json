@@ -1,0 +1,30 @@
+[
+  {
+    "code": "32.79.020.001",
+    "villageCode": "001",
+    "districtCode": "32.79.020",
+    "name": "Purwaharja",
+    "alias": "Purwaharja"
+  },
+  {
+    "code": "32.79.020.002",
+    "villageCode": "002",
+    "districtCode": "32.79.020",
+    "name": "Karangpanimbal",
+    "alias": "Karangpanimbal"
+  },
+  {
+    "code": "32.79.020.003",
+    "villageCode": "003",
+    "districtCode": "32.79.020",
+    "name": "Raharja",
+    "alias": "Raharja"
+  },
+  {
+    "code": "32.79.020.004",
+    "villageCode": "004",
+    "districtCode": "32.79.020",
+    "name": "Mekarharja",
+    "alias": "Mekarharja"
+  }
+]

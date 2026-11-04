@@ -1,0 +1,100 @@
+[
+  {
+    "code": "33.11.060.001",
+    "villageCode": "001",
+    "districtCode": "33.11.060",
+    "name": "Jagan",
+    "alias": "Jagan"
+  },
+  {
+    "code": "33.11.060.002",
+    "villageCode": "002",
+    "districtCode": "33.11.060",
+    "name": "Manisharjo",
+    "alias": "Manisharjo"
+  },
+  {
+    "code": "33.11.060.003",
+    "villageCode": "003",
+    "districtCode": "33.11.060",
+    "name": "Cabeyan",
+    "alias": "Cabeyan"
+  },
+  {
+    "code": "33.11.060.004",
+    "villageCode": "004",
+    "districtCode": "33.11.060",
+    "name": "Puhgogor",
+    "alias": "Puhgogor"
+  },
+  {
+    "code": "33.11.060.005",
+    "villageCode": "005",
+    "districtCode": "33.11.060",
+    "name": "Paluhombo",
+    "alias": "Paluhombo"
+  },
+  {
+    "code": "33.11.060.006",
+    "villageCode": "006",
+    "districtCode": "33.11.060",
+    "name": "Bendosari",
+    "alias": "Bendosari"
+  },
+  {
+    "code": "33.11.060.007",
+    "villageCode": "007",
+    "districtCode": "33.11.060",
+    "name": "Mojorejo",
+    "alias": "Mojorejo"
+  },
+  {
+    "code": "33.11.060.008",
+    "villageCode": "008",
+    "districtCode": "33.11.060",
+    "name": "Mertan",
+    "alias": "Mertan"
+  },
+  {
+    "code": "33.11.060.009",
+    "villageCode": "009",
+    "districtCode": "33.11.060",
+    "name": "Mulur",
+    "alias": "Mulur"
+  },
+  {
+    "code": "33.11.060.010",
+    "villageCode": "010",
+    "districtCode": "33.11.060",
+    "name": "Toriyo",
+    "alias": "Toriyo"
+  },
+  {
+    "code": "33.11.060.011",
+    "villageCode": "011",
+    "districtCode": "33.11.060",
+    "name": "Jombor",
+    "alias": "Jombor"
+  },
+  {
+    "code": "33.11.060.012",
+    "villageCode": "012",
+    "districtCode": "33.11.060",
+    "name": "Sidorejo",
+    "alias": "Sidorejo"
+  },
+  {
+    "code": "33.11.060.013",
+    "villageCode": "013",
+    "districtCode": "33.11.060",
+    "name": "Sugihan",
+    "alias": "Sugihan"
+  },
+  {
+    "code": "33.11.060.014",
+    "villageCode": "014",
+    "districtCode": "33.11.060",
+    "name": "Gentan",
+    "alias": "Gentan"
+  }
+]

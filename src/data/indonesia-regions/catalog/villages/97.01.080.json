@@ -1,0 +1,37 @@
+[
+  {
+    "code": "97.01.080.001",
+    "villageCode": "001",
+    "districtCode": "97.01.080",
+    "name": "Wendama",
+    "alias": "Wendama"
+  },
+  {
+    "code": "97.01.080.002",
+    "villageCode": "002",
+    "districtCode": "97.01.080",
+    "name": "Embetpem",
+    "alias": "Embetpem"
+  },
+  {
+    "code": "97.01.080.003",
+    "villageCode": "003",
+    "districtCode": "97.01.080",
+    "name": "Yenai",
+    "alias": "Yenai"
+  },
+  {
+    "code": "97.01.080.004",
+    "villageCode": "004",
+    "districtCode": "97.01.080",
+    "name": "Digilimu",
+    "alias": "Digilimu"
+  },
+  {
+    "code": "97.01.080.005",
+    "villageCode": "005",
+    "districtCode": "97.01.080",
+    "name": "Bisikimu",
+    "alias": "Bisikimu"
+  }
+]

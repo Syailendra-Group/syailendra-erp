@@ -1,0 +1,65 @@
+[
+  {
+    "code": "73.11.150.001",
+    "villageCode": "001",
+    "districtCode": "73.11.150",
+    "name": "Samaenre",
+    "alias": "Samaenre"
+  },
+  {
+    "code": "73.11.150.002",
+    "villageCode": "002",
+    "districtCode": "73.11.150",
+    "name": "Walimpong",
+    "alias": "Walimpong"
+  },
+  {
+    "code": "73.11.150.003",
+    "villageCode": "003",
+    "districtCode": "73.11.150",
+    "name": "Tungke",
+    "alias": "Tungke"
+  },
+  {
+    "code": "73.11.150.004",
+    "villageCode": "004",
+    "districtCode": "73.11.150",
+    "name": "Selli",
+    "alias": "Selli"
+  },
+  {
+    "code": "73.11.150.005",
+    "villageCode": "005",
+    "districtCode": "73.11.150",
+    "name": "Bulu Allapporenge",
+    "alias": "Bulu Allapporenge"
+  },
+  {
+    "code": "73.11.150.006",
+    "villageCode": "006",
+    "districtCode": "73.11.150",
+    "name": "Bengo",
+    "alias": "Bengo"
+  },
+  {
+    "code": "73.11.150.007",
+    "villageCode": "007",
+    "districtCode": "73.11.150",
+    "name": "Mattaro Puli",
+    "alias": "Mattaro Puli"
+  },
+  {
+    "code": "73.11.150.008",
+    "villageCode": "008",
+    "districtCode": "73.11.150",
+    "name": "Mattiro Walie",
+    "alias": "Mattiro Walie"
+  },
+  {
+    "code": "73.11.150.009",
+    "villageCode": "009",
+    "districtCode": "73.11.150",
+    "name": "Liliriawang",
+    "alias": "Liliriawang"
+  }
+]

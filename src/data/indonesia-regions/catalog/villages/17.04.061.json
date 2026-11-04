@@ -1,0 +1,93 @@
+[
+  {
+    "code": "17.04.061.001",
+    "villageCode": "001",
+    "districtCode": "17.04.061",
+    "name": "Pagar Dewa",
+    "alias": "Pagar Dewa"
+  },
+  {
+    "code": "17.04.061.002",
+    "villageCode": "002",
+    "districtCode": "17.04.061",
+    "name": "Talang Tais",
+    "alias": "Talang Tais"
+  },
+  {
+    "code": "17.04.061.003",
+    "villageCode": "003",
+    "districtCode": "17.04.061",
+    "name": "Penantian",
+    "alias": "Penantian"
+  },
+  {
+    "code": "17.04.061.004",
+    "villageCode": "004",
+    "districtCode": "17.04.061",
+    "name": "Siring Agung",
+    "alias": "Siring Agung"
+  },
+  {
+    "code": "17.04.061.005",
+    "villageCode": "005",
+    "districtCode": "17.04.061",
+    "name": "Darat Sawah",
+    "alias": "Darat Sawah"
+  },
+  {
+    "code": "17.04.061.006",
+    "villageCode": "006",
+    "districtCode": "17.04.061",
+    "name": "Sukarami I",
+    "alias": "Sukarami I"
+  },
+  {
+    "code": "17.04.061.007",
+    "villageCode": "007",
+    "districtCode": "17.04.061",
+    "name": "Rigangan I",
+    "alias": "Rigangan I"
+  },
+  {
+    "code": "17.04.061.008",
+    "villageCode": "008",
+    "districtCode": "17.04.061",
+    "name": "Rigangan Ii",
+    "alias": "Rigangan Ii"
+  },
+  {
+    "code": "17.04.061.009",
+    "villageCode": "009",
+    "districtCode": "17.04.061",
+    "name": "Rigangan Iii",
+    "alias": "Rigangan Iii"
+  },
+  {
+    "code": "17.04.061.010",
+    "villageCode": "010",
+    "districtCode": "17.04.061",
+    "name": "Tanjung Ganti I",
+    "alias": "Tanjung Ganti I"
+  },
+  {
+    "code": "17.04.061.011",
+    "villageCode": "011",
+    "districtCode": "17.04.061",
+    "name": "Tanjung Ganti Ii",
+    "alias": "Tanjung Ganti Ii"
+  },
+  {
+    "code": "17.04.061.012",
+    "villageCode": "012",
+    "districtCode": "17.04.061",
+    "name": "Talang Marap",
+    "alias": "Talang Marap"
+  },
+  {
+    "code": "17.04.061.014",
+    "villageCode": "014",
+    "districtCode": "17.04.061",
+    "name": "Sukarami Ii",
+    "alias": "Sukarami Ii"
+  }
+]

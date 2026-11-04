@@ -1,0 +1,37 @@
+[
+  {
+    "code": "94.20.021.001",
+    "villageCode": "001",
+    "districtCode": "94.20.021",
+    "name": "Liket",
+    "alias": "Liket"
+  },
+  {
+    "code": "94.20.021.002",
+    "villageCode": "002",
+    "districtCode": "94.20.021",
+    "name": "Wonam",
+    "alias": "Wonam"
+  },
+  {
+    "code": "94.20.021.003",
+    "villageCode": "003",
+    "districtCode": "94.20.021",
+    "name": "Kiambra",
+    "alias": "Kiambra"
+  },
+  {
+    "code": "94.20.021.004",
+    "villageCode": "004",
+    "districtCode": "94.20.021",
+    "name": "Kaisenar",
+    "alias": "Kaisenar"
+  },
+  {
+    "code": "94.20.021.005",
+    "villageCode": "005",
+    "districtCode": "94.20.021",
+    "name": "Tefanma I",
+    "alias": "Tefanma I"
+  }
+]

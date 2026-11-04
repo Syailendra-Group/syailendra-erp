@@ -1,0 +1,100 @@
+[
+  {
+    "code": "76.02.042.001",
+    "villageCode": "001",
+    "districtCode": "76.02.042",
+    "name": "Bussu",
+    "alias": "Bussu"
+  },
+  {
+    "code": "76.02.042.002",
+    "villageCode": "002",
+    "districtCode": "76.02.042",
+    "name": "Rappang",
+    "alias": "Rappang"
+  },
+  {
+    "code": "76.02.042.003",
+    "villageCode": "003",
+    "districtCode": "76.02.042",
+    "name": "Dakka",
+    "alias": "Dakka"
+  },
+  {
+    "code": "76.02.042.004",
+    "villageCode": "004",
+    "districtCode": "76.02.042",
+    "name": "Pelitakan",
+    "alias": "Pelitakan"
+  },
+  {
+    "code": "76.02.042.005",
+    "villageCode": "005",
+    "districtCode": "76.02.042",
+    "name": "Tapango",
+    "alias": "Tapango"
+  },
+  {
+    "code": "76.02.042.006",
+    "villageCode": "006",
+    "districtCode": "76.02.042",
+    "name": "Tapango Barat",
+    "alias": "Tapango Barat"
+  },
+  {
+    "code": "76.02.042.007",
+    "villageCode": "007",
+    "districtCode": "76.02.042",
+    "name": "Batu",
+    "alias": "Batu"
+  },
+  {
+    "code": "76.02.042.008",
+    "villageCode": "008",
+    "districtCode": "76.02.042",
+    "name": "Palatta",
+    "alias": "Palatta"
+  },
+  {
+    "code": "76.02.042.009",
+    "villageCode": "009",
+    "districtCode": "76.02.042",
+    "name": "Riso",
+    "alias": "Riso"
+  },
+  {
+    "code": "76.02.042.010",
+    "villageCode": "010",
+    "districtCode": "76.02.042",
+    "name": "Kurrak",
+    "alias": "Kurrak"
+  },
+  {
+    "code": "76.02.042.011",
+    "villageCode": "011",
+    "districtCode": "76.02.042",
+    "name": "Tutula",
+    "alias": "Tutula"
+  },
+  {
+    "code": "76.02.042.012",
+    "villageCode": "012",
+    "districtCode": "76.02.042",
+    "name": "Jambu Malea",
+    "alias": "Jambu Malea"
+  },
+  {
+    "code": "76.02.042.013",
+    "villageCode": "013",
+    "districtCode": "76.02.042",
+    "name": "Banato Rejo",
+    "alias": "Banato Rejo"
+  },
+  {
+    "code": "76.02.042.014",
+    "villageCode": "014",
+    "districtCode": "76.02.042",
+    "name": "Kalimbua",
+    "alias": "Kalimbua"
+  }
+]

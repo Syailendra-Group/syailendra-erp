@@ -1,0 +1,51 @@
+[
+  {
+    "code": "62.08.030.001",
+    "villageCode": "001",
+    "districtCode": "62.08.030",
+    "name": "Tanjung Hanau",
+    "alias": "Tanjung Hanau"
+  },
+  {
+    "code": "62.08.030.002",
+    "villageCode": "002",
+    "districtCode": "62.08.030",
+    "name": "Parang Batang",
+    "alias": "Parang Batang"
+  },
+  {
+    "code": "62.08.030.003",
+    "villageCode": "003",
+    "districtCode": "62.08.030",
+    "name": "Bahaur",
+    "alias": "Bahaur"
+  },
+  {
+    "code": "62.08.030.004",
+    "villageCode": "004",
+    "districtCode": "62.08.030",
+    "name": "Pembuang Hulu I",
+    "alias": "Pembuang Hulu I"
+  },
+  {
+    "code": "62.08.030.005",
+    "villageCode": "005",
+    "districtCode": "62.08.030",
+    "name": "Pembuang Hulu Ii",
+    "alias": "Pembuang Hulu Ii"
+  },
+  {
+    "code": "62.08.030.006",
+    "villageCode": "006",
+    "districtCode": "62.08.030",
+    "name": "Derangga",
+    "alias": "Derangga"
+  },
+  {
+    "code": "62.08.030.012",
+    "villageCode": "012",
+    "districtCode": "62.08.030",
+    "name": "Paring Raya",
+    "alias": "Paring Raya"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "code": "74.11.120.001",
+    "villageCode": "001",
+    "districtCode": "74.11.120",
+    "name": "Silui",
+    "alias": "Silui"
+  },
+  {
+    "code": "74.11.120.002",
+    "villageCode": "002",
+    "districtCode": "74.11.120",
+    "name": "Konawendepiha",
+    "alias": "Konawendepiha"
+  },
+  {
+    "code": "74.11.120.003",
+    "villageCode": "003",
+    "districtCode": "74.11.120",
+    "name": "Porabua",
+    "alias": "Porabua"
+  },
+  {
+    "code": "74.11.120.004",
+    "villageCode": "004",
+    "districtCode": "74.11.120",
+    "name": "Wesinggote",
+    "alias": "Wesinggote"
+  },
+  {
+    "code": "74.11.120.005",
+    "villageCode": "005",
+    "districtCode": "74.11.120",
+    "name": "Ueesi",
+    "alias": "Ueesi"
+  },
+  {
+    "code": "74.11.120.006",
+    "villageCode": "006",
+    "districtCode": "74.11.120",
+    "name": "Watumendonga",
+    "alias": "Watumendonga"
+  },
+  {
+    "code": "74.11.120.007",
+    "villageCode": "007",
+    "districtCode": "74.11.120",
+    "name": "Ahilulu",
+    "alias": "Ahilulu"
+  },
+  {
+    "code": "74.11.120.008",
+    "villageCode": "008",
+    "districtCode": "74.11.120",
+    "name": "Alaaha",
+    "alias": "Alaaha"
+  },
+  {
+    "code": "74.11.120.009",
+    "villageCode": "009",
+    "districtCode": "74.11.120",
+    "name": "Liku Walanapo",
+    "alias": "Liku Walanapo"
+  },
+  {
+    "code": "74.11.120.010",
+    "villageCode": "010",
+    "districtCode": "74.11.120",
+    "name": "Puurau",
+    "alias": "Puurau"
+  },
+  {
+    "code": "74.11.120.011",
+    "villageCode": "011",
+    "districtCode": "74.11.120",
+    "name": "Tongauna",
+    "alias": "Tongauna"
+  }
+]

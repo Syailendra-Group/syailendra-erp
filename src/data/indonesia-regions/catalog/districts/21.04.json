@@ -1,0 +1,106 @@
+[
+  {
+    "code": "21.04.010",
+    "districtCode": "010",
+    "regencyCode": "21.04",
+    "provinceCode": "21",
+    "name": "Kecamatan Singkep Barat",
+    "alias": "Singkep Barat"
+  },
+  {
+    "code": "21.04.011",
+    "districtCode": "011",
+    "regencyCode": "21.04",
+    "provinceCode": "21",
+    "name": "Kecamatan Kepulauan Posek",
+    "alias": "Kepulauan Posek"
+  },
+  {
+    "code": "21.04.020",
+    "districtCode": "020",
+    "regencyCode": "21.04",
+    "provinceCode": "21",
+    "name": "Kecamatan Singkep",
+    "alias": "Singkep"
+  },
+  {
+    "code": "21.04.021",
+    "districtCode": "021",
+    "regencyCode": "21.04",
+    "provinceCode": "21",
+    "name": "Kecamatan Singkep Selatan",
+    "alias": "Singkep Selatan"
+  },
+  {
+    "code": "21.04.022",
+    "districtCode": "022",
+    "regencyCode": "21.04",
+    "provinceCode": "21",
+    "name": "Kecamatan Singkep Pesisir",
+    "alias": "Singkep Pesisir"
+  },
+  {
+    "code": "21.04.030",
+    "districtCode": "030",
+    "regencyCode": "21.04",
+    "provinceCode": "21",
+    "name": "Kecamatan Lingga",
+    "alias": "Lingga"
+  },
+  {
+    "code": "21.04.031",
+    "districtCode": "031",
+    "regencyCode": "21.04",
+    "provinceCode": "21",
+    "name": "Kecamatan Selayar",
+    "alias": "Selayar"
+  },
+  {
+    "code": "21.04.032",
+    "districtCode": "032",
+    "regencyCode": "21.04",
+    "provinceCode": "21",
+    "name": "Kecamatan Lingga Timur",
+    "alias": "Lingga Timur"
+  },
+  {
+    "code": "21.04.040",
+    "districtCode": "040",
+    "regencyCode": "21.04",
+    "provinceCode": "21",
+    "name": "Kecamatan Lingga Utara",
+    "alias": "Lingga Utara"
+  },
+  {
+    "code": "21.04.050",
+    "districtCode": "050",
+    "regencyCode": "21.04",
+    "provinceCode": "21",
+    "name": "Kecamatan Senayang",
+    "alias": "Senayang"
+  },
+  {
+    "code": "21.04.051",
+    "districtCode": "051",
+    "regencyCode": "21.04",
+    "provinceCode": "21",
+    "name": "Kecamatan Bakung Serumpun",
+    "alias": "Bakung Serumpun"
+  },
+  {
+    "code": "21.04.052",
+    "districtCode": "052",
+    "regencyCode": "21.04",
+    "provinceCode": "21",
+    "name": "Kecamatan Temiang Pesisir",
+    "alias": "Temiang Pesisir"
+  },
+  {
+    "code": "21.04.053",
+    "districtCode": "053",
+    "regencyCode": "21.04",
+    "provinceCode": "21",
+    "name": "Kecamatan Katang Bidare",
+    "alias": "Katang Bidare"
+  }
+]

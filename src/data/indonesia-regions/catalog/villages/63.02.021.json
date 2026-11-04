@@ -1,0 +1,72 @@
+[
+  {
+    "code": "63.02.021.001",
+    "villageCode": "001",
+    "districtCode": "63.02.021",
+    "name": "Tanjung Kunyit",
+    "alias": "Tanjung Kunyit"
+  },
+  {
+    "code": "63.02.021.002",
+    "villageCode": "002",
+    "districtCode": "63.02.021",
+    "name": "Tanjung Tengah",
+    "alias": "Tanjung Tengah"
+  },
+  {
+    "code": "63.02.021.003",
+    "villageCode": "003",
+    "districtCode": "63.02.021",
+    "name": "Teluk Tamiang",
+    "alias": "Teluk Tamiang"
+  },
+  {
+    "code": "63.02.021.004",
+    "villageCode": "004",
+    "districtCode": "63.02.021",
+    "name": "Gosong Panjang",
+    "alias": "Gosong Panjang"
+  },
+  {
+    "code": "63.02.021.005",
+    "villageCode": "005",
+    "districtCode": "63.02.021",
+    "name": "Kampung Baru",
+    "alias": "Kampung Baru"
+  },
+  {
+    "code": "63.02.021.006",
+    "villageCode": "006",
+    "districtCode": "63.02.021",
+    "name": "Tanjung Sungkai",
+    "alias": "Tanjung Sungkai"
+  },
+  {
+    "code": "63.02.021.007",
+    "villageCode": "007",
+    "districtCode": "63.02.021",
+    "name": "Tanjung Pelayar",
+    "alias": "Tanjung Pelayar"
+  },
+  {
+    "code": "63.02.021.008",
+    "villageCode": "008",
+    "districtCode": "63.02.021",
+    "name": "Banda Raya",
+    "alias": "Banda Raya"
+  },
+  {
+    "code": "63.02.021.009",
+    "villageCode": "009",
+    "districtCode": "63.02.021",
+    "name": "Tata Mekar",
+    "alias": "Tata Mekar"
+  },
+  {
+    "code": "63.02.021.010",
+    "villageCode": "010",
+    "districtCode": "63.02.021",
+    "name": "Bangun Rejo",
+    "alias": "Bangun Rejo"
+  }
+]

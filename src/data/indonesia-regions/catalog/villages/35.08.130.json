@@ -1,0 +1,72 @@
+[
+  {
+    "code": "35.08.130.001",
+    "villageCode": "001",
+    "districtCode": "35.08.130",
+    "name": "Klanting",
+    "alias": "Klanting"
+  },
+  {
+    "code": "35.08.130.002",
+    "villageCode": "002",
+    "districtCode": "35.08.130",
+    "name": "Kebonagung",
+    "alias": "Kebonagung"
+  },
+  {
+    "code": "35.08.130.003",
+    "villageCode": "003",
+    "districtCode": "35.08.130",
+    "name": "Karangsari",
+    "alias": "Karangsari"
+  },
+  {
+    "code": "35.08.130.004",
+    "villageCode": "004",
+    "districtCode": "35.08.130",
+    "name": "Dawuhan Lor",
+    "alias": "Dawuhan Lor"
+  },
+  {
+    "code": "35.08.130.005",
+    "villageCode": "005",
+    "districtCode": "35.08.130",
+    "name": "Kutorenon",
+    "alias": "Kutorenon"
+  },
+  {
+    "code": "35.08.130.006",
+    "villageCode": "006",
+    "districtCode": "35.08.130",
+    "name": "Selokbesuki",
+    "alias": "Selokbesuki"
+  },
+  {
+    "code": "35.08.130.007",
+    "villageCode": "007",
+    "districtCode": "35.08.130",
+    "name": "Sumberejo",
+    "alias": "Sumberejo"
+  },
+  {
+    "code": "35.08.130.008",
+    "villageCode": "008",
+    "districtCode": "35.08.130",
+    "name": "Uranggantung",
+    "alias": "Uranggantung"
+  },
+  {
+    "code": "35.08.130.009",
+    "villageCode": "009",
+    "districtCode": "35.08.130",
+    "name": "Selokgondang",
+    "alias": "Selokgondang"
+  },
+  {
+    "code": "35.08.130.010",
+    "villageCode": "010",
+    "districtCode": "35.08.130",
+    "name": "Bondoyudo",
+    "alias": "Bondoyudo"
+  }
+]

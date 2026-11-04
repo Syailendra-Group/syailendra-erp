@@ -1,0 +1,65 @@
+[
+  {
+    "code": "53.10.020.001",
+    "villageCode": "001",
+    "districtCode": "53.10.020",
+    "name": "Kolidetung",
+    "alias": "Kolidetung"
+  },
+  {
+    "code": "53.10.020.002",
+    "villageCode": "002",
+    "districtCode": "53.10.020",
+    "name": "Korowuwu",
+    "alias": "Korowuwu"
+  },
+  {
+    "code": "53.10.020.003",
+    "villageCode": "003",
+    "districtCode": "53.10.020",
+    "name": "Hepang",
+    "alias": "Hepang"
+  },
+  {
+    "code": "53.10.020.004",
+    "villageCode": "004",
+    "districtCode": "53.10.020",
+    "name": "Lela",
+    "alias": "Lela"
+  },
+  {
+    "code": "53.10.020.005",
+    "villageCode": "005",
+    "districtCode": "53.10.020",
+    "name": "Watutedang",
+    "alias": "Watutedang"
+  },
+  {
+    "code": "53.10.020.006",
+    "villageCode": "006",
+    "districtCode": "53.10.020",
+    "name": "Sikka",
+    "alias": "Sikka"
+  },
+  {
+    "code": "53.10.020.007",
+    "villageCode": "007",
+    "districtCode": "53.10.020",
+    "name": "Iligai",
+    "alias": "Iligai"
+  },
+  {
+    "code": "53.10.020.008",
+    "villageCode": "008",
+    "districtCode": "53.10.020",
+    "name": "Baopaat",
+    "alias": "Baopaat"
+  },
+  {
+    "code": "53.10.020.009",
+    "villageCode": "009",
+    "districtCode": "53.10.020",
+    "name": "Du",
+    "alias": "Du"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "code": "34.02.110.001",
+    "villageCode": "001",
+    "districtCode": "34.02.110",
+    "name": "Wonokromo",
+    "alias": "Wonokromo"
+  },
+  {
+    "code": "34.02.110.002",
+    "villageCode": "002",
+    "districtCode": "34.02.110",
+    "name": "Pleret",
+    "alias": "Pleret"
+  },
+  {
+    "code": "34.02.110.003",
+    "villageCode": "003",
+    "districtCode": "34.02.110",
+    "name": "Segoroyoso",
+    "alias": "Segoroyoso"
+  },
+  {
+    "code": "34.02.110.004",
+    "villageCode": "004",
+    "districtCode": "34.02.110",
+    "name": "Bawuran",
+    "alias": "Bawuran"
+  },
+  {
+    "code": "34.02.110.005",
+    "villageCode": "005",
+    "districtCode": "34.02.110",
+    "name": "Wonolelo",
+    "alias": "Wonolelo"
+  }
+]

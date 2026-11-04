@@ -1,0 +1,37 @@
+[
+  {
+    "code": "96.01.070.001",
+    "villageCode": "001",
+    "districtCode": "96.01.070",
+    "name": "Fanamo",
+    "alias": "Fanamo"
+  },
+  {
+    "code": "96.01.070.002",
+    "villageCode": "002",
+    "districtCode": "96.01.070",
+    "name": "Ohotya",
+    "alias": "Ohotya"
+  },
+  {
+    "code": "96.01.070.003",
+    "villageCode": "003",
+    "districtCode": "96.01.070",
+    "name": "Omawita",
+    "alias": "Omawita"
+  },
+  {
+    "code": "96.01.070.004",
+    "villageCode": "004",
+    "districtCode": "96.01.070",
+    "name": "Amamapare",
+    "alias": "Amamapare"
+  },
+  {
+    "code": "96.01.070.005",
+    "villageCode": "005",
+    "districtCode": "96.01.070",
+    "name": "Ayuka",
+    "alias": "Ayuka"
+  }
+]

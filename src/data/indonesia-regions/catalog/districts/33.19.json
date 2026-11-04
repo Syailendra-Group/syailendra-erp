@@ -1,0 +1,74 @@
+[
+  {
+    "code": "33.19.010",
+    "districtCode": "010",
+    "regencyCode": "33.19",
+    "provinceCode": "33",
+    "name": "Kecamatan Kaliwungu",
+    "alias": "Kaliwungu"
+  },
+  {
+    "code": "33.19.020",
+    "districtCode": "020",
+    "regencyCode": "33.19",
+    "provinceCode": "33",
+    "name": "Kecamatan Kota Kudus",
+    "alias": "Kota Kudus"
+  },
+  {
+    "code": "33.19.030",
+    "districtCode": "030",
+    "regencyCode": "33.19",
+    "provinceCode": "33",
+    "name": "Kecamatan Jati",
+    "alias": "Jati"
+  },
+  {
+    "code": "33.19.040",
+    "districtCode": "040",
+    "regencyCode": "33.19",
+    "provinceCode": "33",
+    "name": "Kecamatan Undaan",
+    "alias": "Undaan"
+  },
+  {
+    "code": "33.19.050",
+    "districtCode": "050",
+    "regencyCode": "33.19",
+    "provinceCode": "33",
+    "name": "Kecamatan Mejobo",
+    "alias": "Mejobo"
+  },
+  {
+    "code": "33.19.060",
+    "districtCode": "060",
+    "regencyCode": "33.19",
+    "provinceCode": "33",
+    "name": "Kecamatan Jekulo",
+    "alias": "Jekulo"
+  },
+  {
+    "code": "33.19.070",
+    "districtCode": "070",
+    "regencyCode": "33.19",
+    "provinceCode": "33",
+    "name": "Kecamatan Bae",
+    "alias": "Bae"
+  },
+  {
+    "code": "33.19.080",
+    "districtCode": "080",
+    "regencyCode": "33.19",
+    "provinceCode": "33",
+    "name": "Kecamatan Gebog",
+    "alias": "Gebog"
+  },
+  {
+    "code": "33.19.090",
+    "districtCode": "090",
+    "regencyCode": "33.19",
+    "provinceCode": "33",
+    "name": "Kecamatan Dawe",
+    "alias": "Dawe"
+  }
+]

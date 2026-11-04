@@ -1,0 +1,58 @@
+[
+  {
+    "code": "32.15.113.001",
+    "villageCode": "001",
+    "districtCode": "32.15.113",
+    "name": "Adiarsa Barat",
+    "alias": "Adiarsa Barat"
+  },
+  {
+    "code": "32.15.113.002",
+    "villageCode": "002",
+    "districtCode": "32.15.113",
+    "name": "Nagasari",
+    "alias": "Nagasari"
+  },
+  {
+    "code": "32.15.113.003",
+    "villageCode": "003",
+    "districtCode": "32.15.113",
+    "name": "Karawang Kulon",
+    "alias": "Karawang Kulon"
+  },
+  {
+    "code": "32.15.113.004",
+    "villageCode": "004",
+    "districtCode": "32.15.113",
+    "name": "Tanjungpura",
+    "alias": "Tanjungpura"
+  },
+  {
+    "code": "32.15.113.005",
+    "villageCode": "005",
+    "districtCode": "32.15.113",
+    "name": "Tanjungmekar",
+    "alias": "Tanjungmekar"
+  },
+  {
+    "code": "32.15.113.006",
+    "villageCode": "006",
+    "districtCode": "32.15.113",
+    "name": "Karangpawitan",
+    "alias": "Karangpawitan"
+  },
+  {
+    "code": "32.15.113.007",
+    "villageCode": "007",
+    "districtCode": "32.15.113",
+    "name": "Mekarjati",
+    "alias": "Mekarjati"
+  },
+  {
+    "code": "32.15.113.008",
+    "villageCode": "008",
+    "districtCode": "32.15.113",
+    "name": "Tunggakjati",
+    "alias": "Tunggakjati"
+  }
+]

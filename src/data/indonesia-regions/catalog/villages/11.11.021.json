@@ -1,0 +1,44 @@
+[
+  {
+    "code": "11.11.021.001",
+    "villageCode": "001",
+    "districtCode": "11.11.021",
+    "name": "Alue Dua",
+    "alias": "Alue Dua"
+  },
+  {
+    "code": "11.11.021.002",
+    "villageCode": "002",
+    "districtCode": "11.11.021",
+    "name": "Alue Papeun",
+    "alias": "Alue Papeun"
+  },
+  {
+    "code": "11.11.021.003",
+    "villageCode": "003",
+    "districtCode": "11.11.021",
+    "name": "Blang Jrat",
+    "alias": "Blang Jrat"
+  },
+  {
+    "code": "11.11.021.004",
+    "villageCode": "004",
+    "districtCode": "11.11.021",
+    "name": "Blang Pohroh",
+    "alias": "Blang Pohroh"
+  },
+  {
+    "code": "11.11.021.005",
+    "villageCode": "005",
+    "districtCode": "11.11.021",
+    "name": "Darussalam",
+    "alias": "Darussalam"
+  },
+  {
+    "code": "11.11.021.006",
+    "villageCode": "006",
+    "districtCode": "11.11.021",
+    "name": "Seumirah",
+    "alias": "Seumirah"
+  }
+]

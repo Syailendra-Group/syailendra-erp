@@ -1,0 +1,114 @@
+[
+  {
+    "code": "33.22.120.001",
+    "villageCode": "001",
+    "districtCode": "33.22.120",
+    "name": "Bringin",
+    "alias": "Bringin"
+  },
+  {
+    "code": "33.22.120.002",
+    "villageCode": "002",
+    "districtCode": "33.22.120",
+    "name": "Popongan",
+    "alias": "Popongan"
+  },
+  {
+    "code": "33.22.120.003",
+    "villageCode": "003",
+    "districtCode": "33.22.120",
+    "name": "Pakis",
+    "alias": "Pakis"
+  },
+  {
+    "code": "33.22.120.004",
+    "villageCode": "004",
+    "districtCode": "33.22.120",
+    "name": "Lebak",
+    "alias": "Lebak"
+  },
+  {
+    "code": "33.22.120.005",
+    "villageCode": "005",
+    "districtCode": "33.22.120",
+    "name": "Banding",
+    "alias": "Banding"
+  },
+  {
+    "code": "33.22.120.006",
+    "villageCode": "006",
+    "districtCode": "33.22.120",
+    "name": "Truko",
+    "alias": "Truko"
+  },
+  {
+    "code": "33.22.120.016",
+    "villageCode": "016",
+    "districtCode": "33.22.120",
+    "name": "Nyemoh",
+    "alias": "Nyemoh"
+  },
+  {
+    "code": "33.22.120.017",
+    "villageCode": "017",
+    "districtCode": "33.22.120",
+    "name": "Tempuran",
+    "alias": "Tempuran"
+  },
+  {
+    "code": "33.22.120.018",
+    "villageCode": "018",
+    "districtCode": "33.22.120",
+    "name": "Wiru",
+    "alias": "Wiru"
+  },
+  {
+    "code": "33.22.120.019",
+    "villageCode": "019",
+    "districtCode": "33.22.120",
+    "name": "Sendang",
+    "alias": "Sendang"
+  },
+  {
+    "code": "33.22.120.020",
+    "villageCode": "020",
+    "districtCode": "33.22.120",
+    "name": "Gogodalem",
+    "alias": "Gogodalem"
+  },
+  {
+    "code": "33.22.120.021",
+    "villageCode": "021",
+    "districtCode": "33.22.120",
+    "name": "Rembes",
+    "alias": "Rembes"
+  },
+  {
+    "code": "33.22.120.022",
+    "villageCode": "022",
+    "districtCode": "33.22.120",
+    "name": "Kalikurmo",
+    "alias": "Kalikurmo"
+  },
+  {
+    "code": "33.22.120.023",
+    "villageCode": "023",
+    "districtCode": "33.22.120",
+    "name": "Sambirejo",
+    "alias": "Sambirejo"
+  },
+  {
+    "code": "33.22.120.024",
+    "villageCode": "024",
+    "districtCode": "33.22.120",
+    "name": "Kalijambe",
+    "alias": "Kalijambe"
+  },
+  {
+    "code": "33.22.120.025",
+    "villageCode": "025",
+    "districtCode": "33.22.120",
+    "name": "Tanjung",
+    "alias": "Tanjung"
+  }
+]

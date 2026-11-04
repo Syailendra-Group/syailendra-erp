@@ -1,0 +1,191 @@
+[
+  {
+    "code": "11.10.090.001",
+    "villageCode": "001",
+    "districtCode": "11.10.090",
+    "name": "Sukarame",
+    "alias": "Sukarame"
+  },
+  {
+    "code": "11.10.090.002",
+    "villageCode": "002",
+    "districtCode": "11.10.090",
+    "name": "Panton Mesjid",
+    "alias": "Panton Mesjid"
+  },
+  {
+    "code": "11.10.090.003",
+    "villageCode": "003",
+    "districtCode": "11.10.090",
+    "name": "Alue Dua",
+    "alias": "Alue Dua"
+  },
+  {
+    "code": "11.10.090.004",
+    "villageCode": "004",
+    "districtCode": "11.10.090",
+    "name": "Blang Perlak",
+    "alias": "Blang Perlak"
+  },
+  {
+    "code": "11.10.090.005",
+    "villageCode": "005",
+    "districtCode": "11.10.090",
+    "name": "Tanjong Mulia",
+    "alias": "Tanjong Mulia"
+  },
+  {
+    "code": "11.10.090.006",
+    "villageCode": "006",
+    "districtCode": "11.10.090",
+    "name": "Matang Kumbang",
+    "alias": "Matang Kumbang"
+  },
+  {
+    "code": "11.10.090.007",
+    "villageCode": "007",
+    "districtCode": "11.10.090",
+    "name": "Meureubo",
+    "alias": "Meureubo"
+  },
+  {
+    "code": "11.10.090.008",
+    "villageCode": "008",
+    "districtCode": "11.10.090",
+    "name": "Seuneubok Baro",
+    "alias": "Seuneubok Baro"
+  },
+  {
+    "code": "11.10.090.009",
+    "villageCode": "009",
+    "districtCode": "11.10.090",
+    "name": "Blang Dalam",
+    "alias": "Blang Dalam"
+  },
+  {
+    "code": "11.10.090.010",
+    "villageCode": "010",
+    "districtCode": "11.10.090",
+    "name": "Pandak",
+    "alias": "Pandak"
+  },
+  {
+    "code": "11.10.090.011",
+    "villageCode": "011",
+    "districtCode": "11.10.090",
+    "name": "Blang Mane",
+    "alias": "Blang Mane"
+  },
+  {
+    "code": "11.10.090.012",
+    "villageCode": "012",
+    "districtCode": "11.10.090",
+    "name": "Pante Breuh",
+    "alias": "Pante Breuh"
+  },
+  {
+    "code": "11.10.090.013",
+    "villageCode": "013",
+    "districtCode": "11.10.090",
+    "name": "Ulee Gle",
+    "alias": "Ulee Gle"
+  },
+  {
+    "code": "11.10.090.014",
+    "villageCode": "014",
+    "districtCode": "11.10.090",
+    "name": "Mon Ara",
+    "alias": "Mon Ara"
+  },
+  {
+    "code": "11.10.090.015",
+    "villageCode": "015",
+    "districtCode": "11.10.090",
+    "name": "Lapehan Mesjid",
+    "alias": "Lapehan Mesjid"
+  },
+  {
+    "code": "11.10.090.016",
+    "villageCode": "016",
+    "districtCode": "11.10.090",
+    "name": "Buket Selamat",
+    "alias": "Buket Selamat"
+  },
+  {
+    "code": "11.10.090.017",
+    "villageCode": "017",
+    "districtCode": "11.10.090",
+    "name": "Blang Kutang",
+    "alias": "Blang Kutang"
+  },
+  {
+    "code": "11.10.090.018",
+    "villageCode": "018",
+    "districtCode": "11.10.090",
+    "name": "Cot Kruet",
+    "alias": "Cot Kruet"
+  },
+  {
+    "code": "11.10.090.019",
+    "villageCode": "019",
+    "districtCode": "11.10.090",
+    "name": "Trienggadeng",
+    "alias": "Trienggadeng"
+  },
+  {
+    "code": "11.10.090.020",
+    "villageCode": "020",
+    "districtCode": "11.10.090",
+    "name": "Leubu Mesjid",
+    "alias": "Leubu Mesjid"
+  },
+  {
+    "code": "11.10.090.021",
+    "villageCode": "021",
+    "districtCode": "11.10.090",
+    "name": "Kuta Barat",
+    "alias": "Kuta Barat"
+  },
+  {
+    "code": "11.10.090.022",
+    "villageCode": "022",
+    "districtCode": "11.10.090",
+    "name": "Leubu Cot",
+    "alias": "Leubu Cot"
+  },
+  {
+    "code": "11.10.090.023",
+    "villageCode": "023",
+    "districtCode": "11.10.090",
+    "name": "Paya Dua",
+    "alias": "Paya Dua"
+  },
+  {
+    "code": "11.10.090.024",
+    "villageCode": "024",
+    "districtCode": "11.10.090",
+    "name": "Leubu Me",
+    "alias": "Leubu Me"
+  },
+  {
+    "code": "11.10.090.025",
+    "villageCode": "025",
+    "districtCode": "11.10.090",
+    "name": "Batee Dabai",
+    "alias": "Batee Dabai"
+  },
+  {
+    "code": "11.10.090.026",
+    "villageCode": "026",
+    "districtCode": "11.10.090",
+    "name": "Pulo Teungoh",
+    "alias": "Pulo Teungoh"
+  },
+  {
+    "code": "11.10.090.027",
+    "villageCode": "027",
+    "districtCode": "11.10.090",
+    "name": "Ara Lipeh",
+    "alias": "Ara Lipeh"
+  }
+]

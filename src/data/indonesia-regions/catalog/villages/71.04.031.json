@@ -1,0 +1,44 @@
+[
+  {
+    "code": "71.04.031.001",
+    "villageCode": "001",
+    "districtCode": "71.04.031",
+    "name": "Tule",
+    "alias": "Tule"
+  },
+  {
+    "code": "71.04.031.002",
+    "villageCode": "002",
+    "districtCode": "71.04.031",
+    "name": "Tule Utara",
+    "alias": "Tule Utara"
+  },
+  {
+    "code": "71.04.031.003",
+    "villageCode": "003",
+    "districtCode": "71.04.031",
+    "name": "Tule Tengah",
+    "alias": "Tule Tengah"
+  },
+  {
+    "code": "71.04.031.004",
+    "villageCode": "004",
+    "districtCode": "71.04.031",
+    "name": "Bowombaru",
+    "alias": "Bowombaru"
+  },
+  {
+    "code": "71.04.031.005",
+    "villageCode": "005",
+    "districtCode": "71.04.031",
+    "name": "Bowombaru Tengah",
+    "alias": "Bowombaru Tengah"
+  },
+  {
+    "code": "71.04.031.006",
+    "villageCode": "006",
+    "districtCode": "71.04.031",
+    "name": "Bowombaru Utara",
+    "alias": "Bowombaru Utara"
+  }
+]

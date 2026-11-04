@@ -1,0 +1,128 @@
+[
+  {
+    "code": "64.03.110.001",
+    "villageCode": "001",
+    "districtCode": "64.03.110",
+    "name": "Loa Lepu",
+    "alias": "Loa Lepu"
+  },
+  {
+    "code": "64.03.110.002",
+    "villageCode": "002",
+    "districtCode": "64.03.110",
+    "name": "Teluk Dalam",
+    "alias": "Teluk Dalam"
+  },
+  {
+    "code": "64.03.110.003",
+    "villageCode": "003",
+    "districtCode": "64.03.110",
+    "name": "Perjiwa",
+    "alias": "Perjiwa"
+  },
+  {
+    "code": "64.03.110.004",
+    "villageCode": "004",
+    "districtCode": "64.03.110",
+    "name": "Loa Raya",
+    "alias": "Loa Raya"
+  },
+  {
+    "code": "64.03.110.005",
+    "villageCode": "005",
+    "districtCode": "64.03.110",
+    "name": "Loa Ulung",
+    "alias": "Loa Ulung"
+  },
+  {
+    "code": "64.03.110.006",
+    "villageCode": "006",
+    "districtCode": "64.03.110",
+    "name": "Embalut",
+    "alias": "Embalut"
+  },
+  {
+    "code": "64.03.110.007",
+    "villageCode": "007",
+    "districtCode": "64.03.110",
+    "name": "Bukit Raya",
+    "alias": "Bukit Raya"
+  },
+  {
+    "code": "64.03.110.008",
+    "villageCode": "008",
+    "districtCode": "64.03.110",
+    "name": "Manunggal Jaya",
+    "alias": "Manunggal Jaya"
+  },
+  {
+    "code": "64.03.110.009",
+    "villageCode": "009",
+    "districtCode": "64.03.110",
+    "name": "Bangun Rejo",
+    "alias": "Bangun Rejo"
+  },
+  {
+    "code": "64.03.110.010",
+    "villageCode": "010",
+    "districtCode": "64.03.110",
+    "name": "Kerta Buana",
+    "alias": "Kerta Buana"
+  },
+  {
+    "code": "64.03.110.011",
+    "villageCode": "011",
+    "districtCode": "64.03.110",
+    "name": "Separi",
+    "alias": "Separi"
+  },
+  {
+    "code": "64.03.110.012",
+    "villageCode": "012",
+    "districtCode": "64.03.110",
+    "name": "Bukit Pariaman",
+    "alias": "Bukit Pariaman"
+  },
+  {
+    "code": "64.03.110.013",
+    "villageCode": "013",
+    "districtCode": "64.03.110",
+    "name": "Buana Jaya",
+    "alias": "Buana Jaya"
+  },
+  {
+    "code": "64.03.110.014",
+    "villageCode": "014",
+    "districtCode": "64.03.110",
+    "name": "Mulawarman",
+    "alias": "Mulawarman"
+  },
+  {
+    "code": "64.03.110.015",
+    "villageCode": "015",
+    "districtCode": "64.03.110",
+    "name": "Loa Pari",
+    "alias": "Loa Pari"
+  },
+  {
+    "code": "64.03.110.016",
+    "villageCode": "016",
+    "districtCode": "64.03.110",
+    "name": "Suka Maju",
+    "alias": "Suka Maju"
+  },
+  {
+    "code": "64.03.110.017",
+    "villageCode": "017",
+    "districtCode": "64.03.110",
+    "name": "Tanjung Batu",
+    "alias": "Tanjung Batu"
+  },
+  {
+    "code": "64.03.110.018",
+    "villageCode": "018",
+    "districtCode": "64.03.110",
+    "name": "Karang Tunggal",
+    "alias": "Karang Tunggal"
+  }
+]

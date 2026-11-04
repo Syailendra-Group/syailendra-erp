@@ -31,17 +31,11 @@ function DistrictsPrimaryButtons(): ReactElement {
 
 function DistrictsContent(): ReactElement {
   const t = useTranslations('others.districts')
-  const { setOpen, setCurrentRow } = useDistrict()
 
   return (
     <div className="space-y-4 sm:space-y-6">
       <PageHeader title={t('title')} description={t('subtitle')} icon={Compass} actions={<DistrictsPrimaryButtons />} />
-      <DistrictsTable
-        onArchive={(item) => {
-          setCurrentRow(item)
-          setOpen('delete')
-        }}
-      />
+      <DistrictsTable />
       <DistrictsDialogs />
     </div>
   )

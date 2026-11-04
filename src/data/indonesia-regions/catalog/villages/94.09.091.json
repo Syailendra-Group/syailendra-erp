@@ -1,0 +1,58 @@
+[
+  {
+    "code": "94.09.091.001",
+    "villageCode": "001",
+    "districtCode": "94.09.091",
+    "name": "Karmon",
+    "alias": "Karmon"
+  },
+  {
+    "code": "94.09.091.002",
+    "villageCode": "002",
+    "districtCode": "94.09.091",
+    "name": "Sor",
+    "alias": "Sor"
+  },
+  {
+    "code": "94.09.091.003",
+    "villageCode": "003",
+    "districtCode": "94.09.091",
+    "name": "Yawosi/Fanindi",
+    "alias": "Yawosi/Fanindi"
+  },
+  {
+    "code": "94.09.091.004",
+    "villageCode": "004",
+    "districtCode": "94.09.091",
+    "name": "Wasori",
+    "alias": "Wasori"
+  },
+  {
+    "code": "94.09.091.005",
+    "villageCode": "005",
+    "districtCode": "94.09.091",
+    "name": "Bosnabraidi",
+    "alias": "Bosnabraidi"
+  },
+  {
+    "code": "94.09.091.006",
+    "villageCode": "006",
+    "districtCode": "94.09.091",
+    "name": "Asur",
+    "alias": "Asur"
+  },
+  {
+    "code": "94.09.091.007",
+    "villageCode": "007",
+    "districtCode": "94.09.091",
+    "name": "Indawi",
+    "alias": "Indawi"
+  },
+  {
+    "code": "94.09.091.008",
+    "villageCode": "008",
+    "districtCode": "94.09.091",
+    "name": "Madirai",
+    "alias": "Madirai"
+  }
+]

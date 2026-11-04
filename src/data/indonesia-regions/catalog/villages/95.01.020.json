@@ -1,0 +1,44 @@
+[
+  {
+    "code": "95.01.020.001",
+    "villageCode": "001",
+    "districtCode": "95.01.020",
+    "name": "Kladar",
+    "alias": "Kladar"
+  },
+  {
+    "code": "95.01.020.002",
+    "villageCode": "002",
+    "districtCode": "95.01.020",
+    "name": "Tor",
+    "alias": "Tor"
+  },
+  {
+    "code": "95.01.020.003",
+    "villageCode": "003",
+    "districtCode": "95.01.020",
+    "name": "Sabon",
+    "alias": "Sabon"
+  },
+  {
+    "code": "95.01.020.004",
+    "villageCode": "004",
+    "districtCode": "95.01.020",
+    "name": "Defnawanga",
+    "alias": "Defnawanga"
+  },
+  {
+    "code": "95.01.020.005",
+    "villageCode": "005",
+    "districtCode": "95.01.020",
+    "name": "Waan",
+    "alias": "Waan"
+  },
+  {
+    "code": "95.01.020.006",
+    "villageCode": "006",
+    "districtCode": "95.01.020",
+    "name": "Konorau",
+    "alias": "Konorau"
+  }
+]

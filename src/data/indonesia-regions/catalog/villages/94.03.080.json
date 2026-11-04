@@ -1,0 +1,37 @@
+[
+  {
+    "code": "94.03.080.004",
+    "villageCode": "004",
+    "districtCode": "94.03.080",
+    "name": "Soskotek",
+    "alias": "Soskotek"
+  },
+  {
+    "code": "94.03.080.005",
+    "villageCode": "005",
+    "districtCode": "94.03.080",
+    "name": "Lapua",
+    "alias": "Lapua"
+  },
+  {
+    "code": "94.03.080.006",
+    "villageCode": "006",
+    "districtCode": "94.03.080",
+    "name": "Sebum",
+    "alias": "Sebum"
+  },
+  {
+    "code": "94.03.080.007",
+    "villageCode": "007",
+    "districtCode": "94.03.080",
+    "name": "Umbron",
+    "alias": "Umbron"
+  },
+  {
+    "code": "94.03.080.008",
+    "villageCode": "008",
+    "districtCode": "94.03.080",
+    "name": "Yadauw",
+    "alias": "Yadauw"
+  }
+]

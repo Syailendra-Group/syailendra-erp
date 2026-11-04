@@ -1,0 +1,100 @@
+[
+  {
+    "code": "81.01.040.001",
+    "villageCode": "001",
+    "districtCode": "81.01.040",
+    "name": "Lermatang",
+    "alias": "Lermatang"
+  },
+  {
+    "code": "81.01.040.002",
+    "villageCode": "002",
+    "districtCode": "81.01.040",
+    "name": "Latdalam",
+    "alias": "Latdalam"
+  },
+  {
+    "code": "81.01.040.009",
+    "villageCode": "009",
+    "districtCode": "81.01.040",
+    "name": "Saumlaki",
+    "alias": "Saumlaki"
+  },
+  {
+    "code": "81.01.040.010",
+    "villageCode": "010",
+    "districtCode": "81.01.040",
+    "name": "Olilit",
+    "alias": "Olilit"
+  },
+  {
+    "code": "81.01.040.011",
+    "villageCode": "011",
+    "districtCode": "81.01.040",
+    "name": "Sifnana",
+    "alias": "Sifnana"
+  },
+  {
+    "code": "81.01.040.012",
+    "villageCode": "012",
+    "districtCode": "81.01.040",
+    "name": "Lauran",
+    "alias": "Lauran"
+  },
+  {
+    "code": "81.01.040.013",
+    "villageCode": "013",
+    "districtCode": "81.01.040",
+    "name": "Kabiarat Raya",
+    "alias": "Kabiarat Raya"
+  },
+  {
+    "code": "81.01.040.014",
+    "villageCode": "014",
+    "districtCode": "81.01.040",
+    "name": "Ilngei",
+    "alias": "Ilngei"
+  },
+  {
+    "code": "81.01.040.015",
+    "villageCode": "015",
+    "districtCode": "81.01.040",
+    "name": "Wowonda",
+    "alias": "Wowonda"
+  },
+  {
+    "code": "81.01.040.016",
+    "villageCode": "016",
+    "districtCode": "81.01.040",
+    "name": "Matakus",
+    "alias": "Matakus"
+  },
+  {
+    "code": "81.01.040.017",
+    "villageCode": "017",
+    "districtCode": "81.01.040",
+    "name": "Bomaki",
+    "alias": "Bomaki"
+  },
+  {
+    "code": "81.01.040.018",
+    "villageCode": "018",
+    "districtCode": "81.01.040",
+    "name": "Raw Wurtulely",
+    "alias": "Raw Wurtulely"
+  },
+  {
+    "code": "81.01.040.019",
+    "villageCode": "019",
+    "districtCode": "81.01.040",
+    "name": "Saumlaki Utara",
+    "alias": "Saumlaki Utara"
+  },
+  {
+    "code": "81.01.040.020",
+    "villageCode": "020",
+    "districtCode": "81.01.040",
+    "name": "Ilngei Barat",
+    "alias": "Ilngei Barat"
+  }
+]

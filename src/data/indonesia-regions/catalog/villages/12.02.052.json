@@ -1,0 +1,72 @@
+[
+  {
+    "code": "12.02.052.001",
+    "villageCode": "001",
+    "districtCode": "12.02.052",
+    "name": "Longat",
+    "alias": "Longat"
+  },
+  {
+    "code": "12.02.052.002",
+    "villageCode": "002",
+    "districtCode": "12.02.052",
+    "name": "Sirambas",
+    "alias": "Sirambas"
+  },
+  {
+    "code": "12.02.052.003",
+    "villageCode": "003",
+    "districtCode": "12.02.052",
+    "name": "Sabajior",
+    "alias": "Sabajior"
+  },
+  {
+    "code": "12.02.052.004",
+    "villageCode": "004",
+    "districtCode": "12.02.052",
+    "name": "Hutabaringin",
+    "alias": "Hutabaringin"
+  },
+  {
+    "code": "12.02.052.005",
+    "villageCode": "005",
+    "districtCode": "12.02.052",
+    "name": "Batang Gadis",
+    "alias": "Batang Gadis"
+  },
+  {
+    "code": "12.02.052.006",
+    "villageCode": "006",
+    "districtCode": "12.02.052",
+    "name": "Barbaran",
+    "alias": "Barbaran"
+  },
+  {
+    "code": "12.02.052.007",
+    "villageCode": "007",
+    "districtCode": "12.02.052",
+    "name": "Huta Tonga Barbaran",
+    "alias": "Huta Tonga Barbaran"
+  },
+  {
+    "code": "12.02.052.008",
+    "villageCode": "008",
+    "districtCode": "12.02.052",
+    "name": "Runding",
+    "alias": "Runding"
+  },
+  {
+    "code": "12.02.052.009",
+    "villageCode": "009",
+    "districtCode": "12.02.052",
+    "name": "Barbaran Jae",
+    "alias": "Barbaran Jae"
+  },
+  {
+    "code": "12.02.052.010",
+    "villageCode": "010",
+    "districtCode": "12.02.052",
+    "name": "Batang Gadis Jae",
+    "alias": "Batang Gadis Jae"
+  }
+]

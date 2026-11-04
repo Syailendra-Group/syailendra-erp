@@ -1,0 +1,72 @@
+[
+  {
+    "code": "36.04.090.001",
+    "villageCode": "001",
+    "districtCode": "36.04.090",
+    "name": "Wirana",
+    "alias": "Wirana"
+  },
+  {
+    "code": "36.04.090.002",
+    "villageCode": "002",
+    "districtCode": "36.04.090",
+    "name": "Sangiang",
+    "alias": "Sangiang"
+  },
+  {
+    "code": "36.04.090.003",
+    "villageCode": "003",
+    "districtCode": "36.04.090",
+    "name": "Damping",
+    "alias": "Damping"
+  },
+  {
+    "code": "36.04.090.004",
+    "villageCode": "004",
+    "districtCode": "36.04.090",
+    "name": "Kebon Cau",
+    "alias": "Kebon Cau"
+  },
+  {
+    "code": "36.04.090.005",
+    "villageCode": "005",
+    "districtCode": "36.04.090",
+    "name": "Pudar",
+    "alias": "Pudar"
+  },
+  {
+    "code": "36.04.090.006",
+    "villageCode": "006",
+    "districtCode": "36.04.090",
+    "name": "Binong",
+    "alias": "Binong"
+  },
+  {
+    "code": "36.04.090.007",
+    "villageCode": "007",
+    "districtCode": "36.04.090",
+    "name": "Pamarayan",
+    "alias": "Pamarayan"
+  },
+  {
+    "code": "36.04.090.008",
+    "villageCode": "008",
+    "districtCode": "36.04.090",
+    "name": "Kampung Baru",
+    "alias": "Kampung Baru"
+  },
+  {
+    "code": "36.04.090.010",
+    "villageCode": "010",
+    "districtCode": "36.04.090",
+    "name": "Pasirlimus",
+    "alias": "Pasirlimus"
+  },
+  {
+    "code": "36.04.090.011",
+    "villageCode": "011",
+    "districtCode": "36.04.090",
+    "name": "Pasir Kembang",
+    "alias": "Pasir Kembang"
+  }
+]

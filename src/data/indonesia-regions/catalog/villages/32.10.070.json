@@ -1,0 +1,100 @@
+[
+  {
+    "code": "32.10.070.001",
+    "villageCode": "001",
+    "districtCode": "32.10.070",
+    "name": "Babakan Jawa",
+    "alias": "Babakan Jawa"
+  },
+  {
+    "code": "32.10.070.002",
+    "villageCode": "002",
+    "districtCode": "32.10.070",
+    "name": "Cibodas",
+    "alias": "Cibodas"
+  },
+  {
+    "code": "32.10.070.003",
+    "villageCode": "003",
+    "districtCode": "32.10.070",
+    "name": "Kulur",
+    "alias": "Kulur"
+  },
+  {
+    "code": "32.10.070.004",
+    "villageCode": "004",
+    "districtCode": "32.10.070",
+    "name": "Kawunggirang",
+    "alias": "Kawunggirang"
+  },
+  {
+    "code": "32.10.070.005",
+    "villageCode": "005",
+    "districtCode": "32.10.070",
+    "name": "Sindangkasih",
+    "alias": "Sindangkasih"
+  },
+  {
+    "code": "32.10.070.006",
+    "villageCode": "006",
+    "districtCode": "32.10.070",
+    "name": "Cicurug",
+    "alias": "Cicurug"
+  },
+  {
+    "code": "32.10.070.007",
+    "villageCode": "007",
+    "districtCode": "32.10.070",
+    "name": "Majalengka Wetan",
+    "alias": "Majalengka Wetan"
+  },
+  {
+    "code": "32.10.070.008",
+    "villageCode": "008",
+    "districtCode": "32.10.070",
+    "name": "Tonjong",
+    "alias": "Tonjong"
+  },
+  {
+    "code": "32.10.070.009",
+    "villageCode": "009",
+    "districtCode": "32.10.070",
+    "name": "Tarikolot",
+    "alias": "Tarikolot"
+  },
+  {
+    "code": "32.10.070.010",
+    "villageCode": "010",
+    "districtCode": "32.10.070",
+    "name": "Cikasarung",
+    "alias": "Cikasarung"
+  },
+  {
+    "code": "32.10.070.011",
+    "villageCode": "011",
+    "districtCode": "32.10.070",
+    "name": "Cijati",
+    "alias": "Cijati"
+  },
+  {
+    "code": "32.10.070.012",
+    "villageCode": "012",
+    "districtCode": "32.10.070",
+    "name": "Majalengka Kulon",
+    "alias": "Majalengka Kulon"
+  },
+  {
+    "code": "32.10.070.013",
+    "villageCode": "013",
+    "districtCode": "32.10.070",
+    "name": "Munjul",
+    "alias": "Munjul"
+  },
+  {
+    "code": "32.10.070.014",
+    "villageCode": "014",
+    "districtCode": "32.10.070",
+    "name": "Sidamukti",
+    "alias": "Sidamukti"
+  }
+]

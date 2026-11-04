@@ -1,0 +1,100 @@
+[
+  {
+    "code": "32.12.120.001",
+    "villageCode": "001",
+    "districtCode": "32.12.120",
+    "name": "Sleman",
+    "alias": "Sleman"
+  },
+  {
+    "code": "32.12.120.002",
+    "villageCode": "002",
+    "districtCode": "32.12.120",
+    "name": "Tambi",
+    "alias": "Tambi"
+  },
+  {
+    "code": "32.12.120.003",
+    "villageCode": "003",
+    "districtCode": "32.12.120",
+    "name": "Sudikampiran",
+    "alias": "Sudikampiran"
+  },
+  {
+    "code": "32.12.120.004",
+    "villageCode": "004",
+    "districtCode": "32.12.120",
+    "name": "Tambi Lor",
+    "alias": "Tambi Lor"
+  },
+  {
+    "code": "32.12.120.005",
+    "villageCode": "005",
+    "districtCode": "32.12.120",
+    "name": "Sleman Lor",
+    "alias": "Sleman Lor"
+  },
+  {
+    "code": "32.12.120.006",
+    "villageCode": "006",
+    "districtCode": "32.12.120",
+    "name": "Majasari",
+    "alias": "Majasari"
+  },
+  {
+    "code": "32.12.120.007",
+    "villageCode": "007",
+    "districtCode": "32.12.120",
+    "name": "Majasih",
+    "alias": "Majasih"
+  },
+  {
+    "code": "32.12.120.008",
+    "villageCode": "008",
+    "districtCode": "32.12.120",
+    "name": "Sliyeg",
+    "alias": "Sliyeg"
+  },
+  {
+    "code": "32.12.120.009",
+    "villageCode": "009",
+    "districtCode": "32.12.120",
+    "name": "Gadingan",
+    "alias": "Gadingan"
+  },
+  {
+    "code": "32.12.120.010",
+    "villageCode": "010",
+    "districtCode": "32.12.120",
+    "name": "Mekargading",
+    "alias": "Mekargading"
+  },
+  {
+    "code": "32.12.120.011",
+    "villageCode": "011",
+    "districtCode": "32.12.120",
+    "name": "Sliyeglor",
+    "alias": "Sliyeglor"
+  },
+  {
+    "code": "32.12.120.012",
+    "villageCode": "012",
+    "districtCode": "32.12.120",
+    "name": "Tugu Kidul",
+    "alias": "Tugu Kidul"
+  },
+  {
+    "code": "32.12.120.013",
+    "villageCode": "013",
+    "districtCode": "32.12.120",
+    "name": "Tugu",
+    "alias": "Tugu"
+  },
+  {
+    "code": "32.12.120.016",
+    "villageCode": "016",
+    "districtCode": "32.12.120",
+    "name": "Longok",
+    "alias": "Longok"
+  }
+]

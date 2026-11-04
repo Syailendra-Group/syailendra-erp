@@ -1,0 +1,72 @@
+[
+  {
+    "code": "74.11.050.001",
+    "villageCode": "001",
+    "districtCode": "74.11.050",
+    "name": "Raraa",
+    "alias": "Raraa"
+  },
+  {
+    "code": "74.11.050.002",
+    "villageCode": "002",
+    "districtCode": "74.11.050",
+    "name": "Welala",
+    "alias": "Welala"
+  },
+  {
+    "code": "74.11.050.003",
+    "villageCode": "003",
+    "districtCode": "74.11.050",
+    "name": "Atula",
+    "alias": "Atula"
+  },
+  {
+    "code": "74.11.050.004",
+    "villageCode": "004",
+    "districtCode": "74.11.050",
+    "name": "Pombeyoha",
+    "alias": "Pombeyoha"
+  },
+  {
+    "code": "74.11.050.005",
+    "villageCode": "005",
+    "districtCode": "74.11.050",
+    "name": "Wungguloko",
+    "alias": "Wungguloko"
+  },
+  {
+    "code": "74.11.050.006",
+    "villageCode": "006",
+    "districtCode": "74.11.050",
+    "name": "Ladongi Jaya",
+    "alias": "Ladongi Jaya"
+  },
+  {
+    "code": "74.11.050.007",
+    "villageCode": "007",
+    "districtCode": "74.11.050",
+    "name": "Tongandiu",
+    "alias": "Tongandiu"
+  },
+  {
+    "code": "74.11.050.008",
+    "villageCode": "008",
+    "districtCode": "74.11.050",
+    "name": "Lalowosula",
+    "alias": "Lalowosula"
+  },
+  {
+    "code": "74.11.050.009",
+    "villageCode": "009",
+    "districtCode": "74.11.050",
+    "name": "Putemata",
+    "alias": "Putemata"
+  },
+  {
+    "code": "74.11.050.010",
+    "villageCode": "010",
+    "districtCode": "74.11.050",
+    "name": "Anggaloosi",
+    "alias": "Anggaloosi"
+  }
+]

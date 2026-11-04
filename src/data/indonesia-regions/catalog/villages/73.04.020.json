@@ -1,0 +1,86 @@
+[
+  {
+    "code": "73.04.020.001",
+    "villageCode": "001",
+    "districtCode": "73.04.020",
+    "name": "Bontosunggu",
+    "alias": "Bontosunggu"
+  },
+  {
+    "code": "73.04.020.002",
+    "villageCode": "002",
+    "districtCode": "73.04.020",
+    "name": "Bontojai",
+    "alias": "Bontojai"
+  },
+  {
+    "code": "73.04.020.003",
+    "villageCode": "003",
+    "districtCode": "73.04.020",
+    "name": "Borongtala",
+    "alias": "Borongtala"
+  },
+  {
+    "code": "73.04.020.004",
+    "villageCode": "004",
+    "districtCode": "73.04.020",
+    "name": "Turatea Timur",
+    "alias": "Turatea Timur"
+  },
+  {
+    "code": "73.04.020.005",
+    "villageCode": "005",
+    "districtCode": "73.04.020",
+    "name": "Turatea",
+    "alias": "Turatea"
+  },
+  {
+    "code": "73.04.020.006",
+    "villageCode": "006",
+    "districtCode": "73.04.020",
+    "name": "Bontotangnga",
+    "alias": "Bontotangnga"
+  },
+  {
+    "code": "73.04.020.007",
+    "villageCode": "007",
+    "districtCode": "73.04.020",
+    "name": "Manjangloe",
+    "alias": "Manjangloe"
+  },
+  {
+    "code": "73.04.020.008",
+    "villageCode": "008",
+    "districtCode": "73.04.020",
+    "name": "Karelayu",
+    "alias": "Karelayu"
+  },
+  {
+    "code": "73.04.020.012",
+    "villageCode": "012",
+    "districtCode": "73.04.020",
+    "name": "Taman Roya",
+    "alias": "Taman Roya"
+  },
+  {
+    "code": "73.04.020.013",
+    "villageCode": "013",
+    "districtCode": "73.04.020",
+    "name": "Tonrokassi Timur",
+    "alias": "Tonrokassi Timur"
+  },
+  {
+    "code": "73.04.020.015",
+    "villageCode": "015",
+    "districtCode": "73.04.020",
+    "name": "Tonrokassi",
+    "alias": "Tonrokassi"
+  },
+  {
+    "code": "73.04.020.016",
+    "villageCode": "016",
+    "districtCode": "73.04.020",
+    "name": "Tonrokassi Barat",
+    "alias": "Tonrokassi Barat"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "code": "72.12.010",
+    "districtCode": "010",
+    "regencyCode": "72.12",
+    "provinceCode": "72",
+    "name": "Kecamatan Mori Atas",
+    "alias": "Mori Atas"
+  },
+  {
+    "code": "72.12.020",
+    "districtCode": "020",
+    "regencyCode": "72.12",
+    "provinceCode": "72",
+    "name": "Kecamatan Lembo",
+    "alias": "Lembo"
+  },
+  {
+    "code": "72.12.030",
+    "districtCode": "030",
+    "regencyCode": "72.12",
+    "provinceCode": "72",
+    "name": "Kecamatan Lembo Raya",
+    "alias": "Lembo Raya"
+  },
+  {
+    "code": "72.12.040",
+    "districtCode": "040",
+    "regencyCode": "72.12",
+    "provinceCode": "72",
+    "name": "Kecamatan Petasia Timur",
+    "alias": "Petasia Timur"
+  },
+  {
+    "code": "72.12.050",
+    "districtCode": "050",
+    "regencyCode": "72.12",
+    "provinceCode": "72",
+    "name": "Kecamatan Petasia",
+    "alias": "Petasia"
+  },
+  {
+    "code": "72.12.060",
+    "districtCode": "060",
+    "regencyCode": "72.12",
+    "provinceCode": "72",
+    "name": "Kecamatan Petasia Barat",
+    "alias": "Petasia Barat"
+  },
+  {
+    "code": "72.12.070",
+    "districtCode": "070",
+    "regencyCode": "72.12",
+    "provinceCode": "72",
+    "name": "Kecamatan Mori Utara",
+    "alias": "Mori Utara"
+  },
+  {
+    "code": "72.12.080",
+    "districtCode": "080",
+    "regencyCode": "72.12",
+    "provinceCode": "72",
+    "name": "Kecamatan Soyo Jaya",
+    "alias": "Soyo Jaya"
+  },
+  {
+    "code": "72.12.090",
+    "districtCode": "090",
+    "regencyCode": "72.12",
+    "provinceCode": "72",
+    "name": "Kecamatan Bungku Utara",
+    "alias": "Bungku Utara"
+  },
+  {
+    "code": "72.12.100",
+    "districtCode": "100",
+    "regencyCode": "72.12",
+    "provinceCode": "72",
+    "name": "Kecamatan Mamosalato",
+    "alias": "Mamosalato"
+  }
+]

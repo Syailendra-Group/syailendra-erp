@@ -1,0 +1,37 @@
+[
+  {
+    "code": "11.14.040.001",
+    "villageCode": "001",
+    "districtCode": "11.14.040",
+    "name": "Sriwijaya",
+    "alias": "Sriwijaya"
+  },
+  {
+    "code": "11.14.040.002",
+    "villageCode": "002",
+    "districtCode": "11.14.040",
+    "name": "Kota Kualasimpang",
+    "alias": "Kota Kualasimpang"
+  },
+  {
+    "code": "11.14.040.003",
+    "villageCode": "003",
+    "districtCode": "11.14.040",
+    "name": "Perdamaian",
+    "alias": "Perdamaian"
+  },
+  {
+    "code": "11.14.040.004",
+    "villageCode": "004",
+    "districtCode": "11.14.040",
+    "name": "Bukit Tempurung",
+    "alias": "Bukit Tempurung"
+  },
+  {
+    "code": "11.14.040.005",
+    "villageCode": "005",
+    "districtCode": "11.14.040",
+    "name": "Kota Lintang",
+    "alias": "Kota Lintang"
+  }
+]

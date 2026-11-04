@@ -1,0 +1,100 @@
+[
+  {
+    "code": "96.03.040.001",
+    "villageCode": "001",
+    "districtCode": "96.03.040",
+    "name": "Kokobaya",
+    "alias": "Kokobaya"
+  },
+  {
+    "code": "96.03.040.002",
+    "villageCode": "002",
+    "districtCode": "96.03.040",
+    "name": "Dakebo",
+    "alias": "Dakebo"
+  },
+  {
+    "code": "96.03.040.003",
+    "villageCode": "003",
+    "districtCode": "96.03.040",
+    "name": "Dagokebo",
+    "alias": "Dagokebo"
+  },
+  {
+    "code": "96.03.040.004",
+    "villageCode": "004",
+    "districtCode": "96.03.040",
+    "name": "Edagotadi",
+    "alias": "Edagotadi"
+  },
+  {
+    "code": "96.03.040.005",
+    "villageCode": "005",
+    "districtCode": "96.03.040",
+    "name": "Udaugida",
+    "alias": "Udaugida"
+  },
+  {
+    "code": "96.03.040.006",
+    "villageCode": "006",
+    "districtCode": "96.03.040",
+    "name": "Ipokeugida",
+    "alias": "Ipokeugida"
+  },
+  {
+    "code": "96.03.040.007",
+    "villageCode": "007",
+    "districtCode": "96.03.040",
+    "name": "Idaiyodagi",
+    "alias": "Idaiyodagi"
+  },
+  {
+    "code": "96.03.040.008",
+    "villageCode": "008",
+    "districtCode": "96.03.040",
+    "name": "Watiyai",
+    "alias": "Watiyai"
+  },
+  {
+    "code": "96.03.040.009",
+    "villageCode": "009",
+    "districtCode": "96.03.040",
+    "name": "Damabagata",
+    "alias": "Damabagata"
+  },
+  {
+    "code": "96.03.040.010",
+    "villageCode": "010",
+    "districtCode": "96.03.040",
+    "name": "Bagou Ii",
+    "alias": "Bagou Ii"
+  },
+  {
+    "code": "96.03.040.011",
+    "villageCode": "011",
+    "districtCode": "96.03.040",
+    "name": "Waitakotu",
+    "alias": "Waitakotu"
+  },
+  {
+    "code": "96.03.040.012",
+    "villageCode": "012",
+    "districtCode": "96.03.040",
+    "name": "Pekepa",
+    "alias": "Pekepa"
+  },
+  {
+    "code": "96.03.040.013",
+    "villageCode": "013",
+    "districtCode": "96.03.040",
+    "name": "Bagou",
+    "alias": "Bagou"
+  },
+  {
+    "code": "96.03.040.014",
+    "villageCode": "014",
+    "districtCode": "96.03.040",
+    "name": "Bagumoma",
+    "alias": "Bagumoma"
+  }
+]

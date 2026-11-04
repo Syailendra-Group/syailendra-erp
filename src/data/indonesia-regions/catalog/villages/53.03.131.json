@@ -1,0 +1,58 @@
+[
+  {
+    "code": "53.03.131.001",
+    "villageCode": "001",
+    "districtCode": "53.03.131",
+    "name": "Nekbaun",
+    "alias": "Nekbaun"
+  },
+  {
+    "code": "53.03.131.002",
+    "villageCode": "002",
+    "districtCode": "53.03.131",
+    "name": "Merbaun",
+    "alias": "Merbaun"
+  },
+  {
+    "code": "53.03.131.003",
+    "villageCode": "003",
+    "districtCode": "53.03.131",
+    "name": "Erbaun",
+    "alias": "Erbaun"
+  },
+  {
+    "code": "53.03.131.004",
+    "villageCode": "004",
+    "districtCode": "53.03.131",
+    "name": "Teunbaun",
+    "alias": "Teunbaun"
+  },
+  {
+    "code": "53.03.131.005",
+    "villageCode": "005",
+    "districtCode": "53.03.131",
+    "name": "Tunbaun",
+    "alias": "Tunbaun"
+  },
+  {
+    "code": "53.03.131.006",
+    "villageCode": "006",
+    "districtCode": "53.03.131",
+    "name": "Soba",
+    "alias": "Soba"
+  },
+  {
+    "code": "53.03.131.007",
+    "villageCode": "007",
+    "districtCode": "53.03.131",
+    "name": "Niukbaun",
+    "alias": "Niukbaun"
+  },
+  {
+    "code": "53.03.131.008",
+    "villageCode": "008",
+    "districtCode": "53.03.131",
+    "name": "Toobaun",
+    "alias": "Toobaun"
+  }
+]

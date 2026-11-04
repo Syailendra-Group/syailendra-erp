@@ -1,0 +1,79 @@
+[
+  {
+    "code": "97.03.190.001",
+    "villageCode": "001",
+    "districtCode": "97.03.190",
+    "name": "Bonom",
+    "alias": "Bonom"
+  },
+  {
+    "code": "97.03.190.002",
+    "villageCode": "002",
+    "districtCode": "97.03.190",
+    "name": "Laurapaga",
+    "alias": "Laurapaga"
+  },
+  {
+    "code": "97.03.190.003",
+    "villageCode": "003",
+    "districtCode": "97.03.190",
+    "name": "Bawi",
+    "alias": "Bawi"
+  },
+  {
+    "code": "97.03.190.004",
+    "villageCode": "004",
+    "districtCode": "97.03.190",
+    "name": "Ogin",
+    "alias": "Ogin"
+  },
+  {
+    "code": "97.03.190.005",
+    "villageCode": "005",
+    "districtCode": "97.03.190",
+    "name": "Kemiulume",
+    "alias": "Kemiulume"
+  },
+  {
+    "code": "97.03.190.006",
+    "villageCode": "006",
+    "districtCode": "97.03.190",
+    "name": "Yugimbo",
+    "alias": "Yugimbo"
+  },
+  {
+    "code": "97.03.190.007",
+    "villageCode": "007",
+    "districtCode": "97.03.190",
+    "name": "Tinggini",
+    "alias": "Tinggini"
+  },
+  {
+    "code": "97.03.190.008",
+    "villageCode": "008",
+    "districtCode": "97.03.190",
+    "name": "Kuwanom",
+    "alias": "Kuwanom"
+  },
+  {
+    "code": "97.03.190.009",
+    "villageCode": "009",
+    "districtCode": "97.03.190",
+    "name": "Kuwoge",
+    "alias": "Kuwoge"
+  },
+  {
+    "code": "97.03.190.010",
+    "villageCode": "010",
+    "districtCode": "97.03.190",
+    "name": "Uwagambur",
+    "alias": "Uwagambur"
+  },
+  {
+    "code": "97.03.190.011",
+    "villageCode": "011",
+    "districtCode": "97.03.190",
+    "name": "Lagame",
+    "alias": "Lagame"
+  }
+]

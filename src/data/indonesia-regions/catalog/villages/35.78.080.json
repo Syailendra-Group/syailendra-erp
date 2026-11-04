@@ -1,0 +1,51 @@
+[
+  {
+    "code": "35.78.080.001",
+    "villageCode": "001",
+    "districtCode": "35.78.080",
+    "name": "Ngiden Jangkungan",
+    "alias": "Ngiden Jangkungan"
+  },
+  {
+    "code": "35.78.080.002",
+    "villageCode": "002",
+    "districtCode": "35.78.080",
+    "name": "Semolowaru",
+    "alias": "Semolowaru"
+  },
+  {
+    "code": "35.78.080.003",
+    "villageCode": "003",
+    "districtCode": "35.78.080",
+    "name": "Medokan Semampir",
+    "alias": "Medokan Semampir"
+  },
+  {
+    "code": "35.78.080.004",
+    "villageCode": "004",
+    "districtCode": "35.78.080",
+    "name": "Keputih",
+    "alias": "Keputih"
+  },
+  {
+    "code": "35.78.080.005",
+    "villageCode": "005",
+    "districtCode": "35.78.080",
+    "name": "Gebang Putih",
+    "alias": "Gebang Putih"
+  },
+  {
+    "code": "35.78.080.006",
+    "villageCode": "006",
+    "districtCode": "35.78.080",
+    "name": "Klampis Ngasem",
+    "alias": "Klampis Ngasem"
+  },
+  {
+    "code": "35.78.080.007",
+    "villageCode": "007",
+    "districtCode": "35.78.080",
+    "name": "Menur Pumpungan",
+    "alias": "Menur Pumpungan"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "code": "33.73.020.001",
+    "villageCode": "001",
+    "districtCode": "33.73.020",
+    "name": "Tingkir Tengah",
+    "alias": "Tingkir Tengah"
+  },
+  {
+    "code": "33.73.020.002",
+    "villageCode": "002",
+    "districtCode": "33.73.020",
+    "name": "Tingkir Lor",
+    "alias": "Tingkir Lor"
+  },
+  {
+    "code": "33.73.020.003",
+    "villageCode": "003",
+    "districtCode": "33.73.020",
+    "name": "Kalibening",
+    "alias": "Kalibening"
+  },
+  {
+    "code": "33.73.020.004",
+    "villageCode": "004",
+    "districtCode": "33.73.020",
+    "name": "Sidorejo Kidul",
+    "alias": "Sidorejo Kidul"
+  },
+  {
+    "code": "33.73.020.006",
+    "villageCode": "006",
+    "districtCode": "33.73.020",
+    "name": "Gendongan",
+    "alias": "Gendongan"
+  },
+  {
+    "code": "33.73.020.007",
+    "villageCode": "007",
+    "districtCode": "33.73.020",
+    "name": "Kutowinangun Kidul",
+    "alias": "Kutowinangun Kidul"
+  },
+  {
+    "code": "33.73.020.008",
+    "villageCode": "008",
+    "districtCode": "33.73.020",
+    "name": "Kutowinangun Lor",
+    "alias": "Kutowinangun Lor"
+  }
+]

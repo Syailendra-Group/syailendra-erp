@@ -1,0 +1,86 @@
+[
+  {
+    "code": "72.07.050.005",
+    "villageCode": "005",
+    "districtCode": "72.07.050",
+    "name": "Lintidu",
+    "alias": "Lintidu"
+  },
+  {
+    "code": "72.07.050.006",
+    "villageCode": "006",
+    "districtCode": "72.07.050",
+    "name": "Paleleh",
+    "alias": "Paleleh"
+  },
+  {
+    "code": "72.07.050.007",
+    "villageCode": "007",
+    "districtCode": "72.07.050",
+    "name": "Tolau",
+    "alias": "Tolau"
+  },
+  {
+    "code": "72.07.050.008",
+    "villageCode": "008",
+    "districtCode": "72.07.050",
+    "name": "Kuala Besar",
+    "alias": "Kuala Besar"
+  },
+  {
+    "code": "72.07.050.009",
+    "villageCode": "009",
+    "districtCode": "72.07.050",
+    "name": "Batu Rata",
+    "alias": "Batu Rata"
+  },
+  {
+    "code": "72.07.050.010",
+    "villageCode": "010",
+    "districtCode": "72.07.050",
+    "name": "Talaki",
+    "alias": "Talaki"
+  },
+  {
+    "code": "72.07.050.011",
+    "villageCode": "011",
+    "districtCode": "72.07.050",
+    "name": "Lilito",
+    "alias": "Lilito"
+  },
+  {
+    "code": "72.07.050.012",
+    "villageCode": "012",
+    "districtCode": "72.07.050",
+    "name": "Pionoto",
+    "alias": "Pionoto"
+  },
+  {
+    "code": "72.07.050.013",
+    "villageCode": "013",
+    "districtCode": "72.07.050",
+    "name": "Mulangato",
+    "alias": "Mulangato"
+  },
+  {
+    "code": "72.07.050.014",
+    "villageCode": "014",
+    "districtCode": "72.07.050",
+    "name": "Umu",
+    "alias": "Umu"
+  },
+  {
+    "code": "72.07.050.015",
+    "villageCode": "015",
+    "districtCode": "72.07.050",
+    "name": "Dopalak",
+    "alias": "Dopalak"
+  },
+  {
+    "code": "72.07.050.017",
+    "villageCode": "017",
+    "districtCode": "72.07.050",
+    "name": "Dutuno",
+    "alias": "Dutuno"
+  }
+]

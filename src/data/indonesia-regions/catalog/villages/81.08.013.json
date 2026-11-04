@@ -1,0 +1,44 @@
+[
+  {
+    "code": "81.08.013.001",
+    "villageCode": "001",
+    "districtCode": "81.08.013",
+    "name": "Moning",
+    "alias": "Moning"
+  },
+  {
+    "code": "81.08.013.002",
+    "villageCode": "002",
+    "districtCode": "81.08.013",
+    "name": "Tomliapat",
+    "alias": "Tomliapat"
+  },
+  {
+    "code": "81.08.013.003",
+    "villageCode": "003",
+    "districtCode": "81.08.013",
+    "name": "Ilpokil",
+    "alias": "Ilpokil"
+  },
+  {
+    "code": "81.08.013.004",
+    "villageCode": "004",
+    "districtCode": "81.08.013",
+    "name": "Kahilin",
+    "alias": "Kahilin"
+  },
+  {
+    "code": "81.08.013.005",
+    "villageCode": "005",
+    "districtCode": "81.08.013",
+    "name": "Ilway",
+    "alias": "Ilway"
+  },
+  {
+    "code": "81.08.013.006",
+    "villageCode": "006",
+    "districtCode": "81.08.013",
+    "name": "Arwala",
+    "alias": "Arwala"
+  }
+]

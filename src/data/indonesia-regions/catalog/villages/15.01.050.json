@@ -1,0 +1,100 @@
+[
+  {
+    "code": "15.01.050.018",
+    "villageCode": "018",
+    "districtCode": "15.01.050",
+    "name": "Pendung Hilir",
+    "alias": "Pendung Hilir"
+  },
+  {
+    "code": "15.01.050.019",
+    "villageCode": "019",
+    "districtCode": "15.01.050",
+    "name": "Tanjung Mudo",
+    "alias": "Tanjung Mudo"
+  },
+  {
+    "code": "15.01.050.020",
+    "villageCode": "020",
+    "districtCode": "15.01.050",
+    "name": "Pendung Tengah",
+    "alias": "Pendung Tengah"
+  },
+  {
+    "code": "15.01.050.021",
+    "villageCode": "021",
+    "districtCode": "15.01.050",
+    "name": "Koto Baru Hiang",
+    "alias": "Koto Baru Hiang"
+  },
+  {
+    "code": "15.01.050.022",
+    "villageCode": "022",
+    "districtCode": "15.01.050",
+    "name": "Ambai Atas",
+    "alias": "Ambai Atas"
+  },
+  {
+    "code": "15.01.050.023",
+    "villageCode": "023",
+    "districtCode": "15.01.050",
+    "name": "Ambai Bawah",
+    "alias": "Ambai Bawah"
+  },
+  {
+    "code": "15.01.050.024",
+    "villageCode": "024",
+    "districtCode": "15.01.050",
+    "name": "Betung Kuning",
+    "alias": "Betung Kuning"
+  },
+  {
+    "code": "15.01.050.025",
+    "villageCode": "025",
+    "districtCode": "15.01.050",
+    "name": "Hiang Tinggi",
+    "alias": "Hiang Tinggi"
+  },
+  {
+    "code": "15.01.050.029",
+    "villageCode": "029",
+    "districtCode": "15.01.050",
+    "name": "Hiang Karya",
+    "alias": "Hiang Karya"
+  },
+  {
+    "code": "15.01.050.031",
+    "villageCode": "031",
+    "districtCode": "15.01.050",
+    "name": "Hiang Lestari",
+    "alias": "Hiang Lestari"
+  },
+  {
+    "code": "15.01.050.032",
+    "villageCode": "032",
+    "districtCode": "15.01.050",
+    "name": "Angkasa Pura",
+    "alias": "Angkasa Pura"
+  },
+  {
+    "code": "15.01.050.033",
+    "villageCode": "033",
+    "districtCode": "15.01.050",
+    "name": "Hiang Sakti",
+    "alias": "Hiang Sakti"
+  },
+  {
+    "code": "15.01.050.034",
+    "villageCode": "034",
+    "districtCode": "15.01.050",
+    "name": "Penawar Tinggi",
+    "alias": "Penawar Tinggi"
+  },
+  {
+    "code": "15.01.050.035",
+    "villageCode": "035",
+    "districtCode": "15.01.050",
+    "name": "Koto Sekilan Ambai",
+    "alias": "Koto Sekilan Ambai"
+  }
+]

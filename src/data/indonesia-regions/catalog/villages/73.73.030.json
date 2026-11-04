@@ -1,0 +1,44 @@
+[
+  {
+    "code": "73.73.030.001",
+    "villageCode": "001",
+    "districtCode": "73.73.030",
+    "name": "Sabbamparu",
+    "alias": "Sabbamparu"
+  },
+  {
+    "code": "73.73.030.002",
+    "villageCode": "002",
+    "districtCode": "73.73.030",
+    "name": "Batupasi",
+    "alias": "Batupasi"
+  },
+  {
+    "code": "73.73.030.004",
+    "villageCode": "004",
+    "districtCode": "73.73.030",
+    "name": "Salobulo",
+    "alias": "Salobulo"
+  },
+  {
+    "code": "73.73.030.005",
+    "villageCode": "005",
+    "districtCode": "73.73.030",
+    "name": "Penggoli",
+    "alias": "Penggoli"
+  },
+  {
+    "code": "73.73.030.006",
+    "villageCode": "006",
+    "districtCode": "73.73.030",
+    "name": "Luminda",
+    "alias": "Luminda"
+  },
+  {
+    "code": "73.73.030.007",
+    "villageCode": "007",
+    "districtCode": "73.73.030",
+    "name": "Pattene",
+    "alias": "Pattene"
+  }
+]

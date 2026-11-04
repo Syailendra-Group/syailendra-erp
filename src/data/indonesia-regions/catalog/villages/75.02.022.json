@@ -1,0 +1,65 @@
+[
+  {
+    "code": "75.02.022.001",
+    "villageCode": "001",
+    "districtCode": "75.02.022",
+    "name": "Tabongo Barat",
+    "alias": "Tabongo Barat"
+  },
+  {
+    "code": "75.02.022.002",
+    "villageCode": "002",
+    "districtCode": "75.02.022",
+    "name": "Limehe Barat",
+    "alias": "Limehe Barat"
+  },
+  {
+    "code": "75.02.022.003",
+    "villageCode": "003",
+    "districtCode": "75.02.022",
+    "name": "Ilomangga",
+    "alias": "Ilomangga"
+  },
+  {
+    "code": "75.02.022.004",
+    "villageCode": "004",
+    "districtCode": "75.02.022",
+    "name": "Tabongo Timur",
+    "alias": "Tabongo Timur"
+  },
+  {
+    "code": "75.02.022.005",
+    "villageCode": "005",
+    "districtCode": "75.02.022",
+    "name": "Limehe Timur",
+    "alias": "Limehe Timur"
+  },
+  {
+    "code": "75.02.022.006",
+    "villageCode": "006",
+    "districtCode": "75.02.022",
+    "name": "Motinelo",
+    "alias": "Motinelo"
+  },
+  {
+    "code": "75.02.022.007",
+    "villageCode": "007",
+    "districtCode": "75.02.022",
+    "name": "Moahudu",
+    "alias": "Moahudu"
+  },
+  {
+    "code": "75.02.022.008",
+    "villageCode": "008",
+    "districtCode": "75.02.022",
+    "name": "Teratai",
+    "alias": "Teratai"
+  },
+  {
+    "code": "75.02.022.009",
+    "villageCode": "009",
+    "districtCode": "75.02.022",
+    "name": "Limehu",
+    "alias": "Limehu"
+  }
+]

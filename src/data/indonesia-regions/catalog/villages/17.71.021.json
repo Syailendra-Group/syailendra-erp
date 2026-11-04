@@ -1,0 +1,58 @@
+[
+  {
+    "code": "17.71.021.001",
+    "villageCode": "001",
+    "districtCode": "17.71.021",
+    "name": "Tanah Patah",
+    "alias": "Tanah Patah"
+  },
+  {
+    "code": "17.71.021.002",
+    "villageCode": "002",
+    "districtCode": "17.71.021",
+    "name": "Kebun Tebeng",
+    "alias": "Kebun Tebeng"
+  },
+  {
+    "code": "17.71.021.003",
+    "villageCode": "003",
+    "districtCode": "17.71.021",
+    "name": "Sawah Lebar Baru",
+    "alias": "Sawah Lebar Baru"
+  },
+  {
+    "code": "17.71.021.004",
+    "villageCode": "004",
+    "districtCode": "17.71.021",
+    "name": "Sawah Lebar",
+    "alias": "Sawah Lebar"
+  },
+  {
+    "code": "17.71.021.005",
+    "villageCode": "005",
+    "districtCode": "17.71.021",
+    "name": "Nusa Indah",
+    "alias": "Nusa Indah"
+  },
+  {
+    "code": "17.71.021.006",
+    "villageCode": "006",
+    "districtCode": "17.71.021",
+    "name": "Kebun Kenanga",
+    "alias": "Kebun Kenanga"
+  },
+  {
+    "code": "17.71.021.007",
+    "villageCode": "007",
+    "districtCode": "17.71.021",
+    "name": "Kebun Beler",
+    "alias": "Kebun Beler"
+  },
+  {
+    "code": "17.71.021.008",
+    "villageCode": "008",
+    "districtCode": "17.71.021",
+    "name": "Lempuing",
+    "alias": "Lempuing"
+  }
+]

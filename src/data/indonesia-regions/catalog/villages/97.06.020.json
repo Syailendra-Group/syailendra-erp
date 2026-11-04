@@ -1,0 +1,359 @@
+[
+  {
+    "code": "97.06.020.001",
+    "villageCode": "001",
+    "districtCode": "97.06.020",
+    "name": "Kulet",
+    "alias": "Kulet"
+  },
+  {
+    "code": "97.06.020.002",
+    "villageCode": "002",
+    "districtCode": "97.06.020",
+    "name": "Yarema",
+    "alias": "Yarema"
+  },
+  {
+    "code": "97.06.020.003",
+    "villageCode": "003",
+    "districtCode": "97.06.020",
+    "name": "Apalapsili",
+    "alias": "Apalapsili"
+  },
+  {
+    "code": "97.06.020.004",
+    "villageCode": "004",
+    "districtCode": "97.06.020",
+    "name": "Huburi/Hubliki",
+    "alias": "Huburi/Hubliki"
+  },
+  {
+    "code": "97.06.020.005",
+    "villageCode": "005",
+    "districtCode": "97.06.020",
+    "name": "Asilikma",
+    "alias": "Asilikma"
+  },
+  {
+    "code": "97.06.020.006",
+    "villageCode": "006",
+    "districtCode": "97.06.020",
+    "name": "Tikano",
+    "alias": "Tikano"
+  },
+  {
+    "code": "97.06.020.007",
+    "villageCode": "007",
+    "districtCode": "97.06.020",
+    "name": "Nasinema",
+    "alias": "Nasinema"
+  },
+  {
+    "code": "97.06.020.008",
+    "villageCode": "008",
+    "districtCode": "97.06.020",
+    "name": "Eal",
+    "alias": "Eal"
+  },
+  {
+    "code": "97.06.020.009",
+    "villageCode": "009",
+    "districtCode": "97.06.020",
+    "name": "Hukalopunu",
+    "alias": "Hukalopunu"
+  },
+  {
+    "code": "97.06.020.010",
+    "villageCode": "010",
+    "districtCode": "97.06.020",
+    "name": "Alimuhuk",
+    "alias": "Alimuhuk"
+  },
+  {
+    "code": "97.06.020.011",
+    "villageCode": "011",
+    "districtCode": "97.06.020",
+    "name": "Pong",
+    "alias": "Pong"
+  },
+  {
+    "code": "97.06.020.012",
+    "villageCode": "012",
+    "districtCode": "97.06.020",
+    "name": "Moliyinggi",
+    "alias": "Moliyinggi"
+  },
+  {
+    "code": "97.06.020.013",
+    "villageCode": "013",
+    "districtCode": "97.06.020",
+    "name": "Sobikambut",
+    "alias": "Sobikambut"
+  },
+  {
+    "code": "97.06.020.014",
+    "villageCode": "014",
+    "districtCode": "97.06.020",
+    "name": "Wiralesili",
+    "alias": "Wiralesili"
+  },
+  {
+    "code": "97.06.020.015",
+    "villageCode": "015",
+    "districtCode": "97.06.020",
+    "name": "Nohonil",
+    "alias": "Nohonil"
+  },
+  {
+    "code": "97.06.020.016",
+    "villageCode": "016",
+    "districtCode": "97.06.020",
+    "name": "Falukwalilo",
+    "alias": "Falukwalilo"
+  },
+  {
+    "code": "97.06.020.017",
+    "villageCode": "017",
+    "districtCode": "97.06.020",
+    "name": "Benyam",
+    "alias": "Benyam"
+  },
+  {
+    "code": "97.06.020.018",
+    "villageCode": "018",
+    "districtCode": "97.06.020",
+    "name": "Tembur",
+    "alias": "Tembur"
+  },
+  {
+    "code": "97.06.020.019",
+    "villageCode": "019",
+    "districtCode": "97.06.020",
+    "name": "Sabualo",
+    "alias": "Sabualo"
+  },
+  {
+    "code": "97.06.020.020",
+    "villageCode": "020",
+    "districtCode": "97.06.020",
+    "name": "Nanukhoruk",
+    "alias": "Nanukhoruk"
+  },
+  {
+    "code": "97.06.020.021",
+    "villageCode": "021",
+    "districtCode": "97.06.020",
+    "name": "Kenggenbun",
+    "alias": "Kenggenbun"
+  },
+  {
+    "code": "97.06.020.022",
+    "villageCode": "022",
+    "districtCode": "97.06.020",
+    "name": "Sien",
+    "alias": "Sien"
+  },
+  {
+    "code": "97.06.020.023",
+    "villageCode": "023",
+    "districtCode": "97.06.020",
+    "name": "Kinhe",
+    "alias": "Kinhe"
+  },
+  {
+    "code": "97.06.020.024",
+    "villageCode": "024",
+    "districtCode": "97.06.020",
+    "name": "Humalem",
+    "alias": "Humalem"
+  },
+  {
+    "code": "97.06.020.025",
+    "villageCode": "025",
+    "districtCode": "97.06.020",
+    "name": "Pipisim",
+    "alias": "Pipisim"
+  },
+  {
+    "code": "97.06.020.026",
+    "villageCode": "026",
+    "districtCode": "97.06.020",
+    "name": "Makrik",
+    "alias": "Makrik"
+  },
+  {
+    "code": "97.06.020.027",
+    "villageCode": "027",
+    "districtCode": "97.06.020",
+    "name": "Lambukmo",
+    "alias": "Lambukmo"
+  },
+  {
+    "code": "97.06.020.028",
+    "villageCode": "028",
+    "districtCode": "97.06.020",
+    "name": "Holuogalma",
+    "alias": "Holuogalma"
+  },
+  {
+    "code": "97.06.020.029",
+    "villageCode": "029",
+    "districtCode": "97.06.020",
+    "name": "Suwewili",
+    "alias": "Suwewili"
+  },
+  {
+    "code": "97.06.020.030",
+    "villageCode": "030",
+    "districtCode": "97.06.020",
+    "name": "Yohul",
+    "alias": "Yohul"
+  },
+  {
+    "code": "97.06.020.031",
+    "villageCode": "031",
+    "districtCode": "97.06.020",
+    "name": "Lilinsaluk",
+    "alias": "Lilinsaluk"
+  },
+  {
+    "code": "97.06.020.032",
+    "villageCode": "032",
+    "districtCode": "97.06.020",
+    "name": "Natoksili",
+    "alias": "Natoksili"
+  },
+  {
+    "code": "97.06.020.033",
+    "villageCode": "033",
+    "districtCode": "97.06.020",
+    "name": "Hinongkoambut",
+    "alias": "Hinongkoambut"
+  },
+  {
+    "code": "97.06.020.034",
+    "villageCode": "034",
+    "districtCode": "97.06.020",
+    "name": "Wiyukwilik",
+    "alias": "Wiyukwilik"
+  },
+  {
+    "code": "97.06.020.035",
+    "villageCode": "035",
+    "districtCode": "97.06.020",
+    "name": "Fari",
+    "alias": "Fari"
+  },
+  {
+    "code": "97.06.020.036",
+    "villageCode": "036",
+    "districtCode": "97.06.020",
+    "name": "Wasalalo",
+    "alias": "Wasalalo"
+  },
+  {
+    "code": "97.06.020.037",
+    "villageCode": "037",
+    "districtCode": "97.06.020",
+    "name": "Suerelihim",
+    "alias": "Suerelihim"
+  },
+  {
+    "code": "97.06.020.038",
+    "villageCode": "038",
+    "districtCode": "97.06.020",
+    "name": "Harohon Namik / Orohon",
+    "alias": "Harohon Namik / Orohon"
+  },
+  {
+    "code": "97.06.020.039",
+    "villageCode": "039",
+    "districtCode": "97.06.020",
+    "name": "Habalo",
+    "alias": "Habalo"
+  },
+  {
+    "code": "97.06.020.040",
+    "villageCode": "040",
+    "districtCode": "97.06.020",
+    "name": "Sabikalem",
+    "alias": "Sabikalem"
+  },
+  {
+    "code": "97.06.020.041",
+    "villageCode": "041",
+    "districtCode": "97.06.020",
+    "name": "Wanamalo",
+    "alias": "Wanamalo"
+  },
+  {
+    "code": "97.06.020.042",
+    "villageCode": "042",
+    "districtCode": "97.06.020",
+    "name": "Kundikele",
+    "alias": "Kundikele"
+  },
+  {
+    "code": "97.06.020.043",
+    "villageCode": "043",
+    "districtCode": "97.06.020",
+    "name": "Kelampurim",
+    "alias": "Kelampurim"
+  },
+  {
+    "code": "97.06.020.044",
+    "villageCode": "044",
+    "districtCode": "97.06.020",
+    "name": "Kilad",
+    "alias": "Kilad"
+  },
+  {
+    "code": "97.06.020.045",
+    "villageCode": "045",
+    "districtCode": "97.06.020",
+    "name": "Filihayek",
+    "alias": "Filihayek"
+  },
+  {
+    "code": "97.06.020.046",
+    "villageCode": "046",
+    "districtCode": "97.06.020",
+    "name": "Babtekma",
+    "alias": "Babtekma"
+  },
+  {
+    "code": "97.06.020.047",
+    "villageCode": "047",
+    "districtCode": "97.06.020",
+    "name": "Higlin / Asiligma",
+    "alias": "Higlin / Asiligma"
+  },
+  {
+    "code": "97.06.020.048",
+    "villageCode": "048",
+    "districtCode": "97.06.020",
+    "name": "Herek / Ilirek",
+    "alias": "Herek / Ilirek"
+  },
+  {
+    "code": "97.06.020.049",
+    "villageCode": "049",
+    "districtCode": "97.06.020",
+    "name": "Forakalo / Nasinema",
+    "alias": "Forakalo / Nasinema"
+  },
+  {
+    "code": "97.06.020.050",
+    "villageCode": "050",
+    "districtCode": "97.06.020",
+    "name": "Holukalem",
+    "alias": "Holukalem"
+  },
+  {
+    "code": "97.06.020.051",
+    "villageCode": "051",
+    "districtCode": "97.06.020",
+    "name": "Yeptek",
+    "alias": "Yeptek"
+  }
+]

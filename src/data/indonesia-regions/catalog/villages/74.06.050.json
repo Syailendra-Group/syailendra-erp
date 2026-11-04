@@ -1,0 +1,37 @@
+[
+  {
+    "code": "74.06.050.003",
+    "villageCode": "003",
+    "districtCode": "74.06.050",
+    "name": "Teppoe",
+    "alias": "Teppoe"
+  },
+  {
+    "code": "74.06.050.004",
+    "villageCode": "004",
+    "districtCode": "74.06.050",
+    "name": "Bambaea",
+    "alias": "Bambaea"
+  },
+  {
+    "code": "74.06.050.009",
+    "villageCode": "009",
+    "districtCode": "74.06.050",
+    "name": "Mambo",
+    "alias": "Mambo"
+  },
+  {
+    "code": "74.06.050.012",
+    "villageCode": "012",
+    "districtCode": "74.06.050",
+    "name": "Biru",
+    "alias": "Biru"
+  },
+  {
+    "code": "74.06.050.016",
+    "villageCode": "016",
+    "districtCode": "74.06.050",
+    "name": "Puulemo",
+    "alias": "Puulemo"
+  }
+]

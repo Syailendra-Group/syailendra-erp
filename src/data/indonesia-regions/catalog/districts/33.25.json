@@ -1,0 +1,122 @@
+[
+  {
+    "code": "33.25.010",
+    "districtCode": "010",
+    "regencyCode": "33.25",
+    "provinceCode": "33",
+    "name": "Kecamatan Wonotunggal",
+    "alias": "Wonotunggal"
+  },
+  {
+    "code": "33.25.020",
+    "districtCode": "020",
+    "regencyCode": "33.25",
+    "provinceCode": "33",
+    "name": "Kecamatan Bandar",
+    "alias": "Bandar"
+  },
+  {
+    "code": "33.25.030",
+    "districtCode": "030",
+    "regencyCode": "33.25",
+    "provinceCode": "33",
+    "name": "Kecamatan Blado",
+    "alias": "Blado"
+  },
+  {
+    "code": "33.25.040",
+    "districtCode": "040",
+    "regencyCode": "33.25",
+    "provinceCode": "33",
+    "name": "Kecamatan Reban",
+    "alias": "Reban"
+  },
+  {
+    "code": "33.25.050",
+    "districtCode": "050",
+    "regencyCode": "33.25",
+    "provinceCode": "33",
+    "name": "Kecamatan Bawang",
+    "alias": "Bawang"
+  },
+  {
+    "code": "33.25.060",
+    "districtCode": "060",
+    "regencyCode": "33.25",
+    "provinceCode": "33",
+    "name": "Kecamatan Tersono",
+    "alias": "Tersono"
+  },
+  {
+    "code": "33.25.070",
+    "districtCode": "070",
+    "regencyCode": "33.25",
+    "provinceCode": "33",
+    "name": "Kecamatan Gringsing",
+    "alias": "Gringsing"
+  },
+  {
+    "code": "33.25.080",
+    "districtCode": "080",
+    "regencyCode": "33.25",
+    "provinceCode": "33",
+    "name": "Kecamatan Limpung",
+    "alias": "Limpung"
+  },
+  {
+    "code": "33.25.081",
+    "districtCode": "081",
+    "regencyCode": "33.25",
+    "provinceCode": "33",
+    "name": "Kecamatan Banyuputih",
+    "alias": "Banyuputih"
+  },
+  {
+    "code": "33.25.090",
+    "districtCode": "090",
+    "regencyCode": "33.25",
+    "provinceCode": "33",
+    "name": "Kecamatan Subah",
+    "alias": "Subah"
+  },
+  {
+    "code": "33.25.091",
+    "districtCode": "091",
+    "regencyCode": "33.25",
+    "provinceCode": "33",
+    "name": "Kecamatan Pecalungan",
+    "alias": "Pecalungan"
+  },
+  {
+    "code": "33.25.100",
+    "districtCode": "100",
+    "regencyCode": "33.25",
+    "provinceCode": "33",
+    "name": "Kecamatan Tulis",
+    "alias": "Tulis"
+  },
+  {
+    "code": "33.25.101",
+    "districtCode": "101",
+    "regencyCode": "33.25",
+    "provinceCode": "33",
+    "name": "Kecamatan Kandeman",
+    "alias": "Kandeman"
+  },
+  {
+    "code": "33.25.110",
+    "districtCode": "110",
+    "regencyCode": "33.25",
+    "provinceCode": "33",
+    "name": "Kecamatan Batang",
+    "alias": "Batang"
+  },
+  {
+    "code": "33.25.120",
+    "districtCode": "120",
+    "regencyCode": "33.25",
+    "provinceCode": "33",
+    "name": "Kecamatan Warungasem",
+    "alias": "Warungasem"
+  }
+]

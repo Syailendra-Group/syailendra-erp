@@ -1,0 +1,58 @@
+[
+  {
+    "code": "32.09.191.004",
+    "villageCode": "004",
+    "districtCode": "32.09.191",
+    "name": "Jamblang",
+    "alias": "Jamblang"
+  },
+  {
+    "code": "32.09.191.005",
+    "villageCode": "005",
+    "districtCode": "32.09.191",
+    "name": "Sitiwinangun",
+    "alias": "Sitiwinangun"
+  },
+  {
+    "code": "32.09.191.006",
+    "villageCode": "006",
+    "districtCode": "32.09.191",
+    "name": "Wangunharja",
+    "alias": "Wangunharja"
+  },
+  {
+    "code": "32.09.191.014",
+    "villageCode": "014",
+    "districtCode": "32.09.191",
+    "name": "Bojong Wetan",
+    "alias": "Bojong Wetan"
+  },
+  {
+    "code": "32.09.191.015",
+    "villageCode": "015",
+    "districtCode": "32.09.191",
+    "name": "Bojong Lor",
+    "alias": "Bojong Lor"
+  },
+  {
+    "code": "32.09.191.016",
+    "villageCode": "016",
+    "districtCode": "32.09.191",
+    "name": "Orimalang",
+    "alias": "Orimalang"
+  },
+  {
+    "code": "32.09.191.017",
+    "villageCode": "017",
+    "districtCode": "32.09.191",
+    "name": "Bakung Kidul",
+    "alias": "Bakung Kidul"
+  },
+  {
+    "code": "32.09.191.018",
+    "villageCode": "018",
+    "districtCode": "32.09.191",
+    "name": "Bakung Lor",
+    "alias": "Bakung Lor"
+  }
+]

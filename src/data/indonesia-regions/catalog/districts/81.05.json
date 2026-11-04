@@ -1,0 +1,82 @@
+[
+  {
+    "code": "81.05.010",
+    "districtCode": "010",
+    "regencyCode": "81.05",
+    "provinceCode": "81",
+    "name": "Kecamatan Aru Selatan",
+    "alias": "Aru Selatan"
+  },
+  {
+    "code": "81.05.011",
+    "districtCode": "011",
+    "regencyCode": "81.05",
+    "provinceCode": "81",
+    "name": "Kecamatan Aru Selatan Timur",
+    "alias": "Aru Selatan Timur"
+  },
+  {
+    "code": "81.05.012",
+    "districtCode": "012",
+    "regencyCode": "81.05",
+    "provinceCode": "81",
+    "name": "Kecamatan Aru Selatan Utara",
+    "alias": "Aru Selatan Utara"
+  },
+  {
+    "code": "81.05.020",
+    "districtCode": "020",
+    "regencyCode": "81.05",
+    "provinceCode": "81",
+    "name": "Kecamatan Aru Tengah",
+    "alias": "Aru Tengah"
+  },
+  {
+    "code": "81.05.021",
+    "districtCode": "021",
+    "regencyCode": "81.05",
+    "provinceCode": "81",
+    "name": "Kecamatan Aru Tengah Timur",
+    "alias": "Aru Tengah Timur"
+  },
+  {
+    "code": "81.05.022",
+    "districtCode": "022",
+    "regencyCode": "81.05",
+    "provinceCode": "81",
+    "name": "Kecamatan Aru Tengah Selatan",
+    "alias": "Aru Tengah Selatan"
+  },
+  {
+    "code": "81.05.030",
+    "districtCode": "030",
+    "regencyCode": "81.05",
+    "provinceCode": "81",
+    "name": "Kecamatan Pulau-Pulau Aru",
+    "alias": "Pulau-Pulau Aru"
+  },
+  {
+    "code": "81.05.031",
+    "districtCode": "031",
+    "regencyCode": "81.05",
+    "provinceCode": "81",
+    "name": "Kecamatan Aru Utara",
+    "alias": "Aru Utara"
+  },
+  {
+    "code": "81.05.032",
+    "districtCode": "032",
+    "regencyCode": "81.05",
+    "provinceCode": "81",
+    "name": "Kecamatan Aru Utara Timur Batuley",
+    "alias": "Aru Utara Timur Batuley"
+  },
+  {
+    "code": "81.05.033",
+    "districtCode": "033",
+    "regencyCode": "81.05",
+    "provinceCode": "81",
+    "name": "Kecamatan Sir-Sir",
+    "alias": "Sir-Sir"
+  }
+]

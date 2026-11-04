@@ -1,0 +1,58 @@
+[
+  {
+    "code": "97.01.240.001",
+    "villageCode": "001",
+    "districtCode": "97.01.240",
+    "name": "Biripem",
+    "alias": "Biripem"
+  },
+  {
+    "code": "97.01.240.002",
+    "villageCode": "002",
+    "districtCode": "97.01.240",
+    "name": "Dakbiri",
+    "alias": "Dakbiri"
+  },
+  {
+    "code": "97.01.240.003",
+    "villageCode": "003",
+    "districtCode": "97.01.240",
+    "name": "Abualak",
+    "alias": "Abualak"
+  },
+  {
+    "code": "97.01.240.004",
+    "villageCode": "004",
+    "districtCode": "97.01.240",
+    "name": "Urugom",
+    "alias": "Urugom"
+  },
+  {
+    "code": "97.01.240.005",
+    "villageCode": "005",
+    "districtCode": "97.01.240",
+    "name": "Area",
+    "alias": "Area"
+  },
+  {
+    "code": "97.01.240.006",
+    "villageCode": "006",
+    "districtCode": "97.01.240",
+    "name": "Wumaga",
+    "alias": "Wumaga"
+  },
+  {
+    "code": "97.01.240.007",
+    "villageCode": "007",
+    "districtCode": "97.01.240",
+    "name": "Gulama",
+    "alias": "Gulama"
+  },
+  {
+    "code": "97.01.240.008",
+    "villageCode": "008",
+    "districtCode": "97.01.240",
+    "name": "Kigam",
+    "alias": "Kigam"
+  }
+]

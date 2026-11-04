@@ -1,0 +1,72 @@
+[
+  {
+    "code": "71.01.025.001",
+    "villageCode": "001",
+    "districtCode": "71.01.025",
+    "name": "Tapadaka I",
+    "alias": "Tapadaka I"
+  },
+  {
+    "code": "71.01.025.002",
+    "villageCode": "002",
+    "districtCode": "71.01.025",
+    "name": "Tapadaka Utara",
+    "alias": "Tapadaka Utara"
+  },
+  {
+    "code": "71.01.025.004",
+    "villageCode": "004",
+    "districtCode": "71.01.025",
+    "name": "Konarom",
+    "alias": "Konarom"
+  },
+  {
+    "code": "71.01.025.007",
+    "villageCode": "007",
+    "districtCode": "71.01.025",
+    "name": "Osion",
+    "alias": "Osion"
+  },
+  {
+    "code": "71.01.025.008",
+    "villageCode": "008",
+    "districtCode": "71.01.025",
+    "name": "Dumara",
+    "alias": "Dumara"
+  },
+  {
+    "code": "71.01.025.009",
+    "villageCode": "009",
+    "districtCode": "71.01.025",
+    "name": "Ikuna",
+    "alias": "Ikuna"
+  },
+  {
+    "code": "71.01.025.010",
+    "villageCode": "010",
+    "districtCode": "71.01.025",
+    "name": "Bonawang",
+    "alias": "Bonawang"
+  },
+  {
+    "code": "71.01.025.011",
+    "villageCode": "011",
+    "districtCode": "71.01.025",
+    "name": "Tapadaka Timur",
+    "alias": "Tapadaka Timur"
+  },
+  {
+    "code": "71.01.025.012",
+    "villageCode": "012",
+    "districtCode": "71.01.025",
+    "name": "Konarom Utara",
+    "alias": "Konarom Utara"
+  },
+  {
+    "code": "71.01.025.013",
+    "villageCode": "013",
+    "districtCode": "71.01.025",
+    "name": "Konarom Barat",
+    "alias": "Konarom Barat"
+  }
+]

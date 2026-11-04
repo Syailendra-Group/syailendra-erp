@@ -1,0 +1,194 @@
+[
+  {
+    "code": "16.04.011",
+    "districtCode": "011",
+    "regencyCode": "16.04",
+    "provinceCode": "16",
+    "name": "Kecamatan Tanjung Sakti Pumi",
+    "alias": "Tanjung Sakti Pumi"
+  },
+  {
+    "code": "16.04.012",
+    "districtCode": "012",
+    "regencyCode": "16.04",
+    "provinceCode": "16",
+    "name": "Kecamatan Tanjung Sakti Pumu",
+    "alias": "Tanjung Sakti Pumu"
+  },
+  {
+    "code": "16.04.040",
+    "districtCode": "040",
+    "regencyCode": "16.04",
+    "provinceCode": "16",
+    "name": "Kecamatan Kota Agung",
+    "alias": "Kota Agung"
+  },
+  {
+    "code": "16.04.041",
+    "districtCode": "041",
+    "regencyCode": "16.04",
+    "provinceCode": "16",
+    "name": "Kecamatan Mulak Ulu",
+    "alias": "Mulak Ulu"
+  },
+  {
+    "code": "16.04.042",
+    "districtCode": "042",
+    "regencyCode": "16.04",
+    "provinceCode": "16",
+    "name": "Kecamatan Tanjung Tebat",
+    "alias": "Tanjung Tebat"
+  },
+  {
+    "code": "16.04.043",
+    "districtCode": "043",
+    "regencyCode": "16.04",
+    "provinceCode": "16",
+    "name": "Kecamatan Mulak Sebingkai",
+    "alias": "Mulak Sebingkai"
+  },
+  {
+    "code": "16.04.050",
+    "districtCode": "050",
+    "regencyCode": "16.04",
+    "provinceCode": "16",
+    "name": "Kecamatan Pulau Pinang",
+    "alias": "Pulau Pinang"
+  },
+  {
+    "code": "16.04.051",
+    "districtCode": "051",
+    "regencyCode": "16.04",
+    "provinceCode": "16",
+    "name": "Kecamatan Pagar Gunung",
+    "alias": "Pagar Gunung"
+  },
+  {
+    "code": "16.04.052",
+    "districtCode": "052",
+    "regencyCode": "16.04",
+    "provinceCode": "16",
+    "name": "Kecamatan Gumay Ulu",
+    "alias": "Gumay Ulu"
+  },
+  {
+    "code": "16.04.060",
+    "districtCode": "060",
+    "regencyCode": "16.04",
+    "provinceCode": "16",
+    "name": "Kecamatan Jarai",
+    "alias": "Jarai"
+  },
+  {
+    "code": "16.04.061",
+    "districtCode": "061",
+    "regencyCode": "16.04",
+    "provinceCode": "16",
+    "name": "Kecamatan Pajar Bulan",
+    "alias": "Pajar Bulan"
+  },
+  {
+    "code": "16.04.062",
+    "districtCode": "062",
+    "regencyCode": "16.04",
+    "provinceCode": "16",
+    "name": "Kecamatan Muara Payang",
+    "alias": "Muara Payang"
+  },
+  {
+    "code": "16.04.063",
+    "districtCode": "063",
+    "regencyCode": "16.04",
+    "provinceCode": "16",
+    "name": "Kecamatan Sukamerindu",
+    "alias": "Sukamerindu"
+  },
+  {
+    "code": "16.04.111",
+    "districtCode": "111",
+    "regencyCode": "16.04",
+    "provinceCode": "16",
+    "name": "Kecamatan Kikim Barat",
+    "alias": "Kikim Barat"
+  },
+  {
+    "code": "16.04.112",
+    "districtCode": "112",
+    "regencyCode": "16.04",
+    "provinceCode": "16",
+    "name": "Kecamatan Kikim Timur",
+    "alias": "Kikim Timur"
+  },
+  {
+    "code": "16.04.113",
+    "districtCode": "113",
+    "regencyCode": "16.04",
+    "provinceCode": "16",
+    "name": "Kecamatan Kikim Selatan",
+    "alias": "Kikim Selatan"
+  },
+  {
+    "code": "16.04.114",
+    "districtCode": "114",
+    "regencyCode": "16.04",
+    "provinceCode": "16",
+    "name": "Kecamatan Kikim Tengah",
+    "alias": "Kikim Tengah"
+  },
+  {
+    "code": "16.04.120",
+    "districtCode": "120",
+    "regencyCode": "16.04",
+    "provinceCode": "16",
+    "name": "Kecamatan Lahat",
+    "alias": "Lahat"
+  },
+  {
+    "code": "16.04.121",
+    "districtCode": "121",
+    "regencyCode": "16.04",
+    "provinceCode": "16",
+    "name": "Kecamatan Gumay Talang",
+    "alias": "Gumay Talang"
+  },
+  {
+    "code": "16.04.122",
+    "districtCode": "122",
+    "regencyCode": "16.04",
+    "provinceCode": "16",
+    "name": "Kecamatan Pseksu",
+    "alias": "Pseksu"
+  },
+  {
+    "code": "16.04.123",
+    "districtCode": "123",
+    "regencyCode": "16.04",
+    "provinceCode": "16",
+    "name": "Kecamatan Lahat Selatan",
+    "alias": "Lahat Selatan"
+  },
+  {
+    "code": "16.04.131",
+    "districtCode": "131",
+    "regencyCode": "16.04",
+    "provinceCode": "16",
+    "name": "Kecamatan Merapi Barat",
+    "alias": "Merapi Barat"
+  },
+  {
+    "code": "16.04.132",
+    "districtCode": "132",
+    "regencyCode": "16.04",
+    "provinceCode": "16",
+    "name": "Kecamatan Merapi Timur",
+    "alias": "Merapi Timur"
+  },
+  {
+    "code": "16.04.133",
+    "districtCode": "133",
+    "regencyCode": "16.04",
+    "provinceCode": "16",
+    "name": "Kecamatan Merapi Selatan",
+    "alias": "Merapi Selatan"
+  }
+]

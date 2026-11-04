@@ -1,0 +1,72 @@
+[
+  {
+    "code": "64.11.050.001",
+    "villageCode": "001",
+    "districtCode": "64.11.050",
+    "name": "Naha Tifab",
+    "alias": "Naha Tifab"
+  },
+  {
+    "code": "64.11.050.002",
+    "villageCode": "002",
+    "districtCode": "64.11.050",
+    "name": "Noha Silat",
+    "alias": "Noha Silat"
+  },
+  {
+    "code": "64.11.050.003",
+    "villageCode": "003",
+    "districtCode": "64.11.050",
+    "name": "Long Penaneh Dua",
+    "alias": "Long Penaneh Dua"
+  },
+  {
+    "code": "64.11.050.004",
+    "villageCode": "004",
+    "districtCode": "64.11.050",
+    "name": "Tiong Ohang",
+    "alias": "Tiong Ohang"
+  },
+  {
+    "code": "64.11.050.005",
+    "villageCode": "005",
+    "districtCode": "64.11.050",
+    "name": "Naha Buan",
+    "alias": "Naha Buan"
+  },
+  {
+    "code": "64.11.050.006",
+    "villageCode": "006",
+    "districtCode": "64.11.050",
+    "name": "Tiong Bu U",
+    "alias": "Tiong Bu U"
+  },
+  {
+    "code": "64.11.050.007",
+    "villageCode": "007",
+    "districtCode": "64.11.050",
+    "name": "Long Penaneh Satu",
+    "alias": "Long Penaneh Satu"
+  },
+  {
+    "code": "64.11.050.008",
+    "villageCode": "008",
+    "districtCode": "64.11.050",
+    "name": "Long Penaneh Tiga",
+    "alias": "Long Penaneh Tiga"
+  },
+  {
+    "code": "64.11.050.009",
+    "villageCode": "009",
+    "districtCode": "64.11.050",
+    "name": "Long Keriok",
+    "alias": "Long Keriok"
+  },
+  {
+    "code": "64.11.050.010",
+    "villageCode": "010",
+    "districtCode": "64.11.050",
+    "name": "Long Apari",
+    "alias": "Long Apari"
+  }
+]

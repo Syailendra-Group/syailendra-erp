@@ -1,0 +1,37 @@
+[
+  {
+    "code": "12.16.014.001",
+    "villageCode": "001",
+    "districtCode": "12.16.014",
+    "name": "Aornakan I",
+    "alias": "Aornakan I"
+  },
+  {
+    "code": "12.16.014.002",
+    "villageCode": "002",
+    "districtCode": "12.16.014",
+    "name": "Aornakan Ii",
+    "alias": "Aornakan Ii"
+  },
+  {
+    "code": "12.16.014.003",
+    "villageCode": "003",
+    "districtCode": "12.16.014",
+    "name": "Simerpara",
+    "alias": "Simerpara"
+  },
+  {
+    "code": "12.16.014.004",
+    "villageCode": "004",
+    "districtCode": "12.16.014",
+    "name": "Kecupak I",
+    "alias": "Kecupak I"
+  },
+  {
+    "code": "12.16.014.005",
+    "villageCode": "005",
+    "districtCode": "12.16.014",
+    "name": "Kecupak Ii",
+    "alias": "Kecupak Ii"
+  }
+]

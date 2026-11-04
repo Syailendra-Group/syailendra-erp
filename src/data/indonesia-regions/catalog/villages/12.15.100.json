@@ -1,0 +1,65 @@
+[
+  {
+    "code": "12.15.100.001",
+    "villageCode": "001",
+    "districtCode": "12.15.100",
+    "name": "Sitanduk",
+    "alias": "Sitanduk"
+  },
+  {
+    "code": "12.15.100.002",
+    "villageCode": "002",
+    "districtCode": "12.15.100",
+    "name": "Tara Bintang",
+    "alias": "Tara Bintang"
+  },
+  {
+    "code": "12.15.100.003",
+    "villageCode": "003",
+    "districtCode": "12.15.100",
+    "name": "Sibongkare",
+    "alias": "Sibongkare"
+  },
+  {
+    "code": "12.15.100.004",
+    "villageCode": "004",
+    "districtCode": "12.15.100",
+    "name": "Sihombu",
+    "alias": "Sihombu"
+  },
+  {
+    "code": "12.15.100.005",
+    "villageCode": "005",
+    "districtCode": "12.15.100",
+    "name": "Sihotang Hasugian Toruan",
+    "alias": "Sihotang Hasugian Toruan"
+  },
+  {
+    "code": "12.15.100.006",
+    "villageCode": "006",
+    "districtCode": "12.15.100",
+    "name": "Simbara",
+    "alias": "Simbara"
+  },
+  {
+    "code": "12.15.100.007",
+    "villageCode": "007",
+    "districtCode": "12.15.100",
+    "name": "Mungkur",
+    "alias": "Mungkur"
+  },
+  {
+    "code": "12.15.100.008",
+    "villageCode": "008",
+    "districtCode": "12.15.100",
+    "name": "Sianju",
+    "alias": "Sianju"
+  },
+  {
+    "code": "12.15.100.009",
+    "villageCode": "009",
+    "districtCode": "12.15.100",
+    "name": "Marpadan",
+    "alias": "Marpadan"
+  }
+]

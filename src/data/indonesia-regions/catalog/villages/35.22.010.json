@@ -1,0 +1,44 @@
+[
+  {
+    "code": "35.22.010.001",
+    "villageCode": "001",
+    "districtCode": "35.22.010",
+    "name": "Ngelo",
+    "alias": "Ngelo"
+  },
+  {
+    "code": "35.22.010.002",
+    "villageCode": "002",
+    "districtCode": "35.22.010",
+    "name": "Kalangan",
+    "alias": "Kalangan"
+  },
+  {
+    "code": "35.22.010.003",
+    "villageCode": "003",
+    "districtCode": "35.22.010",
+    "name": "Margomulyo",
+    "alias": "Margomulyo"
+  },
+  {
+    "code": "35.22.010.004",
+    "villageCode": "004",
+    "districtCode": "35.22.010",
+    "name": "Sumberejo",
+    "alias": "Sumberejo"
+  },
+  {
+    "code": "35.22.010.005",
+    "villageCode": "005",
+    "districtCode": "35.22.010",
+    "name": "Meduri",
+    "alias": "Meduri"
+  },
+  {
+    "code": "35.22.010.006",
+    "villageCode": "006",
+    "districtCode": "35.22.010",
+    "name": "Geneng",
+    "alias": "Geneng"
+  }
+]

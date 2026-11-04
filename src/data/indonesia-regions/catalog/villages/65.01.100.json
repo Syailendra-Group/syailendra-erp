@@ -1,0 +1,58 @@
+[
+  {
+    "code": "65.01.100.001",
+    "villageCode": "001",
+    "districtCode": "65.01.100",
+    "name": "Long Adiu",
+    "alias": "Long Adiu"
+  },
+  {
+    "code": "65.01.100.002",
+    "villageCode": "002",
+    "districtCode": "65.01.100",
+    "name": "Punan Gong Solok",
+    "alias": "Punan Gong Solok"
+  },
+  {
+    "code": "65.01.100.003",
+    "villageCode": "003",
+    "districtCode": "65.01.100",
+    "name": "Batu Kajang",
+    "alias": "Batu Kajang"
+  },
+  {
+    "code": "65.01.100.004",
+    "villageCode": "004",
+    "districtCode": "65.01.100",
+    "name": "Gong Solok",
+    "alias": "Gong Solok"
+  },
+  {
+    "code": "65.01.100.005",
+    "villageCode": "005",
+    "districtCode": "65.01.100",
+    "name": "Punan Long Adiu",
+    "alias": "Punan Long Adiu"
+  },
+  {
+    "code": "65.01.100.006",
+    "villageCode": "006",
+    "districtCode": "65.01.100",
+    "name": "Punan Setarap",
+    "alias": "Punan Setarap"
+  },
+  {
+    "code": "65.01.100.007",
+    "villageCode": "007",
+    "districtCode": "65.01.100",
+    "name": "Setarap",
+    "alias": "Setarap"
+  },
+  {
+    "code": "65.01.100.008",
+    "villageCode": "008",
+    "districtCode": "65.01.100",
+    "name": "Setulang",
+    "alias": "Setulang"
+  }
+]

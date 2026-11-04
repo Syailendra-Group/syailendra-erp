@@ -1,0 +1,65 @@
+[
+  {
+    "code": "13.03.120.001",
+    "villageCode": "001",
+    "districtCode": "13.03.120",
+    "name": "Katialo",
+    "alias": "Katialo"
+  },
+  {
+    "code": "13.03.120.002",
+    "villageCode": "002",
+    "districtCode": "13.03.120",
+    "name": "Tanjuang Balik",
+    "alias": "Tanjuang Balik"
+  },
+  {
+    "code": "13.03.120.003",
+    "villageCode": "003",
+    "districtCode": "13.03.120",
+    "name": "Paninjauan",
+    "alias": "Paninjauan"
+  },
+  {
+    "code": "13.03.120.004",
+    "villageCode": "004",
+    "districtCode": "13.03.120",
+    "name": "Labuah Panjang",
+    "alias": "Labuah Panjang"
+  },
+  {
+    "code": "13.03.120.005",
+    "villageCode": "005",
+    "districtCode": "13.03.120",
+    "name": "Sulik Aia",
+    "alias": "Sulik Aia"
+  },
+  {
+    "code": "13.03.120.006",
+    "villageCode": "006",
+    "districtCode": "13.03.120",
+    "name": "Pasilihan",
+    "alias": "Pasilihan"
+  },
+  {
+    "code": "13.03.120.007",
+    "villageCode": "007",
+    "districtCode": "13.03.120",
+    "name": "Bukik Kanduang",
+    "alias": "Bukik Kanduang"
+  },
+  {
+    "code": "13.03.120.008",
+    "villageCode": "008",
+    "districtCode": "13.03.120",
+    "name": "Kuncia",
+    "alias": "Kuncia"
+  },
+  {
+    "code": "13.03.120.009",
+    "villageCode": "009",
+    "districtCode": "13.03.120",
+    "name": "Siberambang",
+    "alias": "Siberambang"
+  }
+]

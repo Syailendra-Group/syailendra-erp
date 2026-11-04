@@ -1,0 +1,51 @@
+[
+  {
+    "code": "18.04.071.001",
+    "villageCode": "001",
+    "districtCode": "18.04.071",
+    "name": "Tulungpasik",
+    "alias": "Tulungpasik"
+  },
+  {
+    "code": "18.04.071.002",
+    "villageCode": "002",
+    "districtCode": "18.04.071",
+    "name": "Mandala Sari",
+    "alias": "Mandala Sari"
+  },
+  {
+    "code": "18.04.071.003",
+    "villageCode": "003",
+    "districtCode": "18.04.071",
+    "name": "Kebon Damar",
+    "alias": "Kebon Damar"
+  },
+  {
+    "code": "18.04.071.004",
+    "villageCode": "004",
+    "districtCode": "18.04.071",
+    "name": "Mataram Baru",
+    "alias": "Mataram Baru"
+  },
+  {
+    "code": "18.04.071.005",
+    "villageCode": "005",
+    "districtCode": "18.04.071",
+    "name": "Rajabasa Baru",
+    "alias": "Rajabasa Baru"
+  },
+  {
+    "code": "18.04.071.006",
+    "villageCode": "006",
+    "districtCode": "18.04.071",
+    "name": "Teluk Dalem",
+    "alias": "Teluk Dalem"
+  },
+  {
+    "code": "18.04.071.007",
+    "villageCode": "007",
+    "districtCode": "18.04.071",
+    "name": "Way Areng",
+    "alias": "Way Areng"
+  }
+]

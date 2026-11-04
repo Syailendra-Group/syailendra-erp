@@ -1,0 +1,72 @@
+[
+  {
+    "code": "74.05.020.001",
+    "villageCode": "001",
+    "districtCode": "74.05.020",
+    "name": "Lalobao",
+    "alias": "Lalobao"
+  },
+  {
+    "code": "74.05.020.002",
+    "villageCode": "002",
+    "districtCode": "74.05.020",
+    "name": "Wunduwatu",
+    "alias": "Wunduwatu"
+  },
+  {
+    "code": "74.05.020.003",
+    "villageCode": "003",
+    "districtCode": "74.05.020",
+    "name": "Bumi Raya",
+    "alias": "Bumi Raya"
+  },
+  {
+    "code": "74.05.020.012",
+    "villageCode": "012",
+    "districtCode": "74.05.020",
+    "name": "Lalonggombu",
+    "alias": "Lalonggombu"
+  },
+  {
+    "code": "74.05.020.013",
+    "villageCode": "013",
+    "districtCode": "74.05.020",
+    "name": "Andoolo",
+    "alias": "Andoolo"
+  },
+  {
+    "code": "74.05.020.014",
+    "villageCode": "014",
+    "districtCode": "74.05.020",
+    "name": "Alangga",
+    "alias": "Alangga"
+  },
+  {
+    "code": "74.05.020.015",
+    "villageCode": "015",
+    "districtCode": "74.05.020",
+    "name": "Potoro",
+    "alias": "Potoro"
+  },
+  {
+    "code": "74.05.020.016",
+    "villageCode": "016",
+    "districtCode": "74.05.020",
+    "name": "Alengge Agung",
+    "alias": "Alengge Agung"
+  },
+  {
+    "code": "74.05.020.031",
+    "villageCode": "031",
+    "districtCode": "74.05.020",
+    "name": "Punggapu",
+    "alias": "Punggapu"
+  },
+  {
+    "code": "74.05.020.033",
+    "villageCode": "033",
+    "districtCode": "74.05.020",
+    "name": "Ataku",
+    "alias": "Ataku"
+  }
+]

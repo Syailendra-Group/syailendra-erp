@@ -1,0 +1,37 @@
+[
+  {
+    "code": "12.08.082.001",
+    "villageCode": "001",
+    "districtCode": "12.08.082",
+    "name": "Sei Silau Tua",
+    "alias": "Sei Silau Tua"
+  },
+  {
+    "code": "12.08.082.002",
+    "villageCode": "002",
+    "districtCode": "12.08.082",
+    "name": "Sei Silau Barat",
+    "alias": "Sei Silau Barat"
+  },
+  {
+    "code": "12.08.082.003",
+    "villageCode": "003",
+    "districtCode": "12.08.082",
+    "name": "Silau Maraja",
+    "alias": "Silau Maraja"
+  },
+  {
+    "code": "12.08.082.004",
+    "villageCode": "004",
+    "districtCode": "12.08.082",
+    "name": "Urung Pane",
+    "alias": "Urung Pane"
+  },
+  {
+    "code": "12.08.082.005",
+    "villageCode": "005",
+    "districtCode": "12.08.082",
+    "name": "Bangun Sari",
+    "alias": "Bangun Sari"
+  }
+]

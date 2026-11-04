@@ -1,0 +1,100 @@
+[
+  {
+    "code": "97.01.200.001",
+    "villageCode": "001",
+    "districtCode": "97.01.200",
+    "name": "Mam",
+    "alias": "Mam"
+  },
+  {
+    "code": "97.01.200.002",
+    "villageCode": "002",
+    "districtCode": "97.01.200",
+    "name": "Pukle",
+    "alias": "Pukle"
+  },
+  {
+    "code": "97.01.200.003",
+    "villageCode": "003",
+    "districtCode": "97.01.200",
+    "name": "Wolmbam",
+    "alias": "Wolmbam"
+  },
+  {
+    "code": "97.01.200.004",
+    "villageCode": "004",
+    "districtCode": "97.01.200",
+    "name": "Wanduama",
+    "alias": "Wanduama"
+  },
+  {
+    "code": "97.01.200.005",
+    "villageCode": "005",
+    "districtCode": "97.01.200",
+    "name": "Yibi",
+    "alias": "Yibi"
+  },
+  {
+    "code": "97.01.200.006",
+    "villageCode": "006",
+    "districtCode": "97.01.200",
+    "name": "Lakda",
+    "alias": "Lakda"
+  },
+  {
+    "code": "97.01.200.007",
+    "villageCode": "007",
+    "districtCode": "97.01.200",
+    "name": "Yebandui",
+    "alias": "Yebandui"
+  },
+  {
+    "code": "97.01.200.008",
+    "villageCode": "008",
+    "districtCode": "97.01.200",
+    "name": "Laruid",
+    "alias": "Laruid"
+  },
+  {
+    "code": "97.01.200.009",
+    "villageCode": "009",
+    "districtCode": "97.01.200",
+    "name": "Dendamba",
+    "alias": "Dendamba"
+  },
+  {
+    "code": "97.01.200.010",
+    "villageCode": "010",
+    "districtCode": "97.01.200",
+    "name": "Kibiarem",
+    "alias": "Kibiarem"
+  },
+  {
+    "code": "97.01.200.011",
+    "villageCode": "011",
+    "districtCode": "97.01.200",
+    "name": "Papuarem",
+    "alias": "Papuarem"
+  },
+  {
+    "code": "97.01.200.012",
+    "villageCode": "012",
+    "districtCode": "97.01.200",
+    "name": "Kibo",
+    "alias": "Kibo"
+  },
+  {
+    "code": "97.01.200.013",
+    "villageCode": "013",
+    "districtCode": "97.01.200",
+    "name": "Putdumu",
+    "alias": "Putdumu"
+  },
+  {
+    "code": "97.01.200.014",
+    "villageCode": "014",
+    "districtCode": "97.01.200",
+    "name": "Darakma",
+    "alias": "Darakma"
+  }
+]

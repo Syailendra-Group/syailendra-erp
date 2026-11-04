@@ -1,0 +1,66 @@
+[
+  {
+    "code": "76.01.010",
+    "districtCode": "010",
+    "regencyCode": "76.01",
+    "provinceCode": "76",
+    "name": "Kecamatan Banggae",
+    "alias": "Banggae"
+  },
+  {
+    "code": "76.01.011",
+    "districtCode": "011",
+    "regencyCode": "76.01",
+    "provinceCode": "76",
+    "name": "Kecamatan Banggae Timur",
+    "alias": "Banggae Timur"
+  },
+  {
+    "code": "76.01.020",
+    "districtCode": "020",
+    "regencyCode": "76.01",
+    "provinceCode": "76",
+    "name": "Kecamatan Pamboang",
+    "alias": "Pamboang"
+  },
+  {
+    "code": "76.01.030",
+    "districtCode": "030",
+    "regencyCode": "76.01",
+    "provinceCode": "76",
+    "name": "Kecamatan Sendana",
+    "alias": "Sendana"
+  },
+  {
+    "code": "76.01.031",
+    "districtCode": "031",
+    "regencyCode": "76.01",
+    "provinceCode": "76",
+    "name": "Kecamatan Tammerodo",
+    "alias": "Tammerodo"
+  },
+  {
+    "code": "76.01.033",
+    "districtCode": "033",
+    "regencyCode": "76.01",
+    "provinceCode": "76",
+    "name": "Kecamatan Tubo Sendana",
+    "alias": "Tubo Sendana"
+  },
+  {
+    "code": "76.01.040",
+    "districtCode": "040",
+    "regencyCode": "76.01",
+    "provinceCode": "76",
+    "name": "Kecamatan Malunda",
+    "alias": "Malunda"
+  },
+  {
+    "code": "76.01.041",
+    "districtCode": "041",
+    "regencyCode": "76.01",
+    "provinceCode": "76",
+    "name": "Kecamatan Ulumanda",
+    "alias": "Ulumanda"
+  }
+]

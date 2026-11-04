@@ -1,0 +1,66 @@
+[
+  {
+    "code": "74.72.010",
+    "districtCode": "010",
+    "regencyCode": "74.72",
+    "provinceCode": "74",
+    "name": "Kecamatan Betoambari",
+    "alias": "Betoambari"
+  },
+  {
+    "code": "74.72.011",
+    "districtCode": "011",
+    "regencyCode": "74.72",
+    "provinceCode": "74",
+    "name": "Kecamatan Murhum",
+    "alias": "Murhum"
+  },
+  {
+    "code": "74.72.012",
+    "districtCode": "012",
+    "regencyCode": "74.72",
+    "provinceCode": "74",
+    "name": "Kecamatan Batupoaro",
+    "alias": "Batupoaro"
+  },
+  {
+    "code": "74.72.020",
+    "districtCode": "020",
+    "regencyCode": "74.72",
+    "provinceCode": "74",
+    "name": "Kecamatan Wolio",
+    "alias": "Wolio"
+  },
+  {
+    "code": "74.72.021",
+    "districtCode": "021",
+    "regencyCode": "74.72",
+    "provinceCode": "74",
+    "name": "Kecamatan Kokalukuna",
+    "alias": "Kokalukuna"
+  },
+  {
+    "code": "74.72.030",
+    "districtCode": "030",
+    "regencyCode": "74.72",
+    "provinceCode": "74",
+    "name": "Kecamatan Sorawolio",
+    "alias": "Sorawolio"
+  },
+  {
+    "code": "74.72.040",
+    "districtCode": "040",
+    "regencyCode": "74.72",
+    "provinceCode": "74",
+    "name": "Kecamatan Bungi",
+    "alias": "Bungi"
+  },
+  {
+    "code": "74.72.041",
+    "districtCode": "041",
+    "regencyCode": "74.72",
+    "provinceCode": "74",
+    "name": "Kecamatan Lea-Lea",
+    "alias": "Lea-Lea"
+  }
+]

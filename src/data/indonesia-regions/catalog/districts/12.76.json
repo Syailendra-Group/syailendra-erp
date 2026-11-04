@@ -1,0 +1,42 @@
+[
+  {
+    "code": "12.76.010",
+    "districtCode": "010",
+    "regencyCode": "12.76",
+    "provinceCode": "12",
+    "name": "Kecamatan Binjai Selatan",
+    "alias": "Binjai Selatan"
+  },
+  {
+    "code": "12.76.020",
+    "districtCode": "020",
+    "regencyCode": "12.76",
+    "provinceCode": "12",
+    "name": "Kecamatan Binjai Kota",
+    "alias": "Binjai Kota"
+  },
+  {
+    "code": "12.76.030",
+    "districtCode": "030",
+    "regencyCode": "12.76",
+    "provinceCode": "12",
+    "name": "Kecamatan Binjai Timur",
+    "alias": "Binjai Timur"
+  },
+  {
+    "code": "12.76.040",
+    "districtCode": "040",
+    "regencyCode": "12.76",
+    "provinceCode": "12",
+    "name": "Kecamatan Binjai Utara",
+    "alias": "Binjai Utara"
+  },
+  {
+    "code": "12.76.050",
+    "districtCode": "050",
+    "regencyCode": "12.76",
+    "provinceCode": "12",
+    "name": "Kecamatan Binjai Barat",
+    "alias": "Binjai Barat"
+  }
+]

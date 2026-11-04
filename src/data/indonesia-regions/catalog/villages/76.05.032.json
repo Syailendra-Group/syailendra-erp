@@ -1,0 +1,30 @@
+[
+  {
+    "code": "76.05.032.001",
+    "villageCode": "001",
+    "districtCode": "76.05.032",
+    "name": "Martasari",
+    "alias": "Martasari"
+  },
+  {
+    "code": "76.05.032.002",
+    "villageCode": "002",
+    "districtCode": "76.05.032",
+    "name": "Malei",
+    "alias": "Malei"
+  },
+  {
+    "code": "76.05.032.003",
+    "villageCode": "003",
+    "districtCode": "76.05.032",
+    "name": "Pedanda",
+    "alias": "Pedanda"
+  },
+  {
+    "code": "76.05.032.004",
+    "villageCode": "004",
+    "districtCode": "76.05.032",
+    "name": "Batu Oge",
+    "alias": "Batu Oge"
+  }
+]

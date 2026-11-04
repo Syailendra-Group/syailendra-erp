@@ -1,0 +1,44 @@
+[
+  {
+    "code": "52.06.071.001",
+    "villageCode": "001",
+    "districtCode": "52.06.071",
+    "name": "Rite",
+    "alias": "Rite"
+  },
+  {
+    "code": "52.06.071.002",
+    "villageCode": "002",
+    "districtCode": "52.06.071",
+    "name": "Talapiti",
+    "alias": "Talapiti"
+  },
+  {
+    "code": "52.06.071.003",
+    "villageCode": "003",
+    "districtCode": "52.06.071",
+    "name": "Tolowata",
+    "alias": "Tolowata"
+  },
+  {
+    "code": "52.06.071.004",
+    "villageCode": "004",
+    "districtCode": "52.06.071",
+    "name": "Nipa",
+    "alias": "Nipa"
+  },
+  {
+    "code": "52.06.071.005",
+    "villageCode": "005",
+    "districtCode": "52.06.071",
+    "name": "Mawu",
+    "alias": "Mawu"
+  },
+  {
+    "code": "52.06.071.006",
+    "villageCode": "006",
+    "districtCode": "52.06.071",
+    "name": "Kole",
+    "alias": "Kole"
+  }
+]

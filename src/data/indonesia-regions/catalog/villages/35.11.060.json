@@ -1,0 +1,30 @@
+[
+  {
+    "code": "35.11.060.001",
+    "villageCode": "001",
+    "districtCode": "35.11.060",
+    "name": "Pecalongan",
+    "alias": "Pecalongan"
+  },
+  {
+    "code": "35.11.060.006",
+    "villageCode": "006",
+    "districtCode": "35.11.060",
+    "name": "Nogosari",
+    "alias": "Nogosari"
+  },
+  {
+    "code": "35.11.060.007",
+    "villageCode": "007",
+    "districtCode": "35.11.060",
+    "name": "Sukosari Lor",
+    "alias": "Sukosari Lor"
+  },
+  {
+    "code": "35.11.060.008",
+    "villageCode": "008",
+    "districtCode": "35.11.060",
+    "name": "Kerang",
+    "alias": "Kerang"
+  }
+]

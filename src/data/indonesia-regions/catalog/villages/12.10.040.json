@@ -1,0 +1,79 @@
+[
+  {
+    "code": "12.10.040.001",
+    "villageCode": "001",
+    "districtCode": "12.10.040",
+    "name": "Parbuluan Ii",
+    "alias": "Parbuluan Ii"
+  },
+  {
+    "code": "12.10.040.002",
+    "villageCode": "002",
+    "districtCode": "12.10.040",
+    "name": "Parbuluan I",
+    "alias": "Parbuluan I"
+  },
+  {
+    "code": "12.10.040.003",
+    "villageCode": "003",
+    "districtCode": "12.10.040",
+    "name": "Parbuluan V",
+    "alias": "Parbuluan V"
+  },
+  {
+    "code": "12.10.040.004",
+    "villageCode": "004",
+    "districtCode": "12.10.040",
+    "name": "Parbuluan Iii",
+    "alias": "Parbuluan Iii"
+  },
+  {
+    "code": "12.10.040.005",
+    "villageCode": "005",
+    "districtCode": "12.10.040",
+    "name": "Parbuluan Iv",
+    "alias": "Parbuluan Iv"
+  },
+  {
+    "code": "12.10.040.006",
+    "villageCode": "006",
+    "districtCode": "12.10.040",
+    "name": "Parbuluan Vi",
+    "alias": "Parbuluan Vi"
+  },
+  {
+    "code": "12.10.040.007",
+    "villageCode": "007",
+    "districtCode": "12.10.040",
+    "name": "Lae Hole",
+    "alias": "Lae Hole"
+  },
+  {
+    "code": "12.10.040.008",
+    "villageCode": "008",
+    "districtCode": "12.10.040",
+    "name": "B A N G U N",
+    "alias": "B A N G U N"
+  },
+  {
+    "code": "12.10.040.009",
+    "villageCode": "009",
+    "districtCode": "12.10.040",
+    "name": "Lae Hole I",
+    "alias": "Lae Hole I"
+  },
+  {
+    "code": "12.10.040.010",
+    "villageCode": "010",
+    "districtCode": "12.10.040",
+    "name": "Lae Hole Ii",
+    "alias": "Lae Hole Ii"
+  },
+  {
+    "code": "12.10.040.011",
+    "villageCode": "011",
+    "districtCode": "12.10.040",
+    "name": "Bangun I",
+    "alias": "Bangun I"
+  }
+]

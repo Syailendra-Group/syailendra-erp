@@ -1,0 +1,51 @@
+[
+  {
+    "code": "32.12.040.003",
+    "villageCode": "003",
+    "districtCode": "32.12.040",
+    "name": "Loyang",
+    "alias": "Loyang"
+  },
+  {
+    "code": "32.12.040.004",
+    "villageCode": "004",
+    "districtCode": "32.12.040",
+    "name": "Amis",
+    "alias": "Amis"
+  },
+  {
+    "code": "32.12.040.005",
+    "villageCode": "005",
+    "districtCode": "32.12.040",
+    "name": "Jatisura",
+    "alias": "Jatisura"
+  },
+  {
+    "code": "32.12.040.006",
+    "villageCode": "006",
+    "districtCode": "32.12.040",
+    "name": "Jambak",
+    "alias": "Jambak"
+  },
+  {
+    "code": "32.12.040.007",
+    "villageCode": "007",
+    "districtCode": "32.12.040",
+    "name": "Cikedung",
+    "alias": "Cikedung"
+  },
+  {
+    "code": "32.12.040.012",
+    "villageCode": "012",
+    "districtCode": "32.12.040",
+    "name": "Cikedung Lor",
+    "alias": "Cikedung Lor"
+  },
+  {
+    "code": "32.12.040.013",
+    "villageCode": "013",
+    "districtCode": "32.12.040",
+    "name": "Mundakjaya",
+    "alias": "Mundakjaya"
+  }
+]

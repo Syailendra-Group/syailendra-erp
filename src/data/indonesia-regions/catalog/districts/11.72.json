@@ -1,0 +1,26 @@
+[
+  {
+    "code": "11.72.010",
+    "districtCode": "010",
+    "regencyCode": "11.72",
+    "provinceCode": "11",
+    "name": "Kecamatan Sukajaya",
+    "alias": "Sukajaya"
+  },
+  {
+    "code": "11.72.011",
+    "districtCode": "011",
+    "regencyCode": "11.72",
+    "provinceCode": "11",
+    "name": "Kecamatan Sukamakmue",
+    "alias": "Sukamakmue"
+  },
+  {
+    "code": "11.72.020",
+    "districtCode": "020",
+    "regencyCode": "11.72",
+    "provinceCode": "11",
+    "name": "Kecamatan Sukakarya",
+    "alias": "Sukakarya"
+  }
+]

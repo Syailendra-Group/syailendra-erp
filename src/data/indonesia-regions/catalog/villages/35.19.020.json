@@ -1,0 +1,135 @@
+[
+  {
+    "code": "35.19.020.001",
+    "villageCode": "001",
+    "districtCode": "35.19.020",
+    "name": "Banaran",
+    "alias": "Banaran"
+  },
+  {
+    "code": "35.19.020.002",
+    "villageCode": "002",
+    "districtCode": "35.19.020",
+    "name": "Klorogan",
+    "alias": "Klorogan"
+  },
+  {
+    "code": "35.19.020.003",
+    "villageCode": "003",
+    "districtCode": "35.19.020",
+    "name": "Slambur",
+    "alias": "Slambur"
+  },
+  {
+    "code": "35.19.020.004",
+    "villageCode": "004",
+    "districtCode": "35.19.020",
+    "name": "Geger",
+    "alias": "Geger"
+  },
+  {
+    "code": "35.19.020.005",
+    "villageCode": "005",
+    "districtCode": "35.19.020",
+    "name": "Sareng",
+    "alias": "Sareng"
+  },
+  {
+    "code": "35.19.020.006",
+    "villageCode": "006",
+    "districtCode": "35.19.020",
+    "name": "Purworejo",
+    "alias": "Purworejo"
+  },
+  {
+    "code": "35.19.020.007",
+    "villageCode": "007",
+    "districtCode": "35.19.020",
+    "name": "Sumberejo",
+    "alias": "Sumberejo"
+  },
+  {
+    "code": "35.19.020.008",
+    "villageCode": "008",
+    "districtCode": "35.19.020",
+    "name": "Jatisari",
+    "alias": "Jatisari"
+  },
+  {
+    "code": "35.19.020.009",
+    "villageCode": "009",
+    "districtCode": "35.19.020",
+    "name": "Uteran",
+    "alias": "Uteran"
+  },
+  {
+    "code": "35.19.020.010",
+    "villageCode": "010",
+    "districtCode": "35.19.020",
+    "name": "Pagotan",
+    "alias": "Pagotan"
+  },
+  {
+    "code": "35.19.020.011",
+    "villageCode": "011",
+    "districtCode": "35.19.020",
+    "name": "Jogodayuh",
+    "alias": "Jogodayuh"
+  },
+  {
+    "code": "35.19.020.012",
+    "villageCode": "012",
+    "districtCode": "35.19.020",
+    "name": "Nglandung",
+    "alias": "Nglandung"
+  },
+  {
+    "code": "35.19.020.013",
+    "villageCode": "013",
+    "districtCode": "35.19.020",
+    "name": "Sambirejo",
+    "alias": "Sambirejo"
+  },
+  {
+    "code": "35.19.020.014",
+    "villageCode": "014",
+    "districtCode": "35.19.020",
+    "name": "Putat",
+    "alias": "Putat"
+  },
+  {
+    "code": "35.19.020.015",
+    "villageCode": "015",
+    "districtCode": "35.19.020",
+    "name": "Sangen",
+    "alias": "Sangen"
+  },
+  {
+    "code": "35.19.020.016",
+    "villageCode": "016",
+    "districtCode": "35.19.020",
+    "name": "Kertosari",
+    "alias": "Kertosari"
+  },
+  {
+    "code": "35.19.020.017",
+    "villageCode": "017",
+    "districtCode": "35.19.020",
+    "name": "Kertobanyon",
+    "alias": "Kertobanyon"
+  },
+  {
+    "code": "35.19.020.018",
+    "villageCode": "018",
+    "districtCode": "35.19.020",
+    "name": "Kaibon",
+    "alias": "Kaibon"
+  },
+  {
+    "code": "35.19.020.019",
+    "villageCode": "019",
+    "districtCode": "35.19.020",
+    "name": "Kranggan",
+    "alias": "Kranggan"
+  }
+]

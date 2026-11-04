@@ -1,0 +1,79 @@
+[
+  {
+    "code": "64.05.070.004",
+    "villageCode": "004",
+    "districtCode": "64.05.070",
+    "name": "Tasuk",
+    "alias": "Tasuk"
+  },
+  {
+    "code": "64.05.070.005",
+    "villageCode": "005",
+    "districtCode": "64.05.070",
+    "name": "Birang",
+    "alias": "Birang"
+  },
+  {
+    "code": "64.05.070.006",
+    "villageCode": "006",
+    "districtCode": "64.05.070",
+    "name": "Gunung Tabur",
+    "alias": "Gunung Tabur"
+  },
+  {
+    "code": "64.05.070.007",
+    "villageCode": "007",
+    "districtCode": "64.05.070",
+    "name": "Maluang",
+    "alias": "Maluang"
+  },
+  {
+    "code": "64.05.070.008",
+    "villageCode": "008",
+    "districtCode": "64.05.070",
+    "name": "Samburakat",
+    "alias": "Samburakat"
+  },
+  {
+    "code": "64.05.070.009",
+    "villageCode": "009",
+    "districtCode": "64.05.070",
+    "name": "Sambakungan",
+    "alias": "Sambakungan"
+  },
+  {
+    "code": "64.05.070.010",
+    "villageCode": "010",
+    "districtCode": "64.05.070",
+    "name": "Melati Jaya",
+    "alias": "Melati Jaya"
+  },
+  {
+    "code": "64.05.070.011",
+    "villageCode": "011",
+    "districtCode": "64.05.070",
+    "name": "Merancang Ulu",
+    "alias": "Merancang Ulu"
+  },
+  {
+    "code": "64.05.070.012",
+    "villageCode": "012",
+    "districtCode": "64.05.070",
+    "name": "Pulau Besing",
+    "alias": "Pulau Besing"
+  },
+  {
+    "code": "64.05.070.013",
+    "villageCode": "013",
+    "districtCode": "64.05.070",
+    "name": "Merancang Ilir",
+    "alias": "Merancang Ilir"
+  },
+  {
+    "code": "64.05.070.015",
+    "villageCode": "015",
+    "districtCode": "64.05.070",
+    "name": "Batu-Batu",
+    "alias": "Batu-Batu"
+  }
+]

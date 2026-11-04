@@ -1,0 +1,37 @@
+[
+  {
+    "code": "82.03.042.001",
+    "villageCode": "001",
+    "districtCode": "82.03.042",
+    "name": "Auponhia",
+    "alias": "Auponhia"
+  },
+  {
+    "code": "82.03.042.002",
+    "villageCode": "002",
+    "districtCode": "82.03.042",
+    "name": "Buya",
+    "alias": "Buya"
+  },
+  {
+    "code": "82.03.042.004",
+    "villageCode": "004",
+    "districtCode": "82.03.042",
+    "name": "Wai Kafia",
+    "alias": "Wai Kafia"
+  },
+  {
+    "code": "82.03.042.005",
+    "villageCode": "005",
+    "districtCode": "82.03.042",
+    "name": "Kaporo",
+    "alias": "Kaporo"
+  },
+  {
+    "code": "82.03.042.006",
+    "villageCode": "006",
+    "districtCode": "82.03.042",
+    "name": "Wailab",
+    "alias": "Wailab"
+  }
+]

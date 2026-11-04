@@ -1,0 +1,79 @@
+[
+  {
+    "code": "32.07.280.001",
+    "villageCode": "001",
+    "districtCode": "32.07.280",
+    "name": "Sindangsari",
+    "alias": "Sindangsari"
+  },
+  {
+    "code": "32.07.280.002",
+    "villageCode": "002",
+    "districtCode": "32.07.280",
+    "name": "Kawali",
+    "alias": "Kawali"
+  },
+  {
+    "code": "32.07.280.003",
+    "villageCode": "003",
+    "districtCode": "32.07.280",
+    "name": "Karangpawitan",
+    "alias": "Karangpawitan"
+  },
+  {
+    "code": "32.07.280.004",
+    "villageCode": "004",
+    "districtCode": "32.07.280",
+    "name": "Kawalimukti",
+    "alias": "Kawalimukti"
+  },
+  {
+    "code": "32.07.280.005",
+    "villageCode": "005",
+    "districtCode": "32.07.280",
+    "name": "Talagasari",
+    "alias": "Talagasari"
+  },
+  {
+    "code": "32.07.280.006",
+    "villageCode": "006",
+    "districtCode": "32.07.280",
+    "name": "Selasari",
+    "alias": "Selasari"
+  },
+  {
+    "code": "32.07.280.007",
+    "villageCode": "007",
+    "districtCode": "32.07.280",
+    "name": "Margamulya",
+    "alias": "Margamulya"
+  },
+  {
+    "code": "32.07.280.008",
+    "villageCode": "008",
+    "districtCode": "32.07.280",
+    "name": "Winduraja",
+    "alias": "Winduraja"
+  },
+  {
+    "code": "32.07.280.009",
+    "villageCode": "009",
+    "districtCode": "32.07.280",
+    "name": "Purwasari",
+    "alias": "Purwasari"
+  },
+  {
+    "code": "32.07.280.010",
+    "villageCode": "010",
+    "districtCode": "32.07.280",
+    "name": "Citeureup",
+    "alias": "Citeureup"
+  },
+  {
+    "code": "32.07.280.011",
+    "villageCode": "011",
+    "districtCode": "32.07.280",
+    "name": "Linggapura",
+    "alias": "Linggapura"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "code": "32.16.010.001",
+    "villageCode": "001",
+    "districtCode": "32.16.010",
+    "name": "Ragemanunggal",
+    "alias": "Ragemanunggal"
+  },
+  {
+    "code": "32.16.010.002",
+    "villageCode": "002",
+    "districtCode": "32.16.010",
+    "name": "Muktijaya",
+    "alias": "Muktijaya"
+  },
+  {
+    "code": "32.16.010.003",
+    "villageCode": "003",
+    "districtCode": "32.16.010",
+    "name": "Kertarahayu",
+    "alias": "Kertarahayu"
+  },
+  {
+    "code": "32.16.010.004",
+    "villageCode": "004",
+    "districtCode": "32.16.010",
+    "name": "Cikarageman",
+    "alias": "Cikarageman"
+  },
+  {
+    "code": "32.16.010.005",
+    "villageCode": "005",
+    "districtCode": "32.16.010",
+    "name": "Taman Sari",
+    "alias": "Taman Sari"
+  },
+  {
+    "code": "32.16.010.006",
+    "villageCode": "006",
+    "districtCode": "32.16.010",
+    "name": "Taman Rahayu",
+    "alias": "Taman Rahayu"
+  },
+  {
+    "code": "32.16.010.007",
+    "villageCode": "007",
+    "districtCode": "32.16.010",
+    "name": "Burangkeng",
+    "alias": "Burangkeng"
+  },
+  {
+    "code": "32.16.010.008",
+    "villageCode": "008",
+    "districtCode": "32.16.010",
+    "name": "Cileduk",
+    "alias": "Cileduk"
+  },
+  {
+    "code": "32.16.010.009",
+    "villageCode": "009",
+    "districtCode": "32.16.010",
+    "name": "Cibening",
+    "alias": "Cibening"
+  },
+  {
+    "code": "32.16.010.012",
+    "villageCode": "012",
+    "districtCode": "32.16.010",
+    "name": "Cijengkol",
+    "alias": "Cijengkol"
+  },
+  {
+    "code": "32.16.010.013",
+    "villageCode": "013",
+    "districtCode": "32.16.010",
+    "name": "Lubangbuaya",
+    "alias": "Lubangbuaya"
+  }
+]

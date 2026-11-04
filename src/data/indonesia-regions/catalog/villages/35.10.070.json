@@ -1,0 +1,44 @@
+[
+  {
+    "code": "35.10.070.004",
+    "villageCode": "004",
+    "districtCode": "35.10.070",
+    "name": "Purwodadi",
+    "alias": "Purwodadi"
+  },
+  {
+    "code": "35.10.070.005",
+    "villageCode": "005",
+    "districtCode": "35.10.070",
+    "name": "Jajag",
+    "alias": "Jajag"
+  },
+  {
+    "code": "35.10.070.006",
+    "villageCode": "006",
+    "districtCode": "35.10.070",
+    "name": "Wringin Agung",
+    "alias": "Wringin Agung"
+  },
+  {
+    "code": "35.10.070.007",
+    "villageCode": "007",
+    "districtCode": "35.10.070",
+    "name": "Wringinrejo",
+    "alias": "Wringinrejo"
+  },
+  {
+    "code": "35.10.070.008",
+    "villageCode": "008",
+    "districtCode": "35.10.070",
+    "name": "Yosomulyo",
+    "alias": "Yosomulyo"
+  },
+  {
+    "code": "35.10.070.009",
+    "villageCode": "009",
+    "districtCode": "35.10.070",
+    "name": "Gambiran",
+    "alias": "Gambiran"
+  }
+]

@@ -1,0 +1,135 @@
+[
+  {
+    "code": "33.10.200.001",
+    "villageCode": "001",
+    "districtCode": "33.10.200",
+    "name": "Jambeyan",
+    "alias": "Jambeyan"
+  },
+  {
+    "code": "33.10.200.002",
+    "villageCode": "002",
+    "districtCode": "33.10.200",
+    "name": "Jungkare",
+    "alias": "Jungkare"
+  },
+  {
+    "code": "33.10.200.003",
+    "villageCode": "003",
+    "districtCode": "33.10.200",
+    "name": "Kadirejo",
+    "alias": "Kadirejo"
+  },
+  {
+    "code": "33.10.200.004",
+    "villageCode": "004",
+    "districtCode": "33.10.200",
+    "name": "Tarubasan",
+    "alias": "Tarubasan"
+  },
+  {
+    "code": "33.10.200.005",
+    "villageCode": "005",
+    "districtCode": "33.10.200",
+    "name": "Troso",
+    "alias": "Troso"
+  },
+  {
+    "code": "33.10.200.006",
+    "villageCode": "006",
+    "districtCode": "33.10.200",
+    "name": "Blanceran",
+    "alias": "Blanceran"
+  },
+  {
+    "code": "33.10.200.007",
+    "villageCode": "007",
+    "districtCode": "33.10.200",
+    "name": "Kunden",
+    "alias": "Kunden"
+  },
+  {
+    "code": "33.10.200.008",
+    "villageCode": "008",
+    "districtCode": "33.10.200",
+    "name": "Brangkal",
+    "alias": "Brangkal"
+  },
+  {
+    "code": "33.10.200.009",
+    "villageCode": "009",
+    "districtCode": "33.10.200",
+    "name": "Beku",
+    "alias": "Beku"
+  },
+  {
+    "code": "33.10.200.010",
+    "villageCode": "010",
+    "districtCode": "33.10.200",
+    "name": "Karangan",
+    "alias": "Karangan"
+  },
+  {
+    "code": "33.10.200.011",
+    "villageCode": "011",
+    "districtCode": "33.10.200",
+    "name": "Karanganom",
+    "alias": "Karanganom"
+  },
+  {
+    "code": "33.10.200.012",
+    "villageCode": "012",
+    "districtCode": "33.10.200",
+    "name": "Padas",
+    "alias": "Padas"
+  },
+  {
+    "code": "33.10.200.013",
+    "villageCode": "013",
+    "districtCode": "33.10.200",
+    "name": "Soropaten",
+    "alias": "Soropaten"
+  },
+  {
+    "code": "33.10.200.014",
+    "villageCode": "014",
+    "districtCode": "33.10.200",
+    "name": "Jurangjero",
+    "alias": "Jurangjero"
+  },
+  {
+    "code": "33.10.200.015",
+    "villageCode": "015",
+    "districtCode": "33.10.200",
+    "name": "Ngabeyan",
+    "alias": "Ngabeyan"
+  },
+  {
+    "code": "33.10.200.016",
+    "villageCode": "016",
+    "districtCode": "33.10.200",
+    "name": "Gledeg",
+    "alias": "Gledeg"
+  },
+  {
+    "code": "33.10.200.017",
+    "villageCode": "017",
+    "districtCode": "33.10.200",
+    "name": "Gempol",
+    "alias": "Gempol"
+  },
+  {
+    "code": "33.10.200.018",
+    "villageCode": "018",
+    "districtCode": "33.10.200",
+    "name": "Pondok",
+    "alias": "Pondok"
+  },
+  {
+    "code": "33.10.200.019",
+    "villageCode": "019",
+    "districtCode": "33.10.200",
+    "name": "Jeblog",
+    "alias": "Jeblog"
+  }
+]

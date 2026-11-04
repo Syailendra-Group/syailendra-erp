@@ -1,0 +1,65 @@
+[
+  {
+    "code": "15.01.020.001",
+    "villageCode": "001",
+    "districtCode": "15.01.020",
+    "name": "Muara Hemat",
+    "alias": "Muara Hemat"
+  },
+  {
+    "code": "15.01.020.002",
+    "villageCode": "002",
+    "districtCode": "15.01.020",
+    "name": "Batang Merangin",
+    "alias": "Batang Merangin"
+  },
+  {
+    "code": "15.01.020.003",
+    "villageCode": "003",
+    "districtCode": "15.01.020",
+    "name": "Pematang Lingkung",
+    "alias": "Pematang Lingkung"
+  },
+  {
+    "code": "15.01.020.004",
+    "villageCode": "004",
+    "districtCode": "15.01.020",
+    "name": "Tamiai",
+    "alias": "Tamiai"
+  },
+  {
+    "code": "15.01.020.005",
+    "villageCode": "005",
+    "districtCode": "15.01.020",
+    "name": "Pasar Tamiai",
+    "alias": "Pasar Tamiai"
+  },
+  {
+    "code": "15.01.020.006",
+    "villageCode": "006",
+    "districtCode": "15.01.020",
+    "name": "Lubuk Paku",
+    "alias": "Lubuk Paku"
+  },
+  {
+    "code": "15.01.020.007",
+    "villageCode": "007",
+    "districtCode": "15.01.020",
+    "name": "Seberang Merangin",
+    "alias": "Seberang Merangin"
+  },
+  {
+    "code": "15.01.020.009",
+    "villageCode": "009",
+    "districtCode": "15.01.020",
+    "name": "Dusun Baru Pulau Sangkar",
+    "alias": "Dusun Baru Pulau Sangkar"
+  },
+  {
+    "code": "15.01.020.010",
+    "villageCode": "010",
+    "districtCode": "15.01.020",
+    "name": "Tarutung",
+    "alias": "Tarutung"
+  }
+]

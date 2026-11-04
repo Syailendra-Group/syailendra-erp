@@ -1,0 +1,72 @@
+[
+  {
+    "code": "36.02.111.001",
+    "villageCode": "001",
+    "districtCode": "36.02.111",
+    "name": "Sinarjaya",
+    "alias": "Sinarjaya"
+  },
+  {
+    "code": "36.02.111.002",
+    "villageCode": "002",
+    "districtCode": "36.02.111",
+    "name": "Cirompang",
+    "alias": "Cirompang"
+  },
+  {
+    "code": "36.02.111.003",
+    "villageCode": "003",
+    "districtCode": "36.02.111",
+    "name": "Sukamaju",
+    "alias": "Sukamaju"
+  },
+  {
+    "code": "36.02.111.004",
+    "villageCode": "004",
+    "districtCode": "36.02.111",
+    "name": "Majasari",
+    "alias": "Majasari"
+  },
+  {
+    "code": "36.02.111.005",
+    "villageCode": "005",
+    "districtCode": "36.02.111",
+    "name": "Ciparasi",
+    "alias": "Ciparasi"
+  },
+  {
+    "code": "36.02.111.006",
+    "villageCode": "006",
+    "districtCode": "36.02.111",
+    "name": "Sindanglaya",
+    "alias": "Sindanglaya"
+  },
+  {
+    "code": "36.02.111.007",
+    "villageCode": "007",
+    "districtCode": "36.02.111",
+    "name": "Sobang",
+    "alias": "Sobang"
+  },
+  {
+    "code": "36.02.111.008",
+    "villageCode": "008",
+    "districtCode": "36.02.111",
+    "name": "Sukajaya",
+    "alias": "Sukajaya"
+  },
+  {
+    "code": "36.02.111.009",
+    "villageCode": "009",
+    "districtCode": "36.02.111",
+    "name": "Hariang",
+    "alias": "Hariang"
+  },
+  {
+    "code": "36.02.111.010",
+    "villageCode": "010",
+    "districtCode": "36.02.111",
+    "name": "Sukaresmi",
+    "alias": "Sukaresmi"
+  }
+]

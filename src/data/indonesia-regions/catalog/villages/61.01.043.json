@@ -1,0 +1,30 @@
+[
+  {
+    "code": "61.01.043.001",
+    "villageCode": "001",
+    "districtCode": "61.01.043",
+    "name": "Jirak",
+    "alias": "Jirak"
+  },
+  {
+    "code": "61.01.043.002",
+    "villageCode": "002",
+    "districtCode": "61.01.043",
+    "name": "Tengguli",
+    "alias": "Tengguli"
+  },
+  {
+    "code": "61.01.043.003",
+    "villageCode": "003",
+    "districtCode": "61.01.043",
+    "name": "Mekar Jaya",
+    "alias": "Mekar Jaya"
+  },
+  {
+    "code": "61.01.043.004",
+    "villageCode": "004",
+    "districtCode": "61.01.043",
+    "name": "Beringin",
+    "alias": "Beringin"
+  }
+]

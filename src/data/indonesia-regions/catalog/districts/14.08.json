@@ -1,0 +1,90 @@
+[
+  {
+    "code": "14.08.010",
+    "districtCode": "010",
+    "regencyCode": "14.08",
+    "provinceCode": "14",
+    "name": "Kecamatan Mandau",
+    "alias": "Mandau"
+  },
+  {
+    "code": "14.08.011",
+    "districtCode": "011",
+    "regencyCode": "14.08",
+    "provinceCode": "14",
+    "name": "Kecamatan Pinggir",
+    "alias": "Pinggir"
+  },
+  {
+    "code": "14.08.012",
+    "districtCode": "012",
+    "regencyCode": "14.08",
+    "provinceCode": "14",
+    "name": "Kecamatan Bathin Solapan",
+    "alias": "Bathin Solapan"
+  },
+  {
+    "code": "14.08.013",
+    "districtCode": "013",
+    "regencyCode": "14.08",
+    "provinceCode": "14",
+    "name": "Kecamatan Talang Muandau",
+    "alias": "Talang Muandau"
+  },
+  {
+    "code": "14.08.020",
+    "districtCode": "020",
+    "regencyCode": "14.08",
+    "provinceCode": "14",
+    "name": "Kecamatan Bukit Batu",
+    "alias": "Bukit Batu"
+  },
+  {
+    "code": "14.08.021",
+    "districtCode": "021",
+    "regencyCode": "14.08",
+    "provinceCode": "14",
+    "name": "Kecamatan Siak Kecil",
+    "alias": "Siak Kecil"
+  },
+  {
+    "code": "14.08.022",
+    "districtCode": "022",
+    "regencyCode": "14.08",
+    "provinceCode": "14",
+    "name": "Kecamatan Bandar Laksamana",
+    "alias": "Bandar Laksamana"
+  },
+  {
+    "code": "14.08.030",
+    "districtCode": "030",
+    "regencyCode": "14.08",
+    "provinceCode": "14",
+    "name": "Kecamatan Rupat",
+    "alias": "Rupat"
+  },
+  {
+    "code": "14.08.031",
+    "districtCode": "031",
+    "regencyCode": "14.08",
+    "provinceCode": "14",
+    "name": "Kecamatan Rupat Utara",
+    "alias": "Rupat Utara"
+  },
+  {
+    "code": "14.08.040",
+    "districtCode": "040",
+    "regencyCode": "14.08",
+    "provinceCode": "14",
+    "name": "Kecamatan Bengkalis",
+    "alias": "Bengkalis"
+  },
+  {
+    "code": "14.08.050",
+    "districtCode": "050",
+    "regencyCode": "14.08",
+    "provinceCode": "14",
+    "name": "Kecamatan Bantan",
+    "alias": "Bantan"
+  }
+]

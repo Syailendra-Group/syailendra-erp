@@ -1,0 +1,72 @@
+[
+  {
+    "code": "12.09.181.001",
+    "villageCode": "001",
+    "districtCode": "12.09.181",
+    "name": "L A R A S",
+    "alias": "L A R A S"
+  },
+  {
+    "code": "12.09.181.002",
+    "villageCode": "002",
+    "districtCode": "12.09.181",
+    "name": "Bah Gunung",
+    "alias": "Bah Gunung"
+  },
+  {
+    "code": "12.09.181.003",
+    "villageCode": "003",
+    "districtCode": "12.09.181",
+    "name": "Bandar Tongah",
+    "alias": "Bandar Tongah"
+  },
+  {
+    "code": "12.09.181.004",
+    "villageCode": "004",
+    "districtCode": "12.09.181",
+    "name": "Dolok Parmonangan",
+    "alias": "Dolok Parmonangan"
+  },
+  {
+    "code": "12.09.181.005",
+    "villageCode": "005",
+    "districtCode": "12.09.181",
+    "name": "Naga Jaya I",
+    "alias": "Naga Jaya I"
+  },
+  {
+    "code": "12.09.181.006",
+    "villageCode": "006",
+    "districtCode": "12.09.181",
+    "name": "Naga Jaya Ii",
+    "alias": "Naga Jaya Ii"
+  },
+  {
+    "code": "12.09.181.007",
+    "villageCode": "007",
+    "districtCode": "12.09.181",
+    "name": "Tanjung Hataran",
+    "alias": "Tanjung Hataran"
+  },
+  {
+    "code": "12.09.181.008",
+    "villageCode": "008",
+    "districtCode": "12.09.181",
+    "name": "Bandar Betsy I",
+    "alias": "Bandar Betsy I"
+  },
+  {
+    "code": "12.09.181.009",
+    "villageCode": "009",
+    "districtCode": "12.09.181",
+    "name": "Bandar Betsy Ii",
+    "alias": "Bandar Betsy Ii"
+  },
+  {
+    "code": "12.09.181.010",
+    "villageCode": "010",
+    "districtCode": "12.09.181",
+    "name": "Naga Sopa",
+    "alias": "Naga Sopa"
+  }
+]

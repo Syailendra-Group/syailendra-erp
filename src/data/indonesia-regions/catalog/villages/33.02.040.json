@@ -1,0 +1,65 @@
+[
+  {
+    "code": "33.02.040.001",
+    "villageCode": "001",
+    "districtCode": "33.02.040",
+    "name": "Losari",
+    "alias": "Losari"
+  },
+  {
+    "code": "33.02.040.002",
+    "villageCode": "002",
+    "districtCode": "33.02.040",
+    "name": "Menganti",
+    "alias": "Menganti"
+  },
+  {
+    "code": "33.02.040.003",
+    "villageCode": "003",
+    "districtCode": "33.02.040",
+    "name": "Banjarparakan",
+    "alias": "Banjarparakan"
+  },
+  {
+    "code": "33.02.040.004",
+    "villageCode": "004",
+    "districtCode": "33.02.040",
+    "name": "Rawalo",
+    "alias": "Rawalo"
+  },
+  {
+    "code": "33.02.040.005",
+    "villageCode": "005",
+    "districtCode": "33.02.040",
+    "name": "Tambaknegara",
+    "alias": "Tambaknegara"
+  },
+  {
+    "code": "33.02.040.006",
+    "villageCode": "006",
+    "districtCode": "33.02.040",
+    "name": "Sidamulih",
+    "alias": "Sidamulih"
+  },
+  {
+    "code": "33.02.040.007",
+    "villageCode": "007",
+    "districtCode": "33.02.040",
+    "name": "Pesawahan",
+    "alias": "Pesawahan"
+  },
+  {
+    "code": "33.02.040.008",
+    "villageCode": "008",
+    "districtCode": "33.02.040",
+    "name": "Tipar",
+    "alias": "Tipar"
+  },
+  {
+    "code": "33.02.040.009",
+    "villageCode": "009",
+    "districtCode": "33.02.040",
+    "name": "Sanggreman",
+    "alias": "Sanggreman"
+  }
+]

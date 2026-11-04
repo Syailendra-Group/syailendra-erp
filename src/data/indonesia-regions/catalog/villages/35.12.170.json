@@ -1,0 +1,37 @@
+[
+  {
+    "code": "35.12.170.001",
+    "villageCode": "001",
+    "districtCode": "35.12.170",
+    "name": "Banyuputih",
+    "alias": "Banyuputih"
+  },
+  {
+    "code": "35.12.170.002",
+    "villageCode": "002",
+    "districtCode": "35.12.170",
+    "name": "Sumberejo",
+    "alias": "Sumberejo"
+  },
+  {
+    "code": "35.12.170.003",
+    "villageCode": "003",
+    "districtCode": "35.12.170",
+    "name": "Sumberanyar",
+    "alias": "Sumberanyar"
+  },
+  {
+    "code": "35.12.170.004",
+    "villageCode": "004",
+    "districtCode": "35.12.170",
+    "name": "Sumberwaru",
+    "alias": "Sumberwaru"
+  },
+  {
+    "code": "35.12.170.005",
+    "villageCode": "005",
+    "districtCode": "35.12.170",
+    "name": "Wonorejo",
+    "alias": "Wonorejo"
+  }
+]

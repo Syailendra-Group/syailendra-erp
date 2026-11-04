@@ -1,0 +1,37 @@
+[
+  {
+    "code": "13.07.062.001",
+    "villageCode": "001",
+    "districtCode": "13.07.062",
+    "name": "Batu Palano",
+    "alias": "Batu Palano"
+  },
+  {
+    "code": "13.07.062.002",
+    "villageCode": "002",
+    "districtCode": "13.07.062",
+    "name": "Padang Laweh",
+    "alias": "Padang Laweh"
+  },
+  {
+    "code": "13.07.062.003",
+    "villageCode": "003",
+    "districtCode": "13.07.062",
+    "name": "Batagak",
+    "alias": "Batagak"
+  },
+  {
+    "code": "13.07.062.004",
+    "villageCode": "004",
+    "districtCode": "13.07.062",
+    "name": "Sariak",
+    "alias": "Sariak"
+  },
+  {
+    "code": "13.07.062.005",
+    "villageCode": "005",
+    "districtCode": "13.07.062",
+    "name": "Sungai Pua",
+    "alias": "Sungai Pua"
+  }
+]

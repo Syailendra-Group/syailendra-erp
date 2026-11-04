@@ -1,0 +1,107 @@
+[
+  {
+    "code": "95.03.010.001",
+    "villageCode": "001",
+    "districtCode": "95.03.010",
+    "name": "Wagin",
+    "alias": "Wagin"
+  },
+  {
+    "code": "95.03.010.002",
+    "villageCode": "002",
+    "districtCode": "95.03.010",
+    "name": "Mur",
+    "alias": "Mur"
+  },
+  {
+    "code": "95.03.010.003",
+    "villageCode": "003",
+    "districtCode": "95.03.010",
+    "name": "Linggua",
+    "alias": "Linggua"
+  },
+  {
+    "code": "95.03.010.004",
+    "villageCode": "004",
+    "districtCode": "95.03.010",
+    "name": "Yatan",
+    "alias": "Yatan"
+  },
+  {
+    "code": "95.03.010.005",
+    "villageCode": "005",
+    "districtCode": "95.03.010",
+    "name": "Katan",
+    "alias": "Katan"
+  },
+  {
+    "code": "95.03.010.006",
+    "villageCode": "006",
+    "districtCode": "95.03.010",
+    "name": "Monana",
+    "alias": "Monana"
+  },
+  {
+    "code": "95.03.010.007",
+    "villageCode": "007",
+    "districtCode": "95.03.010",
+    "name": "Waman",
+    "alias": "Waman"
+  },
+  {
+    "code": "95.03.010.008",
+    "villageCode": "008",
+    "districtCode": "95.03.010",
+    "name": "Koba",
+    "alias": "Koba"
+  },
+  {
+    "code": "95.03.010.009",
+    "villageCode": "009",
+    "districtCode": "95.03.010",
+    "name": "Kogoyaman",
+    "alias": "Kogoyaman"
+  },
+  {
+    "code": "95.03.010.010",
+    "villageCode": "010",
+    "districtCode": "95.03.010",
+    "name": "Ima",
+    "alias": "Ima"
+  },
+  {
+    "code": "95.03.010.011",
+    "villageCode": "011",
+    "districtCode": "95.03.010",
+    "name": "Agham",
+    "alias": "Agham"
+  },
+  {
+    "code": "95.03.010.012",
+    "villageCode": "012",
+    "districtCode": "95.03.010",
+    "name": "Tereyemu",
+    "alias": "Tereyemu"
+  },
+  {
+    "code": "95.03.010.013",
+    "villageCode": "013",
+    "districtCode": "95.03.010",
+    "name": "Magabak",
+    "alias": "Magabak"
+  },
+  {
+    "code": "95.03.010.014",
+    "villageCode": "014",
+    "districtCode": "95.03.010",
+    "name": "Ghanu",
+    "alias": "Ghanu"
+  },
+  {
+    "code": "95.03.010.015",
+    "villageCode": "015",
+    "districtCode": "95.03.010",
+    "name": "Warume",
+    "alias": "Warume"
+  }
+]

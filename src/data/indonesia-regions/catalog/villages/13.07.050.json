@@ -1,0 +1,51 @@
+[
+  {
+    "code": "13.07.050.001",
+    "villageCode": "001",
+    "districtCode": "13.07.050",
+    "name": "Koto Tuo",
+    "alias": "Koto Tuo"
+  },
+  {
+    "code": "13.07.050.002",
+    "villageCode": "002",
+    "districtCode": "13.07.050",
+    "name": "Balingka",
+    "alias": "Balingka"
+  },
+  {
+    "code": "13.07.050.003",
+    "villageCode": "003",
+    "districtCode": "13.07.050",
+    "name": "Sungai Landia",
+    "alias": "Sungai Landia"
+  },
+  {
+    "code": "13.07.050.004",
+    "villageCode": "004",
+    "districtCode": "13.07.050",
+    "name": "Koto Panjang",
+    "alias": "Koto Panjang"
+  },
+  {
+    "code": "13.07.050.005",
+    "villageCode": "005",
+    "districtCode": "13.07.050",
+    "name": "Sianok Anam Suku",
+    "alias": "Sianok Anam Suku"
+  },
+  {
+    "code": "13.07.050.006",
+    "villageCode": "006",
+    "districtCode": "13.07.050",
+    "name": "Koto Gadang",
+    "alias": "Koto Gadang"
+  },
+  {
+    "code": "13.07.050.007",
+    "villageCode": "007",
+    "districtCode": "13.07.050",
+    "name": "Guguak Tabek Sarojo",
+    "alias": "Guguak Tabek Sarojo"
+  }
+]

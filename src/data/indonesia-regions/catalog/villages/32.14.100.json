@@ -1,0 +1,72 @@
+[
+  {
+    "code": "32.14.100.005",
+    "villageCode": "005",
+    "districtCode": "32.14.100",
+    "name": "Sindangkasih",
+    "alias": "Sindangkasih"
+  },
+  {
+    "code": "32.14.100.006",
+    "villageCode": "006",
+    "districtCode": "32.14.100",
+    "name": "Nageri Kidul",
+    "alias": "Nageri Kidul"
+  },
+  {
+    "code": "32.14.100.007",
+    "villageCode": "007",
+    "districtCode": "32.14.100",
+    "name": "Nageri Tengah",
+    "alias": "Nageri Tengah"
+  },
+  {
+    "code": "32.14.100.008",
+    "villageCode": "008",
+    "districtCode": "32.14.100",
+    "name": "Cipaisan",
+    "alias": "Cipaisan"
+  },
+  {
+    "code": "32.14.100.009",
+    "villageCode": "009",
+    "districtCode": "32.14.100",
+    "name": "Nageri Kaler",
+    "alias": "Nageri Kaler"
+  },
+  {
+    "code": "32.14.100.010",
+    "villageCode": "010",
+    "districtCode": "32.14.100",
+    "name": "Tegalmunjul",
+    "alias": "Tegalmunjul"
+  },
+  {
+    "code": "32.14.100.011",
+    "villageCode": "011",
+    "districtCode": "32.14.100",
+    "name": "Citalang",
+    "alias": "Citalang"
+  },
+  {
+    "code": "32.14.100.012",
+    "villageCode": "012",
+    "districtCode": "32.14.100",
+    "name": "Munjuljaya",
+    "alias": "Munjuljaya"
+  },
+  {
+    "code": "32.14.100.013",
+    "villageCode": "013",
+    "districtCode": "32.14.100",
+    "name": "Ciseureuh",
+    "alias": "Ciseureuh"
+  },
+  {
+    "code": "32.14.100.016",
+    "villageCode": "016",
+    "districtCode": "32.14.100",
+    "name": "Purwamekar",
+    "alias": "Purwamekar"
+  }
+]

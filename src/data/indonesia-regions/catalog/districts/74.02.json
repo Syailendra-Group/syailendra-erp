@@ -1,0 +1,178 @@
+[
+  {
+    "code": "74.02.010",
+    "districtCode": "010",
+    "regencyCode": "74.02",
+    "provinceCode": "74",
+    "name": "Kecamatan Tongkuno",
+    "alias": "Tongkuno"
+  },
+  {
+    "code": "74.02.011",
+    "districtCode": "011",
+    "regencyCode": "74.02",
+    "provinceCode": "74",
+    "name": "Kecamatan Tongkuno Selatan",
+    "alias": "Tongkuno Selatan"
+  },
+  {
+    "code": "74.02.020",
+    "districtCode": "020",
+    "regencyCode": "74.02",
+    "provinceCode": "74",
+    "name": "Kecamatan Parigi",
+    "alias": "Parigi"
+  },
+  {
+    "code": "74.02.021",
+    "districtCode": "021",
+    "regencyCode": "74.02",
+    "provinceCode": "74",
+    "name": "Kecamatan Bone",
+    "alias": "Bone"
+  },
+  {
+    "code": "74.02.022",
+    "districtCode": "022",
+    "regencyCode": "74.02",
+    "provinceCode": "74",
+    "name": "Kecamatan Marobo",
+    "alias": "Marobo"
+  },
+  {
+    "code": "74.02.030",
+    "districtCode": "030",
+    "regencyCode": "74.02",
+    "provinceCode": "74",
+    "name": "Kecamatan Kabawo",
+    "alias": "Kabawo"
+  },
+  {
+    "code": "74.02.031",
+    "districtCode": "031",
+    "regencyCode": "74.02",
+    "provinceCode": "74",
+    "name": "Kecamatan Kabangka",
+    "alias": "Kabangka"
+  },
+  {
+    "code": "74.02.032",
+    "districtCode": "032",
+    "regencyCode": "74.02",
+    "provinceCode": "74",
+    "name": "Kecamatan Kontukowuna",
+    "alias": "Kontukowuna"
+  },
+  {
+    "code": "74.02.061",
+    "districtCode": "061",
+    "regencyCode": "74.02",
+    "provinceCode": "74",
+    "name": "Kecamatan Kontunaga",
+    "alias": "Kontunaga"
+  },
+  {
+    "code": "74.02.062",
+    "districtCode": "062",
+    "regencyCode": "74.02",
+    "provinceCode": "74",
+    "name": "Kecamatan Watopute",
+    "alias": "Watopute"
+  },
+  {
+    "code": "74.02.070",
+    "districtCode": "070",
+    "regencyCode": "74.02",
+    "provinceCode": "74",
+    "name": "Kecamatan Katobu",
+    "alias": "Katobu"
+  },
+  {
+    "code": "74.02.071",
+    "districtCode": "071",
+    "regencyCode": "74.02",
+    "provinceCode": "74",
+    "name": "Kecamatan Lohia",
+    "alias": "Lohia"
+  },
+  {
+    "code": "74.02.072",
+    "districtCode": "072",
+    "regencyCode": "74.02",
+    "provinceCode": "74",
+    "name": "Kecamatan Duruka",
+    "alias": "Duruka"
+  },
+  {
+    "code": "74.02.073",
+    "districtCode": "073",
+    "regencyCode": "74.02",
+    "provinceCode": "74",
+    "name": "Kecamatan Batalaiworu",
+    "alias": "Batalaiworu"
+  },
+  {
+    "code": "74.02.080",
+    "districtCode": "080",
+    "regencyCode": "74.02",
+    "provinceCode": "74",
+    "name": "Kecamatan Napabalano",
+    "alias": "Napabalano"
+  },
+  {
+    "code": "74.02.081",
+    "districtCode": "081",
+    "regencyCode": "74.02",
+    "provinceCode": "74",
+    "name": "Kecamatan Lasalepa",
+    "alias": "Lasalepa"
+  },
+  {
+    "code": "74.02.083",
+    "districtCode": "083",
+    "regencyCode": "74.02",
+    "provinceCode": "74",
+    "name": "Kecamatan Towea",
+    "alias": "Towea"
+  },
+  {
+    "code": "74.02.090",
+    "districtCode": "090",
+    "regencyCode": "74.02",
+    "provinceCode": "74",
+    "name": "Kecamatan Wakorumba Selatan",
+    "alias": "Wakorumba Selatan"
+  },
+  {
+    "code": "74.02.091",
+    "districtCode": "091",
+    "regencyCode": "74.02",
+    "provinceCode": "74",
+    "name": "Kecamatan Pasir Putih",
+    "alias": "Pasir Putih"
+  },
+  {
+    "code": "74.02.092",
+    "districtCode": "092",
+    "regencyCode": "74.02",
+    "provinceCode": "74",
+    "name": "Kecamatan Pasi Kolaga",
+    "alias": "Pasi Kolaga"
+  },
+  {
+    "code": "74.02.111",
+    "districtCode": "111",
+    "regencyCode": "74.02",
+    "provinceCode": "74",
+    "name": "Kecamatan Maligano",
+    "alias": "Maligano"
+  },
+  {
+    "code": "74.02.112",
+    "districtCode": "112",
+    "regencyCode": "74.02",
+    "provinceCode": "74",
+    "name": "Kecamatan Batukara",
+    "alias": "Batukara"
+  }
+]

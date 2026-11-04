@@ -1,0 +1,58 @@
+[
+  {
+    "code": "18.11.010",
+    "districtCode": "010",
+    "regencyCode": "18.11",
+    "provinceCode": "18",
+    "name": "Kecamatan Way Serdang",
+    "alias": "Way Serdang"
+  },
+  {
+    "code": "18.11.020",
+    "districtCode": "020",
+    "regencyCode": "18.11",
+    "provinceCode": "18",
+    "name": "Kecamatan Simpang Pematang",
+    "alias": "Simpang Pematang"
+  },
+  {
+    "code": "18.11.030",
+    "districtCode": "030",
+    "regencyCode": "18.11",
+    "provinceCode": "18",
+    "name": "Kecamatan Panca Jaya",
+    "alias": "Panca Jaya"
+  },
+  {
+    "code": "18.11.040",
+    "districtCode": "040",
+    "regencyCode": "18.11",
+    "provinceCode": "18",
+    "name": "Kecamatan Tanjung Raya",
+    "alias": "Tanjung Raya"
+  },
+  {
+    "code": "18.11.050",
+    "districtCode": "050",
+    "regencyCode": "18.11",
+    "provinceCode": "18",
+    "name": "Kecamatan Mesuji",
+    "alias": "Mesuji"
+  },
+  {
+    "code": "18.11.060",
+    "districtCode": "060",
+    "regencyCode": "18.11",
+    "provinceCode": "18",
+    "name": "Kecamatan Mesuji Timur",
+    "alias": "Mesuji Timur"
+  },
+  {
+    "code": "18.11.070",
+    "districtCode": "070",
+    "regencyCode": "18.11",
+    "provinceCode": "18",
+    "name": "Kecamatan Rawajitu Utara",
+    "alias": "Rawajitu Utara"
+  }
+]

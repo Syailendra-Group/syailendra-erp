@@ -1,0 +1,121 @@
+[
+  {
+    "code": "35.22.070.001",
+    "villageCode": "001",
+    "districtCode": "35.22.070",
+    "name": "Drenges",
+    "alias": "Drenges"
+  },
+  {
+    "code": "35.22.070.002",
+    "villageCode": "002",
+    "districtCode": "35.22.070",
+    "name": "Bareng",
+    "alias": "Bareng"
+  },
+  {
+    "code": "35.22.070.003",
+    "villageCode": "003",
+    "districtCode": "35.22.070",
+    "name": "Alasgung",
+    "alias": "Alasgung"
+  },
+  {
+    "code": "35.22.070.004",
+    "villageCode": "004",
+    "districtCode": "35.22.070",
+    "name": "Panunggalan",
+    "alias": "Panunggalan"
+  },
+  {
+    "code": "35.22.070.005",
+    "villageCode": "005",
+    "districtCode": "35.22.070",
+    "name": "Wedoro",
+    "alias": "Wedoro"
+  },
+  {
+    "code": "35.22.070.006",
+    "villageCode": "006",
+    "districtCode": "35.22.070",
+    "name": "Bulu",
+    "alias": "Bulu"
+  },
+  {
+    "code": "35.22.070.007",
+    "villageCode": "007",
+    "districtCode": "35.22.070",
+    "name": "Siwalan",
+    "alias": "Siwalan"
+  },
+  {
+    "code": "35.22.070.008",
+    "villageCode": "008",
+    "districtCode": "35.22.070",
+    "name": "Glagahan",
+    "alias": "Glagahan"
+  },
+  {
+    "code": "35.22.070.009",
+    "villageCode": "009",
+    "districtCode": "35.22.070",
+    "name": "Panemon",
+    "alias": "Panemon"
+  },
+  {
+    "code": "35.22.070.010",
+    "villageCode": "010",
+    "districtCode": "35.22.070",
+    "name": "Sugihwaras",
+    "alias": "Sugihwaras"
+  },
+  {
+    "code": "35.22.070.011",
+    "villageCode": "011",
+    "districtCode": "35.22.070",
+    "name": "Trate",
+    "alias": "Trate"
+  },
+  {
+    "code": "35.22.070.012",
+    "villageCode": "012",
+    "districtCode": "35.22.070",
+    "name": "Nglajang",
+    "alias": "Nglajang"
+  },
+  {
+    "code": "35.22.070.013",
+    "villageCode": "013",
+    "districtCode": "35.22.070",
+    "name": "Kedungdowo",
+    "alias": "Kedungdowo"
+  },
+  {
+    "code": "35.22.070.014",
+    "villageCode": "014",
+    "districtCode": "35.22.070",
+    "name": "Glagah Wangi",
+    "alias": "Glagah Wangi"
+  },
+  {
+    "code": "35.22.070.015",
+    "villageCode": "015",
+    "districtCode": "35.22.070",
+    "name": "Jatitengah",
+    "alias": "Jatitengah"
+  },
+  {
+    "code": "35.22.070.016",
+    "villageCode": "016",
+    "districtCode": "35.22.070",
+    "name": "Balongrejo",
+    "alias": "Balongrejo"
+  },
+  {
+    "code": "35.22.070.017",
+    "villageCode": "017",
+    "districtCode": "35.22.070",
+    "name": "Genjor",
+    "alias": "Genjor"
+  }
+]

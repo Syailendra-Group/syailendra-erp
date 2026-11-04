@@ -1,0 +1,51 @@
+[
+  {
+    "code": "32.05.300.001",
+    "villageCode": "001",
+    "districtCode": "32.05.300",
+    "name": "Cigawir",
+    "alias": "Cigawir"
+  },
+  {
+    "code": "32.05.300.002",
+    "villageCode": "002",
+    "districtCode": "32.05.300",
+    "name": "Putrajawa",
+    "alias": "Putrajawa"
+  },
+  {
+    "code": "32.05.300.003",
+    "villageCode": "003",
+    "districtCode": "32.05.300",
+    "name": "Mekarsari",
+    "alias": "Mekarsari"
+  },
+  {
+    "code": "32.05.300.004",
+    "villageCode": "004",
+    "districtCode": "32.05.300",
+    "name": "Selaawi",
+    "alias": "Selaawi"
+  },
+  {
+    "code": "32.05.300.005",
+    "villageCode": "005",
+    "districtCode": "32.05.300",
+    "name": "Cirapuhan",
+    "alias": "Cirapuhan"
+  },
+  {
+    "code": "32.05.300.006",
+    "villageCode": "006",
+    "districtCode": "32.05.300",
+    "name": "Samida",
+    "alias": "Samida"
+  },
+  {
+    "code": "32.05.300.007",
+    "villageCode": "007",
+    "districtCode": "32.05.300",
+    "name": "Pelitaasih",
+    "alias": "Pelitaasih"
+  }
+]

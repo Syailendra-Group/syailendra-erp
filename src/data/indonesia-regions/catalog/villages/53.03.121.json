@@ -1,0 +1,58 @@
+[
+  {
+    "code": "53.03.121.001",
+    "villageCode": "001",
+    "districtCode": "53.03.121",
+    "name": "Oeletsala",
+    "alias": "Oeletsala"
+  },
+  {
+    "code": "53.03.121.002",
+    "villageCode": "002",
+    "districtCode": "53.03.121",
+    "name": "Kuaklalo",
+    "alias": "Kuaklalo"
+  },
+  {
+    "code": "53.03.121.003",
+    "villageCode": "003",
+    "districtCode": "53.03.121",
+    "name": "Bokong",
+    "alias": "Bokong"
+  },
+  {
+    "code": "53.03.121.004",
+    "villageCode": "004",
+    "districtCode": "53.03.121",
+    "name": "Baumata Timur",
+    "alias": "Baumata Timur"
+  },
+  {
+    "code": "53.03.121.005",
+    "villageCode": "005",
+    "districtCode": "53.03.121",
+    "name": "Oeltua",
+    "alias": "Oeltua"
+  },
+  {
+    "code": "53.03.121.006",
+    "villageCode": "006",
+    "districtCode": "53.03.121",
+    "name": "Baumata",
+    "alias": "Baumata"
+  },
+  {
+    "code": "53.03.121.007",
+    "villageCode": "007",
+    "districtCode": "53.03.121",
+    "name": "Baumata Barat",
+    "alias": "Baumata Barat"
+  },
+  {
+    "code": "53.03.121.008",
+    "villageCode": "008",
+    "districtCode": "53.03.121",
+    "name": "Baumata Utara",
+    "alias": "Baumata Utara"
+  }
+]

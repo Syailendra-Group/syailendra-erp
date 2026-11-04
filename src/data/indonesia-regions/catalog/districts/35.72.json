@@ -1,0 +1,26 @@
+[
+  {
+    "code": "35.72.010",
+    "districtCode": "010",
+    "regencyCode": "35.72",
+    "provinceCode": "35",
+    "name": "Kecamatan Sukorejo",
+    "alias": "Sukorejo"
+  },
+  {
+    "code": "35.72.020",
+    "districtCode": "020",
+    "regencyCode": "35.72",
+    "provinceCode": "35",
+    "name": "Kecamatan Kepanjenkidul",
+    "alias": "Kepanjenkidul"
+  },
+  {
+    "code": "35.72.030",
+    "districtCode": "030",
+    "regencyCode": "35.72",
+    "provinceCode": "35",
+    "name": "Kecamatan Sananwetan",
+    "alias": "Sananwetan"
+  }
+]

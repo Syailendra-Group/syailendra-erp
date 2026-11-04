@@ -1,0 +1,107 @@
+[
+  {
+    "code": "53.10.070.001",
+    "villageCode": "001",
+    "districtCode": "53.10.070",
+    "name": "Tilang",
+    "alias": "Tilang"
+  },
+  {
+    "code": "53.10.070.002",
+    "villageCode": "002",
+    "districtCode": "53.10.070",
+    "name": "Lusitada",
+    "alias": "Lusitada"
+  },
+  {
+    "code": "53.10.070.003",
+    "villageCode": "003",
+    "districtCode": "53.10.070",
+    "name": "Bloro",
+    "alias": "Bloro"
+  },
+  {
+    "code": "53.10.070.004",
+    "villageCode": "004",
+    "districtCode": "53.10.070",
+    "name": "Tebuk",
+    "alias": "Tebuk"
+  },
+  {
+    "code": "53.10.070.005",
+    "villageCode": "005",
+    "districtCode": "53.10.070",
+    "name": "Nita",
+    "alias": "Nita"
+  },
+  {
+    "code": "53.10.070.006",
+    "villageCode": "006",
+    "districtCode": "53.10.070",
+    "name": "Takaplager",
+    "alias": "Takaplager"
+  },
+  {
+    "code": "53.10.070.007",
+    "villageCode": "007",
+    "districtCode": "53.10.070",
+    "name": "Nitakloang",
+    "alias": "Nitakloang"
+  },
+  {
+    "code": "53.10.070.008",
+    "villageCode": "008",
+    "districtCode": "53.10.070",
+    "name": "Wuliwutik",
+    "alias": "Wuliwutik"
+  },
+  {
+    "code": "53.10.070.009",
+    "villageCode": "009",
+    "districtCode": "53.10.070",
+    "name": "Ladogahar",
+    "alias": "Ladogahar"
+  },
+  {
+    "code": "53.10.070.010",
+    "villageCode": "010",
+    "districtCode": "53.10.070",
+    "name": "Riit",
+    "alias": "Riit"
+  },
+  {
+    "code": "53.10.070.011",
+    "villageCode": "011",
+    "districtCode": "53.10.070",
+    "name": "Nirangkliung",
+    "alias": "Nirangkliung"
+  },
+  {
+    "code": "53.10.070.015",
+    "villageCode": "015",
+    "districtCode": "53.10.070",
+    "name": "Mahebora",
+    "alias": "Mahebora"
+  },
+  {
+    "code": "53.10.070.016",
+    "villageCode": "016",
+    "districtCode": "53.10.070",
+    "name": "Kara Kabu",
+    "alias": "Kara Kabu"
+  },
+  {
+    "code": "53.10.070.017",
+    "villageCode": "017",
+    "districtCode": "53.10.070",
+    "name": "Tada Lado",
+    "alias": "Tada Lado"
+  },
+  {
+    "code": "53.10.070.018",
+    "villageCode": "018",
+    "districtCode": "53.10.070",
+    "name": "Nangablo",
+    "alias": "Nangablo"
+  }
+]

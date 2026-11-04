@@ -1,0 +1,86 @@
+[
+  {
+    "code": "35.22.220.001",
+    "villageCode": "001",
+    "districtCode": "35.22.220",
+    "name": "Kaliombo",
+    "alias": "Kaliombo"
+  },
+  {
+    "code": "35.22.220.002",
+    "villageCode": "002",
+    "districtCode": "35.22.220",
+    "name": "Pelem",
+    "alias": "Pelem"
+  },
+  {
+    "code": "35.22.220.003",
+    "villageCode": "003",
+    "districtCode": "35.22.220",
+    "name": "Ngrejeng",
+    "alias": "Ngrejeng"
+  },
+  {
+    "code": "35.22.220.004",
+    "villageCode": "004",
+    "districtCode": "35.22.220",
+    "name": "Tlatah",
+    "alias": "Tlatah"
+  },
+  {
+    "code": "35.22.220.005",
+    "villageCode": "005",
+    "districtCode": "35.22.220",
+    "name": "Tinumpuk",
+    "alias": "Tinumpuk"
+  },
+  {
+    "code": "35.22.220.006",
+    "villageCode": "006",
+    "districtCode": "35.22.220",
+    "name": "Kuniran",
+    "alias": "Kuniran"
+  },
+  {
+    "code": "35.22.220.007",
+    "villageCode": "007",
+    "districtCode": "35.22.220",
+    "name": "Donan",
+    "alias": "Donan"
+  },
+  {
+    "code": "35.22.220.008",
+    "villageCode": "008",
+    "districtCode": "35.22.220",
+    "name": "Gapluk",
+    "alias": "Gapluk"
+  },
+  {
+    "code": "35.22.220.009",
+    "villageCode": "009",
+    "districtCode": "35.22.220",
+    "name": "Punggur",
+    "alias": "Punggur"
+  },
+  {
+    "code": "35.22.220.010",
+    "villageCode": "010",
+    "districtCode": "35.22.220",
+    "name": "Sedahkidul",
+    "alias": "Sedahkidul"
+  },
+  {
+    "code": "35.22.220.011",
+    "villageCode": "011",
+    "districtCode": "35.22.220",
+    "name": "Pojok",
+    "alias": "Pojok"
+  },
+  {
+    "code": "35.22.220.012",
+    "villageCode": "012",
+    "districtCode": "35.22.220",
+    "name": "Purwosari",
+    "alias": "Purwosari"
+  }
+]

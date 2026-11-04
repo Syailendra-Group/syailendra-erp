@@ -1,0 +1,65 @@
+[
+  {
+    "code": "91.01.062.001",
+    "villageCode": "001",
+    "districtCode": "91.01.062",
+    "name": "Sekru",
+    "alias": "Sekru"
+  },
+  {
+    "code": "91.01.062.002",
+    "villageCode": "002",
+    "districtCode": "91.01.062",
+    "name": "Torea",
+    "alias": "Torea"
+  },
+  {
+    "code": "91.01.062.003",
+    "villageCode": "003",
+    "districtCode": "91.01.062",
+    "name": "Sekban",
+    "alias": "Sekban"
+  },
+  {
+    "code": "91.01.062.004",
+    "villageCode": "004",
+    "districtCode": "91.01.062",
+    "name": "Dulan Pok Pok",
+    "alias": "Dulan Pok Pok"
+  },
+  {
+    "code": "91.01.062.005",
+    "villageCode": "005",
+    "districtCode": "91.01.062",
+    "name": "Kapaurtutin",
+    "alias": "Kapaurtutin"
+  },
+  {
+    "code": "91.01.062.006",
+    "villageCode": "006",
+    "districtCode": "91.01.062",
+    "name": "Tanama",
+    "alias": "Tanama"
+  },
+  {
+    "code": "91.01.062.007",
+    "villageCode": "007",
+    "districtCode": "91.01.062",
+    "name": "Wagom",
+    "alias": "Wagom"
+  },
+  {
+    "code": "91.01.062.008",
+    "villageCode": "008",
+    "districtCode": "91.01.062",
+    "name": "Wagom Utara",
+    "alias": "Wagom Utara"
+  },
+  {
+    "code": "91.01.062.009",
+    "villageCode": "009",
+    "districtCode": "91.01.062",
+    "name": "Sukuru Tuare",
+    "alias": "Sukuru Tuare"
+  }
+]

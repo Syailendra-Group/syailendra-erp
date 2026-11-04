@@ -1,0 +1,72 @@
+[
+  {
+    "code": "32.08.101.001",
+    "villageCode": "001",
+    "districtCode": "32.08.101",
+    "name": "Muncangela",
+    "alias": "Muncangela"
+  },
+  {
+    "code": "32.08.101.002",
+    "villageCode": "002",
+    "districtCode": "32.08.101",
+    "name": "Karoya",
+    "alias": "Karoya"
+  },
+  {
+    "code": "32.08.101.003",
+    "villageCode": "003",
+    "districtCode": "32.08.101",
+    "name": "Susukan",
+    "alias": "Susukan"
+  },
+  {
+    "code": "32.08.101.004",
+    "villageCode": "004",
+    "districtCode": "32.08.101",
+    "name": "Sukamukti",
+    "alias": "Sukamukti"
+  },
+  {
+    "code": "32.08.101.005",
+    "villageCode": "005",
+    "districtCode": "32.08.101",
+    "name": "Cipicung",
+    "alias": "Cipicung"
+  },
+  {
+    "code": "32.08.101.006",
+    "villageCode": "006",
+    "districtCode": "32.08.101",
+    "name": "Mekarsari",
+    "alias": "Mekarsari"
+  },
+  {
+    "code": "32.08.101.007",
+    "villageCode": "007",
+    "districtCode": "32.08.101",
+    "name": "Cimaranten",
+    "alias": "Cimaranten"
+  },
+  {
+    "code": "32.08.101.008",
+    "villageCode": "008",
+    "districtCode": "32.08.101",
+    "name": "Pamulihan",
+    "alias": "Pamulihan"
+  },
+  {
+    "code": "32.08.101.009",
+    "villageCode": "009",
+    "districtCode": "32.08.101",
+    "name": "Salareuma",
+    "alias": "Salareuma"
+  },
+  {
+    "code": "32.08.101.010",
+    "villageCode": "010",
+    "districtCode": "32.08.101",
+    "name": "Suganangan",
+    "alias": "Suganangan"
+  }
+]

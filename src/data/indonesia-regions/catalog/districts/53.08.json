@@ -1,0 +1,74 @@
+[
+  {
+    "code": "53.08.010",
+    "districtCode": "010",
+    "regencyCode": "53.08",
+    "provinceCode": "53",
+    "name": "Kecamatan Nagawutung",
+    "alias": "Nagawutung"
+  },
+  {
+    "code": "53.08.011",
+    "districtCode": "011",
+    "regencyCode": "53.08",
+    "provinceCode": "53",
+    "name": "Kecamatan Wulandoni",
+    "alias": "Wulandoni"
+  },
+  {
+    "code": "53.08.020",
+    "districtCode": "020",
+    "regencyCode": "53.08",
+    "provinceCode": "53",
+    "name": "Kecamatan Atadei",
+    "alias": "Atadei"
+  },
+  {
+    "code": "53.08.030",
+    "districtCode": "030",
+    "regencyCode": "53.08",
+    "provinceCode": "53",
+    "name": "Kecamatan Ile Ape",
+    "alias": "Ile Ape"
+  },
+  {
+    "code": "53.08.031",
+    "districtCode": "031",
+    "regencyCode": "53.08",
+    "provinceCode": "53",
+    "name": "Kecamatan Ile Ape Timur",
+    "alias": "Ile Ape Timur"
+  },
+  {
+    "code": "53.08.040",
+    "districtCode": "040",
+    "regencyCode": "53.08",
+    "provinceCode": "53",
+    "name": "Kecamatan Lebatukan",
+    "alias": "Lebatukan"
+  },
+  {
+    "code": "53.08.050",
+    "districtCode": "050",
+    "regencyCode": "53.08",
+    "provinceCode": "53",
+    "name": "Kecamatan Nubatukan",
+    "alias": "Nubatukan"
+  },
+  {
+    "code": "53.08.060",
+    "districtCode": "060",
+    "regencyCode": "53.08",
+    "provinceCode": "53",
+    "name": "Kecamatan Omesuri",
+    "alias": "Omesuri"
+  },
+  {
+    "code": "53.08.070",
+    "districtCode": "070",
+    "regencyCode": "53.08",
+    "provinceCode": "53",
+    "name": "Kecamatan Buyasari",
+    "alias": "Buyasari"
+  }
+]

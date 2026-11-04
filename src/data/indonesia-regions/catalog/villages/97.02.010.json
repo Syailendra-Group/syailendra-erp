@@ -1,0 +1,79 @@
+[
+  {
+    "code": "97.02.010.001",
+    "villageCode": "001",
+    "districtCode": "97.02.010",
+    "name": "Lantipo",
+    "alias": "Lantipo"
+  },
+  {
+    "code": "97.02.010.002",
+    "villageCode": "002",
+    "districtCode": "97.02.010",
+    "name": "Wamaroma",
+    "alias": "Wamaroma"
+  },
+  {
+    "code": "97.02.010.003",
+    "villageCode": "003",
+    "districtCode": "97.02.010",
+    "name": "Wamena Kota",
+    "alias": "Wamena Kota"
+  },
+  {
+    "code": "97.02.010.004",
+    "villageCode": "004",
+    "districtCode": "97.02.010",
+    "name": "Autakma",
+    "alias": "Autakma"
+  },
+  {
+    "code": "97.02.010.005",
+    "villageCode": "005",
+    "districtCode": "97.02.010",
+    "name": "Sinapuk",
+    "alias": "Sinapuk"
+  },
+  {
+    "code": "97.02.010.006",
+    "villageCode": "006",
+    "districtCode": "97.02.010",
+    "name": "Sinakma",
+    "alias": "Sinakma"
+  },
+  {
+    "code": "97.02.010.007",
+    "villageCode": "007",
+    "districtCode": "97.02.010",
+    "name": "Batu Merah",
+    "alias": "Batu Merah"
+  },
+  {
+    "code": "97.02.010.008",
+    "villageCode": "008",
+    "districtCode": "97.02.010",
+    "name": "Honelama Ii",
+    "alias": "Honelama Ii"
+  },
+  {
+    "code": "97.02.010.009",
+    "villageCode": "009",
+    "districtCode": "97.02.010",
+    "name": "Onaima",
+    "alias": "Onaima"
+  },
+  {
+    "code": "97.02.010.010",
+    "villageCode": "010",
+    "districtCode": "97.02.010",
+    "name": "Honelama",
+    "alias": "Honelama"
+  },
+  {
+    "code": "97.02.010.011",
+    "villageCode": "011",
+    "districtCode": "97.02.010",
+    "name": "Hurekama",
+    "alias": "Hurekama"
+  }
+]

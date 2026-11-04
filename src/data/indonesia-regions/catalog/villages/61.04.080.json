@@ -1,0 +1,37 @@
+[
+  {
+    "code": "61.04.080.001",
+    "villageCode": "001",
+    "districtCode": "61.04.080",
+    "name": "Sungai Nipah",
+    "alias": "Sungai Nipah"
+  },
+  {
+    "code": "61.04.080.002",
+    "villageCode": "002",
+    "districtCode": "61.04.080",
+    "name": "Jungkat",
+    "alias": "Jungkat"
+  },
+  {
+    "code": "61.04.080.003",
+    "villageCode": "003",
+    "districtCode": "61.04.080",
+    "name": "Wajok Hilir",
+    "alias": "Wajok Hilir"
+  },
+  {
+    "code": "61.04.080.004",
+    "villageCode": "004",
+    "districtCode": "61.04.080",
+    "name": "Wajok Hulu",
+    "alias": "Wajok Hulu"
+  },
+  {
+    "code": "61.04.080.006",
+    "villageCode": "006",
+    "districtCode": "61.04.080",
+    "name": "Peniti Luar",
+    "alias": "Peniti Luar"
+  }
+]

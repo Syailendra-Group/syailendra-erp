@@ -1,0 +1,93 @@
+[
+  {
+    "code": "64.01.021.001",
+    "villageCode": "001",
+    "districtCode": "64.01.021",
+    "name": "Kerang",
+    "alias": "Kerang"
+  },
+  {
+    "code": "64.01.021.002",
+    "villageCode": "002",
+    "districtCode": "64.01.021",
+    "name": "Tempakan",
+    "alias": "Tempakan"
+  },
+  {
+    "code": "64.01.021.003",
+    "villageCode": "003",
+    "districtCode": "64.01.021",
+    "name": "Mengkudu",
+    "alias": "Mengkudu"
+  },
+  {
+    "code": "64.01.021.004",
+    "villageCode": "004",
+    "districtCode": "64.01.021",
+    "name": "Lomu",
+    "alias": "Lomu"
+  },
+  {
+    "code": "64.01.021.005",
+    "villageCode": "005",
+    "districtCode": "64.01.021",
+    "name": "Segendang",
+    "alias": "Segendang"
+  },
+  {
+    "code": "64.01.021.006",
+    "villageCode": "006",
+    "districtCode": "64.01.021",
+    "name": "Riwang",
+    "alias": "Riwang"
+  },
+  {
+    "code": "64.01.021.007",
+    "villageCode": "007",
+    "districtCode": "64.01.021",
+    "name": "Langgai",
+    "alias": "Langgai"
+  },
+  {
+    "code": "64.01.021.008",
+    "villageCode": "008",
+    "districtCode": "64.01.021",
+    "name": "Petangis",
+    "alias": "Petangis"
+  },
+  {
+    "code": "64.01.021.009",
+    "villageCode": "009",
+    "districtCode": "64.01.021",
+    "name": "Kerang Dayo",
+    "alias": "Kerang Dayo"
+  },
+  {
+    "code": "64.01.021.010",
+    "villageCode": "010",
+    "districtCode": "64.01.021",
+    "name": "Saing Prupuk",
+    "alias": "Saing Prupuk"
+  },
+  {
+    "code": "64.01.021.011",
+    "villageCode": "011",
+    "districtCode": "64.01.021",
+    "name": "Bai Jaya",
+    "alias": "Bai Jaya"
+  },
+  {
+    "code": "64.01.021.012",
+    "villageCode": "012",
+    "districtCode": "64.01.021",
+    "name": "Pengguren Jaya",
+    "alias": "Pengguren Jaya"
+  },
+  {
+    "code": "64.01.021.013",
+    "villageCode": "013",
+    "districtCode": "64.01.021",
+    "name": "Tebru Paser Damai",
+    "alias": "Tebru Paser Damai"
+  }
+]

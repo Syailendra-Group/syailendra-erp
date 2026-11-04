@@ -1,0 +1,86 @@
+[
+  {
+    "code": "12.23.050.001",
+    "villageCode": "001",
+    "districtCode": "12.23.050",
+    "name": "Lobu Huala",
+    "alias": "Lobu Huala"
+  },
+  {
+    "code": "12.23.050.002",
+    "villageCode": "002",
+    "districtCode": "12.23.050",
+    "name": "Siamporik",
+    "alias": "Siamporik"
+  },
+  {
+    "code": "12.23.050.003",
+    "villageCode": "003",
+    "districtCode": "12.23.050",
+    "name": "Simangalam",
+    "alias": "Simangalam"
+  },
+  {
+    "code": "12.23.050.004",
+    "villageCode": "004",
+    "districtCode": "12.23.050",
+    "name": "Gunung Melayu",
+    "alias": "Gunung Melayu"
+  },
+  {
+    "code": "12.23.050.005",
+    "villageCode": "005",
+    "districtCode": "12.23.050",
+    "name": "Damuli Pekan",
+    "alias": "Damuli Pekan"
+  },
+  {
+    "code": "12.23.050.006",
+    "villageCode": "006",
+    "districtCode": "12.23.050",
+    "name": "Damuli Kebun",
+    "alias": "Damuli Kebun"
+  },
+  {
+    "code": "12.23.050.007",
+    "villageCode": "007",
+    "districtCode": "12.23.050",
+    "name": "Hasang",
+    "alias": "Hasang"
+  },
+  {
+    "code": "12.23.050.008",
+    "villageCode": "008",
+    "districtCode": "12.23.050",
+    "name": "Bandar Lama",
+    "alias": "Bandar Lama"
+  },
+  {
+    "code": "12.23.050.009",
+    "villageCode": "009",
+    "districtCode": "12.23.050",
+    "name": "Sidua-Dua",
+    "alias": "Sidua-Dua"
+  },
+  {
+    "code": "12.23.050.010",
+    "villageCode": "010",
+    "districtCode": "12.23.050",
+    "name": "Gunting Saga",
+    "alias": "Gunting Saga"
+  },
+  {
+    "code": "12.23.050.011",
+    "villageCode": "011",
+    "districtCode": "12.23.050",
+    "name": "Tanjung Pasir",
+    "alias": "Tanjung Pasir"
+  },
+  {
+    "code": "12.23.050.012",
+    "villageCode": "012",
+    "districtCode": "12.23.050",
+    "name": "Sialang Taji",
+    "alias": "Sialang Taji"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "code": "14.09.023.001",
+    "villageCode": "001",
+    "districtCode": "14.09.023",
+    "name": "Pasir Putih",
+    "alias": "Pasir Putih"
+  },
+  {
+    "code": "14.09.023.002",
+    "villageCode": "002",
+    "districtCode": "14.09.023",
+    "name": "Balai Jaya",
+    "alias": "Balai Jaya"
+  },
+  {
+    "code": "14.09.023.003",
+    "villageCode": "003",
+    "districtCode": "14.09.023",
+    "name": "Balam Sempurna",
+    "alias": "Balam Sempurna"
+  },
+  {
+    "code": "14.09.023.004",
+    "villageCode": "004",
+    "districtCode": "14.09.023",
+    "name": "Balam Sempurna Kota",
+    "alias": "Balam Sempurna Kota"
+  },
+  {
+    "code": "14.09.023.005",
+    "villageCode": "005",
+    "districtCode": "14.09.023",
+    "name": "Balam Jaya",
+    "alias": "Balam Jaya"
+  },
+  {
+    "code": "14.09.023.006",
+    "villageCode": "006",
+    "districtCode": "14.09.023",
+    "name": "Balai Jaya Kota",
+    "alias": "Balai Jaya Kota"
+  },
+  {
+    "code": "14.09.023.007",
+    "villageCode": "007",
+    "districtCode": "14.09.023",
+    "name": "Pasir Putih Utara",
+    "alias": "Pasir Putih Utara"
+  },
+  {
+    "code": "14.09.023.008",
+    "villageCode": "008",
+    "districtCode": "14.09.023",
+    "name": "Kencana",
+    "alias": "Kencana"
+  },
+  {
+    "code": "14.09.023.009",
+    "villageCode": "009",
+    "districtCode": "14.09.023",
+    "name": "Bagan Bhakti",
+    "alias": "Bagan Bhakti"
+  },
+  {
+    "code": "14.09.023.010",
+    "villageCode": "010",
+    "districtCode": "14.09.023",
+    "name": "Pasir Putih Barat",
+    "alias": "Pasir Putih Barat"
+  },
+  {
+    "code": "14.09.023.011",
+    "villageCode": "011",
+    "districtCode": "14.09.023",
+    "name": "Lubuk Jawi",
+    "alias": "Lubuk Jawi"
+  }
+]

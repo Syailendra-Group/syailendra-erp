@@ -1,0 +1,37 @@
+[
+  {
+    "code": "14.73.031.001",
+    "villageCode": "001",
+    "districtCode": "14.73.031",
+    "name": "Rimba Sekampung",
+    "alias": "Rimba Sekampung"
+  },
+  {
+    "code": "14.73.031.002",
+    "villageCode": "002",
+    "districtCode": "14.73.031",
+    "name": "Sukajadi",
+    "alias": "Sukajadi"
+  },
+  {
+    "code": "14.73.031.003",
+    "villageCode": "003",
+    "districtCode": "14.73.031",
+    "name": "Bintan",
+    "alias": "Bintan"
+  },
+  {
+    "code": "14.73.031.004",
+    "villageCode": "004",
+    "districtCode": "14.73.031",
+    "name": "Dumai Kota",
+    "alias": "Dumai Kota"
+  },
+  {
+    "code": "14.73.031.005",
+    "villageCode": "005",
+    "districtCode": "14.73.031",
+    "name": "Laksamana",
+    "alias": "Laksamana"
+  }
+]

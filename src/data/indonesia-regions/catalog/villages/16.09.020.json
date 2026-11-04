@@ -1,0 +1,93 @@
+[
+  {
+    "code": "16.09.020.001",
+    "villageCode": "001",
+    "districtCode": "16.09.020",
+    "name": "Negeri Agung",
+    "alias": "Negeri Agung"
+  },
+  {
+    "code": "16.09.020.002",
+    "villageCode": "002",
+    "districtCode": "16.09.020",
+    "name": "Banumas",
+    "alias": "Banumas"
+  },
+  {
+    "code": "16.09.020.003",
+    "villageCode": "003",
+    "districtCode": "16.09.020",
+    "name": "Banuayu",
+    "alias": "Banuayu"
+  },
+  {
+    "code": "16.09.020.004",
+    "villageCode": "004",
+    "districtCode": "16.09.020",
+    "name": "Pulau Negara",
+    "alias": "Pulau Negara"
+  },
+  {
+    "code": "16.09.020.005",
+    "villageCode": "005",
+    "districtCode": "16.09.020",
+    "name": "Bantan",
+    "alias": "Bantan"
+  },
+  {
+    "code": "16.09.020.006",
+    "villageCode": "006",
+    "districtCode": "16.09.020",
+    "name": "Negeri Pakuan",
+    "alias": "Negeri Pakuan"
+  },
+  {
+    "code": "16.09.020.007",
+    "villageCode": "007",
+    "districtCode": "16.09.020",
+    "name": "Bandar Jaya",
+    "alias": "Bandar Jaya"
+  },
+  {
+    "code": "16.09.020.008",
+    "villageCode": "008",
+    "districtCode": "16.09.020",
+    "name": "Pahang Asri",
+    "alias": "Pahang Asri"
+  },
+  {
+    "code": "16.09.020.009",
+    "villageCode": "009",
+    "districtCode": "16.09.020",
+    "name": "Pemetung Basuki",
+    "alias": "Pemetung Basuki"
+  },
+  {
+    "code": "16.09.020.010",
+    "villageCode": "010",
+    "districtCode": "16.09.020",
+    "name": "Saung Dadi",
+    "alias": "Saung Dadi"
+  },
+  {
+    "code": "16.09.020.011",
+    "villageCode": "011",
+    "districtCode": "16.09.020",
+    "name": "Terantang Sakti",
+    "alias": "Terantang Sakti"
+  },
+  {
+    "code": "16.09.020.012",
+    "villageCode": "012",
+    "districtCode": "16.09.020",
+    "name": "Negeri Agung Jaya",
+    "alias": "Negeri Agung Jaya"
+  },
+  {
+    "code": "16.09.020.013",
+    "villageCode": "013",
+    "districtCode": "16.09.020",
+    "name": "Bantan Pelita",
+    "alias": "Bantan Pelita"
+  }
+]

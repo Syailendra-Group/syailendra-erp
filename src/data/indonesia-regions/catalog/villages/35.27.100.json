@@ -1,0 +1,65 @@
+[
+  {
+    "code": "35.27.100.001",
+    "villageCode": "001",
+    "districtCode": "35.27.100",
+    "name": "Bapelle",
+    "alias": "Bapelle"
+  },
+  {
+    "code": "35.27.100.009",
+    "villageCode": "009",
+    "districtCode": "35.27.100",
+    "name": "Lepelle",
+    "alias": "Lepelle"
+  },
+  {
+    "code": "35.27.100.010",
+    "villageCode": "010",
+    "districtCode": "35.27.100",
+    "name": "Robatal",
+    "alias": "Robatal"
+  },
+  {
+    "code": "35.27.100.011",
+    "villageCode": "011",
+    "districtCode": "35.27.100",
+    "name": "Sawah Tengah",
+    "alias": "Sawah Tengah"
+  },
+  {
+    "code": "35.27.100.012",
+    "villageCode": "012",
+    "districtCode": "35.27.100",
+    "name": "Torjunan",
+    "alias": "Torjunan"
+  },
+  {
+    "code": "35.27.100.013",
+    "villageCode": "013",
+    "districtCode": "35.27.100",
+    "name": "Tragih",
+    "alias": "Tragih"
+  },
+  {
+    "code": "35.27.100.014",
+    "villageCode": "014",
+    "districtCode": "35.27.100",
+    "name": "Jelgung",
+    "alias": "Jelgung"
+  },
+  {
+    "code": "35.27.100.015",
+    "villageCode": "015",
+    "districtCode": "35.27.100",
+    "name": "Gunung Rancak",
+    "alias": "Gunung Rancak"
+  },
+  {
+    "code": "35.27.100.016",
+    "villageCode": "016",
+    "districtCode": "35.27.100",
+    "name": "Pandiyangan",
+    "alias": "Pandiyangan"
+  }
+]

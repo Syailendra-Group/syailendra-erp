@@ -1,0 +1,58 @@
+[
+  {
+    "code": "32.17.010.001",
+    "villageCode": "001",
+    "districtCode": "32.17.010",
+    "name": "Cicadas",
+    "alias": "Cicadas"
+  },
+  {
+    "code": "32.17.010.002",
+    "villageCode": "002",
+    "districtCode": "32.17.010",
+    "name": "Cibedug",
+    "alias": "Cibedug"
+  },
+  {
+    "code": "32.17.010.003",
+    "villageCode": "003",
+    "districtCode": "32.17.010",
+    "name": "Sukamanah",
+    "alias": "Sukamanah"
+  },
+  {
+    "code": "32.17.010.004",
+    "villageCode": "004",
+    "districtCode": "32.17.010",
+    "name": "Bojong",
+    "alias": "Bojong"
+  },
+  {
+    "code": "32.17.010.005",
+    "villageCode": "005",
+    "districtCode": "32.17.010",
+    "name": "Bojongsalam",
+    "alias": "Bojongsalam"
+  },
+  {
+    "code": "32.17.010.006",
+    "villageCode": "006",
+    "districtCode": "32.17.010",
+    "name": "Cinengah",
+    "alias": "Cinengah"
+  },
+  {
+    "code": "32.17.010.007",
+    "villageCode": "007",
+    "districtCode": "32.17.010",
+    "name": "Sukaresmi",
+    "alias": "Sukaresmi"
+  },
+  {
+    "code": "32.17.010.008",
+    "villageCode": "008",
+    "districtCode": "32.17.010",
+    "name": "Cibitung",
+    "alias": "Cibitung"
+  }
+]

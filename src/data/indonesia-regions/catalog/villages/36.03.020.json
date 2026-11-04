@@ -1,0 +1,100 @@
+[
+  {
+    "code": "36.03.020.001",
+    "villageCode": "001",
+    "districtCode": "36.03.020",
+    "name": "Cileles",
+    "alias": "Cileles"
+  },
+  {
+    "code": "36.03.020.002",
+    "villageCode": "002",
+    "districtCode": "36.03.020",
+    "name": "Bantar Panjang",
+    "alias": "Bantar Panjang"
+  },
+  {
+    "code": "36.03.020.003",
+    "villageCode": "003",
+    "districtCode": "36.03.020",
+    "name": "Sodong",
+    "alias": "Sodong"
+  },
+  {
+    "code": "36.03.020.004",
+    "villageCode": "004",
+    "districtCode": "36.03.020",
+    "name": "Tapos",
+    "alias": "Tapos"
+  },
+  {
+    "code": "36.03.020.013",
+    "villageCode": "013",
+    "districtCode": "36.03.020",
+    "name": "Marga Sari",
+    "alias": "Marga Sari"
+  },
+  {
+    "code": "36.03.020.014",
+    "villageCode": "014",
+    "districtCode": "36.03.020",
+    "name": "Kadu Agung",
+    "alias": "Kadu Agung"
+  },
+  {
+    "code": "36.03.020.015",
+    "villageCode": "015",
+    "districtCode": "36.03.020",
+    "name": "Mata Gara",
+    "alias": "Mata Gara"
+  },
+  {
+    "code": "36.03.020.016",
+    "villageCode": "016",
+    "districtCode": "36.03.020",
+    "name": "Tigaraksa",
+    "alias": "Tigaraksa"
+  },
+  {
+    "code": "36.03.020.017",
+    "villageCode": "017",
+    "districtCode": "36.03.020",
+    "name": "Pete",
+    "alias": "Pete"
+  },
+  {
+    "code": "36.03.020.018",
+    "villageCode": "018",
+    "districtCode": "36.03.020",
+    "name": "Tegalsari",
+    "alias": "Tegalsari"
+  },
+  {
+    "code": "36.03.020.019",
+    "villageCode": "019",
+    "districtCode": "36.03.020",
+    "name": "Pematang",
+    "alias": "Pematang"
+  },
+  {
+    "code": "36.03.020.020",
+    "villageCode": "020",
+    "districtCode": "36.03.020",
+    "name": "Pasir Nangka",
+    "alias": "Pasir Nangka"
+  },
+  {
+    "code": "36.03.020.021",
+    "villageCode": "021",
+    "districtCode": "36.03.020",
+    "name": "Cisereh",
+    "alias": "Cisereh"
+  },
+  {
+    "code": "36.03.020.022",
+    "villageCode": "022",
+    "districtCode": "36.03.020",
+    "name": "Pasir Bolang",
+    "alias": "Pasir Bolang"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "code": "92.05.150.001",
+    "villageCode": "001",
+    "districtCode": "92.05.150",
+    "name": "Bao",
+    "alias": "Bao"
+  },
+  {
+    "code": "92.05.150.002",
+    "villageCode": "002",
+    "districtCode": "92.05.150",
+    "name": "Batdey",
+    "alias": "Batdey"
+  },
+  {
+    "code": "92.05.150.003",
+    "villageCode": "003",
+    "districtCode": "92.05.150",
+    "name": "Syuau",
+    "alias": "Syuau"
+  },
+  {
+    "code": "92.05.150.004",
+    "villageCode": "004",
+    "districtCode": "92.05.150",
+    "name": "Kranfotsu",
+    "alias": "Kranfotsu"
+  },
+  {
+    "code": "92.05.150.005",
+    "villageCode": "005",
+    "districtCode": "92.05.150",
+    "name": "Jokbujoker",
+    "alias": "Jokbujoker"
+  },
+  {
+    "code": "92.05.150.006",
+    "villageCode": "006",
+    "districtCode": "92.05.150",
+    "name": "Dombron",
+    "alias": "Dombron"
+  },
+  {
+    "code": "92.05.150.007",
+    "villageCode": "007",
+    "districtCode": "92.05.150",
+    "name": "Syumbi",
+    "alias": "Syumbi"
+  },
+  {
+    "code": "92.05.150.008",
+    "villageCode": "008",
+    "districtCode": "92.05.150",
+    "name": "Donan",
+    "alias": "Donan"
+  },
+  {
+    "code": "92.05.150.009",
+    "villageCode": "009",
+    "districtCode": "92.05.150",
+    "name": "Kwesefo",
+    "alias": "Kwesefo"
+  }
+]

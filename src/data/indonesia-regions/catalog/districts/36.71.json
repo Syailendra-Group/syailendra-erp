@@ -1,0 +1,106 @@
+[
+  {
+    "code": "36.71.010",
+    "districtCode": "010",
+    "regencyCode": "36.71",
+    "provinceCode": "36",
+    "name": "Kecamatan Ciledug",
+    "alias": "Ciledug"
+  },
+  {
+    "code": "36.71.011",
+    "districtCode": "011",
+    "regencyCode": "36.71",
+    "provinceCode": "36",
+    "name": "Kecamatan Larangan",
+    "alias": "Larangan"
+  },
+  {
+    "code": "36.71.012",
+    "districtCode": "012",
+    "regencyCode": "36.71",
+    "provinceCode": "36",
+    "name": "Kecamatan Karang Tengah",
+    "alias": "Karang Tengah"
+  },
+  {
+    "code": "36.71.020",
+    "districtCode": "020",
+    "regencyCode": "36.71",
+    "provinceCode": "36",
+    "name": "Kecamatan Cipondoh",
+    "alias": "Cipondoh"
+  },
+  {
+    "code": "36.71.021",
+    "districtCode": "021",
+    "regencyCode": "36.71",
+    "provinceCode": "36",
+    "name": "Kecamatan Pinang",
+    "alias": "Pinang"
+  },
+  {
+    "code": "36.71.030",
+    "districtCode": "030",
+    "regencyCode": "36.71",
+    "provinceCode": "36",
+    "name": "Kecamatan Tangerang",
+    "alias": "Tangerang"
+  },
+  {
+    "code": "36.71.031",
+    "districtCode": "031",
+    "regencyCode": "36.71",
+    "provinceCode": "36",
+    "name": "Kecamatan Karawaci",
+    "alias": "Karawaci"
+  },
+  {
+    "code": "36.71.040",
+    "districtCode": "040",
+    "regencyCode": "36.71",
+    "provinceCode": "36",
+    "name": "Kecamatan Jati Uwung",
+    "alias": "Jati Uwung"
+  },
+  {
+    "code": "36.71.041",
+    "districtCode": "041",
+    "regencyCode": "36.71",
+    "provinceCode": "36",
+    "name": "Kecamatan Cibodas",
+    "alias": "Cibodas"
+  },
+  {
+    "code": "36.71.042",
+    "districtCode": "042",
+    "regencyCode": "36.71",
+    "provinceCode": "36",
+    "name": "Kecamatan Periuk",
+    "alias": "Periuk"
+  },
+  {
+    "code": "36.71.050",
+    "districtCode": "050",
+    "regencyCode": "36.71",
+    "provinceCode": "36",
+    "name": "Kecamatan Batuceper",
+    "alias": "Batuceper"
+  },
+  {
+    "code": "36.71.051",
+    "districtCode": "051",
+    "regencyCode": "36.71",
+    "provinceCode": "36",
+    "name": "Kecamatan Neglasari",
+    "alias": "Neglasari"
+  },
+  {
+    "code": "36.71.060",
+    "districtCode": "060",
+    "regencyCode": "36.71",
+    "provinceCode": "36",
+    "name": "Kecamatan Benda",
+    "alias": "Benda"
+  }
+]

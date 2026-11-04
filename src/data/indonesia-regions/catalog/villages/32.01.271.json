@@ -1,0 +1,79 @@
+[
+  {
+    "code": "32.01.271.001",
+    "villageCode": "001",
+    "districtCode": "32.01.271",
+    "name": "Cisarua",
+    "alias": "Cisarua"
+  },
+  {
+    "code": "32.01.271.002",
+    "villageCode": "002",
+    "districtCode": "32.01.271",
+    "name": "Kiarasari",
+    "alias": "Kiarasari"
+  },
+  {
+    "code": "32.01.271.003",
+    "villageCode": "003",
+    "districtCode": "32.01.271",
+    "name": "Kiarapandak",
+    "alias": "Kiarapandak"
+  },
+  {
+    "code": "32.01.271.004",
+    "villageCode": "004",
+    "districtCode": "32.01.271",
+    "name": "Harkatjaya",
+    "alias": "Harkatjaya"
+  },
+  {
+    "code": "32.01.271.005",
+    "villageCode": "005",
+    "districtCode": "32.01.271",
+    "name": "Sukajaya",
+    "alias": "Sukajaya"
+  },
+  {
+    "code": "32.01.271.006",
+    "villageCode": "006",
+    "districtCode": "32.01.271",
+    "name": "Sipayung",
+    "alias": "Sipayung"
+  },
+  {
+    "code": "32.01.271.007",
+    "villageCode": "007",
+    "districtCode": "32.01.271",
+    "name": "Sukamulih",
+    "alias": "Sukamulih"
+  },
+  {
+    "code": "32.01.271.008",
+    "villageCode": "008",
+    "districtCode": "32.01.271",
+    "name": "Pasir Madang",
+    "alias": "Pasir Madang"
+  },
+  {
+    "code": "32.01.271.009",
+    "villageCode": "009",
+    "districtCode": "32.01.271",
+    "name": "Cileuksa",
+    "alias": "Cileuksa"
+  },
+  {
+    "code": "32.01.271.010",
+    "villageCode": "010",
+    "districtCode": "32.01.271",
+    "name": "Urug",
+    "alias": "Urug"
+  },
+  {
+    "code": "32.01.271.011",
+    "villageCode": "011",
+    "districtCode": "32.01.271",
+    "name": "Jayaraharja",
+    "alias": "Jayaraharja"
+  }
+]

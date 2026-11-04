@@ -124,7 +124,6 @@ export function AddressSection({ disabled = false, values, onChange, onCentroidP
     <SectionCard title={tTrace('sections.location')} description={tTrace('sections.locationDesc')} icon={MapPin} contentClassName="space-y-4">
       {/* 5-Level Regional Cascading */}
       <div className="grid grid-cols-1 gap-3.5 sm:grid-cols-2">
-        {/* Negara */}
         <FormFieldWrapper id="country_id" label={tCommon('address.country')} required error={errors.country_id?.message}>
           <SelectForm
             placeholder={tCommon('address.countryPlaceholder')}
@@ -135,7 +134,6 @@ export function AddressSection({ disabled = false, values, onChange, onCentroidP
           />
         </FormFieldWrapper>
 
-        {/* Provinsi */}
         <FormFieldWrapper id="state_id" label={tTrace('fields.province')} required error={errors.state_id?.message}>
           <SelectForm
             placeholder={tTrace('fields.provincePlaceholder')}
@@ -146,7 +144,6 @@ export function AddressSection({ disabled = false, values, onChange, onCentroidP
           />
         </FormFieldWrapper>
 
-        {/* Kabupaten / Kota */}
         <FormFieldWrapper id="city_id" label={tTrace('fields.regency')} required error={errors.city_id?.message}>
           <SelectForm
             placeholder={tTrace('fields.regencyPlaceholder')}
@@ -157,7 +154,6 @@ export function AddressSection({ disabled = false, values, onChange, onCentroidP
           />
         </FormFieldWrapper>
 
-        {/* Kecamatan */}
         <FormFieldWrapper id="district_id" label={tTrace('fields.district')} error={errors.district_id?.message}>
           <SelectForm
             placeholder={tTrace('fields.districtPlaceholder')}
@@ -168,7 +164,6 @@ export function AddressSection({ disabled = false, values, onChange, onCentroidP
           />
         </FormFieldWrapper>
 
-        {/* Kelurahan / Desa */}
         <FormFieldWrapper id="subdistrict_id" label={tTrace('fields.village')} required error={errors.subdistrict_id?.message}>
           <SelectForm
             placeholder={tTrace('fields.villagePlaceholder')}
@@ -179,7 +174,6 @@ export function AddressSection({ disabled = false, values, onChange, onCentroidP
           />
         </FormFieldWrapper>
 
-        {/* Kode Pos */}
         <FormFieldWrapper id="zip_code" label={tCommon('address.zipCode')} error={errors.zip_code?.message}>
           <Input
             id="zip_code"
@@ -191,7 +185,6 @@ export function AddressSection({ disabled = false, values, onChange, onCentroidP
         </FormFieldWrapper>
       </div>
 
-      {/* Alamat Detail & Patokan */}
       <div className="grid grid-cols-1 gap-3.5 sm:grid-cols-2">
         <FormFieldWrapper id="address_detail" label={tTrace('fields.addressDetail')} error={errors.address_detail?.message}>
           <Textarea
@@ -216,7 +209,6 @@ export function AddressSection({ disabled = false, values, onChange, onCentroidP
         </FormFieldWrapper>
       </div>
 
-      {/* Peta Interaktif Leaflet Terintegrasi */}
       <div className="space-y-1.5 pt-1">
         <label className="text-foreground text-xs font-medium">
           {tTrace('map.title')} ({tTrace('map.subtitle')})
@@ -226,14 +218,13 @@ export function AddressSection({ disabled = false, values, onChange, onCentroidP
           longitude={longitude}
           onChange={handleMapCoordinatesChange}
           disabled={disabled}
-          className="h-[280px]"
+          className="h-70"
           locateMeLabel={tTrace('map.locateMe')}
           locatingLabel={tTrace('map.locating')}
           loadingLabel={tTrace('map.loading')}
         />
       </div>
 
-      {/* Input Angka Koordinat */}
       <div className="grid grid-cols-1 gap-3.5 sm:grid-cols-2">
         <FormFieldWrapper id="partner_latitude" label={tTrace('fields.latitude')} required error={errors.latitude?.message}>
           <Input

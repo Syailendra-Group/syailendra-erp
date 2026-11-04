@@ -1,0 +1,51 @@
+[
+  {
+    "code": "81.08.030.001",
+    "villageCode": "001",
+    "districtCode": "81.08.030",
+    "name": "Nuwewang",
+    "alias": "Nuwewang"
+  },
+  {
+    "code": "81.08.030.002",
+    "villageCode": "002",
+    "districtCode": "81.08.030",
+    "name": "Tomra",
+    "alias": "Tomra"
+  },
+  {
+    "code": "81.08.030.003",
+    "villageCode": "003",
+    "districtCode": "81.08.030",
+    "name": "Tutuwaru",
+    "alias": "Tutuwaru"
+  },
+  {
+    "code": "81.08.030.004",
+    "villageCode": "004",
+    "districtCode": "81.08.030",
+    "name": "Luhuleli",
+    "alias": "Luhuleli"
+  },
+  {
+    "code": "81.08.030.005",
+    "villageCode": "005",
+    "districtCode": "81.08.030",
+    "name": "Tutukey",
+    "alias": "Tutukey"
+  },
+  {
+    "code": "81.08.030.006",
+    "villageCode": "006",
+    "districtCode": "81.08.030",
+    "name": "Batumiau",
+    "alias": "Batumiau"
+  },
+  {
+    "code": "81.08.030.007",
+    "villageCode": "007",
+    "districtCode": "81.08.030",
+    "name": "Laitutun",
+    "alias": "Laitutun"
+  }
+]

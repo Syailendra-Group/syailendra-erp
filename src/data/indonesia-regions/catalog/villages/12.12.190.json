@@ -1,0 +1,205 @@
+[
+  {
+    "code": "12.12.190.001",
+    "villageCode": "001",
+    "districtCode": "12.12.190",
+    "name": "Kampung Paku",
+    "alias": "Kampung Paku"
+  },
+  {
+    "code": "12.12.190.007",
+    "villageCode": "007",
+    "districtCode": "12.12.190",
+    "name": "Bandar Kwala",
+    "alias": "Bandar Kwala"
+  },
+  {
+    "code": "12.12.190.008",
+    "villageCode": "008",
+    "districtCode": "12.12.190",
+    "name": "Baru Titi Besi",
+    "alias": "Baru Titi Besi"
+  },
+  {
+    "code": "12.12.190.012",
+    "villageCode": "012",
+    "districtCode": "12.12.190",
+    "name": "Pulau Tagor Baru",
+    "alias": "Pulau Tagor Baru"
+  },
+  {
+    "code": "12.12.190.013",
+    "villageCode": "013",
+    "districtCode": "12.12.190",
+    "name": "Galang Barat",
+    "alias": "Galang Barat"
+  },
+  {
+    "code": "12.12.190.014",
+    "villageCode": "014",
+    "districtCode": "12.12.190",
+    "name": "Kotangan",
+    "alias": "Kotangan"
+  },
+  {
+    "code": "12.12.190.015",
+    "villageCode": "015",
+    "districtCode": "12.12.190",
+    "name": "Sungei Putih",
+    "alias": "Sungei Putih"
+  },
+  {
+    "code": "12.12.190.016",
+    "villageCode": "016",
+    "districtCode": "12.12.190",
+    "name": "Paya Kuda",
+    "alias": "Paya Kuda"
+  },
+  {
+    "code": "12.12.190.017",
+    "villageCode": "017",
+    "districtCode": "12.12.190",
+    "name": "Kampung Kelapa Satu",
+    "alias": "Kampung Kelapa Satu"
+  },
+  {
+    "code": "12.12.190.018",
+    "villageCode": "018",
+    "districtCode": "12.12.190",
+    "name": "Pisang Pala",
+    "alias": "Pisang Pala"
+  },
+  {
+    "code": "12.12.190.019",
+    "villageCode": "019",
+    "districtCode": "12.12.190",
+    "name": "Petumbukan",
+    "alias": "Petumbukan"
+  },
+  {
+    "code": "12.12.190.020",
+    "villageCode": "020",
+    "districtCode": "12.12.190",
+    "name": "Tanjung Gusti",
+    "alias": "Tanjung Gusti"
+  },
+  {
+    "code": "12.12.190.021",
+    "villageCode": "021",
+    "districtCode": "12.12.190",
+    "name": "Sungai Karang",
+    "alias": "Sungai Karang"
+  },
+  {
+    "code": "12.12.190.022",
+    "villageCode": "022",
+    "districtCode": "12.12.190",
+    "name": "Kampung Galang Suka",
+    "alias": "Kampung Galang Suka"
+  },
+  {
+    "code": "12.12.190.023",
+    "villageCode": "023",
+    "districtCode": "12.12.190",
+    "name": "Galang Kota",
+    "alias": "Galang Kota"
+  },
+  {
+    "code": "12.12.190.024",
+    "villageCode": "024",
+    "districtCode": "12.12.190",
+    "name": "Timbang Deli",
+    "alias": "Timbang Deli"
+  },
+  {
+    "code": "12.12.190.025",
+    "villageCode": "025",
+    "districtCode": "12.12.190",
+    "name": "Jaharum A",
+    "alias": "Jaharum A"
+  },
+  {
+    "code": "12.12.190.026",
+    "villageCode": "026",
+    "districtCode": "12.12.190",
+    "name": "Tanah Merah",
+    "alias": "Tanah Merah"
+  },
+  {
+    "code": "12.12.190.027",
+    "villageCode": "027",
+    "districtCode": "12.12.190",
+    "name": "Pertangguhan",
+    "alias": "Pertangguhan"
+  },
+  {
+    "code": "12.12.190.028",
+    "villageCode": "028",
+    "districtCode": "12.12.190",
+    "name": "Tanjung Siporkis",
+    "alias": "Tanjung Siporkis"
+  },
+  {
+    "code": "12.12.190.029",
+    "villageCode": "029",
+    "districtCode": "12.12.190",
+    "name": "Batu Lokong",
+    "alias": "Batu Lokong"
+  },
+  {
+    "code": "12.12.190.030",
+    "villageCode": "030",
+    "districtCode": "12.12.190",
+    "name": "Naga Rejo",
+    "alias": "Naga Rejo"
+  },
+  {
+    "code": "12.12.190.031",
+    "villageCode": "031",
+    "districtCode": "12.12.190",
+    "name": "Paya Itik",
+    "alias": "Paya Itik"
+  },
+  {
+    "code": "12.12.190.032",
+    "villageCode": "032",
+    "districtCode": "12.12.190",
+    "name": "Paya Sampir",
+    "alias": "Paya Sampir"
+  },
+  {
+    "code": "12.12.190.033",
+    "villageCode": "033",
+    "districtCode": "12.12.190",
+    "name": "Kampung Johar Baru",
+    "alias": "Kampung Johar Baru"
+  },
+  {
+    "code": "12.12.190.034",
+    "villageCode": "034",
+    "districtCode": "12.12.190",
+    "name": "Kotasan",
+    "alias": "Kotasan"
+  },
+  {
+    "code": "12.12.190.035",
+    "villageCode": "035",
+    "districtCode": "12.12.190",
+    "name": "Jaharum B",
+    "alias": "Jaharum B"
+  },
+  {
+    "code": "12.12.190.036",
+    "villageCode": "036",
+    "districtCode": "12.12.190",
+    "name": "Tanah Abang",
+    "alias": "Tanah Abang"
+  },
+  {
+    "code": "12.12.190.037",
+    "villageCode": "037",
+    "districtCode": "12.12.190",
+    "name": "Kramat Gajah",
+    "alias": "Kramat Gajah"
+  }
+]

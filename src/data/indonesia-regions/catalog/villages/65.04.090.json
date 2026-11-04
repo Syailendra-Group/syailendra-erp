@@ -1,0 +1,30 @@
+[
+  {
+    "code": "65.04.090.001",
+    "villageCode": "001",
+    "districtCode": "65.04.090",
+    "name": "Tabur Lestari",
+    "alias": "Tabur Lestari"
+  },
+  {
+    "code": "65.04.090.002",
+    "villageCode": "002",
+    "districtCode": "65.04.090",
+    "name": "Samaenre Semaja",
+    "alias": "Samaenre Semaja"
+  },
+  {
+    "code": "65.04.090.003",
+    "villageCode": "003",
+    "districtCode": "65.04.090",
+    "name": "Srinanti",
+    "alias": "Srinanti"
+  },
+  {
+    "code": "65.04.090.004",
+    "villageCode": "004",
+    "districtCode": "65.04.090",
+    "name": "Sekaduyan Taka",
+    "alias": "Sekaduyan Taka"
+  }
+]

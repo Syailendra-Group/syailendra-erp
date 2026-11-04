@@ -1,0 +1,100 @@
+[
+  {
+    "code": "17.04.050.010",
+    "villageCode": "010",
+    "districtCode": "17.04.050",
+    "name": "Gedung Wani",
+    "alias": "Gedung Wani"
+  },
+  {
+    "code": "17.04.050.011",
+    "villageCode": "011",
+    "districtCode": "17.04.050",
+    "name": "Geramat",
+    "alias": "Geramat"
+  },
+  {
+    "code": "17.04.050.012",
+    "villageCode": "012",
+    "districtCode": "17.04.050",
+    "name": "Penandingan",
+    "alias": "Penandingan"
+  },
+  {
+    "code": "17.04.050.013",
+    "villageCode": "013",
+    "districtCode": "17.04.050",
+    "name": "Tanjung Alam",
+    "alias": "Tanjung Alam"
+  },
+  {
+    "code": "17.04.050.014",
+    "villageCode": "014",
+    "districtCode": "17.04.050",
+    "name": "Tanjung Baru",
+    "alias": "Tanjung Baru"
+  },
+  {
+    "code": "17.04.050.015",
+    "villageCode": "015",
+    "districtCode": "17.04.050",
+    "name": "Pengurung",
+    "alias": "Pengurung"
+  },
+  {
+    "code": "17.04.050.016",
+    "villageCode": "016",
+    "districtCode": "17.04.050",
+    "name": "Pinang Jawa I",
+    "alias": "Pinang Jawa I"
+  },
+  {
+    "code": "17.04.050.017",
+    "villageCode": "017",
+    "districtCode": "17.04.050",
+    "name": "Gunung Terang",
+    "alias": "Gunung Terang"
+  },
+  {
+    "code": "17.04.050.018",
+    "villageCode": "018",
+    "districtCode": "17.04.050",
+    "name": "Talang Padang",
+    "alias": "Talang Padang"
+  },
+  {
+    "code": "17.04.050.019",
+    "villageCode": "019",
+    "districtCode": "17.04.050",
+    "name": "Gunung Megang",
+    "alias": "Gunung Megang"
+  },
+  {
+    "code": "17.04.050.020",
+    "villageCode": "020",
+    "districtCode": "17.04.050",
+    "name": "Jawi",
+    "alias": "Jawi"
+  },
+  {
+    "code": "17.04.050.021",
+    "villageCode": "021",
+    "districtCode": "17.04.050",
+    "name": "Talang Berangin",
+    "alias": "Talang Berangin"
+  },
+  {
+    "code": "17.04.050.023",
+    "villageCode": "023",
+    "districtCode": "17.04.050",
+    "name": "Pinang Jawa Ii",
+    "alias": "Pinang Jawa Ii"
+  },
+  {
+    "code": "17.04.050.024",
+    "villageCode": "024",
+    "districtCode": "17.04.050",
+    "name": "Papahan",
+    "alias": "Papahan"
+  }
+]

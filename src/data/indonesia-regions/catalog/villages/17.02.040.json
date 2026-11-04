@@ -1,0 +1,65 @@
+[
+  {
+    "code": "17.02.040.012",
+    "villageCode": "012",
+    "districtCode": "17.02.040",
+    "name": "Air Putih Lama",
+    "alias": "Air Putih Lama"
+  },
+  {
+    "code": "17.02.040.013",
+    "villageCode": "013",
+    "districtCode": "17.02.040",
+    "name": "Air Rambai",
+    "alias": "Air Rambai"
+  },
+  {
+    "code": "17.02.040.014",
+    "villageCode": "014",
+    "districtCode": "17.02.040",
+    "name": "Dwi Tunggal",
+    "alias": "Dwi Tunggal"
+  },
+  {
+    "code": "17.02.040.015",
+    "villageCode": "015",
+    "districtCode": "17.02.040",
+    "name": "Adirejo",
+    "alias": "Adirejo"
+  },
+  {
+    "code": "17.02.040.016",
+    "villageCode": "016",
+    "districtCode": "17.02.040",
+    "name": "Talang Benih",
+    "alias": "Talang Benih"
+  },
+  {
+    "code": "17.02.040.017",
+    "villageCode": "017",
+    "districtCode": "17.02.040",
+    "name": "Jalan Baru",
+    "alias": "Jalan Baru"
+  },
+  {
+    "code": "17.02.040.018",
+    "villageCode": "018",
+    "districtCode": "17.02.040",
+    "name": "Pasar Baru",
+    "alias": "Pasar Baru"
+  },
+  {
+    "code": "17.02.040.019",
+    "villageCode": "019",
+    "districtCode": "17.02.040",
+    "name": "Pasar Tengah",
+    "alias": "Pasar Tengah"
+  },
+  {
+    "code": "17.02.040.061",
+    "villageCode": "061",
+    "districtCode": "17.02.040",
+    "name": "Timbul Rejo",
+    "alias": "Timbul Rejo"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "code": "12.03.101.031",
+    "villageCode": "031",
+    "districtCode": "12.03.101",
+    "name": "Huraba",
+    "alias": "Huraba"
+  },
+  {
+    "code": "12.03.101.041",
+    "villageCode": "041",
+    "districtCode": "12.03.101",
+    "name": "Gunung Binanga",
+    "alias": "Gunung Binanga"
+  },
+  {
+    "code": "12.03.101.043",
+    "villageCode": "043",
+    "districtCode": "12.03.101",
+    "name": "Marancar Godang",
+    "alias": "Marancar Godang"
+  },
+  {
+    "code": "12.03.101.050",
+    "villageCode": "050",
+    "districtCode": "12.03.101",
+    "name": "Simaninggir",
+    "alias": "Simaninggir"
+  },
+  {
+    "code": "12.03.101.051",
+    "villageCode": "051",
+    "districtCode": "12.03.101",
+    "name": "Marancar Julu",
+    "alias": "Marancar Julu"
+  },
+  {
+    "code": "12.03.101.057",
+    "villageCode": "057",
+    "districtCode": "12.03.101",
+    "name": "Hau Natas",
+    "alias": "Hau Natas"
+  },
+  {
+    "code": "12.03.101.066",
+    "villageCode": "066",
+    "districtCode": "12.03.101",
+    "name": "Aek Nabara",
+    "alias": "Aek Nabara"
+  },
+  {
+    "code": "12.03.101.067",
+    "villageCode": "067",
+    "districtCode": "12.03.101",
+    "name": "Gapuk Tua",
+    "alias": "Gapuk Tua"
+  },
+  {
+    "code": "12.03.101.068",
+    "villageCode": "068",
+    "districtCode": "12.03.101",
+    "name": "Pasar Sempurna",
+    "alias": "Pasar Sempurna"
+  },
+  {
+    "code": "12.03.101.069",
+    "villageCode": "069",
+    "districtCode": "12.03.101",
+    "name": "Aek Sabaon",
+    "alias": "Aek Sabaon"
+  },
+  {
+    "code": "12.03.101.070",
+    "villageCode": "070",
+    "districtCode": "12.03.101",
+    "name": "Sugi",
+    "alias": "Sugi"
+  },
+  {
+    "code": "12.03.101.071",
+    "villageCode": "071",
+    "districtCode": "12.03.101",
+    "name": "Tanjung Dolok",
+    "alias": "Tanjung Dolok"
+  }
+]

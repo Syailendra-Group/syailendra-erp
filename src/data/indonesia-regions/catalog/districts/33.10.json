@@ -1,0 +1,210 @@
+[
+  {
+    "code": "33.10.010",
+    "districtCode": "010",
+    "regencyCode": "33.10",
+    "provinceCode": "33",
+    "name": "Kecamatan Prambanan",
+    "alias": "Prambanan"
+  },
+  {
+    "code": "33.10.020",
+    "districtCode": "020",
+    "regencyCode": "33.10",
+    "provinceCode": "33",
+    "name": "Kecamatan Gantiwarno",
+    "alias": "Gantiwarno"
+  },
+  {
+    "code": "33.10.030",
+    "districtCode": "030",
+    "regencyCode": "33.10",
+    "provinceCode": "33",
+    "name": "Kecamatan Wedi",
+    "alias": "Wedi"
+  },
+  {
+    "code": "33.10.040",
+    "districtCode": "040",
+    "regencyCode": "33.10",
+    "provinceCode": "33",
+    "name": "Kecamatan Bayat",
+    "alias": "Bayat"
+  },
+  {
+    "code": "33.10.050",
+    "districtCode": "050",
+    "regencyCode": "33.10",
+    "provinceCode": "33",
+    "name": "Kecamatan Cawas",
+    "alias": "Cawas"
+  },
+  {
+    "code": "33.10.060",
+    "districtCode": "060",
+    "regencyCode": "33.10",
+    "provinceCode": "33",
+    "name": "Kecamatan Trucuk",
+    "alias": "Trucuk"
+  },
+  {
+    "code": "33.10.070",
+    "districtCode": "070",
+    "regencyCode": "33.10",
+    "provinceCode": "33",
+    "name": "Kecamatan Kalikotes",
+    "alias": "Kalikotes"
+  },
+  {
+    "code": "33.10.080",
+    "districtCode": "080",
+    "regencyCode": "33.10",
+    "provinceCode": "33",
+    "name": "Kecamatan Kebonarum",
+    "alias": "Kebonarum"
+  },
+  {
+    "code": "33.10.090",
+    "districtCode": "090",
+    "regencyCode": "33.10",
+    "provinceCode": "33",
+    "name": "Kecamatan Jogonalan",
+    "alias": "Jogonalan"
+  },
+  {
+    "code": "33.10.100",
+    "districtCode": "100",
+    "regencyCode": "33.10",
+    "provinceCode": "33",
+    "name": "Kecamatan Manisrenggo",
+    "alias": "Manisrenggo"
+  },
+  {
+    "code": "33.10.110",
+    "districtCode": "110",
+    "regencyCode": "33.10",
+    "provinceCode": "33",
+    "name": "Kecamatan Karangnongko",
+    "alias": "Karangnongko"
+  },
+  {
+    "code": "33.10.120",
+    "districtCode": "120",
+    "regencyCode": "33.10",
+    "provinceCode": "33",
+    "name": "Kecamatan Ngawen",
+    "alias": "Ngawen"
+  },
+  {
+    "code": "33.10.130",
+    "districtCode": "130",
+    "regencyCode": "33.10",
+    "provinceCode": "33",
+    "name": "Kecamatan Ceper",
+    "alias": "Ceper"
+  },
+  {
+    "code": "33.10.140",
+    "districtCode": "140",
+    "regencyCode": "33.10",
+    "provinceCode": "33",
+    "name": "Kecamatan Pedan",
+    "alias": "Pedan"
+  },
+  {
+    "code": "33.10.150",
+    "districtCode": "150",
+    "regencyCode": "33.10",
+    "provinceCode": "33",
+    "name": "Kecamatan Karangdowo",
+    "alias": "Karangdowo"
+  },
+  {
+    "code": "33.10.160",
+    "districtCode": "160",
+    "regencyCode": "33.10",
+    "provinceCode": "33",
+    "name": "Kecamatan Juwiring",
+    "alias": "Juwiring"
+  },
+  {
+    "code": "33.10.170",
+    "districtCode": "170",
+    "regencyCode": "33.10",
+    "provinceCode": "33",
+    "name": "Kecamatan Wonosari",
+    "alias": "Wonosari"
+  },
+  {
+    "code": "33.10.180",
+    "districtCode": "180",
+    "regencyCode": "33.10",
+    "provinceCode": "33",
+    "name": "Kecamatan Delanggu",
+    "alias": "Delanggu"
+  },
+  {
+    "code": "33.10.190",
+    "districtCode": "190",
+    "regencyCode": "33.10",
+    "provinceCode": "33",
+    "name": "Kecamatan Polanharjo",
+    "alias": "Polanharjo"
+  },
+  {
+    "code": "33.10.200",
+    "districtCode": "200",
+    "regencyCode": "33.10",
+    "provinceCode": "33",
+    "name": "Kecamatan Karanganom",
+    "alias": "Karanganom"
+  },
+  {
+    "code": "33.10.210",
+    "districtCode": "210",
+    "regencyCode": "33.10",
+    "provinceCode": "33",
+    "name": "Kecamatan Tulung",
+    "alias": "Tulung"
+  },
+  {
+    "code": "33.10.220",
+    "districtCode": "220",
+    "regencyCode": "33.10",
+    "provinceCode": "33",
+    "name": "Kecamatan Jatinom",
+    "alias": "Jatinom"
+  },
+  {
+    "code": "33.10.230",
+    "districtCode": "230",
+    "regencyCode": "33.10",
+    "provinceCode": "33",
+    "name": "Kecamatan Kemalang",
+    "alias": "Kemalang"
+  },
+  {
+    "code": "33.10.710",
+    "districtCode": "710",
+    "regencyCode": "33.10",
+    "provinceCode": "33",
+    "name": "Kecamatan Klaten Selatan",
+    "alias": "Klaten Selatan"
+  },
+  {
+    "code": "33.10.720",
+    "districtCode": "720",
+    "regencyCode": "33.10",
+    "provinceCode": "33",
+    "name": "Kecamatan Klaten Tengah",
+    "alias": "Klaten Tengah"
+  },
+  {
+    "code": "33.10.730",
+    "districtCode": "730",
+    "regencyCode": "33.10",
+    "provinceCode": "33",
+    "name": "Kecamatan Klaten Utara",
+    "alias": "Klaten Utara"
+  }
+]

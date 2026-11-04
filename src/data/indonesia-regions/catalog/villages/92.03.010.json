@@ -1,0 +1,65 @@
+[
+  {
+    "code": "92.03.010.001",
+    "villageCode": "001",
+    "districtCode": "92.03.010",
+    "name": "Mate",
+    "alias": "Mate"
+  },
+  {
+    "code": "92.03.010.002",
+    "villageCode": "002",
+    "districtCode": "92.03.010",
+    "name": "Isogo",
+    "alias": "Isogo"
+  },
+  {
+    "code": "92.03.010.003",
+    "villageCode": "003",
+    "districtCode": "92.03.010",
+    "name": "Solta Baru",
+    "alias": "Solta Baru"
+  },
+  {
+    "code": "92.03.010.004",
+    "villageCode": "004",
+    "districtCode": "92.03.010",
+    "name": "Serkos",
+    "alias": "Serkos"
+  },
+  {
+    "code": "92.03.010.005",
+    "villageCode": "005",
+    "districtCode": "92.03.010",
+    "name": "Siri-Siri",
+    "alias": "Siri-Siri"
+  },
+  {
+    "code": "92.03.010.006",
+    "villageCode": "006",
+    "districtCode": "92.03.010",
+    "name": "Sibae",
+    "alias": "Sibae"
+  },
+  {
+    "code": "92.03.010.007",
+    "villageCode": "007",
+    "districtCode": "92.03.010",
+    "name": "Nogibi",
+    "alias": "Nogibi"
+  },
+  {
+    "code": "92.03.010.008",
+    "villageCode": "008",
+    "districtCode": "92.03.010",
+    "name": "Wadoi",
+    "alias": "Wadoi"
+  },
+  {
+    "code": "92.03.010.009",
+    "villageCode": "009",
+    "districtCode": "92.03.010",
+    "name": "Odeare",
+    "alias": "Odeare"
+  }
+]

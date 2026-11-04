@@ -1,0 +1,72 @@
+[
+  {
+    "code": "35.05.130.001",
+    "villageCode": "001",
+    "districtCode": "35.05.130",
+    "name": "Slorok",
+    "alias": "Slorok"
+  },
+  {
+    "code": "35.05.130.002",
+    "villageCode": "002",
+    "districtCode": "35.05.130",
+    "name": "Genengan",
+    "alias": "Genengan"
+  },
+  {
+    "code": "35.05.130.003",
+    "villageCode": "003",
+    "districtCode": "35.05.130",
+    "name": "Jambepawon",
+    "alias": "Jambepawon"
+  },
+  {
+    "code": "35.05.130.004",
+    "villageCode": "004",
+    "districtCode": "35.05.130",
+    "name": "Sidorejo",
+    "alias": "Sidorejo"
+  },
+  {
+    "code": "35.05.130.005",
+    "villageCode": "005",
+    "districtCode": "35.05.130",
+    "name": "Doko",
+    "alias": "Doko"
+  },
+  {
+    "code": "35.05.130.006",
+    "villageCode": "006",
+    "districtCode": "35.05.130",
+    "name": "Suru",
+    "alias": "Suru"
+  },
+  {
+    "code": "35.05.130.007",
+    "villageCode": "007",
+    "districtCode": "35.05.130",
+    "name": "Plumbangan",
+    "alias": "Plumbangan"
+  },
+  {
+    "code": "35.05.130.008",
+    "villageCode": "008",
+    "districtCode": "35.05.130",
+    "name": "Sumber Urip",
+    "alias": "Sumber Urip"
+  },
+  {
+    "code": "35.05.130.009",
+    "villageCode": "009",
+    "districtCode": "35.05.130",
+    "name": "Resapombo",
+    "alias": "Resapombo"
+  },
+  {
+    "code": "35.05.130.010",
+    "villageCode": "010",
+    "districtCode": "35.05.130",
+    "name": "Kalimanis",
+    "alias": "Kalimanis"
+  }
+]

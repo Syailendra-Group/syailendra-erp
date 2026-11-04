@@ -1,0 +1,65 @@
+[
+  {
+    "code": "36.04.211.001",
+    "villageCode": "001",
+    "districtCode": "36.04.211",
+    "name": "Argawana",
+    "alias": "Argawana"
+  },
+  {
+    "code": "36.04.211.002",
+    "villageCode": "002",
+    "districtCode": "36.04.211",
+    "name": "Banyuwangi",
+    "alias": "Banyuwangi"
+  },
+  {
+    "code": "36.04.211.003",
+    "villageCode": "003",
+    "districtCode": "36.04.211",
+    "name": "Margasari",
+    "alias": "Margasari"
+  },
+  {
+    "code": "36.04.211.004",
+    "villageCode": "004",
+    "districtCode": "36.04.211",
+    "name": "Puloampel",
+    "alias": "Puloampel"
+  },
+  {
+    "code": "36.04.211.005",
+    "villageCode": "005",
+    "districtCode": "36.04.211",
+    "name": "Sumuranja",
+    "alias": "Sumuranja"
+  },
+  {
+    "code": "36.04.211.006",
+    "villageCode": "006",
+    "districtCode": "36.04.211",
+    "name": "Kedung Soka",
+    "alias": "Kedung Soka"
+  },
+  {
+    "code": "36.04.211.007",
+    "villageCode": "007",
+    "districtCode": "36.04.211",
+    "name": "Mangunreja",
+    "alias": "Mangunreja"
+  },
+  {
+    "code": "36.04.211.008",
+    "villageCode": "008",
+    "districtCode": "36.04.211",
+    "name": "Salira",
+    "alias": "Salira"
+  },
+  {
+    "code": "36.04.211.009",
+    "villageCode": "009",
+    "districtCode": "36.04.211",
+    "name": "Pulo Panjang",
+    "alias": "Pulo Panjang"
+  }
+]

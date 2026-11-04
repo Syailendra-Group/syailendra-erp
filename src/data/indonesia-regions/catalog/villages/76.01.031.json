@@ -1,0 +1,51 @@
+[
+  {
+    "code": "76.01.031.002",
+    "villageCode": "002",
+    "districtCode": "76.01.031",
+    "name": "Tallambalao",
+    "alias": "Tallambalao"
+  },
+  {
+    "code": "76.01.031.003",
+    "villageCode": "003",
+    "districtCode": "76.01.031",
+    "name": "Tammerodo",
+    "alias": "Tammerodo"
+  },
+  {
+    "code": "76.01.031.004",
+    "villageCode": "004",
+    "districtCode": "76.01.031",
+    "name": "Seppong",
+    "alias": "Seppong"
+  },
+  {
+    "code": "76.01.031.005",
+    "villageCode": "005",
+    "districtCode": "76.01.031",
+    "name": "Ulidang",
+    "alias": "Ulidang"
+  },
+  {
+    "code": "76.01.031.006",
+    "villageCode": "006",
+    "districtCode": "76.01.031",
+    "name": "Tammerodo Utara",
+    "alias": "Tammerodo Utara"
+  },
+  {
+    "code": "76.01.031.007",
+    "villageCode": "007",
+    "districtCode": "76.01.031",
+    "name": "Manyamba",
+    "alias": "Manyamba"
+  },
+  {
+    "code": "76.01.031.008",
+    "villageCode": "008",
+    "districtCode": "76.01.031",
+    "name": "Awo",
+    "alias": "Awo"
+  }
+]

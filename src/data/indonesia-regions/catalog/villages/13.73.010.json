@@ -1,0 +1,37 @@
+[
+  {
+    "code": "13.73.010.001",
+    "villageCode": "001",
+    "districtCode": "13.73.010",
+    "name": "Silungkang Oso",
+    "alias": "Silungkang Oso"
+  },
+  {
+    "code": "13.73.010.002",
+    "villageCode": "002",
+    "districtCode": "13.73.010",
+    "name": "Taratak Boncah",
+    "alias": "Taratak Boncah"
+  },
+  {
+    "code": "13.73.010.003",
+    "villageCode": "003",
+    "districtCode": "13.73.010",
+    "name": "Muaro Kalaban",
+    "alias": "Muaro Kalaban"
+  },
+  {
+    "code": "13.73.010.004",
+    "villageCode": "004",
+    "districtCode": "13.73.010",
+    "name": "Silungkang Tigo",
+    "alias": "Silungkang Tigo"
+  },
+  {
+    "code": "13.73.010.005",
+    "villageCode": "005",
+    "districtCode": "13.73.010",
+    "name": "Silungkang Duo",
+    "alias": "Silungkang Duo"
+  }
+]

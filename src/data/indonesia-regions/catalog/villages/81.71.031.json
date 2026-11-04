@@ -1,0 +1,58 @@
+[
+  {
+    "code": "81.71.031.001",
+    "villageCode": "001",
+    "districtCode": "81.71.031",
+    "name": "Laha",
+    "alias": "Laha"
+  },
+  {
+    "code": "81.71.031.002",
+    "villageCode": "002",
+    "districtCode": "81.71.031",
+    "name": "Tawiri",
+    "alias": "Tawiri"
+  },
+  {
+    "code": "81.71.031.003",
+    "villageCode": "003",
+    "districtCode": "81.71.031",
+    "name": "Hative Besar",
+    "alias": "Hative Besar"
+  },
+  {
+    "code": "81.71.031.004",
+    "villageCode": "004",
+    "districtCode": "81.71.031",
+    "name": "Waiyame",
+    "alias": "Waiyame"
+  },
+  {
+    "code": "81.71.031.005",
+    "villageCode": "005",
+    "districtCode": "81.71.031",
+    "name": "Rumah Tiga",
+    "alias": "Rumah Tiga"
+  },
+  {
+    "code": "81.71.031.006",
+    "villageCode": "006",
+    "districtCode": "81.71.031",
+    "name": "Tihu",
+    "alias": "Tihu"
+  },
+  {
+    "code": "81.71.031.007",
+    "villageCode": "007",
+    "districtCode": "81.71.031",
+    "name": "Poka",
+    "alias": "Poka"
+  },
+  {
+    "code": "81.71.031.008",
+    "villageCode": "008",
+    "districtCode": "81.71.031",
+    "name": "Hunuth/Durian Patah",
+    "alias": "Hunuth/Durian Patah"
+  }
+]

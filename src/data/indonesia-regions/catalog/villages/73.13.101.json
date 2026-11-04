@@ -1,0 +1,65 @@
+[
+  {
+    "code": "73.13.101.001",
+    "villageCode": "001",
+    "districtCode": "73.13.101",
+    "name": "Lamata",
+    "alias": "Lamata"
+  },
+  {
+    "code": "73.13.101.002",
+    "villageCode": "002",
+    "districtCode": "73.13.101",
+    "name": "Poleonro",
+    "alias": "Poleonro"
+  },
+  {
+    "code": "73.13.101.003",
+    "villageCode": "003",
+    "districtCode": "73.13.101",
+    "name": "Maminasae",
+    "alias": "Maminasae"
+  },
+  {
+    "code": "73.13.101.004",
+    "villageCode": "004",
+    "districtCode": "73.13.101",
+    "name": "Abbatireng",
+    "alias": "Abbatireng"
+  },
+  {
+    "code": "73.13.101.005",
+    "villageCode": "005",
+    "districtCode": "73.13.101",
+    "name": "Polewalie",
+    "alias": "Polewalie"
+  },
+  {
+    "code": "73.13.101.006",
+    "villageCode": "006",
+    "districtCode": "73.13.101",
+    "name": "Gilireng",
+    "alias": "Gilireng"
+  },
+  {
+    "code": "73.13.101.007",
+    "villageCode": "007",
+    "districtCode": "73.13.101",
+    "name": "Alausalo",
+    "alias": "Alausalo"
+  },
+  {
+    "code": "73.13.101.008",
+    "villageCode": "008",
+    "districtCode": "73.13.101",
+    "name": "Arajang",
+    "alias": "Arajang"
+  },
+  {
+    "code": "73.13.101.009",
+    "villageCode": "009",
+    "districtCode": "73.13.101",
+    "name": "Paselloreng",
+    "alias": "Paselloreng"
+  }
+]

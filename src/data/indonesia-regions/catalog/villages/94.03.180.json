@@ -1,0 +1,44 @@
+[
+  {
+    "code": "94.03.180.001",
+    "villageCode": "001",
+    "districtCode": "94.03.180",
+    "name": "Guriyad",
+    "alias": "Guriyad"
+  },
+  {
+    "code": "94.03.180.002",
+    "villageCode": "002",
+    "districtCode": "94.03.180",
+    "name": "Sentosa",
+    "alias": "Sentosa"
+  },
+  {
+    "code": "94.03.180.003",
+    "villageCode": "003",
+    "districtCode": "94.03.180",
+    "name": "Beneik",
+    "alias": "Beneik"
+  },
+  {
+    "code": "94.03.180.004",
+    "villageCode": "004",
+    "districtCode": "94.03.180",
+    "name": "Garusa",
+    "alias": "Garusa"
+  },
+  {
+    "code": "94.03.180.005",
+    "villageCode": "005",
+    "districtCode": "94.03.180",
+    "name": "Sawesuma",
+    "alias": "Sawesuma"
+  },
+  {
+    "code": "94.03.180.006",
+    "villageCode": "006",
+    "districtCode": "94.03.180",
+    "name": "Nandalzi",
+    "alias": "Nandalzi"
+  }
+]

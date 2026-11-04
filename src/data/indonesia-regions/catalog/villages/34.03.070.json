@@ -1,0 +1,79 @@
+[
+  {
+    "code": "34.03.070.001",
+    "villageCode": "001",
+    "districtCode": "34.03.070",
+    "name": "Gombang",
+    "alias": "Gombang"
+  },
+  {
+    "code": "34.03.070.002",
+    "villageCode": "002",
+    "districtCode": "34.03.070",
+    "name": "Sidorejo",
+    "alias": "Sidorejo"
+  },
+  {
+    "code": "34.03.070.003",
+    "villageCode": "003",
+    "districtCode": "34.03.070",
+    "name": "Bedoyo",
+    "alias": "Bedoyo"
+  },
+  {
+    "code": "34.03.070.004",
+    "villageCode": "004",
+    "districtCode": "34.03.070",
+    "name": "Karangasem",
+    "alias": "Karangasem"
+  },
+  {
+    "code": "34.03.070.005",
+    "villageCode": "005",
+    "districtCode": "34.03.070",
+    "name": "Ponjong",
+    "alias": "Ponjong"
+  },
+  {
+    "code": "34.03.070.006",
+    "villageCode": "006",
+    "districtCode": "34.03.070",
+    "name": "Genjahan",
+    "alias": "Genjahan"
+  },
+  {
+    "code": "34.03.070.007",
+    "villageCode": "007",
+    "districtCode": "34.03.070",
+    "name": "Sumbergiri",
+    "alias": "Sumbergiri"
+  },
+  {
+    "code": "34.03.070.008",
+    "villageCode": "008",
+    "districtCode": "34.03.070",
+    "name": "Kenteng",
+    "alias": "Kenteng"
+  },
+  {
+    "code": "34.03.070.009",
+    "villageCode": "009",
+    "districtCode": "34.03.070",
+    "name": "Tambakromo",
+    "alias": "Tambakromo"
+  },
+  {
+    "code": "34.03.070.010",
+    "villageCode": "010",
+    "districtCode": "34.03.070",
+    "name": "Sawahan",
+    "alias": "Sawahan"
+  },
+  {
+    "code": "34.03.070.011",
+    "villageCode": "011",
+    "districtCode": "34.03.070",
+    "name": "Umbulrejo",
+    "alias": "Umbulrejo"
+  }
+]

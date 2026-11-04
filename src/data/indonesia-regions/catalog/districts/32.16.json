@@ -1,0 +1,186 @@
+[
+  {
+    "code": "32.16.010",
+    "districtCode": "010",
+    "regencyCode": "32.16",
+    "provinceCode": "32",
+    "name": "Kecamatan Setu",
+    "alias": "Setu"
+  },
+  {
+    "code": "32.16.021",
+    "districtCode": "021",
+    "regencyCode": "32.16",
+    "provinceCode": "32",
+    "name": "Kecamatan Serang Baru",
+    "alias": "Serang Baru"
+  },
+  {
+    "code": "32.16.022",
+    "districtCode": "022",
+    "regencyCode": "32.16",
+    "provinceCode": "32",
+    "name": "Kecamatan Cikarang Pusat",
+    "alias": "Cikarang Pusat"
+  },
+  {
+    "code": "32.16.023",
+    "districtCode": "023",
+    "regencyCode": "32.16",
+    "provinceCode": "32",
+    "name": "Kecamatan Cikarang Selatan",
+    "alias": "Cikarang Selatan"
+  },
+  {
+    "code": "32.16.030",
+    "districtCode": "030",
+    "regencyCode": "32.16",
+    "provinceCode": "32",
+    "name": "Kecamatan Cibarusah",
+    "alias": "Cibarusah"
+  },
+  {
+    "code": "32.16.031",
+    "districtCode": "031",
+    "regencyCode": "32.16",
+    "provinceCode": "32",
+    "name": "Kecamatan Bojongmangu",
+    "alias": "Bojongmangu"
+  },
+  {
+    "code": "32.16.041",
+    "districtCode": "041",
+    "regencyCode": "32.16",
+    "provinceCode": "32",
+    "name": "Kecamatan Cikarang Timur",
+    "alias": "Cikarang Timur"
+  },
+  {
+    "code": "32.16.050",
+    "districtCode": "050",
+    "regencyCode": "32.16",
+    "provinceCode": "32",
+    "name": "Kecamatan Kedungwaringin",
+    "alias": "Kedungwaringin"
+  },
+  {
+    "code": "32.16.061",
+    "districtCode": "061",
+    "regencyCode": "32.16",
+    "provinceCode": "32",
+    "name": "Kecamatan Cikarang Utara",
+    "alias": "Cikarang Utara"
+  },
+  {
+    "code": "32.16.062",
+    "districtCode": "062",
+    "regencyCode": "32.16",
+    "provinceCode": "32",
+    "name": "Kecamatan Karangbahagia",
+    "alias": "Karangbahagia"
+  },
+  {
+    "code": "32.16.070",
+    "districtCode": "070",
+    "regencyCode": "32.16",
+    "provinceCode": "32",
+    "name": "Kecamatan Cibitung",
+    "alias": "Cibitung"
+  },
+  {
+    "code": "32.16.071",
+    "districtCode": "071",
+    "regencyCode": "32.16",
+    "provinceCode": "32",
+    "name": "Kecamatan Cikarang Barat",
+    "alias": "Cikarang Barat"
+  },
+  {
+    "code": "32.16.081",
+    "districtCode": "081",
+    "regencyCode": "32.16",
+    "provinceCode": "32",
+    "name": "Kecamatan Tambun Selatan",
+    "alias": "Tambun Selatan"
+  },
+  {
+    "code": "32.16.082",
+    "districtCode": "082",
+    "regencyCode": "32.16",
+    "provinceCode": "32",
+    "name": "Kecamatan Tambun Utara",
+    "alias": "Tambun Utara"
+  },
+  {
+    "code": "32.16.090",
+    "districtCode": "090",
+    "regencyCode": "32.16",
+    "provinceCode": "32",
+    "name": "Kecamatan Babelan",
+    "alias": "Babelan"
+  },
+  {
+    "code": "32.16.100",
+    "districtCode": "100",
+    "regencyCode": "32.16",
+    "provinceCode": "32",
+    "name": "Kecamatan Tarumajaya",
+    "alias": "Tarumajaya"
+  },
+  {
+    "code": "32.16.110",
+    "districtCode": "110",
+    "regencyCode": "32.16",
+    "provinceCode": "32",
+    "name": "Kecamatan Tambelang",
+    "alias": "Tambelang"
+  },
+  {
+    "code": "32.16.111",
+    "districtCode": "111",
+    "regencyCode": "32.16",
+    "provinceCode": "32",
+    "name": "Kecamatan Sukawangi",
+    "alias": "Sukawangi"
+  },
+  {
+    "code": "32.16.120",
+    "districtCode": "120",
+    "regencyCode": "32.16",
+    "provinceCode": "32",
+    "name": "Kecamatan Sukatani",
+    "alias": "Sukatani"
+  },
+  {
+    "code": "32.16.121",
+    "districtCode": "121",
+    "regencyCode": "32.16",
+    "provinceCode": "32",
+    "name": "Kecamatan Sukakarya",
+    "alias": "Sukakarya"
+  },
+  {
+    "code": "32.16.130",
+    "districtCode": "130",
+    "regencyCode": "32.16",
+    "provinceCode": "32",
+    "name": "Kecamatan Pebayuran",
+    "alias": "Pebayuran"
+  },
+  {
+    "code": "32.16.140",
+    "districtCode": "140",
+    "regencyCode": "32.16",
+    "provinceCode": "32",
+    "name": "Kecamatan Cabangbungin",
+    "alias": "Cabangbungin"
+  },
+  {
+    "code": "32.16.150",
+    "districtCode": "150",
+    "regencyCode": "32.16",
+    "provinceCode": "32",
+    "name": "Kecamatan Muara Gembong",
+    "alias": "Muara Gembong"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "code": "63.10.050.001",
+    "villageCode": "001",
+    "districtCode": "63.10.050",
+    "name": "Segumbang",
+    "alias": "Segumbang"
+  },
+  {
+    "code": "63.10.050.002",
+    "villageCode": "002",
+    "districtCode": "63.10.050",
+    "name": "Gunung Tinggi",
+    "alias": "Gunung Tinggi"
+  },
+  {
+    "code": "63.10.050.003",
+    "villageCode": "003",
+    "districtCode": "63.10.050",
+    "name": "Kersik Putih",
+    "alias": "Kersik Putih"
+  },
+  {
+    "code": "63.10.050.004",
+    "villageCode": "004",
+    "districtCode": "63.10.050",
+    "name": "Batulicin",
+    "alias": "Batulicin"
+  },
+  {
+    "code": "63.10.050.006",
+    "villageCode": "006",
+    "districtCode": "63.10.050",
+    "name": "Maju Makmur",
+    "alias": "Maju Makmur"
+  },
+  {
+    "code": "63.10.050.007",
+    "villageCode": "007",
+    "districtCode": "63.10.050",
+    "name": "Danau Indah",
+    "alias": "Danau Indah"
+  },
+  {
+    "code": "63.10.050.008",
+    "villageCode": "008",
+    "districtCode": "63.10.050",
+    "name": "Polewali Marajae",
+    "alias": "Polewali Marajae"
+  },
+  {
+    "code": "63.10.050.009",
+    "villageCode": "009",
+    "districtCode": "63.10.050",
+    "name": "Maju Bersama",
+    "alias": "Maju Bersama"
+  },
+  {
+    "code": "63.10.050.010",
+    "villageCode": "010",
+    "districtCode": "63.10.050",
+    "name": "Sukamaju",
+    "alias": "Sukamaju"
+  }
+]

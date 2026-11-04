@@ -1,0 +1,58 @@
+[
+  {
+    "code": "32.12.220.001",
+    "villageCode": "001",
+    "districtCode": "32.12.220",
+    "name": "Bogor",
+    "alias": "Bogor"
+  },
+  {
+    "code": "32.12.220.002",
+    "villageCode": "002",
+    "districtCode": "32.12.220",
+    "name": "Sukra",
+    "alias": "Sukra"
+  },
+  {
+    "code": "32.12.220.003",
+    "villageCode": "003",
+    "districtCode": "32.12.220",
+    "name": "Ujunggebang",
+    "alias": "Ujunggebang"
+  },
+  {
+    "code": "32.12.220.004",
+    "villageCode": "004",
+    "districtCode": "32.12.220",
+    "name": "Tegaltaman",
+    "alias": "Tegaltaman"
+  },
+  {
+    "code": "32.12.220.005",
+    "villageCode": "005",
+    "districtCode": "32.12.220",
+    "name": "Sukrawetan",
+    "alias": "Sukrawetan"
+  },
+  {
+    "code": "32.12.220.006",
+    "villageCode": "006",
+    "districtCode": "32.12.220",
+    "name": "Sumuradem",
+    "alias": "Sumuradem"
+  },
+  {
+    "code": "32.12.220.007",
+    "villageCode": "007",
+    "districtCode": "32.12.220",
+    "name": "Sumuradem Timur",
+    "alias": "Sumuradem Timur"
+  },
+  {
+    "code": "32.12.220.008",
+    "villageCode": "008",
+    "districtCode": "32.12.220",
+    "name": "Karanglayung",
+    "alias": "Karanglayung"
+  }
+]

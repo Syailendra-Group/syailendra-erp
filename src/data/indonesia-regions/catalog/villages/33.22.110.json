@@ -1,0 +1,65 @@
+[
+  {
+    "code": "33.22.110.001",
+    "villageCode": "001",
+    "districtCode": "33.22.110",
+    "name": "Doplang",
+    "alias": "Doplang"
+  },
+  {
+    "code": "33.22.110.002",
+    "villageCode": "002",
+    "districtCode": "33.22.110",
+    "name": "Bawen",
+    "alias": "Bawen"
+  },
+  {
+    "code": "33.22.110.003",
+    "villageCode": "003",
+    "districtCode": "33.22.110",
+    "name": "Asinan",
+    "alias": "Asinan"
+  },
+  {
+    "code": "33.22.110.004",
+    "villageCode": "004",
+    "districtCode": "33.22.110",
+    "name": "Polosiri",
+    "alias": "Polosiri"
+  },
+  {
+    "code": "33.22.110.005",
+    "villageCode": "005",
+    "districtCode": "33.22.110",
+    "name": "Kandangan",
+    "alias": "Kandangan"
+  },
+  {
+    "code": "33.22.110.006",
+    "villageCode": "006",
+    "districtCode": "33.22.110",
+    "name": "Lemahireng",
+    "alias": "Lemahireng"
+  },
+  {
+    "code": "33.22.110.007",
+    "villageCode": "007",
+    "districtCode": "33.22.110",
+    "name": "Harjosari",
+    "alias": "Harjosari"
+  },
+  {
+    "code": "33.22.110.008",
+    "villageCode": "008",
+    "districtCode": "33.22.110",
+    "name": "Samban",
+    "alias": "Samban"
+  },
+  {
+    "code": "33.22.110.009",
+    "villageCode": "009",
+    "districtCode": "33.22.110",
+    "name": "Poncoruso",
+    "alias": "Poncoruso"
+  }
+]

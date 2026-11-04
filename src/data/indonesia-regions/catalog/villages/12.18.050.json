@@ -1,0 +1,100 @@
+[
+  {
+    "code": "12.18.050.001",
+    "villageCode": "001",
+    "districtCode": "12.18.050",
+    "name": "Naga Kesiangan",
+    "alias": "Naga Kesiangan"
+  },
+  {
+    "code": "12.18.050.002",
+    "villageCode": "002",
+    "districtCode": "12.18.050",
+    "name": "Gunung Kataran",
+    "alias": "Gunung Kataran"
+  },
+  {
+    "code": "12.18.050.009",
+    "villageCode": "009",
+    "districtCode": "12.18.050",
+    "name": "Penonggol",
+    "alias": "Penonggol"
+  },
+  {
+    "code": "12.18.050.010",
+    "villageCode": "010",
+    "districtCode": "12.18.050",
+    "name": "Kedai Damar",
+    "alias": "Kedai Damar"
+  },
+  {
+    "code": "12.18.050.011",
+    "villageCode": "011",
+    "districtCode": "12.18.050",
+    "name": "Bah Sumbu",
+    "alias": "Bah Sumbu"
+  },
+  {
+    "code": "12.18.050.012",
+    "villageCode": "012",
+    "districtCode": "12.18.050",
+    "name": "Jambu",
+    "alias": "Jambu"
+  },
+  {
+    "code": "12.18.050.013",
+    "villageCode": "013",
+    "districtCode": "12.18.050",
+    "name": "Mariah Padang",
+    "alias": "Mariah Padang"
+  },
+  {
+    "code": "12.18.050.014",
+    "villageCode": "014",
+    "districtCode": "12.18.050",
+    "name": "Pertapaan",
+    "alias": "Pertapaan"
+  },
+  {
+    "code": "12.18.050.015",
+    "villageCode": "015",
+    "districtCode": "12.18.050",
+    "name": "Sei Serimah",
+    "alias": "Sei Serimah"
+  },
+  {
+    "code": "12.18.050.016",
+    "villageCode": "016",
+    "districtCode": "12.18.050",
+    "name": "Paya Bagas",
+    "alias": "Paya Bagas"
+  },
+  {
+    "code": "12.18.050.021",
+    "villageCode": "021",
+    "districtCode": "12.18.050",
+    "name": "Kuta Baru",
+    "alias": "Kuta Baru"
+  },
+  {
+    "code": "12.18.050.022",
+    "villageCode": "022",
+    "districtCode": "12.18.050",
+    "name": "Paya Lombang",
+    "alias": "Paya Lombang"
+  },
+  {
+    "code": "12.18.050.023",
+    "villageCode": "023",
+    "districtCode": "12.18.050",
+    "name": "Paya Mabar",
+    "alias": "Paya Mabar"
+  },
+  {
+    "code": "12.18.050.024",
+    "villageCode": "024",
+    "districtCode": "12.18.050",
+    "name": "Sei Periok",
+    "alias": "Sei Periok"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "code": "73.16.031.002",
+    "villageCode": "002",
+    "districtCode": "73.16.031",
+    "name": "Ledan",
+    "alias": "Ledan"
+  },
+  {
+    "code": "73.16.031.003",
+    "villageCode": "003",
+    "districtCode": "73.16.031",
+    "name": "Potok Ullin",
+    "alias": "Potok Ullin"
+  },
+  {
+    "code": "73.16.031.004",
+    "villageCode": "004",
+    "districtCode": "73.16.031",
+    "name": "Eran Batu",
+    "alias": "Eran Batu"
+  },
+  {
+    "code": "73.16.031.005",
+    "villageCode": "005",
+    "districtCode": "73.16.031",
+    "name": "Langda",
+    "alias": "Langda"
+  },
+  {
+    "code": "73.16.031.006",
+    "villageCode": "006",
+    "districtCode": "73.16.031",
+    "name": "Pasui",
+    "alias": "Pasui"
+  },
+  {
+    "code": "73.16.031.013",
+    "villageCode": "013",
+    "districtCode": "73.16.031",
+    "name": "Lunjen",
+    "alias": "Lunjen"
+  },
+  {
+    "code": "73.16.031.015",
+    "villageCode": "015",
+    "districtCode": "73.16.031",
+    "name": "Buntu Mondong",
+    "alias": "Buntu Mondong"
+  },
+  {
+    "code": "73.16.031.016",
+    "villageCode": "016",
+    "districtCode": "73.16.031",
+    "name": "Latimojong",
+    "alias": "Latimojong"
+  }
+]

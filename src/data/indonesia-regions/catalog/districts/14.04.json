@@ -1,0 +1,98 @@
+[
+  {
+    "code": "14.04.010",
+    "districtCode": "010",
+    "regencyCode": "14.04",
+    "provinceCode": "14",
+    "name": "Kecamatan Langgam",
+    "alias": "Langgam"
+  },
+  {
+    "code": "14.04.011",
+    "districtCode": "011",
+    "regencyCode": "14.04",
+    "provinceCode": "14",
+    "name": "Kecamatan Pangkalan Kerinci",
+    "alias": "Pangkalan Kerinci"
+  },
+  {
+    "code": "14.04.012",
+    "districtCode": "012",
+    "regencyCode": "14.04",
+    "provinceCode": "14",
+    "name": "Kecamatan Bandar Seikijang",
+    "alias": "Bandar Seikijang"
+  },
+  {
+    "code": "14.04.020",
+    "districtCode": "020",
+    "regencyCode": "14.04",
+    "provinceCode": "14",
+    "name": "Kecamatan Pangkalan Kuras",
+    "alias": "Pangkalan Kuras"
+  },
+  {
+    "code": "14.04.021",
+    "districtCode": "021",
+    "regencyCode": "14.04",
+    "provinceCode": "14",
+    "name": "Kecamatan Ukui",
+    "alias": "Ukui"
+  },
+  {
+    "code": "14.04.022",
+    "districtCode": "022",
+    "regencyCode": "14.04",
+    "provinceCode": "14",
+    "name": "Kecamatan Pangkalan Lesung",
+    "alias": "Pangkalan Lesung"
+  },
+  {
+    "code": "14.04.030",
+    "districtCode": "030",
+    "regencyCode": "14.04",
+    "provinceCode": "14",
+    "name": "Kecamatan Bunut",
+    "alias": "Bunut"
+  },
+  {
+    "code": "14.04.031",
+    "districtCode": "031",
+    "regencyCode": "14.04",
+    "provinceCode": "14",
+    "name": "Kecamatan Pelalawan",
+    "alias": "Pelalawan"
+  },
+  {
+    "code": "14.04.032",
+    "districtCode": "032",
+    "regencyCode": "14.04",
+    "provinceCode": "14",
+    "name": "Kecamatan Bandar Petalangan",
+    "alias": "Bandar Petalangan"
+  },
+  {
+    "code": "14.04.040",
+    "districtCode": "040",
+    "regencyCode": "14.04",
+    "provinceCode": "14",
+    "name": "Kecamatan Kuala Kampar",
+    "alias": "Kuala Kampar"
+  },
+  {
+    "code": "14.04.041",
+    "districtCode": "041",
+    "regencyCode": "14.04",
+    "provinceCode": "14",
+    "name": "Kecamatan Kerumutan",
+    "alias": "Kerumutan"
+  },
+  {
+    "code": "14.04.042",
+    "districtCode": "042",
+    "regencyCode": "14.04",
+    "provinceCode": "14",
+    "name": "Kecamatan Teluk Meranti",
+    "alias": "Teluk Meranti"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "code": "96.02.020.001",
+    "villageCode": "001",
+    "districtCode": "96.02.020",
+    "name": "Yegiyepa",
+    "alias": "Yegiyepa"
+  },
+  {
+    "code": "96.02.020.002",
+    "villageCode": "002",
+    "districtCode": "96.02.020",
+    "name": "Apogomakida",
+    "alias": "Apogomakida"
+  },
+  {
+    "code": "96.02.020.003",
+    "villageCode": "003",
+    "districtCode": "96.02.020",
+    "name": "Deniyode",
+    "alias": "Deniyode"
+  },
+  {
+    "code": "96.02.020.004",
+    "villageCode": "004",
+    "districtCode": "96.02.020",
+    "name": "Ukagu",
+    "alias": "Ukagu"
+  },
+  {
+    "code": "96.02.020.005",
+    "villageCode": "005",
+    "districtCode": "96.02.020",
+    "name": "Kegata",
+    "alias": "Kegata"
+  },
+  {
+    "code": "96.02.020.006",
+    "villageCode": "006",
+    "districtCode": "96.02.020",
+    "name": "Egipa",
+    "alias": "Egipa"
+  },
+  {
+    "code": "96.02.020.007",
+    "villageCode": "007",
+    "districtCode": "96.02.020",
+    "name": "Ideduwa",
+    "alias": "Ideduwa"
+  },
+  {
+    "code": "96.02.020.008",
+    "villageCode": "008",
+    "districtCode": "96.02.020",
+    "name": "Tipaugi",
+    "alias": "Tipaugi"
+  }
+]

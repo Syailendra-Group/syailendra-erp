@@ -1,0 +1,30 @@
+[
+  {
+    "code": "61.71.040.001",
+    "villageCode": "001",
+    "districtCode": "61.71.040",
+    "name": "Batu Layang",
+    "alias": "Batu Layang"
+  },
+  {
+    "code": "61.71.040.002",
+    "villageCode": "002",
+    "districtCode": "61.71.040",
+    "name": "Siantan Hilir",
+    "alias": "Siantan Hilir"
+  },
+  {
+    "code": "61.71.040.003",
+    "villageCode": "003",
+    "districtCode": "61.71.040",
+    "name": "Siantan Tengah",
+    "alias": "Siantan Tengah"
+  },
+  {
+    "code": "61.71.040.004",
+    "villageCode": "004",
+    "districtCode": "61.71.040",
+    "name": "Siantan Hulu",
+    "alias": "Siantan Hulu"
+  }
+]

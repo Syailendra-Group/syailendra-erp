@@ -1,0 +1,100 @@
+[
+  {
+    "code": "97.01.130.001",
+    "villageCode": "001",
+    "districtCode": "97.01.130",
+    "name": "Yuguru",
+    "alias": "Yuguru"
+  },
+  {
+    "code": "97.01.130.002",
+    "villageCode": "002",
+    "districtCode": "97.01.130",
+    "name": "Meborok",
+    "alias": "Meborok"
+  },
+  {
+    "code": "97.01.130.003",
+    "villageCode": "003",
+    "districtCode": "97.01.130",
+    "name": "Setmit",
+    "alias": "Setmit"
+  },
+  {
+    "code": "97.01.130.004",
+    "villageCode": "004",
+    "districtCode": "97.01.130",
+    "name": "Ngenamba",
+    "alias": "Ngenamba"
+  },
+  {
+    "code": "97.01.130.005",
+    "villageCode": "005",
+    "districtCode": "97.01.130",
+    "name": "Narugum",
+    "alias": "Narugum"
+  },
+  {
+    "code": "97.01.130.006",
+    "villageCode": "006",
+    "districtCode": "97.01.130",
+    "name": "Eregenmangge",
+    "alias": "Eregenmangge"
+  },
+  {
+    "code": "97.01.130.007",
+    "villageCode": "007",
+    "districtCode": "97.01.130",
+    "name": "Talpam",
+    "alias": "Talpam"
+  },
+  {
+    "code": "97.01.130.008",
+    "villageCode": "008",
+    "districtCode": "97.01.130",
+    "name": "Aptam",
+    "alias": "Aptam"
+  },
+  {
+    "code": "97.01.130.009",
+    "villageCode": "009",
+    "districtCode": "97.01.130",
+    "name": "Signimarem",
+    "alias": "Signimarem"
+  },
+  {
+    "code": "97.01.130.010",
+    "villageCode": "010",
+    "districtCode": "97.01.130",
+    "name": "Bone",
+    "alias": "Bone"
+  },
+  {
+    "code": "97.01.130.011",
+    "villageCode": "011",
+    "districtCode": "97.01.130",
+    "name": "Olonmu",
+    "alias": "Olonmu"
+  },
+  {
+    "code": "97.01.130.012",
+    "villageCode": "012",
+    "districtCode": "97.01.130",
+    "name": "Sabiem",
+    "alias": "Sabiem"
+  },
+  {
+    "code": "97.01.130.013",
+    "villageCode": "013",
+    "districtCode": "97.01.130",
+    "name": "Pereki",
+    "alias": "Pereki"
+  },
+  {
+    "code": "97.01.130.014",
+    "villageCode": "014",
+    "districtCode": "97.01.130",
+    "name": "Lumurak",
+    "alias": "Lumurak"
+  }
+]

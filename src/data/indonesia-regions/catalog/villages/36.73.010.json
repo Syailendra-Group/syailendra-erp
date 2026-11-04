@@ -1,0 +1,72 @@
+[
+  {
+    "code": "36.73.010.001",
+    "villageCode": "001",
+    "districtCode": "36.73.010",
+    "name": "Kamanisan",
+    "alias": "Kamanisan"
+  },
+  {
+    "code": "36.73.010.002",
+    "villageCode": "002",
+    "districtCode": "36.73.010",
+    "name": "Pancalaksana",
+    "alias": "Pancalaksana"
+  },
+  {
+    "code": "36.73.010.003",
+    "villageCode": "003",
+    "districtCode": "36.73.010",
+    "name": "Tinggar",
+    "alias": "Tinggar"
+  },
+  {
+    "code": "36.73.010.004",
+    "villageCode": "004",
+    "districtCode": "36.73.010",
+    "name": "Cipete",
+    "alias": "Cipete"
+  },
+  {
+    "code": "36.73.010.005",
+    "villageCode": "005",
+    "districtCode": "36.73.010",
+    "name": "Curugmanis",
+    "alias": "Curugmanis"
+  },
+  {
+    "code": "36.73.010.006",
+    "villageCode": "006",
+    "districtCode": "36.73.010",
+    "name": "Sukalaksana",
+    "alias": "Sukalaksana"
+  },
+  {
+    "code": "36.73.010.007",
+    "villageCode": "007",
+    "districtCode": "36.73.010",
+    "name": "Sukawana",
+    "alias": "Sukawana"
+  },
+  {
+    "code": "36.73.010.008",
+    "villageCode": "008",
+    "districtCode": "36.73.010",
+    "name": "Curug",
+    "alias": "Curug"
+  },
+  {
+    "code": "36.73.010.009",
+    "villageCode": "009",
+    "districtCode": "36.73.010",
+    "name": "Sukajaya",
+    "alias": "Sukajaya"
+  },
+  {
+    "code": "36.73.010.010",
+    "villageCode": "010",
+    "districtCode": "36.73.010",
+    "name": "Cilaku",
+    "alias": "Cilaku"
+  }
+]

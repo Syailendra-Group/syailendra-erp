@@ -1,0 +1,72 @@
+[
+  {
+    "code": "15.04.041.001",
+    "villageCode": "001",
+    "districtCode": "15.04.041",
+    "name": "Sungkai",
+    "alias": "Sungkai"
+  },
+  {
+    "code": "15.04.041.002",
+    "villageCode": "002",
+    "districtCode": "15.04.041",
+    "name": "Bungku",
+    "alias": "Bungku"
+  },
+  {
+    "code": "15.04.041.003",
+    "villageCode": "003",
+    "districtCode": "15.04.041",
+    "name": "Mekar Jaya",
+    "alias": "Mekar Jaya"
+  },
+  {
+    "code": "15.04.041.004",
+    "villageCode": "004",
+    "districtCode": "15.04.041",
+    "name": "Pompa Air",
+    "alias": "Pompa Air"
+  },
+  {
+    "code": "15.04.041.005",
+    "villageCode": "005",
+    "districtCode": "15.04.041",
+    "name": "Ladang Peris",
+    "alias": "Ladang Peris"
+  },
+  {
+    "code": "15.04.041.006",
+    "villageCode": "006",
+    "districtCode": "15.04.041",
+    "name": "Penerokan",
+    "alias": "Penerokan"
+  },
+  {
+    "code": "15.04.041.007",
+    "villageCode": "007",
+    "districtCode": "15.04.041",
+    "name": "Bajubang",
+    "alias": "Bajubang"
+  },
+  {
+    "code": "15.04.041.008",
+    "villageCode": "008",
+    "districtCode": "15.04.041",
+    "name": "Batin",
+    "alias": "Batin"
+  },
+  {
+    "code": "15.04.041.009",
+    "villageCode": "009",
+    "districtCode": "15.04.041",
+    "name": "Petajen",
+    "alias": "Petajen"
+  },
+  {
+    "code": "15.04.041.010",
+    "villageCode": "010",
+    "districtCode": "15.04.041",
+    "name": "Mekar Sari Nes",
+    "alias": "Mekar Sari Nes"
+  }
+]

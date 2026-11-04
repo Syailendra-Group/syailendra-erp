@@ -1,0 +1,79 @@
+[
+  {
+    "code": "62.01.062.001",
+    "villageCode": "001",
+    "districtCode": "62.01.062",
+    "name": "Purbasari",
+    "alias": "Purbasari"
+  },
+  {
+    "code": "62.01.062.002",
+    "villageCode": "002",
+    "districtCode": "62.01.062",
+    "name": "Sungai Rangit Jaya",
+    "alias": "Sungai Rangit Jaya"
+  },
+  {
+    "code": "62.01.062.003",
+    "villageCode": "003",
+    "districtCode": "62.01.062",
+    "name": "Sumber Agung",
+    "alias": "Sumber Agung"
+  },
+  {
+    "code": "62.01.062.004",
+    "villageCode": "004",
+    "districtCode": "62.01.062",
+    "name": "Lada Mandala Jaya",
+    "alias": "Lada Mandala Jaya"
+  },
+  {
+    "code": "62.01.062.005",
+    "villageCode": "005",
+    "districtCode": "62.01.062",
+    "name": "Makarti Jaya",
+    "alias": "Makarti Jaya"
+  },
+  {
+    "code": "62.01.062.006",
+    "villageCode": "006",
+    "districtCode": "62.01.062",
+    "name": "Pandu Senjaya",
+    "alias": "Pandu Senjaya"
+  },
+  {
+    "code": "62.01.062.007",
+    "villageCode": "007",
+    "districtCode": "62.01.062",
+    "name": "Pangkalan Tiga",
+    "alias": "Pangkalan Tiga"
+  },
+  {
+    "code": "62.01.062.008",
+    "villageCode": "008",
+    "districtCode": "62.01.062",
+    "name": "Kadipi Atas",
+    "alias": "Kadipi Atas"
+  },
+  {
+    "code": "62.01.062.009",
+    "villageCode": "009",
+    "districtCode": "62.01.062",
+    "name": "Pangkalan Dewa",
+    "alias": "Pangkalan Dewa"
+  },
+  {
+    "code": "62.01.062.010",
+    "villageCode": "010",
+    "districtCode": "62.01.062",
+    "name": "Pangkalan Durin",
+    "alias": "Pangkalan Durin"
+  },
+  {
+    "code": "62.01.062.011",
+    "villageCode": "011",
+    "districtCode": "62.01.062",
+    "name": "Sungai Melawen",
+    "alias": "Sungai Melawen"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "code": "13.11.021.001",
+    "villageCode": "001",
+    "districtCode": "13.11.021",
+    "name": "Padukuan",
+    "alias": "Padukuan"
+  },
+  {
+    "code": "13.11.021.002",
+    "villageCode": "002",
+    "districtCode": "13.11.021",
+    "name": "Pulau Mainan",
+    "alias": "Pulau Mainan"
+  },
+  {
+    "code": "13.11.021.003",
+    "villageCode": "003",
+    "districtCode": "13.11.021",
+    "name": "Simalidu",
+    "alias": "Simalidu"
+  },
+  {
+    "code": "13.11.021.004",
+    "villageCode": "004",
+    "districtCode": "13.11.021",
+    "name": "Koto Salak",
+    "alias": "Koto Salak"
+  },
+  {
+    "code": "13.11.021.005",
+    "villageCode": "005",
+    "districtCode": "13.11.021",
+    "name": "Ampalu",
+    "alias": "Ampalu"
+  }
+]

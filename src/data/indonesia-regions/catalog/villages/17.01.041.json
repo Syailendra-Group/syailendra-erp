@@ -1,0 +1,79 @@
+[
+  {
+    "code": "17.01.041.006",
+    "villageCode": "006",
+    "districtCode": "17.01.041",
+    "name": "Kampung Baru",
+    "alias": "Kampung Baru"
+  },
+  {
+    "code": "17.01.041.007",
+    "villageCode": "007",
+    "districtCode": "17.01.041",
+    "name": "Pagar Dewa",
+    "alias": "Pagar Dewa"
+  },
+  {
+    "code": "17.01.041.008",
+    "villageCode": "008",
+    "districtCode": "17.01.041",
+    "name": "Pasar Baru",
+    "alias": "Pasar Baru"
+  },
+  {
+    "code": "17.01.041.013",
+    "villageCode": "013",
+    "districtCode": "17.01.041",
+    "name": "Kota Medan",
+    "alias": "Kota Medan"
+  },
+  {
+    "code": "17.01.041.014",
+    "villageCode": "014",
+    "districtCode": "17.01.041",
+    "name": "Gunung Ayu",
+    "alias": "Gunung Ayu"
+  },
+  {
+    "code": "17.01.041.015",
+    "villageCode": "015",
+    "districtCode": "17.01.041",
+    "name": "Padang Niur",
+    "alias": "Padang Niur"
+  },
+  {
+    "code": "17.01.041.016",
+    "villageCode": "016",
+    "districtCode": "17.01.041",
+    "name": "Tebat Kubu",
+    "alias": "Tebat Kubu"
+  },
+  {
+    "code": "17.01.041.017",
+    "villageCode": "017",
+    "districtCode": "17.01.041",
+    "name": "Gelumbang",
+    "alias": "Gelumbang"
+  },
+  {
+    "code": "17.01.041.018",
+    "villageCode": "018",
+    "districtCode": "17.01.041",
+    "name": "Padang Kapuk",
+    "alias": "Padang Kapuk"
+  },
+  {
+    "code": "17.01.041.019",
+    "villageCode": "019",
+    "districtCode": "17.01.041",
+    "name": "Ibul",
+    "alias": "Ibul"
+  },
+  {
+    "code": "17.01.041.020",
+    "villageCode": "020",
+    "districtCode": "17.01.041",
+    "name": "Padang Berangin",
+    "alias": "Padang Berangin"
+  }
+]

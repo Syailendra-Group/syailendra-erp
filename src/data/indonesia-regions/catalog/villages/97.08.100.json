@@ -1,0 +1,37 @@
+[
+  {
+    "code": "97.08.100.001",
+    "villageCode": "001",
+    "districtCode": "97.08.100",
+    "name": "Mimin",
+    "alias": "Mimin"
+  },
+  {
+    "code": "97.08.100.002",
+    "villageCode": "002",
+    "districtCode": "97.08.100",
+    "name": "Oksop",
+    "alias": "Oksop"
+  },
+  {
+    "code": "97.08.100.003",
+    "villageCode": "003",
+    "districtCode": "97.08.100",
+    "name": "Atenar",
+    "alias": "Atenar"
+  },
+  {
+    "code": "97.08.100.004",
+    "villageCode": "004",
+    "districtCode": "97.08.100",
+    "name": "Alutbakon",
+    "alias": "Alutbakon"
+  },
+  {
+    "code": "97.08.100.005",
+    "villageCode": "005",
+    "districtCode": "97.08.100",
+    "name": "Oktumi",
+    "alias": "Oktumi"
+  }
+]

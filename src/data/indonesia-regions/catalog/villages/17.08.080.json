@@ -1,0 +1,58 @@
+[
+  {
+    "code": "17.08.080.001",
+    "villageCode": "001",
+    "districtCode": "17.08.080",
+    "name": "Lubuk Penyamun",
+    "alias": "Lubuk Penyamun"
+  },
+  {
+    "code": "17.08.080.002",
+    "villageCode": "002",
+    "districtCode": "17.08.080",
+    "name": "Bukit Barisan",
+    "alias": "Bukit Barisan"
+  },
+  {
+    "code": "17.08.080.003",
+    "villageCode": "003",
+    "districtCode": "17.08.080",
+    "name": "Durian Depun",
+    "alias": "Durian Depun"
+  },
+  {
+    "code": "17.08.080.004",
+    "villageCode": "004",
+    "districtCode": "17.08.080",
+    "name": "Pulo Geto",
+    "alias": "Pulo Geto"
+  },
+  {
+    "code": "17.08.080.005",
+    "villageCode": "005",
+    "districtCode": "17.08.080",
+    "name": "Taba Mulan",
+    "alias": "Taba Mulan"
+  },
+  {
+    "code": "17.08.080.006",
+    "villageCode": "006",
+    "districtCode": "17.08.080",
+    "name": "Simpang Kota Bingin",
+    "alias": "Simpang Kota Bingin"
+  },
+  {
+    "code": "17.08.080.007",
+    "villageCode": "007",
+    "districtCode": "17.08.080",
+    "name": "Batu Ampar",
+    "alias": "Batu Ampar"
+  },
+  {
+    "code": "17.08.080.008",
+    "villageCode": "008",
+    "districtCode": "17.08.080",
+    "name": "Pulo Geto Baru",
+    "alias": "Pulo Geto Baru"
+  }
+]

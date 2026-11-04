@@ -1,0 +1,30 @@
+[
+  {
+    "code": "92.01.160.001",
+    "villageCode": "001",
+    "districtCode": "92.01.160",
+    "name": "Lopintol",
+    "alias": "Lopintol"
+  },
+  {
+    "code": "92.01.160.002",
+    "villageCode": "002",
+    "districtCode": "92.01.160",
+    "name": "Warsamdin",
+    "alias": "Warsamdin"
+  },
+  {
+    "code": "92.01.160.003",
+    "villageCode": "003",
+    "districtCode": "92.01.160",
+    "name": "Mumes",
+    "alias": "Mumes"
+  },
+  {
+    "code": "92.01.160.004",
+    "villageCode": "004",
+    "districtCode": "92.01.160",
+    "name": "Kalitoko",
+    "alias": "Kalitoko"
+  }
+]

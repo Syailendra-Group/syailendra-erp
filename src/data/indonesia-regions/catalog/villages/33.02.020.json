@@ -1,0 +1,86 @@
+[
+  {
+    "code": "33.02.020.001",
+    "villageCode": "001",
+    "districtCode": "33.02.020",
+    "name": "Randegan",
+    "alias": "Randegan"
+  },
+  {
+    "code": "33.02.020.002",
+    "villageCode": "002",
+    "districtCode": "33.02.020",
+    "name": "Rawaheng",
+    "alias": "Rawaheng"
+  },
+  {
+    "code": "33.02.020.003",
+    "villageCode": "003",
+    "districtCode": "33.02.020",
+    "name": "Pangadegan",
+    "alias": "Pangadegan"
+  },
+  {
+    "code": "33.02.020.004",
+    "villageCode": "004",
+    "districtCode": "33.02.020",
+    "name": "Klapagading",
+    "alias": "Klapagading"
+  },
+  {
+    "code": "33.02.020.005",
+    "villageCode": "005",
+    "districtCode": "33.02.020",
+    "name": "Klapagading Kulon",
+    "alias": "Klapagading Kulon"
+  },
+  {
+    "code": "33.02.020.006",
+    "villageCode": "006",
+    "districtCode": "33.02.020",
+    "name": "Wangon",
+    "alias": "Wangon"
+  },
+  {
+    "code": "33.02.020.007",
+    "villageCode": "007",
+    "districtCode": "33.02.020",
+    "name": "Banteran",
+    "alias": "Banteran"
+  },
+  {
+    "code": "33.02.020.008",
+    "villageCode": "008",
+    "districtCode": "33.02.020",
+    "name": "Jambu",
+    "alias": "Jambu"
+  },
+  {
+    "code": "33.02.020.009",
+    "villageCode": "009",
+    "districtCode": "33.02.020",
+    "name": "Jurangbahas",
+    "alias": "Jurangbahas"
+  },
+  {
+    "code": "33.02.020.010",
+    "villageCode": "010",
+    "districtCode": "33.02.020",
+    "name": "Cikakak",
+    "alias": "Cikakak"
+  },
+  {
+    "code": "33.02.020.011",
+    "villageCode": "011",
+    "districtCode": "33.02.020",
+    "name": "Wlahar",
+    "alias": "Wlahar"
+  },
+  {
+    "code": "33.02.020.012",
+    "villageCode": "012",
+    "districtCode": "33.02.020",
+    "name": "Windunegara",
+    "alias": "Windunegara"
+  }
+]

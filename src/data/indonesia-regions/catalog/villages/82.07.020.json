@@ -1,0 +1,107 @@
+[
+  {
+    "code": "82.07.020.001",
+    "villageCode": "001",
+    "districtCode": "82.07.020",
+    "name": "Sambiki",
+    "alias": "Sambiki"
+  },
+  {
+    "code": "82.07.020.002",
+    "villageCode": "002",
+    "districtCode": "82.07.020",
+    "name": "Sambiki Baru",
+    "alias": "Sambiki Baru"
+  },
+  {
+    "code": "82.07.020.003",
+    "villageCode": "003",
+    "districtCode": "82.07.020",
+    "name": "Sangowo",
+    "alias": "Sangowo"
+  },
+  {
+    "code": "82.07.020.004",
+    "villageCode": "004",
+    "districtCode": "82.07.020",
+    "name": "Mira",
+    "alias": "Mira"
+  },
+  {
+    "code": "82.07.020.005",
+    "villageCode": "005",
+    "districtCode": "82.07.020",
+    "name": "Rahmat",
+    "alias": "Rahmat"
+  },
+  {
+    "code": "82.07.020.006",
+    "villageCode": "006",
+    "districtCode": "82.07.020",
+    "name": "Wewemo",
+    "alias": "Wewemo"
+  },
+  {
+    "code": "82.07.020.007",
+    "villageCode": "007",
+    "districtCode": "82.07.020",
+    "name": "Buho Buho",
+    "alias": "Buho Buho"
+  },
+  {
+    "code": "82.07.020.008",
+    "villageCode": "008",
+    "districtCode": "82.07.020",
+    "name": "Lifao",
+    "alias": "Lifao"
+  },
+  {
+    "code": "82.07.020.009",
+    "villageCode": "009",
+    "districtCode": "82.07.020",
+    "name": "Gamlamo",
+    "alias": "Gamlamo"
+  },
+  {
+    "code": "82.07.020.010",
+    "villageCode": "010",
+    "districtCode": "82.07.020",
+    "name": "Sangowo Barat",
+    "alias": "Sangowo Barat"
+  },
+  {
+    "code": "82.07.020.011",
+    "villageCode": "011",
+    "districtCode": "82.07.020",
+    "name": "Sangowo Timur",
+    "alias": "Sangowo Timur"
+  },
+  {
+    "code": "82.07.020.012",
+    "villageCode": "012",
+    "districtCode": "82.07.020",
+    "name": "Doku Mira",
+    "alias": "Doku Mira"
+  },
+  {
+    "code": "82.07.020.013",
+    "villageCode": "013",
+    "districtCode": "82.07.020",
+    "name": "Gosoma Maluku",
+    "alias": "Gosoma Maluku"
+  },
+  {
+    "code": "82.07.020.014",
+    "villageCode": "014",
+    "districtCode": "82.07.020",
+    "name": "Hino",
+    "alias": "Hino"
+  },
+  {
+    "code": "82.07.020.015",
+    "villageCode": "015",
+    "districtCode": "82.07.020",
+    "name": "Seseli Jaya",
+    "alias": "Seseli Jaya"
+  }
+]

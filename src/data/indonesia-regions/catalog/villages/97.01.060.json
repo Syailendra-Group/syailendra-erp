@@ -1,0 +1,65 @@
+[
+  {
+    "code": "97.01.060.001",
+    "villageCode": "001",
+    "districtCode": "97.01.060",
+    "name": "Urugi",
+    "alias": "Urugi"
+  },
+  {
+    "code": "97.01.060.002",
+    "villageCode": "002",
+    "districtCode": "97.01.060",
+    "name": "Rapa",
+    "alias": "Rapa"
+  },
+  {
+    "code": "97.01.060.003",
+    "villageCode": "003",
+    "districtCode": "97.01.060",
+    "name": "Tobonggom",
+    "alias": "Tobonggom"
+  },
+  {
+    "code": "97.01.060.004",
+    "villageCode": "004",
+    "districtCode": "97.01.060",
+    "name": "Sokore",
+    "alias": "Sokore"
+  },
+  {
+    "code": "97.01.060.005",
+    "villageCode": "005",
+    "districtCode": "97.01.060",
+    "name": "Tombisik",
+    "alias": "Tombisik"
+  },
+  {
+    "code": "97.01.060.006",
+    "villageCode": "006",
+    "districtCode": "97.01.060",
+    "name": "Paris",
+    "alias": "Paris"
+  },
+  {
+    "code": "97.01.060.007",
+    "villageCode": "007",
+    "districtCode": "97.01.060",
+    "name": "Simie",
+    "alias": "Simie"
+  },
+  {
+    "code": "97.01.060.008",
+    "villageCode": "008",
+    "districtCode": "97.01.060",
+    "name": "Yepma",
+    "alias": "Yepma"
+  },
+  {
+    "code": "97.01.060.009",
+    "villageCode": "009",
+    "districtCode": "97.01.060",
+    "name": "Pirim-Pirim",
+    "alias": "Pirim-Pirim"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "code": "62.04.010",
+    "districtCode": "010",
+    "regencyCode": "62.04",
+    "provinceCode": "62",
+    "name": "Kecamatan Jenamas",
+    "alias": "Jenamas"
+  },
+  {
+    "code": "62.04.020",
+    "districtCode": "020",
+    "regencyCode": "62.04",
+    "provinceCode": "62",
+    "name": "Kecamatan Dusun Hilir",
+    "alias": "Dusun Hilir"
+  },
+  {
+    "code": "62.04.030",
+    "districtCode": "030",
+    "regencyCode": "62.04",
+    "provinceCode": "62",
+    "name": "Kecamatan Karau Kuala",
+    "alias": "Karau Kuala"
+  },
+  {
+    "code": "62.04.040",
+    "districtCode": "040",
+    "regencyCode": "62.04",
+    "provinceCode": "62",
+    "name": "Kecamatan Dusun Selatan",
+    "alias": "Dusun Selatan"
+  },
+  {
+    "code": "62.04.050",
+    "districtCode": "050",
+    "regencyCode": "62.04",
+    "provinceCode": "62",
+    "name": "Kecamatan Dusun Utara",
+    "alias": "Dusun Utara"
+  },
+  {
+    "code": "62.04.060",
+    "districtCode": "060",
+    "regencyCode": "62.04",
+    "provinceCode": "62",
+    "name": "Kecamatan Gunung Bintang Awai",
+    "alias": "Gunung Bintang Awai"
+  }
+]

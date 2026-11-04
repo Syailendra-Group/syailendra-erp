@@ -7,7 +7,7 @@ import { useTranslations } from 'next-intl'
 import { DataTablePagination, DataTableSkeleton, DataTableToolbar } from '@/components/data-table'
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '@/components/ui/table'
 import { useVillage } from '@/contexts/others/village.context'
-import { useVillagesPaginatedQuery } from '@/hooks/others/use-villages'
+import { useVillageFilterOptionsQuery, useVillagesPaginatedQuery } from '@/hooks/others/use-villages'
 import { useDataTableUrlState } from '@/hooks/use-data-table-url-state'
 import { cn } from '@/lib/utils'
 
@@ -17,12 +17,12 @@ import type { VillageRecord } from '@/types/others/village'
 import type { ReactElement } from 'react'
 
 export interface VillagesTableProps {
-  onArchive: (item: VillageRecord) => void
+  onArchive?: (item: VillageRecord) => void
 }
 
-const FILTER_KEYS = ['active']
+const FILTER_KEYS = ['scope', 'country', 'province', 'city', 'district']
 
-export function VillagesTable({ onArchive }: VillagesTableProps): ReactElement {
+export function VillagesTable(): ReactElement {
   const t = useTranslations('regional.villages')
   const tCommon = useTranslations('common')
   const { setOpen, setCurrentRow } = useVillage()
@@ -48,8 +48,16 @@ export function VillagesTable({ onArchive }: VillagesTableProps): ReactElement {
     filterKeys: FILTER_KEYS
   })
 
-  // 2. Fetch paginated data from Odoo
-  const statusList = getArrayFilter('status')
+  // 2. Fetch system filter options (hierarchy existing in Odoo)
+  const { data: filterOptions } = useVillageFilterOptionsQuery()
+
+  const scopeFilter = getArrayFilter('scope')
+  const countryFilter = getArrayFilter('country')
+  const provinceFilter = getArrayFilter('province')
+  const cityFilter = getArrayFilter('city')
+  const districtFilter = getArrayFilter('district')
+
+  // 3. Fetch paginated data from Odoo
   const {
     data: result,
     isLoading,
@@ -58,7 +66,11 @@ export function VillagesTable({ onArchive }: VillagesTableProps): ReactElement {
     page,
     perPage,
     search,
-    status: statusList.length > 0 ? statusList : undefined,
+    scope: scopeFilter.length > 0 ? scopeFilter : undefined,
+    countryId: countryFilter.length > 0 ? countryFilter : undefined,
+    stateId: provinceFilter.length > 0 ? provinceFilter : undefined,
+    cityId: cityFilter.length > 0 ? cityFilter : undefined,
+    districtId: districtFilter.length > 0 ? districtFilter : undefined,
     order: orderOdoo
   })
 
@@ -77,13 +89,12 @@ export function VillagesTable({ onArchive }: VillagesTableProps): ReactElement {
         onEdit: (item: VillageRecord) => {
           setCurrentRow(item)
           setOpen('edit')
-        },
-        onArchive
+        }
       }),
-    [t, tCommon, onArchive, setCurrentRow, setOpen]
+    [t, tCommon, setCurrentRow, setOpen]
   )
 
-  // 3. TanStack Table Instance
+  // 4. TanStack Table Instance
   const table = useReactTable({
     data: records,
     columns,
@@ -104,12 +115,29 @@ export function VillagesTable({ onArchive }: VillagesTableProps): ReactElement {
     getCoreRowModel: getCoreRowModel()
   })
 
-  const statusFilterOptions = useMemo(
+  const scopeOptions = useMemo(
     () => [
-      { label: tCommon('status.active'), value: 'true' },
-      { label: tCommon('status.archived'), value: 'false' }
+      { label: 'Indonesia (Domestik)', value: 'domestic' },
+      { label: 'Luar Negeri (Internasional)', value: 'foreign' }
     ],
-    [tCommon]
+    []
+  )
+
+  const countryFilterOptions = useMemo(
+    () => (filterOptions?.countries || []).map((c) => ({ label: c.name, value: String(c.id) })),
+    [filterOptions?.countries]
+  )
+
+  const provinceFilterOptions = useMemo(
+    () => (filterOptions?.states || []).map((s) => ({ label: s.name, value: String(s.id) })),
+    [filterOptions?.states]
+  )
+
+  const cityFilterOptions = useMemo(() => (filterOptions?.cities || []).map((c) => ({ label: c.name, value: String(c.id) })), [filterOptions?.cities])
+
+  const districtFilterOptions = useMemo(
+    () => (filterOptions?.districts || []).map((d) => ({ label: d.name, value: String(d.id) })),
+    [filterOptions?.districts]
   )
 
   const showSkeleton = isLoading || (isFetching && records.length === 0)
@@ -123,10 +151,14 @@ export function VillagesTable({ onArchive }: VillagesTableProps): ReactElement {
         onReset={resetFilters}
         filters={[
           {
-            columnId: 'active',
-            title: tCommon('status.title') || 'Status',
-            options: statusFilterOptions
-          }
+            columnId: 'scope',
+            title: 'Cakupan Wilayah',
+            options: scopeOptions
+          },
+          ...(countryFilterOptions.length > 0 ? [{ columnId: 'country', title: 'Negara', options: countryFilterOptions }] : []),
+          ...(provinceFilterOptions.length > 0 ? [{ columnId: 'province', title: 'Provinsi', options: provinceFilterOptions }] : []),
+          ...(cityFilterOptions.length > 0 ? [{ columnId: 'city', title: 'Kabupaten/Kota', options: cityFilterOptions }] : []),
+          ...(districtFilterOptions.length > 0 ? [{ columnId: 'district', title: 'Kecamatan', options: districtFilterOptions }] : [])
         ]}
       />
 

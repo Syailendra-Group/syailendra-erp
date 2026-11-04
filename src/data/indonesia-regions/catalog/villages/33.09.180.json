@@ -1,0 +1,79 @@
+[
+  {
+    "code": "33.09.180.002",
+    "villageCode": "002",
+    "districtCode": "33.09.180",
+    "name": "Karangjati",
+    "alias": "Karangjati"
+  },
+  {
+    "code": "33.09.180.003",
+    "villageCode": "003",
+    "districtCode": "33.09.180",
+    "name": "Ketoyan",
+    "alias": "Ketoyan"
+  },
+  {
+    "code": "33.09.180.004",
+    "villageCode": "004",
+    "districtCode": "33.09.180",
+    "name": "Bolo",
+    "alias": "Bolo"
+  },
+  {
+    "code": "33.09.180.005",
+    "villageCode": "005",
+    "districtCode": "33.09.180",
+    "name": "Wonosegoro",
+    "alias": "Wonosegoro"
+  },
+  {
+    "code": "33.09.180.006",
+    "villageCode": "006",
+    "districtCode": "33.09.180",
+    "name": "Bandung",
+    "alias": "Bandung"
+  },
+  {
+    "code": "33.09.180.012",
+    "villageCode": "012",
+    "districtCode": "33.09.180",
+    "name": "Gosono",
+    "alias": "Gosono"
+  },
+  {
+    "code": "33.09.180.013",
+    "villageCode": "013",
+    "districtCode": "33.09.180",
+    "name": "Banyusri",
+    "alias": "Banyusri"
+  },
+  {
+    "code": "33.09.180.014",
+    "villageCode": "014",
+    "districtCode": "33.09.180",
+    "name": "Bojong",
+    "alias": "Bojong"
+  },
+  {
+    "code": "33.09.180.015",
+    "villageCode": "015",
+    "districtCode": "33.09.180",
+    "name": "Kauman",
+    "alias": "Kauman"
+  },
+  {
+    "code": "33.09.180.016",
+    "villageCode": "016",
+    "districtCode": "33.09.180",
+    "name": "Lemahireng",
+    "alias": "Lemahireng"
+  },
+  {
+    "code": "33.09.180.017",
+    "villageCode": "017",
+    "districtCode": "33.09.180",
+    "name": "Guwo",
+    "alias": "Guwo"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "code": "95.04.073.001",
+    "villageCode": "001",
+    "districtCode": "95.04.073",
+    "name": "Yeni",
+    "alias": "Yeni"
+  },
+  {
+    "code": "95.04.073.002",
+    "villageCode": "002",
+    "districtCode": "95.04.073",
+    "name": "Yamas",
+    "alias": "Yamas"
+  },
+  {
+    "code": "95.04.073.003",
+    "villageCode": "003",
+    "districtCode": "95.04.073",
+    "name": "Omor",
+    "alias": "Omor"
+  },
+  {
+    "code": "95.04.073.004",
+    "villageCode": "004",
+    "districtCode": "95.04.073",
+    "name": "Onavai",
+    "alias": "Onavai"
+  },
+  {
+    "code": "95.04.073.005",
+    "villageCode": "005",
+    "districtCode": "95.04.073",
+    "name": "Yufri",
+    "alias": "Yufri"
+  },
+  {
+    "code": "95.04.073.006",
+    "villageCode": "006",
+    "districtCode": "95.04.073",
+    "name": "Yaun",
+    "alias": "Yaun"
+  }
+]

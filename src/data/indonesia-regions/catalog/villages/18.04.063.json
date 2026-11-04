@@ -1,0 +1,58 @@
+[
+  {
+    "code": "18.04.063.001",
+    "villageCode": "001",
+    "districtCode": "18.04.063",
+    "name": "Bungkuk",
+    "alias": "Bungkuk"
+  },
+  {
+    "code": "18.04.063.002",
+    "villageCode": "002",
+    "districtCode": "18.04.063",
+    "name": "Giri Mulyo",
+    "alias": "Giri Mulyo"
+  },
+  {
+    "code": "18.04.063.003",
+    "villageCode": "003",
+    "districtCode": "18.04.063",
+    "name": "Gunung Mas",
+    "alias": "Gunung Mas"
+  },
+  {
+    "code": "18.04.063.004",
+    "villageCode": "004",
+    "districtCode": "18.04.063",
+    "name": "Batu Badak",
+    "alias": "Batu Badak"
+  },
+  {
+    "code": "18.04.063.005",
+    "villageCode": "005",
+    "districtCode": "18.04.063",
+    "name": "Peniangan",
+    "alias": "Peniangan"
+  },
+  {
+    "code": "18.04.063.006",
+    "villageCode": "006",
+    "districtCode": "18.04.063",
+    "name": "Purwosari",
+    "alias": "Purwosari"
+  },
+  {
+    "code": "18.04.063.007",
+    "villageCode": "007",
+    "districtCode": "18.04.063",
+    "name": "Gunung Raya",
+    "alias": "Gunung Raya"
+  },
+  {
+    "code": "18.04.063.008",
+    "villageCode": "008",
+    "districtCode": "18.04.063",
+    "name": "Bukit Raya",
+    "alias": "Bukit Raya"
+  }
+]

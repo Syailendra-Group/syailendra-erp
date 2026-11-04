@@ -1,0 +1,72 @@
+[
+  {
+    "code": "35.29.210.001",
+    "villageCode": "001",
+    "districtCode": "35.29.210",
+    "name": "Gayam",
+    "alias": "Gayam"
+  },
+  {
+    "code": "35.29.210.002",
+    "villageCode": "002",
+    "districtCode": "35.29.210",
+    "name": "Jambuir",
+    "alias": "Jambuir"
+  },
+  {
+    "code": "35.29.210.003",
+    "villageCode": "003",
+    "districtCode": "35.29.210",
+    "name": "Pancor",
+    "alias": "Pancor"
+  },
+  {
+    "code": "35.29.210.004",
+    "villageCode": "004",
+    "districtCode": "35.29.210",
+    "name": "Prambanan",
+    "alias": "Prambanan"
+  },
+  {
+    "code": "35.29.210.005",
+    "villageCode": "005",
+    "districtCode": "35.29.210",
+    "name": "Gendang Timur",
+    "alias": "Gendang Timur"
+  },
+  {
+    "code": "35.29.210.006",
+    "villageCode": "006",
+    "districtCode": "35.29.210",
+    "name": "Karangtengah",
+    "alias": "Karangtengah"
+  },
+  {
+    "code": "35.29.210.007",
+    "villageCode": "007",
+    "districtCode": "35.29.210",
+    "name": "Nyamplong",
+    "alias": "Nyamplong"
+  },
+  {
+    "code": "35.29.210.008",
+    "villageCode": "008",
+    "districtCode": "35.29.210",
+    "name": "Gendang Barat",
+    "alias": "Gendang Barat"
+  },
+  {
+    "code": "35.29.210.009",
+    "villageCode": "009",
+    "districtCode": "35.29.210",
+    "name": "Kalowang",
+    "alias": "Kalowang"
+  },
+  {
+    "code": "35.29.210.010",
+    "villageCode": "010",
+    "districtCode": "35.29.210",
+    "name": "Tarebung",
+    "alias": "Tarebung"
+  }
+]

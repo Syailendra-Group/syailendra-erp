@@ -1,0 +1,58 @@
+[
+  {
+    "code": "16.12.030.001",
+    "villageCode": "001",
+    "districtCode": "16.12.030",
+    "name": "Pengabuan",
+    "alias": "Pengabuan"
+  },
+  {
+    "code": "16.12.030.002",
+    "villageCode": "002",
+    "districtCode": "16.12.030",
+    "name": "Pengabuan Timur",
+    "alias": "Pengabuan Timur"
+  },
+  {
+    "code": "16.12.030.003",
+    "villageCode": "003",
+    "districtCode": "16.12.030",
+    "name": "Prambatan",
+    "alias": "Prambatan"
+  },
+  {
+    "code": "16.12.030.004",
+    "villageCode": "004",
+    "districtCode": "16.12.030",
+    "name": "Betung",
+    "alias": "Betung"
+  },
+  {
+    "code": "16.12.030.005",
+    "villageCode": "005",
+    "districtCode": "16.12.030",
+    "name": "Betung Selatan",
+    "alias": "Betung Selatan"
+  },
+  {
+    "code": "16.12.030.006",
+    "villageCode": "006",
+    "districtCode": "16.12.030",
+    "name": "Betung Barat",
+    "alias": "Betung Barat"
+  },
+  {
+    "code": "16.12.030.007",
+    "villageCode": "007",
+    "districtCode": "16.12.030",
+    "name": "Karang Agung",
+    "alias": "Karang Agung"
+  },
+  {
+    "code": "16.12.030.008",
+    "villageCode": "008",
+    "districtCode": "16.12.030",
+    "name": "Tanjung Kurung",
+    "alias": "Tanjung Kurung"
+  }
+]

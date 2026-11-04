@@ -1,0 +1,72 @@
+[
+  {
+    "code": "72.10.150.001",
+    "villageCode": "001",
+    "districtCode": "72.10.150",
+    "name": "Rondingo",
+    "alias": "Rondingo"
+  },
+  {
+    "code": "72.10.150.002",
+    "villageCode": "002",
+    "districtCode": "72.10.150",
+    "name": "Pobolobia",
+    "alias": "Pobolobia"
+  },
+  {
+    "code": "72.10.150.003",
+    "villageCode": "003",
+    "districtCode": "72.10.150",
+    "name": "Uwemanje",
+    "alias": "Uwemanje"
+  },
+  {
+    "code": "72.10.150.004",
+    "villageCode": "004",
+    "districtCode": "72.10.150",
+    "name": "Porame",
+    "alias": "Porame"
+  },
+  {
+    "code": "72.10.150.005",
+    "villageCode": "005",
+    "districtCode": "72.10.150",
+    "name": "Balane",
+    "alias": "Balane"
+  },
+  {
+    "code": "72.10.150.006",
+    "villageCode": "006",
+    "districtCode": "72.10.150",
+    "name": "Doda",
+    "alias": "Doda"
+  },
+  {
+    "code": "72.10.150.007",
+    "villageCode": "007",
+    "districtCode": "72.10.150",
+    "name": "Daenggune",
+    "alias": "Daenggune"
+  },
+  {
+    "code": "72.10.150.008",
+    "villageCode": "008",
+    "districtCode": "72.10.150",
+    "name": "Kanuna",
+    "alias": "Kanuna"
+  },
+  {
+    "code": "72.10.150.009",
+    "villageCode": "009",
+    "districtCode": "72.10.150",
+    "name": "Kalora",
+    "alias": "Kalora"
+  },
+  {
+    "code": "72.10.150.010",
+    "villageCode": "010",
+    "districtCode": "72.10.150",
+    "name": "Kayumpia",
+    "alias": "Kayumpia"
+  }
+]

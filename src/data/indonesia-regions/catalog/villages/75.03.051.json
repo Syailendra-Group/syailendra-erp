@@ -1,0 +1,37 @@
+[
+  {
+    "code": "75.03.051.001",
+    "villageCode": "001",
+    "districtCode": "75.03.051",
+    "name": "Popaya",
+    "alias": "Popaya"
+  },
+  {
+    "code": "75.03.051.002",
+    "villageCode": "002",
+    "districtCode": "75.03.051",
+    "name": "Padengo",
+    "alias": "Padengo"
+  },
+  {
+    "code": "75.03.051.003",
+    "villageCode": "003",
+    "districtCode": "75.03.051",
+    "name": "Karangetang",
+    "alias": "Karangetang"
+  },
+  {
+    "code": "75.03.051.004",
+    "villageCode": "004",
+    "districtCode": "75.03.051",
+    "name": "Karya Baru",
+    "alias": "Karya Baru"
+  },
+  {
+    "code": "75.03.051.005",
+    "villageCode": "005",
+    "districtCode": "75.03.051",
+    "name": "Huta Moputi",
+    "alias": "Huta Moputi"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "code": "73.73.031.006",
+    "villageCode": "006",
+    "districtCode": "73.73.031",
+    "name": "Rampoang",
+    "alias": "Rampoang"
+  },
+  {
+    "code": "73.73.031.007",
+    "villageCode": "007",
+    "districtCode": "73.73.031",
+    "name": "Temmalebba",
+    "alias": "Temmalebba"
+  },
+  {
+    "code": "73.73.031.008",
+    "villageCode": "008",
+    "districtCode": "73.73.031",
+    "name": "Balandai",
+    "alias": "Balandai"
+  },
+  {
+    "code": "73.73.031.009",
+    "villageCode": "009",
+    "districtCode": "73.73.031",
+    "name": "To Bulung",
+    "alias": "To Bulung"
+  },
+  {
+    "code": "73.73.031.010",
+    "villageCode": "010",
+    "districtCode": "73.73.031",
+    "name": "Buntu Datu",
+    "alias": "Buntu Datu"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "code": "82.08.010",
+    "districtCode": "010",
+    "regencyCode": "82.08",
+    "provinceCode": "82",
+    "name": "Kecamatan Taliabu Barat",
+    "alias": "Taliabu Barat"
+  },
+  {
+    "code": "82.08.020",
+    "districtCode": "020",
+    "regencyCode": "82.08",
+    "provinceCode": "82",
+    "name": "Kecamatan Taliabu Selatan",
+    "alias": "Taliabu Selatan"
+  },
+  {
+    "code": "82.08.030",
+    "districtCode": "030",
+    "regencyCode": "82.08",
+    "provinceCode": "82",
+    "name": "Kecamatan Tabona",
+    "alias": "Tabona"
+  },
+  {
+    "code": "82.08.040",
+    "districtCode": "040",
+    "regencyCode": "82.08",
+    "provinceCode": "82",
+    "name": "Kecamatan Taliabu Timur Selatan",
+    "alias": "Taliabu Timur Selatan"
+  },
+  {
+    "code": "82.08.050",
+    "districtCode": "050",
+    "regencyCode": "82.08",
+    "provinceCode": "82",
+    "name": "Kecamatan Taliabu Timur",
+    "alias": "Taliabu Timur"
+  },
+  {
+    "code": "82.08.060",
+    "districtCode": "060",
+    "regencyCode": "82.08",
+    "provinceCode": "82",
+    "name": "Kecamatan Taliabu Utara",
+    "alias": "Taliabu Utara"
+  },
+  {
+    "code": "82.08.070",
+    "districtCode": "070",
+    "regencyCode": "82.08",
+    "provinceCode": "82",
+    "name": "Kecamatan Lede",
+    "alias": "Lede"
+  },
+  {
+    "code": "82.08.080",
+    "districtCode": "080",
+    "regencyCode": "82.08",
+    "provinceCode": "82",
+    "name": "Kecamatan Taliabu Barat Laut",
+    "alias": "Taliabu Barat Laut"
+  }
+]

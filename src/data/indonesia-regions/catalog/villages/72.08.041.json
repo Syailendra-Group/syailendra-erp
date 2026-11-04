@@ -1,0 +1,142 @@
+[
+  {
+    "code": "72.08.041.001",
+    "villageCode": "001",
+    "districtCode": "72.08.041",
+    "name": "Tada",
+    "alias": "Tada"
+  },
+  {
+    "code": "72.08.041.002",
+    "villageCode": "002",
+    "districtCode": "72.08.041",
+    "name": "Sinei",
+    "alias": "Sinei"
+  },
+  {
+    "code": "72.08.041.003",
+    "villageCode": "003",
+    "districtCode": "72.08.041",
+    "name": "Maninili",
+    "alias": "Maninili"
+  },
+  {
+    "code": "72.08.041.004",
+    "villageCode": "004",
+    "districtCode": "72.08.041",
+    "name": "Sigenti",
+    "alias": "Sigenti"
+  },
+  {
+    "code": "72.08.041.005",
+    "villageCode": "005",
+    "districtCode": "72.08.041",
+    "name": "Malanggo",
+    "alias": "Malanggo"
+  },
+  {
+    "code": "72.08.041.006",
+    "villageCode": "006",
+    "districtCode": "72.08.041",
+    "name": "Silutung",
+    "alias": "Silutung"
+  },
+  {
+    "code": "72.08.041.007",
+    "villageCode": "007",
+    "districtCode": "72.08.041",
+    "name": "Tada Selatan",
+    "alias": "Tada Selatan"
+  },
+  {
+    "code": "72.08.041.008",
+    "villageCode": "008",
+    "districtCode": "72.08.041",
+    "name": "Siaga",
+    "alias": "Siaga"
+  },
+  {
+    "code": "72.08.041.009",
+    "villageCode": "009",
+    "districtCode": "72.08.041",
+    "name": "Sigega Bersehati",
+    "alias": "Sigega Bersehati"
+  },
+  {
+    "code": "72.08.041.010",
+    "villageCode": "010",
+    "districtCode": "72.08.041",
+    "name": "Khatulistiwa",
+    "alias": "Khatulistiwa"
+  },
+  {
+    "code": "72.08.041.011",
+    "villageCode": "011",
+    "districtCode": "72.08.041",
+    "name": "Poly",
+    "alias": "Poly"
+  },
+  {
+    "code": "72.08.041.012",
+    "villageCode": "012",
+    "districtCode": "72.08.041",
+    "name": "Sigenti Selatan",
+    "alias": "Sigenti Selatan"
+  },
+  {
+    "code": "72.08.041.013",
+    "villageCode": "013",
+    "districtCode": "72.08.041",
+    "name": "Tada Timur",
+    "alias": "Tada Timur"
+  },
+  {
+    "code": "72.08.041.014",
+    "villageCode": "014",
+    "districtCode": "72.08.041",
+    "name": "Sigenti Barat",
+    "alias": "Sigenti Barat"
+  },
+  {
+    "code": "72.08.041.015",
+    "villageCode": "015",
+    "districtCode": "72.08.041",
+    "name": "Malanggo Pesisir",
+    "alias": "Malanggo Pesisir"
+  },
+  {
+    "code": "72.08.041.016",
+    "villageCode": "016",
+    "districtCode": "72.08.041",
+    "name": "Tada Utara",
+    "alias": "Tada Utara"
+  },
+  {
+    "code": "72.08.041.017",
+    "villageCode": "017",
+    "districtCode": "72.08.041",
+    "name": "Siney Tengah",
+    "alias": "Siney Tengah"
+  },
+  {
+    "code": "72.08.041.018",
+    "villageCode": "018",
+    "districtCode": "72.08.041",
+    "name": "Maninili Utara",
+    "alias": "Maninili Utara"
+  },
+  {
+    "code": "72.08.041.019",
+    "villageCode": "019",
+    "districtCode": "72.08.041",
+    "name": "Maninili Barat",
+    "alias": "Maninili Barat"
+  },
+  {
+    "code": "72.08.041.020",
+    "villageCode": "020",
+    "districtCode": "72.08.041",
+    "name": "Oncone Raya",
+    "alias": "Oncone Raya"
+  }
+]

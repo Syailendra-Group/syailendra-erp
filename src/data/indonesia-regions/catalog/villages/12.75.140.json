@@ -1,0 +1,44 @@
+[
+  {
+    "code": "12.75.140.001",
+    "villageCode": "001",
+    "districtCode": "12.75.140",
+    "name": "Kesawan",
+    "alias": "Kesawan"
+  },
+  {
+    "code": "12.75.140.002",
+    "villageCode": "002",
+    "districtCode": "12.75.140",
+    "name": "Silalas",
+    "alias": "Silalas"
+  },
+  {
+    "code": "12.75.140.003",
+    "villageCode": "003",
+    "districtCode": "12.75.140",
+    "name": "Sei Agul",
+    "alias": "Sei Agul"
+  },
+  {
+    "code": "12.75.140.004",
+    "villageCode": "004",
+    "districtCode": "12.75.140",
+    "name": "Karang Berombak",
+    "alias": "Karang Berombak"
+  },
+  {
+    "code": "12.75.140.005",
+    "villageCode": "005",
+    "districtCode": "12.75.140",
+    "name": "Glugur Kota",
+    "alias": "Glugur Kota"
+  },
+  {
+    "code": "12.75.140.006",
+    "villageCode": "006",
+    "districtCode": "12.75.140",
+    "name": "Pulo Brayan Kota",
+    "alias": "Pulo Brayan Kota"
+  }
+]

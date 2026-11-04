@@ -1,0 +1,72 @@
+[
+  {
+    "code": "32.09.151.001",
+    "villageCode": "001",
+    "districtCode": "32.09.151",
+    "name": "Panembahan",
+    "alias": "Panembahan"
+  },
+  {
+    "code": "32.09.151.002",
+    "villageCode": "002",
+    "districtCode": "32.09.151",
+    "name": "Trusmi Wetan",
+    "alias": "Trusmi Wetan"
+  },
+  {
+    "code": "32.09.151.003",
+    "villageCode": "003",
+    "districtCode": "32.09.151",
+    "name": "Trusmi Kulon",
+    "alias": "Trusmi Kulon"
+  },
+  {
+    "code": "32.09.151.004",
+    "villageCode": "004",
+    "districtCode": "32.09.151",
+    "name": "Sarabau",
+    "alias": "Sarabau"
+  },
+  {
+    "code": "32.09.151.005",
+    "villageCode": "005",
+    "districtCode": "32.09.151",
+    "name": "Gamel",
+    "alias": "Gamel"
+  },
+  {
+    "code": "32.09.151.006",
+    "villageCode": "006",
+    "districtCode": "32.09.151",
+    "name": "Wotgali",
+    "alias": "Wotgali"
+  },
+  {
+    "code": "32.09.151.007",
+    "villageCode": "007",
+    "districtCode": "32.09.151",
+    "name": "Kaliwulu",
+    "alias": "Kaliwulu"
+  },
+  {
+    "code": "32.09.151.008",
+    "villageCode": "008",
+    "districtCode": "32.09.151",
+    "name": "Tegalsari",
+    "alias": "Tegalsari"
+  },
+  {
+    "code": "32.09.151.009",
+    "villageCode": "009",
+    "districtCode": "32.09.151",
+    "name": "Cangkring",
+    "alias": "Cangkring"
+  },
+  {
+    "code": "32.09.151.010",
+    "villageCode": "010",
+    "districtCode": "32.09.151",
+    "name": "Pangkalan",
+    "alias": "Pangkalan"
+  }
+]

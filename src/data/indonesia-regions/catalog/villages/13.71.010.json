@@ -1,0 +1,44 @@
+[
+  {
+    "code": "13.71.010.001",
+    "villageCode": "001",
+    "districtCode": "13.71.010",
+    "name": "Teluk Kabung Selatan",
+    "alias": "Teluk Kabung Selatan"
+  },
+  {
+    "code": "13.71.010.007",
+    "villageCode": "007",
+    "districtCode": "13.71.010",
+    "name": "Bungus Selatan",
+    "alias": "Bungus Selatan"
+  },
+  {
+    "code": "13.71.010.014",
+    "villageCode": "014",
+    "districtCode": "13.71.010",
+    "name": "Teluk Kabung Tengah",
+    "alias": "Teluk Kabung Tengah"
+  },
+  {
+    "code": "13.71.010.015",
+    "villageCode": "015",
+    "districtCode": "13.71.010",
+    "name": "Teluk Kabung Utara",
+    "alias": "Teluk Kabung Utara"
+  },
+  {
+    "code": "13.71.010.016",
+    "villageCode": "016",
+    "districtCode": "13.71.010",
+    "name": "Bungus Timur",
+    "alias": "Bungus Timur"
+  },
+  {
+    "code": "13.71.010.017",
+    "villageCode": "017",
+    "districtCode": "13.71.010",
+    "name": "Bungus Barat",
+    "alias": "Bungus Barat"
+  }
+]

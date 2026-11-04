@@ -1,0 +1,51 @@
+[
+  {
+    "code": "15.06.020.003",
+    "villageCode": "003",
+    "districtCode": "15.06.020",
+    "name": "Catur Rahayu",
+    "alias": "Catur Rahayu"
+  },
+  {
+    "code": "15.06.020.004",
+    "villageCode": "004",
+    "districtCode": "15.06.020",
+    "name": "Jati Mulyo",
+    "alias": "Jati Mulyo"
+  },
+  {
+    "code": "15.06.020.005",
+    "villageCode": "005",
+    "districtCode": "15.06.020",
+    "name": "Sido Mukti",
+    "alias": "Sido Mukti"
+  },
+  {
+    "code": "15.06.020.006",
+    "villageCode": "006",
+    "districtCode": "15.06.020",
+    "name": "Kuala Dendang",
+    "alias": "Kuala Dendang"
+  },
+  {
+    "code": "15.06.020.007",
+    "villageCode": "007",
+    "districtCode": "15.06.020",
+    "name": "Rantau Indah",
+    "alias": "Rantau Indah"
+  },
+  {
+    "code": "15.06.020.008",
+    "villageCode": "008",
+    "districtCode": "15.06.020",
+    "name": "Koto Kandis Dendang",
+    "alias": "Koto Kandis Dendang"
+  },
+  {
+    "code": "15.06.020.009",
+    "villageCode": "009",
+    "districtCode": "15.06.020",
+    "name": "Koto Kandis",
+    "alias": "Koto Kandis"
+  }
+]

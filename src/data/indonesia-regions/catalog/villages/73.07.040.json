@@ -1,0 +1,79 @@
+[
+  {
+    "code": "73.07.040.001",
+    "villageCode": "001",
+    "districtCode": "73.07.040",
+    "name": "Kalobba",
+    "alias": "Kalobba"
+  },
+  {
+    "code": "73.07.040.002",
+    "villageCode": "002",
+    "districtCode": "73.07.040",
+    "name": "Mannanti",
+    "alias": "Mannanti"
+  },
+  {
+    "code": "73.07.040.003",
+    "villageCode": "003",
+    "districtCode": "73.07.040",
+    "name": "Tellu Limpoe",
+    "alias": "Tellu Limpoe"
+  },
+  {
+    "code": "73.07.040.004",
+    "villageCode": "004",
+    "districtCode": "73.07.040",
+    "name": "Erabaru",
+    "alias": "Erabaru"
+  },
+  {
+    "code": "73.07.040.005",
+    "villageCode": "005",
+    "districtCode": "73.07.040",
+    "name": "Pattongko",
+    "alias": "Pattongko"
+  },
+  {
+    "code": "73.07.040.006",
+    "villageCode": "006",
+    "districtCode": "73.07.040",
+    "name": "Bua",
+    "alias": "Bua"
+  },
+  {
+    "code": "73.07.040.007",
+    "villageCode": "007",
+    "districtCode": "73.07.040",
+    "name": "Sukamaju",
+    "alias": "Sukamaju"
+  },
+  {
+    "code": "73.07.040.008",
+    "villageCode": "008",
+    "districtCode": "73.07.040",
+    "name": "Lembang Lohe",
+    "alias": "Lembang Lohe"
+  },
+  {
+    "code": "73.07.040.009",
+    "villageCode": "009",
+    "districtCode": "73.07.040",
+    "name": "Saotengah",
+    "alias": "Saotengah"
+  },
+  {
+    "code": "73.07.040.010",
+    "villageCode": "010",
+    "districtCode": "73.07.040",
+    "name": "Massaile",
+    "alias": "Massaile"
+  },
+  {
+    "code": "73.07.040.011",
+    "villageCode": "011",
+    "districtCode": "73.07.040",
+    "name": "Samaturue",
+    "alias": "Samaturue"
+  }
+]

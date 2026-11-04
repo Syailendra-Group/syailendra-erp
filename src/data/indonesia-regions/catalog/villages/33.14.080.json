@@ -1,0 +1,58 @@
+[
+  {
+    "code": "33.14.080.001",
+    "villageCode": "001",
+    "districtCode": "33.14.080",
+    "name": "Pilangsari",
+    "alias": "Pilangsari"
+  },
+  {
+    "code": "33.14.080.002",
+    "villageCode": "002",
+    "districtCode": "33.14.080",
+    "name": "Ngarum",
+    "alias": "Ngarum"
+  },
+  {
+    "code": "33.14.080.003",
+    "villageCode": "003",
+    "districtCode": "33.14.080",
+    "name": "Bener",
+    "alias": "Bener"
+  },
+  {
+    "code": "33.14.080.004",
+    "villageCode": "004",
+    "districtCode": "33.14.080",
+    "name": "Kebonromo",
+    "alias": "Kebonromo"
+  },
+  {
+    "code": "33.14.080.005",
+    "villageCode": "005",
+    "districtCode": "33.14.080",
+    "name": "Bandung",
+    "alias": "Bandung"
+  },
+  {
+    "code": "33.14.080.006",
+    "villageCode": "006",
+    "districtCode": "33.14.080",
+    "name": "Gabus",
+    "alias": "Gabus"
+  },
+  {
+    "code": "33.14.080.007",
+    "villageCode": "007",
+    "districtCode": "33.14.080",
+    "name": "Karangudi",
+    "alias": "Karangudi"
+  },
+  {
+    "code": "33.14.080.008",
+    "villageCode": "008",
+    "districtCode": "33.14.080",
+    "name": "Klandungan",
+    "alias": "Klandungan"
+  }
+]

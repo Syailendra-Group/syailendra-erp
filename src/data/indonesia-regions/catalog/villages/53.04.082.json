@@ -1,0 +1,51 @@
+[
+  {
+    "code": "53.04.082.001",
+    "villageCode": "001",
+    "districtCode": "53.04.082",
+    "name": "Fatukopa",
+    "alias": "Fatukopa"
+  },
+  {
+    "code": "53.04.082.002",
+    "villageCode": "002",
+    "districtCode": "53.04.082",
+    "name": "Besnam",
+    "alias": "Besnam"
+  },
+  {
+    "code": "53.04.082.003",
+    "villageCode": "003",
+    "districtCode": "53.04.082",
+    "name": "Taebone",
+    "alias": "Taebone"
+  },
+  {
+    "code": "53.04.082.004",
+    "villageCode": "004",
+    "districtCode": "53.04.082",
+    "name": "Nunfutu",
+    "alias": "Nunfutu"
+  },
+  {
+    "code": "53.04.082.005",
+    "villageCode": "005",
+    "districtCode": "53.04.082",
+    "name": "Nifulinah",
+    "alias": "Nifulinah"
+  },
+  {
+    "code": "53.04.082.006",
+    "villageCode": "006",
+    "districtCode": "53.04.082",
+    "name": "Elo",
+    "alias": "Elo"
+  },
+  {
+    "code": "53.04.082.007",
+    "villageCode": "007",
+    "districtCode": "53.04.082",
+    "name": "Kiki",
+    "alias": "Kiki"
+  }
+]

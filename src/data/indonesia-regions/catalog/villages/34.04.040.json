@@ -1,0 +1,51 @@
+[
+  {
+    "code": "34.04.040.001",
+    "villageCode": "001",
+    "districtCode": "34.04.040",
+    "name": "Sidorejo",
+    "alias": "Sidorejo"
+  },
+  {
+    "code": "34.04.040.002",
+    "villageCode": "002",
+    "districtCode": "34.04.040",
+    "name": "Sidoluhur",
+    "alias": "Sidoluhur"
+  },
+  {
+    "code": "34.04.040.003",
+    "villageCode": "003",
+    "districtCode": "34.04.040",
+    "name": "Sidomulyo",
+    "alias": "Sidomulyo"
+  },
+  {
+    "code": "34.04.040.004",
+    "villageCode": "004",
+    "districtCode": "34.04.040",
+    "name": "Sidoagung",
+    "alias": "Sidoagung"
+  },
+  {
+    "code": "34.04.040.005",
+    "villageCode": "005",
+    "districtCode": "34.04.040",
+    "name": "Sidokarto",
+    "alias": "Sidokarto"
+  },
+  {
+    "code": "34.04.040.006",
+    "villageCode": "006",
+    "districtCode": "34.04.040",
+    "name": "Sidoarum",
+    "alias": "Sidoarum"
+  },
+  {
+    "code": "34.04.040.007",
+    "villageCode": "007",
+    "districtCode": "34.04.040",
+    "name": "Sidomoyo",
+    "alias": "Sidomoyo"
+  }
+]

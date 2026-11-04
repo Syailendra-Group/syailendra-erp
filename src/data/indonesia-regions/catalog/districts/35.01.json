@@ -1,0 +1,98 @@
+[
+  {
+    "code": "35.01.010",
+    "districtCode": "010",
+    "regencyCode": "35.01",
+    "provinceCode": "35",
+    "name": "Kecamatan Donorojo",
+    "alias": "Donorojo"
+  },
+  {
+    "code": "35.01.020",
+    "districtCode": "020",
+    "regencyCode": "35.01",
+    "provinceCode": "35",
+    "name": "Kecamatan Punung",
+    "alias": "Punung"
+  },
+  {
+    "code": "35.01.030",
+    "districtCode": "030",
+    "regencyCode": "35.01",
+    "provinceCode": "35",
+    "name": "Kecamatan Pringkuku",
+    "alias": "Pringkuku"
+  },
+  {
+    "code": "35.01.040",
+    "districtCode": "040",
+    "regencyCode": "35.01",
+    "provinceCode": "35",
+    "name": "Kecamatan Pacitan",
+    "alias": "Pacitan"
+  },
+  {
+    "code": "35.01.050",
+    "districtCode": "050",
+    "regencyCode": "35.01",
+    "provinceCode": "35",
+    "name": "Kecamatan Kebonagung",
+    "alias": "Kebonagung"
+  },
+  {
+    "code": "35.01.060",
+    "districtCode": "060",
+    "regencyCode": "35.01",
+    "provinceCode": "35",
+    "name": "Kecamatan Arjosari",
+    "alias": "Arjosari"
+  },
+  {
+    "code": "35.01.070",
+    "districtCode": "070",
+    "regencyCode": "35.01",
+    "provinceCode": "35",
+    "name": "Kecamatan Nawangan",
+    "alias": "Nawangan"
+  },
+  {
+    "code": "35.01.080",
+    "districtCode": "080",
+    "regencyCode": "35.01",
+    "provinceCode": "35",
+    "name": "Kecamatan Bandar",
+    "alias": "Bandar"
+  },
+  {
+    "code": "35.01.090",
+    "districtCode": "090",
+    "regencyCode": "35.01",
+    "provinceCode": "35",
+    "name": "Kecamatan Tegalombo",
+    "alias": "Tegalombo"
+  },
+  {
+    "code": "35.01.100",
+    "districtCode": "100",
+    "regencyCode": "35.01",
+    "provinceCode": "35",
+    "name": "Kecamatan Tulakan",
+    "alias": "Tulakan"
+  },
+  {
+    "code": "35.01.110",
+    "districtCode": "110",
+    "regencyCode": "35.01",
+    "provinceCode": "35",
+    "name": "Kecamatan Ngadirojo",
+    "alias": "Ngadirojo"
+  },
+  {
+    "code": "35.01.120",
+    "districtCode": "120",
+    "regencyCode": "35.01",
+    "provinceCode": "35",
+    "name": "Kecamatan Sudimoro",
+    "alias": "Sudimoro"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "code": "73.71.101.001",
+    "villageCode": "001",
+    "districtCode": "73.71.101",
+    "name": "Borong",
+    "alias": "Borong"
+  },
+  {
+    "code": "73.71.101.002",
+    "villageCode": "002",
+    "districtCode": "73.71.101",
+    "name": "Bangkala",
+    "alias": "Bangkala"
+  },
+  {
+    "code": "73.71.101.003",
+    "villageCode": "003",
+    "districtCode": "73.71.101",
+    "name": "Tamangapa",
+    "alias": "Tamangapa"
+  },
+  {
+    "code": "73.71.101.004",
+    "villageCode": "004",
+    "districtCode": "73.71.101",
+    "name": "Manggala",
+    "alias": "Manggala"
+  },
+  {
+    "code": "73.71.101.005",
+    "villageCode": "005",
+    "districtCode": "73.71.101",
+    "name": "Antang",
+    "alias": "Antang"
+  },
+  {
+    "code": "73.71.101.006",
+    "villageCode": "006",
+    "districtCode": "73.71.101",
+    "name": "Batua",
+    "alias": "Batua"
+  },
+  {
+    "code": "73.71.101.007",
+    "villageCode": "007",
+    "districtCode": "73.71.101",
+    "name": "Bitowa",
+    "alias": "Bitowa"
+  },
+  {
+    "code": "73.71.101.008",
+    "villageCode": "008",
+    "districtCode": "73.71.101",
+    "name": "Biring Romang",
+    "alias": "Biring Romang"
+  }
+]

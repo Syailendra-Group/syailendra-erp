@@ -1,0 +1,37 @@
+[
+  {
+    "code": "31.74.080.001",
+    "villageCode": "001",
+    "districtCode": "31.74.080",
+    "name": "Semanan",
+    "alias": "Semanan"
+  },
+  {
+    "code": "31.74.080.002",
+    "villageCode": "002",
+    "districtCode": "31.74.080",
+    "name": "Kalideres",
+    "alias": "Kalideres"
+  },
+  {
+    "code": "31.74.080.003",
+    "villageCode": "003",
+    "districtCode": "31.74.080",
+    "name": "Pegadungan",
+    "alias": "Pegadungan"
+  },
+  {
+    "code": "31.74.080.004",
+    "villageCode": "004",
+    "districtCode": "31.74.080",
+    "name": "Tegal Alur",
+    "alias": "Tegal Alur"
+  },
+  {
+    "code": "31.74.080.005",
+    "villageCode": "005",
+    "districtCode": "31.74.080",
+    "name": "Kamal",
+    "alias": "Kamal"
+  }
+]

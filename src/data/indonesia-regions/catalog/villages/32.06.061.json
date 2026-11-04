@@ -1,0 +1,58 @@
+[
+  {
+    "code": "32.06.061.001",
+    "villageCode": "001",
+    "districtCode": "32.06.061",
+    "name": "Karyabakti",
+    "alias": "Karyabakti"
+  },
+  {
+    "code": "32.06.061.002",
+    "villageCode": "002",
+    "districtCode": "32.06.061",
+    "name": "Cigunung",
+    "alias": "Cigunung"
+  },
+  {
+    "code": "32.06.061.003",
+    "villageCode": "003",
+    "districtCode": "32.06.061",
+    "name": "Cibungur",
+    "alias": "Cibungur"
+  },
+  {
+    "code": "32.06.061.004",
+    "villageCode": "004",
+    "districtCode": "32.06.061",
+    "name": "Parungponteng",
+    "alias": "Parungponteng"
+  },
+  {
+    "code": "32.06.061.005",
+    "villageCode": "005",
+    "districtCode": "32.06.061",
+    "name": "Girikancana",
+    "alias": "Girikancana"
+  },
+  {
+    "code": "32.06.061.006",
+    "villageCode": "006",
+    "districtCode": "32.06.061",
+    "name": "Barumekar",
+    "alias": "Barumekar"
+  },
+  {
+    "code": "32.06.061.007",
+    "villageCode": "007",
+    "districtCode": "32.06.061",
+    "name": "Cibanteng",
+    "alias": "Cibanteng"
+  },
+  {
+    "code": "32.06.061.008",
+    "villageCode": "008",
+    "districtCode": "32.06.061",
+    "name": "Burujuljaya",
+    "alias": "Burujuljaya"
+  }
+]

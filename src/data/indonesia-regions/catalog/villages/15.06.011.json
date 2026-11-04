@@ -1,0 +1,51 @@
+[
+  {
+    "code": "15.06.011.001",
+    "villageCode": "001",
+    "districtCode": "15.06.011",
+    "name": "Bukit Tempurung",
+    "alias": "Bukit Tempurung"
+  },
+  {
+    "code": "15.06.011.002",
+    "villageCode": "002",
+    "districtCode": "15.06.011",
+    "name": "Sungai Toman",
+    "alias": "Sungai Toman"
+  },
+  {
+    "code": "15.06.011.003",
+    "villageCode": "003",
+    "districtCode": "15.06.011",
+    "name": "Simpang Tuan",
+    "alias": "Simpang Tuan"
+  },
+  {
+    "code": "15.06.011.004",
+    "villageCode": "004",
+    "districtCode": "15.06.011",
+    "name": "Pematang Rahim",
+    "alias": "Pematang Rahim"
+  },
+  {
+    "code": "15.06.011.005",
+    "villageCode": "005",
+    "districtCode": "15.06.011",
+    "name": "Sinar Wajo",
+    "alias": "Sinar Wajo"
+  },
+  {
+    "code": "15.06.011.006",
+    "villageCode": "006",
+    "districtCode": "15.06.011",
+    "name": "Sungai Beras",
+    "alias": "Sungai Beras"
+  },
+  {
+    "code": "15.06.011.007",
+    "villageCode": "007",
+    "districtCode": "15.06.011",
+    "name": "Mencolok",
+    "alias": "Mencolok"
+  }
+]

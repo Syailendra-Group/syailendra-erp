@@ -1,0 +1,79 @@
+[
+  {
+    "code": "62.02.060.001",
+    "villageCode": "001",
+    "districtCode": "62.02.060",
+    "name": "Pelangsian",
+    "alias": "Pelangsian"
+  },
+  {
+    "code": "62.02.060.003",
+    "villageCode": "003",
+    "districtCode": "62.02.060",
+    "name": "Ketapang",
+    "alias": "Ketapang"
+  },
+  {
+    "code": "62.02.060.004",
+    "villageCode": "004",
+    "districtCode": "62.02.060",
+    "name": "Mentawa Baru Hilir",
+    "alias": "Mentawa Baru Hilir"
+  },
+  {
+    "code": "62.02.060.005",
+    "villageCode": "005",
+    "districtCode": "62.02.060",
+    "name": "Mentawa Baru Hulu",
+    "alias": "Mentawa Baru Hulu"
+  },
+  {
+    "code": "62.02.060.006",
+    "villageCode": "006",
+    "districtCode": "62.02.060",
+    "name": "Sawahan",
+    "alias": "Sawahan"
+  },
+  {
+    "code": "62.02.060.007",
+    "villageCode": "007",
+    "districtCode": "62.02.060",
+    "name": "Bapeang",
+    "alias": "Bapeang"
+  },
+  {
+    "code": "62.02.060.008",
+    "villageCode": "008",
+    "districtCode": "62.02.060",
+    "name": "Eka Bahurui",
+    "alias": "Eka Bahurui"
+  },
+  {
+    "code": "62.02.060.009",
+    "villageCode": "009",
+    "districtCode": "62.02.060",
+    "name": "Pasir Putih",
+    "alias": "Pasir Putih"
+  },
+  {
+    "code": "62.02.060.010",
+    "villageCode": "010",
+    "districtCode": "62.02.060",
+    "name": "Telaga Baru",
+    "alias": "Telaga Baru"
+  },
+  {
+    "code": "62.02.060.011",
+    "villageCode": "011",
+    "districtCode": "62.02.060",
+    "name": "Bengkuang Makmur",
+    "alias": "Bengkuang Makmur"
+  },
+  {
+    "code": "62.02.060.012",
+    "villageCode": "012",
+    "districtCode": "62.02.060",
+    "name": "Bapanggang Raya",
+    "alias": "Bapanggang Raya"
+  }
+]

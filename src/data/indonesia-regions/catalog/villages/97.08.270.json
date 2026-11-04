@@ -1,0 +1,30 @@
+[
+  {
+    "code": "97.08.270.001",
+    "villageCode": "001",
+    "districtCode": "97.08.270",
+    "name": "Kubibkop",
+    "alias": "Kubibkop"
+  },
+  {
+    "code": "97.08.270.002",
+    "villageCode": "002",
+    "districtCode": "97.08.270",
+    "name": "Okano",
+    "alias": "Okano"
+  },
+  {
+    "code": "97.08.270.003",
+    "villageCode": "003",
+    "districtCode": "97.08.270",
+    "name": "Sebul",
+    "alias": "Sebul"
+  },
+  {
+    "code": "97.08.270.004",
+    "villageCode": "004",
+    "districtCode": "97.08.270",
+    "name": "Mangabip",
+    "alias": "Mangabip"
+  }
+]

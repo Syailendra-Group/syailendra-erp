@@ -1,0 +1,107 @@
+[
+  {
+    "code": "64.01.030.001",
+    "villageCode": "001",
+    "districtCode": "64.01.030",
+    "name": "Lempesu",
+    "alias": "Lempesu"
+  },
+  {
+    "code": "64.01.030.002",
+    "villageCode": "002",
+    "districtCode": "64.01.030",
+    "name": "Bekoso",
+    "alias": "Bekoso"
+  },
+  {
+    "code": "64.01.030.003",
+    "villageCode": "003",
+    "districtCode": "64.01.030",
+    "name": "Damit",
+    "alias": "Damit"
+  },
+  {
+    "code": "64.01.030.004",
+    "villageCode": "004",
+    "districtCode": "64.01.030",
+    "name": "Sangkuriman",
+    "alias": "Sangkuriman"
+  },
+  {
+    "code": "64.01.030.005",
+    "villageCode": "005",
+    "districtCode": "64.01.030",
+    "name": "Suatang",
+    "alias": "Suatang"
+  },
+  {
+    "code": "64.01.030.006",
+    "villageCode": "006",
+    "districtCode": "64.01.030",
+    "name": "Keresik Bura",
+    "alias": "Keresik Bura"
+  },
+  {
+    "code": "64.01.030.007",
+    "villageCode": "007",
+    "districtCode": "64.01.030",
+    "name": "Pasir Belengkong",
+    "alias": "Pasir Belengkong"
+  },
+  {
+    "code": "64.01.030.008",
+    "villageCode": "008",
+    "districtCode": "64.01.030",
+    "name": "Seniung Jaya",
+    "alias": "Seniung Jaya"
+  },
+  {
+    "code": "64.01.030.009",
+    "villageCode": "009",
+    "districtCode": "64.01.030",
+    "name": "Suliliran Baru",
+    "alias": "Suliliran Baru"
+  },
+  {
+    "code": "64.01.030.010",
+    "villageCode": "010",
+    "districtCode": "64.01.030",
+    "name": "Suliliran",
+    "alias": "Suliliran"
+  },
+  {
+    "code": "64.01.030.011",
+    "villageCode": "011",
+    "districtCode": "64.01.030",
+    "name": "Laburan Baru",
+    "alias": "Laburan Baru"
+  },
+  {
+    "code": "64.01.030.012",
+    "villageCode": "012",
+    "districtCode": "64.01.030",
+    "name": "Laburan",
+    "alias": "Laburan"
+  },
+  {
+    "code": "64.01.030.013",
+    "villageCode": "013",
+    "districtCode": "64.01.030",
+    "name": "Olong Pinang",
+    "alias": "Olong Pinang"
+  },
+  {
+    "code": "64.01.030.014",
+    "villageCode": "014",
+    "districtCode": "64.01.030",
+    "name": "Sunge Batu",
+    "alias": "Sunge Batu"
+  },
+  {
+    "code": "64.01.030.015",
+    "villageCode": "015",
+    "districtCode": "64.01.030",
+    "name": "Suatang Keteban",
+    "alias": "Suatang Keteban"
+  }
+]

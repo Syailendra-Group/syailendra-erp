@@ -1,0 +1,65 @@
+[
+  {
+    "code": "64.04.044.001",
+    "villageCode": "001",
+    "districtCode": "64.04.044",
+    "name": "Rantau Makmur",
+    "alias": "Rantau Makmur"
+  },
+  {
+    "code": "64.04.044.002",
+    "villageCode": "002",
+    "districtCode": "64.04.044",
+    "name": "Mukti Jaya",
+    "alias": "Mukti Jaya"
+  },
+  {
+    "code": "64.04.044.003",
+    "villageCode": "003",
+    "districtCode": "64.04.044",
+    "name": "Tanjung Labu",
+    "alias": "Tanjung Labu"
+  },
+  {
+    "code": "64.04.044.004",
+    "villageCode": "004",
+    "districtCode": "64.04.044",
+    "name": "Kebon Agung",
+    "alias": "Kebon Agung"
+  },
+  {
+    "code": "64.04.044.005",
+    "villageCode": "005",
+    "districtCode": "64.04.044",
+    "name": "Manunggal Jaya",
+    "alias": "Manunggal Jaya"
+  },
+  {
+    "code": "64.04.044.006",
+    "villageCode": "006",
+    "districtCode": "64.04.044",
+    "name": "Tepian Makmur",
+    "alias": "Tepian Makmur"
+  },
+  {
+    "code": "64.04.044.007",
+    "villageCode": "007",
+    "districtCode": "64.04.044",
+    "name": "Pulung Sari",
+    "alias": "Pulung Sari"
+  },
+  {
+    "code": "64.04.044.008",
+    "villageCode": "008",
+    "districtCode": "64.04.044",
+    "name": "Margo Mulyo",
+    "alias": "Margo Mulyo"
+  },
+  {
+    "code": "64.04.044.009",
+    "villageCode": "009",
+    "districtCode": "64.04.044",
+    "name": "Masalap Raya",
+    "alias": "Masalap Raya"
+  }
+]

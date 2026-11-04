@@ -1,0 +1,79 @@
+[
+  {
+    "code": "62.01.070.001",
+    "villageCode": "001",
+    "districtCode": "62.01.070",
+    "name": "Nanga Mua",
+    "alias": "Nanga Mua"
+  },
+  {
+    "code": "62.01.070.002",
+    "villageCode": "002",
+    "districtCode": "62.01.070",
+    "name": "Pangkut",
+    "alias": "Pangkut"
+  },
+  {
+    "code": "62.01.070.003",
+    "villageCode": "003",
+    "districtCode": "62.01.070",
+    "name": "Sukarami",
+    "alias": "Sukarami"
+  },
+  {
+    "code": "62.01.070.004",
+    "villageCode": "004",
+    "districtCode": "62.01.070",
+    "name": "Gandis",
+    "alias": "Gandis"
+  },
+  {
+    "code": "62.01.070.005",
+    "villageCode": "005",
+    "districtCode": "62.01.070",
+    "name": "Kerabu",
+    "alias": "Kerabu"
+  },
+  {
+    "code": "62.01.070.006",
+    "villageCode": "006",
+    "districtCode": "62.01.070",
+    "name": "Sambi",
+    "alias": "Sambi"
+  },
+  {
+    "code": "62.01.070.007",
+    "villageCode": "007",
+    "districtCode": "62.01.070",
+    "name": "Penyombaan",
+    "alias": "Penyombaan"
+  },
+  {
+    "code": "62.01.070.008",
+    "villageCode": "008",
+    "districtCode": "62.01.070",
+    "name": "Pandau",
+    "alias": "Pandau"
+  },
+  {
+    "code": "62.01.070.009",
+    "villageCode": "009",
+    "districtCode": "62.01.070",
+    "name": "Riam",
+    "alias": "Riam"
+  },
+  {
+    "code": "62.01.070.010",
+    "villageCode": "010",
+    "districtCode": "62.01.070",
+    "name": "Penahan",
+    "alias": "Penahan"
+  },
+  {
+    "code": "62.01.070.011",
+    "villageCode": "011",
+    "districtCode": "62.01.070",
+    "name": "Sungai Dau",
+    "alias": "Sungai Dau"
+  }
+]

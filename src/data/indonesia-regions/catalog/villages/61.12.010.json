@@ -1,0 +1,107 @@
+[
+  {
+    "code": "61.12.010.001",
+    "villageCode": "001",
+    "districtCode": "61.12.010",
+    "name": "Tanjung Harapan",
+    "alias": "Tanjung Harapan"
+  },
+  {
+    "code": "61.12.010.002",
+    "villageCode": "002",
+    "districtCode": "61.12.010",
+    "name": "Ambarawa",
+    "alias": "Ambarawa"
+  },
+  {
+    "code": "61.12.010.003",
+    "villageCode": "003",
+    "districtCode": "61.12.010",
+    "name": "Sungai Jawi",
+    "alias": "Sungai Jawi"
+  },
+  {
+    "code": "61.12.010.004",
+    "villageCode": "004",
+    "districtCode": "61.12.010",
+    "name": "Sungai Besar",
+    "alias": "Sungai Besar"
+  },
+  {
+    "code": "61.12.010.005",
+    "villageCode": "005",
+    "districtCode": "61.12.010",
+    "name": "Tasik Malaya",
+    "alias": "Tasik Malaya"
+  },
+  {
+    "code": "61.12.010.006",
+    "villageCode": "006",
+    "districtCode": "61.12.010",
+    "name": "Padang Tikar Satu",
+    "alias": "Padang Tikar Satu"
+  },
+  {
+    "code": "61.12.010.007",
+    "villageCode": "007",
+    "districtCode": "61.12.010",
+    "name": "Padang Tikar Dua",
+    "alias": "Padang Tikar Dua"
+  },
+  {
+    "code": "61.12.010.008",
+    "villageCode": "008",
+    "districtCode": "61.12.010",
+    "name": "Nipah Panjang",
+    "alias": "Nipah Panjang"
+  },
+  {
+    "code": "61.12.010.009",
+    "villageCode": "009",
+    "districtCode": "61.12.010",
+    "name": "Teluk Nibung",
+    "alias": "Teluk Nibung"
+  },
+  {
+    "code": "61.12.010.010",
+    "villageCode": "010",
+    "districtCode": "61.12.010",
+    "name": "Batu Ampar",
+    "alias": "Batu Ampar"
+  },
+  {
+    "code": "61.12.010.011",
+    "villageCode": "011",
+    "districtCode": "61.12.010",
+    "name": "Sungai Kerawang",
+    "alias": "Sungai Kerawang"
+  },
+  {
+    "code": "61.12.010.012",
+    "villageCode": "012",
+    "districtCode": "61.12.010",
+    "name": "Sumber Agung",
+    "alias": "Sumber Agung"
+  },
+  {
+    "code": "61.12.010.013",
+    "villageCode": "013",
+    "districtCode": "61.12.010",
+    "name": "Muara Tiga",
+    "alias": "Muara Tiga"
+  },
+  {
+    "code": "61.12.010.014",
+    "villageCode": "014",
+    "districtCode": "61.12.010",
+    "name": "Tanjung Beringin",
+    "alias": "Tanjung Beringin"
+  },
+  {
+    "code": "61.12.010.015",
+    "villageCode": "015",
+    "districtCode": "61.12.010",
+    "name": "Medan Mas",
+    "alias": "Medan Mas"
+  }
+]

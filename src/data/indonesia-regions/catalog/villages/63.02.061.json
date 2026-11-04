@@ -1,0 +1,51 @@
+[
+  {
+    "code": "63.02.061.001",
+    "villageCode": "001",
+    "districtCode": "63.02.061",
+    "name": "Semisir",
+    "alias": "Semisir"
+  },
+  {
+    "code": "63.02.061.002",
+    "villageCode": "002",
+    "districtCode": "63.02.061",
+    "name": "Sungai Pasir",
+    "alias": "Sungai Pasir"
+  },
+  {
+    "code": "63.02.061.003",
+    "villageCode": "003",
+    "districtCode": "63.02.061",
+    "name": "Salino",
+    "alias": "Salino"
+  },
+  {
+    "code": "63.02.061.004",
+    "villageCode": "004",
+    "districtCode": "63.02.061",
+    "name": "Mekar Pura",
+    "alias": "Mekar Pura"
+  },
+  {
+    "code": "63.02.061.005",
+    "villageCode": "005",
+    "districtCode": "63.02.061",
+    "name": "Selaru",
+    "alias": "Selaru"
+  },
+  {
+    "code": "63.02.061.006",
+    "villageCode": "006",
+    "districtCode": "63.02.061",
+    "name": "Sungup Kanan",
+    "alias": "Sungup Kanan"
+  },
+  {
+    "code": "63.02.061.007",
+    "villageCode": "007",
+    "districtCode": "63.02.061",
+    "name": "Pantai Baru",
+    "alias": "Pantai Baru"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "code": "92.05.120.001",
+    "villageCode": "001",
+    "districtCode": "92.05.120",
+    "name": "Sungguwan",
+    "alias": "Sungguwan"
+  },
+  {
+    "code": "92.05.120.002",
+    "villageCode": "002",
+    "districtCode": "92.05.120",
+    "name": "Nanggou",
+    "alias": "Nanggou"
+  },
+  {
+    "code": "92.05.120.003",
+    "villageCode": "003",
+    "districtCode": "92.05.120",
+    "name": "Jokte",
+    "alias": "Jokte"
+  },
+  {
+    "code": "92.05.120.004",
+    "villageCode": "004",
+    "districtCode": "92.05.120",
+    "name": "Syurauw",
+    "alias": "Syurauw"
+  },
+  {
+    "code": "92.05.120.005",
+    "villageCode": "005",
+    "districtCode": "92.05.120",
+    "name": "Bondek",
+    "alias": "Bondek"
+  },
+  {
+    "code": "92.05.120.006",
+    "villageCode": "006",
+    "districtCode": "92.05.120",
+    "name": "Uigwem",
+    "alias": "Uigwem"
+  },
+  {
+    "code": "92.05.120.007",
+    "villageCode": "007",
+    "districtCode": "92.05.120",
+    "name": "Sausapor",
+    "alias": "Sausapor"
+  },
+  {
+    "code": "92.05.120.008",
+    "villageCode": "008",
+    "districtCode": "92.05.120",
+    "name": "Sau Uram",
+    "alias": "Sau Uram"
+  },
+  {
+    "code": "92.05.120.009",
+    "villageCode": "009",
+    "districtCode": "92.05.120",
+    "name": "Bondonggwan",
+    "alias": "Bondonggwan"
+  },
+  {
+    "code": "92.05.120.010",
+    "villageCode": "010",
+    "districtCode": "92.05.120",
+    "name": "Emaos",
+    "alias": "Emaos"
+  }
+]

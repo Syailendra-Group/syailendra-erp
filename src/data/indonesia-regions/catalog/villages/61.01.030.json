@@ -1,0 +1,163 @@
+[
+  {
+    "code": "61.01.030.001",
+    "villageCode": "001",
+    "districtCode": "61.01.030",
+    "name": "Seret Ayon",
+    "alias": "Seret Ayon"
+  },
+  {
+    "code": "61.01.030.002",
+    "villageCode": "002",
+    "districtCode": "61.01.030",
+    "name": "Maribas",
+    "alias": "Maribas"
+  },
+  {
+    "code": "61.01.030.003",
+    "villageCode": "003",
+    "districtCode": "61.01.030",
+    "name": "Batu Makjage",
+    "alias": "Batu Makjage"
+  },
+  {
+    "code": "61.01.030.004",
+    "villageCode": "004",
+    "districtCode": "61.01.030",
+    "name": "Bukit Segoler",
+    "alias": "Bukit Segoler"
+  },
+  {
+    "code": "61.01.030.005",
+    "villageCode": "005",
+    "districtCode": "61.01.030",
+    "name": "Serindang",
+    "alias": "Serindang"
+  },
+  {
+    "code": "61.01.030.006",
+    "villageCode": "006",
+    "districtCode": "61.01.030",
+    "name": "Matang Labung",
+    "alias": "Matang Labung"
+  },
+  {
+    "code": "61.01.030.007",
+    "villageCode": "007",
+    "districtCode": "61.01.030",
+    "name": "Mak Tangguk",
+    "alias": "Mak Tangguk"
+  },
+  {
+    "code": "61.01.030.008",
+    "villageCode": "008",
+    "districtCode": "61.01.030",
+    "name": "Segedong",
+    "alias": "Segedong"
+  },
+  {
+    "code": "61.01.030.009",
+    "villageCode": "009",
+    "districtCode": "61.01.030",
+    "name": "Pusaka",
+    "alias": "Pusaka"
+  },
+  {
+    "code": "61.01.030.010",
+    "villageCode": "010",
+    "districtCode": "61.01.030",
+    "name": "Mensere",
+    "alias": "Mensere"
+  },
+  {
+    "code": "61.01.030.011",
+    "villageCode": "011",
+    "districtCode": "61.01.030",
+    "name": "Sungai Kelambu",
+    "alias": "Sungai Kelambu"
+  },
+  {
+    "code": "61.01.030.012",
+    "villageCode": "012",
+    "districtCode": "61.01.030",
+    "name": "Serumpun Buluh",
+    "alias": "Serumpun Buluh"
+  },
+  {
+    "code": "61.01.030.013",
+    "villageCode": "013",
+    "districtCode": "61.01.030",
+    "name": "Pangkalan Kongsi",
+    "alias": "Pangkalan Kongsi"
+  },
+  {
+    "code": "61.01.030.014",
+    "villageCode": "014",
+    "districtCode": "61.01.030",
+    "name": "Dungun Perapakan",
+    "alias": "Dungun Perapakan"
+  },
+  {
+    "code": "61.01.030.015",
+    "villageCode": "015",
+    "districtCode": "61.01.030",
+    "name": "Tebas Sungai",
+    "alias": "Tebas Sungai"
+  },
+  {
+    "code": "61.01.030.016",
+    "villageCode": "016",
+    "districtCode": "61.01.030",
+    "name": "Sejiram",
+    "alias": "Sejiram"
+  },
+  {
+    "code": "61.01.030.017",
+    "villageCode": "017",
+    "districtCode": "61.01.030",
+    "name": "Seberkat",
+    "alias": "Seberkat"
+  },
+  {
+    "code": "61.01.030.018",
+    "villageCode": "018",
+    "districtCode": "61.01.030",
+    "name": "Sempalai",
+    "alias": "Sempalai"
+  },
+  {
+    "code": "61.01.030.019",
+    "villageCode": "019",
+    "districtCode": "61.01.030",
+    "name": "Bekut",
+    "alias": "Bekut"
+  },
+  {
+    "code": "61.01.030.020",
+    "villageCode": "020",
+    "districtCode": "61.01.030",
+    "name": "Mak Rampai",
+    "alias": "Mak Rampai"
+  },
+  {
+    "code": "61.01.030.021",
+    "villageCode": "021",
+    "districtCode": "61.01.030",
+    "name": "Tebas Kuala",
+    "alias": "Tebas Kuala"
+  },
+  {
+    "code": "61.01.030.022",
+    "villageCode": "022",
+    "districtCode": "61.01.030",
+    "name": "Mekar Sekuntum",
+    "alias": "Mekar Sekuntum"
+  },
+  {
+    "code": "61.01.030.023",
+    "villageCode": "023",
+    "districtCode": "61.01.030",
+    "name": "Segarau Parit",
+    "alias": "Segarau Parit"
+  }
+]

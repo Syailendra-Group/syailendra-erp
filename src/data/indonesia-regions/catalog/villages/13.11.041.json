@@ -1,0 +1,30 @@
+[
+  {
+    "code": "13.11.041.001",
+    "villageCode": "001",
+    "districtCode": "13.11.041",
+    "name": "Banai",
+    "alias": "Banai"
+  },
+  {
+    "code": "13.11.041.002",
+    "villageCode": "002",
+    "districtCode": "13.11.041",
+    "name": "Lubuk Karak",
+    "alias": "Lubuk Karak"
+  },
+  {
+    "code": "13.11.041.003",
+    "villageCode": "003",
+    "districtCode": "13.11.041",
+    "name": "Silago",
+    "alias": "Silago"
+  },
+  {
+    "code": "13.11.041.004",
+    "villageCode": "004",
+    "districtCode": "13.11.041",
+    "name": "Koto Nan Iv Dibawuah",
+    "alias": "Koto Nan Iv Dibawuah"
+  }
+]

@@ -1,0 +1,184 @@
+[
+  {
+    "code": "61.07.120.001",
+    "villageCode": "001",
+    "districtCode": "61.07.120",
+    "name": "Benua Kencana",
+    "alias": "Benua Kencana"
+  },
+  {
+    "code": "61.07.120.002",
+    "villageCode": "002",
+    "districtCode": "61.07.120",
+    "name": "Merti Jaya",
+    "alias": "Merti Jaya"
+  },
+  {
+    "code": "61.07.120.003",
+    "villageCode": "003",
+    "districtCode": "61.07.120",
+    "name": "Gurung Mali",
+    "alias": "Gurung Mali"
+  },
+  {
+    "code": "61.07.120.004",
+    "villageCode": "004",
+    "districtCode": "61.07.120",
+    "name": "Kuala Tiga",
+    "alias": "Kuala Tiga"
+  },
+  {
+    "code": "61.07.120.005",
+    "villageCode": "005",
+    "districtCode": "61.07.120",
+    "name": "Pulau Jaya",
+    "alias": "Pulau Jaya"
+  },
+  {
+    "code": "61.07.120.006",
+    "villageCode": "006",
+    "districtCode": "61.07.120",
+    "name": "Pangkal Baru",
+    "alias": "Pangkal Baru"
+  },
+  {
+    "code": "61.07.120.007",
+    "villageCode": "007",
+    "districtCode": "61.07.120",
+    "name": "Tinum Baru",
+    "alias": "Tinum Baru"
+  },
+  {
+    "code": "61.07.120.008",
+    "villageCode": "008",
+    "districtCode": "61.07.120",
+    "name": "Benua Baru",
+    "alias": "Benua Baru"
+  },
+  {
+    "code": "61.07.120.009",
+    "villageCode": "009",
+    "districtCode": "61.07.120",
+    "name": "Kenyabur Baru",
+    "alias": "Kenyabur Baru"
+  },
+  {
+    "code": "61.07.120.010",
+    "villageCode": "010",
+    "districtCode": "61.07.120",
+    "name": "Pagal Baru",
+    "alias": "Pagal Baru"
+  },
+  {
+    "code": "61.07.120.011",
+    "villageCode": "011",
+    "districtCode": "61.07.120",
+    "name": "Repak Sari",
+    "alias": "Repak Sari"
+  },
+  {
+    "code": "61.07.120.012",
+    "villageCode": "012",
+    "districtCode": "61.07.120",
+    "name": "Mengkurat Baru",
+    "alias": "Mengkurat Baru"
+  },
+  {
+    "code": "61.07.120.013",
+    "villageCode": "013",
+    "districtCode": "61.07.120",
+    "name": "Paribang Baru",
+    "alias": "Paribang Baru"
+  },
+  {
+    "code": "61.07.120.014",
+    "villageCode": "014",
+    "districtCode": "61.07.120",
+    "name": "Suka Jaya",
+    "alias": "Suka Jaya"
+  },
+  {
+    "code": "61.07.120.015",
+    "villageCode": "015",
+    "districtCode": "61.07.120",
+    "name": "Balai Harapan",
+    "alias": "Balai Harapan"
+  },
+  {
+    "code": "61.07.120.016",
+    "villageCode": "016",
+    "districtCode": "61.07.120",
+    "name": "Nanga Tempunak",
+    "alias": "Nanga Tempunak"
+  },
+  {
+    "code": "61.07.120.017",
+    "villageCode": "017",
+    "districtCode": "61.07.120",
+    "name": "Tanjung Perada",
+    "alias": "Tanjung Perada"
+  },
+  {
+    "code": "61.07.120.018",
+    "villageCode": "018",
+    "districtCode": "61.07.120",
+    "name": "Mensiap Baru",
+    "alias": "Mensiap Baru"
+  },
+  {
+    "code": "61.07.120.019",
+    "villageCode": "019",
+    "districtCode": "61.07.120",
+    "name": "Riam Batu",
+    "alias": "Riam Batu"
+  },
+  {
+    "code": "61.07.120.020",
+    "villageCode": "020",
+    "districtCode": "61.07.120",
+    "name": "Sungai Buluh",
+    "alias": "Sungai Buluh"
+  },
+  {
+    "code": "61.07.120.021",
+    "villageCode": "021",
+    "districtCode": "61.07.120",
+    "name": "Jaya Mentari",
+    "alias": "Jaya Mentari"
+  },
+  {
+    "code": "61.07.120.022",
+    "villageCode": "022",
+    "districtCode": "61.07.120",
+    "name": "Kupan Jaya",
+    "alias": "Kupan Jaya"
+  },
+  {
+    "code": "61.07.120.023",
+    "villageCode": "023",
+    "districtCode": "61.07.120",
+    "name": "Pudau Bersatu",
+    "alias": "Pudau Bersatu"
+  },
+  {
+    "code": "61.07.120.024",
+    "villageCode": "024",
+    "districtCode": "61.07.120",
+    "name": "Tempunak Kapuas",
+    "alias": "Tempunak Kapuas"
+  },
+  {
+    "code": "61.07.120.025",
+    "villageCode": "025",
+    "districtCode": "61.07.120",
+    "name": "Pekulai Bersatu",
+    "alias": "Pekulai Bersatu"
+  },
+  {
+    "code": "61.07.120.026",
+    "villageCode": "026",
+    "districtCode": "61.07.120",
+    "name": "Mensiap Jaya",
+    "alias": "Mensiap Jaya"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "code": "32.06.080.001",
+    "villageCode": "001",
+    "districtCode": "32.06.080",
+    "name": "Campakasari",
+    "alias": "Campakasari"
+  },
+  {
+    "code": "32.06.080.002",
+    "villageCode": "002",
+    "districtCode": "32.06.080",
+    "name": "Bojongkapol",
+    "alias": "Bojongkapol"
+  },
+  {
+    "code": "32.06.080.003",
+    "villageCode": "003",
+    "districtCode": "32.06.080",
+    "name": "Wandasari",
+    "alias": "Wandasari"
+  },
+  {
+    "code": "32.06.080.004",
+    "villageCode": "004",
+    "districtCode": "32.06.080",
+    "name": "Pedangkamulyan",
+    "alias": "Pedangkamulyan"
+  },
+  {
+    "code": "32.06.080.005",
+    "villageCode": "005",
+    "districtCode": "32.06.080",
+    "name": "Kertanegla",
+    "alias": "Kertanegla"
+  },
+  {
+    "code": "32.06.080.006",
+    "villageCode": "006",
+    "districtCode": "32.06.080",
+    "name": "Bojonggambir",
+    "alias": "Bojonggambir"
+  },
+  {
+    "code": "32.06.080.007",
+    "villageCode": "007",
+    "districtCode": "32.06.080",
+    "name": "Mangkonjaya",
+    "alias": "Mangkonjaya"
+  },
+  {
+    "code": "32.06.080.008",
+    "villageCode": "008",
+    "districtCode": "32.06.080",
+    "name": "Ciroyom",
+    "alias": "Ciroyom"
+  },
+  {
+    "code": "32.06.080.009",
+    "villageCode": "009",
+    "districtCode": "32.06.080",
+    "name": "Purwaraharja",
+    "alias": "Purwaraharja"
+  },
+  {
+    "code": "32.06.080.010",
+    "villageCode": "010",
+    "districtCode": "32.06.080",
+    "name": "Girimukti",
+    "alias": "Girimukti"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "code": "18.01.056.001",
+    "villageCode": "001",
+    "districtCode": "18.01.056",
+    "name": "Suoh",
+    "alias": "Suoh"
+  },
+  {
+    "code": "18.01.056.002",
+    "villageCode": "002",
+    "districtCode": "18.01.056",
+    "name": "Srimulyo",
+    "alias": "Srimulyo"
+  },
+  {
+    "code": "18.01.056.003",
+    "villageCode": "003",
+    "districtCode": "18.01.056",
+    "name": "Bandar Agung",
+    "alias": "Bandar Agung"
+  },
+  {
+    "code": "18.01.056.004",
+    "villageCode": "004",
+    "districtCode": "18.01.056",
+    "name": "Ringin Jaya",
+    "alias": "Ringin Jaya"
+  },
+  {
+    "code": "18.01.056.005",
+    "villageCode": "005",
+    "districtCode": "18.01.056",
+    "name": "Bumi Hantatai",
+    "alias": "Bumi Hantatai"
+  },
+  {
+    "code": "18.01.056.006",
+    "villageCode": "006",
+    "districtCode": "18.01.056",
+    "name": "Gunung Ratu",
+    "alias": "Gunung Ratu"
+  },
+  {
+    "code": "18.01.056.007",
+    "villageCode": "007",
+    "districtCode": "18.01.056",
+    "name": "Tanjung Sari",
+    "alias": "Tanjung Sari"
+  },
+  {
+    "code": "18.01.056.008",
+    "villageCode": "008",
+    "districtCode": "18.01.056",
+    "name": "Negeri Jaya",
+    "alias": "Negeri Jaya"
+  },
+  {
+    "code": "18.01.056.009",
+    "villageCode": "009",
+    "districtCode": "18.01.056",
+    "name": "Tembelang",
+    "alias": "Tembelang"
+  },
+  {
+    "code": "18.01.056.010",
+    "villageCode": "010",
+    "districtCode": "18.01.056",
+    "name": "Tri Mekar Jaya",
+    "alias": "Tri Mekar Jaya"
+  }
+]

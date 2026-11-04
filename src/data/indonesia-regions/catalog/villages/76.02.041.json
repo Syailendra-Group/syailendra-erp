@@ -1,0 +1,86 @@
+[
+  {
+    "code": "76.02.041.001",
+    "villageCode": "001",
+    "districtCode": "76.02.041",
+    "name": "Buku",
+    "alias": "Buku"
+  },
+  {
+    "code": "76.02.041.002",
+    "villageCode": "002",
+    "districtCode": "76.02.041",
+    "name": "Rumpa",
+    "alias": "Rumpa"
+  },
+  {
+    "code": "76.02.041.003",
+    "villageCode": "003",
+    "districtCode": "76.02.041",
+    "name": "Ugi Baru",
+    "alias": "Ugi Baru"
+  },
+  {
+    "code": "76.02.041.004",
+    "villageCode": "004",
+    "districtCode": "76.02.041",
+    "name": "Bonne-Bonne",
+    "alias": "Bonne-Bonne"
+  },
+  {
+    "code": "76.02.041.005",
+    "villageCode": "005",
+    "districtCode": "76.02.041",
+    "name": "Mapilli",
+    "alias": "Mapilli"
+  },
+  {
+    "code": "76.02.041.006",
+    "villageCode": "006",
+    "districtCode": "76.02.041",
+    "name": "Kurma",
+    "alias": "Kurma"
+  },
+  {
+    "code": "76.02.041.007",
+    "villageCode": "007",
+    "districtCode": "76.02.041",
+    "name": "Rappang Barat",
+    "alias": "Rappang Barat"
+  },
+  {
+    "code": "76.02.041.008",
+    "villageCode": "008",
+    "districtCode": "76.02.041",
+    "name": "Beroangin",
+    "alias": "Beroangin"
+  },
+  {
+    "code": "76.02.041.009",
+    "villageCode": "009",
+    "districtCode": "76.02.041",
+    "name": "Segerang",
+    "alias": "Segerang"
+  },
+  {
+    "code": "76.02.041.010",
+    "villageCode": "010",
+    "districtCode": "76.02.041",
+    "name": "Bonra",
+    "alias": "Bonra"
+  },
+  {
+    "code": "76.02.041.011",
+    "villageCode": "011",
+    "districtCode": "76.02.041",
+    "name": "Sattoko",
+    "alias": "Sattoko"
+  },
+  {
+    "code": "76.02.041.012",
+    "villageCode": "012",
+    "districtCode": "76.02.041",
+    "name": "Landi Kanusuang",
+    "alias": "Landi Kanusuang"
+  }
+]

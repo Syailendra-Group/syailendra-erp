@@ -1,0 +1,30 @@
+[
+  {
+    "code": "34.04.100.001",
+    "villageCode": "001",
+    "districtCode": "34.04.100",
+    "name": "Purwo Martani",
+    "alias": "Purwo Martani"
+  },
+  {
+    "code": "34.04.100.002",
+    "villageCode": "002",
+    "districtCode": "34.04.100",
+    "name": "Tirto Martani",
+    "alias": "Tirto Martani"
+  },
+  {
+    "code": "34.04.100.003",
+    "villageCode": "003",
+    "districtCode": "34.04.100",
+    "name": "Taman Martani",
+    "alias": "Taman Martani"
+  },
+  {
+    "code": "34.04.100.004",
+    "villageCode": "004",
+    "districtCode": "34.04.100",
+    "name": "Selo Martani",
+    "alias": "Selo Martani"
+  }
+]

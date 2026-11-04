@@ -1,0 +1,86 @@
+[
+  {
+    "code": "19.04.020.006",
+    "villageCode": "006",
+    "districtCode": "19.04.020",
+    "name": "Tanjung Gunung",
+    "alias": "Tanjung Gunung"
+  },
+  {
+    "code": "19.04.020.007",
+    "villageCode": "007",
+    "districtCode": "19.04.020",
+    "name": "Benteng",
+    "alias": "Benteng"
+  },
+  {
+    "code": "19.04.020.008",
+    "villageCode": "008",
+    "districtCode": "19.04.020",
+    "name": "Air Mesu",
+    "alias": "Air Mesu"
+  },
+  {
+    "code": "19.04.020.009",
+    "villageCode": "009",
+    "districtCode": "19.04.020",
+    "name": "Dul",
+    "alias": "Dul"
+  },
+  {
+    "code": "19.04.020.010",
+    "villageCode": "010",
+    "districtCode": "19.04.020",
+    "name": "Mangkol",
+    "alias": "Mangkol"
+  },
+  {
+    "code": "19.04.020.012",
+    "villageCode": "012",
+    "districtCode": "19.04.020",
+    "name": "Padang Baru",
+    "alias": "Padang Baru"
+  },
+  {
+    "code": "19.04.020.013",
+    "villageCode": "013",
+    "districtCode": "19.04.020",
+    "name": "Jeruk",
+    "alias": "Jeruk"
+  },
+  {
+    "code": "19.04.020.014",
+    "villageCode": "014",
+    "districtCode": "19.04.020",
+    "name": "Beluluk",
+    "alias": "Beluluk"
+  },
+  {
+    "code": "19.04.020.015",
+    "villageCode": "015",
+    "districtCode": "19.04.020",
+    "name": "Batu Belubang",
+    "alias": "Batu Belubang"
+  },
+  {
+    "code": "19.04.020.016",
+    "villageCode": "016",
+    "districtCode": "19.04.020",
+    "name": "Pedindang",
+    "alias": "Pedindang"
+  },
+  {
+    "code": "19.04.020.017",
+    "villageCode": "017",
+    "districtCode": "19.04.020",
+    "name": "Air Mesu Timur",
+    "alias": "Air Mesu Timur"
+  },
+  {
+    "code": "19.04.020.018",
+    "villageCode": "018",
+    "districtCode": "19.04.020",
+    "name": "Kebintik",
+    "alias": "Kebintik"
+  }
+]

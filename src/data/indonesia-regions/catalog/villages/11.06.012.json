@@ -1,0 +1,72 @@
+[
+  {
+    "code": "11.06.012.001",
+    "villageCode": "001",
+    "districtCode": "11.06.012",
+    "name": "Gegarang",
+    "alias": "Gegarang"
+  },
+  {
+    "code": "11.06.012.002",
+    "villageCode": "002",
+    "districtCode": "11.06.012",
+    "name": "Berawang Dewal",
+    "alias": "Berawang Dewal"
+  },
+  {
+    "code": "11.06.012.003",
+    "villageCode": "003",
+    "districtCode": "11.06.012",
+    "name": "Jagong",
+    "alias": "Jagong"
+  },
+  {
+    "code": "11.06.012.004",
+    "villageCode": "004",
+    "districtCode": "11.06.012",
+    "name": "Merah Said",
+    "alias": "Merah Said"
+  },
+  {
+    "code": "11.06.012.005",
+    "villageCode": "005",
+    "districtCode": "11.06.012",
+    "name": "Jeget Ayu",
+    "alias": "Jeget Ayu"
+  },
+  {
+    "code": "11.06.012.006",
+    "villageCode": "006",
+    "districtCode": "11.06.012",
+    "name": "Paya Tungel",
+    "alias": "Paya Tungel"
+  },
+  {
+    "code": "11.06.012.007",
+    "villageCode": "007",
+    "districtCode": "11.06.012",
+    "name": "Telege Sari",
+    "alias": "Telege Sari"
+  },
+  {
+    "code": "11.06.012.008",
+    "villageCode": "008",
+    "districtCode": "11.06.012",
+    "name": "Paya Dedep",
+    "alias": "Paya Dedep"
+  },
+  {
+    "code": "11.06.012.009",
+    "villageCode": "009",
+    "districtCode": "11.06.012",
+    "name": "Bukit Kemuning",
+    "alias": "Bukit Kemuning"
+  },
+  {
+    "code": "11.06.012.010",
+    "villageCode": "010",
+    "districtCode": "11.06.012",
+    "name": "Bukit Sari",
+    "alias": "Bukit Sari"
+  }
+]

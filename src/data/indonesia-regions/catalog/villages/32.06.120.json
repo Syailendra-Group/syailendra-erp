@@ -1,0 +1,51 @@
+[
+  {
+    "code": "32.06.120.001",
+    "villageCode": "001",
+    "districtCode": "32.06.120",
+    "name": "Cikeusal",
+    "alias": "Cikeusal"
+  },
+  {
+    "code": "32.06.120.002",
+    "villageCode": "002",
+    "districtCode": "32.06.120",
+    "name": "Sukanagara",
+    "alias": "Sukanagara"
+  },
+  {
+    "code": "32.06.120.003",
+    "villageCode": "003",
+    "districtCode": "32.06.120",
+    "name": "Sukasenang",
+    "alias": "Sukasenang"
+  },
+  {
+    "code": "32.06.120.004",
+    "villageCode": "004",
+    "districtCode": "32.06.120",
+    "name": "Tanjungjaya",
+    "alias": "Tanjungjaya"
+  },
+  {
+    "code": "32.06.120.005",
+    "villageCode": "005",
+    "districtCode": "32.06.120",
+    "name": "Cintajaya",
+    "alias": "Cintajaya"
+  },
+  {
+    "code": "32.06.120.006",
+    "villageCode": "006",
+    "districtCode": "32.06.120",
+    "name": "Cibalanarik",
+    "alias": "Cibalanarik"
+  },
+  {
+    "code": "32.06.120.007",
+    "villageCode": "007",
+    "districtCode": "32.06.120",
+    "name": "Cilolohan",
+    "alias": "Cilolohan"
+  }
+]

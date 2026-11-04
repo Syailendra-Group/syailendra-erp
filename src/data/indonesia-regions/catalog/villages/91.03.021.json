@@ -1,0 +1,65 @@
+[
+  {
+    "code": "91.03.021.001",
+    "villageCode": "001",
+    "districtCode": "91.03.021",
+    "name": "Senderawoi",
+    "alias": "Senderawoi"
+  },
+  {
+    "code": "91.03.021.002",
+    "villageCode": "002",
+    "districtCode": "91.03.021",
+    "name": "Tandia",
+    "alias": "Tandia"
+  },
+  {
+    "code": "91.03.021.003",
+    "villageCode": "003",
+    "districtCode": "91.03.021",
+    "name": "Sasirei",
+    "alias": "Sasirei"
+  },
+  {
+    "code": "91.03.021.004",
+    "villageCode": "004",
+    "districtCode": "91.03.021",
+    "name": "Isei",
+    "alias": "Isei"
+  },
+  {
+    "code": "91.03.021.005",
+    "villageCode": "005",
+    "districtCode": "91.03.021",
+    "name": "Rasiei",
+    "alias": "Rasiei"
+  },
+  {
+    "code": "91.03.021.006",
+    "villageCode": "006",
+    "districtCode": "91.03.021",
+    "name": "Webi",
+    "alias": "Webi"
+  },
+  {
+    "code": "91.03.021.007",
+    "villageCode": "007",
+    "districtCode": "91.03.021",
+    "name": "Uriemi",
+    "alias": "Uriemi"
+  },
+  {
+    "code": "91.03.021.008",
+    "villageCode": "008",
+    "districtCode": "91.03.021",
+    "name": "Torey",
+    "alias": "Torey"
+  },
+  {
+    "code": "91.03.021.009",
+    "villageCode": "009",
+    "districtCode": "91.03.021",
+    "name": "Nggatu",
+    "alias": "Nggatu"
+  }
+]

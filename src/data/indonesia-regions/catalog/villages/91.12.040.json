@@ -1,0 +1,44 @@
+[
+  {
+    "code": "91.12.040.001",
+    "villageCode": "001",
+    "districtCode": "91.12.040",
+    "name": "Memti",
+    "alias": "Memti"
+  },
+  {
+    "code": "91.12.040.002",
+    "villageCode": "002",
+    "districtCode": "91.12.040",
+    "name": "Usti",
+    "alias": "Usti"
+  },
+  {
+    "code": "91.12.040.003",
+    "villageCode": "003",
+    "districtCode": "91.12.040",
+    "name": "Inyebuow",
+    "alias": "Inyebuow"
+  },
+  {
+    "code": "91.12.040.004",
+    "villageCode": "004",
+    "districtCode": "91.12.040",
+    "name": "Imbeisba",
+    "alias": "Imbeisba"
+  },
+  {
+    "code": "91.12.040.005",
+    "villageCode": "005",
+    "districtCode": "91.12.040",
+    "name": "Membey",
+    "alias": "Membey"
+  },
+  {
+    "code": "91.12.040.006",
+    "villageCode": "006",
+    "districtCode": "91.12.040",
+    "name": "Koney",
+    "alias": "Koney"
+  }
+]

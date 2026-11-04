@@ -1,0 +1,65 @@
+[
+  {
+    "code": "32.03.170.004",
+    "villageCode": "004",
+    "districtCode": "32.03.170",
+    "name": "Karangwangi",
+    "alias": "Karangwangi"
+  },
+  {
+    "code": "32.03.170.005",
+    "villageCode": "005",
+    "districtCode": "32.03.170",
+    "name": "Gunungsari",
+    "alias": "Gunungsari"
+  },
+  {
+    "code": "32.03.170.006",
+    "villageCode": "006",
+    "districtCode": "32.03.170",
+    "name": "Kertajaya",
+    "alias": "Kertajaya"
+  },
+  {
+    "code": "32.03.170.007",
+    "villageCode": "007",
+    "districtCode": "32.03.170",
+    "name": "Sindangjaya",
+    "alias": "Sindangjaya"
+  },
+  {
+    "code": "32.03.170.008",
+    "villageCode": "008",
+    "districtCode": "32.03.170",
+    "name": "Sindangsari",
+    "alias": "Sindangsari"
+  },
+  {
+    "code": "32.03.170.009",
+    "villageCode": "009",
+    "districtCode": "32.03.170",
+    "name": "Cibiuk",
+    "alias": "Cibiuk"
+  },
+  {
+    "code": "32.03.170.010",
+    "villageCode": "010",
+    "districtCode": "32.03.170",
+    "name": "Mekargalih",
+    "alias": "Mekargalih"
+  },
+  {
+    "code": "32.03.170.011",
+    "villageCode": "011",
+    "districtCode": "32.03.170",
+    "name": "Ciranjang",
+    "alias": "Ciranjang"
+  },
+  {
+    "code": "32.03.170.012",
+    "villageCode": "012",
+    "districtCode": "32.03.170",
+    "name": "Nanggalamekar",
+    "alias": "Nanggalamekar"
+  }
+]

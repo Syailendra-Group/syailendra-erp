@@ -1,0 +1,65 @@
+[
+  {
+    "code": "36.01.080.001",
+    "villageCode": "001",
+    "districtCode": "36.01.080",
+    "name": "Ciherang",
+    "alias": "Ciherang"
+  },
+  {
+    "code": "36.01.080.002",
+    "villageCode": "002",
+    "districtCode": "36.01.080",
+    "name": "Kolelet",
+    "alias": "Kolelet"
+  },
+  {
+    "code": "36.01.080.003",
+    "villageCode": "003",
+    "districtCode": "36.01.080",
+    "name": "Cililitan",
+    "alias": "Cililitan"
+  },
+  {
+    "code": "36.01.080.004",
+    "villageCode": "004",
+    "districtCode": "36.01.080",
+    "name": "Kadupandak",
+    "alias": "Kadupandak"
+  },
+  {
+    "code": "36.01.080.005",
+    "villageCode": "005",
+    "districtCode": "36.01.080",
+    "name": "Bungurcopong",
+    "alias": "Bungurcopong"
+  },
+  {
+    "code": "36.01.080.006",
+    "villageCode": "006",
+    "districtCode": "36.01.080",
+    "name": "Pasirsedang",
+    "alias": "Pasirsedang"
+  },
+  {
+    "code": "36.01.080.007",
+    "villageCode": "007",
+    "districtCode": "36.01.080",
+    "name": "Pasirpanjang",
+    "alias": "Pasirpanjang"
+  },
+  {
+    "code": "36.01.080.008",
+    "villageCode": "008",
+    "districtCode": "36.01.080",
+    "name": "Kadubera",
+    "alias": "Kadubera"
+  },
+  {
+    "code": "36.01.080.009",
+    "villageCode": "009",
+    "districtCode": "36.01.080",
+    "name": "Ganggaeng",
+    "alias": "Ganggaeng"
+  }
+]

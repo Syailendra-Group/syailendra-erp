@@ -1,0 +1,44 @@
+[
+  {
+    "code": "82.71.013.001",
+    "villageCode": "001",
+    "districtCode": "82.71.013",
+    "name": "Dorari Isa",
+    "alias": "Dorari Isa"
+  },
+  {
+    "code": "82.71.013.002",
+    "villageCode": "002",
+    "districtCode": "82.71.013",
+    "name": "Tafraka",
+    "alias": "Tafraka"
+  },
+  {
+    "code": "82.71.013.003",
+    "villageCode": "003",
+    "districtCode": "82.71.013",
+    "name": "Togolobe",
+    "alias": "Togolobe"
+  },
+  {
+    "code": "82.71.013.004",
+    "villageCode": "004",
+    "districtCode": "82.71.013",
+    "name": "Mado",
+    "alias": "Mado"
+  },
+  {
+    "code": "82.71.013.005",
+    "villageCode": "005",
+    "districtCode": "82.71.013",
+    "name": "Faudu",
+    "alias": "Faudu"
+  },
+  {
+    "code": "82.71.013.006",
+    "villageCode": "006",
+    "districtCode": "82.71.013",
+    "name": "Tomajiko",
+    "alias": "Tomajiko"
+  }
+]

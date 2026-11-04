@@ -1,0 +1,72 @@
+[
+  {
+    "code": "53.05.022.001",
+    "villageCode": "001",
+    "districtCode": "53.05.022",
+    "name": "Maurisu",
+    "alias": "Maurisu"
+  },
+  {
+    "code": "53.05.022.002",
+    "villageCode": "002",
+    "districtCode": "53.05.022",
+    "name": "Naiola",
+    "alias": "Naiola"
+  },
+  {
+    "code": "53.05.022.003",
+    "villageCode": "003",
+    "districtCode": "53.05.022",
+    "name": "Oetalus",
+    "alias": "Oetalus"
+  },
+  {
+    "code": "53.05.022.004",
+    "villageCode": "004",
+    "districtCode": "53.05.022",
+    "name": "Oelami",
+    "alias": "Oelami"
+  },
+  {
+    "code": "53.05.022.005",
+    "villageCode": "005",
+    "districtCode": "53.05.022",
+    "name": "Kiusili",
+    "alias": "Kiusili"
+  },
+  {
+    "code": "53.05.022.006",
+    "villageCode": "006",
+    "districtCode": "53.05.022",
+    "name": "Maurisu Utara",
+    "alias": "Maurisu Utara"
+  },
+  {
+    "code": "53.05.022.007",
+    "villageCode": "007",
+    "districtCode": "53.05.022",
+    "name": "Maurisu Selatan",
+    "alias": "Maurisu Selatan"
+  },
+  {
+    "code": "53.05.022.008",
+    "villageCode": "008",
+    "districtCode": "53.05.022",
+    "name": "Tublopo",
+    "alias": "Tublopo"
+  },
+  {
+    "code": "53.05.022.009",
+    "villageCode": "009",
+    "districtCode": "53.05.022",
+    "name": "Maurisu Tengah",
+    "alias": "Maurisu Tengah"
+  },
+  {
+    "code": "53.05.022.010",
+    "villageCode": "010",
+    "districtCode": "53.05.022",
+    "name": "Naiola Timur",
+    "alias": "Naiola Timur"
+  }
+]

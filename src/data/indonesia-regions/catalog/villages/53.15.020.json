@@ -1,0 +1,107 @@
+[
+  {
+    "code": "53.15.020.001",
+    "villageCode": "001",
+    "districtCode": "53.15.020",
+    "name": "Mata Wae",
+    "alias": "Mata Wae"
+  },
+  {
+    "code": "53.15.020.002",
+    "villageCode": "002",
+    "districtCode": "53.15.020",
+    "name": "Wae Sano",
+    "alias": "Wae Sano"
+  },
+  {
+    "code": "53.15.020.003",
+    "villageCode": "003",
+    "districtCode": "53.15.020",
+    "name": "Sano Nggoang",
+    "alias": "Sano Nggoang"
+  },
+  {
+    "code": "53.15.020.004",
+    "villageCode": "004",
+    "districtCode": "53.15.020",
+    "name": "Golo Sengang",
+    "alias": "Golo Sengang"
+  },
+  {
+    "code": "53.15.020.005",
+    "villageCode": "005",
+    "districtCode": "53.15.020",
+    "name": "Golo Mbu",
+    "alias": "Golo Mbu"
+  },
+  {
+    "code": "53.15.020.006",
+    "villageCode": "006",
+    "districtCode": "53.15.020",
+    "name": "Golo Manting",
+    "alias": "Golo Manting"
+  },
+  {
+    "code": "53.15.020.007",
+    "villageCode": "007",
+    "districtCode": "53.15.020",
+    "name": "Golo Ndaring",
+    "alias": "Golo Ndaring"
+  },
+  {
+    "code": "53.15.020.008",
+    "villageCode": "008",
+    "districtCode": "53.15.020",
+    "name": "Golo Kempo",
+    "alias": "Golo Kempo"
+  },
+  {
+    "code": "53.15.020.009",
+    "villageCode": "009",
+    "districtCode": "53.15.020",
+    "name": "Nampar Macing",
+    "alias": "Nampar Macing"
+  },
+  {
+    "code": "53.15.020.010",
+    "villageCode": "010",
+    "districtCode": "53.15.020",
+    "name": "Golo Leleng",
+    "alias": "Golo Leleng"
+  },
+  {
+    "code": "53.15.020.019",
+    "villageCode": "019",
+    "districtCode": "53.15.020",
+    "name": "Wae Lolos",
+    "alias": "Wae Lolos"
+  },
+  {
+    "code": "53.15.020.020",
+    "villageCode": "020",
+    "districtCode": "53.15.020",
+    "name": "Pulau Nuncung",
+    "alias": "Pulau Nuncung"
+  },
+  {
+    "code": "53.15.020.021",
+    "villageCode": "021",
+    "districtCode": "53.15.020",
+    "name": "Golo Kondeng",
+    "alias": "Golo Kondeng"
+  },
+  {
+    "code": "53.15.020.022",
+    "villageCode": "022",
+    "districtCode": "53.15.020",
+    "name": "Watu Panggal",
+    "alias": "Watu Panggal"
+  },
+  {
+    "code": "53.15.020.023",
+    "villageCode": "023",
+    "districtCode": "53.15.020",
+    "name": "Poco Golo Kempo",
+    "alias": "Poco Golo Kempo"
+  }
+]

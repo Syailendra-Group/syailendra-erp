@@ -1,0 +1,72 @@
+[
+  {
+    "code": "12.10.090.001",
+    "villageCode": "001",
+    "districtCode": "12.10.090",
+    "name": "Lae Itam",
+    "alias": "Lae Itam"
+  },
+  {
+    "code": "12.10.090.002",
+    "villageCode": "002",
+    "districtCode": "12.10.090",
+    "name": "Pardomuan",
+    "alias": "Pardomuan"
+  },
+  {
+    "code": "12.10.090.003",
+    "villageCode": "003",
+    "districtCode": "12.10.090",
+    "name": "Jambur Indonesia",
+    "alias": "Jambur Indonesia"
+  },
+  {
+    "code": "12.10.090.004",
+    "villageCode": "004",
+    "districtCode": "12.10.090",
+    "name": "Simungun",
+    "alias": "Simungun"
+  },
+  {
+    "code": "12.10.090.005",
+    "villageCode": "005",
+    "districtCode": "12.10.090",
+    "name": "J A N J I",
+    "alias": "J A N J I"
+  },
+  {
+    "code": "12.10.090.006",
+    "villageCode": "006",
+    "districtCode": "12.10.090",
+    "name": "Lae Markelang",
+    "alias": "Lae Markelang"
+  },
+  {
+    "code": "12.10.090.007",
+    "villageCode": "007",
+    "districtCode": "12.10.090",
+    "name": "Lae Luhung",
+    "alias": "Lae Luhung"
+  },
+  {
+    "code": "12.10.090.008",
+    "villageCode": "008",
+    "districtCode": "12.10.090",
+    "name": "Sopo Butar",
+    "alias": "Sopo Butar"
+  },
+  {
+    "code": "12.10.090.009",
+    "villageCode": "009",
+    "districtCode": "12.10.090",
+    "name": "Lae Sering",
+    "alias": "Lae Sering"
+  },
+  {
+    "code": "12.10.090.010",
+    "villageCode": "010",
+    "districtCode": "12.10.090",
+    "name": "Lae Haporas",
+    "alias": "Lae Haporas"
+  }
+]

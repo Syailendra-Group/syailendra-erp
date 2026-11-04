@@ -1,0 +1,65 @@
+[
+  {
+    "code": "14.06.061.001",
+    "villageCode": "001",
+    "districtCode": "14.06.061",
+    "name": "Pulau Rambai",
+    "alias": "Pulau Rambai"
+  },
+  {
+    "code": "14.06.061.002",
+    "villageCode": "002",
+    "districtCode": "14.06.061",
+    "name": "Kampar",
+    "alias": "Kampar"
+  },
+  {
+    "code": "14.06.061.003",
+    "villageCode": "003",
+    "districtCode": "14.06.061",
+    "name": "Koto Perambahan",
+    "alias": "Koto Perambahan"
+  },
+  {
+    "code": "14.06.061.004",
+    "villageCode": "004",
+    "districtCode": "14.06.061",
+    "name": "Pulau Birandang",
+    "alias": "Pulau Birandang"
+  },
+  {
+    "code": "14.06.061.005",
+    "villageCode": "005",
+    "districtCode": "14.06.061",
+    "name": "Sungai Putih",
+    "alias": "Sungai Putih"
+  },
+  {
+    "code": "14.06.061.006",
+    "villageCode": "006",
+    "districtCode": "14.06.061",
+    "name": "Deli Makmur",
+    "alias": "Deli Makmur"
+  },
+  {
+    "code": "14.06.061.007",
+    "villageCode": "007",
+    "districtCode": "14.06.061",
+    "name": "Sungai Tarap",
+    "alias": "Sungai Tarap"
+  },
+  {
+    "code": "14.06.061.008",
+    "villageCode": "008",
+    "districtCode": "14.06.061",
+    "name": "Tanjung Bungo",
+    "alias": "Tanjung Bungo"
+  },
+  {
+    "code": "14.06.061.009",
+    "villageCode": "009",
+    "districtCode": "14.06.061",
+    "name": "Sawah Baru",
+    "alias": "Sawah Baru"
+  }
+]

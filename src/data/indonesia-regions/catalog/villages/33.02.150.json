@@ -1,0 +1,72 @@
+[
+  {
+    "code": "33.02.150.001",
+    "villageCode": "001",
+    "districtCode": "33.02.150",
+    "name": "Cilangkap",
+    "alias": "Cilangkap"
+  },
+  {
+    "code": "33.02.150.002",
+    "villageCode": "002",
+    "districtCode": "33.02.150",
+    "name": "Cihonje",
+    "alias": "Cihonje"
+  },
+  {
+    "code": "33.02.150.003",
+    "villageCode": "003",
+    "districtCode": "33.02.150",
+    "name": "Paningkaban",
+    "alias": "Paningkaban"
+  },
+  {
+    "code": "33.02.150.004",
+    "villageCode": "004",
+    "districtCode": "33.02.150",
+    "name": "Karangkemojing",
+    "alias": "Karangkemojing"
+  },
+  {
+    "code": "33.02.150.005",
+    "villageCode": "005",
+    "districtCode": "33.02.150",
+    "name": "Gancang",
+    "alias": "Gancang"
+  },
+  {
+    "code": "33.02.150.006",
+    "villageCode": "006",
+    "districtCode": "33.02.150",
+    "name": "Kedungurang",
+    "alias": "Kedungurang"
+  },
+  {
+    "code": "33.02.150.007",
+    "villageCode": "007",
+    "districtCode": "33.02.150",
+    "name": "Gumelar",
+    "alias": "Gumelar"
+  },
+  {
+    "code": "33.02.150.008",
+    "villageCode": "008",
+    "districtCode": "33.02.150",
+    "name": "Tlaga",
+    "alias": "Tlaga"
+  },
+  {
+    "code": "33.02.150.009",
+    "villageCode": "009",
+    "districtCode": "33.02.150",
+    "name": "Samudra",
+    "alias": "Samudra"
+  },
+  {
+    "code": "33.02.150.010",
+    "villageCode": "010",
+    "districtCode": "33.02.150",
+    "name": "Samudra Kulon",
+    "alias": "Samudra Kulon"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "code": "71.72.011.001",
+    "villageCode": "001",
+    "districtCode": "71.72.011",
+    "name": "Tanjung Merah",
+    "alias": "Tanjung Merah"
+  },
+  {
+    "code": "71.72.011.002",
+    "villageCode": "002",
+    "districtCode": "71.72.011",
+    "name": "Sagerat",
+    "alias": "Sagerat"
+  },
+  {
+    "code": "71.72.011.003",
+    "villageCode": "003",
+    "districtCode": "71.72.011",
+    "name": "Manembo Nembo Atas",
+    "alias": "Manembo Nembo Atas"
+  },
+  {
+    "code": "71.72.011.004",
+    "villageCode": "004",
+    "districtCode": "71.72.011",
+    "name": "Manembo Nembo",
+    "alias": "Manembo Nembo"
+  },
+  {
+    "code": "71.72.011.011",
+    "villageCode": "011",
+    "districtCode": "71.72.011",
+    "name": "Sagerat Weru Satu",
+    "alias": "Sagerat Weru Satu"
+  },
+  {
+    "code": "71.72.011.012",
+    "villageCode": "012",
+    "districtCode": "71.72.011",
+    "name": "Sagerat Weru Dua",
+    "alias": "Sagerat Weru Dua"
+  },
+  {
+    "code": "71.72.011.013",
+    "villageCode": "013",
+    "districtCode": "71.72.011",
+    "name": "Tendeki",
+    "alias": "Tendeki"
+  },
+  {
+    "code": "71.72.011.014",
+    "villageCode": "014",
+    "districtCode": "71.72.011",
+    "name": "Manembo-Nembo Tengah",
+    "alias": "Manembo-Nembo Tengah"
+  }
+]

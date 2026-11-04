@@ -1,0 +1,65 @@
+[
+  {
+    "code": "52.01.010.001",
+    "villageCode": "001",
+    "districtCode": "52.01.010",
+    "name": "Pelangan",
+    "alias": "Pelangan"
+  },
+  {
+    "code": "52.01.010.002",
+    "villageCode": "002",
+    "districtCode": "52.01.010",
+    "name": "Sekotong Barat",
+    "alias": "Sekotong Barat"
+  },
+  {
+    "code": "52.01.010.003",
+    "villageCode": "003",
+    "districtCode": "52.01.010",
+    "name": "Buwun Mas",
+    "alias": "Buwun Mas"
+  },
+  {
+    "code": "52.01.010.004",
+    "villageCode": "004",
+    "districtCode": "52.01.010",
+    "name": "Sekotong Tengah",
+    "alias": "Sekotong Tengah"
+  },
+  {
+    "code": "52.01.010.005",
+    "villageCode": "005",
+    "districtCode": "52.01.010",
+    "name": "Kedaro",
+    "alias": "Kedaro"
+  },
+  {
+    "code": "52.01.010.006",
+    "villageCode": "006",
+    "districtCode": "52.01.010",
+    "name": "Batu Putih",
+    "alias": "Batu Putih"
+  },
+  {
+    "code": "52.01.010.007",
+    "villageCode": "007",
+    "districtCode": "52.01.010",
+    "name": "Cendi Manik",
+    "alias": "Cendi Manik"
+  },
+  {
+    "code": "52.01.010.008",
+    "villageCode": "008",
+    "districtCode": "52.01.010",
+    "name": "Gili Gede Indah",
+    "alias": "Gili Gede Indah"
+  },
+  {
+    "code": "52.01.010.011",
+    "villageCode": "011",
+    "districtCode": "52.01.010",
+    "name": "Taman Baru",
+    "alias": "Taman Baru"
+  }
+]

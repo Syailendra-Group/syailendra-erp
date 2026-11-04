@@ -1,0 +1,100 @@
+[
+  {
+    "code": "35.19.050.001",
+    "villageCode": "001",
+    "districtCode": "35.19.050",
+    "name": "Sidorejo",
+    "alias": "Sidorejo"
+  },
+  {
+    "code": "35.19.050.002",
+    "villageCode": "002",
+    "districtCode": "35.19.050",
+    "name": "Pilangrejo",
+    "alias": "Pilangrejo"
+  },
+  {
+    "code": "35.19.050.003",
+    "villageCode": "003",
+    "districtCode": "35.19.050",
+    "name": "Munggut",
+    "alias": "Munggut"
+  },
+  {
+    "code": "35.19.050.004",
+    "villageCode": "004",
+    "districtCode": "35.19.050",
+    "name": "Mojopurno",
+    "alias": "Mojopurno"
+  },
+  {
+    "code": "35.19.050.005",
+    "villageCode": "005",
+    "districtCode": "35.19.050",
+    "name": "Karangrejo",
+    "alias": "Karangrejo"
+  },
+  {
+    "code": "35.19.050.006",
+    "villageCode": "006",
+    "districtCode": "35.19.050",
+    "name": "Brumbun",
+    "alias": "Brumbun"
+  },
+  {
+    "code": "35.19.050.007",
+    "villageCode": "007",
+    "districtCode": "35.19.050",
+    "name": "Kresek",
+    "alias": "Kresek"
+  },
+  {
+    "code": "35.19.050.008",
+    "villageCode": "008",
+    "districtCode": "35.19.050",
+    "name": "Wungu",
+    "alias": "Wungu"
+  },
+  {
+    "code": "35.19.050.009",
+    "villageCode": "009",
+    "districtCode": "35.19.050",
+    "name": "Mojorayung",
+    "alias": "Mojorayung"
+  },
+  {
+    "code": "35.19.050.010",
+    "villageCode": "010",
+    "districtCode": "35.19.050",
+    "name": "Bantengan",
+    "alias": "Bantengan"
+  },
+  {
+    "code": "35.19.050.011",
+    "villageCode": "011",
+    "districtCode": "35.19.050",
+    "name": "Tempursari",
+    "alias": "Tempursari"
+  },
+  {
+    "code": "35.19.050.012",
+    "villageCode": "012",
+    "districtCode": "35.19.050",
+    "name": "Nglanduk",
+    "alias": "Nglanduk"
+  },
+  {
+    "code": "35.19.050.013",
+    "villageCode": "013",
+    "districtCode": "35.19.050",
+    "name": "Nglambangan",
+    "alias": "Nglambangan"
+  },
+  {
+    "code": "35.19.050.014",
+    "villageCode": "014",
+    "districtCode": "35.19.050",
+    "name": "Sobrah",
+    "alias": "Sobrah"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "code": "32.02.210.001",
+    "villageCode": "001",
+    "districtCode": "32.02.210",
+    "name": "Neglasari",
+    "alias": "Neglasari"
+  },
+  {
+    "code": "32.02.210.002",
+    "villageCode": "002",
+    "districtCode": "32.02.210",
+    "name": "Tenjojaya",
+    "alias": "Tenjojaya"
+  },
+  {
+    "code": "32.02.210.003",
+    "villageCode": "003",
+    "districtCode": "32.02.210",
+    "name": "Sekarwangi",
+    "alias": "Sekarwangi"
+  },
+  {
+    "code": "32.02.210.009",
+    "villageCode": "009",
+    "districtCode": "32.02.210",
+    "name": "Batununggal",
+    "alias": "Batununggal"
+  },
+  {
+    "code": "32.02.210.010",
+    "villageCode": "010",
+    "districtCode": "32.02.210",
+    "name": "Karangtengah",
+    "alias": "Karangtengah"
+  },
+  {
+    "code": "32.02.210.011",
+    "villageCode": "011",
+    "districtCode": "32.02.210",
+    "name": "Cibadak",
+    "alias": "Cibadak"
+  },
+  {
+    "code": "32.02.210.012",
+    "villageCode": "012",
+    "districtCode": "32.02.210",
+    "name": "Warnajati",
+    "alias": "Warnajati"
+  },
+  {
+    "code": "32.02.210.013",
+    "villageCode": "013",
+    "districtCode": "32.02.210",
+    "name": "Sukasirna",
+    "alias": "Sukasirna"
+  },
+  {
+    "code": "32.02.210.014",
+    "villageCode": "014",
+    "districtCode": "32.02.210",
+    "name": "Pamuruyan",
+    "alias": "Pamuruyan"
+  },
+  {
+    "code": "32.02.210.015",
+    "villageCode": "015",
+    "districtCode": "32.02.210",
+    "name": "Ciheulang Tonggoh",
+    "alias": "Ciheulang Tonggoh"
+  }
+]

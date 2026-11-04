@@ -1,0 +1,44 @@
+[
+  {
+    "code": "21.71.010.001",
+    "villageCode": "001",
+    "districtCode": "21.71.010",
+    "name": "Pulau Terong",
+    "alias": "Pulau Terong"
+  },
+  {
+    "code": "21.71.010.002",
+    "villageCode": "002",
+    "districtCode": "21.71.010",
+    "name": "Pecong",
+    "alias": "Pecong"
+  },
+  {
+    "code": "21.71.010.003",
+    "villageCode": "003",
+    "districtCode": "21.71.010",
+    "name": "Kasu",
+    "alias": "Kasu"
+  },
+  {
+    "code": "21.71.010.004",
+    "villageCode": "004",
+    "districtCode": "21.71.010",
+    "name": "Pemping",
+    "alias": "Pemping"
+  },
+  {
+    "code": "21.71.010.006",
+    "villageCode": "006",
+    "districtCode": "21.71.010",
+    "name": "Tanjung Sari",
+    "alias": "Tanjung Sari"
+  },
+  {
+    "code": "21.71.010.007",
+    "villageCode": "007",
+    "districtCode": "21.71.010",
+    "name": "Sekanak Raya",
+    "alias": "Sekanak Raya"
+  }
+]

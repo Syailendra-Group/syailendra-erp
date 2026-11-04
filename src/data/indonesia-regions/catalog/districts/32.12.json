@@ -1,0 +1,250 @@
+[
+  {
+    "code": "32.12.010",
+    "districtCode": "010",
+    "regencyCode": "32.12",
+    "provinceCode": "32",
+    "name": "Kecamatan Haurgeulis",
+    "alias": "Haurgeulis"
+  },
+  {
+    "code": "32.12.011",
+    "districtCode": "011",
+    "regencyCode": "32.12",
+    "provinceCode": "32",
+    "name": "Kecamatan Gantar",
+    "alias": "Gantar"
+  },
+  {
+    "code": "32.12.020",
+    "districtCode": "020",
+    "regencyCode": "32.12",
+    "provinceCode": "32",
+    "name": "Kecamatan Kroya",
+    "alias": "Kroya"
+  },
+  {
+    "code": "32.12.030",
+    "districtCode": "030",
+    "regencyCode": "32.12",
+    "provinceCode": "32",
+    "name": "Kecamatan Gabuswetan",
+    "alias": "Gabuswetan"
+  },
+  {
+    "code": "32.12.040",
+    "districtCode": "040",
+    "regencyCode": "32.12",
+    "provinceCode": "32",
+    "name": "Kecamatan Cikedung",
+    "alias": "Cikedung"
+  },
+  {
+    "code": "32.12.041",
+    "districtCode": "041",
+    "regencyCode": "32.12",
+    "provinceCode": "32",
+    "name": "Kecamatan Terisi",
+    "alias": "Terisi"
+  },
+  {
+    "code": "32.12.050",
+    "districtCode": "050",
+    "regencyCode": "32.12",
+    "provinceCode": "32",
+    "name": "Kecamatan Lelea",
+    "alias": "Lelea"
+  },
+  {
+    "code": "32.12.060",
+    "districtCode": "060",
+    "regencyCode": "32.12",
+    "provinceCode": "32",
+    "name": "Kecamatan Bangodua",
+    "alias": "Bangodua"
+  },
+  {
+    "code": "32.12.061",
+    "districtCode": "061",
+    "regencyCode": "32.12",
+    "provinceCode": "32",
+    "name": "Kecamatan Tukdana",
+    "alias": "Tukdana"
+  },
+  {
+    "code": "32.12.070",
+    "districtCode": "070",
+    "regencyCode": "32.12",
+    "provinceCode": "32",
+    "name": "Kecamatan Widasari",
+    "alias": "Widasari"
+  },
+  {
+    "code": "32.12.080",
+    "districtCode": "080",
+    "regencyCode": "32.12",
+    "provinceCode": "32",
+    "name": "Kecamatan Kertasemaya",
+    "alias": "Kertasemaya"
+  },
+  {
+    "code": "32.12.081",
+    "districtCode": "081",
+    "regencyCode": "32.12",
+    "provinceCode": "32",
+    "name": "Kecamatan Sukagumiwang",
+    "alias": "Sukagumiwang"
+  },
+  {
+    "code": "32.12.090",
+    "districtCode": "090",
+    "regencyCode": "32.12",
+    "provinceCode": "32",
+    "name": "Kecamatan Krangkeng",
+    "alias": "Krangkeng"
+  },
+  {
+    "code": "32.12.100",
+    "districtCode": "100",
+    "regencyCode": "32.12",
+    "provinceCode": "32",
+    "name": "Kecamatan Karangampel",
+    "alias": "Karangampel"
+  },
+  {
+    "code": "32.12.101",
+    "districtCode": "101",
+    "regencyCode": "32.12",
+    "provinceCode": "32",
+    "name": "Kecamatan Kedokan Bunder",
+    "alias": "Kedokan Bunder"
+  },
+  {
+    "code": "32.12.110",
+    "districtCode": "110",
+    "regencyCode": "32.12",
+    "provinceCode": "32",
+    "name": "Kecamatan Juntinyuat",
+    "alias": "Juntinyuat"
+  },
+  {
+    "code": "32.12.120",
+    "districtCode": "120",
+    "regencyCode": "32.12",
+    "provinceCode": "32",
+    "name": "Kecamatan Sliyeg",
+    "alias": "Sliyeg"
+  },
+  {
+    "code": "32.12.130",
+    "districtCode": "130",
+    "regencyCode": "32.12",
+    "provinceCode": "32",
+    "name": "Kecamatan Jatibarang",
+    "alias": "Jatibarang"
+  },
+  {
+    "code": "32.12.140",
+    "districtCode": "140",
+    "regencyCode": "32.12",
+    "provinceCode": "32",
+    "name": "Kecamatan Balongan",
+    "alias": "Balongan"
+  },
+  {
+    "code": "32.12.150",
+    "districtCode": "150",
+    "regencyCode": "32.12",
+    "provinceCode": "32",
+    "name": "Kecamatan Indramayu",
+    "alias": "Indramayu"
+  },
+  {
+    "code": "32.12.160",
+    "districtCode": "160",
+    "regencyCode": "32.12",
+    "provinceCode": "32",
+    "name": "Kecamatan Sindang",
+    "alias": "Sindang"
+  },
+  {
+    "code": "32.12.161",
+    "districtCode": "161",
+    "regencyCode": "32.12",
+    "provinceCode": "32",
+    "name": "Kecamatan Cantigi",
+    "alias": "Cantigi"
+  },
+  {
+    "code": "32.12.162",
+    "districtCode": "162",
+    "regencyCode": "32.12",
+    "provinceCode": "32",
+    "name": "Kecamatan Pasekan",
+    "alias": "Pasekan"
+  },
+  {
+    "code": "32.12.170",
+    "districtCode": "170",
+    "regencyCode": "32.12",
+    "provinceCode": "32",
+    "name": "Kecamatan Lohbener",
+    "alias": "Lohbener"
+  },
+  {
+    "code": "32.12.171",
+    "districtCode": "171",
+    "regencyCode": "32.12",
+    "provinceCode": "32",
+    "name": "Kecamatan Arahan",
+    "alias": "Arahan"
+  },
+  {
+    "code": "32.12.180",
+    "districtCode": "180",
+    "regencyCode": "32.12",
+    "provinceCode": "32",
+    "name": "Kecamatan Losarang",
+    "alias": "Losarang"
+  },
+  {
+    "code": "32.12.190",
+    "districtCode": "190",
+    "regencyCode": "32.12",
+    "provinceCode": "32",
+    "name": "Kecamatan Kandanghaur",
+    "alias": "Kandanghaur"
+  },
+  {
+    "code": "32.12.200",
+    "districtCode": "200",
+    "regencyCode": "32.12",
+    "provinceCode": "32",
+    "name": "Kecamatan Bongas",
+    "alias": "Bongas"
+  },
+  {
+    "code": "32.12.210",
+    "districtCode": "210",
+    "regencyCode": "32.12",
+    "provinceCode": "32",
+    "name": "Kecamatan Anjatan",
+    "alias": "Anjatan"
+  },
+  {
+    "code": "32.12.220",
+    "districtCode": "220",
+    "regencyCode": "32.12",
+    "provinceCode": "32",
+    "name": "Kecamatan Sukra",
+    "alias": "Sukra"
+  },
+  {
+    "code": "32.12.221",
+    "districtCode": "221",
+    "regencyCode": "32.12",
+    "provinceCode": "32",
+    "name": "Kecamatan Patrol",
+    "alias": "Patrol"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "code": "53.03.181.001",
+    "villageCode": "001",
+    "districtCode": "53.03.181",
+    "name": "Manubelon",
+    "alias": "Manubelon"
+  },
+  {
+    "code": "53.03.181.002",
+    "villageCode": "002",
+    "districtCode": "53.03.181",
+    "name": "Nefoneut",
+    "alias": "Nefoneut"
+  },
+  {
+    "code": "53.03.181.003",
+    "villageCode": "003",
+    "districtCode": "53.03.181",
+    "name": "Letkole",
+    "alias": "Letkole"
+  },
+  {
+    "code": "53.03.181.004",
+    "villageCode": "004",
+    "districtCode": "53.03.181",
+    "name": "Bioba Barutaen",
+    "alias": "Bioba Barutaen"
+  }
+]

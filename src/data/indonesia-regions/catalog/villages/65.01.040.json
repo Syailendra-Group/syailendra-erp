@@ -1,0 +1,37 @@
+[
+  {
+    "code": "65.01.040.001",
+    "villageCode": "001",
+    "districtCode": "65.01.040",
+    "name": "Long Metun",
+    "alias": "Long Metun"
+  },
+  {
+    "code": "65.01.040.002",
+    "villageCode": "002",
+    "districtCode": "65.01.040",
+    "name": "Sungai Anai",
+    "alias": "Sungai Anai"
+  },
+  {
+    "code": "65.01.040.003",
+    "villageCode": "003",
+    "districtCode": "65.01.040",
+    "name": "Long Pipa",
+    "alias": "Long Pipa"
+  },
+  {
+    "code": "65.01.040.004",
+    "villageCode": "004",
+    "districtCode": "65.01.040",
+    "name": "Long Sule",
+    "alias": "Long Sule"
+  },
+  {
+    "code": "65.01.040.005",
+    "villageCode": "005",
+    "districtCode": "65.01.040",
+    "name": "Data Dian",
+    "alias": "Data Dian"
+  }
+]

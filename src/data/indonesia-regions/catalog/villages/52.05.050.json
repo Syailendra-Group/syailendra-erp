@@ -1,0 +1,58 @@
+[
+  {
+    "code": "52.05.050.009",
+    "villageCode": "009",
+    "districtCode": "52.05.050",
+    "name": "Ta A",
+    "alias": "Ta A"
+  },
+  {
+    "code": "52.05.050.010",
+    "villageCode": "010",
+    "districtCode": "52.05.050",
+    "name": "Kempo",
+    "alias": "Kempo"
+  },
+  {
+    "code": "52.05.050.011",
+    "villageCode": "011",
+    "districtCode": "52.05.050",
+    "name": "Soro",
+    "alias": "Soro"
+  },
+  {
+    "code": "52.05.050.012",
+    "villageCode": "012",
+    "districtCode": "52.05.050",
+    "name": "Konte",
+    "alias": "Konte"
+  },
+  {
+    "code": "52.05.050.013",
+    "villageCode": "013",
+    "districtCode": "52.05.050",
+    "name": "So Nggajah",
+    "alias": "So Nggajah"
+  },
+  {
+    "code": "52.05.050.014",
+    "villageCode": "014",
+    "districtCode": "52.05.050",
+    "name": "Tolo Kalo",
+    "alias": "Tolo Kalo"
+  },
+  {
+    "code": "52.05.050.015",
+    "villageCode": "015",
+    "districtCode": "52.05.050",
+    "name": "Doro Kobo",
+    "alias": "Doro Kobo"
+  },
+  {
+    "code": "52.05.050.016",
+    "villageCode": "016",
+    "districtCode": "52.05.050",
+    "name": "Soro Barat",
+    "alias": "Soro Barat"
+  }
+]

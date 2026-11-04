@@ -1,0 +1,65 @@
+[
+  {
+    "code": "61.08.090.001",
+    "villageCode": "001",
+    "districtCode": "61.08.090",
+    "name": "Nanga Embaloh",
+    "alias": "Nanga Embaloh"
+  },
+  {
+    "code": "61.08.090.002",
+    "villageCode": "002",
+    "districtCode": "61.08.090",
+    "name": "Keliling Semulung",
+    "alias": "Keliling Semulung"
+  },
+  {
+    "code": "61.08.090.006",
+    "villageCode": "006",
+    "districtCode": "61.08.090",
+    "name": "Lawik",
+    "alias": "Lawik"
+  },
+  {
+    "code": "61.08.090.007",
+    "villageCode": "007",
+    "districtCode": "61.08.090",
+    "name": "Nanga Lauk",
+    "alias": "Nanga Lauk"
+  },
+  {
+    "code": "61.08.090.008",
+    "villageCode": "008",
+    "districtCode": "61.08.090",
+    "name": "Nanga Palin",
+    "alias": "Nanga Palin"
+  },
+  {
+    "code": "61.08.090.009",
+    "villageCode": "009",
+    "districtCode": "61.08.090",
+    "name": "Kirin Nangka",
+    "alias": "Kirin Nangka"
+  },
+  {
+    "code": "61.08.090.010",
+    "villageCode": "010",
+    "districtCode": "61.08.090",
+    "name": "Pala Pintas",
+    "alias": "Pala Pintas"
+  },
+  {
+    "code": "61.08.090.011",
+    "villageCode": "011",
+    "districtCode": "61.08.090",
+    "name": "Ujung Bayur",
+    "alias": "Ujung Bayur"
+  },
+  {
+    "code": "61.08.090.012",
+    "villageCode": "012",
+    "districtCode": "61.08.090",
+    "name": "Belatung",
+    "alias": "Belatung"
+  }
+]

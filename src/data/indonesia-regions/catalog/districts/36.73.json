@@ -1,0 +1,50 @@
+[
+  {
+    "code": "36.73.010",
+    "districtCode": "010",
+    "regencyCode": "36.73",
+    "provinceCode": "36",
+    "name": "Kecamatan Curug",
+    "alias": "Curug"
+  },
+  {
+    "code": "36.73.020",
+    "districtCode": "020",
+    "regencyCode": "36.73",
+    "provinceCode": "36",
+    "name": "Kecamatan Walantaka",
+    "alias": "Walantaka"
+  },
+  {
+    "code": "36.73.030",
+    "districtCode": "030",
+    "regencyCode": "36.73",
+    "provinceCode": "36",
+    "name": "Kecamatan Cipocok Jaya",
+    "alias": "Cipocok Jaya"
+  },
+  {
+    "code": "36.73.040",
+    "districtCode": "040",
+    "regencyCode": "36.73",
+    "provinceCode": "36",
+    "name": "Kecamatan Serang",
+    "alias": "Serang"
+  },
+  {
+    "code": "36.73.050",
+    "districtCode": "050",
+    "regencyCode": "36.73",
+    "provinceCode": "36",
+    "name": "Kecamatan Taktakan",
+    "alias": "Taktakan"
+  },
+  {
+    "code": "36.73.060",
+    "districtCode": "060",
+    "regencyCode": "36.73",
+    "provinceCode": "36",
+    "name": "Kecamatan Kasemen",
+    "alias": "Kasemen"
+  }
+]

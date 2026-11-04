@@ -1,0 +1,58 @@
+[
+  {
+    "code": "52.04.050.006",
+    "villageCode": "006",
+    "districtCode": "52.04.050",
+    "name": "Luar",
+    "alias": "Luar"
+  },
+  {
+    "code": "52.04.050.007",
+    "villageCode": "007",
+    "districtCode": "52.04.050",
+    "name": "Baru",
+    "alias": "Baru"
+  },
+  {
+    "code": "52.04.050.008",
+    "villageCode": "008",
+    "districtCode": "52.04.050",
+    "name": "Kalimango",
+    "alias": "Kalimango"
+  },
+  {
+    "code": "52.04.050.009",
+    "villageCode": "009",
+    "districtCode": "52.04.050",
+    "name": "Juran Alas",
+    "alias": "Juran Alas"
+  },
+  {
+    "code": "52.04.050.010",
+    "villageCode": "010",
+    "districtCode": "52.04.050",
+    "name": "Dalam",
+    "alias": "Dalam"
+  },
+  {
+    "code": "52.04.050.011",
+    "villageCode": "011",
+    "districtCode": "52.04.050",
+    "name": "Pulau Bungin",
+    "alias": "Pulau Bungin"
+  },
+  {
+    "code": "52.04.050.013",
+    "villageCode": "013",
+    "districtCode": "52.04.050",
+    "name": "Marente",
+    "alias": "Marente"
+  },
+  {
+    "code": "52.04.050.019",
+    "villageCode": "019",
+    "districtCode": "52.04.050",
+    "name": "Labuhan Alas",
+    "alias": "Labuhan Alas"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "code": "35.11.150.005",
+    "villageCode": "005",
+    "districtCode": "35.11.150",
+    "name": "Karanganyar",
+    "alias": "Karanganyar"
+  },
+  {
+    "code": "35.11.150.006",
+    "villageCode": "006",
+    "districtCode": "35.11.150",
+    "name": "Blimbing",
+    "alias": "Blimbing"
+  },
+  {
+    "code": "35.11.150.007",
+    "villageCode": "007",
+    "districtCode": "35.11.150",
+    "name": "Karang Sengon",
+    "alias": "Karang Sengon"
+  },
+  {
+    "code": "35.11.150.008",
+    "villageCode": "008",
+    "districtCode": "35.11.150",
+    "name": "Wonokerto",
+    "alias": "Wonokerto"
+  },
+  {
+    "code": "35.11.150.009",
+    "villageCode": "009",
+    "districtCode": "35.11.150",
+    "name": "Klabang",
+    "alias": "Klabang"
+  },
+  {
+    "code": "35.11.150.010",
+    "villageCode": "010",
+    "districtCode": "35.11.150",
+    "name": "Besuk",
+    "alias": "Besuk"
+  },
+  {
+    "code": "35.11.150.011",
+    "villageCode": "011",
+    "districtCode": "35.11.150",
+    "name": "Klampokan",
+    "alias": "Klampokan"
+  },
+  {
+    "code": "35.11.150.012",
+    "villageCode": "012",
+    "districtCode": "35.11.150",
+    "name": "Sumbersuko",
+    "alias": "Sumbersuko"
+  },
+  {
+    "code": "35.11.150.013",
+    "villageCode": "013",
+    "districtCode": "35.11.150",
+    "name": "Pandak",
+    "alias": "Pandak"
+  },
+  {
+    "code": "35.11.150.014",
+    "villageCode": "014",
+    "districtCode": "35.11.150",
+    "name": "Leprak",
+    "alias": "Leprak"
+  },
+  {
+    "code": "35.11.150.015",
+    "villageCode": "015",
+    "districtCode": "35.11.150",
+    "name": "Wonoboyo",
+    "alias": "Wonoboyo"
+  }
+]

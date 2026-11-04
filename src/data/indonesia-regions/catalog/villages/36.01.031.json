@@ -1,0 +1,72 @@
+[
+  {
+    "code": "36.01.031.001",
+    "villageCode": "001",
+    "districtCode": "36.01.031",
+    "name": "Citeluk",
+    "alias": "Citeluk"
+  },
+  {
+    "code": "36.01.031.002",
+    "villageCode": "002",
+    "districtCode": "36.01.031",
+    "name": "Sindangkerta",
+    "alias": "Sindangkerta"
+  },
+  {
+    "code": "36.01.031.003",
+    "villageCode": "003",
+    "districtCode": "36.01.031",
+    "name": "Kiarajangkung",
+    "alias": "Kiarajangkung"
+  },
+  {
+    "code": "36.01.031.004",
+    "villageCode": "004",
+    "districtCode": "36.01.031",
+    "name": "Kutakarang",
+    "alias": "Kutakarang"
+  },
+  {
+    "code": "36.01.031.005",
+    "villageCode": "005",
+    "districtCode": "36.01.031",
+    "name": "Cikiruh",
+    "alias": "Cikiruh"
+  },
+  {
+    "code": "36.01.031.006",
+    "villageCode": "006",
+    "districtCode": "36.01.031",
+    "name": "Malangnengah",
+    "alias": "Malangnengah"
+  },
+  {
+    "code": "36.01.031.007",
+    "villageCode": "007",
+    "districtCode": "36.01.031",
+    "name": "Cikadu",
+    "alias": "Cikadu"
+  },
+  {
+    "code": "36.01.031.008",
+    "villageCode": "008",
+    "districtCode": "36.01.031",
+    "name": "Manglid",
+    "alias": "Manglid"
+  },
+  {
+    "code": "36.01.031.009",
+    "villageCode": "009",
+    "districtCode": "36.01.031",
+    "name": "Kiarapayung",
+    "alias": "Kiarapayung"
+  },
+  {
+    "code": "36.01.031.010",
+    "villageCode": "010",
+    "districtCode": "36.01.031",
+    "name": "Cikalong",
+    "alias": "Cikalong"
+  }
+]

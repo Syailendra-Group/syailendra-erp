@@ -1,0 +1,58 @@
+[
+  {
+    "code": "71.05.081.001",
+    "villageCode": "001",
+    "districtCode": "71.05.081",
+    "name": "Malola I",
+    "alias": "Malola I"
+  },
+  {
+    "code": "71.05.081.002",
+    "villageCode": "002",
+    "districtCode": "71.05.081",
+    "name": "Malola",
+    "alias": "Malola"
+  },
+  {
+    "code": "71.05.081.003",
+    "villageCode": "003",
+    "districtCode": "71.05.081",
+    "name": "Makasili",
+    "alias": "Makasili"
+  },
+  {
+    "code": "71.05.081.004",
+    "villageCode": "004",
+    "districtCode": "71.05.081",
+    "name": "Kumelembuai Atas",
+    "alias": "Kumelembuai Atas"
+  },
+  {
+    "code": "71.05.081.005",
+    "villageCode": "005",
+    "districtCode": "71.05.081",
+    "name": "Kumelembuai",
+    "alias": "Kumelembuai"
+  },
+  {
+    "code": "71.05.081.006",
+    "villageCode": "006",
+    "districtCode": "71.05.081",
+    "name": "Kumelembuai I",
+    "alias": "Kumelembuai I"
+  },
+  {
+    "code": "71.05.081.012",
+    "villageCode": "012",
+    "districtCode": "71.05.081",
+    "name": "Kumelembuai Ii",
+    "alias": "Kumelembuai Ii"
+  },
+  {
+    "code": "71.05.081.013",
+    "villageCode": "013",
+    "districtCode": "71.05.081",
+    "name": "Lolombulan Makasili",
+    "alias": "Lolombulan Makasili"
+  }
+]

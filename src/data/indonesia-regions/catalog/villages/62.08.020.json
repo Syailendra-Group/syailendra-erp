@@ -1,0 +1,58 @@
+[
+  {
+    "code": "62.08.020.001",
+    "villageCode": "001",
+    "districtCode": "62.08.020",
+    "name": "Telaga Pulang",
+    "alias": "Telaga Pulang"
+  },
+  {
+    "code": "62.08.020.002",
+    "villageCode": "002",
+    "districtCode": "62.08.020",
+    "name": "Sembuluh Ii",
+    "alias": "Sembuluh Ii"
+  },
+  {
+    "code": "62.08.020.003",
+    "villageCode": "003",
+    "districtCode": "62.08.020",
+    "name": "Cempaka Baru",
+    "alias": "Cempaka Baru"
+  },
+  {
+    "code": "62.08.020.004",
+    "villageCode": "004",
+    "districtCode": "62.08.020",
+    "name": "Palingkau",
+    "alias": "Palingkau"
+  },
+  {
+    "code": "62.08.020.005",
+    "villageCode": "005",
+    "districtCode": "62.08.020",
+    "name": "Ulak Batu",
+    "alias": "Ulak Batu"
+  },
+  {
+    "code": "62.08.020.006",
+    "villageCode": "006",
+    "districtCode": "62.08.020",
+    "name": "Paren",
+    "alias": "Paren"
+  },
+  {
+    "code": "62.08.020.007",
+    "villageCode": "007",
+    "districtCode": "62.08.020",
+    "name": "Banua Usang",
+    "alias": "Banua Usang"
+  },
+  {
+    "code": "62.08.020.008",
+    "villageCode": "008",
+    "districtCode": "62.08.020",
+    "name": "Sembuluh I",
+    "alias": "Sembuluh I"
+  }
+]

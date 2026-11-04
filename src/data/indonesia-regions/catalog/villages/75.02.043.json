@@ -1,0 +1,72 @@
+[
+  {
+    "code": "75.02.043.001",
+    "villageCode": "001",
+    "districtCode": "75.02.043",
+    "name": "Bululi",
+    "alias": "Bululi"
+  },
+  {
+    "code": "75.02.043.002",
+    "villageCode": "002",
+    "districtCode": "75.02.043",
+    "name": "Mohiyolo",
+    "alias": "Mohiyolo"
+  },
+  {
+    "code": "75.02.043.003",
+    "villageCode": "003",
+    "districtCode": "75.02.043",
+    "name": "Karya Indah",
+    "alias": "Karya Indah"
+  },
+  {
+    "code": "75.02.043.004",
+    "villageCode": "004",
+    "districtCode": "75.02.043",
+    "name": "Pangahu",
+    "alias": "Pangahu"
+  },
+  {
+    "code": "75.02.043.005",
+    "villageCode": "005",
+    "districtCode": "75.02.043",
+    "name": "Tiohu",
+    "alias": "Tiohu"
+  },
+  {
+    "code": "75.02.043.006",
+    "villageCode": "006",
+    "districtCode": "75.02.043",
+    "name": "Prima",
+    "alias": "Prima"
+  },
+  {
+    "code": "75.02.043.007",
+    "villageCode": "007",
+    "districtCode": "75.02.043",
+    "name": "Karya Baru",
+    "alias": "Karya Baru"
+  },
+  {
+    "code": "75.02.043.008",
+    "villageCode": "008",
+    "districtCode": "75.02.043",
+    "name": "Bontula",
+    "alias": "Bontula"
+  },
+  {
+    "code": "75.02.043.009",
+    "villageCode": "009",
+    "districtCode": "75.02.043",
+    "name": "Bihe",
+    "alias": "Bihe"
+  },
+  {
+    "code": "75.02.043.010",
+    "villageCode": "010",
+    "districtCode": "75.02.043",
+    "name": "Olimohulo",
+    "alias": "Olimohulo"
+  }
+]

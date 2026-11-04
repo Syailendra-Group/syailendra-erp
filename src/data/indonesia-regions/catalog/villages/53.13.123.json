@@ -1,0 +1,121 @@
+[
+  {
+    "code": "53.13.123.001",
+    "villageCode": "001",
+    "districtCode": "53.13.123",
+    "name": "Pong Lengor",
+    "alias": "Pong Lengor"
+  },
+  {
+    "code": "53.13.123.002",
+    "villageCode": "002",
+    "districtCode": "53.13.123",
+    "name": "Dimpong",
+    "alias": "Dimpong"
+  },
+  {
+    "code": "53.13.123.003",
+    "villageCode": "003",
+    "districtCode": "53.13.123",
+    "name": "Tengku Lese",
+    "alias": "Tengku Lese"
+  },
+  {
+    "code": "53.13.123.004",
+    "villageCode": "004",
+    "districtCode": "53.13.123",
+    "name": "Golo Langkok",
+    "alias": "Golo Langkok"
+  },
+  {
+    "code": "53.13.123.005",
+    "villageCode": "005",
+    "districtCode": "53.13.123",
+    "name": "Compang Dari",
+    "alias": "Compang Dari"
+  },
+  {
+    "code": "53.13.123.006",
+    "villageCode": "006",
+    "districtCode": "53.13.123",
+    "name": "Liang Bua",
+    "alias": "Liang Bua"
+  },
+  {
+    "code": "53.13.123.007",
+    "villageCode": "007",
+    "districtCode": "53.13.123",
+    "name": "Bangka Ajang",
+    "alias": "Bangka Ajang"
+  },
+  {
+    "code": "53.13.123.008",
+    "villageCode": "008",
+    "districtCode": "53.13.123",
+    "name": "Buar",
+    "alias": "Buar"
+  },
+  {
+    "code": "53.13.123.009",
+    "villageCode": "009",
+    "districtCode": "53.13.123",
+    "name": "Benteng Tubi",
+    "alias": "Benteng Tubi"
+  },
+  {
+    "code": "53.13.123.010",
+    "villageCode": "010",
+    "districtCode": "53.13.123",
+    "name": "Manong",
+    "alias": "Manong"
+  },
+  {
+    "code": "53.13.123.011",
+    "villageCode": "011",
+    "districtCode": "53.13.123",
+    "name": "Bangka Ruang",
+    "alias": "Bangka Ruang"
+  },
+  {
+    "code": "53.13.123.012",
+    "villageCode": "012",
+    "districtCode": "53.13.123",
+    "name": "Wae Mantang",
+    "alias": "Wae Mantang"
+  },
+  {
+    "code": "53.13.123.013",
+    "villageCode": "013",
+    "districtCode": "53.13.123",
+    "name": "Desa Persiapan Bangka Putuk",
+    "alias": "Desa Persiapan Bangka Putuk"
+  },
+  {
+    "code": "53.13.123.014",
+    "villageCode": "014",
+    "districtCode": "53.13.123",
+    "name": "Desa Persiapan Cunca Lega",
+    "alias": "Desa Persiapan Cunca Lega"
+  },
+  {
+    "code": "53.13.123.015",
+    "villageCode": "015",
+    "districtCode": "53.13.123",
+    "name": "Desa Persiapan Golo Wangko",
+    "alias": "Desa Persiapan Golo Wangko"
+  },
+  {
+    "code": "53.13.123.016",
+    "villageCode": "016",
+    "districtCode": "53.13.123",
+    "name": "Desa Persiapan Compang Ntala",
+    "alias": "Desa Persiapan Compang Ntala"
+  },
+  {
+    "code": "53.13.123.017",
+    "villageCode": "017",
+    "districtCode": "53.13.123",
+    "name": "Desa Persiapan Mbau Langke",
+    "alias": "Desa Persiapan Mbau Langke"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "code": "96.08.110.001",
+    "villageCode": "001",
+    "districtCode": "96.08.110",
+    "name": "Dokome",
+    "alias": "Dokome"
+  },
+  {
+    "code": "96.08.110.002",
+    "villageCode": "002",
+    "districtCode": "96.08.110",
+    "name": "Urage",
+    "alias": "Urage"
+  },
+  {
+    "code": "96.08.110.003",
+    "villageCode": "003",
+    "districtCode": "96.08.110",
+    "name": "Nungwawi",
+    "alias": "Nungwawi"
+  },
+  {
+    "code": "96.08.110.004",
+    "villageCode": "004",
+    "districtCode": "96.08.110",
+    "name": "Nowoneri",
+    "alias": "Nowoneri"
+  },
+  {
+    "code": "96.08.110.005",
+    "villageCode": "005",
+    "districtCode": "96.08.110",
+    "name": "Nowome",
+    "alias": "Nowome"
+  },
+  {
+    "code": "96.08.110.006",
+    "villageCode": "006",
+    "districtCode": "96.08.110",
+    "name": "Imulineri",
+    "alias": "Imulineri"
+  },
+  {
+    "code": "96.08.110.007",
+    "villageCode": "007",
+    "districtCode": "96.08.110",
+    "name": "Molobak",
+    "alias": "Molobak"
+  },
+  {
+    "code": "96.08.110.008",
+    "villageCode": "008",
+    "districtCode": "96.08.110",
+    "name": "Purbalo",
+    "alias": "Purbalo"
+  },
+  {
+    "code": "96.08.110.009",
+    "villageCode": "009",
+    "districtCode": "96.08.110",
+    "name": "Kumibut",
+    "alias": "Kumibut"
+  }
+]

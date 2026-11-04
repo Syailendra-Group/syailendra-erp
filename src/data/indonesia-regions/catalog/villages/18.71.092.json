@@ -1,0 +1,44 @@
+[
+  {
+    "code": "18.71.092.001",
+    "villageCode": "001",
+    "districtCode": "18.71.092",
+    "name": "Jagabaya I",
+    "alias": "Jagabaya I"
+  },
+  {
+    "code": "18.71.092.002",
+    "villageCode": "002",
+    "districtCode": "18.71.092",
+    "name": "Jagabaya Ii",
+    "alias": "Jagabaya Ii"
+  },
+  {
+    "code": "18.71.092.003",
+    "villageCode": "003",
+    "districtCode": "18.71.092",
+    "name": "Jagabaya Iii",
+    "alias": "Jagabaya Iii"
+  },
+  {
+    "code": "18.71.092.004",
+    "villageCode": "004",
+    "districtCode": "18.71.092",
+    "name": "Gunung Sulah",
+    "alias": "Gunung Sulah"
+  },
+  {
+    "code": "18.71.092.005",
+    "villageCode": "005",
+    "districtCode": "18.71.092",
+    "name": "Way Halim Permai",
+    "alias": "Way Halim Permai"
+  },
+  {
+    "code": "18.71.092.006",
+    "villageCode": "006",
+    "districtCode": "18.71.092",
+    "name": "Perumnas Way Halim",
+    "alias": "Perumnas Way Halim"
+  }
+]

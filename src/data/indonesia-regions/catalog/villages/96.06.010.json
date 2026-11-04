@@ -1,0 +1,65 @@
+[
+  {
+    "code": "96.06.010.001",
+    "villageCode": "001",
+    "districtCode": "96.06.010",
+    "name": "Mbugulo",
+    "alias": "Mbugulo"
+  },
+  {
+    "code": "96.06.010.002",
+    "villageCode": "002",
+    "districtCode": "96.06.010",
+    "name": "Mogalo",
+    "alias": "Mogalo"
+  },
+  {
+    "code": "96.06.010.003",
+    "villageCode": "003",
+    "districtCode": "96.06.010",
+    "name": "Isandoga",
+    "alias": "Isandoga"
+  },
+  {
+    "code": "96.06.010.004",
+    "villageCode": "004",
+    "districtCode": "96.06.010",
+    "name": "Debasiga I",
+    "alias": "Debasiga I"
+  },
+  {
+    "code": "96.06.010.005",
+    "villageCode": "005",
+    "districtCode": "96.06.010",
+    "name": "Jae",
+    "alias": "Jae"
+  },
+  {
+    "code": "96.06.010.006",
+    "villageCode": "006",
+    "districtCode": "96.06.010",
+    "name": "Sabisa",
+    "alias": "Sabisa"
+  },
+  {
+    "code": "96.06.010.007",
+    "villageCode": "007",
+    "districtCode": "96.06.010",
+    "name": "Debasiga Ii",
+    "alias": "Debasiga Ii"
+  },
+  {
+    "code": "96.06.010.008",
+    "villageCode": "008",
+    "districtCode": "96.06.010",
+    "name": "Dubasiga",
+    "alias": "Dubasiga"
+  },
+  {
+    "code": "96.06.010.009",
+    "villageCode": "009",
+    "districtCode": "96.06.010",
+    "name": "Hulagupa",
+    "alias": "Hulagupa"
+  }
+]

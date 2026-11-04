@@ -1,0 +1,100 @@
+[
+  {
+    "code": "32.01.260.001",
+    "villageCode": "001",
+    "districtCode": "32.01.260",
+    "name": "Leuwibatu",
+    "alias": "Leuwibatu"
+  },
+  {
+    "code": "32.01.260.002",
+    "villageCode": "002",
+    "districtCode": "32.01.260",
+    "name": "Cidokom",
+    "alias": "Cidokom"
+  },
+  {
+    "code": "32.01.260.003",
+    "villageCode": "003",
+    "districtCode": "32.01.260",
+    "name": "Gobang",
+    "alias": "Gobang"
+  },
+  {
+    "code": "32.01.260.004",
+    "villageCode": "004",
+    "districtCode": "32.01.260",
+    "name": "Rabak",
+    "alias": "Rabak"
+  },
+  {
+    "code": "32.01.260.005",
+    "villageCode": "005",
+    "districtCode": "32.01.260",
+    "name": "Cibodas",
+    "alias": "Cibodas"
+  },
+  {
+    "code": "32.01.260.006",
+    "villageCode": "006",
+    "districtCode": "32.01.260",
+    "name": "Kampung Sawah",
+    "alias": "Kampung Sawah"
+  },
+  {
+    "code": "32.01.260.007",
+    "villageCode": "007",
+    "districtCode": "32.01.260",
+    "name": "Rumpin",
+    "alias": "Rumpin"
+  },
+  {
+    "code": "32.01.260.008",
+    "villageCode": "008",
+    "districtCode": "32.01.260",
+    "name": "Cipinang",
+    "alias": "Cipinang"
+  },
+  {
+    "code": "32.01.260.009",
+    "villageCode": "009",
+    "districtCode": "32.01.260",
+    "name": "Sukasari",
+    "alias": "Sukasari"
+  },
+  {
+    "code": "32.01.260.010",
+    "villageCode": "010",
+    "districtCode": "32.01.260",
+    "name": "Kertajaya",
+    "alias": "Kertajaya"
+  },
+  {
+    "code": "32.01.260.011",
+    "villageCode": "011",
+    "districtCode": "32.01.260",
+    "name": "Tamansari",
+    "alias": "Tamansari"
+  },
+  {
+    "code": "32.01.260.012",
+    "villageCode": "012",
+    "districtCode": "32.01.260",
+    "name": "Sukamulya",
+    "alias": "Sukamulya"
+  },
+  {
+    "code": "32.01.260.013",
+    "villageCode": "013",
+    "districtCode": "32.01.260",
+    "name": "Mekarsari",
+    "alias": "Mekarsari"
+  },
+  {
+    "code": "32.01.260.014",
+    "villageCode": "014",
+    "districtCode": "32.01.260",
+    "name": "Mekarjaya",
+    "alias": "Mekarjaya"
+  }
+]

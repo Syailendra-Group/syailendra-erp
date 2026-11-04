@@ -1,0 +1,135 @@
+[
+  {
+    "code": "35.02.030.001",
+    "villageCode": "001",
+    "districtCode": "35.02.030",
+    "name": "Pelem",
+    "alias": "Pelem"
+  },
+  {
+    "code": "35.02.030.002",
+    "villageCode": "002",
+    "districtCode": "35.02.030",
+    "name": "Koripan",
+    "alias": "Koripan"
+  },
+  {
+    "code": "35.02.030.003",
+    "villageCode": "003",
+    "districtCode": "35.02.030",
+    "name": "Bekare",
+    "alias": "Bekare"
+  },
+  {
+    "code": "35.02.030.004",
+    "villageCode": "004",
+    "districtCode": "35.02.030",
+    "name": "Nambak",
+    "alias": "Nambak"
+  },
+  {
+    "code": "35.02.030.005",
+    "villageCode": "005",
+    "districtCode": "35.02.030",
+    "name": "Kalisat",
+    "alias": "Kalisat"
+  },
+  {
+    "code": "35.02.030.006",
+    "villageCode": "006",
+    "districtCode": "35.02.030",
+    "name": "Munggu",
+    "alias": "Munggu"
+  },
+  {
+    "code": "35.02.030.007",
+    "villageCode": "007",
+    "districtCode": "35.02.030",
+    "name": "Pager",
+    "alias": "Pager"
+  },
+  {
+    "code": "35.02.030.008",
+    "villageCode": "008",
+    "districtCode": "35.02.030",
+    "name": "Belang",
+    "alias": "Belang"
+  },
+  {
+    "code": "35.02.030.009",
+    "villageCode": "009",
+    "districtCode": "35.02.030",
+    "name": "Bungkal",
+    "alias": "Bungkal"
+  },
+  {
+    "code": "35.02.030.010",
+    "villageCode": "010",
+    "districtCode": "35.02.030",
+    "name": "Ketonggo",
+    "alias": "Ketonggo"
+  },
+  {
+    "code": "35.02.030.011",
+    "villageCode": "011",
+    "districtCode": "35.02.030",
+    "name": "Kunti",
+    "alias": "Kunti"
+  },
+  {
+    "code": "35.02.030.012",
+    "villageCode": "012",
+    "districtCode": "35.02.030",
+    "name": "Bancar",
+    "alias": "Bancar"
+  },
+  {
+    "code": "35.02.030.013",
+    "villageCode": "013",
+    "districtCode": "35.02.030",
+    "name": "Padas",
+    "alias": "Padas"
+  },
+  {
+    "code": "35.02.030.014",
+    "villageCode": "014",
+    "districtCode": "35.02.030",
+    "name": "Bungu",
+    "alias": "Bungu"
+  },
+  {
+    "code": "35.02.030.015",
+    "villageCode": "015",
+    "districtCode": "35.02.030",
+    "name": "Kupuk",
+    "alias": "Kupuk"
+  },
+  {
+    "code": "35.02.030.016",
+    "villageCode": "016",
+    "districtCode": "35.02.030",
+    "name": "Sambilawang",
+    "alias": "Sambilawang"
+  },
+  {
+    "code": "35.02.030.017",
+    "villageCode": "017",
+    "districtCode": "35.02.030",
+    "name": "Kwajon",
+    "alias": "Kwajon"
+  },
+  {
+    "code": "35.02.030.018",
+    "villageCode": "018",
+    "districtCode": "35.02.030",
+    "name": "Bediwetan",
+    "alias": "Bediwetan"
+  },
+  {
+    "code": "35.02.030.019",
+    "villageCode": "019",
+    "districtCode": "35.02.030",
+    "name": "Bedikulon",
+    "alias": "Bedikulon"
+  }
+]

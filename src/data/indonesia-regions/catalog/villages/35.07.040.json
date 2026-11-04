@@ -1,0 +1,72 @@
+[
+  {
+    "code": "35.07.040.001",
+    "villageCode": "001",
+    "districtCode": "35.07.040",
+    "name": "Bandungrejo",
+    "alias": "Bandungrejo"
+  },
+  {
+    "code": "35.07.040.002",
+    "villageCode": "002",
+    "districtCode": "35.07.040",
+    "name": "Sumberbening",
+    "alias": "Sumberbening"
+  },
+  {
+    "code": "35.07.040.003",
+    "villageCode": "003",
+    "districtCode": "35.07.040",
+    "name": "Srigonco",
+    "alias": "Srigonco"
+  },
+  {
+    "code": "35.07.040.004",
+    "villageCode": "004",
+    "districtCode": "35.07.040",
+    "name": "Wonorejo",
+    "alias": "Wonorejo"
+  },
+  {
+    "code": "35.07.040.005",
+    "villageCode": "005",
+    "districtCode": "35.07.040",
+    "name": "Bantur",
+    "alias": "Bantur"
+  },
+  {
+    "code": "35.07.040.006",
+    "villageCode": "006",
+    "districtCode": "35.07.040",
+    "name": "Pringgodani",
+    "alias": "Pringgodani"
+  },
+  {
+    "code": "35.07.040.007",
+    "villageCode": "007",
+    "districtCode": "35.07.040",
+    "name": "Rejosari",
+    "alias": "Rejosari"
+  },
+  {
+    "code": "35.07.040.008",
+    "villageCode": "008",
+    "districtCode": "35.07.040",
+    "name": "Wonokerto",
+    "alias": "Wonokerto"
+  },
+  {
+    "code": "35.07.040.009",
+    "villageCode": "009",
+    "districtCode": "35.07.040",
+    "name": "Rejoyoso",
+    "alias": "Rejoyoso"
+  },
+  {
+    "code": "35.07.040.010",
+    "villageCode": "010",
+    "districtCode": "35.07.040",
+    "name": "Karangsari",
+    "alias": "Karangsari"
+  }
+]

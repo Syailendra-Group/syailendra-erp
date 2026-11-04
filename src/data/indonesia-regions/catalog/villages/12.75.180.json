@@ -1,0 +1,44 @@
+[
+  {
+    "code": "12.75.180.001",
+    "villageCode": "001",
+    "districtCode": "12.75.180",
+    "name": "Tanjung Mulia",
+    "alias": "Tanjung Mulia"
+  },
+  {
+    "code": "12.75.180.002",
+    "villageCode": "002",
+    "districtCode": "12.75.180",
+    "name": "Tanjung Mulia Hilir",
+    "alias": "Tanjung Mulia Hilir"
+  },
+  {
+    "code": "12.75.180.003",
+    "villageCode": "003",
+    "districtCode": "12.75.180",
+    "name": "Mabar Hilir",
+    "alias": "Mabar Hilir"
+  },
+  {
+    "code": "12.75.180.004",
+    "villageCode": "004",
+    "districtCode": "12.75.180",
+    "name": "M A B A R",
+    "alias": "M A B A R"
+  },
+  {
+    "code": "12.75.180.005",
+    "villageCode": "005",
+    "districtCode": "12.75.180",
+    "name": "Kota Bangun",
+    "alias": "Kota Bangun"
+  },
+  {
+    "code": "12.75.180.006",
+    "villageCode": "006",
+    "districtCode": "12.75.180",
+    "name": "Titi Papan",
+    "alias": "Titi Papan"
+  }
+]

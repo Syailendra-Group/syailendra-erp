@@ -1,0 +1,58 @@
+[
+  {
+    "code": "71.11.010",
+    "districtCode": "010",
+    "regencyCode": "71.11",
+    "provinceCode": "71",
+    "name": "Kecamatan Nuangan",
+    "alias": "Nuangan"
+  },
+  {
+    "code": "71.11.011",
+    "districtCode": "011",
+    "regencyCode": "71.11",
+    "provinceCode": "71",
+    "name": "Kecamatan Motongkad",
+    "alias": "Motongkad"
+  },
+  {
+    "code": "71.11.020",
+    "districtCode": "020",
+    "regencyCode": "71.11",
+    "provinceCode": "71",
+    "name": "Kecamatan Tutuyan",
+    "alias": "Tutuyan"
+  },
+  {
+    "code": "71.11.030",
+    "districtCode": "030",
+    "regencyCode": "71.11",
+    "provinceCode": "71",
+    "name": "Kecamatan Kotabunan",
+    "alias": "Kotabunan"
+  },
+  {
+    "code": "71.11.040",
+    "districtCode": "040",
+    "regencyCode": "71.11",
+    "provinceCode": "71",
+    "name": "Kecamatan Modayag",
+    "alias": "Modayag"
+  },
+  {
+    "code": "71.11.041",
+    "districtCode": "041",
+    "regencyCode": "71.11",
+    "provinceCode": "71",
+    "name": "Kecamatan Mooat",
+    "alias": "Mooat"
+  },
+  {
+    "code": "71.11.050",
+    "districtCode": "050",
+    "regencyCode": "71.11",
+    "provinceCode": "71",
+    "name": "Kecamatan Modayag Barat",
+    "alias": "Modayag Barat"
+  }
+]

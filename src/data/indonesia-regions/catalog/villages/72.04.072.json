@@ -1,0 +1,37 @@
+[
+  {
+    "code": "72.04.072.001",
+    "villageCode": "001",
+    "districtCode": "72.04.072",
+    "name": "Lembomawo",
+    "alias": "Lembomawo"
+  },
+  {
+    "code": "72.04.072.002",
+    "villageCode": "002",
+    "districtCode": "72.04.072",
+    "name": "Ranononcu",
+    "alias": "Ranononcu"
+  },
+  {
+    "code": "72.04.072.003",
+    "villageCode": "003",
+    "districtCode": "72.04.072",
+    "name": "Kawua",
+    "alias": "Kawua"
+  },
+  {
+    "code": "72.04.072.004",
+    "villageCode": "004",
+    "districtCode": "72.04.072",
+    "name": "Bukit Bambu",
+    "alias": "Bukit Bambu"
+  },
+  {
+    "code": "72.04.072.005",
+    "villageCode": "005",
+    "districtCode": "72.04.072",
+    "name": "Sayo",
+    "alias": "Sayo"
+  }
+]

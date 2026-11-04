@@ -1,0 +1,65 @@
+[
+  {
+    "code": "95.04.010.020",
+    "villageCode": "020",
+    "districtCode": "95.04.010",
+    "name": "Sanapai",
+    "alias": "Sanapai"
+  },
+  {
+    "code": "95.04.010.021",
+    "villageCode": "021",
+    "districtCode": "95.04.010",
+    "name": "Eseib",
+    "alias": "Eseib"
+  },
+  {
+    "code": "95.04.010.022",
+    "villageCode": "022",
+    "districtCode": "95.04.010",
+    "name": "Bawor",
+    "alias": "Bawor"
+  },
+  {
+    "code": "95.04.010.023",
+    "villageCode": "023",
+    "districtCode": "95.04.010",
+    "name": "Seramit",
+    "alias": "Seramit"
+  },
+  {
+    "code": "95.04.010.024",
+    "villageCode": "024",
+    "districtCode": "95.04.010",
+    "name": "Yagamit",
+    "alias": "Yagamit"
+  },
+  {
+    "code": "95.04.010.025",
+    "villageCode": "025",
+    "districtCode": "95.04.010",
+    "name": "Yahui",
+    "alias": "Yahui"
+  },
+  {
+    "code": "95.04.010.026",
+    "villageCode": "026",
+    "districtCode": "95.04.010",
+    "name": "Kamur",
+    "alias": "Kamur"
+  },
+  {
+    "code": "95.04.010.027",
+    "villageCode": "027",
+    "districtCode": "95.04.010",
+    "name": "Hainam",
+    "alias": "Hainam"
+  },
+  {
+    "code": "95.04.010.040",
+    "villageCode": "040",
+    "districtCode": "95.04.010",
+    "name": "Sarmafo",
+    "alias": "Sarmafo"
+  }
+]

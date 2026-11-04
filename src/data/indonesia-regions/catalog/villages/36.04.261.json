@@ -1,0 +1,51 @@
+[
+  {
+    "code": "36.04.261.001",
+    "villageCode": "001",
+    "districtCode": "36.04.261",
+    "name": "Gembor",
+    "alias": "Gembor"
+  },
+  {
+    "code": "36.04.261.002",
+    "villageCode": "002",
+    "districtCode": "36.04.261",
+    "name": "Renged",
+    "alias": "Renged"
+  },
+  {
+    "code": "36.04.261.003",
+    "villageCode": "003",
+    "districtCode": "36.04.261",
+    "name": "Cakung",
+    "alias": "Cakung"
+  },
+  {
+    "code": "36.04.261.004",
+    "villageCode": "004",
+    "districtCode": "36.04.261",
+    "name": "Lamaran",
+    "alias": "Lamaran"
+  },
+  {
+    "code": "36.04.261.005",
+    "villageCode": "005",
+    "districtCode": "36.04.261",
+    "name": "Warakas",
+    "alias": "Warakas"
+  },
+  {
+    "code": "36.04.261.006",
+    "villageCode": "006",
+    "districtCode": "36.04.261",
+    "name": "Binuang",
+    "alias": "Binuang"
+  },
+  {
+    "code": "36.04.261.007",
+    "villageCode": "007",
+    "districtCode": "36.04.261",
+    "name": "Sukamampir",
+    "alias": "Sukamampir"
+  }
+]

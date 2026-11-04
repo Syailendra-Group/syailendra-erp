@@ -1,0 +1,72 @@
+[
+  {
+    "code": "92.04.160.001",
+    "villageCode": "001",
+    "districtCode": "92.04.160",
+    "name": "Fiane",
+    "alias": "Fiane"
+  },
+  {
+    "code": "92.04.160.002",
+    "villageCode": "002",
+    "districtCode": "92.04.160",
+    "name": "Kartapura",
+    "alias": "Kartapura"
+  },
+  {
+    "code": "92.04.160.003",
+    "villageCode": "003",
+    "districtCode": "92.04.160",
+    "name": "Men",
+    "alias": "Men"
+  },
+  {
+    "code": "92.04.160.004",
+    "villageCode": "004",
+    "districtCode": "92.04.160",
+    "name": "Isme",
+    "alias": "Isme"
+  },
+  {
+    "code": "92.04.160.005",
+    "villageCode": "005",
+    "districtCode": "92.04.160",
+    "name": "Tut",
+    "alias": "Tut"
+  },
+  {
+    "code": "92.04.160.006",
+    "villageCode": "006",
+    "districtCode": "92.04.160",
+    "name": "Semu",
+    "alias": "Semu"
+  },
+  {
+    "code": "92.04.160.007",
+    "villageCode": "007",
+    "districtCode": "92.04.160",
+    "name": "Hufioh",
+    "alias": "Hufioh"
+  },
+  {
+    "code": "92.04.160.008",
+    "villageCode": "008",
+    "districtCode": "92.04.160",
+    "name": "Rindu",
+    "alias": "Rindu"
+  },
+  {
+    "code": "92.04.160.009",
+    "villageCode": "009",
+    "districtCode": "92.04.160",
+    "name": "Bawy",
+    "alias": "Bawy"
+  },
+  {
+    "code": "92.04.160.010",
+    "villageCode": "010",
+    "districtCode": "92.04.160",
+    "name": "Yohwer",
+    "alias": "Yohwer"
+  }
+]

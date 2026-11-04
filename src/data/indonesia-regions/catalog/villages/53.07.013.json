@@ -1,0 +1,51 @@
+[
+  {
+    "code": "53.07.013.001",
+    "villageCode": "001",
+    "districtCode": "53.07.013",
+    "name": "Marisa",
+    "alias": "Marisa"
+  },
+  {
+    "code": "53.07.013.002",
+    "villageCode": "002",
+    "districtCode": "53.07.013",
+    "name": "Allumang",
+    "alias": "Allumang"
+  },
+  {
+    "code": "53.07.013.003",
+    "villageCode": "003",
+    "districtCode": "53.07.013",
+    "name": "Kayang",
+    "alias": "Kayang"
+  },
+  {
+    "code": "53.07.013.004",
+    "villageCode": "004",
+    "districtCode": "53.07.013",
+    "name": "Lamma",
+    "alias": "Lamma"
+  },
+  {
+    "code": "53.07.013.005",
+    "villageCode": "005",
+    "districtCode": "53.07.013",
+    "name": "Beang Onong",
+    "alias": "Beang Onong"
+  },
+  {
+    "code": "53.07.013.006",
+    "villageCode": "006",
+    "districtCode": "53.07.013",
+    "name": "Kalondama Barat",
+    "alias": "Kalondama Barat"
+  },
+  {
+    "code": "53.07.013.007",
+    "villageCode": "007",
+    "districtCode": "53.07.013",
+    "name": "Kalondama Tengah",
+    "alias": "Kalondama Tengah"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "code": "72.12.060.001",
+    "villageCode": "001",
+    "districtCode": "72.12.060",
+    "name": "Moleono",
+    "alias": "Moleono"
+  },
+  {
+    "code": "72.12.060.002",
+    "villageCode": "002",
+    "districtCode": "72.12.060",
+    "name": "Onepute",
+    "alias": "Onepute"
+  },
+  {
+    "code": "72.12.060.003",
+    "villageCode": "003",
+    "districtCode": "72.12.060",
+    "name": "Mondowe",
+    "alias": "Mondowe"
+  },
+  {
+    "code": "72.12.060.004",
+    "villageCode": "004",
+    "districtCode": "72.12.060",
+    "name": "Tadaku Jaya",
+    "alias": "Tadaku Jaya"
+  },
+  {
+    "code": "72.12.060.005",
+    "villageCode": "005",
+    "districtCode": "72.12.060",
+    "name": "Sampalowo",
+    "alias": "Sampalowo"
+  },
+  {
+    "code": "72.12.060.006",
+    "villageCode": "006",
+    "districtCode": "72.12.060",
+    "name": "Maralee",
+    "alias": "Maralee"
+  },
+  {
+    "code": "72.12.060.007",
+    "villageCode": "007",
+    "districtCode": "72.12.060",
+    "name": "Togo Mulyo",
+    "alias": "Togo Mulyo"
+  },
+  {
+    "code": "72.12.060.008",
+    "villageCode": "008",
+    "districtCode": "72.12.060",
+    "name": "Tiu",
+    "alias": "Tiu"
+  },
+  {
+    "code": "72.12.060.009",
+    "villageCode": "009",
+    "districtCode": "72.12.060",
+    "name": "Ulu Laa",
+    "alias": "Ulu Laa"
+  },
+  {
+    "code": "72.12.060.010",
+    "villageCode": "010",
+    "districtCode": "72.12.060",
+    "name": "Tontowea",
+    "alias": "Tontowea"
+  }
+]

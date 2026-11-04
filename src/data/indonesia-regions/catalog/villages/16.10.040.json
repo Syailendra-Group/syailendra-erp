@@ -1,0 +1,135 @@
+[
+  {
+    "code": "16.10.040.024",
+    "villageCode": "024",
+    "districtCode": "16.10.040",
+    "name": "Tanjung Temiang",
+    "alias": "Tanjung Temiang"
+  },
+  {
+    "code": "16.10.040.028",
+    "villageCode": "028",
+    "districtCode": "16.10.040",
+    "name": "Seridalam",
+    "alias": "Seridalam"
+  },
+  {
+    "code": "16.10.040.030",
+    "villageCode": "030",
+    "districtCode": "16.10.040",
+    "name": "Tanjung Raja",
+    "alias": "Tanjung Raja"
+  },
+  {
+    "code": "16.10.040.031",
+    "villageCode": "031",
+    "districtCode": "16.10.040",
+    "name": "Tanjung Raja Barat",
+    "alias": "Tanjung Raja Barat"
+  },
+  {
+    "code": "16.10.040.032",
+    "villageCode": "032",
+    "districtCode": "16.10.040",
+    "name": "Tanjung Raja Utara",
+    "alias": "Tanjung Raja Utara"
+  },
+  {
+    "code": "16.10.040.035",
+    "villageCode": "035",
+    "districtCode": "16.10.040",
+    "name": "Talang Balai Baru I",
+    "alias": "Talang Balai Baru I"
+  },
+  {
+    "code": "16.10.040.036",
+    "villageCode": "036",
+    "districtCode": "16.10.040",
+    "name": "Siring Alam",
+    "alias": "Siring Alam"
+  },
+  {
+    "code": "16.10.040.037",
+    "villageCode": "037",
+    "districtCode": "16.10.040",
+    "name": "Tanjung Agas",
+    "alias": "Tanjung Agas"
+  },
+  {
+    "code": "16.10.040.038",
+    "villageCode": "038",
+    "districtCode": "16.10.040",
+    "name": "Talang Balai Lama",
+    "alias": "Talang Balai Lama"
+  },
+  {
+    "code": "16.10.040.045",
+    "villageCode": "045",
+    "districtCode": "16.10.040",
+    "name": "Suka Pindah",
+    "alias": "Suka Pindah"
+  },
+  {
+    "code": "16.10.040.046",
+    "villageCode": "046",
+    "districtCode": "16.10.040",
+    "name": "Ulak Kerbau Lama",
+    "alias": "Ulak Kerbau Lama"
+  },
+  {
+    "code": "16.10.040.047",
+    "villageCode": "047",
+    "districtCode": "16.10.040",
+    "name": "Ulak Kerbau Baru",
+    "alias": "Ulak Kerbau Baru"
+  },
+  {
+    "code": "16.10.040.048",
+    "villageCode": "048",
+    "districtCode": "16.10.040",
+    "name": "Kerinjing",
+    "alias": "Kerinjing"
+  },
+  {
+    "code": "16.10.040.049",
+    "villageCode": "049",
+    "districtCode": "16.10.040",
+    "name": "Tanjung Raja Timur",
+    "alias": "Tanjung Raja Timur"
+  },
+  {
+    "code": "16.10.040.050",
+    "villageCode": "050",
+    "districtCode": "16.10.040",
+    "name": "Belanti",
+    "alias": "Belanti"
+  },
+  {
+    "code": "16.10.040.051",
+    "villageCode": "051",
+    "districtCode": "16.10.040",
+    "name": "Tanjung Raja Selatan",
+    "alias": "Tanjung Raja Selatan"
+  },
+  {
+    "code": "16.10.040.052",
+    "villageCode": "052",
+    "districtCode": "16.10.040",
+    "name": "Talang Balai Baru Ii",
+    "alias": "Talang Balai Baru Ii"
+  },
+  {
+    "code": "16.10.040.053",
+    "villageCode": "053",
+    "districtCode": "16.10.040",
+    "name": "Skonjing",
+    "alias": "Skonjing"
+  },
+  {
+    "code": "16.10.040.054",
+    "villageCode": "054",
+    "districtCode": "16.10.040",
+    "name": "Tanjung Harapan",
+    "alias": "Tanjung Harapan"
+  }
+]

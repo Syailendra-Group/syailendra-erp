@@ -1,0 +1,146 @@
+[
+  {
+    "code": "16.02.010",
+    "districtCode": "010",
+    "regencyCode": "16.02",
+    "provinceCode": "16",
+    "name": "Kecamatan Lempuing",
+    "alias": "Lempuing"
+  },
+  {
+    "code": "16.02.011",
+    "districtCode": "011",
+    "regencyCode": "16.02",
+    "provinceCode": "16",
+    "name": "Kecamatan Lempuing Jaya",
+    "alias": "Lempuing Jaya"
+  },
+  {
+    "code": "16.02.020",
+    "districtCode": "020",
+    "regencyCode": "16.02",
+    "provinceCode": "16",
+    "name": "Kecamatan Mesuji",
+    "alias": "Mesuji"
+  },
+  {
+    "code": "16.02.021",
+    "districtCode": "021",
+    "regencyCode": "16.02",
+    "provinceCode": "16",
+    "name": "Kecamatan Sungai Menang",
+    "alias": "Sungai Menang"
+  },
+  {
+    "code": "16.02.022",
+    "districtCode": "022",
+    "regencyCode": "16.02",
+    "provinceCode": "16",
+    "name": "Kecamatan Mesuji Makmur",
+    "alias": "Mesuji Makmur"
+  },
+  {
+    "code": "16.02.023",
+    "districtCode": "023",
+    "regencyCode": "16.02",
+    "provinceCode": "16",
+    "name": "Kecamatan Mesuji Raya",
+    "alias": "Mesuji Raya"
+  },
+  {
+    "code": "16.02.030",
+    "districtCode": "030",
+    "regencyCode": "16.02",
+    "provinceCode": "16",
+    "name": "Kecamatan Tulung Selapan",
+    "alias": "Tulung Selapan"
+  },
+  {
+    "code": "16.02.031",
+    "districtCode": "031",
+    "regencyCode": "16.02",
+    "provinceCode": "16",
+    "name": "Kecamatan Cengal",
+    "alias": "Cengal"
+  },
+  {
+    "code": "16.02.040",
+    "districtCode": "040",
+    "regencyCode": "16.02",
+    "provinceCode": "16",
+    "name": "Kecamatan Pedamaran",
+    "alias": "Pedamaran"
+  },
+  {
+    "code": "16.02.041",
+    "districtCode": "041",
+    "regencyCode": "16.02",
+    "provinceCode": "16",
+    "name": "Kecamatan Pedamaran Timur",
+    "alias": "Pedamaran Timur"
+  },
+  {
+    "code": "16.02.050",
+    "districtCode": "050",
+    "regencyCode": "16.02",
+    "provinceCode": "16",
+    "name": "Kecamatan Tanjung Lubuk",
+    "alias": "Tanjung Lubuk"
+  },
+  {
+    "code": "16.02.051",
+    "districtCode": "051",
+    "regencyCode": "16.02",
+    "provinceCode": "16",
+    "name": "Kecamatan Teluk Gelam",
+    "alias": "Teluk Gelam"
+  },
+  {
+    "code": "16.02.060",
+    "districtCode": "060",
+    "regencyCode": "16.02",
+    "provinceCode": "16",
+    "name": "Kecamatan Kota Kayu Agung",
+    "alias": "Kota Kayu Agung"
+  },
+  {
+    "code": "16.02.120",
+    "districtCode": "120",
+    "regencyCode": "16.02",
+    "provinceCode": "16",
+    "name": "Kecamatan Sirah Pulau Padang",
+    "alias": "Sirah Pulau Padang"
+  },
+  {
+    "code": "16.02.121",
+    "districtCode": "121",
+    "regencyCode": "16.02",
+    "provinceCode": "16",
+    "name": "Kecamatan Jejawi",
+    "alias": "Jejawi"
+  },
+  {
+    "code": "16.02.130",
+    "districtCode": "130",
+    "regencyCode": "16.02",
+    "provinceCode": "16",
+    "name": "Kecamatan Pampangan",
+    "alias": "Pampangan"
+  },
+  {
+    "code": "16.02.131",
+    "districtCode": "131",
+    "regencyCode": "16.02",
+    "provinceCode": "16",
+    "name": "Kecamatan Pangkalan Lapam",
+    "alias": "Pangkalan Lapam"
+  },
+  {
+    "code": "16.02.140",
+    "districtCode": "140",
+    "regencyCode": "16.02",
+    "provinceCode": "16",
+    "name": "Kecamatan Air Sugihan",
+    "alias": "Air Sugihan"
+  }
+]

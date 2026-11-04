@@ -1,0 +1,74 @@
+[
+  {
+    "code": "51.01",
+    "regencyCode": "01",
+    "provinceCode": "51",
+    "provinceName": "Bali",
+    "name": "Kabupaten Jembrana",
+    "alias": "Jembrana"
+  },
+  {
+    "code": "51.02",
+    "regencyCode": "02",
+    "provinceCode": "51",
+    "provinceName": "Bali",
+    "name": "Kabupaten Tabanan",
+    "alias": "Tabanan"
+  },
+  {
+    "code": "51.03",
+    "regencyCode": "03",
+    "provinceCode": "51",
+    "provinceName": "Bali",
+    "name": "Kabupaten Badung",
+    "alias": "Badung"
+  },
+  {
+    "code": "51.04",
+    "regencyCode": "04",
+    "provinceCode": "51",
+    "provinceName": "Bali",
+    "name": "Kabupaten Gianyar",
+    "alias": "Gianyar"
+  },
+  {
+    "code": "51.05",
+    "regencyCode": "05",
+    "provinceCode": "51",
+    "provinceName": "Bali",
+    "name": "Kabupaten Klungkung",
+    "alias": "Klungkung"
+  },
+  {
+    "code": "51.06",
+    "regencyCode": "06",
+    "provinceCode": "51",
+    "provinceName": "Bali",
+    "name": "Kabupaten Bangli",
+    "alias": "Bangli"
+  },
+  {
+    "code": "51.07",
+    "regencyCode": "07",
+    "provinceCode": "51",
+    "provinceName": "Bali",
+    "name": "Kabupaten Karangasem",
+    "alias": "Karangasem"
+  },
+  {
+    "code": "51.08",
+    "regencyCode": "08",
+    "provinceCode": "51",
+    "provinceName": "Bali",
+    "name": "Kabupaten Buleleng",
+    "alias": "Buleleng"
+  },
+  {
+    "code": "51.71",
+    "regencyCode": "71",
+    "provinceCode": "51",
+    "provinceName": "Bali",
+    "name": "Kota Denpasar",
+    "alias": "Denpasar"
+  }
+]

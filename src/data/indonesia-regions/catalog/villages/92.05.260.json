@@ -1,0 +1,65 @@
+[
+  {
+    "code": "92.05.260.001",
+    "villageCode": "001",
+    "districtCode": "92.05.260",
+    "name": "Apoki",
+    "alias": "Apoki"
+  },
+  {
+    "code": "92.05.260.002",
+    "villageCode": "002",
+    "districtCode": "92.05.260",
+    "name": "Anarum",
+    "alias": "Anarum"
+  },
+  {
+    "code": "92.05.260.003",
+    "villageCode": "003",
+    "districtCode": "92.05.260",
+    "name": "Jafai",
+    "alias": "Jafai"
+  },
+  {
+    "code": "92.05.260.004",
+    "villageCode": "004",
+    "districtCode": "92.05.260",
+    "name": "Jambuani",
+    "alias": "Jambuani"
+  },
+  {
+    "code": "92.05.260.005",
+    "villageCode": "005",
+    "districtCode": "92.05.260",
+    "name": "Manaria",
+    "alias": "Manaria"
+  },
+  {
+    "code": "92.05.260.006",
+    "villageCode": "006",
+    "districtCode": "92.05.260",
+    "name": "Injai",
+    "alias": "Injai"
+  },
+  {
+    "code": "92.05.260.007",
+    "villageCode": "007",
+    "districtCode": "92.05.260",
+    "name": "Matatun",
+    "alias": "Matatun"
+  },
+  {
+    "code": "92.05.260.008",
+    "villageCode": "008",
+    "districtCode": "92.05.260",
+    "name": "Wabanek",
+    "alias": "Wabanek"
+  },
+  {
+    "code": "92.05.260.009",
+    "villageCode": "009",
+    "districtCode": "92.05.260",
+    "name": "Wasanggon",
+    "alias": "Wasanggon"
+  }
+]

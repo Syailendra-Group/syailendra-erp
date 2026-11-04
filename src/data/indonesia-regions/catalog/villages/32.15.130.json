@@ -1,0 +1,100 @@
+[
+  {
+    "code": "32.15.130.001",
+    "villageCode": "001",
+    "districtCode": "32.15.130",
+    "name": "Dayeuhluhur",
+    "alias": "Dayeuhluhur"
+  },
+  {
+    "code": "32.15.130.002",
+    "villageCode": "002",
+    "districtCode": "32.15.130",
+    "name": "Lemahkarya",
+    "alias": "Lemahkarya"
+  },
+  {
+    "code": "32.15.130.003",
+    "villageCode": "003",
+    "districtCode": "32.15.130",
+    "name": "Lemahduhur",
+    "alias": "Lemahduhur"
+  },
+  {
+    "code": "32.15.130.004",
+    "villageCode": "004",
+    "districtCode": "32.15.130",
+    "name": "Lemahsubur",
+    "alias": "Lemahsubur"
+  },
+  {
+    "code": "32.15.130.005",
+    "villageCode": "005",
+    "districtCode": "32.15.130",
+    "name": "Lemahmakmur",
+    "alias": "Lemahmakmur"
+  },
+  {
+    "code": "32.15.130.006",
+    "villageCode": "006",
+    "districtCode": "32.15.130",
+    "name": "Pagadungan",
+    "alias": "Pagadungan"
+  },
+  {
+    "code": "32.15.130.007",
+    "villageCode": "007",
+    "districtCode": "32.15.130",
+    "name": "Purwajaya",
+    "alias": "Purwajaya"
+  },
+  {
+    "code": "32.15.130.008",
+    "villageCode": "008",
+    "districtCode": "32.15.130",
+    "name": "Jayanegara",
+    "alias": "Jayanegara"
+  },
+  {
+    "code": "32.15.130.009",
+    "villageCode": "009",
+    "districtCode": "32.15.130",
+    "name": "Tempuran",
+    "alias": "Tempuran"
+  },
+  {
+    "code": "32.15.130.010",
+    "villageCode": "010",
+    "districtCode": "32.15.130",
+    "name": "Ciparagejaya",
+    "alias": "Ciparagejaya"
+  },
+  {
+    "code": "32.15.130.011",
+    "villageCode": "011",
+    "districtCode": "32.15.130",
+    "name": "Cikuntul",
+    "alias": "Cikuntul"
+  },
+  {
+    "code": "32.15.130.012",
+    "villageCode": "012",
+    "districtCode": "32.15.130",
+    "name": "Sumberjaya",
+    "alias": "Sumberjaya"
+  },
+  {
+    "code": "32.15.130.013",
+    "villageCode": "013",
+    "districtCode": "32.15.130",
+    "name": "Pancakarya",
+    "alias": "Pancakarya"
+  },
+  {
+    "code": "32.15.130.014",
+    "villageCode": "014",
+    "districtCode": "32.15.130",
+    "name": "Tanjungjaya",
+    "alias": "Tanjungjaya"
+  }
+]

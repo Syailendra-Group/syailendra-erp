@@ -56,6 +56,7 @@ export function VillageForm({ currentRow, onSuccess, onValidationChange }: Villa
   const isEdit = !!currentRow
   const t = useTranslations('others.villages')
   const tReg = useTranslations('regional.common')
+  const tToast = useTranslations('regional.regionalToasts')
   const { mutateAsync: saveVillage, isPending } = useSaveVillageMutation()
 
   const form = useForm<VillageFormValues>({
@@ -129,29 +130,29 @@ export function VillageForm({ currentRow, onSuccess, onValidationChange }: Villa
 
   const onSubmit = async (values: VillageFormValues) => {
     if (isDomestic && isDuplicate) {
-      toast.error('Kelurahan/Desa ini sudah terdaftar di sistem.')
+      toast.error(tToast('alreadyExists', { entity: 'Kelurahan/Desa' }))
       return
     }
     if (isDomestic && isParentMissing && !values.auto_add_district) {
-      toast.error('Kecamatan induk belum terdaftar di sistem. Harap aktifkan switch pendaftaran otomatis.')
+      toast.error(tToast('parentMissing', { parent: 'Kecamatan' }))
       return
     }
     if (!isDomestic && !values.district_id) {
-      toast.error('Harap pilih kecamatan / distrik luar negeri terlebih dahulu.')
+      toast.error(tToast('foreignParentRequired', { parent: 'Kecamatan' }))
       return
     }
 
     try {
       const res = await saveVillage(values)
       if (res.success) {
-        toast.success(isEdit ? 'Kelurahan/Desa berhasil diperbarui' : 'Kelurahan/Desa berhasil didaftarkan')
+        toast.success(isEdit ? tToast('updateSuccess', { entity: 'Kelurahan/Desa' }) : tToast('createSuccess', { entity: 'Kelurahan/Desa' }))
         onSuccess()
         form.reset()
       } else {
-        toast.error(res.error || 'Gagal menyimpan kelurahan/desa')
+        toast.error(res.error || tToast('saveFailed', { entity: 'Kelurahan/Desa' }))
       }
     } catch (err) {
-      toast.error(err instanceof Error ? err.message : 'Gagal menyimpan data')
+      toast.error(err instanceof Error ? err.message : tToast('genericError'))
     }
   }
 
@@ -166,7 +167,7 @@ export function VillageForm({ currentRow, onSuccess, onValidationChange }: Villa
         onSubmit={form.handleSubmit(onSubmit, (errors) => {
           const firstKey = Object.keys(errors)[0]
           if (firstKey) {
-            toast.error(`Validasi gagal: ${errors[firstKey as keyof typeof errors]?.message || 'Periksa kembali isian form'}`)
+            toast.error(tToast('validationFailed', { message: errors[firstKey as keyof typeof errors]?.message || '' }))
           }
         })}
         className="space-y-4 px-1"

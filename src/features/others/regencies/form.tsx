@@ -53,6 +53,7 @@ export function RegencyForm({ currentRow, onSuccess, onValidationChange }: Regen
   const isEdit = !!currentRow
   const t = useTranslations('others.regencies')
   const tReg = useTranslations('regional.common')
+  const tToast = useTranslations('regional.regionalToasts')
   const { mutateAsync: saveRegency, isPending } = useSaveRegencyMutation()
 
   const { data: countries = [] } = useCountriesQuery()
@@ -147,29 +148,29 @@ export function RegencyForm({ currentRow, onSuccess, onValidationChange }: Regen
 
   const onSubmit = async (values: RegencyFormValues) => {
     if (isDomestic && isDuplicate) {
-      toast.error('Kabupaten/Kota ini sudah terdaftar di sistem.')
+      toast.error(tToast('alreadyExists', { entity: 'Kabupaten/Kota' }))
       return
     }
     if (isDomestic && isParentMissing && !values.auto_add_province) {
-      toast.error('Provinsi induk belum terdaftar di sistem. Harap aktifkan switch pendaftaran otomatis.')
+      toast.error(tToast('parentMissing', { parent: 'Provinsi' }))
       return
     }
     if (!isDomestic && !values.state_id) {
-      toast.error('Harap pilih provinsi / state luar negeri terlebih dahulu.')
+      toast.error(tToast('foreignParentRequired', { parent: 'Provinsi' }))
       return
     }
 
     try {
       const res = await saveRegency(values)
       if (res.success) {
-        toast.success(isEdit ? 'Kabupaten/Kota berhasil diperbarui' : 'Kabupaten/Kota berhasil didaftarkan')
+        toast.success(isEdit ? tToast('updateSuccess', { entity: 'Kabupaten/Kota' }) : tToast('createSuccess', { entity: 'Kabupaten/Kota' }))
         onSuccess()
         form.reset()
       } else {
-        toast.error(res.error || 'Gagal menyimpan kabupaten')
+        toast.error(res.error || tToast('saveFailed', { entity: 'Kabupaten/Kota' }))
       }
     } catch (err) {
-      toast.error(err instanceof Error ? err.message : 'Gagal menyimpan data')
+      toast.error(err instanceof Error ? err.message : tToast('genericError'))
     }
   }
 
@@ -185,7 +186,7 @@ export function RegencyForm({ currentRow, onSuccess, onValidationChange }: Regen
         onSubmit={form.handleSubmit(onSubmit, (errors) => {
           const firstKey = Object.keys(errors)[0]
           if (firstKey) {
-            toast.error(`Validasi gagal: ${errors[firstKey as keyof typeof errors]?.message || 'Periksa kembali isian form'}`)
+            toast.error(tToast('validationFailed', { message: errors[firstKey as keyof typeof errors]?.message || '' }))
           }
         })}
         className="space-y-4 px-1"
@@ -227,7 +228,7 @@ export function RegencyForm({ currentRow, onSuccess, onValidationChange }: Regen
                 items={catalogOptions}
                 onAddNewClick={() => {
                   form.setValue('is_domestic', false)
-                  toast.info('Beralih ke mode input manual / luar negeri')
+                  toast.info(tToast('switchedToForeign'))
                 }}
               />
             </FormFieldWrapper>

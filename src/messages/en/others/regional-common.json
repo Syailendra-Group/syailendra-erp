@@ -25,5 +25,16 @@
     "parent": "Parent Territory",
     "gps": "GPS Coordinates",
     "description": "Description / Notes"
+  },
+  "regionalToasts": {
+    "alreadyExists": "This {entity} is already registered in the system.",
+    "parentMissing": "Parent {parent} is not registered in the system. Please enable the automatic registration switch.",
+    "foreignParentRequired": "Please select a foreign {parent} first.",
+    "createSuccess": "{entity} registered successfully",
+    "updateSuccess": "{entity} updated successfully",
+    "saveFailed": "Failed to save {entity}",
+    "genericError": "Failed to save data",
+    "validationFailed": "Validation failed: {message}",
+    "switchedToForeign": "Switched to manual / foreign input mode"
   }
 }

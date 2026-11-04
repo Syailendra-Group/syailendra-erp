@@ -32,6 +32,7 @@ export function ProvinceForm({ currentRow, onSuccess }: ProvinceFormProps): Reac
   const isEdit = !!currentRow
   const t = useTranslations('others.provinces')
   const tReg = useTranslations('regional.common')
+  const tToast = useTranslations('regional.regionalToasts')
   const { mutateAsync: saveProvince, isPending } = useSaveProvinceMutation()
   const { data: countries = [] } = useCountriesQuery()
   const { data: catalogProvinces = [], isLoading: isLoadingCatalog } = useCatalogProvincesQuery()
@@ -95,20 +96,20 @@ export function ProvinceForm({ currentRow, onSuccess }: ProvinceFormProps): Reac
 
   const onSubmit = async (values: ProvinceFormValues) => {
     if (isDuplicate) {
-      toast.error('Provinsi ini sudah terdaftar di sistem.')
+      toast.error(tToast('alreadyExists', { entity: 'Provinsi' }))
       return
     }
     try {
       const res = await saveProvince(values)
       if (res.success) {
-        toast.success(isEdit ? 'Provinsi berhasil diperbarui' : 'Provinsi berhasil didaftarkan')
+        toast.success(isEdit ? tToast('updateSuccess', { entity: 'Provinsi' }) : tToast('createSuccess', { entity: 'Provinsi' }))
         onSuccess()
         form.reset()
       } else {
-        toast.error(res.error || 'Gagal menyimpan provinsi')
+        toast.error(res.error || tToast('saveFailed', { entity: 'Provinsi' }))
       }
     } catch (err) {
-      toast.error(err instanceof Error ? err.message : 'Gagal menyimpan data')
+      toast.error(err instanceof Error ? err.message : tToast('genericError'))
     }
   }
 
@@ -163,7 +164,7 @@ export function ProvinceForm({ currentRow, onSuccess }: ProvinceFormProps): Reac
                 items={catalogItems}
                 onAddNewClick={() => {
                   form.setValue('is_domestic', false)
-                  toast.info('Beralih ke mode input manual / luar negeri')
+                  toast.info(tToast('switchedToForeign'))
                 }}
               />
             </FormFieldWrapper>

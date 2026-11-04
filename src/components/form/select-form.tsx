@@ -211,7 +211,7 @@ export function SelectForm<T extends string = string>(props: SelectFormProps<T>)
         className={cn('flex flex-col overflow-hidden p-0 shadow-md', popoverWidth || 'w-(--radix-popover-trigger-width) min-w-55')}
         align="start"
       >
-        <Command className="flex max-h-72 w-full flex-col">
+        <Command shouldFilter={false} className="flex max-h-72 w-full flex-col">
           <CommandInput
             placeholder={searchPlaceholder || tSelect('searchPlaceholder')}
             value={searchQuery}

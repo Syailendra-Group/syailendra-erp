@@ -147,7 +147,15 @@ export function DistrictForm({ currentRow, onSuccess, onValidationChange }: Dist
     }
   }
 
-  const catalogOptions = useMemo(() => catalogDistricts.map((d) => ({ label: `${d.name} (${d.code})`, value: d.code })), [catalogDistricts])
+  const catalogOptions = useMemo(() => {
+    const regMap = new Map<string, string>()
+    catalogRegencies.forEach((r) => regMap.set(r.code, r.name))
+    return catalogDistricts.map((d) => {
+      const regName = regMap.get(d.regencyCode)
+      const label = regName ? `${d.name} - ${regName} (${d.code})` : `${d.name} (${d.code})`
+      return { label, value: d.code }
+    })
+  }, [catalogDistricts, catalogRegencies])
 
   return (
     <Form {...form}>

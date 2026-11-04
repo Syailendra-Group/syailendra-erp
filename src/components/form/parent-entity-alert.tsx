@@ -39,7 +39,7 @@ export function ParentEntityAlert({
   className
 }: ParentEntityAlertProps): ReactElement | null {
   const tReg = useTranslations('regional.common')
-  const tAlert = useTranslations('regional.parentAlert')
+  const tAlert = useTranslations('regional.common.parentAlert')
 
   const effectiveParentLabel = parentLabel || tReg('fields.parent')
   const effectiveEntityLabel = entityTypeLabel || 'Wilayah'

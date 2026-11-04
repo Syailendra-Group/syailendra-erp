@@ -66,6 +66,12 @@ const messagesMap = {
     main: { overview: idMainOverview },
     wms: { inventory: idInventory, overview: idWmsOverview },
     crm: { overview: idCrmOverview },
+    scm: {
+      overview: idTraceOverview,
+      farmers: idTraceFarmers,
+      distillers: idTraceDistillers,
+      publicTrace: idPublicTrace
+    },
     traceability: {
       overview: idTraceOverview,
       farmers: idTraceFarmers,
@@ -98,6 +104,8 @@ const messagesMap = {
     },
     regional: {
       common: idRegionalCommon,
+      parentAlert: idRegionalCommon.parentAlert,
+      foreignForm: idRegionalCommon.foreignForm,
       countries: idCountries,
       provinces: idProvinces,
       regencies: idRegencies,
@@ -113,6 +121,12 @@ const messagesMap = {
     main: { overview: enMainOverview },
     wms: { inventory: enInventory, overview: enWmsOverview },
     crm: { overview: enCrmOverview },
+    scm: {
+      overview: enTraceOverview,
+      farmers: enTraceFarmers,
+      distillers: enTraceDistillers,
+      publicTrace: enPublicTrace
+    },
     traceability: {
       overview: enTraceOverview,
       farmers: enTraceFarmers,
@@ -145,6 +159,8 @@ const messagesMap = {
     },
     regional: {
       common: enRegionalCommon,
+      parentAlert: enRegionalCommon.parentAlert,
+      foreignForm: enRegionalCommon.foreignForm,
       countries: enCountries,
       provinces: enProvinces,
       regencies: enRegencies,

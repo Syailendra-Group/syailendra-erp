@@ -31,10 +31,8 @@ export async function GET(request: NextRequest): Promise<NextResponse<CatalogApi
       districts = districts.filter((d) => d.name.toLowerCase().includes(search) || d.alias.toLowerCase().includes(search) || d.code.includes(search))
     }
 
-    // Limit to 250 items if querying globally to keep response small (< 30 KB)
-    if (!regencyCode && districts.length > 250) {
-      districts = districts.slice(0, 250)
-    }
+    // If searching, return all matches without slicing. If no search and no regencyCode, return all 7,288 items (compressed ~180 KB over HTTP)
+    // so client-side SelectForm instant search and chunked scroll have the complete catalog!
 
     return NextResponse.json(
       { success: true, data: districts },

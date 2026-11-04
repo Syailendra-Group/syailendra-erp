@@ -216,10 +216,10 @@ export function VillageForm({ currentRow, onSuccess, onValidationChange }: Villa
                 <SelectForm
                   placeholder={
                     !selectedDistCode
-                      ? 'Pilih kecamatan terlebih dahulu...'
+                      ? t('form.selectDistrictFirst')
                       : isLoadingCatalog
                         ? t('form.loadingVillages')
-                        : 'Pilih desa / kelurahan...'
+                        : t('form.selectVillagePlaceholder')
                   }
                   disabled={isPending || !selectedDistCode || isLoadingCatalog}
                   value={currentCode || undefined}

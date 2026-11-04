@@ -25,7 +25,9 @@
     "descPlaceholder": "Hilly terrain, altitude 1200 m ASL, patchouli farm center...",
     "selectDistrictCatalog": "Select Parent District (Catalog)",
     "selectVillageCatalog": "Select Village / Subdistrict (Catalog)",
-    "loadingVillages": "Loading villages..."
+    "loadingVillages": "Loading villages...",
+    "selectDistrictFirst": "Select district first...",
+    "selectVillagePlaceholder": "Select village / subdistrict..."
   },
   "dialog": {
     "addTitle": "Register New Village / Subdistrict",

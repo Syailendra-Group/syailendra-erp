@@ -25,7 +25,9 @@
     "descPlaceholder": "Area perbukitan, ketinggian 1200 mdpl, sentra tanaman nilam...",
     "selectDistrictCatalog": "Pilih Kecamatan Induk (Katalog)",
     "selectVillageCatalog": "Pilih Desa / Kelurahan (Katalog)",
-    "loadingVillages": "Memuat desa..."
+    "loadingVillages": "Memuat desa...",
+    "selectDistrictFirst": "Pilih kecamatan terlebih dahulu...",
+    "selectVillagePlaceholder": "Pilih desa / kelurahan..."
   },
   "dialog": {
     "addTitle": "Registrasi Kelurahan / Desa Baru",

@@ -1,0 +1,36 @@
+{
+  "title": "Ruang Kendali Utama (MAIN)",
+  "description": "Pusat operasional eksekutif & ringkasan terintegrasi PT. Syailendra Bumi Investama",
+  "kpis": {
+    "systemConnected": "Sistem Terhubung",
+    "activeGenealogy": "Silsilah Aktif",
+    "wmsStorage": "Pergudangan (WMS)",
+    "workforce": "Karyawan & Mitra",
+    "subtitles": {
+      "odoo": "PostgreSQL 15 Alpine",
+      "traceable": "100% Full Chain Traceable",
+      "zones": "Quarantine • Approved • Reject",
+      "personnel": "Petani, QC, Pabrik, & Staff"
+    }
+  },
+  "shortcuts": {
+    "lotTrace": "Ketertelusuran Lot",
+    "wmsLedger": "Buku Stok WMS",
+    "crmPipeline": "Pipeline CRM B2B",
+    "hrisAttendance": "Presensi Karyawan"
+  },
+  "distribution": {
+    "title": "Distribusi Arsitektur Rantai Pasok",
+    "subtitle": "Integrasi 6 modul strategis DDistillers pada backend Odoo 18",
+    "traceability": "Traceability & Mutu QC",
+    "traceabilityStatus": "100% Terverifikasi",
+    "warehouse": "Kapasitas Gudang Utama (WMS)",
+    "warehouseStatus": "48% Terisi",
+    "crm": "Kualifikasi Leads B2B Ekspor (CRM)",
+    "crmStatus": "75% Tahap Negosiasi"
+  },
+  "activities": {
+    "title": "Aktivitas Terkini",
+    "subtitle": "Log pergerakan batch & status sistem real-time"
+  }
+}

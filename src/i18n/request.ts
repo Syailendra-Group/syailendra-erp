@@ -13,6 +13,7 @@ import enCrmOverview from '@/messages/en/crm/overview.json'
 import enHrisDepartments from '@/messages/en/hris/departments.json'
 import enHrisEmployees from '@/messages/en/hris/employees.json'
 import enHrisOverview from '@/messages/en/hris/overview.json'
+import enMainOverview from '@/messages/en/main/overview.json'
 import enCompany from '@/messages/en/others/company.json'
 import enCountries from '@/messages/en/others/countries.json'
 import enDistricts from '@/messages/en/others/districts.json'
@@ -26,22 +27,20 @@ import enVillages from '@/messages/en/others/villages.json'
 import enTraceDistillers from '@/messages/en/traceability/distillers.json'
 import enTraceFarmers from '@/messages/en/traceability/farmers.json'
 import enTraceOverview from '@/messages/en/traceability/overview.json'
+import enPublicTrace from '@/messages/en/traceability/public-trace.json'
 import enInventory from '@/messages/en/wms/inventory.json'
-// 2. Auth
+import enWmsOverview from '@/messages/en/wms/overview.json'
 import idAuthLogin from '@/messages/id/auth/login.json'
-// 1. Common & Navigation
 import idCommon from '@/messages/id/common/common.json'
 import idNav from '@/messages/id/common/nav.json'
-// 7. CRM
 import idCrmOverview from '@/messages/id/crm/overview.json'
 import idHrisDepartments from '@/messages/id/hris/departments.json'
 import idHrisEmployees from '@/messages/id/hris/employees.json'
-// 4. HRIS
 import idHrisOverview from '@/messages/id/hris/overview.json'
+import idMainOverview from '@/messages/id/main/overview.json'
 import idCompany from '@/messages/id/others/company.json'
 import idCountries from '@/messages/id/others/countries.json'
 import idDistricts from '@/messages/id/others/districts.json'
-// 5. OTHERS (Master Data Wilayah & Governance)
 import idOthersOverview from '@/messages/id/others/overview.json'
 import idPartners from '@/messages/id/others/partners.json'
 import idProvinces from '@/messages/id/others/provinces.json'
@@ -51,10 +50,10 @@ import idRoles from '@/messages/id/others/roles.json'
 import idVillages from '@/messages/id/others/villages.json'
 import idTraceDistillers from '@/messages/id/traceability/distillers.json'
 import idTraceFarmers from '@/messages/id/traceability/farmers.json'
-// 3. Traceability
 import idTraceOverview from '@/messages/id/traceability/overview.json'
-// 6. WMS & Inventory
+import idPublicTrace from '@/messages/id/traceability/public-trace.json'
 import idInventory from '@/messages/id/wms/inventory.json'
+import idWmsOverview from '@/messages/id/wms/overview.json'
 
 import { routing } from './routing'
 
@@ -64,12 +63,14 @@ const messagesMap = {
     nav: idNav,
     auth: idAuthLogin,
     inventory: idInventory,
-    wms: { inventory: idInventory },
+    main: { overview: idMainOverview },
+    wms: { inventory: idInventory, overview: idWmsOverview },
     crm: { overview: idCrmOverview },
     traceability: {
       overview: idTraceOverview,
       farmers: idTraceFarmers,
-      distillers: idTraceDistillers
+      distillers: idTraceDistillers,
+      publicTrace: idPublicTrace
     },
     hris: {
       overview: idHrisOverview,
@@ -109,12 +110,14 @@ const messagesMap = {
     nav: enNav,
     auth: enAuthLogin,
     inventory: enInventory,
-    wms: { inventory: enInventory },
+    main: { overview: enMainOverview },
+    wms: { inventory: enInventory, overview: enWmsOverview },
     crm: { overview: enCrmOverview },
     traceability: {
       overview: enTraceOverview,
       farmers: enTraceFarmers,
-      distillers: enTraceDistillers
+      distillers: enTraceDistillers,
+      publicTrace: enPublicTrace
     },
     hris: {
       overview: enHrisOverview,

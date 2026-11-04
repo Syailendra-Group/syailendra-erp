@@ -14,7 +14,8 @@ import { useToggleDistillerStatusMutation } from '@/hooks/traceability/use-disti
 import type { ReactElement } from 'react'
 
 export function DistillersDialogs(): ReactElement {
-  const tTrace = useTranslations('traceability.distillers')
+  const t = useTranslations('traceability.distillers')
+  const tTrace = t
   const tCommon = useTranslations('common')
   const { open, setOpen, currentRow, setCurrentRow, refreshData } = useDistillers()
   const { mutateAsync: toggleDistillerStatus, isPending } = useToggleDistillerStatusMutation()
@@ -27,7 +28,7 @@ export function DistillersDialogs(): ReactElement {
       const res = await toggleDistillerStatus({ id: currentRow.id, active: targetStatus })
       if (res.success) {
         toast.success(targetStatus ? tTrace('messages.restored') : tTrace('messages.archived'))
-        refreshData()
+        refreshData?.()
         setOpen(null)
       } else {
         toast.error(res.error || (targetStatus ? tTrace('messages.restoreFailed') : tTrace('messages.archiveFailed')))
@@ -65,11 +66,11 @@ export function DistillersDialogs(): ReactElement {
             <div className="space-y-3.5 py-2 text-xs">
               <div className="bg-muted/20 grid grid-cols-2 gap-2.5 rounded-lg border p-3">
                 <div>
-                  <span className="text-muted-foreground block text-[10px] font-semibold uppercase">Distiller ID</span>
+                  <span className="text-muted-foreground block text-[10px] font-semibold uppercase">{t('details.id')}</span>
                   <span className="text-primary font-mono font-bold">{currentRow.ref}</span>
                 </div>
                 <div>
-                  <span className="text-muted-foreground block text-[10px] font-semibold uppercase">Status Operasional</span>
+                  <span className="text-muted-foreground block text-[10px] font-semibold uppercase">{t('details.status')}</span>
                   <Badge variant="outline" className="mt-0.5 text-[10px]">
                     {currentRow.active ? tTrace('status.operational') : tTrace('status.maintenance')}
                   </Badge>
@@ -78,32 +79,32 @@ export function DistillersDialogs(): ReactElement {
 
               <div className="space-y-2 border-t pt-2">
                 <div className="flex justify-between">
-                  <span className="text-muted-foreground">Nama Unit / Fasilitas:</span>
+                  <span className="text-muted-foreground">{t('details.unitName')}</span>
                   <span className="font-semibold">{currentRow.name}</span>
                 </div>
                 <div className="flex justify-between">
-                  <span className="text-muted-foreground">Kapasitas Muat Ketel:</span>
+                  <span className="text-muted-foreground">{t('details.boilerCapacity')}</span>
                   <span className="text-foreground font-mono font-bold">{currentRow.boiler_capacity_kg} Kg Biomassa</span>
                 </div>
                 <div className="flex justify-between">
-                  <span className="text-muted-foreground">Metode Penyulingan:</span>
+                  <span className="text-muted-foreground">{t('details.extractionMethod')}</span>
                   <span className="font-semibold capitalize">{tTrace(`methods.${currentRow.method}`) || currentRow.method}</span>
                 </div>
                 <div className="flex justify-between">
-                  <span className="text-muted-foreground">Material Konstruksi:</span>
+                  <span className="text-muted-foreground">{t('details.material')}</span>
                   <span className="font-semibold uppercase">{currentRow.boiler_material}</span>
                 </div>
                 <div className="flex justify-between">
-                  <span className="text-muted-foreground">Kepemilikan:</span>
+                  <span className="text-muted-foreground">{t('details.ownership')}</span>
                   <span className="font-semibold">{tTrace(`ownership.${currentRow.ownership}`) || currentRow.ownership}</span>
                 </div>
                 <div className="flex justify-between">
-                  <span className="text-muted-foreground">Operator / PIC:</span>
+                  <span className="text-muted-foreground">{t('details.operator')}</span>
                   <span className="font-semibold">{currentRow.operator_name}</span>
                 </div>
                 {currentRow.phone && (
                   <div className="flex items-center justify-between">
-                    <span className="text-muted-foreground">Kontak Operator:</span>
+                    <span className="text-muted-foreground">{t('details.operatorContact')}</span>
                     <span className="flex items-center gap-1 font-mono">
                       <Phone className="text-muted-foreground size-3" />
                       {currentRow.phone}
@@ -111,13 +112,13 @@ export function DistillersDialogs(): ReactElement {
                   </div>
                 )}
                 <div className="flex justify-between">
-                  <span className="text-muted-foreground">Alamat Fasilitas:</span>
+                  <span className="text-muted-foreground">{t('details.facilityAddress')}</span>
                   <span className="text-end font-medium">
                     {currentRow.street}, {currentRow.city}
                   </span>
                 </div>
                 <div className="flex items-center justify-between">
-                  <span className="text-muted-foreground">Status Sanitasi Ketel:</span>
+                  <span className="text-muted-foreground">{t('details.boilerSanitation')}</span>
                   <Badge variant="outline" className="border-emerald-500/20 bg-emerald-500/10 text-[10px] text-emerald-600 dark:text-emerald-400">
                     <CheckCircle2 className="mr-1 size-3" /> Sanitasi Terpenuhi (Passed)
                   </Badge>
@@ -126,7 +127,7 @@ export function DistillersDialogs(): ReactElement {
 
               {currentRow.comment && (
                 <div className="bg-muted/40 rounded-lg p-2.5">
-                  <span className="text-muted-foreground mb-1 block text-[10px] font-semibold uppercase">Catatan Spesifikasi</span>
+                  <span className="text-muted-foreground mb-1 block text-[10px] font-semibold uppercase">{t('details.specsNotes')}</span>
                   <p className="text-muted-foreground text-[11px] leading-relaxed italic">{currentRow.comment}</p>
                 </div>
               )}

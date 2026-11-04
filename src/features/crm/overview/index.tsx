@@ -12,6 +12,7 @@ import type { SummaryCardItem } from '@/components/card/summary-card'
 import type { QuickActionItem } from '@/components/shared/quick-actions'
 
 export function CrmOverview(): ReactElement {
+  const t = useTranslations('crm.overview')
   const tCommon = useTranslations('common')
   const kpis: SummaryCardItem[] = [
     { title: 'Pesanan Web Global', value: '12 Orders', subtitle: 'Website DDistillers.com', icon: ShoppingBag, color: 'text-primary' },
@@ -35,8 +36,8 @@ export function CrmOverview(): ReactElement {
             <Target className="size-4 sm:size-5" />
           </div>
           <div>
-            <h1 className="text-xl font-bold tracking-tight sm:text-2xl">Komersial & Global CRM</h1>
-            <p className="text-muted-foreground text-xs sm:text-sm">Penjualan B2B internasional, pesanan website, & pengiriman sampel DDistillers</p>
+            <h1 className="text-xl font-bold tracking-tight sm:text-2xl">{t('title')}</h1>
+            <p className="text-muted-foreground text-xs sm:text-sm">{t('subtitle')}</p>
           </div>
         </div>
         <Badge variant="outline" className="border-primary/20 bg-primary/10 text-primary text-[11px] sm:text-xs">

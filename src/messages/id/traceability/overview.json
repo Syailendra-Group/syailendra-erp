@@ -1,4 +1,18 @@
 {
-  "title": "Pusat Pelacakan Terroir",
-  "subtitle": "Monitoring ketertelusuran bahan baku minyak atsiri dari petani hingga batch distilasi"
+  "title": "Traceability & Silsilah Batch",
+  "subtitle": "Engine penelusuran silsilah 7-lapisan Farm-to-Consumer DDistillers",
+  "recent": {
+    "title": "Daftar Silsilah Batch Terkini",
+    "subtitle": "Status penelusuran lot hulu ke hilir berbasis data aktif Odoo 18"
+  },
+  "table": {
+    "lot": "Nomor Lot / Batch",
+    "commodity": "Komoditas Produk",
+    "origin": "Asal Hulu / Terroir",
+    "coa": "Nomor COA Lab",
+    "status": "Status Keterlacakan",
+    "qualityStatus": "Status Mutu",
+    "actions": "Aksi",
+    "viewQr": "Lihat QR"
+  }
 }

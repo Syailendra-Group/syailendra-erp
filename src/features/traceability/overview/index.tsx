@@ -17,6 +17,7 @@ import type { SummaryCardItem } from '@/components/card/summary-card'
 import type { QuickActionItem } from '@/components/shared/quick-actions'
 
 export function TraceabilityOverview(): ReactElement {
+  const t = useTranslations('traceability.overview')
   const tCommon = useTranslations('common')
   const kpis: SummaryCardItem[] = [
     { title: 'Total Lot Terlacak', value: '24 Batches', subtitle: 'Hulu s/d Hilir', icon: Tag, color: 'text-primary' },
@@ -43,8 +44,8 @@ export function TraceabilityOverview(): ReactElement {
   return (
     <div className="space-y-4 sm:space-y-6">
       <PageHeader
-        title="Traceability & Silsilah Batch"
-        description="Engine penelusuran silsilah 7-lapisan Farm-to-Consumer DDistillers"
+        title={t('title')}
+        description={t('subtitle')}
         icon={Layers}
         actions={
           <Badge variant="outline" className="border-primary/20 bg-primary/10 text-primary text-[11px] sm:text-xs">
@@ -59,20 +60,20 @@ export function TraceabilityOverview(): ReactElement {
 
       <Card className="shadow-xs">
         <CardHeader className="pb-3">
-          <CardTitle className="text-sm sm:text-base">Daftar Silsilah Batch Terkini</CardTitle>
-          <CardDescription className="text-xs">Status penelusuran lot hulu ke hilir berbasis data aktif Odoo 18</CardDescription>
+          <CardTitle className="text-sm sm:text-base">{t('recent.title')}</CardTitle>
+          <CardDescription className="text-xs">{t('recent.subtitle')}</CardDescription>
         </CardHeader>
         <CardContent>
           <div className="overflow-x-auto">
             <Table>
               <TableHeader>
                 <TableRow>
-                  <TableHead className="text-xs">Nomor Lot / Batch</TableHead>
-                  <TableHead className="text-xs">Komoditas Produk</TableHead>
-                  <TableHead className="text-xs">Asal Hulu / Terroir</TableHead>
-                  <TableHead className="text-xs">Nomor COA Lab</TableHead>
-                  <TableHead className="text-xs">Status Mutu</TableHead>
-                  <TableHead className="text-right text-xs">Aksi</TableHead>
+                  <TableHead className="text-xs">{t('table.lot')}</TableHead>
+                  <TableHead className="text-xs">{t('table.commodity')}</TableHead>
+                  <TableHead className="text-xs">{t('table.origin')}</TableHead>
+                  <TableHead className="text-xs">{t('table.coa')}</TableHead>
+                  <TableHead className="text-xs">{t('table.qualityStatus')}</TableHead>
+                  <TableHead className="text-right text-xs">{t('table.actions')}</TableHead>
                 </TableRow>
               </TableHeader>
               <TableBody>
@@ -99,7 +100,7 @@ export function TraceabilityOverview(): ReactElement {
                     <TableCell className="text-right">
                       <Button variant="ghost" size="sm" asChild className="h-6 cursor-pointer px-2 text-[11px] sm:h-7 sm:text-xs">
                         <Link href={`/trace/${b.code}`}>
-                          <span>Lihat QR</span>
+                          <span>{t('table.viewQr')}</span>
                           <ArrowRight className="ml-1 size-3" />
                         </Link>
                       </Button>

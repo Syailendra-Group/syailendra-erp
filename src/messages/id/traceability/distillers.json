@@ -86,5 +86,21 @@
   },
   "actions": {
     "add": "Daftarkan Unit Suling"
+  },
+  "details": {
+    "unitName": "Nama Unit / Fasilitas:",
+    "boilerCapacity": "Kapasitas Muat Ketel:",
+    "extractionMethod": "Metode Penyulingan:",
+    "material": "Material Konstruksi:",
+    "ownership": "Kepemilikan:",
+    "operator": "Operator / PIC:",
+    "sanitation": "Inspeksi Sanitasi:",
+    "status": "Status Operasional",
+    "id": "Distiller ID",
+    "notes": "Spesifikasi Teknis & Catatan",
+    "operatorContact": "Kontak Operator:",
+    "facilityAddress": "Alamat Fasilitas:",
+    "boilerSanitation": "Status Sanitasi Ketel:",
+    "specsNotes": "Catatan Spesifikasi"
   }
 }

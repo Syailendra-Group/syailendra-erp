@@ -1,0 +1,41 @@
+{
+  "notFoundTitle": "Lot Not Found",
+  "notFoundDesc": "Batch ID {lot} could not be verified in the Syailendra Traceability Engine or is still under laboratory analysis.",
+  "backToHome": "Back to Home",
+  "holdingTitle": "DDistillers",
+  "holdingSubtitle": "• PT. Syailendra Bumi Investama",
+  "verifiedBadge": "100% Verified Authentic & Traceable",
+  "batchId": "Batch ID: {lot}",
+  "quote": "Specialty Essential Oil ethically sourced from smallholder farmers in Central Java, steam-distilled and quality-tested in compliance with ISO 22000 & GMP standards.",
+  "terroirTitle": "Terroir & Origin",
+  "botanicalTitle": "Botanical & Extraction",
+  "sensoryTitle": "Sensory & Organoleptic Profile",
+  "gcmsTitle": "GC-MS Chemical Profile (Active Compounds)",
+  "gasChromatography": "Gas Chromatography",
+  "coaTitle": "Official Laboratory Certificate of Analysis (COA)",
+  "coaDesc": "Verified laboratory test results confirming purity and zero synthetic adulteration.",
+  "viewCoaPdf": "View COA PDF",
+  "coaVerifiedByQa": "COA Verified by QA",
+  "safetyClass": "Safety Class",
+  "productionDate": "Production Date",
+  "expiryDate": "Expiry Date",
+  "authenticity": "Authenticity",
+  "genuine": "100% Genuine",
+  "fields": {
+    "region": "Region:",
+    "elevation": "Elevation:",
+    "farmerPartner": "Farmer Partner:",
+    "harvestDate": "Harvest Date:",
+    "botanicalName": "Botanical Name:",
+    "plantPart": "Plant Part:",
+    "method": "Method:",
+    "qualityScore": "Quality Score:",
+    "color": "Appearance & Color",
+    "clarity": "Clarity",
+    "odor": "Odor Character"
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "tagline": "Empowering rural farmers through transparent, high-integrity supply chains."
+  }
+}

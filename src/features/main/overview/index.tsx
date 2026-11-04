@@ -14,19 +14,21 @@ import type { QuickActionItem } from '@/components/shared/quick-actions'
 import type { ReactElement } from 'react'
 
 export function MainOverview(): ReactElement {
+  const t = useTranslations('main.overview')
   const tCommon = useTranslations('common')
+
   const kpis: SummaryCardItem[] = [
-    { title: 'Sistem Terhubung', value: 'Odoo 18 CE', subtitle: 'PostgreSQL 15 Alpine', icon: Activity, color: 'text-primary' },
-    { title: 'Silsilah Aktif', value: '24 Batches', subtitle: '100% Full Chain Traceable', icon: Layers, color: 'text-blue-500' },
-    { title: 'Pergudangan (WMS)', value: '3 Zona Fisik', subtitle: 'Quarantine • Approved • Reject', icon: Warehouse, color: 'text-amber-500' },
-    { title: 'Karyawan & Mitra', value: '32 Personel', subtitle: 'Petani, QC, Pabrik, & Staff', icon: Users, color: 'text-emerald-500' }
+    { title: t('kpis.systemConnected'), value: 'Odoo 18 CE', subtitle: t('kpis.subtitles.odoo'), icon: Activity, color: 'text-primary' },
+    { title: t('kpis.activeGenealogy'), value: '24 Batches', subtitle: t('kpis.subtitles.traceable'), icon: Layers, color: 'text-blue-500' },
+    { title: t('kpis.wmsStorage'), value: '3 Zona Fisik', subtitle: t('kpis.subtitles.zones'), icon: Warehouse, color: 'text-amber-500' },
+    { title: t('kpis.workforce'), value: '32 Personel', subtitle: t('kpis.subtitles.personnel'), icon: Users, color: 'text-emerald-500' }
   ]
 
   const shortcuts: QuickActionItem[] = [
-    { label: 'Ketertelusuran Lot', href: '/traceability', icon: Layers },
-    { label: 'Buku Stok WMS', href: '/wms', icon: Warehouse },
-    { label: 'Pipeline CRM B2B', href: '/crm', icon: Target },
-    { label: 'Presensi Karyawan', href: '/hris', icon: Clock }
+    { label: t('shortcuts.lotTrace'), href: '/traceability', icon: Layers },
+    { label: t('shortcuts.wmsLedger'), href: '/wms', icon: Warehouse },
+    { label: t('shortcuts.crmPipeline'), href: '/crm', icon: Target },
+    { label: t('shortcuts.hrisAttendance'), href: '/hris', icon: Clock }
   ]
 
   const recentActivities = [
@@ -39,8 +41,8 @@ export function MainOverview(): ReactElement {
   return (
     <div className="space-y-4 sm:space-y-6">
       <PageHeader
-        title="Ruang Kendali Utama (MAIN)"
-        description="Pusat operasional eksekutif & ringkasan terintegrasi PT. Syailendra Bumi Investama"
+        title={t('title')}
+        description={t('description')}
         icon={LayoutDashboard}
         actions={
           <Badge variant="outline" className="border-primary/20 bg-primary/10 text-primary text-[11px] sm:text-xs">
@@ -59,14 +61,14 @@ export function MainOverview(): ReactElement {
       <div className="grid gap-4 sm:gap-6 lg:grid-cols-7">
         <Card className="shadow-xs lg:col-span-4">
           <CardHeader className="pb-3">
-            <CardTitle className="text-sm sm:text-base">Distribusi Arsitektur Rantai Pasok</CardTitle>
-            <CardDescription className="text-xs">Integrasi 6 modul strategis DDistillers pada backend Odoo 18</CardDescription>
+            <CardTitle className="text-sm sm:text-base">{t('distribution.title')}</CardTitle>
+            <CardDescription className="text-xs">{t('distribution.subtitle')}</CardDescription>
           </CardHeader>
           <CardContent className="space-y-3 sm:space-y-4">
             <div className="space-y-1.5">
               <div className="flex justify-between text-xs font-medium">
-                <span>Traceability & Mutu QC</span>
-                <span className="text-primary font-semibold">100% Terverifikasi</span>
+                <span>{t('distribution.traceability')}</span>
+                <span className="text-primary font-semibold">{t('distribution.traceabilityStatus')}</span>
               </div>
               <div className="bg-muted h-1.5 w-full overflow-hidden rounded-full sm:h-2">
                 <div className="bg-primary h-full rounded-full" style={{ width: '100%' }} />
@@ -74,8 +76,8 @@ export function MainOverview(): ReactElement {
             </div>
             <div className="space-y-1.5">
               <div className="flex justify-between text-xs font-medium">
-                <span>Kapasitas Gudang Utama (WMS)</span>
-                <span className="font-semibold text-blue-500">48% Terisi</span>
+                <span>{t('distribution.warehouse')}</span>
+                <span className="font-semibold text-blue-500">{t('distribution.warehouseStatus')}</span>
               </div>
               <div className="bg-muted h-1.5 w-full overflow-hidden rounded-full sm:h-2">
                 <div className="h-full rounded-full bg-blue-500" style={{ width: '48%' }} />
@@ -83,8 +85,8 @@ export function MainOverview(): ReactElement {
             </div>
             <div className="space-y-1.5">
               <div className="flex justify-between text-xs font-medium">
-                <span>Kualifikasi Leads B2B Ekspor (CRM)</span>
-                <span className="font-semibold text-amber-500">75% Tahap Negosiasi</span>
+                <span>{t('distribution.crm')}</span>
+                <span className="font-semibold text-amber-500">{t('distribution.crmStatus')}</span>
               </div>
               <div className="bg-muted h-1.5 w-full overflow-hidden rounded-full sm:h-2">
                 <div className="h-full rounded-full bg-amber-500" style={{ width: '75%' }} />
@@ -95,8 +97,8 @@ export function MainOverview(): ReactElement {
 
         <Card className="shadow-xs lg:col-span-3">
           <CardHeader className="pb-3">
-            <CardTitle className="text-sm sm:text-base">Aktivitas Terkini</CardTitle>
-            <CardDescription className="text-xs">Log pergerakan batch & status sistem real-time</CardDescription>
+            <CardTitle className="text-sm sm:text-base">{t('activities.title')}</CardTitle>
+            <CardDescription className="text-xs">{t('activities.subtitle')}</CardDescription>
           </CardHeader>
           <CardContent className="space-y-2.5 sm:space-y-3">
             {recentActivities.map((act) => (

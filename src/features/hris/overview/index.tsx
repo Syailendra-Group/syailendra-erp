@@ -12,6 +12,7 @@ import type { SummaryCardItem } from '@/components/card/summary-card'
 import type { QuickActionItem } from '@/components/shared/quick-actions'
 
 export function HrisOverview(): ReactElement {
+  const t = useTranslations('hris.overview')
   const tCommon = useTranslations('common')
   const kpis: SummaryCardItem[] = [
     { title: 'Karyawan Hadir Hari Ini', value: '28 / 32', subtitle: '87.5% Tingkat Kehadiran', icon: UserCheck, color: 'text-emerald-500' },
@@ -35,8 +36,8 @@ export function HrisOverview(): ReactElement {
             <Clock className="size-4 sm:size-5" />
           </div>
           <div>
-            <h1 className="text-xl font-bold tracking-tight sm:text-2xl">Ketenagakerjaan & HRIS</h1>
-            <p className="text-muted-foreground text-xs sm:text-sm">Manajemen presensi real-time, shift operasional, & direktori staf PT. SBI</p>
+            <h1 className="text-xl font-bold tracking-tight sm:text-2xl">{t('title')}</h1>
+            <p className="text-muted-foreground text-xs sm:text-sm">{t('subtitle')}</p>
           </div>
         </div>
         <Badge variant="outline" className="border-primary/20 bg-primary/10 text-primary text-[11px] sm:text-xs">

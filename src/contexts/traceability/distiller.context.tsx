@@ -12,17 +12,17 @@ export interface DistillersContextType {
   setOpen: (type: DistillersDialogType) => void
   currentRow: DistillerRecord | null
   setCurrentRow: (row: DistillerRecord | null) => void
-  refreshData: () => void
+  refreshData?: () => void
 }
 
 const DistillersContext = createContext<DistillersContextType | null>(null)
 
 export interface DistillersProviderProps {
   children: ReactNode
-  refreshData: () => void
+  refreshData?: () => void
 }
 
-export function DistillersProvider({ children, refreshData }: DistillersProviderProps): ReactElement {
+export function DistillersProvider({ children, refreshData = () => {} }: DistillersProviderProps): ReactElement {
   const [open, setOpen] = useState<DistillersDialogType>(null)
   const [currentRow, setCurrentRow] = useState<DistillerRecord | null>(null)
 

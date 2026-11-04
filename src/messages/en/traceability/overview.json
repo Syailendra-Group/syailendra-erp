@@ -1,4 +1,18 @@
 {
-  "title": "Terroir Traceability Hub",
-  "subtitle": "End-to-end traceability of essential oil botanicals from farm to distillation batch"
+  "title": "Traceability & Batch Genealogy",
+  "subtitle": "7-layer Farm-to-Consumer provenance tracking engine for DDistillers",
+  "recent": {
+    "title": "Recent Batch Genealogy Register",
+    "subtitle": "Upstream-to-downstream lot verification status connected to live Odoo 18"
+  },
+  "table": {
+    "lot": "Lot / Batch Number",
+    "commodity": "Product Commodity",
+    "origin": "Upstream Origin / Terroir",
+    "coa": "Lab COA Number",
+    "status": "Traceability Status",
+    "qualityStatus": "Quality Status",
+    "actions": "Actions",
+    "viewQr": "View QR"
+  }
 }

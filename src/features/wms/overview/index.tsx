@@ -13,6 +13,7 @@ import type { SummaryCardItem } from '@/components/card/summary-card'
 import type { QuickActionItem } from '@/components/shared/quick-actions'
 
 export function WmsOverview(): ReactElement {
+  const t = useTranslations('wms.overview')
   const tCommon = useTranslations('common')
   const kpis: SummaryCardItem[] = [
     { title: 'Saldo Stok Siap Pakai', value: '58.2 Kg', subtitle: 'WH/Approved • Lolos QC', icon: ShieldCheck, color: 'text-emerald-500' },
@@ -37,8 +38,8 @@ export function WmsOverview(): ReactElement {
             <Warehouse className="size-4 sm:size-5" />
           </div>
           <div>
-            <h1 className="text-xl font-bold tracking-tight sm:text-2xl">Manajemen Pergudangan (WMS)</h1>
-            <p className="text-muted-foreground text-xs sm:text-sm">Pengelolaan persediaan fisik multi-lokasi & alur mutasi barang</p>
+            <h1 className="text-xl font-bold tracking-tight sm:text-2xl">{t('title')}</h1>
+            <p className="text-muted-foreground text-xs sm:text-sm">{t('subtitle')}</p>
           </div>
         </div>
         <Badge variant="outline" className="border-primary/20 bg-primary/10 text-primary text-[11px] sm:text-xs">
@@ -53,48 +54,48 @@ export function WmsOverview(): ReactElement {
       <div className="grid gap-4 sm:gap-6 lg:grid-cols-2">
         <Card className="shadow-xs">
           <CardHeader className="pb-3">
-            <CardTitle className="text-sm sm:text-base">Distribusi Lokasi Fisik Gudang</CardTitle>
-            <CardDescription className="text-xs">Pemetaan saldo inventaris pada 3 zona utama Odoo 18</CardDescription>
+            <CardTitle className="text-sm sm:text-base">{t('distribution.title')}</CardTitle>
+            <CardDescription className="text-xs">{t('distribution.subtitle')}</CardDescription>
           </CardHeader>
           <CardContent className="space-y-3 sm:space-y-4">
             <div className="flex items-center justify-between border-b pb-2.5 sm:pb-3">
               <div>
-                <p className="text-xs font-semibold sm:text-sm">WH/Approved (Bahan Siap Produksi)</p>
-                <span className="text-muted-foreground text-[11px]">Lokasi rak: Z1-R02-B01</span>
+                <p className="text-xs font-semibold sm:text-sm">{t('distribution.approved')}</p>
+                <span className="text-muted-foreground text-[11px]">{t('distribution.approvedRack')}</span>
               </div>
-              <span className="text-xs font-bold text-emerald-600 sm:text-sm">8.2 Kg (Gaharu Murni)</span>
+              <span className="text-xs font-bold text-emerald-600 sm:text-sm">{t('distribution.approvedQty')}</span>
             </div>
             <div className="flex items-center justify-between border-b pb-2.5 sm:pb-3">
               <div>
-                <p className="text-xs font-semibold sm:text-sm">WH/Quarantine (Karantina Lab)</p>
-                <span className="text-muted-foreground text-[11px]">Status: Lockout mrp.production</span>
+                <p className="text-xs font-semibold sm:text-sm">{t('distribution.quarantine')}</p>
+                <span className="text-muted-foreground text-[11px]">{t('distribution.quarantineStatus')}</span>
               </div>
-              <span className="text-xs font-bold text-amber-600 sm:text-sm">24.5 Kg (Nilam Mentah)</span>
+              <span className="text-xs font-bold text-amber-600 sm:text-sm">{t('distribution.quarantineQty')}</span>
             </div>
             <div className="flex items-center justify-between pb-1">
               <div>
-                <p className="text-xs font-semibold sm:text-sm">WH/Reject (Klaim Retur Supplier)</p>
-                <span className="text-muted-foreground text-[11px]">Status: Out of Spec (DISC-2026-0014)</span>
+                <p className="text-xs font-semibold sm:text-sm">{t('distribution.reject')}</p>
+                <span className="text-muted-foreground text-[11px]">{t('distribution.rejectStatus')}</span>
               </div>
-              <span className="text-destructive text-xs font-bold sm:text-sm">10.0 Kg (Serai Reject)</span>
+              <span className="text-destructive text-xs font-bold sm:text-sm">{t('distribution.rejectQty')}</span>
             </div>
           </CardContent>
         </Card>
 
         <Card className="shadow-xs">
           <CardHeader className="pb-3">
-            <CardTitle className="text-sm sm:text-base">Prosedur Karantina & SOP Unboxing</CardTitle>
-            <CardDescription className="text-xs">Kepatuhan gerbang penerimaan barang PT. SBI</CardDescription>
+            <CardTitle className="text-sm sm:text-base">{t('sop.title')}</CardTitle>
+            <CardDescription className="text-xs">{t('sop.subtitle')}</CardDescription>
           </CardHeader>
           <CardContent className="text-muted-foreground space-y-2.5 text-xs leading-relaxed sm:space-y-3">
             <p>
-              • <strong>SOP Unboxing:</strong> Seluruh penerimaan minyak atsiri wajib dilengkapi rekaman video uncut dan foto 4 sisi kemasan.
+              • <strong>{t('sop.unboxing')}</strong> {t('sop.unboxingDesc')}
             </p>
             <p>
-              • <strong>Label Kuning:</strong> Ditempelkan saat tiba di receiving dan otomatis mengunci stok dari modul produksi.
+              • <strong>{t('sop.yellowLabel')}</strong> {t('sop.yellowLabelDesc')}
             </p>
             <p>
-              • <strong>Otorisasi QC:</strong> Hanya akun berwenang yang dapat memindahkan stok dari Karantina ke Approved.
+              • <strong>{t('sop.qcAuth')}</strong> {t('sop.qcAuthDesc')}
             </p>
           </CardContent>
         </Card>

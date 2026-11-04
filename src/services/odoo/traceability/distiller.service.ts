@@ -4,115 +4,169 @@
  */
 
 import { odoo } from '@/lib/odoo'
+import { buildPolishOrDomain, buildStatusDomain } from '@/utils'
 
-import type { OdooFieldValue } from '@/lib/odoo/types'
+import type { OdooDomain, OdooDomainTuple, OdooFieldValue } from '@/lib/odoo/types'
 import type { DistillerFormValues } from '@/schemas/traceability/distiller-schema'
 import type { DistillerRecord } from '@/types/traceability/distiller'
 
-function mapPartnerToDistiller(r: Record<string, OdooFieldValue>): DistillerRecord {
-  const comment = (r.comment as string) || ''
-  let boiler_capacity_kg = 500
-  const capMatch = comment.match(/Kapasitas Ketel:\s*(\d+)/i)
-  if (capMatch && capMatch[1]) {
-    boiler_capacity_kg = parseInt(capMatch[1], 10)
-  }
+function sanitizeOdooString(val: OdooFieldValue): string {
+  if (typeof val === 'string') return val
+  return ''
+}
 
-  let method = 'steam'
-  if (comment.toLowerCase().includes('hydro')) method = 'hydro'
-  else if (comment.toLowerCase().includes('water_steam')) method = 'water_steam'
+function sanitizeOdooNumber(val: OdooFieldValue): number {
+  if (typeof val === 'number') return val
+  return 0
+}
 
-  let boiler_material = 'ss304'
-  if (comment.toLowerCase().includes('ss316')) boiler_material = 'ss316'
-  else if (comment.toLowerCase().includes('copper')) boiler_material = 'copper'
+function sanitizeOdooBoolean(val: OdooFieldValue): boolean {
+  return Boolean(val)
+}
 
-  let ownership = 'company_owned'
-  if (comment.toLowerCase().includes('mitra')) ownership = 'cooperative'
-  else if (comment.toLowerCase().includes('sewa')) ownership = 'leased'
+function parseDistillerComment(commentRaw: OdooFieldValue) {
+  const comment = sanitizeOdooString(commentRaw)
+  const capacityMatch = comment.match(/Kapasitas:\s*(\d+)\s*Kg/i)
+  const methodMatch = comment.match(/Metode:\s*([a-zA-Z_]+)/i)
+  const materialMatch = comment.match(/Material:\s*([a-zA-Z0-9_]+)/i)
+  const ownershipMatch = comment.match(/Ownership:\s*([a-zA-Z_]+)/i)
+  const operatorMatch = comment.match(/Operator:\s*([^|\n]+)/i)
+  const sanitationMatch = comment.match(/Sanitasi:\s*([a-zA-Z_]+)/i)
 
   return {
-    id: r.id as number,
-    ref: (r.ref as string) || 'DST-JTG-' + r.id,
-    name: (r.name as string) || 'Ketel Suling',
-    boiler_capacity_kg,
-    method,
-    boiler_material,
-    ownership,
-    operator_name: (r.function as string) || 'Operator Suling',
-    phone: (r.phone as string) || false,
-    city: (r.city as string) || 'Temanggung',
-    street: (r.street as string) || 'Kawasan Sentra Suling',
-    partner_latitude: Number(r.partner_latitude) || 0,
-    partner_longitude: Number(r.partner_longitude) || 0,
-    sanitation_status: comment.toLowerCase().includes('inspeksi sanitasi: lolos') ? 'passed' : 'pending',
-    comment: comment || false,
-    active: Boolean(r.active)
+    boiler_capacity_kg: capacityMatch ? Number(capacityMatch[1]) : 500,
+    method: methodMatch ? methodMatch[1].toLowerCase() : 'steam',
+    boiler_material: materialMatch ? materialMatch[1].toLowerCase() : 'sus304',
+    ownership: ownershipMatch ? ownershipMatch[1].toLowerCase() : 'internal',
+    operator_name: operatorMatch ? operatorMatch[1].trim() : 'Operator Suling',
+    sanitation_status: sanitationMatch ? sanitationMatch[1].toLowerCase() : 'passed'
+  }
+}
+
+function mapOdooPartnerToDistiller(raw: Record<string, OdooFieldValue>): DistillerRecord {
+  const parsed = parseDistillerComment(raw.comment)
+
+  return {
+    id: sanitizeOdooNumber(raw.id),
+    name: sanitizeOdooString(raw.name),
+    ref: sanitizeOdooString(raw.ref),
+    phone: sanitizeOdooString(raw.phone) || false,
+    street: sanitizeOdooString(raw.street),
+    city: sanitizeOdooString(raw.city),
+    comment: sanitizeOdooString(raw.comment) || false,
+    active: sanitizeOdooBoolean(raw.active),
+    boiler_capacity_kg: parsed.boiler_capacity_kg,
+    method: parsed.method,
+    boiler_material: parsed.boiler_material,
+    ownership: parsed.ownership,
+    operator_name: parsed.operator_name,
+    sanitation_status: parsed.sanitation_status
+  }
+}
+
+const DISTILLER_FIELDS = ['id', 'name', 'ref', 'phone', 'street', 'city', 'comment', 'active']
+
+export interface FetchDistillersPaginatedParams {
+  page?: number
+  perPage?: number
+  search?: string
+  method?: string | string[]
+  status?: string | string[]
+  order?: string
+}
+
+export interface FetchDistillersPaginatedResult {
+  records: DistillerRecord[]
+  totalCount: number
+  page: number
+  perPage: number
+}
+
+/**
+ * Fetch distillers with server-side windowing, search count, and faceted filters
+ */
+export async function fetchDistillersPaginated(params: FetchDistillersPaginatedParams = {}): Promise<FetchDistillersPaginatedResult> {
+  const page = Math.max(1, params.page || 1)
+  const perPage = Math.max(1, params.perPage || 20)
+  const offset = (page - 1) * perPage
+
+  const baseDomain: (OdooDomainTuple | string)[] = [['ref', '=like', 'DST%']]
+
+  // Status domain
+  const statusTuples = buildStatusDomain(params.status)
+  statusTuples.forEach((t) => baseDomain.push(t))
+
+  // Method domain using shared Polish OR helper
+  const methodDomain = buildPolishOrDomain('comment', params.method, 'ilike')
+  methodDomain.forEach((d) => baseDomain.push(d))
+
+  // Search keyword domain
+  if (params.search?.trim()) {
+    const term = `%${params.search.trim()}%`
+    baseDomain.push('|', ['name', 'ilike', term], ['ref', 'ilike', term])
+  }
+
+  const [totalCount, rawRecords] = await Promise.all([
+    odoo.client.searchCount('res.partner', baseDomain as OdooDomain),
+    odoo.client.executeKw<Record<string, OdooFieldValue>[]>('res.partner', 'search_read', [baseDomain as OdooDomain], {
+      fields: DISTILLER_FIELDS,
+      offset,
+      limit: perPage,
+      order: params.order || 'ref asc'
+    })
+  ])
+
+  return {
+    records: rawRecords.map(mapOdooPartnerToDistiller),
+    totalCount,
+    page,
+    perPage
   }
 }
 
 export async function fetchDistillers(): Promise<DistillerRecord[]> {
-  const records = await odoo.client.searchRead<Record<string, OdooFieldValue>>(
-    'res.partner',
-    [['ref', 'like', 'DST%']],
-    ['id', 'ref', 'name', 'function', 'phone', 'city', 'street', 'partner_latitude', 'partner_longitude', 'comment', 'active'],
-    { order: 'ref asc' }
-  )
-
-  return records.map(mapPartnerToDistiller)
+  const res = await fetchDistillersPaginated({ perPage: 100 })
+  return res.records
 }
 
-export async function persistDistiller(values: DistillerFormValues): Promise<number> {
-  const {
-    id,
-    ref,
-    name,
-    boiler_capacity_kg,
-    method,
-    boiler_material,
-    ownership,
-    operator_name,
-    phone,
-    city,
-    street,
-    partner_latitude,
-    partner_longitude,
-    sanitation_status,
-    comment
-  } = values
+export async function persistDistiller(values: DistillerFormValues): Promise<{ success: boolean; id?: number; error?: string }> {
+  try {
+    const structuredComment =
+      `Kapasitas: ${values.boiler_capacity_kg} Kg | Metode: ${values.method} | Material: ${values.boiler_material} | Ownership: ${values.ownership} | Operator: ${values.operator_name} | Sanitasi: ${values.sanitation_status}\n${values.comment || ''}`.trim()
 
-  const combinedNotes = [
-    comment ? comment.trim() : '',
-    'Kapasitas Ketel: ' + boiler_capacity_kg + ' Kg',
-    'Metode: ' + method.toUpperCase(),
-    'Material: ' + boiler_material.toUpperCase(),
-    'Kepemilikan: ' + ownership.toUpperCase(),
-    'Inspeksi Sanitasi: ' + (sanitation_status === 'passed' ? 'Lolos' : 'Pending')
-  ]
-    .filter(Boolean)
-    .join(' | ')
+    const partnerPayload: Record<string, OdooFieldValue> = {
+      name: values.name,
+      ref: values.ref,
+      phone: values.phone || false,
+      street: values.street || false,
+      city: values.city || false,
+      comment: structuredComment,
+      is_company: false
+    }
 
-  const payload: Record<string, OdooFieldValue> = {
-    ref,
-    name,
-    function: operator_name,
-    phone: phone || false,
-    city,
-    street,
-    partner_latitude: partner_latitude || 0,
-    partner_longitude: partner_longitude || 0,
-    comment: combinedNotes,
-    autopost_bills: 'ask'
+    if (values.id) {
+      await odoo.client.executeKw('res.partner', 'write', [[values.id], partnerPayload])
+      return { success: true, id: values.id }
+    } else {
+      const newId = await odoo.client.executeKw<number>('res.partner', 'create', [partnerPayload])
+      return { success: true, id: newId }
+    }
+  } catch (err) {
+    return {
+      success: false,
+      error: err instanceof Error ? err.message : 'Failed to persist distiller unit in Odoo'
+    }
   }
-
-  if (id) {
-    await odoo.client.write('res.partner', [id], payload)
-    return id
-  }
-
-  payload.is_company = false
-  payload.active = true
-  return await odoo.client.create('res.partner', payload)
 }
 
-export async function updateDistillerActiveState(id: number, active: boolean): Promise<boolean> {
-  return odoo.client.write('res.partner', [id], { active })
+export async function updateDistillerActiveState(id: number, active: boolean): Promise<{ success: boolean; error?: string }> {
+  try {
+    await odoo.client.executeKw('res.partner', 'write', [[id], { active }])
+    return { success: true }
+  } catch (err) {
+    return {
+      success: false,
+      error: err instanceof Error ? err.message : 'Failed to update distiller status in Odoo'
+    }
+  }
 }

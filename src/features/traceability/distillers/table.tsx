@@ -1,65 +1,88 @@
 'use client'
 
-import { useMemo, useState } from 'react'
-import {
-  flexRender,
-  getCoreRowModel,
-  getFacetedRowModel,
-  getFacetedUniqueValues,
-  getFilteredRowModel,
-  getPaginationRowModel,
-  getSortedRowModel,
-  useReactTable
-} from '@tanstack/react-table'
+import { useMemo } from 'react'
+import { flexRender, getCoreRowModel, useReactTable } from '@tanstack/react-table'
 import { useTranslations } from 'next-intl'
 
-import { DataTablePagination, DataTableToolbar } from '@/components/data-table'
+import { DataTablePagination, DataTableSkeleton, DataTableToolbar } from '@/components/data-table'
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '@/components/ui/table'
+import { useDistillersPaginatedQuery } from '@/hooks/traceability/use-distillers'
+import { useDataTableUrlState } from '@/hooks/use-data-table-url-state'
 import { cn } from '@/lib/utils'
 
 import { getColumns } from './columns'
 
-import type { DistillerRecord } from '@/actions/traceability/distiller.action'
-import type { ColumnFiltersState, SortingState, VisibilityState } from '@tanstack/react-table'
 import type { ReactElement } from 'react'
 
-export interface DistillersTableProps {
-  data: DistillerRecord[]
-}
+const FILTER_KEYS = ['method', 'active']
 
-export function DistillersTable({ data }: DistillersTableProps): ReactElement {
+export function DistillersTable(): ReactElement {
   const tTrace = useTranslations('traceability')
   const tCommon = useTranslations('common')
 
-  const [columnVisibility, setColumnVisibility] = useState<VisibilityState>({})
-  const [columnFilters, setColumnFilters] = useState<ColumnFiltersState>([])
-  const [sorting, setSorting] = useState<SortingState>([{ id: 'ref', desc: false }])
-  const [globalFilter, setGlobalFilter] = useState<string>('')
-
   const columns = useMemo(() => getColumns({ tTrace, tCommon }), [tTrace, tCommon])
 
-  const table = useReactTable({
-    data,
-    columns,
-    state: {
-      sorting,
-      columnVisibility,
-      columnFilters,
-      globalFilter
-    },
-    onSortingChange: setSorting,
-    onColumnFiltersChange: setColumnFilters,
-    onColumnVisibilityChange: setColumnVisibility,
-    onGlobalFilterChange: setGlobalFilter,
-    getCoreRowModel: getCoreRowModel(),
-    getFilteredRowModel: getFilteredRowModel(),
-    getPaginationRowModel: getPaginationRowModel(),
-    getSortedRowModel: getSortedRowModel(),
-    getFacetedRowModel: getFacetedRowModel(),
-    getFacetedUniqueValues: getFacetedUniqueValues()
+  // 1. Hook manages all URL parsing, pagination, sorting & filter state
+  const {
+    page,
+    perPage,
+    search,
+    orderOdoo,
+    pagination,
+    sorting,
+    columnFilters,
+    getArrayFilter,
+    resetFilters,
+    onPaginationChange,
+    onSortingChange,
+    onGlobalFilterChange,
+    createColumnFiltersHandler
+  } = useDataTableUrlState({
+    defaultSort: 'ref.asc',
+    filterKeys: FILTER_KEYS
   })
 
-  // Faceted filter options for extraction methods
+  // 2. Extracted array filter values from URL
+  const methodList = getArrayFilter('method')
+  const statusList = getArrayFilter('active')
+
+  // 3. TanStack Query with server-side pagination & filter params
+  const {
+    data: result,
+    isLoading,
+    isFetching
+  } = useDistillersPaginatedQuery({
+    page,
+    perPage,
+    search,
+    method: methodList.length > 0 ? methodList : undefined,
+    status: statusList.length > 0 ? statusList : undefined,
+    order: orderOdoo
+  })
+
+  const distillers = result?.records ?? []
+  const totalCount = result?.totalCount ?? 0
+
+  const table = useReactTable({
+    data: distillers,
+    columns,
+    rowCount: totalCount,
+    state: {
+      pagination,
+      sorting,
+      columnFilters,
+      globalFilter: search
+    },
+    manualPagination: true,
+    manualFiltering: true,
+    manualSorting: true,
+    onPaginationChange,
+    onSortingChange,
+    onColumnFiltersChange: createColumnFiltersHandler(FILTER_KEYS),
+    onGlobalFilterChange,
+    getCoreRowModel: getCoreRowModel()
+  })
+
   const methodFilterOptions = useMemo(
     () => [
       { label: tTrace('distillers.methods.steam'), value: 'steam' },
@@ -72,8 +95,8 @@ export function DistillersTable({ data }: DistillersTableProps): ReactElement {
 
   const statusFilterOptions = useMemo(
     () => [
-      { label: tCommon('status.active'), value: 'true' },
-      { label: tCommon('status.archived'), value: 'false' }
+      { label: tCommon('status.active'), value: 'active' },
+      { label: tCommon('status.archived'), value: 'archived' }
     ],
     [tCommon]
   )
@@ -83,6 +106,7 @@ export function DistillersTable({ data }: DistillersTableProps): ReactElement {
       <DataTableToolbar
         table={table}
         searchPlaceholder={tCommon('actions.search')}
+        onReset={resetFilters}
         filters={[
           {
             columnId: 'method',
@@ -97,14 +121,18 @@ export function DistillersTable({ data }: DistillersTableProps): ReactElement {
         ]}
       />
 
-      <div className="bg-card overflow-hidden rounded-md border-0 shadow-xs">
+      <div className="bg-card overflow-hidden rounded-md border shadow-xs">
         <div className="overflow-x-auto">
           <Table>
             <TableHeader>
               {table.getHeaderGroups().map((headerGroup) => (
                 <TableRow key={headerGroup.id}>
                   {headerGroup.headers.map((header) => (
-                    <TableHead key={header.id} colSpan={header.colSpan} className={cn('text-xs', header.column.id === 'actions' && 'text-center')}>
+                    <TableHead
+                      key={header.id}
+                      colSpan={header.colSpan}
+                      className={cn('text-xs font-semibold', header.column.id === 'actions' && 'text-center')}
+                    >
                       {header.isPlaceholder ? null : flexRender(header.column.columnDef.header, header.getContext())}
                     </TableHead>
                   ))}
@@ -112,7 +140,9 @@ export function DistillersTable({ data }: DistillersTableProps): ReactElement {
               ))}
             </TableHeader>
             <TableBody>
-              {table.getRowModel().rows?.length ? (
+              {isLoading || isFetching ? (
+                <DataTableSkeleton columnCount={columns.length} rowCount={perPage} />
+              ) : table.getRowModel().rows?.length ? (
                 table.getRowModel().rows.map((row) => (
                   <TableRow key={row.id} className="hover:bg-muted/30 transition-colors">
                     {row.getVisibleCells().map((cell) => (

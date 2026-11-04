@@ -108,7 +108,7 @@ export function DistillersActionDialog(): ReactElement {
       const res = await saveDistiller(values)
       if (res.success) {
         toast.success(tTrace('messages.saved'))
-        refreshData()
+        refreshData?.()
         setOpen(null)
         setCurrentRow(null)
       } else {

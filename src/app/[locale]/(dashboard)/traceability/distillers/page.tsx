@@ -1,4 +1,3 @@
-import { getDistillersAction } from '@/actions/traceability/distiller.action'
 import { DistillersFeature } from '@/features/traceability/distillers'
 
 import type { Metadata } from 'next'
@@ -9,7 +8,6 @@ export const metadata: Metadata = {
   description: 'Official distillation boilers and extraction units register'
 }
 
-export default async function DistillersPage(): Promise<ReactElement> {
-  const { distillers } = await getDistillersAction()
-  return <DistillersFeature initialData={distillers} />
+export default function DistillersPage(): ReactElement {
+  return <DistillersFeature />
 }

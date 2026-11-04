@@ -1,0 +1,36 @@
+{
+  "title": "Main Operations Command (MAIN)",
+  "description": "Executive operational center & integrated overview of PT. Syailendra Bumi Investama",
+  "kpis": {
+    "systemConnected": "Connected System",
+    "activeGenealogy": "Active Genealogy",
+    "wmsStorage": "Warehousing (WMS)",
+    "workforce": "Staff & Partners",
+    "subtitles": {
+      "odoo": "PostgreSQL 15 Alpine",
+      "traceable": "100% Full Chain Traceable",
+      "zones": "Quarantine • Approved • Reject",
+      "personnel": "Farmers, QC, Factory & Staff"
+    }
+  },
+  "shortcuts": {
+    "lotTrace": "Lot Traceability",
+    "wmsLedger": "WMS Stock Ledger",
+    "crmPipeline": "B2B CRM Pipeline",
+    "hrisAttendance": "Staff Attendance"
+  },
+  "distribution": {
+    "title": "Supply Chain Architecture Distribution",
+    "subtitle": "Integration of 6 strategic DDistillers modules on backend Odoo 18",
+    "traceability": "Traceability & Quality QC",
+    "traceabilityStatus": "100% Verified",
+    "warehouse": "Main Warehouse Capacity (WMS)",
+    "warehouseStatus": "48% Filled",
+    "crm": "Export B2B Leads Qualification (CRM)",
+    "crmStatus": "75% In Negotiation"
+  },
+  "activities": {
+    "title": "Recent Activity",
+    "subtitle": "Real-time batch movements & system operations log"
+  }
+}

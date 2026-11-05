@@ -45,5 +45,12 @@
     "created": "Employee successfully added to Odoo 18",
     "updated": "Employee details updated",
     "archived": "Employee record archived"
+  },
+  "validation": {
+    "nameRequired": "Employee full name must be at least {min} characters.",
+    "emailInvalid": "Invalid work email address.",
+    "phoneTooShort": "Work phone number must be at least {min} digits.",
+    "jobTitleRequired": "Job title is required.",
+    "departmentRequired": "Please select a department."
   }
 }

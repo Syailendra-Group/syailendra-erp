@@ -28,6 +28,7 @@ import {
   ShieldCheck,
   ShoppingBag,
   Sliders,
+  Sparkles,
   Tag,
   Target,
   Truck,
@@ -81,7 +82,8 @@ export const sidebarData: SidebarData = {
         items: [
           { titleKey: 'items.overview', url: '/scm', icon: LayoutDashboard },
           { titleKey: 'items.farmers', url: '/scm/farmers', icon: Users },
-          { titleKey: 'items.distillers', url: '/scm/distillers', icon: Factory }
+          { titleKey: 'items.distillers', url: '/scm/distillers', icon: Factory },
+          { titleKey: 'items.materials', url: '/scm/materials', icon: Sparkles }
         ]
       },
       {

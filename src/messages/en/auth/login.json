@@ -17,5 +17,10 @@
     "login_success": "Successfully signed in",
     "login_failed": "Invalid email or password",
     "logout_success": "You have signed out"
+  },
+  "validation": {
+    "emailRequired": "Email address is required.",
+    "emailInvalid": "Invalid email address format.",
+    "passwordMin": "Password must be at least {min} characters."
   }
 }

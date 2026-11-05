@@ -17,7 +17,7 @@ import { useCountriesQuery } from '@/hooks/others/use-countries'
 import { useProvincesQuery } from '@/hooks/others/use-provinces'
 import { useCheckParentProvinceQuery, useCheckRegencyExistsQuery, useSaveRegencyMutation } from '@/hooks/others/use-regencies'
 import { useCatalogRegenciesQuery } from '@/hooks/shared/use-regional-catalog'
-import { regencyFormSchema } from '@/schemas/others/regency-schema'
+import { getRegencyFormSchema } from '@/schemas/others/regency-schema'
 
 import { ForeignRegencySection } from './foreign-section'
 
@@ -61,7 +61,7 @@ export function RegencyForm({ currentRow, onSuccess, onValidationChange }: Regen
   const { data: catalogRegencies = [], isLoading: isLoadingCatalog } = useCatalogRegenciesQuery()
 
   const form = useForm<RegencyFormValues>({
-    resolver: zodResolver(regencyFormSchema),
+    resolver: zodResolver(getRegencyFormSchema(t)),
     defaultValues: getInitialValues(currentRow)
   })
 

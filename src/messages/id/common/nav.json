@@ -63,7 +63,8 @@
     "provinces": "Provinsi",
     "regencies": "Kabupaten / Kota",
     "districts": "Kecamatan",
-    "villages": "Kelurahan / Desa"
+    "villages": "Kelurahan / Desa",
+    "materials": "Katalog Material"
   },
   "breadcrumbs": {
     "home": "Beranda",
@@ -112,7 +113,9 @@
     "provinces": "Provinsi",
     "regencies": "Kabupaten / Kota",
     "districts": "Kecamatan",
-    "villages": "Kelurahan / Desa"
+    "villages": "Kelurahan / Desa",
+    "materials": "Katalog Material",
+    "scm": "SCM"
   },
   "user": {
     "profile": "Profil Akun",

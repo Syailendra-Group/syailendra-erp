@@ -102,5 +102,15 @@
     "facilityAddress": "Alamat Fasilitas:",
     "boilerSanitation": "Status Sanitasi Ketel:",
     "specsNotes": "Catatan Spesifikasi"
+  },
+  "validation": {
+    "refMin": "Distiller ID minimal {min} karakter.",
+    "refFormat": "Format harus DST-[WILAYAH]-[NO] (contoh: DST-JTG-002).",
+    "nameRequired": "Nama unit / fasilitas suling minimal {min} karakter.",
+    "capacityPositive": "Kapasitas ketel harus bernilai positif.",
+    "methodRequired": "Metode penyulingan wajib dipilih.",
+    "operatorRequired": "Nama penanggung jawab operator minimal {min} karakter.",
+    "cityRequired": "Kabupaten / kota lokasi wajib diisi.",
+    "streetRequired": "Alamat fasilitas suling wajib diisi."
   }
 }

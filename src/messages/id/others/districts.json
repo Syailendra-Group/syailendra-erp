@@ -34,5 +34,9 @@
     "parentMissingTitle": "Kabupaten Induk Belum Terdaftar",
     "parentMissingDesc": "Kabupaten {regency} belum ada di master data.",
     "autoAddLabel": "Otomatis daftarkan Kabupaten {regency} ke Master Data"
+  },
+  "validation": {
+    "nameRequired": "Nama kecamatan minimal {min} karakter.",
+    "aliasRequired": "Nama alias wajib diisi."
   }
 }

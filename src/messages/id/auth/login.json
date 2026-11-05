@@ -17,5 +17,10 @@
     "login_success": "Berhasil masuk ke sistem",
     "login_failed": "Email atau kata sandi yang Anda masukkan salah",
     "logout_success": "Anda telah keluar dari sistem"
+  },
+  "validation": {
+    "emailRequired": "Alamat email wajib diisi.",
+    "emailInvalid": "Format alamat email tidak valid.",
+    "passwordMin": "Kata sandi minimal {min} karakter."
   }
 }

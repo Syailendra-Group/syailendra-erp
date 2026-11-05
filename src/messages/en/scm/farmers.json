@@ -124,5 +124,13 @@
     "locating": "Searching GPS...",
     "loading": "Loading Interactive Map...",
     "openGmaps": "Open Plantation in Google Maps"
+  },
+  "validation": {
+    "refMin": "Farmer ID must be at least {min} characters.",
+    "refFormat": "Format must follow FMR-[WILAYAH]-[NO] (e.g. FMR-JTG-003).",
+    "nameRequired": "Farmer / group name must be at least {min} characters.",
+    "streetRequired": "Village / plantation address is required.",
+    "cityRequired": "City / regency is required.",
+    "commodityRequired": "Main commodity is required."
   }
 }

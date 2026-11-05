@@ -34,5 +34,9 @@
     "parentMissingTitle": "Parent Regency Not Registered",
     "parentMissingDesc": "Parent regency {regency} is not yet registered in master data.",
     "autoAddLabel": "Automatically register Regency {regency} to Master Data"
+  },
+  "validation": {
+    "nameRequired": "District name must be at least {min} characters.",
+    "aliasRequired": "Alias name is required."
   }
 }

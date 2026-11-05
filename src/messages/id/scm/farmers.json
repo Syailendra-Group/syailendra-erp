@@ -124,5 +124,13 @@
     "locating": "Mencari GPS...",
     "loading": "Memuat Peta Interaktif...",
     "openGmaps": "Buka Titik Kebun di Google Maps"
+  },
+  "validation": {
+    "refMin": "Farmer ID minimal {min} karakter.",
+    "refFormat": "Format harus FMR-[WILAYAH]-[NO] (contoh: FMR-JTG-003).",
+    "nameRequired": "Nama petani / kelompok minimal {min} karakter.",
+    "streetRequired": "Alamat desa / kebun wajib diisi.",
+    "cityRequired": "Kabupaten / kota wajib diisi.",
+    "commodityRequired": "Komoditas utama wajib dipilih."
   }
 }

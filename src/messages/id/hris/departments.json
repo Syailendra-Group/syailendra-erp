@@ -22,5 +22,8 @@
     "updated": "Data departemen berhasil diperbarui",
     "archived": "Departemen berhasil diarsipkan",
     "restored": "Departemen berhasil diaktifkan kembali"
+  },
+  "validation": {
+    "nameRequired": "Nama departemen minimal {min} karakter."
   }
 }

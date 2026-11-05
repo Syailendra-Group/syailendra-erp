@@ -63,7 +63,8 @@
     "provinces": "Provinces & States",
     "regencies": "Regencies & Cities",
     "districts": "Districts",
-    "villages": "Villages"
+    "villages": "Villages",
+    "materials": "Material Catalog"
   },
   "breadcrumbs": {
     "home": "Home",
@@ -112,7 +113,9 @@
     "provinces": "Provinces",
     "regencies": "Regencies & Cities",
     "districts": "Districts",
-    "villages": "Villages"
+    "villages": "Villages",
+    "materials": "Material Catalog",
+    "scm": "SCM"
   },
   "user": {
     "profile": "Profile Account",

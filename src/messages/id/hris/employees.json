@@ -45,5 +45,12 @@
     "created": "Data karyawan berhasil disimpan ke Odoo 18",
     "updated": "Data karyawan berhasil diperbarui",
     "archived": "Data karyawan berhasil diarsipkan"
+  },
+  "validation": {
+    "nameRequired": "Nama lengkap karyawan minimal {min} karakter.",
+    "emailInvalid": "Format alamat email kantor tidak valid.",
+    "phoneTooShort": "Nomor telepon kantor minimal {min} digit.",
+    "jobTitleRequired": "Jabatan pekerjaan wajib diisi.",
+    "departmentRequired": "Departemen wajib dipilih."
   }
 }

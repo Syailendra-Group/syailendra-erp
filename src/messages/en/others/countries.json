@@ -26,5 +26,10 @@
     "viewDesc": "Complete official ISO and phone code information for the country.",
     "deleteTitle": "Delete Country",
     "deleteConfirm": "Delete Country"
+  },
+  "validation": {
+    "nameRequired": "Country name must be at least {min} characters.",
+    "codeMin": "Country code must be at least {min} characters.",
+    "codeMax": "Country code must be at most {max} characters."
   }
 }

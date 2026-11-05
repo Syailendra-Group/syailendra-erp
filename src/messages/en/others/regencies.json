@@ -29,5 +29,9 @@
     "parentMissingTitle": "Parent Province Not Registered",
     "parentMissingDesc": "Parent province {province} is not yet registered in Odoo master data.",
     "autoAddLabel": "Automatically register Province to Odoo:"
+  },
+  "validation": {
+    "nameRequired": "Regency / city name must be at least {min} characters.",
+    "aliasRequired": "Alias name is required."
   }
 }

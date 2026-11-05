@@ -13,7 +13,7 @@ import { Button } from '@/components/ui/button'
 import { Field, FieldError, FieldGroup, FieldLabel } from '@/components/ui/field'
 import { Input } from '@/components/ui/input'
 import { useLoginMutation } from '@/hooks/auth/use-auth'
-import { loginSchema } from '@/schemas/auth/auth-schema'
+import { getLoginSchema } from '@/schemas/auth/auth-schema'
 
 import type { LoginFormValues } from '@/schemas/auth/auth-schema'
 import type { SubmitHandler } from 'react-hook-form'
@@ -33,7 +33,7 @@ export function LoginForm({ onSuccessRedirect = '/overview' }: LoginFormProps): 
     handleSubmit,
     formState: { errors }
   } = useForm<LoginFormValues>({
-    resolver: zodResolver(loginSchema),
+    resolver: zodResolver(getLoginSchema(tAuth)),
     defaultValues: {
       email: '',
       password: '',

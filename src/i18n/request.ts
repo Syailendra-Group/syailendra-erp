@@ -26,6 +26,7 @@ import enRoles from '@/messages/en/others/roles.json'
 import enVillages from '@/messages/en/others/villages.json'
 import enTraceDistillers from '@/messages/en/scm/distillers.json'
 import enTraceFarmers from '@/messages/en/scm/farmers.json'
+import enMaterials from '@/messages/en/scm/materials.json'
 import enTraceOverview from '@/messages/en/scm/overview.json'
 import enPublicTrace from '@/messages/en/scm/public-trace.json'
 import enInventory from '@/messages/en/wms/inventory.json'
@@ -50,6 +51,7 @@ import idRoles from '@/messages/id/others/roles.json'
 import idVillages from '@/messages/id/others/villages.json'
 import idTraceDistillers from '@/messages/id/scm/distillers.json'
 import idTraceFarmers from '@/messages/id/scm/farmers.json'
+import idMaterials from '@/messages/id/scm/materials.json'
 import idTraceOverview from '@/messages/id/scm/overview.json'
 import idPublicTrace from '@/messages/id/scm/public-trace.json'
 import idInventory from '@/messages/id/wms/inventory.json'
@@ -70,7 +72,8 @@ const messagesMap = {
       overview: idTraceOverview,
       farmers: idTraceFarmers,
       distillers: idTraceDistillers,
-      publicTrace: idPublicTrace
+      publicTrace: idPublicTrace,
+      materials: idMaterials
     },
     traceability: {
       overview: idTraceOverview,
@@ -125,7 +128,8 @@ const messagesMap = {
       overview: enTraceOverview,
       farmers: enTraceFarmers,
       distillers: enTraceDistillers,
-      publicTrace: enPublicTrace
+      publicTrace: enPublicTrace,
+      materials: enMaterials
     },
     traceability: {
       overview: enTraceOverview,

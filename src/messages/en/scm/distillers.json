@@ -102,5 +102,15 @@
     "facilityAddress": "Facility Address:",
     "boilerSanitation": "Boiler Sanitation Status:",
     "specsNotes": "Specification Notes"
+  },
+  "validation": {
+    "refMin": "Distiller ID must be at least {min} characters.",
+    "refFormat": "Format must follow DST-[WILAYAH]-[NO] (e.g. DST-JTG-002).",
+    "nameRequired": "Unit / facility name must be at least {min} characters.",
+    "capacityPositive": "Boiler capacity must be a positive number.",
+    "methodRequired": "Distillation method is required.",
+    "operatorRequired": "Operator in charge must be at least {min} characters.",
+    "cityRequired": "City / regency is required.",
+    "streetRequired": "Facility address is required."
   }
 }

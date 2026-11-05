@@ -41,5 +41,9 @@
     "parentMissingTitle": "Parent District Not Registered",
     "parentMissingDesc": "District {district} is not yet registered in Odoo master data.",
     "autoAddLabel": "Automatically register District {district} to Master Data"
+  },
+  "validation": {
+    "nameRequired": "Village name must be at least {min} characters.",
+    "aliasRequired": "Alias name is required."
   }
 }

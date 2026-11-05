@@ -12,7 +12,7 @@ import { Button } from '@/components/ui/button'
 import { Dialog, DialogContent, DialogDescription, DialogFooter, DialogHeader, DialogTitle } from '@/components/ui/dialog'
 import { Input } from '@/components/ui/input'
 import { useSaveDepartmentMutation } from '@/hooks/hris/use-departments'
-import { departmentFormSchema } from '@/schemas/hris/department-schema'
+import { getDepartmentFormSchema } from '@/schemas/hris/department-schema'
 
 import type { DepartmentRecord } from '@/actions/hris/department.action'
 import type { DepartmentFormValues } from '@/schemas/hris/department-schema'
@@ -38,7 +38,7 @@ export function DepartmentsActionDialog({ currentRow, open, onOpenChange, onSucc
     reset,
     formState: { errors }
   } = useForm<DepartmentFormValues>({
-    resolver: zodResolver(departmentFormSchema),
+    resolver: zodResolver(getDepartmentFormSchema(tAdmin)),
     defaultValues: {
       id: currentRow?.id,
       name: currentRow?.name || '',

@@ -17,7 +17,7 @@ import { Textarea } from '@/components/ui/textarea'
 import { useCountriesQuery } from '@/hooks/others/use-countries'
 import { useCheckProvinceExistsQuery, useSaveProvinceMutation } from '@/hooks/others/use-provinces'
 import { useCatalogProvincesQuery } from '@/hooks/shared/use-regional-catalog'
-import { provinceFormSchema } from '@/schemas/others/province-schema'
+import { getProvinceFormSchema } from '@/schemas/others/province-schema'
 
 import type { ProvinceFormValues } from '@/schemas/others/province-schema'
 import type { ProvinceRecord } from '@/types/others/province'
@@ -40,7 +40,7 @@ export function ProvinceForm({ currentRow, onSuccess }: ProvinceFormProps): Reac
   const countryOptions = useMemo(() => countries.map((c) => ({ label: c.name, value: String(c.id) })), [countries])
 
   const form = useForm<ProvinceFormValues>({
-    resolver: zodResolver(provinceFormSchema),
+    resolver: zodResolver(getProvinceFormSchema(t)),
     defaultValues: {
       id: currentRow?.id,
       is_domestic: currentRow?.country_id ? currentRow.country_id[0] === 100 : true,

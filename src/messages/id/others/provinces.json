@@ -25,5 +25,10 @@
     "editDesc": "Perbarui kode resmi, nama alias, atau deskripsi provinsi.",
     "viewTitle": "Rincian Data Provinsi",
     "viewDesc": "Informasi data wilayah, nama alias, dan negara induk terdaftar."
+  },
+  "validation": {
+    "nameRequired": "Nama provinsi minimal {min} karakter.",
+    "codeRequired": "Kode provinsi wajib diisi.",
+    "countryRequired": "Negara wajib dipilih."
   }
 }

@@ -12,7 +12,7 @@ import { PageHeader } from '@/components/shared/page-header'
 import { Button } from '@/components/ui/button'
 import { useSaveFarmerMutation } from '@/hooks/scm/use-farmers'
 import { Link, useRouter } from '@/i18n/navigation'
-import { farmerFormSchema } from '@/schemas/scm/farmer-schema'
+import { getFarmerFormSchema } from '@/schemas/scm/farmer-schema'
 
 import { CommoditySection } from './commodity-section'
 import { IdentitySection } from './identity-section'
@@ -42,7 +42,7 @@ export function FarmerForm({ initialData }: FarmerFormProps): ReactElement {
     watch,
     formState: { errors }
   } = useForm<FarmerFormValues>({
-    resolver: zodResolver(farmerFormSchema),
+    resolver: zodResolver(getFarmerFormSchema(tTrace)),
     defaultValues: {
       id: initialData?.id,
       ref: initialData?.ref || 'FMR-JTG-001',

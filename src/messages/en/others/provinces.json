@@ -25,5 +25,10 @@
     "editDesc": "Update official code, alias name, or province description.",
     "viewTitle": "Province Details",
     "viewDesc": "Official regional data, alias name, and parent country information."
+  },
+  "validation": {
+    "nameRequired": "Province name must be at least {min} characters.",
+    "codeRequired": "Province code is required.",
+    "countryRequired": "Country is required."
   }
 }

@@ -15,7 +15,7 @@ import { Tabs, TabsList, TabsTrigger } from '@/components/ui/tabs'
 import { Textarea } from '@/components/ui/textarea'
 import { useCheckDistrictExistsQuery, useCheckParentRegencyQuery, useSaveDistrictMutation } from '@/hooks/others/use-districts'
 import { useCatalogDistrictsQuery, useCatalogRegenciesQuery } from '@/hooks/shared/use-regional-catalog'
-import { districtFormSchema } from '@/schemas/others/district-schema'
+import { getDistrictFormSchema } from '@/schemas/others/district-schema'
 
 import { ForeignDistrictSection } from './foreign-section'
 
@@ -58,7 +58,7 @@ export function DistrictForm({ currentRow, onSuccess, onValidationChange }: Dist
   const { mutateAsync: saveDistrict, isPending } = useSaveDistrictMutation()
 
   const form = useForm<DistrictFormValues>({
-    resolver: zodResolver(districtFormSchema),
+    resolver: zodResolver(getDistrictFormSchema(t)),
     defaultValues: getInitialValues(currentRow)
   })
 

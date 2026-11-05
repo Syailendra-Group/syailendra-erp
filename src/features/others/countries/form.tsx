@@ -11,7 +11,7 @@ import { Form, FormControl, FormField, FormItem } from '@/components/ui/form'
 import { Input } from '@/components/ui/input'
 import { Textarea } from '@/components/ui/textarea'
 import { useSaveCountryMutation } from '@/hooks/others/use-countries'
-import { countryFormSchema } from '@/schemas/others/country-schema'
+import { getCountryFormSchema } from '@/schemas/others/country-schema'
 
 import type { CountryFormValues } from '@/schemas/others/country-schema'
 import type { CountryRecord } from '@/types/others/country'
@@ -28,7 +28,7 @@ export function CountryForm({ currentRow, onSuccess }: CountryFormProps): ReactE
   const { mutateAsync: saveCountry, isPending } = useSaveCountryMutation()
 
   const form = useForm<CountryFormValues>({
-    resolver: zodResolver(countryFormSchema),
+    resolver: zodResolver(getCountryFormSchema(t)),
     defaultValues: {
       id: currentRow?.id,
       name: currentRow?.name || '',

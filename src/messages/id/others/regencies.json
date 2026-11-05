@@ -29,5 +29,9 @@
     "parentMissingTitle": "Provinsi Induk Belum Terdaftar",
     "parentMissingDesc": "Provinsi {province} untuk wilayah ini belum ada di master data Odoo.",
     "autoAddLabel": "Otomatis daftarkan Provinsi ke Odoo:"
+  },
+  "validation": {
+    "nameRequired": "Nama kabupaten/kota minimal {min} karakter.",
+    "aliasRequired": "Nama alias wajib diisi."
   }
 }

@@ -15,7 +15,7 @@ import { Tabs, TabsList, TabsTrigger } from '@/components/ui/tabs'
 import { Textarea } from '@/components/ui/textarea'
 import { useCheckParentDistrictQuery, useCheckVillageExistsQuery, useSaveVillageMutation } from '@/hooks/others/use-villages'
 import { useCatalogDistrictsQuery, useCatalogVillagesQuery } from '@/hooks/shared/use-regional-catalog'
-import { villageFormSchema } from '@/schemas/others/village-schema'
+import { getVillageFormSchema } from '@/schemas/others/village-schema'
 
 import { ForeignVillageSection } from './foreign-section'
 
@@ -60,7 +60,7 @@ export function VillageForm({ currentRow, onSuccess, onValidationChange }: Villa
   const { mutateAsync: saveVillage, isPending } = useSaveVillageMutation()
 
   const form = useForm<VillageFormValues>({
-    resolver: zodResolver(villageFormSchema),
+    resolver: zodResolver(getVillageFormSchema(t)),
     defaultValues: getInitialValues(currentRow)
   })
 

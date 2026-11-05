@@ -15,7 +15,7 @@ import { Input } from '@/components/ui/input'
 import { Textarea } from '@/components/ui/textarea'
 import { useDistillers } from '@/contexts/scm/distiller.context'
 import { useSaveDistillerMutation } from '@/hooks/scm/use-distillers'
-import { distillerFormSchema } from '@/schemas/scm/distiller-schema'
+import { getDistillerFormSchema } from '@/schemas/scm/distiller-schema'
 
 import { getDistillerOptions } from './options'
 
@@ -37,7 +37,7 @@ export function DistillersActionDialog(): ReactElement {
     watch,
     formState: { errors }
   } = useForm<DistillerFormValues>({
-    resolver: zodResolver(distillerFormSchema),
+    resolver: zodResolver(getDistillerFormSchema(tTrace)),
     defaultValues: {
       ref: '',
       name: '',

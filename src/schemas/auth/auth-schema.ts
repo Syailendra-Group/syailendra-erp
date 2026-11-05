@@ -1,14 +1,26 @@
 /**
- * auth.ts — Zod validation schemas for authentication forms
+ * auth-schema.ts — Zod validation schemas for authentication forms
  * Syailendra Group ERP
  */
 
 import { z } from 'zod'
 
-export const loginSchema = z.object({
-  email: z.string().min(1, { message: 'Email is required' }).email({ message: 'Invalid email address format' }),
-  password: z.string().min(6, { message: 'Password must be at least 6 characters' }),
-  rememberMe: z.boolean()
-})
+import { createSchemaMessageResolver } from '@/utils'
 
+import type { SchemaTranslator } from '@/utils'
+
+export function getLoginSchema(t?: SchemaTranslator) {
+  const msg = createSchemaMessageResolver(t)
+
+  return z.object({
+    email: z
+      .string()
+      .min(1, { message: msg('validation.emailRequired', 'Email is required') })
+      .email({ message: msg('validation.emailInvalid', 'Invalid email address format') }),
+    password: z.string().min(6, { message: msg('validation.passwordMin', 'Password must be at least 6 characters', { min: 6 }) }),
+    rememberMe: z.boolean()
+  })
+}
+
+export const loginSchema = getLoginSchema()
 export type LoginFormValues = z.infer<typeof loginSchema>

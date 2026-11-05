@@ -41,5 +41,9 @@
     "parentMissingTitle": "Kecamatan Induk Belum Terdaftar",
     "parentMissingDesc": "Kecamatan {district} belum ada di master data Odoo.",
     "autoAddLabel": "Otomatis daftarkan Kecamatan {district} ke Master Data"
+  },
+  "validation": {
+    "nameRequired": "Nama kelurahan / desa minimal {min} karakter.",
+    "aliasRequired": "Nama alias wajib diisi."
   }
 }

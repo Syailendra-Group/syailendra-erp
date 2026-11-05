@@ -12,7 +12,7 @@ import { Dialog, DialogContent, DialogDescription, DialogFooter, DialogHeader, D
 import { Form, FormControl, FormField, FormItem, FormLabel, FormMessage } from '@/components/ui/form'
 import { Input } from '@/components/ui/input'
 import { useSaveEmployeeMutation } from '@/hooks/hris/use-employees'
-import { employeeFormSchema } from '@/schemas/hris/employee-schema'
+import { getEmployeeFormSchema } from '@/schemas/hris/employee-schema'
 
 import type { DepartmentOption, EmployeeRecord } from '@/actions/hris/employee.action'
 import type { EmployeeFormValues } from '@/schemas/hris/employee-schema'
@@ -33,7 +33,7 @@ export function EmployeesActionDialog({ currentRow, open, onOpenChange, departme
   const { mutateAsync: saveEmployee, isPending } = useSaveEmployeeMutation()
 
   const form = useForm<EmployeeFormValues>({
-    resolver: zodResolver(employeeFormSchema),
+    resolver: zodResolver(getEmployeeFormSchema(tAdmin)),
     defaultValues: {
       id: currentRow?.id,
       name: currentRow?.name || '',

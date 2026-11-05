@@ -12,8 +12,9 @@ import { SectionCard } from '@/components/card/section-card'
 import { SummaryCard } from '@/components/card/summary-card'
 import { PageHeader } from '@/components/shared/page-header'
 import { Button } from '@/components/ui/button'
-import { MaterialProvider, useMaterial } from '@/contexts/scm/material.context'
+import { MaterialProvider } from '@/contexts/scm/material.context'
 import { useMaterialsPaginatedQuery } from '@/hooks/scm/use-materials'
+import { Link } from '@/i18n/navigation'
 
 import { MaterialsDialogs } from './dialogs'
 import { MaterialsTable } from './table'
@@ -21,19 +22,14 @@ import { MaterialsTable } from './table'
 import type { ReactElement } from 'react'
 
 function MaterialsPrimaryButtons(): ReactElement {
-  const { setOpen, setCurrentRow } = useMaterial()
   const t = useTranslations('scm.materials')
 
   return (
-    <Button
-      onClick={() => {
-        setCurrentRow(null)
-        setOpen('create')
-      }}
-      className="gap-2 font-semibold"
-    >
-      <Plus className="size-4" />
-      <span>{t('primaryAction')}</span>
+    <Button asChild className="gap-2 font-semibold">
+      <Link href="/scm/materials/create">
+        <Plus className="size-4" />
+        <span>{t('primaryAction')}</span>
+      </Link>
     </Button>
   )
 }
@@ -67,7 +63,7 @@ function MaterialsContent(): ReactElement {
 
       <MaterialsSummaryCards />
 
-      <SectionCard title={t('title')}>
+      <SectionCard>
         <MaterialsTable />
       </SectionCard>
 

@@ -1,5 +1,5 @@
 /**
- * dialogs.tsx — Dialogs suite (View, Create/Edit, Delete) for Material Master
+ * dialogs.tsx — Dialogs suite (View Detail & Delete) for Material Master
  * Syailendra Group ERP — SCM Pillar
  */
 
@@ -8,7 +8,6 @@
 import { useTranslations } from 'next-intl'
 import { toast } from 'sonner'
 
-import { ActionDialog } from '@/components/dialog/action-dialog'
 import { ConfirmDialog } from '@/components/dialog/confirm-dialog'
 import { DetailRow } from '@/components/shared/detail-row'
 import { Badge } from '@/components/ui/badge'
@@ -17,8 +16,6 @@ import { ScrollArea } from '@/components/ui/scroll-area'
 import { useMaterial } from '@/contexts/scm/material.context'
 import { useDeleteMaterialMutation } from '@/hooks/scm/use-materials'
 
-import { MaterialForm } from './form'
-
 import type { ReactElement } from 'react'
 
 export function MaterialsDialogs(): ReactElement {
@@ -26,7 +23,6 @@ export function MaterialsDialogs(): ReactElement {
   const t = useTranslations('scm.materials')
   const { mutateAsync: deleteMaterial, isPending: isDeleting } = useDeleteMaterialMutation()
 
-  const isFormOpen = open === 'create' || open === 'edit'
   const isViewOpen = open === 'view'
   const isDeleteOpen = open === 'delete'
 
@@ -47,18 +43,6 @@ export function MaterialsDialogs(): ReactElement {
 
   return (
     <>
-      <ActionDialog
-        open={isFormOpen}
-        onOpenChange={(isOpen) => !isOpen && setOpen(null)}
-        formId="material-action-form"
-        isEdit={open === 'edit'}
-        title={open === 'edit' ? t('dialog.editTitle') : t('dialog.addTitle')}
-        description={open === 'edit' ? t('dialog.editDesc') : t('dialog.addDesc')}
-        maxWidth="sm:max-w-3xl"
-      >
-        <MaterialForm currentRow={currentRow} onSuccess={() => setOpen(null)} />
-      </ActionDialog>
-
       <Dialog open={isViewOpen} onOpenChange={(isOpen) => !isOpen && setOpen(null)}>
         <DialogContent className="flex max-h-[85vh] flex-col p-0 sm:max-w-2xl">
           <DialogHeader className="p-6 pb-2 text-start">

@@ -1,10 +1,15 @@
+/**
+ * section-card.tsx — Card container with optional header for sections & tables
+ * Syailendra Group ERP
+ */
+
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card'
 import { cn } from '@/lib/utils'
 
 import type { ComponentType, ReactElement, ReactNode } from 'react'
 
 export interface SectionCardProps {
-  title: ReactNode
+  title?: ReactNode
   description?: ReactNode
   icon?: ComponentType<{ className?: string }>
   children: ReactNode
@@ -22,20 +27,24 @@ export function SectionCard({
   headerActions,
   className
 }: SectionCardProps): ReactElement {
+  const hasHeader = Boolean(title || description || headerActions)
+
   return (
     <Card className={cn('flex h-full w-full flex-col', className)}>
-      <CardHeader className="pb-3">
-        <div className="flex items-center justify-between gap-2">
-          <CardTitle className="flex items-center gap-2 text-sm font-semibold">
-            {Icon && <Icon className="text-primary size-4 shrink-0" />}
-            <span>{title}</span>
-          </CardTitle>
-          {headerActions}
-        </div>
-        {description && <CardDescription className="text-xs">{description}</CardDescription>}
-      </CardHeader>
+      {hasHeader && (
+        <CardHeader className="pb-3">
+          <div className="flex items-center justify-between gap-2">
+            <CardTitle className="flex items-center gap-2 text-sm font-semibold">
+              {Icon && <Icon className="text-primary size-4 shrink-0" />}
+              {title && <span>{title}</span>}
+            </CardTitle>
+            {headerActions}
+          </div>
+          {description && <CardDescription className="text-xs">{description}</CardDescription>}
+        </CardHeader>
+      )}
 
-      <CardContent className={cn('flex-1', contentClassName)}>{children}</CardContent>
+      <CardContent className={cn('flex-1', !hasHeader && 'p-4 sm:p-6', contentClassName)}>{children}</CardContent>
     </Card>
   )
 }

@@ -105,7 +105,10 @@ function mapOdooProductToMaterial(r: Record<string, OdooFieldValue>): MaterialRe
 export async function fetchMaterialsPaginated(params: FetchMaterialsParams = {}): Promise<PaginatedMaterialsResult> {
   const { page = 1, perPage = 20, search = '', category, tracking, order = 'default_code asc' } = params
 
-  const domain: OdooDomain = [['active', 'in', [true, false]]]
+  const domain: OdooDomain = [
+    ['active', 'in', [true, false]],
+    ['description', 'ilike', 'category']
+  ]
 
   // Polish OR domain for keyword search (code, name, description)
   if (search.trim()) {

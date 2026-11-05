@@ -153,22 +153,21 @@ export function RegenciesTable(): ReactElement {
         )}
 
         <div className="overflow-x-auto">
-          <Table>
-            <TableHeader>
-              {table.getHeaderGroups().map((headerGroup) => (
-                <TableRow key={headerGroup.id}>
-                  {headerGroup.headers.map((header) => (
-                    <TableHead key={header.id} colSpan={header.colSpan} className={cn('text-xs', header.column.id === 'actions' && 'text-center')}>
-                      {header.isPlaceholder ? null : flexRender(header.column.columnDef.header, header.getContext())}
-                    </TableHead>
-                  ))}
-                </TableRow>
-              ))}
-            </TableHeader>
-
-            {showSkeleton ? (
-              <DataTableSkeleton columnCount={columns.length} rowCount={8} />
-            ) : (
+          {showSkeleton ? (
+            <DataTableSkeleton columnCount={columns.length} rowCount={perPage} />
+          ) : (
+            <Table>
+              <TableHeader>
+                {table.getHeaderGroups().map((headerGroup) => (
+                  <TableRow key={headerGroup.id}>
+                    {headerGroup.headers.map((header) => (
+                      <TableHead key={header.id} colSpan={header.colSpan} className={cn('text-xs', header.column.id === 'actions' && 'text-center')}>
+                        {header.isPlaceholder ? null : flexRender(header.column.columnDef.header, header.getContext())}
+                      </TableHead>
+                    ))}
+                  </TableRow>
+                ))}
+              </TableHeader>
               <TableBody>
                 {table.getRowModel().rows?.length ? (
                   table.getRowModel().rows.map((row) => (
@@ -188,8 +187,8 @@ export function RegenciesTable(): ReactElement {
                   </TableRow>
                 )}
               </TableBody>
-            )}
-          </Table>
+            </Table>
+          )}
         </div>
       </div>
 

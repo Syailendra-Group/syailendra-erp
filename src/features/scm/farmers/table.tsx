@@ -4,7 +4,7 @@ import { useMemo } from 'react'
 import { flexRender, getCoreRowModel, useReactTable } from '@tanstack/react-table'
 import { useTranslations } from 'next-intl'
 
-import { DataTablePagination, DataTableSkeleton, DataTableToolbar } from '@/components/data-table'
+import { DataTableLoadingOverlay, DataTablePagination, DataTableSkeleton, DataTableToolbar } from '@/components/data-table'
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '@/components/ui/table'
 import { getColumns } from '@/features/scm/farmers/columns'
 import { useFarmersPaginatedQuery } from '@/hooks/scm/use-farmers'
@@ -104,7 +104,6 @@ export function FarmersTable(): ReactElement {
   )
 
   const showSkeleton = isLoading || (isFetching && farmers.length === 0)
-  const isTableRefreshing = isFetching || isUpdating
 
   return (
     <div className="space-y-4">
@@ -127,29 +126,24 @@ export function FarmersTable(): ReactElement {
       />
 
       <div className="bg-card relative overflow-hidden rounded-md border-0 shadow-xs">
-        {isTableRefreshing && !showSkeleton && (
-          <div className="bg-primary/20 absolute top-0 right-0 left-0 z-20 h-0.5 overflow-hidden">
-            <div className="bg-primary h-full w-full animate-pulse" />
-          </div>
-        )}
+        <DataTableLoadingOverlay isUpdating={isUpdating} text={tCommon('status.loading')} />
 
         <div className="overflow-x-auto">
-          <Table>
-            <TableHeader>
-              {table.getHeaderGroups().map((headerGroup) => (
-                <TableRow key={headerGroup.id}>
-                  {headerGroup.headers.map((header) => (
-                    <TableHead key={header.id} colSpan={header.colSpan} className={cn('text-xs', header.column.id === 'actions' && 'text-center')}>
-                      {header.isPlaceholder ? null : flexRender(header.column.columnDef.header, header.getContext())}
-                    </TableHead>
-                  ))}
-                </TableRow>
-              ))}
-            </TableHeader>
-
-            {showSkeleton ? (
-              <DataTableSkeleton columnCount={columns.length} rowCount={8} />
-            ) : (
+          {showSkeleton ? (
+            <DataTableSkeleton columnCount={columns.length} rowCount={perPage} />
+          ) : (
+            <Table>
+              <TableHeader>
+                {table.getHeaderGroups().map((headerGroup) => (
+                  <TableRow key={headerGroup.id}>
+                    {headerGroup.headers.map((header) => (
+                      <TableHead key={header.id} colSpan={header.colSpan} className={cn('text-xs', header.column.id === 'actions' && 'text-center')}>
+                        {header.isPlaceholder ? null : flexRender(header.column.columnDef.header, header.getContext())}
+                      </TableHead>
+                    ))}
+                  </TableRow>
+                ))}
+              </TableHeader>
               <TableBody>
                 {table.getRowModel().rows?.length ? (
                   table.getRowModel().rows.map((row) => (
@@ -169,8 +163,8 @@ export function FarmersTable(): ReactElement {
                   </TableRow>
                 )}
               </TableBody>
-            )}
-          </Table>
+            </Table>
+          )}
         </div>
       </div>
 

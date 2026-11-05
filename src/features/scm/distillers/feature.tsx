@@ -3,6 +3,7 @@
 import { Factory } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 
+import { SectionCard } from '@/components/card/section-card'
 import { PageHeader } from '@/components/shared/page-header'
 import { DistillersProvider } from '@/contexts/scm/distiller.context'
 
@@ -22,7 +23,9 @@ export function DistillersFeature(): ReactElement {
         <PageHeader title={tTrace('title')} description={tTrace('subtitle')} icon={Factory} actions={<DistillersPrimaryButtons />} />
 
         {/* Data Table with URL state and server-side TanStack Query */}
-        <DistillersTable />
+        <SectionCard>
+          <DistillersTable />
+        </SectionCard>
 
         {/* Modals & Dialogs */}
         <DistillersActionDialog />

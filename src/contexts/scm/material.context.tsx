@@ -1,5 +1,5 @@
 /**
- * material.context.tsx — Context state management for Material Master
+ * material.context.tsx — Context state management for Material Master dialogs
  * Syailendra Group ERP — SCM Pillar
  */
 
@@ -10,7 +10,7 @@ import { createContext, useContext, useState } from 'react'
 import type { MaterialRecord } from '@/types/scm/material'
 import type { PropsWithChildren, ReactElement } from 'react'
 
-export type MaterialDialogType = 'create' | 'edit' | 'view' | 'delete' | null
+export type MaterialDialogType = 'view' | 'delete' | null
 
 export interface MaterialContextType {
   open: MaterialDialogType

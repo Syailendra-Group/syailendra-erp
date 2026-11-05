@@ -3,6 +3,7 @@
 import { Users } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 
+import { SectionCard } from '@/components/card/section-card'
 import { PageHeader } from '@/components/shared/page-header'
 import { EmployeesProvider } from '@/contexts/hris/employee.context'
 
@@ -18,7 +19,9 @@ function EmployeesContent(): ReactElement {
   return (
     <div className="space-y-4 sm:space-y-6">
       <PageHeader title={tAdmin('title')} description={tAdmin('subtitle')} icon={Users} actions={<EmployeesPrimaryButtons />} />
-      <EmployeesTable />
+      <SectionCard>
+        <EmployeesTable />
+      </SectionCard>
       <EmployeesDialogs />
     </div>
   )

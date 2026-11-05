@@ -5,7 +5,7 @@ import { flexRender, getCoreRowModel, useReactTable } from '@tanstack/react-tabl
 import { useTranslations } from 'next-intl'
 
 import { ActionButton } from '@/components/button/action-button'
-import { DataTablePagination, DataTableSkeleton, DataTableToolbar } from '@/components/data-table'
+import { DataTableLoadingOverlay, DataTablePagination, DataTableSkeleton, DataTableToolbar } from '@/components/data-table'
 import { DataTableColumnHeader } from '@/components/data-table/column-header'
 import { ConfirmDialog } from '@/components/dialog/confirm-dialog'
 import { StatusBadge } from '@/components/shared/status-badge'
@@ -36,6 +36,7 @@ export function DepartmentsTable(): ReactElement {
     sorting,
     columnFilters,
     getArrayFilter,
+    isUpdating,
     resetFilters,
     onPaginationChange,
     onSortingChange,
@@ -155,46 +156,49 @@ export function DepartmentsTable(): ReactElement {
         ]}
       />
 
-      <div className="bg-card overflow-hidden rounded-md border shadow-xs">
+      <div className="bg-card relative overflow-hidden rounded-md border shadow-xs">
+        <DataTableLoadingOverlay isUpdating={isUpdating} text={tCommon('status.loading')} />
         <div className="overflow-x-auto">
-          <Table>
-            <TableHeader>
-              {table.getHeaderGroups().map((headerGroup) => (
-                <TableRow key={headerGroup.id}>
-                  {headerGroup.headers.map((header) => (
-                    <TableHead
-                      key={header.id}
-                      colSpan={header.colSpan}
-                      className={cn('text-xs font-semibold', header.column.id === 'actions' && 'text-center')}
-                    >
-                      {header.isPlaceholder ? null : flexRender(header.column.columnDef.header, header.getContext())}
-                    </TableHead>
-                  ))}
-                </TableRow>
-              ))}
-            </TableHeader>
-            <TableBody>
-              {isLoading || isFetching ? (
-                <DataTableSkeleton columnCount={columns.length} rowCount={perPage} />
-              ) : table.getRowModel().rows?.length ? (
-                table.getRowModel().rows.map((row) => (
-                  <TableRow key={row.id} className="hover:bg-muted/30 transition-colors">
-                    {row.getVisibleCells().map((cell) => (
-                      <TableCell key={cell.id} className="py-2.5 text-xs">
-                        {flexRender(cell.column.columnDef.cell, cell.getContext())}
-                      </TableCell>
+          {isLoading || isFetching ? (
+            <DataTableSkeleton columnCount={columns.length} rowCount={perPage} />
+          ) : (
+            <Table>
+              <TableHeader>
+                {table.getHeaderGroups().map((headerGroup) => (
+                  <TableRow key={headerGroup.id}>
+                    {headerGroup.headers.map((header) => (
+                      <TableHead
+                        key={header.id}
+                        colSpan={header.colSpan}
+                        className={cn('text-xs font-semibold', header.column.id === 'actions' && 'text-center')}
+                      >
+                        {header.isPlaceholder ? null : flexRender(header.column.columnDef.header, header.getContext())}
+                      </TableHead>
                     ))}
                   </TableRow>
-                ))
-              ) : (
-                <TableRow>
-                  <TableCell colSpan={columns.length} className="text-muted-foreground h-24 text-center text-xs">
-                    {tCommon('table.noResults')}
-                  </TableCell>
-                </TableRow>
-              )}
-            </TableBody>
-          </Table>
+                ))}
+              </TableHeader>
+              <TableBody>
+                {table.getRowModel().rows?.length ? (
+                  table.getRowModel().rows.map((row) => (
+                    <TableRow key={row.id} className="hover:bg-muted/30 transition-colors">
+                      {row.getVisibleCells().map((cell) => (
+                        <TableCell key={cell.id} className="py-2.5 text-xs">
+                          {flexRender(cell.column.columnDef.cell, cell.getContext())}
+                        </TableCell>
+                      ))}
+                    </TableRow>
+                  ))
+                ) : (
+                  <TableRow>
+                    <TableCell colSpan={columns.length} className="text-muted-foreground h-24 text-center text-xs">
+                      {tCommon('table.noResults')}
+                    </TableCell>
+                  </TableRow>
+                )}
+              </TableBody>
+            </Table>
+          )}
         </div>
       </div>
 

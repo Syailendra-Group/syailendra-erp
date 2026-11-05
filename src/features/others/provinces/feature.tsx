@@ -3,6 +3,7 @@
 import { Landmark, Plus } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 
+import { SectionCard } from '@/components/card/section-card'
 import { PageHeader } from '@/components/shared/page-header'
 import { Button } from '@/components/ui/button'
 import { ProvinceProvider, useProvince } from '@/contexts/others/province.context'
@@ -35,7 +36,9 @@ function ProvincesContent(): ReactElement {
   return (
     <div className="space-y-4 sm:space-y-6">
       <PageHeader title={t('title')} description={t('subtitle')} icon={Landmark} actions={<ProvincesPrimaryButtons />} />
-      <ProvincesTable />
+      <SectionCard>
+        <ProvincesTable />
+      </SectionCard>
       <ProvincesDialogs />
     </div>
   )

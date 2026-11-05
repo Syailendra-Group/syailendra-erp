@@ -3,6 +3,7 @@
 import { Globe, Plus } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 
+import { SectionCard } from '@/components/card/section-card'
 import { PageHeader } from '@/components/shared/page-header'
 import { Button } from '@/components/ui/button'
 import { CountryProvider, useCountry } from '@/contexts/others/country.context'
@@ -35,7 +36,9 @@ function CountriesContent(): ReactElement {
   return (
     <div className="space-y-4 sm:space-y-6">
       <PageHeader title={t('title')} description={t('subtitle')} icon={Globe} actions={<CountriesPrimaryButtons />} />
-      <CountriesTable />
+      <SectionCard>
+        <CountriesTable />
+      </SectionCard>
       <CountriesDialogs />
     </div>
   )

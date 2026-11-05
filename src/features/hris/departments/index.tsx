@@ -3,6 +3,7 @@
 import { Briefcase, Plus } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 
+import { SectionCard } from '@/components/card/section-card'
 import { PageHeader } from '@/components/shared/page-header'
 import { Button } from '@/components/ui/button'
 import { DepartmentProvider, useDepartment } from '@/contexts/hris/department.context'
@@ -37,7 +38,9 @@ function DepartmentsContent(): ReactElement {
   return (
     <div className="space-y-4 sm:space-y-6">
       <PageHeader title={tAdmin('title')} description={tAdmin('subtitle')} icon={Briefcase} actions={<DepartmentsPrimaryButtons />} />
-      <DepartmentsTable />
+      <SectionCard>
+        <DepartmentsTable />
+      </SectionCard>
       <DepartmentsActionDialog
         open={open === 'add' || open === 'edit'}
         onOpenChange={(isOpen) => !isOpen && setOpen(null)}

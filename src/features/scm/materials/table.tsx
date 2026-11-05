@@ -9,11 +9,12 @@ import { useMemo } from 'react'
 import { flexRender, getCoreRowModel, useReactTable } from '@tanstack/react-table'
 import { useTranslations } from 'next-intl'
 
-import { DataTablePagination, DataTableSkeleton, DataTableToolbar } from '@/components/data-table'
+import { DataTableLoadingOverlay, DataTablePagination, DataTableSkeleton, DataTableToolbar } from '@/components/data-table'
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '@/components/ui/table'
 import { useMaterial } from '@/contexts/scm/material.context'
 import { useMaterialsPaginatedQuery } from '@/hooks/scm/use-materials'
 import { useDataTableUrlState } from '@/hooks/use-data-table-url-state'
+import { useRouter } from '@/i18n/navigation'
 import { cn } from '@/lib/utils'
 
 import { getColumns } from './columns'
@@ -27,6 +28,7 @@ export function MaterialsTable(): ReactElement {
   const t = useTranslations('scm.materials')
   const tCommon = useTranslations('common')
   const { setOpen, setCurrentRow } = useMaterial()
+  const router = useRouter()
 
   const {
     page,
@@ -73,15 +75,14 @@ export function MaterialsTable(): ReactElement {
           setOpen('view')
         },
         onEdit: (material: MaterialRecord) => {
-          setCurrentRow(material)
-          setOpen('edit')
+          router.push(`/scm/materials/${material.id}/edit`)
         },
         onDelete: (material: MaterialRecord) => {
           setCurrentRow(material)
           setOpen('delete')
         }
       }),
-    [t, tCommon, setCurrentRow, setOpen]
+    [t, tCommon, setCurrentRow, setOpen, router]
   )
 
   const filterConfigs = useMemo(
@@ -144,14 +145,10 @@ export function MaterialsTable(): ReactElement {
       <DataTableToolbar table={table} searchPlaceholder={t('table.searchPlaceholder')} filters={filterConfigs} onReset={resetFilters} />
 
       <div className="bg-card relative rounded-md border shadow-xs">
-        {isUpdating && (
-          <div className="bg-background/50 absolute inset-0 z-10 flex items-center justify-center backdrop-blur-[1px]">
-            <span className="text-muted-foreground text-xs font-medium">{tCommon('status.loading')}</span>
-          </div>
-        )}
+        <DataTableLoadingOverlay isUpdating={isUpdating} text={tCommon('status.loading')} />
 
         {isLoading ? (
-          <DataTableSkeleton columnCount={7} rowCount={perPage} />
+          <DataTableSkeleton columnCount={columns.length} rowCount={perPage} />
         ) : (
           <Table>
             <TableHeader>

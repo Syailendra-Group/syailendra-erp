@@ -2,14 +2,12 @@
 
 import { useEffect } from 'react'
 import { zodResolver } from '@hookform/resolvers/zod'
-import { Loader2 } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 import { useForm } from 'react-hook-form'
 import { toast } from 'sonner'
 
+import { ActionDialog } from '@/components/dialog/action-dialog'
 import { FormFieldWrapper } from '@/components/form/form-field-wrapper'
-import { Button } from '@/components/ui/button'
-import { Dialog, DialogContent, DialogDescription, DialogFooter, DialogHeader, DialogTitle } from '@/components/ui/dialog'
 import { Input } from '@/components/ui/input'
 import { useSaveDepartmentMutation } from '@/hooks/hris/use-departments'
 import { getDepartmentFormSchema } from '@/schemas/hris/department-schema'
@@ -74,7 +72,7 @@ export function DepartmentsActionDialog({ currentRow, open, onOpenChange, onSucc
   }
 
   return (
-    <Dialog
+    <ActionDialog
       open={open}
       onOpenChange={(v) => {
         if (!v) {
@@ -82,44 +80,18 @@ export function DepartmentsActionDialog({ currentRow, open, onOpenChange, onSucc
           onOpenChange(false)
         }
       }}
+      title={isEdit ? tAdmin('actions.edit') : tAdmin('actions.add')}
+      description={tAdmin('subtitle')}
+      formId="department-form"
+      isPending={isPending}
+      isEdit={isEdit}
+      maxWidth="sm:max-w-md"
     >
-      <DialogContent className="sm:max-w-md">
-        <DialogHeader className="text-start">
-          <DialogTitle>{isEdit ? tAdmin('actions.edit') : tAdmin('actions.add')}</DialogTitle>
-          <DialogDescription>{tAdmin('subtitle')}</DialogDescription>
-        </DialogHeader>
-
-        <form id="department-form" onSubmit={handleSubmit(onSubmit)} className="space-y-4 py-2">
-          <FormFieldWrapper id="dept-name" label={tAdmin('fields.name')} required error={errors.name?.message}>
-            <Input
-              id="dept-name"
-              placeholder={tAdmin('fields.name_placeholder')}
-              disabled={isPending}
-              className="h-8 text-xs"
-              {...register('name')}
-            />
-          </FormFieldWrapper>
-        </form>
-
-        <DialogFooter className="gap-2 sm:gap-0">
-          <Button
-            type="button"
-            variant="outline"
-
-            onClick={() => {
-              reset()
-              onOpenChange(false)
-            }}
-            disabled={isPending}
-          >
-            {tCommon('actions.cancel')}
-          </Button>
-          <Button type="submit" form="department-form" disabled={isPending} className="cursor-pointer font-semibold">
-            {isPending && <Loader2 className="mr-1.5 size-3.5 animate-spin" />}
-            {isEdit ? tCommon('actions.save') : tAdmin('actions.add')}
-          </Button>
-        </DialogFooter>
-      </DialogContent>
-    </Dialog>
+      <form id="department-form" onSubmit={handleSubmit(onSubmit)} className="space-y-4 px-1">
+        <FormFieldWrapper id="dept-name" label={tAdmin('fields.name')} required error={errors.name?.message}>
+          <Input id="dept-name" placeholder={tAdmin('fields.name_placeholder')} disabled={isPending} className="h-8 text-xs" {...register('name')} />
+        </FormFieldWrapper>
+      </form>
+    </ActionDialog>
   )
 }

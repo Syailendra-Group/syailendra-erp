@@ -64,7 +64,8 @@
     "regencies": "Regencies & Cities",
     "districts": "Districts",
     "villages": "Villages",
-    "materials": "Material Catalog"
+    "materials": "Material Catalog",
+    "supplierCategories": "Supplier Categories"
   },
   "breadcrumbs": {
     "home": "Home",
@@ -115,6 +116,7 @@
     "districts": "Districts",
     "villages": "Villages",
     "materials": "Material Catalog",
+    "supplierCategories": "Supplier Categories",
     "scm": "SCM"
   },
   "user": {

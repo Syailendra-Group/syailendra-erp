@@ -3,6 +3,7 @@
 import { useState } from 'react'
 import { BadgeCheck, ChevronsUpDown, LogOut, Sparkles } from 'lucide-react'
 import { useTranslations } from 'next-intl'
+import { useSessionQuery } from '@/hooks/auth/use-auth'
 
 import { SignOutDialog } from '@/components/dialog/sign-out-dialog'
 import { Avatar, AvatarFallback } from '@/components/ui/avatar'
@@ -23,10 +24,11 @@ export function NavUser(): ReactElement {
   const [openSignOut, setOpenSignOut] = useState(false)
   const tNav = useTranslations('nav.user')
 
+  const { data: session } = useSessionQuery()
   const user = {
-    name: 'OctaLectzz',
-    email: 'octalectzz@gmail.com',
-    roleKey: 'admin'
+    name: session?.name || 'Demo Syailendra',
+    email: session?.email || 'demo@syailendra.group',
+    roleKey: session?.isAdmin ? 'admin' : 'member'
   }
 
   return (

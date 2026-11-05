@@ -64,7 +64,8 @@
     "regencies": "Kabupaten / Kota",
     "districts": "Kecamatan",
     "villages": "Kelurahan / Desa",
-    "materials": "Katalog Material"
+    "materials": "Katalog Material",
+    "supplierCategories": "Kategori Supplier"
   },
   "breadcrumbs": {
     "home": "Beranda",
@@ -115,6 +116,7 @@
     "districts": "Kecamatan",
     "villages": "Kelurahan / Desa",
     "materials": "Katalog Material",
+    "supplierCategories": "Kategori Supplier",
     "scm": "SCM"
   },
   "user": {

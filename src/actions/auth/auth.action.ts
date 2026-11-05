@@ -4,7 +4,8 @@
  * actions.ts — Next.js Server Actions for authentication against Odoo 18
  * Syailendra Group ERP
  */
-import { createSession, destroySession } from '@/lib/auth/session'
+import { createSession, destroySession, getSession } from '@/lib/auth/session'
+import type { UserSession } from '@/types/auth/auth'
 import { loginSchema } from '@/schemas/auth/auth-schema'
 import { authenticateUser } from '@/services/odoo/auth/auth.service'
 
@@ -48,4 +49,9 @@ export async function loginAction(values: LoginFormValues): Promise<AuthActionRe
 
 export async function logoutAction(): Promise<void> {
   await destroySession()
+}
+
+
+export async function getSessionAction(): Promise<UserSession | null> {
+  return await getSession()
 }

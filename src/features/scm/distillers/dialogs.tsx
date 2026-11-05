@@ -1,13 +1,18 @@
+/**
+ * dialogs.tsx — View DetailRow and Archive ConfirmDialog for Distillers
+ * Syailendra Group ERP (SCM Pillar)
+ */
+
 'use client'
 
-import { CheckCircle2, Factory, Phone } from 'lucide-react'
+import { Factory } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 import { toast } from 'sonner'
 
 import { ConfirmDialog } from '@/components/dialog/confirm-dialog'
+import { DetailRow } from '@/components/shared/detail-row'
 import { Badge } from '@/components/ui/badge'
-import { Button } from '@/components/ui/button'
-import { Dialog, DialogContent, DialogDescription, DialogFooter, DialogHeader, DialogTitle } from '@/components/ui/dialog'
+import { Dialog, DialogContent, DialogDescription, DialogHeader, DialogTitle } from '@/components/ui/dialog'
 import { useDistillers } from '@/contexts/scm/distiller.context'
 import { useToggleDistillerStatusMutation } from '@/hooks/scm/use-distillers'
 
@@ -28,22 +33,25 @@ export function DistillersDialogs(): ReactElement {
       const res = await toggleDistillerStatus({ id: currentRow.id, active: targetStatus })
       if (res.success) {
         toast.success(targetStatus ? tTrace('messages.restored') : tTrace('messages.archived'))
-        refreshData?.()
         setOpen(null)
+        setCurrentRow(null)
+        refreshData?.()
       } else {
-        toast.error(res.error || (targetStatus ? tTrace('messages.restoreFailed') : tTrace('messages.archiveFailed')))
+        toast.error(res.error || tCommon('messages.error'))
       }
-    } catch (err) {
-      const msg = err instanceof Error ? err.message : targetStatus ? tTrace('messages.restoreFailed') : tTrace('messages.archiveFailed')
-      toast.error(msg)
+    } catch {
+      toast.error(tCommon('messages.error'))
     }
   }
 
+  const isViewOpen = open === 'view' && Boolean(currentRow)
+  const isArchiveOpen = open === 'archive' && Boolean(currentRow)
+
   return (
     <>
-      {/* 1. View Distiller Details Modal */}
+      {/* 1. View Detail Dialog with Standard DetailRow */}
       <Dialog
-        open={open === 'view'}
+        open={isViewOpen}
         onOpenChange={(v) => {
           if (!v) {
             setOpen(null)
@@ -57,111 +65,44 @@ export function DistillersDialogs(): ReactElement {
               <div className="bg-primary/10 text-primary rounded-md p-1.5">
                 <Factory className="size-4" />
               </div>
-              <DialogTitle className="text-base">{tTrace('dialog.viewTitle')}</DialogTitle>
+              <DialogTitle className="text-base font-semibold">{tTrace('dialog.viewTitle')}</DialogTitle>
             </div>
             <DialogDescription className="text-xs">{tTrace('dialog.viewDesc')}</DialogDescription>
           </DialogHeader>
 
           {currentRow && (
-            <div className="space-y-3.5 py-2 text-xs">
-              <div className="bg-muted/20 grid grid-cols-2 gap-2.5 rounded-lg border p-3">
-                <div>
-                  <span className="text-muted-foreground block text-[10px] font-semibold uppercase">{t('details.id')}</span>
-                  <span className="text-primary font-mono font-bold">{currentRow.ref}</span>
-                </div>
-                <div>
-                  <span className="text-muted-foreground block text-[10px] font-semibold uppercase">{t('details.status')}</span>
-                  <Badge variant="outline" className="mt-0.5 text-[10px]">
-                    {currentRow.active ? tTrace('status.operational') : tTrace('status.maintenance')}
-                  </Badge>
-                </div>
-              </div>
-
-              <div className="space-y-2 border-t pt-2">
-                <div className="flex justify-between">
-                  <span className="text-muted-foreground">{t('details.unitName')}</span>
-                  <span className="font-semibold">{currentRow.name}</span>
-                </div>
-                <div className="flex justify-between">
-                  <span className="text-muted-foreground">{t('details.boilerCapacity')}</span>
-                  <span className="text-foreground font-mono font-bold">{currentRow.boiler_capacity_kg} Kg Biomassa</span>
-                </div>
-                <div className="flex justify-between">
-                  <span className="text-muted-foreground">{t('details.extractionMethod')}</span>
-                  <span className="font-semibold capitalize">{tTrace(`methods.${currentRow.method}`) || currentRow.method}</span>
-                </div>
-                <div className="flex justify-between">
-                  <span className="text-muted-foreground">{t('details.material')}</span>
-                  <span className="font-semibold uppercase">{currentRow.boiler_material}</span>
-                </div>
-                <div className="flex justify-between">
-                  <span className="text-muted-foreground">{t('details.ownership')}</span>
-                  <span className="font-semibold">{tTrace(`ownership.${currentRow.ownership}`) || currentRow.ownership}</span>
-                </div>
-                <div className="flex justify-between">
-                  <span className="text-muted-foreground">{t('details.operator')}</span>
-                  <span className="font-semibold">{currentRow.operator_name}</span>
-                </div>
-                {currentRow.phone && (
-                  <div className="flex items-center justify-between">
-                    <span className="text-muted-foreground">{t('details.operatorContact')}</span>
-                    <span className="flex items-center gap-1 font-mono">
-                      <Phone className="text-muted-foreground size-3" />
-                      {currentRow.phone}
-                    </span>
-                  </div>
+            <div className="space-y-4 pt-2">
+              <div className="space-y-1 rounded-md border p-3">
+                <DetailRow label={t('details.id')} value={currentRow.ref} mono />
+                <DetailRow label={t('details.unitName')} value={currentRow.name} />
+                <DetailRow
+                  label={t('details.status')}
+                  value={
+                    <Badge variant={currentRow.active ? 'default' : 'outline'} className="text-[10px]">
+                      {currentRow.active ? tTrace('status.operational') : tTrace('status.maintenance')}
+                    </Badge>
+                  }
+                />
+                <DetailRow label={t('details.boilerCapacity')} value={`${currentRow.boiler_capacity_kg} Kg Biomassa`} mono />
+                <DetailRow label={t('details.extractionMethod')} value={tTrace(`methods.${currentRow.method}`) || currentRow.method} />
+                <DetailRow label={t('details.material')} value={currentRow.boiler_material} />
+                <DetailRow label={t('details.ownership')} value={tTrace(`ownership.${currentRow.ownership}`) || currentRow.ownership} />
+                <DetailRow label={t('details.operator')} value={currentRow.operator_name} />
+                {currentRow.phone && <DetailRow label={t('details.operatorContact')} value={currentRow.phone} mono />}
+                <DetailRow label={t('details.facilityAddress')} value={`${currentRow.street}, ${currentRow.city}`} />
+                {currentRow.partner_latitude && currentRow.partner_longitude && (
+                  <DetailRow label={t('details.coordinates')} value={`${currentRow.partner_latitude}, ${currentRow.partner_longitude}`} mono />
                 )}
-                <div className="flex justify-between">
-                  <span className="text-muted-foreground">{t('details.facilityAddress')}</span>
-                  <span className="text-end font-medium">
-                    {currentRow.street}, {currentRow.city}
-                  </span>
-                </div>
-                <div className="flex items-center justify-between">
-                  <span className="text-muted-foreground">{t('details.boilerSanitation')}</span>
-                  <Badge variant="outline" className="border-emerald-500/20 bg-emerald-500/10 text-[10px] text-emerald-600 dark:text-emerald-400">
-                    <CheckCircle2 className="mr-1 size-3" /> Sanitasi Terpenuhi (Passed)
-                  </Badge>
-                </div>
+                {currentRow.comment && <DetailRow label={tTrace('fields.comment')} value={currentRow.comment} border={false} />}
               </div>
-
-              {currentRow.comment && (
-                <div className="bg-muted/40 rounded-lg p-2.5">
-                  <span className="text-muted-foreground mb-1 block text-[10px] font-semibold uppercase">{t('details.specsNotes')}</span>
-                  <p className="text-muted-foreground text-[11px] leading-relaxed italic">{currentRow.comment}</p>
-                </div>
-              )}
             </div>
           )}
-
-          <DialogFooter className="gap-2 sm:gap-0">
-            <Button
-              type="button"
-              variant="outline"
-              size="sm"
-              onClick={() => {
-                setOpen(null)
-                setCurrentRow(null)
-              }}
-            >
-              {tCommon('actions.cancel')}
-            </Button>
-            <Button
-              type="button"
-              size="sm"
-              onClick={() => {
-                setOpen('edit')
-              }}
-            >
-              {tCommon('actions.edit')}
-            </Button>
-          </DialogFooter>
         </DialogContent>
       </Dialog>
 
       {/* 2. Confirm Archive / Restore Dialog */}
       <ConfirmDialog
-        open={open === 'archive'}
+        open={isArchiveOpen}
         onOpenChange={(v) => {
           if (!v) {
             setOpen(null)

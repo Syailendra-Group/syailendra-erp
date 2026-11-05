@@ -1,14 +1,14 @@
 'use client'
 
-import { Building, Hash, Mail, Phone, ShieldCheck, User } from 'lucide-react'
+import { ShieldCheck, User } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 import { toast } from 'sonner'
 
 import { ConfirmDialog } from '@/components/dialog/confirm-dialog'
+import { DetailRow } from '@/components/shared/detail-row'
 import { Badge } from '@/components/ui/badge'
 import { Button } from '@/components/ui/button'
 import { Dialog, DialogContent, DialogDescription, DialogFooter, DialogHeader, DialogTitle } from '@/components/ui/dialog'
-import { Separator } from '@/components/ui/separator'
 import { useEmployees } from '@/contexts/hris/employee.context'
 import { useToggleEmployeeStatusMutation } from '@/hooks/hris/use-employees'
 
@@ -62,47 +62,34 @@ export function EmployeesDialogs(): ReactElement {
           </DialogHeader>
 
           {currentRow && (
-            <div className="space-y-3 py-2 text-xs">
-              <div className="bg-muted/40 flex items-center justify-between rounded-lg p-3">
-                <div>
-                  <div className="text-foreground text-sm font-semibold">{currentRow.name}</div>
-                  <div className="text-muted-foreground text-xs">{currentRow.job_title || tAdmin('detail.defaultJob')}</div>
-                </div>
-                <Badge variant={currentRow.active ? 'default' : 'secondary'} className="text-[10px]">
-                  {currentRow.active ? tCommon('status.active') : tCommon('status.archived')}
-                </Badge>
-              </div>
-
-              <div className="border-border/60 space-y-2 rounded-lg border p-3">
-                <div className="text-muted-foreground flex items-center justify-between">
-                  <span className="flex items-center gap-1.5">
-                    <Building className="text-primary h-3.5 w-3.5" /> {tAdmin('detail.department')}
-                  </span>
-                  <span className="text-foreground font-medium">
-                    {currentRow.department_id ? currentRow.department_id[1] : tAdmin('table.defaultDept')}
-                  </span>
-                </div>
-                <Separator />
-                <div className="text-muted-foreground flex items-center justify-between">
-                  <span className="flex items-center gap-1.5">
-                    <Mail className="text-primary h-3.5 w-3.5" /> {tAdmin('detail.workEmail')}
-                  </span>
-                  <span className="text-foreground font-medium">{currentRow.work_email || '-'}</span>
-                </div>
-                <Separator />
-                <div className="text-muted-foreground flex items-center justify-between">
-                  <span className="flex items-center gap-1.5">
-                    <Phone className="text-primary h-3.5 w-3.5" /> {tAdmin('detail.workPhone')}
-                  </span>
-                  <span className="text-foreground font-medium">{currentRow.work_phone || '-'}</span>
-                </div>
-                <Separator />
-                <div className="text-muted-foreground flex items-center justify-between">
-                  <span className="flex items-center gap-1.5">
-                    <Hash className="text-primary h-3.5 w-3.5" /> {tAdmin('detail.odooId')}
-                  </span>
-                  <span className="text-foreground font-mono text-xs font-semibold">#{currentRow.id}</span>
-                </div>
+            <div className="space-y-4 pt-2">
+              <div className="space-y-1 rounded-md border p-3">
+                <DetailRow label={tAdmin('fields.name')} value={currentRow.name} />
+                <DetailRow label={tAdmin('fields.job_title')} value={currentRow.job_title || tAdmin('detail.defaultJob')} />
+                <DetailRow
+                  label={tAdmin('detail.department')}
+                  value={
+                    currentRow.department_id ? (
+                      <Badge variant="secondary" className="text-[10px]">
+                        {currentRow.department_id[1]}
+                      </Badge>
+                    ) : (
+                      tAdmin('table.defaultDept')
+                    )
+                  }
+                />
+                <DetailRow label={tAdmin('detail.workEmail')} value={currentRow.work_email || '-'} mono />
+                <DetailRow label={tAdmin('detail.workPhone')} value={currentRow.work_phone || '-'} mono />
+                <DetailRow label={tAdmin('detail.odooId')} value={`#${currentRow.id}`} mono />
+                <DetailRow
+                  label={tCommon('status.title') || 'Status'}
+                  value={
+                    <Badge variant={currentRow.active ? 'default' : 'secondary'} className="text-[10px]">
+                      {currentRow.active ? tCommon('status.active') : tCommon('status.archived')}
+                    </Badge>
+                  }
+                  border={false}
+                />
               </div>
             </div>
           )}

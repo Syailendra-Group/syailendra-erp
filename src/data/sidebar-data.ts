@@ -50,9 +50,9 @@ export interface SidebarData {
 
 export const sidebarData: SidebarData = {
   user: {
-    name: 'Octavyan Putra',
-    email: 'octalectzz@gmail.com',
-    role: 'System Administrator',
+    name: 'Demo Syailendra',
+    email: 'demo@syailendra.group',
+    role: 'Demo User',
     avatar: '/avatars/avatar.png'
   },
   teams: [
@@ -83,7 +83,8 @@ export const sidebarData: SidebarData = {
           { titleKey: 'items.overview', url: '/scm', icon: LayoutDashboard },
           { titleKey: 'items.farmers', url: '/scm/farmers', icon: Users },
           { titleKey: 'items.distillers', url: '/scm/distillers', icon: Factory },
-          { titleKey: 'items.materials', url: '/scm/materials', icon: Sparkles }
+          { titleKey: 'items.materials', url: '/scm/materials', icon: Sparkles },
+          { titleKey: 'items.supplierCategories', url: '/scm/supplier-categories', icon: FolderTree }
         ]
       },
       {

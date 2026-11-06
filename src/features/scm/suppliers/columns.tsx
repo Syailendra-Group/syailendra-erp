@@ -1,6 +1,7 @@
 /**
- * columns.tsx — TanStack Table columns for Master Supplier
+ * columns.tsx — Standardized TanStack Table columns for Master Supplier
  * Syailendra Group ERP (SCM Pillar)
+ * Complies with octadev-coding-rules-v83 (Rule 66, 105, 106, 107, 108, 109, 110)
  */
 
 'use client'
@@ -9,48 +10,48 @@ import { ColumnDef } from '@tanstack/react-table'
 import { Building2, Phone, User } from 'lucide-react'
 
 import { ActionButton } from '@/components/button/action-button'
+import { DataTableColumnHeader } from '@/components/data-table/column-header'
+import { StatusBadge } from '@/components/shared/status-badge'
+import { IconText, LongText, PrimaryText } from '@/components/text'
 import { Badge } from '@/components/ui/badge'
 
 import type { SupplierRecord } from '@/types/scm/supplier'
 
-interface ColumnsProps {
+export interface SupplierColumnsProps {
   t: (key: string, values?: Record<string, string | number>) => string
   onView: (item: SupplierRecord) => void
   onEdit: (item: SupplierRecord) => void
   onToggleStatus: (item: SupplierRecord) => void
 }
 
-export function getSupplierColumns({ t, onView, onEdit, onToggleStatus }: ColumnsProps): ColumnDef<SupplierRecord>[] {
+export function getSupplierColumns({ t, onView, onEdit, onToggleStatus }: SupplierColumnsProps): ColumnDef<SupplierRecord>[] {
   return [
     {
       accessorKey: 'ref',
-      header: t('table.columns.ref'),
-      cell: ({ row }) => <span className="text-primary font-mono text-xs font-semibold">{row.original.ref}</span>
+      header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.columns.ref')} />,
+      cell: ({ row }) => <PrimaryText fallback="-">{row.original.ref}</PrimaryText>,
+      enableSorting: true
     },
     {
       accessorKey: 'name',
-      header: t('table.columns.name'),
+      header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.columns.name')} />,
       cell: ({ row }) => {
         const item = row.original
         return (
-          <div className="flex flex-col gap-0.5">
-            <div className="flex items-center gap-1.5 text-xs font-medium">
-              {item.isCompany ? (
-                <Building2 className="text-muted-foreground h-3.5 w-3.5 shrink-0" />
-              ) : (
-                <User className="text-muted-foreground h-3.5 w-3.5 shrink-0" />
-              )}
-              <span>{item.name}</span>
-            </div>
-            {item.contactName && <span className="text-muted-foreground text-[10px]">PIC: {item.contactName}</span>}
+          <div className="flex max-w-[240px] flex-col gap-0.5">
+            <IconText icon={item.isCompany ? Building2 : User} className="text-xs font-medium">
+              <LongText>{item.name}</LongText>
+            </IconText>
+            {item.contactName && <span className="text-muted-foreground truncate pl-5 text-[10px]">PIC: {item.contactName}</span>}
           </div>
         )
-      }
+      },
+      enableSorting: true
     },
     {
       id: 'categoryIds',
       accessorKey: 'categoryNames',
-      header: t('table.columns.categories'),
+      header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.columns.categories')} />,
       filterFn: (row, id, filterValues: string[]) => {
         if (!filterValues || filterValues.length === 0) return true
         const catIds = row.original.categoryIds || []
@@ -68,7 +69,7 @@ export function getSupplierColumns({ t, onView, onEdit, onToggleStatus }: Column
               const cleanName = catName.includes('/') ? catName.split('/').pop()?.trim() || catName : catName
               return (
                 <Badge key={catName} variant="secondary" className="px-1.5 py-0 text-[10px] font-normal whitespace-nowrap">
-                  {cleanName}
+                  <LongText>{cleanName}</LongText>
                 </Badge>
               )
             })}
@@ -83,30 +84,33 @@ export function getSupplierColumns({ t, onView, onEdit, onToggleStatus }: Column
     },
     {
       accessorKey: 'mobile',
-      header: t('table.columns.contact'),
+      header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.columns.contact')} />,
       cell: ({ row }) => {
         const phone = row.original.mobile || row.original.phone
         if (!phone) return <span className="text-muted-foreground text-xs">-</span>
         return (
-          <div className="text-muted-foreground flex items-center gap-1 font-mono text-xs">
-            <Phone className="h-3 w-3 shrink-0" />
-            <span>{phone}</span>
-          </div>
+          <IconText icon={Phone} mono className="text-muted-foreground">
+            <LongText>{phone}</LongText>
+          </IconText>
         )
       }
     },
     {
       accessorKey: 'location',
-      header: t('table.columns.location'),
+      header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.columns.location')} />,
       cell: ({ row }) => {
         const item = row.original
         const loc = [item.districtName, item.stateName].filter(Boolean).join(', ')
-        return <span className="text-muted-foreground text-xs">{loc || '-'}</span>
+        return (
+          <span className="text-muted-foreground block max-w-[180px] text-xs">
+            <LongText>{loc || '-'}</LongText>
+          </span>
+        )
       }
     },
     {
       accessorKey: 'paymentTerm',
-      header: t('table.columns.paymentTerm'),
+      header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.columns.paymentTerm')} />,
       cell: ({ row }) => {
         const term = row.original.paymentTerm
         return (
@@ -118,15 +122,16 @@ export function getSupplierColumns({ t, onView, onEdit, onToggleStatus }: Column
     },
     {
       accessorKey: 'active',
-      header: t('table.columns.status'),
+      header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.columns.status')} />,
       cell: ({ row }) => {
         const active = row.original.active
         return (
-          <Badge variant={active ? 'default' : 'outline'} className="text-[10px]">
+          <StatusBadge variant={active ? 'success' : 'neutral'} size="sm">
             {active ? t('table.status.active') : t('table.status.archived')}
-          </Badge>
+          </StatusBadge>
         )
-      }
+      },
+      enableSorting: true
     },
     {
       id: 'actions',

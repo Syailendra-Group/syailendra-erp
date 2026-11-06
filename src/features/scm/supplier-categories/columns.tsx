@@ -1,6 +1,7 @@
 /**
- * columns.tsx — TanStack Table columns for Supplier Categories with Hierarchical Parent/Child Styling
+ * columns.tsx — Standardized TanStack Table columns for Supplier Categories
  * Syailendra Group ERP (SCM Pillar)
+ * Complies with octadev-coding-rules-v83 (Rule 66, 105, 106, 107, 108, 109, 110)
  */
 
 'use client'
@@ -9,11 +10,14 @@ import { ColumnDef } from '@tanstack/react-table'
 import { CornerDownRight, FolderTree, Tag, Users } from 'lucide-react'
 
 import { ActionButton } from '@/components/button/action-button'
+import { DataTableColumnHeader } from '@/components/data-table/column-header'
+import { StatusBadge } from '@/components/shared/status-badge'
+import { IconText, LongText, PrimaryText } from '@/components/text'
 import { Badge } from '@/components/ui/badge'
 
 import type { SupplierCategoryRecord } from '@/types/scm/supplier-category'
 
-interface ColumnsProps {
+export interface SupplierCategoryColumnsProps {
   t: (key: string, values?: Record<string, string | number>) => string
   onView: (item: SupplierCategoryRecord) => void
   onEdit: (item: SupplierCategoryRecord) => void
@@ -35,19 +39,21 @@ const BADGE_COLORS = [
   'bg-purple-100 text-purple-700 dark:bg-purple-950 dark:text-purple-300'
 ]
 
-export function getSupplierCategoryColumns({ t, onView, onEdit, onDelete }: ColumnsProps): ColumnDef<SupplierCategoryRecord>[] {
+export function getSupplierCategoryColumns({ t, onView, onEdit, onDelete }: SupplierCategoryColumnsProps): ColumnDef<SupplierCategoryRecord>[] {
   return [
     {
-      accessorKey: 'displayName',
-      header: t('table.columns.name'),
+      accessorKey: 'name',
+      header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.columns.name')} />,
       cell: ({ row }) => {
         const item = row.original
         if (item.isParent) {
           return (
-            <div className="flex items-center gap-2">
+            <div className="flex max-w-[260px] items-center gap-2">
               <FolderTree className="text-primary h-4 w-4 shrink-0" />
-              <span className="text-xs font-semibold tracking-tight">{item.name}</span>
-              <Badge variant="outline" className="border-primary/40 bg-primary/10 text-primary px-1.5 py-0 text-[10px] font-medium">
+              <PrimaryText bold={true} className="text-xs">
+                <LongText>{item.name}</LongText>
+              </PrimaryText>
+              <Badge variant="outline" className="border-primary/40 bg-primary/10 text-primary shrink-0 px-1.5 py-0 text-[10px] font-medium">
                 {t('table.rootBadge')}
               </Badge>
             </div>
@@ -55,17 +61,20 @@ export function getSupplierCategoryColumns({ t, onView, onEdit, onDelete }: Colu
         }
 
         return (
-          <div className="flex items-center gap-1.5 pl-5 sm:pl-7">
+          <div className="flex max-w-[260px] items-center gap-1.5 pl-5 sm:pl-7">
             <CornerDownRight className="text-muted-foreground/60 h-3.5 w-3.5 shrink-0" />
             <Tag className="text-muted-foreground h-3.5 w-3.5 shrink-0" />
-            <span className="text-foreground text-xs font-normal">{item.name}</span>
+            <span className="text-foreground truncate text-xs font-normal">
+              <LongText>{item.name}</LongText>
+            </span>
           </div>
         )
-      }
+      },
+      enableSorting: true
     },
     {
       accessorKey: 'parentName',
-      header: t('table.columns.parent'),
+      header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.columns.parent')} />,
       cell: ({ row }) => {
         const item = row.original
         if (item.isParent) {
@@ -76,15 +85,15 @@ export function getSupplierCategoryColumns({ t, onView, onEdit, onDelete }: Colu
           )
         }
         return (
-          <Badge variant="secondary" className="text-[10px] font-normal">
-            ↳ {item.parentName}
+          <Badge variant="secondary" className="max-w-[180px] text-[10px] font-normal">
+            <LongText>↳ {item.parentName || '-'}</LongText>
           </Badge>
         )
       }
     },
     {
       accessorKey: 'color',
-      header: t('table.columns.color'),
+      header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.columns.color')} />,
       cell: ({ row }) => {
         const colorIdx = row.original.color % BADGE_COLORS.length
         return <Badge className={`border-0 text-[10px] font-normal ${BADGE_COLORS[colorIdx]}`}>Tag #{row.original.color}</Badge>
@@ -92,37 +101,37 @@ export function getSupplierCategoryColumns({ t, onView, onEdit, onDelete }: Colu
     },
     {
       accessorKey: 'partnerCount',
-      header: t('table.columns.partnerCount'),
+      header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.columns.partnerCount')} />,
       cell: ({ row }) => {
         const item = row.original
         if (item.isParent) {
           return (
-            <div className="text-primary flex items-center gap-1.5 font-mono text-xs font-medium">
-              <FolderTree className="h-3.5 w-3.5" />
-              <span>{t('table.childCount', { count: item.childCount })}</span>
-            </div>
+            <IconText icon={FolderTree} mono className="text-primary font-medium">
+              {t('table.childCount', { count: item.childCount })}
+            </IconText>
           )
         }
 
         return (
-          <div className="text-muted-foreground flex items-center gap-1.5 font-mono text-xs">
-            <Users className="h-3.5 w-3.5" />
-            <span>{t('table.partnerCountFormat', { count: item.partnerCount })}</span>
-          </div>
+          <IconText icon={Users} mono className="text-muted-foreground">
+            {t('table.partnerCountFormat', { count: item.partnerCount })}
+          </IconText>
         )
-      }
+      },
+      enableSorting: true
     },
     {
       accessorKey: 'active',
-      header: t('table.columns.status'),
+      header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.columns.status')} />,
       cell: ({ row }) => {
         const active = row.original.active
         return (
-          <Badge variant={active ? 'default' : 'outline'} className="text-[10px]">
+          <StatusBadge variant={active ? 'success' : 'neutral'} size="sm">
             {active ? t('table.status.active') : t('table.status.inactive')}
-          </Badge>
+          </StatusBadge>
         )
-      }
+      },
+      enableSorting: true
     },
     {
       id: 'actions',

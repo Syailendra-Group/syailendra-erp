@@ -1,0 +1,193 @@
+{
+  "overview": {
+    "title": "Ringkasan Rantai Pasok (SCM)",
+    "subtitle": "Pemantauan agregat penimbangan panen, efisiensi ketel, dan kelulusan ekspor DDistillers",
+    "kpi": {
+      "biomass": "Total Panen Diterima",
+      "biomassTrend": "+12.4% vs bulan lalu",
+      "oil": "Minyak Disuling",
+      "oilTrend": "+8.2% vs bulan lalu",
+      "yield": "Rendemen Rata-rata",
+      "yieldTarget": "Target: >= 2.50%",
+      "qcPass": "Tingkat Kelulusan QC",
+      "qcPassDesc": "41 dari 42 batch lolos ekspor"
+    },
+    "charts": {
+      "yieldTrend": "Tren Rendemen Kumulatif per Komoditas",
+      "yieldTrendDesc": "Efisiensi rendemen mingguan komoditas atsiri utama",
+      "supplySource": "Komposisi Sumber Bahan Baku",
+      "supplySourceDesc": "Proporsi pasokan dari petani binaan, penyuling, dan mitra",
+      "patchouli": "Nilam Jawa",
+      "clove": "Daun Cengkeh",
+      "nutmeg": "Biji Pala",
+      "citronella": "Serai Wangi"
+    },
+    "feeds": {
+      "recentHarvest": "5 Sesi Panen Terbaru",
+      "recentHarvestDesc": "Penimbangan daun basah masuk dari kebun petani",
+      "pendingQC": "Batch Menunggu Rilis QC Lab",
+      "pendingQCDesc": "Pengujian fisikokimia dan kromatografi gas",
+      "viewAllHarvest": "Lihat Semua Sesi Panen",
+      "viewAllQC": "Lihat Laboratorium QC"
+    }
+  },
+  "harvest": {
+    "title": "Sesi Panen Lapangan",
+    "subtitle": "Pencatatan penimbangan basah daun, ranting, dan bunga atsiri dari kebun petani binaan",
+    "actions": {
+      "create": "Catat Sesi Panen",
+      "filter": "Filter Sesi Panen"
+    },
+    "table": {
+      "columns": {
+        "code": "Kode Panen",
+        "date": "Tanggal Panen",
+        "farmer": "Petani / Kelompok",
+        "commodity": "Komoditas",
+        "location": "Lokasi Lahan",
+        "weight": "Berat Basah (Kg)",
+        "moisture": "Kadar Air",
+        "lot": "Nomor Lot",
+        "status": "Status",
+        "actions": "Aksi"
+      },
+      "status": {
+        "received": "Diterima",
+        "ready": "Siap Suling",
+        "distilled": "Selesai Disuling"
+      }
+    },
+    "form": {
+      "createTitle": "Catat Sesi Panen Baru",
+      "createDescription": "Lengkapi penimbangan daun basah, identitas kebun, dan nomor lot hulu.",
+      "sections": {
+        "identity": "Identitas Panen",
+        "origin": "Asal Petani & Kebun",
+        "weight": "Parameter Timbangan & Mutu Fisik",
+        "lot": "Lot Bahan Baku Dihasilkan"
+      },
+      "fields": {
+        "code": "Kode Sesi Panen",
+        "codePlaceholder": "Otomatis: HAR-20261106-001",
+        "date": "Tanggal & Waktu Timbang",
+        "commodity": "Komoditas Atsiri",
+        "farmer": "Petani / Kelompok Tani Binaan",
+        "plantation": "Nama Petak / Blok Kebun",
+        "gps": "Koordinat GPS Lahan",
+        "weight": "Berat Timbang Bersih (Kg)",
+        "moisture": "Kadar Air Daun (%)",
+        "condition": "Kondisi Fisik Daun",
+        "lot": "Kode Lot Bahan Baku Terbit"
+      }
+    }
+  },
+  "lots": {
+    "title": "Manajemen Lot & Batch",
+    "subtitle": "Pusat ketelusuran inventori bahan baku basah, minyak mentah (crude), dan drum ekspor",
+    "tabs": {
+      "all": "Semua Lot",
+      "raw": "Bahan Baku Basah",
+      "crude": "Minyak Mentah",
+      "export": "Drum Ekspor"
+    },
+    "table": {
+      "columns": {
+        "code": "Kode Lot / Batch",
+        "material": "Komoditas Material",
+        "type": "Tipe Lot",
+        "quantity": "Kuantitas",
+        "location": "Lokasi Simpan",
+        "qc": "Status QC",
+        "actions": "Aksi"
+      }
+    }
+  },
+  "distillation": {
+    "title": "Proses Penyulingan",
+    "subtitle": "Monitoring operasional ketel uap, durasi distilasi, dan kalkulasi rendemen minyak atsiri",
+    "actions": {
+      "create": "Catat Hasil Suling"
+    },
+    "calculator": {
+      "title": "Kalkulator Rendemen Real-time",
+      "formula": "Rendemen = (Berat Minyak / Berat Biomassa) × 100%",
+      "optimal": "Rendemen Sangat Optimal (Di atas standar 2.50%)"
+    },
+    "table": {
+      "columns": {
+        "code": "Kode Distilasi",
+        "kettle": "Unit Ketel",
+        "inputLot": "Input Bahan Baku",
+        "duration": "Durasi",
+        "output": "Output Minyak (Kg)",
+        "yield": "Rendemen Nyata",
+        "outputLot": "Lot Minyak",
+        "status": "Status",
+        "actions": "Aksi"
+      }
+    }
+  },
+  "qc": {
+    "title": "Laboratorium QC & Fisikokimia",
+    "subtitle": "Pemeriksaan parameter kemurnian standar ISO, uji organoleptik, dan senyawa marker GC-MS",
+    "table": {
+      "columns": {
+        "code": "No. Sampel Lab",
+        "lot": "Lot Minyak",
+        "commodity": "Komoditas",
+        "density": "Bobot Jenis 20°C",
+        "refractive": "Indeks Bias 20°C",
+        "marker": "Kandungan Marker Utama",
+        "result": "Hasil Keputusan",
+        "coa": "No. COA",
+        "actions": "Aksi"
+      },
+      "status": {
+        "passed": "Lolos Standar Ekspor",
+        "quarantine": "Karantina / Uji Ulang",
+        "rejected": "Ditolak"
+      }
+    }
+  },
+  "genealogy": {
+    "title": "Pohon Silsilah Ketelusuran (Genealogy)",
+    "subtitle": "Visualisasi interaktif aliran batch hulu-ke-hilir: Kebun -> Sesi Panen -> Ketel Suling -> QC Lab -> Drum Ekspor",
+    "search": "Cari Nomor Lot / Drum Ekspor...",
+    "nodeTypes": {
+      "farmer": "Kebun Petani",
+      "harvest": "Sesi Panen Daun",
+      "distill": "Ketel Distilasi",
+      "qc": "Uji Mutu Lab",
+      "export": "Drum Ekspor 200L"
+    }
+  },
+  "qrPrinter": {
+    "title": "Generator Label QR & Barcode",
+    "subtitle": "Cetak label terstandarisasi untuk karung panen, jerigen 5L, dan drum ekspor 200L",
+    "options": {
+      "small": "Label Botol Sampel (50x30 mm)",
+      "medium": "Label Karung Daun (100x75 mm)",
+      "drum": "Label Drum Ekspor 200L (150x100 mm)"
+    },
+    "print": "Cetak Label Sekarang"
+  },
+  "recall": {
+    "title": "Simulasi Mock Recall",
+    "subtitle": "Pelacakan balik seketika (< 5 detik) dari nomor drum ekspor ke seluruh petani dan ketel asal",
+    "search": "Masukkan Nomor Drum Ekspor (contoh: EXP-DRUM-2026-042)",
+    "run": "Jalankan Simulasi Audit",
+    "speed": "Audit Trail Terverifikasi dalam 1.2 detik (Kepatuhan Ekspor ISO 22000 & HACCP)",
+    "summary": "Komposisi Lot Penyusun Drum Ekspor"
+  },
+  "reports": {
+    "title": "Laporan & Dokumen Ekspor SCM",
+    "subtitle": "Pusat penerbitan sertifikat analisis, paspor komoditas, dan evaluasi efisiensi rendemen",
+    "tabs": {
+      "genealogy": "Paspor Ketelusuran Ekspor",
+      "yield": "Evaluasi Efisiensi Rendemen",
+      "qc": "Riwayat Mutu & Standar ISO"
+    },
+    "exportPDF": "Ekspor Laporan PDF",
+    "exportExcel": "Ekspor Data Excel"
+  }
+}

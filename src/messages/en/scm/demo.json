@@ -1,0 +1,193 @@
+{
+  "overview": {
+    "title": "Supply Chain Overview (SCM)",
+    "subtitle": "Aggregate monitoring of field intake, distillation yield efficiency, and DDistillers export releases",
+    "kpi": {
+      "biomass": "Total Field Intake",
+      "biomassTrend": "+12.4% vs last month",
+      "oil": "Distilled Essential Oil",
+      "oilTrend": "+8.2% vs last month",
+      "yield": "Average Yield Efficiency",
+      "yieldTarget": "Target: >= 2.50%",
+      "qcPass": "QC Lab Pass Rate",
+      "qcPassDesc": "41 out of 42 batches approved"
+    },
+    "charts": {
+      "yieldTrend": "Cumulative Yield Trend by Commodity",
+      "yieldTrendDesc": "Weekly yield efficiency across key essential oil varieties",
+      "supplySource": "Raw Material Supply Composition",
+      "supplySourceDesc": "Share of supply from binaan farmers, distillers, and partners",
+      "patchouli": "Patchouli Leaf",
+      "clove": "Clove Leaf",
+      "nutmeg": "Nutmeg Seed",
+      "citronella": "Citronella Grass"
+    },
+    "feeds": {
+      "recentHarvest": "5 Recent Harvest Sessions",
+      "recentHarvestDesc": "Wet leaf intake received from partner plantations",
+      "pendingQC": "Batches Awaiting Lab QC Release",
+      "pendingQCDesc": "Physicochemical and gas chromatography testing",
+      "viewAllHarvest": "View All Harvest Sessions",
+      "viewAllQC": "View QC Laboratory"
+    }
+  },
+  "harvest": {
+    "title": "Field Harvest Intake",
+    "subtitle": "Recording of wet leaf, twig, and flower weight from binaan farmer plantations",
+    "actions": {
+      "create": "Record Harvest Session",
+      "filter": "Filter Harvest Sessions"
+    },
+    "table": {
+      "columns": {
+        "code": "Harvest Code",
+        "date": "Harvest Date",
+        "farmer": "Farmer / Group",
+        "commodity": "Commodity",
+        "location": "Plantation Location",
+        "weight": "Wet Weight (Kg)",
+        "moisture": "Moisture Level",
+        "lot": "Generated Lot",
+        "status": "Status",
+        "actions": "Actions"
+      },
+      "status": {
+        "received": "Received",
+        "ready": "Ready for Distillation",
+        "distilled": "Distillation Complete"
+      }
+    },
+    "form": {
+      "createTitle": "Record New Harvest Session",
+      "createDescription": "Record wet biomass scale weight, plantation origin, and raw lot generation.",
+      "sections": {
+        "identity": "Harvest Batch Identity",
+        "origin": "Farmer & Plantation Origin",
+        "weight": "Scale Weight & Physical Quality",
+        "lot": "Generated Raw Material Lot"
+      },
+      "fields": {
+        "code": "Harvest Session Code",
+        "codePlaceholder": "Auto: HAR-20261106-001",
+        "date": "Weighing Date & Time",
+        "commodity": "Essential Oil Commodity",
+        "farmer": "Binaan Farmer / Group",
+        "plantation": "Plantation Plot / Block",
+        "gps": "Plantation GPS Coordinates",
+        "weight": "Net Scale Weight (Kg)",
+        "moisture": "Leaf Moisture (%)",
+        "condition": "Leaf Visual Condition",
+        "lot": "Issued Raw Material Lot Code"
+      }
+    }
+  },
+  "lots": {
+    "title": "Lot & Batch Management",
+    "subtitle": "Central inventory traceability hub for raw biomass, crude essential oil, and export drums",
+    "tabs": {
+      "all": "All Lots",
+      "raw": "Raw Biomass",
+      "crude": "Crude Oil",
+      "export": "Export Drums"
+    },
+    "table": {
+      "columns": {
+        "code": "Lot / Batch Code",
+        "material": "Commodity Material",
+        "type": "Lot Type",
+        "quantity": "Quantity",
+        "location": "Storage Location",
+        "qc": "QC Status",
+        "actions": "Actions"
+      }
+    }
+  },
+  "distillation": {
+    "title": "Distillation Processing",
+    "subtitle": "Kettle operations monitoring, distillation duration, and real-time yield calculations",
+    "actions": {
+      "create": "Record Distillation Run"
+    },
+    "calculator": {
+      "title": "Real-time Yield Calculator",
+      "formula": "Yield = (Oil Weight / Biomass Weight) × 100%",
+      "optimal": "Optimal Yield (Exceeds 2.50% Standard)"
+    },
+    "table": {
+      "columns": {
+        "code": "Distill Code",
+        "kettle": "Distillation Kettle",
+        "inputLot": "Raw Material Input",
+        "duration": "Duration",
+        "output": "Oil Output (Kg)",
+        "yield": "Actual Yield",
+        "outputLot": "Output Lot",
+        "status": "Status",
+        "actions": "Actions"
+      }
+    }
+  },
+  "qc": {
+    "title": "QC & Analytical Laboratory",
+    "subtitle": "ISO physicochemical purity inspections, organoleptic sensory testing, and GC-MS marker analysis",
+    "table": {
+      "columns": {
+        "code": "Lab Sample No.",
+        "lot": "Oil Lot",
+        "commodity": "Commodity",
+        "density": "Density at 20°C",
+        "refractive": "Refractive Index",
+        "marker": "Primary Marker Content",
+        "result": "Decision",
+        "coa": "COA No.",
+        "actions": "Actions"
+      },
+      "status": {
+        "passed": "Passed ISO Export",
+        "quarantine": "Lab Quarantine",
+        "rejected": "Rejected"
+      }
+    }
+  },
+  "genealogy": {
+    "title": "Traceability Lineage Graph",
+    "subtitle": "Interactive visualization of farm-to-export batch flow: Plantation -> Harvest -> Distillation -> QC Lab -> Export Drum",
+    "search": "Search Lot Number / Export Drum...",
+    "nodeTypes": {
+      "farmer": "Farmer Plantation",
+      "harvest": "Harvest Intake",
+      "distill": "Distillation Kettle",
+      "qc": "Laboratory QC",
+      "export": "Export Drum 200L"
+    }
+  },
+  "qrPrinter": {
+    "title": "QR & Barcode Label Generator",
+    "subtitle": "Generate standardized industrial labels for harvest bags, 5L canisters, and 200L export drums",
+    "options": {
+      "small": "Sample Bottle Label (50x30 mm)",
+      "medium": "Harvest Leaf Bag Label (100x75 mm)",
+      "drum": "200L Export Drum Label (150x100 mm)"
+    },
+    "print": "Print Label Now"
+  },
+  "recall": {
+    "title": "Mock Recall Simulator",
+    "subtitle": "Instant reverse traceability audit (< 5 seconds) from export drum to origin farmers and kettles",
+    "search": "Enter Export Drum Code (e.g. EXP-DRUM-2026-042)",
+    "run": "Run Audit Simulation",
+    "speed": "Audit Trail Verified in 1.2 seconds (ISO 22000 & HACCP Export Compliance)",
+    "summary": "Component Lots Comprising Export Drum"
+  },
+  "reports": {
+    "title": "SCM Reports & Export Certificates",
+    "subtitle": "Central issuance of Certificate of Analysis, commodity passports, and yield analytics",
+    "tabs": {
+      "genealogy": "Export Traceability Passport",
+      "yield": "Yield Efficiency Evaluation",
+      "qc": "Quality History & ISO Standards"
+    },
+    "exportPDF": "Export PDF Report",
+    "exportExcel": "Export Excel Data"
+  }
+}

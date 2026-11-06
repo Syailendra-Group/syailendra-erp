@@ -24,6 +24,7 @@ import enRegencies from '@/messages/en/others/regencies.json'
 import enRegionalCommon from '@/messages/en/others/regional-common.json'
 import enRoles from '@/messages/en/others/roles.json'
 import enVillages from '@/messages/en/others/villages.json'
+import enScmDemo from '@/messages/en/scm/demo.json'
 import enTraceDistillers from '@/messages/en/scm/distillers.json'
 import enTraceFarmers from '@/messages/en/scm/farmers.json'
 import enMaterials from '@/messages/en/scm/materials.json'
@@ -51,6 +52,7 @@ import idRegencies from '@/messages/id/others/regencies.json'
 import idRegionalCommon from '@/messages/id/others/regional-common.json'
 import idRoles from '@/messages/id/others/roles.json'
 import idVillages from '@/messages/id/others/villages.json'
+import idScmDemo from '@/messages/id/scm/demo.json'
 import idTraceDistillers from '@/messages/id/scm/distillers.json'
 import idTraceFarmers from '@/messages/id/scm/farmers.json'
 import idMaterials from '@/messages/id/scm/materials.json'
@@ -79,7 +81,8 @@ const messagesMap = {
       publicTrace: idPublicTrace,
       materials: idMaterials,
       supplierCategories: idSupplierCategories,
-      suppliers: idSuppliers
+      suppliers: idSuppliers,
+      demo: idScmDemo
     },
     traceability: {
       overview: idTraceOverview,
@@ -137,7 +140,8 @@ const messagesMap = {
       publicTrace: enPublicTrace,
       materials: enMaterials,
       supplierCategories: enSupplierCategories,
-      suppliers: enSuppliers
+      suppliers: enSuppliers,
+      demo: enScmDemo
     },
     traceability: {
       overview: enTraceOverview,

@@ -51,6 +51,7 @@ export interface GetSuppliersParams {
   perPage?: number
   search?: string
   categoryId?: number | null
+  categoryIds?: number[] | null
   active?: boolean | null
 }
 
@@ -163,7 +164,9 @@ export class SupplierService {
       domain.push(['name', 'ilike', q])
     }
 
-    if (params.categoryId) {
+    if (params.categoryIds && params.categoryIds.length > 0) {
+      domain.push(['category_id', 'in', params.categoryIds])
+    } else if (params.categoryId) {
       domain.push(['category_id', 'in', [params.categoryId]])
     }
 

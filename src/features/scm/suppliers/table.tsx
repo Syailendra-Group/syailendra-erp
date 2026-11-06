@@ -1,5 +1,5 @@
 /**
- * table.tsx — Datatable component for Master Supplier with SectionCard & zero-CLS skeleton
+ * table.tsx — Datatable component for Master Supplier with Faceted Toolbar Filter
  * Syailendra Group ERP (SCM Pillar)
  */
 
@@ -15,6 +15,7 @@ import { DataTablePagination } from '@/components/data-table/pagination'
 import { DataTableSkeleton } from '@/components/data-table/skeleton'
 import { DataTableToolbar } from '@/components/data-table/toolbar'
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '@/components/ui/table'
+import { useSupplierCategoryOptions } from '@/hooks/scm/use-supplier-categories'
 import { useSuppliers } from '@/hooks/scm/use-suppliers'
 import { useDataTableUrlState } from '@/hooks/use-data-table-url-state'
 import { cn } from '@/lib/utils'
@@ -43,12 +44,31 @@ export function SuppliersTable(): ReactElement {
     onGlobalFilterChange,
     resetFilters,
     isUpdating
-  } = useDataTableUrlState()
+  } = useDataTableUrlState({ filterKeys: ['categoryIds'] })
+
+  const { data: categoryOptions = [] } = useSupplierCategoryOptions()
+
+  // Extract selected category IDs from columnFilters (Rule 64 & 98)
+  const categoryFilterValues = useMemo(() => {
+    const filter = columnFilters.find((f) => f.id === 'categoryIds')
+    if (!filter || !Array.isArray(filter.value)) return undefined
+    return filter.value.map((v) => Number(v)).filter((v) => !isNaN(v) && v > 0)
+  }, [columnFilters])
+
+  const categoryFacetedOptions = useMemo(
+    () =>
+      categoryOptions.map((opt) => ({
+        label: opt.displayName || opt.name,
+        value: String(opt.id)
+      })),
+    [categoryOptions]
+  )
 
   const { data, isLoading } = useSuppliers({
     page,
     perPage,
-    search
+    search,
+    categoryIds: categoryFilterValues
   })
 
   const items = useMemo(() => data?.items ?? [], [data?.items])
@@ -94,8 +114,19 @@ export function SuppliersTable(): ReactElement {
 
   return (
     <div className="space-y-4">
-      {/* Standard DataTableToolbar with Category Filter */}
-      <DataTableToolbar table={table} searchPlaceholder={t('actions.filter')} onReset={resetFilters} />
+      {/* Standard DataTableToolbar with Dynamic Category Faceted Filter */}
+      <DataTableToolbar
+        table={table}
+        searchPlaceholder={t('actions.filter')}
+        filters={[
+          {
+            columnId: 'categoryIds',
+            title: t('table.columns.categories'),
+            options: categoryFacetedOptions
+          }
+        ]}
+        onReset={resetFilters}
+      />
 
       {/* Main Table Box with Self-Contained Skeleton & Overlay */}
       <div className="bg-card relative rounded-md border shadow-xs">

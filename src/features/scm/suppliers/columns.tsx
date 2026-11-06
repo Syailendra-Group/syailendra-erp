@@ -48,8 +48,14 @@ export function getSupplierColumns({ t, onView, onEdit, onToggleStatus }: Column
       }
     },
     {
+      id: 'categoryIds',
       accessorKey: 'categoryNames',
       header: t('table.columns.categories'),
+      filterFn: (row, id, filterValues: string[]) => {
+        if (!filterValues || filterValues.length === 0) return true
+        const catIds = row.original.categoryIds || []
+        return filterValues.some((val) => catIds.includes(Number(val)))
+      },
       cell: ({ row }) => {
         const cats = row.original.categoryNames
         if (!cats || cats.length === 0) {
@@ -57,12 +63,15 @@ export function getSupplierColumns({ t, onView, onEdit, onToggleStatus }: Column
         }
 
         return (
-          <div className="flex max-w-[200px] flex-wrap gap-1">
-            {cats.slice(0, 2).map((catName) => (
-              <Badge key={catName} variant="secondary" className="px-1.5 py-0 text-[10px] font-normal">
-                {catName.split('/').pop()?.trim() || catName}
-              </Badge>
-            ))}
+          <div className="flex max-w-[220px] flex-wrap gap-1">
+            {cats.slice(0, 2).map((catName) => {
+              const cleanName = catName.includes('/') ? catName.split('/').pop()?.trim() || catName : catName
+              return (
+                <Badge key={catName} variant="secondary" className="px-1.5 py-0 text-[10px] font-normal whitespace-nowrap">
+                  {cleanName}
+                </Badge>
+              )
+            })}
             {cats.length > 2 && (
               <Badge variant="outline" className="text-muted-foreground px-1 py-0 font-mono text-[10px]">
                 +{cats.length - 2}

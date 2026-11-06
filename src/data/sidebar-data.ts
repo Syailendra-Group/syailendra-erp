@@ -84,7 +84,8 @@ export const sidebarData: SidebarData = {
           { titleKey: 'items.farmers', url: '/scm/farmers', icon: Users },
           { titleKey: 'items.distillers', url: '/scm/distillers', icon: Factory },
           { titleKey: 'items.materials', url: '/scm/materials', icon: Sparkles },
-          { titleKey: 'items.supplierCategories', url: '/scm/supplier-categories', icon: FolderTree }
+          { titleKey: 'items.supplierCategories', url: '/scm/supplier-categories', icon: FolderTree },
+          { titleKey: 'items.suppliers', url: '/scm/suppliers', icon: Truck }
         ]
       },
       {

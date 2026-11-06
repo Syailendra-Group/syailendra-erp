@@ -65,7 +65,8 @@
     "districts": "Districts",
     "villages": "Villages",
     "materials": "Material Catalog",
-    "supplierCategories": "Supplier Categories"
+    "supplierCategories": "Supplier Categories",
+    "suppliers": "Supplier Directory"
   },
   "breadcrumbs": {
     "home": "Home",
@@ -117,7 +118,8 @@
     "villages": "Villages",
     "materials": "Material Catalog",
     "supplierCategories": "Supplier Categories",
-    "scm": "SCM"
+    "scm": "SCM",
+    "suppliers": "Suppliers"
   },
   "user": {
     "profile": "Profile Account",

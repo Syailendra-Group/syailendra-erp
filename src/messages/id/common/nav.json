@@ -65,7 +65,8 @@
     "districts": "Kecamatan",
     "villages": "Kelurahan / Desa",
     "materials": "Katalog Material",
-    "supplierCategories": "Kategori Supplier"
+    "supplierCategories": "Kategori Supplier",
+    "suppliers": "Daftar Supplier"
   },
   "breadcrumbs": {
     "home": "Beranda",
@@ -117,7 +118,8 @@
     "villages": "Kelurahan / Desa",
     "materials": "Katalog Material",
     "supplierCategories": "Kategori Supplier",
-    "scm": "SCM"
+    "scm": "SCM",
+    "suppliers": "Daftar Supplier"
   },
   "user": {
     "profile": "Profil Akun",

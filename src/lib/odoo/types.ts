@@ -6,10 +6,11 @@
 export type OdooPrimitive = string | number | boolean | null | undefined
 export type OdooDomainTuple = [string, string, string | number | boolean | (string | number | boolean)[]]
 export type OdooDomain = (OdooDomainTuple | string)[]
+export type OdooM2MCommand = [number, number, number[]] | [number, number] | [number, number, Record<string, OdooPrimitive>]
 export interface OdooObjectValue {
   [key: string]: OdooFieldValue
 }
-export type OdooFieldValue = OdooPrimitive | OdooPrimitive[] | OdooObjectValue | OdooObjectValue[]
+export type OdooFieldValue = OdooPrimitive | OdooPrimitive[] | OdooObjectValue | OdooObjectValue[] | OdooM2MCommand[]
 export type OdooRpcArg = OdooPrimitive | OdooDomain | Record<string, OdooFieldValue> | number[] | string[] | OdooRpcArg[]
 
 export interface OdooConfig {

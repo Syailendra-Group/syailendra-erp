@@ -10,21 +10,35 @@ export class OdooClient {
   private uid: number | null = null
   private reqId = 1
 
+  private customConfig?: Partial<OdooConfig>
+
   constructor(customConfig?: Partial<OdooConfig>) {
-    this.config = {
-      baseUrl: customConfig?.baseUrl || process.env.ODOO_BASE_URL || 'http://10.10.0.238:8069',
-      db: customConfig?.db || process.env.ODOO_DB || 'odoo_dev',
-      username: customConfig?.username || process.env.ODOO_USERNAME || '',
-      password: customConfig?.password || process.env.ODOO_PASSWORD || '',
-      apiKey: customConfig?.apiKey || process.env.ODOO_API_KEY
+    this.customConfig = customConfig
+    this.config = this.resolveConfig()
+  }
+
+  private resolveConfig(): OdooConfig {
+    return {
+      baseUrl: this.customConfig?.baseUrl || process.env.ODOO_BASE_URL || 'http://10.10.0.238:8069',
+      db: this.customConfig?.db || process.env.ODOO_DB || 'odoo_dev',
+      username: this.customConfig?.username || process.env.ODOO_USERNAME || '',
+      password: this.customConfig?.password || process.env.ODOO_PASSWORD || '',
+      apiKey: this.customConfig?.apiKey || process.env.ODOO_API_KEY
     }
+  }
+
+  public getConfig(): OdooConfig {
+    if (!this.config.username || !this.config.password) {
+      this.config = this.resolveConfig()
+    }
+    return this.config
   }
 
   /**
    * Execute raw JSON-RPC 2.0 POST call
    */
   async rpc<T>(service: 'common' | 'object', method: string, args: OdooRpcArg[]): Promise<T> {
-    const url = `${this.config.baseUrl}/jsonrpc`
+    const url = `${this.getConfig().baseUrl}/jsonrpc`
     const payload: JsonRpcPayload<OdooRpcArg[]> = {
       jsonrpc: '2.0',
       method: 'call',
@@ -74,15 +88,15 @@ export class OdooClient {
       return this.uid
     }
 
-    const secret = this.config.apiKey || this.config.password
+    const secret = this.getConfig().apiKey || this.getConfig().password
     if (!secret) {
       throw new Error('Missing Odoo password or API key for authentication')
     }
 
-    const uid = await this.rpc<number | false>('common', 'authenticate', [this.config.db, this.config.username, secret, {}])
+    const uid = await this.rpc<number | false>('common', 'authenticate', [this.getConfig().db, this.getConfig().username, secret, {}])
 
     if (!uid) {
-      throw new Error(`Authentication failed for user '${this.config.username}' on database '${this.config.db}'`)
+      throw new Error(`Authentication failed for user '${this.getConfig().username}' on database '${this.getConfig().db}'`)
     }
 
     this.uid = uid
@@ -94,9 +108,9 @@ export class OdooClient {
    */
   async executeKw<T>(model: string, method: string, args: OdooRpcArg[] = [], kwargs: Record<string, OdooFieldValue> = {}): Promise<T> {
     const uid = await this.authenticate()
-    const secret = this.config.apiKey || this.config.password || ''
+    const secret = this.getConfig().apiKey || this.getConfig().password || ''
 
-    return this.rpc<T>('object', 'execute_kw', [this.config.db, uid, secret, model, method, args, kwargs])
+    return this.rpc<T>('object', 'execute_kw', [this.getConfig().db, uid, secret, model, method, args, kwargs])
   }
 
   /**

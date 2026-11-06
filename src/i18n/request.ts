@@ -30,6 +30,7 @@ import enMaterials from '@/messages/en/scm/materials.json'
 import enTraceOverview from '@/messages/en/scm/overview.json'
 import enPublicTrace from '@/messages/en/scm/public-trace.json'
 import enSupplierCategories from '@/messages/en/scm/supplier-categories.json'
+import enSuppliers from '@/messages/en/scm/suppliers.json'
 import enInventory from '@/messages/en/wms/inventory.json'
 import enWmsOverview from '@/messages/en/wms/overview.json'
 import idAuthLogin from '@/messages/id/auth/login.json'
@@ -56,6 +57,7 @@ import idMaterials from '@/messages/id/scm/materials.json'
 import idTraceOverview from '@/messages/id/scm/overview.json'
 import idPublicTrace from '@/messages/id/scm/public-trace.json'
 import idSupplierCategories from '@/messages/id/scm/supplier-categories.json'
+import idSuppliers from '@/messages/id/scm/suppliers.json'
 import idInventory from '@/messages/id/wms/inventory.json'
 import idWmsOverview from '@/messages/id/wms/overview.json'
 
@@ -76,7 +78,8 @@ const messagesMap = {
       distillers: idTraceDistillers,
       publicTrace: idPublicTrace,
       materials: idMaterials,
-      supplierCategories: idSupplierCategories
+      supplierCategories: idSupplierCategories,
+      suppliers: idSuppliers
     },
     traceability: {
       overview: idTraceOverview,
@@ -133,7 +136,8 @@ const messagesMap = {
       distillers: enTraceDistillers,
       publicTrace: enPublicTrace,
       materials: enMaterials,
-      supplierCategories: enSupplierCategories
+      supplierCategories: enSupplierCategories,
+      suppliers: enSuppliers
     },
     traceability: {
       overview: enTraceOverview,

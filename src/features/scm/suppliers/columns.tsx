@@ -1,9 +1,3 @@
-/**
- * columns.tsx — Standardized TanStack Table columns for Master Supplier
- * Syailendra Group ERP (SCM Pillar)
- * Complies with octadev-coding-rules-v83 (Rule 66, 105, 106, 107, 108, 109, 110)
- */
-
 'use client'
 
 import { ColumnDef } from '@tanstack/react-table'
@@ -38,7 +32,7 @@ export function getSupplierColumns({ t, onView, onEdit, onToggleStatus }: Suppli
       cell: ({ row }) => {
         const item = row.original
         return (
-          <div className="flex max-w-[240px] flex-col gap-0.5">
+          <div className="flex max-w-60 flex-col gap-0.5">
             <IconText icon={item.isCompany ? Building2 : User} className="text-xs font-medium">
               <LongText>{item.name}</LongText>
             </IconText>
@@ -64,7 +58,7 @@ export function getSupplierColumns({ t, onView, onEdit, onToggleStatus }: Suppli
         }
 
         return (
-          <div className="flex max-w-[220px] flex-wrap gap-1">
+          <div className="flex max-w-55 flex-wrap gap-1">
             {cats.slice(0, 2).map((catName) => {
               const cleanName = catName.includes('/') ? catName.split('/').pop()?.trim() || catName : catName
               return (
@@ -102,7 +96,7 @@ export function getSupplierColumns({ t, onView, onEdit, onToggleStatus }: Suppli
         const item = row.original
         const loc = [item.districtName, item.stateName].filter(Boolean).join(', ')
         return (
-          <span className="text-muted-foreground block max-w-[180px] text-xs">
+          <span className="text-muted-foreground block max-w-45 text-xs">
             <LongText>{loc || '-'}</LongText>
           </span>
         )

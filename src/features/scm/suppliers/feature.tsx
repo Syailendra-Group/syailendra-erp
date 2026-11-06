@@ -1,8 +1,3 @@
-/**
- * feature.tsx — Container component for Master Supplier feature
- * Syailendra Group ERP (SCM Pillar)
- */
-
 'use client'
 
 import { useRouter } from 'next/navigation'

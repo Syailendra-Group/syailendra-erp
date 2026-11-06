@@ -3,6 +3,7 @@
 import { useTranslations } from 'next-intl'
 
 import { useRouter } from '@/i18n/navigation'
+import { useLogoutMutation } from '@/hooks/auth/use-auth'
 
 import { ConfirmDialog } from './confirm-dialog'
 
@@ -17,9 +18,16 @@ export function SignOutDialog({ open, onOpenChange }: SignOutDialogProps): React
   const router = useRouter()
   const tConfirm = useTranslations('common.confirm')
 
-  const handleSignOut = () => {
-    onOpenChange(false)
-    router.push('/login')
+  const { mutateAsync: logout } = useLogoutMutation()
+
+  const handleSignOut = async () => {
+    try {
+      await logout()
+    } finally {
+      onOpenChange(false)
+      router.push('/login')
+      router.refresh()
+    }
   }
 
   return (

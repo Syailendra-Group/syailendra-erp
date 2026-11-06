@@ -16,6 +16,7 @@ import type { ReactElement } from 'react'
 function ProvincesPrimaryButtons(): ReactElement {
   const { setOpen, setCurrentRow } = useProvince()
   const t = useTranslations('others.provinces')
+
   return (
     <Button
       onClick={() => {
@@ -36,9 +37,11 @@ function ProvincesContent(): ReactElement {
   return (
     <div className="space-y-4 sm:space-y-6">
       <PageHeader title={t('title')} description={t('subtitle')} icon={Landmark} actions={<ProvincesPrimaryButtons />} />
+
       <SectionCard>
         <ProvincesTable />
       </SectionCard>
+
       <ProvincesDialogs />
     </div>
   )

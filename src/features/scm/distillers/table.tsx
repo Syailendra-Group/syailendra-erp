@@ -6,6 +6,7 @@ import { useTranslations } from 'next-intl'
 
 import { DataTableLoadingOverlay, DataTablePagination, DataTableSkeleton, DataTableToolbar } from '@/components/data-table'
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '@/components/ui/table'
+import { useDistillers } from '@/contexts/scm/distiller.context'
 import { useDistillersPaginatedQuery } from '@/hooks/scm/use-distillers'
 import { useDataTableUrlState } from '@/hooks/use-data-table-url-state'
 import { cn } from '@/lib/utils'
@@ -20,7 +21,28 @@ export function DistillersTable(): ReactElement {
   const tTrace = useTranslations('traceability')
   const tCommon = useTranslations('common')
 
-  const columns = useMemo(() => getColumns({ tTrace, tCommon }), [tTrace, tCommon])
+  const { setOpen, setCurrentRow } = useDistillers()
+
+  const columns = useMemo(
+    () =>
+      getColumns({
+        tTrace,
+        tCommon,
+        onView: (item) => {
+          setCurrentRow(item)
+          setOpen('view')
+        },
+        onEdit: (item) => {
+          setCurrentRow(item)
+          setOpen('edit')
+        },
+        onDelete: (item) => {
+          setCurrentRow(item)
+          setOpen('archive')
+        }
+      }),
+    [tTrace, tCommon, setCurrentRow, setOpen]
+  )
 
   // 1. Hook manages all URL parsing, pagination, sorting & filter state
   const {

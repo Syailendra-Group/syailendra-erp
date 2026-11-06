@@ -1,9 +1,3 @@
-/**
- * columns.tsx — Standardized TanStack Table columns for Supplier Categories
- * Syailendra Group ERP (SCM Pillar)
- * Complies with octadev-coding-rules-v83 (Rule 66, 105, 106, 107, 108, 109, 110)
- */
-
 'use client'
 
 import { ColumnDef } from '@tanstack/react-table'
@@ -48,7 +42,7 @@ export function getSupplierCategoryColumns({ t, onView, onEdit, onDelete }: Supp
         const item = row.original
         if (item.isParent) {
           return (
-            <div className="flex max-w-[260px] items-center gap-2">
+            <div className="flex max-w-65 items-center gap-2">
               <FolderTree className="text-primary h-4 w-4 shrink-0" />
               <PrimaryText bold={true} className="text-xs">
                 <LongText>{item.name}</LongText>
@@ -61,7 +55,7 @@ export function getSupplierCategoryColumns({ t, onView, onEdit, onDelete }: Supp
         }
 
         return (
-          <div className="flex max-w-[260px] items-center gap-1.5 pl-5 sm:pl-7">
+          <div className="flex max-w-65 items-center gap-1.5 pl-5 sm:pl-7">
             <CornerDownRight className="text-muted-foreground/60 h-3.5 w-3.5 shrink-0" />
             <Tag className="text-muted-foreground h-3.5 w-3.5 shrink-0" />
             <span className="text-foreground truncate text-xs font-normal">
@@ -85,7 +79,7 @@ export function getSupplierCategoryColumns({ t, onView, onEdit, onDelete }: Supp
           )
         }
         return (
-          <Badge variant="secondary" className="max-w-[180px] text-[10px] font-normal">
+          <Badge variant="secondary" className="max-w-45 text-[10px] font-normal">
             <LongText>↳ {item.parentName || '-'}</LongText>
           </Badge>
         )

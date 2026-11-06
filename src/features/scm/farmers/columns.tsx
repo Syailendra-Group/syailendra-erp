@@ -1,9 +1,3 @@
-/**
- * columns.tsx — Standardized TanStack Table columns for Farmers Master Data
- * Syailendra Group ERP (SCM Pillar)
- * Complies with octadev-coding-rules-v84
- */
-
 'use client'
 
 import { ColumnDef } from '@tanstack/react-table'
@@ -37,7 +31,7 @@ export function getColumns({ tTrace, tCommon, onView, onEdit, onDelete }: GetCol
       accessorKey: 'name',
       header: ({ column }) => <DataTableColumnHeader column={column} title={tTrace('table.name')} />,
       cell: ({ row }) => (
-        <IconText icon={User} className="max-w-[220px] text-xs font-semibold">
+        <IconText icon={User} className="max-w-55 text-xs font-semibold">
           <LongText>{row.original.name}</LongText>
         </IconText>
       ),
@@ -61,11 +55,7 @@ export function getColumns({ tTrace, tCommon, onView, onEdit, onDelete }: GetCol
       cell: ({ row }) => {
         const item = row.original
         const loc = [item.city, item.state_id ? item.state_id[1] : ''].filter(Boolean).join(', ')
-        return (
-          <span className="text-muted-foreground block max-w-[180px] text-xs">
-            <LongText>{loc || '-'}</LongText>
-          </span>
-        )
+        return <LongText className="text-muted-foreground block max-w-45 text-xs">{loc || '-'}</LongText>
       }
     },
     {

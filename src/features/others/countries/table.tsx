@@ -4,7 +4,7 @@ import { useMemo } from 'react'
 import { flexRender, getCoreRowModel, useReactTable } from '@tanstack/react-table'
 import { useTranslations } from 'next-intl'
 
-import { DataTablePagination, DataTableSkeleton, DataTableToolbar } from '@/components/data-table'
+import { DataTableLoadingOverlay, DataTablePagination, DataTableSkeleton, DataTableToolbar } from '@/components/data-table'
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '@/components/ui/table'
 import { useCountry } from '@/contexts/others/country.context'
 import { useCountriesPaginatedQuery } from '@/hooks/others/use-countries'
@@ -96,18 +96,13 @@ export function CountriesTable(): ReactElement {
   })
 
   const showSkeleton = isLoading || (isFetching && records.length === 0)
-  const isTableRefreshing = isFetching || isUpdating
 
   return (
     <div className="space-y-4">
-      <DataTableToolbar table={table} searchPlaceholder="Cari negara..." onReset={resetFilters} />
+      <DataTableToolbar table={table} searchPlaceholder={tCommon('actions.search')} onReset={resetFilters} />
 
       <div className="bg-card relative overflow-hidden rounded-md border-0 shadow-xs">
-        {isTableRefreshing && !showSkeleton && (
-          <div className="bg-primary/20 absolute top-0 right-0 left-0 z-20 h-0.5 overflow-hidden">
-            <div className="bg-primary h-full w-full animate-pulse" />
-          </div>
-        )}
+        <DataTableLoadingOverlay isUpdating={isUpdating} text={tCommon('status.loading')} />
 
         <div className="overflow-x-auto">
           {showSkeleton ? (

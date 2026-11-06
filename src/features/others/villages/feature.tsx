@@ -36,6 +36,7 @@ function VillagesContent(): ReactElement {
   return (
     <div className="space-y-4 sm:space-y-6">
       <PageHeader title={t('title')} description={t('subtitle')} icon={MapPin} actions={<VillagesPrimaryButtons />} />
+
       <SectionCard>
         <VillagesTable />
       </SectionCard>

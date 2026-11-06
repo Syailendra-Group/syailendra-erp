@@ -1,8 +1,3 @@
-/**
- * feature.tsx — Container component for Supplier Categories feature
- * Syailendra Group ERP (SCM Pillar)
- */
-
 'use client'
 
 import { FolderTree, Plus } from 'lucide-react'
@@ -13,7 +8,6 @@ import { PageHeader } from '@/components/shared/page-header'
 import { Button } from '@/components/ui/button'
 
 import { SupplierCategoryDialogs } from './dialogs'
-import { SupplierCategoryFormDialog } from './form'
 import { SupplierCategoryProvider, useSupplierCategoryContext } from './supplier-category.context'
 import { SupplierCategoriesTable } from './table'
 
@@ -41,7 +35,6 @@ function SupplierCategoryContent() {
         <SupplierCategoriesTable />
       </SectionCard>
 
-      <SupplierCategoryFormDialog />
       <SupplierCategoryDialogs />
     </div>
   )

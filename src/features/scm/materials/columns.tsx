@@ -1,9 +1,3 @@
-/**
- * columns.tsx — Standardized TanStack Table columns for Material Master
- * Syailendra Group ERP (SCM Pillar)
- * Complies with octadev-coding-rules-v84
- */
-
 'use client'
 
 import { ColumnDef } from '@tanstack/react-table'
@@ -39,15 +33,9 @@ export function getColumns({ t, tCommon, onView, onEdit, onToggleStatus, onDelet
       cell: ({ row }) => {
         const item = row.original
         return (
-          <div className="flex max-w-[220px] flex-col gap-0.5">
-            <span className="text-xs font-semibold tracking-tight">
-              <LongText>{item.name}</LongText>
-            </span>
-            {item.botanical_name && (
-              <span className="text-muted-foreground text-[10px] italic">
-                <LongText>{item.botanical_name}</LongText>
-              </span>
-            )}
+          <div className="flex max-w-55 flex-col gap-0.5">
+            <LongText className="text-xs font-semibold tracking-tight">{item.name}</LongText>
+            {item.botanical_name && <LongText className="text-muted-foreground text-[10px] italic">{item.botanical_name}</LongText>}
           </div>
         )
       },
@@ -57,7 +45,7 @@ export function getColumns({ t, tCommon, onView, onEdit, onToggleStatus, onDelet
       accessorKey: 'category',
       header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.columns.category')} />,
       cell: ({ row }) => (
-        <Badge variant="outline" className="max-w-[160px] text-[10px] font-normal">
+        <Badge variant="outline" className="max-w-40  text-[10px] font-normal">
           <LongText>{row.original.category}</LongText>
         </Badge>
       )

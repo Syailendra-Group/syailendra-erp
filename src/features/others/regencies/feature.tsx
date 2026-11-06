@@ -36,9 +36,11 @@ function RegenciesContent(): ReactElement {
   return (
     <div className="space-y-4 sm:space-y-6">
       <PageHeader title={t('title')} description={t('subtitle')} icon={Building2} actions={<RegenciesPrimaryButtons />} />
+
       <SectionCard>
         <RegenciesTable />
       </SectionCard>
+
       <RegenciesDialogs />
     </div>
   )

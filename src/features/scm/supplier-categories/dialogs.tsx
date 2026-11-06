@@ -14,6 +14,7 @@ import { Badge } from '@/components/ui/badge'
 import { Dialog, DialogContent, DialogDescription, DialogHeader, DialogTitle } from '@/components/ui/dialog'
 import { useDeleteSupplierCategory } from '@/hooks/scm/use-supplier-categories'
 
+import { SupplierCategoryFormDialog } from './form'
 import { useSupplierCategoryContext } from './supplier-category.context'
 
 export function SupplierCategoryDialogs() {
@@ -95,6 +96,9 @@ export function SupplierCategoryDialogs() {
           )}
         </DialogContent>
       </Dialog>
+
+      {/* Form Dialog */}
+      <SupplierCategoryFormDialog />
 
       {/* Delete Confirmation Dialog */}
       <ConfirmDialog

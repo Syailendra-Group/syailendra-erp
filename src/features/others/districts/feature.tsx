@@ -16,6 +16,7 @@ import type { ReactElement } from 'react'
 function DistrictsPrimaryButtons(): ReactElement {
   const { setOpen, setCurrentRow } = useDistrict()
   const t = useTranslations('others.districts')
+
   return (
     <Button
       onClick={() => {
@@ -36,9 +37,11 @@ function DistrictsContent(): ReactElement {
   return (
     <div className="space-y-4 sm:space-y-6">
       <PageHeader title={t('title')} description={t('subtitle')} icon={Compass} actions={<DistrictsPrimaryButtons />} />
+
       <SectionCard>
         <DistrictsTable />
       </SectionCard>
+
       <DistrictsDialogs />
     </div>
   )

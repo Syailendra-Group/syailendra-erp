@@ -1,0 +1,102 @@
+{
+  "title": "Sesi Panen Lapangan",
+  "subtitle": "Pencatatan penimbangan basah daun, ranting, dan bunga atsiri dari kebun petani binaan",
+  "actions": {
+    "create": "Catat Sesi Panen",
+    "edit": "Ubah Sesi Panen",
+    "delete": "Hapus Sesi Panen",
+    "view": "Lihat Rincian",
+    "filter": "Filter Sesi Panen",
+    "recordDistillation": "Proses ke Ketel Suling"
+  },
+  "table": {
+    "columns": {
+      "ref": "Kode Panen",
+      "lot": "Nomor Lot",
+      "date": "Tanggal Panen",
+      "commodity": "Komoditas",
+      "farmer": "Petani / Kelompok",
+      "weight": "Berat Basah (Kg)",
+      "moisture": "Kadar Air",
+      "yield": "Estimasi Rendemen",
+      "location": "Lokasi Kebun",
+      "status": "Status",
+      "actions": "Aksi"
+    },
+    "status": {
+      "received": "Diterima di Gudang",
+      "ready": "Siap Disuling",
+      "distilled": "Selesai Disuling",
+      "cancelled": "Dibatalkan"
+    },
+    "emptyState": "Belum ada sesi panen yang tercatat di sistem.",
+    "noResults": "Tidak ditemukan sesi panen yang cocok dengan filter pencarian."
+  },
+  "form": {
+    "createTitle": "Catat Sesi Panen Baru",
+    "createDescription": "Lengkapi penimbangan daun basah, identitas kebun, dan nomor lot hulu.",
+    "editTitle": "Ubah Data Sesi Panen",
+    "editDescription": "Perbarui catatan timbangan, petani asal, atau kondisi fisik daun.",
+    "sections": {
+      "identity": "Identitas Panen",
+      "origin": "Asal Petani & Kebun",
+      "weightQuality": "Parameter Timbangan & Mutu Fisik",
+      "generatedLot": "Lot Bahan Baku Dihasilkan"
+    },
+    "fields": {
+      "ref": "Kode Sesi Panen",
+      "refPlaceholder": "Contoh: HAR-20261106-001",
+      "name": "Nomor Lot Bahan Baku",
+      "namePlaceholder": "Contoh: LOT-RAW-20261106-01",
+      "productId": "Komoditas Atsiri",
+      "productIdPlaceholder": "Pilih komoditas atsiri...",
+      "partnerId": "Petani / Pemasok Daun",
+      "partnerIdPlaceholder": "Pilih petani binaan...",
+      "harvestDate": "Tanggal & Waktu Panen",
+      "harvestDatePlaceholder": "YYYY-MM-DD",
+      "netWeightKg": "Berat Bersih Timbangan (Kg)",
+      "netWeightKgPlaceholder": "Contoh: 1250",
+      "moisturePercent": "Kadar Air Daun (%)",
+      "moisturePercentPlaceholder": "Contoh: 14.5",
+      "expectedYieldPercent": "Estimasi Rendemen (%)",
+      "expectedYieldPercentPlaceholder": "Contoh: 2.50",
+      "plantationLocation": "Nama Petak / Blok Kebun",
+      "plantationLocationPlaceholder": "Contoh: Petak A-12, Lereng Gunung Muria",
+      "gpsLatitude": "Koordinat Latitude GPS",
+      "gpsLatitudePlaceholder": "Contoh: -6.712345",
+      "gpsLongitude": "Koordinat Longitude GPS",
+      "gpsLongitudePlaceholder": "Contoh: 111.456789",
+      "status": "Status Sesi Panen",
+      "notes": "Catatan Kondisi Fisik",
+      "notesPlaceholder": "Catatan kebersihan daun, aroma, atau waktu layu..."
+    },
+    "buttons": {
+      "save": "Simpan Sesi Panen",
+      "saving": "Menyimpan...",
+      "cancel": "Batal"
+    }
+  },
+  "dialog": {
+    "viewTitle": "Rincian Sesi Panen Lapangan",
+    "viewDescription": "Informasi lengkap asal kebun, timbangan basah, dan lot bahan baku.",
+    "deleteTitle": "Hapus Sesi Panen",
+    "deleteDescription": "Apakah Anda yakin ingin menghapus data panen {ref}? Tindakan ini tidak dapat dibatalkan jika lot belum diproses ke ketel."
+  },
+  "validation": {
+    "refMin": "Kode sesi panen minimal 3 karakter",
+    "refMax": "Kode sesi panen tidak boleh melebihi 32 karakter",
+    "lotMin": "Nomor lot minimal 3 karakter",
+    "lotMax": "Nomor lot tidak boleh melebihi 32 karakter",
+    "commodityRequired": "Komoditas atsiri wajib dipilih",
+    "farmerRequired": "Petani / pemasok wajib dipilih",
+    "dateRequired": "Tanggal panen wajib diisi",
+    "weightMin": "Berat timbangan minimal 0.1 Kg"
+  },
+  "toast": {
+    "createSuccess": "Sesi panen baru berhasil dicatat",
+    "updateSuccess": "Data sesi panen berhasil diperbarui",
+    "deleteSuccess": "Data sesi panen berhasil dihapus",
+    "deleteError": "Gagal memproses data sesi panen",
+    "deleteErrorRelational": "Sesi panen ini tidak dapat dihapus karena lot bahan baku sudah masuk proses penyulingan di ketel."
+  }
+}

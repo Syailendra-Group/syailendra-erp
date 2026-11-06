@@ -27,6 +27,7 @@ import enVillages from '@/messages/en/others/villages.json'
 import enScmDemo from '@/messages/en/scm/demo.json'
 import enTraceDistillers from '@/messages/en/scm/distillers.json'
 import enTraceFarmers from '@/messages/en/scm/farmers.json'
+import enHarvest from '@/messages/en/scm/harvest.json'
 import enMaterials from '@/messages/en/scm/materials.json'
 import enTraceOverview from '@/messages/en/scm/overview.json'
 import enPublicTrace from '@/messages/en/scm/public-trace.json'
@@ -55,6 +56,7 @@ import idVillages from '@/messages/id/others/villages.json'
 import idScmDemo from '@/messages/id/scm/demo.json'
 import idTraceDistillers from '@/messages/id/scm/distillers.json'
 import idTraceFarmers from '@/messages/id/scm/farmers.json'
+import idHarvest from '@/messages/id/scm/harvest.json'
 import idMaterials from '@/messages/id/scm/materials.json'
 import idTraceOverview from '@/messages/id/scm/overview.json'
 import idPublicTrace from '@/messages/id/scm/public-trace.json'
@@ -82,6 +84,7 @@ const messagesMap = {
       materials: idMaterials,
       supplierCategories: idSupplierCategories,
       suppliers: idSuppliers,
+      harvest: idHarvest,
       demo: idScmDemo
     },
     traceability: {
@@ -141,6 +144,7 @@ const messagesMap = {
       materials: enMaterials,
       supplierCategories: enSupplierCategories,
       suppliers: enSuppliers,
+      harvest: enHarvest,
       demo: enScmDemo
     },
     traceability: {

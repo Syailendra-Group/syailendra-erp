@@ -4,7 +4,7 @@ import { useMemo } from 'react'
 import { flexRender, getCoreRowModel, useReactTable } from '@tanstack/react-table'
 import { useTranslations } from 'next-intl'
 
-import { DataTablePagination, DataTableSkeleton, DataTableToolbar } from '@/components/data-table'
+import { DataTableLoadingOverlay, DataTablePagination, DataTableSkeleton, DataTableToolbar } from '@/components/data-table'
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '@/components/ui/table'
 import { useRegency } from '@/contexts/others/regency.context'
 import { useRegenciesPaginatedQuery, useRegencyFilterOptionsQuery } from '@/hooks/others/use-regencies'
@@ -21,6 +21,7 @@ const FILTER_KEYS = ['scope', 'country', 'province']
 export function RegenciesTable(): ReactElement {
   const t = useTranslations('others.regencies')
   const tCommon = useTranslations('common')
+  const tReg = useTranslations('regional.common')
   const { setOpen, setCurrentRow } = useRegency()
 
   const {
@@ -109,10 +110,10 @@ export function RegenciesTable(): ReactElement {
 
   const scopeOptions = useMemo(
     () => [
-      { label: 'Indonesia (Domestik)', value: 'domestic' },
-      { label: 'Luar Negeri (Internasional)', value: 'foreign' }
+      { label: tReg('domestic'), value: 'domestic' },
+      { label: tReg('international'), value: 'foreign' }
     ],
-    []
+    [tReg]
   )
 
   const countryFilterOptions = useMemo(
@@ -126,31 +127,26 @@ export function RegenciesTable(): ReactElement {
   )
 
   const showSkeleton = isLoading || (isFetching && records.length === 0)
-  const isTableRefreshing = isFetching || isUpdating
 
   return (
     <div className="space-y-4">
       <DataTableToolbar
         table={table}
-        searchPlaceholder="Cari kabupaten / kota..."
+        searchPlaceholder={tCommon('actions.search')}
         onReset={resetFilters}
         filters={[
           {
             columnId: 'scope',
-            title: 'Cakupan Wilayah',
+            title: tReg('category'),
             options: scopeOptions
           },
-          ...(countryFilterOptions.length > 0 ? [{ columnId: 'country', title: 'Negara', options: countryFilterOptions }] : []),
-          ...(provinceFilterOptions.length > 0 ? [{ columnId: 'province', title: 'Provinsi', options: provinceFilterOptions }] : [])
+          ...(countryFilterOptions.length > 0 ? [{ columnId: 'country', title: tReg('fields.country'), options: countryFilterOptions }] : []),
+          ...(provinceFilterOptions.length > 0 ? [{ columnId: 'province', title: tReg('selectProvince'), options: provinceFilterOptions }] : [])
         ]}
       />
 
       <div className="bg-card relative overflow-hidden rounded-md border-0 shadow-xs">
-        {isTableRefreshing && !showSkeleton && (
-          <div className="bg-primary/20 absolute top-0 right-0 left-0 z-20 h-0.5 overflow-hidden">
-            <div className="bg-primary h-full w-full animate-pulse" />
-          </div>
-        )}
+        <DataTableLoadingOverlay isUpdating={isUpdating} text={tCommon('status.loading')} />
 
         <div className="overflow-x-auto">
           {showSkeleton ? (

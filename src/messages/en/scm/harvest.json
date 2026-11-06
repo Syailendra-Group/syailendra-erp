@@ -1,0 +1,102 @@
+{
+  "title": "Field Harvest Sessions",
+  "subtitle": "Recording of wet leaf, twig, and flower weight intake from partner plantations",
+  "actions": {
+    "create": "Record Harvest Session",
+    "edit": "Edit Harvest Session",
+    "delete": "Delete Harvest Session",
+    "view": "View Details",
+    "filter": "Filter Harvest Sessions",
+    "recordDistillation": "Proceed to Distillation Kettle"
+  },
+  "table": {
+    "columns": {
+      "ref": "Harvest Code",
+      "lot": "Lot Number",
+      "date": "Harvest Date",
+      "commodity": "Commodity",
+      "farmer": "Farmer / Group",
+      "weight": "Wet Weight (Kg)",
+      "moisture": "Moisture Level",
+      "yield": "Expected Yield",
+      "location": "Plantation Plot",
+      "status": "Status",
+      "actions": "Actions"
+    },
+    "status": {
+      "received": "Received at Warehouse",
+      "ready": "Ready for Distillation",
+      "distilled": "Distillation Complete",
+      "cancelled": "Cancelled"
+    },
+    "emptyState": "No harvest sessions recorded in the system yet.",
+    "noResults": "No harvest sessions match the search filters."
+  },
+  "form": {
+    "createTitle": "Record New Harvest Session",
+    "createDescription": "Record wet biomass scale weight, plantation origin, and raw lot generation.",
+    "editTitle": "Edit Harvest Session",
+    "editDescription": "Update scale weight, origin farmer, or leaf physical condition.",
+    "sections": {
+      "identity": "Harvest Batch Identity",
+      "origin": "Farmer & Plantation Origin",
+      "weightQuality": "Scale Weight & Physical Quality",
+      "generatedLot": "Generated Raw Material Lot"
+    },
+    "fields": {
+      "ref": "Harvest Session Code",
+      "refPlaceholder": "e.g. HAR-20261106-001",
+      "name": "Raw Material Lot Number",
+      "namePlaceholder": "e.g. LOT-RAW-20261106-01",
+      "productId": "Essential Oil Commodity",
+      "productIdPlaceholder": "Select commodity...",
+      "partnerId": "Origin Farmer / Vendor",
+      "partnerIdPlaceholder": "Select partner farmer...",
+      "harvestDate": "Harvest Date & Time",
+      "harvestDatePlaceholder": "YYYY-MM-DD",
+      "netWeightKg": "Net Scale Weight (Kg)",
+      "netWeightKgPlaceholder": "e.g. 1250",
+      "moisturePercent": "Leaf Moisture (%)",
+      "moisturePercentPlaceholder": "e.g. 14.5",
+      "expectedYieldPercent": "Expected Yield (%)",
+      "expectedYieldPercentPlaceholder": "e.g. 2.50",
+      "plantationLocation": "Plantation Block / Plot Name",
+      "plantationLocationPlaceholder": "e.g. Plot A-12, Mount Muria Slopes",
+      "gpsLatitude": "GPS Latitude Coordinate",
+      "gpsLatitudePlaceholder": "e.g. -6.712345",
+      "gpsLongitude": "GPS Longitude Coordinate",
+      "gpsLongitudePlaceholder": "e.g. 111.456789",
+      "status": "Harvest Session Status",
+      "notes": "Physical Condition Notes",
+      "notesPlaceholder": "Notes on leaf cleanliness, wilting hours, or aroma..."
+    },
+    "buttons": {
+      "save": "Save Harvest Session",
+      "saving": "Saving...",
+      "cancel": "Cancel"
+    }
+  },
+  "dialog": {
+    "viewTitle": "Field Harvest Session Details",
+    "viewDescription": "Complete information on plantation origin, scale weight, and raw lot.",
+    "deleteTitle": "Delete Harvest Session",
+    "deleteDescription": "Are you sure you want to delete harvest session {ref}? This action cannot be undone if the lot is not yet processed."
+  },
+  "validation": {
+    "refMin": "Harvest session code must be at least 3 characters",
+    "refMax": "Harvest session code cannot exceed 32 characters",
+    "lotMin": "Lot number must be at least 3 characters",
+    "lotMax": "Lot number cannot exceed 32 characters",
+    "commodityRequired": "Essential oil commodity must be selected",
+    "farmerRequired": "Farmer or supplier must be selected",
+    "dateRequired": "Harvest date is required",
+    "weightMin": "Scale weight must be at least 0.1 Kg"
+  },
+  "toast": {
+    "createSuccess": "New harvest session successfully recorded",
+    "updateSuccess": "Harvest session details successfully updated",
+    "deleteSuccess": "Harvest session successfully deleted",
+    "deleteError": "Failed to process harvest session",
+    "deleteErrorRelational": "This harvest session cannot be deleted because the raw material lot has already entered distillation kettle processing."
+  }
+}

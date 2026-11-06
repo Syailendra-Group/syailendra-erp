@@ -1,11 +1,13 @@
 'use client'
 
 import { useMemo } from 'react'
+import { useRouter } from 'next/navigation'
 import { flexRender, getCoreRowModel, useReactTable } from '@tanstack/react-table'
 import { useTranslations } from 'next-intl'
 
 import { DataTableLoadingOverlay, DataTablePagination, DataTableSkeleton, DataTableToolbar } from '@/components/data-table'
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '@/components/ui/table'
+import { useFarmers } from '@/contexts/scm/farmer.context'
 import { getColumns } from '@/features/scm/farmers/columns'
 import { useFarmersPaginatedQuery } from '@/hooks/scm/use-farmers'
 import { useDataTableUrlState } from '@/hooks/use-data-table-url-state'
@@ -19,7 +21,27 @@ export function FarmersTable(): ReactElement {
   const tTrace = useTranslations('scm.farmers')
   const tCommon = useTranslations('common')
 
-  const columns = useMemo(() => getColumns({ tTrace, tCommon }), [tTrace, tCommon])
+  const router = useRouter()
+  const { setOpen, setCurrentRow } = useFarmers()
+
+  const columns = useMemo(
+    () =>
+      getColumns({
+        tTrace,
+        tCommon,
+        onView: (farmer) => {
+          router.push(`/scm/farmers/${farmer.id}`)
+        },
+        onEdit: (farmer) => {
+          router.push(`/scm/farmers/${farmer.id}/edit`)
+        },
+        onDelete: (farmer) => {
+          setCurrentRow(farmer)
+          setOpen('archive')
+        }
+      }),
+    [tTrace, tCommon, router, setCurrentRow, setOpen]
+  )
 
   // Hook manages all URL parsing, pagination, sorting & filter state
   const {

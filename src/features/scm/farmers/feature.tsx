@@ -15,6 +15,7 @@ import type { ReactElement } from 'react'
 
 function FarmersPrimaryButtons(): ReactElement {
   const tTrace = useTranslations('scm.farmers')
+
   return (
     <Button asChild className="gap-2 font-semibold">
       <Link href="/scm/farmers/create">
@@ -31,6 +32,7 @@ function FarmersContent(): ReactElement {
   return (
     <div className="space-y-4 sm:space-y-6">
       <PageHeader title={tTrace('title')} description={tTrace('subtitle')} icon={Users} actions={<FarmersPrimaryButtons />} />
+
       <SectionCard>
         <FarmersTable />
       </SectionCard>

@@ -1,8 +1,3 @@
-/**
- * feature.tsx — Feature container component for Material Master
- * Syailendra Group ERP — SCM Pillar
- */
-
 'use client'
 
 import { Box, Droplet, Layers, Plus, Sparkles } from 'lucide-react'

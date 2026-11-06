@@ -4,7 +4,7 @@ import { useMemo } from 'react'
 import { flexRender, getCoreRowModel, useReactTable } from '@tanstack/react-table'
 import { useTranslations } from 'next-intl'
 
-import { DataTablePagination, DataTableSkeleton, DataTableToolbar } from '@/components/data-table'
+import { DataTableLoadingOverlay, DataTablePagination, DataTableSkeleton, DataTableToolbar } from '@/components/data-table'
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '@/components/ui/table'
 import { useDistrict } from '@/contexts/others/district.context'
 import { useDistrictFilterOptionsQuery, useDistrictsPaginatedQuery } from '@/hooks/others/use-districts'
@@ -21,6 +21,7 @@ const FILTER_KEYS = ['scope', 'country', 'province', 'city']
 export function DistrictsTable(): ReactElement {
   const t = useTranslations('others.districts')
   const tCommon = useTranslations('common')
+  const tReg = useTranslations('regional.common')
   const { setOpen, setCurrentRow } = useDistrict()
 
   const {
@@ -111,10 +112,10 @@ export function DistrictsTable(): ReactElement {
 
   const scopeOptions = useMemo(
     () => [
-      { label: 'Indonesia (Domestik)', value: 'domestic' },
-      { label: 'Luar Negeri (Internasional)', value: 'foreign' }
+      { label: tReg('domestic'), value: 'domestic' },
+      { label: tReg('international'), value: 'foreign' }
     ],
-    []
+    [tReg]
   )
 
   const countryFilterOptions = useMemo(
@@ -130,32 +131,27 @@ export function DistrictsTable(): ReactElement {
   const cityFilterOptions = useMemo(() => (filterOptions?.cities || []).map((c) => ({ label: c.name, value: String(c.id) })), [filterOptions?.cities])
 
   const showSkeleton = isLoading || (isFetching && records.length === 0)
-  const isTableRefreshing = isFetching || isUpdating
 
   return (
     <div className="space-y-4">
       <DataTableToolbar
         table={table}
-        searchPlaceholder="Cari kecamatan..."
+        searchPlaceholder={tCommon('actions.search')}
         onReset={resetFilters}
         filters={[
           {
             columnId: 'scope',
-            title: 'Cakupan Wilayah',
+            title: tReg('category'),
             options: scopeOptions
           },
-          ...(countryFilterOptions.length > 0 ? [{ columnId: 'country', title: 'Negara', options: countryFilterOptions }] : []),
-          ...(provinceFilterOptions.length > 0 ? [{ columnId: 'province', title: 'Provinsi', options: provinceFilterOptions }] : []),
+          ...(countryFilterOptions.length > 0 ? [{ columnId: 'country', title: tReg('fields.country'), options: countryFilterOptions }] : []),
+          ...(provinceFilterOptions.length > 0 ? [{ columnId: 'province', title: tReg('selectProvince'), options: provinceFilterOptions }] : []),
           ...(cityFilterOptions.length > 0 ? [{ columnId: 'city', title: 'Kabupaten/Kota', options: cityFilterOptions }] : [])
         ]}
       />
 
       <div className="bg-card relative overflow-hidden rounded-md border-0 shadow-xs">
-        {isTableRefreshing && !showSkeleton && (
-          <div className="bg-primary/20 absolute top-0 right-0 left-0 z-20 h-0.5 overflow-hidden">
-            <div className="bg-primary h-full w-full animate-pulse" />
-          </div>
-        )}
+        <DataTableLoadingOverlay isUpdating={isUpdating} text={tCommon('status.loading')} />
 
         <div className="overflow-x-auto">
           {showSkeleton ? (

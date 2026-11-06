@@ -16,6 +16,7 @@ import type { ReactElement } from 'react'
 function CountriesPrimaryButtons(): ReactElement {
   const { setOpen, setCurrentRow } = useCountry()
   const t = useTranslations('others.countries')
+
   return (
     <Button
       onClick={() => {
@@ -36,9 +37,11 @@ function CountriesContent(): ReactElement {
   return (
     <div className="space-y-4 sm:space-y-6">
       <PageHeader title={t('title')} description={t('subtitle')} icon={Globe} actions={<CountriesPrimaryButtons />} />
+
       <SectionCard>
         <CountriesTable />
       </SectionCard>
+
       <CountriesDialogs />
     </div>
   )

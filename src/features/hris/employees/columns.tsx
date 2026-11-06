@@ -1,9 +1,3 @@
-/**
- * columns.tsx — Standardized TanStack Table columns for Employees
- * Syailendra Group ERP (HRIS Pillar)
- * Complies with octadev-coding-rules-v84
- */
-
 'use client'
 
 import { Building, Mail, Phone } from 'lucide-react'

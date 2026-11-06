@@ -26,21 +26,13 @@ export function getColumns({ t, tCommon, onView, onEdit, onDelete }: GetColumnsO
     {
       accessorKey: 'name',
       header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.name')} />,
-      cell: ({ row }) => (
-        <span className="text-foreground block max-w-[200px] text-xs font-semibold sm:text-sm">
-          <LongText>{row.original.name}</LongText>
-        </span>
-      ),
+      cell: ({ row }) => <LongText className="text-muted-foreground block max-w-50 text-xs">{row.original.name}</LongText>,
       enableSorting: true
     },
     {
       accessorKey: 'alias',
       header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.alias') || 'Alias'} />,
-      cell: ({ row }) => (
-        <span className="text-muted-foreground block max-w-[150px] text-xs">
-          <LongText>{row.original.alias || '-'}</LongText>
-        </span>
-      ),
+      cell: ({ row }) => <LongText className="text-muted-foreground block max-w-50 text-xs">{row.original.alias || '-'}</LongText>,
       enableSorting: true
     },
     {

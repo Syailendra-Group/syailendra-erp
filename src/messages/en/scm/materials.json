@@ -111,7 +111,8 @@
       "uom": "UoM",
       "shelfLife": "Shelf Life",
       "tracking": "Tracking",
-      "actions": "Actions"
+      "actions": "Actions",
+      "statusLabel": "Status"
     },
     "emptyState": "No materials registered yet.",
     "filters": {

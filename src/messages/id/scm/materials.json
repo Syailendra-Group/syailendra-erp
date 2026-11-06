@@ -111,7 +111,8 @@
       "uom": "Satuan",
       "shelfLife": "Masa Simpan",
       "tracking": "Pelacakan",
-      "actions": "Aksi"
+      "actions": "Aksi",
+      "statusLabel": "Status"
     },
     "emptyState": "Belum ada material yang terdaftar.",
     "filters": {

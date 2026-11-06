@@ -2,6 +2,7 @@
 
 import { ActionButton } from '@/components/button/action-button'
 import { DataTableColumnHeader } from '@/components/data-table/column-header'
+import { LongText, PrimaryText } from '@/components/text'
 
 import type { CountryRecord } from '@/types/others/country'
 import type { ColumnDef } from '@tanstack/react-table'
@@ -19,13 +20,17 @@ export function getColumns({ t, tCommon, onView, onEdit, onDelete }: GetColumnsO
     {
       accessorKey: 'code',
       header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.code')} />,
-      cell: ({ row }) => <span className="text-primary font-mono text-xs font-semibold">{row.original.code || '-'}</span>,
+      cell: ({ row }) => <PrimaryText fallback="-">{row.original.code}</PrimaryText>,
       enableSorting: true
     },
     {
       accessorKey: 'name',
       header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.name')} />,
-      cell: ({ row }) => <span className="text-foreground text-xs font-semibold sm:text-sm">{row.original.name}</span>,
+      cell: ({ row }) => (
+        <span className="text-foreground block max-w-[200px] text-xs font-semibold sm:text-sm">
+          <LongText>{row.original.name}</LongText>
+        </span>
+      ),
       enableSorting: true
     },
     {

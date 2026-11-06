@@ -2,6 +2,7 @@
 
 import { ActionButton } from '@/components/button/action-button'
 import { DataTableColumnHeader } from '@/components/data-table/column-header'
+import { LongText, PrimaryText } from '@/components/text'
 
 import type { ProvinceRecord } from '@/types/others/province'
 import type { ColumnDef } from '@tanstack/react-table'
@@ -19,19 +20,27 @@ export function getColumns({ t, tCommon, onView, onEdit, onDelete }: GetColumnsO
     {
       accessorKey: 'code',
       header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.code')} />,
-      cell: ({ row }) => <span className="text-primary font-mono text-xs font-semibold">{row.original.code || '-'}</span>,
+      cell: ({ row }) => <PrimaryText fallback="-">{row.original.code}</PrimaryText>,
       enableSorting: true
     },
     {
       accessorKey: 'name',
       header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.name')} />,
-      cell: ({ row }) => <span className="text-foreground text-xs font-semibold sm:text-sm">{row.original.name}</span>,
+      cell: ({ row }) => (
+        <span className="text-foreground block max-w-[200px] text-xs font-semibold sm:text-sm">
+          <LongText>{row.original.name}</LongText>
+        </span>
+      ),
       enableSorting: true
     },
     {
       accessorKey: 'alias',
       header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.alias') || 'Alias'} />,
-      cell: ({ row }) => <span className="text-muted-foreground text-xs">{row.original.alias || '-'}</span>,
+      cell: ({ row }) => (
+        <span className="text-muted-foreground block max-w-[150px] text-xs">
+          <LongText>{row.original.alias || '-'}</LongText>
+        </span>
+      ),
       enableSorting: true
     },
     {
@@ -39,7 +48,11 @@ export function getColumns({ t, tCommon, onView, onEdit, onDelete }: GetColumnsO
       header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.country')} />,
       cell: ({ row }) => {
         const country = row.original.country_id
-        return <span className="text-muted-foreground text-xs">{country ? country[1] : '-'}</span>
+        return (
+          <span className="text-muted-foreground block max-w-[150px] text-xs">
+            <LongText>{country ? country[1] : '-'}</LongText>
+          </span>
+        )
       }
     },
     {

@@ -63,7 +63,7 @@ export const sidebarData: SidebarData = {
     }
   ],
   navGroups: {
-    // 1. MAIN PILLAR
+    // Core Pillar Navigation
     main: [
       {
         titleKey: 'groups.main_ops',
@@ -75,7 +75,7 @@ export const sidebarData: SidebarData = {
       }
     ],
 
-    // 2. TRACEABILITY PILLAR
+    // Traceability Pillar Navigation
     scm: [
       {
         titleKey: 'groups.master_scm',
@@ -110,7 +110,7 @@ export const sidebarData: SidebarData = {
       }
     ],
 
-    // 3. WMS PILLAR
+    // Warehouse Pillar Navigation
     wms: [
       {
         titleKey: 'groups.warehouse_ops',
@@ -125,7 +125,7 @@ export const sidebarData: SidebarData = {
       }
     ],
 
-    // 4. CRM PILLAR
+    // CRM Pillar Navigation
     crm: [
       {
         titleKey: 'groups.commercial_ops',
@@ -140,7 +140,7 @@ export const sidebarData: SidebarData = {
       }
     ],
 
-    // 5. HRIS PILLAR
+    // Human Resources Pillar Navigation
     hris: [
       {
         titleKey: 'groups.workforce_ops',
@@ -154,7 +154,7 @@ export const sidebarData: SidebarData = {
       }
     ],
 
-    // 6. OTHERS PILLAR
+    // Master Regional Pillar Navigation
     others: [
       {
         titleKey: 'groups.overview',

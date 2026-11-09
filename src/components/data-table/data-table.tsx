@@ -27,9 +27,9 @@ export interface DataTableProps<TData> {
   searchPlaceholder?: string
   /** Callback reset filter */
   onReset?: () => void
-  /** Override jumlah kolom skeleton (default: hitung dari visible columns) */
+  /** Override skeleton column count (default: calculated from visible columns) */
   columnCount?: number
-  /** Override jumlah baris skeleton (default: hitung dari pageSize) */
+  /** Override skeleton row count (default: calculated from pageSize) */
   rowCount?: number
   /** Pesan kustom ketika data kosong */
   emptyMessage?: string

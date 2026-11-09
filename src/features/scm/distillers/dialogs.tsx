@@ -52,7 +52,7 @@ export function DistillersDialogs(): ReactElement {
   return (
     <>
       <DistillersActionDialog />
-      {/* 1. View Detail Dialog with Standard DetailRow */}
+      {/* View Detail Dialog */}
       <Dialog
         open={isViewOpen}
         onOpenChange={(v) => {
@@ -103,7 +103,7 @@ export function DistillersDialogs(): ReactElement {
         </DialogContent>
       </Dialog>
 
-      {/* 2. Confirm Archive / Restore Dialog */}
+      {/* Confirmation Dialog */}
       <ConfirmDialog
         open={isArchiveOpen}
         onOpenChange={(v) => {

@@ -17,13 +17,13 @@ export function useDataTableUrlState(options: UseDataTableUrlStateOptions = {}):
   const searchParams = useSearchParams()
   const [isPendingUrl, startTransition] = useTransition()
 
-  // 1. Read parameters directly from URL SearchParams
+  // Read parameters directly from URL search params
   const page = Number(searchParams.get('page')) || 1
   const perPage = Number(searchParams.get('per_page')) || defaultPerPage
   const search = searchParams.get('search') || ''
   const sort = searchParams.get('sort') || defaultSort
 
-  // 2. Helper to retrieve parsed array filter from URL
+  // Retrieve array filter values from URL search params
   const getArrayFilter = useCallback(
     (key: string): string[] => {
       const val = searchParams.get(key)
@@ -32,7 +32,7 @@ export function useDataTableUrlState(options: UseDataTableUrlStateOptions = {}):
     [searchParams]
   )
 
-  // 3. Bi-directional URL synchronization helper
+  // Synchronize state changes to URL search params
   const updateUrl = useCallback(
     (updates: Record<string, string | number | undefined | null>) => {
       const query = buildTableQueryString(searchParams, updates)
@@ -45,14 +45,14 @@ export function useDataTableUrlState(options: UseDataTableUrlStateOptions = {}):
     [pathname, router, searchParams]
   )
 
-  // 4. Instant toolbar reset handler
+  // Reset table toolbar filters and pagination
   const resetFilters = useCallback(() => {
     startTransition(() => {
       router.replace(pathname, { scroll: false })
     })
   }, [pathname, router])
 
-  // 5. TanStack Table State adapters
+  // TanStack Table state adapters
   const pagination: PaginationState = useMemo(
     () => ({
       pageIndex: Math.max(0, page - 1),
@@ -91,7 +91,7 @@ export function useDataTableUrlState(options: UseDataTableUrlStateOptions = {}):
     return filters
   }, [filterKeys, searchParams])
 
-  // 6. Translate table sorting to Odoo ORM order format (e.g. 'name desc', 'ref asc')
+  // Translate table sorting to Odoo ORM order syntax
   const orderOdoo = useMemo(() => {
     const s = sorting[0]
     if (!s) return 'ref asc'
@@ -99,7 +99,7 @@ export function useDataTableUrlState(options: UseDataTableUrlStateOptions = {}):
     return `${col} ${s.desc ? 'desc' : 'asc'}`
   }, [sorting])
 
-  // 7. Event Handler Helpers
+  // URL event handler adapters
   const onPaginationChange = useCallback(
     (updater: PaginationState | ((old: PaginationState) => PaginationState)) => {
       const next = typeof updater === 'function' ? updater(pagination) : updater

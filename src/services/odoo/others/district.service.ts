@@ -1,5 +1,5 @@
 /**
- * district.service.ts — Odoo 18 RPC Service for Districts (Kecamatan)
+ * district.service.ts — Odoo 18 RPC Service for Administrative Districts
  * Syailendra Group ERP
  */
 

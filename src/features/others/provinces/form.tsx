@@ -125,7 +125,7 @@ export function ProvinceForm({ currentRow, onSuccess }: ProvinceFormProps): Reac
   return (
     <Form {...form}>
       <form id="province-action-form" onSubmit={form.handleSubmit(onSubmit)} className="space-y-4 px-1">
-        {/* Kategori Wilayah Tabs */}
+        {/* Regional Category Tabs */}
         <div className="border-border/60 flex items-center justify-between border-b pb-1">
           <span className="text-foreground text-xs font-semibold">{t('form.category')}</span>
           <Tabs
@@ -152,7 +152,7 @@ export function ProvinceForm({ currentRow, onSuccess }: ProvinceFormProps): Reac
           </Tabs>
         </div>
 
-        {/* Mode Domestik: Langsung di SelectForm katalog */}
+        {/* Domestic Catalog Mode */}
         {isDomestic ? (
           <>
             <FormFieldWrapper id="catalog-bps" label={t('form.catalogLabel')} required>
@@ -181,7 +181,7 @@ export function ProvinceForm({ currentRow, onSuccess }: ProvinceFormProps): Reac
             )}
           </>
         ) : (
-          /* Mode Luar Negeri: Select Negara + Input Nama & Kode */
+          /* International Mode: Country Selection and Code Inputs */
           <>
             <FormFieldWrapper id="prov-country" label={t('form.foreignCountry')} required>
               <SelectForm
@@ -225,7 +225,7 @@ export function ProvinceForm({ currentRow, onSuccess }: ProvinceFormProps): Reac
           </>
         )}
 
-        {/* Input Nama Alias */}
+        {/* Alias Name Field */}
         <FormField
           control={form.control}
           name="alias"
@@ -240,7 +240,7 @@ export function ProvinceForm({ currentRow, onSuccess }: ProvinceFormProps): Reac
           )}
         />
 
-        {/* Input Deskripsi / Catatan */}
+        {/* Description and Notes Field */}
         <FormField
           control={form.control}
           name="description"

@@ -13,10 +13,10 @@ const intlMiddleware = createMiddleware(routing)
 export default function middleware(request: NextRequest): NextResponse {
   const { pathname } = request.nextUrl
 
-  // 1. Run next-intl middleware for locale negotiation
+  // Execute next-intl middleware for locale resolution
   const response = intlMiddleware(request)
 
-  // 2. Session cookie validation for protected routes
+  // Validate session authentication token for protected routes
   const sessionCookie = request.cookies.get('syailendra_session')?.value
   const isLoginPage = pathname === '/login' || pathname === '/en/login'
   const isPublicRoute = isLoginPage || pathname.includes('/trace') || pathname === '/' || pathname === '/en' || pathname === '/id'

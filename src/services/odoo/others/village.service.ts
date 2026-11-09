@@ -1,5 +1,5 @@
 /**
- * village.service.ts — Odoo 18 RPC Service for Villages (Kelurahan/Desa)
+ * village.service.ts — Odoo 18 RPC Service for Administrative Villages
  * Syailendra Group ERP
  */
 

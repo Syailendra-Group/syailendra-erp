@@ -42,7 +42,7 @@ export function EmployeesDialogs(): ReactElement {
 
   return (
     <>
-      {/* 1. View Detail Dialog Modal */}
+      {/* View Detail Dialog */}
       <Dialog
         open={open === 'view'}
         onOpenChange={(isOpen) => {
@@ -121,7 +121,7 @@ export function EmployeesDialogs(): ReactElement {
         </DialogContent>
       </Dialog>
 
-      {/* 2. Action Dialog (Create / Edit) directly defined in form.tsx */}
+      {/* Action Dialog Form */}
       <EmployeesActionDialog
         open={open === 'add' || open === 'edit'}
         onOpenChange={(isOpen) => {
@@ -139,7 +139,7 @@ export function EmployeesDialogs(): ReactElement {
         }}
       />
 
-      {/* 3. Archive / Reactivate Confirmation Dialog */}
+      {/* Confirmation Dialog */}
       <ConfirmDialog
         open={open === 'archive'}
         onOpenChange={(isOpen) => {

@@ -14,7 +14,7 @@ export interface RegencyCatalogItem {
 }
 
 export const INDONESIA_ALL_REGENCIES: RegencyCatalogItem[] = [
-  // JAWA TENGAH
+  // Central Java Region
   {
     name: 'Kabupaten Wonosobo',
     code: '33.07',
@@ -283,7 +283,7 @@ export const INDONESIA_ALL_REGENCIES: RegencyCatalogItem[] = [
   },
   { name: 'Kota Tegal', code: '33.76', alias: 'Kota Tegal', provinceName: 'Jawa Tengah', provinceCode: '33', latitude: -6.8694, longitude: 109.1403 },
 
-  // JAWA BARAT
+  // West Java Region
   {
     name: 'Kabupaten Bogor',
     code: '32.01',
@@ -551,7 +551,7 @@ export const INDONESIA_ALL_REGENCIES: RegencyCatalogItem[] = [
     longitude: 110.3695
   },
 
-  // JAWA TIMUR
+  // East Java Region
   {
     name: 'Kabupaten Pacitan',
     code: '35.01',
@@ -831,7 +831,7 @@ export const INDONESIA_ALL_REGENCIES: RegencyCatalogItem[] = [
   },
   { name: 'Kota Batu', code: '35.79', alias: 'Kota Batu', provinceName: 'Jawa Timur', provinceCode: '35', latitude: -7.87, longitude: 112.5264 },
 
-  // BALI & NUSA TENGGARA
+  // Bali and Nusa Tenggara Region
   { name: 'Kabupaten Jembrana', code: '51.01', alias: 'Jembrana', provinceName: 'Bali', provinceCode: '51', latitude: -8.3583, longitude: 114.65 },
   { name: 'Kabupaten Tabanan', code: '51.02', alias: 'Tabanan', provinceName: 'Bali', provinceCode: '51', latitude: -8.5411, longitude: 115.1242 },
   { name: 'Kabupaten Badung', code: '51.03', alias: 'Badung', provinceName: 'Bali', provinceCode: '51', latitude: -8.5833, longitude: 115.1833 },
@@ -850,7 +850,7 @@ export const INDONESIA_ALL_REGENCIES: RegencyCatalogItem[] = [
   { name: 'Kabupaten Buleleng', code: '51.08', alias: 'Buleleng', provinceName: 'Bali', provinceCode: '51', latitude: -8.2, longitude: 115.0833 },
   { name: 'Kota Denpasar', code: '51.71', alias: 'Kota Denpasar', provinceName: 'Bali', provinceCode: '51', latitude: -8.6705, longitude: 115.2126 },
 
-  // SUMATERA UTARA
+  // North Sumatra Region
   {
     name: 'Kabupaten Karo',
     code: '12.06',
@@ -880,7 +880,7 @@ export const INDONESIA_ALL_REGENCIES: RegencyCatalogItem[] = [
     longitude: 98.6722
   },
 
-  // ACEH
+  // Aceh Region
   {
     name: 'Kabupaten Aceh Tengah',
     code: '11.04',
@@ -909,7 +909,7 @@ export const INDONESIA_ALL_REGENCIES: RegencyCatalogItem[] = [
     longitude: 95.3238
   },
 
-  // SULAWESI & MALUKU
+  // Sulawesi and Maluku Region
   {
     name: 'Kabupaten Minahasa',
     code: '71.02',

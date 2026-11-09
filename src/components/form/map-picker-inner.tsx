@@ -65,7 +65,7 @@ export default function MapPickerInner({
   const activeLocateMeLabel = locateMeLabel || tMap('locateMe')
   const activeLocatingLabel = locatingLabel || tMap('locating')
 
-  // 1. Initialize Leaflet Map
+  // Initialize Leaflet Map instance
   useEffect(() => {
     if (!mapContainerRef.current || mapInstanceRef.current) return
 
@@ -139,7 +139,7 @@ export default function MapPickerInner({
     }
   }, []) // eslint-disable-line react-hooks/exhaustive-deps
 
-  // 2. Sync marker position with external value updates
+  // Synchronize marker position with coordinate state
   useEffect(() => {
     const map = mapInstanceRef.current
     if (!map) return
@@ -169,7 +169,7 @@ export default function MapPickerInner({
     }
   }, [latitude, longitude, disabled, onChange])
 
-  // 3. Dynamic Centroid Pan (from province/regency change)
+  // Pan map centroid to selected regional coordinates
   useEffect(() => {
     const map = mapInstanceRef.current
     if (!map || !centroidPan) return
@@ -182,7 +182,7 @@ export default function MapPickerInner({
     }
   }, [centroidPan])
 
-  // 4. GPS Current Geolocation
+  // Geolocation GPS positioning
   const handleLocateMe = useCallback(() => {
     if (!navigator.geolocation || disabled) return
     setIsLocating(true)

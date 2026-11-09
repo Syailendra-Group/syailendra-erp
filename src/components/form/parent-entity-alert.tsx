@@ -47,7 +47,7 @@ export function ParentEntityAlert({
 
   return (
     <div className={cn('space-y-2.5', className)}>
-      {/* 1. Duplicate Entity Alert Banner */}
+      {/* Duplicate Entity Alert Banner */}
       {isDuplicate && (
         <Alert variant="destructive" className="border-destructive/30 bg-destructive/10 text-destructive py-2.5 text-xs">
           <AlertCircle className="size-4 shrink-0" />
@@ -60,7 +60,7 @@ export function ParentEntityAlert({
         </Alert>
       )}
 
-      {/* 2. Parent Registration Status & Auto-Add Switch Card */}
+      {/* Parent Registration Status and Auto-Add Switch Card */}
       {parentName && (
         <div className="border-border/70 bg-muted/40 space-y-2.5 rounded-lg border p-3 shadow-2xs transition-colors">
           <div className="flex items-center justify-between text-xs">

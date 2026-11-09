@@ -46,7 +46,7 @@ export function SupplierDialogs() {
 
   return (
     <>
-      {/* 1. Quick View Inspection Dialog with Standard DetailRow */}
+      {/* Quick View Inspection Dialog */}
       <Dialog
         open={isViewOpen}
         onOpenChange={(val) => {
@@ -131,7 +131,7 @@ export function SupplierDialogs() {
         </DialogContent>
       </Dialog>
 
-      {/* 2. Confirm Archive / Restore Dialog */}
+      {/* Confirmation Dialog */}
       <ConfirmDialog
         open={isArchiveOpen}
         onOpenChange={(val) => {

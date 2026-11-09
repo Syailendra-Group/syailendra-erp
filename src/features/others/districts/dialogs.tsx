@@ -11,7 +11,7 @@ import { Dialog, DialogContent, DialogDescription, DialogHeader, DialogTitle } f
 import { useDistrict } from '@/contexts/others/district.context'
 import { useDeleteDistrictMutation } from '@/hooks/others/use-districts'
 
-import { DistrictForm } from './form'
+import { DistrictForm } from './form/index'
 
 import type { ReactElement } from 'react'
 

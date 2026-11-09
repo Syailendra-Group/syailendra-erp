@@ -9,7 +9,9 @@
   },
   "fields": {
     "name": "Nama Departemen / Divisi",
-    "name_placeholder": "misal: Divisi Agronomi & Kemitraan"
+    "name_placeholder": "misal: Divisi Agronomi & Kemitraan",
+    "id": "ID Departemen Odoo",
+    "status": "Status Operasional"
   },
   "confirm": {
     "archiveTitle": "Arsipkan Departemen",
@@ -25,5 +27,9 @@
   },
   "validation": {
     "nameRequired": "Nama departemen minimal {min} karakter."
+  },
+  "view": {
+    "title": "Detail Departemen",
+    "description": "Informasi lengkap struktur departemen dan status operasional di Odoo 18"
   }
 }

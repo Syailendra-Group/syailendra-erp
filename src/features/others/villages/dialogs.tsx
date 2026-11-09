@@ -11,7 +11,7 @@ import { Dialog, DialogContent, DialogDescription, DialogHeader, DialogTitle } f
 import { useVillage } from '@/contexts/others/village.context'
 import { useDeleteVillageMutation } from '@/hooks/others/use-villages'
 
-import { VillageForm } from './form'
+import { VillageForm } from './form/index'
 
 import type { ReactElement } from 'react'
 

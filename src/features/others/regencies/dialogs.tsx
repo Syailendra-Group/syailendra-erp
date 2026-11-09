@@ -11,7 +11,7 @@ import { Dialog, DialogContent, DialogDescription, DialogHeader, DialogTitle } f
 import { useRegency } from '@/contexts/others/regency.context'
 import { useDeleteRegencyMutation } from '@/hooks/others/use-regencies'
 
-import { RegencyForm } from './form'
+import { RegencyForm } from './form/index'
 
 import type { ReactElement } from 'react'
 

@@ -23,8 +23,8 @@ import { useSaveMaterialMutation } from '@/hooks/scm/use-materials'
 import { Link, useRouter } from '@/i18n/navigation'
 import { getMaterialFormSchema } from '@/schemas/scm/material-schema'
 
-import { getMaterialOptions } from '../options'
-import { MaterialQcSection } from '../qc-section'
+import { getMaterialOptions } from './options'
+import { MaterialQcSection } from './qc-section'
 
 import type { MaterialFormValues } from '@/schemas/scm/material-schema'
 import type { MaterialRecord } from '@/types/scm/material'

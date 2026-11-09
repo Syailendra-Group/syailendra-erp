@@ -3,6 +3,9 @@
 import { useTranslations } from 'next-intl'
 
 import { ConfirmDialog } from '@/components/dialog/confirm-dialog'
+import { DetailRow } from '@/components/shared/detail-row'
+import { StatusBadge } from '@/components/shared/status-badge'
+import { Dialog, DialogContent, DialogDescription, DialogHeader, DialogTitle } from '@/components/ui/dialog'
 import { useDepartment } from '@/contexts/hris/department.context'
 import { useToggleDepartmentStatusMutation } from '@/hooks/hris/use-departments'
 
@@ -23,6 +26,7 @@ export function DepartmentsDialogs(): ReactElement {
   }
 
   const isActionDialogOpen = open === 'add' || open === 'create' || open === 'edit'
+  const isViewOpen = open === 'view'
   const isConfirmOpen = open === 'archive' || open === 'restore'
 
   return (
@@ -33,6 +37,31 @@ export function DepartmentsDialogs(): ReactElement {
         currentRow={currentRow}
         onSuccess={() => setOpen(null)}
       />
+
+      <Dialog open={isViewOpen} onOpenChange={(isOpen) => !isOpen && setOpen(null)}>
+        <DialogContent className="sm:max-w-md">
+          <DialogHeader className="text-start">
+            <DialogTitle>{tAdmin('view.title')}</DialogTitle>
+            <DialogDescription className="text-xs">{tAdmin('view.description')}</DialogDescription>
+          </DialogHeader>
+
+          {currentRow && (
+            <div className="space-y-3 pt-2 text-xs">
+              <DetailRow label={tAdmin('fields.name')} value={currentRow.name} />
+              <DetailRow label={tAdmin('fields.id')} value={String(currentRow.id)} mono />
+              <DetailRow
+                label={tAdmin('fields.status')}
+                value={
+                  <StatusBadge variant={currentRow.active ? 'success' : 'warning'}>
+                    {currentRow.active ? tCommon('status.active') : tCommon('status.archived')}
+                  </StatusBadge>
+                }
+                border={false}
+              />
+            </div>
+          )}
+        </DialogContent>
+      </Dialog>
 
       <ConfirmDialog
         open={isConfirmOpen}

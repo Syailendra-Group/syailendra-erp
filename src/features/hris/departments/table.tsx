@@ -21,7 +21,7 @@ export function DepartmentsTable(): ReactElement {
   const tCommon = useTranslations('common')
 
   // Context and action handlers
-  const { handleEdit, handleDelete } = useDepartment()
+  const { handleView, handleEdit, handleDelete } = useDepartment()
 
   // URL state controller
   const {
@@ -68,10 +68,11 @@ export function DepartmentsTable(): ReactElement {
       getColumns({
         tAdmin,
         tCommon,
+        onView: handleView,
         onEdit: handleEdit,
         onDelete: handleDelete
       }),
-    [tAdmin, tCommon, handleEdit, handleDelete]
+    [tAdmin, tCommon, handleView, handleEdit, handleDelete]
   )
 
   // Filter options
@@ -79,7 +80,7 @@ export function DepartmentsTable(): ReactElement {
     () => [
       {
         columnId: 'active',
-        title: tAdmin('fields.status') || tCommon('status.status'),
+        title: tAdmin('fields.status'),
         options: [
           { label: tCommon('status.active'), value: 'active' },
           { label: tCommon('status.archived'), value: 'archived' }

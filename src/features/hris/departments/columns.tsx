@@ -10,11 +10,12 @@ import type { ColumnDef } from '@tanstack/react-table'
 export interface GetColumnsOptions {
   tAdmin: (key: string) => string
   tCommon: (key: string) => string
+  onView?: (item: DepartmentRecord) => void
   onEdit?: (item: DepartmentRecord) => void
   onDelete?: (item: DepartmentRecord) => void
 }
 
-export function getColumns({ tAdmin, tCommon, onEdit, onDelete }: GetColumnsOptions): ColumnDef<DepartmentRecord>[] {
+export function getColumns({ tAdmin, tCommon, onView, onEdit, onDelete }: GetColumnsOptions): ColumnDef<DepartmentRecord>[] {
   return [
     {
       accessorKey: 'name',
@@ -24,7 +25,7 @@ export function getColumns({ tAdmin, tCommon, onEdit, onDelete }: GetColumnsOpti
     },
     {
       accessorKey: 'active',
-      header: ({ column }) => <DataTableColumnHeader column={column} title={tAdmin('fields.status') || tCommon('status.status')} />,
+      header: ({ column }) => <DataTableColumnHeader column={column} title={tAdmin('fields.status')} />,
       cell: ({ row }) => {
         const active = row.original.active
         return <StatusBadge variant={active ? 'success' : 'warning'}>{active ? tCommon('status.active') : tCommon('status.archived')}</StatusBadge>
@@ -35,6 +36,7 @@ export function getColumns({ tAdmin, tCommon, onEdit, onDelete }: GetColumnsOpti
       header: () => <div className="text-center text-xs">{tCommon('table.actions')}</div>,
       cell: ({ row }) => (
         <div className="flex items-center justify-center gap-1">
+          <ActionButton variant="view" label={tCommon('actions.view')} onClick={() => onView?.(row.original)} />
           <ActionButton variant="edit" label={tCommon('actions.edit')} onClick={() => onEdit?.(row.original)} />
           <ActionButton
             variant={row.original.active ? 'archive' : 'restore'}

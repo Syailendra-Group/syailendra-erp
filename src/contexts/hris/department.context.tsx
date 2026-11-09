@@ -5,7 +5,7 @@ import { createContext, useCallback, useContext, useState } from 'react'
 import type { DepartmentRecord } from '@/types/hris/department'
 import type { ReactElement, ReactNode } from 'react'
 
-export type DepartmentsDialogType = 'add' | 'create' | 'edit' | 'delete' | 'archive' | 'restore' | null
+export type DepartmentsDialogType = 'add' | 'create' | 'edit' | 'view' | 'delete' | 'archive' | 'restore' | null
 
 export interface DepartmentsContextType {
   open: DepartmentsDialogType
@@ -42,7 +42,7 @@ export function DepartmentsProvider({ children, refreshData }: DepartmentsProvid
 
   const handleView = useCallback((row: DepartmentRecord) => {
     setCurrentRow(row)
-    setOpen('edit')
+    setOpen('view')
   }, [])
 
   const handleDelete = useCallback((row: DepartmentRecord) => {

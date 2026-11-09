@@ -25,6 +25,7 @@ export interface CountryFormProps {
 export function CountryForm({ currentRow, onSuccess }: CountryFormProps): ReactElement {
   const isEdit = !!currentRow
   const t = useTranslations('others.countries')
+  const tToast = useTranslations('regional.regionalToasts')
   const { mutateAsync: saveCountry, isPending } = useSaveCountryMutation()
 
   const form = useForm<CountryFormValues>({
@@ -62,14 +63,14 @@ export function CountryForm({ currentRow, onSuccess }: CountryFormProps): ReactE
     try {
       const res = await saveCountry(values)
       if (res.success) {
-        toast.success(isEdit ? 'Negara berhasil diperbarui' : 'Negara berhasil didaftarkan')
+        toast.success(isEdit ? tToast('updateSuccess', { entity: t('title') }) : tToast('createSuccess', { entity: t('title') }))
         onSuccess()
         form.reset()
       } else {
-        toast.error(res.error || 'Gagal menyimpan negara')
+        toast.error(res.error || tToast('saveFailed', { entity: t('title') }))
       }
     } catch (err) {
-      toast.error(err instanceof Error ? err.message : 'Gagal menyimpan data')
+      toast.error(err instanceof Error ? err.message : tToast('genericError'))
     }
   }
 

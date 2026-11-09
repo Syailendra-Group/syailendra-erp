@@ -1,8 +1,3 @@
-/**
- * index.tsx — Dedicated Full-Page Form Orchestrator for Master Supplier
- * Syailendra Group ERP (SCM Pillar)
- */
-
 'use client'
 
 import { useState } from 'react'
@@ -98,7 +93,7 @@ export function SupplierForm({ initialData, isEdit = false }: SupplierFormProps)
     <Form {...form}>
       <form onSubmit={form.handleSubmit(onSubmit)} className="space-y-6 pb-12">
         {/* Sticky Action Header */}
-        <div className="bg-background/95 supports-[backdrop-filter]:bg-background/60 sticky top-0 z-10 flex items-center justify-between border-b pt-2 pb-4 backdrop-blur">
+        <div className="bg-background/95 supports-backdrop-filter:bg-background/60 sticky top-0 z-10 flex items-center justify-between border-b pt-2 pb-4 backdrop-blur">
           <div className="flex items-center gap-3">
             <Button type="button" variant="outline" size="icon" className="h-8 w-8 cursor-pointer" onClick={() => router.push('/scm/suppliers')}>
               <ArrowLeft className="h-4 w-4" />

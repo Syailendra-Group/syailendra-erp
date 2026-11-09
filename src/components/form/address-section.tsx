@@ -15,6 +15,7 @@ import { useDistrictsQuery } from '@/hooks/others/use-districts'
 import { useProvincesQuery } from '@/hooks/others/use-provinces'
 import { useRegenciesQuery } from '@/hooks/others/use-regencies'
 import { useVillagesQuery } from '@/hooks/others/use-villages'
+import { extractCentroidCoordinates } from '@/utils/regional-helper'
 
 import type { AddressSectionProps } from '@/types/components/address'
 import type { MapCoordinates } from '@/types/components/map'
@@ -85,8 +86,9 @@ export function AddressSection({ disabled = false, values, onChange, onCentroidP
       subdistrict_id: undefined
     })
 
-    if (selected?.latitude && selected.longitude) {
-      onCentroidPan?.({ latitude: selected.latitude, longitude: selected.longitude })
+    const coords = extractCentroidCoordinates(selected)
+    if (coords) {
+      onCentroidPan?.(coords)
     }
   }
 
@@ -98,8 +100,9 @@ export function AddressSection({ disabled = false, values, onChange, onCentroidP
       subdistrict_id: undefined
     })
 
-    if (selected?.latitude && selected.longitude) {
-      onCentroidPan?.({ latitude: selected.latitude, longitude: selected.longitude })
+    const coords = extractCentroidCoordinates(selected)
+    if (coords) {
+      onCentroidPan?.(coords)
     }
   }
 
@@ -111,8 +114,9 @@ export function AddressSection({ disabled = false, values, onChange, onCentroidP
       street: selected?.name || street
     })
 
-    if (selected?.latitude && selected.longitude) {
-      onCentroidPan?.({ latitude: selected.latitude, longitude: selected.longitude })
+    const coords = extractCentroidCoordinates(selected)
+    if (coords) {
+      onCentroidPan?.(coords)
     }
   }
 

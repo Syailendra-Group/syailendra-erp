@@ -57,6 +57,7 @@ export function VillageForm({ currentRow, onSuccess, onValidationChange }: Villa
   const t = useTranslations('others.villages')
   const tReg = useTranslations('regional.common')
   const tToast = useTranslations('regional.regionalToasts')
+  const tForeign = useTranslations('regional.foreignForm')
   const { mutateAsync: saveVillage, isPending } = useSaveVillageMutation()
 
   const form = useForm<VillageFormValues>({
@@ -130,26 +131,28 @@ export function VillageForm({ currentRow, onSuccess, onValidationChange }: Villa
 
   const onSubmit = async (values: VillageFormValues) => {
     if (isDomestic && isDuplicate) {
-      toast.error(tToast('alreadyExists', { entity: 'Kelurahan/Desa' }))
+      toast.error(tToast('alreadyExists', { entity: tReg('entities.village') }))
       return
     }
     if (isDomestic && isParentMissing && !values.auto_add_district) {
-      toast.error(tToast('parentMissing', { parent: 'Kecamatan' }))
+      toast.error(tToast('parentMissing', { parent: tReg('entities.district') }))
       return
     }
     if (!isDomestic && !values.district_id) {
-      toast.error(tToast('foreignParentRequired', { parent: 'Kecamatan' }))
+      toast.error(tToast('foreignParentRequired', { parent: tReg('entities.district') }))
       return
     }
 
     try {
       const res = await saveVillage(values)
       if (res.success) {
-        toast.success(isEdit ? tToast('updateSuccess', { entity: 'Kelurahan/Desa' }) : tToast('createSuccess', { entity: 'Kelurahan/Desa' }))
+        toast.success(
+          isEdit ? tToast('updateSuccess', { entity: tReg('entities.village') }) : tToast('createSuccess', { entity: tReg('entities.village') })
+        )
         onSuccess()
         form.reset()
       } else {
-        toast.error(res.error || tToast('saveFailed', { entity: 'Kelurahan/Desa' }))
+        toast.error(res.error || tToast('saveFailed', { entity: tReg('entities.village') }))
       }
     } catch (err) {
       toast.error(err instanceof Error ? err.message : tToast('genericError'))
@@ -205,7 +208,7 @@ export function VillageForm({ currentRow, onSuccess, onValidationChange }: Villa
             <div className="grid grid-cols-1 gap-3.5 sm:grid-cols-2">
               <FormFieldWrapper id="catalog-dist-filter" label={t('form.selectDistrictCatalog')} required>
                 <SelectForm
-                  placeholder="Ketik & pilih kecamatan..."
+                  placeholder={tForeign('selectDistrictCatalogPlaceholder')}
                   value={selectedDistCode || undefined}
                   onValueChange={handleSelectDistrict}
                   items={districtCatalogOptions}
@@ -230,7 +233,7 @@ export function VillageForm({ currentRow, onSuccess, onValidationChange }: Villa
             </div>
 
             <ParentEntityAlert
-              parentLabel="Kecamatan Induk"
+              parentLabel={tReg('parentAlert.parentDistrict')}
               parentName={selectedDistName}
               isChecking={isCheckingParent}
               exists={Boolean(parentStatus?.exists)}
@@ -239,8 +242,8 @@ export function VillageForm({ currentRow, onSuccess, onValidationChange }: Villa
               isDuplicate={isDuplicate}
               duplicateId={villageExists?.id}
               currentName={currentName}
-              entityTypeLabel="Kelurahan/Desa"
-              parentTypeLabel="Kecamatan"
+              entityTypeLabel={tReg('entities.village')}
+              parentTypeLabel={tReg('entities.district')}
             />
 
             <div className="grid grid-cols-1 gap-3.5 sm:grid-cols-2">

@@ -96,17 +96,19 @@ export function ProvinceForm({ currentRow, onSuccess }: ProvinceFormProps): Reac
 
   const onSubmit = async (values: ProvinceFormValues) => {
     if (isDuplicate) {
-      toast.error(tToast('alreadyExists', { entity: 'Provinsi' }))
+      toast.error(tToast('alreadyExists', { entity: tReg('entities.province') }))
       return
     }
     try {
       const res = await saveProvince(values)
       if (res.success) {
-        toast.success(isEdit ? tToast('updateSuccess', { entity: 'Provinsi' }) : tToast('createSuccess', { entity: 'Provinsi' }))
+        toast.success(
+          isEdit ? tToast('updateSuccess', { entity: tReg('entities.province') }) : tToast('createSuccess', { entity: tReg('entities.province') })
+        )
         onSuccess()
         form.reset()
       } else {
-        toast.error(res.error || tToast('saveFailed', { entity: 'Provinsi' }))
+        toast.error(res.error || tToast('saveFailed', { entity: tReg('entities.province') }))
       }
     } catch (err) {
       toast.error(err instanceof Error ? err.message : tToast('genericError'))
@@ -157,7 +159,9 @@ export function ProvinceForm({ currentRow, onSuccess }: ProvinceFormProps): Reac
           <>
             <FormFieldWrapper id="catalog-bps" label={t('form.catalogLabel')} required>
               <SelectForm
-                placeholder={isLoadingCatalog ? 'Memuat katalog provinsi...' : t('form.catalogPlaceholder')}
+                placeholder={
+                  isLoadingCatalog ? tReg('placeholders.loadingCatalog', { entity: tReg('entities.province') }) : t('form.catalogPlaceholder')
+                }
                 disabled={isPending || isLoadingCatalog}
                 value={currentCode || undefined}
                 onValueChange={handleSelectDomestic}
@@ -170,13 +174,16 @@ export function ProvinceForm({ currentRow, onSuccess }: ProvinceFormProps): Reac
             </FormFieldWrapper>
 
             {isDuplicate && (
-              <Alert variant="destructive" className="py-2 text-xs">
-                <AlertCircle className="size-4" />
-                <AlertTitle className="text-xs font-bold">Provinsi Sudah Terdaftar</AlertTitle>
-                <AlertDescription className="text-[11px]">
-                  Provinsi {currentName} sudah terdaftar di database sistem (ID: #{provinceExists?.id}). Harap ubah data yang ada atau pilih provinsi
-                  lain.
-                </AlertDescription>
+              <Alert variant="destructive" className="border-destructive/30 bg-destructive/10 text-destructive py-2 text-xs">
+                <AlertCircle className="size-4 shrink-0" />
+                <div className="space-y-0.5">
+                  <AlertTitle className="text-xs font-bold">
+                    {tReg('parentAlert.alreadyRegistered', { entity: tReg('entities.province') })}
+                  </AlertTitle>
+                  <AlertDescription className="text-muted-foreground text-[11px] leading-relaxed">
+                    {tReg('parentAlert.alreadyRegisteredDesc', { name: currentName || '', id: provinceExists?.id || 0 })}
+                  </AlertDescription>
+                </div>
               </Alert>
             )}
           </>
@@ -248,13 +255,7 @@ export function ProvinceForm({ currentRow, onSuccess }: ProvinceFormProps): Reac
             <FormItem>
               <FormFieldWrapper id="prov-desc" label={tReg('fields.description')} error={form.formState.errors.description?.message}>
                 <FormControl>
-                  <Textarea
-                    id="prov-desc"
-                    rows={3}
-                    placeholder="Catatan geografis, komoditas atsiri unggulan, dll..."
-                    disabled={isPending}
-                    {...field}
-                  />
+                  <Textarea id="prov-desc" rows={3} placeholder={tReg('placeholders.defaultNotes')} disabled={isPending} {...field} />
                 </FormControl>
               </FormFieldWrapper>
             </FormItem>

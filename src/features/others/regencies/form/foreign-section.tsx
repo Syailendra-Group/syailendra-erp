@@ -6,6 +6,7 @@ import { FormFieldWrapper } from '@/components/form/form-field-wrapper'
 import { SelectForm } from '@/components/form/select-form'
 import { FormControl, FormField, FormItem } from '@/components/ui/form'
 import { Input } from '@/components/ui/input'
+import { getForeignSelectPlaceholder } from '@/utils/regional-helper'
 
 import type { RegencyFormValues } from '@/schemas/others/regency-schema'
 import type { ReactElement } from 'react'
@@ -51,13 +52,13 @@ export function ForeignRegencySection({
 
         <FormFieldWrapper id="reg-foreign-prov" label={tForeign('provinceLabel')} required>
           <SelectForm
-            placeholder={
-              availableForeignProvinces.length === 0
-                ? selectedCountryId
-                  ? 'Tidak ada provinsi terdaftar untuk negara ini...'
-                  : 'Belum ada provinsi luar negeri...'
-                : 'Pilih provinsi...'
-            }
+            placeholder={getForeignSelectPlaceholder({
+              poolLength: availableForeignProvinces.length,
+              parentId: selectedCountryId,
+              emptyWithParent: tForeign('noProvincesForCountry'),
+              emptyWithoutParent: tForeign('noForeignProvinces'),
+              defaultPlaceholder: tForeign('provincePlaceholder')
+            })}
             disabled={isPending}
             value={selectedStateId ? String(selectedStateId) : undefined}
             onValueChange={onProvinceChange}

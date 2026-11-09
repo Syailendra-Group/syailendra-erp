@@ -36,7 +36,7 @@ export function ProvincesDialogs(): ReactElement {
         toast.error(res.error || tCommon('deleteDialog.inUseError'))
       }
     } catch (err) {
-      toast.error(err instanceof Error ? err.message : 'Gagal menghapus data')
+      toast.error(err instanceof Error ? err.message : tCommon('status.error'))
     }
   }
 

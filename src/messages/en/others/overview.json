@@ -1,4 +1,20 @@
 {
   "title": "System Settings & Master Data",
-  "subtitle": "Central hub for system governance, access controls, and regional master data"
+  "subtitle": "Central hub for system governance, access controls, and regional master data",
+  "kpis": {
+    "accountStatus": "User Account Status",
+    "accountSubtitle": "Role-Based Access Control",
+    "connectedCompany": "Connected Company",
+    "companySubtitle": "DDistillers Multi-Company",
+    "officialRegions": "Official Master Regions",
+    "regionsSubtitle": "Country down to Village",
+    "auditLog": "Security Audit Log",
+    "auditSubtitle": "Traceability Compliance Log"
+  },
+  "shortcuts": {
+    "countriesProvinces": "Country & Province Master",
+    "regenciesDistricts": "Regency, District & Village Master",
+    "companyProfile": "Company Profile",
+    "rbac": "Access Rights & RBAC"
+  }
 }

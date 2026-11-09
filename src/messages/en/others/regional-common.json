@@ -48,7 +48,14 @@
     "districtLabel": "District / Sub-city",
     "districtPlaceholder": "Select district...",
     "codeLabel": "Code (Optional)",
-    "codePlaceholder": "e.g. KR-SEL"
+    "codePlaceholder": "e.g. KR-SEL",
+    "noProvincesForCountry": "No provinces registered for this country...",
+    "noForeignProvinces": "No foreign provinces yet...",
+    "noCitiesForProvince": "No regencies/cities for this province...",
+    "noForeignCities": "No foreign regencies/cities yet...",
+    "noDistrictsForCity": "No districts for this city...",
+    "noForeignDistricts": "No foreign districts yet...",
+    "selectDistrictCatalogPlaceholder": "Type & select district..."
   },
   "parentAlert": {
     "alreadyRegistered": "{entity} Already Registered in System",
@@ -56,6 +63,20 @@
     "parentUnregisteredDesc": "Parent {parent} \"{name}\" is not yet registered in the system database.",
     "autoRegisterLabel": "Automatically Register {parent} to Odoo",
     "autoRegisterHelpActive": "Parent entity will be created automatically upon saving",
-    "autoRegisterHelpInactive": "Must be enabled to proceed with saving"
+    "autoRegisterHelpInactive": "Must be enabled to proceed with saving",
+    "parentProvince": "Parent Province",
+    "parentRegency": "Parent Regency / City",
+    "parentDistrict": "Parent District"
+  },
+  "entities": {
+    "country": "Country",
+    "province": "Province",
+    "regency": "Regency / City",
+    "district": "District",
+    "village": "Village / Subdistrict"
+  },
+  "placeholders": {
+    "loadingCatalog": "Loading {entity} catalog...",
+    "defaultNotes": "Geographical notes, regional borders, featured commodities, etc..."
   }
 }

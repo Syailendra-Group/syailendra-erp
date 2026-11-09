@@ -5,6 +5,8 @@
 
 'use client'
 
+import { useTranslations } from 'next-intl'
+
 import { cn } from '@/lib/utils'
 
 import type { ReactElement } from 'react'
@@ -16,6 +18,8 @@ export interface DataTableLoadingOverlayProps {
 }
 
 export function DataTableLoadingOverlay({ isUpdating, text, className }: DataTableLoadingOverlayProps): ReactElement | null {
+  const t = useTranslations('common')
+
   if (!isUpdating) return null
 
   return (
@@ -25,7 +29,7 @@ export function DataTableLoadingOverlay({ isUpdating, text, className }: DataTab
         className
       )}
     >
-      <span className="text-muted-foreground text-xs font-medium tracking-wide">{text || 'Memuat data...'}</span>
+      <span className="text-muted-foreground text-xs font-medium tracking-wide">{text || t('status.loading')}</span>
     </div>
   )
 }

@@ -10,6 +10,7 @@ import { Input } from '@/components/ui/input'
 import { useCountriesQuery } from '@/hooks/others/use-countries'
 import { useProvincesQuery } from '@/hooks/others/use-provinces'
 import { useRegenciesQuery } from '@/hooks/others/use-regencies'
+import { getForeignSelectPlaceholder } from '@/utils/regional-helper'
 
 import type { DistrictFormValues } from '@/schemas/others/district-schema'
 import type { ReactElement } from 'react'
@@ -96,9 +97,13 @@ export function ForeignDistrictSection({ form, isPending, t }: ForeignDistrictSe
 
         <FormFieldWrapper id="dist-foreign-prov" label={tForeign('provinceLabel')} required>
           <SelectForm
-            placeholder={
-              availableForeignProvinces.length === 0 ? (selectedCountryId ? 'Tidak ada provinsi...' : 'Belum ada provinsi...') : 'Pilih provinsi...'
-            }
+            placeholder={getForeignSelectPlaceholder({
+              poolLength: availableForeignProvinces.length,
+              parentId: selectedCountryId,
+              emptyWithParent: tForeign('noProvincesForCountry'),
+              emptyWithoutParent: tForeign('noForeignProvinces'),
+              defaultPlaceholder: tForeign('provincePlaceholder')
+            })}
             disabled={isPending}
             value={selectedStateId ? String(selectedStateId) : undefined}
             onValueChange={handleSelectForeignProvince}
@@ -108,9 +113,13 @@ export function ForeignDistrictSection({ form, isPending, t }: ForeignDistrictSe
 
         <FormFieldWrapper id="dist-foreign-city" label={tForeign('cityLabel')} required>
           <SelectForm
-            placeholder={
-              availableForeignRegencies.length === 0 ? (selectedStateId ? 'Tidak ada kota...' : 'Belum ada kota...') : 'Pilih kabupaten/kota...'
-            }
+            placeholder={getForeignSelectPlaceholder({
+              poolLength: availableForeignRegencies.length,
+              parentId: selectedStateId,
+              emptyWithParent: tForeign('noCitiesForProvince'),
+              emptyWithoutParent: tForeign('noForeignCities'),
+              defaultPlaceholder: tForeign('cityPlaceholder')
+            })}
             disabled={isPending}
             value={selectedCityId ? String(selectedCityId) : undefined}
             onValueChange={handleSelectForeignCity}

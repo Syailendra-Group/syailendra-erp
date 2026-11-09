@@ -1,8 +1,3 @@
-/**
- * qc-section.tsx — QC standards form section for Material Master
- * Syailendra Group ERP — SCM Pillar
- */
-
 'use client'
 
 import { FormFieldWrapper } from '@/components/form/form-field-wrapper'

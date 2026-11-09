@@ -1,8 +1,3 @@
-/**
- * contact-tax-section.tsx — Supplier PIC, contact, email & tax fields
- * Syailendra Group ERP (SCM Pillar)
- */
-
 'use client'
 
 import { useTranslations } from 'next-intl'

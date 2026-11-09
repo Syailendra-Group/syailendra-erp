@@ -31,5 +31,10 @@
     "nameRequired": "Country name must be at least {min} characters.",
     "codeMin": "Country code must be at least {min} characters.",
     "codeMax": "Country code must be at most {max} characters."
+  },
+  "messages": {
+    "created": "Country successfully registered",
+    "updated": "Country successfully updated",
+    "saveFailed": "Failed to save country"
   }
 }

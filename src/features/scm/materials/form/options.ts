@@ -1,8 +1,3 @@
-/**
- * options.ts — Option lists for Material Master forms
- * Syailendra Group ERP — SCM Pillar
- */
-
 export function getMaterialOptions(t: (key: string) => string) {
   const categoryOptions = [
     { label: t('categories.essential_oils'), value: 'essential_oils' },

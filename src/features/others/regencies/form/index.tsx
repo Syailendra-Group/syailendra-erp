@@ -18,6 +18,7 @@ import { useProvincesQuery } from '@/hooks/others/use-provinces'
 import { useCheckParentProvinceQuery, useCheckRegencyExistsQuery, useSaveRegencyMutation } from '@/hooks/others/use-regencies'
 import { useCatalogRegenciesQuery } from '@/hooks/shared/use-regional-catalog'
 import { getRegencyFormSchema } from '@/schemas/others/regency-schema'
+import { filterForeignProvinces } from '@/utils/regional-helper'
 
 import { ForeignRegencySection } from './foreign-section'
 
@@ -105,11 +106,12 @@ export function RegencyForm({ currentRow, onSuccess, onValidationChange }: Regen
   const handleSelectDomestic = (regCode: string) => {
     const found = catalogRegencies.find((r) => r.code === regCode)
     if (found) {
-      form.setValue('name', found.name, { shouldValidate: true })
-      form.setValue('code', found.code, { shouldValidate: true })
-      form.setValue('alias', found.alias, { shouldValidate: true })
-      form.setValue('province_name_raw', found.provinceName, { shouldValidate: true })
-      form.setValue('province_code_raw', found.provinceCode, { shouldValidate: true })
+      const { name, code, alias, provinceName, provinceCode } = found
+      form.setValue('name', name, { shouldValidate: true })
+      form.setValue('code', code, { shouldValidate: true })
+      form.setValue('alias', alias, { shouldValidate: true })
+      form.setValue('province_name_raw', provinceName, { shouldValidate: true })
+      form.setValue('province_code_raw', provinceCode, { shouldValidate: true })
       form.setValue('country_id', 100, { shouldValidate: true })
     }
   }
@@ -117,16 +119,7 @@ export function RegencyForm({ currentRow, onSuccess, onValidationChange }: Regen
   const foreignCountries = useMemo(() => countries.filter((c) => c.id !== 100).map((c) => ({ label: c.name, value: String(c.id) })), [countries])
   const foreignProvinces = useMemo(() => allProvinces.filter((p) => p.country_id && p.country_id[0] !== 100), [allProvinces])
 
-  const availableForeignProvinces = useMemo(() => {
-    const pool =
-      !selectedCountryId || selectedCountryId === 100
-        ? foreignProvinces
-        : foreignProvinces.filter((p) => p.country_id && p.country_id[0] === selectedCountryId)
-    return pool.map((p) => ({
-      label: `${p.name}${p.country_id ? ` (${p.country_id[1]})` : ''}`,
-      value: String(p.id)
-    }))
-  }, [foreignProvinces, selectedCountryId])
+  const availableForeignProvinces = useMemo(() => filterForeignProvinces(allProvinces, selectedCountryId), [allProvinces, selectedCountryId])
 
   const handleSelectForeignProvince = (provIdStr: string) => {
     const provId = Number(provIdStr)
@@ -148,26 +141,28 @@ export function RegencyForm({ currentRow, onSuccess, onValidationChange }: Regen
 
   const onSubmit = async (values: RegencyFormValues) => {
     if (isDomestic && isDuplicate) {
-      toast.error(tToast('alreadyExists', { entity: 'Kabupaten/Kota' }))
+      toast.error(tToast('alreadyExists', { entity: tReg('entities.regency') }))
       return
     }
     if (isDomestic && isParentMissing && !values.auto_add_province) {
-      toast.error(tToast('parentMissing', { parent: 'Provinsi' }))
+      toast.error(tToast('parentMissing', { parent: tReg('entities.province') }))
       return
     }
     if (!isDomestic && !values.state_id) {
-      toast.error(tToast('foreignParentRequired', { parent: 'Provinsi' }))
+      toast.error(tToast('foreignParentRequired', { parent: tReg('entities.province') }))
       return
     }
 
     try {
       const res = await saveRegency(values)
       if (res.success) {
-        toast.success(isEdit ? tToast('updateSuccess', { entity: 'Kabupaten/Kota' }) : tToast('createSuccess', { entity: 'Kabupaten/Kota' }))
+        toast.success(
+          isEdit ? tToast('updateSuccess', { entity: tReg('entities.regency') }) : tToast('createSuccess', { entity: tReg('entities.regency') })
+        )
         onSuccess()
         form.reset()
       } else {
-        toast.error(res.error || tToast('saveFailed', { entity: 'Kabupaten/Kota' }))
+        toast.error(res.error || tToast('saveFailed', { entity: tReg('entities.regency') }))
       }
     } catch (err) {
       toast.error(err instanceof Error ? err.message : tToast('genericError'))
@@ -221,7 +216,9 @@ export function RegencyForm({ currentRow, onSuccess, onValidationChange }: Regen
           <>
             <FormFieldWrapper id="catalog-regency" label={t('form.catalogLabel')} required>
               <SelectForm
-                placeholder={isLoadingCatalog ? 'Memuat 514 kabupaten/kota...' : t('form.catalogPlaceholder')}
+                placeholder={
+                  isLoadingCatalog ? tReg('placeholders.loadingCatalog', { entity: tReg('entities.regency') }) : t('form.catalogPlaceholder')
+                }
                 disabled={isPending || isLoadingCatalog}
                 value={currentCode || undefined}
                 onValueChange={handleSelectDomestic}
@@ -234,10 +231,10 @@ export function RegencyForm({ currentRow, onSuccess, onValidationChange }: Regen
             </FormFieldWrapper>
 
             <ParentEntityAlert
-              parentLabel="Provinsi Induk"
+              parentLabel={tReg('parentAlert.parentProvince')}
               parentName={selectedProvName}
-              entityTypeLabel="Kabupaten/Kota"
-              parentTypeLabel="Provinsi"
+              entityTypeLabel={tReg('entities.regency')}
+              parentTypeLabel={tReg('entities.province')}
               isChecking={isCheckingParent}
               exists={Boolean(parentStatus?.exists)}
               autoAdd={autoAddProvince}
@@ -279,7 +276,13 @@ export function RegencyForm({ currentRow, onSuccess, onValidationChange }: Regen
           render={({ field }) => (
             <FormItem>
               <FormFieldWrapper id="reg-desc" label={t('form.descLabel')} error={form.formState.errors.description?.message}>
-                <Textarea id="reg-desc" rows={3} placeholder={t('form.descPlaceholder')} disabled={isPending} {...field} />
+                <Textarea
+                  id="reg-desc"
+                  rows={3}
+                  placeholder={t('form.descPlaceholder') || tReg('placeholders.defaultNotes')}
+                  disabled={isPending}
+                  {...field}
+                />
               </FormFieldWrapper>
             </FormItem>
           )}

@@ -121,26 +121,28 @@ export function DistrictForm({ currentRow, onSuccess, onValidationChange }: Dist
 
   const onSubmit = async (values: DistrictFormValues) => {
     if (isDomestic && isDuplicate) {
-      toast.error(tToast('alreadyExists', { entity: 'Kecamatan' }))
+      toast.error(tToast('alreadyExists', { entity: tReg('entities.district') }))
       return
     }
     if (isDomestic && isParentMissing && !values.auto_add_regency) {
-      toast.error(tToast('parentMissing', { parent: 'Kabupaten' }))
+      toast.error(tToast('parentMissing', { parent: tReg('entities.regency') }))
       return
     }
     if (!isDomestic && !values.city_id) {
-      toast.error(tToast('foreignParentRequired', { parent: 'Kabupaten' }))
+      toast.error(tToast('foreignParentRequired', { parent: tReg('entities.regency') }))
       return
     }
 
     try {
       const res = await saveDistrict(values)
       if (res.success) {
-        toast.success(isEdit ? tToast('updateSuccess', { entity: 'Kecamatan' }) : tToast('createSuccess', { entity: 'Kecamatan' }))
+        toast.success(
+          isEdit ? tToast('updateSuccess', { entity: tReg('entities.district') }) : tToast('createSuccess', { entity: tReg('entities.district') })
+        )
         onSuccess()
         form.reset()
       } else {
-        toast.error(res.error || tToast('saveFailed', { entity: 'Kecamatan' }))
+        toast.error(res.error || tToast('saveFailed', { entity: tReg('entities.district') }))
       }
     } catch (err) {
       toast.error(err instanceof Error ? err.message : tToast('genericError'))
@@ -200,7 +202,9 @@ export function DistrictForm({ currentRow, onSuccess, onValidationChange }: Dist
           <>
             <FormFieldWrapper id="catalog-district" label={t('form.catalogLabel')} required>
               <SelectForm
-                placeholder={isLoadingCatalog ? 'Memuat 7.288 kecamatan...' : t('form.catalogPlaceholder')}
+                placeholder={
+                  isLoadingCatalog ? tReg('placeholders.loadingCatalog', { entity: tReg('entities.district') }) : t('form.catalogPlaceholder')
+                }
                 disabled={isPending || isLoadingCatalog}
                 value={currentCode || undefined}
                 onValueChange={handleSelectDomestic}
@@ -213,7 +217,7 @@ export function DistrictForm({ currentRow, onSuccess, onValidationChange }: Dist
             </FormFieldWrapper>
 
             <ParentEntityAlert
-              parentLabel="Kabupaten/Kota Induk"
+              parentLabel={tReg('parentAlert.parentRegency')}
               parentName={selectedRegName}
               isChecking={isCheckingParent}
               exists={Boolean(parentStatus?.exists)}
@@ -222,8 +226,8 @@ export function DistrictForm({ currentRow, onSuccess, onValidationChange }: Dist
               isDuplicate={isDuplicate}
               duplicateId={districtExists?.id}
               currentName={currentName}
-              entityTypeLabel="Kecamatan"
-              parentTypeLabel="Kabupaten/Kota"
+              entityTypeLabel={tReg('entities.district')}
+              parentTypeLabel={tReg('entities.regency')}
             />
 
             <FormField

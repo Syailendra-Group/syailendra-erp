@@ -31,5 +31,10 @@
     "nameRequired": "Nama negara minimal {min} karakter.",
     "codeMin": "Kode negara minimal {min} karakter.",
     "codeMax": "Kode negara maksimal {max} karakter."
+  },
+  "messages": {
+    "created": "Negara berhasil didaftarkan",
+    "updated": "Negara berhasil diperbarui",
+    "saveFailed": "Gagal menyimpan negara"
   }
 }

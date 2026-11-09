@@ -48,7 +48,14 @@
     "districtLabel": "Kecamatan / District",
     "districtPlaceholder": "Pilih kecamatan/distrik...",
     "codeLabel": "Kode (Opsional)",
-    "codePlaceholder": "Contoh: KR-SEL"
+    "codePlaceholder": "Contoh: KR-SEL",
+    "noProvincesForCountry": "Tidak ada provinsi terdaftar untuk negara ini...",
+    "noForeignProvinces": "Belum ada provinsi luar negeri...",
+    "noCitiesForProvince": "Tidak ada kabupaten/kota untuk provinsi ini...",
+    "noForeignCities": "Belum ada kabupaten/kota luar negeri...",
+    "noDistrictsForCity": "Tidak ada kecamatan untuk kota ini...",
+    "noForeignDistricts": "Belum ada kecamatan luar negeri...",
+    "selectDistrictCatalogPlaceholder": "Ketik & pilih kecamatan..."
   },
   "parentAlert": {
     "alreadyRegistered": "{entity} Sudah Terdaftar di Sistem",
@@ -56,6 +63,20 @@
     "parentUnregisteredDesc": "{parent} {name} belum tercatat di database sistem.",
     "autoRegisterLabel": "Daftarkan {parent} Otomatis ke Odoo",
     "autoRegisterHelpActive": "Entitas induk akan dibuat otomatis saat menyimpan",
-    "autoRegisterHelpInactive": "Wajib diaktifkan untuk melanjutkan simpan"
+    "autoRegisterHelpInactive": "Wajib diaktifkan untuk melanjutkan simpan",
+    "parentProvince": "Provinsi Induk",
+    "parentRegency": "Kabupaten / Kota Induk",
+    "parentDistrict": "Kecamatan Induk"
+  },
+  "entities": {
+    "country": "Negara",
+    "province": "Provinsi",
+    "regency": "Kabupaten / Kota",
+    "district": "Kecamatan",
+    "village": "Kelurahan / Desa"
+  },
+  "placeholders": {
+    "loadingCatalog": "Memuat katalog {entity}...",
+    "defaultNotes": "Catatan geografis, batas wilayah, komoditas unggulan, dll..."
   }
 }

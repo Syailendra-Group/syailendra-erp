@@ -1,8 +1,3 @@
-/**
- * address-section.tsx — Supplier address and 5-tier Indonesian administrative regions
- * Syailendra Group ERP (SCM Pillar)
- */
-
 'use client'
 
 import { useTranslations } from 'next-intl'

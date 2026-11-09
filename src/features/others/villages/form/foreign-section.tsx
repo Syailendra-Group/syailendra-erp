@@ -11,6 +11,7 @@ import { useCountriesQuery } from '@/hooks/others/use-countries'
 import { useDistrictsQuery } from '@/hooks/others/use-districts'
 import { useProvincesQuery } from '@/hooks/others/use-provinces'
 import { useRegenciesQuery } from '@/hooks/others/use-regencies'
+import { getForeignSelectPlaceholder } from '@/utils/regional-helper'
 
 import type { VillageFormValues } from '@/schemas/others/village-schema'
 import type { ReactElement } from 'react'
@@ -122,7 +123,13 @@ export function ForeignVillageSection({ form, isPending, t }: ForeignVillageSect
 
         <FormFieldWrapper id="vil-foreign-prov" label={tForeign('provinceLabel')} required>
           <SelectForm
-            placeholder={tForeign('provincePlaceholder')}
+            placeholder={getForeignSelectPlaceholder({
+              poolLength: availableForeignProvinces.length,
+              parentId: selectedCountryId,
+              emptyWithParent: tForeign('noProvincesForCountry'),
+              emptyWithoutParent: tForeign('noForeignProvinces'),
+              defaultPlaceholder: tForeign('provincePlaceholder')
+            })}
             disabled={isPending}
             value={selectedStateId ? String(selectedStateId) : undefined}
             onValueChange={handleSelectProvince}
@@ -134,7 +141,13 @@ export function ForeignVillageSection({ form, isPending, t }: ForeignVillageSect
       <div className="grid grid-cols-1 gap-3.5 sm:grid-cols-2">
         <FormFieldWrapper id="vil-foreign-city" label={tForeign('cityLabel')} required>
           <SelectForm
-            placeholder={tForeign('cityPlaceholder')}
+            placeholder={getForeignSelectPlaceholder({
+              poolLength: availableForeignRegencies.length,
+              parentId: selectedStateId,
+              emptyWithParent: tForeign('noCitiesForProvince'),
+              emptyWithoutParent: tForeign('noForeignCities'),
+              defaultPlaceholder: tForeign('cityPlaceholder')
+            })}
             disabled={isPending}
             value={selectedCityId ? String(selectedCityId) : undefined}
             onValueChange={handleSelectCity}
@@ -144,7 +157,13 @@ export function ForeignVillageSection({ form, isPending, t }: ForeignVillageSect
 
         <FormFieldWrapper id="vil-foreign-dist" label={tForeign('districtLabel')} required>
           <SelectForm
-            placeholder={tForeign('districtPlaceholder')}
+            placeholder={getForeignSelectPlaceholder({
+              poolLength: availableForeignDistricts.length,
+              parentId: selectedCityId,
+              emptyWithParent: tForeign('noDistrictsForCity'),
+              emptyWithoutParent: tForeign('noForeignDistricts'),
+              defaultPlaceholder: tForeign('districtPlaceholder')
+            })}
             disabled={isPending}
             value={selectedDistrictId ? String(selectedDistrictId) : undefined}
             onValueChange={handleSelectDistrict}

@@ -1,8 +1,3 @@
-/**
- * identity-section.tsx — Supplier identity & category fields
- * Syailendra Group ERP (SCM Pillar)
- */
-
 'use client'
 
 import { useTranslations } from 'next-intl'
@@ -97,7 +92,7 @@ export function IdentitySection({ form }: IdentitySectionProps) {
         {/* Dynamic Odoo Categories Selection */}
         <div className="space-y-2">
           <FormLabel className="text-xs">{t('form.fields.categories')}</FormLabel>
-          <div className="flex min-h-[42px] flex-wrap gap-1.5 rounded-md border p-2.5">
+          <div className="flex min-h-10.5 flex-wrap gap-1.5 rounded-md border p-2.5">
             {categoryOptions.length > 0 ? (
               categoryOptions.map((opt) => {
                 const isSelected = currentCategoryIds.includes(opt.id)

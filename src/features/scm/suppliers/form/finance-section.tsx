@@ -1,8 +1,3 @@
-/**
- * finance-section.tsx — Supplier payment terms, bank account & legacy accurate code
- * Syailendra Group ERP (SCM Pillar)
- */
-
 'use client'
 
 import { useTranslations } from 'next-intl'

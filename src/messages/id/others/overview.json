@@ -1,4 +1,20 @@
 {
   "title": "Pengaturan Sistem & Master Data",
-  "subtitle": "Pusat konfigurasi tata kelola, hak akses, dan master wilayah"
+  "subtitle": "Pusat konfigurasi tata kelola, hak akses, dan master wilayah",
+  "kpis": {
+    "accountStatus": "Status Akun Pengguna",
+    "accountSubtitle": "Role-Based Access Control",
+    "connectedCompany": "Perusahaan Terhubung",
+    "companySubtitle": "DDistillers Multi-Company",
+    "officialRegions": "Master Wilayah Resmi",
+    "regionsSubtitle": "Negara s/d Kelurahan",
+    "auditLog": "Log Audit Keamanan",
+    "auditSubtitle": "Traceability Compliance Log"
+  },
+  "shortcuts": {
+    "countriesProvinces": "Master Negara & Provinsi",
+    "regenciesDistricts": "Master Kab, Kec & Desa",
+    "companyProfile": "Profil Perusahaan",
+    "rbac": "Hak Akses & RBAC"
+  }
 }

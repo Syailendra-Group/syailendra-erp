@@ -1,6 +1,6 @@
 'use client'
 
-import { createContext, useContext, useState } from 'react'
+import { createContext, useCallback, useContext, useState } from 'react'
 
 import type { VillageRecord } from '@/types/others/village'
 import type { ReactElement, ReactNode } from 'react'
@@ -13,6 +13,10 @@ export interface VillageContextType {
   currentRow: VillageRecord | null
   setCurrentRow: (row: VillageRecord | null) => void
   refreshData?: () => void
+  handleCreate: () => void
+  handleEdit: (row: VillageRecord) => void
+  handleView: (row: VillageRecord) => void
+  handleDelete: (row: VillageRecord) => void
 }
 
 const VillageContext = createContext<VillageContextType | null>(null)
@@ -26,6 +30,26 @@ export function VillageProvider({ children, refreshData }: VillageProviderProps)
   const [open, setOpen] = useState<VillageDialogType>(null)
   const [currentRow, setCurrentRow] = useState<VillageRecord | null>(null)
 
+  const handleCreate = useCallback(() => {
+    setCurrentRow(null)
+    setOpen('create')
+  }, [])
+
+  const handleEdit = useCallback((row: VillageRecord) => {
+    setCurrentRow(row)
+    setOpen('edit')
+  }, [])
+
+  const handleView = useCallback((row: VillageRecord) => {
+    setCurrentRow(row)
+    setOpen('view')
+  }, [])
+
+  const handleDelete = useCallback((row: VillageRecord) => {
+    setCurrentRow(row)
+    setOpen('delete')
+  }, [])
+
   return (
     <VillageContext.Provider
       value={{
@@ -33,7 +57,11 @@ export function VillageProvider({ children, refreshData }: VillageProviderProps)
         setOpen,
         currentRow,
         setCurrentRow,
-        refreshData
+        refreshData,
+        handleCreate,
+        handleEdit,
+        handleView,
+        handleDelete
       }}
     >
       {children}

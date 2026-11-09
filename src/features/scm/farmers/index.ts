@@ -1,5 +1,0 @@
-export { FarmersFeature } from './feature'
-export * from './table'
-export * from './columns'
-export * from './form/index'
-export * from './detail/index'

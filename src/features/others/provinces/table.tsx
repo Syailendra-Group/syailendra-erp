@@ -1,29 +1,30 @@
 'use client'
 
 import { useMemo } from 'react'
-import { flexRender, getCoreRowModel, useReactTable } from '@tanstack/react-table'
+import { getCoreRowModel, useReactTable } from '@tanstack/react-table'
 import { useTranslations } from 'next-intl'
 
-import { DataTableLoadingOverlay, DataTablePagination, DataTableSkeleton, DataTableToolbar } from '@/components/data-table'
-import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '@/components/ui/table'
+import { DataTable } from '@/components/data-table'
 import { useProvince } from '@/contexts/others/province.context'
 import { useProvinceFilterOptionsQuery, useProvincesPaginatedQuery } from '@/hooks/others/use-provinces'
 import { useDataTableUrlState } from '@/hooks/use-data-table-url-state'
-import { cn } from '@/lib/utils'
 
 import { getColumns } from './columns'
 
-import type { ProvinceRecord } from '@/types/others/province'
 import type { ReactElement } from 'react'
 
 const FILTER_KEYS = ['scope', 'country']
 
 export function ProvincesTable(): ReactElement {
+  // Translations
   const t = useTranslations('others.provinces')
   const tCommon = useTranslations('common')
   const tReg = useTranslations('regional.common')
-  const { setOpen, setCurrentRow } = useProvince()
 
+  // Context and action handlers
+  const { handleView, handleEdit, handleDelete } = useProvince()
+
+  // URL state controller
   const {
     page,
     perPage,
@@ -44,6 +45,7 @@ export function ProvincesTable(): ReactElement {
     filterKeys: FILTER_KEYS
   })
 
+  // Data fetching and server pagination
   const { data: filterOptions } = useProvinceFilterOptionsQuery()
 
   const scopeFilter = getArrayFilter('scope')
@@ -65,27 +67,44 @@ export function ProvincesTable(): ReactElement {
   const records = result?.records ?? []
   const totalCount = result?.totalCount ?? 0
 
+  // Column definitions
   const columns = useMemo(
     () =>
       getColumns({
         t,
         tCommon,
-        onView: (item: ProvinceRecord) => {
-          setCurrentRow(item)
-          setOpen('view')
-        },
-        onEdit: (item: ProvinceRecord) => {
-          setCurrentRow(item)
-          setOpen('edit')
-        },
-        onDelete: (item: ProvinceRecord) => {
-          setCurrentRow(item)
-          setOpen('delete')
-        }
+        onView: handleView,
+        onEdit: handleEdit,
+        onDelete: handleDelete
       }),
-    [t, tCommon, setCurrentRow, setOpen]
+    [t, tCommon, handleView, handleEdit, handleDelete]
   )
 
+  // Filter options
+  const filters = useMemo(
+    () => [
+      {
+        columnId: 'scope',
+        title: tReg('category'),
+        options: [
+          { label: tReg('domestic'), value: 'domestic' },
+          { label: tReg('international'), value: 'foreign' }
+        ]
+      },
+      ...((filterOptions?.countries || []).length > 0
+        ? [
+            {
+              columnId: 'country',
+              title: tReg('fields.country'),
+              options: (filterOptions?.countries || []).map((item) => ({ label: item.name, value: String(item.id) }))
+            }
+          ]
+        : [])
+    ],
+    [tReg, filterOptions?.countries]
+  )
+
+  // Table instance
   const table = useReactTable({
     data: records,
     columns,
@@ -106,81 +125,8 @@ export function ProvincesTable(): ReactElement {
     getCoreRowModel: getCoreRowModel()
   })
 
-  const scopeOptions = useMemo(
-    () => [
-      { label: tReg('domestic'), value: 'domestic' },
-      { label: tReg('international'), value: 'foreign' }
-    ],
-    [tReg]
-  )
-
-  const countryFilterOptions = useMemo(
-    () => (filterOptions?.countries || []).map((c) => ({ label: c.name, value: String(c.id) })),
-    [filterOptions?.countries]
-  )
-
   const showSkeleton = isLoading || (isFetching && records.length === 0)
 
-  return (
-    <div className="space-y-4">
-      <DataTableToolbar
-        table={table}
-        searchPlaceholder={tCommon('actions.search')}
-        onReset={resetFilters}
-        filters={[
-          {
-            columnId: 'scope',
-            title: tReg('category'),
-            options: scopeOptions
-          },
-          ...(countryFilterOptions.length > 0 ? [{ columnId: 'country', title: tReg('fields.country'), options: countryFilterOptions }] : [])
-        ]}
-      />
-
-      <div className="bg-card relative overflow-hidden rounded-md border-0 shadow-xs">
-        <DataTableLoadingOverlay isUpdating={isUpdating} text={tCommon('status.loading')} />
-
-        <div className="overflow-x-auto">
-          {showSkeleton ? (
-            <DataTableSkeleton columnCount={columns.length} rowCount={perPage} />
-          ) : (
-            <Table>
-              <TableHeader>
-                {table.getHeaderGroups().map((headerGroup) => (
-                  <TableRow key={headerGroup.id}>
-                    {headerGroup.headers.map((header) => (
-                      <TableHead key={header.id} colSpan={header.colSpan} className={cn('text-xs', header.column.id === 'actions' && 'text-center')}>
-                        {header.isPlaceholder ? null : flexRender(header.column.columnDef.header, header.getContext())}
-                      </TableHead>
-                    ))}
-                  </TableRow>
-                ))}
-              </TableHeader>
-              <TableBody>
-                {table.getRowModel().rows?.length ? (
-                  table.getRowModel().rows.map((row) => (
-                    <TableRow key={row.id} className="hover:bg-muted/30 transition-colors">
-                      {row.getVisibleCells().map((cell) => (
-                        <TableCell key={cell.id} className="py-2.5 text-xs">
-                          {flexRender(cell.column.columnDef.cell, cell.getContext())}
-                        </TableCell>
-                      ))}
-                    </TableRow>
-                  ))
-                ) : (
-                  <TableRow>
-                    <TableCell colSpan={columns.length} className="text-muted-foreground h-24 text-center text-xs">
-                      {tCommon('table.noResults')}
-                    </TableCell>
-                  </TableRow>
-                )}
-              </TableBody>
-            </Table>
-          )}
-        </div>
-      </div>
-
-      <DataTablePagination table={table} />
-    </div>
-  )
+  // Render datatable layout
+  return <DataTable table={table} showSkeleton={showSkeleton} isUpdating={isUpdating} onReset={resetFilters} filters={filters} />
 }

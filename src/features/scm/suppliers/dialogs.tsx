@@ -12,9 +12,8 @@ import { ConfirmDialog } from '@/components/dialog/confirm-dialog'
 import { DetailRow } from '@/components/shared/detail-row'
 import { Badge } from '@/components/ui/badge'
 import { Dialog, DialogContent, DialogDescription, DialogHeader, DialogTitle } from '@/components/ui/dialog'
+import { useSupplierContext } from '@/contexts/scm/supplier.context'
 import { useToggleSupplierStatus } from '@/hooks/scm/use-suppliers'
-
-import { useSupplierContext } from './supplier.context'
 
 export function SupplierDialogs() {
   const t = useTranslations('scm.suppliers')

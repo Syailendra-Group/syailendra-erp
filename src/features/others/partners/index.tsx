@@ -1,11 +1,11 @@
 'use client'
 
-import { Building2, Plus, Users } from 'lucide-react'
+import { Building2, Users } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 
+import { PrimaryAction } from '@/components/button/primary-action'
 import { PageHeader } from '@/components/shared/page-header'
 import { StatusBadge } from '@/components/shared/status-badge'
-import { Button } from '@/components/ui/button'
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card'
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '@/components/ui/table'
 
@@ -48,12 +48,7 @@ export function PartnersFeature(): ReactElement {
         title={t('title')}
         description={t('subtitle')}
         icon={Users}
-        actions={
-          <Button className="gap-2 font-semibold">
-            <Plus className="size-4" />
-            <span>{t('primaryAction')}</span>
-          </Button>
-        }
+        actions={<PrimaryAction onClick={() => {}} label={t('primaryAction')} />}
       />
 
       <Card className="shadow-xs">

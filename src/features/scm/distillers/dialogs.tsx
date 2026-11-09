@@ -15,6 +15,7 @@ import { Badge } from '@/components/ui/badge'
 import { Dialog, DialogContent, DialogDescription, DialogHeader, DialogTitle } from '@/components/ui/dialog'
 import { useDistillers } from '@/contexts/scm/distiller.context'
 import { useToggleDistillerStatusMutation } from '@/hooks/scm/use-distillers'
+import { DistillersActionDialog } from './form'
 
 import type { ReactElement } from 'react'
 
@@ -49,6 +50,7 @@ export function DistillersDialogs(): ReactElement {
 
   return (
     <>
+      <DistillersActionDialog />
       {/* 1. View Detail Dialog with Standard DetailRow */}
       <Dialog
         open={isViewOpen}

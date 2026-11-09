@@ -45,7 +45,7 @@ export function getColumns({ t, tCommon, onView, onEdit, onToggleStatus, onDelet
       accessorKey: 'category',
       header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.columns.category')} />,
       cell: ({ row }) => (
-        <Badge variant="outline" className="max-w-40  text-[10px] font-normal">
+        <Badge variant="outline" className="max-w-40 text-[10px] font-normal">
           <LongText>{row.original.category}</LongText>
         </Badge>
       )

@@ -1,49 +1,28 @@
 'use client'
 
 import { useMemo } from 'react'
-import { useRouter } from 'next/navigation'
-import { flexRender, getCoreRowModel, useReactTable } from '@tanstack/react-table'
+import { getCoreRowModel, useReactTable } from '@tanstack/react-table'
 import { useTranslations } from 'next-intl'
 
-import { DataTableLoadingOverlay, DataTablePagination, DataTableSkeleton, DataTableToolbar } from '@/components/data-table'
-import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '@/components/ui/table'
+import { DataTable } from '@/components/data-table'
 import { useFarmers } from '@/contexts/scm/farmer.context'
 import { getColumns } from '@/features/scm/farmers/columns'
 import { useFarmersPaginatedQuery } from '@/hooks/scm/use-farmers'
 import { useDataTableUrlState } from '@/hooks/use-data-table-url-state'
-import { cn } from '@/lib/utils'
 
 import type { ReactElement } from 'react'
 
 const FILTER_KEYS = ['commodity', 'active']
 
 export function FarmersTable(): ReactElement {
-  const tTrace = useTranslations('scm.farmers')
+  // Translations
+  const t = useTranslations('scm.farmers')
   const tCommon = useTranslations('common')
 
-  const router = useRouter()
-  const { setOpen, setCurrentRow } = useFarmers()
+  // Context and action handlers
+  const { handleView, handleEdit, handleDelete } = useFarmers()
 
-  const columns = useMemo(
-    () =>
-      getColumns({
-        tTrace,
-        tCommon,
-        onView: (farmer) => {
-          router.push(`/scm/farmers/${farmer.id}`)
-        },
-        onEdit: (farmer) => {
-          router.push(`/scm/farmers/${farmer.id}/edit`)
-        },
-        onDelete: (farmer) => {
-          setCurrentRow(farmer)
-          setOpen('archive')
-        }
-      }),
-    [tTrace, tCommon, router, setCurrentRow, setOpen]
-  )
-
-  // Hook manages all URL parsing, pagination, sorting & filter state
+  // URL state controller
   const {
     page,
     perPage,
@@ -64,9 +43,9 @@ export function FarmersTable(): ReactElement {
     filterKeys: FILTER_KEYS
   })
 
-  // Fetch paginated data from Odoo via TanStack Query using URL state
+  // Data fetching and server pagination
   const commodityList = getArrayFilter('commodity')
-  const statusList = getArrayFilter('status')
+  const statusList = getArrayFilter('active')
 
   const {
     data: result,
@@ -84,7 +63,46 @@ export function FarmersTable(): ReactElement {
   const farmers = result?.records ?? []
   const totalCount = result?.totalCount ?? 0
 
-  // Clean TanStack Table instance wiring
+  // Column definitions
+  const columns = useMemo(
+    () =>
+      getColumns({
+        t,
+        tCommon,
+        onView: handleView,
+        onEdit: handleEdit,
+        onDelete: handleDelete
+      }),
+    [t, tCommon, handleView, handleEdit, handleDelete]
+  )
+
+  // Filter options
+  const filters = useMemo(
+    () => [
+      {
+        columnId: 'commodity',
+        title: t('table.commodity'),
+        options: [
+          { label: t('commodities.gaharu'), value: 'gaharu' },
+          { label: t('commodities.nilam'), value: 'nilam' },
+          { label: t('commodities.serai'), value: 'serai' },
+          { label: t('commodities.kopi'), value: 'kopi' },
+          { label: t('commodities.cengkeh'), value: 'cengkeh' }
+        ]
+      },
+      {
+        columnId: 'active',
+        title: t('table.status'),
+        options: [
+          { label: tCommon('status.active'), value: 'active' },
+          { label: tCommon('status.archived'), value: 'archived' }
+        ]
+      }
+    ],
+    [t, tCommon]
+  )
+
+  // Table instance
   const table = useReactTable({
     data: farmers,
     columns,
@@ -105,92 +123,8 @@ export function FarmersTable(): ReactElement {
     getCoreRowModel: getCoreRowModel()
   })
 
-  // Faceted Filter Options
-  const commodityFilterOptions = useMemo(
-    () => [
-      { label: tTrace('commodities.gaharu'), value: 'gaharu' },
-      { label: tTrace('commodities.nilam'), value: 'nilam' },
-      { label: tTrace('commodities.serai'), value: 'serai' },
-      { label: tTrace('commodities.kopi'), value: 'kopi' },
-      { label: tTrace('commodities.cengkeh'), value: 'cengkeh' }
-    ],
-    [tTrace]
-  )
-
-  const statusFilterOptions = useMemo(
-    () => [
-      { label: tCommon('status.active'), value: 'true' },
-      { label: tCommon('status.archived'), value: 'false' }
-    ],
-    [tCommon]
-  )
-
   const showSkeleton = isLoading || (isFetching && farmers.length === 0)
 
-  return (
-    <div className="space-y-4">
-      <DataTableToolbar
-        table={table}
-        searchPlaceholder={tCommon('actions.search')}
-        onReset={resetFilters}
-        filters={[
-          {
-            columnId: 'commodity',
-            title: tTrace('table.commodity'),
-            options: commodityFilterOptions
-          },
-          {
-            columnId: 'active',
-            title: tTrace('table.status'),
-            options: statusFilterOptions
-          }
-        ]}
-      />
-
-      <div className="bg-card relative overflow-hidden rounded-md border-0 shadow-xs">
-        <DataTableLoadingOverlay isUpdating={isUpdating} text={tCommon('status.loading')} />
-
-        <div className="overflow-x-auto">
-          {showSkeleton ? (
-            <DataTableSkeleton columnCount={columns.length} rowCount={perPage} />
-          ) : (
-            <Table>
-              <TableHeader>
-                {table.getHeaderGroups().map((headerGroup) => (
-                  <TableRow key={headerGroup.id}>
-                    {headerGroup.headers.map((header) => (
-                      <TableHead key={header.id} colSpan={header.colSpan} className={cn('text-xs', header.column.id === 'actions' && 'text-center')}>
-                        {header.isPlaceholder ? null : flexRender(header.column.columnDef.header, header.getContext())}
-                      </TableHead>
-                    ))}
-                  </TableRow>
-                ))}
-              </TableHeader>
-              <TableBody>
-                {table.getRowModel().rows?.length ? (
-                  table.getRowModel().rows.map((row) => (
-                    <TableRow key={row.id} className="hover:bg-muted/30 transition-colors">
-                      {row.getVisibleCells().map((cell) => (
-                        <TableCell key={cell.id} className="py-2.5 text-xs">
-                          {flexRender(cell.column.columnDef.cell, cell.getContext())}
-                        </TableCell>
-                      ))}
-                    </TableRow>
-                  ))
-                ) : (
-                  <TableRow>
-                    <TableCell colSpan={columns.length} className="text-muted-foreground h-24 text-center text-xs">
-                      {tCommon('table.noResults')}
-                    </TableCell>
-                  </TableRow>
-                )}
-              </TableBody>
-            </Table>
-          )}
-        </div>
-      </div>
-
-      <DataTablePagination table={table} />
-    </div>
-  )
+  // Render datatable layout
+  return <DataTable table={table} showSkeleton={showSkeleton} isUpdating={isUpdating} onReset={resetFilters} filters={filters} />
 }

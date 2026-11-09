@@ -1,35 +1,29 @@
-/**
- * table.tsx — Datatable component for Material Master
- * Syailendra Group ERP — SCM Pillar
- */
-
 'use client'
 
 import { useMemo } from 'react'
-import { flexRender, getCoreRowModel, useReactTable } from '@tanstack/react-table'
+import { getCoreRowModel, useReactTable } from '@tanstack/react-table'
 import { useTranslations } from 'next-intl'
 
-import { DataTableLoadingOverlay, DataTablePagination, DataTableSkeleton, DataTableToolbar } from '@/components/data-table'
-import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '@/components/ui/table'
+import { DataTable } from '@/components/data-table'
 import { useMaterial } from '@/contexts/scm/material.context'
 import { useMaterialsPaginatedQuery } from '@/hooks/scm/use-materials'
 import { useDataTableUrlState } from '@/hooks/use-data-table-url-state'
-import { useRouter } from '@/i18n/navigation'
-import { cn } from '@/lib/utils'
 
 import { getColumns } from './columns'
 
-import type { MaterialRecord } from '@/types/scm/material'
 import type { ReactElement } from 'react'
 
 const FILTER_KEYS = ['category', 'tracking']
 
 export function MaterialsTable(): ReactElement {
+  // Translations
   const t = useTranslations('scm.materials')
   const tCommon = useTranslations('common')
-  const { setOpen, setCurrentRow } = useMaterial()
-  const router = useRouter()
 
+  // Context and action handlers
+  const { handleView, handleEdit, handleDelete } = useMaterial()
+
+  // URL state controller
   const {
     page,
     perPage,
@@ -50,6 +44,7 @@ export function MaterialsTable(): ReactElement {
     filterKeys: FILTER_KEYS
   })
 
+  // Data fetching and server pagination
   const categoryList = getArrayFilter('category')
   const trackingList = getArrayFilter('tracking')
 
@@ -65,26 +60,20 @@ export function MaterialsTable(): ReactElement {
   const records = result?.records ?? []
   const totalCount = result?.totalCount ?? 0
 
+  // Column definitions
   const columns = useMemo(
     () =>
       getColumns({
         t,
         tCommon,
-        onView: (material: MaterialRecord) => {
-          setCurrentRow(material)
-          setOpen('view')
-        },
-        onEdit: (material: MaterialRecord) => {
-          router.push(`/scm/materials/${material.id}/edit`)
-        },
-        onDelete: (material: MaterialRecord) => {
-          setCurrentRow(material)
-          setOpen('delete')
-        }
+        onView: handleView,
+        onEdit: handleEdit,
+        onDelete: handleDelete
       }),
-    [t, tCommon, setCurrentRow, setOpen, router]
+    [t, tCommon, handleView, handleEdit, handleDelete]
   )
 
+  // Filter options
   const filterConfigs = useMemo(
     () => [
       {
@@ -120,6 +109,7 @@ export function MaterialsTable(): ReactElement {
     [t, categoryList, trackingList, createColumnFiltersHandler]
   )
 
+  // Table instance
   const table = useReactTable({
     data: records,
     columns,
@@ -140,52 +130,16 @@ export function MaterialsTable(): ReactElement {
     manualFiltering: true
   })
 
+  // Render datatable layout
   return (
-    <div className="space-y-4">
-      <DataTableToolbar table={table} searchPlaceholder={t('table.searchPlaceholder')} filters={filterConfigs} onReset={resetFilters} />
-
-      <div className="bg-card relative rounded-md border shadow-xs">
-        <DataTableLoadingOverlay isUpdating={isUpdating} text={tCommon('status.loading')} />
-
-        {isLoading ? (
-          <DataTableSkeleton columnCount={columns.length} rowCount={perPage} />
-        ) : (
-          <Table>
-            <TableHeader>
-              {table.getHeaderGroups().map((headerGroup) => (
-                <TableRow key={headerGroup.id}>
-                  {headerGroup.headers.map((header) => (
-                    <TableHead key={header.id} className={cn(header.column.id === 'actions' && 'w-25 text-center')}>
-                      {header.isPlaceholder ? null : flexRender(header.column.columnDef.header, header.getContext())}
-                    </TableHead>
-                  ))}
-                </TableRow>
-              ))}
-            </TableHeader>
-            <TableBody>
-              {table.getRowModel().rows.length > 0 ? (
-                table.getRowModel().rows.map((row) => (
-                  <TableRow key={row.id} data-state={row.getIsSelected() && 'selected'}>
-                    {row.getVisibleCells().map((cell) => (
-                      <TableCell key={cell.id} className={cn(cell.column.id === 'actions' && 'text-center')}>
-                        {flexRender(cell.column.columnDef.cell, cell.getContext())}
-                      </TableCell>
-                    ))}
-                  </TableRow>
-                ))
-              ) : (
-                <TableRow>
-                  <TableCell colSpan={columns.length} className="text-muted-foreground h-24 text-center text-xs">
-                    {t('table.emptyState')}
-                  </TableCell>
-                </TableRow>
-              )}
-            </TableBody>
-          </Table>
-        )}
-      </div>
-
-      <DataTablePagination table={table} />
-    </div>
+    <DataTable
+      table={table}
+      showSkeleton={isLoading}
+      isUpdating={isUpdating}
+      searchPlaceholder={t('table.searchPlaceholder')}
+      filters={filterConfigs}
+      onReset={resetFilters}
+      emptyMessage={t('table.emptyState')}
+    />
   )
 }

@@ -1,33 +1,19 @@
 'use client'
 
-import { Box, Droplet, Layers, Plus, Sparkles } from 'lucide-react'
+import { Box, Droplet, Layers, Sparkles } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 
+import { PrimaryAction } from '@/components/button/primary-action'
 import { SectionCard } from '@/components/card/section-card'
 import { SummaryCard } from '@/components/card/summary-card'
 import { PageHeader } from '@/components/shared/page-header'
-import { Button } from '@/components/ui/button'
-import { MaterialProvider } from '@/contexts/scm/material.context'
+import { MaterialProvider, useMaterial } from '@/contexts/scm/material.context'
 import { useMaterialsPaginatedQuery } from '@/hooks/scm/use-materials'
-import { Link } from '@/i18n/navigation'
 
 import { MaterialsDialogs } from './dialogs'
 import { MaterialsTable } from './table'
 
 import type { ReactElement } from 'react'
-
-function MaterialsPrimaryButtons(): ReactElement {
-  const t = useTranslations('scm.materials')
-
-  return (
-    <Button asChild className="gap-2 font-semibold">
-      <Link href="/scm/materials/create">
-        <Plus className="size-4" />
-        <span>{t('primaryAction')}</span>
-      </Link>
-    </Button>
-  )
-}
 
 function MaterialsSummaryCards(): ReactElement {
   const t = useTranslations('scm.materials')
@@ -51,10 +37,16 @@ function MaterialsSummaryCards(): ReactElement {
 
 function MaterialsContent(): ReactElement {
   const t = useTranslations('scm.materials')
+  const { handleCreate } = useMaterial()
 
   return (
     <div className="space-y-4 sm:space-y-6">
-      <PageHeader title={t('title')} description={t('subtitle')} icon={Sparkles} actions={<MaterialsPrimaryButtons />} />
+      <PageHeader
+        title={t('title')}
+        description={t('subtitle')}
+        icon={Sparkles}
+        actions={<PrimaryAction onClick={handleCreate} label={t('primaryAction')} />}
+      />
 
       <MaterialsSummaryCards />
 
@@ -74,3 +66,7 @@ export function MaterialsFeature(): ReactElement {
     </MaterialProvider>
   )
 }
+
+export * from './table'
+export * from './columns'
+export * from './dialogs'

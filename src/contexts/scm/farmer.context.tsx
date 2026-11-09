@@ -1,6 +1,7 @@
 'use client'
 
-import { createContext, useContext, useState } from 'react'
+import { createContext, useCallback, useContext, useState } from 'react'
+import { useRouter } from 'next/navigation'
 
 import type { FarmerRecord } from '@/types/scm/farmer'
 import type { ReactElement, ReactNode } from 'react'
@@ -13,6 +14,10 @@ export interface FarmersContextType {
   currentRow: FarmerRecord | null
   setCurrentRow: (row: FarmerRecord | null) => void
   refreshData?: () => void
+  handleCreate: () => void
+  handleEdit: (row: FarmerRecord) => void
+  handleView: (row: FarmerRecord) => void
+  handleDelete: (row: FarmerRecord) => void
 }
 
 const FarmersContext = createContext<FarmersContextType | null>(null)
@@ -23,8 +28,32 @@ export interface FarmersProviderProps {
 }
 
 export function FarmersProvider({ children, refreshData }: FarmersProviderProps): ReactElement {
+  const router = useRouter()
   const [open, setOpen] = useState<FarmersDialogType>(null)
   const [currentRow, setCurrentRow] = useState<FarmerRecord | null>(null)
+
+  const handleCreate = useCallback(() => {
+    router.push('/scm/farmers/create')
+  }, [router])
+
+  const handleEdit = useCallback(
+    (row: FarmerRecord) => {
+      router.push(`/scm/farmers/${row.id}/edit`)
+    },
+    [router]
+  )
+
+  const handleView = useCallback(
+    (row: FarmerRecord) => {
+      router.push(`/scm/farmers/${row.id}`)
+    },
+    [router]
+  )
+
+  const handleDelete = useCallback((row: FarmerRecord) => {
+    setCurrentRow(row)
+    setOpen('archive')
+  }, [])
 
   return (
     <FarmersContext.Provider
@@ -33,7 +62,11 @@ export function FarmersProvider({ children, refreshData }: FarmersProviderProps)
         setOpen,
         currentRow,
         setCurrentRow,
-        refreshData
+        refreshData,
+        handleCreate,
+        handleEdit,
+        handleView,
+        handleDelete
       }}
     >
       {children}

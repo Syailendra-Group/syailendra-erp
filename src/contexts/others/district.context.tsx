@@ -1,6 +1,6 @@
 'use client'
 
-import { createContext, useContext, useState } from 'react'
+import { createContext, useCallback, useContext, useState } from 'react'
 
 import type { DistrictRecord } from '@/types/others/district'
 import type { ReactElement, ReactNode } from 'react'
@@ -13,6 +13,10 @@ export interface DistrictContextType {
   currentRow: DistrictRecord | null
   setCurrentRow: (row: DistrictRecord | null) => void
   refreshData?: () => void
+  handleCreate: () => void
+  handleEdit: (row: DistrictRecord) => void
+  handleView: (row: DistrictRecord) => void
+  handleDelete: (row: DistrictRecord) => void
 }
 
 const DistrictContext = createContext<DistrictContextType | null>(null)
@@ -26,6 +30,26 @@ export function DistrictProvider({ children, refreshData }: DistrictProviderProp
   const [open, setOpen] = useState<DistrictDialogType>(null)
   const [currentRow, setCurrentRow] = useState<DistrictRecord | null>(null)
 
+  const handleCreate = useCallback(() => {
+    setCurrentRow(null)
+    setOpen('create')
+  }, [])
+
+  const handleEdit = useCallback((row: DistrictRecord) => {
+    setCurrentRow(row)
+    setOpen('edit')
+  }, [])
+
+  const handleView = useCallback((row: DistrictRecord) => {
+    setCurrentRow(row)
+    setOpen('view')
+  }, [])
+
+  const handleDelete = useCallback((row: DistrictRecord) => {
+    setCurrentRow(row)
+    setOpen('delete')
+  }, [])
+
   return (
     <DistrictContext.Provider
       value={{
@@ -33,7 +57,11 @@ export function DistrictProvider({ children, refreshData }: DistrictProviderProp
         setOpen,
         currentRow,
         setCurrentRow,
-        refreshData
+        refreshData,
+        handleCreate,
+        handleEdit,
+        handleView,
+        handleDelete
       }}
     >
       {children}

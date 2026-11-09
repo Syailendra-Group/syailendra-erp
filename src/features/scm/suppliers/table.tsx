@@ -1,37 +1,27 @@
-/**
- * table.tsx — Datatable component for Master Supplier with Faceted Toolbar Filter
- * Syailendra Group ERP (SCM Pillar)
- */
-
 'use client'
 
 import { useMemo } from 'react'
-import { useRouter } from 'next/navigation'
-import { flexRender, getCoreRowModel, useReactTable } from '@tanstack/react-table'
+import { getCoreRowModel, useReactTable } from '@tanstack/react-table'
 import { useTranslations } from 'next-intl'
 
-import { DataTableLoadingOverlay } from '@/components/data-table/loading-overlay'
-import { DataTablePagination } from '@/components/data-table/pagination'
-import { DataTableSkeleton } from '@/components/data-table/skeleton'
-import { DataTableToolbar } from '@/components/data-table/toolbar'
-import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '@/components/ui/table'
+import { DataTable } from '@/components/data-table'
+import { useSupplierContext } from '@/contexts/scm/supplier.context'
 import { useSupplierCategoryOptions } from '@/hooks/scm/use-supplier-categories'
 import { useSuppliers } from '@/hooks/scm/use-suppliers'
 import { useDataTableUrlState } from '@/hooks/use-data-table-url-state'
-import { cn } from '@/lib/utils'
 
 import { getSupplierColumns } from './columns'
-import { useSupplierContext } from './supplier.context'
 
-import type { SupplierRecord } from '@/types/scm/supplier'
 import type { ReactElement } from 'react'
 
 export function SuppliersTable(): ReactElement {
-  const router = useRouter()
+  // Translations
   const t = useTranslations('scm.suppliers')
-  const tCommon = useTranslations('common')
-  const { setOpen, setSelectedSupplier } = useSupplierContext()
 
+  // Context and action handlers
+  const { handleView, handleEdit, handleToggleStatus } = useSupplierContext()
+
+  // URL state controller
   const {
     page,
     perPage,
@@ -46,23 +36,14 @@ export function SuppliersTable(): ReactElement {
     isUpdating
   } = useDataTableUrlState({ filterKeys: ['categoryIds'] })
 
+  // Data fetching and server pagination
   const { data: categoryOptions = [] } = useSupplierCategoryOptions()
 
-  // Extract selected category IDs from columnFilters (Rule 64 & 98)
   const categoryFilterValues = useMemo(() => {
     const filter = columnFilters.find((f) => f.id === 'categoryIds')
     if (!filter || !Array.isArray(filter.value)) return undefined
     return filter.value.map((v) => Number(v)).filter((v) => !isNaN(v) && v > 0)
   }, [columnFilters])
-
-  const categoryFacetedOptions = useMemo(
-    () =>
-      categoryOptions.map((opt) => ({
-        label: opt.displayName || opt.name,
-        value: String(opt.id)
-      })),
-    [categoryOptions]
-  )
 
   const { data, isLoading } = useSuppliers({
     page,
@@ -74,25 +55,34 @@ export function SuppliersTable(): ReactElement {
   const items = useMemo(() => data?.items ?? [], [data?.items])
   const total = data?.total ?? 0
 
+  // Column definitions
   const columns = useMemo(
     () =>
       getSupplierColumns({
         t,
-        onView: (item: SupplierRecord) => {
-          setSelectedSupplier(item)
-          setOpen('view')
-        },
-        onEdit: (item: SupplierRecord) => {
-          router.push(`/scm/suppliers/${item.id}/edit`)
-        },
-        onToggleStatus: (item: SupplierRecord) => {
-          setSelectedSupplier(item)
-          setOpen(item.active ? 'archive' : 'restore')
-        }
+        onView: handleView,
+        onEdit: handleEdit,
+        onToggleStatus: handleToggleStatus
       }),
-    [t, router, setOpen, setSelectedSupplier]
+    [t, handleView, handleEdit, handleToggleStatus]
   )
 
+  // Filter options
+  const filters = useMemo(
+    () => [
+      {
+        columnId: 'categoryIds',
+        title: t('table.columns.categories'),
+        options: categoryOptions.map((opt) => ({
+          label: opt.displayName || opt.name,
+          value: String(opt.id)
+        }))
+      }
+    ],
+    [t, categoryOptions]
+  )
+
+  // Table instance
   const table = useReactTable({
     data: items,
     columns,
@@ -112,66 +102,16 @@ export function SuppliersTable(): ReactElement {
     getCoreRowModel: getCoreRowModel()
   })
 
+  // Render datatable layout
   return (
-    <div className="space-y-4">
-      {/* Standard DataTableToolbar with Dynamic Category Faceted Filter */}
-      <DataTableToolbar
-        table={table}
-        searchPlaceholder={t('actions.filter')}
-        filters={[
-          {
-            columnId: 'categoryIds',
-            title: t('table.columns.categories'),
-            options: categoryFacetedOptions
-          }
-        ]}
-        onReset={resetFilters}
-      />
-
-      {/* Main Table Box with Self-Contained Skeleton & Overlay */}
-      <div className="bg-card relative rounded-md border shadow-xs">
-        <DataTableLoadingOverlay isUpdating={isUpdating} text={tCommon('status.loading')} />
-
-        {isLoading ? (
-          <DataTableSkeleton columnCount={columns.length} rowCount={perPage} />
-        ) : (
-          <Table>
-            <TableHeader>
-              {table.getHeaderGroups().map((headerGroup) => (
-                <TableRow key={headerGroup.id}>
-                  {headerGroup.headers.map((header) => (
-                    <TableHead key={header.id} className={cn(header.column.id === 'actions' && 'w-28 text-center')}>
-                      {header.isPlaceholder ? null : flexRender(header.column.columnDef.header, header.getContext())}
-                    </TableHead>
-                  ))}
-                </TableRow>
-              ))}
-            </TableHeader>
-            <TableBody>
-              {table.getRowModel().rows.length > 0 ? (
-                table.getRowModel().rows.map((row) => (
-                  <TableRow key={row.id}>
-                    {row.getVisibleCells().map((cell) => (
-                      <TableCell key={cell.id} className={cn(cell.column.id === 'actions' && 'text-center')}>
-                        {flexRender(cell.column.columnDef.cell, cell.getContext())}
-                      </TableCell>
-                    ))}
-                  </TableRow>
-                ))
-              ) : (
-                <TableRow>
-                  <TableCell colSpan={columns.length} className="text-muted-foreground h-24 text-center text-xs">
-                    {t('table.emptyState')}
-                  </TableCell>
-                </TableRow>
-              )}
-            </TableBody>
-          </Table>
-        )}
-      </div>
-
-      {/* Pagination Footer */}
-      <DataTablePagination table={table} />
-    </div>
+    <DataTable
+      table={table}
+      showSkeleton={isLoading}
+      isUpdating={isUpdating}
+      searchPlaceholder={t('actions.filter')}
+      onReset={resetFilters}
+      emptyMessage={t('table.emptyState')}
+      filters={filters}
+    />
   )
 }

@@ -1,14 +1,13 @@
 'use client'
 
 import { useMemo } from 'react'
-import { flexRender, getCoreRowModel, useReactTable } from '@tanstack/react-table'
+import { getCoreRowModel, useReactTable } from '@tanstack/react-table'
 import { useTranslations } from 'next-intl'
 
-import { DataTableLoadingOverlay, DataTablePagination, DataTableSkeleton, DataTableToolbar } from '@/components/data-table'
-import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '@/components/ui/table'
+import { DataTable } from '@/components/data-table'
+import { useEmployees } from '@/contexts/hris/employee.context'
 import { useDepartmentOptionsQuery, useEmployeesPaginatedQuery } from '@/hooks/hris/use-employees'
 import { useDataTableUrlState } from '@/hooks/use-data-table-url-state'
-import { cn } from '@/lib/utils'
 
 import { getColumns } from './columns'
 
@@ -17,13 +16,14 @@ import type { ReactElement } from 'react'
 const FILTER_KEYS = ['department', 'active']
 
 export function EmployeesTable(): ReactElement {
+  // Translations
   const tAdmin = useTranslations('admin.employees')
   const tCommon = useTranslations('common')
 
-  const { data: deptOptions = [] } = useDepartmentOptionsQuery()
+  // Context and action handlers
+  const { handleView, handleEdit, handleDelete } = useEmployees()
 
-  const columns = useMemo(() => getColumns({ tAdmin, tCommon }), [tAdmin, tCommon])
-
+  // URL state controller
   const {
     page,
     perPage,
@@ -44,6 +44,9 @@ export function EmployeesTable(): ReactElement {
     filterKeys: FILTER_KEYS
   })
 
+  // Data fetching and server pagination
+  const { data: deptOptions = [] } = useDepartmentOptionsQuery()
+
   const deptList = getArrayFilter('department')
   const statusList = getArrayFilter('active')
 
@@ -63,6 +66,40 @@ export function EmployeesTable(): ReactElement {
   const employees = result?.records ?? []
   const totalCount = result?.totalCount ?? 0
 
+  // Column definitions
+  const columns = useMemo(
+    () =>
+      getColumns({
+        tAdmin,
+        tCommon,
+        onView: handleView,
+        onEdit: handleEdit,
+        onDelete: handleDelete
+      }),
+    [tAdmin, tCommon, handleView, handleEdit, handleDelete]
+  )
+
+  // Filter options
+  const filters = useMemo(
+    () => [
+      {
+        columnId: 'department',
+        title: tAdmin('table.department'),
+        options: deptOptions.map((d) => ({ label: d.name, value: String(d.id) }))
+      },
+      {
+        columnId: 'active',
+        title: tAdmin('table.status'),
+        options: [
+          { label: tCommon('status.active'), value: 'active' },
+          { label: tCommon('status.archived'), value: 'archived' }
+        ]
+      }
+    ],
+    [tAdmin, tCommon, deptOptions]
+  )
+
+  // Table instance
   const table = useReactTable({
     data: employees,
     columns,
@@ -83,83 +120,17 @@ export function EmployeesTable(): ReactElement {
     getCoreRowModel: getCoreRowModel()
   })
 
-  const departmentFilterOptions = useMemo(() => deptOptions.map((d) => ({ label: d.name, value: String(d.id) })), [deptOptions])
+  const showSkeleton = isLoading || (isFetching && employees.length === 0)
 
-  const statusFilterOptions = useMemo(
-    () => [
-      { label: tCommon('status.active'), value: 'active' },
-      { label: tCommon('status.archived'), value: 'archived' }
-    ],
-    [tCommon]
-  )
-
+  // Render datatable layout
   return (
-    <div className="space-y-4">
-      <DataTableToolbar
-        table={table}
-        searchPlaceholder={tCommon('actions.search')}
-        onReset={resetFilters}
-        filters={[
-          {
-            columnId: 'department',
-            title: tAdmin('table.department'),
-            options: departmentFilterOptions
-          },
-          {
-            columnId: 'active',
-            title: tAdmin('table.status'),
-            options: statusFilterOptions
-          }
-        ]}
-      />
-
-      <div className="bg-card relative overflow-hidden rounded-md border shadow-xs">
-        <DataTableLoadingOverlay isUpdating={isUpdating} text={tCommon('status.loading')} />
-        <div className="overflow-x-auto">
-          {isLoading || isFetching ? (
-            <DataTableSkeleton columnCount={columns.length} rowCount={perPage} />
-          ) : (
-            <Table>
-              <TableHeader>
-                {table.getHeaderGroups().map((headerGroup) => (
-                  <TableRow key={headerGroup.id}>
-                    {headerGroup.headers.map((header) => (
-                      <TableHead
-                        key={header.id}
-                        colSpan={header.colSpan}
-                        className={cn('text-xs font-semibold', header.column.id === 'actions' && 'text-center')}
-                      >
-                        {header.isPlaceholder ? null : flexRender(header.column.columnDef.header, header.getContext())}
-                      </TableHead>
-                    ))}
-                  </TableRow>
-                ))}
-              </TableHeader>
-              <TableBody>
-                {table.getRowModel().rows?.length ? (
-                  table.getRowModel().rows.map((row) => (
-                    <TableRow key={row.id} className="hover:bg-muted/30 transition-colors">
-                      {row.getVisibleCells().map((cell) => (
-                        <TableCell key={cell.id} className="py-2.5 text-xs">
-                          {flexRender(cell.column.columnDef.cell, cell.getContext())}
-                        </TableCell>
-                      ))}
-                    </TableRow>
-                  ))
-                ) : (
-                  <TableRow>
-                    <TableCell colSpan={columns.length} className="text-muted-foreground h-24 text-center text-xs">
-                      {tCommon('table.noResults')}
-                    </TableCell>
-                  </TableRow>
-                )}
-              </TableBody>
-            </Table>
-          )}
-        </div>
-      </div>
-
-      <DataTablePagination table={table} />
-    </div>
+    <DataTable
+      table={table}
+      showSkeleton={showSkeleton}
+      isUpdating={isUpdating}
+      searchPlaceholder={tCommon('actions.search')}
+      onReset={resetFilters}
+      filters={filters}
+    />
   )
 }

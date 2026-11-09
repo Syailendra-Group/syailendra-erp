@@ -1,8 +1,3 @@
-/**
- * dialogs.tsx — Dialogs suite (View Detail & Delete) for Material Master
- * Syailendra Group ERP — SCM Pillar
- */
-
 'use client'
 
 import { useTranslations } from 'next-intl'

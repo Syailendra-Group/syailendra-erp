@@ -1,8 +1,3 @@
-/**
- * dialogs.tsx — View DetailRow and Delete ConfirmDialog for Supplier Categories
- * Syailendra Group ERP (SCM Pillar)
- */
-
 'use client'
 
 import { useTranslations } from 'next-intl'
@@ -12,10 +7,10 @@ import { ConfirmDialog } from '@/components/dialog/confirm-dialog'
 import { DetailRow } from '@/components/shared/detail-row'
 import { Badge } from '@/components/ui/badge'
 import { Dialog, DialogContent, DialogDescription, DialogHeader, DialogTitle } from '@/components/ui/dialog'
+import { useSupplierCategoryContext } from '@/contexts/scm/supplier-category.context'
 import { useDeleteSupplierCategory } from '@/hooks/scm/use-supplier-categories'
 
 import { SupplierCategoryFormDialog } from './form'
-import { useSupplierCategoryContext } from './supplier-category.context'
 
 export function SupplierCategoryDialogs() {
   const t = useTranslations('scm.supplierCategories')

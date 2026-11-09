@@ -1,6 +1,6 @@
 'use client'
 
-import { createContext, useContext, useState } from 'react'
+import { createContext, useCallback, useContext, useState } from 'react'
 
 import type { ProvinceRecord } from '@/types/others/province'
 import type { ReactElement, ReactNode } from 'react'
@@ -13,6 +13,10 @@ export interface ProvinceContextType {
   currentRow: ProvinceRecord | null
   setCurrentRow: (row: ProvinceRecord | null) => void
   refreshData?: () => void
+  handleCreate: () => void
+  handleEdit: (row: ProvinceRecord) => void
+  handleView: (row: ProvinceRecord) => void
+  handleDelete: (row: ProvinceRecord) => void
 }
 
 const ProvinceContext = createContext<ProvinceContextType | null>(null)
@@ -26,6 +30,26 @@ export function ProvinceProvider({ children, refreshData }: ProvinceProviderProp
   const [open, setOpen] = useState<ProvinceDialogType>(null)
   const [currentRow, setCurrentRow] = useState<ProvinceRecord | null>(null)
 
+  const handleCreate = useCallback(() => {
+    setCurrentRow(null)
+    setOpen('create')
+  }, [])
+
+  const handleEdit = useCallback((row: ProvinceRecord) => {
+    setCurrentRow(row)
+    setOpen('edit')
+  }, [])
+
+  const handleView = useCallback((row: ProvinceRecord) => {
+    setCurrentRow(row)
+    setOpen('view')
+  }, [])
+
+  const handleDelete = useCallback((row: ProvinceRecord) => {
+    setCurrentRow(row)
+    setOpen('delete')
+  }, [])
+
   return (
     <ProvinceContext.Provider
       value={{
@@ -33,7 +57,11 @@ export function ProvinceProvider({ children, refreshData }: ProvinceProviderProp
         setOpen,
         currentRow,
         setCurrentRow,
-        refreshData
+        refreshData,
+        handleCreate,
+        handleEdit,
+        handleView,
+        handleDelete
       }}
     >
       {children}

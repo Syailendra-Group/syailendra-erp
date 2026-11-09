@@ -2,11 +2,10 @@
 
 import { Building, Mail, Phone } from 'lucide-react'
 
+import { ActionButton } from '@/components/button/action-button'
 import { DataTableColumnHeader } from '@/components/data-table/column-header'
 import { StatusBadge } from '@/components/shared/status-badge'
 import { IconText, LongText } from '@/components/text'
-
-import { DataTableRowActions } from './row-actions'
 
 import type { EmployeeRecord } from '@/types/hris/employee'
 import type { ColumnDef } from '@tanstack/react-table'
@@ -14,30 +13,26 @@ import type { ColumnDef } from '@tanstack/react-table'
 export interface GetColumnsOptions {
   tAdmin: (key: string) => string
   tCommon: (key: string) => string
+  onView?: (employee: EmployeeRecord) => void
+  onEdit?: (employee: EmployeeRecord) => void
+  onDelete?: (employee: EmployeeRecord) => void
 }
 
-export function getColumns({ tAdmin, tCommon }: GetColumnsOptions): ColumnDef<EmployeeRecord>[] {
+export function getColumns({ tAdmin, tCommon, onView, onEdit, onDelete }: GetColumnsOptions): ColumnDef<EmployeeRecord>[] {
   return [
     {
       accessorKey: 'name',
       header: ({ column }) => <DataTableColumnHeader column={column} title={tAdmin('table.name')} />,
-      cell: ({ row }) => {
-        const emp = row.original
-        return (
-          <div className="text-foreground max-w-[200px] text-xs font-semibold">
-            <LongText>{emp.name}</LongText>
-          </div>
-        )
-      },
+      cell: ({ row }) => <LongText className="text-foreground block max-w-50 text-xs font-semibold">{row.original.name}</LongText>,
       enableSorting: true
     },
     {
       accessorKey: 'job_title',
       header: ({ column }) => <DataTableColumnHeader column={column} title={tAdmin('table.job_title')} />,
       cell: ({ row }) => (
-        <span className="text-muted-foreground block max-w-[160px] text-xs font-medium">
-          <LongText>{row.original.job_title || tAdmin('table.defaultJob')}</LongText>
-        </span>
+        <LongText className="text-muted-foreground block max-w-40 text-xs font-medium">
+          {row.original.job_title || tAdmin('table.defaultJob')}
+        </LongText>
       )
     },
     {
@@ -63,7 +58,7 @@ export function getColumns({ tAdmin, tCommon }: GetColumnsOptions): ColumnDef<Em
       cell: ({ row }) => {
         const emp = row.original
         return (
-          <div className="max-w-[160px] space-y-0.5 text-[11px]">
+          <div className="max-w-40 space-y-0.5 text-[11px]">
             {emp.work_email && (
               <IconText icon={Mail} mono iconClassName="h-3 w-3">
                 <LongText>{emp.work_email}</LongText>
@@ -94,7 +89,20 @@ export function getColumns({ tAdmin, tCommon }: GetColumnsOptions): ColumnDef<Em
     {
       id: 'actions',
       header: () => <div className="text-center">{tCommon('table.actions')}</div>,
-      cell: ({ row }) => <DataTableRowActions row={row.original} />
+      cell: ({ row }) => {
+        const emp = row.original
+        return (
+          <div className="flex items-center justify-center gap-1">
+            <ActionButton variant="view" label={tCommon('actions.view')} onClick={() => onView?.(emp)} />
+            <ActionButton variant="edit" label={tCommon('actions.edit')} onClick={() => onEdit?.(emp)} />
+            <ActionButton
+              variant={emp.active ? 'archive' : 'restore'}
+              label={emp.active ? tCommon('actions.archive') : tCommon('actions.restore')}
+              onClick={() => onDelete?.(emp)}
+            />
+          </div>
+        )
+      }
     }
   ]
 }

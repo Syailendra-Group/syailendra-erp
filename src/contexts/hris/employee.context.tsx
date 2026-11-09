@@ -1,8 +1,8 @@
 'use client'
 
-import { createContext, useContext, useState } from 'react'
+import { createContext, useCallback, useContext, useState } from 'react'
 
-import type { DepartmentOption, EmployeeRecord } from '@/actions/hris/employee.action'
+import type { DepartmentOption, EmployeeRecord } from '@/types/hris/employee'
 import type { ReactElement, ReactNode } from 'react'
 
 export type EmployeesDialogType = 'add' | 'edit' | 'archive' | 'view' | null
@@ -13,22 +13,46 @@ export interface EmployeesContextType {
   currentRow: EmployeeRecord | null
   setCurrentRow: (row: EmployeeRecord | null) => void
   departments: DepartmentOption[]
-  setDepartments: (depts: DepartmentOption[]) => void
+  setDepartments: (departments: DepartmentOption[]) => void
   refreshData?: () => void
+  handleCreate: () => void
+  handleEdit: (row: EmployeeRecord) => void
+  handleView: (row: EmployeeRecord) => void
+  handleDelete: (row: EmployeeRecord) => void
 }
 
 const EmployeesContext = createContext<EmployeesContextType | null>(null)
 
 export interface EmployeesProviderProps {
   children: ReactNode
-  refreshData?: () => void
   initialDepartments?: DepartmentOption[]
+  refreshData?: () => void
 }
 
-export function EmployeesProvider({ children, refreshData, initialDepartments = [] }: EmployeesProviderProps): ReactElement {
+export function EmployeesProvider({ children, initialDepartments = [], refreshData }: EmployeesProviderProps): ReactElement {
   const [open, setOpen] = useState<EmployeesDialogType>(null)
   const [currentRow, setCurrentRow] = useState<EmployeeRecord | null>(null)
   const [departments, setDepartments] = useState<DepartmentOption[]>(initialDepartments)
+
+  const handleCreate = useCallback(() => {
+    setCurrentRow(null)
+    setOpen('add')
+  }, [])
+
+  const handleEdit = useCallback((row: EmployeeRecord) => {
+    setCurrentRow(row)
+    setOpen('edit')
+  }, [])
+
+  const handleView = useCallback((row: EmployeeRecord) => {
+    setCurrentRow(row)
+    setOpen('view')
+  }, [])
+
+  const handleDelete = useCallback((row: EmployeeRecord) => {
+    setCurrentRow(row)
+    setOpen('archive')
+  }, [])
 
   return (
     <EmployeesContext.Provider
@@ -39,7 +63,11 @@ export function EmployeesProvider({ children, refreshData, initialDepartments = 
         setCurrentRow,
         departments,
         setDepartments,
-        refreshData
+        refreshData,
+        handleCreate,
+        handleEdit,
+        handleView,
+        handleDelete
       }}
     >
       {children}
@@ -50,7 +78,7 @@ export function EmployeesProvider({ children, refreshData, initialDepartments = 
 export function useEmployees(): EmployeesContextType {
   const ctx = useContext(EmployeesContext)
   if (!ctx) {
-    throw new Error('useEmployees must be used within an EmployeesProvider')
+    throw new Error('useEmployees must be used within a EmployeesProvider')
   }
   return ctx
 }

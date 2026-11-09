@@ -1,6 +1,6 @@
 'use client'
 
-import { createContext, useContext, useState } from 'react'
+import { createContext, useCallback, useContext, useState } from 'react'
 
 import type { RegencyRecord } from '@/types/others/regency'
 import type { ReactElement, ReactNode } from 'react'
@@ -13,6 +13,10 @@ export interface RegencyContextType {
   currentRow: RegencyRecord | null
   setCurrentRow: (row: RegencyRecord | null) => void
   refreshData?: () => void
+  handleCreate: () => void
+  handleEdit: (row: RegencyRecord) => void
+  handleView: (row: RegencyRecord) => void
+  handleDelete: (row: RegencyRecord) => void
 }
 
 const RegencyContext = createContext<RegencyContextType | null>(null)
@@ -26,6 +30,26 @@ export function RegencyProvider({ children, refreshData }: RegencyProviderProps)
   const [open, setOpen] = useState<RegencyDialogType>(null)
   const [currentRow, setCurrentRow] = useState<RegencyRecord | null>(null)
 
+  const handleCreate = useCallback(() => {
+    setCurrentRow(null)
+    setOpen('create')
+  }, [])
+
+  const handleEdit = useCallback((row: RegencyRecord) => {
+    setCurrentRow(row)
+    setOpen('edit')
+  }, [])
+
+  const handleView = useCallback((row: RegencyRecord) => {
+    setCurrentRow(row)
+    setOpen('view')
+  }, [])
+
+  const handleDelete = useCallback((row: RegencyRecord) => {
+    setCurrentRow(row)
+    setOpen('delete')
+  }, [])
+
   return (
     <RegencyContext.Provider
       value={{
@@ -33,7 +57,11 @@ export function RegencyProvider({ children, refreshData }: RegencyProviderProps)
         setOpen,
         currentRow,
         setCurrentRow,
-        refreshData
+        refreshData,
+        handleCreate,
+        handleEdit,
+        handleView,
+        handleDelete
       }}
     >
       {children}

@@ -1,32 +1,29 @@
 'use client'
 
 import { useMemo } from 'react'
-import { flexRender, getCoreRowModel, useReactTable } from '@tanstack/react-table'
+import { getCoreRowModel, useReactTable } from '@tanstack/react-table'
 import { useTranslations } from 'next-intl'
 
-import { ActionButton } from '@/components/button/action-button'
-import { DataTableLoadingOverlay, DataTablePagination, DataTableSkeleton, DataTableToolbar } from '@/components/data-table'
-import { DataTableColumnHeader } from '@/components/data-table/column-header'
-import { ConfirmDialog } from '@/components/dialog/confirm-dialog'
-import { StatusBadge } from '@/components/shared/status-badge'
-import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '@/components/ui/table'
+import { DataTable } from '@/components/data-table'
 import { useDepartment } from '@/contexts/hris/department.context'
-import { useDepartmentsPaginatedQuery, useToggleDepartmentStatusMutation } from '@/hooks/hris/use-departments'
+import { useDepartmentsPaginatedQuery } from '@/hooks/hris/use-departments'
 import { useDataTableUrlState } from '@/hooks/use-data-table-url-state'
-import { cn } from '@/lib/utils'
 
-import type { DepartmentRecord } from '@/types/hris/department'
-import type { ColumnDef } from '@tanstack/react-table'
+import { getColumns } from './columns'
+
 import type { ReactElement } from 'react'
 
 const FILTER_KEYS = ['active']
 
 export function DepartmentsTable(): ReactElement {
+  // Translations
   const tAdmin = useTranslations('admin.departments')
   const tCommon = useTranslations('common')
-  const { setOpen, setCurrentRow, currentRow, open } = useDepartment()
-  const { mutateAsync: toggleStatus, isPending: isToggling } = useToggleDepartmentStatusMutation()
 
+  // Context and action handlers
+  const { handleEdit, handleDelete } = useDepartment()
+
+  // URL state controller
   const {
     page,
     perPage,
@@ -47,6 +44,7 @@ export function DepartmentsTable(): ReactElement {
     filterKeys: FILTER_KEYS
   })
 
+  // Data fetching and server pagination
   const statusList = getArrayFilter('active')
 
   const {
@@ -64,55 +62,34 @@ export function DepartmentsTable(): ReactElement {
   const departments = result?.records ?? []
   const totalCount = result?.totalCount ?? 0
 
-  const handleToggle = async (item: DepartmentRecord) => {
-    await toggleStatus({ id: item.id, active: !item.active })
-    setOpen(null)
-  }
-
-  const columns = useMemo<ColumnDef<DepartmentRecord>[]>(
-    () => [
-      {
-        accessorKey: 'name',
-        header: ({ column }) => <DataTableColumnHeader column={column} title={tAdmin('fields.name')} />,
-        cell: ({ row }) => <span className="text-foreground text-xs font-semibold sm:text-sm">{row.original.name}</span>,
-        enableSorting: true
-      },
-      {
-        accessorKey: 'active',
-        header: ({ column }) => <DataTableColumnHeader column={column} title={tCommon('status.loading')} />,
-        cell: ({ row }) => {
-          const active = row.original.active
-          return <StatusBadge variant={active ? 'success' : 'warning'}>{active ? tCommon('status.active') : tCommon('status.archived')}</StatusBadge>
-        }
-      },
-      {
-        id: 'actions',
-        header: () => <div className="text-center text-xs">{tCommon('table.actions')}</div>,
-        cell: ({ row }) => (
-          <div className="flex items-center justify-center gap-1">
-            <ActionButton
-              variant="edit"
-              label={tCommon('actions.edit')}
-              onClick={() => {
-                setCurrentRow(row.original)
-                setOpen('edit')
-              }}
-            />
-            <ActionButton
-              variant={row.original.active ? 'archive' : 'restore'}
-              label={row.original.active ? tCommon('actions.archive') : tCommon('actions.restore')}
-              onClick={() => {
-                setCurrentRow(row.original)
-                setOpen(row.original.active ? 'archive' : 'restore')
-              }}
-            />
-          </div>
-        )
-      }
-    ],
-    [tAdmin, tCommon, setCurrentRow, setOpen]
+  // Column definitions
+  const columns = useMemo(
+    () =>
+      getColumns({
+        tAdmin,
+        tCommon,
+        onEdit: handleEdit,
+        onDelete: handleDelete
+      }),
+    [tAdmin, tCommon, handleEdit, handleDelete]
   )
 
+  // Filter options
+  const filters = useMemo(
+    () => [
+      {
+        columnId: 'active',
+        title: tAdmin('fields.status') || tCommon('status.status'),
+        options: [
+          { label: tCommon('status.active'), value: 'active' },
+          { label: tCommon('status.archived'), value: 'archived' }
+        ]
+      }
+    ],
+    [tAdmin, tCommon]
+  )
+
+  // Table instance
   const table = useReactTable({
     data: departments,
     columns,
@@ -133,91 +110,17 @@ export function DepartmentsTable(): ReactElement {
     getCoreRowModel: getCoreRowModel()
   })
 
-  const statusFilterOptions = useMemo(
-    () => [
-      { label: tCommon('status.active'), value: 'active' },
-      { label: tCommon('status.archived'), value: 'archived' }
-    ],
-    [tCommon]
-  )
+  const showSkeleton = isLoading || (isFetching && departments.length === 0)
 
+  // Render datatable layout
   return (
-    <div className="space-y-4">
-      <DataTableToolbar
-        table={table}
-        searchPlaceholder={tCommon('actions.search')}
-        onReset={resetFilters}
-        filters={[
-          {
-            columnId: 'active',
-            title: tCommon('status.loading'),
-            options: statusFilterOptions
-          }
-        ]}
-      />
-
-      <div className="bg-card relative overflow-hidden rounded-md border shadow-xs">
-        <DataTableLoadingOverlay isUpdating={isUpdating} text={tCommon('status.loading')} />
-        <div className="overflow-x-auto">
-          {isLoading || isFetching ? (
-            <DataTableSkeleton columnCount={columns.length} rowCount={perPage} />
-          ) : (
-            <Table>
-              <TableHeader>
-                {table.getHeaderGroups().map((headerGroup) => (
-                  <TableRow key={headerGroup.id}>
-                    {headerGroup.headers.map((header) => (
-                      <TableHead
-                        key={header.id}
-                        colSpan={header.colSpan}
-                        className={cn('text-xs font-semibold', header.column.id === 'actions' && 'text-center')}
-                      >
-                        {header.isPlaceholder ? null : flexRender(header.column.columnDef.header, header.getContext())}
-                      </TableHead>
-                    ))}
-                  </TableRow>
-                ))}
-              </TableHeader>
-              <TableBody>
-                {table.getRowModel().rows?.length ? (
-                  table.getRowModel().rows.map((row) => (
-                    <TableRow key={row.id} className="hover:bg-muted/30 transition-colors">
-                      {row.getVisibleCells().map((cell) => (
-                        <TableCell key={cell.id} className="py-2.5 text-xs">
-                          {flexRender(cell.column.columnDef.cell, cell.getContext())}
-                        </TableCell>
-                      ))}
-                    </TableRow>
-                  ))
-                ) : (
-                  <TableRow>
-                    <TableCell colSpan={columns.length} className="text-muted-foreground h-24 text-center text-xs">
-                      {tCommon('table.noResults')}
-                    </TableCell>
-                  </TableRow>
-                )}
-              </TableBody>
-            </Table>
-          )}
-        </div>
-      </div>
-
-      <DataTablePagination table={table} />
-
-      <ConfirmDialog
-        open={open === 'archive' || open === 'restore'}
-        onOpenChange={(isOpen) => !isOpen && setOpen(null)}
-        title={open === 'archive' ? tAdmin('confirm.archiveTitle') : tAdmin('confirm.restoreTitle')}
-        desc={
-          open === 'archive'
-            ? tAdmin('confirm.archiveDesc', { name: currentRow?.name || '' })
-            : tAdmin('confirm.restoreDesc', { name: currentRow?.name || '' })
-        }
-        confirmText={open === 'archive' ? tCommon('actions.archive') : tCommon('actions.restore')}
-        destructive={open === 'archive'}
-        isLoading={isToggling}
-        handleConfirm={() => currentRow && handleToggle(currentRow)}
-      />
-    </div>
+    <DataTable
+      table={table}
+      showSkeleton={showSkeleton}
+      isUpdating={isUpdating}
+      searchPlaceholder={tCommon('actions.search')}
+      onReset={resetFilters}
+      filters={filters}
+    />
   )
 }

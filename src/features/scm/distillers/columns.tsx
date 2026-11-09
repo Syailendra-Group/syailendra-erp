@@ -12,25 +12,26 @@ import { Badge } from '@/components/ui/badge'
 import type { DistillerRecord } from '@/types/scm/distiller'
 
 export interface GetColumnsOptions {
-  t?: (key: string) => string
-  tTrace: (key: string) => string
+  t: (key: string) => string
+  tTrace?: (key: string) => string
   tCommon: (key: string) => string
   onView?: (item: DistillerRecord) => void
   onEdit?: (item: DistillerRecord) => void
   onDelete?: (item: DistillerRecord) => void
 }
 
-export function getColumns({ tTrace, tCommon, onView, onEdit, onDelete }: GetColumnsOptions): ColumnDef<DistillerRecord>[] {
+export function getColumns({ t: tProp, tTrace, tCommon, onView, onEdit, onDelete }: GetColumnsOptions): ColumnDef<DistillerRecord>[] {
+  const t = tProp || tTrace!
   return [
     {
       accessorKey: 'ref',
-      header: ({ column }) => <DataTableColumnHeader column={column} title={tTrace('table.code')} />,
+      header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.code')} />,
       cell: ({ row }) => <PrimaryText fallback="-">{row.original.ref}</PrimaryText>,
       enableSorting: true
     },
     {
       accessorKey: 'name',
-      header: ({ column }) => <DataTableColumnHeader column={column} title={tTrace('table.name')} />,
+      header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.name')} />,
       cell: ({ row }) => (
         <IconText icon={Factory} className="max-w-55 text-xs font-semibold">
           <LongText>{row.original.name}</LongText>
@@ -40,7 +41,7 @@ export function getColumns({ tTrace, tCommon, onView, onEdit, onDelete }: GetCol
     },
     {
       accessorKey: 'method',
-      header: ({ column }) => <DataTableColumnHeader column={column} title={tTrace('table.method') || 'Metode'} />,
+      header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.method') || 'Metode'} />,
       cell: ({ row }) => (
         <Badge variant="outline" className="text-[10px] font-normal">
           <IconText icon={Flame} iconClassName="text-amber-500 h-3 w-3">
@@ -51,7 +52,7 @@ export function getColumns({ tTrace, tCommon, onView, onEdit, onDelete }: GetCol
     },
     {
       accessorKey: 'boiler_capacity_kg',
-      header: ({ column }) => <DataTableColumnHeader column={column} title={tTrace('table.capacity') || 'Kapasitas'} />,
+      header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.capacity') || 'Kapasitas'} />,
       cell: ({ row }) => (
         <IconText icon={Gauge} mono className="text-muted-foreground">
           {row.original.boiler_capacity_kg ? `${row.original.boiler_capacity_kg} Kg` : '-'}
@@ -61,7 +62,7 @@ export function getColumns({ tTrace, tCommon, onView, onEdit, onDelete }: GetCol
     },
     {
       accessorKey: 'city',
-      header: ({ column }) => <DataTableColumnHeader column={column} title={tTrace('table.location')} />,
+      header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.location')} />,
       cell: ({ row }) => {
         const item = row.original
         return <LongText className="text-muted-foreground block max-w-45 text-xs">{item.city || '-'}</LongText>
@@ -69,12 +70,12 @@ export function getColumns({ tTrace, tCommon, onView, onEdit, onDelete }: GetCol
     },
     {
       accessorKey: 'active',
-      header: ({ column }) => <DataTableColumnHeader column={column} title={tTrace('table.status')} />,
+      header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.status')} />,
       cell: ({ row }) => {
         const active = row.original.active
         return (
           <StatusBadge variant={active ? 'success' : 'neutral'} size="sm">
-            {active ? tTrace('status.active') : tTrace('status.archived')}
+            {active ? t('status.active') : t('status.archived')}
           </StatusBadge>
         )
       },

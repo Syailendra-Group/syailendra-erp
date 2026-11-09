@@ -1,6 +1,5 @@
 'use client'
 
-import { ColumnDef } from '@tanstack/react-table'
 import { Phone, User } from 'lucide-react'
 
 import { ActionButton } from '@/components/button/action-button'
@@ -9,27 +8,29 @@ import { StatusBadge } from '@/components/shared/status-badge'
 import { IconText, LongText, PrimaryText } from '@/components/text'
 
 import type { FarmerRecord } from '@/types/scm/farmer'
+import type { ColumnDef } from '@tanstack/react-table'
 
 export interface GetColumnsOptions {
   t?: (key: string) => string
-  tTrace: (key: string) => string
+  tTrace?: (key: string) => string
   tCommon: (key: string) => string
   onView?: (farmer: FarmerRecord) => void
   onEdit?: (farmer: FarmerRecord) => void
   onDelete?: (farmer: FarmerRecord) => void
 }
 
-export function getColumns({ tTrace, tCommon, onView, onEdit, onDelete }: GetColumnsOptions): ColumnDef<FarmerRecord>[] {
+export function getColumns({ t: tProp, tTrace, tCommon, onView, onEdit, onDelete }: GetColumnsOptions): ColumnDef<FarmerRecord>[] {
+  const t = (tProp || tTrace)!
   return [
     {
       accessorKey: 'ref',
-      header: ({ column }) => <DataTableColumnHeader column={column} title={tTrace('table.ref') || 'Farmer ID'} />,
+      header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.ref') || 'Farmer ID'} />,
       cell: ({ row }) => <PrimaryText fallback="-">{row.original.ref}</PrimaryText>,
       enableSorting: true
     },
     {
       accessorKey: 'name',
-      header: ({ column }) => <DataTableColumnHeader column={column} title={tTrace('table.name')} />,
+      header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.name')} />,
       cell: ({ row }) => (
         <IconText icon={User} className="max-w-55 text-xs font-semibold">
           <LongText>{row.original.name}</LongText>
@@ -39,7 +40,7 @@ export function getColumns({ tTrace, tCommon, onView, onEdit, onDelete }: GetCol
     },
     {
       accessorKey: 'phone',
-      header: ({ column }) => <DataTableColumnHeader column={column} title={tTrace('table.phone')} />,
+      header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.phone')} />,
       cell: ({ row }) => {
         const phone = row.original.phone
         return (
@@ -51,7 +52,7 @@ export function getColumns({ tTrace, tCommon, onView, onEdit, onDelete }: GetCol
     },
     {
       accessorKey: 'city',
-      header: ({ column }) => <DataTableColumnHeader column={column} title={tTrace('table.location')} />,
+      header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.location')} />,
       cell: ({ row }) => {
         const item = row.original
         const loc = [item.city, item.state_id ? item.state_id[1] : ''].filter(Boolean).join(', ')
@@ -60,12 +61,12 @@ export function getColumns({ tTrace, tCommon, onView, onEdit, onDelete }: GetCol
     },
     {
       accessorKey: 'active',
-      header: ({ column }) => <DataTableColumnHeader column={column} title={tTrace('table.status')} />,
+      header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.status')} />,
       cell: ({ row }) => {
         const active = row.original.active
         return (
           <StatusBadge variant={active ? 'success' : 'neutral'} size="sm">
-            {active ? tTrace('status.active') : tTrace('status.archived')}
+            {active ? t('status.active') : t('status.archived')}
           </StatusBadge>
         )
       },

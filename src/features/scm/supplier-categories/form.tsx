@@ -1,8 +1,3 @@
-/**
- * form.tsx — ActionDialog modal form for Supplier Categories
- * Syailendra Group ERP (SCM Pillar)
- */
-
 'use client'
 
 import { useEffect } from 'react'
@@ -17,10 +12,9 @@ import { SelectForm } from '@/components/form/select-form'
 import { Input } from '@/components/ui/input'
 import { Label } from '@/components/ui/label'
 import { Switch } from '@/components/ui/switch'
+import { useSupplierCategoryContext } from '@/contexts/scm/supplier-category.context'
 import { useCreateSupplierCategory, useSupplierCategoryOptions, useUpdateSupplierCategory } from '@/hooks/scm/use-supplier-categories'
 import { getSupplierCategoryFormSchema } from '@/schemas/scm/supplier-category-schema'
-
-import { useSupplierCategoryContext } from './supplier-category.context'
 
 import type { SupplierCategoryFormSchemaValues } from '@/schemas/scm/supplier-category-schema'
 import type { ReactElement } from 'react'

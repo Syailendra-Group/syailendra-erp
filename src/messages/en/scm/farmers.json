@@ -112,7 +112,8 @@
     "verifiedPartner": "Verified Farmer Partner",
     "hectare": "Hectares",
     "elevation": "Dieng Plateau Elevation",
-    "registeredSince": "Registered since September 2026"
+    "registeredSince": "Registered since September 2026",
+    "noNotes": "No agronomic field notes available for this partner yet."
   },
   "actions": {
     "addCommodity": "+ Add New Commodity..."
@@ -132,5 +133,16 @@
     "streetRequired": "Village / plantation address is required.",
     "cityRequired": "City / regency is required.",
     "commodityRequired": "Main commodity is required."
+  },
+  "commodityDescriptions": {
+    "gaharu": "Aquilaria malaccensis — Dieng agarwood resin",
+    "nilam": "Pogostemon cablin — patchouli essential leaves",
+    "serai": "Cymbopogon winterianus — Java citronella grass",
+    "kopi": "Coffea arabica / robusta Dieng terroir",
+    "cengkeh": "Syzygium aromaticum — clove leaves and buds"
+  },
+  "methodDescriptions": {
+    "organic": "Biological farming free from synthetic pesticides/fertilizers",
+    "conventional": "Controlled agronomic partnership farming"
   }
 }

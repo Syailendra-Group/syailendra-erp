@@ -3,11 +3,12 @@
 import { useState } from 'react'
 import { useRouter } from 'next/navigation'
 import { zodResolver } from '@hookform/resolvers/zod'
-import { ArrowLeft, Save } from 'lucide-react'
+import { Save } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 import { useForm } from 'react-hook-form'
 import { toast } from 'sonner'
 
+import { PageHeader } from '@/components/shared/page-header'
 import { Button } from '@/components/ui/button'
 import { Form } from '@/components/ui/form'
 import { useCreateSupplier, useUpdateSupplier } from '@/hooks/scm/use-suppliers'
@@ -92,28 +93,23 @@ export function SupplierForm({ initialData, isEdit = false }: SupplierFormProps)
   return (
     <Form {...form}>
       <form onSubmit={form.handleSubmit(onSubmit)} className="space-y-6 pb-12">
-        {/* Sticky Action Header */}
-        <div className="bg-background/95 supports-backdrop-filter:bg-background/60 sticky top-0 z-10 flex items-center justify-between border-b pt-2 pb-4 backdrop-blur">
-          <div className="flex items-center gap-3">
-            <Button type="button" variant="outline" size="icon" className="h-8 w-8 cursor-pointer" onClick={() => router.push('/scm/suppliers')}>
-              <ArrowLeft className="h-4 w-4" />
-            </Button>
-            <div>
-              <h1 className="text-lg font-semibold tracking-tight">{isEdit ? t('form.editTitle') : t('form.createTitle')}</h1>
-              <p className="text-muted-foreground text-xs">{isEdit ? t('form.editDescription') : t('form.createDescription')}</p>
+        <PageHeader
+          showBack
+          backHref="/scm/suppliers"
+          title={isEdit ? t('form.editTitle') : t('form.createTitle')}
+          description={isEdit ? t('form.editDescription') : t('form.createDescription')}
+          actions={
+            <div className="flex items-center gap-2">
+              <Button type="button" variant="ghost" size="sm" className="h-8 cursor-pointer text-xs" onClick={() => router.push('/scm/suppliers')}>
+                {t('form.buttons.cancel')}
+              </Button>
+              <Button type="submit" size="sm" disabled={isSubmitting} className="h-8 cursor-pointer gap-1.5 text-xs font-medium">
+                <Save className="h-3.5 w-3.5" />
+                <span>{isSubmitting ? tCommon('status.saving') : t('form.buttons.save')}</span>
+              </Button>
             </div>
-          </div>
-
-          <div className="flex items-center gap-2">
-            <Button type="button" variant="ghost" size="sm" className="h-8 cursor-pointer text-xs" onClick={() => router.push('/scm/suppliers')}>
-              {t('form.buttons.cancel')}
-            </Button>
-            <Button type="submit" size="sm" disabled={isSubmitting} className="h-8 cursor-pointer gap-1.5 text-xs font-medium">
-              <Save className="h-3.5 w-3.5" />
-              <span>{isSubmitting ? tCommon('status.saving') : t('form.buttons.save')}</span>
-            </Button>
-          </div>
-        </div>
+          }
+        />
 
         {/* 4 Semantic Form Sections (< 200 lines per section) */}
         <div className="space-y-6">

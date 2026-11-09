@@ -6,17 +6,16 @@ import { useTranslations } from 'next-intl'
 import { useForm } from 'react-hook-form'
 import { toast } from 'sonner'
 
-import { ActionDialog } from '@/components/dialog/action-dialog'
 import { FormFieldWrapper } from '@/components/form/form-field-wrapper'
 import { SelectForm } from '@/components/form/select-form'
 import { Input } from '@/components/ui/input'
 import { Label } from '@/components/ui/label'
 import { Switch } from '@/components/ui/switch'
-import { useSupplierCategoryContext } from '@/contexts/scm/supplier-category.context'
 import { useCreateSupplierCategory, useSupplierCategoryOptions, useUpdateSupplierCategory } from '@/hooks/scm/use-supplier-categories'
 import { getSupplierCategoryFormSchema } from '@/schemas/scm/supplier-category-schema'
 
 import type { SupplierCategoryFormSchemaValues } from '@/schemas/scm/supplier-category-schema'
+import type { SupplierCategoryRecord } from '@/types/scm/supplier-category'
 import type { ReactElement } from 'react'
 
 const COLOR_OPTIONS = [
@@ -34,11 +33,15 @@ const COLOR_OPTIONS = [
   { value: '11', label: 'Tag 11 (Purple)' }
 ]
 
-export function SupplierCategoryFormDialog(): ReactElement {
-  const t = useTranslations('scm.supplierCategories')
-  const { open, setOpen, selectedCategory, setSelectedCategory } = useSupplierCategoryContext()
-  const isEdit = open === 'edit' && Boolean(selectedCategory)
+export interface SupplierCategoryFormProps {
+  selectedCategory: SupplierCategoryRecord | null
+  isEdit: boolean
+  onSuccess: () => void
+  onPendingChange?: (isPending: boolean) => void
+}
 
+export function SupplierCategoryForm({ selectedCategory, isEdit, onSuccess, onPendingChange }: SupplierCategoryFormProps): ReactElement {
+  const t = useTranslations('scm.supplierCategories')
   const { data: parentOptions = [] } = useSupplierCategoryOptions()
   const createMutation = useCreateSupplierCategory()
   const updateMutation = useUpdateSupplierCategory()
@@ -60,6 +63,12 @@ export function SupplierCategoryFormDialog(): ReactElement {
     }
   })
 
+  const isPending = createMutation.isPending || updateMutation.isPending
+
+  useEffect(() => {
+    onPendingChange?.(isPending)
+  }, [isPending, onPendingChange])
+
   useEffect(() => {
     if (isEdit && selectedCategory) {
       reset({
@@ -68,7 +77,7 @@ export function SupplierCategoryFormDialog(): ReactElement {
         color: selectedCategory.color,
         active: selectedCategory.active
       })
-    } else if (open === 'create') {
+    } else {
       reset({
         name: '',
         parentId: null,
@@ -76,7 +85,7 @@ export function SupplierCategoryFormDialog(): ReactElement {
         active: true
       })
     }
-  }, [open, isEdit, selectedCategory, reset])
+  }, [isEdit, selectedCategory, reset])
 
   const selectParentItems = [
     { value: 'none', label: t('table.rootCategory') },
@@ -97,8 +106,7 @@ export function SupplierCategoryFormDialog(): ReactElement {
         })
         if (res.success) {
           toast.success(t('toast.updateSuccess'))
-          setOpen(null)
-          setSelectedCategory(null)
+          onSuccess()
         } else {
           toast.error(res.error || t('toast.deleteError'))
         }
@@ -106,7 +114,7 @@ export function SupplierCategoryFormDialog(): ReactElement {
         const res = await createMutation.mutateAsync(values)
         if (res.success) {
           toast.success(t('toast.createSuccess'))
-          setOpen(null)
+          onSuccess()
         } else {
           toast.error(res.error || t('toast.deleteError'))
         }
@@ -116,64 +124,39 @@ export function SupplierCategoryFormDialog(): ReactElement {
     }
   }
 
-  const isOpen = open === 'create' || open === 'edit'
-  const isPending = createMutation.isPending || updateMutation.isPending
-
   return (
-    <ActionDialog
-      open={isOpen}
-      onOpenChange={(val) => {
-        if (!val) {
-          setOpen(null)
-          setSelectedCategory(null)
-        }
-      }}
-      title={isEdit ? t('form.editTitle') : t('form.createTitle')}
-      description={t('form.description')}
-      formId="supplier-category-form"
-      isPending={isPending}
-      isEdit={isEdit}
-      maxWidth="sm:max-w-lg"
-    >
-      <form id="supplier-category-form" onSubmit={handleSubmit(onSubmit)} className="space-y-4 px-1">
-        <FormFieldWrapper id="category_name" label={t('form.fields.name')} required error={errors.name?.message}>
-          <Input
-            id="category_name"
-            placeholder={t('form.fields.namePlaceholder')}
-            disabled={isPending}
-            className="h-8 text-xs"
-            {...register('name')}
-          />
-        </FormFieldWrapper>
+    <form id="supplier-category-form" onSubmit={handleSubmit(onSubmit)} className="space-y-4 px-1">
+      <FormFieldWrapper id="category_name" label={t('form.fields.name')} required error={errors.name?.message}>
+        <Input id="category_name" placeholder={t('form.fields.namePlaceholder')} disabled={isPending} className="h-8 text-xs" {...register('name')} />
+      </FormFieldWrapper>
 
-        <FormFieldWrapper id="parent_id" label={t('form.fields.parent')}>
-          <SelectForm
-            value={watch('parentId') ? String(watch('parentId')) : 'none'}
-            onValueChange={(val) => {
-              setValue('parentId', val === 'none' ? null : Number(val))
-            }}
-            placeholder={t('form.fields.parentPlaceholder')}
-            disabled={isPending}
-            items={selectParentItems}
-          />
-        </FormFieldWrapper>
+      <FormFieldWrapper id="parent_id" label={t('form.fields.parent')}>
+        <SelectForm
+          value={watch('parentId') ? String(watch('parentId')) : 'none'}
+          onValueChange={(val) => {
+            setValue('parentId', val === 'none' ? null : Number(val))
+          }}
+          placeholder={t('form.fields.parentPlaceholder')}
+          disabled={isPending}
+          items={selectParentItems}
+        />
+      </FormFieldWrapper>
 
-        <FormFieldWrapper id="category_color" label={t('form.fields.color')}>
-          <SelectForm
-            value={String(watch('color'))}
-            onValueChange={(val) => setValue('color', Number(val))}
-            disabled={isPending}
-            items={COLOR_OPTIONS}
-          />
-        </FormFieldWrapper>
+      <FormFieldWrapper id="category_color" label={t('form.fields.color')}>
+        <SelectForm
+          value={String(watch('color'))}
+          onValueChange={(val) => setValue('color', Number(val))}
+          disabled={isPending}
+          items={COLOR_OPTIONS}
+        />
+      </FormFieldWrapper>
 
-        <div className="flex items-center justify-between rounded-lg border p-3 shadow-xs">
-          <div className="space-y-0.5">
-            <Label className="text-xs font-medium">{t('form.fields.active')}</Label>
-          </div>
-          <Switch checked={watch('active')} onCheckedChange={(checked) => setValue('active', checked)} disabled={isPending} />
+      <div className="flex items-center justify-between rounded-lg border p-3 shadow-xs">
+        <div className="space-y-0.5">
+          <Label className="text-xs font-medium">{t('form.fields.active')}</Label>
         </div>
-      </form>
-    </ActionDialog>
+        <Switch checked={watch('active')} onCheckedChange={(checked) => setValue('active', checked)} disabled={isPending} />
+      </div>
+    </form>
   )
 }

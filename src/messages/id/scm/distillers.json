@@ -112,5 +112,25 @@
     "operatorRequired": "Nama penanggung jawab operator minimal {min} karakter.",
     "cityRequired": "Kabupaten / kota lokasi wajib diisi.",
     "streetRequired": "Alamat fasilitas suling wajib diisi."
+  },
+  "methodDescriptions": {
+    "steam": "Distilasi uap langsung (Direct Steam)",
+    "hydro": "Distilasi air mendidih (Water Distillation)",
+    "water_steam": "Kukus uap tak langsung (Water-Steam)",
+    "cold_pressed": "Tekan dingin mekanis (Cold Press)"
+  },
+  "materialDescriptions": {
+    "sus316": "Stainless Steel 316 Food & Pharma Grade",
+    "sus304": "Stainless Steel 304 Standard Industrial",
+    "copper": "Tembaga Murni (Traditional Copper Alembic)"
+  },
+  "ownershipDescriptions": {
+    "internal": "Unit milik penuh PT. Syailendra Bumi Investama",
+    "partner": "Unit suling mitra binaan tersertifikasi"
+  },
+  "sanitationDescriptions": {
+    "passed": "Lolos uji sanitasi & siap beroperasi",
+    "pending": "Menunggu audit sanitasi berkala",
+    "cleaning": "Dalam proses CIP pembersihan & sterilisasi"
   }
 }

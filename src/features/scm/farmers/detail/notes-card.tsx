@@ -18,9 +18,7 @@ export function NotesCard({ farmer }: NotesCardProps): ReactElement {
 
   return (
     <SectionCard title={tTrace('detail.notesTitle')} description={tTrace('sections.notesDesc')} icon={ShieldCheck} contentClassName="text-sm">
-      <LongText contentClassName="text-xs max-w-sm">
-        {(farmer.comment as string) || 'Belum ada catatan khusus agronomi lapangan untuk mitra ini.'}
-      </LongText>
+      <LongText contentClassName="text-xs max-w-sm">{(farmer.comment as string) || tTrace('detail.noNotes')}</LongText>
     </SectionCard>
   )
 }

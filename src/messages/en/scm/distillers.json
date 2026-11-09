@@ -112,5 +112,25 @@
     "operatorRequired": "Operator in charge must be at least {min} characters.",
     "cityRequired": "City / regency is required.",
     "streetRequired": "Facility address is required."
+  },
+  "methodDescriptions": {
+    "steam": "Direct Steam Distillation",
+    "hydro": "Boiling Water Distillation",
+    "water_steam": "Indirect Water-Steam Distillation",
+    "cold_pressed": "Mechanical Cold Pressing"
+  },
+  "materialDescriptions": {
+    "sus316": "Stainless Steel 316 Food & Pharma Grade",
+    "sus304": "Stainless Steel 304 Standard Industrial",
+    "copper": "Pure Copper Alembic"
+  },
+  "ownershipDescriptions": {
+    "internal": "Wholly owned unit of PT. Syailendra Bumi Investama",
+    "partner": "Certified partner distillation facility"
+  },
+  "sanitationDescriptions": {
+    "passed": "Sanitation audit passed & ready to operate",
+    "pending": "Pending periodic sanitation audit",
+    "cleaning": "In CIP cleaning & sterilization cycle"
   }
 }

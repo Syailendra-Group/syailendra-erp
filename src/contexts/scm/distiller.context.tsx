@@ -5,7 +5,7 @@ import { createContext, useCallback, useContext, useState } from 'react'
 import type { DistillerRecord } from '@/types/scm/distiller'
 import type { ReactElement, ReactNode } from 'react'
 
-export type DistillersDialogType = 'add' | 'edit' | 'archive' | 'view' | null
+export type DistillersDialogType = 'add' | 'create' | 'edit' | 'archive' | 'view' | null
 
 export interface DistillersContextType {
   open: DistillersDialogType
@@ -32,7 +32,7 @@ export function DistillersProvider({ children, refreshData }: DistillersProvider
 
   const handleCreate = useCallback(() => {
     setCurrentRow(null)
-    setOpen('add')
+    setOpen('create')
   }, [])
 
   const handleEdit = useCallback((row: DistillerRecord) => {

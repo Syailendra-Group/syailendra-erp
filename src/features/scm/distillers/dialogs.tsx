@@ -1,14 +1,16 @@
 /**
- * dialogs.tsx — View DetailRow and Archive ConfirmDialog for Distillers
+ * dialogs.tsx — View DetailRow, ActionDialog Form, and Archive ConfirmDialog for Distillers
  * Syailendra Group ERP (SCM Pillar)
  */
 
 'use client'
 
+import { useState } from 'react'
 import { Factory } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 import { toast } from 'sonner'
 
+import { ActionDialog } from '@/components/dialog/action-dialog'
 import { ConfirmDialog } from '@/components/dialog/confirm-dialog'
 import { DetailRow } from '@/components/shared/detail-row'
 import { Badge } from '@/components/ui/badge'
@@ -16,7 +18,7 @@ import { Dialog, DialogContent, DialogDescription, DialogHeader, DialogTitle } f
 import { useDistillers } from '@/contexts/scm/distiller.context'
 import { useToggleDistillerStatusMutation } from '@/hooks/scm/use-distillers'
 
-import { DistillersActionDialog } from './form/index'
+import { DistillerForm } from './form/index'
 
 import type { ReactElement } from 'react'
 
@@ -26,6 +28,7 @@ export function DistillersDialogs(): ReactElement {
   const tCommon = useTranslations('common')
   const { open, setOpen, currentRow, setCurrentRow, refreshData } = useDistillers()
   const { mutateAsync: toggleDistillerStatus, isPending } = useToggleDistillerStatusMutation()
+  const [isFormPending, setIsFormPending] = useState(false)
 
   const handleToggleStatus = async () => {
     if (!currentRow) return
@@ -46,12 +49,39 @@ export function DistillersDialogs(): ReactElement {
     }
   }
 
+  const isFormOpen = open === 'add' || open === 'create' || open === 'edit'
   const isViewOpen = open === 'view' && Boolean(currentRow)
   const isArchiveOpen = open === 'archive' && Boolean(currentRow)
 
   return (
     <>
-      <DistillersActionDialog />
+      {/* Action Dialog Form */}
+      <ActionDialog
+        open={isFormOpen}
+        onOpenChange={(v) => {
+          if (!v) {
+            setOpen(null)
+            setCurrentRow(null)
+          }
+        }}
+        formId="distiller-action-form"
+        isEdit={open === 'edit'}
+        title={open === 'edit' ? tTrace('dialog.editTitle') : tTrace('dialog.addTitle')}
+        description={open === 'edit' ? tTrace('dialog.editDesc') : tTrace('dialog.addDesc')}
+        isPending={isFormPending}
+        maxWidth="sm:max-w-xl"
+      >
+        <DistillerForm
+          currentRow={currentRow}
+          onSuccess={() => {
+            setOpen(null)
+            setCurrentRow(null)
+            refreshData?.()
+          }}
+          onPendingChange={setIsFormPending}
+        />
+      </ActionDialog>
+
       {/* View Detail Dialog */}
       <Dialog
         open={isViewOpen}

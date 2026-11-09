@@ -11,7 +11,7 @@ import { AddressSection } from '@/components/form/address-section'
 import { PageHeader } from '@/components/shared/page-header'
 import { Button } from '@/components/ui/button'
 import { useSaveFarmerMutation } from '@/hooks/scm/use-farmers'
-import { Link, useRouter } from '@/i18n/navigation'
+import { useRouter } from '@/i18n/navigation'
 import { getFarmerFormSchema } from '@/schemas/scm/farmer-schema'
 
 import { CommoditySection } from './commodity-section'
@@ -123,11 +123,30 @@ export function FarmerForm({ initialData }: FarmerFormProps): ReactElement {
   return (
     <div className="space-y-6 pb-12">
       <PageHeader
-        showBack={true}
+        showBack
         backHref="/scm/farmers"
-        backLabel={tTrace('detail.back')}
         title={isEdit ? tTrace('dialog.editTitle') : tTrace('dialog.addTitle')}
         description={isEdit ? tTrace('dialog.editDesc') : tTrace('dialog.addDesc')}
+        actions={
+          <div className="flex items-center gap-2">
+            <Button type="button" variant="ghost" size="sm" className="h-8 cursor-pointer text-xs" onClick={() => router.push('/scm/farmers')}>
+              {tCommon('actions.cancel')}
+            </Button>
+            <Button type="submit" form="farmer-form" size="sm" disabled={isPending} className="h-8 cursor-pointer text-xs font-semibold">
+              {isPending ? (
+                <>
+                  <Loader2 className="mr-1.5 h-3.5 w-3.5 animate-spin" />
+                  <span>{tCommon('actions.loading')}</span>
+                </>
+              ) : (
+                <>
+                  <Save className="mr-1.5 h-3.5 w-3.5" />
+                  <span>{isEdit ? tCommon('actions.save') : tTrace('primaryAction')}</span>
+                </>
+              )}
+            </Button>
+          </div>
+        }
       />
 
       <form id="farmer-form" onSubmit={handleSubmit(onSubmit)} className="space-y-5">
@@ -163,16 +182,6 @@ export function FarmerForm({ initialData }: FarmerFormProps): ReactElement {
           <div className="lg:col-span-2">
             <NotesSection register={register} isPending={isPending} />
           </div>
-        </div>
-
-        <div className="border-border/60 bg-background/90 sticky bottom-4 z-20 flex items-center justify-between rounded-xl border p-3 shadow-md backdrop-blur-md">
-          <Button variant="outline" asChild>
-            <Link href="/scm/farmers">{tCommon('actions.cancel')}</Link>
-          </Button>
-          <Button type="submit" form="farmer-form" disabled={isPending} className="gap-2 font-semibold">
-            {isPending ? <Loader2 className="size-4 animate-spin" /> : <Save className="size-4" />}
-            <span>{isPending ? tCommon('actions.loading') : isEdit ? tCommon('actions.save') : tTrace('primaryAction')}</span>
-          </Button>
         </div>
       </form>
     </div>

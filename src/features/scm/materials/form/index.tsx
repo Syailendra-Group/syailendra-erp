@@ -1,5 +1,5 @@
 /**
- * index.tsx — Dedicated form page component for Material Master
+ * index.tsx — Dedicated form page orchestrator for Material Master
  * Syailendra Group ERP — SCM Pillar
  */
 
@@ -7,22 +7,21 @@
 
 import { useEffect, useMemo } from 'react'
 import { zodResolver } from '@hookform/resolvers/zod'
-import { ArrowLeft, Loader2, Save } from 'lucide-react'
+import { Loader2, Save } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 import { useForm } from 'react-hook-form'
 import { toast } from 'sonner'
 
-import { FormFieldWrapper } from '@/components/form/form-field-wrapper'
-import { SelectForm } from '@/components/form/select-form'
 import { PageHeader } from '@/components/shared/page-header'
 import { Button } from '@/components/ui/button'
 import { Card, CardContent } from '@/components/ui/card'
-import { Input } from '@/components/ui/input'
 import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs'
 import { useSaveMaterialMutation } from '@/hooks/scm/use-materials'
-import { Link, useRouter } from '@/i18n/navigation'
+import { useRouter } from '@/i18n/navigation'
 import { getMaterialFormSchema } from '@/schemas/scm/material-schema'
 
+import { MaterialCommercialSection } from './commercial-section'
+import { MaterialExportSection } from './export-section'
 import { getMaterialOptions } from './options'
 import { MaterialQcSection } from './qc-section'
 
@@ -137,19 +136,27 @@ export function MaterialForm({ initialData }: MaterialFormProps): ReactElement {
   return (
     <div className="space-y-4 sm:space-y-6">
       <PageHeader
+        showBack
+        backHref="/scm/materials"
         title={isEdit ? t('dialog.editTitle') : t('dialog.addTitle')}
         description={isEdit ? t('dialog.editDesc') : t('dialog.addDesc')}
         actions={
           <div className="flex items-center gap-2">
-            <Button variant="outline" asChild>
-              <Link href="/scm/materials" className="gap-2">
-                <ArrowLeft className="size-4" />
-                <span>{tCommon('actions.cancel')}</span>
-              </Link>
+            <Button type="button" variant="ghost" size="sm" className="h-8 cursor-pointer text-xs" onClick={() => router.push('/scm/materials')}>
+              {tCommon('actions.cancel')}
             </Button>
-            <Button form="material-page-form" type="submit" disabled={isPending} className="gap-2 font-semibold">
-              {isPending ? <Loader2 className="size-4 animate-spin" /> : <Save className="size-4" />}
-              <span>{tCommon('actions.save')}</span>
+            <Button form="material-page-form" type="submit" size="sm" disabled={isPending} className="h-8 cursor-pointer text-xs font-semibold">
+              {isPending ? (
+                <>
+                  <Loader2 className="mr-1.5 h-3.5 w-3.5 animate-spin" />
+                  <span>{tCommon('actions.loading')}</span>
+                </>
+              ) : (
+                <>
+                  <Save className="mr-1.5 h-3.5 w-3.5" />
+                  <span>{tCommon('actions.save')}</span>
+                </>
+              )}
             </Button>
           </div>
         }
@@ -172,109 +179,22 @@ export function MaterialForm({ initialData }: MaterialFormProps): ReactElement {
               </TabsList>
 
               <TabsContent value="commercial" className="space-y-4 pt-4">
-                <div className="grid grid-cols-1 gap-4 sm:grid-cols-6">
-                  <FormFieldWrapper label={t('fields.defaultCode')} error={errors.default_code?.message} required className="sm:col-span-2">
-                    <Input {...register('default_code')} placeholder={t('fields.defaultCodePlaceholder')} className="font-mono text-xs uppercase" />
-                  </FormFieldWrapper>
-
-                  <FormFieldWrapper label={t('fields.name')} error={errors.name?.message} required className="sm:col-span-4">
-                    <Input {...register('name')} placeholder={t('fields.namePlaceholder')} />
-                  </FormFieldWrapper>
-
-                  <FormFieldWrapper label={t('fields.commercialName')} error={errors.commercial_name?.message} className="sm:col-span-3">
-                    <Input {...register('commercial_name')} placeholder={t('fields.commercialNamePlaceholder')} />
-                  </FormFieldWrapper>
-
-                  <FormFieldWrapper label={t('fields.category')} error={errors.category?.message} required className="sm:col-span-3">
-                    <SelectForm
-                      value={watch('category')}
-                      onValueChange={(val) => setValue('category', val as MaterialFormValues['category'])}
-                      items={categoryOptions}
-                      placeholder={t('fields.categoryPlaceholder')}
-                    />
-                  </FormFieldWrapper>
-
-                  <FormFieldWrapper label={t('fields.botanicalName')} error={errors.botanical_name?.message} className="sm:col-span-3">
-                    <Input {...register('botanical_name')} placeholder={t('fields.botanicalNamePlaceholder')} className="italic" />
-                  </FormFieldWrapper>
-
-                  <FormFieldWrapper label={t('fields.family')} error={errors.family?.message} className="sm:col-span-3">
-                    <Input {...register('family')} placeholder={t('fields.familyPlaceholder')} />
-                  </FormFieldWrapper>
-
-                  <FormFieldWrapper label={t('fields.inciName')} error={errors.inci_name?.message} className="sm:col-span-3">
-                    <Input {...register('inci_name')} placeholder={t('fields.inciNamePlaceholder')} />
-                  </FormFieldWrapper>
-
-                  <FormFieldWrapper label={t('fields.plantPart')} error={errors.plant_part?.message} className="sm:col-span-3">
-                    <Input {...register('plant_part')} placeholder={t('fields.plantPartPlaceholder')} />
-                  </FormFieldWrapper>
-
-                  <FormFieldWrapper label={t('fields.extractionMethod')} error={errors.extraction_method?.message} required className="sm:col-span-3">
-                    <SelectForm
-                      value={watch('extraction_method')}
-                      onValueChange={(val) => setValue('extraction_method', val as MaterialFormValues['extraction_method'])}
-                      items={methodOptions}
-                      placeholder={t('fields.extractionMethodPlaceholder')}
-                    />
-                  </FormFieldWrapper>
-
-                  <FormFieldWrapper label={t('fields.aromaNote')} error={errors.aroma_note?.message} className="sm:col-span-3">
-                    <SelectForm
-                      value={watch('aroma_note') || 'base'}
-                      onValueChange={(val) => setValue('aroma_note', val as MaterialFormValues['aroma_note'])}
-                      items={aromaOptions}
-                      placeholder={t('fields.aromaNotePlaceholder')}
-                    />
-                  </FormFieldWrapper>
-
-                  <FormFieldWrapper label={t('fields.uom')} error={errors.uom_id?.message} required className="sm:col-span-3">
-                    <SelectForm
-                      value={String(watch('uom_id') || 1)}
-                      onValueChange={(val) => setValue('uom_id', Number(val))}
-                      items={uomOptions}
-                      placeholder={t('fields.uomPlaceholder')}
-                    />
-                  </FormFieldWrapper>
-
-                  <FormFieldWrapper label={t('fields.tracking')} error={errors.tracking?.message} required className="sm:col-span-3">
-                    <SelectForm
-                      value={watch('tracking')}
-                      onValueChange={(val) => setValue('tracking', val as MaterialFormValues['tracking'])}
-                      items={trackingOptions}
-                      placeholder={t('fields.trackingPlaceholder')}
-                    />
-                  </FormFieldWrapper>
-                </div>
+                <MaterialCommercialSection
+                  register={register}
+                  errors={errors}
+                  watch={watch}
+                  setValue={setValue}
+                  categoryOptions={categoryOptions}
+                  methodOptions={methodOptions}
+                  aromaOptions={aromaOptions}
+                  uomOptions={uomOptions}
+                  trackingOptions={trackingOptions}
+                  t={t}
+                />
               </TabsContent>
 
               <TabsContent value="export" className="space-y-4 pt-4">
-                <div className="grid grid-cols-1 gap-4 sm:grid-cols-6">
-                  <FormFieldWrapper label={t('fields.casNumber')} error={errors.cas_number?.message} className="sm:col-span-3">
-                    <Input {...register('cas_number')} placeholder={t('fields.casNumberPlaceholder')} className="font-mono text-xs" />
-                  </FormFieldWrapper>
-
-                  <FormFieldWrapper label={t('fields.einecsNumber')} error={errors.einecs_number?.message} className="sm:col-span-3">
-                    <Input {...register('einecs_number')} placeholder={t('fields.einecsNumberPlaceholder')} className="font-mono text-xs" />
-                  </FormFieldWrapper>
-
-                  <FormFieldWrapper label={t('fields.femaNumber')} error={errors.fema_number?.message} className="sm:col-span-3">
-                    <Input {...register('fema_number')} placeholder={t('fields.femaNumberPlaceholder')} className="font-mono text-xs" />
-                  </FormFieldWrapper>
-
-                  <FormFieldWrapper label={t('fields.hsCode')} error={errors.hs_code?.message} required className="sm:col-span-3">
-                    <Input {...register('hs_code')} placeholder={t('fields.hsCodePlaceholder')} className="font-mono text-xs" />
-                  </FormFieldWrapper>
-
-                  <FormFieldWrapper label={t('fields.shelfLifeMonths')} error={errors.shelf_life_months?.message} required className="sm:col-span-6">
-                    <Input
-                      type="number"
-                      {...register('shelf_life_months', { valueAsNumber: true })}
-                      placeholder={t('fields.shelfLifeMonthsPlaceholder')}
-                      className="font-mono"
-                    />
-                  </FormFieldWrapper>
-                </div>
+                <MaterialExportSection register={register} errors={errors} t={t} />
               </TabsContent>
 
               <TabsContent value="qc" className="space-y-4 pt-2">

@@ -14,5 +14,21 @@
     "qualityStatus": "Quality Status",
     "actions": "Actions",
     "viewQr": "View QR"
+  },
+  "kpis": {
+    "trackedLots": "Total Tracked Lots",
+    "trackedLotsSubtitle": "Upstream to Downstream",
+    "activeDistillation": "Active Distillation Sessions",
+    "activeDistillationSubtitle": "Direct Steam Method",
+    "qcReleased": "QC Green Releases",
+    "qcReleasedSubtitle": "Lab COA Certified",
+    "quarantineLocked": "Quarantine Locked",
+    "quarantineLockedSubtitle": "Pending GC-MS Lab"
+  },
+  "shortcuts": {
+    "lotMaster": "Master Lot Register",
+    "genealogyTree": "Genealogy Tree (DAG)",
+    "qrPrint": "Print QR Labels",
+    "mockRecall": "Mock Recall Cockpit"
   }
 }

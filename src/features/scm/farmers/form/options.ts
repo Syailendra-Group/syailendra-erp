@@ -7,31 +7,31 @@ export function getCommodityOptions(tTrace: (key: string) => string): SelectOpti
     {
       label: tTrace('commodities.gaharu'),
       value: 'gaharu',
-      description: 'Aquilaria malaccensis — resin gaharu gubal Dieng',
+      description: tTrace('commodityDescriptions.gaharu'),
       icon: Sparkles
     },
     {
       label: tTrace('commodities.nilam'),
       value: 'nilam',
-      description: 'Pogostemon cablin — daun nilam atsiri patchouli',
+      description: tTrace('commodityDescriptions.nilam'),
       icon: Sprout
     },
     {
       label: tTrace('commodities.serai'),
       value: 'serai',
-      description: 'Cymbopogon winterianus — serai wangi Jawa',
+      description: tTrace('commodityDescriptions.serai'),
       icon: Wheat
     },
     {
       label: tTrace('commodities.kopi'),
       value: 'kopi',
-      description: 'Coffea arabica / robusta terroir Dieng',
+      description: tTrace('commodityDescriptions.kopi'),
       icon: Coffee
     },
     {
       label: tTrace('commodities.cengkeh'),
       value: 'cengkeh',
-      description: 'Syzygium aromaticum — daun dan bunga cengkeh',
+      description: tTrace('commodityDescriptions.cengkeh'),
       icon: Trees
     }
   ]
@@ -42,13 +42,13 @@ export function getFarmingMethodOptions(tTrace: (key: string) => string): Select
     {
       label: tTrace('methods.organic'),
       value: 'organic',
-      description: 'Budidaya hayati bebas pupuk/pestisida kimia sintetis',
+      description: tTrace('methodDescriptions.organic'),
       icon: Sprout
     },
     {
       label: tTrace('methods.conventional'),
       value: 'conventional',
-      description: 'Praktik pertanian terkontrol pendampingan agronomi',
+      description: tTrace('methodDescriptions.conventional'),
       icon: ShieldCheck
     }
   ]

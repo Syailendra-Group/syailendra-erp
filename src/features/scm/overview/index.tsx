@@ -20,17 +20,17 @@ export function TraceabilityOverview(): ReactElement {
   const t = useTranslations('scm.overview')
   const tCommon = useTranslations('common')
   const kpis: SummaryCardItem[] = [
-    { title: 'Total Lot Terlacak', value: '24 Batches', subtitle: 'Hulu s/d Hilir', icon: Tag, color: 'text-primary' },
-    { title: 'Sesi Suling Aktif', value: '1 Ketel', subtitle: 'Metode Steam Suling', icon: Layers, color: 'text-blue-500' },
-    { title: 'QC Release Hijau', value: '19 Batches', subtitle: 'Tersertifikasi COA Lab', icon: ShieldCheck, color: 'text-emerald-500' },
-    { title: 'Terkunci Karantina', value: '1 Batch', subtitle: 'Menunggu GC-MS Lab', icon: RotateCcw, color: 'text-amber-500' }
+    { title: t('kpis.trackedLots'), value: '24 Batches', subtitle: t('kpis.trackedLotsSubtitle'), icon: Tag, color: 'text-primary' },
+    { title: t('kpis.activeDistillation'), value: '1 Ketel', subtitle: t('kpis.activeDistillationSubtitle'), icon: Layers, color: 'text-blue-500' },
+    { title: t('kpis.qcReleased'), value: '19 Batches', subtitle: t('kpis.qcReleasedSubtitle'), icon: ShieldCheck, color: 'text-emerald-500' },
+    { title: t('kpis.quarantineLocked'), value: '1 Batch', subtitle: t('kpis.quarantineLockedSubtitle'), icon: RotateCcw, color: 'text-amber-500' }
   ]
 
   const shortcuts: QuickActionItem[] = [
-    { label: 'Daftar Master Lot', href: '/scm', icon: Tag },
-    { label: 'Pohon Silsilah (DAG)', href: '/scm', icon: GitBranch },
-    { label: 'Cetak Label QR', href: '/scm', icon: QrCode },
-    { label: 'Cockpit Mock Recall', href: '/scm', icon: RotateCcw }
+    { label: t('shortcuts.lotMaster'), href: '/scm', icon: Tag },
+    { label: t('shortcuts.genealogyTree'), href: '/scm', icon: GitBranch },
+    { label: t('shortcuts.qrPrint'), href: '/scm', icon: QrCode },
+    { label: t('shortcuts.mockRecall'), href: '/scm', icon: RotateCcw }
   ]
 
   const batches = [

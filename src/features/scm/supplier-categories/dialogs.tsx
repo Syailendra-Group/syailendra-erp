@@ -1,8 +1,10 @@
 'use client'
 
+import { useState } from 'react'
 import { useTranslations } from 'next-intl'
 import { toast } from 'sonner'
 
+import { ActionDialog } from '@/components/dialog/action-dialog'
 import { ConfirmDialog } from '@/components/dialog/confirm-dialog'
 import { DetailRow } from '@/components/shared/detail-row'
 import { Badge } from '@/components/ui/badge'
@@ -10,12 +12,18 @@ import { Dialog, DialogContent, DialogDescription, DialogHeader, DialogTitle } f
 import { useSupplierCategoryContext } from '@/contexts/scm/supplier-category.context'
 import { useDeleteSupplierCategory } from '@/hooks/scm/use-supplier-categories'
 
-import { SupplierCategoryFormDialog } from './form'
+import { SupplierCategoryForm } from './form'
 
 export function SupplierCategoryDialogs() {
   const t = useTranslations('scm.supplierCategories')
   const { open, setOpen, selectedCategory, setSelectedCategory } = useSupplierCategoryContext()
   const deleteMutation = useDeleteSupplierCategory()
+  const [isFormPending, setIsFormPending] = useState(false)
+
+  const isFormOpen = open === 'create' || open === 'edit'
+  const isEdit = open === 'edit' && Boolean(selectedCategory)
+  const isViewOpen = open === 'view' && Boolean(selectedCategory)
+  const isDeleteOpen = open === 'delete' && Boolean(selectedCategory)
 
   const handleDelete = async () => {
     if (!selectedCategory) return
@@ -36,11 +44,35 @@ export function SupplierCategoryDialogs() {
     }
   }
 
-  const isViewOpen = open === 'view' && Boolean(selectedCategory)
-  const isDeleteOpen = open === 'delete' && Boolean(selectedCategory)
-
   return (
     <>
+      {/* Form ActionDialog */}
+      <ActionDialog
+        open={isFormOpen}
+        onOpenChange={(val) => {
+          if (!val) {
+            setOpen(null)
+            setSelectedCategory(null)
+          }
+        }}
+        title={isEdit ? t('form.editTitle') : t('form.createTitle')}
+        description={t('form.description')}
+        formId="supplier-category-form"
+        isPending={isFormPending}
+        isEdit={isEdit}
+        maxWidth="sm:max-w-lg"
+      >
+        <SupplierCategoryForm
+          selectedCategory={selectedCategory}
+          isEdit={isEdit}
+          onSuccess={() => {
+            setOpen(null)
+            setSelectedCategory(null)
+          }}
+          onPendingChange={setIsFormPending}
+        />
+      </ActionDialog>
+
       {/* View Detail Dialog */}
       <Dialog
         open={isViewOpen}
@@ -91,9 +123,6 @@ export function SupplierCategoryDialogs() {
           )}
         </DialogContent>
       </Dialog>
-
-      {/* Form Dialog */}
-      <SupplierCategoryFormDialog />
 
       {/* Delete Confirmation Dialog */}
       <ConfirmDialog

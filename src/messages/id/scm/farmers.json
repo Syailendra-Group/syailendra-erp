@@ -112,7 +112,8 @@
     "verifiedPartner": "Mitra Petani Terverifikasi",
     "hectare": "Hektar",
     "elevation": "Elevasi Dataran Tinggi Dieng",
-    "registeredSince": "Terdaftar sejak September 2026"
+    "registeredSince": "Terdaftar sejak September 2026",
+    "noNotes": "Belum ada catatan khusus agronomi lapangan untuk mitra ini."
   },
   "actions": {
     "addCommodity": "+ Tambah Komoditas Baru..."
@@ -132,5 +133,16 @@
     "streetRequired": "Alamat desa / kebun wajib diisi.",
     "cityRequired": "Kabupaten / kota wajib diisi.",
     "commodityRequired": "Komoditas utama wajib dipilih."
+  },
+  "commodityDescriptions": {
+    "gaharu": "Aquilaria malaccensis — resin gaharu gubal Dieng",
+    "nilam": "Pogostemon cablin — daun nilam atsiri patchouli",
+    "serai": "Cymbopogon winterianus — serai wangi Jawa",
+    "kopi": "Coffea arabica / robusta terroir Dieng",
+    "cengkeh": "Syzygium aromaticum — daun dan bunga cengkeh"
+  },
+  "methodDescriptions": {
+    "organic": "Budidaya hayati bebas pupuk/pestisida kimia sintetis",
+    "conventional": "Praktik pertanian terkontrol pendampingan agronomi"
   }
 }

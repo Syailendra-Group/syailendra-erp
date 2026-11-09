@@ -6,25 +6,29 @@ import { useTranslations } from 'next-intl'
 import { useForm } from 'react-hook-form'
 import { toast } from 'sonner'
 
-import { ActionDialog } from '@/components/dialog/action-dialog'
 import { FormFieldWrapper } from '@/components/form/form-field-wrapper'
 import { SelectForm } from '@/components/form/select-form'
 import { Input } from '@/components/ui/input'
 import { Textarea } from '@/components/ui/textarea'
-import { useDistillers } from '@/contexts/scm/distiller.context'
 import { useSaveDistillerMutation } from '@/hooks/scm/use-distillers'
 import { getDistillerFormSchema } from '@/schemas/scm/distiller-schema'
 
 import { getDistillerOptions } from './options'
 
 import type { DistillerFormValues } from '@/schemas/scm/distiller-schema'
+import type { DistillerRecord } from '@/types/scm/distiller'
 import type { ReactElement } from 'react'
 
-export function DistillersActionDialog(): ReactElement {
+export interface DistillerFormProps {
+  currentRow?: DistillerRecord | null
+  onSuccess: () => void
+  onPendingChange?: (isPending: boolean) => void
+}
+
+export function DistillerForm({ currentRow, onSuccess, onPendingChange }: DistillerFormProps): ReactElement {
   const tTrace = useTranslations('scm.distillers')
-  const { open, setOpen, currentRow, setCurrentRow, refreshData } = useDistillers()
   const { mutateAsync: saveDistiller, isPending } = useSaveDistillerMutation()
-  const isEdit = open === 'edit'
+  const isEdit = Boolean(currentRow)
 
   const {
     register,
@@ -36,232 +40,150 @@ export function DistillersActionDialog(): ReactElement {
   } = useForm<DistillerFormValues>({
     resolver: zodResolver(getDistillerFormSchema(tTrace)),
     defaultValues: {
-      ref: '',
-      name: '',
-      boiler_capacity_kg: 500,
-      method: 'steam',
-      boiler_material: 'sus316',
-      ownership: 'internal',
-      operator_name: '',
-      phone: '',
-      city: 'Temanggung',
-      street: '',
-      partner_latitude: -7.315,
-      partner_longitude: 110.17,
-      sanitation_status: 'passed',
-      comment: ''
+      ref: currentRow?.ref || '',
+      name: currentRow?.name || '',
+      boiler_capacity_kg: currentRow?.boiler_capacity_kg || 500,
+      boiler_material: currentRow?.boiler_material || 'sus316',
+      method: (currentRow?.method as DistillerFormValues['method']) || 'steam',
+      ownership: (currentRow?.ownership as DistillerFormValues['ownership']) || 'internal',
+      sanitation_status: (currentRow?.sanitation_status as DistillerFormValues['sanitation_status']) || 'passed',
+      partner_latitude: currentRow?.partner_latitude || -7.21,
+      partner_longitude: currentRow?.partner_longitude || 109.91,
+      operator_name: currentRow?.operator_name || '',
+      phone: currentRow?.phone || '',
+      street: currentRow?.street || '',
+      city: currentRow?.city || 'Wonosobo',
+      comment: currentRow?.comment || ''
     }
   })
 
   useEffect(() => {
-    if (currentRow && isEdit) {
+    onPendingChange?.(isPending)
+  }, [isPending, onPendingChange])
+
+  useEffect(() => {
+    if (currentRow) {
       reset({
-        id: currentRow.id,
-        ref: currentRow.ref,
-        name: currentRow.name,
+        ref: currentRow.ref || '',
+        name: currentRow.name || '',
         boiler_capacity_kg: currentRow.boiler_capacity_kg || 500,
-        method: currentRow.method || 'steam',
         boiler_material: currentRow.boiler_material || 'sus316',
-        ownership: currentRow.ownership || 'internal',
+        method: (currentRow.method as DistillerFormValues['method']) || 'steam',
+        ownership: (currentRow.ownership as DistillerFormValues['ownership']) || 'internal',
+        sanitation_status: (currentRow.sanitation_status as DistillerFormValues['sanitation_status']) || 'passed',
+        partner_latitude: currentRow.partner_latitude || -7.21,
+        partner_longitude: currentRow.partner_longitude || 109.91,
         operator_name: currentRow.operator_name || '',
         phone: currentRow.phone || '',
-        city: currentRow.city || 'Temanggung',
         street: currentRow.street || '',
-        partner_latitude: currentRow.partner_latitude || -7.315,
-        partner_longitude: currentRow.partner_longitude || 110.17,
-        sanitation_status: currentRow.sanitation_status || 'passed',
+        city: currentRow.city || 'Wonosobo',
         comment: currentRow.comment || ''
       })
-    } else if (open === 'add') {
-      const randomSuffix = Math.floor(100 + Math.random() * 900)
-      reset({
-        ref: `DST-JTG-${randomSuffix}`,
-        name: '',
-        boiler_capacity_kg: 500,
-        method: 'steam',
-        boiler_material: 'sus316',
-        ownership: 'internal',
-        operator_name: '',
-        phone: '',
-        city: 'Temanggung',
-        street: 'Kawasan Industri Agro Mandiri',
-        partner_latitude: -7.315,
-        partner_longitude: 110.17,
-        sanitation_status: 'passed',
-        comment: ''
-      })
     }
-  }, [currentRow, isEdit, open, reset])
-
-  const currentMethod = watch('method')
-  const currentMaterial = watch('boiler_material')
-  const currentOwnership = watch('ownership')
-  const currentSanitation = watch('sanitation_status')
-
-  const { methodOptions, materialOptions, ownershipOptions, sanitationOptions } = getDistillerOptions(tTrace)
+  }, [currentRow, reset])
 
   const onSubmit = async (values: DistillerFormValues) => {
     try {
-      const res = await saveDistiller(values)
+      const payload = isEdit && currentRow ? { ...values, id: currentRow.id } : values
+      const res = await saveDistiller(payload)
       if (res.success) {
-        toast.success(tTrace('messages.saved'))
-        refreshData?.()
-        setOpen(null)
-        setCurrentRow(null)
+        toast.success(isEdit ? tTrace('messages.updated') : tTrace('messages.created'))
+        onSuccess()
       } else {
-        toast.error(res.error || tTrace('messages.saveFailed'))
+        toast.error(res.error || tTrace('messages.error'))
       }
-    } catch (err) {
-      const msg = err instanceof Error ? err.message : tTrace('messages.saveFailed')
-      toast.error(msg)
+    } catch {
+      toast.error(tTrace('messages.error'))
     }
   }
 
-  const isOpen = open === 'add' || open === 'edit'
+  const { methodOptions, materialOptions, ownershipOptions, sanitationOptions } = getDistillerOptions(tTrace)
 
   return (
-    <ActionDialog
-      open={isOpen}
-      onOpenChange={(v) => {
-        if (!v) {
-          reset()
-          setOpen(null)
-          setCurrentRow(null)
-        }
-      }}
-      title={isEdit ? tTrace('dialog.editTitle') : tTrace('dialog.addTitle')}
-      description={isEdit ? tTrace('dialog.editDesc') : tTrace('dialog.addDesc')}
-      formId="distiller-form"
-      isPending={isPending}
-      isEdit={isEdit}
-      maxWidth="sm:max-w-xl"
-    >
-      <form id="distiller-form" onSubmit={handleSubmit(onSubmit)} className="space-y-3.5 px-1">
-        <div className="grid grid-cols-1 gap-3 sm:grid-cols-2">
-          <FormFieldWrapper id="ref" label={tTrace('fields.ref')} error={errors.ref?.message}>
-            <Input
-              id="ref"
-              placeholder={tTrace('fields.refPlaceholder')}
-              disabled={isPending || isEdit}
-              className="h-8 font-mono text-xs"
-              {...register('ref')}
-            />
-          </FormFieldWrapper>
+    <form id="distiller-action-form" onSubmit={handleSubmit(onSubmit)} className="space-y-4 px-1">
+      <div className="grid grid-cols-1 gap-3 sm:grid-cols-2">
+        <FormFieldWrapper id="distiller-ref" label={tTrace('fields.code')} required error={errors.ref?.message}>
+          <Input id="distiller-ref" placeholder={tTrace('fields.refPlaceholder')} disabled={isPending} {...register('ref')} />
+        </FormFieldWrapper>
 
-          <FormFieldWrapper id="name" label={tTrace('fields.name')} required error={errors.name?.message}>
-            <Input id="name" placeholder={tTrace('fields.namePlaceholder')} disabled={isPending} className="h-8 text-xs" {...register('name')} />
-          </FormFieldWrapper>
-        </div>
+        <FormFieldWrapper id="distiller-name" label={tTrace('fields.unitName')} required error={errors.name?.message}>
+          <Input id="distiller-name" placeholder={tTrace('fields.namePlaceholder')} disabled={isPending} {...register('name')} />
+        </FormFieldWrapper>
+      </div>
 
-        <div className="grid grid-cols-1 gap-3 sm:grid-cols-2">
-          <FormFieldWrapper
-            id="boiler_capacity_kg"
-            label={`${tTrace('fields.boilerCapacity')} (Kg)`}
-            required
-            error={errors.boiler_capacity_kg?.message}
-          >
-            <Input
-              id="boiler_capacity_kg"
-              type="number"
-              placeholder={tTrace('fields.boilerCapacityPlaceholder')}
-              disabled={isPending}
-              className="h-8 font-mono text-xs"
-              {...register('boiler_capacity_kg', { valueAsNumber: true })}
-            />
-          </FormFieldWrapper>
+      <div className="grid grid-cols-1 gap-3 sm:grid-cols-2">
+        <FormFieldWrapper id="distiller-capacity" label={tTrace('fields.boilerCapacity')} required error={errors.boiler_capacity_kg?.message}>
+          <Input
+            id="distiller-capacity"
+            type="number"
+            placeholder={tTrace('fields.boilerCapacityPlaceholder')}
+            disabled={isPending}
+            {...register('boiler_capacity_kg', { valueAsNumber: true })}
+          />
+        </FormFieldWrapper>
 
-          <FormFieldWrapper id="method" label={tTrace('fields.method')} required error={errors.method?.message}>
-            <SelectForm
-              value={currentMethod}
-              onValueChange={(val) => setValue('method', val, { shouldValidate: true })}
-              placeholder={tTrace('fields.methodPlaceholder')}
-              disabled={isPending}
-              items={methodOptions}
-            />
-          </FormFieldWrapper>
-        </div>
-
-        <div className="grid grid-cols-1 gap-3 sm:grid-cols-2">
-          <FormFieldWrapper id="boiler_material" label={tTrace('fields.material')}>
-            <SelectForm
-              value={currentMaterial}
-              onValueChange={(val) => setValue('boiler_material', val, { shouldValidate: true })}
-              placeholder={tTrace('fields.materialPlaceholder')}
-              disabled={isPending}
-              items={materialOptions}
-            />
-          </FormFieldWrapper>
-
-          <FormFieldWrapper id="ownership" label={tTrace('fields.ownership')}>
-            <SelectForm
-              value={currentOwnership}
-              onValueChange={(val) => setValue('ownership', val, { shouldValidate: true })}
-              placeholder={tTrace('fields.ownershipPlaceholder')}
-              disabled={isPending}
-              items={ownershipOptions}
-            />
-          </FormFieldWrapper>
-        </div>
-
-        <div className="grid grid-cols-1 gap-3 sm:grid-cols-2">
-          <FormFieldWrapper id="operator_name" label={tTrace('fields.operatorName')} required error={errors.operator_name?.message}>
-            <Input
-              id="operator_name"
-              placeholder={tTrace('fields.operatorNamePlaceholder')}
-              disabled={isPending}
-              className="h-8 text-xs"
-              {...register('operator_name')}
-            />
-          </FormFieldWrapper>
-
-          <FormFieldWrapper id="phone" label={tTrace('fields.phone')}>
-            <Input
-              id="phone"
-              placeholder={tTrace('fields.phonePlaceholder')}
-              disabled={isPending}
-              className="h-8 font-mono text-xs"
-              {...register('phone')}
-            />
-          </FormFieldWrapper>
-        </div>
-
-        <div className="grid grid-cols-1 gap-3 sm:grid-cols-2">
-          <FormFieldWrapper id="street" label={tTrace('fields.street')} required error={errors.street?.message}>
-            <Input
-              id="street"
-              placeholder={tTrace('fields.streetPlaceholder')}
-              disabled={isPending}
-              className="h-8 text-xs"
-              {...register('street')}
-            />
-          </FormFieldWrapper>
-
-          <FormFieldWrapper id="city" label={tTrace('fields.city')} required error={errors.city?.message}>
-            <Input id="city" placeholder={tTrace('fields.cityPlaceholder')} disabled={isPending} className="h-8 text-xs" {...register('city')} />
-          </FormFieldWrapper>
-        </div>
-
-        <FormFieldWrapper id="sanitation_status" label={tTrace('fields.sanitation')}>
+        <FormFieldWrapper id="distiller-method" label={tTrace('fields.extractionMethod')} required error={errors.method?.message}>
           <SelectForm
-            value={currentSanitation}
-            onValueChange={(val) => setValue('sanitation_status', val, { shouldValidate: true })}
+            placeholder={tTrace('fields.methodPlaceholder')}
+            disabled={isPending}
+            value={watch('method')}
+            onValueChange={(val) => setValue('method', val as DistillerFormValues['method'])}
+            items={methodOptions}
+          />
+        </FormFieldWrapper>
+      </div>
+
+      <div className="grid grid-cols-1 gap-3 sm:grid-cols-3">
+        <FormFieldWrapper id="distiller-material" label={tTrace('fields.material')} required error={errors.boiler_material?.message}>
+          <SelectForm
+            placeholder={tTrace('fields.materialPlaceholder')}
+            disabled={isPending}
+            value={watch('boiler_material')}
+            onValueChange={(val) => setValue('boiler_material', val)}
+            items={materialOptions}
+          />
+        </FormFieldWrapper>
+
+        <FormFieldWrapper id="distiller-ownership" label={tTrace('fields.ownership')} required error={errors.ownership?.message}>
+          <SelectForm
+            placeholder={tTrace('fields.ownershipPlaceholder')}
+            disabled={isPending}
+            value={watch('ownership')}
+            onValueChange={(val) => setValue('ownership', val as DistillerFormValues['ownership'])}
+            items={ownershipOptions}
+          />
+        </FormFieldWrapper>
+
+        <FormFieldWrapper id="distiller-sanitation" label={tTrace('fields.sanitation')} required error={errors.sanitation_status?.message}>
+          <SelectForm
             placeholder={tTrace('fields.sanitationPlaceholder')}
             disabled={isPending}
+            value={watch('sanitation_status')}
+            onValueChange={(val) => setValue('sanitation_status', val as DistillerFormValues['sanitation_status'])}
             items={sanitationOptions}
           />
         </FormFieldWrapper>
+      </div>
 
-        <FormFieldWrapper id="comment" label={tTrace('fields.comment')}>
-          <Textarea
-            id="comment"
-            rows={2}
-            placeholder={tTrace('fields.commentPlaceholder')}
-            disabled={isPending}
-            className="resize-none text-xs"
-            {...register('comment')}
-          />
+      <div className="grid grid-cols-1 gap-3 sm:grid-cols-2">
+        <FormFieldWrapper id="distiller-operator" label={tTrace('fields.operator')} required error={errors.operator_name?.message}>
+          <Input id="distiller-operator" placeholder={tTrace('fields.operatorNamePlaceholder')} disabled={isPending} {...register('operator_name')} />
         </FormFieldWrapper>
-      </form>
-    </ActionDialog>
+
+        <FormFieldWrapper id="distiller-phone" label={tTrace('fields.operatorPhone')} error={errors.phone?.message}>
+          <Input id="distiller-phone" placeholder={tTrace('fields.phonePlaceholder')} disabled={isPending} {...register('phone')} />
+        </FormFieldWrapper>
+      </div>
+
+      <div className="grid grid-cols-1 gap-3 sm:grid-cols-2">
+        <FormFieldWrapper id="distiller-street" label={tTrace('fields.facilityAddress')} required error={errors.street?.message}>
+          <Textarea id="distiller-street" rows={3} placeholder={tTrace('fields.streetPlaceholder')} disabled={isPending} {...register('street')} />
+        </FormFieldWrapper>
+
+        <FormFieldWrapper id="distiller-comment" label={tTrace('fields.comment')} error={errors.comment?.message}>
+          <Textarea id="distiller-comment" rows={3} placeholder={tTrace('fields.commentPlaceholder')} disabled={isPending} {...register('comment')} />
+        </FormFieldWrapper>
+      </div>
+    </form>
   )
 }

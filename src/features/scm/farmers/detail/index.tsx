@@ -32,7 +32,7 @@ export function FarmerDetail({ farmer }: FarmerDetailProps): ReactElement {
       <PageHeader
         showBack={true}
         backHref="/scm/farmers"
-        backLabel={tTrace('detail.back')}
+
         title={farmer.name}
         description={tTrace('detail.registeredSince')}
         titleBadge={

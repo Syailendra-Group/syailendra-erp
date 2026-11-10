@@ -17,8 +17,11 @@ const inter = Inter({
 })
 
 export const metadata: Metadata = {
-  title: 'ERP Syailendra Group',
-  description: 'Enterprise Resource Planning & Traceability System'
+  title: {
+    template: '%s • SYAILENDRA ERP',
+    default: 'SYAILENDRA ERP — Smarter Systems, Stronger Businesses.'
+  },
+  description: 'Integrated Business Management Platform — A Digital Backbone for the Syailendra Group Ecosystem'
 }
 
 export interface RootLayoutProps {

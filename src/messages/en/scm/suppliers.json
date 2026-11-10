@@ -87,7 +87,10 @@
       "accountHolderPlaceholder": "e.g. PT Sumber Atsiri Nusantara",
       "legacyCode": "Historical Code (Accurate)",
       "legacyCodePlaceholder": "e.g. ABD-DMK",
-      "active": "Supplier Active"
+      "active": "Supplier Active",
+      "companyType": "Business Entity Type",
+      "companyTypePlaceholder": "Select entity type...",
+      "categories": "Odoo Supplier Categories"
     },
     "buttons": {
       "save": "Save Supplier",
@@ -126,6 +129,8 @@
     "restoreSuccess": "Supplier restored successfully",
     "deleteSuccess": "Supplier deleted successfully",
     "deleteError": "Failed to process supplier data",
-    "deleteErrorRelational": "This supplier cannot be deleted because it is already referenced by transactions or receiving notes in the system."
+    "deleteErrorRelational": "This supplier cannot be deleted because it is already referenced by transactions or receiving notes in the system.",
+    "createError": "Failed to register supplier",
+    "updateError": "Failed to update supplier data"
   }
 }

@@ -7,7 +7,8 @@
     "code": "Code",
     "alias": "Alias",
     "country": "Country",
-    "status": "Status"
+    "status": "Status",
+    "prefix": "Prefix ID (Regional Code)"
   },
   "form": {
     "category": "Region Category",
@@ -16,7 +17,9 @@
     "foreignCountry": "Country / State Jurisdiction",
     "foreignCountryPlaceholder": "Select country...",
     "namePlaceholder": "e.g. Jawa Tengah, Sabah, Victoria",
-    "codePlaceholder": "e.g. JT / 33 / VIC"
+    "codePlaceholder": "e.g. JT / 33 / VIC",
+    "aliasPlaceholder": "e.g. Central Java, West Java, Sabah",
+    "prefixPlaceholder": "e.g. JTG, JBR, JKT, DIY, BAL"
   },
   "dialog": {
     "addTitle": "Register New Province",
@@ -29,6 +32,7 @@
   "validation": {
     "nameRequired": "Province name must be at least {min} characters.",
     "codeRequired": "Province code is required.",
-    "countryRequired": "Country is required."
+    "countryRequired": "Country is required.",
+    "prefixRequired": "Province prefix ID is required."
   }
 }

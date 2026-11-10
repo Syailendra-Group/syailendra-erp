@@ -41,6 +41,12 @@ function mapPartnerToFarmer(r: Record<string, OdooFieldValue>): FarmerRecord {
     land_area_m2 = parseInt(landMatch[1], 10)
   }
 
+  let legacy_code: string | false = false
+  const legacyMatch = comment.match(/Accurate:\s*([^\s|]+)/i)
+  if (legacyMatch && legacyMatch[1]) {
+    legacy_code = legacyMatch[1]
+  }
+
   return {
     id: r.id as number,
     ref: (r.ref as string) || 'FMR-JTG-' + r.id,
@@ -57,10 +63,13 @@ function mapPartnerToFarmer(r: Record<string, OdooFieldValue>): FarmerRecord {
     farming_method: comment.toLowerCase().includes('organik') ? 'organic' : 'conventional',
     land_area_m2,
     active: Boolean(r.active),
+    legacy_code,
+    country_id: (r.country_id as [number, string]) || false,
     state_id: (r.state_id as [number, string]) || false,
     city_id: (r.city_id as [number, string]) || false,
     district_id: (r.district_id as [number, string]) || false,
     subdistrict_id: (r.subdistrict_id as [number, string]) || false,
+    zip_code: (r.zip as string) || false,
     address_detail: (r.address_detail as string) || false
   }
 }
@@ -78,9 +87,12 @@ const FARMER_READ_FIELDS = [
   'email',
   'comment',
   'active',
+  'country_id',
+  'state_id',
   'city_id',
   'district_id',
   'subdistrict_id',
+  'zip',
   'address_detail'
 ]
 
@@ -97,11 +109,9 @@ export async function fetchFarmersPaginated(params: FetchFarmersParams = {}): Pr
 
   const domain: OdooDomain = [['ref', 'like', 'FMR%']]
 
-  // Apply clean status domain via shared helper from @/utils
   const statusTuples = buildStatusDomain(status)
   statusTuples.forEach((t) => domain.push(t))
 
-  // Apply clean multi-value Polish OR commodity domain via shared helper from @/utils
   const commodityDomain = buildPolishOrDomain('comment', commodity, 'ilike')
   commodityDomain.forEach((d) => domain.push(d))
 
@@ -150,11 +160,14 @@ export async function persistFarmer(values: FarmerFormValues): Promise<number> {
     vat,
     street,
     city,
+    country_id,
     state_id,
     city_id,
     district_id,
     subdistrict_id,
+    zip_code,
     address_detail,
+    address_benchmark,
     partner_latitude,
     partner_longitude,
     phone,
@@ -162,14 +175,17 @@ export async function persistFarmer(values: FarmerFormValues): Promise<number> {
     commodity,
     farming_method,
     land_area_m2,
-    comment
+    comment,
+    legacy_code
   } = values
 
   const combinedNotes = [
     comment ? comment.trim() : '',
+    legacy_code ? 'Accurate: ' + legacy_code.trim() : '',
     'Komoditas: ' + commodity.toUpperCase(),
     'Metode: ' + farming_method.toUpperCase(),
-    land_area_m2 ? 'Luas Lahan: ' + land_area_m2 + ' m²' : ''
+    land_area_m2 ? 'Luas Lahan: ' + land_area_m2 + ' m²' : '',
+    address_benchmark ? 'Patokan: ' + address_benchmark.trim() : ''
   ]
     .filter(Boolean)
     .join(' | ')
@@ -178,12 +194,14 @@ export async function persistFarmer(values: FarmerFormValues): Promise<number> {
     ref,
     name,
     vat: vat || false,
-    street,
-    city,
+    street: street || address_detail || false,
+    city: city || false,
+    country_id: country_id || 100,
     state_id: state_id || false,
     city_id: city_id || false,
     district_id: district_id || false,
     subdistrict_id: subdistrict_id || false,
+    zip: zip_code || false,
     address_detail: address_detail || false,
     partner_latitude,
     partner_longitude,

@@ -87,7 +87,10 @@
       "accountHolderPlaceholder": "Contoh: PT Sumber Atsiri Nusantara",
       "legacyCode": "Kode Historis (Accurate)",
       "legacyCodePlaceholder": "Contoh: ABD-DMK",
-      "active": "Pemasok Aktif"
+      "active": "Pemasok Aktif",
+      "companyType": "Jenis Entitas Usaha",
+      "companyTypePlaceholder": "Pilih jenis entitas...",
+      "categories": "Kategori Pemasok Odoo"
     },
     "buttons": {
       "save": "Simpan Pemasok",
@@ -126,6 +129,8 @@
     "restoreSuccess": "Pemasok berhasil diaktifkan kembali",
     "deleteSuccess": "Pemasok berhasil dihapus",
     "deleteError": "Gagal memproses data pemasok",
-    "deleteErrorRelational": "Pemasok ini tidak dapat dihapus karena sudah memiliki riwayat transaksi atau penerimaan barang di sistem."
+    "deleteErrorRelational": "Pemasok ini tidak dapat dihapus karena sudah memiliki riwayat transaksi atau penerimaan barang di sistem.",
+    "createError": "Gagal mendaftarkan pemasok",
+    "updateError": "Gagal memperbarui data pemasok"
   }
 }

@@ -1,4 +1,7 @@
-import { Check, PlusCircle } from 'lucide-react'
+'use client'
+
+import { useMemo, useState } from 'react'
+import { Check, Loader2, PlusCircle } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 
 import { Badge } from '@/components/ui/badge'
@@ -9,7 +12,7 @@ import { Separator } from '@/components/ui/separator'
 import { cn } from '@/lib/utils'
 
 import type { Column } from '@tanstack/react-table'
-import type { ComponentType, ReactElement } from 'react'
+import type { ComponentType, ReactElement, UIEvent } from 'react'
 
 export interface DataTableFacetedFilterProps<TData, TValue> {
   column?: Column<TData, TValue>
@@ -23,6 +26,8 @@ export interface DataTableFacetedFilterProps<TData, TValue> {
   onFilterChange?: (values: string[] | undefined) => void
 }
 
+const CHUNK_SIZE = 50
+
 export function DataTableFacetedFilter<TData, TValue>({
   column,
   title,
@@ -31,7 +36,12 @@ export function DataTableFacetedFilter<TData, TValue>({
   onFilterChange
 }: DataTableFacetedFilterProps<TData, TValue>): ReactElement | null {
   const tTable = useTranslations('common.table')
+  const tSelect = useTranslations('common.select')
   const facets = column?.getFacetedUniqueValues()
+
+  const [open, setOpen] = useState(false)
+  const [searchQuery, setSearchQuery] = useState('')
+  const [renderedCount, setRenderedCount] = useState(CHUNK_SIZE)
 
   const currentValues = externalSelectedValues ?? (column?.getFilterValue() as string[]) ?? []
   const selectedValues = new Set(currentValues)
@@ -44,8 +54,43 @@ export function DataTableFacetedFilter<TData, TValue>({
     }
   }
 
+  // Fast In-Memory Filter with Zero cmdk double-filter interference
+  const filteredOptions = useMemo(() => {
+    if (!searchQuery.trim()) return options
+    const q = searchQuery.toLowerCase().trim()
+    return options.filter((option) => option.label.toLowerCase().includes(q))
+  }, [options, searchQuery])
+
+  const hasMore = filteredOptions.length > renderedCount
+  const visibleOptions = useMemo(() => {
+    return filteredOptions.slice(0, renderedCount)
+  }, [filteredOptions, renderedCount])
+
+  const handleSearchChange = (val: string) => {
+    setSearchQuery(val)
+    setRenderedCount(CHUNK_SIZE)
+  }
+
+  const handleScroll = (e: UIEvent<HTMLDivElement>) => {
+    const target = e.currentTarget
+    if (target.scrollHeight - target.scrollTop <= target.clientHeight + 30) {
+      if (hasMore) {
+        setRenderedCount((prev) => prev + CHUNK_SIZE)
+      }
+    }
+  }
+
   return (
-    <Popover>
+    <Popover
+      open={open}
+      onOpenChange={(isOpen) => {
+        setOpen(isOpen)
+        if (!isOpen) {
+          setSearchQuery('')
+          setRenderedCount(CHUNK_SIZE)
+        }
+      }}
+    >
       <PopoverTrigger asChild>
         <Button variant="outline" size="sm" className="border-dashed bg-white text-xs">
           <PlusCircle className="mr-2 h-4 w-4" />
@@ -76,19 +121,27 @@ export function DataTableFacetedFilter<TData, TValue>({
         </Button>
       </PopoverTrigger>
 
-      <PopoverContent className="w-50 p-0" align="start">
-        <Command>
-          <CommandInput placeholder={title} />
+      <PopoverContent className="w-64 sm:w-72 p-0" align="start">
+        <Command shouldFilter={false} className="flex max-h-80 w-full flex-col">
+          <CommandInput
+            placeholder={title}
+            value={searchQuery}
+            onValueChange={handleSearchChange}
+            className="h-8 shrink-0 text-xs"
+          />
 
-          <CommandList>
-            <CommandEmpty>{tTable('noResults')}</CommandEmpty>
+          <CommandList onScroll={handleScroll} className="max-h-60 flex-1 overflow-y-auto">
+            <CommandEmpty className="text-muted-foreground px-3 py-3 text-center text-xs">
+              {tTable('noResults')}
+            </CommandEmpty>
 
             <CommandGroup>
-              {options.map((option) => {
+              {visibleOptions.map((option) => {
                 const isSelected = selectedValues.has(option.value)
                 return (
                   <CommandItem
                     key={option.value}
+                    value={option.label}
                     onSelect={() => {
                       if (isSelected) {
                         selectedValues.delete(option.value)
@@ -102,14 +155,14 @@ export function DataTableFacetedFilter<TData, TValue>({
                   >
                     <div
                       className={cn(
-                        'border-primary mr-2 flex h-4 w-4 items-center justify-center rounded-sm border',
+                        'border-primary mr-2 flex h-4 w-4 shrink-0 items-center justify-center rounded-sm border',
                         isSelected ? 'bg-primary text-primary-foreground' : 'opacity-50 [&_svg]:invisible'
                       )}
                     >
                       <Check className="h-4 w-4" />
                     </div>
-                    {option.icon && <option.icon className="text-muted-foreground mr-2 h-4 w-4" />}
-                    <span>{option.label}</span>
+                    {option.icon && <option.icon className="text-muted-foreground mr-2 h-4 w-4 shrink-0" />}
+                    <span className="truncate">{option.label}</span>
                     {facets?.get(option.value) && (
                       <span className="ml-auto flex h-4 w-4 items-center justify-center font-mono text-xs">{facets.get(option.value)}</span>
                     )}
@@ -117,6 +170,14 @@ export function DataTableFacetedFilter<TData, TValue>({
                 )
               })}
             </CommandGroup>
+
+            {hasMore && (
+              <div className="text-muted-foreground flex items-center justify-center gap-1.5 py-1.5 text-[11px]">
+                <Loader2 className="text-primary size-3 animate-spin" />
+                <span>{tSelect('loadingMore')}</span>
+              </div>
+            )}
+
             {selectedValues.size > 0 && (
               <>
                 <CommandSeparator />

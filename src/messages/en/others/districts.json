@@ -16,7 +16,7 @@
     "parentLabel": "Parent Regency",
     "parentPlaceholder": "Select Regency",
     "namePlaceholder": "e.g. Kecamatan Candiroto",
-    "aliasLabel": "Alias Name (Dropdown)",
+    "aliasLabel": "Alias Name",
     "aliasPlaceholder": "e.g. Candiroto",
     "codePlaceholder": "e.g. 33.23.08",
     "descLabel": "Description / Regional Notes (Optional)",

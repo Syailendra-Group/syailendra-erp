@@ -13,6 +13,7 @@ import { toast } from 'sonner'
 
 export default function SCMDistillationCreatePage() {
   const t = useTranslations('scm.demo.distillation')
+  const tDemo = useTranslations('scm.demo')
   const router = useRouter()
 
   const [biomass, setBiomass] = useState<number>(1250)
@@ -22,7 +23,7 @@ export default function SCMDistillationCreatePage() {
   const calculatedYield = biomass > 0 ? ((oil / biomass) * 100).toFixed(2) : '0.00'
 
   const handleSave = () => {
-    toast.success('Pencatatan Hasil Suling Berhasil Disimpan (Demo Mock)')
+    toast.success(tDemo('toasts.distillationSaved'))
     router.push('/scm/distillation')
   }
 

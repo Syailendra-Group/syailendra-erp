@@ -19,7 +19,7 @@
     "vatPlaceholder": "16 digit nomor identitas resmi",
     "phone": "Nomor Kontak",
     "phonePlaceholder": "Contoh: +62 812-xxxx-xxxx",
-    "email": "Email (Opsional)",
+    "email": "Email",
     "emailPlaceholder": "Contoh: petani@domain.com",
     "street": "Desa / Alamat Lahan",
     "streetPlaceholder": "Contoh: Desa Igirmranak, Kejajar",
@@ -46,7 +46,9 @@
     "village": "Kelurahan / Desa",
     "villagePlaceholder": "Pilih desa...",
     "addressDetail": "Alamat Detail / Blok Kebun",
-    "addressDetailPlaceholder": "Nama jalan, RT/RW, nomor petak kebun..."
+    "addressDetailPlaceholder": "Nama jalan, RT/RW, nomor petak kebun...",
+    "legacyCode": "Kode Historis (Accurate)",
+    "legacyCodePlaceholder": "Contoh: ABD-DMK"
   },
   "table": {
     "ref": "Farmer ID",
@@ -97,7 +99,7 @@
     "terroir": "Terroir & Geotagging GPS",
     "terroirDesc": "Koordinat geografis presisi untuk sertifikat silsilah digital konsumen (QR Trace).",
     "notes": "Catatan Agronomi & Observasi Lapangan",
-    "notesDesc": "Catatan kondisi tanah, pohon, atau catatan khusus dari tim agronomis PT. SBI."
+    "notesDesc": "Catatan kondisi tanah, pohon, atau catatan khusus dari tim agronomis PT SBI."
   },
   "detail": {
     "back": "Kembali ke Daftar Petani",
@@ -131,8 +133,16 @@
     "refFormat": "Format harus FMR-[WILAYAH]-[NO] (contoh: FMR-JTG-003).",
     "nameRequired": "Nama petani / kelompok minimal {min} karakter.",
     "streetRequired": "Alamat desa / kebun wajib diisi.",
-    "cityRequired": "Kabupaten / kota wajib diisi.",
-    "commodityRequired": "Komoditas utama wajib dipilih."
+    "cityRequired": "Kabupaten / kota wajib dipilih.",
+    "commodityRequired": "Komoditas utama wajib dipilih.",
+    "countryRequired": "Negara wajib dipilih.",
+    "provinceRequired": "Provinsi wajib dipilih.",
+    "districtRequired": "Kecamatan wajib dipilih.",
+    "villageRequired": "Kelurahan / desa wajib dipilih.",
+    "zipRequired": "Kode pos wajib diisi (minimal 3 karakter).",
+    "addressDetailRequired": "Alamat detail / blok kebun wajib diisi.",
+    "latitudeRequired": "Titik koordinat Latitude GPS wajib terisi.",
+    "longitudeRequired": "Titik koordinat Longitude GPS wajib terisi."
   },
   "commodityDescriptions": {
     "gaharu": "Aquilaria malaccensis — resin gaharu gubal Dieng",

@@ -1,6 +1,6 @@
 {
   "title": "Main Operations Command (MAIN)",
-  "description": "Executive operational center & integrated overview of PT. Syailendra Bumi Investama",
+  "description": "Executive operational center & integrated overview of PT Syailendra Bumi Investama",
   "kpis": {
     "systemConnected": "Connected System",
     "activeGenealogy": "Active Genealogy",
@@ -32,5 +32,10 @@
   "activities": {
     "title": "Recent Activity",
     "subtitle": "Real-time batch movements & system operations log"
+  },
+  "hero": {
+    "descriptor": "INTEGRATED BUSINESS MANAGEMENT PLATFORM",
+    "tagline": "Smarter Systems, Stronger Businesses.",
+    "backbone": "A Digital Backbone for the Syailendra Group Ecosystem"
   }
 }

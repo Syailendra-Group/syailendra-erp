@@ -17,6 +17,7 @@ export function getProvinceFormSchema(t?: SchemaTranslator) {
     is_domestic: z.boolean(),
     name: z.string().min(2, { message: msg('validation.nameRequired', 'Province name is required', { min: 2 }) }),
     code: z.string().min(1, { message: msg('validation.codeRequired', 'Province code is required', { min: 1 }) }),
+    prefix: z.string().min(2, { message: msg('validation.prefixRequired', 'Prefix ID is required') }).max(10),
     country_id: z.number().min(1, { message: msg('validation.countryRequired', 'Country is required') }),
     alias: z.string().optional(),
     description: z.string().optional()

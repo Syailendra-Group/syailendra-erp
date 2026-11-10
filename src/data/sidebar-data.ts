@@ -57,7 +57,7 @@ export const sidebarData: SidebarData = {
   },
   teams: [
     {
-      name: 'PT. Syailendra Bumi Investama',
+      name: 'PT Syailendra Bumi Investama',
       plan: 'Production Odoo 18',
       logo: 'Building2'
     }

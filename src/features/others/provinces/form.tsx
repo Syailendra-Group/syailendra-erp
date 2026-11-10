@@ -18,6 +18,7 @@ import { useCountriesQuery } from '@/hooks/others/use-countries'
 import { useCheckProvinceExistsQuery, useSaveProvinceMutation } from '@/hooks/others/use-provinces'
 import { useCatalogProvincesQuery } from '@/hooks/shared/use-regional-catalog'
 import { getProvinceFormSchema } from '@/schemas/others/province-schema'
+import { getProvincePrefix } from '@/utils/regional-helper'
 
 import type { ProvinceFormValues } from '@/schemas/others/province-schema'
 import type { ProvinceRecord } from '@/types/others/province'
@@ -46,6 +47,7 @@ export function ProvinceForm({ currentRow, onSuccess }: ProvinceFormProps): Reac
       is_domestic: currentRow?.country_id ? currentRow.country_id[0] === 100 : true,
       name: currentRow?.name || '',
       code: currentRow?.code || '',
+      prefix: (currentRow?.prefix as string) || '',
       alias: (currentRow?.alias as string) || '',
       description: (currentRow?.description as string) || '',
       country_id: currentRow?.country_id ? currentRow.country_id[0] : 100
@@ -59,6 +61,7 @@ export function ProvinceForm({ currentRow, onSuccess }: ProvinceFormProps): Reac
         is_domestic: currentRow.country_id ? currentRow.country_id[0] === 100 : true,
         name: currentRow.name,
         code: currentRow.code || '',
+        prefix: (currentRow.prefix as string) || getProvincePrefix(currentRow.name),
         alias: (currentRow.alias as string) || '',
         description: (currentRow.description as string) || '',
         country_id: currentRow.country_id ? currentRow.country_id[0] : 100
@@ -69,6 +72,7 @@ export function ProvinceForm({ currentRow, onSuccess }: ProvinceFormProps): Reac
         is_domestic: true,
         name: '',
         code: '',
+        prefix: '',
         alias: '',
         description: '',
         country_id: 100
@@ -91,6 +95,8 @@ export function ProvinceForm({ currentRow, onSuccess }: ProvinceFormProps): Reac
     if (found) {
       form.setValue('name', found.name, { shouldValidate: true })
       form.setValue('code', found.code, { shouldValidate: true })
+      form.setValue('prefix', getProvincePrefix(found.name), { shouldValidate: true })
+      form.setValue('alias', found.name, { shouldValidate: true })
     }
   }
 
@@ -232,20 +238,36 @@ export function ProvinceForm({ currentRow, onSuccess }: ProvinceFormProps): Reac
           </>
         )}
 
-        {/* Alias Name Field */}
-        <FormField
-          control={form.control}
-          name="alias"
-          render={({ field }) => (
-            <FormItem>
-              <FormFieldWrapper id="prov-alias" label={tReg('fields.alias')} error={form.formState.errors.alias?.message}>
-                <FormControl>
-                  <Input id="prov-alias" placeholder={t('form.aliasPlaceholder')} disabled={isPending} {...field} />
-                </FormControl>
-              </FormFieldWrapper>
-            </FormItem>
-          )}
-        />
+        {/* Prefix ID & Alias Name Grid */}
+        <div className="grid grid-cols-1 gap-3.5 sm:grid-cols-2">
+          <FormField
+            control={form.control}
+            name="prefix"
+            render={({ field }) => (
+              <FormItem>
+                <FormFieldWrapper id="prov-prefix" label={t('table.prefix')} required error={form.formState.errors.prefix?.message}>
+                  <FormControl>
+                    <Input id="prov-prefix" placeholder={t('form.prefixPlaceholder')} disabled={isPending} {...field} />
+                  </FormControl>
+                </FormFieldWrapper>
+              </FormItem>
+            )}
+          />
+
+          <FormField
+            control={form.control}
+            name="alias"
+            render={({ field }) => (
+              <FormItem>
+                <FormFieldWrapper id="prov-alias" label={tReg('fields.alias')} error={form.formState.errors.alias?.message}>
+                  <FormControl>
+                    <Input id="prov-alias" placeholder={t('form.aliasPlaceholder')} disabled={isPending} {...field} />
+                  </FormControl>
+                </FormFieldWrapper>
+              </FormItem>
+            )}
+          />
+        </div>
 
         {/* Description and Notes Field */}
         <FormField

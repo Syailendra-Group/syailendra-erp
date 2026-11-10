@@ -24,6 +24,21 @@ export function getColumns({ t, tCommon, onView, onEdit, onDelete }: GetColumnsO
       enableSorting: true
     },
     {
+      accessorKey: 'prefix',
+      header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.prefix')} />,
+      cell: ({ row }) => {
+        const val = row.original.prefix
+        return val ? (
+          <span className="bg-primary/10 text-primary border-primary/20 inline-flex items-center rounded border px-1.5 py-0.5 font-mono text-xs font-semibold">
+            {val}
+          </span>
+        ) : (
+          <span className="text-muted-foreground text-xs">-</span>
+        )
+      },
+      enableSorting: true
+    },
+    {
       accessorKey: 'name',
       header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.name')} />,
       cell: ({ row }) => <LongText className="text-muted-foreground block max-w-50 text-xs">{row.original.name}</LongText>,

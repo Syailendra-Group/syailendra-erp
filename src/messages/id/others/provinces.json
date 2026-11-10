@@ -7,7 +7,8 @@
     "code": "Kode",
     "alias": "Alias",
     "country": "Negara",
-    "status": "Status"
+    "status": "Status",
+    "prefix": "Kode Prefix (ID Wilayah)"
   },
   "form": {
     "category": "Kategori Wilayah",
@@ -16,7 +17,9 @@
     "foreignCountry": "Negara Bagian / Luar Negeri",
     "foreignCountryPlaceholder": "Pilih negara...",
     "namePlaceholder": "Contoh: Jawa Tengah, Sabah, Victoria",
-    "codePlaceholder": "Contoh: JT / 33 / VIC"
+    "codePlaceholder": "Contoh: JT / 33 / VIC",
+    "aliasPlaceholder": "Contoh: Jawa Tengah, Jawa Barat, Sabah",
+    "prefixPlaceholder": "Contoh: JTG, JBR, JKT, DIY, BAL"
   },
   "dialog": {
     "addTitle": "Registrasi Provinsi Baru",
@@ -29,6 +32,7 @@
   "validation": {
     "nameRequired": "Nama provinsi minimal {min} karakter.",
     "codeRequired": "Kode provinsi wajib diisi.",
-    "countryRequired": "Negara wajib dipilih."
+    "countryRequired": "Negara wajib dipilih.",
+    "prefixRequired": "Kode prefix provinsi wajib diisi (minimal 2 karakter)."
   }
 }

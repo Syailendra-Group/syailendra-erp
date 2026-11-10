@@ -25,7 +25,7 @@ export function PartnersFeature(): ReactElement {
     },
     {
       id: 2,
-      name: 'PT. Java Aroma Nusantara',
+      name: 'PT Java Aroma Nusantara',
       category: 'Penyuling Mitra',
       phone: '+62 811 4455 6677',
       email: 'aroma@javadistill.com',

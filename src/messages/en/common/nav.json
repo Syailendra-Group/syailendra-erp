@@ -131,7 +131,8 @@
       "admin": "System Administrator",
       "manager": "Operations Manager",
       "staff": "Staff Member",
-      "farmer": "Farmer Partner"
+      "farmer": "Farmer Partner",
+      "member": "Member"
     }
   },
   "toggleNavMenu": "Toggle navigation menu",

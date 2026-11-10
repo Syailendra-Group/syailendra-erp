@@ -31,6 +31,10 @@ export function IdentitySection({ register, errors, isPending }: IdentitySection
         <Input id="ref" disabled={true} {...register('ref')} />
       </FormFieldWrapper>
 
+      <FormFieldWrapper id="legacy_code" label={tTrace('fields.legacyCode')} error={errors.legacy_code?.message}>
+        <Input id="legacy_code" placeholder={tTrace('fields.legacyCodePlaceholder')} disabled={isPending} {...register('legacy_code')} />
+      </FormFieldWrapper>
+
       <FormFieldWrapper id="name" label={tTrace('fields.name')} required error={errors.name?.message}>
         <Input id="name" placeholder={tTrace('fields.namePlaceholder')} disabled={isPending} {...register('name')} />
       </FormFieldWrapper>
@@ -41,6 +45,10 @@ export function IdentitySection({ register, errors, isPending }: IdentitySection
 
       <FormFieldWrapper id="phone" label={tTrace('fields.phone')} error={errors.phone?.message}>
         <Input id="phone" placeholder={tTrace('fields.phonePlaceholder')} disabled={isPending} {...register('phone')} />
+      </FormFieldWrapper>
+
+      <FormFieldWrapper id="email" label={tTrace('fields.email')} error={errors.email?.message}>
+        <Input id="email" type="email" placeholder={tTrace('fields.emailPlaceholder')} disabled={isPending} {...register('email')} />
       </FormFieldWrapper>
     </SectionCard>
   )

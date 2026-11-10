@@ -265,7 +265,7 @@ export function PublicTraceView({ data, lotCode }: PublicTraceViewProps): ReactE
         {/* Footer */}
         <footer className="text-muted-foreground border-t pt-4 text-center text-[11px]">
           <p>
-            &copy; {new Date().getFullYear()} PT. Syailendra Bumi Investama (DDistillers). {t('footer.rights')}
+            &copy; {new Date().getFullYear()} PT Syailendra Bumi Investama (DDistillers). {t('footer.rights')}
           </p>
           <p className="mt-0.5 text-[10px]">{t('footer.tagline')}</p>
         </footer>

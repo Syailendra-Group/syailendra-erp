@@ -18,7 +18,8 @@ export function FormFieldWrapper({ id, label, required = false, error, className
   return (
     <div className={cn('space-y-1.5', className)}>
       <Label htmlFor={id} className="text-xs font-semibold">
-        {label} {required && <span className="text-destructive gap-1">*</span>}
+        {label}
+        {required && <span className="text-destructive gap-1">*</span>}
       </Label>
 
       {children}

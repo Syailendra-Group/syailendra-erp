@@ -54,7 +54,7 @@
     "employees_directory": "Direktori Karyawan",
     "departments": "Departemen & Divisi",
     "field_reports": "Laporan Kerja Lapangan",
-    "company_profile": "Profil Perusahaan (PT. SBI)",
+    "company_profile": "Profil Perusahaan (PT SBI)",
     "access_roles": "Hak Akses & RBAC",
     "partners_registry": "Master Petani & Supplier",
     "audit_trail": "Jejak Audit Keamanan",
@@ -131,7 +131,8 @@
       "admin": "Administrator Sistem",
       "manager": "Manajer Operasional",
       "staff": "Staf Operasional",
-      "farmer": "Petani Mitra"
+      "farmer": "Petani Mitra",
+      "member": "Anggota"
     }
   },
   "toggleNavMenu": "Alihkan menu navigasi",

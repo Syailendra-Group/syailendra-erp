@@ -12,10 +12,11 @@ import { toast } from 'sonner'
 
 export default function SCMHarvestCreatePage() {
   const t = useTranslations('scm.demo.harvest')
+  const tDemo = useTranslations('scm.demo')
   const router = useRouter()
 
   const handleSave = () => {
-    toast.success('Sesi Panen Baru Berhasil Dicatat (Demo Mock)')
+    toast.success(tDemo('toasts.harvestRecorded'))
     router.push('/scm/harvest')
   }
 

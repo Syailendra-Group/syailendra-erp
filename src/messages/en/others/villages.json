@@ -16,7 +16,7 @@
     "parentLabel": "Parent District",
     "parentPlaceholder": "Select District",
     "namePlaceholder": "e.g. Desa Canggal",
-    "aliasLabel": "Alias Name (Dropdown)",
+    "aliasLabel": "Alias Name",
     "aliasPlaceholder": "e.g. Canggal",
     "codePlaceholder": "e.g. 33.23.08.2001",
     "zipLabel": "Postal Code",

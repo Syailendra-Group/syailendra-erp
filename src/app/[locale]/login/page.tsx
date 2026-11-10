@@ -1,12 +1,26 @@
+import { getTranslations } from 'next-intl/server'
+
 import { LoginPage } from '@/features/auth/login'
 
 import type { Metadata } from 'next'
+import type { ReactElement } from 'react'
 
-export const metadata: Metadata = {
-  title: 'Sign In • ERP Syailendra Group',
-  description: 'Sign in to Syailendra Group Enterprise Portal'
+interface PageProps {
+  params: Promise<{ locale: string }>
 }
 
-export default function Page(): React.ReactElement {
+export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
+  const { locale } = await params
+  const t = await getTranslations({ locale, namespace: 'auth' })
+
+  return {
+    title: {
+      absolute: t('productName') + ' • ' + t('subtitle')
+    },
+    description: t('descriptor') + ' — ' + t('digitalBackbone')
+  }
+}
+
+export default function Page(): ReactElement {
   return <LoginPage />
 }

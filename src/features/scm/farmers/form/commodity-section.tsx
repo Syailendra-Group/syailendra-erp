@@ -59,13 +59,13 @@ export function CommoditySection({
         />
       </FormFieldWrapper>
 
-      <FormFieldWrapper id="land_area_m2" label={`${tTrace('fields.landArea')} (m²)`} error={errors.land_area_m2?.message}>
+      <FormFieldWrapper id="land_area_m2" label={tTrace('fields.landArea')} error={errors.land_area_m2?.message}>
         <Input
           id="land_area_m2"
           type="number"
           placeholder={tTrace('fields.landAreaPlaceholder')}
           disabled={isPending}
-          {...register('land_area_m2', { valueAsNumber: true })}
+          {...register('land_area_m2', { setValueAs: (v) => (v === '' || isNaN(Number(v)) ? undefined : Number(v)) })}
         />
       </FormFieldWrapper>
     </SectionCard>

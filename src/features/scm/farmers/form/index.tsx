@@ -10,9 +10,11 @@ import { toast } from 'sonner'
 import { AddressSection } from '@/components/form/address-section'
 import { PageHeader } from '@/components/shared/page-header'
 import { Button } from '@/components/ui/button'
+import { useProvincesQuery } from '@/hooks/others/use-provinces'
 import { useSaveFarmerMutation } from '@/hooks/scm/use-farmers'
 import { useRouter } from '@/i18n/navigation'
 import { getFarmerFormSchema } from '@/schemas/scm/farmer-schema'
+import { getProvincePrefix } from '@/utils/regional-helper'
 
 import { CommoditySection } from './commodity-section'
 import { IdentitySection } from './identity-section'
@@ -34,6 +36,7 @@ export function FarmerForm({ initialData }: FarmerFormProps): ReactElement {
   const tTrace = useTranslations('scm.farmers')
   const tCommon = useTranslations('common')
   const { mutateAsync: saveFarmer, isPending } = useSaveFarmerMutation()
+  const { data: provinces = [] } = useProvincesQuery(100)
 
   const {
     register,
@@ -45,25 +48,27 @@ export function FarmerForm({ initialData }: FarmerFormProps): ReactElement {
     resolver: zodResolver(getFarmerFormSchema(tTrace)),
     defaultValues: {
       id: initialData?.id,
-      ref: initialData?.ref || 'FMR-JTG-001',
+      ref: initialData?.ref || '',
       name: initialData?.name || '',
       vat: (initialData?.vat as string) || '',
       phone: (initialData?.phone as string) || '',
       email: (initialData?.email as string) || '',
-      country_id: 100, // Indonesia default
-      state_id: initialData?.state_id ? initialData.state_id[0] : 100, // Jawa Tengah default
-      city_id: initialData?.city_id ? initialData.city_id[0] : undefined,
-      district_id: initialData?.district_id ? initialData.district_id[0] : undefined,
-      subdistrict_id: initialData?.subdistrict_id ? initialData.subdistrict_id[0] : undefined,
+      legacy_code: (initialData?.legacy_code as string) || '',
+      country_id: initialData?.country_id && Array.isArray(initialData.country_id) ? initialData.country_id[0] : 100,
+      state_id: initialData?.state_id && Array.isArray(initialData.state_id) ? initialData.state_id[0] : undefined,
+      city_id: initialData?.city_id && Array.isArray(initialData.city_id) ? initialData.city_id[0] : undefined,
+      district_id: initialData?.district_id && Array.isArray(initialData.district_id) ? initialData.district_id[0] : undefined,
+      subdistrict_id: initialData?.subdistrict_id && Array.isArray(initialData.subdistrict_id) ? initialData.subdistrict_id[0] : undefined,
+      zip_code: (initialData?.zip_code as string) || '',
       address_detail: (initialData?.address_detail as string) || '',
-      address_benchmark: '',
-      street: initialData?.street || 'Wonosobo',
-      city: initialData?.city || 'Wonosobo',
-      partner_latitude: initialData?.partner_latitude ?? -7.2145,
-      partner_longitude: initialData?.partner_longitude ?? 109.9124,
-      commodity: initialData?.commodity || 'gaharu',
+      address_benchmark: (initialData?.address_benchmark as string) || '',
+      street: (initialData?.street as string) || '',
+      city: (initialData?.city as string) || '',
+      partner_latitude: typeof initialData?.partner_latitude === 'number' ? initialData.partner_latitude : undefined,
+      partner_longitude: typeof initialData?.partner_longitude === 'number' ? initialData.partner_longitude : undefined,
+      commodity: initialData?.commodity || 'cengkeh',
       farming_method: initialData?.farming_method || 'organic',
-      land_area_m2: initialData?.land_area_m2 ?? 2500,
+      land_area_m2: typeof initialData?.land_area_m2 === 'number' ? initialData.land_area_m2 : undefined,
       comment: (initialData?.comment as string) || ''
     }
   })
@@ -82,8 +87,8 @@ export function FarmerForm({ initialData }: FarmerFormProps): ReactElement {
     street: watch('street'),
     address_detail: watch('address_detail'),
     address_benchmark: watch('address_benchmark'),
-    latitude: watch('partner_latitude'),
-    longitude: watch('partner_longitude')
+    latitude: watch('partner_latitude') ?? undefined,
+    longitude: watch('partner_longitude') ?? undefined
   }
 
   const handleAddressChange = useCallback(
@@ -93,6 +98,17 @@ export function FarmerForm({ initialData }: FarmerFormProps): ReactElement {
           setValue('partner_latitude', val as number, { shouldValidate: true, shouldDirty: true })
         } else if (key === 'longitude') {
           setValue('partner_longitude', val as number, { shouldValidate: true, shouldDirty: true })
+        } else if (key === 'state_id') {
+          const sId = typeof val === 'number' ? val : undefined
+          if (sId) {
+            setValue('state_id', sId, { shouldValidate: true, shouldDirty: true })
+            const prov = provinces.find((p) => p.id === sId)
+            const prefix = typeof prov?.prefix === 'string' && prov.prefix ? prov.prefix.toUpperCase() : getProvincePrefix(prov?.name)
+            const currentRef = watch('ref')
+            if (!isEdit || !currentRef || currentRef.startsWith('FMR-')) {
+              setValue('ref', `FMR-${prefix}-001`, { shouldValidate: true, shouldDirty: true })
+            }
+          }
         } else {
           setValue(key as keyof FarmerFormValues, val as string | number | undefined, {
             shouldValidate: true,
@@ -101,7 +117,7 @@ export function FarmerForm({ initialData }: FarmerFormProps): ReactElement {
         }
       })
     },
-    [setValue]
+    [setValue, provinces, isEdit, watch]
   )
 
   const onSubmit = async (values: FarmerFormValues) => {
@@ -166,13 +182,18 @@ export function FarmerForm({ initialData }: FarmerFormProps): ReactElement {
           <div className="lg:col-span-2">
             <AddressSection
               disabled={isPending}
+              required={true}
               values={addressValues}
               onChange={handleAddressChange}
-
               errors={{
+                ...(errors.country_id ? { country_id: errors.country_id } : {}),
                 ...(errors.state_id ? { state_id: errors.state_id } : {}),
                 ...(errors.city_id ? { city_id: errors.city_id } : {}),
+                ...(errors.district_id ? { district_id: errors.district_id } : {}),
                 ...(errors.subdistrict_id ? { subdistrict_id: errors.subdistrict_id } : {}),
+                ...(errors.zip_code ? { zip_code: errors.zip_code } : {}),
+                ...(errors.address_detail ? { address_detail: errors.address_detail } : {}),
+                ...(errors.address_benchmark ? { address_benchmark: errors.address_benchmark } : {}),
                 ...(errors.partner_latitude ? { latitude: errors.partner_latitude } : {}),
                 ...(errors.partner_longitude ? { longitude: errors.partner_longitude } : {})
               }}

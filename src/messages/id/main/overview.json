@@ -1,6 +1,6 @@
 {
   "title": "Ruang Kendali Utama (MAIN)",
-  "description": "Pusat operasional eksekutif & ringkasan terintegrasi PT. Syailendra Bumi Investama",
+  "description": "Pusat operasional eksekutif & ringkasan terintegrasi PT Syailendra Bumi Investama",
   "kpis": {
     "systemConnected": "Sistem Terhubung",
     "activeGenealogy": "Silsilah Aktif",
@@ -32,5 +32,10 @@
   "activities": {
     "title": "Aktivitas Terkini",
     "subtitle": "Log pergerakan batch & status sistem real-time"
+  },
+  "hero": {
+    "descriptor": "INTEGRATED BUSINESS MANAGEMENT PLATFORM",
+    "tagline": "Smarter Systems, Stronger Businesses.",
+    "backbone": "A Digital Backbone for the Syailendra Group Ecosystem"
   }
 }

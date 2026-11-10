@@ -1,6 +1,6 @@
 {
   "title": "Sign In to System",
-  "subtitle": "Integrated Commodity & Agribusiness ERP Syailendra Group",
+  "subtitle": "Smarter Systems, Stronger Businesses.",
   "fields": {
     "email": "Email Address",
     "email_placeholder": "name@syailendra.com",
@@ -22,5 +22,10 @@
     "emailRequired": "Email address is required.",
     "emailInvalid": "Invalid email address format.",
     "passwordMin": "Password must be at least {min} characters."
-  }
+  },
+  "cardDescription": "Enter your registered credentials to access the SYAILENDRA ERP portal",
+  "copyright": "All Rights Reserved.",
+  "productName": "SYAILENDRA ERP",
+  "descriptor": "INTEGRATED BUSINESS MANAGEMENT PLATFORM",
+  "digitalBackbone": "A Digital Backbone for the Syailendra Group Ecosystem"
 }

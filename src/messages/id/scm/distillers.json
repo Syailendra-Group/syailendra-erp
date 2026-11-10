@@ -34,7 +34,13 @@
     "sanitation": "Pemeriksaan Sanitasi",
     "sanitationPlaceholder": "Pilih status sanitasi",
     "comment": "Catatan Spesifikasi Teknis",
-    "commentPlaceholder": "Tekanan uap operasional (bar), suhu puncak (°C), spesifikasi kondensor..."
+    "commentPlaceholder": "Tekanan uap operasional (bar), suhu puncak (°C), spesifikasi kondensor...",
+    "code": "Kode Unit Suling",
+    "unitName": "Nama Unit Suling",
+    "extractionMethod": "Metode Ekstraksi",
+    "operator": "Nama Operator / Penanggung Jawab",
+    "operatorPhone": "Kontak Operator",
+    "facilityAddress": "Alamat Fasilitas Suling"
   },
   "table": {
     "ref": "Distiller ID",
@@ -58,7 +64,7 @@
     "copper": "Pure Copper (Tembaga Murni)"
   },
   "ownership": {
-    "internal": "Milik Sendiri (PT. SBI)",
+    "internal": "Milik Sendiri (PT SBI)",
     "partner": "Mitra Penyuling (Partner)"
   },
   "sanitation": {
@@ -72,7 +78,10 @@
     "archived": "Unit suling berhasil diarsipkan",
     "archiveFailed": "Gagal mengarsipkan unit suling",
     "restored": "Unit suling berhasil diaktifkan kembali",
-    "restoreFailed": "Gagal mengaktifkan unit suling"
+    "restoreFailed": "Gagal mengaktifkan unit suling",
+    "updated": "Unit suling berhasil diperbarui",
+    "created": "Unit suling berhasil didaftarkan",
+    "error": "Terjadi kesalahan saat memproses unit suling"
   },
   "status": {
     "operational": "Siap Beroperasi",
@@ -101,7 +110,8 @@
     "operatorContact": "Kontak Operator:",
     "facilityAddress": "Alamat Fasilitas:",
     "boilerSanitation": "Status Sanitasi Ketel:",
-    "specsNotes": "Catatan Spesifikasi"
+    "specsNotes": "Catatan Spesifikasi",
+    "coordinates": "Koordinat GPS"
   },
   "validation": {
     "refMin": "Distiller ID minimal {min} karakter.",
@@ -125,7 +135,7 @@
     "copper": "Tembaga Murni (Traditional Copper Alembic)"
   },
   "ownershipDescriptions": {
-    "internal": "Unit milik penuh PT. Syailendra Bumi Investama",
+    "internal": "Unit milik penuh PT Syailendra Bumi Investama",
     "partner": "Unit suling mitra binaan tersertifikasi"
   },
   "sanitationDescriptions": {

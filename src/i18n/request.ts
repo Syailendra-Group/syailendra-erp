@@ -119,6 +119,7 @@ const messagesMap = {
     },
     regional: {
       common: idRegionalCommon,
+      regionalToasts: idRegionalCommon.regionalToasts,
       parentAlert: idRegionalCommon.parentAlert,
       foreignForm: idRegionalCommon.foreignForm,
       countries: idCountries,
@@ -179,6 +180,7 @@ const messagesMap = {
     },
     regional: {
       common: enRegionalCommon,
+      regionalToasts: enRegionalCommon.regionalToasts,
       parentAlert: enRegionalCommon.parentAlert,
       foreignForm: enRegionalCommon.foreignForm,
       countries: enCountries,

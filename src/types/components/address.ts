@@ -21,6 +21,7 @@ export interface AddressFormState {
 
 export interface AddressSectionProps {
   disabled?: boolean
+  required?: boolean
   className?: string
   values: AddressFormState
   onChange: (updates: Partial<AddressFormState>) => void

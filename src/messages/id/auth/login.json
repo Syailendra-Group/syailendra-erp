@@ -1,6 +1,6 @@
 {
   "title": "Masuk ke Sistem",
-  "subtitle": "ERP Terpadu Komoditas & Agribisnis Syailendra Group",
+  "subtitle": "Smarter Systems, Stronger Businesses.",
   "fields": {
     "email": "Alamat Email",
     "email_placeholder": "nama@syailendra.com",
@@ -22,5 +22,10 @@
     "emailRequired": "Alamat email wajib diisi.",
     "emailInvalid": "Format alamat email tidak valid.",
     "passwordMin": "Kata sandi minimal {min} karakter."
-  }
+  },
+  "cardDescription": "Masukkan kredensial akun terdaftar untuk mengakses portal SYAILENDRA ERP",
+  "copyright": "Hak Cipta Dilindungi Undang-Undang.",
+  "productName": "SYAILENDRA ERP",
+  "descriptor": "INTEGRATED BUSINESS MANAGEMENT PLATFORM",
+  "digitalBackbone": "A Digital Backbone for the Syailendra Group Ecosystem"
 }

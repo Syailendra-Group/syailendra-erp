@@ -6,6 +6,7 @@
 export interface MapCoordinates {
   latitude: number
   longitude: number
+  zoom?: number
 }
 
 export interface MapPickerProps {

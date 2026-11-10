@@ -31,13 +31,14 @@ function mapStateToProvince(r: Record<string, OdooFieldValue>): ProvinceRecord {
     id: r.id as number,
     name: r.name as string,
     code: (r.code as string) || '',
+    prefix: (r.prefix as string) || false,
     alias: (r.alias as string) || false,
     description: (r.description as string) || false,
     country_id: r.country_id as [number, string]
   }
 }
 
-const PROVINCE_READ_FIELDS = ['id', 'name', 'code', 'alias', 'description', 'country_id']
+const PROVINCE_READ_FIELDS = ['id', 'name', 'code', 'prefix', 'alias', 'description', 'country_id']
 
 export async function fetchProvinces(countryId?: number): Promise<ProvinceRecord[]> {
   const domain: OdooDomain = countryId ? [['country_id', '=', countryId]] : []
@@ -140,6 +141,7 @@ export async function persistProvince(values: ProvinceFormValues): Promise<numbe
   const payload: Record<string, OdooFieldValue> = {
     name: values.name,
     code: values.code || false,
+    prefix: values.prefix || false,
     alias: values.alias || false,
     description: values.description || false,
     country_id: values.country_id || 100

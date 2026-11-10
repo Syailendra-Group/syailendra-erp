@@ -31,7 +31,9 @@
     "error": "An error occurred",
     "empty": "No data available yet",
     "active": "Active",
-    "archived": "Archived"
+    "archived": "Archived",
+    "title": "Status",
+    "saving": "Saving..."
   },
   "table": {
     "asc": "Asc",
@@ -76,10 +78,10 @@
   },
   "company": {
     "multiUnit": "Multi-Unit Business",
-    "connectionNotice": "Connected to Odoo 18 Multi-Company Syailendra Group.",
-    "name": "SYAILENDRA GROUP",
-    "category": "Specialty Agri & Commodities",
-    "subsidiary": "PT Syailendra Agri Utama"
+    "connectionNotice": "A Digital Backbone for the Syailendra Group Ecosystem (Odoo 18 Multi-Company).",
+    "name": "SYAILENDRA ERP",
+    "category": "Integrated Platform",
+    "subsidiary": "PT Syailendra Bumi Investama"
   },
   "comingSoon": {
     "title": "Coming Soon!",
@@ -125,5 +127,9 @@
     "cancel": "Cancel",
     "success": "Regional data deleted successfully",
     "inUseError": "This region cannot be deleted because it is currently referenced by other records in the system."
+  },
+  "messages": {
+    "error": "A system error occurred",
+    "saved": "Data saved successfully"
   }
 }

@@ -14,7 +14,7 @@
   },
   "fields": {
     "name": "Legal Company Name",
-    "namePlaceholder": "e.g. PT. Syailendra Bumi Investama",
+    "namePlaceholder": "e.g. PT Syailendra Bumi Investama",
     "tagline": "Agribusiness Tagline",
     "taglinePlaceholder": "e.g. Specialty Essential Oil & Fine Robusta Processing",
     "currency": "Default System Currency",

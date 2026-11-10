@@ -31,7 +31,9 @@
     "error": "Terjadi kesalahan",
     "empty": "Belum ada data tersedia",
     "active": "Aktif",
-    "archived": "Diarsipkan"
+    "archived": "Diarsipkan",
+    "title": "Status",
+    "saving": "Menyimpan..."
   },
   "table": {
     "asc": "Naik",
@@ -76,10 +78,10 @@
   },
   "company": {
     "multiUnit": "Unit Usaha Terpadu",
-    "connectionNotice": "Terkoneksi ke instance Odoo 18 Multi-Company Syailendra Group.",
-    "name": "SYAILENDRA GROUP",
-    "category": "Komoditas & Agro Khusus",
-    "subsidiary": "PT Syailendra Agri Utama"
+    "connectionNotice": "A Digital Backbone for the Syailendra Group Ecosystem (Odoo 18 Multi-Company).",
+    "name": "SYAILENDRA ERP",
+    "category": "Integrated Platform",
+    "subsidiary": "PT Syailendra Bumi Investama"
   },
   "comingSoon": {
     "title": "Segera Hadir!",
@@ -125,5 +127,9 @@
     "cancel": "Batal",
     "success": "Data wilayah berhasil dihapus",
     "inUseError": "Wilayah ini tidak dapat dihapus karena sedang digunakan oleh data relasi lain di sistem."
+  },
+  "messages": {
+    "error": "Terjadi kesalahan pada sistem",
+    "saved": "Data berhasil disimpan"
   }
 }

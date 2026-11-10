@@ -178,23 +178,12 @@ export async function fetchVillageFilterOptions(): Promise<{
   cities: { id: number; name: string; stateId?: number }[]
   districts: { id: number; name: string; cityId?: number }[]
 }> {
-  const villages = await odoo.client.searchRead<Record<string, OdooFieldValue>>('res.country.subdistrict', [], ['district_id', 'city_id'], {
-    limit: 3000
-  })
-
-  const districtIds = Array.from(
-    new Set(villages.map((v) => (v.district_id && Array.isArray(v.district_id) ? v.district_id[0] : null)).filter(Boolean) as number[])
+  const districtsData = await odoo.client.searchRead<Record<string, OdooFieldValue>>(
+    'res.country.district',
+    [],
+    ['country_id', 'state_id', 'city_id', 'name'],
+    { limit: 10000, order: 'name asc' }
   )
-
-  let districtsData: Record<string, OdooFieldValue>[] = []
-  if (districtIds.length > 0) {
-    districtsData = await odoo.client.searchRead<Record<string, OdooFieldValue>>(
-      'res.country.district',
-      [['id', 'in', districtIds]],
-      ['id', 'name', 'city_id', 'state_id', 'country_id'],
-      { limit: 1000 }
-    )
-  }
 
   const countryMap = new Map<number, string>()
   const stateMap = new Map<number, { id: number; name: string; countryId?: number }>()
@@ -274,7 +263,7 @@ export async function toggleVillageStatus(id: number, active: boolean): Promise<
 
 export async function deleteVillage(id: number): Promise<{ success: boolean; error?: string }> {
   try {
-    await odoo.client.unlink('res.country.village', [id])
+    await odoo.client.unlink('res.country.subdistrict', [id])
     return { success: true }
   } catch (err: unknown) {
     const msg = err instanceof Error ? err.message : String(err)

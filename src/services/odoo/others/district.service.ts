@@ -168,33 +168,31 @@ export async function fetchDistrictFilterOptions(): Promise<{
   states: { id: number; name: string; countryId?: number }[]
   cities: { id: number; name: string; stateId?: number; countryId?: number }[]
 }> {
-  const districts = await odoo.client.searchRead<Record<string, OdooFieldValue>>('res.country.district', [], ['country_id', 'state_id', 'city_id'], {
-    limit: 2000
-  })
+  const citiesData = await odoo.client.searchRead<Record<string, OdooFieldValue>>(
+    'res.country.city',
+    [],
+    ['country_id', 'state_id', 'name'],
+    { limit: 2500, order: 'name asc' }
+  )
 
   const countryMap = new Map<number, string>()
   const stateMap = new Map<number, { id: number; name: string; countryId?: number }>()
   const cityMap = new Map<number, { id: number; name: string; stateId?: number; countryId?: number }>()
 
-  districts.forEach((d) => {
-    if (d.country_id && Array.isArray(d.country_id)) {
-      countryMap.set(d.country_id[0] as number, d.country_id[1] as string)
-    }
-    if (d.state_id && Array.isArray(d.state_id)) {
-      stateMap.set(d.state_id[0] as number, {
-        id: d.state_id[0] as number,
-        name: d.state_id[1] as string,
-        countryId: d.country_id && Array.isArray(d.country_id) ? (d.country_id[0] as number) : undefined
-      })
-    }
-    if (d.city_id && Array.isArray(d.city_id)) {
-      cityMap.set(d.city_id[0] as number, {
-        id: d.city_id[0] as number,
-        name: d.city_id[1] as string,
-        stateId: d.state_id && Array.isArray(d.state_id) ? (d.state_id[0] as number) : undefined,
-        countryId: d.country_id && Array.isArray(d.country_id) ? (d.country_id[0] as number) : undefined
-      })
-    }
+  citiesData.forEach((c) => {
+    const cId = c.country_id && Array.isArray(c.country_id) ? (c.country_id[0] as number) : undefined
+    const cName = c.country_id && Array.isArray(c.country_id) ? (c.country_id[1] as string) : undefined
+    const sId = c.state_id && Array.isArray(c.state_id) ? (c.state_id[0] as number) : undefined
+    const sName = c.state_id && Array.isArray(c.state_id) ? (c.state_id[1] as string) : undefined
+
+    if (cId && cName) countryMap.set(cId, cName)
+    if (sId && sName) stateMap.set(sId, { id: sId, name: sName, countryId: cId })
+    cityMap.set(c.id as number, {
+      id: c.id as number,
+      name: c.name as string,
+      stateId: sId,
+      countryId: cId
+    })
   })
 
   return {
@@ -255,7 +253,7 @@ export async function toggleDistrictStatus(id: number, active: boolean): Promise
 
 export async function deleteDistrict(id: number): Promise<{ success: boolean; error?: string }> {
   try {
-    await odoo.client.unlink('res.country.subdistrict', [id])
+    await odoo.client.unlink('res.country.district', [id])
     return { success: true }
   } catch (err: unknown) {
     const msg = err instanceof Error ? err.message : String(err)

@@ -39,7 +39,7 @@ export function CompanyFeature(): ReactElement {
           <CardContent className="space-y-3 sm:space-y-4">
             <div className="space-y-1.5">
               <Label className="text-xs font-semibold">{t('fields.name')}</Label>
-              <Input defaultValue="PT. Syailendra Bumi Investama" placeholder={t('fields.namePlaceholder')} />
+              <Input defaultValue="PT Syailendra Bumi Investama" placeholder={t('fields.namePlaceholder')} />
             </div>
             <div className="space-y-1.5">
               <Label className="text-xs font-semibold">{t('fields.tagline')}</Label>

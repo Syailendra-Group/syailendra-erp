@@ -147,6 +147,11 @@
         "quarantine": "Karantina / Uji Ulang",
         "rejected": "Ditolak"
       }
+    },
+    "status": {
+      "passed": "Lolos Standar Ekspor",
+      "quarantine": "Karantina / Uji Ulang",
+      "rejected": "Ditolak"
     }
   },
   "genealogy": {
@@ -189,5 +194,11 @@
     },
     "exportPDF": "Ekspor Laporan PDF",
     "exportExcel": "Ekspor Data Excel"
+  },
+  "toasts": {
+    "printCommandSent": "Perintah Cetak Label Terkirim ke Printer Thermal (Demo Mock)",
+    "harvestRecorded": "Sesi Panen Baru Berhasil Dicatat (Demo Mock)",
+    "distillationSaved": "Pencatatan Hasil Suling Berhasil Disimpan (Demo Mock)",
+    "genealogyExported": "Dokumen Paspor Komoditas SCM berhasil diekspor ({type})"
   }
 }

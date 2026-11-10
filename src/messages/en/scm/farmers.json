@@ -19,7 +19,7 @@
     "vatPlaceholder": "16-digit official identity number",
     "phone": "Contact Phone",
     "phonePlaceholder": "e.g. +62 812-xxxx-xxxx",
-    "email": "Email (Optional)",
+    "email": "Email",
     "emailPlaceholder": "e.g. farmer@domain.com",
     "street": "Village / Plantation Address",
     "streetPlaceholder": "e.g. Desa Igirmranak, Kejajar",
@@ -46,7 +46,9 @@
     "village": "Village",
     "villagePlaceholder": "Select village...",
     "addressDetail": "Detailed Address / Plantation Block",
-    "addressDetailPlaceholder": "Street name, RT/RW, plot number..."
+    "addressDetailPlaceholder": "Street name, RT/RW, plot number...",
+    "legacyCode": "Historical Code (Accurate)",
+    "legacyCodePlaceholder": "e.g. ABD-DMK"
   },
   "table": {
     "ref": "Farmer ID",
@@ -131,8 +133,16 @@
     "refFormat": "Format must follow FMR-[WILAYAH]-[NO] (e.g. FMR-JTG-003).",
     "nameRequired": "Farmer / group name must be at least {min} characters.",
     "streetRequired": "Village / plantation address is required.",
-    "cityRequired": "City / regency is required.",
-    "commodityRequired": "Main commodity is required."
+    "cityRequired": "Regency / city is required.",
+    "commodityRequired": "Main commodity is required.",
+    "countryRequired": "Country is required.",
+    "provinceRequired": "Province is required.",
+    "districtRequired": "District is required.",
+    "villageRequired": "Village is required.",
+    "zipRequired": "Postal code is required (min 3 characters).",
+    "addressDetailRequired": "Detailed address / plantation block is required.",
+    "latitudeRequired": "GPS Latitude coordinate is required.",
+    "longitudeRequired": "GPS Longitude coordinate is required."
   },
   "commodityDescriptions": {
     "gaharu": "Aquilaria malaccensis — Dieng agarwood resin",

@@ -147,6 +147,11 @@
         "quarantine": "Lab Quarantine",
         "rejected": "Rejected"
       }
+    },
+    "status": {
+      "passed": "Export Grade Passed",
+      "quarantine": "Quarantine / Retest",
+      "rejected": "Rejected"
     }
   },
   "genealogy": {
@@ -189,5 +194,11 @@
     },
     "exportPDF": "Export PDF Report",
     "exportExcel": "Export Excel Data"
+  },
+  "toasts": {
+    "printCommandSent": "Label print command sent to thermal printer (Demo Mock)",
+    "harvestRecorded": "New harvest session recorded successfully (Demo Mock)",
+    "distillationSaved": "Distillation result saved successfully (Demo Mock)",
+    "genealogyExported": "SCM commodity passport document exported successfully ({type})"
   }
 }

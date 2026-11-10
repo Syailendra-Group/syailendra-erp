@@ -10,9 +10,10 @@ import { toast } from 'sonner'
 
 export default function SCMQRPrinterPage() {
   const t = useTranslations('scm.demo.qrPrinter')
+  const tDemo = useTranslations('scm.demo')
 
   const handlePrint = () => {
-    toast.success('Perintah Cetak Label Terkirim ke Printer Thermal (Demo Mock)')
+    toast.success(tDemo('toasts.printCommandSent'))
   }
 
   return (

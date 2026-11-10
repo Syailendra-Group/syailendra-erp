@@ -174,9 +174,10 @@ export default function MapPickerInner({
     const map = mapInstanceRef.current
     if (!map || !centroidPan) return
 
-    const { latitude: cLat, longitude: cLng } = centroidPan
+    const { latitude: cLat, longitude: cLng, zoom: cZoom } = centroidPan
     if (typeof cLat === 'number' && typeof cLng === 'number' && !isNaN(cLat) && !isNaN(cLng)) {
-      map.flyTo([cLat, cLng], Math.max(map.getZoom(), 13), {
+      const targetZoom = typeof cZoom === 'number' ? cZoom : Math.max(map.getZoom(), 13)
+      map.flyTo([cLat, cLng], targetZoom, {
         duration: 1.2
       })
     }

@@ -34,7 +34,13 @@
     "sanitation": "Sanitation Check",
     "sanitationPlaceholder": "Select sanitation status",
     "comment": "Technical Specifications & Notes",
-    "commentPlaceholder": "Operating steam pressure (bar), max temp (°C), condenser specs..."
+    "commentPlaceholder": "Operating steam pressure (bar), max temp (°C), condenser specs...",
+    "code": "Distiller Code",
+    "unitName": "Distiller Unit Name",
+    "extractionMethod": "Extraction Method",
+    "operator": "Operator / Person In Charge",
+    "operatorPhone": "Operator Contact",
+    "facilityAddress": "Distillation Facility Address"
   },
   "table": {
     "ref": "Distiller ID",
@@ -58,7 +64,7 @@
     "copper": "Pure Copper (Tembaga)"
   },
   "ownership": {
-    "internal": "Company-Owned (PT. SBI)",
+    "internal": "Company-Owned (PT SBI)",
     "partner": "Mitra Penyuling (Partner)"
   },
   "sanitation": {
@@ -72,7 +78,10 @@
     "archived": "Distiller unit archived successfully",
     "archiveFailed": "Failed to archive distiller unit",
     "restored": "Distiller unit reactivated successfully",
-    "restoreFailed": "Failed to reactivate distiller unit"
+    "restoreFailed": "Failed to reactivate distiller unit",
+    "updated": "Distiller unit updated successfully",
+    "created": "Distiller unit registered successfully",
+    "error": "An error occurred while processing distiller unit"
   },
   "status": {
     "operational": "Ready for Operation",
@@ -101,7 +110,8 @@
     "operatorContact": "Operator Contact:",
     "facilityAddress": "Facility Address:",
     "boilerSanitation": "Boiler Sanitation Status:",
-    "specsNotes": "Specification Notes"
+    "specsNotes": "Specification Notes",
+    "coordinates": "GPS Coordinates"
   },
   "validation": {
     "refMin": "Distiller ID must be at least {min} characters.",
@@ -125,7 +135,7 @@
     "copper": "Pure Copper Alembic"
   },
   "ownershipDescriptions": {
-    "internal": "Wholly owned unit of PT. Syailendra Bumi Investama",
+    "internal": "Wholly owned unit of PT Syailendra Bumi Investama",
     "partner": "Certified partner distillation facility"
   },
   "sanitationDescriptions": {

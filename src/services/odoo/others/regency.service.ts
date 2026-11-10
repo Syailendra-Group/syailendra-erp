@@ -223,7 +223,7 @@ export async function toggleRegencyStatus(id: number, active: boolean): Promise<
 
 export async function deleteRegency(id: number): Promise<{ success: boolean; error?: string }> {
   try {
-    await odoo.client.unlink('res.country.district', [id])
+    await odoo.client.unlink('res.country.city', [id])
     return { success: true }
   } catch (err: unknown) {
     const msg = err instanceof Error ? err.message : String(err)

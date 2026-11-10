@@ -14,7 +14,7 @@
   },
   "fields": {
     "name": "Nama Legal Perusahaan",
-    "namePlaceholder": "Contoh: PT. Syailendra Bumi Investama",
+    "namePlaceholder": "Contoh: PT Syailendra Bumi Investama",
     "tagline": "Tagline Agribisnis",
     "taglinePlaceholder": "Contoh: Specialty Essential Oil & Fine Robusta Processing",
     "currency": "Mata Uang Default Sistem",

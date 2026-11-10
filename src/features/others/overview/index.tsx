@@ -17,7 +17,7 @@ export function OthersOverview(): ReactElement {
 
   const kpis: SummaryCardItem[] = [
     { title: t('kpis.accountStatus'), value: 'Active', subtitle: t('kpis.accountSubtitle'), icon: Shield, color: 'text-primary' },
-    { title: t('kpis.connectedCompany'), value: 'PT. SBI', subtitle: t('kpis.companySubtitle'), icon: Building, color: 'text-blue-500' },
+    { title: t('kpis.connectedCompany'), value: 'PT SBI', subtitle: t('kpis.companySubtitle'), icon: Building, color: 'text-blue-500' },
     { title: t('kpis.officialRegions'), value: '5 Level', subtitle: t('kpis.regionsSubtitle'), icon: Globe, color: 'text-emerald-500' },
     { title: t('kpis.auditLog'), value: 'Immutable', subtitle: t('kpis.auditSubtitle'), icon: History, color: 'text-amber-500' }
   ]

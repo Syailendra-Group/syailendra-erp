@@ -64,6 +64,7 @@ export function ProvincesDialogs(): ReactElement {
           {currentRow && (
             <div className="space-y-3 pt-2 text-xs">
               <DetailRow label={t('table.name')} value={currentRow.name} />
+              <DetailRow label={t('table.prefix')} value={currentRow.prefix || '-'} mono />
               <DetailRow label={tReg('fields.alias')} value={currentRow.alias || '-'} />
               <DetailRow label={t('table.code')} value={currentRow.code || '-'} mono />
               <DetailRow label={t('table.country')} value={currentRow.country_id ? currentRow.country_id[1] : '-'} />

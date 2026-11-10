@@ -10,9 +10,10 @@ import { toast } from 'sonner'
 
 export default function SCMReportGenealogyPage() {
   const t = useTranslations('scm.demo.reports')
+  const tDemo = useTranslations('scm.demo')
 
   const handleExport = (type: string) => {
-    toast.success(`Dokumen Paspor Komoditas SCM berhasil diekspor (${type})`)
+    toast.success(tDemo('toasts.genealogyExported', { type }))
   }
 
   return (

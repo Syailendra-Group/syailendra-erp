@@ -1,0 +1,45 @@
+NOTE
+
+Struktur Website Landing Page:
+- Metadata
+- SEO Optimation
+- Wireframe
+- UI/UX
+- Coding
+- dll
+
+website DDistillers
+- SEO Optimation - Konten Produk (menu Shop, Bulk, Knowledge)
+- Indeksi ke Google Search Console untuk semua menu.
+
+
+
+
+ERP SYAILENDRA GROUP
+Entitas Bisnis
+  - PT SBI - SCM(Traceability), FTM(Finance & Tax), HRM, HRIS, ...
+  - PT SG - IMM(Sustainability), ...
+  - PT SPBA - WMS(Production & Inventory), ...
+  - PT SAMMEND - CRM(Marketing & Sales), DCM(OmnyChannel), Nona Atsirich(AI Agents), ...
+
+Database
+  - Odoo - Utama
+  - Accurate - FTM, WMS, ...
+  - Kolabo - CRM, ...
+  - Desty Omnichannel - DCM, ...
+
+Keamanan
+  - Proxy Cloudflare
+  - Captcha di halaman Login
+  - Form anti SQL Injection
+  - dan keamanan lainnya...
+
+SCM
+- QR Code di menu Traceability untuk labeling
+- QR Code untuk Warehouse Management System
+
+
+ 
+
+
+

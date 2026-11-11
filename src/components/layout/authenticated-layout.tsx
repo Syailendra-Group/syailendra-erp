@@ -24,16 +24,32 @@ export function AuthenticatedLayout({ children }: AuthenticatedLayoutProps): Rea
   const pathname = usePathname()
   const { setActiveTab } = useNavStore()
 
-  // Route-watcher to automatically synchronize active navbar & sidebar module
+  // Route-watcher to automatically synchronize active navbar & sidebar module across all 8 pillars
   useEffect(() => {
-    if (pathname.includes('/scm')) {
+    if (pathname.startsWith('/ftm')) {
+      setActiveTab('ftm')
+    } else if (
+      pathname.startsWith('/hris') ||
+      pathname.startsWith('/hrm') ||
+      pathname.startsWith('/hr') ||
+      pathname.startsWith('/attendance') ||
+      pathname.startsWith('/employees') ||
+      pathname.startsWith('/admin/employees') ||
+      pathname.startsWith('/admin/departments')
+    ) {
+      setActiveTab('hrm')
+    } else if (pathname.startsWith('/scm')) {
       setActiveTab('scm')
-    } else if (pathname.includes('/wms') || pathname.includes('/inventory')) {
+    } else if (pathname.startsWith('/wms') || pathname.startsWith('/inventory')) {
       setActiveTab('wms')
-    } else if (pathname.includes('/crm')) {
+    } else if (pathname.startsWith('/crm')) {
       setActiveTab('crm')
-    } else if (pathname.includes('/hris') || pathname.includes('/hr') || pathname.includes('/attendance') || pathname.includes('/employees')) {
-      setActiveTab('hris')
+    } else if (pathname.startsWith('/dcm')) {
+      setActiveTab('dcm')
+    } else if (pathname.startsWith('/ai')) {
+      setActiveTab('ai')
+    } else if (pathname.startsWith('/imm')) {
+      setActiveTab('imm')
     } else if (pathname.startsWith('/others') || pathname.startsWith('/settings') || pathname.startsWith('/admin')) {
       setActiveTab('others')
     } else {

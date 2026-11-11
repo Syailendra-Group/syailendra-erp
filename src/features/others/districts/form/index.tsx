@@ -8,8 +8,8 @@ import { toast } from 'sonner'
 
 import { FormFieldWrapper } from '@/components/form/form-field-wrapper'
 import { ParentEntityAlert } from '@/components/form/parent-entity-alert'
-import { RegionalMapField } from '@/components/map/regional-map-field'
 import { SelectForm } from '@/components/form/select-form'
+import { RegionalMapField } from '@/components/map/regional-map-field'
 import { Form, FormField, FormItem } from '@/components/ui/form'
 import { Input } from '@/components/ui/input'
 import { Tabs, TabsList, TabsTrigger } from '@/components/ui/tabs'
@@ -194,8 +194,12 @@ export function DistrictForm({ currentRow, onSuccess, onValidationChange }: Dist
             }}
           >
             <TabsList className="h-7 text-xs">
-              <TabsTrigger value="domestic" className="px-2.5 text-xs">{tReg('domesticCatalog')}</TabsTrigger>
-              <TabsTrigger value="foreign" className="px-2.5 text-xs">{tReg('foreignManual')}</TabsTrigger>
+              <TabsTrigger value="domestic" className="px-2.5 text-xs">
+                {tReg('domesticCatalog')}
+              </TabsTrigger>
+              <TabsTrigger value="foreign" className="px-2.5 text-xs">
+                {tReg('foreignManual')}
+              </TabsTrigger>
             </TabsList>
           </Tabs>
         </div>
@@ -207,7 +211,9 @@ export function DistrictForm({ currentRow, onSuccess, onValidationChange }: Dist
               <>
                 <FormFieldWrapper id="catalog-district" label={t('form.catalogLabel')} required>
                   <SelectForm
-                    placeholder={isLoadingCatalog ? tReg('placeholders.loadingCatalog', { entity: tReg('entities.district') }) : t('form.catalogPlaceholder')}
+                    placeholder={
+                      isLoadingCatalog ? tReg('placeholders.loadingCatalog', { entity: tReg('entities.district') }) : t('form.catalogPlaceholder')
+                    }
                     disabled={isPending || isLoadingCatalog}
                     value={currentCode || undefined}
                     onValueChange={handleSelectDomestic}

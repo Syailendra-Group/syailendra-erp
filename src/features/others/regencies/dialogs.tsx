@@ -71,9 +71,7 @@ export function RegenciesDialogs(): ReactElement {
             <div className="space-y-2 rounded-md border p-3.5 text-xs">
               <DetailRow label={t('table.name')} value={currentRow.name} valueClassName="font-semibold" />
               <DetailRow label={tReg('fields.alias')} value={currentRow.alias || '-'} />
-              <DetailRow label={t('table.code')}>
-                {currentRow.code ? <CopyableText text={currentRow.code} /> : '-'}
-              </DetailRow>
+              <DetailRow label={t('table.code')}>{currentRow.code ? <CopyableText text={currentRow.code} /> : '-'}</DetailRow>
               <DetailRow label={t('table.province')} value={currentRow.state_id ? currentRow.state_id[1] : '-'} />
               {currentRow.country_id && <DetailRow label={tReg('fields.country')} value={currentRow.country_id[1]} />}
               <DetailRow label={tReg('fields.description')} value={currentRow.description || '-'} border={false} />

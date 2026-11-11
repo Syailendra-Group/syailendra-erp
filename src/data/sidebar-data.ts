@@ -1,14 +1,18 @@
 import {
   ArrowDownLeft,
   ArrowUpRight,
+  BarChart3,
   Bell,
   BookOpen,
+  Bot,
   Briefcase,
   Building,
   Building2,
   Calendar,
   Clock,
+  Coins,
   Factory,
+  FileCheck2,
   FileSpreadsheet,
   FileText,
   Flame,
@@ -16,19 +20,25 @@ import {
   FolderTree,
   GitBranch,
   Globe,
+  HeartHandshake,
   History,
   Landmark,
   LayoutDashboard,
+  Leaf,
   LineChart,
   MapPin,
+  MessageSquareCode,
   Navigation,
   QrCode,
+  Recycle,
   RotateCcw,
+  Scale,
   Shield,
   ShieldCheck,
   ShoppingBag,
   Sliders,
   Sparkles,
+  Store,
   Tag,
   Target,
   Truck,
@@ -36,7 +46,8 @@ import {
   UserPlus,
   Users,
   Warehouse,
-  Wheat
+  Wheat,
+  Zap
 } from 'lucide-react'
 
 import type { ModuleTab } from '@/stores/nav-store'
@@ -58,12 +69,12 @@ export const sidebarData: SidebarData = {
   teams: [
     {
       name: 'PT Syailendra Bumi Investama',
-      plan: 'Production Odoo 18',
+      plan: 'Holding Company',
       logo: 'Building2'
     }
   ],
   navGroups: {
-    // Core Pillar Navigation
+    // Executive Consolidated Overview (PT SBI)
     main: [
       {
         titleKey: 'groups.main_ops',
@@ -75,7 +86,35 @@ export const sidebarData: SidebarData = {
       }
     ],
 
-    // Traceability Pillar Navigation
+    // Finance & Tax Management (PT SBI)
+    ftm: [
+      {
+        titleKey: 'groups.ftm_ops',
+        items: [
+          { titleKey: 'items.overview', url: '/ftm', icon: LayoutDashboard },
+          { titleKey: 'items.ftm_financials', url: '/ftm/financials', icon: Coins },
+          { titleKey: 'items.ftm_tax', url: '/ftm/tax', icon: Scale },
+          { titleKey: 'items.ftm_intercompany', url: '/ftm/intercompany', icon: Building2 },
+          { titleKey: 'items.ftm_accurate', url: '/ftm/accurate', icon: Zap }
+        ]
+      }
+    ],
+
+    // Human Resources & Performance (PT SBI)
+    hrm: [
+      {
+        titleKey: 'groups.workforce_ops',
+        items: [
+          { titleKey: 'items.overview', url: '/hris', icon: LayoutDashboard },
+          { titleKey: 'items.attendance_log', url: '/hris/attendance', icon: Clock },
+          { titleKey: 'items.employees_directory', url: '/admin/employees', icon: UserCheck },
+          { titleKey: 'items.departments', url: '/admin/departments', icon: Briefcase },
+          { titleKey: 'items.field_reports', url: '/hris/reports', icon: FileSpreadsheet }
+        ]
+      }
+    ],
+
+    // SCM & Traceability (PT SBI)
     scm: [
       {
         titleKey: 'groups.master_scm',
@@ -110,7 +149,7 @@ export const sidebarData: SidebarData = {
       }
     ],
 
-    // Warehouse Pillar Navigation
+    // Warehouse & Production (PT SPBA)
     wms: [
       {
         titleKey: 'groups.warehouse_ops',
@@ -120,12 +159,12 @@ export const sidebarData: SidebarData = {
           { titleKey: 'items.inbound_grn', url: '/wms/inbound', icon: ArrowDownLeft },
           { titleKey: 'items.quarantine_zone', url: '/wms/quarantine', icon: Shield },
           { titleKey: 'items.outbound_delivery', url: '/wms/outbound', icon: ArrowUpRight },
-          { titleKey: 'items.bin_locations', url: '/wms/locations', icon: FolderTree }
+          { titleKey: 'items.bin_locations', url: '/wms/locations', icon: QrCode }
         ]
       }
     ],
 
-    // CRM Pillar Navigation
+    // CRM & Sales (PT SAMMEND)
     crm: [
       {
         titleKey: 'groups.commercial_ops',
@@ -140,21 +179,49 @@ export const sidebarData: SidebarData = {
       }
     ],
 
-    // Human Resources Pillar Navigation
-    hris: [
+    // Distribution Channel Management (PT SAMMEND)
+    dcm: [
       {
-        titleKey: 'groups.workforce_ops',
+        titleKey: 'groups.dcm_ops',
         items: [
-          { titleKey: 'items.overview', url: '/hris', icon: LayoutDashboard },
-          { titleKey: 'items.attendance_log', url: '/hris/attendance', icon: Clock },
-          { titleKey: 'items.employees_directory', url: '/admin/employees', icon: UserCheck },
-          { titleKey: 'items.departments', url: '/admin/departments', icon: Briefcase },
-          { titleKey: 'items.field_reports', url: '/hris/reports', icon: FileSpreadsheet }
+          { titleKey: 'items.overview', url: '/dcm', icon: LayoutDashboard },
+          { titleKey: 'items.dcm_marketplaces', url: '/dcm/marketplaces', icon: Store },
+          { titleKey: 'items.dcm_inventory_sync', url: '/dcm/inventory-sync', icon: Warehouse },
+          { titleKey: 'items.dcm_orders', url: '/dcm/orders', icon: ShoppingBag },
+          { titleKey: 'items.dcm_desty', url: '/dcm/desty', icon: Zap }
         ]
       }
     ],
 
-    // Master Regional Pillar Navigation
+    // AI Agent Nona Atsirich (PT SAMMEND)
+    ai: [
+      {
+        titleKey: 'groups.ai_ops',
+        items: [
+          { titleKey: 'items.overview', url: '/ai', icon: LayoutDashboard },
+          { titleKey: 'items.ai_hotline', url: '/ai/hotline', icon: Bot },
+          { titleKey: 'items.ai_meta_integration', url: '/ai/meta', icon: MessageSquareCode },
+          { titleKey: 'items.ai_knowledge', url: '/ai/knowledge', icon: BookOpen },
+          { titleKey: 'items.ai_analytics', url: '/ai/analytics', icon: BarChart3 }
+        ]
+      }
+    ],
+
+    // Impact Measurement Management / Sustainability (PT SG)
+    imm: [
+      {
+        titleKey: 'groups.imm_ops',
+        items: [
+          { titleKey: 'items.overview', url: '/imm', icon: LayoutDashboard },
+          { titleKey: 'items.imm_circular', url: '/imm/circular', icon: Recycle },
+          { titleKey: 'items.imm_scholarships', url: '/imm/scholarships', icon: HeartHandshake },
+          { titleKey: 'items.imm_rehabilitation', url: '/imm/rehabilitation', icon: Leaf },
+          { titleKey: 'items.imm_sdgs', url: '/imm/sdgs', icon: FileCheck2 }
+        ]
+      }
+    ],
+
+    // Master Regional & System Governance (PT SBI)
     others: [
       {
         titleKey: 'groups.overview',

@@ -6,7 +6,12 @@
     "crm": "CRM",
     "hris": "HRIS",
     "others": "OTHERS",
-    "scm": "SCM"
+    "scm": "SCM",
+    "ftm": "FTM",
+    "hrm": "HRM",
+    "dcm": "DCM",
+    "ai": "AI AGENT",
+    "imm": "IMM"
   },
   "groups": {
     "main_ops": "Operasional Utama",
@@ -22,7 +27,11 @@
     "compliance": "Audit & Kepatuhan",
     "overview": "Ikhtisar",
     "scm_ops": "Operasional SCM",
-    "scm_reports": "Analitik & Laporan SCM"
+    "scm_reports": "Analitik & Laporan SCM",
+    "ftm_ops": "Keuangan & Perpajakan (FTM)",
+    "dcm_ops": "Saluran Distribusi (DCM)",
+    "ai_ops": "AI Care & Hotline (Nona Atsirich)",
+    "imm_ops": "Dampak & Keberlanjutan (IMM)"
   },
   "items": {
     "overview": "Overview",
@@ -66,7 +75,23 @@
     "villages": "Kelurahan / Desa",
     "materials": "Katalog Material",
     "supplierCategories": "Kategori Supplier",
-    "suppliers": "Daftar Supplier"
+    "suppliers": "Daftar Supplier",
+    "ftm_financials": "Laporan Keuangan Konsolidasi",
+    "ftm_tax": "Faktur & Kepatuhan Pajak",
+    "ftm_intercompany": "Buku Transaksi Antarentitas",
+    "ftm_accurate": "Sinkronisasi Accurate Online",
+    "dcm_marketplaces": "Monitoring Marketplace",
+    "dcm_inventory_sync": "Sinkronisasi Stok Saluran",
+    "dcm_orders": "Agregasi Pesanan Multichannel",
+    "dcm_desty": "Integrasi Desty Omnichannel",
+    "ai_hotline": "Sesi Hotline 24 Jam",
+    "ai_meta_integration": "Integrasi Meta Business",
+    "ai_knowledge": "Basis Pengetahuan Produk",
+    "ai_analytics": "Analitik Respons & CSAT",
+    "imm_circular": "Ekonomi Sirkular & Zero Waste",
+    "imm_scholarships": "Program Beasiswa Kehidupan",
+    "imm_rehabilitation": "Pemulihan Lahan Kritis",
+    "imm_sdgs": "Indikator Dampak SDGs"
   },
   "breadcrumbs": {
     "home": "Beranda",
@@ -119,7 +144,26 @@
     "materials": "Katalog Material",
     "supplierCategories": "Kategori Supplier",
     "scm": "SCM",
-    "suppliers": "Daftar Supplier"
+    "suppliers": "Daftar Supplier",
+    "ftm": "FTM",
+    "hrm": "HRM",
+    "dcm": "DCM",
+    "ai": "AI Agent",
+    "imm": "IMM",
+    "financials": "Keuangan",
+    "tax": "Pajak",
+    "intercompany": "Antarentitas",
+    "accurate": "Accurate",
+    "marketplaces": "Marketplace",
+    "inventory-sync": "Sinkronisasi Stok",
+    "desty": "Desty",
+    "hotline": "Hotline",
+    "meta": "Meta Business",
+    "knowledge": "Pengetahuan",
+    "circular": "Sirkular",
+    "scholarships": "Beasiswa",
+    "rehabilitation": "Rehabilitasi",
+    "sdgs": "SDGs"
   },
   "user": {
     "profile": "Profil Akun",

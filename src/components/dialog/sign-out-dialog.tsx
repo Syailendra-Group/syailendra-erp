@@ -2,8 +2,8 @@
 
 import { useTranslations } from 'next-intl'
 
-import { useRouter } from '@/i18n/navigation'
 import { useLogoutMutation } from '@/hooks/auth/use-auth'
+import { useRouter } from '@/i18n/navigation'
 
 import { ConfirmDialog } from './confirm-dialog'
 

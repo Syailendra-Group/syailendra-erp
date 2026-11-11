@@ -6,13 +6,17 @@
 import { hasLocale } from 'next-intl'
 import { getRequestConfig } from 'next-intl/server'
 
+import enAiOverview from '@/messages/en/ai/overview.json'
 import enAuthLogin from '@/messages/en/auth/login.json'
 import enCommon from '@/messages/en/common/common.json'
 import enNav from '@/messages/en/common/nav.json'
 import enCrmOverview from '@/messages/en/crm/overview.json'
+import enDcmOverview from '@/messages/en/dcm/overview.json'
+import enFtmOverview from '@/messages/en/ftm/overview.json'
 import enHrisDepartments from '@/messages/en/hris/departments.json'
 import enHrisEmployees from '@/messages/en/hris/employees.json'
 import enHrisOverview from '@/messages/en/hris/overview.json'
+import enImmOverview from '@/messages/en/imm/overview.json'
 import enMainOverview from '@/messages/en/main/overview.json'
 import enCompany from '@/messages/en/others/company.json'
 import enCountries from '@/messages/en/others/countries.json'
@@ -35,13 +39,17 @@ import enSupplierCategories from '@/messages/en/scm/supplier-categories.json'
 import enSuppliers from '@/messages/en/scm/suppliers.json'
 import enInventory from '@/messages/en/wms/inventory.json'
 import enWmsOverview from '@/messages/en/wms/overview.json'
+import idAiOverview from '@/messages/id/ai/overview.json'
 import idAuthLogin from '@/messages/id/auth/login.json'
 import idCommon from '@/messages/id/common/common.json'
 import idNav from '@/messages/id/common/nav.json'
 import idCrmOverview from '@/messages/id/crm/overview.json'
+import idDcmOverview from '@/messages/id/dcm/overview.json'
+import idFtmOverview from '@/messages/id/ftm/overview.json'
 import idHrisDepartments from '@/messages/id/hris/departments.json'
 import idHrisEmployees from '@/messages/id/hris/employees.json'
 import idHrisOverview from '@/messages/id/hris/overview.json'
+import idImmOverview from '@/messages/id/imm/overview.json'
 import idMainOverview from '@/messages/id/main/overview.json'
 import idCompany from '@/messages/id/others/company.json'
 import idCountries from '@/messages/id/others/countries.json'
@@ -76,6 +84,10 @@ const messagesMap = {
     main: { overview: idMainOverview },
     wms: { inventory: idInventory, overview: idWmsOverview },
     crm: { overview: idCrmOverview },
+    ftm: { overview: idFtmOverview },
+    dcm: { overview: idDcmOverview },
+    ai: { overview: idAiOverview },
+    imm: { overview: idImmOverview },
     scm: {
       overview: idTraceOverview,
       farmers: idTraceFarmers,
@@ -137,6 +149,10 @@ const messagesMap = {
     main: { overview: enMainOverview },
     wms: { inventory: enInventory, overview: enWmsOverview },
     crm: { overview: enCrmOverview },
+    ftm: { overview: enFtmOverview },
+    dcm: { overview: enDcmOverview },
+    ai: { overview: enAiOverview },
+    imm: { overview: enImmOverview },
     scm: {
       overview: enTraceOverview,
       farmers: enTraceFarmers,

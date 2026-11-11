@@ -4,7 +4,7 @@ import { MessageSquare, Phone, Sprout, User } from 'lucide-react'
 
 import { ActionButton } from '@/components/button/action-button'
 import { DataTableColumnHeader } from '@/components/data-table/column-header'
-import { CopyableText, CoordsLink, IconText, LinkText, LongText, PrimaryText } from '@/components/text'
+import { CoordsLink, CopyableText, IconText, LinkText, LongText, PrimaryText } from '@/components/text'
 import { Badge } from '@/components/ui/badge'
 
 import type { FarmerRecord } from '@/types/scm/farmer'
@@ -54,14 +54,12 @@ export function getColumns({ t: tProp, tTrace, tCommon, onView, onEdit, onDelete
         return (
           <div className="flex flex-col gap-0.5">
             <div className="flex items-center gap-1.5">
-              <Badge variant="outline" className="gap-1 border-primary/20 bg-primary/10 text-primary px-1.5 py-0 text-[11px] font-medium">
+              <Badge variant="outline" className="border-primary/20 bg-primary/10 text-primary gap-1 px-1.5 py-0 text-[11px] font-medium">
                 <Sprout className="size-3" />
                 <span>{t(`commodities.${commKey}`)}</span>
               </Badge>
             </div>
-            <span className="text-muted-foreground text-[10px] capitalize">
-              {t(`methods.${methodKey}`)}
-            </span>
+            <span className="text-muted-foreground text-[10px] capitalize">{t(`methods.${methodKey}`)}</span>
           </div>
         )
       }
@@ -106,9 +104,7 @@ export function getColumns({ t: tProp, tTrace, tCommon, onView, onEdit, onDelete
             <LinkText href={`tel:${cleanPhone}`} icon={Phone} mono>
               {phone}
             </LinkText>
-            {cleanPhone && (
-              <LinkText href={waUrl} external icon={MessageSquare} title="Chat WhatsApp" className="text-primary" />
-            )}
+            {cleanPhone && <LinkText href={waUrl} external icon={MessageSquare} title="Chat WhatsApp" className="text-primary" />}
           </div>
         )
       }

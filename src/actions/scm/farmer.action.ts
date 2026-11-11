@@ -7,9 +7,9 @@ import {
   fetchFarmerByIdentifier,
   fetchFarmers,
   fetchFarmersPaginated,
+  fetchNextFarmerSequence,
   persistFarmer,
-  updateFarmerActiveState,
-  fetchNextFarmerSequence
+  updateFarmerActiveState
 } from '@/services/odoo/scm/farmer.service'
 
 import type { FarmerFormValues } from '@/schemas/scm/farmer-schema'

@@ -27,9 +27,7 @@ export function ProfileCard({ farmer }: ProfileCardProps): ReactElement {
         {farmer.ref ? <CopyableText text={farmer.ref} variant="badge" className="text-primary font-semibold" /> : '-'}
       </DetailRow>
       <DetailRow label={tTrace('fields.name')} value={farmer.name} valueClassName="font-semibold" />
-      <DetailRow label={tTrace('fields.vat')}>
-        {farmer.vat ? <CopyableText text={farmer.vat} /> : '-'}
-      </DetailRow>
+      <DetailRow label={tTrace('fields.vat')}>{farmer.vat ? <CopyableText text={farmer.vat} /> : '-'}</DetailRow>
       {farmer.legacy_code && (
         <DetailRow label={tTrace('fields.legacyCode')}>
           <CopyableText text={farmer.legacy_code} />

@@ -168,12 +168,10 @@ export async function fetchDistrictFilterOptions(): Promise<{
   states: { id: number; name: string; countryId?: number }[]
   cities: { id: number; name: string; stateId?: number; countryId?: number }[]
 }> {
-  const citiesData = await odoo.client.searchRead<Record<string, OdooFieldValue>>(
-    'res.country.city',
-    [],
-    ['country_id', 'state_id', 'name'],
-    { limit: 2500, order: 'name asc' }
-  )
+  const citiesData = await odoo.client.searchRead<Record<string, OdooFieldValue>>('res.country.city', [], ['country_id', 'state_id', 'name'], {
+    limit: 2500,
+    order: 'name asc'
+  })
 
   const countryMap = new Map<number, string>()
   const stateMap = new Map<number, { id: number; name: string; countryId?: number }>()

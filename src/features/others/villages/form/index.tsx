@@ -8,8 +8,8 @@ import { toast } from 'sonner'
 
 import { FormFieldWrapper } from '@/components/form/form-field-wrapper'
 import { ParentEntityAlert } from '@/components/form/parent-entity-alert'
-import { RegionalMapField } from '@/components/map/regional-map-field'
 import { SelectForm } from '@/components/form/select-form'
+import { RegionalMapField } from '@/components/map/regional-map-field'
 import { Form, FormField, FormItem } from '@/components/ui/form'
 import { Input } from '@/components/ui/input'
 import { Tabs, TabsList, TabsTrigger } from '@/components/ui/tabs'
@@ -200,8 +200,12 @@ export function VillageForm({ currentRow, onSuccess, onValidationChange }: Villa
             }}
           >
             <TabsList className="h-7 text-xs">
-              <TabsTrigger value="domestic" className="px-2.5 text-xs">{tReg('domesticCatalog')}</TabsTrigger>
-              <TabsTrigger value="foreign" className="px-2.5 text-xs">{tReg('foreignManual')}</TabsTrigger>
+              <TabsTrigger value="domestic" className="px-2.5 text-xs">
+                {tReg('domesticCatalog')}
+              </TabsTrigger>
+              <TabsTrigger value="foreign" className="px-2.5 text-xs">
+                {tReg('foreignManual')}
+              </TabsTrigger>
             </TabsList>
           </Tabs>
         </div>
@@ -212,11 +216,28 @@ export function VillageForm({ currentRow, onSuccess, onValidationChange }: Villa
             {isDomestic ? (
               <>
                 <FormFieldWrapper id="catalog-dist-filter" label={t('form.selectDistrictCatalog')} required>
-                  <SelectForm placeholder={tForeign('selectDistrictCatalogPlaceholder')} value={selectedDistCode || undefined} onValueChange={handleSelectDistrict} items={districtCatalogOptions} />
+                  <SelectForm
+                    placeholder={tForeign('selectDistrictCatalogPlaceholder')}
+                    value={selectedDistCode || undefined}
+                    onValueChange={handleSelectDistrict}
+                    items={districtCatalogOptions}
+                  />
                 </FormFieldWrapper>
 
                 <FormFieldWrapper id="catalog-village" label={t('form.selectVillageCatalog')} required>
-                  <SelectForm placeholder={!selectedDistCode ? t('form.selectDistrictFirst') : isLoadingCatalog ? t('form.loadingVillages') : t('form.selectVillagePlaceholder')} disabled={isPending || !selectedDistCode || isLoadingCatalog} value={currentCode || undefined} onValueChange={handleSelectVillage} items={villageCatalogOptions} />
+                  <SelectForm
+                    placeholder={
+                      !selectedDistCode
+                        ? t('form.selectDistrictFirst')
+                        : isLoadingCatalog
+                          ? t('form.loadingVillages')
+                          : t('form.selectVillagePlaceholder')
+                    }
+                    disabled={isPending || !selectedDistCode || isLoadingCatalog}
+                    value={currentCode || undefined}
+                    onValueChange={handleSelectVillage}
+                    items={villageCatalogOptions}
+                  />
                 </FormFieldWrapper>
 
                 <ParentEntityAlert

@@ -3,7 +3,6 @@
 import { useState } from 'react'
 import { BadgeCheck, ChevronsUpDown, LogOut, Sparkles } from 'lucide-react'
 import { useTranslations } from 'next-intl'
-import { useSessionQuery } from '@/hooks/auth/use-auth'
 
 import { SignOutDialog } from '@/components/dialog/sign-out-dialog'
 import { Avatar, AvatarFallback } from '@/components/ui/avatar'
@@ -17,6 +16,7 @@ import {
   DropdownMenuTrigger
 } from '@/components/ui/dropdown-menu'
 import { SidebarMenu, SidebarMenuButton, SidebarMenuItem } from '@/components/ui/sidebar'
+import { useSessionQuery } from '@/hooks/auth/use-auth'
 
 import type { ReactElement } from 'react'
 

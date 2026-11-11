@@ -2,19 +2,11 @@
 
 import { ShieldCheck } from 'lucide-react'
 
-import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card'
 import { PageHeader } from '@/components/shared/page-header'
-import {
-  Table,
-  TableBody,
-  TableCell,
-  TableHead,
-  TableHeader,
-  TableRow,
-} from '@/components/ui/table'
+import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card'
+import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '@/components/ui/table'
 
 export default function SCMReportQCPage() {
-
   return (
     <div className="space-y-6">
       <PageHeader
@@ -23,7 +15,7 @@ export default function SCMReportQCPage() {
         icon={ShieldCheck}
       />
 
-      <Card className="shadow-xs border">
+      <Card className="border shadow-xs">
         <CardHeader>
           <CardTitle className="text-sm font-semibold">Rekapitulasi Pengujian Laboratorium Minyak Atsiri</CardTitle>
         </CardHeader>
@@ -41,7 +33,7 @@ export default function SCMReportQCPage() {
             </TableHeader>
             <TableBody>
               <TableRow>
-                <TableCell className="font-mono text-xs font-bold text-primary">COA-SBI-2026-042</TableCell>
+                <TableCell className="text-primary font-mono text-xs font-bold">COA-SBI-2026-042</TableCell>
                 <TableCell className="text-xs">Nilam Jawa Super</TableCell>
                 <TableCell className="text-xs">ISO 4724:2004</TableCell>
                 <TableCell className="text-xs">Patchouli Alcohol (PA)</TableCell>
@@ -49,7 +41,7 @@ export default function SCMReportQCPage() {
                 <TableCell className="text-center text-xs font-semibold text-emerald-700">Lolos Ekspor</TableCell>
               </TableRow>
               <TableRow>
-                <TableCell className="font-mono text-xs font-bold text-primary">COA-SBI-2026-041</TableCell>
+                <TableCell className="text-primary font-mono text-xs font-bold">COA-SBI-2026-041</TableCell>
                 <TableCell className="text-xs">Daun Cengkeh</TableCell>
                 <TableCell className="text-xs">ISO 3141:1997</TableCell>
                 <TableCell className="text-xs">Eugenol Content</TableCell>
@@ -57,7 +49,7 @@ export default function SCMReportQCPage() {
                 <TableCell className="text-center text-xs font-semibold text-emerald-700">Lolos Ekspor</TableCell>
               </TableRow>
               <TableRow>
-                <TableCell className="font-mono text-xs font-bold text-primary">COA-SBI-2026-040</TableCell>
+                <TableCell className="text-primary font-mono text-xs font-bold">COA-SBI-2026-040</TableCell>
                 <TableCell className="text-xs">Serai Wangi</TableCell>
                 <TableCell className="text-xs">ISO 3848:2016</TableCell>
                 <TableCell className="text-xs">Total Geraniol / Citronellal</TableCell>

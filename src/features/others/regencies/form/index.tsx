@@ -169,7 +169,9 @@ export function RegencyForm({ currentRow, onSuccess, onValidationChange }: Regen
     try {
       const res = await saveRegency(values)
       if (res.success) {
-        toast.success(isEdit ? tToast('updateSuccess', { entity: tReg('entities.regency') }) : tToast('createSuccess', { entity: tReg('entities.regency') }))
+        toast.success(
+          isEdit ? tToast('updateSuccess', { entity: tReg('entities.regency') }) : tToast('createSuccess', { entity: tReg('entities.regency') })
+        )
         onSuccess()
         form.reset()
       } else {
@@ -197,8 +199,12 @@ export function RegencyForm({ currentRow, onSuccess, onValidationChange }: Regen
             }}
           >
             <TabsList className="h-7 text-xs">
-              <TabsTrigger value="domestic" className="px-2.5 text-xs">{tReg('domesticCatalog')}</TabsTrigger>
-              <TabsTrigger value="foreign" className="px-2.5 text-xs">{tReg('foreignManual')}</TabsTrigger>
+              <TabsTrigger value="domestic" className="px-2.5 text-xs">
+                {tReg('domesticCatalog')}
+              </TabsTrigger>
+              <TabsTrigger value="foreign" className="px-2.5 text-xs">
+                {tReg('foreignManual')}
+              </TabsTrigger>
             </TabsList>
           </Tabs>
         </div>
@@ -245,7 +251,13 @@ export function RegencyForm({ currentRow, onSuccess, onValidationChange }: Regen
               render={({ field }) => (
                 <FormItem>
                   <FormFieldWrapper id="reg-desc" label={t('form.descLabel')} error={form.formState.errors.description?.message}>
-                    <Textarea id="reg-desc" rows={2} placeholder={t('form.descPlaceholder') || tReg('placeholders.defaultNotes')} disabled={isPending} {...field} />
+                    <Textarea
+                      id="reg-desc"
+                      rows={2}
+                      placeholder={t('form.descPlaceholder') || tReg('placeholders.defaultNotes')}
+                      disabled={isPending}
+                      {...field}
+                    />
                   </FormFieldWrapper>
                 </FormItem>
               )}

@@ -30,10 +30,16 @@ export function IdentitySection({ register, errors, isPending, isGeneratingRef =
     >
       <FormFieldWrapper id="ref" label={tTrace('fields.ref')} error={errors.ref?.message}>
         <div className="relative">
-          <Input id="ref" disabled={true} className="font-mono text-xs pr-8" placeholder={isGeneratingRef ? tTrace('fields.refGenerating') : tTrace('fields.refPlaceholder')} {...register('ref')} />
+          <Input
+            id="ref"
+            disabled={true}
+            className="pr-8 font-mono text-xs"
+            placeholder={isGeneratingRef ? tTrace('fields.refGenerating') : tTrace('fields.refPlaceholder')}
+            {...register('ref')}
+          />
           {isGeneratingRef && (
-            <div className="absolute right-2.5 top-1/2 -translate-y-1/2 flex items-center">
-              <Loader2 className="size-3.5 animate-spin text-primary" />
+            <div className="absolute top-1/2 right-2.5 flex -translate-y-1/2 items-center">
+              <Loader2 className="text-primary size-3.5 animate-spin" />
             </div>
           )}
         </div>

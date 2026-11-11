@@ -24,11 +24,7 @@ export function AgriCard({ farmer, landAreaHa }: AgriCardProps): ReactElement {
         value={tTrace(`commodities.${farmer.commodity || 'gaharu'}`)}
         valueClassName="font-semibold capitalize"
       />
-      <DetailRow
-        label={tTrace('fields.farmingMethod')}
-        value={tTrace(`methods.${farmer.farming_method || 'organic'}`)}
-        valueClassName="capitalize"
-      />
+      <DetailRow label={tTrace('fields.farmingMethod')} value={tTrace(`methods.${farmer.farming_method || 'organic'}`)} valueClassName="capitalize" />
       <DetailRow
         label={tTrace('fields.landArea')}
         value={farmer.land_area_m2 ? `${farmer.land_area_m2.toLocaleString()} m² (${landAreaHa} ${tTrace('detail.hectare')})` : '-'}

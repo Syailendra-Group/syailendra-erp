@@ -4,8 +4,8 @@ import { Building2, Users } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 
 import { PrimaryAction } from '@/components/button/primary-action'
-import { PageHeader } from '@/components/shared/page-header'
 import { StatusBadge } from '@/components/shared/data-badge'
+import { PageHeader } from '@/components/shared/page-header'
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card'
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '@/components/ui/table'
 

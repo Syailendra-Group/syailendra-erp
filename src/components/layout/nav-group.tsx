@@ -29,12 +29,17 @@ export function NavGroup({ group }: NavGroupProps): ReactElement {
           const Icon = item.icon
           const isOverviewUrl =
             item.url === '/overview' ||
+            item.url === '/ftm' ||
+            item.url === '/hris' ||
             item.url === '/scm' ||
             item.url === '/wms' ||
             item.url === '/crm' ||
-            item.url === '/hris' ||
+            item.url === '/dcm' ||
+            item.url === '/ai' ||
+            item.url === '/imm' ||
             item.url === '/others' ||
             item.url === '/settings'
+
           const isActive = pathname === item.url || (!isOverviewUrl && pathname.startsWith(item.url + '/'))
 
           return (

@@ -1,19 +1,12 @@
 'use client'
 
-import { useTranslations } from 'next-intl'
 import { FlaskConical } from 'lucide-react'
+import { useTranslations } from 'next-intl'
 
-import { Badge } from '@/components/ui/badge'
-import { PageHeader } from '@/components/shared/page-header'
 import { SectionCard } from '@/components/card/section-card'
-import {
-  Table,
-  TableBody,
-  TableCell,
-  TableHead,
-  TableHeader,
-  TableRow,
-} from '@/components/ui/table'
+import { PageHeader } from '@/components/shared/page-header'
+import { Badge } from '@/components/ui/badge'
+import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '@/components/ui/table'
 import { MOCK_QC_ITEMS } from '@/data/scm-demo-data'
 
 export default function SCMQCPage() {
@@ -21,14 +14,10 @@ export default function SCMQCPage() {
 
   return (
     <div className="space-y-6">
-      <PageHeader
-        title={t('title')}
-        description={t('subtitle')}
-        icon={FlaskConical}
-      />
+      <PageHeader title={t('title')} description={t('subtitle')} icon={FlaskConical} />
 
       <SectionCard>
-        <div className="bg-card relative rounded-md border shadow-xs overflow-x-auto">
+        <div className="bg-card relative overflow-x-auto rounded-md border shadow-xs">
           <Table>
             <TableHeader>
               <TableRow>
@@ -45,25 +34,18 @@ export default function SCMQCPage() {
             <TableBody>
               {MOCK_QC_ITEMS.map((item) => (
                 <TableRow key={item.id}>
-                  <TableCell className="font-mono font-semibold text-xs text-primary">
-                    {item.code}
-                  </TableCell>
+                  <TableCell className="text-primary font-mono text-xs font-semibold">{item.code}</TableCell>
                   <TableCell className="font-mono text-xs">{item.lot}</TableCell>
                   <TableCell className="text-xs font-medium">{item.commodity}</TableCell>
                   <TableCell className="font-mono text-xs">{item.density}</TableCell>
                   <TableCell className="font-mono text-xs">{item.refractive}</TableCell>
-                  <TableCell className="font-mono text-xs font-semibold text-emerald-600">
-                    {item.marker}
-                  </TableCell>
+                  <TableCell className="font-mono text-xs font-semibold text-emerald-600">{item.marker}</TableCell>
                   <TableCell className="text-center">
-                    <Badge
-                      variant={item.result === 'passed' ? 'default' : 'secondary'}
-                      className="text-[10px]"
-                    >
+                    <Badge variant={item.result === 'passed' ? 'default' : 'secondary'} className="text-[10px]">
                       {item.result === 'passed' ? t('status.passed') : t('status.quarantine')}
                     </Badge>
                   </TableCell>
-                  <TableCell className="font-mono text-xs text-muted-foreground">{item.coa}</TableCell>
+                  <TableCell className="text-muted-foreground font-mono text-xs">{item.coa}</TableCell>
                 </TableRow>
               ))}
             </TableBody>

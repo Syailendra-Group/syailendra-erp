@@ -22,7 +22,6 @@ export function useLogoutMutation() {
   })
 }
 
-
 export function useSessionQuery() {
   return useQuery({
     queryKey: ['auth', 'session'],

@@ -71,9 +71,7 @@ export function ProvincesDialogs(): ReactElement {
                 {currentRow.prefix ? <CopyableText text={currentRow.prefix} variant="badge" className="text-primary font-semibold" /> : '-'}
               </DetailRow>
               <DetailRow label={tReg('fields.alias')} value={currentRow.alias || '-'} />
-              <DetailRow label={t('table.code')}>
-                {currentRow.code ? <CopyableText text={currentRow.code} /> : '-'}
-              </DetailRow>
+              <DetailRow label={t('table.code')}>{currentRow.code ? <CopyableText text={currentRow.code} /> : '-'}</DetailRow>
               <DetailRow label={t('table.country')} value={currentRow.country_id ? currentRow.country_id[1] : '-'} />
               <DetailRow label={tReg('fields.description')} value={currentRow.description || '-'} border={false} />
             </div>

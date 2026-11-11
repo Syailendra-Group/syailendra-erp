@@ -67,9 +67,7 @@ export function CountriesDialogs(): ReactElement {
           <div className="grid grid-cols-1 items-start gap-5 pt-1 lg:grid-cols-2">
             <div className="space-y-2 rounded-md border p-3.5 text-xs">
               <DetailRow label={t('table.name')} value={currentRow.name} valueClassName="font-semibold" />
-              <DetailRow label={t('table.code')}>
-                {currentRow.code ? <CopyableText text={currentRow.code} /> : '-'}
-              </DetailRow>
+              <DetailRow label={t('table.code')}>{currentRow.code ? <CopyableText text={currentRow.code} /> : '-'}</DetailRow>
               <DetailRow label={t('table.phoneCode')} border={false}>
                 {currentRow.phone_code ? <CopyableText text={`+${currentRow.phone_code}`} /> : '-'}
               </DetailRow>

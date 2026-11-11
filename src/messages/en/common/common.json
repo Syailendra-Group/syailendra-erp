@@ -85,7 +85,13 @@
     "connectionNotice": "A Digital Backbone for the Syailendra Group Ecosystem (Odoo 18 Multi-Company).",
     "name": "SYAILENDRA ERP",
     "category": "Integrated Platform",
-    "subsidiary": "PT Syailendra Bumi Investama"
+    "subsidiary": "PT Syailendra Bumi Investama",
+    "entities": {
+      "sbiRole": "Strategic Direction & Holding",
+      "spbaRole": "Production & Warehouse Operations",
+      "sammendRole": "Commercial, Omnichannel & AI Care",
+      "sgRole": "Group Stewardship & Sustainability"
+    }
   },
   "comingSoon": {
     "title": "Coming Soon!",

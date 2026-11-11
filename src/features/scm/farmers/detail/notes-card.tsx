@@ -18,10 +18,8 @@ export function NotesCard({ farmer }: NotesCardProps): ReactElement {
 
   return (
     <SectionCard title={tTrace('detail.notesTitle')} description={tTrace('sections.notesDesc')} icon={ShieldCheck} contentClassName="text-sm">
-      <div className="rounded-md border border-border/40 bg-muted/20 p-3">
-        <p className="text-foreground/90 whitespace-pre-wrap text-xs leading-relaxed">
-          {commentText || tTrace('detail.noNotes')}
-        </p>
+      <div className="border-border/40 bg-muted/20 rounded-md border p-3">
+        <p className="text-foreground/90 text-xs leading-relaxed whitespace-pre-wrap">{commentText || tTrace('detail.noNotes')}</p>
       </div>
     </SectionCard>
   )

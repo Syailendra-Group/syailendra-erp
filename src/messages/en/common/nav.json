@@ -6,7 +6,12 @@
     "crm": "CRM",
     "hris": "HRIS",
     "others": "OTHERS",
-    "scm": "SCM"
+    "scm": "SCM",
+    "ftm": "FTM",
+    "hrm": "HRM",
+    "dcm": "DCM",
+    "ai": "AI AGENT",
+    "imm": "IMM"
   },
   "groups": {
     "main_ops": "Main Operations",
@@ -22,7 +27,11 @@
     "compliance": "Audit & Compliance",
     "overview": "Overview",
     "scm_ops": "SCM Operations",
-    "scm_reports": "SCM Reports & Analytics"
+    "scm_reports": "SCM Reports & Analytics",
+    "ftm_ops": "Finance & Tax Management",
+    "dcm_ops": "Distribution Channel Management",
+    "ai_ops": "AI Customer Care & Automation",
+    "imm_ops": "Impact Measurement & Sustainability"
   },
   "items": {
     "overview": "Overview",
@@ -66,7 +75,23 @@
     "villages": "Villages",
     "materials": "Material Catalog",
     "supplierCategories": "Supplier Categories",
-    "suppliers": "Supplier Directory"
+    "suppliers": "Supplier Directory",
+    "ftm_financials": "Consolidated Financials",
+    "ftm_tax": "Tax Invoices & Filings",
+    "ftm_intercompany": "Intercompany Ledger",
+    "ftm_accurate": "Accurate Online Sync",
+    "dcm_marketplaces": "Marketplace Channels",
+    "dcm_inventory_sync": "Channel Inventory Sync",
+    "dcm_orders": "Multichannel Orders",
+    "dcm_desty": "Desty Omnichannel Integration",
+    "ai_hotline": "24/7 Hotline Sessions",
+    "ai_meta_integration": "Meta Business Integration",
+    "ai_knowledge": "Product Knowledge Base",
+    "ai_analytics": "Response & CSAT Analytics",
+    "imm_circular": "Circular Economy & Zero Waste",
+    "imm_scholarships": "Life Scholarship Program",
+    "imm_rehabilitation": "Critical Land Rehabilitation",
+    "imm_sdgs": "SDGs Impact Indicators"
   },
   "breadcrumbs": {
     "home": "Home",
@@ -119,7 +144,26 @@
     "materials": "Material Catalog",
     "supplierCategories": "Supplier Categories",
     "scm": "SCM",
-    "suppliers": "Suppliers"
+    "suppliers": "Suppliers",
+    "ftm": "FTM",
+    "hrm": "HRM",
+    "dcm": "DCM",
+    "ai": "AI Agent",
+    "imm": "IMM",
+    "financials": "Financials",
+    "tax": "Tax",
+    "intercompany": "Intercompany",
+    "accurate": "Accurate",
+    "marketplaces": "Marketplace",
+    "inventory-sync": "Inventory Sync",
+    "desty": "Desty",
+    "hotline": "Hotline",
+    "meta": "Meta Business",
+    "knowledge": "Knowledge",
+    "circular": "Circular",
+    "scholarships": "Scholarships",
+    "rehabilitation": "Rehabilitation",
+    "sdgs": "SDGs"
   },
   "user": {
     "profile": "Profile Account",

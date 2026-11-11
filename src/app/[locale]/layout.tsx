@@ -1,4 +1,4 @@
-import { Inter } from 'next/font/google'
+import { Libre_Baskerville, Public_Sans } from 'next/font/google'
 import { NextIntlClientProvider } from 'next-intl'
 import { getLocale, getMessages } from 'next-intl/server'
 
@@ -8,11 +8,18 @@ import { ThemeProvider } from '@/providers/theme-provider'
 
 import type { Metadata } from 'next'
 
-import '../globals.css'
+import '@/styles/index.css'
 
-const inter = Inter({
+const publicSans = Public_Sans({
   subsets: ['latin'],
-  variable: '--font-inter',
+  variable: '--font-public-sans',
+  display: 'swap'
+})
+
+const libreBaskerville = Libre_Baskerville({
+  weight: ['400', '700'],
+  subsets: ['latin'],
+  variable: '--font-libre-baskerville',
   display: 'swap'
 })
 
@@ -21,7 +28,18 @@ export const metadata: Metadata = {
     template: '%s • SYAILENDRA ERP',
     default: 'SYAILENDRA ERP — Smarter Systems, Stronger Businesses.'
   },
-  description: 'Integrated Business Management Platform — A Digital Backbone for the Syailendra Group Ecosystem'
+  description: 'Integrated Business Management Platform — A Digital Backbone for the Syailendra Group Ecosystem',
+  robots: {
+    index: false,
+    follow: false,
+    noarchive: true,
+    nocache: true,
+    googleBot: {
+      index: false,
+      follow: false,
+      noimageindex: true
+    }
+  }
 }
 
 export interface RootLayoutProps {
@@ -33,7 +51,7 @@ export default async function RootLayout({ children }: RootLayoutProps): Promise
   const messages = await getMessages()
 
   return (
-    <html lang={locale} className={inter.variable} suppressHydrationWarning>
+    <html lang={locale} className={`${publicSans.variable} ${libreBaskerville.variable}`} suppressHydrationWarning>
       <body className="bg-background text-foreground selection:bg-primary/10 selection:text-primary dark:selection:text-primary min-h-screen antialiased">
         <NextIntlClientProvider messages={messages} locale={locale}>
           <ThemeProvider attribute="class" defaultTheme="light" enableSystem={false} disableTransitionOnChange={true}>

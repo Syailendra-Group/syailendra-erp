@@ -4,7 +4,10 @@
  */
 
 import { z } from 'zod'
-import { createSchemaMessageResolver, type SchemaTranslator } from '@/utils'
+
+import { createSchemaMessageResolver } from '@/utils'
+
+import type { SchemaTranslator } from '@/utils'
 
 export function getMaterialFormSchema(t?: SchemaTranslator) {
   const msg = createSchemaMessageResolver(t)
@@ -19,14 +22,7 @@ export function getMaterialFormSchema(t?: SchemaTranslator) {
       }),
     name: z.string().min(3, { message: msg('validation.nameRequired', 'Official name is required') }),
     commercial_name: z.string().optional(),
-    category: z.enum([
-      'essential_oils',
-      'natural_isolates',
-      'carrier_oils',
-      'hydrosols',
-      'raw_biomass',
-      'packaging'
-    ]),
+    category: z.enum(['essential_oils', 'natural_isolates', 'carrier_oils', 'hydrosols', 'raw_biomass', 'packaging']),
     botanical_name: z.string().optional(),
     family: z.string().optional(),
     inci_name: z.string().optional(),
@@ -35,14 +31,7 @@ export function getMaterialFormSchema(t?: SchemaTranslator) {
     fema_number: z.string().optional(),
     hs_code: z.string().min(1, { message: msg('validation.hsCodeRequired', 'HS Code is required') }),
     plant_part: z.string().optional(),
-    extraction_method: z.enum([
-      'steam_distillation',
-      'hydro_distillation',
-      'cold_pressed',
-      'solvent_extraction',
-      'fractional_distillation',
-      'none'
-    ]),
+    extraction_method: z.enum(['steam_distillation', 'hydro_distillation', 'cold_pressed', 'solvent_extraction', 'fractional_distillation', 'none']),
     aroma_note: z.enum(['top', 'middle', 'base', 'fixative']).optional(),
     shelf_life_months: z.number().min(1, { message: msg('validation.shelfLifeMin', 'Shelf life must be at least 1 month') }),
     uom_id: z.number().min(1, { message: msg('validation.uomRequired', 'Unit of measure is required') }),

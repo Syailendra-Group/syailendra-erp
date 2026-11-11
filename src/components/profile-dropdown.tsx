@@ -3,7 +3,6 @@
 import { useState } from 'react'
 import { LogOut, ShieldCheck, User } from 'lucide-react'
 import { useTranslations } from 'next-intl'
-import { useSessionQuery } from '@/hooks/auth/use-auth'
 
 import { SignOutDialog } from '@/components/dialog/sign-out-dialog'
 import { Avatar, AvatarFallback } from '@/components/ui/avatar'
@@ -17,6 +16,7 @@ import {
   DropdownMenuSeparator,
   DropdownMenuTrigger
 } from '@/components/ui/dropdown-menu'
+import { useSessionQuery } from '@/hooks/auth/use-auth'
 import { Link } from '@/i18n/navigation'
 
 import type { ReactElement } from 'react'

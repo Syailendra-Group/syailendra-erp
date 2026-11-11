@@ -21,7 +21,8 @@
   "validation": {
     "emailRequired": "Email address is required.",
     "emailInvalid": "Invalid email address format.",
-    "passwordMin": "Password must be at least {min} characters."
+    "passwordMin": "Password must be at least {min} characters.",
+    "turnstileRequired": "Please complete the security verification."
   },
   "cardDescription": "Enter your registered credentials to access the SYAILENDRA ERP portal",
   "copyright": "All Rights Reserved.",

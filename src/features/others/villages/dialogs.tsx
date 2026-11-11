@@ -71,13 +71,9 @@ export function VillagesDialogs(): ReactElement {
             <div className="space-y-2 rounded-md border p-3.5 text-xs">
               <DetailRow label={t('table.name')} value={currentRow.name} valueClassName="font-semibold" />
               <DetailRow label={tReg('fields.alias')} value={currentRow.alias || '-'} />
-              <DetailRow label={t('table.code')}>
-                {currentRow.code ? <CopyableText text={currentRow.code} /> : '-'}
-              </DetailRow>
+              <DetailRow label={t('table.code')}>{currentRow.code ? <CopyableText text={currentRow.code} /> : '-'}</DetailRow>
               <DetailRow label={t('table.district')} value={currentRow.district_id ? currentRow.district_id[1] : '-'} />
-              <DetailRow label={t('table.zipCode')}>
-                {currentRow.zip_code ? <CopyableText text={currentRow.zip_code} /> : '-'}
-              </DetailRow>
+              <DetailRow label={t('table.zipCode')}>{currentRow.zip_code ? <CopyableText text={currentRow.zip_code} /> : '-'}</DetailRow>
               {currentRow.city_id && <DetailRow label={t('table.city')} value={currentRow.city_id[1]} />}
               {currentRow.country_id && <DetailRow label={tReg('fields.country')} value={currentRow.country_id[1]} />}
               <DetailRow label={tReg('fields.description')} value={currentRow.description || '-'} border={false} />

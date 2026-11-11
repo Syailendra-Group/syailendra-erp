@@ -234,15 +234,10 @@ export async function fetchNextFarmerSequence(stateId: number): Promise<string> 
   const cleanPrefix = prefix.replace(/[^A-Z0-9]/g, '') || 'IDN'
   const domain: OdooDomain = [['ref', '=like', `FMR-${cleanPrefix}-%`]]
 
-  const existing = await odoo.client.searchRead<Record<string, OdooFieldValue>>(
-    'res.partner',
-    domain,
-    ['id', 'ref'],
-    {
-      limit: 1000,
-      context: { active_test: false }
-    }
-  )
+  const existing = await odoo.client.searchRead<Record<string, OdooFieldValue>>('res.partner', domain, ['id', 'ref'], {
+    limit: 1000,
+    context: { active_test: false }
+  })
 
   let maxSeq = 0
   const seqRegex = new RegExp(`^FMR-${cleanPrefix}-(\\d+)$`, 'i')

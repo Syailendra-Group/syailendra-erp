@@ -1,5 +1,5 @@
 /**
- * middleware.ts — next-intl route negotiation & session guard
+ * middleware.ts — next-intl route negotiation, security headers & session guard
  * Syailendra Group ERP
  */
 
@@ -9,6 +9,14 @@ import createMiddleware from 'next-intl/middleware'
 import { routing } from './i18n/routing'
 
 const intlMiddleware = createMiddleware(routing)
+
+function applySecurityHeaders(res: NextResponse): NextResponse {
+  res.headers.set('X-Robots-Tag', 'noindex, nofollow, noarchive')
+  res.headers.set('X-Frame-Options', 'DENY')
+  res.headers.set('X-Content-Type-Options', 'nosniff')
+  res.headers.set('Referrer-Policy', 'strict-origin-when-cross-origin')
+  return res
+}
 
 export default function middleware(request: NextRequest): NextResponse {
   const { pathname } = request.nextUrl
@@ -24,16 +32,16 @@ export default function middleware(request: NextRequest): NextResponse {
   // If user is trying to access dashboard without session, redirect to /login
   if (!sessionCookie && !isPublicRoute) {
     const loginUrl = new URL(pathname.startsWith('/en') ? '/en/login' : '/login', request.url)
-    return NextResponse.redirect(loginUrl)
+    return applySecurityHeaders(NextResponse.redirect(loginUrl))
   }
 
-  // If user is already authenticated and visits /login, redirect to /inventory
+  // If user is already authenticated and visits /login, redirect to /overview
   if (sessionCookie && isLoginPage) {
     const dashboardUrl = new URL(pathname.startsWith('/en') ? '/en/overview' : '/overview', request.url)
-    return NextResponse.redirect(dashboardUrl)
+    return applySecurityHeaders(NextResponse.redirect(dashboardUrl))
   }
 
-  return response
+  return applySecurityHeaders(response)
 }
 
 export const config = {

@@ -121,19 +121,12 @@ export function DataTableFacetedFilter<TData, TValue>({
         </Button>
       </PopoverTrigger>
 
-      <PopoverContent className="w-64 sm:w-72 p-0" align="start">
+      <PopoverContent className="w-64 p-0 sm:w-72" align="start">
         <Command shouldFilter={false} className="flex max-h-80 w-full flex-col">
-          <CommandInput
-            placeholder={title}
-            value={searchQuery}
-            onValueChange={handleSearchChange}
-            className="h-8 shrink-0 text-xs"
-          />
+          <CommandInput placeholder={title} value={searchQuery} onValueChange={handleSearchChange} className="h-8 shrink-0 text-xs" />
 
           <CommandList onScroll={handleScroll} className="max-h-60 flex-1 overflow-y-auto">
-            <CommandEmpty className="text-muted-foreground px-3 py-3 text-center text-xs">
-              {tTable('noResults')}
-            </CommandEmpty>
+            <CommandEmpty className="text-muted-foreground px-3 py-3 text-center text-xs">{tTable('noResults')}</CommandEmpty>
 
             <CommandGroup>
               {visibleOptions.map((option) => {

@@ -21,7 +21,8 @@
   "validation": {
     "emailRequired": "Alamat email wajib diisi.",
     "emailInvalid": "Format alamat email tidak valid.",
-    "passwordMin": "Kata sandi minimal {min} karakter."
+    "passwordMin": "Kata sandi minimal {min} karakter.",
+    "turnstileRequired": "Selesaikan verifikasi keamanan terlebih dahulu."
   },
   "cardDescription": "Masukkan kredensial akun terdaftar untuk mengakses portal SYAILENDRA ERP",
   "copyright": "Hak Cipta Dilindungi Undang-Undang.",

@@ -1,6 +1,6 @@
 'use client'
 
-import { Clock, Layers, LayoutDashboard, Menu, Sliders, Target, Warehouse } from 'lucide-react'
+import { Bot, Calculator, Clock, Layers, LayoutDashboard, Leaf, Menu, Sliders, Store, Target, Warehouse } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 
 import { Button } from '@/components/ui/button'
@@ -24,28 +24,32 @@ export function TopNav(): ReactElement {
   const tNav = useTranslations('nav')
   const { activeTab, setActiveTab } = useNavStore()
 
-  // 6 Strategic Pillars of Syailendra Group ERP
+  // Consolidated Overview, 8 Core Business Pillars & System Administration
   const tabs: NavItemConfig[] = [
     { id: 'main', titleKey: 'modules.main', icon: LayoutDashboard, href: '/overview' },
+    { id: 'ftm', titleKey: 'modules.ftm', icon: Calculator, href: '/ftm' },
+    { id: 'hrm', titleKey: 'modules.hrm', icon: Clock, href: '/hris' },
     { id: 'scm', titleKey: 'modules.scm', icon: Layers, href: '/scm' },
     { id: 'wms', titleKey: 'modules.wms', icon: Warehouse, href: '/wms' },
     { id: 'crm', titleKey: 'modules.crm', icon: Target, href: '/crm' },
-    { id: 'hris', titleKey: 'modules.hris', icon: Clock, href: '/hris' },
+    { id: 'dcm', titleKey: 'modules.dcm', icon: Store, href: '/dcm' },
+    { id: 'ai', titleKey: 'modules.ai', icon: Bot, href: '/ai' },
+    { id: 'imm', titleKey: 'modules.imm', icon: Leaf, href: '/imm' },
     { id: 'others', titleKey: 'modules.others', icon: Sliders, href: '/others' }
   ]
 
   return (
     <>
-      {/* Mobile / Tablet Dropdown Menu (< lg) */}
+      {/* Mobile / Tablet Dropdown Menu (< xl) */}
       <DropdownMenu modal={false}>
         <DropdownMenuTrigger asChild>
-          <Button size="icon" variant="outline" className="size-8 lg:hidden" aria-label={tNav('toggleNavMenu')}>
+          <Button size="icon" variant="outline" className="size-8 xl:hidden" aria-label={tNav('toggleNavMenu')}>
             <Menu className="size-4" />
             <span className="sr-only">{tNav('toggleNavMenu')}</span>
           </Button>
         </DropdownMenuTrigger>
 
-        <DropdownMenuContent side="bottom" align="start" className="w-48">
+        <DropdownMenuContent side="bottom" align="start" className="w-56">
           {tabs.map((tab) => {
             const Icon = tab.icon
             const isActive = activeTab === tab.id
@@ -64,8 +68,8 @@ export function TopNav(): ReactElement {
         </DropdownMenuContent>
       </DropdownMenu>
 
-      {/* Desktop Horizontal Navigation (>= lg) */}
-      <nav className="hidden items-center gap-1 lg:flex xl:gap-1.5">
+      {/* Desktop Horizontal Navigation (>= xl) */}
+      <nav className="hidden items-center gap-0.5 xl:flex">
         {tabs.map((tab) => {
           const Icon = tab.icon
           const isActive = activeTab === tab.id
@@ -77,14 +81,14 @@ export function TopNav(): ReactElement {
               asChild
               onClick={() => setActiveTab(tab.id)}
               className={cn(
-                'cursor-pointer gap-1.5 px-2.5 text-xs font-semibold tracking-wider transition-colors xl:px-3',
+                'cursor-pointer gap-1 px-2 text-[11px] font-semibold tracking-wider transition-colors 2xl:px-2.5',
                 isActive
                   ? 'bg-primary text-primary-foreground hover:bg-primary/90 shadow-xs'
                   : 'text-muted-foreground hover:bg-muted hover:text-foreground'
               )}
             >
               <Link href={tab.href}>
-                <Icon className={cn('h-3.5 w-3.5', isActive ? 'text-primary-foreground' : 'text-muted-foreground')} />
+                <Icon className={cn('h-3.5 w-3.5 shrink-0', isActive ? 'text-primary-foreground' : 'text-muted-foreground')} />
                 <span>{tNav(tab.titleKey)}</span>
               </Link>
             </Button>

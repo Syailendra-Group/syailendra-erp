@@ -23,7 +23,11 @@ export function getFarmerFormSchema(t?: SchemaTranslator) {
     name: z.string().min(3, { message: msg('validation.nameRequired', 'Name must be at least 3 characters', { min: 3 }) }),
     vat: z.string().optional(),
     phone: z.string().optional(),
-    email: z.string().email({ message: msg('validation.emailInvalid', 'Invalid email address') }).optional().or(z.literal('')),
+    email: z
+      .string()
+      .email({ message: msg('validation.emailInvalid', 'Invalid email address') })
+      .optional()
+      .or(z.literal('')),
     // Regional & Domicile Fields (Mandatory except address_benchmark)
     country_id: z.number({ message: msg('validation.countryRequired', 'Country is required') }).min(1, {
       message: msg('validation.countryRequired', 'Country is required')
@@ -45,8 +49,14 @@ export function getFarmerFormSchema(t?: SchemaTranslator) {
     address_benchmark: z.string().optional(),
     street: z.string().optional(),
     city: z.string().optional(),
-    partner_latitude: z.number({ message: msg('validation.latitudeRequired', 'GPS Latitude is required') }).min(-90).max(90),
-    partner_longitude: z.number({ message: msg('validation.longitudeRequired', 'GPS Longitude is required') }).min(-180).max(180),
+    partner_latitude: z
+      .number({ message: msg('validation.latitudeRequired', 'GPS Latitude is required') })
+      .min(-90)
+      .max(90),
+    partner_longitude: z
+      .number({ message: msg('validation.longitudeRequired', 'GPS Longitude is required') })
+      .min(-180)
+      .max(180),
     // Agriculture & Plantation Fields
     commodity: z.string().min(1, { message: msg('validation.commodityRequired', 'Main commodity is required') }),
     farming_method: z.string(),

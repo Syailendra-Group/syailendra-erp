@@ -26,21 +26,32 @@ export function LoginPage(): ReactElement {
       <div className="w-full max-w-md space-y-6">
         {/* Brand header with official Syailendra Group logo and corporate brand hierarchy */}
         <header className="flex flex-col items-center space-y-3.5 text-center">
-          <div className="border-border/50 bg-card/60 flex items-center justify-center rounded-2xl border px-6 py-4 shadow-xs backdrop-blur-xs">
+          <div className="border-border/50 bg-card/80 flex items-center justify-center rounded-2xl border px-6 py-4 shadow-xs backdrop-blur-xs">
             <Image
-              src="/images/syailendra-group-logo.png"
+              src="/images/branding/syailendra_logo_primary_light.png"
               alt="SYAILENDRA ERP — PT Syailendra Bumi Investama"
               width={240}
               height={182}
               priority
-              className="h-14 w-auto object-contain dark:brightness-125 dark:contrast-125"
+              className="block h-14 w-auto object-contain dark:hidden"
+            />
+            <Image
+              src="/images/branding/syailendra_logo_secondary_dark.png"
+              alt="SYAILENDRA ERP — PT Syailendra Bumi Investama"
+              width={240}
+              height={182}
+              priority
+              className="hidden h-14 w-auto object-contain dark:block"
             />
           </div>
 
           <div className="space-y-1.5">
-            <h1 className="text-2xl font-bold tracking-tight text-foreground">{tAuth('productName')}</h1>
+            <h1 className="font-heading text-foreground text-2xl font-bold tracking-tight">{tAuth('productName')}</h1>
             <div className="flex justify-center">
-              <Badge variant="outline" className="border-primary/30 bg-primary/5 text-primary font-mono text-[9px] uppercase tracking-wider">
+              <Badge
+                variant="outline"
+                className="border-brand-gold/50 bg-brand-gold/10 text-primary dark:text-brand-gold font-mono text-[9px] tracking-wider uppercase"
+              >
                 {tAuth('descriptor')}
               </Badge>
             </div>
@@ -51,7 +62,7 @@ export function LoginPage(): ReactElement {
         {/* Login credentials card */}
         <Card className="border-border/80 shadow-lg">
           <CardHeader className="space-y-1">
-            <CardTitle className="text-lg font-bold">{tAuth('title')}</CardTitle>
+            <CardTitle className="font-heading text-lg font-bold">{tAuth('title')}</CardTitle>
             <CardDescription className="text-xs">{tAuth('cardDescription')}</CardDescription>
           </CardHeader>
           <CardContent>
@@ -61,9 +72,7 @@ export function LoginPage(): ReactElement {
 
         {/* Ecosystem sub-descriptor and footer legal notes */}
         <footer className="space-y-1.5 text-center">
-          <p className="text-muted-foreground/70 font-mono text-[10px] tracking-wide uppercase">
-            {tAuth('digitalBackbone')}
-          </p>
+          <p className="text-muted-foreground/70 font-mono text-[10px] tracking-wide uppercase">{tAuth('digitalBackbone')}</p>
           <p className="text-muted-foreground/60 text-[11px]">
             &copy; {new Date().getFullYear()} Syailendra Group. {tAuth('copyright')}
           </p>

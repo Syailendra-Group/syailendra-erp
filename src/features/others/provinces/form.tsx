@@ -8,8 +8,8 @@ import { useForm } from 'react-hook-form'
 import { toast } from 'sonner'
 
 import { FormFieldWrapper } from '@/components/form/form-field-wrapper'
-import { RegionalMapField } from '@/components/map/regional-map-field'
 import { SelectForm } from '@/components/form/select-form'
+import { RegionalMapField } from '@/components/map/regional-map-field'
 import { Alert, AlertDescription, AlertTitle } from '@/components/ui/alert'
 import { Form, FormControl, FormField, FormItem } from '@/components/ui/form'
 import { Input } from '@/components/ui/input'
@@ -139,10 +139,7 @@ export function ProvinceForm({ currentRow, onSuccess }: ProvinceFormProps): Reac
     }
   }
 
-  const catalogItems = useMemo(
-    () => catalogProvinces.map((p) => ({ label: `${p.name} (${p.code})`, value: p.code })),
-    [catalogProvinces]
-  )
+  const catalogItems = useMemo(() => catalogProvinces.map((p) => ({ label: `${p.name} (${p.code})`, value: p.code })), [catalogProvinces])
 
   return (
     <Form {...form}>
@@ -158,8 +155,12 @@ export function ProvinceForm({ currentRow, onSuccess }: ProvinceFormProps): Reac
             }}
           >
             <TabsList className="h-7 text-xs">
-              <TabsTrigger value="domestic" className="px-2.5 text-xs">{tReg('domesticCatalog')}</TabsTrigger>
-              <TabsTrigger value="foreign" className="px-2.5 text-xs">{tReg('foreignManual')}</TabsTrigger>
+              <TabsTrigger value="domestic" className="px-2.5 text-xs">
+                {tReg('domesticCatalog')}
+              </TabsTrigger>
+              <TabsTrigger value="foreign" className="px-2.5 text-xs">
+                {tReg('foreignManual')}
+              </TabsTrigger>
             </TabsList>
           </Tabs>
         </div>
@@ -171,7 +172,9 @@ export function ProvinceForm({ currentRow, onSuccess }: ProvinceFormProps): Reac
               <>
                 <FormFieldWrapper id="catalog-bps" label={t('form.catalogLabel')} required>
                   <SelectForm
-                    placeholder={isLoadingCatalog ? tReg('placeholders.loadingCatalog', { entity: tReg('entities.province') }) : t('form.catalogPlaceholder')}
+                    placeholder={
+                      isLoadingCatalog ? tReg('placeholders.loadingCatalog', { entity: tReg('entities.province') }) : t('form.catalogPlaceholder')
+                    }
                     disabled={isPending || isLoadingCatalog}
                     value={currentCode || undefined}
                     onValueChange={handleSelectDomestic}
@@ -187,7 +190,9 @@ export function ProvinceForm({ currentRow, onSuccess }: ProvinceFormProps): Reac
                   <Alert variant="destructive" className="border-destructive/30 bg-destructive/10 text-destructive py-2 text-xs">
                     <AlertCircle className="size-4 shrink-0" />
                     <div className="space-y-0.5">
-                      <AlertTitle className="text-xs font-bold">{tReg('parentAlert.alreadyRegistered', { entity: tReg('entities.province') })}</AlertTitle>
+                      <AlertTitle className="text-xs font-bold">
+                        {tReg('parentAlert.alreadyRegistered', { entity: tReg('entities.province') })}
+                      </AlertTitle>
                       <AlertDescription className="text-muted-foreground text-[11px] leading-relaxed">
                         {tReg('parentAlert.alreadyRegisteredDesc', { name: currentName || '', id: provinceExists?.id || 0 })}
                       </AlertDescription>
@@ -213,7 +218,9 @@ export function ProvinceForm({ currentRow, onSuccess }: ProvinceFormProps): Reac
                   render={({ field }) => (
                     <FormItem>
                       <FormFieldWrapper id="prov-name" label={t('table.name')} required error={form.formState.errors.name?.message}>
-                        <FormControl><Input id="prov-name" placeholder={t('form.namePlaceholder')} disabled={isPending} {...field} /></FormControl>
+                        <FormControl>
+                          <Input id="prov-name" placeholder={t('form.namePlaceholder')} disabled={isPending} {...field} />
+                        </FormControl>
                       </FormFieldWrapper>
                     </FormItem>
                   )}
@@ -225,7 +232,9 @@ export function ProvinceForm({ currentRow, onSuccess }: ProvinceFormProps): Reac
                   render={({ field }) => (
                     <FormItem>
                       <FormFieldWrapper id="prov-code" label={t('table.code')} required error={form.formState.errors.code?.message}>
-                        <FormControl><Input id="prov-code" placeholder={t('form.codePlaceholder')} disabled={isPending} {...field} /></FormControl>
+                        <FormControl>
+                          <Input id="prov-code" placeholder={t('form.codePlaceholder')} disabled={isPending} {...field} />
+                        </FormControl>
                       </FormFieldWrapper>
                     </FormItem>
                   )}
@@ -240,7 +249,9 @@ export function ProvinceForm({ currentRow, onSuccess }: ProvinceFormProps): Reac
               render={({ field }) => (
                 <FormItem>
                   <FormFieldWrapper id="prov-prefix" label={t('table.prefix')} required error={form.formState.errors.prefix?.message}>
-                    <FormControl><Input id="prov-prefix" placeholder={t('form.prefixPlaceholder')} disabled={isPending} {...field} /></FormControl>
+                    <FormControl>
+                      <Input id="prov-prefix" placeholder={t('form.prefixPlaceholder')} disabled={isPending} {...field} />
+                    </FormControl>
                   </FormFieldWrapper>
                 </FormItem>
               )}
@@ -253,7 +264,9 @@ export function ProvinceForm({ currentRow, onSuccess }: ProvinceFormProps): Reac
               render={({ field }) => (
                 <FormItem>
                   <FormFieldWrapper id="prov-alias" label={tReg('fields.alias')} error={form.formState.errors.alias?.message}>
-                    <FormControl><Input id="prov-alias" placeholder={t('form.aliasPlaceholder')} disabled={isPending} {...field} /></FormControl>
+                    <FormControl>
+                      <Input id="prov-alias" placeholder={t('form.aliasPlaceholder')} disabled={isPending} {...field} />
+                    </FormControl>
                   </FormFieldWrapper>
                 </FormItem>
               )}
@@ -266,7 +279,9 @@ export function ProvinceForm({ currentRow, onSuccess }: ProvinceFormProps): Reac
               render={({ field }) => (
                 <FormItem>
                   <FormFieldWrapper id="prov-desc" label={tReg('fields.description')} error={form.formState.errors.description?.message}>
-                    <FormControl><Textarea id="prov-desc" rows={2} placeholder={tReg('placeholders.defaultNotes')} disabled={isPending} {...field} /></FormControl>
+                    <FormControl>
+                      <Textarea id="prov-desc" rows={2} placeholder={tReg('placeholders.defaultNotes')} disabled={isPending} {...field} />
+                    </FormControl>
                   </FormFieldWrapper>
                 </FormItem>
               )}

@@ -1,15 +1,18 @@
-@import 'tailwindcss';
-@import 'shadcn/tailwind.css';
-@import 'tw-animate-css';
-
 @custom-variant dark (&:is(.dark *));
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-inter), 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-sans: var(--font-public-sans), 'Public Sans', var(--font-inter), 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
   --font-mono: var(--font-geist-mono), monospace;
-  --font-heading: var(--font-inter), 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-heading: var(--font-libre-baskerville), 'Libre Baskerville', Georgia, serif;
+
+  --color-brand-primary: var(--brand-primary);
+  --color-brand-white: var(--brand-white);
+  --color-brand-gold: var(--brand-gold);
+  --color-brand-green: var(--brand-green);
+  --color-brand-ink: var(--brand-ink);
+
   --color-sidebar-ring: var(--sidebar-ring);
   --color-sidebar-border: var(--sidebar-border);
   --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
@@ -18,15 +21,19 @@
   --color-sidebar-primary: var(--sidebar-primary);
   --color-sidebar-foreground: var(--sidebar-foreground);
   --color-sidebar: var(--sidebar);
+
   --color-chart-5: var(--chart-5);
   --color-chart-4: var(--chart-4);
   --color-chart-3: var(--chart-3);
   --color-chart-2: var(--chart-2);
   --color-chart-1: var(--chart-1);
+
   --color-ring: var(--ring);
   --color-input: var(--input);
   --color-border: var(--border);
   --color-destructive: var(--destructive);
+  --color-success: var(--success);
+  --color-success-foreground: var(--success-foreground);
   --color-accent-foreground: var(--accent-foreground);
   --color-accent: var(--accent);
   --color-muted-foreground: var(--muted-foreground);
@@ -39,6 +46,7 @@
   --color-popover: var(--popover);
   --color-card-foreground: var(--card-foreground);
   --color-card: var(--card);
+
   --radius-sm: calc(var(--radius) - 4px);
   --radius-md: calc(var(--radius) - 2px);
   --radius-lg: var(--radius);
@@ -49,49 +57,82 @@
 }
 
 :root {
+  /* Syailendra Group Official Corporate Identity Tokens */
+  --brand-primary: #004e52; /* Tropical Green */
+  --brand-white: #fffdee; /* Warm White */
+  --brand-gold: #e8ae1e; /* Accent Gold */
+  --brand-green: #afca0b; /* Fresh Green */
+  --brand-ink: #111111; /* Corporate Ink */
+
+  /* Application Canvas & Foreground */
+  --background: #fffdee; /* Warm White Surface Canvas */
+  --foreground: #111111; /* Corporate Ink High-Legibility */
+
+  /* Surface Containers */
   --card: #ffffff;
-  --card-foreground: oklch(0.148 0.004 228.8);
+  --card-foreground: #111111;
   --popover: #ffffff;
-  --popover-foreground: oklch(0.148 0.004 228.8);
-  --primary: oklch(0.508 0.118 165.612);
-  --primary-foreground: oklch(0.979 0.021 166.113);
-  --secondary: oklch(0.967 0.001 286.375);
-  --secondary-foreground: oklch(0.21 0.006 285.885);
-  --muted: oklch(0.963 0.002 197.1);
-  --muted-foreground: oklch(0.56 0.021 213.5);
-  --accent: oklch(0.963 0.002 197.1);
-  --accent-foreground: oklch(0.218 0.008 223.9);
+  --popover-foreground: #111111;
+
+  /* Primary Brand Component Accent */
+  --primary: #004e52; /* Tropical Green CTA & Active Indicators */
+  --primary-foreground: #ffffff;
+
+  /* Secondary & Muted Surface Tokens */
+  --secondary: oklch(0.965 0.005 150);
+  --secondary-foreground: #111111;
+  --muted: oklch(0.96 0.005 150);
+  --muted-foreground: #555555;
+
+  /* Accent & Interactive States */
+  --accent: oklch(0.95 0.015 145); /* Subtle Tinted Hover Surface */
+  --accent-foreground: #004e52;
+
+  /* Feedback & Validation Colors */
   --destructive: oklch(0.577 0.245 27.325);
-  --border: oklch(0.925 0.005 214.3);
-  --input: oklch(0.925 0.005 214.3);
-  --ring: oklch(0.723 0.014 214.4);
-  --chart-1: oklch(0.871 0.15 154.449);
-  --chart-2: oklch(0.723 0.219 149.579);
-  --chart-3: oklch(0.627 0.194 149.214);
-  --chart-4: oklch(0.527 0.154 150.069);
-  --chart-5: oklch(0.448 0.119 151.328);
+  --success: #afca0b; /* Fresh Green Verified */
+  --success-foreground: #111111;
+
+  /* Form Elements & Focus Rings */
+  --border: oklch(0.91 0.008 145);
+  --input: oklch(0.91 0.008 145);
+  --ring: #004e52;
   --radius: 0.625rem;
+
+  /* Data Visualization Charts */
+  --chart-1: #004e52;
+  --chart-2: #afca0b;
+  --chart-3: #e8ae1e;
+  --chart-4: #0d4f1c;
+  --chart-5: #c79935;
+
+  /* Floating Clean Sidebar (White with Soft Shadow - Rule Verified) */
   --sidebar: #ffffff;
-  --sidebar-foreground: oklch(0.148 0.004 228.8);
-  --sidebar-primary: oklch(0.596 0.145 163.225);
-  --sidebar-primary-foreground: oklch(0.979 0.021 166.113);
-  --sidebar-accent: oklch(0.963 0.002 197.1);
-  --sidebar-accent-foreground: oklch(0.218 0.008 223.9);
+  --sidebar-foreground: #111111;
+  --sidebar-primary: #004e52;
+  --sidebar-primary-foreground: #ffffff;
+  --sidebar-accent: oklch(0.955 0.015 150);
+  --sidebar-accent-foreground: #004e52;
   --sidebar-border: oklch(0.925 0.005 214.3);
-  --sidebar-ring: oklch(0.723 0.014 214.4);
-  --background: #fafafaf9;
-  --foreground: oklch(0.148 0.004 228.8);
+  --sidebar-ring: #004e52;
 }
 
 .dark {
+  --brand-primary: #00747a;
+  --brand-white: oklch(0.148 0.004 228.8);
+  --brand-gold: #e8ae1e;
+  --brand-green: #afca0b;
+  --brand-ink: #f5f5f5;
+
   --background: oklch(0.148 0.004 228.8);
   --foreground: oklch(0.987 0.002 197.1);
   --card: oklch(0.218 0.008 223.9);
   --card-foreground: oklch(0.987 0.002 197.1);
   --popover: oklch(0.218 0.008 223.9);
   --popover-foreground: oklch(0.987 0.002 197.1);
-  --primary: oklch(0.64 0.16 163);
-  --primary-foreground: oklch(0.979 0.021 166.113);
+
+  --primary: #00747a;
+  --primary-foreground: #ffffff;
   --secondary: oklch(0.274 0.006 286.033);
   --secondary-foreground: oklch(0.985 0 0);
   --muted: oklch(0.275 0.011 216.9);
@@ -99,44 +140,18 @@
   --accent: oklch(0.275 0.011 216.9);
   --accent-foreground: oklch(0.987 0.002 197.1);
   --destructive: oklch(0.704 0.191 22.216);
+  --success: #afca0b;
+  --success-foreground: #111111;
   --border: oklch(1 0 0 / 10%);
   --input: oklch(1 0 0 / 15%);
-  --ring: oklch(0.56 0.021 213.5);
-  --chart-1: oklch(0.871 0.15 154.449);
-  --chart-2: oklch(0.723 0.219 149.579);
-  --chart-3: oklch(0.627 0.194 149.214);
-  --chart-4: oklch(0.527 0.154 150.069);
-  --chart-5: oklch(0.448 0.119 151.328);
+  --ring: #00747a;
+
   --sidebar: oklch(0.218 0.008 223.9);
   --sidebar-foreground: oklch(0.987 0.002 197.1);
-  --sidebar-primary: oklch(0.696 0.17 162.48);
-  --sidebar-primary-foreground: oklch(0.262 0.051 172.552);
+  --sidebar-primary: #00747a;
+  --sidebar-primary-foreground: #ffffff;
   --sidebar-accent: oklch(0.275 0.011 216.9);
   --sidebar-accent-foreground: oklch(0.987 0.002 197.1);
   --sidebar-border: oklch(1 0 0 / 10%);
-  --sidebar-ring: oklch(0.56 0.021 213.5);
-}
-
-@layer base {
-  * {
-    @apply border-border outline-ring/50;
-  }
-  body {
-    font-family:
-      var(--font-inter),
-      'Inter',
-      -apple-system,
-      BlinkMacSystemFont,
-      'Segoe UI',
-      Roboto,
-      sans-serif;
-    @apply bg-background text-foreground;
-  }
-  html {
-    @apply font-sans;
-  }
-  button:not(:disabled),
-  [role='button']:not(:disabled) {
-    cursor: pointer;
-  }
+  --sidebar-ring: #00747a;
 }

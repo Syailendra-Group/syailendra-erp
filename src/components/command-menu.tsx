@@ -1,7 +1,7 @@
 'use client'
 
 import { useCallback } from 'react'
-import { ArrowRight, Clock, Laptop, Layers, LayoutDashboard, Moon, Sliders, Sun, Target, Warehouse } from 'lucide-react'
+import { ArrowRight, Bot, Calculator, Clock, Laptop, Layers, LayoutDashboard, Leaf, Moon, Sliders, Store, Sun, Target, Warehouse } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 import { useTheme } from 'next-themes'
 
@@ -32,28 +32,28 @@ export function CommandMenu(): ReactElement {
 
   const modules: { title: string; url: string; tab: ModuleTab; icon: ElementType }[] = [
     { title: tNav('modules.main'), url: '/overview', tab: 'main', icon: LayoutDashboard },
-    { title: tNav('modules.traceability'), url: '/scm', tab: 'scm', icon: Layers },
+    { title: tNav('modules.ftm'), url: '/ftm', tab: 'ftm', icon: Calculator },
+    { title: tNav('modules.hrm'), url: '/hris', tab: 'hrm', icon: Clock },
+    { title: tNav('modules.scm'), url: '/scm', tab: 'scm', icon: Layers },
     { title: tNav('modules.wms'), url: '/wms', tab: 'wms', icon: Warehouse },
     { title: tNav('modules.crm'), url: '/crm', tab: 'crm', icon: Target },
-    { title: tNav('modules.hris'), url: '/hris', tab: 'hris', icon: Clock },
-    { title: tNav('modules.others'), url: '/settings', tab: 'others', icon: Sliders }
+    { title: tNav('modules.dcm'), url: '/dcm', tab: 'dcm', icon: Store },
+    { title: tNav('modules.ai'), url: '/ai', tab: 'ai', icon: Bot },
+    { title: tNav('modules.imm'), url: '/imm', tab: 'imm', icon: Leaf },
+    { title: tNav('modules.others'), url: '/others', tab: 'others', icon: Sliders }
   ]
 
   const items: { title: string; url: string; tab: ModuleTab }[] = [
-    { title: tNav('items.lots_batches'), url: '/scm', tab: 'scm' },
-    { title: tNav('items.genealogy_graph'), url: '/scm', tab: 'scm' },
-    { title: tNav('items.qr_printer'), url: '/scm', tab: 'scm' },
-    { title: tNav('items.stock_ledger'), url: '/wms', tab: 'wms' },
-    { title: tNav('items.inbound_grn'), url: '/wms', tab: 'wms' },
-    { title: tNav('items.quarantine_zone'), url: '/wms', tab: 'wms' },
-    { title: tNav('items.b2b_leads'), url: '/crm', tab: 'crm' },
-    { title: tNav('items.global_orders'), url: '/crm', tab: 'crm' },
-    { title: tNav('items.sample_desk'), url: '/crm', tab: 'crm' },
-    { title: tNav('items.attendance_log'), url: '/hris', tab: 'hris' },
-    { title: tNav('items.employees_directory'), url: '/employees', tab: 'hris' },
-    { title: tNav('items.departments'), url: '/admin/departments', tab: 'hris' },
-    { title: tNav('items.access_roles'), url: '/admin/roles', tab: 'others' },
-    { title: tNav('items.company_profile'), url: '/settings', tab: 'others' }
+    { title: tNav('items.lots_batches'), url: '/scm/lots', tab: 'scm' },
+    { title: tNav('items.genealogy_graph'), url: '/scm/genealogy', tab: 'scm' },
+    { title: tNav('items.qr_printer'), url: '/scm/qr-printer', tab: 'scm' },
+    { title: tNav('items.stock_ledger'), url: '/wms/stocks', tab: 'wms' },
+    { title: tNav('items.inbound_grn'), url: '/wms/inbound', tab: 'wms' },
+    { title: tNav('items.b2b_leads'), url: '/crm/leads', tab: 'crm' },
+    { title: tNav('items.global_orders'), url: '/crm/orders', tab: 'crm' },
+    { title: tNav('items.attendance_log'), url: '/hris/attendance', tab: 'hrm' },
+    { title: tNav('items.employees_directory'), url: '/admin/employees', tab: 'hrm' },
+    { title: tNav('items.company_profile'), url: '/others/company', tab: 'others' }
   ]
 
   return (

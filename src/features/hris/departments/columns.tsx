@@ -2,7 +2,7 @@
 
 import { ActionButton } from '@/components/button/action-button'
 import { DataTableColumnHeader } from '@/components/data-table/column-header'
-import { StatusBadge } from '@/components/shared/status-badge'
+import { StatusBadge } from '@/components/shared/data-badge'
 
 import type { DepartmentRecord } from '@/types/hris/department'
 import type { ColumnDef } from '@tanstack/react-table'

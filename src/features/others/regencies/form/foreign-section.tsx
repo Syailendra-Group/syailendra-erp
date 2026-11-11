@@ -39,7 +39,7 @@ export function ForeignRegencySection({
 
   return (
     <>
-      <div className="grid grid-cols-1 gap-3.5 sm:grid-cols-2">
+      <div className="space-y-3.5">
         <FormFieldWrapper id="reg-foreign-cntry" label={tForeign('countryLabel')} required>
           <SelectForm
             placeholder={tForeign('countryPlaceholder')}

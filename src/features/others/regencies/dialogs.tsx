@@ -6,8 +6,9 @@ import { toast } from 'sonner'
 
 import { ActionDialog } from '@/components/dialog/action-dialog'
 import { ConfirmDialog } from '@/components/dialog/confirm-dialog'
+import { LocationMapCard } from '@/components/map/location-map-card'
 import { DetailRow } from '@/components/shared/detail-row'
-import { Dialog, DialogContent, DialogDescription, DialogHeader, DialogTitle } from '@/components/ui/dialog'
+import { CopyableText } from '@/components/text'
 import { useRegency } from '@/contexts/others/regency.context'
 import { useDeleteRegencyMutation } from '@/hooks/others/use-regencies'
 
@@ -52,30 +53,43 @@ export function RegenciesDialogs(): ReactElement {
         submitDisabled={!canSubmit}
         title={open === 'edit' ? t('dialog.editTitle') : t('dialog.addTitle')}
         description={open === 'edit' ? t('dialog.editDesc') : t('dialog.addDesc')}
-        maxWidth="sm:max-w-xl"
+        maxWidth="sm:max-w-3xl"
       >
         <RegencyForm currentRow={currentRow} onSuccess={() => setOpen(null)} onValidationChange={setCanSubmit} />
       </ActionDialog>
 
-      <Dialog open={isViewOpen} onOpenChange={(isOpen) => !isOpen && setOpen(null)}>
-        <DialogContent className="sm:max-w-md">
-          <DialogHeader className="text-start">
-            <DialogTitle>{t('dialog.viewTitle')}</DialogTitle>
-            <DialogDescription className="text-xs">{t('dialog.viewDesc')}</DialogDescription>
-          </DialogHeader>
-
-          {currentRow && (
-            <div className="space-y-3 pt-2 text-xs">
-              <DetailRow label={t('table.name')} value={currentRow.name} />
+      <ActionDialog
+        open={isViewOpen}
+        onOpenChange={(isOpen) => !isOpen && setOpen(null)}
+        isView={true}
+        title={t('dialog.viewTitle')}
+        description={t('dialog.viewDesc')}
+        maxWidth="sm:max-w-3xl"
+      >
+        {currentRow && (
+          <div className="grid grid-cols-1 items-start gap-5 pt-1 lg:grid-cols-2">
+            <div className="space-y-2 rounded-md border p-3.5 text-xs">
+              <DetailRow label={t('table.name')} value={currentRow.name} valueClassName="font-semibold" />
               <DetailRow label={tReg('fields.alias')} value={currentRow.alias || '-'} />
-              <DetailRow label={t('table.code')} value={currentRow.code || '-'} mono />
+              <DetailRow label={t('table.code')}>
+                {currentRow.code ? <CopyableText text={currentRow.code} /> : '-'}
+              </DetailRow>
               <DetailRow label={t('table.province')} value={currentRow.state_id ? currentRow.state_id[1] : '-'} />
               {currentRow.country_id && <DetailRow label={tReg('fields.country')} value={currentRow.country_id[1]} />}
               <DetailRow label={tReg('fields.description')} value={currentRow.description || '-'} border={false} />
             </div>
-          )}
-        </DialogContent>
-      </Dialog>
+
+            <LocationMapCard
+              latitude={currentRow.latitude}
+              longitude={currentRow.longitude}
+              title={tReg('coordinates')}
+              markerLabel={currentRow.name}
+              zoom={11}
+              height="h-60"
+            />
+          </div>
+        )}
+      </ActionDialog>
 
       <ConfirmDialog
         open={isDeleteOpen}

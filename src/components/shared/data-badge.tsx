@@ -5,7 +5,7 @@ import { cn } from '@/lib/utils'
 import type { VariantProps } from 'class-variance-authority'
 import type { ComponentPropsWithoutRef, ReactElement } from 'react'
 
-export const statusBadgeVariants = cva('inline-flex items-center font-semibold transition-colors border select-none rounded-md', {
+export const dataBadgeVariants = cva('inline-flex items-center font-semibold transition-colors border select-none rounded-md', {
   variants: {
     variant: {
       primary: 'border-primary/20 bg-primary/10 text-primary',
@@ -26,12 +26,17 @@ export const statusBadgeVariants = cva('inline-flex items-center font-semibold t
   }
 })
 
-export interface StatusBadgeProps extends Omit<ComponentPropsWithoutRef<'span'>, 'color'>, VariantProps<typeof statusBadgeVariants> {}
+export const statusBadgeVariants = dataBadgeVariants
 
-export function StatusBadge({ children, className, variant, size, ...props }: StatusBadgeProps): ReactElement {
+export interface DataBadgeProps extends Omit<ComponentPropsWithoutRef<'span'>, 'color'>, VariantProps<typeof dataBadgeVariants> {}
+export type StatusBadgeProps = DataBadgeProps
+
+export function DataBadge({ children, className, variant, size, ...props }: DataBadgeProps): ReactElement {
   return (
-    <span className={cn(statusBadgeVariants({ variant, size }), className)} {...props}>
+    <span className={cn(dataBadgeVariants({ variant, size }), className)} {...props}>
       {children}
     </span>
   )
 }
+
+export const StatusBadge = DataBadge

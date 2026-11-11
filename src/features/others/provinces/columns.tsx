@@ -2,7 +2,8 @@
 
 import { ActionButton } from '@/components/button/action-button'
 import { DataTableColumnHeader } from '@/components/data-table/column-header'
-import { LongText, PrimaryText } from '@/components/text'
+import { DataBadge } from '@/components/shared/data-badge'
+import { CoordsLink, LongText, PrimaryText } from '@/components/text'
 
 import type { ProvinceRecord } from '@/types/others/province'
 import type { ColumnDef } from '@tanstack/react-table'
@@ -29,9 +30,9 @@ export function getColumns({ t, tCommon, onView, onEdit, onDelete }: GetColumnsO
       cell: ({ row }) => {
         const val = row.original.prefix
         return val ? (
-          <span className="bg-primary/10 text-primary border-primary/20 inline-flex items-center rounded border px-1.5 py-0.5 font-mono text-xs font-semibold">
+          <DataBadge variant="primary" size="sm" className="font-mono text-xs">
             {val}
-          </span>
+          </DataBadge>
         ) : (
           <span className="text-muted-foreground text-xs">-</span>
         )
@@ -57,6 +58,11 @@ export function getColumns({ t, tCommon, onView, onEdit, onDelete }: GetColumnsO
         const country = row.original.country_id
         return <LongText className="text-muted-foreground block max-w-50 text-xs">{country ? country[1] : '-'}</LongText>
       }
+    },
+    {
+      accessorKey: 'latitude',
+      header: ({ column }) => <DataTableColumnHeader column={column} title={tCommon('table.coordinates')} />,
+      cell: ({ row }) => <CoordsLink lat={row.original.latitude} lng={row.original.longitude} />
     },
     {
       id: 'actions',

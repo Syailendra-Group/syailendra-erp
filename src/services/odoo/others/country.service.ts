@@ -30,11 +30,13 @@ function mapCountry(r: Record<string, OdooFieldValue>): CountryRecord {
     name: r.name as string,
     code: (r.code as string) || '',
     phone_code: Number(r.phone_code) || false,
-    description: (r.vat_label as string) || false
+    description: (r.vat_label as string) || false,
+    latitude: typeof r.latitude === 'number' ? r.latitude : false,
+    longitude: typeof r.longitude === 'number' ? r.longitude : false
   }
 }
 
-const COUNTRY_READ_FIELDS = ['id', 'name', 'code', 'phone_code', 'vat_label']
+const COUNTRY_READ_FIELDS = ['id', 'name', 'code', 'phone_code', 'vat_label', 'latitude', 'longitude']
 
 export async function fetchCountries(): Promise<CountryRecord[]> {
   const records = await odoo.client.searchRead<Record<string, OdooFieldValue>>('res.country', [], COUNTRY_READ_FIELDS, {
@@ -87,7 +89,9 @@ export async function persistCountry(values: CountryFormValues): Promise<number>
     name: values.name,
     code: values.code.toUpperCase(),
     phone_code: values.phone_code || false,
-    vat_label: values.description || false
+    vat_label: values.description || false,
+    latitude: values.latitude || false,
+    longitude: values.longitude || false
   }
 
   if (values.id) {

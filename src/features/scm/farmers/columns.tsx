@@ -1,11 +1,11 @@
 'use client'
 
-import { Phone, User } from 'lucide-react'
+import { MessageSquare, Phone, Sprout, User } from 'lucide-react'
 
 import { ActionButton } from '@/components/button/action-button'
 import { DataTableColumnHeader } from '@/components/data-table/column-header'
-import { StatusBadge } from '@/components/shared/status-badge'
-import { IconText, LongText, PrimaryText } from '@/components/text'
+import { CopyableText, CoordsLink, IconText, LinkText, LongText, PrimaryText } from '@/components/text'
+import { Badge } from '@/components/ui/badge'
 
 import type { FarmerRecord } from '@/types/scm/farmer'
 import type { ColumnDef } from '@tanstack/react-table'
@@ -21,11 +21,17 @@ export interface GetColumnsOptions {
 
 export function getColumns({ t: tProp, tTrace, tCommon, onView, onEdit, onDelete }: GetColumnsOptions): ColumnDef<FarmerRecord>[] {
   const t = (tProp || tTrace)!
+
   return [
     {
       accessorKey: 'ref',
       header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.ref') || 'Farmer ID'} />,
-      cell: ({ row }) => <PrimaryText fallback="-">{row.original.ref}</PrimaryText>,
+      cell: ({ row }) =>
+        row.original.ref ? (
+          <CopyableText text={row.original.ref} className="text-primary font-bold tracking-tight" />
+        ) : (
+          <PrimaryText fallback="-">{row.original.ref}</PrimaryText>
+        ),
       enableSorting: true
     },
     {
@@ -39,38 +45,78 @@ export function getColumns({ t: tProp, tTrace, tCommon, onView, onEdit, onDelete
       enableSorting: true
     },
     {
-      accessorKey: 'phone',
-      header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.phone')} />,
+      accessorKey: 'commodity',
+      header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.commodity')} />,
       cell: ({ row }) => {
-        const phone = row.original.phone
+        const item = row.original
+        const commKey = item.commodity || 'gaharu'
+        const methodKey = item.farming_method || 'organic'
         return (
-          <IconText icon={Phone} mono className="text-muted-foreground">
-            <LongText>{phone || '-'}</LongText>
-          </IconText>
+          <div className="flex flex-col gap-0.5">
+            <div className="flex items-center gap-1.5">
+              <Badge variant="outline" className="gap-1 border-primary/20 bg-primary/10 text-primary px-1.5 py-0 text-[11px] font-medium">
+                <Sprout className="size-3" />
+                <span>{t(`commodities.${commKey}`)}</span>
+              </Badge>
+            </div>
+            <span className="text-muted-foreground text-[10px] capitalize">
+              {t(`methods.${methodKey}`)}
+            </span>
+          </div>
         )
       }
+    },
+    {
+      accessorKey: 'land_area_m2',
+      header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.landArea')} />,
+      cell: ({ row }) => {
+        const m2 = row.original.land_area_m2
+        if (!m2) return <span className="text-muted-foreground text-xs">-</span>
+        const ha = (m2 / 10000).toFixed(2)
+        return (
+          <div className="flex flex-col font-mono text-xs">
+            <span className="font-semibold">{m2.toLocaleString()} m²</span>
+            <span className="text-muted-foreground text-[10px]">({ha} Ha)</span>
+          </div>
+        )
+      },
+      enableSorting: true
     },
     {
       accessorKey: 'city',
       header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.location')} />,
       cell: ({ row }) => {
         const item = row.original
-        const loc = [item.city, item.state_id ? item.state_id[1] : ''].filter(Boolean).join(', ')
+        const cityName = item.city_id && Array.isArray(item.city_id) ? item.city_id[1] : item.city
+        const stateName = item.state_id && Array.isArray(item.state_id) ? item.state_id[1] : ''
+        const loc = [cityName, stateName].filter(Boolean).join(', ')
         return <LongText className="text-muted-foreground block max-w-45 text-xs">{loc || '-'}</LongText>
       }
     },
     {
-      accessorKey: 'active',
-      header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.status')} />,
+      accessorKey: 'phone',
+      header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.phone')} />,
       cell: ({ row }) => {
-        const active = row.original.active
+        const phone = row.original.phone
+        if (!phone) return <span className="text-muted-foreground text-xs">-</span>
+        const cleanPhone = phone.replace(/[^0-9]/g, '')
+        const waUrl = cleanPhone.startsWith('0') ? `https://wa.me/62${cleanPhone.slice(1)}` : `https://wa.me/${cleanPhone}`
         return (
-          <StatusBadge variant={active ? 'success' : 'neutral'} size="sm">
-            {active ? t('status.active') : t('status.archived')}
-          </StatusBadge>
+          <div className="flex items-center gap-1.5 font-mono text-xs">
+            <LinkText href={`tel:${cleanPhone}`} icon={Phone} mono>
+              {phone}
+            </LinkText>
+            {cleanPhone && (
+              <LinkText href={waUrl} external icon={MessageSquare} title="Chat WhatsApp" className="text-primary" />
+            )}
+          </div>
         )
-      },
-      enableSorting: true
+      }
+    },
+    {
+      accessorKey: 'partner_latitude',
+      header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.coordinates')} />,
+      cell: ({ row }) => <CoordsLink lat={row.original.partner_latitude} lng={row.original.partner_longitude} />
     },
     {
       id: 'actions',

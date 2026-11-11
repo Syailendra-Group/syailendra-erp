@@ -2,7 +2,7 @@
 
 import { ActionButton } from '@/components/button/action-button'
 import { DataTableColumnHeader } from '@/components/data-table/column-header'
-import { LongText, PrimaryText } from '@/components/text'
+import { CoordsLink, LongText, PrimaryText } from '@/components/text'
 
 import type { RegencyRecord } from '@/types/others/regency'
 import type { ColumnDef } from '@tanstack/react-table'
@@ -42,6 +42,11 @@ export function getColumns({ t, tCommon, onView, onEdit, onDelete }: GetColumnsO
         const state = row.original.state_id
         return <span className="text-foreground text-xs font-medium">{state ? state[1] : '-'}</span>
       }
+    },
+    {
+      accessorKey: 'latitude',
+      header: ({ column }) => <DataTableColumnHeader column={column} title={tCommon('table.coordinates')} />,
+      cell: ({ row }) => <CoordsLink lat={row.original.latitude} lng={row.original.longitude} />
     },
     {
       id: 'actions',

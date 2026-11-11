@@ -265,7 +265,7 @@ export async function deleteVillage(id: number): Promise<{ success: boolean; err
   try {
     await odoo.client.unlink('res.country.subdistrict', [id])
     return { success: true }
-  } catch (err: unknown) {
+  } catch (err) {
     const msg = err instanceof Error ? err.message : String(err)
     if (msg.includes('foreign key') || msg.includes('still referenced') || msg.includes('restrict') || msg.includes('linked')) {
       return {

@@ -13,6 +13,7 @@ import { toast } from 'sonner'
 import { ActionDialog } from '@/components/dialog/action-dialog'
 import { ConfirmDialog } from '@/components/dialog/confirm-dialog'
 import { DetailRow } from '@/components/shared/detail-row'
+import { LocationMapCard } from '@/components/map/location-map-card'
 import { Badge } from '@/components/ui/badge'
 import { Dialog, DialogContent, DialogDescription, DialogHeader, DialogTitle } from '@/components/ui/dialog'
 import { useDistillers } from '@/contexts/scm/distiller.context'
@@ -126,8 +127,17 @@ export function DistillersDialogs(): ReactElement {
                 {currentRow.partner_latitude && currentRow.partner_longitude && (
                   <DetailRow label={t('details.coordinates')} value={`${currentRow.partner_latitude}, ${currentRow.partner_longitude}`} mono />
                 )}
-                {currentRow.comment && <DetailRow label={tTrace('fields.comment')} value={currentRow.comment} border={false} />}
               </div>
+
+              {currentRow.partner_latitude && currentRow.partner_longitude && (
+                <LocationMapCard
+                  latitude={currentRow.partner_latitude}
+                  longitude={currentRow.partner_longitude}
+                  title={t('details.coordinates')}
+                  markerLabel={currentRow.name}
+                  height="h-44"
+                />
+              )}
             </div>
           )}
         </DialogContent>

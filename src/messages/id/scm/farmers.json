@@ -48,7 +48,8 @@
     "addressDetail": "Alamat Detail / Blok Kebun",
     "addressDetailPlaceholder": "Nama jalan, RT/RW, nomor petak kebun...",
     "legacyCode": "Kode Historis (Accurate)",
-    "legacyCodePlaceholder": "Contoh: ABD-DMK"
+    "legacyCodePlaceholder": "Contoh: ABD-DMK",
+    "refGenerating": "Membuat ID otomatis..."
   },
   "table": {
     "ref": "Farmer ID",
@@ -58,7 +59,8 @@
     "coordinates": "Koordinat GPS",
     "phone": "Kontak",
     "status": "Status",
-    "actions": "Aksi"
+    "actions": "Aksi",
+    "landArea": "Luas Lahan"
   },
   "commodities": {
     "gaharu": "Minyak Gaharu",
@@ -77,7 +79,9 @@
     "archived": "Petani berhasil diarsipkan",
     "archiveFailed": "Gagal mengarsipkan petani",
     "restored": "Petani berhasil diaktifkan kembali",
-    "restoreFailed": "Gagal mengaktifkan petani"
+    "restoreFailed": "Gagal mengaktifkan petani",
+    "deleted": "Data petani berhasil dihapus",
+    "deleteFailed": "Gagal menghapus data petani"
   },
   "status": {
     "activeVerified": "Aktif Terverifikasi",
@@ -87,7 +91,9 @@
     "archiveTitle": "Arsipkan Petani Mitra",
     "restoreTitle": "Aktifkan Petani Mitra",
     "archiveDesc": "Apakah Anda yakin ingin menonaktifkan status petani {name}? Data panen historis tetap aman terlacak.",
-    "restoreDesc": "Apakah Anda yakin ingin mengaktifkan kembali status petani {name}?"
+    "restoreDesc": "Apakah Anda yakin ingin mengaktifkan kembali status petani {name}?",
+    "deleteTitle": "Hapus Data Petani",
+    "deleteDesc": "Apakah Anda yakin ingin menghapus data petani {name}? Riwayat panen tetap aman terlacak."
   },
   "sections": {
     "identity": "Identitas & Informasi Kemitraan",
@@ -115,7 +121,10 @@
     "hectare": "Hektar",
     "elevation": "Elevasi Dataran Tinggi Dieng",
     "registeredSince": "Terdaftar sejak September 2026",
-    "noNotes": "Belum ada catatan khusus agronomi lapangan untuk mitra ini."
+    "noNotes": "Belum ada catatan khusus agronomi lapangan untuk mitra ini.",
+    "mainCommoditySubtitle": "Komoditas Unggulan",
+    "farmingStandardSubtitle": "Standar Budidaya",
+    "domicileSubtitle": "Domisili Kebun"
   },
   "actions": {
     "addCommodity": "+ Tambah Komoditas Baru..."

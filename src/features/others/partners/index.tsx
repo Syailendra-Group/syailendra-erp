@@ -5,7 +5,7 @@ import { useTranslations } from 'next-intl'
 
 import { PrimaryAction } from '@/components/button/primary-action'
 import { PageHeader } from '@/components/shared/page-header'
-import { StatusBadge } from '@/components/shared/status-badge'
+import { StatusBadge } from '@/components/shared/data-badge'
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card'
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '@/components/ui/table'
 

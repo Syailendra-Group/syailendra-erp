@@ -110,7 +110,7 @@ export function ForeignVillageSection({ form, isPending, t }: ForeignVillageSect
 
   return (
     <>
-      <div className="grid grid-cols-1 gap-3.5 sm:grid-cols-2">
+      <div className="space-y-3.5">
         <FormFieldWrapper id="vil-foreign-cntry" label={tForeign('countryLabel')} required>
           <SelectForm
             placeholder={tForeign('countryPlaceholder')}
@@ -138,7 +138,7 @@ export function ForeignVillageSection({ form, isPending, t }: ForeignVillageSect
         </FormFieldWrapper>
       </div>
 
-      <div className="grid grid-cols-1 gap-3.5 sm:grid-cols-2">
+      <div className="space-y-3.5">
         <FormFieldWrapper id="vil-foreign-city" label={tForeign('cityLabel')} required>
           <SelectForm
             placeholder={getForeignSelectPlaceholder({
@@ -202,7 +202,7 @@ export function ForeignVillageSection({ form, isPending, t }: ForeignVillageSect
         />
       </div>
 
-      <div className="grid grid-cols-1 gap-3.5 sm:grid-cols-2">
+      <div className="space-y-3.5">
         <FormField
           control={form.control}
           name="zip_code"

@@ -5,4 +5,6 @@ export interface CountryRecord {
   phone_code?: number | false
   active?: boolean
   description?: string | false
+  latitude?: number | false
+  longitude?: number | false
 }

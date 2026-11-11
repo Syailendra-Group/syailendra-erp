@@ -1,6 +1,6 @@
 'use client'
 
-import { User } from 'lucide-react'
+import { Loader2, User } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 
 import { SectionCard } from '@/components/card/section-card'
@@ -15,9 +15,10 @@ export interface IdentitySectionProps {
   register: UseFormRegister<FarmerFormValues>
   errors: FieldErrors<FarmerFormValues>
   isPending: boolean
+  isGeneratingRef?: boolean
 }
 
-export function IdentitySection({ register, errors, isPending }: IdentitySectionProps): ReactElement {
+export function IdentitySection({ register, errors, isPending, isGeneratingRef = false }: IdentitySectionProps): ReactElement {
   const tTrace = useTranslations('scm.farmers')
 
   return (
@@ -27,8 +28,15 @@ export function IdentitySection({ register, errors, isPending }: IdentitySection
       icon={User}
       contentClassName="grid grid-cols-1 gap-3.5 sm:grid-cols-2"
     >
-      <FormFieldWrapper id="ref" label={tTrace('fields.ref')}>
-        <Input id="ref" disabled={true} {...register('ref')} />
+      <FormFieldWrapper id="ref" label={tTrace('fields.ref')} error={errors.ref?.message}>
+        <div className="relative">
+          <Input id="ref" disabled={true} className="font-mono text-xs pr-8" placeholder={isGeneratingRef ? tTrace('fields.refGenerating') : tTrace('fields.refPlaceholder')} {...register('ref')} />
+          {isGeneratingRef && (
+            <div className="absolute right-2.5 top-1/2 -translate-y-1/2 flex items-center">
+              <Loader2 className="size-3.5 animate-spin text-primary" />
+            </div>
+          )}
+        </div>
       </FormFieldWrapper>
 
       <FormFieldWrapper id="legacy_code" label={tTrace('fields.legacyCode')} error={errors.legacy_code?.message}>

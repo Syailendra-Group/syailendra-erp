@@ -21,7 +21,9 @@ export function getCountryFormSchema(t?: SchemaTranslator) {
       .max(5, { message: msg('validation.codeMax', 'Country code must be at most 5 characters', { max: 5 }) })
       .toUpperCase(),
     phone_code: z.number().optional(),
-    description: z.string().optional()
+    description: z.string().optional(),
+    latitude: z.number().optional(),
+    longitude: z.number().optional()
   })
 }
 

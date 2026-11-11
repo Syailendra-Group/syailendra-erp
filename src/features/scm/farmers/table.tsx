@@ -12,7 +12,7 @@ import { useDataTableUrlState } from '@/hooks/use-data-table-url-state'
 
 import type { ReactElement } from 'react'
 
-const FILTER_KEYS = ['commodity', 'active']
+const FILTER_KEYS = ['commodity']
 
 export function FarmersTable(): ReactElement {
   // Translations
@@ -45,7 +45,6 @@ export function FarmersTable(): ReactElement {
 
   // Data fetching and server pagination
   const commodityList = getArrayFilter('commodity')
-  const statusList = getArrayFilter('active')
 
   const {
     data: result,
@@ -56,7 +55,6 @@ export function FarmersTable(): ReactElement {
     perPage,
     search,
     commodity: commodityList.length > 0 ? commodityList : undefined,
-    status: statusList.length > 0 ? statusList : undefined,
     order: orderOdoo
   })
 
@@ -89,17 +87,9 @@ export function FarmersTable(): ReactElement {
           { label: t('commodities.kopi'), value: 'kopi' },
           { label: t('commodities.cengkeh'), value: 'cengkeh' }
         ]
-      },
-      {
-        columnId: 'active',
-        title: t('table.status'),
-        options: [
-          { label: tCommon('status.active'), value: 'active' },
-          { label: tCommon('status.archived'), value: 'archived' }
-        ]
       }
     ],
-    [t, tCommon]
+    [t]
   )
 
   // Table instance

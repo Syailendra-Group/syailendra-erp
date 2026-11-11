@@ -8,7 +8,8 @@ import {
   fetchFarmers,
   fetchFarmersPaginated,
   persistFarmer,
-  updateFarmerActiveState
+  updateFarmerActiveState,
+  fetchNextFarmerSequence
 } from '@/services/odoo/scm/farmer.service'
 
 import type { FarmerFormValues } from '@/schemas/scm/farmer-schema'
@@ -74,6 +75,16 @@ export async function toggleFarmerStatusAction(id: number, active: boolean): Pro
     return { success: true }
   } catch (err) {
     const msg = err instanceof Error ? err.message : 'Failed to update farmer status'
+    return { success: false, error: msg }
+  }
+}
+export async function getNextFarmerIdAction(stateId: number): Promise<{ success: boolean; ref?: string; error?: string }> {
+  try {
+    const ref = await fetchNextFarmerSequence(stateId)
+    return { success: true, ref }
+  } catch (err) {
+    const msg = err instanceof Error ? err.message : 'Failed to generate next farmer sequence ID'
+    console.error('Failed to generate next farmer sequence ID:', err)
     return { success: false, error: msg }
   }
 }

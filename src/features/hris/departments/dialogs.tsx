@@ -4,7 +4,7 @@ import { useTranslations } from 'next-intl'
 
 import { ConfirmDialog } from '@/components/dialog/confirm-dialog'
 import { DetailRow } from '@/components/shared/detail-row'
-import { StatusBadge } from '@/components/shared/status-badge'
+import { StatusBadge } from '@/components/shared/data-badge'
 import { Dialog, DialogContent, DialogDescription, DialogHeader, DialogTitle } from '@/components/ui/dialog'
 import { useDepartment } from '@/contexts/hris/department.context'
 import { useToggleDepartmentStatusMutation } from '@/hooks/hris/use-departments'

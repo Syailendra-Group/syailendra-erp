@@ -15,14 +15,13 @@ export function FarmersDialogs(): ReactElement {
   const { open, setOpen, currentRow, setCurrentRow, refreshData } = useFarmers()
   const { mutateAsync: toggleStatus, isPending } = useToggleFarmerStatusMutation()
 
-  const handleToggleStatus = async () => {
+  const handleDelete = async () => {
     if (!currentRow) return
-    const targetStatus = !currentRow.active
 
     try {
-      const res = await toggleStatus({ id: currentRow.id, active: targetStatus })
+      const res = await toggleStatus({ id: currentRow.id, active: false })
       if (res.success) {
-        toast.success(targetStatus ? t('messages.restored') : t('messages.archived'))
+        toast.success(t('messages.deleted'))
         setOpen(null)
         setCurrentRow(null)
         refreshData?.()
@@ -34,25 +33,23 @@ export function FarmersDialogs(): ReactElement {
     }
   }
 
-  const isArchiveOpen = open === 'archive' && Boolean(currentRow)
+  const isDeleteOpen = open === 'archive' && Boolean(currentRow)
 
   return (
     <ConfirmDialog
-      open={isArchiveOpen}
+      open={isDeleteOpen}
       onOpenChange={(v) => {
         if (!v) {
           setOpen(null)
           setCurrentRow(null)
         }
       }}
-      handleConfirm={handleToggleStatus}
+      handleConfirm={handleDelete}
       isLoading={isPending}
-      title={currentRow?.active ? t('confirm.archiveTitle') : t('confirm.restoreTitle')}
-      desc={
-        currentRow?.active ? t('confirm.archiveDesc', { name: currentRow?.name || '' }) : t('confirm.restoreDesc', { name: currentRow?.name || '' })
-      }
-      confirmText={currentRow?.active ? tCommon('actions.archive') : tCommon('actions.restore')}
-      destructive={currentRow?.active}
+      title={t('confirm.deleteTitle')}
+      desc={t('confirm.deleteDesc', { name: currentRow?.name || '' })}
+      confirmText={tCommon('actions.delete')}
+      destructive={true}
     />
   )
 }

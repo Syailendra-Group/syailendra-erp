@@ -4,7 +4,7 @@ import { Building, Mail, Phone } from 'lucide-react'
 
 import { ActionButton } from '@/components/button/action-button'
 import { DataTableColumnHeader } from '@/components/data-table/column-header'
-import { StatusBadge } from '@/components/shared/status-badge'
+import { StatusBadge } from '@/components/shared/data-badge'
 import { IconText, LongText } from '@/components/text'
 
 import type { EmployeeRecord } from '@/types/hris/employee'

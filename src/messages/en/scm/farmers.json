@@ -48,7 +48,8 @@
     "addressDetail": "Detailed Address / Plantation Block",
     "addressDetailPlaceholder": "Street name, RT/RW, plot number...",
     "legacyCode": "Historical Code (Accurate)",
-    "legacyCodePlaceholder": "e.g. ABD-DMK"
+    "legacyCodePlaceholder": "e.g. ABD-DMK",
+    "refGenerating": "Generating ID..."
   },
   "table": {
     "ref": "Farmer ID",
@@ -58,7 +59,8 @@
     "coordinates": "GPS Coordinates",
     "phone": "Contact",
     "status": "Status",
-    "actions": "Actions"
+    "actions": "Actions",
+    "landArea": "Land Area"
   },
   "commodities": {
     "gaharu": "Agarwood (Gaharu)",
@@ -77,7 +79,9 @@
     "archived": "Farmer archived successfully",
     "archiveFailed": "Failed to archive farmer",
     "restored": "Farmer reactivated successfully",
-    "restoreFailed": "Failed to reactivate farmer"
+    "restoreFailed": "Failed to reactivate farmer",
+    "deleted": "Farmer profile deleted successfully",
+    "deleteFailed": "Failed to delete farmer profile"
   },
   "status": {
     "activeVerified": "Active & Verified",
@@ -87,7 +91,9 @@
     "archiveTitle": "Archive Farmer Partner",
     "restoreTitle": "Activate Farmer Partner",
     "archiveDesc": "Are you sure you want to deactivate farmer {name}? Historical harvest records remain securely tracked.",
-    "restoreDesc": "Are you sure you want to reactivate farmer {name}?"
+    "restoreDesc": "Are you sure you want to reactivate farmer {name}?",
+    "deleteTitle": "Delete Farmer Partner",
+    "deleteDesc": "Are you sure you want to delete farmer {name}? Historical harvest records remain securely tracked."
   },
   "sections": {
     "identity": "Identity & Partnership Info",
@@ -115,7 +121,10 @@
     "hectare": "Hectares",
     "elevation": "Dieng Plateau Elevation",
     "registeredSince": "Registered since September 2026",
-    "noNotes": "No agronomic field notes available for this partner yet."
+    "noNotes": "No agronomic field notes available for this partner yet.",
+    "mainCommoditySubtitle": "Primary Crop",
+    "farmingStandardSubtitle": "Cultivation Standard",
+    "domicileSubtitle": "Plantation Region"
   },
   "actions": {
     "addCommodity": "+ Add New Commodity..."

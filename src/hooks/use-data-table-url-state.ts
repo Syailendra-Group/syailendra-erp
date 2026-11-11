@@ -23,10 +23,10 @@ export function useDataTableUrlState(options: UseDataTableUrlStateOptions = {}):
   const search = searchParams.get('search') || ''
   const sort = searchParams.get('sort') || defaultSort
 
-  // Retrieve array filter values from URL search params
+  // Retrieve array filter values from URL search params with active/status alias support
   const getArrayFilter = useCallback(
     (key: string): string[] => {
-      const val = searchParams.get(key)
+      const val = key === 'active' || key === 'status' ? searchParams.get('status') || searchParams.get('active') : searchParams.get(key)
       return parseArrayParam(val)
     },
     [searchParams]
@@ -70,14 +70,14 @@ export function useDataTableUrlState(options: UseDataTableUrlStateOptions = {}):
     const filters: ColumnFiltersState = []
 
     for (const key of filterKeys) {
-      if (key === 'active') {
-        const statusList = parseArrayParam(searchParams.get('status'))
+      if (key === 'active' || key === 'status') {
+        const statusList = parseArrayParam(searchParams.get('status') || searchParams.get('active'))
         if (statusList.length > 0) {
           const mappedValues: string[] = []
-          if (statusList.includes('active')) mappedValues.push('true')
-          if (statusList.includes('archived')) mappedValues.push('false')
+          if (statusList.includes('active') || statusList.includes('true')) mappedValues.push('active')
+          if (statusList.includes('archived') || statusList.includes('false')) mappedValues.push('archived')
           if (mappedValues.length > 0) {
-            filters.push({ id: 'active', value: mappedValues })
+            filters.push({ id: key, value: mappedValues })
           }
         }
       } else {
@@ -141,12 +141,12 @@ export function useDataTableUrlState(options: UseDataTableUrlStateOptions = {}):
       const updates: Record<string, string | undefined> = { page: '1' }
 
       for (const key of keys) {
-        if (key === 'active') {
-          const act = next.find((f) => f.id === 'active')?.value
+        if (key === 'active' || key === 'status') {
+          const act = next.find((f) => f.id === key)?.value
           const selectedStatuses = Array.isArray(act) ? (act as string[]) : []
           const mappedStatuses: string[] = []
-          if (selectedStatuses.includes('true')) mappedStatuses.push('active')
-          if (selectedStatuses.includes('false')) mappedStatuses.push('archived')
+          if (selectedStatuses.includes('active') || selectedStatuses.includes('true')) mappedStatuses.push('active')
+          if (selectedStatuses.includes('archived') || selectedStatuses.includes('false')) mappedStatuses.push('archived')
           updates.status = serializeArrayParam(mappedStatuses)
         } else {
           const filterItem = next.find((f) => f.id === key)?.value

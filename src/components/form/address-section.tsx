@@ -6,7 +6,7 @@ import { useTranslations } from 'next-intl'
 
 import { SectionCard } from '@/components/card/section-card'
 import { FormFieldWrapper } from '@/components/form/form-field-wrapper'
-import { MapPicker } from '@/components/form/map-picker'
+import { MapPicker } from '@/components/map/map-picker'
 import { SelectForm } from '@/components/form/select-form'
 import { Input } from '@/components/ui/input'
 import { Textarea } from '@/components/ui/textarea'

@@ -1,6 +1,6 @@
 'use client'
 
-import { useCallback } from 'react'
+import { useCallback, useState } from 'react'
 import { zodResolver } from '@hookform/resolvers/zod'
 import { Loader2, Save } from 'lucide-react'
 import { useTranslations } from 'next-intl'
@@ -10,11 +10,10 @@ import { toast } from 'sonner'
 import { AddressSection } from '@/components/form/address-section'
 import { PageHeader } from '@/components/shared/page-header'
 import { Button } from '@/components/ui/button'
-import { useProvincesQuery } from '@/hooks/others/use-provinces'
+import { getNextFarmerIdAction } from '@/actions/scm/farmer.action'
 import { useSaveFarmerMutation } from '@/hooks/scm/use-farmers'
 import { useRouter } from '@/i18n/navigation'
 import { getFarmerFormSchema } from '@/schemas/scm/farmer-schema'
-import { getProvincePrefix } from '@/utils/regional-helper'
 
 import { CommoditySection } from './commodity-section'
 import { IdentitySection } from './identity-section'
@@ -36,7 +35,7 @@ export function FarmerForm({ initialData }: FarmerFormProps): ReactElement {
   const tTrace = useTranslations('scm.farmers')
   const tCommon = useTranslations('common')
   const { mutateAsync: saveFarmer, isPending } = useSaveFarmerMutation()
-  const { data: provinces = [] } = useProvincesQuery(100)
+  const [isGeneratingRef, setIsGeneratingRef] = useState(false)
 
   const {
     register,
@@ -102,11 +101,15 @@ export function FarmerForm({ initialData }: FarmerFormProps): ReactElement {
           const sId = typeof val === 'number' ? val : undefined
           if (sId) {
             setValue('state_id', sId, { shouldValidate: true, shouldDirty: true })
-            const prov = provinces.find((p) => p.id === sId)
-            const prefix = typeof prov?.prefix === 'string' && prov.prefix ? prov.prefix.toUpperCase() : getProvincePrefix(prov?.name)
-            const currentRef = watch('ref')
-            if (!isEdit || !currentRef || currentRef.startsWith('FMR-')) {
-              setValue('ref', `FMR-${prefix}-001`, { shouldValidate: true, shouldDirty: true })
+            if (!isEdit) {
+              setIsGeneratingRef(true)
+              getNextFarmerIdAction(sId)
+                .then((res) => {
+                  if (res.success && res.ref) {
+                    setValue('ref', res.ref, { shouldValidate: true, shouldDirty: true })
+                  }
+                })
+                .finally(() => setIsGeneratingRef(false))
             }
           }
         } else {
@@ -117,7 +120,7 @@ export function FarmerForm({ initialData }: FarmerFormProps): ReactElement {
         }
       })
     },
-    [setValue, provinces, isEdit, watch]
+    [setValue, isEdit]
   )
 
   const onSubmit = async (values: FarmerFormValues) => {
@@ -167,7 +170,7 @@ export function FarmerForm({ initialData }: FarmerFormProps): ReactElement {
 
       <form id="farmer-form" onSubmit={handleSubmit(onSubmit)} className="space-y-5">
         <div className="grid grid-cols-1 items-stretch gap-5 lg:grid-cols-2">
-          <IdentitySection register={register} errors={errors} isPending={isPending} />
+          <IdentitySection register={register} errors={errors} isPending={isPending} isGeneratingRef={isGeneratingRef} />
 
           <CommoditySection
             register={register}

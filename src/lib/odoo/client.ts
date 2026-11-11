@@ -127,14 +127,18 @@ export class OdooClient {
     model: string,
     domain: OdooDomain = [],
     fields: string[] = [],
-    options: { offset?: number; limit?: number; order?: string } = {}
+    options: { offset?: number; limit?: number; order?: string; context?: Record<string, OdooFieldValue> } = {}
   ): Promise<T[]> {
-    return this.executeKw<T[]>(model, 'search_read', [domain], {
+    const kwargs: Record<string, OdooFieldValue> = {
       fields,
       offset: options.offset || 0,
       limit: options.limit || 80,
       order: options.order || 'id desc'
-    })
+    }
+    if (options.context) {
+      kwargs.context = options.context
+    }
+    return this.executeKw<T[]>(model, 'search_read', [domain], kwargs)
   }
 
   /**

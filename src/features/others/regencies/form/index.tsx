@@ -1,28 +1,29 @@
 'use client'
 
-import { useEffect, useMemo } from 'react'
+import { useEffect, useMemo, useState } from 'react'
 import { zodResolver } from '@hookform/resolvers/zod'
 import { useTranslations } from 'next-intl'
 import { useForm } from 'react-hook-form'
 import { toast } from 'sonner'
 
 import { FormFieldWrapper } from '@/components/form/form-field-wrapper'
-import { ParentEntityAlert } from '@/components/form/parent-entity-alert'
-import { SelectForm } from '@/components/form/select-form'
+import { RegionalMapField } from '@/components/map/regional-map-field'
 import { Form, FormField, FormItem } from '@/components/ui/form'
-import { Input } from '@/components/ui/input'
 import { Tabs, TabsList, TabsTrigger } from '@/components/ui/tabs'
 import { Textarea } from '@/components/ui/textarea'
+import { INDONESIA_ALL_REGENCIES } from '@/data/indonesia-regions/regencies'
 import { useCountriesQuery } from '@/hooks/others/use-countries'
 import { useProvincesQuery } from '@/hooks/others/use-provinces'
 import { useCheckParentProvinceQuery, useCheckRegencyExistsQuery, useSaveRegencyMutation } from '@/hooks/others/use-regencies'
 import { useCatalogRegenciesQuery } from '@/hooks/shared/use-regional-catalog'
 import { getRegencyFormSchema } from '@/schemas/others/regency-schema'
-import { filterForeignProvinces } from '@/utils/regional-helper'
+import { filterForeignProvinces, getProvinceCentroid } from '@/utils/regional-helper'
 
+import { DomesticRegencySection } from './domestic-section'
 import { ForeignRegencySection } from './foreign-section'
 
 import type { RegencyFormValues } from '@/schemas/others/regency-schema'
+import type { MapCoordinates } from '@/types/components/map'
 import type { RegencyRecord } from '@/types/others/regency'
 import type { ReactElement } from 'react'
 
@@ -45,8 +46,8 @@ function getInitialValues(row: RegencyRecord | null): RegencyFormValues {
     province_name_raw: '',
     province_code_raw: '',
     auto_add_province: true,
-    latitude: row?.latitude || 0,
-    longitude: row?.longitude || 0
+    latitude: row?.latitude || undefined,
+    longitude: row?.longitude || undefined
   }
 }
 
@@ -56,6 +57,7 @@ export function RegencyForm({ currentRow, onSuccess, onValidationChange }: Regen
   const tReg = useTranslations('regional.common')
   const tToast = useTranslations('regional.regionalToasts')
   const { mutateAsync: saveRegency, isPending } = useSaveRegencyMutation()
+  const [activeCentroid, setActiveCentroid] = useState<MapCoordinates | null>(null)
 
   const { data: countries = [] } = useCountriesQuery()
   const { data: allProvinces = [] } = useProvincesQuery()
@@ -78,6 +80,8 @@ export function RegencyForm({ currentRow, onSuccess, onValidationChange }: Regen
   const autoAddProvince = form.watch('auto_add_province')
   const currentCode = form.watch('code')
   const currentName = form.watch('name')
+  const lat = form.watch('latitude')
+  const lng = form.watch('longitude')
 
   const { data: parentStatus, isLoading: isCheckingParent } = useCheckParentProvinceQuery(
     selectedProvName,
@@ -113,38 +117,48 @@ export function RegencyForm({ currentRow, onSuccess, onValidationChange }: Regen
       form.setValue('province_name_raw', provinceName, { shouldValidate: true })
       form.setValue('province_code_raw', provinceCode, { shouldValidate: true })
       form.setValue('country_id', 100, { shouldValidate: true })
+
+      const curated = INDONESIA_ALL_REGENCIES.find((r) => r.code === regCode)
+      if (curated && curated.latitude && curated.longitude) {
+        form.setValue('latitude', curated.latitude, { shouldValidate: true, shouldDirty: true })
+        form.setValue('longitude', curated.longitude, { shouldValidate: true, shouldDirty: true })
+        setActiveCentroid({ latitude: curated.latitude, longitude: curated.longitude, zoom: 11 })
+      } else {
+        const provCentroid = getProvinceCentroid(provinceName)
+        if (provCentroid) {
+          form.setValue('latitude', provCentroid.latitude, { shouldValidate: true, shouldDirty: true })
+          form.setValue('longitude', provCentroid.longitude, { shouldValidate: true, shouldDirty: true })
+          setActiveCentroid({ ...provCentroid, zoom: 8 })
+        }
+      }
     }
   }
 
   const foreignCountries = useMemo(() => countries.filter((c) => c.id !== 100).map((c) => ({ label: c.name, value: String(c.id) })), [countries])
   const foreignProvinces = useMemo(() => allProvinces.filter((p) => p.country_id && p.country_id[0] !== 100), [allProvinces])
-
   const availableForeignProvinces = useMemo(() => filterForeignProvinces(allProvinces, selectedCountryId), [allProvinces, selectedCountryId])
+
+  const handleSelectForeignCountry = (countryIdStr: string) => {
+    const countryId = Number(countryIdStr)
+    form.setValue('country_id', countryId, { shouldValidate: true })
+    form.setValue('state_id', undefined)
+  }
 
   const handleSelectForeignProvince = (provIdStr: string) => {
     const provId = Number(provIdStr)
     form.setValue('state_id', provId, { shouldValidate: true })
     const found = foreignProvinces.find((p) => p.id === provId)
-    if (found && found.country_id) {
+    if (found?.country_id) {
       form.setValue('country_id', found.country_id[0], { shouldValidate: true })
     }
   }
 
-  const handleSelectForeignCountry = (cntryIdStr: string) => {
-    const cntryId = Number(cntryIdStr)
-    form.setValue('country_id', cntryId, { shouldValidate: true })
-    const currentProv = foreignProvinces.find((p) => p.id === selectedStateId)
-    if (currentProv && currentProv.country_id && currentProv.country_id[0] !== cntryId) {
-      form.setValue('state_id', undefined)
-    }
-  }
-
   const onSubmit = async (values: RegencyFormValues) => {
-    if (isDomestic && isDuplicate) {
+    if (isDuplicate) {
       toast.error(tToast('alreadyExists', { entity: tReg('entities.regency') }))
       return
     }
-    if (isDomestic && isParentMissing && !values.auto_add_province) {
+    if (isParentMissing && !autoAddProvince) {
       toast.error(tToast('parentMissing', { parent: tReg('entities.province') }))
       return
     }
@@ -152,13 +166,10 @@ export function RegencyForm({ currentRow, onSuccess, onValidationChange }: Regen
       toast.error(tToast('foreignParentRequired', { parent: tReg('entities.province') }))
       return
     }
-
     try {
       const res = await saveRegency(values)
       if (res.success) {
-        toast.success(
-          isEdit ? tToast('updateSuccess', { entity: tReg('entities.regency') }) : tToast('createSuccess', { entity: tReg('entities.regency') })
-        )
+        toast.success(isEdit ? tToast('updateSuccess', { entity: tReg('entities.regency') }) : tToast('createSuccess', { entity: tReg('entities.regency') }))
         onSuccess()
         form.reset()
       } else {
@@ -169,124 +180,92 @@ export function RegencyForm({ currentRow, onSuccess, onValidationChange }: Regen
     }
   }
 
-  const catalogOptions = useMemo(
-    () => catalogRegencies.map((r) => ({ label: `${r.name} - ${r.provinceName} (${r.code})`, value: r.code })),
-    [catalogRegencies]
-  )
+  const catalogOptions = useMemo(() => catalogRegencies.map((r) => ({ label: `${r.name} (${r.provinceName})`, value: r.code })), [catalogRegencies])
 
   return (
     <Form {...form}>
-      <form
-        id="regency-action-form"
-        onSubmit={form.handleSubmit(onSubmit, (errors) => {
-          const firstKey = Object.keys(errors)[0]
-          if (firstKey) {
-            toast.error(tToast('validationFailed', { message: errors[firstKey as keyof typeof errors]?.message || '' }))
-          }
-        })}
-        className="space-y-4 px-1"
-      >
+      <form id="regency-action-form" onSubmit={form.handleSubmit(onSubmit)} className="space-y-4 px-1">
         <div className="border-border/60 flex items-center justify-between border-b pb-1">
-          <span className="text-foreground text-xs font-semibold">{tReg('category')}</span>
+          <span className="text-foreground text-xs font-semibold">{t('form.category')}</span>
           <Tabs
             value={isDomestic ? 'domestic' : 'foreign'}
             onValueChange={(val) => {
               const dom = val === 'domestic'
               form.setValue('is_domestic', dom)
-              if (dom) {
-                form.setValue('country_id', 100)
-              } else {
-                form.setValue('country_id', undefined)
-                form.setValue('state_id', undefined)
-              }
+              form.setValue('country_id', dom ? 100 : Number(foreignCountries[0]?.value || 100))
+              form.setValue('state_id', undefined)
             }}
           >
             <TabsList className="h-7 text-xs">
-              <TabsTrigger value="domestic" className="px-2.5 text-xs">
-                {tReg('domesticCatalog')}
-              </TabsTrigger>
-              <TabsTrigger value="foreign" className="px-2.5 text-xs">
-                {tReg('foreignManual')}
-              </TabsTrigger>
+              <TabsTrigger value="domestic" className="px-2.5 text-xs">{tReg('domesticCatalog')}</TabsTrigger>
+              <TabsTrigger value="foreign" className="px-2.5 text-xs">{tReg('foreignManual')}</TabsTrigger>
             </TabsList>
           </Tabs>
         </div>
 
-        {isDomestic ? (
-          <>
-            <FormFieldWrapper id="catalog-regency" label={t('form.catalogLabel')} required>
-              <SelectForm
-                placeholder={
-                  isLoadingCatalog ? tReg('placeholders.loadingCatalog', { entity: tReg('entities.regency') }) : t('form.catalogPlaceholder')
-                }
-                disabled={isPending || isLoadingCatalog}
-                value={currentCode || undefined}
-                onValueChange={handleSelectDomestic}
-                items={catalogOptions}
-                onAddNewClick={() => {
-                  form.setValue('is_domestic', false)
-                  toast.info(tToast('switchedToForeign'))
-                }}
+        <div className="grid grid-cols-1 items-start gap-5 lg:grid-cols-2">
+          {/* Left Column: Administrative Details (stacked 1-per-line, zero grid) */}
+          <div className="space-y-3.5">
+            {isDomestic ? (
+              <DomesticRegencySection
+                form={form}
+                isPending={isPending}
+                isLoadingCatalog={isLoadingCatalog}
+                currentCode={currentCode}
+                currentName={currentName}
+                catalogOptions={catalogOptions}
+                selectedProvName={selectedProvName}
+                parentStatus={parentStatus}
+                isCheckingParent={isCheckingParent}
+                autoAddProvince={autoAddProvince}
+                isDuplicate={isDuplicate}
+                duplicateId={regencyExists?.id}
+                onSelectDomestic={handleSelectDomestic}
+                t={t}
+                tReg={tReg}
+                tToast={tToast}
               />
-            </FormFieldWrapper>
-
-            <ParentEntityAlert
-              parentLabel={tReg('parentAlert.parentProvince')}
-              parentName={selectedProvName}
-              entityTypeLabel={tReg('entities.regency')}
-              parentTypeLabel={tReg('entities.province')}
-              isChecking={isCheckingParent}
-              exists={Boolean(parentStatus?.exists)}
-              autoAdd={autoAddProvince}
-              onAutoAddChange={(checked: boolean) => form.setValue('auto_add_province', checked)}
-              isDuplicate={isDuplicate}
-              duplicateId={regencyExists?.id}
-              currentName={currentName}
-            />
+            ) : (
+              <ForeignRegencySection
+                form={form}
+                isPending={isPending}
+                foreignCountries={foreignCountries}
+                availableForeignProvinces={availableForeignProvinces}
+                selectedCountryId={selectedCountryId}
+                selectedStateId={selectedStateId}
+                onCountryChange={handleSelectForeignCountry}
+                onProvinceChange={handleSelectForeignProvince}
+                t={t}
+              />
+            )}
 
             <FormField
               control={form.control}
-              name="alias"
+              name="description"
               render={({ field }) => (
                 <FormItem>
-                  <FormFieldWrapper id="reg-alias" label={t('form.aliasLabel')} required error={form.formState.errors.alias?.message}>
-                    <Input id="reg-alias" placeholder={t('form.aliasPlaceholder')} disabled={isPending} {...field} />
+                  <FormFieldWrapper id="reg-desc" label={t('form.descLabel')} error={form.formState.errors.description?.message}>
+                    <Textarea id="reg-desc" rows={2} placeholder={t('form.descPlaceholder') || tReg('placeholders.defaultNotes')} disabled={isPending} {...field} />
                   </FormFieldWrapper>
                 </FormItem>
               )}
             />
-          </>
-        ) : (
-          <ForeignRegencySection
-            form={form}
-            isPending={isPending}
-            foreignCountries={foreignCountries}
-            availableForeignProvinces={availableForeignProvinces}
-            selectedCountryId={selectedCountryId}
-            selectedStateId={selectedStateId}
-            onCountryChange={handleSelectForeignCountry}
-            onProvinceChange={handleSelectForeignProvince}
-            t={t}
-          />
-        )}
+          </div>
 
-        <FormField
-          control={form.control}
-          name="description"
-          render={({ field }) => (
-            <FormItem>
-              <FormFieldWrapper id="reg-desc" label={t('form.descLabel')} error={form.formState.errors.description?.message}>
-                <Textarea
-                  id="reg-desc"
-                  rows={3}
-                  placeholder={t('form.descPlaceholder') || tReg('placeholders.defaultNotes')}
-                  disabled={isPending}
-                  {...field}
-                />
-              </FormFieldWrapper>
-            </FormItem>
-          )}
-        />
+          {/* Right Column: Interactive MapPicker */}
+          <div className="border-border/60 bg-muted/10 rounded-lg border p-3">
+            <RegionalMapField
+              latitude={lat}
+              longitude={lng}
+              centroidPan={activeCentroid}
+              disabled={isPending}
+              onLocationChange={({ latitude, longitude }) => {
+                form.setValue('latitude', latitude, { shouldValidate: true, shouldDirty: true })
+                form.setValue('longitude', longitude, { shouldValidate: true, shouldDirty: true })
+              }}
+            />
+          </div>
+        </div>
       </form>
     </Form>
   )

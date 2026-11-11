@@ -255,7 +255,7 @@ export async function deleteDistrict(id: number): Promise<{ success: boolean; er
   try {
     await odoo.client.unlink('res.country.district', [id])
     return { success: true }
-  } catch (err: unknown) {
+  } catch (err) {
     const msg = err instanceof Error ? err.message : String(err)
     if (msg.includes('foreign key') || msg.includes('still referenced') || msg.includes('restrict') || msg.includes('linked')) {
       return {

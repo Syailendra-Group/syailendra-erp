@@ -23,7 +23,9 @@
     "continue": "Continue",
     "addNew": "Add new option...",
     "createOption": "Create new data",
-    "create": "Create"
+    "create": "Create",
+    "copy": "Copy text",
+    "close": "Close"
   },
   "status": {
     "loading": "Loading data...",
@@ -33,7 +35,8 @@
     "active": "Active",
     "archived": "Archived",
     "title": "Status",
-    "saving": "Saving..."
+    "saving": "Saving...",
+    "inactive": "Inactive"
   },
   "table": {
     "asc": "Asc",
@@ -43,7 +46,8 @@
     "actions": "Actions",
     "noResults": "No results found.",
     "selected": "selected",
-    "clearFilters": "Clear filters"
+    "clearFilters": "Clear filters",
+    "coordinates": "GPS Coordinates"
   },
   "pagination": {
     "totalRows": "Total {total} rows",
@@ -113,7 +117,13 @@
   "map": {
     "loading": "Loading Interactive Map...",
     "locateMe": "Locate Me",
-    "locating": "Locating GPS..."
+    "locating": "Locating GPS...",
+    "openGmaps": "Open in Google Maps",
+    "subtitle": "Click map or drag pin to set regional centroid",
+    "copyCoords": "Copy Coordinates",
+    "copied": "Coordinates copied to clipboard",
+    "noCoords": "GPS Coordinates not registered",
+    "noCoordsDesc": "Update address details to pin location coordinates on the map."
   },
   "select": {
     "loadingMore": "Loading more data...",
@@ -130,6 +140,8 @@
   },
   "messages": {
     "error": "A system error occurred",
-    "saved": "Data saved successfully"
+    "saved": "Data saved successfully",
+    "copied": "Copied to clipboard",
+    "copyFailed": "Failed to copy to clipboard"
   }
 }

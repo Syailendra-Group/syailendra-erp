@@ -1,6 +1,6 @@
 'use client'
 
-import { useEffect, useMemo } from 'react'
+import { useEffect, useMemo, useState } from 'react'
 import { zodResolver } from '@hookform/resolvers/zod'
 import { useTranslations } from 'next-intl'
 import { useForm } from 'react-hook-form'
@@ -8,11 +8,13 @@ import { toast } from 'sonner'
 
 import { FormFieldWrapper } from '@/components/form/form-field-wrapper'
 import { ParentEntityAlert } from '@/components/form/parent-entity-alert'
+import { RegionalMapField } from '@/components/map/regional-map-field'
 import { SelectForm } from '@/components/form/select-form'
 import { Form, FormField, FormItem } from '@/components/ui/form'
 import { Input } from '@/components/ui/input'
 import { Tabs, TabsList, TabsTrigger } from '@/components/ui/tabs'
 import { Textarea } from '@/components/ui/textarea'
+import { INDONESIA_ALL_REGENCIES } from '@/data/indonesia-regions/regencies'
 import { useCheckParentDistrictQuery, useCheckVillageExistsQuery, useSaveVillageMutation } from '@/hooks/others/use-villages'
 import { useCatalogDistrictsQuery, useCatalogVillagesQuery } from '@/hooks/shared/use-regional-catalog'
 import { getVillageFormSchema } from '@/schemas/others/village-schema'
@@ -20,6 +22,7 @@ import { getVillageFormSchema } from '@/schemas/others/village-schema'
 import { ForeignVillageSection } from './foreign-section'
 
 import type { VillageFormValues } from '@/schemas/others/village-schema'
+import type { MapCoordinates } from '@/types/components/map'
 import type { VillageRecord } from '@/types/others/village'
 import type { ReactElement } from 'react'
 
@@ -47,8 +50,8 @@ function getInitialValues(row: VillageRecord | null): VillageFormValues {
     province_code_raw: '',
     auto_add_district: true,
     zip_code: (row?.zip_code as string) || '',
-    latitude: row?.latitude || 0,
-    longitude: row?.longitude || 0
+    latitude: row?.latitude || undefined,
+    longitude: row?.longitude || undefined
   }
 }
 
@@ -59,6 +62,7 @@ export function VillageForm({ currentRow, onSuccess, onValidationChange }: Villa
   const tToast = useTranslations('regional.regionalToasts')
   const tForeign = useTranslations('regional.foreignForm')
   const { mutateAsync: saveVillage, isPending } = useSaveVillageMutation()
+  const [activeCentroid, setActiveCentroid] = useState<MapCoordinates | null>(null)
 
   const form = useForm<VillageFormValues>({
     resolver: zodResolver(getVillageFormSchema(t)),
@@ -75,6 +79,8 @@ export function VillageForm({ currentRow, onSuccess, onValidationChange }: Villa
   const autoAddDistrict = form.watch('auto_add_district')
   const currentCode = form.watch('code')
   const currentName = form.watch('name')
+  const lat = form.watch('latitude')
+  const lng = form.watch('longitude')
 
   const { data: catalogDistricts = [] } = useCatalogDistrictsQuery({ enabled: isDomestic })
   const { data: catalogVillages = [], isLoading: isLoadingCatalog } = useCatalogVillagesQuery({
@@ -117,6 +123,13 @@ export function VillageForm({ currentRow, onSuccess, onValidationChange }: Villa
       form.setValue('code', '', { shouldValidate: true })
       form.setValue('name', '', { shouldValidate: true })
       form.setValue('alias', '', { shouldValidate: true })
+
+      const regCurated = INDONESIA_ALL_REGENCIES.find((r) => r.code === found.regencyCode)
+      if (regCurated && regCurated.latitude && regCurated.longitude) {
+        form.setValue('latitude', regCurated.latitude, { shouldValidate: true, shouldDirty: true })
+        form.setValue('longitude', regCurated.longitude, { shouldValidate: true, shouldDirty: true })
+        setActiveCentroid({ latitude: regCurated.latitude, longitude: regCurated.longitude, zoom: 13 })
+      }
     }
   }
 
@@ -142,7 +155,6 @@ export function VillageForm({ currentRow, onSuccess, onValidationChange }: Villa
       toast.error(tToast('foreignParentRequired', { parent: tReg('entities.district') }))
       return
     }
-
     try {
       const res = await saveVillage(values)
       if (res.success) {
@@ -160,7 +172,6 @@ export function VillageForm({ currentRow, onSuccess, onValidationChange }: Villa
   }
 
   const districtCatalogOptions = useMemo(() => catalogDistricts.map((d) => ({ label: `${d.name} (${d.code})`, value: d.code })), [catalogDistricts])
-
   const villageCatalogOptions = useMemo(() => catalogVillages.map((v) => ({ label: `${v.name} (${v.code})`, value: v.code })), [catalogVillages])
 
   return (
@@ -169,9 +180,7 @@ export function VillageForm({ currentRow, onSuccess, onValidationChange }: Villa
         id="village-action-form"
         onSubmit={form.handleSubmit(onSubmit, (errors) => {
           const firstKey = Object.keys(errors)[0]
-          if (firstKey) {
-            toast.error(tToast('validationFailed', { message: errors[firstKey as keyof typeof errors]?.message || '' }))
-          }
+          if (firstKey) toast.error(tToast('validationFailed', { message: errors[firstKey as keyof typeof errors]?.message || '' }))
         })}
         className="space-y-4 px-1"
       >
@@ -182,10 +191,8 @@ export function VillageForm({ currentRow, onSuccess, onValidationChange }: Villa
             onValueChange={(val) => {
               const dom = val === 'domestic'
               form.setValue('is_domestic', dom)
-              if (dom) {
-                form.setValue('country_id', 100)
-              } else {
-                form.setValue('country_id', undefined)
+              form.setValue('country_id', dom ? 100 : undefined)
+              if (!dom) {
                 form.setValue('state_id', undefined)
                 form.setValue('city_id', undefined)
                 form.setValue('district_id', undefined)
@@ -193,100 +200,94 @@ export function VillageForm({ currentRow, onSuccess, onValidationChange }: Villa
             }}
           >
             <TabsList className="h-7 text-xs">
-              <TabsTrigger value="domestic" className="px-2.5 text-xs">
-                {tReg('domesticCatalog')}
-              </TabsTrigger>
-              <TabsTrigger value="foreign" className="px-2.5 text-xs">
-                {tReg('foreignManual')}
-              </TabsTrigger>
+              <TabsTrigger value="domestic" className="px-2.5 text-xs">{tReg('domesticCatalog')}</TabsTrigger>
+              <TabsTrigger value="foreign" className="px-2.5 text-xs">{tReg('foreignManual')}</TabsTrigger>
             </TabsList>
           </Tabs>
         </div>
 
-        {isDomestic ? (
-          <>
-            <div className="grid grid-cols-1 gap-3.5 sm:grid-cols-2">
-              <FormFieldWrapper id="catalog-dist-filter" label={t('form.selectDistrictCatalog')} required>
-                <SelectForm
-                  placeholder={tForeign('selectDistrictCatalogPlaceholder')}
-                  value={selectedDistCode || undefined}
-                  onValueChange={handleSelectDistrict}
-                  items={districtCatalogOptions}
-                />
-              </FormFieldWrapper>
+        <div className="grid grid-cols-1 items-start gap-5 lg:grid-cols-2">
+          {/* Left Column: Administrative Details (stacked 1-per-line, zero grid) */}
+          <div className="space-y-3.5">
+            {isDomestic ? (
+              <>
+                <FormFieldWrapper id="catalog-dist-filter" label={t('form.selectDistrictCatalog')} required>
+                  <SelectForm placeholder={tForeign('selectDistrictCatalogPlaceholder')} value={selectedDistCode || undefined} onValueChange={handleSelectDistrict} items={districtCatalogOptions} />
+                </FormFieldWrapper>
 
-              <FormFieldWrapper id="catalog-village" label={t('form.selectVillageCatalog')} required>
-                <SelectForm
-                  placeholder={
-                    !selectedDistCode
-                      ? t('form.selectDistrictFirst')
-                      : isLoadingCatalog
-                        ? t('form.loadingVillages')
-                        : t('form.selectVillagePlaceholder')
-                  }
-                  disabled={isPending || !selectedDistCode || isLoadingCatalog}
-                  value={currentCode || undefined}
-                  onValueChange={handleSelectVillage}
-                  items={villageCatalogOptions}
-                />
-              </FormFieldWrapper>
-            </div>
+                <FormFieldWrapper id="catalog-village" label={t('form.selectVillageCatalog')} required>
+                  <SelectForm placeholder={!selectedDistCode ? t('form.selectDistrictFirst') : isLoadingCatalog ? t('form.loadingVillages') : t('form.selectVillagePlaceholder')} disabled={isPending || !selectedDistCode || isLoadingCatalog} value={currentCode || undefined} onValueChange={handleSelectVillage} items={villageCatalogOptions} />
+                </FormFieldWrapper>
 
-            <ParentEntityAlert
-              parentLabel={tReg('parentAlert.parentDistrict')}
-              parentName={selectedDistName}
-              isChecking={isCheckingParent}
-              exists={Boolean(parentStatus?.exists)}
-              autoAdd={autoAddDistrict}
-              onAutoAddChange={(checked) => form.setValue('auto_add_district', checked)}
-              isDuplicate={isDuplicate}
-              duplicateId={villageExists?.id}
-              currentName={currentName}
-              entityTypeLabel={tReg('entities.village')}
-              parentTypeLabel={tReg('entities.district')}
+                <ParentEntityAlert
+                  parentLabel={tReg('parentAlert.parentDistrict')}
+                  parentName={selectedDistName}
+                  isChecking={isCheckingParent}
+                  exists={Boolean(parentStatus?.exists)}
+                  autoAdd={autoAddDistrict}
+                  onAutoAddChange={(checked) => form.setValue('auto_add_district', checked)}
+                  isDuplicate={isDuplicate}
+                  duplicateId={villageExists?.id}
+                  currentName={currentName}
+                  entityTypeLabel={tReg('entities.village')}
+                  parentTypeLabel={tReg('entities.district')}
+                />
+
+                <FormField
+                  control={form.control}
+                  name="zip_code"
+                  render={({ field }) => (
+                    <FormItem>
+                      <FormFieldWrapper id="vil-zip" label={t('form.zipLabel')} error={form.formState.errors.zip_code?.message}>
+                        <Input id="vil-zip" placeholder={t('form.zipPlaceholder')} disabled={isPending} {...field} />
+                      </FormFieldWrapper>
+                    </FormItem>
+                  )}
+                />
+
+                <FormField
+                  control={form.control}
+                  name="alias"
+                  render={({ field }) => (
+                    <FormItem>
+                      <FormFieldWrapper id="vil-alias" label={t('form.aliasLabel')} required error={form.formState.errors.alias?.message}>
+                        <Input id="vil-alias" placeholder={t('form.aliasPlaceholder')} disabled={isPending} {...field} />
+                      </FormFieldWrapper>
+                    </FormItem>
+                  )}
+                />
+              </>
+            ) : (
+              <ForeignVillageSection form={form} isPending={isPending} t={t} />
+            )}
+
+            <FormField
+              control={form.control}
+              name="description"
+              render={({ field }) => (
+                <FormItem>
+                  <FormFieldWrapper id="vil-desc" label={t('form.descLabel')} error={form.formState.errors.description?.message}>
+                    <Textarea id="vil-desc" rows={2} placeholder={t('form.descPlaceholder')} disabled={isPending} {...field} />
+                  </FormFieldWrapper>
+                </FormItem>
+              )}
             />
+          </div>
 
-            <div className="grid grid-cols-1 gap-3.5 sm:grid-cols-2">
-              <FormField
-                control={form.control}
-                name="zip_code"
-                render={({ field }) => (
-                  <FormItem>
-                    <FormFieldWrapper id="vil-zip" label={t('form.zipLabel')} error={form.formState.errors.zip_code?.message}>
-                      <Input id="vil-zip" placeholder={t('form.zipPlaceholder')} disabled={isPending} {...field} />
-                    </FormFieldWrapper>
-                  </FormItem>
-                )}
-              />
-
-              <FormField
-                control={form.control}
-                name="alias"
-                render={({ field }) => (
-                  <FormItem>
-                    <FormFieldWrapper id="vil-alias" label={t('form.aliasLabel')} required error={form.formState.errors.alias?.message}>
-                      <Input id="vil-alias" placeholder={t('form.aliasPlaceholder')} disabled={isPending} {...field} />
-                    </FormFieldWrapper>
-                  </FormItem>
-                )}
-              />
-            </div>
-          </>
-        ) : (
-          <ForeignVillageSection form={form} isPending={isPending} t={t} />
-        )}
-
-        <FormField
-          control={form.control}
-          name="description"
-          render={({ field }) => (
-            <FormItem>
-              <FormFieldWrapper id="vil-desc" label={t('form.descLabel')} error={form.formState.errors.description?.message}>
-                <Textarea id="vil-desc" rows={3} placeholder={t('form.descPlaceholder')} disabled={isPending} {...field} />
-              </FormFieldWrapper>
-            </FormItem>
-          )}
-        />
+          {/* Right Column: Interactive MapPicker */}
+          <div className="border-border/60 bg-muted/10 rounded-lg border p-3">
+            <RegionalMapField
+              latitude={lat}
+              longitude={lng}
+              centroidPan={activeCentroid}
+              disabled={isPending}
+              onLocationChange={({ latitude, longitude }) => {
+                form.setValue('latitude', latitude, { shouldValidate: true, shouldDirty: true })
+                form.setValue('longitude', longitude, { shouldValidate: true, shouldDirty: true })
+              }}
+            />
+          </div>
+        </div>
       </form>
     </Form>
   )

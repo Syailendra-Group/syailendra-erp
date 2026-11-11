@@ -1,6 +1,6 @@
 'use client'
 
-import { useEffect, useMemo } from 'react'
+import { useEffect, useMemo, useState } from 'react'
 import { zodResolver } from '@hookform/resolvers/zod'
 import { useTranslations } from 'next-intl'
 import { useForm } from 'react-hook-form'
@@ -8,11 +8,13 @@ import { toast } from 'sonner'
 
 import { FormFieldWrapper } from '@/components/form/form-field-wrapper'
 import { ParentEntityAlert } from '@/components/form/parent-entity-alert'
+import { RegionalMapField } from '@/components/map/regional-map-field'
 import { SelectForm } from '@/components/form/select-form'
 import { Form, FormField, FormItem } from '@/components/ui/form'
 import { Input } from '@/components/ui/input'
 import { Tabs, TabsList, TabsTrigger } from '@/components/ui/tabs'
 import { Textarea } from '@/components/ui/textarea'
+import { INDONESIA_ALL_REGENCIES } from '@/data/indonesia-regions/regencies'
 import { useCheckDistrictExistsQuery, useCheckParentRegencyQuery, useSaveDistrictMutation } from '@/hooks/others/use-districts'
 import { useCatalogDistrictsQuery, useCatalogRegenciesQuery } from '@/hooks/shared/use-regional-catalog'
 import { getDistrictFormSchema } from '@/schemas/others/district-schema'
@@ -20,6 +22,7 @@ import { getDistrictFormSchema } from '@/schemas/others/district-schema'
 import { ForeignDistrictSection } from './foreign-section'
 
 import type { DistrictFormValues } from '@/schemas/others/district-schema'
+import type { MapCoordinates } from '@/types/components/map'
 import type { DistrictRecord } from '@/types/others/district'
 import type { ReactElement } from 'react'
 
@@ -45,8 +48,8 @@ function getInitialValues(row: DistrictRecord | null): DistrictFormValues {
     province_name_raw: '',
     province_code_raw: '',
     auto_add_regency: true,
-    latitude: row?.latitude || 0,
-    longitude: row?.longitude || 0
+    latitude: row?.latitude || undefined,
+    longitude: row?.longitude || undefined
   }
 }
 
@@ -56,6 +59,7 @@ export function DistrictForm({ currentRow, onSuccess, onValidationChange }: Dist
   const tReg = useTranslations('regional.common')
   const tToast = useTranslations('regional.regionalToasts')
   const { mutateAsync: saveDistrict, isPending } = useSaveDistrictMutation()
+  const [activeCentroid, setActiveCentroid] = useState<MapCoordinates | null>(null)
 
   const form = useForm<DistrictFormValues>({
     resolver: zodResolver(getDistrictFormSchema(t)),
@@ -74,6 +78,8 @@ export function DistrictForm({ currentRow, onSuccess, onValidationChange }: Dist
   const autoAddRegency = form.watch('auto_add_regency')
   const currentCode = form.watch('code')
   const currentName = form.watch('name')
+  const lat = form.watch('latitude')
+  const lng = form.watch('longitude')
 
   const { data: parentStatus, isLoading: isCheckingParent } = useCheckParentRegencyQuery(
     selectedRegName,
@@ -115,6 +121,12 @@ export function DistrictForm({ currentRow, onSuccess, onValidationChange }: Dist
       const reg = catalogRegencies.find((r) => r.code === found.regencyCode)
       if (reg) {
         form.setValue('regency_name_raw', reg.name, { shouldValidate: true })
+        const regCurated = INDONESIA_ALL_REGENCIES.find((r) => r.code === found.regencyCode)
+        if (regCurated && regCurated.latitude && regCurated.longitude) {
+          form.setValue('latitude', regCurated.latitude, { shouldValidate: true, shouldDirty: true })
+          form.setValue('longitude', regCurated.longitude, { shouldValidate: true, shouldDirty: true })
+          setActiveCentroid({ latitude: regCurated.latitude, longitude: regCurated.longitude, zoom: 12 })
+        }
       }
     }
   }
@@ -132,7 +144,6 @@ export function DistrictForm({ currentRow, onSuccess, onValidationChange }: Dist
       toast.error(tToast('foreignParentRequired', { parent: tReg('entities.regency') }))
       return
     }
-
     try {
       const res = await saveDistrict(values)
       if (res.success) {
@@ -154,8 +165,7 @@ export function DistrictForm({ currentRow, onSuccess, onValidationChange }: Dist
     catalogRegencies.forEach((r) => regMap.set(r.code, r.name))
     return catalogDistricts.map((d) => {
       const regName = regMap.get(d.regencyCode)
-      const label = regName ? `${d.name} - ${regName} (${d.code})` : `${d.name} (${d.code})`
-      return { label, value: d.code }
+      return { label: regName ? `${d.name} - ${regName} (${d.code})` : `${d.name} (${d.code})`, value: d.code }
     })
   }, [catalogDistricts, catalogRegencies])
 
@@ -165,9 +175,7 @@ export function DistrictForm({ currentRow, onSuccess, onValidationChange }: Dist
         id="district-action-form"
         onSubmit={form.handleSubmit(onSubmit, (errors) => {
           const firstKey = Object.keys(errors)[0]
-          if (firstKey) {
-            toast.error(tToast('validationFailed', { message: errors[firstKey as keyof typeof errors]?.message || '' }))
-          }
+          if (firstKey) toast.error(tToast('validationFailed', { message: errors[firstKey as keyof typeof errors]?.message || '' }))
         })}
         className="space-y-4 px-1"
       >
@@ -178,85 +186,96 @@ export function DistrictForm({ currentRow, onSuccess, onValidationChange }: Dist
             onValueChange={(val) => {
               const dom = val === 'domestic'
               form.setValue('is_domestic', dom)
-              if (dom) {
-                form.setValue('country_id', 100)
-              } else {
-                form.setValue('country_id', undefined)
+              form.setValue('country_id', dom ? 100 : undefined)
+              if (!dom) {
                 form.setValue('state_id', undefined)
                 form.setValue('city_id', undefined)
               }
             }}
           >
             <TabsList className="h-7 text-xs">
-              <TabsTrigger value="domestic" className="px-2.5 text-xs">
-                {tReg('domesticCatalog')}
-              </TabsTrigger>
-              <TabsTrigger value="foreign" className="px-2.5 text-xs">
-                {tReg('foreignManual')}
-              </TabsTrigger>
+              <TabsTrigger value="domestic" className="px-2.5 text-xs">{tReg('domesticCatalog')}</TabsTrigger>
+              <TabsTrigger value="foreign" className="px-2.5 text-xs">{tReg('foreignManual')}</TabsTrigger>
             </TabsList>
           </Tabs>
         </div>
 
-        {isDomestic ? (
-          <>
-            <FormFieldWrapper id="catalog-district" label={t('form.catalogLabel')} required>
-              <SelectForm
-                placeholder={
-                  isLoadingCatalog ? tReg('placeholders.loadingCatalog', { entity: tReg('entities.district') }) : t('form.catalogPlaceholder')
-                }
-                disabled={isPending || isLoadingCatalog}
-                value={currentCode || undefined}
-                onValueChange={handleSelectDomestic}
-                items={catalogOptions}
-                onAddNewClick={() => {
-                  form.setValue('is_domestic', false)
-                  toast.info(tToast('switchedToForeign'))
-                }}
-              />
-            </FormFieldWrapper>
+        <div className="grid grid-cols-1 items-start gap-5 lg:grid-cols-2">
+          {/* Left Column: Administrative Details (stacked 1-per-line, zero grid) */}
+          <div className="space-y-3.5">
+            {isDomestic ? (
+              <>
+                <FormFieldWrapper id="catalog-district" label={t('form.catalogLabel')} required>
+                  <SelectForm
+                    placeholder={isLoadingCatalog ? tReg('placeholders.loadingCatalog', { entity: tReg('entities.district') }) : t('form.catalogPlaceholder')}
+                    disabled={isPending || isLoadingCatalog}
+                    value={currentCode || undefined}
+                    onValueChange={handleSelectDomestic}
+                    items={catalogOptions}
+                    onAddNewClick={() => {
+                      form.setValue('is_domestic', false)
+                      toast.info(tToast('switchedToForeign'))
+                    }}
+                  />
+                </FormFieldWrapper>
 
-            <ParentEntityAlert
-              parentLabel={tReg('parentAlert.parentRegency')}
-              parentName={selectedRegName}
-              isChecking={isCheckingParent}
-              exists={Boolean(parentStatus?.exists)}
-              autoAdd={autoAddRegency}
-              onAutoAddChange={(checked) => form.setValue('auto_add_regency', checked)}
-              isDuplicate={isDuplicate}
-              duplicateId={districtExists?.id}
-              currentName={currentName}
-              entityTypeLabel={tReg('entities.district')}
-              parentTypeLabel={tReg('entities.regency')}
-            />
+                <ParentEntityAlert
+                  parentLabel={tReg('parentAlert.parentRegency')}
+                  parentName={selectedRegName}
+                  isChecking={isCheckingParent}
+                  exists={Boolean(parentStatus?.exists)}
+                  autoAdd={autoAddRegency}
+                  onAutoAddChange={(checked) => form.setValue('auto_add_regency', checked)}
+                  isDuplicate={isDuplicate}
+                  duplicateId={districtExists?.id}
+                  currentName={currentName}
+                  entityTypeLabel={tReg('entities.district')}
+                  parentTypeLabel={tReg('entities.regency')}
+                />
+
+                <FormField
+                  control={form.control}
+                  name="alias"
+                  render={({ field }) => (
+                    <FormItem>
+                      <FormFieldWrapper id="dist-alias" label={t('form.aliasLabel')} required error={form.formState.errors.alias?.message}>
+                        <Input id="dist-alias" placeholder={t('form.aliasPlaceholder')} disabled={isPending} {...field} />
+                      </FormFieldWrapper>
+                    </FormItem>
+                  )}
+                />
+              </>
+            ) : (
+              <ForeignDistrictSection form={form} isPending={isPending} t={t} />
+            )}
 
             <FormField
               control={form.control}
-              name="alias"
+              name="description"
               render={({ field }) => (
                 <FormItem>
-                  <FormFieldWrapper id="dist-alias" label={t('form.aliasLabel')} required error={form.formState.errors.alias?.message}>
-                    <Input id="dist-alias" placeholder={t('form.aliasPlaceholder')} disabled={isPending} {...field} />
+                  <FormFieldWrapper id="dist-desc" label={t('form.descLabel')} error={form.formState.errors.description?.message}>
+                    <Textarea id="dist-desc" rows={2} placeholder={t('form.descPlaceholder')} disabled={isPending} {...field} />
                   </FormFieldWrapper>
                 </FormItem>
               )}
             />
-          </>
-        ) : (
-          <ForeignDistrictSection form={form} isPending={isPending} t={t} />
-        )}
+          </div>
 
-        <FormField
-          control={form.control}
-          name="description"
-          render={({ field }) => (
-            <FormItem>
-              <FormFieldWrapper id="dist-desc" label={t('form.descLabel')} error={form.formState.errors.description?.message}>
-                <Textarea id="dist-desc" rows={3} placeholder={t('form.descPlaceholder')} disabled={isPending} {...field} />
-              </FormFieldWrapper>
-            </FormItem>
-          )}
-        />
+          {/* Right Column: Interactive MapPicker */}
+          <div className="border-border/60 bg-muted/10 rounded-lg border p-3">
+            <RegionalMapField
+              latitude={lat}
+              longitude={lng}
+              centroidPan={activeCentroid}
+              disabled={isPending}
+              onLocationChange={({ latitude, longitude }) => {
+                form.setValue('latitude', latitude, { shouldValidate: true, shouldDirty: true })
+                form.setValue('longitude', longitude, { shouldValidate: true, shouldDirty: true })
+              }}
+            />
+          </div>
+        </div>
       </form>
     </Form>
   )

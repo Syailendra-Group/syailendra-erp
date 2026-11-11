@@ -14,9 +14,10 @@ export interface ActionDialogProps {
   onOpenChange: (open: boolean) => void
   title: string
   description?: string
-  formId: string
+  formId?: string
   isPending?: boolean
   isEdit?: boolean
+  isView?: boolean
   submitDisabled?: boolean
   submitLabel?: string
   cancelLabel?: string
@@ -33,6 +34,7 @@ export function ActionDialog({
   formId,
   isPending = false,
   isEdit = false,
+  isView = false,
   submitDisabled = false,
   submitLabel,
   cancelLabel,
@@ -50,16 +52,24 @@ export function ActionDialog({
           {description && <DialogDescription className="text-xs leading-relaxed">{description}</DialogDescription>}
         </DialogHeader>
 
-        <div className="max-h-[70vh] w-full overflow-y-auto py-1 pe-2">{children}</div>
+        <div className="h-105 w-[calc(100%+0.75rem)] overflow-y-auto py-1 pe-3">{children}</div>
 
         <DialogFooter className="border-border/50 mt-4 gap-2 border-t pt-3">
-          <Button type="button" variant="outline" disabled={isPending} onClick={() => onOpenChange(false)}>
-            {cancelLabel || tCommon('actions.cancel')}
-          </Button>
-          <Button type="submit" form={formId} disabled={isPending || submitDisabled} className="cursor-pointer gap-2 font-semibold">
-            {isPending && <Loader2 className="size-4 animate-spin" />}
-            <span>{isPending ? tCommon('actions.loading') : submitLabel || (isEdit ? tCommon('actions.save') : tCommon('actions.create'))}</span>
-          </Button>
+          {isView ? (
+            <Button type="button" variant="outline" onClick={() => onOpenChange(false)} className="cursor-pointer">
+              {cancelLabel || tCommon('actions.close')}
+            </Button>
+          ) : (
+            <>
+              <Button type="button" variant="outline" disabled={isPending} onClick={() => onOpenChange(false)}>
+                {cancelLabel || tCommon('actions.cancel')}
+              </Button>
+              <Button type="submit" form={formId} disabled={isPending || submitDisabled} className="cursor-pointer gap-2 font-semibold">
+                {isPending && <Loader2 className="size-4 animate-spin" />}
+                <span>{isPending ? tCommon('actions.loading') : submitLabel || (isEdit ? tCommon('actions.save') : tCommon('actions.create'))}</span>
+              </Button>
+            </>
+          )}
         </DialogFooter>
       </DialogContent>
     </Dialog>

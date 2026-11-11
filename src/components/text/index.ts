@@ -1,3 +1,6 @@
 export * from './long-text'
 export * from './primary-text'
 export * from './icon-text'
+export * from './link-text'
+export * from './coords-link'
+export * from './copyable-text'

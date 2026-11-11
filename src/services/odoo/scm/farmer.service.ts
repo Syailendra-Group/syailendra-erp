@@ -5,6 +5,7 @@
 
 import { odoo } from '@/lib/odoo'
 import { buildPolishOrDomain, buildStatusDomain } from '@/utils'
+import { getProvincePrefix } from '@/utils/regional-helper'
 
 import type { OdooDomain, OdooFieldValue } from '@/lib/odoo/types'
 import type { FarmerFormValues } from '@/schemas/scm/farmer-schema'
@@ -27,25 +28,12 @@ export interface PaginatedFarmersResult {
   pageCount: number
 }
 
+function stripHtmlTags(raw: string): string {
+  return raw.replace(/<[^>]+>/g, '').trim()
+}
+
 function mapPartnerToFarmer(r: Record<string, OdooFieldValue>): FarmerRecord {
-  const comment = (r.comment as string) || ''
-  let commodity = 'gaharu'
-  if (comment.toLowerCase().includes('nilam')) commodity = 'nilam'
-  else if (comment.toLowerCase().includes('serai')) commodity = 'serai'
-  else if (comment.toLowerCase().includes('kopi')) commodity = 'kopi'
-  else if (comment.toLowerCase().includes('cengkeh')) commodity = 'cengkeh'
-
-  let land_area_m2 = 2500
-  const landMatch = comment.match(/Luas Lahan:\s*(\d+)/i)
-  if (landMatch && landMatch[1]) {
-    land_area_m2 = parseInt(landMatch[1], 10)
-  }
-
-  let legacy_code: string | false = false
-  const legacyMatch = comment.match(/Accurate:\s*([^\s|]+)/i)
-  if (legacyMatch && legacyMatch[1]) {
-    legacy_code = legacyMatch[1]
-  }
+  const rawComment = typeof r.comment === 'string' ? stripHtmlTags(r.comment) : ''
 
   return {
     id: r.id as number,
@@ -58,19 +46,20 @@ function mapPartnerToFarmer(r: Record<string, OdooFieldValue>): FarmerRecord {
     partner_longitude: Number(r.partner_longitude) || 0,
     phone: (r.phone as string) || false,
     email: (r.email as string) || false,
-    comment: comment || false,
-    commodity,
-    farming_method: comment.toLowerCase().includes('organik') ? 'organic' : 'conventional',
-    land_area_m2,
+    comment: rawComment || false,
+    commodity: (r.commodity as string) || 'cengkeh',
+    farming_method: (r.farming_method as string) || 'organic',
+    land_area_m2: typeof r.land_area_m2 === 'number' ? r.land_area_m2 : 0,
     active: Boolean(r.active),
-    legacy_code,
+    legacy_code: (r.legacy_code as string) || false,
     country_id: (r.country_id as [number, string]) || false,
     state_id: (r.state_id as [number, string]) || false,
     city_id: (r.city_id as [number, string]) || false,
     district_id: (r.district_id as [number, string]) || false,
     subdistrict_id: (r.subdistrict_id as [number, string]) || false,
     zip_code: (r.zip as string) || false,
-    address_detail: (r.address_detail as string) || false
+    address_detail: (r.address_detail as string) || false,
+    address_benchmark: (r.address_benchmark as string) || false
   }
 }
 
@@ -93,7 +82,12 @@ const FARMER_READ_FIELDS = [
   'district_id',
   'subdistrict_id',
   'zip',
-  'address_detail'
+  'address_detail',
+  'address_benchmark',
+  'commodity',
+  'farming_method',
+  'land_area_m2',
+  'legacy_code'
 ]
 
 export async function fetchFarmers(): Promise<FarmerRecord[]> {
@@ -112,7 +106,7 @@ export async function fetchFarmersPaginated(params: FetchFarmersParams = {}): Pr
   const statusTuples = buildStatusDomain(status)
   statusTuples.forEach((t) => domain.push(t))
 
-  const commodityDomain = buildPolishOrDomain('comment', commodity, 'ilike')
+  const commodityDomain = buildPolishOrDomain('commodity', commodity, '=')
   commodityDomain.forEach((d) => domain.push(d))
 
   if (search.trim()) {
@@ -179,16 +173,7 @@ export async function persistFarmer(values: FarmerFormValues): Promise<number> {
     legacy_code
   } = values
 
-  const combinedNotes = [
-    comment ? comment.trim() : '',
-    legacy_code ? 'Accurate: ' + legacy_code.trim() : '',
-    'Komoditas: ' + commodity.toUpperCase(),
-    'Metode: ' + farming_method.toUpperCase(),
-    land_area_m2 ? 'Luas Lahan: ' + land_area_m2 + ' m²' : '',
-    address_benchmark ? 'Patokan: ' + address_benchmark.trim() : ''
-  ]
-    .filter(Boolean)
-    .join(' | ')
+  const cleanComment = comment ? stripHtmlTags(comment) : false
 
   const payload: Record<string, OdooFieldValue> = {
     ref,
@@ -203,11 +188,16 @@ export async function persistFarmer(values: FarmerFormValues): Promise<number> {
     subdistrict_id: subdistrict_id || false,
     zip: zip_code || false,
     address_detail: address_detail || false,
+    address_benchmark: address_benchmark?.trim() || false,
     partner_latitude,
     partner_longitude,
     phone: phone || false,
     email: email || false,
-    comment: combinedNotes,
+    commodity: commodity || 'cengkeh',
+    farming_method: farming_method || 'organic',
+    land_area_m2: typeof land_area_m2 === 'number' && !isNaN(land_area_m2) ? land_area_m2 : 0,
+    legacy_code: legacy_code?.trim() || false,
+    comment: cleanComment,
     autopost_bills: 'ask'
   }
 
@@ -224,4 +214,50 @@ export async function persistFarmer(values: FarmerFormValues): Promise<number> {
 
 export async function updateFarmerActiveState(id: number, active: boolean): Promise<boolean> {
   return odoo.client.write('res.partner', [id], { active })
+}
+
+export async function fetchNextFarmerSequence(stateId: number): Promise<string> {
+  let prefix = 'IDN'
+  if (stateId) {
+    const states = await odoo.client.searchRead<Record<string, OdooFieldValue>>(
+      'res.country.state',
+      [['id', '=', stateId]],
+      ['id', 'name', 'prefix'],
+      { limit: 1 }
+    )
+    if (states.length > 0 && states[0]) {
+      const dbPrefix = typeof states[0].prefix === 'string' ? states[0].prefix.trim() : ''
+      prefix = dbPrefix ? dbPrefix.toUpperCase() : getProvincePrefix(states[0].name as string)
+    }
+  }
+
+  const cleanPrefix = prefix.replace(/[^A-Z0-9]/g, '') || 'IDN'
+  const domain: OdooDomain = [['ref', '=like', `FMR-${cleanPrefix}-%`]]
+
+  const existing = await odoo.client.searchRead<Record<string, OdooFieldValue>>(
+    'res.partner',
+    domain,
+    ['id', 'ref'],
+    {
+      limit: 1000,
+      context: { active_test: false }
+    }
+  )
+
+  let maxSeq = 0
+  const seqRegex = new RegExp(`^FMR-${cleanPrefix}-(\\d+)$`, 'i')
+
+  existing.forEach((r) => {
+    const ref = typeof r.ref === 'string' ? r.ref.trim() : ''
+    const match = ref.match(seqRegex)
+    if (match && match[1]) {
+      const num = parseInt(match[1], 10)
+      if (!isNaN(num) && num > maxSeq) {
+        maxSeq = num
+      }
+    }
+  })
+
+  const nextSeq = maxSeq + 1
+  return `FMR-${cleanPrefix}-${String(nextSeq).padStart(3, '0')}`
 }

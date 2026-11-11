@@ -1,13 +1,13 @@
 'use client'
 
-import { MessageSquare, User } from 'lucide-react'
+import { Mail, MessageSquare, Phone, User } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 
 import { SectionCard } from '@/components/card/section-card'
 import { DetailRow } from '@/components/shared/detail-row'
-import { LongText } from '@/components/text/long-text'
+import { CopyableText, LinkText } from '@/components/text'
 
-import type { FarmerRecord } from '@/actions/scm/farmer.action'
+import type { FarmerRecord } from '@/types/scm/farmer'
 import type { ReactElement } from 'react'
 
 export interface ProfileCardProps {
@@ -23,29 +23,42 @@ export function ProfileCard({ farmer }: ProfileCardProps): ReactElement {
 
   return (
     <SectionCard title={tTrace('detail.profileTitle')} description={tTrace('sections.identityDesc')} icon={User} contentClassName="space-y-2.5">
-      <DetailRow label={tTrace('fields.ref')} value={farmer.ref} mono={true} />
+      <DetailRow label={tTrace('fields.ref')}>
+        {farmer.ref ? <CopyableText text={farmer.ref} variant="badge" className="text-primary font-semibold" /> : '-'}
+      </DetailRow>
       <DetailRow label={tTrace('fields.name')} value={farmer.name} valueClassName="font-semibold" />
-      <DetailRow label={tTrace('fields.vat')} value={farmer.vat || '-'} mono={true} />
+      <DetailRow label={tTrace('fields.vat')}>
+        {farmer.vat ? <CopyableText text={farmer.vat} /> : '-'}
+      </DetailRow>
+      {farmer.legacy_code && (
+        <DetailRow label={tTrace('fields.legacyCode')}>
+          <CopyableText text={farmer.legacy_code} />
+        </DetailRow>
+      )}
       <DetailRow label={tTrace('fields.phone')}>
         <div className="flex items-center gap-2">
-          <span className="font-mono">{farmer.phone || '-'}</span>
-          {phoneStr && (
-            <a
-              href={waUrl}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-primary hover:text-primary/80 inline-flex items-center gap-1 font-medium underline"
-            >
-              <MessageSquare className="size-3" />
-              <span>WhatsApp</span>
-            </a>
+          {farmer.phone ? (
+            <LinkText href={`tel:${cleanPhone}`} icon={Phone} mono>
+              {farmer.phone}
+            </LinkText>
+          ) : (
+            <span>-</span>
+          )}
+          {cleanPhone && (
+            <LinkText href={waUrl} external icon={MessageSquare} className="text-primary font-medium underline">
+              WhatsApp
+            </LinkText>
           )}
         </div>
       </DetailRow>
-      <DetailRow label={tTrace('fields.street')} border={false}>
-        <LongText>
-          {farmer.street}, {farmer.city}
-        </LongText>
+      <DetailRow label={tTrace('fields.email')} border={false}>
+        {farmer.email ? (
+          <LinkText href={`mailto:${farmer.email}`} icon={Mail} className="text-primary">
+            {farmer.email}
+          </LinkText>
+        ) : (
+          <span className="text-muted-foreground">-</span>
+        )}
       </DetailRow>
     </SectionCard>
   )

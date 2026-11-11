@@ -34,11 +34,13 @@ function mapStateToProvince(r: Record<string, OdooFieldValue>): ProvinceRecord {
     prefix: (r.prefix as string) || false,
     alias: (r.alias as string) || false,
     description: (r.description as string) || false,
-    country_id: r.country_id as [number, string]
+    country_id: r.country_id as [number, string],
+    latitude: typeof r.latitude === 'number' ? r.latitude : false,
+    longitude: typeof r.longitude === 'number' ? r.longitude : false
   }
 }
 
-const PROVINCE_READ_FIELDS = ['id', 'name', 'code', 'prefix', 'alias', 'description', 'country_id']
+const PROVINCE_READ_FIELDS = ['id', 'name', 'code', 'prefix', 'alias', 'description', 'country_id', 'latitude', 'longitude']
 
 export async function fetchProvinces(countryId?: number): Promise<ProvinceRecord[]> {
   const domain: OdooDomain = countryId ? [['country_id', '=', countryId]] : []
@@ -144,7 +146,9 @@ export async function persistProvince(values: ProvinceFormValues): Promise<numbe
     prefix: values.prefix || false,
     alias: values.alias || false,
     description: values.description || false,
-    country_id: values.country_id || 100
+    country_id: values.country_id || 100,
+    latitude: values.latitude || false,
+    longitude: values.longitude || false
   }
 
   if (values.id) {
@@ -159,7 +163,7 @@ export async function deleteProvince(id: number): Promise<{ success: boolean; er
   try {
     await odoo.client.unlink('res.country.state', [id])
     return { success: true }
-  } catch (err: unknown) {
+  } catch (err) {
     const msg = err instanceof Error ? err.message : String(err)
     if (msg.includes('foreign key') || msg.includes('still referenced') || msg.includes('restrict') || msg.includes('linked')) {
       return {

@@ -2,7 +2,7 @@
 
 import { ActionButton } from '@/components/button/action-button'
 import { DataTableColumnHeader } from '@/components/data-table/column-header'
-import { LongText, PrimaryText } from '@/components/text'
+import { CoordsLink, LongText, PrimaryText } from '@/components/text'
 
 import type { VillageRecord } from '@/types/others/village'
 import type { ColumnDef } from '@tanstack/react-table'
@@ -50,6 +50,11 @@ export function getColumns({ t, tCommon, onView, onEdit, onDelete }: GetColumnsO
         const zip = row.original.zip_code
         return <span className="font-mono text-xs">{zip || '-'}</span>
       }
+    },
+    {
+      accessorKey: 'latitude',
+      header: ({ column }) => <DataTableColumnHeader column={column} title={tCommon('table.coordinates')} />,
+      cell: ({ row }) => <CoordsLink lat={row.original.latitude} lng={row.original.longitude} />
     },
     {
       id: 'actions',

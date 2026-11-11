@@ -23,7 +23,9 @@
     "continue": "Lanjutkan",
     "addNew": "Tambah data baru...",
     "createOption": "Buat data baru",
-    "create": "Tambah"
+    "create": "Tambah",
+    "copy": "Salin teks",
+    "close": "Tutup"
   },
   "status": {
     "loading": "Memuat data...",
@@ -33,7 +35,8 @@
     "active": "Aktif",
     "archived": "Diarsipkan",
     "title": "Status",
-    "saving": "Menyimpan..."
+    "saving": "Menyimpan...",
+    "inactive": "Nonaktif"
   },
   "table": {
     "asc": "Naik",
@@ -43,7 +46,8 @@
     "actions": "Aksi",
     "noResults": "Tidak ada hasil ditemukan.",
     "selected": "dipilih",
-    "clearFilters": "Hapus filter"
+    "clearFilters": "Hapus filter",
+    "coordinates": "Koordinat GPS"
   },
   "pagination": {
     "totalRows": "Total {total} data",
@@ -113,7 +117,13 @@
   "map": {
     "loading": "Memuat Peta Interaktif...",
     "locateMe": "Cari Lokasi Saya",
-    "locating": "Mencari GPS..."
+    "locating": "Mencari GPS...",
+    "openGmaps": "Buka di Google Maps",
+    "subtitle": "Klik peta atau geser pin untuk menentukan titik pusat wilayah",
+    "copyCoords": "Salin Koordinat",
+    "copied": "Koordinat berhasil disalin ke clipboard",
+    "noCoords": "Koordinat GPS belum terdaftar",
+    "noCoordsDesc": "Perbarui data alamat untuk menyematkan titik koordinat lokasi pada peta."
   },
   "select": {
     "loadingMore": "Memuat data selanjutnya...",
@@ -130,6 +140,8 @@
   },
   "messages": {
     "error": "Terjadi kesalahan pada sistem",
-    "saved": "Data berhasil disimpan"
+    "saved": "Data berhasil disimpan",
+    "copied": "Berhasil disalin ke clipboard",
+    "copyFailed": "Gagal menyalin ke clipboard"
   }
 }

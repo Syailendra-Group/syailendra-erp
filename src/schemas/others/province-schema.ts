@@ -20,7 +20,9 @@ export function getProvinceFormSchema(t?: SchemaTranslator) {
     prefix: z.string().min(2, { message: msg('validation.prefixRequired', 'Prefix ID is required') }).max(10),
     country_id: z.number().min(1, { message: msg('validation.countryRequired', 'Country is required') }),
     alias: z.string().optional(),
-    description: z.string().optional()
+    description: z.string().optional(),
+    latitude: z.number().optional(),
+    longitude: z.number().optional()
   })
 }
 

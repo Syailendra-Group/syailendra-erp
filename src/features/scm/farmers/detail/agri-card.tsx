@@ -5,9 +5,8 @@ import { useTranslations } from 'next-intl'
 
 import { SectionCard } from '@/components/card/section-card'
 import { DetailRow } from '@/components/shared/detail-row'
-import { Badge } from '@/components/ui/badge'
 
-import type { FarmerRecord } from '@/actions/scm/farmer.action'
+import type { FarmerRecord } from '@/types/scm/farmer'
 import type { ReactElement } from 'react'
 
 export interface AgriCardProps {
@@ -20,18 +19,22 @@ export function AgriCard({ farmer, landAreaHa }: AgriCardProps): ReactElement {
 
   return (
     <SectionCard title={tTrace('detail.agriTitle')} description={tTrace('sections.commodityDesc')} icon={Sprout} contentClassName="space-y-2.5">
-      <DetailRow label={tTrace('fields.commodity')} value={tTrace(`commodities.${farmer.commodity}`)} valueClassName="font-semibold capitalize" />
-      <DetailRow label={tTrace('fields.farmingMethod')} value={tTrace(`methods.${farmer.farming_method}`)} valueClassName="capitalize" />
+      <DetailRow
+        label={tTrace('fields.commodity')}
+        value={tTrace(`commodities.${farmer.commodity || 'gaharu'}`)}
+        valueClassName="font-semibold capitalize"
+      />
+      <DetailRow
+        label={tTrace('fields.farmingMethod')}
+        value={tTrace(`methods.${farmer.farming_method || 'organic'}`)}
+        valueClassName="capitalize"
+      />
       <DetailRow
         label={tTrace('fields.landArea')}
-        value={`${farmer.land_area_m2?.toLocaleString()} m² (${landAreaHa} ${tTrace('detail.hectare')})`}
+        value={farmer.land_area_m2 ? `${farmer.land_area_m2.toLocaleString()} m² (${landAreaHa} ${tTrace('detail.hectare')})` : '-'}
         mono={true}
+        border={false}
       />
-      <DetailRow label="Status" border={false}>
-        <Badge variant="outline" className="text-[11px] font-medium text-emerald-600 dark:text-emerald-400">
-          {tTrace('detail.verifiedPartner')}
-        </Badge>
-      </DetailRow>
     </SectionCard>
   )
 }

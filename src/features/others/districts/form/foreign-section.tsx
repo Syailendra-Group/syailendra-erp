@@ -84,7 +84,7 @@ export function ForeignDistrictSection({ form, isPending, t }: ForeignDistrictSe
 
   return (
     <>
-      <div className="grid grid-cols-1 gap-3.5 sm:grid-cols-3">
+      <div className="space-y-3.5">
         <FormFieldWrapper id="dist-foreign-cntry" label={tForeign('countryLabel')} required>
           <SelectForm
             placeholder={tForeign('countryPlaceholder')}
@@ -128,12 +128,12 @@ export function ForeignDistrictSection({ form, isPending, t }: ForeignDistrictSe
         </FormFieldWrapper>
       </div>
 
-      <div className="grid grid-cols-1 gap-3.5 sm:grid-cols-3">
+      <div className="space-y-3.5">
         <FormField
           control={form.control}
           name="name"
           render={({ field }) => (
-            <FormItem className="sm:col-span-2">
+            <FormItem>
               <FormFieldWrapper id="dist-name" label={t('table.name')} required error={form.formState.errors.name?.message}>
                 <FormControl>
                   <Input id="dist-name" placeholder={t('form.namePlaceholder')} disabled={isPending} {...field} />
@@ -156,21 +156,21 @@ export function ForeignDistrictSection({ form, isPending, t }: ForeignDistrictSe
             </FormItem>
           )}
         />
-      </div>
 
-      <FormField
-        control={form.control}
-        name="alias"
-        render={({ field }) => (
-          <FormItem>
-            <FormFieldWrapper id="dist-alias" label={t('form.aliasLabel')} required error={form.formState.errors.alias?.message}>
-              <FormControl>
-                <Input id="dist-alias" placeholder={t('form.aliasPlaceholder')} disabled={isPending} {...field} />
-              </FormControl>
-            </FormFieldWrapper>
-          </FormItem>
-        )}
-      />
+        <FormField
+          control={form.control}
+          name="alias"
+          render={({ field }) => (
+            <FormItem>
+              <FormFieldWrapper id="dist-alias" label={t('form.aliasLabel')} required error={form.formState.errors.alias?.message}>
+                <FormControl>
+                  <Input id="dist-alias" placeholder={t('form.aliasPlaceholder')} disabled={isPending} {...field} />
+                </FormControl>
+              </FormFieldWrapper>
+            </FormItem>
+          )}
+        />
+      </div>
     </>
   )
 }

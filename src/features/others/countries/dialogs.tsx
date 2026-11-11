@@ -5,8 +5,9 @@ import { toast } from 'sonner'
 
 import { ActionDialog } from '@/components/dialog/action-dialog'
 import { ConfirmDialog } from '@/components/dialog/confirm-dialog'
+import { LocationMapCard } from '@/components/map/location-map-card'
 import { DetailRow } from '@/components/shared/detail-row'
-import { Dialog, DialogContent, DialogDescription, DialogHeader, DialogTitle } from '@/components/ui/dialog'
+import { CopyableText } from '@/components/text'
 import { useCountry } from '@/contexts/others/country.context'
 import { useDeleteCountryMutation } from '@/hooks/others/use-countries'
 
@@ -17,6 +18,7 @@ import type { ReactElement } from 'react'
 export function CountriesDialogs(): ReactElement {
   const { open, setOpen, currentRow } = useCountry()
   const t = useTranslations('others.countries')
+  const tReg = useTranslations('regional.common')
   const tCommon = useTranslations('common')
   const { mutateAsync: deleteCountry, isPending: isDeleting } = useDeleteCountryMutation()
 
@@ -48,27 +50,42 @@ export function CountriesDialogs(): ReactElement {
         isEdit={open === 'edit'}
         title={open === 'edit' ? t('dialog.editTitle') : t('dialog.addTitle')}
         description={open === 'edit' ? t('dialog.editDesc') : t('dialog.addDesc')}
-        maxWidth="sm:max-w-lg"
+        maxWidth="sm:max-w-3xl"
       >
         <CountryForm currentRow={currentRow} onSuccess={() => setOpen(null)} />
       </ActionDialog>
 
-      <Dialog open={isViewOpen} onOpenChange={(isOpen) => !isOpen && setOpen(null)}>
-        <DialogContent className="sm:max-w-md">
-          <DialogHeader className="text-start">
-            <DialogTitle>{t('dialog.viewTitle')}</DialogTitle>
-            <DialogDescription className="text-xs">{t('dialog.viewDesc')}</DialogDescription>
-          </DialogHeader>
-
-          {currentRow && (
-            <div className="space-y-3 pt-2 text-xs">
-              <DetailRow label={t('table.name')} value={currentRow.name} />
-              <DetailRow label={t('table.code')} value={currentRow.code || '-'} mono />
-              <DetailRow label={t('table.phoneCode')} value={currentRow.phone_code ? `+${currentRow.phone_code}` : '-'} mono border={false} />
+      <ActionDialog
+        open={isViewOpen}
+        onOpenChange={(isOpen) => !isOpen && setOpen(null)}
+        isView={true}
+        title={t('dialog.viewTitle')}
+        description={t('dialog.viewDesc')}
+        maxWidth="sm:max-w-3xl"
+      >
+        {currentRow && (
+          <div className="grid grid-cols-1 items-start gap-5 pt-1 lg:grid-cols-2">
+            <div className="space-y-2 rounded-md border p-3.5 text-xs">
+              <DetailRow label={t('table.name')} value={currentRow.name} valueClassName="font-semibold" />
+              <DetailRow label={t('table.code')}>
+                {currentRow.code ? <CopyableText text={currentRow.code} /> : '-'}
+              </DetailRow>
+              <DetailRow label={t('table.phoneCode')} border={false}>
+                {currentRow.phone_code ? <CopyableText text={`+${currentRow.phone_code}`} /> : '-'}
+              </DetailRow>
             </div>
-          )}
-        </DialogContent>
-      </Dialog>
+
+            <LocationMapCard
+              latitude={currentRow.latitude}
+              longitude={currentRow.longitude}
+              title={tReg('coordinates')}
+              markerLabel={currentRow.name}
+              zoom={5}
+              height="h-60"
+            />
+          </div>
+        )}
+      </ActionDialog>
 
       <ConfirmDialog
         open={isDeleteOpen}

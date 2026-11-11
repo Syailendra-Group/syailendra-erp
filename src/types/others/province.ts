@@ -6,4 +6,6 @@ export interface ProvinceRecord {
   alias?: string | false
   description?: string | false
   country_id: [number, string]
+  latitude?: number | false
+  longitude?: number | false
 }

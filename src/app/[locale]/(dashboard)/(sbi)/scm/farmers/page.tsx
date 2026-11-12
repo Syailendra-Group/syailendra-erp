@@ -4,7 +4,7 @@ import type { Metadata } from 'next'
 import type { ReactElement } from 'react'
 
 export const metadata: Metadata = {
-  title: 'Farmers & Plantations • Syailendra ERP',
+  title: 'Farmers & Plantations',
   description: 'Official smallholder farmers and supply chain plantations register'
 }
 

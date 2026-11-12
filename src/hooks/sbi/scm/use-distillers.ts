@@ -5,7 +5,12 @@
 
 import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
 
-import { getDistillersAction, getDistillersPaginatedAction, saveDistillerAction, toggleDistillerStatusAction } from '@/actions/sbi/scm/distiller.action'
+import {
+  getDistillersAction,
+  getDistillersPaginatedAction,
+  saveDistillerAction,
+  toggleDistillerStatusAction
+} from '@/actions/sbi/scm/distiller.action'
 
 import type { DistillerFormValues } from '@/schemas/sbi/scm/distiller-schema'
 import type { FetchDistillersPaginatedParams } from '@/services/odoo/sbi/scm/distiller.service'

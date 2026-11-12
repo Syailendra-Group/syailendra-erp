@@ -3,7 +3,12 @@
 import { revalidatePath } from 'next/cache'
 
 import { departmentFormSchema } from '@/schemas/sbi/hrm/department-schema'
-import { fetchDepartments, fetchDepartmentsPaginated, persistDepartment, updateDepartmentActiveState } from '@/services/odoo/sbi/hrm/department.service'
+import {
+  fetchDepartments,
+  fetchDepartmentsPaginated,
+  persistDepartment,
+  updateDepartmentActiveState
+} from '@/services/odoo/sbi/hrm/department.service'
 
 import type { DepartmentFormValues } from '@/schemas/sbi/hrm/department-schema'
 import type { FetchDepartmentsPaginatedParams, FetchDepartmentsPaginatedResult } from '@/services/odoo/sbi/hrm/department.service'

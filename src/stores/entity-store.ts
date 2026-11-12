@@ -30,7 +30,7 @@ export const SYAILENDRA_ENTITIES: SyailendraEntity[] = [
   {
     id: 'spba',
     code: 'PT SPBA',
-    name: 'PT Syailendra Pabrik Bersama',
+    name: 'PT Syailendra Prima Agro',
     roleKey: 'entities.spbaRole',
     odooCompanyId: 2,
     pillars: ['wms'],
@@ -39,7 +39,7 @@ export const SYAILENDRA_ENTITIES: SyailendraEntity[] = [
   {
     id: 'sammend',
     code: 'PT SAMMEND',
-    name: 'PT Syailendra Mahakarya Mendunia',
+    name: 'PT Syailendra Aroma Mandiri',
     roleKey: 'entities.sammendRole',
     odooCompanyId: 3,
     pillars: ['crm', 'dcm', 'ai'],

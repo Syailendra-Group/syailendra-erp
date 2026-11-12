@@ -1,15 +1,24 @@
 {
-  "title": "Profil Perusahaan & Pengaturan Web",
-  "subtitle": "Pengelolaan identitas holding legal, branding resmi, kontak, dan metadata portal publik",
-  "badge": "Identitas Entitas Usaha Odoo 18 (res.company)",
+  "title": "Profil Perusahaan & Kustomisasi Menu",
+  "subtitle": "Pengelolaan identitas 4 entitas holding, kontak resmi, upload logo korporat, dan konfigurasi pilar menu dinamis",
+  "badge": "Multi-Entity Engine Odoo 18 (res.company)",
+  "selectCompany": "Pilih Entitas Usaha Syailendra",
   "sections": {
-    "core": {
+    "identity": {
       "title": "Identitas Pokok Perusahaan",
-      "subtitle": "Nama legal dan positioning komoditas Syailendra Group"
+      "subtitle": "Nama legal dan positioning bisnis entitas Odoo 18"
+    },
+    "logo": {
+      "title": "Logo Resmi Perusahaan",
+      "subtitle": "Format PNG / WebP transparan untuk header, switcher, dan dokumen cetak"
     },
     "comms": {
-      "title": "Saluran Komunikasi & Portal Web",
-      "subtitle": "Kontak resmi untuk mitra petani dan buyer roastery internasional"
+      "title": "Saluran Komunikasi & Alamat",
+      "subtitle": "Email bisnis, nomor telepon/WhatsApp, portal web, dan alamat fisik kantor"
+    },
+    "pillars": {
+      "title": "Konfigurasi Pilar Menu Bisnis",
+      "subtitle": "Aktifkan atau nonaktifkan modul navigasi yang dapat diakses oleh entitas ini"
     }
   },
   "fields": {
@@ -20,12 +29,45 @@
     "currency": "Mata Uang Default Sistem",
     "email": "Email Resmi Bisnis",
     "emailPlaceholder": "info@ddistillers.com",
-    "phone": "Telepon Kantor Pusat",
+    "phone": "Telepon Kantor / WhatsApp",
     "phonePlaceholder": "+62 21 xxxx xxxx",
     "website": "URL Portal Web",
     "websitePlaceholder": "https://syailendragroup.com",
-    "address": "Alamat Kantor & Gudang Utama",
-    "addressPlaceholder": "Jl. Raya Parakan - Wonosobo KM 12, Temanggung, Jawa Tengah"
+    "vat": "Nomor Pokok Wajib Pajak (NPWP / VAT)",
+    "vatPlaceholder": "Contoh: 01.234.567.8-901.000",
+    "address": "Alamat Kantor & Fasilitas Utama",
+    "addressPlaceholder": "Jl. Raya Parakan - Wonosobo KM 12, Temanggung, Jawa Tengah",
+    "uploadLogo": "Unggah Logo PT",
+    "dragDrop": "Klik atau seret file gambar logo ke sini (Maks 2MB, PNG/WebP)",
+    "changeLogo": "Ganti Logo",
+    "removeLogo": "Hapus Logo",
+    "usesDefaultLogo": "Menggunakan logo default sistem"
   },
-  "saveButton": "Simpan Pengaturan Perusahaan"
+  "pillarLabels": {
+    "main": "Executive Overview (Main)",
+    "ftm": "FTM (Finance & Tax Management)",
+    "hrm": "HRM (Human Resource Management)",
+    "scm": "SCM (Supply Chain Management)",
+    "wms": "WMS (Warehouse Management System)",
+    "crm": "CRM (Customer Relationship Management)",
+    "dcm": "DCM (Distribution Channel Management)",
+    "ai": "AI Agent (Nona Atsirich)",
+    "imm": "IMM (Impact Measurement Management)",
+    "others": "Others (Regional Master & Settings)"
+  },
+  "pillarDesc": {
+    "main": "Dashboard ringkasan eksekutif dan analitik bisnis lintas unit",
+    "ftm": "Pengelolaan arus kas, pajak korporat, dan pembukuan multi-PT",
+    "hrm": "Struktur departemen, data karyawan, dan presensi kerja",
+    "scm": "Kemitraan petani, penyuling, master bahan baku, dan lot panen",
+    "wms": "Penerimaan barang GRN, karantina QC, dan pergerakan stok gudang",
+    "crm": "Pipeline prospek buyer B2B, inquiry ekspor, dan negosiasi kontrak",
+    "dcm": "Katalog marketplace multi-channel (Desty, Shopee, Tokopedia)",
+    "ai": "Asisten cerdas formulasi atsirich, riset botani, dan otomasi tugas",
+    "imm": "Pelaporan revitalisasi lahan, dampak lingkungan, dan audit ESG",
+    "others": "Master wilayah administratif Indonesia dan pengaturan entitas"
+  },
+  "saveButton": "Simpan Pengaturan Entitas",
+  "saveSuccess": "Pengaturan entitas {code} berhasil diperbarui di Odoo 18!",
+  "saveError": "Gagal menyimpan pengaturan entitas ke Odoo: {error}"
 }

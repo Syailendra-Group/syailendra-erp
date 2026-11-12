@@ -14,7 +14,7 @@ import {
 } from '@/components/ui/dropdown-menu'
 import { SidebarMenu, SidebarMenuButton, SidebarMenuItem } from '@/components/ui/sidebar'
 import { useRouter } from '@/i18n/navigation'
-import { SYAILENDRA_ENTITIES, useEntityStore } from '@/stores/entity-store'
+import { useEntityStore } from '@/stores/entity-store'
 import { useNavStore } from '@/stores/nav-store'
 
 import type { SyailendraEntity, SyailendraEntityId } from '@/stores/entity-store'
@@ -31,14 +31,17 @@ export function CompanySwitcher(): ReactElement {
   const tCommon = useTranslations('common.company')
   const router = useRouter()
   const activeEntityId = useEntityStore((s) => s.activeEntityId)
+  const entities = useEntityStore((s) => s.entities)
   const setActiveEntityId = useEntityStore((s) => s.setActiveEntityId)
   const setActiveTab = useNavStore((s) => s.setActiveTab)
 
-  const activeEntity = SYAILENDRA_ENTITIES.find((e) => e.id === activeEntityId) || SYAILENDRA_ENTITIES[0]
+  const activeEntity = entities.find((e) => e.id === activeEntityId) || entities[0]
 
   const handleSelectEntity = (entity: SyailendraEntity) => {
     setActiveEntityId(entity.id)
-    setActiveTab(entity.pillars[0])
+    if (entity.pillars.length > 0 && entity.pillars[0]) {
+      setActiveTab(entity.pillars[0])
+    }
     router.push(entity.defaultRoute)
   }
 
@@ -52,17 +55,21 @@ export function CompanySwitcher(): ReactElement {
               className="cursor-pointer text-white hover:bg-white/10 hover:text-white data-[state=open]:bg-white/15 data-[state=open]:text-white"
             >
               <div className="flex aspect-square size-8 items-center justify-center overflow-hidden rounded-lg border border-white/25 bg-white/95 shadow-xs">
-                <Image
-                  src="/images/branding/syailendra_logo_monogram_only.png"
-                  alt={tCommon('name')}
-                  width={24}
-                  height={24}
-                  className="size-6 object-contain"
-                />
+                {activeEntity?.logoBase64 ? (
+                  <img src={`data:image/png;base64,${activeEntity.logoBase64}`} alt={activeEntity.name} className="size-6 object-contain" />
+                ) : (
+                  <Image
+                    src="/images/branding/syailendra_logo_monogram_only.png"
+                    alt={tCommon('name')}
+                    width={24}
+                    height={24}
+                    className="size-6 object-contain"
+                  />
+                )}
               </div>
               <div className="grid flex-1 text-left text-sm leading-tight">
-                <span className="truncate font-bold text-white">{activeEntity.code}</span>
-                <span className="truncate text-xs text-white/75">{activeEntity.name}</span>
+                <span className="truncate font-bold text-white">{activeEntity?.code}</span>
+                <span className="truncate text-xs text-white/75">{activeEntity?.name}</span>
               </div>
               <ChevronsUpDown className="ml-auto text-white/70" />
             </SidebarMenuButton>
@@ -74,14 +81,18 @@ export function CompanySwitcher(): ReactElement {
               <span>{tCommon('multiUnit')}</span>
             </DropdownMenuLabel>
 
-            {SYAILENDRA_ENTITIES.map((entity) => {
+            {entities.map((entity) => {
               const Icon = ENTITY_ICONS[entity.id]
               const isSelected = entity.id === activeEntityId
 
               return (
                 <DropdownMenuItem key={entity.id} onClick={() => handleSelectEntity(entity)} className="cursor-pointer gap-2.5 p-2">
-                  <div className="flex size-7 shrink-0 items-center justify-center rounded-md border">
-                    <Icon className="text-primary size-4" />
+                  <div className="flex size-7 shrink-0 items-center justify-center overflow-hidden rounded-md border">
+                    {entity.logoBase64 ? (
+                      <img src={`data:image/png;base64,${entity.logoBase64}`} alt={entity.name} className="size-5 object-contain" />
+                    ) : (
+                      <Icon className="text-primary size-4" />
+                    )}
                   </div>
                   <div className="flex min-w-0 flex-1 flex-col">
                     <span className="truncate text-xs font-semibold">{entity.name}</span>

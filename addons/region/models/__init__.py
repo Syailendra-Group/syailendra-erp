@@ -5,3 +5,4 @@ from . import res_country_city
 from . import res_country_district
 from . import res_country_subdistrict
 from . import res_partner
+from . import res_company

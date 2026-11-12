@@ -7,7 +7,7 @@ import { Button } from '@/components/ui/button'
 import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuTrigger } from '@/components/ui/dropdown-menu'
 import { Link } from '@/i18n/navigation'
 import { cn } from '@/lib/utils'
-import { SYAILENDRA_ENTITIES, useEntityStore } from '@/stores/entity-store'
+import { useEntityStore } from '@/stores/entity-store'
 import { useNavStore } from '@/stores/nav-store'
 
 import type { ModuleTab } from '@/stores/nav-store'
@@ -38,9 +38,11 @@ export function TopNav(): ReactElement {
   const tNav = useTranslations('nav')
   const { activeTab, setActiveTab } = useNavStore()
   const activeEntityId = useEntityStore((s) => s.activeEntityId)
+  const entities = useEntityStore((s) => s.entities)
 
-  const activeEntity = SYAILENDRA_ENTITIES.find((e) => e.id === activeEntityId) || SYAILENDRA_ENTITIES[0]
-  const visibleTabs = ALL_TABS.filter((tab) => activeEntity.pillars.includes(tab.id))
+  const activeEntity = entities.find((e) => e.id === activeEntityId) || entities[0]
+  const activePillars = activeEntity?.pillars || ['main', 'others']
+  const visibleTabs = ALL_TABS.filter((tab) => activePillars.includes(tab.id))
 
   return (
     <>

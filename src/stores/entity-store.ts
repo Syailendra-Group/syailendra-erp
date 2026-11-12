@@ -15,9 +15,10 @@ export interface SyailendraEntity {
   odooCompanyId: number
   pillars: ModuleTab[]
   defaultRoute: string
+  logoBase64?: string | null
 }
 
-export const SYAILENDRA_ENTITIES: SyailendraEntity[] = [
+export const INITIAL_SYAILENDRA_ENTITIES: SyailendraEntity[] = [
   {
     id: 'sbi',
     code: 'PT SBI',
@@ -25,7 +26,8 @@ export const SYAILENDRA_ENTITIES: SyailendraEntity[] = [
     roleKey: 'entities.sbiRole',
     odooCompanyId: 1,
     pillars: ['main', 'ftm', 'hrm', 'scm', 'others'],
-    defaultRoute: '/overview'
+    defaultRoute: '/overview',
+    logoBase64: null
   },
   {
     id: 'spba',
@@ -34,7 +36,8 @@ export const SYAILENDRA_ENTITIES: SyailendraEntity[] = [
     roleKey: 'entities.spbaRole',
     odooCompanyId: 2,
     pillars: ['wms'],
-    defaultRoute: '/wms'
+    defaultRoute: '/wms',
+    logoBase64: null
   },
   {
     id: 'sammend',
@@ -43,7 +46,8 @@ export const SYAILENDRA_ENTITIES: SyailendraEntity[] = [
     roleKey: 'entities.sammendRole',
     odooCompanyId: 3,
     pillars: ['crm', 'dcm', 'ai'],
-    defaultRoute: '/crm'
+    defaultRoute: '/crm',
+    logoBase64: null
   },
   {
     id: 'sg',
@@ -52,33 +56,66 @@ export const SYAILENDRA_ENTITIES: SyailendraEntity[] = [
     roleKey: 'entities.sgRole',
     odooCompanyId: 4,
     pillars: ['imm'],
-    defaultRoute: '/imm'
+    defaultRoute: '/imm',
+    logoBase64: null
   }
 ]
 
-/**
- * Resolves the owning business entity for any module pillar tab.
- */
-export function resolveEntityByTab(tab: ModuleTab): SyailendraEntity {
-  return SYAILENDRA_ENTITIES.find((entity) => entity.pillars.includes(tab)) || SYAILENDRA_ENTITIES[0]
-}
+export const SYAILENDRA_ENTITIES = INITIAL_SYAILENDRA_ENTITIES
 
 interface EntityState {
   activeEntityId: SyailendraEntityId
+  entities: SyailendraEntity[]
   setActiveEntityId: (id: SyailendraEntityId) => void
   getActiveEntity: () => SyailendraEntity
+  updateEntityPillars: (odooCompanyId: number, pillars: ModuleTab[]) => void
+  updateEntityLogo: (odooCompanyId: number, logoBase64: string | null) => void
+  syncEntitiesFromOdoo: (records: { id: number; name: string; logo_web: string | null; enabled_pillars: ModuleTab[] }[]) => void
 }
 
 export const useEntityStore = create<EntityState>()(
   persist(
     (set, get) => ({
       activeEntityId: 'sbi',
+      entities: INITIAL_SYAILENDRA_ENTITIES,
       setActiveEntityId: (id) => set({ activeEntityId: id }),
-      getActiveEntity: () => SYAILENDRA_ENTITIES.find((e) => e.id === get().activeEntityId) || SYAILENDRA_ENTITIES[0]
+      getActiveEntity: () => {
+        const state = get()
+        return state.entities.find((e) => e.id === state.activeEntityId) || state.entities[0] || INITIAL_SYAILENDRA_ENTITIES[0]
+      },
+      updateEntityPillars: (odooCompanyId, pillars) => {
+        set((state) => ({
+          entities: state.entities.map((e) => (e.odooCompanyId === odooCompanyId ? { ...e, pillars } : e))
+        }))
+      },
+      updateEntityLogo: (odooCompanyId, logoBase64) => {
+        set((state) => ({
+          entities: state.entities.map((e) => (e.odooCompanyId === odooCompanyId ? { ...e, logoBase64 } : e))
+        }))
+      },
+      syncEntitiesFromOdoo: (records) => {
+        set((state) => ({
+          entities: state.entities.map((e) => {
+            const found = records.find((r) => r.id === e.odooCompanyId)
+            if (!found) return e
+            return {
+              ...e,
+              name: found.name || e.name,
+              pillars: found.enabled_pillars.length > 0 ? found.enabled_pillars : e.pillars,
+              logoBase64: found.logo_web !== undefined ? found.logo_web : e.logoBase64
+            }
+          })
+        }))
+      }
     }),
     {
       name: 'syailendra-active-entity',
-      partialize: (state) => ({ activeEntityId: state.activeEntityId })
+      partialize: (state) => ({ activeEntityId: state.activeEntityId, entities: state.entities })
     }
   )
 )
+
+export function resolveEntityByTab(tab: ModuleTab): SyailendraEntity {
+  const state = useEntityStore.getState()
+  return state.entities.find((entity) => entity.pillars.includes(tab)) || state.entities[0] || INITIAL_SYAILENDRA_ENTITIES[0]
+}

@@ -7,7 +7,7 @@ import { useTheme } from 'next-themes'
 
 import { CommandDialog, CommandEmpty, CommandGroup, CommandInput, CommandItem, CommandList, CommandSeparator } from '@/components/ui/command'
 import { ScrollArea } from '@/components/ui/scroll-area'
-import { useSearch } from '@/contexts/main/search.context'
+import { useSearch } from '@/contexts/sbi/main/search.context'
 import { useRouter } from '@/i18n/navigation'
 import { SYAILENDRA_ENTITIES, useEntityStore } from '@/stores/entity-store'
 import { useNavStore } from '@/stores/nav-store'

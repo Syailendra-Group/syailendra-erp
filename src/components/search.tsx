@@ -4,7 +4,7 @@ import { SearchIcon } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 
 import { Button } from '@/components/ui/button'
-import { useSearch } from '@/contexts/main/search.context'
+import { useSearch } from '@/contexts/sbi/main/search.context'
 import { cn } from '@/lib/utils'
 
 import type { ComponentProps, ReactElement } from 'react'

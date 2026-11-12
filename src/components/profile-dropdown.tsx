@@ -36,9 +36,9 @@ export function ProfileDropdown(): ReactElement {
     <>
       <DropdownMenu modal={false}>
         <DropdownMenuTrigger asChild>
-          <Button variant="ghost" className="relative h-8 w-8 cursor-pointer rounded-full p-0">
-            <Avatar className="h-8 w-8">
-              <AvatarFallback className="bg-primary text-primary-foreground text-xs font-semibold">{user.name.charAt(0)}</AvatarFallback>
+          <Button variant="ghost" className="relative h-8 w-8 cursor-pointer rounded-full p-0 hover:bg-white/15">
+            <Avatar className="h-8 w-8 border border-white/25">
+              <AvatarFallback className="bg-brand-gold text-brand-ink text-xs font-bold">{user.name.charAt(0)}</AvatarFallback>
             </Avatar>
           </Button>
         </DropdownMenuTrigger>

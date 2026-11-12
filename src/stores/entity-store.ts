@@ -1,4 +1,9 @@
+'use client'
+
 import { create } from 'zustand'
+import { persist } from 'zustand/middleware'
+
+import type { ModuleTab } from './nav-store'
 
 export type SyailendraEntityId = 'sbi' | 'spba' | 'sammend' | 'sg'
 
@@ -7,7 +12,9 @@ export interface SyailendraEntity {
   code: string
   name: string
   roleKey: string
-  pillars: string[]
+  odooCompanyId: number
+  pillars: ModuleTab[]
+  defaultRoute: string
 }
 
 export const SYAILENDRA_ENTITIES: SyailendraEntity[] = [
@@ -16,37 +23,62 @@ export const SYAILENDRA_ENTITIES: SyailendraEntity[] = [
     code: 'PT SBI',
     name: 'PT Syailendra Bumi Investama',
     roleKey: 'entities.sbiRole',
-    pillars: ['main', 'ftm', 'hrm', 'scm', 'others']
+    odooCompanyId: 1,
+    pillars: ['main', 'ftm', 'hrm', 'scm', 'others'],
+    defaultRoute: '/overview'
   },
   {
     id: 'spba',
     code: 'PT SPBA',
-    name: 'PT Syailendra Prima Agro',
+    name: 'PT Syailendra Pabrik Bersama',
     roleKey: 'entities.spbaRole',
-    pillars: ['wms']
+    odooCompanyId: 2,
+    pillars: ['wms'],
+    defaultRoute: '/wms'
   },
   {
     id: 'sammend',
     code: 'PT SAMMEND',
-    name: 'PT Syailendra Aroma Mandiri',
+    name: 'PT Syailendra Mahakarya Mendunia',
     roleKey: 'entities.sammendRole',
-    pillars: ['crm', 'dcm', 'ai']
+    odooCompanyId: 3,
+    pillars: ['crm', 'dcm', 'ai'],
+    defaultRoute: '/crm'
   },
   {
     id: 'sg',
     code: 'PT SG',
     name: 'PT Syailendra Group',
     roleKey: 'entities.sgRole',
-    pillars: ['imm']
+    odooCompanyId: 4,
+    pillars: ['imm'],
+    defaultRoute: '/imm'
   }
 ]
 
-export interface EntityState {
-  activeEntityId: SyailendraEntityId
-  setActiveEntityId: (entityId: SyailendraEntityId) => void
+/**
+ * Resolves the owning business entity for any module pillar tab.
+ */
+export function resolveEntityByTab(tab: ModuleTab): SyailendraEntity {
+  return SYAILENDRA_ENTITIES.find((entity) => entity.pillars.includes(tab)) || SYAILENDRA_ENTITIES[0]
 }
 
-export const useEntityStore = create<EntityState>((set) => ({
-  activeEntityId: 'sbi',
-  setActiveEntityId: (entityId: SyailendraEntityId) => set({ activeEntityId: entityId })
-}))
+interface EntityState {
+  activeEntityId: SyailendraEntityId
+  setActiveEntityId: (id: SyailendraEntityId) => void
+  getActiveEntity: () => SyailendraEntity
+}
+
+export const useEntityStore = create<EntityState>()(
+  persist(
+    (set, get) => ({
+      activeEntityId: 'sbi',
+      setActiveEntityId: (id) => set({ activeEntityId: id }),
+      getActiveEntity: () => SYAILENDRA_ENTITIES.find((e) => e.id === get().activeEntityId) || SYAILENDRA_ENTITIES[0]
+    }),
+    {
+      name: 'syailendra-active-entity',
+      partialize: (state) => ({ activeEntityId: state.activeEntityId })
+    }
+  )
+)

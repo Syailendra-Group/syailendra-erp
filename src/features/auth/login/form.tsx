@@ -1,6 +1,5 @@
 'use client'
 
-import { useCallback, useState } from 'react'
 import { useRouter } from 'next/navigation'
 import { zodResolver } from '@hookform/resolvers/zod'
 import { Loader2, LogIn } from 'lucide-react'
@@ -10,7 +9,7 @@ import { toast } from 'sonner'
 
 import { FormFieldWrapper } from '@/components/form/form-field-wrapper'
 import { PasswordInput } from '@/components/form/password-input'
-import { TurnstileWidget } from '@/components/form/turnstile-widget'
+import { TurnstileField } from '@/components/form/turnstile-field'
 import { Button } from '@/components/ui/button'
 import { Checkbox } from '@/components/ui/checkbox'
 import { Input } from '@/components/ui/input'
@@ -29,11 +28,12 @@ export function LoginForm({ onSuccessRedirect = '/overview' }: LoginFormProps): 
   const tAuth = useTranslations('auth')
   const router = useRouter()
   const { mutateAsync: login, isPending } = useLoginMutation()
-  const [resetTrigger, setResetTrigger] = useState(0)
 
   const {
+    control,
     register,
     handleSubmit,
+    setError,
     setValue,
     watch,
     formState: { errors }
@@ -48,18 +48,6 @@ export function LoginForm({ onSuccessRedirect = '/overview' }: LoginFormProps): 
   })
 
   const rememberMe = watch('rememberMe')
-  const turnstileToken = watch('turnstileToken')
-
-  const handleTurnstileVerify = useCallback(
-    (token: string) => {
-      setValue('turnstileToken', token, { shouldValidate: true })
-    },
-    [setValue]
-  )
-
-  const handleTurnstileExpire = useCallback(() => {
-    setValue('turnstileToken', '', { shouldValidate: true })
-  }, [setValue])
 
   const onSubmit: SubmitHandler<LoginFormValues> = async (values) => {
     try {
@@ -69,20 +57,19 @@ export function LoginForm({ onSuccessRedirect = '/overview' }: LoginFormProps): 
         router.push(onSuccessRedirect)
         router.refresh()
       } else {
-        toast.error(result.error || tAuth('messages.login_failed'))
-        setValue('turnstileToken', '')
-        setResetTrigger((prev) => prev + 1)
+        const message = result.error || tAuth('messages.login_failed')
+        toast.error(message)
+        setError('root', { type: 'server', message })
       }
     } catch {
-      toast.error(tAuth('messages.login_failed'))
-      setValue('turnstileToken', '')
-      setResetTrigger((prev) => prev + 1)
+      const message = tAuth('messages.login_failed')
+      toast.error(message)
+      setError('root', { type: 'server', message })
     }
   }
 
   return (
     <form onSubmit={handleSubmit(onSubmit)} className="space-y-4">
-      {/* Email input field using standardized FormFieldWrapper */}
       <FormFieldWrapper id="email" label={tAuth('fields.email')} required error={errors.email?.message}>
         <Input
           id="email"
@@ -94,7 +81,6 @@ export function LoginForm({ onSuccessRedirect = '/overview' }: LoginFormProps): 
         />
       </FormFieldWrapper>
 
-      {/* Password input field using standardized FormFieldWrapper and PasswordInput */}
       <FormFieldWrapper id="password" label={tAuth('fields.password')} required error={errors.password?.message}>
         <PasswordInput
           id="password"
@@ -105,7 +91,6 @@ export function LoginForm({ onSuccessRedirect = '/overview' }: LoginFormProps): 
         />
       </FormFieldWrapper>
 
-      {/* Remember me checkbox control */}
       <div className="flex items-center space-x-2 pt-0.5">
         <Checkbox id="rememberMe" checked={rememberMe} onCheckedChange={(checked) => setValue('rememberMe', Boolean(checked))} disabled={isPending} />
         <label htmlFor="rememberMe" className="text-muted-foreground hover:text-foreground cursor-pointer text-xs font-medium select-none">
@@ -113,14 +98,10 @@ export function LoginForm({ onSuccessRedirect = '/overview' }: LoginFormProps): 
         </label>
       </div>
 
-      {/* Cloudflare Turnstile bot verification widget */}
-      <div className="space-y-1">
-        <TurnstileWidget action="login" onVerify={handleTurnstileVerify} onExpire={handleTurnstileExpire} resetTrigger={resetTrigger} />
-        {errors.turnstileToken?.message && <p className="text-destructive text-center text-xs font-medium">{errors.turnstileToken.message}</p>}
-      </div>
+      {/* Standardized reusable Cloudflare Turnstile field */}
+      <TurnstileField control={control} action="login" />
 
-      {/* Submit action button */}
-      <Button type="submit" className="w-full cursor-pointer gap-2 font-semibold" disabled={isPending || !turnstileToken}>
+      <Button type="submit" className="w-full cursor-pointer gap-2 font-semibold" disabled={isPending}>
         {isPending ? (
           <>
             <Loader2 className="h-4 w-4 animate-spin" />

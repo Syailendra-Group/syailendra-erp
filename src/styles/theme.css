@@ -3,9 +3,9 @@
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-public-sans), 'Public Sans', var(--font-inter), 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-sans: var(--font-plus-jakarta), 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
   --font-mono: var(--font-geist-mono), monospace;
-  --font-heading: var(--font-libre-baskerville), 'Libre Baskerville', Georgia, serif;
+  --font-heading: var(--font-plus-jakarta), 'Plus Jakarta Sans', sans-serif;
 
   --color-brand-primary: var(--brand-primary);
   --color-brand-white: var(--brand-white);
@@ -75,7 +75,7 @@
   --popover-foreground: #111111;
 
   /* Primary Brand Component Accent */
-  --primary: #004e52; /* Tropical Green CTA & Active Indicators */
+  --primary: #004e52; /* Tropical Green CTA & Shell Background */
   --primary-foreground: #ffffff;
 
   /* Secondary & Muted Surface Tokens */
@@ -85,7 +85,7 @@
   --muted-foreground: #555555;
 
   /* Accent & Interactive States */
-  --accent: oklch(0.95 0.015 145); /* Subtle Tinted Hover Surface */
+  --accent: oklch(0.95 0.015 145);
   --accent-foreground: #004e52;
 
   /* Feedback & Validation Colors */
@@ -106,19 +106,19 @@
   --chart-4: #0d4f1c;
   --chart-5: #c79935;
 
-  /* Floating Clean Sidebar (White with Soft Shadow - Rule Verified) */
-  --sidebar: #ffffff;
-  --sidebar-foreground: #111111;
-  --sidebar-primary: #004e52;
-  --sidebar-primary-foreground: #ffffff;
-  --sidebar-accent: oklch(0.955 0.015 150);
-  --sidebar-accent-foreground: #004e52;
-  --sidebar-border: oklch(0.925 0.005 214.3);
-  --sidebar-ring: #004e52;
+  /* Tropical Green Corporate Sidebar (Primary #004E52 + Gold Accent) */
+  --sidebar: #004e52;
+  --sidebar-foreground: #f8fafc;
+  --sidebar-primary: #e8ae1e;
+  --sidebar-primary-foreground: #111111;
+  --sidebar-accent: rgba(255, 255, 255, 0.12);
+  --sidebar-accent-foreground: #ffffff;
+  --sidebar-border: rgba(255, 255, 255, 0.15);
+  --sidebar-ring: #e8ae1e;
 }
 
 .dark {
-  --brand-primary: #00747a;
+  --brand-primary: #00666b;
   --brand-white: oklch(0.148 0.004 228.8);
   --brand-gold: #e8ae1e;
   --brand-green: #afca0b;
@@ -131,7 +131,7 @@
   --popover: oklch(0.218 0.008 223.9);
   --popover-foreground: oklch(0.987 0.002 197.1);
 
-  --primary: #00747a;
+  --primary: #004e52;
   --primary-foreground: #ffffff;
   --secondary: oklch(0.274 0.006 286.033);
   --secondary-foreground: oklch(0.985 0 0);
@@ -146,12 +146,12 @@
   --input: oklch(1 0 0 / 15%);
   --ring: #00747a;
 
-  --sidebar: oklch(0.218 0.008 223.9);
-  --sidebar-foreground: oklch(0.987 0.002 197.1);
-  --sidebar-primary: #00747a;
-  --sidebar-primary-foreground: #ffffff;
-  --sidebar-accent: oklch(0.275 0.011 216.9);
-  --sidebar-accent-foreground: oklch(0.987 0.002 197.1);
-  --sidebar-border: oklch(1 0 0 / 10%);
-  --sidebar-ring: #00747a;
+  --sidebar: #003b3e;
+  --sidebar-foreground: #f8fafc;
+  --sidebar-primary: #e8ae1e;
+  --sidebar-primary-foreground: #111111;
+  --sidebar-accent: rgba(255, 255, 255, 0.12);
+  --sidebar-accent-foreground: #ffffff;
+  --sidebar-border: rgba(255, 255, 255, 0.12);
+  --sidebar-ring: #e8ae1e;
 }

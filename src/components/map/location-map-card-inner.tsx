@@ -88,5 +88,5 @@ export default function LocationMapCardInner({
     }
   }, [latitude, longitude, zoom, markerLabel, markerPopup])
 
-  return <div ref={containerRef} className={`w-full ${height} rounded-md overflow-hidden z-0`} />
+  return <div ref={containerRef} className={`w-full ${height} z-0 overflow-hidden rounded-md`} />
 }

@@ -1,12 +1,14 @@
 'use client'
 
-import { useState, type ReactElement, type ReactNode } from 'react'
+import { useState } from 'react'
 import { Check, Copy } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 import { toast } from 'sonner'
 
 import { Button } from '@/components/ui/button'
 import { cn } from '@/lib/utils'
+
+import type { ReactElement, ReactNode } from 'react'
 
 export interface CopyableTextProps {
   text: string
@@ -59,7 +61,7 @@ export function CopyableText({
         title={actionTitle}
         className={cn('h-7 cursor-pointer gap-1 px-2 text-[11px]', mono && 'font-mono', className)}
       >
-        {copied ? <Check className="size-3 text-emerald-600 shrink-0" /> : <Copy className="size-3 text-muted-foreground shrink-0" />}
+        {copied ? <Check className="size-3 shrink-0 text-emerald-600" /> : <Copy className="text-muted-foreground size-3 shrink-0" />}
         <span>{label}</span>
       </Button>
     )
@@ -72,13 +74,13 @@ export function CopyableText({
         onClick={handleCopy}
         title={actionTitle}
         className={cn(
-          'hover:bg-primary/10 hover:text-primary inline-flex cursor-pointer items-center gap-1 rounded border border-border/60 bg-muted/40 px-1.5 py-0.5 text-xs transition-colors',
+          'hover:bg-primary/10 hover:text-primary border-border/60 bg-muted/40 inline-flex cursor-pointer items-center gap-1 rounded border px-1.5 py-0.5 text-xs transition-colors',
           mono && 'font-mono',
           className
         )}
       >
         <span>{label}</span>
-        {copied ? <Check className="size-2.5 text-emerald-600 shrink-0" /> : <Copy className="size-2.5 text-muted-foreground shrink-0" />}
+        {copied ? <Check className="size-2.5 shrink-0 text-emerald-600" /> : <Copy className="text-muted-foreground size-2.5 shrink-0" />}
       </button>
     )
   }
@@ -96,9 +98,9 @@ export function CopyableText({
     >
       <span>{label}</span>
       {copied ? (
-        <Check className="size-3 text-emerald-600 shrink-0" />
+        <Check className="size-3 shrink-0 text-emerald-600" />
       ) : (
-        <Copy className="size-3 text-muted-foreground opacity-60 group-hover:opacity-100 shrink-0 transition-opacity" />
+        <Copy className="text-muted-foreground size-3 shrink-0 opacity-60 transition-opacity group-hover:opacity-100" />
       )}
     </button>
   )

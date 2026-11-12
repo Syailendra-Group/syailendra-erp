@@ -4,9 +4,10 @@ import { ExternalLink, MapPin } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 
 import { FormFieldWrapper } from '@/components/form/form-field-wrapper'
-import { MapPicker } from './map-picker'
 import { Input } from '@/components/ui/input'
 import { cn } from '@/lib/utils'
+
+import { MapPicker } from './map-picker'
 
 import type { RegionalMapFieldProps } from '@/types/components/map'
 import type { ReactElement } from 'react'

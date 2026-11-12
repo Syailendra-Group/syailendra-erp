@@ -32,7 +32,7 @@ export function Search({ className = '', placeholder, ...props }: SearchProps): 
 
       <span className="hidden truncate sm:inline">{placeholder || tSearch('placeholder')}</span>
 
-      <kbd className="bg-muted pointer-events-none absolute top-[0.3rem] right-[0.3rem] hidden h-5 items-center gap-0.5 rounded border px-1.5 font-mono text-[10px] font-medium sm:flex">
+      <kbd className="pointer-events-none absolute top-[0.3rem] right-[0.3rem] hidden h-5 items-center gap-0.5 rounded border border-current/25 bg-black/15 px-1.5 font-mono text-[10px] font-medium sm:flex">
         <span className="text-xs">⌘</span>K
       </kbd>
     </Button>

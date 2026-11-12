@@ -35,9 +35,9 @@ export function LinkText({
 
   const content = (
     <>
-      {Icon && <Icon className={cn('size-3 text-primary shrink-0', iconClassName)} />}
+      {Icon && <Icon className={cn('text-primary size-3 shrink-0', iconClassName)} />}
       <span>{children}</span>
-      {external && <ExternalLink className="size-2.5 opacity-60 shrink-0" />}
+      {external && <ExternalLink className="size-2.5 shrink-0 opacity-60" />}
     </>
   )
 

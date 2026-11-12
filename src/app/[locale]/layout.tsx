@@ -1,4 +1,4 @@
-import { Libre_Baskerville, Public_Sans } from 'next/font/google'
+import { Geist_Mono, Plus_Jakarta_Sans } from 'next/font/google'
 import { NextIntlClientProvider } from 'next-intl'
 import { getLocale, getMessages } from 'next-intl/server'
 
@@ -10,16 +10,16 @@ import type { Metadata } from 'next'
 
 import '@/styles/index.css'
 
-const publicSans = Public_Sans({
+const plusJakartaSans = Plus_Jakarta_Sans({
+  weight: ['400', '500', '600', '700'],
   subsets: ['latin'],
-  variable: '--font-public-sans',
+  variable: '--font-plus-jakarta',
   display: 'swap'
 })
 
-const libreBaskerville = Libre_Baskerville({
-  weight: ['400', '700'],
+const geistMono = Geist_Mono({
   subsets: ['latin'],
-  variable: '--font-libre-baskerville',
+  variable: '--font-geist-mono',
   display: 'swap'
 })
 
@@ -51,7 +51,7 @@ export default async function RootLayout({ children }: RootLayoutProps): Promise
   const messages = await getMessages()
 
   return (
-    <html lang={locale} className={`${publicSans.variable} ${libreBaskerville.variable}`} suppressHydrationWarning>
+    <html lang={locale} className={`${plusJakartaSans.variable} ${geistMono.variable}`} suppressHydrationWarning>
       <body className="bg-background text-foreground selection:bg-primary/10 selection:text-primary dark:selection:text-primary min-h-screen antialiased">
         <NextIntlClientProvider messages={messages} locale={locale}>
           <ThemeProvider attribute="class" defaultTheme="light" enableSystem={false} disableTransitionOnChange={true}>

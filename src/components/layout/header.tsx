@@ -16,31 +16,35 @@ export interface HeaderProps extends HTMLAttributes<HTMLElement> {
   fixed?: boolean
 }
 
+const HEADER_BTN_CLASS = 'border border-white/20 bg-white/10 text-white hover:bg-white/20 hover:text-white'
+
 export function Header({ className, children, ...props }: HeaderProps): ReactElement {
   return (
-    <header
-      className={cn(
-        'border-border/40 dark:bg-background/85 dark:supports-backdrop-filter:bg-background/75 sticky top-0 z-40 flex h-16 w-full items-center border-b bg-white/85 backdrop-blur-md transition-colors supports-backdrop-filter:bg-white/75',
-        className
-      )}
-      {...props}
-    >
-      <div className="flex w-full items-center gap-2 px-3 sm:gap-4 sm:px-6">
-        <div className="flex items-center gap-2 sm:gap-3">
-          <SidebarTrigger variant="outline" className="cursor-pointer max-md:scale-110" />
-          <Separator orientation="vertical" className="h-5" />
-          <TopNav />
-        </div>
+    <div className="bg-background/90 sticky top-0 z-40 w-full pe-2 pt-2 pb-1 backdrop-blur-md max-md:ps-2 md:ps-0">
+      <header
+        className={cn(
+          'bg-primary text-primary-foreground flex h-16 w-full items-center rounded-lg border border-white/10 shadow-md transition-colors',
+          className
+        )}
+        {...props}
+      >
+        <div className="flex w-full items-center gap-2 px-3 sm:gap-4 sm:px-5">
+          <div className="flex items-center gap-2 sm:gap-3">
+            <SidebarTrigger variant="ghost" className={cn('cursor-pointer max-md:scale-110', HEADER_BTN_CLASS)} />
+            <Separator orientation="vertical" className="h-5 bg-white/20" />
+            <TopNav />
+          </div>
 
-        <div className="ms-auto flex items-center gap-1.5 sm:gap-2">
-          {children}
-          <Search />
-          <LanguageToggle />
-          <ThemeToggle />
-          <Separator orientation="vertical" className="hidden h-5 sm:block" />
-          <ProfileDropdown />
+          <div className="ms-auto flex items-center gap-1.5 sm:gap-2">
+            {children}
+            <Search className={cn('border-white/20 bg-white/10 text-white/90 hover:bg-white/20 hover:text-white')} />
+            <LanguageToggle className={HEADER_BTN_CLASS} />
+            <ThemeToggle className={HEADER_BTN_CLASS} />
+            <Separator orientation="vertical" className="hidden h-5 bg-white/20 sm:block" />
+            <ProfileDropdown />
+          </div>
         </div>
-      </div>
-    </header>
+      </header>
+    </div>
   )
 }

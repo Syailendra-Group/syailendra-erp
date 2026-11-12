@@ -13,9 +13,11 @@ import {
   DropdownMenuTrigger
 } from '@/components/ui/dropdown-menu'
 import { SidebarMenu, SidebarMenuButton, SidebarMenuItem } from '@/components/ui/sidebar'
+import { useRouter } from '@/i18n/navigation'
 import { SYAILENDRA_ENTITIES, useEntityStore } from '@/stores/entity-store'
+import { useNavStore } from '@/stores/nav-store'
 
-import type { SyailendraEntityId } from '@/stores/entity-store'
+import type { SyailendraEntity, SyailendraEntityId } from '@/stores/entity-store'
 import type { ElementType, ReactElement } from 'react'
 
 const ENTITY_ICONS: Record<SyailendraEntityId, ElementType> = {
@@ -27,9 +29,18 @@ const ENTITY_ICONS: Record<SyailendraEntityId, ElementType> = {
 
 export function CompanySwitcher(): ReactElement {
   const tCommon = useTranslations('common.company')
-  const { activeEntityId, setActiveEntityId } = useEntityStore()
+  const router = useRouter()
+  const activeEntityId = useEntityStore((s) => s.activeEntityId)
+  const setActiveEntityId = useEntityStore((s) => s.setActiveEntityId)
+  const setActiveTab = useNavStore((s) => s.setActiveTab)
 
   const activeEntity = SYAILENDRA_ENTITIES.find((e) => e.id === activeEntityId) || SYAILENDRA_ENTITIES[0]
+
+  const handleSelectEntity = (entity: SyailendraEntity) => {
+    setActiveEntityId(entity.id)
+    setActiveTab(entity.pillars[0])
+    router.push(entity.defaultRoute)
+  }
 
   return (
     <SidebarMenu>
@@ -38,9 +49,9 @@ export function CompanySwitcher(): ReactElement {
           <DropdownMenuTrigger asChild>
             <SidebarMenuButton
               size="lg"
-              className="data-[state=open]:bg-sidebar-accent data-[state=open]:text-sidebar-accent-foreground cursor-pointer"
+              className="cursor-pointer text-white hover:bg-white/10 hover:text-white data-[state=open]:bg-white/15 data-[state=open]:text-white"
             >
-              <div className="bg-primary/10 border-primary/20 flex aspect-square size-8 items-center justify-center overflow-hidden rounded-lg border">
+              <div className="flex aspect-square size-8 items-center justify-center overflow-hidden rounded-lg border border-white/25 bg-white/95 shadow-xs">
                 <Image
                   src="/images/branding/syailendra_logo_monogram_only.png"
                   alt={tCommon('name')}
@@ -50,10 +61,10 @@ export function CompanySwitcher(): ReactElement {
                 />
               </div>
               <div className="grid flex-1 text-left text-sm leading-tight">
-                <span className="truncate font-semibold">{activeEntity.code}</span>
-                <span className="text-muted-foreground truncate text-xs">{activeEntity.name}</span>
+                <span className="truncate font-bold text-white">{activeEntity.code}</span>
+                <span className="truncate text-xs text-white/75">{activeEntity.name}</span>
               </div>
-              <ChevronsUpDown className="ml-auto" />
+              <ChevronsUpDown className="ml-auto text-white/70" />
             </SidebarMenuButton>
           </DropdownMenuTrigger>
 
@@ -68,7 +79,7 @@ export function CompanySwitcher(): ReactElement {
               const isSelected = entity.id === activeEntityId
 
               return (
-                <DropdownMenuItem key={entity.id} onClick={() => setActiveEntityId(entity.id)} className="cursor-pointer gap-2.5 p-2">
+                <DropdownMenuItem key={entity.id} onClick={() => handleSelectEntity(entity)} className="cursor-pointer gap-2.5 p-2">
                   <div className="flex size-7 shrink-0 items-center justify-center rounded-md border">
                     <Icon className="text-primary size-4" />
                   </div>

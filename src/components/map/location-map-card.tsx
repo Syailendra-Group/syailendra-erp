@@ -12,13 +12,10 @@ import { Skeleton } from '@/components/ui/skeleton'
 import type { LocationMapCardProps, LocationMapInnerProps } from '@/types/components/map'
 import type { ReactElement } from 'react'
 
-const LocationMapCardInner = dynamic<LocationMapInnerProps>(
-  () => import('./location-map-card-inner'),
-  {
-    ssr: false,
-    loading: () => <Skeleton className="h-64 w-full rounded-md" />
-  }
-)
+const LocationMapCardInner = dynamic<LocationMapInnerProps>(() => import('./location-map-card-inner'), {
+  ssr: false,
+  loading: () => <Skeleton className="h-64 w-full rounded-md" />
+})
 
 export function LocationMapCard({
   latitude,
@@ -34,11 +31,7 @@ export function LocationMapCard({
   const tMap = useTranslations('common.map')
 
   const hasCoords =
-    typeof latitude === 'number' &&
-    typeof longitude === 'number' &&
-    !isNaN(latitude) &&
-    !isNaN(longitude) &&
-    (latitude !== 0 || longitude !== 0)
+    typeof latitude === 'number' && typeof longitude === 'number' && !isNaN(latitude) && !isNaN(longitude) && (latitude !== 0 || longitude !== 0)
 
   const cardTitle = title || tMap('openGmaps')
   const cardDesc = description || tMap('subtitle')
@@ -73,7 +66,7 @@ export function LocationMapCard({
       }
     >
       {hasCoords ? (
-        <div className="relative overflow-hidden rounded-md border border-border/80">
+        <div className="border-border/80 relative overflow-hidden rounded-md border">
           <LocationMapCardInner
             latitude={latitude}
             longitude={longitude}
@@ -84,10 +77,10 @@ export function LocationMapCard({
           />
         </div>
       ) : (
-        <div className="flex flex-col items-center justify-center rounded-md border border-dashed border-border/80 p-8 text-center text-muted-foreground">
+        <div className="border-border/80 text-muted-foreground flex flex-col items-center justify-center rounded-md border border-dashed p-8 text-center">
           <MapPinOff className="mb-2 size-8 opacity-40" />
-          <p className="text-xs font-semibold text-foreground">{tMap('noCoords')}</p>
-          <p className="text-[11px] max-w-xs leading-relaxed">{tMap('noCoordsDesc')}</p>
+          <p className="text-foreground text-xs font-semibold">{tMap('noCoords')}</p>
+          <p className="max-w-xs text-[11px] leading-relaxed">{tMap('noCoordsDesc')}</p>
         </div>
       )}
     </SectionCard>

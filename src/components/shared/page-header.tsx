@@ -67,7 +67,7 @@ export function PageHeader({
             {titleAdditions}
           </div>
 
-          {description && <p className="text-muted-foreground text-xs sm:text-sm">{description}</p>}
+          {description && <p className="text-muted-foreground mt-1 text-xs sm:text-sm">{description}</p>}
         </div>
       </div>
 

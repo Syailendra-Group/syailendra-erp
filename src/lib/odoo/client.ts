@@ -1,5 +1,5 @@
 /**
- * client.ts — Core JSON-RPC 2.0 Engine with Session Caching & Auto-Reconnect
+ * client.ts — Core JSON-RPC 2.0 Engine with Session Caching, Auto-Reconnect & Multi-Company Context
  * Syailendra Group ERP
  */
 
@@ -32,6 +32,20 @@ export class OdooClient {
       this.config = this.resolveConfig()
     }
     return this.config
+  }
+
+  /**
+   * Build Odoo ORM context merging multi-company scope (`allowed_company_ids`)
+   */
+  private buildContext(context?: Record<string, OdooFieldValue>, allowedCompanyIds?: number[]): Record<string, OdooFieldValue> | undefined {
+    if (!context && (!allowedCompanyIds || allowedCompanyIds.length === 0)) {
+      return undefined
+    }
+    const merged: Record<string, OdooFieldValue> = { ...(context || {}) }
+    if (allowedCompanyIds && allowedCompanyIds.length > 0) {
+      merged.allowed_company_ids = allowedCompanyIds
+    }
+    return merged
   }
 
   /**
@@ -114,20 +128,21 @@ export class OdooClient {
   }
 
   /**
-   * Universal search_read query wrapper
-   */
-  /**
    * Universal 'search_count' query wrapper (SELECT count(*))
    */
-  async searchCount(model: string, domain: OdooDomain = []): Promise<number> {
-    return this.executeKw<number>(model, 'search_count', [domain])
+  async searchCount(model: string, domain: OdooDomain = [], allowedCompanyIds?: number[]): Promise<number> {
+    const ctx = this.buildContext(undefined, allowedCompanyIds)
+    return this.executeKw<number>(model, 'search_count', [domain], ctx ? { context: ctx } : {})
   }
 
+  /**
+   * Universal search_read query wrapper with multi-company context support
+   */
   async searchRead<T>(
     model: string,
     domain: OdooDomain = [],
     fields: string[] = [],
-    options: { offset?: number; limit?: number; order?: string; context?: Record<string, OdooFieldValue> } = {}
+    options: { offset?: number; limit?: number; order?: string; context?: Record<string, OdooFieldValue>; allowedCompanyIds?: number[] } = {}
   ): Promise<T[]> {
     const kwargs: Record<string, OdooFieldValue> = {
       fields,
@@ -135,8 +150,9 @@ export class OdooClient {
       limit: options.limit || 80,
       order: options.order || 'id desc'
     }
-    if (options.context) {
-      kwargs.context = options.context
+    const ctx = this.buildContext(options.context, options.allowedCompanyIds)
+    if (ctx) {
+      kwargs.context = ctx
     }
     return this.executeKw<T[]>(model, 'search_read', [domain], kwargs)
   }
@@ -144,22 +160,25 @@ export class OdooClient {
   /**
    * Create a new record in model
    */
-  async create<T = number>(model: string, values: Record<string, OdooFieldValue>): Promise<T> {
-    return this.executeKw<T>(model, 'create', [values])
+  async create<T = number>(model: string, values: Record<string, OdooFieldValue>, allowedCompanyIds?: number[]): Promise<T> {
+    const ctx = this.buildContext(undefined, allowedCompanyIds)
+    return this.executeKw<T>(model, 'create', [values], ctx ? { context: ctx } : {})
   }
 
   /**
    * Update existing record(s) in model
    */
-  async write(model: string, ids: number[], values: Record<string, OdooFieldValue>): Promise<boolean> {
-    return this.executeKw<boolean>(model, 'write', [ids, values])
+  async write(model: string, ids: number[], values: Record<string, OdooFieldValue>, allowedCompanyIds?: number[]): Promise<boolean> {
+    const ctx = this.buildContext(undefined, allowedCompanyIds)
+    return this.executeKw<boolean>(model, 'write', [ids, values], ctx ? { context: ctx } : {})
   }
 
   /**
    * Delete existing record(s) in model
    */
-  async unlink(model: string, ids: number[]): Promise<boolean> {
-    return this.executeKw<boolean>(model, 'unlink', [ids])
+  async unlink(model: string, ids: number[], allowedCompanyIds?: number[]): Promise<boolean> {
+    const ctx = this.buildContext(undefined, allowedCompanyIds)
+    return this.executeKw<boolean>(model, 'unlink', [ids], ctx ? { context: ctx } : {})
   }
 }
 

@@ -13,22 +13,11 @@ export interface CoordsLinkProps {
   fallback?: string
 }
 
-export function CoordsLink({
-  lat,
-  lng,
-  precision = 4,
-  className,
-  fallback = '-'
-}: CoordsLinkProps): ReactElement {
+export function CoordsLink({ lat, lng, precision = 4, className, fallback = '-' }: CoordsLinkProps): ReactElement {
   const numLat = typeof lat === 'number' ? lat : null
   const numLng = typeof lng === 'number' ? lng : null
 
-  const hasCoords =
-    numLat !== null &&
-    numLng !== null &&
-    !isNaN(numLat) &&
-    !isNaN(numLng) &&
-    (numLat !== 0 || numLng !== 0)
+  const hasCoords = numLat !== null && numLng !== null && !isNaN(numLat) && !isNaN(numLng) && (numLat !== 0 || numLng !== 0)
 
   if (!hasCoords || numLat === null || numLng === null) {
     return <span className="text-muted-foreground font-mono text-xs">{fallback}</span>
@@ -43,16 +32,13 @@ export function CoordsLink({
       href={mapsUrl}
       target="_blank"
       rel="noopener noreferrer"
-      className={cn(
-        'hover:text-primary inline-flex items-center gap-1 font-mono text-xs text-muted-foreground transition-colors',
-        className
-      )}
+      className={cn('hover:text-primary text-muted-foreground inline-flex items-center gap-1 font-mono text-xs transition-colors', className)}
     >
-      <MapPin className="size-3 text-primary shrink-0" />
+      <MapPin className="text-primary size-3 shrink-0" />
       <span>
         {formattedLat}, {formattedLng}
       </span>
-      <ExternalLink className="size-2.5 opacity-60 shrink-0" />
+      <ExternalLink className="size-2.5 shrink-0 opacity-60" />
     </a>
   )
 }

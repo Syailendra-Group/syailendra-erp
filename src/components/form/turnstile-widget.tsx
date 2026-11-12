@@ -18,6 +18,7 @@ interface TurnstileRenderOptions {
 }
 
 interface TurnstileApi {
+  ready?: (callback: () => void) => void
   render: (container: HTMLElement, options: TurnstileRenderOptions) => TurnstileWidgetId
   reset: (widgetId: TurnstileWidgetId) => void
   remove: (widgetId: TurnstileWidgetId) => void
@@ -66,9 +67,26 @@ export function TurnstileWidget({ onVerify, onExpire, action = 'login', resetTri
   }, [action, resolvedTheme, sitekey])
 
   useEffect(() => {
-    renderWidget()
+    let interval: NodeJS.Timeout | null = null
+
+    const tryRender = () => {
+      if (window.turnstile && containerRef.current && widgetIdRef.current === null) {
+        if (typeof window.turnstile.ready === 'function') {
+          window.turnstile.ready(renderWidget)
+        } else {
+          renderWidget()
+        }
+        if (interval) clearInterval(interval)
+      }
+    }
+
+    tryRender()
+    if (widgetIdRef.current === null) {
+      interval = setInterval(tryRender, 100)
+    }
 
     return () => {
+      if (interval) clearInterval(interval)
       if (widgetIdRef.current !== null && window.turnstile) {
         window.turnstile.remove(widgetIdRef.current)
         widgetIdRef.current = null
@@ -85,7 +103,7 @@ export function TurnstileWidget({ onVerify, onExpire, action = 'login', resetTri
   return (
     <>
       <Script src="https://challenges.cloudflare.com/turnstile/v0/api.js?render=explicit" strategy="afterInteractive" onReady={renderWidget} />
-      <div className="flex min-h-[66px] w-full items-center justify-center">
+      <div className="flex min-h-16.5 w-full items-center justify-center">
         <div ref={containerRef} />
       </div>
     </>

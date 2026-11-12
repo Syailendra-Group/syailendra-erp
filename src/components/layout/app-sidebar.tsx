@@ -14,18 +14,18 @@ export function AppSidebar(): ReactElement {
   const currentGroups = getNavGroups(activeTab)
 
   return (
-    <Sidebar collapsible="icon" variant="floating" className="border-0 shadow-md">
-      <SidebarHeader>
+    <Sidebar collapsible="icon" variant="floating" className="border-0">
+      <SidebarHeader className="h-16 justify-center border-b border-white/10 p-2">
         <CompanySwitcher />
       </SidebarHeader>
 
-      <SidebarContent className="gap-2">
+      <SidebarContent className="gap-2 pt-1">
         {currentGroups.map((group) => (
           <NavGroup key={group.titleKey} group={group} />
         ))}
       </SidebarContent>
 
-      <SidebarFooter>
+      <SidebarFooter className="border-t border-white/10 p-2">
         <NavUser />
       </SidebarFooter>
 

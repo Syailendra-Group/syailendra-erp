@@ -9,6 +9,7 @@ import { CommandDialog, CommandEmpty, CommandGroup, CommandInput, CommandItem, C
 import { ScrollArea } from '@/components/ui/scroll-area'
 import { useSearch } from '@/contexts/main/search.context'
 import { useRouter } from '@/i18n/navigation'
+import { SYAILENDRA_ENTITIES, useEntityStore } from '@/stores/entity-store'
 import { useNavStore } from '@/stores/nav-store'
 
 import type { ModuleTab } from '@/stores/nav-store'
@@ -18,9 +19,12 @@ export function CommandMenu(): ReactElement {
   const router = useRouter()
   const { setTheme } = useTheme()
   const { open, setOpen } = useSearch()
-  const { setActiveTab } = useNavStore()
+  const setActiveTab = useNavStore((s) => s.setActiveTab)
+  const activeEntityId = useEntityStore((s) => s.activeEntityId)
   const tNav = useTranslations('nav')
   const tCommon = useTranslations('common.commandMenu')
+
+  const activeEntity = SYAILENDRA_ENTITIES.find((e) => e.id === activeEntityId) || SYAILENDRA_ENTITIES[0]
 
   const runCommand = useCallback(
     (command: () => void) => {
@@ -30,7 +34,7 @@ export function CommandMenu(): ReactElement {
     [setOpen]
   )
 
-  const modules: { title: string; url: string; tab: ModuleTab; icon: ElementType }[] = [
+  const allModules: { title: string; url: string; tab: ModuleTab; icon: ElementType }[] = [
     { title: tNav('modules.main'), url: '/overview', tab: 'main', icon: LayoutDashboard },
     { title: tNav('modules.ftm'), url: '/ftm', tab: 'ftm', icon: Calculator },
     { title: tNav('modules.hrm'), url: '/hris', tab: 'hrm', icon: Clock },
@@ -43,7 +47,7 @@ export function CommandMenu(): ReactElement {
     { title: tNav('modules.others'), url: '/others', tab: 'others', icon: Sliders }
   ]
 
-  const items: { title: string; url: string; tab: ModuleTab }[] = [
+  const allItems: { title: string; url: string; tab: ModuleTab }[] = [
     { title: tNav('items.lots_batches'), url: '/scm/lots', tab: 'scm' },
     { title: tNav('items.genealogy_graph'), url: '/scm/genealogy', tab: 'scm' },
     { title: tNav('items.qr_printer'), url: '/scm/qr-printer', tab: 'scm' },
@@ -56,6 +60,9 @@ export function CommandMenu(): ReactElement {
     { title: tNav('items.company_profile'), url: '/others/company', tab: 'others' }
   ]
 
+  const visibleModules = allModules.filter((m) => activeEntity.pillars.includes(m.tab))
+  const visibleItems = allItems.filter((it) => activeEntity.pillars.includes(it.tab))
+
   return (
     <CommandDialog open={open} onOpenChange={setOpen}>
       <CommandInput placeholder={tCommon('placeholder')} />
@@ -63,8 +70,8 @@ export function CommandMenu(): ReactElement {
         <ScrollArea className="h-72 pe-1">
           <CommandEmpty>{tCommon('noResults')}</CommandEmpty>
 
-          <CommandGroup heading={tCommon('navigation')}>
-            {modules.map((m) => {
+          <CommandGroup heading={`${tCommon('navigation')} (${activeEntity.code})`}>
+            {visibleModules.map((m) => {
               const Icon = m.icon
               return (
                 <CommandItem
@@ -83,7 +90,7 @@ export function CommandMenu(): ReactElement {
                 </CommandItem>
               )
             })}
-            {items.map((it) => (
+            {visibleItems.map((it) => (
               <CommandItem
                 key={it.url}
                 value={it.title}

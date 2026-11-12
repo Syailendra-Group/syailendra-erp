@@ -39,18 +39,16 @@ export function NavUser(): ReactElement {
             <DropdownMenuTrigger asChild>
               <SidebarMenuButton
                 size="lg"
-                className="data-[state=open]:bg-sidebar-accent data-[state=open]:text-sidebar-accent-foreground cursor-pointer"
+                className="cursor-pointer text-white hover:bg-white/10 hover:text-white data-[state=open]:bg-white/15 data-[state=open]:text-white"
               >
                 <Avatar className="h-8 w-8 rounded-lg">
-                  <AvatarFallback className="bg-primary text-primary-foreground rounded-lg text-xs font-semibold">
-                    {user.name.charAt(0)}
-                  </AvatarFallback>
+                  <AvatarFallback className="bg-brand-gold text-brand-ink rounded-lg text-xs font-bold">{user.name.charAt(0)}</AvatarFallback>
                 </Avatar>
                 <div className="grid flex-1 text-left text-sm leading-tight">
-                  <span className="truncate font-semibold">{user.name}</span>
-                  <span className="text-muted-foreground truncate text-xs">{user.email}</span>
+                  <span className="truncate font-semibold text-white">{user.name}</span>
+                  <span className="truncate text-xs text-white/70">{user.email}</span>
                 </div>
-                <ChevronsUpDown className="ml-auto size-4" />
+                <ChevronsUpDown className="ml-auto size-4 text-white/70" />
               </SidebarMenuButton>
             </DropdownMenuTrigger>
 
@@ -58,9 +56,7 @@ export function NavUser(): ReactElement {
               <DropdownMenuLabel className="p-0 font-normal">
                 <div className="flex items-center gap-2 px-1 py-1.5 text-left text-sm">
                   <Avatar className="h-8 w-8 rounded-lg">
-                    <AvatarFallback className="bg-primary text-primary-foreground rounded-lg text-xs font-semibold">
-                      {user.name.charAt(0)}
-                    </AvatarFallback>
+                    <AvatarFallback className="bg-brand-gold text-brand-ink rounded-lg text-xs font-bold">{user.name.charAt(0)}</AvatarFallback>
                   </Avatar>
                   <div className="grid flex-1 text-left text-sm leading-tight">
                     <span className="truncate font-semibold">{user.name}</span>

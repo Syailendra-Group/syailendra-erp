@@ -87,7 +87,11 @@ function FlagUs({ className }: { className?: string }): ReactElement {
   )
 }
 
-export function LanguageToggle(): ReactElement {
+export interface LanguageToggleProps {
+  className?: string
+}
+
+export function LanguageToggle({ className }: LanguageToggleProps): ReactElement {
   const locale = useLocale()
   const router = useRouter()
   const pathname = usePathname()
@@ -101,7 +105,7 @@ export function LanguageToggle(): ReactElement {
   return (
     <DropdownMenu>
       <DropdownMenuTrigger asChild>
-        <Button variant="outline" size="sm" className="cursor-pointer gap-2 text-xs font-semibold">
+        <Button variant="outline" size="sm" className={cn('cursor-pointer gap-2 text-xs font-semibold', className)}>
           {isIndonesian ? <FlagId className="h-3.5 w-5 shrink-0" /> : <FlagUs className="h-3.5 w-5 shrink-0" />}
           <span>{isIndonesian ? 'ID' : 'EN'}</span>
         </Button>

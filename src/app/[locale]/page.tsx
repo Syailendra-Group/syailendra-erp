@@ -66,9 +66,7 @@ export default function HomePage(): React.ReactElement {
                 <CheckCircle2 className="h-3.5 w-3.5" />
                 {tCommon('status.success')}
               </span>
-              <Button size="sm" className="cursor-pointer">
-                {tCommon('actions.view')}
-              </Button>
+              <Button className="cursor-pointer">{tCommon('actions.view')}</Button>
             </div>
           </CardContent>
         </Card>

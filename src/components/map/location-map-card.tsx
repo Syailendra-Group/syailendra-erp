@@ -55,7 +55,7 @@ export function LocationMapCard({
               toastMessage={tMap('copied')}
               title={tMap('copyCoords')}
             />
-            <Button variant="outline" size="sm" asChild className="h-7 gap-1 px-2 text-[11px]">
+            <Button variant="outline" asChild className="gap-1 px-2 text-[11px]">
               <a href={gmapsUrl} target="_blank" rel="noopener noreferrer">
                 <span>{tMap('openGmaps')}</span>
                 <ExternalLink className="size-3" />

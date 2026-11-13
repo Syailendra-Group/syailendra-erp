@@ -47,7 +47,7 @@ export function AddressSection({ form }: AddressSectionProps) {
               <FormItem>
                 <FormLabel className="text-xs">{t('form.fields.zip')}</FormLabel>
                 <FormControl>
-                  <Input {...field} placeholder={t('form.fields.zipPlaceholder')} className="h-8 font-mono text-xs" />
+                  <Input {...field} placeholder={t('form.fields.zipPlaceholder')} className="font-mono text-xs" />
                 </FormControl>
                 <FormMessage className="text-[11px]" />
               </FormItem>

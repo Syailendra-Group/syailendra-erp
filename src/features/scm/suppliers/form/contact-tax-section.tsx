@@ -31,7 +31,7 @@ export function ContactTaxSection({ form }: ContactTaxSectionProps) {
               <FormItem>
                 <FormLabel className="text-xs">{t('form.fields.contactName')}</FormLabel>
                 <FormControl>
-                  <Input {...field} placeholder={t('form.fields.contactNamePlaceholder')} className="h-8 text-xs" />
+                  <Input {...field} placeholder={t('form.fields.contactNamePlaceholder')} className="text-xs" />
                 </FormControl>
                 <FormMessage className="text-[11px]" />
               </FormItem>
@@ -46,7 +46,7 @@ export function ContactTaxSection({ form }: ContactTaxSectionProps) {
               <FormItem>
                 <FormLabel className="text-xs">{t('form.fields.email')}</FormLabel>
                 <FormControl>
-                  <Input {...field} type="email" placeholder={t('form.fields.emailPlaceholder')} className="h-8 font-mono text-xs" />
+                  <Input {...field} type="email" placeholder={t('form.fields.emailPlaceholder')} className="font-mono text-xs" />
                 </FormControl>
                 <FormMessage className="text-[11px]" />
               </FormItem>
@@ -61,7 +61,7 @@ export function ContactTaxSection({ form }: ContactTaxSectionProps) {
               <FormItem>
                 <FormLabel className="text-xs">{t('form.fields.mobile')}</FormLabel>
                 <FormControl>
-                  <Input {...field} placeholder={t('form.fields.mobilePlaceholder')} className="h-8 font-mono text-xs" />
+                  <Input {...field} placeholder={t('form.fields.mobilePlaceholder')} className="font-mono text-xs" />
                 </FormControl>
                 <FormMessage className="text-[11px]" />
               </FormItem>
@@ -76,7 +76,7 @@ export function ContactTaxSection({ form }: ContactTaxSectionProps) {
               <FormItem>
                 <FormLabel className="text-xs">{t('form.fields.phone')}</FormLabel>
                 <FormControl>
-                  <Input {...field} placeholder={t('form.fields.phonePlaceholder')} className="h-8 font-mono text-xs" />
+                  <Input {...field} placeholder={t('form.fields.phonePlaceholder')} className="font-mono text-xs" />
                 </FormControl>
                 <FormMessage className="text-[11px]" />
               </FormItem>
@@ -93,7 +93,7 @@ export function ContactTaxSection({ form }: ContactTaxSectionProps) {
               <FormItem>
                 <FormLabel className="text-xs">{t('form.fields.vat')}</FormLabel>
                 <FormControl>
-                  <Input {...field} placeholder={t('form.fields.vatPlaceholder')} className="h-8 font-mono text-xs" />
+                  <Input {...field} placeholder={t('form.fields.vatPlaceholder')} className="font-mono text-xs" />
                 </FormControl>
                 <FormMessage className="text-[11px]" />
               </FormItem>

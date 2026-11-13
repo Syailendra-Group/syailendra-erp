@@ -34,7 +34,7 @@ export function FinanceSection({ form }: FinanceSectionProps) {
                 <FormLabel className="text-xs">{t('form.fields.paymentTerm')} *</FormLabel>
                 <Select onValueChange={field.onChange} defaultValue={field.value}>
                   <FormControl>
-                    <SelectTrigger className="h-8 text-xs">
+                    <SelectTrigger className="text-xs">
                       <SelectValue placeholder={t('form.fields.paymentTermPlaceholder')} />
                     </SelectTrigger>
                   </FormControl>
@@ -56,7 +56,7 @@ export function FinanceSection({ form }: FinanceSectionProps) {
               <FormItem>
                 <FormLabel className="text-xs">{t('form.fields.legacyCode')}</FormLabel>
                 <FormControl>
-                  <Input {...field} placeholder={t('form.fields.legacyCodePlaceholder')} className="h-8 font-mono text-xs" />
+                  <Input {...field} placeholder={t('form.fields.legacyCodePlaceholder')} className="font-mono text-xs" />
                 </FormControl>
                 <FormMessage className="text-[11px]" />
               </FormItem>
@@ -74,7 +74,7 @@ export function FinanceSection({ form }: FinanceSectionProps) {
               <FormItem>
                 <FormLabel className="text-xs">{t('form.fields.bankName')}</FormLabel>
                 <FormControl>
-                  <Input {...field} placeholder={t('form.fields.bankNamePlaceholder')} className="h-8 text-xs" />
+                  <Input {...field} placeholder={t('form.fields.bankNamePlaceholder')} className="text-xs" />
                 </FormControl>
                 <FormMessage className="text-[11px]" />
               </FormItem>
@@ -89,7 +89,7 @@ export function FinanceSection({ form }: FinanceSectionProps) {
               <FormItem>
                 <FormLabel className="text-xs">{t('form.fields.accountNumber')}</FormLabel>
                 <FormControl>
-                  <Input {...field} placeholder={t('form.fields.accountNumberPlaceholder')} className="h-8 font-mono text-xs" />
+                  <Input {...field} placeholder={t('form.fields.accountNumberPlaceholder')} className="font-mono text-xs" />
                 </FormControl>
                 <FormMessage className="text-[11px]" />
               </FormItem>
@@ -104,7 +104,7 @@ export function FinanceSection({ form }: FinanceSectionProps) {
               <FormItem>
                 <FormLabel className="text-xs">{t('form.fields.accountHolder')}</FormLabel>
                 <FormControl>
-                  <Input {...field} placeholder={t('form.fields.accountHolderPlaceholder')} className="h-8 text-xs" />
+                  <Input {...field} placeholder={t('form.fields.accountHolderPlaceholder')} className="text-xs" />
                 </FormControl>
                 <FormMessage className="text-[11px]" />
               </FormItem>

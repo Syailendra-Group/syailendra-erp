@@ -41,10 +41,10 @@ export default function SCMDistillationCreatePage() {
         </div>
 
         <div className="flex items-center gap-2">
-          <Button type="button" variant="ghost" size="sm" className="h-8 cursor-pointer text-xs" onClick={() => router.push('/scm/distillation')}>
+          <Button type="button" variant="ghost" className="cursor-pointer text-xs" onClick={() => router.push('/scm/distillation')}>
             Batal
           </Button>
-          <Button type="button" size="sm" className="h-8 cursor-pointer gap-1.5 text-xs font-medium" onClick={handleSave}>
+          <Button type="button" className="cursor-pointer gap-1.5 text-xs font-medium" onClick={handleSave}>
             <Save className="h-3.5 w-3.5" />
             <span>Simpan Hasil Suling</span>
           </Button>
@@ -79,11 +79,11 @@ export default function SCMDistillationCreatePage() {
           <CardContent className="grid grid-cols-1 gap-4 sm:grid-cols-2">
             <div className="space-y-1">
               <Label className="text-xs">Unit Ketel Penyulingan</Label>
-              <Input defaultValue="DST-JTG-001 (Ketel Uap 1 Ton Stainless)" className="h-8 text-xs" />
+              <Input defaultValue="DST-JTG-001 (Ketel Uap 1 Ton Stainless)" className="text-xs" />
             </div>
             <div className="space-y-1">
               <Label className="text-xs">Lot Bahan Baku Input</Label>
-              <Input defaultValue="LOT-RAW-20261106-01 (Nilam Jawa - 1,250 Kg)" className="h-8 font-mono text-xs" />
+              <Input defaultValue="LOT-RAW-20261106-01 (Nilam Jawa - 1,250 Kg)" className="font-mono text-xs" />
             </div>
             <div className="space-y-1">
               <Label className="text-xs">Berat Daun Masuk (Biomassa Kg)</Label>
@@ -91,7 +91,7 @@ export default function SCMDistillationCreatePage() {
             </div>
             <div className="space-y-1">
               <Label className="text-xs">Durasi Penyulingan (Jam)</Label>
-              <Input defaultValue="8.5" className="h-8 font-mono text-xs" />
+              <Input defaultValue="8.5" className="font-mono text-xs" />
             </div>
           </CardContent>
         </Card>
@@ -114,7 +114,7 @@ export default function SCMDistillationCreatePage() {
             </div>
             <div className="space-y-1">
               <Label className="text-xs">Nomor Lot Minyak Terbit</Label>
-              <Input disabled defaultValue="LOT-OIL-20261106-05" className="bg-muted/40 text-primary h-8 font-mono text-xs font-semibold" />
+              <Input disabled defaultValue="LOT-OIL-20261106-05" className="bg-muted/40 text-primary font-mono text-xs font-semibold" />
             </div>
           </CardContent>
         </Card>

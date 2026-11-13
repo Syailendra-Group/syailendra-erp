@@ -78,7 +78,7 @@ export function RegionalMapField({
             onChange={handleLatChange}
             placeholder="-7.123456"
             disabled={disabled}
-            className="h-8 font-mono text-xs"
+            className="font-mono text-xs"
           />
         </FormFieldWrapper>
 
@@ -91,7 +91,7 @@ export function RegionalMapField({
             onChange={handleLngChange}
             placeholder="110.123456"
             disabled={disabled}
-            className="h-8 font-mono text-xs"
+            className="font-mono text-xs"
           />
         </FormFieldWrapper>
       </div>

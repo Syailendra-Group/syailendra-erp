@@ -127,7 +127,7 @@ export function SupplierCategoryForm({ selectedCategory, isEdit, onSuccess, onPe
   return (
     <form id="supplier-category-form" onSubmit={handleSubmit(onSubmit)} className="space-y-4 px-1">
       <FormFieldWrapper id="category_name" label={t('form.fields.name')} required error={errors.name?.message}>
-        <Input id="category_name" placeholder={t('form.fields.namePlaceholder')} disabled={isPending} className="h-8 text-xs" {...register('name')} />
+        <Input id="category_name" placeholder={t('form.fields.namePlaceholder')} disabled={isPending} className="text-xs" {...register('name')} />
       </FormFieldWrapper>
 
       <FormFieldWrapper id="parent_id" label={t('form.fields.parent')}>

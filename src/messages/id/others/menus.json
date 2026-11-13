@@ -1,17 +1,48 @@
 {
   "title": "Alokasi Pilar & Menu",
-  "subtitle": "Tetapkan kepemilikan eksklusif setiap pilar bisnis ke satu entitas Syailendra Group",
-  "exclusivityTitle": "Aturan Eksklusivitas Pilar",
-  "exclusivityDesc": "Satu pilar hanya dapat dimiliki oleh satu PT. Memilih PT baru untuk sebuah pilar akan otomatis mencabut pilar tersebut dari PT sebelumnya. Setiap PT wajib memiliki minimal satu pilar.",
-  "matrixTitle": "Matriks Alokasi Eksklusif",
-  "matrixSubtitle": "Klik tombol pada kolom PT untuk memindahkan kepemilikan pilar",
-  "colPillar": "Pilar Bisnis",
-  "assignBtn": "Tetapkan",
-  "pillarsCount": "pilar",
-  "resetDefault": "Kembalikan Default",
-  "saveButton": "Simpan Alokasi",
-  "saveSuccess": "Alokasi pilar berhasil diperbarui",
-  "saveError": "Gagal menyimpan alokasi pilar : {error}",
-  "emptyEntityError": "{code} harus memiliki minimal satu pilar",
-  "unknownError": "Terjadi kesalahan yang tidak diketahui"
+  "subtitle": "Kelola identitas menu, nama singkatan, tagline, deskripsi, dan alokasi kepemilikan eksklusif lintas entitas",
+  "exclusivityTitle": "Aturan Eksklusivitas Pilar & Menu Dinamis",
+  "exclusivityDesc": "Setiap pilar bisnis hanya dapat dimiliki oleh satu entitas PT. Anda dapat mengubah nama singkatan menu, nama lengkap, tagline, deskripsi operasional, dan memindahkan kepemilikan PT secara dinamis.",
+  "matrixTitle": "Daftar Konfigurasi Pilar & Menu Bisnis",
+  "matrixSubtitle": "Gunakan tabel di bawah untuk mencari, memfilter entitas pemilik, atau mengedit detail menu pilar",
+  "pillarsCount": "Pilar",
+  "noPillarsAssigned": "Belum ada pilar",
+  "saveSuccess": "Konfigurasi pilar berhasil diperbarui",
+  "reassignSuccess": "Kepemilikan pilar berhasil dipindahkan",
+  "saveError": "Gagal menyimpan konfigurasi pilar",
+  "unknownError": "Terjadi kesalahan yang tidak diketahui",
+  "table": {
+    "sequence": "Urutan",
+    "code": "Kode Sistem",
+    "shortName": "Singkatan Menu",
+    "name": "Nama Lengkap & Tagline",
+    "description": "Deskripsi Operasional",
+    "owner": "Entitas Pemilik"
+  },
+  "form": {
+    "shortName": "Nama Singkatan Menu",
+    "shortNamePlaceholder": "Contoh: FTM",
+    "name": "Nama Menu Lengkap",
+    "namePlaceholder": "Contoh: Finance & Tax Management",
+    "tagline": "Tagline Pilar",
+    "taglinePlaceholder": "Contoh: Consolidated Financial & Corporate Tax Ledger",
+    "ownerCompany": "Entitas PT Pemilik Eksklusif",
+    "selectCompany": "Pilih Entitas PT",
+    "sequence": "Urutan Tampil",
+    "description": "Deskripsi Fungsi & Cakupan",
+    "descriptionPlaceholder": "Jelaskan cakupan modul dan tanggung jawab operasional pilar ini..."
+  },
+  "dialog": {
+    "editTitle": "Ubah Konfigurasi Pilar ({code})",
+    "editDesc": "Perbarui nama singkatan, nama lengkap, tagline, deskripsi, dan entitas pemilik pilar",
+    "viewTitle": "Detail Konfigurasi Pilar Bisnis",
+    "viewDesc": "Informasi lengkap identitas menu dan entitas pemegang hak akses eksklusif"
+  },
+  "validation": {
+    "shortNameMin": "Singkatan menu minimal 2 karakter",
+    "shortNameMax": "Singkatan menu maksimal 30 karakter",
+    "nameMin": "Nama lengkap menu minimal 3 karakter",
+    "nameMax": "Nama lengkap menu maksimal 120 karakter",
+    "companyRequired": "Wajib memilih entitas PT pemilik"
+  }
 }

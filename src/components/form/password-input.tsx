@@ -27,7 +27,6 @@ export const PasswordInput = React.forwardRef<HTMLInputElement, PasswordInputPro
         <Button
           type="button"
           variant="ghost"
-          size="sm"
           tabIndex={-1}
           disabled={disabled}
           className="text-muted-foreground hover:text-foreground absolute top-0 right-0 h-full px-3 py-2 hover:bg-transparent"

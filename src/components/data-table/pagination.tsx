@@ -35,7 +35,7 @@ export function DataTablePagination<TData>({ table, className }: DataTablePagina
               table.setPageSize(Number(value))
             }}
           >
-            <SelectTrigger className="h-8 w-17.5 text-xs">
+            <SelectTrigger className="w-17.5 text-xs">
               <SelectValue placeholder={table.getState().pagination.pageSize} />
             </SelectTrigger>
             <SelectContent side="top">

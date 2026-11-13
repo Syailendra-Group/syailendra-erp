@@ -26,9 +26,7 @@ export default function SCMGenealogyPage() {
               <Search className="text-muted-foreground absolute top-2.5 left-2.5 h-4 w-4" />
               <Input defaultValue="EXP-DRUM-2026-042" placeholder={t('search')} className="h-9 pl-9 font-mono text-xs" />
             </div>
-            <Button size="sm" className="h-9 cursor-pointer text-xs">
-              Telusuri Silsilah
-            </Button>
+            <Button className="h-9 cursor-pointer text-xs">Telusuri Silsilah</Button>
           </div>
         </CardContent>
       </Card>

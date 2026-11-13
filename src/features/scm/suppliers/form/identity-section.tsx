@@ -43,7 +43,7 @@ export function IdentitySection({ form }: IdentitySectionProps) {
               <FormItem>
                 <FormLabel className="text-xs">{t('form.fields.ref')} *</FormLabel>
                 <FormControl>
-                  <Input {...field} placeholder={t('form.fields.refPlaceholder')} className="h-8 font-mono text-xs" />
+                  <Input {...field} placeholder={t('form.fields.refPlaceholder')} className="font-mono text-xs" />
                 </FormControl>
                 <FormMessage className="text-[11px]" />
               </FormItem>
@@ -58,7 +58,7 @@ export function IdentitySection({ form }: IdentitySectionProps) {
               <FormItem>
                 <FormLabel className="text-xs">{t('form.fields.name')} *</FormLabel>
                 <FormControl>
-                  <Input {...field} placeholder={t('form.fields.namePlaceholder')} className="h-8 text-xs" />
+                  <Input {...field} placeholder={t('form.fields.namePlaceholder')} className="text-xs" />
                 </FormControl>
                 <FormMessage className="text-[11px]" />
               </FormItem>
@@ -75,7 +75,7 @@ export function IdentitySection({ form }: IdentitySectionProps) {
               <FormLabel className="text-xs">{t('form.fields.companyType')} *</FormLabel>
               <Select onValueChange={field.onChange} defaultValue={field.value}>
                 <FormControl>
-                  <SelectTrigger className="h-8 w-full text-xs sm:w-64">
+                  <SelectTrigger className="w-full text-xs sm:w-64">
                     <SelectValue placeholder={t('form.fields.companyTypePlaceholder')} />
                   </SelectTrigger>
                 </FormControl>

@@ -5,7 +5,7 @@ import { persist } from 'zustand/middleware'
 
 import type { ModuleTab } from './nav-store'
 
-export type SyailendraEntityId = 'sbi' | 'spba' | 'sammend' | 'sg'
+export type SyailendraEntityId = 'sg' | 'sbi' | 'spba' | 'sammend'
 
 export interface SyailendraEntity {
   id: SyailendraEntityId
@@ -43,9 +43,19 @@ export function syncDefaultRouteCookie(route: string): void {
 
 export const INITIAL_SYAILENDRA_ENTITIES: SyailendraEntity[] = [
   {
+    id: 'sg',
+    code: 'SG',
+    name: 'SYAILENDRA GROUP',
+    roleKey: 'entities.sgRole',
+    odooCompanyId: 4,
+    pillars: ['imm', 'others'],
+    defaultRoute: '/imm',
+    logoBase64: null
+  },
+  {
     id: 'sbi',
     code: 'PT SBI',
-    name: 'PT Syailendra Bumi Investama',
+    name: 'PT SYAILENDRA BUMI INVESTAMA',
     roleKey: 'entities.sbiRole',
     odooCompanyId: 1,
     pillars: ['ftm', 'hrm', 'scm'],
@@ -55,7 +65,7 @@ export const INITIAL_SYAILENDRA_ENTITIES: SyailendraEntity[] = [
   {
     id: 'spba',
     code: 'PT SPBA',
-    name: 'PT Syailendra Prima Agro',
+    name: 'PT SYAILENDRA PABRIK BERSAMA',
     roleKey: 'entities.spbaRole',
     odooCompanyId: 2,
     pillars: ['wms'],
@@ -65,21 +75,11 @@ export const INITIAL_SYAILENDRA_ENTITIES: SyailendraEntity[] = [
   {
     id: 'sammend',
     code: 'PT SAMMEND',
-    name: 'PT Syailendra Aroma Mandiri',
+    name: 'PT SYAILENDRA MAHAKARYA MENDUNIA',
     roleKey: 'entities.sammendRole',
     odooCompanyId: 3,
     pillars: ['crm', 'dcm', 'ai'],
     defaultRoute: '/crm',
-    logoBase64: null
-  },
-  {
-    id: 'sg',
-    code: 'PT SG',
-    name: 'PT Syailendra Group',
-    roleKey: 'entities.sgRole',
-    odooCompanyId: 4,
-    pillars: ['imm', 'others'],
-    defaultRoute: '/imm',
     logoBase64: null
   }
 ]
@@ -100,7 +100,7 @@ interface EntityState {
 export const useEntityStore = create<EntityState>()(
   persist(
     (set, get) => ({
-      activeEntityId: 'sbi',
+      activeEntityId: 'sg',
       entities: INITIAL_SYAILENDRA_ENTITIES,
       setActiveEntityId: (id) => {
         const entity = get().entities.find((e) => e.id === id)
@@ -140,22 +140,30 @@ export const useEntityStore = create<EntityState>()(
         }))
       },
       syncEntitiesFromOdoo: (records) => {
-        set((state) => ({
-          entities: state.entities.map((e) => {
-            const found = records.find((r) => r.id === e.odooCompanyId)
-            if (!found) return e
-            const nextPillars = found.enabled_pillars.length > 0 ? found.enabled_pillars : e.pillars
-            const nextCode = (found.short_name || '').trim() || e.code
-            return {
-              ...e,
-              name: found.name || e.name,
+        set((state) => {
+          const baseMap = new Map(INITIAL_SYAILENDRA_ENTITIES.map((e) => [e.odooCompanyId, e]))
+          const prevMap = new Map(state.entities.map((e) => [e.odooCompanyId, e]))
+
+          const orderedEntities: SyailendraEntity[] = []
+          for (const rec of records) {
+            const base = prevMap.get(rec.id) || baseMap.get(rec.id)
+            if (!base) continue
+            const nextPillars = rec.enabled_pillars.length > 0 ? rec.enabled_pillars : base.pillars
+            const nextCode = (rec.short_name || '').trim() || base.code
+            orderedEntities.push({
+              ...base,
+              name: rec.name || base.name,
               code: nextCode,
               pillars: nextPillars,
               defaultRoute: resolveRouteByPillar(nextPillars[0]),
-              logoBase64: found.logo_web !== undefined ? found.logo_web : e.logoBase64
-            }
-          })
-        }))
+              logoBase64: rec.logo_web !== undefined ? rec.logo_web : base.logoBase64
+            })
+          }
+
+          return {
+            entities: orderedEntities.length > 0 ? orderedEntities : INITIAL_SYAILENDRA_ENTITIES
+          }
+        })
       }
     }),
     {

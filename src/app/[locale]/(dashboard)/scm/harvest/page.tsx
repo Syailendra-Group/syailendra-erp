@@ -16,7 +16,7 @@ export default function SCMHarvestPage() {
   const router = useRouter()
 
   const primaryActions = (
-    <Button size="sm" onClick={() => router.push('/scm/harvest/create')} className="h-8 cursor-pointer gap-1.5 text-xs font-medium">
+    <Button onClick={() => router.push('/scm/harvest/create')} className="h-8 cursor-pointer gap-1.5 text-xs font-medium">
       <Plus className="h-3.5 w-3.5" />
       <span>{t('actions.create')}</span>
     </Button>

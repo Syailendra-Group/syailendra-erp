@@ -21,14 +21,14 @@ function parsePillars(raw?: OdooFieldValue): ModuleTab[] {
 
 function resolveDefaultCode(id: number): string {
   switch (id) {
+    case 4:
+      return 'SG'
     case 1:
       return 'PT SBI'
     case 2:
       return 'PT SPBA'
     case 3:
       return 'PT SAMMEND'
-    case 4:
-      return 'PT SG'
     default:
       return `PT-${id}`
   }
@@ -37,6 +37,7 @@ function resolveDefaultCode(id: number): string {
 export async function fetchAllCompanies(): Promise<CompanyRecord[]> {
   const companyFields = [
     'id',
+    'sequence',
     'name',
     'short_name',
     'tagline',
@@ -51,7 +52,7 @@ export async function fetchAllCompanies(): Promise<CompanyRecord[]> {
   ]
 
   const rawCompanies = await odoo.client.searchRead<Record<string, OdooFieldValue>>('res.company', [], companyFields, {
-    order: 'id asc'
+    order: 'sequence asc, id asc'
   })
 
   const partnerIds = rawCompanies

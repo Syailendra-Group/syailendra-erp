@@ -45,7 +45,7 @@ export function PublicTraceView({ data, lotCode }: PublicTraceViewProps): ReactE
           <CardTitle className="text-xl font-bold">{t('notFoundTitle')}</CardTitle>
           <CardDescription className="mt-2 text-xs">{t('notFoundDesc', { lot: lotCode })}</CardDescription>
           <div className="mt-6">
-            <Button asChild variant="outline" size="sm" className="cursor-pointer">
+            <Button asChild variant="outline" className="cursor-pointer">
               <Link href="/">{t('backToHome')}</Link>
             </Button>
           </div>
@@ -228,7 +228,7 @@ export function PublicTraceView({ data, lotCode }: PublicTraceViewProps): ReactE
               <p className="text-muted-foreground text-xs">{t('coaDesc')}</p>
             </div>
             {data.public_coa_url ? (
-              <Button asChild size="sm" className="cursor-pointer gap-1.5 text-xs font-semibold">
+              <Button asChild className="cursor-pointer gap-1.5 text-xs font-semibold">
                 <a href={data.public_coa_url} target="_blank" rel="noopener noreferrer">
                   <ExternalLink className="size-3.5" />
                   <span>{t('viewCoaPdf')}</span>

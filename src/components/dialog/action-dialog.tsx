@@ -1,8 +1,8 @@
 'use client'
 
-import { Loader2 } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 
+import { LoadingButton } from '@/components/button/loading-button'
 import { Button } from '@/components/ui/button'
 import { Dialog, DialogContent, DialogDescription, DialogFooter, DialogHeader, DialogTitle } from '@/components/ui/dialog'
 import { cn } from '@/lib/utils'
@@ -44,6 +44,8 @@ export function ActionDialog({
 }: ActionDialogProps): ReactElement {
   const tCommon = useTranslations('common')
 
+  const resolvedSubmitLabel = submitLabel || (isEdit ? tCommon('actions.save') : tCommon('actions.create'))
+
   return (
     <Dialog open={open} onOpenChange={onOpenChange}>
       <DialogContent className={cn(maxWidth, className)}>
@@ -64,10 +66,9 @@ export function ActionDialog({
               <Button type="button" variant="outline" disabled={isPending} onClick={() => onOpenChange(false)}>
                 {cancelLabel || tCommon('actions.cancel')}
               </Button>
-              <Button type="submit" form={formId} disabled={isPending || submitDisabled} className="cursor-pointer gap-2 font-semibold">
-                {isPending && <Loader2 className="size-4 animate-spin" />}
-                <span>{isPending ? tCommon('actions.loading') : submitLabel || (isEdit ? tCommon('actions.save') : tCommon('actions.create'))}</span>
-              </Button>
+              <LoadingButton type="submit" form={formId} isLoading={isPending} disabled={submitDisabled} loadingText={tCommon('actions.loading')}>
+                {resolvedSubmitLabel}
+              </LoadingButton>
             </>
           )}
         </DialogFooter>

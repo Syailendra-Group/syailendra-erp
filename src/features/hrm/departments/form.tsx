@@ -89,7 +89,7 @@ export function DepartmentsActionDialog({ currentRow, open, onOpenChange, onSucc
     >
       <form id="department-form" onSubmit={handleSubmit(onSubmit)} className="space-y-4 px-1">
         <FormFieldWrapper id="dept-name" label={tAdmin('fields.name')} required error={errors.name?.message}>
-          <Input id="dept-name" placeholder={tAdmin('fields.name_placeholder')} disabled={isPending} className="h-8 text-xs" {...register('name')} />
+          <Input id="dept-name" placeholder={tAdmin('fields.name_placeholder')} disabled={isPending} className="text-xs" {...register('name')} />
         </FormFieldWrapper>
       </form>
     </ActionDialog>

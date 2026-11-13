@@ -56,10 +56,9 @@ export function CopyableText({
       <Button
         type="button"
         variant="outline"
-        size="sm"
         onClick={handleCopy}
         title={actionTitle}
-        className={cn('h-7 cursor-pointer gap-1 px-2 text-[11px]', mono && 'font-mono', className)}
+        className={cn('cursor-pointer gap-1 px-2 text-[11px]', mono && 'font-mono', className)}
       >
         {copied ? <Check className="size-3 shrink-0 text-emerald-600" /> : <Copy className="text-muted-foreground size-3 shrink-0" />}
         <span>{label}</span>

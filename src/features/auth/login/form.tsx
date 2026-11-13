@@ -2,15 +2,15 @@
 
 import { useRouter } from 'next/navigation'
 import { zodResolver } from '@hookform/resolvers/zod'
-import { Loader2, LogIn } from 'lucide-react'
+import { LogIn } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 import { useForm } from 'react-hook-form'
 import { toast } from 'sonner'
 
+import { LoadingButton } from '@/components/button/loading-button'
 import { FormFieldWrapper } from '@/components/form/form-field-wrapper'
 import { PasswordInput } from '@/components/form/password-input'
 import { TurnstileField } from '@/components/form/turnstile-field'
-import { Button } from '@/components/ui/button'
 import { Checkbox } from '@/components/ui/checkbox'
 import { Input } from '@/components/ui/input'
 import { useLoginMutation } from '@/hooks/auth/use-auth'
@@ -116,19 +116,9 @@ export function LoginForm({ onSuccessRedirect }: LoginFormProps): ReactElement {
         </p>
       )}
 
-      <Button type="submit" disabled={isPending} className="w-full font-bold">
-        {isPending ? (
-          <>
-            <Loader2 className="mr-2 h-4 w-4 animate-spin" />
-            <span>{tAuth('buttons.logging_in')}</span>
-          </>
-        ) : (
-          <>
-            <LogIn className="mr-2 h-4 w-4" />
-            <span>{tAuth('buttons.login')}</span>
-          </>
-        )}
-      </Button>
+      <LoadingButton type="submit" isLoading={isPending} loadingText={tAuth('buttons.logging_in')} icon={LogIn} className="w-full font-bold">
+        <span>{tAuth('buttons.login')}</span>
+      </LoadingButton>
     </form>
   )
 }

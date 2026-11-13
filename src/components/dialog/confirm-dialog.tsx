@@ -2,6 +2,7 @@
 
 import { useTranslations } from 'next-intl'
 
+import { LoadingButton } from '@/components/button/loading-button'
 import {
   AlertDialog,
   AlertDialogCancel,
@@ -11,7 +12,6 @@ import {
   AlertDialogHeader,
   AlertDialogTitle
 } from '@/components/ui/alert-dialog'
-import { Button } from '@/components/ui/button'
 import { cn } from '@/lib/utils'
 
 import type { ComponentProps, ReactNode } from 'react'
@@ -62,15 +62,16 @@ export function ConfirmDialog({
 
         <AlertDialogFooter>
           <AlertDialogCancel disabled={isLoading}>{resolvedCancelBtnText}</AlertDialogCancel>
-          <Button
+          <LoadingButton
             type={form ? 'submit' : 'button'}
             form={form}
             onClick={handleConfirm}
             variant={destructive ? 'destructive' : 'default'}
-            disabled={disabled || isLoading}
+            isLoading={isLoading}
+            disabled={disabled}
           >
             {resolvedConfirmText}
-          </Button>
+          </LoadingButton>
         </AlertDialogFooter>
       </AlertDialogContent>
     </AlertDialog>

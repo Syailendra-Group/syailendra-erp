@@ -1,17 +1,48 @@
 {
   "title": "Pillar & Menu Allocation",
-  "subtitle": "Assign exclusive ownership of each business pillar to a single Syailendra Group entity",
-  "exclusivityTitle": "Pillar Exclusivity Rule",
-  "exclusivityDesc": "A pillar can only be owned by one company. Selecting a new company for a pillar automatically revokes it from the previous owner. Every company must own at least one pillar.",
-  "matrixTitle": "Exclusive Allocation Matrix",
-  "matrixSubtitle": "Click a button in a company column to move pillar ownership",
-  "colPillar": "Business Pillar",
-  "assignBtn": "Assign",
-  "pillarsCount": "pillars",
-  "resetDefault": "Reset to Default",
-  "saveButton": "Save Allocation",
-  "saveSuccess": "Pillar allocation successfully updated",
-  "saveError": "Failed to save pillar allocation : {error}",
-  "emptyEntityError": "{code} must own at least one pillar",
-  "unknownError": "An unknown error occurred"
+  "subtitle": "Manage menu identities, short names, taglines, descriptions, and exclusive ownership across entities",
+  "exclusivityTitle": "Dynamic Pillar & Menu Exclusivity Rule",
+  "exclusivityDesc": "Each business pillar is exclusively owned by a single corporate entity. You can dynamically edit menu short names, full titles, taglines, operational descriptions, and reassign entity ownership.",
+  "matrixTitle": "Business Pillar & Menu Registry",
+  "matrixSubtitle": "Use the datatable below to search, filter by owning entity, or edit pillar menu metadata",
+  "pillarsCount": "Pillars",
+  "noPillarsAssigned": "No pillars assigned",
+  "saveSuccess": "Pillar configuration successfully updated",
+  "reassignSuccess": "Pillar ownership successfully reassigned",
+  "saveError": "Failed to save pillar configuration",
+  "unknownError": "An unknown error occurred",
+  "table": {
+    "sequence": "Seq",
+    "code": "System Code",
+    "shortName": "Short Name",
+    "name": "Full Menu Name & Tagline",
+    "description": "Operational Description",
+    "owner": "Owning Entity"
+  },
+  "form": {
+    "shortName": "Menu Short Name",
+    "shortNamePlaceholder": "e.g. FTM",
+    "name": "Full Menu Name",
+    "namePlaceholder": "e.g. Finance & Tax Management",
+    "tagline": "Pillar Tagline",
+    "taglinePlaceholder": "e.g. Consolidated Financial & Corporate Tax Ledger",
+    "ownerCompany": "Exclusive Owning Entity",
+    "selectCompany": "Select Corporate Entity",
+    "sequence": "Display Sequence",
+    "description": "Functional Scope & Description",
+    "descriptionPlaceholder": "Describe the modules and operational responsibilities of this pillar..."
+  },
+  "dialog": {
+    "editTitle": "Edit Pillar Configuration ({code})",
+    "editDesc": "Update short name, full menu title, tagline, description, and owning entity",
+    "viewTitle": "Business Pillar Configuration Detail",
+    "viewDesc": "Complete metadata and exclusive corporate entity assignment"
+  },
+  "validation": {
+    "shortNameMin": "Menu short name must be at least 2 characters",
+    "shortNameMax": "Menu short name cannot exceed 30 characters",
+    "nameMin": "Full menu name must be at least 3 characters",
+    "nameMax": "Full menu name cannot exceed 120 characters",
+    "companyRequired": "Please select an owning corporate entity"
+  }
 }

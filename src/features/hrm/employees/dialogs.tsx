@@ -98,7 +98,6 @@ export function EmployeesDialogs(): ReactElement {
             <Button
               type="button"
               variant="outline"
-              size="sm"
               onClick={() => {
                 setOpen(null)
                 setCurrentRow(null)
@@ -108,7 +107,6 @@ export function EmployeesDialogs(): ReactElement {
             </Button>
             <Button
               type="button"
-              size="sm"
               onClick={() => {
                 setOpen('edit')
               }}

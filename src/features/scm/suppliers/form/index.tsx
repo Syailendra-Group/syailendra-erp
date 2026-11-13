@@ -8,6 +8,7 @@ import { useTranslations } from 'next-intl'
 import { useForm } from 'react-hook-form'
 import { toast } from 'sonner'
 
+import { LoadingButton } from '@/components/button/loading-button'
 import { PageHeader } from '@/components/shared/page-header'
 import { Button } from '@/components/ui/button'
 import { Form } from '@/components/ui/form'
@@ -100,13 +101,12 @@ export function SupplierForm({ initialData, isEdit = false }: SupplierFormProps)
           description={isEdit ? t('form.editDescription') : t('form.createDescription')}
           actions={
             <div className="flex items-center gap-2">
-              <Button type="button" variant="ghost" size="sm" className="h-8 cursor-pointer text-xs" onClick={() => router.push('/scm/suppliers')}>
+              <Button type="button" variant="ghost" className="cursor-pointer text-xs" onClick={() => router.push('/scm/suppliers')}>
                 {t('form.buttons.cancel')}
               </Button>
-              <Button type="submit" size="sm" disabled={isSubmitting} className="h-8 cursor-pointer gap-1.5 text-xs font-medium">
-                <Save className="h-3.5 w-3.5" />
-                <span>{isSubmitting ? tCommon('status.saving') : t('form.buttons.save')}</span>
-              </Button>
+              <LoadingButton type="submit" isLoading={isSubmitting} loadingText={tCommon('status.saving')} icon={Save} className="text-xs">
+                <span>{t('form.buttons.save')}</span>
+              </LoadingButton>
             </div>
           }
         />

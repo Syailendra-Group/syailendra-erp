@@ -1,10 +1,12 @@
 'use client'
 
+import { useMemo } from 'react'
 import { Bot, Calculator, Clock, Layers, Leaf, Menu, Sliders, Store, Target, Warehouse } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 
 import { Button } from '@/components/ui/button'
 import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuTrigger } from '@/components/ui/dropdown-menu'
+import { usePillarsQuery } from '@/hooks/others/use-menus'
 import { Link } from '@/i18n/navigation'
 import { cn } from '@/lib/utils'
 import { useEntityStore } from '@/stores/entity-store'
@@ -38,6 +40,15 @@ export function TopNav(): ReactElement {
   const { activeTab, setActiveTab } = useNavStore()
   const activeEntityId = useEntityStore((s) => s.activeEntityId)
   const entities = useEntityStore((s) => s.entities)
+  const { data: pillarsData } = usePillarsQuery()
+
+  const pillarShortNames = useMemo(() => {
+    const map = new Map<ModuleTab, string>()
+    pillarsData?.pillars?.forEach((p) => {
+      if (p.short_name) map.set(p.code, p.short_name)
+    })
+    return map
+  }, [pillarsData])
 
   const activeEntity = entities.find((e) => e.id === activeEntityId) || entities[0]
   const activePillars = activeEntity?.pillars || ['ftm', 'scm']
@@ -63,6 +74,7 @@ export function TopNav(): ReactElement {
           {visibleTabs.map((tab) => {
             const Icon = tab.icon
             const isActive = activeTab === tab.id
+            const label = pillarShortNames.get(tab.id) || tNav(tab.titleKey)
             return (
               <DropdownMenuItem key={tab.id} asChild onClick={() => setActiveTab(tab.id)}>
                 <Link
@@ -70,7 +82,7 @@ export function TopNav(): ReactElement {
                   className={cn('cursor-pointer gap-2 text-xs font-medium', isActive ? 'text-primary bg-primary/10 font-bold' : '')}
                 >
                   <Icon className="h-4 w-4" />
-                  <span>{tNav(tab.titleKey)}</span>
+                  <span>{label}</span>
                 </Link>
               </DropdownMenuItem>
             )
@@ -83,11 +95,11 @@ export function TopNav(): ReactElement {
         {visibleTabs.map((tab) => {
           const Icon = tab.icon
           const isActive = activeTab === tab.id
+          const label = pillarShortNames.get(tab.id) || tNav(tab.titleKey)
           return (
             <Button
               key={tab.id}
               variant="ghost"
-              size="sm"
               asChild
               onClick={() => setActiveTab(tab.id)}
               className={cn(
@@ -99,7 +111,7 @@ export function TopNav(): ReactElement {
             >
               <Link href={tab.href}>
                 <Icon className={cn('h-3.5 w-3.5 shrink-0', isActive ? 'text-brand-gold' : 'text-white/70')} />
-                <span>{tNav(tab.titleKey)}</span>
+                <span>{label}</span>
               </Link>
             </Button>
           )

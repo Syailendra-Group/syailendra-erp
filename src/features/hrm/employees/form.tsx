@@ -97,7 +97,7 @@ export function EmployeesActionDialog({ currentRow, open, onOpenChange, departme
               <FormItem className="space-y-1.5">
                 <FormLabel className="text-xs font-semibold">{tAdmin('fields.name')}</FormLabel>
                 <FormControl>
-                  <Input placeholder={tAdmin('fields.name_placeholder')} className="h-8 text-xs" autoComplete="off" {...field} />
+                  <Input placeholder={tAdmin('fields.name_placeholder')} className="text-xs" autoComplete="off" {...field} />
                 </FormControl>
                 <FormMessage className="text-[11px]" />
               </FormItem>
@@ -113,7 +113,7 @@ export function EmployeesActionDialog({ currentRow, open, onOpenChange, departme
                 <FormItem className="space-y-1.5">
                   <FormLabel className="text-xs font-semibold">{tAdmin('fields.job_title')}</FormLabel>
                   <FormControl>
-                    <Input placeholder={tAdmin('fields.job_title_placeholder')} className="h-8 text-xs" {...field} />
+                    <Input placeholder={tAdmin('fields.job_title_placeholder')} className="text-xs" {...field} />
                   </FormControl>
                   <FormMessage className="text-[11px]" />
                 </FormItem>
@@ -154,7 +154,7 @@ export function EmployeesActionDialog({ currentRow, open, onOpenChange, departme
                 <FormItem className="space-y-1.5">
                   <FormLabel className="text-xs font-semibold">{tAdmin('fields.work_email')}</FormLabel>
                   <FormControl>
-                    <Input type="email" placeholder={tAdmin('fields.work_email_placeholder')} className="h-8 text-xs" {...field} />
+                    <Input type="email" placeholder={tAdmin('fields.work_email_placeholder')} className="text-xs" {...field} />
                   </FormControl>
                   <FormMessage className="text-[11px]" />
                 </FormItem>
@@ -169,7 +169,7 @@ export function EmployeesActionDialog({ currentRow, open, onOpenChange, departme
                 <FormItem className="space-y-1.5">
                   <FormLabel className="text-xs font-semibold">{tAdmin('fields.work_phone')}</FormLabel>
                   <FormControl>
-                    <Input placeholder={tAdmin('fields.work_phone_placeholder')} className="h-8 font-mono text-xs" {...field} />
+                    <Input placeholder={tAdmin('fields.work_phone_placeholder')} className="font-mono text-xs" {...field} />
                   </FormControl>
                   <FormMessage className="text-[11px]" />
                 </FormItem>

@@ -22,7 +22,7 @@ export function Search({ className = '', placeholder, ...props }: SearchProps): 
       {...props}
       variant="outline"
       className={cn(
-        'group text-muted-foreground hover:bg-muted bg-muted/30 relative h-8 cursor-pointer justify-center rounded-lg p-0 text-xs font-normal shadow-none max-sm:size-8 max-sm:w-8 sm:w-40 sm:justify-start sm:px-2.5 sm:pe-12 md:flex-none lg:w-48 xl:w-56',
+        'group text-muted-foreground hover:bg-muted bg-muted/30 relative cursor-pointer justify-center rounded-lg p-0 text-xs font-normal shadow-none max-sm:size-8 max-sm:w-8 sm:w-40 sm:justify-start sm:px-2.5 sm:pe-12 md:flex-none lg:w-48 xl:w-56',
         className
       )}
       onClick={() => setOpen(true)}

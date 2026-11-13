@@ -151,7 +151,11 @@
 
   /* Dynamic Dark Mode Sidebar Gradient derived from --primary */
   --sidebar: color-mix(in srgb, var(--primary) 72%, #000000);
-  --sidebar-gradient: linear-gradient(180deg, color-mix(in srgb, var(--primary) 72%, #000000) 0%, color-mix(in srgb, var(--primary) 42%, #000000) 100%);
+  --sidebar-gradient: linear-gradient(
+    180deg,
+    color-mix(in srgb, var(--primary) 72%, #000000) 0%,
+    color-mix(in srgb, var(--primary) 42%, #000000) 100%
+  );
   --sidebar-foreground: #f8fafc;
   --sidebar-primary: #fbbf24;
   --sidebar-primary-foreground: #111111;

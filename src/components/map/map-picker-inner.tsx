@@ -216,11 +216,10 @@ export default function MapPickerInner({
       <div className="absolute top-3 right-3 z-1000">
         <Button
           type="button"
-          size="sm"
           variant="secondary"
           onClick={handleLocateMe}
           disabled={disabled || isLocating}
-          className="bg-background/90 hover:bg-background h-8 gap-1.5 px-2.5 text-xs font-medium shadow-md backdrop-blur-md"
+          className="bg-background/90 hover:bg-background gap-1.5 px-2.5 text-xs font-medium shadow-md backdrop-blur-md"
         >
           {isLocating ? <Loader2 className="text-primary size-3.5 animate-spin" /> : <Crosshair className="text-primary size-3.5" />}
           <span>{isLocating ? activeLocatingLabel : activeLocateMeLabel}</span>

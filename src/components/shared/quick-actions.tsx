@@ -36,9 +36,8 @@ export function QuickActions({ items, title, className }: QuickActionsProps): Re
               <Button
                 key={action.label}
                 variant={action.variant || 'outline'}
-                size="sm"
                 asChild
-                className="h-7 cursor-pointer gap-1.5 px-2.5 text-[11px] font-medium sm:h-8 sm:px-3 sm:text-xs"
+                className="cursor-pointer gap-1.5 px-2.5 text-[11px] font-medium sm:sm:px-3 sm:text-xs"
               >
                 <Link href={action.href}>
                   <Icon className="size-3.5" />

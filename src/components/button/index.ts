@@ -1,3 +1,6 @@
 export * from './action-button'
+export * from './dropdown-select'
 export * from './link-button'
+export * from './loading-button'
+export * from './pill-tabs'
 export * from './primary-action'

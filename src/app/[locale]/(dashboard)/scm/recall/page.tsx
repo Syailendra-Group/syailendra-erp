@@ -22,7 +22,7 @@ export default function SCMRecallPage() {
         <CardContent className="pt-6">
           <div className="flex max-w-lg gap-2">
             <Input defaultValue="EXP-DRUM-2026-042" placeholder={t('search')} className="h-9 font-mono text-xs" />
-            <Button size="sm" onClick={() => setHasRun(true)} className="h-9 cursor-pointer text-xs">
+            <Button onClick={() => setHasRun(true)} className="h-9 cursor-pointer text-xs">
               {t('run')}
             </Button>
           </div>

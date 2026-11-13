@@ -98,7 +98,7 @@ export function TraceabilityOverview(): ReactElement {
                       </Badge>
                     </TableCell>
                     <TableCell className="text-right">
-                      <Button variant="ghost" size="sm" asChild className="h-6 cursor-pointer px-2 text-[11px] sm:h-7 sm:text-xs">
+                      <Button variant="ghost" asChild className="cursor-pointer px-2 text-[11px] sm:text-xs">
                         <Link href={`/trace/${b.code}`}>
                           <span>{t('table.viewQr')}</span>
                           <ArrowRight className="ml-1 size-3" />

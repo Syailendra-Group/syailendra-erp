@@ -110,7 +110,7 @@ export function CompanySwitcher(): ReactElement {
                   </div>
                   <div className="flex min-w-0 flex-1 flex-col">
                     <span className="truncate text-xs font-semibold">
-                      {entity.code} • {entity.name}
+                      {entity.code} - {entity.name}
                     </span>
                     <span className="text-muted-foreground truncate text-[11px]">{tCommon(entity.roleKey)}</span>
                   </div>

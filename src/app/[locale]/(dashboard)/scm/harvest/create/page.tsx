@@ -35,10 +35,10 @@ export default function SCMHarvestCreatePage() {
         </div>
 
         <div className="flex items-center gap-2">
-          <Button type="button" variant="ghost" size="sm" className="h-8 cursor-pointer text-xs" onClick={() => router.push('/scm/harvest')}>
+          <Button type="button" variant="ghost" className="cursor-pointer text-xs" onClick={() => router.push('/scm/harvest')}>
             Batal
           </Button>
-          <Button type="button" size="sm" className="h-8 cursor-pointer gap-1.5 text-xs font-medium" onClick={handleSave}>
+          <Button type="button" className="cursor-pointer gap-1.5 text-xs font-medium" onClick={handleSave}>
             <Save className="h-3.5 w-3.5" />
             <span>Simpan Sesi Panen</span>
           </Button>
@@ -55,11 +55,11 @@ export default function SCMHarvestCreatePage() {
           <CardContent className="grid grid-cols-1 gap-4 sm:grid-cols-2">
             <div className="space-y-1">
               <Label className="text-xs">{t('form.fields.code')}</Label>
-              <Input disabled defaultValue="HAR-20261106-005" className="bg-muted/40 h-8 font-mono text-xs" />
+              <Input disabled defaultValue="HAR-20261106-005" className="bg-muted/40 font-mono text-xs" />
             </div>
             <div className="space-y-1">
               <Label className="text-xs">{t('form.fields.commodity')}</Label>
-              <Input defaultValue="Nilam Jawa (Pogostemon cablin) - SBI-PKD-CDW-042" className="h-8 text-xs" />
+              <Input defaultValue="Nilam Jawa (Pogostemon cablin) - SBI-PKD-CDW-042" className="text-xs" />
             </div>
           </CardContent>
         </Card>
@@ -72,11 +72,11 @@ export default function SCMHarvestCreatePage() {
           <CardContent className="grid grid-cols-1 gap-4 sm:grid-cols-2">
             <div className="space-y-1">
               <Label className="text-xs">{t('form.fields.farmer')}</Label>
-              <Input defaultValue="Bpk. Sukirman (Kelompok Tani Rembang)" className="h-8 text-xs" />
+              <Input defaultValue="Bpk. Sukirman (Kelompok Tani Rembang)" className="text-xs" />
             </div>
             <div className="space-y-1">
               <Label className="text-xs">{t('form.fields.gps')}</Label>
-              <Input defaultValue="-6.712345, 111.456789" className="h-8 font-mono text-xs" />
+              <Input defaultValue="-6.712345, 111.456789" className="font-mono text-xs" />
             </div>
           </CardContent>
         </Card>
@@ -89,15 +89,15 @@ export default function SCMHarvestCreatePage() {
           <CardContent className="grid grid-cols-1 gap-4 sm:grid-cols-3">
             <div className="space-y-1">
               <Label className="text-xs">{t('form.fields.weight')}</Label>
-              <Input type="number" defaultValue="1500" className="h-8 font-mono text-xs" />
+              <Input type="number" defaultValue="1500" className="font-mono text-xs" />
             </div>
             <div className="space-y-1">
               <Label className="text-xs">{t('form.fields.moisture')}</Label>
-              <Input defaultValue="14.5%" className="h-8 font-mono text-xs" />
+              <Input defaultValue="14.5%" className="font-mono text-xs" />
             </div>
             <div className="space-y-1">
               <Label className="text-xs">{t('form.fields.lot')}</Label>
-              <Input disabled defaultValue="LOT-RAW-20261106-05" className="bg-muted/40 text-primary h-8 font-mono text-xs font-semibold" />
+              <Input disabled defaultValue="LOT-RAW-20261106-05" className="bg-muted/40 text-primary font-mono text-xs font-semibold" />
             </div>
           </CardContent>
         </Card>

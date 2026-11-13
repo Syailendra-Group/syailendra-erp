@@ -26,8 +26,7 @@ export function DataTableBulkActions<TData>({ table, onBulkDelete, onBulkExport 
       {onBulkExport && (
         <Button
           variant="ghost"
-          size="sm"
-          className="text-primary-foreground hover:bg-primary-foreground/10 h-7 cursor-pointer gap-1 px-2 text-xs"
+          className="text-primary-foreground hover:bg-primary-foreground/10 cursor-pointer gap-1 px-2 text-xs"
           onClick={() => onBulkExport(selectedRows.map((r) => r.original))}
         >
           <Download className="h-3 w-3" />
@@ -38,8 +37,7 @@ export function DataTableBulkActions<TData>({ table, onBulkDelete, onBulkExport 
       {onBulkDelete && (
         <Button
           variant="ghost"
-          size="sm"
-          className="text-destructive-foreground hover:bg-destructive/20 h-7 cursor-pointer gap-1 px-2 text-xs"
+          className="text-destructive-foreground hover:bg-destructive/20 cursor-pointer gap-1 px-2 text-xs"
           onClick={() => onBulkDelete(selectedRows.map((r) => r.original))}
         >
           <Trash2 className="h-3 w-3 text-red-300" />

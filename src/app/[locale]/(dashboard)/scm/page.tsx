@@ -153,7 +153,7 @@ export default function SCMOverviewPage() {
               <CardTitle className="text-sm font-semibold">{t('feeds.recentHarvest')}</CardTitle>
               <p className="text-muted-foreground text-xs">{t('feeds.recentHarvestDesc')}</p>
             </div>
-            <Button variant="ghost" size="sm" className="cursor-pointer gap-1 text-xs" onClick={() => router.push('/scm/harvest')}>
+            <Button variant="ghost" className="cursor-pointer gap-1 text-xs" onClick={() => router.push('/scm/harvest')}>
               <span>{t('feeds.viewAllHarvest')}</span>
               <ArrowUpRight className="h-3.5 w-3.5" />
             </Button>
@@ -164,7 +164,7 @@ export default function SCMOverviewPage() {
                 <div className="space-y-0.5">
                   <div className="flex items-center gap-2">
                     <span className="text-primary font-mono font-bold">{item.code}</span>
-                    <span className="text-muted-foreground">• {item.commodity}</span>
+                    <span className="text-muted-foreground">- {item.commodity}</span>
                   </div>
                   <p className="text-muted-foreground text-[11px]">{item.farmer}</p>
                 </div>
@@ -186,7 +186,7 @@ export default function SCMOverviewPage() {
               <CardTitle className="text-sm font-semibold">{t('feeds.pendingQC')}</CardTitle>
               <p className="text-muted-foreground text-xs">{t('feeds.pendingQCDesc')}</p>
             </div>
-            <Button variant="ghost" size="sm" className="cursor-pointer gap-1 text-xs" onClick={() => router.push('/scm/qc')}>
+            <Button variant="ghost" className="cursor-pointer gap-1 text-xs" onClick={() => router.push('/scm/qc')}>
               <span>{t('feeds.viewAllQC')}</span>
               <ArrowUpRight className="h-3.5 w-3.5" />
             </Button>

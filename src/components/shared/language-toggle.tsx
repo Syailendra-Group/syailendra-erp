@@ -105,7 +105,7 @@ export function LanguageToggle({ className }: LanguageToggleProps): ReactElement
   return (
     <DropdownMenu>
       <DropdownMenuTrigger asChild>
-        <Button variant="outline" size="sm" className={cn('cursor-pointer gap-2 text-xs font-semibold', className)}>
+        <Button variant="outline" className={cn('cursor-pointer gap-2 text-xs font-semibold', className)}>
           {isIndonesian ? <FlagId className="h-3.5 w-5 shrink-0" /> : <FlagUs className="h-3.5 w-5 shrink-0" />}
           <span>{isIndonesian ? 'ID' : 'EN'}</span>
         </Button>

@@ -24,11 +24,11 @@ export default function SCMReportGenealogyPage() {
         icon={FileText}
         actions={
           <div className="flex gap-2">
-            <Button variant="outline" size="sm" className="h-8 cursor-pointer gap-1.5 text-xs" onClick={() => handleExport('Excel')}>
+            <Button variant="outline" className="cursor-pointer gap-1.5 text-xs" onClick={() => handleExport('Excel')}>
               <Download className="h-3.5 w-3.5" />
               <span>{t('exportExcel')}</span>
             </Button>
-            <Button size="sm" className="h-8 cursor-pointer gap-1.5 text-xs font-medium" onClick={() => handleExport('PDF')}>
+            <Button className="cursor-pointer gap-1.5 text-xs font-medium" onClick={() => handleExport('PDF')}>
               <Printer className="h-3.5 w-3.5" />
               <span>{t('exportPDF')}</span>
             </Button>

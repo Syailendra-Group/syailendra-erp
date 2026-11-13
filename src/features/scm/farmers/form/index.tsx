@@ -2,12 +2,13 @@
 
 import { useCallback, useState } from 'react'
 import { zodResolver } from '@hookform/resolvers/zod'
-import { Loader2, Save } from 'lucide-react'
+import { Save } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 import { useForm } from 'react-hook-form'
 import { toast } from 'sonner'
 
 import { getNextFarmerIdAction } from '@/actions/scm/farmer.action'
+import { LoadingButton } from '@/components/button/loading-button'
 import { AddressSection } from '@/components/form/address-section'
 import { PageHeader } from '@/components/shared/page-header'
 import { Button } from '@/components/ui/button'
@@ -148,22 +149,19 @@ export function FarmerForm({ initialData }: FarmerFormProps): ReactElement {
         description={isEdit ? tTrace('dialog.editDesc') : tTrace('dialog.addDesc')}
         actions={
           <div className="flex items-center gap-2">
-            <Button type="button" variant="ghost" size="sm" className="h-8 cursor-pointer text-xs" onClick={() => router.push('/scm/farmers')}>
+            <Button type="button" variant="ghost" className="cursor-pointer text-xs" onClick={() => router.push('/scm/farmers')}>
               {tCommon('actions.cancel')}
             </Button>
-            <Button type="submit" form="farmer-form" size="sm" disabled={isPending} className="h-8 cursor-pointer text-xs font-semibold">
-              {isPending ? (
-                <>
-                  <Loader2 className="mr-1.5 h-3.5 w-3.5 animate-spin" />
-                  <span>{tCommon('actions.loading')}</span>
-                </>
-              ) : (
-                <>
-                  <Save className="mr-1.5 h-3.5 w-3.5" />
-                  <span>{isEdit ? tCommon('actions.save') : tTrace('primaryAction')}</span>
-                </>
-              )}
-            </Button>
+            <LoadingButton
+              type="submit"
+              form="farmer-form"
+              isLoading={isPending}
+              loadingText={tCommon('actions.loading')}
+              icon={Save}
+              className="text-xs"
+            >
+              <span>{isEdit ? tCommon('actions.save') : tTrace('primaryAction')}</span>
+            </LoadingButton>
           </div>
         }
       />

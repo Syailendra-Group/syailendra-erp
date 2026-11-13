@@ -7,11 +7,12 @@
 
 import { useEffect, useMemo } from 'react'
 import { zodResolver } from '@hookform/resolvers/zod'
-import { Loader2, Save } from 'lucide-react'
+import { Save } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 import { useForm } from 'react-hook-form'
 import { toast } from 'sonner'
 
+import { LoadingButton } from '@/components/button/loading-button'
 import { PageHeader } from '@/components/shared/page-header'
 import { Button } from '@/components/ui/button'
 import { Card, CardContent } from '@/components/ui/card'
@@ -142,22 +143,19 @@ export function MaterialForm({ initialData }: MaterialFormProps): ReactElement {
         description={isEdit ? t('dialog.editDesc') : t('dialog.addDesc')}
         actions={
           <div className="flex items-center gap-2">
-            <Button type="button" variant="ghost" size="sm" className="h-8 cursor-pointer text-xs" onClick={() => router.push('/scm/materials')}>
+            <Button type="button" variant="ghost" className="cursor-pointer text-xs" onClick={() => router.push('/scm/materials')}>
               {tCommon('actions.cancel')}
             </Button>
-            <Button form="material-page-form" type="submit" size="sm" disabled={isPending} className="h-8 cursor-pointer text-xs font-semibold">
-              {isPending ? (
-                <>
-                  <Loader2 className="mr-1.5 h-3.5 w-3.5 animate-spin" />
-                  <span>{tCommon('actions.loading')}</span>
-                </>
-              ) : (
-                <>
-                  <Save className="mr-1.5 h-3.5 w-3.5" />
-                  <span>{tCommon('actions.save')}</span>
-                </>
-              )}
-            </Button>
+            <LoadingButton
+              form="material-page-form"
+              type="submit"
+              isLoading={isPending}
+              loadingText={tCommon('actions.loading')}
+              icon={Save}
+              className="text-xs"
+            >
+              <span>{tCommon('actions.save')}</span>
+            </LoadingButton>
           </div>
         }
       />

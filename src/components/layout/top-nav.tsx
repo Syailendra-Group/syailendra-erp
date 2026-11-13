@@ -1,6 +1,6 @@
 'use client'
 
-import { Bot, Calculator, Clock, Layers, LayoutDashboard, Leaf, Menu, Sliders, Store, Target, Warehouse } from 'lucide-react'
+import { Bot, Calculator, Clock, Layers, Leaf, Menu, Sliders, Store, Target, Warehouse } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 
 import { Button } from '@/components/ui/button'
@@ -22,7 +22,6 @@ export interface NavItemConfig {
 }
 
 const ALL_TABS: NavItemConfig[] = [
-  { id: 'main', titleKey: 'modules.main', icon: LayoutDashboard, href: '/overview' },
   { id: 'ftm', titleKey: 'modules.ftm', icon: Calculator, href: '/ftm' },
   { id: 'hrm', titleKey: 'modules.hrm', icon: Clock, href: '/hris' },
   { id: 'scm', titleKey: 'modules.scm', icon: Layers, href: '/scm' },
@@ -41,7 +40,7 @@ export function TopNav(): ReactElement {
   const entities = useEntityStore((s) => s.entities)
 
   const activeEntity = entities.find((e) => e.id === activeEntityId) || entities[0]
-  const activePillars = activeEntity?.pillars || ['main', 'others']
+  const activePillars = activeEntity?.pillars || ['ftm', 'scm']
   const visibleTabs = ALL_TABS.filter((tab) => activePillars.includes(tab.id))
 
   return (

@@ -3,9 +3,9 @@
  * Syailendra Group ERP
  */
 
-import type { DistrictRecord } from '@/types/sbi/others/district'
-import type { ProvinceRecord } from '@/types/sbi/others/province'
-import type { RegencyRecord } from '@/types/sbi/others/regency'
+import type { DistrictRecord } from '@/types/others/district'
+import type { ProvinceRecord } from '@/types/others/province'
+import type { RegencyRecord } from '@/types/others/regency'
 
 export interface SelectOption {
   label: string

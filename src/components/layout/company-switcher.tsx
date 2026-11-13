@@ -56,7 +56,14 @@ export function CompanySwitcher(): ReactElement {
             >
               <div className="flex aspect-square size-8 items-center justify-center overflow-hidden rounded-lg border border-white/25 bg-white/95 shadow-xs">
                 {activeEntity?.logoBase64 ? (
-                  <img src={`data:image/png;base64,${activeEntity.logoBase64}`} alt={activeEntity.name} className="size-6 object-contain" />
+                  <Image
+                    src={`data:image/png;base64,${activeEntity.logoBase64}`}
+                    alt={activeEntity.name}
+                    width={24}
+                    height={24}
+                    unoptimized
+                    className="size-6 object-contain"
+                  />
                 ) : (
                   <Image
                     src="/images/branding/syailendra_logo_monogram_only.png"
@@ -89,13 +96,22 @@ export function CompanySwitcher(): ReactElement {
                 <DropdownMenuItem key={entity.id} onClick={() => handleSelectEntity(entity)} className="cursor-pointer gap-2.5 p-2">
                   <div className="flex size-7 shrink-0 items-center justify-center overflow-hidden rounded-md border">
                     {entity.logoBase64 ? (
-                      <img src={`data:image/png;base64,${entity.logoBase64}`} alt={entity.name} className="size-5 object-contain" />
+                      <Image
+                        src={`data:image/png;base64,${entity.logoBase64}`}
+                        alt={entity.name}
+                        width={20}
+                        height={20}
+                        unoptimized
+                        className="size-5 object-contain"
+                      />
                     ) : (
                       <Icon className="text-primary size-4" />
                     )}
                   </div>
                   <div className="flex min-w-0 flex-1 flex-col">
-                    <span className="truncate text-xs font-semibold">{entity.name}</span>
+                    <span className="truncate text-xs font-semibold">
+                      {entity.code} • {entity.name}
+                    </span>
                     <span className="text-muted-foreground truncate text-[11px]">{tCommon(entity.roleKey)}</span>
                   </div>
                   {isSelected && <Check className="text-primary ml-auto size-4 shrink-0" />}

@@ -45,13 +45,15 @@ export function TurnstileWidget({ onVerify, onExpire, action = 'login', resetTri
   const onVerifyRef = useRef(onVerify)
   const onExpireRef = useRef(onExpire)
   const { resolvedTheme } = useTheme()
+  const themeRef = useRef(resolvedTheme)
 
   const sitekey = process.env.NEXT_PUBLIC_TURNSTILE_SITE_KEY || DEFAULT_TEST_SITE_KEY
 
   useEffect(() => {
     onVerifyRef.current = onVerify
     onExpireRef.current = onExpire
-  }, [onVerify, onExpire])
+    themeRef.current = resolvedTheme
+  }, [onVerify, onExpire, resolvedTheme])
 
   const renderWidget = useCallback(() => {
     if (!window.turnstile || !containerRef.current || widgetIdRef.current !== null) return
@@ -59,12 +61,12 @@ export function TurnstileWidget({ onVerify, onExpire, action = 'login', resetTri
     widgetIdRef.current = window.turnstile.render(containerRef.current, {
       sitekey,
       action,
-      theme: resolvedTheme === 'dark' ? 'dark' : 'light',
+      theme: themeRef.current === 'dark' ? 'dark' : 'light',
       callback: (token: string) => onVerifyRef.current(token),
       'expired-callback': () => onExpireRef.current?.(),
       'error-callback': () => onExpireRef.current?.()
     })
-  }, [action, resolvedTheme, sitekey])
+  }, [action, sitekey])
 
   useEffect(() => {
     let interval: NodeJS.Timeout | null = null

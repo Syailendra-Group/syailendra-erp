@@ -6,72 +6,72 @@
 import { hasLocale } from 'next-intl'
 import { getRequestConfig } from 'next-intl/server'
 
+import enAiOverview from '@/messages/en/ai/overview.json'
 import enAuthLogin from '@/messages/en/auth/login.json'
 import enCommon from '@/messages/en/common/common.json'
 import enNav from '@/messages/en/common/nav.json'
-import enAiOverview from '@/messages/en/sammend/ai/overview.json'
-import enCrmOverview from '@/messages/en/sammend/crm/overview.json'
-import enDcmOverview from '@/messages/en/sammend/dcm/overview.json'
-import enFtmOverview from '@/messages/en/sbi/ftm/overview.json'
-import enHrisDepartments from '@/messages/en/sbi/hrm/departments.json'
-import enHrisEmployees from '@/messages/en/sbi/hrm/employees.json'
-import enHrisOverview from '@/messages/en/sbi/hrm/overview.json'
-import enMainOverview from '@/messages/en/sbi/main/overview.json'
-import enCompany from '@/messages/en/sbi/others/company.json'
-import enCountries from '@/messages/en/sbi/others/countries.json'
-import enDistricts from '@/messages/en/sbi/others/districts.json'
-import enOthersOverview from '@/messages/en/sbi/others/overview.json'
-import enPartners from '@/messages/en/sbi/others/partners.json'
-import enProvinces from '@/messages/en/sbi/others/provinces.json'
-import enRegencies from '@/messages/en/sbi/others/regencies.json'
-import enRegionalCommon from '@/messages/en/sbi/others/regional-common.json'
-import enRoles from '@/messages/en/sbi/others/roles.json'
-import enVillages from '@/messages/en/sbi/others/villages.json'
-import enScmDemo from '@/messages/en/sbi/scm/demo.json'
-import enTraceDistillers from '@/messages/en/sbi/scm/distillers.json'
-import enTraceFarmers from '@/messages/en/sbi/scm/farmers.json'
-import enHarvest from '@/messages/en/sbi/scm/harvest.json'
-import enMaterials from '@/messages/en/sbi/scm/materials.json'
-import enTraceOverview from '@/messages/en/sbi/scm/overview.json'
-import enPublicTrace from '@/messages/en/sbi/scm/public-trace.json'
-import enSupplierCategories from '@/messages/en/sbi/scm/supplier-categories.json'
-import enSuppliers from '@/messages/en/sbi/scm/suppliers.json'
-import enImmOverview from '@/messages/en/sg/imm/overview.json'
-import enInventory from '@/messages/en/spba/wms/inventory.json'
-import enWmsOverview from '@/messages/en/spba/wms/overview.json'
+import enCrmOverview from '@/messages/en/crm/overview.json'
+import enDcmOverview from '@/messages/en/dcm/overview.json'
+import enFtmOverview from '@/messages/en/ftm/overview.json'
+import enHrisDepartments from '@/messages/en/hrm/departments.json'
+import enHrisEmployees from '@/messages/en/hrm/employees.json'
+import enHrisOverview from '@/messages/en/hrm/overview.json'
+import enImmOverview from '@/messages/en/imm/overview.json'
+import enCompany from '@/messages/en/others/company.json'
+import enCountries from '@/messages/en/others/countries.json'
+import enDistricts from '@/messages/en/others/districts.json'
+import enMenus from '@/messages/en/others/menus.json'
+import enOthersOverview from '@/messages/en/others/overview.json'
+import enPartners from '@/messages/en/others/partners.json'
+import enProvinces from '@/messages/en/others/provinces.json'
+import enRegencies from '@/messages/en/others/regencies.json'
+import enRegionalCommon from '@/messages/en/others/regional-common.json'
+import enRoles from '@/messages/en/others/roles.json'
+import enVillages from '@/messages/en/others/villages.json'
+import enScmDemo from '@/messages/en/scm/demo.json'
+import enTraceDistillers from '@/messages/en/scm/distillers.json'
+import enTraceFarmers from '@/messages/en/scm/farmers.json'
+import enHarvest from '@/messages/en/scm/harvest.json'
+import enMaterials from '@/messages/en/scm/materials.json'
+import enTraceOverview from '@/messages/en/scm/overview.json'
+import enPublicTrace from '@/messages/en/scm/public-trace.json'
+import enSupplierCategories from '@/messages/en/scm/supplier-categories.json'
+import enSuppliers from '@/messages/en/scm/suppliers.json'
+import enInventory from '@/messages/en/wms/inventory.json'
+import enWmsOverview from '@/messages/en/wms/overview.json'
+import idAiOverview from '@/messages/id/ai/overview.json'
 import idAuthLogin from '@/messages/id/auth/login.json'
 import idCommon from '@/messages/id/common/common.json'
 import idNav from '@/messages/id/common/nav.json'
-import idAiOverview from '@/messages/id/sammend/ai/overview.json'
-import idCrmOverview from '@/messages/id/sammend/crm/overview.json'
-import idDcmOverview from '@/messages/id/sammend/dcm/overview.json'
-import idFtmOverview from '@/messages/id/sbi/ftm/overview.json'
-import idHrisDepartments from '@/messages/id/sbi/hrm/departments.json'
-import idHrisEmployees from '@/messages/id/sbi/hrm/employees.json'
-import idHrisOverview from '@/messages/id/sbi/hrm/overview.json'
-import idMainOverview from '@/messages/id/sbi/main/overview.json'
-import idCompany from '@/messages/id/sbi/others/company.json'
-import idCountries from '@/messages/id/sbi/others/countries.json'
-import idDistricts from '@/messages/id/sbi/others/districts.json'
-import idOthersOverview from '@/messages/id/sbi/others/overview.json'
-import idPartners from '@/messages/id/sbi/others/partners.json'
-import idProvinces from '@/messages/id/sbi/others/provinces.json'
-import idRegencies from '@/messages/id/sbi/others/regencies.json'
-import idRegionalCommon from '@/messages/id/sbi/others/regional-common.json'
-import idRoles from '@/messages/id/sbi/others/roles.json'
-import idVillages from '@/messages/id/sbi/others/villages.json'
-import idScmDemo from '@/messages/id/sbi/scm/demo.json'
-import idTraceDistillers from '@/messages/id/sbi/scm/distillers.json'
-import idTraceFarmers from '@/messages/id/sbi/scm/farmers.json'
-import idHarvest from '@/messages/id/sbi/scm/harvest.json'
-import idMaterials from '@/messages/id/sbi/scm/materials.json'
-import idTraceOverview from '@/messages/id/sbi/scm/overview.json'
-import idPublicTrace from '@/messages/id/sbi/scm/public-trace.json'
-import idSupplierCategories from '@/messages/id/sbi/scm/supplier-categories.json'
-import idSuppliers from '@/messages/id/sbi/scm/suppliers.json'
-import idImmOverview from '@/messages/id/sg/imm/overview.json'
-import idInventory from '@/messages/id/spba/wms/inventory.json'
-import idWmsOverview from '@/messages/id/spba/wms/overview.json'
+import idCrmOverview from '@/messages/id/crm/overview.json'
+import idDcmOverview from '@/messages/id/dcm/overview.json'
+import idFtmOverview from '@/messages/id/ftm/overview.json'
+import idHrisDepartments from '@/messages/id/hrm/departments.json'
+import idHrisEmployees from '@/messages/id/hrm/employees.json'
+import idHrisOverview from '@/messages/id/hrm/overview.json'
+import idImmOverview from '@/messages/id/imm/overview.json'
+import idCompany from '@/messages/id/others/company.json'
+import idCountries from '@/messages/id/others/countries.json'
+import idDistricts from '@/messages/id/others/districts.json'
+import idMenus from '@/messages/id/others/menus.json'
+import idOthersOverview from '@/messages/id/others/overview.json'
+import idPartners from '@/messages/id/others/partners.json'
+import idProvinces from '@/messages/id/others/provinces.json'
+import idRegencies from '@/messages/id/others/regencies.json'
+import idRegionalCommon from '@/messages/id/others/regional-common.json'
+import idRoles from '@/messages/id/others/roles.json'
+import idVillages from '@/messages/id/others/villages.json'
+import idScmDemo from '@/messages/id/scm/demo.json'
+import idTraceDistillers from '@/messages/id/scm/distillers.json'
+import idTraceFarmers from '@/messages/id/scm/farmers.json'
+import idHarvest from '@/messages/id/scm/harvest.json'
+import idMaterials from '@/messages/id/scm/materials.json'
+import idTraceOverview from '@/messages/id/scm/overview.json'
+import idPublicTrace from '@/messages/id/scm/public-trace.json'
+import idSupplierCategories from '@/messages/id/scm/supplier-categories.json'
+import idSuppliers from '@/messages/id/scm/suppliers.json'
+import idInventory from '@/messages/id/wms/inventory.json'
+import idWmsOverview from '@/messages/id/wms/overview.json'
 
 import { routing } from './routing'
 
@@ -81,7 +81,6 @@ const messagesMap = {
     nav: idNav,
     auth: idAuthLogin,
     inventory: idInventory,
-    main: { overview: idMainOverview },
     wms: { inventory: idInventory, overview: idWmsOverview },
     crm: { overview: idCrmOverview },
     ftm: { overview: idFtmOverview },
@@ -126,6 +125,7 @@ const messagesMap = {
       districts: idDistricts,
       villages: idVillages,
       company: idCompany,
+      menus: idMenus,
       roles: idRoles,
       partners: idPartners
     },
@@ -146,7 +146,6 @@ const messagesMap = {
     nav: enNav,
     auth: enAuthLogin,
     inventory: enInventory,
-    main: { overview: enMainOverview },
     wms: { inventory: enInventory, overview: enWmsOverview },
     crm: { overview: enCrmOverview },
     ftm: { overview: enFtmOverview },
@@ -191,6 +190,7 @@ const messagesMap = {
       districts: enDistricts,
       villages: enVillages,
       company: enCompany,
+      menus: enMenus,
       roles: enRoles,
       partners: enPartners
     },

@@ -40,6 +40,12 @@
   }
 }
 
+/* Dynamic Primary-Derived Gradient Sidebar (Adapts automatically in Light & Dark modes) */
+[data-sidebar='sidebar'] {
+  background-color: var(--sidebar);
+  background-image: var(--sidebar-gradient);
+}
+
 /* Custom interactive map pin styles for Leaflet */
 .custom-map-pin {
   display: flex;

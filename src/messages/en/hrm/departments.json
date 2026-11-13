@@ -1,0 +1,35 @@
+{
+  "title": "Departments & Divisions",
+  "subtitle": "Manage organizational structure, operational departments, and divisions in the system",
+  "actions": {
+    "add": "Add Department",
+    "edit": "Edit Department",
+    "archive": "Archive",
+    "restore": "Activate"
+  },
+  "fields": {
+    "name": "Department / Division Name",
+    "name_placeholder": "e.g. Agronomy & Partnership Division",
+    "id": "System Department ID",
+    "status": "Operational Status"
+  },
+  "confirm": {
+    "archiveTitle": "Archive Department",
+    "restoreTitle": "Activate Department",
+    "archiveDesc": "Are you sure you want to deactivate department {name}?",
+    "restoreDesc": "Are you sure you want to reactivate department {name}?"
+  },
+  "messages": {
+    "created": "New department successfully saved to the system",
+    "updated": "Department details successfully updated",
+    "archived": "Department successfully archived",
+    "restored": "Department successfully reactivated"
+  },
+  "validation": {
+    "nameRequired": "Department name must be at least {min} characters."
+  },
+  "view": {
+    "title": "Department Details",
+    "description": "Comprehensive department structure and operational status in the system"
+  }
+}

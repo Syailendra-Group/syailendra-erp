@@ -1,0 +1,13 @@
+import { RegenciesFeature } from '@/features/others/regencies'
+
+import type { Metadata } from 'next'
+import type { ReactElement } from 'react'
+
+export const metadata: Metadata = {
+  title: 'Regencies & Cities',
+  description: 'Official regencies and cities master catalog'
+}
+
+export default function RegenciesPage(): ReactElement {
+  return <RegenciesFeature />
+}

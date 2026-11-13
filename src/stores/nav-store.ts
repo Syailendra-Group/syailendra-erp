@@ -1,6 +1,6 @@
 import { create } from 'zustand'
 
-export type ModuleTab = 'main' | 'ftm' | 'hrm' | 'scm' | 'wms' | 'crm' | 'dcm' | 'ai' | 'imm' | 'others'
+export type ModuleTab = 'ftm' | 'hrm' | 'scm' | 'wms' | 'crm' | 'dcm' | 'ai' | 'imm' | 'others'
 
 export interface NavState {
   activeTab: ModuleTab
@@ -8,6 +8,6 @@ export interface NavState {
 }
 
 export const useNavStore = create<NavState>((set) => ({
-  activeTab: 'main',
+  activeTab: 'ftm',
   setActiveTab: (tab: ModuleTab) => set({ activeTab: tab })
 }))

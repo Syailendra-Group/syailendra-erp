@@ -22,10 +22,11 @@ export function Header({ className, children, ...props }: HeaderProps): ReactEle
   return (
     <div className="bg-background/90 sticky top-0 z-40 w-full pe-2 pt-2 pb-1 backdrop-blur-md max-md:ps-2 md:ps-0">
       <header
-        className={cn(
-          'bg-primary text-primary-foreground flex h-16 w-full items-center rounded-lg border border-white/10 shadow-md transition-colors',
-          className
-        )}
+        className={cn('text-primary-foreground flex h-16 w-full items-center rounded-lg border border-white/10 shadow-md transition-all', className)}
+        style={{
+          backgroundColor: 'var(--sidebar)',
+          backgroundImage: 'var(--sidebar-gradient)'
+        }}
         {...props}
       >
         <div className="flex w-full items-center gap-2 px-3 sm:gap-4 sm:px-5">

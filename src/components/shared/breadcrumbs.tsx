@@ -7,6 +7,7 @@ import { useTranslations } from 'next-intl'
 import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbPage, BreadcrumbSeparator } from '@/components/ui/breadcrumb'
 import { Link, usePathname } from '@/i18n/navigation'
 import { cn } from '@/lib/utils'
+import { useEntityStore } from '@/stores/entity-store'
 
 import type { ReactElement } from 'react'
 
@@ -23,6 +24,8 @@ export interface BreadcrumbsProps {
 export function Breadcrumbs({ items, homeLabel }: BreadcrumbsProps): ReactElement | null {
   const pathname = usePathname()
   const tNav = useTranslations('nav')
+  const getActiveEntity = useEntityStore((s) => s.getActiveEntity)
+  const defaultRoute = getActiveEntity()?.defaultRoute || '/ftm'
 
   const segments = useMemo(() => {
     if (items) return null
@@ -38,7 +41,7 @@ export function Breadcrumbs({ items, homeLabel }: BreadcrumbsProps): ReactElemen
       <BreadcrumbList className="text-muted-foreground text-xs">
         <BreadcrumbItem>
           <BreadcrumbLink asChild>
-            <Link href="/overview" className="hover:text-foreground flex items-center gap-1 font-medium transition-colors">
+            <Link href={defaultRoute} className="hover:text-foreground flex items-center gap-1 font-medium transition-colors">
               <Home className="h-3.5 w-3.5" />
               <span>{defaultHomeLabel}</span>
             </Link>

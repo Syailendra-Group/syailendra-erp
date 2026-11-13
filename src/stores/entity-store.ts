@@ -18,6 +18,29 @@ export interface SyailendraEntity {
   logoBase64?: string | null
 }
 
+const PILLAR_ROUTE_MAP: Record<ModuleTab, string> = {
+  ftm: '/ftm',
+  hrm: '/hris',
+  scm: '/scm',
+  wms: '/wms',
+  crm: '/crm',
+  dcm: '/dcm',
+  ai: '/ai',
+  imm: '/imm',
+  others: '/others'
+}
+
+export function resolveRouteByPillar(pillar?: ModuleTab): string {
+  if (!pillar) return '/ftm'
+  return PILLAR_ROUTE_MAP[pillar] || '/ftm'
+}
+
+export function syncDefaultRouteCookie(route: string): void {
+  if (typeof document !== 'undefined') {
+    document.cookie = `syailendra_default_route=${encodeURIComponent(route)}; path=/; max-age=2592000; SameSite=Lax`
+  }
+}
+
 export const INITIAL_SYAILENDRA_ENTITIES: SyailendraEntity[] = [
   {
     id: 'sbi',
@@ -25,8 +48,8 @@ export const INITIAL_SYAILENDRA_ENTITIES: SyailendraEntity[] = [
     name: 'PT Syailendra Bumi Investama',
     roleKey: 'entities.sbiRole',
     odooCompanyId: 1,
-    pillars: ['main', 'ftm', 'hrm', 'scm', 'others'],
-    defaultRoute: '/overview',
+    pillars: ['ftm', 'hrm', 'scm'],
+    defaultRoute: '/ftm',
     logoBase64: null
   },
   {
@@ -55,7 +78,7 @@ export const INITIAL_SYAILENDRA_ENTITIES: SyailendraEntity[] = [
     name: 'PT Syailendra Group',
     roleKey: 'entities.sgRole',
     odooCompanyId: 4,
-    pillars: ['imm'],
+    pillars: ['imm', 'others'],
     defaultRoute: '/imm',
     logoBase64: null
   }
@@ -70,7 +93,8 @@ interface EntityState {
   getActiveEntity: () => SyailendraEntity
   updateEntityPillars: (odooCompanyId: number, pillars: ModuleTab[]) => void
   updateEntityLogo: (odooCompanyId: number, logoBase64: string | null) => void
-  syncEntitiesFromOdoo: (records: { id: number; name: string; logo_web: string | null; enabled_pillars: ModuleTab[] }[]) => void
+  updateEntityIdentity: (odooCompanyId: number, payload: { name?: string; code?: string; logoBase64?: string | null }) => void
+  syncEntitiesFromOdoo: (records: { id: number; name: string; short_name?: string; logo_web: string | null; enabled_pillars: ModuleTab[] }[]) => void
 }
 
 export const useEntityStore = create<EntityState>()(
@@ -78,14 +102,22 @@ export const useEntityStore = create<EntityState>()(
     (set, get) => ({
       activeEntityId: 'sbi',
       entities: INITIAL_SYAILENDRA_ENTITIES,
-      setActiveEntityId: (id) => set({ activeEntityId: id }),
+      setActiveEntityId: (id) => {
+        const entity = get().entities.find((e) => e.id === id)
+        if (entity) {
+          syncDefaultRouteCookie(resolveRouteByPillar(entity.pillars[0]))
+        }
+        set({ activeEntityId: id })
+      },
       getActiveEntity: () => {
         const state = get()
         return state.entities.find((e) => e.id === state.activeEntityId) || state.entities[0] || INITIAL_SYAILENDRA_ENTITIES[0]
       },
       updateEntityPillars: (odooCompanyId, pillars) => {
         set((state) => ({
-          entities: state.entities.map((e) => (e.odooCompanyId === odooCompanyId ? { ...e, pillars } : e))
+          entities: state.entities.map((e) =>
+            e.odooCompanyId === odooCompanyId ? { ...e, pillars, defaultRoute: resolveRouteByPillar(pillars[0]) } : e
+          )
         }))
       },
       updateEntityLogo: (odooCompanyId, logoBase64) => {
@@ -93,15 +125,33 @@ export const useEntityStore = create<EntityState>()(
           entities: state.entities.map((e) => (e.odooCompanyId === odooCompanyId ? { ...e, logoBase64 } : e))
         }))
       },
+      updateEntityIdentity: (odooCompanyId, payload) => {
+        set((state) => ({
+          entities: state.entities.map((e) =>
+            e.odooCompanyId === odooCompanyId
+              ? {
+                  ...e,
+                  name: payload.name || e.name,
+                  code: payload.code || e.code,
+                  logoBase64: payload.logoBase64 !== undefined ? payload.logoBase64 : e.logoBase64
+                }
+              : e
+          )
+        }))
+      },
       syncEntitiesFromOdoo: (records) => {
         set((state) => ({
           entities: state.entities.map((e) => {
             const found = records.find((r) => r.id === e.odooCompanyId)
             if (!found) return e
+            const nextPillars = found.enabled_pillars.length > 0 ? found.enabled_pillars : e.pillars
+            const nextCode = (found.short_name || '').trim() || e.code
             return {
               ...e,
               name: found.name || e.name,
-              pillars: found.enabled_pillars.length > 0 ? found.enabled_pillars : e.pillars,
+              code: nextCode,
+              pillars: nextPillars,
+              defaultRoute: resolveRouteByPillar(nextPillars[0]),
               logoBase64: found.logo_web !== undefined ? found.logo_web : e.logoBase64
             }
           })

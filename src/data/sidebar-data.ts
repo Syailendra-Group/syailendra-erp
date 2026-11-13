@@ -2,13 +2,11 @@ import {
   ArrowDownLeft,
   ArrowUpRight,
   BarChart3,
-  Bell,
   BookOpen,
   Bot,
   Briefcase,
   Building,
   Building2,
-  Calendar,
   Clock,
   Coins,
   Factory,
@@ -24,6 +22,7 @@ import {
   History,
   Landmark,
   LayoutDashboard,
+  LayoutGrid,
   Leaf,
   LineChart,
   MapPin,
@@ -74,18 +73,6 @@ export const sidebarData: SidebarData = {
     }
   ],
   navGroups: {
-    // Executive Consolidated Overview (PT SBI)
-    main: [
-      {
-        titleKey: 'groups.main_ops',
-        items: [
-          { titleKey: 'items.overview', url: '/overview', icon: LayoutDashboard },
-          { titleKey: 'items.announcements', url: '/announcements', icon: Bell },
-          { titleKey: 'items.calendar', url: '/calendar', icon: Calendar }
-        ]
-      }
-    ],
-
     // Finance & Tax Management (PT SBI)
     ftm: [
       {
@@ -221,7 +208,7 @@ export const sidebarData: SidebarData = {
       }
     ],
 
-    // Master Regional & System Governance (PT SBI)
+    // Master Regional & System Governance (PT SG)
     others: [
       {
         titleKey: 'groups.overview',
@@ -241,6 +228,7 @@ export const sidebarData: SidebarData = {
         titleKey: 'groups.system_ops',
         items: [
           { titleKey: 'items.company_profile', url: '/others/company', icon: Building },
+          { titleKey: 'items.menu_allocation', url: '/others/menus', icon: LayoutGrid },
           { titleKey: 'items.access_roles', url: '/others/roles', icon: Shield },
           { titleKey: 'items.partners_registry', url: '/others/partners', icon: UserPlus }
         ]
@@ -257,5 +245,5 @@ export const sidebarData: SidebarData = {
 }
 
 export function getNavGroups(tab: ModuleTab): NavGroup[] {
-  return sidebarData.navGroups[tab] || sidebarData.navGroups.main
+  return sidebarData.navGroups[tab] || sidebarData.navGroups.ftm
 }

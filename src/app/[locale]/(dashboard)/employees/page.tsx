@@ -1,0 +1,7 @@
+import { type ReactElement } from 'react'
+
+import { EmployeesFeature } from '@/features/hrm/employees'
+
+export default function EmployeesPage(): ReactElement {
+  return <EmployeesFeature />
+}

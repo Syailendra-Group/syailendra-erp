@@ -1,0 +1,56 @@
+{
+  "title": "Direktori Data Karyawan",
+  "subtitle": "Kelola data karyawan, jabatan operasional, unit departemen, serta integrasi akun Integrated System",
+  "actions": {
+    "add": "Tambah Karyawan",
+    "edit": "Ubah Data",
+    "archive": "Arsipkan",
+    "activate": "Aktifkan",
+    "addDepartment": "+ Tambah Departemen Baru..."
+  },
+  "fields": {
+    "name": "Nama Lengkap",
+    "name_placeholder": "misal: Budi Santoso",
+    "work_email": "Email Kantor",
+    "work_email_placeholder": "budi@syailendra.com",
+    "work_phone": "Nomor Telepon / WA",
+    "work_phone_placeholder": "+62 812 3456 7890",
+    "job_title": "Jabatan Operasional",
+    "job_title_placeholder": "misal: Supervisor Gudang & Sortasi",
+    "department": "Departemen / Divisi",
+    "department_placeholder": "Pilih Departemen",
+    "status": "Status Kepegawaian"
+  },
+  "table": {
+    "name": "Nama Karyawan",
+    "job_title": "Jabatan Operasional",
+    "department": "Departemen",
+    "contact": "Kontak Kerja",
+    "status": "Status",
+    "actions": "Aksi",
+    "defaultDept": "Pusat",
+    "defaultJob": "Staf Operasional"
+  },
+  "detail": {
+    "title": "Detail Karyawan",
+    "subtitle": "Rincian data profil dan penempatan kerja pada sistem terintegrasi.",
+    "department": "Departemen",
+    "workEmail": "Email Kerja",
+    "workPhone": "Telepon / WA",
+    "odooId": "ID Sistem Backend",
+    "editProfile": "Ubah Profil",
+    "defaultJob": "Staf Operasional"
+  },
+  "messages": {
+    "created": "Data karyawan berhasil disimpan ke sistem",
+    "updated": "Data karyawan berhasil diperbarui",
+    "archived": "Data karyawan berhasil diarsipkan"
+  },
+  "validation": {
+    "nameRequired": "Nama lengkap karyawan minimal {min} karakter.",
+    "emailInvalid": "Format alamat email kantor tidak valid.",
+    "phoneTooShort": "Nomor telepon kantor minimal {min} digit.",
+    "jobTitleRequired": "Jabatan pekerjaan wajib diisi.",
+    "departmentRequired": "Departemen wajib dipilih."
+  }
+}

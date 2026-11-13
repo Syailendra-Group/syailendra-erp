@@ -1,0 +1,56 @@
+{
+  "title": "Employee Directory",
+  "subtitle": "Manage staff records, operational job titles, department assignments, and system user linkage",
+  "actions": {
+    "add": "Add Employee",
+    "edit": "Edit Employee",
+    "archive": "Archive",
+    "activate": "Activate",
+    "addDepartment": "+ Add New Department..."
+  },
+  "fields": {
+    "name": "Full Name",
+    "name_placeholder": "e.g. Budi Santoso",
+    "work_email": "Work Email",
+    "work_email_placeholder": "budi@syailendra.com",
+    "work_phone": "Work Phone / WhatsApp",
+    "work_phone_placeholder": "+62 812 3456 7890",
+    "job_title": "Job Title",
+    "job_title_placeholder": "e.g. Warehouse Quality Supervisor",
+    "department": "Department",
+    "department_placeholder": "Select Department",
+    "status": "Employment Status"
+  },
+  "table": {
+    "name": "Employee Name",
+    "job_title": "Operational Job Title",
+    "department": "Department",
+    "contact": "Work Contact",
+    "status": "Status",
+    "actions": "Actions",
+    "defaultDept": "Headquarters",
+    "defaultJob": "Operational Staff"
+  },
+  "detail": {
+    "title": "Employee Details",
+    "subtitle": "Profile details and work placement in the integrated system.",
+    "department": "Department",
+    "workEmail": "Work Email",
+    "workPhone": "Phone / WA",
+    "odooId": "System Backend ID",
+    "editProfile": "Edit Profile",
+    "defaultJob": "Operations Staff"
+  },
+  "messages": {
+    "created": "Employee successfully added to the system",
+    "updated": "Employee details updated",
+    "archived": "Employee record archived"
+  },
+  "validation": {
+    "nameRequired": "Employee full name must be at least {min} characters.",
+    "emailInvalid": "Invalid work email address.",
+    "phoneTooShort": "Work phone number must be at least {min} digits.",
+    "jobTitleRequired": "Job title is required.",
+    "departmentRequired": "Please select a department."
+  }
+}

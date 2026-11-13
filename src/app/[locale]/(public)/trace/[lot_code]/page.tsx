@@ -1,5 +1,5 @@
-import { PublicTraceView } from '@/features/sbi/scm/public-trace'
-import { getPublicTrace } from '@/services/odoo/sbi/scm/public-trace.service'
+import { PublicTraceView } from '@/features/scm/public-trace'
+import { getPublicTrace } from '@/services/odoo/scm/public-trace.service'
 
 import type { Metadata } from 'next'
 import type { ReactElement } from 'react'

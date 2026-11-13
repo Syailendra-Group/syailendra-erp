@@ -15,6 +15,7 @@ import { Checkbox } from '@/components/ui/checkbox'
 import { Input } from '@/components/ui/input'
 import { useLoginMutation } from '@/hooks/auth/use-auth'
 import { getLoginSchema } from '@/schemas/auth/auth-schema'
+import { resolveRouteByPillar, syncDefaultRouteCookie, useEntityStore } from '@/stores/entity-store'
 
 import type { LoginFormValues } from '@/schemas/auth/auth-schema'
 import type { ReactElement } from 'react'
@@ -24,10 +25,11 @@ export interface LoginFormProps {
   onSuccessRedirect?: string
 }
 
-export function LoginForm({ onSuccessRedirect = '/overview' }: LoginFormProps): ReactElement {
+export function LoginForm({ onSuccessRedirect }: LoginFormProps): ReactElement {
   const tAuth = useTranslations('auth')
   const router = useRouter()
   const { mutateAsync: login, isPending } = useLoginMutation()
+  const getActiveEntity = useEntityStore((s) => s.getActiveEntity)
 
   const {
     control,
@@ -54,7 +56,10 @@ export function LoginForm({ onSuccessRedirect = '/overview' }: LoginFormProps): 
       const result = await login(values)
       if (result.success) {
         toast.success(tAuth('messages.login_success'))
-        router.push(onSuccessRedirect)
+        const activeEntity = getActiveEntity()
+        const dynamicTarget = onSuccessRedirect || resolveRouteByPillar(activeEntity?.pillars[0])
+        syncDefaultRouteCookie(dynamicTarget)
+        router.push(dynamicTarget)
         router.refresh()
       } else {
         const message = result.error || tAuth('messages.login_failed')
@@ -91,25 +96,35 @@ export function LoginForm({ onSuccessRedirect = '/overview' }: LoginFormProps): 
         />
       </FormFieldWrapper>
 
-      <div className="flex items-center space-x-2 pt-0.5">
-        <Checkbox id="rememberMe" checked={rememberMe} onCheckedChange={(checked) => setValue('rememberMe', Boolean(checked))} disabled={isPending} />
-        <label htmlFor="rememberMe" className="text-muted-foreground hover:text-foreground cursor-pointer text-xs font-medium select-none">
-          {tAuth('fields.remember')}
+      <div className="flex items-center justify-between text-xs">
+        <label htmlFor="rememberMe" className="text-muted-foreground flex cursor-pointer items-center gap-2">
+          <Checkbox
+            id="rememberMe"
+            checked={rememberMe}
+            onCheckedChange={(checked) => setValue('rememberMe', Boolean(checked))}
+            disabled={isPending}
+          />
+          <span>{tAuth('fields.remember')}</span>
         </label>
       </div>
 
-      {/* Standardized reusable Cloudflare Turnstile field */}
       <TurnstileField control={control} action="login" />
 
-      <Button type="submit" className="w-full cursor-pointer gap-2 font-semibold" disabled={isPending}>
+      {errors.root && (
+        <p className="text-destructive text-center text-xs font-medium" role="alert">
+          {errors.root.message}
+        </p>
+      )}
+
+      <Button type="submit" disabled={isPending} className="w-full font-bold">
         {isPending ? (
           <>
-            <Loader2 className="h-4 w-4 animate-spin" />
+            <Loader2 className="mr-2 h-4 w-4 animate-spin" />
             <span>{tAuth('buttons.logging_in')}</span>
           </>
         ) : (
           <>
-            <LogIn className="h-4 w-4" />
+            <LogIn className="mr-2 h-4 w-4" />
             <span>{tAuth('buttons.login')}</span>
           </>
         )}

@@ -1,0 +1,17 @@
+{
+  "title": "Alokasi Pilar & Menu",
+  "subtitle": "Tetapkan kepemilikan eksklusif setiap pilar bisnis ke satu entitas Syailendra Group",
+  "exclusivityTitle": "Aturan Eksklusivitas Pilar",
+  "exclusivityDesc": "Satu pilar hanya dapat dimiliki oleh satu PT. Memilih PT baru untuk sebuah pilar akan otomatis mencabut pilar tersebut dari PT sebelumnya. Setiap PT wajib memiliki minimal satu pilar.",
+  "matrixTitle": "Matriks Alokasi Eksklusif",
+  "matrixSubtitle": "Klik tombol pada kolom PT untuk memindahkan kepemilikan pilar",
+  "colPillar": "Pilar Bisnis",
+  "assignBtn": "Tetapkan",
+  "pillarsCount": "pilar",
+  "resetDefault": "Kembalikan Default",
+  "saveButton": "Simpan Alokasi",
+  "saveSuccess": "Alokasi pilar berhasil diperbarui",
+  "saveError": "Gagal menyimpan alokasi pilar : {error}",
+  "emptyEntityError": "{code} harus memiliki minimal satu pilar",
+  "unknownError": "Terjadi kesalahan yang tidak diketahui"
+}

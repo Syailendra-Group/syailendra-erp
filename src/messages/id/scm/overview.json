@@ -1,0 +1,34 @@
+{
+  "title": "Traceability & Silsilah Batch",
+  "subtitle": "Engine penelusuran silsilah 7-lapisan Farm-to-Consumer DDistillers",
+  "recent": {
+    "title": "Daftar Silsilah Batch Terkini",
+    "subtitle": "Status penelusuran lot hulu ke hilir berbasis data aktif Integrated System"
+  },
+  "table": {
+    "lot": "Nomor Lot / Batch",
+    "commodity": "Komoditas Produk",
+    "origin": "Asal Hulu / Terroir",
+    "coa": "Nomor COA Lab",
+    "status": "Status Keterlacakan",
+    "qualityStatus": "Status Mutu",
+    "actions": "Aksi",
+    "viewQr": "Lihat QR"
+  },
+  "kpis": {
+    "trackedLots": "Total Lot Terlacak",
+    "trackedLotsSubtitle": "Hulu s/d Hilir",
+    "activeDistillation": "Sesi Suling Aktif",
+    "activeDistillationSubtitle": "Metode Steam Suling",
+    "qcReleased": "QC Release Hijau",
+    "qcReleasedSubtitle": "Tersertifikasi COA Lab",
+    "quarantineLocked": "Terkunci Karantina",
+    "quarantineLockedSubtitle": "Menunggu GC-MS Lab"
+  },
+  "shortcuts": {
+    "lotMaster": "Daftar Master Lot",
+    "genealogyTree": "Pohon Silsilah (DAG)",
+    "qrPrint": "Cetak Label QR",
+    "mockRecall": "Cockpit Mock Recall"
+  }
+}

@@ -91,7 +91,8 @@
     "imm_circular": "Circular Economy & Zero Waste",
     "imm_scholarships": "Life Scholarship Program",
     "imm_rehabilitation": "Critical Land Rehabilitation",
-    "imm_sdgs": "SDGs Impact Indicators"
+    "imm_sdgs": "SDGs Impact Indicators",
+    "menu_allocation": "Pillar & Menu Allocation"
   },
   "breadcrumbs": {
     "home": "Home",
@@ -163,12 +164,13 @@
     "circular": "Circular",
     "scholarships": "Scholarships",
     "rehabilitation": "Rehabilitation",
-    "sdgs": "SDGs"
+    "sdgs": "SDGs",
+    "menus": "Menu Allocation"
   },
   "user": {
     "profile": "Profile Account",
     "security": "Security & Sessions",
-    "connectionStatus": "Connection Status: Odoo 18 CE",
+    "connectionStatus": "Connection Status: Integrated Core",
     "accessRole": "Access Role: {role}",
     "logout": "Sign Out",
     "roles": {

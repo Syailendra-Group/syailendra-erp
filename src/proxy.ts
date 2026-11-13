@@ -35,9 +35,12 @@ export function proxy(request: NextRequest): NextResponse {
     return applySecurityHeaders(NextResponse.redirect(loginUrl))
   }
 
-  // If user is already authenticated and visits /login, redirect to /overview
+  // If user is already authenticated and visits /login, redirect to active entity's default pillar route
   if (sessionCookie && isLoginPage) {
-    const dashboardUrl = new URL(pathname.startsWith('/en') ? '/en/overview' : '/overview', request.url)
+    const rawDefault = request.cookies.get('syailendra_default_route')?.value
+    const defaultRoute = rawDefault ? decodeURIComponent(rawDefault) : '/ftm'
+    const targetPath = pathname.startsWith('/en') ? `/en${defaultRoute}` : defaultRoute
+    const dashboardUrl = new URL(targetPath, request.url)
     return applySecurityHeaders(NextResponse.redirect(dashboardUrl))
   }
 

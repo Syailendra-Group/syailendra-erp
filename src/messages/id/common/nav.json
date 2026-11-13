@@ -63,7 +63,7 @@
     "employees_directory": "Direktori Karyawan",
     "departments": "Departemen & Divisi",
     "field_reports": "Laporan Kerja Lapangan",
-    "company_profile": "Profil Perusahaan (PT SBI)",
+    "company_profile": "Profil Perusahaan",
     "access_roles": "Hak Akses & RBAC",
     "partners_registry": "Master Petani & Supplier",
     "audit_trail": "Jejak Audit Keamanan",
@@ -91,7 +91,8 @@
     "imm_circular": "Ekonomi Sirkular & Zero Waste",
     "imm_scholarships": "Program Beasiswa Kehidupan",
     "imm_rehabilitation": "Pemulihan Lahan Kritis",
-    "imm_sdgs": "Indikator Dampak SDGs"
+    "imm_sdgs": "Indikator Dampak SDGs",
+    "menu_allocation": "Alokasi Pilar & Menu"
   },
   "breadcrumbs": {
     "home": "Beranda",
@@ -163,12 +164,13 @@
     "circular": "Sirkular",
     "scholarships": "Beasiswa",
     "rehabilitation": "Rehabilitasi",
-    "sdgs": "SDGs"
+    "sdgs": "SDGs",
+    "menus": "Alokasi Pilar & Menu"
   },
   "user": {
     "profile": "Profil Akun",
     "security": "Keamanan & Sesi",
-    "connectionStatus": "Status Koneksi: Odoo 18 CE",
+    "connectionStatus": "Status Koneksi: Sistem Terintegrasi",
     "accessRole": "Hak Akses: {role}",
     "logout": "Keluar (Sign Out)",
     "roles": {

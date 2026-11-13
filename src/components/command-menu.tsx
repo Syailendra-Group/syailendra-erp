@@ -1,15 +1,15 @@
 'use client'
 
 import { useCallback } from 'react'
-import { ArrowRight, Bot, Calculator, Clock, Laptop, Layers, LayoutDashboard, Leaf, Moon, Sliders, Store, Sun, Target, Warehouse } from 'lucide-react'
+import { ArrowRight, Bot, Calculator, Clock, Laptop, Layers, Leaf, Moon, Sliders, Store, Sun, Target, Warehouse } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 import { useTheme } from 'next-themes'
 
 import { CommandDialog, CommandEmpty, CommandGroup, CommandInput, CommandItem, CommandList, CommandSeparator } from '@/components/ui/command'
 import { ScrollArea } from '@/components/ui/scroll-area'
-import { useSearch } from '@/contexts/sbi/main/search.context'
+import { useSearch } from '@/contexts/shared/search.context'
 import { useRouter } from '@/i18n/navigation'
-import { SYAILENDRA_ENTITIES, useEntityStore } from '@/stores/entity-store'
+import { useEntityStore } from '@/stores/entity-store'
 import { useNavStore } from '@/stores/nav-store'
 
 import type { ModuleTab } from '@/stores/nav-store'
@@ -21,10 +21,11 @@ export function CommandMenu(): ReactElement {
   const { open, setOpen } = useSearch()
   const setActiveTab = useNavStore((s) => s.setActiveTab)
   const activeEntityId = useEntityStore((s) => s.activeEntityId)
+  const entities = useEntityStore((s) => s.entities)
   const tNav = useTranslations('nav')
   const tCommon = useTranslations('common.commandMenu')
 
-  const activeEntity = SYAILENDRA_ENTITIES.find((e) => e.id === activeEntityId) || SYAILENDRA_ENTITIES[0]
+  const activeEntity = entities.find((e) => e.id === activeEntityId) || entities[0]
 
   const runCommand = useCallback(
     (command: () => void) => {
@@ -35,7 +36,6 @@ export function CommandMenu(): ReactElement {
   )
 
   const allModules: { title: string; url: string; tab: ModuleTab; icon: ElementType }[] = [
-    { title: tNav('modules.main'), url: '/overview', tab: 'main', icon: LayoutDashboard },
     { title: tNav('modules.ftm'), url: '/ftm', tab: 'ftm', icon: Calculator },
     { title: tNav('modules.hrm'), url: '/hris', tab: 'hrm', icon: Clock },
     { title: tNav('modules.scm'), url: '/scm', tab: 'scm', icon: Layers },
@@ -60,8 +60,9 @@ export function CommandMenu(): ReactElement {
     { title: tNav('items.company_profile'), url: '/others/company', tab: 'others' }
   ]
 
-  const visibleModules = allModules.filter((m) => activeEntity.pillars.includes(m.tab))
-  const visibleItems = allItems.filter((it) => activeEntity.pillars.includes(it.tab))
+  const activePillars = activeEntity?.pillars || []
+  const visibleModules = allModules.filter((m) => activePillars.includes(m.tab))
+  const visibleItems = allItems.filter((it) => activePillars.includes(it.tab))
 
   return (
     <CommandDialog open={open} onOpenChange={setOpen}>
@@ -70,7 +71,7 @@ export function CommandMenu(): ReactElement {
         <ScrollArea className="h-72 pe-1">
           <CommandEmpty>{tCommon('noResults')}</CommandEmpty>
 
-          <CommandGroup heading={`${tCommon('navigation')} (${activeEntity.code})`}>
+          <CommandGroup heading={`${tCommon('navigation')} (${activeEntity?.code || 'PT'})`}>
             {visibleModules.map((m) => {
               const Icon = m.icon
               return (

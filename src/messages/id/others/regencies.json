@@ -1,0 +1,37 @@
+{
+  "title": "Master Kabupaten & Kota",
+  "subtitle": "Sentra perkebunan & unit penyulingan tingkat kabupaten/kota",
+  "primaryAction": "Tambah Kab/Kota",
+  "table": {
+    "name": "Kabupaten / Kota",
+    "code": "Kode BPS",
+    "province": "Provinsi Induk",
+    "alias": "Alias"
+  },
+  "form": {
+    "catalogLabel": "Pilih dari Katalog 514 Kabupaten / Kota",
+    "catalogPlaceholder": "Cari & pilih kabupaten / kota se-Indonesia...",
+    "namePlaceholder": "Contoh: Kabupaten Wonosobo",
+    "aliasLabel": "Nama Alias",
+    "aliasPlaceholder": "Contoh: Wonosobo",
+    "descLabel": "Deskripsi / Karakteristik Geografis (Opsional)",
+    "descPlaceholder": "Sentra agribisnis dataran tinggi, kontur perbukitan..."
+  },
+  "dialog": {
+    "addTitle": "Registrasi Kabupaten / Kota Baru",
+    "addDesc": "Daftarkan kabupaten atau kota baru ke dalam sistem.",
+    "editTitle": "Ubah Data Kabupaten / Kota",
+    "editDesc": "Perbarui nama, kode BPS, atau provinsi induk kabupaten.",
+    "viewTitle": "Rincian Kabupaten / Kota",
+    "viewDesc": "Informasi data wilayah dan provinsi induk terdaftar."
+  },
+  "alert": {
+    "parentMissingTitle": "Provinsi Induk Belum Terdaftar",
+    "parentMissingDesc": "Provinsi {province} untuk wilayah ini belum ada di master data sistem.",
+    "autoAddLabel": "Otomatis daftarkan Provinsi ke Sistem:"
+  },
+  "validation": {
+    "nameRequired": "Nama kabupaten/kota minimal {min} karakter.",
+    "aliasRequired": "Nama alias wajib diisi."
+  }
+}

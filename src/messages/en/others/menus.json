@@ -1,0 +1,17 @@
+{
+  "title": "Pillar & Menu Allocation",
+  "subtitle": "Assign exclusive ownership of each business pillar to a single Syailendra Group entity",
+  "exclusivityTitle": "Pillar Exclusivity Rule",
+  "exclusivityDesc": "A pillar can only be owned by one company. Selecting a new company for a pillar automatically revokes it from the previous owner. Every company must own at least one pillar.",
+  "matrixTitle": "Exclusive Allocation Matrix",
+  "matrixSubtitle": "Click a button in a company column to move pillar ownership",
+  "colPillar": "Business Pillar",
+  "assignBtn": "Assign",
+  "pillarsCount": "pillars",
+  "resetDefault": "Reset to Default",
+  "saveButton": "Save Allocation",
+  "saveSuccess": "Pillar allocation successfully updated",
+  "saveError": "Failed to save pillar allocation : {error}",
+  "emptyEntityError": "{code} must own at least one pillar",
+  "unknownError": "An unknown error occurred"
+}

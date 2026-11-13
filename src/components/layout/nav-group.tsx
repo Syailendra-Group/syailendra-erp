@@ -26,7 +26,6 @@ export function NavGroup({ group }: NavGroupProps): ReactElement {
         {group.items.map((item) => {
           const Icon = item.icon
           const isOverviewUrl =
-            item.url === '/overview' ||
             item.url === '/ftm' ||
             item.url === '/hris' ||
             item.url === '/scm' ||

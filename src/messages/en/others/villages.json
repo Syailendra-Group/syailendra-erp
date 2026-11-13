@@ -1,0 +1,49 @@
+{
+  "title": "Villages & Subdistricts Master",
+  "subtitle": "Micro-locations of farms, farmer groups, and harvest stations",
+  "primaryAction": "Add Village",
+  "table": {
+    "name": "Village / Subdistrict",
+    "code": "Code",
+    "alias": "Alias",
+    "district": "Parent District",
+    "zipCode": "Postal Code",
+    "city": "City / Regency"
+  },
+  "form": {
+    "catalogLabel": "84,210 Villages & Subdistricts Catalog",
+    "catalogPlaceholder": "Select village / subdistrict...",
+    "parentLabel": "Parent District",
+    "parentPlaceholder": "Select District",
+    "namePlaceholder": "e.g. Desa Canggal",
+    "aliasLabel": "Alias Name",
+    "aliasPlaceholder": "e.g. Canggal",
+    "codePlaceholder": "e.g. 33.23.08.2001",
+    "zipLabel": "Postal Code",
+    "zipPlaceholder": "e.g. 56354",
+    "descLabel": "Description / Regional Notes (Optional)",
+    "descPlaceholder": "Hilly terrain, altitude 1200 m ASL, patchouli farm center...",
+    "selectDistrictCatalog": "Select Parent District (Catalog)",
+    "selectVillageCatalog": "Select Village / Subdistrict (Catalog)",
+    "loadingVillages": "Loading villages...",
+    "selectDistrictFirst": "Select district first...",
+    "selectVillagePlaceholder": "Select village / subdistrict..."
+  },
+  "dialog": {
+    "addTitle": "Register New Village / Subdistrict",
+    "addDesc": "Register a new village or subdistrict into the system regional catalog.",
+    "editTitle": "Edit Village / Subdistrict Data",
+    "editDesc": "Update official code, name, postal code, or parent district.",
+    "viewTitle": "Village / Subdistrict Details",
+    "viewDesc": "Official regional data, postal code, and parent district information."
+  },
+  "alert": {
+    "parentMissingTitle": "Parent District Not Registered",
+    "parentMissingDesc": "District {district} is not yet registered in master data.",
+    "autoAddLabel": "Automatically register District {district} to Master Data"
+  },
+  "validation": {
+    "nameRequired": "Village name must be at least {min} characters.",
+    "aliasRequired": "Alias name is required."
+  }
+}

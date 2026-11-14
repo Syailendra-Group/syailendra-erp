@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo noupdate="1">
+
+    <record id="seq_syailendra_harvest" model="ir.sequence">
+        <field name="name">Nomor Lot Panen</field>
+        <field name="code">syailendra.harvest</field>
+        <field name="prefix">HAR-%(year)s-</field>
+        <field name="padding">5</field>
+        <field name="company_id" eval="False"/>
+    </record>
+
+    <record id="seq_syailendra_distillation" model="ir.sequence">
+        <field name="name">Nomor Batch Penyulingan</field>
+        <field name="code">syailendra.distillation</field>
+        <field name="prefix">DSTB-%(year)s-</field>
+        <field name="padding">5</field>
+        <field name="company_id" eval="False"/>
+    </record>
+
+    <record id="seq_syailendra_qc_inspection" model="ir.sequence">
+        <field name="name">Nomor Uji QC</field>
+        <field name="code">syailendra.qc.inspection</field>
+        <field name="prefix">QC-%(year)s-</field>
+        <field name="padding">5</field>
+        <field name="company_id" eval="False"/>
+    </record>
+
+    <record id="seq_syailendra_supplier_evaluation" model="ir.sequence">
+        <field name="name">Nomor Evaluasi Pemasok</field>
+        <field name="code">syailendra.supplier.evaluation</field>
+        <field name="prefix">EVA-%(year)s-</field>
+        <field name="padding">5</field>
+        <field name="company_id" eval="False"/>
+    </record>
+
+    <record id="seq_syailendra_supplier_audit" model="ir.sequence">
+        <field name="name">Nomor Audit Pemasok</field>
+        <field name="code">syailendra.supplier.audit</field>
+        <field name="prefix">AUD-%(year)s-</field>
+        <field name="padding">5</field>
+        <field name="company_id" eval="False"/>
+    </record>
+
+    <record id="seq_syailendra_supplier_code" model="ir.sequence">
+        <field name="name">Kode Digital Pemasok</field>
+        <field name="code">syailendra.supplier.code</field>
+        <field name="prefix">SUP-</field>
+        <field name="padding">4</field>
+        <field name="company_id" eval="False"/>
+    </record>
+
+</odoo>

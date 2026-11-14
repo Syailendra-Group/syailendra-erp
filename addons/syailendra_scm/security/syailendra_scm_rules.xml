@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo noupdate="1">
+
+    <!-- Multi-company: entitas hanya melihat data perusahaannya, holding
+         memakai company switcher (company_ids) untuk konsolidasi grup. -->
+
+    <record id="rule_syailendra_crop_company" model="ir.rule">
+        <field name="name">Komoditas: multi-perusahaan</field>
+        <field name="model_id" ref="model_syailendra_crop"/>
+        <field name="domain_force">['|', ('company_id', '=', False), ('company_id', 'in', company_ids)]</field>
+        <field name="global" eval="True"/>
+    </record>
+
+    <record id="rule_syailendra_farm_company" model="ir.rule">
+        <field name="name">Kebun: multi-perusahaan</field>
+        <field name="model_id" ref="model_syailendra_farm"/>
+        <field name="domain_force">['|', ('company_id', '=', False), ('company_id', 'in', company_ids)]</field>
+        <field name="global" eval="True"/>
+    </record>
+
+    <record id="rule_syailendra_distillery_company" model="ir.rule">
+        <field name="name">Fasilitas Penyulingan: multi-perusahaan</field>
+        <field name="model_id" ref="model_syailendra_distillery"/>
+        <field name="domain_force">['|', ('company_id', '=', False), ('company_id', 'in', company_ids)]</field>
+        <field name="global" eval="True"/>
+    </record>
+
+    <record id="rule_syailendra_harvest_company" model="ir.rule">
+        <field name="name">Sesi Panen: multi-perusahaan</field>
+        <field name="model_id" ref="model_syailendra_harvest"/>
+        <field name="domain_force">['|', ('company_id', '=', False), ('company_id', 'in', company_ids)]</field>
+        <field name="global" eval="True"/>
+    </record>
+
+    <record id="rule_syailendra_distillation_company" model="ir.rule">
+        <field name="name">Batch Penyulingan: multi-perusahaan</field>
+        <field name="model_id" ref="model_syailendra_distillation"/>
+        <field name="domain_force">['|', ('company_id', '=', False), ('company_id', 'in', company_ids)]</field>
+        <field name="global" eval="True"/>
+    </record>
+
+    <record id="rule_syailendra_qc_inspection_company" model="ir.rule">
+        <field name="name">Uji QC: multi-perusahaan</field>
+        <field name="model_id" ref="model_syailendra_qc_inspection"/>
+        <field name="domain_force">['|', ('company_id', '=', False), ('company_id', 'in', company_ids)]</field>
+        <field name="global" eval="True"/>
+    </record>
+
+    <record id="rule_syailendra_supplier_evaluation_company" model="ir.rule">
+        <field name="name">Evaluasi Pemasok: multi-perusahaan</field>
+        <field name="model_id" ref="model_syailendra_supplier_evaluation"/>
+        <field name="domain_force">['|', ('company_id', '=', False), ('company_id', 'in', company_ids)]</field>
+        <field name="global" eval="True"/>
+    </record>
+
+    <record id="rule_syailendra_supplier_audit_company" model="ir.rule">
+        <field name="name">Audit Pemasok: multi-perusahaan</field>
+        <field name="model_id" ref="model_syailendra_supplier_audit"/>
+        <field name="domain_force">['|', ('company_id', '=', False), ('company_id', 'in', company_ids)]</field>
+        <field name="global" eval="True"/>
+    </record>
+
+</odoo>

@@ -34,6 +34,16 @@ function resolveDefaultCode(id: number): string {
   }
 }
 
+function cleanBase64(val?: string | null): string | false {
+  if (!val) return false
+  const trimmed = val.trim()
+  if (!trimmed) return false
+  if (trimmed.includes(',')) {
+    return trimmed.split(',')[1] || false
+  }
+  return trimmed
+}
+
 export async function fetchAllCompanies(): Promise<CompanyRecord[]> {
   const companyFields = [
     'id',
@@ -122,8 +132,9 @@ export async function updateCompanyProfile(payload: UpdateCompanyPayload): Promi
   }
 
   if (payload.logo_web !== undefined) {
-    companyFields.logo_web = payload.logo_web || false
-    companyFields.uses_default_logo = !payload.logo_web
+    const cleaned = cleanBase64(payload.logo_web)
+    companyFields.logo_web = cleaned
+    companyFields.uses_default_logo = !cleaned
   }
 
   await odoo.client.write('res.company', [payload.id], companyFields)

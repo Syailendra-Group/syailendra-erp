@@ -149,5 +149,18 @@
     "saved": "Data berhasil disimpan",
     "copied": "Berhasil disalin ke clipboard",
     "copyFailed": "Gagal menyalin ke clipboard"
+  },
+  "dropzone": {
+    "dragDropHelp": "Klik atau seret berkas gambar ke sini",
+    "imagesOnly": "Format PNG, JPG, atau WebP (Maks {size}MB)",
+    "fileSizeError": "Ukuran berkas melebihi batas maksimum {max}MB",
+    "fileTypeError": "Format berkas tidak didukung",
+    "cropImage": "Sesuaikan & Potong Gambar",
+    "cropDescription": "Geser, perbesar, atau putar gambar agar sesuai dengan bingkai",
+    "cropSave": "Terapkan Potongan",
+    "cropAction": "Potong",
+    "cropError": "Gagal memotong gambar",
+    "removeFile": "Hapus",
+    "cancel": "Batal"
   }
 }

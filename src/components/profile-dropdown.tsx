@@ -5,7 +5,7 @@ import { LogOut, ShieldCheck, User } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 
 import { SignOutDialog } from '@/components/dialog/sign-out-dialog'
-import { Avatar, AvatarFallback } from '@/components/ui/avatar'
+import { ImageViewer } from '@/components/image/image-viewer'
 import { Button } from '@/components/ui/button'
 import {
   DropdownMenu,
@@ -36,10 +36,10 @@ export function ProfileDropdown(): ReactElement {
     <>
       <DropdownMenu modal={false}>
         <DropdownMenuTrigger asChild>
-          <Button variant="ghost" className="relative w-8 cursor-pointer rounded-full p-0 hover:bg-white/15">
-            <Avatar className="h-8 w-8 border border-white/25">
-              <AvatarFallback className="bg-brand-gold text-brand-ink text-xs font-bold">{user.name.charAt(0)}</AvatarFallback>
-            </Avatar>
+          <Button variant="ghost" className="relative size-8 cursor-pointer rounded-full p-0 hover:bg-white/15">
+            <div className="flex aspect-square size-8 shrink-0 items-center justify-center overflow-hidden rounded-full border border-white/25 shadow-xs">
+              <ImageViewer src={null} alt={user.name} fallbackText={user.name} disabled className="size-full rounded-full text-xs font-bold" />
+            </div>
           </Button>
         </DropdownMenuTrigger>
 

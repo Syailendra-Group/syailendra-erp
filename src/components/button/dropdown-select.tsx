@@ -2,6 +2,7 @@
 
 import { Check, ChevronsUpDown } from 'lucide-react'
 
+import { ImageViewer } from '@/components/image/image-viewer'
 import { Badge } from '@/components/ui/badge'
 import { Button } from '@/components/ui/button'
 import {
@@ -21,6 +22,8 @@ export interface DropdownSelectOption<T extends string | number = string> {
   title: ReactNode
   subtitle?: ReactNode
   icon?: ComponentType<{ className?: string }>
+  imageSrc?: string | null
+  fallbackText?: string
   badge?: ReactNode
   disabled?: boolean
 }
@@ -32,6 +35,8 @@ export interface DropdownSelectProps<T extends string | number = string> {
   triggerLabel?: ReactNode
   triggerBadge?: ReactNode
   triggerIcon?: ComponentType<{ className?: string }>
+  triggerImageSrc?: string | null
+  triggerFallbackText?: string
   menuLabel?: ReactNode
   align?: 'start' | 'center' | 'end'
   contentClassName?: string
@@ -47,6 +52,8 @@ export function DropdownSelect<T extends string | number = string>({
   triggerLabel,
   triggerBadge,
   triggerIcon: TriggerIcon,
+  triggerImageSrc,
+  triggerFallbackText,
   menuLabel,
   align = 'end',
   contentClassName = 'w-64',
@@ -56,6 +63,9 @@ export function DropdownSelect<T extends string | number = string>({
 }: DropdownSelectProps<T>): ReactElement {
   const selectedOption = options.find((opt) => opt.value === value)
   const hasTriggerBadge = Boolean(triggerBadge ?? selectedOption?.badge)
+  const resolvedTriggerImage = triggerImageSrc !== undefined ? triggerImageSrc : selectedOption?.imageSrc
+  const resolvedTriggerFallback =
+    triggerFallbackText ?? selectedOption?.fallbackText ?? (typeof selectedOption?.title === 'string' ? selectedOption.title : undefined)
 
   return (
     <DropdownMenu>
@@ -66,7 +76,20 @@ export function DropdownSelect<T extends string | number = string>({
           disabled={disabled}
           className={cn('cursor-pointer gap-2 font-semibold transition-all', buttonClassName)}
         >
-          {TriggerIcon && <TriggerIcon className="size-4 shrink-0" />}
+          {resolvedTriggerImage !== undefined || resolvedTriggerFallback !== undefined ? (
+            <div className="border-border/50 flex aspect-square size-5 shrink-0 items-center justify-center overflow-hidden rounded border">
+              <ImageViewer
+                src={resolvedTriggerImage}
+                alt={resolvedTriggerFallback || 'Selected'}
+                fallbackText={resolvedTriggerFallback}
+                disabled
+                objectFit="contain"
+                className="size-full text-[9px]"
+              />
+            </div>
+          ) : (
+            TriggerIcon && <TriggerIcon className="size-4 shrink-0" />
+          )}
 
           {triggerBadge ? (
             <Badge variant="default" className="font-bold">
@@ -101,6 +124,7 @@ export function DropdownSelect<T extends string | number = string>({
         {options.map((option) => {
           const isSelected = option.value === value
           const Icon = option.icon
+          const hasImageOrFallback = option.imageSrc !== undefined || option.fallbackText !== undefined
 
           return (
             <DropdownMenuItem
@@ -109,15 +133,28 @@ export function DropdownSelect<T extends string | number = string>({
               onClick={() => onValueChange(option.value)}
               className={cn('cursor-pointer gap-2.5 p-2 transition-colors', isSelected ? 'bg-primary/10 text-primary font-bold' : '')}
             >
-              {Icon && (
-                <div
-                  className={cn(
-                    'flex size-7 shrink-0 items-center justify-center rounded-md border',
-                    isSelected ? 'bg-primary text-primary-foreground border-primary' : 'bg-muted text-muted-foreground'
-                  )}
-                >
-                  <Icon className="size-3.5" />
+              {hasImageOrFallback ? (
+                <div className="border-border/50 flex aspect-square size-6.5 shrink-0 items-center justify-center overflow-hidden rounded-md border">
+                  <ImageViewer
+                    src={option.imageSrc}
+                    alt={typeof option.title === 'string' ? option.title : String(option.value)}
+                    fallbackText={option.fallbackText || (typeof option.title === 'string' ? option.title : undefined)}
+                    disabled
+                    objectFit="contain"
+                    className="size-full text-[10px]"
+                  />
                 </div>
+              ) : (
+                Icon && (
+                  <div
+                    className={cn(
+                      'flex size-7 shrink-0 items-center justify-center rounded-md border',
+                      isSelected ? 'bg-primary text-primary-foreground border-primary' : 'bg-muted text-muted-foreground'
+                    )}
+                  >
+                    <Icon className="size-3.5" />
+                  </div>
+                )
               )}
 
               <div className="flex min-w-0 flex-1 flex-col text-left">

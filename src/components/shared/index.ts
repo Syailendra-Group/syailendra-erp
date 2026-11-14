@@ -1,4 +1,5 @@
-export * from './page-header'
-export * from './detail-row'
 export * from './breadcrumbs'
 export * from './data-badge'
+export * from './detail-row'
+export * from './info-alert'
+export * from './page-header'

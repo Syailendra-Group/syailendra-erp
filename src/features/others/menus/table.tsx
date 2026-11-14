@@ -64,7 +64,12 @@ export function MenusTable(): ReactElement {
       getColumns({
         t,
         tCommon,
-        companies: companies.map((c) => ({ id: c.id, short_name: c.short_name, name: c.name })),
+        companies: companies.map((c) => ({
+          id: c.id,
+          short_name: c.short_name,
+          name: c.name,
+          logo_web: c.logo_web
+        })),
         onView: handleView,
         onEdit: handleEdit,
         onReassign: handleReassign

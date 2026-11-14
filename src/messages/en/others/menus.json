@@ -44,5 +44,9 @@
     "nameMin": "Full menu name must be at least 3 characters",
     "nameMax": "Full menu name cannot exceed 120 characters",
     "companyRequired": "Please select an owning corporate entity"
+  },
+  "Summary": {
+    "modulesCount": "Pillars",
+    "allocatedList": "Allocations"
   }
 }

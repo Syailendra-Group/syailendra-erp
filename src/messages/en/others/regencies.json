@@ -15,7 +15,8 @@
     "aliasLabel": "Alias Name",
     "aliasPlaceholder": "e.g. Wonosobo",
     "descLabel": "Description / Geographical Profile (Optional)",
-    "descPlaceholder": "Highland agribusiness center, hilly contour..."
+    "descPlaceholder": "Highland agribusiness center, hilly contour...",
+    "category": "Region Type"
   },
   "dialog": {
     "addTitle": "Register New Regency / City",

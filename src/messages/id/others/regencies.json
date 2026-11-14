@@ -15,7 +15,8 @@
     "aliasLabel": "Nama Alias",
     "aliasPlaceholder": "Contoh: Wonosobo",
     "descLabel": "Deskripsi / Karakteristik Geografis (Opsional)",
-    "descPlaceholder": "Sentra agribisnis dataran tinggi, kontur perbukitan..."
+    "descPlaceholder": "Sentra agribisnis dataran tinggi, kontur perbukitan...",
+    "category": "Tipe Wilayah"
   },
   "dialog": {
     "addTitle": "Registrasi Kabupaten / Kota Baru",

@@ -1,0 +1,67 @@
+{
+  "title": "Pengaturan Website & Tampilan",
+  "subtitle": "Konfigurasi identitas global aplikasi, tagline autentikasi login, logo korporat, dan palet warna tema dinamis",
+  "resetDefault": "Kembalikan Default",
+  "saveButton": "Simpan Pengaturan Website",
+  "saveSuccess": "Pengaturan website dan tema berhasil disimpan",
+  "resetSuccess": "Pengaturan website berhasil dikembalikan ke standar korporat",
+  "saveError": "Gagal menyimpan pengaturan website",
+  "sections": {
+    "identity": {
+      "title": "Identitas & Teks Autentikasi",
+      "subtitle": "Nama website, badge descriptor, dan teks yang tampil di layar masuk"
+    },
+    "logos": {
+      "title": "Tiga Logo Utama Sistem (PNG / WebP Transparan, Maks 2MB)",
+      "subtitle": "Unggah tiga varian logo resmi untuk mode terang, mode gelap, dan ikon monogram (rasio otomatis terjaga)"
+    },
+    "palette": {
+      "title": "Palet Warna Tema Dinamis",
+      "subtitle": "Warna primary, background canvas, dan aksen emas korporat"
+    }
+  },
+  "logos": {
+    "light": "Logo Utama (Mode Terang)",
+    "dark": "Logo Utama (Mode Gelap)",
+    "monogram": "Logo Monogram / Ikon",
+    "upload": "Unggah",
+    "change": "Ganti",
+    "lightDesc": "Ditampilkan pada latar belakang mode terang (Rasio 4:3)",
+    "darkDesc": "Ditampilkan pada latar belakang mode gelap (Rasio 4:3)",
+    "monogramDesc": "Ikon persegi untuk header dan favicon (Rasio 1:1)"
+  },
+  "fields": {
+    "siteName": "Nama Utama Website / Sistem",
+    "siteDescriptor": "Badge Descriptor Platform",
+    "loginTagline": "Tagline Halaman Login",
+    "loginCardTitle": "Judul Kartu Masuk",
+    "loginCardDesc": "Deskripsi Kartu Masuk",
+    "footerBackbone": "Teks Sub-Descriptor Footer",
+    "copyright": "Teks Hak Cipta",
+    "companyName": "Nama Badan Usaha / Group (Footer)"
+  },
+  "colors": {
+    "primaryLight": "Warna Primary (Mode Terang)",
+    "primaryLightDesc": "Warna utama tombol, link, dan gradasi sidebar/navbar mode terang",
+    "primaryDark": "Warna Primary (Mode Gelap)",
+    "primaryDarkDesc": "Warna utama tombol, link, dan gradasi sidebar/navbar mode gelap",
+    "bgLight": "Background Canvas (Mode Terang)",
+    "bgLightDesc": "Latar belakang kanvas aplikasi pada mode terang",
+    "bgDark": "Background Canvas (Mode Gelap)",
+    "bgDarkDesc": "Latar belakang kanvas aplikasi pada mode gelap",
+    "accentGold": "Warna Aksen Emas",
+    "accentGoldDesc": "Garis penanda tab aktif di navigasi atas dan sidebar"
+  },
+  "preview": {
+    "title": "Pratinjau Langsung Tema Sistem",
+    "lightMode": "Mode Terang (Light)",
+    "darkMode": "Mode Gelap (Dark)"
+  },
+  "validation": {
+    "siteNameMin": "Nama website minimal 2 karakter",
+    "siteNameMax": "Nama website maksimal 60 karakter",
+    "hexInvalid": "Format kode warna hex tidak valid (contoh: #004E52)",
+    "companyNameMin": "Nama usaha minimal 2 karakter",
+    "companyNameMax": "Nama usaha maksimal 120 karakter"
+  }
+}

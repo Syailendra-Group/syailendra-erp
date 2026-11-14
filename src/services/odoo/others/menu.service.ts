@@ -20,17 +20,22 @@ export async function fetchAllPillars(): Promise<PillarRecord[]> {
     .map((p) => (Array.isArray(p.company_id) ? (p.company_id[0] as number) : null))
     .filter((id): id is number => typeof id === 'number')
 
-  const companyMap = new Map<number, { name: string; short_name: string }>()
+  const companyMap = new Map<number, { name: string; short_name: string; logo_web: string | null }>()
   if (companyIds.length > 0) {
     const rawCompanies = await odoo.client.searchRead<Record<string, OdooFieldValue>>(
       'res.company',
       [['id', 'in', companyIds]],
-      ['id', 'name', 'short_name']
+      ['id', 'name', 'short_name', 'logo_web', 'uses_default_logo']
     )
     rawCompanies.forEach((c) => {
+      const usesDefault = Boolean(c.uses_default_logo)
+      const rawLogo = c.logo_web as string | false | null
+      const logo = !usesDefault && typeof rawLogo === 'string' && rawLogo.length > 0 ? rawLogo : null
+
       companyMap.set(c.id as number, {
         name: (c.name as string) || '',
-        short_name: (c.short_name as string) || ''
+        short_name: (c.short_name as string) || '',
+        logo_web: logo
       })
     })
   }
@@ -49,6 +54,7 @@ export async function fetchAllPillars(): Promise<PillarRecord[]> {
       company_id: companyId,
       company_name: companyMeta?.name || '',
       company_short_name: companyMeta?.short_name || `PT-${companyId}`,
+      company_logo_web: companyMeta?.logo_web || null,
       sequence: (p.sequence as number) || 10,
       active: Boolean(p.active)
     }

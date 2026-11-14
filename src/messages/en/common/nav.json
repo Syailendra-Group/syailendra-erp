@@ -92,7 +92,8 @@
     "imm_scholarships": "Life Scholarship Program",
     "imm_rehabilitation": "Critical Land Rehabilitation",
     "imm_sdgs": "SDGs Impact Indicators",
-    "menu_allocation": "Pillar & Menu Allocation"
+    "menu_allocation": "Pillar & Menu Allocation",
+    "website_config": "Website Settings"
   },
   "breadcrumbs": {
     "home": "Home",
@@ -165,7 +166,8 @@
     "scholarships": "Scholarships",
     "rehabilitation": "Rehabilitation",
     "sdgs": "SDGs",
-    "menus": "Menu Allocation"
+    "menus": "Menu Allocation",
+    "website": "Website Settings"
   },
   "user": {
     "profile": "Profile Account",

@@ -3,3 +3,6 @@ node_modules
 public
 build
 dist
+
+# Ignore massive static regional JSON catalog
+src/data/indonesia-regions/catalog/**

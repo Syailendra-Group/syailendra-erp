@@ -1,9 +1,9 @@
 'use client'
 
-import Image from 'next/image'
-import { Building2, Check, ChevronsUpDown, Factory, Leaf, ShieldCheck, Target } from 'lucide-react'
+import { Building2, Check, ChevronsUpDown } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 
+import { ImageViewer } from '@/components/image/image-viewer'
 import {
   DropdownMenu,
   DropdownMenuContent,
@@ -17,15 +17,8 @@ import { useRouter } from '@/i18n/navigation'
 import { useEntityStore } from '@/stores/entity-store'
 import { useNavStore } from '@/stores/nav-store'
 
-import type { SyailendraEntity, SyailendraEntityId } from '@/stores/entity-store'
-import type { ElementType, ReactElement } from 'react'
-
-const ENTITY_ICONS: Record<SyailendraEntityId, ElementType> = {
-  sbi: ShieldCheck,
-  spba: Factory,
-  sammend: Target,
-  sg: Leaf
-}
+import type { SyailendraEntity } from '@/stores/entity-store'
+import type { ReactElement } from 'react'
 
 export function CompanySwitcher(): ReactElement {
   const tCommon = useTranslations('common.company')
@@ -36,6 +29,7 @@ export function CompanySwitcher(): ReactElement {
   const setActiveTab = useNavStore((s) => s.setActiveTab)
 
   const activeEntity = entities.find((e) => e.id === activeEntityId) || entities[0]
+  const activeLogo = activeEntity?.logoBase64 || null
 
   const handleSelectEntity = (entity: SyailendraEntity) => {
     setActiveEntityId(entity.id)
@@ -54,65 +48,56 @@ export function CompanySwitcher(): ReactElement {
               size="lg"
               className="cursor-pointer text-white hover:bg-white/10 hover:text-white data-[state=open]:bg-white/15 data-[state=open]:text-white"
             >
-              <div className="flex aspect-square size-8 items-center justify-center overflow-hidden rounded-lg border border-white/25 bg-white/95 shadow-xs">
-                {activeEntity?.logoBase64 ? (
-                  <Image
-                    src={`data:image/png;base64,${activeEntity.logoBase64}`}
-                    alt={activeEntity.name}
-                    width={24}
-                    height={24}
-                    unoptimized
-                    className="size-6 object-contain"
-                  />
-                ) : (
-                  <Image
-                    src="/images/branding/syailendra_logo_monogram_only.png"
-                    alt={tCommon('name')}
-                    width={24}
-                    height={24}
-                    className="size-6 object-contain"
-                  />
-                )}
+              <div className="flex aspect-square size-8 shrink-0 items-center justify-center overflow-hidden rounded-lg border border-white/25 shadow-xs">
+                <ImageViewer
+                  src={activeLogo}
+                  alt={activeEntity?.code || 'Company'}
+                  fallbackText={activeEntity?.code}
+                  disabled
+                  objectFit="contain"
+                  className="size-full text-[11px]"
+                />
               </div>
               <div className="grid flex-1 text-left text-sm leading-tight">
-                <span className="truncate font-bold text-white">{activeEntity?.code}</span>
-                <span className="truncate text-xs text-white/75">{activeEntity?.name}</span>
+                <span className="truncate font-bold text-white">{activeEntity?.name}</span>
+                <span className="truncate text-xs text-white/75">{tCommon(activeEntity.roleKey)}</span>
               </div>
               <ChevronsUpDown className="ml-auto text-white/70" />
             </SidebarMenuButton>
           </DropdownMenuTrigger>
 
-          <DropdownMenuContent className="w-(--radix-dropdown-menu-trigger-width) min-w-68 rounded-lg" align="start" side="bottom" sideOffset={4}>
+          <DropdownMenuContent
+            className="w-auto max-w-xl min-w-[380px] rounded-lg shadow-lg sm:min-w-[420px]"
+            align="start"
+            side="bottom"
+            sideOffset={4}
+          >
             <DropdownMenuLabel className="text-muted-foreground flex items-center gap-1.5 text-xs tracking-wider uppercase">
               <Building2 className="size-3.5" />
               <span>{tCommon('multiUnit')}</span>
             </DropdownMenuLabel>
 
             {entities.map((entity) => {
-              const Icon = ENTITY_ICONS[entity.id]
               const isSelected = entity.id === activeEntityId
+              const entityLogo = entity.logoBase64 || null
 
               return (
                 <DropdownMenuItem key={entity.id} onClick={() => handleSelectEntity(entity)} className="cursor-pointer gap-2.5 p-2">
-                  <div className="flex size-7 shrink-0 items-center justify-center overflow-hidden rounded-md border">
-                    {entity.logoBase64 ? (
-                      <Image
-                        src={`data:image/png;base64,${entity.logoBase64}`}
-                        alt={entity.name}
-                        width={20}
-                        height={20}
-                        unoptimized
-                        className="size-5 object-contain"
-                      />
-                    ) : (
-                      <Icon className="text-primary size-4" />
-                    )}
+                  <div className="border-border/50 flex aspect-square size-7 shrink-0 items-center justify-center overflow-hidden rounded-md border shadow-xs">
+                    <ImageViewer
+                      src={entityLogo}
+                      alt={entity.code}
+                      fallbackText={entity.code}
+                      disabled
+                      objectFit="contain"
+                      className="size-full text-[10px]"
+                    />
                   </div>
                   <div className="flex min-w-0 flex-1 flex-col">
-                    <span className="truncate text-xs font-semibold">
+                    <span className="text-xs font-semibold whitespace-nowrap">
                       {entity.code} - {entity.name}
                     </span>
-                    <span className="text-muted-foreground truncate text-[11px]">{tCommon(entity.roleKey)}</span>
+                    <span className="text-muted-foreground text-[11px] leading-snug">{tCommon(entity.roleKey)}</span>
                   </div>
                   {isSelected && <Check className="text-primary ml-auto size-4 shrink-0" />}
                 </DropdownMenuItem>

@@ -1,6 +1,6 @@
 'use client'
 
-import { useEffect, useMemo, useState } from 'react'
+import { useMemo, useState } from 'react'
 import { zodResolver } from '@hookform/resolvers/zod'
 import { Building, Save, Sparkles } from 'lucide-react'
 import { useTranslations } from 'next-intl'
@@ -11,7 +11,6 @@ import { LoadingButton } from '@/components/button/loading-button'
 import { PillTabs } from '@/components/button/pill-tabs'
 import { PageHeader } from '@/components/shared/page-header'
 import { Badge } from '@/components/ui/badge'
-import { Skeleton } from '@/components/ui/skeleton'
 import { useCompaniesQuery, useSaveCompanyMutation } from '@/hooks/others/use-companies'
 import { createCompanySchema } from '@/schemas/others/company-schema'
 import { useEntityStore } from '@/stores/entity-store'
@@ -19,7 +18,9 @@ import { useEntityStore } from '@/stores/entity-store'
 import { CommsSection } from './form/comms-section'
 import { IdentitySection } from './form/identity-section'
 import { PillarsSection } from './form/pillars-section'
+import { CompanySkeleton } from './skeleton'
 
+import type { PillTabItem } from '@/components/button/pill-tabs'
 import type { CompanyFormValues } from '@/schemas/others/company-schema'
 import type { ReactElement } from 'react'
 
@@ -37,12 +38,14 @@ export function CompanyFeature(): ReactElement {
 
   const selectedCompany = useMemo(() => companies.find((c) => c.id === selectedId) || companies[0], [companies, selectedId])
 
-  const tabItems = useMemo(
+  const tabItems: PillTabItem<number>[] = useMemo(
     () =>
       companies.map((c) => ({
         id: c.id,
         label: c.short_name,
-        sublabel: c.name
+        sublabel: c.name,
+        imageSrc: c.logo_web,
+        fallbackText: c.short_name
       })),
     [companies]
   )
@@ -59,46 +62,33 @@ export function CompanyFeature(): ReactElement {
     [t]
   )
 
+  const odooFormValues: CompanyFormValues | undefined = useMemo(
+    () =>
+      selectedCompany
+        ? {
+            id: selectedCompany.id,
+            short_name: selectedCompany.short_name,
+            name: selectedCompany.name,
+            tagline: selectedCompany.tagline,
+            email: selectedCompany.email,
+            phone: selectedCompany.phone,
+            mobile: selectedCompany.mobile,
+            website: selectedCompany.website,
+            street: selectedCompany.street,
+            city: selectedCompany.city,
+            zip: selectedCompany.zip,
+            vat: selectedCompany.vat,
+            logo_web: selectedCompany.logo_web,
+            enabled_pillars: selectedCompany.enabled_pillars
+          }
+        : undefined,
+    [selectedCompany]
+  )
+
   const form = useForm<CompanyFormValues>({
     resolver: zodResolver(schema),
-    defaultValues: {
-      id: 4,
-      short_name: 'SG',
-      name: '',
-      tagline: '',
-      email: '',
-      phone: '',
-      mobile: '',
-      website: '',
-      street: '',
-      city: '',
-      zip: '',
-      vat: '',
-      logo_web: null,
-      enabled_pillars: ['imm', 'others']
-    }
+    values: odooFormValues
   })
-
-  useEffect(() => {
-    if (selectedCompany) {
-      form.reset({
-        id: selectedCompany.id,
-        short_name: selectedCompany.short_name,
-        name: selectedCompany.name,
-        tagline: selectedCompany.tagline,
-        email: selectedCompany.email,
-        phone: selectedCompany.phone,
-        mobile: selectedCompany.mobile,
-        website: selectedCompany.website,
-        street: selectedCompany.street,
-        city: selectedCompany.city,
-        zip: selectedCompany.zip,
-        vat: selectedCompany.vat,
-        logo_web: selectedCompany.logo_web,
-        enabled_pillars: selectedCompany.enabled_pillars
-      })
-    }
-  }, [selectedCompany, form])
 
   const onSubmit = form.handleSubmit((values) => {
     saveMutation.mutate(
@@ -139,16 +129,8 @@ export function CompanyFeature(): ReactElement {
     )
   })
 
-  if (isLoading && companies.length === 0) {
-    return (
-      <div className="space-y-6">
-        <Skeleton className="h-20 w-full rounded-lg" />
-        <div className="grid gap-6 lg:grid-cols-2">
-          <Skeleton className="h-72 w-full rounded-lg" />
-          <Skeleton className="h-72 w-full rounded-lg" />
-        </div>
-      </div>
-    )
+  if (isLoading || !selectedCompany) {
+    return <CompanySkeleton />
   }
 
   return (
@@ -165,7 +147,8 @@ export function CompanyFeature(): ReactElement {
         }
       />
 
-      <PillTabs items={tabItems} value={selectedCompany?.id} onValueChange={setSelectedId} />
+      {/* Full-width Responsive PillTabs with Company Logo */}
+      <PillTabs items={tabItems} value={selectedCompany.id} onValueChange={setSelectedId} />
 
       <form onSubmit={onSubmit} className="space-y-6">
         <div className="grid gap-4 sm:gap-6 lg:grid-cols-2">

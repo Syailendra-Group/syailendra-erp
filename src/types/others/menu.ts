@@ -15,6 +15,7 @@ export interface PillarRecord {
   company_id: number
   company_name: string
   company_short_name: string
+  company_logo_web: string | null
   sequence: number
   active: boolean
 }

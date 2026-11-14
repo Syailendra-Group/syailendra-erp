@@ -9,7 +9,7 @@ import type { OdooFieldValue } from '@/lib/odoo/types'
 import type { UserSession } from '@/types/auth/auth'
 
 export async function authenticateUser(email: string, password: string): Promise<UserSession | null> {
-  const db = process.env.ODOO_DB || 'odoo_dev'
+  const db = process.env.ODOO_DB || 'syailendra_erp'
 
   const uid = await odoo.client.authenticateWithCredentials(db, email, password)
   if (!uid) {

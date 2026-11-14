@@ -12,6 +12,7 @@ import { SidebarInset, SidebarProvider } from '@/components/ui/sidebar'
 import { TooltipProvider } from '@/components/ui/tooltip'
 import { SearchProvider } from '@/contexts/shared/search.context'
 import { useCompaniesHydration } from '@/hooks/others/use-companies'
+import { useSiteConfigHydration } from '@/hooks/others/use-website'
 import { usePathname } from '@/i18n/navigation'
 import { resolveEntityByTab, useEntityStore } from '@/stores/entity-store'
 import { useNavStore } from '@/stores/nav-store'
@@ -53,21 +54,20 @@ export function AuthenticatedLayout({ children }: AuthenticatedLayoutProps): Rea
   const entities = useEntityStore((s) => s.entities)
   const setActiveEntityId = useEntityStore((s) => s.setActiveEntityId)
 
-  // Global hydration of company metadata (short_name, logo_web, enabled_pillars) from backend
+  // Global hydration of company metadata & dynamic website appearance/theme tokens
   useCompaniesHydration()
+  useSiteConfigHydration()
 
   // Two-way synchronization: keep TopNav tab, Sidebar groups, and owning PT entity aligned with active URL
   useEffect(() => {
     const resolvedTab = resolveTabFromPath(pathname)
     setActiveTab(resolvedTab)
 
-    // Check if currently active entity already owns this pillar tab
     const currentEntity = entities.find((e) => e.id === activeEntityId)
     if (currentEntity && currentEntity.pillars.includes(resolvedTab)) {
       return
     }
 
-    // Otherwise, switch activeEntityId to the designated owner of this tab
     const owningEntity = resolveEntityByTab(resolvedTab)
     if (owningEntity && owningEntity.id !== activeEntityId) {
       setActiveEntityId(owningEntity.id)

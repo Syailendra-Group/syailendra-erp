@@ -1,17 +1,15 @@
 'use client'
 
-import { useRef } from 'react'
-import Image from 'next/image'
-import { Building, Building2, ImagePlus, Trash2, Upload } from 'lucide-react'
+import { Building } from 'lucide-react'
 
 import { SectionCard } from '@/components/card/section-card'
 import { FormFieldWrapper } from '@/components/form/form-field-wrapper'
-import { Button } from '@/components/ui/button'
+import { FileDropzone } from '@/components/image/file-dropzone'
 import { Input } from '@/components/ui/input'
 import { Separator } from '@/components/ui/separator'
 
 import type { CompanyFormValues } from '@/schemas/others/company-schema'
-import type { ChangeEvent, ReactElement } from 'react'
+import type { ReactElement } from 'react'
 import type { UseFormReturn } from 'react-hook-form'
 
 interface IdentitySectionProps {
@@ -27,66 +25,24 @@ export function IdentitySection({ form, t }: IdentitySectionProps): ReactElement
     formState: { errors }
   } = form
 
-  const fileInputRef = useRef<HTMLInputElement>(null)
   const logoBase64 = watch('logo_web')
-
-  const handleFileChange = (e: ChangeEvent<HTMLInputElement>) => {
-    const file = e.target.files?.[0]
-    if (!file) return
-
-    if (file.size > 2 * 1024 * 1024) {
-      return
-    }
-
-    const reader = new FileReader()
-    reader.onload = () => {
-      const result = reader.result
-      if (typeof result === 'string') {
-        const base64Content = result.split(',')[1] || ''
-        setValue('logo_web', base64Content, { shouldDirty: true })
-      }
-    }
-    reader.readAsDataURL(file)
-  }
-
-  const handleRemove = () => {
-    setValue('logo_web', null, { shouldDirty: true })
-    if (fileInputRef.current) {
-      fileInputRef.current.value = ''
-    }
-  }
 
   return (
     <SectionCard title={t('sections.identity.title')} description={t('sections.identity.subtitle')} icon={Building} contentClassName="space-y-4">
-      {/* Integrated Corporate Logo Uploader */}
-      <div className="flex flex-col items-center gap-4 sm:flex-row">
-        <div className="bg-muted/40 relative flex size-24 shrink-0 items-center justify-center overflow-hidden rounded-xl border border-dashed p-2">
-          {logoBase64 ? (
-            <Image src={`data:image/png;base64,${logoBase64}`} alt="Corporate Logo" fill unoptimized className="object-contain p-2" />
-          ) : (
-            <div className="text-muted-foreground flex flex-col items-center gap-1 text-center">
-              <Building2 className="size-8 opacity-40" />
-              <span className="text-[10px] leading-tight">{t('fields.usesDefaultLogo')}</span>
-            </div>
-          )}
+      {/* Integrated Corporate Logo with Ergonomic Dropzone */}
+      <div className="space-y-2">
+        <div className="space-y-0.5">
+          <span className="text-xs font-semibold">{t('sections.logo.title')}</span>
+          <p className="text-muted-foreground text-[11px] leading-relaxed">{t('fields.dragDrop')}</p>
         </div>
 
-        <div className="flex flex-1 flex-col gap-2">
-          <div className="text-xs font-semibold">{t('sections.logo.title')}</div>
-          <input ref={fileInputRef} type="file" accept="image/png,image/jpeg,image/webp" className="hidden" onChange={handleFileChange} />
-          <p className="text-muted-foreground text-xs leading-relaxed">{t('fields.dragDrop')}</p>
-          <div className="flex flex-wrap items-center gap-2 pt-1">
-            <Button type="button" variant="outline" onClick={() => fileInputRef.current?.click()} className="gap-1.5">
-              {logoBase64 ? <ImagePlus className="size-4" /> : <Upload className="size-4" />}
-              <span>{logoBase64 ? t('fields.changeLogo') : t('fields.uploadLogo')}</span>
-            </Button>
-            {logoBase64 && (
-              <Button type="button" variant="ghost" onClick={handleRemove} className="text-destructive hover:text-destructive gap-1.5">
-                <Trash2 className="size-4" />
-                <span>{t('fields.removeLogo')}</span>
-              </Button>
-            )}
-          </div>
+        <div className="flex justify-start">
+          <FileDropzone
+            value={logoBase64}
+            onChange={(b64) => setValue('logo_web', (b64 as string) || null, { shouldDirty: true })}
+            valueMode="base64"
+            aspectRatio={1}
+          />
         </div>
       </div>
 

@@ -92,7 +92,8 @@
     "imm_scholarships": "Program Beasiswa Kehidupan",
     "imm_rehabilitation": "Pemulihan Lahan Kritis",
     "imm_sdgs": "Indikator Dampak SDGs",
-    "menu_allocation": "Alokasi Pilar & Menu"
+    "menu_allocation": "Alokasi Pilar & Menu",
+    "website_config": "Pengaturan Website"
   },
   "breadcrumbs": {
     "home": "Beranda",
@@ -165,7 +166,8 @@
     "scholarships": "Beasiswa",
     "rehabilitation": "Rehabilitasi",
     "sdgs": "SDGs",
-    "menus": "Alokasi Pilar & Menu"
+    "menus": "Alokasi Pilar & Menu",
+    "website": "Pengaturan Website"
   },
   "user": {
     "profile": "Profil Akun",

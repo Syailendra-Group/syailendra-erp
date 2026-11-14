@@ -1,22 +1,18 @@
-import type { NextConfig } from "next";
-import createNextIntlPlugin from "next-intl/plugin";
+import createNextIntlPlugin from 'next-intl/plugin'
 
-const withNextIntl = createNextIntlPlugin("./src/i18n/request.ts");
+import type { NextConfig } from 'next'
+
+const withNextIntl = createNextIntlPlugin('./src/i18n/request.ts')
 
 const nextConfig: NextConfig = {
   reactStrictMode: true,
   experimental: {
     cpus: 4,
     serverActions: {
-      allowedOrigins: [
-        "app.syailendra.group",
-        "*.syailendra.group",
-        "demo.octalectzz.my.id",
-        "*.octalectzz.my.id",
-        "localhost:3000"
-      ]
+      bodySizeLimit: '10mb',
+      allowedOrigins: ['app.syailendra.group', '*.syailendra.group', 'demo.octalectzz.my.id', '*.octalectzz.my.id', 'localhost:3000']
     }
   }
-};
+}
 
-export default withNextIntl(nextConfig);
+export default withNextIntl(nextConfig)

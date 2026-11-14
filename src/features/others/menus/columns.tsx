@@ -1,7 +1,5 @@
 'use client'
 
-import { Factory, Leaf, ShieldCheck, Target } from 'lucide-react'
-
 import { ActionButton } from '@/components/button/action-button'
 import { DropdownSelect } from '@/components/button/dropdown-select'
 import { DataTableColumnHeader } from '@/components/data-table/column-header'
@@ -11,19 +9,11 @@ import { PILLAR_ICONS } from '@/data/pillar-catalog'
 import type { DropdownSelectOption } from '@/components/button/dropdown-select'
 import type { PillarRecord } from '@/types/others/menu'
 import type { ColumnDef } from '@tanstack/react-table'
-import type { ComponentType } from 'react'
-
-const COMPANY_ICONS: Record<number, ComponentType<{ className?: string }>> = {
-  4: Leaf,
-  1: ShieldCheck,
-  2: Factory,
-  3: Target
-}
 
 export interface GetColumnsOptions {
   t: (key: string) => string
   tCommon: (key: string) => string
-  companies: { id: number; short_name: string; name: string }[]
+  companies: { id: number; short_name: string; name: string; logo_web: string | null }[]
   onView: (pillar: PillarRecord) => void
   onEdit: (pillar: PillarRecord) => void
   onReassign: (pillarId: number, companyId: number) => void
@@ -33,7 +23,9 @@ export function getColumns({ t, tCommon, companies, onView, onEdit, onReassign }
   const companyOptions: DropdownSelectOption<number>[] = companies.map((c) => ({
     value: c.id,
     title: c.short_name,
-    icon: COMPANY_ICONS[c.id] || ShieldCheck
+    subtitle: c.name,
+    imageSrc: c.logo_web,
+    fallbackText: c.short_name
   }))
 
   return [
@@ -93,8 +85,10 @@ export function getColumns({ t, tCommon, companies, onView, onEdit, onReassign }
             value={item.company_id}
             onValueChange={(newCompanyId) => onReassign(item.id, newCompanyId)}
             triggerBadge={item.company_short_name}
+            triggerImageSrc={item.company_logo_web}
+            triggerFallbackText={item.company_short_name}
             menuLabel={t('table.owner')}
-            contentClassName="w-48"
+            contentClassName="w-64"
           />
         )
       },

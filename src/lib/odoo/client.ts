@@ -19,8 +19,8 @@ export class OdooClient {
 
   private resolveConfig(): OdooConfig {
     return {
-      baseUrl: this.customConfig?.baseUrl || process.env.ODOO_BASE_URL || 'http://10.10.0.238:8069',
-      db: this.customConfig?.db || process.env.ODOO_DB || 'odoo_dev',
+      baseUrl: this.customConfig?.baseUrl || process.env.ODOO_BASE_URL || 'https://odoo.ddistillers.cloud',
+      db: this.customConfig?.db || process.env.ODOO_DB || 'syailendra_erp',
       username: this.customConfig?.username || process.env.ODOO_USERNAME || '',
       password: this.customConfig?.password || process.env.ODOO_PASSWORD || '',
       apiKey: this.customConfig?.apiKey || process.env.ODOO_API_KEY

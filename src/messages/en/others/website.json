@@ -1,0 +1,67 @@
+{
+  "title": "Website & Appearance Configuration",
+  "subtitle": "Configure global application branding, login authentication tagline, corporate logos, and dynamic theme palette",
+  "resetDefault": "Reset to Default",
+  "saveButton": "Save Website Settings",
+  "saveSuccess": "Website settings and theme successfully saved",
+  "resetSuccess": "Website settings reset to corporate defaults",
+  "saveError": "Failed to save website settings",
+  "sections": {
+    "identity": {
+      "title": "Branding & Authentication Identity",
+      "subtitle": "Website name, platform descriptor badge, and login screen copy"
+    },
+    "logos": {
+      "title": "Three Core Corporate Logos (Transparent PNG / WebP, Max 2MB)",
+      "subtitle": "Upload three official logo variants for light mode, dark mode, and monogram icon (aspect ratio automatically preserved)"
+    },
+    "palette": {
+      "title": "Dynamic Theme Color Palette",
+      "subtitle": "Primary brand colors, canvas backgrounds, and corporate gold accent"
+    }
+  },
+  "logos": {
+    "light": "Primary Logo (Light Mode)",
+    "dark": "Primary Logo (Dark Mode)",
+    "monogram": "Monogram / Sidebar Icon",
+    "upload": "Upload",
+    "change": "Change",
+    "lightDesc": "Displayed on light mode backgrounds (Ratio 4:3)",
+    "darkDesc": "Displayed on dark mode backgrounds (Ratio 4:3)",
+    "monogramDesc": "Square icon for header and favicon (Ratio 1:1)"
+  },
+  "fields": {
+    "siteName": "Main Website / System Name",
+    "siteDescriptor": "Platform Descriptor Badge",
+    "loginTagline": "Login Screen Tagline",
+    "loginCardTitle": "Login Card Title",
+    "loginCardDesc": "Login Card Description",
+    "footerBackbone": "Footer Sub-Descriptor Text",
+    "copyright": "Copyright Notice",
+    "companyName": "Business / Holding Group Name (Footer)"
+  },
+  "colors": {
+    "primaryLight": "Primary Color (Light Mode)",
+    "primaryLightDesc": "Core color for buttons, links, and sidebar/navbar gradients in light mode",
+    "primaryDark": "Primary Color (Dark Mode)",
+    "primaryDarkDesc": "Core color for buttons, links, and sidebar/navbar gradients in dark mode",
+    "bgLight": "Background Canvas (Light Mode)",
+    "bgLightDesc": "Application canvas background surface in light mode",
+    "bgDark": "Background Canvas (Dark Mode)",
+    "bgDarkDesc": "Application canvas background surface in dark mode",
+    "accentGold": "Corporate Gold Accent",
+    "accentGoldDesc": "Active tab indicator border on top navigation and sidebar"
+  },
+  "preview": {
+    "title": "Live Theme System Preview",
+    "lightMode": "Light Mode",
+    "darkMode": "Dark Mode"
+  },
+  "validation": {
+    "siteNameMin": "Website name must be at least 2 characters",
+    "siteNameMax": "Website name cannot exceed 60 characters",
+    "hexInvalid": "Invalid hex color code format (e.g. #004E52)",
+    "companyNameMin": "Business name must be at least 2 characters",
+    "companyNameMax": "Business name cannot exceed 120 characters"
+  }
+}

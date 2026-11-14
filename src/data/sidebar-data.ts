@@ -28,6 +28,7 @@ import {
   MapPin,
   MessageSquareCode,
   Navigation,
+  Palette,
   QrCode,
   Recycle,
   RotateCcw,
@@ -229,6 +230,7 @@ export const sidebarData: SidebarData = {
         items: [
           { titleKey: 'items.company_profile', url: '/others/company', icon: Building },
           { titleKey: 'items.menu_allocation', url: '/others/menus', icon: LayoutGrid },
+          { titleKey: 'items.website_config', url: '/others/website', icon: Palette },
           { titleKey: 'items.access_roles', url: '/others/roles', icon: Shield },
           { titleKey: 'items.partners_registry', url: '/others/partners', icon: UserPlus }
         ]

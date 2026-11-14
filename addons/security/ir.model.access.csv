@@ -3,3 +3,4 @@ access_res_country_city_user,res.country.city.user,model_res_country_city,base.g
 access_res_country_district_user,res.country.district.user,model_res_country_district,base.group_user,1,1,1,1
 access_res_country_subdistrict_user,res.country.subdistrict.user,model_res_country_subdistrict,base.group_user,1,1,1,1
 access_syailendra_pillar_user,syailendra.pillar.user,model_syailendra_pillar,base.group_user,1,1,1,1
+access_syailendra_site_config_user,syailendra.site.config.user,model_syailendra_site_config,base.group_user,1,1,1,1

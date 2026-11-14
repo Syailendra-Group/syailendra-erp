@@ -5,7 +5,7 @@ import { BadgeCheck, ChevronsUpDown, LogOut, Sparkles } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 
 import { SignOutDialog } from '@/components/dialog/sign-out-dialog'
-import { Avatar, AvatarFallback } from '@/components/ui/avatar'
+import { ImageViewer } from '@/components/image/image-viewer'
 import {
   DropdownMenu,
   DropdownMenuContent,
@@ -41,9 +41,9 @@ export function NavUser(): ReactElement {
                 size="lg"
                 className="cursor-pointer text-white hover:bg-white/10 hover:text-white data-[state=open]:bg-white/15 data-[state=open]:text-white"
               >
-                <Avatar className="h-8 w-8 rounded-lg">
-                  <AvatarFallback className="bg-brand-gold text-brand-ink rounded-lg text-xs font-bold">{user.name.charAt(0)}</AvatarFallback>
-                </Avatar>
+                <div className="flex aspect-square size-8 shrink-0 items-center justify-center overflow-hidden rounded-lg border border-white/20 shadow-xs">
+                  <ImageViewer src={null} alt={user.name} fallbackText={user.name} disabled className="size-full text-xs font-bold" />
+                </div>
                 <div className="grid flex-1 text-left text-sm leading-tight">
                   <span className="truncate font-semibold text-white">{user.name}</span>
                   <span className="truncate text-xs text-white/70">{user.email}</span>
@@ -55,9 +55,9 @@ export function NavUser(): ReactElement {
             <DropdownMenuContent className="w-(--radix-dropdown-menu-trigger-width) min-w-56 rounded-lg" side="bottom" align="end" sideOffset={4}>
               <DropdownMenuLabel className="p-0 font-normal">
                 <div className="flex items-center gap-2 px-1 py-1.5 text-left text-sm">
-                  <Avatar className="h-8 w-8 rounded-lg">
-                    <AvatarFallback className="bg-brand-gold text-brand-ink rounded-lg text-xs font-bold">{user.name.charAt(0)}</AvatarFallback>
-                  </Avatar>
+                  <div className="border-border/50 flex aspect-square size-8 shrink-0 items-center justify-center overflow-hidden rounded-lg border shadow-xs">
+                    <ImageViewer src={null} alt={user.name} fallbackText={user.name} disabled className="size-full text-xs font-bold" />
+                  </div>
                   <div className="grid flex-1 text-left text-sm leading-tight">
                     <span className="truncate font-semibold">{user.name}</span>
                     <span className="text-muted-foreground truncate text-xs">{user.email}</span>

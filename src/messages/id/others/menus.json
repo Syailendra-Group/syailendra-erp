@@ -44,5 +44,9 @@
     "nameMin": "Nama lengkap menu minimal 3 karakter",
     "nameMax": "Nama lengkap menu maksimal 120 karakter",
     "companyRequired": "Wajib memilih entitas PT pemilik"
+  },
+  "Summary": {
+    "modulesCount": "Pilar",
+    "allocatedList": "Alokasi"
   }
 }

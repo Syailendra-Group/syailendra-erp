@@ -149,5 +149,18 @@
     "saved": "Data saved successfully",
     "copied": "Copied to clipboard",
     "copyFailed": "Failed to copy to clipboard"
+  },
+  "dropzone": {
+    "dragDropHelp": "Click or drag an image file here",
+    "imagesOnly": "PNG, JPG, or WebP format (Max {size}MB)",
+    "fileSizeError": "File size exceeds maximum limit of {max}MB",
+    "fileTypeError": "Unsupported file format",
+    "cropImage": "Adjust & Crop Image",
+    "cropDescription": "Pan, zoom, or rotate the image to fit the frame",
+    "cropSave": "Apply Crop",
+    "cropAction": "Crop",
+    "cropError": "Failed to crop image",
+    "removeFile": "Remove",
+    "cancel": "Cancel"
   }
 }

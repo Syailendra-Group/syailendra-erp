@@ -96,6 +96,7 @@
     "website_config": "Pengaturan Website"
   },
   "breadcrumbs": {
+    "api": "API",
     "home": "Beranda",
     "overview": "Overview",
     "main": "Utama",

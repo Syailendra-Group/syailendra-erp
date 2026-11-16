@@ -18,11 +18,16 @@ export default function NotFoundPage(): ReactElement {
       </div>
       <h1 className="font-heading text-2xl font-bold tracking-tight">404 — Page Not Found</h1>
       <p className="text-muted-foreground mt-2 max-w-md text-sm">
-        Halaman yang Anda cari tidak tersedia atau telah dipindahkan ke struktur modul terbaru.
+        Halaman yang Anda cari tidak tersedia atau sesi Anda belum aktif. Silakan masuk ke sistem terlebih dahulu.
       </p>
-      <Button asChild className="mt-6 font-semibold">
-        <Link href="/ftm">{tCommon('actions.back') || 'Back to Dashboard'}</Link>
-      </Button>
+      <div className="mt-6 flex items-center justify-center gap-3">
+        <Button asChild variant="outline" className="font-semibold">
+          <Link href="/login">Masuk ke Sistem (Login)</Link>
+        </Button>
+        <Button asChild className="font-semibold">
+          <Link href="/ftm">{tCommon('actions.back') || 'Kembali ke Dashboard'}</Link>
+        </Button>
+      </div>
     </div>
   )
 }

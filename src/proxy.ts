@@ -26,20 +26,29 @@ export function proxy(request: NextRequest): NextResponse {
 
   // Validate session authentication token for protected routes
   const sessionCookie = request.cookies.get('syailendra_session')?.value
-  const isLoginPage = pathname === '/login' || pathname === '/en/login'
-  const isPublicRoute = isLoginPage || pathname.includes('/trace') || pathname === '/' || pathname === '/en' || pathname === '/id'
+  const isLoginPage = pathname === '/login' || pathname === '/en/login' || pathname === '/id/login'
+  const isPublicRoute =
+    isLoginPage ||
+    pathname.includes('/trace') ||
+    pathname === '/' ||
+    pathname === '/en' ||
+    pathname === '/id' ||
+    pathname === '/api' ||
+    pathname.startsWith('/api/')
 
-  // If user is trying to access dashboard without session, redirect to /login
+  // If user is trying to access protected dashboard routes without session, redirect to /login
   if (!sessionCookie && !isPublicRoute) {
-    const loginUrl = new URL(pathname.startsWith('/en') ? '/en/login' : '/login', request.url)
+    const isEn = pathname.startsWith('/en')
+    const loginUrl = new URL(isEn ? '/en/login' : '/login', request.url)
     return applySecurityHeaders(NextResponse.redirect(loginUrl))
   }
 
   // If user is already authenticated and visits /login, redirect to active entity's default pillar route
   if (sessionCookie && isLoginPage) {
+    const isEn = pathname.startsWith('/en')
     const rawDefault = request.cookies.get('syailendra_default_route')?.value
     const defaultRoute = rawDefault ? decodeURIComponent(rawDefault) : '/ftm'
-    const targetPath = pathname.startsWith('/en') ? `/en${defaultRoute}` : defaultRoute
+    const targetPath = isEn ? `/en${defaultRoute}` : defaultRoute
     const dashboardUrl = new URL(targetPath, request.url)
     return applySecurityHeaders(NextResponse.redirect(dashboardUrl))
   }

@@ -96,6 +96,7 @@
     "website_config": "Website Settings"
   },
   "breadcrumbs": {
+    "api": "API",
     "home": "Home",
     "overview": "Overview",
     "main": "Main",

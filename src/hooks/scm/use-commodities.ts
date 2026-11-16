@@ -38,7 +38,7 @@ export function useCommodityOptions() {
   return useQuery({
     queryKey: commodityKeys.options(),
     queryFn: () => fetchCommodityOptionsAction(),
-    staleTime: 60_000
+    staleTime: 600_000
   })
 }
 

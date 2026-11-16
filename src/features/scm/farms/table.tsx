@@ -6,8 +6,7 @@ import { useTranslations } from 'next-intl'
 
 import { DataTable } from '@/components/data-table'
 import { useFarmContext } from '@/contexts/scm/farm.context'
-import { useCommodityOptions } from '@/hooks/scm/use-commodities'
-import { useFarms } from '@/hooks/scm/use-farms'
+import { useFarmsTableData } from '@/hooks/scm/use-farms'
 import { useDataTableUrlState } from '@/hooks/use-data-table-url-state'
 import { FARMING_SYSTEMS } from '@/schemas/scm/farm-schema'
 
@@ -49,7 +48,7 @@ export function FarmsTable(): ReactElement {
   const [sortField, sortDirection = 'asc'] = sort.split('.')
   const order = `${sortField === 'code' ? 'code' : 'name'} ${sortDirection === 'desc' ? 'desc' : 'asc'}`
 
-  const { data, isLoading, isFetching } = useFarms({
+  const { data, isLoading, isFetching } = useFarmsTableData({
     page,
     perPage,
     search,
@@ -58,7 +57,7 @@ export function FarmsTable(): ReactElement {
     order
   })
 
-  const { data: commodityOptions = [] } = useCommodityOptions()
+  const commodityOptions = useMemo(() => data?.commodityOptions ?? [], [data?.commodityOptions])
 
   const commodityNames = useMemo(() => {
     const map = new Map<number, string>()
@@ -66,8 +65,8 @@ export function FarmsTable(): ReactElement {
     return map
   }, [commodityOptions])
 
-  const records = data?.items ?? []
-  const totalCount = data?.total ?? 0
+  const records = data?.page.items ?? []
+  const totalCount = data?.page.total ?? 0
 
   const columns = useMemo(
     () => getFarmColumns({ t, commodityNames, onView: handleView, onDelete: handleDelete }),

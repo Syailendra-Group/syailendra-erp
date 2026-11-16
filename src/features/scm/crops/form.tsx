@@ -8,8 +8,8 @@ import { toast } from 'sonner'
 
 import { FormFieldWrapper } from '@/components/form/form-field-wrapper'
 import { SelectForm } from '@/components/form/select-form'
+import { SwitchField } from '@/components/form/switch-field'
 import { Input } from '@/components/ui/input'
-import { Switch } from '@/components/ui/switch'
 import { Textarea } from '@/components/ui/textarea'
 import { useCreateCrop, useUpdateCrop } from '@/hooks/scm/use-crops'
 import { CULTIVATION_STATUSES, getCropFormSchema, PLANT_PARTS } from '@/schemas/scm/crop-schema'
@@ -207,13 +207,14 @@ export function CropForm({ selectedCrop, isEdit, onSuccess, onPendingChange }: C
         />
       </FormFieldWrapper>
 
-      <div className="flex items-center justify-between rounded-md border p-3">
-        <div className="space-y-0.5">
-          <p className="text-xs font-medium">{t('form.fields.active')}</p>
-          <p className="text-muted-foreground text-[11px]">{t('form.fields.activeHint')}</p>
-        </div>
-        <Switch checked={active} onCheckedChange={(value) => setValue('active', value, { shouldDirty: true })} disabled={isPending} />
-      </div>
+      <SwitchField
+        variant="card"
+        label={t('form.fields.active')}
+        hint={t('form.fields.activeHint')}
+        checked={active}
+        onCheckedChange={(value) => setValue('active', value, { shouldDirty: true })}
+        disabled={isPending}
+      />
     </form>
   )
 }

@@ -3,8 +3,8 @@
 import { AlertCircle, CheckCircle2 } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 
+import { SwitchField } from '@/components/form/switch-field'
 import { Alert, AlertDescription, AlertTitle } from '@/components/ui/alert'
-import { Switch } from '@/components/ui/switch'
 import { cn } from '@/lib/utils'
 
 import type { ReactElement } from 'react'
@@ -91,21 +91,14 @@ export function ParentEntityAlert({
                 <p className="text-[11px] leading-relaxed">{tAlert('parentUnregisteredDesc', { parent: effectiveParentType, name: parentName })}</p>
               </div>
 
-              <div className="border-border/60 bg-background/80 flex items-center justify-between gap-3 rounded-md border p-2 shadow-2xs">
-                <div className="space-y-0.5">
-                  <span className="text-foreground block text-[11px] font-semibold">
-                    {tAlert('autoRegisterLabel', { parent: effectiveParentType })}
-                  </span>
-                  <span className="text-muted-foreground block text-[10px]">
-                    {autoAdd ? tAlert('autoRegisterHelpActive') : tAlert('autoRegisterHelpInactive')}
-                  </span>
-                </div>
-                <Switch
-                  checked={autoAdd}
-                  onCheckedChange={onAutoAddChange}
-                  aria-label={tAlert('autoRegisterLabel', { parent: effectiveParentType })}
-                />
-              </div>
+              <SwitchField
+                label={tAlert('autoRegisterLabel', { parent: effectiveParentType })}
+                hint={autoAdd ? tAlert('autoRegisterHelpActive') : tAlert('autoRegisterHelpInactive')}
+                checked={autoAdd}
+                onCheckedChange={onAutoAddChange}
+                ariaLabel={tAlert('autoRegisterLabel', { parent: effectiveParentType })}
+                className="border-border/60 bg-background/80 gap-3 rounded-md border p-2 shadow-2xs"
+              />
             </div>
           )}
         </div>

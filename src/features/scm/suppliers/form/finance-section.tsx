@@ -3,11 +3,11 @@
 import { useTranslations } from 'next-intl'
 import { UseFormReturn } from 'react-hook-form'
 
+import { SwitchField } from '@/components/form/switch-field'
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card'
 import { FormControl, FormField, FormItem, FormLabel, FormMessage } from '@/components/ui/form'
 import { Input } from '@/components/ui/input'
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select'
-import { Switch } from '@/components/ui/switch'
 
 import type { SupplierFormValues } from '@/types/scm/supplier'
 
@@ -113,20 +113,12 @@ export function FinanceSection({ form }: FinanceSectionProps) {
         </div>
 
         {/* Active Toggle Status */}
-        <FormField
-          control={form.control}
-          name="active"
-          render={({ field }) => (
-            <FormItem className="flex items-center justify-between rounded-lg border p-3">
-              <div className="space-y-0.5">
-                <FormLabel className="text-xs">{t('form.fields.active')}</FormLabel>
-                <p className="text-muted-foreground text-[11px]">{field.value ? t('table.status.active') : t('table.status.archived')}</p>
-              </div>
-              <FormControl>
-                <Switch checked={field.value} onCheckedChange={field.onChange} />
-              </FormControl>
-            </FormItem>
-          )}
+        <SwitchField
+          variant="card"
+          label={t('form.fields.active')}
+          hint={form.watch('active') ? t('table.status.active') : t('table.status.archived')}
+          checked={form.watch('active')}
+          onCheckedChange={(checked) => form.setValue('active', checked, { shouldDirty: true })}
         />
       </CardContent>
     </Card>

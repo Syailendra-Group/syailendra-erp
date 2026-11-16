@@ -7,8 +7,8 @@ import { Controller } from 'react-hook-form'
 import { SectionCard } from '@/components/card/section-card'
 import { FormFieldWrapper } from '@/components/form/form-field-wrapper'
 import { SelectForm } from '@/components/form/select-form'
+import { SwitchField } from '@/components/form/switch-field'
 import { Input } from '@/components/ui/input'
-import { Switch } from '@/components/ui/switch'
 import { FARMING_SYSTEMS } from '@/schemas/scm/farm-schema'
 
 import type { FarmFormValues } from '@/schemas/scm/farm-schema'
@@ -53,14 +53,12 @@ export function CultivationSection({ form, disabled }: CultivationSectionProps):
 
       <div className="grid grid-cols-1 gap-3.5 sm:grid-cols-2">
         <div className="space-y-3 rounded-md border p-3">
-          <div className="flex items-center justify-between gap-2">
-            <p className="text-xs font-medium">{t('form.fields.usesPesticide')}</p>
-            <Switch
-              checked={usesPesticide}
-              onCheckedChange={(value) => setValue('uses_pesticide', value, { shouldDirty: true })}
-              disabled={disabled}
-            />
-          </div>
+          <SwitchField
+            label={t('form.fields.usesPesticide')}
+            checked={usesPesticide}
+            onCheckedChange={(value) => setValue('uses_pesticide', value, { shouldDirty: true })}
+            disabled={disabled}
+          />
           {usesPesticide && (
             <FormFieldWrapper id="pesticide_types" label={t('form.fields.pesticideTypes')} error={errors.pesticide_types?.message}>
               <Input
@@ -74,14 +72,12 @@ export function CultivationSection({ form, disabled }: CultivationSectionProps):
         </div>
 
         <div className="space-y-3 rounded-md border p-3">
-          <div className="flex items-center justify-between gap-2">
-            <p className="text-xs font-medium">{t('form.fields.usesHerbicide')}</p>
-            <Switch
-              checked={usesHerbicide}
-              onCheckedChange={(value) => setValue('uses_herbicide', value, { shouldDirty: true })}
-              disabled={disabled}
-            />
-          </div>
+          <SwitchField
+            label={t('form.fields.usesHerbicide')}
+            checked={usesHerbicide}
+            onCheckedChange={(value) => setValue('uses_herbicide', value, { shouldDirty: true })}
+            disabled={disabled}
+          />
           {usesHerbicide && (
             <FormFieldWrapper id="herbicide_types" label={t('form.fields.herbicideTypes')} error={errors.herbicide_types?.message}>
               <Input

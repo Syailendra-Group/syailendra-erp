@@ -8,9 +8,8 @@ import { toast } from 'sonner'
 
 import { FormFieldWrapper } from '@/components/form/form-field-wrapper'
 import { SelectForm } from '@/components/form/select-form'
+import { SwitchField } from '@/components/form/switch-field'
 import { Input } from '@/components/ui/input'
-import { Label } from '@/components/ui/label'
-import { Switch } from '@/components/ui/switch'
 import { useCreateSupplierCategory, useSupplierCategoryOptions, useUpdateSupplierCategory } from '@/hooks/scm/use-supplier-categories'
 import { getSupplierCategoryFormSchema } from '@/schemas/scm/supplier-category-schema'
 
@@ -151,12 +150,14 @@ export function SupplierCategoryForm({ selectedCategory, isEdit, onSuccess, onPe
         />
       </FormFieldWrapper>
 
-      <div className="flex items-center justify-between rounded-lg border p-3 shadow-xs">
-        <div className="space-y-0.5">
-          <Label className="text-xs font-medium">{t('form.fields.active')}</Label>
-        </div>
-        <Switch checked={watch('active')} onCheckedChange={(checked) => setValue('active', checked)} disabled={isPending} />
-      </div>
+      <SwitchField
+        variant="card"
+        label={t('form.fields.active')}
+        checked={watch('active')}
+        onCheckedChange={(checked) => setValue('active', checked)}
+        disabled={isPending}
+        className="rounded-lg shadow-xs"
+      />
     </form>
   )
 }

@@ -7,8 +7,8 @@ import { Controller } from 'react-hook-form'
 import { SectionCard } from '@/components/card/section-card'
 import { FormFieldWrapper } from '@/components/form/form-field-wrapper'
 import { SelectForm } from '@/components/form/select-form'
+import { SwitchField } from '@/components/form/switch-field'
 import { Input } from '@/components/ui/input'
-import { Switch } from '@/components/ui/switch'
 
 import type { FarmFormValues } from '@/schemas/scm/farm-schema'
 import type { CropOption } from '@/types/scm/crop'
@@ -96,16 +96,15 @@ export function IdentitySection({ form, partnerOptions, cropOptions, disabled }:
         />
       </FormFieldWrapper>
 
-      <div className="flex items-center justify-between rounded-md border p-3">
-        <div className="flex items-center gap-2">
-          <Sprout className="text-primary size-4" />
-          <div className="space-y-0.5">
-            <p className="text-xs font-medium">{t('form.fields.active')}</p>
-            <p className="text-muted-foreground text-[11px]">{t('form.fields.activeHint')}</p>
-          </div>
-        </div>
-        <Switch checked={active} onCheckedChange={(value) => setValue('active', value, { shouldDirty: true })} disabled={disabled} />
-      </div>
+      <SwitchField
+        variant="card"
+        icon={Sprout}
+        label={t('form.fields.active')}
+        hint={t('form.fields.activeHint')}
+        checked={active}
+        onCheckedChange={(value) => setValue('active', value, { shouldDirty: true })}
+        disabled={disabled}
+      />
     </SectionCard>
   )
 }

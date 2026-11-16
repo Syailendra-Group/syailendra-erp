@@ -1,7 +1,7 @@
 'use client'
 
 import { create } from 'zustand'
-import { persist } from 'zustand/middleware'
+import { createJSONStorage, persist } from 'zustand/middleware'
 
 import type { ModuleTab } from './nav-store'
 
@@ -86,6 +86,21 @@ export const INITIAL_SYAILENDRA_ENTITIES: SyailendraEntity[] = [
 
 export const SYAILENDRA_ENTITIES = INITIAL_SYAILENDRA_ENTITIES
 
+/** Persisted shape excludes logoBase64: corporate logos are megabytes of base64 and blow the localStorage quota. */
+type PersistedEntity = Omit<SyailendraEntity, 'logoBase64'>
+
+function toPersistedEntity(entity: SyailendraEntity): PersistedEntity {
+  return {
+    id: entity.id,
+    code: entity.code,
+    name: entity.name,
+    roleKey: entity.roleKey,
+    odooCompanyId: entity.odooCompanyId,
+    pillars: entity.pillars,
+    defaultRoute: entity.defaultRoute
+  }
+}
+
 interface EntityState {
   activeEntityId: SyailendraEntityId
   entities: SyailendraEntity[]
@@ -96,6 +111,35 @@ interface EntityState {
   updateEntityIdentity: (odooCompanyId: number, payload: { name?: string; code?: string; logoBase64?: string | null }) => void
   syncEntitiesFromOdoo: (records: { id: number; name: string; short_name?: string; logo_web: string | null; enabled_pillars: ModuleTab[] }[]) => void
 }
+
+/**
+ * ponytail: quota-safe storage — a failed write degrades to in-memory only instead of throwing inside React.
+ * Upgrade path: serve logos from an object URL endpoint when backend hosting exists.
+ */
+const safeStorage = createJSONStorage(() => ({
+  getItem: (name: string): string | null => {
+    try {
+      return window.localStorage.getItem(name)
+    } catch {
+      /* private mode or storage disabled — fall back to defaults */
+      return null
+    }
+  },
+  setItem: (name: string, value: string): void => {
+    try {
+      window.localStorage.setItem(name, value)
+    } catch {
+      /* QuotaExceededError: state stays in memory, rendering never breaks */
+    }
+  },
+  removeItem: (name: string): void => {
+    try {
+      window.localStorage.removeItem(name)
+    } catch {
+      /* ignore */
+    }
+  }
+}))
 
 export const useEntityStore = create<EntityState>()(
   persist(
@@ -168,7 +212,20 @@ export const useEntityStore = create<EntityState>()(
     }),
     {
       name: 'syailendra-active-entity',
-      partialize: (state) => ({ activeEntityId: state.activeEntityId, entities: state.entities })
+      version: 2,
+      storage: safeStorage,
+      partialize: (state) => ({
+        activeEntityId: state.activeEntityId,
+        entities: state.entities.map(toPersistedEntity)
+      }),
+      migrate: (persisted) => {
+        const legacy = persisted as { activeEntityId?: SyailendraEntityId; entities?: SyailendraEntity[] } | undefined
+        const entities = legacy?.entities?.length ? legacy.entities : INITIAL_SYAILENDRA_ENTITIES
+        return {
+          activeEntityId: legacy?.activeEntityId ?? 'sg',
+          entities: entities.map(toPersistedEntity)
+        }
+      }
     }
   )
 )

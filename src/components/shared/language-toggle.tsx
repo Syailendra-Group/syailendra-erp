@@ -1,10 +1,13 @@
 'use client'
 
+import { useState } from 'react'
+import { Loader2 } from 'lucide-react'
 import { useLocale } from 'next-intl'
 
 import { Button } from '@/components/ui/button'
 import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuTrigger } from '@/components/ui/dropdown-menu'
-import { usePathname, useRouter } from '@/i18n/navigation'
+import { usePathname } from '@/i18n/navigation'
+import { routing } from '@/i18n/routing'
 import { cn } from '@/lib/utils'
 
 import type { ReactElement } from 'react'
@@ -93,11 +96,17 @@ export interface LanguageToggleProps {
 
 export function LanguageToggle({ className }: LanguageToggleProps): ReactElement {
   const locale = useLocale()
-  const router = useRouter()
   const pathname = usePathname()
+  const [isPending, setIsPending] = useState(false)
 
   const handleLanguageChange = (nextLocale: 'id' | 'en') => {
-    router.replace(pathname, { locale: nextLocale })
+    if (nextLocale === locale) return
+
+    setIsPending(true)
+    // ponytail: hard navigation because soft locale switch hangs when the target segment has loading.tsx (vercel/next.js#86151); drop once upstream fixed
+    document.cookie = `NEXT_LOCALE=${nextLocale};path=/;max-age=31536000;samesite=lax`
+    const target = nextLocale === routing.defaultLocale ? pathname : `/${nextLocale}${pathname === '/' ? '' : pathname}`
+    window.location.assign(target)
   }
 
   const isIndonesian = locale === 'id'
@@ -105,14 +114,21 @@ export function LanguageToggle({ className }: LanguageToggleProps): ReactElement
   return (
     <DropdownMenu>
       <DropdownMenuTrigger asChild>
-        <Button variant="outline" className={cn('cursor-pointer gap-2 text-xs font-semibold', className)}>
-          {isIndonesian ? <FlagId className="h-3.5 w-5 shrink-0" /> : <FlagUs className="h-3.5 w-5 shrink-0" />}
+        <Button variant="outline" disabled={isPending} aria-busy={isPending} className={cn('cursor-pointer gap-2 text-xs font-semibold', className)}>
+          {isPending ? (
+            <Loader2 className="size-3.5 shrink-0 animate-spin" />
+          ) : isIndonesian ? (
+            <FlagId className="h-3.5 w-5 shrink-0" />
+          ) : (
+            <FlagUs className="h-3.5 w-5 shrink-0" />
+          )}
           <span>{isIndonesian ? 'ID' : 'EN'}</span>
         </Button>
       </DropdownMenuTrigger>
 
       <DropdownMenuContent align="end">
         <DropdownMenuItem
+          disabled={isPending}
           onClick={() => handleLanguageChange('id')}
           className={`cursor-pointer gap-2.5 ${isIndonesian ? 'text-primary dark:text-primary font-bold' : ''}`}
         >
@@ -121,6 +137,7 @@ export function LanguageToggle({ className }: LanguageToggleProps): ReactElement
         </DropdownMenuItem>
 
         <DropdownMenuItem
+          disabled={isPending}
           onClick={() => handleLanguageChange('en')}
           className={`cursor-pointer gap-2.5 ${!isIndonesian ? 'text-primary dark:text-primary font-bold' : ''}`}
         >

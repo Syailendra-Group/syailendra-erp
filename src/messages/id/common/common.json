@@ -118,7 +118,27 @@
     "zipCode": "Kode Pos",
     "zipCodePlaceholder": "Contoh: 56354",
     "benchmark": "Alamat Tambahan / Patokan Lapangan",
-    "benchmarkPlaceholder": "Contoh: Sebelah utara posyandu, 500m dari gapura desa..."
+    "benchmarkPlaceholder": "Contoh: Sebelah utara posyandu, 500m dari gapura desa...",
+    "sections": {
+      "location": "Lokasi & Wilayah",
+      "locationDesc": "Alamat administratif dan titik koordinat lokasi."
+    },
+    "fields": {
+      "province": "Provinsi",
+      "provincePlaceholder": "Pilih provinsi...",
+      "regency": "Kabupaten / Kota",
+      "regencyPlaceholder": "Pilih kabupaten / kota...",
+      "district": "Kecamatan",
+      "districtPlaceholder": "Pilih kecamatan...",
+      "village": "Kelurahan / Desa",
+      "villagePlaceholder": "Pilih desa...",
+      "addressDetail": "Alamat Detail",
+      "addressDetailPlaceholder": "Nama jalan, RT/RW, nomor petak...",
+      "latitude": "Latitude (GPS)",
+      "latitudePlaceholder": "Contoh: -7.2145",
+      "longitude": "Longitude (GPS)",
+      "longitudePlaceholder": "Contoh: 109.9124"
+    }
   },
   "map": {
     "loading": "Memuat Peta Interaktif...",
@@ -129,7 +149,8 @@
     "copyCoords": "Salin Koordinat",
     "copied": "Koordinat berhasil disalin ke clipboard",
     "noCoords": "Koordinat GPS belum terdaftar",
-    "noCoordsDesc": "Perbarui data alamat untuk menyematkan titik koordinat lokasi pada peta."
+    "noCoordsDesc": "Perbarui data alamat untuk menyematkan titik koordinat lokasi pada peta.",
+    "title": "Peta Lokasi"
   },
   "select": {
     "loadingMore": "Memuat data selanjutnya...",

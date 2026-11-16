@@ -34,26 +34,12 @@
   "sections": {
     "identity": "Farm Identity",
     "identityDesc": "Block code, owner, and planted commodities",
-    "location": "Location & Region",
-    "locationDesc": "Administrative address and land coordinates",
     "terroir": "Terroir & Area",
     "terroirDesc": "Land area and elevation for the terroir profile",
     "cultivation": "Cultivation System",
     "cultivationDesc": "Farming practices, agricultural inputs, and water source",
     "sustainability": "Sustainability & Evidence",
     "sustainabilityDesc": "Land history for EUDR verification and farm photo"
-  },
-  "fields": {
-    "province": "Province",
-    "provincePlaceholder": "Select a province",
-    "regency": "Regency / City",
-    "regencyPlaceholder": "Select a regency / city",
-    "district": "District",
-    "districtPlaceholder": "Select a district",
-    "village": "Village",
-    "villagePlaceholder": "Select a village",
-    "addressDetail": "Detailed Land Address",
-    "addressDetailPlaceholder": "Street name, landmark, or block location description"
   },
   "form": {
     "createTitle": "Add Farm",

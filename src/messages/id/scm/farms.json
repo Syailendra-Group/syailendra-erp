@@ -34,26 +34,12 @@
   "sections": {
     "identity": "Identitas Kebun",
     "identityDesc": "Kode blok, pemilik, dan komoditas yang ditanam",
-    "location": "Lokasi & Wilayah",
-    "locationDesc": "Alamat administratif dan titik koordinat lahan",
     "terroir": "Terroir & Luas",
     "terroirDesc": "Luas lahan dan elevasi untuk profil terroir",
     "cultivation": "Sistem Budidaya",
     "cultivationDesc": "Praktik budidaya, input pertanian, dan sumber air",
     "sustainability": "Keberlanjutan & Bukti",
     "sustainabilityDesc": "Riwayat lahan untuk verifikasi EUDR dan foto kebun"
-  },
-  "fields": {
-    "province": "Provinsi",
-    "provincePlaceholder": "Pilih provinsi",
-    "regency": "Kabupaten / Kota",
-    "regencyPlaceholder": "Pilih kabupaten / kota",
-    "district": "Kecamatan",
-    "districtPlaceholder": "Pilih kecamatan",
-    "village": "Desa / Kelurahan",
-    "villagePlaceholder": "Pilih desa / kelurahan",
-    "addressDetail": "Alamat Detail Lahan",
-    "addressDetailPlaceholder": "Nama jalan, patokan, atau deskripsi lokasi blok kebun"
   },
   "form": {
     "createTitle": "Tambah Kebun",

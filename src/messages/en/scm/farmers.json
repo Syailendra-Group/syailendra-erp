@@ -25,10 +25,6 @@
     "streetPlaceholder": "e.g. Desa Igirmranak, Kejajar",
     "city": "Regency / District",
     "cityPlaceholder": "e.g. Wonosobo / Temanggung",
-    "latitude": "Latitude (GPS)",
-    "latitudePlaceholder": "e.g. -7.2145",
-    "longitude": "Longitude (GPS)",
-    "longitudePlaceholder": "e.g. 109.9124",
     "commodity": "Main Commodity",
     "commodityPlaceholder": "Select commodity",
     "farmingMethod": "Farming Method",
@@ -37,16 +33,6 @@
     "landAreaPlaceholder": "e.g. 5000",
     "comment": "Agronomist Notes",
     "commentPlaceholder": "Elevation, terroir characteristics, cultivation details...",
-    "province": "Province",
-    "provincePlaceholder": "Select province...",
-    "regency": "City / Regency",
-    "regencyPlaceholder": "Select regency...",
-    "district": "District",
-    "districtPlaceholder": "Select district...",
-    "village": "Village",
-    "villagePlaceholder": "Select village...",
-    "addressDetail": "Detailed Address / Plantation Block",
-    "addressDetailPlaceholder": "Street name, RT/RW, plot number...",
     "legacyCode": "Historical Code (Accurate)",
     "legacyCodePlaceholder": "e.g. ABD-DMK",
     "refGenerating": "Generating ID..."
@@ -98,8 +84,6 @@
   "sections": {
     "identity": "Identity & Partnership Info",
     "identityDesc": "SCM registration code, partner full name, national ID (NIK), and active contact.",
-    "location": "Domicile & Region",
-    "locationDesc": "Residential and plantation village location of the partner farmer.",
     "commodity": "Agricultural Commodity & Cultivation",
     "commodityDesc": "Aromatic crop species, farming methodology (organic/conventional), and land area.",
     "terroir": "Terroir & GPS Geotagging",
@@ -128,14 +112,6 @@
   },
   "actions": {
     "addCommodity": "+ Add New Commodity..."
-  },
-  "map": {
-    "title": "Plantation Coordinates Map",
-    "subtitle": "Click on map or drag pin to adjust coordinates",
-    "locateMe": "My Location",
-    "locating": "Searching GPS...",
-    "loading": "Loading Interactive Map...",
-    "openGmaps": "Open Plantation in Google Maps"
   },
   "validation": {
     "refMin": "Farmer ID must be at least {min} characters.",

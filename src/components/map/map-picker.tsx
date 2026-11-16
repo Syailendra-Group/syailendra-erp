@@ -31,7 +31,7 @@ const MapPickerInner = dynamic(() => import('./map-picker-inner'), {
 
 export function MapPicker(props: MapPickerProps): ReactElement {
   return (
-    <div className={cn('w-full', props.className)}>
+    <div className={cn('relative isolate z-0 w-full', props.className)}>
       <MapPickerInner {...props} />
     </div>
   )

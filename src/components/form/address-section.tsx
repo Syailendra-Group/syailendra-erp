@@ -24,7 +24,6 @@ import type { ReactElement } from 'react'
 const INDONESIA_CENTER: MapCoordinates = { latitude: -0.789275, longitude: 113.921327, zoom: 5 }
 
 export function AddressSection({
-  namespace = 'scm.farmers',
   disabled = false,
   required = false,
   values,
@@ -32,8 +31,8 @@ export function AddressSection({
   onCentroidPan,
   errors = {}
 }: AddressSectionProps): ReactElement {
-  const tTrace = useTranslations(namespace)
-  const tCommon = useTranslations('common')
+  const tAddress = useTranslations('common.address')
+  const tMap = useTranslations('common.map')
   const [activeCentroid, setActiveCentroid] = useState<MapCoordinates | undefined>(undefined)
 
   const {
@@ -136,14 +135,14 @@ export function AddressSection({
   }
 
   return (
-    <SectionCard title={tTrace('sections.location')} description={tTrace('sections.locationDesc')} icon={MapPin} contentClassName="space-y-4">
+    <SectionCard title={tAddress('sections.location')} description={tAddress('sections.locationDesc')} icon={MapPin} contentClassName="space-y-4">
       <div className="grid grid-cols-1 items-start gap-6 lg:grid-cols-2">
         {/* Left Column: Regional Inputs (Grid 2) & Detailed Addresses (Grid 1) */}
         <div className="flex flex-col gap-4">
           <div className="grid grid-cols-1 gap-3.5 sm:grid-cols-2">
-            <FormFieldWrapper id="country_id" label={tCommon('address.country')} required={required} error={errors.country_id?.message}>
+            <FormFieldWrapper id="country_id" label={tAddress('country')} required={required} error={errors.country_id?.message}>
               <SelectForm
-                placeholder={tCommon('address.countryPlaceholder')}
+                placeholder={tAddress('countryPlaceholder')}
                 disabled={disabled}
                 value={country_id ? String(country_id) : ''}
                 onValueChange={handleCountryChange}
@@ -151,9 +150,9 @@ export function AddressSection({
               />
             </FormFieldWrapper>
 
-            <FormFieldWrapper id="state_id" label={tTrace('fields.province')} required={required} error={errors.state_id?.message}>
+            <FormFieldWrapper id="state_id" label={tAddress('fields.province')} required={required} error={errors.state_id?.message}>
               <SelectForm
-                placeholder={tTrace('fields.provincePlaceholder')}
+                placeholder={tAddress('fields.provincePlaceholder')}
                 disabled={disabled || !country_id}
                 value={state_id ? String(state_id) : ''}
                 onValueChange={handleProvinceChange}
@@ -161,9 +160,9 @@ export function AddressSection({
               />
             </FormFieldWrapper>
 
-            <FormFieldWrapper id="city_id" label={tTrace('fields.regency')} required={required} error={errors.city_id?.message}>
+            <FormFieldWrapper id="city_id" label={tAddress('fields.regency')} required={required} error={errors.city_id?.message}>
               <SelectForm
-                placeholder={tTrace('fields.regencyPlaceholder')}
+                placeholder={tAddress('fields.regencyPlaceholder')}
                 disabled={disabled || !state_id}
                 value={city_id ? String(city_id) : ''}
                 onValueChange={handleRegencyChange}
@@ -171,9 +170,9 @@ export function AddressSection({
               />
             </FormFieldWrapper>
 
-            <FormFieldWrapper id="district_id" label={tTrace('fields.district')} required={required} error={errors.district_id?.message}>
+            <FormFieldWrapper id="district_id" label={tAddress('fields.district')} required={required} error={errors.district_id?.message}>
               <SelectForm
-                placeholder={tTrace('fields.districtPlaceholder')}
+                placeholder={tAddress('fields.districtPlaceholder')}
                 disabled={disabled || !city_id}
                 value={district_id ? String(district_id) : ''}
                 onValueChange={handleDistrictChange}
@@ -181,9 +180,9 @@ export function AddressSection({
               />
             </FormFieldWrapper>
 
-            <FormFieldWrapper id="subdistrict_id" label={tTrace('fields.village')} required={required} error={errors.subdistrict_id?.message}>
+            <FormFieldWrapper id="subdistrict_id" label={tAddress('fields.village')} required={required} error={errors.subdistrict_id?.message}>
               <SelectForm
-                placeholder={tTrace('fields.villagePlaceholder')}
+                placeholder={tAddress('fields.villagePlaceholder')}
                 disabled={disabled || !district_id}
                 value={subdistrict_id ? String(subdistrict_id) : ''}
                 onValueChange={handleVillageChange}
@@ -191,10 +190,10 @@ export function AddressSection({
               />
             </FormFieldWrapper>
 
-            <FormFieldWrapper id="zip_code" label={tCommon('address.zipCode')} required={required} error={errors.zip_code?.message}>
+            <FormFieldWrapper id="zip_code" label={tAddress('zipCode')} required={required} error={errors.zip_code?.message}>
               <Input
                 id="zip_code"
-                placeholder={tCommon('address.zipCodePlaceholder')}
+                placeholder={tAddress('zipCodePlaceholder')}
                 disabled={disabled}
                 value={zip_code}
                 onChange={(e) => onChange({ zip_code: e.target.value })}
@@ -203,22 +202,22 @@ export function AddressSection({
           </div>
 
           <div className="flex flex-col gap-3.5">
-            <FormFieldWrapper id="address_detail" label={tTrace('fields.addressDetail')} required={required} error={errors.address_detail?.message}>
+            <FormFieldWrapper id="address_detail" label={tAddress('fields.addressDetail')} required={required} error={errors.address_detail?.message}>
               <Textarea
                 id="address_detail"
                 rows={3}
-                placeholder={tTrace('fields.addressDetailPlaceholder')}
+                placeholder={tAddress('fields.addressDetailPlaceholder')}
                 disabled={disabled}
                 value={address_detail}
                 onChange={(e) => onChange({ address_detail: e.target.value })}
               />
             </FormFieldWrapper>
 
-            <FormFieldWrapper id="address_benchmark" label={tCommon('address.benchmark')} required={false} error={errors.address_benchmark?.message}>
+            <FormFieldWrapper id="address_benchmark" label={tAddress('benchmark')} required={false} error={errors.address_benchmark?.message}>
               <Textarea
                 id="address_benchmark"
                 rows={3}
-                placeholder={tCommon('address.benchmarkPlaceholder')}
+                placeholder={tAddress('benchmarkPlaceholder')}
                 disabled={disabled}
                 value={address_benchmark}
                 onChange={(e) => onChange({ address_benchmark: e.target.value })}
@@ -231,7 +230,7 @@ export function AddressSection({
         <div className="flex flex-col gap-3.5">
           <div className="space-y-1.5">
             <label className="text-foreground text-xs font-medium">
-              {tTrace('map.title')} ({tTrace('map.subtitle')})
+              {tMap('title')} ({tMap('subtitle')})
             </label>
             <MapPicker
               latitude={latitude}
@@ -240,31 +239,31 @@ export function AddressSection({
               onChange={({ latitude: lat, longitude: lng }) => onChange({ latitude: lat, longitude: lng })}
               disabled={disabled}
               className="h-100"
-              locateMeLabel={tTrace('map.locateMe')}
-              locatingLabel={tTrace('map.locating')}
-              loadingLabel={tTrace('map.loading')}
+              locateMeLabel={tMap('locateMe')}
+              locatingLabel={tMap('locating')}
+              loadingLabel={tMap('loading')}
             />
           </div>
 
           <div className="grid grid-cols-1 gap-3.5 sm:grid-cols-2">
-            <FormFieldWrapper id="partner_latitude" label={tTrace('fields.latitude')} required={required} error={errors.latitude?.message}>
+            <FormFieldWrapper id="partner_latitude" label={tAddress('fields.latitude')} required={required} error={errors.latitude?.message}>
               <Input
                 id="partner_latitude"
                 type="number"
                 step="0.000001"
-                placeholder={tTrace('fields.latitudePlaceholder')}
+                placeholder={tAddress('fields.latitudePlaceholder')}
                 disabled={disabled}
                 value={typeof latitude === 'number' ? latitude : ''}
                 onChange={(e) => onChange({ latitude: e.target.value ? Number(e.target.value) : undefined })}
               />
             </FormFieldWrapper>
 
-            <FormFieldWrapper id="partner_longitude" label={tTrace('fields.longitude')} required={required} error={errors.longitude?.message}>
+            <FormFieldWrapper id="partner_longitude" label={tAddress('fields.longitude')} required={required} error={errors.longitude?.message}>
               <Input
                 id="partner_longitude"
                 type="number"
                 step="0.000001"
-                placeholder={tTrace('fields.longitudePlaceholder')}
+                placeholder={tAddress('fields.longitudePlaceholder')}
                 disabled={disabled}
                 value={typeof longitude === 'number' ? longitude : ''}
                 onChange={(e) => onChange({ longitude: e.target.value ? Number(e.target.value) : undefined })}
@@ -280,7 +279,7 @@ export function AddressSection({
               className="text-primary hover:text-primary/80 inline-flex items-center gap-1.5 text-xs font-medium transition-colors"
             >
               <ExternalLink className="size-3.5" />
-              <span>{tTrace('map.openGmaps')}</span>
+              <span>{tMap('openGmaps')}</span>
             </a>
           ) : null}
         </div>

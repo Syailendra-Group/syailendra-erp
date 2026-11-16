@@ -25,10 +25,6 @@
     "streetPlaceholder": "Contoh: Desa Igirmranak, Kejajar",
     "city": "Kabupaten / Wilayah",
     "cityPlaceholder": "Contoh: Wonosobo / Temanggung",
-    "latitude": "Latitude (GPS)",
-    "latitudePlaceholder": "Contoh: -7.2145",
-    "longitude": "Longitude (GPS)",
-    "longitudePlaceholder": "Contoh: 109.9124",
     "commodity": "Komoditas Utama",
     "commodityPlaceholder": "Pilih komoditas",
     "farmingMethod": "Metode Budidaya",
@@ -37,16 +33,6 @@
     "landAreaPlaceholder": "Contoh: 5000",
     "comment": "Catatan Agronomist",
     "commentPlaceholder": "Ketinggian (mdpl), kontur kebun, catatan budidaya...",
-    "province": "Provinsi",
-    "provincePlaceholder": "Pilih provinsi...",
-    "regency": "Kabupaten / Kota",
-    "regencyPlaceholder": "Pilih kabupaten / kota...",
-    "district": "Kecamatan",
-    "districtPlaceholder": "Pilih kecamatan...",
-    "village": "Kelurahan / Desa",
-    "villagePlaceholder": "Pilih desa...",
-    "addressDetail": "Alamat Detail / Blok Kebun",
-    "addressDetailPlaceholder": "Nama jalan, RT/RW, nomor petak kebun...",
     "legacyCode": "Kode Historis (Accurate)",
     "legacyCodePlaceholder": "Contoh: ABD-DMK",
     "refGenerating": "Membuat ID otomatis..."
@@ -98,8 +84,6 @@
   "sections": {
     "identity": "Identitas & Informasi Kemitraan",
     "identityDesc": "Data nomor registrasi SCM, nama lengkap mitra, identitas kependudukan, dan kontak aktif.",
-    "location": "Domisili & Wilayah Binaan",
-    "locationDesc": "Lokasi tempat tinggal dan desa perkebunan binaan mitra petani.",
     "commodity": "Komoditas Pertanian & Budidaya",
     "commodityDesc": "Jenis tanaman atsiri, metode pertanian (organik/konvensional), dan estimasi luas lahan.",
     "terroir": "Terroir & Geotagging GPS",
@@ -128,14 +112,6 @@
   },
   "actions": {
     "addCommodity": "+ Tambah Komoditas Baru..."
-  },
-  "map": {
-    "title": "Peta Titik Kebun",
-    "subtitle": "Klik pada peta atau geser pin untuk menentukan koordinat presisi",
-    "locateMe": "Lokasi Saya",
-    "locating": "Mencari GPS...",
-    "loading": "Memuat Peta Interaktif...",
-    "openGmaps": "Buka Titik Kebun di Google Maps"
   },
   "validation": {
     "refMin": "Farmer ID minimal {min} karakter.",

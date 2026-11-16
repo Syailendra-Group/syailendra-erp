@@ -132,19 +132,22 @@ export function FarmForm({ initialData }: FarmFormProps): ReactElement {
         }
       />
 
-      <IdentitySection form={form} partnerOptions={partnerOptions} cropOptions={cropOptions} disabled={isPending} />
+      <div className="grid grid-cols-1 items-start gap-4 sm:gap-6 lg:grid-cols-2">
+        <IdentitySection form={form} partnerOptions={partnerOptions} cropOptions={cropOptions} disabled={isPending} />
+        <CultivationSection form={form} disabled={isPending} />
+      </div>
 
       <AddressSection
-        namespace="scm.farms"
         values={addressValues}
         onChange={handleAddressChange}
         errors={form.formState.errors as Record<string, { message?: string }>}
         disabled={isPending}
       />
 
-      <TerroirSection form={form} disabled={isPending} />
-      <CultivationSection form={form} disabled={isPending} />
-      <SustainabilitySection form={form} disabled={isPending} />
+      <div className="grid grid-cols-1 items-start gap-4 sm:gap-6 lg:grid-cols-2">
+        <TerroirSection form={form} disabled={isPending} />
+        <SustainabilitySection form={form} disabled={isPending} />
+      </div>
     </form>
   )
 }

@@ -118,7 +118,27 @@
     "zipCode": "Postal Code",
     "zipCodePlaceholder": "e.g. 56354",
     "benchmark": "Additional Address / Field Landmark",
-    "benchmarkPlaceholder": "e.g. North of health post, 500m from village gate..."
+    "benchmarkPlaceholder": "e.g. North of health post, 500m from village gate...",
+    "sections": {
+      "location": "Location & Region",
+      "locationDesc": "Administrative address and location coordinates."
+    },
+    "fields": {
+      "province": "Province",
+      "provincePlaceholder": "Select province...",
+      "regency": "City / Regency",
+      "regencyPlaceholder": "Select regency...",
+      "district": "District",
+      "districtPlaceholder": "Select district...",
+      "village": "Village",
+      "villagePlaceholder": "Select village...",
+      "addressDetail": "Detailed Address",
+      "addressDetailPlaceholder": "Street name, RT/RW, plot number...",
+      "latitude": "Latitude (GPS)",
+      "latitudePlaceholder": "e.g. -7.2145",
+      "longitude": "Longitude (GPS)",
+      "longitudePlaceholder": "e.g. 109.9124"
+    }
   },
   "map": {
     "loading": "Loading Interactive Map...",
@@ -129,7 +149,8 @@
     "copyCoords": "Copy Coordinates",
     "copied": "Coordinates copied to clipboard",
     "noCoords": "GPS Coordinates not registered",
-    "noCoordsDesc": "Update address details to pin location coordinates on the map."
+    "noCoordsDesc": "Update address details to pin location coordinates on the map.",
+    "title": "Location Map"
   },
   "select": {
     "loadingMore": "Loading more data...",

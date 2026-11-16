@@ -165,22 +165,19 @@ export class FarmService {
       domain.push(['active', '=', params.active])
     }
 
-    const [total, rows] = await Promise.all([
-      odooClient.searchCount(MODEL, domain, allowedCompanyIds),
-      odooClient.searchRead<RawFarm>(MODEL, domain, [...FARM_FIELDS], {
-        offset,
-        limit: perPage,
-        order: params.order || 'name asc',
-        allowedCompanyIds
-      })
-    ])
+    const { length, records } = await odooClient.webSearchRead<RawFarm>(MODEL, domain, [...FARM_FIELDS], {
+      offset,
+      limit: perPage,
+      order: params.order || 'name asc',
+      allowedCompanyIds
+    })
 
     return {
-      items: rows.map(mapFarm),
-      total,
+      items: records.map(mapFarm),
+      total: length,
       page,
       perPage,
-      totalPages: Math.ceil(total / perPage) || 1
+      totalPages: Math.ceil(length / perPage) || 1
     }
   }
 

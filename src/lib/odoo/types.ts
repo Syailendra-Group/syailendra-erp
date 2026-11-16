@@ -12,6 +12,11 @@ export interface OdooObjectValue {
 }
 export type OdooFieldValue = OdooPrimitive | OdooPrimitive[] | OdooObjectValue | OdooObjectValue[] | OdooM2MCommand[]
 export type OdooRpcArg = OdooPrimitive | OdooDomain | Record<string, OdooFieldValue> | number[] | string[] | OdooRpcArg[]
+export type OdooWebSpecification = Record<string, Record<string, OdooFieldValue>>
+export interface OdooWebSearchResult<T> {
+  length: number
+  records: T[]
+}
 
 export interface OdooConfig {
   baseUrl: string

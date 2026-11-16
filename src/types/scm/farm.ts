@@ -3,6 +3,8 @@
  * Syailendra Group ERP (SCM Pillar)
  */
 
+import type { CommodityOption } from './commodity'
+
 export type FarmingSystem = 'organic' | 'semi_organic' | 'conventional' | 'agroforestry'
 
 export interface FarmRecord {
@@ -62,4 +64,9 @@ export interface PaginatedFarmsResult {
   page: number
   perPage: number
   totalPages: number
+}
+
+export interface FarmsTableData {
+  page: PaginatedFarmsResult
+  commodityOptions: CommodityOption[]
 }

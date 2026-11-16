@@ -3,7 +3,16 @@
  * Syailendra Group ERP
  */
 
-import type { JsonRpcPayload, JsonRpcResponse, OdooConfig, OdooDomain, OdooFieldValue, OdooRpcArg } from './types'
+import type {
+  JsonRpcPayload,
+  JsonRpcResponse,
+  OdooConfig,
+  OdooDomain,
+  OdooFieldValue,
+  OdooRpcArg,
+  OdooWebSearchResult,
+  OdooWebSpecification
+} from './types'
 
 export class OdooClient {
   private config: OdooConfig
@@ -155,6 +164,28 @@ export class OdooClient {
       kwargs.context = ctx
     }
     return this.executeKw<T[]>(model, 'search_read', [domain], kwargs)
+  }
+
+  /**
+   * Universal 'web_search_read' wrapper: records + exact total in a single RPC
+   */
+  async webSearchRead<T>(
+    model: string,
+    domain: OdooDomain = [],
+    fields: string[] = [],
+    options: { offset?: number; limit?: number; order?: string; context?: Record<string, OdooFieldValue>; allowedCompanyIds?: number[] } = {}
+  ): Promise<OdooWebSearchResult<T>> {
+    const specs = fields.includes('id') ? fields : ['id', ...fields]
+    const specification: OdooWebSpecification = Object.fromEntries(specs.map((field) => [field, {}]))
+    const context: Record<string, OdooFieldValue> = { ...(options.context || {}), force_search_count: true }
+    const kwargs: Record<string, OdooFieldValue> = {
+      specification,
+      offset: options.offset || 0,
+      limit: options.limit || 80,
+      order: options.order || 'id desc',
+      context: this.buildContext(context, options.allowedCompanyIds) as Record<string, OdooFieldValue>
+    }
+    return this.executeKw<OdooWebSearchResult<T>>(model, 'web_search_read', [domain], kwargs)
   }
 
   /**

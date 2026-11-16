@@ -111,22 +111,19 @@ export class CommodityService {
       domain.push(['active', '=', params.active])
     }
 
-    const [total, rows] = await Promise.all([
-      odooClient.searchCount(MODEL, domain, allowedCompanyIds),
-      odooClient.searchRead<RawCommodity>(MODEL, domain, [...COMMODITY_FIELDS], {
-        offset,
-        limit: perPage,
-        order: params.order || 'name asc',
-        allowedCompanyIds
-      })
-    ])
+    const { length, records } = await odooClient.webSearchRead<RawCommodity>(MODEL, domain, [...COMMODITY_FIELDS], {
+      offset,
+      limit: perPage,
+      order: params.order || 'name asc',
+      allowedCompanyIds
+    })
 
     return {
-      items: rows.map(mapCommodity),
-      total,
+      items: records.map(mapCommodity),
+      total: length,
       page,
       perPage,
-      totalPages: Math.ceil(total / perPage) || 1
+      totalPages: Math.ceil(length / perPage) || 1
     }
   }
 

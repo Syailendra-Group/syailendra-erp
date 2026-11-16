@@ -9,31 +9,31 @@ import { ConfirmDialog } from '@/components/dialog/confirm-dialog'
 import { StatusBadge } from '@/components/shared/data-badge'
 import { DetailRow } from '@/components/shared/detail-row'
 import { Dialog, DialogContent, DialogDescription, DialogHeader, DialogTitle } from '@/components/ui/dialog'
-import { useCropContext } from '@/contexts/scm/crop.context'
-import { useDeleteCrop } from '@/hooks/scm/use-crops'
+import { useCommodityContext } from '@/contexts/scm/commodity.context'
+import { useDeleteCommodity } from '@/hooks/scm/use-commodities'
 
-import { CropForm } from './form'
+import { CommodityForm } from './form'
 
-export function CropDialogs() {
-  const t = useTranslations('scm.crops')
-  const { open, setOpen, selectedCrop, setSelectedCrop } = useCropContext()
-  const deleteMutation = useDeleteCrop()
+export function CommodityDialogs() {
+  const t = useTranslations('scm.commodities')
+  const { open, setOpen, selectedCommodity, setSelectedCommodity } = useCommodityContext()
+  const deleteMutation = useDeleteCommodity()
   const [isFormPending, setIsFormPending] = useState(false)
 
   const isFormOpen = open === 'create' || open === 'edit'
-  const isEdit = open === 'edit' && Boolean(selectedCrop)
-  const isViewOpen = open === 'view' && Boolean(selectedCrop)
-  const isDeleteOpen = open === 'delete' && Boolean(selectedCrop)
+  const isEdit = open === 'edit' && Boolean(selectedCommodity)
+  const isViewOpen = open === 'view' && Boolean(selectedCommodity)
+  const isDeleteOpen = open === 'delete' && Boolean(selectedCommodity)
 
   const handleDelete = async () => {
-    if (!selectedCrop) return
+    if (!selectedCommodity) return
 
-    const result = await deleteMutation.mutateAsync(selectedCrop.id)
+    const result = await deleteMutation.mutateAsync(selectedCommodity.id)
 
     if (result.success) {
       toast.success(t('toast.deleteSuccess'))
       setOpen(null)
-      setSelectedCrop(null)
+      setSelectedCommodity(null)
       return
     }
 
@@ -47,22 +47,22 @@ export function CropDialogs() {
         onOpenChange={(value) => {
           if (!value) {
             setOpen(null)
-            setSelectedCrop(null)
+            setSelectedCommodity(null)
           }
         }}
         title={isEdit ? t('form.editTitle') : t('form.createTitle')}
         description={t('form.description')}
-        formId="crop-form"
+        formId="commodity-form"
         isPending={isFormPending}
         isEdit={isEdit}
         maxWidth="sm:max-w-2xl"
       >
-        <CropForm
-          selectedCrop={selectedCrop}
+        <CommodityForm
+          selectedCommodity={selectedCommodity}
           isEdit={isEdit}
           onSuccess={() => {
             setOpen(null)
-            setSelectedCrop(null)
+            setSelectedCommodity(null)
           }}
           onPendingChange={setIsFormPending}
         />
@@ -73,7 +73,7 @@ export function CropDialogs() {
         onOpenChange={(value) => {
           if (!value) {
             setOpen(null)
-            setSelectedCrop(null)
+            setSelectedCommodity(null)
           }
         }}
       >
@@ -83,26 +83,26 @@ export function CropDialogs() {
             <DialogDescription className="text-xs">{t('dialog.viewDescription')}</DialogDescription>
           </DialogHeader>
 
-          {selectedCrop && (
+          {selectedCommodity && (
             <div className="space-y-1 rounded-md border p-3">
-              <DetailRow label={t('table.columns.code')} value={selectedCrop.code} mono />
-              <DetailRow label={t('table.columns.name')} value={selectedCrop.name} />
-              <DetailRow label={t('table.columns.latinName')} value={selectedCrop.latinName} />
-              <DetailRow label={t('table.columns.plantPart')} value={t(`plantParts.${selectedCrop.plantPart}`)} />
-              <DetailRow label={t('table.columns.cultivationStatus')} value={t(`cultivationStatuses.${selectedCrop.cultivationStatus}`)} />
-              <DetailRow label={t('table.columns.harvestSeason')} value={selectedCrop.harvestSeason || '—'} />
-              <DetailRow label={t('table.columns.harvestFrequency')} value={selectedCrop.harvestFrequency || '—'} />
+              <DetailRow label={t('table.columns.code')} value={selectedCommodity.code} mono />
+              <DetailRow label={t('table.columns.name')} value={selectedCommodity.name} />
+              <DetailRow label={t('table.columns.latinName')} value={selectedCommodity.latinName} />
+              <DetailRow label={t('table.columns.plantPart')} value={t(`plantParts.${selectedCommodity.plantPart}`)} />
+              <DetailRow label={t('table.columns.cultivationStatus')} value={t(`cultivationStatuses.${selectedCommodity.cultivationStatus}`)} />
+              <DetailRow label={t('table.columns.harvestSeason')} value={selectedCommodity.harvestSeason || '—'} />
+              <DetailRow label={t('table.columns.harvestFrequency')} value={selectedCommodity.harvestFrequency || '—'} />
               <DetailRow
                 label={t('form.fields.lifespanMonths')}
-                value={selectedCrop.lifespanMonths !== null ? String(selectedCrop.lifespanMonths) : '—'}
+                value={selectedCommodity.lifespanMonths !== null ? String(selectedCommodity.lifespanMonths) : '—'}
                 mono
               />
-              <DetailRow label={t('form.fields.description')} value={selectedCrop.description || '—'} border={false} />
+              <DetailRow label={t('form.fields.description')} value={selectedCommodity.description || '—'} border={false} />
               <DetailRow
                 label={t('table.columns.status')}
                 value={
-                  <StatusBadge variant={selectedCrop.active ? 'success' : 'neutral'}>
-                    {selectedCrop.active ? t('table.status.active') : t('table.status.inactive')}
+                  <StatusBadge variant={selectedCommodity.active ? 'success' : 'neutral'}>
+                    {selectedCommodity.active ? t('table.status.active') : t('table.status.inactive')}
                   </StatusBadge>
                 }
                 border={false}
@@ -117,7 +117,7 @@ export function CropDialogs() {
         onOpenChange={(value) => {
           if (!value) {
             setOpen(null)
-            setSelectedCrop(null)
+            setSelectedCommodity(null)
           }
         }}
         title={t('dialog.deleteTitle')}

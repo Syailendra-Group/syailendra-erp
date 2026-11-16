@@ -6,7 +6,7 @@ import { useTranslations } from 'next-intl'
 
 import { DataTable } from '@/components/data-table'
 import { useFarmContext } from '@/contexts/scm/farm.context'
-import { useCropOptions } from '@/hooks/scm/use-crops'
+import { useCommodityOptions } from '@/hooks/scm/use-commodities'
 import { useFarms } from '@/hooks/scm/use-farms'
 import { useDataTableUrlState } from '@/hooks/use-data-table-url-state'
 import { FARMING_SYSTEMS } from '@/schemas/scm/farm-schema'
@@ -58,20 +58,20 @@ export function FarmsTable(): ReactElement {
     order
   })
 
-  const { data: cropOptions = [] } = useCropOptions()
+  const { data: commodityOptions = [] } = useCommodityOptions()
 
-  const cropNames = useMemo(() => {
+  const commodityNames = useMemo(() => {
     const map = new Map<number, string>()
-    cropOptions.forEach((crop) => map.set(crop.id, crop.name))
+    commodityOptions.forEach((commodity) => map.set(commodity.id, commodity.name))
     return map
-  }, [cropOptions])
+  }, [commodityOptions])
 
   const records = data?.items ?? []
   const totalCount = data?.total ?? 0
 
   const columns = useMemo(
-    () => getFarmColumns({ t, cropNames, onView: handleView, onDelete: handleDelete }),
-    [t, cropNames, handleView, handleDelete]
+    () => getFarmColumns({ t, commodityNames, onView: handleView, onDelete: handleDelete }),
+    [t, commodityNames, handleView, handleDelete]
   )
 
   const filters = useMemo(

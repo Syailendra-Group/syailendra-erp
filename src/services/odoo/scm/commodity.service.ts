@@ -1,15 +1,22 @@
 /**
- * crop.service.ts — Odoo 18 RPC service for Crop / Commodity Master (syailendra.crop)
+ * commodity.service.ts — Odoo 18 RPC service for Commodity Master (syailendra.crop)
  * Syailendra Group ERP (SCM Pillar)
  */
 
 import { odooClient } from '@/lib/odoo/client'
 
 import type { OdooDomain, OdooFieldValue } from '@/lib/odoo/types'
-import type { CropFormValues } from '@/schemas/scm/crop-schema'
-import type { CropOption, CropRecord, CultivationStatus, FetchCropsParams, PaginatedCropsResult, PlantPart } from '@/types/scm/crop'
+import type { CommodityFormValues } from '@/schemas/scm/commodity-schema'
+import type {
+  CommodityOption,
+  CommodityRecord,
+  CultivationStatus,
+  FetchCommoditiesParams,
+  PaginatedCommoditiesResult,
+  PlantPart
+} from '@/types/scm/commodity'
 
-interface RawCrop {
+interface RawCommodity {
   id: number
   name: string
   latin_name: string | false
@@ -27,7 +34,7 @@ interface RawCrop {
 
 const MODEL = 'syailendra.crop'
 
-const CROP_FIELDS = [
+const COMMODITY_FIELDS = [
   'id',
   'name',
   'latin_name',
@@ -51,7 +58,7 @@ function toNumber(value: OdooFieldValue | undefined): number | null {
   return typeof value === 'number' ? value : null
 }
 
-function mapCrop(raw: RawCrop): CropRecord {
+function mapCommodity(raw: RawCommodity): CommodityRecord {
   return {
     id: raw.id,
     name: raw.name,
@@ -83,8 +90,8 @@ function normalizeWriteError(error: unknown): never {
   throw error instanceof Error ? error : new Error(message)
 }
 
-export class CropService {
-  static async getCrops(params: FetchCropsParams = {}, allowedCompanyIds?: number[]): Promise<PaginatedCropsResult> {
+export class CommodityService {
+  static async getCommodities(params: FetchCommoditiesParams = {}, allowedCompanyIds?: number[]): Promise<PaginatedCommoditiesResult> {
     const page = Math.max(1, params.page ?? 1)
     const perPage = Math.max(1, Math.min(100, params.perPage ?? 20))
     const offset = (page - 1) * perPage
@@ -106,7 +113,7 @@ export class CropService {
 
     const [total, rows] = await Promise.all([
       odooClient.searchCount(MODEL, domain, allowedCompanyIds),
-      odooClient.searchRead<RawCrop>(MODEL, domain, [...CROP_FIELDS], {
+      odooClient.searchRead<RawCommodity>(MODEL, domain, [...COMMODITY_FIELDS], {
         offset,
         limit: perPage,
         order: params.order || 'name asc',
@@ -115,7 +122,7 @@ export class CropService {
     ])
 
     return {
-      items: rows.map(mapCrop),
+      items: rows.map(mapCommodity),
       total,
       page,
       perPage,
@@ -123,16 +130,16 @@ export class CropService {
     }
   }
 
-  static async getCropById(id: number, allowedCompanyIds?: number[]): Promise<CropRecord | null> {
-    const rows = await odooClient.searchRead<RawCrop>(MODEL, [['id', '=', id]], [...CROP_FIELDS], {
+  static async getCommodityById(id: number, allowedCompanyIds?: number[]): Promise<CommodityRecord | null> {
+    const rows = await odooClient.searchRead<RawCommodity>(MODEL, [['id', '=', id]], [...COMMODITY_FIELDS], {
       limit: 1,
       allowedCompanyIds
     })
-    return rows.length > 0 ? mapCrop(rows[0]) : null
+    return rows.length > 0 ? mapCommodity(rows[0]) : null
   }
 
-  static async getCropOptions(allowedCompanyIds?: number[]): Promise<CropOption[]> {
-    const rows = await odooClient.searchRead<RawCrop>(MODEL, [['active', '=', true]], ['id', 'name', 'code', 'latin_name'], {
+  static async getCommodityOptions(allowedCompanyIds?: number[]): Promise<CommodityOption[]> {
+    const rows = await odooClient.searchRead<RawCommodity>(MODEL, [['active', '=', true]], ['id', 'name', 'code', 'latin_name'], {
       order: 'name asc',
       limit: 200,
       allowedCompanyIds
@@ -146,7 +153,7 @@ export class CropService {
     }))
   }
 
-  static async createCrop(data: CropFormValues, allowedCompanyIds?: number[]): Promise<number> {
+  static async createCommodity(data: CommodityFormValues, allowedCompanyIds?: number[]): Promise<number> {
     try {
       return await odooClient.create(
         MODEL,
@@ -169,7 +176,7 @@ export class CropService {
     }
   }
 
-  static async updateCrop(id: number, data: CropFormValues, allowedCompanyIds?: number[]): Promise<boolean> {
+  static async updateCommodity(id: number, data: CommodityFormValues, allowedCompanyIds?: number[]): Promise<boolean> {
     try {
       return await odooClient.write(
         MODEL,
@@ -193,7 +200,7 @@ export class CropService {
     }
   }
 
-  static async deleteCrop(id: number, allowedCompanyIds?: number[]): Promise<boolean> {
+  static async deleteCommodity(id: number, allowedCompanyIds?: number[]): Promise<boolean> {
     try {
       return await odooClient.unlink(MODEL, [id], allowedCompanyIds)
     } catch (error) {

@@ -10,7 +10,7 @@ import { toast } from 'sonner'
 import { LoadingButton } from '@/components/button/loading-button'
 import { AddressSection } from '@/components/form/address-section'
 import { PageHeader } from '@/components/shared/page-header'
-import { useCropOptions } from '@/hooks/scm/use-crops'
+import { useCommodityOptions } from '@/hooks/scm/use-commodities'
 import { useCreateFarm, useFarmPartnerOptions, useUpdateFarm } from '@/hooks/scm/use-farms'
 import { useRouter } from '@/i18n/navigation'
 import { getFarmFormSchema } from '@/schemas/scm/farm-schema'
@@ -35,7 +35,7 @@ export function FarmForm({ initialData }: FarmFormProps): ReactElement {
   const router = useRouter()
 
   const { data: partnerOptions = [] } = useFarmPartnerOptions()
-  const { data: cropOptions = [] } = useCropOptions()
+  const { data: commodityOptions = [] } = useCommodityOptions()
   const createMutation = useCreateFarm()
   const updateMutation = useUpdateFarm()
 
@@ -133,7 +133,7 @@ export function FarmForm({ initialData }: FarmFormProps): ReactElement {
       />
 
       <div className="grid grid-cols-1 items-start gap-4 sm:gap-6 lg:grid-cols-2">
-        <IdentitySection form={form} partnerOptions={partnerOptions} cropOptions={cropOptions} disabled={isPending} />
+        <IdentitySection form={form} partnerOptions={partnerOptions} commodityOptions={commodityOptions} disabled={isPending} />
         <CultivationSection form={form} disabled={isPending} />
       </div>
 

@@ -1,5 +1,5 @@
 /**
- * crop.ts — TypeScript definitions for Crop / Commodity Master (syailendra.crop)
+ * commodity.ts — TypeScript definitions for Commodity Master (syailendra.crop)
  * Syailendra Group ERP (SCM Pillar)
  */
 
@@ -7,7 +7,7 @@ export type PlantPart = 'leaves' | 'rhizome' | 'wood' | 'bark' | 'seeds' | 'flow
 
 export type CultivationStatus = 'cultivated' | 'wild'
 
-export interface CropRecord {
+export interface CommodityRecord {
   id: number
   name: string
   latinName: string
@@ -23,14 +23,14 @@ export interface CropRecord {
   updatedAt?: string
 }
 
-export interface CropOption {
+export interface CommodityOption {
   id: number
   name: string
   code: string
   latinName: string
 }
 
-export interface FetchCropsParams {
+export interface FetchCommoditiesParams {
   page?: number
   perPage?: number
   search?: string
@@ -40,8 +40,8 @@ export interface FetchCropsParams {
   order?: string
 }
 
-export interface PaginatedCropsResult {
-  items: CropRecord[]
+export interface PaginatedCommoditiesResult {
+  items: CommodityRecord[]
   total: number
   page: number
   perPage: number

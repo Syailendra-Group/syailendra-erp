@@ -29,7 +29,7 @@ import enRegionalCommon from '@/messages/en/others/regional-common.json'
 import enRoles from '@/messages/en/others/roles.json'
 import enVillages from '@/messages/en/others/villages.json'
 import enWebsite from '@/messages/en/others/website.json'
-import enScmCrops from '@/messages/en/scm/crops.json'
+import enScmCommodities from '@/messages/en/scm/commodities.json'
 import enScmDemo from '@/messages/en/scm/demo.json'
 import enTraceDistillers from '@/messages/en/scm/distillers.json'
 import enTraceFarmers from '@/messages/en/scm/farmers.json'
@@ -65,7 +65,7 @@ import idRegionalCommon from '@/messages/id/others/regional-common.json'
 import idRoles from '@/messages/id/others/roles.json'
 import idVillages from '@/messages/id/others/villages.json'
 import idWebsite from '@/messages/id/others/website.json'
-import idScmCrops from '@/messages/id/scm/crops.json'
+import idScmCommodities from '@/messages/id/scm/commodities.json'
 import idScmDemo from '@/messages/id/scm/demo.json'
 import idTraceDistillers from '@/messages/id/scm/distillers.json'
 import idTraceFarmers from '@/messages/id/scm/farmers.json'
@@ -94,7 +94,7 @@ const messagesMap = {
     ai: { overview: idAiOverview },
     imm: { overview: idImmOverview },
     scm: {
-      crops: idScmCrops,
+      commodities: idScmCommodities,
       farms: idScmFarms,
       overview: idTraceOverview,
       farmers: idTraceFarmers,
@@ -162,7 +162,7 @@ const messagesMap = {
     ai: { overview: enAiOverview },
     imm: { overview: enImmOverview },
     scm: {
-      crops: enScmCrops,
+      commodities: enScmCommodities,
       farms: enScmFarms,
       overview: enTraceOverview,
       farmers: enTraceFarmers,

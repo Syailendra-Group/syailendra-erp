@@ -11,12 +11,12 @@ import type { FarmRecord } from '@/types/scm/farm'
 
 export interface FarmColumnsProps {
   t: (key: string, values?: Record<string, string | number>) => string
-  cropNames: Map<number, string>
+  commodityNames: Map<number, string>
   onView: (item: FarmRecord) => void
   onDelete: (item: FarmRecord) => void
 }
 
-export function getFarmColumns({ t, cropNames, onView, onDelete }: FarmColumnsProps): ColumnDef<FarmRecord>[] {
+export function getFarmColumns({ t, commodityNames, onView, onDelete }: FarmColumnsProps): ColumnDef<FarmRecord>[] {
   return [
     {
       accessorKey: 'code',
@@ -37,9 +37,9 @@ export function getFarmColumns({ t, cropNames, onView, onDelete }: FarmColumnsPr
     },
     {
       accessorKey: 'cropIds',
-      header: () => <span className="text-xs">{t('table.columns.crops')}</span>,
+      header: () => <span className="text-xs">{t('table.columns.commodities')}</span>,
       cell: ({ row }) => {
-        const names = row.original.cropIds.map((id) => cropNames.get(id)).filter((name): name is string => Boolean(name))
+        const names = row.original.cropIds.map((id) => commodityNames.get(id)).filter((name): name is string => Boolean(name))
         if (names.length === 0) return <span className="text-muted-foreground text-xs">—</span>
         return (
           <div className="flex max-w-50 flex-wrap gap-1">

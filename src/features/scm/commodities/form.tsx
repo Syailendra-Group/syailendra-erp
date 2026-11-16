@@ -11,24 +11,24 @@ import { SelectForm } from '@/components/form/select-form'
 import { SwitchField } from '@/components/form/switch-field'
 import { Input } from '@/components/ui/input'
 import { Textarea } from '@/components/ui/textarea'
-import { useCreateCrop, useUpdateCrop } from '@/hooks/scm/use-crops'
-import { CULTIVATION_STATUSES, getCropFormSchema, PLANT_PARTS } from '@/schemas/scm/crop-schema'
+import { useCreateCommodity, useUpdateCommodity } from '@/hooks/scm/use-commodities'
+import { CULTIVATION_STATUSES, getCommodityFormSchema, PLANT_PARTS } from '@/schemas/scm/commodity-schema'
 
-import type { CropFormValues } from '@/schemas/scm/crop-schema'
-import type { CropRecord } from '@/types/scm/crop'
+import type { CommodityFormValues } from '@/schemas/scm/commodity-schema'
+import type { CommodityRecord } from '@/types/scm/commodity'
 import type { ReactElement } from 'react'
 
-export interface CropFormProps {
-  selectedCrop: CropRecord | null
+export interface CommodityFormProps {
+  selectedCommodity: CommodityRecord | null
   isEdit: boolean
   onSuccess: () => void
   onPendingChange?: (isPending: boolean) => void
 }
 
-export function CropForm({ selectedCrop, isEdit, onSuccess, onPendingChange }: CropFormProps): ReactElement {
-  const t = useTranslations('scm.crops')
-  const createMutation = useCreateCrop()
-  const updateMutation = useUpdateCrop()
+export function CommodityForm({ selectedCommodity, isEdit, onSuccess, onPendingChange }: CommodityFormProps): ReactElement {
+  const t = useTranslations('scm.commodities')
+  const createMutation = useCreateCommodity()
+  const updateMutation = useUpdateCommodity()
 
   const {
     register,
@@ -38,8 +38,8 @@ export function CropForm({ selectedCrop, isEdit, onSuccess, onPendingChange }: C
     watch,
     setValue,
     formState: { errors }
-  } = useForm<CropFormValues>({
-    resolver: zodResolver(getCropFormSchema(t)),
+  } = useForm<CommodityFormValues>({
+    resolver: zodResolver(getCommodityFormSchema(t)),
     defaultValues: {
       code: '',
       name: '',
@@ -62,25 +62,25 @@ export function CropForm({ selectedCrop, isEdit, onSuccess, onPendingChange }: C
   }, [isPending, onPendingChange])
 
   useEffect(() => {
-    if (isEdit && selectedCrop) {
+    if (isEdit && selectedCommodity) {
       reset({
-        code: selectedCrop.code,
-        name: selectedCrop.name,
-        latin_name: selectedCrop.latinName,
-        plant_part: selectedCrop.plantPart,
-        cultivation_status: selectedCrop.cultivationStatus,
-        lifespan_months: selectedCrop.lifespanMonths ?? undefined,
-        harvest_season: selectedCrop.harvestSeason,
-        harvest_frequency: selectedCrop.harvestFrequency,
-        description: selectedCrop.description,
-        active: selectedCrop.active
+        code: selectedCommodity.code,
+        name: selectedCommodity.name,
+        latin_name: selectedCommodity.latinName,
+        plant_part: selectedCommodity.plantPart,
+        cultivation_status: selectedCommodity.cultivationStatus,
+        lifespan_months: selectedCommodity.lifespanMonths ?? undefined,
+        harvest_season: selectedCommodity.harvestSeason,
+        harvest_frequency: selectedCommodity.harvestFrequency,
+        description: selectedCommodity.description,
+        active: selectedCommodity.active
       })
     }
-  }, [isEdit, selectedCrop, reset])
+  }, [isEdit, selectedCommodity, reset])
 
-  const onSubmit = async (values: CropFormValues) => {
+  const onSubmit = async (values: CommodityFormValues) => {
     const result =
-      isEdit && selectedCrop ? await updateMutation.mutateAsync({ id: selectedCrop.id, values }) : await createMutation.mutateAsync(values)
+      isEdit && selectedCommodity ? await updateMutation.mutateAsync({ id: selectedCommodity.id, values }) : await createMutation.mutateAsync(values)
 
     if (result.success) {
       toast.success(isEdit ? t('toast.updateSuccess') : t('toast.createSuccess'))
@@ -97,7 +97,7 @@ export function CropForm({ selectedCrop, isEdit, onSuccess, onPendingChange }: C
   }
 
   return (
-    <form id="crop-form" onSubmit={handleSubmit(onSubmit)} className="space-y-4">
+    <form id="commodity-form" onSubmit={handleSubmit(onSubmit)} className="space-y-4">
       <div className="grid grid-cols-1 gap-3.5 sm:grid-cols-2">
         <FormFieldWrapper id="code" label={t('form.fields.code')} required error={errors.code?.message}>
           <Input

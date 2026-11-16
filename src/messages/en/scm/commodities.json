@@ -1,6 +1,6 @@
 {
   "title": "Commodity Master",
-  "subtitle": "Essential oil crop register, distilled plant parts, and export commodity codes",
+  "subtitle": "Essential oil commodity register, distilled plant parts, and export commodity codes",
   "actions": {
     "create": "Add Commodity",
     "edit": "Edit Commodity",

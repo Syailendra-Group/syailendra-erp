@@ -8,20 +8,22 @@ import { StatusBadge } from '@/components/shared/data-badge'
 import { DetailRow } from '@/components/shared/detail-row'
 import { Dialog, DialogContent, DialogDescription, DialogHeader, DialogTitle } from '@/components/ui/dialog'
 import { useFarmContext } from '@/contexts/scm/farm.context'
-import { useCropOptions } from '@/hooks/scm/use-crops'
+import { useCommodityOptions } from '@/hooks/scm/use-commodities'
 import { useDeleteFarm } from '@/hooks/scm/use-farms'
 
 export function FarmDialogs() {
   const t = useTranslations('scm.farms')
   const { open, setOpen, selectedFarm, setSelectedFarm } = useFarmContext()
   const deleteMutation = useDeleteFarm()
-  const { data: cropOptions = [] } = useCropOptions()
+  const { data: commodityOptions = [] } = useCommodityOptions()
 
   const isViewOpen = open === 'view' && Boolean(selectedFarm)
   const isDeleteOpen = open === 'delete' && Boolean(selectedFarm)
 
-  const cropNames = selectedFarm
-    ? selectedFarm.cropIds.map((id) => cropOptions.find((crop) => crop.id === id)?.name).filter((name): name is string => Boolean(name))
+  const commodityNames = selectedFarm
+    ? selectedFarm.cropIds
+        .map((id) => commodityOptions.find((commodity) => commodity.id === id)?.name)
+        .filter((name): name is string => Boolean(name))
     : []
 
   const handleDelete = async () => {
@@ -61,7 +63,7 @@ export function FarmDialogs() {
               <DetailRow label={t('table.columns.code')} value={selectedFarm.code} mono />
               <DetailRow label={t('table.columns.name')} value={selectedFarm.name} />
               <DetailRow label={t('form.fields.partner')} value={selectedFarm.partnerName || '—'} />
-              <DetailRow label={t('table.columns.crops')} value={cropNames.length > 0 ? cropNames.join(', ') : '—'} />
+              <DetailRow label={t('table.columns.commodities')} value={commodityNames.length > 0 ? commodityNames.join(', ') : '—'} />
               <DetailRow label={t('form.fields.farmingSystem')} value={t(`farmingSystems.${selectedFarm.farmingSystem}`)} />
               <DetailRow
                 label={t('table.columns.region')}

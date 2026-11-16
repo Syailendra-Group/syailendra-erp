@@ -11,13 +11,13 @@
     "columns": {
       "code": "Code",
       "name": "Block Name",
-      "crops": "Commodities",
       "region": "Region",
       "areaHa": "Area",
       "farmingSystem": "Farming",
       "geolocation": "Geolocation",
       "status": "Status",
-      "actions": "Actions"
+      "actions": "Actions",
+      "commodities": "Commodities"
     },
     "status": {
       "active": "Active",
@@ -55,8 +55,6 @@
       "namePlaceholder": "e.g. North Slope Block",
       "partner": "Owner / Grower",
       "partnerPlaceholder": "Select a farmer or supplier",
-      "crops": "Planted Commodities",
-      "cropsPlaceholder": "Select one or more commodities",
       "farmingSystem": "Farming System",
       "farmingSystemPlaceholder": "Select the farming system",
       "usesPesticide": "Uses Pesticide",
@@ -77,7 +75,9 @@
       "landHistoryPlaceholder": "Land use history for deforestation-free verification",
       "photoFarm": "Farm Photo",
       "active": "Active Status",
-      "activeHint": "Inactive farms are hidden from harvest session options."
+      "activeHint": "Inactive farms are hidden from harvest session options.",
+      "commodities": "Planted Commodities",
+      "commoditiesPlaceholder": "Select one or more commodities"
     }
   },
   "detail": {
@@ -105,7 +105,6 @@
     "codeMax": "Farm code must be at most {max} characters.",
     "codeFormat": "Farm code may only contain letters, numbers, and dashes.",
     "partnerRequired": "Select the farm owner.",
-    "cropsRequired": "Select at least one commodity.",
     "addressDetailMax": "Land address must be at most {max} characters.",
     "latitudeRange": "Latitude must be between -90 and 90.",
     "longitudeRange": "Longitude must be between -180 and 180.",
@@ -115,6 +114,7 @@
     "areaMax": "Farm area is unrealistically large.",
     "farmingSystemRequired": "Select the farming system.",
     "textMax": "Must be at most {max} characters.",
-    "landHistoryMax": "Land history must be at most {max} characters."
+    "landHistoryMax": "Land history must be at most {max} characters.",
+    "commoditiesRequired": "Select at least one commodity."
   }
 }

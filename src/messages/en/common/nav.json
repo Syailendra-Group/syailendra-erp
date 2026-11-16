@@ -75,7 +75,7 @@
     "districts": "Districts",
     "villages": "Villages",
     "materials": "Material Catalog",
-    "crops": "Commodity Master",
+    "commodities": "Commodity Master",
     "supplierCategories": "Supplier Categories",
     "suppliers": "Supplier Directory",
     "ftm_financials": "Consolidated Financials",
@@ -170,7 +170,16 @@
     "rehabilitation": "Rehabilitation",
     "sdgs": "SDGs",
     "menus": "Menu Allocation",
-    "website": "Website Settings"
+    "website": "Website Settings",
+    "commodities": "Commodity Master",
+    "farms": "Farms & Terroir",
+    "supplier-categories": "Supplier Categories",
+    "inventory": "Inventory",
+    "partners": "Partners & Customers",
+    "contacts": "Contacts",
+    "hr": "HRM",
+    "login": "Sign In",
+    "trace": "Traceability"
   },
   "user": {
     "profile": "Profile Account",

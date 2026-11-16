@@ -5,21 +5,21 @@ import { getCoreRowModel, useReactTable } from '@tanstack/react-table'
 import { useTranslations } from 'next-intl'
 
 import { DataTable } from '@/components/data-table'
-import { useCropContext } from '@/contexts/scm/crop.context'
-import { useCrops } from '@/hooks/scm/use-crops'
+import { useCommodityContext } from '@/contexts/scm/commodity.context'
+import { useCommodities } from '@/hooks/scm/use-commodities'
 import { useDataTableUrlState } from '@/hooks/use-data-table-url-state'
-import { CULTIVATION_STATUSES, PLANT_PARTS } from '@/schemas/scm/crop-schema'
+import { CULTIVATION_STATUSES, PLANT_PARTS } from '@/schemas/scm/commodity-schema'
 
-import { getCropColumns } from './columns'
+import { getCommodityColumns } from './columns'
 
 import type { ReactElement } from 'react'
 
 const FILTER_KEYS = ['plant_part', 'cultivation_status', 'status']
 
-export function CropsTable(): ReactElement {
-  const t = useTranslations('scm.crops')
+export function CommoditiesTable(): ReactElement {
+  const t = useTranslations('scm.commodities')
 
-  const { handleView, handleEdit, handleDelete } = useCropContext()
+  const { handleView, handleEdit, handleDelete } = useCommodityContext()
 
   const {
     page,
@@ -49,7 +49,7 @@ export function CropsTable(): ReactElement {
   const [sortField, sortDirection = 'asc'] = sort.split('.')
   const order = `${sortField === 'code' ? 'code' : 'name'} ${sortDirection === 'desc' ? 'desc' : 'asc'}`
 
-  const { data, isLoading, isFetching } = useCrops({
+  const { data, isLoading, isFetching } = useCommodities({
     page,
     perPage,
     search,
@@ -63,7 +63,7 @@ export function CropsTable(): ReactElement {
   const totalCount = data?.total ?? 0
 
   const columns = useMemo(
-    () => getCropColumns({ t, onView: handleView, onEdit: handleEdit, onDelete: handleDelete }),
+    () => getCommodityColumns({ t, onView: handleView, onEdit: handleEdit, onDelete: handleDelete }),
     [t, handleView, handleEdit, handleDelete]
   )
 

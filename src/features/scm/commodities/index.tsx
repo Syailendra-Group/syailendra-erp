@@ -6,16 +6,16 @@ import { useTranslations } from 'next-intl'
 import { PrimaryAction } from '@/components/button/primary-action'
 import { SectionCard } from '@/components/card/section-card'
 import { PageHeader } from '@/components/shared/page-header'
-import { CropProvider, useCropContext } from '@/contexts/scm/crop.context'
+import { CommodityProvider, useCommodityContext } from '@/contexts/scm/commodity.context'
 
-import { CropDialogs } from './dialogs'
-import { CropsTable } from './table'
+import { CommodityDialogs } from './dialogs'
+import { CommoditiesTable } from './table'
 
 import type { ReactElement } from 'react'
 
-function CropContent(): ReactElement {
-  const t = useTranslations('scm.crops')
-  const { handleCreate } = useCropContext()
+function CommodityContent(): ReactElement {
+  const t = useTranslations('scm.commodities')
+  const { handleCreate } = useCommodityContext()
 
   return (
     <div className="space-y-4 sm:space-y-6">
@@ -27,18 +27,18 @@ function CropContent(): ReactElement {
       />
 
       <SectionCard>
-        <CropsTable />
+        <CommoditiesTable />
       </SectionCard>
 
-      <CropDialogs />
+      <CommodityDialogs />
     </div>
   )
 }
 
-export function CropsFeature(): ReactElement {
+export function CommoditiesFeature(): ReactElement {
   return (
-    <CropProvider>
-      <CropContent />
-    </CropProvider>
+    <CommodityProvider>
+      <CommodityContent />
+    </CommodityProvider>
   )
 }

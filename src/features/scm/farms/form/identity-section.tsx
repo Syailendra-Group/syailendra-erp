@@ -11,7 +11,7 @@ import { SwitchField } from '@/components/form/switch-field'
 import { Input } from '@/components/ui/input'
 
 import type { FarmFormValues } from '@/schemas/scm/farm-schema'
-import type { CropOption } from '@/types/scm/crop'
+import type { CommodityOption } from '@/types/scm/commodity'
 import type { FarmPartnerOption } from '@/types/scm/farm'
 import type { ReactElement } from 'react'
 import type { UseFormReturn } from 'react-hook-form'
@@ -19,11 +19,11 @@ import type { UseFormReturn } from 'react-hook-form'
 export interface IdentitySectionProps {
   form: UseFormReturn<FarmFormValues>
   partnerOptions: FarmPartnerOption[]
-  cropOptions: CropOption[]
+  commodityOptions: CommodityOption[]
   disabled: boolean
 }
 
-export function IdentitySection({ form, partnerOptions, cropOptions, disabled }: IdentitySectionProps): ReactElement {
+export function IdentitySection({ form, partnerOptions, commodityOptions, disabled }: IdentitySectionProps): ReactElement {
   const t = useTranslations('scm.farms')
   const {
     control,
@@ -74,7 +74,7 @@ export function IdentitySection({ form, partnerOptions, cropOptions, disabled }:
         />
       </FormFieldWrapper>
 
-      <FormFieldWrapper id="crop_ids" label={t('form.fields.crops')} required error={errors.crop_ids?.message}>
+      <FormFieldWrapper id="crop_ids" label={t('form.fields.commodities')} required error={errors.crop_ids?.message}>
         <Controller
           control={control}
           name="crop_ids"
@@ -82,14 +82,14 @@ export function IdentitySection({ form, partnerOptions, cropOptions, disabled }:
             <SelectForm
               multiple
               addNewAction={false}
-              placeholder={t('form.fields.cropsPlaceholder')}
+              placeholder={t('form.fields.commoditiesPlaceholder')}
               disabled={disabled}
               value={(field.value || []).map(String)}
               onValueChange={(values) => field.onChange(values.map(Number))}
-              items={cropOptions.map((crop) => ({
-                label: crop.name,
-                value: String(crop.id),
-                description: crop.latinName
+              items={commodityOptions.map((commodity) => ({
+                label: commodity.name,
+                value: String(commodity.id),
+                description: commodity.latinName
               }))}
             />
           )}

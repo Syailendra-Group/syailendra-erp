@@ -75,7 +75,7 @@
     "districts": "Kecamatan",
     "villages": "Kelurahan / Desa",
     "materials": "Katalog Material",
-    "crops": "Master Komoditas",
+    "commodities": "Master Komoditas",
     "supplierCategories": "Kategori Supplier",
     "suppliers": "Daftar Supplier",
     "ftm_financials": "Laporan Keuangan Konsolidasi",
@@ -170,7 +170,16 @@
     "rehabilitation": "Rehabilitasi",
     "sdgs": "SDGs",
     "menus": "Alokasi Pilar & Menu",
-    "website": "Pengaturan Website"
+    "website": "Pengaturan Website",
+    "commodities": "Master Komoditas",
+    "farms": "Kebun & Terroir",
+    "supplier-categories": "Kategori Supplier",
+    "inventory": "Inventaris",
+    "partners": "Mitra & Pelanggan",
+    "contacts": "Kontak",
+    "hr": "HRM",
+    "login": "Masuk",
+    "trace": "Ketelusuran"
   },
   "user": {
     "profile": "Profil Akun",

@@ -29,7 +29,7 @@ export function getFarmFormSchema(t?: SchemaTranslator) {
       .int()
       .positive({ message: msg('validation.partnerRequired', 'Select the farm owner') }),
     crop_ids: z.array(z.number().int().positive(), {
-      message: msg('validation.cropsRequired', 'Select at least one commodity')
+      message: msg('validation.commoditiesRequired', 'Select at least one commodity')
     }),
     country_id: z.number().int().positive().optional(),
     state_id: z.number().int().positive().optional(),

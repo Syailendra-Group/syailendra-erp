@@ -1,5 +1,5 @@
 /**
- * crop-schema.ts — Zod validation schema for Crop / Commodity Master
+ * commodity-schema.ts — Zod validation schema for Commodity Master
  * Syailendra Group ERP (SCM Pillar)
  */
 
@@ -12,7 +12,7 @@ import type { SchemaTranslator } from '@/utils/schema-helper'
 export const PLANT_PARTS = ['leaves', 'rhizome', 'wood', 'bark', 'seeds', 'flowers', 'fruit', 'roots'] as const
 export const CULTIVATION_STATUSES = ['cultivated', 'wild'] as const
 
-export function getCropFormSchema(t?: SchemaTranslator) {
+export function getCommodityFormSchema(t?: SchemaTranslator) {
   const msg = createSchemaMessageResolver(t)
 
   return z.object({
@@ -53,6 +53,6 @@ export function getCropFormSchema(t?: SchemaTranslator) {
   })
 }
 
-export const cropFormSchema = getCropFormSchema()
+export const commodityFormSchema = getCommodityFormSchema()
 
-export type CropFormValues = z.infer<typeof cropFormSchema>
+export type CommodityFormValues = z.infer<typeof commodityFormSchema>

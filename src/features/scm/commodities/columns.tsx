@@ -7,16 +7,16 @@ import { ActionButton } from '@/components/button/action-button'
 import { DataTableColumnHeader } from '@/components/data-table/column-header'
 import { StatusBadge } from '@/components/shared/data-badge'
 
-import type { CropRecord } from '@/types/scm/crop'
+import type { CommodityRecord } from '@/types/scm/commodity'
 
-export interface CropColumnsProps {
+export interface CommodityColumnsProps {
   t: (key: string, values?: Record<string, string | number>) => string
-  onView: (item: CropRecord) => void
-  onEdit: (item: CropRecord) => void
-  onDelete: (item: CropRecord) => void
+  onView: (item: CommodityRecord) => void
+  onEdit: (item: CommodityRecord) => void
+  onDelete: (item: CommodityRecord) => void
 }
 
-export function getCropColumns({ t, onView, onEdit, onDelete }: CropColumnsProps): ColumnDef<CropRecord>[] {
+export function getCommodityColumns({ t, onView, onEdit, onDelete }: CommodityColumnsProps): ColumnDef<CommodityRecord>[] {
   return [
     {
       accessorKey: 'code',

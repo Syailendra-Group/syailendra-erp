@@ -20,6 +20,7 @@ export interface AddressFormState {
 }
 
 export interface AddressSectionProps {
+  namespace?: string
   disabled?: boolean
   required?: boolean
   className?: string

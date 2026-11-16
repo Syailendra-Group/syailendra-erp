@@ -24,6 +24,7 @@ import type { ReactElement } from 'react'
 const INDONESIA_CENTER: MapCoordinates = { latitude: -0.789275, longitude: 113.921327, zoom: 5 }
 
 export function AddressSection({
+  namespace = 'scm.farmers',
   disabled = false,
   required = false,
   values,
@@ -31,7 +32,7 @@ export function AddressSection({
   onCentroidPan,
   errors = {}
 }: AddressSectionProps): ReactElement {
-  const tTrace = useTranslations('scm.farmers')
+  const tTrace = useTranslations(namespace)
   const tCommon = useTranslations('common')
   const [activeCentroid, setActiveCentroid] = useState<MapCoordinates | undefined>(undefined)
 

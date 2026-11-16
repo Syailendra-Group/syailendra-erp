@@ -2,6 +2,7 @@
 
 import { revalidatePath } from 'next/cache'
 
+import { requireSession } from '@/lib/auth/guard'
 import { departmentFormSchema } from '@/schemas/hrm/department-schema'
 import { fetchDepartments, fetchDepartmentsPaginated, persistDepartment, updateDepartmentActiveState } from '@/services/odoo/hrm/department.service'
 
@@ -12,6 +13,7 @@ import type { DepartmentRecord } from '@/types/hrm/department'
 export type { DepartmentRecord }
 
 export async function getDepartmentsAction(): Promise<{ departments: DepartmentRecord[]; error?: string }> {
+  await requireSession()
   try {
     const departments = await fetchDepartments()
     return { departments }
@@ -21,6 +23,7 @@ export async function getDepartmentsAction(): Promise<{ departments: DepartmentR
 }
 
 export async function getDepartmentsPaginatedAction(params: FetchDepartmentsPaginatedParams = {}): Promise<FetchDepartmentsPaginatedResult> {
+  await requireSession()
   try {
     return await fetchDepartmentsPaginated(params)
   } catch {
@@ -29,6 +32,7 @@ export async function getDepartmentsPaginatedAction(params: FetchDepartmentsPagi
 }
 
 export async function saveDepartmentAction(rawValues: DepartmentFormValues): Promise<{ success: boolean; error?: string }> {
+  await requireSession()
   try {
     const validated = departmentFormSchema.parse(rawValues)
     await persistDepartment(validated)
@@ -40,6 +44,7 @@ export async function saveDepartmentAction(rawValues: DepartmentFormValues): Pro
 }
 
 export async function toggleDepartmentStatusAction(id: number, active: boolean): Promise<{ success: boolean; error?: string }> {
+  await requireSession()
   try {
     await updateDepartmentActiveState(id, active)
     revalidatePath('/admin/departments')

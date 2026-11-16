@@ -2,11 +2,13 @@
 
 import { revalidatePath } from 'next/cache'
 
+import { requireSession } from '@/lib/auth/guard'
 import { fetchAllPillars, reassignPillarCompany, updatePillar } from '@/services/odoo/others/menu.service'
 
 import type { PillarRecord, UpdatePillarPayload } from '@/types/others/menu'
 
 export async function getPillarsAction(): Promise<{ pillars: PillarRecord[] }> {
+  await requireSession()
   try {
     const pillars = await fetchAllPillars()
     return { pillars }
@@ -17,6 +19,7 @@ export async function getPillarsAction(): Promise<{ pillars: PillarRecord[] }> {
 }
 
 export async function savePillarAction(payload: UpdatePillarPayload): Promise<{ success: boolean; error?: string }> {
+  await requireSession()
   try {
     await updatePillar(payload)
     revalidatePath('/others/menus')
@@ -33,6 +36,7 @@ export async function savePillarAction(payload: UpdatePillarPayload): Promise<{ 
 }
 
 export async function reassignPillarAction(pillarId: number, companyId: number): Promise<{ success: boolean; error?: string }> {
+  await requireSession()
   try {
     await reassignPillarCompany(pillarId, companyId)
     revalidatePath('/others/menus')

@@ -2,11 +2,13 @@
 
 import { revalidatePath } from 'next/cache'
 
+import { requireSession } from '@/lib/auth/guard'
 import { batchUpdateEntityPillars, fetchAllCompanies, fetchCompanyById, updateCompanyProfile } from '@/services/odoo/others/company.service'
 
 import type { CompanyRecord, PillarAllocationEntry, UpdateCompanyPayload } from '@/types/others/company'
 
 export async function getCompaniesAction(): Promise<{ companies: CompanyRecord[] }> {
+  await requireSession()
   try {
     const companies = await fetchAllCompanies()
     return { companies }
@@ -17,6 +19,7 @@ export async function getCompaniesAction(): Promise<{ companies: CompanyRecord[]
 }
 
 export async function getCompanyByIdAction(id: number): Promise<CompanyRecord | null> {
+  await requireSession()
   try {
     return await fetchCompanyById(id)
   } catch (error) {
@@ -26,6 +29,7 @@ export async function getCompanyByIdAction(id: number): Promise<CompanyRecord | 
 }
 
 export async function saveCompanyAction(payload: UpdateCompanyPayload): Promise<{ success: boolean; error?: string }> {
+  await requireSession()
   try {
     await updateCompanyProfile(payload)
     revalidatePath('/others/company')
@@ -42,6 +46,7 @@ export async function saveCompanyAction(payload: UpdateCompanyPayload): Promise<
 }
 
 export async function savePillarAllocationAction(entries: PillarAllocationEntry[]): Promise<{ success: boolean; error?: string }> {
+  await requireSession()
   try {
     await batchUpdateEntityPillars(entries)
     revalidatePath('/others/menus')

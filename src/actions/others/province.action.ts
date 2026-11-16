@@ -2,6 +2,7 @@
 
 import { revalidatePath } from 'next/cache'
 
+import { requireSession } from '@/lib/auth/guard'
 import {
   checkProvinceExistsInOdoo,
   deleteProvince,
@@ -17,6 +18,7 @@ import type { FetchProvincesParams, PaginatedProvincesResult } from '@/services/
 import type { ProvinceRecord } from '@/types/others/province'
 
 export async function getProvincesAction(countryId?: number): Promise<{ provinces: ProvinceRecord[] }> {
+  await requireSession()
   try {
     const provinces = await fetchProvinces(countryId)
     return { provinces }
@@ -27,6 +29,7 @@ export async function getProvincesAction(countryId?: number): Promise<{ province
 }
 
 export async function getProvincesPaginatedAction(params: FetchProvincesParams = {}): Promise<PaginatedProvincesResult> {
+  await requireSession()
   try {
     return await fetchProvincesPaginated(params)
   } catch (error) {
@@ -42,6 +45,7 @@ export async function getProvincesPaginatedAction(params: FetchProvincesParams =
 }
 
 export async function getProvinceByIdAction(id: number): Promise<ProvinceRecord | null> {
+  await requireSession()
   try {
     return await fetchProvinceById(id)
   } catch (error) {
@@ -51,6 +55,7 @@ export async function getProvinceByIdAction(id: number): Promise<ProvinceRecord 
 }
 
 export async function checkProvinceExistsAction(params: { code?: string; name?: string }): Promise<{ exists: boolean; id?: number; name?: string }> {
+  await requireSession()
   try {
     return await checkProvinceExistsInOdoo(params)
   } catch (error) {
@@ -60,6 +65,7 @@ export async function checkProvinceExistsAction(params: { code?: string; name?: 
 }
 
 export async function getProvinceFilterOptionsAction(): Promise<{ countries: { id: number; name: string }[] }> {
+  await requireSession()
   try {
     return await fetchProvinceFilterOptions()
   } catch (error) {
@@ -69,6 +75,7 @@ export async function getProvinceFilterOptionsAction(): Promise<{ countries: { i
 }
 
 export async function saveProvinceAction(values: ProvinceFormValues): Promise<{ success: boolean; error?: string; id?: number }> {
+  await requireSession()
   try {
     const id = await persistProvince(values)
     revalidatePath('/others/provinces')
@@ -84,5 +91,6 @@ export async function saveProvinceAction(values: ProvinceFormValues): Promise<{ 
 }
 
 export async function deleteProvinceAction(id: number): Promise<{ success: boolean; error?: string }> {
+  await requireSession()
   return await deleteProvince(id)
 }

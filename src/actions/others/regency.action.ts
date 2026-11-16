@@ -2,6 +2,7 @@
 
 import { revalidatePath } from 'next/cache'
 
+import { requireSession } from '@/lib/auth/guard'
 import {
   checkProvinceExistsByNameOrCode,
   checkRegencyExistsInOdoo,
@@ -19,6 +20,7 @@ import type { FetchRegenciesParams, PaginatedRegenciesResult } from '@/services/
 import type { RegencyRecord } from '@/types/others/regency'
 
 export async function getRegenciesAction(stateId?: number): Promise<{ regencies: RegencyRecord[] }> {
+  await requireSession()
   try {
     const regencies = await fetchRegencies(stateId)
     return { regencies }
@@ -29,6 +31,7 @@ export async function getRegenciesAction(stateId?: number): Promise<{ regencies:
 }
 
 export async function getRegenciesPaginatedAction(params: FetchRegenciesParams = {}): Promise<PaginatedRegenciesResult> {
+  await requireSession()
   try {
     return await fetchRegenciesPaginated(params)
   } catch (error) {
@@ -44,6 +47,7 @@ export async function getRegenciesPaginatedAction(params: FetchRegenciesParams =
 }
 
 export async function getRegencyByIdAction(id: number): Promise<RegencyRecord | null> {
+  await requireSession()
   try {
     return await fetchRegencyById(id)
   } catch (error) {
@@ -53,6 +57,7 @@ export async function getRegencyByIdAction(id: number): Promise<RegencyRecord | 
 }
 
 export async function checkParentProvinceAction(name: string, code?: string): Promise<{ exists: boolean; id?: number; name?: string }> {
+  await requireSession()
   try {
     return await checkProvinceExistsByNameOrCode(name, code)
   } catch (error) {
@@ -65,6 +70,7 @@ export async function checkRegencyExistsAction(params: {
   code?: string
   name?: string
 }): Promise<{ exists: boolean; id?: number; name?: string; code?: string }> {
+  await requireSession()
   try {
     return await checkRegencyExistsInOdoo(params)
   } catch (error) {
@@ -77,6 +83,7 @@ export async function getRegencyFilterOptionsAction(): Promise<{
   countries: { id: number; name: string }[]
   states: { id: number; name: string; countryId: number }[]
 }> {
+  await requireSession()
   try {
     return await fetchRegencyFilterOptions()
   } catch (error) {
@@ -86,6 +93,7 @@ export async function getRegencyFilterOptionsAction(): Promise<{
 }
 
 export async function saveRegencyAction(values: RegencyFormValues): Promise<{ success: boolean; error?: string; id?: number }> {
+  await requireSession()
   try {
     const id = await persistRegency(values)
     revalidatePath('/others/regencies')
@@ -101,6 +109,7 @@ export async function saveRegencyAction(values: RegencyFormValues): Promise<{ su
 }
 
 export async function toggleRegencyStatusAction(id: number, active: boolean): Promise<{ success: boolean; error?: string }> {
+  await requireSession()
   try {
     const success = await toggleRegencyStatus(id, active)
     revalidatePath('/others/regencies')
@@ -115,5 +124,6 @@ export async function toggleRegencyStatusAction(id: number, active: boolean): Pr
 }
 
 export async function deleteRegencyAction(id: number): Promise<{ success: boolean; error?: string }> {
+  await requireSession()
   return await deleteRegency(id)
 }

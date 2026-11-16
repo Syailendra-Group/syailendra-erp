@@ -2,6 +2,7 @@
 
 import { revalidatePath } from 'next/cache'
 
+import { requireSession } from '@/lib/auth/guard'
 import { distillerFormSchema } from '@/schemas/scm/distiller-schema'
 import { fetchDistillers, fetchDistillersPaginated, persistDistiller, updateDistillerActiveState } from '@/services/odoo/scm/distiller.service'
 
@@ -12,6 +13,7 @@ import type { DistillerRecord } from '@/types/scm/distiller'
 export type { DistillerRecord }
 
 export async function getDistillersAction(): Promise<{ distillers: DistillerRecord[]; error?: string }> {
+  await requireSession()
   try {
     const distillers = await fetchDistillers()
     return { distillers }
@@ -24,6 +26,7 @@ export async function getDistillersAction(): Promise<{ distillers: DistillerReco
 }
 
 export async function getDistillersPaginatedAction(params: FetchDistillersPaginatedParams = {}): Promise<FetchDistillersPaginatedResult> {
+  await requireSession()
   try {
     return await fetchDistillersPaginated(params)
   } catch {
@@ -37,6 +40,7 @@ export async function getDistillersPaginatedAction(params: FetchDistillersPagina
 }
 
 export async function saveDistillerAction(rawValues: DistillerFormValues): Promise<{ success: boolean; id?: number; error?: string }> {
+  await requireSession()
   try {
     const validated = distillerFormSchema.parse(rawValues)
     const result = await persistDistiller(validated)
@@ -55,6 +59,7 @@ export async function saveDistillerAction(rawValues: DistillerFormValues): Promi
 }
 
 export async function toggleDistillerStatusAction(id: number, active: boolean): Promise<{ success: boolean; error?: string }> {
+  await requireSession()
   try {
     const result = await updateDistillerActiveState(id, active)
     if (result.success) {

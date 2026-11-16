@@ -2,6 +2,7 @@
 
 import { revalidatePath } from 'next/cache'
 
+import { requireSession } from '@/lib/auth/guard'
 import {
   checkParentDistrictExists,
   checkVillageExistsInOdoo,
@@ -19,6 +20,7 @@ import type { FetchVillagesParams, PaginatedVillagesResult } from '@/services/od
 import type { VillageRecord } from '@/types/others/village'
 
 export async function getVillagesAction(districtId?: number): Promise<{ villages: VillageRecord[] }> {
+  await requireSession()
   try {
     const villages = await fetchVillages(districtId)
     return { villages }
@@ -29,6 +31,7 @@ export async function getVillagesAction(districtId?: number): Promise<{ villages
 }
 
 export async function getVillagesPaginatedAction(params: FetchVillagesParams = {}): Promise<PaginatedVillagesResult> {
+  await requireSession()
   try {
     return await fetchVillagesPaginated(params)
   } catch (error) {
@@ -44,6 +47,7 @@ export async function getVillagesPaginatedAction(params: FetchVillagesParams = {
 }
 
 export async function getVillageByIdAction(id: number): Promise<VillageRecord | null> {
+  await requireSession()
   try {
     return await fetchVillageById(id)
   } catch (error) {
@@ -56,6 +60,7 @@ export async function checkVillageExistsAction(params: {
   code?: string
   name?: string
 }): Promise<{ exists: boolean; id?: number; name?: string; code?: string }> {
+  await requireSession()
   try {
     return await checkVillageExistsInOdoo(params)
   } catch (error) {
@@ -65,6 +70,7 @@ export async function checkVillageExistsAction(params: {
 }
 
 export async function checkParentDistrictAction(name: string, code?: string): Promise<{ exists: boolean; id?: number; name?: string }> {
+  await requireSession()
   try {
     return await checkParentDistrictExists(name, code)
   } catch (error) {
@@ -79,6 +85,7 @@ export async function getVillageFilterOptionsAction(): Promise<{
   cities: { id: number; name: string; stateId?: number }[]
   districts: { id: number; name: string; cityId?: number }[]
 }> {
+  await requireSession()
   try {
     return await fetchVillageFilterOptions()
   } catch (error) {
@@ -88,6 +95,7 @@ export async function getVillageFilterOptionsAction(): Promise<{
 }
 
 export async function saveVillageAction(values: VillageFormValues): Promise<{ success: boolean; error?: string; id?: number }> {
+  await requireSession()
   try {
     const id = await persistVillage(values)
     revalidatePath('/others/villages')
@@ -103,6 +111,7 @@ export async function saveVillageAction(values: VillageFormValues): Promise<{ su
 }
 
 export async function toggleVillageStatusAction(id: number, active: boolean): Promise<{ success: boolean; error?: string }> {
+  await requireSession()
   try {
     const success = await toggleVillageStatus(id, active)
     revalidatePath('/others/villages')
@@ -117,5 +126,6 @@ export async function toggleVillageStatusAction(id: number, active: boolean): Pr
 }
 
 export async function deleteVillageAction(id: number): Promise<{ success: boolean; error?: string }> {
+  await requireSession()
   return await deleteVillage(id)
 }

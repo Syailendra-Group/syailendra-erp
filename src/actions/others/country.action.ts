@@ -2,6 +2,7 @@
 
 import { revalidatePath } from 'next/cache'
 
+import { requireSession } from '@/lib/auth/guard'
 import { deleteCountry, fetchCountries, fetchCountriesPaginated, fetchCountryById, persistCountry } from '@/services/odoo/others/country.service'
 
 import type { CountryFormValues } from '@/schemas/others/country-schema'
@@ -9,6 +10,7 @@ import type { FetchCountriesParams, PaginatedCountriesResult } from '@/services/
 import type { CountryRecord } from '@/types/others/country'
 
 export async function getCountriesAction(): Promise<{ countries: CountryRecord[] }> {
+  await requireSession()
   try {
     const countries = await fetchCountries()
     return { countries }
@@ -19,6 +21,7 @@ export async function getCountriesAction(): Promise<{ countries: CountryRecord[]
 }
 
 export async function getCountriesPaginatedAction(params: FetchCountriesParams = {}): Promise<PaginatedCountriesResult> {
+  await requireSession()
   try {
     return await fetchCountriesPaginated(params)
   } catch (error) {
@@ -34,6 +37,7 @@ export async function getCountriesPaginatedAction(params: FetchCountriesParams =
 }
 
 export async function getCountryByIdAction(id: number): Promise<CountryRecord | null> {
+  await requireSession()
   try {
     return await fetchCountryById(id)
   } catch (error) {
@@ -43,6 +47,7 @@ export async function getCountryByIdAction(id: number): Promise<CountryRecord | 
 }
 
 export async function saveCountryAction(values: CountryFormValues): Promise<{ success: boolean; error?: string; id?: number }> {
+  await requireSession()
   try {
     const id = await persistCountry(values)
     revalidatePath('/others/countries')
@@ -58,6 +63,7 @@ export async function saveCountryAction(values: CountryFormValues): Promise<{ su
 }
 
 export async function deleteCountryAction(id: number): Promise<{ success: boolean; error?: string }> {
+  await requireSession()
   try {
     const success = await deleteCountry(id)
     revalidatePath('/others/countries')

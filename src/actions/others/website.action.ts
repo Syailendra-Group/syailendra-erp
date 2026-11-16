@@ -2,11 +2,13 @@
 
 import { revalidatePath } from 'next/cache'
 
+import { requireSession } from '@/lib/auth/guard'
 import { fetchSiteConfig, resetSiteConfig, updateSiteConfig } from '@/services/odoo/others/website.service'
 
 import type { SiteConfigRecord, UpdateSiteConfigPayload } from '@/types/others/website'
 
 export async function getSiteConfigAction(): Promise<SiteConfigRecord> {
+  await requireSession()
   try {
     return await fetchSiteConfig()
   } catch (error) {
@@ -17,6 +19,7 @@ export async function getSiteConfigAction(): Promise<SiteConfigRecord> {
 }
 
 export async function saveSiteConfigAction(payload: UpdateSiteConfigPayload): Promise<{ success: boolean; error?: string }> {
+  await requireSession()
   try {
     await updateSiteConfig(payload)
     revalidatePath('/others/website')
@@ -33,6 +36,7 @@ export async function saveSiteConfigAction(payload: UpdateSiteConfigPayload): Pr
 }
 
 export async function resetSiteConfigAction(): Promise<{ success: boolean; error?: string }> {
+  await requireSession()
   try {
     await resetSiteConfig()
     revalidatePath('/others/website')

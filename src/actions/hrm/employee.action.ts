@@ -2,6 +2,7 @@
 
 import { revalidatePath } from 'next/cache'
 
+import { requireSession } from '@/lib/auth/guard'
 import { employeeFormSchema } from '@/schemas/hrm/employee-schema'
 import {
   fetchDepartmentOptions,
@@ -18,6 +19,7 @@ import type { DepartmentOption, EmployeeRecord } from '@/types/hrm/employee'
 export type { DepartmentOption, EmployeeRecord }
 
 export async function getEmployeesAction(): Promise<{ employees: EmployeeRecord[]; error?: string }> {
+  await requireSession()
   try {
     const employees = await fetchEmployees()
     return { employees }
@@ -27,6 +29,7 @@ export async function getEmployeesAction(): Promise<{ employees: EmployeeRecord[
 }
 
 export async function getEmployeesPaginatedAction(params: FetchEmployeesPaginatedParams = {}): Promise<FetchEmployeesPaginatedResult> {
+  await requireSession()
   try {
     return await fetchEmployeesPaginated(params)
   } catch {
@@ -35,6 +38,7 @@ export async function getEmployeesPaginatedAction(params: FetchEmployeesPaginate
 }
 
 export async function getDepartmentOptionsAction(): Promise<DepartmentOption[]> {
+  await requireSession()
   try {
     return await fetchDepartmentOptions()
   } catch {
@@ -43,6 +47,7 @@ export async function getDepartmentOptionsAction(): Promise<DepartmentOption[]> 
 }
 
 export async function saveEmployeeAction(rawValues: EmployeeFormValues): Promise<{ success: boolean; error?: string }> {
+  await requireSession()
   try {
     const validated = employeeFormSchema.parse(rawValues)
     await persistEmployee(validated)
@@ -54,6 +59,7 @@ export async function saveEmployeeAction(rawValues: EmployeeFormValues): Promise
 }
 
 export async function toggleEmployeeStatusAction(id: number, active: boolean): Promise<{ success: boolean; error?: string }> {
+  await requireSession()
   try {
     await updateEmployeeActiveState(id, active)
     revalidatePath('/admin/employees')

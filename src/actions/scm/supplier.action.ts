@@ -1,26 +1,29 @@
-/**
- * supplier.action.ts — Next.js Server Actions for Master Supplier
- * Syailendra Group ERP (SCM Pillar)
- */
-
 'use server'
 
 import { revalidatePath } from 'next/cache'
 
+import { requireSession } from '@/lib/auth/guard'
 import { supplierFormSchema } from '@/schemas/scm/supplier-schema'
 import { GetSuppliersParams, SupplierService } from '@/services/odoo/scm/supplier.service'
 
 import type { SupplierFormValues, SupplierListResponse, SupplierRecord } from '@/types/scm/supplier'
 
+/**
+ * supplier.action.ts — Next.js Server Actions for Master Supplier
+ * Syailendra Group ERP (SCM Pillar)
+ */
 export async function fetchSuppliersAction(params: GetSuppliersParams = {}): Promise<SupplierListResponse> {
+  await requireSession()
   return await SupplierService.getSuppliers(params)
 }
 
 export async function fetchSupplierByIdAction(id: number): Promise<SupplierRecord | null> {
+  await requireSession()
   return await SupplierService.getSupplierById(id)
 }
 
 export async function createSupplierAction(values: SupplierFormValues): Promise<{ success: boolean; id?: number; error?: string }> {
+  await requireSession()
   try {
     const validated = supplierFormSchema.parse(values)
     const newId = await SupplierService.createSupplier(validated)
@@ -33,6 +36,7 @@ export async function createSupplierAction(values: SupplierFormValues): Promise<
 }
 
 export async function updateSupplierAction(id: number, values: SupplierFormValues): Promise<{ success: boolean; error?: string }> {
+  await requireSession()
   try {
     const validated = supplierFormSchema.parse(values)
     await SupplierService.updateSupplier(id, validated)
@@ -45,6 +49,7 @@ export async function updateSupplierAction(id: number, values: SupplierFormValue
 }
 
 export async function toggleSupplierStatusAction(id: number, active: boolean): Promise<{ success: boolean; error?: string }> {
+  await requireSession()
   try {
     await SupplierService.toggleSupplierStatus(id, active)
     revalidatePath('/[locale]/scm/suppliers', 'page')
@@ -56,6 +61,7 @@ export async function toggleSupplierStatusAction(id: number, active: boolean): P
 }
 
 export async function deleteSupplierAction(id: number): Promise<{ success: boolean; error?: string; isRelational?: boolean }> {
+  await requireSession()
   try {
     await SupplierService.deleteSupplier(id)
     revalidatePath('/[locale]/scm/suppliers', 'page')

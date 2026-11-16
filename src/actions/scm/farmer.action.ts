@@ -2,6 +2,7 @@
 
 import { revalidatePath } from 'next/cache'
 
+import { requireSession } from '@/lib/auth/guard'
 import { farmerFormSchema } from '@/schemas/scm/farmer-schema'
 import {
   fetchFarmerByIdentifier,
@@ -19,6 +20,7 @@ import type { FarmerRecord } from '@/types/scm/farmer'
 export type { FarmerRecord, FetchFarmersParams, PaginatedFarmersResult }
 
 export async function getFarmersAction(): Promise<{ farmers: FarmerRecord[] }> {
+  await requireSession()
   try {
     const farmers = await fetchFarmers()
     return { farmers }
@@ -29,6 +31,7 @@ export async function getFarmersAction(): Promise<{ farmers: FarmerRecord[] }> {
 }
 
 export async function getFarmersPaginatedAction(params: FetchFarmersParams = {}): Promise<PaginatedFarmersResult> {
+  await requireSession()
   try {
     return await fetchFarmersPaginated(params)
   } catch (err) {
@@ -44,6 +47,7 @@ export async function getFarmersPaginatedAction(params: FetchFarmersParams = {})
 }
 
 export async function getFarmerByIdAction(identifier: number | string): Promise<FarmerRecord | null> {
+  await requireSession()
   try {
     return await fetchFarmerByIdentifier(identifier)
   } catch (err) {
@@ -53,6 +57,7 @@ export async function getFarmerByIdAction(identifier: number | string): Promise<
 }
 
 export async function saveFarmerAction(values: FarmerFormValues): Promise<{ success: boolean; id?: number; error?: string }> {
+  await requireSession()
   const parsed = farmerFormSchema.safeParse(values)
   if (!parsed.success) {
     return { success: false, error: parsed.error.issues[0]?.message || 'Invalid parameters' }
@@ -69,6 +74,7 @@ export async function saveFarmerAction(values: FarmerFormValues): Promise<{ succ
 }
 
 export async function toggleFarmerStatusAction(id: number, active: boolean): Promise<{ success: boolean; error?: string }> {
+  await requireSession()
   try {
     await updateFarmerActiveState(id, active)
     revalidatePath('/scm/farmers')
@@ -79,6 +85,7 @@ export async function toggleFarmerStatusAction(id: number, active: boolean): Pro
   }
 }
 export async function getNextFarmerIdAction(stateId: number): Promise<{ success: boolean; ref?: string; error?: string }> {
+  await requireSession()
   try {
     const ref = await fetchNextFarmerSequence(stateId)
     return { success: true, ref }

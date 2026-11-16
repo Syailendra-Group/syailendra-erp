@@ -2,6 +2,7 @@
 
 import { revalidatePath } from 'next/cache'
 
+import { requireSession } from '@/lib/auth/guard'
 import { materialFormSchema } from '@/schemas/scm/material-schema'
 import { deleteMaterial, fetchMaterialById, fetchMaterialsPaginated, persistMaterial } from '@/services/odoo/scm/material.service'
 
@@ -12,6 +13,7 @@ import type { MaterialRecord } from '@/types/scm/material'
 export type { FetchMaterialsParams, MaterialRecord, PaginatedMaterialsResult }
 
 export async function getMaterialsPaginatedAction(params: FetchMaterialsParams = {}): Promise<PaginatedMaterialsResult> {
+  await requireSession()
   try {
     return await fetchMaterialsPaginated(params)
   } catch (err) {
@@ -27,6 +29,7 @@ export async function getMaterialsPaginatedAction(params: FetchMaterialsParams =
 }
 
 export async function getMaterialByIdAction(id: number): Promise<MaterialRecord | null> {
+  await requireSession()
   try {
     return await fetchMaterialById(id)
   } catch (err) {
@@ -36,6 +39,7 @@ export async function getMaterialByIdAction(id: number): Promise<MaterialRecord 
 }
 
 export async function saveMaterialAction(rawValues: MaterialFormValues): Promise<{ success: boolean; id?: number; error?: string }> {
+  await requireSession()
   try {
     const validated = materialFormSchema.parse(rawValues)
     const result = await persistMaterial(validated)
@@ -56,6 +60,7 @@ export async function saveMaterialAction(rawValues: MaterialFormValues): Promise
 }
 
 export async function deleteMaterialAction(id: number): Promise<{ success: boolean; error?: string }> {
+  await requireSession()
   try {
     const result = await deleteMaterial(id)
 

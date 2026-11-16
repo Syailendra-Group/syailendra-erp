@@ -1,56 +1,56 @@
 /**
- * session.ts — Server-side cookie session management
+ * session.ts — Server-side signed cookie session management
  * Syailendra Group ERP
  */
 
 import { cookies } from 'next/headers'
 
+import { SESSION_COOKIE_NAME, SESSION_TTL_SECONDS, signSessionToken, verifySessionToken } from './token'
+
 import type { UserSession } from '@/types/auth/auth'
 
-export const SESSION_COOKIE_NAME = 'syailendra_session'
-const SESSION_MAX_AGE = 60 * 60 * 24 * 7 // 7 days in seconds
+const MIN_SECRET_LENGTH = 32
+
+function getSessionSecret(): string | null {
+  const secret = process.env.SESSION_SECRET
+  return secret && secret.length >= MIN_SECRET_LENGTH ? secret : null
+}
 
 /**
- * Persist user session to an encrypted HttpOnly cookie
+ * Persist a signed, HttpOnly session token to the browser cookie.
  */
 export async function createSession(session: UserSession): Promise<void> {
-  const cookieStore = await cookies()
-  const sessionData = Buffer.from(JSON.stringify(session)).toString('base64')
+  const secret = getSessionSecret()
+  if (!secret) throw new Error('SESSION_SECRET_MISSING')
 
-  cookieStore.set(SESSION_COOKIE_NAME, sessionData, {
+  const cookieStore = await cookies()
+  const token = await signSessionToken(session, secret)
+
+  cookieStore.set(SESSION_COOKIE_NAME, token, {
     httpOnly: true,
     secure: process.env.NODE_ENV === 'production',
     sameSite: 'lax',
     path: '/',
-    maxAge: SESSION_MAX_AGE
+    maxAge: SESSION_TTL_SECONDS
   })
 }
 
 /**
- * Retrieve and parse the current active user session from cookies
+ * Verify the signed session token and return its claims, or null when invalid.
  */
 export async function getSession(): Promise<UserSession | null> {
+  const secret = getSessionSecret()
+  if (!secret) return null
+
   const cookieStore = await cookies()
-  const cookie = cookieStore.get(SESSION_COOKIE_NAME)
+  const token = cookieStore.get(SESSION_COOKIE_NAME)?.value
+  if (!token) return null
 
-  if (!cookie?.value) {
-    return null
-  }
-
-  try {
-    const rawJson = Buffer.from(cookie.value, 'base64').toString('utf-8')
-    const parsed = JSON.parse(rawJson) as UserSession
-    if (!parsed.uid || !parsed.email) {
-      return null
-    }
-    return parsed
-  } catch {
-    return null
-  }
+  return verifySessionToken(token, secret)
 }
 
 /**
- * Destroy user session cookie upon logout
+ * Destroy the session cookie on logout.
  */
 export async function destroySession(): Promise<void> {
   const cookieStore = await cookies()

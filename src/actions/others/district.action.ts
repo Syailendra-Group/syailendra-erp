@@ -2,6 +2,7 @@
 
 import { revalidatePath } from 'next/cache'
 
+import { requireSession } from '@/lib/auth/guard'
 import {
   checkDistrictExistsInOdoo,
   checkParentRegencyExists,
@@ -19,6 +20,7 @@ import type { FetchDistrictsParams, PaginatedDistrictsResult } from '@/services/
 import type { DistrictRecord } from '@/types/others/district'
 
 export async function getDistrictsAction(cityId?: number): Promise<{ districts: DistrictRecord[] }> {
+  await requireSession()
   try {
     const districts = await fetchDistricts(cityId)
     return { districts }
@@ -29,6 +31,7 @@ export async function getDistrictsAction(cityId?: number): Promise<{ districts: 
 }
 
 export async function getDistrictsPaginatedAction(params: FetchDistrictsParams = {}): Promise<PaginatedDistrictsResult> {
+  await requireSession()
   try {
     return await fetchDistrictsPaginated(params)
   } catch (error) {
@@ -44,6 +47,7 @@ export async function getDistrictsPaginatedAction(params: FetchDistrictsParams =
 }
 
 export async function getDistrictByIdAction(id: number): Promise<DistrictRecord | null> {
+  await requireSession()
   try {
     return await fetchDistrictById(id)
   } catch (error) {
@@ -56,6 +60,7 @@ export async function checkDistrictExistsAction(params: {
   code?: string
   name?: string
 }): Promise<{ exists: boolean; id?: number; name?: string; code?: string }> {
+  await requireSession()
   try {
     return await checkDistrictExistsInOdoo(params)
   } catch (error) {
@@ -65,6 +70,7 @@ export async function checkDistrictExistsAction(params: {
 }
 
 export async function checkParentRegencyAction(name: string, code?: string): Promise<{ exists: boolean; id?: number; name?: string }> {
+  await requireSession()
   try {
     return await checkParentRegencyExists(name, code)
   } catch (error) {
@@ -78,6 +84,7 @@ export async function getDistrictFilterOptionsAction(): Promise<{
   states: { id: number; name: string; countryId?: number }[]
   cities: { id: number; name: string; stateId?: number; countryId?: number }[]
 }> {
+  await requireSession()
   try {
     return await fetchDistrictFilterOptions()
   } catch (error) {
@@ -87,6 +94,7 @@ export async function getDistrictFilterOptionsAction(): Promise<{
 }
 
 export async function saveDistrictAction(values: DistrictFormValues): Promise<{ success: boolean; error?: string; id?: number }> {
+  await requireSession()
   try {
     const id = await persistDistrict(values)
     revalidatePath('/others/districts')
@@ -102,6 +110,7 @@ export async function saveDistrictAction(values: DistrictFormValues): Promise<{ 
 }
 
 export async function toggleDistrictStatusAction(id: number, active: boolean): Promise<{ success: boolean; error?: string }> {
+  await requireSession()
   try {
     const success = await toggleDistrictStatus(id, active)
     revalidatePath('/others/districts')
@@ -116,5 +125,6 @@ export async function toggleDistrictStatusAction(id: number, active: boolean): P
 }
 
 export async function deleteDistrictAction(id: number): Promise<{ success: boolean; error?: string }> {
+  await requireSession()
   return await deleteDistrict(id)
 }

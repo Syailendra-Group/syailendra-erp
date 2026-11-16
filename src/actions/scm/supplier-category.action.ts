@@ -1,12 +1,8 @@
-/**
- * supplier-category.action.ts — Next.js Server Actions for Supplier Categories
- * Syailendra Group ERP (SCM Pillar)
- */
-
 'use server'
 
 import { revalidatePath } from 'next/cache'
 
+import { requireSession } from '@/lib/auth/guard'
 import { supplierCategoryFormSchema } from '@/schemas/scm/supplier-category-schema'
 import { GetSupplierCategoriesParams, SupplierCategoryService } from '@/services/odoo/scm/supplier-category.service'
 
@@ -17,19 +13,27 @@ import type {
   SupplierCategoryRecord
 } from '@/types/scm/supplier-category'
 
+/**
+ * supplier-category.action.ts — Next.js Server Actions for Supplier Categories
+ * Syailendra Group ERP (SCM Pillar)
+ */
 export async function fetchSupplierCategoriesAction(params: GetSupplierCategoriesParams = {}): Promise<SupplierCategoryListResponse> {
+  await requireSession()
   return await SupplierCategoryService.getSupplierCategories(params)
 }
 
 export async function fetchSupplierCategoryByIdAction(id: number): Promise<SupplierCategoryRecord | null> {
+  await requireSession()
   return await SupplierCategoryService.getSupplierCategoryById(id)
 }
 
 export async function fetchSupplierCategoryOptionsAction(): Promise<SupplierCategoryOption[]> {
+  await requireSession()
   return await SupplierCategoryService.getSupplierCategoryOptions()
 }
 
 export async function createSupplierCategoryAction(values: SupplierCategoryFormValues): Promise<{ success: boolean; id?: number; error?: string }> {
+  await requireSession()
   try {
     const validated = supplierCategoryFormSchema.parse(values)
     const newId = await SupplierCategoryService.createSupplierCategory(validated)
@@ -42,6 +46,7 @@ export async function createSupplierCategoryAction(values: SupplierCategoryFormV
 }
 
 export async function updateSupplierCategoryAction(id: number, values: SupplierCategoryFormValues): Promise<{ success: boolean; error?: string }> {
+  await requireSession()
   try {
     const validated = supplierCategoryFormSchema.parse(values)
     await SupplierCategoryService.updateSupplierCategory(id, validated)
@@ -54,6 +59,7 @@ export async function updateSupplierCategoryAction(id: number, values: SupplierC
 }
 
 export async function deleteSupplierCategoryAction(id: number): Promise<{ success: boolean; error?: string; isRelational?: boolean }> {
+  await requireSession()
   try {
     await SupplierCategoryService.deleteSupplierCategory(id)
     revalidatePath('/[locale]/scm/supplier-categories', 'page')

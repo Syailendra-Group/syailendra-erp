@@ -127,16 +127,31 @@ def categorize(raw_category: str) -> dict[str, str | bool]:
         odoo_category = "1.4 Koperasi Tani"
         is_company = True
     elif upper.startswith("1.5"):
-        odoo_category = "1.5 BUMN/BUMD/BUMDES"
+        odoo_category = "1.5 BUMN / BUMD / BUMDes"
         is_company = True
     elif upper.startswith("1.6") or upper == "PERUSAHAAN":
-        odoo_category = "1.6 Perusahaan"
+        odoo_category = "1.6 Perusahaan Bahan Baku"
         is_company = True
     elif upper.startswith("2.1"):
-        odoo_category = "2.1 Perorangan Eksporir"
+        odoo_category = "2.1 Perorangan Eksportir"
         is_company = False
     elif upper.startswith("2.2"):
-        odoo_category = "2.2 Perusahaan Eksporir"
+        odoo_category = "2.2 Perusahaan Eksportir"
+        is_company = True
+    elif upper.startswith("03."):
+        odoo_category = "03. Pemasok Sample R&D"
+        is_company = True
+    elif upper.startswith("04."):
+        odoo_category = "04. Pemasok Sticker & Label"
+        is_company = True
+    elif upper.startswith("05."):
+        odoo_category = "05. Pemasok Botol & Tutup"
+        is_company = True
+    elif upper.startswith("06."):
+        odoo_category = "06. Pemasok Perlengkapan Lainnya"
+        is_company = True
+    elif upper.startswith("07."):
+        odoo_category = "07. Pemasok Bahan Kimia QC"
         is_company = True
     elif upper == "COMPANY":
         odoo_category = "Company"
@@ -181,14 +196,14 @@ def build_record(row_no: int, rec: dict[str, str]) -> PlanRecord:
     )
     street = rec.get("street") or ""
     city = rec.get("city") or ""
-    address = ", ".join(p for p in [street, city] if p).strip() or None
+    zip_code = rec.get("zip") or ""
 
     warnings: list[str] = []
     if not rec.get("email"):
         warnings.append("missing_email")
     if not phone:
         warnings.append("missing_phone")
-    if not address:
+    if not street and not city:
         warnings.append("missing_address")
     if not rec.get("npwp") and not rec.get("nik"):
         warnings.append("missing_tax_id")
@@ -201,12 +216,13 @@ def build_record(row_no: int, rec: dict[str, str]) -> PlanRecord:
         "is_company": cat["is_company"],
         "phone": phone,
         "email": rec.get("email") or None,
-        "street": address,
+        "street": street or None,
+        "street2": None,
+        "city": city or None,
+        "zip": zip_code or None,
         "comment": (
             f"Accurate ID: {supplier_id} | "
             f"Kategori: {cat['raw_category'] or '-'} | "
-            f"NPWP: {rec.get('npwp') or '-'} | "
-            f"NIK: {rec.get('nik') or '-'} | "
             f"Source: daftar-pemasok.xlsx (Accurate Online export)"
         ),
     }

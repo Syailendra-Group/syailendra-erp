@@ -1,0 +1,938 @@
+[
+ {
+  "code": "ABV",
+  "name": "Agarwood Bouya",
+  "latin_name": "Aetoxylon sympetalum",
+  "plant_part": "wood",
+  "cultivation_status": "cultivated",
+  "description": "Minyak atsiri Agarwood Bouya Viscous diperoleh dari inti kayu gaharu buaya (Aetoxylon sympetalum) yang tumbuh di hutan tropis Indonesia, khususnya wilayah Kalimantan. Minyak ini diekstraksi melalui metode steam distillation dari kayu yang kaya resin aromatik, menghasilkan minyak kental dengan karakter aroma kayu yang h",
+  "source_file": "2026_02_SBI-DD_MP_EO_Agarwood Bouya_Final.docx"
+ },
+ {
+  "code": "AGA",
+  "name": "Agarwood Kutai",
+  "latin_name": "Aquilaria malaccensis",
+  "plant_part": "wood",
+  "cultivation_status": "cultivated",
+  "description": "Minyak atsiri Agarwood Merauke diekstraksi dari inti kayu gaharu (Aquilaria malaccensis) yang tumbuh di wilayah Papua, Indonesia. Minyak ini diperoleh melalui proses steam distillation dari gubal gaharu yang kaya resin aromatik, menghasilkan minyak berwarna coklat keemasan hingga coklat tua dengan karakter aroma deep e",
+  "source_file": "2026_01_SBI-DD_MP_EO_Agarwood Aceh_Final.docx"
+ },
+ {
+  "code": "ANI",
+  "name": "Aniseed",
+  "latin_name": "Pimpinella anisum",
+  "plant_part": "seeds",
+  "cultivation_status": "cultivated",
+  "description": "Aniseed Essential Oil adalah minyak atsiri premium dari biji Pimpinella anisum yang diperoleh di wilayah Jawa Tengah dan Jawa Barat yang diproses melalui metode steam distillation. Minyak ini memiliki aroma manis khas anise yang hangat dan lembut, sering digunakan dalam industri aromaterapi, natural perfumery, kosmetik",
+  "source_file": "2026_13_SBI-DD_MP_EO_Aniseed.docx"
+ },
+ {
+  "code": "BAS2",
+  "name": "Basil Sweet",
+  "latin_name": "Ocimum basilicum",
+  "plant_part": "leaves",
+  "cultivation_status": "cultivated",
+  "description": "Bawa kesegaran alam yang membangkitkan semangat ke dalam karya naturalmu! Basil Sweet Essential Oil dari DDistillers diekstrak langsung dari bunga dan daun Ocimum basilicum (Selasih) dari dataran Jawa Timur dan Jawa Barat. Melalui proses steam distillation (penyulingan uap) yang cermat, kami menghadirkan minyak atsiri ",
+  "source_file": "2026_17_SBI-DD_MP_EO_Basil Sweet.docx"
+ },
+ {
+  "code": "BAS3",
+  "name": "Basil Lemon",
+  "latin_name": "Ocimum × citriodorum",
+  "plant_part": "leaves",
+  "cultivation_status": "cultivated",
+  "description": "Minyak atsiri Basil Lemon diperoleh dari penyulingan uap daun dan bunga kemangi (Ocimum citriodorum) yang tumbuh di Jawa, Indonesia. Dalam formulasi aromatik, Basil Lemon Oil sering digunakan sebagai top hingga middle note yang mampu memberikan kesan menyegarkan, meningkatkan fokus, serta memperkaya komposisi parfum na",
+  "source_file": "2026_16_SBI-DD_MP_EO_Basil Lemon_Final.docx"
+ },
+ {
+  "code": "BER",
+  "name": "Bergamot",
+  "latin_name": "Citrus bergamia",
+  "plant_part": "fruit",
+  "cultivation_status": "cultivated",
+  "description": "Bergamot Essential Oil adalah minyak atsiri murni yang diperoleh dari kulit luar buah Citrus bergamia Italia melalui proses steam distillation (destilasi uap). Minyak ini dikenal karena aroma sitrusnya yang segar dan manis-fruity dengan sedikit nuansa floral dan herbal, menjadikannya pilihan utama sebagai top note dala",
+  "source_file": "2026_20_SBI-DD_MP_EO_Bergamot_Final.docx"
+ },
+ {
+  "code": "BET",
+  "name": "Betel Forest",
+  "latin_name": "Piper aduncum",
+  "plant_part": "leaves",
+  "cultivation_status": "cultivated",
+  "description": "Betel Forest Essential Oil diperoleh dari daun tanaman Piper aduncum dari Jawa dan Papua melalui proses destilasi uap yang menghasilkan minyak berwarna kuning pucat hingga kuning kecoklatan dengan aroma khas pedas, herbal, sedikit medicinal, dan nuansa hutan yang alami. Minyak ini dikenal sebagai bahan aromatik alami d",
+  "source_file": "2026_23_SBI-DD_MP_EO_Betel Forest_Final.docx"
+ },
+ {
+  "code": "BET2",
+  "name": "Betel Green",
+  "latin_name": "Piper betle",
+  "plant_part": "leaves",
+  "cultivation_status": "cultivated",
+  "description": "Minyak atsiri Betel Green diperoleh dari penyulingan uap daun sirih hijau (Piper betle) yang tumbuh di wilayah Jawa Tengah dan Jawa Barat melalui metode destilasi uap. Dalam formulasi aromatik, minyak ini sering digunakan sebagai top hingga middle note yang memberikan nuansa spicy-herbal dan fresh aromatic, sehingga co",
+  "source_file": "2026_21_SBI-DD_MP_EO_Betel Green_Final.docx"
+ },
+ {
+  "code": "BET3",
+  "name": "Betel Red",
+  "latin_name": "Piper crocatum",
+  "plant_part": "leaves",
+  "cultivation_status": "cultivated",
+  "description": "Minyak Betel Red diperoleh dari penyulingan uap daun sirih merah (Piper crocatum) yang tumbuh di wilayah tropis Indonesia. Dalam formulasi aromatik, minyak ini biasanya digunakan sebagai top hingga middle note yang memberikan nuansa fresh herbal dan spicy aromatic. Minyak atsiri sirih merah banyak dimanfaatkan dalam fo",
+  "source_file": "2026_22_SBI-DD_MP_EO_Betel Red_Final.docx"
+ },
+ {
+  "code": "BOR",
+  "name": "Borneo Camphor",
+  "latin_name": "Dryobalanops aromatica",
+  "plant_part": "wood",
+  "cultivation_status": "cultivated",
+  "description": "Minyak atsiri Borneo Camphor diperoleh dari resin alami dan kayu aromatik pohon Dryobalanops aromatica yang tumbuh di hutan tropis Indonesia, khususnya Kalimantan dan Sumatra, melalui metode hydro distillation (destilasi air). Dalam formulasi aromatik, minyak ini berperan sebagai top hingga middle note dengan aroma kam",
+  "source_file": "2026_24_SBI-DD_MP_EO_Borneo Camphor_Final.docx"
+ },
+ {
+  "code": "CAJ",
+  "name": "Cajuput Java",
+  "latin_name": "Melaleuca cajuputi",
+  "plant_part": "leaves",
+  "cultivation_status": "cultivated",
+  "description": "Minyak atsiri Cajuput Sumatra diperoleh dari penyulingan uap daun dan ranting kayu putih (Melaleuca cajuputi) yang tumbuh di wilayah Sumatra, Indonesia. Dalam formulasi aromatik, minyak ini termasuk middle note yang memberikan sensasi hangat, bersih, dan melegakan, sehingga cocok digunakan dalam aromaterapi, produk wel",
+  "source_file": "2026_26_SBI-DD_MP_EO_Cajuput Java_Final.docx"
+ },
+ {
+  "code": "CAL",
+  "name": "Calamus",
+  "latin_name": "Acorus calamus",
+  "plant_part": "rhizome",
+  "cultivation_status": "cultivated",
+  "description": "Calamus Essential Oil diperoleh dari rimpang (akar) tanaman Acorus calamus di Indonesia melalui proses destilasi uap. Minyak atsiri calamus kaya akan senyawa aromatik terutama Beta-asarone dan Alpha-asarone. Senyawa tersebut memberikan aroma khas serta berbagai aktivitas biologis yang telah banyak diteliti dalam bidang",
+  "source_file": "2026_30_SBI-DD_MP_EO_Calamus_Final.docx"
+ },
+ {
+  "code": "CAM",
+  "name": "Ravintsara",
+  "latin_name": "Cinnamomum camphora",
+  "plant_part": "wood",
+  "cultivation_status": "cultivated",
+  "description": "Camphor Wood Essential Oil adalah minyak atsiri murni yang diperoleh melalui proses destilasi uap dari batang/kayu Cinnamomum camphora pohon kamper yang tumbuh si Sumatra & Kalimantan, Indonesia. Aromanya yang kuat dan khas, memberikan nuansa segar, tajam, serta menenangkan yang menjadikannya pilihan ideal sebagai midd",
+  "source_file": "2026_154_SBI-DD_MP_EO_Ravintsara.docx"
+ },
+ {
+  "code": "CAN",
+  "name": "Ylang Ylang",
+  "latin_name": "Cananga odorata",
+  "plant_part": "flowers",
+  "cultivation_status": "cultivated",
+  "description": "Cananga Garden Essential Oil diperoleh dari bunga segar Cananga odorata forma fruticosa dari Jawa Timur dan Bogor melalui proses destilasi uap. Minyak ini memiliki warna kuning pucat hingga kuning keemasan jernih dengan aroma floral yang kaya, manis, dan eksotik khas bunga tropis. Dalam formulasi parfum dan aromaterapi",
+  "source_file": "2026_195_SBI-DD_MP_EO_Ylang Ylang_Final.docx"
+ },
+ {
+  "code": "CAR",
+  "name": "Cardamom Java",
+  "latin_name": "Wurfbainia compacta",
+  "plant_part": "seeds",
+  "cultivation_status": "cultivated",
+  "description": "Cardamom Java Essential Oil adalah minyak atsiri premium dari Wurfbainia compacta syn. Amomum compactum yang diperoleh di wilayah Jawa Tengah melalui metode steam distillation dari biji pilihan berkualitas. Minyak ini memiliki karakter aroma aromatik khas kapulaga dan banyak digunakan dalam industri parfum, aromaterapi",
+  "source_file": "2026_37_SBI-DD_MP_EO_Cardamom Java.docx"
+ },
+ {
+  "code": "CAS",
+  "name": "Cassiavera",
+  "latin_name": "Cinnamomum tamala",
+  "plant_part": "bark",
+  "cultivation_status": "cultivated",
+  "description": "Minyak atsiri Cassiavera diperoleh melalui proses penyulingan uap (steam distillation) dari kulit kayu Cinnamomum tamala. Minyak ini termasuk kategori middle note yang menghadirkan karakter aroma hangat, manis, pedas, serta memiliki daya sebar aroma yang cukup kuat. Cassiavera banyak digunakan pada formulasi aromaterap",
+  "source_file": "2026_SBI-DD_MP_EO_Cassiavera_Shopee_DD_Final.docx"
+ },
+ {
+  "code": "CBS",
+  "name": "Cumin Black Seed",
+  "latin_name": "Nigella sativa",
+  "plant_part": "rhizome",
+  "cultivation_status": "cultivated",
+  "description": "Hadirkan kehangatan rempah yang berenergi ke dalam formulasi produk Anda! Ginger Small Essential Oil diekstraksi menggunakan metode penyulingan uap (steam distillation) dari rimpang jahe emprit (Zingiber officinale var. amarum) pilihan yang tumbuh di wilayah Jawa Tengah. Minyak atsiri murni ini menawarkan harmoni kehar",
+  "source_file": "2026_65_SBI-DD_MP_EO_Cumin Black Seed_Final.docx"
+ },
+ {
+  "code": "CED",
+  "name": "Cedarwood",
+  "latin_name": "Juniperus virginiana",
+  "plant_part": "wood",
+  "cultivation_status": "cultivated",
+  "description": "Cedarwood Essential Oil adalah minyak atsiri premium dari Juniperus virginiana di wilayah USA yang diekstraksi melalui steam distillation (penyulingan uap) dari kayu bagian dalam (inner wood). Minyak ini dikenal dalam industri aromatik karena karakter aromanya yang hangat, woody, dan menenangkan, sehingga sering diguna",
+  "source_file": "2026_42_SBI-DD_MP_EO_Cedarwood.docx"
+ },
+ {
+  "code": "CHA",
+  "name": "Chamomile",
+  "latin_name": "Chamaemelum nobile",
+  "plant_part": "flowers",
+  "cultivation_status": "cultivated",
+  "description": "Chamomile Roman Essential Oil adalah minyak atsiri alami dari Chamaemelum nobile di wilayah Eropa yang diekstraksi melalui steam distillation (penyulingan uap) dari bunga tanaman chamomile. Minyak ini dikenal dalam industri aromatik karena karakter aromanya yang lembut, manis, dan herbal, sehingga sering digunakan dala",
+  "source_file": "2026_44_SBI-DD_MP_EO_Chamomile.docx"
+ },
+ {
+  "code": "CHI",
+  "name": "Chili Seed",
+  "latin_name": "Capsicum annuum",
+  "plant_part": "seeds",
+  "cultivation_status": "cultivated",
+  "description": "Minyak atsiri Chili Seed diperoleh dari ekstraksi biji cabai (Capsicum annuum L.) menggunakan metode Supercritical Fluid Extraction (SCFE), menghasilkan minyak dengan kualitas tinggi yang kaya akan senyawa aktif seperti capsaicin. Dalam formulasi aromatik, minyak ini termasuk base note yang memberikan kesan spicy-warm ",
+  "source_file": "2026_46_SBI-DD_MP_EO_Chili Seed_Final.docx"
+ },
+ {
+  "code": "CIN",
+  "name": "Cinnamon Bark",
+  "latin_name": "Cinnamomum burmannii",
+  "plant_part": "bark",
+  "cultivation_status": "cultivated",
+  "description": "Cinnamon Bark Essential Oil adalah minyak atsiri alami dari Cinnamomum burmannii di wilayah Kerinci, Jambi, Aceh, dan Lampung yang diperoleh melalui steam distillation (penyulingan uap) dari kulit batang (bark) kayu manis. Minyak ini banyak digunakan sebagai bahan baku dalam parfum, fragransi, aromaterapi, serta berbag",
+  "source_file": "2026_49_SBI-DD_MP_EO_Cinnamon Bark.docx"
+ },
+ {
+  "code": "CIT",
+  "name": "Citronella Ceylon",
+  "latin_name": "Cymbopogon nardus",
+  "plant_part": "leaves",
+  "cultivation_status": "cultivated",
+  "description": "Citronella (Citrun) Essential Oil 100% Pure | Minyak Atsiri Sereh Wangi Lenabatu | DDistillers",
+  "source_file": "2026_52_SBI-DD_MP_EO_Citronella Ceylon_Final.docx"
+ },
+ {
+  "code": "CIT2",
+  "name": "Citronella Java",
+  "latin_name": "Cymbopogon winterianus",
+  "plant_part": "leaves",
+  "cultivation_status": "cultivated",
+  "description": "Citronella Java Essential Oil adalah minyak atsiri murni yang diperoleh melalui proses steam distillation dari daun tanaman Cymbopogon winterianus di Pulau Jawa, Indonesia. Minyak ini memiliki aroma khas lemon-herbal yang segar, lembut namun kuat, sehingga sering digunakan sebagai top note dalam parfum natural, aromate",
+  "source_file": "2026_54_SBI-DD_MP_EO_Citronella Java_Final.docx"
+ },
+ {
+  "code": "CLA",
+  "name": "Clausena",
+  "latin_name": "Clausena excavata",
+  "plant_part": "leaves",
+  "cultivation_status": "cultivated",
+  "description": "Clausena Essential Oil adalah minyak atsiri alami dari Clausena Excavata di wilayah Sumatra Barat yang diperoleh melalui steam distillation (penyulingan uap) dari bagian daun tanaman clausena. Minyak ini dikenal dalam industri aromatik karena karakter aromanya yang segar, herbal, dan sedikit citrusy, sehingga sering di",
+  "source_file": "2026_56_SBI-DD_MP_EO_Clausena.docx"
+ },
+ {
+  "code": "CLA2",
+  "name": "Clary Sage",
+  "latin_name": "Salvia sclarea",
+  "plant_part": "leaves",
+  "cultivation_status": "cultivated",
+  "description": "Minyak atsiri Clary Sage diperoleh dari penyulingan uap daun dan bagian berbunga tanaman Salvia sclarea L. dari Rusia / Prancis melalui metode destilasi uap. Dalam formulasi aromatik dan parfum natural, Clary Sage Essential Oil biasanya dikategorikan sebagai middle note sehingga sering digunakan untuk memperkuat dan me",
+  "source_file": "2026_55_SBI-DD_MP_EO_Clary Sage_Final.docx"
+ },
+ {
+  "code": "CLO",
+  "name": "Clove Bud",
+  "latin_name": "Syzygium aromaticum",
+  "plant_part": "wood",
+  "cultivation_status": "cultivated",
+  "description": "Minyak atsiri Clove Stem diperoleh dari penyulingan uap gagang cengkeh kering (Syzygium aromaticum) yang dibudidayakan secara berkelanjutan di Jawa, Indonesia. Dalam formulasi aromatik, minyak ini berperan sebagai middle hingga top note, memberikan efek spicy-warm yang kuat dan memperkaya komposisi parfum, aromaterapi,",
+  "source_file": "2026_57_SBI-DD_MP_EO_Clove Bud.docx"
+ },
+ {
+  "code": "COF",
+  "name": "Coffee Arabica",
+  "latin_name": "Coffea arabica",
+  "plant_part": "seeds",
+  "cultivation_status": "cultivated",
+  "description": "Minyak atsiri Coffee Arabica diperoleh dari ekstraksi biji kopi (Coffea arabica L.) menggunakan metode Supercritical CO2 Fluid Extraction (SCFE CO2), yang mampu menghasilkan minyak berkualitas tinggi dengan aroma kopi panggang yang autentik. Dalam formulasi aromatik, minyak ini sebagai middle hingga base note yang memb",
+  "source_file": "2026_60_SBI-DD_MP_EO_Coffee Arabica_Final.docx"
+ },
+ {
+  "code": "COF2",
+  "name": "Coffee Robusta",
+  "latin_name": "Coffea canephora",
+  "plant_part": "seeds",
+  "cultivation_status": "cultivated",
+  "description": "Minyak atsiri Coffee Robusta diperoleh dari ekstraksi biji kopi Robusta matang (Coffea canephora Pierre ex A. Froehner) dari Aceh, Lampung dan Jawa menggunakan metode Supercritical CO2 Fluid Extraction (SCFE CO2). Karena karakter aromanya yang khas dan hangat, Coffee Robusta Essential Oil sering digunakan sebagai middl",
+  "source_file": "2026_61_SBI-DD_MP_EO_Coffee Robusta_Final.docx"
+ },
+ {
+  "code": "COR",
+  "name": "Coriander Leaf",
+  "latin_name": "Coriandrum sativum",
+  "plant_part": "seeds",
+  "cultivation_status": "cultivated",
+  "description": "Minyak atsiri Coriander Seed diperoleh dari penyulingan uap biji ketumbar (Coriandrum sativum) yang berasal dari Jawa dan Sumatra.. Dalam komposisi parfum alami, minyak ini sering digunakan sebagai middle hingga top note yang juga berfungsi sebagai fixative alami, membantu menyeimbangkan dan memperpanjang ketahanan aro",
+  "source_file": "2026_62_SBI-DD_MP_EO_Coriander Leaf_Final.docx"
+ },
+ {
+  "code": "CUB",
+  "name": "Cubeb",
+  "latin_name": "Piper cubeba",
+  "plant_part": "fruit",
+  "cultivation_status": "cultivated",
+  "description": "Minyak atsiri Cubeb diperoleh dari penyulingan uap buah atau biji kemukus (Piper cubeba) yang banyak tumbuh di wilayah Jawa Tengah. Dalam formulasi aromatik, minyak ini dikenal sebagai top note dengan karakter aroma pedas, hangat, dan sedikit woody-herbal, sehingga sering digunakan dalam parfum natural, aromaterapi, se",
+  "source_file": "2026_64_SBI-DD_MP_EO_Cubeb_Final.docx"
+ },
+ {
+  "code": "CUR",
+  "name": "Curcuma",
+  "latin_name": "Curcuma xanthorrhiza",
+  "plant_part": "rhizome",
+  "cultivation_status": "cultivated",
+  "description": "Bawa kehangatan rempah autentik ke dalam produk Anda! Curcuma Essential Oil diekstraksi melalui metode penyulingan uap dari rimpang temulawak (Curcuma xanthorrhiza) di Jawa, Bali, NTB, hingga Kalimantan Selatan, minyak atsiri murni ini menghasilkan aroma khas yang hangat dan menenangkan, menjadikannya bahan baku favori",
+  "source_file": "2026_67_SBI-DD_MP_EO_Curcuma_Shopee_DD_Final.docx"
+ },
+ {
+  "code": "CWS",
+  "name": "Cumin White Seed",
+  "latin_name": "Cuminum cyminum",
+  "plant_part": "seeds",
+  "cultivation_status": "cultivated",
+  "description": "Minyak atsiri Cumin White diperoleh dari penyulingan uap (steam distillation) biji tanaman Cuminum cyminum yang dikenal luas sebagai rempah aromatik sejak ribuan tahun lalu. Dalam formulasi aromatik, minyak ini termasuk dalam kategori top to middle note dengan karakter aroma pedas, hangat, dan herba yang kuat, sehingga",
+  "source_file": "2026_66_SBI-DD_MP_EO_Cumin White Seed_Final.docx"
+ },
+ {
+  "code": "DAR",
+  "name": "Darkwood",
+  "latin_name": "Diospyros celebica",
+  "plant_part": "wood",
+  "cultivation_status": "cultivated",
+  "description": "Darkwood Essential Oil adalah minyak atsiri alami yang diperoleh dari kayu Diospyros Celebica di wilayah Papua, Maluku, dan Sulawesi yang diekstraksi melalui steam distillation (penyulingan uap) dari bagian kayu dalam (inner wood).  Minyak ini cocok sebagai bahan baku dalam parfum natural, aromaterapi, fragransi, serta",
+  "source_file": "2026_69_SBI-DD_MP_EO_Darkwood.docx"
+ },
+ {
+  "code": "EUC",
+  "name": "Eucalyptus Java",
+  "latin_name": "Eucalyptus urophylla",
+  "plant_part": "leaves",
+  "cultivation_status": "cultivated",
+  "description": "Minyak atsiri Eucalyptus Java diperoleh dari penyulingan uap daun dan ranting kecil Eucalyptus urophylla yang tumbuh di wilayah Jawa, Indonesia. Dalam formulasi aromatik, minyak ini termasuk top note, karakter aroma ini sangat ideal digunakan dalam aromaterapi, produk wellness, hingga berbagai formulasi personal care d",
+  "source_file": "2026_72_SBI-DD_MP_EO_Eucalyptus Java_Final.docx"
+ },
+ {
+  "code": "FEN",
+  "name": "Fennel",
+  "latin_name": "Foeniculum vulgare",
+  "plant_part": "seeds",
+  "cultivation_status": "cultivated",
+  "description": "Minyak atsiri Fennel diperoleh dari penyulingan uap biji tanaman adas (Foeniculum vulgare) dari wilayah Jawa dan Sumatra. Dalam komposisi parfum dan formulasi aromatik, minyak ini umumnya berfungsi sebagai top hingga middle note, sehingga cocok digunakan dalam formulasi parfum, aromaterapi, natural kosmetik, atau produ",
+  "source_file": "2026_73_SBI-DD_MP_EO_Fennel_Final.docx"
+ },
+ {
+  "code": "FEN2",
+  "name": "Fenugreek",
+  "latin_name": "Trigonella foenum-graecum",
+  "plant_part": "seeds",
+  "cultivation_status": "cultivated",
+  "description": "Minyak atsiri Fenugreek diperoleh dari penyulingan uap biji tanaman klabet (Trigonella foenum-graecum) dari wilayah Mediterania dan Asia Barat. Dalam formulasi parfum dan aromaterapi, minyak ini umumnya berfungsi sebagai middle note. Fenugreek banyak dimanfaatkan dalam formulasi herbal dan kosmetik alami.",
+  "source_file": "2026_74_SBI-DD_MP_EO_Fenugreek_Final.docx"
+ },
+ {
+  "code": "FIN",
+  "name": "Fingerroot",
+  "latin_name": "Boesenbergia rotunda",
+  "plant_part": "rhizome",
+  "cultivation_status": "cultivated",
+  "description": "Bawa keunikan aroma herba tradisional ke dalam formulasi produk Anda! Fingerroot Essential Oil diekstrak secara higienis menggunakan metode penyulingan uap dari rimpang temukunci (Boesenbergia rotunda) dari Jawa, Sumatra, hingga Kalimantan, minyak atsiri murni ini menawarkan harmoni aroma hangat dan segar yang sangat p",
+  "source_file": "2026_75_SBI-DD_MP_EO_Fingerroot_Final.docx"
+ },
+ {
+  "code": "FRA",
+  "name": "Frankincense",
+  "latin_name": "Boswellia carterii",
+  "plant_part": "wood",
+  "cultivation_status": "cultivated",
+  "description": "Frankincense Essential Oil diperoleh melalui proses destilasi uap dari resin atau gum pohon Boswellia carterii dari India. Resin aromatik ini telah lama dikenal sebagai bahan dupa dan parfum alami dengan aroma khas resinous, woody, balsamic, dan sedikit smoky-lemon yang elegan. Karakter aromanya sebagai base note sekal",
+  "source_file": "2026_78_SBI-DD_MP_EO_Frankincense_Final.docx"
+ },
+ {
+  "code": "GAL",
+  "name": "Galangal",
+  "latin_name": "Alpinia officinalis",
+  "plant_part": "rhizome",
+  "cultivation_status": "cultivated",
+  "description": "Hadirkan keunikan aroma rempah tropis ke dalam formulasi produk Anda! Galangal Essential Oil dari DDistillers diekstraksi menggunakan metode penyulingan uap (steam distillation) dari rimpang lengkuas (Alpinia officinalis) di wilayah Jawa, Sumatra, dan Bali. Minyak atsiri murni ini menawarkan harmoni keharuman rempah se",
+  "source_file": "2026_79_SBI-DD_MP_EO_Galangal.docx"
+ },
+ {
+  "code": "GAR",
+  "name": "Garlic",
+  "latin_name": "Allium sativum",
+  "plant_part": "roots",
+  "cultivation_status": "cultivated",
+  "description": "Minyak atsiri Garlic diperoleh dari penyulingan uap (steam distillation) bahan tanaman Allium sativum yang telah lama dikenal sebagai rempah dengan karakter aroma yang sangat kuat dan khas. Dalam formulasi aromatik, minyak ini termasuk middle to base dan sering digunakan dalam formulasi aromatik khusus, herbal, hingga ",
+  "source_file": "2026_81_SBI-DD_MP_EO_Garlic_Final.docx"
+ },
+ {
+  "code": "GER",
+  "name": "Geranium",
+  "latin_name": "Pelargonium graveolens",
+  "plant_part": "leaves",
+  "cultivation_status": "cultivated",
+  "description": "Hadirkan kemewahan aroma floral yang elegan ke dalam formulasi produk Anda! Geranium Essential Oil diekstraksi menggunakan metode penyulingan uap dari daun tanaman Pelargonium graveolens di wilayah Afrika Selatan. Minyak atsiri murni ini menawarkan harmoni keharuman floral-rosy yang manis dan berkelas, sangat pas untuk",
+  "source_file": "2026_82_SBI-DD_MP_EO_Geranium.docx"
+ },
+ {
+  "code": "GIN2",
+  "name": "Ginger (Red)",
+  "latin_name": "Zingiber officinale",
+  "plant_part": "rhizome",
+  "cultivation_status": "cultivated",
+  "description": "Minyak atsiri Ginger Small diperoleh dari penyulingan uap rimpang jahe emprit (Zingiber officinale var. amarum) dari wilayah Jawa Tengah menggunakan metode steam distillation. Dalam formulasi aromatik, minyak ini sering digunakan sebagai middle note yang memberikan karakter aroma warm-spicy, citrus-fresh, dan slightly ",
+  "source_file": "2026_83_SBI-DD_MP_EO_Ginger (Red).docx"
+ },
+ {
+  "code": "GIN3",
+  "name": "Ginger Wild",
+  "latin_name": "Zingiber zerumbet",
+  "plant_part": "rhizome",
+  "cultivation_status": "wild",
+  "description": "Ginger Wild Essential Oil adalah minyak atsiri yang diperoleh dari penyulingan uap rimpang lempuyang wangi (Zingiber zerumbet) di wilayah Jawa. Komposisi minyaknya didominasi oleh senyawa seskuiterpena, terutama zerumbone, yang memberikan profil aroma hangat, spicy, dan stabil sehingga banyak digunakan dalam industri p",
+  "source_file": "2026_88_SBI-DD_MP_EO_Ginger Wild_Final.docx"
+ },
+ {
+  "code": "GRA",
+  "name": "Grapefruit",
+  "latin_name": "Citrus × paradisi",
+  "plant_part": "fruit",
+  "cultivation_status": "cultivated",
+  "description": "Minyak atsiri Grapefruit diperoleh dari ekstraksi kulit buah grapefruit (Citrus paradisi) dari Australia melalui proses penyulingan uap. Dalam formulasi aromatik, Grapefruit Essential Oil umumnya digunakan sebagai top note yang memberikan kesan bright, fresh, dan uplifting, sehingga sangat cocok untuk parfum natural, a",
+  "source_file": "2026_89_SBI-DD_MP_EO_Grapefruit_Final.docx"
+ },
+ {
+  "code": "GRE",
+  "name": "Green Tea",
+  "latin_name": "Camellia sinensis",
+  "plant_part": "leaves",
+  "cultivation_status": "cultivated",
+  "description": "Minyak atsiri Green Tea Leaf diperoleh dari daun tanaman teh (Camellia sinensis) di wilayah Asia Timur dan Tenggara melalui proses ekstraksi CO2. Dalam formulasi aromatik, minyak ini biasanya berperan sebagai middle note yang memberikan karakter green, fresh-herbal, slightly floral, sehingga banyak digunakan dalam parf",
+  "source_file": "2026_90_SBI-DD_MP_EO_Green Tea_Final.docx"
+ },
+ {
+  "code": "GUR",
+  "name": "Gurjun Dark",
+  "latin_name": "Dipterocarpus sp.",
+  "plant_part": "wood",
+  "cultivation_status": "cultivated",
+  "description": "Hadirkan keanggunan aroma kayu tropis Nusantara ke dalam kreasi produk Anda! Gurjun Dark Essential Oil diekstraksi dari getah (gum tree) tanaman Dipterocarpus sp. asal Sumatra, Kalimantan, dan Jawa yang kaya akan resin aromatik alami. Melalui metode penyulingan uap dan air (steam & water distillation) yang higienis, ka",
+  "source_file": "2026_91_SBI-DD_MP_EO_Gurjun Dark_Shopee_DD_Final.docx"
+ },
+ {
+  "code": "GUR2",
+  "name": "Eucalyptus",
+  "latin_name": "Eucalyptus globulus",
+  "plant_part": "leaves",
+  "cultivation_status": "cultivated",
+  "description": "Eucalyptus Essential Oil adalah minyak atsiri alami yang diperoleh dari daun dan ranting tanaman Eucalyptus Globulus di wilayah Australia yang diekstraksi melalui steam distillation (penyulingan uap). Minyak ini banyak digunakan sebagai bahan baku dalam parfum, aromaterapi, dan produk perawatan tubuh karena aroma segar, tajam, dan khas cineole.",
+  "source_file": "2026_71_SBI-DD_MP_EO_Eucalyptus.docx"
+ },
+ {
+  "code": "JUN",
+  "name": "Juniper Berry",
+  "latin_name": "Juniperus communis",
+  "plant_part": "fruit",
+  "cultivation_status": "cultivated",
+  "description": "Juniper Berry Essential Oil adalah minyak atsiri alami yang diperoleh dari buah tanaman Juniperus communis di wilayah Eropa yang diekstraksi melalui steam distillation (penyulingan uap) dari buah beri juniper. Minyak ini banyak dimanfaatkan sebagai bahan baku dalam parfum natural, aromaterapi, produk spa, serta berbaga",
+  "source_file": "2026_97_SBI-DD_MP_EO_Juniper Berry.docx"
+ },
+ {
+  "code": "KAE",
+  "name": "Kaempferia",
+  "latin_name": "Kaempferia galanga",
+  "plant_part": "rhizome",
+  "cultivation_status": "cultivated",
+  "description": "Minyak atsiri Kaempferia diperoleh dari penyulingan uap rimpang kencur (Kaempferia galanga L.) yang tumbuh di Indonesia. Dalam formulasi aromatik, minyak ini termasuk middle note dengan karakter hangat, pedas, dan segar, sehingga banyak digunakan dalam aromaterapi, produk herbal, hingga formulasi perawatan tubuh berbas",
+  "source_file": "2026_98_SBI-DD_MP_EO_Kaempferia_Final.docx"
+ },
+ {
+  "code": "KLL",
+  "name": "Kaffir Lime Leaf",
+  "latin_name": "Citrus hystrix",
+  "plant_part": "leaves",
+  "cultivation_status": "cultivated",
+  "description": "Minyak atsiri Kaffir Lime Leaf diperoleh dari penyulingan uap daun jeruk purut (Citrus hystrix) dari wilayah Jawa Barat dan Bali. Minyak ini memiliki aroma khas citrus yang segar, hijau, dan sedikit manis dengan karakter yang menyerupai jeruk nipis, sehingga sering digunakan sebagai top hingga middle note dalam komposi",
+  "source_file": "2026_100_SBI-DD_MP_EO_Kaffir Lime Leaf_Final.docx"
+ },
+ {
+  "code": "LAJ",
+  "name": "Laja Gowah",
+  "latin_name": "Alpinia malaccensis",
+  "plant_part": "rhizome",
+  "cultivation_status": "cultivated",
+  "description": "Minyak atsiri Lajagowah diperoleh dari penyulingan uap rimpang tanaman Lengkuas Dapur (Alpinia malaccensis) dari Pulau Jawa, Sumatra, dan Kalimantan. Dalam formulasi aromatik, minyak ini sering digunakan sebagai middle hingga top note yang memberikan nuansa hangat, pedas, woody, dan aromatic khas lengkuas, sehingga coc",
+  "source_file": "2026_102_SBI-DD_MP_EO_Laja gowah_Final.docx"
+ },
+ {
+  "code": "LAK",
+  "name": "Lakawood",
+  "latin_name": "Dalbergia parviflora",
+  "plant_part": "wood",
+  "cultivation_status": "cultivated",
+  "description": "Minyak atsiri Lakawood diperoleh dari penyulingan uap bagian heartwood (kayu inti) tanaman kayu Laka (Dalbergia parviflora Roxb.) dari Kalimantan, Papua, Maluku, Sulawesi. Dalam formulasi aromatik, minyak ini sering digunakan sebagai base note yang memberikan nuansa deep woody, hangat, balsamic, dan sedikit manis, sehi",
+  "source_file": "2026_103_SBI-DD_MP_EO_Lakawood_Final.docx"
+ },
+ {
+  "code": "LAV",
+  "name": "Lavender",
+  "latin_name": "Lavandula angustifolia",
+  "plant_part": "flowers",
+  "cultivation_status": "wild",
+  "description": "Lavender Wild Essential Oil diperoleh melalui proses destilasi uap (steam distillation) dari bunga dan pucuk batang berbunga tanaman lavender sejati Lavandula angustifolia. Tanaman aromatik ini berasal dari wilayah Mediterania dan telah lama dikenal sebagai salah satu sumber minyak atsiri paling penting dalam industri ",
+  "source_file": "2026_105_SBI-DD_MP_EO_Lavender_Final.docx"
+ },
+ {
+  "code": "LCP2",
+  "name": "Lemon Cold Press",
+  "latin_name": "Citrus medica",
+  "plant_part": "fruit",
+  "cultivation_status": "cultivated",
+  "description": "Hadirkan kesegaran citrus ke dalam formula produk Anda! Lemon Cold Press Essential Oil diekstraksi menggunakan metode cold pressed (tekan dingin) tanpa pemanasan langsung dari kulit buah lemon (Citrus medica limonum) asal Jawa Barat. Proses alami ini menjaga kesegaran esensi buah tetap utuh, menghasilkan minyak berkual",
+  "source_file": "2026_107_SBI-DD_MP_EO_Lemon Cold Press.docx"
+ },
+ {
+  "code": "LEI",
+  "name": "Lemongrass East India",
+  "latin_name": "Cymbopogon flexuosus",
+  "plant_part": "leaves",
+  "cultivation_status": "cultivated",
+  "description": "Hadirkan energi kesegaran citrus tropis ke dalam lini produk Anda! Lemongrass East Indian Essential Oil diekstraksi melalui metode penyulingan uap (steam distillation) dari daun tanaman Cymbopogon flexuosus dari Sumatra Utara, Aceh, Kalimantan Selatan, dan NTB. Minyak atsiri murni ini menawarkan karakter aroma segar ya",
+  "source_file": "2026_109_SBI-DD_MP_EO_Lemongrass East India.docx"
+ },
+ {
+  "code": "LEM2",
+  "name": "Lemon Steam",
+  "latin_name": "Citrus × limon",
+  "plant_part": "fruit",
+  "cultivation_status": "cultivated",
+  "description": "Minyak atsiri Lemon SCFE diperoleh melalui metode Supercritical Fluid Extraction (SCFE) dari kulit buah lemon (Citrus Medica Limonum) dari Jawa Barat. Dalam formulasi aromatik, minyak ini termasuk top note yang memberikan kesan segar, uplifting, dan meningkatkan focus ideal untuk aromaterapi, parfum natural, hingga for",
+  "source_file": "2026_106_SBI-DD_MP_EO_Lemon Steam_Final.docx"
+ },
+ {
+  "code": "LIM",
+  "name": "Limau",
+  "latin_name": "Citrus amblycarpa",
+  "plant_part": "fruit",
+  "cultivation_status": "cultivated",
+  "description": "Minyak atsiri Limau diperoleh dari penyulingan uap kulit buah jeruk limau (Citrus amblycarpa) yang dibudidayakan secara berkelanjutan di wilayah Jawa, Sumatra, Kalimantan, dan Bali. Dalam formulasi aromatik, minyak ini dikenal sebagai top note dengan karakter aroma citrus yang segar, tajam, dan sedikit herbal, sehingga",
+  "source_file": "2026_112_SBI-DD_MP_EO_Limau_Final.docx"
+ },
+ {
+  "code": "LIM2",
+  "name": "Lime",
+  "latin_name": "Citrus aurantifolia",
+  "plant_part": "fruit",
+  "cultivation_status": "cultivated",
+  "description": "Minyak atsiri Lime diperoleh dari penyulingan uap kulit buah jeruk nipis (Citrus aurantifolia) yang dibudidayakan secara berkelanjutan di wilayah Jawa Timur. Dalam formulasi aromatik, minyak ini dikenal sebagai top note dengan karakter aroma citrus yang segar, tajam, dan zesty, sehingga banyak digunakan dalam parfum na",
+  "source_file": "2026_111_SBI-DD_MP_EO_Lime_Final.docx"
+ },
+ {
+  "code": "LON",
+  "name": "Long Pepper",
+  "latin_name": "Piper retrofractum",
+  "plant_part": "seeds",
+  "cultivation_status": "cultivated",
+  "description": "Minyak atsiri Long Pepper diperoleh dari penyulingan uap buah cabai jawa (Piper retrofractum) yang dibudidayakan secara berkelanjutan di Jawa, Sumatra, dan Bali. Dalam formulasi aromatik, minyak ini dikenal sebagai top note dengan karakter aroma hangat, pedas, dan sedikit manis yang bersahaja, sehingga ideal digunakan ",
+  "source_file": "2026_113_SBI-DD_MP_EO_Long Pepper_Final.docx"
+ },
+ {
+  "code": "LWI",
+  "name": "Lemongrass West India",
+  "latin_name": "Cymbopogon citratus",
+  "plant_part": "leaves",
+  "cultivation_status": "cultivated",
+  "description": "Lemongrass (West Indian) Essential Oil 100% Pure | Minyak Sereh Dapur (Barat) | DDistillers",
+  "source_file": "2026_110_SBI-DD_MP_EO_Lemongrass West India.docx"
+ },
+ {
+  "code": "MAR",
+  "name": "Marjoram",
+  "latin_name": "Thymus mastichina",
+  "plant_part": "leaves",
+  "cultivation_status": "cultivated",
+  "description": "Lengkapi kebutuhan formulasi produk natural Anda dengan Marjoram Essential Oil yang diekstraksi melalui metode penyulingan uap (steam distillation) dari bagian pucuk berbunga (flowering plant) tanaman Thymus mastichina yang bersumber dari Spanyol. Menawarkan karakter aroma herbal yang kaya akan senyawa aromatik, minyak",
+  "source_file": "2026_118_SBI-DD_MP_EO_Marjoram.docx"
+ },
+ {
+  "code": "MAS",
+  "name": "Massoia Bark",
+  "latin_name": "Cryptocarya massoy",
+  "plant_part": "bark",
+  "cultivation_status": "cultivated",
+  "description": "Hadirkan sentuhan eksotis alami dalam racikan Anda dengan Minyak Atsiri Massoia Bark dari DDistillers. Diekstrak dengan cermat melalui destilasi uap dari kulit batang Cryptocarya massoy (Oken) Kosterm. asli dari Papua, Indonesia. Minyak esensial ini merupakan base note istimewa untuk berbagai kreasi parfum natural, pro",
+  "source_file": "2026_119_SBI-DD_MP_EO_Massoia Bark_Final.docx"
+ },
+ {
+  "code": "MAY",
+  "name": "May Chang",
+  "latin_name": "Litsea cubeba",
+  "plant_part": "fruit",
+  "cultivation_status": "cultivated",
+  "description": "Minyak atsiri May Chang dari DDistillers diperoleh melalui proses destilasi uap dari buah tanaman Litsea cubeba di Jawa, Indonesia. Dalam formulasi aromatik, minyak ini termasuk top to middle note, cocok digunakan dalam aromaterapi, natural perfumery, hingga berbagai formulasi perawatan tubuh berbasis bahan alami.",
+  "source_file": "2026_120_SBI-DD_MP_EO_May Chang_Final.docx"
+ },
+ {
+  "code": "NER",
+  "name": "Neroli",
+  "latin_name": "Citrus aurantium",
+  "plant_part": "flowers",
+  "cultivation_status": "cultivated",
+  "description": "Neroli Essential Oil adalah minyak atsiri premium dari bunga Citrus aurantium yang diperoleh di wilayah China melalui metode steam distillation. Minyak ini cocok digunakan dalam parfum premium, aromaterapi, serta formulasi kosmetik natural.",
+  "source_file": "2026_125_SBI-DD_MP_EO_Neroli.docx"
+ },
+ {
+  "code": "NLF",
+  "name": "Mace",
+  "latin_name": "Myristica fragrans",
+  "plant_part": "seeds",
+  "cultivation_status": "cultivated",
+  "description": "Hadirkan karakter aroma rempah yang segar dan khas ke dalam formulasi Anda dengan Nutmeg Leaf Essential Oil yang disuling dengan metode uap (steam distillation) dari daun pohon pala (Myristica fragrans) pilihan yang berasal dari perkebunan terbaik di Maluku, Aceh, Sumatra Barat, dan Sulawesi. Kaya akan senyawa aromatik",
+  "source_file": "2026_114_SBI-DD_MP_EO_Mace_Final.docx"
+ },
+ {
+  "code": "ONI2",
+  "name": "Onion",
+  "latin_name": "Allium cepa",
+  "plant_part": "roots",
+  "cultivation_status": "cultivated",
+  "description": "Minyak atsiri Onion Grade A diperoleh dari penyulingan uap biji Allium cepa L. yang berasal dari Pulau Jawa melalui metode steam distillation. Minyak ini memiliki karakter aroma khas bawang bombai yang kuat, tajam, dan menyengat, dengan profil sebagai middle note yang memberikan kesan warm, pungent, dan herbal. Cocok d",
+  "source_file": "2026_131_SBI-DD_MP_EO_Onion_Final.docx"
+ },
+ {
+  "code": "ORI",
+  "name": "Origanum",
+  "latin_name": "Origanum vulgare",
+  "plant_part": "leaves",
+  "cultivation_status": "cultivated",
+  "description": "Minyak atsiri Origanum diperoleh dari penyulingan uap daun Origanum vulgare yang berasal dari wilayah Eurasia. Melalui metode steam distillation, dihasilkan minyak berwarna orange hingga orange keemasan dengan aroma khas yang kuat, herbal, hangat, dan sedikit terpenic. Dalam formulasi aromatik, minyak ini termasuk midd",
+  "source_file": "2026_130_SBI-DD_MP_EO_Origanum_Final.docx"
+ },
+ {
+  "code": "PAL",
+  "name": "Palmarosa",
+  "latin_name": "Cymbopogon martinii",
+  "plant_part": "leaves",
+  "cultivation_status": "cultivated",
+  "description": "Minyak atsiri Palmarosa diperoleh dari penyulingan uap rumput (daun) Cymbopogon martinii yang berasal dari India. Dalam formulasi aromatik, minyak ini termasuk kategori top to middle note dengan karakter aroma floral–grassy yang lembut, sehingga sangat ideal untuk parfum natural, aromaterapi, hingga produk perawatan tu",
+  "source_file": "2026_132_SBI-DD_MP_EO_Palmarosa_Final.docx"
+ },
+ {
+  "code": "PAT",
+  "name": "Patchouli Java",
+  "latin_name": "Pogostemon cablin",
+  "plant_part": "leaves",
+  "cultivation_status": "cultivated",
+  "description": "Patchouli (Sumatra) Essential Oil adalah minyak atsiri premium dari Pogostemon cablin di wilayah Sumatra Barat, Aceh, Bengkulu, dan Lampung yang diekstraksi melalui steam distillation (penyulingan uap) dari daun dan batang nilam Sumatra yang dikenal memiliki karakter aroma lebih pekat, dalam, dan well-aged. Dengan kand",
+  "source_file": "2026_134_SBI-DD_MP_EO_Patchouli Java.docx"
+ },
+ {
+  "code": "PEN",
+  "name": "Pennyroyal",
+  "latin_name": "Mentha pulegium",
+  "plant_part": "flowers",
+  "cultivation_status": "cultivated",
+  "description": "Pennyroyal Essential Oil adalah minyak atsiri premium dari Mentha pulegium L. di wilayah Eropa, Afrika Utara, dan Timur Tengah yang diekstraksi melalui water distillation (penyulingan air) dari bunga tanaman pennyroyal yang kaya senyawa aromatik mint. Minyak ini memiliki karakter aroma minty, mentholic, dan slightly wo",
+  "source_file": "2026_138_SBI-DD_MP_EO_Pennyroyal.docx"
+ },
+ {
+  "code": "PEP",
+  "name": "Peppermint Cornmint",
+  "latin_name": "Mentha arvensis",
+  "plant_part": "seeds",
+  "cultivation_status": "cultivated",
+  "description": "Peppermint Arvensis (Cornmint) Essential Oil 100% Pure | Minyak Atsiri Daun Mint | DDistillers",
+  "source_file": "2026_142_SBI-DD_MP_EO_Peppermint Cornmint_Final.docx"
+ },
+ {
+  "code": "PEP2",
+  "name": "Peppermint Piperita",
+  "latin_name": "Mentha piperita",
+  "plant_part": "seeds",
+  "cultivation_status": "cultivated",
+  "description": "Peppermint Piperita Essential Oil diperoleh melalui proses destilasi uap (steam distillation) dari daun dan tangkai tanaman Mentha piperita yang termasuk dalam keluarga Lamiaceae (mint family) dari Jawa Timur, Indonesia. Peppermint Essential Oil banyak digunakan dalam industri aromaterapi, kosmetik natural, perawatan t",
+  "source_file": "2026_143_SBI-DD_MP_EO_Peppermint Piperita_Final.docx"
+ },
+ {
+  "code": "PEP3",
+  "name": "Peppermint Spearmint",
+  "latin_name": "Mentha spicata",
+  "plant_part": "seeds",
+  "cultivation_status": "cultivated",
+  "description": "Minyak atsiri Peppermint Spearmint diperoleh melalui proses penyulingan uap daun Mentha spicata yang dibudidayakan secara berkelanjutan di Asia Barat. Minyak ini dikenal sebagai top note dengan karakter aroma mint yang segar, ringan, dan menyegarkan, sehingga sangat ideal digunakan dalam formulasi aromaterapi, parfum n",
+  "source_file": "2026_144_SBI-DD_MP_EO_Peppermint Spearmint_Final.docx"
+ },
+ {
+  "code": "PLA",
+  "name": "Plai",
+  "latin_name": "Zingiber purpureum",
+  "plant_part": "rhizome",
+  "cultivation_status": "cultivated",
+  "description": "Plai Essential Oil adalah minyak atsiri premium dari Zingiber purpureum (bangle) di wilayah Jawa, Kalimantan, dan Sumatra yang diekstraksi melalui steam distillation (penyulingan uap) dari rimpang yang kaya senyawa aktif aromatik. Minyak ini memiliki karakter aroma herbaceous, spicy, dan slightly medicinal, serta diken",
+  "source_file": "2026_151_SBI-DD_MP_EO_Plai.docx"
+ },
+ {
+  "code": "PWS",
+  "name": "Pepper Black",
+  "latin_name": "Piper nigrum",
+  "plant_part": "seeds",
+  "cultivation_status": "cultivated",
+  "description": "Minyak atsiri Pepper White Seed diperoleh dari penyulingan uap biji Piper nigrum L. yang berasal dari Bangka. Dalam formulasi aromatik, minyak ini termasuk kategori middle to top note dengan karakter spicy-fresh yang elegan, sehingga sangat cocok untuk parfum natural, aromaterapi, maupun formulasi produk perawatan tubu",
+  "source_file": "2026_139_SBI-DD_MP_EO_Pepper Black_Final.docx"
+ },
+ {
+  "code": "QUS",
+  "name": "Qusthul Hindi",
+  "latin_name": "Saussurea costus",
+  "plant_part": "wood",
+  "cultivation_status": "cultivated",
+  "description": "Minyak atsiri Qusthul Hindi diperoleh dari penyulingan uap akar tanaman Saussurea costus yang dikenal sebagai tanaman herbal dengan sejarah panjang dalam pengobatan tradisional di Asia. Dalam formulasi aromatik, minyak ini termasuk base note dengan karakter aroma yang dalam, hangat, dan earthy, sehingga ideal digunakan",
+  "source_file": "2026_152_SBI-DD_MP_EO_Qusthul Hindi_Final.docx"
+ },
+ {
+  "code": "ROS",
+  "name": "Rosewood",
+  "latin_name": "Aniba rosaeodora",
+  "plant_part": "wood",
+  "cultivation_status": "cultivated",
+  "description": "Minyak atsiri Rosewood diperoleh dari penyulingan uap bagian kayu dalam (inner wood) tanaman Aniba rosaeodora dari Brazil. Minyak ini dikenal memiliki aroma khas kayu yang lembut, manis, dan sedikit floral, sehingga sering digunakan sebagai middle hingga top note dalam formulasi parfum natural. Karakternya yang halus d",
+  "source_file": "2026_159_SBI-DD_MP_EO_Rosewood_Final.docx"
+ },
+ {
+  "code": "ROS2",
+  "name": "Rose Damask",
+  "latin_name": "Rosa × damascena",
+  "plant_part": "flowers",
+  "cultivation_status": "cultivated",
+  "description": "Rose Steam Essential Oil 100% Pure | Minyak Atsiri Mawar Damask (Rosa damascena) | DDistillers",
+  "source_file": "2026_157_SBI-DD_MP_EO_Rose Damask_Final.docx"
+ },
+ {
+  "code": "ROS4",
+  "name": "Rosemary",
+  "latin_name": "Rosmarinus officinalis",
+  "plant_part": "flowers",
+  "cultivation_status": "cultivated",
+  "description": "Minyak atsiri Rosemary diperoleh melalui proses penyulingan uap dari pucuk dan daun berbunga Rosmarinus officinalis dari Pulau Jawa. Dalam formulasi aromatik, minyak ini berperan sebagai middle note yang memberikan nuansa fresh-herbal, energizing, dan clean, sehingga cocok digunakan dalam parfum natural, aromaterapi, s",
+  "source_file": "2026_158_SBI-DD_MP_EO_Rosemary_Final.docx"
+ },
+ {
+  "code": "SAN",
+  "name": "Sandalwood Papua",
+  "latin_name": "Santalum sp.",
+  "plant_part": "wood",
+  "cultivation_status": "cultivated",
+  "description": "Sandalwood Papua Essential Oil adalah minyak atsiri alami yang diperoleh dari kayu Santalum sp. Di wilayah Papua yang diekstraksi melalui steam distillation (penyulingan uap) dari bagian kayu teras (heartwood) yang kaya senyawa aromatik. Minyak ini banyak digunakan sebagai bahan baku dalam parfum premium, aromaterapi, ",
+  "source_file": "2026_163_SBI-DD_MP_EO_Sandalwood Papua.docx"
+ },
+ {
+  "code": "SAN2",
+  "name": "Sandalwood Aceh",
+  "latin_name": "Santalum album",
+  "plant_part": "wood",
+  "cultivation_status": "cultivated",
+  "description": "Sandalwood (Kupang) Essential Oil adalah minyak atsiri premium dari Santalum album (cendana NTT) di wilayah Kupang dan Nusa Tenggara Timur yang diekstraksi melalui steam distillation (penyulingan uap) dari kayu bagian dalam (inner wood) yang kaya senyawa aromatik santalol. Minyak ini memiliki karakter aroma sweet, crea",
+  "source_file": "2026_161_SBI-DD_MP_EO_Sandalwood Aceh_Final.docx"
+ },
+ {
+  "code": "SHA2",
+  "name": "Shallot",
+  "latin_name": "Allium ascalonicum",
+  "plant_part": "seeds",
+  "cultivation_status": "cultivated",
+  "description": "Shallot Essential Oil adalah minyak atsiri premium dari Allium ascalonicum L. (bawang merah) di wilayah Jawa Tengah, Jawa Timur, Sulawesi Selatan, dan NTB yang diekstraksi melalui steam distillation (penyulingan uap) dari biji yang kaya senyawa sulfur aromatik. Minyak ini memiliki karakter aroma tajam, fresh khas bawan",
+  "source_file": "2026_165_SBI-DD_MP_EO_Shallot.docx"
+ },
+ {
+  "code": "SMA2",
+  "name": "Jasmine Absolute",
+  "latin_name": "Jasminum sambac",
+  "plant_part": "flowers",
+  "cultivation_status": "cultivated",
+  "description": "Jasmine Absolute adalah minyak absolut premium dari Jasminum sambac yang diperoleh di wilayah Jawa, DIY, Sumatra Utara, dan Bali yang diekstraksi melalui metode solvent extraction dari bunga melati pilihan berkualitas. Minyak ini sangat cocok sebagai bahan baku parfum premium, fragransi natural, kosmetik high-end, sert",
+  "source_file": "2026_96_SBI-DD_MP_AO_Jasmine Absolute.docx"
+ },
+ {
+  "code": "SMA32",
+  "name": "Magnolia",
+  "latin_name": "Magnolia champaca",
+  "plant_part": "flowers",
+  "cultivation_status": "cultivated",
+  "description": "Magnolia Champaca Absolute Oil 100% Pure | Minyak Absolut Bunga Cempaka Kuning | DDistillers",
+  "source_file": "2026_115_SBI-DD_MP_AO_Magnolia_Final.docx"
+ },
+ {
+  "code": "SMA4",
+  "name": "Frangipani",
+  "latin_name": "Plumeria alba",
+  "plant_part": "flowers",
+  "cultivation_status": "cultivated",
+  "description": "Frangipani Absolute Oil adalah minyak yang diperoleh dari bunga Plumeria alba (kamboja putih) dari Bali dan Jawa Timur melalui metode solvent extraction. Dalam komposisi parfum, Frangipani Absolute umumnya berfungsi sebagai middle note, memberikan kedalaman aroma serta kesan sensual dan elegan pada berbagai formulasi p",
+  "source_file": "2026_76_SBI-DD_MP_AO_Frangipani_Final.docx"
+ },
+ {
+  "code": "SMA5",
+  "name": "Tuberose",
+  "latin_name": "Polianthes tuberosa",
+  "plant_part": "flowers",
+  "cultivation_status": "cultivated",
+  "description": "Tuberose Absolute Oil merupakan ekstrak aromatik konsentrat yang diperoleh dari bunga sedap malam (Polianthes tuberosa L.) melalui metode solvent extraction. Dalam dunia perfumery, tuberose dikenal sebagai middle hingga base note yang memberikan kesan mewah, sensual, dan tahan lama pada berbagai formulasi parfum, kosme",
+  "source_file": "2026_181_SBI-DD_MP_AO_Tuberose_Final.docx"
+ },
+ {
+  "code": "SMA6",
+  "name": "Rose",
+  "latin_name": "Rosa × hybrida",
+  "plant_part": "flowers",
+  "cultivation_status": "cultivated",
+  "description": "Rose Absolute Oil adalah minyak atsiri premium dari Rosa hybrida di wilayah Java yang diekstraksi melalui solvent extraction dari bunga mawar untuk menghasilkan aroma floral yang kaya dan kompleks. Minyak ini memiliki karakter classic floral dengan kedalaman resinous, menjadikannya salah satu bahan paling berharga dala",
+  "source_file": "2026_155_SBI-DD_MP_AO_Rose.docx"
+ },
+ {
+  "code": "SMA7",
+  "name": "Benzoin Toba",
+  "latin_name": "Styrax paralleloneurus",
+  "plant_part": "bark",
+  "cultivation_status": "cultivated",
+  "description": "Benzoin Toba Absolute Oil adalah minyak absolut yang dihasilkan dari resin kering Styrax paralleloneurus/Sumatranus (kemenyan Toba) yang berasal dari Toba Tapanuli, Sumatra Utara melalui proses ekstraksi pelarut etanol yang terstandarisasi. Minyak ini memiliki karakter aromatik hangat, manis, dan balsamik dengan nuansa",
+  "source_file": "2026_18_SBI-DD_MP_AO_Benzoin Toba_Final.docx"
+ },
+ {
+  "code": "SMA8",
+  "name": "Vanilla",
+  "latin_name": "Vanilla planifolia",
+  "plant_part": "fruit",
+  "cultivation_status": "cultivated",
+  "description": "Vanilla Absolute Oil merupakan ekstrak aromatik konsentrat yang diperoleh dari polong buah vanila matang (Vanilla planifolia Andrews) melalui metode solvent extraction. Sebagai absolute oil, bahan ini memiliki konsentrasi komponen aromatik yang lebih tinggi dibandingkan ekstrak vanila biasa. Vanilla Absolute dikenal lu",
+  "source_file": "2026_185_SBI-DD_MP_AO_Vanilla_Final.docx"
+ },
+ {
+  "code": "STA",
+  "name": "Star Anise",
+  "latin_name": "Illicium verum",
+  "plant_part": "fruit",
+  "cultivation_status": "cultivated",
+  "description": "Star Anise Essential Oil adalah minyak atsiri premium dari Illicium verum di wilayah Tiongkok dan Vietnam yang diekstraksi melalui steam distillation (penyulingan uap) dari buah (fruit) yang kaya senyawa aromatik anethole. Minyak ini memiliki karakter aroma sweet, spicy, dan khas licorice/anise, sehingga banyak digunak",
+  "source_file": "2026_168_SBI-DD_MP_EO_Star Anise.docx"
+ },
+ {
+  "code": "SUG",
+  "name": "Sugandh Mantri",
+  "latin_name": "Homalomena aromatica",
+  "plant_part": "roots",
+  "cultivation_status": "cultivated",
+  "description": "Sugandh Mantri Essential Oil adalah minyak atsiri premium dari Homalomena aromatica di wilayah Jawa Timur, Jawa Tengah, dan Jawa Barat yang diekstraksi melalui steam distillation (penyulingan uap) dari rimpang/akar yang kaya senyawa aromatik linalool. Minyak ini memiliki karakter aroma fresh, spicy, herbaceous, dan ple",
+  "source_file": "2026_170_SBI-DD_MP_EO_Sugandh Mantri.docx"
+ },
+ {
+  "code": "SWE",
+  "name": "Sweet Orange",
+  "latin_name": "Citrus sinensis",
+  "plant_part": "fruit",
+  "cultivation_status": "cultivated",
+  "description": "Sweet Orange Essential Oil diperoleh dari kulit buah jeruk manis (Citrus sinensis L.) melalui metode cold pressed. Kandungan limonenenya lebih dari 90% dari komposisi minyak memberikan aroma khas sekaligus menjadikannya bahan penting dalam industri aromaterapi, parfum natural, kosmetik, produk perawatan tubuh, serta pr",
+  "source_file": "2026_172_SBI-DD_MP_EO_Sweet Orange_Final.docx"
+ },
+ {
+  "code": "TAG",
+  "name": "Tagetes",
+  "latin_name": "Tagetes minuta",
+  "plant_part": "leaves",
+  "cultivation_status": "wild",
+  "description": "Minyak atsiri Tagetes (Tagetes minuta L.) diperoleh melalui proses destilasi uap dari bunga dan daun segar tanaman marigold liar yang tumbuh di wilayah Amerika Selatan. Minyak ini dikenal memiliki karakter aroma herbaceous-green yang tajam dengan nuansa fruity hangat, sehingga banyak digunakan sebagai top hingga middle",
+  "source_file": "2026_173_SBI-DD_MP_EO_Tagetes_Final.docx"
+ },
+ {
+  "code": "TAN",
+  "name": "Tangerine",
+  "latin_name": "Citrus reticulata",
+  "plant_part": "fruit",
+  "cultivation_status": "cultivated",
+  "description": "Tangerine Essential Oil diperoleh dari kulit buah jeruk tangerine (Citrus reticulata) melalui destilasi uap menghasilkan minyak berwarna oren hingga oren pekat dengan aroma citrus yang manis, segar, dan cerah. Komponen utama minyak tangerine adalah limonene, yaitu senyawa monoterpena yang memberikan aroma citrus khas s",
+  "source_file": "2026_174_SBI-DD_MP_EO_Tangerine_Final.docx"
+ },
+ {
+  "code": "TAR",
+  "name": "Tarragon",
+  "latin_name": "Artemisia dracunculus",
+  "plant_part": "leaves",
+  "cultivation_status": "cultivated",
+  "description": "Minyak atsiri Tarragon diperoleh melalui proses destilasi uap dari bunga dan daun tanaman Artemisia dracunculus L. yang berasal dari Prancis. Minyak ini memiliki karakter aroma khas seperti adas manis (anise/licorice), herbal, dan sedikit woody, sehingga banyak digunakan sebagai middle note dalam formulasi parfum natur",
+  "source_file": "2026_175_SBI-DD_MP_EO_Tarragon_Final.docx"
+ },
+ {
+  "code": "TEA",
+  "name": "Tea Tree",
+  "latin_name": "Melaleuca alternifolia",
+  "plant_part": "leaves",
+  "cultivation_status": "cultivated",
+  "description": "Tea Tree Essential Oil adalah minyak atsiri premium dari Melaleuca alternifolia di wilayah Australia yang diekstraksi melalui steam distillation (penyulingan uap) dari daun yang kaya senyawa aktif aromatik. Minyak ini memiliki karakter aroma fresh, hangat, sedikit spicy, dan khas medicinal, sehingga cocok digunakan dal",
+  "source_file": "2026_177_SBI-DD_MP_EO_Tea Tree.docx"
+ },
+ {
+  "code": "TEM",
+  "name": "Temugiring",
+  "latin_name": "Curcuma heyneana",
+  "plant_part": "rhizome",
+  "cultivation_status": "cultivated",
+  "description": "Minyak atsiri Temugiring diperoleh melalui proses destilasi uap dari rimpang tanaman Curcuma heyneana yang tumbuh di Jawa dan Sumatra. Minyak ini memiliki karakter aroma fresh, slightly fruity, dan herbal khas temu-temuan, sehingga sering digunakan sebagai top hingga middle note dalam formulasi parfum natural, aromater",
+  "source_file": "2026_176_SBI-DD_MP_EO_Temugiring_Final.docx"
+ },
+ {
+  "code": "THY",
+  "name": "Thyme",
+  "latin_name": "Thymus vulgaris",
+  "plant_part": "leaves",
+  "cultivation_status": "cultivated",
+  "description": "Minyak atsiri Thyme diperoleh melalui proses destilasi uap dari daun dan bunga Thymus vulgaris yang berasal dari Spain. Dalam formulasi aromatik, Thyme Essential Oil berperan sebagai middle hingga top note yang memberikan nuansa herbal-spicy yang tegas, sehingga ideal untuk natural perfumery, aromaterapi, maupun formul",
+  "source_file": "2026_178_SBI-DD_MP_EO_Thyme_Final.docx"
+ },
+ {
+  "code": "TOB",
+  "name": "Tobacco",
+  "latin_name": "Nicotiana tabacum",
+  "plant_part": "leaves",
+  "cultivation_status": "cultivated",
+  "description": "Minyak atsiri Tobacco diperoleh dari penyulingan uap daun tembakau (Nicotiana tabacum L.) yang dibudidayakan secara berkelanjutan di Indonesia. Dalam formulasi aromatik, minyak ini dikenal sebagai base note yang kuat, berfungsi sebagai fiksatif alami untuk memperpanjang ketahanan aroma dalam parfum, serta memberikan ke",
+  "source_file": "2026_179_SBI-DD_MP_AO_Tobacco_Final.docx"
+ },
+ {
+  "code": "TUR",
+  "name": "Turmeric",
+  "latin_name": "Curcuma longa",
+  "plant_part": "rhizome",
+  "cultivation_status": "cultivated",
+  "description": "Minyak atsiri Turmeric Leaf diperoleh dari penyulingan uap daun kunyit (Curcuma longa) yang tumbuh di wilayah tropis Indonesia melalui metode destilasi uap. Dalam formulasi aromatik, minyak ini termasuk dalam middle hingga top note yang memberikan nuansa herbal pedas, segar, dan sedikit hangat, sehingga ideal digunakan",
+  "source_file": "2026_182_SBI-DD_MP_EO_Turmeric_Final.docx"
+ },
+ {
+  "code": "TUR2",
+  "name": "Pine Turpentine",
+  "latin_name": "Pinus merkusii",
+  "plant_part": "wood",
+  "cultivation_status": "cultivated",
+  "description": "Minyak atsiri Turpentine diperoleh dari penyulingan uap getah (gum) pohon pinus Pinus merkusii yang tumbuh di Jawa dan Sumatra. Dalam formulasi aromatik, minyak ini dikenal sebagai middle hingga top note dengan karakter piney, fresh, dan slightly sharp, sehingga banyak digunakan dalam parfum natural, aromaterapi, hingg",
+  "source_file": "2026_148_SBI-DD_MP_EO_Pine Turpentine_Final.docx"
+ },
+ {
+  "code": "VET",
+  "name": "Vetiver Dark",
+  "latin_name": "Vetiveria zizanioides",
+  "plant_part": "roots",
+  "cultivation_status": "cultivated",
+  "description": "Vetiver Gold Essential Oil diperoleh dari akar tanaman vetiver (Vetiveria zizanioides) melalui proses destilasi uap yang menghasilkan minyak berwarna coklat keemasan hingga coklat kemerahan dengan aroma kayu, bersahaja, manis, dan khas akar vetiver yang kuat. Minyak ini dikenal luas dalam industri parfum sebagai base n",
+  "source_file": "2026_188_SBI-DD_MP_EO_Vetiver Dark_Final.docx"
+ },
+ {
+  "code": "WIN",
+  "name": "Wintergreen",
+  "latin_name": "Gaultheria fragrantissima",
+  "plant_part": "leaves",
+  "cultivation_status": "cultivated",
+  "description": "Minyak atsiri Wintergreen diperoleh melalui proses destilasi uap dari daun dan bagian hijau tanaman gandapura (Gaultheria fragrantissima subsp. punctata) yang tumbuh alami di dataran tinggi Indonesia seperti Jawa dan Sumatera. Dalam formulasi aromatik sering digunakan dalam aromaterapi, parfum natural, hingga produk pe",
+  "source_file": "2026_191_SBI-DD_MP_EO_Wintergreen_Final.docx"
+ },
+ {
+  "code": "YUJ",
+  "name": "Yuja",
+  "latin_name": "Citrus junos",
+  "plant_part": "fruit",
+  "cultivation_status": "cultivated",
+  "description": "Minyak atsiri Yuja (Yuzu) diperoleh dari penyulingan uap kulit buah Citrus junos yang dibudidayakan di Korea. Dalam formulasi aromatik, minyak ini termasuk top note dengan karakter aroma citrus yang segar, cerah, dan uplifting, sehingga sangat cocok digunakan dalam aromaterapi, natural perfumery, hingga berbagai formul",
+  "source_file": "2026_198_SBI-DD_MP_EO_Yuja_Final.docx"
+ }
+]

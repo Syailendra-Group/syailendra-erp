@@ -34,5 +34,10 @@
         <field name="implied_ids" eval="[(4, ref('group_qc_analyst'))]"/>
         <field name="comment">Mengotorisasi status mutu dan penerbitan CoA.</field>
     </record>
+    <record id="group_scm_api" model="res.groups">
+        <field name="name">SCM API Reader</field>
+        <field name="category_id" ref="module_category_syailendra_scm"/>
+        <field name="comment">Akun integrasi: baca-saja seluruh model SCM, tanpa hak tulis.</field>
+    </record>
 
 </odoo>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Tanpa noupdate: record base.user_admin sudah ada di DB, sehingga
+     noupdate=1 akan melewatkan pembaruan. Re-apply tiap upgrade bersifat
+     idempoten (m2m (4, ref) tidak menduplikasi). -->
+<odoo>
+
+    <!-- Akun integrasi frontend (admin@syailendra.group) diberi akses baca
+         model SCM. Hak tulis tetap ditolak sampai akun pengguna nyata
+         dimasukkan ke group_scm_user / QC. -->
+    <record id="base.user_admin" model="res.users">
+        <field name="groups_id" eval="[(4, ref('group_scm_api'))]"/>
+    </record>
+
+</odoo>

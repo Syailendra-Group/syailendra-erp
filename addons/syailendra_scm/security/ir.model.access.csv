@@ -16,3 +16,11 @@ access_syailendra_supplier_evaluation_user,syailendra.supplier.evaluation.user,m
 access_syailendra_supplier_evaluation_manager,syailendra.supplier.evaluation.manager,model_syailendra_supplier_evaluation,group_scm_manager,1,1,1,1
 access_syailendra_supplier_audit_user,syailendra.supplier.audit.user,model_syailendra_supplier_audit,group_scm_user,1,0,0,0
 access_syailendra_supplier_audit_manager,syailendra.supplier.audit.manager,model_syailendra_supplier_audit,group_scm_manager,1,1,1,1
+access_syailendra_crop_api,syailendra.crop.api,model_syailendra_crop,group_scm_api,1,0,0,0
+access_syailendra_farm_api,syailendra.farm.api,model_syailendra_farm,group_scm_api,1,0,0,0
+access_syailendra_distillery_api,syailendra.distillery.api,model_syailendra_distillery,group_scm_api,1,0,0,0
+access_syailendra_harvest_api,syailendra.harvest.api,model_syailendra_harvest,group_scm_api,1,0,0,0
+access_syailendra_distillation_api,syailendra.distillation.api,model_syailendra_distillation,group_scm_api,1,0,0,0
+access_syailendra_qc_inspection_api,syailendra.qc_inspection.api,model_syailendra_qc_inspection,group_scm_api,1,0,0,0
+access_syailendra_supplier_evaluation_api,syailendra.supplier_evaluation.api,model_syailendra_supplier_evaluation,group_scm_api,1,0,0,0
+access_syailendra_supplier_audit_api,syailendra.supplier_audit.api,model_syailendra_supplier_audit,group_scm_api,1,0,0,0

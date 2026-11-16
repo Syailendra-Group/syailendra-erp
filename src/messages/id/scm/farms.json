@@ -1,0 +1,134 @@
+{
+  "title": "Kebun & Terroir",
+  "subtitle": "Registrasi blok kebun, profil terroir, dan geolokasi untuk kepatuhan EUDR",
+  "actions": {
+    "create": "Tambah Kebun",
+    "edit": "Ubah Kebun",
+    "delete": "Hapus Kebun",
+    "view": "Lihat Rincian"
+  },
+  "table": {
+    "columns": {
+      "code": "Kode",
+      "name": "Nama Blok",
+      "crops": "Komoditas",
+      "region": "Wilayah",
+      "areaHa": "Luas",
+      "farmingSystem": "Budidaya",
+      "geolocation": "Geolokasi",
+      "status": "Status",
+      "actions": "Aksi"
+    },
+    "status": {
+      "active": "Aktif",
+      "inactive": "Nonaktif"
+    },
+    "emptyState": "Belum ada kebun terdaftar."
+  },
+  "farmingSystems": {
+    "organic": "Organik Murni",
+    "semi_organic": "Semi Organik",
+    "conventional": "Konvensional",
+    "agroforestry": "Agroforestri"
+  },
+  "sections": {
+    "identity": "Identitas Kebun",
+    "identityDesc": "Kode blok, pemilik, dan komoditas yang ditanam",
+    "location": "Lokasi & Wilayah",
+    "locationDesc": "Alamat administratif dan titik koordinat lahan",
+    "terroir": "Terroir & Luas",
+    "terroirDesc": "Luas lahan dan elevasi untuk profil terroir",
+    "cultivation": "Sistem Budidaya",
+    "cultivationDesc": "Praktik budidaya, input pertanian, dan sumber air",
+    "sustainability": "Keberlanjutan & Bukti",
+    "sustainabilityDesc": "Riwayat lahan untuk verifikasi EUDR dan foto kebun"
+  },
+  "fields": {
+    "province": "Provinsi",
+    "provincePlaceholder": "Pilih provinsi",
+    "regency": "Kabupaten / Kota",
+    "regencyPlaceholder": "Pilih kabupaten / kota",
+    "district": "Kecamatan",
+    "districtPlaceholder": "Pilih kecamatan",
+    "village": "Desa / Kelurahan",
+    "villagePlaceholder": "Pilih desa / kelurahan",
+    "addressDetail": "Alamat Detail Lahan",
+    "addressDetailPlaceholder": "Nama jalan, patokan, atau deskripsi lokasi blok kebun"
+  },
+  "form": {
+    "createTitle": "Tambah Kebun",
+    "editTitle": "Ubah Kebun",
+    "description": "Data blok kebun, terroir, budidaya, dan bukti keberlanjutan.",
+    "buttons": {
+      "save": "Simpan Kebun"
+    },
+    "fields": {
+      "code": "Kode Kebun",
+      "codePlaceholder": "Contoh: FRM-JTG-001",
+      "name": "Nama Blok Kebun",
+      "namePlaceholder": "Contoh: Blok Lereng Utara",
+      "partner": "Pemilik / Penggarap",
+      "partnerPlaceholder": "Pilih petani atau pemasok",
+      "crops": "Komoditas Ditanam",
+      "cropsPlaceholder": "Pilih satu atau lebih komoditas",
+      "farmingSystem": "Sistem Budidaya",
+      "farmingSystemPlaceholder": "Pilih sistem budidaya",
+      "usesPesticide": "Menggunakan Pestisida",
+      "pesticideTypes": "Jenis Pestisida",
+      "pesticideTypesPlaceholder": "Contoh: insektisida nabati",
+      "usesHerbicide": "Menggunakan Herbisida",
+      "herbicideTypes": "Jenis Herbisida",
+      "herbicideTypesPlaceholder": "Contoh: glifosat",
+      "fertilizerTypes": "Jenis Pupuk",
+      "fertilizerTypesPlaceholder": "Contoh: kompos, pupuk kandang",
+      "waterSource": "Sumber Air",
+      "waterSourcePlaceholder": "Contoh: mata air, irigasi desa",
+      "areaHa": "Luas Kebun (Ha)",
+      "areaHaPlaceholder": "Contoh: 2.5000",
+      "elevationMdpl": "Elevasi (mdpl)",
+      "elevationMdplPlaceholder": "Contoh: 750",
+      "landHistory": "Riwayat Lahan",
+      "landHistoryPlaceholder": "Riwayat penggunaan lahan untuk verifikasi bebas deforestasi",
+      "photoFarm": "Foto Kebun",
+      "active": "Status Aktif",
+      "activeHint": "Kebun nonaktif tidak muncul pada pilihan sesi panen."
+    }
+  },
+  "detail": {
+    "notFound": "Data kebun tidak ditemukan."
+  },
+  "dialog": {
+    "viewTitle": "Rincian Kebun",
+    "viewDescription": "Data blok kebun dan terroir.",
+    "deleteTitle": "Hapus Kebun?",
+    "deleteDescription": "Kebun yang sudah dipakai sesi panen tidak dapat dihapus."
+  },
+  "toast": {
+    "createSuccess": "Kebun berhasil ditambahkan.",
+    "updateSuccess": "Kebun berhasil diperbarui.",
+    "saveError": "Gagal menyimpan kebun.",
+    "deleteSuccess": "Kebun berhasil dihapus.",
+    "deleteError": "Gagal menghapus kebun.",
+    "deleteErrorRelational": "Kebun masih dipakai data panen atau lot.",
+    "duplicateCode": "Kode kebun sudah dipakai pada perusahaan ini."
+  },
+  "validation": {
+    "nameRequired": "Nama blok kebun wajib diisi.",
+    "nameMax": "Nama blok maksimal {max} karakter.",
+    "codeMin": "Kode kebun minimal {min} karakter.",
+    "codeMax": "Kode kebun maksimal {max} karakter.",
+    "codeFormat": "Kode kebun hanya boleh huruf, angka, dan tanda hubung.",
+    "partnerRequired": "Pilih pemilik kebun.",
+    "cropsRequired": "Pilih minimal satu komoditas.",
+    "addressDetailMax": "Alamat detail maksimal {max} karakter.",
+    "latitudeRange": "Latitude harus antara -90 dan 90.",
+    "longitudeRange": "Longitude harus antara -180 dan 180.",
+    "elevationInteger": "Elevasi harus bilangan bulat.",
+    "elevationMin": "Elevasi tidak boleh negatif.",
+    "areaMin": "Luas kebun tidak boleh negatif.",
+    "areaMax": "Luas kebun tidak realistis.",
+    "farmingSystemRequired": "Pilih sistem budidaya.",
+    "textMax": "Maksimal {max} karakter.",
+    "landHistoryMax": "Riwayat lahan maksimal {max} karakter."
+  }
+}

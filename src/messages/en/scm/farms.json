@@ -1,0 +1,134 @@
+{
+  "title": "Farms & Terroir",
+  "subtitle": "Farm block register, terroir profiles, and EUDR geolocation compliance",
+  "actions": {
+    "create": "Add Farm",
+    "edit": "Edit Farm",
+    "delete": "Delete Farm",
+    "view": "View Details"
+  },
+  "table": {
+    "columns": {
+      "code": "Code",
+      "name": "Block Name",
+      "crops": "Commodities",
+      "region": "Region",
+      "areaHa": "Area",
+      "farmingSystem": "Farming",
+      "geolocation": "Geolocation",
+      "status": "Status",
+      "actions": "Actions"
+    },
+    "status": {
+      "active": "Active",
+      "inactive": "Inactive"
+    },
+    "emptyState": "No farms registered yet."
+  },
+  "farmingSystems": {
+    "organic": "Fully Organic",
+    "semi_organic": "Semi Organic",
+    "conventional": "Conventional",
+    "agroforestry": "Agroforestry"
+  },
+  "sections": {
+    "identity": "Farm Identity",
+    "identityDesc": "Block code, owner, and planted commodities",
+    "location": "Location & Region",
+    "locationDesc": "Administrative address and land coordinates",
+    "terroir": "Terroir & Area",
+    "terroirDesc": "Land area and elevation for the terroir profile",
+    "cultivation": "Cultivation System",
+    "cultivationDesc": "Farming practices, agricultural inputs, and water source",
+    "sustainability": "Sustainability & Evidence",
+    "sustainabilityDesc": "Land history for EUDR verification and farm photo"
+  },
+  "fields": {
+    "province": "Province",
+    "provincePlaceholder": "Select a province",
+    "regency": "Regency / City",
+    "regencyPlaceholder": "Select a regency / city",
+    "district": "District",
+    "districtPlaceholder": "Select a district",
+    "village": "Village",
+    "villagePlaceholder": "Select a village",
+    "addressDetail": "Detailed Land Address",
+    "addressDetailPlaceholder": "Street name, landmark, or block location description"
+  },
+  "form": {
+    "createTitle": "Add Farm",
+    "editTitle": "Edit Farm",
+    "description": "Farm block, terroir, cultivation, and sustainability evidence.",
+    "buttons": {
+      "save": "Save Farm"
+    },
+    "fields": {
+      "code": "Farm Code",
+      "codePlaceholder": "e.g. FRM-JTG-001",
+      "name": "Farm Block Name",
+      "namePlaceholder": "e.g. North Slope Block",
+      "partner": "Owner / Grower",
+      "partnerPlaceholder": "Select a farmer or supplier",
+      "crops": "Planted Commodities",
+      "cropsPlaceholder": "Select one or more commodities",
+      "farmingSystem": "Farming System",
+      "farmingSystemPlaceholder": "Select the farming system",
+      "usesPesticide": "Uses Pesticide",
+      "pesticideTypes": "Pesticide Types",
+      "pesticideTypesPlaceholder": "e.g. botanical insecticide",
+      "usesHerbicide": "Uses Herbicide",
+      "herbicideTypes": "Herbicide Types",
+      "herbicideTypesPlaceholder": "e.g. glyphosate",
+      "fertilizerTypes": "Fertilizer Types",
+      "fertilizerTypesPlaceholder": "e.g. compost, manure",
+      "waterSource": "Water Source",
+      "waterSourcePlaceholder": "e.g. spring, village irrigation",
+      "areaHa": "Farm Area (Ha)",
+      "areaHaPlaceholder": "e.g. 2.5000",
+      "elevationMdpl": "Elevation (masl)",
+      "elevationMdplPlaceholder": "e.g. 750",
+      "landHistory": "Land History",
+      "landHistoryPlaceholder": "Land use history for deforestation-free verification",
+      "photoFarm": "Farm Photo",
+      "active": "Active Status",
+      "activeHint": "Inactive farms are hidden from harvest session options."
+    }
+  },
+  "detail": {
+    "notFound": "Farm record not found."
+  },
+  "dialog": {
+    "viewTitle": "Farm Details",
+    "viewDescription": "Farm block and terroir data.",
+    "deleteTitle": "Delete Farm?",
+    "deleteDescription": "Farms already used by harvest sessions cannot be deleted."
+  },
+  "toast": {
+    "createSuccess": "Farm added successfully.",
+    "updateSuccess": "Farm updated successfully.",
+    "saveError": "Failed to save the farm.",
+    "deleteSuccess": "Farm deleted successfully.",
+    "deleteError": "Failed to delete the farm.",
+    "deleteErrorRelational": "Farm is still used by harvest or lot records.",
+    "duplicateCode": "Farm code already exists in this company."
+  },
+  "validation": {
+    "nameRequired": "Farm block name is required.",
+    "nameMax": "Farm block name must be at most {max} characters.",
+    "codeMin": "Farm code must be at least {min} characters.",
+    "codeMax": "Farm code must be at most {max} characters.",
+    "codeFormat": "Farm code may only contain letters, numbers, and dashes.",
+    "partnerRequired": "Select the farm owner.",
+    "cropsRequired": "Select at least one commodity.",
+    "addressDetailMax": "Land address must be at most {max} characters.",
+    "latitudeRange": "Latitude must be between -90 and 90.",
+    "longitudeRange": "Longitude must be between -180 and 180.",
+    "elevationInteger": "Elevation must be a whole number.",
+    "elevationMin": "Elevation cannot be negative.",
+    "areaMin": "Farm area cannot be negative.",
+    "areaMax": "Farm area is unrealistically large.",
+    "farmingSystemRequired": "Select the farming system.",
+    "textMax": "Must be at most {max} characters.",
+    "landHistoryMax": "Land history must be at most {max} characters."
+  }
+}

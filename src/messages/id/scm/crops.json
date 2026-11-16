@@ -1,0 +1,101 @@
+{
+  "title": "Master Komoditas",
+  "subtitle": "Registrasi tanaman atsiri, bagian yang disuling, dan kode komoditas ekspor",
+  "actions": {
+    "create": "Tambah Komoditas",
+    "edit": "Ubah Komoditas",
+    "delete": "Hapus Komoditas",
+    "view": "Lihat Rincian"
+  },
+  "table": {
+    "columns": {
+      "code": "Kode",
+      "name": "Nama Lokal",
+      "latinName": "Nama Latin",
+      "plantPart": "Bagian Disuling",
+      "cultivationStatus": "Sumber Daya",
+      "harvestSeason": "Musim Panen",
+      "harvestFrequency": "Frekuensi Panen",
+      "status": "Status",
+      "actions": "Aksi"
+    },
+    "status": {
+      "active": "Aktif",
+      "inactive": "Nonaktif"
+    },
+    "emptyState": "Belum ada komoditas terdaftar."
+  },
+  "plantParts": {
+    "leaves": "Daun",
+    "rhizome": "Rimpang",
+    "wood": "Kayu",
+    "bark": "Kulit Batang",
+    "seeds": "Biji",
+    "flowers": "Bunga",
+    "fruit": "Buah",
+    "roots": "Akar"
+  },
+  "cultivationStatuses": {
+    "cultivated": "Budidaya",
+    "wild": "Liar"
+  },
+  "form": {
+    "createTitle": "Tambah Komoditas",
+    "editTitle": "Ubah Komoditas",
+    "description": "Data botani dan agronomi komoditas atsiri untuk keperluan produksi dan dokumen ekspor.",
+    "fields": {
+      "code": "Kode Komoditas",
+      "codePlaceholder": "Contoh: NL",
+      "name": "Nama Lokal",
+      "namePlaceholder": "Contoh: Nilam",
+      "latinName": "Nama Latin",
+      "latinNamePlaceholder": "Contoh: Pogostemon cablin",
+      "plantPart": "Bagian Tanaman Disuling",
+      "plantPartPlaceholder": "Pilih bagian tanaman",
+      "cultivationStatus": "Status Sumber Daya",
+      "cultivationStatusPlaceholder": "Pilih status sumber daya",
+      "lifespanMonths": "Umur Produktif (Bulan)",
+      "lifespanMonthsPlaceholder": "Contoh: 36",
+      "harvestSeason": "Musim Panen Optimal",
+      "harvestSeasonPlaceholder": "Contoh: April – September",
+      "harvestFrequency": "Frekuensi Panen",
+      "harvestFrequencyPlaceholder": "Contoh: 3 kali per tahun",
+      "description": "Catatan Agronomi",
+      "descriptionPlaceholder": "Catatan budidaya, karakter aroma, atau kebutuhan khusus",
+      "active": "Status Aktif",
+      "activeHint": "Komoditas nonaktif tidak muncul pada pilihan sesi panen."
+    }
+  },
+  "dialog": {
+    "viewTitle": "Rincian Komoditas",
+    "viewDescription": "Data master komoditas dan agronomi.",
+    "deleteTitle": "Hapus Komoditas?",
+    "deleteDescription": "Komoditas yang sudah dipakai sesi panen atau kebun tidak dapat dihapus."
+  },
+  "toast": {
+    "createSuccess": "Komoditas berhasil ditambahkan.",
+    "updateSuccess": "Komoditas berhasil diperbarui.",
+    "saveError": "Gagal menyimpan komoditas.",
+    "deleteSuccess": "Komoditas berhasil dihapus.",
+    "deleteError": "Gagal menghapus komoditas.",
+    "deleteErrorRelational": "Komoditas masih dipakai data kebun atau panen.",
+    "duplicateCode": "Kode komoditas sudah dipakai pada perusahaan ini."
+  },
+  "validation": {
+    "codeRequired": "Kode komoditas wajib diisi.",
+    "codeMax": "Kode komoditas maksimal {max} karakter.",
+    "codeAlphanumeric": "Kode komoditas hanya boleh huruf dan angka.",
+    "nameRequired": "Nama lokal wajib diisi.",
+    "nameMax": "Nama lokal maksimal {max} karakter.",
+    "latinNameRequired": "Nama latin wajib diisi.",
+    "latinNameMax": "Nama latin maksimal {max} karakter.",
+    "plantPartRequired": "Pilih bagian tanaman yang disuling.",
+    "cultivationStatusRequired": "Pilih status sumber daya.",
+    "lifespanInteger": "Umur produktif harus bilangan bulat bulan.",
+    "lifespanMin": "Umur produktif tidak boleh negatif.",
+    "lifespanMax": "Umur produktif maksimal {max} bulan.",
+    "harvestSeasonMax": "Musim panen maksimal {max} karakter.",
+    "harvestFrequencyMax": "Frekuensi panen maksimal {max} karakter.",
+    "descriptionMax": "Catatan agronomi maksimal {max} karakter."
+  }
+}

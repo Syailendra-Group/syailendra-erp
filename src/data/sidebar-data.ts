@@ -109,6 +109,8 @@ export const sidebarData: SidebarData = {
         items: [
           { titleKey: 'items.overview', url: '/scm', icon: LayoutDashboard },
           { titleKey: 'items.farmers', url: '/scm/farmers', icon: Users },
+          { titleKey: 'items.farms', url: '/scm/farms', icon: MapPin },
+          { titleKey: 'items.crops', url: '/scm/crops', icon: Leaf },
           { titleKey: 'items.distillers', url: '/scm/distillers', icon: Factory },
           { titleKey: 'items.materials', url: '/scm/materials', icon: Sparkles },
           { titleKey: 'items.supplierCategories', url: '/scm/supplier-categories', icon: FolderTree },

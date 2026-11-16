@@ -208,6 +208,7 @@ export async function persistFarmer(values: FarmerFormValues): Promise<number> {
 
   payload.is_company = false
   payload.active = true
+  payload.supplier_rank = 1
   const createdId = await odoo.client.create('res.partner', payload)
   return createdId
 }

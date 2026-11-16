@@ -1,0 +1,101 @@
+{
+  "title": "Commodity Master",
+  "subtitle": "Essential oil crop register, distilled plant parts, and export commodity codes",
+  "actions": {
+    "create": "Add Commodity",
+    "edit": "Edit Commodity",
+    "delete": "Delete Commodity",
+    "view": "View Details"
+  },
+  "table": {
+    "columns": {
+      "code": "Code",
+      "name": "Local Name",
+      "latinName": "Botanical Name",
+      "plantPart": "Distilled Part",
+      "cultivationStatus": "Resource Status",
+      "harvestSeason": "Harvest Season",
+      "harvestFrequency": "Harvest Frequency",
+      "status": "Status",
+      "actions": "Actions"
+    },
+    "status": {
+      "active": "Active",
+      "inactive": "Inactive"
+    },
+    "emptyState": "No commodities registered yet."
+  },
+  "plantParts": {
+    "leaves": "Leaves",
+    "rhizome": "Rhizome",
+    "wood": "Wood",
+    "bark": "Bark",
+    "seeds": "Seeds",
+    "flowers": "Flowers",
+    "fruit": "Fruit",
+    "roots": "Roots"
+  },
+  "cultivationStatuses": {
+    "cultivated": "Cultivated",
+    "wild": "Wild Harvested"
+  },
+  "form": {
+    "createTitle": "Add Commodity",
+    "editTitle": "Edit Commodity",
+    "description": "Botanical and agronomic data for essential oil commodities used in production and export documents.",
+    "fields": {
+      "code": "Commodity Code",
+      "codePlaceholder": "e.g. NL",
+      "name": "Local Name",
+      "namePlaceholder": "e.g. Patchouli",
+      "latinName": "Botanical Name",
+      "latinNamePlaceholder": "e.g. Pogostemon cablin",
+      "plantPart": "Distilled Plant Part",
+      "plantPartPlaceholder": "Select the plant part",
+      "cultivationStatus": "Resource Status",
+      "cultivationStatusPlaceholder": "Select the resource status",
+      "lifespanMonths": "Productive Lifespan (Months)",
+      "lifespanMonthsPlaceholder": "e.g. 36",
+      "harvestSeason": "Optimal Harvest Season",
+      "harvestSeasonPlaceholder": "e.g. April – September",
+      "harvestFrequency": "Harvest Frequency",
+      "harvestFrequencyPlaceholder": "e.g. 3 times per year",
+      "description": "Agronomy Notes",
+      "descriptionPlaceholder": "Cultivation notes, aroma profile, or special requirements",
+      "active": "Active Status",
+      "activeHint": "Inactive commodities are hidden from harvest session options."
+    }
+  },
+  "dialog": {
+    "viewTitle": "Commodity Details",
+    "viewDescription": "Commodity and agronomy master data.",
+    "deleteTitle": "Delete Commodity?",
+    "deleteDescription": "Commodities already used by harvest sessions or farms cannot be deleted."
+  },
+  "toast": {
+    "createSuccess": "Commodity added successfully.",
+    "updateSuccess": "Commodity updated successfully.",
+    "saveError": "Failed to save the commodity.",
+    "deleteSuccess": "Commodity deleted successfully.",
+    "deleteError": "Failed to delete the commodity.",
+    "deleteErrorRelational": "Commodity is still used by farm or harvest records.",
+    "duplicateCode": "Commodity code already exists in this company."
+  },
+  "validation": {
+    "codeRequired": "Commodity code is required.",
+    "codeMax": "Commodity code must be at most {max} characters.",
+    "codeAlphanumeric": "Commodity code must be letters and numbers only.",
+    "nameRequired": "Local name is required.",
+    "nameMax": "Local name must be at most {max} characters.",
+    "latinNameRequired": "Botanical name is required.",
+    "latinNameMax": "Botanical name must be at most {max} characters.",
+    "plantPartRequired": "Select the distilled plant part.",
+    "cultivationStatusRequired": "Select the resource status.",
+    "lifespanInteger": "Productive lifespan must be a whole number of months.",
+    "lifespanMin": "Productive lifespan cannot be negative.",
+    "lifespanMax": "Productive lifespan must be at most {max} months.",
+    "harvestSeasonMax": "Harvest season must be at most {max} characters.",
+    "harvestFrequencyMax": "Harvest frequency must be at most {max} characters.",
+    "descriptionMax": "Agronomy notes must be at most {max} characters."
+  }
+}

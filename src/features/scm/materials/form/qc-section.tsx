@@ -68,7 +68,7 @@ export function MaterialQcSection({ register, errors, t }: MaterialQcSectionProp
       </FormFieldWrapper>
 
       <FormFieldWrapper label={t('fields.description')} error={errors.description?.message} className="sm:col-span-6">
-        <Textarea {...register('description')} placeholder={t('fields.descriptionPlaceholder')} rows={2} />
+        <Textarea {...register('description')} placeholder={t('fields.descriptionPlaceholder')} rows={3} />
       </FormFieldWrapper>
     </div>
   )

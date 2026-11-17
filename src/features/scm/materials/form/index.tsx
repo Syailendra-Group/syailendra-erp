@@ -5,7 +5,7 @@
 
 'use client'
 
-import { useEffect, useMemo } from 'react'
+import { useMemo } from 'react'
 import { zodResolver } from '@hookform/resolvers/zod'
 import { Save } from 'lucide-react'
 import { useTranslations } from 'next-intl'
@@ -30,6 +30,41 @@ import type { MaterialFormValues } from '@/schemas/scm/material-schema'
 import type { MaterialRecord } from '@/types/scm/material'
 import type { ReactElement } from 'react'
 
+function toMaterialFormValues(record?: MaterialRecord | null): MaterialFormValues | undefined {
+  if (!record) {
+    return undefined
+  }
+  return {
+    id: record.id,
+    default_code: record.default_code,
+    name: record.name,
+    commercial_name: record.commercial_name ?? '',
+    category: record.category,
+    botanical_name: record.botanical_name ?? '',
+    family: record.family ?? '',
+    inci_name: record.inci_name ?? '',
+    plant_part: record.plant_part ?? '',
+    extraction_method: record.extraction_method,
+    aroma_note: record.aroma_note,
+    shelf_life_months: record.shelf_life_months,
+    uom_id: record.uom_id ? record.uom_id[0] : 1,
+    tracking: record.tracking,
+    cas_number: record.cas_number ?? '',
+    einecs_number: record.einecs_number ?? '',
+    fema_number: record.fema_number ?? '',
+    hs_code: record.hs_code,
+    relative_density_20c: record.qc_specs?.relative_density_20c ?? '',
+    refractive_index_20c: record.qc_specs?.refractive_index_20c ?? '',
+    optical_rotation_20c: record.qc_specs?.optical_rotation_20c ?? '',
+    flash_point_c: record.qc_specs?.flash_point_c,
+    ethanol_solubility: record.qc_specs?.ethanol_solubility ?? '',
+    key_compounds: record.qc_specs?.key_compounds ?? '',
+    max_moisture_pct: record.qc_specs?.max_moisture_pct,
+    min_yield_pct: record.qc_specs?.min_yield_pct,
+    description: record.description ?? ''
+  }
+}
+
 export interface MaterialFormProps {
   initialData?: MaterialRecord | null
 }
@@ -43,37 +78,11 @@ export function MaterialForm({ initialData }: MaterialFormProps): ReactElement {
 
   const { categoryOptions, methodOptions, aromaOptions, trackingOptions, uomOptions } = useMemo(() => getMaterialOptions(t), [t])
 
+  const values = useMemo<MaterialFormValues | undefined>(() => toMaterialFormValues(initialData), [initialData])
+
   const form = useForm<MaterialFormValues>({
     resolver: zodResolver(getMaterialFormSchema(t)),
-    defaultValues: {
-      id: initialData?.id,
-      default_code: initialData?.default_code || '',
-      name: initialData?.name || '',
-      commercial_name: initialData?.commercial_name || '',
-      category: initialData?.category || 'essential_oils',
-      botanical_name: initialData?.botanical_name || '',
-      family: initialData?.family || '',
-      inci_name: initialData?.inci_name || '',
-      plant_part: initialData?.plant_part || '',
-      extraction_method: initialData?.extraction_method || 'steam_distillation',
-      aroma_note: initialData?.aroma_note || 'base',
-      shelf_life_months: initialData?.shelf_life_months || 60,
-      uom_id: initialData?.uom_id ? initialData.uom_id[0] : 1,
-      tracking: initialData?.tracking || 'lot',
-      cas_number: initialData?.cas_number || '',
-      einecs_number: initialData?.einecs_number || '',
-      fema_number: initialData?.fema_number || '',
-      hs_code: initialData?.hs_code || '3301.29.90',
-      relative_density_20c: initialData?.qc_specs?.relative_density_20c || '',
-      refractive_index_20c: initialData?.qc_specs?.refractive_index_20c || '',
-      optical_rotation_20c: initialData?.qc_specs?.optical_rotation_20c || '',
-      flash_point_c: initialData?.qc_specs?.flash_point_c || undefined,
-      ethanol_solubility: initialData?.qc_specs?.ethanol_solubility || '',
-      key_compounds: initialData?.qc_specs?.key_compounds || '',
-      max_moisture_pct: initialData?.qc_specs?.max_moisture_pct || undefined,
-      min_yield_pct: initialData?.qc_specs?.min_yield_pct || undefined,
-      description: initialData?.description || ''
-    }
+    values
   })
 
   const {
@@ -81,43 +90,8 @@ export function MaterialForm({ initialData }: MaterialFormProps): ReactElement {
     handleSubmit,
     setValue,
     watch,
-    reset,
     formState: { errors }
   } = form
-
-  useEffect(() => {
-    if (initialData) {
-      reset({
-        id: initialData.id,
-        default_code: initialData.default_code,
-        name: initialData.name,
-        commercial_name: initialData.commercial_name || '',
-        category: initialData.category,
-        botanical_name: initialData.botanical_name || '',
-        family: initialData.family || '',
-        inci_name: initialData.inci_name || '',
-        plant_part: initialData.plant_part || '',
-        extraction_method: initialData.extraction_method,
-        aroma_note: initialData.aroma_note || 'base',
-        shelf_life_months: initialData.shelf_life_months,
-        uom_id: initialData.uom_id ? initialData.uom_id[0] : 1,
-        tracking: initialData.tracking,
-        cas_number: initialData.cas_number || '',
-        einecs_number: initialData.einecs_number || '',
-        fema_number: initialData.fema_number || '',
-        hs_code: initialData.hs_code || '3301.29.90',
-        relative_density_20c: initialData.qc_specs?.relative_density_20c || '',
-        refractive_index_20c: initialData.qc_specs?.refractive_index_20c || '',
-        optical_rotation_20c: initialData.qc_specs?.optical_rotation_20c || '',
-        flash_point_c: initialData.qc_specs?.flash_point_c || undefined,
-        ethanol_solubility: initialData.qc_specs?.ethanol_solubility || '',
-        key_compounds: initialData.qc_specs?.key_compounds || '',
-        max_moisture_pct: initialData.qc_specs?.max_moisture_pct || undefined,
-        min_yield_pct: initialData.qc_specs?.min_yield_pct || undefined,
-        description: initialData.description || ''
-      })
-    }
-  }, [initialData, reset])
 
   const onSubmit = async (values: MaterialFormValues) => {
     try {

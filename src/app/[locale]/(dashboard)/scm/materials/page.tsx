@@ -4,7 +4,7 @@ import type { Metadata } from 'next'
 import type { ReactElement } from 'react'
 
 export const metadata: Metadata = {
-  title: 'Material Master • Syailendra SCM',
+  title: 'Material Master',
   description: 'Official raw materials, essential oils, botanical specs & export quality catalog'
 }
 

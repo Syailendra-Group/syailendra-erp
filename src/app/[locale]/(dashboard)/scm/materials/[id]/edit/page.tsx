@@ -16,7 +16,7 @@ interface EditMaterialPageProps {
 }
 
 export const metadata: Metadata = {
-  title: 'Edit Material • Syailendra SCM',
+  title: 'Edit Material',
   description: 'Edit botanical commodity specifications and export compliance'
 }
 

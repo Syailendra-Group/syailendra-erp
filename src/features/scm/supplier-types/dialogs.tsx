@@ -8,7 +8,6 @@ import { ActionDialog } from '@/components/dialog/action-dialog'
 import { ConfirmDialog } from '@/components/dialog/confirm-dialog'
 import { DetailRow } from '@/components/shared/detail-row'
 import { Badge } from '@/components/ui/badge'
-import { Dialog, DialogContent, DialogDescription, DialogHeader, DialogTitle } from '@/components/ui/dialog'
 import { useSupplierTypeContext } from '@/contexts/scm/supplier-type.context'
 import { useDeleteSupplierType } from '@/hooks/scm/use-supplier-types'
 
@@ -74,7 +73,7 @@ export function SupplierTypeDialogs() {
       </ActionDialog>
 
       {/* View Detail Dialog */}
-      <Dialog
+      <ActionDialog
         open={isViewOpen}
         onOpenChange={(val) => {
           if (!val) {
@@ -82,47 +81,44 @@ export function SupplierTypeDialogs() {
             setSelectedCategory(null)
           }
         }}
+        isView
+        title={t('dialog.viewTitle')}
+        description={t('dialog.viewDescription')}
+        maxWidth="sm:max-w-md"
       >
-        <DialogContent className="sm:max-w-md">
-          <DialogHeader>
-            <DialogTitle className="text-base font-semibold">{t('dialog.viewTitle')}</DialogTitle>
-            <DialogDescription className="text-xs">{t('dialog.viewDescription')}</DialogDescription>
-          </DialogHeader>
-
-          {selectedCategory && (
-            <div className="space-y-4 pt-2">
-              <div className="space-y-1 rounded-md border p-3">
-                <DetailRow label={t('table.columns.name')} value={selectedCategory.name} />
-                <DetailRow label={t('table.columns.displayName')} value={selectedCategory.displayName} />
-                <DetailRow
-                  label={t('table.columns.parent')}
-                  value={
-                    selectedCategory.parentName ? (
-                      <Badge variant="secondary" className="text-[10px]">
-                        {selectedCategory.parentName}
-                      </Badge>
-                    ) : (
-                      <Badge variant="outline" className="text-muted-foreground text-[10px]">
-                        {t('table.rootCategory')}
-                      </Badge>
-                    )
-                  }
-                />
-                <DetailRow label={t('table.columns.partnerCount')} value={String(selectedCategory.partnerCount)} mono />
-                <DetailRow
-                  label={t('table.columns.status')}
-                  value={
-                    <Badge variant={selectedCategory.active ? 'default' : 'outline'} className="text-[10px]">
-                      {selectedCategory.active ? t('table.status.active') : t('table.status.inactive')}
+        {selectedCategory && (
+          <div className="space-y-4 pt-2">
+            <div className="space-y-1 rounded-md border p-3">
+              <DetailRow label={t('table.columns.name')} value={selectedCategory.name} />
+              <DetailRow label={t('table.columns.displayName')} value={selectedCategory.displayName} />
+              <DetailRow
+                label={t('table.columns.parent')}
+                value={
+                  selectedCategory.parentName ? (
+                    <Badge variant="secondary" className="text-[10px]">
+                      {selectedCategory.parentName}
                     </Badge>
-                  }
-                  border={false}
-                />
-              </div>
+                  ) : (
+                    <Badge variant="outline" className="text-muted-foreground text-[10px]">
+                      {t('table.rootType')}
+                    </Badge>
+                  )
+                }
+              />
+              <DetailRow label={t('table.columns.partnerCount')} value={String(selectedCategory.partnerCount)} mono />
+              <DetailRow
+                label={t('table.columns.status')}
+                value={
+                  <Badge variant={selectedCategory.active ? 'default' : 'outline'} className="text-[10px]">
+                    {selectedCategory.active ? t('table.status.active') : t('table.status.inactive')}
+                  </Badge>
+                }
+                border={false}
+              />
             </div>
-          )}
-        </DialogContent>
-      </Dialog>
+          </div>
+        )}
+      </ActionDialog>
 
       {/* Delete Confirmation Dialog */}
       <ConfirmDialog

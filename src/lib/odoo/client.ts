@@ -139,8 +139,13 @@ export class OdooClient {
   /**
    * Universal 'search_count' query wrapper (SELECT count(*))
    */
-  async searchCount(model: string, domain: OdooDomain = [], allowedCompanyIds?: number[]): Promise<number> {
-    const ctx = this.buildContext(undefined, allowedCompanyIds)
+  async searchCount(
+    model: string,
+    domain: OdooDomain = [],
+    allowedCompanyIds?: number[],
+    options: { context?: Record<string, OdooFieldValue> } = {}
+  ): Promise<number> {
+    const ctx = this.buildContext(options.context, allowedCompanyIds)
     return this.executeKw<number>(model, 'search_count', [domain], ctx ? { context: ctx } : {})
   }
 

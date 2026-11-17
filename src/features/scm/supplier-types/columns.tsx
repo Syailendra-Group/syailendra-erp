@@ -74,7 +74,7 @@ export function getSupplierTypeColumns({ t, onView, onEdit, onDelete }: Supplier
         if (item.isParent) {
           return (
             <Badge variant="outline" className="text-muted-foreground text-[10px]">
-              {t('table.rootCategory')}
+              {t('table.rootType')}
             </Badge>
           )
         }

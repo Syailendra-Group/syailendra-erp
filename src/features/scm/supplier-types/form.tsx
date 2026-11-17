@@ -87,7 +87,7 @@ export function SupplierTypeForm({ selectedCategory, isEdit, onSuccess, onPendin
   }, [isEdit, selectedCategory, reset])
 
   const selectParentItems = [
-    { value: 'none', label: t('table.rootCategory') },
+    { value: 'none', label: t('table.rootType') },
     ...parentOptions
       .filter((opt) => !selectedCategory || opt.id !== selectedCategory.id)
       .map((opt) => ({

@@ -30,7 +30,7 @@ export async function getPublicTrace(lotCode: string): Promise<PublicTraceabilit
     'stock.lot',
     [['name', '=', cleanCode]],
     ['id', 'name', 'product_id', 'ref', 'lot_properties', 'note', 'create_date'],
-    { limit: 1 }
+    { limit: 1, context: { active_test: false } }
   )
 
   if (!lots || lots.length === 0 || !lots[0]) {

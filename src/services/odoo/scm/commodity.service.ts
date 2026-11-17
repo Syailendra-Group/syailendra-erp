@@ -76,8 +76,8 @@ function mapCommodity(raw: RawCommodity): CommodityRecord {
   }
 }
 
-function normalizeWriteError(error: unknown): never {
-  const message = error instanceof Error ? error.message : String(error)
+function normalizeWriteError(error: Error): never {
+  const message = error.message
 
   if (/duplicate key|unique constraint|already exists|harus unik|sudah ada/i.test(message)) {
     throw new Error('DUPLICATE_CODE')
@@ -87,7 +87,7 @@ function normalizeWriteError(error: unknown): never {
     throw new Error('RELATIONAL_INTEGRITY_ERROR')
   }
 
-  throw error instanceof Error ? error : new Error(message)
+  throw error
 }
 
 export class CommodityService {
@@ -130,7 +130,8 @@ export class CommodityService {
   static async getCommodityById(id: number, allowedCompanyIds?: number[]): Promise<CommodityRecord | null> {
     const rows = await odooClient.searchRead<RawCommodity>(MODEL, [['id', '=', id]], [...COMMODITY_FIELDS], {
       limit: 1,
-      allowedCompanyIds
+      allowedCompanyIds,
+      context: { active_test: false }
     })
     return rows.length > 0 ? mapCommodity(rows[0]) : null
   }
@@ -139,7 +140,8 @@ export class CommodityService {
     const rows = await odooClient.searchRead<RawCommodity>(MODEL, [['active', '=', true]], ['id', 'name', 'code', 'latin_name'], {
       order: 'name asc',
       limit: 200,
-      allowedCompanyIds
+      allowedCompanyIds,
+      context: { active_test: false }
     })
 
     return rows.map((row) => ({
@@ -169,7 +171,7 @@ export class CommodityService {
         allowedCompanyIds
       )
     } catch (error) {
-      normalizeWriteError(error)
+      normalizeWriteError(error instanceof Error ? error : new Error(String(error)))
     }
   }
 
@@ -193,7 +195,7 @@ export class CommodityService {
         allowedCompanyIds
       )
     } catch (error) {
-      normalizeWriteError(error)
+      normalizeWriteError(error instanceof Error ? error : new Error(String(error)))
     }
   }
 
@@ -201,7 +203,7 @@ export class CommodityService {
     try {
       return await odooClient.unlink(MODEL, [id], allowedCompanyIds)
     } catch (error) {
-      normalizeWriteError(error)
+      normalizeWriteError(error instanceof Error ? error : new Error(String(error)))
     }
   }
 }

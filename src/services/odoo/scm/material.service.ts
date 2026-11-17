@@ -134,11 +134,12 @@ export async function fetchMaterialsPaginated(params: FetchMaterialsParams = {})
   const offset = Math.max(0, (page - 1) * perPage)
 
   const [totalCount, rawRecords] = await Promise.all([
-    odoo.client.searchCount('product.template', domain),
+    odoo.client.searchCount('product.template', domain, undefined, { context: { active_test: false } }),
     odoo.client.searchRead<Record<string, OdooFieldValue>>('product.template', domain, MATERIAL_READ_FIELDS, {
       offset,
       limit: perPage,
-      order
+      order,
+      context: { active_test: false }
     })
   ])
 
@@ -156,7 +157,8 @@ export async function fetchMaterialsPaginated(params: FetchMaterialsParams = {})
 
 export async function fetchMaterialById(id: number): Promise<MaterialRecord | null> {
   const rawRecords = await odoo.client.searchRead<Record<string, OdooFieldValue>>('product.template', [['id', '=', id]], MATERIAL_READ_FIELDS, {
-    limit: 1
+    limit: 1,
+    context: { active_test: false }
   })
 
   if (!rawRecords || rawRecords.length === 0) {

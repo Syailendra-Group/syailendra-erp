@@ -107,8 +107,9 @@ export async function fetchDistilleriesPaginated(params: FetchDistilleriesPagina
   }
 
   const [totalCount, rawRecords] = await Promise.all([
-    odoo.client.searchCount('res.partner', baseDomain as OdooDomain),
+    odoo.client.searchCount('res.partner', baseDomain as OdooDomain, undefined, { context: { active_test: false } }),
     odoo.client.executeKw<Record<string, OdooFieldValue>[]>('res.partner', 'search_read', [baseDomain as OdooDomain], {
+      context: { active_test: false },
       fields: DISTILLER_FIELDS,
       offset,
       limit: perPage,

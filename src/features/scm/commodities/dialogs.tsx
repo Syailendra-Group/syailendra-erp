@@ -8,7 +8,6 @@ import { ActionDialog } from '@/components/dialog/action-dialog'
 import { ConfirmDialog } from '@/components/dialog/confirm-dialog'
 import { StatusBadge } from '@/components/shared/data-badge'
 import { DetailRow } from '@/components/shared/detail-row'
-import { Dialog, DialogContent, DialogDescription, DialogHeader, DialogTitle } from '@/components/ui/dialog'
 import { useCommodityContext } from '@/contexts/scm/commodity.context'
 import { useDeleteCommodity } from '@/hooks/scm/use-commodities'
 
@@ -68,7 +67,7 @@ export function CommodityDialogs() {
         />
       </ActionDialog>
 
-      <Dialog
+      <ActionDialog
         open={isViewOpen}
         onOpenChange={(value) => {
           if (!value) {
@@ -76,41 +75,38 @@ export function CommodityDialogs() {
             setSelectedCommodity(null)
           }
         }}
+        isView
+        title={t('dialog.viewTitle')}
+        description={t('dialog.viewDescription')}
+        maxWidth="sm:max-w-md"
       >
-        <DialogContent className="sm:max-w-md">
-          <DialogHeader>
-            <DialogTitle className="text-base font-semibold">{t('dialog.viewTitle')}</DialogTitle>
-            <DialogDescription className="text-xs">{t('dialog.viewDescription')}</DialogDescription>
-          </DialogHeader>
-
-          {selectedCommodity && (
-            <div className="space-y-1 rounded-md border p-3">
-              <DetailRow label={t('table.columns.code')} value={selectedCommodity.code} mono />
-              <DetailRow label={t('table.columns.name')} value={selectedCommodity.name} />
-              <DetailRow label={t('table.columns.latinName')} value={selectedCommodity.latinName} />
-              <DetailRow label={t('table.columns.plantPart')} value={t(`plantParts.${selectedCommodity.plantPart}`)} />
-              <DetailRow label={t('table.columns.cultivationStatus')} value={t(`cultivationStatuses.${selectedCommodity.cultivationStatus}`)} />
-              <DetailRow label={t('table.columns.harvestSeason')} value={selectedCommodity.harvestSeason || '—'} />
-              <DetailRow label={t('table.columns.harvestFrequency')} value={selectedCommodity.harvestFrequency || '—'} />
-              <DetailRow
-                label={t('form.fields.lifespanMonths')}
-                value={selectedCommodity.lifespanMonths !== null ? String(selectedCommodity.lifespanMonths) : '—'}
-                mono
-              />
-              <DetailRow label={t('form.fields.description')} value={selectedCommodity.description || '—'} border={false} />
-              <DetailRow
-                label={t('table.columns.status')}
-                value={
-                  <StatusBadge variant={selectedCommodity.active ? 'success' : 'neutral'}>
-                    {selectedCommodity.active ? t('table.status.active') : t('table.status.inactive')}
-                  </StatusBadge>
-                }
-                border={false}
-              />
-            </div>
-          )}
-        </DialogContent>
-      </Dialog>
+        {selectedCommodity && (
+          <div className="space-y-1 rounded-md border p-3">
+            <DetailRow label={t('table.columns.code')} value={selectedCommodity.code} mono />
+            <DetailRow label={t('table.columns.name')} value={selectedCommodity.name} />
+            <DetailRow label={t('table.columns.latinName')} value={selectedCommodity.latinName} />
+            <DetailRow label={t('table.columns.plantPart')} value={t(`plantParts.${selectedCommodity.plantPart}`)} />
+            <DetailRow label={t('table.columns.cultivationStatus')} value={t(`cultivationStatuses.${selectedCommodity.cultivationStatus}`)} />
+            <DetailRow label={t('table.columns.harvestSeason')} value={selectedCommodity.harvestSeason || '—'} />
+            <DetailRow label={t('table.columns.harvestFrequency')} value={selectedCommodity.harvestFrequency || '—'} />
+            <DetailRow
+              label={t('form.fields.lifespanMonths')}
+              value={selectedCommodity.lifespanMonths !== null ? String(selectedCommodity.lifespanMonths) : '—'}
+              mono
+            />
+            <DetailRow label={t('form.fields.description')} value={selectedCommodity.description || '—'} border={false} />
+            <DetailRow
+              label={t('table.columns.status')}
+              value={
+                <StatusBadge variant={selectedCommodity.active ? 'success' : 'neutral'}>
+                  {selectedCommodity.active ? t('table.status.active') : t('table.status.inactive')}
+                </StatusBadge>
+              }
+              border={false}
+            />
+          </div>
+        )}
+      </ActionDialog>
 
       <ConfirmDialog
         open={isDeleteOpen}

@@ -112,12 +112,13 @@ export class SupplierTypeService {
 
     // If searching, use standard pagination directly
     // If viewing complete tree list, fetch categories to preserve hierarchical family order
-    const total = await odooClient.searchCount(this.MODEL, domain)
+    const total = await odooClient.searchCount(this.MODEL, domain, undefined, { context: { active_test: false } })
 
     const rawRecords = await odooClient.searchRead<OdooPartnerCategoryRaw>(this.MODEL, domain, [...CATEGORY_FIELDS], {
       offset: params.search?.trim() ? offset : 0,
       limit: params.search?.trim() ? perPage : 100,
-      order: 'name asc'
+      order: 'name asc',
+      context: { active_test: false }
     })
 
     const mapped = rawRecords.map(mapOdooCategoryToRecord)
@@ -138,7 +139,10 @@ export class SupplierTypeService {
   }
 
   static async getSupplierTypeById(id: number): Promise<SupplierTypeRecord | null> {
-    const records = await odooClient.searchRead<OdooPartnerCategoryRaw>(this.MODEL, [['id', '=', id]], [...CATEGORY_FIELDS], { limit: 1 })
+    const records = await odooClient.searchRead<OdooPartnerCategoryRaw>(this.MODEL, [['id', '=', id]], [...CATEGORY_FIELDS], {
+      limit: 1,
+      context: { active_test: false }
+    })
 
     if (!records.length) {
       return null
@@ -152,7 +156,7 @@ export class SupplierTypeService {
       this.MODEL,
       [['active', '=', true]],
       ['id', 'name', 'display_name', 'parent_id'],
-      { order: 'name asc' }
+      { order: 'name asc', context: { active_test: false } }
     )
 
     const mapped: SupplierTypeOption[] = records.map((r) => ({

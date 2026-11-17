@@ -175,11 +175,12 @@ export class SupplierService {
     }
 
     const [total, rawRecords] = await Promise.all([
-      odooClient.searchCount(this.MODEL, domain),
+      odooClient.searchCount(this.MODEL, domain, undefined, { context: { active_test: false } }),
       odooClient.searchRead<OdooPartnerSupplierRaw>(this.MODEL, domain, [...SUPPLIER_FIELDS], {
         offset,
         limit: perPage,
-        order: 'name asc'
+        order: 'name asc',
+        context: { active_test: false }
       })
     ])
 
@@ -196,7 +197,10 @@ export class SupplierService {
   }
 
   static async getSupplierById(id: number): Promise<SupplierRecord | null> {
-    const records = await odooClient.searchRead<OdooPartnerSupplierRaw>(this.MODEL, [['id', '=', id]], [...SUPPLIER_FIELDS], { limit: 1 })
+    const records = await odooClient.searchRead<OdooPartnerSupplierRaw>(this.MODEL, [['id', '=', id]], [...SUPPLIER_FIELDS], {
+      limit: 1,
+      context: { active_test: false }
+    })
 
     if (!records.length) {
       return null

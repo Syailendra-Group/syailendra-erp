@@ -6,7 +6,6 @@
 'use client'
 
 import { useState } from 'react'
-import { Factory } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 import { toast } from 'sonner'
 
@@ -15,7 +14,6 @@ import { ConfirmDialog } from '@/components/dialog/confirm-dialog'
 import { LocationMapCard } from '@/components/map/location-map-card'
 import { DetailRow } from '@/components/shared/detail-row'
 import { Badge } from '@/components/ui/badge'
-import { Dialog, DialogContent, DialogDescription, DialogHeader, DialogTitle } from '@/components/ui/dialog'
 import { useDistilleries } from '@/contexts/scm/distillery.context'
 import { useToggleDistilleryStatusMutation } from '@/hooks/scm/use-distilleries'
 
@@ -84,7 +82,7 @@ export function DistilleriesDialogs(): ReactElement {
       </ActionDialog>
 
       {/* View Detail Dialog */}
-      <Dialog
+      <ActionDialog
         open={isViewOpen}
         onOpenChange={(v) => {
           if (!v) {
@@ -92,56 +90,48 @@ export function DistilleriesDialogs(): ReactElement {
             setCurrentRow(null)
           }
         }}
+        isView
+        title={tTrace('dialog.viewTitle')}
+        description={tTrace('dialog.viewDesc')}
+        maxWidth="sm:max-w-lg"
       >
-        <DialogContent className="sm:max-w-lg">
-          <DialogHeader>
-            <div className="flex items-center gap-2">
-              <div className="bg-primary/10 text-primary rounded-md p-1.5">
-                <Factory className="size-4" />
-              </div>
-              <DialogTitle className="text-base font-semibold">{tTrace('dialog.viewTitle')}</DialogTitle>
-            </div>
-            <DialogDescription className="text-xs">{tTrace('dialog.viewDesc')}</DialogDescription>
-          </DialogHeader>
-
-          {currentRow && (
-            <div className="space-y-4 pt-2">
-              <div className="space-y-1 rounded-md border p-3">
-                <DetailRow label={t('details.id')} value={currentRow.ref} mono />
-                <DetailRow label={t('details.unitName')} value={currentRow.name} />
-                <DetailRow
-                  label={t('details.status')}
-                  value={
-                    <Badge variant={currentRow.active ? 'default' : 'outline'} className="text-[10px]">
-                      {currentRow.active ? tTrace('status.operational') : tTrace('status.maintenance')}
-                    </Badge>
-                  }
-                />
-                <DetailRow label={t('details.boilerCapacity')} value={`${currentRow.boiler_capacity_kg} Kg Biomassa`} mono />
-                <DetailRow label={t('details.extractionMethod')} value={tTrace(`methods.${currentRow.method}`) || currentRow.method} />
-                <DetailRow label={t('details.material')} value={currentRow.boiler_material} />
-                <DetailRow label={t('details.ownership')} value={tTrace(`ownership.${currentRow.ownership}`) || currentRow.ownership} />
-                <DetailRow label={t('details.operator')} value={currentRow.operator_name} />
-                {currentRow.phone && <DetailRow label={t('details.operatorContact')} value={currentRow.phone} mono />}
-                <DetailRow label={t('details.facilityAddress')} value={`${currentRow.street}, ${currentRow.city}`} />
-                {currentRow.partner_latitude && currentRow.partner_longitude && (
-                  <DetailRow label={t('details.coordinates')} value={`${currentRow.partner_latitude}, ${currentRow.partner_longitude}`} mono />
-                )}
-              </div>
-
+        {currentRow && (
+          <div className="space-y-4 pt-2">
+            <div className="space-y-1 rounded-md border p-3">
+              <DetailRow label={t('details.id')} value={currentRow.ref} mono />
+              <DetailRow label={t('details.unitName')} value={currentRow.name} />
+              <DetailRow
+                label={t('details.status')}
+                value={
+                  <Badge variant={currentRow.active ? 'default' : 'outline'} className="text-[10px]">
+                    {currentRow.active ? tTrace('status.operational') : tTrace('status.maintenance')}
+                  </Badge>
+                }
+              />
+              <DetailRow label={t('details.boilerCapacity')} value={`${currentRow.boiler_capacity_kg} Kg Biomassa`} mono />
+              <DetailRow label={t('details.extractionMethod')} value={tTrace(`methods.${currentRow.method}`) || currentRow.method} />
+              <DetailRow label={t('details.material')} value={currentRow.boiler_material} />
+              <DetailRow label={t('details.ownership')} value={tTrace(`ownership.${currentRow.ownership}`) || currentRow.ownership} />
+              <DetailRow label={t('details.operator')} value={currentRow.operator_name} />
+              {currentRow.phone && <DetailRow label={t('details.operatorContact')} value={currentRow.phone} mono />}
+              <DetailRow label={t('details.facilityAddress')} value={`${currentRow.street}, ${currentRow.city}`} />
               {currentRow.partner_latitude && currentRow.partner_longitude && (
-                <LocationMapCard
-                  latitude={currentRow.partner_latitude}
-                  longitude={currentRow.partner_longitude}
-                  title={t('details.coordinates')}
-                  markerLabel={currentRow.name}
-                  height="h-44"
-                />
+                <DetailRow label={t('details.coordinates')} value={`${currentRow.partner_latitude}, ${currentRow.partner_longitude}`} mono />
               )}
             </div>
-          )}
-        </DialogContent>
-      </Dialog>
+
+            {currentRow.partner_latitude && currentRow.partner_longitude && (
+              <LocationMapCard
+                latitude={currentRow.partner_latitude}
+                longitude={currentRow.partner_longitude}
+                title={t('details.coordinates')}
+                markerLabel={currentRow.name}
+                height="h-44"
+              />
+            )}
+          </div>
+        )}
+      </ActionDialog>
 
       {/* Confirmation Dialog */}
       <ConfirmDialog

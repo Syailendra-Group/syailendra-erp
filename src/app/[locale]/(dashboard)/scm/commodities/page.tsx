@@ -4,7 +4,7 @@ import type { Metadata } from 'next'
 import type { ReactElement } from 'react'
 
 export const metadata: Metadata = {
-  title: 'Commodity Master • Syailendra SCM',
+  title: 'Commodity Master',
   description: 'Botanical commodity register, plant parts, and essential oil commodity codes'
 }
 

@@ -20,8 +20,8 @@ async function companyScope(): Promise<number[] | undefined> {
   return session ? [session.companyId] : undefined
 }
 
-function normalizeError(error: unknown): string {
-  const message = error instanceof Error ? error.message : String(error)
+function normalizeError(error: Error): string {
+  const message = error.message
 
   if (message === 'DUPLICATE_CODE') return 'DUPLICATE_CODE'
   if (message === 'RELATIONAL_INTEGRITY_ERROR') return 'RELATIONAL_INTEGRITY_ERROR'
@@ -58,7 +58,7 @@ export async function createFarmAction(values: FarmFormValues): Promise<{ succes
     revalidatePath('/[locale]/scm/farms', 'page')
     return { success: true, id }
   } catch (error) {
-    return { success: false, error: normalizeError(error) }
+    return { success: false, error: normalizeError(error instanceof Error ? error : new Error(String(error))) }
   }
 }
 
@@ -70,7 +70,7 @@ export async function updateFarmAction(id: number, values: FarmFormValues): Prom
     revalidatePath('/[locale]/scm/farms', 'page')
     return { success: true }
   } catch (error) {
-    return { success: false, error: normalizeError(error) }
+    return { success: false, error: normalizeError(error instanceof Error ? error : new Error(String(error))) }
   }
 }
 
@@ -81,6 +81,6 @@ export async function deleteFarmAction(id: number): Promise<{ success: boolean; 
     revalidatePath('/[locale]/scm/farms', 'page')
     return { success: true }
   } catch (error) {
-    return { success: false, error: normalizeError(error) }
+    return { success: false, error: normalizeError(error instanceof Error ? error : new Error(String(error))) }
   }
 }

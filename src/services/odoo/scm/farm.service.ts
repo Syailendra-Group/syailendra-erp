@@ -129,8 +129,8 @@ function mapFarm(raw: RawFarm): FarmRecord {
   }
 }
 
-function normalizeWriteError(error: unknown): never {
-  const message = error instanceof Error ? error.message : String(error)
+function normalizeWriteError(error: Error): never {
+  const message = error.message
 
   if (/duplicate key|unique constraint|already exists|harus unik|sudah ada/i.test(message)) {
     throw new Error('DUPLICATE_CODE')
@@ -140,7 +140,7 @@ function normalizeWriteError(error: unknown): never {
     throw new Error('RELATIONAL_INTEGRITY_ERROR')
   }
 
-  throw error instanceof Error ? error : new Error(message)
+  throw error
 }
 
 function stripBase64Prefix(value: string): string {
@@ -184,7 +184,8 @@ export class FarmService {
   static async getFarmById(id: number, allowedCompanyIds?: number[]): Promise<FarmRecord | null> {
     const rows = await odooClient.searchRead<RawFarm>(MODEL, [['id', '=', id]], [...FARM_FIELDS, 'photo_farm'], {
       limit: 1,
-      allowedCompanyIds
+      allowedCompanyIds,
+      context: { active_test: false }
     })
     return rows.length > 0 ? mapFarm(rows[0]) : null
   }
@@ -192,9 +193,9 @@ export class FarmService {
   static async getPartnerOptions(allowedCompanyIds?: number[]): Promise<FarmPartnerOption[]> {
     const rows = await odooClient.searchRead<{ id: number; name: string; ref: string | false }>(
       'res.partner',
-      ['|', ['supplier_rank', '>', 0], ['ref', 'like', 'FMR%']],
+      ['|', ['supplier_rank', '>', 0], ['ref', 'like', 'SUP%']],
       ['id', 'name', 'ref'],
-      { order: 'name asc', limit: 300, allowedCompanyIds }
+      { order: 'name asc', limit: 300, allowedCompanyIds, context: { active_test: false } }
     )
 
     return rows.map((row) => ({ id: row.id, name: row.name, ref: toText(row.ref) }))
@@ -204,7 +205,7 @@ export class FarmService {
     try {
       return await odooClient.create(MODEL, this.buildValues(data), allowedCompanyIds)
     } catch (error) {
-      normalizeWriteError(error)
+      normalizeWriteError(error instanceof Error ? error : new Error(String(error)))
     }
   }
 
@@ -212,7 +213,7 @@ export class FarmService {
     try {
       return await odooClient.write(MODEL, [id], this.buildValues(data), allowedCompanyIds)
     } catch (error) {
-      normalizeWriteError(error)
+      normalizeWriteError(error instanceof Error ? error : new Error(String(error)))
     }
   }
 
@@ -220,7 +221,7 @@ export class FarmService {
     try {
       return await odooClient.unlink(MODEL, [id], allowedCompanyIds)
     } catch (error) {
-      normalizeWriteError(error)
+      normalizeWriteError(error instanceof Error ? error : new Error(String(error)))
     }
   }
 

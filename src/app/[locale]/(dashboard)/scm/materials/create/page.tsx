@@ -9,7 +9,7 @@ import type { Metadata } from 'next'
 import type { ReactElement } from 'react'
 
 export const metadata: Metadata = {
-  title: 'Register Material • Syailendra SCM',
+  title: 'Register Material',
   description: 'Register a new botanical commodity or packaging material into the master catalog'
 }
 

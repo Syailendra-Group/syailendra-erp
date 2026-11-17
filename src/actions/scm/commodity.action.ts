@@ -19,8 +19,8 @@ async function companyScope(): Promise<number[] | undefined> {
   return session ? [session.companyId] : undefined
 }
 
-function normalizeError(error: unknown): string {
-  const message = error instanceof Error ? error.message : String(error)
+function normalizeError(error: Error): string {
+  const message = error.message
 
   if (message === 'DUPLICATE_CODE') return 'DUPLICATE_CODE'
   if (message === 'RELATIONAL_INTEGRITY_ERROR') return 'RELATIONAL_INTEGRITY_ERROR'
@@ -50,7 +50,7 @@ export async function createCommodityAction(values: CommodityFormValues): Promis
     revalidatePath('/[locale]/scm/commodities', 'page')
     return { success: true, id }
   } catch (error) {
-    return { success: false, error: normalizeError(error) }
+    return { success: false, error: normalizeError(error instanceof Error ? error : new Error(String(error))) }
   }
 }
 
@@ -62,7 +62,7 @@ export async function updateCommodityAction(id: number, values: CommodityFormVal
     revalidatePath('/[locale]/scm/commodities', 'page')
     return { success: true }
   } catch (error) {
-    return { success: false, error: normalizeError(error) }
+    return { success: false, error: normalizeError(error instanceof Error ? error : new Error(String(error))) }
   }
 }
 
@@ -73,6 +73,6 @@ export async function deleteCommodityAction(id: number): Promise<{ success: bool
     revalidatePath('/[locale]/scm/commodities', 'page')
     return { success: true }
   } catch (error) {
-    return { success: false, error: normalizeError(error) }
+    return { success: false, error: normalizeError(error instanceof Error ? error : new Error(String(error))) }
   }
 }

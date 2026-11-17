@@ -1,7 +1,7 @@
 'use client'
 
 import { ColumnDef } from '@tanstack/react-table'
-import { Factory, Flame, Gauge } from 'lucide-react'
+import { Building2, Flame, Gauge, MapPin, User } from 'lucide-react'
 
 import { ActionButton } from '@/components/button/action-button'
 import { DataTableColumnHeader } from '@/components/data-table/column-header'
@@ -13,72 +13,83 @@ import type { DistilleryRecord } from '@/types/scm/distillery'
 
 export interface GetColumnsOptions {
   t: (key: string) => string
-  tTrace?: (key: string) => string
   tCommon: (key: string) => string
   onView?: (item: DistilleryRecord) => void
   onEdit?: (item: DistilleryRecord) => void
   onDelete?: (item: DistilleryRecord) => void
 }
 
-export function getColumns({ t: tProp, tTrace, tCommon, onView, onEdit, onDelete }: GetColumnsOptions): ColumnDef<DistilleryRecord>[] {
-  const t = tProp || tTrace!
+export function getColumns({ t, tCommon, onView, onEdit, onDelete }: GetColumnsOptions): ColumnDef<DistilleryRecord>[] {
   return [
     {
-      accessorKey: 'ref',
+      accessorKey: 'code',
       header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.code')} />,
-      cell: ({ row }) => <PrimaryText fallback="-">{row.original.ref}</PrimaryText>,
+      cell: ({ row }) => <PrimaryText fallback="-">{row.original.code}</PrimaryText>,
       enableSorting: true
     },
     {
       accessorKey: 'name',
       header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.name')} />,
       cell: ({ row }) => (
-        <IconText icon={Factory} className="max-w-55 text-xs font-semibold">
+        <IconText icon={Building2} className="max-w-55 text-xs font-semibold">
           <LongText>{row.original.name}</LongText>
         </IconText>
       ),
       enableSorting: true
     },
     {
-      accessorKey: 'method',
-      header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.method') || 'Metode'} />,
+      id: 'partner_id',
+      accessorKey: 'partnerName',
+      header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.partner')} />,
       cell: ({ row }) => (
-        <Badge variant="outline" className="text-[10px] font-normal">
-          <IconText icon={Flame} iconClassName="text-amber-500 h-3 w-3">
-            {row.original.method || '-'}
-          </IconText>
-        </Badge>
-      )
-    },
-    {
-      accessorKey: 'boiler_capacity_kg',
-      header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.capacity') || 'Kapasitas'} />,
-      cell: ({ row }) => (
-        <IconText icon={Gauge} mono className="text-muted-foreground">
-          {row.original.boiler_capacity_kg ? `${row.original.boiler_capacity_kg} Kg` : '-'}
+        <IconText icon={User} className="max-w-45 text-xs">
+          <LongText>{row.original.partnerName || '-'}</LongText>
         </IconText>
       ),
       enableSorting: true
     },
     {
-      accessorKey: 'city',
+      id: 'distillation_method',
+      accessorKey: 'distillationMethod',
+      header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.method')} />,
+      cell: ({ row }) => (
+        <Badge variant="outline" className="text-[10px] font-normal">
+          <IconText icon={Flame} iconClassName="text-amber-500 h-3 w-3">
+            {t(`methods.${row.original.distillationMethod}`)}
+          </IconText>
+        </Badge>
+      ),
+      enableSorting: true
+    },
+    {
+      id: 'boiler_capacity_kg',
+      accessorKey: 'boilerCapacityKg',
+      header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.capacity')} />,
+      cell: ({ row }) => (
+        <IconText icon={Gauge} mono className="text-muted-foreground">
+          {row.original.boilerCapacityKg ? `${row.original.boilerCapacityKg} Kg` : '-'}
+        </IconText>
+      ),
+      enableSorting: true
+    },
+    {
+      id: 'city_id',
+      accessorKey: 'cityName',
       header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.location')} />,
-      cell: ({ row }) => {
-        const item = row.original
-        return <LongText className="text-muted-foreground block max-w-45 text-xs">{item.city || '-'}</LongText>
-      }
+      cell: ({ row }) => (
+        <IconText icon={MapPin} className="text-muted-foreground max-w-45 text-xs">
+          <LongText>{row.original.cityName || '-'}</LongText>
+        </IconText>
+      )
     },
     {
       accessorKey: 'active',
       header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.status')} />,
-      cell: ({ row }) => {
-        const active = row.original.active
-        return (
-          <StatusBadge variant={active ? 'success' : 'neutral'} size="sm">
-            {active ? t('status.active') : t('status.archived')}
-          </StatusBadge>
-        )
-      },
+      cell: ({ row }) => (
+        <StatusBadge variant={row.original.active ? 'success' : 'neutral'} size="sm">
+          {row.original.active ? t('status.operational') : t('status.maintenance')}
+        </StatusBadge>
+      ),
       enableSorting: true
     },
     {

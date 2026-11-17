@@ -13,17 +13,16 @@ import { getColumns } from './columns'
 
 import type { ReactElement } from 'react'
 
-const FILTER_KEYS = ['method', 'active']
+const FILTER_KEYS = ['distillation_method', 'active']
+
+const METHOD_VALUES = ['steam', 'water_dist', 'water_steam', 'hydrodiffusion', 'co2', 'cold_press', 'solvent', 'enfleurage']
 
 export function DistilleriesTable(): ReactElement {
-  // Translations
-  const t = useTranslations('traceability')
+  const t = useTranslations('scm.distilleries')
   const tCommon = useTranslations('common')
 
-  // Context and action handlers
   const { handleView, handleEdit, handleDelete } = useDistilleries()
 
-  // URL state controller
   const {
     page,
     perPage,
@@ -40,13 +39,13 @@ export function DistilleriesTable(): ReactElement {
     onGlobalFilterChange,
     createColumnFiltersHandler
   } = useDataTableUrlState({
-    defaultSort: 'ref.asc',
+    defaultSort: 'code.asc',
     filterKeys: FILTER_KEYS
   })
 
-  // Data fetching and server pagination
-  const methodList = getArrayFilter('method')
+  const methodList = getArrayFilter('distillation_method')
   const statusList = getArrayFilter('active')
+  const activeFilter = statusList.length === 1 ? statusList[0] === 'active' : undefined
 
   const {
     data: result,
@@ -56,15 +55,14 @@ export function DistilleriesTable(): ReactElement {
     page,
     perPage,
     search,
-    method: methodList.length > 0 ? methodList : undefined,
-    status: statusList.length > 0 ? statusList : undefined,
+    methods: methodList.length > 0 ? methodList : undefined,
+    active: activeFilter,
     order: orderOdoo
   })
 
   const distilleries = result?.records ?? []
   const totalCount = result?.totalCount ?? 0
 
-  // Column definitions
   const columns = useMemo(
     () =>
       getColumns({
@@ -77,22 +75,16 @@ export function DistilleriesTable(): ReactElement {
     [t, tCommon, handleView, handleEdit, handleDelete]
   )
 
-  // Filter options
   const filters = useMemo(
     () => [
       {
-        columnId: 'method',
-        title: t('distilleries.table.method'),
-        options: [
-          { label: t('distilleries.methods.steam'), value: 'steam' },
-          { label: t('distilleries.methods.hydro'), value: 'hydro' },
-          { label: t('distilleries.methods.water_steam'), value: 'water_steam' },
-          { label: t('distilleries.methods.cold_pressed'), value: 'cold_pressed' }
-        ]
+        columnId: 'distillation_method',
+        title: t('table.method'),
+        options: METHOD_VALUES.map((value) => ({ label: t(`methods.${value}`), value }))
       },
       {
         columnId: 'active',
-        title: t('distilleries.table.status'),
+        title: t('table.status'),
         options: [
           { label: tCommon('status.active'), value: 'active' },
           { label: tCommon('status.archived'), value: 'archived' }
@@ -102,7 +94,6 @@ export function DistilleriesTable(): ReactElement {
     [t, tCommon]
   )
 
-  // Table instance
   const table = useReactTable({
     data: distilleries,
     columns,
@@ -125,6 +116,5 @@ export function DistilleriesTable(): ReactElement {
 
   const showSkeleton = isLoading || (isFetching && distilleries.length === 0)
 
-  // Render datatable layout
   return <DataTable table={table} showSkeleton={showSkeleton} isUpdating={isUpdating} onReset={resetFilters} filters={filters} />
 }

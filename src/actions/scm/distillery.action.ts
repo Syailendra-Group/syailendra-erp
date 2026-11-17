@@ -4,11 +4,17 @@ import { revalidatePath } from 'next/cache'
 
 import { requireSession } from '@/lib/auth/guard'
 import { distilleryFormSchema } from '@/schemas/scm/distillery-schema'
-import { fetchDistilleries, fetchDistilleriesPaginated, persistDistillery, updateDistilleryActiveState } from '@/services/odoo/scm/distillery.service'
+import {
+  fetchDistilleries,
+  fetchDistilleriesPaginated,
+  fetchDistilleryById,
+  fetchDistilleryPartnerOptions,
+  persistDistillery,
+  updateDistilleryActiveState
+} from '@/services/odoo/scm/distillery.service'
 
 import type { DistilleryFormValues } from '@/schemas/scm/distillery-schema'
-import type { FetchDistilleriesPaginatedParams, FetchDistilleriesPaginatedResult } from '@/services/odoo/scm/distillery.service'
-import type { DistilleryRecord } from '@/types/scm/distillery'
+import type { DistilleryPartnerOption, DistilleryRecord, FetchDistilleriesPaginatedResult, FetchDistilleriesParams } from '@/types/scm/distillery'
 
 export type { DistilleryRecord }
 
@@ -17,15 +23,15 @@ export async function getDistilleriesAction(): Promise<{ distilleries: Distiller
   try {
     const distilleries = await fetchDistilleries()
     return { distilleries }
-  } catch {
+  } catch (err) {
     return {
       distilleries: [],
-      error: 'Failed to retrieve distillery units from Odoo 18'
+      error: err instanceof Error ? err.message : 'Failed to retrieve distillation facilities from Odoo 18'
     }
   }
 }
 
-export async function getDistilleriesPaginatedAction(params: FetchDistilleriesPaginatedParams = {}): Promise<FetchDistilleriesPaginatedResult> {
+export async function getDistilleriesPaginatedAction(params: FetchDistilleriesParams = {}): Promise<FetchDistilleriesPaginatedResult> {
   await requireSession()
   try {
     return await fetchDistilleriesPaginated(params)
@@ -33,9 +39,27 @@ export async function getDistilleriesPaginatedAction(params: FetchDistilleriesPa
     return {
       records: [],
       totalCount: 0,
-      page: params.page || 1,
-      perPage: params.perPage || 20
+      page: params.page ?? 1,
+      perPage: params.perPage ?? 20
     }
+  }
+}
+
+export async function getDistilleryByIdAction(id: number): Promise<DistilleryRecord | null> {
+  await requireSession()
+  try {
+    return await fetchDistilleryById(id)
+  } catch {
+    return null
+  }
+}
+
+export async function getDistilleryPartnerOptionsAction(): Promise<DistilleryPartnerOption[]> {
+  await requireSession()
+  try {
+    return await fetchDistilleryPartnerOptions()
+  } catch {
+    return []
   }
 }
 
@@ -50,10 +74,10 @@ export async function saveDistilleryAction(rawValues: DistilleryFormValues): Pro
     }
 
     return result
-  } catch {
+  } catch (err) {
     return {
       success: false,
-      error: 'Validation failed for distillery unit payload'
+      error: err instanceof Error ? err.message : 'Validation failed for distillation facility payload'
     }
   }
 }
@@ -69,7 +93,7 @@ export async function toggleDistilleryStatusAction(id: number, active: boolean):
   } catch {
     return {
       success: false,
-      error: 'Failed to toggle active state of distillery'
+      error: 'Failed to toggle active state of distillation facility'
     }
   }
 }

@@ -1,19 +1,22 @@
 'use client'
 
-import { useEffect } from 'react'
+/**
+ * index.tsx — Distillation Facility form orchestrator (ActionDialog modal)
+ * Syailendra Group ERP — SCM Pillar
+ */
+import { useEffect, useMemo } from 'react'
 import { zodResolver } from '@hookform/resolvers/zod'
 import { useTranslations } from 'next-intl'
 import { useForm } from 'react-hook-form'
 import { toast } from 'sonner'
 
-import { FormFieldWrapper } from '@/components/form/form-field-wrapper'
-import { SelectForm } from '@/components/form/select-form'
-import { Input } from '@/components/ui/input'
-import { Textarea } from '@/components/ui/textarea'
-import { useSaveDistilleryMutation } from '@/hooks/scm/use-distilleries'
+import { useDistilleryPartnerOptions, useSaveDistilleryMutation } from '@/hooks/scm/use-distilleries'
 import { getDistilleryFormSchema } from '@/schemas/scm/distillery-schema'
 
-import { getDistilleryOptions } from './options'
+import { IdentitySection } from './identity-section'
+import { LocationSection } from './location-section'
+import { PerformanceSection } from './performance-section'
+import { SpecSection } from './spec-section'
 
 import type { DistilleryFormValues } from '@/schemas/scm/distillery-schema'
 import type { DistilleryRecord } from '@/types/scm/distillery'
@@ -25,176 +28,110 @@ export interface DistilleryFormProps {
   onPendingChange?: (isPending: boolean) => void
 }
 
+function toDistilleryFormValues(record?: DistilleryRecord | null): DistilleryFormValues {
+  if (!record) {
+    return {
+      name: '',
+      code: '',
+      partner_id: 0,
+      state_id: undefined,
+      city_id: undefined,
+      district_id: undefined,
+      subdistrict_id: undefined,
+      address_detail: '',
+      latitude: undefined,
+      longitude: undefined,
+      facility_area_m2: undefined,
+      distillation_method: 'steam',
+      boiler_count: 1,
+      boiler_capacity_kg: 0,
+      boiler_material: 'stainless_304',
+      fuel_type: 'biomass',
+      avg_duration_hours: undefined,
+      operating_temp_c: undefined,
+      operating_pressure_bar: undefined,
+      avg_yield_percent: undefined,
+      monthly_capacity_kg: undefined,
+      yearly_capacity_kg: undefined,
+      max_capacity_kg: undefined,
+      lead_time_days: undefined,
+      moq_kg: undefined,
+      photo_distillery: null,
+      active: true
+    }
+  }
+
+  return {
+    id: record.id,
+    name: record.name,
+    code: record.code,
+    partner_id: record.partnerId ?? 0,
+    state_id: record.stateId ?? undefined,
+    city_id: record.cityId ?? undefined,
+    district_id: record.districtId ?? undefined,
+    subdistrict_id: record.subdistrictId ?? undefined,
+    address_detail: record.addressDetail || '',
+    latitude: record.latitude ?? undefined,
+    longitude: record.longitude ?? undefined,
+    facility_area_m2: record.facilityAreaM2 ?? undefined,
+    distillation_method: record.distillationMethod,
+    boiler_count: record.boilerCount || 1,
+    boiler_capacity_kg: record.boilerCapacityKg ?? 0,
+    boiler_material: record.boilerMaterial,
+    fuel_type: record.fuelType,
+    avg_duration_hours: record.avgDurationHours ?? undefined,
+    operating_temp_c: record.operatingTempC ?? undefined,
+    operating_pressure_bar: record.operatingPressureBar ?? undefined,
+    avg_yield_percent: record.avgYieldPercent ?? undefined,
+    monthly_capacity_kg: record.monthlyCapacityKg ?? undefined,
+    yearly_capacity_kg: record.yearlyCapacityKg ?? undefined,
+    max_capacity_kg: record.maxCapacityKg ?? undefined,
+    lead_time_days: record.leadTimeDays ?? undefined,
+    moq_kg: record.moqKg ?? undefined,
+    photo_distillery: record.photoDistillery ?? null,
+    active: record.active
+  }
+}
+
 export function DistilleryForm({ currentRow, onSuccess, onPendingChange }: DistilleryFormProps): ReactElement {
-  const tTrace = useTranslations('scm.distilleries')
+  const t = useTranslations('scm.distilleries')
   const { mutateAsync: saveDistillery, isPending } = useSaveDistilleryMutation()
+  const { data: partnerOptions = [] } = useDistilleryPartnerOptions()
   const isEdit = Boolean(currentRow)
 
-  const {
-    register,
-    handleSubmit,
-    reset,
-    setValue,
-    watch,
-    formState: { errors }
-  } = useForm<DistilleryFormValues>({
-    resolver: zodResolver(getDistilleryFormSchema(tTrace)),
-    defaultValues: {
-      ref: currentRow?.ref || '',
-      name: currentRow?.name || '',
-      boiler_capacity_kg: currentRow?.boiler_capacity_kg || 500,
-      boiler_material: currentRow?.boiler_material || 'sus316',
-      method: (currentRow?.method as DistilleryFormValues['method']) || 'steam',
-      ownership: (currentRow?.ownership as DistilleryFormValues['ownership']) || 'internal',
-      sanitation_status: (currentRow?.sanitation_status as DistilleryFormValues['sanitation_status']) || 'passed',
-      partner_latitude: currentRow?.partner_latitude || -7.21,
-      partner_longitude: currentRow?.partner_longitude || 109.91,
-      operator_name: currentRow?.operator_name || '',
-      phone: currentRow?.phone || '',
-      street: currentRow?.street || '',
-      city: currentRow?.city || 'Wonosobo',
-      comment: currentRow?.comment || ''
-    }
+  const formValues = useMemo(() => toDistilleryFormValues(currentRow), [currentRow])
+
+  const form = useForm<DistilleryFormValues>({
+    resolver: zodResolver(getDistilleryFormSchema(t)),
+    values: formValues
   })
 
   useEffect(() => {
     onPendingChange?.(isPending)
   }, [isPending, onPendingChange])
 
-  useEffect(() => {
-    if (currentRow) {
-      reset({
-        ref: currentRow.ref || '',
-        name: currentRow.name || '',
-        boiler_capacity_kg: currentRow.boiler_capacity_kg || 500,
-        boiler_material: currentRow.boiler_material || 'sus316',
-        method: (currentRow.method as DistilleryFormValues['method']) || 'steam',
-        ownership: (currentRow.ownership as DistilleryFormValues['ownership']) || 'internal',
-        sanitation_status: (currentRow.sanitation_status as DistilleryFormValues['sanitation_status']) || 'passed',
-        partner_latitude: currentRow.partner_latitude || -7.21,
-        partner_longitude: currentRow.partner_longitude || 109.91,
-        operator_name: currentRow.operator_name || '',
-        phone: currentRow.phone || '',
-        street: currentRow.street || '',
-        city: currentRow.city || 'Wonosobo',
-        comment: currentRow.comment || ''
-      })
-    }
-  }, [currentRow, reset])
-
   const onSubmit = async (values: DistilleryFormValues) => {
+    const payload = isEdit && currentRow ? { ...values, id: currentRow.id } : values
+
     try {
-      const payload = isEdit && currentRow ? { ...values, id: currentRow.id } : values
       const res = await saveDistillery(payload)
       if (res.success) {
-        toast.success(isEdit ? tTrace('messages.updated') : tTrace('messages.created'))
+        toast.success(isEdit ? t('messages.updated') : t('messages.created'))
         onSuccess()
-      } else {
-        toast.error(res.error || tTrace('messages.error'))
+        return
       }
-    } catch {
-      toast.error(tTrace('messages.error'))
+      toast.error(res.error === 'DUPLICATE_CODE' ? t('messages.duplicateCode') : res.error || t('messages.error'))
+    } catch (err) {
+      toast.error(err instanceof Error ? err.message : t('messages.error'))
     }
   }
 
-  const { methodOptions, materialOptions, ownershipOptions, sanitationOptions } = getDistilleryOptions(tTrace)
-
   return (
-    <form id="distillery-action-form" onSubmit={handleSubmit(onSubmit)} className="space-y-4 px-1">
-      <div className="grid grid-cols-1 gap-3 sm:grid-cols-2">
-        <FormFieldWrapper id="distillery-ref" label={tTrace('fields.code')} required error={errors.ref?.message}>
-          <Input id="distillery-ref" placeholder={tTrace('fields.refPlaceholder')} disabled={isPending} {...register('ref')} />
-        </FormFieldWrapper>
-
-        <FormFieldWrapper id="distillery-name" label={tTrace('fields.unitName')} required error={errors.name?.message}>
-          <Input id="distillery-name" placeholder={tTrace('fields.namePlaceholder')} disabled={isPending} {...register('name')} />
-        </FormFieldWrapper>
-      </div>
-
-      <div className="grid grid-cols-1 gap-3 sm:grid-cols-2">
-        <FormFieldWrapper id="distillery-capacity" label={tTrace('fields.boilerCapacity')} required error={errors.boiler_capacity_kg?.message}>
-          <Input
-            id="distillery-capacity"
-            type="number"
-            placeholder={tTrace('fields.boilerCapacityPlaceholder')}
-            disabled={isPending}
-            {...register('boiler_capacity_kg', { valueAsNumber: true })}
-          />
-        </FormFieldWrapper>
-
-        <FormFieldWrapper id="distillery-method" label={tTrace('fields.extractionMethod')} required error={errors.method?.message}>
-          <SelectForm
-            placeholder={tTrace('fields.methodPlaceholder')}
-            disabled={isPending}
-            value={watch('method')}
-            onValueChange={(val) => setValue('method', val as DistilleryFormValues['method'])}
-            items={methodOptions}
-          />
-        </FormFieldWrapper>
-      </div>
-
-      <div className="grid grid-cols-1 gap-3 sm:grid-cols-3">
-        <FormFieldWrapper id="distillery-material" label={tTrace('fields.material')} required error={errors.boiler_material?.message}>
-          <SelectForm
-            placeholder={tTrace('fields.materialPlaceholder')}
-            disabled={isPending}
-            value={watch('boiler_material')}
-            onValueChange={(val) => setValue('boiler_material', val)}
-            items={materialOptions}
-          />
-        </FormFieldWrapper>
-
-        <FormFieldWrapper id="distillery-ownership" label={tTrace('fields.ownership')} required error={errors.ownership?.message}>
-          <SelectForm
-            placeholder={tTrace('fields.ownershipPlaceholder')}
-            disabled={isPending}
-            value={watch('ownership')}
-            onValueChange={(val) => setValue('ownership', val as DistilleryFormValues['ownership'])}
-            items={ownershipOptions}
-          />
-        </FormFieldWrapper>
-
-        <FormFieldWrapper id="distillery-sanitation" label={tTrace('fields.sanitation')} required error={errors.sanitation_status?.message}>
-          <SelectForm
-            placeholder={tTrace('fields.sanitationPlaceholder')}
-            disabled={isPending}
-            value={watch('sanitation_status')}
-            onValueChange={(val) => setValue('sanitation_status', val as DistilleryFormValues['sanitation_status'])}
-            items={sanitationOptions}
-          />
-        </FormFieldWrapper>
-      </div>
-
-      <div className="grid grid-cols-1 gap-3 sm:grid-cols-2">
-        <FormFieldWrapper id="distillery-operator" label={tTrace('fields.operator')} required error={errors.operator_name?.message}>
-          <Input
-            id="distillery-operator"
-            placeholder={tTrace('fields.operatorNamePlaceholder')}
-            disabled={isPending}
-            {...register('operator_name')}
-          />
-        </FormFieldWrapper>
-
-        <FormFieldWrapper id="distillery-phone" label={tTrace('fields.operatorPhone')} error={errors.phone?.message}>
-          <Input id="distillery-phone" placeholder={tTrace('fields.phonePlaceholder')} disabled={isPending} {...register('phone')} />
-        </FormFieldWrapper>
-      </div>
-
-      <div className="grid grid-cols-1 gap-3 sm:grid-cols-2">
-        <FormFieldWrapper id="distillery-street" label={tTrace('fields.facilityAddress')} required error={errors.street?.message}>
-          <Textarea id="distillery-street" rows={3} placeholder={tTrace('fields.streetPlaceholder')} disabled={isPending} {...register('street')} />
-        </FormFieldWrapper>
-
-        <FormFieldWrapper id="distillery-comment" label={tTrace('fields.comment')} error={errors.comment?.message}>
-          <Textarea
-            id="distillery-comment"
-            rows={3}
-            placeholder={tTrace('fields.commentPlaceholder')}
-            disabled={isPending}
-            {...register('comment')}
-          />
-        </FormFieldWrapper>
-      </div>
+    <form id="distillery-action-form" onSubmit={form.handleSubmit(onSubmit)} className="space-y-4">
+      <IdentitySection form={form} partnerOptions={partnerOptions} disabled={isPending} />
+      <SpecSection form={form} disabled={isPending} />
+      <PerformanceSection form={form} disabled={isPending} />
+      <LocationSection form={form} disabled={isPending} />
     </form>
   )
 }

@@ -1,5 +1,5 @@
 /**
- * dialogs.tsx — View DetailRow, ActionDialog Form, and Archive ConfirmDialog for Distilleries
+ * dialogs.tsx — View DetailRow, ActionDialog Form, and Archive ConfirmDialog for Distillation Facilities
  * Syailendra Group ERP (SCM Pillar)
  */
 
@@ -19,7 +19,16 @@ import { useToggleDistilleryStatusMutation } from '@/hooks/scm/use-distilleries'
 
 import { DistilleryForm } from './form/index'
 
-import type { ReactElement } from 'react'
+import type { ReactElement, ReactNode } from 'react'
+
+function DetailBlock({ title, children }: { title: string; children: ReactNode }): ReactElement {
+  return (
+    <div className="space-y-1 rounded-md border p-3">
+      <p className="text-muted-foreground mb-1.5 text-[10px] font-semibold tracking-wide uppercase">{title}</p>
+      {children}
+    </div>
+  )
+}
 
 export function DistilleriesDialogs(): ReactElement {
   const t = useTranslations('scm.distilleries')
@@ -68,7 +77,7 @@ export function DistilleriesDialogs(): ReactElement {
         title={open === 'edit' ? tTrace('dialog.editTitle') : tTrace('dialog.addTitle')}
         description={open === 'edit' ? tTrace('dialog.editDesc') : tTrace('dialog.addDesc')}
         isPending={isFormPending}
-        maxWidth="sm:max-w-xl"
+        maxWidth="sm:max-w-3xl"
       >
         <DistilleryForm
           currentRow={currentRow}
@@ -93,13 +102,14 @@ export function DistilleriesDialogs(): ReactElement {
         isView
         title={tTrace('dialog.viewTitle')}
         description={tTrace('dialog.viewDesc')}
-        maxWidth="sm:max-w-lg"
+        maxWidth="sm:max-w-2xl"
       >
         {currentRow && (
           <div className="space-y-4 pt-2">
-            <div className="space-y-1 rounded-md border p-3">
-              <DetailRow label={t('details.id')} value={currentRow.ref} mono />
-              <DetailRow label={t('details.unitName')} value={currentRow.name} />
+            <DetailBlock title={t('details.identity')}>
+              <DetailRow label={t('details.code')} value={currentRow.code} mono />
+              <DetailRow label={t('details.name')} value={currentRow.name} />
+              <DetailRow label={t('details.partner')} value={currentRow.partnerName || '-'} />
               <DetailRow
                 label={t('details.status')}
                 value={
@@ -108,22 +118,59 @@ export function DistilleriesDialogs(): ReactElement {
                   </Badge>
                 }
               />
-              <DetailRow label={t('details.boilerCapacity')} value={`${currentRow.boiler_capacity_kg} Kg Biomassa`} mono />
-              <DetailRow label={t('details.extractionMethod')} value={tTrace(`methods.${currentRow.method}`) || currentRow.method} />
-              <DetailRow label={t('details.material')} value={currentRow.boiler_material} />
-              <DetailRow label={t('details.ownership')} value={tTrace(`ownership.${currentRow.ownership}`) || currentRow.ownership} />
-              <DetailRow label={t('details.operator')} value={currentRow.operator_name} />
-              {currentRow.phone && <DetailRow label={t('details.operatorContact')} value={currentRow.phone} mono />}
-              <DetailRow label={t('details.facilityAddress')} value={`${currentRow.street}, ${currentRow.city}`} />
-              {currentRow.partner_latitude && currentRow.partner_longitude && (
-                <DetailRow label={t('details.coordinates')} value={`${currentRow.partner_latitude}, ${currentRow.partner_longitude}`} mono />
-              )}
-            </div>
+            </DetailBlock>
 
-            {currentRow.partner_latitude && currentRow.partner_longitude && (
+            <DetailBlock title={t('details.technical')}>
+              <DetailRow label={t('details.method')} value={tTrace(`methods.${currentRow.distillationMethod}`)} />
+              <DetailRow label={t('details.boilerCount')} value={`${currentRow.boilerCount} ${t('details.unit')}`} mono />
+              <DetailRow label={t('details.boilerCapacity')} value={currentRow.boilerCapacityKg ? `${currentRow.boilerCapacityKg} Kg` : '-'} mono />
+              <DetailRow label={t('details.material')} value={tTrace(`materials.${currentRow.boilerMaterial}`)} />
+              <DetailRow label={t('details.fuelType')} value={tTrace(`fuels.${currentRow.fuelType}`)} />
+              <DetailRow label={t('details.facilityArea')} value={currentRow.facilityAreaM2 ? `${currentRow.facilityAreaM2} m²` : '-'} mono />
+            </DetailBlock>
+
+            <DetailBlock title={t('details.performance')}>
+              <DetailRow label={t('details.avgDuration')} value={currentRow.avgDurationHours ? `${currentRow.avgDurationHours} jam` : '-'} mono />
+              <DetailRow label={t('details.operatingTemp')} value={currentRow.operatingTempC ? `${currentRow.operatingTempC} °C` : '-'} mono />
+              <DetailRow
+                label={t('details.operatingPressure')}
+                value={currentRow.operatingPressureBar ? `${currentRow.operatingPressureBar} bar` : '-'}
+                mono
+              />
+              <DetailRow label={t('details.avgYield')} value={currentRow.avgYieldPercent ? `${currentRow.avgYieldPercent} %` : '-'} mono />
+            </DetailBlock>
+
+            <DetailBlock title={t('details.capacity')}>
+              <DetailRow
+                label={t('details.monthlyCapacity')}
+                value={currentRow.monthlyCapacityKg ? `${currentRow.monthlyCapacityKg} Kg` : '-'}
+                mono
+              />
+              <DetailRow label={t('details.yearlyCapacity')} value={currentRow.yearlyCapacityKg ? `${currentRow.yearlyCapacityKg} Kg` : '-'} mono />
+              <DetailRow label={t('details.maxCapacity')} value={currentRow.maxCapacityKg ? `${currentRow.maxCapacityKg} Kg` : '-'} mono />
+              <DetailRow
+                label={t('details.leadTime')}
+                value={currentRow.leadTimeDays ? `${currentRow.leadTimeDays} ${t('details.days')}` : '-'}
+                mono
+              />
+              <DetailRow label={t('details.moq')} value={currentRow.moqKg ? `${currentRow.moqKg} Kg` : '-'} mono />
+            </DetailBlock>
+
+            <DetailBlock title={t('details.location')}>
+              <DetailRow label={t('details.province')} value={currentRow.stateName || '-'} />
+              <DetailRow label={t('details.regency')} value={currentRow.cityName || '-'} />
+              <DetailRow label={t('details.district')} value={currentRow.districtName || '-'} />
+              <DetailRow label={t('details.village')} value={currentRow.subdistrictName || '-'} />
+              {currentRow.addressDetail && <DetailRow label={t('details.addressDetail')} value={currentRow.addressDetail} />}
+              {currentRow.latitude && currentRow.longitude && (
+                <DetailRow label={t('details.coordinates')} value={`${currentRow.latitude}, ${currentRow.longitude}`} mono />
+              )}
+            </DetailBlock>
+
+            {currentRow.latitude && currentRow.longitude && (
               <LocationMapCard
-                latitude={currentRow.partner_latitude}
-                longitude={currentRow.partner_longitude}
+                latitude={currentRow.latitude}
+                longitude={currentRow.longitude}
                 title={t('details.coordinates')}
                 markerLabel={currentRow.name}
                 height="h-44"

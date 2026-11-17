@@ -1,31 +1,49 @@
-import { CheckCircle2, Clock, Droplets, Factory, Flame, ShieldCheck, Sparkles, Wind, Wrench } from 'lucide-react'
+import { Boxes, Droplets, Factory, Flame, Leaf, ShieldCheck, Snowflake, Sparkles, Wind, Wrench, Zap } from 'lucide-react'
 
 import type { SelectOption } from '@/components/form/select-form'
 
-export function getDistilleryOptions(tTrace: (key: string) => string) {
+export function getDistilleryOptions(t: (key: string) => string) {
   const methodOptions: SelectOption[] = [
-    { label: tTrace('methods.steam'), value: 'steam', description: tTrace('methodDescriptions.steam'), icon: Flame },
-    { label: tTrace('methods.hydro'), value: 'hydro', description: tTrace('methodDescriptions.hydro'), icon: Droplets },
-    { label: tTrace('methods.water_steam'), value: 'water_steam', description: tTrace('methodDescriptions.water_steam'), icon: Wind },
-    { label: tTrace('methods.cold_pressed'), value: 'cold_pressed', description: tTrace('methodDescriptions.cold_pressed'), icon: Sparkles }
+    { label: t('methods.steam'), value: 'steam', description: t('methodDescriptions.steam'), icon: Flame },
+    { label: t('methods.water_dist'), value: 'water_dist', description: t('methodDescriptions.water_dist'), icon: Droplets },
+    { label: t('methods.water_steam'), value: 'water_steam', description: t('methodDescriptions.water_steam'), icon: Wind },
+    {
+      label: t('methods.hydrodiffusion'),
+      value: 'hydrodiffusion',
+      description: t('methodDescriptions.hydrodiffusion'),
+      icon: Sparkles
+    },
+    { label: t('methods.co2'), value: 'co2', description: t('methodDescriptions.co2'), icon: Snowflake },
+    { label: t('methods.cold_press'), value: 'cold_press', description: t('methodDescriptions.cold_press'), icon: Leaf },
+    { label: t('methods.solvent'), value: 'solvent', description: t('methodDescriptions.solvent'), icon: Boxes },
+    { label: t('methods.enfleurage'), value: 'enfleurage', description: t('methodDescriptions.enfleurage'), icon: Sparkles }
   ]
 
   const materialOptions: SelectOption[] = [
-    { label: tTrace('materials.sus316'), value: 'sus316', description: tTrace('materialDescriptions.sus316'), icon: ShieldCheck },
-    { label: tTrace('materials.sus304'), value: 'sus304', description: tTrace('materialDescriptions.sus304'), icon: Factory },
-    { label: tTrace('materials.copper'), value: 'copper', description: tTrace('materialDescriptions.copper'), icon: Sparkles }
+    {
+      label: t('materials.stainless_316'),
+      value: 'stainless_316',
+      description: t('materialDescriptions.stainless_316'),
+      icon: ShieldCheck
+    },
+    {
+      label: t('materials.stainless_304'),
+      value: 'stainless_304',
+      description: t('materialDescriptions.stainless_304'),
+      icon: Factory
+    },
+    { label: t('materials.copper'), value: 'copper', description: t('materialDescriptions.copper'), icon: Sparkles },
+    { label: t('materials.mild_steel'), value: 'mild_steel', description: t('materialDescriptions.mild_steel'), icon: Wrench },
+    { label: t('materials.galvanized'), value: 'galvanized', description: t('materialDescriptions.galvanized'), icon: Boxes }
   ]
 
-  const ownershipOptions: SelectOption[] = [
-    { label: tTrace('ownership.internal'), value: 'internal', description: tTrace('ownershipDescriptions.internal'), icon: Factory },
-    { label: tTrace('ownership.partner'), value: 'partner', description: tTrace('ownershipDescriptions.partner'), icon: ShieldCheck }
+  const fuelOptions: SelectOption[] = [
+    { label: t('fuels.firewood'), value: 'firewood', description: t('fuelDescriptions.firewood'), icon: Flame },
+    { label: t('fuels.biomass'), value: 'biomass', description: t('fuelDescriptions.biomass'), icon: Leaf },
+    { label: t('fuels.lpg'), value: 'lpg', description: t('fuelDescriptions.lpg'), icon: Zap },
+    { label: t('fuels.solar'), value: 'solar', description: t('fuelDescriptions.solar'), icon: Droplets },
+    { label: t('fuels.electric'), value: 'electric', description: t('fuelDescriptions.electric'), icon: Zap }
   ]
 
-  const sanitationOptions: SelectOption[] = [
-    { label: tTrace('sanitation.passed'), value: 'passed', description: tTrace('sanitationDescriptions.passed'), icon: CheckCircle2 },
-    { label: tTrace('sanitation.pending'), value: 'pending', description: tTrace('sanitationDescriptions.pending'), icon: Clock },
-    { label: tTrace('sanitation.cleaning'), value: 'cleaning', description: tTrace('sanitationDescriptions.cleaning'), icon: Wrench }
-  ]
-
-  return { methodOptions, materialOptions, ownershipOptions, sanitationOptions }
+  return { methodOptions, materialOptions, fuelOptions }
 }

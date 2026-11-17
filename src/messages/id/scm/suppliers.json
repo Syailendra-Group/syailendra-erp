@@ -45,7 +45,7 @@
     "description": "Lengkapi profil pemasok, kontak penanggung jawab, alamat pengiriman, dan informasi perbankan.",
     "sections": {
       "identity": "Identitas Pemasok",
-      "categories": "Kategori Pemasok",
+      "categories": "Jenis Supplier",
       "contact": "Kontak & Perpajakan",
       "address": "Alamat & Wilayah",
       "finance": "Keuangan & Rekening Bank"
@@ -56,8 +56,8 @@
       "name": "Nama Pemasok / Perusahaan",
       "namePlaceholder": "Contoh: PT Sumber Atsiri Nusantara",
       "type": "Tipe Entitas",
-      "category": "Kategori Pemasok",
-      "categoryPlaceholder": "Pilih satu atau lebih kategori pemasok",
+      "category": "Jenis Supplier",
+      "categoryPlaceholder": "Pilih satu atau lebih jenis supplier",
       "contactName": "Nama PIC / Penanggung Jawab",
       "contactNamePlaceholder": "Contoh: Budi Santoso",
       "phone": "Telepon Kantor",
@@ -90,7 +90,7 @@
       "active": "Pemasok Aktif",
       "companyType": "Jenis Entitas Usaha",
       "companyTypePlaceholder": "Pilih jenis entitas...",
-      "categories": "Kategori Pemasok System"
+      "categories": "Jenis Supplier System"
     },
     "buttons": {
       "save": "Simpan Pemasok",
@@ -119,7 +119,7 @@
     "refMax": "Kode pemasok tidak boleh melebihi 32 karakter",
     "nameMin": "Nama pemasok minimal 3 karakter",
     "nameMax": "Nama pemasok tidak boleh melebihi 128 karakter",
-    "categoryRequired": "Minimal satu kategori pemasok wajib dipilih",
+    "categoryRequired": "Minimal satu jenis supplier wajib dipilih",
     "emailInvalid": "Format alamat email tidak valid"
   },
   "toast": {

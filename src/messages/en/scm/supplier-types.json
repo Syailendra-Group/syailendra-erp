@@ -1,0 +1,74 @@
+{
+  "title": "Supplier Types",
+  "subtitle": "Hierarchical classification of raw essential oil, bottle, packaging, and supply vendors",
+  "actions": {
+    "create": "Add Type",
+    "edit": "Edit Type",
+    "delete": "Delete Type",
+    "view": "View Details",
+    "refresh": "Refresh",
+    "filter": "Filter Types"
+  },
+  "table": {
+    "columns": {
+      "name": "Type Name",
+      "parent": "Parent Type",
+      "displayName": "Complete Hierarchy Path",
+      "color": "Tag Color",
+      "partnerCount": "Linked Suppliers",
+      "status": "Status",
+      "actions": "Actions"
+    },
+    "status": {
+      "active": "Active",
+      "inactive": "Inactive"
+    },
+    "rootType": "Root Type",
+    "emptyState": "No supplier types registered yet.",
+    "noResults": "No supplier types found matching the search criteria.",
+    "rootBadge": "Root Type",
+    "childBadge": "Sub-Type",
+    "childCount": "{count} Sub-Types",
+    "partnerCountFormat": "{count} Suppliers"
+  },
+  "form": {
+    "createTitle": "Add Supplier Type",
+    "editTitle": "Edit Supplier Type",
+    "description": "Manage supplier type hierarchy for raw material and auxiliary vendor grouping.",
+    "fields": {
+      "name": "Type Name",
+      "namePlaceholder": "e.g. Bottle & Cap Suppliers",
+      "parent": "Parent Type",
+      "parentPlaceholder": "Select parent type (or leave blank for Root Type)",
+      "color": "Badge Color",
+      "active": "Type Active"
+    },
+    "buttons": {
+      "save": "Save",
+      "saving": "Saving...",
+      "cancel": "Cancel"
+    }
+  },
+  "dialog": {
+    "viewTitle": "Supplier Type Details",
+    "viewDescription": "Complete hierarchical information of the supplier type.",
+    "deleteTitle": "Delete Supplier Type",
+    "deleteDescription": "Are you sure you want to delete this supplier type? This action cannot be undone if the type is not linked to existing records.",
+    "sections": {
+      "identity": "Type Identity",
+      "hierarchy": "Hierarchy Structure"
+    }
+  },
+  "validation": {
+    "nameMin": "Type name must be at least 2 characters",
+    "nameMax": "Type name cannot exceed 100 characters",
+    "parentRequired": "Parent type is required when acting as a sub-type"
+  },
+  "toast": {
+    "createSuccess": "Supplier type created successfully",
+    "updateSuccess": "Supplier type updated successfully",
+    "deleteSuccess": "Supplier type deleted successfully",
+    "deleteError": "Failed to delete supplier type",
+    "deleteErrorRelational": "This type cannot be deleted because it is still referenced by existing suppliers or sub-types in the system."
+  }
+}

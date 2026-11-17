@@ -6,7 +6,7 @@ import { useTranslations } from 'next-intl'
 
 import { DataTable } from '@/components/data-table'
 import { useSupplierContext } from '@/contexts/scm/supplier.context'
-import { useSupplierCategoryOptions } from '@/hooks/scm/use-supplier-categories'
+import { useSupplierTypeOptions } from '@/hooks/scm/use-supplier-types'
 import { useSuppliers } from '@/hooks/scm/use-suppliers'
 import { useDataTableUrlState } from '@/hooks/use-data-table-url-state'
 
@@ -37,7 +37,7 @@ export function SuppliersTable(): ReactElement {
   } = useDataTableUrlState({ filterKeys: ['categoryIds'] })
 
   // Data fetching and server pagination
-  const { data: categoryOptions = [] } = useSupplierCategoryOptions()
+  const { data: categoryOptions = [] } = useSupplierTypeOptions()
 
   const categoryFilterValues = useMemo(() => {
     const filter = columnFilters.find((f) => f.id === 'categoryIds')

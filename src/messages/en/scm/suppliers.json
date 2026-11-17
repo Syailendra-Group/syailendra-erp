@@ -45,7 +45,7 @@
     "description": "Complete the supplier profile, operational contact, warehouse address, and banking information.",
     "sections": {
       "identity": "Supplier Identity",
-      "categories": "Supplier Categories",
+      "categories": "Supplier Types",
       "contact": "Contact & Taxation",
       "address": "Address & Regional",
       "finance": "Finance & Bank Account"
@@ -56,8 +56,8 @@
       "name": "Supplier / Company Name",
       "namePlaceholder": "e.g. PT Sumber Atsiri Nusantara",
       "type": "Entity Type",
-      "category": "Supplier Category",
-      "categoryPlaceholder": "Select one or more supplier categories",
+      "category": "Supplier Type",
+      "categoryPlaceholder": "Select one or more supplier types",
       "contactName": "PIC / Operational Manager Name",
       "contactNamePlaceholder": "e.g. Budi Santoso",
       "phone": "Office Phone",
@@ -90,7 +90,7 @@
       "active": "Supplier Active",
       "companyType": "Business Entity Type",
       "companyTypePlaceholder": "Select entity type...",
-      "categories": "Supplier Categories"
+      "categories": "Supplier Types"
     },
     "buttons": {
       "save": "Save Supplier",
@@ -119,7 +119,7 @@
     "refMax": "Supplier code cannot exceed 32 characters",
     "nameMin": "Supplier name must be at least 3 characters",
     "nameMax": "Supplier name cannot exceed 128 characters",
-    "categoryRequired": "At least one supplier category must be selected",
+    "categoryRequired": "At least one supplier type must be selected",
     "emailInvalid": "Invalid email address format"
   },
   "toast": {

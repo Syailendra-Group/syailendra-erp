@@ -1,0 +1,146 @@
+{
+  "title": "Fasilitas Penyulingan",
+  "subtitle": "Registrasi fasilitas ketel penyulingan, metode ekstraksi, & pemantauan kapasitas",
+  "primaryAction": "Tambah Fasilitas Penyulingan",
+  "dialog": {
+    "addTitle": "Registrasi Fasilitas Penyulingan Baru",
+    "addDesc": "Daftarkan ketel uap atau fasilitas penyulingan ke sistem hulu rantai pasok (SOP-04).",
+    "editTitle": "Ubah Data Fasilitas Penyulingan",
+    "editDesc": "Perbarui kapasitas ketel, nama operator, atau metode ekstraksi.",
+    "viewTitle": "Spesifikasi Teknis Fasilitas Penyulingan",
+    "viewDesc": "Rincian spesifikasi peralatan, riwayat sanitasi, & parameter operasional."
+  },
+  "fields": {
+    "ref": "ID Fasilitas",
+    "refPlaceholder": "Contoh: DST-JTG-002",
+    "name": "Nama Fasilitas",
+    "namePlaceholder": "Contoh: Unit Ketel Suling Uap Sumbing",
+    "boilerCapacity": "Kapasitas Ketel (Kg Biomassa)",
+    "boilerCapacityPlaceholder": "Contoh: 500",
+    "method": "Metode Ekstraksi",
+    "methodPlaceholder": "Pilih metode",
+    "material": "Material Ketel",
+    "materialPlaceholder": "Pilih material",
+    "ownership": "Status Kepemilikan",
+    "ownershipPlaceholder": "Pilih status",
+    "operatorName": "Nama Operator / PIC",
+    "operatorNamePlaceholder": "Contoh: Mas Bowo / Tim Suling A",
+    "phone": "Nomor Kontak Operator",
+    "phonePlaceholder": "Contoh: +62 811-xxxx-xxxx",
+    "city": "Kabupaten / Kota",
+    "cityPlaceholder": "Contoh: Temanggung",
+    "street": "Alamat Fasilitas Ketel",
+    "streetPlaceholder": "Contoh: Kawasan Industri Agro Mandiri",
+    "sanitation": "Pemeriksaan Sanitasi",
+    "sanitationPlaceholder": "Pilih status sanitasi",
+    "comment": "Catatan Spesifikasi Teknis",
+    "commentPlaceholder": "Tekanan uap operasional (bar), suhu puncak (°C), spesifikasi kondensor...",
+    "code": "Kode Fasilitas Penyulingan",
+    "unitName": "Nama Fasilitas Penyulingan",
+    "extractionMethod": "Metode Ekstraksi",
+    "operator": "Nama Operator / Penanggung Jawab",
+    "operatorPhone": "Kontak Operator",
+    "facilityAddress": "Alamat Fasilitas Suling"
+  },
+  "table": {
+    "ref": "ID Fasilitas",
+    "name": "Nama Fasilitas Ketel",
+    "capacity": "Kapasitas",
+    "method": "Metode Ekstraksi",
+    "operator": "Operator / PIC",
+    "location": "Lokasi",
+    "status": "Status",
+    "actions": "Aksi"
+  },
+  "methods": {
+    "steam": "Steam Distillation (Uap Langsung)",
+    "hydro": "Hydro Distillation (Rebus Air)",
+    "water_steam": "Water & Steam (Kukus)",
+    "cold_pressed": "Cold Pressed (Peras Dingin)"
+  },
+  "materials": {
+    "sus316": "Stainless Steel 316 (Food Grade)",
+    "sus304": "Stainless Steel 304",
+    "copper": "Pure Copper (Tembaga Murni)"
+  },
+  "ownership": {
+    "internal": "Milik Sendiri (PT SBI)",
+    "partner": "Mitra Penyuling (Partner)"
+  },
+  "sanitation": {
+    "passed": "Sanitasi Lolos (Passed)",
+    "pending": "Menunggu Sanitasi",
+    "cleaning": "Pembersihan Berjalan"
+  },
+  "messages": {
+    "saved": "Data fasilitas penyulingan berhasil disimpan",
+    "saveFailed": "Gagal menyimpan data fasilitas penyulingan",
+    "archived": "Unit suling berhasil diarsipkan",
+    "archiveFailed": "Gagal mengarsipkan fasilitas penyulingan",
+    "restored": "Unit suling berhasil diaktifkan kembali",
+    "restoreFailed": "Gagal mengaktifkan fasilitas penyulingan",
+    "updated": "Unit suling berhasil diperbarui",
+    "created": "Unit suling berhasil didaftarkan",
+    "error": "Terjadi kesalahan saat memproses fasilitas penyulingan"
+  },
+  "status": {
+    "operational": "Siap Beroperasi",
+    "maintenance": "Pemeliharaan / Arsip"
+  },
+  "confirm": {
+    "archiveTitle": "Arsipkan Fasilitas Penyulingan",
+    "restoreTitle": "Aktifkan Fasilitas Penyulingan",
+    "archiveDesc": "Apakah Anda yakin ingin menonaktifkan ketel suling {name}? Riwayat batch suling (DSTB) tetap aman terlacak.",
+    "restoreDesc": "Apakah Anda yakin ingin mengaktifkan kembali ketel suling {name}?"
+  },
+  "actions": {
+    "add": "Daftarkan Fasilitas Penyulingan"
+  },
+  "details": {
+    "unitName": "Nama Fasilitas:",
+    "boilerCapacity": "Kapasitas Muat Ketel:",
+    "extractionMethod": "Metode Penyulingan:",
+    "material": "Material Konstruksi:",
+    "ownership": "Kepemilikan:",
+    "operator": "Operator / PIC:",
+    "sanitation": "Inspeksi Sanitasi:",
+    "status": "Status Operasional",
+    "id": "ID Fasilitas",
+    "notes": "Spesifikasi Teknis & Catatan",
+    "operatorContact": "Kontak Operator:",
+    "facilityAddress": "Alamat Fasilitas:",
+    "boilerSanitation": "Status Sanitasi Ketel:",
+    "specsNotes": "Catatan Spesifikasi",
+    "coordinates": "Koordinat GPS"
+  },
+  "validation": {
+    "refMin": "ID Fasilitas minimal {min} karakter.",
+    "refFormat": "Format harus DST-[WILAYAH]-[NO] (contoh: DST-JTG-002).",
+    "nameRequired": "Nama fasilitas penyulingan minimal {min} karakter.",
+    "capacityPositive": "Kapasitas ketel harus bernilai positif.",
+    "methodRequired": "Metode penyulingan wajib dipilih.",
+    "operatorRequired": "Nama penanggung jawab operator minimal {min} karakter.",
+    "cityRequired": "Kabupaten / kota lokasi wajib diisi.",
+    "streetRequired": "Alamat fasilitas suling wajib diisi."
+  },
+  "methodDescriptions": {
+    "steam": "Distilasi uap langsung (Direct Steam)",
+    "hydro": "Distilasi air mendidih (Water Distillation)",
+    "water_steam": "Kukus uap tak langsung (Water-Steam)",
+    "cold_pressed": "Tekan dingin mekanis (Cold Press)"
+  },
+  "materialDescriptions": {
+    "sus316": "Stainless Steel 316 Food & Pharma Grade",
+    "sus304": "Stainless Steel 304 Standard Industrial",
+    "copper": "Tembaga Murni (Traditional Copper Alembic)"
+  },
+  "ownershipDescriptions": {
+    "internal": "Fasilitas milik penuh PT Syailendra Bumi Investama",
+    "partner": "Unit suling mitra binaan tersertifikasi"
+  },
+  "sanitationDescriptions": {
+    "passed": "Lolos uji sanitasi & siap beroperasi",
+    "pending": "Menunggu audit sanitasi berkala",
+    "cleaning": "Dalam proses CIP pembersihan & sterilisasi"
+  }
+}

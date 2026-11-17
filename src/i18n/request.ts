@@ -31,14 +31,14 @@ import enVillages from '@/messages/en/others/villages.json'
 import enWebsite from '@/messages/en/others/website.json'
 import enScmCommodities from '@/messages/en/scm/commodities.json'
 import enScmDemo from '@/messages/en/scm/demo.json'
-import enTraceDistillers from '@/messages/en/scm/distillers.json'
+import enTraceDistilleries from '@/messages/en/scm/distilleries.json'
 import enTraceFarmers from '@/messages/en/scm/farmers.json'
 import enScmFarms from '@/messages/en/scm/farms.json'
 import enHarvest from '@/messages/en/scm/harvest.json'
 import enMaterials from '@/messages/en/scm/materials.json'
 import enTraceOverview from '@/messages/en/scm/overview.json'
 import enPublicTrace from '@/messages/en/scm/public-trace.json'
-import enSupplierCategories from '@/messages/en/scm/supplier-categories.json'
+import enSupplierTypes from '@/messages/en/scm/supplier-types.json'
 import enSuppliers from '@/messages/en/scm/suppliers.json'
 import enInventory from '@/messages/en/wms/inventory.json'
 import enWmsOverview from '@/messages/en/wms/overview.json'
@@ -67,14 +67,14 @@ import idVillages from '@/messages/id/others/villages.json'
 import idWebsite from '@/messages/id/others/website.json'
 import idScmCommodities from '@/messages/id/scm/commodities.json'
 import idScmDemo from '@/messages/id/scm/demo.json'
-import idTraceDistillers from '@/messages/id/scm/distillers.json'
+import idTraceDistilleries from '@/messages/id/scm/distilleries.json'
 import idTraceFarmers from '@/messages/id/scm/farmers.json'
 import idScmFarms from '@/messages/id/scm/farms.json'
 import idHarvest from '@/messages/id/scm/harvest.json'
 import idMaterials from '@/messages/id/scm/materials.json'
 import idTraceOverview from '@/messages/id/scm/overview.json'
 import idPublicTrace from '@/messages/id/scm/public-trace.json'
-import idSupplierCategories from '@/messages/id/scm/supplier-categories.json'
+import idSupplierTypes from '@/messages/id/scm/supplier-types.json'
 import idSuppliers from '@/messages/id/scm/suppliers.json'
 import idInventory from '@/messages/id/wms/inventory.json'
 import idWmsOverview from '@/messages/id/wms/overview.json'
@@ -98,10 +98,10 @@ const messagesMap = {
       farms: idScmFarms,
       overview: idTraceOverview,
       farmers: idTraceFarmers,
-      distillers: idTraceDistillers,
+      distilleries: idTraceDistilleries,
       publicTrace: idPublicTrace,
       materials: idMaterials,
-      supplierCategories: idSupplierCategories,
+      supplierTypes: idSupplierTypes,
       suppliers: idSuppliers,
       harvest: idHarvest,
       demo: idScmDemo
@@ -109,7 +109,7 @@ const messagesMap = {
     traceability: {
       overview: idTraceOverview,
       farmers: idTraceFarmers,
-      distillers: idTraceDistillers,
+      distilleries: idTraceDistilleries,
       publicTrace: idPublicTrace
     },
     hris: {
@@ -166,10 +166,10 @@ const messagesMap = {
       farms: enScmFarms,
       overview: enTraceOverview,
       farmers: enTraceFarmers,
-      distillers: enTraceDistillers,
+      distilleries: enTraceDistilleries,
       publicTrace: enPublicTrace,
       materials: enMaterials,
-      supplierCategories: enSupplierCategories,
+      supplierTypes: enSupplierTypes,
       suppliers: enSuppliers,
       harvest: enHarvest,
       demo: enScmDemo
@@ -177,7 +177,7 @@ const messagesMap = {
     traceability: {
       overview: enTraceOverview,
       farmers: enTraceFarmers,
-      distillers: enTraceDistillers,
+      distilleries: enTraceDistilleries,
       publicTrace: enPublicTrace
     },
     hris: {

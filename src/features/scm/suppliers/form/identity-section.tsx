@@ -8,7 +8,7 @@ import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card'
 import { FormControl, FormField, FormItem, FormLabel, FormMessage } from '@/components/ui/form'
 import { Input } from '@/components/ui/input'
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select'
-import { useSupplierCategoryOptions } from '@/hooks/scm/use-supplier-categories'
+import { useSupplierTypeOptions } from '@/hooks/scm/use-supplier-types'
 
 import type { SupplierFormValues } from '@/types/scm/supplier'
 
@@ -18,7 +18,7 @@ interface IdentitySectionProps {
 
 export function IdentitySection({ form }: IdentitySectionProps) {
   const t = useTranslations('scm.suppliers')
-  const { data: categoryOptions = [] } = useSupplierCategoryOptions()
+  const { data: categoryOptions = [] } = useSupplierTypeOptions()
 
   const currentCategoryIds = form.watch('categoryIds') || []
 

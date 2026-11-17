@@ -9,13 +9,12 @@ import {
   Building2,
   Clock,
   Coins,
-  Factory,
+  Database,
   FileCheck2,
   FileSpreadsheet,
   FileText,
   Flame,
   FlaskConical,
-  FolderTree,
   GitBranch,
   Globe,
   HeartHandshake,
@@ -37,7 +36,6 @@ import {
   ShieldCheck,
   ShoppingBag,
   Sliders,
-  Sparkles,
   Store,
   Tag,
   Target,
@@ -105,16 +103,22 @@ export const sidebarData: SidebarData = {
     // SCM & Traceability (PT SBI)
     scm: [
       {
-        titleKey: 'groups.master_scm',
+        titleKey: '',
         items: [
-          { titleKey: 'items.overview', url: '/scm', icon: LayoutDashboard },
-          { titleKey: 'items.farmers', url: '/scm/farmers', icon: Users },
-          { titleKey: 'items.farms', url: '/scm/farms', icon: MapPin },
-          { titleKey: 'items.commodities', url: '/scm/commodities', icon: Leaf },
-          { titleKey: 'items.distillers', url: '/scm/distillers', icon: Factory },
-          { titleKey: 'items.materials', url: '/scm/materials', icon: Sparkles },
-          { titleKey: 'items.supplierCategories', url: '/scm/supplier-categories', icon: FolderTree },
-          { titleKey: 'items.suppliers', url: '/scm/suppliers', icon: Truck }
+          {
+            titleKey: 'groups.master_scm',
+            icon: Database,
+            items: [
+              { titleKey: 'items.overview', url: '/scm' },
+              { titleKey: 'items.farmers', url: '/scm/farmers' },
+              { titleKey: 'items.farms', url: '/scm/farms' },
+              { titleKey: 'items.commodities', url: '/scm/commodities' },
+              { titleKey: 'items.distilleries', url: '/scm/distilleries' },
+              { titleKey: 'items.materials', url: '/scm/materials' },
+              { titleKey: 'items.supplierTypes', url: '/scm/supplier-types' },
+              { titleKey: 'items.suppliers', url: '/scm/suppliers' }
+            ]
+          }
         ]
       },
       {

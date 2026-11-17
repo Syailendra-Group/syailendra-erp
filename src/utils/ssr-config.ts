@@ -11,7 +11,7 @@ export const DYNAMIC_SSR_CONFIG = {
 
 export const CACHE_TAGS = {
   farmers: 'farmers-tag',
-  distillers: 'distillers-tag',
+  distilleries: 'distilleries-tag',
   regional: 'regional-tag',
   settings: 'settings-tag'
 } as const

@@ -2,7 +2,12 @@
 """Idempotent Accurate -> Odoo supplier importer (res.partner).
 
 Consumes the JSONL plan from ``scripts/plan_suppliers.py``, reconciles the
-partner-category tree, then upserts partners keyed on ``ref`` (``FMR-*``).
+partner-category tree, then upserts partners. Legacy partners are keyed on
+their ``FMR-*`` ref; once ``normalize_supplier_refs.py`` has run, the
+``scripts/output/supplier_ref_map.json`` artifact is consulted so re-imports
+still resolve the same partner under its normalized ``SUP-*`` ref. Newly
+created vendors are assigned a plan-compliant ``SUP-[KATEGORI]-[NO_URUT]``
+ref directly.
 Dry-run by default: pass ``--apply`` to write. Prints aggregate counts only.
 
 Usage:
@@ -42,6 +47,60 @@ ROOTS: list[tuple[str, str]] = [
     ("1.", "01. Bahan Baku & Minyak Atsiri"),
     ("2.", "04. Perlengkapan & Perantara Ekspor"),
 ]
+
+# Child partner-category prefix -> SUP ref segment (plan codification
+# SUP-[KATEGORI]-[NO_URUT]). Mirrors normalize_supplier_refs.py.
+PREFIX_RULES: list[tuple[str, str]] = [
+    ("1.1", "RAW"),
+    ("1.2", "EO"),
+    ("1.3", "RAW"),
+    ("1.4", "COP"),
+    ("1.5", "RAW"),
+    ("1.6", "RAW"),
+    ("2.1", "EXP"),
+    ("2.2", "EXP"),
+    ("03.", "SAMP"),
+    ("04.", "PKG"),
+    ("05.", "PKG"),
+    ("06.", "GEN"),
+    ("07.", "CHEM"),
+]
+DEFAULT_PREFIX = "GEN"
+REF_MAP_PATH = Path(__file__).resolve().parent / "output" / "supplier_ref_map.json"
+
+
+def sup_segment_for(category: str) -> str:
+    for code, segment in PREFIX_RULES:
+        if category.startswith(code):
+            return segment
+    return DEFAULT_PREFIX
+
+
+def load_ref_map() -> dict[str, str]:
+    """Legacy FMR-* -> normalized SUP-* table produced by normalize_supplier_refs.py."""
+    if not REF_MAP_PATH.is_file():
+        return {}
+    data = json.loads(REF_MAP_PATH.read_text(encoding="utf-8"))
+    return {
+        entry["old_ref"]: entry["new_ref"]
+        for entry in data.get("mappings", [])
+        if entry.get("old_ref")
+    }
+
+
+def allocate_sup_ref(client: Odoo, segment: str) -> str:
+    """Return the next free plan-compliant ref for the given category segment."""
+    taken = {
+        row["ref"]
+        for row in client.kw(
+            "res.partner", "search_read", [[["ref", "=like", f"SUP-{segment}-%"]]], {"fields": ["ref"]}
+        )
+        if row.get("ref")
+    }
+    number = 1
+    while f"SUP-{segment}-{number:03d}" in taken:
+        number += 1
+    return f"SUP-{segment}-{number:03d}"
 
 
 def read_env(path: Path) -> dict[str, str]:
@@ -144,6 +203,7 @@ def apply_plan(
     records: list[dict[str, Any]],
     company_id: int,
     apply: bool,
+    ref_map: dict[str, str] | None = None,
 ) -> dict[str, int]:
     stats = {
         "created": 0,
@@ -170,6 +230,12 @@ def apply_plan(
         payload = dict(record["payload"])
         domain = [["ref", "=", record["legacy_code"]]]
         found = client.kw("res.partner", "search", [domain], {"limit": 1})
+        if not found and ref_map:
+            mapped_ref = ref_map.get(record["legacy_code"])
+            if mapped_ref:
+                found = client.kw(
+                    "res.partner", "search", [["ref", "=", mapped_ref]], {"limit": 1}
+                )
         if not apply:
             stats["updated" if found else "created"] += 1
             continue
@@ -197,6 +263,7 @@ def apply_plan(
                 stats["unchanged"] += 1
             continue
         payload["company_id"] = company_id
+        payload["ref"] = allocate_sup_ref(client, sup_segment_for(record["planned_category"]))
         payload["category_id"] = [(6, 0, [category_ids[record["planned_category"]]])]
         payload["comment"] = payload.get("comment", "")
         client.kw("res.partner", "create", [payload])
@@ -227,11 +294,17 @@ def main() -> int:
     client = Odoo(env["ODOO_BASE_URL"], env["ODOO_DB"], env["ODOO_USERNAME"], secret)
     client.login()
     company_id = resolve_company(client, args.company)
-    stats = apply_plan(client, records, company_id, args.apply)
+    stats = apply_plan(client, records, company_id, args.apply, load_ref_map())
 
-    suppliers = client.kw("res.partner", "search_count", [[["ref", "=like", "FMR-%"], ["supplier_rank", ">", 0]]])
+    legacy_refs = client.kw(
+        "res.partner", "search_count", [[[ "ref", "=like", "FMR-%"], ["supplier_rank", ">", 0]]]
+    )
+    plan_refs = client.kw(
+        "res.partner", "search_count", [[[ "ref", "=like", "SUP-%"], ["supplier_rank", ">", 0]]]
+    )
     print(json.dumps({"mode": "apply" if args.apply else "dry-run", "company_id": company_id,
-                      "plan_rows": len(records), "suppliers_with_ref": suppliers, **stats}, indent=2))
+                      "plan_rows": len(records), "suppliers_with_legacy_ref": legacy_refs,
+                      "suppliers_with_plan_ref": plan_refs, **stats}, indent=2))
     return 0
 
 

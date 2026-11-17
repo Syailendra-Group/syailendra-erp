@@ -51,3 +51,9 @@ next.log
 *.sql
 *.sql.gz
 docs/backups/
+
+# local script artifacts (supplier ref maps, seed dumps)
+scripts/output/
+
+# python bytecode
+__pycache__/

@@ -16,7 +16,7 @@ export function CrmOverview(): ReactElement {
   const tCommon = useTranslations('common')
   const kpis: SummaryCardItem[] = [
     { title: 'Pesanan Web Global', value: '12 Orders', subtitle: 'Website DDistillers.com', icon: ShoppingBag, color: 'text-primary' },
-    { title: 'Permintaan Sampel', value: '8 Requests', subtitle: 'Kuota 3 Gratis • Ongkir Lunas', icon: FlaskConical, color: 'text-blue-500' },
+    { title: 'Permintaan Sampel', value: '8 Requests', subtitle: 'Kuota 3 Gratis | Ongkir Lunas', icon: FlaskConical, color: 'text-blue-500' },
     { title: 'Pengiriman Ekspor', value: '5 Shipments', subtitle: 'Integrasi API FedEx Direct', icon: Truck, color: 'text-amber-500' },
     { title: 'Pipeline B2B Leads', value: 'Rp 450 Jt', subtitle: 'Prospek Buyer Internasional', icon: TrendingUp, color: 'text-emerald-500' }
   ]

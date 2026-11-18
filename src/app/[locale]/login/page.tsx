@@ -15,7 +15,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
 
   return {
     title: {
-      absolute: t('productName') + ' • ' + t('subtitle')
+      absolute: t('productName') + ' | ' + t('subtitle')
     },
     description: t('descriptor') + ' — ' + t('digitalBackbone')
   }

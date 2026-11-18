@@ -125,7 +125,7 @@ export function FarmForm({ initialData }: FarmFormProps): ReactElement {
         showBack
         backHref="/scm/farms"
         actions={
-          <LoadingButton type="submit" size="sm" isLoading={isPending} className="h-8 cursor-pointer gap-1.5 text-xs font-medium">
+          <LoadingButton type="submit" isLoading={isPending} className="cursor-pointer gap-1.5">
             <Save className="h-3.5 w-3.5" />
             <span>{t('form.buttons.save')}</span>
           </LoadingButton>

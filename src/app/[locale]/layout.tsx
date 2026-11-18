@@ -26,7 +26,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: {
-    template: '%s • SYAILENDRA ERP',
+    template: '%s | SYAILENDRA ERP',
     default: 'SYAILENDRA ERP — Smarter Systems, Stronger Businesses.'
   },
   description: 'Integrated Business Management Platform — A Digital Backbone for the Syailendra Group Ecosystem',

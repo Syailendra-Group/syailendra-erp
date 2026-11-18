@@ -16,10 +16,10 @@ export function WmsOverview(): ReactElement {
   const t = useTranslations('wms.overview')
   const tCommon = useTranslations('common')
   const kpis: SummaryCardItem[] = [
-    { title: 'Saldo Stok Siap Pakai', value: '58.2 Kg', subtitle: 'WH/Approved • Lolos QC', icon: ShieldCheck, color: 'text-emerald-500' },
-    { title: 'Stok Terkunci Karantina', value: '24.5 Kg', subtitle: 'WH/Quarantine • Menunggu Lab', icon: RotateCcw, color: 'text-amber-500' },
-    { title: 'Produk Jadi Terkemas', value: '170 Units', subtitle: 'WH/Stock • Botol & Sampel', icon: Package, color: 'text-primary' },
-    { title: 'Stok Terisolasi Reject', value: '10.0 Kg', subtitle: 'WH/Reject • Retur Supplier', icon: Boxes, color: 'text-destructive' }
+    { title: 'Saldo Stok Siap Pakai', value: '58.2 Kg', subtitle: 'WH/Approved | Lolos QC', icon: ShieldCheck, color: 'text-emerald-500' },
+    { title: 'Stok Terkunci Karantina', value: '24.5 Kg', subtitle: 'WH/Quarantine | Menunggu Lab', icon: RotateCcw, color: 'text-amber-500' },
+    { title: 'Produk Jadi Terkemas', value: '170 Units', subtitle: 'WH/Stock | Botol & Sampel', icon: Package, color: 'text-primary' },
+    { title: 'Stok Terisolasi Reject', value: '10.0 Kg', subtitle: 'WH/Reject | Retur Supplier', icon: Boxes, color: 'text-destructive' }
   ]
 
   const shortcuts: QuickActionItem[] = [
@@ -89,13 +89,13 @@ export function WmsOverview(): ReactElement {
           </CardHeader>
           <CardContent className="text-muted-foreground space-y-2.5 text-xs leading-relaxed sm:space-y-3">
             <p>
-              • <strong>{t('sop.unboxing')}</strong> {t('sop.unboxingDesc')}
+              | <strong>{t('sop.unboxing')}</strong> {t('sop.unboxingDesc')}
             </p>
             <p>
-              • <strong>{t('sop.yellowLabel')}</strong> {t('sop.yellowLabelDesc')}
+              | <strong>{t('sop.yellowLabel')}</strong> {t('sop.yellowLabelDesc')}
             </p>
             <p>
-              • <strong>{t('sop.qcAuth')}</strong> {t('sop.qcAuthDesc')}
+              | <strong>{t('sop.qcAuth')}</strong> {t('sop.qcAuthDesc')}
             </p>
           </CardContent>
         </Card>

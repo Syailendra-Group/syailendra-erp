@@ -4,7 +4,7 @@ import type { Metadata } from 'next'
 import type { ReactElement } from 'react'
 
 export const metadata: Metadata = {
-  title: 'RBAC Access Roles • Syailendra Administration',
+  title: 'RBAC Access Roles | Syailendra Administration',
   description: 'Manage system security groups and permissions'
 }
 

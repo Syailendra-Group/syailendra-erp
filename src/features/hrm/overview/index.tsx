@@ -16,7 +16,7 @@ export function HrisOverview(): ReactElement {
   const tCommon = useTranslations('common')
   const kpis: SummaryCardItem[] = [
     { title: 'Karyawan Hadir Hari Ini', value: '28 / 32', subtitle: '87.5% Tingkat Kehadiran', icon: UserCheck, color: 'text-emerald-500' },
-    { title: 'Terlambat / Izin', value: '4 Orang', subtitle: '2 Izin Lapangan • 2 Shift Siang', icon: Clock, color: 'text-amber-500' },
+    { title: 'Terlambat / Izin', value: '4 Orang', subtitle: '2 Izin Lapangan | 2 Shift Siang', icon: Clock, color: 'text-amber-500' },
     { title: 'Total SDM Terdaftar', value: '32 Karyawan', subtitle: 'Terhubung hr.employee Odoo 18', icon: Users2, color: 'text-primary' },
     { title: 'Laporan Kerja Masuk', value: '14 Laporan', subtitle: 'Aktivitas kebun & pabrik', icon: FileText, color: 'text-blue-500' }
   ]

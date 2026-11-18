@@ -26,7 +26,7 @@ export default function HomePage(): React.ReactElement {
             </span>
             <div>
               <h1 className="text-lg leading-tight font-bold">ERP Syailendra Group</h1>
-              <p className="text-muted-foreground text-xs">Next.js 16 • next-themes • next-intl</p>
+              <p className="text-muted-foreground text-xs">Next.js 16 | next-themes | next-intl</p>
             </div>
           </div>
           <div className="flex items-center gap-2">
@@ -47,7 +47,7 @@ export default function HomePage(): React.ReactElement {
                 Active
               </Badge>
             </div>
-            <CardDescription>{tInventory('kpi.on_hand')} • Default Light Mode & Bahasa Indonesia</CardDescription>
+            <CardDescription>{tInventory('kpi.on_hand')} | Default Light Mode & Bahasa Indonesia</CardDescription>
           </CardHeader>
           <CardContent className="space-y-4">
             <div className="grid grid-cols-2 gap-3 text-sm">

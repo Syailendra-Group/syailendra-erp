@@ -14,7 +14,7 @@ interface Props {
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { lot_code } = await params
   return {
-    title: `Batch ${lot_code} • DDistillers Traceability`,
+    title: `Batch ${lot_code} | DDistillers Traceability`,
     description: `Verified origin, distillation method, and laboratory GC-MS analysis for batch ${lot_code}`
   }
 }

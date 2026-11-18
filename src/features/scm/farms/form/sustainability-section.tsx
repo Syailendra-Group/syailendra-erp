@@ -31,7 +31,7 @@ export function SustainabilitySection({ form, disabled }: SustainabilitySectionP
       <FormFieldWrapper id="land_history" label={t('form.fields.landHistory')} error={errors.land_history?.message}>
         <Textarea
           id="land_history"
-          rows={4}
+          rows={3}
           placeholder={t('form.fields.landHistoryPlaceholder')}
           className="resize-none"
           disabled={disabled}

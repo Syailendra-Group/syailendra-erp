@@ -21,7 +21,9 @@
       "location": "Lokasi",
       "paymentTerm": "Termin Pembayaran",
       "status": "Status",
-      "actions": "Aksi"
+      "actions": "Aksi",
+      "supplierType": "Jenis Supplier",
+      "needsReview": "Perlu Review"
     },
     "status": {
       "active": "Aktif",
@@ -29,7 +31,15 @@
       "archived": "Diarsipkan"
     },
     "emptyState": "Belum ada pemasok terdaftar.",
-    "noResults": "Tidak ditemukan pemasok yang cocok dengan kriteria pencarian."
+    "noResults": "Tidak ditemukan pemasok yang cocok dengan kriteria pencarian.",
+    "filters": {
+      "needsReviewOnly": "Perlu Review",
+      "verifiedOnly": "Sudah Diverifikasi"
+    },
+    "review": {
+      "pending": "Perlu Review",
+      "verified": "Terverifikasi"
+    }
   },
   "types": {
     "company": "Badan Usaha (PT / CV / Koperasi)",
@@ -90,7 +100,13 @@
       "active": "Pemasok Aktif",
       "companyType": "Jenis Entitas Usaha",
       "companyTypePlaceholder": "Pilih jenis entitas...",
-      "categories": "Jenis Supplier System"
+      "categories": "Jenis Supplier System",
+      "supplierType": "Jenis Supplier",
+      "supplierTypePlaceholder": "Pilih jenis pelaku usaha",
+      "supplierTypeEmpty": "Belum ditentukan",
+      "supplierTypeVerified": "Sudah Diverifikasi",
+      "supplierTypeVerifiedHint": "Centang bila jenis supplier sudah dikonfirmasi oleh tim",
+      "categoriesEmpty": "Belum ada kategori pemasok tersedia"
     },
     "buttons": {
       "save": "Simpan Pemasok",

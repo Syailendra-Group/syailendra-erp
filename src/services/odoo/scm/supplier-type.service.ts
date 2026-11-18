@@ -1,20 +1,23 @@
 /**
- * supplier-type.service.ts — Odoo 18 RPC service for Supplier Types (res.partner.category)
+ * supplier-type.service.ts — Odoo 18 RPC service for the flat Supplier Type master
  * Syailendra Group ERP (SCM Pillar)
+ *
+ * Model: syailendra.supplier.type (flat, cross-company, sequence-issued code).
+ * No hierarchy, no tag colour, no unlink: rows are archived instead.
  */
 
 import { odooClient } from '@/lib/odoo/client'
 
+import type { OdooDomain } from '@/lib/odoo/types'
 import type { SupplierTypeFormValues, SupplierTypeListResponse, SupplierTypeOption, SupplierTypeRecord } from '@/types/scm/supplier-type'
 
-interface OdooPartnerCategoryRaw {
+interface OdooSupplierTypeRaw {
   id: number
+  code: string
   name: string
-  parent_id: [number, string] | false
-  display_name: string
-  color: number
-  partner_ids: number[]
-  child_ids?: number[]
+  description: string | false
+  sequence: number
+  partner_count?: number
   active: boolean
   create_date?: string
   write_date?: string
@@ -24,212 +27,94 @@ export interface GetSupplierTypesParams {
   page?: number
   perPage?: number
   search?: string
-  parentId?: number | null
+  active?: string[]
 }
 
-const CATEGORY_FIELDS = [
-  'id',
-  'name',
-  'parent_id',
-  'display_name',
-  'color',
-  'partner_ids',
-  'child_ids',
-  'active',
-  'create_date',
-  'write_date'
-] as const
+const TYPE_FIELDS = ['id', 'code', 'name', 'description', 'sequence', 'partner_count', 'active', 'create_date', 'write_date'] as const
 
-function mapOdooCategoryToRecord(item: OdooPartnerCategoryRaw): SupplierTypeRecord {
-  const childCount = Array.isArray(item.child_ids) ? item.child_ids.length : 0
-  const isParent = !item.parent_id || childCount > 0
-
+function mapOdooSupplierTypeToRecord(item: OdooSupplierTypeRaw): SupplierTypeRecord {
   return {
     id: item.id,
+    code: item.code,
     name: item.name,
-    parentId: Array.isArray(item.parent_id) ? item.parent_id[0] : null,
-    parentName: Array.isArray(item.parent_id) ? item.parent_id[1] : null,
-    displayName: item.display_name,
-    color: item.color || 0,
-    partnerCount: Array.isArray(item.partner_ids) ? item.partner_ids.length : 0,
-    isParent,
-    childCount,
+    description: item.description || undefined,
+    sequence: item.sequence ?? 10,
+    supplierCount: item.partner_count ?? 0,
     active: item.active,
     createdAt: item.create_date,
     updatedAt: item.write_date
   }
 }
 
-function sortRecordsHierarchically(records: SupplierTypeRecord[]): SupplierTypeRecord[] {
-  const rootNodes = records.filter((r) => r.parentId === null)
-  rootNodes.sort((a, b) => a.name.localeCompare(b.name))
-
-  const childMap = new Map<number, SupplierTypeRecord[]>()
-  for (const r of records) {
-    if (r.parentId !== null) {
-      const existing = childMap.get(r.parentId) || []
-      existing.push(r)
-      childMap.set(r.parentId, existing)
-    }
-  }
-
-  const result: SupplierTypeRecord[] = []
-  for (const root of rootNodes) {
-    result.push(root)
-    const children = childMap.get(root.id) || []
-    children.sort((a, b) => a.name.localeCompare(b.name))
-    result.push(...children)
-  }
-
-  const processedIds = new Set(result.map((r) => r.id))
-  for (const r of records) {
-    if (!processedIds.has(r.id)) {
-      result.push(r)
-    }
-  }
-
-  return result
-}
-
 export class SupplierTypeService {
-  private static readonly MODEL = 'res.partner.category'
+  private static readonly MODEL = 'syailendra.supplier.type'
 
   static async getSupplierTypes(params: GetSupplierTypesParams = {}): Promise<SupplierTypeListResponse> {
     const page = Math.max(1, params.page ?? 1)
     const perPage = Math.max(1, Math.min(100, params.perPage ?? 10))
     const offset = (page - 1) * perPage
+    const search = params.search?.trim() || ''
+    const status = params.active ?? []
 
-    type DomainTuple = [string, string, string | number | boolean]
-    const domain: DomainTuple[] = []
-
-    if (params.search?.trim()) {
-      domain.push(['name', 'ilike', params.search.trim()])
+    const domain: OdooDomain = []
+    if (search) {
+      domain.push('|', ['name', 'ilike', search], ['code', 'ilike', search])
+    }
+    if (status.length === 1) {
+      domain.push(['active', '=', status[0] === 'active'])
     }
 
-    if (params.parentId !== undefined && params.parentId !== null) {
-      domain.push(['parent_id', '=', params.parentId])
-    }
+    const [total, rawRecords] = await Promise.all([
+      odooClient.searchCount(this.MODEL, domain, undefined, { context: { active_test: false } }),
+      odooClient.searchRead<OdooSupplierTypeRaw>(this.MODEL, domain, [...TYPE_FIELDS], {
+        offset,
+        limit: perPage,
+        order: 'sequence asc, name asc',
+        context: { active_test: false }
+      })
+    ])
 
-    // If searching, use standard pagination directly
-    // If viewing complete tree list, fetch categories to preserve hierarchical family order
-    const total = await odooClient.searchCount(this.MODEL, domain, undefined, { context: { active_test: false } })
-
-    const rawRecords = await odooClient.searchRead<OdooPartnerCategoryRaw>(this.MODEL, domain, [...CATEGORY_FIELDS], {
-      offset: params.search?.trim() ? offset : 0,
-      limit: params.search?.trim() ? perPage : 100,
-      order: 'name asc',
-      context: { active_test: false }
-    })
-
-    const mapped = rawRecords.map(mapOdooCategoryToRecord)
-    const hierarchicallySorted = params.search?.trim() ? mapped : sortRecordsHierarchically(mapped)
-
-    // Apply pagination slice if hierarchical sort was applied
-    const items = params.search?.trim() ? hierarchicallySorted : hierarchicallySorted.slice(offset, offset + perPage)
-
+    const items = rawRecords.map(mapOdooSupplierTypeToRecord)
     const totalPages = Math.ceil(total / perPage) || 1
 
-    return {
-      items,
-      total,
-      page,
-      perPage,
-      totalPages
-    }
+    return { items, total, page, perPage, totalPages }
   }
 
   static async getSupplierTypeById(id: number): Promise<SupplierTypeRecord | null> {
-    const records = await odooClient.searchRead<OdooPartnerCategoryRaw>(this.MODEL, [['id', '=', id]], [...CATEGORY_FIELDS], {
+    const records = await odooClient.searchRead<OdooSupplierTypeRaw>(this.MODEL, [['id', '=', id]], [...TYPE_FIELDS], {
       limit: 1,
       context: { active_test: false }
     })
-
-    if (!records.length) {
-      return null
-    }
-
-    return mapOdooCategoryToRecord(records[0])
+    return records.length ? mapOdooSupplierTypeToRecord(records[0]) : null
   }
 
   static async getSupplierTypeOptions(): Promise<SupplierTypeOption[]> {
-    const records = await odooClient.searchRead<OdooPartnerCategoryRaw>(
-      this.MODEL,
-      [['active', '=', true]],
-      ['id', 'name', 'display_name', 'parent_id'],
-      { order: 'name asc', context: { active_test: false } }
-    )
-
-    const mapped: SupplierTypeOption[] = records.map((r) => ({
-      id: r.id,
-      name: r.name,
-      displayName: r.display_name,
-      parentId: Array.isArray(r.parent_id) ? r.parent_id[0] : null
-    }))
-
-    // Sort options hierarchically
-    const roots = mapped.filter((m) => m.parentId === null).sort((a, b) => a.name.localeCompare(b.name))
-    const childrenMap = new Map<number, SupplierTypeOption[]>()
-    for (const m of mapped) {
-      if (m.parentId !== null) {
-        const ex = childrenMap.get(m.parentId) || []
-        ex.push(m)
-        childrenMap.set(m.parentId, ex)
-      }
-    }
-
-    const result: SupplierTypeOption[] = []
-    for (const root of roots) {
-      result.push(root)
-      const kids = childrenMap.get(root.id) || []
-      kids.sort((a, b) => a.name.localeCompare(b.name))
-      result.push(...kids)
-    }
-
-    return result.length > 0 ? result : mapped
+    const records = await odooClient.searchRead<OdooSupplierTypeRaw>(this.MODEL, [['active', '=', true]], ['id', 'code', 'name'], {
+      order: 'sequence asc, name asc'
+    })
+    return records.map((record) => ({ id: record.id, code: record.code, name: record.name }))
   }
 
   static async createSupplierType(data: SupplierTypeFormValues): Promise<number> {
     const vals: Record<string, string | number | boolean> = {
       name: data.name.trim(),
-      color: data.color,
+      sequence: data.sequence,
       active: data.active
     }
-
-    if (data.parentId) {
-      vals.parent_id = data.parentId
-    }
-
-    return await odooClient.create(this.MODEL, vals)
+    if (data.description?.trim()) vals.description = data.description.trim()
+    return odooClient.create(this.MODEL, vals)
   }
 
   static async updateSupplierType(id: number, data: Partial<SupplierTypeFormValues>): Promise<boolean> {
-    const vals: Record<string, string | number | boolean | false> = {}
-
-    if (data.name !== undefined) {
-      vals.name = data.name.trim()
-    }
-    if (data.parentId !== undefined) {
-      vals.parent_id = data.parentId || false
-    }
-    if (data.color !== undefined) {
-      vals.color = data.color
-    }
-    if (data.active !== undefined) {
-      vals.active = data.active
-    }
-
-    return await odooClient.write(this.MODEL, [id], vals)
+    const vals: Record<string, string | number | boolean> = {}
+    if (data.name !== undefined) vals.name = data.name.trim()
+    if (data.description !== undefined) vals.description = data.description.trim()
+    if (data.sequence !== undefined) vals.sequence = data.sequence
+    if (data.active !== undefined) vals.active = data.active
+    return odooClient.write(this.MODEL, [id], vals)
   }
 
-  static async deleteSupplierType(id: number): Promise<boolean> {
-    try {
-      return await odooClient.unlink(this.MODEL, [id])
-    } catch (error) {
-      const errorMessage = error instanceof Error ? error.message : String(error)
-      if (errorMessage.includes('referenced') || errorMessage.includes('foreign key') || errorMessage.includes('still referenced')) {
-        throw new Error('RELATIONAL_INTEGRITY_ERROR')
-      }
-      throw error
-    }
+  static async setSupplierTypeActive(id: number, active: boolean): Promise<boolean> {
+    return odooClient.write(this.MODEL, [id], { active })
   }
 }

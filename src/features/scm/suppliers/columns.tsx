@@ -59,20 +59,52 @@ export function getSupplierColumns({ t, onView, onEdit, onToggleStatus }: Suppli
 
         return (
           <div className="flex max-w-55 flex-wrap gap-1">
-            {cats.slice(0, 2).map((catName) => {
-              const cleanName = catName.includes('/') ? catName.split('/').pop()?.trim() || catName : catName
-              return (
-                <Badge key={catName} variant="secondary" className="px-1.5 py-0 text-[10px] font-normal whitespace-nowrap">
-                  <LongText>{cleanName}</LongText>
-                </Badge>
-              )
-            })}
+            {cats.slice(0, 2).map((catName) => (
+              <Badge key={catName} variant="secondary" className="px-1.5 py-0 text-[10px] font-normal whitespace-nowrap">
+                <LongText>{catName}</LongText>
+              </Badge>
+            ))}
             {cats.length > 2 && (
               <Badge variant="outline" className="text-muted-foreground px-1 py-0 font-mono text-[10px]">
                 +{cats.length - 2}
               </Badge>
             )}
           </div>
+        )
+      }
+    },
+    {
+      id: 'supplierTypeId',
+      accessorKey: 'supplierTypeName',
+      header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.columns.supplierType')} />,
+      filterFn: (row, id, filterValues: string[]) => {
+        if (!filterValues || filterValues.length === 0) return true
+        return filterValues.includes(String(row.original.supplierTypeId ?? ''))
+      },
+      cell: ({ row }) => {
+        const typeName = row.original.supplierTypeName
+        if (!typeName) return <span className="text-muted-foreground text-xs">-</span>
+        return (
+          <Badge variant="outline" className="max-w-45 px-1.5 py-0 text-[10px] font-normal">
+            <LongText>{typeName}</LongText>
+          </Badge>
+        )
+      }
+    },
+    {
+      id: 'needsReview',
+      accessorKey: 'needsReview',
+      header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.columns.needsReview')} />,
+      filterFn: (row, id, filterValues: string[]) => {
+        if (!filterValues || filterValues.length === 0) return true
+        return filterValues.includes(row.original.needsReview ? 'review' : 'verified')
+      },
+      cell: ({ row }) => {
+        const needsReview = row.original.needsReview
+        return (
+          <StatusBadge variant={needsReview ? 'warning' : 'success'} size="sm">
+            {needsReview ? t('table.review.pending') : t('table.review.verified')}
+          </StatusBadge>
         )
       }
     },

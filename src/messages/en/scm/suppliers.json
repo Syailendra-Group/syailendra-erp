@@ -21,7 +21,9 @@
       "location": "Location",
       "paymentTerm": "Payment Terms",
       "status": "Status",
-      "actions": "Actions"
+      "actions": "Actions",
+      "supplierType": "Supplier Type",
+      "needsReview": "Needs Review"
     },
     "status": {
       "active": "Active",
@@ -29,7 +31,15 @@
       "archived": "Archived"
     },
     "emptyState": "No suppliers registered yet.",
-    "noResults": "No suppliers found matching the search criteria."
+    "noResults": "No suppliers found matching the search criteria.",
+    "filters": {
+      "needsReviewOnly": "Needs Review",
+      "verifiedOnly": "Verified"
+    },
+    "review": {
+      "pending": "Needs Review",
+      "verified": "Verified"
+    }
   },
   "types": {
     "company": "Company (PT / CV / Cooperative)",
@@ -90,7 +100,13 @@
       "active": "Supplier Active",
       "companyType": "Business Entity Type",
       "companyTypePlaceholder": "Select entity type...",
-      "categories": "Supplier Types"
+      "categories": "Supplier Types",
+      "supplierType": "Supplier Type",
+      "supplierTypePlaceholder": "Select a business-actor type",
+      "supplierTypeEmpty": "Not yet assigned",
+      "supplierTypeVerified": "Verified",
+      "supplierTypeVerifiedHint": "Check once the supplier type has been confirmed by the team",
+      "categoriesEmpty": "No supplier categories available yet"
     },
     "buttons": {
       "save": "Save Supplier",

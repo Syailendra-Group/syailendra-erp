@@ -20,6 +20,10 @@ export interface SupplierRecord {
   companyType: SupplierCompanyType
   categoryIds: number[]
   categoryNames: string[]
+  supplierTypeId: number | null
+  supplierTypeName?: string
+  supplierTypeCode?: string
+  needsReview: boolean
   contactName?: string
   phone?: string
   mobile?: string
@@ -51,6 +55,8 @@ export interface SupplierFormValues {
   isCompany: boolean
   companyType: SupplierCompanyType
   categoryIds: number[]
+  supplierTypeId?: number | null
+  supplierTypeVerified: boolean
   contactName?: string
   phone?: string
   mobile?: string

@@ -1,5 +1,5 @@
 /**
- * use-supplier-types.ts — TanStack Query hooks for Supplier Types
+ * use-supplier-types.ts — TanStack Query hooks for the flat Supplier Type master
  * Syailendra Group ERP (SCM Pillar)
  */
 
@@ -9,9 +9,9 @@ import { keepPreviousData, useMutation, useQuery, useQueryClient } from '@tansta
 
 import {
   createSupplierTypeAction,
-  deleteSupplierTypeAction,
   fetchSupplierTypeOptionsAction,
   fetchSupplierTypesAction,
+  setSupplierTypeActiveAction,
   updateSupplierTypeAction
 } from '@/actions/scm/supplier-type.action'
 
@@ -34,10 +34,11 @@ export function useSupplierTypes(params: GetSupplierTypesParams = {}) {
   })
 }
 
-export function useSupplierTypeOptions() {
+export function useSupplierTypeOptions(enabled = true) {
   return useQuery({
     queryKey: supplierTypeKeys.options(),
     queryFn: () => fetchSupplierTypeOptionsAction(),
+    enabled,
     staleTime: 60_000
   })
 }
@@ -68,11 +69,11 @@ export function useUpdateSupplierType() {
   })
 }
 
-export function useDeleteSupplierType() {
+export function useSetSupplierTypeActive() {
   const queryClient = useQueryClient()
 
   return useMutation({
-    mutationFn: (id: number) => deleteSupplierTypeAction(id),
+    mutationFn: ({ id, active }: { id: number; active: boolean }) => setSupplierTypeActiveAction(id, active),
     onSuccess: (res) => {
       if (res.success) {
         queryClient.invalidateQueries({ queryKey: supplierTypeKeys.all })

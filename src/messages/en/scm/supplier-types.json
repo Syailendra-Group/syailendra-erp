@@ -1,21 +1,21 @@
 {
   "title": "Supplier Types",
-  "subtitle": "Hierarchical classification of raw essential oil, bottle, packaging, and supply vendors",
+  "subtitle": "Flat classification of business actors supplying materials, packaging, and services",
   "actions": {
     "create": "Add Type",
     "edit": "Edit Type",
-    "delete": "Delete Type",
     "view": "View Details",
-    "refresh": "Refresh",
-    "filter": "Filter Types"
+    "archive": "Archive",
+    "restore": "Restore",
+    "filter": "Filter Supplier Types"
   },
   "table": {
     "columns": {
+      "code": "Code",
       "name": "Type Name",
-      "parent": "Parent Type",
-      "displayName": "Complete Hierarchy Path",
-      "color": "Tag Color",
-      "partnerCount": "Linked Suppliers",
+      "description": "Description",
+      "supplierCount": "Supplier Count",
+      "sequence": "Sequence",
       "status": "Status",
       "actions": "Actions"
     },
@@ -23,24 +23,21 @@
       "active": "Active",
       "inactive": "Inactive"
     },
-    "rootType": "Root Type",
     "emptyState": "No supplier types registered yet.",
-    "noResults": "No supplier types found matching the search criteria.",
-    "rootBadge": "Root Type",
-    "childBadge": "Sub-Type",
-    "childCount": "{count} Sub-Types",
-    "partnerCountFormat": "{count} Suppliers"
+    "supplierCountFormat": "{count} Suppliers"
   },
   "form": {
     "createTitle": "Add Supplier Type",
     "editTitle": "Edit Supplier Type",
-    "description": "Manage supplier type hierarchy for raw material and auxiliary vendor grouping.",
+    "description": "Manage supplier business-actor classifications. The code is generated automatically.",
     "fields": {
+      "code": "Type Code",
+      "codeHint": "Generated automatically by the system and cannot be changed",
       "name": "Type Name",
-      "namePlaceholder": "e.g. Bottle & Cap Suppliers",
-      "parent": "Parent Type",
-      "parentPlaceholder": "Select parent type (or leave blank for Root Type)",
-      "color": "Badge Color",
+      "namePlaceholder": "e.g. Distiller",
+      "description": "Description",
+      "descriptionPlaceholder": "Short explanation of this business-actor type",
+      "sequence": "Display Sequence",
       "active": "Type Active"
     },
     "buttons": {
@@ -51,24 +48,26 @@
   },
   "dialog": {
     "viewTitle": "Supplier Type Details",
-    "viewDescription": "Complete hierarchical information of the supplier type.",
-    "deleteTitle": "Delete Supplier Type",
-    "deleteDescription": "Are you sure you want to delete this supplier type? This action cannot be undone if the type is not linked to existing records.",
-    "sections": {
-      "identity": "Type Identity",
-      "hierarchy": "Hierarchy Structure"
-    }
+    "viewDescription": "Complete information for this supplier business-actor type.",
+    "archiveTitle": "Archive Supplier Type",
+    "archiveDescription": "Archived types no longer appear in supplier selection. Historical data is preserved and the type can be restored.",
+    "restoreTitle": "Restore Supplier Type",
+    "restoreDescription": "This type will become available again in supplier selection."
   },
   "validation": {
     "nameMin": "Type name must be at least 2 characters",
     "nameMax": "Type name cannot exceed 100 characters",
-    "parentRequired": "Parent type is required when acting as a sub-type"
+    "descriptionMax": "Description cannot exceed 500 characters",
+    "sequenceNumber": "Sequence must be a number",
+    "sequenceMin": "Sequence must be at least 1",
+    "sequenceMax": "Sequence cannot exceed 999"
   },
   "toast": {
     "createSuccess": "Supplier type created successfully",
     "updateSuccess": "Supplier type updated successfully",
-    "deleteSuccess": "Supplier type deleted successfully",
-    "deleteError": "Failed to delete supplier type",
-    "deleteErrorRelational": "This type cannot be deleted because it is still referenced by existing suppliers or sub-types in the system."
+    "archiveSuccess": "Supplier type archived successfully",
+    "restoreSuccess": "Supplier type restored successfully",
+    "saveError": "Failed to save supplier type",
+    "statusError": "Failed to change supplier type status"
   }
 }

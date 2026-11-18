@@ -1,5 +1,5 @@
 /**
- * page.tsx — Supplier Types Dashboard Route
+ * page.tsx — Supplier Types Dashboard Route (flat business-actor master)
  * Syailendra Group ERP (SCM Pillar)
  */
 
@@ -10,7 +10,7 @@ import type { ReactElement } from 'react'
 
 export const metadata: Metadata = {
   title: 'Supplier Types',
-  description: 'Hierarchical supplier type classification for raw material, packaging, and auxiliary vendors'
+  description: 'Flat master of supplier business-actor classifications'
 }
 
 export default function SupplierTypesPage(): ReactElement {

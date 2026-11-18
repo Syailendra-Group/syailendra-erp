@@ -1,0 +1,76 @@
+{
+  "title": "Supplier Categories",
+  "subtitle": "Hierarchical procurement grouping for raw material, packaging, and supply vendors",
+  "actions": {
+    "create": "Add Category",
+    "edit": "Edit Category",
+    "delete": "Delete Category",
+    "view": "View Details",
+    "refresh": "Refresh",
+    "filter": "Filter Categories"
+  },
+  "table": {
+    "columns": {
+      "name": "Category Name",
+      "parent": "Parent Category",
+      "displayName": "Complete Hierarchy Path",
+      "color": "Tag Color",
+      "supplierCount": "Supplier Count",
+      "childCount": "Sub-Category Count",
+      "status": "Status",
+      "actions": "Actions"
+    },
+    "status": {
+      "active": "Active",
+      "inactive": "Inactive"
+    },
+    "rootType": "Top-Level Category",
+    "emptyState": "No supplier categories registered yet.",
+    "noResults": "No supplier categories found matching the search criteria.",
+    "rootBadge": "Root Category",
+    "childBadge": "Sub-Category",
+    "childCount": "{count} Sub-Categories",
+    "supplierCountFormat": "{count} Suppliers"
+  },
+  "form": {
+    "createTitle": "Add Supplier Category",
+    "editTitle": "Edit Supplier Category",
+    "description": "Manage the supplier category hierarchy for procurement grouping.",
+    "fields": {
+      "name": "Category Name",
+      "namePlaceholder": "e.g. Bottle & Cap Suppliers",
+      "parent": "Parent Category",
+      "parentPlaceholder": "Select a parent category (or leave blank for a top-level category)",
+      "color": "Tag Color",
+      "active": "Category Active"
+    },
+    "buttons": {
+      "save": "Save",
+      "saving": "Saving...",
+      "cancel": "Cancel"
+    }
+  },
+  "dialog": {
+    "viewTitle": "Supplier Category Details",
+    "viewDescription": "Complete hierarchical information of the supplier category.",
+    "deleteTitle": "Delete Supplier Category",
+    "deleteDescription": "Are you sure you want to delete this supplier category?",
+    "deleteDescriptionWithUsage": "This category is used by {count} suppliers. Deleting it removes the tag from every linked supplier.",
+    "sections": {
+      "identity": "Category Identity",
+      "hierarchy": "Hierarchy Structure"
+    }
+  },
+  "validation": {
+    "nameMin": "Category name must be at least 2 characters",
+    "nameMax": "Category name cannot exceed 100 characters",
+    "parentRequired": "Parent category is required when acting as a sub-category"
+  },
+  "toast": {
+    "createSuccess": "Supplier category created successfully",
+    "updateSuccess": "Supplier category updated successfully",
+    "deleteSuccess": "Supplier category deleted successfully",
+    "deleteError": "Failed to delete supplier category",
+    "deleteErrorRelational": "This category cannot be deleted because it is still referenced by other data in the system."
+  }
+}

@@ -1,21 +1,21 @@
 {
   "title": "Jenis Supplier",
-  "subtitle": "Klasifikasi hierarkis vendor bahan baku atsiri, botol, kemasan, dan perlengkapan",
+  "subtitle": "Klasifikasi datar pelaku usaha pemasok bahan baku, kemasan, dan jasa",
   "actions": {
     "create": "Tambah Jenis",
     "edit": "Ubah Jenis",
-    "delete": "Hapus Jenis",
     "view": "Lihat Rincian",
-    "refresh": "Segarkan",
-    "filter": "Filter Jenis"
+    "archive": "Arsipkan",
+    "restore": "Aktifkan Kembali",
+    "filter": "Filter Jenis Supplier"
   },
   "table": {
     "columns": {
+      "code": "Kode",
       "name": "Nama Jenis",
-      "parent": "Jenis Induk",
-      "displayName": "Jalur Hierarki Lengkap",
-      "color": "Warna Tag",
-      "partnerCount": "Pemasok Terkait",
+      "description": "Deskripsi",
+      "supplierCount": "Jumlah Supplier",
+      "sequence": "Urutan",
       "status": "Status",
       "actions": "Aksi"
     },
@@ -23,24 +23,21 @@
       "active": "Aktif",
       "inactive": "Nonaktif"
     },
-    "rootType": "Jenis Tingkat Teratas (Root)",
     "emptyState": "Belum ada jenis supplier terdaftar.",
-    "noResults": "Tidak ditemukan jenis supplier yang cocok dengan kriteria pencarian.",
-    "rootBadge": "Jenis Utama",
-    "childBadge": "Sub-Jenis",
-    "childCount": "{count} Sub-Jenis",
-    "partnerCountFormat": "{count} Pemasok"
+    "supplierCountFormat": "{count} Supplier"
   },
   "form": {
     "createTitle": "Tambah Jenis Supplier",
     "editTitle": "Ubah Jenis Supplier",
-    "description": "Kelola hierarki jenis supplier untuk pengelompokan vendor bahan mentah dan penolong.",
+    "description": "Kelola klasifikasi pelaku usaha pemasok. Kode dibuat otomatis oleh sistem.",
     "fields": {
+      "code": "Kode Jenis",
+      "codeHint": "Dibuat otomatis oleh sistem dan tidak dapat diubah",
       "name": "Nama Jenis",
-      "namePlaceholder": "Contoh: Pemasok Botol & Tutup",
-      "parent": "Jenis Induk (Parent Type)",
-      "parentPlaceholder": "Pilih jenis induk (atau kosongkan untuk Jenis Utama)",
-      "color": "Warna Badge",
+      "namePlaceholder": "Contoh: Penyuling",
+      "description": "Deskripsi",
+      "descriptionPlaceholder": "Penjelasan singkat mengenai jenis pelaku usaha ini",
+      "sequence": "Urutan Tampilan",
       "active": "Jenis Aktif"
     },
     "buttons": {
@@ -51,24 +48,26 @@
   },
   "dialog": {
     "viewTitle": "Rincian Jenis Supplier",
-    "viewDescription": "Informasi lengkap struktur hierarki jenis supplier.",
-    "deleteTitle": "Hapus Jenis Supplier",
-    "deleteDescription": "Apakah Anda yakin ingin menghapus jenis supplier ini? Tindakan ini tidak dapat dibatalkan jika jenis belum terhubung dengan data lain.",
-    "sections": {
-      "identity": "Identitas Jenis",
-      "hierarchy": "Struktur Hierarki"
-    }
+    "viewDescription": "Informasi lengkap jenis pelaku usaha pemasok.",
+    "archiveTitle": "Arsipkan Jenis Supplier",
+    "archiveDescription": "Jenis yang diarsipkan tidak lagi muncul pada pilihan supplier. Data historis tetap tersimpan dan dapat diaktifkan kembali.",
+    "restoreTitle": "Aktifkan Kembali Jenis Supplier",
+    "restoreDescription": "Jenis ini akan tersedia kembali pada pilihan supplier."
   },
   "validation": {
     "nameMin": "Nama jenis minimal 2 karakter",
     "nameMax": "Nama jenis tidak boleh melebihi 100 karakter",
-    "parentRequired": "Jenis induk wajib dipilih jika bertindak sebagai sub-jenis"
+    "descriptionMax": "Deskripsi tidak boleh melebihi 500 karakter",
+    "sequenceNumber": "Urutan harus berupa angka",
+    "sequenceMin": "Urutan minimal 1",
+    "sequenceMax": "Urutan maksimal 999"
   },
   "toast": {
-    "createSuccess": "Jenis pemasok berhasil dibuat",
-    "updateSuccess": "Jenis pemasok berhasil diperbarui",
-    "deleteSuccess": "Jenis pemasok berhasil dihapus",
-    "deleteError": "Gagal menghapus jenis supplier",
-    "deleteErrorRelational": "Jenis ini tidak dapat dihapus karena masih digunakan oleh pemasok atau sub-jenis lain di sistem."
+    "createSuccess": "Jenis supplier berhasil dibuat",
+    "updateSuccess": "Jenis supplier berhasil diperbarui",
+    "archiveSuccess": "Jenis supplier berhasil diarsipkan",
+    "restoreSuccess": "Jenis supplier berhasil diaktifkan kembali",
+    "saveError": "Gagal menyimpan jenis supplier",
+    "statusError": "Gagal mengubah status jenis supplier"
   }
 }

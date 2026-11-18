@@ -29,6 +29,8 @@ interface OdooPartnerSupplierRaw {
   property_supplier_payment_term_id: [number, string] | false
   comment: string | false
   supplier_rank: number
+  supplier_type_id: [number, string] | false
+  supplier_type_needs_review: boolean
   active: boolean
   create_date?: string
   write_date?: string
@@ -52,6 +54,8 @@ export interface GetSuppliersParams {
   search?: string
   categoryId?: number | null
   categoryIds?: number[] | null
+  supplierTypeId?: number | null
+  needsReview?: boolean | null
   active?: boolean | null
 }
 
@@ -74,6 +78,8 @@ const SUPPLIER_FIELDS = [
   'property_supplier_payment_term_id',
   'comment',
   'supplier_rank',
+  'supplier_type_id',
+  'supplier_type_needs_review',
   'active',
   'create_date',
   'write_date'
@@ -123,6 +129,9 @@ function mapOdooSupplierToRecord(item: OdooPartnerSupplierRaw): SupplierRecord {
     companyType: isCompany ? 'company' : 'person',
     categoryIds: Array.isArray(item.category_id) ? item.category_id : [],
     categoryNames: meta.categoryNames || [],
+    supplierTypeId: Array.isArray(item.supplier_type_id) ? item.supplier_type_id[0] : null,
+    supplierTypeName: Array.isArray(item.supplier_type_id) ? item.supplier_type_id[1] : undefined,
+    needsReview: Boolean(item.supplier_type_needs_review),
     phone: item.phone || undefined,
     mobile: item.mobile || undefined,
     email: item.email || undefined,
@@ -170,6 +179,14 @@ export class SupplierService {
       domain.push(['category_id', 'in', [params.categoryId]])
     }
 
+    if (params.supplierTypeId) {
+      domain.push(['supplier_type_id', '=', params.supplierTypeId])
+    }
+
+    if (params.needsReview !== undefined && params.needsReview !== null) {
+      domain.push(['supplier_type_needs_review', '=', params.needsReview])
+    }
+
     if (params.active !== undefined && params.active !== null) {
       domain.push(['active', '=', params.active])
     }
@@ -184,7 +201,7 @@ export class SupplierService {
       })
     ])
 
-    const items = rawRecords.map(mapOdooSupplierToRecord)
+    const items = await SupplierService.attachCategoryNames(rawRecords.map(mapOdooSupplierToRecord))
     const totalPages = Math.ceil(total / perPage) || 1
 
     return {
@@ -206,7 +223,33 @@ export class SupplierService {
       return null
     }
 
-    return mapOdooSupplierToRecord(records[0])
+    const mapped = await SupplierService.attachCategoryNames([mapOdooSupplierToRecord(records[0])])
+    return mapped[0]
+  }
+
+  /**
+   * Resolve official category labels from category_id (single source of truth)
+   * instead of the legacy JSON comment snapshot.
+   */
+  private static async attachCategoryNames(items: SupplierRecord[]): Promise<SupplierRecord[]> {
+    const ids = Array.from(new Set(items.flatMap((item) => item.categoryIds)))
+    if (!ids.length) return items
+
+    try {
+      const categories = await odooClient.searchRead<{ id: number; display_name: string }>(
+        'res.partner.category',
+        [['id', 'in', ids]],
+        ['id', 'display_name'],
+        { limit: ids.length }
+      )
+      const labels = new Map(categories.map((category) => [category.id, category.display_name]))
+      return items.map((item) => ({
+        ...item,
+        categoryNames: item.categoryIds.map((id) => labels.get(id)).filter((name): name is string => Boolean(name))
+      }))
+    } catch {
+      return items
+    }
   }
 
   static async createSupplier(values: SupplierFormValues): Promise<number> {
@@ -226,8 +269,11 @@ export class SupplierService {
       supplier_rank: 1,
       active: values.active,
       category_id: [[6, 0, values.categoryIds]],
+      supplier_type_needs_review: values.supplierTypeId ? !values.supplierTypeVerified : true,
       comment: JSON.stringify(metadata)
     }
+
+    if (values.supplierTypeId) vals.supplier_type_id = values.supplierTypeId
 
     if (values.phone?.trim()) vals.phone = values.phone.trim()
     if (values.mobile?.trim()) vals.mobile = values.mobile.trim()
@@ -266,6 +312,10 @@ export class SupplierService {
       vals.company_type = values.companyType
     }
     if (values.categoryIds !== undefined) vals.category_id = [[6, 0, values.categoryIds]]
+    if (values.supplierTypeId !== undefined) {
+      vals.supplier_type_id = values.supplierTypeId || false
+      vals.supplier_type_needs_review = values.supplierTypeId ? !values.supplierTypeVerified : true
+    }
     if (values.phone !== undefined) vals.phone = values.phone.trim()
     if (values.mobile !== undefined) vals.mobile = values.mobile.trim()
     if (values.email !== undefined) vals.email = values.email.trim()

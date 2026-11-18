@@ -1,18 +1,18 @@
 /**
- * supplier-type.ts — TypeScript type definitions for Supplier Type Master Data
+ * supplier-type.ts — TypeScript types for the flat Supplier Type master
  * Syailendra Group ERP (SCM Pillar)
+ *
+ * A supplier type is the business-actor classification (Petani, Penyuling, ...).
+ * Procurement grouping lives in supplier-category (res.partner.category).
  */
 
 export interface SupplierTypeRecord {
   id: number
+  code: string
   name: string
-  parentId: number | null
-  parentName: string | null
-  displayName: string
-  color: number
-  partnerCount: number
-  isParent: boolean
-  childCount: number
+  description?: string
+  sequence: number
+  supplierCount: number
   active: boolean
   createdAt?: string
   updatedAt?: string
@@ -20,8 +20,8 @@ export interface SupplierTypeRecord {
 
 export interface SupplierTypeFormValues {
   name: string
-  parentId: number | null
-  color: number
+  description?: string
+  sequence: number
   active: boolean
 }
 
@@ -35,7 +35,6 @@ export interface SupplierTypeListResponse {
 
 export interface SupplierTypeOption {
   id: number
+  code: string
   name: string
-  displayName: string
-  parentId: number | null
 }

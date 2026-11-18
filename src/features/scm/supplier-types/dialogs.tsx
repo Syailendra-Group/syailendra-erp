@@ -1,3 +1,8 @@
+/**
+ * dialogs.tsx — Supplier Types ActionDialog and view detail (archive, never unlink)
+ * Syailendra Group ERP (SCM Pillar)
+ */
+
 'use client'
 
 import { useState } from 'react'
@@ -9,37 +14,38 @@ import { ConfirmDialog } from '@/components/dialog/confirm-dialog'
 import { DetailRow } from '@/components/shared/detail-row'
 import { Badge } from '@/components/ui/badge'
 import { useSupplierTypeContext } from '@/contexts/scm/supplier-type.context'
-import { useDeleteSupplierType } from '@/hooks/scm/use-supplier-types'
+import { useSetSupplierTypeActive } from '@/hooks/scm/use-supplier-types'
 
 import { SupplierTypeForm } from './form'
 
+import type { SupplierTypeRecord } from '@/types/scm/supplier-type'
+
 export function SupplierTypeDialogs() {
   const t = useTranslations('scm.supplierTypes')
-  const { open, setOpen, selectedCategory, setSelectedCategory } = useSupplierTypeContext()
-  const deleteMutation = useDeleteSupplierType()
+  const { open, setOpen, selectedType, setSelectedType } = useSupplierTypeContext()
+  const setStatusMutation = useSetSupplierTypeActive()
   const [isFormPending, setIsFormPending] = useState(false)
 
   const isFormOpen = open === 'create' || open === 'edit'
-  const isEdit = open === 'edit' && Boolean(selectedCategory)
-  const isViewOpen = open === 'view' && Boolean(selectedCategory)
-  const isDeleteOpen = open === 'delete' && Boolean(selectedCategory)
+  const isEdit = open === 'edit' && Boolean(selectedType)
+  const isViewOpen = open === 'view' && Boolean(selectedType)
+  const isStatusOpen = open === 'status' && Boolean(selectedType)
+  const statusTarget = isStatusOpen ? selectedType : null
 
-  const handleDelete = async () => {
-    if (!selectedCategory) return
+  const handleToggleStatus = async () => {
+    if (!statusTarget) return
 
     try {
-      const res = await deleteMutation.mutateAsync(selectedCategory.id)
+      const res = await setStatusMutation.mutateAsync({ id: statusTarget.id, active: !statusTarget.active })
       if (res.success) {
-        toast.success(t('toast.deleteSuccess'))
+        toast.success(statusTarget.active ? t('toast.archiveSuccess') : t('toast.restoreSuccess'))
         setOpen(null)
-        setSelectedCategory(null)
-      } else if (res.isRelational) {
-        toast.error(t('toast.deleteErrorRelational'))
+        setSelectedType(null)
       } else {
-        toast.error(res.error || t('toast.deleteError'))
+        toast.error(res.error || t('toast.statusError'))
       }
     } catch {
-      toast.error(t('toast.deleteError'))
+      toast.error(t('toast.statusError'))
     }
   }
 
@@ -51,7 +57,7 @@ export function SupplierTypeDialogs() {
         onOpenChange={(val) => {
           if (!val) {
             setOpen(null)
-            setSelectedCategory(null)
+            setSelectedType(null)
           }
         }}
         title={isEdit ? t('form.editTitle') : t('form.createTitle')}
@@ -62,11 +68,11 @@ export function SupplierTypeDialogs() {
         maxWidth="sm:max-w-lg"
       >
         <SupplierTypeForm
-          selectedCategory={selectedCategory}
+          selectedType={selectedType}
           isEdit={isEdit}
           onSuccess={() => {
             setOpen(null)
-            setSelectedCategory(null)
+            setSelectedType(null)
           }}
           onPendingChange={setIsFormPending}
         />
@@ -78,7 +84,7 @@ export function SupplierTypeDialogs() {
         onOpenChange={(val) => {
           if (!val) {
             setOpen(null)
-            setSelectedCategory(null)
+            setSelectedType(null)
           }
         }}
         isView
@@ -86,31 +92,19 @@ export function SupplierTypeDialogs() {
         description={t('dialog.viewDescription')}
         maxWidth="sm:max-w-md"
       >
-        {selectedCategory && (
+        {selectedType && (
           <div className="space-y-4 pt-2">
             <div className="space-y-1 rounded-md border p-3">
-              <DetailRow label={t('table.columns.name')} value={selectedCategory.name} />
-              <DetailRow label={t('table.columns.displayName')} value={selectedCategory.displayName} />
-              <DetailRow
-                label={t('table.columns.parent')}
-                value={
-                  selectedCategory.parentName ? (
-                    <Badge variant="secondary" className="text-[10px]">
-                      {selectedCategory.parentName}
-                    </Badge>
-                  ) : (
-                    <Badge variant="outline" className="text-muted-foreground text-[10px]">
-                      {t('table.rootType')}
-                    </Badge>
-                  )
-                }
-              />
-              <DetailRow label={t('table.columns.partnerCount')} value={String(selectedCategory.partnerCount)} mono />
+              <DetailRow label={t('table.columns.code')} value={selectedType.code} mono />
+              <DetailRow label={t('table.columns.name')} value={selectedType.name} />
+              <DetailRow label={t('table.columns.description')} value={selectedType.description || '-'} />
+              <DetailRow label={t('table.columns.supplierCount')} value={String(selectedType.supplierCount)} mono />
+              <DetailRow label={t('table.columns.sequence')} value={String(selectedType.sequence)} mono />
               <DetailRow
                 label={t('table.columns.status')}
                 value={
-                  <Badge variant={selectedCategory.active ? 'default' : 'outline'} className="text-[10px]">
-                    {selectedCategory.active ? t('table.status.active') : t('table.status.inactive')}
+                  <Badge variant={selectedType.active ? 'default' : 'outline'} className="text-[10px]">
+                    {selectedType.active ? t('table.status.active') : t('table.status.inactive')}
                   </Badge>
                 }
                 border={false}
@@ -120,23 +114,25 @@ export function SupplierTypeDialogs() {
         )}
       </ActionDialog>
 
-      {/* Delete Confirmation Dialog */}
+      {/* Archive / Restore Confirmation */}
       <ConfirmDialog
-        open={isDeleteOpen}
+        open={isStatusOpen}
         onOpenChange={(val) => {
           if (!val) {
             setOpen(null)
-            setSelectedCategory(null)
+            setSelectedType(null)
           }
         }}
-        title={t('dialog.deleteTitle')}
-        desc={t('dialog.deleteDescription')}
-        confirmText={t('actions.delete')}
+        title={statusTarget?.active ? t('dialog.archiveTitle') : t('dialog.restoreTitle')}
+        desc={statusTarget?.active ? t('dialog.archiveDescription') : t('dialog.restoreDescription')}
+        confirmText={statusTarget?.active ? t('actions.archive') : t('actions.restore')}
         cancelBtnText={t('form.buttons.cancel')}
-        destructive
-        isLoading={deleteMutation.isPending}
-        handleConfirm={handleDelete}
+        destructive={Boolean(statusTarget?.active)}
+        isLoading={setStatusMutation.isPending}
+        handleConfirm={handleToggleStatus}
       />
     </>
   )
 }
+
+export type { SupplierTypeRecord }

@@ -6,6 +6,7 @@ import { useTranslations } from 'next-intl'
 
 import { DataTable } from '@/components/data-table'
 import { useSupplierContext } from '@/contexts/scm/supplier.context'
+import { useSupplierCategoryOptions } from '@/hooks/scm/use-supplier-categories'
 import { useSupplierTypeOptions } from '@/hooks/scm/use-supplier-types'
 import { useSuppliers } from '@/hooks/scm/use-suppliers'
 import { useDataTableUrlState } from '@/hooks/use-data-table-url-state'
@@ -34,10 +35,11 @@ export function SuppliersTable(): ReactElement {
     onGlobalFilterChange,
     resetFilters,
     isUpdating
-  } = useDataTableUrlState({ filterKeys: ['categoryIds'] })
+  } = useDataTableUrlState({ filterKeys: ['categoryIds', 'supplierTypeId', 'needsReview'] })
 
   // Data fetching and server pagination
-  const { data: categoryOptions = [] } = useSupplierTypeOptions()
+  const { data: categoryOptions = [] } = useSupplierCategoryOptions()
+  const { data: supplierTypeOptions = [] } = useSupplierTypeOptions()
 
   const categoryFilterValues = useMemo(() => {
     const filter = columnFilters.find((f) => f.id === 'categoryIds')
@@ -45,11 +47,26 @@ export function SuppliersTable(): ReactElement {
     return filter.value.map((v) => Number(v)).filter((v) => !isNaN(v) && v > 0)
   }, [columnFilters])
 
+  const supplierTypeFilterValue = useMemo(() => {
+    const filter = columnFilters.find((f) => f.id === 'supplierTypeId')
+    if (!filter || !Array.isArray(filter.value) || filter.value.length === 0) return null
+    const parsed = Number(filter.value[0])
+    return Number.isNaN(parsed) || parsed <= 0 ? null : parsed
+  }, [columnFilters])
+
+  const needsReviewFilterValue = useMemo(() => {
+    const filter = columnFilters.find((f) => f.id === 'needsReview')
+    if (!filter || !Array.isArray(filter.value) || filter.value.length === 0) return null
+    return String(filter.value[0]) === 'review'
+  }, [columnFilters])
+
   const { data, isLoading } = useSuppliers({
     page,
     perPage,
     search,
-    categoryIds: categoryFilterValues
+    categoryIds: categoryFilterValues,
+    supplierTypeId: supplierTypeFilterValue,
+    needsReview: needsReviewFilterValue
   })
 
   const items = useMemo(() => data?.items ?? [], [data?.items])
@@ -74,12 +91,28 @@ export function SuppliersTable(): ReactElement {
         columnId: 'categoryIds',
         title: t('table.columns.categories'),
         options: categoryOptions.map((opt) => ({
-          label: opt.displayName || opt.name,
+          label: opt.displayName,
           value: String(opt.id)
         }))
+      },
+      {
+        columnId: 'supplierTypeId',
+        title: t('table.columns.supplierType'),
+        options: supplierTypeOptions.map((opt) => ({
+          label: `${opt.code} - ${opt.name}`,
+          value: String(opt.id)
+        }))
+      },
+      {
+        columnId: 'needsReview',
+        title: t('table.columns.needsReview'),
+        options: [
+          { label: t('table.filters.needsReviewOnly'), value: 'review' },
+          { label: t('table.filters.verifiedOnly'), value: 'verified' }
+        ]
       }
     ],
-    [t, categoryOptions]
+    [t, categoryOptions, supplierTypeOptions]
   )
 
   // Table instance

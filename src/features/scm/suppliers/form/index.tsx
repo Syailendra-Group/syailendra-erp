@@ -42,6 +42,8 @@ export function SupplierForm({ initialData, isEdit = false }: SupplierFormProps)
     isCompany: initialData?.isCompany ?? true,
     companyType: initialData?.companyType || 'company',
     categoryIds: initialData?.categoryIds || [],
+    supplierTypeId: initialData?.supplierTypeId ?? null,
+    supplierTypeVerified: initialData ? !initialData.needsReview : false,
     contactName: initialData?.contactName || '',
     phone: initialData?.phone || '',
     mobile: initialData?.mobile || '',

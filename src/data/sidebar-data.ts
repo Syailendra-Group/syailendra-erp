@@ -116,6 +116,7 @@ export const sidebarData: SidebarData = {
               { titleKey: 'items.distilleries', url: '/scm/distilleries' },
               { titleKey: 'items.materials', url: '/scm/materials' },
               { titleKey: 'items.supplierTypes', url: '/scm/supplier-types' },
+              { titleKey: 'items.supplierCategories', url: '/scm/supplier-categories' },
               { titleKey: 'items.suppliers', url: '/scm/suppliers' }
             ]
           }

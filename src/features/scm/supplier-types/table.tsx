@@ -1,3 +1,8 @@
+/**
+ * table.tsx — Supplier Types data state machine (server-side pagination)
+ * Syailendra Group ERP (SCM Pillar)
+ */
+
 'use client'
 
 import { useMemo } from 'react'
@@ -8,12 +13,9 @@ import { DataTable } from '@/components/data-table'
 import { useSupplierTypeContext } from '@/contexts/scm/supplier-type.context'
 import { useSupplierTypes } from '@/hooks/scm/use-supplier-types'
 import { useDataTableUrlState } from '@/hooks/use-data-table-url-state'
-import { cn } from '@/lib/utils'
 
 import { getSupplierTypeColumns } from './columns'
 
-import type { SupplierTypeRecord } from '@/types/scm/supplier-type'
-import type { Row } from '@tanstack/react-table'
 import type { ReactElement } from 'react'
 
 export function SupplierTypesTable(): ReactElement {
@@ -21,7 +23,7 @@ export function SupplierTypesTable(): ReactElement {
   const t = useTranslations('scm.supplierTypes')
 
   // Context and action handlers
-  const { handleView, handleEdit, handleDelete } = useSupplierTypeContext()
+  const { handleView, handleEdit, handleToggleStatus } = useSupplierTypeContext()
 
   // URL state controller
   const {
@@ -39,11 +41,7 @@ export function SupplierTypesTable(): ReactElement {
   } = useDataTableUrlState()
 
   // Data fetching and server pagination
-  const { data, isLoading } = useSupplierTypes({
-    page,
-    perPage,
-    search
-  })
+  const { data, isLoading } = useSupplierTypes({ page, perPage, search })
 
   const items = useMemo(() => data?.items ?? [], [data?.items])
   const total = data?.total ?? 0
@@ -55,9 +53,9 @@ export function SupplierTypesTable(): ReactElement {
         t,
         onView: handleView,
         onEdit: handleEdit,
-        onDelete: handleDelete
+        onToggleStatus: handleToggleStatus
       }),
-    [t, handleView, handleEdit, handleDelete]
+    [t, handleView, handleEdit, handleToggleStatus]
   )
 
   // Table instance
@@ -89,13 +87,6 @@ export function SupplierTypesTable(): ReactElement {
       searchPlaceholder={t('actions.filter')}
       onReset={resetFilters}
       emptyMessage={t('table.emptyState')}
-      getRowClassName={(row: Row<SupplierTypeRecord>) =>
-        cn(
-          row.original.isParent
-            ? 'bg-muted/40 border-border/80 hover:bg-muted/50 border-t font-semibold transition-colors'
-            : 'hover:bg-muted/20 transition-colors'
-        )
-      }
     />
   )
 }

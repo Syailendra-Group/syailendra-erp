@@ -1,6 +1,11 @@
+/**
+ * index.tsx — Supplier Types feature entry (flat business-actor master)
+ * Syailendra Group ERP (SCM Pillar)
+ */
+
 'use client'
 
-import { FolderTree } from 'lucide-react'
+import { Tags } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 
 import { PrimaryAction } from '@/components/button/primary-action'
@@ -22,7 +27,7 @@ function SupplierTypeContent(): ReactElement {
       <PageHeader
         title={t('title')}
         description={t('subtitle')}
-        icon={FolderTree}
+        icon={Tags}
         actions={<PrimaryAction onClick={handleCreate} label={t('actions.create')} />}
       />
 
@@ -45,5 +50,3 @@ export function SupplierTypesFeature(): ReactElement {
 
 export * from './table'
 export * from './columns'
-export * from './dialogs'
-export * from '@/contexts/scm/supplier-type.context'

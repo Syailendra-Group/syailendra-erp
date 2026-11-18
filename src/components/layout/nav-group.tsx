@@ -77,11 +77,11 @@ export function NavGroup({ group }: NavGroupProps): ReactElement {
                 {renderIcon(Icon, groupActive)}
               </SidebarMenuButton>
             </DropdownMenuTrigger>
-            <DropdownMenuContent side="right" align="start" sideOffset={4} className="min-w-56">
+            <DropdownMenuContent side="right" align="start" sideOffset={4} className="min-w-64">
               <DropdownMenuLabel>{tNav(item.titleKey)}</DropdownMenuLabel>
               <DropdownMenuSeparator />
               {item.items.map((child) => (
-                <DropdownMenuItem key={child.titleKey} asChild>
+                <DropdownMenuItem key={child.titleKey} asChild className="py-2.5 text-sm">
                   <Link href={child.url}>{tNav(child.titleKey)}</Link>
                 </DropdownMenuItem>
               ))}
@@ -102,13 +102,13 @@ export function NavGroup({ group }: NavGroupProps): ReactElement {
             </SidebarMenuButton>
           </CollapsibleTrigger>
           <CollapsibleContent>
-            <SidebarMenuSub className="mr-0 border-white/15 pr-0">
+            <SidebarMenuSub className="mr-0 gap-0.5 border-white/15 pr-0">
               {item.items.map((child) => (
                 <SidebarMenuSubItem key={child.titleKey}>
                   <SidebarMenuSubButton
                     asChild
                     isActive={isRouteActive(child.url, pathname)}
-                    className="text-white/70 hover:bg-white/10 hover:text-white data-[active=true]:bg-white/15 data-[active=true]:font-semibold data-[active=true]:text-white"
+                    className="h-9 gap-2.5 px-3 text-sm text-white/75 hover:bg-white/10 hover:text-white data-[active=true]:bg-white/15 data-[active=true]:font-semibold data-[active=true]:text-white"
                   >
                     <Link href={child.url}>
                       <span>{tNav(child.titleKey)}</span>

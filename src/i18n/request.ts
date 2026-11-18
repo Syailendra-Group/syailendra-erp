@@ -29,6 +29,7 @@ import enRegionalCommon from '@/messages/en/others/regional-common.json'
 import enRoles from '@/messages/en/others/roles.json'
 import enVillages from '@/messages/en/others/villages.json'
 import enWebsite from '@/messages/en/others/website.json'
+import enScmComingSoon from '@/messages/en/scm/coming-soon.json'
 import enScmCommodities from '@/messages/en/scm/commodities.json'
 import enScmDemo from '@/messages/en/scm/demo.json'
 import enTraceDistilleries from '@/messages/en/scm/distilleries.json'
@@ -66,6 +67,7 @@ import idRegionalCommon from '@/messages/id/others/regional-common.json'
 import idRoles from '@/messages/id/others/roles.json'
 import idVillages from '@/messages/id/others/villages.json'
 import idWebsite from '@/messages/id/others/website.json'
+import idScmComingSoon from '@/messages/id/scm/coming-soon.json'
 import idScmCommodities from '@/messages/id/scm/commodities.json'
 import idScmDemo from '@/messages/id/scm/demo.json'
 import idTraceDistilleries from '@/messages/id/scm/distilleries.json'
@@ -107,7 +109,8 @@ const messagesMap = {
       supplierTypes: idSupplierTypes,
       suppliers: idSuppliers,
       harvest: idHarvest,
-      demo: idScmDemo
+      demo: idScmDemo,
+      comingSoon: idScmComingSoon
     },
     traceability: {
       overview: idTraceOverview,
@@ -176,7 +179,8 @@ const messagesMap = {
       supplierTypes: enSupplierTypes,
       suppliers: enSuppliers,
       harvest: enHarvest,
-      demo: enScmDemo
+      demo: enScmDemo,
+      comingSoon: enScmComingSoon
     },
     traceability: {
       overview: enTraceOverview,

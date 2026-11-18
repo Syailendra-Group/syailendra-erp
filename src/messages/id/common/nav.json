@@ -26,12 +26,17 @@
     "regional_data": "Master Data Wilayah",
     "compliance": "Audit & Kepatuhan",
     "overview": "Ikhtisar",
-    "scm_ops": "Operasional SCM",
+    "scm_ops": "Operasional Rantai Pasok",
     "scm_reports": "Analitik & Laporan SCM",
     "ftm_ops": "Keuangan & Perpajakan (FTM)",
     "dcm_ops": "Saluran Distribusi (DCM)",
     "ai_ops": "AI Care & Hotline (Nona Atsirich)",
-    "imm_ops": "Dampak & Keberlanjutan (IMM)"
+    "imm_ops": "Dampak & Keberlanjutan (IMM)",
+    "scm_overview": "Ikhtisar & Monitoring",
+    "mitra_origin": "Mitra & Origin",
+    "scm_master_data": "Master Data",
+    "trace_engine": "Keterteusurusan",
+    "compliance_esg": "Kepatuhan & ESG"
   },
   "items": {
     "overview": "Overview",
@@ -74,7 +79,7 @@
     "regencies": "Kabupaten / Kota",
     "districts": "Kecamatan",
     "villages": "Kelurahan / Desa",
-    "materials": "Master Material",
+    "materials": "Produk Atsiri",
     "commodities": "Komoditas Atsiri",
     "supplierTypes": "Jenis Supplier",
     "supplierCategories": "Kategori Pemasok",
@@ -96,7 +101,12 @@
     "imm_rehabilitation": "Pemulihan Lahan Kritis",
     "imm_sdgs": "Indikator Dampak SDGs",
     "menu_allocation": "Alokasi Pilar & Menu",
-    "website_config": "Pengaturan Website"
+    "website_config": "Pengaturan Website",
+    "receiving": "Penerimaan Pembelian",
+    "vendor_rating": "Evaluasi Kinerja Supplier",
+    "audits": "Audit Lapangan & CAPA",
+    "documents": "Vault Dokumen & Sertifikat",
+    "compliance": "Kepatuhan Regulasi Ekspor"
   },
   "breadcrumbs": {
     "api": "API",

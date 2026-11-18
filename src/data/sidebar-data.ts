@@ -103,21 +103,23 @@ export const sidebarData: SidebarData = {
     // SCM & Traceability (PT SBI)
     scm: [
       {
-        titleKey: '',
+        titleKey: 'groups.scm_overview',
+        items: [{ titleKey: 'items.overview', url: '/scm', icon: LayoutDashboard }]
+      },
+      {
+        titleKey: 'groups.mitra_origin',
         items: [
+          { titleKey: 'items.suppliers', url: '/scm/suppliers', icon: FileSpreadsheet },
           {
-            titleKey: 'groups.master_scm',
+            titleKey: 'groups.scm_master_data',
             icon: Database,
             items: [
-              { titleKey: 'items.overview', url: '/scm' },
-              { titleKey: 'items.farmers', url: '/scm/farmers' },
-              { titleKey: 'items.farms', url: '/scm/farms' },
-              { titleKey: 'items.commodities', url: '/scm/commodities' },
-              { titleKey: 'items.distilleries', url: '/scm/distilleries' },
-              { titleKey: 'items.materials', url: '/scm/materials' },
               { titleKey: 'items.supplierTypes', url: '/scm/supplier-types' },
               { titleKey: 'items.supplierCategories', url: '/scm/supplier-categories' },
-              { titleKey: 'items.suppliers', url: '/scm/suppliers' }
+              { titleKey: 'items.farms', url: '/scm/farms' },
+              { titleKey: 'items.distilleries', url: '/scm/distilleries' },
+              { titleKey: 'items.commodities', url: '/scm/commodities' },
+              { titleKey: 'items.materials', url: '/scm/materials' }
             ]
           }
         ]
@@ -126,20 +128,30 @@ export const sidebarData: SidebarData = {
         titleKey: 'groups.scm_ops',
         items: [
           { titleKey: 'items.harvest', url: '/scm/harvest', icon: Wheat },
-          { titleKey: 'items.lots_batches', url: '/scm/lots', icon: Tag },
           { titleKey: 'items.distillation', url: '/scm/distillation', icon: Flame },
+          { titleKey: 'items.receiving', url: '/scm/receiving', icon: ArrowDownLeft },
           { titleKey: 'items.qc_lab', url: '/scm/qc', icon: FlaskConical },
-          { titleKey: 'items.genealogy_graph', url: '/scm/genealogy', icon: GitBranch },
-          { titleKey: 'items.qr_printer', url: '/scm/qr-printer', icon: QrCode },
-          { titleKey: 'items.mock_recall', url: '/scm/recall', icon: RotateCcw }
+          { titleKey: 'items.lots_batches', url: '/scm/lots', icon: Tag }
         ]
       },
       {
-        titleKey: 'groups.scm_reports',
+        titleKey: 'groups.trace_engine',
         items: [
+          { titleKey: 'items.genealogy_graph', url: '/scm/genealogy', icon: GitBranch },
+          { titleKey: 'items.qr_printer', url: '/scm/qr-printer', icon: QrCode },
+          { titleKey: 'items.mock_recall', url: '/scm/recall', icon: RotateCcw },
           { titleKey: 'items.report_genealogy', url: '/scm/reports/genealogy', icon: FileText },
           { titleKey: 'items.report_yield', url: '/scm/reports/yield', icon: LineChart },
           { titleKey: 'items.report_qc', url: '/scm/reports/qc', icon: ShieldCheck }
+        ]
+      },
+      {
+        titleKey: 'groups.compliance_esg',
+        items: [
+          { titleKey: 'items.vendor_rating', url: '/scm/vendor-rating', icon: LineChart },
+          { titleKey: 'items.audits', url: '/scm/audits', icon: Shield },
+          { titleKey: 'items.documents', url: '/scm/documents', icon: FileText },
+          { titleKey: 'items.compliance', url: '/scm/compliance', icon: ShieldCheck }
         ]
       }
     ],

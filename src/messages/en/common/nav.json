@@ -26,12 +26,17 @@
     "regional_data": "Regional Master Data",
     "compliance": "Audit & Compliance",
     "overview": "Overview",
-    "scm_ops": "SCM Operations",
+    "scm_ops": "Supply Chain Operations",
     "scm_reports": "SCM Reports & Analytics",
     "ftm_ops": "Finance & Tax Management",
     "dcm_ops": "Distribution Channel Management",
     "ai_ops": "AI Customer Care & Automation",
-    "imm_ops": "Impact Measurement & Sustainability"
+    "imm_ops": "Impact Measurement & Sustainability",
+    "scm_overview": "Overview & Monitoring",
+    "mitra_origin": "Partners & Origin",
+    "scm_master_data": "Master Data",
+    "trace_engine": "Traceability",
+    "compliance_esg": "Compliance & ESG"
   },
   "items": {
     "overview": "Overview",
@@ -74,7 +79,7 @@
     "regencies": "Regencies & Cities",
     "districts": "Districts",
     "villages": "Villages",
-    "materials": "Material Master",
+    "materials": "Essential Oil Products",
     "commodities": "Aromatic Commodities",
     "supplierTypes": "Supplier Types",
     "supplierCategories": "Supplier Categories",
@@ -96,7 +101,12 @@
     "imm_rehabilitation": "Critical Land Rehabilitation",
     "imm_sdgs": "SDGs Impact Indicators",
     "menu_allocation": "Pillar & Menu Allocation",
-    "website_config": "Website Settings"
+    "website_config": "Website Settings",
+    "receiving": "Purchase Receiving",
+    "vendor_rating": "Supplier Performance",
+    "audits": "Field Audits & CAPA",
+    "documents": "Document & Certificate Vault",
+    "compliance": "Export Compliance"
   },
   "breadcrumbs": {
     "api": "API",

@@ -32,6 +32,12 @@ function stripHtmlTags(raw: string): string {
   return raw.replace(/<[^>]+>/g, '').trim()
 }
 
+const FARMER_CATEGORY_NAME = '1.1 Perorangan Petani'
+
+async function resolveFarmerCategoryId(): Promise<number | null> {
+  const categories = await odoo.client.searchRead<{ id: number }>('res.partner.category', [['name', '=', FARMER_CATEGORY_NAME]], ['id'], { limit: 1 })
+  return categories[0]?.id ?? null
+}
 function mapPartnerToFarmer(r: Record<string, OdooFieldValue>): FarmerRecord {
   const rawComment = typeof r.comment === 'string' ? stripHtmlTags(r.comment) : ''
 
@@ -91,9 +97,18 @@ const FARMER_READ_FIELDS = [
 ]
 
 export async function fetchFarmers(): Promise<FarmerRecord[]> {
-  const records = await odoo.client.searchRead<Record<string, OdooFieldValue>>('res.partner', [['ref', 'like', 'FMR%']], FARMER_READ_FIELDS, {
-    order: 'ref asc'
-  })
+  const categoryId = await resolveFarmerCategoryId()
+  if (!categoryId) return []
+
+  const records = await odoo.client.searchRead<Record<string, OdooFieldValue>>(
+    'res.partner',
+    [
+      ['category_id', 'in', [categoryId]],
+      ['supplier_rank', '>', 0]
+    ],
+    FARMER_READ_FIELDS,
+    { order: 'ref asc' }
+  )
 
   return records.map(mapPartnerToFarmer)
 }
@@ -101,7 +116,15 @@ export async function fetchFarmers(): Promise<FarmerRecord[]> {
 export async function fetchFarmersPaginated(params: FetchFarmersParams = {}): Promise<PaginatedFarmersResult> {
   const { page = 1, perPage = 20, search = '', commodity, status, order = 'ref asc' } = params
 
-  const domain: OdooDomain = [['ref', 'like', 'FMR%']]
+  const categoryId = await resolveFarmerCategoryId()
+  if (!categoryId) {
+    return { records: [], totalCount: 0, page, perPage, pageCount: 1 }
+  }
+
+  const domain: OdooDomain = [
+    ['category_id', 'in', [categoryId]],
+    ['supplier_rank', '>', 0]
+  ]
 
   const statusTuples = buildStatusDomain(status)
   statusTuples.forEach((t) => domain.push(t))
@@ -206,9 +229,15 @@ export async function persistFarmer(values: FarmerFormValues): Promise<number> {
     return id
   }
 
+  const categoryId = await resolveFarmerCategoryId()
+  if (!categoryId) {
+    throw new Error('Farmer category "1.1 Perorangan Petani" not found; cannot create farmer record without category assignment')
+  }
+
   payload.is_company = false
   payload.active = true
   payload.supplier_rank = 1
+  payload.category_id = [[6, 0, [categoryId]]]
   const createdId = await odoo.client.create('res.partner', payload)
   return createdId
 }

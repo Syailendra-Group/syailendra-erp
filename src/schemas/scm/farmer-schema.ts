@@ -17,8 +17,8 @@ export function getFarmerFormSchema(t?: SchemaTranslator) {
     ref: z
       .string()
       .min(3, { message: msg('validation.refMin', 'Farmer ID must be at least 3 characters', { min: 3 }) })
-      .regex(/^FMR-[A-Z0-9]+-[0-9]+$/, {
-        message: msg('validation.refFormat', 'Format must follow FMR-[WILAYAH]-[NO_URUT] (e.g. FMR-JTG-003)')
+      .regex(/^(FMR|SUP)-[A-Z0-9]+-[0-9]+$/, {
+        message: msg('validation.refFormat', 'Format must follow FMR-[WILAYAH]-[NO_URUT] or SUP-[WILAYAH]-[NO_URUT] (e.g. FMR-JTG-003)')
       }),
     name: z.string().min(3, { message: msg('validation.nameRequired', 'Name must be at least 3 characters', { min: 3 }) }),
     vat: z.string().optional(),

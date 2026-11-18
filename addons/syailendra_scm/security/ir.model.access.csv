@@ -24,3 +24,6 @@ access_syailendra_distillation_api,syailendra.distillation.api,model_syailendra_
 access_syailendra_qc_inspection_api,syailendra.qc_inspection.api,model_syailendra_qc_inspection,group_scm_api,1,0,0,0
 access_syailendra_supplier_evaluation_api,syailendra.supplier_evaluation.api,model_syailendra_supplier_evaluation,group_scm_api,1,0,0,0
 access_syailendra_supplier_audit_api,syailendra.supplier_audit.api,model_syailendra_supplier_audit,group_scm_api,1,0,0,0
+access_syailendra_supplier_type_user,syailendra.supplier.type.user,model_syailendra_supplier_type,group_scm_user,1,0,0,0
+access_syailendra_supplier_type_manager,syailendra.supplier.type.manager,model_syailendra_supplier_type,group_scm_manager,1,1,1,0
+access_syailendra_supplier_type_api,syailendra.supplier.type.api,model_syailendra_supplier_type,group_scm_api,1,0,0,0

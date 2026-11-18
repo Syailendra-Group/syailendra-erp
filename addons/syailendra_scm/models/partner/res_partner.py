@@ -1,16 +1,6 @@
 # -*- coding: utf-8 -*-
 from odoo import api, fields, models
 
-SUPPLIER_TYPES = [
-    ('farmer', 'Petani'),
-    ('distiller', 'Penyuling'),
-    ('collector', 'Pengepul'),
-    ('cooperative', 'Koperasi'),
-    ('farmer_group', 'Kelompok Tani'),
-    ('sme', 'UMKM'),
-    ('corporate', 'Perusahaan'),
-]
-
 SUPPLIER_STATUSES = [
     ('active', 'Aktif'),
     ('inactive', 'Nonaktif'),
@@ -31,8 +21,17 @@ class ResPartner(models.Model):
 
     _inherit = 'res.partner'
 
-    supplier_type = fields.Selection(
-        SUPPLIER_TYPES, string='Jenis Supplier', index=True
+    supplier_type_id = fields.Many2one(
+        'syailendra.supplier.type',
+        string='Jenis Supplier',
+        ondelete='restrict',
+        index=True,
+        help='Satu jenis pelaku usaha utama; kosong bila belum diklasifikasi.',
+    )
+    supplier_type_needs_review = fields.Boolean(
+        string='Jenis Supplier Perlu Review',
+        default=False,
+        help='Ditandai saat klasifikasi jenis supplier belum diverifikasi manusia.',
     )
     supplier_status = fields.Selection(
         SUPPLIER_STATUSES,

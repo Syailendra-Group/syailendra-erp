@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo noupdate="1">
+
+    <!-- Katalog datar jenis pelaku usaha pemasok, dipakai bersama seluruh PT.
+         Kode (ST-####) dibuat otomatis oleh sequence syailendra.supplier.type
+         mengikuti urutan dokumen sumber; deskripsi dapat disunting pengguna. -->
+    <record id="st_petani" model="syailendra.supplier.type">
+        <field name="name">Petani</field>
+        <field name="sequence">10</field>
+        <field name="description">Perorangan pekebun atau penyadap yang memasok bahan baku dari lahannya sendiri.</field>
+    </record>
+
+    <record id="st_penyuling" model="syailendra.supplier.type">
+        <field name="name">Penyuling</field>
+        <field name="sequence">20</field>
+        <field name="description">Pemilik unit ketel penyulingan yang mengolah bahan baku menjadi minyak atsiri.</field>
+    </record>
+
+    <record id="st_pengepul" model="syailendra.supplier.type">
+        <field name="name">Pengepul</field>
+        <field name="sequence">30</field>
+        <field name="description">Perantara pengumpul bahan baku atau minyak dari beberapa produsen.</field>
+    </record>
+
+    <record id="st_koperasi" model="syailendra.supplier.type">
+        <field name="name">Koperasi</field>
+        <field name="sequence">40</field>
+        <field name="description">Badan usaha koperasi yang menaungi atau mewakili anggota produsen.</field>
+    </record>
+
+    <record id="st_kelompok_tani" model="syailendra.supplier.type">
+        <field name="name">Kelompok Tani</field>
+        <field name="sequence">50</field>
+        <field name="description">Kelompok atau gabungan pekebun yang memasok secara kolektif.</field>
+    </record>
+
+    <record id="st_umkm" model="syailendra.supplier.type">
+        <field name="name">UMKM</field>
+        <field name="sequence">60</field>
+        <field name="description">Usaha mikro, kecil, dan menengah sebagai pemasok barang atau jasa.</field>
+    </record>
+
+    <record id="st_perusahaan" model="syailendra.supplier.type">
+        <field name="name">Perusahaan</field>
+        <field name="sequence">70</field>
+        <field name="description">Badan usaha berbadan hukum sebagai pemasok barang atau jasa.</field>
+    </record>
+
+</odoo>

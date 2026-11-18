@@ -2,3 +2,4 @@
 from . import syailendra_crop
 from . import syailendra_farm
 from . import syailendra_distillery
+from . import syailendra_supplier_type

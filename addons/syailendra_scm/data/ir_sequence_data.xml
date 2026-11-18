@@ -41,6 +41,14 @@
         <field name="company_id" eval="False"/>
     </record>
 
+    <record id="seq_syailendra_supplier_type" model="ir.sequence">
+        <field name="name">Kode Jenis Supplier</field>
+        <field name="code">syailendra.supplier.type</field>
+        <field name="prefix">ST-</field>
+        <field name="padding">4</field>
+        <field name="company_id" eval="False"/>
+    </record>
+
     <record id="seq_syailendra_supplier_code" model="ir.sequence">
         <field name="name">Kode Digital Pemasok</field>
         <field name="code">syailendra.supplier.code</field>

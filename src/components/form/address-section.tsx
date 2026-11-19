@@ -1,27 +1,18 @@
 'use client'
 
-import { useMemo, useState } from 'react'
 import { ExternalLink, MapPin } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 
 import { SectionCard } from '@/components/card/section-card'
+import { AddressTextFields } from '@/components/form/address-text-fields'
 import { FormFieldWrapper } from '@/components/form/form-field-wrapper'
 import { SelectForm } from '@/components/form/select-form'
+import { useAddressCascade } from '@/components/form/use-address-cascade'
 import { MapPicker } from '@/components/map/map-picker'
 import { Input } from '@/components/ui/input'
-import { Textarea } from '@/components/ui/textarea'
-import { useCountriesQuery } from '@/hooks/others/use-countries'
-import { useDistrictsQuery } from '@/hooks/others/use-districts'
-import { useProvincesQuery } from '@/hooks/others/use-provinces'
-import { useRegenciesQuery } from '@/hooks/others/use-regencies'
-import { useVillagesQuery } from '@/hooks/others/use-villages'
-import { extractCentroidCoordinates, getProvinceCentroid } from '@/utils/regional-helper'
 
 import type { AddressSectionProps } from '@/types/components/address'
-import type { MapCoordinates } from '@/types/components/map'
 import type { ReactElement } from 'react'
-
-const INDONESIA_CENTER: MapCoordinates = { latitude: -0.789275, longitude: 113.921327, zoom: 5 }
 
 export function AddressSection({
   disabled = false,
@@ -29,110 +20,36 @@ export function AddressSection({
   values,
   onChange,
   onCentroidPan,
-  errors = {}
+  errors = {},
+  showStreetInput = false
 }: AddressSectionProps): ReactElement {
   const tAddress = useTranslations('common.address')
   const tMap = useTranslations('common.map')
-  const [activeCentroid, setActiveCentroid] = useState<MapCoordinates | undefined>(undefined)
 
   const {
-    country_id = 100,
+    activeCentroid,
+    countryOptions,
+    provinceOptions,
+    regencyOptions,
+    districtOptions,
+    villageOptions,
+    onCountryChange,
+    onProvinceChange,
+    onRegencyChange,
+    onDistrictChange,
+    onVillageChange
+  } = useAddressCascade(values, onChange, onCentroidPan, showStreetInput)
+
+  const {
+    country_id = showStreetInput ? undefined : 100,
     state_id,
     city_id,
     district_id,
     subdistrict_id,
     zip_code = '',
-    street = '',
-    address_detail = '',
-    address_benchmark = '',
     latitude,
     longitude
   } = values
-
-  const { data: countries = [] } = useCountriesQuery()
-  const { data: provinces = [] } = useProvincesQuery(country_id)
-  const { data: regencies = [] } = useRegenciesQuery(state_id)
-  const { data: districts = [] } = useDistrictsQuery(city_id)
-  const { data: villages = [] } = useVillagesQuery(district_id)
-
-  const countryOptions = useMemo(() => countries.map((c) => ({ label: c.name, value: String(c.id) })), [countries])
-  const provinceOptions = useMemo(() => provinces.map((p) => ({ label: p.name, value: String(p.id) })), [provinces])
-  const regencyOptions = useMemo(() => regencies.map((r) => ({ label: r.name, value: String(r.id) })), [regencies])
-  const districtOptions = useMemo(() => districts.map((d) => ({ label: d.name, value: String(d.id) })), [districts])
-  const villageOptions = useMemo(() => villages.map((v) => ({ label: v.name, value: String(v.id) })), [villages])
-
-  const triggerPan = (coords: MapCoordinates) => {
-    setActiveCentroid(coords)
-    onCentroidPan?.(coords)
-  }
-
-  const handleCountryChange = (val: string) => {
-    const cId = Number(val)
-    if (cId === 100) {
-      triggerPan(INDONESIA_CENTER)
-      onChange({ country_id: cId, state_id: undefined, city_id: undefined, district_id: undefined, subdistrict_id: undefined, ...INDONESIA_CENTER })
-    } else {
-      onChange({ country_id: cId, state_id: undefined, city_id: undefined, district_id: undefined, subdistrict_id: undefined })
-    }
-  }
-
-  const handleProvinceChange = (val: string) => {
-    const pId = Number(val)
-    const selected = provinces.find((p) => p.id === pId)
-    const centroid = getProvinceCentroid(selected?.name)
-    const extra = { city_id: undefined, district_id: undefined, subdistrict_id: undefined }
-
-    if (centroid) {
-      const coords: MapCoordinates = { ...centroid, zoom: 8 }
-      triggerPan(coords)
-      onChange({ state_id: pId, ...extra, latitude: centroid.latitude, longitude: centroid.longitude })
-    } else {
-      onChange({ state_id: pId, ...extra })
-    }
-  }
-
-  const handleRegencyChange = (val: string) => {
-    const cId = Number(val)
-    const selected = regencies.find((r) => r.id === cId)
-    const centroid = extractCentroidCoordinates(selected)
-    const extra = { district_id: undefined, subdistrict_id: undefined }
-
-    if (centroid) {
-      const coords: MapCoordinates = { ...centroid, zoom: 11 }
-      triggerPan(coords)
-      onChange({ city_id: cId, ...extra, latitude: centroid.latitude, longitude: centroid.longitude })
-    } else {
-      onChange({ city_id: cId, ...extra })
-    }
-  }
-
-  const handleDistrictChange = (val: string) => {
-    const dId = Number(val)
-    const selected = districts.find((d) => d.id === dId)
-    const centroid = extractCentroidCoordinates(selected)
-
-    if (centroid) {
-      const coords: MapCoordinates = { ...centroid, zoom: 13 }
-      triggerPan(coords)
-      onChange({ district_id: dId, subdistrict_id: undefined, latitude: centroid.latitude, longitude: centroid.longitude })
-    } else {
-      onChange({ district_id: dId, subdistrict_id: undefined })
-    }
-  }
-
-  const handleVillageChange = (val: string) => {
-    const sId = Number(val)
-    const selected = villages.find((v) => v.id === sId)
-    const centroid = extractCentroidCoordinates(selected)
-
-    if (centroid) {
-      const coords: MapCoordinates = { ...centroid, zoom: 15 }
-      triggerPan(coords)
-      onChange({ subdistrict_id: sId, street: selected?.name || street, latitude: centroid.latitude, longitude: centroid.longitude })
-    } else {
-      onChange({ subdistrict_id: sId, street: selected?.name || street })
-    }
-  }
 
   return (
     <SectionCard title={tAddress('sections.location')} description={tAddress('sections.locationDesc')} icon={MapPin} contentClassName="space-y-4">
@@ -142,50 +59,65 @@ export function AddressSection({
           <div className="grid grid-cols-1 gap-3.5 sm:grid-cols-2">
             <FormFieldWrapper id="country_id" label={tAddress('country')} required={required} error={errors.country_id?.message}>
               <SelectForm
+                id="country_id"
+                aria-invalid={Boolean(errors.country_id)}
+                aria-describedby={errors.country_id ? 'country_id-error' : undefined}
                 placeholder={tAddress('countryPlaceholder')}
                 disabled={disabled}
                 value={country_id ? String(country_id) : ''}
-                onValueChange={handleCountryChange}
+                onValueChange={onCountryChange}
                 items={countryOptions}
               />
             </FormFieldWrapper>
 
             <FormFieldWrapper id="state_id" label={tAddress('fields.province')} required={required} error={errors.state_id?.message}>
               <SelectForm
+                id="state_id"
+                aria-invalid={Boolean(errors.state_id)}
+                aria-describedby={errors.state_id ? 'state_id-error' : undefined}
                 placeholder={tAddress('fields.provincePlaceholder')}
                 disabled={disabled || !country_id}
                 value={state_id ? String(state_id) : ''}
-                onValueChange={handleProvinceChange}
+                onValueChange={onProvinceChange}
                 items={provinceOptions}
               />
             </FormFieldWrapper>
 
             <FormFieldWrapper id="city_id" label={tAddress('fields.regency')} required={required} error={errors.city_id?.message}>
               <SelectForm
+                id="city_id"
+                aria-invalid={Boolean(errors.city_id)}
+                aria-describedby={errors.city_id ? 'city_id-error' : undefined}
                 placeholder={tAddress('fields.regencyPlaceholder')}
                 disabled={disabled || !state_id}
                 value={city_id ? String(city_id) : ''}
-                onValueChange={handleRegencyChange}
+                onValueChange={onRegencyChange}
                 items={regencyOptions}
               />
             </FormFieldWrapper>
 
             <FormFieldWrapper id="district_id" label={tAddress('fields.district')} required={required} error={errors.district_id?.message}>
               <SelectForm
+                id="district_id"
+                aria-invalid={Boolean(errors.district_id)}
+                aria-describedby={errors.district_id ? 'district_id-error' : undefined}
                 placeholder={tAddress('fields.districtPlaceholder')}
                 disabled={disabled || !city_id}
                 value={district_id ? String(district_id) : ''}
-                onValueChange={handleDistrictChange}
+                onValueChange={onDistrictChange}
                 items={districtOptions}
               />
             </FormFieldWrapper>
 
             <FormFieldWrapper id="subdistrict_id" label={tAddress('fields.village')} required={required} error={errors.subdistrict_id?.message}>
               <SelectForm
+                id="subdistrict_id"
+                aria-invalid={Boolean(errors.subdistrict_id)}
+                aria-describedby={errors.subdistrict_id ? 'subdistrict_id-error' : undefined}
                 placeholder={tAddress('fields.villagePlaceholder')}
                 disabled={disabled || !district_id}
                 value={subdistrict_id ? String(subdistrict_id) : ''}
-                onValueChange={handleVillageChange}
+                onValueChange={onVillageChange}
                 items={villageOptions}
               />
             </FormFieldWrapper>
@@ -201,29 +133,14 @@ export function AddressSection({
             </FormFieldWrapper>
           </div>
 
-          <div className="flex flex-col gap-3.5">
-            <FormFieldWrapper id="address_detail" label={tAddress('fields.addressDetail')} required={required} error={errors.address_detail?.message}>
-              <Textarea
-                id="address_detail"
-                rows={3}
-                placeholder={tAddress('fields.addressDetailPlaceholder')}
-                disabled={disabled}
-                value={address_detail}
-                onChange={(e) => onChange({ address_detail: e.target.value })}
-              />
-            </FormFieldWrapper>
-
-            <FormFieldWrapper id="address_benchmark" label={tAddress('benchmark')} required={false} error={errors.address_benchmark?.message}>
-              <Textarea
-                id="address_benchmark"
-                rows={3}
-                placeholder={tAddress('benchmarkPlaceholder')}
-                disabled={disabled}
-                value={address_benchmark}
-                onChange={(e) => onChange({ address_benchmark: e.target.value })}
-              />
-            </FormFieldWrapper>
-          </div>
+          <AddressTextFields
+            values={values}
+            onChange={onChange}
+            disabled={disabled}
+            required={required}
+            errors={errors}
+            showStreetInput={showStreetInput}
+          />
         </div>
 
         {/* Right Column: Interactive Maps (Auto-pan) & Precise Lat/Lng (Grid 2) */}

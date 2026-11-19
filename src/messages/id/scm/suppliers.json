@@ -23,7 +23,8 @@
       "status": "Status",
       "actions": "Aksi",
       "supplierType": "Jenis Supplier",
-      "needsReview": "Perlu Review"
+      "needsReview": "Perlu Review",
+      "supplierStatus": "Status Supplier"
     },
     "status": {
       "active": "Aktif",
@@ -55,10 +56,17 @@
     "description": "Lengkapi profil pemasok, kontak penanggung jawab, alamat pengiriman, dan informasi perbankan.",
     "sections": {
       "identity": "Identitas Pemasok",
-      "categories": "Jenis Supplier",
       "contact": "Kontak & Perpajakan",
-      "address": "Alamat & Wilayah",
-      "finance": "Keuangan & Rekening Bank"
+      "finance": "Keuangan & Rekening Bank",
+      "ownership": "Kepemilikan & Legalitas",
+      "location": "Alamat & Lokasi",
+      "esg": "Kepatuhan & Dampak Sosial",
+      "summary": "Penilaian & Aset Terkait",
+      "identityDesc": "Kode, bentuk usaha, kategori, dan status pemasok.",
+      "contactDesc": "Informasi kontak dan identitas perpajakan.",
+      "ownershipDesc": "Kepemilikan, penanggung jawab, dan legalitas usaha.",
+      "financeDesc": "Termin pembayaran dan informasi rekening bank.",
+      "esgDesc": "Indikator kepatuhan, tenaga kerja, dan pengelolaan limbah."
     },
     "fields": {
       "ref": "Kode Pemasok",
@@ -68,21 +76,18 @@
       "type": "Tipe Entitas",
       "category": "Jenis Supplier",
       "categoryPlaceholder": "Pilih satu atau lebih jenis supplier",
-      "contactName": "Nama PIC / Penanggung Jawab",
-      "contactNamePlaceholder": "Contoh: Budi Santoso",
       "phone": "Telepon Kantor",
       "phonePlaceholder": "Contoh: 021-5551234",
       "mobile": "Nomor WhatsApp / Handphone",
       "mobilePlaceholder": "Contoh: 081234567890",
       "email": "Email Resmi",
       "emailPlaceholder": "Contoh: purchasing@vendor.com",
-      "vat": "NPWP / NIK",
-      "vatPlaceholder": "NPWP 16 digit atau NIK pemilik usaha",
+      "vat": "NPWP",
+      "vatPlaceholder": "Nomor NPWP",
       "country": "Negara",
       "state": "Provinsi",
-      "district": "Kabupaten / Kota",
-      "subDistrict": "Kecamatan",
-      "village": "Kelurahan / Desa",
+      "district": "Kecamatan",
+      "subDistrict": "Kelurahan / Desa",
       "street": "Alamat Lengkap",
       "streetPlaceholder": "Contoh: Jl. Industri Atsiri No. 42, Kompleks Pergudangan",
       "zip": "Kode Pos",
@@ -100,13 +105,52 @@
       "active": "Pemasok Aktif",
       "companyType": "Jenis Entitas Usaha",
       "companyTypePlaceholder": "Pilih jenis entitas...",
-      "categories": "Jenis Supplier System",
+      "categories": "Kategori Pemasok",
       "supplierType": "Jenis Supplier",
       "supplierTypePlaceholder": "Pilih jenis pelaku usaha",
       "supplierTypeEmpty": "Belum ditentukan",
       "supplierTypeVerified": "Sudah Diverifikasi",
       "supplierTypeVerifiedHint": "Centang bila jenis supplier sudah dikonfirmasi oleh tim",
-      "categoriesEmpty": "Belum ada kategori pemasok tersedia"
+      "categoriesEmpty": "Belum ada kategori pemasok tersedia",
+      "website": "Situs Web",
+      "websitePlaceholder": "Contoh: www.vendor-atsiri.co.id",
+      "nik": "NIK Pemilik",
+      "nikPlaceholder": "16 digit NIK",
+      "city": "Kabupaten / Kota",
+      "cityPlaceholder": "Pilih kabupaten atau kota",
+      "statePlaceholder": "Pilih provinsi",
+      "countryPlaceholder": "Pilih negara",
+      "districtPlaceholder": "Pilih kecamatan",
+      "subDistrictPlaceholder": "Pilih kelurahan atau desa",
+      "latitude": "Lintang (Latitude)",
+      "longitude": "Bujur (Longitude)",
+      "ownerName": "Nama Pemilik",
+      "ownerNamePlaceholder": "Contoh: Abdul Hakam Najja",
+      "picName": "Penanggung Jawab",
+      "picNamePlaceholder": "Contoh: Dwi Febrian",
+      "picPosition": "Jabatan Penanggung Jawab",
+      "picPositionPlaceholder": "Contoh: Manajer Operasional",
+      "joinYear": "Tahun Bergabung",
+      "joinYearPlaceholder": "Contoh: 2019",
+      "nib": "NIB",
+      "nibPlaceholder": "Nomor Induk Berusaha",
+      "businessLicense": "Izin Usaha",
+      "businessLicensePlaceholder": "Contoh: SIUP / IUI",
+      "supplierStatus": "Status Supplier",
+      "supplierStatusPlaceholder": "Pilih status supplier",
+      "digitalCode": "Kode Digital Supplier",
+      "supplierGrade": "Grade Kinerja",
+      "farmCount": "Jumlah Kebun Terdaftar",
+      "distilleryCount": "Jumlah Unit Penyulingan",
+      "provenance": "Jejak Sumber Data",
+      "farmerCount": "Jumlah Petani Binaan",
+      "workerCount": "Jumlah Karyawan",
+      "femaleWorkerPct": "Persentase Pekerja Perempuan (%)",
+      "noChildLabor": "Bebas Pekerja Anak",
+      "fairWage": "Menerapkan Upah Layak",
+      "wasteManagement": "Pengelolaan Limbah",
+      "wasteManagementPlaceholder": "Uraikan praktik pengelolaan limbah di lokasi produksi",
+      "renewableEnergy": "Penggunaan Energi Terbarukan"
     },
     "buttons": {
       "save": "Simpan Pemasok",
@@ -114,7 +158,29 @@
       "cancel": "Batal"
     },
     "createDescription": "Daftarkan profil mitra pemasok bahan baku, kemasan, atau jasa ke sistem.",
-    "editDescription": "Perbarui profil legalitas, kategori, kontak, atau rekening bank pemasok."
+    "editDescription": "Perbarui profil legalitas, kategori, kontak, atau rekening bank pemasok.",
+    "statusOptions": {
+      "active": "Aktif",
+      "inactive": "Nonaktif",
+      "pending": "Menunggu Verifikasi",
+      "blacklisted": "Daftar Hitam"
+    },
+    "grades": {
+      "a": "Grade A",
+      "b": "Grade B",
+      "c": "Grade C",
+      "d": "Grade D",
+      "none": "Belum dinilai"
+    },
+    "tabs": {
+      "identity": "Identitas",
+      "contact": "Kontak & Legalitas",
+      "location": "Alamat & Lokasi",
+      "finance": "Keuangan & Bank",
+      "esg": "ESG & Penilaian",
+      "label": "Bagian formulir pemasok",
+      "errors": "{count} kesalahan"
+    }
   },
   "dialog": {
     "viewTitle": "Rincian Profil Pemasok",
@@ -135,8 +201,14 @@
     "refMax": "Kode pemasok tidak boleh melebihi 32 karakter",
     "nameMin": "Nama pemasok minimal 3 karakter",
     "nameMax": "Nama pemasok tidak boleh melebihi 128 karakter",
-    "categoryRequired": "Minimal satu jenis supplier wajib dipilih",
-    "emailInvalid": "Format alamat email tidak valid"
+    "categoryRequired": "Minimal satu kategori pemasok wajib dipilih",
+    "emailInvalid": "Format alamat email tidak valid",
+    "joinYearRange": "Tahun bergabung harus berupa tahun 4 digit yang valid",
+    "coordinateRange": "Nilai koordinat di luar rentang yang valid",
+    "percentageRange": "Persentase harus berada di antara 0 dan 100",
+    "maxLength": "Maksimal {max} karakter",
+    "integer": "Harus berupa bilangan bulat",
+    "minValue": "Nilai minimal {min}"
   },
   "toast": {
     "createSuccess": "Pemasok baru berhasil didaftarkan",
@@ -148,5 +220,81 @@
     "deleteErrorRelational": "Pemasok ini tidak dapat dihapus karena sudah memiliki riwayat transaksi atau penerimaan barang di sistem.",
     "createError": "Gagal mendaftarkan pemasok",
     "updateError": "Gagal memperbarui data pemasok"
+  },
+  "detail": {
+    "notFound": "Data pemasok tidak ditemukan",
+    "description": "Profil lengkap pemasok, klasifikasi, legalitas, kontak, dan alamat",
+    "summary": {
+      "supplierType": "Jenis Supplier",
+      "supplierStatus": "Status Supplier",
+      "supplierGrade": "Grade Supplier",
+      "joinYear": "Tahun Bergabung"
+    },
+    "statuses": {
+      "active": "Aktif",
+      "inactive": "Nonaktif",
+      "pending": "Menunggu Persetujuan",
+      "blacklisted": "Blacklist"
+    },
+    "grades": {
+      "a": "Grade A (Sangat Baik)",
+      "b": "Grade B (Baik)",
+      "c": "Grade C (Cukup)",
+      "d": "Grade D (Kurang)"
+    },
+    "businessForms": {
+      "company": "Badan Usaha (PT / CV / Koperasi)",
+      "person": "Perorangan / Trader"
+    },
+    "values": {
+      "unset": "Belum ditentukan",
+      "notRegistered": "Belum terdaftar",
+      "archivableActive": "Dapat diarsipkan",
+      "archived": "Arsip",
+      "notRated": "Belum dinilai",
+      "assessmentPending": "Menunggu modul evaluasi",
+      "unknown": "Tidak diketahui",
+      "farms": "kebun",
+      "distilleries": "fasilitas penyulingan"
+    },
+    "actions": {
+      "edit": "Ubah Data"
+    },
+    "sections": {
+      "identity": "Identitas & Legalitas",
+      "identityDesc": "Klasifikasi, kepemilikan, dan legalitas usaha pemasok.",
+      "contact": "Kontak & Perpajakan",
+      "contactDesc": "Saluran komunikasi dan identitas pajak pemasok.",
+      "finance": "Keuangan & Rekening Bank",
+      "financeDesc": "Termin pembayaran dan rekening bank pemasok.",
+      "address": "Alamat & Lokasi",
+      "addressDesc": "Alamat administratif lengkap lima tingkat wilayah."
+    },
+    "labels": {
+      "code": "Kode Pemasok",
+      "digitalCode": "Kode Digital (QR)",
+      "supplierType": "Jenis Supplier",
+      "needsReview": "Perlu Review",
+      "supplierStatus": "Status",
+      "categories": "Kategori Pemasok",
+      "businessForm": "Bentuk Usaha",
+      "ownerName": "Nama Pemilik",
+      "pic": "Penanggung Jawab",
+      "joinYear": "Tahun Bergabung",
+      "nib": "NIB",
+      "businessLicense": "Izin Usaha",
+      "mobile": "No. HP",
+      "phone": "Telepon",
+      "email": "Email",
+      "website": "Website",
+      "vat": "NPWP",
+      "nik": "NIK",
+      "taxName": "Nama Wajib Pajak",
+      "paymentTerm": "Syarat Pembayaran",
+      "legacyCode": "Kode Lama (Accurate)",
+      "bankName": "Nama Bank",
+      "accountNumber": "Nomor Rekening",
+      "accountHolder": "Nama Pemilik Rekening"
+    }
   }
 }

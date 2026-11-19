@@ -54,7 +54,7 @@ export function ActionDialog({
           {description && <DialogDescription className="text-xs leading-relaxed">{description}</DialogDescription>}
         </DialogHeader>
 
-        <div className="h-105 w-[calc(100%+0.75rem)] overflow-y-auto py-1 pe-3">{children}</div>
+        <div className="max-h-105 w-[calc(100%+0.75rem)] overflow-y-auto py-1 pe-3">{children}</div>
 
         <DialogFooter className="border-border/50 mt-4 gap-2 border-t pt-3">
           {isView ? (

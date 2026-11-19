@@ -5,6 +5,8 @@
 
 export type SupplierCompanyType = 'company' | 'person'
 export type SupplierPaymentTerm = 'COD' | 'PAID_BEFORE_SHIPMENT'
+export type SupplierStatus = 'active' | 'inactive' | 'pending' | 'blacklisted'
+export type SupplierGrade = 'a' | 'b' | 'c' | 'd'
 
 export interface SupplierBankMetadata {
   bankName: string
@@ -24,23 +26,51 @@ export interface SupplierRecord {
   supplierTypeName?: string
   supplierTypeCode?: string
   needsReview: boolean
-  contactName?: string
+  supplierStatus: SupplierStatus
+  supplierGrade?: SupplierGrade
+  digitalCode?: string
+  ownerName?: string
+  picName?: string
+  picPosition?: string
+  joinYear?: number
+  nib?: string
+  businessLicense?: string
   phone?: string
   mobile?: string
   email?: string
+  website?: string
   vat?: string
+  nik?: string
+  taxName?: string
+  provenance?: string
   countryId?: number | null
   countryName?: string
   stateId?: number | null
   stateName?: string
+  cityId?: number | null
+  cityName?: string
+  city?: string
   districtId?: number | null
   districtName?: string
   subDistrictId?: number | null
   subDistrictName?: string
-  villageId?: number | null
-  villageName?: string
   street?: string
+  addressDetail?: string
+  addressBenchmark?: string
   zip?: string
+  latitude?: number
+  longitude?: number
+  farmerCount: number
+  workerCount: number
+  femaleWorkerPct: number
+  noChildLabor: boolean
+  fairWage: boolean
+  wasteManagement?: string
+  renewableEnergy: boolean
+  farmCount: number
+  distilleryCount: number
+  cropIds: number[]
+  suppliedProductIds: number[]
   paymentTerm: SupplierPaymentTerm
   bankInfo?: SupplierBankMetadata
   legacyCode?: string
@@ -57,18 +87,37 @@ export interface SupplierFormValues {
   categoryIds: number[]
   supplierTypeId?: number | null
   supplierTypeVerified: boolean
-  contactName?: string
+  supplierStatus: SupplierStatus
+  ownerName?: string
+  picName?: string
+  picPosition?: string
+  joinYear?: number
+  nib?: string
+  businessLicense?: string
   phone?: string
   mobile?: string
   email?: string
+  website?: string
   vat?: string
+  nik?: string
   countryId?: number | null
   stateId?: number | null
+  cityId?: number | null
   districtId?: number | null
   subDistrictId?: number | null
-  villageId?: number | null
   street?: string
+  addressDetail?: string
+  addressBenchmark?: string
   zip?: string
+  latitude?: number
+  longitude?: number
+  farmerCount?: number
+  workerCount?: number
+  femaleWorkerPct?: number
+  noChildLabor: boolean
+  fairWage: boolean
+  wasteManagement?: string
+  renewableEnergy: boolean
   paymentTerm: SupplierPaymentTerm
   bankName?: string
   accountNumber?: string

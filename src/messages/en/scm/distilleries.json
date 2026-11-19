@@ -18,7 +18,8 @@
     "performance": "Operational Parameters & Capacity",
     "performanceDesc": "Distillation duration, temperature, steam pressure, yield, and production capacity",
     "location": "Location & Documentation",
-    "locationDesc": "Administrative region, detailed address, GPS coordinates, and facility photo"
+    "locationDesc": "Administrative region, detailed address, GPS coordinates, and facility photo",
+    "label": "Distillation facility form sections"
   },
   "fields": {
     "code": "Facility Code",
@@ -141,10 +142,18 @@
     "archiveTitle": "Archive Distillation Facility",
     "restoreTitle": "Activate Distillation Facility",
     "archiveDesc": "Are you sure you want to deactivate distillation facility {name}? Distillation batch history remains securely tracked.",
-    "restoreDesc": "Are you sure you want to reactivate distillation facility {name}?"
+    "restoreDesc": "Are you sure you want to reactivate distillation facility {name}?",
+    "archive": "Archive",
+    "restore": "Restore"
   },
   "actions": {
-    "add": "Register Distillation Facility"
+    "add": "Register Distillation Facility",
+    "createTitle": "Register Distillation Facility",
+    "createDesc": "Register a new distillation facility with technical specifications and capacity",
+    "editTitle": "Edit Distillation Facility",
+    "editDesc": "Update facility specifications, capacity, and location",
+    "archive": "Archive",
+    "restore": "Restore"
   },
   "details": {
     "identity": "Boiler Unit Identity",
@@ -178,7 +187,42 @@
     "district": "District",
     "village": "Village",
     "addressDetail": "Detailed Address",
-    "coordinates": "GPS Coordinates"
+    "coordinates": "GPS Coordinates",
+    "description": "Technical specifications, capacity, and location of the distillation facility",
+    "edit": "Edit Facility",
+    "summary": {
+      "boilers": "Boiler Count",
+      "avgYield": "Average Yield",
+      "avgYieldSubtitle": "Yield percentage per batch",
+      "monthlyCapacity": "Monthly Capacity",
+      "monthlyCapacitySubtitle": "Production capacity per month",
+      "leadTime": "Lead Time",
+      "days": "days",
+      "hours": "hours"
+    },
+    "labels": {
+      "code": "Facility Code",
+      "partner": "Owner Distiller",
+      "status": "Status",
+      "facilityArea": "Facility Area",
+      "method": "Distillation Method",
+      "fuel": "Fuel Type",
+      "boilerMaterial": "Boiler Material",
+      "boilerCount": "Boiler Count",
+      "boilerCapacity": "Boiler Capacity",
+      "avgDuration": "Average Duration",
+      "operatingTemp": "Operating Temperature",
+      "operatingPressure": "Operating Pressure",
+      "avgYield": "Average Yield",
+      "yearlyCapacity": "Yearly Capacity",
+      "maxCapacity": "Maximum Capacity",
+      "address": "Address",
+      "province": "Province",
+      "city": "Regency / City",
+      "district": "District",
+      "subdistrict": "Subdistrict / Village",
+      "coordinates": "Coordinates"
+    }
   },
   "validation": {
     "nameRequired": "Facility name must be at least {min} characters.",

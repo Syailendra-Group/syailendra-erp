@@ -89,13 +89,20 @@ export function SupplierDialogs() {
                   )
                 }
               />
-              <DetailRow label={t('form.fields.contactName')} value={selectedSupplier.contactName || '-'} />
+              <DetailRow label={t('form.fields.ownerName')} value={selectedSupplier.ownerName || '-'} />
+              <DetailRow label={t('form.fields.picName')} value={selectedSupplier.picName || '-'} />
+              <DetailRow label={t('form.fields.picPosition')} value={selectedSupplier.picPosition || '-'} />
+              <DetailRow label={t('form.fields.joinYear')} value={selectedSupplier.joinYear ? String(selectedSupplier.joinYear) : '-'} mono />
               <DetailRow label={t('form.fields.mobile')} value={selectedSupplier.mobile || selectedSupplier.phone || '-'} mono />
               <DetailRow label={t('form.fields.email')} value={selectedSupplier.email || '-'} mono />
               <DetailRow label={t('form.fields.vat')} value={selectedSupplier.vat || '-'} mono />
               <DetailRow
                 label={t('form.fields.street')}
-                value={[selectedSupplier.street, selectedSupplier.districtName, selectedSupplier.stateName].filter(Boolean).join(', ') || '-'}
+                value={
+                  [selectedSupplier.street, selectedSupplier.cityName || selectedSupplier.city, selectedSupplier.stateName]
+                    .filter(Boolean)
+                    .join(', ') || '-'
+                }
               />
               <DetailRow label={t('form.fields.zip')} value={selectedSupplier.zip || '-'} mono />
               <DetailRow
@@ -114,6 +121,16 @@ export function SupplierDialogs() {
                 />
               )}
               {selectedSupplier.legacyCode && <DetailRow label={t('form.fields.legacyCode')} value={selectedSupplier.legacyCode} mono />}
+              <DetailRow label={t('form.fields.website')} value={selectedSupplier.website || '-'} mono />
+              <DetailRow label={t('form.fields.nik')} value={selectedSupplier.nik || '-'} mono />
+              <DetailRow label={t('form.fields.nib')} value={selectedSupplier.nib || '-'} mono />
+              <DetailRow label={t('form.fields.businessLicense')} value={selectedSupplier.businessLicense || '-'} />
+              {selectedSupplier.digitalCode && <DetailRow label={t('form.fields.digitalCode')} value={selectedSupplier.digitalCode} mono />}
+              <DetailRow
+                label={t('form.fields.supplierGrade')}
+                value={selectedSupplier.supplierGrade ? t(`form.grades.${selectedSupplier.supplierGrade}`) : t('form.grades.none')}
+              />
+              <DetailRow label={t('table.columns.supplierStatus')} value={t(`form.statusOptions.${selectedSupplier.supplierStatus}`)} />
               <DetailRow
                 label={t('table.columns.status')}
                 value={

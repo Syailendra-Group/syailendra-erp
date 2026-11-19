@@ -9,7 +9,7 @@ import { StatusBadge } from '@/components/shared/data-badge'
 import { IconText, LongText, PrimaryText } from '@/components/text'
 import { Badge } from '@/components/ui/badge'
 
-import type { SupplierRecord } from '@/types/scm/supplier'
+import type { SupplierRecord, SupplierStatus } from '@/types/scm/supplier'
 
 export interface SupplierColumnsProps {
   t: (key: string, values?: Record<string, string | number>) => string
@@ -19,6 +19,21 @@ export interface SupplierColumnsProps {
 }
 
 export function getSupplierColumns({ t, onView, onEdit, onToggleStatus }: SupplierColumnsProps): ColumnDef<SupplierRecord>[] {
+  // Explicit maps keep translation keys statically resolvable
+  const statusVariants: Record<SupplierStatus, 'success' | 'warning' | 'info' | 'destructive' | 'neutral'> = {
+    active: 'success',
+    inactive: 'neutral',
+    pending: 'warning',
+    blacklisted: 'destructive'
+  }
+
+  const statusLabels: Record<SupplierStatus, string> = {
+    active: t('form.statusOptions.active'),
+    inactive: t('form.statusOptions.inactive'),
+    pending: t('form.statusOptions.pending'),
+    blacklisted: t('form.statusOptions.blacklisted')
+  }
+
   return [
     {
       accessorKey: 'ref',
@@ -36,7 +51,7 @@ export function getSupplierColumns({ t, onView, onEdit, onToggleStatus }: Suppli
             <IconText icon={item.isCompany ? Building2 : User} className="text-xs font-medium">
               <LongText>{item.name}</LongText>
             </IconText>
-            {item.contactName && <span className="text-muted-foreground truncate pl-5 text-[10px]">PIC: {item.contactName}</span>}
+            {item.picName && <span className="text-muted-foreground truncate pl-5 text-[10px]">PIC: {item.picName}</span>}
           </div>
         )
       },
@@ -109,6 +124,19 @@ export function getSupplierColumns({ t, onView, onEdit, onToggleStatus }: Suppli
       }
     },
     {
+      id: 'supplierStatus',
+      accessorKey: 'supplierStatus',
+      header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.columns.supplierStatus')} />,
+      cell: ({ row }) => {
+        const status = row.original.supplierStatus
+        return (
+          <StatusBadge variant={statusVariants[status]} size="sm">
+            {statusLabels[status]}
+          </StatusBadge>
+        )
+      }
+    },
+    {
       accessorKey: 'mobile',
       header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.columns.contact')} />,
       cell: ({ row }) => {
@@ -126,7 +154,7 @@ export function getSupplierColumns({ t, onView, onEdit, onToggleStatus }: Suppli
       header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.columns.location')} />,
       cell: ({ row }) => {
         const item = row.original
-        const loc = [item.districtName, item.stateName].filter(Boolean).join(', ')
+        const loc = [item.cityName || item.city, item.stateName].filter(Boolean).join(', ')
         return (
           <span className="text-muted-foreground block max-w-45 text-xs">
             <LongText>{loc || '-'}</LongText>

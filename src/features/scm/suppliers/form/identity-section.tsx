@@ -1,181 +1,188 @@
 /**
- * identity-section.tsx — Supplier identity: codes, company type, procurement categories, supplier type
+ * identity-section.tsx — Supplier identity: codes, entity type, supplier type, status, categories
  * Syailendra Group ERP (SCM Pillar)
  */
 
 'use client'
 
+import { Building2 } from 'lucide-react'
 import { useTranslations } from 'next-intl'
-import { UseFormReturn } from 'react-hook-form'
+import { Controller, useWatch } from 'react-hook-form'
 
+import { SectionCard } from '@/components/card/section-card'
+import { FormFieldWrapper } from '@/components/form/form-field-wrapper'
+import { RestrictedField } from '@/components/form/restricted-field'
+import { SelectForm } from '@/components/form/select-form'
 import { SwitchField } from '@/components/form/switch-field'
-import { Badge } from '@/components/ui/badge'
-import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card'
-import { FormControl, FormField, FormItem, FormLabel, FormMessage } from '@/components/ui/form'
-import { Input } from '@/components/ui/input'
-import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select'
+import { TextField } from '@/components/form/text-field'
+import { DetailRow } from '@/components/shared/detail-row'
+import { CopyableText } from '@/components/text'
 import { useSupplierCategoryOptions } from '@/hooks/scm/use-supplier-categories'
 import { useSupplierTypeOptions } from '@/hooks/scm/use-supplier-types'
 
-import type { SupplierFormValues } from '@/types/scm/supplier'
+import type { SupplierSectionProps } from '@/types/scm/supplier-form'
 
-interface IdentitySectionProps {
-  form: UseFormReturn<SupplierFormValues>
-}
-
-export function IdentitySection({ form }: IdentitySectionProps) {
-  // Translations
+export function IdentitySection({ form, digitalCode, disabled = false, isEdit = false }: SupplierSectionProps) {
   const t = useTranslations('scm.suppliers')
-
-  // Procurement grouping (res.partner.category) and flat business-actor type are separate concepts
   const { data: categoryOptions = [] } = useSupplierCategoryOptions()
   const { data: supplierTypeOptions = [] } = useSupplierTypeOptions()
-
-  // Form state
-  const currentCategoryIds = form.watch('categoryIds') || []
-  const currentSupplierTypeId = form.watch('supplierTypeId')
-  const currentVerified = form.watch('supplierTypeVerified')
-
-  // Toggle a procurement category tag
-  const toggleCategory = (catId: number) => {
-    const exists = currentCategoryIds.includes(catId)
-    const updated = exists ? currentCategoryIds.filter((id) => id !== catId) : [...currentCategoryIds, catId]
-    form.setValue('categoryIds', updated, { shouldValidate: true })
-  }
+  const currentSupplierTypeId = useWatch({ control: form.control, name: 'supplierTypeId' })
+  const currentVerified = useWatch({ control: form.control, name: 'supplierTypeVerified' })
 
   return (
-    <Card className="shadow-xs">
-      <CardHeader className="pb-3">
-        <CardTitle className="text-sm font-semibold">{t('form.sections.identity')}</CardTitle>
-      </CardHeader>
-      <CardContent className="space-y-4">
-        <div className="grid grid-cols-1 gap-4 sm:grid-cols-2">
-          {/* Supplier Reference Code */}
-          <FormField
-            control={form.control}
-            name="ref"
-            render={({ field }) => (
-              <FormItem>
-                <FormLabel className="text-xs">{t('form.fields.ref')} *</FormLabel>
-                <FormControl>
-                  <Input {...field} placeholder={t('form.fields.refPlaceholder')} className="font-mono text-xs" />
-                </FormControl>
-                <FormMessage className="text-[11px]" />
-              </FormItem>
-            )}
-          />
+    <SectionCard title={t('form.sections.identity')} description={t('form.sections.identityDesc')} icon={Building2} contentClassName="space-y-4">
+      <div className="grid grid-cols-1 gap-4 sm:grid-cols-2">
+        <RestrictedField
+          control={form.control}
+          name="ref"
+          mode="code"
+          label={t('form.fields.ref')}
+          placeholder={t('form.fields.refPlaceholder')}
+          required
+          disabled={disabled}
+          readOnly={isEdit}
+          maxLength={32}
+        />
+        <TextField
+          control={form.control}
+          name="name"
+          label={t('form.fields.name')}
+          placeholder={t('form.fields.namePlaceholder')}
+          required
+          disabled={disabled}
+          maxLength={128}
+        />
+      </div>
 
-          {/* Supplier Name */}
-          <FormField
-            control={form.control}
-            name="name"
-            render={({ field }) => (
-              <FormItem>
-                <FormLabel className="text-xs">{t('form.fields.name')} *</FormLabel>
-                <FormControl>
-                  <Input {...field} placeholder={t('form.fields.namePlaceholder')} className="text-xs" />
-                </FormControl>
-                <FormMessage className="text-[11px]" />
-              </FormItem>
-            )}
-          />
-        </div>
-
-        <div className="grid grid-cols-1 gap-4 sm:grid-cols-2">
-          {/* Company Type (Company vs Person) */}
-          <FormField
-            control={form.control}
-            name="companyType"
-            render={({ field }) => (
-              <FormItem className="space-y-1">
-                <FormLabel className="text-xs">{t('form.fields.companyType')} *</FormLabel>
-                <Select onValueChange={field.onChange} value={field.value}>
-                  <FormControl>
-                    <SelectTrigger className="w-full text-xs">
-                      <SelectValue placeholder={t('form.fields.companyTypePlaceholder')} />
-                    </SelectTrigger>
-                  </FormControl>
-                  <SelectContent>
-                    <SelectItem value="company">{t('types.company')}</SelectItem>
-                    <SelectItem value="person">{t('types.person')}</SelectItem>
-                  </SelectContent>
-                </Select>
-                <FormMessage className="text-[11px]" />
-              </FormItem>
-            )}
-          />
-
-          {/* Supplier Type (flat master: syailendra.supplier.type) */}
-          <FormField
-            control={form.control}
-            name="supplierTypeId"
-            render={({ field }) => (
-              <FormItem className="space-y-1">
-                <FormLabel className="text-xs">{t('form.fields.supplierType')}</FormLabel>
-                <Select
-                  value={field.value ? String(field.value) : 'none'}
-                  onValueChange={(value) => {
-                    const nextId = value === 'none' ? null : Number(value)
-                    form.setValue('supplierTypeId', nextId, { shouldValidate: true })
-                    if (!nextId) form.setValue('supplierTypeVerified', false)
-                  }}
-                >
-                  <FormControl>
-                    <SelectTrigger className="w-full text-xs">
-                      <SelectValue placeholder={t('form.fields.supplierTypePlaceholder')} />
-                    </SelectTrigger>
-                  </FormControl>
-                  <SelectContent>
-                    <SelectItem value="none">{t('form.fields.supplierTypeEmpty')}</SelectItem>
-                    {supplierTypeOptions.map((option) => (
-                      <SelectItem key={option.id} value={String(option.id)}>
-                        {option.code} - {option.name}
-                      </SelectItem>
-                    ))}
-                  </SelectContent>
-                </Select>
-                <FormMessage className="text-[11px]" />
-              </FormItem>
-            )}
-          />
-        </div>
-
-        {/* Review flag clearance — only meaningful once a supplier type is chosen */}
-        <SwitchField
-          variant="card"
-          label={t('form.fields.supplierTypeVerified')}
-          hint={t('form.fields.supplierTypeVerifiedHint')}
-          checked={currentVerified}
-          disabled={!currentSupplierTypeId || form.formState.isSubmitting}
-          onCheckedChange={(checked) => form.setValue('supplierTypeVerified', checked, { shouldValidate: true })}
-          className="rounded-lg shadow-xs"
+      <div className="grid grid-cols-1 gap-4 sm:grid-cols-2">
+        <Controller
+          control={form.control}
+          name="companyType"
+          render={({ field, fieldState }) => (
+            <FormFieldWrapper id="companyType" label={t('form.fields.companyType')} required error={fieldState.error?.message}>
+              <SelectForm
+                id="companyType"
+                name={field.name}
+                inputRef={field.ref}
+                onBlur={field.onBlur}
+                aria-invalid={Boolean(fieldState.error)}
+                aria-describedby={fieldState.error ? 'companyType-error' : undefined}
+                value={field.value}
+                onValueChange={field.onChange}
+                disabled={disabled}
+                addNewAction={false}
+                placeholder={t('form.fields.companyTypePlaceholder')}
+                items={[
+                  { value: 'company', label: t('types.company') },
+                  { value: 'person', label: t('types.person') }
+                ]}
+              />
+            </FormFieldWrapper>
+          )}
         />
 
-        {/* Procurement grouping categories (res.partner.category) */}
-        <div className="space-y-2">
-          <FormLabel className="text-xs">{t('form.fields.categories')}</FormLabel>
-          <div className="flex min-h-10.5 flex-wrap gap-1.5 rounded-md border p-2.5">
-            {categoryOptions.length > 0 ? (
-              categoryOptions.map((opt) => {
-                const isSelected = currentCategoryIds.includes(opt.id)
-                return (
-                  <Badge
-                    key={opt.id}
-                    variant={isSelected ? 'default' : 'outline'}
-                    className="cursor-pointer px-2.5 py-1 text-xs font-normal transition-colors"
-                    onClick={() => toggleCategory(opt.id)}
-                  >
-                    {opt.displayName}
-                  </Badge>
-                )
-              })
-            ) : (
-              <span className="text-muted-foreground text-xs">{t('form.fields.categoriesEmpty')}</span>
-            )}
-          </div>
-          {form.formState.errors.categoryIds && <p className="text-destructive text-[11px]">{form.formState.errors.categoryIds.message}</p>}
-        </div>
-      </CardContent>
-    </Card>
+        <Controller
+          control={form.control}
+          name="supplierTypeId"
+          render={({ field, fieldState }) => (
+            <FormFieldWrapper id="supplierTypeId" label={t('form.fields.supplierType')} error={fieldState.error?.message}>
+              <SelectForm
+                id="supplierTypeId"
+                name={field.name}
+                inputRef={field.ref}
+                onBlur={field.onBlur}
+                aria-invalid={Boolean(fieldState.error)}
+                aria-describedby={fieldState.error ? 'supplierTypeId-error' : undefined}
+                value={field.value == null ? 'none' : String(field.value)}
+                onValueChange={(value) => {
+                  const nextId = value === 'none' ? null : Number(value)
+                  if (nextId !== (field.value ?? null)) {
+                    form.setValue('supplierTypeVerified', false, { shouldDirty: true, shouldValidate: true })
+                  }
+                  field.onChange(nextId)
+                }}
+                disabled={disabled}
+                addNewAction={false}
+                placeholder={t('form.fields.supplierTypePlaceholder')}
+                items={[
+                  { value: 'none', label: t('form.fields.supplierTypeEmpty') },
+                  ...supplierTypeOptions.map((option) => ({
+                    value: String(option.id),
+                    label: `${option.code} - ${option.name}`
+                  }))
+                ]}
+              />
+            </FormFieldWrapper>
+          )}
+        />
+      </div>
+
+      <Controller
+        control={form.control}
+        name="supplierStatus"
+        render={({ field, fieldState }) => (
+          <FormFieldWrapper id="supplierStatus" label={t('form.fields.supplierStatus')} error={fieldState.error?.message}>
+            <SelectForm
+              id="supplierStatus"
+              name={field.name}
+              inputRef={field.ref}
+              onBlur={field.onBlur}
+              aria-invalid={Boolean(fieldState.error)}
+              aria-describedby={fieldState.error ? 'supplierStatus-error' : undefined}
+              value={field.value}
+              onValueChange={field.onChange}
+              disabled={disabled}
+              addNewAction={false}
+              placeholder={t('form.fields.supplierStatusPlaceholder')}
+              items={[
+                { value: 'active', label: t('form.statusOptions.active') },
+                { value: 'inactive', label: t('form.statusOptions.inactive') },
+                { value: 'pending', label: t('form.statusOptions.pending') },
+                { value: 'blacklisted', label: t('form.statusOptions.blacklisted') }
+              ]}
+            />
+          </FormFieldWrapper>
+        )}
+      />
+
+      <SwitchField
+        id="supplierTypeVerified"
+        ariaLabel={t('form.fields.supplierTypeVerified')}
+        variant="card"
+        label={t('form.fields.supplierTypeVerified')}
+        hint={t('form.fields.supplierTypeVerifiedHint')}
+        checked={currentVerified}
+        disabled={!currentSupplierTypeId || disabled}
+        onCheckedChange={(checked) => form.setValue('supplierTypeVerified', checked, { shouldValidate: true })}
+        className="rounded-lg shadow-xs"
+      />
+
+      <Controller
+        control={form.control}
+        name="categoryIds"
+        render={({ field, fieldState }) => (
+          <FormFieldWrapper id="categoryIds" label={t('form.fields.categories')} required error={fieldState.error?.message}>
+            <SelectForm
+              multiple
+              id="categoryIds"
+              name={field.name}
+              inputRef={field.ref}
+              onBlur={field.onBlur}
+              aria-invalid={Boolean(fieldState.error)}
+              aria-describedby={fieldState.error ? 'categoryIds-error' : undefined}
+              value={field.value.map(String)}
+              onValueChange={(values) => field.onChange(values.map(Number))}
+              disabled={disabled}
+              addNewAction={false}
+              placeholder={t('form.fields.categoryPlaceholder')}
+              emptyText={t('form.fields.categoriesEmpty')}
+              items={categoryOptions.map((option) => ({ value: String(option.id), label: option.displayName }))}
+            />
+          </FormFieldWrapper>
+        )}
+      />
+
+      {digitalCode ? <DetailRow label={t('form.fields.digitalCode')} value={<CopyableText text={digitalCode} />} mono border={false} /> : null}
+    </SectionCard>
   )
 }

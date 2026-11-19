@@ -52,9 +52,6 @@ export function getSupplierCategoryColumns({ t, onView, onEdit, onDelete }: Supp
               <PrimaryText bold={true} className="text-xs">
                 <LongText>{item.name}</LongText>
               </PrimaryText>
-              <Badge variant="outline" className="border-primary/40 bg-primary/10 text-primary shrink-0 px-1.5 py-0 text-[10px] font-medium">
-                {t('table.rootBadge')}
-              </Badge>
             </div>
           )
         }

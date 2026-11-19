@@ -1,0 +1,148 @@
+{
+  "title": "Produk Atsiri",
+  "subtitle": "Katalog bahan baku alami, minyak atsiri murni, spesifikasi botani & mutu ekspor",
+  "primaryAction": "Tambah Produk Atsiri",
+  "summary": {
+    "totalProducts": "Total Produk",
+    "essentialOils": "Minyak Atsiri",
+    "rawBiomass": "Biomassa Mentah",
+    "lotTrackingRatio": "Terlacak Lot"
+  },
+  "sections": {
+    "commercialAndBotanical": "Identitas Komersial & Botani",
+    "exportCompliance": "Regulasi & Kepatuhan Ekspor Global",
+    "qcStandards": "Standar Pengujian Fisikokimia (ISO Lab)"
+  },
+  "dialog": {
+    "addTitle": "Registrasi Produk Atsiri Baru",
+    "addDesc": "Daftarkan spesifikasi komoditas atau bahan ke dalam katalog master sistem (SOP-SCM-001).",
+    "editTitle": "Ubah Spesifikasi Produk Atsiri",
+    "editDesc": "Perbarui parameter mutu fisikokimia, legalitas ekspor, atau deskripsi botani.",
+    "viewTitle": "Spesifikasi Lengkap Produk Atsiri",
+    "viewDesc": "Inspeksi komprehensif monograf botani, izin ekspor internasional, dan rentang uji mutu lab."
+  },
+  "fields": {
+    "defaultCode": "Kode Produk",
+    "defaultCodePlaceholder": "Contoh: EO-CDW-042 / RAW-PAT-001",
+    "name": "Nama Resmi Produk",
+    "namePlaceholder": "Contoh: Virginia Cedarwood Essential Oil",
+    "commercialName": "Nama Komersial / Pasar",
+    "commercialNamePlaceholder": "Contoh: Minyak Kayu Cedar Virginia",
+    "category": "Kategori Produk",
+    "categoryPlaceholder": "Pilih kategori...",
+    "botanicalName": "Nama Botani Resmi",
+    "botanicalNamePlaceholder": "Contoh: Juniperus virginiana L.",
+    "family": "Famili Taksonomi",
+    "familyPlaceholder": "Contoh: Cupressaceae",
+    "inciName": "Nama INCI Resmi",
+    "inciNamePlaceholder": "Contoh: Juniperus Virginiana Wood Oil",
+    "plantPart": "Bagian Tanaman",
+    "plantPartPlaceholder": "Contoh: Heartwood (Kayu Inti)",
+    "extractionMethod": "Metode Ekstraksi",
+    "extractionMethodPlaceholder": "Pilih metode...",
+    "aromaNote": "Karakter Aroma",
+    "aromaNotePlaceholder": "Pilih karakter...",
+    "shelfLifeMonths": "Masa Simpan (Bulan)",
+    "shelfLifeMonthsPlaceholder": "Contoh: 60",
+    "uom": "Satuan Ukur (UoM)",
+    "uomPlaceholder": "Pilih satuan...",
+    "tracking": "Pelacakan Inventaris",
+    "trackingPlaceholder": "Pilih pelacakan...",
+    "casNumber": "Nomor CAS",
+    "casNumberPlaceholder": "Contoh: 8000-27-9",
+    "einecsNumber": "Nomor EINECS / EC",
+    "einecsNumberPlaceholder": "Contoh: 285-370-3",
+    "femaNumber": "Nomor FEMA",
+    "femaNumberPlaceholder": "Contoh: 2300",
+    "hsCode": "HS Code (Pos Tarif BTKI)",
+    "hsCodePlaceholder": "Contoh: 3301.29.90",
+    "relativeDensity": "Densitas Relatif (20°C)",
+    "relativeDensityPlaceholder": "Contoh: 0.9410 - 0.9650",
+    "refractiveIndex": "Indeks Bias (20°C)",
+    "refractiveIndexPlaceholder": "Contoh: 1.5010 - 1.5100",
+    "opticalRotation": "Rotasi Optik (20°C)",
+    "opticalRotationPlaceholder": "Contoh: -36.0° to -16.0°",
+    "flashPoint": "Titik Nyala (°C)",
+    "flashPointPlaceholder": "Contoh: 93",
+    "ethanolSolubility": "Kelarutan Etanol 95%",
+    "ethanolSolubilityPlaceholder": "Contoh: Larut jernih maks 5 vol",
+    "keyCompounds": "Marker Senyawa Kunci (GC-MS)",
+    "keyCompoundsPlaceholder": "Contoh: Cedrol > 20%, Thujopsene > 15%",
+    "maxMoisture": "Kadar Air Maksimal (%)",
+    "maxMoisturePlaceholder": "Contoh: 15.0",
+    "minYield": "Target Rendemen Minimal (%)",
+    "minYieldPlaceholder": "Contoh: 2.5",
+    "description": "Deskripsi & Catatan Khusus",
+    "descriptionPlaceholder": "Catatan penanganan, sifat organoleptik, dan aplikasi..."
+  },
+  "categories": {
+    "essential_oils": "Minyak Atsiri (Pure 100%)",
+    "natural_isolates": "Isolat Alami",
+    "carrier_oils": "Minyak Pembawa (Carrier)",
+    "hydrosols": "Hidrosol / Air Aromatik",
+    "raw_biomass": "Biomassa Mentah (Kebun)",
+    "packaging": "Wadah & Kemasan"
+  },
+  "extractionMethods": {
+    "steam_distillation": "Distilasi Uap (Steam)",
+    "hydro_distillation": "Distilasi Air (Hydro)",
+    "cold_pressed": "Pemerasan Dingin (Cold Pressed)",
+    "solvent_extraction": "Ekstraksi Pelarut",
+    "fractional_distillation": "Distilasi Fraksinasi",
+    "none": "Tanpa Ekstraksi (Kemasan)"
+  },
+  "aromaNotes": {
+    "top": "Top Note (Awal)",
+    "middle": "Middle Note (Tengah)",
+    "base": "Base Note (Dasar)",
+    "fixative": "Fixative (Pengikat)"
+  },
+  "trackingOptions": {
+    "lot": "Pelacakan Nomor Lot",
+    "serial": "Pelacakan Nomor Seri",
+    "none": "Tanpa Pelacakan"
+  },
+  "table": {
+    "searchPlaceholder": "Cari kode, nama produk, atau nama botani...",
+    "columns": {
+      "code": "Kode",
+      "product": "Nama Produk & Botani",
+      "category": "Kategori",
+      "uom": "Satuan",
+      "shelfLife": "Masa Simpan",
+      "tracking": "Pelacakan",
+      "actions": "Aksi",
+      "statusLabel": "Status"
+    },
+    "emptyState": "Belum ada produk atsiri yang terdaftar.",
+    "errorTitle": "Gagal memuat Produk Atsiri",
+    "errorDescription": "Data tidak dapat diambil dari Odoo. Periksa koneksi backend lalu muat ulang halaman.",
+    "filters": {
+      "category": "Kategori",
+      "tracking": "Pelacakan",
+      "allCategories": "Semua Kategori"
+    }
+  },
+  "deleteDialog": {
+    "title": "Hapus Produk Atsiri",
+    "description": "Apakah Anda yakin ingin menghapus produk atsiri {name} ({code})? Tindakan ini bersifat permanen dan tidak dapat dibatalkan.",
+    "confirm": "Hapus Permanen",
+    "cancel": "Batal"
+  },
+  "toasts": {
+    "createdSuccess": "Produk Atsiri {name} berhasil didaftarkan.",
+    "updatedSuccess": "Spesifikasi produk atsiri {name} berhasil diperbarui.",
+    "deletedSuccess": "Produk Atsiri {name} berhasil dihapus.",
+    "deleteRestrictedError": "Produk Atsiri {name} tidak dapat dihapus karena sudah memiliki relasi inventaris atau nomor lot aktif di sistem.",
+    "errorOccurred": "Terjadi kesalahan pada sistem. Silakan coba kembali."
+  },
+  "validation": {
+    "defaultCodeMin": "Kode produk minimal {min} karakter.",
+    "defaultCodeFormat": "Format kode harus [PREFIX]-[KODE]-[NO] (contoh: EO-CDW-042 / RAW-PAT-001).",
+    "nameRequired": "Nama resmi produk wajib diisi.",
+    "categoryRequired": "Kategori produk wajib dipilih.",
+    "uomRequired": "Satuan ukur (UoM) wajib dipilih.",
+    "shelfLifeMin": "Masa simpan minimal {min} bulan.",
+    "extractionMethodRequired": "Metode ekstraksi wajib dipilih."
+  }
+}

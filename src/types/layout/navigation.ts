@@ -38,7 +38,7 @@ export interface NavCollapsibleItem extends BaseNavItem {
 export type NavItem = NavLinkItem | NavCollapsibleItem
 
 export interface NavGroup {
-  titleKey: string
+  titleKey?: string
   items: NavItem[]
 }
 

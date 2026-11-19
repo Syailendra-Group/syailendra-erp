@@ -9,6 +9,11 @@ export interface UseDataTableUrlStateOptions {
   defaultSort?: string
   defaultPerPage?: number
   filterKeys?: string[]
+  /**
+   * Maps a TanStack column id to the actual backend ORM field name when they differ.
+   * Defaults to identity: the column id is sent to the backend verbatim.
+   */
+  sortMap?: Record<string, string>
 }
 
 export interface UseDataTableUrlStateReturn {

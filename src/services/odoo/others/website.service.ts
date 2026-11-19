@@ -4,6 +4,7 @@
  */
 
 import { odoo } from '@/lib/odoo'
+import { odooImageUrl } from '@/utils/odoo-image'
 
 import type { OdooFieldValue } from '@/lib/odoo/types'
 import type { SiteConfigRecord, UpdateSiteConfigPayload } from '@/types/others/website'
@@ -70,8 +71,10 @@ export async function fetchSiteConfig(): Promise<SiteConfigRecord> {
     return DEFAULT_SITE_CONFIG
   }
 
+  const siteConfigId = (raw.id as number) || 1
+
   return {
-    id: (raw.id as number) || 1,
+    id: siteConfigId,
     site_name: (raw.site_name as string) || '',
     company_name: (raw.company_name as string) || 'Syailendra Group',
     site_descriptor: (raw.site_descriptor as string) || '',
@@ -80,9 +83,9 @@ export async function fetchSiteConfig(): Promise<SiteConfigRecord> {
     login_card_description: (raw.login_card_description as string) || '',
     footer_backbone: (raw.footer_backbone as string) || '',
     copyright_text: (raw.copyright_text as string) || '',
-    logo_light: (raw.logo_light as string) || null,
-    logo_dark: (raw.logo_dark as string) || null,
-    logo_monogram: (raw.logo_monogram as string) || null,
+    logo_light: raw.logo_light ? odooImageUrl('syailendra.site.config', siteConfigId, 'logo_light', '512') : null,
+    logo_dark: raw.logo_dark ? odooImageUrl('syailendra.site.config', siteConfigId, 'logo_dark', '512') : null,
+    logo_monogram: raw.logo_monogram ? odooImageUrl('syailendra.site.config', siteConfigId, 'logo_monogram', '512') : null,
     primary_light: (raw.primary_light as string) || '#004e52',
     primary_dark: (raw.primary_dark as string) || '#008187',
     bg_light: (raw.bg_light as string) || '#fffdee',
@@ -108,9 +111,19 @@ export async function updateSiteConfig(payload: UpdateSiteConfigPayload): Promis
     accent_gold: payload.accent_gold.trim()
   }
 
-  if (payload.logo_light !== undefined) values.logo_light = cleanBase64(payload.logo_light)
-  if (payload.logo_dark !== undefined) values.logo_dark = cleanBase64(payload.logo_dark)
-  if (payload.logo_monogram !== undefined) values.logo_monogram = cleanBase64(payload.logo_monogram)
+  // null clears the logo; a proxied URL means "unchanged"; only base64 may be written back.
+  const resolveLogo = (value: string | null | undefined): string | false | undefined => {
+    if (value === null) return false
+    if (value === undefined) return undefined
+    return value.startsWith('/') ? undefined : cleanBase64(value)
+  }
+
+  const lightLogo = resolveLogo(payload.logo_light)
+  if (lightLogo !== undefined) values.logo_light = lightLogo
+  const darkLogo = resolveLogo(payload.logo_dark)
+  if (darkLogo !== undefined) values.logo_dark = darkLogo
+  const monogramLogo = resolveLogo(payload.logo_monogram)
+  if (monogramLogo !== undefined) values.logo_monogram = monogramLogo
 
   await odoo.client.write('syailendra.site.config', [1], values)
   return true

@@ -3,7 +3,7 @@
  * Syailendra Group ERP
  */
 
-import type { ComponentType } from 'react'
+import type { ComponentType, Ref } from 'react'
 
 export interface SelectOption<T extends string = string> {
   label: string
@@ -19,6 +19,12 @@ export type SelectOptionItem<T extends string = string> = SelectOption<T>
 
 export interface BaseSelectFormProps<T extends string = string> {
   items: SelectOption<T>[]
+  id?: string
+  name?: string
+  inputRef?: Ref<HTMLButtonElement>
+  onBlur?: () => void
+  'aria-invalid'?: boolean
+  'aria-describedby'?: string
   placeholder?: string
   searchPlaceholder?: string
   emptyText?: string
@@ -52,3 +58,10 @@ export interface MultiSelectFormProps<T extends string = string> extends BaseSel
 }
 
 export type SelectFormProps<T extends string = string> = SingleSelectFormProps<T> | MultiSelectFormProps<T>
+
+export interface SelectFormFooterProps {
+  href?: string
+  onAdd?: () => void
+  onClose: () => void
+  label: string
+}

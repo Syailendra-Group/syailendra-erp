@@ -9,8 +9,11 @@ import { buildTableQueryString, parseArrayParam, serializeArrayParam } from '@/u
 import type { UseDataTableUrlStateOptions, UseDataTableUrlStateReturn } from '@/types/components/table'
 import type { ColumnFiltersState, PaginationState, SortingState } from '@tanstack/react-table'
 
+/** Stable identity map so the memo below never re-runs because of a fresh `{}` literal. */
+const EMPTY_SORT_MAP: Record<string, string> = {}
+
 export function useDataTableUrlState(options: UseDataTableUrlStateOptions = {}): UseDataTableUrlStateReturn {
-  const { defaultSort = 'ref.asc', defaultPerPage = 20, filterKeys = [] } = options
+  const { defaultSort = 'id.desc', defaultPerPage = 20, filterKeys = [], sortMap = EMPTY_SORT_MAP } = options
 
   const router = useRouter()
   const pathname = usePathname()
@@ -62,9 +65,10 @@ export function useDataTableUrlState(options: UseDataTableUrlStateOptions = {}):
   )
 
   const sorting: SortingState = useMemo(() => {
-    const [field = 'ref', desc = 'asc'] = sort.split('.')
-    return [{ id: field, desc: desc === 'desc' }]
-  }, [sort])
+    const [rawField, rawDirection = 'asc'] = sort.split('.')
+    const field = rawField || defaultSort.split('.')[0] || 'id'
+    return [{ id: field, desc: rawDirection === 'desc' }]
+  }, [sort, defaultSort])
 
   const columnFilters: ColumnFiltersState = useMemo(() => {
     const filters: ColumnFiltersState = []
@@ -91,13 +95,18 @@ export function useDataTableUrlState(options: UseDataTableUrlStateOptions = {}):
     return filters
   }, [filterKeys, searchParams])
 
-  // Translate table sorting to Odoo ORM order syntax
+  // Translate table sorting to backend ORM order syntax.
+  // The column id is used verbatim unless the feature supplies an explicit `sortMap`,
+  // so a feature can never leak a field the backend model does not own.
   const orderOdoo = useMemo(() => {
-    const s = sorting[0]
-    if (!s) return 'ref asc'
-    const col = s.id === 'name' ? 'name' : 'ref'
-    return `${col} ${s.desc ? 'desc' : 'asc'}`
-  }, [sorting])
+    const [fallbackField = 'id', fallbackDirection = 'asc'] = defaultSort.split('.')
+    const active = sorting[0]
+    if (!active) {
+      return `${fallbackField} ${fallbackDirection === 'desc' ? 'desc' : 'asc'}`
+    }
+    const field = sortMap[active.id] ?? active.id
+    return `${field} ${active.desc ? 'desc' : 'asc'}`
+  }, [sorting, defaultSort, sortMap])
 
   // URL event handler adapters
   const onPaginationChange = useCallback(
@@ -137,7 +146,17 @@ export function useDataTableUrlState(options: UseDataTableUrlStateOptions = {}):
 
   const createColumnFiltersHandler = useCallback(
     (keys: string[]) => (updater: ColumnFiltersState | ((old: ColumnFiltersState) => ColumnFiltersState)) => {
-      const next = typeof updater === 'function' ? updater(columnFilters) : updater
+      // Merge the incoming change over the CURRENT filter state so that changing one
+      // faceted filter never writes the other configured filters back to empty.
+      const incoming = typeof updater === 'function' ? updater(columnFilters) : updater
+      const merged = new Map(columnFilters.map((filter) => [filter.id, filter]))
+      incoming.forEach((filter) => merged.set(filter.id, filter))
+      const next: ColumnFiltersState = []
+      for (const key of keys) {
+        const filter = merged.get(key)
+        if (filter) next.push(filter)
+      }
+
       const updates: Record<string, string | undefined> = { page: '1' }
 
       for (const key of keys) {

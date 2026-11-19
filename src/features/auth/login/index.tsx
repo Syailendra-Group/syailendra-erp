@@ -8,6 +8,7 @@ import { ThemeToggle } from '@/components/shared/theme-toggle'
 import { Badge } from '@/components/ui/badge'
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card'
 import { useSiteConfigHydration, useSiteConfigQuery } from '@/hooks/others/use-website'
+import { resolveImageSrc } from '@/utils/get-initials'
 
 import { LoginForm } from './form'
 
@@ -27,11 +28,8 @@ export function LoginPage(): ReactElement {
   const footerBackbone = siteConfig?.footer_backbone || tAuth('digitalBackbone')
   const copyrightText = siteConfig?.copyright_text || tAuth('copyright')
 
-  const logoLightSrc = siteConfig?.logo_light
-    ? `data:image/png;base64,${siteConfig.logo_light}`
-    : '/images/branding/syailendra_logo_primary_light.png'
-
-  const logoDarkSrc = siteConfig?.logo_dark ? `data:image/png;base64,${siteConfig.logo_dark}` : '/images/branding/syailendra_logo_secondary_dark.png'
+  const logoLightSrc = resolveImageSrc(siteConfig?.logo_light) || '/images/branding/syailendra_logo_primary_light.png'
+  const logoDarkSrc = resolveImageSrc(siteConfig?.logo_dark) || '/images/branding/syailendra_logo_secondary_dark.png'
 
   return (
     <main className="bg-background text-foreground relative flex min-h-screen flex-col items-center justify-center p-4 transition-colors sm:p-6">

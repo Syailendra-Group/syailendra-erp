@@ -25,7 +25,9 @@
     "createOption": "Create new data",
     "create": "Create",
     "copy": "Copy text",
-    "close": "Close"
+    "close": "Close",
+    "remove": "Remove selection",
+    "clear": "Clear selection"
   },
   "status": {
     "loading": "Loading data...",
@@ -138,7 +140,9 @@
       "latitudePlaceholder": "e.g. -7.2145",
       "longitude": "Longitude (GPS)",
       "longitudePlaceholder": "e.g. 109.9124"
-    }
+    },
+    "street": "Address",
+    "streetPlaceholder": "Example: 42 Atsiri Industrial St., Warehouse Complex"
   },
   "map": {
     "loading": "Loading Interactive Map...",

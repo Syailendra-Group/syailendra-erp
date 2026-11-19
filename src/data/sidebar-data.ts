@@ -10,6 +10,7 @@ import {
   Clock,
   Coins,
   Database,
+  Factory,
   FileCheck2,
   FileSpreadsheet,
   FileText,
@@ -103,25 +104,26 @@ export const sidebarData: SidebarData = {
     // SCM & Traceability (PT SBI)
     scm: [
       {
-        titleKey: 'groups.scm_overview',
-        items: [{ titleKey: 'items.overview', url: '/scm', icon: LayoutDashboard }]
-      },
-      {
-        titleKey: 'groups.mitra_origin',
         items: [
-          { titleKey: 'items.suppliers', url: '/scm/suppliers', icon: FileSpreadsheet },
+          { titleKey: 'items.overview', url: '/scm', icon: LayoutDashboard },
           {
             titleKey: 'groups.scm_master_data',
             icon: Database,
             items: [
               { titleKey: 'items.supplierTypes', url: '/scm/supplier-types' },
               { titleKey: 'items.supplierCategories', url: '/scm/supplier-categories' },
-              { titleKey: 'items.farms', url: '/scm/farms' },
-              { titleKey: 'items.distilleries', url: '/scm/distilleries' },
               { titleKey: 'items.commodities', url: '/scm/commodities' },
-              { titleKey: 'items.materials', url: '/scm/materials' }
+              { titleKey: 'items.products', url: '/scm/products' }
             ]
           }
+        ]
+      },
+      {
+        titleKey: 'groups.mitra_origin',
+        items: [
+          { titleKey: 'items.suppliers', url: '/scm/suppliers', icon: FileSpreadsheet },
+          { titleKey: 'items.farms', url: '/scm/farms', icon: MapPin },
+          { titleKey: 'items.distilleries', url: '/scm/distilleries', icon: Factory }
         ]
       },
       {

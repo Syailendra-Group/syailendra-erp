@@ -1,16 +1,23 @@
-'use client'
-
 /**
- * index.tsx — Distillation Facility form orchestrator (ActionDialog modal)
+ * index.tsx — Distillation Facility page form with document-aligned pill sections
  * Syailendra Group ERP — SCM Pillar
  */
-import { useEffect, useMemo } from 'react'
+
+'use client'
+
+import { useState } from 'react'
 import { zodResolver } from '@hookform/resolvers/zod'
+import { Save } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 import { useForm } from 'react-hook-form'
 import { toast } from 'sonner'
 
+import { LoadingButton } from '@/components/button/loading-button'
+import { PillTabs } from '@/components/button/pill-tabs'
+import { PageHeader } from '@/components/shared/page-header'
+import { Form } from '@/components/ui/form'
 import { useDistilleryPartnerOptions, useSaveDistilleryMutation } from '@/hooks/scm/use-distilleries'
+import { useRouter } from '@/i18n/navigation'
 import { getDistilleryFormSchema } from '@/schemas/scm/distillery-schema'
 
 import { IdentitySection } from './identity-section'
@@ -23,10 +30,11 @@ import type { DistilleryRecord } from '@/types/scm/distillery'
 import type { ReactElement } from 'react'
 
 export interface DistilleryFormProps {
-  currentRow?: DistilleryRecord | null
-  onSuccess: () => void
-  onPendingChange?: (isPending: boolean) => void
+  initialData?: DistilleryRecord | null
 }
+
+const SECTION_IDS = ['identity', 'location', 'spec', 'performance'] as const
+type DistillerySectionId = (typeof SECTION_IDS)[number]
 
 function toDistilleryFormValues(record?: DistilleryRecord | null): DistilleryFormValues {
   if (!record) {
@@ -93,45 +101,80 @@ function toDistilleryFormValues(record?: DistilleryRecord | null): DistilleryFor
   }
 }
 
-export function DistilleryForm({ currentRow, onSuccess, onPendingChange }: DistilleryFormProps): ReactElement {
+export function DistilleryForm({ initialData }: DistilleryFormProps): ReactElement {
   const t = useTranslations('scm.distilleries')
+  const tCommon = useTranslations('common')
+  const router = useRouter()
   const { mutateAsync: saveDistillery, isPending } = useSaveDistilleryMutation()
   const { data: partnerOptions = [] } = useDistilleryPartnerOptions()
-  const isEdit = Boolean(currentRow)
-
-  const formValues = useMemo(() => toDistilleryFormValues(currentRow), [currentRow])
+  const isEdit = Boolean(initialData)
+  const [activeSection, setActiveSection] = useState<DistillerySectionId>('identity')
 
   const form = useForm<DistilleryFormValues>({
     resolver: zodResolver(getDistilleryFormSchema(t)),
-    values: formValues
+    defaultValues: toDistilleryFormValues(initialData)
   })
 
-  useEffect(() => {
-    onPendingChange?.(isPending)
-  }, [isPending, onPendingChange])
-
-  const onSubmit = async (values: DistilleryFormValues) => {
-    const payload = isEdit && currentRow ? { ...values, id: currentRow.id } : values
+  const onSubmit = form.handleSubmit(async (values: DistilleryFormValues) => {
+    const payload = isEdit && initialData ? { ...values, id: initialData.id } : values
 
     try {
       const res = await saveDistillery(payload)
       if (res.success) {
         toast.success(isEdit ? t('messages.updated') : t('messages.created'))
-        onSuccess()
+        router.push('/scm/distilleries')
         return
       }
-      toast.error(res.error === 'DUPLICATE_CODE' ? t('messages.duplicateCode') : res.error || t('messages.error'))
-    } catch (err) {
-      toast.error(err instanceof Error ? err.message : t('messages.error'))
+      toast.error(res.error === 'DUPLICATE_CODE' ? t('messages.duplicateCode') : res.error || tCommon('messages.error'))
+    } catch (error) {
+      toast.error(error instanceof Error ? error.message : tCommon('messages.error'))
     }
+  })
+
+  const labels: Record<DistillerySectionId, string> = {
+    identity: t('sections.identity'),
+    location: t('sections.location'),
+    spec: t('sections.spec'),
+    performance: t('sections.performance')
   }
+  const tabs = SECTION_IDS.map((id) => ({ id, label: labels[id] }))
 
   return (
-    <form id="distillery-action-form" onSubmit={form.handleSubmit(onSubmit)} className="space-y-4">
-      <IdentitySection form={form} partnerOptions={partnerOptions} disabled={isPending} />
-      <SpecSection form={form} disabled={isPending} />
-      <PerformanceSection form={form} disabled={isPending} />
-      <LocationSection form={form} disabled={isPending} />
-    </form>
+    <Form {...form}>
+      <form id="distillery-page-form" onSubmit={onSubmit} className="space-y-4 sm:space-y-6">
+        <PageHeader
+          title={isEdit ? t('actions.editTitle') : t('actions.createTitle')}
+          description={isEdit ? t('actions.editDesc') : t('actions.createDesc')}
+          showBack
+          backHref="/scm/distilleries"
+          actions={
+            <LoadingButton type="submit" isLoading={isPending} loadingText={tCommon('status.saving')} icon={Save} className="cursor-pointer gap-1.5">
+              <span>{tCommon('actions.save')}</span>
+            </LoadingButton>
+          }
+        />
+
+        <PillTabs
+          items={tabs}
+          value={activeSection}
+          onValueChange={setActiveSection}
+          tabListId="distillery-sections"
+          ariaLabel={t('sections.label')}
+          disabled={isPending}
+          itemClassName="min-w-36"
+        />
+        <div
+          id={`distillery-sections-panel-${activeSection}`}
+          role="tabpanel"
+          aria-labelledby={`distillery-sections-tab-${activeSection}`}
+          className="space-y-4 sm:space-y-6"
+        >
+          {activeSection === 'identity' && <IdentitySection form={form} partnerOptions={partnerOptions} disabled={isPending} />}
+          {activeSection === 'location' && <LocationSection form={form} disabled={isPending} />}
+          {activeSection === 'spec' && <SpecSection form={form} disabled={isPending} />}
+          {activeSection === 'performance' && <PerformanceSection form={form} disabled={isPending} />}
+        </div>
+      </form>
+    </Form>
   )
 }

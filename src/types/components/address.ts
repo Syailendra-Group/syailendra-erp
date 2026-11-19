@@ -27,4 +27,6 @@ export interface AddressSectionProps {
   onChange: (updates: Partial<AddressFormState>) => void
   onCentroidPan?: (coords: MapCoordinates) => void
   errors?: Record<string, { message?: string }>
+  /** Render the free-text street address textarea (entities whose street is not derived from the village). */
+  showStreetInput?: boolean
 }

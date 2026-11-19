@@ -24,7 +24,11 @@ export function FormFieldWrapper({ id, label, required = false, error, className
 
       {children}
 
-      {error && <p className="text-destructive text-[11px] font-medium">{error}</p>}
+      {error && (
+        <p id={id ? `${id}-error` : undefined} role="alert" className="text-destructive text-[11px] font-medium">
+          {error}
+        </p>
+      )}
     </div>
   )
 }

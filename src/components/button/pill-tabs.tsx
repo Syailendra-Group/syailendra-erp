@@ -21,11 +21,27 @@ export interface PillTabsProps<T extends string | number> {
   onValueChange: (value: T) => void
   className?: string
   itemClassName?: string
+  tabListId?: string
+  ariaLabel?: string
+  disabled?: boolean
 }
 
-export function PillTabs<T extends string | number>({ items, value, onValueChange, className, itemClassName }: PillTabsProps<T>): ReactElement {
+export function PillTabs<T extends string | number>({
+  items,
+  value,
+  onValueChange,
+  className,
+  itemClassName,
+  tabListId,
+  ariaLabel,
+  disabled
+}: PillTabsProps<T>): ReactElement {
   return (
-    <div className={cn('bg-muted/40 flex w-full flex-wrap gap-2 rounded-xl border p-2', className)}>
+    <div
+      role={tabListId ? 'tablist' : undefined}
+      aria-label={ariaLabel}
+      className={cn('bg-muted/40 flex w-full flex-wrap gap-2 rounded-xl border p-2', className)}
+    >
       {items.map((item) => {
         const isActive = item.id === value
         const hasAvatar = item.imageSrc !== undefined || item.fallbackText !== undefined
@@ -34,6 +50,26 @@ export function PillTabs<T extends string | number>({ items, value, onValueChang
           <Button
             key={String(item.id)}
             type="button"
+            disabled={disabled}
+            role={tabListId ? 'tab' : undefined}
+            id={tabListId ? `${tabListId}-tab-${item.id}` : undefined}
+            aria-controls={tabListId ? `${tabListId}-panel-${item.id}` : undefined}
+            aria-selected={tabListId ? isActive : undefined}
+            tabIndex={tabListId ? (isActive ? 0 : -1) : undefined}
+            onKeyDown={(event) => {
+              if (!tabListId || !['ArrowLeft', 'ArrowRight', 'Home', 'End'].includes(event.key)) return
+              event.preventDefault()
+              const index = items.findIndex((entry) => entry.id === item.id)
+              const next =
+                event.key === 'Home'
+                  ? 0
+                  : event.key === 'End'
+                    ? items.length - 1
+                    : (index + (event.key === 'ArrowRight' ? 1 : -1) + items.length) % items.length
+              const target = items[next]
+              onValueChange(target.id)
+              document.getElementById(`${tabListId}-tab-${target.id}`)?.focus()
+            }}
             variant={isActive ? 'default' : 'ghost'}
             onClick={() => onValueChange(item.id)}
             className={cn('min-w-25 flex-1 justify-center gap-2.5 font-semibold', itemClassName)}

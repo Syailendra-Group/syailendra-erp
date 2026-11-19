@@ -1,0 +1,148 @@
+{
+  "title": "Essential Oil Products",
+  "subtitle": "Catalog of natural raw materials and pure essential oils, botanical specs & export quality",
+  "primaryAction": "Add Product",
+  "summary": {
+    "totalProducts": "Total Products",
+    "essentialOils": "Essential Oils",
+    "rawBiomass": "Raw Biomass",
+    "lotTrackingRatio": "Lot Tracked"
+  },
+  "sections": {
+    "commercialAndBotanical": "Commercial & Botanical Identity",
+    "exportCompliance": "Global Export Compliance & Regulations",
+    "qcStandards": "Physicochemical Testing Standards (ISO Lab)"
+  },
+  "dialog": {
+    "addTitle": "Register New Product",
+    "addDesc": "Register a new commodity or material specification into the master catalog (SOP-SCM-001).",
+    "editTitle": "Edit Product Specification",
+    "editDesc": "Update physicochemical quality parameters, export compliance, or botanical details.",
+    "viewTitle": "Complete Product Specification",
+    "viewDesc": "Comprehensive inspection of botanical monographs, international export clearance, and ISO lab testing ranges."
+  },
+  "fields": {
+    "defaultCode": "Product Code",
+    "defaultCodePlaceholder": "Example: EO-CDW-042 / RAW-PAT-001",
+    "name": "Official Product Name",
+    "namePlaceholder": "Example: Virginia Cedarwood Essential Oil",
+    "commercialName": "Commercial / Market Name",
+    "commercialNamePlaceholder": "Example: Virginia Cedarwood Oil",
+    "category": "Product Category",
+    "categoryPlaceholder": "Select category...",
+    "botanicalName": "Official Botanical Name",
+    "botanicalNamePlaceholder": "Example: Juniperus virginiana L.",
+    "family": "Taxonomic Family",
+    "familyPlaceholder": "Example: Cupressaceae",
+    "inciName": "Official INCI Name",
+    "inciNamePlaceholder": "Example: Juniperus Virginiana Wood Oil",
+    "plantPart": "Plant Part",
+    "plantPartPlaceholder": "Example: Heartwood",
+    "extractionMethod": "Extraction Method",
+    "extractionMethodPlaceholder": "Select method...",
+    "aromaNote": "Aroma Note",
+    "aromaNotePlaceholder": "Select note...",
+    "shelfLifeMonths": "Shelf Life (Months)",
+    "shelfLifeMonthsPlaceholder": "Example: 60",
+    "uom": "Unit of Measure (UoM)",
+    "uomPlaceholder": "Select UoM...",
+    "tracking": "Inventory Tracking",
+    "trackingPlaceholder": "Select tracking...",
+    "casNumber": "CAS Number",
+    "casNumberPlaceholder": "Example: 8000-27-9",
+    "einecsNumber": "EINECS / EC Number",
+    "einecsNumberPlaceholder": "Example: 285-370-3",
+    "femaNumber": "FEMA Number",
+    "femaNumberPlaceholder": "Example: 2300",
+    "hsCode": "HS Code (Tariff Schedule)",
+    "hsCodePlaceholder": "Example: 3301.29.90",
+    "relativeDensity": "Relative Density (20°C)",
+    "relativeDensityPlaceholder": "Example: 0.9410 - 0.9650",
+    "refractiveIndex": "Refractive Index (20°C)",
+    "refractiveIndexPlaceholder": "Example: 1.5010 - 1.5100",
+    "opticalRotation": "Optical Rotation (20°C)",
+    "opticalRotationPlaceholder": "Example: -36.0° to -16.0°",
+    "flashPoint": "Flash Point (°C)",
+    "flashPointPlaceholder": "Example: 93",
+    "ethanolSolubility": "Ethanol 95% Solubility",
+    "ethanolSolubilityPlaceholder": "Example: Clear soluble max 5 vol",
+    "keyCompounds": "Key Marker Compounds (GC-MS)",
+    "keyCompoundsPlaceholder": "Example: Cedrol > 20%, Thujopsene > 15%",
+    "maxMoisture": "Max Moisture Content (%)",
+    "maxMoisturePlaceholder": "Example: 15.0",
+    "minYield": "Target Min Yield (%)",
+    "minYieldPlaceholder": "Example: 2.5",
+    "description": "Description & Special Notes",
+    "descriptionPlaceholder": "Handling precautions, organoleptic properties, and applications..."
+  },
+  "categories": {
+    "essential_oils": "Pure Essential Oils (100%)",
+    "natural_isolates": "Natural Isolates",
+    "carrier_oils": "Carrier Oils",
+    "hydrosols": "Hydrosols / Aromatic Waters",
+    "raw_biomass": "Raw Biomass (Harvested)",
+    "packaging": "Containers & Packaging"
+  },
+  "extractionMethods": {
+    "steam_distillation": "Steam Distillation",
+    "hydro_distillation": "Hydro Distillation",
+    "cold_pressed": "Cold Pressed",
+    "solvent_extraction": "Solvent Extraction",
+    "fractional_distillation": "Fractional Distillation",
+    "none": "No Extraction (Packaging)"
+  },
+  "aromaNotes": {
+    "top": "Top Note",
+    "middle": "Middle Note",
+    "base": "Base Note",
+    "fixative": "Fixative"
+  },
+  "trackingOptions": {
+    "lot": "By Lots Tracking",
+    "serial": "By Unique Serial Tracking",
+    "none": "No Tracking"
+  },
+  "table": {
+    "searchPlaceholder": "Search code, product name, or botanical name...",
+    "columns": {
+      "code": "Code",
+      "product": "Product & Botanical Name",
+      "category": "Category",
+      "uom": "UoM",
+      "shelfLife": "Shelf Life",
+      "tracking": "Tracking",
+      "actions": "Actions",
+      "statusLabel": "Status"
+    },
+    "emptyState": "No products registered yet.",
+    "errorTitle": "Failed to load Essential Oil Products",
+    "errorDescription": "The data could not be fetched from Odoo. Check the backend connection and reload the page.",
+    "filters": {
+      "category": "Category",
+      "tracking": "Tracking",
+      "allCategories": "All Categories"
+    }
+  },
+  "deleteDialog": {
+    "title": "Delete Product",
+    "description": "Are you sure you want to delete product {name} ({code})? This action is permanent and cannot be undone.",
+    "confirm": "Delete Permanently",
+    "cancel": "Cancel"
+  },
+  "toasts": {
+    "createdSuccess": "Product {name} registered successfully.",
+    "updatedSuccess": "Product specification for {name} updated successfully.",
+    "deletedSuccess": "Product {name} deleted successfully.",
+    "deleteRestrictedError": "Product {name} cannot be deleted because it is referenced by existing inventory or active lots in the system.",
+    "errorOccurred": "An unexpected error occurred. Please try again."
+  },
+  "validation": {
+    "defaultCodeMin": "Product code must be at least {min} characters.",
+    "defaultCodeFormat": "Format must follow [PREFIX]-[CODE]-[NO] (e.g. EO-CDW-042 / RAW-PAT-001).",
+    "nameRequired": "Official product name is required.",
+    "categoryRequired": "Product category is required.",
+    "uomRequired": "Unit of measure is required.",
+    "shelfLifeMin": "Shelf life must be at least {min} month.",
+    "extractionMethodRequired": "Extraction method is required."
+  }
+}

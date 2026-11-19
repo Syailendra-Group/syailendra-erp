@@ -9,7 +9,11 @@ const nextConfig: NextConfig = {
   async redirects() {
     return [
       { source: '/scm/crops', destination: '/scm/commodities', permanent: true },
-      { source: '/:locale/scm/crops', destination: '/:locale/scm/commodities', permanent: true }
+      { source: '/:locale/scm/crops', destination: '/:locale/scm/commodities', permanent: true },
+      { source: '/scm/materials', destination: '/scm/products', permanent: true },
+      { source: '/scm/materials/:path*', destination: '/scm/products/:path*', permanent: true },
+      { source: '/:locale/scm/materials', destination: '/:locale/scm/products', permanent: true },
+      { source: '/:locale/scm/materials/:path*', destination: '/:locale/scm/products/:path*', permanent: true }
     ]
   },
   experimental: {

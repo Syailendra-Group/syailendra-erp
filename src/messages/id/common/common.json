@@ -25,7 +25,9 @@
     "createOption": "Buat data baru",
     "create": "Tambah",
     "copy": "Salin teks",
-    "close": "Tutup"
+    "close": "Tutup",
+    "remove": "Hapus pilihan",
+    "clear": "Kosongkan pilihan"
   },
   "status": {
     "loading": "Memuat data...",
@@ -138,7 +140,9 @@
       "latitudePlaceholder": "Contoh: -7.2145",
       "longitude": "Longitude (GPS)",
       "longitudePlaceholder": "Contoh: 109.9124"
-    }
+    },
+    "street": "Alamat",
+    "streetPlaceholder": "Contoh: Jl. Industri Atsiri No. 42, Kompleks Pergudangan"
   },
   "map": {
     "loading": "Memuat Peta Interaktif...",

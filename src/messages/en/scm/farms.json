@@ -78,10 +78,51 @@
       "activeHint": "Inactive farms are hidden from harvest session options.",
       "commodities": "Planted Commodities",
       "commoditiesPlaceholder": "Select one or more commodities"
+    },
+    "tabs": {
+      "label": "Farm form sections",
+      "identity": "Identity",
+      "terroir": "Address & Terroir",
+      "cultivation": "Cultivation",
+      "sustainability": "Sustainability"
     }
   },
   "detail": {
-    "notFound": "Farm record not found."
+    "notFound": "Farm record not found.",
+    "description": "Farm block profile, terroir, cultivation practices, and location",
+    "edit": "Edit Farm",
+    "summary": {
+      "area": "Land Area",
+      "mdpl": "ASL",
+      "farmingSystem": "Farming System",
+      "farmingSystemSubtitle": "Farm cultivation practice standard",
+      "owner": "Owner / Partner",
+      "unassigned": "Unassigned",
+      "ownerSubtitle": "Supplier owning this farm block",
+      "crops": "Crops",
+      "cropsSubtitle": "Crops registered in this block"
+    },
+    "sections": {
+      "address": "Address & Location",
+      "addressDesc": "Five-level administrative address and farm coordinates"
+    },
+    "values": {
+      "active": "Active",
+      "archived": "Archived",
+      "yes": "Yes",
+      "no": "No"
+    },
+    "labels": {
+      "code": "Block Code",
+      "owner": "Owner / Partner",
+      "status": "Status",
+      "maps": "Google Maps",
+      "pesticide": "Pesticide",
+      "herbicide": "Herbicide",
+      "fertilizer": "Fertilizer",
+      "waterSource": "Water Source",
+      "landHistory": "Land History"
+    }
   },
   "dialog": {
     "viewTitle": "Farm Details",

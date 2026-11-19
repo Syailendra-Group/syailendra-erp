@@ -4,6 +4,7 @@
  */
 
 import { odoo } from '@/lib/odoo'
+import { odooImageUrl } from '@/utils/odoo-image'
 
 import type { OdooFieldValue } from '@/lib/odoo/types'
 import type { ModuleTab } from '@/stores/nav-store'
@@ -56,7 +57,6 @@ export async function fetchAllCompanies(): Promise<CompanyRecord[]> {
     'mobile',
     'partner_id',
     'uses_default_logo',
-    'logo_web',
     'enabled_pillars',
     'custom_menu_config'
   ]
@@ -85,7 +85,6 @@ export async function fetchAllCompanies(): Promise<CompanyRecord[]> {
 
     const id = c.id as number
     const usesDefaultLogo = Boolean(c.uses_default_logo)
-    const logoRaw = c.logo_web as string | false | null
     const shortName = ((c.short_name as string) || '').trim() || resolveDefaultCode(id)
 
     return {
@@ -105,7 +104,7 @@ export async function fetchAllCompanies(): Promise<CompanyRecord[]> {
       vat: (partner?.vat as string) || '',
       currency: 'IDR (Rp) - Indonesian Rupiah',
       uses_default_logo: usesDefaultLogo,
-      logo_web: !usesDefaultLogo && typeof logoRaw === 'string' && logoRaw.length > 0 ? logoRaw : null,
+      logo_web: usesDefaultLogo ? null : odooImageUrl('res.company', id, 'image_128', '128'),
       enabled_pillars: parsePillars(c.enabled_pillars),
       custom_menu_config: (c.custom_menu_config as string) || ''
     }
@@ -131,7 +130,11 @@ export async function updateCompanyProfile(payload: UpdateCompanyPayload): Promi
     companyFields.enabled_pillars = payload.enabled_pillars.join(',')
   }
 
-  if (payload.logo_web !== undefined) {
+  // null clears the logo; a proxied URL means "unchanged"; only base64 may be written back.
+  if (payload.logo_web === null) {
+    companyFields.logo_web = false
+    companyFields.uses_default_logo = true
+  } else if (payload.logo_web !== undefined && !payload.logo_web.startsWith('/')) {
     const cleaned = cleanBase64(payload.logo_web)
     companyFields.logo_web = cleaned
     companyFields.uses_default_logo = !cleaned

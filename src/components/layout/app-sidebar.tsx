@@ -19,7 +19,7 @@ export function AppSidebar(): ReactElement {
         <CompanySwitcher />
       </SidebarHeader>
 
-      <SidebarContent className="gap-2 pt-1">
+      <SidebarContent className="gap-1 pt-1">
         {currentGroups.map((group) => (
           <NavGroup key={group.titleKey} group={group} />
         ))}

@@ -2,14 +2,14 @@
 
 import { useMemo, useState } from 'react'
 import Image from 'next/image'
-import { Check, ChevronsUpDown, Loader2, PlusCircle, X } from 'lucide-react'
+import { Check, ChevronsUpDown, Loader2, X } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 
+import { SelectFormFooter } from '@/components/form/select-form-footer'
 import { Badge } from '@/components/ui/badge'
 import { Button } from '@/components/ui/button'
 import { Command, CommandEmpty, CommandGroup, CommandInput, CommandItem, CommandList } from '@/components/ui/command'
 import { Popover, PopoverContent, PopoverTrigger } from '@/components/ui/popover'
-import { Link } from '@/i18n/navigation'
 import { cn } from '@/lib/utils'
 
 import type { MultiSelectFormProps, SelectFormProps, SelectOption, SingleSelectFormProps } from '@/types/components/select'
@@ -22,6 +22,12 @@ const CHUNK_SIZE = 50
 export function SelectForm<T extends string = string>(props: SelectFormProps<T>): ReactElement {
   const {
     items,
+    id,
+    name,
+    inputRef,
+    onBlur,
+    'aria-invalid': ariaInvalid,
+    'aria-describedby': ariaDescribedBy,
     placeholder,
     searchPlaceholder,
     emptyText,
@@ -131,10 +137,17 @@ export function SelectForm<T extends string = string>(props: SelectFormProps<T>)
           type="button"
           variant="outline"
           role="combobox"
+          ref={inputRef}
+          id={id}
+          name={name}
+          onBlur={onBlur}
+          aria-invalid={ariaInvalid}
+          aria-describedby={ariaDescribedBy}
           aria-expanded={open}
           disabled={disabled}
           className={cn(
-            'border-input file:text-foreground placeholder:text-muted-foreground focus-visible:border-ring focus-visible:ring-ring/50 aria-invalid:border-destructive aria-invalid:ring-destructive/20 dark:bg-input/30 dark:aria-invalid:border-destructive/50 dark:aria-invalid:ring-destructive/40 h-9 w-full min-w-0 rounded-md border bg-transparent px-2.5 py-1 text-base shadow-xs transition-[color,box-shadow] outline-none file:inline-flex file:file:border-0 file:bg-transparent file:text-sm file:font-medium focus-visible:ring-3 disabled:pointer-events-none disabled:cursor-not-allowed disabled:opacity-50 aria-invalid:ring-3 md:text-sm',
+            'border-input file:text-foreground placeholder:text-muted-foreground focus-visible:border-ring focus-visible:ring-ring/50 aria-invalid:border-destructive aria-invalid:ring-destructive/20 dark:bg-input/30 dark:aria-invalid:border-destructive/50 dark:aria-invalid:ring-destructive/40 h-9 w-full min-w-0 rounded-md border bg-transparent px-2.5 py-1 text-base shadow-xs transition-[color,box-shadow] outline-none file:inline-flex file:border-0 file:bg-transparent file:text-sm file:font-medium focus-visible:ring-3 disabled:pointer-events-none disabled:cursor-not-allowed disabled:opacity-50 aria-invalid:ring-3 md:text-sm',
+            isMultiple && 'h-auto min-h-9',
             disabled && 'cursor-not-allowed opacity-50',
             className
           )}
@@ -160,7 +173,15 @@ export function SelectForm<T extends string = string>(props: SelectFormProps<T>)
                       <span
                         role="button"
                         tabIndex={0}
+                        aria-label={tCommon('actions.remove')}
                         onClick={(e) => handleRemoveItem(val, e)}
+                        onKeyDown={(e) => {
+                          if (e.key === 'Enter' || e.key === ' ') {
+                            e.preventDefault()
+                            e.stopPropagation()
+                            ;(props as MultiSelectFormProps<T>).onValueChange?.(multiValue.filter((item) => item !== val))
+                          }
+                        }}
                         className="hover:text-destructive text-muted-foreground ml-0.5 cursor-pointer rounded-xs"
                       >
                         <X className="size-3" />
@@ -196,7 +217,16 @@ export function SelectForm<T extends string = string>(props: SelectFormProps<T>)
               <span
                 role="button"
                 tabIndex={0}
+                aria-label={tCommon('actions.clear')}
                 onClick={handleClear}
+                onKeyDown={(e) => {
+                  if (e.key === 'Enter' || e.key === ' ') {
+                    e.preventDefault()
+                    e.stopPropagation()
+                    if (isMultiple) (props as MultiSelectFormProps<T>).onValueChange?.([])
+                    else (props as SingleSelectFormProps<T>).onValueChange?.('' as T)
+                  }
+                }}
                 className="hover:text-foreground text-muted-foreground cursor-pointer rounded-xs p-0.5"
               >
                 <X className="size-3.5" />
@@ -216,7 +246,7 @@ export function SelectForm<T extends string = string>(props: SelectFormProps<T>)
             placeholder={searchPlaceholder || tSelect('searchPlaceholder')}
             value={searchQuery}
             onValueChange={handleSearchChange}
-            className="h-8 shrink-0 text-xs"
+            className="shrink-0"
           />
 
           <CommandList onScroll={handleScroll} className="max-h-52 flex-1 overflow-y-auto">
@@ -261,35 +291,7 @@ export function SelectForm<T extends string = string>(props: SelectFormProps<T>)
             )}
           </CommandList>
 
-          {/* Fixed Sticky Footer for Add Action */}
-          {hasAddAction && (
-            <div className="border-border bg-card/95 sticky bottom-0 z-10 shrink-0 border-t p-1.5 shadow-xs backdrop-blur-xs">
-              {addNewHref ? (
-                <Button
-                  variant="ghost"
-                  className="text-primary hover:text-primary hover:bg-muted/70 w-full cursor-pointer justify-start gap-2 text-xs font-medium"
-                  asChild
-                >
-                  <Link href={addNewHref} onClick={() => setOpen(false)}>
-                    <PlusCircle className="size-3.5" />
-                    <span className="truncate">{actionButtonText}</span>
-                  </Link>
-                </Button>
-              ) : onAddNewClick ? (
-                <Button
-                  variant="ghost"
-                  className="text-primary hover:text-primary hover:bg-muted/70 w-full cursor-pointer justify-start gap-2 text-xs font-medium"
-                  onClick={() => {
-                    setOpen(false)
-                    onAddNewClick?.()
-                  }}
-                >
-                  <PlusCircle className="size-3.5" />
-                  <span className="truncate">{actionButtonText}</span>
-                </Button>
-              ) : null}
-            </div>
-          )}
+          {hasAddAction && <SelectFormFooter href={addNewHref} onAdd={onAddNewClick} label={actionButtonText} onClose={() => setOpen(false)} />}
         </Command>
       </PopoverContent>
     </Popover>

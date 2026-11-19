@@ -23,7 +23,8 @@
       "status": "Status",
       "actions": "Actions",
       "supplierType": "Supplier Type",
-      "needsReview": "Needs Review"
+      "needsReview": "Needs Review",
+      "supplierStatus": "Supplier Status"
     },
     "status": {
       "active": "Active",
@@ -55,10 +56,17 @@
     "description": "Complete the supplier profile, operational contact, warehouse address, and banking information.",
     "sections": {
       "identity": "Supplier Identity",
-      "categories": "Supplier Types",
       "contact": "Contact & Taxation",
-      "address": "Address & Regional",
-      "finance": "Finance & Bank Account"
+      "finance": "Finance & Bank Account",
+      "ownership": "Ownership & Legality",
+      "location": "Address & Location",
+      "esg": "Compliance & Social Impact",
+      "summary": "Evaluation & Related Assets",
+      "identityDesc": "Supplier code, entity type, categories, and status.",
+      "contactDesc": "Contact information and tax identity.",
+      "ownershipDesc": "Ownership, person-in-charge, and business legality.",
+      "financeDesc": "Payment terms and bank account information.",
+      "esgDesc": "Compliance, workforce, and waste management indicators."
     },
     "fields": {
       "ref": "Supplier Code",
@@ -68,21 +76,18 @@
       "type": "Entity Type",
       "category": "Supplier Type",
       "categoryPlaceholder": "Select one or more supplier types",
-      "contactName": "PIC / Operational Manager Name",
-      "contactNamePlaceholder": "e.g. Budi Santoso",
       "phone": "Office Phone",
       "phonePlaceholder": "e.g. 021-5551234",
       "mobile": "WhatsApp / Mobile Number",
       "mobilePlaceholder": "e.g. 081234567890",
       "email": "Official Email",
       "emailPlaceholder": "e.g. purchasing@vendor.com",
-      "vat": "Tax ID / NIK",
-      "vatPlaceholder": "16-digit NPWP or owner NIK",
+      "vat": "Tax ID (NPWP)",
+      "vatPlaceholder": "Tax identification number",
       "country": "Country",
       "state": "Province / State",
-      "district": "Regency / City",
-      "subDistrict": "District",
-      "village": "Village",
+      "district": "District",
+      "subDistrict": "Village",
       "street": "Full Address",
       "streetPlaceholder": "e.g. Jl. Industri Atsiri No. 42, Warehouse Complex",
       "zip": "Postal Code",
@@ -100,13 +105,52 @@
       "active": "Supplier Active",
       "companyType": "Business Entity Type",
       "companyTypePlaceholder": "Select entity type...",
-      "categories": "Supplier Types",
+      "categories": "Supplier Categories",
       "supplierType": "Supplier Type",
       "supplierTypePlaceholder": "Select a business-actor type",
       "supplierTypeEmpty": "Not yet assigned",
       "supplierTypeVerified": "Verified",
       "supplierTypeVerifiedHint": "Check once the supplier type has been confirmed by the team",
-      "categoriesEmpty": "No supplier categories available yet"
+      "categoriesEmpty": "No supplier categories available yet",
+      "website": "Website",
+      "websitePlaceholder": "Example: www.essential-oil-vendor.co.id",
+      "nik": "Owner National ID (NIK)",
+      "nikPlaceholder": "16-digit national identity number",
+      "city": "Regency / City",
+      "cityPlaceholder": "Select a regency or city",
+      "statePlaceholder": "Select a province",
+      "countryPlaceholder": "Select a country",
+      "districtPlaceholder": "Select a district",
+      "subDistrictPlaceholder": "Select a village",
+      "latitude": "Latitude",
+      "longitude": "Longitude",
+      "ownerName": "Owner Name",
+      "ownerNamePlaceholder": "Example: Abdul Hakam Najja",
+      "picName": "Person in Charge",
+      "picNamePlaceholder": "Example: Dwi Febrian",
+      "picPosition": "PIC Position",
+      "picPositionPlaceholder": "Example: Operations Manager",
+      "joinYear": "Join Year",
+      "joinYearPlaceholder": "Example: 2019",
+      "nib": "NIB",
+      "nibPlaceholder": "Business identification number",
+      "businessLicense": "Business License",
+      "businessLicensePlaceholder": "Example: SIUP / IUI",
+      "supplierStatus": "Supplier Status",
+      "supplierStatusPlaceholder": "Select a supplier status",
+      "digitalCode": "Supplier Digital Code",
+      "supplierGrade": "Performance Grade",
+      "farmCount": "Registered Plantations",
+      "distilleryCount": "Distillation Units",
+      "provenance": "Data Provenance",
+      "farmerCount": "Supported Farmers",
+      "workerCount": "Employee Count",
+      "femaleWorkerPct": "Female Worker Percentage (%)",
+      "noChildLabor": "No Child Labor",
+      "fairWage": "Fair Wage Practices",
+      "wasteManagement": "Waste Management",
+      "wasteManagementPlaceholder": "Describe waste handling practices at the production site",
+      "renewableEnergy": "Renewable Energy Usage"
     },
     "buttons": {
       "save": "Save Supplier",
@@ -114,7 +158,29 @@
       "cancel": "Cancel"
     },
     "createDescription": "Register raw material, packaging, or service vendor profiles into the system.",
-    "editDescription": "Update legalities, categories, contact info, or banking details of the vendor."
+    "editDescription": "Update legalities, categories, contact info, or banking details of the vendor.",
+    "statusOptions": {
+      "active": "Active",
+      "inactive": "Inactive",
+      "pending": "Pending Verification",
+      "blacklisted": "Blacklisted"
+    },
+    "grades": {
+      "a": "Grade A",
+      "b": "Grade B",
+      "c": "Grade C",
+      "d": "Grade D",
+      "none": "Not yet graded"
+    },
+    "tabs": {
+      "identity": "Identity",
+      "contact": "Contact & Legal",
+      "location": "Address & Location",
+      "finance": "Finance & Bank",
+      "esg": "ESG & Evaluation",
+      "label": "Supplier form sections",
+      "errors": "{count} errors"
+    }
   },
   "dialog": {
     "viewTitle": "Supplier Profile Details",
@@ -135,8 +201,14 @@
     "refMax": "Supplier code cannot exceed 32 characters",
     "nameMin": "Supplier name must be at least 3 characters",
     "nameMax": "Supplier name cannot exceed 128 characters",
-    "categoryRequired": "At least one supplier type must be selected",
-    "emailInvalid": "Invalid email address format"
+    "categoryRequired": "Select at least one supplier category",
+    "emailInvalid": "Invalid email address format",
+    "joinYearRange": "Join year must be a valid 4-digit year",
+    "coordinateRange": "Coordinate value is outside the valid range",
+    "percentageRange": "Percentage must be between 0 and 100",
+    "maxLength": "Maximum {max} characters",
+    "integer": "Must be a whole number",
+    "minValue": "Minimum value is {min}"
   },
   "toast": {
     "createSuccess": "New supplier registered successfully",
@@ -148,5 +220,81 @@
     "deleteErrorRelational": "This supplier cannot be deleted because it is already referenced by transactions or receiving notes in the system.",
     "createError": "Failed to register supplier",
     "updateError": "Failed to update supplier data"
+  },
+  "detail": {
+    "notFound": "Supplier record not found",
+    "description": "Complete supplier profile, classification, legality, contact, and address",
+    "summary": {
+      "supplierType": "Supplier Type",
+      "supplierStatus": "Supplier Status",
+      "supplierGrade": "Supplier Grade",
+      "joinYear": "Join Year"
+    },
+    "statuses": {
+      "active": "Active",
+      "inactive": "Inactive",
+      "pending": "Pending Review",
+      "blacklisted": "Blacklisted"
+    },
+    "grades": {
+      "a": "Grade A (Excellent)",
+      "b": "Grade B (Good)",
+      "c": "Grade C (Fair)",
+      "d": "Grade D (Poor)"
+    },
+    "businessForms": {
+      "company": "Legal Entity (PT / CV / Cooperative)",
+      "person": "Individual / Trader"
+    },
+    "values": {
+      "unset": "Not set",
+      "notRegistered": "Not registered",
+      "archivableActive": "Archivable",
+      "archived": "Archived",
+      "notRated": "Not rated",
+      "assessmentPending": "Awaiting evaluation module",
+      "unknown": "Unknown",
+      "farms": "farms",
+      "distilleries": "distilleries"
+    },
+    "actions": {
+      "edit": "Edit Supplier"
+    },
+    "sections": {
+      "identity": "Identity & Legality",
+      "identityDesc": "Classification, ownership, and business legality of the supplier.",
+      "contact": "Contact & Tax",
+      "contactDesc": "Communication channels and tax identity of the supplier.",
+      "finance": "Finance & Bank Account",
+      "financeDesc": "Payment terms and bank account details of the supplier.",
+      "address": "Address & Location",
+      "addressDesc": "Complete five-level administrative address."
+    },
+    "labels": {
+      "code": "Supplier Code",
+      "digitalCode": "Digital Code (QR)",
+      "supplierType": "Supplier Type",
+      "needsReview": "Needs Review",
+      "supplierStatus": "Status",
+      "categories": "Supplier Categories",
+      "businessForm": "Business Form",
+      "ownerName": "Owner Name",
+      "pic": "Person in Charge",
+      "joinYear": "Join Year",
+      "nib": "NIB",
+      "businessLicense": "Business License",
+      "mobile": "Mobile",
+      "phone": "Phone",
+      "email": "Email",
+      "website": "Website",
+      "vat": "VAT (NPWP)",
+      "nik": "NIK",
+      "taxName": "Tax Name",
+      "paymentTerm": "Payment Term",
+      "legacyCode": "Legacy Code (Accurate)",
+      "bankName": "Bank Name",
+      "accountNumber": "Account Number",
+      "accountHolder": "Account Holder"
+    }
   }
 }

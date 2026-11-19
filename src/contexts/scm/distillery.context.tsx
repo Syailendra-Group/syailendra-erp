@@ -2,6 +2,8 @@
 
 import { createContext, useCallback, useContext, useState } from 'react'
 
+import { useRouter } from '@/i18n/navigation'
+
 import type { DistilleryRecord } from '@/types/scm/distillery'
 import type { ReactElement, ReactNode } from 'react'
 
@@ -27,23 +29,28 @@ export interface DistilleriesProviderProps {
 }
 
 export function DistilleriesProvider({ children, refreshData }: DistilleriesProviderProps): ReactElement {
+  const router = useRouter()
   const [open, setOpen] = useState<DistilleriesDialogType>(null)
   const [currentRow, setCurrentRow] = useState<DistilleryRecord | null>(null)
 
+  // Form and detail are dedicated pages now; only archive still uses a dialog.
   const handleCreate = useCallback(() => {
-    setCurrentRow(null)
-    setOpen('create')
-  }, [])
+    router.push('/scm/distilleries/create')
+  }, [router])
 
-  const handleEdit = useCallback((row: DistilleryRecord) => {
-    setCurrentRow(row)
-    setOpen('edit')
-  }, [])
+  const handleEdit = useCallback(
+    (row: DistilleryRecord) => {
+      router.push(`/scm/distilleries/${row.id}/edit`)
+    },
+    [router]
+  )
 
-  const handleView = useCallback((row: DistilleryRecord) => {
-    setCurrentRow(row)
-    setOpen('view')
-  }, [])
+  const handleView = useCallback(
+    (row: DistilleryRecord) => {
+      router.push(`/scm/distilleries/${row.id}`)
+    },
+    [router]
+  )
 
   const handleDelete = useCallback((row: DistilleryRecord) => {
     setCurrentRow(row)

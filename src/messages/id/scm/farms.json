@@ -78,10 +78,51 @@
       "activeHint": "Kebun nonaktif tidak muncul pada pilihan sesi panen.",
       "commodities": "Komoditas Ditanam",
       "commoditiesPlaceholder": "Pilih satu atau lebih komoditas"
+    },
+    "tabs": {
+      "label": "Bagian formulir kebun",
+      "identity": "Identitas",
+      "terroir": "Alamat & Terroir",
+      "cultivation": "Budidaya",
+      "sustainability": "Keberlanjutan"
     }
   },
   "detail": {
-    "notFound": "Data kebun tidak ditemukan."
+    "notFound": "Data kebun tidak ditemukan.",
+    "description": "Profil blok kebun, terroir, praktik budidaya, dan lokasi",
+    "edit": "Ubah Kebun",
+    "summary": {
+      "area": "Luas Lahan",
+      "mdpl": "mdpl",
+      "farmingSystem": "Sistem Budidaya",
+      "farmingSystemSubtitle": "Standar praktik budidaya kebun",
+      "owner": "Pemilik / Mitra",
+      "unassigned": "Belum ditugaskan",
+      "ownerSubtitle": "Supplier pemilik blok kebun",
+      "crops": "Komoditas",
+      "cropsSubtitle": "Tanaman yang terdaftar di blok ini"
+    },
+    "sections": {
+      "address": "Alamat & Lokasi",
+      "addressDesc": "Alamat administratif lima tingkat dan titik koordinat kebun"
+    },
+    "values": {
+      "active": "Aktif",
+      "archived": "Arsip",
+      "yes": "Ya",
+      "no": "Tidak"
+    },
+    "labels": {
+      "code": "Kode Blok",
+      "owner": "Pemilik / Mitra",
+      "status": "Status",
+      "maps": "Google Maps",
+      "pesticide": "Pestisida",
+      "herbicide": "Herbisida",
+      "fertilizer": "Pupuk",
+      "waterSource": "Sumber Air",
+      "landHistory": "Riwayat Lahan"
+    }
   },
   "dialog": {
     "viewTitle": "Rincian Kebun",

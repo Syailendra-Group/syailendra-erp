@@ -18,7 +18,8 @@
     "performance": "Parameter Operasional & Kapasitas",
     "performanceDesc": "Lama penyulingan, suhu, tekanan uap, rendemen, & kapasitas produksi",
     "location": "Lokasi & Dokumentasi",
-    "locationDesc": "Wilayah administratif, alamat detail, koordinat GPS, & foto fasilitas"
+    "locationDesc": "Wilayah administratif, alamat detail, koordinat GPS, & foto fasilitas",
+    "label": "Bagian formulir fasilitas penyulingan"
   },
   "fields": {
     "code": "Kode Fasilitas Penyulingan",
@@ -141,10 +142,18 @@
     "archiveTitle": "Arsipkan Fasilitas Penyulingan",
     "restoreTitle": "Aktifkan Fasilitas Penyulingan",
     "archiveDesc": "Apakah Anda yakin ingin menonaktifkan fasilitas penyulingan {name}? Riwayat batch suling tetap aman terlacak.",
-    "restoreDesc": "Apakah Anda yakin ingin mengaktifkan kembali fasilitas penyulingan {name}?"
+    "restoreDesc": "Apakah Anda yakin ingin mengaktifkan kembali fasilitas penyulingan {name}?",
+    "archive": "Arsipkan",
+    "restore": "Aktifkan"
   },
   "actions": {
-    "add": "Daftarkan Fasilitas Penyulingan"
+    "add": "Daftarkan Fasilitas Penyulingan",
+    "createTitle": "Daftarkan Fasilitas Penyulingan",
+    "createDesc": "Registrasi fasilitas penyulingan baru dengan spesifikasi teknis dan kapasitas",
+    "editTitle": "Ubah Fasilitas Penyulingan",
+    "editDesc": "Perbarui spesifikasi, kapasitas, dan lokasi fasilitas penyulingan",
+    "archive": "Arsipkan",
+    "restore": "Aktifkan"
   },
   "details": {
     "identity": "Identitas Unit Ketel",
@@ -178,7 +187,42 @@
     "district": "Kecamatan",
     "village": "Desa / Kelurahan",
     "addressDetail": "Alamat Detail",
-    "coordinates": "Koordinat GPS"
+    "coordinates": "Koordinat GPS",
+    "description": "Spesifikasi teknis, kapasitas, dan lokasi fasilitas penyulingan",
+    "edit": "Ubah Fasilitas",
+    "summary": {
+      "boilers": "Jumlah Ketel",
+      "avgYield": "Rendemen Rata-rata",
+      "avgYieldSubtitle": "Persentase rendemen per batch",
+      "monthlyCapacity": "Kapasitas Bulanan",
+      "monthlyCapacitySubtitle": "Kapasitas produksi per bulan",
+      "leadTime": "Lead Time",
+      "days": "hari",
+      "hours": "jam"
+    },
+    "labels": {
+      "code": "Kode Fasilitas",
+      "partner": "Penyuling Pemilik",
+      "status": "Status",
+      "facilityArea": "Luas Fasilitas",
+      "method": "Metode Penyulingan",
+      "fuel": "Bahan Bakar",
+      "boilerMaterial": "Material Ketel",
+      "boilerCount": "Jumlah Ketel",
+      "boilerCapacity": "Kapasitas Ketel",
+      "avgDuration": "Durasi Penyulingan",
+      "operatingTemp": "Suhu Operasional",
+      "operatingPressure": "Tekanan Operasional",
+      "avgYield": "Rendemen Rata-rata",
+      "yearlyCapacity": "Kapasitas Tahunan",
+      "maxCapacity": "Kapasitas Maksimum",
+      "address": "Alamat",
+      "province": "Provinsi",
+      "city": "Kabupaten / Kota",
+      "district": "Kecamatan",
+      "subdistrict": "Kelurahan / Desa",
+      "coordinates": "Koordinat"
+    }
   },
   "validation": {
     "nameRequired": "Nama fasilitas penyulingan minimal {min} karakter.",

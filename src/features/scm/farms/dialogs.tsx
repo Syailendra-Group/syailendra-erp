@@ -13,6 +13,7 @@ import { useDeleteFarm } from '@/hooks/scm/use-farms'
 
 export function FarmDialogs() {
   const t = useTranslations('scm.farms')
+  const tCommon = useTranslations('common')
   const { open, setOpen, selectedFarm, setSelectedFarm } = useFarmContext()
   const deleteMutation = useDeleteFarm()
   const { data: commodityOptions = [] } = useCommodityOptions()
@@ -85,7 +86,7 @@ export function FarmDialogs() {
               label={t('table.columns.status')}
               value={
                 <StatusBadge variant={selectedFarm.active ? 'success' : 'neutral'}>
-                  {selectedFarm.active ? t('table.status.active') : t('table.status.inactive')}
+                  {selectedFarm.active ? tCommon('status.active') : tCommon('status.inactive')}
                 </StatusBadge>
               }
               border={false}

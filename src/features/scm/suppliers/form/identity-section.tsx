@@ -117,34 +117,6 @@ export function IdentitySection({ form, digitalCode, disabled = false, isEdit = 
         />
       </div>
 
-      <Controller
-        control={form.control}
-        name="supplierStatus"
-        render={({ field, fieldState }) => (
-          <FormFieldWrapper id="supplierStatus" label={t('form.fields.supplierStatus')} error={fieldState.error?.message}>
-            <SelectForm
-              id="supplierStatus"
-              name={field.name}
-              inputRef={field.ref}
-              onBlur={field.onBlur}
-              aria-invalid={Boolean(fieldState.error)}
-              aria-describedby={fieldState.error ? 'supplierStatus-error' : undefined}
-              value={field.value}
-              onValueChange={field.onChange}
-              disabled={disabled}
-              addNewAction={false}
-              placeholder={t('form.fields.supplierStatusPlaceholder')}
-              items={[
-                { value: 'active', label: t('form.statusOptions.active') },
-                { value: 'inactive', label: t('form.statusOptions.inactive') },
-                { value: 'pending', label: t('form.statusOptions.pending') },
-                { value: 'blacklisted', label: t('form.statusOptions.blacklisted') }
-              ]}
-            />
-          </FormFieldWrapper>
-        )}
-      />
-
       <SwitchField
         id="supplierTypeVerified"
         ariaLabel={t('form.fields.supplierTypeVerified')}

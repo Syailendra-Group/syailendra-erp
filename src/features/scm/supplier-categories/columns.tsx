@@ -18,6 +18,7 @@ import type { SupplierCategoryRecord } from '@/types/scm/supplier-category'
 
 export interface SupplierCategoryColumnsProps {
   t: (key: string, values?: Record<string, string | number>) => string
+  tCommon: (key: string) => string
   onView: (item: SupplierCategoryRecord) => void
   onEdit: (item: SupplierCategoryRecord) => void
   onDelete: (item: SupplierCategoryRecord) => void
@@ -38,7 +39,13 @@ const BADGE_COLORS = [
   'bg-purple-100 text-purple-700 dark:bg-purple-950 dark:text-purple-300'
 ]
 
-export function getSupplierCategoryColumns({ t, onView, onEdit, onDelete }: SupplierCategoryColumnsProps): ColumnDef<SupplierCategoryRecord>[] {
+export function getSupplierCategoryColumns({
+  t,
+  tCommon,
+  onView,
+  onEdit,
+  onDelete
+}: SupplierCategoryColumnsProps): ColumnDef<SupplierCategoryRecord>[] {
   return [
     {
       accessorKey: 'name',
@@ -122,7 +129,7 @@ export function getSupplierCategoryColumns({ t, onView, onEdit, onDelete }: Supp
         const active = row.original.active
         return (
           <StatusBadge variant={active ? 'success' : 'neutral'} size="sm">
-            {active ? t('table.status.active') : t('table.status.inactive')}
+            {active ? tCommon('status.active') : tCommon('status.inactive')}
           </StatusBadge>
         )
       },

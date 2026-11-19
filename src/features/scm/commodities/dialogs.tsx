@@ -15,6 +15,7 @@ import { CommodityForm } from './form'
 
 export function CommodityDialogs() {
   const t = useTranslations('scm.commodities')
+  const tCommon = useTranslations('common')
   const { open, setOpen, selectedCommodity, setSelectedCommodity } = useCommodityContext()
   const deleteMutation = useDeleteCommodity()
   const [isFormPending, setIsFormPending] = useState(false)
@@ -99,7 +100,7 @@ export function CommodityDialogs() {
               label={t('table.columns.status')}
               value={
                 <StatusBadge variant={selectedCommodity.active ? 'success' : 'neutral'}>
-                  {selectedCommodity.active ? t('table.status.active') : t('table.status.inactive')}
+                  {selectedCommodity.active ? tCommon('status.active') : tCommon('status.inactive')}
                 </StatusBadge>
               }
               border={false}

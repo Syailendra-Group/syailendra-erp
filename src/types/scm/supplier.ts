@@ -5,7 +5,6 @@
 
 export type SupplierCompanyType = 'company' | 'person'
 export type SupplierPaymentTerm = 'COD' | 'PAID_BEFORE_SHIPMENT'
-export type SupplierStatus = 'active' | 'inactive' | 'pending' | 'blacklisted'
 export type SupplierGrade = 'a' | 'b' | 'c' | 'd'
 
 export interface SupplierBankMetadata {
@@ -26,7 +25,6 @@ export interface SupplierRecord {
   supplierTypeName?: string
   supplierTypeCode?: string
   needsReview: boolean
-  supplierStatus: SupplierStatus
   supplierGrade?: SupplierGrade
   digitalCode?: string
   ownerName?: string
@@ -87,7 +85,6 @@ export interface SupplierFormValues {
   categoryIds: number[]
   supplierTypeId?: number | null
   supplierTypeVerified: boolean
-  supplierStatus: SupplierStatus
   ownerName?: string
   picName?: string
   picPosition?: string

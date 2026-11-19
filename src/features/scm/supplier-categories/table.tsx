@@ -24,6 +24,7 @@ import type { ReactElement } from 'react'
 export function SupplierCategoriesTable(): ReactElement {
   // Translations
   const t = useTranslations('scm.supplierCategories')
+  const tCommon = useTranslations('common')
 
   // Context and action handlers
   const { handleView, handleEdit, handleDelete } = useSupplierCategoryContext()
@@ -51,14 +52,8 @@ export function SupplierCategoriesTable(): ReactElement {
 
   // Column definitions
   const columns = useMemo(
-    () =>
-      getSupplierCategoryColumns({
-        t,
-        onView: handleView,
-        onEdit: handleEdit,
-        onDelete: handleDelete
-      }),
-    [t, handleView, handleEdit, handleDelete]
+    () => getSupplierCategoryColumns({ tCommon, t, onView: handleView, onEdit: handleEdit, onDelete: handleDelete }),
+    [t, tCommon, handleView, handleEdit, handleDelete]
   )
 
   // Table instance

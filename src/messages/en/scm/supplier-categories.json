@@ -20,10 +20,7 @@
       "status": "Status",
       "actions": "Actions"
     },
-    "status": {
-      "active": "Active",
-      "inactive": "Inactive"
-    },
+    "status": {},
     "rootType": "Top-Level Category",
     "emptyState": "No supplier categories registered yet.",
     "noResults": "No supplier categories found matching the search criteria.",

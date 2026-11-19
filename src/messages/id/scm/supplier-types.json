@@ -19,10 +19,7 @@
       "status": "Status",
       "actions": "Aksi"
     },
-    "status": {
-      "active": "Aktif",
-      "inactive": "Nonaktif"
-    },
+    "status": {},
     "emptyState": "Belum ada jenis supplier terdaftar.",
     "supplierCountFormat": "{count} Supplier"
   },

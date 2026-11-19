@@ -11,6 +11,7 @@ import { MOCK_QC_ITEMS } from '@/data/scm-demo-data'
 
 export default function SCMQCPage() {
   const t = useTranslations('scm.demo.qc')
+  const tCommon = useTranslations('common')
 
   return (
     <div className="space-y-6">
@@ -42,7 +43,7 @@ export default function SCMQCPage() {
                   <TableCell className="font-mono text-xs font-semibold text-emerald-600">{item.marker}</TableCell>
                   <TableCell className="text-center">
                     <Badge variant={item.result === 'passed' ? 'default' : 'secondary'} className="text-[10px]">
-                      {item.result === 'passed' ? t('status.passed') : t('status.quarantine')}
+                      {item.result === 'passed' ? tCommon('status.passed') : tCommon('status.quarantine')}
                     </Badge>
                   </TableCell>
                   <TableCell className="text-muted-foreground font-mono text-xs">{item.coa}</TableCell>

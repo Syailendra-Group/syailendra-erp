@@ -18,6 +18,7 @@ const FILTER_KEYS = ['plant_part', 'cultivation_status', 'status']
 
 export function CommoditiesTable(): ReactElement {
   const t = useTranslations('scm.commodities')
+  const tCommon = useTranslations('common')
 
   const { handleView, handleEdit, handleDelete } = useCommodityContext()
 
@@ -63,8 +64,8 @@ export function CommoditiesTable(): ReactElement {
   const totalCount = data?.total ?? 0
 
   const columns = useMemo(
-    () => getCommodityColumns({ t, onView: handleView, onEdit: handleEdit, onDelete: handleDelete }),
-    [t, handleView, handleEdit, handleDelete]
+    () => getCommodityColumns({ tCommon, t, onView: handleView, onEdit: handleEdit, onDelete: handleDelete }),
+    [t, tCommon, handleView, handleEdit, handleDelete]
   )
 
   const filters = useMemo(
@@ -83,12 +84,12 @@ export function CommoditiesTable(): ReactElement {
         columnId: 'status',
         title: t('table.columns.status'),
         options: [
-          { label: t('table.status.active'), value: 'active' },
-          { label: t('table.status.inactive'), value: 'archived' }
+          { label: tCommon('status.active'), value: 'active' },
+          { label: tCommon('status.inactive'), value: 'archived' }
         ]
       }
     ],
-    [t]
+    [t, tCommon]
   )
 
   const table = useReactTable({

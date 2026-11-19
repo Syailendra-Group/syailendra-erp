@@ -27,3 +27,6 @@ access_syailendra_supplier_audit_api,syailendra.supplier_audit.api,model_syailen
 access_syailendra_supplier_type_user,syailendra.supplier.type.user,model_syailendra_supplier_type,group_scm_user,1,0,0,0
 access_syailendra_supplier_type_manager,syailendra.supplier.type.manager,model_syailendra_supplier_type,group_scm_manager,1,1,1,0
 access_syailendra_supplier_type_api,syailendra.supplier.type.api,model_syailendra_supplier_type,group_scm_api,1,0,0,0
+access_syailendra_media_user,syailendra.media.user,model_syailendra_media,group_scm_user,1,1,1,0
+access_syailendra_media_manager,syailendra.media.manager,model_syailendra_media,group_scm_manager,1,1,1,1
+access_syailendra_media_api,syailendra.media.api,model_syailendra_media,group_scm_api,1,0,0,0

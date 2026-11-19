@@ -38,7 +38,15 @@
     "archived": "Diarsipkan",
     "title": "Status",
     "saving": "Menyimpan...",
-    "inactive": "Nonaktif"
+    "inactive": "Nonaktif",
+    "pending": "Menunggu",
+    "verified": "Terverifikasi",
+    "operational": "Operasional",
+    "maintenance": "Perawatan",
+    "quarantine": "Karantina",
+    "passed": "Lulus",
+    "received": "Diterima",
+    "ready": "Siap"
   },
   "table": {
     "asc": "Naik",

@@ -19,10 +19,7 @@
       "actions": "Aksi",
       "commodities": "Komoditas"
     },
-    "status": {
-      "active": "Aktif",
-      "inactive": "Nonaktif"
-    },
+    "status": {},
     "emptyState": "Belum ada kebun terdaftar."
   },
   "farmingSystems": {

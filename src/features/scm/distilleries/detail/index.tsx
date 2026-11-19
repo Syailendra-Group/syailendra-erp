@@ -25,6 +25,7 @@ export interface DistilleryDetailProps {
 
 export function DistilleryDetail({ distillery }: DistilleryDetailProps): ReactElement {
   const t = useTranslations('scm.distilleries')
+  const tCommon = useTranslations('common')
 
   const summaryItems: SummaryCardItem[] = [
     {
@@ -74,39 +75,41 @@ export function DistilleryDetail({ distillery }: DistilleryDetailProps): ReactEl
 
       <SummaryCardGrid items={summaryItems} />
 
-      <SectionCard title={t('sections.identity')} description={t('sections.identityDesc')} icon={Factory}>
-        <div className="grid grid-cols-1 gap-x-8 gap-y-0 md:grid-cols-2">
-          <DetailRow label={t('details.labels.code')} value={distillery.code} mono />
-          <DetailRow label={t('details.labels.partner')} value={distillery.partnerName || '-'} />
-          <DetailRow
-            label={t('details.labels.status')}
-            value={
-              <DataBadge variant={distillery.active ? 'success' : 'neutral'}>
-                {distillery.active ? t('status.operational') : t('status.maintenance')}
-              </DataBadge>
-            }
-          />
-          <DetailRow
-            label={t('details.labels.facilityArea')}
-            value={distillery.facilityAreaM2 != null ? `${distillery.facilityAreaM2} m²` : '-'}
-            mono
-          />
-        </div>
-      </SectionCard>
+      <div className="grid grid-cols-1 items-start gap-4 xl:grid-cols-2">
+        <SectionCard title={t('sections.identity')} description={t('sections.identityDesc')} icon={Factory}>
+          <div className="grid grid-cols-1 gap-x-8 gap-y-0 md:grid-cols-2">
+            <DetailRow label={t('details.labels.code')} value={distillery.code} mono />
+            <DetailRow label={t('details.labels.partner')} value={distillery.partnerName || '-'} />
+            <DetailRow
+              label={t('details.labels.status')}
+              value={
+                <DataBadge variant={distillery.active ? 'success' : 'neutral'}>
+                  {distillery.active ? tCommon('status.operational') : tCommon('status.maintenance')}
+                </DataBadge>
+              }
+            />
+            <DetailRow
+              label={t('details.labels.facilityArea')}
+              value={distillery.facilityAreaM2 != null ? `${distillery.facilityAreaM2} m²` : '-'}
+              mono
+            />
+          </div>
+        </SectionCard>
 
-      <SectionCard title={t('sections.spec')} description={t('sections.specDesc')} icon={Flame}>
-        <div className="grid grid-cols-1 gap-x-8 gap-y-0 md:grid-cols-2">
-          <DetailRow label={t('details.labels.method')} value={t(`methods.${distillery.distillationMethod}`)} />
-          <DetailRow label={t('details.labels.fuel')} value={t(`fuels.${distillery.fuelType}`)} />
-          <DetailRow label={t('details.labels.boilerMaterial')} value={t(`materials.${distillery.boilerMaterial}`)} />
-          <DetailRow label={t('details.labels.boilerCount')} value={String(distillery.boilerCount ?? '-')} mono />
-          <DetailRow
-            label={t('details.labels.boilerCapacity')}
-            value={distillery.boilerCapacityKg != null ? `${distillery.boilerCapacityKg} kg` : '-'}
-            mono
-          />
-        </div>
-      </SectionCard>
+        <SectionCard title={t('sections.spec')} description={t('sections.specDesc')} icon={Flame}>
+          <div className="grid grid-cols-1 gap-x-8 gap-y-0 md:grid-cols-2">
+            <DetailRow label={t('details.labels.method')} value={t(`methods.${distillery.distillationMethod}`)} />
+            <DetailRow label={t('details.labels.fuel')} value={t(`fuels.${distillery.fuelType}`)} />
+            <DetailRow label={t('details.labels.boilerMaterial')} value={t(`materials.${distillery.boilerMaterial}`)} />
+            <DetailRow label={t('details.labels.boilerCount')} value={String(distillery.boilerCount ?? '-')} mono />
+            <DetailRow
+              label={t('details.labels.boilerCapacity')}
+              value={distillery.boilerCapacityKg != null ? `${distillery.boilerCapacityKg} kg` : '-'}
+              mono
+            />
+          </div>
+        </SectionCard>
+      </div>
 
       <SectionCard title={t('sections.performance')} description={t('sections.performanceDesc')} icon={Star}>
         <div className="grid grid-cols-1 gap-x-8 gap-y-0 md:grid-cols-2">

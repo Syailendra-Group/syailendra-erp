@@ -11,12 +11,13 @@ import type { FarmRecord } from '@/types/scm/farm'
 
 export interface FarmColumnsProps {
   t: (key: string, values?: Record<string, string | number>) => string
+  tCommon: (key: string) => string
   commodityNames: Map<number, string>
   onView: (item: FarmRecord) => void
   onDelete: (item: FarmRecord) => void
 }
 
-export function getFarmColumns({ t, commodityNames, onView, onDelete }: FarmColumnsProps): ColumnDef<FarmRecord>[] {
+export function getFarmColumns({ t, tCommon, commodityNames, onView, onDelete }: FarmColumnsProps): ColumnDef<FarmRecord>[] {
   return [
     {
       accessorKey: 'code',
@@ -103,7 +104,7 @@ export function getFarmColumns({ t, commodityNames, onView, onDelete }: FarmColu
       header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.columns.status')} />,
       cell: ({ row }) => (
         <StatusBadge variant={row.original.active ? 'success' : 'neutral'}>
-          {row.original.active ? t('table.status.active') : t('table.status.inactive')}
+          {row.original.active ? tCommon('status.active') : tCommon('status.inactive')}
         </StatusBadge>
       ),
       enableSorting: false

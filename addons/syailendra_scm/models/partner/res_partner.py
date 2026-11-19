@@ -1,13 +1,6 @@
 # -*- coding: utf-8 -*-
 from odoo import api, fields, models
 
-SUPPLIER_STATUSES = [
-    ('active', 'Aktif'),
-    ('inactive', 'Nonaktif'),
-    ('pending', 'Pending'),
-    ('blacklisted', 'Blacklist'),
-]
-
 SUPPLIER_GRADES = [
     ('a', 'Grade A'),
     ('b', 'Grade B'),
@@ -32,12 +25,6 @@ class ResPartner(models.Model):
         string='Jenis Supplier Perlu Review',
         default=False,
         help='Ditandai saat klasifikasi jenis supplier belum diverifikasi manusia.',
-    )
-    supplier_status = fields.Selection(
-        SUPPLIER_STATUSES,
-        string='Status Supplier',
-        default='pending',
-        index=True,
     )
     supplier_grade = fields.Selection(
         SUPPLIER_GRADES, string='Grade Kinerja', readonly=True

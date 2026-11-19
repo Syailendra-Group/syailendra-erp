@@ -137,7 +137,6 @@ export class SupplierService {
       supplier_rank: 1,
       active: values.active,
       category_id: [[6, 0, values.categoryIds]],
-      supplier_status: values.supplierStatus || 'pending',
       supplier_type_needs_review: values.supplierTypeId ? !values.supplierTypeVerified : true,
       comment: buildSupplierComment(metadata, '')
     }
@@ -208,7 +207,6 @@ export class SupplierService {
       vals.supplier_type_id = values.supplierTypeId || false
       vals.supplier_type_needs_review = values.supplierTypeId ? !values.supplierTypeVerified : true
     }
-    if (values.supplierStatus !== undefined) vals.supplier_status = values.supplierStatus
     if (values.phone !== undefined) vals.phone = values.phone.trim()
     if (values.mobile !== undefined) vals.mobile = values.mobile.trim()
     if (values.email !== undefined) vals.email = values.email.trim()

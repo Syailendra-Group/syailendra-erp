@@ -9,6 +9,7 @@ import { Building2, Edit2, FileText, Star, Users } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 
 import { LinkButton } from '@/components/button/link-button'
+import { AddressCard } from '@/components/card/address-card'
 import { SummaryCardGrid } from '@/components/card/summary-card'
 import { DataBadge } from '@/components/shared/data-badge'
 import { PageHeader } from '@/components/shared/page-header'
@@ -26,6 +27,7 @@ export interface SupplierDetailProps {
 
 export function SupplierDetail({ supplier }: SupplierDetailProps): ReactElement {
   const t = useTranslations('scm.suppliers')
+  const tCommon = useTranslations('common')
 
   const summaryItems: SummaryCardItem[] = [
     {
@@ -36,8 +38,8 @@ export function SupplierDetail({ supplier }: SupplierDetailProps): ReactElement 
       color: 'text-primary'
     },
     {
-      title: t('detail.summary.supplierStatus'),
-      value: t(`detail.statuses.${supplier.supplierStatus}`),
+      title: t('detail.summary.status'),
+      value: supplier.active ? tCommon('status.active') : tCommon('status.inactive'),
       subtitle: supplier.active ? t('detail.values.archivableActive') : t('detail.values.archived'),
       icon: Users,
       color: 'text-blue-600'
@@ -75,8 +77,22 @@ export function SupplierDetail({ supplier }: SupplierDetailProps): ReactElement 
 
       <SummaryCardGrid items={summaryItems} />
 
-      <IdentityCard supplier={supplier} />
-      <ContactCard supplier={supplier} />
+      <div className="grid grid-cols-1 items-start gap-4 lg:grid-cols-2">
+        <IdentityCard supplier={supplier} />
+        <ContactCard supplier={supplier} />
+      </div>
+
+      <AddressCard
+        countryName={supplier.countryName}
+        stateName={supplier.stateName}
+        cityName={supplier.cityName}
+        districtName={supplier.districtName}
+        zipCode={supplier.zip}
+        addressDetail={supplier.addressDetail}
+        benchmark={supplier.addressBenchmark}
+        title={t('detail.sections.address')}
+        description={t('detail.sections.addressDesc')}
+      />
     </div>
   )
 }

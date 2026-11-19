@@ -19,10 +19,7 @@
       "actions": "Actions",
       "commodities": "Commodities"
     },
-    "status": {
-      "active": "Active",
-      "inactive": "Inactive"
-    },
+    "status": {},
     "emptyState": "No farms registered yet."
   },
   "farmingSystems": {

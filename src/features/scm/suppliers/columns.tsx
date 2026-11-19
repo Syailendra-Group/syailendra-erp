@@ -1,7 +1,7 @@
 'use client'
 
 import { ColumnDef } from '@tanstack/react-table'
-import { Building2, Phone, User } from 'lucide-react'
+import { Building2, Mail, Phone, User } from 'lucide-react'
 
 import { ActionButton } from '@/components/button/action-button'
 import { DataTableColumnHeader } from '@/components/data-table/column-header'
@@ -9,31 +9,17 @@ import { StatusBadge } from '@/components/shared/data-badge'
 import { IconText, LongText, PrimaryText } from '@/components/text'
 import { Badge } from '@/components/ui/badge'
 
-import type { SupplierRecord, SupplierStatus } from '@/types/scm/supplier'
+import type { SupplierRecord } from '@/types/scm/supplier'
 
 export interface SupplierColumnsProps {
   t: (key: string, values?: Record<string, string | number>) => string
+  tCommon: (key: string) => string
   onView: (item: SupplierRecord) => void
   onEdit: (item: SupplierRecord) => void
   onToggleStatus: (item: SupplierRecord) => void
 }
 
-export function getSupplierColumns({ t, onView, onEdit, onToggleStatus }: SupplierColumnsProps): ColumnDef<SupplierRecord>[] {
-  // Explicit maps keep translation keys statically resolvable
-  const statusVariants: Record<SupplierStatus, 'success' | 'warning' | 'info' | 'destructive' | 'neutral'> = {
-    active: 'success',
-    inactive: 'neutral',
-    pending: 'warning',
-    blacklisted: 'destructive'
-  }
-
-  const statusLabels: Record<SupplierStatus, string> = {
-    active: t('form.statusOptions.active'),
-    inactive: t('form.statusOptions.inactive'),
-    pending: t('form.statusOptions.pending'),
-    blacklisted: t('form.statusOptions.blacklisted')
-  }
-
+export function getSupplierColumns({ t, tCommon, onView, onEdit, onToggleStatus }: SupplierColumnsProps): ColumnDef<SupplierRecord>[] {
   return [
     {
       accessorKey: 'ref',
@@ -124,28 +110,25 @@ export function getSupplierColumns({ t, onView, onEdit, onToggleStatus }: Suppli
       }
     },
     {
-      id: 'supplierStatus',
-      accessorKey: 'supplierStatus',
-      header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.columns.supplierStatus')} />,
-      cell: ({ row }) => {
-        const status = row.original.supplierStatus
-        return (
-          <StatusBadge variant={statusVariants[status]} size="sm">
-            {statusLabels[status]}
-          </StatusBadge>
-        )
-      }
-    },
-    {
       accessorKey: 'mobile',
       header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.columns.contact')} />,
       cell: ({ row }) => {
         const phone = row.original.mobile || row.original.phone
-        if (!phone) return <span className="text-muted-foreground text-xs">-</span>
+        const email = row.original.email
+        if (!phone && !email) return <span className="text-muted-foreground text-xs">-</span>
         return (
-          <IconText icon={Phone} mono className="text-muted-foreground">
-            <LongText>{phone}</LongText>
-          </IconText>
+          <div className="flex max-w-55 flex-col gap-0.5">
+            {phone && (
+              <IconText icon={Phone} mono className="text-muted-foreground">
+                <LongText>{phone}</LongText>
+              </IconText>
+            )}
+            {email && (
+              <IconText icon={Mail} className="text-muted-foreground text-[11px]">
+                <LongText>{email}</LongText>
+              </IconText>
+            )}
+          </div>
         )
       }
     },
@@ -181,7 +164,7 @@ export function getSupplierColumns({ t, onView, onEdit, onToggleStatus }: Suppli
         const active = row.original.active
         return (
           <StatusBadge variant={active ? 'success' : 'neutral'} size="sm">
-            {active ? t('table.status.active') : t('table.status.archived')}
+            {active ? tCommon('status.active') : tCommon('status.archived')}
           </StatusBadge>
         )
       },

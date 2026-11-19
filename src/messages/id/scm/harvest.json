@@ -24,8 +24,6 @@
       "actions": "Aksi"
     },
     "status": {
-      "received": "Diterima di Gudang",
-      "ready": "Siap Disuling",
       "distilled": "Selesai Disuling",
       "cancelled": "Dibatalkan"
     },

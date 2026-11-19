@@ -134,10 +134,6 @@
     "duplicateCode": "Kode fasilitas penyulingan sudah digunakan",
     "error": "Terjadi kesalahan saat memproses fasilitas penyulingan"
   },
-  "status": {
-    "operational": "Siap Beroperasi",
-    "maintenance": "Pemeliharaan / Arsip"
-  },
   "confirm": {
     "archiveTitle": "Arsipkan Fasilitas Penyulingan",
     "restoreTitle": "Aktifkan Fasilitas Penyulingan",

@@ -75,7 +75,7 @@ export function getColumns({ t, tCommon, onView, onEdit, onToggleStatus, onDelet
         const active = row.original.active
         return (
           <StatusBadge variant={active ? 'success' : 'neutral'} size="sm">
-            {active ? t('table.status.active') : t('table.status.archived')}
+            {active ? tCommon('status.active') : tCommon('status.archived')}
           </StatusBadge>
         )
       },

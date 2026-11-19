@@ -19,10 +19,7 @@
       "status": "Status",
       "actions": "Actions"
     },
-    "status": {
-      "active": "Active",
-      "inactive": "Inactive"
-    },
+    "status": {},
     "emptyState": "No commodities registered yet."
   },
   "plantParts": {

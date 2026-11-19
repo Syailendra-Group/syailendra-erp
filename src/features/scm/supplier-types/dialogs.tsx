@@ -22,6 +22,7 @@ import type { SupplierTypeRecord } from '@/types/scm/supplier-type'
 
 export function SupplierTypeDialogs() {
   const t = useTranslations('scm.supplierTypes')
+  const tCommon = useTranslations('common')
   const { open, setOpen, selectedType, setSelectedType } = useSupplierTypeContext()
   const setStatusMutation = useSetSupplierTypeActive()
   const [isFormPending, setIsFormPending] = useState(false)
@@ -104,7 +105,7 @@ export function SupplierTypeDialogs() {
                 label={t('table.columns.status')}
                 value={
                   <Badge variant={selectedType.active ? 'default' : 'outline'} className="text-[10px]">
-                    {selectedType.active ? t('table.status.active') : t('table.status.inactive')}
+                    {selectedType.active ? tCommon('status.active') : tCommon('status.inactive')}
                   </Badge>
                 }
                 border={false}

@@ -10,6 +10,7 @@ import {
   Clock,
   Coins,
   Database,
+  Droplets,
   Factory,
   FileCheck2,
   FileSpreadsheet,
@@ -112,8 +113,7 @@ export const sidebarData: SidebarData = {
             items: [
               { titleKey: 'items.supplierTypes', url: '/scm/supplier-types' },
               { titleKey: 'items.supplierCategories', url: '/scm/supplier-categories' },
-              { titleKey: 'items.commodities', url: '/scm/commodities' },
-              { titleKey: 'items.products', url: '/scm/products' }
+              { titleKey: 'items.commodities', url: '/scm/commodities' }
             ]
           }
         ]
@@ -123,7 +123,8 @@ export const sidebarData: SidebarData = {
         items: [
           { titleKey: 'items.suppliers', url: '/scm/suppliers', icon: FileSpreadsheet },
           { titleKey: 'items.farms', url: '/scm/farms', icon: MapPin },
-          { titleKey: 'items.distilleries', url: '/scm/distilleries', icon: Factory }
+          { titleKey: 'items.distilleries', url: '/scm/distilleries', icon: Factory },
+          { titleKey: 'items.products', url: '/scm/products', icon: Droplets }
         ]
       },
       {

@@ -21,6 +21,7 @@ import type { ReactElement } from 'react'
 export function SupplierTypesTable(): ReactElement {
   // Translations
   const t = useTranslations('scm.supplierTypes')
+  const tCommon = useTranslations('common')
 
   // Context and action handlers
   const { handleView, handleEdit, handleToggleStatus } = useSupplierTypeContext()
@@ -48,14 +49,8 @@ export function SupplierTypesTable(): ReactElement {
 
   // Column definitions
   const columns = useMemo(
-    () =>
-      getSupplierTypeColumns({
-        t,
-        onView: handleView,
-        onEdit: handleEdit,
-        onToggleStatus: handleToggleStatus
-      }),
-    [t, handleView, handleEdit, handleToggleStatus]
+    () => getSupplierTypeColumns({ tCommon, t, onView: handleView, onEdit: handleEdit, onToggleStatus: handleToggleStatus }),
+    [t, tCommon, handleView, handleEdit, handleToggleStatus]
   )
 
   // Table instance

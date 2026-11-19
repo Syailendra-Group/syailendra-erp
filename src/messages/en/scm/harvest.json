@@ -24,8 +24,6 @@
       "actions": "Actions"
     },
     "status": {
-      "received": "Received at Warehouse",
-      "ready": "Ready for Distillation",
       "distilled": "Distillation Complete",
       "cancelled": "Cancelled"
     },

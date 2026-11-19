@@ -29,7 +29,6 @@ export function getSupplierFormSchema(t?: SchemaTranslator) {
     categoryIds: z.array(z.number()).min(1, { message: msg('validation.categoryRequired', 'At least one supplier category must be selected') }),
     supplierTypeId: z.number().nullable().optional(),
     supplierTypeVerified: z.boolean(),
-    supplierStatus: z.enum(['active', 'inactive', 'pending', 'blacklisted']),
     ownerName: z
       .string()
       .max(64, { message: maxLen(64) })

@@ -18,6 +18,7 @@ const FILTER_KEYS = ['farming_system', 'status']
 
 export function FarmsTable(): ReactElement {
   const t = useTranslations('scm.farms')
+  const tCommon = useTranslations('common')
 
   const { handleView, handleDelete } = useFarmContext()
 
@@ -69,8 +70,8 @@ export function FarmsTable(): ReactElement {
   const totalCount = data?.page.total ?? 0
 
   const columns = useMemo(
-    () => getFarmColumns({ t, commodityNames, onView: handleView, onDelete: handleDelete }),
-    [t, commodityNames, handleView, handleDelete]
+    () => getFarmColumns({ tCommon, t, commodityNames, onView: handleView, onDelete: handleDelete }),
+    [t, tCommon, commodityNames, handleView, handleDelete]
   )
 
   const filters = useMemo(
@@ -84,12 +85,12 @@ export function FarmsTable(): ReactElement {
         columnId: 'status',
         title: t('table.columns.status'),
         options: [
-          { label: t('table.status.active'), value: 'active' },
-          { label: t('table.status.inactive'), value: 'archived' }
+          { label: tCommon('status.active'), value: 'active' },
+          { label: tCommon('status.inactive'), value: 'archived' }
         ]
       }
     ],
-    [t]
+    [t, tCommon]
   )
 
   const table = useReactTable({

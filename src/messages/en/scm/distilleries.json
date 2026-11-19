@@ -134,10 +134,6 @@
     "duplicateCode": "Facility code is already in use",
     "error": "An error occurred while processing the distillation facility"
   },
-  "status": {
-    "operational": "Ready for Operation",
-    "maintenance": "Maintenance / Archived"
-  },
   "confirm": {
     "archiveTitle": "Archive Distillation Facility",
     "restoreTitle": "Activate Distillation Facility",

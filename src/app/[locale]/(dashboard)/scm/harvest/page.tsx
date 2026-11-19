@@ -13,6 +13,7 @@ import { MOCK_HARVEST_ITEMS } from '@/data/scm-demo-data'
 
 export default function SCMHarvestPage() {
   const t = useTranslations('scm.demo.harvest')
+  const tCommon = useTranslations('common')
   const router = useRouter()
 
   const primaryActions = (
@@ -55,7 +56,7 @@ export default function SCMHarvestPage() {
                   <TableCell className="text-muted-foreground font-mono text-xs">{item.lot}</TableCell>
                   <TableCell className="text-center">
                     <Badge variant={item.status === 'ready' ? 'default' : 'outline'} className="text-[10px]">
-                      {item.status === 'ready' ? t('table.status.ready') : t('table.status.received')}
+                      {item.status === 'ready' ? tCommon('status.ready') : tCommon('status.received')}
                     </Badge>
                   </TableCell>
                 </TableRow>

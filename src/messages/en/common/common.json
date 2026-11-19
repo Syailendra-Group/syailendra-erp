@@ -38,7 +38,15 @@
     "archived": "Archived",
     "title": "Status",
     "saving": "Saving...",
-    "inactive": "Inactive"
+    "inactive": "Inactive",
+    "pending": "Pending",
+    "verified": "Verified",
+    "operational": "Operational",
+    "maintenance": "Under Maintenance",
+    "quarantine": "Quarantine",
+    "passed": "Passed",
+    "received": "Received",
+    "ready": "Ready"
   },
   "table": {
     "asc": "Asc",

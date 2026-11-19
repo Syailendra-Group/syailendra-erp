@@ -20,6 +20,7 @@ import type { SupplierSectionProps } from '@/types/scm/supplier-form'
 
 export function FinanceSection({ form, disabled = false }: SupplierSectionProps) {
   const t = useTranslations('scm.suppliers')
+  const tCommon = useTranslations('common')
   const active = useWatch({ control: form.control, name: 'active' })
 
   return (
@@ -94,7 +95,7 @@ export function FinanceSection({ form, disabled = false }: SupplierSectionProps)
         ariaLabel={t('form.fields.active')}
         variant="card"
         label={t('form.fields.active')}
-        hint={active ? t('table.status.active') : t('table.status.archived')}
+        hint={active ? tCommon('status.active') : tCommon('status.archived')}
         checked={active}
         disabled={disabled}
         onCheckedChange={(checked) => form.setValue('active', checked, { shouldDirty: true })}

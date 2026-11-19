@@ -15,9 +15,12 @@ import { getSupplierColumns } from './columns'
 
 import type { ReactElement } from 'react'
 
+const FILTER_KEYS = ['categoryIds', 'supplierTypeId', 'needsReview']
+
 export function SuppliersTable(): ReactElement {
   // Translations
   const t = useTranslations('scm.suppliers')
+  const tCommon = useTranslations('common')
 
   // Context and action handlers
   const { handleView, handleEdit, handleToggleStatus } = useSupplierContext()
@@ -34,12 +37,18 @@ export function SuppliersTable(): ReactElement {
     onSortingChange,
     onGlobalFilterChange,
     resetFilters,
-    isUpdating
-  } = useDataTableUrlState({ filterKeys: ['categoryIds', 'supplierTypeId', 'needsReview'] })
+    isUpdating,
+    getArrayFilter,
+    createColumnFiltersHandler
+  } = useDataTableUrlState({ filterKeys: FILTER_KEYS })
 
   // Data fetching and server pagination
   const { data: categoryOptions = [] } = useSupplierCategoryOptions()
   const { data: supplierTypeOptions = [] } = useSupplierTypeOptions()
+
+  const categoryFilter = getArrayFilter('categoryIds')
+  const supplierTypeFilter = getArrayFilter('supplierTypeId')
+  const needsReviewFilter = getArrayFilter('needsReview')
 
   const categoryFilterValues = useMemo(() => {
     const filter = columnFilters.find((f) => f.id === 'categoryIds')
@@ -74,14 +83,8 @@ export function SuppliersTable(): ReactElement {
 
   // Column definitions
   const columns = useMemo(
-    () =>
-      getSupplierColumns({
-        t,
-        onView: handleView,
-        onEdit: handleEdit,
-        onToggleStatus: handleToggleStatus
-      }),
-    [t, handleView, handleEdit, handleToggleStatus]
+    () => getSupplierColumns({ tCommon, t, onView: handleView, onEdit: handleEdit, onToggleStatus: handleToggleStatus }),
+    [t, tCommon, handleView, handleEdit, handleToggleStatus]
   )
 
   // Filter options
@@ -93,7 +96,11 @@ export function SuppliersTable(): ReactElement {
         options: categoryOptions.map((opt) => ({
           label: opt.displayName,
           value: String(opt.id)
-        }))
+        })),
+        selectedValues: categoryFilter,
+        onFilterChange: (values: string[] | undefined) => {
+          createColumnFiltersHandler(FILTER_KEYS)([{ id: 'categoryIds', value: values }])
+        }
       },
       {
         columnId: 'supplierTypeId',
@@ -101,7 +108,11 @@ export function SuppliersTable(): ReactElement {
         options: supplierTypeOptions.map((opt) => ({
           label: `${opt.code} - ${opt.name}`,
           value: String(opt.id)
-        }))
+        })),
+        selectedValues: supplierTypeFilter,
+        onFilterChange: (values: string[] | undefined) => {
+          createColumnFiltersHandler(FILTER_KEYS)([{ id: 'supplierTypeId', value: values }])
+        }
       },
       {
         columnId: 'needsReview',
@@ -109,10 +120,14 @@ export function SuppliersTable(): ReactElement {
         options: [
           { label: t('table.filters.needsReviewOnly'), value: 'review' },
           { label: t('table.filters.verifiedOnly'), value: 'verified' }
-        ]
+        ],
+        selectedValues: needsReviewFilter,
+        onFilterChange: (values: string[] | undefined) => {
+          createColumnFiltersHandler(FILTER_KEYS)([{ id: 'needsReview', value: values }])
+        }
       }
     ],
-    [t, categoryOptions, supplierTypeOptions]
+    [t, categoryOptions, supplierTypeOptions, categoryFilter, supplierTypeFilter, needsReviewFilter, createColumnFiltersHandler]
   )
 
   // Table instance

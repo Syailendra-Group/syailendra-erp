@@ -19,10 +19,7 @@
       "status": "Status",
       "actions": "Actions"
     },
-    "status": {
-      "active": "Active",
-      "inactive": "Inactive"
-    },
+    "status": {},
     "emptyState": "No supplier types registered yet.",
     "supplierCountFormat": "{count} Suppliers"
   },

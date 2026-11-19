@@ -18,12 +18,13 @@ import type { SupplierTypeRecord } from '@/types/scm/supplier-type'
 
 export interface SupplierTypeColumnsProps {
   t: (key: string, values?: Record<string, string | number>) => string
+  tCommon: (key: string) => string
   onView: (item: SupplierTypeRecord) => void
   onEdit: (item: SupplierTypeRecord) => void
   onToggleStatus: (item: SupplierTypeRecord) => void
 }
 
-export function getSupplierTypeColumns({ t, onView, onEdit, onToggleStatus }: SupplierTypeColumnsProps): ColumnDef<SupplierTypeRecord>[] {
+export function getSupplierTypeColumns({ t, tCommon, onView, onEdit, onToggleStatus }: SupplierTypeColumnsProps): ColumnDef<SupplierTypeRecord>[] {
   return [
     {
       accessorKey: 'code',
@@ -88,7 +89,7 @@ export function getSupplierTypeColumns({ t, onView, onEdit, onToggleStatus }: Su
         const active = row.original.active
         return (
           <StatusBadge variant={active ? 'success' : 'neutral'} size="sm">
-            {active ? t('table.status.active') : t('table.status.inactive')}
+            {active ? tCommon('status.active') : tCommon('status.inactive')}
           </StatusBadge>
         )
       },

@@ -23,14 +23,9 @@
       "status": "Status",
       "actions": "Aksi",
       "supplierType": "Jenis Supplier",
-      "needsReview": "Perlu Review",
-      "supplierStatus": "Status Supplier"
+      "needsReview": "Perlu Review"
     },
-    "status": {
-      "active": "Aktif",
-      "inactive": "Nonaktif",
-      "archived": "Diarsipkan"
-    },
+    "status": {},
     "emptyState": "Belum ada pemasok terdaftar.",
     "noResults": "Tidak ditemukan pemasok yang cocok dengan kriteria pencarian.",
     "filters": {
@@ -136,8 +131,6 @@
       "nibPlaceholder": "Nomor Induk Berusaha",
       "businessLicense": "Izin Usaha",
       "businessLicensePlaceholder": "Contoh: SIUP / IUI",
-      "supplierStatus": "Status Supplier",
-      "supplierStatusPlaceholder": "Pilih status supplier",
       "digitalCode": "Kode Digital Supplier",
       "supplierGrade": "Grade Kinerja",
       "farmCount": "Jumlah Kebun Terdaftar",
@@ -159,12 +152,6 @@
     },
     "createDescription": "Daftarkan profil mitra pemasok bahan baku, kemasan, atau jasa ke sistem.",
     "editDescription": "Perbarui profil legalitas, kategori, kontak, atau rekening bank pemasok.",
-    "statusOptions": {
-      "active": "Aktif",
-      "inactive": "Nonaktif",
-      "pending": "Menunggu Verifikasi",
-      "blacklisted": "Daftar Hitam"
-    },
     "grades": {
       "a": "Grade A",
       "b": "Grade B",
@@ -226,15 +213,9 @@
     "description": "Profil lengkap pemasok, klasifikasi, legalitas, kontak, dan alamat",
     "summary": {
       "supplierType": "Jenis Supplier",
-      "supplierStatus": "Status Supplier",
       "supplierGrade": "Grade Supplier",
-      "joinYear": "Tahun Bergabung"
-    },
-    "statuses": {
-      "active": "Aktif",
-      "inactive": "Nonaktif",
-      "pending": "Menunggu Persetujuan",
-      "blacklisted": "Blacklist"
+      "joinYear": "Tahun Bergabung",
+      "status": "Status"
     },
     "grades": {
       "a": "Grade A (Sangat Baik)",
@@ -267,15 +248,14 @@
       "contactDesc": "Saluran komunikasi dan identitas pajak pemasok.",
       "finance": "Keuangan & Rekening Bank",
       "financeDesc": "Termin pembayaran dan rekening bank pemasok.",
-      "address": "Alamat & Lokasi",
-      "addressDesc": "Alamat administratif lengkap lima tingkat wilayah."
+      "address": "Alamat",
+      "addressDesc": "Alamat terdaftar pemasok"
     },
     "labels": {
       "code": "Kode Pemasok",
       "digitalCode": "Kode Digital (QR)",
       "supplierType": "Jenis Supplier",
       "needsReview": "Perlu Review",
-      "supplierStatus": "Status",
       "categories": "Kategori Pemasok",
       "businessForm": "Bentuk Usaha",
       "ownerName": "Nama Pemilik",
@@ -294,7 +274,8 @@
       "legacyCode": "Kode Lama (Accurate)",
       "bankName": "Nama Bank",
       "accountNumber": "Nomor Rekening",
-      "accountHolder": "Nama Pemilik Rekening"
+      "accountHolder": "Nama Pemilik Rekening",
+      "status": "Status"
     }
   }
 }

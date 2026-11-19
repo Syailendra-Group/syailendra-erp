@@ -12,7 +12,6 @@ export const fieldSections = {
   categoryIds: 'identity',
   supplierTypeId: 'identity',
   supplierTypeVerified: 'identity',
-  supplierStatus: 'identity',
   phone: 'contact',
   mobile: 'contact',
   email: 'contact',

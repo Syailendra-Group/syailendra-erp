@@ -20,10 +20,7 @@
       "status": "Status",
       "actions": "Aksi"
     },
-    "status": {
-      "active": "Aktif",
-      "inactive": "Nonaktif"
-    },
+    "status": {},
     "rootType": "Kategori Tingkat Teratas",
     "emptyState": "Belum ada kategori pemasok terdaftar.",
     "noResults": "Tidak ditemukan kategori pemasok yang cocok dengan kriteria pencarian.",

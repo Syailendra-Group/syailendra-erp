@@ -23,14 +23,9 @@
       "status": "Status",
       "actions": "Actions",
       "supplierType": "Supplier Type",
-      "needsReview": "Needs Review",
-      "supplierStatus": "Supplier Status"
+      "needsReview": "Needs Review"
     },
-    "status": {
-      "active": "Active",
-      "inactive": "Inactive",
-      "archived": "Archived"
-    },
+    "status": {},
     "emptyState": "No suppliers registered yet.",
     "noResults": "No suppliers found matching the search criteria.",
     "filters": {
@@ -136,8 +131,6 @@
       "nibPlaceholder": "Business identification number",
       "businessLicense": "Business License",
       "businessLicensePlaceholder": "Example: SIUP / IUI",
-      "supplierStatus": "Supplier Status",
-      "supplierStatusPlaceholder": "Select a supplier status",
       "digitalCode": "Supplier Digital Code",
       "supplierGrade": "Performance Grade",
       "farmCount": "Registered Plantations",
@@ -159,12 +152,6 @@
     },
     "createDescription": "Register raw material, packaging, or service vendor profiles into the system.",
     "editDescription": "Update legalities, categories, contact info, or banking details of the vendor.",
-    "statusOptions": {
-      "active": "Active",
-      "inactive": "Inactive",
-      "pending": "Pending Verification",
-      "blacklisted": "Blacklisted"
-    },
     "grades": {
       "a": "Grade A",
       "b": "Grade B",
@@ -226,15 +213,9 @@
     "description": "Complete supplier profile, classification, legality, contact, and address",
     "summary": {
       "supplierType": "Supplier Type",
-      "supplierStatus": "Supplier Status",
       "supplierGrade": "Supplier Grade",
-      "joinYear": "Join Year"
-    },
-    "statuses": {
-      "active": "Active",
-      "inactive": "Inactive",
-      "pending": "Pending Review",
-      "blacklisted": "Blacklisted"
+      "joinYear": "Join Year",
+      "status": "Status"
     },
     "grades": {
       "a": "Grade A (Excellent)",
@@ -267,15 +248,14 @@
       "contactDesc": "Communication channels and tax identity of the supplier.",
       "finance": "Finance & Bank Account",
       "financeDesc": "Payment terms and bank account details of the supplier.",
-      "address": "Address & Location",
-      "addressDesc": "Complete five-level administrative address."
+      "address": "Address",
+      "addressDesc": "Registered supplier address"
     },
     "labels": {
       "code": "Supplier Code",
       "digitalCode": "Digital Code (QR)",
       "supplierType": "Supplier Type",
       "needsReview": "Needs Review",
-      "supplierStatus": "Status",
       "categories": "Supplier Categories",
       "businessForm": "Business Form",
       "ownerName": "Owner Name",
@@ -294,7 +274,8 @@
       "legacyCode": "Legacy Code (Accurate)",
       "bankName": "Bank Name",
       "accountNumber": "Account Number",
-      "accountHolder": "Account Holder"
+      "accountHolder": "Account Holder",
+      "status": "Status"
     }
   }
 }

@@ -84,10 +84,10 @@ export function getColumns({ t, tCommon, onView, onEdit, onDelete }: GetColumnsO
     },
     {
       accessorKey: 'active',
-      header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.status')} />,
+      header: ({ column }) => <DataTableColumnHeader column={column} title={tCommon('status.title')} />,
       cell: ({ row }) => (
         <StatusBadge variant={row.original.active ? 'success' : 'neutral'} size="sm">
-          {row.original.active ? t('status.operational') : t('status.maintenance')}
+          {row.original.active ? tCommon('status.operational') : tCommon('status.maintenance')}
         </StatusBadge>
       ),
       enableSorting: true

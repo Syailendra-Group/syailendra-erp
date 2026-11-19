@@ -20,6 +20,7 @@ import { SupplierCategoryForm } from './form'
 
 export function SupplierCategoryDialogs() {
   const t = useTranslations('scm.supplierCategories')
+  const tCommon = useTranslations('common')
   const { open, setOpen, selectedCategory, setSelectedCategory } = useSupplierCategoryContext()
   const deleteMutation = useDeleteSupplierCategory()
   const [isFormPending, setIsFormPending] = useState(false)
@@ -119,7 +120,7 @@ export function SupplierCategoryDialogs() {
                 label={t('table.columns.status')}
                 value={
                   <Badge variant={selectedCategory.active ? 'default' : 'outline'} className="text-[10px]">
-                    {selectedCategory.active ? t('table.status.active') : t('table.status.inactive')}
+                    {selectedCategory.active ? tCommon('status.active') : tCommon('status.inactive')}
                   </Badge>
                 }
                 border={false}

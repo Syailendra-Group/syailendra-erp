@@ -3,7 +3,7 @@
  * for Master Supplier (res.partner). Syailendra Group ERP (SCM Pillar)
  */
 
-import type { SupplierBankMetadata, SupplierGrade, SupplierPaymentTerm, SupplierRecord, SupplierStatus } from '@/types/scm/supplier'
+import type { SupplierBankMetadata, SupplierGrade, SupplierPaymentTerm, SupplierRecord } from '@/types/scm/supplier'
 
 export interface OdooPartnerSupplierRaw {
   id: number
@@ -34,7 +34,6 @@ export interface OdooPartnerSupplierRaw {
   supplier_rank: number
   supplier_type_id: [number, string] | false
   supplier_type_needs_review: boolean
-  supplier_status: string | false
   supplier_grade: string | false
   digital_code: string | false
   owner_name: string | false
@@ -100,7 +99,6 @@ export const SUPPLIER_FIELDS = [
   'supplier_rank',
   'supplier_type_id',
   'supplier_type_needs_review',
-  'supplier_status',
   'supplier_grade',
   'digital_code',
   'owner_name',
@@ -200,7 +198,6 @@ export function mapOdooSupplierToRecord(item: OdooPartnerSupplierRaw): SupplierR
     supplierTypeId: firstId(item.supplier_type_id) ?? null,
     supplierTypeName: firstName(item.supplier_type_id),
     needsReview: Boolean(item.supplier_type_needs_review),
-    supplierStatus: (item.supplier_status || 'pending') as SupplierStatus,
     supplierGrade: (item.supplier_grade || undefined) as SupplierGrade | undefined,
     digitalCode: item.digital_code || undefined,
     ownerName: item.owner_name || undefined,

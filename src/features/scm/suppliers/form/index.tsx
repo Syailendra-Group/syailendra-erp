@@ -52,7 +52,6 @@ export function SupplierForm({ initialData, isEdit = false }: SupplierFormProps)
     categoryIds: initialData?.categoryIds || [],
     supplierTypeId: initialData?.supplierTypeId ?? null,
     supplierTypeVerified: initialData ? !initialData.needsReview : false,
-    supplierStatus: initialData?.supplierStatus || 'pending',
     ownerName: initialData?.ownerName || '',
     picName: initialData?.picName || '',
     picPosition: initialData?.picPosition || '',

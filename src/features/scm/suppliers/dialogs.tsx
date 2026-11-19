@@ -17,6 +17,7 @@ import { useToggleSupplierStatus } from '@/hooks/scm/use-suppliers'
 
 export function SupplierDialogs() {
   const t = useTranslations('scm.suppliers')
+  const tCommon = useTranslations('common')
   const { open, setOpen, selectedSupplier, setSelectedSupplier } = useSupplierContext()
   const toggleMutation = useToggleSupplierStatus()
 
@@ -130,12 +131,12 @@ export function SupplierDialogs() {
                 label={t('form.fields.supplierGrade')}
                 value={selectedSupplier.supplierGrade ? t(`form.grades.${selectedSupplier.supplierGrade}`) : t('form.grades.none')}
               />
-              <DetailRow label={t('table.columns.supplierStatus')} value={t(`form.statusOptions.${selectedSupplier.supplierStatus}`)} />
+              <DetailRow label={t('table.columns.status')} value={selectedSupplier.active ? tCommon('status.active') : tCommon('status.inactive')} />
               <DetailRow
                 label={t('table.columns.status')}
                 value={
                   <Badge variant={selectedSupplier.active ? 'default' : 'outline'} className="text-[10px]">
-                    {selectedSupplier.active ? t('table.status.active') : t('table.status.archived')}
+                    {selectedSupplier.active ? tCommon('status.active') : tCommon('status.archived')}
                   </Badge>
                 }
                 border={false}

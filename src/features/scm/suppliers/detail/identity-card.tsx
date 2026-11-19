@@ -21,6 +21,7 @@ export interface IdentityCardProps {
 
 export function IdentityCard({ supplier }: IdentityCardProps): ReactElement {
   const t = useTranslations('scm.suppliers')
+  const tCommon = useTranslations('common')
 
   return (
     <SectionCard title={t('detail.sections.identity')} description={t('detail.sections.identityDesc')} icon={IdCard}>
@@ -41,20 +42,10 @@ export function IdentityCard({ supplier }: IdentityCardProps): ReactElement {
           }
         />
         <DetailRow
-          label={t('detail.labels.supplierStatus')}
+          label={t('detail.labels.status')}
           value={
-            <DataBadge
-              variant={
-                supplier.supplierStatus === 'active'
-                  ? 'success'
-                  : supplier.supplierStatus === 'pending'
-                    ? 'warning'
-                    : supplier.supplierStatus === 'blacklisted'
-                      ? 'destructive'
-                      : 'neutral'
-              }
-            >
-              {t(`detail.statuses.${supplier.supplierStatus}`)}
+            <DataBadge variant={supplier.active ? 'success' : 'neutral'}>
+              {supplier.active ? tCommon('status.active') : tCommon('status.inactive')}
             </DataBadge>
           }
         />

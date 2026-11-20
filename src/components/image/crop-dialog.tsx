@@ -24,6 +24,7 @@ export interface CropDialogProps {
   fileName?: string
   mimeType?: 'image/png' | 'image/webp' | 'image/jpeg'
   onCropCompleteResult: (result: CroppedImageResult) => void
+  maxOutputSizeBytes?: number
 }
 
 export function CropDialog({
@@ -33,7 +34,8 @@ export function CropDialog({
   aspectRatio = 1,
   fileName = 'cropped-image.png',
   mimeType = 'image/png',
-  onCropCompleteResult
+  onCropCompleteResult,
+  maxOutputSizeBytes
 }: CropDialogProps): ReactElement {
   const t = useTranslations('common.dropzone')
   const resolvedImageSrc = resolveImageSrc(imageSrc) || imageSrc
@@ -57,12 +59,13 @@ export function CropDialog({
         pixelCrop: croppedAreaPixels,
         rotation,
         fileName,
-        mimeType
+        mimeType,
+        maxOutputBytes: maxOutputSizeBytes
       })
       onCropCompleteResult(result)
       onOpenChange(false)
-    } catch {
-      toast.error(t('cropError'))
+    } catch (error) {
+      toast.error(error instanceof Error && error.message === 'CROP_OUTPUT_TOO_LARGE' ? t('maxOutputSize') : t('cropError'))
     } finally {
       setIsProcessing(false)
     }

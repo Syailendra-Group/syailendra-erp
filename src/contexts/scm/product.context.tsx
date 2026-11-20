@@ -6,7 +6,7 @@ import { useRouter } from 'next/navigation'
 import type { ProductRecord } from '@/types/scm/product'
 import type { PropsWithChildren, ReactElement } from 'react'
 
-export type ProductDialogType = 'view' | 'delete' | null
+export type ProductDialogType = 'view' | 'archive' | 'restore' | 'delete' | null
 
 export interface ProductContextType {
   open: ProductDialogType
@@ -17,6 +17,7 @@ export interface ProductContextType {
   handleEdit: (item: ProductRecord) => void
   handleView: (item: ProductRecord) => void
   handleDelete: (item: ProductRecord) => void
+  handleToggleStatus: (item: ProductRecord) => void
 }
 
 const ProductContext = createContext<ProductContextType | null>(null)
@@ -47,6 +48,11 @@ export function ProductProvider({ children }: PropsWithChildren): ReactElement {
     setOpen('delete')
   }, [])
 
+  const handleToggleStatus = useCallback((item: ProductRecord) => {
+    setCurrentRow(item)
+    setOpen(item.active ? 'archive' : 'restore')
+  }, [])
+
   return (
     <ProductContext.Provider
       value={{
@@ -57,7 +63,8 @@ export function ProductProvider({ children }: PropsWithChildren): ReactElement {
         handleCreate,
         handleEdit,
         handleView,
-        handleDelete
+        handleDelete,
+        handleToggleStatus
       }}
     >
       {children}

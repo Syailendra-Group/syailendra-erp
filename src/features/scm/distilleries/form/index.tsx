@@ -14,6 +14,7 @@ import { toast } from 'sonner'
 
 import { LoadingButton } from '@/components/button/loading-button'
 import { PillTabs } from '@/components/button/pill-tabs'
+import { MediaSection } from '@/components/image/media-section'
 import { PageHeader } from '@/components/shared/page-header'
 import { Form } from '@/components/ui/form'
 import { useDistilleryPartnerOptions, useSaveDistilleryMutation } from '@/hooks/scm/use-distilleries'
@@ -170,7 +171,21 @@ export function DistilleryForm({ initialData }: DistilleryFormProps): ReactEleme
           className="space-y-4 sm:space-y-6"
         >
           {activeSection === 'identity' && <IdentitySection form={form} partnerOptions={partnerOptions} disabled={isPending} />}
-          {activeSection === 'location' && <LocationSection form={form} disabled={isPending} />}
+          {activeSection === 'location' && (
+            <>
+              <LocationSection form={form} disabled={isPending} />
+              {initialData ? (
+                <MediaSection
+                  model="syailendra.distillery"
+                  recordId={initialData.id}
+                  role="facility"
+                  aspectRatio={4 / 3}
+                  disabled={isPending}
+                  legacyImageUrl={`/api/odoo/image/syailendra.distillery/${initialData.id}/photo_distillery?size=512`}
+                />
+              ) : null}
+            </>
+          )}
           {activeSection === 'spec' && <SpecSection form={form} disabled={isPending} />}
           {activeSection === 'performance' && <PerformanceSection form={form} disabled={isPending} />}
         </div>

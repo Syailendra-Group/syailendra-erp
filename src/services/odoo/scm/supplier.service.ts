@@ -68,7 +68,22 @@ export class SupplierService {
       })
     ])
 
-    const items = await SupplierService.attachCategoryNames(rawRecords.map(mapOdooSupplierToRecord))
+    const imageRows = rawRecords.length
+      ? await odooClient.searchRead<{ id: number }>(
+          this.MODEL,
+          [
+            ['id', 'in', rawRecords.map((record) => record.id)],
+            ['image_1920', '!=', false]
+          ],
+          ['id'],
+          { limit: perPage, context: { active_test: false } }
+        )
+      : []
+    const imageIds = new Set(imageRows.map((row) => row.id))
+    const items = (await SupplierService.attachCategoryNames(rawRecords.map(mapOdooSupplierToRecord))).map((item) => ({
+      ...item,
+      imageUrl: imageIds.has(item.id) ? `/api/odoo/image/res.partner/${item.id}/image_128?size=128` : null
+    }))
     const totalPages = Math.ceil(total / perPage) || 1
 
     return {
@@ -91,7 +106,17 @@ export class SupplierService {
     }
 
     const mapped = await SupplierService.attachCategoryNames([mapOdooSupplierToRecord(records[0])])
-    return mapped[0]
+    const record = mapped[0]
+    const imageRows = await odooClient.searchRead<{ id: number }>(
+      this.MODEL,
+      [
+        ['id', '=', id],
+        ['image_1920', '!=', false]
+      ],
+      ['id'],
+      { limit: 1, context: { active_test: false } }
+    )
+    return { ...record, imageUrl: imageRows.length ? `/api/odoo/image/res.partner/${id}/image_128?size=128` : null }
   }
 
   /**
@@ -137,11 +162,12 @@ export class SupplierService {
       supplier_rank: 1,
       active: values.active,
       category_id: [[6, 0, values.categoryIds]],
-      supplier_type_needs_review: values.supplierTypeId ? !values.supplierTypeVerified : true,
+      supplier_type_needs_review: values.needsReview,
       comment: buildSupplierComment(metadata, '')
     }
 
     if (values.supplierTypeId) vals.supplier_type_id = values.supplierTypeId
+    if (values.image_1920) vals.image_1920 = values.image_1920.replace(/^data:[^;]+;base64,/, '')
 
     if (values.phone?.trim()) vals.phone = values.phone.trim()
     if (values.mobile?.trim()) vals.mobile = values.mobile.trim()
@@ -203,10 +229,9 @@ export class SupplierService {
       vals.company_type = values.companyType
     }
     if (values.categoryIds !== undefined) vals.category_id = [[6, 0, values.categoryIds]]
-    if (values.supplierTypeId !== undefined) {
-      vals.supplier_type_id = values.supplierTypeId || false
-      vals.supplier_type_needs_review = values.supplierTypeId ? !values.supplierTypeVerified : true
-    }
+    if (values.supplierTypeId !== undefined) vals.supplier_type_id = values.supplierTypeId || false
+    if (values.needsReview !== undefined) vals.supplier_type_needs_review = values.needsReview
+    if (values.image_1920) vals.image_1920 = values.image_1920.replace(/^data:[^;]+;base64,/, '')
     if (values.phone !== undefined) vals.phone = values.phone.trim()
     if (values.mobile !== undefined) vals.mobile = values.mobile.trim()
     if (values.email !== undefined) vals.email = values.email.trim()

@@ -12,6 +12,7 @@ import { LinkButton } from '@/components/button/link-button'
 import { AddressCard } from '@/components/card/address-card'
 import { SectionCard } from '@/components/card/section-card'
 import { SummaryCardGrid } from '@/components/card/summary-card'
+import { MediaGallery } from '@/components/image/media-gallery'
 import { DataBadge } from '@/components/shared/data-badge'
 import { DetailRow } from '@/components/shared/detail-row'
 import { PageHeader } from '@/components/shared/page-header'
@@ -98,6 +99,14 @@ export function FarmDetail({ farm }: FarmDetailProps): ReactElement {
         districtName={farm.districtName}
         villageName={farm.subdistrictName}
         addressDetail={farm.addressDetail}
+      />
+
+      <MediaGallery
+        model="syailendra.farm"
+        recordId={farm.id}
+        role="gallery"
+        readOnly
+        legacyImageUrl={`/api/odoo/image/syailendra.farm/${farm.id}/photo_farm?size=512`}
       />
 
       <SectionCard title={t('sections.cultivation')} description={t('sections.cultivationDesc')} icon={Sprout}>

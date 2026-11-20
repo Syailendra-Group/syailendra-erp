@@ -73,7 +73,9 @@
     "minYield": "Target Min Yield (%)",
     "minYieldPlaceholder": "Example: 2.5",
     "description": "Description & Special Notes",
-    "descriptionPlaceholder": "Handling precautions, organoleptic properties, and applications..."
+    "descriptionPlaceholder": "Handling precautions, organoleptic properties, and applications...",
+    "primaryPhoto": "Primary Product Photo",
+    "media": "Product Photos & Documents"
   },
   "categories": {
     "essential_oils": "Pure Essential Oils (100%)",
@@ -121,7 +123,8 @@
       "category": "Category",
       "tracking": "Tracking",
       "allCategories": "All Categories"
-    }
+    },
+    "allCategories": "All Categories"
   },
   "deleteDialog": {
     "title": "Delete Product",
@@ -134,7 +137,9 @@
     "updatedSuccess": "Product specification for {name} updated successfully.",
     "deletedSuccess": "Product {name} deleted successfully.",
     "deleteRestrictedError": "Product {name} cannot be deleted because it is referenced by existing inventory or active lots in the system.",
-    "errorOccurred": "An unexpected error occurred. Please try again."
+    "errorOccurred": "An unexpected error occurred. Please try again.",
+    "archivedSuccess": "Product {name} archived successfully",
+    "restoredSuccess": "Product {name} restored successfully"
   },
   "validation": {
     "defaultCodeMin": "Product code must be at least {min} characters.",
@@ -144,5 +149,23 @@
     "uomRequired": "Unit of measure is required.",
     "shelfLifeMin": "Shelf life must be at least {min} month.",
     "extractionMethodRequired": "Extraction method is required."
+  },
+  "detail": {
+    "title": "Product Detail",
+    "description": "Product information, classification, export metadata, QC standards, photos, and supporting documents.",
+    "edit": "Edit Product",
+    "notFound": "Product not found",
+    "months": "months",
+    "identityDescription": "Commercial and botanical product identity.",
+    "exportDescription": "Codes and registrations used for export.",
+    "qcDescription": "Product quality parameters based on official monographs."
+  },
+  "archiveDialog": {
+    "title": "Archive Product",
+    "description": "Product {name} will be hidden from the active list and can be restored later."
+  },
+  "restoreDialog": {
+    "title": "Restore Product",
+    "description": "Product {name} will become available in the active list again."
   }
 }

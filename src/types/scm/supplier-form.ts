@@ -10,6 +10,7 @@ export interface SupplierSectionProps {
   form: UseFormReturn<SupplierFormValues>
   disabled?: boolean
   digitalCode?: string
+  recordId?: number
   isEdit?: boolean
 }
 

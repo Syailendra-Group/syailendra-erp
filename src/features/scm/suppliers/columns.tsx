@@ -1,10 +1,11 @@
 'use client'
 
 import { ColumnDef } from '@tanstack/react-table'
-import { Building2, Mail, Phone, User } from 'lucide-react'
+import { Mail, Phone } from 'lucide-react'
 
 import { ActionButton } from '@/components/button/action-button'
 import { DataTableColumnHeader } from '@/components/data-table/column-header'
+import { EntityIdentityCell } from '@/components/image/entity-identity-cell'
 import { StatusBadge } from '@/components/shared/data-badge'
 import { IconText, LongText, PrimaryText } from '@/components/text'
 import { Badge } from '@/components/ui/badge'
@@ -32,14 +33,7 @@ export function getSupplierColumns({ t, tCommon, onView, onEdit, onToggleStatus 
       header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.columns.name')} />,
       cell: ({ row }) => {
         const item = row.original
-        return (
-          <div className="flex max-w-60 flex-col gap-0.5">
-            <IconText icon={item.isCompany ? Building2 : User} className="text-xs font-medium">
-              <LongText>{item.name}</LongText>
-            </IconText>
-            {item.picName && <span className="text-muted-foreground truncate pl-5 text-[10px]">PIC: {item.picName}</span>}
-          </div>
-        )
+        return <EntityIdentityCell name={item.name} secondary={item.picName || item.supplierTypeName} imageUrl={item.imageUrl} className="max-w-60" />
       },
       enableSorting: true
     },

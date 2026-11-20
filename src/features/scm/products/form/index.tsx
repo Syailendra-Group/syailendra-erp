@@ -13,6 +13,9 @@ import { useForm } from 'react-hook-form'
 import { toast } from 'sonner'
 
 import { LoadingButton } from '@/components/button/loading-button'
+import { FormFieldWrapper } from '@/components/form/form-field-wrapper'
+import { ImageDropzone } from '@/components/image/image-dropzone'
+import { MediaSection } from '@/components/image/media-section'
 import { PageHeader } from '@/components/shared/page-header'
 import { Button } from '@/components/ui/button'
 import { Card, CardContent } from '@/components/ui/card'
@@ -61,7 +64,9 @@ function toProductFormValues(record?: ProductRecord | null): ProductFormValues |
     key_compounds: record.qc_specs?.key_compounds ?? '',
     max_moisture_pct: record.qc_specs?.max_moisture_pct,
     min_yield_pct: record.qc_specs?.min_yield_pct,
-    description: record.description ?? ''
+    description: record.description ?? '',
+    image_1920: null,
+    profileImageUrl: record.imageUrl ?? null
   }
 }
 
@@ -151,6 +156,19 @@ export function ProductForm({ initialData }: ProductFormProps): ReactElement {
               </TabsList>
 
               <TabsContent value="commercial" className="space-y-4 pt-4">
+                <FormFieldWrapper id="image_1920" label={t('fields.primaryPhoto')} error={errors.image_1920?.message}>
+                  <ImageDropzone
+                    value={watch('image_1920') ?? watch('profileImageUrl') ?? null}
+                    onChange={(value) => setValue('image_1920', typeof value === 'string' ? value : null, { shouldDirty: true })}
+                    valueMode="base64"
+                    aspectRatio={1}
+                    maxImageSize={5}
+                    disabled={isPending}
+                  />
+                </FormFieldWrapper>
+                {isEdit && initialData ? (
+                  <MediaSection model="product.template" recordId={initialData.id} role="product" aspectRatio={1} disabled={isPending} />
+                ) : null}
                 <ProductCommercialSection
                   register={register}
                   errors={errors}

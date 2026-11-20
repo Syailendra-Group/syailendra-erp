@@ -56,7 +56,7 @@ export function getSupplierCategoryColumns({
           return (
             <div className="flex max-w-65 items-center gap-2">
               <FolderTree className="text-primary h-4 w-4 shrink-0" />
-              <PrimaryText bold={true} className="text-xs">
+              <PrimaryText bold={true} className="max-w-45 text-xs">
                 <LongText>{item.name}</LongText>
               </PrimaryText>
             </div>
@@ -67,7 +67,7 @@ export function getSupplierCategoryColumns({
           <div className="flex max-w-65 items-center gap-1.5" style={{ paddingLeft: `${Math.min(item.depth, 4) * 14}px` }}>
             <CornerDownRight className="text-muted-foreground/60 h-3.5 w-3.5 shrink-0" />
             <Tag className="text-muted-foreground h-3.5 w-3.5 shrink-0" />
-            <span className="text-foreground truncate text-xs font-normal">
+            <span className="text-foreground max-w-40 truncate text-xs font-normal">
               <LongText>{item.name}</LongText>
             </span>
           </div>
@@ -88,7 +88,7 @@ export function getSupplierCategoryColumns({
           )
         }
         return (
-          <Badge variant="secondary" className="max-w-45 text-[10px] font-normal">
+          <Badge variant="secondary" className="max-w-40 text-[10px] font-normal">
             <LongText>{item.parentName || '-'}</LongText>
           </Badge>
         )

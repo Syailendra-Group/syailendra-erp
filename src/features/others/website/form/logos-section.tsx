@@ -3,7 +3,7 @@
 import { Image as ImageIcon } from 'lucide-react'
 
 import { SectionCard } from '@/components/card/section-card'
-import { FileDropzone } from '@/components/image/file-dropzone'
+import { ImageDropzone } from '@/components/image/image-dropzone'
 
 import type { SiteConfigFormValues } from '@/schemas/others/website-schema'
 import type { ReactElement } from 'react'
@@ -30,7 +30,7 @@ export function LogosSection({ form, t }: LogosSectionProps): ReactElement {
             <span className="block text-xs font-semibold">{t('logos.light')}</span>
             <span className="text-muted-foreground text-[11px]">{t('logos.lightDesc')}</span>
           </div>
-          <FileDropzone
+          <ImageDropzone
             value={logoLight}
             onChange={(b64) => setValue('logo_light', (b64 as string) || null, { shouldDirty: true })}
             valueMode="base64"
@@ -44,7 +44,7 @@ export function LogosSection({ form, t }: LogosSectionProps): ReactElement {
             <span className="block text-xs font-semibold">{t('logos.dark')}</span>
             <span className="text-muted-foreground text-[11px]">{t('logos.darkDesc')}</span>
           </div>
-          <FileDropzone
+          <ImageDropzone
             value={logoDark}
             onChange={(b64) => setValue('logo_dark', (b64 as string) || null, { shouldDirty: true })}
             valueMode="base64"
@@ -58,7 +58,7 @@ export function LogosSection({ form, t }: LogosSectionProps): ReactElement {
             <span className="block text-xs font-semibold">{t('logos.monogram')}</span>
             <span className="text-muted-foreground text-[11px]">{t('logos.monogramDesc')}</span>
           </div>
-          <FileDropzone
+          <ImageDropzone
             value={logoMonogram}
             onChange={(b64) => setValue('logo_monogram', (b64 as string) || null, { shouldDirty: true })}
             valueMode="base64"

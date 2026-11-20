@@ -13,6 +13,7 @@ export interface CropImageOptions {
   fileName?: string
   mimeType?: 'image/png' | 'image/webp' | 'image/jpeg'
   quality?: number
+  maxOutputBytes?: number
 }
 
 export interface CroppedImageResult {
@@ -52,7 +53,8 @@ export async function getCroppedImg({
   rotation = 0,
   fileName = 'cropped-image.png',
   mimeType = 'image/png',
-  quality = 0.92
+  quality = 0.92,
+  maxOutputBytes
 }: CropImageOptions): Promise<CroppedImageResult> {
   const image = await createImage(imageSrc)
   const canvas = document.createElement('canvas')
@@ -85,19 +87,24 @@ export async function getCroppedImg({
 
   croppedCtx.drawImage(canvas, pixelCrop.x, pixelCrop.y, pixelCrop.width, pixelCrop.height, 0, 0, pixelCrop.width, pixelCrop.height)
 
-  const dataUrl = croppedCanvas.toDataURL(mimeType, quality)
-  const base64 = dataUrl.split(',')[1] || ''
-
-  const blob = await new Promise<Blob>((resolve, reject) => {
-    croppedCanvas.toBlob(
-      (b) => {
-        if (b) resolve(b)
-        else reject(new Error('Canvas toBlob returned null'))
-      },
-      mimeType,
-      quality
-    )
+  let outputQuality = quality
+  const toBlob = (qualityValue: number) =>
+    new Promise<Blob>((resolve, reject) => {
+      croppedCanvas.toBlob((value) => (value ? resolve(value) : reject(new Error('Canvas toBlob returned null'))), mimeType, qualityValue)
+    })
+  let blob = await toBlob(outputQuality)
+  while (maxOutputBytes && blob.size > maxOutputBytes && outputQuality > 0.35) {
+    outputQuality -= 0.1
+    blob = await toBlob(outputQuality)
+  }
+  if (maxOutputBytes && blob.size > maxOutputBytes) throw new Error('CROP_OUTPUT_TOO_LARGE')
+  const dataUrl = await new Promise<string>((resolve, reject) => {
+    const reader = new FileReader()
+    reader.onload = () => (typeof reader.result === 'string' ? resolve(reader.result) : reject(new Error('Failed to read cropped image')))
+    reader.onerror = () => reject(reader.error)
+    reader.readAsDataURL(blob)
   })
+  const base64 = dataUrl.split(',')[1] || ''
 
   const file = new File([blob], fileName, { type: mimeType })
   const objectUrl = URL.createObjectURL(blob)

@@ -143,7 +143,12 @@
       "fairWage": "Menerapkan Upah Layak",
       "wasteManagement": "Pengelolaan Limbah",
       "wasteManagementPlaceholder": "Uraikan praktik pengelolaan limbah di lokasi produksi",
-      "renewableEnergy": "Penggunaan Energi Terbarukan"
+      "renewableEnergy": "Penggunaan Energi Terbarukan",
+      "activeHint": "Nonaktifkan untuk mengarsipkan pemasok tanpa menghapus data.",
+      "needsReview": "Perlu Review",
+      "needsReviewHint": "Tandai pemasok yang masih memerlukan verifikasi data.",
+      "profilePhoto": "Foto Profil Pemasok",
+      "media": "Foto & Dokumen Pemasok"
     },
     "buttons": {
       "save": "Simpan Pemasok",

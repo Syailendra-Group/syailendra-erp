@@ -20,7 +20,10 @@ const PUBLIC_FIELDS: Record<string, string[]> = {
 
 const PROTECTED_FIELDS: Record<string, string[]> = {
   'syailendra.farm': ['photo_farm'],
-  'syailendra.distillery': ['photo_distillery']
+  'syailendra.distillery': ['photo_distillery'],
+  'res.partner': ['image_128', 'image_1920'],
+  'product.template': ['image_128', 'image_1920'],
+  'syailendra.media': ['image']
 }
 
 const ALLOWED_SIZES = new Set(['128', '256', '512', '1024', '1920'])
@@ -125,7 +128,7 @@ export async function GET(request: NextRequest, context: RouteContext): Promise<
     status: 200,
     headers: {
       'Content-Type': contentType,
-      'Cache-Control': 'public, max-age=86400, stale-while-revalidate=604800',
+      'Cache-Control': isProtected ? 'private, no-store, max-age=0' : 'public, max-age=86400, stale-while-revalidate=604800',
       'X-Content-Type-Options': 'nosniff'
     }
   })

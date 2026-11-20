@@ -34,6 +34,7 @@ export interface OdooPartnerSupplierRaw {
   supplier_rank: number
   supplier_type_id: [number, string] | false
   supplier_type_needs_review: boolean
+  image_128?: string | false
   supplier_grade: string | false
   digital_code: string | false
   owner_name: string | false
@@ -198,6 +199,7 @@ export function mapOdooSupplierToRecord(item: OdooPartnerSupplierRaw): SupplierR
     supplierTypeId: firstId(item.supplier_type_id) ?? null,
     supplierTypeName: firstName(item.supplier_type_id),
     needsReview: Boolean(item.supplier_type_needs_review),
+    imageUrl: null,
     supplierGrade: (item.supplier_grade || undefined) as SupplierGrade | undefined,
     digitalCode: item.digital_code || undefined,
     ownerName: item.owner_name || undefined,

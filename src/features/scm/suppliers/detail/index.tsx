@@ -11,6 +11,7 @@ import { useTranslations } from 'next-intl'
 import { LinkButton } from '@/components/button/link-button'
 import { AddressCard } from '@/components/card/address-card'
 import { SummaryCardGrid } from '@/components/card/summary-card'
+import { MediaGallery } from '@/components/image/media-gallery'
 import { DataBadge } from '@/components/shared/data-badge'
 import { PageHeader } from '@/components/shared/page-header'
 
@@ -81,6 +82,8 @@ export function SupplierDetail({ supplier }: SupplierDetailProps): ReactElement 
         <IdentityCard supplier={supplier} />
         <ContactCard supplier={supplier} />
       </div>
+
+      <MediaGallery model="res.partner" recordId={supplier.id} role="gallery" readOnly legacyImageUrl={supplier.imageUrl} />
 
       <AddressCard
         countryName={supplier.countryName}

@@ -4,6 +4,7 @@ import { ColumnDef } from '@tanstack/react-table'
 
 import { ActionButton } from '@/components/button/action-button'
 import { DataTableColumnHeader } from '@/components/data-table/column-header'
+import { EntityIdentityCell } from '@/components/image/entity-identity-cell'
 import { StatusBadge } from '@/components/shared/data-badge'
 import { LongText, PrimaryText } from '@/components/text'
 import { Badge } from '@/components/ui/badge'
@@ -32,12 +33,7 @@ export function getColumns({ t, tCommon, onView, onEdit, onToggleStatus, onDelet
       header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.columns.product')} />,
       cell: ({ row }) => {
         const item = row.original
-        return (
-          <div className="flex max-w-55 flex-col gap-0.5">
-            <LongText className="text-xs font-semibold tracking-tight">{item.name}</LongText>
-            {item.botanical_name && <LongText className="text-muted-foreground text-[10px] italic">{item.botanical_name}</LongText>}
-          </div>
-        )
+        return <EntityIdentityCell name={item.name} secondary={item.botanical_name} imageUrl={item.imageUrl} className="max-w-55" />
       },
       enableSorting: true
     },
@@ -46,11 +42,11 @@ export function getColumns({ t, tCommon, onView, onEdit, onToggleStatus, onDelet
       header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.columns.category')} />,
       cell: ({ row }) => (
         <Badge variant="outline" className="max-w-40 text-[10px] font-normal">
-          <LongText>{row.original.category}</LongText>
+          <LongText>{t(`categories.${row.original.category}`)}</LongText>
         </Badge>
       ),
-      // Derived from stored metadata, not a `product.template` column: sorting server-side is impossible.
-      enableSorting: false
+      // Native atsiri_category is a real indexed field, so server-side sorting is valid.
+      enableSorting: true
     },
     {
       accessorKey: 'uom_id',

@@ -11,6 +11,7 @@ import { useTranslations } from 'next-intl'
 import { LinkButton } from '@/components/button/link-button'
 import { SectionCard } from '@/components/card/section-card'
 import { SummaryCardGrid } from '@/components/card/summary-card'
+import { MediaGallery } from '@/components/image/media-gallery'
 import { DataBadge } from '@/components/shared/data-badge'
 import { DetailRow } from '@/components/shared/detail-row'
 import { PageHeader } from '@/components/shared/page-header'
@@ -137,6 +138,14 @@ export function DistilleryDetail({ distillery }: DistilleryDetailProps): ReactEl
           <DetailRow label={t('details.labels.maxCapacity')} value={distillery.maxCapacityKg != null ? `${distillery.maxCapacityKg} kg` : '-'} mono />
         </div>
       </SectionCard>
+
+      <MediaGallery
+        model="syailendra.distillery"
+        recordId={distillery.id}
+        role="facility"
+        readOnly
+        legacyImageUrl={`/api/odoo/image/syailendra.distillery/${distillery.id}/photo_distillery?size=512`}
+      />
 
       <SectionCard title={t('sections.location')} description={t('sections.locationDesc')} icon={MapPin}>
         <div className="grid grid-cols-1 gap-x-8 gap-y-0 md:grid-cols-2">

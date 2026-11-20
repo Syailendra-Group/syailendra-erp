@@ -5,7 +5,14 @@
 
 import { keepPreviousData, useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
 
-import { deleteProductAction, getProductByIdAction, getProductsPaginatedAction, saveProductAction } from '@/actions/scm/product.action'
+import {
+  deleteProductAction,
+  getProductByIdAction,
+  getProductCategoryCountsAction,
+  getProductsPaginatedAction,
+  saveProductAction,
+  toggleProductActiveAction
+} from '@/actions/scm/product.action'
 
 import type { FetchProductsParams, PaginatedProductsResult, ProductRecord } from '@/actions/scm/product.action'
 import type { ProductFormValues } from '@/schemas/scm/product-schema'
@@ -28,6 +35,10 @@ export function useProductsPaginatedQuery(params: FetchProductsParams = {}) {
   })
 }
 
+export function useProductCategoryCountsQuery() {
+  return useQuery({ queryKey: [...productKeys.all, 'category-counts'], queryFn: getProductCategoryCountsAction, staleTime: 60_000 })
+}
+
 export function useProductDetailQuery(id: number) {
   return useQuery({
     queryKey: productKeys.detail(id),
@@ -48,6 +59,14 @@ export function useSaveProductMutation() {
     onSuccess: () => {
       queryClient.invalidateQueries({ queryKey: productKeys.all })
     }
+  })
+}
+
+export function useToggleProductActiveMutation() {
+  const queryClient = useQueryClient()
+  return useMutation({
+    mutationFn: ({ id, active }: { id: number; active: boolean }) => toggleProductActiveAction(id, active),
+    onSuccess: () => queryClient.invalidateQueries({ queryKey: productKeys.all })
   })
 }
 

@@ -15,6 +15,8 @@ import { RestrictedField } from '@/components/form/restricted-field'
 import { SelectForm } from '@/components/form/select-form'
 import { SwitchField } from '@/components/form/switch-field'
 import { TextField } from '@/components/form/text-field'
+import { ImageDropzone } from '@/components/image/image-dropzone'
+import { MediaSection } from '@/components/image/media-section'
 import { DetailRow } from '@/components/shared/detail-row'
 import { CopyableText } from '@/components/text'
 import { useSupplierCategoryOptions } from '@/hooks/scm/use-supplier-categories'
@@ -22,12 +24,17 @@ import { useSupplierTypeOptions } from '@/hooks/scm/use-supplier-types'
 
 import type { SupplierSectionProps } from '@/types/scm/supplier-form'
 
-export function IdentitySection({ form, digitalCode, disabled = false, isEdit = false }: SupplierSectionProps) {
+export function IdentitySection({ form, digitalCode, recordId, disabled = false, isEdit = false }: SupplierSectionProps) {
   const t = useTranslations('scm.suppliers')
   const { data: categoryOptions = [] } = useSupplierCategoryOptions()
   const { data: supplierTypeOptions = [] } = useSupplierTypeOptions()
   const currentSupplierTypeId = useWatch({ control: form.control, name: 'supplierTypeId' })
   const currentVerified = useWatch({ control: form.control, name: 'supplierTypeVerified' })
+  const needsReview = useWatch({ control: form.control, name: 'needsReview' })
+  const active = useWatch({ control: form.control, name: 'active' })
+  const profileImage = useWatch({ control: form.control, name: 'image_1920' })
+  const savedProfileUrl = useWatch({ control: form.control, name: 'profileImageUrl' })
+  const profilePreview = profileImage ?? savedProfileUrl
 
   return (
     <SectionCard title={t('form.sections.identity')} description={t('form.sections.identityDesc')} icon={Building2} contentClassName="space-y-4">
@@ -116,6 +123,41 @@ export function IdentitySection({ form, digitalCode, disabled = false, isEdit = 
           )}
         />
       </div>
+
+      <div className="grid grid-cols-1 gap-3 sm:grid-cols-2">
+        <SwitchField
+          id="active"
+          variant="card"
+          label={t('form.fields.active')}
+          hint={t('form.fields.activeHint')}
+          checked={active}
+          disabled={disabled}
+          onCheckedChange={(checked) => form.setValue('active', checked, { shouldDirty: true })}
+        />
+        <SwitchField
+          id="needsReview"
+          variant="card"
+          label={t('form.fields.needsReview')}
+          hint={t('form.fields.needsReviewHint')}
+          checked={needsReview}
+          disabled={disabled}
+          onCheckedChange={(checked) => {
+            form.setValue('needsReview', checked, { shouldDirty: true })
+            form.setValue('supplierTypeVerified', !checked, { shouldDirty: true })
+          }}
+        />
+      </div>
+      <FormFieldWrapper id="image_1920" label={t('form.fields.profilePhoto')} error={form.formState.errors.image_1920?.message}>
+        <ImageDropzone
+          value={profilePreview}
+          onChange={(value) => form.setValue('image_1920', typeof value === 'string' ? value : null, { shouldDirty: true })}
+          valueMode="base64"
+          aspectRatio={1}
+          maxImageSize={5}
+          disabled={disabled}
+        />
+      </FormFieldWrapper>
+      {recordId ? <MediaSection model="res.partner" recordId={recordId} role="gallery" aspectRatio={1} disabled={disabled} /> : null}
 
       <SwitchField
         id="supplierTypeVerified"

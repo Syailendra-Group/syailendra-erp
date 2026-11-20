@@ -27,12 +27,23 @@ export type { FetchProductsParams, PaginatedProductsResult }
  */
 const ATSIRI_CODE_PATTERNS = ['EO-%', 'FG-%', 'RAW-%', 'PKG-%']
 
+/**
+ * Join flat sub-expressions with a prefix operator. Odoo's domain normaliser treats any
+ * nested three-element list as a field leaf, so every group must stay a single flat list.
+ */
+function flatten(op: '&' | '|', parts: OdooDomain[]): OdooDomain {
+  const group: OdooDomain = []
+  for (let index = 1; index < parts.length; index++) group.push(op)
+  parts.forEach((part) => group.push(...part))
+  return group
+}
+
 /** Join leaves with prefix OR operators (Polish notation). */
 function orGroup(leaves: OdooDomain): OdooDomain {
-  const group: OdooDomain = []
-  for (let index = 1; index < leaves.length; index++) group.push('|')
-  group.push(...leaves)
-  return group
+  return flatten(
+    '|',
+    leaves.map((leaf) => [leaf])
+  )
 }
 
 function buildCatalogueDomain(): OdooDomain {
@@ -41,16 +52,13 @@ function buildCatalogueDomain(): OdooDomain {
 
 /** Join independent groups with prefix AND operators (Polish notation). */
 function andGroups(groups: OdooDomain[]): OdooDomain {
-  const domain: OdooDomain = []
-  for (let index = 1; index < groups.length; index++) domain.push('&')
-  groups.forEach((group) => domain.push(...group))
-  return domain
+  return flatten('&', groups)
 }
 
 export async function fetchProductsPaginated(params: FetchProductsParams = {}): Promise<PaginatedProductsResult> {
-  const { page = 1, perPage = 20, search = '', category, tracking, order = 'default_code asc' } = params
+  const { page = 1, perPage = 20, search = '', category, tracking, active, order = 'default_code asc' } = params
 
-  const groups: OdooDomain[] = [[['active', 'in', [true, false]]], buildCatalogueDomain()]
+  const groups: OdooDomain[] = [[['active', '=', typeof active === 'boolean' ? active : true]], buildCatalogueDomain()]
 
   // Polish OR domain for keyword search (code and name only -- never the JSONB description)
   if (search.trim()) {
@@ -66,9 +74,16 @@ export async function fetchProductsPaginated(params: FetchProductsParams = {}): 
   // Category filter resolves to catalogue code prefixes
   const rawCategory = Array.isArray(category) ? category : category ? [category] : []
   const categories = rawCategory.filter((value): value is ProductCategory => value in CATEGORY_PREFIXES)
-  const prefixes = categories.flatMap((value) => CATEGORY_PREFIXES[value] ?? [])
-  if (prefixes.length > 0) {
-    groups.push(orGroup(prefixes.map((prefix) => ['default_code', '=like', `${prefix}%`])))
+  if (categories.length > 0) {
+    const categoryBranch = flatten(
+      '|',
+      categories.map((value) => [['atsiri_category', '=', value]] as OdooDomain)
+    )
+    const prefixes = categories.flatMap((value) => CATEGORY_PREFIXES[value] ?? [])
+    const legacyLeaves = prefixes.map((prefix) => [['default_code', '=like', `${prefix}%`]] as OdooDomain)
+    const legacyParts: OdooDomain[] = [[['atsiri_category', '=', false]]]
+    if (legacyLeaves.length > 0) legacyParts.push(flatten('|', legacyLeaves))
+    groups.push(flatten('|', [categoryBranch, flatten('&', legacyParts)]))
   }
 
   // Filter tracking if present
@@ -86,7 +101,7 @@ export async function fetchProductsPaginated(params: FetchProductsParams = {}): 
 
   const [totalCount, rawRecords] = await Promise.all([
     odoo.client.searchCount('product.template', domain, undefined, { context: { active_test: false } }),
-    odoo.client.searchRead<Record<string, OdooFieldValue>>('product.template', domain, PRODUCT_READ_FIELDS, {
+    odoo.client.searchRead<Record<string, OdooFieldValue>>('product.template', domain, [...PRODUCT_READ_FIELDS], {
       offset,
       limit: perPage,
       order,
@@ -95,6 +110,21 @@ export async function fetchProductsPaginated(params: FetchProductsParams = {}): 
   ])
 
   const records = rawRecords.map(mapOdooProductToRecord)
+  const imageRows = records.length
+    ? await odoo.client.searchRead<{ id: number }>(
+        'product.template',
+        [
+          ['id', 'in', records.map((record) => record.id)],
+          ['image_1920', '!=', false]
+        ],
+        ['id'],
+        { limit: perPage, context: { active_test: false } }
+      )
+    : []
+  const imageIds = new Set(imageRows.map((row) => row.id))
+  records.forEach((record) => {
+    record.imageUrl = imageIds.has(record.id) ? `/api/odoo/image/product.template/${record.id}/image_128?size=128` : null
+  })
   const pageCount = Math.ceil(totalCount / perPage) || 1
 
   return {
@@ -107,7 +137,7 @@ export async function fetchProductsPaginated(params: FetchProductsParams = {}): 
 }
 
 export async function fetchProductById(id: number): Promise<ProductRecord | null> {
-  const rawRecords = await odoo.client.searchRead<Record<string, OdooFieldValue>>('product.template', [['id', '=', id]], PRODUCT_READ_FIELDS, {
+  const rawRecords = await odoo.client.searchRead<Record<string, OdooFieldValue>>('product.template', [['id', '=', id]], [...PRODUCT_READ_FIELDS], {
     limit: 1,
     context: { active_test: false }
   })
@@ -116,7 +146,19 @@ export async function fetchProductById(id: number): Promise<ProductRecord | null
     return null
   }
 
-  return mapOdooProductToRecord(rawRecords[0])
+  const record = mapOdooProductToRecord(rawRecords[0])
+  const imageRows = await odoo.client.searchRead<{ id: number }>(
+    'product.template',
+    [
+      ['id', '=', id],
+      ['image_1920', '!=', false]
+    ],
+    ['id'],
+    { limit: 1, context: { active_test: false } }
+  )
+  record.imageUrl = imageRows.length ? `/api/odoo/image/product.template/${id}/image_1920?size=512` : null
+  record.image_1920 = null
+  return record
 }
 
 export async function persistProduct(values: ProductFormValues): Promise<{ success: boolean; id?: number; error?: string }> {
@@ -153,7 +195,11 @@ export async function persistProduct(values: ProductFormValues): Promise<{ succe
       type: 'consu',
       tracking: values.tracking,
       uom_id: values.uom_id,
-      description: JSON.stringify(metadata)
+      atsiri_category: values.category,
+      atsiri_metadata: JSON.parse(JSON.stringify(metadata)) as Record<string, OdooFieldValue>,
+      hs_code: values.hs_code,
+      description: values.description || false,
+      ...(values.image_1920 ? { image_1920: values.image_1920.replace(/^data:[^;]+;base64,/, '') } : {})
     }
 
     if (values.id) {
@@ -169,6 +215,29 @@ export async function persistProduct(values: ProductFormValues): Promise<{ succe
       success: false,
       error: err instanceof Error ? err.message : 'Database error while saving product'
     }
+  }
+}
+
+export async function fetchProductCategoryCounts(): Promise<Record<ProductCategory, number>> {
+  const categories: ProductCategory[] = ['essential_oils', 'natural_isolates', 'carrier_oils', 'hydrosols', 'raw_biomass', 'packaging']
+  const counts = await Promise.all(
+    categories.map(
+      async (category) =>
+        [
+          category,
+          await odoo.client.searchCount('product.template', [['atsiri_category', '=', category]], undefined, { context: { active_test: false } })
+        ] as const
+    )
+  )
+  return Object.fromEntries(counts) as Record<ProductCategory, number>
+}
+
+export async function toggleProductActive(id: number, active: boolean): Promise<{ success: boolean; error?: string }> {
+  try {
+    await odoo.client.write('product.template', [id], { active })
+    return { success: true }
+  } catch (error) {
+    return { success: false, error: error instanceof Error ? error.message : 'PRODUCT_TOGGLE_FAILED' }
   }
 }
 

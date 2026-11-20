@@ -6,7 +6,7 @@ import { Controller } from 'react-hook-form'
 
 import { SectionCard } from '@/components/card/section-card'
 import { FormFieldWrapper } from '@/components/form/form-field-wrapper'
-import { FileDropzone } from '@/components/image/file-dropzone'
+import { ImageDropzone } from '@/components/image/image-dropzone'
 import { Textarea } from '@/components/ui/textarea'
 
 import type { FarmFormValues } from '@/schemas/scm/farm-schema'
@@ -44,12 +44,12 @@ export function SustainabilitySection({ form, disabled }: SustainabilitySectionP
           control={control}
           name="photo_farm"
           render={({ field }) => (
-            <FileDropzone
+            <ImageDropzone
               value={field.value ?? null}
               onChange={(value) => field.onChange(typeof value === 'string' ? value : null)}
               valueMode="base64"
               disabled={disabled}
-              maxImageSize={2}
+              maxImageSize={5}
             />
           )}
         />

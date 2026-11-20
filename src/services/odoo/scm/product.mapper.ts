@@ -6,7 +6,20 @@
 import type { OdooFieldValue } from '@/lib/odoo/types'
 import type { AromaNote, ExtractionMethod, ProductCategory, ProductQcSpecs, ProductRecord } from '@/types/scm/product'
 
-export const PRODUCT_READ_FIELDS = ['id', 'name', 'default_code', 'type', 'tracking', 'uom_id', 'categ_id', 'description', 'active']
+export const PRODUCT_READ_FIELDS = [
+  'id',
+  'name',
+  'default_code',
+  'type',
+  'tracking',
+  'uom_id',
+  'categ_id',
+  'atsiri_category',
+  'atsiri_metadata',
+  'hs_code',
+  'description',
+  'active'
+]
 
 export interface StoredProductMetadata {
   commercial_name?: string
@@ -57,8 +70,19 @@ function parseProductMetadata(descRaw: OdooFieldValue): StoredProductMetadata {
 }
 
 export function mapOdooProductToRecord(r: Record<string, OdooFieldValue>): ProductRecord {
-  const meta = parseProductMetadata(r.description)
+  const structured =
+    r.atsiri_metadata && typeof r.atsiri_metadata === 'object' && !Array.isArray(r.atsiri_metadata)
+      ? (r.atsiri_metadata as StoredProductMetadata)
+      : {}
+  const meta = { ...parseProductMetadata(r.description), ...structured }
 
+  const categoryValues: ProductCategory[] = ['essential_oils', 'natural_isolates', 'carrier_oils', 'hydrosols', 'raw_biomass', 'packaging']
+  const rawCategory =
+    typeof r.atsiri_category === 'string' && categoryValues.includes(r.atsiri_category as ProductCategory)
+      ? (r.atsiri_category as ProductCategory)
+      : meta.category
+  const category: ProductCategory =
+    rawCategory && categoryValues.includes(rawCategory) ? rawCategory : resolveCategoryFromCode(String(r.default_code || ''))
   const uomRaw = r.uom_id as [number, string] | false
   const uomId: [number, string] = Array.isArray(uomRaw) ? uomRaw : [1, 'kg']
 
@@ -67,14 +91,14 @@ export function mapOdooProductToRecord(r: Record<string, OdooFieldValue>): Produ
     default_code: String(r.default_code || `MAT-${r.id}`),
     name: String(r.name || 'Unnamed Product'),
     commercial_name: meta.commercial_name || String(r.name || ''),
-    category: meta.category || resolveCategoryFromCode(String(r.default_code || '')),
+    category,
     botanical_name: meta.botanical_name || '',
     family: meta.family || '',
     inci_name: meta.inci_name || '',
     cas_number: meta.cas_number || '',
     einecs_number: meta.einecs_number || '',
     fema_number: meta.fema_number || '',
-    hs_code: meta.hs_code || '3301.29.90',
+    hs_code: (typeof r.hs_code === 'string' && r.hs_code ? r.hs_code : meta.hs_code) || '',
     plant_part: meta.plant_part || '',
     extraction_method: meta.extraction_method || 'steam_distillation',
     aroma_note: meta.aroma_note || 'base',
@@ -84,7 +108,8 @@ export function mapOdooProductToRecord(r: Record<string, OdooFieldValue>): Produ
     active: Boolean(r.active),
     qc_specs: meta.qc_specs,
     available_sizes: meta.available_sizes,
-    description: typeof r.description === 'string' ? r.description : undefined
+    description: typeof r.description === 'string' && !unescapeHtml(r.description).startsWith('{') ? unescapeHtml(r.description) : undefined,
+    imageUrl: null
   }
 }
 

@@ -36,21 +36,20 @@ export function AddressCard({
   icon = MapPin,
   className
 }: AddressCardProps): ReactElement {
-  const tTrace = useTranslations('scm.farmers')
   const tCommon = useTranslations('common')
 
-  const cardTitle = title || tTrace('sections.location')
-  const cardDesc = description || tTrace('sections.locationDesc')
+  const cardTitle = title || tCommon('address.sections.location')
+  const cardDesc = description || tCommon('address.sections.locationDesc')
 
   return (
     <SectionCard title={cardTitle} description={cardDesc} icon={icon} className={className} contentClassName="space-y-2.5">
       <DetailRow label={tCommon('address.country')} value={countryName || 'Indonesia'} />
-      <DetailRow label={tTrace('fields.province')} value={stateName || '-'} />
-      <DetailRow label={tTrace('fields.regency')} value={cityName || '-'} />
-      <DetailRow label={tTrace('fields.district')} value={districtName || '-'} />
-      <DetailRow label={tTrace('fields.village')} value={villageName || '-'} />
+      <DetailRow label={tCommon('address.fields.province')} value={stateName || '-'} />
+      <DetailRow label={tCommon('address.fields.regency')} value={cityName || '-'} />
+      <DetailRow label={tCommon('address.fields.district')} value={districtName || '-'} />
+      <DetailRow label={tCommon('address.fields.village')} value={villageName || '-'} />
       <DetailRow label={tCommon('address.zipCode')} value={zipCode || '-'} mono={true} />
-      <DetailRow label={tTrace('fields.addressDetail')} value={addressDetail || '-'} />
+      <DetailRow label={tCommon('address.fields.addressDetail')} value={addressDetail || '-'} />
       {/* Alamat Tambahan / Patokan SELALU tampil: ketika kosong maka "-" */}
       <DetailRow label={tCommon('address.benchmark')} value={benchmark || '-'} border={false} />
     </SectionCard>

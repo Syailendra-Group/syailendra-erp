@@ -15,6 +15,7 @@ import { toast } from 'sonner'
 import { LoadingButton } from '@/components/button/loading-button'
 import { PillTabs } from '@/components/button/pill-tabs'
 import { AddressSection } from '@/components/form/address-section'
+import { MediaSection } from '@/components/image/media-section'
 import { PageHeader } from '@/components/shared/page-header'
 import { Form } from '@/components/ui/form'
 import { useCommodityOptions } from '@/hooks/scm/use-commodities'
@@ -179,7 +180,14 @@ export function FarmForm({ initialData }: FarmFormProps): ReactElement {
             </>
           )}
           {activeSection === 'cultivation' && <CultivationSection form={form} disabled={isPending} />}
-          {activeSection === 'sustainability' && <SustainabilitySection form={form} disabled={isPending} />}
+          {activeSection === 'sustainability' && (
+            <>
+              <SustainabilitySection form={form} disabled={isPending} />
+              {initialData ? (
+                <MediaSection model="syailendra.farm" recordId={initialData.id} role="gallery" aspectRatio={4 / 3} disabled={isPending} />
+              ) : null}
+            </>
+          )}
         </div>
       </form>
     </Form>

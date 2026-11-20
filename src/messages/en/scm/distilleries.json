@@ -62,7 +62,9 @@
     "moqPlaceholder": "e.g. 50",
     "addressDetail": "Facility Detailed Address",
     "addressDetailPlaceholder": "e.g. Jalan Raya Sumbing KM 5, Distillation Block A",
-    "photo": "Facility Photo"
+    "photo": "Facility Photo",
+    "gallery": "Facility Gallery",
+    "documents": "Supporting Documents"
   },
   "table": {
     "code": "Unit Code",

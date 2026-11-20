@@ -4,7 +4,14 @@ import { revalidatePath } from 'next/cache'
 
 import { requireSession } from '@/lib/auth/guard'
 import { productFormSchema } from '@/schemas/scm/product-schema'
-import { deleteProduct, fetchProductById, fetchProductsPaginated, persistProduct } from '@/services/odoo/scm/product.service'
+import {
+  deleteProduct,
+  fetchProductById,
+  fetchProductCategoryCounts,
+  fetchProductsPaginated,
+  persistProduct,
+  toggleProductActive
+} from '@/services/odoo/scm/product.service'
 
 import type { ProductFormValues } from '@/schemas/scm/product-schema'
 import type { FetchProductsParams, PaginatedProductsResult } from '@/services/odoo/scm/product.service'
@@ -22,6 +29,11 @@ export async function getProductsPaginatedAction(params: FetchProductsParams = {
     console.error('Failed to fetch paginated products from Odoo 18:', err)
     throw new Error('PRODUCTS_FETCH_FAILED')
   }
+}
+
+export async function getProductCategoryCountsAction() {
+  await requireSession()
+  return fetchProductCategoryCounts()
 }
 
 export async function getProductByIdAction(id: number): Promise<ProductRecord | null> {
@@ -53,6 +65,16 @@ export async function saveProductAction(rawValues: ProductFormValues): Promise<{
       error: err instanceof Error ? err.message : 'Invalid parameters provided for product'
     }
   }
+}
+
+export async function toggleProductActiveAction(id: number, active: boolean): Promise<{ success: boolean; error?: string }> {
+  await requireSession()
+  const result = await toggleProductActive(id, active)
+  if (result.success) {
+    revalidatePath('/scm/products')
+    revalidatePath('/scm')
+  }
+  return result
 }
 
 export async function deleteProductAction(id: number): Promise<{ success: boolean; error?: string }> {

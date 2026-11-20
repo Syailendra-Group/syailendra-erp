@@ -52,6 +52,9 @@ export function SupplierForm({ initialData, isEdit = false }: SupplierFormProps)
     categoryIds: initialData?.categoryIds || [],
     supplierTypeId: initialData?.supplierTypeId ?? null,
     supplierTypeVerified: initialData ? !initialData.needsReview : false,
+    needsReview: initialData?.needsReview ?? false,
+    image_1920: null,
+    profileImageUrl: initialData?.imageUrl ?? null,
     ownerName: initialData?.ownerName || '',
     picName: initialData?.picName || '',
     picPosition: initialData?.picPosition || '',
@@ -196,7 +199,7 @@ export function SupplierForm({ initialData, isEdit = false }: SupplierFormProps)
         />
         <div id={`supplier-sections-panel-${activeSection}`} role="tabpanel" aria-labelledby={`supplier-sections-tab-${activeSection}`}>
           {activeSection === 'identity' && (
-            <IdentitySection form={form} digitalCode={initialData?.digitalCode} isEdit={isEdit} disabled={isPending} />
+            <IdentitySection form={form} digitalCode={initialData?.digitalCode} recordId={initialData?.id} isEdit={isEdit} disabled={isPending} />
           )}
           {activeSection === 'contact' && <ContactLegalSection form={form} disabled={isPending} />}
           {activeSection === 'location' && <SupplierAddress form={form} disabled={isPending} />}

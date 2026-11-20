@@ -9,6 +9,7 @@ import { IdCard } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 
 import { SectionCard } from '@/components/card/section-card'
+import { EntityIdentityCell } from '@/components/image/entity-identity-cell'
 import { DataBadge } from '@/components/shared/data-badge'
 import { DetailRow } from '@/components/shared/detail-row'
 
@@ -25,6 +26,7 @@ export function IdentityCard({ supplier }: IdentityCardProps): ReactElement {
 
   return (
     <SectionCard title={t('detail.sections.identity')} description={t('detail.sections.identityDesc')} icon={IdCard}>
+      <EntityIdentityCell name={supplier.name} secondary={supplier.ref} imageUrl={supplier.imageUrl} className="mb-4 max-w-72" />
       <div className="grid grid-cols-1 gap-x-8 gap-y-0 md:grid-cols-2">
         <DetailRow label={t('detail.labels.code')} value={supplier.ref} mono />
         <DetailRow label={t('detail.labels.digitalCode')} value={supplier.digitalCode || '-'} mono />

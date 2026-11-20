@@ -4,7 +4,7 @@ import { Building } from 'lucide-react'
 
 import { SectionCard } from '@/components/card/section-card'
 import { FormFieldWrapper } from '@/components/form/form-field-wrapper'
-import { FileDropzone } from '@/components/image/file-dropzone'
+import { ImageDropzone } from '@/components/image/image-dropzone'
 import { Input } from '@/components/ui/input'
 import { Separator } from '@/components/ui/separator'
 
@@ -37,7 +37,7 @@ export function IdentitySection({ form, t }: IdentitySectionProps): ReactElement
         </div>
 
         <div className="flex justify-start">
-          <FileDropzone
+          <ImageDropzone
             value={logoBase64}
             onChange={(b64) => setValue('logo_web', (b64 as string) || null, { shouldDirty: true })}
             valueMode="base64"

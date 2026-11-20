@@ -41,9 +41,12 @@ export interface ProductRecord {
   uom_id: [number, string]
   tracking: 'lot' | 'serial' | 'none'
   active: boolean
+  imageUrl: string | null
   qc_specs?: ProductQcSpecs
   available_sizes?: string[]
   description?: string
+  image_1920?: string | null
+  profileImageUrl?: string | null
 }
 
 export interface FetchProductsParams {
@@ -52,6 +55,7 @@ export interface FetchProductsParams {
   search?: string
   category?: string | string[]
   tracking?: string | string[]
+  active?: boolean
   order?: string
 }
 

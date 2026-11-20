@@ -73,7 +73,9 @@
     "minYield": "Target Rendemen Minimal (%)",
     "minYieldPlaceholder": "Contoh: 2.5",
     "description": "Deskripsi & Catatan Khusus",
-    "descriptionPlaceholder": "Catatan penanganan, sifat organoleptik, dan aplikasi..."
+    "descriptionPlaceholder": "Catatan penanganan, sifat organoleptik, dan aplikasi...",
+    "primaryPhoto": "Foto Utama Produk",
+    "media": "Foto & Dokumen Produk"
   },
   "categories": {
     "essential_oils": "Minyak Atsiri (Pure 100%)",
@@ -121,7 +123,8 @@
       "category": "Kategori",
       "tracking": "Pelacakan",
       "allCategories": "Semua Kategori"
-    }
+    },
+    "allCategories": "Semua Kategori"
   },
   "deleteDialog": {
     "title": "Hapus Produk Atsiri",
@@ -134,7 +137,9 @@
     "updatedSuccess": "Spesifikasi produk atsiri {name} berhasil diperbarui.",
     "deletedSuccess": "Produk Atsiri {name} berhasil dihapus.",
     "deleteRestrictedError": "Produk Atsiri {name} tidak dapat dihapus karena sudah memiliki relasi inventaris atau nomor lot aktif di sistem.",
-    "errorOccurred": "Terjadi kesalahan pada sistem. Silakan coba kembali."
+    "errorOccurred": "Terjadi kesalahan pada sistem. Silakan coba kembali.",
+    "archivedSuccess": "Produk {name} berhasil diarsipkan",
+    "restoredSuccess": "Produk {name} berhasil dipulihkan"
   },
   "validation": {
     "defaultCodeMin": "Kode produk minimal {min} karakter.",
@@ -144,5 +149,23 @@
     "uomRequired": "Satuan ukur (UoM) wajib dipilih.",
     "shelfLifeMin": "Masa simpan minimal {min} bulan.",
     "extractionMethodRequired": "Metode ekstraksi wajib dipilih."
+  },
+  "detail": {
+    "title": "Detail Produk",
+    "description": "Informasi produk, klasifikasi, metadata ekspor, standar QC, foto, dan dokumen pendukung.",
+    "edit": "Ubah Produk",
+    "notFound": "Produk tidak ditemukan",
+    "months": "bulan",
+    "identityDescription": "Identitas komersial dan botani produk.",
+    "exportDescription": "Kode dan registrasi yang digunakan untuk ekspor.",
+    "qcDescription": "Parameter mutu produk berdasarkan monograf resmi."
+  },
+  "archiveDialog": {
+    "title": "Arsipkan Produk",
+    "description": "Produk {name} akan disembunyikan dari daftar aktif dan dapat dipulihkan kembali."
+  },
+  "restoreDialog": {
+    "title": "Pulihkan Produk",
+    "description": "Produk {name} akan kembali tersedia dalam daftar aktif."
   }
 }

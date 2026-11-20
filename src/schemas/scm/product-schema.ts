@@ -44,7 +44,9 @@ export function getProductFormSchema(t?: SchemaTranslator) {
     key_compounds: z.string().optional(),
     max_moisture_pct: z.number().optional(),
     min_yield_pct: z.number().optional(),
-    description: z.string().optional()
+    description: z.string().optional(),
+    image_1920: z.string().nullable().optional(),
+    profileImageUrl: z.string().nullable().optional()
   })
 }
 

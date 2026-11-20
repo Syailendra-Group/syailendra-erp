@@ -25,6 +25,7 @@ export interface SupplierRecord {
   supplierTypeName?: string
   supplierTypeCode?: string
   needsReview: boolean
+  imageUrl: string | null
   supplierGrade?: SupplierGrade
   digitalCode?: string
   ownerName?: string
@@ -85,6 +86,9 @@ export interface SupplierFormValues {
   categoryIds: number[]
   supplierTypeId?: number | null
   supplierTypeVerified: boolean
+  needsReview: boolean
+  image_1920?: string | null
+  profileImageUrl?: string | null
   ownerName?: string
   picName?: string
   picPosition?: string

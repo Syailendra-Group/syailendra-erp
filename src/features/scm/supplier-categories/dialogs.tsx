@@ -93,7 +93,7 @@ export function SupplierCategoryDialogs() {
         isView
         title={t('dialog.viewTitle')}
         description={t('dialog.viewDescription')}
-        maxWidth="sm:max-w-md"
+        maxWidth="sm:max-w-lg"
       >
         {selectedCategory && (
           <div className="space-y-4 pt-2">

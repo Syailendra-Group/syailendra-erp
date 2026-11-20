@@ -5,7 +5,7 @@ import { BadgeCheck, ChevronsUpDown, LogOut, Sparkles } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 
 import { SignOutDialog } from '@/components/dialog/sign-out-dialog'
-import { ImageViewer } from '@/components/image/image-viewer'
+import { EntityIdentityCell } from '@/components/image/entity-identity-cell'
 import {
   DropdownMenu,
   DropdownMenuContent,
@@ -41,13 +41,11 @@ export function NavUser(): ReactElement {
                 size="lg"
                 className="cursor-pointer text-white hover:bg-white/10 hover:text-white data-[state=open]:bg-white/15 data-[state=open]:text-white"
               >
-                <div className="flex aspect-square size-8 shrink-0 items-center justify-center overflow-hidden rounded-lg border border-white/20 shadow-xs">
-                  <ImageViewer src={null} alt={user.name} fallbackText={user.name} disabled className="size-full text-xs font-bold" />
-                </div>
-                <div className="grid flex-1 text-left text-sm leading-tight">
-                  <span className="truncate font-semibold text-white">{user.name}</span>
-                  <span className="truncate text-xs text-white/70">{user.email}</span>
-                </div>
+                <EntityIdentityCell
+                  name={user.name}
+                  secondary={user.email}
+                  className="min-w-0 flex-1 text-white [&_p:first-child]:text-white [&_p:last-child]:text-white/70"
+                />
                 <ChevronsUpDown className="ml-auto size-4 text-white/70" />
               </SidebarMenuButton>
             </DropdownMenuTrigger>
@@ -55,13 +53,7 @@ export function NavUser(): ReactElement {
             <DropdownMenuContent className="w-(--radix-dropdown-menu-trigger-width) min-w-56 rounded-lg" side="bottom" align="end" sideOffset={4}>
               <DropdownMenuLabel className="p-0 font-normal">
                 <div className="flex items-center gap-2 px-1 py-1.5 text-left text-sm">
-                  <div className="border-border/50 flex aspect-square size-8 shrink-0 items-center justify-center overflow-hidden rounded-lg border shadow-xs">
-                    <ImageViewer src={null} alt={user.name} fallbackText={user.name} disabled className="size-full text-xs font-bold" />
-                  </div>
-                  <div className="grid flex-1 text-left text-sm leading-tight">
-                    <span className="truncate font-semibold">{user.name}</span>
-                    <span className="text-muted-foreground truncate text-xs">{user.email}</span>
-                  </div>
+                  <EntityIdentityCell name={user.name} secondary={user.email} className="min-w-0 flex-1" />
                 </div>
               </DropdownMenuLabel>
 

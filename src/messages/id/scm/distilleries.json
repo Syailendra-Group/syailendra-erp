@@ -62,7 +62,9 @@
     "moqPlaceholder": "Contoh: 50",
     "addressDetail": "Alamat Detail Fasilitas",
     "addressDetailPlaceholder": "Contoh: Jalan Raya Sumbing KM 5, Blok Suling A",
-    "photo": "Foto Fasilitas Penyulingan"
+    "photo": "Foto Fasilitas",
+    "gallery": "Galeri Fasilitas",
+    "documents": "Dokumen Pendukung"
   },
   "table": {
     "code": "Kode Unit",

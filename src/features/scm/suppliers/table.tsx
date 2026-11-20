@@ -15,7 +15,7 @@ import { getSupplierColumns } from './columns'
 
 import type { ReactElement } from 'react'
 
-const FILTER_KEYS = ['categoryIds', 'supplierTypeId', 'needsReview']
+const FILTER_KEYS = ['categoryIds', 'supplierTypeId', 'needsReview', 'active']
 
 export function SuppliersTable(): ReactElement {
   // Translations
@@ -49,6 +49,7 @@ export function SuppliersTable(): ReactElement {
   const categoryFilter = getArrayFilter('categoryIds')
   const supplierTypeFilter = getArrayFilter('supplierTypeId')
   const needsReviewFilter = getArrayFilter('needsReview')
+  const activeFilter = getArrayFilter('active')
 
   const categoryFilterValues = useMemo(() => {
     const filter = columnFilters.find((f) => f.id === 'categoryIds')
@@ -75,7 +76,8 @@ export function SuppliersTable(): ReactElement {
     search,
     categoryIds: categoryFilterValues,
     supplierTypeId: supplierTypeFilterValue,
-    needsReview: needsReviewFilterValue
+    needsReview: needsReviewFilterValue,
+    active: activeFilter.length === 1 ? activeFilter[0] === 'active' : undefined
   })
 
   const items = useMemo(() => data?.items ?? [], [data?.items])
@@ -90,6 +92,16 @@ export function SuppliersTable(): ReactElement {
   // Filter options
   const filters = useMemo(
     () => [
+      {
+        columnId: 'active',
+        title: tCommon('status.title'),
+        options: [
+          { label: tCommon('status.active'), value: 'active' },
+          { label: tCommon('status.archived'), value: 'archived' }
+        ],
+        selectedValues: activeFilter,
+        onFilterChange: (values: string[] | undefined) => createColumnFiltersHandler(FILTER_KEYS)([{ id: 'active', value: values }])
+      },
       {
         columnId: 'categoryIds',
         title: t('table.columns.categories'),
@@ -127,7 +139,17 @@ export function SuppliersTable(): ReactElement {
         }
       }
     ],
-    [t, categoryOptions, supplierTypeOptions, categoryFilter, supplierTypeFilter, needsReviewFilter, createColumnFiltersHandler]
+    [
+      t,
+      tCommon,
+      categoryOptions,
+      supplierTypeOptions,
+      categoryFilter,
+      supplierTypeFilter,
+      needsReviewFilter,
+      activeFilter,
+      createColumnFiltersHandler
+    ]
   )
 
   // Table instance

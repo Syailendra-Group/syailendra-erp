@@ -175,8 +175,6 @@
     }
   },
   "dialog": {
-    "viewTitle": "Rincian Profil Pemasok",
-    "viewDescription": "Informasi lengkap legalitas, kategori, kontak, dan alamat pemasok.",
     "deleteTitle": "Hapus Pemasok",
     "deleteDescription": "Apakah Anda yakin ingin menghapus data pemasok {name}? Tindakan ini tidak dapat dibatalkan jika pemasok belum memiliki transaksi.",
     "archiveTitle": "Arsipkan Pemasok",

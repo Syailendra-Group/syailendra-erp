@@ -1,14 +1,13 @@
 /**
- * contact-card.tsx — Supplier contact channels, tax identity, banking and address inspection
+ * contact-card.tsx — Supplier contact channels, tax identity and banking inspection
  * Syailendra Group ERP (SCM Pillar)
  */
 
 'use client'
 
-import { Banknote, MapPin, Phone } from 'lucide-react'
+import { Banknote, Phone } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 
-import { AddressCard } from '@/components/card/address-card'
 import { SectionCard } from '@/components/card/section-card'
 import { DetailRow } from '@/components/shared/detail-row'
 
@@ -48,22 +47,6 @@ export function ContactCard({ supplier }: ContactCardProps): ReactElement {
           <DetailRow label={t('detail.labels.accountHolder')} value={supplier.bankInfo?.accountHolder || '-'} />
         </div>
       </SectionCard>
-
-      <div className="lg:col-span-2">
-        <AddressCard
-          title={t('detail.sections.address')}
-          description={t('detail.sections.addressDesc')}
-          icon={MapPin}
-          countryName={supplier.countryName}
-          stateName={supplier.stateName}
-          cityName={supplier.cityName || supplier.city}
-          districtName={supplier.districtName}
-          villageName={supplier.subDistrictName}
-          zipCode={supplier.zip}
-          addressDetail={supplier.addressDetail || supplier.street}
-          benchmark={supplier.addressBenchmark}
-        />
-      </div>
     </div>
   )
 }

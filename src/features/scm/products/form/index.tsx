@@ -5,7 +5,7 @@
 
 'use client'
 
-import { useMemo } from 'react'
+import { useMemo, useState } from 'react'
 import { zodResolver } from '@hookform/resolvers/zod'
 import { Save } from 'lucide-react'
 import { useTranslations } from 'next-intl'
@@ -13,13 +13,14 @@ import { useForm } from 'react-hook-form'
 import { toast } from 'sonner'
 
 import { LoadingButton } from '@/components/button/loading-button'
+import { PillTabs } from '@/components/button/pill-tabs'
 import { FormFieldWrapper } from '@/components/form/form-field-wrapper'
 import { ImageDropzone } from '@/components/image/image-dropzone'
 import { MediaSection } from '@/components/image/media-section'
+import { InfoAlert } from '@/components/shared/info-alert'
 import { PageHeader } from '@/components/shared/page-header'
 import { Button } from '@/components/ui/button'
 import { Card, CardContent } from '@/components/ui/card'
-import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs'
 import { useSaveProductMutation } from '@/hooks/scm/use-products'
 import { useRouter } from '@/i18n/navigation'
 import { getProductFormSchema } from '@/schemas/scm/product-schema'
@@ -74,11 +75,15 @@ export interface ProductFormProps {
   initialData?: ProductRecord | null
 }
 
+const SECTION_IDS = ['commercial', 'export', 'qc', 'assets'] as const
+type ProductSectionId = (typeof SECTION_IDS)[number]
+
 export function ProductForm({ initialData }: ProductFormProps): ReactElement {
   const isEdit = !!initialData
   const router = useRouter()
   const t = useTranslations('scm.products')
   const tCommon = useTranslations('common')
+  const [activeSection, setActiveSection] = useState<ProductSectionId>('commercial')
   const { mutateAsync: saveProduct, isPending } = useSaveProductMutation()
 
   const { categoryOptions, methodOptions, aromaOptions, trackingOptions, uomOptions } = useMemo(() => getProductOptions(t), [t])
@@ -142,33 +147,22 @@ export function ProductForm({ initialData }: ProductFormProps): ReactElement {
       <Card>
         <CardContent className="p-4 sm:p-6">
           <form id="product-page-form" onSubmit={handleSubmit(onSubmit)} className="space-y-4">
-            <Tabs defaultValue="commercial" className="w-full">
-              <TabsList className="grid w-full grid-cols-3">
-                <TabsTrigger value="commercial" className="text-xs">
-                  {t('sections.commercialAndBotanical')}
-                </TabsTrigger>
-                <TabsTrigger value="export" className="text-xs">
-                  {t('sections.exportCompliance')}
-                </TabsTrigger>
-                <TabsTrigger value="qc" className="text-xs">
-                  {t('sections.qcStandards')}
-                </TabsTrigger>
-              </TabsList>
+            <PillTabs
+              items={SECTION_IDS.map((id) => ({ id, label: t(`sections.tabs.${id}`) }))}
+              value={activeSection}
+              onValueChange={(value) => setActiveSection(value as ProductSectionId)}
+              tabListId="product-sections"
+              ariaLabel={t('sections.label')}
+              disabled={isPending}
+            />
 
-              <TabsContent value="commercial" className="space-y-4 pt-4">
-                <FormFieldWrapper id="image_1920" label={t('fields.primaryPhoto')} error={errors.image_1920?.message}>
-                  <ImageDropzone
-                    value={watch('image_1920') ?? watch('profileImageUrl') ?? null}
-                    onChange={(value) => setValue('image_1920', typeof value === 'string' ? value : null, { shouldDirty: true })}
-                    valueMode="base64"
-                    aspectRatio={1}
-                    maxImageSize={5}
-                    disabled={isPending}
-                  />
-                </FormFieldWrapper>
-                {isEdit && initialData ? (
-                  <MediaSection model="product.template" recordId={initialData.id} role="product" aspectRatio={1} disabled={isPending} />
-                ) : null}
+            <div
+              id={`product-sections-panel-${activeSection}`}
+              role="tabpanel"
+              aria-labelledby={`product-sections-tab-${activeSection}`}
+              className="space-y-4 pt-2"
+            >
+              {activeSection === 'commercial' && (
                 <ProductCommercialSection
                   register={register}
                   errors={errors}
@@ -181,16 +175,32 @@ export function ProductForm({ initialData }: ProductFormProps): ReactElement {
                   trackingOptions={trackingOptions}
                   t={t}
                 />
-              </TabsContent>
+              )}
 
-              <TabsContent value="export" className="space-y-4 pt-4">
-                <ProductExportSection register={register} errors={errors} t={t} />
-              </TabsContent>
+              {activeSection === 'export' && <ProductExportSection register={register} errors={errors} t={t} />}
 
-              <TabsContent value="qc" className="space-y-4 pt-2">
-                <ProductQcSection register={register} errors={errors} t={t} />
-              </TabsContent>
-            </Tabs>
+              {activeSection === 'qc' && <ProductQcSection register={register} errors={errors} t={t} />}
+
+              {activeSection === 'assets' && (
+                <div className="space-y-4">
+                  <FormFieldWrapper id="image_1920" label={t('fields.primaryPhoto')} error={errors.image_1920?.message}>
+                    <ImageDropzone
+                      value={watch('image_1920') ?? watch('profileImageUrl') ?? null}
+                      onChange={(value) => setValue('image_1920', typeof value === 'string' ? value : null, { shouldDirty: true })}
+                      valueMode="base64"
+                      aspectRatio={1}
+                      maxImageSize={5}
+                      disabled={isPending}
+                    />
+                  </FormFieldWrapper>
+                  {isEdit && initialData ? (
+                    <MediaSection model="product.template" recordId={initialData.id} role="product" aspectRatio={1} disabled={isPending} />
+                  ) : (
+                    <InfoAlert variant="info" title={t('sections.assetsPendingTitle')} description={t('sections.assetsPendingDescription')} />
+                  )}
+                </div>
+              )}
+            </div>
           </form>
         </CardContent>
       </Card>

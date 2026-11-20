@@ -8,7 +8,6 @@ import { keepPreviousData, useMutation, useQuery, useQueryClient } from '@tansta
 import {
   deleteProductAction,
   getProductByIdAction,
-  getProductCategoryCountsAction,
   getProductsPaginatedAction,
   saveProductAction,
   toggleProductActiveAction
@@ -33,10 +32,6 @@ export function useProductsPaginatedQuery(params: FetchProductsParams = {}) {
     },
     placeholderData: keepPreviousData
   })
-}
-
-export function useProductCategoryCountsQuery() {
-  return useQuery({ queryKey: [...productKeys.all, 'category-counts'], queryFn: getProductCategoryCountsAction, staleTime: 60_000 })
 }
 
 export function useProductDetailQuery(id: number) {

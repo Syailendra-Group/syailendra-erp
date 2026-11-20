@@ -4,11 +4,10 @@ import { useMemo } from 'react'
 import { getCoreRowModel, useReactTable } from '@tanstack/react-table'
 import { useTranslations } from 'next-intl'
 
-import { PillTabs } from '@/components/button/pill-tabs'
 import { DataTable } from '@/components/data-table'
 import { InfoAlert } from '@/components/shared/info-alert'
 import { useProduct } from '@/contexts/scm/product.context'
-import { useProductCategoryCountsQuery, useProductsPaginatedQuery } from '@/hooks/scm/use-products'
+import { useProductsPaginatedQuery } from '@/hooks/scm/use-products'
 import { useDataTableUrlState } from '@/hooks/use-data-table-url-state'
 
 import { getColumns } from './columns'
@@ -39,7 +38,6 @@ export function ProductsTable(): ReactElement {
     getArrayFilter,
     isUpdating,
     resetFilters,
-    updateUrl,
     onPaginationChange,
     onSortingChange,
     onGlobalFilterChange,
@@ -51,7 +49,6 @@ export function ProductsTable(): ReactElement {
   const trackingList = getArrayFilter('tracking')
   const activeList = getArrayFilter('active')
   const activeFilter = activeList.length === 1 ? activeList[0] === 'active' : undefined
-  const selectedCategory = categoryList.length === 1 ? (categoryList[0] as ProductCategory) : undefined
   const {
     data: result,
     isLoading,
@@ -65,7 +62,6 @@ export function ProductsTable(): ReactElement {
     active: activeFilter,
     order: orderOdoo
   })
-  const { data: counts } = useProductCategoryCountsQuery()
   const records = result?.records ?? []
   const totalCount = result?.totalCount ?? 0
 
@@ -78,6 +74,13 @@ export function ProductsTable(): ReactElement {
   // Filter options
   const filterConfigs = useMemo(
     () => [
+      {
+        columnId: 'category',
+        title: t('table.filters.category'),
+        options: CATEGORIES.map((category) => ({ label: t(`categories.${category}`), value: category })),
+        selectedValues: categoryList,
+        onFilterChange: (values: string[] | undefined) => createColumnFiltersHandler(FILTER_KEYS)([{ id: 'category', value: values }])
+      },
       {
         columnId: 'tracking',
         title: t('table.filters.tracking'),
@@ -96,7 +99,7 @@ export function ProductsTable(): ReactElement {
         onFilterChange: (values: string[] | undefined) => createColumnFiltersHandler(FILTER_KEYS)([{ id: 'active', value: values }])
       }
     ],
-    [t, tCommon, trackingList, activeList, createColumnFiltersHandler]
+    [t, tCommon, categoryList, trackingList, activeList, createColumnFiltersHandler]
   )
 
   // Table instance
@@ -115,40 +118,19 @@ export function ProductsTable(): ReactElement {
     manualFiltering: true
   })
 
-  const categoryTabs = [
-    { id: 'all', label: t('table.allCategories'), badge: counts ? Object.values(counts).reduce((sum, count) => sum + count, 0) : undefined },
-    ...CATEGORIES.map((category) => ({ id: category, label: t(`categories.${category}`), badge: counts?.[category] ?? 0 }))
-  ]
-  const selectCategory = (category: string) => {
-    updateUrl({ category: category === 'all' ? undefined : category, page: 1 })
-  }
-
   // Render datatable layout
   if (isError) return <InfoAlert variant="destructive" title={t('table.errorTitle')} description={t('table.errorDescription')} />
   return (
     <div className="space-y-4">
-      <PillTabs
-        items={categoryTabs}
-        value={selectedCategory ?? 'all'}
-        onValueChange={selectCategory}
-        tabListId="product-categories"
-        ariaLabel={t('table.filters.category')}
+      <DataTable
+        table={table}
+        showSkeleton={isLoading}
+        isUpdating={isUpdating}
+        searchPlaceholder={t('table.searchPlaceholder')}
+        filters={filterConfigs}
+        onReset={resetFilters}
+        emptyMessage={t('table.emptyState')}
       />
-      <div
-        id={`product-categories-panel-${selectedCategory ?? 'all'}`}
-        role="tabpanel"
-        aria-labelledby={`product-categories-tab-${selectedCategory ?? 'all'}`}
-      >
-        <DataTable
-          table={table}
-          showSkeleton={isLoading}
-          isUpdating={isUpdating}
-          searchPlaceholder={t('table.searchPlaceholder')}
-          filters={filterConfigs}
-          onReset={resetFilters}
-          emptyMessage={t('table.emptyState')}
-        />
-      </div>
     </div>
   )
 }

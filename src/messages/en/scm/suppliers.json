@@ -175,8 +175,6 @@
     }
   },
   "dialog": {
-    "viewTitle": "Supplier Profile Details",
-    "viewDescription": "Complete legal, category, contact, and address details of the supplier.",
     "deleteTitle": "Delete Supplier",
     "deleteDescription": "Are you sure you want to delete supplier {name}? This action cannot be undone if the supplier has no prior transactions.",
     "archiveTitle": "Archive Supplier",

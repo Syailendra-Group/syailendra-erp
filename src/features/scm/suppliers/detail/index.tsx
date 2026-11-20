@@ -12,6 +12,7 @@ import { LinkButton } from '@/components/button/link-button'
 import { AddressCard } from '@/components/card/address-card'
 import { SummaryCardGrid } from '@/components/card/summary-card'
 import { MediaGallery } from '@/components/image/media-gallery'
+import { LocationMapCard } from '@/components/map/location-map-card'
 import { DataBadge } from '@/components/shared/data-badge'
 import { PageHeader } from '@/components/shared/page-header'
 
@@ -85,17 +86,28 @@ export function SupplierDetail({ supplier }: SupplierDetailProps): ReactElement 
 
       <MediaGallery model="res.partner" recordId={supplier.id} role="gallery" readOnly legacyImageUrl={supplier.imageUrl} />
 
-      <AddressCard
-        countryName={supplier.countryName}
-        stateName={supplier.stateName}
-        cityName={supplier.cityName}
-        districtName={supplier.districtName}
-        zipCode={supplier.zip}
-        addressDetail={supplier.addressDetail}
-        benchmark={supplier.addressBenchmark}
-        title={t('detail.sections.address')}
-        description={t('detail.sections.addressDesc')}
-      />
+      <div className="grid grid-cols-1 items-start gap-4 lg:grid-cols-2">
+        <AddressCard
+          countryName={supplier.countryName}
+          stateName={supplier.stateName}
+          cityName={supplier.cityName}
+          districtName={supplier.districtName}
+          villageName={supplier.subDistrictName}
+          zipCode={supplier.zip}
+          addressDetail={supplier.addressDetail || supplier.street}
+          benchmark={supplier.addressBenchmark}
+          title={t('detail.sections.address')}
+          description={t('detail.sections.addressDesc')}
+        />
+        <LocationMapCard
+          latitude={supplier.latitude}
+          longitude={supplier.longitude}
+          title={supplier.name}
+          description={supplier.cityName || supplier.stateName}
+          markerLabel={supplier.name}
+          markerPopup={supplier.addressDetail || supplier.street}
+        />
+      </div>
     </div>
   )
 }

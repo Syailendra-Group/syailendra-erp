@@ -9,9 +9,11 @@ import { Edit2, Factory, Flame, MapPin, Star } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 
 import { LinkButton } from '@/components/button/link-button'
+import { AddressCard } from '@/components/card/address-card'
 import { SectionCard } from '@/components/card/section-card'
 import { SummaryCardGrid } from '@/components/card/summary-card'
 import { MediaGallery } from '@/components/image/media-gallery'
+import { LocationMapCard } from '@/components/map/location-map-card'
 import { DataBadge } from '@/components/shared/data-badge'
 import { DetailRow } from '@/components/shared/detail-row'
 import { PageHeader } from '@/components/shared/page-header'
@@ -147,20 +149,26 @@ export function DistilleryDetail({ distillery }: DistilleryDetailProps): ReactEl
         legacyImageUrl={`/api/odoo/image/syailendra.distillery/${distillery.id}/photo_distillery?size=512`}
       />
 
-      <SectionCard title={t('sections.location')} description={t('sections.locationDesc')} icon={MapPin}>
-        <div className="grid grid-cols-1 gap-x-8 gap-y-0 md:grid-cols-2">
-          <DetailRow label={t('details.labels.address')} value={distillery.addressDetail || '-'} />
-          <DetailRow label={t('details.labels.province')} value={distillery.stateName || '-'} />
-          <DetailRow label={t('details.labels.city')} value={distillery.cityName || '-'} />
-          <DetailRow label={t('details.labels.district')} value={distillery.districtName || '-'} />
-          <DetailRow label={t('details.labels.subdistrict')} value={distillery.subdistrictName || '-'} />
-          <DetailRow
-            label={t('details.labels.coordinates')}
-            value={distillery.latitude != null && distillery.longitude != null ? `${distillery.latitude}, ${distillery.longitude}` : '-'}
-            mono
-          />
-        </div>
-      </SectionCard>
+      <div className="grid grid-cols-1 items-start gap-4 lg:grid-cols-2">
+        <AddressCard
+          title={t('sections.location')}
+          description={t('sections.locationDesc')}
+          countryName="Indonesia"
+          stateName={distillery.stateName}
+          cityName={distillery.cityName}
+          districtName={distillery.districtName}
+          villageName={distillery.subdistrictName}
+          addressDetail={distillery.addressDetail}
+        />
+        <LocationMapCard
+          latitude={distillery.latitude ?? undefined}
+          longitude={distillery.longitude ?? undefined}
+          title={distillery.name}
+          description={distillery.cityName || distillery.stateName || undefined}
+          markerLabel={distillery.name}
+          markerPopup={distillery.addressDetail || undefined}
+        />
+      </div>
     </div>
   )
 }

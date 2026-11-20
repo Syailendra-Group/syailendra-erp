@@ -11,7 +11,16 @@
   "sections": {
     "commercialAndBotanical": "Commercial & Botanical Identity",
     "exportCompliance": "Global Export Compliance & Regulations",
-    "qcStandards": "Physicochemical Testing Standards (ISO Lab)"
+    "qcStandards": "Physicochemical Testing Standards (ISO Lab)",
+    "tabs": {
+      "commercial": "Commercial & Botanical Identity",
+      "export": "Export Compliance & Regulations",
+      "qc": "Testing Standards (ISO Lab)",
+      "assets": "Documents & Assets"
+    },
+    "label": "Product form sections",
+    "assetsPendingTitle": "Gallery & documents become available after saving",
+    "assetsPendingDescription": "The primary photo can be uploaded now. Save the product first to add gallery photos and supporting documents."
   },
   "dialog": {
     "addTitle": "Register New Product",
@@ -121,10 +130,8 @@
     "errorDescription": "The data could not be fetched from Odoo. Check the backend connection and reload the page.",
     "filters": {
       "category": "Category",
-      "tracking": "Tracking",
-      "allCategories": "All Categories"
-    },
-    "allCategories": "All Categories"
+      "tracking": "Tracking"
+    }
   },
   "deleteDialog": {
     "title": "Delete Product",

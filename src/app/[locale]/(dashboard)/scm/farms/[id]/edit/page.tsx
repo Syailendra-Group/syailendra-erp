@@ -1,10 +1,12 @@
 'use client'
 
 import { use } from 'react'
-import { Loader2 } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 
+import { PageHeader } from '@/components/shared/page-header'
+import { DataBadge } from '@/components/shared/data-badge'
 import { FarmForm } from '@/features/scm/farms/form'
+import { FarmFormSkeleton } from '@/features/scm/farms/skeleton'
 import { useFarmDetail } from '@/hooks/scm/use-farms'
 
 interface PageProps {
@@ -17,21 +19,20 @@ interface PageProps {
 export default function FarmEditPage({ params }: PageProps) {
   const resolvedParams = use(params)
   const id = Number(resolvedParams.id)
-  const tCommon = useTranslations('common')
   const t = useTranslations('scm.farms')
   const { data: farm, isLoading } = useFarmDetail(id)
 
   if (isLoading) {
-    return (
-      <div className="text-muted-foreground flex h-64 items-center justify-center gap-2 text-xs">
-        <Loader2 className="h-4 w-4 animate-spin" />
-        <span>{tCommon('status.loading')}</span>
-      </div>
-    )
+    return <FarmFormSkeleton />
   }
 
   if (!farm) {
-    return <div className="text-muted-foreground flex h-64 items-center justify-center text-xs">{t('detail.notFound')}</div>
+    return (
+      <div className="space-y-6">
+        <PageHeader showBack backHref="/scm/farms" title={t('detail.notFound')} />
+        <DataBadge variant="neutral">{t('detail.notFound')}</DataBadge>
+      </div>
+    )
   }
 
   return <FarmForm initialData={farm} />

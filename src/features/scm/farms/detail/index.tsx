@@ -13,6 +13,7 @@ import { AddressCard } from '@/components/card/address-card'
 import { SectionCard } from '@/components/card/section-card'
 import { SummaryCardGrid } from '@/components/card/summary-card'
 import { MediaGallery } from '@/components/image/media-gallery'
+import { LocationMapCard } from '@/components/map/location-map-card'
 import { DataBadge } from '@/components/shared/data-badge'
 import { DetailRow } from '@/components/shared/detail-row'
 import { PageHeader } from '@/components/shared/page-header'
@@ -90,16 +91,26 @@ export function FarmDetail({ farm }: FarmDetailProps): ReactElement {
         </div>
       </SectionCard>
 
-      <AddressCard
-        title={t('details.sections.address')}
-        description={t('details.sections.addressDesc')}
-        countryName="Indonesia"
-        stateName={farm.stateName}
-        cityName={farm.cityName}
-        districtName={farm.districtName}
-        villageName={farm.subdistrictName}
-        addressDetail={farm.addressDetail}
-      />
+      <div className="grid grid-cols-1 items-start gap-4 lg:grid-cols-2">
+        <AddressCard
+          title={t('details.sections.address')}
+          description={t('details.sections.addressDesc')}
+          countryName="Indonesia"
+          stateName={farm.stateName}
+          cityName={farm.cityName}
+          districtName={farm.districtName}
+          villageName={farm.subdistrictName}
+          addressDetail={farm.addressDetail}
+        />
+        <LocationMapCard
+          latitude={farm.latitude ?? undefined}
+          longitude={farm.longitude ?? undefined}
+          title={farm.name}
+          description={farm.cityName || farm.stateName || undefined}
+          markerLabel={farm.name}
+          markerPopup={farm.addressDetail || undefined}
+        />
+      </div>
 
       <MediaGallery
         model="syailendra.farm"

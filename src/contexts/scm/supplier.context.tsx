@@ -6,7 +6,7 @@ import { useRouter } from 'next/navigation'
 import type { SupplierRecord } from '@/types/scm/supplier'
 import type { ReactElement, ReactNode } from 'react'
 
-export type SupplierDialogType = 'view' | 'archive' | 'restore' | 'delete' | null
+export type SupplierDialogType = 'archive' | 'restore' | 'delete' | null
 
 export interface SupplierContextType {
   open: SupplierDialogType
@@ -38,10 +38,12 @@ export function SupplierProvider({ children }: { children: ReactNode }): ReactEl
     [router]
   )
 
-  const handleView = useCallback((supplier: SupplierRecord) => {
-    setSelectedSupplier(supplier)
-    setOpen('view')
-  }, [])
+  const handleView = useCallback(
+    (supplier: SupplierRecord) => {
+      router.push(`/scm/suppliers/${supplier.id}`)
+    },
+    [router]
+  )
 
   const handleDelete = useCallback((supplier: SupplierRecord) => {
     setSelectedSupplier(supplier)

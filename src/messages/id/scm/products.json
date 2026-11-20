@@ -11,7 +11,16 @@
   "sections": {
     "commercialAndBotanical": "Identitas Komersial & Botani",
     "exportCompliance": "Regulasi & Kepatuhan Ekspor Global",
-    "qcStandards": "Standar Pengujian Fisikokimia (ISO Lab)"
+    "qcStandards": "Standar Pengujian Fisikokimia (ISO Lab)",
+    "tabs": {
+      "commercial": "Identitas Komersial & Botani",
+      "export": "Regulasi & Kepatuhan Ekspor",
+      "qc": "Standar Pengujian (ISO Lab)",
+      "assets": "Dokumen & Aset"
+    },
+    "label": "Seksi formulir produk",
+    "assetsPendingTitle": "Galeri & dokumen tersedia setelah produk disimpan",
+    "assetsPendingDescription": "Foto utama dapat diunggah sekarang. Simpan produk terlebih dahulu untuk menambahkan galeri foto dan dokumen pendukung."
   },
   "dialog": {
     "addTitle": "Registrasi Produk Atsiri Baru",
@@ -121,10 +130,8 @@
     "errorDescription": "Data tidak dapat diambil dari Odoo. Periksa koneksi backend lalu muat ulang halaman.",
     "filters": {
       "category": "Kategori",
-      "tracking": "Pelacakan",
-      "allCategories": "Semua Kategori"
-    },
-    "allCategories": "Semua Kategori"
+      "tracking": "Pelacakan"
+    }
   },
   "deleteDialog": {
     "title": "Hapus Produk Atsiri",

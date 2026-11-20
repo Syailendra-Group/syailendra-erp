@@ -218,20 +218,6 @@ export async function persistProduct(values: ProductFormValues): Promise<{ succe
   }
 }
 
-export async function fetchProductCategoryCounts(): Promise<Record<ProductCategory, number>> {
-  const categories: ProductCategory[] = ['essential_oils', 'natural_isolates', 'carrier_oils', 'hydrosols', 'raw_biomass', 'packaging']
-  const counts = await Promise.all(
-    categories.map(
-      async (category) =>
-        [
-          category,
-          await odoo.client.searchCount('product.template', [['atsiri_category', '=', category]], undefined, { context: { active_test: false } })
-        ] as const
-    )
-  )
-  return Object.fromEntries(counts) as Record<ProductCategory, number>
-}
-
 export async function toggleProductActive(id: number, active: boolean): Promise<{ success: boolean; error?: string }> {
   try {
     await odoo.client.write('product.template', [id], { active })

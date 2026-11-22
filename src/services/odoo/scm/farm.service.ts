@@ -190,15 +190,29 @@ export class FarmService {
     return rows.length > 0 ? mapFarm(rows[0]) : null
   }
 
-  static async getPartnerOptions(allowedCompanyIds?: number[]): Promise<FarmPartnerOption[]> {
-    const rows = await odooClient.searchRead<{ id: number; name: string; ref: string | false }>(
-      'res.partner',
-      ['|', ['supplier_rank', '>', 0], ['ref', 'like', 'SUP%']],
-      ['id', 'name', 'ref'],
-      { order: 'name asc', limit: 300, allowedCompanyIds, context: { active_test: false } }
-    )
+  static async getPartnerOptions(search?: string, allowedCompanyIds?: number[]): Promise<FarmPartnerOption[]> {
+    const term = search?.trim()
+    const supplierScope: OdooDomain = ['|', ['supplier_rank', '>', 0], ['ref', 'like', 'SUP%']]
+    const domain: OdooDomain = term ? ['&', ...supplierScope, ['name', 'ilike', term]] : supplierScope
 
-    return rows.map((row) => ({ id: row.id, name: row.name, ref: toText(row.ref) }))
+    const rows = await odooClient.searchRead<{
+      id: number
+      name: string
+      ref: string | false
+      supplier_type_id: [number, string] | false
+    }>('res.partner', domain, ['id', 'name', 'ref', 'supplier_type_id'], {
+      order: 'name asc',
+      limit: 50,
+      allowedCompanyIds,
+      context: { active_test: false }
+    })
+
+    return rows.map((row) => ({
+      id: row.id,
+      name: row.name,
+      ref: toText(row.ref),
+      typeName: Array.isArray(row.supplier_type_id) ? row.supplier_type_id[1] : undefined
+    }))
   }
 
   static async createFarm(data: FarmFormValues, allowedCompanyIds?: number[]): Promise<number> {

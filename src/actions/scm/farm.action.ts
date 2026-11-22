@@ -45,9 +45,9 @@ export async function fetchFarmByIdAction(id: number): Promise<FarmRecord | null
   return await FarmService.getFarmById(id, await companyScope())
 }
 
-export async function fetchFarmPartnerOptionsAction(): Promise<FarmPartnerOption[]> {
+export async function fetchFarmPartnerOptionsAction(search?: string): Promise<FarmPartnerOption[]> {
   await requireSession()
-  return await FarmService.getPartnerOptions(await companyScope())
+  return await FarmService.getPartnerOptions(search, await companyScope())
 }
 
 export async function createFarmAction(values: FarmFormValues): Promise<{ success: boolean; id?: number; error?: string }> {

@@ -6,12 +6,10 @@
 'use client'
 
 import { useCallback, useMemo, useState } from 'react'
-import { useSearchParams } from 'next/navigation'
 import { getCoreRowModel, useReactTable } from '@tanstack/react-table'
 import { useLocale, useTranslations } from 'next-intl'
 
 import { DataTable } from '@/components/data-table'
-import { Input } from '@/components/ui/input'
 import { useDataTableUrlState } from '@/hooks/use-data-table-url-state'
 
 import { getSubmissionColumns } from './columns'
@@ -39,13 +37,15 @@ export function SubmissionsTable(): ReactElement {
     pagination,
     sorting,
     columnFilters,
+    dateFrom,
+    dateTo,
     isUpdating,
     resetFilters,
+    onDateRangeChange,
     onPaginationChange,
     onSortingChange,
     onGlobalFilterChange,
-    createColumnFiltersHandler,
-    updateUrl
+    createColumnFiltersHandler
   } = useDataTableUrlState({
     defaultSort: 'submitted_at.desc',
     filterKeys: FILTER_KEYS,
@@ -55,10 +55,6 @@ export function SubmissionsTable(): ReactElement {
       submittedAt: 'submitted_at'
     }
   })
-
-  const searchParams = useSearchParams()
-  const dateFrom = searchParams.get('date_from') || ''
-  const dateTo = searchParams.get('date_to') || ''
 
   const statusFilter = columnFilters.find((f) => f.id === 'status')?.value as string[] | undefined
   const kindFilter = columnFilters.find((f) => f.id === 'submission_type')?.value as string[] | undefined
@@ -125,30 +121,15 @@ export function SubmissionsTable(): ReactElement {
 
   const showSkeleton = isLoading || (isFetching && records.length === 0)
 
-  const handleDateChange = useCallback(
-    (key: 'date_from' | 'date_to', value: string) => {
-      updateUrl({ [key]: value || undefined, page: 1 })
-    },
-    [updateUrl]
-  )
-
   return (
     <div className="space-y-3">
-      <div className="flex flex-col gap-2 sm:flex-row sm:items-center sm:justify-between">
-        <div className="flex items-center gap-1">
-          <span className="text-muted-foreground text-xs">{t('filters.dateFrom')}</span>
-          <Input type="date" value={dateFrom} onChange={(event) => handleDateChange('date_from', event.target.value)} className="h-7 w-36 text-xs" />
-          <span className="text-muted-foreground mx-1 text-xs">{t('filters.dateTo')}</span>
-          <Input type="date" value={dateTo} onChange={(event) => handleDateChange('date_to', event.target.value)} className="h-7 w-36 text-xs" />
-        </div>
-      </div>
-
       <DataTable
         table={table}
         showSkeleton={showSkeleton}
         isUpdating={isUpdating}
         onReset={resetFilters}
         filters={filters}
+        dateRange={{ enabled: true, from: dateFrom, to: dateTo, onChange: onDateRangeChange }}
         emptyMessage={t('table.emptyState')}
       />
 

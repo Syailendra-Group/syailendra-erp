@@ -19,7 +19,10 @@
     "performanceDesc": "Distillation duration, temperature, steam pressure, yield, and production capacity",
     "location": "Location & Documentation",
     "locationDesc": "Administrative region, detailed address, GPS coordinates, and facility photo",
-    "label": "Distillation facility form sections"
+    "label": "Distillation facility form sections",
+    "assets": "Documents & Assets",
+    "assetsPendingTitle": "Gallery & documents become available after saving",
+    "assetsPendingDescription": "The primary photo can be uploaded now. Save the record first to add gallery photos and supporting documents."
   },
   "fields": {
     "code": "Facility Code",

@@ -81,8 +81,11 @@
       "identity": "Identity",
       "terroir": "Address & Terroir",
       "cultivation": "Cultivation",
-      "sustainability": "Sustainability"
-    }
+      "sustainability": "Sustainability",
+      "assets": "Documents & Assets"
+    },
+    "assetsPendingTitle": "Gallery & documents become available after saving",
+    "assetsPendingDescription": "The primary photo can be uploaded now. Save the record first to add gallery photos and supporting documents."
   },
   "detail": {
     "notFound": "Farm record not found.",

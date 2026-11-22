@@ -172,8 +172,11 @@
       "finance": "Finance & Bank",
       "esg": "ESG & Evaluation",
       "label": "Supplier form sections",
-      "errors": "{count} errors"
-    }
+      "errors": "{count} errors",
+      "assets": "Documents & Assets"
+    },
+    "assetsPendingTitle": "Gallery & documents become available after saving",
+    "assetsPendingDescription": "The primary photo can be uploaded now. Save the record first to add gallery photos and supporting documents."
   },
   "dialog": {
     "deleteTitle": "Delete Supplier",
@@ -199,7 +202,8 @@
     "percentageRange": "Percentage must be between 0 and 100",
     "maxLength": "Maximum {max} characters",
     "integer": "Must be a whole number",
-    "minValue": "Minimum value is {min}"
+    "minValue": "Minimum value is {min}",
+    "categoryNotAssignable": "Supplier categories include invalid options. Please reselect active sub-categories only."
   },
   "toast": {
     "createSuccess": "New supplier registered successfully",

@@ -16,6 +16,14 @@ export interface UseDataTableUrlStateOptions {
   sortMap?: Record<string, string>
 }
 
+export interface DataTableDateRangeConfig {
+  /** Off by default: a table opts in explicitly. */
+  enabled?: boolean
+  from?: string
+  to?: string
+  onChange: (next: { from?: string; to?: string }) => void
+}
+
 export interface UseDataTableUrlStateReturn {
   page: number
   perPage: number
@@ -25,10 +33,13 @@ export interface UseDataTableUrlStateReturn {
   pagination: PaginationState
   sorting: SortingState
   columnFilters: ColumnFiltersState
+  dateFrom: string
+  dateTo: string
   isUpdating: boolean
   getArrayFilter: (key: string) => string[]
   updateUrl: (updates: Record<string, string | number | undefined | null>) => void
   resetFilters: () => void
+  onDateRangeChange: (next: { from?: string; to?: string }) => void
   onPaginationChange: (updater: PaginationState | ((old: PaginationState) => PaginationState)) => void
   onSortingChange: (updater: SortingState | ((old: SortingState) => SortingState)) => void
   onGlobalFilterChange: (val: string | number | boolean | null | undefined) => void

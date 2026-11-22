@@ -172,8 +172,11 @@
       "finance": "Keuangan & Bank",
       "esg": "ESG & Penilaian",
       "label": "Bagian formulir pemasok",
-      "errors": "{count} kesalahan"
-    }
+      "errors": "{count} kesalahan",
+      "assets": "Dokumen & Aset"
+    },
+    "assetsPendingTitle": "Galeri & dokumen tersedia setelah data disimpan",
+    "assetsPendingDescription": "Foto utama dapat diunggah sekarang. Simpan data terlebih dahulu untuk menambahkan galeri foto dan dokumen pendukung."
   },
   "dialog": {
     "deleteTitle": "Hapus Pemasok",
@@ -199,7 +202,8 @@
     "percentageRange": "Persentase harus berada di antara 0 dan 100",
     "maxLength": "Maksimal {max} karakter",
     "integer": "Harus berupa bilangan bulat",
-    "minValue": "Nilai minimal {min}"
+    "minValue": "Nilai minimal {min}",
+    "categoryNotAssignable": "Kategori pemasok mencakup pilihan yang tidak valid. Silakan pilih ulang hanya sub-kategori aktif."
   },
   "toast": {
     "createSuccess": "Pemasok baru berhasil didaftarkan",

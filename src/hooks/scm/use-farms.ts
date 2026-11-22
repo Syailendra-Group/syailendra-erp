@@ -26,7 +26,7 @@ export const farmKeys = {
   list: (params: FetchFarmsParams) => [...farmKeys.lists(), params] as const,
   detail: (id: number) => [...farmKeys.all, 'detail', id] as const,
   table: (params: FetchFarmsParams) => [...farmKeys.all, 'table', params] as const,
-  partners: () => [...farmKeys.all, 'partners'] as const
+  partners: (search: string) => [...farmKeys.all, 'partners', search] as const
 }
 
 export function useFarms(params: FetchFarmsParams = {}) {
@@ -55,11 +55,12 @@ export function useFarmDetail(id: number) {
   })
 }
 
-export function useFarmPartnerOptions() {
+export function useFarmPartnerOptions(search = '') {
   return useQuery({
-    queryKey: farmKeys.partners(),
-    queryFn: () => fetchFarmPartnerOptionsAction(),
-    staleTime: 600_000
+    queryKey: farmKeys.partners(search),
+    queryFn: () => fetchFarmPartnerOptionsAction(search),
+    placeholderData: keepPreviousData,
+    staleTime: 60_000
   })
 }
 

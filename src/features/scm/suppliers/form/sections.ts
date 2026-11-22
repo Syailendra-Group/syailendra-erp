@@ -2,7 +2,7 @@ import type { SupplierFormValues } from '@/types/scm/supplier'
 import type { SupplierSectionId } from '@/types/scm/supplier-form'
 import type { FieldErrors } from 'react-hook-form'
 
-export const sectionIds = ['identity', 'contact', 'location', 'finance', 'esg'] as const
+export const sectionIds = ['identity', 'contact', 'location', 'finance', 'esg', 'assets'] as const
 
 export const fieldSections = {
   ref: 'identity',
@@ -54,7 +54,7 @@ export const fieldSections = {
 } satisfies Record<keyof SupplierFormValues, SupplierSectionId>
 
 export function getSectionErrors(errors: FieldErrors<SupplierFormValues>) {
-  const counts: Record<SupplierSectionId, number> = { identity: 0, contact: 0, location: 0, finance: 0, esg: 0 }
+  const counts: Record<SupplierSectionId, number> = { identity: 0, contact: 0, location: 0, finance: 0, esg: 0, assets: 0 }
   let first: keyof SupplierFormValues | undefined
   for (const field of Object.keys(fieldSections) as (keyof SupplierFormValues)[]) {
     if (errors[field]) {

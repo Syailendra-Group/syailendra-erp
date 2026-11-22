@@ -108,6 +108,7 @@ export const sidebarData: SidebarData = {
       {
         items: [
           { titleKey: 'items.overview', url: '/scm', icon: LayoutDashboard },
+          { titleKey: 'items.submissions', url: '/scm/submissions', icon: Inbox },
           {
             titleKey: 'groups.scm_master_data',
             icon: Database,
@@ -123,7 +124,6 @@ export const sidebarData: SidebarData = {
         titleKey: 'groups.mitra_origin',
         items: [
           { titleKey: 'items.suppliers', url: '/scm/suppliers', icon: FileSpreadsheet },
-          { titleKey: 'items.submissions', url: '/scm/submissions', icon: Inbox },
           { titleKey: 'items.farms', url: '/scm/farms', icon: MapPin },
           { titleKey: 'items.distilleries', url: '/scm/distilleries', icon: Factory },
           { titleKey: 'items.products', url: '/scm/products', icon: Droplets }

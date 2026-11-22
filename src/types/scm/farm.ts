@@ -47,6 +47,8 @@ export interface FarmPartnerOption {
   id: number
   name: string
   ref: string
+  /** Jenis Supplier label, shown so the operator can tell a farmer from a cooperative. */
+  typeName?: string
 }
 
 export interface FetchFarmsParams {

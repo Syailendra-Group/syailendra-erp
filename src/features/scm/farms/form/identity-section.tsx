@@ -20,10 +20,11 @@ export interface IdentitySectionProps {
   form: UseFormReturn<FarmFormValues>
   partnerOptions: FarmPartnerOption[]
   commodityOptions: CommodityOption[]
+  onPartnerSearch?: (search: string) => void
   disabled: boolean
 }
 
-export function IdentitySection({ form, partnerOptions, commodityOptions, disabled }: IdentitySectionProps): ReactElement {
+export function IdentitySection({ form, partnerOptions, commodityOptions, onPartnerSearch, disabled }: IdentitySectionProps): ReactElement {
   const t = useTranslations('scm.farms')
   const {
     control,
@@ -64,10 +65,11 @@ export function IdentitySection({ form, partnerOptions, commodityOptions, disabl
               disabled={disabled}
               value={field.value ? String(field.value) : ''}
               onValueChange={(value) => field.onChange(Number(value))}
+              onSearchChange={onPartnerSearch}
               items={partnerOptions.map((partner) => ({
                 label: partner.name,
                 value: String(partner.id),
-                description: partner.ref || undefined
+                description: [partner.ref, partner.typeName].filter(Boolean).join(' | ') || undefined
               }))}
             />
           )}

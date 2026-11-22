@@ -5,7 +5,7 @@
 
 'use client'
 
-import { useState } from 'react'
+import { useDeferredValue, useState } from 'react'
 import { zodResolver } from '@hookform/resolvers/zod'
 import { Save } from 'lucide-react'
 import { useTranslations } from 'next-intl'
@@ -16,6 +16,7 @@ import { LoadingButton } from '@/components/button/loading-button'
 import { PillTabs } from '@/components/button/pill-tabs'
 import { AddressSection } from '@/components/form/address-section'
 import { MediaSection } from '@/components/image/media-section'
+import { InfoAlert } from '@/components/shared/info-alert'
 import { PageHeader } from '@/components/shared/page-header'
 import { Form } from '@/components/ui/form'
 import { useCommodityOptions } from '@/hooks/scm/use-commodities'
@@ -37,7 +38,7 @@ export interface FarmFormProps {
   initialData?: FarmRecord | null
 }
 
-const SECTION_IDS = ['identity', 'terroir', 'cultivation', 'sustainability'] as const
+const SECTION_IDS = ['identity', 'terroir', 'cultivation', 'sustainability', 'assets'] as const
 type FarmSectionId = (typeof SECTION_IDS)[number]
 
 export function FarmForm({ initialData }: FarmFormProps): ReactElement {
@@ -46,7 +47,9 @@ export function FarmForm({ initialData }: FarmFormProps): ReactElement {
   const router = useRouter()
   const [activeSection, setActiveSection] = useState<FarmSectionId>('identity')
 
-  const { data: partnerOptions = [] } = useFarmPartnerOptions()
+  const [partnerSearch, setPartnerSearch] = useState('')
+  const deferredPartnerSearch = useDeferredValue(partnerSearch)
+  const { data: partnerOptions = [] } = useFarmPartnerOptions(deferredPartnerSearch)
   const { data: commodityOptions = [] } = useCommodityOptions()
   const createMutation = useCreateFarm()
   const updateMutation = useUpdateFarm()
@@ -130,7 +133,8 @@ export function FarmForm({ initialData }: FarmFormProps): ReactElement {
     identity: t('form.tabs.identity'),
     terroir: t('form.tabs.terroir'),
     cultivation: t('form.tabs.cultivation'),
-    sustainability: t('form.tabs.sustainability')
+    sustainability: t('form.tabs.sustainability'),
+    assets: t('form.tabs.assets')
   }
   const tabs = SECTION_IDS.map((id) => ({ id, label: labels[id] }))
 
@@ -166,7 +170,13 @@ export function FarmForm({ initialData }: FarmFormProps): ReactElement {
           className="space-y-4 sm:space-y-6"
         >
           {activeSection === 'identity' && (
-            <IdentitySection form={form} partnerOptions={partnerOptions} commodityOptions={commodityOptions} disabled={isPending} />
+            <IdentitySection
+              form={form}
+              partnerOptions={partnerOptions}
+              commodityOptions={commodityOptions}
+              onPartnerSearch={setPartnerSearch}
+              disabled={isPending}
+            />
           )}
           {activeSection === 'terroir' && (
             <>
@@ -180,14 +190,13 @@ export function FarmForm({ initialData }: FarmFormProps): ReactElement {
             </>
           )}
           {activeSection === 'cultivation' && <CultivationSection form={form} disabled={isPending} />}
-          {activeSection === 'sustainability' && (
-            <>
-              <SustainabilitySection form={form} disabled={isPending} />
-              {initialData ? (
-                <MediaSection model="syailendra.farm" recordId={initialData.id} role="gallery" aspectRatio={4 / 3} disabled={isPending} />
-              ) : null}
-            </>
-          )}
+          {activeSection === 'sustainability' && <SustainabilitySection form={form} disabled={isPending} />}
+          {activeSection === 'assets' &&
+            (initialData ? (
+              <MediaSection model="syailendra.farm" recordId={initialData.id} role="gallery" aspectRatio={4 / 3} disabled={isPending} />
+            ) : (
+              <InfoAlert variant="info" title={t('form.assetsPendingTitle')} description={t('form.assetsPendingDescription')} />
+            ))}
         </div>
       </form>
     </Form>

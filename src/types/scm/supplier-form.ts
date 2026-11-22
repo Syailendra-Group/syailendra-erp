@@ -14,7 +14,7 @@ export interface SupplierSectionProps {
   isEdit?: boolean
 }
 
-export type SupplierSectionId = 'identity' | 'contact' | 'location' | 'finance' | 'esg'
+export type SupplierSectionId = 'identity' | 'contact' | 'location' | 'finance' | 'esg' | 'assets'
 
 export interface SupplierFormProps {
   initialData?: import('./supplier').SupplierRecord | null

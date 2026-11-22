@@ -16,8 +16,8 @@ export interface HarvestRecord {
   productName: string
   productCode: string
   partnerId: number
-  farmerName: string
-  farmerCode?: string
+  partnerName: string
+  partnerCode?: string
   harvestDate: string
   netWeightKg: number
   moisturePercent?: number

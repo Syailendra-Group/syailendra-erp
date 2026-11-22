@@ -239,15 +239,28 @@ export async function fetchDistilleryById(id: number): Promise<DistilleryRecord 
   return rows.length > 0 ? mapDistillery(rows[0]) : null
 }
 
-export async function fetchDistilleryPartnerOptions(): Promise<DistilleryPartnerOption[]> {
-  const rows = await odooClient.searchRead<{ id: number; name: string; ref: string | false }>(
-    'res.partner',
-    ['|', ['supplier_rank', '>', 0], ['ref', 'like', 'SUP%']],
-    ['id', 'name', 'ref'],
-    { order: 'name asc', limit: 300, context: { active_test: false } }
-  )
+export async function fetchDistilleryPartnerOptions(search?: string): Promise<DistilleryPartnerOption[]> {
+  const term = search?.trim()
+  const supplierScope: OdooDomain = ['|', ['supplier_rank', '>', 0], ['ref', 'like', 'SUP%']]
+  const domain: OdooDomain = term ? ['&', ...supplierScope, ['name', 'ilike', term]] : supplierScope
 
-  return rows.map((row) => ({ id: row.id, name: row.name, ref: toText(row.ref) }))
+  const rows = await odooClient.searchRead<{
+    id: number
+    name: string
+    ref: string | false
+    supplier_type_id: [number, string] | false
+  }>('res.partner', domain, ['id', 'name', 'ref', 'supplier_type_id'], {
+    order: 'name asc',
+    limit: 50,
+    context: { active_test: false }
+  })
+
+  return rows.map((row) => ({
+    id: row.id,
+    name: row.name,
+    ref: toText(row.ref),
+    typeName: Array.isArray(row.supplier_type_id) ? row.supplier_type_id[1] : undefined
+  }))
 }
 
 export async function persistDistillery(values: DistilleryFormValues): Promise<{ success: boolean; id?: number; error?: string }> {

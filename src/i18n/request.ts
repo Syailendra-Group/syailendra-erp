@@ -39,7 +39,6 @@ import enScmComingSoon from '@/messages/en/scm/coming-soon.json'
 import enScmCommodities from '@/messages/en/scm/commodities.json'
 import enScmDemo from '@/messages/en/scm/demo.json'
 import enTraceDistilleries from '@/messages/en/scm/distilleries.json'
-import enTraceFarmers from '@/messages/en/scm/farmers.json'
 import enScmFarms from '@/messages/en/scm/farms.json'
 import enHarvest from '@/messages/en/scm/harvest.json'
 import enTraceOverview from '@/messages/en/scm/overview.json'
@@ -84,7 +83,6 @@ import idScmComingSoon from '@/messages/id/scm/coming-soon.json'
 import idScmCommodities from '@/messages/id/scm/commodities.json'
 import idScmDemo from '@/messages/id/scm/demo.json'
 import idTraceDistilleries from '@/messages/id/scm/distilleries.json'
-import idTraceFarmers from '@/messages/id/scm/farmers.json'
 import idScmFarms from '@/messages/id/scm/farms.json'
 import idHarvest from '@/messages/id/scm/harvest.json'
 import idTraceOverview from '@/messages/id/scm/overview.json'
@@ -123,7 +121,6 @@ const messagesMap = {
       commodities: idScmCommodities,
       farms: idScmFarms,
       overview: idTraceOverview,
-      farmers: idTraceFarmers,
       distilleries: idTraceDistilleries,
       publicTrace: idPublicTrace,
       products: idProducts,
@@ -137,7 +134,6 @@ const messagesMap = {
     },
     traceability: {
       overview: idTraceOverview,
-      farmers: idTraceFarmers,
       distilleries: idTraceDistilleries,
       publicTrace: idPublicTrace
     },
@@ -202,7 +198,6 @@ const messagesMap = {
       commodities: enScmCommodities,
       farms: enScmFarms,
       overview: enTraceOverview,
-      farmers: enTraceFarmers,
       distilleries: enTraceDistilleries,
       publicTrace: enPublicTrace,
       products: enProducts,
@@ -216,7 +211,6 @@ const messagesMap = {
     },
     traceability: {
       overview: enTraceOverview,
-      farmers: enTraceFarmers,
       distilleries: enTraceDistilleries,
       publicTrace: enPublicTrace
     },

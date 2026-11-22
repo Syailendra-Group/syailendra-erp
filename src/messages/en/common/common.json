@@ -206,7 +206,7 @@
     "pdfOnly": "Documents must be PDF",
     "pdfOnlyWithLimits": "PDF only (max {size}MB, {count} documents)",
     "clearPending": "Clear pending documents",
-    "mediaSectionTitle": "Photos & Documents",
+    "mediaSectionTitle": "Photos, Documents & Videos",
     "mediaSectionDescription": "Upload images and supporting documents for this entity",
     "galleryTitle": "Image Gallery",
     "documentsTitle": "Supporting Documents",
@@ -218,6 +218,15 @@
     "uploadFailed": "Failed to upload file",
     "deleteSuccess": "File deleted successfully",
     "deleteFailed": "Failed to delete file",
-    "maxOutputSize": "The cropped image is too large; reduce the zoom or choose a smaller image"
+    "maxOutputSize": "The cropped image is too large; reduce the zoom or choose a smaller image",
+    "videosTitle": "Supporting Videos",
+    "videoDragDropHelp": "Click or drag an MP4/WebM video here",
+    "videoOnly": "Video must be MP4 or WebM",
+    "videoOnlyWithLimits": "MP4/WebM only (max {size}MB, {count} videos)"
+  },
+  "dateRange": {
+    "label": "Date range",
+    "placeholder": "Pick a date range",
+    "clear": "Clear date range"
   }
 }

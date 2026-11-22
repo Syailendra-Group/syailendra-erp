@@ -81,8 +81,11 @@
       "identity": "Identitas",
       "terroir": "Alamat & Terroir",
       "cultivation": "Budidaya",
-      "sustainability": "Keberlanjutan"
-    }
+      "sustainability": "Keberlanjutan",
+      "assets": "Dokumen & Aset"
+    },
+    "assetsPendingTitle": "Galeri & dokumen tersedia setelah data disimpan",
+    "assetsPendingDescription": "Foto utama dapat diunggah sekarang. Simpan data terlebih dahulu untuk menambahkan galeri foto dan dokumen pendukung."
   },
   "detail": {
     "notFound": "Data kebun tidak ditemukan.",

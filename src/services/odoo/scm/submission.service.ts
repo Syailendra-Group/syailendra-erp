@@ -4,6 +4,7 @@
  */
 
 import { odooClient } from '@/lib/odoo/client'
+import { jakartaDayEndUtc, jakartaDayStartUtc, normalizeDateRange } from '@/utils/date-range'
 
 import type { OdooDomain, OdooFieldValue } from '@/lib/odoo/types'
 import type {
@@ -123,11 +124,14 @@ export class SubmissionService {
     if (params.kinds?.length) {
       domain.push(['kind', 'in', params.kinds])
     }
-    if (params.dateFrom) {
-      domain.push(['submitted_at', '>=', params.dateFrom])
+    const range = normalizeDateRange(params.dateFrom, params.dateTo)
+    const submittedFrom = jakartaDayStartUtc(range.from)
+    const submittedTo = jakartaDayEndUtc(range.to)
+    if (submittedFrom) {
+      domain.push(['submitted_at', '>=', submittedFrom])
     }
-    if (params.dateTo) {
-      domain.push(['submitted_at', '<=', `${params.dateTo}T23:59:59`])
+    if (submittedTo) {
+      domain.push(['submitted_at', '<=', submittedTo])
     }
 
     const order = params.order || 'submitted_at desc, id desc'

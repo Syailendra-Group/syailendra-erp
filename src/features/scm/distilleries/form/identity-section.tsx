@@ -18,10 +18,11 @@ import type { UseFormReturn } from 'react-hook-form'
 export interface IdentitySectionProps {
   form: UseFormReturn<DistilleryFormValues>
   partnerOptions: DistilleryPartnerOption[]
+  onPartnerSearch?: (search: string) => void
   disabled: boolean
 }
 
-export function IdentitySection({ form, partnerOptions, disabled }: IdentitySectionProps): ReactElement {
+export function IdentitySection({ form, partnerOptions, onPartnerSearch, disabled }: IdentitySectionProps): ReactElement {
   const t = useTranslations('scm.distilleries')
   const {
     control,
@@ -62,10 +63,11 @@ export function IdentitySection({ form, partnerOptions, disabled }: IdentitySect
               disabled={disabled}
               value={field.value ? String(field.value) : ''}
               onValueChange={(value) => field.onChange(Number(value))}
+              onSearchChange={onPartnerSearch}
               items={partnerOptions.map((partner) => ({
                 label: partner.name,
                 value: String(partner.id),
-                description: partner.ref || undefined
+                description: [partner.ref, partner.typeName].filter(Boolean).join(' | ') || undefined
               }))}
             />
           )}

@@ -13,7 +13,7 @@ import { DataTableToolbar } from './toolbar'
 
 import type { Row, Table as TanstackTable } from '@tanstack/react-table'
 import type { ReactElement, ReactNode } from 'react'
-import type { DataTableFilterField } from './toolbar'
+import type { DataTableDateRangeConfig, DataTableFilterField } from './toolbar'
 
 export interface DataTableProps<TData> {
   table: TanstackTable<TData>
@@ -23,6 +23,8 @@ export interface DataTableProps<TData> {
   showSkeleton?: boolean
   /** Konfigurasi faceted filters di toolbar */
   filters?: DataTableFilterField[]
+  /** Filter rentang tanggal (default: nonaktif) */
+  dateRange?: DataTableDateRangeConfig
   /** Placeholder kustom input pencarian (default: tCommon('actions.search')) */
   searchPlaceholder?: string
   /** Callback reset filter */
@@ -46,6 +48,7 @@ export function DataTable<TData>({
   isUpdating = false,
   showSkeleton = false,
   filters,
+  dateRange,
   searchPlaceholder,
   onReset,
   columnCount,
@@ -62,7 +65,13 @@ export function DataTable<TData>({
 
   return (
     <div className={cn('space-y-4', className)}>
-      <DataTableToolbar table={table} searchPlaceholder={searchPlaceholder || tCommon('actions.search')} onReset={onReset} filters={filters} />
+      <DataTableToolbar
+        table={table}
+        searchPlaceholder={searchPlaceholder || tCommon('actions.search')}
+        onReset={onReset}
+        filters={filters}
+        dateRange={dateRange}
+      />
 
       <div className="bg-card relative rounded-md border shadow-xs">
         <DataTableLoadingOverlay isUpdating={isUpdating} text={loadingMessage || tCommon('status.loading')} />

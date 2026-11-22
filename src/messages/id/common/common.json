@@ -206,7 +206,7 @@
     "pdfOnly": "Dokumen harus berformat PDF",
     "pdfOnlyWithLimits": "PDF saja (maks {size}MB, {count} dokumen)",
     "clearPending": "Hapus dokumen yang belum diunggah",
-    "mediaSectionTitle": "Foto & Dokumen",
+    "mediaSectionTitle": "Foto, Dokumen & Video",
     "mediaSectionDescription": "Unggah gambar dan dokumen pendukung untuk entitas ini",
     "galleryTitle": "Galeri Gambar",
     "documentsTitle": "Dokumen Pendukung",
@@ -218,6 +218,15 @@
     "uploadFailed": "Gagal mengunggah berkas",
     "deleteSuccess": "Berkas berhasil dihapus",
     "deleteFailed": "Gagal menghapus berkas",
-    "maxOutputSize": "Hasil potongan gambar terlalu besar; kurangi zoom atau pilih gambar yang lebih kecil"
+    "maxOutputSize": "Hasil potongan gambar terlalu besar; kurangi zoom atau pilih gambar yang lebih kecil",
+    "videosTitle": "Video Pendukung",
+    "videoDragDropHelp": "Klik atau seret video MP4/WebM ke sini",
+    "videoOnly": "Video harus berformat MP4 atau WebM",
+    "videoOnlyWithLimits": "MP4/WebM saja (maks {size}MB, {count} video)"
+  },
+  "dateRange": {
+    "label": "Rentang tanggal",
+    "placeholder": "Pilih rentang tanggal",
+    "clear": "Hapus rentang tanggal"
   }
 }

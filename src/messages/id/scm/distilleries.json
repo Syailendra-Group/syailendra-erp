@@ -19,7 +19,10 @@
     "performanceDesc": "Lama penyulingan, suhu, tekanan uap, rendemen, & kapasitas produksi",
     "location": "Lokasi & Dokumentasi",
     "locationDesc": "Wilayah administratif, alamat detail, koordinat GPS, & foto fasilitas",
-    "label": "Bagian formulir fasilitas penyulingan"
+    "label": "Bagian formulir fasilitas penyulingan",
+    "assets": "Dokumen & Aset",
+    "assetsPendingTitle": "Galeri & dokumen tersedia setelah data disimpan",
+    "assetsPendingDescription": "Foto utama dapat diunggah sekarang. Simpan data terlebih dahulu untuk menambahkan galeri foto dan dokumen pendukung."
   },
   "fields": {
     "code": "Kode Fasilitas Penyulingan",

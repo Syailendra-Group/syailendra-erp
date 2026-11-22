@@ -3,7 +3,7 @@
  * Syailendra Group ERP (SCM Pillar)
  */
 
-import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
+import { keepPreviousData, useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
 
 import {
   getDistilleriesAction,
@@ -22,7 +22,7 @@ export const distilleryQueryKeys = {
   lists: () => [...distilleryQueryKeys.all, 'list'] as const,
   list: (params: FetchDistilleriesParams) => [...distilleryQueryKeys.lists(), params] as const,
   detail: (id: number) => [...distilleryQueryKeys.all, 'detail', id] as const,
-  partners: () => [...distilleryQueryKeys.all, 'partners'] as const
+  partners: (search: string) => [...distilleryQueryKeys.all, 'partners', search] as const
 }
 
 export function useDistilleriesQuery() {
@@ -57,13 +57,14 @@ export function useDistilleryByIdQuery(id: number, enabled = true) {
   })
 }
 
-export function useDistilleryPartnerOptions() {
+export function useDistilleryPartnerOptions(search = '') {
   return useQuery({
-    queryKey: distilleryQueryKeys.partners(),
+    queryKey: distilleryQueryKeys.partners(search),
     queryFn: async () => {
-      return await getDistilleryPartnerOptionsAction()
+      return await getDistilleryPartnerOptionsAction(search)
     },
-    staleTime: 1000 * 60 * 10
+    placeholderData: keepPreviousData,
+    staleTime: 1000 * 60
   })
 }
 

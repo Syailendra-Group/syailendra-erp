@@ -54,10 +54,10 @@ export async function getDistilleryByIdAction(id: number): Promise<DistilleryRec
   }
 }
 
-export async function getDistilleryPartnerOptionsAction(): Promise<DistilleryPartnerOption[]> {
+export async function getDistilleryPartnerOptionsAction(search?: string): Promise<DistilleryPartnerOption[]> {
   await requireSession()
   try {
-    return await fetchDistilleryPartnerOptions()
+    return await fetchDistilleryPartnerOptions(search)
   } catch {
     return []
   }

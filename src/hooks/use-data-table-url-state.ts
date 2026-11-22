@@ -25,6 +25,8 @@ export function useDataTableUrlState(options: UseDataTableUrlStateOptions = {}):
   const perPage = Number(searchParams.get('per_page')) || defaultPerPage
   const search = searchParams.get('search') || ''
   const sort = searchParams.get('sort') || defaultSort
+  const dateFrom = searchParams.get('date_from') || ''
+  const dateTo = searchParams.get('date_to') || ''
 
   // Retrieve array filter values from URL search params with active/status alias support
   const getArrayFilter = useCallback(
@@ -54,6 +56,13 @@ export function useDataTableUrlState(options: UseDataTableUrlStateOptions = {}):
       router.replace(pathname, { scroll: false })
     })
   }, [pathname, router])
+
+  const onDateRangeChange = useCallback(
+    (next: { from?: string; to?: string }) => {
+      updateUrl({ date_from: next.from || undefined, date_to: next.to || undefined, page: 1 })
+    },
+    [updateUrl]
+  )
 
   // TanStack Table state adapters
   const pagination: PaginationState = useMemo(
@@ -188,10 +197,13 @@ export function useDataTableUrlState(options: UseDataTableUrlStateOptions = {}):
     pagination,
     sorting,
     columnFilters,
+    dateFrom,
+    dateTo,
     isUpdating: isPendingUrl,
     getArrayFilter,
     updateUrl,
     resetFilters,
+    onDateRangeChange,
     onPaginationChange,
     onSortingChange,
     onGlobalFilterChange,

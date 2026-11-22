@@ -55,6 +55,8 @@ export interface DistilleryPartnerOption {
   id: number
   name: string
   ref: string
+  /** Jenis Supplier label, shown so the operator can tell a distiller from a cooperative. */
+  typeName?: string
 }
 
 export interface FetchDistilleriesParams {

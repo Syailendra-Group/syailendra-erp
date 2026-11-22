@@ -42,7 +42,7 @@ function backoffMs(attempts: number): number {
  * Build the multipart body sent to the submission endpoint.
  * Route contract (requested — does not exist yet):
  * POST /api/mitra/submissions  multipart/form-data
- *   fields: kind, payload (JSON string), lat?, lon?, photo (File)
+ *   fields: kind, payload (JSON string), lat?, lon?, photo (File), photoName
  */
 export function buildSubmissionBody(payload: SubmissionPayload): FormData {
   const body = new FormData()
@@ -54,8 +54,10 @@ export function buildSubmissionBody(payload: SubmissionPayload): FormData {
   if (payload.lon != null) {
     body.append('lon', String(payload.lon))
   }
+  // photoName must follow the file fields so the route can label the stored object.
   if (payload.photoFile) {
     body.append('photo', payload.photoFile)
+    body.append('photoName', payload.photoFile.name)
   }
   return body
 }

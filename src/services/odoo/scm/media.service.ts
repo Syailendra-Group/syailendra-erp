@@ -199,6 +199,27 @@ export class MediaService {
    * kept (inactive) as the audit trail while the bytes are gone from the bucket.
    */
   /**
+   * Resolve the photo attached to a partner submission, but only when that submission belongs
+   * to the given partner. Returns null instead of raising so the route answers 404.
+   */
+  static async getSubmissionPhotoMediaId(submissionId: number, partnerId: number): Promise<number | null> {
+    const rows = await odoo.client.searchRead<{ id: number; partner_id: [number, string] | false; payload: Record<string, unknown> | false }>(
+      'syailendra.partner.submission',
+      [['id', '=', submissionId]],
+      ['id', 'partner_id', 'payload'],
+      { limit: 1 }
+    )
+    const row = rows[0]
+    if (!row) return null
+    const owner = Array.isArray(row.partner_id) ? row.partner_id[0] : null
+    if (owner !== partnerId) return null
+    const payload = row.payload && typeof row.payload === 'object' ? row.payload : {}
+    const value = payload.photo_media_id
+    const mediaId = typeof value === 'number' ? value : Number(value)
+    return Number.isSafeInteger(mediaId) && mediaId > 0 ? mediaId : null
+  }
+
+  /**
    * Temporary bridge for an addon older than 18.0.1.6.0: store the bytes in the Odoo
    * filestore exactly like the previous release did. Removed once Fase D ships.
    */

@@ -34,6 +34,10 @@ ARTIFACT_PATH = OUTPUT_DIR / "supplier_ref_map.json"
 # Child partner-category prefix -> SUP ref segment. Ordered most-specific
 # first; matches on the leading numeric code of the category name so minor
 # label edits (whitespace/case) never break the mapping.
+# SG-12 (owner decision Q16): farmers keep FMR-[REGION]-[SEQ] and are never
+# rewritten to the supplier codification by this script.
+FARMER_CATEGORY = '1.1 Perorangan Petani'
+
 PREFIX_RULES: list[tuple[str, str]] = [
     ("1.1", "RAW"),   # Perorangan Petani -> raw biomass
     ("1.2", "EO"),    # Perorangan Penyuling -> essential oil
@@ -140,6 +144,8 @@ def build_mapping(client: Odoo) -> tuple[list[dict[str, Any]], dict[str, int], i
         if ref.startswith("SUP-"):
             continue  # already normalized, idempotent skip
         categories = [category_names[cid] for cid in (row.get("category_id") or []) if cid in category_names]
+        if FARMER_CATEGORY in categories:
+            continue  # farmers own the FMR-* namespace
         segment = DEFAULT_PREFIX
         for name in categories:
             candidate = prefix_for_category(name)

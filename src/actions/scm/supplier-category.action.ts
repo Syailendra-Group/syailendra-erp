@@ -33,6 +33,11 @@ export async function fetchSupplierCategoryOptionsAction(): Promise<SupplierCate
   return SupplierCategoryService.getSupplierCategoryOptions()
 }
 
+export async function fetchSupplierCategoryParentOptionsAction(): Promise<SupplierCategoryOption[]> {
+  await requireSession()
+  return SupplierCategoryService.getSupplierCategoryParentOptions()
+}
+
 export async function fetchSupplierCategoryUsageAction(id: number): Promise<number> {
   await requireSession()
   return SupplierCategoryService.getSupplierCategoryUsage(id)

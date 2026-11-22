@@ -36,6 +36,5 @@ export interface SupplierCategoryListResponse {
 export interface SupplierCategoryOption {
   id: number
   name: string
-  displayName: string
   parentId: number | null
 }

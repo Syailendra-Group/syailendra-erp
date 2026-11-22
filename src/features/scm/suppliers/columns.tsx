@@ -9,6 +9,7 @@ import { EntityIdentityCell } from '@/components/image/entity-identity-cell'
 import { StatusBadge } from '@/components/shared/data-badge'
 import { IconText, LongText, PrimaryText } from '@/components/text'
 import { Badge } from '@/components/ui/badge'
+import { getCategoryBadgeSummary } from '@/utils/supplier-category'
 
 import type { SupplierRecord } from '@/types/scm/supplier'
 
@@ -47,32 +48,22 @@ export function getSupplierColumns({ t, tCommon, onView, onEdit, onToggleStatus 
         return filterValues.some((val) => catIds.includes(Number(val)))
       },
       cell: ({ row }) => {
-        const cats = row.original.categoryNames
-        if (!cats || cats.length === 0) {
+        const { primary, overflow, labels } = getCategoryBadgeSummary(row.original.categoryNames)
+        if (!primary) {
           return <span className="text-muted-foreground text-xs">-</span>
         }
 
         return (
-          <Badge variant="secondary" className="max-w-55 px-1.5 py-0 text-[10px] font-normal">
-            <LongText>{cats.join(', ')}</LongText>
-          </Badge>
-        )
-      }
-    },
-    {
-      id: 'needsReview',
-      accessorKey: 'needsReview',
-      header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.columns.needsReview')} />,
-      filterFn: (row, id, filterValues: string[]) => {
-        if (!filterValues || filterValues.length === 0) return true
-        return filterValues.includes(row.original.needsReview ? 'review' : 'verified')
-      },
-      cell: ({ row }) => {
-        const needsReview = row.original.needsReview
-        return (
-          <StatusBadge variant={needsReview ? 'warning' : 'success'} size="sm">
-            {needsReview ? t('table.review.pending') : t('table.review.verified')}
-          </StatusBadge>
+          <div className="flex max-w-55 items-center gap-1.5">
+            <Badge variant="secondary" className="max-w-40 px-1.5 py-0 text-[10px] font-normal">
+              <LongText>{primary}</LongText>
+            </Badge>
+            {overflow > 0 && (
+              <span className="text-muted-foreground shrink-0 text-[10px] font-medium" title={labels.join(', ')}>
+                {t('table.categoryOverflow', { count: overflow })}
+              </span>
+            )}
+          </div>
         )
       }
     },
@@ -121,6 +112,23 @@ export function getSupplierColumns({ t, tCommon, onView, onEdit, onToggleStatus 
           <Badge variant="outline" className="font-mono text-[10px]">
             {term === 'COD' ? 'COD' : 'ADVANCE'}
           </Badge>
+        )
+      }
+    },
+    {
+      id: 'needsReview',
+      accessorKey: 'needsReview',
+      header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.columns.needsReview')} />,
+      filterFn: (row, id, filterValues: string[]) => {
+        if (!filterValues || filterValues.length === 0) return true
+        return filterValues.includes(row.original.needsReview ? 'review' : 'verified')
+      },
+      cell: ({ row }) => {
+        const needsReview = row.original.needsReview
+        return (
+          <StatusBadge variant={needsReview ? 'warning' : 'success'} size="sm">
+            {needsReview ? t('table.review.pending') : t('table.review.verified')}
+          </StatusBadge>
         )
       }
     },

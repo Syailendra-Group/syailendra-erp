@@ -106,7 +106,7 @@ export function SuppliersTable(): ReactElement {
         columnId: 'categoryIds',
         title: t('table.columns.categories'),
         options: categoryOptions.map((opt) => ({
-          label: opt.displayName,
+          label: opt.name,
           value: String(opt.id)
         })),
         selectedValues: categoryFilter,

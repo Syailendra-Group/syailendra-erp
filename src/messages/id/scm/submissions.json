@@ -1,0 +1,84 @@
+{
+  "title": "Pengajuan Mitra",
+  "subtitle": "Tinjauan, verifikasi, dan promosi pengajuan mitra oleh staf operasional",
+  "table": {
+    "columns": {
+      "referenceNo": "Referensi",
+      "partnerName": "Mitra",
+      "kind": "Jenis Pengajuan",
+      "state": "Status",
+      "submittedAt": "Diajukan",
+      "review": "Tinjau"
+    },
+    "actions": {
+      "review": "Tinjau"
+    },
+    "states": {
+      "draft": "Draf",
+      "submitted": "Diajukan",
+      "in_review": "Ditinjau",
+      "needs_revision": "Perlu Revisi",
+      "approved": "Disetujui",
+      "rejected": "Ditolak",
+      "cancelled": "Dibatalkan"
+    },
+    "kinds": {
+      "petani": "Petani",
+      "panen": "Panen",
+      "serah_terima": "Serah Terima",
+      "distilasi": "Distilasi",
+      "kirim": "Kirim"
+    },
+    "emptyState": "Belum ada pengajuan mitra."
+  },
+  "filters": {
+    "status": "Status",
+    "submissionType": "Jenis Pengajuan",
+    "dateFrom": "Dari Tanggal",
+    "dateTo": "Sampai Tanggal"
+  },
+  "dialog": {
+    "title": "Tinjauan Pengajuan Mitra",
+    "fields": {
+      "referenceNo": "Nomor Referensi",
+      "partner": "Mitra",
+      "kind": "Jenis Pengajuan",
+      "state": "Status",
+      "submittedAt": "Diajukan Pada",
+      "applicantName": "Nama Pemohon",
+      "applicantPhone": "Telepon Pemohon",
+      "revision": "Revisi Ke",
+      "reviewedBy": "Direview Oleh",
+      "reviewedAt": "Direview Pada",
+      "reviewNotes": "Catatan Tinjauan"
+    },
+    "actions": {
+      "startReview": "Mulai Tinjauan",
+      "requestRevision": "Minta Revisi",
+      "reject": "Tolak",
+      "approve": "Setuju"
+    },
+    "labels": {
+      "notes": "Catatan",
+      "rejectNotes": "Alasan Penolakan",
+      "links": "Tautan Promosi"
+    },
+    "placeholders": {
+      "notes": "Tambahkan catatan tinjauan..."
+    },
+    "hints": {
+      "links": "Format: model:id, dipisahkan koma (opsional)"
+    }
+  },
+  "toast": {
+    "reviewSuccess": "Tinjauan berhasil diproses.",
+    "reviewError": "Gagal memproses tinjauan."
+  },
+  "validation": {
+    "actionRequired": "Pilih tindakan tinjauan.",
+    "rejectNotesRequired": "Alasan penolakan wajib diisi.",
+    "notesMax": "Catatan maksimal {max} karakter.",
+    "modelRequired": "Model tujuan wajib diisi.",
+    "resIdRequired": "ID record harus berupa angka positif."
+  }
+}

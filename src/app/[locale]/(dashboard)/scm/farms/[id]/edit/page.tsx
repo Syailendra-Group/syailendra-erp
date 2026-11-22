@@ -3,8 +3,8 @@
 import { use } from 'react'
 import { useTranslations } from 'next-intl'
 
-import { PageHeader } from '@/components/shared/page-header'
 import { DataBadge } from '@/components/shared/data-badge'
+import { PageHeader } from '@/components/shared/page-header'
 import { FarmForm } from '@/features/scm/farms/form'
 import { FarmFormSkeleton } from '@/features/scm/farms/skeleton'
 import { useFarmDetail } from '@/hooks/scm/use-farms'

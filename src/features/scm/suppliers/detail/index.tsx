@@ -79,10 +79,9 @@ export function SupplierDetail({ supplier }: SupplierDetailProps): ReactElement 
 
       <SummaryCardGrid items={summaryItems} />
 
-      <div className="grid grid-cols-1 items-start gap-4 lg:grid-cols-2">
-        <IdentityCard supplier={supplier} />
-        <ContactCard supplier={supplier} />
-      </div>
+      <IdentityCard supplier={supplier} />
+
+      <ContactCard supplier={supplier} />
 
       <MediaGallery model="res.partner" recordId={supplier.id} role="gallery" readOnly legacyImageUrl={supplier.imageUrl} />
 

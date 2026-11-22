@@ -39,7 +39,8 @@
       "parent": "Parent Category",
       "parentPlaceholder": "Select a parent category (or leave blank for a top-level category)",
       "color": "Tag Color",
-      "active": "Category Active"
+      "active": "Category Active",
+      "parentLockedHint": "This category already acts as a parent, so it cannot be moved under another category."
     },
     "buttons": {
       "save": "Save",
@@ -61,13 +62,17 @@
   "validation": {
     "nameMin": "Category name must be at least 2 characters",
     "nameMax": "Category name cannot exceed 100 characters",
-    "parentRequired": "Parent category is required when acting as a sub-category"
+    "parentRequired": "Parent category is required when acting as a sub-category",
+    "parentNotRoot": "The parent must be a top-level category",
+    "groupHasParent": "A category that already owns sub-categories cannot be moved under another category",
+    "selfParent": "A category cannot be its own parent"
   },
   "toast": {
     "createSuccess": "Supplier category created successfully",
     "updateSuccess": "Supplier category updated successfully",
     "deleteSuccess": "Supplier category deleted successfully",
     "deleteError": "Failed to delete supplier category",
-    "deleteErrorRelational": "This category cannot be deleted because it is still referenced by other data in the system."
+    "deleteErrorRelational": "This category cannot be deleted because it is still referenced by other data in the system.",
+    "saveError": "Failed to save supplier category"
   }
 }

@@ -15,8 +15,9 @@ import { FormFieldWrapper } from '@/components/form/form-field-wrapper'
 import { SelectForm } from '@/components/form/select-form'
 import { SwitchField } from '@/components/form/switch-field'
 import { Input } from '@/components/ui/input'
-import { useCreateSupplierCategory, useSupplierCategoryOptions, useUpdateSupplierCategory } from '@/hooks/scm/use-supplier-categories'
+import { useCreateSupplierCategory, useSupplierCategoryParentOptions, useUpdateSupplierCategory } from '@/hooks/scm/use-supplier-categories'
 import { getSupplierCategoryFormSchema } from '@/schemas/scm/supplier-category-schema'
+import { getParentCategoryOptions, resolveSupplierCategoryError } from '@/utils/supplier-category'
 
 import type { SupplierCategoryFormSchemaValues } from '@/schemas/scm/supplier-category-schema'
 import type { SupplierCategoryRecord } from '@/types/scm/supplier-category'
@@ -46,7 +47,7 @@ export interface SupplierCategoryFormProps {
 
 export function SupplierCategoryForm({ selectedCategory, isEdit, onSuccess, onPendingChange }: SupplierCategoryFormProps): ReactElement {
   const t = useTranslations('scm.supplierCategories')
-  const { data: parentOptions = [] } = useSupplierCategoryOptions()
+  const { data: parentOptions = [] } = useSupplierCategoryParentOptions()
   const createMutation = useCreateSupplierCategory()
   const updateMutation = useUpdateSupplierCategory()
 
@@ -68,6 +69,9 @@ export function SupplierCategoryForm({ selectedCategory, isEdit, onSuccess, onPe
   })
 
   const isPending = createMutation.isPending || updateMutation.isPending
+  // A category that already owns sub-categories stays at the top level.
+  const isGroupCategory = Boolean(isEdit && selectedCategory && selectedCategory.childCount > 0)
+  const isParentLocked = isGroupCategory || isPending
 
   useEffect(() => {
     onPendingChange?.(isPending)
@@ -93,35 +97,34 @@ export function SupplierCategoryForm({ selectedCategory, isEdit, onSuccess, onPe
 
   const selectParentItems = [
     { value: 'none', label: t('table.rootType') },
-    ...parentOptions
-      .filter((opt) => !selectedCategory || opt.id !== selectedCategory.id)
-      .map((opt) => ({
-        value: String(opt.id),
-        label: opt.displayName
-      }))
+    ...getParentCategoryOptions(parentOptions, selectedCategory?.id ?? null).map((opt) => ({
+      value: String(opt.id),
+      label: opt.name
+    }))
   ]
 
   const onSubmit = async (values: SupplierCategoryFormSchemaValues) => {
+    const payload = isGroupCategory ? { ...values, parentId: null } : values
     try {
       if (isEdit && selectedCategory) {
-        const res = await updateMutation.mutateAsync({ id: selectedCategory.id, values })
+        const res = await updateMutation.mutateAsync({ id: selectedCategory.id, values: payload })
         if (res.success) {
           toast.success(t('toast.updateSuccess'))
           onSuccess()
         } else {
-          toast.error(res.error || t('toast.deleteError'))
+          toast.error(resolveSupplierCategoryError(res.error, (key) => t(key), t('toast.saveError')))
         }
       } else {
-        const res = await createMutation.mutateAsync(values)
+        const res = await createMutation.mutateAsync(payload)
         if (res.success) {
           toast.success(t('toast.createSuccess'))
           onSuccess()
         } else {
-          toast.error(res.error || t('toast.deleteError'))
+          toast.error(resolveSupplierCategoryError(res.error, (key) => t(key), t('toast.saveError')))
         }
       }
-    } catch {
-      toast.error(t('toast.deleteError'))
+    } catch (error) {
+      toast.error(resolveSupplierCategoryError(error instanceof Error ? error.message : undefined, (key) => t(key), t('toast.saveError')))
     }
   }
 
@@ -132,15 +135,18 @@ export function SupplierCategoryForm({ selectedCategory, isEdit, onSuccess, onPe
       </FormFieldWrapper>
 
       <FormFieldWrapper id="category_parent" label={t('form.fields.parent')}>
-        <SelectForm
-          value={watch('parentId') ? String(watch('parentId')) : 'none'}
-          onValueChange={(val) => {
-            setValue('parentId', val === 'none' ? null : Number(val))
-          }}
-          placeholder={t('form.fields.parentPlaceholder')}
-          disabled={isPending}
-          items={selectParentItems}
-        />
+        <div className="space-y-1.5">
+          <SelectForm
+            value={isGroupCategory || !watch('parentId') ? 'none' : String(watch('parentId'))}
+            onValueChange={(val) => {
+              setValue('parentId', val === 'none' ? null : Number(val))
+            }}
+            placeholder={t('form.fields.parentPlaceholder')}
+            disabled={isParentLocked}
+            items={selectParentItems}
+          />
+          {isGroupCategory && <p className="text-muted-foreground text-xs">{t('form.fields.parentLockedHint')}</p>}
+        </div>
       </FormFieldWrapper>
 
       <FormFieldWrapper id="category_color" label={t('form.fields.color')}>

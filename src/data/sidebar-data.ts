@@ -21,6 +21,7 @@ import {
   Globe,
   HeartHandshake,
   History,
+  Inbox,
   Landmark,
   LayoutDashboard,
   LayoutGrid,
@@ -122,6 +123,7 @@ export const sidebarData: SidebarData = {
         titleKey: 'groups.mitra_origin',
         items: [
           { titleKey: 'items.suppliers', url: '/scm/suppliers', icon: FileSpreadsheet },
+          { titleKey: 'items.submissions', url: '/scm/submissions', icon: Inbox },
           { titleKey: 'items.farms', url: '/scm/farms', icon: MapPin },
           { titleKey: 'items.distilleries', url: '/scm/distilleries', icon: Factory },
           { titleKey: 'items.products', url: '/scm/products', icon: Droplets }

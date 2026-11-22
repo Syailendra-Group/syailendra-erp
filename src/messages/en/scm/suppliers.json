@@ -35,7 +35,8 @@
     "review": {
       "pending": "Needs Review",
       "verified": "Verified"
-    }
+    },
+    "categoryOverflow": "+{count}"
   },
   "types": {
     "company": "Company (PT / CV / Cooperative)",

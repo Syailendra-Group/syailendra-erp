@@ -1,6 +1,7 @@
 'use client'
 
 import { ImageViewer } from '@/components/image/image-viewer'
+import { LongText } from '@/components/text/long-text'
 import { cn } from '@/lib/utils'
 
 import type { EntityIdentityCellProps } from '@/types/components/media'
@@ -13,7 +14,7 @@ export function EntityIdentityCell({ name, secondary, imageUrl, className }: Ent
         <ImageViewer src={imageUrl} alt={name} fallbackText={name} disabled objectFit="cover" className="size-full text-[10px]" />
       </div>
       <div className="min-w-0 flex-1">
-        <p className="truncate text-xs font-semibold">{name}</p>
+        <LongText className="truncate text-xs font-semibold">{name}</LongText>
         {secondary ? <p className="text-muted-foreground truncate text-[10px]">{secondary}</p> : null}
       </div>
     </div>

@@ -1,0 +1,84 @@
+{
+  "title": "Partner Submissions",
+  "subtitle": "Review, verification, and promotion of partner submissions by operations staff",
+  "table": {
+    "columns": {
+      "referenceNo": "Reference",
+      "partnerName": "Partner",
+      "kind": "Submission Type",
+      "state": "Status",
+      "submittedAt": "Submitted",
+      "review": "Review"
+    },
+    "actions": {
+      "review": "Review"
+    },
+    "states": {
+      "draft": "Draft",
+      "submitted": "Submitted",
+      "in_review": "In Review",
+      "needs_revision": "Needs Revision",
+      "approved": "Approved",
+      "rejected": "Rejected",
+      "cancelled": "Cancelled"
+    },
+    "kinds": {
+      "petani": "Farmer",
+      "panen": "Harvest",
+      "serah_terima": "Handover",
+      "distilasi": "Distillation",
+      "kirim": "Delivery"
+    },
+    "emptyState": "No partner submissions yet."
+  },
+  "filters": {
+    "status": "Status",
+    "submissionType": "Submission Type",
+    "dateFrom": "From Date",
+    "dateTo": "To Date"
+  },
+  "dialog": {
+    "title": "Partner Submission Review",
+    "fields": {
+      "referenceNo": "Reference No.",
+      "partner": "Partner",
+      "kind": "Submission Type",
+      "state": "Status",
+      "submittedAt": "Submitted At",
+      "applicantName": "Applicant Name",
+      "applicantPhone": "Applicant Phone",
+      "revision": "Revision",
+      "reviewedBy": "Reviewed By",
+      "reviewedAt": "Reviewed At",
+      "reviewNotes": "Review Notes"
+    },
+    "actions": {
+      "startReview": "Start Review",
+      "requestRevision": "Request Revision",
+      "reject": "Reject",
+      "approve": "Approve"
+    },
+    "labels": {
+      "notes": "Notes",
+      "rejectNotes": "Rejection Reason",
+      "links": "Promotion Links"
+    },
+    "placeholders": {
+      "notes": "Add review notes..."
+    },
+    "hints": {
+      "links": "Format: model:id, comma separated (optional)"
+    }
+  },
+  "toast": {
+    "reviewSuccess": "Review processed successfully.",
+    "reviewError": "Failed to process review."
+  },
+  "validation": {
+    "actionRequired": "Select a review action.",
+    "rejectNotesRequired": "Rejection reason is required.",
+    "notesMax": "Notes maximum {max} characters.",
+    "modelRequired": "Target model is required.",
+    "resIdRequired": "Record ID must be a positive number."
+  }
+}

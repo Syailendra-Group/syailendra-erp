@@ -9,6 +9,7 @@
  */
 
 import { odooClient } from '@/lib/odoo/client'
+import { SUPPLIER_CATEGORY_ERROR_CODES } from '@/utils/supplier-category'
 
 import type { OdooDomain } from '@/lib/odoo/types'
 import type {
@@ -167,20 +168,67 @@ export class SupplierCategoryService {
     return mapOdooCategoryToRecord(records[0], supplierCounts.get(id) ?? 0)
   }
 
+  /**
+   * Assignable options: only sub-categories may tag a supplier. Root categories
+   * stay a pure grouping level, so they are never offered here.
+   */
   static async getSupplierCategoryOptions(): Promise<SupplierCategoryOption[]> {
-    const records = await odooClient.searchRead<OdooPartnerCategoryRaw>(
-      this.MODEL,
-      [['active', '=', true]],
-      ['id', 'name', 'display_name', 'parent_id'],
-      { order: 'parent_path asc, name asc', context: { active_test: false } }
-    )
+    const domain: OdooDomain = [
+      ['active', '=', true],
+      ['parent_id', '!=', false]
+    ]
+    return this.fetchCategoryOptions(domain)
+  }
+
+  /** Root categories only — the single valid parent level for a sub-category. */
+  static async getSupplierCategoryParentOptions(): Promise<SupplierCategoryOption[]> {
+    const domain: OdooDomain = [
+      ['active', '=', true],
+      ['parent_id', '=', false]
+    ]
+    return this.fetchCategoryOptions(domain)
+  }
+
+  private static async fetchCategoryOptions(domain: OdooDomain): Promise<SupplierCategoryOption[]> {
+    const records = await odooClient.searchRead<OdooPartnerCategoryRaw>(this.MODEL, domain, ['id', 'name', 'parent_id'], {
+      order: 'name asc',
+      context: { active_test: false }
+    })
 
     return records.map((record) => ({
       id: record.id,
       name: record.name,
-      displayName: record.display_name,
       parentId: Array.isArray(record.parent_id) ? record.parent_id[0] : null
     }))
+  }
+
+  /**
+   * Hierarchy invariant: a parent must be a root category, a category that
+   * already owns sub-categories cannot be re-parented, and nothing is its own
+   * parent. Runs before every write so the rule cannot be bypassed via RPC.
+   */
+  private static async assertParentRules(id: number | null, parentId: number): Promise<void> {
+    if (id !== null && id === parentId) {
+      throw new Error(SUPPLIER_CATEGORY_ERROR_CODES.selfParent)
+    }
+
+    const [parent] = await odooClient.searchRead<OdooPartnerCategoryRaw>(this.MODEL, [['id', '=', parentId]], ['id', 'parent_id'], {
+      limit: 1,
+      context: { active_test: false }
+    })
+    if (!parent || Array.isArray(parent.parent_id)) {
+      throw new Error(SUPPLIER_CATEGORY_ERROR_CODES.parentNotRoot)
+    }
+
+    if (id === null) return
+
+    const [current] = await odooClient.searchRead<OdooPartnerCategoryRaw>(this.MODEL, [['id', '=', id]], ['id', 'child_ids'], {
+      limit: 1,
+      context: { active_test: false }
+    })
+    if (current && Array.isArray(current.child_ids) && current.child_ids.length > 0) {
+      throw new Error(SUPPLIER_CATEGORY_ERROR_CODES.groupHasParent)
+    }
   }
 
   /** Real usage count for the delete confirmation (a many2many never blocks unlink). */
@@ -197,14 +245,20 @@ export class SupplierCategoryService {
       color: data.color,
       active: data.active
     }
-    if (data.parentId) vals.parent_id = data.parentId
+    if (data.parentId) {
+      await this.assertParentRules(null, data.parentId)
+      vals.parent_id = data.parentId
+    }
     return odooClient.create(this.MODEL, vals)
   }
 
   static async updateSupplierCategory(id: number, data: Partial<SupplierCategoryFormValues>): Promise<boolean> {
     const vals: Record<string, string | number | boolean | false> = {}
     if (data.name !== undefined) vals.name = data.name.trim()
-    if (data.parentId !== undefined) vals.parent_id = data.parentId || false
+    if (data.parentId !== undefined) {
+      if (data.parentId) await this.assertParentRules(id, data.parentId)
+      vals.parent_id = data.parentId || false
+    }
     if (data.color !== undefined) vals.color = data.color
     if (data.active !== undefined) vals.active = data.active
     return odooClient.write(this.MODEL, [id], vals)

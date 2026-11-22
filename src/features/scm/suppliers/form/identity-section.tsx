@@ -190,7 +190,7 @@ export function IdentitySection({ form, digitalCode, recordId, disabled = false,
               addNewAction={false}
               placeholder={t('form.fields.categoryPlaceholder')}
               emptyText={t('form.fields.categoriesEmpty')}
-              items={categoryOptions.map((option) => ({ value: String(option.id), label: option.displayName }))}
+              items={categoryOptions.map((option) => ({ value: String(option.id), label: option.name }))}
             />
           </FormFieldWrapper>
         )}

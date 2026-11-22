@@ -39,7 +39,8 @@
       "parent": "Kategori Induk",
       "parentPlaceholder": "Pilih kategori induk (atau kosongkan untuk kategori tingkat teratas)",
       "color": "Warna Tag",
-      "active": "Kategori Aktif"
+      "active": "Kategori Aktif",
+      "parentLockedHint": "Kategori ini sudah menjadi induk, sehingga tidak dapat dipindahkan ke bawah kategori lain."
     },
     "buttons": {
       "save": "Simpan",
@@ -61,13 +62,17 @@
   "validation": {
     "nameMin": "Nama kategori minimal 2 karakter",
     "nameMax": "Nama kategori tidak boleh melebihi 100 karakter",
-    "parentRequired": "Kategori induk wajib dipilih jika bertindak sebagai sub-kategori"
+    "parentRequired": "Kategori induk wajib dipilih jika bertindak sebagai sub-kategori",
+    "parentNotRoot": "Kategori induk harus berupa kategori tingkat teratas",
+    "groupHasParent": "Kategori yang sudah memiliki sub-kategori tidak dapat dipindahkan ke bawah kategori lain",
+    "selfParent": "Kategori tidak dapat menjadi induk bagi dirinya sendiri"
   },
   "toast": {
     "createSuccess": "Kategori pemasok berhasil dibuat",
     "updateSuccess": "Kategori pemasok berhasil diperbarui",
     "deleteSuccess": "Kategori pemasok berhasil dihapus",
     "deleteError": "Gagal menghapus kategori pemasok",
-    "deleteErrorRelational": "Kategori ini tidak dapat dihapus karena masih digunakan oleh data lain di sistem."
+    "deleteErrorRelational": "Kategori ini tidak dapat dihapus karena masih digunakan oleh data lain di sistem.",
+    "saveError": "Gagal menyimpan kategori pemasok"
   }
 }

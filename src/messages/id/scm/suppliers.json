@@ -35,7 +35,8 @@
     "review": {
       "pending": "Perlu Review",
       "verified": "Terverifikasi"
-    }
+    },
+    "categoryOverflow": "+{count}"
   },
   "types": {
     "company": "Badan Usaha (PT / CV / Koperasi)",

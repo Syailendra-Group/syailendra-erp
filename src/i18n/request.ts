@@ -17,6 +17,12 @@ import enHrisDepartments from '@/messages/en/hrm/departments.json'
 import enHrisEmployees from '@/messages/en/hrm/employees.json'
 import enHrisOverview from '@/messages/en/hrm/overview.json'
 import enImmOverview from '@/messages/en/imm/overview.json'
+import enMitraDistiller from '@/messages/en/mitra/distiller.json'
+import enMitraFarmer from '@/messages/en/mitra/farmer.json'
+import enMitraLanding from '@/messages/en/mitra/landing.json'
+import enMitraLogin from '@/messages/en/mitra/login.json'
+import enMitraPin from '@/messages/en/mitra/pin.json'
+import enMitraShell from '@/messages/en/mitra/shell.json'
 import enCompany from '@/messages/en/others/company.json'
 import enCountries from '@/messages/en/others/countries.json'
 import enDistricts from '@/messages/en/others/districts.json'
@@ -39,6 +45,7 @@ import enHarvest from '@/messages/en/scm/harvest.json'
 import enTraceOverview from '@/messages/en/scm/overview.json'
 import enProducts from '@/messages/en/scm/products.json'
 import enPublicTrace from '@/messages/en/scm/public-trace.json'
+import enScmSubmissions from '@/messages/en/scm/submissions.json'
 import enSupplierCategories from '@/messages/en/scm/supplier-categories.json'
 import enSupplierTypes from '@/messages/en/scm/supplier-types.json'
 import enSuppliers from '@/messages/en/scm/suppliers.json'
@@ -55,6 +62,12 @@ import idHrisDepartments from '@/messages/id/hrm/departments.json'
 import idHrisEmployees from '@/messages/id/hrm/employees.json'
 import idHrisOverview from '@/messages/id/hrm/overview.json'
 import idImmOverview from '@/messages/id/imm/overview.json'
+import idMitraDistiller from '@/messages/id/mitra/distiller.json'
+import idMitraFarmer from '@/messages/id/mitra/farmer.json'
+import idMitraLanding from '@/messages/id/mitra/landing.json'
+import idMitraLogin from '@/messages/id/mitra/login.json'
+import idMitraPin from '@/messages/id/mitra/pin.json'
+import idMitraShell from '@/messages/id/mitra/shell.json'
 import idCompany from '@/messages/id/others/company.json'
 import idCountries from '@/messages/id/others/countries.json'
 import idDistricts from '@/messages/id/others/districts.json'
@@ -77,6 +90,7 @@ import idHarvest from '@/messages/id/scm/harvest.json'
 import idTraceOverview from '@/messages/id/scm/overview.json'
 import idProducts from '@/messages/id/scm/products.json'
 import idPublicTrace from '@/messages/id/scm/public-trace.json'
+import idScmSubmissions from '@/messages/id/scm/submissions.json'
 import idSupplierCategories from '@/messages/id/scm/supplier-categories.json'
 import idSupplierTypes from '@/messages/id/scm/supplier-types.json'
 import idSuppliers from '@/messages/id/scm/suppliers.json'
@@ -90,6 +104,14 @@ const messagesMap = {
     common: idCommon,
     nav: idNav,
     auth: idAuthLogin,
+    mitra: {
+      login: idMitraLogin,
+      pin: idMitraPin,
+      landing: idMitraLanding,
+      shell: idMitraShell,
+      farmer: idMitraFarmer,
+      distiller: idMitraDistiller
+    },
     inventory: idInventory,
     wms: { inventory: idInventory, overview: idWmsOverview },
     crm: { overview: idCrmOverview },
@@ -110,7 +132,8 @@ const messagesMap = {
       suppliers: idSuppliers,
       harvest: idHarvest,
       demo: idScmDemo,
-      comingSoon: idScmComingSoon
+      comingSoon: idScmComingSoon,
+      submissions: idScmSubmissions
     },
     traceability: {
       overview: idTraceOverview,
@@ -160,6 +183,14 @@ const messagesMap = {
     common: enCommon,
     nav: enNav,
     auth: enAuthLogin,
+    mitra: {
+      login: enMitraLogin,
+      pin: enMitraPin,
+      landing: enMitraLanding,
+      shell: enMitraShell,
+      farmer: enMitraFarmer,
+      distiller: enMitraDistiller
+    },
     inventory: enInventory,
     wms: { inventory: enInventory, overview: enWmsOverview },
     crm: { overview: enCrmOverview },
@@ -180,7 +211,8 @@ const messagesMap = {
       suppliers: enSuppliers,
       harvest: enHarvest,
       demo: enScmDemo,
-      comingSoon: enScmComingSoon
+      comingSoon: enScmComingSoon,
+      submissions: enScmSubmissions
     },
     traceability: {
       overview: enTraceOverview,

@@ -10,6 +10,7 @@ const ROOT = 'src'
 const PILLARS = {
   scm: ['scm', 'traceability'],
   auth: ['auth'],
+  mitra: ['mitra'],
   hrm: ['admin', 'hris'],
   others: ['others', 'regional'],
   wms: ['wms'],
@@ -19,7 +20,7 @@ const PILLARS = {
   imm: ['imm'],
   ai: ['ai']
 }
-const COMPONENT_ALLOWED = ['common', 'nav', 'regional']
+const COMPONENT_ALLOWED = ['common', 'nav', 'regional', 'mitra']
 const COMPONENT_EXCEPTIONS = { 'components/card/address-card.tsx': ['scm'] }
 
 function walk(dir) {

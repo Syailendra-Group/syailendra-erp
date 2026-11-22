@@ -12,6 +12,7 @@ import {
   deleteSupplierCategoryAction,
   fetchSupplierCategoriesAction,
   fetchSupplierCategoryOptionsAction,
+  fetchSupplierCategoryParentOptionsAction,
   fetchSupplierCategoryUsageAction,
   updateSupplierCategoryAction
 } from '@/actions/scm/supplier-category.action'
@@ -24,6 +25,7 @@ export const supplierCategoryKeys = {
   lists: () => [...supplierCategoryKeys.all, 'list'] as const,
   list: (params: GetSupplierCategoriesParams) => [...supplierCategoryKeys.lists(), params] as const,
   options: () => [...supplierCategoryKeys.all, 'options'] as const,
+  parentOptions: () => [...supplierCategoryKeys.all, 'parent-options'] as const,
   usage: (id: number) => [...supplierCategoryKeys.all, 'usage', id] as const
 }
 
@@ -40,6 +42,14 @@ export function useSupplierCategoryOptions() {
   return useQuery({
     queryKey: supplierCategoryKeys.options(),
     queryFn: () => fetchSupplierCategoryOptionsAction(),
+    staleTime: 60_000
+  })
+}
+
+export function useSupplierCategoryParentOptions() {
+  return useQuery({
+    queryKey: supplierCategoryKeys.parentOptions(),
+    queryFn: () => fetchSupplierCategoryParentOptionsAction(),
     staleTime: 60_000
   })
 }

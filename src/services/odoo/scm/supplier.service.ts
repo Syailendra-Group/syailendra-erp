@@ -30,10 +30,9 @@ export class SupplierService {
     const offset = (page - 1) * perPage
 
     type DomainTuple = [string, string, string | number | boolean | number[]]
-    const domain: DomainTuple[] = [
-      ['ref', '=like', 'SUP-%'],
-      ['supplier_rank', '>', 0]
-    ]
+    // Supplier Master is unified: farmers (FMR-*) and other suppliers (SUP-*)
+    // are both suppliers. supplier_rank is the real discriminator, not the ref prefix.
+    const domain: DomainTuple[] = [['supplier_rank', '>', 0]]
 
     if (params.search?.trim()) {
       const q = params.search.trim()
@@ -128,13 +127,10 @@ export class SupplierService {
     if (!ids.length) return items
 
     try {
-      const categories = await odooClient.searchRead<{ id: number; display_name: string }>(
-        'res.partner.category',
-        [['id', 'in', ids]],
-        ['id', 'display_name'],
-        { limit: ids.length }
-      )
-      const labels = new Map(categories.map((category) => [category.id, category.display_name]))
+      const categories = await odooClient.searchRead<{ id: number; name: string }>('res.partner.category', [['id', 'in', ids]], ['id', 'name'], {
+        limit: ids.length
+      })
+      const labels = new Map(categories.map((category) => [category.id, category.name]))
       return items.map((item) => ({
         ...item,
         categoryNames: item.categoryIds.map((id) => labels.get(id)).filter((name): name is string => Boolean(name))

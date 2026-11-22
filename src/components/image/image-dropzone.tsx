@@ -156,7 +156,7 @@ export function ImageDropzone({
                 icon={X}
                 label={t('removeFile')}
                 onClick={() => onChange(null)}
-                className="size-7 rounded-full border-2 !border-white !bg-red-600 !text-white shadow-lg ring-1 ring-black/40"
+                className="size-7 rounded-full border-2 border-white! bg-red-600! text-white! shadow-lg ring-1 ring-black/40"
               />
             </div>
           )}
@@ -170,7 +170,7 @@ export function ImageDropzone({
                   setCropImageSrc(previewUrl)
                   setCropDialogOpen(true)
                 }}
-                className="size-7 rounded-full border-2 !border-white !bg-zinc-900/90 !text-white shadow-lg ring-1 ring-black/40"
+                className="size-7 rounded-full border-2 border-white! bg-zinc-900/90! text-white! shadow-lg ring-1 ring-black/40"
               />
             </div>
           )}

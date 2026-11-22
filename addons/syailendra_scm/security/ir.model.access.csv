@@ -29,7 +29,7 @@ access_syailendra_supplier_type_manager,syailendra.supplier.type.manager,model_s
 access_syailendra_supplier_type_api,syailendra.supplier.type.api,model_syailendra_supplier_type,group_scm_api,1,0,0,0
 access_syailendra_media_user,syailendra.media.user,model_syailendra_media,group_scm_user,1,1,1,0
 access_syailendra_media_manager,syailendra.media.manager,model_syailendra_media,group_scm_manager,1,1,1,1
-access_syailendra_media_api,syailendra.media.api,model_syailendra_media,group_scm_api,1,0,0,0
+access_syailendra_media_api,syailendra.media.api,model_syailendra_media,group_scm_api,1,0,1,0
 access_syailendra_partner_access_user,syailendra.partner.access.user,model_syailendra_partner_access,group_scm_user,1,0,0,0
 access_syailendra_partner_access_manager,syailendra.partner.access.manager,model_syailendra_partner_access,group_scm_manager,1,1,1,1
 access_syailendra_partner_access_api,syailendra.partner.access.api,model_syailendra_partner_access,group_scm_api,1,0,0,0

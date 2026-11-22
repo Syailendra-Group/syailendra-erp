@@ -1,35 +1,57 @@
+import { createHash, randomUUID } from 'node:crypto'
+import { createWriteStream, promises as fsp } from 'node:fs'
+import { tmpdir } from 'node:os'
+import path from 'node:path'
+import { Readable } from 'node:stream'
+import Busboy from 'busboy'
+
 import { getSession } from '@/lib/auth/session'
-import { odoo } from '@/lib/odoo'
+import {
+  buildStorageKey,
+  detectMimetype,
+  isMediaEntity,
+  isMediaRole,
+  KIND_LIMITS,
+  KIND_QUOTAS,
+  kindForMimetype,
+  STORAGE_HARD_LIMIT
+} from '@/lib/storage/media-policy'
+import { deleteObject, putFile, StorageNotConfiguredError } from '@/lib/storage/supabase-storage'
 import { MediaService } from '@/services/odoo/scm/media.service'
 
 import type { NextRequest } from 'next/server'
+import type { ReadableStream as NodeWebReadableStream } from 'node:stream/web'
 
 export const runtime = 'nodejs'
 export const dynamic = 'force-dynamic'
 
-const MAX_IMAGE_BYTES = 5 * 1024 * 1024
-const MAX_DOCUMENT_BYTES = 10 * 1024 * 1024
-const MAX_REQUEST_BYTES = MAX_DOCUMENT_BYTES + 128 * 1024
-const ALLOWED_MODELS = new Set(['res.partner', 'syailendra.farm', 'syailendra.distillery', 'product.template'])
-const ALLOWED_ROLES = new Set(['profile', 'gallery', 'facility', 'product', 'certificate', 'legal', 'other'])
+/** Multipart envelope overhead allowance on top of the largest accepted object. */
+const MAX_REQUEST_BYTES = STORAGE_HARD_LIMIT + 256 * 1024
+const HEAD_BYTES = 32
 
-function jsonError(message: string, status: number): Response {
-  return Response.json({ success: false, error: message }, { status, headers: { 'Cache-Control': 'no-store' } })
+class UploadError extends Error {
+  readonly status: number
+
+  constructor(code: string, status: number) {
+    super(code)
+    this.name = 'UploadError'
+    this.status = status
+  }
 }
 
-function detectMime(bytes: Uint8Array): string | null {
-  if (bytes.length >= 8 && bytes[0] === 0x89 && bytes[1] === 0x50 && bytes[2] === 0x4e && bytes[3] === 0x47) return 'image/png'
-  if (bytes.length >= 3 && bytes[0] === 0xff && bytes[1] === 0xd8 && bytes[2] === 0xff) return 'image/jpeg'
-  if (bytes.length >= 12 && String.fromCharCode(...bytes.slice(0, 4)) === 'RIFF' && String.fromCharCode(...bytes.slice(8, 12)) === 'WEBP')
-    return 'image/webp'
-  const prefix = new TextDecoder()
-    .decode(bytes.slice(0, 1024))
-    .replace(/^\uFEFF/, '')
-    .trimStart()
-  return prefix.startsWith('%PDF-') ? 'application/pdf' : null
+interface MultipartUpload {
+  fields: Record<string, string>
+  tempPath: string
+  size: number
+  checksum: string
+  head: Buffer
 }
 
-export async function POST(request: NextRequest): Promise<Response> {
+function jsonError(code: string, status: number): Response {
+  return Response.json({ success: false, error: code }, { status, headers: { 'Cache-Control': 'no-store' } })
+}
+
+function assertSameOrigin(request: NextRequest): void {
   const origin = request.headers.get('origin')
   const forwardedHost = request.headers.get('x-forwarded-host')?.split(',')[0]?.trim()
   const host = forwardedHost || request.headers.get('host')
@@ -37,49 +59,184 @@ export async function POST(request: NextRequest): Promise<Response> {
   try {
     originHost = origin ? new URL(origin).host : null
   } catch {
-    return jsonError('ORIGIN_INVALID', 403)
+    throw new UploadError('ORIGIN_INVALID', 403)
   }
-  if (!originHost || originHost !== host) return jsonError('ORIGIN_INVALID', 403)
-  if (Number(request.headers.get('content-length') || 0) > MAX_REQUEST_BYTES) return jsonError('UPLOAD_TOO_LARGE', 413)
+  if (!originHost || originHost !== host) throw new UploadError('ORIGIN_INVALID', 403)
+}
 
-  const session = await getSession()
-  if (!session) return jsonError('UNAUTHORIZED', 401)
+/**
+ * Parse the multipart body without buffering the file in memory: bytes are hashed as they
+ * arrive and written straight to a scratch file, which is then uploaded as a stream.
+ */
+function parseMultipart(request: NextRequest): Promise<MultipartUpload> {
+  const contentType = request.headers.get('content-type') ?? ''
+  if (!contentType.includes('multipart/form-data')) {
+    return Promise.reject(new UploadError('MEDIA_CONTENT_TYPE_INVALID', 415))
+  }
+  if (!request.body) return Promise.reject(new UploadError('MEDIA_FILE_REQUIRED', 400))
+
+  return new Promise<MultipartUpload>((resolve, reject) => {
+    const fields: Record<string, string> = {}
+    const tempPath = path.join(tmpdir(), `sg13-upload-${randomUUID()}`)
+    const hash = createHash('sha256')
+    let head = Buffer.alloc(0)
+    let size = 0
+    let settled = false
+    let fileCount = 0
+
+    const fail = (error: Error): void => {
+      if (settled) return
+      settled = true
+      void fsp.rm(tempPath, { force: true })
+      reject(error)
+    }
+
+    let busboy: Busboy.Busboy
+    try {
+      busboy = Busboy({
+        headers: Object.fromEntries(new Headers({ 'content-type': contentType })),
+        limits: { files: 1, fields: 8, fileSize: STORAGE_HARD_LIMIT, fieldSize: 2048 }
+      })
+    } catch {
+      fail(new UploadError('MEDIA_CONTENT_TYPE_INVALID', 415))
+      return
+    }
+
+    busboy.on('field', (name: string, value: string) => {
+      fields[name] = value
+    })
+
+    busboy.on('file', (_name: string, stream: Readable) => {
+      fileCount += 1
+      if (fileCount > 1) {
+        stream.resume()
+        fail(new UploadError('MEDIA_FILE_INVALID', 400))
+        return
+      }
+      if (!fields.model) {
+        stream.resume()
+        fail(new UploadError('MEDIA_FIELDS_ORDER', 400))
+        return
+      }
+
+      const target = createWriteStream(tempPath)
+      stream.on('data', (chunk: Buffer) => {
+        size += chunk.length
+        hash.update(chunk)
+        if (head.length < HEAD_BYTES) head = Buffer.concat([head, chunk.subarray(0, HEAD_BYTES - head.length)])
+      })
+      stream.on('limit', () => {
+        target.destroy()
+        fail(new UploadError('MEDIA_FILE_TOO_LARGE', 413))
+      })
+      stream.on('error', () => fail(new UploadError('MEDIA_UPLOAD_ABORTED', 400)))
+      target.on('error', () => fail(new UploadError('MEDIA_UPLOAD_FAILED', 500)))
+      target.on('close', () => {
+        if (settled) return
+        if (size === 0) {
+          void fsp.rm(tempPath, { force: true })
+          fail(new UploadError('MEDIA_FILE_REQUIRED', 400))
+          return
+        }
+        settled = true
+        resolve({ fields, tempPath, size, checksum: hash.digest('hex'), head })
+      })
+      stream.pipe(target)
+    })
+
+    busboy.on('error', () => fail(new UploadError('MEDIA_UPLOAD_FAILED', 400)))
+    busboy.on('close', () => {
+      if (!settled && fileCount === 0) fail(new UploadError('MEDIA_FILE_REQUIRED', 400))
+    })
+
+    const source = Readable.fromWeb(request.body as unknown as NodeWebReadableStream<Uint8Array>)
+    source.on('error', () => fail(new UploadError('MEDIA_UPLOAD_ABORTED', 400)))
+    source.pipe(busboy)
+  })
+}
+
+export async function POST(request: NextRequest): Promise<Response> {
+  const declaredLength = Number(request.headers.get('content-length') ?? 0)
+  if (declaredLength > MAX_REQUEST_BYTES) return jsonError('MEDIA_FILE_TOO_LARGE', 413)
 
   try {
-    const form = await request.formData()
-    const model = String(form.get('model') || '')
-    const id = Number(form.get('id'))
-    const role = String(form.get('role') || 'gallery')
-    const caption = String(form.get('caption') || '').slice(0, 255)
-    const file = form.get('file')
+    assertSameOrigin(request)
+    const session = await getSession()
+    if (!session) return jsonError('UNAUTHORIZED', 401)
 
-    if (!ALLOWED_MODELS.has(model) || !Number.isSafeInteger(id) || id < 1) return jsonError('MEDIA_ENTITY_INVALID', 400)
-    if (!ALLOWED_ROLES.has(role)) return jsonError('MEDIA_ROLE_INVALID', 400)
-    if (!(file instanceof File) || file.size === 0) return jsonError('MEDIA_FILE_REQUIRED', 400)
+    const upload = await parseMultipart(request)
+    try {
+      const model = upload.fields.model ?? ''
+      const role = upload.fields.role ?? 'gallery'
+      const caption = (upload.fields.caption ?? '').slice(0, 255)
+      const altText = (upload.fields.altText ?? caption).slice(0, 255)
+      const id = Number(upload.fields.id)
 
-    const target = await odoo.client.searchRead<{ id: number; company_id: [number, string] | false }>(
-      model,
-      [['id', '=', id]],
-      ['id', 'company_id'],
-      {
-        limit: 1,
-        context: { active_test: false }
+      if (!isMediaEntity(model) || !Number.isSafeInteger(id) || id < 1) {
+        return jsonError('MEDIA_ENTITY_INVALID', 400)
       }
-    )
-    if (!target[0]) return jsonError('MEDIA_ENTITY_NOT_FOUND', 404)
-    const company = Array.isArray(target[0].company_id) ? target[0].company_id[0] : null
-    if (company !== null && company !== session.companyId) return jsonError('MEDIA_FORBIDDEN', 403)
+      if (!isMediaRole(role)) return jsonError('MEDIA_ROLE_INVALID', 400)
 
-    const bytes = new Uint8Array(await file.arrayBuffer())
-    const mimetype = detectMime(bytes)
-    if (!mimetype || !(mimetype.startsWith('image/') || mimetype === 'application/pdf')) return jsonError('MEDIA_TYPE_INVALID', 415)
-    const kind = mimetype === 'application/pdf' ? 'document' : 'image'
-    const maxBytes = kind === 'image' ? MAX_IMAGE_BYTES : MAX_DOCUMENT_BYTES
-    if (bytes.byteLength > maxBytes) return jsonError(kind === 'image' ? 'MEDIA_IMAGE_TOO_LARGE' : 'MEDIA_DOCUMENT_TOO_LARGE', 413)
+      const mimetype = detectMimetype(upload.head)
+      const kind = mimetype ? kindForMimetype(mimetype) : null
+      if (!mimetype || !kind) return jsonError('MEDIA_TYPE_INVALID', 415)
+      if (upload.size > KIND_LIMITS[kind]) {
+        return jsonError(kind === 'video' ? 'MEDIA_VIDEO_TOO_LARGE' : `MEDIA_${kind.toUpperCase()}_TOO_LARGE`, 413)
+      }
 
-    const mediaId = await MediaService.createMedia(model, id, kind, role, file, caption)
-    return Response.json({ success: true, id: mediaId }, { headers: { 'Cache-Control': 'no-store' } })
+      await MediaService.assertEntity(model, id, session.companyId)
+      const usage = await MediaService.countMedia(model, id, kind)
+      if (usage >= KIND_QUOTAS[kind]) return jsonError('MEDIA_LIMIT_REACHED', 409)
+
+      const fileName = (upload.fields.name || 'berkas').slice(0, 255)
+
+      // Bridge: an addon older than 18.0.1.6.0 has no storage columns, so images and
+      // documents keep going to the Odoo filestore exactly as before. Video has no legacy
+      // home and refuses with an explicit code instead of a cryptic ORM error.
+      if (!(await MediaService.supportsObjectStorage())) {
+        if (kind === 'video') return jsonError('MEDIA_SCHEMA_OUTDATED', 409)
+        const bytes = await fsp.readFile(upload.tempPath)
+        const mediaId = await MediaService.createLegacyMedia({
+          resModel: model,
+          resId: id,
+          kind,
+          role,
+          name: fileName,
+          mimetype,
+          bytes,
+          caption
+        })
+        return Response.json({ success: true, id: mediaId, checksum: upload.checksum }, { headers: { 'Cache-Control': 'no-store' } })
+      }
+
+      const storageKey = buildStorageKey(model, id, mimetype)
+      await putFile(storageKey, upload.tempPath, mimetype, upload.size)
+
+      try {
+        const mediaId = await MediaService.createObjectMedia({
+          resModel: model,
+          resId: id,
+          kind,
+          role,
+          name: fileName,
+          mimetype,
+          size: upload.size,
+          checksum: upload.checksum,
+          storageKey,
+          caption,
+          altText
+        })
+        return Response.json({ success: true, id: mediaId, checksum: upload.checksum }, { headers: { 'Cache-Control': 'no-store' } })
+      } catch (error) {
+        await deleteObject(storageKey).catch(() => undefined)
+        throw error
+      }
+    } finally {
+      await fsp.rm(upload.tempPath, { force: true })
+    }
   } catch (error) {
+    if (error instanceof UploadError) return jsonError(error.message, error.status)
+    if (error instanceof StorageNotConfiguredError) return jsonError('STORAGE_NOT_CONFIGURED', 503)
     console.error('Media upload failed:', error)
     return jsonError(error instanceof Error ? error.message : 'MEDIA_UPLOAD_FAILED', 500)
   }

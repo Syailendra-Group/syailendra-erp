@@ -1,5 +1,6 @@
-export type MediaKind = 'image' | 'document'
+export type MediaKind = 'image' | 'document' | 'video'
 export type MediaRole = 'profile' | 'gallery' | 'facility' | 'product' | 'certificate' | 'legal' | 'other'
+export type MediaStorageBackend = 'odoo' | 'supabase'
 
 export interface MediaRecord {
   id: number
@@ -14,6 +15,9 @@ export interface MediaRecord {
   caption: string
   altText: string
   companyId: number | null
+  storageBackend: MediaStorageBackend
+  checksum: string
+  duration: number
   url: string
 }
 
@@ -37,6 +41,16 @@ export interface MediaDocumentItem {
   url?: string
   mimetype?: string
   fileSize?: number
+}
+
+export interface MediaVideoItem {
+  id?: number
+  file?: File
+  name: string
+  url?: string
+  mimetype?: string
+  fileSize?: number
+  duration?: number
 }
 
 export interface MediaUploadResult {
@@ -82,6 +96,17 @@ export interface MultiImageDropzoneProps {
   error?: string
 }
 
+export interface VideoDropzoneProps {
+  value: MediaVideoItem[]
+  onChange: (value: MediaVideoItem[]) => void
+  disabled?: boolean
+  readOnly?: boolean
+  maxFiles?: number
+  maxFileSize?: number
+  className?: string
+  error?: string
+}
+
 export interface MediaGalleryProps {
   model: string
   recordId: number
@@ -112,5 +137,9 @@ export interface OdooMediaRaw {
   caption: string | false
   alt_text: string | false
   company_id: [number, string] | false
+  storage_backend: MediaStorageBackend | false
+  storage_key: string | false
+  checksum: string | false
+  duration: number
   create_date?: string
 }

@@ -9,9 +9,10 @@ import { SectionCard } from '@/components/card/section-card'
 import { DocumentDropzone } from '@/components/image/document-dropzone'
 import { MediaGallery } from '@/components/image/media-gallery'
 import { MultiImageDropzone } from '@/components/image/multi-image-dropzone'
+import { VideoDropzone } from '@/components/image/video-dropzone'
 import { useDeleteEntityMedia, useEntityMedia } from '@/hooks/scm/use-media'
 
-import type { MediaDocumentItem, MediaImageItem, MediaRole } from '@/types/components/media'
+import type { MediaDocumentItem, MediaImageItem, MediaRole, MediaVideoItem } from '@/types/components/media'
 import type { ReactElement } from 'react'
 
 export interface MediaSectionProps {
@@ -31,6 +32,7 @@ export async function uploadMedia(file: File, model: string, id: number, role: M
   body.set('role', role)
   body.set('caption', caption)
   body.set('altText', caption)
+  body.set('name', file.name)
   body.set('file', file)
   const response = await fetch('/api/odoo/media/upload', { method: 'POST', body })
   const result: { success: boolean; error?: string } = await response.json()
@@ -76,17 +78,36 @@ export function MediaSection({
         })),
     [media]
   )
+  const videos = useMemo(
+    () =>
+      media
+        .filter((item) => item.kind === 'video')
+        .map((item): MediaVideoItem => ({
+          id: item.id,
+          name: item.name,
+          url: item.url,
+          mimetype: item.mimetype,
+          fileSize: item.fileSize,
+          duration: item.duration
+        })),
+    [media]
+  )
 
-  const changeImages = async (next: MediaImageItem[]) => {
-    for (const item of images) {
-      if (item.id && !next.some((current) => current.id === item.id)) {
+  const removeMissing = async (current: { id?: number }[], next: { id?: number }[]): Promise<boolean> => {
+    for (const item of current) {
+      if (item.id && !next.some((candidate) => candidate.id === item.id)) {
         const result = await deleteMutation.mutateAsync(item.id)
         if (!result.success) {
           toast.error(result.error || t('deleteFailed'))
-          return
+          return false
         }
       }
     }
+    return true
+  }
+
+  const changeImages = async (next: MediaImageItem[]) => {
+    if (!(await removeMissing(images, next))) return
     const pending = next.filter((item) => item.file)
     if (!pending.length) return
     try {
@@ -99,19 +120,24 @@ export function MediaSection({
   }
 
   const changeDocuments = async (next: MediaDocumentItem[]) => {
-    for (const item of documents) {
-      if (item.id && !next.some((current) => current.id === item.id)) {
-        const result = await deleteMutation.mutateAsync(item.id)
-        if (!result.success) {
-          toast.error(result.error || t('deleteFailed'))
-          return
-        }
-      }
-    }
+    if (!(await removeMissing(documents, next))) return
     const pending = next.filter((item) => item.file)
     if (!pending.length) return
     try {
       for (const item of pending) await uploadMedia(item.file as File, model, recordId, 'legal', item.name)
+      await refetch()
+      toast.success(t('uploadSuccess'))
+    } catch (error) {
+      toast.error(error instanceof Error ? error.message : t('uploadFailed'))
+    }
+  }
+
+  const changeVideos = async (next: MediaVideoItem[]) => {
+    if (!(await removeMissing(videos, next))) return
+    const pending = next.filter((item) => item.file)
+    if (!pending.length) return
+    try {
+      for (const item of pending) await uploadMedia(item.file as File, model, recordId, role, item.name)
       await refetch()
       toast.success(t('uploadSuccess'))
     } catch (error) {
@@ -142,6 +168,17 @@ export function MediaSection({
           readOnly={readOnly}
           maxFiles={10}
           maxFileSize={10}
+        />
+      </div>
+      <div className="space-y-2">
+        <h3 className="text-sm font-semibold">{t('videosTitle')}</h3>
+        <VideoDropzone
+          value={videos}
+          onChange={(next) => void changeVideos(next)}
+          disabled={disabled}
+          readOnly={readOnly}
+          maxFiles={6}
+          maxFileSize={50}
         />
       </div>
       {legacyImageUrl && images.length === 0 && (

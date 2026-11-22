@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 {
     'name': 'Syailendra SCM & Traceability',
-    'version': '18.0.1.5.0',
+    'version': '18.0.1.6.0',
     'summary': 'Rantai pasok atsiri: kebun, penyulingan, panen, QC, audit, dan ketertelusuran batch',
     'description': '''
         Syailendra Group SCM Core Addon (Odoo 18 CE):

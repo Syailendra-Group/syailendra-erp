@@ -1,0 +1,34 @@
+{
+  "title": "Change Partner Portal PIN",
+  "description": "Create a new PIN for the partner portal. The new PIN must differ from your current PIN.",
+  "fields": {
+    "oldPin": "Current PIN",
+    "oldPin_placeholder": "Enter your current PIN",
+    "newPin": "New PIN",
+    "newPin_placeholder": "Enter your new 6-digit PIN",
+    "confirmPin": "Confirm New PIN",
+    "confirmPin_placeholder": "Re-enter your new PIN"
+  },
+  "buttons": {
+    "changePin": "Change PIN",
+    "changing": "Changing PIN..."
+  },
+  "messages": {
+    "pinChanged": "PIN successfully changed. You will be redirected to the portal."
+  },
+  "errors": {
+    "invalidInput": "The data you entered is not valid.",
+    "rateLimited": "Too many attempts. Try again in {seconds} seconds.",
+    "invalidCredentials": "Current PIN is incorrect.",
+    "locked": "Access is temporarily locked after too many failed attempts.",
+    "weakPin": "New PIN is too weak or identical to your current PIN.",
+    "serviceUnavailable": "Service is unavailable right now."
+  },
+  "validation": {
+    "pinRequired": "PIN is required.",
+    "pinFormat": "PIN must be 6 digits.",
+    "pinSameAsOld": "New PIN must differ from your current PIN.",
+    "pinWeak": "PIN is too weak: avoid repeated or sequential digits.",
+    "pinConfirmMismatch": "PIN confirmation does not match."
+  }
+}

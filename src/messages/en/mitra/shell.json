@@ -1,0 +1,66 @@
+{
+  "title": "Syailendra Partner Portal",
+  "welcome": "Welcome, {name}",
+  "role": "{role}",
+  "tabs": {
+    "home": "Home",
+    "submissions": "Submissions",
+    "profile": "Profile"
+  },
+  "actions": {
+    "sync": "Sync",
+    "syncing": "Syncing...",
+    "synced": "All synced",
+    "submit": "Submit",
+    "sending": "Sending...",
+    "retry": "Retry",
+    "refresh": "Refresh"
+  },
+  "status": {
+    "online": "Online",
+    "offline": "Offline — stored locally",
+    "pending": "{count} submission(s) waiting to sync",
+    "synced": "All synced",
+    "error": "Sync failed: {message}"
+  },
+  "submission": {
+    "title": "Field Submission",
+    "kindLabel": "Submission Type",
+    "kinds": {
+      "petani": "Farmer Data",
+      "panen": "Harvest",
+      "serah-terima": "Handover",
+      "distilasi": "Distillation",
+      "kirim": "Delivery"
+    },
+    "sent": "Submission sent",
+    "gps": "GPS Location",
+    "photo": "Field Photo",
+    "photoLimit": "Max 2 MB (PNG, JPG, WebP)"
+  },
+  "form": {
+    "required": "Required",
+    "invalidNumber": "Enter a valid number"
+  },
+  "gps": {
+    "capture": "Capture GPS Location",
+    "fix": "Location recorded"
+  },
+  "photo": {
+    "take": "Take Photo",
+    "change": "Change Photo",
+    "limit": "Max {size}MB"
+  },
+  "offline": {
+    "title": "You Are Offline",
+    "desc": "Submissions are stored on this device and will be sent automatically when you are back online."
+  },
+  "errors": {
+    "geolocationDenied": "Location permission denied by the browser.",
+    "geolocationUnavailable": "Location is not available on this device.",
+    "geolocationFailed": "Failed to retrieve GPS location.",
+    "photoTooLarge": "Photo is too large (maximum {size}MB).",
+    "photoType": "Photo format not supported. Use PNG, JPG, or WebP.",
+    "submitFailed": "Failed to submit."
+  }
+}

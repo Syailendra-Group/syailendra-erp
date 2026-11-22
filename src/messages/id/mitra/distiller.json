@@ -1,0 +1,123 @@
+{
+  "title": {
+    "distillation": "Laporan Penyulingan",
+    "shipment": "Pengiriman ke PT SBI"
+  },
+  "subtitle": {
+    "distillation": "Catat hasil penyulingan untuk lot panen.",
+    "shipment": "Kirimkan pengiriman minyak hasil penyulingan ke PT SBI."
+  },
+  "breadcrumbs": {
+    "mitra": "Mitra",
+    "distillation": "Penyulingan",
+    "shipment": "Pengiriman",
+    "list": "Pengajuan"
+  },
+  "nav": {
+    "distillation": "Penyulingan",
+    "shipment": "Pengiriman",
+    "list": "Pengajuan"
+  },
+  "section": {
+    "identity": "Identitas",
+    "rawMaterial": "Bahan Baku",
+    "process": "Proses",
+    "yield": "Rendemen",
+    "shipmentDetail": "Detail Pengiriman",
+    "evidence": "Lokasi dan Bukti"
+  },
+  "field": {
+    "partner": "Mitra",
+    "farm": "Farm",
+    "harvestLot": "Lot Panen",
+    "product": "Produk",
+    "biomassInputKg": "Input Biomasa (kg)",
+    "crudeOilOutputKg": "Keluaran Minyak Mentah (kg)",
+    "hydrosolOutputLiter": "Output Hidrosol (liter)",
+    "yieldPercent": "Rendemen (%)",
+    "oilVolumeLiter": "Volume Minyak (liter)",
+    "filteredOilKg": "Minyak Tapis (kg)",
+    "packedOilKg": "Minyak Kemas (kg)",
+    "packingVarianceKg": "Variansi Kemasan (kg)",
+    "productionNotes": "Catatan Produksi",
+    "distillationDate": "Tanggal Penyulingan",
+    "durationHours": "Durasi (jam)",
+    "peakTempC": "Suhu Puncak (°C)",
+    "steamPressureBar": "Tekanan Uap (bar)",
+    "operatorName": "Nama Operator",
+    "method": "Metode Penyulingan",
+    "methodWater": "Air",
+    "methodSteam": "Uap",
+    "distillery": "Distilasi Tujuan",
+    "shipmentDate": "Tanggal Pengiriman",
+    "weightKg": "Berat (kg)",
+    "photo": "Foto",
+    "notes": "Catatan",
+    "reviewNotes": "Catatan Review",
+    "state": "Status",
+    "accessId": "ID Akses",
+    "reference": "No. Referensi",
+    "kind": "Tipe",
+    "createdAt": "Dibuat Pada",
+    "gpsLat": "Lintang",
+    "gpsLon": "Bujur"
+  },
+  "label": {
+    "prefill": "Diisi dari profil mitra. Hanya baca."
+  },
+  "helper": {
+    "biomassInputKg": "Masukkan berat input biomasa dalam kilogram.",
+    "distillationDate": "Tanggal penyulingan selesai.",
+    "weightKg": "Total berat pengiriman dalam kilogram.",
+    "method": "Pilih metode penyulingan yang digunakan.",
+    "notes": "Catatan opsional untuk pengajuan ini.",
+    "gps": "Koordinat GPS fasilitas pada saat pengajuan.",
+    "photo": "Foto fasilitas penyulingan atau serah terima pengiriman."
+  },
+  "errors": {
+    "required": "Kolom ini wajib diisi.",
+    "positive": "Harus lebih besar dari nol.",
+    "invalidDate": "Masukkan tanggal yang valid.",
+    "gpsRequired": "Lokasi GPS diperlukan.",
+    "gpsZero": "Koordinat GPS tidak valid: nilai nol tidak diperbolehkan.",
+    "photoRequired": "Silakan ambil atau unggah foto.",
+    "submitFailed": "Gagal mengajukan. Coba lagi.",
+    "saveDraftFailed": "Gagal menyimpan draf.",
+    "loadFailed": "Gagal memuat pengajuan.",
+    "invalid": "Nilai tidak valid."
+  },
+  "button": {
+    "submit": "Ajukan",
+    "saveDraft": "Simpan Draf",
+    "cancel": "Batal",
+    "edit": "Sunting",
+    "back": "Kembali",
+    "takePhoto": "Ambil Foto",
+    "captureGPS": "Ambil Lokasi GPS",
+    "refresh": "Segarkan"
+  },
+  "success": {
+    "submitted": "Pengajuan berhasil dikirim.",
+    "draftSaved": "Draf tersimpan."
+  },
+  "gps": {
+    "label": "Lokasi GPS",
+    "capturing": "Mengambil lokasi...",
+    "permission": "Izin lokasi diperlukan untuk mencatat GPS."
+  },
+  "photo": {
+    "label": "Lampiran Foto",
+    "dropzone": "Seret foto ke sini atau klik untuk unggah"
+  },
+  "list": {
+    "emptyTitle": "Tidak ada pengajuan ditemukan",
+    "emptyDesc": "Belum ada pengajuan yang dibuat."
+  },
+  "detail": {
+    "title": "Detail Pengajuan",
+    "reference": "No. Referensi",
+    "status": "Status",
+    "kind": "Tipe",
+    "createdAt": "Dibuat Pada"
+  }
+}

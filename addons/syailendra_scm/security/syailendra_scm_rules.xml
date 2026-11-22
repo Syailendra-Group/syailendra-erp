@@ -67,4 +67,25 @@
         <field name="global" eval="True"/>
     </record>
 
+    <record id="rule_syailendra_partner_access_company" model="ir.rule">
+        <field name="name">Akses Portal Mitra: multi-perusahaan</field>
+        <field name="model_id" ref="model_syailendra_partner_access"/>
+        <field name="domain_force">['|', ('company_id', '=', False), ('company_id', 'in', company_ids)]</field>
+        <field name="global" eval="True"/>
+    </record>
+
+    <record id="rule_syailendra_partner_submission_company" model="ir.rule">
+        <field name="name">Laporan Mitra: multi-perusahaan</field>
+        <field name="model_id" ref="model_syailendra_partner_submission"/>
+        <field name="domain_force">['|', ('company_id', '=', False), ('company_id', 'in', company_ids)]</field>
+        <field name="global" eval="True"/>
+    </record>
+
+    <record id="rule_syailendra_distiller_shipment_company" model="ir.rule">
+        <field name="name">Pengiriman Penyuling: multi-perusahaan</field>
+        <field name="model_id" ref="model_syailendra_distiller_shipment"/>
+        <field name="domain_force">['|', ('company_id', '=', False), ('company_id', 'in', company_ids)]</field>
+        <field name="global" eval="True"/>
+    </record>
+
 </odoo>

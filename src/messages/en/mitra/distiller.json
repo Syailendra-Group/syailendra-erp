@@ -1,0 +1,123 @@
+{
+  "title": {
+    "distillation": "Distillation Report",
+    "shipment": "Shipment to PT SBI"
+  },
+  "subtitle": {
+    "distillation": "Record distillation results for a harvest lot.",
+    "shipment": "Submit a shipment of distilled oil to PT SBI."
+  },
+  "breadcrumbs": {
+    "mitra": "Partner",
+    "distillation": "Distillation",
+    "shipment": "Shipment",
+    "list": "Submissions"
+  },
+  "nav": {
+    "distillation": "Distillation",
+    "shipment": "Shipment",
+    "list": "Submissions"
+  },
+  "section": {
+    "identity": "Identity",
+    "rawMaterial": "Raw Material",
+    "process": "Process",
+    "yield": "Yield",
+    "shipmentDetail": "Shipment Detail",
+    "evidence": "Location and Evidence"
+  },
+  "field": {
+    "partner": "Partner",
+    "farm": "Farm",
+    "harvestLot": "Harvest Lot",
+    "product": "Product",
+    "biomassInputKg": "Biomass Input (kg)",
+    "crudeOilOutputKg": "Crude Oil Output (kg)",
+    "hydrosolOutputLiter": "Hydrosol Output (liter)",
+    "yieldPercent": "Yield (%)",
+    "oilVolumeLiter": "Oil Volume (liter)",
+    "filteredOilKg": "Filtered Oil (kg)",
+    "packedOilKg": "Packed Oil (kg)",
+    "packingVarianceKg": "Packing Variance (kg)",
+    "productionNotes": "Production Notes",
+    "distillationDate": "Distillation Date",
+    "durationHours": "Duration (hours)",
+    "peakTempC": "Peak Temperature (°C)",
+    "steamPressureBar": "Steam Pressure (bar)",
+    "operatorName": "Operator Name",
+    "method": "Distillation Method",
+    "methodWater": "Water",
+    "methodSteam": "Steam",
+    "distillery": "Destination Distillery",
+    "shipmentDate": "Shipment Date",
+    "weightKg": "Weight (kg)",
+    "photo": "Photo",
+    "notes": "Notes",
+    "reviewNotes": "Review Notes",
+    "state": "Status",
+    "accessId": "Access ID",
+    "reference": "Reference No.",
+    "kind": "Type",
+    "createdAt": "Created At",
+    "gpsLat": "Latitude",
+    "gpsLon": "Longitude"
+  },
+  "label": {
+    "prefill": "Prefilled from partner profile. Read only."
+  },
+  "helper": {
+    "biomassInputKg": "Enter the biomass input weight in kilograms.",
+    "distillationDate": "Date the distillation was completed.",
+    "weightKg": "Total shipment weight in kilograms.",
+    "method": "Select the distillation method used.",
+    "notes": "Optional notes about this submission.",
+    "gps": "GPS coordinates of the facility at submission time.",
+    "photo": "Photo of the distillation facility or shipment handover."
+  },
+  "errors": {
+    "required": "This field is required.",
+    "positive": "Must be greater than zero.",
+    "invalidDate": "Please enter a valid date.",
+    "gpsRequired": "GPS location is required.",
+    "gpsZero": "Invalid GPS coordinates: zero values are not allowed.",
+    "photoRequired": "Please take or upload a photo.",
+    "submitFailed": "Failed to submit. Please try again.",
+    "saveDraftFailed": "Failed to save draft.",
+    "loadFailed": "Failed to load submission.",
+    "invalid": "Invalid value."
+  },
+  "button": {
+    "submit": "Submit",
+    "saveDraft": "Save Draft",
+    "cancel": "Cancel",
+    "edit": "Edit",
+    "back": "Back",
+    "takePhoto": "Take Photo",
+    "captureGPS": "Capture GPS Location",
+    "refresh": "Refresh"
+  },
+  "success": {
+    "submitted": "Submission submitted successfully.",
+    "draftSaved": "Draft saved."
+  },
+  "gps": {
+    "label": "GPS Location",
+    "capturing": "Capturing location...",
+    "permission": "Location permission is required to record GPS."
+  },
+  "photo": {
+    "label": "Photo Attachment",
+    "dropzone": "Drop photo here or click to upload"
+  },
+  "list": {
+    "emptyTitle": "No submissions found",
+    "emptyDesc": "You haven't created any submissions yet."
+  },
+  "detail": {
+    "title": "Submission Detail",
+    "reference": "Reference No.",
+    "status": "Status",
+    "kind": "Type",
+    "createdAt": "Created At"
+  }
+}

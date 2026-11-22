@@ -4,5 +4,7 @@ from . import operation
 from . import quality
 from . import compliance
 from . import partner
+from . import syailendra_partner_category
 from . import product
 from . import stock
+from . import portal

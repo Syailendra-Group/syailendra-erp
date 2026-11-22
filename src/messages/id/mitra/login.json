@@ -1,0 +1,34 @@
+{
+  "title": "Masuk Portal Mitra",
+  "description": "Masuk dengan kode mitra dan PIN 6 digit Anda.",
+  "fields": {
+    "accessCode": "Kode Mitra",
+    "accessCode_placeholder": "Contoh: FMR-0001",
+    "pin": "PIN",
+    "pin_placeholder": "Masukkan PIN 6 digit"
+  },
+  "buttons": {
+    "login": "Masuk",
+    "logging_in": "Memverifikasi..."
+  },
+  "messages": {
+    "loginSuccess": "Berhasil masuk ke portal mitra."
+  },
+  "errors": {
+    "invalidInput": "Data yang Anda masukkan tidak valid.",
+    "captchaMisconfigured": "Verifikasi keamanan belum dikonfigurasi di sisi server.",
+    "rateLimited": "Terlalu banyak percobaan. Coba lagi dalam {seconds} detik.",
+    "turnstileFailed": "Verifikasi keamanan gagal. Silakan coba lagi.",
+    "invalidCredentials": "Kode mitra atau PIN salah.",
+    "locked": "Akses terkunci sementara setelah terlalu banyak percobaan gagal.",
+    "serviceUnavailable": "Layanan verifikasi tidak tersedia saat ini."
+  },
+  "validation": {
+    "accessCodeRequired": "Kode mitra wajib diisi.",
+    "accessCodeMin": "Kode mitra minimal 4 karakter.",
+    "accessCodeMax": "Kode mitra maksimal 32 karakter.",
+    "pinRequired": "PIN wajib diisi.",
+    "pinFormat": "PIN harus 6 digit angka.",
+    "turnstileRequired": "Selesaikan verifikasi keamanan terlebih dahulu."
+  }
+}

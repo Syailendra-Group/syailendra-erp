@@ -1,0 +1,34 @@
+{
+  "title": "Ganti PIN Portal Mitra",
+  "description": "Buat PIN baru untuk portal mitra. PIN baru harus berbeda dari PIN lama.",
+  "fields": {
+    "oldPin": "PIN Lama",
+    "oldPin_placeholder": "Masukkan PIN saat ini",
+    "newPin": "PIN Baru",
+    "newPin_placeholder": "Masukkan PIN baru 6 digit",
+    "confirmPin": "Konfirmasi PIN Baru",
+    "confirmPin_placeholder": "Masukkan ulang PIN baru"
+  },
+  "buttons": {
+    "changePin": "Ganti PIN",
+    "changing": "Mengganti PIN..."
+  },
+  "messages": {
+    "pinChanged": "PIN berhasil diganti. Anda akan diarahkan ke portal."
+  },
+  "errors": {
+    "invalidInput": "Data yang Anda masukkan tidak valid.",
+    "rateLimited": "Terlalu banyak percobaan. Coba lagi dalam {seconds} detik.",
+    "invalidCredentials": "PIN lama salah.",
+    "locked": "Akses terkunci sementara setelah terlalu banyak percobaan gagal.",
+    "weakPin": "PIN baru terlalu lemah atau sama dengan PIN lama.",
+    "serviceUnavailable": "Layanan tidak tersedia saat ini."
+  },
+  "validation": {
+    "pinRequired": "PIN wajib diisi.",
+    "pinFormat": "PIN harus 6 digit angka.",
+    "pinSameAsOld": "PIN baru tidak boleh sama dengan PIN lama.",
+    "pinWeak": "PIN terlalu lemah: hindari angka berulang atau berurutan.",
+    "pinConfirmMismatch": "Konfirmasi PIN tidak cocok."
+  }
+}

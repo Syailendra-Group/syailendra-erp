@@ -1,0 +1,34 @@
+{
+  "title": "Partner Portal Sign In",
+  "description": "Sign in with your partner code and 6-digit PIN.",
+  "fields": {
+    "accessCode": "Partner Code",
+    "accessCode_placeholder": "Example: FMR-0001",
+    "pin": "PIN",
+    "pin_placeholder": "Enter your 6-digit PIN"
+  },
+  "buttons": {
+    "login": "Sign In",
+    "logging_in": "Verifying..."
+  },
+  "messages": {
+    "loginSuccess": "Successfully signed in to the partner portal."
+  },
+  "errors": {
+    "invalidInput": "The data you entered is not valid.",
+    "captchaMisconfigured": "Security verification is not configured on the server.",
+    "rateLimited": "Too many attempts. Try again in {seconds} seconds.",
+    "turnstileFailed": "Security verification failed. Please try again.",
+    "invalidCredentials": "Partner code or PIN is incorrect.",
+    "locked": "Access is temporarily locked after too many failed attempts.",
+    "serviceUnavailable": "Verification service is unavailable right now."
+  },
+  "validation": {
+    "accessCodeRequired": "Partner code is required.",
+    "accessCodeMin": "Partner code must be at least 4 characters.",
+    "accessCodeMax": "Partner code must be at most 32 characters.",
+    "pinRequired": "PIN is required.",
+    "pinFormat": "PIN must be 6 digits.",
+    "turnstileRequired": "Please complete the security verification first."
+  }
+}

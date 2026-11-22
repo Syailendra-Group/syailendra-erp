@@ -1,0 +1,64 @@
+{
+  "title": "Kategori Pemasok",
+  "subtitle": "Pengelompokan hierarkis pemasok untuk pengadaan bahan baku, kemasan, dan perlengkapan",
+  "actions": {
+    "create": "Tambah Kategori",
+    "edit": "Ubah Kategori",
+    "save": "Simpan",
+    "saving": "Menyimpan...",
+    "cancel": "Batal",
+    "close": "Tutup",
+    "refresh": "Segarkan"
+  },
+  "table": {
+    "columns": {
+      "name": "Nama Kategori",
+      "parent": "Kategori Induk",
+      "displayName": "Jalur Hierarki Lengkap",
+      "color": "Warna Tag",
+      "status": "Status",
+      "actions": "Aksi"
+    },
+    "status": {
+      "active": "Aktif",
+      "inactive": "Nonaktif"
+    },
+    "rootType": "Kategori Tingkat Teratas",
+    "emptyState": "Belum ada kategori pemasok terdaftar.",
+    "noResults": "Tidak ditemukan kategori pemasok yang cocok dengan kriteria pencarian.",
+    "rootBadge": "Kategori Utama",
+    "childBadge": "Sub-Kategori"
+  },
+  "form": {
+    "createTitle": "Tambah Kategori Pemasok",
+    "editTitle": "Ubah Kategori Pemasok",
+    "description": "Kelola hierarki kategori pemasok untuk pengelompokan pengadaan barang dan jasa.",
+    "fields": {
+      "name": "Nama Kategori",
+      "namePlaceholder": "Contoh: Pemasok Botol & Tutup",
+      "parent": "Kategori Induk",
+      "parentPlaceholder": "Pilih kategori induk (atau kosongkan untuk kategori tingkat teratas)",
+      "color": "Warna Tag",
+      "active": "Kategori Aktif",
+      "parentLockedHint": "Kategori ini sudah menjadi induk, sehingga tidak dapat dipindahkan ke bawah kategori lain."
+    },
+    "buttons": {
+      "save": "Simpan",
+      "saving": "Menyimpan...",
+      "cancel": "Batal"
+    }
+  },
+  "validation": {
+    "nameMin": "Nama kategori minimal 2 karakter",
+    "nameMax": "Nama kategori maksimal 100 karakter",
+    "dupPerParent": "Nama kategori ini sudah digunakan di bawah kategori induk yang dipilih",
+    "parentNotRoot": "Kategori induk harus berupa kategori tingkat teratas",
+    "groupHasParent": "Kategori yang sudah memiliki sub-kategori tidak dapat dipindahkan ke bawah kategori lain",
+    "selfParent": "Kategori tidak dapat menjadi induk bagi dirinya sendiri"
+  },
+  "toast": {
+    "createSuccess": "Kategori berhasil dibuat",
+    "updateSuccess": "Kategori berhasil diperbarui",
+    "error": "Gagal menyimpan kategori"
+  }
+}

@@ -1,0 +1,4 @@
+{
+  "welcome": "Selamat datang, {name}",
+  "role": "Peran: {role}"
+}

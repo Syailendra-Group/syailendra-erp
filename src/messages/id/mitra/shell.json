@@ -1,0 +1,66 @@
+{
+  "title": "Portal Mitra Syailendra",
+  "welcome": "Selamat datang, {name}",
+  "role": "{role}",
+  "tabs": {
+    "home": "Beranda",
+    "submissions": "Pengajuan",
+    "profile": "Profil"
+  },
+  "actions": {
+    "sync": "Sinkronkan",
+    "syncing": "Menyinkronkan...",
+    "synced": "Semua tersinkron",
+    "submit": "Kirim Pengajuan",
+    "sending": "Mengirim...",
+    "retry": "Coba Lagi",
+    "refresh": "Muat Ulang"
+  },
+  "status": {
+    "online": "Online",
+    "offline": "Offline — disimpan lokal",
+    "pending": "{count} pengajuan menunggu sinkron",
+    "synced": "Semua tersinkron",
+    "error": "Gagal menyinkronkan: {message}"
+  },
+  "submission": {
+    "title": "Pengajuan Lapangan",
+    "kindLabel": "Jenis Pengajuan",
+    "kinds": {
+      "petani": "Data Petani",
+      "panen": "Hasil Panen",
+      "serah-terima": "Serah Terima",
+      "distilasi": "Distilasi",
+      "kirim": "Pengiriman"
+    },
+    "sent": "Pengajuan terkirim",
+    "gps": "Lokasi GPS",
+    "photo": "Foto Lapangan",
+    "photoLimit": "Maksimal 2 MB (PNG, JPG, WebP)"
+  },
+  "form": {
+    "required": "Wajib diisi",
+    "invalidNumber": "Masukkan angka yang valid"
+  },
+  "gps": {
+    "capture": "Ambil Lokasi GPS",
+    "fix": "Lokasi tercatat"
+  },
+  "photo": {
+    "take": "Ambil Foto",
+    "change": "Ganti Foto",
+    "limit": "Maksimal {size}MB"
+  },
+  "offline": {
+    "title": "Anda Sedang Offline",
+    "desc": "Pengajuan disimpan di perangkat dan akan terkirim otomatis saat kembali online."
+  },
+  "errors": {
+    "geolocationDenied": "Izin lokasi ditolak oleh browser.",
+    "geolocationUnavailable": "Lokasi tidak tersedia di perangkat ini.",
+    "geolocationFailed": "Gagal mengambil lokasi GPS.",
+    "photoTooLarge": "Foto terlalu besar (maksimal {size}MB).",
+    "photoType": "Format foto tidak didukung. Gunakan PNG, JPG, atau WebP.",
+    "submitFailed": "Gagal mengirim pengajuan."
+  }
+}

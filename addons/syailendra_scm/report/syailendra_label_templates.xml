@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+
+    <!-- Template isi label. Satu body dipakai tiga preset; preset menentukan
+         ukuran kertas (paperformat) dan teks judul. Semua nilai diambil dari
+         record lot lewat label_meta() agar tidak ada angka yang dikarang di QWeb. -->
+
+    <template id="report_label_body">
+        <t t-set="m" t-value="doc.label_meta()"/>
+        <div class="sy-label">
+            <div class="sy-label-company">
+                <span t-esc="doc.company_id.name"/>
+            </div>
+            <div class="sy-label-preset" t-esc="preset_title"/>
+            <div class="sy-label-product" t-esc="m['product']"/>
+            <div class="sy-label-botanical" t-if="m['botanical']" t-esc="m['botanical']"/>
+
+            <table class="sy-label-table">
+                <tr>
+                    <td class="sy-k">Lot</td>
+                    <td class="sy-v sy-mono" t-esc="m['lot']"/>
+                </tr>
+                <tr t-if="m['net_weight_kg']">
+                    <td class="sy-k">Netto</td>
+                    <td class="sy-v" t-esc="'%.2f kg' % m['net_weight_kg']"/>
+                </tr>
+                <tr t-if="m['received_on']">
+                    <td class="sy-k">Terima</td>
+                    <td class="sy-v" t-esc="m['received_on']"/>
+                </tr>
+                <tr t-if="m['produced_on']">
+                    <td class="sy-k">Suling</td>
+                    <td class="sy-v" t-esc="m['produced_on']"/>
+                </tr>
+                <tr>
+                    <td class="sy-k">Mutu</td>
+                    <td class="sy-v" t-esc="m['qc_state']"/>
+                </tr>
+                <tr t-if="m['coa']">
+                    <td class="sy-k">CoA</td>
+                    <td class="sy-v sy-mono" t-esc="m['coa']"/>
+                </tr>
+            </table>
+
+            <table class="sy-label-foot">
+                <tr>
+                    <td class="sy-qr">
+                        <img t-att-src="m['barcode_src']" alt="QR"/>
+                    </td>
+                    <td class="sy-hint">
+                        <div t-esc="scan_hint"/>
+                        <div class="sy-mono sy-url" t-esc="m['trace_url']"/>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </template>
+
+    <template id="report_label_vial">
+        <t t-call="web.html_container">
+            <t t-foreach="docs" t-as="doc">
+                <t t-call="syailendra_scm.report_label_body">
+                    <t t-set="preset_title" t-value="'SAMPEL'"/>
+                    <t t-set="scan_hint" t-value="'Pindai untuk silsilah batch'"/>
+                </t>
+            </t>
+        </t>
+    </template>
+
+    <template id="report_label_drum">
+        <t t-call="web.html_container">
+            <t t-foreach="docs" t-as="doc">
+                <t t-call="syailendra_scm.report_label_body">
+                    <t t-set="preset_title" t-value="'BAHAN BAKU'"/>
+                    <t t-set="scan_hint" t-value="'Pindai untuk silsilah batch'"/>
+                </t>
+            </t>
+        </t>
+    </template>
+
+    <template id="report_label_retail">
+        <t t-call="web.html_container">
+            <t t-foreach="docs" t-as="doc">
+                <t t-call="syailendra_scm.report_label_body">
+                    <t t-set="preset_title" t-value="'PRODUK'"/>
+                    <t t-set="scan_hint" t-value="'Pindai untuk asal-usul'"/>
+                </t>
+            </t>
+        </t>
+    </template>
+
+</odoo>

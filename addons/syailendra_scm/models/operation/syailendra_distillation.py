@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 from odoo import api, fields, models
-from odoo.exceptions import ValidationError
+from odoo.exceptions import UserError, ValidationError
 
 
 class SyailendraDistillation(models.Model):
@@ -136,3 +136,56 @@ class SyailendraDistillation(models.Model):
         for record in self:
             if record.yield_percent and record.yield_percent > 100:
                 raise ValidationError('Rendemen tidak boleh melebihi 100%.')
+
+    @api.constrains('state', 'lot_id')
+    def _check_done_requires_lot(self):
+        for record in self:
+            if record.state == 'done' and not record.lot_id:
+                raise ValidationError(
+                    'Batch berstatus Selesai wajib memiliki lot terbit. '
+                    'Gunakan tombol Selesaikan agar lot diterbitkan otomatis.'
+                )
+
+    def action_issue_lot(self):
+        """Terbitkan lot minyak untuk batch ini. Idempoten."""
+        self.ensure_one()
+        if self.lot_id:
+            return self.lot_id
+        if self.state == 'failed':
+            raise UserError('Batch gagal tidak dapat menerbitkan lot.')
+        if not self.crude_oil_output_kg:
+            raise UserError(
+                'Isi hasil minyak mentah sebelum menerbitkan lot.'
+            )
+        harvest = self.harvest_id
+        lot = self.env['stock.lot'].create(
+            {
+                'name': self.name,
+                'product_id': self.product_id.id,
+                'company_id': self.company_id.id,
+                'harvest_id': harvest.id,
+                'distillation_id': self.id,
+                'distillery_id': self.distillery_id.id,
+                'farm_id': harvest.farm_id.id,
+                'farmer_id': harvest.partner_id.id,
+                'quarantine_state': 'quarantine',
+            }
+        )
+        self.lot_id = lot
+        return lot
+
+    def action_done(self):
+        """Selesaikan batch sekaligus terbitkan lot minyak."""
+        for record in self:
+            record.action_issue_lot()
+            record.state = 'done'
+        return True
+
+    def action_fail(self):
+        for record in self:
+            if record.lot_id:
+                raise UserError(
+                    'Batch yang sudah menerbitkan lot tidak dapat ditandai gagal.'
+                )
+            record.state = 'failed'
+        return True

@@ -76,6 +76,13 @@ class SyailendraHarvest(models.Model):
     distillation_count = fields.Integer(
         string='Jumlah Batch Suling', compute='_compute_distillation_count'
     )
+    lot_ids = fields.One2many(
+        'stock.lot',
+        'harvest_id',
+        string='Lot Minyak Terkait',
+        help='Lot minyak yang lahir dari penyulingan lot panen ini.',
+    )
+    lot_count = fields.Integer(string='Jumlah Lot Terbit', compute='_compute_lot_count')
 
     active = fields.Boolean(string='Aktif', default=True)
     company_id = fields.Many2one(
@@ -90,6 +97,11 @@ class SyailendraHarvest(models.Model):
     def _compute_distillation_count(self):
         for record in self:
             record.distillation_count = len(record.distillation_ids)
+
+    @api.depends('lot_ids')
+    def _compute_lot_count(self):
+        for record in self:
+            record.lot_count = len(record.lot_ids)
 
     @api.constrains('wet_weight_kg')
     def _check_weight(self):

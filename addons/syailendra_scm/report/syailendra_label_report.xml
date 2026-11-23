@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+
+    <!-- ================================================================
+         Format kertas label. Ukuran dalam milimeter, tanpa header/footer.
+         Margin 1 mm agar QR tetap dapat dipindai setelah dicetak.
+         ================================================================ -->
+
+    <record id="paperformat_label_vial" model="report.paperformat">
+        <field name="name">Label Vial Sampel 50x25 mm</field>
+        <field name="format">custom</field>
+        <field name="page_height">25</field>
+        <field name="page_width">50</field>
+        <field name="orientation">Portrait</field>
+        <field name="margin_top">1</field>
+        <field name="margin_bottom">1</field>
+        <field name="margin_left">1</field>
+        <field name="margin_right">1</field>
+        <field name="header_line" eval="False"/>
+        <field name="header_spacing">0</field>
+        <field name="dpi">90</field>
+    </record>
+
+    <record id="paperformat_label_drum" model="report.paperformat">
+        <field name="name">Label Drum Bahan Baku 100x150 mm</field>
+        <field name="format">custom</field>
+        <field name="page_height">150</field>
+        <field name="page_width">100</field>
+        <field name="orientation">Portrait</field>
+        <field name="margin_top">3</field>
+        <field name="margin_bottom">3</field>
+        <field name="margin_left">3</field>
+        <field name="margin_right">3</field>
+        <field name="header_line" eval="False"/>
+        <field name="header_spacing">0</field>
+        <field name="dpi">90</field>
+    </record>
+
+    <record id="paperformat_label_retail" model="report.paperformat">
+        <field name="name">Label Botol Retail 60x40 mm</field>
+        <field name="format">custom</field>
+        <field name="page_height">40</field>
+        <field name="page_width">60</field>
+        <field name="orientation">Portrait</field>
+        <field name="margin_top">2</field>
+        <field name="margin_bottom">2</field>
+        <field name="margin_left">2</field>
+        <field name="margin_right">2</field>
+        <field name="header_line" eval="False"/>
+        <field name="header_spacing">0</field>
+        <field name="dpi">90</field>
+    </record>
+
+    <!-- ================================================================
+         Aksi laporan. Bind ke stock.lot agar muncul di menu Cetak.
+         ================================================================ -->
+
+    <record id="action_report_label_vial" model="ir.actions.report">
+        <field name="name">Label QR — Vial Sampel</field>
+        <field name="model">stock.lot</field>
+        <field name="report_type">qweb-pdf</field>
+        <field name="report_name">syailendra_scm.report_label_vial</field>
+        <field name="report_file">syailendra_scm.report_label_vial</field>
+        <field name="paperformat_id" ref="paperformat_label_vial"/>
+        <field name="print_report_name">'Label-Vial-%s' % (object.name)</field>
+        <field name="binding_model_id" ref="stock.model_stock_lot"/>
+        <field name="binding_type">report</field>
+        <field name="groups_id" eval="[(4, ref('group_scm_user'))]"/>
+    </record>
+
+    <record id="action_report_label_drum" model="ir.actions.report">
+        <field name="name">Label QR — Drum Bahan Baku</field>
+        <field name="model">stock.lot</field>
+        <field name="report_type">qweb-pdf</field>
+        <field name="report_name">syailendra_scm.report_label_drum</field>
+        <field name="report_file">syailendra_scm.report_label_drum</field>
+        <field name="paperformat_id" ref="paperformat_label_drum"/>
+        <field name="print_report_name">'Label-Drum-%s' % (object.name)</field>
+        <field name="binding_model_id" ref="stock.model_stock_lot"/>
+        <field name="binding_type">report</field>
+        <field name="groups_id" eval="[(4, ref('group_scm_user'))]"/>
+    </record>
+
+    <record id="action_report_label_retail" model="ir.actions.report">
+        <field name="name">Label QR — Botol Retail</field>
+        <field name="model">stock.lot</field>
+        <field name="report_type">qweb-pdf</field>
+        <field name="report_name">syailendra_scm.report_label_retail</field>
+        <field name="report_file">syailendra_scm.report_label_retail</field>
+        <field name="paperformat_id" ref="paperformat_label_retail"/>
+        <field name="print_report_name">'Label-Retail-%s' % (object.name)</field>
+        <field name="binding_model_id" ref="stock.model_stock_lot"/>
+        <field name="binding_type">report</field>
+        <field name="groups_id" eval="[(4, ref('group_scm_user'))]"/>
+    </record>
+
+</odoo>

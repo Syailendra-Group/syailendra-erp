@@ -42,7 +42,12 @@ class SyailendraQcInspection(models.Model):
     # --- Organoleptik & fisik dasar ---
     color = fields.Char(string='Warna')
     aroma = fields.Char(string='Aroma')
-    appearance = fields.Char(string='Penampilan / Kejernihan')
+    appearance = fields.Char(
+        string='Penampilan / Kejernihan',
+        help='Mencakup uji kejernihan sesuai dokumen pemetaan proses.',
+    )
+    texture = fields.Char(string='Tekstur')
+    solubility = fields.Char(string='Kelarutan')
     specific_gravity = fields.Float(string='Specific Gravity (20°C)', digits=(6, 4))
     refractive_index = fields.Float(string='Refractive Index (20°C)', digits=(6, 4))
     optical_rotation = fields.Float(string='Optical Rotation (°)', digits=(6, 2))

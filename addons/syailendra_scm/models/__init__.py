@@ -7,4 +7,5 @@ from . import partner
 from . import syailendra_partner_category
 from . import product
 from . import stock
+from . import traceability
 from . import portal

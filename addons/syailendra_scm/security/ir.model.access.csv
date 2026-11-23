@@ -42,3 +42,9 @@ access_syailendra_portal_access_log_api,syailendra.portal.access.log.api,model_s
 access_syailendra_distiller_shipment_user,syailendra.distiller.shipment.user,model_syailendra_distiller_shipment,group_scm_user,1,0,0,0
 access_syailendra_distiller_shipment_manager,syailendra.distiller.shipment.manager,model_syailendra_distiller_shipment,group_scm_manager,1,1,1,1
 access_syailendra_distiller_shipment_api,syailendra.distiller.shipment.api,model_syailendra_distiller_shipment,group_scm_api,1,0,0,0
+access_syailendra_rm_receipt_user,syailendra.rm.receipt.user,model_syailendra_rm_receipt,group_scm_user,1,1,1,0
+access_syailendra_rm_receipt_manager,syailendra.rm.receipt.manager,model_syailendra_rm_receipt,group_scm_manager,1,1,1,1
+access_syailendra_rm_receipt_api,syailendra.rm.receipt.api,model_syailendra_rm_receipt,group_scm_api,1,0,0,0
+access_syailendra_qr_label_user,syailendra.qr.label.user,model_syailendra_qr_label,group_scm_user,1,1,1,0
+access_syailendra_qr_label_manager,syailendra.qr.label.manager,model_syailendra_qr_label,group_scm_manager,1,1,1,1
+access_syailendra_qr_label_api,syailendra.qr.label.api,model_syailendra_qr_label,group_scm_api,1,0,0,0

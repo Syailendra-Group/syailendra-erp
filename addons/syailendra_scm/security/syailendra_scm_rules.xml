@@ -88,4 +88,19 @@
         <field name="global" eval="True"/>
     </record>
 
+
+    <record id="rule_syailendra_rm_receipt_company" model="ir.rule">
+        <field name="name">Penerimaan Bahan Baku: multi-perusahaan</field>
+        <field name="model_id" ref="model_syailendra_rm_receipt"/>
+        <field name="domain_force">['|', ('company_id', '=', False), ('company_id', 'in', company_ids)]</field>
+        <field name="global" eval="True"/>
+    </record>
+
+    <record id="rule_syailendra_qr_label_company" model="ir.rule">
+        <field name="name">Label QR: multi-perusahaan</field>
+        <field name="model_id" ref="model_syailendra_qr_label"/>
+        <field name="domain_force">['|', ('company_id', '=', False), ('company_id', 'in', company_ids)]</field>
+        <field name="global" eval="True"/>
+    </record>
+
 </odoo>

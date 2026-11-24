@@ -1,5 +1,6 @@
 access-control-rbac
 accurate-online
+antigravity-agent-workspace
 auth-implementation-patterns
 clean-architecture
 clean-code
@@ -21,7 +22,7 @@ file-storage
 file-uploads
 frontend-design
 fullstack-development-standards
-fullstack-development-standards-v2
+fullstack-development-standards-v22
 git-workflow-and-versioning
 github
 github--profile
@@ -97,6 +98,7 @@ vercel-react-best-practices
 vercel-react-best-practices--global-agents
 vitest-testing
 web-security-audit
+workspace-clone-cleanup
 xlsx
 zod
 zod-i18n-patterns

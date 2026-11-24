@@ -42,7 +42,7 @@ Rules applied during install:
 - `skills-manifest.json` records destination name, source library and path, file count,
   byte size, SKILL.md hash, and the curated `core` flag.
 
-Curation has been applied: **102 core skills are indexed** under `.agents/skills/`
+Curation has been applied: **104 core skills are indexed** under `.agents/skills/`
 (≈12 MB, 1,074 files) and **503 non-core skills stay on disk** under
 `.agents/skills-library/` (≈58 MB), which is gitignored and not scanned by Antigravity.
 The core list lives in `.agents/skills-core.txt`; `scripts/agents/curate-skills.sh`

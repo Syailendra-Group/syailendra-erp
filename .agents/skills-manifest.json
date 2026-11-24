@@ -21,14 +21,14 @@
  ],
  "note": "Union of the Octa Hub skill libraries exposed to profile octadev. Core=true marks the curated ERP-relevant subset.",
  "totals": {
-  "skills": 605,
-  "files": 4071,
-  "bytes": 59129437,
+  "skills": 607,
+  "files": 4079,
+  "bytes": 59168895,
   "broken_links": 0,
   "fm_added": 4,
-  "indexed": 102,
+  "indexed": 104,
   "library": 503,
-  "installed": 605
+  "installed": 607
  },
  "skills": [
   {
@@ -2003,13 +2003,13 @@
    "dest": "fullstack-development-standards-v2",
    "source_library": "profile",
    "source_path": "/opt/data/profiles/octadev/skills/software-development/fullstack-development-standards-v2",
-   "core": true,
+   "core": false,
    "files": 1,
    "bytes": 3514,
    "broken_symlinks_skipped": 0,
    "frontmatter_added": false,
    "sha256_skill_md": "b8f11f017a22480c2bc4b824f123e6131c8ecb6e7aff640befc96be38146d721",
-   "installed_location": "skills"
+   "installed_location": "skills-library"
   },
   {
    "dest": "fullstack-development-standards-v20",
@@ -2039,13 +2039,13 @@
    "dest": "fullstack-development-standards-v22",
    "source_library": "profile",
    "source_path": "/opt/data/profiles/octadev/skills/software-development/fullstack-development-standards-v22",
-   "core": false,
+   "core": true,
    "files": 1,
    "bytes": 18252,
    "broken_symlinks_skipped": 0,
    "frontmatter_added": false,
    "sha256_skill_md": "3bfa8d1f681333ab36c6f19c34cc5fb07c02138d6ea984c7b3b1272637fdb8b4",
-   "installed_location": "skills-library"
+   "installed_location": "skills"
   },
   {
    "dest": "fullstack-development-standards-v3",
@@ -7290,14 +7290,40 @@
    "frontmatter_added": false,
    "sha256_skill_md": "31d970e02626fb31977f1249186387205af6a9e0c8ad6cfb592662df70162e6c",
    "installed_location": "skills-library"
+  },
+  {
+   "dest": "antigravity-agent-workspace",
+   "source_library": "profile",
+   "source_path": "/opt/data/profiles/octadev/skills/octa-hub/antigravity-agent-workspace",
+   "core": true,
+   "installed_location": "skills",
+   "files": 5,
+   "bytes": 29180,
+   "broken_symlinks_skipped": 0,
+   "frontmatter_added": false,
+   "sha256_skill_md": "d9b025aaa0721fb2d50f49cd912a88388bc4feca09873c0b4c72bd1532181cdc"
+  },
+  {
+   "dest": "workspace-clone-cleanup",
+   "source_library": "profile",
+   "source_path": "/opt/data/profiles/octadev/skills/workspace-clone-cleanup",
+   "core": true,
+   "installed_location": "skills",
+   "files": 3,
+   "bytes": 10278,
+   "broken_symlinks_skipped": 0,
+   "frontmatter_added": false,
+   "sha256_skill_md": "0dbcd232a6b0acdcb447c3945b7851890a7161277020fb6fd0c6d54044a25f1c"
   }
  ],
  "curation": {
   "applied": true,
   "applied_at": "2026-11-23",
-  "indexed": 102,
+  "indexed": 104,
   "library": 503,
   "core_list": ".agents/skills-core.txt",
-  "policy": "Only skills listed in .agents/skills-core.txt remain under .agents/skills and are indexed by Antigravity; the rest stay on disk under .agents/skills-library (gitignored)."
+  "policy": "Only skills listed in .agents/skills-core.txt remain under .agents/skills and are indexed by Antigravity; the rest stay on disk under .agents/skills-library (gitignored).",
+  "last_updated": "2026-11-24",
+  "note": "Fullstack standards realigned to the current profile revision: fullstack-development-standards-v22 (15.1.0) promoted into the indexed set, superseded fullstack-development-standards-v2 moved to skills-library. antigravity-agent-workspace and workspace-clone-cleanup added after the initial build."
  }
 }

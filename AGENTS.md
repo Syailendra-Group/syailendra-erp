@@ -1,12 +1,34 @@
 # AGENTS.md — ERP Syailendra Group
 
+> ## Verified current state (2026-11-23)
+>
+> A canonical, English documentation set now lives in `docs/agent/` and the agent
+> workspace lives in `.agents/`. Where this file disagrees with them, they win.
+>
+> - Business: essential oils and natural commodities (DDistillers brand) for
+>   Syailendra Group. The earlier "specialty Arabica coffee" description is obsolete.
+> - Odoo backend: Odoo 18 Community Edition on the company host
+>   (`ddistillers-vps`), database `syailendra_erp`. `odoo_dev` on the Dahono LXC is a
+>   legacy/dev reference only.
+> - Frontend: Next.js 16 App Router, TypeScript strict, shadcn/ui, Tailwind v4.
+> - Deployment: self-hosted behind the Caddy edge proxy; the Vercel deployment was
+>   cancelled. `app.syailendra.group` is served through the edge proxy.
+> - Odoo RPC services live in `src/services/odoo/` (not `src/lib/odoo/`), server
+>   actions in `src/actions/`, types in `src/types/`, schemas in `src/schemas/`.
+> - Sections 13 (Features) and 16 (Environment Variables) below are historical
+>   sprint notes; treat them as background, not as current state.
+> - Never commit or push without explicit owner approval for that specific action.
+>
+> Read `docs/agent/README.md` first, then `.agents/AGENTS.md` and
+> `.agents/rules/`.
+
 ---
 
 ## 1. Project Overview
 
 - **Name** : ERP Syailendra Group (Headless Enterprise Management System)
 - **Description** : A mission-critical, enterprise-grade headless ERP application that unifies Double-Entry Inventory, End-to-End Farm-to-Consumer Traceability, Workforce Attendance & Daily Reporting, and a High-Velocity B2B CRM (Colabo Style). Built with a decoupled architecture separating a modern Next.js 16 frontend from an Odoo 18 Community Edition calculation and ORM engine.
-- **Goal** : To streamline agricultural supply chains (specialty Arabica coffee, premium commodities), ensure transparent batch traceability from Mount Sindoro farmers to retail consumers via QR Code, automate workforce tracking, and power B2B wholesale deals.
+- **Goal** : To streamline the essential-oil and natural-commodity supply chain (DDistillers), ensure transparent batch traceability from partner farmers and distilleries to B2B buyers and retail consumers via QR Code, automate workforce tracking, and power B2B wholesale deals.
 - **Target Users**: Superadmin / Executives, Warehouse Officers, QC & Agronomists, Sales Representatives, Field Operations, and Retail Consumers (via public QR).
 - **Version** : v1.0.0-dev
 - **Status** : Active development
@@ -24,12 +46,12 @@
 - **Form Management** : React Hook Form + Zod (`@hookform/resolvers`)
 - **Data Tables** : TanStack React Table v9 (Headless, multi-filter, virtualized)
 - **Data Visualization**: Recharts (Analytics, trends, harvest metrics)
-- **Backend ERP Engine**: Odoo 18.0 Community Edition (Docker on VPS Dahono, Python 3.12, Werkzeug)
-- **Database** : PostgreSQL 15 Alpine (`odoo-db` container)
+- **Backend ERP Engine**: Odoo 18.0 Community Edition (Docker on the company host `ddistillers-vps`, database `syailendra_erp`)
+- **Database** : PostgreSQL (container `odoo-db` on the company host)
 - **API Protocol** : Pure JSON-RPC 2.0 (`/jsonrpc` endpoint via internal Docker bridge `octa-hub`)
 - **Package Manager** : npm (Strictly enforced)
 - **Reverse Proxy** : Caddy (Automated TLS/HTTPS, Let's Encrypt)
-- **Deployment** : VPS Dahono (Linux LXC Container, Docker Compose)
+- **Deployment** : Self-hosted behind the Caddy edge proxy (`app.syailendra.group`); the Vercel deployment was cancelled
 
 ---
 
@@ -47,7 +69,7 @@ npm run typecheck     # Validate strict TypeScript types without emitting files
 # Package Management
 npm install [package] # Install new package (NEVER use yarn, pnpm, or bun)
 
-# Docker Backend (VPS Dahono)
+# Odoo backend (company host; local dev container is separate)
 docker compose up -d  # Start Odoo 18 & PostgreSQL containers
 docker compose ps     # Inspect container health and port bindings
 docker compose logs   # Tail runtime logs for odoo-web and odoo-db
@@ -106,7 +128,7 @@ File placement rules:
 
 - New UI components from shadcn are always in `src/components/ui/`
 - App Shell primitives reside strictly in `src/components/layout/`
-- TypeScript interfaces for Odoo models belong in `src/lib/odoo/types.ts`
+- TypeScript interfaces for Odoo models belong in `src/types/`; RPC services live in `src/services/odoo/`
 - Zod schemas are placed in `src/schemas/`
 - Global Zustand stores are placed in `src/stores/`
 - Do not create new top-level folders without prior confirmation.
@@ -235,7 +257,7 @@ File placement rules:
 - NEVER use `useEffect` for raw data fetching. ALWAYS use TanStack React Query or Server Components.
 
 # Modular Odoo Client SDK
-- Keep all Odoo RPC interactions strictly inside `src/lib/odoo/`.
+- Keep all Odoo RPC interactions strictly inside `src/services/odoo/`.
 - Component files must never construct raw JSON-RPC payload objects directly.
 
 # API Response Format
@@ -315,6 +337,8 @@ refactor: modularize odoo json-rpc domain services
 ## 13. Features
 
 ```
+# Historical sprint notes (see docs/agent/ for current status)
+
 # Completed
 - [x] Scaffolding Next.js 16 with TypeScript and Turbopack
 - [x] Setup Tailwind CSS v4 and shadcn/ui preset bIkeymG
@@ -381,7 +405,7 @@ refactor: modularize odoo json-rpc domain services
 ```
 # Local Development (.env.local) - Gitignored
 ODOO_BASE_URL="http://10.10.0.238:8069"
-ODOO_DB="odoo_dev"
+ODOO_DB="syailendra_erp"
 ODOO_USERNAME="octalectzz@gmail.com"
 ODOO_PASSWORD="***"
 

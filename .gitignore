@@ -57,3 +57,9 @@ scripts/output/
 
 # python bytecode
 __pycache__/
+
+# agent skill library (only created by scripts/agents/curate-skills.sh)
+.agents/skills-library/
+
+# transient agent probe files
+.agents/**/.probe*

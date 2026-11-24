@@ -1,0 +1,93 @@
+{
+  "mcpServers": {
+    "context7": {
+      "serverUrl": "https://mcp.context7.com/mcp",
+      "timeoutSeconds": 300
+    },
+    "deepwiki": {
+      "serverUrl": "https://mcp.deepwiki.com/mcp",
+      "timeoutSeconds": 300
+    },
+    "shadcn": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "shadcn@latest",
+        "mcp"
+      ],
+      "disabled": true,
+      "timeoutSeconds": 300
+    },
+    "next-devtools": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "next-devtools-mcp@latest"
+      ],
+      "env": {
+        "PATH": "C:/Program Files/nodejs"
+      },
+      "disabled": true,
+      "timeoutSeconds": 600
+    },
+    "vercel": {
+      "serverUrl": "https://mcp.vercel.com",
+      "disabled": true,
+      "timeoutSeconds": 300,
+      "enabledTools": [
+        "list_projects",
+        "get_project",
+        "list_deployments",
+        "get_deployment",
+        "get_runtime_logs",
+        "get_runtime_errors",
+        "search_vercel_documentation"
+      ]
+    },
+    "supabase": {
+      "serverUrl": "https://mcp.supabase.com/mcp",
+      "disabled": true,
+      "timeoutSeconds": 300,
+      "enabledTools": [
+        "list_projects",
+        "get_project",
+        "list_tables",
+        "get_project_url",
+        "generate_typescript_types"
+      ]
+    },
+    "prisma-postgres": {
+      "serverUrl": "https://mcp.prisma.io/mcp",
+      "disabled": true,
+      "timeoutSeconds": 300
+    },
+    "postman": {
+      "serverUrl": "https://mcp.postman.com/minimal",
+      "disabled": true,
+      "timeoutSeconds": 300
+    },
+    "aws-knowledge": {
+      "serverUrl": "https://knowledge-mcp.global.api.aws",
+      "disabled": true,
+      "timeoutSeconds": 300
+    },
+    "wolfram": {
+      "serverUrl": "https://agenttools.wolfram.com/mcp",
+      "disabled": true,
+      "timeoutSeconds": 300
+    },
+    "kiwi": {
+      "serverUrl": "https://mcp.kiwi.com",
+      "disabled": true,
+      "timeoutSeconds": 300,
+      "enabledTools": [
+        "search-flight"
+      ]
+    },
+    "twilio-docs": {
+      "serverUrl": "https://mcp.twilio.com/docs",
+      "disabled": true,
+      "timeoutSeconds": 300
+    }
+  }
+}

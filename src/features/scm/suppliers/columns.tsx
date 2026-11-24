@@ -1,7 +1,7 @@
 'use client'
 
 import { ColumnDef } from '@tanstack/react-table'
-import { Mail, Phone } from 'lucide-react'
+import { Key, Mail, Phone } from 'lucide-react'
 
 import { ActionButton } from '@/components/button/action-button'
 import { DataTableColumnHeader } from '@/components/data-table/column-header'
@@ -11,6 +11,7 @@ import { IconText, LongText, PrimaryText } from '@/components/text'
 import { Badge } from '@/components/ui/badge'
 import { getCategoryBadgeSummary } from '@/utils/supplier-category'
 
+import type { PartnerAccessSummary } from '@/types/scm/partner-access'
 import type { SupplierRecord } from '@/types/scm/supplier'
 
 export interface SupplierColumnsProps {
@@ -19,9 +20,19 @@ export interface SupplierColumnsProps {
   onView: (item: SupplierRecord) => void
   onEdit: (item: SupplierRecord) => void
   onToggleStatus: (item: SupplierRecord) => void
+  pinStatusMap: Map<number, PartnerAccessSummary>
+  onIssuePin: (item: SupplierRecord) => void
 }
 
-export function getSupplierColumns({ t, tCommon, onView, onEdit, onToggleStatus }: SupplierColumnsProps): ColumnDef<SupplierRecord>[] {
+export function getSupplierColumns({
+  t,
+  tCommon,
+  onView,
+  onEdit,
+  onToggleStatus,
+  pinStatusMap,
+  onIssuePin
+}: SupplierColumnsProps): ColumnDef<SupplierRecord>[] {
   return [
     {
       accessorKey: 'ref',
@@ -48,7 +59,7 @@ export function getSupplierColumns({ t, tCommon, onView, onEdit, onToggleStatus 
         return filterValues.some((val) => catIds.includes(Number(val)))
       },
       cell: ({ row }) => {
-        const { primary, overflow, labels } = getCategoryBadgeSummary(row.original.categoryNames)
+        const { primary, overflow, labels } = getCategoryBadgeSummary(row.original.categoryTags)
         if (!primary) {
           return <span className="text-muted-foreground text-xs">-</span>
         }
@@ -146,6 +157,37 @@ export function getSupplierColumns({ t, tCommon, onView, onEdit, onToggleStatus 
       enableSorting: true
     },
     {
+      id: 'pinStatus',
+      header: ({ column }) => <DataTableColumnHeader column={column} title={t('table.pinStatus')} />,
+      cell: ({ row }) => {
+        const item = row.original
+        const summary = pinStatusMap.get(item.id)
+        if (!summary || !summary.hasAccess) {
+          return (
+            <StatusBadge variant="neutral" size="sm">
+              {t('table.pinStatusDetail.noAccess')}
+            </StatusBadge>
+          )
+        }
+        const variant = summary.pinStatus === 'active' ? 'success' : summary.pinStatus === 'must-change' ? 'warning' : 'destructive'
+        const label =
+          summary.pinStatus === 'active'
+            ? t('table.pinStatusDetail.active')
+            : summary.pinStatus === 'must-change'
+              ? t('table.pinStatusDetail.mustChange')
+              : t('table.pinStatusDetail.locked')
+        return (
+          <StatusBadge
+            variant={variant}
+            size="sm"
+            title={summary.lastLoginAt ? t('table.pinStatusDetail.lastLogin', { date: summary.lastLoginAt }) : undefined}
+          >
+            {label}
+          </StatusBadge>
+        )
+      }
+    },
+    {
       id: 'actions',
       header: () => <div className="text-center">{t('table.columns.actions')}</div>,
       cell: ({ row }) => {
@@ -154,6 +196,7 @@ export function getSupplierColumns({ t, tCommon, onView, onEdit, onToggleStatus 
           <div className="flex items-center justify-center gap-1">
             <ActionButton variant="view" label={t('actions.view')} onClick={() => onView(item)} />
             <ActionButton variant="edit" label={t('actions.edit')} onClick={() => onEdit(item)} />
+            <ActionButton variant="custom" icon={Key} label={t('actions.issuePin')} onClick={() => onIssuePin(item)} className="size-7" />
             <ActionButton
               variant={item.active ? 'archive' : 'restore'}
               label={item.active ? t('actions.archive') : t('actions.restore')}

@@ -6,26 +6,30 @@ import { useRouter } from 'next/navigation'
 import type { SupplierRecord } from '@/types/scm/supplier'
 import type { ReactElement, ReactNode } from 'react'
 
-export type SupplierDialogType = 'archive' | 'restore' | 'delete' | null
+export type SupplierDialogType = 'none' | 'add' | 'edit' | 'archive' | 'restore' | 'pin'
 
-export interface SupplierContextType {
-  open: SupplierDialogType
-  setOpen: (type: SupplierDialogType) => void
+interface SupplierContextValue {
+  open: SupplierDialogType | null
+  setOpen: (type: SupplierDialogType | null) => void
   selectedSupplier: SupplierRecord | null
   setSelectedSupplier: (supplier: SupplierRecord | null) => void
+  isLoading: boolean
+  setIsLoading: (loading: boolean) => void
   handleCreate: () => void
   handleEdit: (supplier: SupplierRecord) => void
   handleView: (supplier: SupplierRecord) => void
   handleDelete: (supplier: SupplierRecord) => void
   handleToggleStatus: (supplier: SupplierRecord) => void
+  handleIssuePin: (supplier: SupplierRecord) => void
 }
 
-const SupplierContext = createContext<SupplierContextType | null>(null)
+const SupplierContext = createContext<SupplierContextValue | null>(null)
 
 export function SupplierProvider({ children }: { children: ReactNode }): ReactElement {
   const router = useRouter()
-  const [open, setOpen] = useState<SupplierDialogType>(null)
+  const [open, setOpen] = useState<SupplierDialogType | null>('none')
   const [selectedSupplier, setSelectedSupplier] = useState<SupplierRecord | null>(null)
+  const [isLoading, setIsLoading] = useState(false)
 
   const handleCreate = useCallback(() => {
     router.push('/scm/suppliers/create')
@@ -55,26 +59,30 @@ export function SupplierProvider({ children }: { children: ReactNode }): ReactEl
     setOpen(supplier.active ? 'archive' : 'restore')
   }, [])
 
-  return (
-    <SupplierContext.Provider
-      value={{
-        open,
-        setOpen,
-        selectedSupplier,
-        setSelectedSupplier,
-        handleCreate,
-        handleEdit,
-        handleView,
-        handleDelete,
-        handleToggleStatus
-      }}
-    >
-      {children}
-    </SupplierContext.Provider>
-  )
+  const handleIssuePin = useCallback((supplier: SupplierRecord) => {
+    setSelectedSupplier(supplier)
+    setOpen('pin')
+  }, [])
+
+  const value: SupplierContextValue = {
+    open,
+    setOpen,
+    selectedSupplier,
+    setSelectedSupplier,
+    isLoading,
+    setIsLoading,
+    handleCreate,
+    handleEdit,
+    handleView,
+    handleDelete,
+    handleToggleStatus,
+    handleIssuePin
+  }
+
+  return <SupplierContext.Provider value={value}>{children}</SupplierContext.Provider>
 }
 
-export function useSupplierContext(): SupplierContextType {
+export function useSupplierContext(): SupplierContextValue {
   const context = useContext(SupplierContext)
   if (!context) {
     throw new Error('useSupplierContext must be used within a SupplierProvider')
@@ -82,4 +90,4 @@ export function useSupplierContext(): SupplierContextType {
   return context
 }
 
-export const useSuppliers = useSupplierContext
+export type SupplierContextType = SupplierContextValue

@@ -54,10 +54,10 @@ export function IdentityCard({ supplier }: IdentityCardProps): ReactElement {
         <DetailRow
           label={t('detail.labels.categories')}
           value={
-            supplier.categoryNames.length > 0 ? (
+            supplier.categoryTags.length > 0 ? (
               <span className="flex flex-wrap gap-1.5">
-                {supplier.categoryNames.map((name) => (
-                  <DataBadge key={name}>{name}</DataBadge>
+                {supplier.categoryTags.map((tag) => (
+                  <DataBadge key={tag.id}>{tag.name}</DataBadge>
                 ))}
               </span>
             ) : (

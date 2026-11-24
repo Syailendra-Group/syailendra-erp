@@ -16,7 +16,6 @@ import { SelectForm } from '@/components/form/select-form'
 import { SwitchField } from '@/components/form/switch-field'
 import { TextField } from '@/components/form/text-field'
 import { ImageDropzone } from '@/components/image/image-dropzone'
-import { MediaSection } from '@/components/image/media-section'
 import { DetailRow } from '@/components/shared/detail-row'
 import { CopyableText } from '@/components/text'
 import { useSupplierCategoryOptions } from '@/hooks/scm/use-supplier-categories'
@@ -24,7 +23,7 @@ import { useSupplierTypeOptions } from '@/hooks/scm/use-supplier-types'
 
 import type { SupplierSectionProps } from '@/types/scm/supplier-form'
 
-export function IdentitySection({ form, digitalCode, recordId, disabled = false, isEdit = false }: SupplierSectionProps) {
+export function IdentitySection({ form, digitalCode, disabled = false, isEdit = false }: Omit<SupplierSectionProps, 'recordId'>) {
   const t = useTranslations('scm.suppliers')
   const { data: categoryOptions = [] } = useSupplierCategoryOptions()
   const { data: supplierTypeOptions = [] } = useSupplierTypeOptions()
@@ -157,7 +156,6 @@ export function IdentitySection({ form, digitalCode, recordId, disabled = false,
           disabled={disabled}
         />
       </FormFieldWrapper>
-      {recordId ? <MediaSection model="res.partner" recordId={recordId} role="gallery" aspectRatio={1} disabled={disabled} /> : null}
 
       <SwitchField
         id="supplierTypeVerified"

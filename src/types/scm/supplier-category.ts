@@ -33,6 +33,12 @@ export interface SupplierCategoryListResponse {
   totalPages: number
 }
 
+/** Category identity plus its display label, so badges count ids rather than names. */
+export interface SupplierCategoryTag {
+  id: number
+  name: string
+}
+
 export interface SupplierCategoryOption {
   id: number
   name: string

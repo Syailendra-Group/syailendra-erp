@@ -5,6 +5,7 @@
 
 import { odooClient } from '@/lib/odoo/client'
 
+import { assertAssignableCategoryIds, resolveCategoryTags } from './supplier-category-assignment'
 import { buildSupplierComment, mapOdooSupplierToRecord, SUPPLIER_FIELDS } from './supplier-metadata'
 
 import type { SupplierFormValues, SupplierListResponse, SupplierRecord } from '@/types/scm/supplier'
@@ -79,7 +80,7 @@ export class SupplierService {
         )
       : []
     const imageIds = new Set(imageRows.map((row) => row.id))
-    const items = (await SupplierService.attachCategoryNames(rawRecords.map(mapOdooSupplierToRecord))).map((item) => ({
+    const items = (await SupplierService.attachCategoryTags(rawRecords.map(mapOdooSupplierToRecord))).map((item) => ({
       ...item,
       imageUrl: imageIds.has(item.id) ? `/api/odoo/image/res.partner/${item.id}/image_128?size=128` : null
     }))
@@ -104,7 +105,7 @@ export class SupplierService {
       return null
     }
 
-    const mapped = await SupplierService.attachCategoryNames([mapOdooSupplierToRecord(records[0])])
+    const mapped = await SupplierService.attachCategoryTags([mapOdooSupplierToRecord(records[0])])
     const record = mapped[0]
     const imageRows = await odooClient.searchRead<{ id: number }>(
       this.MODEL,
@@ -120,27 +121,23 @@ export class SupplierService {
 
   /**
    * Resolve official category labels from category_id (single source of truth)
-   * instead of the legacy JSON comment snapshot.
+   * instead of the legacy JSON comment snapshot. Labels keep their ids so the
+   * table counter never collapses two distinct categories that share a name.
    */
-  private static async attachCategoryNames(items: SupplierRecord[]): Promise<SupplierRecord[]> {
+  private static async attachCategoryTags(items: SupplierRecord[]): Promise<SupplierRecord[]> {
     const ids = Array.from(new Set(items.flatMap((item) => item.categoryIds)))
     if (!ids.length) return items
 
-    try {
-      const categories = await odooClient.searchRead<{ id: number; name: string }>('res.partner.category', [['id', 'in', ids]], ['id', 'name'], {
-        limit: ids.length
-      })
-      const labels = new Map(categories.map((category) => [category.id, category.name]))
-      return items.map((item) => ({
-        ...item,
-        categoryNames: item.categoryIds.map((id) => labels.get(id)).filter((name): name is string => Boolean(name))
-      }))
-    } catch {
-      return items
-    }
+    const tags = await resolveCategoryTags(ids)
+    return items.map((item) => {
+      const itemTags = tags.filter((tag) => item.categoryIds.includes(tag.id))
+      return { ...item, categoryNames: itemTags.map((tag) => tag.name), categoryTags: itemTags }
+    })
   }
 
   static async createSupplier(values: SupplierFormValues): Promise<number> {
+    await assertAssignableCategoryIds(values.categoryIds)
+
     const metadata: SupplierMetadataJson = {
       bankName: values.bankName?.trim(),
       accountNumber: values.accountNumber?.trim(),
@@ -199,6 +196,10 @@ export class SupplierService {
   }
 
   static async updateSupplier(id: number, values: Partial<SupplierFormValues>): Promise<boolean> {
+    if (values.categoryIds !== undefined) {
+      await assertAssignableCategoryIds(values.categoryIds)
+    }
+
     const existing = await this.getSupplierById(id)
     if (!existing) {
       throw new Error('Supplier record not found')

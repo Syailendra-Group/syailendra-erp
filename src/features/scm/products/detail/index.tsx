@@ -54,8 +54,11 @@ export function ProductDetail({ product }: ProductDetailProps): ReactElement {
         }
         actions={<LinkButton href={`/scm/products/${product.id}/edit`} icon={Edit2} label={t('detail.edit')} />}
       />
+
       <SummaryCardGrid items={summary} />
+
       <EntityIdentityCell name={product.name} secondary={product.commercial_name} imageUrl={product.imageUrl} className="max-w-96" />
+
       <div className="grid grid-cols-1 items-start gap-4 xl:grid-cols-2">
         <SectionCard title={t('sections.commercialAndBotanical')} description={t('detail.identityDescription')} icon={Package}>
           <div className="grid grid-cols-1 gap-x-8 md:grid-cols-2">
@@ -71,6 +74,7 @@ export function ProductDetail({ product }: ProductDetailProps): ReactElement {
             <DetailRow label={t('fields.description')} value={product.description || '-'} />
           </div>
         </SectionCard>
+
         <SectionCard title={t('sections.exportCompliance')} description={t('detail.exportDescription')} icon={ShieldCheck}>
           <div className="grid grid-cols-1 gap-x-8 md:grid-cols-2">
             <DetailRow label={t('fields.casNumber')} value={product.cas_number || '-'} mono />
@@ -80,6 +84,7 @@ export function ProductDetail({ product }: ProductDetailProps): ReactElement {
           </div>
         </SectionCard>
       </div>
+
       <SectionCard title={t('sections.qcStandards')} description={t('detail.qcDescription')} icon={Sparkles}>
         <div className="grid grid-cols-1 gap-x-8 md:grid-cols-2">
           <DetailRow label={t('fields.relativeDensity')} value={product.qc_specs?.relative_density_20c || '-'} mono />
@@ -94,6 +99,7 @@ export function ProductDetail({ product }: ProductDetailProps): ReactElement {
           <DetailRow label={t('fields.keyCompounds')} value={product.qc_specs?.key_compounds || '-'} />
         </div>
       </SectionCard>
+
       <MediaGallery model="product.template" recordId={product.id} role="product" readOnly legacyImageUrl={product.imageUrl} />
     </div>
   )

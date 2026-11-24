@@ -6,6 +6,7 @@ import { useTranslations } from 'next-intl'
 
 import { DataTable } from '@/components/data-table'
 import { useSupplierContext } from '@/contexts/scm/supplier.context'
+import { usePartnerAccessMap } from '@/hooks/scm/use-supplier-access'
 import { useSupplierCategoryOptions } from '@/hooks/scm/use-supplier-categories'
 import { useSupplierTypeOptions } from '@/hooks/scm/use-supplier-types'
 import { useSuppliers } from '@/hooks/scm/use-suppliers'
@@ -23,7 +24,7 @@ export function SuppliersTable(): ReactElement {
   const tCommon = useTranslations('common')
 
   // Context and action handlers
-  const { handleView, handleEdit, handleToggleStatus } = useSupplierContext()
+  const { handleView, handleEdit, handleToggleStatus, handleIssuePin } = useSupplierContext()
 
   // URL state controller
   const {
@@ -83,10 +84,23 @@ export function SuppliersTable(): ReactElement {
   const items = useMemo(() => data?.items ?? [], [data?.items])
   const total = data?.total ?? 0
 
+  // PIN access map via server action (SCM manager gate)
+  const supplierIds = items.map((item) => item.id)
+  const { data: pinAccessMap, isLoading: isPinMapLoading } = usePartnerAccessMap(supplierIds)
+
   // Column definitions
   const columns = useMemo(
-    () => getSupplierColumns({ tCommon, t, onView: handleView, onEdit: handleEdit, onToggleStatus: handleToggleStatus }),
-    [t, tCommon, handleView, handleEdit, handleToggleStatus]
+    () =>
+      getSupplierColumns({
+        tCommon,
+        t,
+        onView: handleView,
+        onEdit: handleEdit,
+        onToggleStatus: handleToggleStatus,
+        pinStatusMap: pinAccessMap ?? new Map(),
+        onIssuePin: handleIssuePin
+      }),
+    [t, tCommon, handleView, handleEdit, handleToggleStatus, pinAccessMap, handleIssuePin]
   )
 
   // Filter options
@@ -176,7 +190,7 @@ export function SuppliersTable(): ReactElement {
   return (
     <DataTable
       table={table}
-      showSkeleton={isLoading}
+      showSkeleton={isLoading || isPinMapLoading}
       isUpdating={isUpdating}
       searchPlaceholder={t('actions.filter')}
       onReset={resetFilters}

@@ -24,7 +24,7 @@ export function ContactCard({ supplier }: ContactCardProps): ReactElement {
   return (
     <div className="grid grid-cols-1 items-start gap-6 lg:grid-cols-2">
       <SectionCard title={t('detail.sections.contact')} description={t('detail.sections.contactDesc')} icon={Phone}>
-        <div className="grid grid-cols-1 gap-x-8 gap-y-0 sm:grid-cols-2">
+        <div className="space-y-2">
           <DetailRow label={t('detail.labels.mobile')} value={supplier.mobile || '-'} mono />
           <DetailRow label={t('detail.labels.phone')} value={supplier.phone || '-'} mono />
           <DetailRow label={t('detail.labels.email')} value={supplier.email || '-'} />
@@ -36,7 +36,7 @@ export function ContactCard({ supplier }: ContactCardProps): ReactElement {
       </SectionCard>
 
       <SectionCard title={t('detail.sections.finance')} description={t('detail.sections.financeDesc')} icon={Banknote}>
-        <div className="grid grid-cols-1 gap-x-8 gap-y-0 sm:grid-cols-2">
+        <div className="space-y-2">
           <DetailRow
             label={t('detail.labels.paymentTerm')}
             value={t(`paymentTerms.${supplier.paymentTerm === 'COD' ? 'cod' : 'paidBeforeShipment'}`)}

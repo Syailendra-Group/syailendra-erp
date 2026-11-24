@@ -9,7 +9,8 @@
     "restore": "Pulihkan Pemasok",
     "view": "Lihat Rincian",
     "refresh": "Segarkan",
-    "filter": "Filter Pemasok"
+    "filter": "Filter Pemasok",
+    "issuePin": "Ubah PIN"
   },
   "table": {
     "columns": {
@@ -24,6 +25,14 @@
       "actions": "Aksi",
       "supplierType": "Jenis Supplier",
       "needsReview": "Perlu Review"
+    },
+    "pinStatus": "Status PIN",
+    "pinStatusDetail": {
+      "noAccess": "Belum ada akses",
+      "active": "PIN aktif",
+      "mustChange": "Wajib ganti PIN",
+      "locked": "Terkunci",
+      "lastLogin": "Login terakhir: {date}"
     },
     "status": {},
     "emptyState": "Belum ada pemasok terdaftar.",
@@ -188,7 +197,26 @@
     "createTitle": "Tambah Pemasok Baru",
     "createDescription": "Daftarkan profil mitra pemasok bahan baku, kemasan, atau jasa ke sistem.",
     "editTitle": "Ubah Data Pemasok",
-    "editDescription": "Perbarui profil legalitas, kategori, kontak, atau rekening bank pemasok."
+    "editDescription": "Perbarui profil legalitas, kategori, kontak, atau rekening bank pemasok.",
+    "pin": {
+      "title": "Setel PIN Mitra",
+      "description": "Generate PIN akses portal untuk mitra {name}. PIN akan ditampilkan sekali saja setelah dibuat.",
+      "descriptionShort": "PIN akses portal untuk {name}",
+      "fields": {
+        "generateLabel": "Generate PIN otomatis",
+        "generateHint": "PIN akan dihasilkan oleh sistem",
+        "generateNotice": "PIN 6 digit akan dihasilkan secara acak dan hanya ditampilkan sekali.",
+        "pinLabel": "PIN Mitra",
+        "pinNotice": "PIN hanya ditampilkan sekali. Salin dan berikan kepada mitra."
+      },
+      "buttons": {
+        "generate": "Generate PIN Baru",
+        "close": "Tutup"
+      },
+      "messages": {
+        "oneTime": "PIN hanya ditampilkan sekali. Pastikan Anda menyalinnya sebelum menutup dialog ini."
+      }
+    }
   },
   "validation": {
     "refMin": "Kode pemasok minimal 3 karakter",
@@ -214,7 +242,10 @@
     "deleteError": "Gagal memproses data pemasok",
     "deleteErrorRelational": "Pemasok ini tidak dapat dihapus karena sudah memiliki riwayat transaksi atau penerimaan barang di sistem.",
     "createError": "Gagal mendaftarkan pemasok",
-    "updateError": "Gagal memperbarui data pemasok"
+    "updateError": "Gagal memperbarui data pemasok",
+    "pinIssued": "PIN berhasil dibuat untuk {name}",
+    "pinCopied": "PIN disalin ke papan klip",
+    "pinIssueError": "Gagal membuat PIN"
   },
   "detail": {
     "notFound": "Data pemasok tidak ditemukan",

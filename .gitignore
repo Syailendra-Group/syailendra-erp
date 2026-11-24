@@ -63,3 +63,10 @@ __pycache__/
 
 # transient agent probe files
 .agents/**/.probe*
+
+# local archive and generated document-extraction artifacts
+/docs.tgz
+/extracted/
+
+# source exports contain supplier PII (NIK, NPWP, phone, email)
+/xlsx/

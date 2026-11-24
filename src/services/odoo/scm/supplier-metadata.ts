@@ -196,6 +196,7 @@ export function mapOdooSupplierToRecord(item: OdooPartnerSupplierRaw): SupplierR
     companyType: isCompany ? 'company' : 'person',
     categoryIds: Array.isArray(item.category_id) ? item.category_id : [],
     categoryNames: meta.categoryNames || [],
+    categoryTags: [],
     supplierTypeId: firstId(item.supplier_type_id) ?? null,
     supplierTypeName: firstName(item.supplier_type_id),
     needsReview: Boolean(item.supplier_type_needs_review),

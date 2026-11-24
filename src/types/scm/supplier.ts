@@ -3,6 +3,8 @@
  * Syailendra Group ERP (SCM Pillar)
  */
 
+import type { SupplierCategoryTag } from '@/types/scm/supplier-category'
+
 export type SupplierCompanyType = 'company' | 'person'
 export type SupplierPaymentTerm = 'COD' | 'PAID_BEFORE_SHIPMENT'
 export type SupplierGrade = 'a' | 'b' | 'c' | 'd'
@@ -21,6 +23,7 @@ export interface SupplierRecord {
   companyType: SupplierCompanyType
   categoryIds: number[]
   categoryNames: string[]
+  categoryTags: SupplierCategoryTag[]
   supplierTypeId: number | null
   supplierTypeName?: string
   supplierTypeCode?: string

@@ -80,7 +80,7 @@ export function DistilleryDetail({ distillery }: DistilleryDetailProps): ReactEl
 
       <div className="grid grid-cols-1 items-start gap-4 xl:grid-cols-2">
         <SectionCard title={t('sections.identity')} description={t('sections.identityDesc')} icon={Factory}>
-          <div className="grid grid-cols-1 gap-x-8 gap-y-0 md:grid-cols-2">
+          <div className="space-y-2">
             <DetailRow label={t('details.labels.code')} value={distillery.code} mono />
             <DetailRow label={t('details.labels.partner')} value={distillery.partnerName || '-'} />
             <DetailRow
@@ -100,7 +100,7 @@ export function DistilleryDetail({ distillery }: DistilleryDetailProps): ReactEl
         </SectionCard>
 
         <SectionCard title={t('sections.spec')} description={t('sections.specDesc')} icon={Flame}>
-          <div className="grid grid-cols-1 gap-x-8 gap-y-0 md:grid-cols-2">
+          <div className="space-y-2">
             <DetailRow label={t('details.labels.method')} value={t(`methods.${distillery.distillationMethod}`)} />
             <DetailRow label={t('details.labels.fuel')} value={t(`fuels.${distillery.fuelType}`)} />
             <DetailRow label={t('details.labels.boilerMaterial')} value={t(`materials.${distillery.boilerMaterial}`)} />
@@ -141,14 +141,6 @@ export function DistilleryDetail({ distillery }: DistilleryDetailProps): ReactEl
         </div>
       </SectionCard>
 
-      <MediaGallery
-        model="syailendra.distillery"
-        recordId={distillery.id}
-        role="facility"
-        readOnly
-        legacyImageUrl={`/api/odoo/image/syailendra.distillery/${distillery.id}/photo_distillery?size=512`}
-      />
-
       <div className="grid grid-cols-1 items-start gap-4 lg:grid-cols-2">
         <AddressCard
           title={t('sections.location')}
@@ -169,6 +161,14 @@ export function DistilleryDetail({ distillery }: DistilleryDetailProps): ReactEl
           markerPopup={distillery.addressDetail || undefined}
         />
       </div>
+
+      <MediaGallery
+        model="syailendra.distillery"
+        recordId={distillery.id}
+        role="facility"
+        readOnly
+        legacyImageUrl={`/api/odoo/image/syailendra.distillery/${distillery.id}/photo_distillery?size=512`}
+      />
     </div>
   )
 }
